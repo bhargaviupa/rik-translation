@@ -81,6 +81,7 @@ def apply(vol, write):
         elif tokens(j['a_tail'] + ' ' + j['b_head']) != tokens(an + ' ' + bn): why = 'a figure or an Indic letter differs'
         elif len((an + ' ' + bn).split()) > len((j['a_tail'] + ' ' + j['b_head']).split()) + 25: why = 'more than 25 words added'
         elif not an.strip() and not bn.strip(): why = 'empty answer'
+        elif j['kind'] == 'M' and len(an.split()) < len(j['a_tail'].split()) - 2: why = 'words dropped from a line inside a page'
         if why: stat['refused'] += 1; rows.append((j, 'refused', an, bn, why)); continue
         L[j['a_line'] - 1] = la[:len(la) - len(j['a_tail'])] + an
         if j['b_line'] and bn != j['b_head']: L[j['b_line'] - 1] = bn + lb[len(j['b_head']):]

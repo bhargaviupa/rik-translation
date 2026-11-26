@@ -348,7 +348,7 @@ In the time of the Mahābhārata there was, to the west of Bhārata, a large pro
 
 ### Many names of the clan, gotra and father
 
-According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (3-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (7-51) in this very manner…
+According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (3-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (7-51) in this very manner
 
 ### Page 103
 
@@ -1186,11 +1186,11 @@ That is: Vaiśampāyana has the name Caraka. Yājñavalkya was the sister's [son
 
 ### Vaiśampāyana's span of life
 
-Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long time. According to the Ādi-parvan (1-57), at a place called Takṣaśilā, after the snake-sacrifice, at Vyāsa's command he narrated the story of the Bhārata to Janamejaya. King Janamejaya [went over to the] Śukla Yaju[rveda …] (the sentence continues on the next page).
+Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long time. According to the Ādi-parvan (1-57), at a place called Takṣaśilā, after the snake-sacrifice, at Vyāsa's command he narrated the story of the Bhārata to Janamejaya. King Janamejaya made
 
 ### Page 123
 
-...to Śukla Yajurveda [continued from p. 122]: it is told in a story that Vaiśampāyana, angry with Yājñavalkya and the other Vājasaneyas — students of the branch of the Veda, whom he had made his priests at his sacrifices and the like — cursed them to be destroyed. Vaiśampāyana's lifetime and Yājñavalkya's lifetime may have been about equal. After he had studied the Kṛṣṇa Yajurveda from Vyāsa, he had it studied by his many pupils, and from those pupils the Kṛṣṇa Yajurveda came to have 86 branches.
+the Vājasaneyas, students of the branch of the Śukla Yajurveda [continued from p. 122], his priests at his sacrifices and the like; it is told in a story that Vaiśampāyana, angry with Yājñavalkya and the other Vājasaneyas, cursed them to be destroyed. Vaiśampāyana's lifetime and Yājñavalkya's lifetime may have been about equal. After he had studied the Kṛṣṇa Yajurveda from Vyāsa, he had it studied by his many pupils, and from those pupils the Kṛṣṇa Yajurveda came to have 86 branches.
 
 Śabarasvāmin, who wrote the bhāṣya on the Pūrva-mīmāṃsā-sūtra, in citing the authority of some ancient work in his bhāṣya (1-1-30), writes:
 
@@ -1278,11 +1278,11 @@ Now only the branches found among the branches of the Kṛṣṇa Yajurveda will
 
 It cannot be said with certainty what the original Caraka-saṃhitā of Vaiśampāyana (Kṛṣṇa Yajurveda) was like. A "Caraka-saṃhitā" is mentioned only here and there in works such as the Caraṇa-vyūha.
 
-In his bhāṣya on Yajurveda 7-23 and 25-27, the commentator Uvaṭa quotes some mantras as mantras of the Caraka-saṃhitā. In the Kātyāyana Prātiśākhya-bhāṣya (4-167) too, Uvaṭa has written the rules of sandhi for the mantras of the Caraka-saṃhitā. Statements of the Caraka-brāhmaṇa also (continued on the next page).
+In his bhāṣya on Yajurveda 7-23 and 25-27, the commentator Uvaṭa quotes some mantras as mantras of the Caraka-saṃhitā. In the Kātyāyana Prātiśākhya-bhāṣya (4-167) too, Uvaṭa has written the rules of sandhi for the mantras of the Caraka-saṃhitā. Statements of the Caraka-brāhmaṇa also
 
 ### Page 125
 
-...are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
+are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
 
 > इति श्रीमद्यजुषि काठके चरकशाखायाम् ।
 >
@@ -1364,11 +1364,11 @@ and, having written so, he states that Ārcābhi is one particular branch of the
 
 In describing the branches of the Ṛgveda a branch by the name Āruṇi was mentioned. It is still a matter of inference whether this branch belongs to the Ṛgveda or to the Yajurveda, or whether there is a branch of this name in each of the two Vedas. The real name of the Yajurvedic branch may be Āsuri-śākhā. In the Brahmāṇḍa Purāṇa, in place of the place-name "Āruṇi", a variant reading "Āsurī" occurs. A teacher named Āsurī is also known among the propagators of the branches of the Yajurveda. In the Anuśāsana-parvan (48-176) the name of a sage Tāṇḍi is found; it occurs also in the 47th chapter of the same parvan, and in other chapters this person's name occurs. In the Mahābhāṣya (4-1-19) there is the statement "Āsurīyaḥ kalpaḥ" [the Āsurīya ritual manual].
 
-In the Śānti-parvan of the Mahābhārata (344-7) the name of the sage Tāṇḍya appears in the sacrifice of King Uparicara Vasu. In the Śatapatha-brāhmaṇa also (6-1-2-25) there is mention of his name. The Sāma... (the sentence continues on the next page).
+In the Śānti-parvan of the Mahābhārata (344-7) the name of the sage Tāṇḍya appears in the sacrifice of King Uparicara Vasu. In the Śatapatha-brāhmaṇa also (6-1-2-25) there is mention of his name. There is a Tāṇḍya-brāhmaṇa
 
 ### Page 127
 
-...(continued) Just as a Tāṇḍya-brāhmaṇa is connected with the Sāmaveda, so the sage Taṇḍi or Tāṇḍya connected with the Sāmaveda, and Tāṇḍya the author of a branch of the Yajurveda — whether these are different persons or one and the same teacher is a matter worthy of inquiry.
+connected with the Sāmaveda. The sage Taṇḍi or Tāṇḍya connected with the Sāmaveda, and Tāṇḍya the author of a branch of the Yajurveda — whether these are different persons or one and the same teacher is a matter worthy of inquiry.
 
 ## 8. Śyāmāyana branch
 
@@ -1538,11 +1538,11 @@ From this some infer that the names Maitrāyaṇa and Kalāpi relate to one and 
 >
 > "For the Maitrāyaṇī branch is not wholly different from the Kāṭhaka."
 
-That is: the Maitrāyaṇīya branch has not much difference from the Kāṭhaka branch either. For the reasons stated above, the names Maitrāyaṇīya and Kālāpa branches [are one] (the sentence continues on the next page).
+That is: the Maitrāyaṇīya branch has not much difference from the Kāṭhaka branch either. For the reasons stated above, the Maitrāyaṇīya and Kālāpa branches may be
 
 ### Page 131
 
-...one saṃhitā having two names. But since it is also said that the Maitrāyaṇīya and Kālāpa are two different saṃhitās, and that there is no difference between the two saṃhitās, it may be inferred that these are different branches.
+one saṃhitā having two names. But since it is also said that the Maitrāyaṇīya and Kālāpa are two different saṃhitās, and that there is no difference between the two saṃhitās, it may be inferred that these are different branches.
 
 If the Maitrāyaṇīya and Kālāpa branches are different, the Kālāpa-saṃhitā and Kālāpa-brāhmaṇas are not found by us. Now let us describe the branches beginning with Haridru as far as possible.
 
@@ -1600,11 +1600,11 @@ A manuscript of the Kapiṣṭhala-kaṭha Gṛhya-sūtra is in the Sarasvatī-b
 
 ## 18. Cārāyaṇīya branch
 
-Those born in the gotra of the sage Cara are called Cārāyaṇas. The name of the sage Cara is mentioned in Pāṇini's Gaṇapāṭha (4-1-99). In Devapāla's commentary on the Gṛhya-sūtra the names Cārāyaṇīya-gṛhya and Kāṭhaka-gṛhya are used in places. Since the two branches differ little, the followers of the two branches may have studied the same bhāṣya; hence the names of the two sūtras may have been used in this bhāṣya. The Cārāyaṇīya branch was a renowned branch. The need for an independent Gṛhya-sūtra for it is indeed proper. A work called Mantrārṣādhyāya of the Cārāyaṇīya branch is still found. A manuscript of this work is in the Lahore Dayānanda College and another in the Berlin Royal Library (continued).
+Those born in the gotra of the sage Cara are called Cārāyaṇas. The name of the sage Cara is mentioned in Pāṇini's Gaṇapāṭha (4-1-99). In Devapāla's commentary on the Gṛhya-sūtra the names Cārāyaṇīya-gṛhya and Kāṭhaka-gṛhya are used in places. Since the two branches differ little, the followers of the two branches may have studied the same bhāṣya; hence the names of the two sūtras may have been used in this bhāṣya. The Cārāyaṇīya branch was a renowned branch. The need for an independent Gṛhya-sūtra for it is indeed proper. A work called Mantrārṣādhyāya of the Cārāyaṇīya branch is still found. A manuscript of this work is in the Lahore Dayānanda College and another in the Berlin Royal Library
 
 ### Page 133
 
-...as well. It is learnt that this work was printed at Lahore recently. The matters noted below have been learnt from study of this Mantrārṣādhyāya:
+as well. It is learnt that this work was printed at Lahore recently. The matters noted below have been learnt from study of this Mantrārṣādhyāya:
 
 (1) In the Cārāyaṇīya-saṃhitā there were divisions called *anuvāka* and *sthānaka*. At the beginning of this work it is said — "*goṣadasi* ityanuvākadvayaṃ savituś śyāvāśvasya" [the two anuvākas "Goṣad asi…", of Savitṛ Śyāvāśva] —; and at the end of the 40th khaṇḍa it is written "*sthā*".
 
@@ -1912,11 +1912,11 @@ Printed total: "In the Taittirīya Brāhmaṇa the total adhyāyas are 28, anuv�
 
 ### Relation of the Taittirīya and Kaṭha branches
 
-It is learnt that the Taittirīya and Kaṭha branches had much connection from the beginning. In the Kāṇḍānukramaṇī it is said that adhyāyas 10–12 of the third kāṇḍa of the Taittirīya Brāhmaṇa are called Kāṭhakas. The text of the Taittirīya branch has ended at the end of the 9th (continued)
+It is learnt that the Taittirīya and Kaṭha branches had much connection from the beginning. In the Kāṇḍānukramaṇī it is said that adhyāyas 10–12 of the third kāṇḍa of the Taittirīya Brāhmaṇa are called Kāṭhakas. The text of the Taittirīya branch has ended at the end of the 9th
 
 ### Page 140
 
-...adhyāya of the third kāṇḍa. The remaining three adhyāyas belong to the Kaṭha branch. The relation of the Laugākṣi-smṛti to the Kaṭha branch is special. But even in it, in the extensive description of the division into kāṇḍas, it is said that these two branches have a special relation.
+adhyāya of the third kāṇḍa. The remaining three adhyāyas belong to the Kaṭha branch. The relation of the Laugākṣi-smṛti to the Kaṭha branch is special. But even in it, in the extensive description of the division into kāṇḍas, it is said that these two branches have a special relation.
 
 There are two sub-divisions in the Taittirīya branch. They are now told.
 
@@ -2547,11 +2547,11 @@ The name of this branch occurs in the Tāṇḍya-brāhmaṇa (2-15-4).
 
 ## 16. Śāṇḍilyas
 
-In the bhāṣya on the Āpastamba Śrauta-sūtra written by Rudradatta (9-11-21) there is a statement of the Śāṇḍilya Gṛhya-sūtra. In the Kalpa-sūtras of Lāṭyāyana, Drāhyāyaṇa and others the ācārya Śāṇḍilya... (the sentence continues on the next page).
+In the bhāṣya on the Āpastamba Śrauta-sūtra written by Rudradatta (9-11-21) there is a statement of the Śāṇḍilya Gṛhya-sūtra. In the Kalpa-sūtras of Lāṭyāyana, Drāhyāyaṇa and others
 
 ### Page 155
 
-...[the ācārya Śāṇḍilya] — many statements are quoted as the opinion of the ācārya. Therefore the Śāṇḍilya Gṛhya-sūtra may well be the Gṛhya-sūtra of the Sāma branch. According to the work called Ānanda-saṃhitā, Śāṇḍilya was a sūtra-author of a Yajus branch. The name of Suyajña-Śāṇḍilya is quoted in the Jaiminīya Upaniṣad-brāhmaṇa (4-17-1).
+many statements are quoted as the opinion of the ācārya Śāṇḍilya. Therefore the Śāṇḍilya Gṛhya-sūtra may well be the Gṛhya-sūtra of the Sāma branch. According to the work called Ānanda-saṃhitā, Śāṇḍilya was a sūtra-author of a Yajus branch. The name of Suyajña-Śāṇḍilya is quoted in the Jaiminīya Upaniṣad-brāhmaṇa (4-17-1).
 
 ## 17. Tāṇḍyas
 
@@ -4164,11 +4164,11 @@ In describing the history of the commentators on the Ṛgveda, the time of Rāva
 
 (time about 1587 C.E.)
 
-He was a resident of Kāśī. He wrote a Tantra work called *Mantra-mahodadhi*, and a commentary on it too. But in these no capacity of his own is seen. His is like a shadow of Uvaṭa's commentary. There is only this much difference between the two. In Uvaṭa's commentary (the sentence continues on the next page).
+He was a resident of Kāśī. He wrote a Tantra work called *Mantra-mahodadhi*, and a commentary on it too. But in these no capacity of his own is seen. His is like a shadow of Uvaṭa's commentary. There is only this much difference between the two. In Uvaṭa's commentary
 
 ### Page 265
 
-...there is no sign that he has quoted sentences of the Kātyāyana Śrauta-sūtra. But Mahīdhara has put everything into his commentary on the basis of Sāyaṇa's commentary on the Kāṇva-saṃhitā. Mahīdhara's commentary has no great excellence.
+there is no sign that he has quoted sentences of the Kātyāyana Śrauta-sūtra. But Mahīdhara has put everything into his commentary on the basis of Sāyaṇa's commentary on the Kāṇva-saṃhitā. Mahīdhara's commentary has no great excellence.
 
 A little discussion has been made about the time of this man. According to the view of some he was of the 12th century C.E. On this basis they quote the auspicious verse of the commentary:
 
@@ -4726,11 +4726,11 @@ In the series of publications of the Government Oriental Library, Mysore, this c
 
  "*Ataḥ param*" ("hereafter") — if it must be written "next, further on", then the commentary on the preceding parts must have been composed.
 
-In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the 4th kāṇḍa
+In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the remaining 4th kāṇḍa
 
 ### Page 276
 
-... of the rest. Therefore there is no doubt in saying that this Rudra commentary too is his, and a complete commentary can be found with a little effort.
+Therefore there is no doubt in saying that this Rudra commentary too is his, and a complete commentary can be found with a little effort.
 
 He may have been a Śaiva. In the auspicious verse he has made obeisance to Śiva. This commentary is of the best kind. The effort to print a pure and complete work is worthy of praise.
 

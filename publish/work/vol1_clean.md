@@ -8,11 +8,11 @@ As time passed, the country came under foreign rule and grew fragmented, and —
 
 About a hundred years ago, after India came under English rule, peace was established in the country, and the lethargy and despondency among the people gradually diminished; even as conditions returned toward their earlier state, the influence of English education brought about notable changes in people's conduct. People grew more interested both in learning English, the language of the rulers, and in imitating the civilization of other nations. Since Sanskrit learning offered no particular economic benefit and was difficult to pursue, ordinary people abandoned its study almost entirely; and, intoxicated with the little political/administrative language knowledge they had gained, they forgot their own earlier culture and glory, and even began to feel a quiet embarrassment about it. The importance of Sanskrit texts survived only in name here and there — known only to scholars, unknown to everyone else.
 
-It was at such a time — when our own people, unable to understand our own texts, viewed them with indifference — that many German, French, and English scholars, with great effort, studied Sanskrit (a foreign language to them) systematically and revealed the greatness of Sanskrit texts to the world. Our people, who until then had been in a state of slumber, were awakened by the publications and research of these Western scholars, grew curious to know the importance of their own texts, and began to study Sanskrit in a new way. From then on, Sanskrit study received special recognition, and many texts that had lain tarnished in obscurity got the opportunity to come to light. The art of printing, which was just then developing and advancing...
+It was at such a time — when our own people, unable to understand our own texts, viewed them with indifference — that many German, French, and English scholars, with great effort, studied Sanskrit (a foreign language to them) systematically and revealed the greatness of Sanskrit texts to the world. Our people, who until then had been in a state of slumber, were awakened by the publications and research of these Western scholars, grew curious to know the importance of their own texts, and began to study Sanskrit in a new way. From then on, Sanskrit study received special recognition, and many texts that had lain tarnished in obscurity got the opportunity to come to light. The art of printing, which was just then developing and advancing
 
 <div class="pgmark">original p. ii</div>
 
-...proved to be of great help to the publication of texts. Amid the study and research of Sanskrit texts, many German scholars — who took upon themselves the foundational and reverent task of researching Sanskrit texts of all kinds, going back to their most original and ancient forms — began, above all, to critically research and print the Vedas. Several Veda-related texts were first printed in Germany itself. Many scholars devoted their entire lives to the research and publication of just one or two texts. Foremost among such scholars was the German scholar Max Müller. He is said to have spent the greater part of his life — some 50 years — researching and printing the Rigveda. Government support for Vedic studies was minimal; even so, many Western scholars, out of pure scholarly enthusiasm, undertook new research and rendered great service to their own countries through new publications. That a single text's research should take some 50 years to complete shows how immense the scale of such work can be. For this reason, it is a welcome sign that scholars of this country devoted to Sanskrit studies, Vedic studies, and research work are increasing in number.
+proved to be of great help to the publication of texts. Amid the study and research of Sanskrit texts, many German scholars — who took upon themselves the foundational and reverent task of researching Sanskrit texts of all kinds, going back to their most original and ancient forms — began, above all, to critically research and print the Vedas. Several Veda-related texts were first printed in Germany itself. Many scholars devoted their entire lives to the research and publication of just one or two texts. Foremost among such scholars was the German scholar Max Müller. He is said to have spent the greater part of his life — some 50 years — researching and printing the Rigveda. Government support for Vedic studies was minimal; even so, many Western scholars, out of pure scholarly enthusiasm, undertook new research and rendered great service to their own countries through new publications. That a single text's research should take some 50 years to complete shows how immense the scale of such work can be. For this reason, it is a welcome sign that scholars of this country devoted to Sanskrit studies, Vedic studies, and research work are increasing in number.
 
 Examining the state of the country closely in the present context, Sanskrit knowledge is not widespread among the common people — it survives only in a few places and to a small degree, which has not been of much help even to Sanskrit's own popularization. Therefore, however excellent Sanskrit texts may be, their usefulness has not reached most people. In earlier times, every individual was expected, as part of family tradition and as a higher duty, to learn Sanskrit; but given the present condition of the country, everyone recognizes this is no longer feasible. For this reason, many learned people of earlier and present times have found it useful to translate excellent texts into their own regional languages for the public's benefit. But such translated works remain few. Most texts remain untranslated, and there has been little encouragement for translating important texts into Kannada. Only a handful have so far been published for public benefit. Beyond the material support needed for publishing, this gap has persisted largely for want of encouragement to translate and print major works such as the Vedas.
 
@@ -166,7 +166,7 @@ This work, now begun, will be published in about 25 parts of 1000 pages. The pre
 
 <div class="pgmark">original p. xi</div>
 
-...having carried through this work of translation and publication for the all-round advancement of the Kannada language — with the encouragement of scholars devoted to Vedic learning, the general public, and Karnataka's own enthroned ruler, our benefactor Sri Jayachamarajendra Wodeyar Bahadur (K.C.B., K.C.S.I.) — we offer this prayer, with singular devotion, to the merciful and compassionate Lord, the very embodiment of the Veda (Vedapurusha): that He may graciously protect and preserve the health, prosperity, and lineage of the Maharaja, his royal family, and all his subjects.
+Having carried through this work of translation and publication for the all-round advancement of the Kannada language — with the encouragement of scholars devoted to Vedic learning, the general public, and Karnataka's own enthroned ruler, our benefactor Sri Jayachamarajendra Wodeyar Bahadur (K.C.B., K.C.S.I.) — we offer this prayer, with singular devotion, to the merciful and compassionate Lord, the very embodiment of the Veda (Vedapurusha): that He may graciously protect and preserve the health, prosperity, and lineage of the Maharaja, his royal family, and all his subjects.
 
 **Mysore, Sarvajit-nama Samvatsara, Ashvayuja month, Krishna Paksha — 24-10-1947**
 
@@ -399,11 +399,11 @@ Gaining knowledge of historical matters, however, is not the only benefit of suc
 
 The Rigveda holds this distinction for a further reason as well. Ordinarily, over the course of several centuries, even a single text tends to undergo gradual alteration, absorbing differences through interpolation, and it is common for material from later texts to become mixed into it, both in content and in literary style — in many instances even a poet's personal opinion creeps in unnoticed, quietly shifting the very purpose for which the text was composed. With the Veda, this has simply not happened. Even in that most ancient era, before any written script existed, the Veda was transmitted — strictly according to tradition — orally from father to son, from teacher to disciple, without corruption of any kind. In every generation, whether the one doing the teaching or the one doing the learning, it has been the practice, out of great vigilance, to preserve the pronunciation with a precision as unyielding as if fixed in stone, so that not even the smallest deviation could creep into the recitation. Because this discipline has been followed so meticulously across generations, whatever variant readings existed even when the ancient sages first composed the Vedic mantras have come down to us with those same variations intact, unaltered. Not even a single syllable of this Veda has ever been changed — nothing added to restore a supposed loss, nothing removed, nothing combined in from elsewhere. It has been considered improper, even in this modern age, to rearrange or reinterpret it for convenience, deriving whatever meaning one wishes according to context. Even where the opinions of ancient sages differed from one another regarding the Veda, both the wording and the pronunciation received from the ancients have been recorded without distortion. Even where a word's meaning was doubtful, or a different meaning seemed more fitting to a particular scholar, no one altered the received wording to suit personal judgment. No reciter, merely on the strength of private opinion, carelessly altered even a single word and thereby broke with tradition. Because of this, it has remained possible for us to know with precision exactly what the ancient sages themselves intended. Both in ancient times and today, countless eminent scholars, pandits, and learned families have devoted their considerable intellectual powers to Vedic scholarship, putting this to use across innumerable texts.
 
-However, owing to the sheer difficulty of the subject, Sanskrit education — and serious engagement with Vedic study in particular — has not received the attention it deserves from Indians. Because many mistakenly regard Sanskrit as a "dead language," it is often dismissed without a second thought, and no importance is given either to the trouble of properly studying and understanding it, or to preserving accurate manuscript copies. Yet no other language possesses a literary treasury as rich as that of Sanskrit. Disciplines such as logic, literature, Vedanta, history, and the arts exist in Sanskrit in a way unmatched by any other tongue. For many thousands of years, great scholars, expending extraordinary intellectual effort, have composed innumerable unrivaled works in this language. All of these texts are original and of the highest excellence — and, ancient as they are, none surpasses the Vedic scriptures themselves in antiquity. For this reason, scholars from Western countries such as Germany, England, and America have, for many years, applied themselves with dedication to studying this language — foreign to them — in a rigorous, scholarly manner...
+However, owing to the sheer difficulty of the subject, Sanskrit education — and serious engagement with Vedic study in particular — has not received the attention it deserves from Indians. Because many mistakenly regard Sanskrit as a "dead language," it is often dismissed without a second thought, and no importance is given either to the trouble of properly studying and understanding it, or to preserving accurate manuscript copies. Yet no other language possesses a literary treasury as rich as that of Sanskrit. Disciplines such as logic, literature, Vedanta, history, and the arts exist in Sanskrit in a way unmatched by any other tongue. For many thousands of years, great scholars, expending extraordinary intellectual effort, have composed innumerable unrivaled works in this language. All of these texts are original and of the highest excellence — and, ancient as they are, none surpasses the Vedic scriptures themselves in antiquity. For this reason, scholars from Western countries such as Germany, England, and America have, for many years, applied themselves with dedication to studying this language — foreign to them — in a rigorous, scholarly manner
 
 <div class="pgmark">original p. 3</div>
 
-...the greatness of these texts, and have brought it before the world with genuine enthusiasm. Many Western scholars have devoted a large share of their own lives to Vedic scholarship, publishing numerous works and helping the world understand just how useful and important Vedic learning truly is.
+and have come to know the greatness of these texts, and have brought it before the world with genuine enthusiasm. Many Western scholars have devoted a large share of their own lives to Vedic scholarship, publishing numerous works and helping the world understand just how useful and important Vedic learning truly is.
 
 Beyond this, in our own country, many scholars, learned assemblies, and royal patrons have, in various ways, encouraged Sanskrit and Vedic study — this is a happy state of affairs. And yet, has this borne fruit in proportion to the difficulty involved? Not entirely — because from the very outset, the study of scripture and grammar has not been made easy. For this reason, even those in this country who do study the Veda often do so without truly grasping it, merely reciting it by rote; and since its meaning is genuinely difficult to unpack, its practical value tends to go unrealized. Even great Sanskrit scholars do not always find the Veda's own language easy to understand — Sanskrit and the language of the Veda are not the same thing, and treating them as such is a mistake. This being the general situation even among scholars, how much less would an ordinary person be expected to reflect on its interpretation? It is precisely to avoid this — reciting the Veda by mouth alone without understanding its meaning — that the sage Yaska is said to have declared, in his own Nirukta —
 
@@ -431,11 +431,11 @@ Beyond this, in our own country, many scholars, learned assemblies, and royal pa
 
 **Meaning:** One who undertakes Vedic study without understanding its meaning is, so to speak, merely carrying a burden like a piece of wood — deriving no real benefit from it at all. The second verse states this directly with its own image: a hymn recited by rote, without being understood, never blazes forth — like dry firewood set down with no fire, it never ignites. The third verse (RV 10-71-4) makes a related point about Speech (Vac) herself: one man, though he can see, has not truly seen Speech; another, though he can hear, has not truly heard her; but to another she reveals her very form, as an eager, beautifully adorned wife reveals herself to her husband — that is, her true meaning is disclosed only to the one who is genuinely receptive to it.
 
-There is no end to the difficulty involved in a genuine critical study of Vedic meaning. As already noted, even a person highly accomplished in Sanskrit will not find the Veda's own language easy to understand. Alongside linguistic knowledge, one also needs the help of Mimamsa, grammar, Jyotisha (astronomy/astrology), and Vedanta. The meter and structure of Vedic mantras are not like the shlokas and verse-forms of later, more familiar poetry. Without understanding the Shrauta portion — that is, the actual procedure for performing yajnas and similar rites — the meaning of many words cannot be coherently grasped at all. For many words, interpreting them the way one would interpret classical or modern Sanskrit is simply not appropriate...
+There is no end to the difficulty involved in a genuine critical study of Vedic meaning. As already noted, even a person highly accomplished in Sanskrit will not find the Veda's own language easy to understand. Alongside linguistic knowledge, one also needs the help of Mimamsa, grammar, Jyotisha (astronomy/astrology), and Vedanta. The meter and structure of Vedic mantras are not like the shlokas and verse-forms of later, more familiar poetry. Without understanding the Shrauta portion — that is, the actual procedure for performing yajnas and similar rites — the meaning of many words cannot be coherently grasped at all. For many words, interpreting them the way one would interpret classical or modern Sanskrit is simply not appropriate.
 
 <div class="pgmark">original p. 4</div>
 
-...does not apply in the same way [to Vedic mantras]. Case-endings, gender-forms, and similar features found in the mantras are not always strictly bound by grammatical rule. Because of these and other complicating factors, arriving at a critical interpretation of the Vedic mantras is not an easy task.
+Case-endings, gender-forms, and similar features found in the mantras are not always strictly bound by grammatical rule. Because of these and other complicating factors, arriving at a critical interpretation of the Vedic mantras is not an easy task.
 
 Given how much difficulty is involved, what benefit is actually gained by undertaking Vedic study? Is it merely to become familiar with imaginative stories? Or to learn descriptions of matters like time and place, as found in the works of great poets? Or is it rather to inquire into subjects concerning the self and ultimate reality, as Vedanta does? Whatever it may be — does it even exist within the Rigveda, and how did the Rigveda come to hold such scriptural authority? To answer this properly one must actually undertake the study, because the Rigveda is an extremely ancient text. Since that era, it has shaped how the people of that time worshipped their gods, performed yajnas, and conducted their society; it helps us understand how people lived, what they valued, and the hardships they faced. Understanding the ancient history of that society is a task worthy of every serious-minded person. For this reason, the Veda is, for us in India, an invaluable, all-encompassing text worth studying. It is held that the Veda is not human-authored (apaurusheya), and has come down uninterrupted from the mouth of Ishvara himself. Sayanacharya, at the very start of his commentary, argues this point at length with logical proof, so there is no need to elaborate on it further here. It is not possible, in this space, to discuss every subject contained in the Vedas — but those undertaking Vedic study should, as a preliminary matter, reflect carefully on a few essential topics.
 
@@ -499,19 +499,19 @@ In any case, "Veda" has consistently been used to refer to the Vedic Samhitas th
 
 That is: whatever rites are established by valid means and enjoined through verbal authority — the word "Veda" denotes the complete corpus of such injunctions. Yadavaprakasha, author of the *Vaijayanti* lexicon, holds a similar view — that "Veda" applies collectively to mantra, Brahmana, and Kalpa together — though this definition is broad and rather formal.
 
-It is, in truth, impossible to give a fully satisfactory single definition of "Veda." Even Sayanacharya, in the introduction to his own great commentary, acknowledges the difficulty of stating the Veda's defining characteristic with precision, concluding in the end that "Veda" means the collective totality of mantra and Brahmana together...
+It is, in truth, impossible to give a fully satisfactory single definition of "Veda." Even Sayanacharya, in the introduction to his own great commentary, acknowledges the difficulty of stating the Veda's defining characteristic with precision, concluding in the end that "Veda" means the collective totality of mantra and Brahmana together
 
 <div class="pgmark">original p. 8</div>
 
-...as he states. But then — what exactly is "mantra"? What is "Brahmana"? Or, within the Veda, what portion actually counts as "mantra"? This too has long been debated and is not free of controversy; defining "mantra" is no easy matter. Sayanacharya determined that the statements used to direct the various priests in performing the acts of a yajna, together with sentences that take the form of praise addressed to deities, constitute the correct defining mark of "mantra" — everything else is termed "Brahmana." Two Mimamsa-sutras support this position, to the effect that such statements are called "mantra" in the Veda, and the remainder is called by the term "Brahmana."
+as he states. But then — what exactly is "mantra"? What is "Brahmana"? Or, within the Veda, what portion actually counts as "mantra"? This too has long been debated and is not free of controversy; defining "mantra" is no easy matter. Sayanacharya determined that the statements used to direct the various priests in performing the acts of a yajna, together with sentences that take the form of praise addressed to deities, constitute the correct defining mark of "mantra" — everything else is termed "Brahmana." Two Mimamsa-sutras support this position, to the effect that such statements are called "mantra" in the Veda, and the remainder is called by the term "Brahmana."
 
 Though mantra (Samhita) and Brahmana differ considerably in style, meter, and subject matter, the two together are called "the Veda." The Veda is used chiefly in yajnas, which ordinarily require four principal officiants: the Hotr, the Adhvaryu, the Udgatr, and the Brahma. Some hold that the Veda was divided into four parts to suit these four priests; others hold that the four Vedas together form one complete body of text, of which the Rigveda and the others are simply distinct portions treating distinct subjects. To perform a yajna, the Rigveda, Yajurveda, and Samaveda are all necessarily required — a yajna cannot be performed with the mantras of only one Veda.
 
-In the most ancient period, only the Rigveda existed; the Yajurveda and other Vedas did not yet exist in their present form. In that era, Rigveda mantras alone were used both to invoke the gods and to make fire-offerings to them. To invoke a deity, a mantra called the *purōnuvākya* was recited; to direct the actual offering, a mantra called the *yājyā* was recited — both had to be Rigveda mantras; mantras from any other Veda would not do. Even the chants used in the Samagana — later designated as "Samaveda" mantras — were originally Rigveda verses, simply set to Samavedic musical notation for singing. Thus, in the Rigvedic era, Yajurveda mantras were not yet in use. As the procedure for yajnas gradually became more refined and rule-bound, the statements recited alongside the mantras as context required — injunctions ("this act must be done thus"), explanations, and other such utterances — for each yajna...
+In the most ancient period, only the Rigveda existed; the Yajurveda and other Vedas did not yet exist in their present form. In that era, Rigveda mantras alone were used both to invoke the gods and to make fire-offerings to them. To invoke a deity, a mantra called the *purōnuvākya* was recited; to direct the actual offering, a mantra called the *yājyā* was recited — both had to be Rigveda mantras; mantras from any other Veda would not do. Even the chants used in the Samagana — later designated as "Samaveda" mantras — were originally Rigveda verses, simply set to Samavedic musical notation for singing. Thus, in the Rigvedic era, Yajurveda mantras were not yet in use. As the procedure for yajnas gradually became more refined and rule-bound, the statements recited alongside the mantras as context required — injunctions ("this act must be done thus"), explanations, and other such utterances — for each yajna
 
 <div class="pgmark">original p. 9</div>
 
-...were at first recited independently on each occasion rather than existing in a fixed form. Over time, these statements became systematized into what we now know as Yajurveda mantras — this is the most plausible account of its origin. In the Rigveda, verses beyond what the Hotr needs serve little purpose, and the same is true of the Samaveda; but the Yajurveda contains numerous statements clearly showing its dependence on both — for instance, phrases like *"ṛcā́ me dve"* ("two Rig-mantras are mine") and *"ayam u ṣya vā eṣa yaḥ sāma"* ("this indeed is what is Sama") explicitly acknowledge this dependence. This is also why the Yajurveda's literary style is markedly less refined than the Rigveda's.
+were at first recited independently on each occasion rather than existing in a fixed form. Over time, these statements became systematized into what we now know as Yajurveda mantras — this is the most plausible account of its origin. In the Rigveda, verses beyond what the Hotr needs serve little purpose, and the same is true of the Samaveda; but the Yajurveda contains numerous statements clearly showing its dependence on both — for instance, phrases like *"ṛcā́ me dve"* ("two Rig-mantras are mine") and *"ayam u ṣya vā eṣa yaḥ sāma"* ("this indeed is what is Sama") explicitly acknowledge this dependence. This is also why the Yajurveda's literary style is markedly less refined than the Rigveda's.
 
 During the fire-offering, the Hotr priest invokes the deities using Rigveda mantras — typically two per deity: the *purōnuvākya*, to invoke, and the *yājyā*, to direct the offering. But it is not the Hotr who actually pours the oblation into the fire — that task belongs to the Adhvaryu, who performs many other duties in the yajna as well and must be thoroughly versed in its procedures. It is for this that the Yajurveda is essential to him. The Udgatr performs the Samagana (chanting); it is said the deities are pleased by this chant and thereby accept their due share in the yajna — without it, the yajna is considered incomplete. The Brahma priest must oversee that every part of the yajna proceeds correctly according to rule, and for this must be familiar with all four Vedas. Accordingly, the Hotr is expected to have studied the Rigveda, the Adhvaryu the Yajurveda, and the Udgatr the Samaveda; the Brahma alone must know all four. These four are the principal ritviks (officiants) of a yajna.
 
@@ -559,7 +559,7 @@ The Samhita portion of the Rigveda is the most ancient portion of any of the Ved
 
 <div class="pgmark">original p. 12</div>
 
-...consistently applied throughout, joining words and syllables in sequence — this is what is meant by the "Samhita" of Vedic mantras. Each of the four Vedas has its own separate Samhita, Brahmana, Aranyaka, and Upanishad portions, as well as its own distinct Shrauta-sutras and other Sutra-texts. Let us examine the key points here.
+Joining words and syllables in sequence — this is what is meant by the "Samhita" of Vedic mantras. Each of the four Vedas has its own separate Samhita, Brahmana, Aranyaka, and Upanishad portions, as well as its own distinct Shrauta-sutras and other Sutra-texts. Let us examine the key points here.
 
 The Rigveda Samhita has ten divisions, called Mandalas. Generally, each Mandala is associated with one principal rishi or his lineage, whose mantras form that Mandala — except Mandalas 1, 9, and 10, which contain mantras by multiple different rishis. In Mandala 9 specifically, although the rishis vary, every mantra shares the same deity, Soma — this Mandala was formed by gathering all mantras addressed to Soma regardless of who composed them, so its unifying feature is a shared deity rather than a shared rishi.
 
@@ -743,11 +743,11 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 **In the Shukla Yajurveda Samhita, all the mantras useful to the Adhvaryu are gathered together in one place. In the Krishna Yajurveda, the mantras are given together with an extended explanation of the occasions and procedures for their use.** On close examination, it becomes evident that the Krishna Yajurveda is the more ancient of the two, and that the Shukla Yajurveda — arranged by gathering the mantras together for ease of study — is accordingly not as old as the Krishna Yajurveda.
 
-**It has already been said above that the Yajurveda has these two parts — Shukla and Krishna. On this point, there is a curious traditional story. Krishnadvaipayana [Vyasa]...**
+**It has already been said above that the Yajurveda has these two parts — Shukla and Krishna. On this point, there is a curious traditional story. Krishnadvaipayana [Vyasa]**
 
 <div class="pgmark">original p. 19</div>
 
-**[Vyasa] divided the mass of the Vedas into four — Rigveda, Yajurveda, Samaveda, and Atharvaveda — and taught them in turn to his four disciples, Paila, Vaishampayana, Jaimini, and Sumantu respectively.** Vaishampayana taught the Yajurveda to his own disciples, among them Yajnavalkya. On one occasion, Vaishampayana became angry with Yajnavalkya and commanded him to return all the Vedic learning he had acquired. **Yajnavalkya, through his yogic power, vomited up the Veda he had learned.** At the teacher's bidding, the other disciples took the form of *tittiri* (partridge) birds and ate that vomited Veda — that is, took possession of it. **For this reason, the Krishna Yajurveda came to be called the "Taittirīya Saṃhitā."** Afterward, Yajnavalkya, still smarting with anger, worshipped the Sun and won his grace. The Sun, taking the form of a horse (*vāji*/*aśva*), came and taught him the Yajurveda anew. **Since it was taught by the resplendent Sun, it came to be called the "Śukla Yajurveda"; and since it was taught through a horse (vāji), it came to be called the "Vājasaneyi Saṃhitā."**
+**divided the mass of the Vedas into four — Rigveda, Yajurveda, Samaveda, and Atharvaveda — and taught them in turn to his four disciples, Paila, Vaishampayana, Jaimini, and Sumantu respectively.** Vaishampayana taught the Yajurveda to his own disciples, among them Yajnavalkya. On one occasion, Vaishampayana became angry with Yajnavalkya and commanded him to return all the Vedic learning he had acquired. **Yajnavalkya, through his yogic power, vomited up the Veda he had learned.** At the teacher's bidding, the other disciples took the form of *tittiri* (partridge) birds and ate that vomited Veda — that is, took possession of it. **For this reason, the Krishna Yajurveda came to be called the "Taittirīya Saṃhitā."** Afterward, Yajnavalkya, still smarting with anger, worshipped the Sun and won his grace. The Sun, taking the form of a horse (*vāji*/*aśva*), came and taught him the Yajurveda anew. **Since it was taught by the resplendent Sun, it came to be called the "Śukla Yajurveda"; and since it was taught through a horse (vāji), it came to be called the "Vājasaneyi Saṃhitā."**
 
 **However, Bhaṭṭabhāskara, the commentator on the Taittirīya Saṃhitā, writes in his own introduction that this Yajurveda was, through a lineage of transmission, learned by one named Tittiri** — so it is possible the name "Taittirīya Saṃhitā" for the Krishna Yajurveda arose this way instead of from the bird-legend.
 
@@ -775,11 +775,11 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 **Of these, many shakhas are now extinct.**
 
-**The Vājasaneya Saṃhitā comprises 40 Adhyāyas. Within each Adhyāya there are small portions called "Kaṇḍikās." Across all 40 Adhyāyas together, there are 1,980 such Kaṇḍikās in total. Within the 40 Adhyāyas...**
+**The Vājasaneya Saṃhitā comprises 40 Adhyāyas. Within each Adhyāya there are small portions called "Kaṇḍikās." Across all 40 Adhyāyas together, there are 1,980 such Kaṇḍikās in total. Within the 40 Adhyāyas**
 
 <div class="pgmark">original p. 20</div>
 
-**The first 25 Adhyayas discuss the Darśapūrṇamāsa, Soma, Vājapeya, Aśvamedha, Rājasūya and other yajnas, together with the sequence for building the fire-pit and other structures required in the sacrificial hall.** The next 15 Adhyayas — called the "Khila-bhāga" (supplementary section) — describe further rites connected with the Shrauta-karmas already discussed, along with newer rites such as the Puruṣamedha and Pravargya. **The final Adhyāya is unrelated to yajna at all — this is itself the Īśāvāsyopaniṣad.**
+**the first 25 Adhyayas discuss the Darśapūrṇamāsa, Soma, Vājapeya, Aśvamedha, Rājasūya and other yajnas, together with the sequence for building the fire-pit and other structures required in the sacrificial hall.** The next 15 Adhyayas — called the "Khila-bhāga" (supplementary section) — describe further rites connected with the Shrauta-karmas already discussed, along with newer rites such as the Puruṣamedha and Pravargya. **The final Adhyāya is unrelated to yajna at all — this is itself the Īśāvāsyopaniṣad.**
 
 **The Krishna Yajurveda has seven Aṣṭakas, or Kāṇḍas, comprising in total a certain number of Prapāṭhakas (Adhyāyas)** *(the exact figure is not fully legible)*. Within each Adhyāya are portions called Anuvākas, further subdivided, for ease of study, into small sections — a division resembling the Rigveda's own Varga-scheme. **The same subjects found in the Shukla Yajurveda occur here as well. But where the Shukla Yajurveda Saṃhitā gathers together only the mantra-portions recited in yajnas** — properly called a "Mantra-Saṃhitā," with the mantras' own explanation given at length separately in the Śatapatha Brāhmaṇa — **the Krishna Yajurveda does not follow this arrangement: mantras and their Brāhmaṇa-style explanations are interspersed throughout, mixed together in many places.** For example, the Soma-yāga's mantras occur in the first Kāṇḍa's second Prapāṭhaka, while the Brāhmaṇa explaining those very mantras appears in the sixth Kāṇḍa of the same Saṃhitā. **In this way, within the Krishna Yajurveda Saṃhitā itself, mantra and Brāhmaṇa material lie mixed together throughout.**
 
@@ -905,11 +905,11 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 > *araṇyādhyayanād etad āraṇyakam itīryate | araṇye tad adhīyīta evaṃ vākyaṃ pracakṣate ||*
 > "It is called 'Āraṇyaka' from its being studied in the forest; texts declaring 'one should study this in the forest' pronounce it so."
 
-**This verse is stated in connection with the subject matter of the Taittirīya Āraṇyaka.** Because these portions exist [in a form requiring careful guidance], and because they must be studied specifically in the forest, and since they contain much deeply secret Vedāntic material...
+**This verse is stated in connection with the subject matter of the Taittirīya Āraṇyaka.** Because these portions exist [in a form requiring careful guidance], and because they must be studied specifically in the forest, and since they contain much deeply secret Vedāntic material,
 
 <div class="pgmark">original p. 25</div>
 
-...because they exist [in a form requiring guidance], and because it was considered improper for these to be known to those not properly authorized, they were taught to disciples in the forest — for this reason, these texts came to be called "Aranyakas" (forest texts). Not all the subjects touched on within the Aranyakas have been explained in dedicated reference works, and even the scope of what they cover is a matter of some disagreement among scholars.
+and because it was considered improper for these to be known to those not properly authorized, they were taught to disciples in the forest — for this reason, these texts came to be called "Aranyakas" (forest texts). Not all the subjects touched on within the Aranyakas have been explained in dedicated reference works, and even the scope of what they cover is a matter of some disagreement among scholars.
 
 The Aranyakas discuss ritual action (karma) at a subtler, more philosophical level, leaning toward knowledge of Brahman, and are similar in character to the Upanishads. They suit the needs of a particular stage of life. Householders following the path of ritual action (karma-marga) — the Brahmanas — describe such rites in full external detail; the Aranyakas, by contrast, do not dwell on the external procedure but instead explain the deeper, hidden significance of these same acts. For this reason, the Aranyakas are associated with the path of renunciation (sannyasa), while those seeking the path of pure knowledge (jnana-marga) turn to the Upanishads. What belongs to the karma-marga is set out in the Brahmanas — though some hold, alternatively, that the three portions (Brahmana, Aranyaka, Upanishad) correspond respectively to the three paths of ritual action, meditative worship (upasana), and knowledge (jnana).
 
@@ -972,11 +972,11 @@ Shiksha is the discipline teaching the correct pronunciation, accent, and clarit
 >
 > "That [text] in which the accents, sounds, and related features of Vedic mantras are taught — that is Shiksha."
 
-At the start of the first chapter of the Taittiriya Upanishad (of the Krishna Yajurveda), there is a section beginning "śikṣāṃ vyākhyāsyāmaḥ" ("We shall now explain Shiksha"), concerning the [correct pronunciation of] Vedic mantras...
+At the start of the first chapter of the Taittiriya Upanishad (of the Krishna Yajurveda), there is a section beginning "śikṣāṃ vyākhyāsyāmaḥ" ("We shall now explain Shiksha"), concerning the [correct pronunciation of] Vedic mantras
 
 <div class="pgmark">original p. 28</div>
 
-...and the associated rules that assist correct recitation are set out in Pratishakhya texts specific to each shakha (recension) — one Pratishakhya per shakha of a Veda. The Rigveda has two principal shakhas: Shakala and Bashkala, with no essential difference between them beyond arrangement and ritual custom. Among the authors of Shiksha-texts, the principal ones are Bharadvaja, Vyasa, Yajnavalkya, Narada, Panini, Vasishtha, Shaunaka, Shambhu, and Vararuchi; each shakha's Shiksha corresponds to its own Sutra-text, called a Pratishakhya.
+and the associated rules that assist correct recitation are set out in Pratishakhya texts specific to each shakha (recension) — one Pratishakhya per shakha of a Veda. The Rigveda has two principal shakhas: Shakala and Bashkala, with no essential difference between them beyond arrangement and ritual custom. Among the authors of Shiksha-texts, the principal ones are Bharadvaja, Vyasa, Yajnavalkya, Narada, Panini, Vasishtha, Shaunaka, Shambhu, and Vararuchi; each shakha's Shiksha corresponds to its own Sutra-text, called a Pratishakhya.
 
 For the Rigveda's Shakala recension, the Pratishakhya author is Shaunaka (who also authored the Atharvaveda's Chaturadhyayika Pratishakhya); for the Yajurveda, Katyayana. The Shakala Pratishakhya has 3 adhyayas, each made up of six patalas: 18 patalas in all. The first patala is the Paribhasha-patala, describing letters, accent, consonants and the like. The second is the Samhita-patala, on the combination of letters and, within it, the combination of 2-3 vowels. The third is the Svara-patala, which teaches the manner of pronunciation. Patalas 4, 5 and 6 explain the sandhi and changes of consonants; patalas 7 to 9 deal with the svarita accent; and the remaining patalas with the origin and power of letters, meter and similar topics.
 
@@ -984,11 +984,11 @@ For Shukla Yajurveda, the Vajasaneyi Pratishakhya (8 chapters) was composed by t
 
 ### 2. Vyakarana (Grammar)
 
-The grammar tradition specifically tied to the Veda survives today only in scattered fragments. Among the earliest grammarians, Shakatayana, Gargya, Shakalya, and Yaska are the principal figures; Panini came after them. The prevailing view among grammarians is that all words ultimately derive from verbal roots (dhatus) denoting action. Panini composed his own grammar largely building on the views of these earlier authorities, addressing, among the Vedic material then in current use...
+The grammar tradition specifically tied to the Veda survives today only in scattered fragments. Among the earliest grammarians, Shakatayana, Gargya, Shakalya, and Yaska are the principal figures; Panini came after them. The prevailing view among grammarians is that all words ultimately derive from verbal roots (dhatus) denoting action. Panini composed his own grammar largely building on the views of these earlier authorities, addressing, among the Vedic material then in current use, the part
 
 <div class="pgmark">original p. 29</div>
 
-...tied to Vedic word-forms and their derivation. Since Paninian grammar became especially renowned, and no other principal grammar text exists apart from it, this is the one in current use today.
+tied to Vedic word-forms and their derivation. Since Paninian grammar became especially renowned, and no other principal grammar text exists apart from it, this is the one in current use today.
 
 This work has eight chapters, hence its name "Ashtadhyayi." Exceptions to grammatical rule relevant specifically to the Veda are relatively scarce within it. Paninian grammar is celebrated for teaching correct classical Sanskrit usage, but for that very reason it cannot always be fully relied upon to reflect actual Vedic forms. In composing grammatical works generally, later authors have taken care not to disregard any part of received usage — this has become well-established practice.
 
@@ -1014,11 +1014,11 @@ The Nirukta has 12 chapters, plus two further supplementary chapters. The first 
 
 At the very outset, Yaska defines nouns, verbs, prepositions, and particles. The prevailing view — held even before Yaska — was that every noun derives from a verbal root; Yaska adopts this position too, deriving nominal forms from roots by showing a fitting semantic connection between them, wherever the explanation comes easily and naturally, and deciding between competing senses on the strength of the best-supported reading. Against this view, the grammarian Gargya is known to have dissented. Yaska also acknowledges that one and the same object may carry several names, or several objects may share one name (i.e., synonymy and homonymy both occur), and that not every word's origin can be traced to a clear founding principle — some function as mere conventional labels, a point grammar itself does not claim to fully resolve, and Yaska addresses this candidly in his own introduction.
 
-Yaska then states the Nirukta's purpose: to help ascertain the Veda's meaning. This raises an objection some have posed — if words have no inherent, fixed connection to the things they denote, how can we even claim particular words correspond to particular meanings? The answer given is that the word–meaning relationship is established simply through convention (rudhi) and long usage. Ascertaining the Veda's true meaning is genuinely difficult, and only through sustained effort can one hope to grasp it...
+Yaska then states the Nirukta's purpose: to help ascertain the Veda's meaning. This raises an objection some have posed — if words have no inherent, fixed connection to the things they denote, how can we even claim particular words correspond to particular meanings? The answer given is that the word–meaning relationship is established simply through convention (rudhi) and long usage. Ascertaining the Veda's true meaning is genuinely difficult, and only through sustained effort can one hope to grasp it
 
 <div class="pgmark">original p. 31</div>
 
-...properly. Only by knowing the Veda's true meaning can its ultimate purpose be understood — with this, Yaska closes his first chapter. From the second chapter onward, wherever a word in the mantras admits multiple possible senses, he lays out the principles for settling on the correct one: chiefly, rules concerning pronunciation and rules concerning word-form. Meanings should accord with grammatical rule; irregular or unclear words should be traced to their root; interpreters should favor whichever reading is simplest and most natural; and where two senses seem equally plausible, the one with stronger textual support should be preferred. That the Nirukta's whole purpose is to aid correct understanding of the Veda is thus firmly established.
+properly. Only by knowing the Veda's true meaning can its ultimate purpose be understood — with this, Yaska closes his first chapter. From the second chapter onward, wherever a word in the mantras admits multiple possible senses, he lays out the principles for settling on the correct one: chiefly, rules concerning pronunciation and rules concerning word-form. Meanings should accord with grammatical rule; irregular or unclear words should be traced to their root; interpreters should favor whichever reading is simplest and most natural; and where two senses seem equally plausible, the one with stronger textual support should be preferred. That the Nirukta's whole purpose is to aid correct understanding of the Veda is thus firmly established.
 
 Yaska's own era, and how much of his work is original versus inherited, remains unclear — earlier, now-lost works on Nirukta likely existed and formed his foundation, though none survive today. Modern scholars, too, are uncertain of his precise date, though most agree he is the Nirukta's author, even if a few Vedic mantras' meanings may not have been entirely clear even to him. Two further complications are worth noting. First, Yaska is generally held to belong to a fairly ancient period: Panini's own grammar contains a sutra referencing the name "Yaska" (in the sense of his clan/gotra — Panini-sutra roughly 2-4-63), without further explanation, showing grammatical scholarship was already well established by then; yet Yaska, in the Nirukta, engages with and builds on earlier grammarians' views on nominal derivation, suggesting the Nirukta itself postdates the foundations of grammar. Second, some scholars question whether the compiler of the Nighantu and the author of the Nirukta are the same "Yaska," since the Nirukta occasionally appears to alter the Nighantu's exact word-order when explaining it — for instance, where the Nighantu reads "akāsārya dāvane," the Nirukta seems to restate it as "dāvane akāsārya." Even so, since a closing statement names Yaska as author, and this is accepted by those working on the Nighantu tradition as well, the two need not be regarded as different people.
 
@@ -1196,11 +1196,11 @@ Katyayana, connected to Shukla Yajurveda, composed several further Parishishtas 
 
 An "Anukramanika" is a systematic index of the mantras, words, and other elements occurring in a text, in their original sequence. The Rigveda's Anukramanikas list its suktas, rishis, meters, deities, and other details in the order they occur in the Samhita. About 8 such indices exist for the Rigveda, all attributed to Shaunaka; similar information also appears within the Rigveda's own Pratishakhya texts. The best known is Katyayana's **Sarvanukramanika**, covering every sukta's order along with rishi, deity, and meter, tied to the exposition of Vedartha; its closing section states it was composed ahead of six other, now-lost, Anukramani-type works, and it has since become the standard reference, superseding the others.
 
-There is also, for the Rigveda, the **Arsha-Anukramani** (about 300 shlokas), listing which rishi composed which mantra. Similarly, the **Chandonukramani**...
+There is also, for the Rigveda, the **Arsha-Anukramani** (about 300 shlokas), listing which rishi composed which mantra. Similarly, the **Chandonukramani**
 
 <div class="pgmark">original p. 43</div>
 
-...(about 300 shlokas) gives the names of the meters of the Rigveda, how many mantras of each meter there are in each Mandala, and how many in the whole Samhita; of the Chandonukramanis only 5 texts are now available. The Anuvakanukramani has only about 40 shlokas. It gives the opening words of the Rigveda's 85 Anuvakas and the number of suktas in those Anuvakas, and states the Rigveda's total as 1,017 suktas, or 1,025 suktas according to the Bashkala shakha, 10580 mantras (the mantra count given here is not correct), 153826 words and 432000 syllables, along with some other details.
+(about 300 shlokas) gives the names of the meters of the Rigveda, how many mantras of each meter there are in each Mandala, and how many in the whole Samhita; of the Chandonukramanis only 5 texts are now available. The Anuvakanukramani has only about 40 shlokas. It gives the opening words of the Rigveda's 85 Anuvakas and the number of suktas in those Anuvakas, and states the Rigveda's total as 1,017 suktas, or 1,025 suktas according to the Bashkala shakha, 10580 mantras (the mantra count given here is not correct), 153826 words and 432000 syllables, along with some other details.
 
 The **Padanukramani** catalogs the Veda's individual words; the **Suktanukramani** would detail the suktas themselves, though this text does not appear to survive. The **Devatanukramani** lists the deity names, but only partially survives. Sage Shaunaka is also credited with the **Brihaddevata** and the **Rigvidhana**. The Brihaddevata (1200 shlokas across 8 chapters) explains at length which deities belong to which sukta and the etymology of individual words; the Rigvidhana explains the practical ritual application of the Rigveda's mantras. Both are extremely ancient — suggesting that even while the Rigveda Samhita was still taking its final shape, its practical use and application were already evolving in various directions.
 
@@ -1234,11 +1234,11 @@ The previous chapter raised the question of how the Veda came to be divided into
 >
 > "So that the entire Veda could be preserved by these very people [his disciples] — this is how the practice of dividing it into separate branches (shakhas) came about."
 
-That is: Vyasa, having mastered the whole Veda himself, divided it and taught its parts separately to different disciples, who carried their respective portions forward within their own family traditions — whatever one makes of this account, dividing the Veda clearly became a practical necessity. This explains why the Veda was first split into its four parts. But this alone doesn't fully capture what "shakha" means: a shakha is not a distinct portion of content so much as a distinct line of oral transmission — since different gurus took on the task of teaching disciples, each taught according to his own particular tradition, and although it was one and the same Veda, small variations crept in simply because the teaching lineages differed. That is: even within a single shakha, mantras handed down in different manuscript lines occasionally differ slightly from one another...
+That is: Vyasa, having mastered the whole Veda himself, divided it and taught its parts separately to different disciples, who carried their respective portions forward within their own family traditions — whatever one makes of this account, dividing the Veda clearly became a practical necessity. This explains why the Veda was first split into its four parts. But this alone doesn't fully capture what "shakha" means: a shakha is not a distinct portion of content so much as a distinct line of oral transmission — since different gurus took on the task of teaching disciples, each taught according to his own particular tradition, and although it was one and the same Veda, small variations crept in simply because the teaching lineages differed. That is: even within a single shakha, mantras handed down in different manuscript lines occasionally differ slightly from one another
 
 <div class="pgmark">original p. 45</div>
 
-...and even the sequence of pronunciation could vary from teacher to teacher — though no substantial difference of principle exists between shakhas. This is why some are said to follow the "Shakala reading" and others the "Bashkala reading" when studying the Rigveda — both traditions remain current today.
+and even the sequence of pronunciation could vary from teacher to teacher — though no substantial difference of principle exists between shakhas. This is why some are said to follow the "Shakala reading" and others the "Bashkala reading" when studying the Rigveda — both traditions remain current today.
 
 All four Vedas originally had numerous shakhas; only a handful survive in practice now, and some are known only by name. The Rigveda has 21 shakhas, of which the Ashvalayana, Sankhyayana and some others are well known. The Yajurveda first splits into Shukla and Krishna; Shukla Yajurveda has 15 shakhas, of which only two, Kanva and Madhyandina, are prominent, and Krishna Yajurveda 86, of which a few, such as Apastamba, are in use. Of the Samaveda's 1000 shakhas very few are found today, and of these only Kauthuma is in currency. The Atharvaveda has nine shakhas, of which Shaunaka is well known. These are all Samhita-portions.
 
@@ -1437,11 +1437,11 @@ No Samhita text survives for this shakha, and no clearly identifiable family or 
 
 A further anecdote recounts Bhrigvashva's son Mudgala the sage winning a battle fought alongside two companions, Vrishabha and Dridhana. Separately, the Rigveda's Mandala 10, Sukta 102 is attributed to a rishi called Bharmyashva-Mudgala — though whether this is the same Mudgala is genuinely uncertain, resting more on inference and traditional anecdote (as related by Yaska) than solid evidence; the name "Mudgala" may equally have been carried by other, later individuals within the same textual lineage, including possibly disciples of Jaimini. The author cautions that tracing this identity is largely speculative and should be treated with appropriate scholarly caution.
 
-For a fuller genealogy, the author draws on the Western Indologist F. E. Pargiter's *Chronology of Ancient India*, which traces a lineage (under "Divodasa", pp. 11 and 46): **Bhrigvashva (Mudgala) → Vadhryashva → Divodasa** (per the Vayu Purana). The author questions whether this sequence is truly compatible with Mudgala having been a disciple of Shakalya, given the number of generations that would have to separate Vyasa's era from Shakalya's — and notes that another scholar, Professor Sitanath Pradhan, connects Divodasa (Vadhryashva's son) to specific Rigveda mantras, along with a possibly related figure named Sujata...
+For a fuller genealogy, the author draws on the Western Indologist F. E. Pargiter's *Chronology of Ancient India*, which traces a lineage (under "Divodasa", pp. 11 and 46): **Bhrigvashva (Mudgala) → Vadhryashva → Divodasa** (per the Vayu Purana). The author questions whether this sequence is truly compatible with Mudgala having been a disciple of Shakalya, given the number of generations that would have to separate Vyasa's era from Shakalya's — and notes that another scholar, Professor Sitanath Pradhan, connects Divodasa (Vadhryashva's son) to specific Rigveda mantras, along with a possibly related figure named Sujata,
 
 <div class="pgmark">original p. 56</div>
 
-...raising the further question of whether Divodasa and a contemporary called Saijavana (or similar) are one figure or two — a genuine puzzle the author flags rather than resolves. Mahabharata and Puranic tradition generally place Mudgala in the Angirasa lineage; the Vana-parva (ch. 261) tells of a Mudgala's renowned charity, praised by Yudhishthira, and local Bihar tradition associates him with the town of Monghyr (Munger) on the Ganga — though none of this is firmly evidenced. The author concludes that "Mudgala" was clearly borne by several different sages across different eras — the Bhrigvashva-lineage Mudgala should not be casually equated with the Rigveda shakha-founder Mudgala — and cross-references a Nirukta passage (11-6) naming Shatabalaksha as this Mudgala's son and Vadhryashva as his brother, and two Ayurvedic Charaka Samhita sages named "Maudgalya" (Sutra-sthana 25-8 and 26-3, 8), contemporaries of the Mahabharata era. Besides these places, Mudgala is mentioned also in the Ashvalayana Shrautasutra (12-12) and at its beginning.
+raising the further question of whether Divodasa and a contemporary called Saijavana (or similar) are one figure or two — a genuine puzzle the author flags rather than resolves. Mahabharata and Puranic tradition generally place Mudgala in the Angirasa lineage; the Vana-parva (ch. 261) tells of a Mudgala's renowned charity, praised by Yudhishthira, and local Bihar tradition associates him with the town of Monghyr (Munger) on the Ganga — though none of this is firmly evidenced. The author concludes that "Mudgala" was clearly borne by several different sages across different eras — the Bhrigvashva-lineage Mudgala should not be casually equated with the Rigveda shakha-founder Mudgala — and cross-references a Nirukta passage (11-6) naming Shatabalaksha as this Mudgala's son and Vadhryashva as his brother, and two Ayurvedic Charaka Samhita sages named "Maudgalya" (Sutra-sthana 25-8 and 26-3, 8), contemporaries of the Mahabharata era. Besides these places, Mudgala is mentioned also in the Ashvalayana Shrautasutra (12-12) and at its beginning.
 
 ### 2. The Galava Shakha
 
@@ -1545,7 +1545,7 @@ The Sankhyayana Shrautasutra names a teacher Jatukarnya at four points (1-2-17, 
 
 ### The Bashkala Samhita
 
-Just as the Shakalya line has its root Samhita, the Bashkala line should likewise trace to a common Bashkala Samhita (or at least an independent Bashkala Brahmana), though no copy survives directly — its extent is inferred instead from references within the Shukla Yajurveda's Pratijna-sutra...
+Just as the Shakalya line has its root Samhita, the Bashkala line should likewise trace to a common Bashkala Samhita (or at least an independent Bashkala Brahmana), though no copy survives directly — its extent is inferred instead from references within the Shukla Yajurveda's Pratijna-sutra.
 
 <div class="pgmark">original p. 65</div>
 
@@ -1647,7 +1647,7 @@ Since Kalpa-sutras are normally composed as authoritative supports for one speci
 >
 > "There is one Samhita of Shakala, and another of Bashkala. Relying on both these Samhitas, together with the twenty-one Brahmanas [and] the Aitareya [Brahmana] to complete it, the great sage Ashva[layana], honored by the assembly, composed the Kalpa-sutra."
 
-All four commentators thus converge on the same essential point: **the Ashvalayana Kalpa-sutra was never tied to a single Samhita** — Devasvamin and Devatrata frame its scope as the whole Rigveda, while Gargya Narayana and Shadguru-shishya specify its dual grounding in both the Shakala and Bashkala traditions together. The author next turns to testing Devasvamin's broader claim against a specific citation within the Ashvalayana Shrautasutra itself (2-10)...
+All four commentators thus converge on the same essential point: **the Ashvalayana Kalpa-sutra was never tied to a single Samhita** — Devasvamin and Devatrata frame its scope as the whole Rigveda, while Gargya Narayana and Shadguru-shishya specify its dual grounding in both the Shakala and Bashkala traditions together. The author next turns to testing Devasvamin's broader claim against a specific citation within the Ashvalayana Shrautasutra itself (2-10).
 
 <div class="pgmark">original p. 72</div>
 
@@ -1747,21 +1747,21 @@ The fifth main division of the Rigveda's shakhas. The Puranas offer no details a
 
 <div class="pgmark">original p. 80</div>
 
-The Brihaddevata's opening verse — "having bowed to the seers of the mantras, [I shall state the deities of the suktas] in the order of the traditional recension" — establishes beyond doubt that this text was composed on the basis of some particular textual tradition (amnaya) distinct from the mainstream ones. As evidence: the Brihaddevata's tradition (10-103) includes a sukta beginning "brahma jajñānaṃ prathamaṃ purastāt..." ("Brahma, first-born, arose in the east...") — a hymn absent from both the Shakala and Bashkala shakhas' texts and from Shakala's Sarvanukramani, though some of its mantras appear across all textual variants of the Ashvalayana Shrautasutra (4-6)...
+The Brihaddevata's opening verse — "having bowed to the seers of the mantras, [I shall state the deities of the suktas] in the order of the traditional recension" — establishes beyond doubt that this text was composed on the basis of some particular textual tradition (amnaya) distinct from the mainstream ones. As evidence: the Brihaddevata's tradition (10-103) includes a sukta beginning "brahma jajñānaṃ prathamaṃ purastāt..." ("Brahma, first-born, arose in the east...") — a hymn absent from both the Shakala and Bashkala shakhas' texts and from Shakala's Sarvanukramani, though some of its mantras appear across all textual variants of the Ashvalayana Shrautasutra (4-6),
 
 <div class="pgmark">original p. 81</div>
 
-...confirming this. Since this "Brahma-jnanam" sukta doesn't appear in the Ashvalayana tradition, and the Sankhyayana Shrautasutra (5-9) cites the same sukta's mantras across all its textual variants, and no other Rigveda shakha attests it at all — the author concludes this hymn must belong specifically and solely to the Mandukeya shakha, firmly anchoring the Brihaddevata text's affiliation there. The Aitareya Brahmana (1-19) and Kaushitaki Brahmana (8-4) both cite only the opening words of this same mantra-group, explicitly noting it belongs to "other shakhas" rather than their own.
+confirming this. Since this "Brahma-jnanam" sukta doesn't appear in the Ashvalayana tradition, and the Sankhyayana Shrautasutra (5-9) cites the same sukta's mantras across all its textual variants, and no other Rigveda shakha attests it at all — the author concludes this hymn must belong specifically and solely to the Mandukeya shakha, firmly anchoring the Brihaddevata text's affiliation there. The Aitareya Brahmana (1-19) and Kaushitaki Brahmana (8-4) both cite only the opening words of this same mantra-group, explicitly noting it belongs to "other shakhas" rather than their own.
 
 A further passage from the Brihaddevata's third chapter (verses 118–119) documents a specific sequence, after Ṛ. Saṃ. 1-73: ten suktas dedicated to the Ashvin deities (opening with "shashvaddhi vām"), followed by a "Saupanna-sukta" (opening "upaprayantaḥ", Ṛ. Saṃ. 1-74) and, beginning with it, six Agni-related suktas — an ordering found in neither the Shakala nor Bashkala traditions, with the opening mantra itself absent even from the Ashvalayana Shrautasutra. While not fully certain, this specific sequence is reasonably inferred to belong to the Mandukeya tradition as well.
 
 ### Mandukeya's Family and Homeland
 
-Mandukeya was so named as "son of Manduka" — called "Shauravira" at the start of the Sankhyayana Aranyaka (7-2) and "Kauravira" in the Aitareya Aranyaka (3-1). One of Manduka's sons was named Dirgha (Sankhyayana Aranyaka 7-2) or Jyeshtha (Aitareya Aranyaka 3-1); the Mandukeya discussed here appears to be that son's brother. This Mandukeya's own son was named **Madhyama**, also attested in both Aranyakas, whose mother's name is given as Pratibodhi (or Pratiyodhi) — rendered "Pratimedhi" in the Brahmanda Purana (1-33-19). The Ashvalayana Grihyasutra's rishi-tarpana (ancestor-offering ritual) section...
+Mandukeya was so named as "son of Manduka" — called "Shauravira" at the start of the Sankhyayana Aranyaka (7-2) and "Kauravira" in the Aitareya Aranyaka (3-1). One of Manduka's sons was named Dirgha (Sankhyayana Aranyaka 7-2) or Jyeshtha (Aitareya Aranyaka 3-1); the Mandukeya discussed here appears to be that son's brother. This Mandukeya's own son was named **Madhyama**, also attested in both Aranyakas, whose mother's name is given as Pratibodhi (or Pratiyodhi) — rendered "Pratimedhi" in the Brahmanda Purana (1-33-19). The Ashvalayana Grihyasutra's rishi-tarpana (ancestor-offering ritual) section
 
 <div class="pgmark">original p. 82</div>
 
-...names her Pratibodhi (3-3-5). Madhyama's residence in Magadha is attested in the Sankhyayana Aranyaka; given some textual corruption in both Aranyakas at this point, exact names should be revisited by future editors, but it appears all three of Manduka's sons — including Madhyama — were connected to Magadha.
+names her Pratibodhi (3-3-5). Madhyama's residence in Magadha is attested in the Sankhyayana Aranyaka; given some textual corruption in both Aranyakas at this point, exact names should be revisited by future editors, but it appears all three of Manduka's sons — including Madhyama — were connected to Magadha.
 
 ### The Extent of the Mandukeya Tradition
 
@@ -1861,11 +1861,11 @@ Looking at all these variants, the author settles on three reconstructed name-pa
 
 ### 1. The Shaingya Shakha
 
-A genuine Rigveda-related shakha, as already established from evidence discussed earlier. Its Brahmana and the existence of an associated Kalpa-sutra...
+A genuine Rigveda-related shakha, as already established from evidence discussed earlier. Its Brahmana and the existence of an associated Kalpa-sutra
 
 <div class="pgmark">original p. 87</div>
 
-...whether this shakha has its own Samhita remains entirely unknown to this day. The Charaka Samhita's opening names a sage "Shaingi," whose son was likely "Shaingya" — a person by this name is separately listed among those present at Yudhishthira's assembly hall (Sabha-parva, 4-23). Shaingya's own son, **Madhuka**, is cited in the Brihaddevata (1-24) and referenced in passing across the Shatapatha, Aitareya, and Kaushitaki Brahmanas, as well as frequently in the Sankhyayana Shrautasutra — including his view on the Agnyadhana (fire-establishment) rite, which later commentators note as differing only slightly from the Kaushitaki view; on the question of Soma's associated deity, Shaingya's view and the Kaushitaki Brahmana's statement turn out to be essentially identical. The Madhyandina Shatapatha Brahmana (14-9-3-16) further records that Madhu-Shaingya received special teaching from Yajnavalkya connected with the Vajasaneya sacrifice. Evidence for a Shaingya-Grihyasutra or Dharmasutra appears in the Smritichandrika (Ashaucha-kanda, p. 14), the Maskari commentary on the Gautama-Dharmasutra (14-6-17), and Haradatta's Anakula commentary on the Apastamba Grihyasutra (8-21-9) — this branch's texts appear to have been more prevalent specifically in South India.
+were stated at the very beginning of this section. Whether this shakha has its own Samhita remains entirely unknown to this day. The Charaka Samhita's opening names a sage "Shaingi," whose son was likely "Shaingya" — a person by this name is separately listed among those present at Yudhishthira's assembly hall (Sabha-parva, 4-23). Shaingya's own son, **Madhuka**, is cited in the Brihaddevata (1-24) and referenced in passing across the Shatapatha, Aitareya, and Kaushitaki Brahmanas, as well as frequently in the Sankhyayana Shrautasutra — including his view on the Agnyadhana (fire-establishment) rite, which later commentators note as differing only slightly from the Kaushitaki view; on the question of Soma's associated deity, Shaingya's view and the Kaushitaki Brahmana's statement turn out to be essentially identical. The Madhyandina Shatapatha Brahmana (14-9-3-16) further records that Madhu-Shaingya received special teaching from Yajnavalkya connected with the Vajasaneya sacrifice. Evidence for a Shaingya-Grihyasutra or Dharmasutra appears in the Smritichandrika (Ashaucha-kanda, p. 14), the Maskari commentary on the Gautama-Dharmasutra (14-6-17), and Haradatta's Anakula commentary on the Apastamba Grihyasutra (8-21-9) — this branch's texts appear to have been more prevalent specifically in South India.
 
 ### 3. The Baidalaka Shakha
 
@@ -1903,11 +1903,11 @@ That is: Bashkali Bharadvaja had three disciples.
 
 **Disciple 1 — "Apanishena":** variant readings include Apanasha, Nandayaniya, Kaalaayani, and Baalaayani; the first two may share a common root, but nothing can be said with certainty.
 
-**Disciple 2 — "Pannagari":** variants include Pannagaani, Gaargya, and Bhajya across different Puranic manuscripts — none of which fits comfortably. A possible connection to "Bhujyu Lahyaayani" (named in the Brihadaranyaka Upanishad, 3-3-1) is considered, though this identification has its own complications given the Brihadaranyaka-Kaushitaki tradition's own account...
+**Disciple 2 — "Pannagari":** variants include Pannagaani, Gaargya, and Bhajya across different Puranic manuscripts — none of which fits comfortably. A possible connection to "Bhujyu Lahyaayani" (named in the Brihadaranyaka Upanishad, 3-3-1) is considered, though this identification has its own complications given the Brihadaranyaka-Kaushitaki tradition's own account,
 
 <div class="pgmark">original p. 90</div>
 
-...leaving the third disciple's identity (whether a mere messenger or a genuine shakha-founder) unresolved from the Bhagavata account. Per the Ashtadhyayi (2-4-61), Pannagari was of the eastern (Prachya) country. The Brahmanda Purana instead names this third disciple "Arjuna," with further variants:
+leaving the third disciple's identity (whether a mere messenger or a genuine shakha-founder) unresolved from the Bhagavata account. Per the Ashtadhyayi (2-4-61), Pannagari was of the eastern (Prachya) country. The Brahmanda Purana instead names this third disciple "Arjuna," with further variants:
 
 > आर्व्व । कथाजन । तथाजन । कासार ।
 >
@@ -1949,7 +1949,7 @@ Since this distinctly Aitareya view doesn't appear in known Ashvalayana texts, t
 
 ### 2. The Vashishtha Shakha
 
-Bühler edited and published the Vasishtha-Dharmasutra as Rigveda-related, though which specific shakha it belongs to remains unclear. Kumarilabhatta's Tantravartika (1-3-11) — cited earlier regarding the Bahvricha shakha's use of this same text — is revisited here in more detail...
+Bühler edited and published the Vasishtha-Dharmasutra as Rigveda-related, though which specific shakha it belongs to remains unclear. Kumarilabhatta's Tantravartika (1-3-11) — cited earlier regarding the Bahvricha shakha's use of this same text — is revisited here in more detail:
 
 <div class="pgmark">original p. 92</div>
 
@@ -2347,7 +2347,7 @@ In the time of the Mahābhārata there was, to the west of Bhārata, a large pro
 
 #### Many names of the clan, gotra and father
 
-According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (3-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (7-51) in this very manner…
+According to the Vāyu Purāṇa (61-21), the Pūrvabhāga of the Brahmāṇḍa Purāṇa (35-24) and the Viṣṇu Purāṇa (3-5-3), the name of Yājñavalkya's father was Brahmarāta. According to the Vāyu Purāṇa (60-41) his name is Brahmavāha. According to the Śrīmad Bhāgavata (12-6-64) his name was Devarāta. The name of Śunaḥśepa also was Devarāta. This Śunaḥśepa was regarded as a son of the sage Viśvāmitra. According to the Vāyu Purāṇa (91-93) the real name of this Viśvāmitra was Viśvaratha. Members of Viśvāmitra's clan are called Kauśika. According to the Vāyu Purāṇa (91-98) and the Madhyabhāga of the Brahmāṇḍa Purāṇa (66-70), Yājñavalkya too belonged to Viśvāmitra's clan. In the Anuśāsana-parvan of the Mahābhārata also (7-51) in this very manner
 
 <div class="pgmark">original p. 103</div>
 
@@ -3185,11 +3185,11 @@ That is: Vaiśampāyana has the name Caraka. Yājñavalkya was the sister's [son
 
 #### Vaiśampāyana's span of life
 
-Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long time. According to the Ādi-parvan (1-57), at a place called Takṣaśilā, after the snake-sacrifice, at Vyāsa's command he narrated the story of the Bhārata to Janamejaya. King Janamejaya [went over to the] Śukla Yaju[rveda …] (the sentence continues on the next page).
+Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long time. According to the Ādi-parvan (1-57), at a place called Takṣaśilā, after the snake-sacrifice, at Vyāsa's command he narrated the story of the Bhārata to Janamejaya. King Janamejaya made
 
 <div class="pgmark">original p. 123</div>
 
-...to Śukla Yajurveda [continued from p. 122]: it is told in a story that Vaiśampāyana, angry with Yājñavalkya and the other Vājasaneyas — students of the branch of the Veda, whom he had made his priests at his sacrifices and the like — cursed them to be destroyed. Vaiśampāyana's lifetime and Yājñavalkya's lifetime may have been about equal. After he had studied the Kṛṣṇa Yajurveda from Vyāsa, he had it studied by his many pupils, and from those pupils the Kṛṣṇa Yajurveda came to have 86 branches.
+the Vājasaneyas, students of the branch of the Śukla Yajurveda [continued from p. 122], his priests at his sacrifices and the like; it is told in a story that Vaiśampāyana, angry with Yājñavalkya and the other Vājasaneyas, cursed them to be destroyed. Vaiśampāyana's lifetime and Yājñavalkya's lifetime may have been about equal. After he had studied the Kṛṣṇa Yajurveda from Vyāsa, he had it studied by his many pupils, and from those pupils the Kṛṣṇa Yajurveda came to have 86 branches.
 
 Śabarasvāmin, who wrote the bhāṣya on the Pūrva-mīmāṃsā-sūtra, in citing the authority of some ancient work in his bhāṣya (1-1-30), writes:
 
@@ -3277,11 +3277,11 @@ Now only the branches found among the branches of the Kṛṣṇa Yajurveda will
 
 It cannot be said with certainty what the original Caraka-saṃhitā of Vaiśampāyana (Kṛṣṇa Yajurveda) was like. A "Caraka-saṃhitā" is mentioned only here and there in works such as the Caraṇa-vyūha.
 
-In his bhāṣya on Yajurveda 7-23 and 25-27, the commentator Uvaṭa quotes some mantras as mantras of the Caraka-saṃhitā. In the Kātyāyana Prātiśākhya-bhāṣya (4-167) too, Uvaṭa has written the rules of sandhi for the mantras of the Caraka-saṃhitā. Statements of the Caraka-brāhmaṇa also (continued on the next page).
+In his bhāṣya on Yajurveda 7-23 and 25-27, the commentator Uvaṭa quotes some mantras as mantras of the Caraka-saṃhitā. In the Kātyāyana Prātiśākhya-bhāṣya (4-167) too, Uvaṭa has written the rules of sandhi for the mantras of the Caraka-saṃhitā. Statements of the Caraka-brāhmaṇa also
 
 <div class="pgmark">original p. 125</div>
 
-...are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
+are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
 
 > इति श्रीमद्यजुषि काठके चरकशाखायाम् ।
 >
@@ -3363,11 +3363,11 @@ and, having written so, he states that Ārcābhi is one particular branch of the
 
 In describing the branches of the Ṛgveda a branch by the name Āruṇi was mentioned. It is still a matter of inference whether this branch belongs to the Ṛgveda or to the Yajurveda, or whether there is a branch of this name in each of the two Vedas. The real name of the Yajurvedic branch may be Āsuri-śākhā. In the Brahmāṇḍa Purāṇa, in place of the place-name "Āruṇi", a variant reading "Āsurī" occurs. A teacher named Āsurī is also known among the propagators of the branches of the Yajurveda. In the Anuśāsana-parvan (48-176) the name of a sage Tāṇḍi is found; it occurs also in the 47th chapter of the same parvan, and in other chapters this person's name occurs. In the Mahābhāṣya (4-1-19) there is the statement "Āsurīyaḥ kalpaḥ" [the Āsurīya ritual manual].
 
-In the Śānti-parvan of the Mahābhārata (344-7) the name of the sage Tāṇḍya appears in the sacrifice of King Uparicara Vasu. In the Śatapatha-brāhmaṇa also (6-1-2-25) there is mention of his name. The Sāma... (the sentence continues on the next page).
+In the Śānti-parvan of the Mahābhārata (344-7) the name of the sage Tāṇḍya appears in the sacrifice of King Uparicara Vasu. In the Śatapatha-brāhmaṇa also (6-1-2-25) there is mention of his name. There is a Tāṇḍya-brāhmaṇa
 
 <div class="pgmark">original p. 127</div>
 
-...(continued) Just as a Tāṇḍya-brāhmaṇa is connected with the Sāmaveda, so the sage Taṇḍi or Tāṇḍya connected with the Sāmaveda, and Tāṇḍya the author of a branch of the Yajurveda — whether these are different persons or one and the same teacher is a matter worthy of inquiry.
+connected with the Sāmaveda. The sage Taṇḍi or Tāṇḍya connected with the Sāmaveda, and Tāṇḍya the author of a branch of the Yajurveda — whether these are different persons or one and the same teacher is a matter worthy of inquiry.
 
 ### 8. Śyāmāyana branch
 
@@ -3537,11 +3537,11 @@ From this some infer that the names Maitrāyaṇa and Kalāpi relate to one and 
 >
 > "For the Maitrāyaṇī branch is not wholly different from the Kāṭhaka."
 
-That is: the Maitrāyaṇīya branch has not much difference from the Kāṭhaka branch either. For the reasons stated above, the names Maitrāyaṇīya and Kālāpa branches [are one] (the sentence continues on the next page).
+That is: the Maitrāyaṇīya branch has not much difference from the Kāṭhaka branch either. For the reasons stated above, the Maitrāyaṇīya and Kālāpa branches may be
 
 <div class="pgmark">original p. 131</div>
 
-...one saṃhitā having two names. But since it is also said that the Maitrāyaṇīya and Kālāpa are two different saṃhitās, and that there is no difference between the two saṃhitās, it may be inferred that these are different branches.
+one saṃhitā having two names. But since it is also said that the Maitrāyaṇīya and Kālāpa are two different saṃhitās, and that there is no difference between the two saṃhitās, it may be inferred that these are different branches.
 
 If the Maitrāyaṇīya and Kālāpa branches are different, the Kālāpa-saṃhitā and Kālāpa-brāhmaṇas are not found by us. Now let us describe the branches beginning with Haridru as far as possible.
 
@@ -3599,11 +3599,11 @@ A manuscript of the Kapiṣṭhala-kaṭha Gṛhya-sūtra is in the Sarasvatī-b
 
 ### 18. Cārāyaṇīya branch
 
-Those born in the gotra of the sage Cara are called Cārāyaṇas. The name of the sage Cara is mentioned in Pāṇini's Gaṇapāṭha (4-1-99). In Devapāla's commentary on the Gṛhya-sūtra the names Cārāyaṇīya-gṛhya and Kāṭhaka-gṛhya are used in places. Since the two branches differ little, the followers of the two branches may have studied the same bhāṣya; hence the names of the two sūtras may have been used in this bhāṣya. The Cārāyaṇīya branch was a renowned branch. The need for an independent Gṛhya-sūtra for it is indeed proper. A work called Mantrārṣādhyāya of the Cārāyaṇīya branch is still found. A manuscript of this work is in the Lahore Dayānanda College and another in the Berlin Royal Library (continued).
+Those born in the gotra of the sage Cara are called Cārāyaṇas. The name of the sage Cara is mentioned in Pāṇini's Gaṇapāṭha (4-1-99). In Devapāla's commentary on the Gṛhya-sūtra the names Cārāyaṇīya-gṛhya and Kāṭhaka-gṛhya are used in places. Since the two branches differ little, the followers of the two branches may have studied the same bhāṣya; hence the names of the two sūtras may have been used in this bhāṣya. The Cārāyaṇīya branch was a renowned branch. The need for an independent Gṛhya-sūtra for it is indeed proper. A work called Mantrārṣādhyāya of the Cārāyaṇīya branch is still found. A manuscript of this work is in the Lahore Dayānanda College and another in the Berlin Royal Library
 
 <div class="pgmark">original p. 133</div>
 
-...as well. It is learnt that this work was printed at Lahore recently. The matters noted below have been learnt from study of this Mantrārṣādhyāya:
+as well. It is learnt that this work was printed at Lahore recently. The matters noted below have been learnt from study of this Mantrārṣādhyāya:
 
 (1) In the Cārāyaṇīya-saṃhitā there were divisions called *anuvāka* and *sthānaka*. At the beginning of this work it is said — "*goṣadasi* ityanuvākadvayaṃ savituś śyāvāśvasya" [the two anuvākas "Goṣad asi…", of Savitṛ Śyāvāśva] —; and at the end of the 40th khaṇḍa it is written "*sthā*".
 
@@ -3911,11 +3911,11 @@ Printed total: "In the Taittirīya Brāhmaṇa the total adhyāyas are 28, anuv�
 
 #### Relation of the Taittirīya and Kaṭha branches
 
-It is learnt that the Taittirīya and Kaṭha branches had much connection from the beginning. In the Kāṇḍānukramaṇī it is said that adhyāyas 10–12 of the third kāṇḍa of the Taittirīya Brāhmaṇa are called Kāṭhakas. The text of the Taittirīya branch has ended at the end of the 9th (continued)
+It is learnt that the Taittirīya and Kaṭha branches had much connection from the beginning. In the Kāṇḍānukramaṇī it is said that adhyāyas 10–12 of the third kāṇḍa of the Taittirīya Brāhmaṇa are called Kāṭhakas. The text of the Taittirīya branch has ended at the end of the 9th
 
 <div class="pgmark">original p. 140</div>
 
-...adhyāya of the third kāṇḍa. The remaining three adhyāyas belong to the Kaṭha branch. The relation of the Laugākṣi-smṛti to the Kaṭha branch is special. But even in it, in the extensive description of the division into kāṇḍas, it is said that these two branches have a special relation.
+adhyāya of the third kāṇḍa. The remaining three adhyāyas belong to the Kaṭha branch. The relation of the Laugākṣi-smṛti to the Kaṭha branch is special. But even in it, in the extensive description of the division into kāṇḍas, it is said that these two branches have a special relation.
 
 There are two sub-divisions in the Taittirīya branch. They are now told.
 
@@ -4546,11 +4546,11 @@ The name of this branch occurs in the Tāṇḍya-brāhmaṇa (2-15-4).
 
 ### 16. Śāṇḍilyas
 
-In the bhāṣya on the Āpastamba Śrauta-sūtra written by Rudradatta (9-11-21) there is a statement of the Śāṇḍilya Gṛhya-sūtra. In the Kalpa-sūtras of Lāṭyāyana, Drāhyāyaṇa and others the ācārya Śāṇḍilya... (the sentence continues on the next page).
+In the bhāṣya on the Āpastamba Śrauta-sūtra written by Rudradatta (9-11-21) there is a statement of the Śāṇḍilya Gṛhya-sūtra. In the Kalpa-sūtras of Lāṭyāyana, Drāhyāyaṇa and others
 
 <div class="pgmark">original p. 155</div>
 
-...[the ācārya Śāṇḍilya] — many statements are quoted as the opinion of the ācārya. Therefore the Śāṇḍilya Gṛhya-sūtra may well be the Gṛhya-sūtra of the Sāma branch. According to the work called Ānanda-saṃhitā, Śāṇḍilya was a sūtra-author of a Yajus branch. The name of Suyajña-Śāṇḍilya is quoted in the Jaiminīya Upaniṣad-brāhmaṇa (4-17-1).
+many statements are quoted as the opinion of the ācārya Śāṇḍilya. Therefore the Śāṇḍilya Gṛhya-sūtra may well be the Gṛhya-sūtra of the Sāma branch. According to the work called Ānanda-saṃhitā, Śāṇḍilya was a sūtra-author of a Yajus branch. The name of Suyajña-Śāṇḍilya is quoted in the Jaiminīya Upaniṣad-brāhmaṇa (4-17-1).
 
 ### 17. Tāṇḍyas
 
@@ -5186,7 +5186,7 @@ The final occurrence of "Brahmana" in this verse is genuinely ambiguous — read
 >
 > "These Brahmanas that are declared, and the mantras for the sprinkling of cows — is this authoritative for you, or not, O Vasava [Indra]?"
 
-Here "Brahmana" is unambiguously masculine; some scholars simply treat such instances as "Arsha" (archaic, sage-sanctioned irregular forms) without further debate. Turning to the subjects of knowledge contained within the Brahmana texts, the Atharvaveda states...
+Here "Brahmana" is unambiguously masculine; some scholars simply treat such instances as "Arsha" (archaic, sage-sanctioned irregular forms) without further debate. Turning to the subjects of knowledge contained within the Brahmana texts, the Atharvaveda states:
 
 <div class="pgmark">original p. 169</div>
 
@@ -5218,7 +5218,7 @@ This "Durohana Brahmana" is explained as follows:
 >
 > "He ascends the Durohana. Heaven indeed is the world called Durohana ['difficult to ascend']. He who knows this thus indeed ascends to that heavenly world. Since it is difficult [to ascend], that indeed is 'Duroha' — that [sun] which burns/shines. Does anyone go there? When he ascends the Durohana, he ascends for that very [heaven]. He ascends by means of the swan (hamsa) — 'the swan dwelling in purity...' and so on."
 
-From this, it's clear that the "Durohana-Brahmana" explains the meaning of the word "Durohana" itself. Another example...
+From this, it's clear that the "Durohana-Brahmana" explains the meaning of the word "Durohana" itself. Another example:
 
 <div class="pgmark">original p. 170</div>
 
@@ -5445,11 +5445,11 @@ Mantras are not perceivable through the ordinary senses; whoever it was to whom 
 
 ### The Rishis
 
-"Rishi" means "one who knows" — derived from the root *ṛṣ* in the sense of knowledge ("*ṛṣa-jñāne*"). By that logic, any knowledgeable person could be called "rishi." But the word "rishi" [in the specific Vedic sense]...
+"Rishi" means "one who knows" — derived from the root *ṛṣ* in the sense of knowledge ("*ṛṣa-jñāne*"). By that logic, any knowledgeable person could be called "rishi." But the word "rishi" [in the specific Vedic sense]
 
 <div class="pgmark">original p. 177</div>
 
-...does not carry this generic sense of "anyone who knows anything." Only those who directly perceived the mantras themselves are counted as their rishis — this is the general view; "perceiving" here means the mantras became revealed to them. Anandatirtha's own Rig-bhashya states:
+does not carry this generic sense of "anyone who knows anything." Only those who directly perceived the mantras themselves are counted as their rishis — this is the general view; "perceiving" here means the mantras became revealed to them. Anandatirtha's own Rig-bhashya states:
 
 > यः पश्यति स्वयं वाक्यं स ऋषिस्तस्य कीर्तितः । (ऋग्भाष्य)
 > यथा यः स्वयमध्ययनेन विनैव यद्वाक्यं पश्यति स तस्य वाक्यस्य ऋषिः प्रकीर्तितः । (ऋग्भाष्यटीका)
@@ -5588,11 +5588,11 @@ The Mahabharata treats this lineage only this briefly before moving to other ris
 
 ### The Close Connection Between the Bhrigu Lineage and the Atharvaveda
 
-Among the Atharvaveda's many names is "Bhrigvangiro-veda" (the Veda of Bhrigu and Angiras) — reflecting the view that rishis of the Bhrigu and Angiras lineages are seers of most of that Veda's mantras. Among the Bhrigu-lineage rishis listed above, Bhrigu, Dadhyaj, and Shaunaka are clearly Atharvaveda-connected rishis; indeed, this same Shaunaka is the founder of the Atharvaveda's own Shaunaka shakha...
+Among the Atharvaveda's many names is "Bhrigvangiro-veda" (the Veda of Bhrigu and Angiras) — reflecting the view that rishis of the Bhrigu and Angiras lineages are seers of most of that Veda's mantras. Among the Bhrigu-lineage rishis listed above, Bhrigu, Dadhyaj, and Shaunaka are clearly Atharvaveda-connected rishis; indeed, this same Shaunaka is the founder of the Atharvaveda's own Shaunaka shakha,
 
 <div class="pgmark">original p. 181</div>
 
-...should indeed be called Shaunaka's [tradition]. Many suktas of the Atharvaveda have Bhrigu, Gritsamada, and Shukra as their rishis; several are seen specifically by the rishi Shukra, and several more by Bhrigvangiras-lineage rishis — confirming why the Atharvaveda is called "Bhrigvangiro-veda."
+which should indeed be called Shaunaka's [tradition]. Many suktas of the Atharvaveda have Bhrigu, Gritsamada, and Shukra as their rishis; several are seen specifically by the rishi Shukra, and several more by Bhrigvangiras-lineage rishis — confirming why the Atharvaveda is called "Bhrigvangiro-veda."
 
 ### The Angirasa-Lineage Rishis — 33
 
@@ -5610,11 +5610,11 @@ These thirty-two, with one further name added, make the thirty-three rishis of t
 
 ### The Vasishthas — 8 [7 named]
 
-वसिष्ठ, शक्ति, पराशर, इन्द्रप्रमति, भरद्वसु, मैत्रावरुणि, कुण्डिन — *(Vasishtha, Shakti, Parashara, Indrapramati, Bharadvasu, Maitravaruni, Kundina)*. Among the Vasishthas is the rishi Parashara — father of Krishna-Dvaipayana, i.e., Veda-Vyasa himself, who holds (per the Brahma-sutra and the Mahabharata) that all the Vedas are eternal...
+वसिष्ठ, शक्ति, पराशर, इन्द्रप्रमति, भरद्वसु, मैत्रावरुणि, कुण्डिन — *(Vasishtha, Shakti, Parashara, Indrapramati, Bharadvasu, Maitravaruni, Kundina)*. Among the Vasishthas is the rishi Parashara — father of Krishna-Dvaipayana, i.e., Veda-Vyasa himself, who holds (per the Brahma-sutra and the Mahabharata) that all the Vedas are eternal,
 
 <div class="pgmark">original p. 182</div>
 
-...he writes. Many modern scholars have found themselves unable to reconcile the doctrine of the Veda's eternality with Krishna-Dvaipayana's role in compiling it.
+as he writes. Many modern scholars have found themselves unable to reconcile the doctrine of the Veda's eternality with Krishna-Dvaipayana's role in compiling it.
 
 ### The Kaushikas (Vishvamitra) — 13
 
@@ -5691,7 +5691,7 @@ That is: mantras do not become directly perceivable to the ignorant or to those 
 
 <div class="pgmark">original p. 185</div>
 
-...are needed. But depending on the specific mantra, the power arising from it and who receives that power becomes clear only from context — the same mantra proving useful differently for different purposes. In this sense, distinguishing the mantra's "meaning-seer" (arthadrashta) from its mere "seer" reflects that a specific individual perceives a mantra's meaning distinctly from perceiving the mantra itself — rishis may thus be seers of a mantra's outward form without necessarily being seers of its deeper meaning.
+There are as many mantras as are needed. But depending on the specific mantra, the power arising from it and who receives that power becomes clear only from context — the same mantra proving useful differently for different purposes. In this sense, distinguishing the mantra's "meaning-seer" (arthadrashta) from its mere "seer" reflects that a specific individual perceives a mantra's meaning distinctly from perceiving the mantra itself — rishis may thus be seers of a mantra's outward form without necessarily being seers of its deeper meaning.
 
 **3.** The Nirukta (10-10) states:
 
@@ -6739,11 +6739,11 @@ Agni's connection with water has its own legend. Building on this, the Mahabhara
 
 Following Agni, the next chief deity is **Indra** — with even more hymns dedicated to him than Agni; no other deity approaches these two in this respect. Indra pervades every aspect of nature even more thoroughly than Agni. In the Zend Avesta, Indra's name appears as "Andra," though there his status is much diminished, reduced to a demon (pishacha); yet his chief epithet, "Vritra-slayer," survives there too, as "Verethraghna."
 
-In the Veda, Indra lacks no admirable quality. Summarized briefly: Indra was born from heaven, or from earth (VII-20-5); as soon as born, he drank Soma (VII-98-3); he is the most ancient of deities, yet ever-youthful; generous, courageous, destroyer of enemies, of infinite strength; supporter of the falling heavens; golden-armed (*hiraṇyabāhuḥ*, VII-34-4); his horses are yoked...
+In the Veda, Indra lacks no admirable quality. Summarized briefly: Indra was born from heaven, or from earth (VII-20-5); as soon as born, he drank Soma (VII-98-3); he is the most ancient of deities, yet ever-youthful; generous, courageous, destroyer of enemies, of infinite strength; supporter of the falling heavens; golden-armed (*hiraṇyabāhuḥ*, VII-34-4); his horses are yoked
 
 <div class="pgmark">original p. 211</div>
 
-...his golden-horsed chariot; his weapon is the thunderbolt (vajra); none equals him in Soma-drinking, through which he becomes intoxicated and destroys the rakshasas (VII-22-1,2 & VII-29-1) — on one occasion drinking Soma poured from thirty vessels (VII-77-4), among other feats.
+to his golden-horsed chariot; his weapon is the thunderbolt (vajra); none equals him in Soma-drinking, through which he becomes intoxicated and destroys the rakshasas (VII-22-1,2 & VII-29-1) — on one occasion drinking Soma poured from thirty vessels (VII-77-4), among other feats.
 
 With Vishnu's aid, Indra defeated the demons Vritra, Ahi, Shushna, Namuchi, and Shambara — who had obstructed the waters — releasing what they had blocked (VII-99-4–5) and destroying the Asuras along with their cities. Indra is a great hero and warrior; his arms alone reduce enemies to trembling submission. He watches over humankind as a father would, forgiving human transgressions with a generous heart, punishing adharma within his purview, and destroying the Dasyus, demons, and sinners.
 
@@ -6809,11 +6809,11 @@ Bal Gangadhar Tilak, in his *Arctic Home in the Vedas*, offers a different readi
 
 ### Soma
 
-Apart from Agni and Indra, Soma is the Rigveda's most celebrated deity — the entire ninth Mandala is devoted to his praise, and references to Soma recur even while praising other deities elsewhere. When inviting Indra and Agni to a rite, the poet specifically prays they come for Soma-drinking. Tradition variously describes the Soma-vine as originally existing in heaven before coming to earth; on earth, its...
+Apart from Agni and Indra, Soma is the Rigveda's most celebrated deity — the entire ninth Mandala is devoted to his praise, and references to Soma recur even while praising other deities elsewhere. When inviting Indra and Agni to a rite, the poet specifically prays they come for Soma-drinking. Tradition variously describes the Soma-vine as originally existing in heaven before coming to earth; on earth, its
 
 <div class="pgmark">original p. 214</div>
 
-...abode was atop mountain peaks. The Soma-creeper was pressed by stones (gravana) to extract its juice, described as sweet, honey-like in taste — its drinking bringing mental joy, bodily strength, and vigor, extensively praised by the poets. This Soma-juice itself is described as being like ambrosia (amrita).
+abode was atop mountain peaks. The Soma-creeper was pressed by stones (gravana) to extract its juice, described as sweet, honey-like in taste — its drinking bringing mental joy, bodily strength, and vigor, extensively praised by the poets. This Soma-juice itself is described as being like ambrosia (amrita).
 
 In the Avesta, the deity "Hoama" corresponds to Soma. The Rigveda describes Soma as growing on mountains, white in color, with hard stalks — called king of the herbs/forest-plants, its juice extracted with stones, warding off disease, granting immortality, and ruling among the deities; this description recurs consistently across the text. Because Soma connects to so many different yajnas, its original, precise significance is difficult to pin down.
 
@@ -6840,11 +6840,11 @@ This mantra, addressing both deities, shows their distinction: "Indra performs t
 >
 > "Watching over the truth and falsehood of people."
 
-He observes people's honesty and dishonesty; his laws cannot be transgressed with impunity. Wrongdoers approach him with great humility, seeking forgiveness or compassion...
+He observes people's honesty and dishonesty; his laws cannot be transgressed with impunity. Wrongdoers approach him with great humility, seeking forgiveness or compassion,
 
 <div class="pgmark">original p. 215</div>
 
-...offering prayers. Varuna's relationship with his devotee is compared to that of father and son — people who have sinned through ignorance beg his forgiveness as a child calls out to its father.
+offering prayers. Varuna's relationship with his devotee is compared to that of father and son — people who have sinned through ignorance beg his forgiveness as a child calls out to its father.
 
 Many further characteristics are attributed to Varuna: he is perceptible only in the devotee's mind (VII-88-2); he possesses great power and mental steadfastness; his vision reaches far; his eye is the sun; nothing in the world escapes him; he holds Asura-like (mighty/lordly) power and māyā — a distinctive power especially associated with Kshatriyas (VII-28-4); his knowledge and awareness are without limit.
 
@@ -6888,7 +6888,7 @@ Many stories are told of these deities: they restored youth and long life to the
 
 <div class="pgmark">original p. 217</div>
 
-...the rishi Atrishpravadhya, thrown into a burning pit by demons, was rescued by the Ashvins, who protect such devotees (I-116-8; VI-50-10). They restored a quail's severed limb after a wolf attacked it, and restrained the quail's father from a curse; the quail then prayed to the Ashvins, who took compassion and restored its eyes (I-116-16; I-117-17). Vishpala, whose leg was severed in battle, received an iron leg from them (I-116-15); a crow whose wings were cut had them regrown by these deities (I-116-22). Many further such stories exist.
+The rishi Atrishpravadhya, thrown into a burning pit by demons, was rescued by the Ashvins, who protect such devotees (I-116-8; VI-50-10). They restored a quail's severed limb after a wolf attacked it, and restrained the quail's father from a curse; the quail then prayed to the Ashvins, who took compassion and restored its eyes (I-116-16; I-117-17). Vishpala, whose leg was severed in battle, received an iron leg from them (I-116-15); a crow whose wings were cut had them regrown by these deities (I-116-22). Many further such stories exist.
 
 ### Surya (The Sun)
 
@@ -7412,7 +7412,7 @@ The Nighantu-commentator Devarajayajva (1313 CE) also predates Sayanacharya. In 
 
 <div class="pgmark">original p. 236</div>
 
-...Venkata Madhava's son Madhava, in his own Anukramani commentary, states he examined other Acharyas' commentaries before composing his own — confirming Venkata Madhava predates Devarajayajva.
+Venkata Madhava's son Madhava, in his own Anukramani commentary, states he examined other Acharyas' commentaries before composing his own — confirming Venkata Madhava predates Devarajayajva.
 
 Keshavasvami's *Nānārthārṇavasaṃkṣepa* (before 1300 CE) gives an etymology of "gaulabba" based on Venkata Madhava's own authority:
 
@@ -7677,11 +7677,11 @@ An extraordinary bibliography for a single sukta's commentary: Skandabhashya, Ud
 
 Among these names, **Bhoja, Vijnaneshvara,** and the **Chandrika-author** are especially worth examining. The Chandrika-author is Devanabhatta himself, who also composed the Apastambakanda. Per Pandit Pandurang Vaman Kane, Vijnaneshvara's era runs from 1070 to 1100 CE; the *Smriti-chandrika*'s era begins in the early 13th century.
 
-Who exactly Atmananda's elder brother Lakshmidharacharya was cannot be determined with certainty — he is not the same Lakshmidharacharya who composed the *Kalpataru* (in 1142 CE)...
+Who exactly Atmananda's elder brother Lakshmidharacharya was cannot be determined with certainty — he is not the same Lakshmidharacharya who composed the *Kalpataru* (in 1142 CE),
 
 <div class="pgmark">original p. 245</div>
 
-...whose father is named Bhattojaddyada, whereas Atmananda's own father is stated as Vishnu Prakashakara — confirming these are two distinct individuals. From the above record it is certain that Atmananda was earlier than the year 1217. Among Vedic commentators, Atmananda cites Skanda, Udgitha, Bhaskara, and others, but never cites Sayana's examples — suggesting Atmananda lived somewhat before Sayana, and since no stronger evidence has been found so far, it must be said that his period cannot be later than the **13th century**.
+whose father is named Bhattojaddyada, whereas Atmananda's own father is stated as Vishnu Prakashakara — confirming these are two distinct individuals. From the above record it is certain that Atmananda was earlier than the year 1217. Among Vedic commentators, Atmananda cites Skanda, Udgitha, Bhaskara, and others, but never cites Sayana's examples — suggesting Atmananda lived somewhat before Sayana, and since no stronger evidence has been found so far, it must be said that his period cannot be later than the **13th century**.
 
 ### Manuscript Copies of Atmananda's Commentary
 
@@ -7745,11 +7745,11 @@ The first is drawn from Shakapurni's Nirukti, the second from a Nighantu — con
 
 Among Vedic commentators, **Sayanacharya** holds an especially venerable position. His vast study, exceptional familiarity with the Vedas, and scholarship across many disciplines are all evident from his Vedic literary output — his Veda-commentary stands as the clearest testament to his extraordinary caliber.
 
-His commentaries on the Vedas' Samhitas and Brahmanas are not only exceptionally excellent and clear but also correctly reveal the subtle truths hidden within the vast body of Vedic material...
+His commentaries on the Vedas' Samhitas and Brahmanas are not only exceptionally excellent and clear but also correctly reveal the subtle truths hidden within the vast body of Vedic material
 
 <div class="pgmark">original p. 247</div>
 
-...clarifying the subtle truths concealed in Vedic material in a fully accessible way — an immense service. Even accounting for all the earlier commentators, their works aren't fully available to us today, with only some names known; where Vedic commentaries do survive, they typically cover only a small, abridged portion. Among all who received honor for composing Veda-commentaries, Sayana's own achievement stands foremost. His own celebrated fellow-commentators were his brothers — ministers to the Vijayanagara kings, who protected the Vedic commentarial tradition and composed many excellent texts, achieving leading positions in scholarship. Owing to circumstance, this great man's biography has not come down to us in full detail — even so, we present here, with what help is available, a summary of the main points of his life.
+in a fully accessible way — an immense service. Even accounting for all the earlier commentators, their works aren't fully available to us today, with only some names known; where Vedic commentaries do survive, they typically cover only a small, abridged portion. Among all who received honor for composing Veda-commentaries, Sayana's own achievement stands foremost. His own celebrated fellow-commentators were his brothers — ministers to the Vijayanagara kings, who protected the Vedic commentarial tradition and composed many excellent texts, achieving leading positions in scholarship. Owing to circumstance, this great man's biography has not come down to us in full detail — even so, we present here, with what help is available, a summary of the main points of his life.
 
 Sayana was born into a well-known Brahmin family in South India, of the Bharadvaja gotra. His father was named Mayana, his mother Shrimati. His family specialized in interpreting the Krishna Yajurveda — hence Sayana first wrote a commentary on the Krishna Yajurveda's Taittiriya Samhita before turning to the Rigveda. He had an elder brother, **Madhavacharya**, and a younger brother, **Bhoganatha**.
 
@@ -7766,7 +7766,7 @@ Madhavacharya is credited with many works, though not all attributions are fully
 
 <div class="pgmark">original p. 248</div>
 
-...composed with the aid of his teacher's own brother, Bharati-tirtha.
+The last two of these were composed with the aid of his teacher's own brother, Bharati-tirtha.
 
 Whether this Madhavacharya and the famed monk **Vidyaranya** were one and the same person, or two distinct individuals, remains genuinely debated. Some scholars firmly hold they are identical; others find this doubtful without offering a strong counter-case. Most of the works discussed here are attributed to Madhavacharya, and it is well-established that Madhavacharya, minister to Vijayanagara's founding kings, holds the central historical role — a question examined in detail by Sriman Hastavakal Krishnamachari's article in *Indian Historical Quarterly* (Vol. VI, pp. 701–717), which weighs the evidence on whether "Madhavacharya" and "Vidyaranya" name one figure or two across his ministerial and later monastic careers.
 
@@ -7809,11 +7809,11 @@ Based on texts and inscriptions, it becomes clear that Sayanacharya was connecte
 
 Kampana was the second son of Sangama I — younger brother of Harihara, the empire's founder — and ruled the kingdom's eastern provinces, likely corresponding to today's Nellore and Kadapa districts. For Kampana's son Sangama II, the brothers governed efficiently during his childhood and ensured his excellent education; once he came of age, they handed him the kingdom and moved to serve at the court of his uncle **Bukka I** (1350–1379), continuing as ministers into the reign of his son **Harihara II** (1379–1399), assisting each king in turn.
 
-That a scholar who composed commentaries on all four Vedas possessed extraordinary learning is only natural — but that this same man was also an exceptional warrior, wielding a sword in battle with real valor, is genuinely astonishing to consider. These were not merely deeply immersed Mimamsakas skilled at explaining difficult Vedic mantras — they were capable administrators of a great kingdom, and mighty warriors who themselves entered the battlefield. Immense scholarship combined with worldly shrewdness and sound judgment...
+That a scholar who composed commentaries on all four Vedas possessed extraordinary learning is only natural — but that this same man was also an exceptional warrior, wielding a sword in battle with real valor, is genuinely astonishing to consider. These were not merely deeply immersed Mimamsakas skilled at explaining difficult Vedic mantras — they were capable administrators of a great kingdom, and mighty warriors who themselves entered the battlefield. Immense scholarship combined with worldly shrewdness and sound judgment.
 
 <div class="pgmark">original p. 250</div>
 
-...mental strength, divine grace, scholarship, and heroism all combined in them. Alongside his lord Sangama, Sayana personally led an army to capture the Chola kingdom's Kampana region and the fortress town of the Kondavidu chief (*Indian Antiquary*, 1916, p. 23). The *Alankara-sudhanidhi* describes his valor:
+Mental strength, divine grace, scholarship, and heroism all combined in them. Alongside his lord Sangama, Sayana personally led an army to capture the Chola kingdom's Kampana region and the fortress town of the Kondavidu chief (*Indian Antiquary*, 1916, p. 23). The *Alankara-sudhanidhi* describes his valor:
 
 > जगद्गीर्यस्य जागर्ति कृपाणः सायणप्रभोः । किमित्येते वृथाटोपा गर्जन्ति परिसंस्थिनः ॥
 >
@@ -7926,11 +7926,11 @@ He also commented on the Brahmana and Aranyaka texts belonging to these Samhitas
 **D. Shukla Yajurveda**
 1. Shatapatha Brahmana
 
-Per this list, Sayanacharya composed his Krishna Yajurveda commentary first, before turning to the other Vedas. Yet the Rigveda is established, on many grounds, as foremost among the four Vedas — the root source of Sanskrit itself and the most ancient of the four. If one asks why Sayana did not begin with the Rigveda commentary instead, he answers this himself at the opening of his Rigveda-Bhashya-Bhumika (introduction): the Vedas' primary use is in yajnas, and whatever yajna is performed, its central officiant is the **Adhvaryu priest** — who, taking up a given form of the sacrifice, enacts/describes it (this is the sense of "*yajñasya mātrāṃ vimimīte*," "he measures out the yajna's form"). What he must follow is the Yajus [Yajurveda]...
+Per this list, Sayanacharya composed his Krishna Yajurveda commentary first, before turning to the other Vedas. Yet the Rigveda is established, on many grounds, as foremost among the four Vedas — the root source of Sanskrit itself and the most ancient of the four. If one asks why Sayana did not begin with the Rigveda commentary instead, he answers this himself at the opening of his Rigveda-Bhashya-Bhumika (introduction): the Vedas' primary use is in yajnas, and whatever yajna is performed, its central officiant is the **Adhvaryu priest** — who, taking up a given form of the sacrifice, enacts/describes it (this is the sense of "*yajñasya mātrāṃ vimimīte*," "he measures out the yajna's form"). What he must follow is the Yajus [Yajurveda].
 
 <div class="pgmark">original p. 254</div>
 
-...the Veda he must know first is the Yajurveda — so Sayana composed that commentary first, taking up the Rigveda only afterward. His own family tradition was Yajurvedic besides, making this a natural order for him as well.
+Hence the Veda he must know first is the Yajurveda — so Sayana composed that commentary first, taking up the Rigveda only afterward. His own family tradition was Yajurvedic besides, making this a natural order for him as well.
 
 ### The Introductions (Bhumikas) to the Veda-Commentaries
 
@@ -8014,11 +8014,11 @@ Some scholars hold that "Ravana" is simply another name for Sayanacharya himself
 
 *(Approximate period: 1413–1419 CE)*
 
-Nothing is reliably known of his background — no solid evidence exists, and he never mentions his own circumstances anywhere in his text. In one copy of his commentary, held at the India Office...
+Nothing is reliably known of his background — no solid evidence exists, and he never mentions his own circumstances anywhere in his text. Copies of his commentary exist: one at the India Office,
 
 <div class="pgmark">original p. 258</div>
 
-...one at the Mysore Oriental Library and another at Lahore. None is complete: the Mysore copy has the first Ashtaka and the Lahore copy Ashtakas 4–5. The copy in London reads "saṃvat 147…"; the last figure has been erased. On this basis it may be conjectured that this copy was written in about the first quarter of the 15th century.
+one at the Mysore Oriental Library and another at Lahore. None is complete: the Mysore copy has the first Ashtaka and the Lahore copy Ashtakas 4–5. The copy in London reads "saṃvat 147…"; the last figure has been erased. On this basis it may be conjectured that this copy was written in about the first quarter of the 15th century.
 
 Mudgala uses grammatical terminology extensively throughout, generally conducting his own analysis within that framework, though his commentary appears to cover only the essential, summarized portions rather than full detail:
 
@@ -8282,11 +8282,11 @@ In describing the history of the commentators on the Ṛgveda, the time of Rāva
 
 (time about 1587 C.E.)
 
-He was a resident of Kāśī. He wrote a Tantra work called *Mantra-mahodadhi*, and a commentary on it too. But in these no capacity of his own is seen. His is like a shadow of Uvaṭa's commentary. There is only this much difference between the two. In Uvaṭa's commentary (the sentence continues on the next page).
+He was a resident of Kāśī. He wrote a Tantra work called *Mantra-mahodadhi*, and a commentary on it too. But in these no capacity of his own is seen. His is like a shadow of Uvaṭa's commentary. There is only this much difference between the two. In Uvaṭa's commentary
 
 <div class="pgmark">original p. 265</div>
 
-...there is no sign that he has quoted sentences of the Kātyāyana Śrauta-sūtra. But Mahīdhara has put everything into his commentary on the basis of Sāyaṇa's commentary on the Kāṇva-saṃhitā. Mahīdhara's commentary has no great excellence.
+there is no sign that he has quoted sentences of the Kātyāyana Śrauta-sūtra. But Mahīdhara has put everything into his commentary on the basis of Sāyaṇa's commentary on the Kāṇva-saṃhitā. Mahīdhara's commentary has no great excellence.
 
 A little discussion has been made about the time of this man. According to the view of some he was of the 12th century C.E. On this basis they quote the auspicious verse of the commentary:
 
@@ -8840,11 +8840,11 @@ In the series of publications of the Government Oriental Library, Mysore, this c
 
  "*Ataḥ param*" ("hereafter") — if it must be written "next, further on", then the commentary on the preceding parts must have been composed.
 
-In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the 4th kāṇḍa
+In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the remaining 4th kāṇḍa
 
 <div class="pgmark">original p. 276</div>
 
-... of the rest. Therefore there is no doubt in saying that this Rudra commentary too is his, and a complete commentary can be found with a little effort.
+Therefore there is no doubt in saying that this Rudra commentary too is his, and a complete commentary can be found with a little effort.
 
 He may have been a Śaiva. In the auspicious verse he has made obeisance to Śiva. This commentary is of the best kind. The effort to print a pure and complete work is worthy of praise.
 
@@ -9715,11 +9715,11 @@ The **Brahmanas**, themselves a portion of the Veda, already engage in explainin
 
 Though the well-known **Sarvanukramani** is available to us today, proper interpretation of the Veda depends primarily on **Yaska's Nirukta** — no other surviving text has been found to serve this purpose as thoroughly, though even the Nirukta does not fully resolve every difficulty in understanding the Veda's meaning.
 
-The single most important text aimed specifically at explaining the Veda's meaning is Yaska's Nirukta. No earlier text serving this same purpose has been found to have survived; but this text too, in relation to the Vedas...
+The single most important text aimed specifically at explaining the Veda's meaning is Yaska's Nirukta. No earlier text serving this same purpose has been found to have survived; but this text too, in relation to the Vedas,
 
 <div class="pgmark">original p. 297</div>
 
-...bears no relation to chronology at all. Yaska sometimes glosses words in a specifically Vedic sense, and sometimes in the sense of Sanskrit as then commonly spoken — and occasionally applies both senses to the very same word. For example:
+cannot be called contemporary with them. Yaska sometimes glosses words in a specifically Vedic sense, and sometimes in the sense of Sanskrit as then commonly spoken — and occasionally applies both senses to the very same word. For example:
 
 > इवेति भाषायां च अन्वध्यायं च । अग्निरिवेन्द्र, इनेति । नेति प्रतिषेधार्थीयो भाषायाम् । उभयमन्वध्यायम् ।
 >
@@ -9735,7 +9735,7 @@ Two further considerations from the Nirukta confirm this. If the Veda were alrea
 
 <div class="pgmark">original p. 298</div>
 
-...even having examined all these elements, Yaska never claims his own interpretation is definitively correct — nor should one assume the Nirukta's help alone suffices for grasping the Veda's true meaning.
+Even having examined all these elements, Yaska never claims his own interpretation is definitively correct — nor should one assume the Nirukta's help alone suffices for grasping the Veda's true meaning.
 
 At one point, the Nirukta reveals just how far earlier interpreters had gone on a given question — for instance, regarding the word "Vritra" (what creature is it? what color?):
 
@@ -9751,7 +9751,7 @@ In the Vedic era, everything proceeded on the strength of faith — one might ev
 
 **Shankaracharya** generally wrote commentaries on the Upanishads — but even there, only on the major ones — with no proper commentary on the Samhita itself; his Upanishad commentaries occasionally touch on individual mantras in passing.
 
-Even though the **Purva-Mimamsa-shastra's** stated purpose is to establish the Veda's meaning, examining the text from beginning to end reveals not specific Vedic meanings but rather the *method* by which the Veda should be interpreted — laying out many interpretive rules rather than glossing mantras directly...
+Even though the **Purva-Mimamsa-shastra's** stated purpose is to establish the Veda's meaning, examining the text from beginning to end reveals not specific Vedic meanings but rather the *method* by which the Veda should be interpreted — laying out many interpretive rules rather than glossing mantras directly. For example:
 
 <div class="pgmark">original p. 299</div>
 
@@ -9807,11 +9807,11 @@ In this way, something that could be explained simply and naturally instead rece
 
 One side of the picture has been given above; the other cannot be ignored. Considering it fairly reveals the true value of Sayanacharya's contribution. Had Sayanacharya never written his commentary, what state would Vedic scholarship be in today? It is hard even to imagine. Objecting to his work is easy — but even those who object must acknowledge their own debt to it. Max Müller himself, while editing this very text, wrote:
 
-> "........Those who recollect the history of Vedic scholarship........know best that with all its faults and weaknesses Sayana's Commentary has a *Sine qua non* for a scholarlike study of the Rigveda. I do not wonder that others who have more recently entered on that study are inclined to speak disparagingly of the scholastic interpretations of Sayana. They hardly know how much we all owe to his guidance in effecting our first entrance into this..."
+> "........Those who recollect the history of Vedic scholarship........know best that with all its faults and weaknesses Sayana's Commentary has a *Sine qua non* for a scholarlike study of the Rigveda. I do not wonder that others who have more recently entered on that study are inclined to speak disparagingly of the scholastic interpretations of Sayana. They hardly know how much we all owe to his guidance in effecting our first entrance into this"
 
 <div class="pgmark">original p. 302</div>
 
-> "...fortress of Vedic language and Vedic religion, and how much even they, without being aware of it, are indebted to that Indian Eustathius.....Who does not know how much assistance may be derived from a first translation, even though it is imperfect, nay, how often the very mistakes of our predecessors help us in finding the right track? If we can now see further than he could, let us not forget that we are standing on his shoulders."
+> "fortress of Vedic language and Vedic religion, and how much even they, without being aware of it, are indebted to that Indian Eustathius.....Who does not know how much assistance may be derived from a first translation, even though it is imperfect, nay, how often the very mistakes of our predecessors help us in finding the right track? If we can now see further than he could, let us not forget that we are standing on his shoulders."
 
 Anyone examining Vedic scholarship will see that Sayanacharya's commentary, faults and all, has not been surpassed. Even its critics must acknowledge its special mastery.
 
@@ -9827,11 +9827,11 @@ Vedic scholars' efforts to preserve the Veda over the centuries deserve real pra
 
 Study paused on Paurnamasa, Ashtami, Chaturdashi, Purnima, and eclipse days. Each morning, after his own rituals, the guru assigned the day's or week's new lesson in fixed sequence; students practiced the previous lesson before receiving the new one. In this way, students worked through the entire Samhita along with its corresponding Brahmana, Aranyaka, and Upanishads — alongside the Vedangas (Shiksha, etc.), Kalpasutra, Dharmashastra, Puranas, and Itihasa — pausing during the Ashadha rainy season. This full course was reckoned to take roughly **twelve years**.
 
-Beginning Vedic study required prior **upanayana** (the sacred-thread initiation with the Gayatri mantra) — without it, one had no standing to study the Veda at all. Throughout the period of study, the student had to reside in the guru's own household, serving him and his elders with reverence. These regulations appear in the Grihyasutra texts...
+Beginning Vedic study required prior **upanayana** (the sacred-thread initiation with the Gayatri mantra) — without it, one had no standing to study the Veda at all. Throughout the period of study, the student had to reside in the guru's own household, serving him and his elders with reverence. These regulations appear in the Grihyasutra texts
 
 <div class="pgmark">original p. 304</div>
 
-...After completing Vedic study, following personal capacity and available time, further shastras (or other Vedas) could be studied; the disciple would then take leave of the guru with a satisfying dakshina and return home, studies complete. This is the ancient tradition.
+in detail. After completing Vedic study, following personal capacity and available time, further shastras (or other Vedas) could be studied; the disciple would then take leave of the guru with a satisfying dakshina and return home, studies complete. This is the ancient tradition.
 
 ### The Method of Vedic Study
 
@@ -9978,11 +9978,11 @@ The German scholar **Rudolph Roth**, in the *St. Petersburg Sanskrit-German Lexi
 
 The German scholar **A. Weber** wrote *Indische Studien*, covering the Vedas, Vedanta, grammar, Nirukta, and lexicography comprehensively, as well as the well-known *History of Sanskrit Literature*.
 
-The German scholar **Franz Bopp** studied Sanskrit primarily for comparative linguistics rather than Vedic interpretation specifically — his writings are more introductory in nature, focused on language comparison across the broader Indo-European family rather than Sanskrit alone. Even so, his contribution to Sanskrit scholarship generally was substantial...
+The German scholar **Franz Bopp** studied Sanskrit primarily for comparative linguistics rather than Vedic interpretation specifically — his writings are more introductory in nature, focused on language comparison across the broader Indo-European family rather than Sanskrit alone. Even so, his contribution to Sanskrit scholarship generally was substantial.
 
 <div class="pgmark">original p. 311</div>
 
-...whether Bopp's stated neutrality actually held up in practice is a separate question — writers sharing his broad perspective generally accept traditional textual views as authoritative up to a point, but depart from tradition once critical examination begins, giving priority to the subject itself over inherited convention. Truly impartial scholars on Hindu-shastra topics remain genuinely rare.
+Whether Bopp's stated neutrality actually held up in practice is a separate question — writers sharing his broad perspective generally accept traditional textual views as authoritative up to a point, but depart from tradition once critical examination begins, giving priority to the subject itself over inherited convention. Truly impartial scholars on Hindu-shastra topics remain genuinely rare.
 
 Remarkably, the **first printed edition of the sacred, ancient Rigveda Samhita** was not published in India at all — a German scholar, **Max Müller**, edited it together with Sayana's commentary and published it in England. This edition became the foundation of modern Vedic study; before it, study proceeded solely through oral instruction. Max Müller also wrote *Ancient Sanskrit Literature*, extensively covering Vedic literature and publishing much previously unavailable material alongside Vedic citations — a work whose usefulness for correctly understanding Vedic meaning remains undiminished even today.
 
@@ -10004,11 +10004,11 @@ That is: for each topic, he first cites relevant Rigveda material, then the Brah
 
 **Kaegi** wrote in 1880 a critical German-language study of the Rigveda's subject matter (later translated into English) — cited repeatedly throughout the present work.
 
-**Geldner** and **Pischel**, two German scholars, jointly produced a Vedic-studies volume clarifying how the Veda's meaning should properly be approached. They re-examined obscure or seemingly contradictory Vedic words, tracing them to their proper forms and offering fresh, previously unclear interpretations; several suktas were re-translated into German with word-by-word glosses, etymological notes, and commentary surveying all prior interpretive attempts...
+**Geldner** and **Pischel**, two German scholars, jointly produced a Vedic-studies volume clarifying how the Veda's meaning should properly be approached. They re-examined obscure or seemingly contradictory Vedic words, tracing them to their proper forms and offering fresh, previously unclear interpretations; several suktas were re-translated into German with word-by-word glosses, etymological notes, and commentary surveying all prior interpretive attempts
 
 <div class="pgmark">original p. 313</div>
 
-...their conclusions blend ancient and modern viewpoints, neither fully accepting tradition nor entirely rejecting it without reason — a genuinely balanced approach.
+in this way showing the method of studying the Vedic mantras. Their conclusions blend ancient and modern viewpoints, neither fully accepting tradition nor entirely rejecting it without reason — a genuinely balanced approach.
 
 **Whitney's** grammar is a highly valued text, generally more connected to modern Sanskrit scholarship than other current grammars — but it also makes a deliberate effort to show Vedic and classical grammatical forms side by side wherever they diverge (e.g., *devaḥ, devasya, devebhiḥ, devaiḥ*, with Vedic variants noted alongside). Its treatment of pronunciation is likewise extremely useful.
 
@@ -10032,11 +10032,11 @@ Vedic-subject scholarship and critique continue to be published even now, with a
 
 Having now surveyed the work of ancient and modern scholars toward Vedic study, let us examine how the Veda itself should be studied to grasp its meaning — what attitude a student should bring, and what the aim of such study should be.
 
-Every student, in their school years, reads many textbooks across subjects, generally aiming to pass examinations. But should the goal be merely passing exams, or genuinely acquiring the knowledge those books contain? Should the goal belong to the teacher, the student, or both? There should be no aimlessness at all — the goal should be set appropriately to the student's stage of education, age, chosen field, and station in life...
+Every student, in their school years, reads many textbooks across subjects, generally aiming to pass examinations. But should the goal be merely passing exams, or genuinely acquiring the knowledge those books contain? Should the goal belong to the teacher, the student, or both? There should be no aimlessness at all — the goal should be set appropriately to the student's stage of education, age, chosen field, and station in life.
 
 <div class="pgmark">original p. 315</div>
 
-...applying one's own intellectual capacity in any context, and determining how to benefit oneself and others — or grasping the underlying principle of any new subject encountered through experience — is, at minimum, what education should achieve.
+The power of applying one's own intellectual capacity in any context, and determining how to benefit oneself and others — or grasping the underlying principle of any new subject encountered through experience — is, at minimum, what education should achieve.
 
 For a student, the primary goal of Vedic study should be genuine knowledge-seeking: gathering material, examining it broadly, comparing traditional and other viewpoints on difficult points, and reaching one's own reasoned determination — this is the mark of a true student. Since some mantras and words carry genuinely uncertain meaning, Vedic study demands real seriousness; conclusions should be earned through effort and held with confidence, not settled prematurely or left in confusion.
 
@@ -10044,11 +10044,11 @@ For a student, the primary goal of Vedic study should be genuine knowledge-seeki
 
 As already discussed, Sayanacharya's traditionalist approach accepts received opinion; where interpretations genuinely conflict, he doesn't insist on a single fixed meaning, nor does he require every determined meaning to rest on demonstrable proof — settling on an ungrounded meaning didn't trouble him the way it does modern critical scholarship.
 
-Western scholars, by contrast, approached Vedic study critically from the outset. Some, in critiquing fellow Westerners, argue that Sayanacharya should still be given priority in establishing the Veda's meaning...
+Western scholars, by contrast, approached Vedic study critically from the outset. Some, in critiquing fellow Westerners, argue that Sayanacharya should still be given priority in establishing the Veda's meaning
 
 <div class="pgmark">original p. 316</div>
 
-...say the Acharyas [should be given final authority] — arguing Sayana's commentary shows the correct path. But **Roth**, without altering Vedic study's core principles, adopted a modern critical approach from the outset — using inductive reasoning and cross-contextual comparison as his main tools, examining the Rigveda historically, gathering every occurrence of a word, comparing its usage alongside related terms, and tracking its meaning's evolution over time. Where Roth and like-minded scholars erred was in discarding the ancient scholarly tradition entirely — a fault of his own making, leading his explanations astray at many points.
+; they hold that only Acharyas like him are qualified — arguing Sayana's commentary shows the correct path. But **Roth**, without altering Vedic study's core principles, adopted a modern critical approach from the outset — using inductive reasoning and cross-contextual comparison as his main tools, examining the Rigveda historically, gathering every occurrence of a word, comparing its usage alongside related terms, and tracking its meaning's evolution over time. Where Roth and like-minded scholars erred was in discarding the ancient scholarly tradition entirely — a fault of his own making, leading his explanations astray at many points.
 
 Going forward, Vedic study needs a genuine **middle path** between these two extremes: following tradition where it proves reliable, while applying sound method to examine genuinely problematic points, determining meaning contextually case by case.
 
@@ -10080,7 +10080,7 @@ In this way, every sentence containing such words must be examined and its meani
 
 ### The Traditional (Vedic/Astika) View
 
-**Astikas**, who accept the Veda's authority, hold that the Vedas are beginningless (anādi) and eternal (nitya) — never originating at any point in time, having existed since beginningless time. Whatever needs to be known in this vast universe is held to be contained, in compressed form, within the Veda — the ultimate authority. The Shatapatha Brahmana states: "Prajapati, wishing to create, needed to know the complete range of eternal ritual-forms and materials needed for creation. He then considered these three: the Rigveda, Yajurveda, and Samaveda — known to contain everything." All meters, revealed texts (shrutis), life-force, and deities are said to be contained within it. This is eternal, beginningless, and alone called "Sat" (Being) from time without beginning — the Veda encompassing everything, with no question of it deriving from anything prior. This same subject is discussed in the Purusha-sukta...
+**Astikas**, who accept the Veda's authority, hold that the Vedas are beginningless (anādi) and eternal (nitya) — never originating at any point in time, having existed since beginningless time. Whatever needs to be known in this vast universe is held to be contained, in compressed form, within the Veda — the ultimate authority. The Shatapatha Brahmana states: "Prajapati, wishing to create, needed to know the complete range of eternal ritual-forms and materials needed for creation. He then considered these three: the Rigveda, Yajurveda, and Samaveda — known to contain everything." All meters, revealed texts (shrutis), life-force, and deities are said to be contained within it. This is eternal, beginningless, and alone called "Sat" (Being) from time without beginning — the Veda encompassing everything, with no question of it deriving from anything prior. This same subject is discussed in the Purusha-sukta:
 
 <div class="pgmark">original p. 318</div>
 
@@ -10220,11 +10220,11 @@ One view holds that the Vedic-era Aryans, being entirely uncivilized, were simpl
 
 Even granting limited planning, the rishis clearly composed with real worldly awareness — their careful attention to meter and structure, each mantra crafted with a specific purpose, each deity praised to secure favor for a particular yajna, mantras revised and refined over time, and appropriate mantras composed as community needs demanded within inherited compositional conventions (1-109-1; 1-62-13; 2-19-8, etc.) — none of this is the work of uncivilized, primitive people. This is my counter-argument.
 
-The Vedic doctrine's most important trait, and its practical value, lies in its embodiment of ritual action (karma) — of great use to practitioners and result-seekers alike. The Rigveda's genuine poetic spirit suggests an era where sacrificial practice was already well-established and mature...
+The Vedic doctrine's most important trait, and its practical value, lies in its embodiment of ritual action (karma) — of great use to practitioners and result-seekers alike. The Rigveda's genuine poetic spirit suggests an era where sacrificial practice was already well-established and mature.
 
 <div class="pgmark">original p. 325</div>
 
-...the ritual acts of yajnas — composed with a poet's rhythmic care, or sung with a warrior's rallying spirit — sought longevity, wealth, fame, sons, and cattle for the community through fire-offerings and Soma-libations (see e.g. 7-1-5; 7-1-23).
+Its verses, used in ritual acts of yajnas — composed with a poet's rhythmic care, or sung with a warrior's rallying spirit — sought longevity, wealth, fame, sons, and cattle for the community through fire-offerings and Soma-libations (see e.g. 7-1-5; 7-1-23).
 
 The Rigveda, being primarily connected to the **Purohita** class, naturally reflects their own worldview — where priestly matters took priority, devotion to the deities was steadfast, and prayer went well beyond basic subsistence. In war, kings prayed for victory through their Purohita, pleasing their chosen deity and considering it improper to abandon that deity for a rival one once devotion had been pledged. In the 83rd sukta of Mandala 7, Vasishtha calls on Indra and Varuna to aid his patron Sudas (7-83-3), relying jointly on Indra and Varuna for aid in the same battle — even while helping one side, no hesitation existed about opposing the other:
 
@@ -10318,7 +10318,7 @@ Indeed, through Mandala 9, the Rigveda shows no established basis for caste dist
 
 <div class="pgmark">original p. 330</div>
 
-...from the Virat-Purusha's face the Brahmin was born, from his arms the king (Kshatriya), from his thigh-region the Vaishya, and from his feet the Shudra.
+From the Virat-Purusha's face the Brahmin was born, from his arms the king (Kshatriya), from his thigh-region the Vaishya, and from his feet the Shudra.
 
 Some scholars hold that this sukta stands apart from the Rigveda's general flow and style, suggesting a later addition — though others dispute this. One theory holds that the body-part imagery reflects a functional division: Brahmins, born of the mouth/head, took up knowledge and learning, becoming particularly devoted to deity-worship and governance-adjacent affairs; those relying on physical strength for society's protection became Kshatriyas; trade and agriculture fell to Vaishyas; and whatever labor supported the body's basic needs and other humbler tasks fell to Shudras. This suggests occupational necessity, rather than everyone being assigned a single fixed task from birth, gave rise to these four divisions naturally. Puranic and related texts, however, state plainly that the four-varna division is fixed by birth (janmataḥ siddha).
 
@@ -10498,11 +10498,11 @@ From the last parts of the Ṛgveda it is known that the Aryans had settled in t
 
 **Max Müller** was the first to attempt a fixed dating, in his 1859 *History of Ancient Sanskrit Literature*, working backward from the known beginning of Buddhism as an anchor point.
 
-Brahmanism (Vedic doctrine) was already well established before Buddhism arose. Buddhism developed specifically as a reaction against Vedic custom and worldview, its own texts spreading extensively in opposition to Vedic ideology...
+Brahmanism (Vedic doctrine) was already well established before Buddhism arose. Buddhism developed specifically as a reaction against Vedic custom and worldview, its own texts spreading extensively in opposition to Vedic ideology
 
 <div class="pgmark">original p. 338</div>
 
-...Or the Sutra texts, the last of the Vedic texts, may be said to belong to this time or near it; that is, they may be thought to be of about 600 to 200 BC. The Brahmanas precede the Sutras. Among the Brahmanas there are older and newer ones, and for so many Brahmanas to be composed not less than two hundred years would suffice. So: two hundred years for the Brahmanas, and before them two hundred years for the Samhita part. Thus the beginning of the Vedas may be said to be about 1000 BC. When the ṛks were composed they could not have been in book form; so for some years before this the mantras were composed and people used them freely, and afterwards they were all collected and brought into use as books. If two hundred years are added for the composition of these mantras, the beginning of the Veda may be said to be 1200 BC.
+; by then the Vedas and their related texts must already have been in full currency. Or the Sutra texts, the last of the Vedic texts, may be said to belong to this time or near it; that is, they may be thought to be of about 600 to 200 BC. The Brahmanas precede the Sutras. Among the Brahmanas there are older and newer ones, and for so many Brahmanas to be composed not less than two hundred years would suffice. So: two hundred years for the Brahmanas, and before them two hundred years for the Samhita part. Thus the beginning of the Vedas may be said to be about 1000 BC. When the ṛks were composed they could not have been in book form; so for some years before this the mantras were composed and people used them freely, and afterwards they were all collected and brought into use as books. If two hundred years are added for the composition of these mantras, the beginning of the Veda may be said to be 1200 BC.
 
 Max Müller's own original dating is not considered decisive — essentially an educated guess without firm grounding, since assigning a fixed number of years to each successive textual layer (Samhita, Brahmana, Sutra) has no genuinely scientific basis; civilizational development doesn't proceed in neat, countable increments. Max Müller himself, in his later 1889 Gifford Lectures on *Physical Religion*, revisited the subject and famously admitted:
 
@@ -10510,11 +10510,11 @@ Max Müller's own original dating is not considered decisive — essentially an 
 
 A merely impressionistic acceptance, without genuine critical examination, isn't appropriate here — though Max Müller's rough 1200 BCE estimate is not accepted point-by-point by everyone, other scholars have arrived at broadly similar figures independently. Some scholars (**L. Von Schroeder**) dared to say that the Vedas belong to about the 15th–20th century BC; likewise **H. Jacobi**'s statement that the Vedas are earlier than 30 centuries BC raised a great uproar among scholars, who forgot on how weak a basis they had themselves fixed the 12th century BC. Jacobi based his dating on **astronomical evidence** — drawing on Jyotisha-shastra (astronomical science) to support their dating. **Ludwig**, similarly, attempted a clear determination based on solar eclipse references.
 
-In ancient Hindu society, before undertaking any ritual action, households would consult auspicious timing and decide on marriage-dates and similar matters before beginning — and the Brahmanas and Sutras contain material related to Jyotisha-shastra (astronomy)...
+In ancient Hindu society, before undertaking any ritual action, households would consult auspicious timing and decide on marriage-dates and similar matters before beginning — and the Brahmanas and Sutras contain material related to Jyotisha-shastra (astronomy)
 
 <div class="pgmark">original p. 339</div>
 
-...[the references in the Brahmanas and Sutras to astronomy] are countless. Among them the nakshatras have great importance. The time of a sacrifice was fixed according to the movement of the 27 nakshatras and the moon. When the moon leaves one nakshatra and goes to the next, that is reckoned as one day; for the moon to go once round all 27 nakshatras takes 27 days, and these 27 days are reckoned as one month. Twelve such months are called one year. This appears to have been the custom of that time. Here and there in the Veda it is said that such a sacrifice is to be performed in such a nakshatra, that is, when the moon is in such a nakshatra.
+in countless places. Among them the nakshatras have great importance. The time of a sacrifice was fixed according to the movement of the 27 nakshatras and the moon. When the moon leaves one nakshatra and goes to the next, that is reckoned as one day; for the moon to go once round all 27 nakshatras takes 27 days, and these 27 days are reckoned as one month. Twelve such months are called one year. This appears to have been the custom of that time. Here and there in the Veda it is said that such a sacrifice is to be performed in such a nakshatra, that is, when the moon is in such a nakshatra.
 
 After some time this nakshatra reckoning appears to have lapsed and the solar measure to have come into use. The sun is in one of the 12 rāśis, Mesha and the rest; the reckoning that the time in which he goes round all 12 rāśis once is one year is in use even today. In the lunar measure, from one new moon to the next is one month. Attempts are seen to reconcile the solar and lunar measures in one way or another, and on the basis of these attempts dating becomes possible.
 
@@ -10522,21 +10522,21 @@ It is on this basis that Jacobi and the Indian scholar B. G. Tilak dated the Ved
 
 In the time of the Brahmanas there is an indication that the Mesha-saṅkramaṇa (the vernal equinox) began in the Krittika nakshatra; but in the Samhita portions, older than these, it is said that this saṅkramaṇa began in the Mrigashiras nakshatra. Calculating by the order of the nakshatras, it is known that the Mesha-saṅkramaṇa fell in Krittika in about 2500 BC and in Mrigashiras in about 4500 BC. On this basis Jacobi conjectures that the civilization of the Vedas lay between about 4500 and 2500 BC, and concludes that the Samhita we now have was gathered and put into book form in the latter half of this period. But Tilak goes back as far as 6000 BC.
 
-Jacobi's conclusion has one more basis. In the Grihya-sutras a practice current at that time is described. When a newly married couple come to their home, they must look at the nakshatras: when the nakshatras begin to be seen, that is, after dark, the bridegroom shows his wife the Dhruva-nakshatra (the pole star) and says, "Like that nakshatra, may you live firmly with me." She addresses the nakshatra and prays, "You are firm; be gracious, that I too may be firm in the same way." From this one point can be known: the Dhruva-nakshatra spoken of must then have been a bright nakshatra appearing fixed near the north pole of the earth. As the earth goes round the sun, its north pole too turns slowly; in this turning…
+Jacobi's conclusion has one more basis. In the Grihya-sutras a practice current at that time is described. When a newly married couple come to their home, they must look at the nakshatras: when the nakshatras begin to be seen, that is, after dark, the bridegroom shows his wife the Dhruva-nakshatra (the pole star) and says, "Like that nakshatra, may you live firmly with me." She addresses the nakshatra and prays, "You are firm; be gracious, that I too may be firm in the same way." From this one point can be known: the Dhruva-nakshatra spoken of must then have been a bright nakshatra appearing fixed near the north pole of the earth. As the earth goes round the sun, its north pole too turns slowly; in this turning
 
 <div class="pgmark">original p. 340</div>
 
-…each nakshatra in turn comes near the north pole and is called the Dhruva-nakshatra. For one such circle to be completed takes 26,000 years. Among the nakshatras that become the Dhruva-nakshatra in turn, large nakshatras come only rarely. The present Dhruva-nakshatra is a small nakshatra of the Laghu-saptarshi group (the Little Bear), and it cannot be said that this same nakshatra was the Dhruva-nakshatra then. It is known that in 2780 BC there was another Dhruva-nakshatra. Therefore the time when this practice was current may be said to be the first half of the third millennium BC. This practice is not found anywhere in the Ṛgveda; therefore the Ṛgveda's period can boldly be said to be earlier than 3000 BC.
+each nakshatra in turn comes near the north pole and is called the Dhruva-nakshatra. For one such circle to be completed takes 26,000 years. Among the nakshatras that become the Dhruva-nakshatra in turn, large nakshatras come only rarely. The present Dhruva-nakshatra is a small nakshatra of the Laghu-saptarshi group (the Little Bear), and it cannot be said that this same nakshatra was the Dhruva-nakshatra then. It is known that in 2780 BC there was another Dhruva-nakshatra. Therefore the time when this practice was current may be said to be the first half of the third millennium BC. This practice is not found anywhere in the Ṛgveda; therefore the Ṛgveda's period can boldly be said to be earlier than 3000 BC.
 
 There are some faults in this argument. First, the very name *saṅkramaṇa* does not occur in the Vedas. Against the view that the Krittika nakshatra mentioned in the Shatapatha Brahmana (2-1-2-3) stays fixed in the east, the right meaning is that the Krittika nakshatra was seen for a long time in the eastern quarter (in 3000 BC), since Krittika does not rise exactly in the east; and this was so in about 1100 BC. Further, taking the beginning of the year over thousands of years: in some places one season and in other places another is called the beginning of the year, and the number of seasons in a year is not fixed either — there are 3, 4, 5 seasons, and so on. As for the Dhruva-nakshatra, it is not right either that a small nakshatra could not be the Dhruva-nakshatra and that it must have been a large one: since the sky in our country is clear, even a small nakshatra is seen distinctly. And since this practice is not even named in the Ṛgveda, it is wrong to conclude that the Vedas are earlier than this. The Veda does not mention every practice; so it is not proper to argue on this one alone.
 
 Though it is not possible to accept the views of Jacobi and Tilak, they became one reason for scholars to re-examine the date of the Veda. There was one more reason for the re-examination to be needed. As historical research advanced, it became clear that 700–800 years were not enough for the Aryans to spread over the whole of our country. It is known that in the first parts of the Ṛgveda the Aryans were in the Punjab, and it is known from inscriptions that by about 300 BC the Aryans had occupied South India. It is a known fact that the Bodhāyana and Āpastamba branches were current in South India; so the Aryans must have entered South India still earlier — perhaps about 700 BC, for to occupy a country, spread the Brahmanical dharma and establish new branches here would take a long time.
 
-If it is accepted that in 700–600 BC Aryan culture was spreading in the south, it is not possible to believe that the Aryans were in the Punjab in 1200 BC. In 500–600 years the Aryans [could not have occupied so] large…
+If it is accepted that in 700–600 BC Aryan culture was spreading in the south, it is not possible to believe that the Aryans were in the Punjab in 1200 BC. In 500–600 years the Aryans [could not have occupied so] large
 
 <div class="pgmark">original p. 341</div>
 
-...gradual assimilation and cultural spread over generations seems entirely plausible, requiring its own additional span of time to account for — this is **G. Buhler's** view.
+a country. Gradual assimilation and cultural spread over generations seems entirely plausible, requiring its own additional span of time to account for — this is **G. Buhler's** view.
 
 But **Oldenberg** argued thus: 700 years is not a short time, and many changes can happen within it. Considering how much change took place in America in four hundred years, one may guess what can happen in 700 years.
 
@@ -10560,11 +10560,11 @@ The historian **Meyer** holds that these deities belong to a shared ancient Arya
 
 It's not strictly necessary to claim these deities belonged *exclusively* to Vedic worship even at that early date — their worship may have spread into other regions before Vedic tradition, as we know it, later arrived in India along a related cultural stream. Considering this, some scholars in the field hold that an ancient, broadly Vedic-adjacent tradition already existed and extended over a considerable period, well established in various places by about the 14th century BC, with continuous worship-practice for a long time already behind it.
 
-**J. Hertel** argues the Veda's birthplace was not India at all, but Persia, dating its composition to the era of Zoroaster (550 BC). **G. Husing**...
+**J. Hertel** argues the Veda's birthplace was not India at all, but Persia, dating its composition to the era of Zoroaster (550 BC). **G. Husing**
 
 <div class="pgmark">original p. 343</div>
 
-**Husing** went a step further and argued that Kānīta Pṛthuśravas, who occurs in the Ṛgveda, and the Scythian king Kanishka are one and the same, and that the Vedas were not yet complete even in the 2nd century BC. There is no proper basis in support of his view.
+went a step further and argued that Kānīta Pṛthuśravas, who occurs in the Ṛgveda, and the Scythian king Kanishka are one and the same, and that the Vedas were not yet complete even in the 2nd century BC. There is no proper basis in support of his view.
 
 The very strong basis for saying that the Vedas are not older than three thousand years is the likeness — in religion, language and the like — between the Veda and the Avesta. But this likeness is easily explained in another way. If one or two facts are kept in mind it becomes very simple. First, the Indians and the Iranians belonged to one tribe, and even after separating the two were neighbours. As for the likeness in language: languages do not change according to any fixed rule; some change very fast and some very slowly. Languages connected with religion naturally change more slowly than the spoken tongue.
 
@@ -10666,13 +10666,9 @@ In this verse, Sayana states what occasioned this very undertaking. Through the 
 
 Scripture holds that protecting the citizenry according to dharma is a king's foremost duty — "protection" meaning not merely removing hardship and the fear of enemies, but ensuring citizens come to understand the essential truths of the Veda, Shastra, Purana, and Itihasa, so that, walking the path of truth, they become worthy recipients of divine grace. Such governance is impossible without divine grace itself. And "*nābhiṣvak pṛthivīpatiḥ*" — regarding Vishnu...
 
-**Embedded English translation, as given in the source:**
-
-> 3. By His (Maheswara's) favourable glance, King Bukka assumed His form, (became king) and bade the (celebrated) teacher Madhava to expound the meaning of the Vedas.
-
 <div class="pgmark">original p. 348</div>
 
-...the phrase "*nābhiṣvak pṛthivīpatiḥ*" ("the king who rules without partiality") is here understood to identify an impartial king as an embodiment of Vishnu himself — since protecting the world is Vishnu's own foremost task, a king who protects his citizens must be Vishnu's own portion, and no king can prosper without Ishvara's protection. King Bukka, holding this same divine favor, considered illuminating the Veda's meaning a task worthy of his position, and equal to accomplishing it.
+The phrase "*nābhiṣvak pṛthivīpatiḥ*" ("the king who rules without partiality") is here understood to identify an impartial king as an embodiment of Vishnu himself — since protecting the world is Vishnu's own foremost task, a king who protects his citizens must be Vishnu's own portion, and no king can prosper without Ishvara's protection. King Bukka, holding this same divine favor, considered illuminating the Veda's meaning a task worthy of his position, and equal to accomplishing it.
 
 **Verse 4:**
 
@@ -10704,19 +10700,11 @@ Accordingly, King Bukka summoned Sayanacharya and commanded him to compose a Ved
 
 This Madhavacharya was a scholar of great accomplishment, having already written commentaries on the Purva-Mimamsa and Uttara-Mimamsa systems for the convenience of learned readers; he now turns to illuminating the Vedas' meaning.
 
-The Purva-Mimamsa and Uttara-Mimamsa are the final two of the six orthodox philosophical systems (Shad-darshanas) — Purva-Mimamsa composed by the sage Jaimini, and Uttara-Mimamsa (or Sharirika-Mimamsa, the Brahma-sutra)...
-
-**Embedded English translation, as given in the source:**
-
-> 4. Madhavacharya then said to the king—Oh king, I have got a younger brother who is well skilled in Vedic Literature and knows thoroughly the meaning of Vedas. He may be ordered to expound the Vedas.
->
-> 5. The valiant king Bukka, having thus been answered by Madhava, ordered Sayana to expound the Vedas.
->
-> 6. Having already expounded, in an extremely concise manner, the Purva and the Uttara Mimamsa, Madhava, the merciful teacher, sets himself to teach the meaning of the Vedas.
+The Purva-Mimamsa and Uttara-Mimamsa are the final two of the six orthodox philosophical systems (Shad-darshanas) — Purva-Mimamsa composed by the sage Jaimini, and Uttara-Mimamsa (or Sharirika-Mimamsa, the Brahma-sutra).
 
 <div class="pgmark">original p. 349</div>
 
-...the Vedanta-sutra (Brahma-sutra), known by several names, forms the basis of the Uttara-Mimamsa system, its various topics grounded specifically in the Upanishads — and it is on this same foundation that the present Veda-commentary is built. This sutra-text draws together the views of various traditional teachers and interprets other Vedantic works accordingly, and has itself become authoritative among the philosophical schools. Since these earlier Mimamsa texts support understanding the Veda's own meaning, Sayana explains that he addressed them first before undertaking the Veda-commentary itself — the great responsibility for which fell to him.
+The Vedanta-sutra (Brahma-sutra), known by several names, forms the basis of the Uttara-Mimamsa system, its various topics grounded specifically in the Upanishads — and it is on this same foundation that the present Veda-commentary is built. This sutra-text draws together the views of various traditional teachers and interprets other Vedantic works accordingly, and has itself become authoritative among the philosophical schools. Since these earlier Mimamsa texts support understanding the Veda's own meaning, Sayana explains that he addressed them first before undertaking the Veda-commentary itself — the great responsibility for which fell to him.
 
 **Verse 7:**
 
@@ -10728,11 +10716,7 @@ The Purva-Mimamsa and Uttara-Mimamsa are the final two of the six orthodox philo
 
 That he composed the Yajurveda commentary first, before undertaking the Rigveda's, has already been stated — but why explain the Yajurveda first, when the Rigveda is the first among the Vedas? This verse gives the answer.
 
-In yajnas, the **Adhvaryu** priest's role is primary — "*adhvaryur vā ṛtijñaṃ prabhavo yajñe*" ("the Adhvaryu is indeed the foremost knower of the sacrificial order"), as the Yajurveda itself states. An Adhvaryu cannot perform his duties without thorough knowledge of the Yajurveda. Correspondingly, the **Hotr** priest must be deeply versed in the Rigveda. Yajnas involve four principal priests — Hotr, Adhvaryu, Udgatr, and Brahma — and though many assistant priests may participate in various rites, these four remain the principal officiants. The Hotr must have mastered Rigveda study along with its Shrauta (ritual-application) portion. Yajna-mantras fall into two categories: purohita-vakya and yajya; inviting the deities and directing the fire-offering is the Hotr's chief duty. The Adhvaryu, correspondingly, must thoroughly study the Yajurveda and diligently practice its Shrauta portion...
-
-**Embedded English translation, as given in the source:**
-
-> 7. In view of the prime importance of the work of the Adhvaryu priest in sacrifices, the Yajurveda was previously (i.e. first) explained: now to facilitate the task of the Hotr priest, the Rigveda is going to be explained.
+In yajnas, the **Adhvaryu** priest's role is primary — "*adhvaryur vā ṛtijñaṃ prabhavo yajñe*" ("the Adhvaryu is indeed the foremost knower of the sacrificial order"), as the Yajurveda itself states. An Adhvaryu cannot perform his duties without thorough knowledge of the Yajurveda. Correspondingly, the **Hotr** priest must be deeply versed in the Rigveda. Yajnas involve four principal priests — Hotr, Adhvaryu, Udgatr, and Brahma — and though many assistant priests may participate in various rites, these four remain the principal officiants. The Hotr must have mastered Rigveda study along with its Shrauta (ritual-application) portion. Yajna-mantras fall into two categories: purohita-vakya and yajya; inviting the deities and directing the fire-offering is the Hotr's chief duty. The Adhvaryu, correspondingly, must thoroughly study the Yajurveda and diligently practice its Shrauta portion.
 
 ## Chapter 2. Purva-pakṣa — Even Though the Rigveda Holds the Foremost Place Among the Vedas, Was It Proper That Sayanacharya's First Commentary Was on the Yajurveda Rather Than the Rigveda?
 
@@ -10741,7 +10725,7 @@ In yajnas, the **Adhvaryu** priest's role is primary — "*adhvaryur vā ṛtij�
 
 <div class="pgmark">original p. 350</div>
 
-...the Udgatr priest, similarly essential in yajnas, must be well-versed in the Samaveda, reciting its prescribed hymns correctly during the ceremony — "*āmreḍyo vā ṛṣaḥ yajño-samā*" (without the Samaveda, the yajna cannot be completed), as the Samaveda itself states. Since even this remains incomplete without the Rigveda, the **Brahma** priest must know all four Vedas and be broadly versed in every ritual matter — overseeing the correct, sequential offering of oblations throughout the yajna, a role that stands above all the other three priests.
+The Udgatr priest, similarly essential in yajnas, must be well-versed in the Samaveda, reciting its prescribed hymns correctly during the ceremony — "*āmreḍyo vā ṛṣaḥ yajño-samā*" (without the Samaveda, the yajna cannot be completed), as the Samaveda itself states. Since even this remains incomplete without the Rigveda, the **Brahma** priest must know all four Vedas and be broadly versed in every ritual matter — overseeing the correct, sequential offering of oblations throughout the yajna, a role that stands above all the other three priests.
 
 Having established this reasoning, Sayana explains: because the Adhvaryu's role is prominent, the Yajurveda commentary was needed and written first; now, because the Hotr's role likewise requires the Rigveda to be made accessible, he sets out to compose the Rigveda commentary next.
 
@@ -10762,13 +10746,6 @@ That is: if this Rigveda's first chapter is studied in the traditional way — s
 > *atra kecid āhuḥ — ṛgvedasya prāthamyena sarvatrāmnātatvād bahirbhūtaṃ pūrvam iti nyāyenābhyarhitatvāt tad-vyākhyānam ādau yuktam | prāthamyaṃ ca...*
 >
 > "Here, some argue: since the Rigveda is universally cited first everywhere [in the sacred tradition], by the principle that 'what comes first is [thereby shown to be] preeminent,' its commentary rightly ought to have been undertaken first. And regarding this primacy..."
-
-**Embedded English translation, as given in the source:**
-
-> 8. In this (proposed commentary), the first chapter is to be studied in the traditional fashion (i.e. directly from the lips of the teacher): and an intelligent student, having thereby acquired (enough) proficiency, will be in a position to understand (the rest of) the whole.
->
-> In this connexion, some contend—it is a fact that the Rigveda is given first mention everywhere (throughout the sacred literature); and as such is understood to occupy the most...
->
 
 <div class="pgmark">original p. 351</div>
 
@@ -10800,27 +10777,17 @@ That is, all these [deity-names] are ultimately spoken of Parameshvara alone.
 
 Some argue as follows: whenever the Vedas are named together, the Rigveda is invariably mentioned first — and by the accepted principle that, among several items named together, the most preeminent is named first, the Rigveda's consistent first-mention establishes its preeminence. Its foremost position among the Vedas is made explicit in the Purusha-sukta, where — as cited above — the Rigveda is indeed named before the others. Therefore, this objection concludes, the Rigveda's commentary ought to have been undertaken first of all.
 
-Here, "*tasmād yajñāt*" ("from that yajna") means from the Yajna-Purusha, or Parameshvara himself; and "*sahasraśīrṣā puruṣaḥ*" ("the thousand-headed Purusha") means one with countless heads — that is, all-encompassing...
-
-**Embedded English translation, as given in the source (continuing from the previous page):**
-
-> ...honoured position, in consonance with the dictum (laid down by Katyayana) that "the most honoured should have precedence of others" (under Pa. II. 2, 34); considerations of propriety, therefore, demand that the Rigveda should have been commented upon first of all. The primacy of the Rigveda is quite apparent from the Purushasukta:—
->
-> "From that 'yajna' invoked by all, the Riks (hymns) and Samans (chants) were born; the metres were born from it; the Yajus (sacrificial formula in prose) was born from it." (R. V. X. 90. 9).
+Here, "*tasmād yajñāt*" ("from that yajna") means from the Yajna-Purusha, or Parameshvara himself; and "*sahasraśīrṣā puruṣaḥ*" ("the thousand-headed Purusha") means one with countless heads — that is, all-encompassing.
 
 <div class="pgmark">original p. 352</div>
 
-...pervasive and omnipotent — this same **यज्ञ-पुरुष** (*yajña-puruṣa*, "the Yajna as Person," i.e. the great **पुरुष** *puruṣa* with a thousand heads described at Rigveda 10-90-1), called **परमेश्वर** (*parameśvara*, "the Supreme Lord"), is worshipped throughout every yajna, by everyone. Here "यज्ञ" (*yajña*) carries the sense of "**यजनीय**" (*yajanīya*) — "that to which sacrifice is offered," i.e., an object of worship — and "**सर्वहुतः**" (*sarvahutaḥ*) means "invoked/offered to by all" — that is, worthy of worship, invoked universally. This describes Parameshvara alone.
+He is pervasive and omnipotent — this same **यज्ञ-पुरुष** (*yajña-puruṣa*, "the Yajna as Person," i.e. the great **पुरुष** *puruṣa* with a thousand heads described at Rigveda 10-90-1), called **परमेश्वर** (*parameśvara*, "the Supreme Lord"), is worshipped throughout every yajna, by everyone. Here "यज्ञ" (*yajña*) carries the sense of "**यजनीय**" (*yajanīya*) — "that to which sacrifice is offered," i.e., an object of worship — and "**सर्वहुतः**" (*sarvahutaḥ*) means "invoked/offered to by all" — that is, worthy of worship, invoked universally. This describes Parameshvara alone.
 
 Here, an objection may be raised: is it a fixed rule that in Vedic mantras, any reference must refer to Parameshvara alone? Why, then, do some mantras invoke Agni, Indra, or other deities specifically, if the same underlying being is meant? The answer: though these deities are invoked separately in different mantras, since Parameshvara alone is omniscient, omnipotent, and all-pervading, he alone underlies and takes on all these various divine forms — so when a devotee invokes Agni, it is Parameshvara who is truly being invoked. The word "sarvahutaḥ," applied to Parameshvara, is thus without contradiction.
 
 Further mantras confirm this same point — when people invoke Indra, Mitra, Varuna, Agni, or Garutman under these differing names, wise scholars recognize that one and the same deity is being addressed throughout, whatever name is used. Or, alternatively: whichever name a deity is invoked under, the worshipper simply regards that name as referring to that same deity.
 
 The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something similar: though various deities appear worshipped under different names here and there, no genuinely separate deity is being worshipped — it is that same great deity existing in the forms of Indra and the others. Whichever deity is invoked or worshipped, Parameshvara alone is ultimately being addressed.
-
-**Embedded English translation, as given in the source (footnote):**
-
-> "Yajna" here has the value of "yajaniya"—one to whom sacrifices are to be offered, that is to say, an object of worship. It refers to the great God who is described as the Purusha (Primaeval Man) with thousands of heads etc. (R.V. X. 90.1). He is "Sarvahuta" i.e. invoked by all. Although (it is found that) Indra and other gods are invoked here and there, still there is no contradiction as it is the Great God Himself who exists in the form Indra and others.
 
 <div class="pgmark">original p. 353</div>
 
@@ -10838,19 +10805,6 @@ The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something sim
 > *mantra-kāṇḍeṣv api yajurveda-gateṣu tatra tatrādhvaryuṇā prayojyā ṛco bahava āmnātāḥ | sāmnāṃ tu sarveṣāṃ ṛgāśritatvaṃ prasiddham | ātharvaṇikair api svakīya-saṃhitāyāṃ ṛca eva bāhulyenādhīyante | ato'nyaiḥ sarvair vedair ādṛtatvād abhyarhitatvaṃ prasiddham ||*
 >
 > "In the mantra-portions of the Yajurveda too, many Riks to be used by the Adhvaryu are given here and there. That all Samans rest on Riks is well known. The Atharvanikas too recite mostly Riks in their own Samhita. Hence, because the Rik is honoured by all the other Vedas, its preeminence is well established."
-
-**Embedded English translation, as given in the source:**
-
-> And so we have it from the text of another hymn—
->
-> "They call Agni—Indra, Mitra, Varuna; and he is the divine Garutman (the Sungod) with beautiful wings (rays). The wise men call the One Being variously; and name (Him) Agni, Yama and Matarisvan." (R.V. I.164.46).
->
-> The Vajasaneyins also cite this text:—
->
-> "Now what [the ritualists] say—'worship this, worship that,' [thinking each to be] a different deity; [it is but a misconception]; this multiplicity [of gods] is but His [manifestation]. It is but He Who comprehends all the gods." [Br. Up. I.4.6]. So it is established, that it is the supreme God alone, who is invoked by all.
->
-> Now the prerogative position of the Riks does not rest only upon the fact of our first mention, but it follows also from the fact that it serves as the instrument of tightening up the parts of the sacrifice [into a compact whole]. So the Taittiriyas read the text:— "Whatever in the sacrifice is done by means of Samans or Yajus, is loose, and what [is done] by a Rik, is firm and solid." [Tai. Saṃ. 6.5.10.3]. So also the Brahmanas of all the Vedas, in order to confirm confidence in their own statements, quote specially the text of the Rigveda saying "so it is said in a verse of the Rigveda" [Gop. Br. I.1.9 etc.]. In the Mantra sections of the Yajurveda also many verses of the Rigveda are read for the purpose of being employed by the Adhvaryu [priest]. It is a well known fact that all the verses of the...
->
 
 <div class="pgmark">original p. 354</div>
 
@@ -10879,12 +10833,6 @@ Other Upanishadic traditions similarly prescribe the order of study for the whol
 >
 > "The four Vedas — Ṛk, Yajus, Sāman and Atharvan — with their aṅgas and śākhās, are the four feet." (Nṛsiṃha-Tāpanīya Upaniṣad 1-2)
 
-**Embedded English translation, as given in the source (continuing the footnote from the previous page):**
-
-> ...Samaveda are based on [i.e. borrowed from] the Rigveda in their entirety. The followers of the Atharvaveda, too, in their own Samhita read for the most part the verses of the Rigveda. Hence the exalted position [of the Rigveda] is established from the fact of its being honoured by all Vedas.
->
-> The Chandogas, also, thus recite a speech of Narada to Sanatkumara, [which endorses this order of] primacy. "Your Holiness! I have studied the Rigveda, the Yajurveda, the Samaveda and the fourth Veda—Atharvan" [Ch. VII. 1. 2].
-
 ## Chapter 3. Uttara-pakṣa's Defense — It Was Proper, for the Convenience of Yajna-Performance, to Compose the Yajurveda Commentary First
 
 *Original title: "Yajñānuṣṭhānasaukaryakkāgi Yajurvēdakke modalu bhāṣyavannu racisidudu yuktavendu uttarapakṣasamarthaneyu"*
@@ -10908,17 +10856,6 @@ The Chandogas first cite Narada's own words to Sanatkumara: "O revered one, I ha
 >
 > "It is indeed true that, so far as the practice of studying all the Vedas, the daily Brahma-yajna, muttering of mantras, and similar customary observances are concerned, the Rigveda holds primacy. But since understanding meaning (artha-jñāna) exists specifically for the purpose of performing yajnas — and since, for that purpose, the Yajurveda holds the primary place — it was proper for its commentary to be undertaken first. Therefore, whatever primacy [the Rigveda holds elsewhere]..."
 
-**Embedded English translation, as given in the source:**
-
-> The Mundakopanishad, too, reads as follows:—
->
-> "The Rigveda, the Yajurveda, the Samaveda and the Atharvan." [I. 1. 5]. In the Tapaniyopanishad also, in [the description of] the padas [feet] of the sovereign Mantra [sacred to Lord Nrisimha] the following order of study is laid down:—"The four Vedas—Rik, Yajus, Saman and Atharvan, together with their ancillary sciences [angas] and their different recensions [Sakha] constitute the four feet," [Nr. Pu. Ta. I. 1. 2]. Similar instances might be cited from everywhere. So it follows that the Rigveda, in view of its supremely honoured position, should have been, in the fitness of things, commented upon first of all.
->
-> To all of them, the following reply is given—
->
-> Granted that the Rigveda certainly possesses this primacy so far as the study of all the Vedas, the unbroken reading of them from start to finish, the spiritual sacrifice, consisting in the learning and teaching of the Vedas, and the muttering of mantras are...
->
-
 <div class="pgmark">original p. 356</div>
 
 ...regarding the Yajurveda's meaning being essential for yajna-performance, the Yajurveda's commentary needed to be composed first. This same point, Sayana notes, is suitably supported by a verse of the Rigveda itself:
@@ -10933,12 +10870,6 @@ Yaska, author of the Nirukta, briefly explains this verse's purport (Nirukta 1-8
 
 **Nirukta** is one of the six Vedangas (alongside Shiksha, Vyakarana, Chandas, Nirukta, Jyotisha, and Kalpa), in which Yaska clarifies the meaning of certain difficult Riks — the very first text composed in the form of a Rigveda commentary. Though the Aitareya Brahmana and similar texts also explain portions of the Veda, since the Brahmanas are themselves considered part of the Veda, no one calls them commentaries or bhashyas upon it. Yaska therefore stands as the first to attempt explaining the Veda's meaning as such. But since the Nirukta explains only select Riks here and there, and even there conveys only the hidden sense rather than the full meaning, understanding the Veda's meaning through the Nirukta's help alone remains impossible.
 
-**Embedded English translation, as given in the source (continuing the footnote from the previous page):**
-
-> ...concerned. But [it should be carefully noted that] the knowledge of the meaning [of the Vedas] is insisted upon] for the performance of the sacrifices, and in that respect Yajurveda undisputedly enjoys the position of supreme importance; and so it stands to reason that Yajurveda should be commented upon first. And this supremacy [of the Yajurveda] is plainly stated in a verse of the Rigveda itself (Rig. 10-71-11).
->
-> Yaska, the author of the Nirukta, gives in brief the purport of this Rik verse as follows (Ni. I. 8):—"(It) determines (the sphere of) the application of the duties of priests". Again, the same author explains the first quarter—One (priest) i.e. Hotr nourishes the Riks; Rik is equivalent to *arcani* (panegyric). The meaning of this is as follows:—The word 'tva' is the synonym of 'eka' (one) and qualifies 'Hotr'. One priest called Hotr, at the time of the sacrifice, makes a culture of the Rik verses found in his own Veda. In other words, he makes a collection of the verses read in various places, determines that this much constitutes this Sastra;—this is what is called here culture or nourishment (pusti). The word *archani* is given as the meaning of the word Rik; The etymology of the word Rik implies that by it a particular deity, or a particular rite or a particular instrument of a rite—is eulogised.
-
 <div class="pgmark">original p. 357</div>
 
 Yaska continues, explaining the verse's first quarter in detail:
@@ -10950,11 +10881,6 @@ Yaska continues, explaining the verse's first quarter in detail:
 **Yaska then explains the second quarter of the same verse:**
 
 > अथ द्वितीयं पादं विवृणोति—"गायत्रमेको गायति शक्वरीषुद्द्वाता गायत्रं गायतेः स्तुतिकर्मणः शक्वर्यो ऋचः, शक्नोतेः शक्न्यैः वृत्रमपीर्वत्तमशक्नदेतं तच्छिक्वरीणां शक्वरीत्वमिति विज्ञायत इति । (कौ. २३-२) अस्यायमर्थः—उद्गातृनामक एकः ऋत्विग्गायत्रशब्दाभिधेयं स्तोत्रं शक्वरीक्ब्याभिधेयश्च ऋग्गायति । धातूनामनेकार्थत्वेन स्तुतिक्रियावाचिनो गायधातोः श्रौढ्यं स्तोत्रं गायत्र...
->
-
-**Embedded English translation, as given in the source:**
-
-> Next (he) explains the second quarter—"Another, the Udgatr sings the gayatra in the Sakvari verses. The term gayatra is derived from the root gai which means an act of praise; the Sakvaris mean Rik verses; and is (derived) from Sak (to be able), 'These are called Sakvaris, because (he) was able to kill Vritra with their help.' The meaning of the...
 >
 
 <div class="pgmark">original p. 358</div>
@@ -10973,13 +10899,6 @@ That is: the Udgatr priest sings the "gayatra" hymn (from the root "gai," meanin
 
 That is: the priest called Brahma speaks the proper sanction relevant to each specific rite in turn — granting permission for any expiatory rite (prayashchitta) that becomes necessary. Addressed with the proper request, he grants approval with "Om, proceed." Since this Brahma priest is versed in every rite prescribed across all three Vedas, he alone is capable of both recognizing errors in the yajna's performance and correcting them when they occur. This same capability is described by the followers of the Samaveda (Chandogas)—
 
-**Embedded English translation, as given in the source:**
-
-> ...whole is this:—One other priest called Udgatr sings the *Stotra* called 'gayatra' (composed of) Riks called Sakvaris. Since verbal roots possess more than one import, the word 'gayatra' is derived from the root gai denoting an act of praise. The word Sakvari is derived from the root Sak. The etymological meaning that (he) is able to slay Vritra by means of these hymns—is actually found in a Brahmana (Kau. Br. XXIII. 2).
->
-> Now (he) explains the third quarter—"One—the Brahman (priest) voices his approval as each (performance) takes place (in due order), Brahman is one who knows all—and is in...
->
-
 <div class="pgmark">original p. 359</div>
 
 > एष एव यज्ञस्पृष्ट मनश्च वाक् च वर्तनी तयोरन्यतरां मनसा संस्करोति ब्रह्मा, वाचा होताध्वर्युरुद्गाता चान्यतराम् इति ॥ (Chandogya Upanishad 4-16-1)
@@ -10990,12 +10909,7 @@ That is: the priest called Brahma speaks the proper sanction relevant to each sp
 
 Even if an error occurs during the yajna, the whole rite need not be considered incomplete — it can be properly rectified through the mind, while the mantras of the three Vedas are recited through speech. The Hotr and his two counterparts (Adhvaryu, Udgatr) together correct the yajna's speech-path; but the Brahma alone corrects its mind-path, in its entirety, by himself. This is his special capability.
 
-**Continuing the explanation of the third quarter:** while the yajna proceeds, the priest called Brahma instructs the other priests on precisely how each rite should be performed, being himself the most knowledgeable of all. Many subsidiary rites occur as part of a yajna's proper conduct, and the important ones require the Brahma priest's explicit sanction. For example, at the water-fetching rite, the Adhvaryu requests permission: "O Brahman, shall I fetch the water into this vessel?" — to which the Brahma replies, "Om, fetch it" — granting permission. Even pouring water from one vessel into another requires the Brahma's approval, since "apaḥ praṇayana" (the water-fetching rite) is itself an important ritual act — filling the "praṇīta" or "pūrṇa" vessel with water as a purificatory step. In all such ritual components, work may proceed only with the Brahma's sanction, since he alone is thoroughly versed in the ritual procedures laid out across all the Vedas, knowing precisely what should be done, and when — and he accordingly watches for errors throughout the yajna. Should an error occur through inattention, he identifies the necessary remedy and sets it right. The followers of the Samaveda (Chandogas) describe the Brahma's capability in just this way — describing the yajna as having both a mind-form and...
-
-**Embedded English translation, as given in the source:**
-
-> ...a position to know all." The meaning of it is this—one priest named Brahman gives his approbation on the occasion of each performance as comes forth in the course of the sacrifice such as the act of fetching (water etc.);—being addressed as—"Oh, Brahman! shall I fetch the waters," he gives the permission, saying "Om, fetch (them)." Now this Brahman is thoroughly conversant with all the rites prescribed in the three Vedas; and so is in a position to give his approval to different rites if adjudged to be in proper from, and also to correct the mistakes if any occurs. Now with regard to the competency (of the Brahman) the Chandogas read the following:—"This is the sacrifice; mind and speech are the twofold path of it. The Brahman rectifies one of them with his mind [i.e. the Brahman has the entire...
->
+**Continuing the explanation of the third quarter:** while the yajna proceeds, the priest called Brahma instructs the other priests on precisely how each rite should be performed, being himself the most knowledgeable of all. Many subsidiary rites occur as part of a yajna's proper conduct, and the important ones require the Brahma priest's explicit sanction. For example, at the water-fetching rite, the Adhvaryu requests permission: "O Brahman, shall I fetch the water into this vessel?" — to which the Brahma replies, "Om, fetch it" — granting permission. Even pouring water from one vessel into another requires the Brahma's approval, since "apaḥ praṇayana" (the water-fetching rite) is itself an important ritual act — filling the "praṇīta" or "pūrṇa" vessel with water as a purificatory step. In all such ritual components, work may proceed only with the Brahma's sanction, since he alone is thoroughly versed in the ritual procedures laid out across all the Vedas, knowing precisely what should be done, and when — and he accordingly watches for errors throughout the yajna. Should an error occur through inattention, he identifies the necessary remedy and sets it right. The followers of the Samaveda (Chandogas) describe the Brahma's capability in just this way — describing the yajna as having both a mind-form and a speech-form.
 
 <div class="pgmark">original p. 360</div>
 
@@ -11007,13 +10921,7 @@ Even if an error occurs during the yajna, the whole rite need not be considered 
 >
 > *(Yaska's etymological gloss identifying the Adhvaryu priest as the one who specially "measures out" — constructs — the essential form of the yajna; "mātrā" meaning that which is measured/constructed, deriving from the root "mā.")*
 
-That is: the priest named Adhvaryu specially brings into being the essential form ("mātrā") of the yajna. "Mātrā" — that which is measured out — means the yajna's own proper form. And this constructive function is understood from the word "Adhvaryu" itself...
-
-**Embedded English translation, as given in the source:**
-
-> ...plan of the sacrifice in his mind]; and the Hotr, the Adhvarya and the Udgrtr [rectify] the other with their speech. [Ch. Up. IV. 16-1, 2]. To insure the prevention of any likely mistake, the entire sacrifice has to be thoroughly surveyed in mind; and the hymns of the three Vedas also are to be recited in speech. Now the three priests, Hotr and the other [two], together purify the path of the sacrifice typified by speech. The Brahman alone by himself, sets in order the entire path of the sacrifice that is typified by the mind. Hence he has the competency in question.
->
-> Next [he] explains the fourth quarter:—"One, the Adhvaryu measures out the [whole] structure of the sacrifice. Adhvaryu is equivalent to Adhvarayu i.e. one who yokes the sacrifice, in other words, [he is] the leader of the sacrifice." The meaning of it is this—one priest named Adhvaryu measures out i.e. constructs in a special way the matra i.e. the very form of the sacrifice; 'matra' stands for the essential form [of a thing], [being derived from ma], meaning that which is measured i.e. constructed. Now this function of construction [as relating to Adhvaryu] is understood from the very etymology of the word Adhvaryu. The word Adhvaryu can be [easily] converted into the form Adhvarayu, by restoring the vowel a which has been elided in the procedure of Vedic grammar. "[He] yokes the sacrifice"—is but the meaning of the component parts; "the leader of the sacrifice"—is [proposed as] the purport [of the whole word]. Yaska has this very idea in his mind, when he demonstrates an etymology which indicates the [special] efficiency comes of the Adhvaryu-
+That is: the priest named Adhvaryu specially brings into being the essential form ("mātrā") of the yajna. "Mātrā" — that which is measured out — means the yajna's own proper form. And this constructive function is understood from the word "Adhvaryu" itself.
 
 <div class="pgmark">original p. 361</div>
 
@@ -11041,12 +10949,6 @@ Yaska further demonstrates this same idea:
 
 This is the pivotal conclusion of the entire discussion: since the yajna's essential body/structure resides in the Yajurveda, and the Rigveda and Samaveda merely furnish its accompanying hymn and recitation elements, the Yajurveda holds the dominant, foundational role — justifying why it was explained first. And since the Samaveda's own verses are entirely drawn from the Rigveda, between these latter two, the Rigveda rightly comes next — which is precisely the task Sayana now undertakes.
 
-**Embedded English translation, as given in the source:**
-
-> ...veda with regard to the performance of sacrifices. "The [name] 'Mantras' comes from manana [thinking]; 'Chandas' from chadana [to cover]; 'Stoma' from stavana [praising] and 'Yajus' from yajati [to sacrifice]." [Ni. VII. 3, 6].
->
-> This being so, the body of the sacrifice is formed in the Yajur Veda, the Veda of the Adhvaryu priest: the hymn and lesson required by the sacrifice as parts of it are filled up by the other two Vedas. Here then the Yajur Veda is dominant, and it has been properly first explained. For the rest, since the Sama verses are all taken from the Rig Veda, of these two the Rig Veda should be explained first, and this accordingly is what we are about to do.
-
 ## Chapter 4. Purva-pakṣa — Since the Veda Has No Defining Marks or Proofs, No Such Text as "the Veda" Exists
 
 *Original title: "Vēdakke lakṣaṇapramāṇādigaḷu illaddarinda vēdavemba granthavē illavendu pūrvapakṣavu"*
@@ -11073,10 +10975,6 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 > *nanu veda eva tāvan nāsti | kutas tad-avāntara-bheda ṛgvedaḥ | tathā hi | ko'yaṃ vedo nāma | na hi tatra lakṣaṇaṃ pramāṇaṃ vāsti | na ca tad-ubhayam ṛte kiṃcit sidhyati | lakṣaṇa-pramāṇābhyāṃ hi vastu-siddhir iti nyāya-vidāṃ matam ||*
 >
 > "Objection: The Veda itself does not exist at all — how then can there be a subdivision of it called the Rigveda? Consider: what is this thing called 'Veda'? Neither a definition (lakṣaṇa) nor a proof (pramāṇa) of it exists. And without both of these, nothing whatsoever can be established — for it is the settled view of logicians (Naiyayikas) that the establishment of any entity requires both definition and proof."
-
-**Embedded English translation, as given in the source:**
-
-> But may it not be said, There is no such thing as Veda, how can there be a part of it known as the Rig Veda? For what is this you call Veda? You cannot define it: you cannot prove that as defined it exists. And without such definition and proof nothing is established. Do not logicians assert that things are established by definition and proof of existence?
 
 <div class="pgmark">original p. 363</div>
 
@@ -11106,14 +11004,6 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 > "If you say that 'non-human origin' means 'not made by an embodied living being,' we reply: no; for from texts such as 'the thousand-headed Purusha' the Lord too has a body. If you say that what is meant is only 'not made by a living being whose body is the fruit of karma,' we reply: no; for the Vedas were brought forth by particular living beings — Agni, Vayu and Aditya. From the text 'The Ṛgveda was born from Agni, the Yajurveda from Vayu, the Samaveda from Aditya' (Ai. Brā. 5-32), the Lord is to be understood as the maker, in that he impels Agni and the others."
 >
 
-**Embedded English translation, as given in the source:**
-
-> If you attempt to define what you mean by Veda by saying that of the three kinds of evidence, perception, inference, and revealed Scripture, it is the last, that will not do. The definition is too wide, including, as it would do, the smritis of Manu and others. For by universal consent revealed Scripture is defined to be that which is an instrument of the right apprehension of things not evident to the senses. And such a definition applies to these smritis as well.
->
-> You propose to add, "provided it be not of human origin," and think in that way to make your definition faultless. No. For the Veda, too, made as it was by the Man Paramesvara, the Supreme Lord, is of human origin.
->
-> You will perhaps next say that by "not of human origin" you mean "not made by a corporeal living being." But no. Since from texts like "The Man has a thousand heads," it is clear that this Lord too, has a body.
-
 <div class="pgmark">original p. 364</div>
 
 Regarding the three proofs of knowledge — perception (**प्रत्यक्ष** *pratyakṣa*), inference (**अनुमान** *anumāna*), and revealed word (**आगम** *āgama*) — even if the last of these, "āgama," is proposed as the Veda's defining mark, this fails: since Manu's and other Smritis also possess this same "āgama" quality, the flaw of over-extension (**अतिव्याप्ति** *ativyāpti*) results, since they too would have to count as "Veda." A sound definition (**लक्षण** *lakṣaṇa*) must avoid three classical flaws:
@@ -11132,17 +11022,11 @@ If you say the "body" in question is specifically one produced by the karmic res
 
 You might next suggest that "Veda" simply names the collected body of mantras and brahmanas. This too fails — since no one has yet clearly established what precisely constitutes a "mantra" or a "brahmana." It is therefore clear that no adequate definition of the term "Veda" exists.
 
-If, finally, you propose that "apauruṣeyatva" (non-human origin) itself simply *is* the Veda's defining mark — since the Veda is not made by any finite person — this too fails, for the Veda is itself [made by] Parameshvara...
-
-**Embedded English translation, as given in the source:**
-
-> But, you say, the kind of body you mean is one which is the result of the works of a previous life: the author of the Veda has no such body, and that is what you mean when you say that it is "not of human origin." No again. For the Vedas were produced by such living beings as Agni, Vayu, Aditya. (p. 6) Witness such texts as "The Rig Veda was born from Agni, the Yajur Veda from Vayu, the Sama Veda from Aditya." From which it must be recognised that the Lord made the Veda at the instance of Agni and others.
->
-> Another definition you may suggest is that by Veda is meant a collection of sayings made up of mantras and brahmanas. This will not do. For no one has yet been able to say what is a mantra, and what a brahmana. It is clear then that there is no adequate definition of the term Veda.
+If, finally, you propose that "apauruṣeyatva" (non-human origin) itself simply *is* the Veda's defining mark — since the Veda is not made by any finite person — this too fails, for the Veda is itself [made by] Parameshvara.
 
 <div class="pgmark">original p. 365</div>
 
-...since it is made by someone, the quality of "personal origin" (pauruṣeyatva) necessarily follows — and countless texts are made by persons, so why should the Veda deserve any special regard on that basis? If the Veda is instead called apauruṣeya because no embodied living being made it — that too fails, since the Veda itself states "sahasraśīrṣā puruṣaḥ" (the thousand-headed Purusha), affirming Ishvara's own possession of a body. And if apauruṣeya means merely "not made by one embodied through karmic result," this too fails: the Veda states it was born from special beings — Agni, Vayu, Aditya — the Rigveda from Agni, the Yajurveda from Vayu, the Samaveda from Aditya — meaning Parameshvara, who impels Agni and the others, is himself the true author of the Shruti. And if "Veda" simply names the collected group of mantras and brahmanas, that too fails, since no one has ever clearly determined what precisely qualifies as a "mantra" or a "brahmana." **The Veda, in short, has no valid defining characteristic whatsoever.**
+Since it is made by someone, the quality of "personal origin" (pauruṣeyatva) necessarily follows — and countless texts are made by persons, so why should the Veda deserve any special regard on that basis? If the Veda is instead called apauruṣeya because no embodied living being made it — that too fails, since the Veda itself states "sahasraśīrṣā puruṣaḥ" (the thousand-headed Purusha), affirming Ishvara's own possession of a body. And if apauruṣeya means merely "not made by one embodied through karmic result," this too fails: the Veda states it was born from special beings — Agni, Vayu, Aditya — the Rigveda from Agni, the Yajurveda from Vayu, the Samaveda from Aditya — meaning Parameshvara, who impels Agni and the others, is himself the true author of the Shruti. And if "Veda" simply names the collected group of mantras and brahmanas, that too fails, since no one has ever clearly determined what precisely qualifies as a "mantra" or a "brahmana." **The Veda, in short, has no valid defining characteristic whatsoever.**
 
 **Turning to proof (pramana):**
 
@@ -11160,15 +11044,9 @@ If, finally, you propose that "apauruṣeyatva" (non-human origin) itself simply
 
 **This concludes the objection (purva-paksha).** Sayana's own resolution follows next.
 
-**Embedded English translation, as given in the source:**
-
-> Nor do we see any proof of the existence of such a thing. You would like perhaps to quote by way of such proof the text, "Lord, I study the Rig Veda, the Yajur Veda, the Sama Veda, and the fourth, the Atharva Veda." In vain. That very verse is in the Veda, and you fall into the vice of putting forward a thing to support itself. Now, no man, however clever, can mount his own shoulder.
->
-> Nor is such a smriti as, for example, "The Veda is the only means of happiness for the twiceborn," a proof of the kind we want. It must be rejected for the same reason, as being based upon the aforesaid text of the Veda.
-
 <div class="pgmark">original p. 366</div>
 
-...we see no proof at all that those Vedas exist. If it's argued that the statement—
+Not only that. We see no proof at all that those Vedas exist. If it's argued that the statement—
 
 > ऋग्वेदं भगवोऽध्येष्मि यजुर्वेदं सामवेदमाथर्वणं चतुर्थम् ।
 > *ṛgvedaṃ bhagavo'dhyeṣmi yajurvedaṃ sāmavedam ātharvaṇaṃ caturtham |* (Chandogya Upanishad 7-1-2)
@@ -11183,17 +11061,11 @@ In everyday affairs, no one can deny things visible to the eye — so shouldn't 
 
 ### A Methodological Note: Purva-Paksha and Siddhanta
 
-When examining any subject, pointing out its flaws and objections through careful, reasoned argument to show "this is not correct" is called the **purva-paksha** (prior view, or objection). Correspondingly, resolving those very flaws and objections one by one, with sound reasoning, and firmly establishing the subject's true nature, is called the **siddhanta** (established conclusion). To properly grasp the subjects expounded in the shastras, tradition holds that the purva-paksha should be presented first, with the siddhanta established afterward. This purva-...
-
-**Embedded English translation, as given in the source:**
-
-> The three kinds of evidence—perception, inference and Scripture, are not to be so much as thought of here: while, as for common notoriety, the common notoriety in regard to the Veda, universal as it is, may be as much an error as everybody's belief that the sky is blue.
->
-> It is then clear that since the Veda is not capable of definition or proof, it cannot be admitted that there is such a thing. This is the prima facie case.
+When examining any subject, pointing out its flaws and objections through careful, reasoned argument to show "this is not correct" is called the **purva-paksha** (prior view, or objection). Correspondingly, resolving those very flaws and objections one by one, with sound reasoning, and firmly establishing the subject's true nature, is called the **siddhanta** (established conclusion). To properly grasp the subjects expounded in the shastras, tradition holds that the purva-paksha should be presented first, with the siddhanta established afterward.
 
 <div class="pgmark">original p. 367</div>
 
-...-paksha, siddhanta, and related components together form what is called an "adhikarana." Its definition:
+This purva-paksha, siddhanta, and related components together form what is called an "adhikarana." Its definition:
 
 > विषयोऽविषयश्चेति पूर्वसंपक्षिस्फोत्तरं । निर्णयश्चेति संबद्धं शास्त्रेऽधिकरणं मतम् ॥
 >
@@ -11210,11 +11082,6 @@ That is: an adhikarana comprises five distinct parts — the subject-matter (vis
 > "To this we reply: the definition of the Veda as consisting of mantras and brahmanas is, in fact, faultless. This is precisely why Apastamba, in his Yajña-paribhāṣā, states: 'The name Veda applies to the mantras and the brahmanas' (Apastamba Yajña-paribhasha 31). As for determining the precise nature of each of these..."
 
 We now state the resolution (samādhāna) to the objection. Calling the body of words comprising mantras and brahmanas "the Veda" is, in fact, a faultless definition. As for the objection that "mantra" and "brahmana" themselves remain undefined — the answer is that whatever the shastra-tradition designates as "mantra" is indeed mantra, and the remainder is brahmana. This is exactly why the great sage **Apastamba**, in his *Yajna-paribhasha-sutra*, states: "mantra-brāhmaṇayor veda-nāmadheyam" — the name "Veda" applies to both mantras and brahmanas together.
-
-**Embedded English translation, as given in the source:**
-
-> To it we answer. In the first place the definition of the Veda, according to which it is the sum of the mantras and brahmanas, is a faultless one. And therefore it is that Apastamba in his Yajnaparibhasha says, "Veda is the name given to the mantras and brahmanas." What these are respectively will be determined later. So also we shall make clear in what follows in what sense we take the term "not of human origin." Proofs, too, of the existence of the Veda, of the kind described, sruti, smriti, common notoriety, must be...
->
 
 ## Chapter 5. Siddhanta — the Veda Does Have Defining Marks and Proofs; and Why a Commentary Is Needed at All
 
@@ -11236,13 +11103,7 @@ This being so, proof drawn from Smriti (itself rooted in the Veda), as well as p
 > ननु अस्तु नाम वेदाख्यः कश्चित् पदार्थः । तथापि नासौ व्याख्यानम् अर्हति । अप्रमाणत्वेनानुपयुक्तत्वात् । न हि वेदः प्रमाणम् । तल्लक्षणस्य तत्र दुःसंपादत्वात् । तथा हि । सम्य-…
 > *nanv astu nāma vedākhyaḥ kaścit padārthaḥ | tathāpi nāsau vyākhyānam arhati | apramāṇatvenānupayuktatvāt | na hi vedaḥ pramāṇam | tal-lakṣaṇasya tatra duḥsampādatvāt | tathā hi | samya-…* *(the last word is divided at the page end and continues on p. 369)*
 
-"Very well — we grant that the thing called 'Veda' exists. Still, it isn't worth commenting on, since it carries no authority (pramāṇya), and being without authority, it is of no real use. The Veda is of no authority. Why? Because you cannot show that the defining mark of valid proof (pramāṇa) resides in it." Some define "pramāṇa" as the instrument of right knowledge; others say it is the means of acquiring [knowledge]...
-
-**Embedded English translation, as given in the source:**
-
-> ...recognized. It may be that jars and such-like things have no power to illustrate themselves. It does not follow that the sun, moon and stars have no such power. In the same way, though it be granted that a man cannot stand on his own shoulder, nevertheless may the Veda, whose power is undimmed, be able to illustrate itself, as it illustrates other things. For this very reason they who know old tradition speak thus of the unblunted power of the Veda. "The Veda can make clear what has been, what is, and what is to be, what is near and what is afar off." This being so, proof led from the smriti, which is based on the Veda, as well as proof led from common notoriety which is based on both these, must also be admitted. Therefore it stands sure that the Veda, established duly as it is by definition and proof, cannot be overthrown by any of the infidels.
->
-> You will next say, I grant that the thing called Veda exists. Still it is not worth a commentary. It is of no authority, and therefore of no use. The Veda is of no authority. Why? Because you cannot show that the characteristic of evidence resides in it. Some define evidence as the instrument of right knowledge. Others say it is the means of acquiring...
+"Very well — we grant that the thing called 'Veda' exists. Still, it isn't worth commenting on, since it carries no authority (pramāṇya), and being without authority, it is of no real use. The Veda is of no authority. Why? Because you cannot show that the defining mark of valid proof (pramāṇa) resides in it." Some define "pramāṇa" as the instrument of right knowledge; others say it is the means of acquiring [knowledge] of what was not previously known.
 
 <div class="pgmark">original p. 369</div>
 
@@ -11254,10 +11115,6 @@ This being so, proof drawn from Smriti (itself rooted in the Veda), as well as p
 > "Some define 'pramana' (valid proof) as 'the means of [right] experience.' Others say it is 'that which leads to knowledge of an object not previously known.' Neither definition applies to the Veda. For the Veda consists of mantras and Brahmanas — and among the mantras, some convey no discernible meaning at all: 'amyak sa ta indra ṛṣṭir' is one such mantra; 'yad rismin dhāyi tam apaśyayā vidad ṛkṣaḥ' is another; 'sṛṇyeva jarbharī turpharītu' another; and 'apāntamanyus tripala-prabharmiḥ' and similar besides may be cited. These mantras yield no discernible meaning whatsoever. And when there is no possibility of meaning at all, being a means or cause of knowledge is all the more remote."
 
 We grant, then, that an entity called "Veda" exists — but what need is there to compose commentary on it? Since the Veda carries no valid authority (pramana) and yields no genuine use, commenting on it serves no purpose. The Veda cannot count as "pramana," since it lacks the defining marks proposed for valid proof: some define pramana as "the means productive of correct experience"; others define it as "that which reveals an object not previously known." Neither definition applies to the Veda. As already stated, the Veda consists of two parts — mantra and Brahmana. Taking the mantra portion first: does either definition of pramana apply there? It does not — and several mantras are cited here as examples: "amyak sa ta indra ṛṣṭi," "yad rismin dhāyi tam apaśyayā vidat," "sṛṇyeva jarbharī turpharītu," and "apāntamanyus tripala-prabharmā." These mantras convey no meaning at all. And if they convey no meaning whatsoever, then their serving as a means to correct knowledge becomes, quite obviously, altogether impossible.
-
-**Embedded English translation, as given in the source:**
-
-> ...knowledge not held before. Neither of these is found in the Veda. You have said that the Veda is composed of mantras and brahmanas. Now of the mantras some convey no sense at all. One mantra is "amyak sa ta indra rishtih." Another, "yadrismin dhayi tam apasyaya vidat." Another, "srinyeva jarbhari turpharitu." And others such, for example, as "apantamanyus tripalaprabharma," could be cited. These mantras yield no sense at all. But if there be no knowledge at all in these, right knowledge and the means to that, it is obvious, cannot be there.
 
 <div class="pgmark">original p. 370</div>
 
@@ -11277,12 +11134,6 @@ Take the mantra "adhaḥ svid āsīd upari svid āsīt." Even though its words c
 
 That is: the mantras "O herb, protect him" address grass (darbha), "O razor, do not harm him" address a razor, and "Hear, O stones" address stones — in each case treating lifeless objects as if they were conscious beings capable of understanding and acting on a command. This, the objection argues, is as absurd as claiming there are two moons — and such statements therefore cannot possibly be authoritative.
 
-**Embedded English translation, as given in the source:**
-
-> Or take the mantra, "adhah svid asid upari svid asit." This gives a sense, it is true. But it is the same kind of sense as that of such a sentence as, That is either a man or a post. The meaning it yields is a doubt, and how can that be authoritative?
->
-> The mantra, "oshadhe trayasvainam" is about grass. That other, "svadhite mainam hinsih" is about a razor, "Srinota gravanah" is about stones. Here you have in the Veda lifeless things like these addressed as if they were sentient beings. But this is as absurd as the saying that there are two moons, and such sayings therefore cannot be authoritative.
-
 <div class="pgmark">original p. 371</div>
 
 > एक एव रुद्रो न द्वितीयाय तस्थे (Taittiriya Samhita 1-8-6-1) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (Taittiriya Samhita 4-5-11-1) इत्येतयोस्तु मन्त्रयोर्यावच्छिवमहं मौनीति वाक्यवद्व्याघातबोधकत्वादप्रामाण्यम् ॥
@@ -11300,12 +11151,6 @@ One mantra states that Parameshvara, as Rudra, exists alone with no equal second
 > "The mantra 'āpa undantu' ('may the waters moisten him') states that water should be poured over the sacrificer's head at the time of shaving. The mantra 'śubhike śira āroha śobhayantī mukhaṃ mama' ('O beautiful one, ascend the head, adorning my face') states that a flower-garland should be placed on the bride's and groom's heads at marriage for an auspicious purpose. Since both mantras merely restate what is already commonly known, they fail to reveal anything previously unknown — and so this ritual-instruction portion too is not valid proof."
 
 That is: these mantras merely describe customs already familiar from ordinary life — pouring water while shaving, placing a garland at a wedding — conveying nothing genuinely new. Since valid proof must reveal something not already known, even this portion of the Veda fails to qualify as pramana.
-
-**Embedded English translation, as given in the source:**
-
-> Take, again, two mantras such as those which say, the one that there is but one Rudra and no second has arisen, the other, that thousands of Rudras exist on the earth. Here you have a flat contradiction. It is as if a man were to tell you with his own mouth that he was dumb, and had been so from his birth. Self-contradictory sayings of this kind cannot be authoritative.
->
-> The mantra "apa undantu" tells how he for whom sacrifice is being made should have water poured over his head whilst it is being shaved. The mantra "subhike sira aroha...
 
 ## Chapter 6. The Defining Characteristics of Mantras — Examination of the Related Mimamsa Sutras — Purva-pakṣa and Siddhanta
 
@@ -11330,12 +11175,6 @@ That is: these mantras merely describe customs already familiar from ordinary li
 >
 > "With this very idea in mind, the venerable Jaimini, in his section on mantras, formulated in sutra-form the doctrine that mantras carry an intended meaning (Purva-Mimamsa 1-2-31 to 53). We shall now present these sutras in their proper order — beginning with his own formulation of the objection (purva-paksha)."
 
-**Embedded English translation, as given in the source:**
-
-> Lastly, it is true that such acts as the pouring of water over the head at a particular ceremony and the like are matters of common knowledge. But the respect shown to the deity is not. And we have therefore here the act of conveying a truth not known before. For all these reasons the mantra portion of the Veda falls under the definition of what constitutes evidence, and is therefore authoritative.
->
-> It is with this in view that the holy Jaimini in his mantra chapter sets out in sutras the doctrine that the mantras recited at the sacrifice are intended to convey a meaning. I shall now cite and explain these Sutras in their order. And first Jaimini sets out the arguments for the doctrine which he intends to controvert.
-
 <div class="pgmark">original p. 375</div>
 
 A "sutra" is a sentence composed with the fewest possible words to convey many subjects concisely, without any loss of meaning. In ancient times, many rishis composed their treatises in this style — the Yoga, Vyakarana, and other philosophical schools (darshanas) are similarly composed, and, being terse, require commentary to unpack. We now turn to explaining several sutras from Jaimini's own Purva-Mimamsa-sutras concerning the meaning of mantras, beginning with the objection (purva-paksha) as Jaimini himself states it.
@@ -11348,12 +11187,6 @@ A "sutra" is a sentence composed with the fewest possible words to convey many s
 > "The mantras convey no [independent] meaning, since there exists an 'artha-shastra' — a separate text explaining their meaning — namely, the Brahmana [portion]. Thus a mantra's meaning is unfixed/dependent [on the Brahmana]. For instance: it is said that the first application is conveyed through the mantra, and the statement 'I shall set forth the puroḍāśa cake' occurring in a Brahmana passage was made with this same intent, using the Brahmana's own sentence to direct the ongoing rite — showing that the mantra was employed to convey this very same meaning [already given by the Brahmana]."
 
 That is: from the sutra "ced artha-shastrata" through to the sutra on "vidhi-shabda" (injunction-words), a single adhikarana (topic-section) runs, with each sutra explained in turn. The opening sutra's meaning: mantras have no independent meaning, because a separate "artha-shastra" (meaning-explaining text) — namely, the Brahmana — already exists to explain them. If a mantra genuinely had its own meaning, people would grasp it directly, with no need for an accompanying Brahmana passage. Since a Brahmana explanation *is* needed, this shows the mantra itself conveys no independent meaning — illustrated by the Brahmana statement "I shall set forth the puroḍāśa cake," used precisely to supply the meaning the mantra alone fails to convey.
-
-**Embedded English translation, as given in the source:**
-
-> The mantras are meaningless, because there is a shastra of identical meaning.
->
-> By shastra is meant a brahmana. If the meaning which the mantra is naturally fitted to convey is the meaning of the brahmana, the brahmana may be said to be of identical meaning with the mantra. But the existence of such a brahmana goes to show that the...
 
 <div class="pgmark">original p. 376</div>
 
@@ -11368,17 +11201,9 @@ On this, the upholder of the doctrine to be controverted states another argument
 
 But suppose instead we say the very purpose of reciting mantras at the yajna is to convey their meaning — this would establish a **dṛṣṭa** (directly perceivable) purpose for the mantras. Between the two kinds of purpose, perceived and unperceived, an unperceived purpose should only be invoked when no perceived purpose can be found. If the Brahmana merely repeats the mantra's own meaning, then the meaning of mantras recited during the yajna...
 
-**Embedded English translation, as given in the source:**
-
-> ...mantra is used without any reference to its meaning. For example, take the mantra "uru prathasva." It refers to the spreading out of the purodasa. But that very thing is referred to in the brahmana "purodasam prathayathi." That being so, if you say that the sense is got from the mantra, you as good as made out the brahmana to be a useless thing: whereas, if you say with me that the mantra is used with no reference to its meaning, then the brahmana becomes useful as teaching the sacrificial act referred to. Therefore at the time of the sacrifice the only use of the mantras lies in the mere recitation of them.
->
-> But here a doubt arises. To say that the use of the mantras at the sacrifice lies in their recitation only is to devise for them a spiritual use. But a non-spiritual material use lies at hand, namely, that of conveying their meaning. (Such a procedure is illegitimate.) In spite of the fact that on this view we must admit that the brahmanas merely repeat what has been said in the mantras, must we not hold that the mantras are recited at the sacrifice with one purpose and purpose only, namely, that of conveying their meaning?
->
-> The upholder of the doctrine which is to be controverted therefore states another argument.
-
 <div class="pgmark">original p. 377</div>
 
-...we would have to accept that mantras do convey meaning in this sense. But if we accept that a mantra has this meaning-conveying capacity, another objection immediately arises — explained in the next sutra.
+We would have to accept that mantras do convey meaning in this sense. But if we accept that a mantra has this meaning-conveying capacity, another objection immediately arises — explained in the next sutra.
 
 ### "Vakya-niyamat" (Jaimini Sutra 1-2-32)
 
@@ -11388,14 +11213,6 @@ But suppose instead we say the very purpose of reciting mantras at the yajna is 
 > *agnir mūrdhā divaḥ kakut (RV 8-44-16) ity evam eva vākyaṃ paṭhitavyam iti mantre niyama upalabhyate | arthapratyāyanaṃ tu mūrdhvāgnir ity evaṃ vṛttyapi sveṣṭaiva bhavaty eva | tasmān niyata-pāṭha-krama-phalāyoccāraṇam eva mantra-prayojanam | ...*
 >
 > "It is a settled rule that the mantra 'agnir mūrdhā divaḥ kakut' must be recited in exactly this word-order, and no other. Yet conveying its meaning would work equally well in a rearranged form such as 'mūrdhāgnir...' Therefore, the mantra's purpose lies solely in its recitation according to a fixed word-order — for the sake of that order's own fruit, not for conveying meaning. One might object that even granting this fixed order, its purpose could still be to teach the proper recitation-sequence to someone who already knows the mantra's meaning. Anticipating this, Jaimini now formulates a further objection identifying an additional flaw in that view."
-
-**Embedded English translation, as given in the source:**
-
-> Since the words must be recited in a particular order.
->
-> It is received doctrine that the mantra "agnir murdha divah kakut" must be recited with the words in that order, and in no other. But if we changed the order and said "murdhagnir &c.," the meaning would be the same. So the only use of the mantras lies in their being recited in such a way as to secure the full fruit of the fixed order of the text.
->
-> It may, however, be said, that side by side with the spiritual benefit obtained by reciting the mantras in the order of the text, the recitation serves also the purpose of conveying a meaning. To guard against such an argument, he brings forward another objection in the next sutra.
 
 <div class="pgmark">original p. 378</div>
 
@@ -11412,12 +11229,6 @@ That is: the objection here is that mantras convey no meaning, since their sole 
 
 In this connection there is a story in the Aitareya Brahmana (Ai. Brā. 2-5-4). In the sacrificial hall the gods and the asuras fought for position. The asuras were strong and drove the gods from every place; but they could not drive Agni out of the Agnidhra's place. The gods, taking refuge there, increased their strength and drove out the asuras, and on the other altars, where the asuras had put out the fire, they rekindled it from the fire on the Agnidhra's altar. It is on this basis that the rite called *agni-viharaṇa* is performed in sacrifices. The ṛk "*agninā'gniḥ samidhyate*" (ṛ. saṃ. 1-12-6) supports this very point.
 
-**Embedded English translation, as given in the source:**
-
-> Since the command is already known.
->
-> "Agnid agnin vihara" is a directory text, which is recited at the time of sacrifice. Now the duty of distributing the fire or the like has already been learnt as part of his work by the priest when engaged in study. It is a useless proceeding to instruct him by a mantra with regard to a thing which he has already learnt. If your foot has a shoe on you do not clap another on the top of it.
-
 <div class="pgmark">original p. 379</div>
 
 Generally, yajnas employ sixteen priests, organized into four groups (**गण** *gaṇa*):
@@ -11432,10 +11243,6 @@ Altogether there are sixteen priests; with the yajamana, seventeen persons. But 
 The mantra "Agnīd agnīn vihara," discussed above, is used specifically when carrying fire from the Agnidh's altar to the other altars. But the Agnidh and other priests such as the Adhvaryu already know their duties, and the meaning and purpose of the mantras, from their period of Vedic study. Restating what is already known is therefore pointless — as pointless, the objection says, as putting a second shoe over a foot already shod.
 
 This might be answered as follows: what the mantras state may indeed already be known — but it could be forgotten through carelessness, and the mantras then serve a genuinely useful reminding function. Very well — let us grant that mantras can serve to remind priests of forgotten matters. But some mantras assert things that are outright impossible. This is addressed in the next sutra.
-
-**Embedded English translation, as given in the source:**
-
-> It may, however, be said that the mantra may be a useful reminder for the avoidance of a careless forgetfulness. To guard against this he brings forward another objection in the next sutra.
 
 <div class="pgmark">original p. 380</div>
 
@@ -11456,18 +11263,6 @@ Even granting mantras a memory-jogging function, this fails for mantras describi
 > *oṣadhe trāyasvainam | śṛṇota grāvāṇaḥ | ity ādy acetana-vacaneṣu mantreṣu cetanocitaṃ rakṣaṇa-śravaṇādikam arthaṃ badhnāti | sa ca cetana-svabhāvād ucitaḥ |*
 >
 > "In mantras such as 'O herb, protect him' and 'Hear, O stones,' meanings befitting sentient beings — protection, hearing, and the like — are attached to statements addressed to inanimate things. But such meanings are properly suited only to conscious beings."
-
-**Embedded English translation, as given in the source:**
-
-> Since the mantra mentions things that have no existance.
->
-> There is a text in the Veda, "He has four horns, three feet, two heads, seven hands." Now there is no implement of the sacrifice in any way corresponding to this description, which the mantra might be supposed to put the priest in remembrance of.
->
-> It may, however, be said, that some immanent deity is referred to here. To guard against this he brings forward another objection in the next sutra.
->
-> Since the mantra attaches a meaning to a thing which is not a living being.
->
-> In such mantras as "oshadhe trayasvainam" and "srinota gravanah" the words attach to lifeless things a meaning, such as protecting or hearing, which befits only sentient beings. And this is improper.
 
 <div class="pgmark">original p. 381</div>
 
@@ -11492,14 +11287,6 @@ Even granting mantras a memory-jogging function, this fails for mantras describi
 
 The objection: since a single mantra identifies Aditi simultaneously with two distinct cosmic regions (Heaven and the mid-air), and separate mantras contradictorily describe Rudra as both singular and countless-in-thousands, such mutually inconsistent statements cannot be meaningful or authoritative.
 
-**Embedded English translation, as given in the source:**
-
-> It may, however, be said that in accordance with the doctrine laid down in the "abhimanivyapadesa" sutra of the Vaiyasika Shastra the real subject of such clauses is some immanent deity. To guard against this he brings forward another objection in the next sutra.
->
-> Since the meanings are mutually contradictory.
->
-> There is a text, "Aditi is Dyaus, Aditi is Antariksha." But to say that what is Dyaus is Antariksha is a contradiction in terms. There might be cited, too, in this connection such texts as "Rudra is one only," and "The Rudras in their thousands."
-
 <div class="pgmark">original p. 382</div>
 
 > नसु त्वैमेव माता च पिता त्वैमेवेत्यादवन्तरिक्षादिरूपश्चेनादितिः स्तूयते । एवमेकस्यापि रुद्रस्य योगसामर्थ्याद्बहुमूर्तिस्वीकारोऽस्तु । ततो नार्थविप्रतिषेध इत्याशंक्य दोषान्तरं सूत्रयति ॥
@@ -11513,10 +11300,6 @@ The objection: since a single mantra identifies Aditi simultaneously with two di
 *Akshepa:* in the mantra "aditir dyaur aditir antarikṣam" (ṛ. saṃ. 1-89-10) the contradictory meanings heaven and mid-air are applied to one person. Can contradictory qualities exist in one thing? If one says milk is white, that is the quality found in milk; can the opposite, black, be in milk? A sentence or mantra saying "milk is both white and black" is incoherent. Take another example: "eka eva rudro na dvitīyāya tasthe" (Tai. Saṃ. 1-8-6-1) says that Rudra is one only and there is no second. But in another place, "sahasrāṇi sahasraśo ye rudrā adhi bhūmyām" (Tai. Saṃ. 4-5-11-5) says that the Rudras are on this earth in thousands upon thousands. The meanings of these two mantras contradict each other, and it is hard to say which is right and which wrong. Since many mantras contain such mutually contradictory meanings, the mantras are not worthy of consideration.
 ---
 
-**Embedded English translation, as given in the source:**
-
-> It may, however, be said that in such a text Aditi is praised metaphorically under the form of Antariksha, as when we say of some one that he is our father and mother. And that Rudra, though one in himself, takes on many forms by his supernatural power. To guard against this he brings forward another objection in the next sutra.
-
 <div class="pgmark">original p. 383</div>
 
 ### "Svādhyāyavad-vacanāt" (Jaimini Sutra 1-2-37)
@@ -11528,12 +11311,6 @@ The objection: since a single mantra identifies Aditi simultaneously with two di
 > "A certain woman named Purnika is pounding grain with a pestle. Nearby, a young brahmin student, engaged in his daily lesson, happens to be reciting the pestle-mantra (avaghāta-mantra). He has no intention of conveying its meaning — evident from the fact that he does not synchronize the mantra with each fall of the pestle; he seems merely intent on memorizing the words, and practices this mantra among others [without regard to Purnika's work]. Just as this mantra, though recited during study, conveys no meaning relevant to Purnika, so too it will convey no meaning even when recited during the actual ritual."
 
 That is: just as a mantra's meaning goes unattended during rote study, so too its ritual application conveys no genuine meaning — since the objection holds that mantra-recitation and the accompanying ritual action (here, pounding grain) proceed with no real connection between them, mantras recited without understood meaning yield no fruit for the rite performed alongside them.
-
-**Embedded English translation, as given in the source:**
-
-> Because the mantras at the time of sacrifice express no meaning, any more than they do when one is learning them by heart.
->
-> Suppose that a certain woman, called Purnika, is plying the pestle. Near her a brahmin boy, engaged in learning his daily lesson, chances to be reciting the pestle mantra. He has no wish to convey the meaning of the mantra. This is evident from the fact that he does not make his mantra keep time with the fall of the pestle. He is only learning the words by heart, and in doing that repeats over and over again this among other mantras, And just...
 
 <div class="pgmark">original p. 384</div>
 
@@ -11551,18 +11328,6 @@ That is: since the meaning of numerous mantras cannot be properly determined at 
 
 **A resolution is then offered:** it is precisely to explain such difficult mantras' meaning that disciplines like Nigama, Nirukta, and Vyakarana arose; with their help, understanding mantra-meaning is readily achievable — the claim of impossibility does not hold.
 
-**Embedded English translation, as given in the source:**
-
-> ...as in such a case the pestle mantra is at lesson time recited without conveying its meaning, so at the sacrifice it will not convey its meaning.
->
-> It may, however, be said, that in the case here supposed the boy has no wish to convey the meaning, while Purnika on her side (being a woman) is incapable of understanding it. It is different in the sacrifice. There the adhvaryu does wish to convey the meaning, and can understand it. To guard against this, he puts another objection in the form of a sutra.
->
-> Because some mantras are unintelligible.
->
-> The meaning of some mantras cannot be made out. Take, as one example, the text "amyak sa ta indra rishtir asme." And, as another, "srinyeva jarbhari turpharitu."
->
-> It may, however, be said that parallel vedic passages, the nirukta, and grammar are there to throw light on such mantras. To guard against this, he states another objection in the next sutra.
-
 <div class="pgmark">original p. 385</div>
 
 ### "Anitye-saṃyogān mantrānarthakyaṃ" (Jaimini Sutra 1-2-39)
@@ -11576,14 +11341,6 @@ That is: since the meaning of numerous mantras cannot be properly determined at 
 That is: since mantras mention transient, historically-bound proper names — a country, a city, a king — accepting that mantras convey meaning would force one to admit the Vedas are non-eternal, contradicting the doctrine that they are beginningless (anādi) and non-human (apauruṣeya). Therefore, only the unseen fruit of recitation itself can be the mantras' purpose — no other fruit exists.
 
 **This concludes the full nine-part objection (purva-paksha)**, spanning from "Buddha-shastrat" through this final sutra — nine separate arguments marshaled to establish that mantras serve recitation alone. **Jaimini's own resolution follows in the next sutra.**
-
-**Embedded English translation, as given in the source:**
-
-> Because they have to do with non-eternal things.
->
-> In the text "kim te krinvanti kikateshu" mention is made in the Veda of a country called Kikata, as also of a city called Naichasakha and a king called Pramaganda. From which we can infer that this text at least did not exist before king Pramaganda.
->
-> From all these reasons it must be concluded that at the sacrifice the mantras have no use as conveying a meaning. Their use is a spiritual one, and lies in their recitation only. This is the view to be controverted, and Jaimini now lays down in sutras the doctrine he establishes.
 
 <div class="pgmark">original p. 386</div>
 
@@ -11603,12 +11360,6 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 >
 > "The particle 'tu' (but) rules out the view that mantras exist merely for recitation with no intended meaning. The meaning of a sentence, understood through the relation between action and its agents/instruments, is the same whether in ordinary speech or in the Veda. Just as, in ordinary life, a sentence is uttered precisely to convey meaning, the same must hold in Vedic ritual application as well. What a mantra reveals can indeed be acted upon, not..."
 
-**Embedded English translation, as given in the source:**
-
-> But the meaning of a sentence has the same relation to the words in the Veda as in any other book.
->
-> The word "but" here shows that Jaimini is about to reject the view that the use of the mantras is a spiritual one, lying only in their recitation. The meaning of a sentence is...
-
 <div class="pgmark">original p. 387</div>
 
 > …त्वप्रकाशितः । तस्मान्मन्त्रोच्चारणस्यार्थप्रकाशनरूपं दृष्टमेव प्रयोजनम् । नन्वभ्रिरसि नारिरसीत्यारभ्य त्रैष्टुभेन त्वा छन्दसा ददे (तै. सं. ४-१-१-३) इति मन्त्र आम्नातः । तेनैव मन्त्रेण प्रतीतेऽप्यभ्र्यादाने पुनर्ब्राह्मणे तां चतुर्भिरभ्रिमादत्ते (तै. सं. ५-१-१-४) इति विधीयते । तदेतद्विधानं त्वत्पक्षे व्यर्थं स्यादित्याशङ्क्योत्तरं सूत्रयति ॥
@@ -11618,12 +11369,6 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 That is: mantra-meaning is established through the relation of action and its instruments, exactly as in ordinary speech — this holds equally for sacred and secular language alike. The word "tu" ("but") in this sutra rejects the earlier objection's claim that mantras serve merely recitation and not meaning; a new meaning, once revealed by a mantra, is what makes ritual action possible, and this alone is the mantra's directly observable (dṛṣṭa) purpose — not some purely "spiritual"/unseen one. Just as an ordinary sentence is uttered specifically to convey its meaning, so too must a Vedic mantra be understood as functioning the same way.
 
 A further objection is then raised: consider the sequence of mantras running from "abhrir asi nārir asi" through "traiṣṭubhena cchandasā dade" — on your view, this passage fully describes the taking-up of the "ābhri" (a ritual implement). If so, the Brahmana's separate injunction "caturbhir ābhrim ādatte" ("one takes up the ābhri with four [strokes/portions]") becomes entirely redundant. Jaimini anticipates and answers this objection in the next sutra.
-
-**Embedded English translation, as given in the source:**
-
-> ...arrived at by the relation of cause and effect subsisting between the words and it, and this holds good of all words whatever, sacred or profane. That being so, just as in common talk a sentence is uttered in order that it may convey its meaning, the same law must be recognized in the case of a Vedic sacrifice. For only the rite which is illustrated by a mantra can be performed, not that which is not so illustrated. Therefore the recitation of the mantras has one immediate use and one such use only, and that is not a mystical one. They are recited in order that they may convey their meaning.
->
-> But, it may be said, take the text from "abhrir asi narir asi" down to "traishtubhena tva chhandasa dade." According to your view that text tells all about the taking of the "abhri." In that view the direction to that effect contained in the brahmana "chaturbhir abhrim adatte" became perfectly useless. He anticipates and answers this objection in the next sutra.
 
 <div class="pgmark">original p. 388</div>
 
@@ -11639,12 +11384,6 @@ If a mantra's meaning is granted, but the Brahmana's own separate injunction (e.
 > *(The repetition in the Brāhmaṇa of a meaning already known from the mantra serves to enjoin a subsidiary detail, the number four; without it the abhri might be taken with any one of the four mantras. But in "imām agṛbhṇan raśanām ṛtasya … he takes the halter", where the taking of the halter already follows from the mantra's own power, the Brāhmaṇa sentence is again given as directing its use — on your view that is pointless; raising this doubt, he states the answer.)*
 
 That is: where a mantra's own already-understood meaning is repeated in a Brahmana passage, that repetition is not redundant — it serves to specify a quantifying detail (here, that exactly four applications are required), a detail the mantra by itself leaves open, since without such specification, a priest might assume he had the option to use any single one of the four mantras referenced.
-
-**Embedded English translation, as given in the source:**
-
-> Either the second saying is accompanied by a circumstance.
->
-> If here a meaning which has been already established by a mantra is repeated in a brahmana it is accompanied by a circumstance in the shape of the direction to the priest to use all four mantras. In the absence of that the priest might think that he had an option in the matter and was at liberty to use any one of the four mantras referred to.
 
 ## Chapter 7. The Definition of Pariṣaṅkhyā
 
@@ -11667,14 +11406,6 @@ But consider the Taittiriya Samhita's mantra "imām agṛbhṇan" ("I have grasp
 
 That is: the Brahmana's repetition here isn't redundant either — it implicitly *excludes* an alternative (a "donkey-rope," as opposed to the "horse-rope" specified), a specification the mantra alone cannot convey.
 
-**Embedded English translation, as given in the source:**
-
-> But, it may be said, take the text "imam agribhnan rasanamritasyetyasvabhidhanim adatte." Here the taking the rope has been adequately laid down in the mantra "imam agribhnan rasanamritasya." The injunction to that effect in the brahmana "asvabhidhanim adatte" is therefore useless. He anticipates and answers this objection in the next sutra.
->
-> Or there is a parisankhya.
->
-> The parisankhya here lies in the implied prohibition. He is to take the rope called asva, not that called gardabha. You will perhaps say that this parisankhya is open to the...
-
 <div class="pgmark">original p. 390</div>
 
 > …न्येन च प्राप्तं गर्दभरशनाया आदानं बाध्येतेति त्रयो दोषाः । नैवम् । गर्दभरशनाया अप्राप्तत्वात् । तथा हि । त्वत्पक्षे प्रकरणपाठान्यथानुपपत्त्या मन्त्रेणानेनादानं कुर्यादिति वाक्यं परिकल्प्यते । तेन च वाक्येन मन्त्रादानयोः संबन्धे सति पश्चात्किंविषयकमादानमिति वीक्षायां लिङ्गाद्रशनामात्रस्यादानमुपेत्य गर्दभरशनायाः प्राप्तिर्वक्तव्या । सा च विलम्ब्यत इत्यश्वाभिधानीमिति प्रत्यक्षेण वाक्येन । मन्त्रादानयोः संबन्धे सति लिङ्गाद्रशनामात्रे प्राप्तमादानमश्वाभिधानीमिति श्रुत्या विशेषे व्यवस्थाप्यते । ततो मन्त्रस्य निराकाङ्क्षत्वाद्गर्दभरशनाया अप्राप्तत्वान्नास्ति प्राप्तबाधः । अत एव निषेधार्थो न कल्प्यते । विध्यर्थश्च न त्यज्यते । तत्र कुतो दोषत्रयम् । ईदृशमप्राप्तिरूपमेव गर्दभरशनाया निवारणमभिप्रेत्य परिसंख्येति सूत्रितम् । ननूरु प्रथस्वेति प्रथयतीति ब्राह्मणस्य वैयर्थ्यं तदवस्थमेवेत्याशङ्क्योत्तरं सूत्रयति ॥
@@ -11686,11 +11417,7 @@ The sutra's meaning: "This Brahmana statement is a prohibitive injunction (niṣ
 
 **(1) Apūrva-vidhi** ("wholly new" injunction) — a sentence prescribing an act knowable by no other means. "One who desires heaven should perform yajna"; "one should sprinkle the grain [with mantra]" — these are apurva-vidhis, since no alternative path exists to fulfill the stated aim.
 
-**(2) Niyama-vidhi** (restrictive injunction) — where two possible methods exist for performing some act, and a sentence specifies that only one of them should be adopted...
-
-**Embedded English translation, as given in the source:**
-
-> ...three faults. The word "takes" must lose the meaning proper to it, that of taking the rope. It must put on a meaning foreign to it, namely, that of not taking, And, thirdly, "taking the gardabha rope" a meaning which presents itself, as the word rope of itself includes both the asva and the gardabha ropes, has to be barred. Not so, we answer. On your view (that...
+**(2) Niyama-vidhi** (restrictive injunction) — where two possible methods exist for performing some act, and a sentence specifies that only one of them should be adopted.
 
 <div class="pgmark">original p. 391</div>
 
@@ -11710,10 +11437,6 @@ Example: "**pañca pañca-nakhā bhakṣyāḥ**" ("the five five-clawed [animal
 
 Pariṣaṅkhyā itself comes in two kinds: **Shrauti** (explicit, marked by words like "eva," "only") and **Lakshaniki** (implied, established through the sentence's own structure without such marker-words). The sentence under discussion belongs to this second, implied category — which is precisely why further discussion is needed.
 
-**Embedded English translation, as given in the source:**
-
-> ...the mantra portion of this text is meaningless) a clause "with this mantra he should perform the act of taking" must be supplied. Otherwise the text recited will have no application at all. When you have by this clause established a connection between the mantra and the act of taking, the next question will be, what is he to take. You must fall back on the...
-
 <div class="pgmark">original p. 392</div>
 
 The mantra "imāmu gṛbhṇan" is used in the fire-altar construction rite (agnichayana): bricks are needed for the fire-pit, horses and donkeys carry the required earth, and ropes are needed to lead them — this mantra is recited while taking hold of such a rope. Without the Brahmana statement "ity aśvābhidhānīm ādatte" ("thus he takes the horse-named rope"), the mantra might be recited while taking up either the horse's or the donkey's rope; this Brahmana statement clarifies that it should specifically accompany taking up the horse's rope, not the donkey's — precisely the pariṣaṅkhyā function.
@@ -11726,11 +11449,7 @@ An objection arises: without this Brahmana statement, three flaws would follow i
 >
 > "Abandoning the stated meaning, constructing an unstated one, and barring what is otherwise independently established — pariṣaṅkhyā suffers from these three flaws."
 
-Once the mantra is established as relating to the act of taking hold, the question becomes: taking hold of *what*? Since the mantra itself uses the word "rashanā" (rope), it must refer to taking hold of a rope in general. Once this general sense is established...
-
-**Embedded English translation, as given in the source:**
-
-> ...indication (linga) supplied by the presence of the word rope in the mantra, and say that through the word rope the meaning "takes a gardabha rope" presents itself. This is a round-about way of getting the meaning, and therefore we must look to the sentence lying before us, "asvabhidhanim adatte," for the link between the mantra and the act of taking. The indication furnished by the presence of the word rope in the mantra goes no further than the general meaning and this general meaning is at once specialised by the sruti word...
+Once the mantra is established as relating to the act of taking hold, the question becomes: taking hold of *what*? Since the mantra itself uses the word "rashanā" (rope), it must refer to taking hold of a rope in general. Once this general sense is established, taking up the donkey's rope also becomes "attained".
 
 <div class="pgmark">original p. 393</div>
 
@@ -11745,10 +11464,6 @@ On further reflection, however, this statement arguably isn't pariṣaṅkhyā i
 > "One might object: this then simply becomes an ordinary injunction (for something not otherwise attained), and the term 'pariṣaṅkhyā' should not apply. But calling it pariṣaṅkhyā on the strength of its resulting function, rather than its strict formal structure, involves no real flaw."
 
 In sum, whether or not this statement technically counts as pariṣaṅkhyā, one point stands firmly established: there is no room whatsoever for the flaw the objector (pūrvapakṣin) alleges. The Brahmana statement conveys a genuinely new point not otherwise present in the mantra.
-
-**Embedded English translation, as given in the source:**
-
-> "asvabhidhanim." There is now no sense of something wanting to the full meaning of the mantra, and the meaning "takes a gardabha rope" never therefore presents itself. It is not the case therefore that a meaning which is part of the meaning of the text is here barred. It follows that we cannot say that "take" here is made to mean not take. And "take" does not give up its own meaning. So how do your three faults come in? It is a prohibition of...
 
 ## Chapter 8. The Definition of Arthavāda
 
@@ -11777,16 +11492,6 @@ What was termed pariṣaṅkhyā-vidhi in the previous sutra applies only to tha
 >
 > "The word 'vā' (or) rules out [the claim of] uselessness. [The relevant Brahmana passage is] an arthavāda (eulogistic explanatory statement). The injunction is recited in the Brahmana specifically to connect with the arthavāda 'yajñapatim eva tat prathayati' ('it spreads out the yajamana himself'). One might ask: since 'prathayati' alone already establishes the injunction to spread, and the act of spreading is already prescribed, then praised through the arthavāda beginning 'yajñapatim eva' — from where, then, is the very act of spreading itself originally attained? Anticipating this doubt, [Jaimini] formulates the answer."
 
-**Embedded English translation, as given in the source:**
-
-> ...this kind, against taking a gardabha rope,—a meaning which never has time to present itself,—which is referred to this Parisankhya sutra.
->
-> It will perhaps be said that the uselessness of the brahmana in the text "uru prathasveti prathayati" remains unaffected by what has been said. He anticipates and provides for this objection in the next sutra.
->
-> Or there is an arthavada.
->
-> The word "or" (common to this and the two preceding sutras) denies the uselessness of the brahmanas. In the present case the injunction is recited in the brahmana, in order to connect it with the arthavada "yajnapatim eva tat prathayati." But here a doubt may arise. Granted that the act of spreading the purodasa is given in the form of an injunction in the word "prathayati," and is eulogised in the arthavada "yajnapatim eva." What then is the original authority for this act of spreading?
-
 <div class="pgmark">original p. 395</div>
 
 ### "Mantrābhidhānāt" (Jaimini Sutra 1-2-46, with Shabara-bhashya)
@@ -11805,12 +11510,6 @@ According to the Mimamsakas, the Veda's overriding purpose is performing yajnas 
 
 **(1) Praśaṃsā** — praise (of what is enjoined).
 **(2) Nindā** — censure (of what is prohibited).
-
-**Embedded English translation, as given in the source:**
-
-> From its mention in the mantra.
->
-> The adhvaryu, referring to the purodasa quotes the mantra and says, Spread it out. And because he says this we understand the act of spreading it out to be the work of the...
 
 <div class="pgmark">original p. 396</div>
 
@@ -11845,12 +11544,6 @@ Corresponding to the three pramanas (perception, inference, revealed word), arth
 
 On this third category, a genuine disagreement exists between Agama-authority proponents (like Badarayana and Sayana) and the Mimamsakas. Sayanacharya holds that rejecting the literal truth of bhūtārthavāda statements would render *all* texts — Veda, Purana, Itihasa alike — unauthoritative. The Mimamsakas instead hold that bhūtārthavādas must be read purely as praise or censure, not literal fact. But the Mimamsaka position doesn't fully hold up: consider that the "Ratrisukta" yajna's own mantras nowhere state the rite's fruit — that fruit appears only in the associated arthavāda. Even the Mimamsakas must therefore accept that arthavāda genuinely conveys authoritative new information in such cases.
 
-**Embedded English translation, as given in the source:**
-
-> adhvaryu. As in common talk whoever says, Do this may be looked on as the real agent, so here the adhvaryu who says, Spread it out, is he who spreads it out.
->
-> As to the argument that the mantras must have a spiritual use in the sacrifice, because it is strictly enjoined that such a text as for example, "agnir murdha divah," be recited in that order of the words only, his answer to that is in the next sutra.
-
 <div class="pgmark">original p. 397</div>
 
 The Mimamsakas' "fruit-authority" doctrine (that every Vedic statement is authoritative only insofar as it supports yajna-performance) meets genuine resistance in the Upanishads and Gita.
@@ -11877,10 +11570,6 @@ That is: just as worldly fruit is transient, so too are the heavenly pleasures g
 
 *(Note: "mantrābhidhānāt" is not itself one of Jaimini's own sutras — it is a Shabara-bhashya sentence Sayana has interspersed while working through Jaimini's sutras, itself carrying sutra-like concision, a technique commentators occasionally employ.)*
 
-**Embedded English translation, as given in the source:**
-
-> [This page's content corresponds to material summarized above rather than directly excerpted; no additional footnote text appears on this page in the source beyond what was already given on the previous page.]
-
 <div class="pgmark">original p. 398</div>
 
 Even so, since word-order must not be altered (altering it produces nonsense), this sutra answers the objection that mantras yield only unseen (adṛṣṭa) fruit.
@@ -11895,17 +11584,11 @@ Even so, since word-order must not be altered (altering it produces nonsense), t
 
 Sutra's meaning: what the second sutra states is not opposed to our view. The intent of "vākya-niyamāt" (the second sutra) was that altering the mantra's word-order yields an improper result — this we don't deny; reciting mantras does yield a fruit. But our own position is: reciting a mantra also produces knowledge of its meaning, which helps carry out yajnas properly — and this directly observable benefit (dṛṣṭa-prayojana) must not be neglected or denied. Mantras, in other words, possess both the unseen fruit the objector claims *and* a directly observable one.
 
-**This answers the third original objection ("buddha-shāstrāt")** — recall the "agnīd agnīn vihara" example, objected to as useless repetition of already-known matter. Here, the Vajasaneyi Samhita's "prokṣaṇīr āsādaya" is cited: reciting this mantra, one places the mantra-sanctified water...
-
-**Embedded English translation, as given in the source:**
-
-> Your second point is not inconsistent with our view.
->
-> Your second point, that taken in your second sutra, is not inconsistent with our view. For we by no means deny that there is a spiritual benefit flowing from the observance of the strict order of the recited text. What then? All we say is that since the function of conveying a meaning, which belongs to the recitation of the mantra, is a non-spiritual one, it must not be left out of sight.
+**This answers the third original objection ("buddha-shāstrāt")** — recall the "agnīd agnīn vihara" example, objected to as useless repetition of already-known matter. Here, the Vajasaneyi Samhita's "prokṣaṇīr āsādaya" is cited: reciting this mantra, one places the mantra-sanctified water:
 
 <div class="pgmark">original p. 399</div>
 
-...one must know this mantra for sprinkling the yajna's implements with sanctified water (prokṣaṇa) — like the fire-distribution act, already-known matter, restated. One might object this resembles wearing a shoe over another shoe.
+One must know this mantra for sprinkling the yajna's implements with sanctified water (prokṣaṇa) — like the fire-distribution act, already-known matter, restated. One might object this resembles wearing a shoe over another shoe.
 
 ### "Sampreṣakarmaṇo garhānupalambhe saṃskāratvāt" (Jaimini Sutra 1-2-45)
 
@@ -11923,14 +11606,6 @@ Though one learns during study what acts must be performed at their proper time,
 > *yadi hi bodha evāvatiṣṭheta tato'navakāśatvaṃ bhavet | iha tu tadīyasaṃskāramātrāvasthānāt tadabhivyaktidvāreṇāsti jñānotpattyavasara iti na mantrānarthakyam | (Tantravārttike 1-2-15)*
 >
 > "If the knowledge itself remained [present], there would be no room [for the mantra]; but here, since only its latent impression remains, there is occasion for knowledge to arise through its manifestation — so the mantras are not meaningless." (Tantravarttika 1-2-15)
-
-**Embedded English translation, as given in the source:**
-
-> But, it may be said, the mantra "prokshanir asadya" teaches something that was known already, And this is not right. For no man puts a shoe on a foot which is already provided with one. He disposes of this objection in the next sutra.
->
-> An act enjoined by a text is not open to this censure. Because of the ceremonial perfection obtained.
->
-> The "censure" is the fault you allege. It does not arise, as you declare, in the case of an act enjoined by a text such as this is. The thing is known already. But the...
 
 <div class="pgmark">original p. 400</div>
 
@@ -11950,16 +11625,6 @@ Whether "saṃskāra" is understood as conferring a special unseen fruit (impart
 
 This is the celebrated allegorical reading of the "four-horned bull" mantra: rather than describing a literal impossible creature, it poetically describes the yajna itself — its four priests as horns, its three daily pressings as feet, its sacred fires and meters as hands, and its threefold Vedic foundation as its binding — resolving the fourth objection entirely.
 
-**Embedded English translation, as given in the source:**
-
-> ...calling it to remembrance by the mantra results in a ceremonial perfection of the character of the spiritual benefit resulting from a thing being done in the way prescribed.
->
-> As to what was said about the mantra "chatvari sringa &c." making mention of something that does not so much as exist his answer to that is in the following sutra.
->
-> In such mention there is a special meaning.
->
-> In the case of the mention of, that is, of a sentence dealing with, a thing non-existent, we must recognize a metaphorical meaning. Take the present example. The four officiating priests—hotri, adhvaryu, udgatri and brahma—are the four horns of this sacrifice. The morning, noon, and evening oblations are its three feet. The sacrificer and his wife are...
-
 <div class="pgmark">original p. 401</div>
 
 Sutra's meaning: in a context stating a non-existent thing, that sentence carries a special, secondary meaning. Where any sentence describes non-existent things, a different, secondary meaning must be construed — setting aside the apparent literal meaning. Non-Vedic literature uses such devices too: describing a river as "**चक्रवाकस्तनी**" (*cakravāka-stanī*, having chakravaka birds as her breasts), "**हंसदन्तावली**" (*haṃsa-dantāvalī*, rows of swans as her teeth), **काश** (*kāśa*) grass as her garment, **शैवल** (*śaivala*) moss as her hair — one naturally understands a meaning beyond the literal claim. The same principle applies to the objector's cited mantra "**चत्वारि शृङ्गा**" (*catvāri śṛṅgā*) — it need not describe a literal four-horned, three-footed creature at all:
@@ -11977,10 +11642,6 @@ Sutra's meaning: in a context stating a non-existent thing, that sentence carrie
 **वृषभः** (*vṛṣabhaḥ*, Bull) — one who "rains down" (**वर्षति** *varṣati*) desired boons, like rainfall.
 
 **रोरवीति** (*roravīti*, "Roars") — he who repeatedly recites the mantras in the form of **स्तोत्र** (*stotra*) and **शस्त्र** (*śastra*) (hymn and recitation).
-
-**Embedded English translation, as given in the source:**
-
-> ...the two heads. The gayatri and its fellow-metres are the seven hands. The triple binding by three Vedas. If the sacrifice is called vrishabha (a bull) that is, because it rains down (varshati) blessings. If it is said of it that it roars mightily, the meaning is that it is repeatedly the cause of sounds in the shape of the stotra and the Shastras. "This great god," that is, this god in the form of his fully-developed sacrifice, "has approached mortals," that is, men, and men only, can have part in it. Such metaphorical meanings are as common in profane literature. A river is described as having two chakravaka birds for her breasts, white swans for her lines of teeth, the kasa plant for her garment, and the saivala plant of her hair. In the same way such texts as "oshade trayasva" and "srinota gravaeah," in which things without sense are addressed by name, must be construed as implying praise. "If in...
 
 <div class="pgmark">original p. 402</div>
 
@@ -12003,16 +11664,6 @@ Similarly, sentences addressing inanimate objects serve to praise the associated
 
 That is: just as calling someone "both father and mother" carries an evident metaphorical sense without contradiction, the "one Rudra"/"thousand Rudras" statements simply describe different ritual contexts invoking different numbers of Rudra-deities — no genuine inconsistency remains.
 
-**Embedded English translation, as given in the source:**
-
-> ...this sowing the plant itself is protected, much more will the sower be" is the meaning of the one text. "If the very stones listen to the morning lesson, much more will learned brahmanas" is the meaning of the other.
->
-> As to the contradiction supposed to be involved in saying that Aditi is both Dyaus and Antariksha, his answer to that is in the next sutra.
->
-> Admit the metaphorical meaning, and there will be no contradiction.
->
-> It is just as in the sentence, You are my father and my mother, where the metaphorical meaning is apparent, and there is no contradiction. In the same way, too, in...
-
 <div class="pgmark">original p. 403</div>
 
 > यमधीयानो माणवकः पूर्णिकायाः अवघातं न प्रकाशयितुमिच्छतीति तत्रोत्तरं सूत्रयति ॥
@@ -12034,18 +11685,6 @@ Sutra's meaning: since the metaphorical meaning indicated in the mantra is accep
 
 That is: the student's silence on meaning during rote study isn't evidence mantras lack meaning generally — it simply reflects that neither Purnika's work nor the student's recitation is actually part of a yajna. Where no yajna is being performed, there's no occasion to intend conveying meaning at all — this doesn't undermine the mantra's meaning when genuinely used in ritual context.
 
-**Embedded English translation, as given in the source:**
-
-> ...a sacrifice connected with one Rudra, there is one Rudra: in a sacrifice connected with a hundred Rudras, there are a hundred Rudras, and this without any contradiction in terms.
->
-> As to the remark that the boy engaged in study has no wish to throw light on what Purnika is doing his answer to that is in the next sutra.
->
-> The non-communication of knowledge here is due to the fact that there is no connection with the sacrifice.
->
-> If, at the time of studying the Veda, the meaning is not expressed, that is quite right. Because at such a time there is no connection with the sacrifice. The action of Purnika is not connected with the sacrifice. And the boy is not performing the sacrifice, Neither Purnika nor the boy are here assisting the sacrifice, and therefore it is that there is no desire on the boy's part to convey the meaning of what he is reciting.
->
-> As to the argument that there is no meaning in such a text as, for example, "amyak sa ta indra," or "srinyeva jarbhari turpharitu," because the meaning cannot be made out, his answer to that is in the next sutra.
-
 <div class="pgmark">original p. 404</div>
 
 Sutra's meaning: during rote practice/study, since the mantra bears no connection to any yajna-related ritual act, no meaning is conveyed. The objection holds that meaning-grasping fails to occur during Vedic study — but when mantras are genuinely applied in yajnas, real efforts at conveying and understanding meaning take place; during mere memorization, no such occasion arises. In the pestle-mantra case, since Purnika's husking isn't part of a yajna, no rule ties the mantra's recitation to the pounding — and the student's own recitation likewise isn't yajna-related. Where no yajna-connection exists, the absence of meaning-knowledge is simply not a flaw at all.
@@ -12062,12 +11701,6 @@ Sutra's meaning: during rote practice/study, since the mantra bears no connectio
 
 That is: the meaning is genuinely present in such mantras, but goes unnoticed through carelessness or inattention — not because it's inherently absent. Careful etymological analysis via Nirukta and grammar, cross-checked against parallel passages, reveals that even the famously obscure "jarbhari turpharitu" refers to the twin Ashvin deities, confirmed by the dual grammatical forms and the hymn's overall Ashvin-context.
 
-**Embedded English translation, as given in the source:**
-
-> The meaning is there, but it is not known.
->
-> The meaning is there, but from error, laziness or the like, it is not known. In the case of such texts a meaning must be conjectured from the root of the unknown word, with the help of parallel passages, the Nirukta and grammar. Take an example. Jarbhari, turpharitu and other words of the same kind in this hymn must be names of the Asvins. For we see that they are duals. And the hymn is an Asvin hymn, as is clear from the words...
-
 <div class="pgmark">original p. 405</div>
 
 One can indeed determine the meaning of such texts. For difficult words like these, gathering other Vedic passages using similar constructions, with Nirukta and grammar's help, one determines the underlying verbal root and infers meaning accordingly. Working through the cited example: "jarbharī" and "turpharītū" are clearly dual-number words, occurring in verse 6 of Rigveda Mandala 10, Sukta 106 — a sukta dedicated to the Ashvins, confirmed by that same sukta's 11th verse, "aśvinoḥ kāmam aprāḥ" ("you fulfilled the Ashvins' desire"). Therefore "jarbharī" and "turpharītū" refer to the Ashvin deities. The Nirukta itself, holding this same view, glosses "jarbharī" as "those who nourish/give shelter" and "turpharītū" as "those who destroy [obstacles]." The same method of inference applies to "amyak sā ta" and similar texts.
@@ -12080,16 +11713,6 @@ One can indeed determine the meaning of such texts. For difficult words like the
 >
 > *(Jaimini refers back to his own earlier treatment: this same objection regarding connection with non-eternal things was already raised and resolved in the final adhikarana of the Mimamsa-sutra's first pada — the answer given there applies equally here.)*
 
-**Embedded English translation, as given in the source:**
-
-> "asvinoh kamam apra" occurring in it. Reasoning in this way the author of the Nirukta gives his explanation of these words. "Jarbhari," he says, is the same as bhartarau and "turpharitu" the same as hantarau. And the same method of inference must be applied to the text "amyak sa ta" and the like.
->
-> As for the argument that the Veda cannot be without beginning; because in it there is mention of non-eternal things such as, for example, king Pramaganda, his answer to that in the next sutra.
->
-> I have already dealt with the supposed connection with non-eternal things.
->
-> In the last adhikarana of the first pada of the Mimansa Sutra this objection, founded on the connection with non-eternal things, has been set out and disposed of, as...
-
 <div class="pgmark">original p. 406</div>
 
 > उक्त्वा परिष्कृतः । तथा हि । तत्र पूर्वपक्षे वेदानां पौरुषेयत्वं वक्तुं काठकं कालापकमित्यादिपुरुषसंबन्धाभिधानं हेतूक्त्वा नित्यदर्शनाच्च (Jaimini Sutra 1-1-28) इति हेत्वन्तरं सूत्रितम् । कस्यायमर्थः । बबरः प्रावाहणिः अकामयत (Taittiriya Samhita 7-1-10-2) इत्यादि अनित्यानां बबरादीनामर्थानां दर्शनात्क पूर्वमसत्त्वाच्चौरुषेयो वेद इति तत्रोत्तरं सूत्रितम् । परं तु श्रुतिसामान्यात् (Jaimini Sutra 1-1-31) इति तस्यायमर्थः । यत्तु परं काठकादिसाम्यानं तत्त्ववचननिमित्तं । यत्तु परं बबराख्यनिमित्त दर्शनं तच्चापि सामान्यमात्रम् ।
@@ -12098,11 +11721,7 @@ One can indeed determine the meaning of such texts. For difficult words like the
 
 Sutra's meaning: the matter of non-eternal things occurring in the Veda has already been addressed. In the closing portion of the first pada of Jaimini's sutras, while establishing the Veda's non-human origin (apauruṣeyatva), this same flaw regarding non-eternal things was resolved — Sayanacharya now summarizes that earlier resolution here, beginning with "tathā hi" ("that is").
 
-The objection there held that the Vedas, like Kalidasa's own works, were composed by human authors — supported by two points: first, the connection to named persons via titles like "Kathaka," "Kalapaka," and similar Vedic school-names...
-
-**Embedded English translation, as given in the source:**
-
-> follows. There, while engaged in putting forward the view to be controverted, Jaimini has adduced the occurrence of such titles as Kathaka and Kalapaka, as indicating the human origin of the Vedas. In the sutra "And because non-eternal things are mentioned" he adduces a second reason. The meaning is this. In the text "babarah pravahanir akamayata" mention is made of non-eternal things, such as Babara, a proper name, and the like. The Veda cannot have existed before these non-eternal things, and is therefore of human origin. The answer to this is in the sutra "Your second argument is based on a similarity of sounds only." The meaning of this is as follows. We have seen that the occurrence of such titles as Kathaka is due to the fact that sages like Katha taught the various versions of the Veda. Your second argument, drawn from the occurrence in the Veda of non-eternal things like...
+The objection there held that the Vedas, like Kalidasa's own works, were composed by human authors — supported by two points: first, the connection to named persons via titles like "Kathaka," "Kalapaka," and similar Vedic school-names:
 
 <div class="pgmark">original p. 407</div>
 
@@ -12120,14 +11739,6 @@ In this way, no flaw whatsoever remains regarding mantra-meaning — mantras gen
 
 **A further doubt arises:** the siddhanta-sutras have logically established that mantras reveal meaning and possess directly observable purpose — but one might object that no actual scriptural (śruti) statement supports this conclusion. Jaimini anticipates this and answers next.
 
-**Embedded English translation, as given in the source:**
-
-> Babara, really rests on a similarity of sounds only. There is no reference in the passage in question to a man called Babara. Babara is an onomatopoeic word. That being so, by the person who makes the sound ba-ba-ra is meant the god Vayu or the wind. The other word here, "pravahani," is also a name of Vayu so styled because he "pre-eminently travels" (prakarshena vahanasilah). Similar reasonings must be applied to other passages which appear to present a reference to non-eternal things.
->
-> We have thus got rid of each and every objection. At the sacrifice the texts are meant to be significant, and they are recited that they may convey their meaning,
->
-> But, it may be said, this thesis of yours, that the use of the recited texts at the sacrifice is a non-spiritual one, their purport being merely to convey their meaning, can be put by you only on probable grounds. You cannot produce a proof confirming this view from Scripture. He anticipates and answers this doubt in the next sutra.
-
 <div class="pgmark">original p. 408</div>
 
 ### "Liṅgo'padeśas tad-arthavat" (Jaimini Sutra 1-2-51)
@@ -12140,12 +11751,6 @@ In this way, no flaw whatsoever remains regarding mantra-meaning — mantras gen
 
 Sutra's meaning: ritual terms are used precisely to indicate meaning. "Āgneyyāgnidhram upatiṣṭheta" is a Brahmana statement indicating the mantra to recite while approaching the Agnidh's platform with one's wife for worship. "Āgneyyā" means "by the mantra whose presiding deity is Agni" — referring to the mantra beginning "agne naya." Rather than naming that mantra directly, the Brahmana uses the grammatically-derived (taddhita) term "āgneyī" ("Agni-related [verse]") — itself proof that the mantra is understood to carry genuine meaning, since only a meaning-bearing verse could be classified by its subject-deity this way. Since mantras thus demonstrably convey meaning, they must be recited at their proper application. Further proofs follow.
 
-**Embedded English translation, as given in the source:**
-
-> The references to mantras by a general description show that the meaning of the texts is taken into account.
->
-> There is the brahmana text "agney yagnidhram upatishtheta." The meaning of that is as follows. A verse which has Agni for its deity is styled an Agneyi verse. With such a verse approach the agnidhrasthana. Now here the brahmana, in enjoining the approach referred to, does not take the first two or three words of a verse and say "Approach with the verse, Agne naya &c." No. It uses Agneyi as a descriptive title of such verses. Since wherever Agni is chiefly made mention of in a verse, Agni is the deity of that verse. That being so the taddhita derivative Agneyi is a grammatically correct descriptive title of such verses. Therefore this injunction indicates that the mantra here is recognized as having a...
-
 <div class="pgmark">original p. 409</div>
 
 ### "Ūhaḥ" (Jaimini Sutra 1-2-52)
@@ -12156,35 +11761,17 @@ Sutra's meaning: ritual terms are used precisely to indicate meaning. "Āgneyyā
 >
 > "Ūha (adaptation) means reciting a mantra, originally composed for one context, with an appropriately modified word substituted, so that it retains a fitting meaning when applied in a related but altered context. For example: 'anvenaṃ mātā manyatām anu pitānu bhrātā' ('may its mother, father, and brother approve of it') is the mantra-text prescribed for a single sacrificial animal. In the modified case of two animals, one might expect the dual form 'anvenā mātā manyatām' — yet the Brahmana's own explanatory gloss on this states: 'the mother is not increased, nor the father' [i.e., these terms remain singular regardless]."
 
-Sutra's meaning: constructing suitable adapted words to fit a given context, when needed, is itself a proof that mantras carry meaning. The original mantra must sometimes be recited with slight modification across different contexts — changing certain words, or substituting others in their place — this practice is called **ūha** (adaptation), found here and there in ritual application. Consider the mantra recited while leading the sacrificial animal to the offering-place: "anvenaṃ mātā manyatām anu pitānu bhrātā" (may its mother, father, and brother approve of it)...
-
-**Embedded English translation, as given in the source:**
-
-> ...meaning. And since the mantras have a meaning, it is clear that the object of the recitation of the mantras at the sacrifice is to convey that meaning.
->
-> In the next sutra Jaimini furnishes a second indication from Scripture of the doctrine that the mantras at the sacrifice are used with a view to their meaning.
->
-> Uha.
->
-> By uha is meant an alteration wrought upon a text to enable it to convey a modified but kindred meaning. For example. "Anvenam ('this') mata manyatam anu pitanu bhrata"
+Sutra's meaning: constructing suitable adapted words to fit a given context, when needed, is itself a proof that mantras carry meaning. The original mantra must sometimes be recited with slight modification across different contexts — changing certain words, or substituting others in their place — this practice is called **ūha** (adaptation), found here and there in ritual application. Consider the mantra recited while leading the sacrificial animal to the offering-place: "anvenaṃ mātā manyatām anu pitānu bhrātā" (may its mother, father, and brother approve of it):
 
 <div class="pgmark">original p. 410</div>
 
-...its mother, father, and brother — may all these approve of this animal's sacrifice — this mantra is used as-is with a single animal. With two animals, it's modified to "**अन्येनौ माता...**" (*anyenau mātā...*); with many animals, to "**अन्येनान् माता...**" (*anyenān mātā...*) That is: the singular word becomes dual ("**एनौ**" *enau*, these two) or plural ("**एनान्**" *enān*, these), according to the animal-count. A Brahmana statement confirms this required adaptation, stating simply:
+its mother, father, and brother — may all these approve of this animal's sacrifice — this mantra is used as-is with a single animal. With two animals, it's modified to "**अन्येनौ माता...**" (*anyenau mātā...*); with many animals, to "**अन्येनान् माता...**" (*anyenān mātā...*) That is: the singular word becomes dual ("**एनौ**" *enau*, these two) or plural ("**एनान्**" *enān*, these), according to the animal-count. A Brahmana statement confirms this required adaptation, stating simply:
 
 > न माता वर्धते न पिता ।
 > *na mātā vardhate na pitā |*
 > "The mother is not increased, nor the father."
 
 Here, "vṛddhi" (increase) could mean either of two things: age-related growth (childhood through youth to old age), or grammatical number-change (the singular "mātā"/"pitā" becoming dual "mātarau"/"pitarau" or plural "mātaraḥ"/"pitaraḥ"). Age-related growth obviously cannot be denied — it's plainly observable. So the Brahmana's real point must be grammatical: the words "mātṛ" and "pitṛ" specifically should NOT change in number. Since this restriction applies only to those two words, it follows that the remaining word "enam" *must* instead take the appropriate dual or plural form depending on context. If mantras carried no meaning at all, why would this kind of careful word-adaptation even be necessary? This confirms that mantras do indeed convey genuine meaning.
-
-**Embedded English translation, as given in the source:**
-
-> ...is the original form of a mantra referring to the sacrifice of an animal. When there are two animals to be sacrificed the form of this mantra is altered, and they say, "enau ('these two') mata manyatam." When there are more than two there is a different uha and they say "enan ('these') mata manyatam."
->
-> Of this mantra there is an interpretative brahmana, "Na mata vardhate na pita," "The mother does not increase, nor the father." Here the thought must arise, is the increase, which is in this brahmana forbidden, increase of the body, or is it increase of the word? By increase of the word of course is meant the change of the singular "matri" to the dual "matarau," or to the plural "matarah." Now it is not possible to prohibit increase of the body. For we see it increase before our eyes, according to the change from child to girl, from girl to woman. We are left with the increase of the word. And the special prohibition against any increase of the words matri and pitri in this text is intended to indicate that the other word enam is to be increased, according to the sense, to enau or enan. But if the meaning of the mantra is not intended to be conveyed by its recitation, then where is the necessity of introducing the dual when two beasts are to be sacrificed, or the plural when more than two beasts are to be sacrificed?
->
-> In the same matter he brings forward still another indication from scripture in the next sutra.
 
 <div class="pgmark">original p. 411</div>
 
@@ -12203,12 +11790,6 @@ Sutra's meaning: vidhi-śabda words embedded in Brahmanas likewise support that 
 > तत्र सङ्ग्रहश्लोकौ— मन्त्रा उरु प्रथस्वेति किमदृष्टैकहेतवः । यागेषूत पुरोडाशप्रथनादेश्च भासकाः ॥ ब्राह्मणेनापि तद्ध्यानान्मन्त्राः पुण्यैकहेतवः । न तद्ध्यानस्य दृष्टत्वाद्दृष्टं वरमदृष्टतः ॥ इति ॥ (जै. न्या. मा. १-२-४)
 > *tatra saṅgrahaślokau — mantrā uru prathasveti kim adṛṣṭaika-hetavaḥ | yāgeṣūta puroḍāśa-prathanādeś ca bhāsakāḥ || brāhmaṇenāpi tad-dhyānān [?] mantrāḥ puṇyaika-hetavaḥ | na tad-dhyānasya dṛṣṭatvād dṛṣṭaṃ varam adṛṣṭataḥ || iti || (Jaimini-nyaya-mala 1-2-4)*
 >
-
-**Embedded English translation, as given in the source:**
-
-> Because of vidhisabdas.
->
-> A clause in a brahmana explanatory of a mantra is called a vidhisabda. For example, take the brahmana "satam himah satam varshani jivyasmetyevaitad aha." Here the words "satam himah" are the pratika, or title consisting of the first two words of the mantra which is to be explained. The rest of the brahmana is the explanation of the mantra. But if the mantra is not intended to convey a meaning, why should the purport of a mantra be explained at all?
 
 ## Chapter 9. Examination of the Authority of the Brahmana-Portion (the Vidhi/Injunctive Mantras)
 
@@ -12232,14 +11813,6 @@ Here, the objector's (pūrvapakṣa) view is presented as a question, and the si
 >
 > *(Establishing that Brahmana passages fall into two categories — vidhi (injunction) and arthavāda (explanatory eulogy) — and that vidhi itself divides further into "initiating an unperformed act" and "revealing something unknown." Certain ritual-procedure injunctions are then questioned as to whether they meet the standard of genuinely valid proof, given a following passage that appears to declare a related substance ritually unsuitable; the bhāṣya above was re-read from the better scan in the [?] pass.)*
 
-**Embedded English translation, as given in the source:**
-
-> From all this it follows that the mantras at the sacrifice have a meaning which it is intended shall be conveyed, and their recitation has therefore that for its object.
->
-> This discussion is summed up in the following two verses of the Sangraha:
->
-> "Are mantras like 'uru prathasva' recited at sacrifices for the spiritual benefit residing in the mere recitation; or do they declare the spreading out of the purodasa and other parts of the sacrifice to which they refer?
-
 <div class="pgmark">original p. 413</div>
 
 > …श्चेति । तत्र ह्यारण्यतिलानामारण्यगोधूमानां चाहुतिद्रव्यत्वं निषिद्धम् । तस्माद्बाधितो जर्तिलादिविधिरप्रमाणम् । एवमैतरेयतैत्तिरीयादिब्राह्मणेषु तत्तन्नादृत्यं तत्तथा न कार्यमिति वाक्याभ्यां बहवो विधयो निषिद्धाः । अपि चैतरेयब्राह्मणेऽनुदितहोमं बहुधा निन्दित्वा तस्मादुदिते होतव्यमित्यसकृन्निगमितम् । तैत्तिरीयाश्च तथैवामनन्ति “यदनुदिते सूर्ये प्रातर्जुहुयात् । उभयमेवाग्नेयꣳ स्यात् । उदिते सूर्ये प्रातर्जुहोति” (तै. ब्रा. २-१-२-७) इति । पुनरपि त एवोदितहोमे दोषमामनन्ति— “यदुदिते सूर्ये प्रातर्जुहुयात् । यथातिथये प्रद्रुताय शून्यायावसथायाहार्यꣳ हरन्ति । तादृगेव तत् ।” (तै. ब्रा. २-१-२-१२) इति । तथैवातिरात्रे षोडशिनं गृह्णातीति विधिर्नातिरात्रे षोडशिनं गृह्णातीति निषेधेन बाध्यते । ज्योतिष्टोमादिष्वप्यनुष्ठानानन्तरमेव स्वर्गादिफलं नोपलभ्यते । न हि भोजनानन्तरं तृप्तेरनुपलम्भोऽस्ति । तस्मात्कर्मविधिषु प्रामाण्यं दुःसंपादम् ।
@@ -12247,13 +11820,7 @@ Here, the objector's (pūrvapakṣa) view is presented as a question, and the si
 >
 > *(Bhāṣya re-read in full from the better scan in the [?] pass: injunctions such as the jartila one are set aside by the prohibition of wild sesame and wild wheat; many injunctions are negated by "it should not be done so"; the Aitareya condemns the pre-sunrise homa while the Taittirīyas condemn the post-sunrise homa; "he takes the ṣoḍaśin at the atirātra" is set aside by "he does not take the ṣoḍaśin at the atirātra"; and the fruit of the Jyotiṣṭoma is not seen right after it, as satisfaction is seen right after a meal — so the authority of the ritual injunctions is hard to establish.)*
 
-Let us accept the Samhita (mantra) portion as authoritative, as already established. But applying that same status to the **Brahmana portion** is not straightforward. Brahmanas fall into two kinds — **vidhi** (injunction) and **arthavāda** (explanatory statement). Apastamba's sutra defines them: "karma-codanā brāhmaṇāni" — statements that impel ritual acts are Brahmanas (vidhis); the remainder is arthavāda. Vidhi itself divides further into two kinds: those that initiate a not-otherwise-performed act, and those that reveal a previously unknown matter. Karma-kanda statements like "āgnāvaiṣṇavam..." and similar...
-
-**Embedded English translation, as given in the source:**
-
-> ...It has been held that since the brahmanas also declare these rites, the mantras are recited for some virtue that lies in their recitation only: not so; their declaratory power is an immediate, temporal advantage, and that comes before a secondary spiritual advantage."
->
-> But, it will be said we admit the authority of the mantra portion of the Veda. The brahmana portion, however, cannot rightly be said to be authoritative, for the following reasons. The brahmana portion is of two kinds, called respectively vidhi and arthavada. So, for example, Apastamba says, "Some brahmanas relate to works, that is, are vidhis, precepts: and all the remaining brahmanas are of the nature of arthavada." Vidhis, too, are of two kinds, according as they enjoin the performance of something that has not been performed, or make known something that is not known. Such vidhis as, for example,
+Let us accept the Samhita (mantra) portion as authoritative, as already established. But applying that same status to the **Brahmana portion** is not straightforward. Brahmanas fall into two kinds — **vidhi** (injunction) and **arthavāda** (explanatory statement). Apastamba's sutra defines them: "karma-codanā brāhmaṇāni" — statements that impel ritual acts are Brahmanas (vidhis); the remainder is arthavāda. Vidhi itself divides further into two kinds: those that initiate a not-otherwise-performed act, and those that reveal a previously unknown matter. Karma-kanda statements like "āgnāvaiṣṇavam..." and similar:
 
 <div class="pgmark">original p. 414</div>
 
@@ -12270,10 +11837,6 @@ The yajamāna undertaking a Soma-yaga must undergo certain consecrations, includ
 The second category of vidhi reveals previously unknown matters. "Ātmā vā idam eka evāgra āsīt" ("in the beginning, this was the Self alone") and similar statements on the relationship between the individual soul and Brahman belong to the **brahma-kāṇḍa** — the Aranyakas and Upanishads. Since such truths cannot otherwise be known, this category is called **ajñāta-jñāpaka** vidhi (revealing the unknown). Vidhi thus divides into these two kinds.
 
 But within the karma-kāṇḍa, statements like "jartilayavāgvā..." (concerning forest-grown sesame and wheat as valid oblation materials) lack genuine authority — since the same scriptural tradition elsewhere states that forest-grown sesame and wheat are *not* suitable oblation materials. A statement permitting the use of unsuitable substances cannot itself be considered authoritative.
-
-**Embedded English translation, as given in the source:**
-
-> "agnavaishnavam purodasam nirvapanti dikshaniyayam," which fall under the karma section of the Veda, enjoin the performance of something that has not been performed. While such vidhis as, for example, "atma va idam eka evagra asit," which fall under the brahma section of the Veda, reveal something which was not previously known. Now of these two kinds there can, in the first place, be no authoritativeness about such vidhis, belonging to the karma section of the Veda, as, for example, "jartilayavagva va juhuyad gavidhukayavagva va" For these vidhis enjoin the use of substances which are not suitable for use, and they cannot therefore be said to be instruments of right knowledge. That the substances in question are not suitable for use is revealed in the rest of the sentence, "anahutir vai jartilas cha gavidhukas cha." For there the employment in the sacrifice of wheat and oil grown in the forest is...
 
 <div class="pgmark">original p. 415</div>
 
@@ -12293,10 +11856,6 @@ Thus, contradictory statements exist on this exact same point.
 
 **The Taittiriya Brahmana offers a mythological account explaining this:** long ago, Prajapati (Brahma), preparing to offer havis to Agni, was approached by Surya, who insisted the offering be made to him instead. Agni and Surya then debated and reached an agreement: daytime homa belongs to Surya, nighttime homa belongs to Agni — a reasonable arrangement, since Surya's influence predominates by day and Agni's by night. Therefore, homa performed before sunrise (still counted as "night") belongs to Agni, while homa from sunrise to sunset belongs to Surya. Daytime homa thus belongs to Surya, nighttime homa to Agni.
 
-**Embedded English translation, as given in the source:**
-
-> ...expressly forbidden. Therefore a vidhi which enjoins the use of such substances cannot possibly be authoritative. In the same way, in the Aitareya, Taittirya and other Brahmanas many vidhis are expressly controverted, with such words as, This and this is not to be regarded, or, This is not to be done in that way. Again, in the Aitareya Brahmana the practice of performing the homa sacrifice before the sun has risen is repeatedly censured,
-
 <div class="pgmark">original p. 416</div>
 
 A homa performed contrary to this arrangement, the argument holds, fails to reach its intended deity and becomes useless. Similarly, the Atiratra yajna's rule requiring the Shodashi-stotra and Shastra is directly contradicted by another passage prohibiting their use in that same rite. And while the Jyotishtoma yajna is said to secure heaven (with similar specific fruits attributed to other yajnas), none of these outcomes can be verified through direct experience — unlike "eating brings satisfaction," which is confirmed by observation. Since karma-kāṇḍa vidhi statements' promised fruits cannot be similarly verified, the objection concludes they carry no authority whatsoever.
@@ -12313,21 +11872,7 @@ Among Ekāhas, the most important is the **ज्योतिष्टोम (Jy
 
 1. अग्निष्टोम (Agniṣṭoma) 2. अत्यग्निष्टोम (Atyagniṣṭoma) 3. उक्थ्य (Ukthya) 4. षोडशी (Ṣoḍaśī) 5. वाजपेय (Vājapeya) 6. अतिरात्र (Atirātra) 7. आप्तोर्याम (Āptoryāma)
 
-Of these, **Agnishtoma is the primary form**, the remaining six being its variants — hence Agnishtoma is called the "prakṛti" (base form) and the other six the "vikṛti" (modified forms). In the Agnishtoma, the udgatr and his assistants together sing 12 Stotras (Sama-chants), and after each Stotra-recitation, the accompanying priests — Maitravaruna, Brahmanacchamsi, Achchavaka, and others...
-
-**Embedded English translation, as given in the source:**
-
-> ...and it is again and again solemnly declared that this sacrifice must be offered after the sun is risen. But the Taittiriyas have the text,
->
-> यदनुदिते सूर्ये प्रातर्जुहुयादुभयमाग्नेयं स्यादुदिते सूर्ये प्रातर्जुहोति ।
-> *yad anudite sūrye prātar juhuyād ubhayam āgneyaṃ syād udite sūrye prātar juhoti |* (Taittiriya Brahmana 2-1-2-7, as cited on p. 413)
->
-> "If one should offer the morning oblation before the sun rises, it would belong doubly to Agni; if the sun has risen, one offers the morning oblation [properly]."
->
-> The same school have a text in which the objection to a homa sacrifice offered after the sun has risen is thus set out, "Yad udite surye atar juhuyad yathathitaye pradrutaya sunyayavasathayaharyam haranti tadrig eva tad."
->
-> यदुदिते सूर्ये प्रातर्जुहुयात् । यथातिथये प्रद्रुताय शून्यायावसथायाहार्यꣳ हरन्ति । तादृगेव तत् ।
-> *yad udite sūrye prātar juhuyāt | yathātithaye pradrutāya śūnyāyāvasathāyāhāryaṃ haranti | tādṛg eva tat |* (Taittiriya Brahmana 2-1-2-12)
+Of these, **Agnishtoma is the primary form**, the remaining six being its variants — hence Agnishtoma is called the "prakṛti" (base form) and the other six the "vikṛti" (modified forms). In the Agnishtoma, the udgatr and his assistants together sing 12 Stotras (Sama-chants), and after each Stotra-recitation, the accompanying priests — Maitravaruna, Brahmanacchamsi, Achchavaka, and others:
 
 <div class="pgmark">original p. 417</div>
 
@@ -12364,14 +11909,6 @@ The yajna takes its name "**अग्निष्टोम**" (*Agniṣṭoma*) 
 
 It is clear that each successive samstha builds upon the Stotra-Shastras of the one before it. But in the Atiratra, one Stotra from the preceding Shodashi samstha...
 
-**Embedded English translation, as given in the source:**
-
-> In the same way, the vidhi—
-
-> अतिरात्रे षोडशिनं गृह्णाति ।
-> *atirātre ṣoḍaśinaṃ gṛhṇāti |*
-> "In the Atiratra, one takes up the Shodashin [cup]"
-
 —is contradicted by the vidhi—
 
 > नातिरात्रे षोडशिनं गृह्णाति ।
@@ -12396,12 +11933,6 @@ Just as karma-kāṇḍa contains contradictions, the brahma-kāṇḍa does too
 
 **Given that the entire vidhi-portion — both karma-kāṇḍa and brahma-kāṇḍa — stands accused of lacking authority, a resolution now follows, establishing the vidhi-portion's genuine authority.**
 
-**Embedded English translation, as given in the source:**
-
-> For all these reasons you will find it difficult to prove that the vidhi portion of the Veda is authoritative.
->
-> And as for the other kind of vidhis, which reveal what was not already known, and belong to the brahma portion of the Vedas, they contradict each other and cannot, therefore, be authoritative. The Aitareyins have a text, "atma va idam eka evagra asit." The Taittiriyas have one, "asad va idam agra asit." The two are contradictory.
-
 <div class="pgmark">original p. 419</div>
 
 > अस्त्वेवं जर्तिलादिविधेरप्रामाण्यं तदर्थस्याननुष्ठेयत्वात् । अनुष्ठेयस्त्वर्थ उपरितने— “अजक्षीरेण जुहोति” इति (तै. सं. ५-४-३-२) वाक्ये विधीयते । तत्प्रशंसार्थमत्र जर्तिलादिकमनूद्य निन्द्यते । यथा गवामश्वानां च प्रशंसार्थम्— “अपशवो वा अन्ये गोअश्वेभ्यः” (तै. ब्रा. ३-९-१०-२) इति वाक्येनार्थवादरूपेणाजादीनां पशुत्वं निन्द्यते तद्वत् । एवं तर्ह्यजादेर्यथा वस्तुतः पशुत्वमस्ति तथा जर्तिलादिविधिरत्र निन्द्यमानोऽपि क्वचिच्छाखान्तरे भवेदिति चेत् भवतु नाम । प्रामाण्यमपि तच्छाखाध्यायिनं प्रति भविष्यति । यथा गृहस्थाश्रमे निषिद्धमपि परान्नभोजनमाश्रमान्तरेषु प्रामाणिकं तद्वत् । अनेन न्यायेन सर्वत्र परस्परविरुद्धौ विधिनिषेधौ पुरुषभेदेन व्यवस्थापनीयौ । यथा मन्त्रेषु पाठभेदः शाखाभेदेन व्यवस्थितस्तद्वत् । तैत्तिरीया वायव स्थोपायव स्थ (तै. सं. १-१-१) इति मन्त्रमामनन्ति । वाजसनेयिनस्तूपायव स्थेत्येतं भागं नामनन्ति (वा. सं. १-१) प्रत्युत शतपथब्राह्मणे (१-७-१-३) स भागोऽनूद्य निराकृतः । तथा सूक्तवाकमन्त्रे शाखान्तरपाठं निराकृत्य पाठान्तरं तैत्तिरीया आमनन्ति । यद्ब्रूयात्सूपावसाना च स्वध्यवसाना चेति प्रमायुको यजमानः स्यात् (तै. सं. २-६-९-६) इति निराकरणम् । सूपचरणा च स्वधिचरणा चेत्येव ब्रूयादिति (तै. सं. २-६-९-६) पाठान्तरोपदेशः । तत्रानुष्ठातृपुरुषभेदेन व्यवस्था । तद्वद्विधिषु द्रष्टव्यम् । षोडशिग्रहणादिदूषणं त्वश्रुतमीमांसावृत्तान्तस्य तवैव शोभते । पूर्वमीमांसायां दशमाध्यायस्याष्टमपादे षोडशिनो ग्रहणाग्रहणविकल्पो निर्णीतः । (जै. सू. १०-८-६) द्वितीयस्याध्यायस्य प्रथमपादे कालान्तरभावि-…
@@ -12409,12 +11940,6 @@ Just as karma-kāṇḍa contains contradictions, the brahma-kāṇḍa does too
 > *astv evaṃ jartilādi-vidher aprāmāṇyaṃ tad-arthasyānanuṣṭheyatvāt | anuṣṭheyas tv artha uparitane — “ajakṣīreṇa juhoti” iti (Tai. Saṃ. 5-4-3-2) vākye vidhīyate | tat-praśaṃsārtham atra jartilādikam anūdya nindyate | yathā gavām aśvānāṃ ca praśaṃsārtham — “apaśavo vā anye go-aśvebhyaḥ” (Tai. Brā. 3-9-10-2) iti vākyenārthavāda-rūpeṇājādīnāṃ paśutvaṃ nindyate tadvat | evaṃ tarhy ajāder yathā vastutaḥ paśutvam asti tathā jartilādi-vidhir atra nindyamāno'pi kvacic chākhāntare bhaved iti cet bhavatu nāma | prāmāṇyam api tac-chākhādhyāyinaṃ prati bhaviṣyati | yathā gṛhasthāśrame niṣiddham api parānna-bhojanam āśramāntareṣu prāmāṇikaṃ tadvat | anena nyāyena sarvatra paraspara-viruddhau vidhi-niṣedhau puruṣa-bhedena vyavasthāpanīyau | yathā mantreṣu pāṭha-bhedaḥ śākhā-bhedena vyavasthitas tadvat | taittirīyā vāyava sthopāyava stha (Tai. Saṃ. 1-1-1) iti mantram āmananti | vājasaneyinas tūpāyava sthety etaṃ bhāgaṃ nāmananti (Vā. Saṃ. 1-1) pratyuta śatapatha-brāhmaṇe (1-7-1-3) sa bhāgo'nūdya nirākṛtaḥ | tathā sūktavāka-mantre śākhāntara-pāṭhaṃ nirākṛtya pāṭhāntaraṃ taittirīyā āmananti | yad brūyāt sūpāvasānā ca svadhyavasānā ceti pramāyuko yajamānaḥ syāt (Tai. Saṃ. 2-6-9-6) iti nirākaraṇam | sūpacaraṇā ca svadhicaraṇā cety eva brūyād iti (Tai. Saṃ. 2-6-9-6) pāṭhāntaropadeśaḥ | tatrānuṣṭhātṛ-puruṣa-bhedena vyavasthā | tadvad vidhiṣu draṣṭavyam | ṣoḍaśi-grahaṇādi-dūṣaṇaṃ tv aśruta-mīmāṃsā-vṛttāntasya tavaiva śobhate | pūrvamīmāṃsāyāṃ daśamādhyāyasyāṣṭamapāde ṣoḍaśino grahaṇāgrahaṇa-vikalpo nirṇītaḥ | (Jai. Sū. 10-8-6) dvitīyasyādhyāyasya prathamapāde kālāntarabhāvi-…*
 >
 > "We grant that the vidhi regarding forest-grown sesame ('jartila') and similar substances lacks authority, since its stated content is not actually meant to be performed. The act that genuinely IS meant to be performed is prescribed in the following clause: 'ajakṣīreṇa juhoti' ('one offers with ajakṣīra'). The mention of jartila and similar substances there merely restates them in order to condemn them — just as, in praising cows and horses, the statement 'other animals besides cow and horse are non-animals [in ritual value]' (Taittiriya Brahmana 3-9-10-2) uses an arthavāda-style condemnation of goats and similar animals' status as sacrificial animals, without literally denying they are animals."
-
-**Embedded English translation, as given in the source:**
-
-> From all this it is clear that the whole vidhi portion of the Veda is unauthoritative.
->
-> Our reply is as follows. We will grant that vidhis such as that about the forest grain are unauthoritative, because the action they enjoin is after all not to be performed. But the act which is to be performed is enjoined in the clause which follows, "ajakshirena juhoti." And it is to emphasise the injunction that ajakshira is to be used that jartila and the other substances are mentioned that they may be condemned. As if one speaking in...
 
 ## Chapter 10. Examination of the Authority of the Arthavāda Portion
 
@@ -12433,12 +11958,6 @@ Just as karma-kāṇḍa contains contradictions, the brahma-kāṇḍa does too
 > *(A capstone argument citing the Vedanta-sutra and Purva-Mimamsa-sutra by name: showing that the apparent contradiction over the world's cause is resolved because "asat" (non-being) in the Taittiriya passage doesn't mean literal nothingness but rather the unmanifest/undifferentiated state — consistent with the Self being the world's true cause; and that both Jaimini and Vyasa establish the Veda's authority through their respective sutra-systems. The overall conclusion: the entire vidhi-portion's authority stands firmly established.)*
 
 Sutta's argument now resolves the objection fully: the statements "jartilayavāgvā vā juhuyāt gavīdhukayavāgvā vā" and "anāhutir vai jartilāś ca gavīdhukāś ca" (cited as contradictory) genuinely do lack authority — but without any actual flaw, since these vidhi-statements were never meant to be followed in the first place. The truly prescribed oblation-substance — goat's milk — appears shortly after, in "ajakṣīreṇa juhoti." Goat's milk is the excellent oblation-substance; jartila and gavidhuka were mentioned first, and then declared unsuitable, precisely to praise goat's milk by contrast — that is, jartila and similar substances...
-
-**Embedded English translation, as given in the source:**
-
-> ...praise of kine and of horses were to say in a figure that there were no beasts beside them, and so deny the name of beast to goats and the like.
->
-> If you say here that in accordance with this reasoning vidhis such as that about forest grain, though rejected in the passage before us, must be authoritative in some other Sakha, just as goats and the like are beasts, though in that way of speaking they are declared not to be beasts, we will accept that. But they will be authoritative only to a follower of that Sakha. The case is on all fours with eating the food of a stranger which, forbidden in one stage of life, is lawful in another. Reasoning in this way we can resolve all contradictions between precepts or vidhis and prohibitions by referring them to differences in the man.
 
 <div class="pgmark">original p. 421</div>
 
@@ -12480,13 +11999,9 @@ Following this same reasoning, mutually contradictory injunctions and prohibitio
 
 The same mantra appears in the Vajasaneyi Samhita too — but there, only "**न आयवस्था देवो वः**" (*nāyavasthā devo vaḥ*) appears, omitting "upāyavasthā" entirely. The Vajasaneyi Samhita's own Brahmana...
 
-**Embedded English translation, as given in the source:**
-
-> Just as, differences in the mantras being resolved by the division into Sakhas, the Taittiriyas have the text "vayavasthopayavastha;" the Vajasneyins altogether ignore, in the same text, the part "upayavastha;" on the other hand, in the Satapathabrahmana this part is recited, but only to be rejected. In the same way the Taittiriyas, in their "suktavaka" mantra, quote the reading of another Sakha, and reject it in favour of the reading of their own. The passage in which the reading of their another Sakha is rejected is "yad bruyat supavasana cha svadhyavasana cheti pramayuko yajamana syat." And the passage in which the other reading is enjoined is "supacharana cha svadhicharana chetyeva bruyat." A contradiction like this can only be resolved by a difference in the sacrificers. And the same rule must be applied to conflicting vidhis.
-
 <div class="pgmark">original p. 422</div>
 
-...the Shatapatha Brahmana debates the "nāyavastho-pāyavastha" reading and then rejects it, teaching instead the alternative: "sūpacaraṇā ca svadhicaraṇā cety eva brūyāt." Whichever reading is stated belongs to followers of that specific school (śākhā) — another school prescribes a different reading. In all such cases, the correct reading is determined by who recites or performs it. The same principle applies to vidhi-statements generally: whether a statement functions as injunction or prohibition must be judged relative to the specific person performing the act.
+The Shatapatha Brahmana debates the "nāyavastho-pāyavastha" reading and then rejects it, teaching instead the alternative: "sūpacaraṇā ca svadhicaraṇā cety eva brūyāt." Whichever reading is stated belongs to followers of that specific school (śākhā) — another school prescribes a different reading. In all such cases, the correct reading is determined by who recites or performs it. The same principle applies to vidhi-statements generally: whether a statement functions as injunction or prohibition must be judged relative to the specific person performing the act.
 
 **Turning to resolve the Ātman/Asat contradiction:** "ātmā vā idam eka evāgra āsīt" means the Self alone existed before creation; "asad vā idam agra āsīt" means only the unmanifest form called "asat" existed — these two Shruti statements appear directly contradictory. The answer is given in the Brahma-sutra, first adhyaya, fourth pada, fourteenth sutra:
 
@@ -12495,11 +12010,7 @@ The same mantra appears in the Vajasaneyi Samhita too — but there, only "**न
 >
 > *(As with the sky and other elements, designated according to their causal role — the "asat" reference likewise describes Brahman's own unmanifest, pre-creative state as cause, not literal non-existence.)*
 
-Badarayana, and Jaimini following him, hold that all the Upanishads together establish one and the same underlying doctrine: that Brahman alone is eternal — a conclusion drawn from the Upanishads as a whole...
-
-**Embedded English translation, as given in the source:**
-
-> Your other three points as to the taking of the shodasi, the absence of reward, and the contradiction between the two passages from the Aitareya and the Taittiriya Brahmanas, would come with an ill grace from any one but you, who have not learned your Mimansa. Take them in their order. In the Purva Mimansa, the tenth adhyaya, the eighth pada it is shown that the taking of the shodasi is optional. In the first pada of the second adhyaya the doctrine of fresh spiritual merit is established with the express view of proving the reality of rewards in a future world.
+Badarayana, and Jaimini following him, hold that all the Upanishads together establish one and the same underlying doctrine: that Brahman alone is eternal — a conclusion drawn from the Upanishads as a whole.
 
 <div class="pgmark">original p. 423</div>
 
@@ -12517,14 +12028,6 @@ Though schools differ over the *sequence* and specific entities of creation, no 
 > "If it be objected that, because it is called 'non-existent' [Brahman cannot be its cause] — we say no, since the remainder of the passage indicates a different attribute [i.e., an unmanifest state, not literal non-existence]."
 
 Using the word "asat" does not mean nothing at all existed at the beginning. Here, "asat" doesn't mean "void" — it means "not-sat," that is, not yet in a clearly manifest form, existing instead in an unmanifest state. This meaning is confirmed by the statements that follow in the same passage. Therefore, "sat" and "asat" carry no real, fundamental difference: one indicates the manifest state, the other the unmanifest state preceding manifestation — "asat" simply marks this distinct, pre-manifest condition, not literal nothingness.
-
-**Embedded English translation, as given in the source:**
-
-> The undifferentiated (असत्) is called non-existent in contradistinction to the existent state (सत्) of the universe which is found to be differentiated.
->
-> In the same way in the Uttara Mimansa, the first adhyaya, the fourth pada, the sutra "karanatvena chakasadishu yatha vyapadishtokheh" reconciles the apparent mutual contradiction of certain sruti passages on which you rely. And in the first adhikarana of the first pada of the second adhyaya the sutra "asadvyapadesan neti chen na dharmantarena vakyaseshat" shows that the word "asat" in the Taittiriya text does not mean "non-existent" but "unevolved."
->
-> In the same way Jaimini in his "chodana" sutra undertakes to prove that vidhis are authoritative in regard to religious duty, and subsequently does so accordingly in
 
 <div class="pgmark">original p. 424</div>
 
@@ -12549,14 +12052,6 @@ Word and word-meaning are both naturally arising and eternal — every phoneme i
 > "śāstra-yonitvāt" (Vedanta Sutra 1-1-3)
 
 Sayanacharya glosses this sutra two ways: (1) "śāstrasya yoniḥ (brahma)" — the Supreme Self alone is the cause of all shastras, including the Vedas; or (2) "śāstre yoniḥ yasya" — he for whom the shastras alone serve as the basis of being known. This is affirmed further in "tat tu samanvayāt" ("and this, from harmonious coherence [across scripture]").
-
-**Embedded English translation, as given in the source:**
-
-> his "autpattika" sutra. Vyasa, too, in his "sastrayonitva" sutra undertakes to prove the authoritativeness of the Vedantas with regard to Brahma, and does so in his "samanvayadi" and following sutras.
->
-> Is it not the case that you, who are no Mimansist, will find it difficult to escape the application to yourself of the proverb about the blind man and the post?
->
-> Therefore the authoritativeness of the vidhi portion of the Veda stands sure.
 
 <div class="pgmark">original p. 425</div>
 
@@ -12583,14 +12078,6 @@ That is: if a blind man fails to see the tree-stump before him, the fault isn't 
 >
 > "Since revelation exists for the sake of ritual action, whatever doesn't relate to that action is meaningless — and is therefore called 'anitya' (non-eternal/non-authoritative)."
 
-**Embedded English translation, as given in the source:**
-
-> With regard to the arthavada portion Jaimini is at great pains to establish its authoritativeness also. We shall expound his sutras. And first of the view that is to be controverted.
->
-> Since revelation has the sacrifice for its object everything not relating to the sacrifice is meaningless, and is called "anitya."
->
-> The object of the whole body of amnaya or revealed truth is the performance of the sacrifice. It must follow that these arthavadas, which have nothing to do with the performance
-
 <div class="pgmark">original p. 426</div>
 
 > ...अर्थवादा इवम् आम्नायन्ते । सोऽरोदीद् यद् अरोदीत् तद् रुद्रस्य रुद्रत्वम् (तैत्तिरिय सम्हित १-५-१-१) । स आत्मनो वपाम् उदखिदत् (तैत्तिरिय सम्हित २-१-१-४) । देवा वै देवयजनम् अध्यवसाय दिशो न प्राजानन् (तैत्तिरिय सम्हित ६-१-५-१) इति । यस्माद् ईदृशस्य वाक्यस्य विवक्षितार्थः कश्चिद् अपि नास्ति तस्माद् इदं वाक्यम् अनित्यम् उच्यते ।
@@ -12606,10 +12093,6 @@ Sutra's meaning: since all Vedic statements are established as pointing to ritua
 
 **(3)** "devā vai devayajanam adhyavasāya diśo na prājānan" (Taittiriya Samhita 6-1-5) — "The gods, having settled upon the sacrificial ground, did not [yet] know the directions."
 
-**Embedded English translation, as given in the source:**
-
-> ...of the sacrifice, have no meaning at all of their own which they desire to convey. What we mean by arthavadas will be clear from the following examples. "So arodid yad arodit tad rudrasya rudratvam." "Sa atmano vapamud akhidat." "Deva vai devayajanam adhyavasaya diso na prajanan." Since in such sentences there is no meaning intended to be conveyed they are rightly called "anitya." With the rest of the Veda they are, it is true, without beginning, and therefore in themselves eternal (nitya.) When they are called "anitya" what is meant is that in common with poetry and ordinary talk they want the character of compulsory duty (nityakarya) and are therefore not authoritative.
-
 <div class="pgmark">original p. 427</div>
 
 No genuine meaning could be intended for such statements — hence they're called "anitya." This doesn't mean they lack the Veda's general beginninglessness; even with an eternal word-sequence, from the standpoint of meaning, these statements lack the defining trait shared by the rest of the Veda — impelling ritual action. In this sense, they're "anitya" much like ordinary poetic statements.
@@ -12624,14 +12107,6 @@ Sutra's meaning: since arthavādas contradict both shastra and direct experience
 > *(Establishing three kinds of contradiction found in arthavādas: contradiction with shastra, contradiction with direct sensory observation, and contradiction between one shastra passage and another. The example given: "stenaṃ mano'nṛtavādinī vāk" ("the mind is a thief, speech a teller of lies") — contradicting the prohibitive shastra rules against theft and lying, since it seems to claim the mind and speech, not the person, commit these acts. The further passages cited in the Sanskrit are given as (Tai. Brā. 2-1-2), (Mai. Saṃ. 1-4-11) and (Tai. Saṃ. 6-1-1-1).)*
 
 Sutta's meaning: since arthavādas contradict both shastra and direct experience, the arthavāda-portion cannot be authoritative — this establishes a threefold taxonomy of contradiction found across various arthavāda passages, to be worked through with specific examples.
-
-**Embedded English translation, as given in the source:**
-
-> This, however, may be said. The arthavadas just cited have indeed no authority in regard of any religious duty to be done, They are however authoritative as regards their own meaning. For since they convey their meaning you cannot deny their authoritativeness. Anticipating such an objection he seeks in the next sutra to infer the non-authoritativeness of all arthavadas from the example of some which are clearly opposed to other good authorities.
->
-> Because they contradict both the shastras and the evidence of our senses.
->
-> Three kinds of contradictions are found in arthavadas, contradiction of a shastra, contradiction of what we see with our eyes, and contradiction of what we see in a shastra. For example. The arthavada "stenam mano'nritavadini vak" tells us of theft on the part of...
 
 <div class="pgmark">original p. 428</div>
 
@@ -12665,10 +12140,6 @@ Statements like "so'rodīt" might lack authority regarding dharma-matters specif
 > *ko hi tad veda yad yamuṣmin loke'sti vā na vā ||* (Taittiriya Samhita 6-1-1-1)
 > "Who indeed knows whether that [heavenly world] exists or not" — directly undermines the authority of the very statement promising heaven as yajna's reward.
 
-**Embedded English translation, as given in the source:**
-
-> ...the mind and lying on the part of the voice. But both are contrary to the shastra. Again, the arthavada "tasmad dhuma evagner diva dadrise narchis tasmad archir evagner naktam dadrise na dhuma" is opposed to what we see with our eyes. As is also that other arthavada "na chaitad vidmo vayam brahmana va smo abrahmana va." Lastly, the arthavada "ko hi tad veda yadyamushmil loke'sti va na va" is opposed to what we see in the shastra. For in the shastra "svargakamo yajeta" mention is made of a reward in the other world. Because of such contradictions arthavadas are unauthoritative.
-
 <div class="pgmark">original p. 429</div>
 
 In this way, since these passages contradict shastra and experience, the arthavāda-portion is not authoritative. "So'rodīt" and similar statements are inauthoritative for lacking purpose; "stenaṃ manaḥ" and similar are inauthoritative for contradicting other proofs. But one might still argue that fruit-declaring arthavāda statements should count as authoritative. Anticipating this, the objector offers a further reason.
@@ -12680,15 +12151,7 @@ In this way, since these passages contradict shastra and experience, the arthav�
 >
 > *(Establishing that just as some arthavādas contradict other proofs, others promise fruits that simply aren't observed in practice — the "Gargatriratra" ritual promising renown, and the darsha-purnamasa's mantra-repetition promising a swift, vigorous descendant, neither being confirmed by actual experience among those who know these rites.)*
 
-Sutra's meaning: since the fruits arthavādas promise are never actually observed, they are inauthoritative. As with the previous sutra's contradiction-based argument, here the objection turns to unfulfilled promises. The "Gargatrirātra" is performed for renown; the arthavāda "kṣobhakreṣya mukhaṃ ya evaṃ veda" claims a certain effect for one who understands this correctly — yet this isn't borne out by experience. In the Darsha and Purnamasa yajnas, Vedic mantras are recited repeatedly with the aid of kusha-grass, and the promised fruit — stated in "asya prajāyāṃ..." — is that the performer's lineage will gain grain-abundance...
-
-**Embedded English translation, as given in the source:**
-
-> This however may be said. Granted that arthavadas like "arodit," and others like "stenam manah," are unauthoritative, the one kind because they are useless, and the other because they are opposed to other good authorities, still arthavadas which result in some good differ from both these two first kinds, and are authoritative. He answers this doubt in the next sutra.
->
-> And because arthavadas do not result in any advantage.
->
-> We have seen that what is said in arthavadas is inconsistent with other good authorities. In the same way the rewards they promise do not exist. For Example. There...
+Sutra's meaning: since the fruits arthavādas promise are never actually observed, they are inauthoritative. As with the previous sutra's contradiction-based argument, here the objection turns to unfulfilled promises. The "Gargatrirātra" is performed for renown; the arthavāda "kṣobhakreṣya mukhaṃ ya evaṃ veda" claims a certain effect for one who understands this correctly — yet this isn't borne out by experience. In the Darsha and Purnamasa yajnas, Vedic mantras are recited repeatedly with the aid of kusha-grass, and the promised fruit — stated in "asya prajāyāṃ..." — is that the performer's lineage will gain grain-abundance.
 
 <div class="pgmark">original p. 430</div>
 
@@ -12704,16 +12167,6 @@ Statements like "śobhate'sya mukhaṃ" declare both worldly and other-worldly f
 > *(Citing three parallel arthavada promises: "one attains all desires through the Purnahuti offering"; "one who performs the pashubandha sacrifice conquers all worlds"; "one who performs the Agnishtoma, and understands it correctly, crosses beyond death, sin, and the crime of killing a brahmin." Since these three separate rites each claim to grant the very same all-encompassing rewards — attaining all desires, conquering all worlds, crossing all evils — at least two of the three promises must be redundant if the third alone already delivers everything; this excess undermines the reliability of such promised fruits generally, extending the charge of non-authority even to other-worldly-fruit arthavadas.)*
 
 Sutra's meaning: all other arthavāda statements likewise serve no genuine purpose.
-
-**Embedded English translation, as given in the source:**
-
-> ...is this arthavada with regard to the Gargatriratra sacrifice, "sobhate sya mukham ya evam veda." With regard to the study of the Veda at the New and Full Moon sacrifices there is this other arthavada, "asya prajayam vaji jayate ya evam veda." But we do not see students of the Veda in possession of any such rewards.
->
-> This however may be said. Granted that arthavadas which promise rewards in this world are unauthoritative, because they are opposed to common experience. Still those which promise rewards in heaven may notwithstanding be authoritative. He answers this doubt in the next sutra.
->
-> And because all subsequent sacrifices would be useless.
->
-> There are these arthavadas. "Purnahutya sarvan kaman avapnoti," "Pasubandhayaji sarval lokan abhijayati.' "Tarati mrityum tarati papmanam tarati brahmahatyam yo...
 
 <div class="pgmark">original p. 431</div>
 
@@ -12741,10 +12194,6 @@ Every householder must perform the rite called **Agnyadheya** before he becomes 
 
 **On the Purnahuti itself:** among the fire-offerings performed within Shrauta, Smarta, and Grihya rites, many "pradhana-homas" (principal offerings) are made to the yajna's chief deities. Afterward, "prayashchitta-homas" (expiatory offerings) remedy any lapses, followed by the "srishtikrit" offering, and finally the "Purnahuti" — the very last oblation of the sequence.
 
-**Embedded English translation, as given in the source:**
-
-> ...svamedhena yajate yau chainam evam veda." Now if the purnahuti, which is part of the agnyadheya rite, ensures the fulfilment of all desires, the other later sacrifices, the agnihotra and the rest, can serve no purpose. In the same way if the nirudhapasubandha sacrifice gains for the worshipper all world, then the jyotishtoma and other sacrifices are
-
 <div class="pgmark">original p. 432</div>
 
 When all worlds are attained through the pashubandha yajna alone, what special benefit remains from performing the Jyotishtoma and similar yajnas? And since mere *study* of the Ashvamedha mantra removes even brahmin-slaying sin, undertaking the arduous actual Ashvamedha rite would become the work of a fool. Isn't it beyond doubt, then, that arthavāda-statements declaring such purposeless acts and fruits are inauthoritative? A response to this follows.
@@ -12761,10 +12210,6 @@ Vedic yajnas are of two kinds: **(1) Shrauta-yajna** and **(2) Grihya-yajna**. T
 
 **Per Dhurtasvami's commentary on the Apastamba Yajna-paribhasha-sutra:**
 1. औपासनहोम (*Aupāsana-homa*) 2. वैश्वदेव (*Vaiśvadeva*) 3. पार्वण (*Pārvaṇa*) 4. अष्टक (*Aṣṭaka*) 5. मासिश्राद्ध (*Māsi-śrāddha*) 6. सर्पबलि (*Sarpa-bali*) 7. ईशानबलि/शूलगव (*Īśāna-bali*/*Śūlagava*)
-
-**Embedded English translation, as given in the source:**
-
-> ...useless. And if the mere knowledge of the asvamedha sacrifice acquired at the time of study delivers the soul from the guilt of slaying a brahmin, what is the use of performing that sacrifice? Therefore, it is clear that these arthavadas also which promise rewards in heaven are of no authority.
 
 <div class="pgmark">original p. 433</div>
 
@@ -12786,10 +12231,6 @@ Pakayajnas differ according to each branch's own tradition. Among Shrauta-yajnas
 
 **On the दर्शपूर्णमासेष्टि (Darsha-Purnamasa-iṣṭis)** — performed at new moon and full moon, called "**इष्टि**" (*iṣṭi*) — these form the structural foundation for all other iṣṭis, identical in both ritual technique (tantra) and essential form. The main offering-substance for the **पुरोडाश** (*puroḍāśa*) is wheat, made into flour and baked to become "puroḍāśa," prepared separately in earthen-dish fragments called "**कपाल**" (*kapāla*). The first homa addresses Agni: the puroḍāśa baked in eight kapalas ("**आग्नेयमष्टाकपालम्**" *āgneyam aṣṭākapālam*) is offered. The second homa addresses Agni and Soma jointly: the puroḍāśa in eleven kapalas ("**आग्नीषोमीयमेकादशकपालम्**" *āgnīṣomīyam ekādaśakapālam*) is offered. Different deities correspondingly require different numbers of kapalas.
 
-**Embedded English translation, as given in the source:**
-
-> This, however, may be said. Granted that the arthavadas which speak of rewards are of no authority. Still those which convey prohibitions involve no absurdity, and may be authoritative. He answers this doubt in the next sutra.
-
 <div class="pgmark">original p. 434</div>
 
 These ishtis require four priests: **(1) अध्वर्यु (Adhvaryu)** — performs all the technical/procedural work; **(2) होतृ (Hotṛ)** — recites mantras and invites the deities; **(3) ब्रह्मा (Brahmā)** — oversees the correct performance of the above two; **(4) आग्नीध्र (Āgnīdhra)** — Brahma's assistant.
@@ -12800,11 +12241,7 @@ After the Agnihotra: **(1)** priest-selection (**ऋत्विग्वरण*
 
 ### पूर्णाहुति (Pūrṇāhuti)
 
-The final, principal offering made at the close of the Agnyadhana is called **Pūrṇāhuti**. Agnyadhana is also called **अग्न्याधेय (Agnyādheya)** — meaning the establishing or consecration of fire within the sacrificial hall. This Shrauta-fire consecration [is undertaken by] a householder [following his] marriage...
-
-**Embedded English translation, as given in the source:**
-
-> [Continuing the detailed procedural description of the ishti ritual; no further footnote text visible on this page beyond the ritual description itself.]
+The final, principal offering made at the close of the Agnyadhana is called **Pūrṇāhuti**. Agnyadhana is also called **अग्न्याधेय (Agnyādheya)** — meaning the establishing or consecration of fire within the sacrificial hall. This Shrauta-fire consecration [is undertaken by] a householder [following his] marriage.
 
 <div class="pgmark">original p. 435</div>
 
@@ -12817,10 +12254,6 @@ A square platform is built in the middle of the yajna-hall — to its west, a lo
 **The next morning**, fire is newly produced through "**अग्निमन्थन**" (*Agni-manthana*, fire-churning), with a horse readied for the occasion. The Adhvaryu ignites a stick from this new fire and places it in the Garhapatya-pit while the Brahma priest performs the Sama-chant. A procession then forms: the Adhvaryu carrying fire leads, the horse follows, then the yajamāna. The horse, facing west, places one leg into the Ahavaniya-pit; the Adhvaryu touches the fire to the horse's foot before placing it in the pit. He then carries fire once more from the Garhapatya into the Dakshinagni-pit. Everyone circumambulates the fires, and the horse is released.
 
 **This is the moment of Pūrṇāhuti.** Ghee is melted over the Garhapatya-fire; the Adhvaryu, using a wooden ladle called "**जुहू**" (*juhū*), offers it into the Ahavaniya-fire while reciting Yajus mantras — further mantras follow with further offerings. Since the Adhvaryu performs this homa on the yajamāna's behalf, the yajamāna touches the Adhvaryu throughout. This final offering is what's called **Pūrṇāhuti** — the last act of the Agnyadhana rite. Even after this yajna concludes, the yajamāna must remain bound by certain observances for some further days. In this yajna...
-
-**Embedded English translation, as given in the source:**
-
-> [Continuing the detailed procedural description of the Agnyadhana ritual and Purnahuti; no further footnote text visible distinctly separate from the ritual description on this page.]
 
 <div class="pgmark">original p. 436</div>
 
@@ -12842,11 +12275,7 @@ The evening rite follows the same structure, but addresses Agni instead of Surya
 > अग्निर्ज्योतिर्ज्योतिरग्निः स्वाहा ।
 > *agnir jyotir jyotir agniḥ svāhā |*
 
-—the evening Agnihotra must be performed at sunset...
-
-**Embedded English translation, as given in the source:**
-
-> [Continuing the detailed procedural description of the Agnihotra ritual; no distinct footnote text separate from the ritual description appears on this page.]
+—the evening Agnihotra must be performed at sunset.
 
 <div class="pgmark">original p. 437</div>
 
@@ -12861,10 +12290,6 @@ As in the ishtis, a platform is built; east of the Ahavaniya-pit, at a slight di
 The main homa follows immediately, dedicated to **इन्द्र (Indra)** and **अग्नि (Agni)**. The animal's fat and other portions are consecrated with mantras; the Adhvaryu offers the puroḍāśa and fat as homa, while the Maitravaruna and Hotr recite the appropriate Anuvaka-verses and "**याज्या** (*Yājyā*)" mantras respectively. An offering to please Agni ("**रुद्र** *Rudra*" in this ritual context) follows — the **शिष्टिकृत्-होम (Śiṣṭikṛt-homa)** — then "**इडाभक्षण** (*Iḍā-bhakṣaṇa*)," the partaking of the leftover offering ("iḍā") by the yajamāna, priests, and all present.
 
 This completes the yajna's central portion, though further minor acts remain before the rite concludes properly: the "**अनुयाज** (*Anuyāja*)" offerings (using curd-mixed grain as the substance, honoring eleven deities), followed by the "**उपयाज** (*Upayāja*)" — the Adhvaryu's assistant, the Pratiprasthata, offering the animal's meat without mantra-recitation — performed only in animal-sacrifice yajnas specifically.
-
-**Embedded English translation, as given in the source:**
-
-> [Continuing the detailed procedural description of the Nirudha-Pashubandha ritual; no distinct footnote text separate from the ritual description appears on this page.]
 
 <div class="pgmark">original p. 438</div>
 
@@ -12881,13 +12306,7 @@ This yajna-matter has been explained only very briefly here; the full procedural
 
 Sutra's meaning: since the prohibitive statements found within arthavāda address situations that could never arise, arthavāda is not authoritative on these grounds either.
 
-Granting, as the previous sutras argued, that fruit-promising statements lack authority — this same flaw shouldn't extend to prohibitive statements, since no view anywhere opposes them; one might therefore argue prohibitive arthavadas at least remain authoritative. Anticipating this, the objector raises a further point: since prohibitions address impossible situations, they too serve no purpose. The Taittiriya Samhita contains a statement regarding fire-altar construction (agni-chayana) — declaring that fire should not be established "on earth," "in the atmosphere," or "in the sky"...
-
-**Embedded English translation, as given in the source:**
-
-> Because the prohibitions contained in arthavadas are out of place.
->
-> In the arthavada "na prithivyam agnis chetavyo nantarikshe na divi" there is no room for the prohibition as regards the mid-heaven or the sky. For the act forbidden to be done there, the raising an altar for the sacrificial fire, could not in any case be done in either of these two places.
+Granting, as the previous sutras argued, that fruit-promising statements lack authority — this same flaw shouldn't extend to prohibitive statements, since no view anywhere opposes them; one might therefore argue prohibitive arthavadas at least remain authoritative. Anticipating this, the objector raises a further point: since prohibitions address impossible situations, they too serve no purpose. The Taittiriya Samhita contains a statement regarding fire-altar construction (agni-chayana) — declaring that fire should not be established "on earth," "in the atmosphere," or "in the sky".
 
 <div class="pgmark">original p. 439</div>
 
@@ -12905,17 +12324,9 @@ Granting, as the previous sutras argued, that fruit-promising statements lack au
 >
 > "Since this statement mentions a transient thing in the form of 'Babara' and similar, this statement could not have existed before that person — implying, like statements by Kalidasa and similar poets, a human origin. In short: arthavādas have no authority whatsoever. — Thus concludes the objection (pūrvapakṣa)."
 
-**Embedded English translation, as given in the source:**
-
-> Good. Granted that these prohibitive arthavadas are non-authoritative. No such absurdity is inherent in the arthavadas which tell the deeds of men of old time, as for example, "babarah pravahanir akamayata." He answers this doubt in the next sutra.
->
-> Because of the mention made in them of non-eternal things.
->
-> In this arthavada mention is made of one Babara and other non-eternal things. The arthavada cannot therefore have existed before Babara. Therefore it must be credited with a human origin,
-
 <div class="pgmark">original p. 440</div>
 
-...this doubt should not be prolonged; however one looks at it, arthavādas plainly lack authority — this concludes the objection.
+This doubt should not be prolonged; however one looks at it, arthavādas plainly lack authority — this concludes the objection.
 
 ### The Siddhāntin's Resolution Begins
 
@@ -12933,19 +12344,9 @@ Sutta's meaning: arthavādas exist to praise the very meaning conveyed by vidhi-
 
 The word "**tu**" ("but") in this sutra rejects the objection's claim of arthavāda's non-authority. Since arthavādas like "vāyur vai kṣepiṣṭhā devatā" form one syntactical unit with vidhis like "vāyavyaṃ śvetam ālabheta," they too must be authoritative guides to religious duty. Nor need we doubt this on grounds that vidhis are verbally...
 
-**Embedded English translation, as given in the source:**
-
-> Why prolong this? In every way it is clear that the arthavadas are of no authority. This is the view now to be controverted.
->
-> The sutras which now follow contain his conclusion,
->
-> But the arthavadas, standing as they do in syntactical connection with the vidhis, must be construed as emphasising the vidhis.
->
-> The word "but" indicates that the view of the non-authoritativeness of the arthavadas is about to be rejected. Since arthavadas like "vayur vai kshepishtha" are in syntactical connection with vidhis like "vayavyam svetam alabheta," they too must be authoritative guides to religious duty. Nor need we doubt and say that since the vidhis are verbally...
-
 <div class="pgmark">original p. 441</div>
 
-...complete in themselves apart from arthavāda, such connection would be pointless. That's not so — vidhi-statements depend on human motivation to act, and arthavādas, by praising and emphasizing the vidhi, are precisely what generates that motivation. A person is moved to undertake a course of action specifically upon hearing it praised.
+complete in themselves apart from arthavāda, such connection would be pointless. That's not so — vidhi-statements depend on human motivation to act, and arthavādas, by praising and emphasizing the vidhi, are precisely what generates that motivation. A person is moved to undertake a course of action specifically upon hearing it praised.
 
 That is: the objection held that vayu is an especially swift deity, and offering the "vāyavya-śveta" (white goat) to him yields fruit quickly — while other deities' offerings yield fruit more slowly — and therefore, one should offer this goat to Vayu specifically. Following this reasoning, the arthavāda's own authority isn't independent; it exists purely to support this same vidhi's force, and neither is authoritative apart from the other. Where a vidhi's own arthavāda-portion doesn't literally align word-for-word with it, the vidhi and its associated arthavāda mustn't be assumed unrelated — arthavādas exist precisely to make a person eager to perform the enjoined act; this is the arthavāda's whole purpose. Recognizing this resolves the difficulty in every arthavāda passage.
 
@@ -12961,16 +12362,6 @@ That is: the objection held that vayu is an especially swift deity, and offering
 Sutra's meaning: since arthavāda-statements have been studied, generation after generation, following the same tradition as vidhi-statements, no error can have crept into them in transmission.
 
 Just as certain vidhis, in "anadhyāya" (non-study) periods, were the very first to be studied [by tradition] — these too have come down through the same guru-lineage, passed on faithfully according to tradition. In this same transmission-line...
-
-**Embedded English translation, as given in the source:**
-
-> ...complete in themselves, without reference to the arthavadas, these latter cannot be of any use. The vidhis expect the action of men, and in that respect the arthavadas, which praise and emphasise the vidhis, are useful. For it is when a man hears a course of action praised that he enters upon it.
->
-> But arthavadas, it may be said, may be introduced by error into the text of scripture, and should therefore be left out of sight. Why be at pains to establish that they are in syntactical connection with the vidhis? He answers this doubt in the next sutra.
->
-> Right tradition is of the same weight in both cases.
->
-> By right tradition is meant study in accordance with the tradition delivered by the guru with due observance of all restraints such as holy days and the like. Now this is the
 
 <div class="pgmark">original p. 442</div>
 
@@ -12994,16 +12385,6 @@ But one might still object: given the apparent contradiction with shastra and di
 
 Sutra's meaning: it is not correct to say vidhi-arthavāda statements cannot be accepted as authoritative. Contradiction could only arise if these statements conveyed a literal, action-oriented command — but they convey only the meaning of the words themselves, not a prescription for actual performance. Therefore, they carry authority.
 
-**Embedded English translation, as given in the source:**
-
-> ...the same for vidhis and for arthavadas: therefore there is as little chance of error in the one case as in the other.
->
-> With regard to the suspicion thrown upon the arthavadas that they must be of no effect because they contradict both the shastras and what we see with our eyes, his answer is as follows.
->
-> No reason has arisen why we should consider them of none effect. What contradiction there is between them and right practice. But they are no parts of practice, and therefore are of effect.
->
-> No reason has arisen why the text "stenam manah," and others like it, which are opposed to the shastra, should be declared of none effect. It is not hinted that they have...
-
 <div class="pgmark">original p. 443</div>
 
 It is not correct that "stenaṃ manaḥ" and similar statements become inauthoritative through shastra-contradiction — since they say nothing about actual yajna performance at all. Shastra-contradiction would arise only if theft were being literally prescribed for performance; nowhere does this happen — only the literal word-meaning of "theft" occurs, without any action-oriented sense. Since the mere presence of this word produces no genuine shastra-contradiction, this arthavāda retains its authority.
@@ -13014,12 +12395,6 @@ It is not correct that "stenaṃ manaḥ" and similar statements become inauthor
 > "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣyāpo vai śāntāḥ" (Tai. Saṃ. 5-4-4)
 
 Here, "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣati" ("one draws away the fire using branches of the vetasa and avaka plants") is the vidhi-portion. "Āpo vai śāntāḥ" ("waters indeed possess a calm nature") is a separate statement. What connection does water's calm nature have with extinguishing fire using plant-branches? Given such apparently unrelated subject-matter combined within a single vidhi-arthavāda passage, how can we accept its authority as a unified whole? — This is the objection. The resolution is given in the next sutra.
-
-**Embedded English translation, as given in the source:**
-
-> ...anything to do with practice. If their themes, theft and the like, were spoken of in connection with practice then, if you like, they would be in contradiction with the shastra. But the practice of theft is not enjoined here. And the word about theft used in the text has no connection with practice. No contradictions of the shastras can lie in the mere use of a word, and therefore this arthavada is not on that account of no effect.
->
-> But it may be said that the view according to which the arthavadas serve to recommend and emphasise the vidhis must be untrue, inasmuch as in many cases the subject of the vidhi is one thing and the subject of the arthavadas another. Take the text, "vetasasakhaya chavakabhis chagnim vikarshatyapo vai santah." The subject of the vidhi is the vetasa and avaka plants. The subject of the arthavada is the waters. How can the arthavada emphasise the vidhi here? He answers this doubt as follows.
 
 <div class="pgmark">original p. 444</div>
 
@@ -13034,12 +12409,6 @@ Here, "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣati" ("one draws away t
 > "The word 'tu' (but) rules out the flaw of mismatched subject-matter. A figurative statement (guṇavāda) is intended here. Just as, in ordinary life, a person native to Kashmir, upon hearing Kashmir praised, considers himself praised — likewise here, the vetasa and avaka plants, being born in water, are themselves praised whenever water is praised. Being born from calm-natured waters, the vetasa and avaka plants are themselves calm-natured, and thereby pacify [any harm affecting] the yajamāna — this very quality is what the statement intends to convey."
 
 That is: this text figuratively means simply, "O vetasa and avaka plants, sprung from the holy waters and therefore yourselves holy — drive away all evil from this yajamāna."
-
-**Embedded English translation, as given in the source:**
-
-> But in such cases there is a figure of speech.
->
-> The word "but" shows that the objection is about to be refuted. The meaning here is figurative. As in common talk if a native of Kashmir hears Kashmir praised, he considers himself praised, so here praise of the waters implies praise of the vetasa and avaka plants, which are born in the waters. The figurative meaning of this text is simply "O vetasa and avaka plants, sprung from the holy waters, and therefore yourselves holy, drive all evil from the man who sacrifices here."
 
 <div class="pgmark">original p. 445</div>
 
@@ -13057,12 +12426,6 @@ Sutra's meaning: in such statements, one portion states a quality belonging to w
 
 **This is the resolution.** The corresponding **vidhi** (injunction) here simply states: silver should not be given as the priest's fee at a sacrifice. The "Rudra wept" narrative is an **arthavāda** built entirely to reinforce that one rule — deriving the god Rudra's name from the root for "weeping," and then figuratively tying that weeping to silver ("what flowed from his tears became silver"). The intended, purely figurative point is simple: if silver is given as payment, there will be "weeping" — misfortune — in that household within the year. Sayana states plainly that there is **no literal truth** in the story that Rudra's tears turned into silver; the narrative exists solely to emphasize and recommend the vidhi against paying priests in silver, through a vivid, memorable etymological pun.
 
-**Embedded English translation, as given in the source:**
-
-> ...however still we admit the whole substance of the praise — nothing is withheld. "Thy calf grows, O one worthy of trust, drink with faith" — even without exact measure, such praise is commonly seen in ordinary usage. Now, having shown the objection based on shastra-contradiction, in the example cited "stenam mano'nṛtavādinī vāk," he formulates the answer to that as well.
->
-> Take as another example the arthavada "so rodit &c." The corresponding vidhi lays down that silver is not to be used for the fee of the priest at the sacrifice. The arthavada derives Rudra, the name of the god, from the word for weeping. The figurative meaning is that if silver is not given, tears will not fall. Therefore if the man for whom the priest is sacrificing pays him in silver, there will be weeping in that man's house as well as at the sacrifice. The intended emphasis added to the vidhi is simply that if there be no giving of silver at the sacrifice, there will be no weeping at the house. And by this emphasis the vidhi is recommended. There is really no truth in the story referred to here, namely, that Rudra's tears turned into silver. But in the way shown the arthavada here does emphasise and recommend the vidhi.
-
 <div class="pgmark">original p. 446</div>
 
 That is: "He (Rudra) wept — that is, cried. Because he wept, he came to be named 'Rudra.' The tears that fell from him became silver. Therefore, silver — being the very form of Rudra's tears — should not be given as sacrificial fee. If silver were given, within one year, weeping would befall the yajamāna and his household — meaning, a death might occur among his relatives. Therefore, silver should not be given in yajna." Here, the prohibition against silver (the vidhi) and the arthavāda align perfectly — declaring that avoiding silver means avoiding grief is exactly this arthavāda's purpose.
@@ -13075,14 +12438,6 @@ That is: "He (Rudra) wept — that is, cried. Because he wept, he came to be nam
 > "Prajāpati alone existed in the beginning. He desired: 'let me create offspring.' He tore out his own [abdominal] entrails and offered them into the fire. From that, before an[other] came into being, [a hornless goat] was born. He offered it to that same deity. In that same way, he created offspring and cattle. Therefore, whoever desires offspring and cattle should approach this Prajapati-goat — Prajapati himself — through his own portion, with offspring and cattle [as the sought result]."
 
 That is: Prajapati, desiring offspring and cattle, tore out his own entrails and offered them as homa; from this, a hornless goat was produced. One desiring children, grandchildren, and cattle can obtain this benefit through a hornless goat. Stating this quality of the hornless goat — and thereby praising the underlying vidhi — is this arthavāda's whole purpose.
-
-**Embedded English translation, as given in the source:**
-
-> Take another example. The vidhi "yah prajakamah pasukamah syat sa etam prajapatyam ajam tuparam alabheta" is recommended by the arthavada about Prajapati cutting out his own entrails. Because Prajapati cut out his own entrails, threw them on the fire, and by means of the hornless goat so obtained got men and cattle, therefore this hornless goat is good for obtaining offspring. This praise of the hornless goat is the real meaning of the arthavada,
->
-> The vidhi "adityah prayaniyas charuh" is recommended by the ignorance as to the four quarters of the heavens spoken of in the arthavada "diso na prajanan." As the divine...
-
-*(the printed page number here jumps from 446 to 448 (page 447 not separately observed in the scan sequence). Since the argument itself flows with no logical discontinuity, this is most likely a numbering quirk in the source rather than missing content — flagged for the record.)*
 
 <div class="pgmark">original p. 448</div>
 
@@ -13101,16 +12456,6 @@ Sutra's meaning: statements whose surface appearance seems inconsistent [with re
 
 As with the earlier examples ("stenaṃ manaḥ, anṛtavādinī vāk"), this next arthavāda-statement is used only to encourage a person toward what's genuinely worth pursuing — not to convey a literal factual claim. Gold [in the phrase] "hiraṇyaṃ haste bhavati"...
 
-**Embedded English translation, as given in the source:**
-
-> ...vadas are used for the purpose of recommending the vidhis? "Drink it up and your hair will grow." Do we not hear every day things that have no existence used to recommend precepts?
->
-> Next of the example, brought forward in the course of the view to be controverted, of an arthavada opposed to the shastras, "stenam mano'nrtavadini vak." His answer to this point is in the next sutra.
->
-> Rupat. Prayat.
->
-> This is an arthavada which is used to recommend the vidhi "hiranyam haste bhavatyatha gribhnati." As in common talk the sentence "What! Is Devadatta the only person
-
 <div class="pgmark">original p. 449</div>
 
 We now explain the arthavāda praising the vidhi "haste bhavaty atha gṛhṇāti" (Maitrayani Samhita 4-8-2-3). "Kiṃ puruṣā devadatta eva pūjyāḥ" ("What! Is Devadatta the only person worthy of honor?") — such an expression doesn't imply others aren't worthy; it exists solely to *emphasize* Devadatta's own worthiness. Likewise, "hiraṇyaṃ haste bhavaty atha gṛhṇāti" ("gold comes to be in the hand, then he grasps it") — this arthavāda praises the vidhi that gold should be taken as sacrificial fee, by declaring gold's own preciousness.
@@ -13125,10 +12470,6 @@ Likewise, "anṛtavādinī vāk" ("speech is a false-speaker"): since speech is 
 > anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣur vai satyam | adyā hi ghṛtāha adarśam iti | satyaiva || (Taittiriya Brahmana 1-1-4)
 >
 > "Speech indeed speaks falsehood; the mind indeed dwells on falsehood — but the eye is indeed truthful, for when one says 'I saw [it] today,' that itself is truth."
-
-**Embedded English translation, as given in the source:**
-
-> ...whom the rishi means to honour" emphasises the honour which the rishi is paying to Devadatta by the suggestion that he is slow to honour others, without however actually meaning that he is wanting in his duty there, so here the suggestion as to theft in the mind and falseness in the voice, is only meant to extol the grasping in the hand of the sacrificial fee. This is the metaphorical way in which the words are to be taken. Thieves lie concealed, and so does the mind. Therefore the mind may be called a thief. The voice often speaks falsely, and on account of this "often" we may metaphorically call the voice a liar. But...
 
 <div class="pgmark">original p. 450</div>
 
@@ -13147,16 +12488,6 @@ Having thus resolved the shastra-contradiction objection, we turn to the dṛṣ
 > "'Agnir jyotir jyotir agniḥ svāhā' [is offered] in the evening; 'sūryo jyotir jyotiḥ sūryaḥ svāhā' [is offered] in the morning — this arthavāda exists to praise these two vidhis. Since flame is not visible by day, [one might ask] for what purpose should I use [the fire-mantra then]? — and since [it should be] used at night, this itself is the recollection [rationale] behind the two mantras: therefore the Agni-mantra must be used at night. The greater visibility of the flame [at night] is what's actually being conveyed — a distinction owing to the sheer distance [between earth and the visible daytime sky-glow]. For at a distance, in daylight, even conspicuous things like [smoke and] fire's other features are not seen distinctly — not because they don't exist, but simply because their dark-visible quality goes unseen [against the bright sky]."
 
 Sutra's meaning: the "smoke by day, flame by night" arthavāda isn't a false claim about physical reality — it explains, and thereby reinforces, exactly which mantra (Sun or Agni) belongs to which time of day, with the visibility difference serving as a memorable, praise-oriented justification rather than a literal scientific claim. The two vidhis are "agnir jyotir jyotir agniḥ svāheti sāyaṃ juhoti" and "sūryo jyotir jyotiḥ sūryaḥ svāheti prātaḥ" (Ai. Brā. 5-5-6).
-
-**Embedded English translation, as given in the source:**
-
-> ...the hand is not concealed, and it never lies. Therefore pay the priest with your hand, and not with your mind or voice. Thus here, too, the arthavada confirms the vidhi.
->
-> And as to "dhuma evagner diva dadrise," the example brought forward of an arthavada which contradicts the evidence of our senses, his answer is in the next sutra.
->
-> Because of the great distance.
->
-> The arthavada in question is used to eulogise the two vidhis "agnir jyotir jyotir agnih svaha" and "sayam juhoti suryo jyotir jyotih suryah svaheti pratar." Because the flame is...
 
 <div class="pgmark">original p. 451</div>
 
@@ -13178,16 +12509,6 @@ The objection held this contradicts direct perception — flame *is* visible bef
 
 *(This introduces a genuinely striking rationale: since a child's biological paternity can never be verified with absolute certainty by ordinary means, the arthavāda's admission of doubt over lineage serves — somewhat paradoxically — to elevate the ritual recitation of ancestry itself as the more reliable and praiseworthy means of establishing one's brahmin status, rather than undermining the practice.)*
 
-**Embedded English translation, as given in the source:**
-
-> ...not seen by day therefore the surya mantra is the only proper one to be used in the morning. And because at night the flame only is visible therefore at night the agni mantra should be used. And the surya mantra by day. In this way the arthavada emphasises the two vidhis. And when it is said that the flame of a fire is not seen by day and the smoke is not seen by night, we must assume that the great distance is in each case the cause. For with distance even trees on the top of a hill are not seen distinctly, but look like grass. It is so here.
->
-> As to the other example of an arthavada contradicting the evidence of our senses, "na chaitad vidmo vayam brahmana va smo 'brahmana va," his answer in the next sutra.
->
-> When the woman has erred, the man before us may be the son of her lover.
->
-> The arthavada in question is in eulogy of the vidhi "pravare pravriyamane bruyad devah pitarah." If he for whom the sacrifice is about to be performed, recites the lineage
-
 <div class="pgmark">original p. 452</div>
 
 > स्त्रिया अपराधो भवति तत्र कर्तुर् उत्पादयितुर् जारस्यापि पुत्रो दृश्यते । अतः पत्युपपत्योर् उभयोः पुत्र-दर्शनात् कैदृश्यं ज्येष्ठ इदृशम् इति दुर्ज्ञानम् । अनेनाभिप्रायेण प्रयुक्तान् नास्ति तत्र दृष्टि-विरोधः । न हि तत्र दृश्यमानं स्व-ब्राह्मण्यम् अपह्रियत इव "न चैतद् विद्म" इत्य् असत्यसत्वम् ।
@@ -13201,10 +12522,6 @@ The objection held this contradicts direct perception — flame *is* visible bef
 Sutra's meaning: because of a woman's infidelity, a son born [to her] might in fact be her lover's son (rather than her husband's) — therefore that son's true lineage cannot be determined with full certainty.
 
 The statement "na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā" (Mai. Saṃ. 1-4-11) ("we don't know whether we are brahmins or not") is spoken by the officiating priests — who are, by definition, always brahmins. So why would doubt about one's own brahmin-status even arise? Isn't everyone supposed to simply know their own caste? The resolution: in ordinary human affairs, when a son is born, whom does he properly belong to — mother or father? A son always belongs to the father (not the mother), and it is well-established, both by common recognition and by shastra, that a son belongs to whichever caste his father belongs to. But in some cases, through a mother's infidelity, the son born to her may in fact have been fathered by her lover — in which case, though publicly treated as his legal father's son, he is, in strict truth, the lover's son, and takes the lover's own caste. Such situations are not at all uncommon in ordinary life. Therefore, as stated above, genuine doubt can arise even regarding whether "we" (the officiants) are truly brahmins — and this example is accordingly classified as a case of dṛṣṭi-virodha (contradiction with direct perception).
-
-**Embedded English translation, as given in the source:**
-
-> ...of the priest with the mantra "devah pitarah," though no brahmin, the priest becomes a brahmin. This is the eulogy of the act. And the sentence "na chaitad vidmah" &c., does not so much mean that the thing is not known, as that it is difficult to know it. Where the woman has erred the man before us will be the son of the man who made, or begot him, that is, of her paramour. Therefore, no man, properly speaking, can say whether he is the son of his mother's husband or of some lover of hers. If we take it in this way there is no opposition to the evidence of our senses. The sentence "na chaitad vidmah" is not intended to throw any doubt on the patent fact that the priest is a brahmin.
 
 <div class="pgmark">original p. 453</div>
 
@@ -13223,14 +12540,6 @@ The statement "na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā" (M
 > "'Dikṣvātikāsana-karoti' is the 'dvāra' (doorway) vidhi [performed] on the east side [of the altar]. 'Ko hi tad veda' ('who indeed knows this') is the arthavāda completing that vidhi. The dvāra-vidhi is praised through an immediately observable result, involving smoke and similar visible signs. But the fruit in the form of attaining heaven belongs to a *future* time. 'Ākālika' means 'occurring at [some] non-present time' — that is, it pertains to a time yet to come, not the present moment. 'Iṣṭā' means the desire for its attainment. And 'ko hi tad veda' is precisely the reason this admission of not-knowing is stated — just as no one can say with certainty whether a grandson or great-grandson will be born [to them] in the future, likewise, heaven's attainment, belonging to future time, is here connected with this same quality — this is the statement's intended meaning."
 
 That is: no one doubts whether a *future* good — a grandchild not yet born — will actually occur; such uncertainty about future events is simply the nature of anything not-yet-present. In exactly the same way, "who indeed knows whether heaven exists" isn't a skeptical denial of heaven's reality — it merely acknowledges that heaven's attainment, being a *future* fruit, shares this same natural uncertainty that all future outcomes carry. The statement doesn't undermine the vidhi's authority at all; it simply reflects how one properly speaks about anything belonging to time yet to come.
-
-**Embedded English translation, as given in the source:**
-
-> And as to the other example of an arthavada which is supposed to contradict the evidence of our senses, "ko hi tad veda yadyamushmil loke 'sti va na va" his answer to that is in the next sutra.
->
-> There is desire to obtain a future reward.
->
-> "Dikshvatikasan karoti" is the so-called "dvara" vidhi of the pole on the east at the sacrifice. The arthavada now in question is the complement of that vidhi. In it the dvara...
 
 <div class="pgmark">original p. 454</div>
 
@@ -13259,10 +12568,6 @@ Notably, slightly earlier in this very same passage, it's stated plainly:
 
 — the next sutra explains this.
 
-**Embedded English translation, as given in the source:**
-
-> ...vidhi is praised for the immediate visible fruit of the prevention of smoke and other hindrances to the sacrifice. The secondary deferred fruit is the obtainment of paradise. "Akalikam, akale bhavam," at some future time, not now. Desire of it means desire to obtain it. That desire is his reason why ignorance is hinted at in the words "ko hi tad veda" &c. As no man can look into the future and see what shall become of his children...
-
 <div class="pgmark">original p. 455</div>
 
 ### "Vidyā-praśaṃsā" (Jaimini Sutra 1-2-15)
@@ -13275,17 +12580,7 @@ Notably, slightly earlier in this very same passage, it's stated plainly:
 >
 > "This [statement] is the complement of the Gargatriratra vidhi. Merely knowing about that rite is itself said to be a cause of facial radiance — how much more so its actual performance! Just as ear-ornaments and similar adornments make a face radiant, so too a knower's beaming face is regarded by his students as radiant. This is stated on the basis of a shared quality resembling literal radiance."
 
-Sutra's meaning: this is a statement made in praise of knowledge itself. "Śobhate'sya mukhaṃ ya evaṃ veda" (Tā. Ma. Brā. 20-16-6) ("his face shines, whoever knows this") is the Gargatriratra vidhi's companion arthavāda. The point: mere knowledge of this rite brings radiance to the face — how much more so its actual performance? Just as ear-ornaments enhance a face's radiance, knowing the Gargaratri and similar Vedic portions produces a genuine effect on the mind, which then emanates outward and becomes visible on the face as an unprecedented glow. The difference between the countenance of one endowed with knowledge and humility, and that of an ignorant fool, is perceptible even to ordinary people — so a Veda-scholar's facial radiance becomes swiftly apparent to his students and others...
-
-**Embedded English translation, as given in the source:**
-
-> ...and of his children's children, so here the suggestion of ignorance merely means that the obtainment of paradise is a thing in the future, while the prevention of smoke and other hindrances to the sacrifice is a visible and therefore certain good.
->
-> As to the other example of an arthavada which contradicts the evidence of our senses, "sobhate 'sya mukham ya evam veda," his answer to that is in the next sutra.
->
-> Praise of knowledge.
->
-> This arthavada is the complement of the vidhi about the Gargatriratra sacrifice. The mere knowledge of that sacrifice brings a glory on his face: how much more the performance? Such is the eulogy here. As a face shiness with an earring, or other such ornament, so the face of him who knows this sacrifice expands with pleasure, and seems to the pupils...
+Sutra's meaning: this is a statement made in praise of knowledge itself. "Śobhate'sya mukhaṃ ya evaṃ veda" (Tā. Ma. Brā. 20-16-6) ("his face shines, whoever knows this") is the Gargatriratra vidhi's companion arthavāda. The point: mere knowledge of this rite brings radiance to the face — how much more so its actual performance? Just as ear-ornaments enhance a face's radiance, knowing the Gargaratri and similar Vedic portions produces a genuine effect on the mind, which then emanates outward and becomes visible on the face as an unprecedented glow. The difference between the countenance of one endowed with knowledge and humility, and that of an ignorant fool, is perceptible even to ordinary people — so a Veda-scholar's facial radiance becomes swiftly apparent to his students and others.
 
 <div class="pgmark">original p. 456</div>
 
@@ -13301,12 +12596,6 @@ Sutra's meaning: this is a statement made in praise of knowledge itself. "Śobha
 > "Youth, wealth, power, and lack of discernment — even a single one of these can lead to ruin; how much more so when all four occur together! [Any] one alone is a source and dwelling-place for every kind of impropriety — how much more so when they converge!"
 
 That is: imagine a person possessing these four qualities — youth, wealth, authority, and lack of judgment. Youth alone risks entanglement with others' spouses and similar misdeeds; wealth alone breeds attachment to sense-pleasures, neglect of duty, and cruelty toward the poor; authority alone leads to harming others; lack of discernment alone leaves no wrongdoing unattempted. Each single vice is sufficient to ruin a person's worth on its own. Four...
-
-**Embedded English translation, as given in the source:**
-
-> ...as it were to shine. "Shines" is said metaphorically. It looks as if it were shining is the meaning.
->
-> So too with the other example of an arthavada that seems to contradict the evidence of our senses, "asya prajayam vaji joyate ya evam veda." This arthavada is the complement of the vidhi about reciting the Veda. Here, too, we have the a fortiori construction, as in the previous case. The son of him that knows the Veda will, by his father's instruction, know it too. Then he will be entitled to receive presents, and will so obtain food. It is in some such metaphorical acceptation that the words "vaji jayate" are used.
 
 <div class="pgmark">original p. 457</div>
 
@@ -13326,17 +12615,9 @@ When these four vices converge, what more need be said? There's no doubt whatsoe
 
 Sutra's meaning: the word "sarva" (all), occurring in such statements, must be understood as scoped specifically to the ritual context at hand — not as an unrestricted, universal claim covering literally every possible desire across all rites.
 
-**Embedded English translation, as given in the source:**
-
-> As to the contention that the arthavada "purnahutya sarvan kaman avapnoti," if it be taken to be authoritative, would make all other sacrifices out to be useless, his answer to that is in the next sutra.
->
-> The word "all" here is a relative term.
->
-> This arthavada is the complement of the vidhi "purnahutim juhuyat." The eulogy here is that this oblation is praised and declared to be the means of the obtainment of all desires. But as when one says, Let all the brahmins be fed, he means not all brahmins,
-
 <div class="pgmark">original p. 458</div>
 
-...depends on the qualified performer entitled to it — or, alternatively, pertains only to the specific ritual act named there.
+so the word 'all' here depends on the qualified performer entitled to it — or, alternatively, pertains only to the specific ritual act named there.
 
 > पूर्णाहुत्या सर्वान् कामानवाप्नोति ।
 > *pūrṇāhutyā sarvān kāmān avāpnoti |*
@@ -13349,12 +12630,6 @@ is the concluding portion of the vidhi—
 That is, this statement is the final component of just the Purnahuti-rite's own context — not a claim about literally every desire attainable through any offering whatsoever. One cannot, for instance, obtain sky-flight powers through the Purnahuti — nothing of that kind is claimed here. Just as saying "today, all the rice should be cooked" means only the rice in one's own house (not all the rice in the world), and "all brahmins should be fed" means the brahmin-guests present at one's own house — "sarva" (all) is used in this restricted sense throughout. Likewise here: "all fruits" means the desires specifically attainable through the ritual acts (like Adhana) relevant to this particular context — obtainable through the Purnahuti-homa alone.
 
 The Adhana rite currently underway would otherwise remain deficient; the Purnahuti remedies this deficiency — **that** is one benefit. By completing the Adhana rite through the Purnahuti, one gains qualification to perform subsequent rites (Agnihotra, and homas in the Ahavaniya and other fires) — a **second** benefit. And the fruit promised by shastra for properly performing these subsequent rites is **yet another** benefit. If it's asked whether these same benefits might apply equally to other oblations besides the Purnahuti — very well, let it be so; what is lost to us by that? Praising the Purnahuti in this way loses nothing at all.
-
-**Embedded English translation, as given in the source:**
-
-> ...but all the brahmins in his house, so here the word "all" must be taken to refer only to the fruit which accrues when the particular rite in question is completed by the performance of the purnahuti part of it. For if the purnahuti were wanting the adhana rite would be maimed. Thus by the purnahuti this maimed condition of the rite is averted. This is one of the desires which it secures. Another desire secured for us by the purnahuti is that, the maimed condition of the rite being averted, the ahavaniya and other fires become fit for use at the agnihotra and other sacrifices. Yet another desire is that by these rites thus rendered possible, such and such fruits are obtained. Perhaps you will say that if this is all that is meant by asserting that the purnahuti procures for the worshipper all desires the same is true of other oblations than the purnahuti. Good. How are we touched? That does not detract from the eulogy of the purnahuti here.
->
-> This, however, may be said. The purnahuti is part of a larger rite, and mention made of a reward for it may be in this way explained as a case of an arthavada merely
 
 <div class="pgmark">original p. 459</div>
 
@@ -13369,41 +12644,17 @@ Very well — Purnahuti is merely a component of one ritual act, and its fruit-d
 
 That is: no true redundancy exists between such fruit-statements. Just as in ordinary life, the same quantity of raw material, processed differently, might yield either a greater quantity of an ordinary product or the same quantity of a superior one — rewards across different rites can likewise differ in *degree* or *quality* rather than being entirely separate, competing claims. The Pashubandha secures "conquest of all worlds" as its base fruit; further rites performed afterward enhance that same fruit's magnitude or refinement, rather than duplicating or invalidating it.
 
-**Embedded English translation, as given in the source:**
-
-> ...eulogising a vidhi. Such an interpretation is expressly established in the sutra "dravya-sanskarakarmasu pararthatvat phalasrutir arthavada." But the arthavada about the binding of the sacrificial animal enjoins an act. And the winning of all worlds promised in that arthavada is a final reward and not the first of a series, as in the case of the purnahuti. You will therefore find it difficult to escape the conclusion here, that if this arthavada be held to be authoritative, it demonstrates the uselessness of all succeeding sacrifices. His answer to this is in the next sutra.
->
-> Each rite must needs have its reward. Distinctive rewards must therefore, as in daily life, refer to increase in quantity or in quality.
->
-> Victory over one or other of the three classes of worlds, terrestrial, celestial, and those in mid-heaven, is the fruit obtained by him who performs the pasubandha rite. The worshipper who goes on to perform other rites will obtain increase of reward either in bulk...
-
 <div class="pgmark">original p. 460</div>
 
 Sutra's meaning: variations in how ritual acts are performed produce corresponding variations in their fruits — differing in either quantity or quality, just as in ordinary human affairs.
 
 Since the Pashubandha secures the yajamāna all worlds — earth, atmosphere, heaven, and beyond — and other rites promise similar fruits, what special value does the Pashubandha specifically offer? Answer: other rites do secure heaven and similar worlds, and so does Pashubandha — but through Pashubandha, one obtains a *more excellent* fruit than what other rites yield. Consider an ordinary example: one nishka (gold coin) buys one khāri of rice; two nishkas buy two khāris — an increase in *quantity*. Or, one nishka buys ordinary cotton cloth; two nishkas buy silk — an increase in *quality*. The first shows quantitative increase; the second, qualitative increase (silk being superior to cotton).
 
-A further illustration: imagine two farmers cultivating separate fields. One farms carelessly — minimal ploughing, no fertilizer, weeds left unpulled. The other farms attentively — proper ploughing, timely fertilizer, weeding, and protection from pests and birds. At harvest time, both obtain grain — but not equally. One gets little, the other gets his due measure...
-
-**Embedded English translation, as given in the source:**
-
-> or in quality. So there is increase of reward, and it is not true that further and later sacrifices must be useless. The words "as in daily life" introduce a simile. As in daily life you may buy a khari of rice for one nishka, and then giving another nishka get more rice. Or, as one nishka will get you cotton clothes, while for two you may get silk. Here you have increase in bulk and increase in quality respectively. In the same way it must be recognised that additional sacrifices will procure for the worshipper increased or higher enjoyments. Knowledge of the Veda will deliver a man from the comparatively small sin of killing a brahmin in his heart. He who has actually killed a brahmin must perform the asvamedha sacrifice. So there is not this fault of the uselessness of other sacrifices.
->
-> As to the two arthavadas—
->
-> यो ऽपि नान्तरिक्षे न दिवि ।
-> *yo'pi nāntarikṣe na divi |*
->
-> —and—
->
-> बभरः प्रवहणिः ।
-> *babaraḥ pravahaṇiḥ |*
->
-> —brought forward as instances respectively of a prohibitive text that is out of place, and of a text that deals with non-eternal things, his answer is in the next sutra.
+A further illustration: imagine two farmers cultivating separate fields. One farms carelessly — minimal ploughing, no fertilizer, weeds left unpulled. The other farms attentively — proper ploughing, timely fertilizer, weeding, and protection from pests and birds. At harvest time, both obtain grain — but not equally. One gets little, the other gets his due measure.
 
 <div class="pgmark">original p. 461</div>
 
-...both obtain grain, but not equally — this depends on the effort each invested. The same holds for rites: one yajna's fruit might be doubled by another, or differ in quality/richness rather than quantity — such variation in enjoyment (degree or refinement) arising from different rites is entirely understandable. A mentally-committed, comparatively minor sin like brahmin-slaying can be removed merely through others declaring it (i.e., through knowledge/confession); a grave, physically-committed sin of the same kind requires the Ashvamedha to remove it. Therefore, no genuine flaw of purposelessness (ānarthakya) applies to any of these statements.
+Both obtain grain, but not equally — this depends on the effort each invested. The same holds for rites: one yajna's fruit might be doubled by another, or differ in quality/richness rather than quantity — such variation in enjoyment (degree or refinement) arising from different rites is entirely understandable. A mentally-committed, comparatively minor sin like brahmin-slaying can be removed merely through others declaring it (i.e., through knowledge/confession); a grave, physically-committed sin of the same kind requires the Ashvamedha to remove it. Therefore, no genuine flaw of purposelessness (ānarthakya) applies to any of these statements.
 
 **Now, addressing the two final examples:** the "nāntarikṣe na divi" (misplaced-prohibition) case, and the "babaraḥ prāvāhaṇiḥ" (non-eternal-name) case — the next sutra resolves both.
 
@@ -13419,12 +12670,6 @@ A further illustration: imagine two farmers cultivating separate fields. One far
 
 **This closes the entire arthavāda objection cycle.** Both remaining examples are answered by simply invoking resolutions already established: the "impossible prohibition" is, once again, understood as praise-oriented arthavāda attached to a genuine vidhi (just as with the earlier Kashmir/vetasa examples), and "Babara" is, exactly as resolved many pages earlier in the vidhi-authority discussion, understood as onomatopoeia for wind's sound — not a historical person's name at all, closing off any claim that the passage depends on a "non-eternal" human referent.
 
-**Embedded English translation, as given in the source:**
-
-> My answer to your two last cases has been already given.
->
-> For his answer to the two last cases brought forward you must consult what he has already said. The first of the two arthavadas here, in which it is said that the altar for Agni must not be built in earth, air or sky, is the complement of the vidhi "hiranyam nidhaya chetavyam." So the answer already given, that such arthavadas are laudatory of the vidhis of which they are the complements, applies here. You will say that since the altar could by no possibility be built in the sky, the prohibition against such building is out of place. Be it so. But even by such an arthavada a vidhi may be lauded as in the case where the pasu vidhi is emphasised by an arthavada which makes mention of the swiftness of Vayu and so repeats what is well known to be a constant attribute of the god.
-
 <div class="pgmark">original p. 462</div>
 
 > कृतत्स्वाद् अर्थवादानाम् अस्ति प्रामाण्यम् ॥ तत्र संग्रह-श्लोकाः । वायुर् वा इत्य् एवम् आदेर् अर्थवादस्य मानता । न विधेयेऽस्ति धर्मे किं किं वासौ तत्र विद्यते ॥ विध्य्-अर्थवाद-शब्दानां मिथोऽपेक्षा-सापेक्षया । नास्त्य् एक-वाक्यता धर्मे प्रामाण्यं संभवेत् तथा ॥ विध्य्-अर्थवादौ साकाङ्क्षौ प्राशस्त्य्-पुरुषार्थयोः । तेनैकवाक्यता तस्माद् अनादानं धर्म-मानके ॥
@@ -13436,15 +12681,9 @@ Thus, since no genuine cause for lack of authority exists among the three portio
 
 Sutra's meaning: the matter of these final two statements ("abhāgi-pratiṣedhāt," Jaimini Sutra 1-2-5, and "anitya-saṃyogāt," Jaimini Sutra 1-2-6) was already explained earlier — see the discussion on pages 438–439 above. "Na pṛthivyām agniś cetavyo nāntarikṣe na divi" (Taittiriya Samhita 5-2-12-2) — the arthavāda declaring that fire-altar construction should not occur on earth, atmosphere, or sky — is the complement of the vidhi "hiraṇyaṃ nidhāya cetavyam" (Taittiriya Samhita 5-2-7-1): "having placed a golden plate, one should establish [the fire] upon it." As already explained under the "praise-oriented" principle, this same resolution applies: granting that fire-altar construction in the sky is indeed impossible...
 
-**Embedded English translation, as given in the source:**
-
-> In the second arthavada here "babarah pravahanir akamayata" in the same way there is no reference to a man, not eternal, called Babara. The reference is to the wind, that makes a noise ba-ba-ra, and is pre-eminently a traveller. His answer for these two last cases has already been given in the last adhikarana of the first pada.
->
-> Thus all the objections put forward have been removed, and the authority of the arthavada portion of the veda has been established.
-
 <div class="pgmark">original p. 463</div>
 
-...to clarify the vidhi's own primacy — that fire-altar construction must occur only upon a golden plate — the statement
+To clarify the vidhi's own primacy — that fire-altar construction must occur only upon a golden plate — the statement
 
 > न पृथिव्यां नान्तरिक्षे न दिवि ।
 > *na pṛthivyāṃ nāntarikṣe na divi |*
@@ -13469,14 +12708,6 @@ serves as arthavāda. Read together, vidhi and arthavāda produce one coherent, 
 
 **In this way, resolving each flaw raised in the objection one by one, and providing coherent explanations, the siddhānta stands established: arthavāda statements are not without authority — they carry genuine authority.** Some summary verses from the extensive Jaimini-nyaya-mala are now cited to illustrate this conclusion, explained as follows—
 
-**Embedded English translation, as given in the source:**
-
-> The foregoing discussion is thus summed up in the Sangraha,
->
-> "Has the arthavada 'vayur va &c.,' no authority in the matter of religion, or is it too authoritative in that respect?
->
-> "Some say that as the vidhi and the arthavada are quite independent of each other, the arthavada is not part of one sentence with the vidhi, and has therefore no authority in the matter of religion.
-
 <div class="pgmark">original p. 464</div>
 
 In the Kavya-pashu-kanda section, two connected statements occur: **(1)** "vāyavyaṃ śvetam ālabheta bhūtikāmaḥ" — "one desiring prosperity should offer a white [animal] to Vayu" — the vidhi; **(2)** "vāyur vai kṣepiṣṭhā devatā vāyum eva svena bhāgadheyenopadhāvati sa enaṃ bhūtiṃ gamayati" — "since Vayu is the swiftest-natured deity, the wind-god swiftly grants prosperity to his own worshipper" — the arthavāda.
@@ -13489,10 +12720,6 @@ If it's asked whether the arthavāda words here, being independently capable of 
 > vedokte hetv-apekṣatvā-syāsti vidher mānatā iti cet | satyasyai stuti-dvārā nāsty eti gurur jagau || yukto vāyuḥ kṣipram eva phalaprada iti āko vāyavyam ālabheta...
 >
 > *(If it be asked whether the vidhi's authority depends on a reason stated in the Veda, the teacher [Jaimini] declares: through the medium of praise, [that reason] is not absent. "Vayu, being fittingly swift, grants fruit quickly" — this indicates why one should offer the white animal to Vayu specifically...)*
-
-**Embedded English translation, as given in the source:**
-
-> "But the right view is that since the vidhi needs the eulogy it finds in the arthavada, and the arthavada needs the human act which it finds in the vidhi, the two are parts of one sentence, and the arthavada is therefore authoritative as regards religious duty."
 
 ## Chapter 11. Refuting, with Proper Proofs, the Claim That the Veda Is of Human Origin — the Defense of Apauruṣeyatva
 
@@ -13519,12 +12746,6 @@ If it's asked whether the arthavāda words here, being independently capable of 
 
 This opens a genuinely major new discussion — one of the most significant debates in all of Mimamsa philosophy: whether the Veda is of human authorship (pauruṣeya) or entirely without human origin (apauruṣeya). Jaimini himself first states the objection favoring human authorship, before Sayana works through its resolution.
 
-**Embedded English translation, as given in the source:**
-
-> We have thus shown that the reasons alleged against the authoritativeness of the Veda in its three parts of mantra, vidhi and arthavada have no existence, and we have accepted the reasons for such authoritativeness. The authority of the whole Veda therefore stands sure.
->
-> But even granting this, may it not be that the Veda, on account of its human authorship, may be unauthoritative like the speech of one who utters a fallacy? The human authorship of the Veda is set out in sutras by Jaimini, speaking as the holder of the view that is to be controverted, as follows.
-
 <div class="pgmark">original p. 466</div>
 
 > तेऽत्र दृष्टान्ततया समुच्चीयन्ते । यथा रघुवंशादय इदानीम्-तनास् तथा वेदा अपि । न तु वेदा अनादयः । अत एव वेद-कर्तृत्वेन पुरुषा आम्नायन्ते । व्यासासिकं भारतम्, वाल्मीकीयं रामायणम् इत्य् अत्र यथा भारतादि-कर्तृत्वेन व्यासादिं व्यपदिश्य आम्नायन्ते तथा काथकं कौथुमं तैत्तिरीयम् इत्य् एवं तथा वेद-शाखा-कर्तृत्वेन कथादीनाम् आख्यातत्वाद् वेदाः पौरुषेयाः । नन्व् इतीनाम् एव सतां वेदानाम् अध्याय-वंश-सम्प्रदाय-प्रवर्तकत्वेन काठकादि-समाख्या स्याद् इत्य् आशङ्क्योत्तरं सूत्रयति ॥
@@ -13534,13 +12755,7 @@ This opens a genuinely major new discussion — one of the most significant deba
 
 Sutra's meaning: some hold that the Vedas were composed by human authors, because the Veda's various portions bear many names — and these names are the names of the persons who composed them. Jaimini himself first constructs this objection in his Purva-Mimamsa-sutra, before establishing the Veda's non-human origin (apauruṣeyatva) in response.
 
-Some argue that the Vedas, like recent literary works, were composed by specific persons not long ago. Their reasoning: everyone knows the Raghuvamsha and similar works, composed by poets like Kalidasa, are recent compositions. By the same logic, the Vedas too are recent works composed by certain persons. The word "ca" ("too") in the sutra signals this comparison — just as Raghuvamsha and similar works are human-composed, so too are the Vedas...
-
-**Embedded English translation, as given in the source:**
-
-> Of the Vedas, too, some predicate nearness to us in time. There is mention of the men who composed them.
->
-> Some disputants predicate nearness of the Vedas. The word "too" in the sutra links the Vedas to books like the Raghuvansa, the works of Kalidasa and the like. For they are in this sentence brought together with the Vedas by way of comparison. As books like the Raghuvansa belong to our own time, so, too, the Vedas. They are not without beginning. And that is why we find men mentioned as the authors of them. In the familiar designations of these books—the Vaiyasika Bharata, the Valmikiya Ramayana, and the like—Vyasa and other writers are clearly indicated as the authors of these books. Just so it is with the titles—the Kathaka, the Kauthama, the Taittiriya. These titles indicate Katha and other writers as the authors of various Sakhas of the Vedas, and the Vedas are therefore of human origin.
+Some argue that the Vedas, like recent literary works, were composed by specific persons not long ago. Their reasoning: everyone knows the Raghuvamsha and similar works, composed by poets like Kalidasa, are recent compositions. By the same logic, the Vedas too are recent works composed by certain persons. The word "ca" ("too") in the sutra signals this comparison — just as Raghuvamsha and similar works are human-composed, so too are the Vedas.
 
 <div class="pgmark">original p. 467</div>
 
@@ -13560,14 +12775,6 @@ It cannot be said the Vedas are beginningless — it is customary to attach the 
 
 Sutra's meaning: since the Vedas contain descriptions of non-eternal things — names of persons and similar — the Vedas, discussing such non-eternal matters, are themselves non-eternal, that is, composed by persons. (This is a further objection.)
 
-**Embedded English translation, as given in the source:**
-
-> In the next sutra, bethinking that it may be said that the Vedas are eternal, and that these titles merely mean that Katha and others like teachers were busy in handing down the traditional knowledge of the Vedas, he puts forward another argument in favour of their human origin.
->
-> Also because we see mention made of things that are not eternal.
->
-> People like Babara, who were not eternal, but were born and have died, are spoken of in the Veda. "Babarah pravahanir akamayata kusurubinda auddalikir akamayata." This being so the Vedas, which cannot be placed prior to Babara and others mentioned in them, are not without beginning. The word "also" in the sutra links this argument to such other...
-
 <div class="pgmark">original p. 468</div>
 
 In the Veda, statements occur: "babaraḥ prāvāhaṇeḥ kāmayata" ("he sought after Babara, son of Pravahana") and "kusurubinda auddālakir akāmayata" ("he sought after Kusurubinda, son of Uddalaka"). Since Babara and Kusurubinda are human, they're subject to birth, death, and similar changes — non-eternal beings. Statements discussing such figures necessarily postdate their birth; these Vedic passages cannot have existed before those persons lived. Therefore, the Vedas are non-eternal — and, like the works of poets such as Kalidasa, human-composed. The word "ca" ("also") in the sutra marks this as an additional argument, beyond the earlier human-authorship claim, specifically establishing the Veda's non-eternality.
@@ -13584,16 +12791,6 @@ In the Veda, statements occur: "babaraḥ prāvāhaṇeḥ kāmayata" ("he sough
 > "The word 'tu' (but) rules out the [claim of] non-eternality [regarding sound]. That the sound constituting the Veda existed prior to — and independently of — Katha and similar persons was already stated by the ancient [sages] in the sutra: 'the connection between word and meaning is innate/original' (Purva Mimamsa 1-1-5). In this sutra, by the term 'autpattika' (innate), the eternality of all words, of the Vedas, of their meanings, and of the very relationship between the two, was already established through both the assertion and its subsequent proof, across the sections on word (śabdādhikaraṇa) and sentence (vākyādhikaraṇa). One might then ask: what, then, is the actual purpose of names like 'Kathaka'? Anticipating this doubt, the answer is that such names arise solely from the need to designate who established a given tradition [of transmission] — this is now formulated as the resolution."
 
 **This is the pivot of the entire debate.** The Veda's own sound (śabda) is eternal and precedes even sages like Katha — already established earlier in the very foundational discussion of word-meaning relationships. The names "Kathaka" and similar do not indicate authorship at all — they simply mark which teacher established a particular tradition of transmission.
-
-**Embedded English translation, as given in the source:**
-
-> arguments as, for example, that the Vedas in dispute being a collection of sentences like those which go to make up a poem, say of Kalidasa's, must be of human origin.
->
-> He now sets out the true view.
->
-> But the priority of sound has already been declared.
->
-> The word "but" in the sutra indicates that the view that the Vedas are not eternal is about to be rejected. That the sound which goes to make up the Vedas existed before men...
 
 <div class="pgmark">original p. 469</div>
 
@@ -13612,16 +12809,6 @@ In the sutra "autpattikas tu śabdasyārthena sambandhaḥ" (Jai. Sū. 1-1,5), t
 
 Sutra's meaning: this is the correct interpretation of names like "Katha" and similar. This resolves the entire naming-based objection. But regarding mantras that discuss non-eternal beings like Babara — what should be said about this? The next sutra answers this remaining doubt.
 
-**Embedded English translation, as given in the source:**
-
-> ...like Katha, that, in other words, is without beginning, has been declared already in foregoing sutras. In the sutra "autpattikas tu sabdasyarthena sambandhah," by the word "autpattika" he pledges himself to prove the eternal nature of all words, that is of the Vedas as well as of the meanings of the words, and of the connection between the words and their meanings. And this he duly accomplishes in the sabda and vakya sections which follow.
->
-> What account then can be given of titles such as the Kathaka? He anticipates this question and answers it in the following sutra, in which the titles are accounted for as referring to the activity of these men in handing down the traditional knowledge of the Veda.
->
-> Mention of men is made on account of their teaching.
->
-> Well, accepting this account of these names, what of the point that follows, that we see mention made in the Vedas of people like Babara who cannot have been eternal? What answer is there to that? He anticipates this question and answers it in the following sutra.
-
 <div class="pgmark">original p. 470</div>
 
 Sutra's meaning: it is customary to name each Vedic branch (śākhā) after the celebrated rishi who traditionally taught it, according to a fixed method, to students proficient in that portion.
@@ -13639,14 +12826,6 @@ Take the Kāthaka-śākhā as an example: this doesn't mean the branch was *comp
 
 Sutra's meaning: among Vedic words, some words resembling ordinary [human/animal] names are simply that — ordinary shared words. They do not actually indicate any specific human person.
 
-**Embedded English translation, as given in the source:**
-
-> And the other point is only a case of identity of sound.
->
-> What follows about Babara and such other words is only a case of identity of sound. There is no idea in the text in question of referring to a man called Babara. For we can refer the passage to the wind, who has a sound like ba-ba-ra, and whose nature it is to go forward (pravahana).
->
-> But do we not find in the Veda texts like these, "The trees performed the sacrifice: the serpents performed the sacrifice." Trees are senseless things; and serpents, though they have sense, are destitute of knowledge. That either one or the other should take part in a sacrifice is impossible. Therefore since the Veda in such cases resembles such idle talk of a madman or a child, as, for example, "jaradgavo gayati madrakani," it must have been composed by some man. He anticipates and answers this doubt in the following sutra.
-
 <div class="pgmark">original p. 471</div>
 
 In the case under examination, though the word "Babara" appears to name a man, it is not actually a proper name — merely an ordinary word. Combined with the sound "ba-ba-ra," it means "wind blowing forcefully." "Babara" is therefore not any man's name.
@@ -13660,13 +12839,7 @@ In the case under examination, though the word "Babara" appears to name a man, i
 >
 > *(Establishing that no human could have devised the jyotiṣṭoma ritual specifically as a means to heaven, since the cause-effect relationship between this ritual and that reward is fundamentally beyond ordinary human observation — only revealed knowledge could establish such a connection. If the Veda's ritual-injunctions were merely human invention, they would resemble ordinary practical speech (like a cooking recipe explaining how to satisfy hunger through familiar, observable means), but they do not — the Veda instead prescribes specific ritual acts toward an entirely unverifiable, unobservable future goal, which no human composer could have devised on their own experience.)*
 
-Sutra's meaning: had a human composed statements about the Jyotishtoma and similar rites, the assertion that this specific rite serves as the means to attain heaven simply could not have followed such composition — because no human being can perceive that a given ritual act and its future heavenly result stand in a genuine cause-and-effect relationship. Yet the Veda does contain exactly this kind of assertion, unverifiable by any human means...
-
-**Embedded English translation, as given in the source:**
-
-> If it were made by a man there would be no mention of the use of the rite. Also, from its identity with the rite.
->
-> If the sentences about the jyotishtoma and other rites were made by a man, then the composition of the sentences about the jyotishtoma would not have been followed by the assertion that that rite wins heaven. For no man could have seen that these two things stood to each other as cause and effect. But the Veda does contain such an assertion. "Let...
+Sutra's meaning: had a human composed statements about the Jyotishtoma and similar rites, the assertion that this specific rite serves as the means to attain heaven simply could not have followed such composition — because no human being can perceive that a given ritual act and its future heavenly result stand in a genuine cause-and-effect relationship. Yet the Veda does contain exactly this kind of assertion, unverifiable by any human means.
 
 <div class="pgmark">original p. 472</div>
 
@@ -13695,10 +12868,6 @@ That is: nor can this be compared to a madman's babble — the jyotiṣṭoma in
 >
 > *(Anticipating an objection: doesn't Badarayana's own Vedanta-sutra state that the Veda arises from Brahman? This might seem to concede a kind of "authorship" after all — but Sayana clarifies that Brahman's causing the Veda's existence doesn't make it "pauruṣeya" in the objectionable sense, since it was never fashioned by an embodied human being.)*
 
-**Embedded English translation, as given in the source:**
-
-> him who desires heaven sacrifice by the jyotishtoma rite." Nor can this be said to be like the speech of a madman. For the rite enjoined here is understood, as in the case of precepts in daily life, to be provided with the three factors, the thing to be gained, the instrument and the method. As in daily life if you say, Feed the brahmans, the questions at once arise why, with what, and how? And the answers are given, "that they may be satisfied," "with rice" and "with accompaniments such as vegetables, broth, and the like." So with the command to perform the jyotishtoma rite. Its end is heaven. The soma is the instrument used, and the introductory and other subsidiary portions of the ritual must be observed. How can this be said to be like the talk of a madman?
-
 <div class="pgmark">original p. 473</div>
 
 Sutra's meaning: though many seemingly incoherent statements ("**वनस्पतयः सत्रमासत**" *vanaspatayaḥ satram āsata* — "the trees performed the sacrifice," and similar) occur in the Vedas, they exist only to clarify certain ritual acts and their proper relationships.
@@ -13709,25 +12878,13 @@ Sutra's meaning: though many seemingly incoherent statements ("**वनस्प
 > *jyotiṣṭomena svargakāmo yajeta |*
 > "One desiring heaven should perform the jyotiṣṭoma" Any man could say "perform the jyotiṣṭoma" — but no man can foresee that this specific act yields that specific future fruit. Humans have the capacity to perform acts, not to know which acts yield which unobservable future results. Such statements resemble a sovereign's authoritative command, requiring three essential components: **bhāvya** (the fruit sought), **karaṇa** (the means/instrument), and **itikartavyatā** (the proper method). Just as "feed the brahmins" implies satisfaction (goal), food (instrument), and accompaniments like vegetables and soup (method) — "perform the jyotiṣṭoma" implies heaven (goal), soma (instrument), and the full consecration-and-subsidiary-rite sequence (method). How could such a carefully structured statement resemble a madman's ravings?
 
-**But this same explanation doesn't cleanly cover "**वनस्पतयः सत्रमासत**" (*vanaspatayaḥ satram āsata*)** — true, and a different kind of explanation is needed there. When interpreting a sentence, one must take the complete statement as a whole; taking only one fragment and declaring it senseless is not a fair reading...
-
-**Embedded English translation, as given in the source:**
-
-> Neither are passages like that about the sacrifices performed by trees open to that charge. Logicians say that the meaning to be assigned to an expression must vary with the purport or context. Now the passage about the jyotishtoma is preceptive, and its purport is the performance of the rite. The passage about the sacrifice performed by the serpents is of the character of an arthavada, and its purport is eulogy of the rite. Such a eulogy can be made by means even of a thing that has no existence. If senseless trees and unlearned serpents perform a sacrifice, how much more should sentient and learned brahmins do so? In this way the sacrifice is eulogised.
+**But this same explanation doesn't cleanly cover "**वनस्पतयः सत्रमासत**" (*vanaspatayaḥ satram āsata*)** — true, and a different kind of explanation is needed there. When interpreting a sentence, one must take the complete statement as a whole; taking only one fragment and declaring it senseless is not a fair reading.
 
 <div class="pgmark">original p. 474</div>
 
 How could it be otherwise? Examining a sentence's preceding and following context resolves what first seemed inconsistent. The "**वनस्पतयः सत्रमासत**" (*vanaspatayaḥ satram āsata*) statement, connected as it is with jyotiṣṭoma-type sattra statements, is not comparable to a madman's ravings. Logicians hold that a word's meaning shifts with context: statements like the jyotiṣṭoma exist to declare a duty — that is their function; statements like this are arthavāda, existing purely to convey praise, regardless of whether their literal content is possible or impossible. The point isn't literal plausibility — it's the praise itself: "if even insentient, unknowing creatures managed to perform such a rite, how much more should sentient, learned brahmins do so!" — this a-fortiori eulogy of the sattra-yajna is the statement's whole purpose.
 
-**Siddhānta — the true conclusion:** names like "Kathaka" and "Kauthuma" do not indicate the persons who composed those Vedic branches — they were composed by no human being at all. Because these figures traditionally taught those branches to their students, the branches came to bear their names...
-
-**Embedded English translation, as given in the source:**
-
-> The word "and" in the sutra links to this argument a previous one in which the view, laid down as part of the purvapaksha, that the Vedas must have had an author, because they are made up of sentences as other books are, is refuted by the fact that they have never been assigned to any author.
->
-> From all this it follows that the Vedas are not of human authorship.
->
-> The following verses of the Sangraha relate to this matter:
+**Siddhānta — the true conclusion:** names like "Kathaka" and "Kauthuma" do not indicate the persons who composed those Vedic branches — they were composed by no human being at all. Because these figures traditionally taught those branches to their students, the branches came to bear their names.
 
 <div class="pgmark">original p. 475</div>
 
@@ -13747,18 +12904,6 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 > *Smṛti: "anādinidhanā nityā vāg utsṛṣṭā svayaṃbhuvā | ādau vedamayī divyā yataḥ sarvāḥ pravṛttayaḥ ||" (Brahmasūtra Śāṅkarabhāṣya 1-3-82)* ("beginningless and endless, eternal is the speech emitted by the Self-existent One; divine, made of the Veda, from which all activities proceed")
 
 **Therefore, no possibility of an authorial flaw arises for the Veda — it has no author at all. The authority of the Veda, comprising both mantra and Brahmana, thus stands firmly and unobstructedly established.**
-
-**Embedded English translation, as given in the source:**
-
-> "Is the Veda of human origin? Yes, since it is known by titles such as Kathaka, and since it is made up of sentences that have the same nature as other sentences."
->
-> "No: these titles refer to men who taught the Veda, not composed it. And that other argument has already been refuted by the fact that no author's name is mentioned."
->
-> Here a doubt arises. Has not the holy Badarayana laid it down that the Veda is the work of Brahma? "Sastrayonitvat." The meaning of which sutra is that Brahma is omniscient, because he made the Rigveda and all the other shastras. Granted. But this does not extend to proving the human origin of the Veda. It was not made by a man. The same Badarayana has this non-human origin in view when he lays it down, in the devata section, that for all who have not obtained final release, the Veda is eternal like, for example, the sky. "Ata eva cha nityatvam."
->
-> Both sruti and smriti can be cited here. The sruti is "vacha virupa nityaya." The smriti, "anadinidhana nitya vag utsrishta svayambhuva."
->
-> Therefore the possibility of a mistake on the part of the author or authors does not arise, and the authority of the Veda, both mantra and brahmana, is subject to no dispute.
 
 ## Chapter 12. Determining the True Nature of Mantra and Brahmana, Through Their Defining Marks
 
@@ -13788,16 +12933,6 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 >
 > "Yes: there is a definition, and it is free from fault. What the priests..."
 
-**Embedded English translation, as given in the source:**
-
-> But it may be said the definition of the Veda, according to which it is the sum of the mantras and brahmanas, is not a good definition, because no one can say what constitutes a mantra and what a brahmana. Not so. The nature of both has been clearly determined in the seventh and eighth adhikaranas of the first pada of the second adhyaya.
->
-> The seventh adhikarana is thus given in the Sangraha.
->
-> "With reference to the text 'ahe budhniya mantram me &c.,' is there such a definition? There is no such definition, because you cannot frame one which shall not include either too much or too little.
->
-> "Yes: there is a definition, and it is free from fault. What the priests...
-
 <div class="pgmark">original p. 477</div>
 
 > …रूपाः । पृच्छामि त्वा परमन्तं पृथिव्याः (तै. सं. ७-४-१८-२) इत्यादयः प्रश्नरूपाः । वेदिमाहुः परमन्तं पृथिव्याः (तै. सं. ७-४-१८-२) इत्यादय उत्तररूपाः । एवमन्यदप्युदाहार्यम् । ईदृशेष्वत्यन्तविजातीयेषु समाख्यानमन्तरेण नान्यः कश्चिदनुगतो धर्मोऽस्ति यस्य लक्षणत्वमुच्येत । लक्षणस्य चोपयोगः पूर्वाचार्यैर्दर्शितः । ऋषयोऽपि पदार्थानां नान्तं यान्ति पृथक्त्वशः । लक्षणेन तु सिद्धानामन्तं यान्ति विपश्चित इति । तस्मादभियुक्तानां मन्त्रोऽयमिति समाख्यानं लक्षणम् ॥
@@ -13816,14 +12951,6 @@ Up to this point, matters of Veda-authority and apauruṣeyatva have been establ
 
 —carry a valid definition [of "mantra"], or not? Answer: it does not — because a proper definition must avoid the flaws of **अव्याप्ति** (*avyāpti*, under-extension), **अतिव्याप्ति** (*ativyāpti*, over-extension), and **असंभव** (*asambhava*, impossibility) — see the earlier discussion on page 364. Since no definition can be given that avoids all these flaws, this passage fails to qualify as a defining case of "mantra."
 
-**Embedded English translation, as given in the source:**
-
-> ...no rules. "Pruchcha api tva paramam tam prithivyah" and similar are of the nature of a question. "Venim achchhah paramam" and similar are of the nature of an answer. And so with other forms of expression. Given such variety of significance, without a general designation, there is no other common feature or property which could serve as a definition; and a definition apart from such a feature is impossible. In the end the definition would boil down to nothing but this particular designation. Therefore the settled view of the learned is that "this is a mantra" is itself the definition, established by such designation.
->
-> At the adhana rite this text is used "ahe budhniya mantram me gopaya." Now there is no definition of what it is that makes a mantra. Because it is impossible to frame a definition which shall not be either too wide or too narrow. If we say that a mantra is that which refers to a thing enjoined, we shall exclude the mantra "vasantaya kapinjalan alabhate," which is itself in form an injunction or vidhi. If we give an etymological translation, and say that mantra comes from manana (thinking) that would include the brahmanas. If we say that it ends in the second person, that will exclude all that end in the first person, and vice versa.
->
-> "Not so. It is a good definition to say that whatever the sacrificing priest calls a
-
 <div class="pgmark">original p. 478</div>
 
 **Siddhānta:** whatever priests customarily call "mantra" during a yajna's performance — that itself is mantra. This definition is free from flaw, since they simply use it as such during ritual practice — that alone suffices; there's no further need to test whether this designation avoids over- or under-extension.
@@ -13840,11 +12967,7 @@ At the Adhana rite (already explained on page 431), the mantra—
 
 —itself declaring a new injunction — would fail to qualify. If mantra is derived etymologically from "**मनन**" (*manana*, reflective mental deliberation), Brahmana statements would wrongly qualify too (ativyāpti). Definitions based on grammatical person (second-person vs. first-person endings) each exclude valid mantras of the other type. Given these compounding difficulties, mantra appears to have no coherent definition at all — and therefore [the objector concludes] such "mantras" cannot properly constitute part of the Veda. (This concludes the objection.)
 
-**The resolution:** not so. Whatever the priests declare to be "mantra" — that itself is mantra; this usage-based designation is itself the flawless defining mark, since it can be recognized alongside the already-understood procedures of ritual application. For example: "**उरु प्रथस्व**" (*uru prathasva*, Tai. Saṃ. 6-2-7-3) and similar mantras convey the proper sequence of ritual performance...
-
-**Embedded English translation, as given in the source:**
-
-> mantra is such. This denomination alone it is which indicates that texts used in directing the mantras and others are mantras. "Uru prathasva" and similar texts direct the sacrifice. "Agnim ile purohitam" and other similar texts are in praise of the gods. "Ishe tva" and the texts which follow end in the word "tva." "Agna a yahi vitaye" and texts like it are invocations. Such texts as "agnid agnin vihara" are directory. Such texts as "adhah svid asid upari svid asit" are philosophical hymns. Such texts as "ambe ambike ambalike na ma nayati kaschana" are lamentations. Such texts as "prichchhami tva param antam prithivyah" are questions. And so on with others. Since the mantras are so various in kind, except denomination there is no common quality which will serve for a definition. But the need of some definition has been shown by old teachers.
+**The resolution:** not so. Whatever the priests declare to be "mantra" — that itself is mantra; this usage-based designation is itself the flawless defining mark, since it can be recognized alongside the already-understood procedures of ritual application. For example: "**उरु प्रथस्व**" (*uru prathasva*, Tai. Saṃ. 6-2-7-3) and similar mantras convey the proper sequence of ritual performance.
 
 <div class="pgmark">original p. 479</div>
 
@@ -13868,12 +12991,6 @@ Many more examples could be given. Given such genuinely diverse statements, no s
 
 **Therefore, when the learned — the wise, the discerning, ritual practitioners — simply say "this is mantra," that suffices. That itself is mantra; their own statement is the proof. This very designation — their own customary usage — is itself the definition.**
 
-**Embedded English translation, as given in the source:**
-
-> "Even the rishis could not come to the end of things taken one by one: it is only when things are comprehended under a definition that learned men can master them."
->
-> "So the denomination of the mantras, as they are used, in the words, This is a mantra, is the definition."
-
 <div class="pgmark">original p. 480</div>
 
 ### The Eighth Adhikarana Is Now Formulated
@@ -13886,19 +13003,9 @@ Many more examples could be given. Given such genuinely diverse statements, no s
 
 **The objection develops through the Chaturmasya-ishti example:** "etad brāhmaṇāny eva pañca havīṃṣi" (Taittiriya Brahmana 1-7-1-1) — here, [it's argued,] no definition of "brahmana" exists, because the Vedic portions themselves haven't been clearly delimited, leaving both the mantra-portion (already discussed) and the remaining portions without a coherent shared characteristic. These "other portions" can be shown to include vastly different content-types — nindā (censure), as in "anamīdhya vai māṣāḥ"; praśaṃsā (praise), as in "vāyus tvai kṣepiṣṭhā devatā"; saṃśaya (doubt), as in "śatruṣ cikitsat kim bahavānīrma poṣā"; vidhi (injunction), as in "yajamānena sannimitādambarī bhavati"; parakṛti (deeds of others), as in "mā prāpā neva mahyaṃ pātanti"; purākalpa (ancient narrative), as in "purā brāhmaṇā abhyāṣāriśi"; and viśeṣāvadhāraṇa (specific determination), as in "yāvato'śvair niṣṭhīvet yāvato vāruṇāc cāturāśāt sarvaṃ vet." Given content-types this varied, no single shared characteristic — beyond simple exclusion from the mantra-category — can serve as a proper definition of brahmana.
 
-**Embedded English translation, as given in the source:**
-
-> The eighth adhikarana is thus given in the Sangraha.
->
-> "With reference to the text 'etad brahmana' &c., is there no definition of what is a brahmana, or is there such a definition? There is not, because no one has shewn how much of the Veda is mantra, and how much is brahmana.
->
-> "There is. For the Veda is divided into mantra and brahmana: therefore whatever in the Veda is not a mantra is a brahmana, that is the definition of a brahmana.
->
-> "In the chaturmasya ritual the text is used 'etad brahmananyeva pancha havinshi.' Now there is no definition of what is a brahmana. Why? Because, there being no limit to
-
 <div class="pgmark">original p. 481</div>
 
-...(as established earlier) the Veda's own portions, any definition seeking to distinguish "brahmana" precisely from other content would either over- or under-include. The mantra-portion, already discussed, is one part; the remaining portions have been summarized by the ancient teachers thus:
+(as established earlier) the Veda's own portions, any definition seeking to distinguish "brahmana" precisely from other content would either over- or under-include. The mantra-portion, already discussed, is one part; the remaining portions have been summarized by the ancient teachers thus:
 
 > हेतुर् निर्वचनं निन्दा प्रशंसा संशयो विधिः । परक्रिया पुराकल्पो व्यवधारण-कल्पना ॥
 > hetur nirvacanaṃ nindā praśaṃsā saṃśayo vidhiḥ | parakriyā purākalpo vyavadhāraṇa-kalpanā ||
@@ -13918,14 +13025,6 @@ Many more examples could be given. Given such genuinely diverse statements, no s
 - **"Yāvato'śvān pratigṛhṇīyāt tāvato vāruṇāṃś catuṣkapālān nirvapet"** (Tai. Saṃ. 2-3-12-1) — a **viśeṣāvadhāraṇa-kalpanā** (specific determination).
 
 Other examples could be given as well. None of these nine content-types, taken individually (for mantras too contain them: "indavo vām uśanti hi" (Ṛ. Saṃ. 1-2-4) is a hetu; "udānīṣur mahīr iti tasmād udakam ucyate" (Ath. Saṃ. 3-13-4) a nirvacana; "mogham annaṃ vindate apracetāḥ" (Ṛ. Saṃ. 10-117-6) a nindā; "agnir mūrdhā divaḥ kakut" (Ṛ. Saṃ. 8-44-16) a praśaṃsā; "adhaḥ svid āsīd upari svid āsīt" (Ṛ. Saṃ. 10-129-5) a saṃśaya; "sahasram ayutā dadat" (Ṛ. Saṃ. 8-21-18) a parakṛti; "yajñena yajñam ayajanta devāḥ" (Ṛ. Saṃ. 1-164-50) a purākalpa; and "rājā cid yaṃ bhagaṃ bhakṣīty āha" (Ṛ. Saṃ. 7-41-2) and "yo mā yātuṃ yātudhānety āha yo vā rakṣāḥ śucir asmīty āha" (Ṛ. Saṃ. 7-104-16) show the iti-form in mantras), can serve as a coherent positive definition of "brahmana" — since mantras too, at times, exhibit similar features (as in "amba ambike" and similar). Therefore, the only workable definition remains the exclusionary one already established: whatever in the Veda is not mantra is brahmana.
-
-**Embedded English translation, as given in the source:**
-
-> ...the divisions of the Veda, any definition which should seek to discriminate between the brahmana parts and the other parts would either be too narrow or too wide. The mantra part, of which we have already spoken, is one. The remaining parts have been thus summed up by ancient teachers:
->
-> "hetur nirvachanam ninda prasansa sansayo vidhih, parakriya purakalpo vyavadharanakalpana."
->
-> "Tena hyannam kriyate" is a hetu. "Amedhya vai mashah" is a ninda. "Vayur vai kshepishtha" is prasansa. "Tad vyachikitsaj juhavani ma hausham" is a sansaya. "Yajamanena sammitandumbhari bhavati" is a vidhi. "Mashan eva mahyam pachanti" is a parakriti. "Pura brahmana abhaishuh" is a purakalpa. "Yavato s'van pratigrihniyat tavato varunanschatushkapalan nirvapet" is a viseshavadharanakalpana. Other examples could be given.
 
 <div class="pgmark">original p. 482</div>
 
@@ -13953,42 +13052,6 @@ In the Chaturmasya-yashti yajna, the mantra "etad brāhmaṇāny eva pañca hav�
 > *śeṣe brāhmaṇa-śabdaḥ |* (Jaimini Sutra 2-1-33)
 > "'Brahmana' is the term applied to the remainder."
 
-**Embedded English translation, as given in the source:**
-
-> "It will not do to say that to define a brahmana we have only to say that it must be one or other of these things just enumerated. For all these classes are found in the mantras too."
-
-> इन्द॑वो वां उ॒शन्ति॒ हि ।
-> *indavo vāṃ uśanti hi |*
-> "'Indavo vam usanti hi' is a hetu."
-
-> उदानीषुर्महीरिति तस्मादुदकमुच्यते ।
-> *udānīṣur mahīr iti tasmād udakam ucyate |*
-> "'Udanishur mahir iti tasmad udakam uchyate' is a nirvachanam."
-
-> मोघमन्नं विन्दतेऽप्रचेताः ।
-> *mogham annaṃ vindate'pracetāḥ |*
-> "'Mogham annam vindate aprachetah' is a ninda."
-
-> अग्निर्मूर्धा दिवः ककुत् ।
-> *agnir mūrdhā divaḥ kakut |*
-> "'Agnir murdha divah kakut' is a prasansa."
-
-> अधः स्विदासीदुपरि स्विदासीत् ।
-> *adhaḥ svid āsīd upari svid āsīt |*
-> "'Adhah svid asid upari svid asit' is a sansaya."
-
-> वसन्ताय कपिञ्जलानालभते ।
-> *vasantāya kapiñjalān ālabhate |*
-> "'Vasantaya kapinjalan alabhate' is a vidhi."
-
-> सहस्रमयुत ददत् ।
-> *sahasram ayuta dadat |*
-> "'Sahasram ayuta dadat' is a parakriti."
-
-> यज्ञेन यज्ञमयजन्त देवाः ।
-> *yajñena yajñam ayajanta devāḥ |*
-> "'Yajnena yajnam ayajanta devah' is a purakalpa."
-
 <div class="pgmark">original p. 483</div>
 
 Up to this point, matters have been discussed clarifying, in careful detail, which portions of Vedic statements are mantra and which are brahmana. In identifying the brahmana-portion specifically, the ancient teachers state it can be marked by: **हेतु** (*hetu*, reason), **निर्वचन** (*nirvacana*, subject-clarification), **निन्दा** (*nindā*, attributing a flaw), **प्रशंसा** (*praśaṃsā*, praise), **संशय** (*saṃśaya*, doubt), **विधि** (*vidhi*, command), **परक्रिया** (*parakriyā*, describing another's matter), **पुराकल्प** (*purākalpa*, ancient history), and **व्यवधारणकल्पना** (*vyavadhāraṇa-kalpanā*, stating "if this is done, that results"). One example for each mark is given:
@@ -14012,13 +13075,6 @@ Many more examples like these could be given.
 **Nindā:** मोघामन्नं विन्दतेऽप्रचेताः (*moghām annaṃ vindate apracetāḥ*, Rigveda 10-117-6)
 **Praśaṃsā:** अग्निर्मूर्धा दिवः ककुत् (*agnir mūrdhā divaḥ kakut*, Rigveda 8-44-16)
 **Saṃśaya:** अधः स्विदासीदुपरि स्विदासीत् (*adhaḥ svid āsīd upari svid āsīt*, Rigveda 10-129-5)
-
-**Embedded English translation, as given in the source:**
-
-> "Does the frequent occurrence of the word 'iti' constitute a brahmana? No. For that definition would include the mantra which, according to the text—
-
-> इत्यददेत्ययजथेत्यपचेति ब्राह्मणो गायेत् ।
-> *ityadada ityajatha ityapacha iti brāhmaṇo gāyet |*
 
 —has to be sung by the brahmin.
 >
@@ -14052,15 +13108,9 @@ Many such statements exist. What about defining brahmana as "statements using th
 
 That is: the Veda contains certain exhortatory statements, to which those versed in tradition give the designation "mantra" — "we study the mantras," they say. The rest of the Veda they call brahmana.
 
-**Embedded English translation, as given in the source:**
-
-> "Then there is no definition of what a brahmana is? There is, and we give it. We have seen reason to hold that the Veda is divided into these two parts, mantra and brahmana. And we have laid down how the mantra part is to be known. Well, whatever is not mantra, that is our definition of a brahmana."
->
-> This very definition is given by Jaimini in the two sutras "tach chodakeshu mantrakhya" and "seshe brahmanasabdha." That is to say, In this Veda there are certain exhortatory sentences to which the name mantra part is given by those who know tradition. We study the "mantras" they say. The rest of the Veda they call brahmana.
-
 <div class="pgmark">original p. 485</div>
 
-...as stated in the Bhashya (2-1-33). Disciples familiar with the tradition call such exhortatory statements "mantras," saying "we study the mantras" — and every Vedic portion so designated is indeed mantra; every remaining portion is called brahmana.
+As stated in the Bhashya (2-1-33). Disciples familiar with the tradition call such exhortatory statements "mantras," saying "we study the mantras" — and every Vedic portion so designated is indeed mantra; every remaining portion is called brahmana.
 
 **A new objection:** in the Brahmayajna chapter, don't we find portions distinct from both mantra and brahmana — itihāsas and similar? As stated: "yad brāhmaṇetihāsān purāṇāni kalpān gāthā nārāśaṃsīḥ" (Taittiriya Aranyaka 2-9) — "whatever brahmanas, itihasas, puranas, kalpas, gathas, narashamsis..."
 
@@ -14068,10 +13118,6 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 > na evaṃ | vipra-parivrājakasyāyena brāhmaṇādhyāntarabhedānām evetihāsādīnāṃ pṛthag-abhidhānāt | devāsurāḥ saṃyattā (Taittiriya Samhita 5-3-11-1) ity ādayaḥ itihāsāḥ | idaṃ vā agre naiva kiṃcanāsīt (Taittiriya Brahmana 2-2-9-1) ity ādiḥ jagataḥ prāg-avasthām upakramya sṛṣṭi-pratipādakaṃ vākya-jātaṃ purāṇam | kalpā aruṇaketuke cayane sa-prakaraṇe (samāmnāyate) iti | agni-cayane yugma-gāthābhiḥ parigāyati (Taittiriya Samhita 5-1-8-2) iti viśiṣṭa-mantra-viśeṣa gāthāḥ | manuṣya-vṛttānta-pratipādikāś ca nārāśaṃsā ṛcaḥ | tasmān mantra-brāhmaṇa-vyatiriktābhāgābhāvān mantra-brāhmaṇa-svarūpasya lakṣitatve ubhaya-satkatvaṃ vedasya susthitam ||
 >
 > "Not so. This is simply a case of naming distinct sub-varieties of brahmana under their own separate designations — itihāsa, purāṇa, and the rest — just as with the wandering-monk-priest analogy. Statements like 'devāsurāḥ saṃyattā' ('the gods and demons were in conflict') are itihāsas. Passages beginning from the world's pre-creation state and describing cosmic origination, like 'idaṃ vā agre naiva kiṃcanāsīt' ('in the beginning, there was truly nothing at all'), constitute purāṇa. 'Kalpa' refers to procedural passages found within sections like the Arunaketuka fire-altar rite. 'Gāthās' are specific mantra-types, as in 'agni-cayane yugma-gāthābhiḥ parigāyati' (Taittiriya Samhita 5-1-8-2). 'Nārāśaṃsī' verses (ṛc) narrate human affairs. Therefore, since no portion exists beyond mantra and brahmana, the Veda's full scope, once mantra and brahmana are properly defined, remains soundly and completely accounted for by these two categories alone."
-
-**Embedded English translation, as given in the source:**
-
-> But is it not the case that in the Brahmayajna chapter parts of Scripture are referred to, such as itihasas and the like, which are neither mantras nor brahmanas? "Yad brahmananitihasapuranani kalpan gatha narasansih." Not so. We have here simply a separate mention under distinctive names of different kinds of brahmanas? As when one says "Feed the brahmins in the verandah, but take the parivrajakas inside," no one supposes that the parivrajakas are not brahmins. Such texts as, for example, for example, "devasurah...
 
 <div class="pgmark">original p. 486</div>
 
@@ -14084,10 +13130,6 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 **Nārāśaṃsī:** Riks narrating human affairs.
 
 **Therefore, all these itihasa-and-similar statements are sub-classifications of the brahmana-portion, and are themselves brahmanas.** It follows that the Veda comprises exactly two portions — mantra and brahmana — with no third category existing anywhere. **The Veda is thus definitively established as consisting precisely of mantra and brahmana.**
-
-**Embedded English translation, as given in the source:**
-
-> ...samyatta asan," are itihasas. "Idam va agre naiva kimchidasit" and the whole of the passage which follows, treating of the former state of the world, and telling the story of creation, is a purana. What "kalpa" means is told in the Arunakesukachayana chapter. The mantras "iti mantrah," "kalpo 'ta urdhvam" and "yadi balim haret," prescribed in the Agnichayana chapter by the text "yamagathabhih parigayati," are gathas. Verses that tell of the deeds of men of old time are narasansis. There are therefore besides mantra and brahmana no other parts of the Veda. And we have shown how these two are to be severally defined. That definition of the Veda itself then, according to which it is the sum of the mantras and the brahmanas, is established.
 
 ### Discussion on the Threefold Nature of Mantras, with Their Definitions
 
@@ -14118,14 +13160,6 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 
 This opens a new technical discussion: since rik, sama, and yajus mantras appear intermixed throughout the Veda, how can one reliably tell them apart? The resolution draws on three distinguishing forms of textual presentation — pada, gīti, and praśliṣṭapāṭha.
 
-**Embedded English translation, as given in the source:**
-
-> The differences between the three kinds of mantras are considered in the same pada as follows:—
->
-> "Some say that on account of the way in which they are mixed up there is no characteristic mark of rik, sama and yajur verses: but there is really no confusion, because we have the pada, the giti and the prashtahtapatha by means of which we can discriminate the three."
->
-> There is the text "ahe budhniya mantram me gopaya yam rishayas traivida viduh richah samani yajunshi." By "trivid" is meant a man who knows the three vedas. Pupils of such an one called traividas. "The threefold mantra portion of the Veda which they recite—protect it," that is the construction here.
-
 <div class="pgmark">original p. 488</div>
 
 > गीत-रूपा मन्त्राः सामानि । वृत्ते गीति-वर्जितत्वेन प्रश्लिष्ट-पठिता मन्त्रा यजूंषीत्य् एते न क्वाप्य् अस्ति सङ्करः । तेषां त्रिविधं जैमिना सूत्र-त्रेण लक्षितम् । तेषाम् अग्र्यार्थ-वशेन पाद-व्यवस्था । गीतिष् सामाख्या । शेषे यजुः-शब्दः (पुर्व मिमम्स २-१-३५–३७) इति । एकम् एव मन्त्राणां तर-विशेषम् उपजीव्य वेदानाम् अग्र्यादिर् यो यजुर्-वेद साम-वेद इति त्रैविध्यं संसिद्धम् ॥
@@ -14135,11 +13169,7 @@ This opens a new technical discussion: since rik, sama, and yajus mantras appear
 
 Among Vedic mantras, there are exactly three principal types — Rigveda, Yajurveda, and Samaveda — intermixed throughout the Veda, with no obvious single mark distinguishing them at first glance. Mimamsa-shastra resolves this in its own dedicated pada: a mantra built from metrical **padas** (verse-feet, matching meters like Gayatri and similar — one pada for "ekapada" meter, two for "dvipada," three for Gayatri, four for Trishtubh/Jagati, five for Saptanta, and so on) is called **Rigveda**. Mantras in musically-tuned, sung form (**gīti**) are called **Sāmaveda**. Prose collections with no metrical constraint are called **Yajus**. This way, distinguishing them individually is possible, and no confusion arises in principle.
 
-**But a genuine difficulty now surfaces:** the mantra "ahe budhniya mantraṃ me gopāya yaṃ ṛṣayas traividā viduḥ | ṛcaḥ sāmāni yajūṃṣi" (Taittiriya Brahmana 1-2-1) invokes "traividas" — those learned in all three Vedas. But the three mantra-types (rik, yajus, sāma) as defined above turn out to lack a *stable* defining mark after all — because certain mantras appear within the Veda in ways that cut against this clean threefold scheme...
-
-**Embedded English translation, as given in the source:**
-
-> Now it is said here that there is no characteristic mark peculiar to each of the three Vedas in their mantra portion, Rig Sama and Yajur. Why? Because of the difficulty of avoiding confusion. The only satisfactory mark would be that the teacher, to whom all three are familiar should say, This mantra is part of the Rig or Sama or Yajur Veda as the case might be. But there the confusion comes in. The mantra devo vah savitotpunatvachchhidrena pavitrena vasoh suryasya rasmibhih occurs in the Yajur Veda, and is recited with the other texts there. But it is not a Yajur text. Because in the brahmana of that Veda it is spoken of as a text of the Rig Veda "Savitryarcha." In the same way a Sama text is...
+**But a genuine difficulty now surfaces:** the mantra "ahe budhniya mantraṃ me gopāya yaṃ ṛṣayas traividā viduḥ | ṛcaḥ sāmāni yajūṃṣi" (Taittiriya Brahmana 1-2-1) invokes "traividas" — those learned in all three Vedas. But the three mantra-types (rik, yajus, sāma) as defined above turn out to lack a *stable* defining mark after all — because certain mantras appear within the Veda in ways that cut against this clean threefold scheme.
 
 <div class="pgmark">original p. 489</div>
 
@@ -14161,12 +13191,6 @@ occurs within the Yajurveda Samhita, among other Yajurveda mantras — yet it's 
 
 **It is precisely on this difference among the three mantra-types that the distinct classification of the three Vedas — Rigveda, Sama, and Yajur — rests.**
 
-**Embedded English translation, as given in the source:**
-
-> sung in the Yajur Veda with the prelude "etat sama gayannaste." The Sama Veda contains three Yajur texts "akshitam asi" "achyutam asi" and "pranasansitam asi." The verses of the Rig Veda, too, are the basis on which the chanted Sama Veda rests. Therefore there is no mark by which we can discriminate between these three. Not so. The three marks mentioned in the verse pada, giti and prashlishtapathah avert all confusion. Mantra in metre that are divided into padas and half verses, are riks. Mantras in the form of song are samans. Mantras that are neither metrical nor adopted for singing, but are in plain prose, are Yajur texts. Thus there is no confusion.
->
-> This threefold character of the mantras is set out by Jaimini in the three sutras "tesham rig yatrarthavasena padavyavastha," "gitishu samakhya" and "seshe yajuhsabdh." And it is on this difference between the three kinds of mantras that the distinction between the three Vedas—Rig, Sama and Yajur—rests.
-
 ## Chapter 14. The Matter That Vedic Study, Together with Its Meaning, Is an Obligatory Duty
 
 *Original title: "Arthasahitavāgi vēdādhyayanavu kartavyavemba vicāra"*
@@ -14185,10 +13209,6 @@ The great sage Jaimini establishes this threefold mantra-classification through 
 
 This opens a substantial new discussion: is studying the Veda a matter of personal choice, or an unconditional religious duty? And if a person's capacity permits only one Veda, which one should it be? The answer given here is striking — it must be the specific Veda transmitted through one's own paternal family line, not simply any Veda of one's choosing.
 
-**Embedded English translation, as given in the source:**
-
-> The study of these Vedas, all of them or any one of them according to the measure of the student's intelligence, is incumbent on every one who has put on the sacred thread. Listen to what the holy Yajnavalkya says, "Learning the Vedas, or any two of them, or any one." In the case where one Veda only is studied, it should be that handed down from father to son as the Veda of the family. This is what is meant by the word "own" in this text of Scripture, "A man should study his own Veda." And this study is imperative, not optional. This is what is meant in the sutra of the Purusharthanusasana.—
-
 <div class="pgmark">original p. 491</div>
 
 > तथापि गृहस्थार्थाध्ययनम् अन्तरेण ब्रह्मचर्यज्ञा सम्भवात् तदीय-फलम् अपि सम्पद्येत ।
@@ -14203,16 +13223,6 @@ This opens a substantial new discussion: is studying the Veda a matter of person
 > "Therefore one should study one's own Veda." (Manu Smriti 2-168)
 
 A dvija (twice-born) purified through upanayana must, according to his intellectual capacity, study all three Vedas as above; if unable, at least one. Yajnavalkya states: "A householder-dvija should study three Vedas — or two, or, failing that, at least one." Here, "one Veda" specifically means the Veda transmitted through one's own paternal, ancestral lineage — hence the word "sva" (own) appears in the injunction. "Svādhyāya" means study of one's own [family's] shakha specifically — and this obligation is **nitya** (obligatory), not **kāmya** (optional): one cannot simply choose whether to undertake it, on pain of forfeiting one's dvija-status entirely. On this matter, the text Purusharthanushasana states this very sutra—
-
-**Embedded English translation, as given in the source:**
-
-> The study of the Veda is imperative, because if you do not study it you will become an outcast.
->
-> This outlawry is thus referred to in Scripture. "The study of" one's own Veda "delivers from sin. It purifies the gods. He who abandons that study has no lot or part in Speech, has no lot or part in Heaven. As it has been said:
->
-> "He who abandons his friend who loves him, he has no lot or part in Speech: what he hears he hears amiss; he does not know the path of virtue.
->
-> "Therefore one should study one's own Veda."
 
 <div class="pgmark">original p. 492</div>
 
@@ -14234,10 +13244,6 @@ One who fails to study the Veda — his genuine friend — becomes devoid of elo
 >
 > "Whatever ritual-portion one studies, that very rite becomes [ritually] accomplished for him — he attains companionship (sāyujya) with the deities Agni, Vayu, and Aditya."
 
-**Embedded English translation, as given in the source:**
-
-> The meaning of the term "sachivid" here, as applied to the Veda, is that the Veda, grateful for the efforts spent upon it, protects like a friend the man who studies it. By "protects him" is meant that the Veda, by the mere study of it, procures for such an one the rewards that other men must buy by costly sacrifices. As it is said in Scripture, Read this and this sacrifice, and they will be your sacrifices offered, and you shall win the fellowship of Agni, Vayv, Aditya. It is true that the text I have cited refers to that recitation of the Veda which is the accepted sacrifice of the heart. But as learning the Veda is a condition prior to that recitation, the rewards spoken of belong to this study of the Veda also. Now he who turns his back upon such a friend as this Veda is, and ceases to
-
 <div class="pgmark">original p. 493</div>
 
 It's stated that during Brahmayajna, small portions from all four Vedas are properly recited, and it's true that the above-mentioned fruit belongs to such recitation. But before performing Brahmayajna, one must already have learned those very portions — and this requires comprehension-study (grahaṇārtha-adhyayana) beforehand. Without such study, Brahmayajna itself cannot occur — so this fruit belongs precisely to this preliminary study too. Whoever abandons this friend — the Veda that grants such fruit — loses the fruit of speech itself, and thereby loses all share in the heavenly fruit. One who fails to recite the Veda — which expounds all deities, dharma, and ultimate Brahman-reality — and remains instead absorbed in worldly quarrels, clearly lacks true mastery of speech. As Shruti states: "nānasyāyātivṛttai jñācāce vigrāsanaṃ hi tad" (Shatapatha Brahmana 14-7-2-23) — excessive talking wearies speech itself, and can even open the door to falsehood. Considering this, wise people counsel measured speech. Even reading or hearing poetry and drama is, in a sense, similarly pointless — such reading reveals neither the path of righteousness nor genuine (Brahman-)knowledge.
@@ -14250,20 +13256,6 @@ It's stated that during Brahmayajna, small portions from all four Vedas are prop
 > "A dvija who does not study the Vedas but exerts effort in other matters becomes a shudra, even while living, along with his entire household."
 
 That is: even if a dvija studies other texts diligently — without studying the Vedas — or undertakes any other work, all of it becomes futile; shudra-status befalls him in this very life.
-
-**Embedded English translation, as given in the source:**
-
-> study it, he has no lot or part in Speech. Much less has he lot or part in the reward. The man who never repeats the Veda, which tells us of all the gods, and of holiness, and of the Spirit that is over all, but in whose mouth continually is daily talk, the mother of evil speaking, falsehood and strife—how should such an one be said to have lot or part in Speech? As saith the Scripture:
->
-> "Let not a man go over many words for that is a weariness to Speech."
->
-> Such an one may listen to poems and plays, but in so doing, he listens to nothing worth hearing, because he knows not the path of duty.
->
-> I have quoted the Sruti. Hear also a smriti:
->
-> "The brahman, &c., who does not study the Vedas, but spends his strength on other things, becomes at once a sudra even in this life, with all his house."
->
-> And many other similar texts might be cited.
 
 <div class="pgmark">original p. 494</div>
 
@@ -14279,10 +13271,6 @@ Shudra-status befalls even one's descendants. As many such statements as needed 
 
 **A genuinely difficult doubt now arises:** must Vedic study occur *before* one knows the shastric rule "one should study one's own shakha," or only *after* knowing it? Does one study first and thereby come to learn the rule — or must one first know the rule and only then study? This difficulty may be admitted. On this very question rests the difference of opinion between those who follow Prabhākara, and those, such as Prakāśātma, who follow the different doctrine of Kumārila—
 
-**Embedded English translation, as given in the source:**
-
-> Here a doubt arises. Does this study of the Veda precede or follow knowledge of that precept which is in the Veda, and according to which a man should study his own Veda? Do you study and so learn the precept? Or do you know the precept and therefore study? The difficulty may be admitted. On it is based the difference between those who follow Prabhakara, and those, such as Prakasatma, who follow the different doctrine of Kumarila—
-
 <div class="pgmark">original p. 495</div>
 
 A genuine doubt arises: to know the rule that Vedic study must be performed, one would seemingly need to have already studied the Veda and learned what it states — yet the desire to study only arises *after* knowing this rule. So which comes first? This creates a mutual-dependence flaw (anyonyāśraya-doṣa), like saying one cannot marry until born, and cannot be born until married. Since this doubt has genuine grounds, we accept it as worth resolving.
@@ -14290,10 +13278,6 @@ A genuine doubt arises: to know the rule that Vedic study must be performed, one
 **Two resolutions emerge.** Followers of "**गुरुमत** (*Guru-mata*)" hold that teachers, through great effort, instill in boys the very inclination to undertake study. Followers of Prakāśātma's differing doctrine argue instead: just as the notion "one should perform Sandhyavandana" is instilled in boys by their father *before* study even begins, so too the desire to study itself comes from one's father, elder brother, or other elders — not from the Veda's own text. Either way, whether the study-obligation is learned through Vedic study itself or through one's elders beforehand, one thing remains beyond dispute: a person who has undergone upanayana must undertake Vedic study.
 
 **Historical note:** among the Mimamsakas, two teachers — **कुमारिल भट्ट** (*Kumārila Bhaṭṭa*) and **प्रभाकर** (*Prabhākara*) — lived around the time of Shankaracharya, each establishing an independent doctrine. Kumārila's school is called "**भाट्टमत**" (*Bhāṭṭa-mata*); Prabhākara's is called "**गुरुमत**" (*Guru-mata*). As referenced above, "followers of Guru-mata" means followers of the Prabhākara doctrine specifically.
-
-**Embedded English translation, as given in the source:**
-
-> ...bhatta. The one party is at great trouble to show that the boy begins to learn the Veda because his teacher begins to teach him. The other school hold that, just as the boy learns from his father or guardian Vedic precepts such as that with regard to the evening worship, before he has begun to study the Veda itself, so he learns the precept "a man should study his own Veda," and in accordance with this precept begins to learn the Veda. Such is the difference of opinion. But whether the text in which the teacher is enjoined to teach, or the text in which the boy is enjoined to learn, be the initial cause of the study of the Veda, at all events it must be admitted that that study is incumbent on all who are not sudras. And the object of this study is an immediate temporal one, going no further than the mastery over the syllables the student learns. This is a point which is discussed in the Purusharthanusasana, from which I extract the following sutras with the commentaries upon them. The author means to establish the view that the object of the enjoined study of the Veda is to learn the Veda, and nothing else. But first he sets out the opposite view which he intends to controvert.
 
 <div class="pgmark">original p. 496</div>
 
@@ -14311,18 +13295,6 @@ Since it's established that upanayana-invested persons must undertake Vedic stud
 > "ghṛta-kulyādy-atideśaḥ svarga-kalpyaṃ veti || 2 ||"
 >
 > "Extend to this case the promise of rivers of butter and the like; or understand heaven to be the reward."
-
-**Embedded English translation, as given in the source:**
-
-> The study of the Veda must have some unseen spiritual object, because that study is matter of positive injunction.
->
-> Eating and the like are actions which result in immediate temporal benefit. Now the Scriptures lay no commands upon us to eat and drink. They do command us to learn the Veda. It must be that we are to understand that the mere act of studying the Veda has some spiritual mystical efficacy.
->
-> You will say, But Scripture nowhere hints at any spiritual reward attendant on the study of the Veda. The answer to that is in the next sutra.
->
-> Extend to this case the promise of rivers of butter and the like; or understand heaven to be the reward.
->
-> In the arthavada respecting that recitation of the Veda which forms the spiritual...
 
 <div class="pgmark">original p. 497</div>
 
@@ -14347,10 +13319,6 @@ This discussion on the ratri-sattra fruit involves the logic of extending declar
 
 The ratri-sattra's fruit isn't explicitly stated by name; a further consequential fruit is inferred [i.e., held to be] eternal, on the grounds of its parallel to—"pratiṣṭhaṃ hi na vidve, ya vidā rātrir udayanti" and also "brahmavarcasino'nnadā bhavanti, ya..."
 
-**Embedded English translation, as given in the source:**
-
-> sacrifice, rivers of butter and the like are held out as rewards. You must extend that arthavada to the present case, that of the study of the Veda which is incumbent on every member of the three higher classes, and so, by an extension of an arthavada similar to that...
-
 <div class="pgmark">original p. 498</div>
 
 > … ya etā upayanti — (Tāṇḍya Mahābrāhmaṇa 23-14-17) asya rātri-satra-vidheḥ sthāvakenārthavāde pratiṣṭhā śrutā | sā cāsminn apy ittham-tam apy utkarṣārthataḥ | tasmāt "pratiṣṭhā-kāmo rātri-satraṃ kuryāt" ity evaṃ pratiṣṭhā phalatvena kalpyeta ||
@@ -14373,12 +13341,6 @@ The ratri-sattra's fruit isn't explicitly stated by name; a further consequentia
 
 This resolves the objection: even where ceremonial correctness and text-mastery are directly observable results, the injunction's own grammatical completeness still requires positing heaven as the implicit further fruit — exactly the same reasoning extends to Vedic study itself.
 
-**Embedded English translation, as given in the source:**
-
-> employed in the case of a sacrifice performed by night, conceive of these rivers of butter and the like as the rewards held out here. Those who are unable to accept such an extension of the arthavada in question may understand heaven to be the reward held out, as in the case of the Visvajit sacrifice.
->
-> But this is a case where certain immediate temporal results—namely, ceremonial perfection and a mastery of the text—are possible: how can you say that a spiritual result, which is not expressed, must be supplied? To this he says—
-
 <div class="pgmark">original p. 499</div>
 
 Prakṛti [model rite]; soma-yagas and similar rites incorporating modifications are Vikṛti. Observing what's stated regarding the Prakṛti rite to determine needed modifications in the Vikṛti is "atideśa" (analogical extension) — in this same sense, having seen fruit declared for Brahmayajna, imagining fruit for study likewise, though unstated, is what atideśa accomplishes.
@@ -14395,14 +13357,6 @@ Prakṛti [model rite]; soma-yagas and similar rites incorporating modifications
 **Sutra's meaning:** the two supposed fruits — correctly grasping the letters (reciting without variation) and mastering the recitation — are not genuinely proper fruits of study. Nowhere does scripture say one must recite *with* refinement in a yajna, only that one must recite; recitation-scholarship in itself is not a genuine human aim (puruṣārtha), so the study-injunction cannot intend this as its purpose.
 
 **A further defense is anticipated and answered:** but surely text-mastery aids meaning-comprehension, and thereby becomes a genuine human aim? Against this, Sayana points out that mantras belonging to the jyotiṣṭoma and similar yajnas, when recited merely as part of this prescribed study, carry no authority regarding their own meaning — exactly like the mantras used for expelling snake-venom, which are recited instrumentally without their literal sense needing independent justification.
-
-**Embedded English translation, as given in the source:**
-
-> Ceremonial perfection and a mastery of the text are not oppropriate rewards.
->
-> For it is nowhere said that a ceremonially perfect text is to be used at such and such a sacrifice, but only a text; while, as for the mastery of the text, that is not in itself an object of human desire at all, and so cannot be the reward which is contemplated by the injunction to study the Veda.
->
-> But, it may be said, the mastery of the text of the Veda, though not in itself an object of human desire, is the cause of our apprehending the meaning, and in that way becomes an object of human desire. Against this he urges the plea that the Vedic texts about the jyotishtoma and other sacrifices, being, as they are, used merely as part of this prescribed study of the text of the Veda, are not authoritative as regards their meaning any more than are the mantras which are used for expelling the poison of serpents and the like.
 
 <div class="pgmark">original p. 500</div>
 
@@ -14425,16 +13379,6 @@ Even while reciting mantras used in jyotiṣṭoma and similar rites, understand
 > "Well, let us concede that the purpose of the study of the Veda is a spiritual one: there remains a grammatical difficulty. The affix 'tavya' in the word 'adhyetavyah' denotes the object [in the accusative case]; and the result of the action should accordingly be connected with the object, and not with the agent. But we do not see that any spiritual reward accrues to the Veda itself, which is the object of the act of studying. To this the opponent replies—"
 
 This raises a genuinely subtle grammatical objection: since Sanskrit's own karaka-theory (case-role grammar) directs the fruit of an action toward its grammatical *object* — and "the Veda" is grammatically the object of "should be studied" — how can the spiritual fruit of study accrue to the *student* (the agent) rather than to the Veda itself (the object)?
-
-**Embedded English translation, as given in the source:**
-
-> What is part of something else is not authoritative as regards its meaning.
->
-> If you retort that in that case this very text which enjoins the study of the Veda, will lose all its authority, he rejoins that that text is part of the study which it itself enjoins, and of nothing else, and that it therefore is authoritative as regards its meaning.
->
-> The text about the study of the Veda is not part of some other third thing.
->
-> Well, let us concede that the purpose of the study of the Veda is a spiritual one: there remains a grammatical difficulty. The affix 'tavya' in the word 'adhyetavyah' denotes the object: and the result of the action should accordingly be connected with the object, and not with the agent. But we do not see that any spiritual reward accrues to the Veda itself, which is the object of the act of studying. To this the opponent replies—
 
 <div class="pgmark">original p. 501</div>
 
@@ -14462,15 +13406,9 @@ One might argue the statement carries authority, and thereby an unseen fruit res
 
 — (instrumental). By this same grammatical reinterpretation, "the Veda" in "adhyetavyaḥ" — though grammatically accusative — should be understood as the *instrument* through which the fruit is attained, not its recipient; the actual recipient of the fruit remains the studying person.
 
-**Embedded English translation, as given in the source:**
-
-> You must take the object to stand for the instrument here, as in the case of the grain used at the sacrifice.
->
-> Take the sentence "saktun juhoti." Here the matter in hand is the ceremonial perfection to be acquired by means of the Homa offering. But there is no further use for grain made ceremonially perfect at the Homa sacrifice; it is reduced to ashes. The accusative here then must be made to give up its primary reference, and be taken as standing for the instrumental. "Saktun juhoti," "he offers grain," stands for "saktubhir juhoti," "he makes his offering with grain." So here the rewards you suggest, ceremonial perfection and a...
-
 <div class="pgmark">original p. 502</div>
 
-...mastery of the text, accruing to the object of the sentence, are out of the question. We must therefore invert the construction and take "svādhyāya adhyetavyaḥ," "one's own Veda should be studied," to be used in the meaning "svādhyāyena adhīyīta," "one should study by means of one's own Veda."
+mastery of the text, accruing to the object of the sentence, are out of the question. We must therefore invert the construction and take "svādhyāya adhyetavyaḥ," "one's own Veda should be studied," to be used in the meaning "svādhyāyena adhīyīta," "one should study by means of one's own Veda."
 
 **Sayana now establishes his own view: a directly observable, temporal reward already attends Vedic study, so no unexpressed unseen/spiritual reward need be supplied.**
 
@@ -14488,18 +13426,6 @@ He further declares that mastery of the syllables is, mediately, a genuine human
 
 **Sutra's meaning:** prāpti (acquisition/mastery of the syllables) and saṃskāra (ritual refinement) are indeed the directly observable fruits [of study]. Of these, the first — prāpti, in the sense of grasping and memorizing the syllables — becomes, progressively [through a chain of practical uses], a genuine means to human ends.
 
-**Embedded English translation, as given in the source:**
-
-> mastery of the text, accuring to the object of the sentence, are out of the question. We must therefore invert the construction and take 'svadhyaya adhyetavyah,' 'one's own Veda should be studied' to be used in the meaning 'svadhyayena adhiyita.' 'one should study by means of one's own Veda.'
->
-> He now establishes his own view, namely, that a seen temporal reward attends this study of the Veda, and that therefore an unseen spiritual reward, which is not expressed, is not to be supplied.
->
-> Where there is a visible reward you must not supply an invisible one. What is this visible reward of the study of the Veda? He tells you:
->
-> The visible rewards are the mastery of the text and ceremonial perfection.
->
-> With regard to the first of these, the mastery of the text of the Veda, he further declares that it is, mediately, an object of human desire.
-
 <div class="pgmark">original p. 503</div>
 
 ### "Prāptārtha-bodha iti" (Sutra 9) — "By Mastering the Text, Knowledge of the Meaning [Is Produced]"
@@ -14514,14 +13440,6 @@ He further declares that mastery of the syllables is, mediately, a genuine human
 **A genuinely sharp counter-objection follows:** just as with eating — we eat because we know it satisfies hunger, with no separate injunction needed to eat — why isn't Vedic study the same? Why not simply say we study *because* it lets us understand the Veda, and understanding it, we perform the commanded yajnas and reap their reward — without needing to treat the *study itself* as independently commanded by scripture? Since this fruit (understanding, leading to yajna, leading to reward) is not directly observable at the moment of study itself, and study proceeds under specific rules and constraints, why should it need separate scriptural authority at all?
 
 **Sayana's answer:** where a fruit is directly observable, no injunction is needed; no one desires an unseen fruit for its own sake. Therefore, an injunction becomes necessary precisely to establish an unseen (adṛṣṭa) fruit — and for no other reason. A parallel example: pounding rice for a yajna with the specific mantra-accompanied method (avaghāta) is itself a case of unseen-fruit dependency — the rice could be dehusked in any number of ways to serve merely as food, but rice prepared other than by this exact prescribed method cannot be used in the yajna. The prescribed method itself carries the unseen fruit; ordinary efficient dehusking does not.
-
-**Embedded English translation, as given in the source:**
-
-> By mastering the text knowledge of the meaning.
->
-> Supply "is produced."
->
-> You will perhaps say, why should it not be with studying the Veda as it is with eating food. We eat food because we know that if we eat, we shall be satisfied, and if we do not eat, we shall be hungry. So with the Veda. Why not say that we study it because only so can we understand it, and, understanding it, perform the sacrifices commanded, and reap the reward? Why insist on the study of the Veda being in itself matter of Scriptural injunction? In answer to this he shows that the injunction referred to looks to the spiritual reward which accrues from the thing being done in the way prescribed, and in no other. As in the case of tue rice for the sacrifice, which must be pounded in a mortar and not husked in any other way.
 
 <div class="pgmark">original p. 504</div>
 
@@ -14541,19 +13459,9 @@ As for the objection to ceremonial perfection as study's visible result — that
 
 **Sutra's meaning:** since the yajna-injunctions and the study-injunction are jointly connected through their shared practical application, ceremonial refinement (saṃskāra) stands firmly established as study's own observable fruit — because sacrificial injunctions themselves remain incomplete without knowledge of their surrounding circumstances (which specific fruit each rite yields, and similar details), and this required knowledge is precisely what the sacred text, properly and refinedly mastered through study, supplies.
 
-**Embedded English translation, as given in the source:**
-
-> Because the injunction must needs have fulfilment.
->
-> As for the objection taken to ceremonial perfection as one visible immediate result of the Veda, namely, that a ceremonially perfect text is nowhere called for in the ritual, but only this or that text, his answer is in the next sutra.
->
-> Ceremonial perfection is established as one visible immediate result of the study of the Veda by reading together the injunctions about sacrifice, and this one which enjoins the study of Scripture.
->
-> The injunctions about sacrifices are not complete without knowledge of the circumstances of each, such as the particular fruit to be gained by each, and the like. For this knowledge they refer to the sacred text. On the other hand, the injunction to learn that...
-
 <div class="pgmark">original p. 505</div>
 
-...text by repetition, expressly excluding, as it does, such other methods as reading from a written text, clearly indicates that a certain ceremonial perfection must attach to the text which the student must know if he is to fully understand the application of the sacrifices. Take the two sets of injunctions together, and it becomes clear that the Scripture, which every man born again is bound to possess, must be a ceremonially perfect Scripture.
+text by repetition, expressly excluding, as it does, such other methods as reading from a written text, clearly indicates that a certain ceremonial perfection must attach to the text which the student must know if he is to fully understand the application of the sacrifices. Take the two sets of injunctions together, and it becomes clear that the Scripture, which every man born again is bound to possess, must be a ceremonially perfect Scripture.
 
 **A genuinely important twist now emerges:** ceremonial perfection turns out to be, in its own way, a *spiritual* reward — and one that accrues not to the text studied, but to the person studying. Because the affix "tavya" itself denotes spiritual merit attaching to an act, further specified by its root — here, "studied." How, then, can this be mere ceremonial perfection of the text?
 
@@ -14567,25 +13475,11 @@ As for the objection to ceremonial perfection as study's visible result — that
 
 **Sutra's meaning:** knowing the injunctions for yajnas and similar rites in full detail — timing, manner, correct mantras, and their respective fruits — requires studying them directly, heard sequentially from a guru's own mouth (never from a written text, per the study-injunction's own restriction, which is what "svādhyāya" specifically requires). (For the meaning of *apūrva* the source refers to the Jaiminīya-nyāya-mālā-vistara, A. 2 Pā. 1 Sū. 1 to 4.) Combining these heard injunctions makes clear that a genuine saṃskāra results. **But this saṃskāra is itself an unseen (adṛṣṭa) fruit — and it belongs to the person who studies, not to the text studied.** This is because the "tavya" affix denotes a special quality (apūrva) generated in the agent through the act, not in the object. (For a fuller technical treatment of "apūrva," see the Jaimini-nyaya-mala-vistara, third adhyaya, first pada, sutras 1–3.) The next sutra answers the implication that follows from this.
 
-**Embedded English translation, as given in the source:**
-
-> text by repetition, expressly excluding, as it does, such other methods as reading from a written text, clearly indicates that a certain ceremonial perfection must attach to the text which the student must know if he is to fully understand the application &c. of the sacrifices. Take the two sets of injunctions together, and it becomes clear that the Scripture, which every man born again is bound to possess, must be a ceremonially perfect Scripture.
->
-> But ceremonial perfection is peculiarly a spiritual reward. And it does not accrue to the thing studied but to the man studying. For the suffix "tavya" ("should be") denotes the spiritual merit of some act, which is then more closely defined by the root to which it is attached ("studied"). That being so, how can there be this ceremonial perfection of the text you speak of? He answers in the next sutra.
->
-> "Tavya" denotes spiritual merit attaching to the object of the sentence.
->
-> The affix "tavya" denotes the object studied as well as the act of studying, and the former is the nearer meaning, and accordingly the affix denotes here a spiritual result attaching to the Veda itself.
-
 <div class="pgmark">original p. 506</div>
 
 **Sutra's meaning:** the "tavya" affix expresses the unseen entity (**अपूर्व** *apūrva*) attaching to the object (karma), not the agent. Though "tavya" grammatically expresses both the object and the studying agent, its primary sense points toward the object's side — hence this affix indicates an apūrva connected specifically to the Veda (as object), not to the person. One might object that agent-connected apūrva could equally arise from the verbal root itself — but no rule forbids it arising from the affix instead, so it may indeed arise from "tavya."
 
 **Resolving the earlier "part of another thing" objection:** this principle doesn't apply here — mantras' own apūrva-quality arises independently, needing no separate justification. The apūrva indicated here belongs to the Veda itself. A fruit already exists for the studying person (understanding the text's meaning) — but positing apūrva as a further additional fruit only strengthens, rather than weakens, the text's overall authority, as the next sutra explains.
-
-**Embedded English translation, as given in the source:**
-
-> As to the objection that what is part of something else is not authoritative as regards its own meaning that does not apply here Mantras whose spiritual reward follows immediately on their utterance are properly enough described so. Their meaning is of no importance. But here the spiritual reward attaching to this injunction as a text of Scripture is linked to the study which it enjoins. That study has itself an immediate visible result in the shape of the understanding of the meaning,—an understanding which flows out of the words. But when a result is present it is against the general principle to supply one. The spiritual benefit therefore must be held to further, not prevent, that understanding of Scripture which is the direct result of the study here enjoined. This is the meaning of the next sutra.
 
 <div class="pgmark">original p. 507</div>
 
@@ -14602,16 +13496,6 @@ As for the objection to ceremonial perfection as study's visible result — that
 > In that sentence there is no other remedy but to abandon the natural construction. It is not so here."
 
 **Sutra's meaning:** since the plain, natural meaning already works perfectly well, there's no need to posit an alternative interpretation as was necessary in the saktu-example. In "saktūn juhoti," the natural (accusative) sense simply didn't work grammatically, forcing an instrumental reinterpretation. But here, no such forcing is required — the natural sense already yields a coherent result.
-
-**Embedded English translation, as given in the source:**
-
-> The spiritual benefit does not in this case accrue immediately on the utterance of the text, and there is therefore not that bar to the communication of the meaning being accepted as one immediate visible result of the study of the text of Scripture.
->
-> As to the argument that this is a case of a text whose spiritual benefit is immediately connected with it, because the suffix "tavya" in the word "adhyetavyah" gives up its natural reference to the object, as "saktun" does in the sentence "saktun juhoti," his answer is in the next sutra.
->
-> The natural meaning gives a good sense, and there is therefore no occasion to force the construction as in the sentence referred to.
->
-> In that sentence there is no other remedy but to abandon the natural construction. It is not so here.
 
 <div class="pgmark">original p. 508</div>
 
@@ -14630,17 +13514,9 @@ Having thus established that Vedic study has an immediate, visible result — th
 
 **Sutra's meaning:** injunction exists precisely to bring about a person's well-being — this is its very purpose, and the benefit ultimately reaching the person is what should govern its stated meaning. Both Kumārila Bhaṭṭa and Prabhākara Guru hold that the study-injunction's own purpose isn't merely mechanical memorization of the Veda — it extends to actually understanding the text's meaning and thereby obtaining the well-being that flows from that understanding. On this specific point, the two rival schools (Bhāṭṭa and Guru-mata) genuinely agree.
 
-**Embedded English translation, as given in the source:**
-
-> Having thus proved that the study of the text of the Veda has an immediate, visible result in view, namely, the mastery by the pupil of that text, he now goes on to confute the idea that the authority of the Scripture injunction, in virtue of which the student enters upon the study of the text, extends to the interpretation thereof. And first he sets out the view to be controverted.
->
-> Both the Bhatt and the Guru hold that the determination of the meaning is contemplated by this injunction of Scripture, for the reason that all such injunctions must stretch up to some object of human desire.
->
-> Kumarilabhatta and Prabhakaraguru agree in thinking that, inasmuch as each and every injunction of Scripture must extend to some object of human desire, the determination...
-
 <div class="pgmark">original p. 509</div>
 
-...of the meaning of the Veda, to which, and not to the text, the fruit of the blessings obtained by performing the commanded sacrifices is attached, must be held to be contemplated by the injunction to study the text.
+of the meaning of the Veda, to which, and not to the text, the fruit of the blessings obtained by performing the commanded sacrifices is attached, must be held to be contemplated by the injunction to study the text.
 
 But, it will be said, merely going over the text of Scripture, once or repeatedly, need not by itself result in knowledge of its meaning. Both schools grant this, and therefore hold that the study-injunction must, to be properly fulfilled, be understood to include study of the **Mimamsa shastra** itself, by which the Veda's meaning is actually determined.
 
@@ -14668,20 +13544,6 @@ But isn't it a universal rule that a scriptural injunction incites only to what 
 
 **A genuinely illuminating example:** the injunction "one should strike the rice" literally requires only a single pestle-blow to satisfy its words — yet since a single blow can never actually husk the rice (the real goal), *repetition*, though never explicitly commanded, is implicitly required by the injunction's own practical purpose. By this same logic, though "study the Veda" doesn't explicitly mention Mimamsa-shastra, since genuine understanding of the Veda's meaning (the injunction's real purpose) is practically unreachable without it, studying Mimamsa is implicitly included.
 
-**Embedded English translation, as given in the source:**
-
-> of the meaning of the Veda, to which, and not to the text, the fruit of the blessings to be obtained by performing the sacrifices commanded there is attached, must be held to be contemplated by the injunction to study the text.
->
-> But, it will be said, the mere going over the text of Scripture, whether once or oftentimes, need not result in a knowledge of the meaning. They grant that, and hold therefore that the injunction to study the text must, that it may be fulfilled, be held to include a study of the Mimansa shastra, by which the meaning of the Veda is determined.
->
-> Let the injunction include the Mimansa.
->
-> But is it not a universal restriction that an injunction of Scripture can be taken as inciting to only what it expressly enjoins, or what is immediately subservient thereto. And if that be so, how can you say that the injunction to study the text of the Veda includes the study of the Mimansa shastra, which is neither the one nor the other?
->
-> An injunction may include something which is neither expressly enjoined nor subservient to what is expressly enjoined, as, for example, the repetition of the act of striking the rice.
->
-> The text "vrihin avahanti" enjoins striking the rice with a pestle, but not the repetition of that act. For that is no part of the meaning of the root. Nor can the repetition of the act be described as subservient to the thing expressly enjoined. For without any such repetition the striking of the rice, which is all that is expressly enjoined, can be accomplished by a single blow of the pestle. Nevertheless, since the rice cannot be husked—the result...
-
 <div class="pgmark">original p. 510</div>
 
 **Sutra's meaning:** whatever isn't explicitly stated in an injunction, but is genuinely connected to fulfilling its real purpose, should be understood as implicitly included — just as the **अवघातविधि** (*Avaghāta-vidhi*, rice-pounding injunction) implicitly requires repetition, though this is never explicitly stated. A single pestle-strike would technically satisfy the literal words, but since it can never actually husk the rice, repeated striking is understood as the injunction's genuine intent. The same reasoning applies to Vedic study.
@@ -14689,12 +13551,6 @@ But isn't it a universal rule that a scriptural injunction incites only to what 
 **A further counter-objection:** granted that mere study of the Veda's *text* alone doesn't guarantee understanding its meaning — but what if a student reads not just the Veda, but Grammar and the other Angas (auxiliary disciplines) as well? Wouldn't that alone suffice to understand meaning, making Mimamsa study genuinely unnecessary for such a person — and therefore not something the injunction could be said to require?
 
 **Sayana's reply:** even so, Mimamsa-shastra remains necessary — specifically to resolve genuine doubts that may still arise regarding the Veda's meaning, doubts that Grammar and the other Angas alone cannot settle.
-
-**Embedded English translation, as given in the source:**
-
-> required—without such repeated striking, the injunction includes that repetition. It is the same in the case before us.
->
-> But, it may be said, granted that the mere study of the text of the Veda need not result in a knowledge of the meaning. Yet, if a man read not only the Veda itself, but Grammar and the other Angas, he will understand the meaning. The Mimansa is useless for such an one, and the injunction must not be said therefore to contemplate the Mimansa. To this he replies that even then the Mimansa shastra is needed to solve doubt that may arise with regard to the meaning.
 
 <div class="pgmark">original p. 511</div>
 
@@ -14723,16 +13579,6 @@ Even one who studies the Veda together with its six Angas may grasp the Veda's m
 
 **Sutra's meaning:** people desire cows and similar animals for the sake of the milk, curds, and other products they yield — not for keeping the cow itself. In the same way, obtaining the genuine human-aim that flows from understanding the Veda's meaning and performing its described acts is the true purpose behind Vedic study — but the study-*injunction* itself, properly understood, extends only as far as mastering the text (which serves as the *cause* of that understanding), and no further. Text-mastery is thus a genuine, if mediate, human aim in its own right — and this is where the study-injunction's own scope properly ends.
 
-**Embedded English translation, as given in the source:**
-
-> Granted that knowledge of the meaning may result from the study of the Veda with its Angas, the Mimansa removes doubts as to the meaning.
->
-> And now he establishes the true doctrine.
->
-> The mastery of the text is an object of human desire as, for example, cows are, and the injunction to study the text therefore goes no further than that.
->
-> Milk is the thing desired, and for its sake cows which give milk are also sought after by men. And so with other things of the same kind. Here the final object of desire is, it is true, attached to the knowledge of the meaning of the Veda, by which we are enabled to perform sacrifices and the like rightly. But the mastery of the text is a cause of this knowledge of the meaning, and is therefore itself an object of human desire. We must accordingly conclude that the injunction to study the text of the Veda ends with this mastery of the text.
-
 <div class="pgmark">original p. 512</div>
 
 A person seeks a cow for its milk; similarly, one seeks other things for the benefit they yield. The same applies to Vedic study — its main purpose is: learning the Veda, understanding its meaning, performing the acts it describes, and thereby obtaining the resulting well-being. For this, memorizing the Veda by heart is itself a necessary means. By memorizing the Veda — the very cause of well-being — one fulfills the study-injunction. This raises a question: doesn't this complete one's duty? Memorization is itself a genuine means to a human aim, yielding its own fruit — but the deeper purpose (understanding meaning, performing rites) remains a *further* end, of which memorization is merely the instrumental means, a component within the larger goal.
@@ -14755,16 +13601,6 @@ A person seeks a cow for its milk; similarly, one seeks other things for the ben
 > He shows that his own view is not exposed to this objection."
 
 **Sutra's meaning:** if study is held to extend all the way to complete understanding and successful ritual application, only those portions of the Veda directly useful to whichever specific rite one personally intends to perform could ever justify being studied — making comprehensive Vedic study impossible. (This concludes the objection.)
-
-**Embedded English translation, as given in the source:**
-
-> But it may be said, if the mastery of the text is in this way an object of human desire, only inasmuch as it subserves that knowledge of the meaning to which the real fruit is attached, then that knowledge is a chief object of desire, and the mastery of the text, as an object of desire, must be held to be subordinate to it. Why, then, should not the injunction be stretched so far? To this he says—
->
-> If the injunction is taken to extend to the fruit-bearing knowledge, the Veda would never be read as a whole.
->
-> For what is the fruit of the knowledge of the meaning? It is the performance of the sacrifice. That being so, the brahmin whose business it might be to perform the Brihaspatisava rite, let us say, would study the texts for that rite only. He would not study the text for, let us say, the Rajasuya sacrifice. For beginning, carrying on, and concluding that sacrifice would mean no reward to him. And so with others.
->
-> He shows that his own view is not exposed to this objection.
 
 <div class="pgmark">original p. 513</div>
 
@@ -14794,19 +13630,9 @@ The purpose of understanding the Veda's meaning is to perform the rites it descr
 > ननु बोधस्य विधिफलत्वे बोधकाममुद्दिश्य विधातुं शक्यत्वात्सुलभोऽधिकारी स्यादित्याशङ्क्य प्राप्तिपक्षेऽपि प्राप्तिकाम…
 > *nanu bodhasya vidhiphalatve bodhakāmam uddiśya vidhātuṃ śakyatvāt sulabho'dhikārī syād ity āśaṅkya prāptipakṣe'pi prāptikāma…* (continues on p. 514; sūtra, printed ॥ ८ ॥, and bhāṣya added from the better scan in the [?] pass)
 
-**Embedded English translation, as given in the source:**
-
-> The mastery of the whole text of the Veda is required for that recitation of the whole in which the spiritual sacrifice consists.
->
-> Nor need you doubt and say that if the injunction be not taken to extend to the knowledge of the meaning, such knowledge will not be obtained at all. It is the nature of words establishing a doctrine to inform us with regard to that which is to be established, and so we see in every-day life the words of weighty men instructing us without any injunction of Scripture to that effect. It is so here, he says.
->
-> The text instructs of its own accord as in the case of every-day talk.
->
-> The next objection that occurs to him is this. If we take the reward contemplated by the injunction to lie in a knowledge of the meaning, then the injunction applies to every...
-
 <div class="pgmark">original p. 514</div>
 
-...man who desires to know that meaning, and is not liable to non-fulfilment on account of the absence of any one qualified to fulfil it (for he who desires to know the meaning is ipso facto so qualified).
+man who desires to know that meaning, and is not liable to non-fulfilment on account of the absence of any one qualified to fulfil it (for he who desires to know the meaning is ipso facto so qualified).
 
 **Sutra's meaning:** just as in ordinary speech a specific meaning is naturally conveyed, so too the injunction fully conveys its own intended primary meaning.
 
@@ -14825,14 +13651,6 @@ The purpose of understanding the Veda's meaning is to perform the rites it descr
 
 This raises a genuinely elegant epistemological dilemma: desire, by its very nature, can only take a *known* object as its target — one cannot coherently desire something one has no conception of at all. So the meaning to be gained through study is either already known beforehand (in which case there's nothing left to desire), or genuinely unknown (in which case it cannot be desired at all, since one cannot desire the wholly unknown). Either way, "desire to understand the Veda's meaning" collapses as a coherent basis for the study-injunction's purpose.
 
-**Embedded English translation, as given in the source:**
-
-> man who desires to know that meaning, and is not liable to non-fulfilment on account of the absence of any one qualified to fulfil it (for he who desires to know the meaning is ipso facto so qualified). He might have pointed out that on the other view, that in which the mastery of the text is held to be the reward contemplated by the injunction, there is as little difficulty, since every brahmin boy, eight years old, who has been invested with the sacred thread, desires this mastery of the text, and is therefore ipso facto duly qualified to carry out the injunction. But that is such an obvious retort that he passes it by, and prefers to take the objection that this desire to know the meaning relied on by his opponent does not exist.
->
-> The meaning to be learned was either already known or not before the study of the text which is enjoined. In either case it cannot be an object of desire.
->
-> If the meaning of Vedic passages about the agnihotra and other sacrifices be already known from parental instruction as is the case with the knowledge of the evening rite and the like, then, as the knowledge is there already, it cannot be an object of desire. If it be not known, it cannot be desired. Desire is limited to an object which is known.
-
 <div class="pgmark">original p. 515</div>
 
 You will perhaps say that a thing may be known in a general way, and yet there be desire to know it more particularly — or that even with regard to a matter known in all its particulars through parental instruction, there may still be desire to know it *authoritatively* (confirmed through scripture). Even granting this, Sayana holds that referring this injunction to knowledge-of-meaning remains impossible.
@@ -14847,14 +13665,6 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 > The reference could not include the knowledge of each and every sacrifice such as the agnihotra. For they are endless, and if the reference were made general, the reward of the injunction would have to be made general also. It could not lie in a particular kind of knowledge. Therefore such a reference is unsuitable."
 
 **Sutra's meaning:** the desire underlying the study-injunction cannot coherently refer to knowledge of every single specific rite (agnihotra and countless others), since these are effectively endless; and if the reference were made general instead, the injunction's reward would likewise become merely general, never landing on any specific piece of knowledge at all. Either way, positing "desire to understand meaning" as the injunction's basis fails to hold up.
-
-**Embedded English translation, as given in the source:**
-
-> You will perhaps say that a thing may be known in a general way, and yet there be the desire to know it more particularly. Or that even with regard to a matter which is known in all its particulars, but our knowledge of which is due to the instruction of our parents, guardians and the like, there may yet be a desire to know it authoritatively. Even so he holds that any reference of this injunction to a knowledge of the meaning is impossible.
->
-> Because the reference is unsuitable.
->
-> The reference could not include the knowledge of each and every sacrifice such as the agnihotra. For they are endless, and if the reference were made general, the reward of the injunction would have to be made general also. It could not lie in a particular kind of knowledge. Therefore such a reference is unsuitable.
 
 <div class="pgmark">original p. 516</div>
 
@@ -14872,14 +13682,6 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 
 **Sutra's meaning:** the intended meaning can be surmised directly from the force of the words themselves. If study's sole purpose were mere recitation (without regard to meaning), then studying the Veda expressly *in order to* understand its meaning would become pointless in the world. But this isn't so: merely learning the text isn't sufficient — understanding its meaning is genuinely necessary too, since doubts like "the Vedas were composed by human authors" are resolved only with the help of Mimamsa-shastra.
 
-**Embedded English translation, as given in the source:**
-
-> But here a doubt arises. If there be no recitation of the Veda with a reference to the meaning, how shall its purport be known? As to this, he points out that the purport is to be established by the force of the words.
->
-> The purport from the words. (Reading by conjecture.)
->
-> If you conjecture the meaning of the Veda without studying it, then to learn the text of the Veda with the intention of knowing its meaning would be useless in this world. But it is not so. Learning the text of the Veda is not enough, but to know its meaning is also necessary, because such doubts as the Vedas are composed by men and the like will vanish with the help of Mimamsa Sastra.
-
 <div class="pgmark">original p. 517</div>
 
 **But this cannot mean word-recitation without meaning is useless** — for grasping meaning without recitation is equally impossible. If mere recitation sufficed on its own, resolving doubts about the Veda itself (human authorship, non-eternality, and similar) would become impossible, and the entire Vichara-shastra (Purva-Mimamsa) would become pointless.
@@ -14896,16 +13698,6 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 
 **This is a genuinely elegant argument:** as one studies the Veda together with its Angas, one naturally encounters the various sacrificial injunctions — but these injunctions cannot actually be carried out without first resolving the genuine interpretive difficulties they raise. This practical necessity is precisely what draws the careful study of Mimamsa into the picture — not because the original study-injunction directly commands it, but because it is unavoidably implied by what full compliance with the *later* sacrificial injunctions actually requires.
 
-**Embedded English translation, as given in the source:**
-
-> If one repeats Veda with the intention to learn the text and to know its meaning, such repetition will remove one's sins in this world.
->
-> But if the injunction to learn the text of the Veda does not extend to a knowledge of the meaning there will be no scope for the Mimansa shastra, since there will be nothing to spur a man on to that. Not so.
->
-> The Mimansa has the place because it rests on later injunctions.
->
-> The injunctions which teach the various sacrifices meet us as we study the Veda with its Angas. But without decisive knowledge founded on a removal of all the difficulties which present themselves, these injunctions cannot be carried out. They therefore imply a careful consideration of sacrifices (the Purva Mimansa) for the resolution of doubts with...
-
 <div class="pgmark">original p. 518</div>
 
 **Sutra's meaning:** the injunction that follows makes the Vichara-shastra necessary. Injunctions concerning ritual-portions (kratu) appear scattered throughout Vedic study — but merely knowing the bare injunction, without grasping the Veda's meaning, cannot resolve their mutual contradictions or genuine doubts, nor yield the decisive knowledge needed for actual performance. Purva-Mimamsa-shastra therefore becomes necessary precisely for this purpose — resolving meaning-doubts and enabling correct ritual performance.
@@ -14913,10 +13705,6 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 **A genuinely sharp counter-objection follows:** the "Uttara Mimamsa" (the investigation into Brahman) is reached simply through hearing its own relevant injunction ("one should inquire into Brahman") — no help from Purva-Mimamsa is needed there. So the injunction to *hear* naturally incites toward its own expressly enjoined object, and sacrifice-injunctions likewise incite toward what is subservient to them. But if the study-injunction is held to extend all the way to the *sense* of the words — reaching, through that sense, all the way to actual sacrifice-performance — then the specific injunctions commanding particular sacrifices become entirely superfluous, since sacrifice-performance would already follow automatically from the general study-injunction alone.
 
 > "The injunction to hear expressly commands an investigation of Brahma (the Uttara Mimansa). Things being so, you must see that it is only right that the injunction to hear should incite a man to what is in it expressly enjoined, and the injunctions as to sacrifices incite him to what is subservient to that. But your view would make the injunction as to sacrifice of no effect. For if the injunction to study the Veda extends to the sense of the words, then through the sense the injunction will run up to the performance of the sacrifice, and the performance of the sacrifice being thus obtained from this injunction, the specific injunction to perform the sacrifice is superfluous and useless."
-
-**Embedded English translation, as given in the source:**
-
-> regard to them. The injunction to hear expressly commands an investigation of Brahma (the Uttara Mimansa). Things being so, you must see that it is only right that the injunction to hear should incite a man to what is in it expressly enjoined, and the injunctions as to sacrifices incite him to what is subservient to that. But your view would make the injunction as to sacrifice of no effect. For if the injunction to study the Veda extends to the sense of the words, then through the sense the injunction will run up to the performance of the sacrifice, and the performance of the sacrifice being thus obtained from this injunction, the specific injunction to perform the sacrifice is superfluous and useless.
 
 <div class="pgmark">original p. 519</div>
 
@@ -14938,16 +13726,6 @@ If Vichara-shastra study were obtained purely through the study-injunction, that
 > But if you mean the second, we reject that altogether."
 
 **Sutra's meaning:** kratu-vichara (investigation into yajnas and similar ritual acts) is a duty binding only on the three [twice-born] classes — obligatory, not optional; failing to undertake it brings pratyavāya (transgression, sin). On this specific point — that rite-investigation belongs only to the three classes — both sides genuinely agree; there's no disagreement here. **But Brahma-vichara (inquiry into Brahman) is different**, as the next sutra explains.
-
-**Embedded English translation, as given in the source:**
-
-> You will perhaps say that the injunction to study the Veda is binding on the three higher classes and on them alone, and that it is only by basing the obligation to consider the meaning on that injunction that we can obtain for that duty an exactly similar compulsion and restriction. Do you want such for the investigation into sacrifices or for the investigation into Brahma? If the first, it is as much a matter of established doctrine with us as with you.
->
-> Therefore this investigation into sacrifices is compulsory, but only in the case of the three higher classes.
->
-> "Therefore" because the evils attendant on a neglect to study the Veda have been set out.
->
-> But if you mean the second, we reject that altogether.
 
 ## Chapter 15. Censure of One Who Studies Without Knowledge of the Veda's Meaning, and Praise of Such Knowledge
 
@@ -14974,16 +13752,6 @@ That is: whatever fruit one might hope for, a brahmin must study the Veda togeth
 
 **Two texts from another Shakha**, cited by Yaska the author of the Nirukta, incite people toward studying the Veda's meaning: "Here follows the praise of knowledge and the censure of ignorance:—"
 
-**Embedded English translation, as given in the source:**
-
-> The investigation into Brahma is for the Sannyasi alone.
->
-> In his task.
->
-> The injunction to study the Veda, therefore, goes no further than the letter of Scripture. But you are not to suppose that a knowledge of the meaning is not also enjoined. It is, but in another text. "A brahmin must be able to repeat and must understand the meaning of disinterested virtue in the shape of the Veda with its six Angas." By the word "disinterested" the idea that the one or other duty is matter of desire (so that there might be brahmins who wish them, and are therefore qualified) is barred.
->
-> There are two texts from another Sakha inciting men to a study of the meaning of the Veda which Yaska, the author of the Nirukta, cites as follows: "Here follows the praise of knowledge and the censure of ignorance:—
-
 <div class="pgmark">original p. 521</div>
 
 A brahmin cannot study according to personal preference — it is simply his obligatory duty. Therefore, Vedic study and understanding its meaning are both nitya (obligatory), never kāmya (optional). Yaska, the Nirukta's author, cites two verses from another Shakha that motivate people toward understanding meaning — verses praising knowledge and censuring ignorance:
@@ -15005,14 +13773,6 @@ These two mantras comprise four half-mantras. Of these, the half-mantra "yo'rtha
 
 > yo'rthaṃ jānāti so'yam iha loke sakalaṃ śreyaḥ prāpnoti | tathā tena jñānena pāpakṣaye sati mṛtaḥ svargaṃ prāpnoti | tad etad aihikāmuṣmikaṃ ca jñāna-phalaṃ taittirīyā mantropodāharaṇena tad-īyatāt paryābhidhāyi-brāhmaṇena ca smṛti-lekhuḥ | tad eṣābhyukta | yo'rvāṅ uta vā purāṇo vedaṃ vidyāṃ samabhito vadaṃs tān āditya eva te pariṇadanti | sarve agniṃ dvitīyaṃ tṛtīyaṃ ca haṃsam iti | yāvatīr vai devatāḥ sarvā vedavidi brāhmaṇe vasanti | tasmād brāhmaṇebhyo vedavidbhyo dive dive namaskuryān nārhalīlaṃ kīrtayet — etā eva devatāḥ prīṇāti (Taittiriya Aranyaka 2-15)
 
-**Embedded English translation, as given in the source:**
-
-> "He is a mere post holding up a weight who learns the Veda but does not understand the interpretation thereof: he who knows the meaning of the Veda wins every good thing; his sins are destroyed by that knowledge, and he goes to heaven.
->
-> "The Veda learnt and recited but not understood is dry fuel thrown upon ashes; it will never blaze up."
->
-> These two mantras make four half mantras. Of these the half mantra "yo arthajna" &c.," eulogises the knowledge of the meaning of the Veda. In the other three half mantras the want of that knowledge is blamed. He who knows the meaning of the Veda obtains in this world all good things. And when he dies, his sins having been destroyed by that knowledge, he wins to heaven. The Taittiriyas quote a mantra and an interpretative brahmana, which clearly teach this doctrine of the rewards in both worlds accruing to a...
-
 <div class="pgmark">original p. 522</div>
 
 **The mantra is as follows:**
@@ -15030,15 +13790,9 @@ These two mantras comprise four half-mantras. Of these, the half-mantra "yo'rtha
 
 The passage further establishes that merely reciting without understanding does not confer these benefits: one who does not truly comprehend the Veda's meaning is like a mere pillar bearing a load. Nor does mere recitation alone attain heaven or accomplish worldly success — the honour, worship, and material support extended to such a mere reciter yield correspondingly little.
 
-**Embedded English translation, as given in the source:**
-
-> man who knows the meaning of the Veda. The mantra is as follows:—"Ye arvan uta va purane vedam vidvansam abhito vadantyadityam eva te parivadanti sarve 'gnim dvitiyam tritiyam cha hansam." This is explained as follows:—All the gods that are dwell in the brahmin who knows the Veda. Therefore a man should do daily honors to brahmins who know the Veda, and speak no harsh word to them. Thus shall he please all the gods
->
-> By knowing the Veda here is meant versed in the meaning of the Veda. Two classes of persons may be meant. The knower of the Veda may be a teacher of modern times well versed in all fourteen sciences: or he may be one of the men of old such as, for example,
-
 <div class="pgmark">original p. 523</div>
 
-...Vyasa. The men who, drunk with the pride of their learning, or their wealth, or their high birth, and believing themselves to be wise, revile a knower of the Veda of either kind, revile, firstly, Aditya, and after Aditya, Agni, and after Agni, Hansa. "Hansa" here is a name of Vayu, so called because he is always in motion ("hanti").
+Vyasa. The men who, drunk with the pride of their learning, or their wealth, or their high birth, and believing themselves to be wise, revile a knower of the Veda of either kind, revile, firstly, Aditya, and after Aditya, Agni, and after Agni, Hansa. "Hansa" here is a name of Vayu, so called because he is always in motion ("hanti").
 
 That he who knows the Veda bears the form of Agni, Vayu, and Aditya is revealed in a text of Scripture: "He has fellowship, it is said, with Agni, Vayu, and Aditya." But—
 
@@ -15053,12 +13807,6 @@ Of the two mantras above, the portion beginning "yo'rthajña..." praises the inv
 >
 > "Whoever — whether of recent or of ancient times — speaks all around against one learned in the Veda, truly all such men are reviling Aditya himself; and Agni as the second; and Hamsa as the third."
 
-**Embedded English translation, as given in the source:**
-
-> Vyasa. The men who, drunk with the pride of their learning, or their wealth, or their high birth, and believing themselves to be wise, revile a knower of the Veda of either kind, revile, firstly, Aditya, and after Aditya, Agni, and after Agni, Hansa. Hansa here is a name of Vayu, so called because he is always in motion (hanti).
->
-> That he who knows the Veda bears the form of Agni, Vayu and Aditya is revealed in a text of Scripture. "He has fellowship, it is said, with Agni, Vayu, and Aditya." But
-
 <div class="pgmark">original p. 524</div>
 
 > यावतीर्वै देवताः सर्वा वेदविदि ब्राह्मणे वसन्ति । तस्माद्ब्राह्मणेभ्यो वेदविद्भ्यो दिवे दिवे नमस्कुर्यात् । नार्थलीलं कीर्तयेत् । एता एव देवताः प्रीणाति ॥
@@ -15072,15 +13820,11 @@ All deities reside within the brahmin who has studied the Veda and understood it
 
 **Note on terminology:** the word "vedavid" used in the original means specifically one who has studied the Veda *and understood its meaning* — that is, one who genuinely comprehends the Veda's sense. Such knowers are of two kinds: (1) contemporary ones — teachers skilled in all fourteen sciences (vidyā-sthānas) of the present age; and (2) ancient ones — Vyasa and similar rishis of former times. Both alike deserve honour.
 
-**Who is disqualified from such honour:** those who, though not genuinely learned, become proud through mere book-learning (vidyā-mada), or through wealth (dhana-mada — believing no one equals them in prosperity), or through birth (kula-mada — believing themselves born in the highest lineage) — such arrogant persons, though they may have studied all the shastras, and who then revile these two classes of Veda-knowers (whether modern or ancient) in various ways...
-
-**Embedded English translation, as given in the source:**
-
-> not these three gods only, all the others too, dwell in the man who knows the Veda. Therefore every day a man should do honour to such brahmins knowing the Veda as he sees before him, or has cause to remember. Should he even see a fault in them, he must not proclaim that abroad. By such reverence he will propitiate all the gods, who are nothing but these very meanings of the mantras present in the heart of him who knows and remembers them. Let it not be supposed that this result, that of propitiating all the gods, might attach to the mere study of the words of the Veda. Not "student of the words," but "knower of the Veda" is what Scripture means. Otherwise the expression would have been "vedam adhiyanam." He who knows the meaning of the Veda, then, is to be held in honour by all living beings, who are to see in him an incarnation of all the gods. So it is rightly said that such a one is blessed both for this life and for that to come.
+**Who is disqualified from such honour:** those who, though not genuinely learned, become proud through mere book-learning (vidyā-mada), or through wealth (dhana-mada — believing no one equals them in prosperity), or through birth (kula-mada — believing themselves born in the highest lineage) — such arrogant persons, though they may have studied all the shastras, and who then revile these two classes of Veda-knowers (whether modern or ancient) in various ways —
 
 <div class="pgmark">original p. 525</div>
 
-...they censure them. In this way, one who censures first incurs the sin of censuring Aditya; through that, he incurs the sin of censuring Agni; and beyond that, the sin of censuring Vayu ("Hamsa"), so called because he is always in motion.
+They censure them. In this way, one who censures first incurs the sin of censuring Aditya; through that, he incurs the sin of censuring Agni; and beyond that, the sin of censuring Vayu ("Hamsa"), so called because he is always in motion.
 
 **Why does censuring a Veda-knower amount to censuring Aditya, Agni, and Vayu?** Because scripture states that one who has understood the Veda's meaning becomes of the very nature of Aditya, Agni, and Vayu—
 
@@ -15093,12 +13837,6 @@ All deities reside within the brahmin who has studied the Veda and understood it
 **In contrast:** one who studies the Veda without understanding its meaning merely carries a load. "Like a post" (sthāṇu) in the text is a simile — "post" meaning the dry, branchless stump of a tree: just as it is fit only to be burned as fuel and will never again bear flower or fruit, so he who merely recites the Veda without comprehension will not, indeed, be outcasted — but that is all. The performance of the sacrifice, and heaven, are not his fruit.
 
 The word "kila" in the text indicates that what is said is a matter of common knowledge. Even in ordinary experience, we see that the brahmin versed in the Veda's meaning receives greater honour — in the form of gifts and the like — than the mere reciter.
-
-**Embedded English translation, as given in the source:**
-
-> But the man who learns the Veda, and does not understand the interpretation thereof, merely carries a load. "Like a post" in the text is a simile. Post means the dry branchless stump of a tree. As that is fit only to be burned as fuel, and will never again bear flower and fruits; so he who merely recites the Veda will not, indeed, be outcasted, but that is all. The performance of the sacrifice, and heaven is its fruit are not for him.
->
-> The word "kila" in the text indicates that what is said is matter of common knowledge. Even here we see that the brahmin versed in the meaning of the Veda gets greater honour in the shape of gifts and the like than the mere reciter.
 
 <div class="pgmark">original p. 526</div>
 
@@ -15117,18 +13855,6 @@ That is: whatever means of attaining human ends cannot be grasped through direct
 
 On this subject, Yaska cites a verse from the Rigveda (Nirukta 1-19)—
 
-**Embedded English translation, as given in the source:**
-
-> Lastly, a Vedic text got from the teacher, but not along with a knowledge of its meaning, however often it may be recited, will never blaze up, or, in other words, illustrate its own meaning, any more than a dry log, thrown where no fire is, will blaze up. That being so, such a text cannot so much as be said to be Veda in the true and proper sense. Why is Veda called Veda? Because by it one knows (vetti) a spiritual means of obtaining an object of human desire.
->
-> As it has been said—
->
-> "A means which is not learned by perception or inference is learned from the Veda: and that is why the Veda is so called."
->
-> Therefore, if the Veda is to keep its character of being Veda in the true and proper sense of the word, its meaning must be apprehended.
->
-> There is a verse of the Rig Veda, which Yaska cites on this subject:
-
 <div class="pgmark">original p. 527</div>
 
 > उत त्वः पश्यन् न ददर्श वाचम् उत त्वः शृण्वन् न शृणोत्य् एनाम् । उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥
@@ -15142,18 +13868,9 @@ On this subject, Yaska cites a verse from the Rigveda (Nirukta 1-19)—
 
 That is: this man doesn't genuinely comprehend the Veda's meaning. Grammar and its auxiliary disciplines, Mimamsa and its allied inquiries — without study of these, one does not properly grasp the Vedic word. As the Taittiriya Samhita states, one who understands merely the word-forms without their meaning is like a man who takes only a share of what he might obtain.
 
-**Embedded English translation, as given in the source:**
-
-> uta tvah pasyan na dadarsa vacham
-> uta tvah srinvan na srinotyenam |
-> uto tvasmai tanvam vi sasre
-> jayeva patya usati suvasah ||
->
-> Yaska gives the purport of the first two lines here as follows:—"The first half of this verse speaks of the ignorant man as one who, seeing Speech, does not see her, and hearing her, does not hear her." The meaning is this: The text in its first half speaks of the man who does not apprehend the meaning of the Veda. One man, complete in his knowledge of the words only, sees Speech in the form of the Veda, but does not see her properly. For, where there has been no consideration given to grammatical questions, such as the
-
 <div class="pgmark">original p. 528</div>
 
-...difference between the singular and the plural, you cannot have even a correct recitation of the words. He who has not learned to substitute "te" for "sa" and "gamayanti" for "gamayati," when the sentence "ādityān eva..." takes the place of the sentence "vāyum eva...," how can he give even a correct text?
+difference between the singular and the plural, you cannot have even a correct recitation of the words. He who has not learned to substitute "te" for "sa" and "gamayanti" for "gamayati," when the sentence "ādityān eva..." takes the place of the sentence "vāyum eva...," how can he give even a correct text?
 
 **A second man**, with a view to apprehend the Veda's meaning, has heard, indeed, Grammar and the other Angas — but he too, not having studied the Mimamsa, does not properly hear Speech in her form as Veda. Take, for example, the text—
 
@@ -15163,15 +13880,11 @@ That is: this man doesn't genuinely comprehend the Veda's meaning. Grammar and i
 
 Here Grammar by itself goes to show that it is the man who *accepts* a gift of horses who has to make atonement. But in the Mimamsa it is proved that it is the *giver* who must do so.
 
-**Explanation of the verse's first half (pādas 1 and 2):** the first quarter-verse concerns the person regarding the Veda's meaning: one who studies the Veda merely as text (word-forms alone), without meaning, does not truly see the very form of Vedic speech...
-
-**Embedded English translation, as given in the source:**
-
-> difference between the singular and the plural, you cannot have even a correct recitation of the words. He who has not learned to substitute "te" for "sa" and "gamayanti" for "gamayati," when the sentence "adityan eva &c.," takes the place of the sentence "vayum eva &c.," how can he give even a correct text? A second man, with a view to apprehend the meaning of the Veda, has heard, indeed, Grammar and the other Angas, but he too, not having studied the Mimansa, does not properly hear Speech in her form as Veda. Take, for example, text "Yavato 'svan pratigrihniyat tavato varunans chatushkapolan nirvapet." Here Grammar by itself goes to show that it is the man who accepts a gift of horses who has to make atonement. But in the Mimansa it is proved that it is the giver who must do so.
+**Explanation of the verse's first half (pādas 1 and 2):** the first quarter-verse concerns the person regarding the Veda's meaning: one who studies the Veda merely as text (word-forms alone), without meaning, does not truly see the very form of Vedic speech.
 
 <div class="pgmark">original p. 529</div>
 
-...nor does he obtain genuine knowledge. He cannot properly grasp Vedic statements, and many doubts arise. Whether the Vedic sentence he recites is singular or plural remains unclear to him. Take these two statements as an example:
+Nor does he obtain genuine knowledge. He cannot properly grasp Vedic statements, and many doubts arise. Whether the Vedic sentence he recites is singular or plural remains unclear to him. Take these two statements as an example:
 
 > वायुम् एव स्वेन भागधेयेनोपधावति स एनं भूतिं गमयति ॥
 > vāyum eva svena bhāgadheyenopadhāvati sa enaṃ bhūtiṃ gamayati || (Taittiriya Samhita 2-1-1-1)
@@ -15188,17 +13901,11 @@ Here the agent-word governing the action is grammatically ambiguous — there's 
 
 **Therefore the first half of the verse speaks of these two classes of ignorant people** [one lacking grammar, one lacking Mimamsa].
 
-**The purport of the third line is thus given by Yaska:** "But to another she unfolds her body, that is, reveals herself." In this clause the verse speaks of knowledge or the revelation of the meaning. The meaning of this is as follows: the "api" of Yaska is a synonym for the "uto" of the text. Particles have various meanings; "uto" here is used in the sense of "but," to distinguish the next case from that of the two ignorant men already referred to. The man who has gone about to correctly apprehend the meaning of its indi[vidual words]...
-
-**Embedded English translation, as given in the source:**
-
-> Therefore the first half of the verse speaks of these two classes of ignorant people.
->
-> The purport of the third line is thus given by Yaska. "But to another she unfolds her body, that is, reveals herself. In this clause the verse speaks of knowledge or the revelation of the meaning." The meaning of this is as follows:—The "api" of Yaska is a synonym for the "uto" of the text. Particles have various meanings, but "uto" here is used in the sense of "but" to distinguish the next case from that of the two ignorant men already referred to. The man who has gone about to correctly apprehend the meaning of its indi-
+**The purport of the third line is thus given by Yaska:** "But to another she unfolds her body, that is, reveals herself." In this clause the verse speaks of knowledge or the revelation of the meaning. The meaning of this is as follows: the "api" of Yaska is a synonym for the "uto" of the text. Particles have various meanings; "uto" here is used in the sense of "but," to distinguish the next case from that of the two ignorant men already referred to. The man who has gone about to correctly apprehend the meaning of its indi[vidual words] —
 
 <div class="pgmark">original p. 530</div>
 
-...individual words by the help of Grammar and the other Angas, and their purport taken as a whole by the help of the Mimamsa — to him alone the Veda unfolds her form. The clause "svaṃ..." in Yaska explains the meaning of the individual words in the text. The clause "jñānam..." explains the purport. In this clause — that is, the third line here — the text speaks of that right knowledge which is able to throw light on the meaning of the Veda.
+individual words by the help of Grammar and the other Angas, and their purport taken as a whole by the help of the Mimamsa — to him alone the Veda unfolds her form. The clause "svaṃ..." in Yaska explains the meaning of the individual words in the text. The clause "jñānam..." explains the purport. In this clause — that is, the third line here — the text speaks of that right knowledge which is able to throw light on the meaning of the Veda.
 
 Without knowing Mimamsa-shastra, one cannot properly grasp the Veda's meaning — this is what—
 
@@ -15229,15 +13936,9 @@ That is—
 
 — just as a wife, at the auspicious time, adorns herself in fine garments and approaches her husband, so does Vedic Speech reveal herself to the knower of her meaning. Here, one who understands the Veda's meaning is called her "husband" (pati) — meaning the learned scholar who genuinely knows the Veda's sense.
 
-**Embedded English translation, as given in the source:**
-
-> vidual words by the help of Grammar and the other Angas, and their purport taken as a whole by the help of the Mimansa, to him alone the Veda unfolds her form. The clause "svam," &c., in Yaska explains the meaning of the individual words in the text. The clause "jnanam, &c.," explains the purport. In this clause, that is, the third line here, the text speaks of that right knowledge which is able to throw light on the meaning of the Veda.
->
-> The purport of the fourth line is thus given by Yaska. "A simile is given in the last line. As a wife (reveals herself) to the husband of her desire, clothed in fair raiment after her flowers. By fair raiment is meant auspicious raiment. He is the husband of her
-
 <div class="pgmark">original p. 531</div>
 
-...desire on account of the season. As he looks at her and listens to her — this is the eulogy of the meaning.
+desire on account of the season. As he looks at her and listens to her — this is the eulogy of the meaning.
 
 **The meaning of this is as follows:** the last (fourth) line illustrates the third line's meaning by a simile. The word "kāmayamāna" explains the "uśatī" of the text. Through the day, busy with the work of the house, she may have been in a dirty dress, but when night comes she makes herself neat. Why? "Her desire is to him on account of the season." As the husband gazes eagerly on such a wife and listens kindly to the meaning of what she says, so this man, versed in all the fourteen sciences, has full vision of the secret of the Veda's meaning, and lovingly takes to himself the twofold meaning — dharma and brahma — which the Veda teaches. **This is the eulogy of him who knows the meaning of the Veda.**
 
@@ -15247,17 +13948,6 @@ That is—
 > uta tvaṃ sakhye sthirapītam āhur nainaṃ hinvanty api vājineṣu | adhenvā carati māyayaiṣa vācaṃ śuśruvām̐ aphalām apuṣpām || (Rigveda Samhita 10-71-5)
 >
 > "Him they call firm-established in friendship, yet they do not urge him forward in the contests. He wanders on with an illusion that yields no milk — having heard Speech that bears neither fruit nor flower."
-
-**Embedded English translation, as given in the source:**
-
-> desire on account of the season. As he looks at her and listens to her—this is the eulogy of the meaning." The meaning of this is as follows:—The last, that is, the fourth line, illustrates the meaning of the third line by a simile. The word "kamayamana" explains the "usati" of the text. Through the day, busy with the work of the house, she may have been in a dirty dress, but when night comes she makes herself neat. Why? "Her desire is to him on account of the season." As the husband gazes eagerly on such a wife and listens kindly to the meaning of what she says, so this man, versed in all the fourteen sciences, has full vision of the secret of the meaning of the Veda, and lovingly takes to himself the twofold meaning, dharma and brahma, which the Veda teaches. This is the eulogy of him who knows the meaning of the Veda.
->
-> Yaska quotes another text saying, "The text that follows explains this further:
->
-> Uta tvam sakhye sthirapitam ahur
-> Nainam hinvantyape vajineshu |
-> Adhenva charati mayayaisha vacham
-> Susruvam aphalam apushpam ||"
 
 <div class="pgmark">original p. 532</div>
 
@@ -15282,13 +13972,9 @@ This censures those who merely recite without comprehension: their recitation is
 
 *(Reference cited within: Brihadaranyaka Upanishad 4-4-22.)*
 
-**Embedded English translation, as given in the source:**
-
-> The meaning is this. The verse of Scripture which immediately follows the verse "uta tvah pasyan," &c., serves to explain further the meaning of that verse, that is, it is able to set out that meaning very clearly. How? We shall show. And of him, that is, of the man versed in the fourteen sciences, they say that standing firmly in the friendship of the Word, he has drunk of the nectar of the meaning of the Veda. They who know are they who say so. And they refer to that friendship of the Veda spoken of in the text "Sachividam...
-
 <div class="pgmark">original p. 533</div>
 
-...**सखायम्** (*sakhāyam*)..." Or the meaning may be that such a one is here described as drinking abundance of nectar in heaven in the enjoyment of the Vedas' friendship.
+**सखायम्** (*sakhāyam*)..." Or the meaning may be that such a one is here described as drinking abundance of nectar in heaven in the enjoyment of the Vedas' friendship.
 
 **On "वाजिनेषु" (*vājineṣu*):** by the word "**वाजिनः**" (*vājinaḥ*) in the text is meant lords of words (vācāṃ inaḥ) — or those who are eloquent in the assemblies. The man versed in the Veda's meaning sits among them, but they cannot touch him, because they cannot contend with him in argument.
 
@@ -15305,10 +13991,6 @@ This censures those who merely recite without comprehension: their recitation is
 > *sakhye sthirapītam āhuḥ |*
 
 —may mean: he becomes a friend even to the deities dwelling in heaven, and there drinks the nectar of immortality.
-
-**Embedded English translation, as given in the source:**
-
-> sakhayam, &c." Or the meaning may be that such an one is here described as drinking abundance of nectar in heaven in the enjoyment of the friendship of the Vedas. By the word "vajinah" in the text is meant lords of words (vacham inah) or those who are eloquent in the assemblies. The man versed in the meaning of the Vedas sits among them, but they cannot touch him. Because they cannot contend with him in argument. But that other, engaged in the study of the recited text alone, is a hearer of the Word stripped of its flower and its fruit. The flower of Scripture is the knowledge of the religious duty which is expounded in the prior section of the Veda. Its fruit is the knowledge of brahma, which is taught in the latter section. As in nature we see that the flower produces the fruit, so the religious duties, such as that of learning the Veda, beget, through the instrumentality of the fulfilment of these duties, the desire for that knowledge of brahma, which is the fruit.
 
 <div class="pgmark">original p. 534</div>
 
@@ -15330,12 +14012,6 @@ And as fruit is the cause of satisfaction, so the knowledge of brahma is the ful
 
 *(Note on the Veda's twofold structure explained here: the karma-kanda's dharma-teaching is the "flower"; the jnana-kanda's brahma-knowledge is the "fruit" — just as in the ordinary world flowers precede and produce fruit, so ritual duty precedes and generates the desire for brahma-knowledge.)*
 
-**Embedded English translation, as given in the source:**
-
-> Witness the text "tam etam vedanuvachanena brahmana vividishanti yajnena danena tapasa nasakena." And as fruit is the cause of satisfaction, so the knowledge of brahma is the fulfilmet of all desires. As it is said in Scripture "yat purnanandaikabodhas tad brahmaham asmiti kritakrityo bhavati."
->
-> This very man, recitor of a Veda stripped of such flower and fruit, walks with an illusion, that seems a cow, but is no cow. A cow that has just given birth to a calf, and is therefore in milk, is called "dhenu," because it is the cause of excitement on account of the pleasure it gives. That is the etymoloky of the word. Now the Word, in the shape of the Veda, to him who recites it merely yields no such milk as the knowledge of religious duty and Brahma It is no cow, but a deceptive illusion. It is like the image made by magicians that wears the shape of a cow, but is no cow. Walking with this illusion the man referred to does not obtain the chief end of man.
-
 <div class="pgmark">original p. 535</div>
 
 Because it is an illusion of deceptive form — a magical image conjured by Indrajala-magicians through the power of their own mantras, taking on the appearance of a cow. Just as no milk can be obtained from such an illusory cow, so no genuine human purpose is served by Vedic recitation devoid of meaning-comprehension. In this way, through examples, Yaska sets out clearly both the praise of knowledge and the censure of ignorance. **And since, in worldly usage, whatever is praised is precisely what people undertake, and the Veda's meaning is here praised, it must be concluded that understanding its meaning is itself enjoined** — merely memorizing the Veda by heart is not the injunction's full sense.
@@ -15351,15 +14027,9 @@ Because it is an illusion of deceptive form — a magical image conjured by Indr
 
 *(Further citations woven in here: Jaimini Sutra 1-2-15 on fruit-praise; Taittiriya Samhita 2-2-5-4 on the "svargāya hi loko'yaṃ darśa-pūrṇamāsau" formulation — establishing that where scripture praises the fruit of both performance and knowledge equally, both alike carry injunctive force.)*
 
-**Embedded English translation, as given in the source:**
-
-> From the way in which Yaska developes the meaning of this text quoted in praise of knowledge of the meaning of the Veda and in censure of ignorance of that, and inasmuch as what is praised must be taken to be enjoined, we are to conclude that knowing the meaning as much as learning the words is matter of positive injunction.
->
-> Moreover, in the Nakshatreshti chapter each utterance with regard to the fruit of a sacrifice asserts with the authority of Scripture that the fruit of the sacrifice and of the knowledge of it are one and the same. "Yatha ha va agnir devanam annadah, evam ha va esha manushyanam bhavati, ya etena havisha yajaie ya u chainad evam veda." For this reason, too, it is clear, the knowledge of a sacrifice is as much matter of injunction with a
-
 <div class="pgmark">original p. 536</div>
 
-...view to the fruit thereof as the sacrifice itself is. **A similar train of reasoning will show that all the Brahmanas contain precepts enjoining a knowledge of the sacrifice.**
+view to the fruit thereof as the sacrifice itself is. **A similar train of reasoning will show that all the Brahmanas contain precepts enjoining a knowledge of the sacrifice.**
 
 **Here a doubt arises:** has not Jaimini, in the "**विद्याप्रशंसा**" (*Vidyāpraśaṃsā*) sutra, expressly ruled that the rewards assigned to the knowledge of the Veda are of the nature of eulogy? What of that? The language of eulogy may employ a reward which actually exists as well as one which does not. For example, in the precept with regard to the propitiatory sacrifice necessary when a mistake has been made in the course of the performance of the New and [Full Moon rites]—
 
@@ -15371,12 +14041,6 @@ In the Nakshatreshti section, each ishti's fruit-statement, ritual procedure, an
 > "Just as Agni consumes the offerings made to the deities, so does the person who performs this yajna, and likewise the one who *knows* it, become an eater of food among men." That is: whoever performs this rite, and whoever understands it correctly, alike obtain abundant food and similar goods, and become esteemed among people.
 
 Here the mantra conveys both the ritual procedure and its fruit — so the mantra itself is authoritative regarding meaning, and the meaning must be understood, since without understanding, no fruit accrues. This same reasoning applies generally: throughout the Brahmana statements, Vedic injunctions clearly require that their meaning be understood.
-
-**Embedded English translation, as given in the source:**
-
-> view to the fruit thereof as the sacrifice itself is. A similar train of reasoning will show that all the Brahmanas contain precepts enjoining a knowledge of the sacrifice.
->
-> Here a doubt arises. Has not Jaimini, in the "Vidyaprasansa" sutra expressly ruled that the rewards assigned to the knowledge of the Veda are of the nature of eulogy? What of that? The language of eulogy may employ a reward which actually exists as well as one which does not. For example, in the precept with regard to the propitiatory sacrifice necessary when a mistake has been made in the course of the performance of the New and
 
 <div class="pgmark">original p. 537</div>
 
@@ -15399,19 +14063,6 @@ Here the Vedic statement declares that Darsha-Purnamasa yajnas are performed for
 > फलस्य कर्म-निष्ठत्वात् तेषां लोकवत् परिमाणतः सारतो वा फल-विशेषः स्यात् ॥
 > phalasya karma-niṣṭhatvāt teṣāṃ lokavat parimāṇataḥ sārato vā phala-viśeṣaḥ syāt || (Jaimini Sutra 1-2-17)
 
-**Embedded English translation, as given in the source:**
-
-> Full Moon sacrifices, the reward promised, namely heaven, does exist. "Suvargaya hi lokaya darsaparnamasav ijyete."
->
-> Lastly, let me give two verses which are cited by the Teacher in illustration of the doctrine that the text about the reward assigned to a knowledge of brahma is significant.
->
-> Ichchhamyevarthavadatvam vachaso 'nyaparatvatah
-> Yathavastvabhidhayetvanna tvabhutarthavadata |
-> Ijyete svargalokaya darsadarsau yathatatha
-> Na tvabbhutarthavadatvam papasloka srutiryatha ||
->
-> Nor need you doubt and say that if the fruit of a sacrifice accrues from the mere knowledge of it, the performance becomes a useless farce. That difficulty is removed by the consideration that rewards may vary in quantity or quality. They cite on this point a sutra of Jaimini's.
-
 <div class="pgmark">original p. 538</div>
 
 **"Each rite must needs have its reward. Distinctive rewards must therefore, as in daily life, refer to increase in quantity or in quality."**
@@ -15427,17 +14078,7 @@ We have already explained this sutra and illustrated it by the text "tarati brah
 
 It is true that the injunction here has special reference to a knowledge of the Veda's Angas. **But the same thing holds good by analogy for all the other parts of a knowledge of the Veda.**
 
-**Do you ask why I am so devoted to a knowledge of the Veda? Why do you hate that knowledge as you do?** I have shown you how often and greatly it is eulogised. And nowhere do we see it condemned. But just as the merit got by good works goes after death...
-
-**Embedded English translation, as given in the source:**
-
-> Each rite must needs have its reward. Distinctive rewards must therefore, as in daily life, refer to increase in quantity or in quality.
->
-> We have already explained this sutra and illustrated it by the text "tarati brahmahatyam yo 'svamedhena yajate ya u chainam evam veda."
->
-> The Chandogas have a text in which the performance of a sacrifice accompanied by knowledge is expressly preferred to a sacrifice performed without knowledge. "Tenobhau kuruto yas chaitad evam veda yas cha na veda nana tu vidya chavidya cha yad eva vidyaya karoti sradhayopanishada tad eva viryavattaram bhavati." It is true that the injunction here has special reference to a knowledge of the Angas of the Veda. But the same thing holds good by analogy of all the other parts of a knowledge of the Veda.
->
-> Do you ask why I am so devoted to a knowledge of the Veda? Why do you hate that knowledge as you do? I have shown you how often and greatly it is eulogised. And nowhere do we see it condemned. But just as the merit got by good works goes after death
+**Do you ask why I am so devoted to a knowledge of the Veda? Why do you hate that knowledge as you do?** I have shown you how often and greatly it is eulogised. And nowhere do we see it condemned. But just as the merit got by good works goes after death —
 
 ## Chapter 16. Exposition of the Anubandha-catuṣṭaya (Subject, Purpose, Relation, Qualified Person) Regarding the Veda
 
@@ -15461,17 +14102,9 @@ It is true that the injunction here has special reference to a knowledge of the 
 
 Before listeners can be expected to engage in the study of any work, they must be told what its subject-matter is, of what use it is, what are its relations, and whom it concerns. **These four heads are therefore next given.** The subject of this commentary is the—
 
-**Embedded English translation, as given in the source:**
-
-> with the soul, so, and in no other way, the merit got by knowledge accompanies the dead man. As it is said in the Scripture of the Vajasaneyins, "tam vidyakarmani samanvarabhete purvaprajna cha."
->
-> Therefore, as it is clear that a knowledge of the meaning of the Veda is as much matter of positive injunction as is the study of its text, we are now in that view about to expound the Veda.
->
-> Before listeners can be expected to engage in the study of any work, they must be told what its subject-matter is, of what use it is, what are its relations, and whom it concerns. These four heads are therefore next given. The subject of this commentary is the
-
 <div class="pgmark">original p. 540</div>
 
-...**Veda, which is to be commented on. Its use is to make the meaning of that Veda plain. Its relation is that of a commentary to the work which is to be commented on. And they who desire such knowledge are they whom it concerns.**
+**Veda, which is to be commented on. Its use is to make the meaning of that Veda plain. Its relation is that of a commentary to the work which is to be commented on. And they who desire such knowledge are they whom it concerns.**
 
 This is all it is usual to give under this head. **But if the Veda, as distinguished from the commentary on the Veda which is our undertaking, were without subject, use, and so on, the commentary too would want these in the second and higher degree. Therefore I shall state the four with regard to the Veda also.**
 
@@ -15485,12 +14118,6 @@ This is all it is usual to give under this head. **But if the Veda, as distingui
 > dharmo viśvasya jagataḥ pratiṣṭhā loke dharmiṣṭhaṃ prajā upasarpanti dharmeṇa pāpam apanudati dharme sarvaṃ pratiṣṭhitaṃ tasmād dharmaṃ paramaṃ vadanti || (Taittiriya Aranyaka 10-63-7)
 >
 > "Dharma is the foundation of the whole universe; in this world, people approach one most established in dharma; through dharma one drives away sin; in dharma all things are established — therefore they call dharma the highest."
-
-**Embedded English translation, as given in the source:**
-
-> Veda, which is to be commented on. Its use is to make the meaning of that Veda plain. Its relation is that of a commentary to the work which is to be commented on. And they who desire such knowledge are they whom it concerns.
->
-> This is all it is usual to give under this head. But if the Veda, as distinguished from the commentary on the Veda which is our undertaking, were without subject, use, &c. the commentary, too, would want these in the second and higher degree. Therefore I shall state the four with regard to the Veda also.
 
 <div class="pgmark">original p. 541</div>
 
@@ -15513,10 +14140,6 @@ To establish the former of these propositions, Jaimini in his fourth sutra shows
 **Note distinguishing Veda from Purana:** dharma and brahma-knowledge are obtainable *only* from the Veda; the Puranas and similar texts, though they discuss these matters, derive their authority from the Veda rather than standing as independent sources.
 
 **Summary of the four preliminaries required before undertaking any text:** (1) the principal subject-matter treated in the work; (2) the purpose or benefit gained from studying it; (3) the relation between the text and its subject-matter; (4) who is qualified to undertake it — that is, which person should study it. These four qualities must be present.
-
-**Embedded English translation, as given in the source:**
-
-> Dharma and brahma, in that order, are the subject-matter respectively of the two sections into which the whole Veda is divided. Why? Because these two cannot be obtained from any other source. As it is laid down in the Purusharthanusasana, "Dharma and brahma are to be learned from the Veda only." Those who know tradition cite also here the second sutra of Jaimini with its twofold restriction. "The Veda is the only authority for dharma: the Veda is that authority and nothing else." To establish the former of these propositions Jaimini in his fourth sutra shows that dharma is not cognizable by our senses.
 
 <div class="pgmark">original p. 542</div>
 
@@ -15546,10 +14169,6 @@ Without these present in a work, listeners will not undertake to read it. Theref
 
 > "Perception is not a cause there, because perception deals with things that are, not with things that are to be." **Dharma will arise after the sacrifice producing it has been performed:** it does not exist before, and perception is therefore useless here. Nor even afterwards can dharma be apprehended by the senses, because it is destitute of form. That is the reason why it is commonly called "**adṛṣṭa**," that which is unseen. Nor is the second source of knowledge, inference, available here. Why? On account of the absence of characteristic marks. You will perhaps say that joy and sorrow are such characteristic marks for dharma and adharma. True. But they are given as such in the Veda itself. **Therefore the Veda is the only authority for religious duty.**
 
-**Embedded English translation, as given in the source:**
-
-> "Perception is not a cause there because perception deals with things that are, not with things that are to be." Dharma will arise after the sacrifice producing it has been performed: it does not exist before, and perception is therefore useless here. Nor even afterwards can dharma be apprehended by the senses. Because it is destitute of form, &c. That is the reason why it is commonly called "adrishta," that which is unseen. Nor is the second source of knowledge, inference, avaible here. Why? On account of the absence of characteristic marks. You will perhaps say that joy and sorrow are such characteristic marks for dharma and adharma. True. But they are given as such in the Veda itself. Therefore the Veda is the only authority for religious duty.
-
 <div class="pgmark">original p. 543</div>
 
 There is no other way; since we have already established the Veda's authority, we must accept that dharma, as stated in the Veda, is authoritative.
@@ -15568,12 +14187,6 @@ One who performs dharma becomes happy; one who performs adharma becomes miserabl
 Previous teachers have shown that this text has its application in the doctrine we are considering. **The other kinds of evidence — perception and inference — are of no use here, for brahma is without either form or characteristic marks.**
 
 **Therefore, since they cannot be obtained from any other source, dharma and brahma are the subject-matter of the Veda.**
-
-**Embedded English translation, as given in the source:**
-
-> That brahma, although differing from dharma, inasmuch as it is something already in existence, can be known only from the shastra is taught in the second section of the third sutra of the Uttara Mimansa. As the commentator explains: "The meaning is that the shastra is the only authority for the truth that brahma is the cause of the birth, life, and death of the world." We can quote a text of Scripture, too, "Navedavin manute tam brihantam." Previous teachers have shown that this text has its application in the doctrine which we are considering. The other kinds of evidence, perception and inference, are of no use here. For brahma is without either form or characteristic marks.
->
-> Therefore, since they cannot be obtained from any other source, dharma and brahma are the subject-matter of the Veda.
 
 <div class="pgmark">original p. 544</div>
 
@@ -15606,12 +14219,6 @@ When two people quarrel, even a weak man in the right can, with the strength of 
 >
 > "The knower of brahma attains the Supreme. He who knows brahma becomes brahma itself. The knower of the Self crosses beyond sorrow."
 
-**Embedded English translation, as given in the source:**
-
-> And knowledge of dharma and brahma is the immediate use of the Veda. Nor need we doubt lest such knowledge,—like that, for example, that the earth has seven continents, or that a certain king is going some where,—has no relation to any end of man. Dharma is eulogised as productive of objects of human desire in the following passage: "Dharma is the support of the whole world: throughout the world people flock to him who has most dharma. A man puts away his sin by means of his dharma, everything rests upon dharma. Therefore they call dharma man's highest good." Dharma restrain a king in act to strike, and to the weaker of two disputants brings victory as from a king's help: truly it is an object of desire to men. As it is said in the Scripture of the Vajasaneyins, in the Srishti chapter, "tachchhreyorupam atyasrijata dharmam tad etat kshatrasya kshatram yad dharmas tasmad dharmat param nastyato abaliyan baliyansam asansate dharmena yathaiva rajnaivam."
->
-> That knowledge of brahma conduces to man's desire is the theme of many texts of Scripture. "Brahmavid apnoti param brahma veda brahmaiva bhavati tarati sokam atmavid, &c."
-
 <div class="pgmark">original p. 545</div>
 
 The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (creation) chapter:
@@ -15632,12 +14239,6 @@ The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (crea
 ### Relation (Sambandha)
 
 **Lastly, of its relations.** To dharma and brahma it stands in the relation of that which teaches to the doctrine which is taught. To the knowledge of its own meaning it stands in the relation of that which produces to that which is produced. To men of the three higher castes it stands in the relation of that which benefits to that which is benefited. **Thus have I stated to those who are about to listen to me the four things commonly required**—
-
-**Embedded English translation, as given in the source:**
-
-> He who desires both kinds of knowledge is he who should study the Veda. He must be a man of one of the three higher castes. The woman and the sudra, it is true, need that knowledge; but they have not been invested with the sacred thread: they have not gone over the Veda as a scholar with his guru does. That they should meddle with the Veda is therefore expressly forbidden. They must be taught dharma and brahma by means of the puranas and the like. Therefore, the scope of the Veda lies in the knowledge of its meaning communicated to men of the three higher classes.
->
-> Lastly of its relations. To dharma and brahma it stands in the relation of that which teaches to the doctrine which is taught. To the knowledge of its own meaning it stands in the relation of that which produces to that which is produced. To men of the three higher castes it stands in the relation of that which benefits to that which is benefited. Thus have I stated to those who are about to listen to me the four things commonly required
 
 ## Chapter 17. The Six Aṅgas of the Veda ("Lower Knowledge") — Śikṣā, Kalpa, Vyākaraṇa, Nirukta, Chandas, Jyotiṣa: Their Purpose, and Why Each Must Be Studied
 
@@ -15664,12 +14265,6 @@ The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (crea
 
 **The reason for this classification:** the karma-kanda, being a means toward dharma-knowledge and requiring the six Angas as instruments, is called the "lower knowledge" (aparā vidyā); while the Upanishads, being the means to the supreme human aim of brahma-knowledge, are called the "higher knowledge" (parā vidyā).
 
-**Embedded English translation, as given in the source:**
-
-> before entering on study: let them now with attentive minds listen to my interpretation of the Veda.
->
-> The Veda is obscure, but it is the object of the Siksha and the other Angas to expound its meaning. That is why these Angas are included by the Atharvanikas in a sacred text to be found in their Mundukopanishad, under the term "lower knowledge." "Verily, say those who know brahma, there be two kinds of knowledge to be known. The higher and the lower. This latter includes the Rig Veda, the Yajur Veda, the Sama Veda, the Atharva Veda, Siksha, Kalpa, Vyakarana, Nirukta, Chhandas and Jyotisha. But it is the higher
-
 <div class="pgmark">original p. 547</div>
 
 Even though the words of very profound texts may, in some places, be difficult to grasp, their deep meaning is still understood by those who study, and because of this — the Angas being the means to that understanding — the wise call the Veda's own meaning "aparā" (lower). Those learned in the tradition of Shiksha and the other Angas state, on the authority of the very text quoted above—
@@ -15685,12 +14280,6 @@ Even though the words of very profound texts may, in some places, be difficult t
 > *varṇa-svarādy-uccāraṇa-prakāro yat proktaś ca te sā śikṣā | tathā ca traittirīyāṇām upaniṣad-ārambhe samānukriyā-rūpaṇam |* — वर्णः स्वरो मात्रा बलं साम सन्तान इत्युक्तः शिक्षाध्यायः । (Taittiriya Aranyaka 7-2)
 
 That is: it is called Śikṣā because it teaches the method of pronouncing letters, accents, and similar matters. As it is said at the very beginning of the Taittiriyas' own Upanishad: "We shall now explain Śikṣā — varṇa (the letter), svara (the accent), mātrā (the quantity), bala (the force), sāma (uniform delivery), santāna (joining) — these are the six themes of the Śikṣā chapter."
-
-**Embedded English translation, as given in the source:**
-
-> knowledge by which the Eternal is apprehended." Dharma or religious duty is a mere instrument, and the karma section of the Veda, along with the Angas, which communicate knowledge of dharma, are rightly styled the lower knowledge. Brahma is man's chief end, and the Upanishads, which are the source of our knowledge of brahma, are the higher knowledge.
->
-> Siksha is that wherein is taught the method of pronouncing letters, accents, &c. As it is said in a sacred text of the Taittiriyas which occurs at the beginning of their Upanishad. "We shall now explain Siksha. The letter, the accent, the quantity, the force, uniform delivery, joining—these are the six themes of the Siksha chapter.
 
 <div class="pgmark">original p. 548</div>
 
@@ -15723,18 +14312,6 @@ That is: it is called Śikṣā because it teaches the method of pronouncing let
 
 **"Santāna" (joining)** means the un-interrupted linking together of accented and unaccented syllables into a single continuous flow, without pause — the euphonic combination (sandhi) that binds the Veda's own words together seamlessly.
 
-**Embedded English translation, as given in the source:**
-
-> 'Letter' here means a and the other letters of the alphabet. The doctrine of the alphabet is clearly laid down in the work on Siksha, which is one of the Angas.
->
-> By 'accent' is meant the udatta and other accents. The doctrine of the accents is given there too.
->
-> "Udatta, anudatta and svarita are the three accents."
->
-> 'Quantity' refers to the distinction between short and long syllables, &c. It, too, is defined in the same book.
->
-> Under the term 'force' is included a reference both to the organ and the effort of pronunciation. The passage 'ashtau sthanani varnanam &c.' deals with the former subject: the passage 'acho 'sprishta yanastvishad &c.,' with the latter.
-
 <div class="pgmark">original p. 549</div>
 
 Those wishing to know these Vedic matters should study Śikṣā first among the Angas — for those who begin here find it easier to work through the meanings arranged in other treatises. **We shall therefore first look briefly at the subjects treated in this Anga before proceeding to the other Angas.**
@@ -15762,17 +14339,11 @@ Since a matter of established tradition (the alphabet-doctrine, arranged among o
 
 **"Joining" (santāna)** refers to the rules for putting words together. When *vayu* stands before *yahi*, you must substitute *vayav*. When *indragni* stands before *agatam*, the final vowel...
 
-**On accent:** by "svara" people commonly mean any of several kinds of accent found in different treatises — but the source treatises themselves generally speak of three svaras. The pronunciation of these svaras...
-
-**Embedded English translation, as given in the source:**
-
-> 'Sama' (uniform delivery) is the same as samya, by which term is meant here a mode of recitation which avoids such faults as being too quick, or too slow, or being singsong, and has the virtues of sweetness and the like. The faults are given in the passage beginning 'giti sighri sirahkampi' the virtues are given in the passage beginning 'madhuryam aksharavyaktih.'
->
-> 'Joining' refers to the rules for putting words together. When vayu stands before a yahi, you must substitute vayav. When indragni stands before agatam, the final vowel
+**On accent:** by "svara" people commonly mean any of several kinds of accent found in different treatises — but the source treatises themselves generally speak of three svaras. The pronunciation of these svaras —
 
 <div class="pgmark">original p. 550</div>
 
-...of the first word remains unchanged. This is a part of the subject which, as being discussed in Vyakarana, is omitted in the Śikṣā.
+of the first word remains unchanged. This is a part of the subject which, as being discussed in Vyakarana, is omitted in the Śikṣā.
 
 Udātta, anudātta, and the pluta (prolated) accent are marked distinctly across the words to be recited. Those wishing to master pronunciation must study these markings closely. The udātta accent is marked with a vertical stroke above the letter; the svarita accent is marked below; the anudātta carries no mark at all — bare, unmarked letters are to be understood as anudātta. One must understand these markings letter by letter. Where the accent-mark sits — above the letter, at its foot, or beside it — determines the type of accent for that syllable. **As an example, here is a well-known mantra shown with its accent-marks in place**—
 
@@ -15796,17 +14367,9 @@ Udātta, anudātta, and the pluta (prolated) accent are marked distinctly across
 
 **Meaning:** the letters pronounced with normal duration are called "hrasva" (short). This much is stated explicitly. In the second mātrā-length, a and ī and similar letters are prolonged, called "dīrgha" (long). Three-mātrā duration is called "pluta" (prolated), used specifically for calling out or summoning. Whether short, long, or prolated, in any given sentence, the mātrā (quantity) is determined by these three durations. Three-mātrā...
 
-**Embedded English translation, as given in the source:**
-
-> of the first word remains unchanged. This is a part of the subject, which, as being discussed in Vyakarana is omitted in the Siksha.
->
-> The evil which will result if there is failure with regard to any of the subjects taught in the Siksha is thus illustrated in the same book:
->
-> "A text wanting in an accent or letter is used in vain, it does not convey the same meaning; such sentence is a thunderbolt to strike the offerer, as, for
-
 <div class="pgmark">original p. 551</div>
 
-...example, in the case of the word **indraśatru** pronounced with the wrong accent."
+example, in the case of the word **indraśatru** pronounced with the wrong accent."
 
 The reference is to the text of Scripture:
 
@@ -15841,12 +14404,6 @@ The faults of recitation are given in the passages:
 
 **When reciting the Veda's letters**, one must recite in such a way that letters like hrasva (short), dīrgha (long), saṃyukta-akṣara (conjunct letters), alpaprāṇa (unaspirated), and mahāprāṇa (aspirated) are pronounced clearly and distinctly, sweetly and without confusion, each properly articulated. **This is a virtue of correct recitation.**
 
-**Embedded English translation, as given in the source:**
-
-> example, in the case of the word indrasatru pronounced with the wrong accent."
->
-> The reference is to the text of Scripture "indrasatrur vardhasva &c." If "indrasatru" in this text were intended to mean "enemy, destroyer of Indra," the word would be a tatpurusha, and in accordance with the rule "samasasya," it would have the acute accent on the
-
 <div class="pgmark">original p. 552</div>
 
 ### "Santāna" (Joining) — continued
@@ -15871,13 +14428,9 @@ Because of an accent-error within it, instead of achieving the intended result, 
 > त्वष्टा हतपुत्रो वीन्द्रꣳ सोममाहरत्तस्मिन्निन्द्र उपहवमैच्छत तं नोपाह्वयत पुत्रं मेऽवधीरिति स यज्ञवेशसं कृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यत तत्त्वष्टाऽऽहवनीयमुपप्रावर्तयत्स्वाहेन्द्रशत्रुर्वर्धस्वेति स यावदूर्ध्वः पराविध्यति तावति स्वयमेव व्यरमत ॥ (तै. सं. २-४-१२-१)
 > *tvaṣṭā hataputro vīndraṃ somam āharat tasminn indra upahavam aicchata taṃ nopāhvayata putraṃ me'vadhīr iti sa yajñaveśasaṃ kṛtvā prāsahā somam apibat tasya yad atyaśiṣyata tat tvaṣṭā''havanīyam upaprāvartayat svāhendraśatrur vardhasveti sa yāvad ūrdhvaḥ parāvidhyati tāvati svayam eva vyaramata || (Taittirīya Saṃhitā 2-4-12-1)*
 
-**Embedded English translation, as given in the source:**
-
-> final syllable. But it has the acute accent on the first syllable. That being so, the fact the prior member of the compound furnishes the accent for the whole word, shows that it is a bahuvrihi compound, and that we must therefore understand the word to mean not 'slayer of Indra' but 'slain by Indra.' This example will show how necessary the Siksha book is if we wish to avoid faults in respect to the accents letters &c.
-
 <div class="pgmark">original p. 553</div>
 
-...is that this mantra needs to be understood as **"sākṣād indraśatru-varthārthasya"** — "one whose very slayer is directly Indra." When Tvashtri performed the yajna intending to produce a son who would slay Indra, he intended the compound "indraśatru" to mean "the slayer of Indra" (indraṃ śatruḥ — a tatpuruṣa compound: "Indra's foe"). But because he pronounced it with the *wrong accent* — properly accented, "indraśatru" as a **bahuvrīhi compound** must instead be understood to mean "he whose slayer is Indra" (indraḥ śatruḥ yasya saḥ — "one destroyed **by** Indra"). Accent alone determines this distinction.
+What is wanted here is that this mantra needs to be understood as **"sākṣād indraśatru-varthārthasya"** — "one whose very slayer is directly Indra." When Tvashtri performed the yajna intending to produce a son who would slay Indra, he intended the compound "indraśatru" to mean "the slayer of Indra" (indraṃ śatruḥ — a tatpuruṣa compound: "Indra's foe"). But because he pronounced it with the *wrong accent* — properly accented, "indraśatru" as a **bahuvrīhi compound** must instead be understood to mean "he whose slayer is Indra" (indraḥ śatruḥ yasya saḥ — "one destroyed **by** Indra"). Accent alone determines this distinction.
 
 Because of this single mispronunciation, the very meaning of the mantra reversed: instead of producing a destroyer *of* Indra, the sacrifice produced a being destined to be destroyed *by* Indra — and that is precisely what happened, as the sacred narrative recounts. This shows how essential correct accent is:
 
@@ -15894,15 +14447,9 @@ Because of this single mispronunciation, the very meaning of the mantra reversed
 
 **Here you will perhaps start the following dilemma.** Does Ashvalayana in his book follow the order of the mantra portion of the Rigveda, or does he follow that of the brahmana portion? Not the former. Because his first words are, "We shall first expound the—"
 
-**Embedded English translation, as given in the source:**
-
-> Kalpa, the second Anga, means the Sutras of Asvalayana, Apastamba, Baudhayana and other authors. For the science is so called because the sacrifice is confirmed (kalpyate) by it.
->
-> Here you will perhaps start the following dilemma. Does Asvalayana in his book follow the order of the mantra portion of the Rig Veda, or does he follow that of the brahmana portion. Not the former. Because his first words are, "We shall first expound the
-
 <div class="pgmark">original p. 554</div>
 
-**"...New and Full Moon sacrifices" (Ashvalayana Shrauta Sutra 1-1-3).** Now the first hymns of Rig Veda are nowhere used throughout the New and Full Moon sacrifices. Nor the latter either. Because the Brahmana starts from the *dīkṣaṇīyā* sacrifice, saying, "At the dīkṣaṇīyā sacrifice they offer the puroḍāśa cake in eleven platters."
+**"New and Full Moon sacrifices" (Ashvalayana Shrauta Sutra 1-1-3).** Now the first hymns of Rig Veda are nowhere used throughout the New and Full Moon sacrifices. Nor the latter either. Because the Brahmana starts from the *dīkṣaṇīyā* sacrifice, saying, "At the dīkṣaṇīyā sacrifice they offer the puroḍāśa cake in eleven platters."
 
 **To this we answer:** the mantra portion of Rig Veda follows the order in which the hymns must be recited — for example, in that recitation before the supreme Spirit, which we call the **brahma-yajña** [the "sacrifice of Brahman," i.e., Vedic recitation as a spiritual offering]. It does not follow the order in which the sacrificial rites are performed. This brahma-sacrifice is thus enjoined:
 
@@ -15916,12 +14463,6 @@ Because of this single mispronunciation, the very meaning of the mantra reversed
 **This same principle** — that recitation-order and ritual-employment-order are two entirely separate matters — resolves the apparent contradiction: since Ashvalayana's Kalpa-sutra text (dealing with actual ritual sequence) doesn't follow the Rigveda-Samhita's own textual order, this in no way undermines the claim that the Samhita's own arrangement is fixed for the purposes of daily recitation (svādhyāya) and the brahma-yajña specifically.
 
 **One further doubt might arise:** does Ashvalayana's own Grihya-sutra, in laying down the rules for daily recitation, follow the mantra order of the Rigveda-Samhita, or does it follow some other principle? — Whichever the answer, one thing is beyond dispute: a person should recite his own portion, be it Rig, Yajur, or Sama, according to a fixed and definite sequence.
-
-**Embedded English translation, as given in the source:**
-
-> New and Full Moon sacrifices." Now the first hymns of Rig Veda are nowhere used throughout the New and Full Moon sacrifices. Nor the latter either. Because the brahmana starts from the dikshaniya sacrifice, saying, "At the dikshaniya sacrifice they offer the purodasa cake in eleven platters."
->
-> To this we answer. The mantra portion of Rig Veda follows the order in which the hymns must be recited, for example, in that recitation before the supreme Spirit, which we call the brahma sacrifice. It does not follow the order in which the sacrificial rites are performed. This brahma sacrifice is thus enjoined: "Let a man recite his own Veda, or one verse only of his own Veda, be it Rig, Yajur or Sama, that is the spiritual sacrifice."
 
 <div class="pgmark">original p. 555</div>
 
@@ -15944,14 +14485,6 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 > "At the beginning of the dīkṣaṇīyā rite, one offers the Veda-cake for oneself"
 
 (Aitareya Brahmana 1-1) — this passage relates to the dīkṣaṇīyā-related mantra. Therefore, the Brahmana too may not always follow the [Samhita's] sequence.
-
-**Embedded English translation, as given in the source:**
-
-> In all cases where a recitation of the whole mantra portion is commanded, the traditional order must be rigidly followed.
->
-> Now Asvalayana's purpose is, by reference to Scripture, indicatory marks, direct statements and the like, to set out the special applications of individual texts. The fact that he does not follow the order in which the texts stand in the Sanhita should present no difficulty.
->
-> In the case of the Yajur Veda, on the other hand, the hymns in the sacred text stand already in the order of the performance of the sacrifice,—an order which is accordingly followed by Apastamba and other authors of Kalpa Sutras.
 
 <div class="pgmark">original p. 556</div>
 
@@ -15980,14 +14513,6 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 
 **You will say**, let Ashvalayana, if he pleases, give the application of the Samidheni verses "pra vo vajah" and the like. But what does he mean by giving the application of such...
 
-**Embedded English translation, as given in the source:**
-
-> It is true that the brahmana of the Rig Veda begins with the dikshaniya rite. But that rite is merely a modification of the New and Full Moon sacrifice to which it makes constant reference. So Asvalayana did well to begin his exposition with his latter rite.
->
-> It has thus been shown that the second Anga, the Kalpa Sutra, stating as it does the application of the various texts, is useful in teaching the performance of the sacrifice.
->
-> You will say, Let Asvalayana, if he pleases, give the application of the Samidheni verses "pra vo vajah" and the like. But what does he mean by giving the application of such
-
 <div class="pgmark">original p. 557</div>
 
 **verses as, for example,**
@@ -16008,12 +14533,6 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 
 **and similar verses** — [why does he not] rather cite the application of these verses that belong wholly to the revealed Rig Veda text itself? — This is not a fault. All the texts that bear on a particular sacrifice should, **in accordance with the "गुणोपसंहारन्याय" (*guṇopasaṃhāra-nyāya*)** (the principle of gathering together whatever qualities are relevant), be given, in whatever Shakha they are found. **Logicians say that each rite rests on all the Shakhas; therefore Kalpa, like Śikṣā, must be attended to.**
 
-**Embedded English translation, as given in the source:**
-
-> verses as, for example, "namah pravaktre," which are no part of the revealed text of the Rig Veda at all? He is not in fault. He does well, &c.
->
-> This is not a fault. All the texts that bear on a particular sacrifice should, in accordance with the 'gunopasamhara' nyaya, be given, in whatever Sakha they are found. Logicians say that each rite rests on all the Sakhas; therefore Kalpa like Siksha must be attended to.
-
 ### The Third Anga: Vyākaraṇa (Grammar) — Its Purpose Set Out Through Its Defining Characteristics, in the Manner Shown by Vararuchi and Patañjali
 
 <div class="pgmark">original p. 558</div>
@@ -16026,10 +14545,6 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 > "**In old days Speech was indiscreet.** The gods came to Indra, and said, 'Separate Speech for us into its parts.' He said, 'Give me and Vayu a boon, let us take it together.' **Therefore, the Aindravayava [offering] is taken together.** Then Indra took Speech by the middle, and divided it into its parts. **And that is the origin of Speech divided into parts (vyākṛta).**"
 
 **Meaning:** in ancient times, Speech (Vāk) existed only in an undivided, unanalyzed form — it had not yet been separated into its constituent parts, and was thus spoken in a scattered, indistinct manner. Perceiving this defect, the gods approached Indra and requested him to properly divide Speech into its parts. Indra agreed on the condition that this task be shared jointly with Vayu — hence the well-known "Aindravayava" oblation, offered to Indra and Vayu together, commemorates this shared undertaking. Indra then took hold of Speech at her very middle and divided her methodically into her constituent parts. From this act arose "vyākṛta vāk" — Speech properly analyzed and divided — which is precisely what the science of **Vyākaraṇa** ("grammar," literally "the analysis/division [of speech]") takes as its own subject-matter and derives its very name from.
-
-**Embedded English translation, as given in the source:**
-
-> Next, Grammar is of use in determining the form and the meaning of words from the instruction it gives as to roots, suffixes and the like. The "Aindravayavagraha brahmana" gives the following inspired account of this: "In old days Speech was indiscreet. The gods came to Indra, and said, Separate Speech for us into its parts. He said, Give me and Vayu a boon, let us take it together. Therefore, the Aindravayava is taken together. Then Indra took Speech by the middle, and divided it into its parts. And that is the origin of Speech divided into parts (vyakrita)."
 
 <div class="pgmark">original p. 559</div>
 
@@ -16047,12 +14562,6 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 **"Rakṣā"** [protection] — the protection of the Veda [refers to preserving Vedic texts from corruption]. "**Pradhānaṃ ca ṣaḍbhis sneha-vyākaraṇam**" [Grammar is chief among these six, being the means of proper linkage]. "**Pradhāne ca kṛto yuktaḥ phalāt tṛptavati**" [Being primary, its fruit is complete]. "**Alpākṣaraṃ cābhyeyaṃ vyākaraṇam**" — Grammar is to be studied precisely because it is concise, [and thereby valuable]. "**Bṛhaspatiḥ riṃ nyāya vidyaṃ varṣa-sahasraṃ pratipada-doktvā śakalanāṃ śabdānām**" [Brihaspati taught the doctrine of words, syllable by syllable, for a thousand years]. "**Śabba-kṣatrāṃ**" [thus the science of words] "**Indrāya prāha**" — [and] taught it to Indra. "**Divyaṃ varṣa-sahasram adhyayana-kālaḥ**" — the period of study extended for a thousand celestial years. "**Aṃśaṃ ca na jagāma**" — and even then, he did not reach the end of it. "**Ādyas tu punar api paramāyāḥ bhagavatī sa kala-sad-āvaga-nu bhūta kuta sarva śabda-tāvagena sakala-sad-āva-vagenaḥ kuta sarva-pradeśāvena caitāyaṃ vyākaraṇam**" — [this concise treatise on] Grammar, [treating] all the requisite subjects, teaches "using appropriate speech" as its purpose.
 
 **"Laghu-tvam"** [brevity] — a shortened word, used quickly (śīghra), is preferable. **"Sandehe"** — where doubt arises whether a particular is or is not a word: is it "sthūla" or "sthūlā," is it "śva" or "śvā" — [Grammar resolves this]. **"Kartā"** [the agent] — as with "dāśvaḥ" — [the one who has given]. **"Anavadyaṃ kṛta-śrī"** — [Grammar renders speech] faultless. **"Ubhaya-taḥ"** — on both sides. **"Duṣṭaḥ śabdaḥ svarato vā varṇato vā"** — **a word [used] incorrectly, whether in accent or in letter, [causes fault]. "Mithyā-prayukto na tam artham āha"** — [a] wrongly-used [word] does not convey that meaning [it is intended to]. **"Sa vāgvajro yajamānaṃ hinasti**" — **that word becomes a thunderbolt, and strikes the sacrificer**. **"Duṣṭaḥ śabdaḥ svaratovā"** — this is confirmed [by scripture] — **"yathendraśatruḥ svarato'parādhāt"** — as in the case of "indraśatru" mispronounced in accent. **"Tasmāt yajñeṣu prayoktavyaṃ śreyaḥ vyākaraṇam**" — **therefore, in sacrifices, Grammar should be properly employed.**
-
-**Embedded English translation, as given in the source:**
-
-> The meaning of this is as follows: In old days a text like "agnim ile purohitam" was an indiscrete sound like the roar of the sea. And there was no book to help to distinguish in it between roots, affixes, words and sentences. Then Indra, at the request of the gods, being propitiated by a boon in the form of an offering of soma poured into one vessel for him and Vayu, divided Speech in the middle, and established the divisions between roots, affixes and the like. And that is why all can now recite Speech as it has been analysed by Panini and other great sages.
->
-> The special use of this analysis of words, or Grammar, is shewn by Vararuchi in the Vartika, "rakshohagamalaghvasamdehah prayojanam." These and other uses are explained in the Mahabhashya by Patanjali as follows:—
 
 <div class="pgmark">original p. 560</div>
 
@@ -16083,14 +14592,6 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 
 **On "Sandeha" (Doubt):** where genuine uncertainty arises regarding whether a word is being used correctly — for example, doubt about whether the intended sense is being properly conveyed by a given form — only knowledge of Grammar dispels such doubt and confirms the word's true, correct application.
 
-**Embedded English translation, as given in the source:**
-
-> "Grammar should, in the first place, be studied for the protection of the Vedas. Only he who knows the laws under which letters are dropped, or added, or modified, will be able adequately to guard the Vedas, and to understand their meaning.
->
-> "Uha comes next. The texts are not given in the Veda in all the required genders and cases. They must needs be altered when used at the sacrifice, to suit the particular occasion. No one ignorant of Grammar can make the necessary alterations. Grammar should therefore be studied for this reason also.
->
-> "Scripture comes next. There is the text 'A brahmin should learn and understand disinterested virtue in the shape of the Veda with six Angas.' Among the six Angas Grammar is important. Effort spent on what comes first must be fruitful.
-
 <div class="pgmark">original p. 561</div>
 
 **On "Lāghava" (Brevity/Conciseness) — continued:**
@@ -16113,12 +14614,6 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 > "**One should offer a great-spotted [cow] [belonging] to Agni-Varuna, and a bull.**"
 
 "Here no one but a grammarian can say how the compound '**sthūlapṛṣatī**' is to be taken. He decides by the accent. If the acute accent were on the last syllable of the compound, the word would be a **karmadhāraya** (descriptive compound, meaning 'great and spotted'). As it is, the compound has the accent on its first member, and it is therefore a **bahuvrīhi** (possessive compound, meaning 'she who has great spots')."
-
-**Embedded English translation, as given in the source:**
-
-> "Next, Grammar should be studied for conciseness' sake. Brihaspati taught Indra the science of words for a thousand years of the gods, giving him one word after another. He never got to the end. Yet Brihaspati was the teacher, and Indra was the scholar, and the lesson lasted for a thousand years of the gods. And still he did not get to the end. Nowadays if a man is long-lived, he may reach a hundred years. How can he apprehend, much less learn to use rightly, all words if taught them word by word?
->
-> "Lastly, Grammar should be studied for the removal of doubts. The priests recite the text 'sthulaprishatim agnivarunam anadvahim alabheta.' Here no one but a grammarian can say how the compound 'sthulaprishati' is to be taken. He decides by the accent. If the acute accent were on the last syllable of the compound, the word would be a karmadharaya. As it is, the compound has the accent of its first member, and it is therefore a bahuvrihi.
 
 <div class="pgmark">original p. 562</div>
 
@@ -16143,18 +14638,6 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 >
 > "**A word with a wrong accent or a wrong letter is used in vain since it does not convey the same meaning: it is a spoken thunderbolt that will destroy the sacrificer, as, for example, the word 'indraśatru' with the accent misplaced.**"
 
-**Embedded English translation, as given in the source:**
-
-> "Moreover there are these further uses of grammar. 'Te'surah, dushtah sabdah, yad adhitam, yas tu prayunkte, avidvansaha, vibhaktim kurvanti, yo va imam, chatvari, uta tvah, saktum iva, sarasvatim, dasamyam putrasya, sudevo 'si varuna.'"
->
-> 'Te'surah.
->
-> "The Asuras shouted 'helayo helayah' (he 'rayo he 'rayah) and were defeated. Therefore a brahmin should not speak the language of the barbarian, should not use bad forms. The word 'mlechchha' here is equivalent to 'apasabda.' Let us study grammar that we may not be Mlechchhas.
->
-> "Dushtah sabdha.
->
-> 'A word with a wrong accent or a wrong letter is used in vain since it does not convey the same meaning: it is a spoken thuuderbolt that will destroy the sacrificer, as, for example, the word indrasatru with the accent misplaced.'
-
 <div class="pgmark">original p. 563</div>
 
 Now let us critically examine the grammatical discussion that stands as the principal matter among the Veda's Angas. Grammar accepts and orders the roots (prakṛti), suffixes (pratyaya), word-forms, and their meaning-determinations in the appropriate contexts where they apply. As it was said before, this too has its basis in the **Aindravāyavagraha-brāhmaṇa**—
@@ -16165,16 +14648,6 @@ Now let us critically examine the grammatical discussion that stands as the prin
 **Meaning:** in the beginning, Speech spoke unclearly (avyākṛta — undivided), rendering it useless [for correctly conveying meaning]. Then the gods approached Indra, asking, "Divide this Speech of ours [into parts] for us." He agreed, saying, "Give this offering jointly to me and to Vayu." Because of this, [the offering] is given jointly to Indra and Vayu even now (this is called "Aindravāyava" — a specific offering-related Dharma tradition). Both deities accepted the offering. Then Indra took hold of Speech at her very middle and divided her methodically. That is why what we now recite is "vyākṛta vāk" — Speech that has been analyzed and divided into her proper constituent parts.
 
 **Grammar itself was, in ancient times, composed in the earliest period — vast in extent, like the ocean itself.** The roots, suffixes, words, and sentences were originally undivided (agrantha, unarranged into a systematic textual form). Then, out of desire for the fulfillment [of ritual duties], the gods approached Indra alone specifically, and by combining the powers of Vayu and Soma-Rasa-graha with him, established a fixed order — and thus, from that point on, this speech came to be arranged in a systematic, divided fashion, namely: words, roots, and suffixes, distinguished from one another. **Because of this, the wisest sages, from Pāṇini onward, arranged this speech (that is, established a grammatical treatise) in a fixed, methodical form — this is the understood significance here.**
-
-**Embedded English translation, as given in the source:**
-
-> "Let us study Grammar that we may not be guilty of using wrong forms.
->
-> "Yad adhitam.
->
-> 'A text learned but not understood and so recited is like dry fuel thrown where no fire is: it will never blaze up.'
->
-> "Let us study Grammar that we may not learn the Veda without understanding its meaning.
 
 <div class="pgmark">original p. 564</div>
 
@@ -16195,17 +14668,9 @@ Regarding what specific purpose this Grammar serves, later scholars, in their ow
 
 **Sandeha (Removal of Doubt):** even one who knows how to distinguish between correct and incorrect forms may occasionally have doubts about a particular word's status. If, at such a time, one lacks the ability to apply Grammar's rules, one cannot resolve the doubt.
 
-**Embedded English translation, as given in the source:**
-
-> "Yas tu prayunkte.
->
-> 'He who knows how to put words together, and skilful in discriminating between them, uses them rightly on occasion, obtains endless victory in heaven: but he is injured by bad forms.'
->
-> "Who is injured? The same man, he who knows how to put words together. For he who knows what the right forms are must also know what the wrong forms are. And if
-
 <div class="pgmark">original p. 565</div>
 
-...religious merit accrues to him from his knowledge of the right form, religious demerit must accrue to him from his knowledge of the wrong form. **In fact, more demerit than merit. For wrong forms are many, right are few. Every word has many corruptions. Take the word**
+religious merit accrues to him from his knowledge of the right form, religious demerit must accrue to him from his knowledge of the wrong form. **In fact, more demerit than merit. For wrong forms are many, right are few. Every word has many corruptions. Take the word**
 
 > गौः ।
 > *gauḥ |*
@@ -16233,10 +14698,6 @@ The sutras of these [purposes] are as follows: **rakṣā, śabdaḥ, uditvaṃ,
 
 **Devāsurāḥ (Gods and Asuras):** it is said that in ancient times, gods and demons — belonging to the same lineage — became rivals for supremacy over the three worlds. Then, both sides ("devāḥ" and "asuraḥ")...
 
-**Embedded English translation, as given in the source:**
-
-> religious merit accrues to him from his knowledge of the right form, religious demerit must accrue to him from his knowledge of the wrong form. In fact, more demerit than merit. For wrong forms are many, right are few. Every word has many corruptions. Take the word gauh. Corrupt forms of it are gavi, goni, gopotalika, and the like. As for the man who does not know how to put words together, his ignorance is his safety.
-
 <div class="pgmark">original p. 566</div>
 
 (In place of the letter "l" [in certain dialectal pronunciations, sounds shift]) — using "r" in place of "l" pronounces "layaḥ" as "rayaḥ" ("layaḥ" = destruction; "rayaḥ" = wealth) — and speaking this way, if "layaḥ" (destruction) is [mistakenly] spoken as "layaḥ" (with a corrupted, garbled sound), it becomes offensive to a brahmin's ears. That is why one should avoid speaking corrupted speech (mleccha-speech). And that "corrupted speech" (apaśabda) itself is precisely what must not be uttered — a corrupted word must be studiously avoided; Grammar should therefore be studied specifically to avoid such corrupted speech.
@@ -16260,10 +14721,6 @@ Whether wrong in accent or wrong in letter — a word used incorrectly does not 
 > यस्तु प्रयुङ्क्ते कुशलो विशेषे शब्दान्यथावद्व्यवहारकाले ।
 > *yas tu prayuṅkte kuśalo viśeṣe śabdān yathāvad vyavahāra-kāle |* (see page 564 above)
 
-**Embedded English translation, as given in the source:**
-
-> "This is a hard saying. Ignorance ought not to be safety. The man who slays a brahmin or who drinks wine in ignorance would, I presume, fall from caste despite his ignorance. Who then is it that is injured? The man who does not know how to put words together. As for the man who knows his knowledge is his safety.
-
 <div class="pgmark">original p. 567</div>
 
 > सोऽकनन्तेमाप्रोत्येति जयं परत्रे वाग्योगविद्दुष्यति चापशब्दैः ॥
@@ -16277,15 +14734,9 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 
 **Jaimini and other Mīmāṃsakas insist one must know what constitutes dharma, and equally know what constitutes adharma** — precisely for this purpose. Both must be known: to perform dharma, and to avoid adharma. Even here [in the Śikṣā's own account], "śabda" (correct word) and "aśabda" (incorrect word)...
 
-**Embedded English translation, as given in the source:**
-
-> "Avidvansah.
->
-> 'But the unlearned, who do not know that, in responding to a salutation they should protract the vowel—in approaching them he should simply say, as he would to a woman, Here am I.'
-
 <div class="pgmark">original p. 568</div>
 
-...one must know both. Knowing the correct word, and knowing how it should be applied; knowing the incorrect word, and knowing how it should be avoided in application — **for this very reason, Grammar should be studied.**
+One must know both. Knowing the correct word, and knowing how it should be applied; knowing the incorrect word, and knowing how it should be avoided in application — **for this very reason, Grammar should be studied.**
 
 **"Avidvāṃsaha"** (The Ignorant) — regarding this term, since it discusses those who are ignorant of Grammar, it has been treated already in similar contexts. Since it discusses persons devoid of grammatical knowledge, it treats the fault of using improper forms — this is given here as an example—
 
@@ -16303,21 +14754,9 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 
 **"Yo Vā Imām"** (He Who [Analyses] This [Speech]) — this well-known text of the Rig Veda declares that whoever fully knows word, accent, and letter — one must know these matters, distinguishing each accent, each letter, in due order—
 
-**Embedded English translation, as given in the source:**
-
-> "Let us study Grammar that we may not be treated like women.
->
-> "Vibhaktim kurvanti.
->
-> "The priests recite the text 'prayajah savibhaktikah karyah.' But without Grammar this precept cannot be complied with. Let us study Grammar then for this reason.
->
-> "Yo va imam.
->
-> "He who can analyse speech, word by word, accent by accent, letter by letter, he and he only is fit to be a priest."
-
 <div class="pgmark">original p. 569</div>
 
-...according to the rules — only such a person is fit to be a priest. One who cannot properly divide sentences, syllables, or word-portions; who cannot distinguish accent-differences, letter-differences, or the boundaries within a compound; who cannot properly identify [ritually] related words — such a person is unfit to serve as priest in yajna and similar rites. **Therefore, only one who is thoroughly versed in Grammar is fit for priesthood.**
+Whoever can resolve these according to the rules — only such a person is fit to be a priest. One who cannot properly divide sentences, syllables, or word-portions; who cannot distinguish accent-differences, letter-differences, or the boundaries within a compound; who cannot properly identify [ritually] related words — such a person is unfit to serve as priest in yajna and similar rites. **Therefore, only one who is thoroughly versed in Grammar is fit for priesthood.**
 
 **Here, to illustrate the analysis of words and accented letters, the Nirukta gives the following example**—
 
@@ -16336,14 +14775,6 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 > "**With four horns, three feet, two heads, seven hands in Bull, penned up in three places roars mightily; a great god has entered mortals.**"
 
 Since this mantra holds a hidden meaning, many commentators have construed it in many ways. The poet Rājaśekhara, in the second chapter of his Kāvyamīmāṃsā, says that it describes the form of the Word (śabda) as the Great God; Yāska, the author of the Nirukta, says it sets forth the form of the Yajña-puruṣa (Nirukta 13-7). Sāyaṇācārya, commenting on the sūkta in which the mantra stands, explains it in five ways, because the sūkta's deities are Agni, Sūrya, Āpas (waters), cows and ghṛta (ghee) … *(It continues on the next page.)*
-
-**Embedded English translation, as given in the source:**
-
-> "Let us study Grammar that we may be fit to be priests.
->
-> "Chatvari.
->
-> 'With four horns, three feet, two heads, seven hands in Bull, penned up in three places roars mightily; a great god has entered mortals.'
 
 <div class="pgmark">original p. 570</div>
 
@@ -16374,10 +14805,6 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **Ā Viveśa** (Has Entered) — meaning: has entered into, taken possession of. That great deity — namely Grammar itself — has entered into mortal beings [i.e., speakers] and dwells within them.
 
-**Embedded English translation, as given in the source:**
-
-> "The four horns are the four kinds of words,—the noun, the verb, the preposition, and the particle;—the three hands are the three times; the two heads are the nominal and verbal terminations: the seven hands are the seven cases; the three times in which the Bull is penned are the breast, the throat and the head. He is called here a Bull (vrishabha), because he rains down (varshana) blessings. 'Roravīti,' from the root 'ru' to make a noise. A great god has entered mortals. Let us study grammar that we may attain to union with this great god.
-
 <div class="pgmark">original p. 571</div>
 
 **Or this verse may be quoted under the heading "Catvāri"** — since it belongs to the sutra as an illustrative example, we may cite here another well-known verse—
@@ -16401,17 +14828,9 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **The meaning of the word "muktārtha"** [liberated/complete sense] is that speech has four distinct kinds. Grasping this well, brahmins who genuinely know [this doctrine] understand: among these four kinds of speech-categories, in three of them exist countless forms — but in only one does the ordinary usage practiced by human beings actually occur. That which remains, unspoken and unmoving in most cases, is what most people are unaware even exists. Here, the terms "manīṣiṇaḥ" and "brāhmaṇāḥ" are used interchangeably, discussed together, and their meaning...
 
-**Embedded English translation, as given in the source:**
-
-> "Or this verse may be quoted under the heading Chatvari.
->
-> 'There be four divisions of speech: brahmins who are wise know all four: but three lie hid in their secret place and do not move; the fourth part of speech men speak.'
->
-> "'Manishinah' means 'manasa ishinah.' 'Guha' is a Vedic form for 'guhayam' as is also 'nihita' for 'nihitani.' 'Turiyam vacho manushya vadanti,' that is, it is the fourth part of speech only that is current among men.
-
 <div class="pgmark">original p. 572</div>
 
-...as spoken of here. "**Guhā**" means "guhāyām" (in the hidden place); "**guha**" carries the sense of [something] concealed. In this context, the essence of things not yet understood is spoken of as hidden within the Veda. "**Turīyaṃ**" means the well-known form, that which has come down through generations, [the portion that] is well-established. Some scholars, [regarding the three hidden portions,] hold that what is inaccessible remains genuinely secret, while what is well-known and commonly used is understood as the accepted meaning.
+Such persons are those spoken of here. "**Guhā**" means "guhāyām" (in the hidden place); "**guha**" carries the sense of [something] concealed. In this context, the essence of things not yet understood is spoken of as hidden within the Veda. "**Turīyaṃ**" means the well-known form, that which has come down through generations, [the portion that] is well-established. Some scholars, [regarding the three hidden portions,] hold that what is inaccessible remains genuinely secret, while what is well-known and commonly used is understood as the accepted meaning.
 
 ### "Uta Tvaḥ" (Moreover, One)
 
@@ -16429,17 +14848,9 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **This mantra**, according to the scholarly tradition, is explained differently depending on which of the four categories mentioned in the preceding verse is taken as its subject; and even within our own [Taittiriya-Shakha] tradition, the wise (those who have thoroughly mastered Grammar) understand this mantra by first grasping its true intent through the mind, before articulating it in speech...
 
-**Embedded English translation, as given in the source:**
-
-> "Uta tvah.
->
-> 'One seeing does not see Speech: one hearing does not hear her; to one she unfolds her form as a loving wife shows herself to her husband in fair garments.'
->
-> "'Moreover, one seeing does not see, and hearing does not hear her.' This half of the verse refers to the ignorant man. But to one she unfolds, that is, reveals her form,
-
 <div class="pgmark">original p. 573</div>
 
-...explaining this fully; thus have the wise elaborated it. Just as [in the analogy given], while looking at her, they know her [that is, understand her true meaning]; from this act of looking arises genuine understanding. This is spoken of as revealed only to those who possess this quality (that is, those able to properly perceive the meaning through Grammar's own light).
+explaining this fully; thus have the wise elaborated it. Just as [in the analogy given], while looking at her, they know her [that is, understand her true meaning]; from this act of looking arises genuine understanding. This is spoken of as revealed only to those who possess this quality (that is, those able to properly perceive the meaning through Grammar's own light).
 
 **"'As a loving wife shows herself in fair garments to her husband.' As a wife full of love for her husband puts on her fair attire and shows herself to him, so Speech reveals herself to the wise. Let us study Grammar that Speech may reveal herself to us."**
 
@@ -16460,16 +14871,6 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 > *bhadraiṣāṃ lakṣmīr nihitādhi vāci* — *iṣāṃ vāci bhadrā lakṣmīr nihitā bhavati |*
 
 "**A gracious fortune is upon their words.**" — meaning: an auspicious splendor resides upon the speech [of those wise ones]. Since [precisely] the grammatical treatises (vyākaraṇa-śāstra) demonstrate that meaning-bearing forms are present within such words, an auspicious lustre indeed rests upon them.
-
-**Embedded English translation, as given in the source:**
-
-> 'as a loving wife shows herself in fair garments to her husband.' As a wife full of love for her husband puts on her fair attire and shows herself to him, so Speech reveals herself to the wise. Let us study Grammar that Speech may reveal herself to us.
->
-> "Saktum iva.
->
-> 'Where wise men draw speech hither and thither in their mind, purifying it as men purify grain with a winnowing basket—there friends learn what friendship is: a gracious fortune is upon their words.'
->
-> "The word 'saktu' here derived from 'sachati': it means 'hard to purify.' Or we may take it from 'kasati,' become by transposition 'sakati.' In that case it would mean
 
 <div class="pgmark">original p. 574</div>
 
@@ -16493,18 +14894,6 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **Meaning:** the person's name should either begin with, or have in its middle, a semivowel (y, r, l, or v) [i.e., an "antasthā" consonant], and should end with the visarga. It should be two syllables in length, or four; it should be formed as a "kṛt"-derivative (from a verbal root, via primary suffixes), and must never be a "taddhita"-derivative (a secondary derivative formed from another noun). Whoever wishes to properly assign a name according to these precise grammatical rules must, without exception, possess knowledge of Grammar; without it, this precept cannot be properly carried out.
 
-**Embedded English translation, as given in the source:**
-
-> "Sarasvatim.
->
-> 'If he whose fire has been lit uses a bad form, he must perform the expiatory Sarasvati rite.'
->
-> Let us study Grammar that we may not have to perform expiatory rites.
->
-> "Dasamyam putrasya.
->
-> 'Let him name the boy on the tenth day after his birth. He must make the name of the sonants, with y, r, l or v in the beginning or middle, and the visarga at the end, of two syllables or four, a krit, and not ending in a taddhita.' But without a knowledge of
-
 <div class="pgmark">original p. 575</div>
 
 ### "Sudevo Asi" (Thou Art a Glorious God) — Found in the Rigveda Samhita
@@ -16521,20 +14910,6 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 ### Next, the Use of the Nirukta
 
 **The name [Nirukta] implies a collection of words uttered (ukta), so, however, that they do not depend on each other for their meaning (nir).** Accordingly, the revealed enumeration of words — which begins "**gauḥ gma jma kṣa kṣama**" and ends "**vasavaḥ vajinaḥ devapatnayo devapatnayaḥ**" — forms a book throughout which there is no...
-
-**Embedded English translation, as given in the source:**
-
-> Grammar, it is not possible to distinguish between a krit and a taddhita affix. Let us study Grammar, then, for this reason also.
->
-> "Sudevo asi.
->
-> 'Thou art a glorious god, Varuna, thou along whose throat the seven streams flow as through a hollow pillar.'
->
-> The seven streams are the seven cases. 'Kakut' means the tongue. 'Kakuda,' that in which the tongue is, therefore means the palate. 'Urmi' or 'Surmi' is a stout hollow pillar made of iron.
->
-> In the same way are to be added here the uses of grammar given in the vartika, "siddhe sabdarthasambandhe &c."
->
-> Next of the use of the Nirukta. The name implies a collection of words uttered (ukta), so, however, that they do not depend on each other for their meaning (nir). Accordingly the revealed enumeration of words which begins "Gauh gma jma ksha kshama" and ends "vasavah vajinah devapatnyo devapatnyah" forms a book throughout which there is no
 
 <div class="pgmark">original p. 576</div>
 
@@ -16560,18 +14935,6 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **"The part beginning with 'Agni,' and ending with 'Devapatnyaḥ' is called the Devatā chapter. From Agni to Urjahati is the host of gods that are on the Earth.**
 
-**Embedded English translation, as given in the source:**
-
-> mutual reference from one word to another required to establish a sense. For it is clearly said "so many are the names of 'earth,' so many are the names of 'gold,' &c."
->
-> This Nirukta is divided into three chapters, as is shown in the commentary on the Anukramanika.
->
-> "First the Naighantuka chapter, second nigama, third the Daivata, thus is the Samamnaya divided into three parts.
->
-> "The Naighantuka is considered to be the part beginning with 'gauh' and ending 'apage': the part beginning with 'jaha' and ending with 'ulbam ribisam,' they declare to be the Naigama.
->
-> "The part beginning with 'Agni,' and ending with 'Devapatnyah' is called the Devata chapter. From Agni to urjahati is the host of gods that are on the Earth.
-
 <div class="pgmark">original p. 577</div>
 
 > वायोर्भगान्तमन्तरिक्षदेवतानां सूर्यादि देवपत्न्यन्तं दिवि देवतानाम् ॥
@@ -16591,14 +14954,6 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 **Even the very authorship of this book (Nighaṇṭu) is not settled with certainty among scholars.** Regarding its origin, some hold varying views — but its own arrangement, its chapter-and-verse organization, and its authoritative status regarding synonym-lists are firmly established, notwithstanding disagreements about its precise authorship. **There is no dispute regarding all this.** Its content bears directly on the science of etymology (Nirukta) and its practical application, being useful for that purpose (page 576 discussion, above).
 
 **Therefore, this concludes the summary of the Devata-Anga's Nirukta discussion.**
-
-**Embedded English translation, as given in the source:**
-
-> "Let the section from Vayu to Bhaga be for the gods in mid-air: and that from Surya to Devapatnyah for the gods in heaven."
->
-> "So the whole Samamnaya from 'Gauh' to 'Devapatnyah' is studied."
->
-> Nighantu is a well-established name for a book which contains chiefly lists of synonyms. As for example, such books as Amarasinha, Vaijayauti, Halayudha and others are spoken of as the ten Nighantus. In the same way the first chapter of our book, which gives a list of synonyms, is called a Nighantu. There are three adhyayas in this chapter. In the first we have names of things, such as the earth and the other worlds and space and time; in the second, we have the names of things such as men and the limbs of men: in the third, we have qualities, such as multitude or shortness belonging to both classes of things.
 
 <div class="pgmark">original p. 578</div>
 
@@ -16624,15 +14979,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **The reason why the third chapter, which is the fifth adhyāya, is called Daivata is plain.**
 
-**The whole book, consisting of five adhyāyas or three chapters, is thus called Nirukta, because it teaches the meanings of words that stand in the lists perfectly independent of each**...
-
-**Embedded English translation, as given in the source:**
-
-> The word 'nigama' means Veda. For Yaska when citing a Vedic text constantly uses the formula, "And there is a nigama with regard to this." Because the second chapter, which is the fourth adhyaya, deals with words that, for the most part, occur in the Veda, it is therefore called Nigama.
->
-> The reason why the third chapter, which is the fifth adhyaya is called Daivata is plain.
->
-> The whole book, consisting of five adhyayas or three chapters, is thus called Nirukta, because it teaches the meanings of words that stand in the lists perfectly independent of each
+**The whole book, consisting of five adhyāyas or three chapters, is thus called Nirukta, because it teaches the meanings of words that stand in the lists perfectly independent of each other**.
 
 <div class="pgmark">original p. 579</div>
 
@@ -16676,10 +15023,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 —...
 
-**Embedded English translation, as given in the source:**
-
-> other. Yaska composed the commentary on it in twelve adhyayas, beginning 'samamnayah samamnatah' and ending 'tasyas tasyas tadbhavyam anubhavatyanubhavati.' This commentary also is called Nirukta. Because the supposed elements of each word are here fully (nir) set out (ukta). For in his book, after having declared the fourfold division of words into nouns, verbs, prepositions and particles, Yaska declares that particles fall into (nipatanti) various meanings. Having thus analysed the term 'nipata,' he gives an example. 'Na' means only prohibition in common talk: in the Veda it means both (prohibition and comparison). In the text 'nendram devam amansata,' it means prohibition. In the text 'durmadaso na 'surayam,'
-
 <div class="pgmark">original p. 580</div>
 
 **it means comparison. This is the example given in the Nirukta for the double use of the particle 'na,' as meaning both 'no' and 'if' in the Veda, whereas in common talk it means 'no' only. We shall have frequent occasion in the course of our commentary to cite similar etymologies given by this author.**
@@ -16708,14 +15051,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **"Therefore, this branch of learning (Nirukta) exists as a specialized supplement to Grammar."**
 
-**Embedded English translation, as given in the source:**
-
-> it means comparison. This is the example given in the Nirukta for the double use of the particle 'na,' as meaning both 'no' and 'if' in the Veda, whereas in common talk it means 'no' only. We shall have frequent occasion in the course of our commentary to cite similar etymologies given by this author.
->
-> Nor need it be feared that these etymologies have no foundation in fact. For some of them are given in the brahmanas. 'This is that in virtue of which the ahutis are so called.' Therefore they call him 'Indra.' 'Because he stretched it out (aprathayat), that is why the earth (prithivi) is so called.' The author himself will also be found citing brahmanas in proof of the etymologies he gives.
->
-> It is true that the etymology of some words can be learned from Grammar. But not all. Wherefore the author says 'Therefore this science is the essence of Grammar and establishes the proper sense of the words.' Therefore the Nirukta is useful towards the understanding of the Veda.
-
 <div class="pgmark">original p. 581</div>
 
 **"Kārtsnyaṃ svārthasādhakaṃ ca"** (Nirukta 1-15) — for this reason, this shastra (Nirukta) properly determines the meanings of words that are not otherwise settled by any means. **Therefore, Nirukta must be studied specifically for the sake of the Veda's meaning.**
@@ -16739,10 +15074,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **Meaning:** because in ritual matters, certain specific meters are prescribed as obligatory to use in various contexts, one must study the science of metrics (Chandas-shastra) in order to properly know these meters, distinguish them correctly, and apply the right meter in the right context. This is precisely why the fifth Anga — Chandas — exists and must be studied.
 
 **On this point, our own tradition gives the following explanation.** The seven principal meters are: Gāyatrī, Uṣṇik, Anuṣṭubh, Bṛhatī, Paṅkti, Triṣṭubh, and Jagatī. Gāyatrī consists of twenty-four syllables; Uṣṇik has four syllables more, thus consisting of twenty-eight; and continuing in this manner, each subsequent meter contains four syllables more than the one preceding it — thus Anuṣṭubh, Bṛhatī, Paṅkti, Triṣṭubh, and finally Jagatī, each increasing progressively.
-
-**Embedded English translation, as given in the source:**
-
-> So, too, is Chhandas or the book on metres. Because throughout the ritual certain metres are declared to be obligatory in certain cases. As, for example, in the text, "Therefore seven plus four metres are recited in the prataranuvakya." Gayatri, Ushnik, Anushtubh, Brihati, Pankti, Trishtubh are the seven metres. The Gayatri consists of twenty-four syllables. The Ushnik has four more, and thus consists of twenty-eight syllables. So the others may be worked out, as the Anushtubh for example, each containing a greater number of syllables than the one before. Let me give another text. "He should say the fire for a Brahmin with Gayatri verses, for a Kshattriya with Trishtubh verses, and
 
 <div class="pgmark">original p. 582</div>
 
@@ -16770,12 +15101,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **Therefore, the Chhandas book on metres is useful for this knowledge.**
 
-**Embedded English translation, as given in the source:**
-
-> for a Vaisya with Jagati verses. Now in a matter of this kind, it is not easy without the Chhandas book to apprehend the distinction between the different metres as that is laid down in the technical rules given there. I can quote a third text. "The man who sacrifices or teaches by means of a mantra whose rishi, metre and devata he does not know, runs up against a post, or falls into a well, or perishes utterly: his guilt is increased. Therefore for every mantra he must know all these."
->
-> Therefore the Chhandas book on metres is useful for this knowledge.
-
 ### The Sixth Anga: Jyotiṣa (Astronomy) — Its Purpose and Significance Determined
 
 <div class="pgmark">original p. 583</div>
@@ -16790,12 +15115,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **This is the meaning: the Jyotiṣa serves the purpose belonging to yajnas and similar rites specifically because the treatise itself declares this.** Since all yajnas and similar acts must be performed at their properly appointed times, determining that time correctly is the primary purpose which the science of Jyotiṣa serves. The mantras used in performing yajnas must be known together with their proper timings, and these are specified in various places throughout the Veda—
 
 **"To establish the reasons and times for sacrifices" — one should establish this by knowing the proper measure of the year's timing** [and so on].
-
-**Embedded English translation, as given in the source:**
-
-> The use of the Jyotisha is thus given in that book itself. "To establish the times and reasons for sacrifices." There are texts prescribing all manner of times. The text 'samvatsaram &c.' refers to periods of years. The text 'vasante &c.' refers to months. The text 'masi mase, &c.' refers to months. The text 'yam kamayeta' refers to half months. The text 'ekashtakayam, &c.' refers to days. The text 'krittikasu, &c.' refers to the nakshatras.
->
-> Therefore the Jyotisha is useful for determining the times and seasons proper for sacrifices.
 
 <div class="pgmark">original p. 584</div>
 
@@ -16827,14 +15146,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 >
 > "**'Chhandas is the feet of the Veda, and Kalpa is declared to be its hands: Jyotisha is called its eye, and the Nirukta its ear. Śikṣā is the Veda's nose, Grammar they call its face: therefore he who studies the Veda along with these its limbs will be great in heaven.'**"
 
-**Embedded English translation, as given in the source:**
-
-> That these six books which we have shown to be helps to the understanding of the Veda are 'Angas' or limbs of the Veda is declared in the Siksha itself:
->
-> "Chhandas is the feet of the Vada, and Kalpa is declared to be its hands: Jyotisha is called its eye, and the Nirukta its ear.
->
-> "Siksha is the Veda's nose Grammar they call its face: therefore he who studies the Veda along with these its limbs will be great in heaven."
-
 ## Chapter 18. Why Knowledge of the Puranas, Nyaya, and Other Disciplines Is Necessary for Understanding the Veda's Meaning; and the Marks of One Unqualified to Receive That Knowledge
 
 *Original title: "Vēdārthajñānakke Purāṇa-Nyāyādi itara vidyegaḷa jñānavu avaśyakavu — vēdārthajñānakke adhikāriyilladavana lakṣaṇagaḷu"*
@@ -16863,14 +15174,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **The Purāṇas** contain ancient histories illustrating dharma through concrete narrative — kings, sages, and their deeds — thereby making abstract Vedic injunctions vivid and comprehensible to ordinary understanding. **The Dharma-shastras** (Manu and similar authors) systematize the specific practical rules of conduct (varṇāśrama-dharma) that the Veda itself only briefly touches upon, elaborating them into a complete, coherent code applicable to daily life.
 
-**Embedded English translation, as given in the source:**
-
-> That the Puranas, &c. are, like the Angas, useful for a better understanding of the Veda, is recorded by Yajnavalkya:
->
-> "The Puranas, the Nyaya, Mimansa and Dharma shastras, the Vedas with their Angas, these be the fourteen sources of the sciences and of dharma."
->
-> Elsewhere, too, it is thus recorded.
-
 <div class="pgmark">original p. 586</div>
 
 **Now, in order to show that the Puranas and similar texts likewise serve to help determine the Veda's own meaning, Yajnavalkya himself states:**
@@ -16891,12 +15194,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **Meaning:** Itihasa and Purana strengthen and confirm the meaning found within the Veda. It should be understood that ancient and traditional matters — the Veda's own supporting narrative context — are made firm through these Itihasas and Puranas. Since the Veda is described as fearful of one whose learning is shallow, this indicates: if a person with little genuine understanding grasps only the surface meaning of the Veda (its own scriptural expression), he may inadvertently do it harm through misapplication — this is what is meant here.
 
-**Embedded English translation, as given in the source:**
-
-> "A man should strengthen the Veda by means of the Itihasas and Puranas: the Veda is afraid of the man of little learning, lest he should hurt it."
->
-> The stories of Harischandra, Nachiketa and the like told in the Aitareya, Taittiriya, Kathaka and other Sakhas which are useful for the better understanding both of dharma and of brahma, are explained in the Itihasa books. The statements found in the Upanishads concerning the creation, the preservation, and the absorption of the world explained in the Brahma, Padma, Vaishnava and other Puranas. Compare the well-known verse, 'Sargascha pratisargascha.'
-
 <div class="pgmark">original p. 587</div>
 
 **Other Puranas — Skanda, Vishnu, and others — are also useful for understanding dharma and brahma alike.** The Puranas illustrate, through narrative, the meanings underlying various commands and prohibitions found scattered throughout the Veda. **These matters are dealt with extensively and clearly within these treatises.** Among the various treatises discussing origins (utpatti), the deeds of Muni-descended lineages, Manu's own lineage, and battles between gods and demons are given in detail; and dynastic genealogies, too, are described as belonging to the Vaṃśānucharita [dynastic-history] portion of the Puranas. **Scholars declare that the characteristic features of the Puranas are these**—
@@ -16915,16 +15212,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **In the Smritis of Manu, Atri, Vishnu, Harita, and other writers, injunctions found in the Vedas, such for example as that concerning the evening prayer, are extended and developed.** The text "**tad u ha va ete brahmavādinaḥ pūrvābhimukhāḥ sandhyābhivādaya gāyatrī-bhimantritā apa ūrdhvaṃ vikṣipanti**," and similar, is a command to say the evening prayer. That other, "**pañca vā ete mahāyajñāḥ satataṃ pravartante**," is a command to perform the so-called great sacrifices. Other instances of commands given in the Veda and developed in the Smritis can be found.
 
 **Since in this way the Puranas are a help to a better understanding of the Veda, the name "vidyāsthāna" (strongholds of wisdom) is rightly, in Yajnavalkya's verse above, applied to them.**
-
-**Embedded English translation, as given in the source:**
-
-> Nyaya investigates the sixteen categories, and only by its help can we decide that such and such a text rather than some other is the authority for a particular meaning.
->
-> How the Purva and Uttara Mimansas help to a better understanding of the Vedas is clear enough.
->
-> In the Smritis of Manu, Atri, Vishnu, Harita and other writers, injunctions found in the Vedas, such for example, as that concerning the evening prayer, are extended and developed. The text 'tad u ha va ete brahmavadinah puryabhimukhah samdhyavayam gayatrabhimantrita apa urdhvam vikshipanti, &c. is a command to say the evening prayer. That other 'pancha va ete mahayajnah satatam pratryanta, &c.,' is a command to perform the so-called great sacrifices. Other instances of commands given in the Veda and developed in the Smritis can be found.
->
-> Since in this way the Puranas are a help to a better understanding of the Veda the name vidyasthana (strongholds of wisdom) is rightly in Yajnavalkva's verse above applied to them.
 
 <div class="pgmark">original p. 588</div>
 
@@ -16946,14 +15233,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 >
 > "**Wisdom came to the brahmin and said, 'Protect me for I am your treasure: do not teach me to the scornful or the knavish or the sensual man; so shall I be strong.'**"
 
-**Embedded English translation, as given in the source:**
-
-> The four Vedas, with the six Angas, the Puranas, the Nyaya, Mimansa and Dharma shastras, are the fourteen strongholds of Wisdom. Who is able to lay hold upon her? There are four verses from another Sakha which declare who alone are worthy. Yaska quotes them.
->
-> The first is this.
->
-> "Wisdom came to the brahmin and said, Protect me for I am your treasure: do not teach me to the scornful or the knavish or the sensual man; so shall I be strong."
-
 <div class="pgmark">original p. 589</div>
 
 > विद्याभिमानिनी देवता ब्राह्मणमुपदेष्टारमाचार्यमाजगाम । आगत्य चैवं प्रार्थयामास हे ब्राह्मण मामवनद्धिकारिणेच्छन्दुरुषार्थेच्छुरस्मि । तादृश्यं तुभ्यं तदुपदेष्टरि त्वयि च योग्यमूनं करोमि । यत्खार्जनेन विद्यां नाभ्यर्जते विद्यां नाभ्यर्जते यश्च मनोदन्धाचारनियतो न भवति । तादृशे भव्यक्ष्यशिक्षाभावेभ्यो मां न ब्रूयात् । तथा सति तव हृदये स्थित्वा फलप्रदा भवेयम् ॥
@@ -16968,14 +15247,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 
 **"He who fills the ears with truth, but not so as to hurt, and who adds thereto nectar, he is the pupil's father and mother, and should in no wise be injured by him."**
 
-**Embedded English translation, as given in the source:**
-
-> The goddess who is immanent in all learning came to the brahmin teacher, that is, to the Acharya, and thus besought him Oh brahmin! protect me, do not teach me to him that is unworthy. I am for a treasure to you, giving you all that a man can desire. He that does despite to me, or to you who teach me—he that does not follow learning uprightly, he that does not keep his body under by due observance of the rules about bathing, rinsing the mouth, and the like before lessons—to all such pupils, who are pupils in appearance only, do not teach me. So shall I abide in your heart and bear fruit.
->
-> Next the second verse.
->
-> "He who fills the ears with truth, but not so as to hurt, and who adds thereto nectar, he is the pupil's father and mother, and should in no wise be injured by him."
-
 <div class="pgmark">original p. 590</div>
 
 **Meaning:** the first verse contained a prohibitory rule for the teacher: this has one for the pupil. By "**सत्य**" (*satya*, "truth") is meant the Veda, called so as being the opposite of worldly talk, which is untrue, and not conducive to man's chief end. **"यमात्मने कुर्वते नित्यम्"** (*yam ātmane kurvate nityaṃ*) — the teacher who completely fills his pupil's ears with the words of the Veda. The root "**तृणत्ति**" (*tṛṇatti*, to fill/pierce), by the force of its prefix "**सम्**" (*sam*), and from the context, takes a meaning different from the usual one. The meaning is "whoever recites the Veda to him." How? **"अमृतं वदति"** (*amṛtaṃ vadati*) — so as not to give him pain. If the boy be dull and unable to learn a verse or a half verse at a time, the teacher, in order to avoid giving him...
@@ -16983,10 +15254,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **In this way, the pupil's own defining qualities — appropriate to receiving proper instruction from a qualified Acharya (teacher) — are established for the pupil's benefit as well.** This too is a distinct benefit — namely, the teaching of the Veda's own meaning becomes possible. Regarding this matter, the Veda-mantra taken up here for illustration [is the one whose meaning we've been examining]: whatever action the Acharya takes with his student — whether accepting him for instruction, guiding his conduct, or teaching him respectfully — through all such acts, he cultivates the qualities properly belonging to a genuine teacher. **The verse states**: whether it be a whole [verse] or half, if the student cannot grasp it properly, or if he errs in reciting the mantra, [the teacher should not cause him pain by harsh correction] — thus it is said. Because [causing pain to a student] is not consistent with proper conduct, one should not [act this way]. **Furthermore**: the deity presiding over knowledge (Sarasvati/Vagdevata) is spoken of as the fitting recipient of the offering here — and it is entirely proper that the student's own conduct be modeled after this virtue.
 
 **This entire matter [these four verses cited by Yaska], being the Acharya's own combined [pedagogical wisdom], should be understood as primarily concerned with the pupil.** Previously established as such, this concerns [proper conduct in] the teacher-student relationship, and the human aim it serves. **The main purpose behind [reciting] these body-related verses is this**: [that the transmission of knowledge itself should never become a source of harm].
-
-**Embedded English translation, as given in the source:**
-
-> The first verse contained a prohibitory rule for the teacher: this has one for the pupil. By 'the truth' is meant the Veda, called so as being the opposite of worldly talk, which is untrue, and not conducive to man's chief end. The teacher who completely fills his pupil's ears with the words of the Veda. The root 'trinatti' by the force of its prefix a, and from the context, takes a meaning different from the usual one. The meaning is 'who ever recites the Veda to him.' How? So as not to give him pain. If the boy be dull and unable to learn a verse or a half verse at a time, the teacher, in order to avoid giving him
 
 <div class="pgmark">original p. 591</div>
 
@@ -17007,14 +15274,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 > "**But those brahmins who have received instruction, yet do not honour their teacher in thought, word, and deed, as they ought — not to be protected by their teacher, so neither will the holy revelation which they have learned protect them.**"
 
 **Meaning:** those brahmin students who, having received instruction from their teacher regarding the Veda's meaning, do not thereafter honour him through mind, speech, and bodily action — such students should not be [further] taught or supported by their teacher. And since these students fail to properly honour their teacher, the Veda's own knowledge that they have thus far received will not, in the end, genuinely protect them or bear fruit for them.
-
-**Embedded English translation, as given in the source:**
-
-> pain, makes him learn the fourth part of a verse, or even the eighth part. What more? 'Adding thereto nectar.' By 'nectar' is meant the sense of the Veda, as distinguished from the new words. Because it makes a man a god, or procures for him final release. 'Adding thereto nectar' means giving him that. Such a teacher, the pupil, who is a pupil indeed, must regard as his chief father and mother. Why are his father and mother according to the flesh not chief? Because they gave him at his first birth his worthless fleshly body only. The pupil must not injure in any way whatever his teacher, who is thus in the highest sense his father and his mother.
->
-> Next the third verse.
->
-> "But those brahmins who have received instruction, yet do not honour their teacher in thought, word, and deed as they ought not to be protected by their teacher, so neither will the holy revelation which they have learned protect them."
 
 <div class="pgmark">original p. 592</div>
 
@@ -17038,14 +15297,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **"Thus ends the Rigveda-Bhashya-Bhumika, composed by Sayanacharya."**
 
 **This marks the formal close of Sayana's introductory preface (Bhumika) to his Rigveda commentary.** What follows next, according to the chapter opening below, is the beginning of the discussion proper on the mantra's own defining characteristics — turning at last from the preface's extensive philosophical program (spanning the Veda's nature, the mantra/brahmana distinction, the authority debates, the Angas, and the qualifications of student and teacher) to the commentary's actual verse-by-verse work.
-
-**Embedded English translation, as given in the source:**
-
-> Those wicked brahmins, who after having been taught do not honour their teacher by respectful language, thought for his interests and obedience to his commands are his pupils in appearance only, and ought not to be protected by him. They are unworthy of his favour: he will not have compassion on them. And as he will not protect them, so neither will the Veda, which he has taught them, protect these wicked pupils. It will not bear them fruit.
->
-> Next the fourth verse.
->
-> "But if there be one whom you know to be pure, eager to hear, intelligent, and chaste, who will never do you harm, teach me to him, Oh brahmin! he will protect me, your treasure."
 
 <div class="pgmark">original p. 593</div>
 
@@ -17071,12 +15322,6 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 **॥ Śrī Rastu ॥**
 
 **"May there be auspiciousness."**
-
-**Embedded English translation, as given in the source:**
-
-> O Teacher, teach me wisdom in the form of the Veda. To him whom you know to be a pupil indeed, pure, eager to hear, intelligent, and chaste, and who will never do you harm: he will protect your treasure. At such a request made to him by the Goddess of learning, the teacher will teach him, who is a pupil indeed, the knowledge of the Veda.
->
-> Therefore we will now explain the Rig-Veda in accordance with its six Angas.
 
 # PART III: The Ṛgveda Saṃhitā with Sāyaṇa's Commentary (Mādhavīya Vedārtha-Prakāśa)
 
@@ -17118,11 +15363,11 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 >
 > "For this purpose, the sense stated in the Rigveda is expounded following the six Aṅgas. Since, in the Veda — which consists of mantra and brāhmaṇa together — the Brāhmaṇa is useful for explaining the mantra, [the commentary] has been expounded section by section (kāṇḍaśaḥ), beginning first with the Brāhmaṇa. Now, citing the Brāhmaṇa at each relevant point, the Saṃhitā-text — that is, the mantras — is to be expounded."
 
-Up to this point, in the Bhāṣya-Bhūmikā, we have broached many topics; at its close we discussed who is qualified for the Veda — that is, who should undertake to know the Veda and its meaning? What qualities should such a person possess? In what manner should study be undertaken? [How should its] meaning...
+Up to this point, in the Bhāṣya-Bhūmikā, we have broached many topics; at its close we discussed who is qualified for the Veda — that is, who should undertake to know the Veda and its meaning? What qualities should such a person possess? In what manner should study be undertaken? [How should its] meaning
 
 <div class="pgmark">original p. 596</div>
 
-...tell whom to trust? What matters should be broached? What is the meaning to be conveyed? — all these matters we have already explained. Now we shall begin expounding the topics belonging to the Bhashya-Bhumika of the Rigveda proper.
+be understood? What books help in it? In what manner should it be interpreted? — all these matters we have already explained. Now we shall begin expounding the topics belonging to the Bhashya-Bhumika of the Rigveda proper.
 
 **That the Veda should be studied together with its meaning has already been stated.** In explaining the mantra-portion, however, familiarity with the Brahmana-portion is essential, since [the commentary] first began with the Brahmana and proceeded section by section (kāṇḍaśaḥ). Now, the commentary on the Rigveda's Samhita-portion — that is, its mantras — is to be undertaken, citing the corresponding Brahmana-passages as relevant at each point.
 
@@ -17136,8 +15381,6 @@ Up to this point, in the Bhāṣya-Bhūmikā, we have broached many topics; at i
 **The Mandala-division-scheme is a different system** — older than the Ashtaka-scheme. Following the lineages of the mantra-seeing rishis, each Mandala generally contains mantras "seen" (dṛṣṭa) by one principal rishi together with his descendants or disciples. The Rigveda contains **ten such Mandalas**. Maṇḍalas 1, 9 and 10 do not follow this order: they contain mantras seen by many rishis; this has been discussed earlier.
 
 **Therefore, it is said that the Rigveda contains:** eight Ashtakas, ten Mandalas, sixty-four Adhyayas, eighty-five Anuvakas, a little more than one thousand Suktas, a little more than two thousand Vargas, and more than ten thousand Riks (verses).
-
-**Embedded English translation, as given in the source:**
 
 <div class="pgmark">original p. 597</div>
 
@@ -17164,8 +15407,6 @@ The shakhas belonging to each Veda are as follows: for the Rigveda — the Shaka
 
 **Vedic meters (chandas):** there are seven principal meters — **Gāyatrī, Uṣṇik, Anuṣṭubh, Bṛhatī, Paṅkti, Triṣṭubh, and Jagatī** — the...
 
-**Embedded English translation, as given in the source:**
-
 <div class="pgmark">original p. 598</div>
 
 **These are the principal meters.** Each meter has many sub-varieties, which we have already explained at length with examples earlier (see our discussion above). The seven meters mentioned above, beginning with Gayatri, have respectively **24, 28, 32, 36, 40, 44, 48** syllables.
@@ -17182,11 +15423,9 @@ The shakhas belonging to each Veda are as follows: for the Rigveda — the Shaka
 
 **Now let us examine the matter of the mantras' application (viniyoga).** Viniyoga means: the rule that a given mantra should be employed in a given ritual context. Since mantras are used according to the specific rite being performed, viniyoga is thus tied to that rite (karma). This scheme of application is of two kinds: **general (sāmānya)** and **specific (viśeṣa)**. Reciting all the mantras of this Rigveda Samhita in their entirety — as in the Brahma-yajna, japa, complete recitation (pārāyaṇa), and similar practices — is called the mantras' **"general application."** In yajnas and other rites, and likewise in other ritual observances — that is, in the japa and similar practices undertaken to realize one's chosen deity — the [specific] application...
 
-**Embedded English translation, as given in the source:**
-
 <div class="pgmark">original p. 599</div>
 
-...belonging to each individual mantra is determined. This specific application is itself of three kinds: application of a whole Sukta, application of a group of Suktas, and application of a single mantra.
+belonging to each individual mantra is determined. This specific application is itself of three kinds: application of a whole Sukta, application of a group of Suktas, and application of a single mantra.
 
 > तत्राग्निमीळ इति सूक्तं प्रातरनुवाक आग्नेये क्रतौ विनियुक्तम् । स विनियोग आश्वलायनेन चतुर्थाध्यायस्य त्रयोदशे खण्डे सूत्रितः । आवा नो अग्न इति षळग्निमीळेऽग्निं दूतमिति । तत्र हीनपादग्रहणात्सूक्तनिश्चयः । सूक्तं सूक्तादौ हीने पादे । आ. १-१ । इति परिभाषितत्वात् । तस्मिन्सूक्ते प्रथमाया ऋचो द्वितीयस्यां पवमानेष्टौ स्विष्टकृतो याज्यात्वेन विनियोगः । स च द्वितीयाध्यायस्य प्रथमखण्डे सूत्रितः । साह्वान्विश्वा अभियुजोऽग्निमीळे पुरोहितमिति संयाज्ये इति । तत्र कृत्स्नपादग्रहणादृगित्यवगम्यते । ऋचं पादग्रहणे आ. १-१ । इति परिभाषितत्वात् । तथा संयाज्ये इत्युक्ते सौविष्टकृती प्रतीयात् आ. २-१ । इति परिभाषितत्वात्स्विष्टकृत्संबन्धनिश्चयः । तत्रापि द्वितीयमन्त्रत्वेनोदाहृतत्वाद्याज्यात्वम् । यद्यपि साह्वानित्यनया पुरोनुवाक्ययैव देवताया अनुस्मरणरूपसंस्कारः सिद्धस्तथापि याज्यानुवाक्ययोः समुच्चयो द्वादशेऽध्याये चतुर्थपादे मीमांसितः ॥
 > *tatrāgnimīḷa iti sūktaṃ prātaranuvāka āgneye kratau viniyuktam | sa viniyoga āśvalāyanena caturthādhyāyasya trayodaśe khaṇḍe sūtritaḥ | āvā no agna iti ṣaḷ agnim īḷe'gniṃ dūtam iti | tatra hīnapāda-grahaṇāt sūkta-niścayaḥ | sūktaṃ sūktādau hīne pāde | Ā. 1-1 | iti paribhāṣitatvāt | tasmin sūkte prathamāyā ṛco dvitīyasyāṃ pavamāneṣṭau sviṣṭakṛto yājyātvena viniyogaḥ | sa ca dvitīyādhyāyasya prathamakhaṇḍe sūtritaḥ | sāhvān viśvā abhiyujo'gnim īḷe purohitam iti saṃyājye iti | tatra kṛtsnapāda-grahaṇād ṛg ity avagamyate | ṛcaṃ pādagrahaṇe Ā. 1-1 | iti paribhāṣitatvāt | tathā saṃyājye ity ukte sauviṣṭakṛtī pratīyāt Ā. 2-1 | iti paribhāṣitatvāt sviṣṭakṛt-saṃbandha-niścayaḥ | tatrāpi dvitīya-mantratvenodāhṛtatvād yājyātvam | yadyapi sāhvān ity anayā puronuvākyayaiva devatāyā anusmaraṇa-rūpa-saṃskāraḥ siddhas tathāpi yājyānuvākyayoḥ samuccayo dvādaśe'dhyāye caturthapāde mīmāṃsitaḥ ||*
@@ -17197,9 +15436,7 @@ The shakhas belonging to each Veda are as follows: for the Rigveda — the Shaka
 
 **In the Soma-yaga**, on the night preceding the pressing-day (sutyā-dina), from midnight until dawn, three deities — **Agni, Uṣas, and the Aśvin-deities** — are praised using the seven meters beginning with Gāyatrī. The act of praising a particular deity in this way is called the **"kratu"** connected with that deity: praising Agni is the **Āgneya-kratu**; praising Uṣas is the **Auṣasya-kratu**; praising the Aśvins is the **Āśvina-kratu** — these are the three kratus [of this section]. Since these are recited a little before dawn, this rite as a whole is called the **Prātar-anuvāka** (the morning recitation). Within this Prātar-anuvāka, when performing the Āgneya-kratu — that is, when reciting the Agni-related sukta — this very sukta, "**agnim īḷe**," is recited. **This is precisely the application (viniyoga) of this sukta.**
 
-Āśvalāyana, in a sūtra of the thirteenth khaṇḍa of the fourth adhyāya of his Śrauta-sūtra, states: "**āvā no agna iti ṣaḍ agnim īḷe'gniṃ dūtam**" — this is the application of this sūkta. When discussing the application of the mantras within his sutra, Ashvalayana refers to one specific instance...
-
-**Embedded English translation, as given in the source:**
+Āśvalāyana, in a sūtra of the thirteenth khaṇḍa of the fourth adhyāya of his Śrauta-sūtra, states: "**āvā no agna iti ṣaḍ agnim īḷe'gniṃ dūtam**" — this is the application of this sūkta. When discussing the application of the mantras within his sutra, Ashvalayana refers to one specific instance.
 
 <div class="pgmark">original p. 600</div>
 
@@ -17221,13 +15458,11 @@ Here, since the first padas of the Riks "**sāhvān viśvā abhiyujaḥ**" (Ṛ.
 
 **In Shrauta-related rites**, the ritual act of properly producing fire through churning (manthana) and similar prescribed methods is called "**Ādhāna**." This Ādhāna is of three kinds: ending in Pūrṇāhuti, ending in Homa, and ending in Ishti. Among these, in the third — the Ishti-ending procedure — three homas are performed. For the first (Pavamāneṣṭi) homa, the deities are **Agni** and **Agniṣavamāna**; for the second homa, the deities are **Agniḥ Savakaḥ** and **Agniḥ Śuciḥ**; for the third homa, the principal deities are **Agniṣomau, Indrāgnī, Viṣṇu**, and **Aditi**. Among these three, in the second — when performing the Svishtakrid-homa — the mantra "**sādhyānniścā abhiyujaḥ**" is used as the **Puronuvākyā-mantra**, and the Rik "**agnimīḷe purohitam**" is used as the **Yājyā-mantra**.
 
-**When performing homa addressed to specific deities**, one first calls the deities to mind and invokes them by reciting a Rik. This [invoking] Rik is called the "Puronuvākyā"...
-
-**Embedded English translation, as given in the source:**
+**When performing homa addressed to specific deities**, one first calls the deities to mind and invokes them by reciting a Rik. This [invoking] Rik is called the "Puronuvākyā".
 
 <div class="pgmark">original p. 601</div>
 
-...and is so called. Thereafter, having called the deity to mind and invited it, one performs homa reciting another Rik. This Rik is called the "Yajya." Both are together termed the **Puronuvakya-Yajya** pair. Application-statements always begin by stating the Puronuvakya first and the "anantara" (subsequent) mantra afterward — this is the settled order.
+Thereafter, having called the deity to mind and invited it, one performs homa reciting another Rik. This Rik is called the "Yajya." Both are together termed the **Puronuvakya-Yajya** pair. Application-statements always begin by stating the Puronuvakya first and the "anantara" (subsequent) mantra afterward — this is the settled order.
 
 **Regarding the Paribhasha-sutra** — "**sāmānyāt siṣṭāḥ**" and similar — since it begins by naming the Puronuvakya first, one should understand this to be the fixed sequence for citing the two mantras. On this point, this combination of yājyā and anuvākyā is stated in the fourth pāda of the twelfth adhyāya of the Jaiminīya-nyāya-mālā-vistara:
 
@@ -17247,11 +15482,9 @@ Here, since the first padas of the Riks "**sāhvān viśvā abhiyujaḥ**" (Ṛ.
 
 — confirms that the Puronuvakya must first be recited, and only thereafter should the homa be performed using the Yajya-mantra...
 
-**Embedded English translation, as given in the source:**
-
 <div class="pgmark">original p. 602</div>
 
-...(in the Kratu), one should reflect accordingly. Moreover, since the Puronuvakya's application is understood to precede the deities' own act of being called to mind, and since the Yajya's application is not stated as belonging to any other set of homa-related rules, both these mantras should be understood accordingly. This is why the word "**samuccitayaḥ**" is employed [in the sutra].
+(in the Kratu), one should reflect accordingly. Moreover, since the Puronuvakya's application is understood to precede the deities' own act of being called to mind, and since the Yajya's application is not stated as belonging to any other set of homa-related rules, both these mantras should be understood accordingly. This is why the word "**samuccitayaḥ**" is employed [in the sutra].
 
 > एतच्चाग्निमित्यादिसूक्तं नवर्चम् । "अग्निं नव मधुच्छन्दा वैश्वामित्रः" इत्यनुक्रमणिकायामुक्तत्वात् (अनु. १४) विश्वामित्रपुत्रो मधुच्छन्दोनामकस्तस्य सूक्तस्य द्रष्टृत्वात्तदीय ऋषिः । ऋष गताविति धातुः । सर्वधातुभ्य इन् (उ. सू. ४-११७) । इगुपधात्कित् (उ. सू. ४-११९) वेदप्राप्त्यर्थं तपोऽनुतिष्ठतः पुरुषान् स्वयम्भूर्देवपुरुषः प्राप्नोत् । तथा च श्रूयते । "अजान् ह वै पृश्नींस्तपस्यमानान्ब्रह्म स्वयम्भ्वभ्यानर्षत्त ऋषयोऽभवन्" (तै. आ. २-९) इति । तथातीन्द्रियस्य वेदस्य परमेश्वरानुग्रहेण प्रथमतो दर्शनादृषित्वमित्यभिप्रेत्य स्मर्यते । युगान्तेऽन्तर्हितान्वेदान्सेतिहासान्महर्षयः । लेभिरे तपसा पूर्वमनुज्ञाताः स्वयम्भुवेति ॥
 > *etac cāgnim ity-ādi sūktaṃ navarcam | "agniṃ nava madhucchandā vaiśvāmitraḥ" ity anukramaṇikāyām uktatvāt (anu. 14) viśvāmitra-putro madhucchando-nāmakas tasya sūktasya draṣṭṛtvāt tadīya ṛṣiḥ | ṛṣa gatāv iti dhātuḥ | sarvadhātubhya in (U. Sū. 4-117) | igupadhāt kit (U. Sū. 4-119) veda-prāpty-arthaṃ tapo'nutiṣṭhataḥ puruṣān svayambhūr devapuruṣaḥ prāpnot | tathā ca śrūyate | "ajān ha vai pṛśnīṃs tapasyamānān brahma svayambhv abhyānarṣat ta ṛṣayo'bhavan" (Tai. Ā. 2-9) iti | tathātīndriyasya vedasya parameśvarānugraheṇa prathamato darśanād ṛṣitvam ity abhipretya smaryate | yugānte'ntarhitān vedān setihāsān maharṣayaḥ | lebhire tapasā pūrvam anujñātāḥ svayambhuveti ||*
@@ -17273,8 +15506,6 @@ Here, since the first padas of the Riks "**sāhvān viśvā abhiyujaḥ**" (Ṛ.
 > "At the end of the yuga the great seers, permitted beforehand by the Self-existent, regained through tapas the Vedas, together with the Itihāsas, that had disappeared."
 
 **Now let us examine the discussion begun in the "agnimīḷe" sukta.** As stated in the Anukramanika: "**agniṃ nava madhucchandā vaiśvāmitriḥ**" — "agnimīḷe" is the first mantra in this sukta belonging to Vishvamitra's son [Madhuchandas]. Since this sukta's Rishi is the son of Vishvamitra, one should understand that a comparable status applies wherever this Rishi is cited.
-
-**Embedded English translation, as given in the source:**
 
 <div class="pgmark">original p. 603</div>
 
@@ -17303,11 +15534,9 @@ Here, since the first padas of the Riks "**sāhvān viśvā abhiyujaḥ**" (Ṛ.
 
 **One must know the mantra's own deities, along with their names, to properly recite the Vedic mantras and understand their meaning. Likewise, one must know the deity-related names...**
 
-**Embedded English translation, as given in the source:**
-
 <div class="pgmark">original p. 604</div>
 
-**...and the deity-related names one should know** in order to properly understand a mantra's precise sense — this we shall explain: whether the person addressed is Agni, or another deity, or some inanimate object or human being being invoked, we shall clarify. Moreover, one must know the meter (chandas) governing the mantras of each rishi — understanding this correctly settles the mind. When reciting the Veda, knowing the mantra's own accent-application (svara-viniyoga) is likewise required for correct performance. **Having studied [these matters], we should now clarify their meaning as understood by scholars** — for those undertaking systematic study, one should know: the accent (svara), the letters (varṇa), the syllable-count (akṣara), and other such particulars belonging to the mantra, applying at each step, as befits the Mimamsa-shastra's own established method (which, in due course, we shall likewise examine).
+**the deity-related names** in order to properly understand a mantra's precise sense — this we shall explain: whether the person addressed is Agni, or another deity, or some inanimate object or human being being invoked, we shall clarify. Moreover, one must know the meter (chandas) governing the mantras of each rishi — understanding this correctly settles the mind. When reciting the Veda, knowing the mantra's own accent-application (svara-viniyoga) is likewise required for correct performance. **Having studied [these matters], we should now clarify their meaning as understood by scholars** — for those undertaking systematic study, one should know: the accent (svara), the letters (varṇa), the syllable-count (akṣara), and other such particulars belonging to the mantra, applying at each step, as befits the Mimamsa-shastra's own established method (which, in due course, we shall likewise examine).
 
 > अग्निमित्यादिसूक्तस्य छन्दोऽनुक्रमणिकायां यद्यप्यत्र नोक्तं तथापि परिभाषायामेवमुक्तम् । "आदौ गायत्रं प्राग्घिरण्यस्तूपात्" (अनु. १२-१४) इति । हिरण्यस्तूप ऋषिर्येषां मन्त्राणां वक्ष्यते ततः प्राचीनेषु मन्त्रेषु सामान्येन गायत्रं छन्द इत्यर्थः । पुरुषस्य पापसंबन्धं वारयितुमाच्छादकत्वाच्छन्द इत्युच्यते । तच्चारण्यकाण्डे समाम्नायते । छादयन्ति ह वा एनं छन्दांसि पापात्कर्मण इति । अथवा चीयमानाग्निसंतापस्याच्छादकत्वाच्छन्दः । तच्च तैत्तिरीया आमनन्ति । "प्रजापतिरग्निमचिनुत स क्षुरपविर्भूत्वातिष्ठत्तं देवा बिभ्यतो नोपायन्ते छन्दोभिरात्मानं छादयित्वोपायन्तच्छन्दसां छन्दस्त्वम्" इति । (तै. सं. ५-६-६-१) । यद्वा । अपमृत्युं वारयितुमाच्छादयतीति छन्दः । तदपि छान्दोग्योपनिषद्याम्नातम् । देवा वै मृत्योर्बिभ्यतस्त्रयीं विद्यां प्राविशंस्ते छन्दोभिरात्मानमाच्छादयन् यदेभिरच्छादयंस्तच्छन्दसां छन्दस्त्वम् (छा. उ. १-४-२) इति ।
 > *agnim ity-ādi sūktasya chando'nukramaṇikāyāṃ yadyapy atra noktaṃ tathāpi paribhāṣāyām evam uktam | "ādau gāyatraṃ prāg ghiraṇyastūpāt" (anu. 12-14) iti | hiraṇyastūpa ṛṣir yeṣāṃ mantrāṇāṃ vakṣyate tataḥ prācīneṣu mantreṣu sāmānyena gāyatraṃ chanda ity arthaḥ | puruṣasya pāpasaṃbandhaṃ vārayitum ācchādakatvāc chanda ity ucyate | tac cāraṇyakāṇḍe samāmnāyate | chādayanti ha vā enaṃ chandāṃsi pāpāt karmaṇa iti | athavā cīyamānāgni-saṃtāpasyācchādakatvāc chandaḥ | tac ca taittirīyā āmananti | "prajāpatir agnim acinuta sa kṣurapavir bhūtvātiṣṭhat taṃ devā bibhyato nopāyan te chandobhir ātmānaṃ chādayitvopāyan tac chandasāṃ chandastvam" iti | (Tai. Saṃ. 5-6-6-1) | yadvā | apamṛtyuṃ vārayitum ācchādayatīti chandaḥ | tad api chāndogyopaniṣady āmnātam | devā vai mṛtyor bibhyatas trayīṃ vidyāṃ prāviśaṃs te chandobhir ātmānam ācchādayan yad ebhir acchādayaṃs tac chandasāṃ chandastvam (Chā. U. 1-4-2) iti |*
@@ -17316,18 +15545,14 @@ Here, since the first padas of the Riks "**sāhvān viśvā abhiyujaḥ**" (Ṛ.
 
 **One should know the mantras' own deity-related names before reciting them, along with correctly understanding their meaning.** Now we shall discuss the Sukta's own deities: the sukta's rishi and meter having already been stated (Madhuchandas, son of Vishvamitra; Gayatri meter), its deity too is likewise to be understood.
 
-**Embedded English translation, as given in the source:**
-
 <div class="pgmark">original p. 605</div>
 
-...so that no connection with sin comes to the person — so the *chandas* cover him. Or, since in rites such as the Agnicayana they protect by covering [the performers] against the heat of the fire, they may be called *chandas*. On this the Taittirīya Saṃhitā has a story — "prajāpatir agnim acinuta sa kṣurapavir bhūtvātiṣṭhat taṃ devā bibhyato nopāyan te chandobhir ātmānaṃ chādayitvopāyan tac chandasāṃ chandastvam" (Tai. Saṃ. 5-6-6-1): long ago Prajāpati performed the Agnicayana; Agni then stood holding a weapon sharp as the edge of a blade. Seeing him the gods were afraid and were not able to approach him. Then they thought of a means: covering (hiding) their bodies with mantras bound in metre, they went near him. For this reason the metres came to be called *chandas*. Or, since these metres have the power to ward off untimely death, they may be called *chandas*. On this the Chāndogya Upaniṣad says — "devā vai mṛtyor bibhyatas trayīṃ vidyāṃ prāviśaṃs te chandobhir ātmānam ācchādayan yad ebhir acchādayaṃs tac chandasāṃ chandastvam": the gods were afraid of death; then they covered themselves with the metres of the Ṛk, Yajus and Sāma mantras, called the threefold knowledge, and got rid of the fear of death. That is the reason the metres are named *chandas*.
+so that no connection with sin comes to the person — so the *chandas* cover him. Or, since in rites such as the Agnicayana they protect by covering [the performers] against the heat of the fire, they may be called *chandas*. On this the Taittirīya Saṃhitā has a story — "prajāpatir agnim acinuta sa kṣurapavir bhūtvātiṣṭhat taṃ devā bibhyato nopāyan te chandobhir ātmānaṃ chādayitvopāyan tac chandasāṃ chandastvam" (Tai. Saṃ. 5-6-6-1): long ago Prajāpati performed the Agnicayana; Agni then stood holding a weapon sharp as the edge of a blade. Seeing him the gods were afraid and were not able to approach him. Then they thought of a means: covering (hiding) their bodies with mantras bound in metre, they went near him. For this reason the metres came to be called *chandas*. Or, since these metres have the power to ward off untimely death, they may be called *chandas*. On this the Chāndogya Upaniṣad says — "devā vai mṛtyor bibhyatas trayīṃ vidyāṃ prāviśaṃs te chandobhir ātmānam ācchādayan yad ebhir acchādayaṃs tac chandasāṃ chandastvam": the gods were afraid of death; then they covered themselves with the metres of the Ṛk, Yajus and Sāma mantras, called the threefold knowledge, and got rid of the fear of death. That is the reason the metres are named *chandas*.
 
 > तथा द्योतनार्थदीव्यतिधातुनिमित्तो देवशब्द इत्येतदाम्नायते । दिवा वै नोऽभूदिति तद्देवानां देवत्वमिति (तै. ब्रा. २-२-९-९) । अतो दीव्यतीति देवः । मन्त्रेण द्योत्यत इत्यर्थः । अस्मिन्सूक्ते स्तूयमानत्वादग्निर्देवः । तथा चानुक्रमणिकायामुक्तम् । मण्डलादिष्वाग्नेयमैन्द्रात् (अनु. १२-१२) इति । तस्य सूक्तस्य प्रथमामृचं भगवान्वेदपुरुष आह ॥
 > *tathā dyotanārtha-dīvyati-dhātu-nimitto deva-śabda ity etad āmnāyate | divā vai no'bhūd iti tad devānāṃ devatvam iti (Tai. Brā. 2-2-9-9) | ato dīvyatīti devaḥ | mantreṇa dyotyata ity arthaḥ | asmin sūkte stūyamānatvād agnir devaḥ | tathā cānukramaṇikāyām uktam | maṇḍalādiṣv āgneyam aindrāt (Anu. 12-12) iti | tasya sūktasya prathamām ṛcaṃ bhagavān vedapuruṣa āha ||*
 
 **Having explained the words *ṛṣi* and *chandas*, the meaning of the word *deva* is now explained.** The root *dīvyati* means "to shine". Scripture says that the word *deva* comes from this root: "divā vai no'bhūd iti tad devānāṃ devatvam" — the gods say, "we shine by [our own] light or splendour"; so the word *deva* came about in this way. He who is made to shine by the mantra, that is, praised by the mantra, is called *deva*. In this "agnim īḷe" sūkta Agni is praised, so Agni is the deity of this sūkta. The Anukramaṇī too says "maṇḍalādiṣv āgneyam aindrāt" — the sūktas at the beginning of each maṇḍala have Agni or Indra as their deities. This sūkta is the first sūkta of the first maṇḍala, so Agni is its deity. The Blessed Veda-Puruṣa speaks the first Ṛk of this sūkta as follows—
-
-**Embedded English translation, as given in the source:**
 
 <div class="pgmark">original p. 606</div>
 
@@ -17436,11 +15661,11 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 **॥ Viśeṣārthaḥ (special topics) ॥**
 
-**In this Rik**, the one who says "I shall praise" is the priest called the **Hotṛ**. In praising Agni here, only matters connected with the yajna are described — the qualities properly belonging to those who bear the principal roles within a yajna are here attributed to Agni himself. The word "**purohitam**" signifies either the chief ācārya who officiates the yajna, or, [more generally,] a brāhmaṇa [in that role]...
+**In this Rik**, the one who says "I shall praise" is the priest called the **Hotṛ**. In praising Agni here, only matters connected with the yajna are described — the qualities properly belonging to those who bear the principal roles within a yajna are here attributed to Agni himself. The word "**purohitam**" signifies either the chief ācārya who officiates the yajna, or, [more generally,] a brāhmaṇa [in that role].
 
 <div class="pgmark">original p. 611</div>
 
-**...or, alternatively, it refers to the Adhvaryu** — the priest who accomplishes the majority of the practical tasks within the yajna — because "purohitam" (puraḥ + hitam) means: one who, during the yajna's performance, sits foremost, ahead of everyone else, and carries out the yajna's own tasks. "**Yajñasya devam**" means: Agni alone is the directly-visible deity within the yajna. The other deities are not visible to us. Moreover, since the oblations meant for other deities are all offered through Agni himself as the medium, there is no greater giver within the yajna than Agni. "**Ṛtvijam**" may refer to any one of the four principal ritvijs, beginning with Brahmā. "**Hotāram**" means the ritvij associated with the invoking/Homa-offering — but since it is well established that Agni himself brings the other deities to the sacrificial altar (**sa devān eha vakṣati**, "he shall bring the gods here," as stated explicitly in the very next Rik), he is accordingly called "**hotāram**." "**Ratna-dhātamam**" means: one who bestows, as the fruit of the yajna, jewels and similar things upon the yajamāna. There is an established usage whereby "ratna" refers not only to gems such as diamonds, but to any excellent or superior object generally. Hence the meaning: one who gives the yajamāna wealth, grain, cattle, jewels, and other such excellent things, as needed.
+**Or, alternatively, it refers to the Adhvaryu** — the priest who accomplishes the majority of the practical tasks within the yajna — because "purohitam" (puraḥ + hitam) means: one who, during the yajna's performance, sits foremost, ahead of everyone else, and carries out the yajna's own tasks. "**Yajñasya devam**" means: Agni alone is the directly-visible deity within the yajna. The other deities are not visible to us. Moreover, since the oblations meant for other deities are all offered through Agni himself as the medium, there is no greater giver within the yajna than Agni. "**Ṛtvijam**" may refer to any one of the four principal ritvijs, beginning with Brahmā. "**Hotāram**" means the ritvij associated with the invoking/Homa-offering — but since it is well established that Agni himself brings the other deities to the sacrificial altar (**sa devān eha vakṣati**, "he shall bring the gods here," as stated explicitly in the very next Rik), he is accordingly called "**hotāram**." "**Ratna-dhātamam**" means: one who bestows, as the fruit of the yajna, jewels and similar things upon the yajamāna. There is an established usage whereby "ratna" refers not only to gems such as diamonds, but to any excellent or superior object generally. Hence the meaning: one who gives the yajamāna wealth, grain, cattle, jewels, and other such excellent things, as needed.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
@@ -17475,7 +15700,7 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 >
 > "Now, hereafter, we shall proceed [to explain the deity-names in order]. Since Agni stands first [in the list], we explain him first. Why is Agni called 'agraṇī' (foremost-leader)? Because he is led at the forefront in sacrifices, or because he leads the sacrifice forward. Or — he becomes so through bending low, or through crying out — thus says **Sthaulāṣṭhīvi**. [Regarding the sense 'krośana,' crying out, as against 'na sneyati,' not becoming smooth:] it is born from verbal roots (ākhyāta) — thus says **Śākapūṇi**."
 
-**Meaning:** Yaska, in his Nirukta, having decided to explain the deity-names in the order they occur, takes up Agni first, since Agni stands first among them. Two ancient authorities are cited for the etymology of "agraṇī" (one who leads at the forefront) — Sthaulashthivi holding one view, Shakapuni offering a related but distinct grammatical explanation...
+**Meaning:** Yaska, in his Nirukta, having decided to explain the deity-names in the order they occur, takes up Agni first, since Agni stands first among them. Two ancient authorities are cited for the etymology of "agraṇī" (one who leads at the forefront) — Sthaulashthivi holding one view, Shakapuni offering a related but distinct grammatical explanation.
 
 <div class="pgmark">original p. 613</div>
 
@@ -17537,11 +15762,11 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 **Meaning:** the root "īḍ" is well known to carry a sense connected with praise. Following the accepted principle that roots may carry multiple senses, the meanings "entreaty" (yācñā), "asking/invocation" (adhyeṣaṇā), and "worship" (pūjā) have all been assigned to the root "īḍ," and the verse is explained accordingly here.
 
-**The word "purohita" was already explained in the Nirukta's second chapter** (2-12), in the course of commenting on the Rik "**yeṣṭe vāpiḥ śaṃ kenāve purohitaḥ**" (Rigveda Samhita 10-98-7) — that is, "**puraḥ hitaṃ dadhāti purohitaḥ**": one who stands in front, [specifically] in front of the sacrificer [facing him] during the yajna. The Yajurvedins too gloss it as "**puro hitaṃ dadhate**" — one standing in front, that is, in the foremost position. The word "purohita" carries the established sense of the principal ācārya who properly conducts yajnas and similar rites according to shastric injunction. In this Rik, since the qualities of the Hotr and other ritvijs are attributed to Agni in this praise, "purohita" may equally be understood here as "chief ācārya." **This word "purohita" occurs only in a few places within the Rigveda itself.** Though the Bhashyakara [Sayana] clearly explains this word's sense as "chief ācārya" there, in the Krishna-Yajur[veda]...
+**The word "purohita" was already explained in the Nirukta's second chapter** (2-12), in the course of commenting on the Rik "**yeṣṭe vāpiḥ śaṃ kenāve purohitaḥ**" (Rigveda Samhita 10-98-7) — that is, "**puraḥ hitaṃ dadhāti purohitaḥ**": one who stands in front, [specifically] in front of the sacrificer [facing him] during the yajna. The Yajurvedins too gloss it as "**puro hitaṃ dadhate**" — one standing in front, that is, in the foremost position. The word "purohita" carries the established sense of the principal ācārya who properly conducts yajnas and similar rites according to shastric injunction. In this Rik, since the qualities of the Hotr and other ritvijs are attributed to Agni in this praise, "purohita" may equally be understood here as "chief ācārya." **This word "purohita" occurs only in a few places within the Rigveda itself.** Though the Bhashyakara [Sayana] clearly explains this word's sense as "chief ācārya" there, in the Krishna-Yajur[veda],
 
 <div class="pgmark">original p. 615</div>
 
-**In the Taittiriya Samhita of the Yajurveda:**
+**in the Taittiriya Samhita of the Yajurveda:**
 
 > विश्वरूपो नै त्वाष्ट्रः पुरोहितो देवानाम् ।
 > *viśvarūpo nai tvāṣṭraḥ purohito devānām |* (Taittiriya Samhita 2-5-1)
@@ -17565,11 +15790,11 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 Though "ṛtvij" is used generally for anyone engaged in reciting mantras and similar duties during a ritual, it more specifically denotes one of the four who bear the principal roles in a yajna: **Brahmā, Hotṛ, Adhvaryu**, and **Udgātṛ**. Since the word "hotāram" immediately follows "ṛtvijam" in this Rik, the Bhashyakara and many other commentators hold that the specific reference here is to the ritvij called **Hotṛ**.
 
-**On "hotāram":** the word "hotṛ" derives from the root "**hve**" (to invoke, to call) — hence "one who invokes the deities." This sense is reinforced by the very next Rik, which states "**sa devān eha vakṣati**" ("he shall bring the gods here"). The sage **Baurṇavābha** holds the alternative view that "hotṛ" instead derives from "**juhoti**" (to perform homa). For the word "hotṛ," this [alternate derivation]...
+**On "hotāram":** the word "hotṛ" derives from the root "**hve**" (to invoke, to call) — hence "one who invokes the deities." This sense is reinforced by the very next Rik, which states "**sa devān eha vakṣati**" ("he shall bring the gods here"). The sage **Baurṇavābha** holds the alternative view that "hotṛ" instead derives from "**juhoti**" (to perform homa). For the word "hotṛ,"
 
 <div class="pgmark">original p. 616</div>
 
-**Both meanings apply.** In connection with Agni, the word "hotāram" has frequently been used alongside "ṛtvijam" in many places across the Rigveda:
+**both meanings apply.** In connection with Agni, the word "hotāram" has frequently been used alongside "ṛtvijam" in many places across the Rigveda:
 
 > नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् (ऋ. सं. १-४४-११) । नि त्वा होतारमृत्विजम् (ऋ. सं. १-४५-७) । त्वां यज्ञेष्वृत्विजमग्ने होतारमीळते (ऋ. सं. ३-१०-२) । न्यग्निं जातवेदसं दधाता देवमृत्विजम् (ऋ. सं. ५-२२-२) । मन्द्रं होतारमृत्विजं चित्रभानुं विभावसुम् (ऋ. सं. ८-४४-६) । इत्यादि ।
 > *ni tvā yajñasya sādhanam agne hotāram ṛtvijam (Ṛ. Saṃ. 1-44-11) | ni tvā hotāram ṛtvijam (Ṛ. Saṃ. 1-45-7) | tvāṃ yajñeṣv ṛtvijam agne hotāram īḷate (Ṛ. Saṃ. 3-10-2) | ny agniṃ jātavedasaṃ dadhātā devam ṛtvijam (Ṛ. Saṃ. 5-22-2) | mandraṃ hotāram ṛtvijaṃ citrabhānuṃ vibhāvasum (Ṛ. Saṃ. 8-44-6) | ity ādi |*
@@ -17595,11 +15820,11 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 >
 > "Having bowed to Hayāsya and the new Raṅgendra, the givers of true meaning, I, Lakṣmaṇa, set forth the Pāṇinian [grammar] to be shown on the Ṛk, following Mādhava's words."
 
-**The word "Agni" arises from the root "ag," meaning "to go"** — per the Unadi rule "**aṅger ṇa-lopaś ca**" (Unadi Sutra, precise number uncertain): before the root "ag," the affix "ni" is added; moreover, [a rule governs] the loss of the nasal "n" [in the root]...
+**The word "Agni" arises from the root "ag," meaning "to go"** — per the Unadi rule "**aṅger ṇa-lopaś ca**" (Unadi Sutra, precise number uncertain): before the root "ag," the affix "ni" is added; and the nasal "n"
 
 <div class="pgmark">original p. 617</div>
 
-**...the elision also occurs; by this rule, the affix "ni" comes after the root "ag."** Since the "i" in the root "ag" bears the designation "it" (a marker later dropped), by the rule "**idito nuṃ dhātoḥ**" (Panini 7-1-58) — a nasal "n" is added after the final vowel of a root so marked — the resulting nasal then undergoes its own elision by a further rule. "**Aṅgati iti agniḥ**" — "he who moves/goes forth" is "Agni" — that is, because he carries the oblation up to the deities in heaven, he bears this name.
+**is also elided; by this rule, the affix "ni" comes after the root "ag."** Since the "i" in the root "ag" bears the designation "it" (a marker later dropped), by the rule "**idito nuṃ dhātoḥ**" (Panini 7-1-58) — a nasal "n" is added after the final vowel of a root so marked — the resulting nasal then undergoes its own elision by a further rule. "**Aṅgati iti agniḥ**" — "he who moves/goes forth" is "Agni" — that is, because he carries the oblation up to the deities in heaven, he bears this name.
 
 *(Several further accent-rule citations follow, working out that the resulting word "Agni" has its "a" as anudātta and its "i" as udātta — this is confirmed by the accent marks already seen on "agním" in the Saṃhitā-pāṭha itself. The specific chain of Ashtadhyayi sutra-numbers cited here — governing root-accent, affix-accent, and the eventual "ekādeśa" [single-substitute] accent rule for the accusative "agnim" — is presented with the same caution as elsewhere in this section, though the overall grammatical logic and its conclusion are clear and consistent with the verse's own printed accentuation.)*
 
@@ -17610,7 +15835,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 >
 > "'All nouns are born from verbs' — this is Śākaṭāyana's own view, within the Nirukta's own convention. 'Not all [nouns are so derived]' — this is Gārgya's view, and that of some grammarians as well."
 
-**Śākaṭāyana, himself a Nirukta-author, holds that every nominal stem (prātipadika) derives from a verbal root (dhātu).** In **Gārgya's** own view, however, the word "Agni" is "**akhaṇḍa**" — that is, an underived, indivisible nominal stem, admitting no division into root and affix. In this [Gargya's] view...
+**Śākaṭāyana, himself a Nirukta-author, holds that every nominal stem (prātipadika) derives from a verbal root (dhātu).** In **Gārgya's** own view, however, the word "Agni" is "**akhaṇḍa**" — that is, an underived, indivisible nominal stem, admitting no division into root and affix. In this [Gargya's] view, the following rule applies:
 
 <div class="pgmark">original p. 618</div>
 
@@ -17766,7 +15991,7 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 > यो'यं होत्रा स्तुत्योऽस्य नाग्ना निमित्तभूतेन यजमानो रयिं धनम् अश्नवत् प्राप्नोति । पोष्यं रयिम् । दिवे दिवे पोषणेव प्रतिदिनं पुष्यमानतया वर्धमानम् एव, न तु कदाचिद् अपि क्षीयमानम् । यशसं दानादिना यशोयुक्तम् । वीरवत् अतिशयेन पुत्रपौत्रादि-वीरपुरुषोपेतम् । अति हि धने पुरुषाः संपद्यन्ते । रयिशब्दो माघमित्यादिधननामसु पठितः । तत्र फिट् स्वरः । अश्नवत् अशेर्मा-...
 > *yo'yaṃ hotrā stutyo'sya nāgnā nimitta-bhūtena yajamāno rayiṃ dhanam aśnavat prāpnoti | poṣyaṃ rayim | dive dive poṣaṇeva pratidinaṃ puṣyamānatayā vardhamānam eva, na tu kadācid api kṣīyamānam | yaśasaṃ dānādinā yaśo-yuktam | vīravat atiśayena putra-pautrādi-vīra-puruṣopetam | ati hi dhane puruṣāḥ sampadyante | rayi-śabdo māgham ity-ādi-dhana-nāmasu paṭhitaḥ | tatra phiṭ svaraḥ | aśnavat aśer mā-...*
 
-**Translation of Sāyaṇa's commentary:** "Through this Agni, who is worthy of praise by the Hotṛ, and who serves as the [instrumental] cause — may the sacrificer obtain wealth (rayi); 'aśnavat' means 'may he obtain.' 'Poṣyam rayim' — wealth that is [continually] nourished. 'Dive dive' — day by day, ever growing through such continual nourishment, never at any time diminishing. 'Yaśasam' — endowed with fame, through generosity and similar virtues. 'Vīravat[-tamam]' — endowed, in the highest degree, with heroic men such as sons and grandsons; for indeed, men [descendants] are what truly complete [and enrich] wealth. The word 'rayi' is listed among the terms for wealth, such as 'māgham' and similar; for it, the Phit-sutra's own accent rule applies. 'Aśnavat' derives from the root 'aś'..."
+**Translation of Sāyaṇa's commentary:** "Through this Agni, who is worthy of praise by the Hotṛ, and who serves as the [instrumental] cause — may the sacrificer obtain wealth (rayi); 'aśnavat' means 'may he obtain.' 'Poṣyam rayim' — wealth that is [continually] nourished. 'Dive dive' — day by day, ever growing through such continual nourishment, never at any time diminishing. 'Yaśasam' — endowed with fame, through generosity and similar virtues. 'Vīravat[-tamam]' — endowed, in the highest degree, with heroic men such as sons and grandsons; for indeed, men [descendants] are what truly complete [and enrich] wealth. The word 'rayi' is listed among the terms for wealth, such as 'māgham' and similar; for it, the Phit-sutra's own accent rule applies. 'Aśnavat' derives from the root 'aś'."
 
 <div class="pgmark">original p. 629</div>
 
@@ -17897,7 +16122,7 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-**"Agne" is vocative singular.** By the rule "**āmantritam**" (Panini 2-1-48) — a vocative-case form receives the technical designation "āmantrita" — this designation applies here. Then, by the rule "**āmantritasya ca**" (Panini 6-1-198) — the initial syllable of an āmantrita word takes udātta accent — the initial syllable [of "agne" accordingly becomes udātta]...
+**"Agne" is vocative singular.** By the rule "**āmantritam**" (Panini 2-1-48) — a vocative-case form receives the technical designation "āmantrita" — this designation applies here. Then, by the rule "**āmantritasya ca**" (Panini 6-1-198) — the initial syllable of an āmantrita word takes udātta accent — the initial syllable [of "agne" accordingly becomes udātta].
 
 <div class="pgmark">original p. 635</div>
 
@@ -17958,7 +16183,7 @@ This Agni, whom we praise, alone is able to bring the other deities here, since 
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-**Since "kavikratuḥ" and "citraśravastamaḥ" are both bahuvrīhi compounds**, by the rule "**bahuvrīhau prakṛtyā pūrva-padam**" (Panini 6-2-1) — in a bahuvrīhi compound, [certain member-words] retain their original accent...
+**Since "kavikratuḥ" and "citraśravastamaḥ" are both bahuvrīhi compounds**, by the rule "**bahuvrīhau prakṛtyā pūrva-padam**" (Panini 6-2-1) — in a bahuvrīhi compound, [certain member-words] retain their original accent.
 
 <div class="pgmark">original p. 638</div>
 
@@ -18313,11 +16538,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Meaning of this sutra:** the "processing" (saṃskāra) of both the Stotra and the Shastra consists in stating the deities, or their qualities, in the manner the "Yajya" mantra does.
 
-**Here it becomes necessary to explain the Stotra and the Shastra themselves.** "Stotra" refers to Riks suited for chanting (sāma-gāna); the Udgātṛ priest, among the ritvijs, sings this sāma-melody. As soon as he finishes chanting one Stotra, the Hotṛ, in response, recites the corresponding Shastra-mantra. "Shastra," unlike Stotra, is recited melodiously but without being sung...
+**Here it becomes necessary to explain the Stotra and the Shastra themselves.** "Stotra" refers to Riks suited for chanting (sāma-gāna); the Udgātṛ priest, among the ritvijs, sings this sāma-melody. As soon as he finishes chanting one Stotra, the Hotṛ, in response, recites the corresponding Shastra-mantra. "Shastra," unlike Stotra, is recited melodiously but without being sung; it is a
 
 <div class="pgmark">original p. 652</div>
 
-**...mantra.** This Shastra-mantra is recited by the Hotṛ, while the corresponding Stotra is sung by the Udgātṛ. His assistants — called **Maitrāvaruṇa, Brāhmaṇācchaṃsī**, and **Acchāvāka** — recite these [supporting Shastra] mantras. The full arrangement of the three pressings (savana) in the Agnishtoma-yaga's morning-recitation, along with the Stotra and Shastra mantras belonging to each, is given below:
+**mantra.** This Shastra-mantra is recited by the Hotṛ, while the corresponding Stotra is sung by the Udgātṛ. His assistants — called **Maitrāvaruṇa, Brāhmaṇācchaṃsī**, and **Acchāvāka** — recite these [supporting Shastra] mantras. The full arrangement of the three pressings (savana) in the Agnishtoma-yaga's morning-recitation, along with the Stotra and Shastra mantras belonging to each, is given below:
 
 **1. Prātaḥ-savana (Morning Pressing)**
 
@@ -18345,11 +16570,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 | 12. Agniṣṭoma-sāma (Yajñāyajñīya) | 12. Agnimāruta-śastra |
 | *(these two sung by the Udgātṛ)* | *(these two recited by the Hotṛ)* |
 
-**The Bhashyakara [in his earlier discussion above] identifies:** "**ājyaḥ stuvate**" — that the Udgātṛ sings the Stotra using the Ājya-stotra mantras (in the morning pressing); "**pṛṣṭhyaḥ stuvate**" — that the Udgātṛ sings the Pṛṣṭha-stotra...
+**The Bhashyakara [in his earlier discussion above] identifies:** "**ājyaḥ stuvate**" — that the Udgātṛ sings the Stotra using the Ājya-stotra mantras (in the morning pressing); "**pṛṣṭhyaḥ stuvate**" — that the Udgātṛ sings the Pṛṣṭha-stotra
 
 <div class="pgmark">original p. 653</div>
 
-**...(in the Midday Pressing); "pṛhugaḥ śaṃsati"** — the Hotṛ recites the Pṛhuga-shastra mantras (in the Prataḥ-savana); **"niṣkevalyaṃ śaṃsati"** — the Hotṛ recites the Niṣkevalya-shastra mantras (in the Madhyandina-savana). That is: as soon as the Udgātṛ finishes chanting the Ājya-stotras in the morning pressing, the Hotṛ, in response, recites the Pṛhuga-shastra mantras; similarly for the Pṛṣṭha-stotra and Niṣkevalya-shastra in the midday pressing, and so on.
+**mantras (in the Midday Pressing); "pṛhugaḥ śaṃsati"** — the Hotṛ recites the Pṛhuga-shastra mantras (in the Prataḥ-savana); **"niṣkevalyaṃ śaṃsati"** — the Hotṛ recites the Niṣkevalya-shastra mantras (in the Madhyandina-savana). That is: as soon as the Udgātṛ finishes chanting the Ājya-stotras in the morning pressing, the Hotṛ, in response, recites the Pṛhuga-shastra mantras; similarly for the Pṛṣṭha-stotra and Niṣkevalya-shastra in the midday pressing, and so on.
 
 **Here it must be shown that "Stotra" and "recitation" (śaṃsana) describe the deities' own qualities.** For example, in the mantra:
 
@@ -18441,7 +16666,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 > वशायामर्थसमवायादिति ॥ ७ ॥ (जै. सू. २-१-२०) या वशा विधिवाक्ये श्रुता तस्या एव निगमेषु भागशब्देन व्यवहारो—
 > *vaśāyāmarthasamavāyāditi ‖ 7 ‖ (jai. sū. 2-1-20) yā vaśā vidhivākye śrutā tasyā eva nigameṣu bhāgaśabdena vyavahāro—*
 >
-> "The 'vaśā' heard in the injunction-passage — regarding that very passage's own usage, through the generic term (bhāga-śabda), in the offering-context..."
+> "The 'vaśā' heard in the injunction-passage — regarding that very passage's own usage, through the generic term (bhāga-śabda), in the offering-context is not contradictory."
 
 <div class="pgmark">original p. 658</div>
 
@@ -18481,11 +16706,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **In the same way, in mantras: where a mantra states that whichever deity possesses certain qualities is meant by it — giving the quality genuine identifying primacy — then the root "stu" functions in this quality-denoting sense, and the mantra properly counts as a Stotra.**
 
-**Since Stotra and Shastra thus have genuine, direct connection to the Veda itself, they are primary rites.** Some individual mantras may not explicitly name a deity — but since the sukta containing them is devoted to one specific deity throughout, an unnamed mantra within it should still be understood as addressing that same deity, since the preceding and following Riks make this clear. **Therefore: if a mantra containing merely the plain word "Indra" occurs amid mantras otherwise connected with Mahendra, it should be understood as referring to Mahendra himself — not to Indra alone.** Context and sequence, taken together...
+**Since Stotra and Shastra thus have genuine, direct connection to the Veda itself, they are primary rites.** Some individual mantras may not explicitly name a deity — but since the sukta containing them is devoted to one specific deity throughout, an unnamed mantra within it should still be understood as addressing that same deity, since the preceding and following Riks make this clear. **Therefore: if a mantra containing merely the plain word "Indra" occurs amid mantras otherwise connected with Mahendra, it should be understood as referring to Mahendra himself — not to Indra alone.** Following context and sequence, taken together,
 
 <div class="pgmark">original p. 661</div>
 
-**...it must be understood that such a mantra thereby praises the deity so specified.** If it is objected that where a mantra explicitly names a specific deity, there is no visible purpose in the mantra also recalling that deity — though there may be no *visible* purpose, an *unseen* purpose remains. **A further reason for Stotra-Shastra's primary-rite status now follows:**
+**it must be understood that such a mantra thereby praises the deity so specified.** If it is objected that where a mantra explicitly names a specific deity, there is no visible purpose in the mantra also recalling that deity — though there may be no *visible* purpose, an *unseen* purpose remains. **A further reason for Stotra-Shastra's primary-rite status now follows:**
 
 > शब्दस्पृथक्त्वाच्चेति ॥१०॥ (जै. सू. २-१-२३)
 > *śabda-pṛthaktvāc ceti ||10||* (Jaimini Sutra 2-1-25)
@@ -18520,11 +16745,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Sutra's meaning:** [the terms] convey genuinely distinct meanings from one another.
 
-**In the Veda: "sambaddhe vai stotra-śastre"** — Stotra and Shastra mantras are mutually connected...
+**In the Veda: "sambaddhe vai stotra-śastre"** — Stotra and Shastra mantras are mutually connected
 
 <div class="pgmark">original p. 663</div>
 
-**...it is said.** "Connection" here means holding between *two* distinct things, not existing for one thing alone — and to speak of genuine connection, the two objects must be distinct while sharing some point of commonality. **This shows that the words describing Stotra and Shastra as "preparatory" must carry genuinely different meanings for each** — a single "preparatory" description could not otherwise sustain any real distinction. Because if both merely supported one single deity-illuminating rite, they would in effect be the same rite, with no mutual difference possible. **But when Stotra and Shastra are understood as primary rites, their meanings genuinely diverge.** Though the underlying roots share a common basic sense, "**Stotra**" refers specifically to a mantra capable of being sung/chanted, while "**Shastra**" refers to a mantra recited melodiously but *without* singing. **This is itself stated directly in the Veda, requiring no further proof. A further reason follows:**
+**it is said.** "Connection" here means holding between *two* distinct things, not existing for one thing alone — and to speak of genuine connection, the two objects must be distinct while sharing some point of commonality. **This shows that the words describing Stotra and Shastra as "preparatory" must carry genuinely different meanings for each** — a single "preparatory" description could not otherwise sustain any real distinction. Because if both merely supported one single deity-illuminating rite, they would in effect be the same rite, with no mutual difference possible. **But when Stotra and Shastra are understood as primary rites, their meanings genuinely diverge.** Though the underlying roots share a common basic sense, "**Stotra**" refers specifically to a mantra capable of being sung/chanted, while "**Shastra**" refers to a mantra recited melodiously but *without* singing. **This is itself stated directly in the Veda, requiring no further proof. A further reason follows:**
 
 > अभिधानं च कर्मण इति ॥१३॥ (जै. सू. २-१-२६)
 > *abhidhānaṃ ca karmaṇa iti ||13||* (Jaimini Sutra 2-1-28)
@@ -18647,11 +16872,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 > इदम् अग्निष्टोमयागद संक्षेप विवरणे । अग्निष्टोमयागदल्लि हन्नेरड स्तोत्रगळा हन्नेरड शस्त्रगळा उपयोगिसल्पडुववु । इतर अत्यग्निष्टोमादि सोमयागगळल्लि ई स्तोत्र-शस्त्रगळ संख्येयु अधिकवागिरुवुदु । सोमयागदल्लि यज्ञमाडुव यजमाननु...
 
-**"This is the concise description of the Agnishtoma-yaga. In the Agnishtoma-yaga, twelve Stotras and twelve Shastras are used. In the other Soma-yagas — Atyagnishtoma and similar — the number of these Stotras and Shastras is greater. In the Soma-yaga, the sacrificer (yajamāna) who performs the rite..."**
+**"This is the concise description of the Agnishtoma-yaga. In the Agnishtoma-yaga, twelve Stotras and twelve Shastras are used. In the other Soma-yagas — Atyagnishtoma and similar — the number of these Stotras and Shastras is greater. In the Soma-yaga, the sacrificer (yajamāna) who performs the rite is one, and there are sixteen ritvijs."**
 
 <div class="pgmark">original p. 670</div>
 
-**A Soma-yaga may have a single sacrificer, or as many as sixteen ritvijs.** In some Soma-yagas, many sacrificers together, along with an even larger number of ritvijs, participate. **Such a Soma-yaga, performed jointly by many people together, is called a "Sattra."** This Sattra-yaga is of two kinds: one performed continuously over twelve days, and another performed over a full year. The year-long Sattras are themselves of many kinds — **Ganamayana, Adityanamayana, Angirasamayana**, and others — of which Ganamayana serves as the foundational form underlying all the rest.
+In some Soma-yagas, many sacrificers together, along with an even larger number of ritvijs, participate. **Such a Soma-yaga, performed jointly by many people together, is called a "Sattra."** This Sattra-yaga is of two kinds: one performed continuously over twelve days, and another performed over a full year. The year-long Sattras are themselves of many kinds — **Ganamayana, Adityanamayana, Angirasamayana**, and others — of which Ganamayana serves as the foundational form underlying all the rest.
 
 **"Abhiplava"** is the name given to a Soma-yaga performed over six days. This too is of two kinds: **Abhiplava** and **Prishthya**. The great sage Ashvalayana describes the defining character of both: "**ubhayato-jyotiḥ ṣaḍahakam**" and "**antarataś-jyotiḥ ṣaḍahakam**." That is: in a six-day Soma-yaga where the first and last days are performed like the Agnishtoma-yaga, and the remaining four days like the Ukthya Soma-yaga, that special form is called "**Abhiplava**." "**Prishthya**" refers to the variant Soma-yaga where the first and fourth days are performed like Agnishtoma, and the remaining days like Ukthya.
 
@@ -18661,11 +16886,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Across these three Savanas together, twelve Stotras and twelve Shastras must be recited in total.** We have already explained their sequence on page 652.
 
-**During the recitation of the Pratar-anuvaka mantras, the sukta "agnimīḷe" is recited — its application has already been explained.** Now, the second sukta, "vāyunā yāhi"...
+**During the recitation of the Pratar-anuvaka mantras, the sukta "agnimīḷe" is recited — its application has already been explained.** Now, the second sukta, "vāyunā yāhi",
 
 <div class="pgmark">original p. 671</div>
 
-**...the nine-versed sukta; and the third sukta, "aśvinā yajña-vīriṇaḥ," comprising twelve Riks, are to be recited by the Hotṛ during the recitation of the mantras called the "Pralugat-shastra."** The sequence of these Pralugat-shastra mantras runs as follows — mantras praising the **seven deities**: **Vāyu, Indra-Vāyu, Mitrā-Varuṇā, Aśvinau, Indraḥ, Viśve-devāḥ**, and **Sarasvatī**. Each deity is addressed by three Riks in turn. **In this nine-versed sukta "vāyunā yāhi": the first three Riks address Vāyu; Riks four through six address Indra-Vāyu; Riks seven through nine address Mitrā-Varuṇā. In the following sukta, "aśvinā yajña-vīriṇaḥ": Riks one through three address the Aśvins; four through six, Indra; seven through nine, Viśve-devāḥ; and nine through twelve, Sarasvatī.** Together, these two suktas thus contain the Shastra-mantras for all seven deities, in seven groups of three Riks each. **The Hotṛ recites these — this second Pralugat-shastra — in the morning pressing, immediately after the Udgātṛ has sung the Ājya-stotra, following the earlier-recited [Sukta 1]. This is the application (viniyoga) of both this sukta and the following, third sukta.**
+**the nine-versed sukta; and the third sukta, "aśvinā yajña-vīriṇaḥ," comprising twelve Riks, are to be recited by the Hotṛ during the recitation of the mantras called the "Pralugat-shastra."** The sequence of these Pralugat-shastra mantras runs as follows — mantras praising the **seven deities**: **Vāyu, Indra-Vāyu, Mitrā-Varuṇā, Aśvinau, Indraḥ, Viśve-devāḥ**, and **Sarasvatī**. Each deity is addressed by three Riks in turn. **In this nine-versed sukta "vāyunā yāhi": the first three Riks address Vāyu; Riks four through six address Indra-Vāyu; Riks seven through nine address Mitrā-Varuṇā. In the following sukta, "aśvinā yajña-vīriṇaḥ": Riks one through three address the Aśvins; four through six, Indra; seven through nine, Viśve-devāḥ; and nine through twelve, Sarasvatī.** Together, these two suktas thus contain the Shastra-mantras for all seven deities, in seven groups of three Riks each. **The Hotṛ recites these — this second Pralugat-shastra — in the morning pressing, immediately after the Udgātṛ has sung the Ājya-stotra, following the earlier-recited [Sukta 1]. This is the application (viniyoga) of both this sukta and the following, third sukta.**
 
 **This application is confirmed in the Aitareya Brahmana, in the section beginning "gṛhe'laṃ" (Aitareya Brahmana 3-1)**, and also by Ashvalayana himself in his own Shrauta-sutra, in the section beginning "stotram agre śakrāt" (Ashvalayana Sutra 5-10). **The Anukramaṇikā states this as follows:**
 
@@ -18766,11 +16991,11 @@ O Vāyu, your form is exceedingly beautiful. We have here, in this yajna, presse
 
 **This creeper grows in open ground, along riverbanks, and on mountains** — but the mountain-grown plant yields the most juice. The more elevated its place of growth, the more juice it yields. For this reason, the Rigveda in many places speaks of Soma as "brought from the mountains" (several citations). A mountain called **Mūjavat** is famed as a Soma-growing peak (Rigveda 10-34-1; Atharva Veda; Vajasaneyi Samhita; Nirukta; Shatapatha Brahmana, etc.), and the Avesta likewise says Soma is carried down from the mountains.
 
-**The Rigveda says in several places that the Soma creeper is found in the lakes of a region called "Śaryaṇāvat"** (Rigveda 8-7-29; 8-64-11; 9-65-22; 9-113-1 and others); in a place called **Ārjīka**; in a country called **Paśtyā**, where five tribes of people dwell; and in the regions around the river **Suṣomā** (whose name — "su" + "soma," "rich in Soma" — probably reflects that the area yielded good Soma). **From this we learn that in Vedic times, Soma grew freely on the open plains and along the riverbanks of what is now the Punjab.** Since the creeper growing in the open yields less juice than the mountain-grown plant, people carefully soaked it in water and used it...
+**The Rigveda says in several places that the Soma creeper is found in the lakes of a region called "Śaryaṇāvat"** (Rigveda 8-7-29; 8-64-11; 9-65-22; 9-113-1 and others); in a place called **Ārjīka**; in a country called **Paśtyā**, where five tribes of people dwell; and in the regions around the river **Suṣomā** (whose name — "su" + "soma," "rich in Soma" — probably reflects that the area yielded good Soma). **From this we learn that in Vedic times, Soma grew freely on the open plains and along the riverbanks of what is now the Punjab.** Since the creeper growing in the open yields less juice than the mountain-grown plant, people carefully soaked it in water and used it.
 
 <div class="pgmark">original p. 676</div>
 
-**...[the creeper was] moistened in this manner with water; this soaking is called "ābhyāyana" (swelling/refreshing).** After the juice was pressed out of the creeper, it was purified by passing it through a filter called "**pavitra**" — a strainer of sheep's wool (Rigveda, several citations). **For these strainers they used the tuft of hair at the tail-end of the sheep** (called "*aṇva*"; the sheep's fleece is also called "avi"), which is why the word "**pavitra**" is said to arise from purifying with sheep's wool (Rigveda, several citations). **The juice thus purified was collected in vessels made of cow-hide** (called "kośa" or "pātra"; several Rigveda citations), and from there was poured into small vessels called "**kalaśa**" (pots). **The freshly pressed Soma-juice was then mixed with milk (Rigveda, many citations) or curds (dadhi), or with barley** (*yava*) — the mixed preparations bearing distinct names: **gavāśira** (mixed with milk), **dadhyāśira** (mixed with curds), **yavāśira** (mixed with barley); each mixture is called by its own name. **The milk and other substances mixed with Soma are called "āśir."** The vessel in which Soma-juice is offered to the deities is called "**camū**" (Rigveda, several citations); at times "camasa" is also used for such a vessel. **The Soma-juice and the milk called "āśir" were mixed in a vessel called "kalaśa."**
+**This soaking in water is called "ābhyāyana" (swelling/refreshing).** After the juice was pressed out of the creeper, it was purified by passing it through a filter called "**pavitra**" — a strainer of sheep's wool (Rigveda, several citations). **For these strainers they used the tuft of hair at the tail-end of the sheep** (called "*aṇva*"; the sheep's fleece is also called "avi"), which is why the word "**pavitra**" is said to arise from purifying with sheep's wool (Rigveda, several citations). **The juice thus purified was collected in vessels made of cow-hide** (called "kośa" or "pātra"; several Rigveda citations), and from there was poured into small vessels called "**kalaśa**" (pots). **The freshly pressed Soma-juice was then mixed with milk (Rigveda, many citations) or curds (dadhi), or with barley** (*yava*) — the mixed preparations bearing distinct names: **gavāśira** (mixed with milk), **dadhyāśira** (mixed with curds), **yavāśira** (mixed with barley); each mixture is called by its own name. **The milk and other substances mixed with Soma are called "āśir."** The vessel in which Soma-juice is offered to the deities is called "**camū**" (Rigveda, several citations); at times "camasa" is also used for such a vessel. **The Soma-juice and the milk called "āśir" were mixed in a vessel called "kalaśa."**
 
 **The word "Soma," when speaking of the Soma-juice, is customarily used both in the singular ("somaḥ") and in the plural ("somāḥ" or "somāsaḥ").** This is because — since milk and other different substances were added to the Soma-juice — the prepared Soma came in many kinds, so the plural "somāḥ" can properly be used. More detail about the Soma creeper and its juice will be given when the ninth Maṇḍala is explained.
 
@@ -18872,11 +17097,11 @@ O Vāyu, the sacrificer who performs the yajna, and many others besides, call yo
 
 **॥ Viśeṣa-viṣayagaḷu ॥**
 
-**"Dhenā"** — many scholars have held many opinions about this word's meaning. Yāska, in his Nighaṇṭu (Nirukta), placed this word "dhenā" among the fifty-seven words meaning "vāk" (speech). Some take "dhenā" to mean "tongue" (jihvā)...
+**"Dhenā"** — many scholars have held many opinions about this word's meaning. Yāska, in his Nighaṇṭu (Nirukta), placed this word "dhenā" among the fifty-seven words meaning "vāk" (speech). Some take "dhenā" to mean "tongue" (jihvā).
 
 <div class="pgmark">original p. 682</div>
 
-**...[Some take "dhenā" to mean] "tongue" (jihvā)**, and on their view this Rik's sense would run: "O Vāyu, your long (Udvāta) tongue reaches the sacrificer who calls you for the drinking of Soma." **The German scholar Geldner**, after many investigations into the word "dhenā," concluded that it means "tongue" (in the sense of "speech," vāk); the sacrificer's Stotra (vāk), he says, generates in the deity a desire for the Soma-drinking. A Rik of the Rigveda supports this view: "**yaṃ te svadhāvan…**" (Rigveda 8.?). **But in a later study, this same scholar concluded that "dhenā" means "the milk-yielding cow's teat/milk-flow." According to Professor Max Müller, "dhenā" means "a stream of milk."** Both scholars hold that "dhenā" means "a cow that yields milk" and, by extension, "the drinking of milk." **In the Veda, the word "dhenā" is used in a variety of senses in different contexts:**
+On their view this Rik's sense would run: "O Vāyu, your long (Udvāta) tongue reaches the sacrificer who calls you for the drinking of Soma." **The German scholar Geldner**, after many investigations into the word "dhenā," concluded that it means "tongue" (in the sense of "speech," vāk); the sacrificer's Stotra (vāk), he says, generates in the deity a desire for the Soma-drinking. A Rik of the Rigveda supports this view: "**yaṃ te svadhāvan…**" (Rigveda 8.?). **But in a later study, this same scholar concluded that "dhenā" means "the milk-yielding cow's teat/milk-flow." According to Professor Max Müller, "dhenā" means "a stream of milk."** Both scholars hold that "dhenā" means "a cow that yields milk" and, by extension, "the drinking of milk." **In the Veda, the word "dhenā" is used in a variety of senses in different contexts:**
 
 (1) A Rik in which "dhenā" refers to a beloved woman — used in the sense of "wife": "*striyo hi dāsa āyudhāni cakre kiṃ mā karann abalā asya senāḥ…*" (Rigveda 5-30-9) — where "dhenā" is used for women who are objects of affection.
 
@@ -19010,11 +17235,11 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 **Further compounds ending in "vasu" in the Rigveda:** **Viśvāvasuḥ** (10-85-21, 22; 10-139-4, 5); **Manāvasū** (5-74-1); **Viśvalāvasū** (1-182-1); **Snāvasuḥ** (5-44-7); **Tvāvasuḥ** (7-32-14); **Ṛtāvasū** (8-101-5); **Jenyāvasū** (7-74-3; 8-38-7); **Divāvasū** (8-34-1); **Dhiyovasuḥ** (1-3-10; 1-58-9; 1-60-5; 1-63-9; 1-64-15; 3-3-2; 3-28-1 etc.); **Vṛṣaṇvasū** (1-111-1; 2-41-8; 4-50-10; 5-74-1; 8-5-24; 8-26-1, 2, 5 etc.); **Puruvasū** (1-47-10; 1-81-8; 2-1-5; 5-36-3; 6-22-4 etc.); **Prabhūvasuḥ** (1-57-4; 7-22-2; 8-45-36; 9-29-3; 9-35-6); **Vibhūvasuḥ** (9-72-7; 9-86-10); **Mahāvasū** (7-82-2); **Punarvasū** (10-19-1); **Aśvyaṇīvasū [?]** (8-60-20); **Ābharadvasuḥ** (5-79-3); **Akṣitāvasuḥ** (8-49-6); **Kaitadvasū** (8-31-9); **Gotrāvasuḥ** (10-132-1); **Pratadvasū** (8-13-27); **Radāvasū** (7-32-18); **Vidadvasuḥ** (1-6-6; 3-34-1; 5-39-1; 8-66-1); **Śatadvasuḥ** (1-119-1 etc.), and so on.
 
-**In these words, "vasu" generally means "wealth."** In the Shatapatha Brahmana as well, the word occurs in "Amāvasu" (Śa. Brā. 1-6-4-[?], 3) and in "Citravasu" (Śa. Brā. 2-3-4-22)...
+**In these words, "vasu" generally means "wealth."** In the Shatapatha Brahmana as well, the word occurs in "Amāvasu" (Śa. Brā. 1-6-4-[?], 3) and in "Citravasu" (Śa. Brā. 2-3-4-22).
 
 <div class="pgmark">original p. 691</div>
 
-**"Vasu"** — the word derives from the root "vas" (to dwell), and signifies "one who dwells." The Bhashyakara has followed this sense and explained accordingly here.
+**"Vasu"** — in these two words it derives from the root "vas" (to dwell), and signifies "one who dwells." The Bhashyakara has followed this sense and explained accordingly here.
 
 **The word "vājinīvatī"** — which is a derivative of "vājinī" — is used in the Rigveda as a qualifier of Uṣas (the Dawn) in several Riks (several citations). **Yāska, in his Nirukta, when explaining one of these Riks, glosses "vājinīvatī" as "annavatī" (possessing food).** There "vājinī" means "food"; and when explaining another Rik, he gives the same sense again.
 
@@ -19076,11 +17301,11 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 **॥ Viśeṣa-viṣayagaḷu ॥**
 
-**"Niṣkṛtam"** — the Bhashyakara glosses this word as "saṃskṛtam" — that is, consecrated, purified. The authors of the Vedārtha-yatna say it simply means "Soma." **The scholar Geldner** takes it to mean "arranged/put in order," and **Grassmann**...
+**"Niṣkṛtam"** — the Bhashyakara glosses this word as "saṃskṛtam" — that is, consecrated, purified. The authors of the Vedārtha-yatna say it simply means "Soma." **The scholar Geldner** takes it to mean "arranged/put in order," and **Grassmann** takes it to mean
 
 <div class="pgmark">original p. 694</div>
 
-**...[Geldner and Grassmann] take "niṣkṛta" to mean "the appointed place" or "the place of sacrifice."** That is: "niṣkṛta" = "that which has been completely prepared" — this is the right sense. The same sense holds in the Rik "*utā tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6). **Other Riks where "niṣkṛta" occurs:**
+**"the appointed place" or "the place of sacrifice."** That is: "niṣkṛta" = "that which has been completely prepared" — this is the right sense. The same sense holds in the Rik "*utā tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6). **Other Riks where "niṣkṛta" occurs:**
 
 (1) *ratho ha vāṃ bhūri varṣaḥ kerikṛtsnā tāvato niṣkṛtam āgamiṣṭaḥ* (Rigveda 3-58-9)
 (2) *somo no jigāti gātuvid devānām eti niṣkṛtam* (Rigveda 3-62-13)
@@ -19098,7 +17323,7 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 <div class="pgmark">original p. 695</div>
 
-**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is said to be the first of three Riks concerning Mitra-Varuṇa.** On the day of the Sutyā (pressing), within the yajña beginning at the appointed hour, at the morning pressing, in the Maitrāvaruṇa-graha rite, this Rik's application follows. Further, the entire matter of the Abhiplava and Ṣaḍaha [six-day] rites has already been explained; the application of these Riks in the present sacrifice has also been explained. **Āśvalāyana, in the section of his Shrauta-sutra called "hotā-jani..." (Adhyāya 3, Section 8), states the application of the Riks concerning Mitra and Varuṇa individually,** and further, in the Adhyāya 8, Section 2, states the application of the Riks concerning Vāyu and the others. This has already been discussed above (see printed pages 671–672).
+**The next triplet, that is, "mitraṃ huve," the sukta's [seventh] Rik, is said to be the first of three Riks concerning Mitra-Varuṇa.** On the day of the Sutyā (pressing), within the yajña beginning at the appointed hour, at the morning pressing, in the Maitrāvaruṇa-graha rite, this Rik's application follows. Further, the entire matter of the Abhiplava and Ṣaḍaha [six-day] rites has already been explained; the application of these Riks in the present sacrifice has also been explained. **Āśvalāyana, in the section of his Shrauta-sutra called "hotā-jani..." (Adhyāya 3, Section 8), states the application of the Riks concerning Mitra and Varuṇa individually,** and further, in the Adhyāya 8, Section 2, states the application of the Riks concerning Vāyu and the others. This has already been discussed above (see printed pages 671–672).
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
@@ -19171,11 +17396,11 @@ I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they
 (11) त्यान्नु पूतदक्षसो दिवो वो मरुतो हुवे — *tyānnu pūtadakṣaso divo vo maruto huve* (Rigveda 8-94-10)
 (12) इन्द्रो मित्रो वरुणः सं चिकित्रिरेऽथो भगः सविता पूतदक्षसः — *indro mitro varuṇaḥ saṃ cikitrire 'tho bhagaḥ savitā pūtadakṣasaḥ* (Rigveda 10-92-4)
 
-— and so on. **The Bhashyakara, in explaining these Riks, glosses "pūtadakṣa" as: pure strength, power, or capability.** The authors of the Vedārtha-yatna, for this word, consider "*manaskeṃdu*"...
+— and so on. **The Bhashyakara, in explaining these Riks, glosses "pūtadakṣa" as: pure strength, power, or capability.** The authors of the Vedārtha-yatna, for this word, consider "*manaskeṃdu*"; the scholar
 
 <div class="pgmark">original p. 699</div>
 
-**...Geldner** takes "manaskeṃdu" [an intended-mind reading] in the sense of "purpose." **But the Bhashyakara's own sense — "capability" — as stated on the previous page, fits better.** In the Taittiriya Samhita of the Yajurveda (4-7-1), "dakṣa" is glossed as both "strength" and "wisdom." **Here, some of the Vedārtha-yatna authors explain "dakṣa" as meaning "sensory power" or "the power of the sense-organs," while others explain it as meaning "the capacity for action."** "Dakṣa" indicates a strength of mind and a strength of body alike.
+**Geldner** takes "manaskeṃdu" [an intended-mind reading] in the sense of "purpose." **But the Bhashyakara's own sense — "capability" — as stated on the previous page, fits better.** In the Taittiriya Samhita of the Yajurveda (4-7-1), "dakṣa" is glossed as both "strength" and "wisdom." **Here, some of the Vedārtha-yatna authors explain "dakṣa" as meaning "sensory power" or "the power of the sense-organs," while others explain it as meaning "the capacity for action."** "Dakṣa" indicates a strength of mind and a strength of body alike.
 
 **Some further Riks in which the word "dakṣa" appears:**
 
@@ -19219,11 +17444,11 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 > यद्देवापिः शन्तनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥
 > *yaddevāpiḥ śantanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖* (Rigveda 10-98-7)
 
-**"Ghṛtācīm"** — the Bhashyakara has interpreted this word: "*udakaṃ pṛthivīṃ prati yā gamayati sā ghṛtācī*" — that is, "the rite that causes water to reach the earth," on the analogy of "vṛṣṭi" (bringing water down). **The Māthava commentary [Veṅkaṭamādhava]** and others agree with this. The rite whereby, through yajnas performed, one brings water down onto the earth — this rite ("ghṛtācī") is thus glossed. **The Skandasvāmī commentary explains further: "phalasva bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — "the rite that carries water (in the form of ghee/rain) to the earth" — through this the two deities, Vāyu and [Mitra-Varuṇa], accomplish it, "vṛṣṇyaḥ" [rain-bringing].** Sāyaṇācārya says the same. **Sāyaṇācārya explains** "sphṛta udakaṃ āñcati bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — the rite by which water (in the form of the deity's own oblation) is caused to reach the earth — that rite, "ghṛtācī," and that which is accomplished — "vṛṣṭi" — as its result. **Māthava too accepts this sense.** Māthava, in one Brahmana-passage's citation, gives the example: "**mitraṃ vā ahaḥ vāruṇe rātrau. ca ahoratrābhyāṃ hi mitrāvaruṇāhorātrābhyāṃ tu varṣaṇyo**" — Mitra [rules] the day; Varuṇa, the night; and [through] Mitra-Varuṇa together, [ruling] both day and night, [rain is brought about]...
+**"Ghṛtācīm"** — the Bhashyakara has interpreted this word: "*udakaṃ pṛthivīṃ prati yā gamayati sā ghṛtācī*" — that is, "the rite that causes water to reach the earth," on the analogy of "vṛṣṭi" (bringing water down). **The Māthava commentary [Veṅkaṭamādhava]** and others agree with this. The rite whereby, through yajnas performed, one brings water down onto the earth — this rite ("ghṛtācī") is thus glossed. **The Skandasvāmī commentary explains further: "phalasva bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — "the rite that carries water (in the form of ghee/rain) to the earth" — through this the two deities, Vāyu and [Mitra-Varuṇa], accomplish it, "vṛṣṇyaḥ" [rain-bringing].** Sāyaṇācārya says the same. **Sāyaṇācārya explains** "sphṛta udakaṃ āñcati bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — the rite by which water (in the form of the deity's own oblation) is caused to reach the earth — that rite, "ghṛtācī," and that which is accomplished — "vṛṣṭi" — as its result. **Māthava too accepts this sense.** Māthava, in one Brahmana-passage's citation, gives the example: "**mitraṃ vā ahaḥ vāruṇe rātrau. ca ahoratrābhyāṃ hi mitrāvaruṇāhorātrābhyāṃ tu varṣaṇyo**" — Mitra [rules] the day; Varuṇa, the night; and [through] Mitra-Varuṇa together, [ruling] both day and night,
 
 <div class="pgmark">original p. 702</div>
 
-**...that is, Varuṇa causes lightning to occur through the day.** In the Rigveda too, elsewhere (several citations), it is said that Mitra-Varuṇa together summon the rain onto the earth. In the Nighaṇṭu, "udaka" (water) is included among the hundred-odd words listed as synonyms for water, in which "ghṛta" itself is one.
+**Parjanya calls down the rain at the command of Mitra and Varuṇa, the presiders over day and night.** In the Rigveda too, elsewhere (several citations), it is said that Mitra-Varuṇa together summon the rain onto the earth. In the Nighaṇṭu, "udaka" (water) is included among the hundred-odd words listed as synonyms for water, in which "ghṛta" itself is one.
 
 > त आ अनश्रे रत्नान्युपैषु घृतेन पृथिवी व्यूद्ये ।
 > *ta ā anaśre ratnāny upaiṣu ghṛtena pṛthivī vyūdye |* (Rigveda 1-164-47)
@@ -19378,11 +17603,11 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 **"Kavī"** — this word has already been discussed above. "Vipra," "dhīra," and "medhāvī" are all words that convey this same sense of wisdom; among the various senses of the word "kavi," "wise" is the one that fits here. Therefore here "kavi" is properly understood as meaning "wise."
 
-**"Tuvijātā"** — "uru" and "tuvi" are words both meaning "many"; since the meaning "helper of many" fits well in this context, most scholars explain "tuvi" as meaning "helper," or, in this same sense, "many." "Tuvi" carries the sense "**strong or mighty**." Given this sense, the word "tuvijātā" is here explained as meaning "born in the lineage of the strong," or "born of mighty parents" (**Born of strong...**
+**"Tuvijātā"** — "uru" and "tuvi" are words both meaning "many"; since the meaning "helper of many" fits well in this context, most scholars explain "tuvi" as meaning "helper," or, in this same sense, "many." "Tuvi" carries the sense "**strong or mighty**." Given this sense, the word "tuvijātā" is here explained as meaning "born in the lineage of the strong," or "born of mighty parents" (**Born of strong**
 
 <div class="pgmark">original p. 714</div>
 
-**...race)" — this sense too fits well. Geldner** takes the same sense; the Bhashyakara and other authors adopt the meaning drawn from Yāska's own explanation, since the meaning proposed here does not appear inconsistent with that.
+ **race)" — this sense too fits well. Geldner** takes the same sense; the Bhashyakara and other authors adopt the meaning drawn from Yāska's own explanation, since the meaning proposed here does not appear inconsistent with that.
 
 **"Urukṣayā"** — the Bhashyakara explains this as "possessed of a broad, established dwelling-place"; the authors of the Vedārtha-yatna explain "urukṣaya" in the sense of "possessing a special, broad plain/settlement," reading it as a distinct compound (drawn from the widely established senses of the word). Given this, "urukṣaya" is taken to mean: those who possess a settled, established dwelling — a settlement across the extended earth.
 
@@ -19394,7 +17619,7 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 **"Mitrāvaruṇā"** — here, the word "Mitra" takes the accent of the accusative, connected with the Prātipadika accent-rule already discussed above. **"Varuṇaḥ"** — the derivation "**varṇāvarṇyor unan**" (Uṇādi 1-9[?]) is applied, giving "varuṇaḥ" from the root "vṛ" with the affix "unan," through the process of guṇa and other adjustments. **"Devatādvandve ca"** (Panini 6-3-26[?]) — in a dvandva-compound of deity-names, the first member retains its accent — hence the accent seen here.
 
-**"Uru" + "tuvi"** — Yāska's Nirukta (2.?.?) states this word "tuvi" among words meaning "many"; many rishis in similar contexts have used "tuvijāta" as a compound meaning "born to help many." "**Tuvīnāṃ jātaḥ = tuvijātaḥ**" — a genitive compound, resolving by regular sandhi rules...
+**"Uru" + "tuvi"** — Yāska's Nirukta (2.?.?) states this word "tuvi" among words meaning "many"; many rishis in similar contexts have used "tuvijāta" as a compound meaning "born to help many." "**Tuvīnāṃ jātaḥ = tuvijātaḥ**" — a genitive compound, resolving by regular sandhi rules, and the compound takes its accent on the final syllable.
 
 <div class="pgmark">original p. 715</div>
 
