@@ -2900,6 +2900,267 @@ The bird (विः (*viḥ*)), the hawk, brought (भरत् (*bharat*)) from
 - विः (*viḥ*)—the hawk
 - भरत् (*bharat*)—bore and came
 
+### Printed p. 125
+
+##### भावार्थ (Bhāvārtha)
+
+The hawk bore Soma, the divine, the impeller of water in the form of rain, the protector of the sacrifice, equally worthy of reverence to all the gods, and came.
+
+##### English translation
+The bird brought you, the shower of water, the protector of the sacrifice, the common property of every god.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑ हिन्वा॒न इं॑द्रि॒यं ज्यायो॑ महि॒त्वमा॑नशे ।  
+> अ॒भि॒ष्टि॒कृद्विच॑र्षणिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हिन्वानः । इंद्रियम् । ज्यायः । महिऽत्वम् । आनशे ।  
+> अभिष्टिऽकृत् । विऽचर्षणिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अथ विचर्षणिः कर्मणां विद्रष्टा अभिष्टिकृत् यजमानानामभीष्टस्य फलस्य कर्ता सोमः इंद्रियं स्वकीयं बलं हिन्वानः प्रेरयन् ज्यायः प्रशस्यतरं महित्वं महत्त्वम् आनशे प्राप्नोति ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+Thereupon (अध (*adha*)) Soma, the one who sees (विचर्षणिः (*vicarṣaṇiḥ*)) all deeds, the maker (अभिष्टिकृत् (*abhiṣṭikṛt*)) of the desired fruit of the sacrificers, sending forth (हिन्वानः (*hinvānaḥ*)) his own strength (इंद्रियं (*iṃdriyaṃ*)), obtains (आनशे (*ānaśe*)) a more excellent (ज्यायः (*jyāyaḥ*)) greatness (महित्वं (*mahitvaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—thereafter
+- विचर्षणिः (*vicarṣaṇiḥ*)—able to look specially upon all affairs
+- अभिष्टिकृत् (*abhiṣṭikṛt*)—accomplisher of the desired object of the sacrificer
+- इंद्रियं (*iṃdriyaṃ*)—his own strength
+- हिन्वानः (*hinvānaḥ*)—the divine Soma, who manifests
+- ज्यायः (*jyāyaḥ*)—the most excellent
+- महित्वं (*mahitvaṃ*)—greatness
+- आनशे (*ānaśe*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+After being brought from heaven, the divine Soma, who is able to look specially upon all affairs, who accomplishes the desired object of the sacrificer, and who manifests his own strength, obtains his own most excellent greatness.
+
+### Printed p. 126
+
+##### English translation
+The contemplator of all, the granter of desires, puttiug forth his
+energy obtains superior greatness.
+
+## Sūkta 49 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘पवस्व' इति पंचर्चं पंचविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् ।  पवस्व' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पवस्व (*pavasva*) has five ṛks and is the twenty-fifth sūkta. The seer and the rest are as before. The Anukramaṇī says पवस्व (*pavasva*). The use in the rite has been stated.
+
+Translation: This sūkta पवस्व (*pavasva*) is the twenty-fifth sūkta in the second anuvāka. It contains five ṛks. The seer, deity and metre of this sūkta are the same as of the previous sūkta. In the Anukramaṇikā it is said पवस्व (*pavasva*). The use in the rite has been stated before.
+
+Sūkta 49. Maṇḍala 9, Anuvāka 2, Sūkta 49. Aṣṭaka 7, Adhyāya 1, Varga 6. Number of ṛks in the sūkta: 5. Seer: Kavi Bhārgava. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व वृ॒ष्टिमा सु नो॒ऽपामू॒र्मिं दि॒वस्परि॑ ।  
+> अ॒य॒क्ष्मा बृ॑ह॒तीरिषः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । वृष्टिम् । आ । सु । नः । अपाम् । ऊर्मिम् । दिवः । परि ।  
+> अयक्ष्माः । बृहतीः । इषः ॥ १ ॥
+
+### Printed p. 127
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं दिवः द्युलोकात् वृष्टिं नः अस्माकम् आ पवस्व समंतात् क्षर । एतदेव दर्शयति । अपाम् उदकानाम् ऊर्मिं तरंगं दिवः परि आ पवस्व । अपि च अयक्ष्माः यक्ष्मरहितानि अनामयानि बृहतीः महांति इषः अन्नानि आ पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow (आ पवस्व (*ā pavasva*)) for us on all sides rain (वृष्टिं (*vṛṣṭiṃ*)) from heaven (दिवः (*divaḥ*)). He shows this very thing: flow from heaven the wave (ऊर्मिं (*ūrmiṃ*)), the billow, of the waters (अपाम् (*apām*)). Moreover flow free from disease (अयक्ष्माः (*ayakṣmāḥ*)), that is, healthy, great (बृहतीः (*bṛhatīḥ*)) foods (इषः (*iṣaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- दिवः (*divaḥ*)—from heaven
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- नः (*naḥ*)—for us
+- आ पवस्व (*ā pavasva*)—pour all round
+- सु (*su*)—in an excellent manner
+- अपां (*apāṃ*)—of the waters
+- ऊर्मिं (*ūrmiṃ*)—the waves
+- परि (*pari*)—make them flow round about us
+- अयक्ष्माः (*ayakṣmāḥ*)—free from disease
+- बृहतीः (*bṛhatīḥ*)—and of great power
+- इषः (*iṣaḥ*)—supply also foods
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, pour rain for us from heaven everywhere. In an excellent manner make the flood of water in the form of waves flow. Supply also foods free from disease and of great power.
+
+##### English translation
+Pour down upon us a shower from heaven, a stream of waters, wholesome and abundant food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तया॑ पवस्व॒ धार॑या॒ यया॒ गाव॑ इ॒हागम॑न् ।  
+> जन्या॑स॒ उप॑ नो गृ॒हम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तया । पवस्व । धारया । यया । गावः । इह । आऽगमन् ।  
+> जन्यासः । उप । नः । गृहम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं तया तादृश्या धारया पवस्व क्षर। कीदृश्येत्यत्राह। यया यादृश्या त्वदीयया धारया जन्यासः जन्याः शत्रुजनपदभवाः गावः इह अस्मिँल्लोके नः अस्माकं संबंधि गृहम् उप आगमन् उपागच्छंति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow, that is, stream, in that stream of yours (तया (*tayā*) धारया (*dhārayā*)). He tells of what kind: by which stream of yours the cows (गावः (*gāvaḥ*)) that are जन्यासः (*janyāsaḥ*), that is, born in the country of the enemies, come (आगमन् (*āgaman*)) here, in this world, to our house (गृहम् (*gṛham*)).
+
+### Printed p. 128
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- यया (*yayā*)—by which power of your flow
+- जन्यासः (*janyāsaḥ*)—those among the enemy people
+- गावः (*gāvaḥ*)—the cows
+- इह (*iha*)—here in our region
+- नः (*naḥ*)—our
+- गृहं (*gṛhaṃ*)—to the houses
+- उप आगमन् (*upa āgaman*)—come and join
+- तया (*tayā*)—by such
+- धारया (*dhārayā*)—a stream
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, pour in such a stream that by it, by the power of your flow, the cows that are among the enemy people come and join our houses in our regions.
+
+##### English translation
+Flow in such a stream that the cattle belonging to the (enemy's) nation may come here to our dwelling.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तं प॑वस्व॒ धार॑या य॒ज्ञेषु॑ देव॒वीत॑मः ।  
+> अ॒स्मभ्यं॑ वृ॒ष्टिमा प॑व ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतम् । पवस्व । धारया । यज्ञेषु । देवऽवीतमः ।  
+> अस्मभ्यम् । वृष्टिम् । आ । पव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यज्ञेषु देववीतमः अत्यंतं देवकामस्त्वम् अस्मभ्यं भार्गवेभ्यः कविभ्यः घृतम् उदकम् । वनं घृतम्' इत्युदकनामसु पाठात् । धारया संपातेन पवस्व क्षर। वृष्टिं वर्षं च आ पव पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who in the sacrifices most desire the gods (देववीतमः (*devavītamaḥ*)), flow for us, the Bhārgava poets, the ghee (घृतम् (*ghṛtam*)), that is, water, since वनं घृतम् (*vanaṃ ghṛtam*) is read among the names of water. Flow in a falling stream (धारया (*dhārayā*)), and flow rain (वृष्टिं (*vṛṣṭiṃ*)), that is, a shower.
+
+### Printed p. 129
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who in the sacrifices wish to give satisfaction to the gods, pour water for us in the form of a stream. Pour rain all round.
+
+##### English translation
+You are most dear to the gods at sacrifice, shower down water in a stream; let the gods hear your sound. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स न॑ ऊ॒र्जे व्य१॒॑व्ययं॑ प॒वित्रं॑ धाव॒ धार॑या ।  
+> दे॒वासः॑ शृ॒णव॒न्हि क॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । ऊर्जे । वि । अव्ययम् । पवित्रम् । धाव । धारया ।  
+> देवासः । शृणवन् । हि । कम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुतः अभिषुतस्त्वं नः अस्माकम् ऊर्जे अन्नाय अव्ययम् अविमयं पवित्रं धारया संपातेन वि धाव प्राप्नुहि। देवासः देवा अपि हि कं शृणवन् गमनवेलायामुत्पन्नं तव शब्द शृण्वंतु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are pressed (सुतः (*sutaḥ*)), run (धाव (*dhāva*)), that is, reach, in a stream (धारया (*dhārayā*)) the woollen (अव्ययं (*avyayaṃ*), made of sheep's wool) filter (पवित्रं (*pavitraṃ*)) for our food (ऊर्जे (*ūrje*)). Let the gods also hear (शृणवन् (*śṛṇavan*)) your sound that arises at the time of your going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- सः (*saḥ*)—you who are pressed
+- नः (*naḥ*)—for us
+- ऊर्जे (*ūrje*)—for the gaining of food
+- अव्ययं (*avyayaṃ*)—made of wool
+- पवित्रं (*pavitraṃ*)—to the ten-fold filter
+- धारया (*dhārayā*)—in the form of a stream
+- विधाव (*vidhāva*)—go and join
+- देवासः हि (*devāsaḥ hi*)—as for the gods
+- कं (*kaṃ*)—the sound of your going to the pure vessel
+- शृणवन् (*śṛṇavan*)—let them hear
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are pressed, for our gaining of food go and join, in the form of a stream, the ten-fold filter made of wool. As for the gods, let them hear the sound of your going to the pure vessel.
+
+### Printed p. 130
+
+##### English translation
+Do you for our sustenance hasten to the woollen filter with your stream; let the gods hear your sound.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो असिष्यद॒द्रक्षां॑स्यप॒जंघ॑नत् ।  
+> प्र॒त्न॒वद्रो॒चय॒न्रुचः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । असिस्यदत् । रक्षांसि । अपऽजंघनत् ।  
+> प्रत्नऽवत् । रोचयन् । रुचः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रक्षांसि राक्षसान् अपजंघनत् अपघ्नन् रुचः आत्मीया दीप्तीः प्रत्नवत् पुराणवत् रोचयन् दीपयन् पवमानः सोमः असिष्यदत् स्यंदते ॥ ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna Soma flows (असिष्यदत् (*asiṣyadat*)), striking down the Rākṣasas (रक्षांसि (*rakṣāṃsi*)) and making his own radiances (रुचः (*rucaḥ*)) shine (रोचयन् (*rocayan*)) as of old (प्रत्नवत् (*pratnavat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—the divine Soma, the purifier
+- रक्षांसि (*rakṣāṃsi*)—the Asuras
+- अपजंघनत् (*apajaṃghanat*)—destroying by slaying
+- रुचः (*rucaḥ*)—his own radiances
+- प्रश्नवत् (*praśnavat*)—as before
+- रोचयन् (*rocayan*)—making them shine
+- असिष्यदत् (*asiṣyadat*)—he flows
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Soma, the purifier, flows, slaying and destroying the Asuras and making his own radiances shine as before.
+
+##### English translation
+The purifier (the Soma) flows forth destroying the Rakshasas. flashing
+out brilliance as of old.
+
 ---
 
-**Progress note:** Done through printed p. 124. Sūkta 47 Ṛk 3-5; Sūkta 48 Ṛk 1-4
+**Progress note:** Done through printed p. 130. Sūkta 48 Ṛk 4-5; Sūkta 49 complete
