@@ -6309,6 +6309,294 @@ Bring us, purifier, much wealth : conquer our foes; grant us, Indu fame and male
 > न । त्वा । शतम् । चन । ह्रुतः । राधः । दित्संतम् । आ । मिनन् ।  
 > यत् । पुनानः । मखस्यसे ॥ २७ ॥
 
+### Printed p. 200
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम राधः धनम् आ दित्संतम् आदातुमिच्छंतं त्वा त्वां शतं चन बहवोऽपि ह्रुतः हिंसकाः शत्रवः न मिनन् न हिंसंति । कदेत्यत्राह । यत् यदा पुनानः पूयमानस्त्वं मखस्यसे अस्मभ्यं धनं दातुमिच्छसि । ।
+
+##### Gist of the bhāṣya
+
+O Soma, even a hundred violent enemies do not injure you, who wish to give wealth. When is that? When, being purified, you wish to give us wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पुनानः (*punānaḥ*)—you, the purifier
+- मखस्यसे (*makhasyase*)—you wish to give us wealth, then
+- राधः (*rādhaḥ*)—wealth
+- आ दित्संतं (*ā ditsaṃtaṃ*)—wishing to give
+- त्वा (*tvā*)—you
+- शतंचन ह्रुतः (*śataṃcana hrutaḥ*)—even enemies of many hundreds
+- न मिनन् (*na minan*)—cannot injure
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, when you, the purifier, wish to give us wealth, then not even enemies in great numbers can injure you, who wish to give wealth.
+
+##### English translation
+A hundred fces harm you not, purposing to give wealth when being purified you are benevolently iuclined. **NOTE**
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्वेंदो॒ वृषा॑ सु॒तः कृ॒धी नो॑ य॒शसो॒ जने॑ ।  
+> विश्वा॒ अप॒ द्विषो॑ जहि ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । इंदो इति । वृषा । सुतः । कृधि । नः । यशसः । जने ।  
+> विश्वाः । अप । द्विषः । जहि ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम सुतः अभिषुतः वृषा सेक्ता त्वं पवस्व धारया क्षर। जने जनपदेषु नः अस्मान् यशसः यशस्विनः कृधि कुरु । विश्वाः सर्वान् द्विषः द्वेष्टॄन् शत्रून् अप जहि मारय च ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, pressed and a showerer, flow in a stream. Among the people and the lands make us renowned. And slay all the hating enemies.
+
+### Printed p. 201
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- सुतः (*sutaḥ*)—you who are pressed
+- वृषा (*vṛṣā*)—and a showerer of desires
+- पवस्व (*pavasva*)—flow in the form of a stream
+- जने (*jane*)—among the people of our group
+- नः (*naḥ*)—us
+- यशसः (*yaśasaḥ*)—as renowned
+- कृधि (*kṛdhi*)—make
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—our enemies
+- अप जहि (*apa jahi*)—conquer and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are pressed and who grant what is desired, flow in the form of a stream. Make us renowned among all the people of our group. Conquer and destroy all our enemies.
+
+##### English translation
+You, Indu. when effused, the showerer (of benefits). make us celebrated amongst men : slay all our enemies.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॑ ते स॒ख्ये व॒यं तवें॑दो द्यु॒म्न उ॑त्त॒मे ।  
+> सा॒स॒ह्याम॑ पृतन्य॒तः ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । ते । सख्ये । वयम् । तव । इंदो इति । द्युम्ने । उत्ऽतमे ।  
+> ससह्याम । पृतन्यतः ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अस्य अस्मिन् यागे वर्तमानस्य ते तव सख्ये सखित्वे सति वयम् अमहीयव आंगिरसा: तव त्वदीये उतमे श्रेष्ठे द्युम्ने अन्ने तृप्तिं प्राप्ता: । तथा च यास्कः-- द्युम्नं द्योततेर्यशो वान्नं वा ' ( निरु, ५. ५) इति । पृतन्यतः युद्धमिच्छतः शत्रून् ससह्याम अभिभवेम ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, while we, the अमहीयव आंगिरसा (*amahīyava āṃgirasā*), are in the friendship of you who are present in this sacrifice, we have attained satisfaction in your excellent splendour, that is, food. Accordingly Yāska says: द्युम्नं द्योततेर्यशो वान्नं वा (*dyumnaṃ dyotateryaśo vānnaṃ vā*) (Ni. 5. 5). May we overcome the enemies who desire battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- अस्य (*asya*)—who are present in this sacrifice
+- ते (*te*)—your
+- सख्ये (*sakhye*)—having attained friendship
+- वयं (*vayaṃ*)—we
+- तव (*tava*)—favoured by you
+
+### Printed p. 202
+
+- उत्तमे (*uttame*)—extremely excellent
+- द्युम्ने (*dyumne*)—and shining, by the food, having attained satisfaction
+- पृतन्यवः (*pṛtanyavaḥ*)—our enemy armies **NOTE**
+- ससह्याम (*sasahyāma*)—may we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, we who have attained the friendship of you who are present in this sacrifice, having been satisfied with food that is favoured by you, extremely excellent and shining, may we conquer our enemy armies.
+
+##### English translation
+(Enjoying) the friendship of you here and your excellent food, Indu may we overcome our assailants.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॑ भी॒मान्यायु॑धा ति॒ग्मानि॒ संति॒ धूर्व॑णे ।  
+> रक्षा॑ समस्य नो नि॒दः ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । भीमानि । आयुधा । तिग्मानि । संति । धूर्वणे ।  
+> रक्ष । समस्य । नः । निदः ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव या यानि भीमानि शत्रूणां भयंकराणि तिग्मानि तीक्ष्णानि आयुधा आयुधानि धूर्वणे शत्रुवधार्थं संति तैरायुधैः समस्य सर्वस्य शत्रोः निदः निंदायाः नः अस्मान् रक्ष पालय ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, whatever fearful and sharp weapons of yours there are for the slaying of enemies, with those weapons protect us from the reproach of every enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- या (*yā*)—which
+- भीमानि (*bhīmāni*)—fearful
+- तिग्मानि (*tigmāni*)—and sharp
+- आयुधा (*āyudhā*)—weapons
+- धूर्वणे (*dhūrvaṇe*)—for the destruction of enemies
+- संति (*saṃti*)—there are, with them
+- समस्य (*samasya*)—of every enemy
+- निदः (*nidaḥ*)—from the words of reproach
+- नः (*naḥ*)—us
+- रक्ष (*rakṣa*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, with those weapons of yours that are fearful, destroy the enemies and protect us from all their words of reproach.
+
+### Printed p. 203
+
+##### English translation
+With your weapons which are formidable and sharp-for slaying (the foe), defend us from rhe scorn (of our enemies) **NOTE**
+
+## Sūkta 62 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एते असृग्रम्' इति त्रिंशदृचं द्वितीयं सूक्तं भार्गवस्य जमदग्नेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतम्-- एते असृग्रं जमदग्निः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, एते असृग्रम् (*ete asṛgram*), of thirty ṛks, has as seer Jamadagni of the Bhārgava line, is in the Gāyatra metre, and has Pavamāna Soma as deity. So the Anukramaṇī says: एते असृग्रं जमदग्निः (*ete asṛgraṃ jamadagniḥ*). The ritual application has been stated already.
+
+The sūkta एते असृग्रं (*ete asṛgraṃ*) is the second sūkta in the third anuvāka. It has thirty ṛks. The seer of this sūkta is Jamadagni, the son of Bhṛgu; the deity is Pavamāna Soma; the metre is Gāyatrī. The Anukramaṇī says एते असृग्रं जमदग्निः (*ete asṛgraṃ jamadagniḥ*); the application has been stated before. **NOTE**
+
+Sūkta 62. Maṇḍala 9; Anuvāka 3; Sūkta 62. Aṣṭaka 7; Adhyāya 1; Vargas 24, 25, 26, 27, 28, 29. Number of ṛks in the sūkta: 30. Seer: Jamadagni. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते अ॑सृग्र॒मिंद॑वस्ति॒रः प॒वित्र॑मा॒शवः॑ ।  
+> विश्वा॑न्य॒भि सौभ॑गा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । असृग्रम् । इंदवः । तिरः । पवित्रम् । आशवः ।  
+> विश्वानि । अभि । सौभगा ॥ १ ॥
+
+### Printed p. 204
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशवः शीघ्राः एते पवमानाः इंदवः सोमाः विश्वानि सर्वाणि सौभगा सौभगानि धनान्यभिलक्ष्य पवित्रं तिरः असृग्रम् ऋत्विग्भिः सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+These swift Soma juices, as they flow, have been released across the filter by the priests, aiming at all good fortunes, that is, riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—swift-moving
+- एते इंदवः (*ete iṃdavaḥ*)—these Soma juices
+- विश्वानि (*viśvāni*)—all
+- सौभगा अभि (*saubhagā abhi*)—to procure blessings
+- पवित्रं तिरः (*pavitraṃ tiraḥ*)—toward the ten-fold filter
+- अस्यग्रं (*asyagraṃ*)—have been made to turn **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+These swift-moving Soma juices have been made to flow by the priests toward the ten-fold filter, to procure all prosperity.
+
+##### English translation
+These rapid Soma juices have been directed through the filter (to obtain) all good things—
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒घ्नंतो॑ दुरि॒ता पु॒रु सु॒गा तो॒काय॑ वा॒जिनः॑ ।  
+> तना॑ कृ॒ण्वंतो॒ अर्व॑ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विऽघ्नंतः । दुःऽइता । पुरु । सुऽगा । तोकाय । वाजिनः ।  
+> तना । कृण्वंतः । अर्वते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजिनः बलवंतः सोमाः पुरु बहूनि दुरिता दुरितानि विघ्नंतः विशेषेण नाशयंतः तोकाय अस्माकं पुत्राय अर्वते अश्वाय च सुगा सुखानि तना धनानि च कृण्वंतः कुर्वंतः तिरः पवित्रं सृज्यंत इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The strong Soma juices, destroying many evils in particular, and producing comforts and riches for our son and our horse, are released across the filter; this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनः (*vājinaḥ*)—the powerful Soma juices
+- पुरु (*puru*)—many
+- दुरिता (*duritā*)—sins
+- विघ्नंतः (*vighnaṃtaḥ*)—destroying
+- तोकाय (*tokāya*)—for our sons and the like
+- अर्वते (*arvate*)—for horses
+- सुगा (*sugā*)—comforts
+- तना (*tanā*)—riches
+- कृण्वंतः (*kṛṇvaṃtaḥ*)—producing (they go and join toward the ten-fold filter)
+
+### Printed p. 205
+
+##### भावार्थ (Bhāvārtha)
+
+The powerful Soma juices, destroying many kinds of sins and producing comforts and riches for our sons and the like and for our horses, go and join the ten-fold filter.
+
+##### English translation
+Powerful, repelling many evils, bestowing happiness and riches upon our sons and horses.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ण्वंतो॒ वरि॑वो॒ गवे॒ऽभ्य॑र्षंति सुष्टु॒तिम् ।  
+> इळा॑म॒स्मभ्यं॑ सं॒यत॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृण्वंतः । वरिवः । गवे । अभि । अर्षंति । सुऽस्तुतिम् ।  
+> इळाम् । अस्मभ्यम् । सम्ऽयतम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्माकं गवे अस्मभ्यं च संयतं यदस्मान् संयच्छति तत् वरिवः धनम् इळाम् अन्नं च कृण्वंतः कुर्वंतः सोमाः सुष्टुतिम् अस्मदीयां शोभनां स्तुतिम् अभ्यर्षंति आभिमुख्येन गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices, making wealth, that which holds for our cow and for us, and food, go in our direction toward our excellent praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गवे (*gave*)—for our cows
+- अस्मभ्यं (*asmabhyaṃ*)—and for us
+- संयतं (*saṃyataṃ*)—that which joins with us
+- वरिवः (*varivaḥ*)—wealth
+- इळां (*iḷāṃ*)—and food
+- कृण्वंतः (*kṛṇvaṃtaḥ*)—the Soma juices that are to produce
+- सुष्टुतिं (*suṣṭutiṃ*)—our most excellent praise
+- अभ्यर्षंति (*abhyarṣaṃti*)—come to meet
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices that produce wealth and food, fit to join with us, for our cows and for us as well, come to meet our most excellent praise.
+
+##### English translation
+They advance towards our fair praise, granting to (us and) our cattle- sustainiug wealth and food. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 199. Mandala 9 sukta 61 rks 20-27 (pp. 194-199)
+**Progress note:** Done through printed p. 205. Mandala 9 sukta 61 rks 27-30, sukta 62 rks 1-3 (pp. 200-205)
