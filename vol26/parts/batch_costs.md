@@ -18,3 +18,5 @@
 | through p. 296 (three windows in one agent: pp. 278-284, 285-290, 291-296; stopped once on a figure line through a wrong dispatcher instruction and resumed: notices 111135 + 161921) | sonnet | 21 | 273056 | 7.4 |
 | through p. 314 (three windows in one agent: pp. 297-302, 303-308, 309-314) | sonnet | 8 | 140790 | 2.6 |
 | through p. 332 (three windows in one agent: pp. 315-320, 321-326, 327-332) | sonnet | 14 | 144227 | 2.7 |
+| through p. 350 (three windows in one agent: pp. 333-338, 339-344, 345-350) | sonnet | 17 | 139615 | 2.6 |
+| through p. 369 (three windows in one agent: pp. 352-357, 358-363, 364-369) | sonnet | 15 | 151416 | 3.8 |
