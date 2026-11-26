@@ -12079,6 +12079,154 @@ You are truthful, Maghavan; unhumbled yourself, you humble many enemies; most mi
 > त्वमिं॑द्र य॒शा अ॑स्यृजी॒षी श॑वसस्पते ।  
 > त्वं वृ॒त्राणि॑ हंस्यप्र॒तीन्येक॒ इदनु॑त्ता चर्षणी॒धृता॑ ॥ ५ ॥
 
+### Printed p. 308
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । इंद्र । यशाः । असि । ऋजीषी । शवसः । पते ।  
+> त्वम् । वृत्राणि । हंसि । अप्रतीनि । एकः । इत् । अनुत्ता । चर्षणिऽधृता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसस्पते बलस्य पालयितर्हे इंद्र ऋजीषी । ऋजीषोऽपार्जितोऽभिषुतः सोमः । तद्वान् त्वं यशाः यशस्वी असिः । कथमस्य यशस्वित्वं तदाह । अप्रतीनि बलिभिरप्यप्रतिगतानि अत एव अनुत्तानि अन्यैर्नोत्तुमशक्यानि वृत्राणि रक्षांसि त्वम् एक इत् असहाय एव चर्षणीधृता असुरादिहननद्वारेण मनुष्याणां धारकेण वज्रेण हंसि संप्रहरसि । अत एवास्य यशस्वित्वम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lord of strength, protector of strength; ऋजीषी (*ṛjīṣī*) means one who possesses the ṛjīṣa, that is, the Soma that has been obtained and pressed. Possessing it, you are यशाः (*yaśāḥ*), glorious. How is he glorious? Sāyaṇa answers: you, alone and unaided (एक इत् (*eka it*)), smite the Vṛtras, that is, the demons, who are अप्रतीनि (*apratīni*), not faced even by the mighty, and therefore अनुत्तानि (*anuttāni*), such as others cannot drive away. You smite them with the thunderbolt, which is चर्षणीधृता (*carṣaṇīdhṛtā*), the sustainer of men through the slaying of asuras and the like. Hence his glory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसस्पते (*śavasaspate*)—protector of strength
+- इंद्र (*iṃdra*)—O Indra
+- ऋजीषी (*ṛjīṣī*)—one who desires the Soma drawn again from the plants that were pressed once, called ṛjīṣa
+- त्वं (*tvaṃ*)—you
+- यशाः असि (*yaśāḥ asi*)—you are renowned
+- अप्रतीनि (*apratīni*)—those of unopposed strength
+- अनुत्ता (*anuttā*)—and therefore those who cannot be defeated by others
+- वृत्राणि (*vṛtrāṇi*)—the demons who are enemies
+- त्वं एक इत् (*tvaṃ eka it*)—you alone, without anyone's help
+- चर्षणीधृता (*carṣaṇīdhṛtā*)—with the thunderbolt that sustains and protects men through the slaying of asuras and the like
+- हंसि (*haṃsi*)—you destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of strength and power, you who delight in the Soma juice drawn again from Soma plants pressed once, called ṛjīṣa, are renowned. For you alone, without anyone's help, destroy the demons who are enemies, whose strength is unopposed and whom others cannot subdue, with your thunderbolt that protects men through the slaying of enemies. This is the cause of your fame.
+
+##### English translation
+You, Indra, lord of strength, are the glorious possessor of the offered
+
+### Printed p. 309
+
+Soma; alone with (your thunderbolt), that protector of men, you smite the enemies that none else could oppose or drive away.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा नू॒नम॑सुर॒ प्रचे॑तसं॒ राधो॑ भा॒गमि॑वेमहे ।  
+> म॒हीव॒ कृत्तिः॑ शर॒णा त॑ इंद्र॒ प्र ते॑ सु॒म्ना नो॑ अश्नवन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ऊं इति । त्वा । नूनम् । असुर । प्रऽचेतसम् । राधः । भागम्ऽइव । ईमहे ।  
+> महीऽइव । कृत्तिः । शरणा । ते । इंद्र । प्र । ते । सुम्ना । नः । अश्नवन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुर बलवन् प्राणवन् हे इंद्र य उक्तगुणोऽस्ति तं प्रचेतसं प्रकृष्टज्ञानं त्वा । उ इत्यवधारणे । पितृवत्पोषकं त्वामेव राधः धर्मादिसाधनं धनं नूनम् इदानीम् ईमहे वयं याचामहे । तत्र दृष्टांतः । भागमिव । यथा कश्चित्पितृभागभूतं धनं याचते तद्वदिंद्रो यजमानेभ्यः स्तोतृभ्यश्च धनं प्रयच्छत्येव । तस्माद्भागभूतं धनं यष्टारो वयं याचामहे । हे इंद्र महीव कृत्तिः । कृत्तिर्यशो वान्नं वा । ‘कृती छेदने । करणे क्तिन् । कृंतत्यनेनेति । ईदृशी कृत्तिरिव ते तव शरणा शरणं गृहमंतरिक्षे द्युलोके महद्वर्तते । अत्र यास्कः---‘कृत्तिः कृंततेर्यशो वान्नं वा महीव कृत्तिः शरणा त इंद्र सुमहत्त इंद्र शरणमंतरिक्षे कृत्तिरिव' (निरु. ५, २२ ) इति । किंच ते तव स्वभूतानि सुम्ना सुम्नानि पुत्रादिविषयसुखानि च नः अस्मान् प्र अश्नवन् । प्रकर्षेणाश्नुवतां व्याप्नुवंतु । अश्नोतेर्लेट्यडागमः ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+O asura, one who has strength and vitality, O Indra, you who have the stated qualities, you who are प्रचेतसं (*pracetasaṃ*), of excellent knowledge and a nourisher like a father: of you alone we ask, now, for राधः (*rādhaḥ*), wealth that is the means to dharma and the like. The particle उ (*u*) is used for emphasis. An illustration is given: भागमिव (*bhāgamiva*), as someone asks for the wealth that is his share from his father, so Indra gives wealth to sacrificers and to praisers; therefore we, the sacrificers, ask for wealth as our share. O Indra, महीव कृत्तिः (*mahīva kṛttiḥ*): kṛtti is fame or food. Like such a kṛtti, your शरणा (*śaraṇā*), your abode, your house, is great in the sky, in the heavenly world. On this Yāska says: कृंततेर्यशो वान्नं वा महीव कृत्तिः शरणा त इंद्र सुमहत्त इंद्र शरणमंतरिक्षे कृत्तिरिव (*kṛṃtateryaśo vānnaṃ vā mahīva kṛttiḥ śaraṇā ta iṃdra sumahatta iṃdra śaraṇamaṃtarikṣe kṛttiriva*) (Ni. 5, 22). Moreover, may your own joys, सुम्ना (*sumnā*), the pleasures connected with sons and the like, pervade us abundantly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुर (*asura*)—O mighty Indra
+- भागमिव (*bhāgamiva*)—as a son asks his father for his share of the property
+- तं (*taṃ*)—such a renowned one, and
+- प्रचेतसं (*pracetasaṃ*)—the most excellent, the wise
+- त्वा उ (*tvā u*)—you alone
+- राधः (*rādhaḥ*)—for wealth
+- नूनं (*nūnaṃ*)—now
+- ईमहे (*īmahe*)—we ask
+- इंद्र (*iṃdra*)—O Indra
+- महीव कृत्तिः (*mahīva kṛttiḥ*)—great like fame or like food
+- ते (*te*)—your
+
+### Printed p. 310
+
+- शरणा (*śaraṇā*)—the abode is in the heavenly world
+- ते (*te*)—connected with you
+- सुम्ना (*sumnā*)—pleasures concerning sons and the like
+- नः (*naḥ*)—us
+- प्र आश्नवत् (*pra āśnavat*)—may they come and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, you who are the most excellent and wise, of you alone we now ask for wealth, as a son asks his father for the wealth that is his share. O Indra, your abode, great like fame, is in the heavenly world. May the pleasures connected with sons and the like that belong to you come and reach us.
+
+##### English translation
+Living one, who possess supreme knowledge, we verily ask you for wealth as though it were an inheritance ; your abode (in heaven), Indra, is vast like your glory ; may your blessings fill us.
+
+## Sūkta 91 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ कन्या वाः' इति सप्तर्चमेकादशं सूक्तम् । अत्रेः पुत्र्यपालाख्या त्वग्दोषपरिहारायानेन सूक्तेनेंद्रं स्तुतवती । अतः सैवर्षिः । प्रथमाद्वितीये पंक्ती शिष्टाः पंचानुष्टुभः । इंद्रो देवता । तथा चानुक्रांतं- कन्या वाः सप्तात्रेय्यपालेतिहास ऐंद्र आनुष्टुभं द्विपंक्त्यादि ' इति । विनियोगो लैंगिकः । अत्रेतिहासमाचक्षते । पुरा किलात्रिसुतापाला ब्रह्मवादिनी केनचित्कारणेन त्वग्दोषदुष्टा सत्यत एव दुर्भगेति भर्त्रा परित्यक्ता पितुराश्रमे त्वग्दोषपरिहाराय चिरकालमिंद्रमधिकृत्य तपस्तेपे । सा कदाचिदिंद्रस्य सोमः प्रियकरो भवति तमिंद्राय दास्यामीति बुद्ध्या नदीतीरं प्रत्यागमत् । सा तत्र स्नात्वा पथि सोममप्यलभत । तमादाय गृहं प्रत्यागच्छंती मार्ग एव तं चखाद । तद्भक्षणकाले दंतघर्षणजातं शब्दं ग्राव्णां सोमाभिषवध्वनिमिति मत्वा तदानीमेवेंद्रः समागमत् । आगत्य तमुवाच । किमत्र ग्रावाणोऽभिषुण्वंतीति । सा प्रत्यूचे । अत्र कन्या स्नानार्थमागत्य सोमं दृष्ट्वा तं भक्षयति तद्भक्षणजो ध्वनिरेव न तु ग्राव्णां सोमाभिषवध्वनिरिति । तथा प्रत्युक्त इंद्रः पराङावर्तत । गच्छंतमिंद्रं सा पुनरब्रवीत् । किमर्थं निवर्तसे त्वं तु सोमपानाय गृहं गृहं प्रति गच्छसि । इदानीमत्रापि मम दंष्ट्राभ्यामभिषुतं सोमं पिब धानादींश्च भक्षयेति । सैवेंद्रमनाद्रियमाणा सती पुनरप्याह । अत्रागतं त्वामिंद्र इति न जानामि त्वयि गृहमागते बहुमानं करिष्यामीतींद्रमुक्त्वात्र समागत इंद्र एव नान्य इति निश्चित्य स्वास्ये निहितं सोममाह । हे सोम त्वमागतायेंद्राय पूर्वं शनैस्ततः शनकैः क्षिप्रं परिस्रवेति । तत इंद्रस्तां कामयित्वा तस्या आस्य एव दंष्ट्राभिषुतं सोममपात् । तत इंद्रेण सोमे पीते सति त्वग्दोषादहं भर्त्रा परित्यक्ता सतीदानीमिंद्रेण संगतेत्यपालायामुक्तायामिंद्रस्तां व्याजहार । किं कामयसे तदहं करिष्यामीत्युक्ते सा वरमचीकमत । मम पितुः शिरो रोमवर्जितं तस्योषरं क्षेत्रं फलादिरहितं मम गुह्यस्थानमप्यरोमशमेतानि रोमफलादियुक्तं कुर्वित्युक्तायां तत्पितृशिरःस्थितं खलतिमपहाय क्षेत्रं च फलादियुक्तं कृत्वैतस्यास्त्वग्दोषपरिहाराय स्वकीयरथच्छिद्रे शकटस्य युगस्य च छिद्र एतां त्रिवारं निश्चकर्ष । तस्याः पूर्वापहता या त्वक् शल्यको द्वितीया गोधा तृतीया कृकलासोऽभूत् । तत इंद्रस्तामप्यपालां सूर्यसदृशत्वचमकरोदित्यैतिहासिकी कथा । एतच्च शाट्यायनब्राह्मणे स्पष्टमुक्तम् । तद्ब्राह्मणं तत्तदृग्व्याख्यानसमये दर्शयिष्यते । एषोऽर्थः ‘कन्या वाः' इत्यादिष्वृक्षु प्रतिपाद्यते ॥
+
+##### Gist of the bhāṣya
+
+The eleventh sūkta, of seven Ṛks, beginning कन्या वाः (*kanyā vāḥ*). Apālā, the daughter of Atri, praised Indra with this sūkta for the removal of her skin disease; therefore she is the seer. The first two Ṛks are in the Paṅkti metre, and the remaining five are Anuṣṭubh. Indra is the deity. The Anukramaṇikā says accordingly: कन्या वाः सप्तात्रेय्यपालेतिहास ऐंद्र आनुष्टुभं द्विपंक्त्यादि (*kanyā vāḥ saptātreyyapāletihāsa aiṃdra ānuṣṭubhaṃ dvipaṃktyādi*). The application is by indication (laiṅgika). A story is told about it. Long ago Apālā, the daughter of Atri and a knower of Brahman, was afflicted for some reason with a skin disease and, as truly unfortunate, was abandoned by her husband. In her father's hermitage she practised austerity for a long time, directed at Indra, for the cure of the skin disease. Once, thinking that Soma is dear to Indra and that she would give it to him, she went to the riverbank. After bathing there she found Soma on the way. Carrying it home, she chewed it on the road itself. While she ate it, Indra took the sound produced by the grinding of her teeth for the sound of the pressing stones at a Soma pressing, and came to her at that moment. Coming, he asked: do pressing stones press Soma here? She replied: a maiden has come here to bathe, and seeing Soma she eats it; this sound is only the sound of that eating, not of stones pressing Soma. So answered, Indra turned away. As he went, she spoke again: why do you turn back? You go from house to house for the drinking of Soma; here too, now, drink the Soma pressed by my jaws and eat the grain and the rest. Though she had not yet shown him deference, she spoke again: I do not know that you who have come here are Indra; if you come to my house I shall do you honour. Having thus addressed him, and having concluded that the one who had come was Indra himself and no other, she spoke to the Soma placed in her mouth: O Soma, flow around for the Indra who has come, first gently, then quickly. Then Indra, desiring her, drank the Soma pressed by her teeth in her very mouth. When Indra had drunk the Soma, Apālā said that she, abandoned by her husband because of the skin disease, was now united with Indra. Indra said to her: what do you desire? I shall do it. She chose a boon: my father's head is without hair, his field is barren and without fruit, and my private part is without hair; make these furnished with hair and fruit. Having freed her father's head of its baldness and made the field fruitful, Indra, for the removal of this woman's skin disease, drew her three times through the hole of his chariot, the hole of the cart and the hole of the yoke. The skin shed the first time became a porcupine, the second a monitor lizard, the third a chameleon. Then Indra made Apālā's skin like that of the sun. This is the story. It is stated clearly in the Śāṭyāyana-brāhmaṇa; that Brāhmaṇa will be shown at the explanation of the respective Ṛks. This is the meaning set forth in the Ṛks beginning कन्या वाः (*kanyā vāḥ*).
+
+### Printed p. 311
+
+The Anuvāda: this sūkta, कन्या वाः (*kanyā vāḥ*), is the eleventh sūkta in the ninth anuvāka. It has seven Ṛks. The woman named Apālā, the daughter of the seer Atri, praised Indra with this sūkta for the cure of her skin disease. Therefore the seer of this sūkta is the woman Apālā, the daughter of Atri; Indra is the deity; the first two Ṛks of this sūkta are in the Paṅkti metre, the remaining five Ṛks in the Anuṣṭubh metre. In the Anukramaṇikā it is said: कन्या वाः सप्तात्रेय्यपालेतिहास ऐंद्र आनुष्टुभं द्विपंक्त्यादि (*kanyā vāḥ saptātreyyapāletihāsa aiṃdra ānuṣṭubhaṃ dvipaṃktyādi*). The application of the sūkta is laiṅgika.
+
+There is an old story about this sūkta. Long ago a woman named Apālā, the daughter of the seer Atri and a knower of Brahman, was for some other reason attacked by a skin disease (leprosy) and suffered from it. For this reason her husband abandoned her. So this Apālā came to the hermitage of her father, the seer Atri, and practised austerity directed at Indra for the cure of the skin disease that had befallen her. Once that woman thought thus: the Soma juice is very dear to Indra; therefore I shall bring it and offer it to Indra. Thinking so, she went to the bank of the river that was there, bathed, and as she returned she saw Soma plants growing along the way, plucked them, and, as she was coming home with them, she walked along chewing the plant with her teeth (as one splits sugar cane). Then the sound of the chewing with the teeth reached Indra, and thinking: someone here, in a sacrifice, in my honour, is ritually pounding Soma with stones and extracting the juice,
+
+### Printed p. 312
+
+he took it to be the sound of those stones, and himself came to that woman and said: what is this? Here the sounds of Soma plants being pounded are heard. Then the woman said: O Indra, this is not the sound of Soma plants being pounded with stones. A maiden went to the river to bathe, and as she comes back she is chewing and eating a Soma plant that she found on the way; the sound that comes from it is this one. It is not the sound of pounding with stones. Hearing this, Indra began to turn back and go. The woman called him and said again: O man, why do you go back? Do you not go from house to house for the drinking of Soma? Now Soma juice is oozing from the plants that I have torn and am chewing with my teeth. Therefore drink this very Soma juice now, and eat the grains and the like that I give. Having said so, and having doubted whether this man was Indra or not, she said to him again: O man, I do not know that you who have come here are Indra. Still, if you come to our house I shall give you a reward. Having said this, and having decided in her mind that this man who had come here was Indra and no other, she spoke to the Soma juice that was in her mouth: O Soma juice, for Indra flow and drip, first a little at a time and afterwards abundantly. Then Indra cherished her and drank the Soma juice that she had chewed with her teeth and filled her mouth with. After Indra had drunk the Soma, the woman said to Indra: my husband has abandoned me, afflicted as I am with a skin disease; now I have met Indra. Then Indra said to her: O woman, what is your wish? Say it; I shall fulfil it. The woman said: then you must give me a boon. All the hair on my father's head has fallen out and his head is bald; the field that he cultivates has become barren land and nothing grows in it now; and my private part (the place of urination) is without hair, that is, hair does not grow in that part. Therefore now grant that hair grow on my father's head, that plants and the like grow in his field and become fruitful, and that hair grow in my private region. Hearing this, Indra said: let it be so. He made her father's head free of the disease **NOTE** and his field fruitful, and then, for the cure of that woman's skin disease, he made her pass three times through the hole of his chariot, the hole of the cart, and the hole of the yoke, these three holes. By this the skin of that woman became free of disease and bright like the radiance of the sun. This old story the commentator tells here, and he says that this account is clearly described in the Śāṭyāyana-brāhmaṇa, and that this matter will be described at the proper place in the respective Ṛks.
+
+### Printed p. 313
+
+Sūkta 91.
+Maṇḍala 8; Anuvāka 9; Sūkta 91.
+Aṣṭaka 6; Adhyāya 6; Varga 14.
+Number of Ṛks in the sūkta: 7.
+Ṛṣi: Apālātreyī.
+Devatā: Indra.
+Chandas: 1–2 पंक्तिः (*paṃktiḥ*). 3–7 अनुष्टुप् (*anuṣṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒न्या॒३॒॑ वार॑वाय॒ती सोम॒मपि॑ स्रु॒तावि॑दत् ।  
+> अस्तं॒ भरं॑त्यब्रवी॒दिंद्रा॑य सुनवै त्वा श॒क्राय॑ सुनवै त्वा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कन्या । वाः । अवऽयती । सोमम् । अपि । स्रुता । अविदत् ।  
+> अस्तम् । भरंती । अब्रवीत् । इंद्राय । सुनवै । त्वा । शक्राय । सुनवै । त्वा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाः उदकं प्रति अवायती स्नानार्थमभ्यवगच्छंती कन्या अपाला नाम स्त्री स्रुता स्रुतौ मार्गे सोममपि अविदत् अलभत ।  ‘ विद्लृ लाभे' । लतारूपं तं सोमम् अस्तं गृहं प्रति भरंती आहरंती सा सोमम् अब्रवीत् । हे सोम त्वा त्वाम् इंद्राय सुनवै मम दंतैरेवाभिषुणवै । पुनर्हे सोम त्वा त्वां शक्राय समर्थायेंद्राय सुनवै इदानीमेवाभिषवं करवै । सोमभक्षणकाले दंतध्वनिं ग्रावध्वनिमिति मत्वेंद्रस्तामगमत् । एषोऽर्थः शाट्यायनब्राह्मणे स्पष्टमभिहितः ‘ सा तीर्थमभ्यवयंती सोमांशुमविंदत्तं समखादत्तस्यै ह  ग्रावाण इव दंता ऊदुः। स इंद्र आद्रवत् ग्रावाणो वै वदंतीति । सा तमभिव्याजहार कन्या वारवायती सोममपि स्रुताविददित्यस्यै त इदं ग्रावाण इव दंता वदंतीति विदित्वेंद्रः पराङावर्तत । तमब्रवीदसौ य एषि वीरक इत्यादिना' इति ॥
+
+##### Gist of the bhāṣya
+
+वाः (*vāḥ*) is water; going down towards the water for bathing, the maiden, the woman named Apālā, on the way (स्रुता (*srutā*)) found Soma as well. Carrying that Soma, in the form of a plant, home (अस्तं (*astaṃ*)), she addressed the Soma: O Soma, I shall press you for Indra, with my own teeth; and again, O Soma, I shall press you for Śakra, the capable Indra, right now. At the time of eating the Soma, Indra, taking the sound of the teeth for the sound of pressing stones, came to her. This meaning is stated clearly in the Śāṭyāyana-brāhmaṇa: सा तीर्थमभ्यवयंती सोमांशुमविंदत्तं समखादत्तस्यै ह ग्रावाण इव दंता ऊदुः। स इंद्र आद्रवत् ग्रावाणो वै वदंतीति । सा तमभिव्याजहार कन्या वारवायती सोममपि स्रुताविददित्यस्यै त इदं ग्रावाण इव दंता वदंतीति विदित्वेंद्रः पराङावर्तत । तमब्रवीदसौ य एषि वीरक इत्यादिना (*sā tīrthamabhyavayaṃtī somāṃśumaviṃdattaṃ samakhādattasyai ha grāvāṇa iva daṃtā ūduḥ| sa iṃdra ādravat grāvāṇo vai vadaṃtīti | sā tamabhivyājahāra kanyā vāravāyatī somamapi srutāvidadityasyai ta idaṃ grāvāṇa iva daṃtā vadaṃtīti viditveṃdraḥ parāṅāvartata | tamabravīdasau ya eṣi vīraka ityādinā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाः (*vāḥ*)—to the water of the river
+- अवायती (*avāyatī*)—going for bathing
+- कन्या (*kanyā*)—the woman named Apālā
+- स्रुता (*srutā*)—in the middle of the way
+- सोमं अपि (*somaṃ api*)—the Soma plant
+- अविदत् (*avidat*)—she saw
+
 ---
 
-**Progress note:** Done through printed p. 307. Sukta 90 Rks 1-5 (Saṃhitā of 5)
+**Progress note:** Done through printed p. 313. Ṛk 5-6 of Sūkta 90 end; Sūkta 91 introduction, Ṛk 1
