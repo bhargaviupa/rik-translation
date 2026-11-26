@@ -111,3 +111,4 @@
 | w0658 pp. 658-663 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 21576 + cache write 0 + cache read 6181, out 6702 | $0.056 |
 | w0664 pp. 664-669 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 19992 + cache write 0 + cache read 6181, out 10259 | $0.072 |
 | w0670 pp. 670-674 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17658 + cache write 0 + cache read 6181, out 6738 | $0.052 |
+| w0200 (pp. 200-205, direct request) | claude-sonnet-5-5 | in 16276, out 5414 | $0.087 |

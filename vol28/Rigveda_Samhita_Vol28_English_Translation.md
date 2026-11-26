@@ -6146,6 +6146,248 @@ In these and other Ṛks it is also described that Indra defeated Kutsa and othe
 The word dasyu is in many contexts used together with the word अव्रतं (*avrataṃ*). For अव्रतं (*avrataṃ*) the glosses अकर्माणं (*akarmāṇaṃ*) and अननुष्ठायिनं (*ananuṣṭhāyinaṃ*) are given: let Indra destroy the one who does not perform sacrificial rites and destroys everything. There is also a description that Indra should destroy even him who, though fit to perform sacrifice, remains indifferent and does not sacrifice.
 Whatever meaning the word deva shows, expansive, illuminating and giving (Ni. 7-15), the word dasyu indicates the opposite of all that: a meaning of decay, darkness and violence. Vṛtra, Śambara and all such asuras belong to this group of dasyus. Since their deeds are to hold back the water so that it does not flow or fall, and to cover the light, Indra is prayed to destroy them and make the water flow and the light spread, and is called by the epithet दस्युहा (*dasyuhā*).
 
+### Printed p. 200
+The word दस्यु (*dasyu*) is used in many places as a synonym of rākṣasas and the like, but in some places the word is also used of human beings who are without rites. For example—
+
+त्वं ह नु त्यददमायो दस्यू रेकः कृष्टीरवनोरार्याय । (*tvaṃ ha nu tyadadamāyo dasyū rekaḥ kṛṣṭīravanorāryāya |*) (Ṛ. Saṃ. 6-18-3)
+
+In Ṛks of this kind दस्यून् (*dasyūn*) is explained as कर्महीनान् जनान् (*karmahīnān janān*), "people devoid of rites". In this very sense the word दस्यु (*dasyu*) is customarily said to mean the earlier inhabitants of this country who did not perform sacrifices and the like.
+
+कुवित्सस्य प्र हि व्रजं गोमंतं दस्युहा गमत् ॥ (*kuvitsasya pra hi vrajaṃ gomaṃtaṃ dasyuhā gamat ‖*) (Ṛ. Saṃ. 6-45-24)
+
+In many such Ṛks it is told that Indra slays the Dasyus and protects the world. Some hold that the two words Ārya and Dasyu are conventional terms denoting two different groups of people. Historians have discussed the difference between the two groups: Āryas are cultured people who perform sacrifices and the like and worship the gods; Dasyus are uncultured, do not perform sacrifices but obstruct them, have no devotion to the gods, are hostile to the Āryas, and are the dark-skinned earlier inhabitants of this country.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं पि॒तेव॑ वेत॒सूर॒भिष्ट॑ये॒ तुग्रं॒ कुत्सा॑य॒ स्मदि॑भं च  
+> रंधयं ।  
+> अ॒हं भु॑वं॒ यज॑मानस्य रा॒जनि॒ प्र यद्भरे॒ तुज॑ये॒ न प्रि॒याधृषे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । पिताइव । वेतसून् । अभिष्टये । तुग्रं । कुत्साय । स्मत् इभं । च ।  
+> रंधयं ।  
+> अहं । भुवं । यजमानस्य । राजनि । प्र । यत् । भरे । तुजये । न । प्रिया ।  
+> आधृषे ॥ ४ ॥
+
+### Printed p. 201
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रः पितेव पिता पुत्रायेव स यथा तस्मै निर्वाहार्थमभिमतं
+> प्रदेशं प्रसाढयति तद्वद्वेतसूनेतन्नामकाञ्जनपदानभिष्टयेऽभीच्छते कुत्साय
+> महर्षये तुग्रं स्मदिभं च रंधयं। वशमनयं । अहं यजमानस्य राजनि राजनार्थं भुवं । अभवं । समर्थ इति शेषः । यद्यस्मात्तुजये न पुत्रायेव पिता
+> तस्मै यजमानायादृषे शत्रुणां धर्षणाय प्रिया प्रियाणि प्र भरे प्रभरामि
+> तस्माद्यजमानस्य राजनि भुवमिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Indra says: like a father who sets up for his son the place he wants so that he can manage, so I desired (for Kutsa) the Vetasu peoples, so named; for the great seer Kutsa I brought Tugra and Smadibha under control (रंधयं (*raṃdhayaṃ*) from the root रध्यति (*radhyati*) meaning to bring under control). I have become capable, in the matter of governing, for the sacrificer, because, as a father to a son, I bring pleasing things to that sacrificer for the assailing of his enemies; therefore I have become the ruler of the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- पितेव (*piteva*)—as a father desires his son's welfare
+- वेतसून् (*vetasūn*)—the people of the nation called Vetasu
+- अभिष्टये (*abhiṣṭaye*)—who desires
+- कुत्साय (*kutsāya*)—to the sage Kutsa
+- तुग्रं (*tugraṃ*)—Tugra
+- स्मदिभं च (*smadibhaṃ ca*)—and Smadibha
+- रंधयं (*raṃdhayaṃ*)—I subdued
+- अहं (*ahaṃ*)—I
+- यजमानस्य (*yajamānasya*)—of the sacrificer who performs the sacrifice
+- राजनि (*rājani*)—as a lord who desires his welfare
+- भुवं (*bhuvaṃ*)—I have become
+- यत् (*yat*)—because
+- तुजये न (*tujaye na*)—as a father acts toward a son
+- आधृषे (*ādhṛṣe*)—for the subduing of enemies
+- प्रिया (*priyā*)—pleasing things
+- प्र भरे (*pra bhare*)—I provide
+
+##### भावार्थ (Bhāvārtha)
+
+As a father desires his son's welfare, in order to fulfil the wish of the sage Kutsa I subdued to Kutsa the people called Vetasu, Tugra and Smadibha. I am always the well-wisher and lord of the sacrificer who performs sacrifice, because, as a father behaves lovingly toward his son, I provide him pleasing things for the subduing of enemies.
+
+##### English translation
+Like a father (for a son), I brought under subjection to Kutsa, at his desire, the Vetasus and Tugra and Smadibha : I have been in place of a sovereign to the worshipper when I bring (to him) as to a son acceptable (gifts) for assailing (his enemies)
+
+##### विशेषविषयगळु (Special Topics)
+
+वेतसून् (*vetasūn*)—The word वेतसु (*vetasu*) is used in the singular in some places. For example—
+स वेतसुं दशमायं दशोणिं तूतुजिमिंद्रः स्वभिष्टिसुम्नः । (*sa vetasuṃ daśamāyaṃ daśoṇiṃ tūtujimiṃdraḥ svabhiṣṭisumnaḥ |*) (Ṛ. Saṃ. 6-20-8)
+
+### Printed p. 202
+For the word वेतसुं (*vetasuṃ*) in this Ṛk Sāyaṇa explains वेतसुं वेतसुनामानमसुरं (*vetasuṃ vetasunāmānamasuraṃ*), the Asura named Vetasu. In the present Ṛk वेतसून् (*vetasūn*) means the followers of the Asura Vetasu, or the people of that name. Indra's defeat of this Vetasu is indicated in Ṛks such as
+धृतस्य धारा अभि चाकशीमि हिरण्ययो वेतसो मध्य आसां । (*dhṛtasya dhārā abhi cākaśīmi hiraṇyayo vetaso madhya āsāṃ |*) (Ṛ. Saṃ. 4-85-5)
+त्वं तुग्रं वेतसवे सचाहन् त्वं तुजिं गृणंतमिंद्र तूतोः । (*tvaṃ tugraṃ vetasave sacāhan tvaṃ tujiṃ gṛṇaṃtamiṃdra tūtoḥ |*) (Ṛ. Saṃ. 6-26-4)
+**NOTE**
+Tugra denotes an Asura of that name. Elsewhere Tugra is said to be a famous king whose son Bhujyu, when sinking in the sea, was saved by the Aśvins. Hence the king Tugra is one person and the Asura Tugra another; there is no room for doubt that they are different persons.
+
+स्मधिभ (*smadhibha*)—In the present Ṛk only his name is mentioned. Since he is named in the group of Asuras, he must be an Asura. Apart from Indra's defeating him, no more facts about him are known.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं रं॑धयं॒ मृग॑यं श्रु॒तर्व॑णे॒ यन्माजि॑हीत व॒युना॑  ॒॒
+> च॒नानु॒षक् ।  
+> अ॒हं वे॒शं न॒म्रमा॒यवे॑करम॒हं सन्या॑य॒ पड्ग॑भिमरंधयं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । रंधयं । मृगयं । श्रुतर्वणे । यत् । मा । अजिहीत । वयुना । चन ।  
+> आनुषक् ।  
+> अहं । वेशं । नम्रं । आयवे । अकरं । अहं । सन्याय । पट्गृभिं । अरंधयं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रो मृगयमेतन्नामकमसुरं त्रुतर्वण एतन्नामकाय महर्षये रंधयं । रध्यतिर्वशगमने । वशमनयं । यद्यस्माच्छुतर्वा मा माम-
+
+##### Gist of the bhāṣya
+
+I, Indra, brought the Asura named Mṛgaya under the control of the great seer named Śrutarvan (रध्यति (*radhyati*), root meaning to come under control), because Śrutarvan approached me.
+
+### Printed p. 203
+
+> जिहीत ॥ ओहाज् गतौ॥ आगच्छत् ।तदेवोच्यते। वयुना प्रज्ञानेन स्तोत्रेणानुषग_
+> नुषक्तोऽभूत् । चनेति पूरणः । अहं वेशमेतन्नामानं नम्रं प्रह्वं करं ।
+> अकार्ष० ॥ करोतेर्लुजति कृमृद्यरुहिभ्यश्चंदसीति चेरज् । अडभावश्छांदसः ॥
+> अहं सव्यायैतन्नामकाय पड्गृभिमेतन्नामकमरंधयं ॥
+
+##### Gist of the bhāṣya
+
+(continuing) He approached with knowledge, with praise, and became devoted (चन (*cana*) is a filler). I made Veśa, so named, humble. The aorist अकार्ष० (*akārṣa0*) is explained through the root करोते (*karote*) with the affix चेरज् (*ceraj*) in the Veda, with Vedic absence of the augment. I brought Paḍgṛbhi, so named, under the control of Savya, so named.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, Indra
+- मृगयं (*mṛgayaṃ*)—the Asura Mṛgaya
+- श्रुतर्वणे (*śrutarvaṇe*)—to the sage Śrutarvan
+- रंधयं (*raṃdhayaṃ*)—I subdued
+- यत् (*yat*)—because that Śrutarvan
+- मा (*mā*)—me
+- अजिहीत (*ajihīta*)—approached, and
+- वयुना (*vayunā*)—with praises and the like
+- आनुषक् चन (*ānuṣak cana*)—having praised, became devoted to my worship
+- अहं (*ahaṃ*)—I
+- वेशं (*veśaṃ*)—Veśa
+- नम्रं (*namraṃ*)—humble
+- करं (*karaṃ*)—I made
+- अहं (*ahaṃ*)—I
+- षड्गृभिं (*ṣaḍgṛbhiṃ*)—Ṣaḍgṛbhi
+- सव्याय (*savyāya*)—of Savya
+- अरंधयं (*araṃdhayaṃ*)—I subdued
+
+##### भावार्थ (Bhāvārtha)
+
+I subdued Mṛgaya to the seer Śrutarvan, who approached me and worshipped with praises and the like; likewise I made Veśa humble, and I subdued Ṣaḍgṛbhi to Savya.
+
+##### English translation
+I have brought Mrigaya under subjection to Shrutarvan ; when he came to me, (he was) earnestly engaged in supplication. I humiliated Vesha for Ayu; I subjugated Padgribhi for Savya.
+
+##### विशेषविषयगळु (Special Topics)
+
+Śrutarvan and Savya are seers; Mṛgaya, Veśa and Ṣaḍgṛbhi are Asuras. Not many facts about them are known.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं स यो नव॑वास्त्वं बृ॒हद्र॑थं॒ सं वृ॒त्रेव॒ दासं॑ वृत्र॒हा  ॑
+> रुजं ।  
+> यद्व॒र्धयं॑तं प्र॒थयं॑तमानु॒षग्दू॒रे पा॒रे रज॑सो रोच॒  ॑
+> नाकरं ॥ ६ ॥
+
+### Printed p. 204
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । सः । यः । नववास्त्वं । बृहत्ठरथं । सं । वृत्राइव । दासं । वृत्रहा ।  
+> अरुजं ।  
+> यत् । वर्धयंतं । प्रथयंतं । आनुषक् । दूरे । पारे । रजसः । रोचना ॥  
+> अकरं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रः सोऽस्मि योऽहं नववास्त्वं बृहद्रथं च वृत्रेववृत्रमिव दासमुपक्षपयितारमिव नववास्त्वं बृहद्रथं चारुजं । अहं भग्नमकरवं ॥ रुजो
+> भंगे ॥ यद्यदा वर्धयंतं वर्धमानं प्रथयंतं प्रथमानं चोभौ शत्रु
+> अनुषगानुषक्तः सन्नोचना रोचनस्य रजसो लोकस्य दूरे पारेऽकरं कृतवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+I, Indra, am he who crushed Navavāstva and Bṛhadratha, as one slays a Vṛtra, as one crushes a Dāsa, a destroyer. When, with both enemies, growing and spreading, following one after another, I drove them to the far shore of the shining world, I did so. रुजो भंगे (*rujo bhaṃge*) (root meaning to break).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वर्धयंतं (*vardhayaṃtaṃ*)—the enemy who is growing
+- प्रथयंतं (*prathayaṃtaṃ*)—and spreading over wide regions
+- आनुषक् (*ānuṣak*)—I, devoted to subduing the enemy
+- रोचना (*rocanā*)—of the shining
+- रजसः (*rajasaḥ*)—world
+- दूरे पारे (*dūre pāre*)—to the far end of the distant region
+- अकरं (*akaraṃ*)—drove away, then
+- यः (*yaḥ*)—I who
+- नववास्त्वं (*navavāstvaṃ*)—Navavāstva
+- बृहद्रथं (*bṛhadrathaṃ*)—and Bṛhadratha
+- वृत्रेव (*vṛtreva*)—as one slays Vṛtra
+- दासं (*dāsaṃ*)—as one kills a destroying enemy
+- अरुजं (*arujaṃ*)—destroyed
+- अहं सः (*ahaṃ saḥ*)—that Indra am I
+
+##### भावार्थ (Bhāvārtha)
+
+I, devoted to subduing the enemy who grows and spreads everywhere, drove him to the far end of the shining world; I am that Indra who destroyed Navavāstva and Bṛhadratha as one kills a destroying enemy.
+
+##### English translation
+I, the slayer of Vritra, am he who crushed Navavastwa and Brihadratha, (who crushed) Dasa like a Vritra, when I drove to the distant shore of the shining world, (both) my augmenting and outstretched (foes) one after the other.
+
+### Printed p. 205
+
+##### विशेषविषयगळु (Special Topics)
+
+नववास्त्वं (*navavāstvaṃ*), बृहद्रथं (*bṛhadrathaṃ*)—These two names are read in the present Ṛk and in Ṛ. Saṃ. 1-36-18. The word नववास्त्व (*navavāstva*) alone is read also in Ṛ. Saṃ. 6-20-11. In 1-36-18 Navavāstva is said to be a friend of Agni, in 6-20-11 one dear to Indra; in the present Ṛk he is described as Indra's enemy. It is not clear whether Bṛhadratha is a separate person or this word is an epithet of Navavāstva.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं सूर्य॑स्य॒ परि॑ याम्या॒शुभिः॒ प्रैत॒शेभि॒र्वह॑मान॒ ओज॑सा ।  
+> यन्मा॑ सा॒वो मनु॑ष॒ आह॑ नि॒र्णिज॒ ऋध॑क्कृषे॒ दासं॒ कृत्त्वं॒  ॑
+> हथैः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । सूर्यस्य । परि । यामि । आशुभिः । प्र । एतशेभिः । वहमानः । ओजसा ।  
+> यत् । मा । सावः । मनुषः । आह । निःनिजे । युदक् । कृषे । दासं । कृत्वं ।  
+> हथैः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं सूर्यस्य देवस्याशुभिः शीघ्रगामिभिरेतशेभिरेतशवर्णैरश्वैर्वहमान
+> उह्यमान ओजसात्मीयेन बलेन प्रकर्षेण परि यामि । परिगच्छामि सूर्यात्मना ।
+> किंच यद्यदा मा मां मनुषो मनुष्यस्य सावः सोमाभिषव आह ब्रूते ।
+> आह्वयतीत्यर्थः । किमर्थमाह । निर्णिजे । निर्णिगिति रूपनाम । यज्ञस्वरूपायेत्यर्थः । तदानीं कृत्त्वं कर्तव्यं । हंतव्यमित्यर्थः । दासमुपक्षपयितारं शत्रुं
+> हथैर्हननसाधनैर्युधक्कृषे। पृथक्करोमि । ऋधगित्यव्ययं पृथगर्थे ॥
+
+##### Gist of the bhāṣya
+
+I travel around, as the sun, borne by the swift, Etaśa-coloured horses of the god Sūrya, with my own strength. Further, when the pressing of Soma of a man calls me, i.e. invites me, for what? निर्णिजे (*nirṇije*)—*nirṇik* is a word for form, i.e. for the sacrifice itself—then the Dāsa, the destroying enemy, is to be struck down; I set him apart with weapons of slaying. ऋधक् (*ṛdhak*) is an indeclinable in the sense of "apart".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- मा (*mā*)—me
+- मनुषः (*manuṣaḥ*)—performed by human sacrificers
+- सावः (*sāvaḥ*)—the rite of pressing Soma juice
+- निर्णिजे (*nirṇije*)—for the carrying out of the sacrifice
+- आह (*āha*)—calls me, then
+- अहं (*ahaṃ*)—I
+- सूर्यस्य (*sūryasya*)—of the god Sūrya
+- आशुभिः (*āśubhiḥ*)—swift-going
+
 ---
 
-**Progress note:** Done through printed p. 199. pp. 194-199 (batch API)
+**Progress note:** Done through printed p. 205. pp. 200-205 (batch API; answer re-sent directly)
