@@ -2632,6 +2632,274 @@ When (यत् (*yat*)) the uktha (उक्थं (*ukthaṃ*)), the śastra o
 - इंद्रियः (*iṃdriyaḥ*)—dear to Indra
 - वज्रः (*vajraḥ*)—the thunderbolt
 
+### Printed p. 119
+
+equal to the weapon of the thunderbolt;
+
+- रसः (*rasaḥ*)—endowed with strength
+- सोमः (*somaḥ*)—the Soma
+- सहस्रसाः (*sahasrasāḥ*)—to us in thousands
+- भवत् (*bhavat*)—becomes the bestower of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+When the śastra-mantra addressed to Indra comes into being (is recited), immediately thereupon the Soma, dear to Indra, equal to the weapon of the thunderbolt and endowed with strength, becomes the bestower of wealth to us in thousands.
+
+##### English translation
+When the praise of Indra is recited, then the juice dear to him,
+vigorous as a thunderbolt, gives us unlimited wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒यं क॒विर्वि॑ध॒र्तरि॒ विप्रा॑य॒ रत्न॑मिच्छति ।  
+> यदी॑ मर्मृ॒ज्यते॒ धियः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वयम् । कविः । विऽधर्तरि । विप्राय । रत्नम् । इच्छति ।  
+> यदि । मर्मृज्यते । धियः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदि कविः क्रांतकर्मा अयं सोमः धियः धीभिः। विभक्तिव्यत्ययः। धीतिभिः । अंगुलीभिरित्यर्थः । मर्मृज्यते शोध्यते तर्हि स्वयं स्वयमेव विप्राय मेधाविने विधर्तरि कामानां विधातरींद्रे रत्नं रमणीयं धनम् इच्छति । इंद्रेण धनं दापयितुमिच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+If this Soma, the poet (कविः (*kaviḥ*)), that is, one of surpassing deeds, is cleansed by the धियः (*dhiyaḥ*), that is, by the fingers (with a change of case ending, for the instrumental), then of his own accord he desires wealth, a delightful treasure (रत्नं (*ratnaṃ*)), for the wise one (विप्राय (*viprāya*)) from Indra, the bestower (विधर्तरि (*vidhartari*)) of desires. The meaning is that he wishes Indra to give wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदि (*yadi*)—when
+- कविः (*kaviḥ*)—the divine Soma, of surpassing deeds
+- धियः (*dhiyaḥ*)—by the fingers
+- मर्म्मृज्यते (*marmmṛjyate*)—is pressed for purification, then
+- स्वयं (*svayaṃ*)—of his own accord
+- विप्राय (*viprāya*)—for the wise
+- विधर्तरि (*vidhartari*)—from Indra, the shower of desires
+- रत्नं (*ratnaṃ*)—delightful wealth
+- इच्छति (*icchati*)—he wishes to have given
+
+### Printed p. 120
+
+##### भावार्थ (Bhāvārtha)
+
+When the divine Soma, of surpassing deeds, is pressed by the fingers for purification, then of his own accord he wishes to have delightful wealth given from Indra, the wise one, the shower of desires.
+
+##### English translation
+When the sage Soma is cleansed by the fingers he of his own accord desires wealth for the pious worshipper in (Indra), the granter of wishes.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सि॒षा॒सतू॑ रयी॒णां वाजे॒ष्वर्व॑तामिव ।  
+> भरे॑षु जि॒ग्युषा॑मसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिसासतुः । रयीणाम् । वाजेषु । अर्वताम्ऽइव ।  
+> भरेषु । जिग्युषाम् । असि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं भरेषु संग्रामेषु जिग्युषां शत्रून् जयतां रयीणां धनानां सिषासतुः संभक्तुमिच्छुः असि भवसि । शत्रून् जयद्योत् धनानि प्रयच्छसीत्यर्थः । तत्र दृष्टांतः। वाजेषु संग्रामेषु अर्वतामिव अश्वानामिव । यथा संग्रामं प्रविशद्भ्योऽश्वेभ्यो घासं प्रयच्छंति तद्वदित्यर्थः॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are one who wishes to share (सिषासतुः (*siṣāsatuḥ*)) among the wealth of those who conquer (जिग्युषां (*jigyuṣāṃ*)) enemies in battles (भरेषु (*bhareṣu*)). That is, you conquer enemies and bestow riches. An illustration is given: as in battles (वाजेषु (*vājeṣu*)) people give fodder to the horses (अर्वतां (*arvatāṃ*)) that enter the battle, so it is here. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- वाजेषु (*vājeṣu*)—entering battles
+- अर्वतां इव (*arvatāṃ iva*)—as abundant food is given to horses
+- भरेषु (*bhareṣu*)—in battles
+- जिग्युषां (*jigyuṣāṃ*)—to heroes given to victory
+- रयाणां (*rayāṇāṃ*)—abundant riches
+- सिषासतुः असि (*siṣāsatuḥ asi*)—you wish to give
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, as abundant food is given to the horses that enter battles, so you wish to give abundant riches to the heroes who are victorious in battles.
+
+### Printed p. 121
+
+##### English translation
+You desire to give wealth to those who conquer in combat as (men offer fodder) to horses in battle.
+
+## Sūkta 48 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ तं त्वा' इति पंचर्चं चतुर्विशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘तं त्वा' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तं त्वा (*taṃ tvā*) has five ṛks and is the twenty-fourth sūkta. The seer and the rest are as before. The Anukramaṇī says तं त्वा (*taṃ tvā*). The use in the rite has been stated.
+
+Translation: This sūkta तं त्वा (*taṃ tvā*) is the twenty-fourth sūkta in the second anuvāka. It contains five ṛks. The seer, deity and metre of this sūkta are the same as of the previous sūkta. In the Anukramaṇikā it is said: तं त्वा (*taṃ tvā*). The use in the rite has been stated before.
+
+Sūkta 48. Maṇḍala 9, Anuvāka 2, Sūkta 48. Aṣṭaka 7, Adhyāya 1, Varga 5. Number of ṛks in the sūkta: 5. Seer: Kavi Bhārgava. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ नृ॒म्णानि॒ बिभ्र॑तं स॒धस्थे॑षु म॒हो दि॒वः ।  
+> चारुं॑ सुकृ॒त्यये॑महे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । नृम्णानि । विभ्रतम् । सधऽस्थेषु । महः । दिवः ।  
+> चारुम् । सुऽकृत्यया । ईमहे ॥ १ ॥
+
+### Printed p. 122
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महः दिवः महतो द्युलोकस्य सधस्थेषु सहस्थानेषु स्थितं नृम्णानि धनानि बिभ्रतम् अस्मदर्थं धारयंतं चारुं कल्याणं तं पवमानं त्वा त्वां सुकृत्यया शोभनया क्रियया ईमहे धनानि याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, you stand in the common abodes (सधस्थेषु (*sadhastheṣu*)) of the great heaven (महः दिवः (*mahaḥ divaḥ*)) and bear (बिभ्रतं (*bibhrataṃ*)) riches (नृम्णानि (*nṛmṇāni*)) for our sake. You are lovely (चारुं (*cāruṃ*)), that is, auspicious. We ask (ईमहे (*īmahe*)) you for riches by good action (सुकृत्यया (*sukṛtyayā*)), that is, by a good rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- महः (*mahaḥ*)—of the vast
+- दिवः (*divaḥ*)—heaven
+- सधस्थेषु (*sadhastheṣu*)—in the places of abode
+- नृम्मानि (*nṛmmāni*)—riches
+- भिभ्रतं (*bhibhrataṃ*)—who bear
+- चारुं (*cāruṃ*)—charming
+- तं (*taṃ*)—and purified
+- त्वा (*tvā*)—you
+- सुकृत्यया (*sukṛtyayā*)—by excellent rites
+- ईमहे (*īmahe*)—we ask for those riches
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who bear the riches that lie in the abodes of the vast heaven, and are charming, we ask for those riches by excellent rites.
+
+##### English translation
+By sacred rites we solicit (wealth) of you, auspicious bearing wealth abiding in the regions of the vast heaven.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> संवृ॑क्तधृष्णुमु॒क्थ्यं॑ म॒हाम॑हिव्रतं॒ मद॑म् ।  
+> श॒तं पुरो॑ रुरु॒क्षणि॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संवृक्तऽधृष्णुम् । उक्थ्यम् । महाऽमहिव्रतम् । मदम् ।  
+> शतम् । पुरः । रुरुक्षणिम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम संवृक्तधृष्णुम् । संवृक्ताः संछिन्ना धृष्णवो धर्षणशीलाः शत्रवो येनासौ संवृक्तधृष्णुः। तम् उक्थ्यम् उक्थार्हं प्रशस्यं महामहिव्रतं महनीयबहुकर्माणं मदं मदकरं शतं बहूनि पुरः शत्रूणां पुराणि रुरुक्षणिं विनाशयंतं त्वां धनानीमह इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are संवृक्तधृष्णुम् (*saṃvṛktadhṛṣṇum*): the one by whom the bold, assailing enemies are cut down. You are worthy of the uktha, to be praised (उक्थ्यम् (*ukthyam*)), of great and manifold deeds to be honoured (महामहिव्रतं (*mahāmahivrataṃ*)), exhilarating (मदं (*madaṃ*)), a destroyer (रुरुक्षणिं (*rurukṣaṇiṃ*)) of the hundred (शतं (*śataṃ*)), that is, many, cities (पुरः (*puraḥ*)) of enemies. The construction is: we ask you for riches.
+
+### Printed p. 123
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- संवृक्तधृष्णुं (*saṃvṛktadhṛṣṇuṃ*)—you who cleave asunder the resisting, mighty enemies
+- उक्ष्यं (*ukṣyaṃ*)—the praiseworthy
+- महामहिव्रतं (*mahāmahivrataṃ*)—who has many venerable rites
+- मदं (*madaṃ*)—the exhilarating
+- शतं (*śataṃ*)—many
+- पुरः (*puraḥ*)—enemy cities
+- रुरुक्षणिं (*rurukṣaṇiṃ*)—the destroyer; you we ask for riches
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who cleave asunder the resisting and mighty enemies, the praiseworthy, who have many venerable rites, the exhilarating, who destroy many cities of enemies, you we ask for riches.
+
+##### English translation
+The overthrower of the resolute (foe). the praiseworthy, to whom many
+solemn observances are addressed, the exhilarator, the destroyer of a hundred
+cities (of the Asuras).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत॑स्त्वा र॒यिम॒भि राजा॑नं सुक्रतो दि॒वः ।  
+> सु॒प॒र्णो अ॑व्य॒थिर्भ॑रत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतः । त्वा । रयिम् । अभि । राजानम् । सुक्रतो इति सुऽक्रतो । दिवः ।  
+> सुऽपर्णः । अव्यथिः । भरत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम रयिमभि धनं प्रति राजानं त्वा त्वाम् अतः दिवः अमुष्मात् द्युलोकात् सुक्रतुः सुप्रज्ञः अव्यथिः व्यथारहितः सुपर्णः श्येनः भरत् आहरत् । तथा च निगमांतरम्-- ‘ आदाय श्येनो अभरत्सोमं सहस्रं सवाँ' (ऋ. सं. ४.२६.७ ) इति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, from that heaven (दिवः (*divaḥ*)) the hawk (सुपर्णः (*suparṇaḥ*)), of good understanding (सुक्रतुः (*sukratuḥ*)) and free from distress (अव्यथिः (*avyathiḥ*)), brought (भरत् (*bharat*)) you, who are king over wealth (रयिमभि (*rayimabhi*)). Another Vedic passage says the same: आदाय श्येनो अभरत्सोमं सहस्रं सवाँ (*ādāya śyeno abharatsomaṃ sahasraṃ savā~*) (Ṛ. Saṃ. 4.26.7) **GLOSS**
+
+### Printed p. 124
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- रयमभि (*rayamabhi*)—for the sake of wealth
+- राजानं (*rājānaṃ*)—the lord
+- त्वा (*tvā*)—you
+- अतः दिवः (*ataḥ divaḥ*)—from heaven
+- सुक्रतुः (*sukratuḥ*)—possessed of excellent deeds
+- अव्यथिः (*avyathiḥ*)—and free from sorrow
+- सुपर्णः (*suparṇaḥ*)—the hawk
+- भरत् (*bharat*)—bore you and came
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, the hawk, possessed of excellent deeds and free from sorrow, bore you, the lord, from heaven for the sake of wealth, and came.
+
+##### English translation
+O (Soma), doer of good deeds, the unwearied hawk brought you, king over riches, from this heaven.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्मा॒ इत्स्व॑र्दृ॒शे साधा॑रणं रज॒स्तुर॑म् ।  
+> गो॒पामृ॒तस्य॒ विर्भ॑रत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्मै । इत् । स्वः । दृशे । साधारणम् । रजःऽतुरम् ।  
+> गोपाम् । ऋतस्य । विः । भरत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रजस्तुरम् उदकस्य प्रेरकम् ऋतस्य यज्ञस्य गोपां गोपायितारं विश्वस्मै सर्वस्मै स्वदृशे सर्वदृशे देवाय साधारणम् इत् समानमेव संतं सोमं विः पक्षी श्येनः भरत् स्वर्गादाहरत् ॥
+
+##### Gist of the bhāṣya
+
+The bird (विः (*viḥ*)), the hawk, brought (भरत् (*bharat*)) from heaven the Soma who impels water (रजस्तुरम् (*rajasturam*)), who is the guardian (गोपां (*gopāṃ*)) of the sacrifice (ऋतस्य (*ṛtasya*)), and who is common (साधारणम् (*sādhāraṇam*)), that is, the same, for every god (विश्वस्मै (*viśvasmai*)) who sees all (स्वदृशे (*svadṛśe*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रजस्तुरं (*rajasturaṃ*)—the impeller of water in the form of rain
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- गोपां (*gopāṃ*)—the protector
+- विश्वस्मै (*viśvasmai*)—for all
+- स्वर्दृशे (*svardṛśe*)—even for the gods of the world of the gods
+- साधारणं इत् (*sādhāraṇaṃ it*)—equal, and worthy of reverence, Soma, the divine
+- विः (*viḥ*)—the hawk
+- भरत् (*bharat*)—bore and came
+
 ---
 
-**Progress note:** Done through printed p. 118. Sūkta 46 Ṛk 3-6 end; Sūkta 47 Ṛk 1-3 begin
+**Progress note:** Done through printed p. 124. Sūkta 47 Ṛk 3-5; Sūkta 48 Ṛk 1-4
