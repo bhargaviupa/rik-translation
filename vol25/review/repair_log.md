@@ -48,3 +48,7 @@
 - Nov 26 2026 (user): PDF p. 4 (portrait plate with a faint caption, 4 [?]) ignored: the Vol 1 page is used; the page file now holds only a comment. Earlier text of the page is in git history.
 
 - Nov 26 2026 (user): p5 (preface) `೧೧೦೮[?]` → `೧೧೦೮` as printed (the Wikisource index counts 1,107 Ṛks in Maṇḍala 9; the preface says 1,108, kept as printed).
+
+- Nov 26 2026: (1) p6 date `1953[?]` → `1953` (user). (2) p12, the last contents page, damaged in the source (user: cross-verify): the titles of sūktas 9.40–9.43 completed from the first words of the Ṛks in the Wikisource index (ಪುನಾನೋ ಅಕ್ರಮೀದಭಿ, ಪ್ರ ಯೇ ಗಾವೋ, ಜನಯನ್ರೋಚನಾ, ಯೋ ಅತ್ಯ ಇವ), `ಸೂತ್ರ` → `ಸೂಕ್ತ`, and the page of 9.40 `556` → `856` (the body starts sūkta 9.40 on printed p. 856, between 850 and 861). The contents' own page numbers of 9.39 (850), 9.41 (861), 9.42 (867) agree with the body (9.41 starts p. 861, 9.42 p. 867). (3) 13 places where a lone `[?]` had been replaced by a literal `-` (a reader's answer "nothing printed here") the hyphen removed (list in user_decisions_applied.tsv).
+
+- Nov 26 2026: p7 contents, sūkta numbers `೬[?]೮` and `೬[?]೯` → `೬೮`, `೬೯` (the contents list runs ೬೭… in sequence; Maṇḍala 8's first sūkta in this volume is 68, p. 1).
