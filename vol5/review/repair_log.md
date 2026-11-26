@@ -1553,3 +1553,22 @@
 - p. 434 (English line 8024) [H26]: `sacrifice, burn anyone` → `sacrifice, cause trouble to anyone` — ಯಾರಿಗೂ ತೊಂದರೆ ಕೊಡುವವನಲ್ಲ (does not trouble anyone; no word for burning) (second pass S3, findings.tsv)
 - p. 434 (English line 8026) [H26]: `or 'stronger than iron'` → `or 'firmer, like iron'` — ಕಬ್ಬಿಣದಂತೆ ದೃಢತರಗಳಾದ (firmer, like iron) (second pass S3, findings.tsv)
 - p. 440 (English line 8158) [H26]: `**tve** — in you` → `**tve** — when you are` — ತ್ವೇ—ನೀನಿರಲು (when you are / you being there) (second pass S3, findings.tsv)
+
+## Question-mark remarks removed (17 forms other than `[?]` and `[accent ?]`), 2026-11-26 (decision of the user)
+- English line 1057: `[sic?]` removed
+- English line 1162: `(of moisture ?)` removed
+- English line 1732: `[printed like ತ್ರಿತಿ, "triti"; ?]` removed
+- English line 1734: `[printed like "triti"; ?]` removed
+- English line 3436: `[sic: the print has … 'I come to know'? — read 'I wish']` removed
+- English line 3537: `(for *balena*?)` removed
+- English line 3832: `[?: as printed]` removed
+- English line 4155: `(do they satisfy?)` removed
+- English line 5340: `[gave?]` removed (`gave?`→`gave`, `urges?`→`urges`: the word is kept, the doubt mark goes)
+- English line 8704: `[urges? — reading doubtful]` removed (`gave?`→`gave`, `urges?`→`urges`: the word is kept, the doubt mark goes)
+- English line 8918: `[word unclear in the print, ?]` removed
+- English line 9122: `('forgetting'?)` removed
+- English line 9980: `[Śuṣṇa's wood?]` removed
+- English line 10062: `(?)` removed
+- English line 10410: `[that go ?]` removed
+- English line 10458: `[black?]` removed
+- English line 10648: `(*caṣāla*?)` removed
