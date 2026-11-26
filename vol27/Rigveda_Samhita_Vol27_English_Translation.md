@@ -29180,6 +29180,276 @@ The sacrifice has been prepared: the invigorating portions (of the oblation) app
 > भगो॑ वा॒ गोभि॑रर्य॒मेम॑नज्या॒त्सो अ॑स्मै॒ चारु॑श्चदयदु॒त  ॑
 > स्यात् ॥ ४ ॥
 
+### Printed p. 819
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नित्यः । चाकन्यात् । स्वपतिः । दमूनाः । यस्मै । ऊं इति । देवः । सविता । जजान ।  
+> भगः । वा । गोभिः । अर्यमा । ईं । अनज्यात् । सः । अस्मै । चारुः । छदयत् ।  
+> उत । स्यात् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नित्यः कल्पावस्थायी प्रजापतिश्चाकन्यात् । तस्मै दृष्टादृष्टफलं दातुं
+> कामयतां । कीदृशः । स्वपतिः । स्वीयानां प्रजानां स्वामी धनपतिर्वा दमूना
+> दानमनाः । कस्य कामयतामिति उच्यते । उ उतापि च यस्मै यजमानाय
+> मह्यं सविता सर्वस्य प्रेरको देवो जजान जनितवान् दृष्टादृष्टफलं
+> दत्तवानित्यर्थः ! वाशब्दः समुच्चये । तथा भगो देवश्च गोभिरस्मदीयाभिः
+> स्तुतिरूपाभिर्वाग्निरर्यमा देवश्चेमादृग्भूतं दृष्टादृष्टफलमनज्यात् । व्यक्तीकुर्यात् । दद्यादित्यर्थः । उतापि च स्यात् अन्नोऽपि यो देवगणोऽस्ति चारू
+> रमणीयः सोऽपि देवगणोऽस्मै यजमानाय मह्यं छदयत् । दृष्टादृष्टफलं
+> दातुं कामयतामित्येतदाशास्महे ॥
+
+##### Gist of the bhāṣya
+
+May the eternal one, Prajāpati, who abides through the kalpa, wish to give the fruit, seen and unseen, to the sacrificer. Of what kind is he? He is स्वपतिः (*svapatiḥ*), the lord of his own creatures or lord of wealth, and दमूनाः (*damūnāḥ*), of a giving mind. To whom? To me, the sacrificer, to whom Savitṛ, the god who impels all, has given birth, that is, has given the fruit, seen and unseen; the word वा (*vā*) is in the sense of combination. So also may the god Bhaga, by our praises in the form of speech, and the god Aryaman make manifest, that is, give, such fruit, seen and unseen. And whatever other lovely host of gods there is, चारू (*cārū*) meaning charming, may that host of gods too wish to give the fruit, seen and unseen, to me, the sacrificer. This we pray.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मै (*yasmai*)—to me, the sacrificer, to whom
+- देवः (*devaḥ*)—the god in nature
+- सविता (*savitā*)—Savitṛ
+- जजान (*jajāna*)—is the creator; to me
+- दमूनाः (*damūnāḥ*)—who gives generously
+- स्वपतिः (*svapatiḥ*)—lord of wealth
+- नित्यः (*nityaḥ*)—of eternal existence, Prajāpati
+- चाकन्यात् (*cākanyāt*)—may he give the things desired
+- भगः (*bhagaḥ*)—the god Bhaga
+- गोभिः (*gobhiḥ*)—praised by our praises
+- अरमा (*aramā*)—Aryaman
+- ईं (*īṃ*)—all these desired objects
+- अनज्यात् (*anajyāt*)—may he provide
+- उत (*uta*)—and
+- चारुः (*cāruḥ*)—the attractive
+- यः स्यात् (*yaḥ syāt*)—if there is any other deity
+- सः (*saḥ*)—he too
+- अस्मै (*asmai*)—to me
+- छदयत् (*chadayat*)—may he provide the desired objects
+
+##### भावार्थ (Bhāvārtha)
+
+To me, the sacrificer, for whom Savitṛ is the creator, may Prajāpati, who gives generously, is lord of wealth and is of eternal existence, give the things desired. May Bhaga, and Aryaman praised by our praises, provide all these desired objects. May the other host of gods, of attractive form, also provide our desired objects.
+
+### Printed p. 820
+
+##### English translation
+May the eternal (Prajapati), the lord of wealth, of generous mind, be willing to bestow (benefits on him) to whom the divine Savitri has given birth : may Bhaga (induced) by (our) praises, and the divine Aryaman unfold (future rewards); or may some (other) gracious (divinity) be inclined to favour this (institutor of the rite).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं सा भू॑या उ॒षसा॑मिव॒ क्षा यद्ध॑ क्षु॒मंतः॒ शव॑सा  ॒॑
+> समायन् ।  
+> अ॒स्य स्तु॒तिं ज॑रि॒तुर्भिक्ष॑माणा॒ आ नः॑ श॒ग्मास॒ उप॑ यंतु॒  ॑
+> वाजाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । सा । भूयाः । उषसां इव । क्षाः । यत् । ह । क्षुमंतः । शवसा । संआयन् ।  
+> अस्य । स्तुतिं । जरितुः । भिक्षमाणाः । आ । नः । शग्मासः । उप । यंतु । वाजाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्षुमंतः। क्षुशब्दोऽन्नवाची शब्दवाचि: वा। अन्नवंतः स्तुतिमंतः कीर्तिमंतो
+> वेत्यर्थः । एवंभूता देवाः शवसा बलेन यद्यामस्मदीयां स्तुतिं प्रति समायन्।
+> समागच्छन् संप्राप्ताः सेयं स्तुतिर्देवानां प्राप्या भूयाः । भूयात् । भवतु ।
+> उषसामिव क्षाः यथा पृथिव्युषसां व्याप्या सर्वेषां प्राप्या भवति तद्वत् ।
+> किंच जरितुः स्तोतुरस्य मम स्तुतिं भिक्षमाणा याचमानाः शग्मासः । शग्मिति
+> सुखनाम। सुखाः सुखकरा वाजाः सुधन्वनः पुत्रास्त्रयोऽप्यभुर्विभ्वा वाज इत्येते
+> नोऽस्मानाभिमुख्येनोप यंतु । उपगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+क्षुमंतः (*kṣumaṃtaḥ*): the word क्षु (*kṣu*) means food, or it means word; so, possessing food, possessing praise, or possessing fame. Such gods, by their might, have come together, assembled, toward our praise. May that praise be attainable by the gods, as the earth is pervading and reachable by all the dawns. Further, the Vājas, who beg the praise of me, the praiser, are शग्मासः (*śagmāsaḥ*), for शग्म (*śagma*) is a name for happiness: givers of happiness. Sāyaṇa says that the Vājas are the three sons of Sudhanvan, पुत्रास्त्रयोऽप्यभुर्विभ्वा वाज (*putrāstrayo 'pyabhurvibhvā vāja*) **NOTE**. May these come to us, facing us.
+
+### Printed p. 821
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्षाः (*kṣāḥ*)—the earth
+- उषसां इव (*uṣasāṃ iva*)—as, at the dawns, the resting-place of all
+- क्षुमंतः (*kṣumaṃtaḥ*)—the gods who possess food
+- शवसा (*śavasā*)—by their power
+- यत् (*yat*)—this praise of ours, desiring which
+- समायन् (*samāyan*)—they have come together
+- सा इयं (*sā iyaṃ*)—this same praise of ours
+- भूयाः (*bhūyāḥ*)—may it reach them
+- जरितुः (*jarituḥ*)—of the praiser
+- अस्य (*asya*)—my
+- स्तुतिं (*stutiṃ*)—praise
+- भिक्षमाणाः (*bhikṣamāṇāḥ*)—who desire
+- शग्मासः (*śagmāsaḥ*)—and give happiness
+- वाजाः (*vājāḥ*)—the sons of Sudhanvan
+- नः (*naḥ*)—to us
+- उपयंतु (*upayaṃtu*)—may they graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+As the earth is the resting-place of all at the dawns, may this same praise of ours, desiring which the gods who possess food have come together by their power, reach them. May the sons of Sudhanvan, who desire the praise of me the praiser and who give happiness, graciously come to us.
+
+##### English translation
+May this (our praise) be accessible like the earth at dawn, when the glorious (gods) assemble in their might : may the Vajas, the dispensers of happiness, come to us, soliciting the laudation of this (their) adorer.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्येदे॒षा सु॑म॒तिः प॑प्रथा॒नाभ॑वत्पू॒र्वा भूम॑ना॒ गौः ।  
+> अ॒स्य सनी॑ळा॒ असु॑रस्य॒ योन्॑ समा॒न आ भर॑णे॒ बिभ्र॑माणाः ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । इत् । एषा । सुमतिः । पप्रथाना । अभवत् । पूर्वा । भूमना । गौः ।  
+> अस्य । सनीळाः । असुरस्य । योन् । समाने । आ । भरणे । बिभ्रमाणाः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदिदानीमस्य देवगणसंबंधिन्येषा सुमतिः सुष्टुस्तुतिः पप्रथानाभवत् ।
+> विस्तीर्यमाणाभूत् । अस्माभिः क्रियमाणेत्यर्थः । कीदृशी । पूर्वा पूर्वकालीना
+
+### Printed p. 822
+
+> भूमना भूम्ना बहुत्वेन युक्तेति शेषः । सर्वदेवसंबंधित्वादृशं जातेत्यर्थः ।
+> गौर्देवान्प्रतिगंत्रि । एतज्जात्वा सर्वे देवा असुरस्य प्रजारूपबलवतोऽस्य
+> मम संबंधिनि समाने सर्वदेवसाधारणे भरणे सर्वेषां देवानां पुष्टिकरे
+> योन् यज्ञाख्यॆ स्थाने सनीळाः समानस्थाना बिभ्रमणा अस्मदर्थं दृष्टादृष्टफलं
+> धारयंत आ गच्छंत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Now this good praise belonging to this host of gods has become widely spread, that is, is being offered by us. Of what kind? It is पूर्वा (*pūrvā*), ancient, and joined with भूमना (*bhūmanā*), plurality; it has become such as belongs to all the gods, and it is गौः (*gauḥ*), going to the gods. Knowing this, let all the gods come to the place called the sacrifice, which belongs to me, who am असुरस्य (*asurasya*), endowed with strength in the form of progeny; which is common to all the gods and nourishing to all the gods; the gods being of the same place, सनीळाः (*sanīḷāḥ*), and bearing for us fruit, seen and unseen. The words "let them come" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इत् (*it*)—now
+- अस्य (*asya*)—offered to this host of gods
+- पूर्वा (*pūrvā*)—ancient
+- गौः (*gauḥ*)—going to the gods
+- भूमना (*bhūmanā*)—and joined with plurality
+- एषा सुमतिः (*eṣā sumatiḥ*)—this praise
+- पप्रथाना (*paprathānā*)—of widespread growth
+- अभवत् (*abhavat*)—has become
+- असुरस्य (*asurasya*)—of the powerful
+- अस्य (*asya*)—performed by me
+- समाने (*samāne*)—common to all the gods
+- भरणे (*bharaṇe*)—nourishing to all the gods
+- योन्सौ (*yonsau*)—in the place of the sacrifice
+- सनीळाः (*sanīḷāḥ*)—having the same place
+- बिभ्रमाणाः (*bibhramāṇāḥ*)—bearing fruits for us, the gods
+- आ (*ā*)—let them graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+This praise, offered to the host of gods, ancient and joined with plurality, has become of widespread growth. May the gods, who share the same place and bear fruits for us, graciously come to the place of the sacrifice, which is performed by me, the powerful, is common to all the gods and nourishes all the gods.
+
+##### English translation
+May this glorification, of this (assembly of the gods), ancient and frequent, approaching (the deities), be widely diffused, (may the universal gods), collected together, bearing (future rewards, come) to the common place (of sacrifice) of this one who is mighty, which nourishes (them).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किंस्वि॒द्ध्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्तत॒क्षुः ।  
+> सं॒त॒स्था॒ने अ॒जरे॑ इ॒तऊ॑ती॒ अहा॑नि पू॒र्वीरु॒षसो॑ जरंत ॥७॥
+
+### Printed p. 823
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । स्वित् । वनं । कः । ऊं इति । सः । वृक्षः । आस । यतः । द्यावापृथिवी इति ।  
+> निःततक्षुः ।  
+> संतस्थाने इति संतस्थाने । अजरे इति । इतऊती इतीतःऊती । अहानि । पूर्वी९।  
+> उषसः । जरंत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यतो यस्माद्वृक्षाद्द्यावापृथिवी द्यावापृथिव्य निष्कृतक्षुः देवा निःशेषेण
+> कृतवंतः स तादृशो वृक्षः क उ आस । कीदृग्वा बभूव । तदुत्पादकं वनमरण्यं किं
+> स्वित् । संतस्थाने सम्यक्तिष्ठंत्यावजरे जरावर्जिते इतऊती इत एतेभ्यो
+> देवेभ्यो रक्षणं ययोस्ते । किंचाहानि सर्वाणि दिनानि पूर्वीर्बहीरुषसश्च देवा
+> निष्कृतक्षुः । एवंभूतान्नेवाञ्जरंत । स्तोतारः स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+From which tree the gods fashioned heaven and earth completely: of what kind was that tree? And what was the forest that produced it? Heaven and earth are संतस्थाने (*saṃtasthāne*), standing well, and अजरे (*ajare*), free from old age, and इतऊती (*itaūtī*), that is, their protection comes from these gods. Further, the gods fashioned all the days and the many dawns. The praisers praise such gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संतस्थाने (*saṃtasthāne*)—which stand firm
+- अजरे (*ajare*)—are free from decay
+- इतऊती (*itaūtī*)—and give protection to the gods
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अहानि (*ahāni*)—the days
+- पूर्वी उषसः (*pūrvī uṣasaḥ*)—the many dawns
+- यतः (*yataḥ*)—from which tree
+- निष्कृतक्षुः (*niṣkṛtakṣuḥ*)—the gods fashioned
+- सः वृक्षः (*saḥ vṛkṣaḥ*)—that tree
+- क उ आस (*ka u āsa*)—what is it
+- वनं (*vanaṃ*)—the forest in which that tree stands
+- किं स्वित् (*kiṃ svit*)—what is it
+- जरंत (*jaraṃta*)—(this work of creation) the praisers praise
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth, which stand firm, are free from decay and give protection to the gods, and the days and the many dawns: from which tree did the gods fashion them? Which is that tree? Which is the forest in which that tree stands?
+
+##### English translation
+What is the forest, which is the tree, out of which (the gods) have fabricated heaven and earth, ever stationary and undecaying, giving protection to the deities; through numerous days and dawns (men) praise (the gods for this),
+
+#### Ṛk 8
+
+### Printed p. 824
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नैताव॑दे॒ना प॒रो अ॒न्यद॑स्तु॒क्षा स द्यावा॑पृथि॒वी बि॑भर्ति ।  
+> त्वचं॑ प॒वित्रं॑ कृणुत स्व॒धावा॒न्यदीं॒ सूर्यं॒ न ह॒रितो॒  ॑
+> वहंति ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । एतावत् । एना । परः । अन्यत् । अस्ति । उक्षा । सः । द्यावापृथिवी इति । बिभर्ति ।  
+> त्वचं । पवित्रं । कृणुत । स्वधावान् । यत् । ईं । सूर्यं । न । हरितः । वहंति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावापृथिव्योर्निर्माणरूपमेतावद्देवजातं सामर्थ्येन युक्तमिति न ।
+> आपि त्वेनैतेभ्यो देवेभ्यः पर उत्कृष्टोऽन्यदन्नो हिरण्यगर्भोऽस्ति । उक्षा सेक्ता ।
+> प्रजानां स्रष्टेत्यर्थः । हिरण्यगर्भः परमसूक्ष्मो वायुरूपो लिंगात्मापः प्रविश्य
+> द्यावापृथिवी द्यावापृथिनौ बिभर्ति । धारयति । किं च । स्वधावान्बलवानन्ननान्वास
+> हिरण्यगर्भः पवित्रं पवित्रमयं त्वचमात्मीयं शरीरं दीप्तं मंत्रं वा कृणुत ।
+> करोति । कदेति उच्यते । यद्यदेमिमां त्वचं हरितोऽश्वाः सूर्यं न वहंति न
+> प्रापयंति तदेति । सृष्टेः प्रागित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This creation of heaven and earth, born of the gods, is not all that is endowed with power; there is another, higher than these gods, Hiraṇyagarbha. **NOTE** उक्षा (*ukṣā*) means the sprinkler, that is, the creator of beings. Hiraṇyagarbha, most subtle, of the nature of air, the subtle self, having entered the waters, bears heaven and earth. Further, Hiraṇyagarbha, strong or possessing food, makes his own body, pure in nature, or a radiant mantra. **NOTE** When? When the bay horses do not carry this body to the sun, that is, before creation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतावत् न (*etāvat na*)—this creation of the gods is not so great
+- एना (*enā*)—than this
+- परः (*paraḥ*)—superior
+- अन्यत् (*anyat*)—another power
+- अस्ति (*asti*)—there is
+- उक्षा (*ukṣā*)—the creator
+- सः (*saḥ*)—the Supreme Self in the form of Hiraṇyagarbha
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- बिभर्ति (*bibharti*)—bears
+- यत् (*yat*)—when
+- ईं (*īṃ*)—the body of this Hiraṇyagarbha
+- हरितः (*haritaḥ*)—the horses
+- सूर्यं (*sūryaṃ*)—to the sun
+- न वहंति (*na vahaṃti*)—do not carry, then (as a preliminary to that)
+- स्वधावान् (*svadhāvān*)—this Hiraṇyagarbha, endowed with power
+- पवित्रं (*pavitraṃ*)—pure
+- त्वचं (*tvacaṃ*)—his own body
+- कृणुत (*kṛṇuta*)—makes
+
+##### भावार्थ (Bhāvārtha)
+
+There is another power, of greater importance than the creation by the gods described before. The Supreme Self, the creator, in the form of Hiraṇyagarbha, bears heaven and earth.
+
 ---
 
-**Progress note:** Done through printed p. 818. Sūkta 30 Ṛk 14 end, Ṛk 15; Sūkta 31 intro, Ṛk 1-3, Ṛk 4 Saṃhitā
+**Progress note:** Done through printed p. 824. Sūkta 31 Ṛk 4 (Pada, bhāṣya) to Ṛk 8
