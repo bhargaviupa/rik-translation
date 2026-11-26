@@ -1,0 +1,14 @@
+# Brief — settling `[?]` marks at numbers from the user's scan
+
+Vol 5 English (`vol5/Rigveda_Samhita_Vol5_English_Translation.md`) still has `[?]` marks: the earlier translator was unsure of a digit. The user has now said: **where the scan clearly reads the same number, the `[?]` goes.** The scan: `/root/.claude/uploads/ee0178c5-6012-561e-87ba-11fdb65fb257/87231b99-Rig_Vol5-231-605.pdf` (printed pp. 231–589; **file page = printed page − 214**). Your worklist (TSV, in `vol5/review/second_pass/`) gives for each `[?]` the estimated printed page (the nearest page mark above it in the English: it can be off by one or two; look at the neighbouring pages too), the English-file line number, which `[?]` of that line it is, and the text before and after it.
+
+For each mark:
+1. Find the place on the scan. Render the page: `pdftoppm -f INDEX -l INDEX -r 330 -png PDF PREFIX` (PREFIX in `/tmp/claude-0/-home-user-rik-translation/ee0178c5-6012-561e-87ba-11fdb65fb257/scratchpad/scan/`), crop with PIL to the line you need, and Read the crop (crop narrow: one or two lines at a time). Pages 232–233, 260, 290, 318, 324, 338, 366, 372, 390, 408, 414, 422, 434, 440, 458, 484, 506, 514, 518 are already rendered there at 170 dpi (`pNNN_1.png`, `pNNN_2.png`).
+2. Decide if the `[?]` stands at (a) a **number or reference** (digits), (b) a Sanskrit word, a gloss or anything else. Do nothing for (b): log it as `question` with a one-line reason.
+3. For (a): read the digits. This old typeface is easy to misread (some digits look alike: ೪/ಳ, ೮/ಲ, ೩/೨, ೬/೭, ೧/೦); the English number before the `[?]` is your guide, not your authority. Decide:
+   - **clear and the same as the English** (every digit certain at 330 dpi) → `applied`: remove the ` [?]` after the number, nothing else changes;
+   - **clear and different** → `question` with both readings (do not change);
+   - **not certain** → `question` ("not certain"); the mark stays.
+   Never settle a number from memory or another edition.
+4. Write rows to `/home/user/rik-translation/vol5/review/second_pass/qmark_findings_N.tsv` (N given in your task): tab-separated, header `page	kind	reader	place	as_found	proposed	basis	decision	log`; page = the printed page where you actually found it; kind `H10`; reader `R1`; place = `L1234: a few words`; as_found = the exact English text, a substring of that one line, **unique in the line**, 12+ characters, no tabs, covering the number and its `[?]` (e.g. `Ṛ. Saṃ. 8-14-7 [?]`); proposed = the same with ` [?]` removed; basis = what you read ("scan p. 232, 330 dpi: ೮-೧೪-೭, all digits clear"); decision applied|question; log = short. One row per mark, so the worklist is fully covered.
+5. Change NO other file; do not commit. Report: marks done, counts applied / question (and why), pages you could not find or read, what you did not check. Be honest: a wrong "clear" is worse than a question.
