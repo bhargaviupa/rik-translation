@@ -5148,6 +5148,276 @@ You, the thousand-eyed, and the supporter of thousands, they make to flow throug
 > अति॒ वारा॒न्पव॑मानो असिष्यदत्क॒लशाँ॑ अ॒भि धा॑वति ।  
 > इंद्र॑स्य॒ हार्द्या॑वि॒शन् ॥ ३ ॥
 
+### Printed p. 176
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । वारान् । पवमानः । असिस्यदत् । कलशान् । अभि । धावति ।  
+> इंद्रस्य । हार्दि । आऽविशन् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः पूयमानः सोमः वारान् अवेर्वालान् अति अतिक्रम्य असिष्यदत् स्यंदते । अपि च इंद्रस्य हार्दि हृदयम् आविशन् कलशान् द्रोणान् अभि धावति अभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+The purifying Soma, being purified, passes over the sheep's hairs of the filter and flows. And, entering Indra's heart, he runs to the vessels, the Droṇa-vessels, and reaches them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—the purifying divine Soma
+- वारान् (*vārān*)—the woollen fibres of the ten-fold filter
+- अति (*ati*)—crossing over
+- असिष्यदत् (*asiṣyadat*)—flows
+- इंद्रस्य (*iṃdrasya*)—Indra's
+- हार्दि (*hārdi*)—heart
+- अविशन् (*aviśan*)—entering
+- कलशान् (*kalaśān*)—into the Droṇa-vessels
+- अभि धावति (*abhi dhāvati*)—goes quickly and joins them
+
+##### भावार्थ (Bhāvārtha)
+
+The purifying divine Soma crosses over the woollen fibres of the ten-fold filter and flows. Entering Indra's heart, he goes quickly to the Droṇa-vessels and joins them.
+
+##### English translation
+The purifier trickles through the hairs of the filter ; he hastens to the pitchers, entering Indra's heart.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य सोम॒ राध॑से॒ शं प॑वस्व विचर्षणे ।  
+> प्र॒जाव॒द्रेत॒ आ भ॑र ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । सोम । राधसे । शम् । पवस्व । विऽचर्षणे ।  
+> प्रजाऽवत् । रेतः । आ । भर ॥ ४ ॥
+
+### Printed p. 177
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचर्षणे विद्रष्टः त्वम् इंद्रस्य राधसे राधनाय संसिद्ध्यै शं सुखकरं रसं पवस्व क्षर । अपि चास्मभ्यं प्रजावत् पुत्राद्युपेतं रेतः उदकमन्नं वा आ भर आहर । प्रयच्छेत्यर्थः॥ ॥१७॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+O all-seeing one, you, for Indra's satisfaction, for his accomplishment, flow, stream forth the pleasant juice. And bring to us seed, that is water or food, endowed with offspring such as sons; that is, give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणे (*vicarṣaṇe*)—who can see everything
+- सोम (*soma*)—O divine Soma
+- इंद्रस्य (*iṃdrasya*)—Indra's
+- राधसे (*rādhase*)—for satisfaction
+- शं (*śaṃ*)—the pleasant juice
+- पवस्व (*pavasva*)—make flow
+- प्रजावत् (*prajāvat*)—endowed with sons and the like
+- रेतः (*retaḥ*)—juicy food
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, witness of all, make the pleasant juice flow for Indra's satisfaction. Bring and provide juicy food endowed with sons and the like.
+
+##### English translation
+All-beholding Soma, flow pleasantly for Indra's gratification ; bring (us) food with male offspring.
+
+## Sūkta 61 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयेऽनुवाके सप्त सूक्तानि । तत्र ‘अया वीती' इति त्रिंशदृचं प्रथमं सूक्तम् । अमहीयुर्नामांगिरस ऋषिः । गायत्री छंदः । पवमानः सोमो देवता । तथा चानुक्रांतम्- अया वीती त्रिंशदमहीयुः' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the third anuvāka there are seven sūktas. Among them the sūkta beginning अया वीती (*ayā vītī*) has thirty ṛks and is the first. The seer is Amahīyu, of the Āṅgirasa family; the metre is Gāyatrī; the deity is Pavamāna Soma. The Anukramaṇī says: अया वीती त्रिंशदमहीयुः (*ayā vītī triṃśadamahīyuḥ*). The use in the rite has been stated.
+
+##### Anuvāda
+
+In the third anuvāka of the ninth maṇḍala of the Ṛgveda-saṃhitā there are seven sūktas. Among them this sūkta beginning अयावीती (*ayāvītī*) is the first. It has thirty ṛks. The seer of this sūkta is the one called अमहीयुः (*amahīyuḥ*), son of the seer Aṅgiras. The deity is called पवमानः सोम (*pavamānaḥ soma*); the metre is Gāyatrī. In the Anukramaṇī it is said: अया वीती त्रिंशदमहीयुः (*ayā vītī triṃśadamahīyuḥ*). The use in the rite has been stated before.
+
+### Printed p. 178
+Maṇḍala 9, Anuvāka 3 **NOTE**, Sūkta 61. Aṣṭaka 7, Adhyāya 1, Vargas 18, 19, 20, 21, 22, 23. Number of ṛks in the sūkta: 30. Seer: अमहीयुः (*amahīyuḥ*). Deity: पवमानः सोमः (*pavamānaḥ somaḥ*). Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या वी॒ती परि॑ स्रव॒ यस्त॑ इंदो॒ मदे॒ष्वा ।  
+> अ॒वाह॑न्नव॒तीर्नव॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । वीती । परि । स्रव । यः । ते । इंदो इति । मदेषु । आ ।  
+> अवऽअहन् । नवतीः । नव ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अया अनेन रसेन वीती वीत्या इंद्रस्य भक्षणाय परि स्रव परिक्षर । कीदृशेन रसेनेत्यत आह । ते तव यः रसः मदेषु संग्रामेषु नवतीर्नव इति नवनवतिसंख्याकाश्च शत्रुपुरीः अवाहन जघान । अमुं सोमरसं पीत्वा मत्तः सन्निंद्र उक्तलक्षणाः शत्रुपुरीर्जघानेति कृत्वा रसो जघानेत्युपचारः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, with this juice flow around, for Indra's enjoyment, by way of entering his body. With what kind of juice? He says: your juice which in the battles struck down ninety-nine cities of the enemy. Having drunk this Soma juice and become exhilarated, Indra struck down the enemy cities of the stated kind; therefore the striking is attributed to the juice in a figurative way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- ते (*te*)—your
+- यः (*yaḥ*)—which juice
+- मदेषु (*madeṣu*)—in the battles
+- नवतीर्नव (*navatīrnava*)—ninety-nine enemy cities
+- अवाहन् (*avāhan*)—destroyed
+- आया (*āyā*)—with a juice of such power **NOTE**
+- वीती (*vītī*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, with that juice of yours, of such power, which in the battles destroyed ninety-nine enemy cities, flow in the form of a stream for Indra's drinking.
+
+### Printed p. 179
+
+##### English translation
+Flow, Indu, for (Indra's) food with that (juice) of yours which in battles overthrew ninety and nine (cities of the foe).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुरः॑ स॒द्य इ॒त्थाधि॑ये॒ दिवो॑दासाय॒ शंब॑रम् ।  
+> अध॒ त्यं तु॒र्वशं॒ यदु॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरः । सद्यः । इत्थाऽधिये । दिवःऽदासाय । शंबरम् ।  
+> अध । त्यम् । तुर्वशम् । यदुम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सद्यः एकस्मिन्नेवाह्नि पुरः शत्रूणां पुराणि सोमरसोऽवाहन् । इत्थाधिये सत्यकर्मणे दिवोदासाय राज्ञे शंबरं शत्रुपुराणां स्वामिनम् अध अथ त्यं तं तुर्वशं तुर्वशनामकं राजानं दिवोदासशत्रुं यदुं यदुनामकं राजानं च वशमानयंच । अत्रापि सोमरसं पीत्वा मत्तः सन्निंद्रः सर्वमेतदकार्षीदिति सोमरसे कर्तृत्वमुपचर्यते ॥
+
+##### Gist of the bhāṣya
+
+In a single day, at once, the Soma juice struck down the cities of the enemies. For King Divodāsa, whose action is true, it brought under control Śambara, the lord of the enemy cities, and then that Turvaśa, the king so named, an enemy of Divodāsa, and Yadu, the king so named. Here too, it is figuratively that agency is attributed to the Soma juice, since Indra, having drunk it and become exhilarated, did all this.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सद्यः (*sadyaḥ*)—at one time
+- पुरः (*puraḥ*)—the Soma juice destroyed all the enemy cities
+- इत्थाधिये (*itthādhiye*)—whose action is true
+- दिवोदासाय (*divodāsāya*)—to help the king called Divodāsa
+- शंबरं (*śaṃbaraṃ*)—the demon Śambara
+- अध (*adha*)—afterwards
+- त्यं (*tyaṃ*)—renowned
+- तुर्वशं (*turvaśaṃ*)—the king called Turvaśa
+- यदुं (*yaduṃ*)—and the king called Yadu, it defeated
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juice, which gladdens Indra, helped Indra to destroy all the enemy cities at one time. To help the king called Divodāsa, it helped to defeat the demon Śambara, then the renowned Turvaśa, and likewise Yadu.
+
+##### English translation
+(Which overturned) the cities in a moment, and for the sake of the devout Divodasa (subdued) Shambara and then that Turvasha and Yadu.
+
+### Printed p. 180
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ णो॒ अश्व॑मश्व॒विद्गोम॑दिंदो॒ हिर॑ण्यवत् ।  
+> क्षरा॑ सह॒स्रिणी॒रिषः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । नः । अश्वम् । अश्वऽवित् । गोऽमत् । इंदो इति । हिरण्यऽवत् ।  
+> क्षर । सहस्रिणीः । इषः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अश्ववित् अश्वस्य लंभकस्त्वं नः अस्माकम् अश्वं गोमत् गोयुक्तं हिरण्यवत् हिरण्योपेतं धनं च परि क्षर । अपि च सहस्रिणीः बहूनि इषः अन्नानि क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you who win horses, flow around to us a horse and wealth endowed with cattle and gold. And also stream forth many thousandfold foods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- अश्ववित् (*aśvavit*)—you who are possessed of horses
+- नः (*naḥ*)—to us
+- अश्वं (*aśvaṃ*)—horses
+- गोमत् (*gomat*)—that which is with cattle
+- हिरण्यवत् (*hiraṇyavat*)—that which is of gold, the wealth
+- सहस्रिणीः (*sahasriṇīḥ*)—very abundant
+- इषः (*iṣaḥ*)—foods
+- परि स्रव (*pari srava*)—provide all around **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are possessed of horses, provide to us all around horses, wealth with cattle and of gold, and very abundant foods.
+
+##### English translation
+Indu, conqueror of horses, shower forth horses with cattlc gold and unbounded food. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानस्य ते व॒यं प॒वित्र॑मभ्युंद॒तः ।  
+> स॒खि॒त्वमा वृ॑णीमहे ॥ ४ ॥
+
+### Printed p. 181
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानस्य । ते । वयम् । पवित्रम् । अभिऽउंदतः ।  
+> सखिऽत्वम् । आ । वृणीमहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवित्रमभ्युंदतः पवित्रमभिक्लेदयतः पवमानस्य क्षरतश्च ते तव सखित्वं सख्यं वयम् अमहीयव आंगिरसाः आ वृणीमहे प्रार्थयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who flow, wetting the filter, we, the Amahīyus, the Āṅgirasas, ask for your friendship.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) पवित्रमभ्युंदतः (*pavitramabhyuṃdataḥ*)—who flow purified by the ten-fold filter
+- पवमानस्य (*pavamānasya*)—purifier
+- ते (*te*)—your
+- सखित्वं (*sakhitvaṃ*)—friendship
+- वयं (*vayaṃ*)—we
+- आ वृणीमहे (*ā vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, we ask for the friendship of you who flow purified by the ten-fold filter and who are the purifier.
+
+##### English translation
+We solicit your friendship as you drop flowing over the filter.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॑ प॒वित्र॑मू॒र्मयो॑ऽभि॒क्षरं॑ति॒ धार॑या ।  
+> तेभि॑र्नः सोम मृळय ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । पवित्रम् । ऊर्मयः । अभिऽक्षरंति । धारया ।  
+> तेभिः । नः । सोम । मृळय ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव ये ऊर्मयः तरंगाः पवित्रं धारया क्षरंति तेभिः तैरूर्मिभिः नः अस्मान् मृळय सुखय ॥ ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, those waves of yours which flow in a stream through the filter, with those waves make us happy.
+
 ---
 
-**Progress note:** Done through printed p. 175. Mandala 9 Sukta 59 (Rk 1-4) and Sukta 60 Rk 1-3 start, pp. 170-175
+**Progress note:** Done through printed p. 181. Mandala 9 Sukta 60 Rk 3-4, Sukta 61 Rk 1-5, pp. 176-181
