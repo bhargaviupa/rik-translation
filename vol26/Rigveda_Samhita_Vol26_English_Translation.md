@@ -20931,6 +20931,254 @@ O Soma-deva, urged on like a horse, go and join the battle. You who lead to heav
 ##### English translation
 Like a horse urged on to battle, do you who are all-knowing rush from heaven to the receptacle whose mother is the cloud ; Soma the showerer (of benefits) is being purified at the top upon the woollen filter for Indra's strength which supports (the world).
 
+### Printed p. 558
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र त॒ आश्वि॑नीः पवमान धी॒जुवो॑ दि॒व्या अ॑सृग्र॒न्पय॑सा॒ धरी॑मणि ।  
+> प्रांतरृष॑य॒ स्थावि॑रीरसृक्षत॒ ये त्वा॑ मृ॒जंत्यृ॑षिषाण वे॒धसः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । आश्विनीः । पवमान । धीऽजुवः । दिव्याः । असृग्रन् । पयसा । धरीमणि ।  
+> प्र । अंतः । ऋषयः । स्थाविरीः । असृक्षत । ये । त्वा । मृजंति । ऋषिऽसाण । वेधसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम ते तव आश्विनीः व्याप्ताः ॥ ‘ अशू व्याप्तौ ' इत्यस्मादौणादिको विनिः । ततोऽण् । व्यत्ययेनाद्युदात्तः ॥ धीजुवः मनोवेगाः दिव्याः दिवि भवा दिवः पतंत्यो धाराः पयसा युक्ताः धरीमणि धारके द्रोणकलशे प्र असृग्रन् गच्छंति । ये वेधसः विधातारः ऋषयः हे सोम ऋषिषाण ऋषिभिः संभक्त त्वा त्वां मृजंति अभिषुण्वंति ते ऋषयः स्थाविरीः स्थविरा धाराः अंतः मध्ये पात्रस्यांतः प्र असृक्षत प्रसृजंति ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, your pervading (आश्विनीः (*āśvinīḥ*)), mind-swift (धीजुवः (*dhījuvaḥ*)) streams, celestial (दिव्याः (*divyāḥ*)), that is, born in heaven and falling from heaven, united with the milk, go (असृग्रन् (*asṛgran*)) into the supporting (धरीमणि (*dharīmaṇi*)) Droṇa-kalaśa. The seers, the ordainers (वेधसः (*vedhasaḥ*), makers), who cleanse you (मृजंति (*mṛjaṃti*), that is, press you), O Soma, enjoyed by the seers (ऋषिषाण (*ṛṣiṣāṇa*)), those seers pour (असृक्षत (*asṛkṣata*)) your steady streams (स्थाविरीः (*sthāvirīḥ*)) into the middle of the vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva
+- ते (*te*)—your
+- आश्विनीः (*āśvinīḥ*)—pervading
+- धीजुवः (*dhījuvaḥ*)—having the speed of thought
+- दिव्याः (*divyāḥ*)—and produced in the world of Dyaus, the streams
+- पयसा (*payasā*)—joined with the water
+- धरीमणि (*dharīmaṇi*)—into the supporting Droṇa-kalaśa
+- प्र असृग्रन् (*pra asṛgran*)—go and join
+- ऋषिसान (*ṛṣisāna*)—O Soma-deva, praised by the seers **NOTE**
+- वेधसः (*vedhasaḥ*)—the makers of the sacrifice
+- ये (*ye*)—who
+- त्वा (*tvā*)—you
+- मृजंति (*mṛjaṃti*)—cleanse; such
+- ऋषयः (*ṛṣayaḥ*)—seers
+- स्थावरीः (*sthāvarīḥ*)—your steady streams **NOTE**
+- अंतः (*aṃtaḥ*)—into the Droṇa-kalaśa
+- प्र असृक्षत (*pra asṛkṣata*)—pour
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your pervading, mind-swift streams, produced in the world of Dyaus, join the water and go into the Droṇa-kalaśa that holds them. O Soma-deva, praised by the seers, those seers, the makers of the sacrifice, who cleanse you, pour your steady streams into the Droṇa-kalaśa.
+
+### Printed p. 559
+
+##### English translation
+Purified (Soma), your celestial steed-like (streams) as quick as thought are poured along with the milk into the receptacle ; the rishis, the ordainers (of sacrifice), who cleanse you, O rishi-enjoyed (Soma), pour your continnous (streams) into the midst (of the vessel) **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॒ धामा॑नि विश्वचक्ष॒ ऋभ्व॑सः प्र॒भोस्ते॑ स॒तः परि॑ यंति के॒तवः॑ ।  
+> व्या॒न॒शिः प॑वसे सोम॒ धर्म॑भिः॒ पति॒र्विश्व॑स्य॒ भुव॑नस्य राजसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । धामानि । विश्वऽचक्षः । ऋभ्वसः । प्रऽभोः । ते । सतः । परि । यंति । केतवः ।  
+> विऽआनशिः । पवसे । सोम । धर्मऽभिः । पतिः । विश्वस्य । भुवनस्य । राजसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वचक्षः सर्वस्य द्रष्टः सोम प्रभोः परिवृढस्य सतः ते तव ऋभ्वसः । ऋभ्वा इति महन्नाम । महांतः केतवः रश्मयः विश्वा सर्वाणि धामानि तेजःस्थानानि देवशरीराणि परि यंति परिगच्छंति । प्रकाशयंतीत्यर्थः । हे सोम व्यानशिः व्यापनशीलश्च त्वं धर्मभिः धारकैः रसनिस्यंदैः पवसे पूयसे । विश्वस्य भुवनस्य च पतिः स्वामी त्वं राजसि ईश्वरो भवसि ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+O all-seeing (विश्वचक्षः (*viśvacakṣaḥ*), seer of everything) Soma, you who are the lord (प्रभोः (*prabhoḥ*), the one who surpasses all), your great (ऋभ्वसः (*ṛbhvasaḥ*); he says ऋभ्वा इति महन्नाम (*ṛbhvā iti mahannāma*), that is, it is a name for "great") rays (केतवः (*ketavaḥ*)) go round all the abodes (धामानि (*dhāmāni*)), the places of radiance, the bodies of the gods; that is, they illumine them. O Soma, you who are all-pervading (व्यानशिः (*vyānaśiḥ*), given to pervading), are purified with the supporting streams, the flowings of the juice (धर्मभिः (*dharmabhiḥ*)). You, the lord (पतिः (*patiḥ*)) of the whole world, rule, that is, you are the sovereign.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वचक्षः (*viśvacakṣaḥ*)—having the power to see everything
+- सोम (*soma*)—O Soma-deva
+- प्रभोः सतः (*prabhoḥ sataḥ*)—who are the lord of the whole world
+- ते (*te*)—your
+- ऋभ्वसः (*ṛbhvasaḥ*)—mighty
+- केतवः (*ketavaḥ*)—rays
+- विश्वा धामानि (*viśvā dhāmāni*)—all the worlds
+- परि यंति (*pari yaṃti*)—pervade and illumine
+- प्यानशिः (*pyānaśiḥ*)—you who are all-pervading **NOTE**
+- धर्मभिः (*dharmabhiḥ*)—with your streams
+- पवसे (*pavase*)—you flow
+- विश्वस्य धुवनस्य (*viśvasya dhuvanasya*)—of the whole world **NOTE**
+- पतिः (*patiḥ*)—you who are the lord
+- राजसि (*rājasi*)—you shine
+
+### Printed p. 560
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, who have the power to see the whole world, your mighty rays, you who are the lord of the entire world, pervade and illumine all the worlds. You, the all-pervading, flow with your streams. You, the lord of the whole world, shine.
+
+##### English translation
+All-seeing (Soma), the mighty rays of you, who who are the lord, encompass all the sphere ; pervading (all things) you flow, Soma, through your functions) ; you rule, lord of the whole world. **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भ॒यतः॒ पव॑मानस्य र॒श्मयो॑ ध्रु॒वस्य॑ स॒तः परि॑ यंति के॒तवः॑ ।  
+> यदी॑ प॒वित्रे॒ अधि॑ मृ॒ज्यते॒ हरिः॒ सत्ता॒ नि योना॑ क॒लशे॑षु सीदति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभयतः । पवमानस्य । रश्मयः । ध्रुवस्य । सतः । परि । यंति । केतवः ।  
+> यदि । पवित्रे । अधि । मृज्यते । हरिः । सत्ता । नि । योना । कलशेषु । सीदति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानस्य पूयमानस्य ध्रुवस्य स्वयमविचलितस्य सतः विद्यमानस्य सोमस्य केतवः प्रज्ञापकाः रश्मयः उभयतः इतश्चामुतश्च परि यंति परिगच्छंति । अभिषवसमय एवं भवति । यदि यदा पवित्रे देशापवित्रे हरिः हरितवर्णोऽयम् अधि मृज्यते तदानीं सत्ता सदनशीलोऽयं योनौ स्वीये स्थाने कलशेषु द्रोणकलशादिषु नि षीदति ॥
+
+##### Gist of the bhāṣya
+
+The rays (केतवः (*ketavaḥ*), the indicators) of Soma who is being purified, who is steady (ध्रुवस्य (*dhruvasya*), himself unmoved) and existing, go round on both sides, here and there. This happens at the time of pressing. When (यदि (*yadi*), that is, whenever) the green-hued (हरिः (*hariḥ*)) one is cleansed on the ten-fold filter (देशापवित्रे (*deśāpavitre*)), then he, sitting by nature (सत्ता (*sattā*)), settles in his own place, the vessels (कलशेषु (*kalaśeṣu*)), the Droṇa-kalaśa and the rest. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्रुवस्य सतः (*dhruvasya sataḥ*)—of him whose state is eternal
+- पवमानस्य (*pavamānasya*)—of Soma-deva
+- केशवः (*keśavaḥ*)—that are like banners **NOTE**
+- रश्मयः (*raśmayaḥ*)—rays
+- उभयतः (*ubhayataḥ*)—in both worlds
+- परि यंति (*pari yaṃti*)—come to move about
+- यदि (*yadi*)—when
+- हरिः (*hariḥ*)—Soma of the green colour
+- पवित्रे अधि (*pavitre adhi*)—on the ten-fold filter
+
+### Printed p. 561
+
+- मृज्यते (*mṛjyate*)—is purified, then
+- सत्ता (*sattā*)—Soma who resorts to his own place
+- योना (*yonā*)—which is his own place
+- कलशेषु (*kalaśeṣu*)—in the Droṇa-kalaśas
+- नि सीदति (*ni sīdati*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+The banner-like rays of Soma-deva, whose state is eternal, move about in both worlds. When Soma of the green colour is purified on the ten-fold filter, then Soma, who resorts to his own place, sits down in the Droṇa-kalaśas, his own place.
+
+##### English translation
+The rays, the tokens of the extant, steady, purified Soma, circulate from both worlds ; when the green-tinted juice is cleansed upon the filter, reposing it alights upon its station, the pitchers.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञस्य॑ के॒तुः प॑वते स्वध्व॒रः सोमो॑ दे॒वाना॒मुप॑ याति निष्कृ॒तम् ।  
+> स॒हस्र॑धारः॒ परि॒ कोश॑मर्षति॒ वृषा॑ प॒वित्र॒मत्ये॑ति॒ रोरु॑वत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञस्य । केतुः । पवते । सुऽअध्वरः । सोमः । देवानाम् । उप । याति । निःऽकृतम् ।  
+> सहस्रऽधारः । परि । कोशम् । अर्षति । वृषा । पवित्रम् । अति । एति । रोरुवत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्य केतुः प्रज्ञापकः स्वध्वरः शोभनयागः सोमः पवते पूयते अभिषूयते । तादृशः सोमः देवानां निष्कृतं संस्कृतं स्थानम् उप याति उपगच्छति । तदर्थं सहस्रधारः कोशं द्रोणकलशं परि अर्षति । ततस्तदर्थं वृषा सेक्तायं रोरुवत् शब्दयन् पवित्रम् अतिक्रम्य गच्छत्यधोदेशम् ॥
+
+##### Gist of the bhāṣya
+
+Soma, the sign (केतुः (*ketuḥ*), the indicator) of the sacrifice and of the good rite (स्वध्वरः (*svadhvaraḥ*)), flows, that is, is purified and pressed. Such a Soma goes to the made-ready (निष्कृतं (*niṣkṛtaṃ*), refined) place of the gods. For that he, thousand-streamed (सहस्रधारः (*sahasradhāraḥ*)), flows round the receptacle (कोशं (*kośaṃ*)), the Droṇa-kalaśa. Then, for that purpose, the showerer (वृषा (*vṛṣā*)), roaring (रोरुवत् (*roruvat*), making a sound), passes beyond the filter (पवित्रम् (*pavitram*)) and goes to the place below.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—to the sacrifice
+- केतुः (*ketuḥ*)—who is like a banner
+- स्वध्वरः (*svadhvaraḥ*)—and has an excellent rite, the
+- सोमः (*somaḥ*)—Soma-deva
+- पवते (*pavate*)—flows
+- देवानां (*devānāṃ*)—of the gods
+
+### Printed p. 562
+
+- निष्कृतं उप (*niṣkṛtaṃ upa*)—to the well-prepared place
+- उप याति (*upa yāti*)—goes and joins
+- सहस्रधारः (*sahasradhāraḥ*)—having many streams
+- कोशं परि (*kośaṃ pari*)—around in the Droṇa-kalaśa
+- अर्षति (*arṣati*)—moves about
+- वृषा (*vṛṣā*)—Soma, the granter of wishes
+- रोरुवत् (*roruvat*)—making a sound
+- पवित्रं (*pavitraṃ*)—the ten-fold filter
+- अत्येति (*atyeti*)—crosses over
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who is like a banner to the sacrifice and has an excellent rite, flows. He goes and joins the well-prepared place of the gods. With many streams he moves about around the Droṇa-kalaśa. Soma, the granter of wishes, crosses over the ten-fold filter, making a sound.
+
+##### English translation
+Soma, the signal of sacrifice, the object of pious worship, flows filtered; it approaches the abode of the gods ; the thousand-streamed rushes to the receptacle, the showerer passes roaring through the filter.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राजा॑ समु॒द्रं न॒द्यो॒३॒॑ वि गा॑हते॒ऽपामू॒र्मिं स॑चते॒ सिंधु॑षु श्रि॒तः ।  
+> अध्य॑स्था॒त्सानु॒ पव॑मानो अ॒व्ययं॒ नाभा॑ पृथि॒व्या ध॒रुणो॑ म॒हो दि॒वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राजा । समुद्रम् । नद्यः । वि । गाहते । अपाम् । ऊर्मिम् । सचते । सिंधुषु । श्रितः ।  
+> अधि । अस्थात् । सानु । पवमानः । अव्ययम् । नाभा । पृथिव्याः । धरुणः । महः । दिवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः राजा समुद्रम् अंतरिक्षं नद्यः तत्रत्या अपश्च वि गाहते । विगाह्य च अपामूर्मिं सचते उदकपूरं स्रवति । सिंधुषु उदकेषु ग्रहेषु वा श्रितः सन् । हूयमानः सन् रश्मिद्वारा सूर्यं प्राप्य अंतरिक्षे मेघेषु वर्तत इत्यर्थः । अस्यैव वृष्टिसाधनत्वात् । यद्वा । लुप्तोपममेतत् । समुद्रं नद्य इव सिंधुषु वसतीवरीषु श्रित आश्रितः सन् समुद्रम् अभिषुतसोमरसाधारपात्रं वि गाहते अभिषवात्पूर्वम् । पश्चात् पवमानः पूयमानः अव्ययं सानु समुच्छ्रितं दशापवित्रम् अध्यस्थात् अधितिष्ठति । कुत्र देशे। नाभा पृथिव्याः नाभिस्थानीये यज्ञे। तत्संबंधिनि हविर्धान इत्यर्थः । ‘ यज्ञमाहुर्भुवनस्य नाभिम् ' (तै. सं. ७.४.१८.२ ) इति श्रुतेः । कीदृशः । महो दिवः द्युलोकस्य धरुणः धर्ता ॥
+
+##### Gist of the bhāṣya
+
+This Soma, the king, plunges into the sea (समुद्रम् (*samudram*)), that is, the atmosphere, and into the rivers (नद्यः (*nadyaḥ*)), the waters there. Having plunged, he joins the wave of the waters (अपामूर्मिं (*apāmūrmiṃ*)), that is, he flows as a flood of water, resting (श्रितः (*śritaḥ*)) in the seas (सिंधुषु (*siṃdhuṣu*)), that is, in the waters or in the cups. Being invoked, he reaches the sun by means of the rays and abides in the clouds in the atmosphere, since he alone is the means of rain. Or else, this is a comparison with the word for the likeness left out: resting in the seas, in the Vasatīvarī waters, like rivers (going) to the sea, he plunges into the sea, the vessel that holds the pressed Soma juice, before the pressing. Afterwards, being purified, he stands (अध्यस्थात् (*adhyasthāt*)) upon the woollen, lofty ten-fold filter. In what place? On the navel of the earth (नाभा पृथिव्याः (*nābhā pṛthivyāḥ*)), that is, in the sacrifice, which stands in the position of the navel, in the oblation-shed (हविर्धान (*havirdhāna*)) connected with it, according to the Veda: यज्ञमाहुर्भुवनस्य नाभिम् (*yajñamāhurbhuvanasya nābhim*) (Tai. Saṃ. 7.4.18.2). Of what kind? The upholder (धरुणः (*dharuṇaḥ*)) of the great heaven.
+
+### Printed p. 563
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजा (*rājā*)—Soma, the king
+- समुद्रं (*samudraṃ*)—the sea
+- नद्यः (*nadyaḥ*)—and the rivers
+- वि गाहते (*vi gāhate*)—enters
+- अपां (*apāṃ*)—of the waters
+- ऊर्मि० (*ūrmi0*)—the waves too
+- सचेते (*sacete*)—joins **NOTE**
+- सिंधुषु (*siṃdhuṣu*)—in the Vasatīvarī waters
+- श्रितः (*śritaḥ*)—takes shelter
+- महः (*mahaḥ*)—of the great
+- दिवः (*divaḥ*)—world of Dyaus
+- धरुणः (*dharuṇaḥ*)—the supporter
+- पवमानः (*pavamānaḥ*)—and purifier, Soma
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- नाभा (*nābhā*)—in the sacrificial place that is the middle
+- अव्ययं सानु (*avyayaṃ sānu*)—in the upper part of the ten-fold filter
+- अध्यस्थात् (*adhyasthāt*)—sits, resting
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the king, enters the sea and the rivers. He joins the waves of the waters. He takes shelter in the Vasatīvarī waters. Soma, the supporter of the great world of Dyaus and the purifier, sits, resting in the upper part of the ten-fold filter, in the sacrificial place that is the middle of the earth.
+
+##### English translation
+The royal (Soma) plunges into the firmament, (and) the rivers (thereof) mixed with the streams, he associates with the wave of the waters ; being filtered he stands upon the uplifted woollen (filter) on the navel of the earth, the upholder of the vast heaven.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो न सानु॑ स्त॒नय॑न्नचिक्रद॒द्द्यौश्च॒ यस्य॑ पृथि॒वी च॒ धर्म॑भिः ।  
+> इंद्र॑स्य स॒ख्यं प॑वते वि॒वेवि॑द॒त्सोमः॑ पुना॒नः क॒लशे॑षु सीदति ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 557. Sūkta 86 intro, Ṛks 1-3, end of Ṛk 12 of sūkta 85
+**Progress note:** Done through printed p. 563. Sūkta 86 Ṛks 4-8 and Saṃhitā of Ṛk 9
