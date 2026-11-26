@@ -20648,6 +20648,287 @@ Metre: Gāyatrī.
 > त्वम॑ग्ने बृ॒हद्वयो॒ दधा॑सि देव दा॒शुषे॑ ।  
 > क॒विर्गृ॒हप॑ति॒र्युवा॑ ॥ १ ॥
 
+### Printed p. 537
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । अग्ने । बृहत् । वयः । दधासि । देव । दाशुषे ।  
+> कविः । गृहऽपतिः । युवा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान अग्ने कविः क्रांतकर्मा गृहपतिः गृहपालकः युवा नित्यतरुणः त्वं दाशुषे हविषां प्रदात्रे यजमानाय बृहद्वयः महदन्नं दधासि प्रयच्छसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O shining god Agni, you who are wise (कविः (*kaviḥ*), one whose works reach far), protector of the house, ever young, bestow great food on the sacrificer who gives the oblations; दधासि (*dadhāsi*) means that you give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O Agni, of divine nature
+- अग्ने (*agne*)—O Agni
+- कविः (*kaviḥ*)—the doer of rites, endowed with wisdom
+- गृहपतिः (*gṛhapatiḥ*)—protector of houses
+- युवा (*yuvā*)—ever young
+- त्वं (*tvaṃ*)—you yourself
+- दाशुषः (*dāśuṣaḥ*)—to the sacrificer who offers oblations
+- बृहत् (*bṛhat*)—abundant
+- वयः (*vayaḥ*)—food
+- दधासि (*dadhāsi*)—you are the giver
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of divine nature, you, the doer of rites endowed with wisdom, the protector of houses, ever young, are the giver of abundant food to the sacrificer who offers oblations.
+
+##### English translation
+Divine Agni, the ever young, the wise, the protector of the household, it is you who give abundant food to the worshipper.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स न॒ ईळा॑नया स॒ह दे॒वाँ अ॑ग्ने दुव॒स्युवा॑ ।  
+> चि॒किद्वि॑भान॒वा व॑ह ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । ईळानया । सह । देवान् । अग्ने । दुवस्युवा ।  
+> चिकित् । विभानो इति विऽभानो । आ । वह ॥ २ ॥
+
+### Printed p. 538
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विभानो विशिष्टदीप्ते अग्ने सः त्वं चिकित् ज्ञाता सन् नः अस्माकं दुवस्युवा परिचरणशीलया ईळानया स्तुवत्या वाचा सह देवान् आ वह ॥
+
+##### Gist of the bhāṣya
+
+O Agni of special brilliance, you, being the knower (चिकित् (*cikit*)), bring the gods with our speech of praise, which is given to service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभानो (*vibhāno*)—you who are endowed with special radiance
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—that same you, who have divine qualities
+- चिकित् (*cikit*)—as the one who knows everything
+- दुवस्या (*duvasyā*)—that which is fit for service
+- ईळानॆया सह (*īḷānèyā saha*)—with speech which is in the form of praise
+- देवान् (*devān*)—the gods
+- नः (*naḥ*)—to us
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with special radiance, you, that same famous one who has divine qualities, knowing everything, bring the gods to us with speech that is fit for service and is in the form of praise.
+
+##### English translation
+Resplendend one, the all-knower, bring the gods hither with this our reverential hymn of praise.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ ह स्विद्यु॒जा व॒यं चोदि॑ष्ठेन यविष्ठ्य ।  
+> अ॒भि ष्मो॒ वाज॑सातये ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । ह । स्वित् । युजा । वयम् । चोदिष्ठेन । यविष्ठ्य ।  
+> अभि । स्मः । वाजऽसातये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ्य युवतमाग्ने चोदिष्ठेन अतिशयेन धनानां प्रेरयित्रा त्वया युजा स्वित् ह सहायेनैव वयं भार्गवः प्रयोगो बार्हस्पत्याः पावका अग्नयो वा वाजसातये अन्नलाभाय अभि ष्मः शत्रूनभिभवेम ॥
+
+##### Gist of the bhāṣya
+
+O Yaviṣṭhya, youngest Agni, with you as our ally, who send wealth in the highest degree (चोदिष्ठेन (*codiṣṭhena*)), we, Prayoga the Bhārgava, or the Bārhaspatya Pāvaka Agnis, may overcome our enemies for the gain of food. **NOTE**
+
+### Printed p. 539
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युविष्ठ्य (*yuviṣṭhya*)—O Agni, exceedingly young
+- चोदिष्ठेन (*codiṣṭhena*)—who furnishes wealth in the highest degree
+- त्वया युजा स्वित् ह (*tvayā yujā svit ha*)—by your help alone
+- वयं (*vayaṃ*)—we, born in the lineage of Bhṛgu
+- वाजसातये (*vājasātaye*)—for the gain of food
+- अभि ष्मः (*abhi ṣmaḥ*)—will be able to defeat the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, exceedingly young, by your help alone, you who furnish wealth in the highest degree, we, born in the lineage of Bhṛgu, will be able to defeat the enemies for the gain of food.
+
+##### English translation
+O ever youthful one, with you as our ally, the sender of wealth, we overcome (our enemies) for the attainment of food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> औ॒र्व॒भृ॒गु॒वच्छुचि॑मप्नवान॒वदा हु॑वे ।  
+> अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> और्वभृगुऽवत् । शुचिम् । अप्नवानऽवत् । आ । हुवे ।  
+> अग्निम् । समुद्रऽवाससम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रवाससं समुद्रमध्यवर्तिनं वाडवं शुचिं शुद्धम् अग्निम् और्वभृगुवत् यथा और्वभृगुः अप्नवानवत् यथाप्नवानः तथा आ हुवे आह्वयाम्यहम् ॥
+
+##### Gist of the bhāṣya
+
+I invite the pure (शुचिं (*śuciṃ*), that is, clean) Agni, the Vāḍava, who dwells in the middle of the sea, as Aurva Bhṛgu did and as Apnavāna did.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रवाससं (*samudravāsasaṃ*)—he who is in the form of the submarine fire in the middle of the sea
+- शुचिं (*śuciṃ*)—and who is pure
+- अग्निं (*agniṃ*)—Agni
+- और्वभृगुवत् (*aurvabhṛguvat*)—like Aurva Bhṛgu
+- अप्नवानवत् (*apnavānavat*)—and like Apnavāna
+- आ हुवे (*ā huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+I pray and call Agni, who is in the form of the submarine fire in the middle of the sea and is pure, as Aurva Bhṛgu did and as Apnavāna did.
+
+### Printed p. 540
+
+##### English translation
+Like Aurva Bhrigu and like Apnavana, I invoke the pure Agni, dwelling in the midst of the sea.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हु॒वे वात॑स्वनं क॒विं प॒र्जन्य॑क्रंद्यं॒ सहः॑ ।  
+> अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हुवे । वातऽस्वनम् । कविम् । पर्जन्यऽक्रंद्यम् । सहः ।  
+> अग्निम् । समुद्रऽवाससम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातस्वनं वातसदृशध्वनिं कविं क्रांतकर्माणं पर्जन्यक्रंद्यं पर्जन्यसदृशक्रंदनं सहः सहस्विनं वाडवम् अग्निं हुवे ह्वयामि । अन्यद्गतम् ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+I call Agni, the Vāḍava, who sounds like the wind, who is wise (one whose works reach far), who roars like Parjanya, and who is mighty (सहस्विनं (*sahasvinaṃ*)). The rest has gone before (अन्यद्गतम् (*anyadgatam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातस्वनं (*vātasvanaṃ*)—he who makes a sound like the wind
+- कविं (*kaviṃ*)—the doer of rites, endowed with wisdom
+- पर्जन्यक्रंद्यं (*parjanyakraṃdyaṃ*)—he who roars like Parjanya
+- सहः (*sahaḥ*)—he who is endowed with strength
+- समुद्रवाससं (*samudravāsasaṃ*)—he who is in the middle of the sea
+- अग्निं (*agniṃ*)—the submarine fire
+- हुवे (*huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+I pray and call the submarine fire, who makes a sound like the wind, is the doer of rites endowed with wisdom, roars like Parjanya, is endowed with strength and is in the middle of the sea.
+
+##### English translation
+I invoke Agni dwelling in the midst of the sea, the wise one, roaring like the wind, mighty, with a voice like Parjanya's.
+
+### Printed p. 541
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ स॒वं स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिं हु॑वे ।  
+> अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सवम् । सवितुः । यथा । भगस्यऽइव । भुजिम् । हुवे ।  
+> अग्निम् । समुद्रऽवाससम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सवितुः प्रेरकस्य देवस्य सवं यथा प्रसवमिव भगस्येव भुजिं भगाख्यस्य देवस्य भोगमिव च समुद्रवाससम् अग्निं हुवे आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+I call Agni, who dwells in the sea, like the impulse (प्रसवमिव (*prasavamiva*)) of Savitṛ, the god who impels, and like the enjoyment (भोगमिव (*bhogamiva*)) of the god named Bhaga. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितुः (*savituḥ*)—of Savitṛ, the impeller of the world
+- सवं यथा (*savaṃ yathā*)—he who is like the energy
+- भगस्य (*bhagasya*)—given by Bhaga
+- भुजिं इव (*bhujiṃ iva*)—he who is like the enjoyment
+- समुद्रवाससं (*samudravāsasaṃ*)—and who stands in the middle of the sea
+- अग्निं (*agniṃ*)—the submarine fire
+- आ हुवे (*ā huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+I pray and call the submarine fire, who is like the energy of Savitṛ, the impeller of the world, like the enjoyment given by Bhaga, and who stands in the middle of the sea.
+
+##### English translation
+I invoke Agni dwelling in the midst of the sea, like the energy of Savitri, like the enjoyments granted by Bhaga.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं वो॑ वृ॒धंत॑मध्व॒राणां॑ पुरू॒तम॑म् ।  
+> अच्छा॒ नप्त्रे॒ सह॑स्वते ॥ ७ ॥
+
+### Printed p. 542
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निम् । वः । वृधंतम् । अध्वराणाम् । पुरुऽतमम् ।  
+> अच्छ । नप्त्रे । सहस्वते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्वराणाम् अहिंस्यानां बलिनां नप्त्रे बंधुं सहस्वते बलवंतम्। विभक्तिव्यत्ययः । वृधंतं ज्वालाभिर्वर्धमानं पुरूतमम् अतिशयेन बहुम् अग्निम् ऋत्विजः वः यूयम् अच्छ अभिगच्छत ॥
+
+##### Gist of the bhāṣya
+
+O priests, approach (अच्छ (*accha*)) Agni, the kinsman (नप्त्रे (*naptre*), that is, relative) of the inviolable and mighty ones (अध्वराणाम् (*adhvarāṇām*)), of the strong (सहस्वते (*sahasvate*)), who grows by his flames (वृधंतं (*vṛdhaṃtaṃ*)) and is exceedingly many (पुरूतमम् (*purūtamam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests)
+- अध्वराणां (*adhvarāṇāṃ*)—to those who have irresistible power
+- नप्त्रे (*naptre*)—who is a kinsman
+- सहस्वते (*sahasvate*)—who is endowed with strength
+- वृधंतं (*vṛdhaṃtaṃ*)—who grows in the form of flames
+- पुरूतमं (*purūtamaṃ*)—who has forms of many kinds
+- अग्निं (*agniṃ*)—Agni
+- वः (*vaḥ*)—you
+- अच्छ (*accha*)—approach for worship
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, approach for worship Agni, who is a kinsman to those who have irresistible power, who is endowed with strength, who grows in the form of flames and who has forms of many kinds.
+
+##### English translation
+(Draw) near to Agni the strong, the mightiest, him who expands (with his flames), the grandson of the invincible ones.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं यथा॑ न आ॒भुव॒त्त्वष्टा॑ रू॒पेव॒ तक्ष्या॑ ।  
+> अ॒स्य क्रत्वा॒ यश॑स्वतः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । यथा । नः । आऽभुवत् । त्वष्टा । रूपाऽइव । तक्ष्या ।  
+> अस्य । क्रत्वा । यशस्वतः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 536. Vol 25 pp. 531-536: Ṛk 13 end, Ṛk 14-16 of sūkta 101, sūkta 102 introduction, Ṛk 1
+**Progress note:** Done through printed p. 542. Vol 25 pp. 537-542: sūkta 102 Ṛks 1-8
