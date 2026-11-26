@@ -29367,6 +29367,235 @@ The mantras given above as examples are the opening words of the respective Ṛk
 > एव । नः । इंदो इति । अभि । देवनीतिं । परि । स्रव । नभः । अर्णः । चमूषु ।  
 > सोमः । अस्मभ्यं । काम्यं । बृहंतं । रयिं । ददातु । वीरवंतं । उग्रं ॥ २१ ॥
 
+### Printed p. 788
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम नोऽस्मदीयमेव देववीतिं । देवानां वीतिर्भक्षणं
+> गमनं वा यस्मिन् स देववीतिर्यज्ञः । तमभिलक्ष्य नभो नभसो द्युलोकादर्ण
+> उदकं । अनेन पवित्रान्निर्गतः सोमरसोऽभिधीयते । तं रसं चमूषु चमसेषु
+> परि स्रव । परितः क्षर । ततः सोमः काम्यं काम्यमानं बृहंतं प्रवृद्धं वीरवंतं
+> पुत्रयुक्तमुग्रमुद्दूर्णबलं रयिं धनमस्सभ्यं ददातु । प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, towards our sacrifice alone (देववीतिं (*devavītiṃ*): the sacrifice in which the gods eat or go) pour the water from the heavenly world, the sky; by this the Soma juice that has come out of the filter is denoted. Pour that juice all around into the cups. Then may Soma give us wealth that is desired, great, accompanied by sons, and of overflowing strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- न एव देवनीतिं अभि (*na eva devanītiṃ abhi*)—looking to our sacrifice alone **NOTE**
+- नभः (*nabhaḥ*)—from the heavenly world
+- अर्णः (*arṇaḥ*)—water
+- चमूषु (*camūṣu*)—in the Chamu vessels
+- परि स्रव (*pari srava*)—pour
+- सोमः (*somaḥ*)—Soma
+- काम्यं (*kāmyaṃ*)—attractive
+- बृहंतं (*bṛhaṃtaṃ*)—grown great
+- नीरवंतं (*nīravaṃtaṃ*)—accompanied by sons **NOTE**
+- उग्रं (*ugraṃ*)—possessing exceeding strength **NOTE**
+- रयिं (*rayiṃ*)—wealth
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- ददातु (*dadātu*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, looking to our sacrifice alone, pour the water from the heavenly world into the Chamu vessels. May Soma give us wealth that is attractive, grown great, accompanied by sons, and possessed of exceeding strength.
+
+##### English translation
+So, Indu, at our sacrifice pour the water from the firmament into the vessels; may Soma bestow upon us desirable riches in abundance with male offspring and strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+देववीतिं- देवानां वीतिर्भक्षणं गमनं वा यस्मिन् स देववीतिर्यज्ञः । (*devavītiṃ- devānāṃ vītirbhakṣaṇaṃ gamanaṃ vā yasmin sa devavītiryajñaḥ |*) The place where the gods come from heaven and eat the oblation (through the mouth of Agni) is called a sacrifice. In sacrifices the officiating priests, the Hota and the others, invite the deities they favour with the recitation of mantras and offer oblations to them in the fire; this rite, in which the gods accept them, is called a sacrifice, the commentator has explained the meaning.
+
+नभः अर्णः चमूषु परिस्रव- (*nabhaḥ arṇaḥ camūṣu parisrava-*) अनेन पवित्रान्निर्गतः सोमरसोऽभिधीयते । (*anena pavitrānnirgataḥ somaraso 'bhidhīyate |*) O Soma, pour the water that is in heaven into these Chamu vessels. What is meant here by the waters of heaven? In the past the Soma plants were in heaven. Gayatri, in the form of a hawk,
+
+### Printed p. 789
+
+went and brought them to the earth. In the sacrifice the officiating priests crush those plants with stones and squeeze out the juice; the juice squeezed out flows to the vessel called the dashapavitra, placed for filtering. This juice is produced from the Soma plants. The Soma plants were in heaven. Therefore the seer here describes the Soma juice as the juice that was in heaven.
+
+सोमः अस्मभ्यं बृहंतं उग्रं वीरवंतं काम्यं रयिं ददातु (*somaḥ asmabhyaṃ bṛhaṃtaṃ ugraṃ vīravaṃtaṃ kāmyaṃ rayiṃ dadātu*)—The meaning is that the divine Soma should graciously give us the wealth that we desire and sons who are growing in strength and heroic. In many Ṛks of the Ṛgveda, and especially in the last Ṛks, which conclude a hymn, the seers are found praying to the deities to give heroic sons and the like. Wealth is a thing needed by all; but what is the need of heroic sons and the like? In that ancient time the Aryas had to wage fierce wars with the Anaryas, the former inhabitants of this land, who were wicked. These black people, the former inhabitants, used to fall upon the Aryas at night and fight with deceit and crooked devices. They used to cause obstruction to sacrifices and the like. Therefore, to protect themselves, and to advance in the country and settle here and there, the Aryas had to wage terrible wars with the black people. For these reasons the need for heroic warriors was very great at that time. Therefore it was natural to pray to the deities to grant heroic sons and the like; such is the meaning.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तक्ष॒द्यदी॒ मन॑सो॒ वेन॑तो॒ वाग्जेष्ठ॑स्य वा॒ धर्म॑णि॒ क्षोरनी॑के ।  
+> आदी॑माय॒न्वर॒मा वा॑वशा॒ना जुष्टं॒ पतिं॑ क॒लशे॒ गाव॒  ॑
+> इंदुं ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तक्षत् । यदि । मनसः । वेनतः । वाक् । जेष्ठस्य । वा । धर्मणि । क्षोः । अनीके ।  
+> आत् । ईं । आयन् । वरं । आ । वावशानाः । जुष्टं । पतिं । कलशे । गावः । इंदुं ॥
+
+### Printed p. 790
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेनतः । वेनो वेनतेः कांतिकर्मण इति यास्कः । नि. १०-३८ । कामयमानस्य मनसः । मन्यतेः स्तुतिकर्मणः । स्तोतुर्वाक् स्तुतिलक्षणा यद्येनं तक्षत्
+> संस्करोति । वाशब्द उपमार्थे । यथा धर्मणि ॥ निमित्तात्कर्मसंयोगे ।
+> पा. २-३-३६-६ । इति सप्तमी ॥ धारकं योगक्षेमविषयं कर्मोद्दिश्य क्षोः
+> शब्दायमानस्यानीके मुखे तत्र स्थितस्य जानपदिकस्य वाग्जेष्ठस्य । द्वितीयार्थे
+> षष्ट् । प्रशस्यतमं राजानं यथा स्तौति तथा स्तोतुर्वाक् सोमं स्तौतीत्यर्थः ।
+> आदनंतरमेव वरं वरणेयं जुष्टं देवानां मदाय पर्याप्तं पतिं सर्वस्य
+> पालकं कलशे स्थितमिंदुमीमेनं सोमं वावशानाः कामयमाना गाव आयन् ।
+> पयसा स्वीयेन मिश्रयितुमागच्छंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes वेनतः (*venataḥ*) of the mind that desires, citing Yāska (Ni. 10-38): वेनो वेनतेः कांतिकर्मण इति यास्कः । (*veno venateḥ kāṃtikarmaṇa iti yāskaḥ |*) The root मन्यतेः (*manyateḥ*) is of the sense of praise. If the speech of the worshipper, which consists of praise, fashions him, that is, adorns him; the word वा (*vā*) is in the sense of comparison. As, for the sake of a rite that supports and concerns the acquisition and preservation of goods, the speech of the one who is foremost in speech among the countryfolk standing there, in front of the one who sounds, praises the most praiseworthy king, so the speech of the worshipper praises Soma. Then immediately the cows, desiring this excellent Indu, Soma, who is dear to the gods, sufficient for exhilaration, the lord and protector of all, abiding in the vessel, come to mix him with their own milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसः (*manasaḥ*)—desiring to praise
+- वेनतः (*venataḥ*)—of the praiser who wishes
+- वाक् (*vāk*)—the speech of praise
+- क्षोः (*kṣoḥ*)—that makes a noise
+- अनीके (*anīke*)—in the front of the army
+- ज्येष्ठस्य (*jyeṣṭhasya*)—who is the leader **NOTE**
+- धर्मणि (*dharmaṇi*)—the king who is the supporter of the people
+- वा (*vā*)—in what manner
+- यदि तक्षत् (*yadi takṣat*)—in that manner as he praises
+- वेनतः वाक् (*venataḥ vāk*)—the speech of the praiser praises Soma
+- आत् (*āt*)—afterwards
+- ईं (*īṃ*)—this Soma
+- वावशानाः (*vāvaśānāḥ*)—desiring
+- गावः (*gāvaḥ*)—cows
+- कलशे (*kalaśe*)—in the Drona vessel
+- जुष्टं (*juṣṭaṃ*)—pressed for the satisfaction of the gods
+- पतिं (*patiṃ*)—the protector of all
+- वरं (*varaṃ*)—needed by all
+- इंदु (*iṃdu*)—this divine Soma **NOTE**
+- आ अयन् (*ā ayan*)—(in order to mix with their milk and the like) approach
+
+##### भावार्थ (Bhāvārtha)
+
+As the speech of the praisers, the bards and eulogists, praises the king who is the leader of the army at its front and the supporter of the people, that is, of the subjects, so the speech of the officiating priests who are praising praises this Soma. Afterwards the cows, wishing to go to the Soma juice, go to the Soma juice that is needed by all, that has been pressed for the satisfaction of the gods and is in the Drona vessel, in order to mix their milk with it.
+
+##### English translation
+When the praise of the zealous worshipper sanctifies him as that of a noisy (crowd) in front (praises) a distinguished (prince) for the support (he affords) ; then the cows come to the excellent exhilarating Indu, the lord (of all, abiding) in the pitcher, eager to gratify him (with their milk).
+
+### Printed p. 791
+
+##### विशेषविषयगळु (Special Topics)
+
+As the bards praise with their words of praise the king who is the leader of the army and the supporter of the subjects, so in the sacrifice the officiating priests praise with various words of praise the Soma juice that has just been pressed for the satisfaction of the gods. Afterwards they mix with that Soma juice the admixtures such as milk obtained from the cows. This is the chief meaning.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र दा॑नु॒दो दि॒व्यो दा॑नुपि॒न्व ऋ॒तमृ॒ताय॑ पवते सुमे॒धाः ।  
+> ध॒र्मा भु॑वद्वृज॒न्य॑स्य॒ राजा॒ प्र र॒श्मिभि॑र्द॒शभि॑र्भारि॒ भूम॑ ॥२३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । दानुदः । दिव्यः । दानुपिन्वः । ऋतं । ऋताय । पवते । सुमेधाः ।  
+> धर्मा । भुवत् । वृजन्यस्य । राजा । प्र । रश्मिभिः । दशभिः । भारि । भूम ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिव्यो दिवि भवो दानुदो दातृभ्यो धनादीनां दाता। तदेवाह! दानुपिन्वः॥
+> पिवि सेचने । कर्मण्यण् । पा. ३-२-१ । इत्यण् ॥ दातृभ्यः कामानां क्षारयिता
+> सुमेधाः शोभनप्रज्ञः सोम ऋताय सत्यभूतायेंद्रायर्तं सत्यभूतमात्मीयं रसं पवते । प्रकर्षेण क्षरति । राजा दीप्यमानः सोमो वृजन्यस्य साधुबलस्य धर्मा धारयिता भुवत् । भवति । किंच दशभिरेतत्संख्याकाभी रश्मिभिः कर्मकरणार्थमश्नुवानाभिरंगुलिभिर्भूम प्रभूतं प्र भारि । प्रधार्यते ॥ चिणि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Soma is divine, born in heaven, and दानुदो (*dānudo*), the giver of wealth and the like to the givers; he says this again with दानुपिन्वः (*dānupinvaḥ*), the one who makes the desires flow to the givers. Soma, of good understanding, flows forth his own true juice for Indra, who is of the nature of truth. The shining Soma becomes the upholder of good strength. Further, he is borne forth abundantly by the ten rays, that is, by the ten fingers that are engaged for the performance of the rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिव्यः (*divyaḥ*)—born in the heavenly world
+- दानुदः (*dānudaḥ*)—a benefactor of the givers
+- दानुपिन्वः (*dānupinvaḥ*)—the bestower of what they wish on the givers
+- सुमेधाः (*sumedhāḥ*)—who has excellent understanding; Soma
+- ऋताय (*ṛtāya*)—for Indra, who is of the nature of truth
+- ऋतं (*ṛtaṃ*)—his own juice, which is of the nature of truth
+- प्र पवते (*pra pavate*)—makes it flow
+- राजा (*rājā*)—Soma, who is shining
+- वृजन्यस्य (*vṛjanyasya*)—of excellent strength
+- धर्मा (*dharmā*)—as the upholder
+- भुवत् (*bhuvat*)—he is
+- दशभिः रश्मिभिः (*daśabhiḥ raśmibhiḥ*)—by the ten fingers
+- भूम (*bhūma*)—abundantly
+- प्र भारि (*pra bhāri*)—he is held
+
+### Printed p. 792
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is born in the heavenly world, is a benefactor of the givers, is the bestower on them of what they wish, and has excellent understanding, makes flow his own juice, which is of the nature of truth, for Indra, who is of the nature of truth. The shining Soma is the upholder of excellent strength. He is held abundantly by the ten fingers.
+
+##### English translation
+The divine benefactor of givers, pouring (boons) on givers, the intelligent
+(Soma) distils his true beverage for true (Indra); the radiant (Soma) is the
+upholder of strength, he is entirely restrained by the ten fingers.
+
+##### विशेषविषयगळु (Special Topics)
+
+दानुदः- दातृभ्यो धनादीनां दाता । (*dānudaḥ- dātṛbhyo dhanādīnāṃ dātā |*) He who gives wealth and the like to those who pray to him.
+
+दानुपिन्नः— (*dānupinnaḥ—*) **NOTE** पिवि सेचने । (*pivi secane |*) दातृभ्यः कामानां क्षारयिता । (*dātṛbhyaḥ kāmānāṃ kṣārayitā |*) One who streams out what is desired to those who wish for wealth and the like, as a rain-giver of desires, that is, one who pours it out. As juice streams from the plants and as rain falls from a cloud, so he pours out the desired objects to the praisers, that is, gives them as much as is wished; such is the meaning.
+
+सुमेधाः ऋतं ऋताय पवते— (*sumedhāḥ ṛtaṃ ṛtāya pavate—*) The Soma, who has excellent knowledge, that is, who is all-knowing, streams his own true juice for Indra, who is of a true nature. That is, for Indra's drinking the juice streams from the plants and comes flowing.
+
+दिव्यः— (*divyaḥ—*) दिवि भवः । (*divi bhavaḥ |*) Grown or existing in heaven; it is well known that the Soma plants were formerly in heaven.
+
+राजा वृजन्यस्य धर्मा भुवत्— (*rājā vṛjanyasya dharmā bhuvat—*) Soma, the lord of all, is the master of excellent strength (power); by drinking Soma strength increases. Therefore he is called the increaser of strength.
+
+रश्मिभिः दशभिः भूम प्र भारि— (*raśmibhiḥ daśabhiḥ bhūma pra bhāri—*) The ten fingers of the officiating priests hold this Soma. That is, the officiating priests squeeze out the Soma juice with the ten fingers of their hands; such is the meaning.
+
+### Printed p. 793
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒वित्रे॑भिः॒ पव॑मानो नृ॒चक्षा॒ राजा॑ दे॒वाना॑मु॒त मर्त्या॑नां ।  
+> द्वि॒ता भु॑वद्रयि॒पती॑ रयि॒णामृ॒तं भ॑र॒त्सुभृ॑तं॒ चार्विंदुः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवित्रेभिः ' पवमानः । नृचक्षाः । राजा । देवानां । उत । मर्त्यानां ।  
+> द्विता । भुवत् । रयिपतिः । रयाणां । ऋतं । भरत् । सुभृतं । चारु । इंदुः ॥२४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवित्रेभिः पवित्र्यैः पवमानः पूयमानो नृचक्षा नृणां फलाफलयोर्द्रष्टा
+> तथा देवानामिंद्रादीनामुतापि च मर्त्यानां मनुष्याणां एवमुभयेषां
+> जनानां राजा रयिपतिर्धनस्य पतिः न त्वल्पस्य पतिः किंतु रयीणां बहूनां धनानां
+> स्वामिा। वृत्त्यवृत्तिभ्यां स्वामित्वं बाहुल्यं च विवक्ष्यते । ईदृशः सोमो द्विता द्विधा
+> देवेष्टपि च मनुष्येषु भुवत् । भवति । सोऽयमिंदुः सोमः सुभृतं चारु
+> कल्याणमृतमुदकं भरत् । बिभर्ति ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified with the filters, is the seer of men, the beholder of the fruit and non-fruit of men's acts; and likewise he is the king of the gods, Indra and the others, and of mortals, human beings; thus he is the king of both groups of people. He is रयिपतिः (*rayipatiḥ*), the lord of wealth, not the lord of little but of many riches; Sāyaṇa says that both lordship and abundance are intended. Such a Soma becomes twofold, among the gods as well as among men. This Indu, Soma, bears water that is well borne and auspicious.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवित्रेभिः (*pavitrebhiḥ*)—by the dashapavitra filters
+- पवमानः (*pavamānaḥ*)—who becomes purified
+- नृचक्षाः (*nṛcakṣāḥ*)—who watches the dealings of men
+- देवानां (*devānāṃ*)—of the gods
+- उत (*uta*)—and
+- मर्त्यानां (*martyānāṃ*)—of men
+- राजा (*rājā*)—the lord
+- रयीणां रयिपतिः (*rayīṇāṃ rayipatiḥ*)—the owner of abundant wealth; Soma **NOTE**
+- द्विता (*dvitā*)—in two forms
+- भुवत् (*bhuvat*)—he is
+- इंदुः (*iṃduḥ*)—such a great Soma
+- सुभृतं (*subhṛtaṃ*)—well stored
+- चारु (*cāru*)—auspicious
+- ऋतं (*ṛtaṃ*)—water
+- भरत् (*bharat*)—he bears
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is purified by the dashapavitra and the other filters, who watches the dealings of men, who is the lord of the gods and of men and the owner of abundant wealth, exists in two forms. Such a great Soma bears water that is well stored and auspicious.
+
 ---
 
-**Progress note:** Done through printed p. 787. Sūkta 97 Ṛk 17 end to Ṛk 21 Pada (pp. 782-787)
+**Progress note:** Done through printed p. 793. Sūkta 97 Ṛk 21 bhāṣya to Ṛk 24 (pp. 788-793)
