@@ -15830,6 +15830,215 @@ The powerful exhilarating Soma-juices besprinkle Indra who dwells in heaven, the
 
 The ten fingers of the arms drive this Soma all around like a chariot, in the place of sacrifice, which is the region near the Earth. When the venerable praisers produce the place for this Soma,
 
+### Printed p. 424
+
+then the Soma juices enter the vessels, and they enter the hidden milk of the cow.
+
+##### English translation
+The ten fingers of the arms urge him near to the ground (of the sacrificial altar) like a chariot ; he goes (to the vessels), he approaches the concealed (milk) of the cow when the praisers produce his resting-place.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्ये॒नो न योनिं॒ सद॑नं धि॒या कृ॒तं हि॑र॒ण्यय॑मा॒सदं॑ दे॒व एष॑ति ।  
+> ए रि॑णंति ब॒र्हिषि॑ प्रि॒यं गि॒राश्वो॒ न दे॒वाँ अप्ये॑ति य॒ज्ञियः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्येनः । न । योनिम् । सदनम् । धिया । कृतम् । हिरण्ययम् । आऽसदम् । देवः । आ । ईषति ।  
+> आ । ईमिति । रिणंति । बर्हिषि । प्रियम् । गिरा । अश्वः । न । देवान् । अपि । एति । यज्ञियः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवः द्योतमानः पवमानः धिया स्वकर्मणा कृतं संपादितं हिरण्ययं हिरण्मयम् आसदम् आसंद्यभिधानम् एषति अभिमुखं गच्छति । ईषतेर्गत्यर्थस्य व्यत्ययेन परस्मैपदम् । तत्र दृष्टांतः । श्येनो न योनिम् । कुलायं यथा श्येनः पक्षी प्रविशति तद्वत् । ततः ईम् एनं प्रियं प्रीणयितारं सोमं गिरा स्तुत्या बर्हिषि यज्ञे आ रिणंति स्तोतारोऽभिमुखं प्रेरयंति । स्तुवंतीत्यर्थः । अनंतरं यज्ञियः यज्ञार्हः यष्टव्योऽयं सोमः अश्वो न अश्व इव त्वरया देवान् अप्येति अभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+The shining Pavamāna goes toward the golden seat named Āsada, made by his own work (धिया (*dhiyā*) is explained as "by his own rite"); the verb एषति (*eṣati*) means "goes toward" and takes the parasmaipada form by a Vedic variation. The illustration: as the hawk enters its nest. Then the worshippers urge this dear, gladdening Soma toward the sacred grass at the sacrifice with praise, that is, they praise him. Thereafter this Soma, who is worthy of sacrifice and is to be offered to, goes swiftly to the gods like a horse.
+
+### Printed p. 425
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्येनः (*śyenaḥ*)—the hawk
+- योनिं न (*yoniṃ na*)—as it goes to its own nest
+- देवः (*devaḥ*)—the shining Pavamāna
+- धिया (*dhiyā*)—by his own rite
+- कृतं (*kṛtaṃ*)—produced
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- आसदं (*āsadaṃ*)—the seat
+- एषति (*eṣati*)—he reaches
+- प्रियं (*priyaṃ*)—the beloved
+- ईं (*īṃ*)—this Soma **NOTE**
+- गिरा (*girā*)—with praises
+- बर्हिषि (*barhiṣi*)—in the sacrifices
+- आ रिणंति (*ā riṇaṃti*)—the praisers urge on
+- यज्जियः (*yajjiyaḥ*)—the adorable Soma **NOTE**
+- अश्वो न (*aśvo na*)—like a horse
+- देवान् (*devān*)—the gods
+- अप्येति (*apyeti*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+As the hawk goes to its nest, the shining Pavamāna reaches the vessel, which is made of gold and was produced by his own rite. The praisers urge on this beloved Soma in the sacrifices with praises. The adorable Soma approaches the gods like a horse. **NOTE**
+
+##### English translation
+The shining (Soma) approaches the golden seat the station constructed by his holy rites, as a falcon (approaches) his net ; (the worshippers) send the well-beloved by their praise to the sacred grass; the adorable Soma proceeds to the gods like a horse.
+
+##### विशेषविषयगळु (Special Topics)
+
+The use of this Ṛk, श्येनो न योनिं (*śyeno na yoniṃ*), is in the Abhiṣṭaveṣṭi (a rite of praise), as is explained by the Āśvalāyana Śrauta-sūtra rule संप्रेषितः श्येनो न योनिं सदनं धिया कृतं (*saṃpreṣitaḥ śyeno na yoniṃ sadanaṃ dhiyā kṛtaṃ*) (Ā. 4-7). This Ṛk is also to be recited in the sacrificial subsidiary rite called Agnīṣoma-praṇayana, as the Āśvalāyana Śrauta-sūtra explains by the rule अंतश्च प्रागा अदितिर्भवासि श्येनो न योनिं सदनं धिया कृतं (*aṃtaśca prāgā aditirbhavāsi śyeno na yoniṃ sadanaṃ dhiyā kṛtaṃ*) (Ā. 4-10).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॒ व्य॑क्तो अरु॒षो दि॒वः क॒विर्वृषा॑ त्रिपृ॒ष्ठो अ॑नविष्ट॒ गा अ॒भि ।  
+> स॒हस्र॑णीति॒र्यतिः॑ परा॒यती॑ रे॒भो न पू॒र्वीरु॒षसो॒ वि रा॑जति ॥ ७ ॥
+
+### Printed p. 426
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । विऽअक्तः । अरुषः । दिवः । कविः । वृषा । त्रिऽपृष्ठः । अनविष्ट । गाः । अभि ।  
+> सहस्रऽनीतिः । यतिः । पराऽयतिः । रेभः । न । पूर्वीः । उषसः । वि । राजति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुषः आरोचमानः कविः क्रांतप्रज्ञः सोमः व्यक्तः विस्पष्टधारायुक्तः । यद्वा। वसतीवरीभिर्विशेषेणोक्तः सिक्तः सन् दिवः अंतरिक्षात् परा पराङ्मुखम् आगच्छति । पवित्रात् द्रोणकलशं परागच्छतीत्यर्थः । वृषा वृषभः त्रिपृष्ठः । त्रीणि सवनानि पृष्ठान्यस्येति त्रिपृष्ठः सोमस्य सर्वेषु विद्यमानत्वात् । तस्मात् त्रिपृष्ठः सोमः गाः स्तोतृभिः क्रियमाणाः स्तुतीरभिलक्ष्य अनविष्ट शब्दायते । 'नु शब्दे ' । किंच सहस्रणीतिः सहस्रनयनः। प्रयोगबाहुल्यापेक्षं ग्रहेषु चमसेषु च सहस्रविधनयनत्वम् । अत एव यतिः पात्रादीनि प्रत्यागंता परायतिः कलशान् प्रति परागंता भवति । सोऽयं पूर्वीः बह्वीः उषसः । ‘ कालाध्वनो:०' इति द्वितीया । बहुषूष:कालेषु रेभो न । रेभृ शब्दे' । शब्दायमानः स्तोतेव वि राजति विशेषेण दीप्यते । तेषु सोमस्याभिषूयमाणत्वात् । स्तोता खलु देवानां स्तुतिकरणेन राजति ॥
+
+##### Gist of the bhāṣya
+
+The radiant, wise Soma is "manifest" (व्यक्तः (*vyaktaḥ*)), that is, possessed of clearly distinct streams; or else, he is specially sprinkled with the Vasatīvarī waters. Thus he comes from the sky (the atmosphere) turned toward the Droṇa vessel, from the filter to the Droṇa-kalaśa. He is the showerer and "three-backed": the three pressings are his backs, since Soma is present in all of them. Therefore the three-backed Soma sounds toward the praises made by the singers. Further, he is "thousand-led": because of the great number of ritual applications, he is led in a thousand ways in the cups and the beakers. For this reason he is "the one who goes" back to the vessels and "the one who goes forth" to the kalaśas. This Soma, through many dawns (the accusative expresses duration), shines distinctly like a sounding reciter, because at those times Soma is being pressed; the reciter indeed shines by praising the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुषः (*aruṣaḥ*)—the golden-hued one
+- कविः (*kaviḥ*)—the wise Soma
+- व्यक्तः (*vyaktaḥ*)—with separate streams
+- दिवः (*divaḥ*)—from the atmosphere
+- परा (*parā*)—he comes toward the Droṇa-kalaśa
+- वृषा (*vṛṣā*)—the giver of desired things
+- त्रिपृष्ठः (*tripṛṣṭhaḥ*)—the Soma who is offered at all three pressing times
+- गाः अभि (*gāḥ abhi*)—favourably to the praise
+- अनविष्ट (*anaviṣṭa*)—he makes a sound that is an answer
+- सहस्रणीतिः (*sahasraṇītiḥ*)—he who is carried from many directions
+- यतिः (*yatiḥ*)—he who comes to the vessels
+- परायतिः (*parāyatiḥ*)—the Soma who goes again to the kalaśas and the like
+- पूर्वीः (*pūrvīḥ*)—many
+- उषसः (*uṣasaḥ*)—in the dawns
+- रेभो न (*rebho na*)—like a praiser
+- वि राजति (*vi rājati*)—he shines
+
+##### भावार्थ (Bhāvārtha)
+
+The golden-hued, wise Soma comes from the atmosphere in separate streams toward the Droṇa-kalaśa. The giver of desired things, the Soma who is offered at all three pressing times,
+
+### Printed p. 427
+
+makes a sound favourable to the praise. The Soma who is carried from many directions, who comes to the vessels and goes again to the kalaśas and the like, shines through many dawns like a praiser.
+
+##### English translation
+Radiant, wise, flowing in seperate streams, (the Soma descends) from the firmament; the showerer offered at the three libations responds to the praises (of the worshippers); led in a thousand directions, coming and going, he shines at many a sunrise like one who sings praises (to the gods).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे॒षं रू॒पं कृ॑णुते॒ वर्णो॑ अस्य॒ स यत्राश॑य॒त्समृ॑ता॒ सेध॑ति स्रि॒धः ।  
+> अ॒प्सा या॑ति स्व॒धया॒ दैव्यं॒ जनं॒ सं सु॑ष्टु॒ती नस॑ते॒ सं गोअ॑ग्रया ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वेषम् । रूपम् । कृणुते । वर्णः । अस्य । सः । यत्र । अशयत् । सम्ऽऋता । सेधति । स्रिधः ।  
+> अप्साः । याति । स्वधया । दैव्यम् । जनम् । सम् । सुऽस्तुती । नसते । सम् । गोऽअग्रया ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य । अन्वादेशे अशादेशः । अस्य सोमस्य स्वभूतः वर्णः शत्रूणां निवारको रश्मिः त्वेषं दीप्यमानं रूपं कृणुते करोति । सः रश्मिः यत्र समृता । अर्तेः क्तिनि रूपम् । सम्यक् प्राप्यते योद्धृभिरत्रेति संग्रामः । अस्मिन् समृतौ युद्धे अशयत् शेते तिष्ठति । शीङो लङि ‘ बहुलं छंदसि । इति शपो लुगभावः । तत्र युद्धे स रश्मिः स्रिधः शोषकांछत्रून सेधति निषेधति । हिनस्तीति यावत् । वाक्यभेदादनिघातः । किंच अप्साः । सनोतेः विटि आत्वे कृते रूपम् । अपामुदकानां दाता । यद्वा वसतीवर्याख्यानामपां संभक्ता । सोऽयं स्वधया हवीरूपेणान्नेन सह दैव्यं देवानां संबंधिनं जनं प्रति याति गच्छति । अपि च सोऽयं सुष्टुती सुस्तुत्या सं संगच्छते । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । किंच स सोमः गोअग्रया गवादिमुख्यया यथा वाचा स्तोतारः पशून् याचंते तया वाचा सं नसते संगतो भवति । नसतिर्गत्यर्थः । भिन्नवाक्यत्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+The own-colour of this Soma, his ray that keeps off enemies, makes a shining form. Where that ray lies in the battle (the place where warriors fully meet), there it drives off and destroys the drying-up enemies. Further, he is अप्साः (*apsāḥ*), the giver of waters; or else, the distributor of the waters called Vasatīvarī. This Soma goes with स्वधया (*svadhayā*), food in the form of the oblation, to the people of the gods. Moreover, he joins with good praise (a suitable verb is supplied, because the preverb is heard). Further, that Soma unites with the speech whose foremost aim is cows and the like, the speech with which the singers ask for cattle; the verb नसति (*nasati*) means "to go".
+
+### Printed p. 428
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this god Soma
+- वर्णः (*varṇaḥ*)—the ray
+- त्वेषं (*tveṣaṃ*)—bright
+- रूपं (*rūpaṃ*)—form
+- कृणुते (*kṛṇute*)—it creates
+- सः (*saḥ*)—that same ray
+- यत्र समृता (*yatra samṛtā*)—in whatever battle
+- अशयत् (*aśayat*)—it lies pervading, there everywhere
+- स्त्रिधः (*stridhaḥ*)—the harmful enemies **NOTE**
+- सेधति (*sedhati*)—it resists
+- अप्साः (*apsāḥ*)—this Soma who gives water
+- स्वधया (*svadhayā*)—with food
+- दैव्यं जनं (*daivyaṃ janaṃ*)—to the gods
+- याति (*yāti*)—it goes
+- सुष्टुती (*suṣṭutī*)—with excellent praise
+- सं (गच्छते) (*saṃ (gacchate)*)—it unites
+- गोअग्रया (*goagrayā*)—with praises that have the asking for cows and the like as their chief aim
+- सं नसते (*saṃ nasate*)—it becomes one
+
+##### भावार्थ (Bhāvārtha)
+
+The ray of this god Soma creates a bright form. That same ray resists the harmful enemies in whatever battle it lies pervading. This Soma who gives water goes to the gods with food. He unites with excellent praise. He becomes one with praises that have the asking for cows and the like as their chief aim.
+
+##### English translation
+His ray creates a shining form; at whatever battle it is present, it beats down the adversaries ; the giver of water goes with the oblation to the divine people, (it meets) with good praise : (Soma) is joined by (a hymn) demanding cow as the chief boon.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्षेव॑ यू॒था प॑रि॒यन्न॑रावी॒दधि॒ त्विषी॑रधित॒ सूर्य॑स्य ।  
+> दि॒व्यः सु॑प॒र्णोऽव॑ चक्षत॒ क्षां सोमः॒ परि॒ क्रतु॑ना पश्यते॒ जाः ॥ ९ ॥
+
+### Printed p. 429
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्षाऽइव । यूथा । परिऽयन् । अरावीत् । अधि । त्विषीः । अधित । सूर्यस्य ।  
+> दिव्यः । सुऽपर्णः । अव । चक्षत । क्षाम् । सोमः । परि । क्रतुना । पश्यते । जाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षेव वृषभ इव यूथा गोयूथानि प्रत्यागच्छंछब्दं करोति तद्वदयं सोमः स्तुतीः परियन् परिगच्छन् अरावीत् शब्दायते । ततः सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य त्विषीः दीप्तीः अधि अधित अधिदधाति । सूर्यात्मना द्युलोकेऽवतिष्ठत इत्यर्थः । दधातेर्लुङि ‘ स्थाध्वोरिच्च' इति इत्वकित्त्वे । किंच दिव्यः दिवि भवः सुपर्णः सुपतनः श्येनरूपया गायत्र्याहृतत्वाच्छोभनगमनः सोमः क्षाम् । पृथिवीनामैतत् । क्षियंति निवसंत्यत्रेति । क्षां पृथिवीम् अव चक्षत अवपश्यति । चष्टेर्लङि ’ बहुलं छंदसि ' इति शपो लुगभावः । ततः सोमः जाः जाताः  प्रजाः क्रतुना प्रज्ञानेन परि पश्यते परितः पश्यति । व्यत्ययेनात्मनेपदम् ॥ ॥ २६ ॥
+
+##### Gist of the bhāṣya
+
+As a bull going back to the herds of cows makes a sound, so this Soma, going around the praises, has resounded. Thereafter he takes up the brilliances of Sūrya, the impeller of all, the Āditya; that is, in the form of the sun he abides in the heavenly world. Further, the celestial Soma, सुपर्णः (*suparṇaḥ*), "of good flight", is graceful in going because he was carried off by the Gāyatrī in the form of a hawk. He looks down on क्षाम् (*kṣām*), which is a name of the earth, since beings dwell (क्षियंति (*kṣiyaṃti*)) there. Thereafter Soma looks around on all born creatures with क्रतुना (*kratunā*), wisdom; the middle-voice form is by a Vedic variation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यूथा (*yūthā*)—approaching the herd of cows
+- उक्षेव (*ukṣeva*)—like a bull
+- परियन् (*pariyan*)—the Soma who joins with the praises
+- अरावीत् (*arāvīt*)—makes a sound
+- सूरस्य (*sūrasya*)—of Sūra **NOTE**
+- त्रिषीः (*triṣīḥ*)—the brilliances **NOTE**
+- अधि अधित (*adhi adhita*)—he unites with
+- दिव्यः (*divyaḥ*)—born in the heavenly world
+- सुपर्णः (*suparṇaḥ*)—the Soma who has an excellent fall, because he was carried off by the bird in the form of a hawk
+- क्षां (*kṣāṃ*)—the earth
+- अव चक्षत (*ava cakṣata*)—he looks down on
+- सोमः (*somaḥ*)—Soma
+- जाः (*jāḥ*)—all the born creatures
+- क्रतुना (*kratunā*)—with his excellent wisdom
+- परि पश्यते (*pari paśyate*)—he looks around on
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who joins with the praises like a bull approaching a herd of cows, makes a sound. He becomes one with the brilliances of Sūrya. Soma, who was born in the heavenly world and who has an excellent fall because he was carried off by the bird in the form of a hawk, looks down on the earth. He looks around on all the born creatures with his excellent wisdom.
+
+##### English translation
+Like a bull approaching the herds (Soma) roars (as he approaches the praises) : he appropriates the lustre of the sun ; celestial, flying gracefully he looks down upon the earth ; by his wisdom Soma contemplates mankind.
+
 ---
 
-**Progress note:** Done through printed p. 423. Sūkta 71 Ṛk 1-5 (cut mid-Bhāvārtha), pp. 418-423
+**Progress note:** Done through printed p. 429. Sūkta 71 Ṛks 6-9 (end of varga 26), pp. 424-429
