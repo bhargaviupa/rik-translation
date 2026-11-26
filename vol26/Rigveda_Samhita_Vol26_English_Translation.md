@@ -6883,6 +6883,281 @@ This all-seeing Pavamana Soma deposited (in the vessels), sending forth abundant
 > एषः । वृषा । वृषऽव्रतः । पवमानः । अशस्तिऽहा ।  
 > करत् । वसूनि । दाशुषे ॥ ११ ॥
 
+### Printed p. 212
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां सेक्ता वृषव्रतः वृषकर्मा अशस्तिहा राक्षसानां हंता पवमानः एषः सोमः दाशुषे हविषां दात्रे यजमानाय वसूनि धनानि करत् करोति । प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, the showerer of desires, whose work is showering, the slayer of the Rākṣasas, purifying himself, bestows riches on the sacrificer who gives oblations; the meaning is that he gives them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the showerer of desires
+- वृषव्रतः (*vṛṣavrataḥ*)—whose work is the pouring of rain
+- अशस्तिहा (*aśastihā*)—the destroyer of the wicked Rākṣasas
+- एषः पवमानः (*eṣaḥ pavamānaḥ*)—this Soma-deva
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- वसूनि (*vasūni*)—riches
+- करत् (*karat*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, who showers desires, whose work is the pouring of rain, and who destroys the wicked Rākṣasas, provides riches to the sacrificer who offers the oblation.
+
+##### English translation
+This Pavamana Soma, the sprinkler ( of benefits ), engaged in sprinkling, the destroyer of the Rakshasas, bestows riches upon the donor (of the oblation).
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व सह॒स्रिणं॑ र॒यिं गोमं॑तम॒श्विन॑म् ।  
+> पु॒रु॒श्चं॒द्रं पु॑रु॒स्पृह॑म् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । सहस्रिणम् । रयिम् । गोऽमंतम् । अश्विनम् ।  
+> पुरुऽचंद्रम् । पुरुऽस्पृहम् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं सहस्रिणं बहुसंख्याकं गोमंतं गोभिरुपेतम् अश्विनम् अश्ववंतं पुरुश्चंद्रं बहूनां हर्षकं पुरुस्पृहं बहुस्पृहणीयं रयिं धनम् आ पवस्व परिक्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow towards us the wealth that is thousandfold, rich in cows, rich in horses, delighting many and desired by many.
+### Printed p. 213
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) सहस्रिणं (*sahasriṇaṃ*)—that which is thousandfold
+- गोमंतं (*gomaṃtaṃ*)—that which is joined with cows
+- अश्विनं (*aśvinaṃ*)—that which is joined with horses
+- पुरुश्चंद्रं (*puruścaṃdraṃ*)—that which gives delight to many
+- पुरुस्पृहं (*puruspṛhaṃ*)—that which is desired by many
+- रयिं (*rayiṃ*)—wealth
+- आ पवस्व (*ā pavasva*)—pour out for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, pour out for us wealth that is thousandfold, joined with cows, joined with horses, delighting many and desired by many.
+
+##### English translation
+Pour forth thousand-fold wealth, together with cattle and horses, delighting many, desired by many.
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य परि॑ षिच्यते मर्मृ॒ज्यमा॑न आ॒युभिः॑ ।  
+> उ॒रु॒गा॒यः क॒विक्र॑तुः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । परि । सिच्यते । मर्मृज्यमानः । आयुऽभिः ।  
+> उरुऽगायः । कविऽक्रतुः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरुगायः बहुस्तुतिः कविक्रतुः क्रांतप्रज्ञः क्रांतकर्मा वा स्थः सः एषः अयं सोमः आयुभिः मनुष्यैः मर्मृज्यमानः शोध्यमानः परि षिच्यते ॥
+
+##### Gist of the bhāṣya
+
+This Soma, much praised, of wise purpose or of surpassing deeds, is purified by men and sprinkled all around. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुगायः (*urugāyaḥ*)—that which is praised by many
+- कविक्रतुः (*kavikratuḥ*)—that which has work endowed with wisdom
+- स्यः (*syaḥ*)—and that which is renowned
+- एषः (*eṣaḥ*)—this Soma
+- आयुभिः (*āyubhiḥ*)—by the priests and others
+- मर्म्मृज्यमानः (*marmmṛjyamānaḥ*)—being purified **NOTE**
+- परिषिच्यते (*pariṣicyate*)—is poured out
+### Printed p. 214
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which is praised by many, has work endowed with wisdom and is renowned, is purified by the priests and others and poured out.
+
+##### English translation
+This (Soma) the many-hymned, having wise designs, being cleansed by the priests, is sprinkled forth.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्रो॑तिः श॒ताम॑घो वि॒मानो॒ रज॑सः क॒विः ।  
+> इंद्रा॑य पवते॒ मदः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रऽऊतिः । शतऽमघः । विऽमानः । रजसः । कविः ।  
+> इंद्राय । पवते । मदः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रोतिः अपरिमितरक्षणः शतमघः बहुधनः रजसः लोकस्य विमानः निर्माता कविः क्रांतकर्मा मदः मदकरः सोमः इंद्राय इंद्रार्थं पवते धारया क्षरति ॥
+
+##### Gist of the bhāṣya
+
+The intoxicating Soma, of unmeasured protection, of abundant wealth, the maker of the world, the sage whose works are surpassing, flows in a stream for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रोतिः (*sahasrotiḥ*)—who has protection of many kinds
+- शतमघः (*śatamaghaḥ*)—who has wealth of various kinds
+- रजसः (*rajasaḥ*)—for the worlds
+- विमानः (*vimānaḥ*)—the maker
+- कविः (*kaviḥ*)—who has work endowed with wisdom
+- मदः (*madaḥ*)—the Soma-deva who gives gladness
+- इंद्राय (*iṃdrāya*)—for the satisfaction of Indra
+- पवते (*pavate*)—runs in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-deva, who has protection of many kinds, wealth of various kinds, is the maker of the worlds, has work endowed with wisdom and gives gladness, runs in the form of a stream for the satisfaction of Indra.
+### Printed p. 215
+
+##### English translation
+Offering thonsand-fold protection, having hundred-fold wealth, the measurer of the world, the sage, the exilarating (Soma) flows for Indra.
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रा जा॒त इ॒ह स्तु॒त इंदु॒रिंद्रा॑य धीयते ।  
+> विर्योना॑ वस॒तावि॑व ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरा । जातः । इह । स्तुतः । इंदुः । इंद्राय । धीयते ।  
+> विः । योना । वसतौऽइव ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातः प्रादुर्भूतः गिरा स्तुत्या स्तुतः च इंदुः सोमः इह अस्मिन् यज्ञे योना योनौ स्वस्थाने इंद्राय इंद्रार्थं वसताविव विः यथा स्ववासे पक्षी तथा धीयते निधीयते ॥ ॥ २६ ॥
+
+##### Gist of the bhāṣya
+
+Indu, the Soma, who has appeared and been praised by song, is placed at this sacrifice in his own place for Indra, as a bird in its dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातः (*jātaḥ*)—who has been born
+- गिरा (*girā*)—by praises
+- स्तुतः (*stutaḥ*)—who has been extolled
+- इंदुः (*iṃduḥ*)—the Soma-deva
+- इह (*iha*)—at this sacrifice
+- योना (*yonā*)—in his excellent place
+- इंद्राय (*iṃdrāya*)—for Indra
+- विः (*viḥ*)—a bird
+- वसताविव (*vasatāviva*)—as one is kept safe in one's own nest
+- धीयते (*dhīyate*)—is placed
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-deva, who has been born and extolled with praises, is placed at this sacrifice in his own excellent place for Indra, as a bird is in its own nest.
+
+##### English translation
+Generated and praised by song Indu at this sacrifice is deposited in his place for Indra, like a bird on its nest.
+### Printed p. 216
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानः सु॒तो नृभिः॒ सोमो॒ वाज॑मिवासरत् ।  
+> च॒मूषु॒ शक्म॑ना॒सद॑म् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । सुतः । नृऽभिः । सोमः । वाजम्ऽइव । असरत् ।  
+> चमूषु । शक्मना । आऽसदम् ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृभिः नेतृभिर्ऋत्विग्भिः सुतः अभिषुतः सोमः चमूषु चमसेषु शक्मना बलेन आसदम् उपवेष्टुं वाजमिव युद्धमिव स्थानम् असरत् सरति ॥
+
+##### Gist of the bhāṣya
+
+The Soma, pressed by the priests, the leaders, goes with strength into the ladles to settle there, as if hastening to battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृभिः (*nṛbhiḥ*)—by the priests and others
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—the Soma-deva
+- चमूषु (*camūṣu*)—in the Camasa vessels
+- आसदं (*āsadaṃ*)—to sit down
+- वाजमिव (*vājamiva*)—as one runs in haste to battle
+- शक्कना (*śakkanā*)—with strength **NOTE**
+- असरत् (*asarat*)—spreads swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-deva, pressed by the priests, flows swiftly with strength in order to sit down in the Camū vessels, as one runs in haste to battle.
+
+##### English translation
+The pure Soma effused by the priests rushes forth as if to battle, to alight vigorously upon the ladles.
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्रि॑पृ॒ष्ठे त्रि॑वंधु॒रे रथे॑ युंजंति॒ यात॑वे ।  
+> ऋषी॑णां स॒प्त धी॒तिभिः॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्रिऽपृष्ठे । त्रिऽवंधुरे । रथे । युंजंति । यातवे ।  
+> ऋषीणाम् । सप्त । धीतिऽभिः ॥ १७ ॥
+
+### Printed p. 217
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिपृष्ठे त्रिषवणपृष्ठे त्रिवंधुरे त्रिवेदवंधुरे ऋषीणां रथे यज्ञरथे तं सोमं सप्त सप्तभिः धीतिभिः छंदोभिः यातवे देवान् प्रति गंतुं युंजंति ऋत्विजो योजयंति ॥
+
+##### Gist of the bhāṣya
+
+The priests yoke that Soma, with the seven metres, to the sacrificial chariot of the sages, which is three-backed (resting on the three pressings) and three-benched (resting on the three Vedas), so that he may go to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिपृष्ठे (*tripṛṣṭhe*)—that which has three kinds of support
+- त्रिवंधुरे (*trivaṃdhure*)—and that which has a support of three forms
+- ऋषीणां (*ṛṣīṇāṃ*)—of the sages
+- रथे (*rathe*)—in the chariot that is the sacrifice
+- तं (*taṃ*)—that Soma-deva
+- सप्त (*sapta*)—seven in number
+- धीतिभिः (*dhītibhiḥ*)—having prepared with the metres
+- यातने (*yātane*)—to go to the gods **NOTE**
+- युंजंति (*yuṃjaṃti*)—the priests yoke
+
+##### भावार्थ (Bhāvārtha)
+
+In the chariot of the sages that is the sacrifice, which has three kinds of support and a support of three forms, the priests prepare that Soma-deva with the seven metres and yoke him, so that he may go to the gods.
+
+##### English translation
+The attach him by seven ceremonies to the three-backed three-benched chariot of the Rishis to go to the gods. **NOTE**
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं सो॑तारो धन॒स्पृत॑मा॒शुं वाजा॑य॒ यात॑वे ।  
+> हरिं॑ हिनोत वा॒जिन॑म् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । सोतारः । धनऽस्पृतम् । आशुम् । वाजाय । यातवे ।  
+> हरिम् । हिनोत । वाजिनम् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोतारः अभिषवकर्तार ऋत्विजः धनस्पृतं धनानां स्प्रष्टारं वाजिनं बलिनम् आशुं वेगवंतं तं सोमात्मकं हरिम् अश्वं वाजाय यज्ञाख्यं संग्रामं यातवे गंतंं हिनोत प्रेरयत । यथा योद्धारो युद्धं गंतुं बलिनं वेगवंतमश्वं प्रेरयंति तद्वत् यज्ञमभिगंतुं बलवंतं सोमं प्रेरयतेति भावः ॥
+
+##### Gist of the bhāṣya
+
+O pressers, priests who perform the pressing, urge on that Soma, the horse, the seizer of wealth, strong and swift, to go to the battle that is the sacrifice. As warriors urge a strong, swift horse to go to battle, so urge the strong Soma to go to the sacrifice; that is the sense.
+
 ---
 
-**Progress note:** Done through printed p. 211. Mandala 9 sukta 62 rks 4-11, pp. 206-211
+**Progress note:** Done through printed p. 217. Mandala 9 sukta 62 rks 11-18, pp. 212-217
