@@ -27879,6 +27879,242 @@ His copius **NOTE** streams flow forth ; blended with the milk and curds he ente
 गोभिः अक्तः कलशान् आ विवेश (*gobhiḥ aktaḥ kalaśān ā viveśa*)—To the Soma juice that flows away thus, the priests add milk or curds and mix it. The juice mixed in this way goes into the Droṇa vessel and falls in. Here गोभिः (*gobhiḥ*) means the milk or curds obtained from cows. There is also the practice of drinking the Soma juice just as it is, without mixing anything into it as soon as it has been pressed. Such Soma juice is called तीव्र (*tīvra*) or शुक्र (*śukra*) (strong). In some other cases, in order to give the Soma juice a taste or to increase the quantity of the juice, any one of milk, curds or flour is mixed in and used. The mixing of milk or curds in this manner is what is spoken of here.
 विपश्चित् सामन्यः साम कृण्वन् क्रंदन् सख्युः जामिं न अभि एति (*vipaścit sāmanyaḥ sāma kṛṇvan kraṃdan sakhyuḥ jāmiṃ na abhi eti*)—This god Soma, who knows everything and is skilled in the singing of Sāman, calling the gods, goes to the vessel as a lustful stranger goes to the wife of a friend. Here विपश्चित् (*vipaścit*) means one who knows everything, the omniscient. Because the intellect of the man who has drunk Soma becomes sharp, that Soma-drinking itself, that is, that Soma itself, is said to be omniscient. As for the words सामान्यः साम कृण्वन् (*sāmānyaḥ sāma kṛṇvan*) **NOTE**, the purport is that, as a man skilled in the singing of Sāman sings, Soma makes a delightful sound when it flows. Or, at the time of the pressing of Soma, the priests, the Udgātṛ and others, sing the Sāman audibly. The sound that arises when the Soma juice flows indicates that Soma, accompanied by such singing, is calling the gods to drink the Soma; this is the poetic fancy that the seer has described. Besides this, the seer has given an illustration regarding the quick flowing of the Soma juice. Just as a stranger, enamoured of a friend's wife, goes hurriedly to that woman for the fulfilment of his desire, so this Soma juice is described as flowing away quickly. Here, of the friend
 
+### Printed p. 744
+
+The reason why the illustration of another man going to a friend's wife has been given is this: it is well known to be an evil deed for another man to go to a friend's wife. Because such a wicked deed has to be done secretly, so that no one knows it, and as quickly as possible, that man goes hurriedly to the wife of his friend. In order to indicate such quick going, the seer has set forth the illustration of a stranger going to a friend's wife.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प॒घन्ने॑षि पवमान॒ शत्रू॑न्वि॒यां न जा॒रो अ॒भिगी॑त॒ इंदुः॑ ।  
+> सीद॒न्वने॑षु शकु॒नो न पत्वा॒ सोमः॑ पुना॒नः क॒लशे॑षु॒ सत्ता॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपघ्नन् । एषि । पवमान । शत्रुन् । प्रियां । न । जारः । अभिगीतः । इंदुः ।  
+> सीदन् । वनेषु । शकुनः । न । पत्वा । सोमः । पुनानः । कलशेषु । सत्ता ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम अभिगीतः स्तोतृभिरभिष्टुत इंदुः पात्रेषु
+> क्षरंस्त्वं शत्रूनपघ्नन्नपहिंसन्नेषि । आगच्छसि । कथमिव । जारः प्रियां न प्रियतमामसतीं स्त्रीमन्यान्बाधमानः सन्मथाभिगच्छति तद्वत् । पत्वा पतनशीलः शकुनो न यथा
+> शकुनो वनेषु वृक्षेषु सीदन्भवति तद्वत् पतनशीलः । पुनानः पूयमानः सोमः
+> कलशेषु सत्ता सदनशीलो निषण्णो भवति ॥ सदेस्ताच्चीलिकस्तृन् एकाच इतीट्प्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, purified Soma, praised by the praisers, Indu, flowing in the vessels, you come, destroying the enemies. How? As a paramour (जारः (*jāraḥ*)) goes to his most beloved, an unchaste woman, to a woman of others, oppressing them, **NOTE**, so you come. As a falling bird, a शकुनः (*śakunaḥ*), sits in the forests, that is, in the trees, so the purified Soma sits in the pitchers, that is, is seated in them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Lord Soma
+- जारः (*jāraḥ*)—a libertine man
+- प्रियां न (*priyāṃ na*)—as he goes to his most beloved wife
+- अभिगीतः (*abhigītaḥ*)—praised
+- इंदुः (*iṃduḥ*)—of the form of a stream, you
+- शत्रुन् (*śatrun*)—the enemies
+- अपघ्नन् (*apaghnan*)—destroying
+- एषि (*eṣi*)—you flow
+- पत्वा (*patvā*)—flying exceedingly
+- शकुनः (*śakunaḥ*)—a bird
+- वनेषु (*vaneṣu*)—in the trees
+- सीदन् न (*sīdan na*)—as it sits
+- पुनानः (*punānaḥ*)—purified
+- सोमः (*somaḥ*)—Soma
+- कलशेषु (*kalaśeṣu*)—in the Droṇa vessels
+- सत्ता (*sattā*)—sits
+
+### Printed p. 745
+
+##### भावार्थ (Bhāvārtha)
+
+O Lord Soma, as a libertine man goes to the wife of another man, who is most beloved, so you, praised and of the form of a stream, flow, destroying the enemies. As a bird flying exceedingly sits in the trees, so the purified Soma sits in the Droṇa vessels.
+
+##### English translation
+O Pavamana, eulogized (by the worshippers), distilling (into the receptacles), destroying the enemies you go like a gallant to his mistress ; falling like a bird alighting on the trees the Soma when purified alights upon the pitchers.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer has made the meaning of the Ṛk clear through two illustrations. Concerning Soma's destroying the enemies: जारः प्रियां न (*jāraḥ priyāṃ na*). जारः प्रियतमामसतीं स्त्रीमन्यां बाधमानः सन् यथाभिगच्छति तद्वत् । (*jāraḥ priyatamāmasatīṃ strīmanyāṃ bādhamānaḥ san yathābhigacchati tadvat |*). It is said that, as a jāra, that is, a man given to women, joins a woman beloved by him who is the wife of another man and spoils her chastity, so the god Soma destroys the enemies. The flowing Soma juice going and falling into the vessel is told by another illustration: पत्वा शकुनः वनेषु सीदन् न सोमः कलशेषु सत्ता (*patvā śakunaḥ vaneṣu sīdan na somaḥ kalaśeṣu sattā*). As a bird that flies about exceedingly, tired and worn out by flying, sits on the branches of a tree to rest from its fatigue, so the Soma juice flowing quickly goes to the Droṇa vessel and the like, its place of abode, and settles there.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॒ रुचः॒ पव॑मानस्य सोम॒ योषे॑व यंति सु॒दुघाः॑  ॒
+> सुधाराः ।  
+> हरि॒रानी॑तः पुरु॒वारो॑ अ॒प्स्व च॑क्रदत्क॒लशे॑ देवयू॒नां ॥२४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । रुचः । पवमानस्य । सोम । योषा इव । यंति । सुदुघाः । सुधाराः।  
+> हरिः । आनीतः । पुरुवारः । अप्सु । अचिक्रदत् । कलशे । देवयूनां ॥ २४ ॥
+
+### Printed p. 746
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानस्य पूयमानस्य ते तव स्वभूता योषेव स्त्री यथा
+> पुत्राणां पयो दोग्धि तद्विद्यजमानानां धनादिकस्य सुष्टु दोग्यः सुधाराः
+> शोभनधारोपेता रुचो दीप्तय आ यंति । पात्रादीन्यागच्छंति । किंच । हरिर्हरितवर्ण आनीत ऋत्विग्भिः पुरुवारो बहुधा वरणीयः सोमोऽप्सु वसतीवरीषु
+> देवयूनां देवानिच्छतां यजमानानां स्वभूते कलशे द्रोणाख्यॆ चाचिक्रदत् ।
+> पुनःपुनः क्रंदते ! शब्दायते !!
+
+##### Gist of the bhāṣya
+
+O Soma, being purified, your own lustres, which, as a woman gives milk to her sons, so well yield wealth and the like to the sacrificers, having beautiful streams, come, that is, they come to the vessels and the rest. Further, Hari, green in colour, brought by the priests, Puruvāra, to be chosen in many ways, Soma, in the waters, the वसतीवरीषु (*vasatīvarīṣu*), in the vessel called Droṇa belonging to the sacrificers who desire the gods, cries out again and again, makes a sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Lord Soma
+- योषेव (*yoṣeva*)—as a mother gives milk to her child
+- पवमानस्य (*pavamānasya*)—of you who are being purified
+- ते (*te*)—your
+- सुधाराः (*sudhārāḥ*)—which are in the form of streams
+- सुदुघाः (*sudughāḥ*)—which milk out wealth and the like
+- रुचः (*rucaḥ*)—and which are bright, the Soma juices
+- आ यंति (*ā yaṃti*)—go and join the vessels
+- हरिः (*hariḥ*)—green in colour
+- अनीतः (*anītaḥ*)—brought by the priests **NOTE**
+- पुरुवारः (*puruvāraḥ*)—worthy of the regard of many, Soma
+- अप्सु (*apsu*)—joining the Vasatīvarī waters
+- देवयूनां (*devayūnāṃ*)—of the sacrificers who desire the gods
+- कलशेषु (*kalaśeṣu*)—in the Droṇa vessels **NOTE**
+- सत्ता (*sattā*)—sits
+
+##### भावार्थ (Bhāvārtha)
+
+O Lord Soma, as a mother milks out milk for her child, so your Soma juices, which are purified, in the form of streams, bright and which milk out wealth and the like, go and join the vessels. Soma, green in colour, brought by the priests, worthy of the regard of many, joins the Vasatīvarī waters and sits in the Droṇa vessels of the sacrificers who desire the gods.
+
+##### English translation
+The lustres, Soma, of you when being purified, approach with abundan_t **NOTE** milk with copious streams like a woman (giving milk to her child) ; theĩ **NOTE** green-tinted Soma, the desired of many, has been brought to the waters and cries repeatedly in the pitcher of god-loving (worshippers).
+
+##### विशेषविषयगळु (Special Topics)
+
+सोम ते सुधाराः रुचः योषेव सुदुघाः (*soma te sudhārāḥ rucaḥ yoṣeva sudughāḥ*)—O Lord Soma, the Soma juices, flowing in streams upon streams in the form of a flow, and shining (clear), will give wealth and the like to the sacrificers engaged in the sacrifice, as a mother gives her children the breast with love (that is, gives milk); this is the purport.
+
+### Printed p. 747
+
+## Sūkta 97 (Maṇḍala 9)
+
+There are 58 Ṛks in this sūkta. This is the biggest sūkta in the whole Ṛgveda. The smallest sūkta is the 99th sūkta of the first maṇḍala; in it there is only one Ṛk. Generally in the Ṛgveda each sūkta has only one seer, but there are also many sūktas with more than one seer. In the present sūkta there are 12 seers. Except the last two among them, the rest belong to the Vasiṣṭha lineage. It should not be understood that all of them assembled together in one place, composed this sūkta and praised Soma. The ancient seers who, long ago, divided the Ṛgveda mantras and gave them their present form, gathered all these Ṛks, which had been composed by them all at various times and were in use, and turned them into one sūkta. Only a few sūktas of this kind exist in the Ṛgveda.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेनुवाके सप्त सूक्तानि । तत्रास्य प्रेषेत्यष्टापंचाशदृचं प्रथमं सूक्तं
+> त्रैष्टुभं पवमानसोमदेवताकं । तत्राद्यस्य तृचस्य मैत्रावरुणो वसिष्ठ ऋषिः ।
+> द्वितीयस्येंद्रप्रमतिर्नाम । तृतीयस्य वृषगणः । चतुर्थस्य मन्युः । पंचमस्कोपमन्युः । षष्ठस्य व्याघ्रपात् । सप्तमस्य शक्तिः । अष्टमस्य कर्णश्रुत् । नवमस्य
+> मृळीकः । दशमस्य वसुक्रः । एते सर्वे वसिष्ठगोत्राः । एवं त्रिंशदृचो गताः । अथ
+> चतुर्दशानामृचां शक्तिपुत्रः पराशर ऋषिः । शिष्टानामांगिरसः कुत्सः । तथानुक्रम्यते । अस्य प्रेषाष्टापंचाशदाद्यं तृचं वसिष्ठोऽपश्यदुत्तरान्नव पृथग्वसिष्ठा
+> इंद्रप्रमतिर्वृषगणो मन्युरुपमन्युव्याघ्रपाच्छक्तिः कर्णश्रुन्मृळीको वसुक्र इति
+> चतुर्दश पराशरोऽंत्याः कुत्स इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the sixth anuvāka there are seven sūktas. Among them the first sūkta, beginning अस्य प्रेषा (*asya preṣā*), has fifty-eight Ṛks, is in the triṣṭubh metre, and has Pavamāna Soma as its deity. Of its first group of three Ṛks the seer is Vasiṣṭha, son of Mitra and Varuṇa; of the second, Indrapramati; of the third, Vṛṣagaṇa; of the fourth, Manyu; of the fifth, Upamanyu; of the sixth, Vyāghrapād; of the seventh, Śakti; of the eighth, Karṇaśrut; of the ninth, Mṛḷīka; of the tenth, Vasukra. All these belong to the Vasiṣṭha lineage. Thus thirty Ṛks have passed. Of the following fourteen Ṛks the seer is Parāśara, son of Śakti; of the rest, Kutsa of the Āṅgirasa line. So the Anukramaṇī gives the same assignment. The ritual use has been given.
+
+##### Anuvāda
+
+In the sixth anuvāka of the ninth maṇḍala of the Ṛgvedasaṃhitā there are seven sūktas. Among them this sūkta, अस्य प्रेषा (*asya preṣā*), is the first. In it there are fifty-eight Ṛks. In this sūkta, for the first three Ṛks (1-3) Vasiṣṭha, the son of Mitra-Varuṇa, is the seer; for the Ṛks four to six (4-6), one named Indrapramati is the seer; for the Ṛks seven to nine (7-9), one named Vṛṣagaṇa is the seer; for the Ṛks ten to twelve (10 ... 12) **NOTE**, one named Manyu is the seer; for the Ṛks thirteen to fifteen (13-15), one named Upamanyu is the seer; for the Ṛks sixteen to eighteen (16-18), one named Vyāghrapād
+
+### Printed p. 748
+
+is the seer; for the Ṛks nineteen to twenty-one (19-21), one named Śakti is the seer; for the Ṛks twenty-two to twenty-four (22-24), one named Karṇaśrut is the seer; for the Ṛks twenty-five to twenty-seven (25-27), one named Mṛḷīka is the seer; for the Ṛks twenty-eight to thirty (28-30), one named Vasukra is the seer; all of these belong to the Vasiṣṭha lineage; thus thirty Ṛks have been completed. For the next fourteen Ṛks (31-44) one named Parāśara, the son of Śakti, is the seer; for the remaining Ṛks (45-58) one named Kutsa is the seer; Pavamāna Soma is the deity; the metre is triṣṭubh. In the Anukramaṇī it is said: अस्य प्रेषाष्टापंचाशदाद्यं तृचं वसिष्ठोपश्यदुत्तरान्नव पृथग्वसिष्ठा इंद्रप्रमतिवृषगणो मन्युरुपमन्युव्याघ्रपाच्छक्तिः कर्णश्रुनृळीको वसुक्र इति चतुर्दश पराशरोऽन्त्याः कुत्सः (*asya preṣāṣṭāpaṃcāśadādyaṃ tṛcaṃ vasiṣṭhopaśyaduttarānnava pṛthagvasiṣṭhā iṃdrapramativṛṣagaṇo manyurupamanyuvyāghrapācchaktiḥ karṇaśrunṛḷīko vasukra iti caturdaśa parāśaro 'ntyāḥ kutsaḥ*) **GLOSS**. The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 97. Maṇḍala 9. Anuvāka 6. Sūkta 97. Aṣṭaka 7. Adhyāya 4. Vargas 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22. Number of Ṛks in the sūkta: 58. Seers: 1-3 Vasiṣṭha; 4-6 Indrapramati Vāsiṣṭha; 7-9 Vṛṣagaṇa Vāsiṣṭha; 10-12 Manyu Vāsiṣṭha; 13-15 Upamanyu Vāsiṣṭha; 16-18 Vyāghrapād Vāsiṣṭha; 19-21 Śakti Vāsiṣṭha; 22-24 Karṇaśrut Vāsiṣṭha; 25-27 Mṛḷīka Vāsiṣṭha; 28-30 Vasukra Vāsiṣṭha; 31-44 Parāśara; 45-58 Kutsa. Deity: Pavamāna Soma. Metre: Triṣaṭ **NOTE**.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य प्रे॒षा हे॒मना॑ पू॒यमा॑नो दे॒वो दे॒वेभिः॒ सम॑पृक्त॒  ॑
+> रसं ।  
+> सु॒तः प॒वित्रं॒ पर्यॆ॑ति॒ रेभ॑न्मि॒तेव॒ सद्म॑ पशु॒मांति॒ होता॑ ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । प्रेषा । हेमना । पूयमानः । देवः । देवेभिः । सं । अपृक्त । रसं ।  
+> सुतः । पवित्रं । परि । एति । रेभन् । मिताइव । सद्म । पशुमंति । होता ॥ १ ॥
+
+### Printed p. 749
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सोमस्य प्रेषा ॥ प्रेषतिर्गत्यर्थः । क्विपि रूपं । सावेकाच इति विभक्तेरुदात्तत्वं ॥ प्रेषा प्रेरकेण हेमना हिरण्येन पूयमानः । हिरण्यपाणिरभिषुणोतीति हिरण्यसंबंधः । तादृशो देवो दीप्यमानांशू रसमात्मीयं : देवेभिर्देवैः
+> सह समपृक्त । संपर्कयति ! संयोजयति ॥ पृची संपर्के ॥ ततः सुतोऽभिषुतः
+> सोमो रेभञ्ङ्बायमानः सन् पवित्रमूर्णास्तुकेन निर्मितं पर्योति । परिगच्छति ।
+> कथमिव । होता देवानामाह्वातर्त्विज्मितेव निर्मितान् पशुमंति बद्धपशून् सद्म
+> सदनानि यज्ञगृहान्यथा पर्योति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Of this Soma, by the impelling (preṣā) golden (hemanā, that is, hiraṇya) instrument, purified; the connection with gold is from the Brāhmaṇa हिरण्यपाणिरभिषुणोति (*hiraṇyapāṇirabhiṣuṇoti*). Such a shining Soma, whose filaments gleam, joins (samapṛkta, that is, unites; the root is पृची संपर्के (*pṛcī saṃparke*)) his own juice with the gods. Then the pressed Soma, roaring, goes around the filter made of wool. How? As the Hotṛ, the priest who invokes the gods, goes around the halls that are built and provided with bound victims, the sacrificial houses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रेषा (*preṣā*)—the impelling
+- हेमना (*hemanā*)—by gold
+- पूयमानः (*pūyamānaḥ*)—purified
+- अस्य (*asya*)—of this Soma
+- देवः (*devaḥ*)—the shining filament
+- रसं (*rasaṃ*)—his juice
+- देवेभिः (*devebhiḥ*)—with the gods
+- समपृक्त (*samapṛkta*)—unites
+- होता (*hotā*)—the Hotṛ
+- मिता (*mitā*)—well built
+- पशुमंति (*paśumaṃti*)—and provided with sacrificial victims
+- सद्म इव (*sadma iva*)—as he enters the sacrificial hall
+- सुतः (*sutaḥ*)—the pressed Soma
+- रेभन् (*rebhan*)—making a sound
+- पवित्रं (*pavitraṃ*)—the ten-fold filter
+- पर्योति (*paryoti*)—goes and enters **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, purified by the gold that impels the rite, unites his shining juice with the gods. As the Hotṛ enters the sacrificial hall, well built and provided with sacrificial victims, so the pressed Soma, making a sound, goes and enters the ten-fold filter.
+
+##### English translation
+The shining Soma being purified by the golden hand that urges it forth, brings its juice into contact with the gods; when effused it proceeds with a roar to the filter like the ministrant priest to the Halls prepared (for sacrifice) containing victims,
+
+##### विशेषविषयगळु (Special Topics)
+
+हेमना पूयमानः देवः (*hemanā pūyamānaḥ devaḥ*)—Soma purified with gold (sone), that is, it is the custom that at the time of pressing Soma the priests, the Adhvaryu and others, wear gold rings on their fingers. For it is said in many places that the juice becomes pure by contact with gold. The Śruti sentence पवित्रं वै (*pavitraṃ vai*)
+
+### Printed p. 750
+
+हिरण्यं । पुनात्येवैनं (*hiraṇyaṃ | punātyevainaṃ*) also supports this. The commentator has cited the Brāhmaṇa sentence हिरण्यपाणिरभिषुणोति (*hiraṇyapāṇirabhiṣuṇoti*). Besides this, in the second Ṛk of this maṇḍala:
+
+रक्षोहा विश्वचर्षणिरभि योनिमयोहतं । द्रुणा सधस्थमासदत् ॥ (*rakṣohā viśvacarṣaṇirabhi yonimayohataṃ | druṇā sadhasthamāsadat ‖*)
+(Ṛ. Saṃ. 9-1-2)
+
+अयोहतं (*ayohataṃ*)—हिरण्येन हतं (*hiraṇyena hataṃ*). It is said to be the Soma creeper, provided with gold, that is, crushed by the hand wearing a golden ornament.
+होता मितेव पशुमंति सद्म (*hotā miteva paśumaṃti sadma*)—The illustration that, as the priest called Hotṛ enters the sacrificial house that has been made ready for the sacrifice with the sacrificial victim bound, is said with regard to the Soma juice flowing towards the filter. As the Hotṛ enters, to do his duty, the well-equipped sacrificial house in which the victims and other requisites of the sacrifice have been prepared, so the Soma juice pressed by the priests, for the conduct of the sacrifice, that is, to satisfy the gods invited to the sacrifice, flows joyfully, making a sound, towards the ten-fold filter for the purpose of purification; thus the seer has described it.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रा वस्त्रा॑ सम॒न्या॒३॒॑ ३वसा॑नो म॒हान्क॒विर्नि॒वच॑नानि॒ शंस॑न् ।  
+> आ व॑च्यस्व च॒म्योः॑ पू॒यमा॑नो विचक्ष॒णो जागृ॑निर्दे॒ववी॑त् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रा । वस्त्रा । समन्या । वसानः । महान् । कविः । निवचनानि । शंसन् ।  
+> आ । वच्यस्व । चम्योः । पूयमानः । विचक्षणः । जागृविः । देववीत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रा भद्राणि कल्याणानि समन्या । समनमिति संग्रामनाम ॥ तत्र साधुरिति
+> यत् ॥ संग्रामयोग्यानि वस्त्रा वस्त्राण्याच्छादकानि तेजांसि वसान आच्छादयन्
+> महान्नविः क्रांतदर्शी आत एव निवचनानि नितरां वक्तव्यान्यृत्विकृतानि स्तोत्राणि
+
+##### Gist of the bhāṣya
+
+Bhadrā means auspicious, good things. समनमिति संग्रामनाम (*samanamiti saṃgrāmanāma*): समन (*samana*) is a name for battle; समन्या (*samanyā*) means what is fit for it, suited to battle. वस्त्रा (*vastrā*) means garments, covering splendours; covering them, the great seer, who sees beyond; therefore the praises to be spoken repeatedly, made by the priests,
+
 ---
 
-**Progress note:** Done through printed p. 743. Sūkta 96 Ṛks 20-22, Special Topics on samudra
+**Progress note:** Done through printed p. 750. Sūkta 96 Ṛks 23-24; Sūkta 97 intro, Ṛks 1-2
