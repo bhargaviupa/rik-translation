@@ -5699,6 +5699,252 @@ May the destruction, the harm, of every evil-minded one who hates us on all side
 
 As the waves of the sea strike a boat and destroy it, so may the evil-minded inclination to harm of all the enemies who surround us not destroy us.
 
+### Printed p. 139
+
+##### English translation
+Let not the onset of any evil-minded adversary harm us as the wave (overwhelms) a ship.
+
+##### विशेषविषयगळु (Special Topics)
+
+The word सोमस्यशब्दवु (*somasyaśabdavu*) **NOTE** is regarded as a pronoun. समं (*samaṃ*) means "all". Yāska gives the etymology: समस्य । सममिति परिग्रहार्थीयं सर्वनामानुदात्तं (*samasya | samamiti parigrahārthīyaṃ sarvanāmānudāttaṃ*) (Ni. 5-27); that is, the word समं (*samaṃ*) is used in the sense of "taking in, including"; it is well known as a pronoun; its accent is wholly anudātta. Having said this, and taking the present Ṛk itself as the example in support of it, he gives its explanation: मा नः सर्वस्य दुर्धियः पापधियः सर्वतो द्वेषसो अंहतिरूर्मिरिव नावमावधीत् । ऊर्मिरूर्णोतेर्नौः प्रणोत्तव्या भवति । नमतेर्वा । तत्कथमनुदात्तप्रकृति नानु स्यात् दृष्टव्ययं तु भवति ॥ (*mā naḥ sarvasya durdhiyaḥ pāpadhiyaḥ sarvato dveṣaso aṃhatirūrmiriva nāvamāvadhīt | ūrmirūrṇoternauḥ praṇottavyā bhavati | namatervā | tatkathamanudāttaprakṛti nānu syāt dṛṣṭavyayaṃ tu bhavati ‖*) (Ni. 5-27) **NOTE**.
+
+May the evil intent of enemy people, that is, of those who act with a sinful mind towards us, not harm us. As waves of water strike all round a boat that is on the water, so may the sinful mind of wicked people not harm us: thus an illustration is given for the waves of water and the sinful minds of wicked people. The word ऊर्मि (*ūrmi*) is formed from the root ऊर्णोति (*ūrṇoti*), which means "to cover". Because the waves repeatedly cover the shore, they have the name ऊर्मि (*ūrmi*). The word नौः (*nauḥ*) is formed from the root नयति (*nayati*), which means "to rise" or "to float" **NOTE**; that is, it is drawn or moves over the water, and so a boat has the name नौः (*nauḥ*). Or else this word may be formed from the root नमति (*namati*), which means "to bend". Now, the pronominal word समं (*samaṃ*) has been said to be wholly anudātta; is it not contradictory for a noun or pronoun to have the designation wholly anudātta? The answer is that this word समं (*samaṃ*), like a subanta word, is used in all seven cases, taking various forms with the endings. In the present Ṛk the genitive singular समस्य (*samasya*) is used. In the same way, in the Ṛk उतो समस्मिन्नाशितीहि नो वसो वाजी सुशिस्र गोमति (*uto samasminnāśitīhi no vaso vājī suśisra gomati*) (Ṛ. Saṃ. 8-1-8) the locative singular समस्मिन् (*samasmin*) is used. This is the main purport of the explanation.
+
+### Printed p. 140
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नम॑स्ते अग्न॒ ओज॑से गृ॒णंति॑ देव कृ॒ष्टयः॑ ।  
+> अमै॑र॒मित्र॑मर्दय ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नमः । ते । अग्ने । ओजसे । गृणंति । देव । कृष्टयः ।  
+> अमैः । अमित्रम् । अर्दय ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देव ते तुभ्यं नमः गृणंति नमस्कारशब्दमुंचारयंति । किमर्थम् । ओजसे बलाय । के। कृष्टयः मनुष्या यजमानाः । अतोऽहमपि गृणामीत्यर्थः । तथा अमैः बलैः अमित्रं शत्रुम् अर्दय नाशय ॥ ॥ २५ ॥
+> ग्राम्येणाग्निना वैतानिकस्य संसर्गेऽग्नये संवर्गायेष्टिः कार्या । तत्र ‘कुवित्सु नः' इत्यनुवाक्या ‘ मा नो अस्मिन्' इति याज्या । सूत्रितं च -- कुवित्सु नो गविष्टये मा नो अस्मिन्महाधने' (आश्व. श्रौ. ३. १३) इति ॥
+
+##### Gist of the bhāṣya
+
+O divine Agni, men, that is, the sacrificers, utter the word of homage to you, for strength; therefore I too utter it. And with your forces destroy the enemy. For the Saṃvarga iṣṭi: when the Vaitānika fire is brought into contact with the domestic fire, an iṣṭi to Agni Saṃvarga is to be performed. In it कुवित्सु नः (*kuvitsu naḥ*) is the anuvākyā and मा नो अस्मिन् (*mā no asmin*) the yājyā. It is also laid down in the sūtra: कुवित्सु नो गविष्टये मा नो अस्मिन्महाधने (*kuvitsu no gaviṣṭaye mā no asminmahādhane*) (Āśv. Śrau. 3. 13).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—of divine nature
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—to you
+- कृष्टयः (*kṛṣṭayaḥ*)—men
+- ओजसे (*ojase*)—for the acquisition of strength
+- नमः (*namaḥ*)—praise accompanied by homage
+- गृणंति (*gṛṇaṃti*)—recite
+- अम्यैः (*amyaiḥ*)—with your forces
+- अमित्रं (*amitraṃ*)—the enemy
+- अर्दय (*ardaya*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of divine nature, all men recite praise accompanied by homage to you for the acquisition of strength. (In the same way I too praise you.) With your forces destroy the enemies.
+
+##### English translation
+Divine Agni, men utter your praises for the attainment of strength ; by strength destroy the enemy.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒वित्सु नो॒ गवि॑ष्ट॒येऽग्ने॑ सं॒वेषि॑षो र॒यिम् ।  
+> उरु॑कृदु॒रु ण॑स्कृधि ॥ ११ ॥
+
+### Printed p. 141
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । सु । नः । गोऽइष्टये । अग्ने । सम्ऽवेषिषः । रयिम् ।  
+> उरुऽकृत् । उरु । नः । कृधि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नः अस्माकं गविष्टये गवामेषणाय कुवित् बहु रयिं धनं संवेषिषः संप्रापय । उरुकृत् त्वं नः अस्मान् उरु कृधि कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bring us much wealth, in order to seek cows for us. You, maker of wide room, make us wide, that is, give us room.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—to us
+- गविष्टये (*gaviṣṭaye*)—cows
+- कुवित् (*kuvit*)—very abundant
+- रयिं (*rayiṃ*)—wealth
+- सु संवेषिषः (*su saṃveṣiṣaḥ*)—provide
+- उरुकृत् (*urukṛt*)—you, the one who causes increase
+- नः (*naḥ*)—us
+- उरु (*uru*)—as prosperous
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide us with very abundant wealth to obtain cows. You, who cause increase, make us prosperous.
+
+##### English translation
+Agni, send us abundance of wealth to satisfy our desires ; giver of free space, grant us abundant room.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Saṃvarga iṣṭi this Ṛk कुवित्स नः (*kuvitsa naḥ*) is to be recited as the anuvākyā mantra, and the next Ṛk, मा नो अस्मिन् (*mā no asmin*), as the yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra कुवित्स नो गविष्टये मा नो अस्मन्महाधने (*kuvitsa no gaviṣṭaye mā no asmanmahādhane*) (Ā. 3-13).
+
+### Printed p. 142
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ अ॒स्मिन्म॑हाध॒ने परा॑ वर्ग्भार॒भृद्य॑था ।  
+> सं॒वर्गं॒ सं र॒यिं ज॑य ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । अस्मिन् । महाऽधने । परा । वर्क् । भारऽभृत् । यथा ।  
+> सम्ऽवर्गम् । सम् । रयिम् । जय ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नः अस्मान् अस्मिन् महाधने संग्रामे मा परा वर्क् मा परित्याक्षीः । भारभृद्यथा । भारवाही यथा भारमंते परित्यजति तद्वत् । संवर्गं शत्रुभ्यः सहाच्छिद्यमानं रयिं धनं सं जय अस्मदर्थम् ॥
+
+##### Gist of the bhāṣya
+
+Do not abandon us in this great-wealth battle, as a bearer of a burden abandons the burden at the end. Win for us the wealth that is gathered together (संवर्गं (*saṃvargaṃ*)), snatched away from the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भारभृत् (*bhārabhṛt*)—(O Agni) one who carries a burden
+- यथा (*yathā*)—as he abandons his burden, so
+- नः (*naḥ*)—us
+- महाधने (*mahādhane*)—that is fought for abundant wealth
+- अस्मिन् (*asmin*)—in this battle
+- मा परा वर्क् (*mā parā vark*)—do not abandon
+- संवर्गं (*saṃvargaṃ*)—gathered by the enemies
+- रयिं (*rayiṃ*)—wealth
+- स जय (*sa jaya*)—win for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as one who carries a burden abandons his burden, so do not abandon us in this battle fought for abundant wealth. Win for us the wealth gathered by the enemies.
+
+##### English translation
+Leave us not in this conflict as a bearer his burden ; win for us the plundered wealth of our foes.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्यम॒स्मद्भि॒या इ॒यमग्ने॒ सिष॑क्तु दु॒च्छुना॑ ।  
+> वर्धा॑ नो॒ अम॑व॒च्छवः॑ ॥ १३ ॥
+
+### Printed p. 143
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यम् । अस्मत् । भियै । इयम् । अग्ने । सिसक्तु । दुच्छुना ।  
+> वर्ध । नः । अमऽवत् । शवः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वदीया इयं दुच्छुना बाधकसंहतिः अस्मत् अन्यम् अस्तोतारं भियै भयाय सिषक्तु सेवताम् । त्वं च नः अस्माकम् अमवत् बलोपेतं शवः वेगं वर्ध वर्धय संग्रामे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, may this harassing host of yours attach itself, for fear, to one other than us, one who is not a praiser. And you, increase our strength endowed with force, our impetus, in the battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दुच्छुना (*ducchunā*)—that causes harm
+- इयं (*iyaṃ*)—this power
+- अस्मत् (*asmat*)—than us
+- अस्यं (*asyaṃ*)—of another enemy
+- भियै (*bhiyai*)—as a cause of fear
+- सिषक्तु (*siṣaktu*)—may it be employed
+- नः (*naḥ*)—our
+- अमुवत् (*amuvat*)—powerful
+- शवः (*śavaḥ*)—impetus
+- वर्ध (*vardha*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may this harmful power be employed as a cause of fear to an enemy other than us. Increase our powerful impetus.
+
+##### English translation
+Agni, may your plagues pursue some other to terrify him ; increase our vigorous strength is battle.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्याजु॑षन्नम॒स्विनः॒ शमी॒मदु॑र्मखस्य वा ।  
+> तं घेद॒ग्निर्वृ॒धाव॑ति ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । अजुषत् । नमस्विनः । शमीम् । अदुःऽमखस्य । वा ।  
+> तम् । घ । इत् । अग्निः । वृधा । अवति ॥ १४ ॥
+
+### Printed p. 144
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य नमस्विनः नमस्कारवतः अदुर्मखस्य वा अदुष्टयागस्य वा शमीं कर्म अजुषत् असेवत तं घेत् तमेव यजमानं संग्रामे अग्निर्विधावति विशेषेण गच्छति । अतो नमोयुक्ता अदुर्मखाश्च भवामेति भावः ॥
+
+##### Gist of the bhāṣya
+
+Whose act of rite, the act of a man full of homage or of one whose sacrifice is faultless, Agni has accepted, that very sacrificer Agni specially goes to, to help him, in the battle. Therefore let us be filled with homage and faultless in sacrifice: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नमस्विनः (*namasvinaḥ*)—full of homage
+- वा (*vā*)—or
+- अदुर्मुखस्य (*adurmukhasya*)—who performs a sacrifice free of sin
+- यस्य (*yasya*)—of whatever sacrificer
+- शमीां (*śamīāṃ*)—the rite
+- अजुषत् (*ajuṣat*)—Agni has accepted
+- तं घेत् (*taṃ ghet*)—that very sacrificer
+- अग्निः (*agniḥ*)—Agni
+- वृथा (*vṛthā*)—exceedingly
+- अवति (*avati*)—protects
+
+##### भावार्थ (Bhāvārtha)
+
+Agni exceedingly protects that very sacrificer, full of homage or performing a sacrifice free of sin, whose rite Agni has accepted.
+
+##### English translation
+Agni especiallv protects (in battle) that praiser or zealous sacrificer whose offerings he has attended.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर॑स्या॒ अधि॑ सं॒वतोऽव॑राँ अ॒भ्या त॑र ।  
+> यत्रा॒हमस्मि॒ ताँ अ॑व ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परस्याः । अधि । सम्ऽवतः । अवरान् । अभि । आ । तर ।  
+> यत्र । अहम् । अस्मि । तान् । अव ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने परस्याः अन्यस्याः संवतः सेनायाः अवरान् अन्यानस्मदीयान् अभि अभिमुखम् आ सर्वतः तर तारय । वैरिसेना अस्मद्भटैः पराभावयेत्यर्थः । यत्र येष्वस्मदीयपरिजनमध्ये अहमस्मि स्वामी तानव रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Agni, carry our own people, the lower ones (अवरान् (*avarān*)), from every side towards the front across the other host; let the enemy hosts be defeated by our warriors. Protect those among whom, in the midst of my own people, I am, the master.
+
 ---
 
-**Progress note:** Done through printed p. 138. Sukta 25 (Mandala 8), Rks 3-9 pratipada and bhavartha, pp. 133-138
+**Progress note:** Done through printed p. 144. Sukta 25 (Mandala 8), Rk 9 end and Rks 10-15, pp. 139-144
