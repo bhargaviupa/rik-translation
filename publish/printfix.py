@@ -145,8 +145,8 @@ def stamp(doc):
     """Every PDF says when it was built (REQUIREMENTS H2.7; user, Nov 26 2026, after reading an old copy for a day): the footer reads
     'REVIEW COPY · built 26 Nov 2026 03:10 UTC'.  Two copies can then be told apart at a glance."""
     import datetime
-    when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y %H:%M UTC')
-    css = f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY  ·  built {when}"; }} }} @page front {{ @bottom-left {{ content: none; }} }} @page :first {{ @bottom-left {{ content: none; }} }} @page :blank {{ @bottom-left {{ content: none; }} }}</style>'
+    when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y %H:%M')
+    css = f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY\\A built {when} UTC"; white-space: pre; }} }} @page front {{ @bottom-left {{ content: none; }} }} @page :first {{ @bottom-left {{ content: none; }} }} @page :blank {{ @bottom-left {{ content: none; }} }}</style>'
     return doc.replace('</head>', css + '</head>', 1)
 def fix(doc):
     doc = stamp(doc)
