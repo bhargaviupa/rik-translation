@@ -40,3 +40,5 @@
 - Nov 26 2026: 9 running heads: the title words with [?] (ಋಗ್ವೇದಸಂಹಿತಾ / ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, the volume's two head titles, 415/413 clean heads) set to the clean form when ≥0.75 similar; 3-digit page numbers with [?] set to PDF page − 12. Listed in review/heads_applied.tsv.
 
 - Nov 26 2026 (user: derive the head digits from the neighbours): 8 running heads set from the unmarked heads before and after them (p709 label, p743 odd-page head, p774 sūkta ೨೩, p796 ೨೭, p817 stray mark, p887/888/889 `ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩`). Not derivable and left marked: p883 and p885 (Varga: 32 at p879, 33–35 after; p881 reads `ವ. ೨` without a mark, probably ೩೨/೩೩). List: review/heads_applied.tsv.
+
+- Nov 26 2026 (user: correct the clear ones): 25 unmarked running-head digits corrected where they broke the page-to-page sequence and a single look-alike swap (೨↔೩, ೬↔೭, ೮↔೯) gave the one value inside the bracket of the neighbouring heads (Varga must not fall; Adhyāya agrees with both neighbours). Found by the neighbour check (review/head_anomalies.tsv); list in review/heads_applied.tsv. Not changed (ambiguous): p71, p169, p185, p335–339, p371, p383, p493, p601, p785, p803, p845, p881.
