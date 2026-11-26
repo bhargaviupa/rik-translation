@@ -18656,6 +18656,267 @@ May Saraswat, (endowed) with intelligences, Varuna the observer of oblations, Pu
 
 > वृषा । यज्ञः । वृषणः । संतु । यज्ञियाः । वृषणः । देवाः । वृषणः । हविःकृतः ।
 
+### Printed p. 542
+
+> वृषणा । द्यावापृथिवी इति । ऋतवरी इत्यृतवरी । वृषा । पर्जन्यः । वृषणः । वृषस्तुभः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञ एषोऽस्मदीयो वृषा कामानां वर्षितास्तु । तथा यज्ञिया
+> यज्ञार्हा देवाश्च वृषणः संतु । किंच देवाः स्तुतिकारिण ऋत्विजो वृषणो धनवर्षणे कारणानि संतु साधुस्तुतिकरणेन । तथा हविष्कृतो हनिषां कर्तारोऽध्वर्यादयो वृषणोऽव्यग्रतया मंत्रसाहित्येन च हविष्णुदानेन । अपि चर्तावरी यज्ञवत्यौ द्यावापृथिवी द्यावापृथिव्यौ वृषणा हविरुत्पादनेन कामानां वर्षयित्र्यौ भवतां। तथा पर्जन्य इंद्रो वृषापां वर्षिता भवतु । वृषस्तुभो वर्षणशीलस्तुतिभिर्देवान्सुवंतः सर्व ऋत्विजो वृषणो भवंतु ॥
+
+##### Gist of the bhāṣya
+
+May this sacrifice of ours be a showerer (वृषा (*vṛṣā*)) of desires. May the gods who are worthy of sacrifice (यज्ञिया (*yajñiyā*)) be showerers. May the praising priests, the gods of the verse, be causes of the showering of wealth by praising well. May the offerers of oblations, the Adhvaryu and the others, be showerers by their unflagging attention, by accompanying the mantras, and by the giving of oblations. May heaven and earth, both possessed of sacrifice (ऋतावरी (*ṛtāvarī*)), be showerers of desires by producing the oblation. May Parjanya, that is Indra, be the showerer of waters. May all the priests who bring the gods near with showering praises (वृषस्तुभः (*vṛṣastubhaḥ*)) be showerers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञः (*yajñaḥ*)—our sacrifice
+- वृषा (*vṛṣā*)—let it be the giver of desired ends
+- यज्ञियाः (*yajñiyāḥ*)—the gods worthy of worship
+- वृषणः संतु (*vṛṣaṇaḥ saṃtu*)—let them be those who shower our desire
+- देवाः (*devāḥ*)—the priests who are praisers
+- वृषणः (*vṛṣaṇaḥ*)—let them be givers of desired ends
+- हविष्कृतः (*haviṣkṛtaḥ*)—the priests who offer the oblation
+- वृषणः (*vṛṣaṇaḥ*)—let them be the procurers of desires
+- ऋतावरी (*ṛtāvarī*)—possessed of sacrifice
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- वृषणा (*vṛṣaṇā*)—let them be givers of desired ends
+- पर्जन्यः (*parjanyaḥ*)—Parjanya (Indra)
+- वृषा (*vṛṣā*)—let him be the giver of desires (let him shower rain)
+- वृषस्तुभः (*vṛṣastubhaḥ*)—the priests who offer praises that procure the desired end
+- वृषणः (*vṛṣaṇaḥ*)—let them be those who shower the desired things
+
+##### भावार्थ (Bhāvārtha)
+
+May our sacrifice be the giver of desired ends. May our gods, who are worthy of worship, fulfil our wish; may the praising priests be givers of desired ends. May heaven and earth, which possess sacrifice, and Parjanya, each according to his own nature, provide our desired ends. May the praising priests too help them.
+
+##### English translation
+May (our) sacrifice be the showerer (of benefits); may the gods who are worthy of sacrifice be the showerers (of beeefits); may the priests, may the presenters of the oblation, be the showerers (of benefits); may heaven and earth receiving adoration be the showerer (of benefits); may Parjanya be the showerer (of rain), may those who praise (the gods) with showers be showerers.
+
+### Printed p. 543
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नीषोमा॒ वृष॑णा॒ वाज॑सातये पुरुप्रश॒स्ता वृष॑णा॒ उप॑  
+> ब्रुवे ।  
+> यावी॑जि॒रे वृष॑णो देवय॒ज्यया॒ ता नः॒ शर्म॑ त्रि॒वरू॑थं॒ वि  ॑
+> यंसतः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नीषोमा । वृषणा । वाजसातये । पुरुप्रशस्ता । वृषणौ । उप । ब्रुवे ।  
+> यौ । ईजिरे । वृषणः । देवयज्यया । ता। नः । शर्म । त्रिवरूथं । नि । यंसतः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषणा वर्षणशीलौ पुरुप्रशस्ता बहुभिः प्रशस्तावग्नीषोमौ वाजसातयेऽन्नलाभायोप ब्रुवे । अहमुपस्तौमि । पुनर्वृषणावित्यादरार्थं । यौ देवौ वृषण
+> ऋत्विजो देवयज्यया । देवा इज्यंतेऽत्रेति देवयज्या यज्ञः ॥ छंदसि निष्टर्कैति निपातितः ॥ तेनेजिरे यजंते हविर्भिः पूजयंति ता त् प्रसिद्धौ नोऽस्मभ्यं
+> त्रिवरूथं त्रिष्कंभं शर्म गृहं वि यंसतः । विशेषेण प्रयच्छतां ॥
+
+##### Gist of the bhāṣya
+
+I address, for the gaining of food, Agni and Soma, the two showerers (वृषणा (*vṛṣaṇā*)), praised by many (पुरुप्रशस्ता (*purupraśastā*)). उप ब्रुवे (*upa bruve*) means "I praise"; the repetition वृषणौ (*vṛṣaṇau*) is for emphasis. The two gods whom the priests (वृषणः (*vṛṣaṇaḥ*)) worship with देवयज्यया (*devayajyayā*) — the sacrifice in which the gods are worshipped, the word being irregularly formed in the Veda — that is, worship with oblations: those famous two, may they specially give to us a dwelling (शर्म (*śarma*)) with three supports (त्रिवरूथं (*trivarūthaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—the givers of desired ends
+- पुरुप्रशस्ता (*purupraśastā*)—those who are praised abundantly
+- अग्निषोमा (*agniṣomā*)—the deities Agni and Soma
+- वाजसातये (*vājasātaye*)—for the gaining of food
+- उप ब्रुवे (*upa bruve*)—I praise
+- यौ (*yau*)—which Agni and Soma
+- वृषणः (*vṛṣaṇaḥ*)—the priests
+- देवयज्यया (*devayajyayā*)—with the sacrifice that worships the gods
+- ईजिरे (*ījire*)—who worship
+- ता (*tā*)—those same deities
+- नः (*naḥ*)—to us
+- त्रिवरूथं (*trivarūthaṃ*)—having protection in three ways
+- शर्म (*śarma*)—a dwelling
+- वि यंसतः (*vi yaṃsataḥ*)—let them provide
+
+##### भावार्थ (Bhāvārtha)
+
+I praise, for the gaining of food, Agni and Soma, the givers of desired ends, who are praised abundantly. Those famous deities, Agni and Soma, whom the priests worship with the sacrifice that worships the gods, may they provide us a dwelling furnished with three kinds of protection.
+
+### Printed p. 544
+
+##### English translation
+I glorify for the obtaining of food the two showerers (of benefits), Agni and Soma, the many-lauded showerers (of beuefits), may these two whom the priests have worshipped with divine worship bestow upon us a triply-guarded dwelling.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धृ॒तव्र॑ताः क्ष॒त्रिया॑ यज्ञनि॒ष्कृतो॑ बृहद्दि॒वा अ॑ध्व॒राणा॑मभि॒त्रियः॑ ।  
+> अ॒ग्निहो॑तार ऋत॒सापो॑ अ॒द्रुहो॒पो अ॑सृज॒न्ननु॑ वृत्र॒तूर्ये॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धृतव्रताः । क्षत्रियाः । यज्ञनिःकृतः । बृहत्दिवाः । अध्वराणां । अभिश्रियः ।  
+> अग्निहोतारः । ऋतसापः । अद्रुहः । अपः । असृजन् । अनु । वृत्रतूर्ये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धृतव्रता धृतकर्माणो जात्या क्षत्रियाः। यद्वा। क्षत्रं बलं। तदर्हाः। यज्ञनिष्कृतः । यज्ञं प्रति निर्गमनं यज्ञनिः । तस्य कर्तारो बृहद्दिवा महातेजस्का
+> अध्वराणां रक्षोभिरहिंसितानां यज्ञानामभिश्रियोऽभिसेवका अग्निहोतारोऽग्निर्होताह्वाता येषां तादृशा ऋतसापः ॥ षप समवाये ॥ सत्यभाजः अत एवाद्रुहः केषांचिदप्यद्रोग्धारः । यद्वा ॥ द्रुहेः कर्मण्याणादिकः क्विप् ॥ कैश्चिदप्यहिंस्याः। एवंप्रभावा देवा वृत्रतूर्ये। वृत्रस्तूर्यते हिंस्यतेऽत्रेति वृत्रतूर्यः
+> संग्रामः । तस्मिन्नपामावरकशत्रुवधेऽप उदकान्यन्वसृजन् । अन्वसारयन् ॥
+
+##### Gist of the bhāṣya
+
+The gods are धृतव्रता (*dhṛtavratā*), upholders of their rites, and by birth क्षत्रियाः (*kṣatriyāḥ*); or else क्षत्रं (*kṣatraṃ*) is strength and they are worthy of it. यज्ञनिष्कृतः (*yajñaniṣkṛtaḥ*): यज्ञनिः (*yajñaniḥ*) is going forth to the sacrifice, and they are its makers. They are बृहद्दिवा (*bṛhaddivā*), of great splendour; अभिश्रियः (*abhiśriyaḥ*), attendants of the sacrifices (अध्वराणां (*adhvarāṇāṃ*)) that are not injured by demons; अग्निहोतारः (*agnihotāraḥ*), having Agni as their invoking priest; ऋतसापः (*ṛtasāpaḥ*), partakers of truth; and therefore अद्रुहः (*adruhaḥ*), not harming even any others. Or else, अद्रुहः (*adruhaḥ*) is formed from the root *druh* with क्विप् (*kvip*), meaning those who cannot be harmed by anyone. Gods of such power, in वृत्रतूर्ये (*vṛtratūrye*) — the battle in which Vṛtra is slain — released (असृजन् (*asṛjan*)) the waters after him (अनु (*anu*)), that is, made them flow, when the enemy that obstructed the waters was slain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतव्रताः (*dhṛtavratāḥ*)—those who firmly perform their appointed rites
+- क्षत्रियाः (*kṣatriyāḥ*)—the powerful
+- यज्ञनिष्कृतः (*yajñaniṣkṛtaḥ*)—those who go together for the sacrifice
+- बृहद्दिवाः (*bṛhaddivāḥ*)—those of very great splendour
+- अध्वराणां (*adhvarāṇāṃ*)—to the sacrifices
+- अभिश्रियः (*abhiśriyaḥ*)—those who give shining protection
+- अग्निहोतारः (*agnihotāraḥ*)—those who have Agni himself as invoking priest
+- ऋतसापः (*ṛtasāpaḥ*)—protectors of truth
+- अद्रुहः (*adruhaḥ*)—those who wish harm to no one; such are the gods
+- वृत्रतूरै (*vṛtratūrai*)—in the battle that destroys Vṛtra
+- अपः (*apaḥ*)—the waters
+- अनु असृजन् (*anu asṛjan*)—let them produce and pour out
+
+### Printed p. 545
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, who firmly perform their appointed rites, who are powerful, go together for the sacrifice, have very great splendour, give shining protection to the sacrifices, have Agni himself as invoking priest, are protectors of truth and wish harm to no one — may they, in the battle that destroys Vṛtra, pour out the waters and make them flow.
+
+##### English translation
+The (gods) observing obligations endowed with vigour, developers of sacrifice, possessed of abundant brightness, the defenders of sacrifices, having Agni for their priest, enjoying truth, unassailable, set free the waters at the combat with the Vritra.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यावा॑पृथि॒वी ज॑नयन्न॒भि व्र॒ताप॒ ओष॑धीर्व॒निना॑नि य॒ज्ञिया॑ ।  
+> अं॒तरि॑क्षं॒ स्व१॒॑रा प॑पुरू॒तये॒ वशं॑ दे॒वास॑स्त॒न्वी॒३॒॑३नि मा॑मृजुः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यावापृथिवी इति । जनयन् । अभि । व्रता । आपः । ओषदीः । वनिनानि । यज्ञिया ।  
+> अंतरिक्षं । स्वः । आ । पपुः । ऊतये । वशं । देवासः । तन्नि । नि । ममृजुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवासो देवा इंद्रादयो द्यावापृथिवी द्यावापृथिव्यावभ्यभिलक्ष्य व्रता
+> व्रतेन स्वेन कर्मणापः ॥ सुब्बत्ययः ॥ अप उदकान्योषधीश्च तथा यज्ञिया
+> यज्ञार्हान्वनिनानि वने भवान्सलाशादीन्वृक्षाञ्जनयन् । उदपादयन् । किंच ते
+> देवाः स्वः सर्वमंतरिक्षमा पपुः । तेजसापूरयंति । किमर्थं । ऊतये रक्षणाय
+> शत्रुभ्यो बाधाभावाय । अपि च वशं काम्यमानं ॥ वशिरण्योरुपसंख्यानं ।
+> पा-३-३-५८-३ । इत्यकर्तरि कारकेऽप् ॥ तं यज्ञं तन्नि स्वशरीरे नि ममृजुः । नितरां
+> शुद्धमलंकृतं चक्रुः ॥
+
+##### Gist of the bhāṣya
+
+The gods, Indra and the others (देवासः (*devāsaḥ*)), with their own proper work (व्रता (*vratā*)) directed towards heaven and earth, brought forth the waters and the plants, and likewise the trees (वनिनानि (*vanināni*)) of the forest, such as the palāśa, which are fit for sacrifice (यज्ञिया (*yajñiyā*)). Moreover those gods filled the whole firmament (अंतरिक्षं (*aṃtarikṣaṃ*)) with their lustre, for protection (ऊतये (*ūtaye*)), that is, so that there may be no hindrance from enemies. And they thoroughly purified and adorned in their own bodies that sacrifice which is desired (वशं (*vaśaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—the gods, Indra and the others
+- अभि व्रता (*abhi vratā*)—by their respective individual works
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अपः (*apaḥ*)—the waters
+- ओषधीः (*oṣadhīḥ*)—the creepers and the like
+
+### Printed p. 546
+- यज्ञिया (*yajñiyā*)—fit for sacrifice
+- वनिनानि (*vanināni*)—the trees
+- जनयन् (*janayan*)—they produced
+- स्वः अंतरिक्षं (*svaḥ aṃtarikṣaṃ*)—the whole firmament
+- ऊतये (*ūtaye*)—for protection
+- आ पपुः (*ā papuḥ*)—they have filled with their lustre
+- वशं (*vaśaṃ*)—the attractive sacrifice
+- तन्नि (*tanni*)—in their own bodies
+- नि ममृजुः (*ni mamṛjuḥ*)—they take it within and adorn themselves
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, Indra and the others, by their respective individual works, produced heaven and earth, the waters, the creepers and the like, and the trees fit for sacrifice. They have filled the whole firmament with their lustre for protection. They take the attractive sacrifice within their bodies and adorn themselves.
+
+##### English translation
+The gods engendered the heaven and earth with their respective functions, the waters, the plants, the sacred trees; they filled the whole firmament (with lustre) for its protection; they graced the desirable (sacrifice) in their own persons.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध॒र्तारो॑ दि॒व ऋ॒भवः॑ सु॒हस्ता॑ वातापर्ज॒न्या म॑हि॒षस्य॑ तन्य॒तोः ।  
+> आप॒ ओष॑धीः॒ प्र ति॑रंतु नो॒ गिरो॒ भगो॑ रा॒तिर्वा॒जिनो॑ यंतु ॒ ॑
+> मे हवं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धर्तारः । दिवः । ऋभवः । सुहस्ताः । वातापर्जन्या । महिषस्य । तन्मतोः ।  
+> आपः । ओषधीः । प्र । तिरंतु । नः । गिरः । भगः । रातिः । वाजिनः । यंतु । मे । हवं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य धर्तारो धारयितार ऋभवः सत्येन भासमानाः सुहस्ताः
+> शोभनवज्राद्यायुधयुक्तहस्ता देवास्तथा महिषस्य महतस्तन्यतोः शब्दस्य ॥ तनु
+> विस्तारे । ऋतन्यंजीति यतुच्छत्ययः ॥ शब्दस्य कर्तार् वातापर्जन्या वातश्च पर्जन्यश्च तत्कार्या अप ओषधीरोषधयश्च नोऽस्माकं गिरः स्तुतीः प्रतिरंतु । प्रवर्ध-
+
+##### Gist of the bhāṣya
+
+The gods are upholders (धर्तारः (*dhartāraḥ*)) of the world of heaven, the Ṛbhus shining with truth, with fine hands (सुहस्ताः (*suhastāḥ*)), that is, hands furnished with fine weapons such as the thunderbolt. Vāta and Parjanya, makers of the great (महिषस्य (*mahiṣasya*)) sound (तन्यतोः (*tanyatoḥ*), from the root तनु (*tanu*), "to extend"), and the waters and plants that are their effects, let them make our praises (गिरः (*giraḥ*)) prosper (प्रतिरंतु (*pratiraṃtu*)). The sentence goes on in the next block.
+
+### Printed p. 547
+
+> यंतु । प्रपूर्वस्तिरतिर्वृद्ध्यर्थः । तथा रातिर्दाता भगो भजनीयोऽर्यमा च
+> वाजिनः । अग्निर्वायुः सूर्यस्ते वै वाजिन इति तैत्तिरीयब्राह्मणं । १-६-३-९ ।
+> एते देवाश्च मे मदीयं हवमाह्वानं यंतु । अभिगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+प्रतिरंतु (*pratiraṃtu*) is the root तिर (*tira*) with the prefix प्र (*pra*), in the sense of increase. Likewise the giver (रातिः (*rātiḥ*)), Bhaga the adorable, that is Aryaman, and the Vājins — Agni, Vāyu and Sūrya: "Agni, Vāyu, Sūrya, they are the Vājins" (अग्निर्वायुः सूर्यस्ते वै वाजिन इति (*agnirvāyuḥ sūryaste vai vājina iti*)), Tai. Brā. 1-6-3-9. May these gods come to my invocation (हवं (*havaṃ*)), that is, approach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the world of heaven
+- धर्तारः (*dhartāraḥ*)—the upholders
+- ऋभवः (*ṛbhavaḥ*)—those who shine with their true nature
+- सुहस्ताः (*suhastāḥ*)—those having excellent hands
+- महिषस्य (*mahiṣasya*)—of the great
+- तन्यतोः (*tanyatoḥ*)—to the sound, the makers
+- वातापर्जन्या (*vātāparjanyā*)—Vāyu and Parjanya
+- आपः (*āpaḥ*)—the waters
+- ओषधीः (*oṣadhīḥ*)—the plants
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—the praises
+- प्रतीरंतु (*pratīraṃtu*)—let them make them grow
+- रातिः (*rātiḥ*)—the generous
+- भगः (*bhagaḥ*)—the god Bhaga
+- वाजिनः (*vājinaḥ*)—Agni, Vāyu and Sūra
+- मे (*me*)—my
+- हवं (*havaṃ*)—having regard to the invocation
+- यंतु (*yaṃtu*)—let them come
+
+##### भावार्थ (Bhāvārtha)
+
+Vāyu and Parjanya, who are upholders of the world of heaven, shine with their true nature, have excellent hands and are makers of the great sound, let them make the waters and plants make our praises grow. May the generous god Bhaga, and Agni, Vāyu and Sūra, come having regard to my invocation.
+
+##### English translation
+May the upholders of the sky, the radiant with truth, the well-armed deities, Vata and Parjanya, (the utterers) of the mighty thunder, the waters, the plants, amplify our praises ; may the liberal Bhaga and the Vajins come to my invocation.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रः सिंधू॒ रजो॑ अं॒तरि॑क्षम॒ज एक॑पात्तनयि॒त्र॑ुर्ण॒वः ।  
+> अहि॑र्बु॒ध्न्यः॑ शृणव॒द्वचां॑सि मे॒ विश्वे॑ दे॒वास॑ उ॒त सू॒रयो॒  ॑
+> मनु ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रः । सिंधुः । रजः । अंतरिक्षं । अजः । एकपात् । तनयित्नुः । अर्णवः ।  
+> अहिः । बुध्न्यः । शृणवत् । वचांसि । मे । विश्वे । देवासः । उत । सूरयः । मम ॥
+
 ---
 
-**Progress note:** Done through printed p. 541. pp. 536-541 (batch API)
+**Progress note:** Done through printed p. 547. pp. 542-547 (batch API)
