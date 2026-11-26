@@ -103,21 +103,18 @@ def contents_html(cfg):
     for b in blocks:
         if b['t'] == 'item' and isinstance(f.get(str(b['src'])), int): b['page'] = f[str(b['src'])]
     h = c['heading']
-    out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>']
+    import printfix
+    rows = []
     for b in blocks:
         t = html.escape(b['text'])
-        if b['t'] == 'sukta':
-            out.append(f'<p class="csu"><span class="no">{b["no"]}.</span> {t}—</p>')
-        elif b['t'] == 'mandala':
-            out.append(f'<p class="cma">{t}—</p>')
-        elif b['t'] == 'center':
-            out.append(f'<p class="cce">{t}</p>')
+        if b['t'] == 'sukta': rows.append({'no': b['no'], 'html': f'<strong>{t}</strong>'})
+        elif b['t'] in ('mandala', 'center'): rows.append({'kind': 'head', 'html': f'<strong>{t}</strong>'})
         else:
             pg = b['page']
             tgt = {str(k): v for k, v in cfg.get('contents_target_overrides', {}).items()}.get(str(b['src']), pg)   # link target only; the printed number is shown
-            link = f'<a href="#p{tgt}">{pg}</a>' if pg else ''
-            out.append(f'<p class="cit"><span class="tx">{t}</span><span class="pn">{link}</span></p>')
-    out.append('</section>')
+            rows.append({'html': t, 'page': f'<a href="#p{tgt}">{pg}</a>' if pg else ''})
+    out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>',
+           printfix.contents_table(rows, note='', head=('ಸಂ.', 'ವಿಷಯ', 'ಪುಟ')), '</section>']
     return '\n'.join(out), blocks
 
 
@@ -184,8 +181,8 @@ def contents_en_html(cfg, fe, suk_ids):
         return re.sub(r'⟦([^⟧]*)⟧', lambda m: '\0' + deva_to_iast(kn2deva(m.group(1))).replace('è', 'e').replace('ò', 'o') + '\1', t)
     def esc(t):
         t = html.escape(conv(t)); return t.replace('\0', '<i>').replace('\1', '</i>')
-    out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>']
-    si = 0
+    import printfix
+    rows, si = [], 0
     first_pg, cur = {}, None                       # printed page of the first item of each sūkta (the sūkta line shows where its text begins)
     for b in blocks:
         if b['t'] == 'sukta': cur = b['src']
@@ -195,15 +192,15 @@ def contents_en_html(cfg, fe, suk_ids):
         if b['t'] == 'sukta':
             si += 1; pg = first_pg.get(b['src'])
             tgt = f'#p{pg}' if pg else (f'#{suk_ids[si-1]}' if si <= len(suk_ids) else '')
-            out.append(f'<p class="csu"><a href="{tgt}">{t}{fn}</a></p>')
-        elif b['t'] == 'mandala':
-            out.append(f'<p class="cma">{t}</p>')
-        elif b['t'] == 'center':
-            out.append(f'<p class="cce">{t}</p>')
+            mno = re.match(r'\s*(\d+)\.\s+(.*)', t, flags=re.S)                       # '29. The twenty-ninth sūkta, …' -> number column
+            rows.append({'no': mno.group(1) if mno else '', 'html': f'<strong>{mno.group(2) if mno else t}</strong>{fn}', 'href': tgt})
+        elif b['t'] in ('mandala', 'center'):
+            rows.append({'kind': 'head', 'html': f'<strong>{t}</strong>{fn}'})
         else:
             pg = ov.get(str(b['src']), b.get('page'))
-            out.append(f'<p class="cit"><a href="#p{pg}">{t}{fn}</a></p>' if pg else f'<p class="cit">{t}{fn}</p>')
-    out.append(f'<p class="cnote">{html.escape(fe["contents"]["page_note"])}</p></section>')
+            rows.append({'html': t + fn, 'href': f'#p{pg}' if pg else ''})
+    out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>',
+           printfix.contents_table(rows, note=fe["contents"]["page_note"]), '</section>']
     return '\n'.join(out)
 
 NOTE_RX = re.compile(r'^(\[|Running head|\(The supplied|\(In the supplied|\(A small stray|\(Note|Note|Stray line|\(Readings|Title page of the volume)')
@@ -345,6 +342,7 @@ def wrap(front_html, rest, kan, vol):
             f'<link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol1.css">{css}<link rel="stylesheet" href="../style_footer.css"></head><body>\n{front_html}\n{rest}\n</body></html>')
 
 def write(doc, name, html_only, vol):
+    import printfix; doc = printfix.fix(doc)
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'{name}.html').write_text(doc, encoding='utf-8')
     print(f'wrote out/{name}.html', len(doc) // 1024, 'KB')

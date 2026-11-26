@@ -4,7 +4,7 @@
   python3 publish/pdf_check.py N [N…]        every PDF named *_full*.pdf or *review_copy*.pdf in volN/review/
   python3 publish/pdf_check.py FILE.pdf
 
-Per PDF: pages; FAIL lines (dotted circle; 'original p.' left in the body; a body page without the footer 'Kannada edition p.' /
+Per PDF: pages; FAIL lines (dotted circle; 'original p.' or a 'Page N …' heading left in the body; a body page without the footer 'Kannada edition p.' /
 'REVIEW COPY') and COUNT lines (what a release may not contain and a review copy still shows: [?], [sic], 'as printed', 'as supplied',
 NOTE, GLOSS, words of the translating session).  Exit 1 if any PDF has a FAIL.  Needs pdftotext (poppler).
 Text copied out of a PDF garbles Devanagari conjuncts, so nothing here compares Sanskrit: that is done on the .md files."""
@@ -19,6 +19,8 @@ def check(pdf):
     circ = text.count('◌'); orig = len(re.findall(r'\boriginal pp?\. ?\d', text))
     foot = sum(1 for p in pages if 'Kannada edition p' in p); rev = sum(1 for p in pages if 'REVIEW COPY' in p)
     if circ: fails.append(f'dotted circle ◌: {circ}')
+    heads = re.findall(r'(?m)^\s*(?:Printed )?[Pp]ages? [0-9ivxlc]+(?:[–-][0-9ivxlc]+)?\s*(?:$|[—(].*$)', text)       # a page heading of the working file left in the body
+    if heads: fails.append(f"page heading of the original in the body: {len(heads)}, e.g. {heads[0].strip()[:60]!r}")
     if orig: fails.append(f"'original p. N' in the body: {orig}")
     if foot < 0.9 * n: fails.append(f"footer 'Kannada edition p.' on {foot} of {n} pages")
     if rev < 0.9 * n: fails.append(f"'REVIEW COPY' on {rev} of {n} pages")

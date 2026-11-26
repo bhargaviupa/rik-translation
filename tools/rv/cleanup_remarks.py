@@ -14,10 +14,15 @@ KINDs: oldnotes   old mid-file progress/target notes and the closing progress no
        twin       (Vol 1) a Sanskrit quotation given twice in Devanagari: as printed, then again with the words set apart, then the
                   transliteration.  The second Devanagari line goes (user, Nov 25 2026: "retain only the first lines"); only where the two lines
                   are the same text (letters compared through the transliteration, >= 93 of 100) and the transliteration follows.
-       all        the three kinds every volume gets before a PDF is built (REQUIREMENTS B4.6, B2.6): session, paren, twin, in that order, on
+       all        the kinds every volume gets before a PDF is built (REQUIREMENTS B4.6, B2.6): session, paren, ownnote, twin, leaders, in that order, on
                   EVERY English file of the volume; then `marks`.  Dry run: one line of counts per file and kind.  --write: applies, logs each
                   removal in review/removed_remarks.tsv and one line in review/repair_log.md.  Afterwards rebuild the PDF and compare its
                   chapter/sūkta count with the build before (a removed note may be a marker the builder needs: Vol 1, LESSONS).
+       ownnote    whole-line notes of ours, *( … )* or *[ … ]* (and plain italic lines that name the PDF or the file), that speak about the making:
+                  the page, the scan, the print, the source, what was transcribed, rendered, omitted or continues (user, Nov 26 2026: "we said
+                  we remove own comments").  Notes of at most 450 characters only; a note without such words (a summary of the Sanskrit,
+                  a gloss) stays, and so does a long one: both are listed by `marks`-style review, not removed.
+       leaders    rows of dots typed before a page number ('title ........ p. 4') become ' — p. 4'
        marks      no change: writes volN/review/open_readings.tsv, every `[?]` and `[sic]` left in the file (file, page, line, mark, context)
 Dry run by default: prints counts, damage checks and 30 before/after samples.  --write applies, appends to volN/review/removed_remarks.tsv
 (kind, page, line, text removed, line before, line after) so that any removal can be undone, and prints the damage report.
@@ -236,8 +241,46 @@ def kind_twin(L):
         if not (b.startswith('>') and DV.search(b)) or b.lstrip('> ').startswith('*') or not L[j + 1].lstrip('> ').startswith('*'): continue
         ka, kb = key(a), key(b)
         if len(ka) >= 12 and fuzz.ratio(ka, kb) >= 93: rm[j] = None
+    # the same over several lines: the verse as printed (lines of Devanagari), an empty quote line, then every line again with the words set
+    # apart, each followed by its transliteration
+    i = 0
+    while i < len(L):
+        if not (L[i].startswith('>') and DV.search(L[i]) and '*' not in L[i]): i += 1; continue
+        a0 = i
+        while i < len(L) and L[i].startswith('>') and DV.search(L[i]) and '*' not in L[i]: i += 1
+        if not (i < len(L) and L[i].strip() == '>'): continue
+        j = i + 1; deva, ia = [], 0
+        while j < len(L) and L[j].startswith('>') and L[j].strip() != '>':
+            t = L[j].lstrip('> ')
+            if t.startswith('*') and not DV.search(t): ia += 1
+            elif DV.search(t) and '*' not in t: deva.append(j)
+            else: deva = []; break
+            j += 1
+        if len(deva) >= 1 and ia >= 1 and not any(d in rm for d in deva):
+            ka, kb = key(' '.join(L[a0:i])), key(' '.join(L[d] for d in deva))
+            if len(ka) >= 12 and fuzz.ratio(ka, kb) >= 93:
+                for d in deva: rm[d] = None
+        i = j
     return rm
-KINDS = {'twin': kind_twin, 'session': kind_session, 'paren': kind_paren, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+MAKING = re.compile(r'\bPDF\b|\bscan|\bthe (print|source|original)\b|\bprinted\b|\bprints\b|\btranscrib|\blegib|\brendered\b|\btranslat(ed|ion)\b|\bthis (page|file|section|passage|table|chapter)\b|'
+                    r'\b(next|previous|following|preceding) pages?\b|\bcontinu(es|ed|ing)\b|\bomitted\b|\bnot reproduced\b|\bgiven here\b|\bre-?read\b|\bcolumn|\bfigures?\b|\bp\. ?\d|\bpages? \d|'
+                    r'\bsessions?\b|\bfirst-pass\b|\bnumeral (pass|review)\b', re.I)
+def kind_ownnote(L):
+    rm = {}
+    for i, l in enumerate(L):
+        t = re.sub(r'^>\s*', '', l).strip()
+        if 'Note on a deliberate skip' in l or 'alphabetical rishi-index' in l or len(t) > 450: continue
+        if re.fullmatch(r'\*[(\[].*[)\]]\*', t) and '*' not in t[2:-2].replace('\\*', '') and MAKING.search(t): rm[i] = None
+        elif re.fullmatch(r'\*[^*]+\*', t) and not re.search('[\u0900-\u097f\u0c80-\u0cff]', t) and re.search(r'\bPDF\b|this file\b|first-pass', t): rm[i] = None
+    return rm
+def kind_leaders(L):
+    # '…title ................................. p. 4' (dots typed to imitate the leader of a printed contents page) -> '…title — p. 4'
+    rm = {}
+    for i, l in enumerate(L):
+        n = re.sub(r'\s*\.{5,}\s*(?=pp?\. ?[0-9ivxlc])', ' — ', l)
+        if n != l: rm[i] = n
+    return rm
+KINDS = {'leaders': kind_leaders, 'ownnote': kind_ownnote, 'twin': kind_twin, 'session': kind_session, 'paren': kind_paren, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
@@ -280,7 +323,7 @@ def run_all(vol, write):
     d = os.path.join(ROOT, f'vol{vol}'); total = {}
     for name in english_files(vol):
         p = os.path.join(d, name)
-        for kind in ('session', 'paren', 'twin'):
+        for kind in ('session', 'paren', 'ownnote', 'twin', 'leaders'):
             L = open(p, encoding='utf8').read().split('\n'); pg = pages(L)
             rm = KINDS[kind](L); idx = sorted(k for k in rm if k != 'last')
             print(f'{name}: {kind} {len(idx)}'); total[kind] = total.get(kind, 0) + len(idx)

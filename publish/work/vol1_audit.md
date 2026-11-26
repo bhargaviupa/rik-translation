@@ -1,51 +1,55 @@
 # Volume 1 cleaning audit
 
 - **removed (draft header / front-matter description)** (draft line 1): # Rigveda Samhita — Volume 1 (Kannada → English Translation)
-- **removed (draft header / front-matter description)** (draft line 3): *Source: 01_Rigveda_Samhitha_Volume_1.pdf (945 pages, scanned, Kannada script)* *Translation in progress — this file is appended to over multiple sessions.* *Sanskrit quotations/mantras are given in Devanagari script alo…
-- **removed (draft header / front-matter description)** (draft line 7): ---
-- **removed (draft header / front-matter description)** (draft line 9): ## Front matter (pages 1–5)
-- **removed (draft header / front-matter description)** (draft line 11): - **Page 1 (Title page):** *Rigveda Samhita*, Part 1 (*"with Introduction and Sayana's Commentary Preface"*) — ornate title page with images of deities. - **Page 2:** Publication notice — "Published by the gracious permi…
-- **removed (draft header / front-matter description)** (draft line 16): ---
-- **converted to note (reading note)** (draft line 20): *Note: This is a careful first-pass reading of a dense, old-typeface scan. A few proper nouns/titles are my best reading of the image and worth cross-checking against the original if precision matters (flagged inline wit…
-- **removed (working marker)** (draft line 437): *(paragraph continues onto the next page)*
-- **removed (working marker)** (draft line 475): *(paragraph continues onto the next page)*
-- **converted to note (gap filled)** (draft line 732): printed pages 17–24, originally missing from the source scan, were supplied from a second, more complete scan of this same edition and are translated below.
-- **inserted translation of omitted portion (Gap A)** (draft line 2115): 916 blocks from the supplementary translation
-- **removed (draft sample of the rishi index; replaced by the full index)** (draft line 2835): ## Page 191 — The Rigveda's Rishis (Alphabetical Index Begins)
-- **removed (draft sample of the rishi index)** (draft line 2837): *(This begins a substantial alphabetical index of every rishi named in the Rigveda, each with Mandala-Sukta-mantra references and total mantra-count in brackets, following the format explained on page 190.)*
-- **removed (draft sample of the rishi index)** (draft line 2839): अंशोमुक् वामदेव्यः [8] · अकृष्णः (श्याव) मूषकाः / मूषाः अकृष्ण्वाः · अक्षौ मौद्गर्यः 10-134 [14] · अगस्त्यो वैत्राहवरुणः 1-165,166,169-174,178,179; 9-2,3; 10-1,60-61 [220] · अगस्त्यशिष्यो ब्रह्मचारी 1-179 [2] · अगस्त्यस्…
-- **removed (draft sample of the rishi index)** (draft line 2841): अत्रिः सांख्यः 10-142 [6] · अदितिः ऋषिका 4-18 [1] · अदितिः दाक्षायणी 10-72 [9] · अनानतः पारुक्ष्येषिः 8-100 [3] · अनिलः वातायनः 10-168 [4] · अद्रिगुः श्यावाश्वः 8-101; 1-2 [3] · अपाला आत्रेयी 8-91 [7] · अप्तिरथः इन्द्रः …
-- **inserted translation of omitted portion (Gap B)** (draft line 2844): 73 blocks from the supplementary translation
-- **inserted translation of omitted portion (Gap C)** (draft line 4356): 345 blocks from the supplementary translation
-- **renumbered chapter to match the original contents table** (draft line 4374): ## Chapter Fourteen — Commentators on the Atharvaveda
-- **renumbered chapter to match the original contents table** (draft line 4407): ## Chapter [Fifteen?] — Authors of the Padapatha
-- **removed (chapter-number caution; resolved by the contents table)** (draft line 4409): *(The chapter number on this page is not fully legible at this resolution — likely "fifteen," continuing the sequence after Chapter 14 on Atharvaveda commentators — but is noted here with appropriate caution rather than …
-- **inserted translation of omitted portion (Gap D)** (draft line 4469): 106 blocks from the supplementary translation
-- **renumbered chapter to match the original contents table** (draft line 4485): ## Chapter Seventeen — Ancient Efforts in Investigating the Meaning of the Veda
-- **renumbered chapter to match the original contents table** (draft line 4751): ## Chapter Eighteen — Modern Efforts in Vedic Study
-- **renumbered chapter to match the original contents table** (draft line 4832): ## Chapter [Nineteen] — The Method of Studying the Veda
-- **converted to note (scan/sequence note)** (draft line 8317): the printed page number here jumps from 446 to 448 (page 447 not separately observed in the scan sequence). Since the argument itself flows with no logical discontinuity, this is most likely a numbering quirk in the sour…
-- **converted to note (image description)** (draft line 12831): *[A decorative seal/emblem appears here in the printed source, depicting a deity figure — likely marking the formal close of this major section of the translated work.]*
-- **removed section (working milestone)** (draft line 12845): ## 🎉 MAJOR MILESTONE: The Rigveda-Bhashya-Bhumika Is Complete 🎉
-- **removed (inside milestone section)** (draft line 12847): - The Vyakarana Anga's remaining examples (saktum iva, sudevo asi, dashamyam putrasya naming rules) - The Nirukta Anga in full (three-fold Naighantuka/Naigama/Daivata structure, twelve-adhyaya commentary, the "na" partic…
-- **removed (inside milestone section)** (draft line 12856): ---
-- **removed section (working milestone)** (draft line 12858): ## ✅ RESTRUCTURING PASS COMPLETE (Phase A of the review-and-repair plan)
-- **removed (inside milestone section)** (draft line 12860): Per the user's three review notes, the Bhumika (Part II) has been restructured:
-- **removed (inside milestone section)** (draft line 12862): **Chapters with no outstanding flags:** 1, 3, 7, 13. **Chapters with the heaviest concentration of flags:** 10 (13 pages, all in the 420–464 arthavada-authority stretch) and 17 (18 pages, across all six Anga sub-discussi…
-- **removed (inside milestone section)** (draft line 12864): **Not yet done:** Phase B (filling the ~65 confirmed-empty pages by re-reading source images), Phase C (verifying the 256 mechanically-converted Devanagari citations), Phase D (the same restructuring treatment for Part I…
-- **removed (inside milestone section)** (draft line 12866): ---
-- **converted to note (image description)** (draft line 12874): *[The page opens with a decorative sunburst medallion enclosing the syllable ॐ (Om), inscribed above with:]*
-- **converted to note (session summary)** (draft line 13230): *This page continues Sāyaṇa's etymological support for "ratna-dhātamam" and then opens the formal grammatical derivation (prakriyā) of the verse's individual words. Working through it carefully below: recognizable roots,…
-- **removed (progress / working flag)** (draft line 13253): **Recommendation for future sessions:** given this apparatus is repeated for every single mantra going forward (all 9 riks of this first sukta alone, then every subsequent sukta), the grammatical-derivation sections in p…
-- **converted to note (session remark)** (draft line 15581): **What made this sūkta distinctive:** unlike Sūkta 1, this one opened with an unusually long apparatus — the extended Jaimini-sutra debate on Stotra/Shastra (spanning roughly Jaimini 2-1-1–26), the full Agnishtoma ritual…
-- **reworded (working-session phrase)** (draft line 0): reproduced here in full as it appears, per the user's explicit request to retain both the Sanskrit and this English rendering together
+- **removed (draft header / front-matter description)** (draft line 3): *Source: 01_Rigveda_Samhitha_Volume_1.pdf (945 pages, scanned, Kannada script)* *Sanskrit quotations/mantras are given in Devanagari script alongside an IAST transliteration and English rendering.*
+- **removed (draft header / front-matter description)** (draft line 6): ---
+- **removed (draft header / front-matter description)** (draft line 8): ## Front matter (pages 1–5)
+- **removed (draft header / front-matter description)** (draft line 10): - **Page 1 (Title page):** *Rigveda Samhita*, Part 1 (*"with Introduction and Sayana's Commentary Preface"*) — ornate title page with images of deities. - **Page 2:** Publication notice — "Published by the gracious permi…
+- **removed (draft header / front-matter description)** (draft line 15): ---
+- **removed (remark in a page heading)** (draft line 112): ### Page xi (bibliography, continued)
+- **removed (remark in a page heading)** (draft line 183): ### Page xi (closing of the Preface)
+- **converted to note (gap filled)** (draft line 715): printed pages 17–24, originally missing from the source scan, were supplied from a second, more complete scan of this same edition and are translated below.
+- **removed (remark in a page heading)** (draft line 960): ### Page 25 *(resuming mid-paragraph)*
+- **removed (page-turn heading: text continues)** (draft line 1602): ### Page 65 — The Bashkala Samhita, continued
+- **inserted translation of omitted portion (Gap A)** (draft line 2088): 907 blocks from the supplementary translation
+- **removed (draft sample of the rishi index; replaced by the full index)** (draft line 2798): ## Page 191 — The Rigveda's Rishis (Alphabetical Index Begins)
+- **removed (draft sample of the rishi index)** (draft line 2800): अंशोमुक् वामदेव्यः [8] · अकृष्णः (श्याव) मूषकाः / मूषाः अकृष्ण्वाः · अक्षौ मौद्गर्यः 10-134 [14] · अगस्त्यो वैत्राहवरुणः 1-165,166,169-174,178,179; 9-2,3; 10-1,60-61 [220] · अगस्त्यशिष्यो ब्रह्मचारी 1-179 [2] · अगस्त्यस्…
+- **removed (draft sample of the rishi index)** (draft line 2802): अत्रिः सांख्यः 10-142 [6] · अदितिः ऋषिका 4-18 [1] · अदितिः दाक्षायणी 10-72 [9] · अनानतः पारुक्ष्येषिः 8-100 [3] · अनिलः वातायनः 10-168 [4] · अद्रिगुः श्यावाश्वः 8-101; 1-2 [3] · अपाला आत्रेयी 8-91 [7] · अप्तिरथः इन्द्रः …
+- **inserted translation of omitted portion (Gap B)** (draft line 2805): 73 blocks from the supplementary translation
+- **removed (remark in a page heading)** (draft line 3161): ### Page 221 (continued)
+- **removed (page-turn heading: text continues)** (draft line 3202): ### Page 223 — Gayatri Variants (continued)
+- **removed (page-turn heading: text continues)** (draft line 3268): ### Page 225 — Brihati Variants (continued)
+- **removed (page-turn heading: text continues)** (draft line 3320): ### Page 227 — Trishtubh Variants (continued)
+- **removed (page-turn heading: text continues)** (draft line 3354): ### Page 228 — Pragatha Variants (continued)
+- **inserted translation of omitted portion (Gap C)** (draft line 4307): 345 blocks from the supplementary translation
+- **removed (remark in a page heading)** (draft line 4313): ### Page 284 (concluding a prior passage)
+- **renumbered chapter to match the original contents table** (draft line 4325): ## Chapter Fourteen — Commentators on the Atharvaveda
+- **renumbered chapter to match the original contents table** (draft line 4358): ## Chapter [Fifteen?] — Authors of the Padapatha
+- **inserted translation of omitted portion (Gap D)** (draft line 4418): 106 blocks from the supplementary translation
+- **removed (remark in a page heading)** (draft line 4424): ### Page 296 (concluding the Padapatha chapter)
+- **renumbered chapter to match the original contents table** (draft line 4434): ## Chapter Seventeen — Ancient Efforts in Investigating the Meaning of the Veda
+- **renumbered chapter to match the original contents table** (draft line 4696): ## Chapter Eighteen — Modern Efforts in Vedic Study
+- **renumbered chapter to match the original contents table** (draft line 4775): ## Chapter [Nineteen] — The Method of Studying the Veda
+- **removed (remark in a page heading)** (draft line 5257): ### Page 336 (continued)
+- **converted to note (scan/sequence note)** (draft line 8224): the printed page number here jumps from 446 to 448 (page 447 not separately observed in the scan sequence). Since the argument itself flows with no logical discontinuity, this is most likely a numbering quirk in the sour…
+- **removed section (working milestone)** (draft line 12730): ## 🎉 MAJOR MILESTONE: The Rigveda-Bhashya-Bhumika Is Complete 🎉
+- **removed (inside milestone section)** (draft line 12732): - The Vyakarana Anga's remaining examples (saktum iva, sudevo asi, dashamyam putrasya naming rules) - The Nirukta Anga in full (three-fold Naighantuka/Naigama/Daivata structure, twelve-adhyaya commentary, the "na" partic…
+- **removed (inside milestone section)** (draft line 12741): ---
+- **removed section (working milestone)** (draft line 12743): ## ✅ RESTRUCTURING PASS COMPLETE (Phase A of the review-and-repair plan)
+- **removed (inside milestone section)** (draft line 12745): Per the user's three review notes, the Bhumika (Part II) has been restructured:
+- **removed (inside milestone section)** (draft line 12747): **Chapters with no outstanding flags:** 1, 3, 7, 13. **Chapters with the heaviest concentration of flags:** 10 (13 pages, all in the 420–464 arthavada-authority stretch) and 17 (18 pages, across all six Anga sub-discussi…
+- **removed (inside milestone section)** (draft line 12749): **Not yet done:** Phase B (filling the ~65 confirmed-empty pages by re-reading source images), Phase C (verifying the 256 mechanically-converted Devanagari citations), Phase D (the same restructuring treatment for Part I…
+- **removed (inside milestone section)** (draft line 12751): ---
+- **converted to note (image description)** (draft line 12757): *[The page opens with a decorative sunburst medallion enclosing the syllable ॐ (Om), inscribed above with:]*
+- **removed (page-turn heading: text continues)** (draft line 13075): ### Page 607 — Sāyaṇa's Commentary on Verse 1, continued
+- **converted to note (session summary)** (draft line 13096): *This page continues Sāyaṇa's etymological support for "ratna-dhātamam" and then opens the formal grammatical derivation (prakriyā) of the verse's individual words. Working through it carefully below: recognizable roots,…
+- **removed (progress / working flag)** (draft line 13119): **Recommendation for future sessions:** given this apparatus is repeated for every single mantra going forward (all 9 riks of this first sukta alone, then every subsequent sukta), the grammatical-derivation sections in p…
+- **removed (page-turn heading: text continues)** (draft line 13121): ### Page 609 — Grammatical Analysis (Vyākaraṇa-prakriyā), continued
+- **converted to note (session remark)** (draft line 15221): **What made this sūkta distinctive:** unlike Sūkta 1, this one opened with an unusually long apparatus — the extended Jaimini-sutra debate on Stotra/Shastra (spanning roughly Jaimini 2-1-1–26), the full Agnishtoma ritual…
 - **reworded (working-session phrase)** (draft line 0): **This closes out what has been, across several sessions, a substantial introductory apparatus for Sukta 2**
 - **removed (unfinished mantra index appendix)** (draft line 0): # ॥ ऋग्वेदमन्त्राणां वर्णानुक्रमसूचिः ॥
 - **removed (unfinished mantra index appendix)** (draft line 0): ### Alphabetical Index of Rigveda Mantras (Varṇānukrama-sūcī)
 - **removed (unfinished mantra index appendix)** (draft line 0): *(⚠ Major structural shift: rather than continuing directly into Sukta 3 of the verse-by-verse commentary, the source here inserts a substantial appendix — a comprehensive alphabetical index (varṇānukramaṇikā) listing Ri…
 - **removed (unfinished mantra index appendix)** (draft line 0): **॥ Sūcane (Note) ॥**
 - **removed (unfinished mantra index appendix)** (draft line 0): **In this index, mantras are listed according to their division into Maṇḍala, Sūkta, and mantra-number.** For example — to locate the mantra "**aṃśaṃ duhanti svanayantam**" (9-42-6), the number given, "9-42-6," should be…
-- **removed (unfinished mantra index appendix)** (draft line 0): *(A representative sample of entries from this page's two-column list, given the format's density — mantra-opening, then locator(s):)*
 - **removed (unfinished mantra index appendix)** (draft line 0): - **aṃśuṃ duhanti stanayantam** — 9-72-6 (the example used in the index's own explanatory note: Maṇḍala 9, Sūkta 72, Mantra 6) - **aṃśeṣu va ṛṣayaḥ** — 5-54-11 - **aṃseṣv ā marutaḥ khādayaḥ** — 7-56-13; Tai. Brā. 2-8-5-5…
-- **removed (unfinished mantra index appendix)** (draft line 0): *(They belong to the index, which this translation does not transcribe in full.)*
-- **removed (unfinished mantra index appendix)** (draft line 0): *(All references printed on this page, in order (as read in the numeral review): 1-4, 6-1-45, 3-3-56, 6-1-163, 6-1-201, 6-1-223, 6-2-139, 6-1-144, 6-2-199, 3-3-118, 4-646, 6-69-1.)*

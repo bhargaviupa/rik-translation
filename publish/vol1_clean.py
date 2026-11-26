@@ -153,9 +153,15 @@ def clean():
         if re.match(r'^\*Note: This is a careful first-pass', blk):
             out.append('*(' + blk.strip('*') + ')*'); log('converted to note (reading note)', ln, blk); continue
         # 5. page headings -> markers
-        m = re.match(r'^#{2,3} \[?Page ([0-9ivxlc]+)\]?(?: — (.*))?$', first)
+        # a page heading may carry a range ("Pages 46–47"), a title after a dash, or a remark of ours in parentheses ("(bibliography, continued)",
+        # "(resuming mid-paragraph)"): the remark is dropped, and so is a title that only says the text continues; otherwise the heading
+        # stood in the middle of a list or a paragraph (Vol 1 PDF p. 22: the bibliography was cut in two; user, Nov 26 2026)
+        m = re.match(r'^#{2,3} \[?Pages? ([0-9ivxlc]+(?:[–-][0-9ivxlc]+)?)\]?\s*(?:— (.*?)|\*?\(([^)]*)\)\*?)?\s*$', first)
         if m:
             pg, title = m.group(1), m.group(2)
+            if title and re.search(r'(^|[\s(—,])continued\)?$', title.strip(), flags=re.I):
+                log('removed (page-turn heading: text continues)', ln, first); title = None
+            elif m.group(3): log('removed (remark in a page heading)', ln, first)
             out.append(f'<div class="pgmark">original p. {pg}</div>')
             if title: out.append(('### ' + title))
             rest = blk.split('\n', 1)[1] if '\n' in blk else ''
@@ -176,7 +182,9 @@ def clean():
             blk = '### ' + blk[3:]
         # 7. chapter titles with uncertain numerals
         blk = re.sub(r'^## Chapter \[([\w-]+)\??\] — ', lambda m: f'## Chapter {m.group(1)} — ', blk)
-        blk = re.sub(r'^## Preface .*$', '## Preface (ಮುನ್ನುಡಿ)', blk, flags=re.M)
+        blk = re.sub(r'^## Preface .*$', '## Preface (Munnuḍi)', blk, flags=re.M)
+        # part headings show the English name; the original's name stands in the trailing parenthesis and is printed in the footer (printfix.headings)
+        blk = re.sub(r"^# PART II: Sāyaṇācārya's Ṛgveda-Bhāṣya-Bhūmikā$", "# PART II: Sāyaṇācārya's Introduction to the Ṛgveda Commentary (Ṛgveda-bhāṣya-bhūmikā)", blk)
         out.append(blk)
     SUBS = [("reproduced here in full as it appears, per the user's explicit request to retain both the Sanskrit and this English rendering together", "reproduced here in full as it appears in the source, together with the Sanskrit"),
             ("**The debate reaches its genuine resolution in this batch.**", "**The debate reaches its genuine resolution here.**"),
@@ -194,7 +202,7 @@ def clean():
         if re.match(r'^## Chapter \w+$', b) and i + 1 < len(out) and out[i + 1].startswith('### '):
             fixed.append(b + ' — ' + out[i + 1][4:].strip()); i += 2; continue
         if b.startswith('## Purva-peethike (Introduction)'):
-            fixed.append('# PART I: Pūrva-pīṭhikā — the Introduction'); fixed.append('## Introduction (Pūrva-pīṭhikā)'); i += 1; continue
+            fixed.append('# PART I: Introduction (Pūrva-pīṭhikā)'); fixed.append('## Introduction (Pūrva-pīṭhikā)'); i += 1; continue
         if b.startswith('### The First Mantra of the Rigveda'):
             fixed.append('## The First Sūkta (Ṛgveda 1.1) — agnim īḷe purohitam'); fixed.append(b); i += 1; continue
         if b.startswith('# ॥ द्वितीयं सूक्तम् ॥') and i + 1 < len(out) and out[i + 1].startswith('### The Second'):

@@ -6,12 +6,43 @@
 h3.pg { string-set: kp attr(data-p); }
 html[lang="en"] h3.pg { height: 0; margin: 0; padding: 0; font-size: 0; line-height: 0; visibility: hidden; break-after: avoid; }
 .pgmark { string-set: kp attr(data-p); height: 0; margin: 0; padding: 0; font-size: 0; line-height: 0; visibility: hidden; break-after: avoid; }
-@page { @bottom-center { content: counter(page); font: 9pt "Noto Serif"; }
-        @bottom-left   { content: "REVIEW COPY"; font: 7.5pt "Noto Serif"; color: #777; letter-spacing: .08em; }
-        @bottom-right  { content: string(kp, first); font: 7.5pt "Noto Serif"; color: #555; } }
+@page { @bottom-center { content: counter(page); font: 9pt "Noto Serif"; vertical-align: top; }
+        @bottom-left   { content: "REVIEW COPY"; font: 7.5pt "Noto Serif"; color: #777; letter-spacing: .08em; white-space: nowrap; vertical-align: top; }
+        @bottom-right  { content: string(kp, first) "\A" string(orig); font: 7.5pt "Noto Serif"; color: #555; white-space: pre; text-align: right; vertical-align: top; } }
 @page :left  { @top-left  { content: none; } }
 @page :right { @top-right { content: none; } }
 @page roman, roman:left, roman:right { @bottom-center { content: counter(page, lower-roman); font: 9pt "Noto Serif"; } }
 @page front { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
 @page :first { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
 @page :blank { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+ol.cont { margin-top: 0; }
+
+/* Contents pages: one table in every volume (printfix.contents_table).  Borders are on for now (user, Nov 26 2026: "we can print it borderless
+   later": set the two border lines below to none). */
+table.contents { width: 100%; border-collapse: collapse; font-size: 9.3pt; line-height: 1.4; margin: .15in 0 .1in; text-align: left; }
+table.contents th, table.contents td { border: .4pt solid #999; padding: 3pt 5pt; vertical-align: top; }
+table.contents th { font-weight: 700; text-align: left; background: #f3f3f3; }
+table.contents .no { width: 2.4em; text-align: right; white-space: nowrap; }
+table.contents .pg { width: 3em; text-align: right; white-space: nowrap; font-family: "Noto Serif", serif; }
+table.contents tr { page-break-inside: avoid; }
+table.contents tr.hd td { text-align: center; padding: 5pt; }
+table.contents td p, table.contents td ul, table.contents td ol { margin: 0; }
+table.contents a { color: inherit; text-decoration: none; }
+table.contents a.pgref::after { content: target-counter(attr(href), page); }
+p.cnote { text-align: center; font-size: 8pt; color: #666; margin-top: .1in; }
+
+/* headings: no word is broken with a hyphen; a part title is cut by the builder into number and title (printfix.part_titles) */
+h1, h2, h3, h4, h5 { hyphens: manual; }
+h1 .ht1 { display: block; font-size: 13pt; letter-spacing: .25em; margin-bottom: .25in; }
+h1 .ht2 { display: block; font-size: 19pt; line-height: 1.35; }
+h2.chapter .ht1 { display: block; font-size: 10pt; letter-spacing: .2em; text-transform: uppercase; font-weight: 400; margin-bottom: .12in; }
+h2.chapter .ht2 { display: block; font-size: 14pt; line-height: 1.35; }
+/* the original's name of the part ("Pūrva-pīṭhikā") stands in the footer, on a second line under the page of the Kannada edition */
+h1[data-orig] { string-set: sukhead attr(id), orig attr(data-orig); }
+h2.chapter[data-orig] { string-set: sukhead attr(data-short), orig attr(data-orig); }
+ol.cont { margin-top: -.6em; }
+span.pgmark { display: inline; }
+
+/* Sanskrit in quotations: smaller than the text, the transliteration smaller again and on its own line (printfix.sanskrit) */
+blockquote .dv { font-size: .88em; line-height: 1.5; }
+blockquote em.iast { font-size: .84em; line-height: 1.4; color: #333; }

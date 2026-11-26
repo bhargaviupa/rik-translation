@@ -128,8 +128,14 @@ def resolve_refs(htm):
 
 def footer_marks(doc):
     """'original p. N' marks leave the body: the div stays as an invisible carrier of the footer text 'Kannada edition p. N' (style_footer.css)"""
-    doc = re.sub(r'<div class="pgmark">\s*(?:<p>)?\s*original (pp?\. [^<]+?)\s*(?:</p>)?\s*</div>', lambda m: f'<div class="pgmark" data-p="Kannada edition {m.group(1)}"></div>', doc)
-    return doc.replace('</head>', '<link rel="stylesheet" href="style_footer.css"></head>', 1)
+    seen = set()
+    def mark(m):
+        first = re.match(r'pp?\. ?([0-9ivxlc]+)', m.group(1)); pid = 'p' + first.group(1) if first else ''
+        idattr = f' id="{pid}"' if pid and pid not in seen else ''; seen.add(pid)          # link target of the contents table (first mark of a page)
+        return f'<div class="pgmark"{idattr} data-p="Kannada edition {m.group(1)}"></div>'
+    doc = re.sub(r'<div class="pgmark">\s*(?:<p>)?\s*original (pp?\. [^<]+?)\s*(?:</p>)?\s*</div>', mark, doc)
+    import printfix
+    return printfix.fix(doc).replace('</head>', '<link rel="stylesheet" href="style_footer.css"></head>', 1)
 
 def pandoc_html(md):
     return pypandoc.convert_text(md, 'html', format='markdown-smart+raw_html',

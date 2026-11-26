@@ -149,8 +149,6 @@ We have two lists describing the Yājuṣa branches. The first list was found in
 
 ## First Division — the 17 main divisions of the Mādhyandina branch of the Śukla Yajurveda
 
-*(Columns: name of the branch; name of the region where it is current.)*
-
 | No. | Branch (Devanagari, IAST) | Region where current |
 |---|---|---|
 | 1 | जाबालाः (*Jābālāḥ*) | the middle country between the Narmadā and the Vindhya hills *(the 26 sub-divisions of this Jābāla branch are in the list below)* |
@@ -195,8 +193,6 @@ The 26 sub-divisions (inner divisions) of the Jābāla branch [the printed count
 | 13 | पौण्ड्रकाः (*Pauṇḍrakāḥ*) | the Kosala country |
 | 14 | हारीताः (*Hārītāḥ*) | the Sarasvatī-bank region |
 | 15 | शौण्डकाः (*Śauṇḍakāḥ*) | the Himavat country |
-
-*(The list of the sub-divisions continues on the next page.)*
 
 ### Page 99
 
@@ -506,8 +502,6 @@ Elsewhere, in the Vāyu and other Purāṇas also, in the passage that speaks of
             - **Laugākṣi**
             - **Kuthuma**, etc.
 
-*(The lineage chart on p. 105 is rendered here as a nested list. The two names under Pauṣpañji are as read from the chart: Laugākṣi and Kuthuma.)*
-
 ### Page 106
 
 According to this lineage, Hiraṇyanābha belongs to the time of the Mahābhārata. According to the first genealogy, he is a descendant twelve generations after Bṛhadbala, who belonged to the time of the Mahābhārata. What is found to be true is difficult to determine. If one trusts the first view, it is possible that there were two Yājñavalkyas: one the Vājasaneya Yājñavalkya, and the other a much earlier Yājñavalkya, disciple of Jaimini and teacher of Hiraṇyanābha Kausalya. But the Purāṇic text itself is more likely corrupt, and Hiraṇyanābha and Kausalya may have been two persons; in the same way there may have been only one Yājñavalkya. Or the reigns of the twelve Kosala kings before Bṛhadbala may have been very short. Or there may have been several persons named Jaimini; among them the first Jaimini's teacher may have been not Kṛṣṇa Dvaipāyana Vyāsa but someone earlier, bearing another Vyāsa's name. According to the Skānda Purāṇa, Nāgara-khaṇḍa (5-6), a certain Yājñavalkya used to perform the Udgātṛ's work in the sacrifice of Triśaṅku, king of the Solar dynasty.
@@ -800,8 +794,6 @@ Of the Kāṇva branch only the Saṃhitā and Brāhmaṇas are found. The schol
 
 The Kāṇva-saṃhitā has 40 adhyāyas, 328 anuvākas and 2086 mantras. Their details are given below.
 
-*(The Kannada numerals of the four tables below were read from enlarged slices (about 450 dpi). The column sums were added up and agree with the printed totals of each dashaka and with the grand totals: anuvākas 111 + 76 + 97 + 44 = 328; mantras 501 + 672 + 554 + 359 = 2086. A few individual figures were identified with the help of these sums and are therefore reasonably, but not absolutely, certain.)*
-
 **First dashaka** (adhyāyas 1–10)
 
 | Adhyāya | Anuvākas | Mantras |
@@ -877,8 +869,6 @@ The Kāṇva-saṃhitā has 40 adhyāyas, 328 anuvākas and 2086 mantras. Their 
 | 3 | 97 | 554 |
 | 4 | 44 | 359 |
 | **Total** | **328** | **2086** |
-
-*(Individual figures that are not fixed by a column total — for example the split between rows within a column — are as read from the enlarged slices.)*
 
 ## The founders of the Kāṇva branch
 
@@ -1032,8 +1022,6 @@ The numbers of the anuvākas, mantras, ṛks and yajus-mantras of the 40 adhyāy
 | 40 | 2 | 17 | 17 | 7 |
 | **Total** | **303** | **1975** | | |
 
-*(Rows 1–37 are on p. 117, rows 38–40 and the totals on p. 118. Bracketed figures are the print's variants. The anuvāka and mantra columns add up exactly to the printed totals 303 and 1975.)*
-
 ### Page 118
 
 The totals printed at the foot of the table are: anuvākas **303**, mantras **1975**.
@@ -1169,8 +1157,6 @@ Vaiśampāyana had a close connection with the people of the Kaurava country. It
 In the Baudhāyana, Āpastamba and Vaikhānasa śrauta-sūtras, many authorities are cited here and there from statements of the Vājasaneya branch or of the Vājasaneyins. Those statements resemble Brāhmaṇa statements. But those readings are not found in the Śatapatha Brāhmaṇas of the Mādhyandina and Kāṇva branches. In the Vāsiṣṭha-dharma-sūtra too (12-31 and 14-46) the text of a Vājasaneya Brāhmaṇa is quoted twice. The first reading somewhat resembles mantra 10-5-2-9 of the Mādhyandina Śatapatha Brāhmaṇa. In truth, neither of these two readings is found in the Śatapatha Brāhmaṇas. There is therefore material for conjecturing that there was some separate Brāhmaṇa, named the Vājasaneya Brāhmaṇa, belonging to some particular branch. Or it may be that the Brāhmaṇa of some particular branch such as the Jābāla is called the *Vājasaneya-brāhmaṇa*. It is therefore worth considering whether, from the beginning, the Śukla Yajurveda had fifteen (branch) saṃhitās, or whether there was also a separate original Vājasaneya-saṃhitā as the root of all these.
 
 At the end of many saṃhitās of the Śukla Yajurveda there is found written "*iti vājasaneya-saṃhitā*" or "*iti yajurvede*." That saṃhitā agrees with the Mādhyandina text. It should therefore be considered whether the Mādhyandina saṃhitā itself had another name, *Vājasaneya-saṃhitā*.
-
-*[page-end marker in the print: [15]]*
 
 ### Page 122
 
@@ -1850,8 +1836,6 @@ The kāṇḍas, prapāṭhakas and anuvākas in the Taittirīya-saṃhitā are 
 
 Printed total, below the table: "In all **7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas, 2199 pañcāśats**."
 
-*(Every column adds up to its printed kāṇḍa total, and the pañcāśat totals add up to the printed 2199; the kāṇḍa totals of the anuvāka column add up to 652, against the printed 651 [sic].)*
-
 ### Page 139
 
 The Taittirīya Āraṇyaka has 6 adhyāyas, and the Taittirīya Upaniṣad 4 adhyāyas. In the Taittirīya Brāhmaṇa the first kāṇḍa has 8 adhyāyas, the second kāṇḍa 8 adhyāyas, the third kāṇḍa 12 adhyāyas. The last 3 adhyāyas of the third kāṇḍa are called Kāṭhakas. Therefore in the Taittirīya branch there are altogether 44 + 6 + 4 + 28 = 82 adhyāyas (the arithmetic is the source's own and is correct as read: 8 + 8 + 12 = 28; 44 + 6 + 4 + 28 = 82).
@@ -1925,8 +1909,6 @@ The Taittirīya Āraṇyaka has 6 adhyāyas, and the Taittirīya Upaniṣad 4 ad
 | **12** | **146** | **664 (714)** |
 
 Printed total: "In the Taittirīya Brāhmaṇa the total adhyāyas are 28, anuvākas 320, pañcāśats 1710 (1760)."
-
-*(All anuvāka columns and all pañcāśat columns except the third kāṇḍa's add up to their printed totals, and 499 + 547 + 664 = 1710. The third kāṇḍa's pañcāśat rows as read add up to 784, not the printed 664; one figure, probably row 7, is misread or misprinted, and row 6 carries a second figure on the next line, both marked [?].)*
 
 ### Relation of the Taittirīya and Kaṭha branches
 
@@ -3980,8 +3962,6 @@ End of the list (left column, cross-references): सौर्यः — अभ�
 ---
 
 # Chapter Eleven — The Deities of the Ṛgveda (opening, printed p. 205)
-
-*(The chapter's title is printed in large type: "ಹನ್ನೊಂದನೆಯ ಪ್ರಕರಣ — ಋಗ್ವೇದದ ದೇವತೆಗಳು": "Chapter Eleven — The Deities of the Ṛgveda". Its text begins at the foot of this page, and continues on the next page, which the earlier draft had already translated.)*
 
 The subject that is set forth (*pratipādya*) in the mantras is called the deity (*devatā*) of that mantra. "*Yā te noccyate sā devatā*" — "that of which it is spoken is the deity" — we have already said in the previous chapter. If, in a ṛk, matters connected with Agni are set forth, then Agni is the deity of that ṛk. In the same way Indra, the two Aśvins (*aśvinīdevatāḥ*), the Maruts, Savitṛ, Sūrya, Rudra, Viṣṇu, Vāyu and the rest become deities.
 
