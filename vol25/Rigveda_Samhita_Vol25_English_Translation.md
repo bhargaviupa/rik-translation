@@ -21683,6 +21683,264 @@ Agni, when invoked by Divodasa, ran along the mother Earth as with might, toward
 
 Because of whom, when a man performs the works that are to be performed (चर्कृत्यानि (*carkṛtyāni*)), the other men (कृष्टयः (*kṛṣṭayaḥ*)) tremble (रेजंते (*rejaṃte*)), therefore now, O people, you should serve (सपर्यत (*saparyata*), wait upon) with your own rites (धीभिः (*dhībhiḥ*), the works to be performed), by yourselves (त्मना (*tmanā*)), at the sacrifice (मेधसातौ (*medhasātau*)), Agni, the giver of a thousand (सहस्रसां (*sahasrasāṃ*)), that is, of a thousand cows and of wealth.
 
+### Printed p. 561
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O men)
+- यस्मात् (*yasmāt*)—for which reason
+- चर्कृत्यानि (*carkṛtyāni*)—the rites that are to be performed
+- कृण्वतः (*kṛṇvataḥ*)—to the man who performs
+- कृष्टयः (*kṛṣṭayaḥ*)—all people who are without rites
+- रेजंते (*rejaṃte*)—tremble with fear (therefore)
+- सहस्रसां (*sahasrasāṃ*)—the giver of cows and wealth in thousands
+- अग्निं (*agniṃ*)—Agni
+- मेधसातौ (*medhasātau*)—in the sacrifice
+- धीभिः (*dhībhiḥ*)—with your duty-rites
+- त्मना (*tmanā*)—self-impelled
+- सपर्यत (*saparyata*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O men, for which reason all people who are without rites tremble with fear before the man who performs the rites that are to be performed, for that very reason worship in the sacrifice Agni, the giver of cows and wealth in thousands, with your duty-rites, self-impelled.
+
+##### English translation
+Since men tremble before those who perform the sacred sacrifices, therefore you devoutly worship in the solemn rite Agni the bestower of thousands of cows.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यं रा॒ये निनी॑षसि॒ मर्तो॒ यस्ते॑ वसो॒ दाश॑त् ।  
+> स वी॒रं ध॑त्ते अग्न उक्थशं॒सिनं॒ त्मना॑ सहस्रपो॒षिण॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यम् । राये । निनीषसि । मर्तः । यः । ते । वसो इति । दाशत् ।  
+> सः । वीरम् । धत्ते । अग्ने । उक्थऽशंसिनम् । त्मना । सहस्रऽपोषिणम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासक अग्ने त्वं यं तव स्तोतारं राये धनार्थं प्र निनीषसि प्रणेतुमिच्छसि यः च मर्तः मनुष्यः ते तुभ्यं दाशत् हवींषि प्रयच्छति सः मनुष्यः उक्थशंसिनम् उक्थानां शंसितारं त्मना आत्मनैव सहस्रपोषिर्ण बहुधनं वीरं पुत्रं धत्ते धारयति ॥
+> xxv 36
+
+##### Gist of the bhāṣya
+
+O Vasu, Agni, the dweller and giver of dwellings: the worshipper whom you wish to lead on to wealth, and the mortal who gives you offerings, that man of himself holds a son, a hero, who recites the hymns (उक्थशंसिनम् (*ukthaśaṃsinam*)) and is rich in much wealth.
+
+### Printed p. 562
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwellings
+- अग्ने (*agne*)—O Agni
+- (you)
+- यं (*yaṃ*)—which worshipper
+- राये (*rāye*)—for the gain of wealth
+- प्र निनीषसि (*pra ninīṣasi*)—you wish to lead on
+- यः (*yaḥ*)—which
+- मर्तः (*martaḥ*)—man
+- ते (*te*)—to you
+- दाशत् (*dāśat*)—offers oblation
+- सः (*saḥ*)—that man
+- त्मना (*tmanā*)—of himself
+- उक्थशंसिनं (*ukthaśaṃsinaṃ*)—one who praises you with recitations and hymns
+- सहस्रपोषिणं (*sahasrapoṣiṇaṃ*)—one who is master of abundant wealth
+- वीरं (*vīraṃ*)—and mighty, a son
+- धत्ते (*dhatte*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwellings, the worshipper whom you lead on for the gain of wealth, the man who offers oblation to you, that man of himself obtains a son who praises you with recitations and hymns, who is master of abundant wealth, and who is mighty.
+
+##### English translation
+Agni, bestower of dwellings, that mortal whom you wish to lead to wealth, and who gives offerings to you, possesses of himself a strong son, a reciter of hymns and a lord of great wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स दृ॒ळ्हे चि॑द॒भि तृ॑णत्ति॒ वाज॒मर्व॑ता॒ स ध॑त्ते॒ अक्षि॑ति॒ श्रवः॑ ।  
+> त्वे दे॑व॒त्रा सदा॑ पुरूवसो॒ विश्वा॑ वा॒मानि॑ धीमहि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । दृळ्हे । चित् । अभि । तृणत्ति । वाजम् । अर्वता । सः । धत्ते । अक्षिति । श्रवः ।  
+> त्वे इति । देवऽत्रा । सदा । पुरुवसो इति पुरुऽवसो । विश्वा । वामानि । धीमहि ॥ ५ ॥
+
+### Printed p. 563
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरूवसो बहुधनाग्ने यस्तुभ्यं हवींषि प्रयच्छति सः यजमानः दृळ्हे चित् दृढेऽपि शत्रुपुरे स्थितं वाजम् अन्नम् अर्वता अश्वेन अभि तृणत्ति हिनस्ति । तथा सः यजमानः अक्षिति अक्षीणं श्रवः अन्नं धत्ते धारयति । तथा च सति तुभ्यं हविषां प्रदातारो वयमपि देवत्रा देवे त्वे त्वयि स्थिताः विश्वा सर्वाणि वामानि वननीयानि धनानि सदा सर्वदा धीमहि धारयाम ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+O Agni of much wealth (पुरूवसो (*purūvaso*)): the sacrificer who gives you oblations seizes, with his horse, the food (वाजम् (*vājam*)) lying in an enemy's stronghold, even a strongly defended one; the same sacrificer holds imperishable food (श्रवः (*śravaḥ*)). This being so, we too, givers of oblations to you, established in you, the god, ever hold all desirable riches (वामानि (*vāmāni*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूवसो (*purūvaso*)—O Agni, possessor of abundant wealth
+- सः (*saḥ*)—your worshipper, the sacrificer
+- दृळ्हे चित् (*dṛḷhe cit*)—even when he is in an enemy's city of very strong defence
+- वाजं (*vājaṃ*)—food
+- अर्वता (*arvatā*)—with the help of his horse
+- अभि तृणत्ति (*abhi tṛṇatti*)—seizes
+- सः (*saḥ*)—that same sacrificer
+- अक्षिति (*akṣiti*)—imperishable
+- श्रवः (*śravaḥ*)—food
+- धत्ते (*dhatte*)—obtains (likewise we also)
+- देवत्रा (*devatrā*)—divine in nature
+- त्वे (*tve*)—who are in you
+- विश्वा (*viśvā*)—all
+- वामानि (*vāmāni*)—and attractive riches
+- सदा (*sadā*)—always
+- धीमहि (*dhīmahi*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of abundant wealth, your worshipper the sacrificer, even when he is in an enemy's city of very strong defence, seizes the enemy's food with the help of his horse. The same sacrificer obtains imperishable food. In the same way may we also always obtain all the attractive riches that are in you, who are divine in nature.
+
+##### English translation
+Lord of vast wealth, he (your worshipper) spoils with his steed food laid up even in strongholds, he possesses imperishable wealth ; in you divine we ever possess all desirable treasures.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो विश्वा॒ दय॑ते॒ वसु॒ होता॑ मं॒द्रो जना॑नाम् ।  
+> मधो॒र्न पात्रा॑ प्रथ॒मान्य॑स्मै॒ प्र स्तोमा॑ यंत्य॒ग्नये॑ ॥ ६ ॥
+
+### Printed p. 564
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । विश्वा । दयते । वसु । होता । मंद्रः । जनानाम् ।  
+> मधोः । न । पात्रा । प्रथमानि । अस्मै । प्र । स्तोमाः । यंति । अग्नये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता देवानामाह्वाता मंद्रः मोदमानः यः अग्निः विश्वा सर्वाणि वसु वसूनि धनानि जनानां जनेभ्यः दयते प्रयच्छति तस्मै अस्मै अग्नये मधोर्न मदकरस्य सोमस्येव प्रथमानि मुख्यानि पात्राणि स्तोमाः प्र यंति प्रगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The Agni who is the invoker (होता (*hotā*)) of the gods and rejoices (मंद्रः (*maṃdraḥ*)), and who gives all wealth to men: to him, to that Agni, the hymns go forth as the foremost vessels of the exhilarating Soma go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—who calls the gods to the sacrifice
+- मंद्रः (*maṃdraḥ*)—and is of contented mind
+- यः (*yaḥ*)—which Agni
+- विश्वा (*viśvā*)—all
+- वसु (*vasu*)—wealth
+- जनानां (*janānāṃ*)—to the sacrificers
+- दयते (*dayate*)—gives
+- अस्मै (*asmai*)—such
+- अग्नये (*agnaye*)—towards Agni
+- स्तोमाः (*stomāḥ*)—our hymns
+- मधोः (*madhoḥ*)—of the sweet Soma
+- प्रथमानि पात्रा न (*prathamāni pātrā na*)—like the principal vessels
+- प्र यंति (*pra yaṃti*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+Towards such an Agni, who calls the gods to the sacrifice, is of contented mind, and gives all wealth to the sacrificers, our hymns go and reach him as the Soma goes and reaches the principal vessels of the sweet Soma.
+
+##### English translation
+To him the invoker of the gods, who ever rejoicing distributes all wealth to men,—to Agni proceed our praises like the principal cups of the exhilarating Soma.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वं॒ न गी॒र्भी र॒थ्यं॑ सु॒दान॑वो मर्मृ॒ज्यंते॑ देव॒यवः॑ ।  
+> उ॒भे तो॒के तन॑ये दस्म विश्पते॒ पर्षि॒ राधो॑ म॒घोना॑म् ॥ ७ ॥
+
+### Printed p. 565
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वम् । न । गीःऽभिः । रथ्यम् । सुऽदानवः । मर्मृज्यंते । देवऽयवः ।  
+> उभे इति । तोके इति । तनये । दस्म । विश्पते । पर्षि । राधः । मघोनाम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्म दर्शनीय विश्पते विशां पतेऽग्ने यं त्वां सुदानवः शोभनदानाः देवयवः देवानात्मन इच्छंतो यजमानाः रथ्यं रथस्य वोढारम् अश्वं न अश्वमिव गीर्भिः स्तुतिभिः मर्मृज्यंते परिचरंति स त्वमस्माकं यजमानानां तोके पुत्रे तनये पौत्रे च उभे उभयस्मिन् मघोनां धनवतां रायः धनं पर्षि प्रयच्छ ।
+
+##### Gist of the bhāṣya
+
+O handsome (दस्म (*dasma*)) lord of the people (विश्पते (*viśpate*)), Agni: you whom the generous sacrificers, desiring the gods for themselves, tend (मर्मृज्यंते (*marmṛjyaṃte*), serve) with hymns, as one tends a horse that draws the chariot; you, for us the sacrificers, give wealth, in respect of both son (तोके (*toke*)) and grandson (तनये (*tanaye*)), of the wealthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्म (*dasma*)—having an attractive form
+- विश्पते (*viśpate*)—protector of the people, O Agni
+- सुदानवः (*sudānavaḥ*)—those who give excellent oblations
+- देवयुवः (*devayuvaḥ*)—and desire the help of the gods, the sacrificers
+- रथ्यं (*rathyaṃ*)—which draws the chariot
+- अश्वं न (*aśvaṃ na*)—as a horse is tended
+- गीर्भिः (*gīrbhiḥ*)—with hymns
+- मर्मृज्यंते (*marmṛjyaṃte*)—tend you (such you)
+- तोके (*toke*)—to our sons
+- तनये (*tanaye*)—to their sons
+- उभे (*ubhe*)—to these two groups
+- मघोनां (*maghonāṃ*)—of the wealthy
+- रायः (*rāyaḥ*)—wealth
+- पर्षि (*parṣi*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of attractive form and protector of the people, the sacrificers, who give excellent oblations and desire the help of the gods, tend you with hymns as a horse that draws the chariot is tended. Such as you are, provide to our sons and to their sons, to both these groups, the wealth of the wealthy.
+
+##### English translation
+The liberal worshippers with their hymns honour you harnessed to the car like a horse ; graceful lord of men, grant wealth to us rich in children and grand children.
+
+#### Ṛk 8
+
+### Printed p. 566
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मंहि॑ष्ठाय गायत ऋ॒ताव्ने॑ बृह॒ते शु॒क्रशो॑चिषे ।  
+> उप॑स्तुतासो अ॒ग्नये॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मंहिष्ठाय । गायत । ऋतऽव्ने । बृहते । शुक्रऽशोचिषे ।  
+> उपऽस्तुतासः । अग्नये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यूयम् उपस्तुतासः उपस्तोतारः मंहिष्ठाय दातृतमाय ऋताव्ने यज्ञवते सत्यवते वा बृहते महते शुक्रशोचिषे दीप्ततेजसे अग्नये प्र गायत स्तोत्रं पठत ॥
+
+##### Gist of the bhāṣya
+
+O you who are near in praise (उपस्तुतासः (*upastutāsaḥ*), the praisers): sing forth, recite the hymn, to Agni, the most bounteous giver, possessed of sacrifice or of truth, great, of bright radiant splendour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उपस्तुतासः (*upastutāsaḥ*)—O praisers
+- मंहिष्ठाय (*maṃhiṣṭhāya*)—to him who is most generous, a giver **NOTE**
+- ऋताव्ने (*ṛtāvne*)—who has the sacrifice
+- बृहते (*bṛhate*)—of great nature
+- शुक्रशोचिषे (*śukraśociṣe*)—and of shining brilliance
+- अग्नये (*agnaye*)—towards Agni
+- प्र गायते (*pra gāyate*)—recite the hymn
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, towards Agni, who is most generous, a giver **NOTE**, who has the sacrifice, is of great nature and of shining brilliance, recite the hymn and sing.
+
+##### English translation
+Singers of hymns, sing aloud to the mighty Agni, most bounteous, observant of truth and radiant with brightness.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वं॑सते म॒घवा॑ वी॒रव॒द्यशः॒ समि॑द्धो द्यु॒म्न्याहु॑तः ।  
+> कु॒विन्नो॑ अस्य सुम॒तिर्नवी॑य॒स्यच्छा॒ वाजे॑भिरा॒गम॑त् ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 560. Rk 21-22 of Sukta 102, Sukta 103 intro and Rk 1-3 (Mandala 8), pp. 555-560
+**Progress note:** Done through printed p. 566. Sukta 103 Rk 3 end to Rk 9 Samhita, pp. 561-566
