@@ -960,6 +960,238 @@ Present your sacrificial food with a three-fold song of praise to Indu, gladdene
 
 The Odatīs are the Dawns, since the Nighaṇṭu reads ओदती भास्वती (*odatī bhāsvatī*) among their names. Their nada, that is, their producer: for the Dawns are born from Indra, because Indra is the sun; Indra is read among the twelve Ādityas in विवस्वदिंद्र सुग्म्य (*vivasvadiṃdra sugmya*). O sacrificers, invoke such an Indra for yourselves. Likewise I call for you the sounder (nada) of the rivers that mingle everywhere (yoyuvatīs), and the lord of the unslayable cows (aghnyās). Then, addressing the sacrificer directly: O sacrificer, you desire the food of the milch cows, who gladden with milk and the like. In the Agnihotra, when the first oblation has been offered, he should stand, awaiting the next oblation, with this Ṛk, ता अस्य (*tā asya*); so it is laid down in the Āśvalāyana Śrauta-Sūtra 2. 3. This Ṛk is also used in the Mahāvrata at the Niṣkevalya; so it is laid down in the fifth Āraṇyaka (Ai. Ā. 5. 1. 6).
 
+### Printed p. 25
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओदतीनां (*odatīnāṃ*)—(O sacrificers) of all the dawns
+- नदं (*nadaṃ*)—Indra, their producer
+- वः (*vaḥ*)—for your purpose, invoke him with prayer
+- योयुवतीनां (*yoyuvatīnāṃ*)—of the rivers that flow everywhere
+- नदं (*nadaṃ*)—Indra, the maker of the roaring sound
+- वः (*vaḥ*)—invoke him for your purpose
+- अघ्न्यानां (*aghnyānāṃ*)—of all the cows that are not fit to be slain
+- पतिं (*patiṃ*)—Indra, the lord; I shall invoke him for you (O sacrificer)
+- धेनूनां (*dhenūnāṃ*)—of the milch cows that satisfy with milk and the like
+- इषुध्यसि (*iṣudhyasi*)—you desire the milk and the food that they provide
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, invoke with prayer, for your purpose, Indra, the producer of all the dawns. Invoke, for your purpose, Indra, the maker of the roaring sound, as the rivers that flow everywhere roar. I shall invoke for you Indra, the lord of all the cows that are not fit to be slain. O sacrificer, you desire the milk and the food that the milch cows, who satisfy with milk and the like, provide.
+
+##### English translation
+(Invoke) for yourselves the author of the dawns, (I invoke) for you the roarer of the rivers ; (I invoke) for you the lord of the inviolable ones ; (O sacrificer), you desire cows.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāvrata sacrifice, when the Niṣkevalya Śastra mantras are recited, this Ṛk, नदं वः (*nadaṃ vaḥ*), is to be recited as a Viharaṇīya Ṛk; this is stated in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence नदं व ओदतीना-मित्येतयैतानि व्यतिषजति (*nadaṃ va odatīnā-mityetayaitāni vyatiṣajati*) (Ai. Ā. 5-1-6).
+
+### Printed p. 26
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता अ॑स्य॒ सूद॑दोहसः॒ सोमं॑ श्रीणंति॒ पृश्न॑यः ।  
+> जन्मं॑दे॒वानां॒ विश॑स्त्रि॒ष्वा रो॑च॒ने दि॒वः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । अस्य । सूदऽदोहसः । सोमम् । श्रीणंति । पृश्नयः ।  
+> जन्मन् । देवानाम् । विशः । त्रिषु । आ । रोचने । दिवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ताः प्रसिद्धाः सूददोहसः । सूद इति कूपनाम । तत्सदृशदोहनाः पृश्नयः पृश्निवर्णा गावः अस्य इंद्रस्य सोमं श्रीणंति मिश्रयंत्याशिरेण । कदा । त्रिषु त्रिष्वपि सवनेषु । गावो विशेष्यंते । देवानां जन्मन् जन्मस्थाने । दिवीत्यर्थः । दिवः आदित्यस्य आ रोचने आरोचमाने । अनेन द्यौर्विशेष्यते । तस्मिन् स्थाने विशः निविशंत्यः । यज्ञार्थोपयुक्तानां गवां द्युप्राप्तिः प्रसिद्धा ॥
+> द्वितीये पर्याये मैत्रावरुणशस्त्रे ‘ अभि प्र गोपतिम् ' इति तृचोऽनुरूपः ।. सूत्रितं च-- ‘ अभि त्वा वृषभा सुतेऽभि प्र गोपतिं गिरा ' ( आश्व. श्रौ. ६. ४ ) इति ॥
+
+##### Gist of the bhāṣya
+
+Those well-known dappled cows, whose milking is like that of a well (Sāyaṇa explains that the word for "well" is the name of a well), mix the Soma of this Indra with the milk-mixture, at all three pressings. The cows are further described: they abide in the birthplace of the gods, that is, in heaven, in the shining place of the sun; by "shining" the sky is qualified, and in that place the cows settle. It is well known that cows used in the sacrifice reach heaven.
+
+In the second round, in the Śastra of the Maitrāvaruṇa priest, the triplet beginning अभि प्र गोपतिम् (*abhi pra gopatim*) is the Anurūpa; it is so laid down in the sūtra अभि त्वा वृषभा सुतेऽभि प्र गोपतिं गिरा (*abhi tvā vṛṣabhā sute 'bhi pra gopatiṃ girā*) (Āśva. Śrau. 6. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of the gods
+- जन्मन् (*janman*)—in the atmosphere, the place of birth
+- दिवः (*divaḥ*)—of the sun
+- आ रोचने (*ā rocane*)—in the shining heaven
+- विशः (*viśaḥ*)—those that dwell
+- ताः (*tāḥ*)—the well-known ones
+- सूददोहसः (*sūdadohasaḥ*)—that give milk abundantly, like the water in a deep well
+- पृश्नयः (*pṛśnayaḥ*)—cows of many kinds of colour
+- अस्य (*asya*)—for this Indra
+- त्रिषु (*triṣu*)—at all three times of the sacrifice
+- सोमं (*somaṃ*)—the Soma
+- श्रीणंति (*śrīṇaṃti*)—they mix with the milk-mixtures
+
+##### भावार्थ (Bhāvārtha)
+
+The cows that dwell in the shining heaven of the sun, which is in the atmosphere, the birthplace of the gods, the well-known ones, that give milk abundantly like the water in a deep well, and are of many kinds of colour,
+
+### Printed p. 27
+
+mix the Soma for this Indra with the milk-mixtures at all three times of the sacrifice.
+
+##### English translation
+These white cows, giving milk like wells, mix the Soma for him at the three oblations, rising (in consequence to the brilliant home of the sun, the birthplace of the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agnihotra rite, after the first oblation has been offered, one rises and stands, awaiting the offering of the second oblation, and recites this Ṛk, ता अस्य (*tā asya*); this is explained in the sūtra of the Āśvalāyana Śrauta-Sūtra ता अस्य सूददोहस इति पूर्वामाहुतिमुपोत्थायोत्तरां कांक्षेत (*tā asya sūdadohasa iti pūrvāmāhutimupotthāyottarāṃ kāṃkṣeta*) (Ā. 2-3). In the Mahāvrata sacrifice also this Ṛk is to be recited among the Niṣkevalya Śastra mantras; it is stated in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence ता अस्य सूददोहस इत्येतदादिः सूददोहाः सूददोहाः (*tā asya sūdadohasa ityetadādiḥ sūdadohāḥ sūdadohāḥ*) (Ai. Ā. 5-1-6).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्र गोप॑तिं गि॒रेंद्र॑मर्च॒ यथा॑ वि॒दे ।  
+> सू॒नुं स॒त्यस्य॒ सत्प॑तिम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्र । गोऽपतिम् । गिरा । इंद्रम् । अर्च । यथा । विदे ।  
+> सूनुम् । सत्यस्य । सत्ऽपतिम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोपतिं गवां स्वामिनम् इंद्रम् अभि प्र अर्च । प्रकर्षेण पूजय स्तुत्या । यथा विदे  स यथा स्वात्मानं स्तुतप्रकारं जानाति यथा वा यागं प्रति गंतव्यमिति जानाति तथार्चेति । कीदृशमिंद्रम् । सत्यस्य यज्ञस्य सत्यस्य वा सूनुं पुत्रम् । तत्रानुरक्तत्वात् सूनुरित्युपचर्यते । सत्पतिं सतां यजमानानां पालकम् ॥
+
+##### Gist of the bhāṣya
+
+Worship, with praise, Indra, the lord of cows; worship him intensely. "As he knows" means: worship in the manner in which he knows himself and the manner of the praise, or in the manner in which he knows that he must go to the sacrifice. What sort of Indra? He is the son of truth, that is, of the sacrifice or of truth; he is called "son" figuratively because of his devotion to it. He is the lord of the good, that is, the protector of the sacrificers.
+
+### Printed p. 28
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोपतिं (*gopatiṃ*)—(O sacrificer) Indra, the lord of cows
+- सत्यस्य (*satyasya*)—of the sacrifice, which is truth in its nature
+- सूनुं (*sūnuṃ*)—who is as a son
+- सत्पतिं (*satpatiṃ*)—the protector of the good
+- इंद्रं (*iṃdraṃ*)—Indra
+- यथा (*yathā*)—in what manner
+- विदे (*vide*)—in the way in which he knows
+- गिरा (*girā*)—with words of praise
+- अभि प्र अर्च (*abhi pra arca*)—worship and praise
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificer, praise and worship Indra, the lord of cows, the son of the sacrifice that is truth in its nature, the protector of the good, in the way in which he knows your worship.
+
+##### English translation
+Worship with your praise, as he himself knows,—that lord of cows, Indra, the son ot truth, the protector of the good.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the second round, at the time of reciting the Śastra mantras of the Maitrāvaruṇa priest, the three Ṛks beginning अभि प्र गोपतिं (*abhi pra gopatiṃ*) are to be recited as the Anurūpa triplet; this is explained in the sūtra of the Āśvalāyana Śrauta-Sūtra अभि त्वा वृषभा सुतेऽभि प्र गोपतिं गिरा (*abhi tvā vṛṣabhā sute 'bhi pra gopatiṃ girā*) (Ā. 6-4).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ हर॑यः ससृज्रि॒रेऽरु॑षी॒रधि॑ ब॒र्हिषि॑ ।  
+> यत्रा॒भि सं॒नवा॑महे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । हरयः । ससृज्रिरे । अरुषीः । अधि । बर्हिषि ।  
+> यत्र । अभि । सम्ऽनवामहे ॥ ५ ॥
+
+### Printed p. 29
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरयः हरितवर्णा अश्वाः अरुषीः आरोचमानाः अधि बर्हिषि । अधीति सप्तम्यर्थानुवादी । बर्हिष्यास्तृते आ ससृज्रिरे आसृजंतु । यत्र यस्मिन् बर्हिषि स्थितमिंद्रम् अभि संनवामहे अभिसंस्तुमः ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+The bay horses, that is, those of green colour, shining, upon the sacred grass (the word "upon" only restates the sense of the locative case), let them bring down and settle there; "let them drop" is the sense. On that grass, where Indra is seated, we praise him on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—on whatever seat of sacred grass Indra is seated, whom we shall praise and worship
+- अभि संनवामहे (*abhi saṃnavāmahe*)—we shall praise and worship
+- अधि बर्हिषि (*adhi barhiṣi*)—on such seats of sacred grass
+- अरुषीः (*aruṣīḥ*)—the shining ones
+- हरयः (*harayaḥ*)—the horses of Indra
+- आ ससृज्रिरे (*ā sasṛjrire*)—let them bring Indra and seat him
+
+##### भावार्थ (Bhāvārtha)
+
+On whatever seat of sacred grass Indra is seated, whom we praise and worship, on such seats of sacred grass let the shining horses of Indra bring Indra and seat him.
+
+##### English translation
+Let the brilliant bay (horses) drop him down on the cut grass, where we will hymn his praise.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य॒ गाव॑ आ॒शिरं॑ दुदु॒ह्रे व॒ज्रिणे॒ मधु॑ ।  
+> यत्सी॑मुपह्व॒रे वि॒दत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । गावः । आऽशिरम् । दुदुह्रे । वज्रिणे । मधु ।  
+> यत् । सीम् । उपऽह्वरे । विदत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राय गावः आशिरम् आश्रयणसाधनं पयआदिकं मधु मदकरं दुदुहे दुहते । कीदृशाय । वज्रिणे वज्रयुक्तायेंद्राय । यत् यदा उपह्वरे समीपे वर्तमानं मधु सोमरसं सीं सर्वतः विदत् लभते तदा ॥
+> षोडशिशस्त्रस्य 'उद्यद्ब्रध्नस्य' इत्येषांत्या। सूत्रितं च -- उद्यद्ब्रध्नस्य विष्टपमित्येषा परिधानीया' (आश्व. श्रौ. ६. २) इति ।
+
+##### Gist of the bhāṣya
+
+The cows milk for Indra the milk and the like, the means of mixing, the intoxicating draught. **NOTE** What sort of Indra? The one armed with the thunderbolt. This happens when, near at hand, he finds on all sides the sweet Soma juice.
+
+In the Śastra of the Ṣoḍaśin, the Ṛk beginning उद्यद्ब्रध्नस्य (*udyadbradhnasya*) is the last; it is so laid down in the sūtra उद्यद्ब्रध्नस्य विष्टपमित्येषा परिधानीया (*udyadbradhnasya viṣṭapamityeṣā paridhānīyā*) (Āśva. Śrau. 6. 2).
+
+### Printed p. 30
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- उपह्वरे (*upahvare*)—the Soma juice that is near
+- सीं (*sīṃ*)—everywhere
+- विदत् (*vidat*)—when Indra obtains it
+- वज्रिणे (*vajriṇe*)—for the bearer of the thunderbolt
+- इंद्राय (*iṃdrāya*)—for Indra
+- गावः (*gāvaḥ*)—the cows
+- मधु (*madhu*)—satisfying
+- आशिरं (*āśiraṃ*)—the substance of the milk and the like, the means of mixing
+- दुदुह्रे (*duduhre*)—they milk
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra obtains everywhere the Soma juice that is near, then the cows milk for Indra, the bearer of the thunderbolt, the satisfying substance of the milk and the like.
+
+##### English translation
+The cows have milked the intoxicating draught for Indra, the thunderer, when he finds it near him.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्यद्ब्र॒ध्नस्य॑ वि॒ष्टपं॑ गृ॒हमिंद्र॑श्च॒ गन्व॑हि ।  
+> मध्वः॑ पी॒त्वा स॑चेवहि॒ त्रिः स॒प्त सख्युः॑ प॒दे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । यत् । ब्रध्नस्य । विष्टपम् । गृहम् । इंद्रः । च । गन्वहि ।  
+> मध्वः । पीत्वा । सचेवहि । त्रिः । सप्त । सख्युः । पदे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा ब्रध्नस्य विष्टपं सूर्यस्य स्थानं गृहमिंद्रश्च अहं चोभौ उत् गन्वहि उद्गच्छावः तदानीं मध्वः मधुरं सोमरसं पीत्वा सचेवहि संसृष्टौ भवेव । कुत्र । सख्युः सर्वेषां सखिभूतस्यादित्यस्य । त्रिः सप्त इत्यनेन देवलोकानामुत्तममेकविंशं स्थानमुच्यते आदित्यस्यैकविंशत्वात् । तथा च ब्राह्मणं- द्वादश मासाः पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः ' (ऐ. ब्रा. १. ३०) इति । तादृश एकविंशस्थाने सचेवहीति ॥
+> पूर्वोक्त एव शस्त्रे  ‘ अर्चत' इति द्वितीय आनुष्टुभस्तृचः । सूत्रितं च -- ‘ प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत ' ( आश्व. श्रौ. ६. २) इति ॥
+
+##### Gist of the bhāṣya
+
+When Indra and I, both of us, go up to the dwelling-place of the sun, then, having drunk the sweet Soma juice, we shall be united. Where? In the place of the friend of all, the sun. By "thrice seven" is meant the highest, the twenty-first place among the worlds of the gods, since the sun is the twenty-first. So the Brāhmaṇa says: द्वादश मासाः पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः (*dvādaśa māsāḥ paṃcartavastraya ime lokā asāvāditya ekaviṃśaḥ*) (Ai. Brā. 1. 30). In such a twenty-first place we shall be united.
+
+In the same Śastra mentioned above, the second Ṛk of the Anuṣṭubh triplet is the one beginning अर्चत (*arcata*). It is so laid down in the sūtra प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत (*prapra vastriṣṭubhamiṣamarcata prārcata*) (Āśva. Śrau. 6. 2).
+
 ---
 
-**Progress note:** Done through printed p. 24. Sūkta 68 Ṛks 16-19 end; Sūkta 69 intro, Ṛks 1-2 (pp. 19-24)
+**Progress note:** Done through printed p. 30. Vol 25 pp. 25-30, Maṇḍala 8 Sūkta 69 Ṛk 2-7
