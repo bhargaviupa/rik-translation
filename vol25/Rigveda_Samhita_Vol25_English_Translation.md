@@ -18543,6 +18543,272 @@ You, Indra, are the stormer of many hostile cities, the slayer of the Dasyu, the
 > अधा॒ हीं॑द्र गिर्वण॒ उप॑ त्वा॒ कामा॑न्म॒हः स॑सृ॒ज्महे॑ ।  
 > उ॒देव॒ यंत॑ उ॒दभिः॑ ॥ ७ ॥
 
+### Printed p. 483
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हि । इंद्र । गिर्वणः । उप । त्वा । कामान् । महः । ससृज्महे ।  
+> उदाऽइव । यंतः । उदऽभिः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणः गीर्भिर्वननीय इंद्र अधा हि संप्रति हि त्वा त्वां महः महतः कामान् कमनीयान् स्तोमान् उप ससृज्महे उपसृजामः । प्रापयाम इत्यर्थः। तत्र दृष्टांतमाह। उदेव यथोदकेन यंतः गच्छंतः उदभिः अंजलिना उत्क्षिप्य उदकैः समीपस्थान् पुरुषान् क्रीडार्थं संसृजंति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Girvaṇas, Indra, who are to be served with praises: now (अधा हि (*adhā hi*)) we send up (उप ससृज्महे (*upa sasṛjmahe*)) to you great (महः (*mahaḥ*)), lovable (कामान् (*kāmān*)) praises; that is, we make them reach you. He gives the illustration: उदेव (*udeva*), as men going (यंतः (*yaṃtaḥ*)) through water, raising water in the joined hands (उदभिः (*udabhiḥ*)), splash those who stand near them in sport; so it is here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—one who is to be worshipped with praises
+- इंद्र (*iṃdra*)—O Indra
+- उदेव (*udeva*)—in water
+- यंतः (*yaṃtaḥ*)—men who move about (play)
+- उदभिः (*udabhiḥ*)—as they splash their friends in play with water taken up in the joined hands
+- अधा हि (*adhā hi*)—right now
+- त्वा (*tvā*)—addressed to you
+- महः (*mahaḥ*)—great
+- कामान् (*kāmān*)—and attractive hymns of praise
+- उप ससृज्महे (*upa sasṛjmahe*)—we offer to you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are to be worshipped with praises, as men who move about in water for sport splash their friends in play with water filled in their joined hands, right now we compose great and attractive hymns of praise addressed to you and offer them to you.
+
+##### English translation
+Indra, worthy of hymns, we send our earnest praises to you as men going by water (splash their friends) with handfuls
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वार्ण त्वा॑ य॒व्याभि॒र्वर्धं॑ति शूर॒ ब्रह्मा॑णि ।  
+> वा॒वृ॒ध्वांसं॑ चिदद्रिवो दि॒वेदि॑वे ॥ ८ ॥
+
+### Printed p. 484
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाः । न । त्वा । यव्याभिः । वर्धंति । शूर । ब्रह्माणि ।  
+> ववृध्वांसम् । चित् । अद्रिऽवः । दिवेऽदिवे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः वज्रिन् शूर इंद्र वार्ण यथोदकमुदकस्थानं यव्याभिः नदीभिः ।  ‘ अवनयो यव्याः' इति नदीनामसु पाठात् । वर्धंति वर्धयंति तथा ब्रह्माणि स्तोत्रैः ववृध्वाँसं चित् यथा निरुदकं देशं नदीभिस्तथा न किंतु प्रवृद्धमेव त्वां दिवेदिवे अन्वहं वर्धंति । स्तोतारो वर्धयंति ।
+
+##### Gist of the bhāṣya
+
+O Adrivat, thunderer, hero Indra: as a water-place (a place of water) is made to increase by rivers (यव्याभिः (*yavyābhiḥ*)), the word यव्याः (*yavyāḥ*) being read among the names of rivers, so (ब्रह्माणि (*brahmāṇi*)) hymns of praise make you increase (वर्धंति (*vardhaṃti*)). Not as a waterless region is increased by rivers, but you, who are already grown (ववृध्वांसं (*vavṛdhvāṃsaṃ*)), the praisers make increase day after day (दिवेदिवे (*divedive*)).
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O bearer of the thunderbolt
+- शूर (*śūra*)—O valiant Indra
+- यव्याभिः (*yavyābhiḥ*)—by rivers
+- वार्णि (*vārṇi*)—as the sea grows
+- दिवेदिवे (*divedive*)—every day
+- ववृध्वांसं चित् (*vavṛdhvāṃsaṃ cit*)—you who grow by your own nature
+- ब्रह्माणि (*brahmāṇi*)—hymns of praise
+- वर्धंति (*vardhaṃti*)—make you grow still more
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, bearer of the thunderbolt, as the sea is made to grow more by the rivers, our hymns of praise make you, who grow by your own nature every day, grow still more.
+
+##### English translation
+As the lake (swells) with the rivers, so our praises, O hero, O thunderer, augment you as you grow more and more day by day.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युं॒जंति॒ हरी॑ इषि॒रस्य॒ गाथ॑यो॒रौ रथ॑ उ॒रुयु॑गे ।  
+> इं॒द्र॒वाहा॑ वचो॒युजा॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युंजंति । हरी इति । इषिरस्य । गाथया । उरौ । रथे । उरुऽयुगे ।  
+> इंद्रऽवाहा । वचःऽयुजा ॥ ९ ॥
+
+### Printed p. 485
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इषिरस्य गमनशीलस्येंद्रस्य उरुयुगे महायुगे उरौ महति रथे इंद्रवाहा इंद्रस्य वाहनभूतौ वचोयुजा वचनमात्रेणैव युज्यमानौ हरी अश्वौ गाथया स्तोत्रेण स्तोतारः युंजंति योजयंति ॥
+
+##### Gist of the bhāṣya
+
+The praisers (स्तोतारः (*stotāraḥ*)) yoke (युंजंति (*yuṃjaṃti*)) by a song of praise (गाथया (*gāthayā*)) the two bay horses (हरी (*harī*)) of the swift-moving (इषिरस्य (*iṣirasya*)) Indra to his great chariot (रथे (*rathe*)) with a great yoke (उरुयुगे (*uruyuge*)): horses which are Indra's bearers (इंद्रवाहा (*iṃdravāhā*)) and are yoked by a mere word (वचोयुजा (*vacoyujā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषिरस्य (*iṣirasya*)—of Indra, who moves about
+- उरुयुगे (*uruyuge*)—having a long yoke
+- उरौ (*urau*)—and great
+- रथेः (*ratheḥ*)—to the chariot
+- इंद्रवाहा (*iṃdravāhā*)—fit to carry Indra
+- वचोयुजा (*vacoyujā*)—yoked by mere speech
+- हरी (*harī*)—the horses
+- गाथया (*gāthayā*)—with praise
+- युंजंति (*yuṃjaṃti*)—the praisers join
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers, with praise, join to the great chariot with a long yoke of Indra, who moves about, the horses that are fit to carry Indra and are yoked by mere speech.
+
+##### English translation
+(The priests) by their hymn yoke in the swift deity's huge broad-yoked chariot the two Indra-bearing steeds yoked at a word.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं न॑ इं॒द्रा भ॑रँ॒ ओजो॑ नृ॒म्णं श॑तक्रतो विचर्षणे ।  
+> आ वी॒रं पृ॑तना॒षह॑म् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । नः । इंद्र । आ । भर । ओजः । नृम्णम् । शतक्रतो इति शतऽक्रतो । विऽचर्षणे ।  
+> आ । वीरम् । पृतनाऽसहम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो बहुकर्मन् विचर्षणे विद्रष्टः इंद्र त्वं नः अस्मभ्यम् ओजः बलं नृम्णं धनम् । ‘गयो नृम्णम्' इति धननामसु पाठात् । आ भर आहर । वीरं वीर्योपितं पृतनाषहं सेनासहं सेनामभिभवितारं त्वाम् आ याचामह इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, of many works, O Vicarṣaṇi, far-seeing Indra: bring (आ भर (*ā bhara*)) to us strength (ओजः (*ojaḥ*)) and wealth (नृम्णं (*nṛmṇaṃ*)), the word नृम्ण (*nṛmṇa*) being read among the names of wealth. We beg you, who are heroic (वीरं (*vīraṃ*)), the conqueror of armies (पृतनाषहं (*pṛtanāṣahaṃ*)), who overcomes the army; the words "we beg" (आ याचामह (*ā yācāmaha*)) are the remainder to be supplied.
+
+### Printed p. 486
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणे (*vicarṣaṇe*)—O wise one who sees with discernment
+- शतक्रतो (*śatakrato*)—O doer of many works
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- ओजः (*ojaḥ*)—strength
+- नृम्णं (*nṛmṇaṃ*)—and wealth
+- आ भर (*ā bhara*)—bring
+- वीरं (*vīraṃ*)—you who are valiant
+- पृतनाषहं (*pṛtanāṣahaṃ*)—and who defeat enemy armies
+- आ (*ā*)—(we beg) we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wise one who sees everything with discernment, doer of many works, give us wealth and strength. We beg you who are valiant and who defeat enemy armies.
+
+##### English translation
+Indra, all-beholding Maghavan, bring us strength and wealth; (we solicit you) the host-overpowering champion.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि नः॑ पि॒ता व॑सो॒ त्वं मा॒ता श॑तक्रतो ब॒भूवि॑थ ।  
+> अधा॑ ते सु॒म्नमी॑महे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । हि । नः । पिता । वसो इति । त्वम् । माता । शतक्रतो इति शतऽक्रतो । बभूविथ ।  
+> अध । ते । सुम्नम् । ईमहे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितः शतक्रतो बहुकर्मन्निंद्र त्वं नः अस्माकं पिता पितृवत्पालकः बभूविथ भव। त्वं माता मातृवद्धारकश्च बभूविथ। अध अथ च वयं ते तव स्वभूतं सुम्नं सुखम् ईमहे याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, giver of dwelling, Śatakratu, of many works, Indra: you have become (बभूविथ (*babhūvitha*)) our father (पिता (*pitā*)), our protector like a father, and you have become our mother (माता (*mātā*)), who bears us like a mother. And so (अध (*adha*)) we beg (ईमहे (*īmahe*)) your own happiness (सुम्नं (*sumnaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwelling
+- शतक्रतो (*śatakrato*)—O doer of many works
+- इंद्र (*iṃdra*)—O Indra
+- त्वं हि (*tvaṃ hi*)—you yourself
+- नः (*naḥ*)—to us
+- पिता (*pitā*)—in the form of a protecting father
+- बभूविथ (*babhūvitha*)—you have become
+
+### Printed p. 487
+
+- त्वं (*tvaṃ*)—you yourself
+- माता (*mātā*)—in the form of a mother also
+- अध (*adha*)—therefore
+- ते (*te*)—coming from you
+- सुम्नं (*sumnaṃ*)—happiness
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling, doer of many works, you yourself are the protecting father for us and you yourself are the supporting mother. Therefore we ask for the happiness that comes from you.
+
+##### English translation
+You have been our father, O giver of dwellings, you our mother O Shatakratu; we pray for that happiness which is yours.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां शु॑ष्मिन्पुरुहूत वाज॒यंत॒मुप॑ ब्रुवे शतक्रतो ।  
+> स नो॑ रास्व सु॒वीर्य॑म् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । शुष्मिन् । पुरुऽहूत । वाजऽयंतम् । उप । ब्रुवे । शतक्रतो इति शतऽक्रतो ।  
+> सः । नः । रास्व । सुऽवीर्यम् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुष्मिन् बलवन् पुरुहूत बहुभिर्यजमानैराहूत शतक्रतो बहुकर्मन्निंद्र वाजयंतं बलमिच्छंतं त्वाम् उप ब्रुवे उपस्तौमि। सः त्वं नः अस्मभ्यं सुवीर्यं धनं रास्व देहि ॥ ॥२॥
+
+##### Gist of the bhāṣya
+
+O mighty (शुष्मिन् (*śuṣmin*)), much invoked (पुरुहूत (*puruhūta*)), invoked by many sacrificers, O Śatakratu, of many works, Indra: I praise (उप ब्रुवे (*upa bruve*)) you, who desire strength (वाजयंतं (*vājayaṃtaṃ*)). That you, give (रास्व (*rāsva*)) us wealth of good heroism (सुवीर्यं (*suvīryaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मिन् (*śuṣmin*)—O powerful one
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- शतक्रतो (*śatakrato*)—O doer of many works
+- इंद्र (*iṃdra*)—O Indra
+- वाजयंतं (*vājayaṃtaṃ*)—you who desire strength
+- त्वां (*tvāṃ*)—you
+- उप ब्रुवे (*upa bruve*)—I praise
+- सः (*saḥ*)—you, the famed
+- नः (*naḥ*)—to us
+- सुवीर्यं (*suvīryaṃ*)—wealth endowed with excellent strength
+- रास्व (*rāsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, powerful, worthy of the invocation of many, doer of many works, I praise you who desire strength.
+
+### Printed p. 488
+
+You, the famed, give us wealth endowed with excellent strength.
+
+##### English translation
+Mighty Shatakratu, invoked by many, I praise you desirous of offerings; you give us wealth.
+
+The ninety-ninth sūkta.
+
+## Sūkta 99 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ त्वामिदा ह्यः' इत्यष्टर्चं षष्ठं सूक्तं नृमेधस्यार्षमैंद्रम् । अयुजो बृहत्यो युजः सतोवृहत्यः । तथा चानुक्रांतं - त्वामिदाष्टौ प्रागाथम्' इति । चातुर्विंशिकेऽहनि मध्यंदिनसवनेऽच्छावाकस्य ‘त्वामिदा ह्यः' इति (आश्व. श्रौ. ७. ४ )। महाव्रतेऽपि निष्केवल्ये बार्हततृचाशीतावयं प्रगाथः । तथैव पंचमारण्यके सूत्रितं- त्वामिदा ह्यो नर इत्येतं प्रगाथं प्रत्यवदधाति' (ऐ. आ. ५, २. ४ ) इति । चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनः  ‘ श्रायंतइव ' इति वैकल्पिकः स्तोत्रियः प्रगाथः । सूत्रितं च - ‘ श्रायंतइव सूर्यं बण्महाँ असि सूर्य' (आश्व. श्रौ. ७, ४) इति । चातुर्विंशिकेऽहनि माध्यंदिने ‘त्वमिंद्र प्रतूर्तिषु त्वमिंद्र यशा असि ( आश्व. श्रौ. ७. ४) इति । तस्मिन्नेवाहनि निष्केवल्ये वैराजयोनिभूतोऽयं प्रगाथः शंसनीयः । [सूत्रितं च–' तयोरक्रियमाणस्य योनिं शंसेद्वैरूपवैराजशाक्कररैवतानां च ' (आश्व, श्रौ. ७. ३) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta त्वामिदा ह्यः (*tvāmidā hyaḥ*) of eight Ṛks is the sixth sūkta, of the seer Nṛmedha, to Indra. The odd Ṛks are Bṛhatī and the even ones Satobṛhatī. So the Anukramaṇī says त्वामिदाष्टौ प्रागाथम् (*tvāmidāṣṭau prāgātham*). On the Cāturviṃśika day, at the midday pressing, it is the Acchāvāka's त्वामिदा ह्यः (*tvāmidā hyaḥ*) (Āśv. Śrau. 7. 4). In the Mahāvrata also, at the Niṣkevalya, this Pragātha belongs to the Bārhata tṛca. So it is laid down in the fifth Āraṇyaka: त्वामिदा ह्यो नर इत्येतं प्रगाथं प्रत्यवदधाति (*tvāmidā hyo nara ityetaṃ pragāthaṃ pratyavadadhāti*) (Ai. Ā. 5, 2. 4). On the Cāturviṃśika day, at the midday pressing, the optional Stotriya Pragātha of the Brāhmaṇācchaṃsin is श्रायंतइव (*śrāyaṃtaiva*); and the sūtra says श्रायंतइव सूर्यं बण्महाँ असि सूर्य (*śrāyaṃtaiva sūryaṃ baṇmahām̐ asi sūrya*) (Āśv. Śrau. 7, 4). On the Cāturviṃśika day, at the midday pressing, there is त्वमिंद्र प्रतूर्तिषु त्वमिंद्र यशा असि (*tvamiṃdra pratūrtiṣu tvamiṃdra yaśā asi*) (Āśv. Śrau. 7. 4). On the same day, at the Niṣkevalya, this Pragātha, which is the source of the Vairāja, is to be recited; and the sūtra says तयोरक्रियमाणस्य योनिं शंसेद्वैरूपवैराजशाक्कररैवतानां च (*tayorakriyamāṇasya yoniṃ śaṃsedvairūpavairājaśākkararaivatānāṃ ca*) (Āśv. Śrau. 7. 3).
+
+Anuvāda: This sūkta त्वामिदा ह्यः (*tvāmidā hyaḥ*) is the sixth sūkta in the tenth Anuvāka. It has eight Ṛks. The seer of this sūkta is Nṛmedha; the deity is Indra. In this sūkta the Ṛks of odd number have the Bṛhatī metre; the Ṛks of even number have the Satobṛhatī metre. In the Anukramaṇī it is said त्वामिदाष्टौ प्रागाथं (*tvāmidāṣṭau prāgāthaṃ*). That on the day of the sacrifice called Cāturviṃśika, at the time of the midday pressing, the priest called Acchāvāka is to recite the Pragātha (two Ṛks) त्वामिदा ह्यः (*tvāmidā hyaḥ*) is stated in the Āśvalāyana Śrauta Sūtra (Ā. 7-4). In the Mahāvrata rite also, when reciting the Niṣkevalya Śastra mantras, this Pragātha is to be recited among the Ṛks of the Bṛhatī metre; this is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence त्वामिदा ह्यो नर इत्येतं प्रगाथं प्रत्यवदधाति (*tvāmidā hyo nara ityetaṃ pragāthaṃ pratyavadadhāti*) (Ai. Ā. 5-2-4). On the day of the sacrifice called Cāturviṃśika, at the time of the midday pressing, the priest called Brāhmaṇācchaṃsin is to recite the Pragātha त्रायंत इव (*trāyaṃta iva*) (Ṛks 3-4) as the optional Stotriya Pragātha; this is by the Āśvalāyana Śrauta Sūtra, the त्रायंत इव (*trāyaṃta iva*)
+
 ---
 
-**Progress note:** Done through printed p. 482. Vol 25 pp. 477-482: Rigveda 8.98.1-6, 7 begins
+**Progress note:** Done through printed p. 488. Vol 25 pp. 483-488: Rigveda 8.98.7-12, 8.99 introduction
