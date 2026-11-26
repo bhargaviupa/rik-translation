@@ -2452,7 +2452,7 @@ As an owner leads a goat by the ear for drinking milk, so let Indra, the wealthy
 ##### English translation
 May Maghavan, taking them by the ears, lead the cows with their calves from our three (destructive enemies), as the owner leads a goat to drink.
 
-## Sūkta 71 (Maṇḍala 6)
+## Sūkta 71 (Maṇḍala 8)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -2466,7 +2466,7 @@ The fifteen-Ṛk sūkta beginning त्वं नो अग्ने (*tvaṃ n
 
 The Anuvāda: this sūkta beginning त्वं नो अग्ने (*tvaṃ no agne*) is the second sūkta in the eighth Anuvāka. It has fifteen Ṛks. The seers of this sūkta are the two, Sudīti and Purumīḷha; or it may be some other seer. Agni is the deity. In this sūkta the first nine Ṛks are in the Gāyatrī metre; the tenth, twelfth and fourteenth Ṛks are in the Bṛhatī metre; the eleventh, thirteenth and fifteenth Ṛks are in the Satobṛhatī metre. In the Anukramaṇikā it is said: त्वं नः सुदीतिपुरुमीळ्हौ तयोर्वान्यतर आग्नेयं तु त्रिप्रगाथांतं (*tvaṃ naḥ sudītipurumīḷhau tayorvānyatara āgneyaṃ tu tripragāthāṃtaṃ*). At the time of reciting the Prātaranuvāka mantras, the first nine Ṛks of this sūkta are employed as Ṛks of the Gāyatrī metre pertaining to the Āgneya kratu, and for the Āśvinaśastra mantras, as is explained by the sūtra त्वं नो अग्ने महोभिरिति नव (*tvaṃ no agne mahobhiriti nava*) of the Āśvalāyana Śrautasūtra (Ā. 4-13).
 
-Sūkta 71 of Maṇḍala 6; Anuvāka 8.
+Sūkta 71 of Maṇḍala 8; Anuvāka 8.
 
 Aṣṭaka 6; Adhyāya 5; Varga 11, 12, 13.
 
