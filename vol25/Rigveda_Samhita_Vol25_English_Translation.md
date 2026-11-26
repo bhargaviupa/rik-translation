@@ -17575,6 +17575,264 @@ O Indra, the horse (*aśvam*) that you hold (*dadhiṣe*) means the steeds, the 
 - तं (*taṃ*)—all of that
 - सुन्वति (*sunvati*)—to him who presses Soma and offers it
 
+### Printed p. 458
+
+- दक्षिणावति (*dakṣiṇāvati*)—and liberal in giving fees to the priests
+- तस्मिन् यजमाने (*tasmin yajamāne*)—in that same sacrificer
+- धेहि (*dhehi*)—deposit
+- पणौ (*paṇau*)—to the niggard who has fallen away from the rites
+- मा (*mā*)—do not give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever horses, cows and imperishable, worshipful riches you have carried off from the Asuras, deposit all of them in that same sacrificer who presses Soma and offers it, and who is liberal in giving fees to the priests. Do not give to the niggard who has fallen away from the rites.
+
+##### English translation
+Those horses, those cows, that imperishable wealth which you have seized (from your enemies),—bestow them on the sacrificer who offers the Soma and is liberal to the priests,—not on the niggard.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इं॑द्र॒ सस्त्य॑व्र॒तो॑ऽनु॒ष्वाप॒मदे॑वयुः ।  
+> स्वैः ष एवै॑र्मुमुर॒त्पोष्यं॑ र॒यिं स॑नु॒तर्धे॑हि॒ तं ततः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इंद्र । सस्ति । अव्रतः । अनुऽस्वापम् । अदेवऽयुः ।  
+> स्वैः । सः । एवैः । मुमुरत् । पोष्यम् । रयिम् । सनुतः । धेहि। तम् । ततः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अदेवयुः देवान् युष्मानकामयमानः अव्रतः व्रतरहितः कर्मरहितो भूत्वा अनुस्वापम् अनुवृत्तस्वप्नं यथा भवति तथा यः सस्ति स्वपिति । ‘षस स्वापे'। आदादिकः । सः जनः स्वैः आत्मीयैः एवैः गमनैरेव पोष्यं पोषणयं रयिं स्वीयं धनं मुमुरत् मारयतु विनाशयतु । अमार्गैर्द्यूतादिभिस्तस्य धनं नश्यतु न तु देवानां हविष्प्रदानेनेति । ततः त्वं तम् अयष्टारं जनम् । सनुतरित्यंतर्हितनाम । सनुतः अंतर्हिते कर्मरहिते कस्मिश्चिद्देशे धेहि स्थापय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the man who is *adevayuḥ*, who does not desire you, the gods, and is *avrataḥ*, without vows, without rites, and who sleeps (*sasti*) in such a way that his sleep goes on without a break (*anusvāpam*): let that man destroy (*mumurat*), cause to perish, by his own (*svaiḥ*) courses (*evaiḥ*, his goings) the wealth he has to nourish (*poṣyam*), his own riches. Let his wealth perish by improper ways such as gambling and the like, and not by giving oblations to the gods. Then (*tataḥ*) you place that man who does not sacrifice, *sanutaḥ*, which is a word for "hidden" (*antarhita*), in some hidden place devoid of rites.
+**NOTE**
+
+### Printed p. 459
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अदेवयुः (*adevayuḥ*)—one without interest in the worship of the gods
+- अव्रतः (*avrataḥ*)—and without rites
+- यः (*yaḥ*)—which unbeliever
+- अनःस्वापं (*anaḥsvāpaṃ*)—always idle
+- सस्ति (*sasti*)—lies sleeping, unaware of himself
+- सः (*saḥ*)—he
+- स्वैः (*svaiḥ*)—his own
+- एव्यैः (*evyaiḥ*)—as the fruit of evil courses
+- पोष्यं (*poṣyaṃ*)—that has to be nourished by him
+- रयिं (*rayiṃ*)—wealth
+- मुमुरत् (*mumurat*)—let him lose
+- ततः (*tataḥ*)—as the fruit of that falling away from rites
+- तं (*taṃ*)—that unbeliever
+- सनुतः (*sanutaḥ*)—in deep darkness
+- धेहि (*dhehi*)—push
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let the unbeliever who, without interest in the worship of the gods and without rites, lies always idle, sleeping unaware of himself, lose, as the fruit of his evil courses, all the wealth that has to be nourished by him. As the fruit of that falling away from rites, push that unbeliever into deep darkness.
+
+##### English translation
+Let him, Indra, who sleeps away careless of the gods and offering no sacrifices,—let him lose his precious wealth by his own evil courses, and then you stow him away in some hidden place.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्छ॒क्रासि॑ परा॒वति॒ यद॑र्वा॒वति॑ वृत्रहन् ।  
+> अत॑स्त्वा गी॒र्भिर्द्यु॒गदिं॑द्र के॒शिभिः॑ सु॒तावाँ॒ आ वि॑वासति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । शक्र । असि । पराऽवति । यत् । अर्वाऽवति । वृत्रऽहन् ।  
+> अतः । त्वा । गीःऽभिः । द्युऽगत् । इंद्र । केशिऽभिः । सुतऽवान्। आ । विवासति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्र शत्रुहननसमर्थेंद्र यत् यदा परावति विप्रकृष्टेऽतिदूरे द्युलोके देशे असि विद्यसे हे वृत्रहन् वृत्रस्य हंतरिंद्र यत् यदि अर्वावति अर्वाचीने तस्मादधस्तात्स्थिते तदपेक्षया समीपे देशेऽंतरिक्षे भवसि तस्मादपि अतः अस्माद्भूलोकाद्वा द्युगत् ।' गम्लृ गतौ'। क्विपि 'गमः क्वौ' इत्यनुनासिकलोपः । तुक् ।' सुपां सुलुक्' इति लुक् । द्युलोकं प्रति गच्छद्भिः स्वभासा सर्वतो गच्छद्भिः केशिभिः केशवद्भिर्हरिभिरिव स्थिताभिः गीर्भिः स्तुतिभिः वा त्वां सुतवान् अभिषुतसोमवान् यजमानः आ विवासति । आत्मीयं यज्ञं प्रत्यागमयति त्वामेतैः स्तोत्रैः परिचरतीति वा ॥
+
+##### Gist of the bhāṣya
+
+O Śakra, Indra, able to slay enemies, whether (*yat*) you are in *parāvati*, a distant place, very far away, in the world of heaven; or, O Vṛtrahan, slayer of Vritra, if you are *arvāvati*, in a nearer place, lower than that, in the firmament; from there (*ataḥ*), or from this earth, the sacrificer who has pressed Soma (*sutavān*) *ā vivāsati*, brings you back to his sacrifice, or serves you, with these hymns (*gīrbhiḥ*) which are *dyugat*, going toward the world of heaven, going everywhere by their own radiance, and are *keśin*, set like horses with manes.
+**NOTE**
+
+### Printed p. 460
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्र (*śakra*)—able to slay enemies
+- वृत्रहन् (*vṛtrahan*)—and the slayer of Vritra
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—if perchance
+- परावति (*parāvati*)—in the very distant world of heaven
+- असि (*asi*)—you are
+- यत् (*yat*)—or if perchance
+- अर्वावति (*arvāvati*)—in the firmament, a region lower than that
+- अतः (*ataḥ*)—from there itself
+- द्युगत् (*dyugat*)—going through the firmament
+- केशिभिः (*keśibhiḥ*)—like horses with fine manes
+- गीर्भिः (*gīrbhiḥ*)—with words of praise
+- त्वा (*tvā*)—you
+- सुतवान् (*sutavān*)—the sacrificer
+- आ विवासति (*ā vivāsati*)—worships
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, able to slay enemies and slayer of Vritra, even if you are in the very distant world of heaven, or if you are in the firmament, a region lower than that, from there itself the sacrificer worships you with words of praise that go through the firmament and are like horses with fine manes.
+
+##### English translation
+Whether, Shakra, you are in the far-distant region, or whether, slayer of Vritra, you are in the lower,—the sacrificer longs to bring you, Indra, from thence by his hymns as by heaven-going steeds ;
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वासि॑ रोच॒ने दि॒वः स॑मु॒द्रस्याधि॑ वि॒ष्टपि॑ ।  
+> यत्पार्थि॑वे॒ सद॑ने वृत्रहंतम॒ यदं॒तरि॑क्ष॒ आ ग॑हि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा। सि । रोचने । दिवः । समुद्रस्य । अधि । विष्टपि ।  
+> यत् । पार्थिवे । सदने । वृत्रहन्ऽतम । यत् । अंतरिक्षे । आ । गहि ॥ ५ ॥
+
+### Printed p. 461
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्वा यदि वा दिवः द्युलोकस्य रोचने दीपनशीले स्थाने भवसि । यद्वा समुद्रस्य मध्ये अधि अधिगते विष्टपि विष्टपे तत्संबद्धे कस्मिंश्चित् स्थाने भवसि । हे वृत्रहंतम अतिशयेन वृत्रस्यासुरस्य पापस्य वा हंतरिंद्र यत् यदि वा पार्थिवे पृथिव्यां भवे सदने स्थाने विद्यसे । यदि वा अंतरिक्षे तस्मिँल्लोके वर्तसे । यत्रकुत्र भवसि तथाप्यस्मदीयं यज्ञं प्रति आ गहि आगच्छ ॥ ॥ ३६ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, if you are in the *rocana* of heaven, the shining place of the world of heaven; or else if you are *adhi*, over, in the middle of the sea, at *viṣṭapi*, in some place connected with it. O Vṛtrahantama, Indra, in the highest degree the slayer of Vritra, the asura, or of sin; if you are known in an earthly abode, a place on the earth; or if you dwell in the firmament, in that world: wherever you may be, come (*ā gahi*) to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतम (*vṛtrahaṃtama*)—O Indra, who slay Vritra with great ease
+- यद्वा (*yadvā*)—if perchance
+- दिवः (*divaḥ*)—of the world of heaven
+- रोचने असि (*rocane asi*)—you are in the shining place, or
+- समुद्रस्य अधि (*samudrasya adhi*)—in the middle of the sea
+- विष्टपि (*viṣṭapi*)—in a region
+- यत् (*yat*)—or if perchance
+- पार्थिवे (*pārthive*)—connected with the earth
+- सदने (*sadane*)—in some house of sacrifice
+- अंतरिक्षे (*aṃtarikṣe*)—or in the region of the firmament, from there everywhere
+- आ गहि (*ā gahi*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who slay Vritra with great ease, whether you are in the shining place of the world of heaven, or in a region in the middle of the sea, or in some house of sacrifice connected with the earth, or in the region of the firmament, from everywhere there be gracious and come.
+
+##### English translation
+Or whether you are in the bringhtness of heaven, or whether in some region in the midst of the sea, or whether, mightiest slayer of Vritra, in some abode in the earth, or whether in the firmament,—come to us.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॒ सोमे॑षु सोमपाः सु॒तेषु॑ शवसस्पते ।  
+> मा॒दय॑स्व॒ राध॑सा सू॒नृता॑व॒तेंद्र॑ रा॒या परी॑णसा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । सोमेषु । सोमऽपाः । सुतेषु । शवसः । पते ।  
+> मादयस्व । राधसा । सुनृताऽवता । इंद्र। राया। परीणसा ॥ ६ ॥
+
+### Printed p. 462
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोमपाः सोमस्य पातः हे शवसस्पते बलस्य पालयितः इंद्र सः पूर्वोक्तलक्षणस्त्वं सुतेषु अस्माभिरभिषुतेषु सोमेषु नः अस्मान् राधसा बलसाधनेनान्नेन सूनृतावता अनृतरहितत्वोपेतेन । यद्वा । सूनृतेति वाङ्नाम । शोभनवाक्ययुक्तेन । अनेन पुत्रादिकं लक्ष्यते । पुत्रोपेतेनान्नेन । परीणसा । बहुनामैतत् । बहुना राया धनेन च नोऽस्मान् मादयस्व मोदय । सोमस्य प्रदातृभ्योऽस्मभ्यमन्नपुत्रधनादिकं देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O *somapāḥ*, drinker of Soma, O *śavasaspati*, protector of strength, Indra, you of the character stated before: now that Soma has been pressed (*suteṣu*) by us, gladden (*mādayasva*) us with *rādhas*, food that is a means of strength, which is *sūnṛtāvat*, free from untruth; or else *sūnṛtā* is a name of speech, so: possessed of good speech; by this sons and the like are indicated, so: food together with sons. And with *parīṇas*, which is a word for "much": with much wealth (*rāyā*). The meaning is: give us, the givers of Soma, food, sons, wealth and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमपाः (*somapāḥ*)—O drinker of Soma
+- शवसस्पते (*śavasaspate*)—and protector of strength
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—you, the well-known
+- सुतेषु (*suteṣu*)—pressed by us
+- सोमेषु (*someṣu*)—now that the Soma juices are ready for you
+- सः (*saḥ*)—us
+- राधसा (*rādhasā*)—with food that brings strength
+- सूनृतावता (*sūnṛtāvatā*)—with excellent encouraging words
+- परीणसा (*parīṇasā*)—and with abundant
+- रायू (*rāyū*)—gift of wealth
+- मूदयस्व (*mūdayasva*)—satisfy us
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drinker of Soma and protector of strength, you the well-known, now that the Soma juices pressed by us are ready to be offered to you, satisfy us with food that brings strength, and with a gift of wealth that has excellent encouraging words and is abundant.
+
+##### English translation
+Indra, drinker of the Soma, lord of strength, now that our Soma-libations have been effused, gladden us with wholesome food and ample wealth.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा न॑ इंद्र॒ परा॑ वृण॒ग्भवा॑ नः सध॒माद्यः॑ ।  
+> त्वं न॑ ऊ॒ती त्वमिन्न॒ आप्यं॒ मा न॑ इंद्र॒ परा॑ वृणक् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । इंद्र । परा । वृणक् । भव । नः । सधऽमाद्यः ।  
+> त्वम् । नः । ऊती । त्वम् । इत् । नः । आप्यम् । मा। नः । इंद्र। परा। वृणक् ॥ ७ ॥
+
+### Printed p. 463
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नः हविषां प्रदातॄनस्मान् मा परा वृणक् मा परित्याक्षीः । 'वृजी वर्जने'। रौधादिकः । लङि रूपम् । तदेवाह । त्वं नः अस्माकं सोमेन सधमाद्यः सधमादनशीलः भव। किंच हे इंद्र नः अस्मान् त्वम् एव ऊती ऊत्यां स्थापथ । यद्वा । ऊती। व्यत्ययेन कर्तरि क्तिचि वा निपातितः । त्वमेवास्माकं रक्षिता खलु । तथा त्वमित् । इदवधारणे । त्वमेव अस्माकम् आप्यं ज्ञातेयम् । त्वमेव बंधुरित्यर्थः । अत एव मा न इंद्र परा वृणक् इत्येष गतार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, do not abandon (*parā vṛṇak*), do not forsake us, the givers of oblations. Then he says: be *sadhamādyaḥ*, one who rejoices together with us over the Soma. Further, O Indra, you alone place us in *ūtī*, in protection; or else *ūtī* is formed irregularly as an agent word, by the affix *ktic*: you alone are our protector. Likewise *tvam it*, *it* being a word of emphasis: you alone are our *āpya*, our kinsman; the meaning is that you alone are our friend. Therefore the phrase "do not abandon us, Indra" is explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us, the sacrificers
+- मा परा वृणक् (*mā parā vṛṇak*)—do not forsake
+- नः (*naḥ*)—our
+- सधमाद्यः (*sadhamādyaḥ*)—sharing our joys together with us
+- भव (*bhava*)—be
+- नः (*naḥ*)—us
+- त्वं (*tvaṃ*)—you
+- ऊती (*ūtī*)—keep together with protection
+- इंद्र (*iṃdra*)—O Indra
+- त्वमित् (*tvamit*)—you alone
+- आप्यं (*āpyaṃ*)—are a kinsman to me
+- नः (*naḥ*)—us
+- मा परा वृणक् (*mā parā vṛṇak*)—do not by any means forsake
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, do not forsake us, the sacrificers. Together with us, share our joys. Keep us together with your protection. O Indra, you alone are a kinsman to us. Do not by any means forsake us.
+
+##### English translation
+Leave us not, Indra, but share our joy ; you are our protection, you are our kindred ; Indra, leave us not.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे इं॑द्र॒ सचा॑ सु॒ते नि ष॑दा पी॒तये॒ मधु॑ ।  
+> कृ॒धी ज॑रि॒त्रे म॑घव॒न्नवो॑ म॒हद॒स्मे इं॑द्र॒ सचा॑ सु॒ते ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । इंद्र । सचा । सुते । नि । सद। पीतये । मधु ।  
+> कृधि । जरित्रे । मघऽवन् । अवः । महत् । अस्मे इति । इंद्र। सचा । सुते ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 457. Sūkta 96 Ṛk 19 end to Ṛk 21; Sūkta 97 intro, Ṛk 1, Ṛk 2 begin
+**Progress note:** Done through printed p. 463. Sūkta 97 Ṛk 2 end to Ṛk 8 Saṃhitā/Pada
