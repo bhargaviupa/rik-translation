@@ -2282,6 +2282,151 @@ Besides the threefold birth described thus in the three worlds, many other kinds
 The shining dawns have spread their radiance. The same dawns have produced the sun and the sacrificial Agni. This Agni is the son of the three worlds. How is that?
 यं त्वा द्यावापृथिवी यं त्वापश्वस्टा यं त्वा सुजनिमा जहानः । पंथामनु प्रविद्वान्तित्रयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpaśvasṭā yaṃ tvā sujanimā jahānaḥ | paṃthāmanu pravidvāntitrayāṇaṃ dyumadagne samidhāno vi bhāhi ‖*) (Ṛ. Saṃ. 10-26)
 
+### Printed p. 61
+
+##### विशेषविषयगळु (Special Topics)
+
+O Agni, you whom heaven and earth begot, you whom the waters of the atmosphere begot, you whom the god Tvaṣṭṛ begot: having such a divine birth, and knowing the path of the fathers, you shine forth exceedingly.
+
+"The plants bore this very sacrificial Agni in their womb. The waters too begot this same Agni. The trees also bore him in their womb. The plants and the rest beget Agni, who is of the nature of an embryo."
+
+"The gods begot Agni, who is like the head of the heavenly world, who moves on the earth, who is the universal sovereign, who is the navel of the sacrifices and the guide of the sacrificers. In the same way the priests too begot him." (6. 7. 1-2) Though he is praised in this manner and in other ways, he is also described as begotten by whomever begotten; and he is praised as the father-like protector of all, gods, humans and the rest.
+
+Ya. Saṃ. 1-69-1 **NOTE**
+
+Describing this manifold origin of Agni, the present Ṛk praises him in the words दिवस्परि प्रथमं जज्ञे (*divaspari prathamaṃ jajñe*) and so on. Explaining the purport of this very mantra, the Śatapatha Brāhmaṇa says as follows:
+
+दिवस्परि प्रथमं जज्ञे अग्निरिति । प्राणो वै द्यौः प्राणाद्वा एष प्रथममजायतास्मद्वितीयं परि जातवेदा यदेनमदो द्वितीयं पुरुषविधोऽजनयत्तृतीयमप्सिति यदेनमदस्तृतीयमद्भोऽजनयन्नृमणा अजस्रमिति प्रजापतिर्वै नृमणा अग्निरजस्रमिंधान एनं जरते स्वाधीरिति यो वा एनमिंधे स एनं जनयते स्वाधीः ॥ (*divaspari prathamaṃ jajñe agniriti | prāṇo vai dyauḥ prāṇādvā eṣa prathamamajāyatāsmadvitīyaṃ pari jātavedā yadenamado dvitīyaṃ puruṣavidho 'janayattṛtīyamapsiti yadenamadastṛtīyamadbho 'janayannṛmaṇā ajasramiti prajāpatirvai nṛmaṇā agnirajasramiṃdhāna enaṃ jarate svādhīriti yo vā enamiṃdhe sa enaṃ janayate svādhīḥ ‖*) (Śa. Brā. 6-7-405) **NOTE**
+
+Agni was first born in the heavenly world. Breath (prāṇa) is what is called the heavenly world; that is, Agni's first manifestation is from breath. Agni, in the form of Jātavedas, was born a second time from us; the third time he was born from the waters. This same Agni is beneficial to men. This deathless Agni is Prajāpati, the primal cause of the whole world. Making this immortal Agni blaze, the sacrificer worships him in the form of meditation.
+
+समुद्रे त्वा नृमणा अप्संतरिति । प्रजापतिर्वै नृमणा अप्सु त्वा प्रजापतिरित्येतन्नृचक्षा ईधे दिवो अग्न ऊधन्निति प्रजापतिर्वै नृचक्षा आपो दिव ऊधस्तृतीये त्वा रजसि तस्थिवांसमिति द्यौर्वै तृतीयं रजोऽपामुपस्थे महिषा अवर्धन्निति प्राणा वै महिषा दिवि त्वा प्राणा अवर्धन्नित्येतत्॥ (*samudre tvā nṛmaṇā apsaṃtariti | prajāpatirvai nṛmaṇā apsu tvā prajāpatirityetannṛcakṣā īdhe divo agna ūdhanniti prajāpatirvai nṛcakṣā āpo diva ūdhastṛtīye tvā rajasi tasthivāṃsamiti dyaurvai tṛtīyaṃ rajo 'pāmupasthe mahiṣā avardhanniti prāṇā vai mahiṣā divi tvā prāṇā avardhannityetat‖*)
+
+### Printed p. 62
+The one beneficial to men begot you in the atmosphere. Prajāpati himself is this benefactor of people. O Agni, this same Prajāpati, benefactor of people, begot you in the udder-region of the heavenly world. The buffaloes made you, stationed in the high region of the third world, blaze up. The breaths are the buffaloes; these breaths made you blaze in the high region of the heavenly world. Thus it is explained.
+
+In places such as अभि द्विजन्मा त्रिवृदन्नमृज्यते (*abhi dvijanmā trivṛdannamṛjyate*) (Ṛ. Saṃ. 1-140-2) Agni's birth is said to be twofold. What these two are, is explained again in the mantra अभि द्विजन्मा त्री रोचनानि (*abhi dvijanmā trī rocanāni*) (Ṛ. Saṃ. 1-149-4):
+
+द्वाभ्यां अरणीभ्यां जायमानः । यद्वा । मथनेन आधानसंस्कारेण च उत्पन्नत्वात् द्विजन्मत्वं अथवा द्वयोर्द्यावापृथिव्योर्जायमानः अरण्योर्वा जायमानः ॥ (*dvābhyāṃ araṇībhyāṃ jāyamānaḥ | yadvā | mathanena ādhānasaṃskāreṇa ca utpannatvāt dvijanmatvaṃ athavā dvayordyāvāpṛthivyorjāyamānaḥ araṇyorvā jāyamānaḥ ‖*) (Sā. Bhā.)
+
+Sāyaṇa explains that Agni is praised by the epithet "twice-born" either because he is born from two pieces of wood; or because he is born twice, once by churning and once by the ritual of installation (ādhāna); or because he is born from heaven and earth.
+
+There are contexts in which Agni is also praised as having been born of himself. This same meaning is stated in some places for the epithet "तनूनपात् (*tanūnapāt*)". For example, the Bṛhaddevatā states this very point:
+
+तनूनपादयं त्वेव नाम्ना यच्छत्यसौ तनुं । नपादिति प्रजामाहुरमुतोऽस्य च संभवात् ॥ (*tanūnapādayaṃ tveva nāmnā yacchatyasau tanuṃ | napāditi prajāmāhuramuto 'sya ca saṃbhavāt ‖*) (Bṛ. De. 3-1)
+
+This Agni is also famous by the name Tanūnapāt. The divine Agni causes his own form to expand by his own power. The meaning of "नपात् (*napāt*)" as a son born of one's own body is well known. Because the birth of this divine Agni is from his own body, the name "तनूनपात् (*tanūnapāt*)" is well known. The purport of the epithet "अपां नपात् (*apāṃ napāt*)" has been explained in many places before.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्या ते॑ अग्ने त्रे॒धा त्र॒याणि॑ वि॒द्या ते॒ धाम॒ विभृ॑ता पुरु॒त्रा
+
+### Printed p. 63
+
+> विद्मा ते नाम परमं गुहा यद्विद्या तमुत्सं यत आजगंथ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । ते । अग्ने । श्रेधा । त्रयाणि । विद्म । ते । धाम । विभृता । पुरुता ।  
+> विद्म । ते । नाम । परमं । गुहा । यत् । विद्म । तं । उत्सं । यतः । आजगंथ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव त्रेधा त्रिषु स्थानेषु पृथिव्यांतरिक्षद्युलोकेषु स्थितानि
+> त्रयाण्यग्निवाय्तादित्याख्यानि श्रीणि रूपाणि विद्म । वयं जानीमः । किंच हे अग्ने
+> ते तव धाम सद्मानि स्थानानि विभृता विभृतानि पुरुत्रा बहुधा बहूनि वा गार्हपत्याहवनीयान्वाहार्यपचनादीनि विद्म । किंच शे तव गुहा गूढमवेदविद्दिरविज्ञातं
+> परममुत्कृष्टं वेदे प्रसिद्धं यन्नामास्ति तद्विद । वेदविदो वयं विजानीमः ।
+> किंच त्वं यतो यस्मादाजगंथ आगतवानसि । उत्पन्नवानित्यर्थः । तमुत्समुत्स्यंदयितारमुत्पादयितारं कारणात्मानं विद्म । जानीमः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, we know your three forms, called Agni, Vāyu and Āditya, which are stationed threefold in the three places, earth, atmosphere and heaven. Further, we know your many abodes or stations, variously maintained, such as the Gārhapatya, Āhavanīya, Anvāhāryapacana and the like. Further, we who know the Veda know that supreme, excellent name of yours, hidden and unknown to those who do not know the Veda, which is famed in the Veda. And we know that source (utsa) from which you have come, that is, were born: the one who causes to well up, the one who produces, the causal self.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- त्रेधा (*tredhā*)—established in the three worlds, earth and the rest
+- त्रयाणि (*trayāṇi*)—the forms called Agni, Vāyu and Āditya
+- विद्म (*vidma*)—we have known
+- ते (*te*)—your
+- धाम (*dhāma*)—the stations
+- बिभृता (*bibhṛtā*)—borne by you
+- पुरुत्सा (*purutsā*)—the forms having many designations such as Āhavanīya
+- विद्म (*vidma*)—we have known
+- ते (*te*)—your
+- यत् नाम (*yat nāma*)—which name
+- परमं (*paramaṃ*)—is supreme
+- गुहा (*guhā*)—and secret, that too
+- विद्म (*vidma*)—we have known
+- यतः (*yataḥ*)—from where
+- आ जगंथ (*ā jagaṃtha*)—you have come into manifestation
+- तं उत्सं (*taṃ utsaṃ*)—that source of your origin
+- विद्म (*vidma*)—we have known
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we have known your three forms, called Agni, Vāyu and Āditya, established in the three worlds, earth and the rest. We have known your stations and your forms such as the Āhavanīya. That name of yours which is most excellent and secret, not known by others, and the place of your origin, we have known.
+
+### Printed p. 64
+
+##### English translation
+We recognize your threefold station, Agni, and your three forms; we recognize the many stations occupied by you: we know what your supreme secret appellation (is): we know the source, whence you have proceeded.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the special topics of the previous Ṛk, Agni's threefold origin was explained. How, according to the threefold origin in the three worlds, he becomes manifest in three different forms in the three worlds, is explained in the present Ṛk and in the following ones.
+
+For the sentence विद्वा ते अग्ने त्रेधा त्रयाणि (*vidvā te agne tredhā trayāṇi*) **NOTE** the Sanskrit comment is given in the Kannada in a garbled form (तद त्रिषु स्थानेम (*tada triṣu sthānema*) …, द्विती (*dvitī*)), and the sentence is not translated. The sense that remains: he becomes visible on earth in the form of Agni, in the atmosphere in the form of Vāyu (or Indra), and in the heaven in the form of Āditya, as *Sāṇi* explains **NOTE**. The meaning is that these three forms, Agni, Vāyu (or Indra) and Āditya, are three forms of one power. Besides these, many intermediate forms are also described. Mainly these three are the supporters and protectors of the three worlds. In addition there are the variant forms अग्निपदमान (*agnipadamāna*), अग्निवनस्पति (*agnivanaspati*) and अग्निहुणॆ (*agnihuṇè*) **NOTE**, the distinctions of form जातवेदस् (*jātavedas*), वैश्वानर (*vaiśvānara*) and द्रविणोदाः (*draviṇodāḥ*), the variants of terrestrial Agni, दक्षिणाग्नि (*dakṣiṇāgni*), गार्हपत्य (*gārhapatya*) and आहवनीय (*āhavanīya*), and many other intermediate varieties. Among these, the topics of such distinctions as वैश्वानर (*vaiśvānara*) and प्रविणोदाः (*praviṇodāḥ*) **NOTE** have been given before (in the 8th part). Some principal topics not explained before are stated here directly.
+
+These distinctions have no difference in principle. The fundamental principle of all of them is one. This is the source of all things moving and unmoving. This one principle shines in three forms in the three worlds. How?
+
+भवद्भूतस्य भव्यस्य जंगमस्थावरस्य च । अस्यके सूर‍्यमेवैकं प्रभवं प्रलयं विदुः ॥ (*bhavadbhūtasya bhavyasya jaṃgamasthāvarasya ca | asyake sūryamevaikaṃ prabhavaṃ pralayaṃ viduḥ ‖*) (Pu. De. 1.11) **NOTE**
+
+Whatever is now current, whatever was before, whatever will be hereafter, whatever is moving, whatever has a fixed state: for all these the one Āditya is the primal source, and he alone is the cause of the dissolution of all these.
+
+### Printed p. 65
+असतश्च सतश्चैव योनिरेषा प्रजापतिः । यदक्षरं च वाच्यं च यथैतद्ब्रह्म शाश्वतं ॥ (*asataśca sataścaiva yonireṣā prajāpatiḥ | yadakṣaraṃ ca vācyaṃ ca yathaitadbrahma śāśvataṃ ‖*)
+
+Whatever exists in the form of being, whatever exists in the form of non-being: for all of them this Sūrya, called Prajāpati, is the source. This Prajāpati-principle is imperishable and beyond the praise of speech; yet the intermediate varieties that are visible in the forms of Sūrya and the rest are fit for description.
+
+कृत्कृष हि त्रिधात्मानं एष लोकेषु शिष्कति । देवान्यथायथं सर्वान् निवेश्य स्टेषु रश्मिषु ॥ (*kṛtkṛṣa hi tridhātmānaṃ eṣa lokeṣu śiṣkati | devānyathāyathaṃ sarvān niveśya sṭeṣu raśmiṣu ‖*)
+
+This Sūrya, the primal substance of the world, has spread his own nature threefold and pervaded the three worlds. He has established all the other gods each in his own place. For all of them the rays of this Sūrya are the supports (adhikaraṇa-sthāna).
+
+एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा । यषयो गीर्भिरर्चंति व्यंजितं नामभिस्त्रिभिः ॥ (*etadbhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā | yaṣayo gīrbhirarcaṃti vyaṃjitaṃ nāmabhistribhiḥ ‖*)
+
+After creation, in the three worlds that have come into being, this primal substance, abiding in the form of Agni, exists in three forms. The seers praise this Agni, who has threefold designations for the three kinds, indicating him by three names.
+
+तिष्ठत्येव हि भूतानां जठरे जठरे ज्वलन् । त्रिस्थानं चैनमर्चंति होत्रायां वृक्तबर्हिषः । (*tiṣṭhatyeva hi bhūtānāṃ jaṭhare jaṭhare jvalan | tristhānaṃ cainamarcaṃti hotrāyāṃ vṛktabarhiṣaḥ |*)
+
+This Agni pervades the belly of every being in the world. The sacrificers, at the time of their invocation, praise and worship this Agni as having three stations. What are the three forms of this powerful Agni?
+
+इहैष पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः । अमुष्मिन्नेव विप्रैस्तु लोकेऽग्निशुचिरुच्यते ॥ (*ihaiṣa pavamāno 'gnirmadhyamo 'gnirvanaspatiḥ | amuṣminneva vipraistu loke 'gniśucirucyate ‖*)
+
+The part on this earth the priests praise as Agni Pavamāna; the part in the atmosphere as Agni Vanaspati; the part in the heavenly world as Agni Śuci. And besides:
+
+इहाग्निभूतस्वृषिभिर्लोके स्तुतिभिरीळितः । जातवेदास्तुतो मध्ये स्तुतो वैश्वानरो दिवि ॥ (*ihāgnibhūtasvṛṣibhirloke stutibhirīḷitaḥ | jātavedāstuto madhye stuto vaiśvānaro divi ‖*) (Bṛ. De. 1-67)
+
+### Printed p. 66
+The praisers extol the Agni manifested on earth simply as Agni. The Agni in the atmosphere is known as Jātavedas, and the Agni in the heavenly world as Vaiśvānara. But in this matter there is no exact agreement; there are differences of opinion. For example, the earlier seers hold that Vaiśvānara Agni is Āditya, whereas Śākapūṇi holds that terrestrial Agni is the one called Vaiśvānara Agni; the author of the Nirukta states these differences of opinion (Ni. 7-23). Whatever these differences, it is agreed by all that the three forms of Agni have spread through the three worlds and become famous under different names.
+
+अग्निरस्मिन्नथेंद्रस्तु मध्यतो वायुरेव च । सूरो दिवीति विज्ञेयास्ति प्र एनेह देवताः ॥ (*agnirasminnatheṃdrastu madhyato vāyureva ca | sūro divīti vijñeyāsti pra eneha devatāḥ ‖*) (Bṛ. De. 1-69)
+
+Agni in this world, Indra and Vāyu in the middle world, and Sūrya in the heavenly world are the varieties of Agni. For all these varieties and for all things in the world Agni is the primal form. The author of the Nirukta too, explaining this, says तिस्र एव देवताः (*tisra eva devatāḥ*) (the number of the gods is only three; these three are three parts of one principle). But what is the greatness of these three varieties?
+
+वितासामेव माहात्मान्नामान्यत्वं विधियते । तत्तत्स्थानविभागेन तत्र तत्रेह दृश्यते ॥ (*vitāsāmeva māhātmānnāmānyatvaṃ vidhiyate | tattatsthānavibhāgena tatra tatreha dṛśyate ‖*) (Bṛ. De. 1-70)
+
+By their very greatness they are designated by different names. These different names too are famous in accordance with their respective stations, since each by its own part pervades a different world. Thus the topics of the varieties of Agni are praised.
+
+When explaining the purport of the sentence इदं विष्णुर्वि चक्रमे त्रेधा नि धदे पदं (*idaṃ viṣṇurvi cakrame tredhā ni dhade padaṃ*) (Ṛ. Saṃ. 1-22-17), Durgācārya has stated as follows:
+
+पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । पार्थिवोऽग्निर्भूत्वा पृथिव्यां यत्किंचिदस्ति तद्विक्रमते तदधितिष्ठति । अंतरिक्षे विद्युदात्मना दिवि सूर्यात्मना । यदुक्तं । तमू अकृण्वन् त्रेधा भुवे कं (*pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ | pārthivo 'gnirbhūtvā pṛthivyāṃ yatkiṃcidasti tadvikramate tadadhitiṣṭhati | aṃtarikṣe vidyudātmanā divi sūryātmanā | yaduktaṃ | tamū akṛṇvan tredhā bhuve kaṃ*) (Ni. 12-19)
+
+In the manner stated before, the striding of Viṣṇu is also explained. Of the three strides of Viṣṇu, one is taken on earth in the form of terrestrial Agni, another in the atmosphere in the form of lightning, and the third in the heavenly world in the form of Sūrya. A Vedic sentence also supports this.
+
 ---
 
-**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
+**Progress note:** Done through printed p. 66. pp. 61-66 (batch API)
