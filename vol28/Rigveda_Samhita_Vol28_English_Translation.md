@@ -7510,6 +7510,98 @@ Prayed to and regulated by gods and humans alike, he absorbs all sacrificial wor
 
 "As the eyes of the human sacrificers turn towards the sun, so they turn towards Agni." (10-91-3 **NOTE**)
 
+### Printed p. 248
+…"The Lord (Agni) is the father of all sacrificers, and he is their master. He is the banner of the sacrifice, manifest to the outward eye, and the overseer of all Vedic rites." (केतुं याज्ञानां (*ketuṃ yājñānāṃ*), पिता याज्ञानां (*pitā yājñānāṃ*), सम्राजं (*samrājaṃ*)): 3-3-3, 4; 3-10-4; 3-11-2; 4-3-1; 6-2-3; 8-43-24; 10-1-5; 10-6-3.
+
+"The swift-moving Agni (रघुपत्वः (*raghupatvaḥ*)), entreated by the gods, travels from the earth to the atmosphere and from the atmosphere to the earth. He is the messenger of the gods and also the messenger of the human sacrificer, and so he builds up the lasting bond between gods and men. He delivers to the gods the divine praises and the oblations offered by men. At every desired time he brings the gods from heaven to the sacrificial ground on earth." (10-100-11; 10-150-4)
+
+Agni's being the messenger of the gods and of men is described in the Taittirīya Saṃhitā as follows—
+
+"Agni was the messenger of the gods, Uśanas Kāvya of the asuras" अग्निर्देवानां दूत असीदुशना काव्योऽसुराणां (*agnirdevānāṃ dūta asīduśanā kāvyo 'surāṇāṃ*) (Tai. Saṃ. 3-5-8-5)
+
+Agni was the messenger of the gods, and Kāvya Uśanas was the messenger of the asuras. How this messengership allowed the bond between gods and men to grow is praised as Agni's work in the Taittirīya Brāhmaṇa (Tai. Brā. 2-4-1-6):
+
+आ तंतुमग्निर्दैव्यं ततान । श्वं नस्तंतुरुत सेतुरग्ने । त्वं पंथा भवसि देवमानैः । त्वया अग्ने पृष्ठतु वयमारुहेम । अथ देवैः सधमादं मदेम ॥ (*ā taṃtumagnirdaivyaṃ tatāna | śvaṃ nastaṃturuta seturagne | tvaṃ paṃthā bhavasi devamānaiḥ | tvayā agne pṛṣṭhatu vayamāruhema | atha devaiḥ sadhamādaṃ madema ‖*)
+
+O Agni, you stretch out the thread, the bond that exists between gods and men. You yourself are the thread for us. You are the chief bridge for going to heaven, the chief road to the world of the gods. By your grace may we, your worshippers, also reach heaven and enjoy together with the gods there the very happiness that they enjoy.
+
+In the same way, there are very many passages in the Ṛgveda Saṃhitā in which his being the messenger of the gods, and through this messengership his helping to increase the bond between gods and men, are praised. Sentences such as "We choose Agni as messenger" (अग्निं दूतं वृणी महे (*agniṃ dūtaṃ vṛṇī mahe*)) praise Agni's help. (1-12-1; 2-4-8; 1-36-3, 4, 5; 1-44, 2, 3, 5, 9, 12; 2-10-6; 3-11-2; 4-2-3; 5-21-3; 7-17-6; 8-39-1, 9; 10-91-11; 1-27-4; 1-188-1; 3-5-2; 3-17-4; 4-7-8; 6-15-8 to 10; 8-19-21; 8-44-3; 10-122-7 **NOTE**; 1-58-1; 2-6-6, 7; 3-6-5; 3-21-1, 5; 4-8-2, 4;
+
+### Printed p. 249
+7-11-4; 8-23-18, 19; 10-4-2; 1-34-4, 7; 2-9-2; 3-9-8; 4-1-8; 5-8-6; 7-16-4; 10-46-10, etc.)
+
+This same Agni, knowing fully the inner nature of the heavenly world, is fit to bring all the gods to receive the sacrificial share each deserves. (4-8-2)
+
+In whatever chariots the gods come, Agni also comes seated in the same chariot. (3-4-11; 7-11-1)
+
+Or, knowing the time, he comes even before them. (10-20-2)
+
+Whatever worship and whatever sacrificial share belong to all the other gods, all of it is due to Agni as well and is offered to him. (1-36-4; 2-12-1)
+
+He brings Varuṇa to the sacrifice. He brings Indra from the heavenly world and the Maruts from the atmosphere. (10-20-11)
+
+He makes the oblations offered in the sacrifice fragrant (हव्यानी सुरभीणि कृत्वी (*havyānī surabhīṇi kṛtvī*)). (10-15-12; Vā. Saṃ. 19-66)
+
+Without Agni's help in the sacrifice the gods have no satisfaction of any kind. (7-11-1)
+
+Therefore it is Agni himself who directly offers the oblations to all those gods. (7-11-3; 8-91-16; 10-7-6)
+
+Because the gods receive oblations and the like through Agni, he is often praised, as taking the chief part in the sacrifice performed by gods and men, as the mouth of the gods, and as the very tongue with which they drink Soma and the rest (आस्यं त्वां जिह्वां (*āsyaṃ tvāṃ jihvāṃ*)). (2-1-13; 2-1-14) In some other places he is entreated to eat all the oblations himself, and he is directly invited to drink the Soma offered in the sacrifice. (3-21-1; 3-28-1 to 6; 1-14-10; 7-19-9)
+
+### Printed p. 250
+**Agni's hiding in the waters**
+
+First of all, in this section Agni's office as carrier of the oblation is praised. The performance of the sacrifice, which is the foundation of all the affairs of the world, is indispensable for the maintenance of the world. For this sacrifice to be fully accomplished, Agni must be the one who accomplishes this task. Therefore he must be the chief Hotṛ and the carrier of the oblation. "I think of you, Jātavedas, as the one who will carry the oblations continuously" (मन्ये त्वा जातवेदसं स हव्यावक्ष्यानुषक् (*manye tvā jātavedasaṃ sa havyāvakṣyānuṣak*)): the seer first expresses his faith, his firm conviction that Agni, in the form of Jātavedas, is the unfailing carrier of the oblation (5-9-1).
+
+The gods, who rely on the oblation as their food, become agitated if Agni, who distributes the sacrificial oblation, is out of sight even briefly. In such circumstances they entreat Agni humbly to perform the work of carrying the oblation. Some such circumstances are described in the Ṛgveda Saṃhitā itself. For example, the exposition of Ṛ. Saṃ. sūkta 10-51 may be examined here. In this sūkta, which is being cited, the gods entreat Agni for the work of carrying the oblation. Agni names one condition dear to him, and gives the assurance that if the gods observe that condition he will perform the work of carrying the oblation.
+
+An earlier story, explaining why Agni hid in the waters, is told both in the present sūkta of the Ṛgveda and in the Yajurveda.
+
+अग्नेः पूर्वे भ्रातरो अर्थमेतं रथीनाध्वानमन्वावरीवुः । तस्माद्भिया वरुण दूरमायं गौरो न क्षेप्नोरविजे ज्यायाः । कुर्मस्त आयुरजरं यदग्ने यथा युक्तो जातवेदो न रिष्याः । अथा वहानि सुमनस्यमानो भागं देवेभ्यो हविषः सुजाश ॥ प्रयाजान्मे अनुयाजांश्च केवलानूर्जस्वंतं हविषो दत्त भागं । घृतं चापां पुरुषं चौषधीनामग्नेश्च दीर्घमायुरस्तु देवाः ॥ तव प्रयाजा अनुयाजाश्च केवल उर्जस्वंतो हविषः संतु भागाः । तवाग्ने यज्ञो ३ यमस्तु सर्वस्तुभ्यं नमंतां प्रदिशश्च तस्रः ॥ (*agneḥ pūrve bhrātaro arthametaṃ rathīnādhvānamanvāvarīvuḥ | tasmādbhiyā varuṇa dūramāyaṃ gauro na kṣepnoravije jyāyāḥ | kurmasta āyurajaraṃ yadagne yathā yukto jātavedo na riṣyāḥ | athā vahāni sumanasyamāno bhāgaṃ devebhyo haviṣaḥ sujāśa ‖ prayājānme anuyājāṃśca kevalānūrjasvaṃtaṃ haviṣo datta bhāgaṃ | ghṛtaṃ cāpāṃ puruṣaṃ cauṣadhīnāmagneśca dīrghamāyurastu devāḥ ‖ tava prayājā anuyājāśca kevala urjasvaṃto haviṣaḥ saṃtu bhāgāḥ | tavāgne yajño 3 yamastu sarvastubhyaṃ namaṃtāṃ pradiśaśca tasraḥ ‖*)
+(Ṛ. 90. 10-51-6 to 9) **NOTE**
+
+In this sūkta the conversation between the gods and Agni is given. The main point is this: Agni had three elder brothers named Bhūpati, Bhuvanapati and Bhūtānāṃ Pati. Like Agni, they used to carry to the gods the oblation offered by the sacrificers in the sacrifice. While this was so, in the course of the offerings made in the sacrifice, these three brothers died through the offerings made with the vaṣaṭ-call, which is like a thunderbolt. Seeing this, Agni, the youngest, feared that the same fate might befall him, and
+
+### Printed p. 251
+went in fear and hid in the waters. When the gods, not finding Agni anywhere, were searching for him, the fish in the water told the gods that Agni was in the water. Then the gods came to Agni and conversed with him in this way. This very conversation is set out in this sūkta. When the gods begged Agni to rise from the water and carry the oblation to them as before, Agni said that since his brothers had died the same fate would come to him, and therefore he would not come. When the gods said that he need not fear death and that they would see to it that he had no fear of death, Agni spoke again: "Good; besides freeing me from the fear of death, you must give me in the sacrifices certain special offerings: the prayājas, anuyājas, urjasvat, sviṣṭakṛt, ājyabhāga and the like." The gods agreed to this, gave him the shares of oblation he asked for, granted him the boon that he should take the chief part in the sacrifice, be saluted by all, and live long, and appointed him as before to the work of carrying the oblation. This is the main purport of this sūkta. In the Taittirīya Saṃhitā of the Yajurveda the matter stands thus:
+
+अग्नेस्त्रयो ज्यायाग्‌ंसो भ्रातर आसन्ते देवेभ्यो हव्यं वहंतः प्रामियंत सोऽग्निरबिभेदित्थं वाव स्य आर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन्तं मत्स्यः प्राब्रवीत्तमपशपद्धियाधिया त्वा वध्यासुर्यो मा प्रावोच इति तस्मान्मत्स्यं धियाधिया घ्नंति शप्पो हि तमन्वनिंदन्तमब्रुवन्नुप न आ वर्तस्व हव्यं नो वहेति सोऽब्रवीद्वरं वृणै यदेव गृहीतस्याहुतस्य बहिः परिधिस्कंदात्तन्ने भातृणां भागधेयमसदिति तस्माद्यद्गृहीतस्याहुतस्य बहिः परिधि स्कंदति तेषां तद्भागधेयं तानेव तेन प्रीणाति परिधीन्परि दधाति रक्षसामपहत्यै॥ (*agnestrayo jyāyāgṃso bhrātara āsante devebhyo havyaṃ vahaṃtaḥ prāmiyaṃta so 'gnirabibheditthaṃ vāva sya ārtimāriṣyatīti sa nilāyata so 'paḥ prāviśattaṃ devatāḥ praiṣamaicchantaṃ matsyaḥ prābravīttamapaśapaddhiyādhiyā tvā vadhyāsuryo mā prāvoca iti tasmānmatsyaṃ dhiyādhiyā ghnaṃti śappo hi tamanvaniṃdantamabruvannupa na ā vartasva havyaṃ no vaheti so 'bravīdvaraṃ vṛṇai yadeva gṛhītasyāhutasya bahiḥ paridhiskaṃdāttanne bhātṛṇāṃ bhāgadheyamasaditi tasmādyadgṛhītasyāhutasya bahiḥ paridhi skaṃdati teṣāṃ tadbhāgadheyaṃ tāneva tena prīṇāti paridhīnpari dadhāti rakṣasāmapahatyai‖*)
+(Tai. Saṃ. 2-6-6-1, 2)
+
+Formerly Agni had three elder brothers. They used to carry to the gods the oblation that the sacrificer offers in sacrifices and the like. When they died, Agni feared that the same fate might overtake him, ran away, entered the water and hid so that no one could see him. When the gods were searching where Agni had gone, a fish in the water told the gods that Agni was hidden in the water. Hearing this tale-bearing of the fish, Agni was angry and cursed that henceforth people should catch and kill the fish in the water with nets and other means. Accordingly, even now people catch fish with nets and other means, kill them and eat them. Then the gods said to Agni, "O Agni, come back and be ready for the work of carrying the oblation for us." To this Agni said that, in the offering made in the sacrifice, the paridhi (
+
+### Printed p. 252
+the name for the special darbha-grass laid on the four sides of the fire-pit so that rākṣasas may not come and obstruct the sacrifice) — that the portion of the offerings such as the ājya that falls outside, that is, on this side, should be the share of his brothers; if this boon were granted, he would rise from the water and carry the oblation as before. The gods agreed and gave him the boon in that way. Such is the story.
+
+When Agni was entreated to take the chief place in the sacrifice and help the gods, a conversation took place between Agni and the other gods, which shows Agni's pre-eminence and his exceeding power. That conversation, which is the substance of the present sūkta, runs as follows. (10-51)
+
+The gods: O Agni, the covering with which you have hidden yourself and gone into the water is very thick and entirely concealing. But, O Jātavedas, one god only (Prajāpati) knows fully your many different forms.
+
+Agni: Who among you knows my forms? Which god knows fully all the variety of my shapes? O Mitra and Varuṇa, if there is one among you who knows my radiant forms, the means of carrying the oblation to the gods, will you tell me where they all lie hidden?
+
+The gods: O Agni, in order to find you, who had taken many forms and gone into the water and the plants, we searched for you. Then Yama alone discovered your great flames hidden in the ten places beginning with the earth.
+
+Agni: O Varuṇa, from fear that the gods might again impose on me the work of carrying the oblation, I came here and hid. For that very reason I have hidden myself within the water in different forms. This much only I can say: I do not wish to bear again the burden of that office.
+
+The gods: O Agni, the devout Manu waits to worship you and perform the sacrifice. You have adorned yourself and gone into the water. Make safe the paths on which the gods travel, and carry the offered oblations to the gods.
+
+Agni: O Varuṇa, my elder brothers agreed to perform this very duty of carrying the oblation. But in the course of performing that duty they died. For that reason I
+
+### Printed p. 253
+was frightened and ran here. As the gaur, as soon as it sees the hunter's bow and arrows, takes fright and runs, so I too ran here trembling. (This occasion was told earlier.)
+
+The gods: O Agni, you need not harbour that fear. We give you a life free from decay. With its help you can escape death. O Agni, of excellent birth, be well disposed toward us, and again take up the burden of carrying the oblation of the gods and distributing it to them.
+
+Agni: O gods, set aside for me alone, specially assigned, the vigorous oblations in the form of prayājas and anuyājas. Offer me the essence of the waters (ghee) and the essence of the plants. May my life, that of Agni, be long.
+
+The gods: O Agni, we set the oblations of prayāja and anuyāja aside specially for you alone. May all the vigorous portions of the oblations be yours. O Agni, may this sacrifice too be offered to you alone. May the four quarters bow before you in humility and salute you. Such is the account of the conversation in sūkta 10-51. It is after this that in the next sūkta Agni proclaims himself the lord of the whole sacrifice. Moreover he gives the due assurance of offering his cooperation to the gods, and asks them to tell him in what way he can help them.
+
+Concerning sūktas 51, 52 and 53, which deal with Saucīka Agni, the great sage Śaunaka, in the seventh chapter of his work called Bṛhaddevatā, says as follows—
+
+वैश्वानरे गृहपतौ यविष्टेऽग्नौ च पावके । वषट्कारेण वृक्षेषु भातृष्टग्नौ सहिसुते ॥ ६१ ॥ अपचक्राम देवेभ्यः सौचीकोऽग्निरिति श्रुतिः । (*vaiśvānare gṛhapatau yaviṣṭe 'gnau ca pāvake | vaṣaṭkāreṇa vṛkṣeṣu bhātṛṣṭagnau sahisute ‖ 61 ‖ apacakrāma devebhyaḥ saucīko 'gniriti śrutiḥ |*)
+
+Agni, famed under names such as Vaiśvānara, Gṛhapati and Pāvaka, had three brothers. Their names were Bhūpati, Bhuvanapati and Bhūtānāṃ Pati. Among these brothers Agni was the youngest. Formerly Agni's three elder brothers used to carry to the gods, and make reach them, the offerings that sacrificers make with the vaṣaṭ-call in sacrifices and the like. According to the śruti sentence वज्रो वै वषट्कारः । वज्र मेव भातृवेभ्यः प्रहरति । (*vajro vai vaṣaṭkāraḥ | vajra meva bhātṛvebhyaḥ praharati |*), if there is even a little excess or deficiency in the vaṣaṭ offerings, it strikes like a thunderbolt both those who utter the mantra and those who carry the oblation. Therefore Agni's elder brothers, who carried the vaṣaṭ offerings to the gods, met death through the blow of the vaṣaṭ-call. Seeing this, the youngest, Saucīka Agni, thinking that the same fate would befall him,
+
 ---
 
-**Progress note:** Done through printed p. 247. pp. 242-247 (batch API)
+**Progress note:** Done through printed p. 253. pp. 248-253 (batch API)
