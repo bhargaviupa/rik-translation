@@ -5418,6 +5418,317 @@ We solicit your friendship as you drop flowing over the filter.
 
 O Soma, those waves of yours which flow in a stream through the filter, with those waves make us happy.
 
+### Printed p. 182
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- ते (*te*)—your
+- ये (*ye*)—which
+- ऊर्मयः (*ūrmayaḥ*)—juices that are like waves
+- पवित्रं (*pavitraṃ*)—in the ten-fold filter
+- धारया (*dhārayā*)—in the form of a stream
+- क्षरंति (*kṣaraṃti*)—flow
+- तेभिः (*tebhiḥ*)—with such juices
+- नः (*naḥ*)—us
+- मृळय (*mṛḷaya*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, with those juices of yours, like waves, which flow in a stream in the ten-fold filter, make us happy.
+
+##### English translation
+Delight us, Soma, with those your undulations which flow over the filter in a stream.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ पुना॒न आ भ॑र र॒यिं वी॒रव॑ती॒मिष॑म् ।  
+> ईशा॑नः सोम वि॒श्वतः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । पुनानः । आ । भर । रयिम् । वीरऽवतीम् । इषम् ।  
+> ईशानः । सोम । विश्वतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम विश्वतः सर्वस्य जगतः ईशानः ईश्वरः सः अभिषुतः पुनानः पूयमानस्त्वं नः अस्मभ्यं रयिं धनं वीरवतीं पुत्राद्युपेतम् इषम् अन्नं च आ भर आहर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are lord of the whole world, pressed and being purified, bring to us wealth and food endowed with heroes, that is, with sons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- विश्वतः (*viśvataḥ*)—of the entire world
+- ईशानः (*īśānaḥ*)—who are the lord
+- सः (*saḥ*)—you
+- पुनानः (*punānaḥ*)—as purifier of all
+- नः (*naḥ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- वीरवतीं (*vīravatīṃ*)—endowed with sons who are powerful
+- इषं (*iṣaṃ*)—food
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are lord of the entire world, as purifier of all, bring and provide to us wealth and food endowed with powerful sons.
+
+### Printed p. 183
+
+##### English translation
+Soma, you are lord over all the purifier, bring us riches and food with male offspring.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तमु॒ त्यं दश॒ क्षिपो॑ मृ॒जंति॒ सिंधु॑मातरम् ।  
+> समा॑दि॒त्येभि॑रख्यत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतम् । ऊं इति । त्यम् । दश । क्षिपः । मृजंति । सिंधुऽमातरम् ।  
+> सम् । आदित्येभिः । अख्यत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंधुमातरं यस्य सोमस्य सिंधवो नद्यो मातरो भवंति त्यं तम् एतम् इमं सोमं दश क्षिपः दशसंख्याका अंगुलयः मृजंति शोधयंति । अपि च सोऽयं सोमः आदित्येभिः आदित्यैः सम् अख्यत संगच्छते ॥
+
+##### Gist of the bhāṣya
+
+Of this Soma, whose mothers are the rivers, the ten fingers cleanse him; that is, they purify him. And this Soma unites with the Ādityas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधुमातरं (*siṃdhumātaraṃ*)—born of the rivers as mothers
+- त्यं (*tyaṃ*)—renowned
+- एतं (*etaṃ*)—this divine Soma
+- दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers
+- मृजंति (*mṛjaṃti*)—purify
+- आदित्येभिः (*ādityebhiḥ*)—with the Ādityas
+- समख्यत (*samakhyata*)—this divine Soma joins **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers purify the renowned divine Soma, who has the rivers for his mothers. This divine Soma joins the Ādityas.
+
+##### English translation
+The ten fingers cleanse this Soma, whose parents are the rivers; he is associated with thh Adityas. **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समिंद्रे॑णो॒त वा॒युना॑ सु॒त ए॑ति प॒वित्र॒ आ ।  
+> सं सूर्य॑स्य र॒श्मिभिः॑ ॥ ८ ॥
+
+### Printed p. 184
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । इंद्रेण । उत । वायुना । सुतः । एति । पवित्रे । आ ।  
+> सम् । सूर्यस्य । रश्मिऽभिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतः अभिषुतः सोमः पवित्रे इंद्रेण सम् एति संगच्छते । उत अपि च वायुना समेति । सूर्यस्य रश्मिभिः मयूखैरपि सम् एति ॥
+
+##### Gist of the bhāṣya
+
+Soma, pressed, comes together with Indra in the filter. And he comes together also with Vāyu. He comes together also with the rays of the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—the pressed divine Soma
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- समेति (*sameti*)—joins
+- उत (*uta*)—and
+- वायुना (*vāyunā*)—with Vāyu too
+- सं (*saṃ*)—joins
+- सूर्यस्य (*sūryasya*)—of the sun
+- रश्मिभिः (*raśmibhiḥ*)—with the rays
+- सं (*saṃ*)—joins
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Soma, pressed for the sacrifice, joins Indra in the ten-fold filter. He joins Vāyu too. He joins the rays of the sun.
+
+##### English translation
+When effused he proceeds to the filter, with Indra and Vayu, and with the sun's rays.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ भगा॑य वा॒यवे॑ पू॒ष्णे प॑वस्व॒ मधु॑मान् ।  
+> चारु॑र्मि॒त्रे वरु॑णे च ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । भगाय । वायवे । पूष्णे । पवस्व । मधुऽमान् ।  
+> चारुः । मित्रे । वरुणे । च ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मधुमान् मधुररसः चारुः कल्याणस्वरूपश्च सः अभिषुतस्त्वं नः अस्माकं यज्ञे भगाय भगाख्याय देवाय वायवे च पूष्णे च मित्रे मित्राय देवाय वरुणे वरुणाय च पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, sweet-juiced and beautiful, pressed as you are, flow for us in our sacrifice for the god called Bhaga, for Vāyu, for Pūṣan, for the god Mitra and for Varuṇa.
+
+### Printed p. 185
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) मधुमान् (*madhumān*)—possessed of sweet juice
+- चारुः (*cāruḥ*)—of attractive form
+- सः (*saḥ*)—you
+- नः (*naḥ*)—in our sacrifice
+- मित्रे (*mitre*)—for Mitra
+- भगाय (*bhagāya*)—for the divine Bhaga
+- नायवे (*nāyave*)—with Vāyu as the aim **NOTE**
+- पूष्पे (*pūṣpe*)—for the divine Pūṣan **NOTE**
+- वरुणे च (*varuṇe ca*)—and for the satisfaction of Varuṇa
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are possessed of sweet juice and of attractive form, flow in our sacrifice for Mitra, for the satisfaction of Bhaga, with Vāyu as the aim, for Pūṣan, and for the satisfaction of Varuṇa.
+
+##### English translation
+Do you who are sweet-flavoured and beatiful flow (at) our (sacrifice) for Bhaga, Vayu, Pushan, Mitra, and Varuna. **NOTE**
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्चा ते॑ जा॒तमंध॑सो दि॒वि षद्भूम्या द॑दे ।  
+> उ॒ग्रं शर्म॒ महि॒ श्रवः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उच्चा । ते । जातम् । अंधसः । दिवि । सत् । भूमिः । आ । ददे ।  
+> उग्रम् । शर्म । महि । श्रवः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव संबंधिनः अंधसः रसस्य उच्चा उपरि जातं जन्म अपि च दिवि द्युलोके सत् विद्यमानं स्वतस्तव संबंधि उग्रम उद्गूर्णं शर्म सुखं महि महत् श्रवः अन्नं च भूमिः आ ददे। भूम्या ददे इति पदत्रयमामनंति । विसर्जनीयलोपः सांहितिकः । भूमिर्भौमा जना मादृशाः । भूमिष्ठैरादीयत इत्यर्थः ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the birth of your juice is on high. And, existing in the heavenly world, your own intense happiness and abundant food are taken by the earth, that is, by earth-dwelling people such as we; the meaning is that they are taken by those who live on the earth. One tradition recites the words as three, divided separately.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) ते (*te*)—your
+- अंधसः (*aṃdhasaḥ*)—for the juice
+- उच्चा (*uccā*)—the elevated region
+- जातं (*jātaṃ*)—is the place of origin
+- दिवि सत् (*divi sat*)—although you are in the heavenly world
+- उग्रं (*ugraṃ*)—very great
+
+### Printed p. 186
+- शर्म (*śarma*)—happiness
+- महि (*mahi*)—great
+- श्रवः (*śravaḥ*)—food
+- भूमिः (*bhūmiḥ*)—the people of the earth
+- आ ददे (*ā dade*)—receive from you
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, the elevated region is the place of origin of your juice. Although you are in the heavenly world, the people of the earth receive from you very great happiness and great food.
+
+##### English translation
+The birth of your juice is on high : the earth has received (your) intense happiness and abundant food, though (these) exist (naturally) in heaven.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ना विश्वा॑न्य॒र्य आ द्यु॒म्नानि॒ मानु॑षाणाम् ।  
+> सिषा॑संतो वनामहे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एना । विश्वानि । अर्यः । आ । द्युम्नानि । मानुषाणाम् ।  
+> सिसासंतः । वनामहे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एना एनेनानेन सोमेन मानुषाणां मनुष्याणां विश्वा विश्वानि द्युम्नानि अन्नानि आ अर्यः अभिगच्छंतः सिषासंतः संभक्तुमिच्छंतश्च वयं वनामहे संभजामहे ॥
+
+##### Gist of the bhāṣya
+
+By this Soma we, approaching all the splendours, the foods of men, and desiring to enjoy them, partake of them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एना (*enā*)—by the favour of this divine Soma
+- मानुषाणां (*mānuṣāṇāṃ*)—pleasing to men
+- द्युम्नानि (*dyumnāni*)—and shining
+- विश्वानि (*viśvāni*)—all foods
+- आ अर्यः (*ā aryaḥ*)—obtaining fully
+- सिषासंतः (*siṣāsaṃtaḥ*)—enjoying them
+- वनामहे (*vanāmahe*)—we attain satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+By the favour of this divine Soma, we attain satisfaction, obtaining fully all the foods that are pleasing to men and shining, and enjoying them.
+
+### Printed p. 187
+
+##### English translation
+By this (Soma) obtaining and desiring to enjoy all the good things that belong to men we enjoy them.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स न॒ इंद्रा॑य॒ यज्य॑वे॒ वरु॑णाय म॒रुद्भ्यः॑ ।  
+> व॒रि॒वो॒वित्परि॑ स्रव ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । इंद्राय । यज्यवे । वरुणाय । मरुत्ऽभ्यः ।  
+> वरिवःऽवित् । परि । स्रव ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वरिवोवित् धनस्य लंभकः पवमानस्त्वं नः अस्माकं यज्यवे यष्टव्याय इंद्राय वरुणाय च मरुद्भ्यः  च परि स्रव धारया क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, winner of wealth, being purified, flow in a stream for us, for the adorable Indra, for Varuṇa and for the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) सः वरिवोवित् (*saḥ varivovit*)—you who are rich in wealth
+- नः (*naḥ*)—our
+- यज्यवे (*yajyave*)—for the conduct of the sacrifice
+- इंद्राय (*iṃdrāya*)—for Indra
+- वरुणाय (*varuṇāya*)—with Varuṇa as the aim
+- मरुद्भ्यः (*marudbhyaḥ*)—for the satisfaction of the Maruts
+- परि स्रव (*pari srava*)—flow in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are rich in wealth, flow in a stream for the conduct of our sacrifice, for the satisfaction of Indra, Varuṇa and the Maruts.
+
+##### English translation
+O you who are the possessor of wealth flow for us, for the adorable Indra, for Varuna. and the Maruts.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उपो॒ षु जा॒तम॒प्तुरं॒ गोभि॑र्भं॒गं परि॑ष्कृतम् ।  
+> इंदुं॑ दे॒वा अ॑यासिषुः ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 181. Mandala 9 Sukta 60 Rk 3-4, Sukta 61 Rk 1-5, pp. 176-181
+**Progress note:** Done through printed p. 187. Mandala 9 Sukta 61 Rk 5-13 start, pp. 182-187
