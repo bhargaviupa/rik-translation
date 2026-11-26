@@ -30038,6 +30038,220 @@ Thus he has stated four kinds of meaning. The explanation of this can be given i
 
 अर्क (*arka*) is also understood to mean a mantra, because those who sing praise worship the deity with this (अर्क (*arka*), that is, the mantra). Therefore the word अर्क (*arka*) is also named a mantra.
 
+### Printed p. 806
+
+अर्कमन्नं भवति—तद्धि अर्चति भूतानि यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते, पूज्यं च सर्वस्यॆवान्नं— (*arkamannaṃ bhavati—taddhi arcati bhūtāni yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate, pūjyaṃ ca sarvasyèvānnaṃ—*)
+
+अर्क (*arka*) is also understood to mean food. Since food is necessary for all living beings, everyone respects food and desires it; that is, because everyone respects it and longs for it with love and regard, the word अर्क (*arka*) is also understood to mean food.
+
+अर्को वृक्षो भवति य एष प्रसिद्धः । संवृतः हि संगतः संव्याप्तः कटुकिम्ना कटुकभावेन (*arko vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛtaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimnā kaṭukabhāvena*) Further, the name of a particular tree is well established for the word अर्क (*arka*). The अर्क (*arka*) tree is called ekkada-giḍa (the swallow-wort plant) in the Karnāṭaka language. Because its samits (twigs) are used in the homas and because it is customary to use it in medicines and the like, the अर्क (*arka*) tree is a thing known to all. Because it is bitter it is called कटुकिम्ना (*kaṭukimnā*). In the present Ṛk the commentator has explained the word अर्क (*arka*) as meaning "by a radiance worthy of worship".
+
+The influence of अर्क (*arka*) is exceedingly great, and its glory is praised in many places. In the Aitareya Āraṇyaka,
+
+अथातः शिरः । यद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । ता नव भवंति नव कपालं शिरः ॥ (*athātaḥ śiraḥ | yadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ | tadarkavatīṣu bhavatyagnirvā arkaḥ | tā nava bhavaṃti nava kapālaṃ śiraḥ ‖*) (Ai. Ā. 1-4-1)
+
+quoting this sentence, it is stated that the following nine Ṛks, beginning with the Ṛk इंद्रमिद्दाथिनो बृहदिंद्रमर्कॆभिरर्किणः (*iṃdramiddāthino bṛhadiṃdramarkèbhirarkiṇaḥ*) (Ṛ. Saṃ. 1-7 1) **NOTE**, are the अर्क (*arka*) mantras, that they are the mantras whose nature is the head, and that, since Gāyatra is the principal principle and these mantras too are in that Gāyatra form, the अर्क (*arka*) mantras hold the principal place above all mantras. In the Bṛhadāraṇyaka Upaniṣad, explaining the etymology of the word अर्क (*arka*),
+
+सोऽर्चन्नचरत्तस्यार्चच आपोऽजायंतार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वं कं ह वा अस्मै भवति य एवमेतदर्कस्यार्कत्वं वेद । (*so 'rcannacarattasyārcaca āpo 'jāyaṃtārcate vai me kamabhūditi tadevārkasyārkatvaṃ kaṃ ha vā asmai bhavati ya evametadarkasyārkatvaṃ veda |*) (Bṛ. U. 1-2-1)
+
+While Death was moving about in search of a body, water came into being. Therefore the name अर्क (*arka*) became established for water. For this very reason,
+
+आपो वा अर्कः तद्यदसां शिर आसीत्तत्समहन्यत । (*āpo vā arkaḥ tadyadasāṃ śira āsīttatsamahanyata |*) (Bṛ. U. 1-2-2)
+
+### Printed p. 807
+
+and so on, it is described. Here अर्क (*arka*) is that which reflects the hidden principle of the universe. The glory of अर्क (*arka*), which expounds the principle of Prajāpati, and the explanation of its nature are described in the Śatapatha Brāhmaṇa, in the context of Āruṇi's instruction, in this manner.
+
+श्वेतकेतुर्वारुणेयः यक्षमाणा आस तग्०ह पितोवाच तानृत्विजोऽवृथा इति स होवाचायं नेव मे वैश्वावसव्यो होतेति तग्०ह पप्रच्छ वेत्थ ब्राह्मणा वैशावसव्य ॥ (*śvetaketurvāruṇeyaḥ yakṣamāṇā āsa tag0ha pitovāca tānṛtvijo 'vṛthā iti sa hovācāyaṃ neva me vaiśvāvasavyo hoteti tag0ha papraccha vettha brāhmaṇā vaiśāvasavya ‖*) (Śa. Brā. 10-3-4-1)
+
+When Śvetaketu Āruṇi, the son of Uddālaka Āruṇi, was engaged in an effort to perform a sacrifice, his father asked him which Ṛtviks he had chosen for the sacrificial rite, and Śvetaketu said that Vaiśvāvasavya was his Hotṛ. Then the father said,
+
+चत्वारि महांतीति । वेद भो ३ इति होवाच..................नेत्थ चत्वारि क्यानीति वेद भो ३ इति होवाच नेत्थ चत्वारि क्यानां क्यानी३इति वेद भो ३ इति होवाच नेत्थ चत्वारि अर्कानिति वेद भो इति होवाच (*catvāri mahāṃtīti | veda bho 3 iti hovāca..................nettha catvāri kyānīti veda bho 3 iti hovāca nettha catvāri kyānāṃ kyānī3iti veda bho 3 iti hovāca nettha catvāri arkāniti veda bho iti hovāca*) (Śa. Brā. 10-1-4-2)
+
+Do you know the four great principles? Do you know the principle related to Ka (Prajāpati)? Among them, do you know the four most hidden principles, have you understood the nature of the four universal lights? Have you meditated on the principle that is the very form of light of the lights? When he asked thus, Śvetaketu said that he knew all of it. Again the father said,
+
+नेत्थार्कमिति । अथ वै नो भवान्वक्ष्यतीति (*netthārkamiti | atha vai no bhavānvakṣyatīti*) (Ka Brā. 10-3-4-3) **NOTE**
+
+Do you know the nature of अर्क (*arka*), the nature of अर्क (*arka*) leaves and अर्क (*arka*) flowers? Do you know the nature of अर्क (*arka*) capsules and अर्क (*arka*) grains? Do you know the root of अर्क (*arka*)? When he asked thus, Śvetaketu said that he knew none of these and asked that they be explained to him. Then the father, explaining अर्क (*arka*), told him also its hidden meaning.
+
+### Printed p. 808
+
+अथ ह वै यत्तदुवाच । वेत्थार्कमिति पुरुषग्ं हैव तदुवाच ! वेत्थार्कपर्णॆ इति कर्णौ हैव तदुवाच वेत्थार्कपुष्टे इत्यक्षिणी हैव तदुवाच वेत्थार्ककोश्याविति नासिके हैव तदुवाच वेत्थार्कसमुद्गावित्योषौ हैव तदुवाच वेत्थार्कधाना इति दंतान्हैव तदुवाच वेत्थार्काष्ठीलामिति जिह्वाग्ं हैव तदुवाच वेत्थार्कमूलमित्यन्नग्ं हैव तदुवाच (*atha ha vai yattaduvāca | vetthārkamiti puruṣagṃ haiva taduvāca ! vetthārkaparṇè iti karṇau haiva taduvāca vetthārkapuṣṭe ityakṣiṇī haiva taduvāca vetthārkakośyāviti nāsike haiva taduvāca vetthārkasamudgāvityoṣau haiva taduvāca vetthārkadhānā iti daṃtānhaiva taduvāca vetthārkāṣṭhīlāmiti jihvāgṃ haiva taduvāca vetthārkamūlamityannagṃ haiva taduvāca*) स एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्तेऽयमहमग्निरर्कोऽस्मितिविद्यया हैवासैष आत्मन्नग्निरर्कश्चितो भवति (*sa eṣo 'gnirarko yatpuruṣaḥ sa yo haitamevamagnimarkaṃ puruṣamupāste 'yamahamagnirarko 'smitividyayā haivāsaiṣa ātmannagnirarkaścito bhavati*) (Śa. Brā. 10-3-4-5)
+
+अर्क (*arka*) means the Puruṣa. The अर्क (*arka*) leaves are the ears of the Puruṣa; the अर्क (*arka*) flowers are the eyes. The अर्क (*arka*) capsules are the nostrils; अर्क (*arka*) समुद्ग (*samudga*) means the lips; the अर्क (*arka*) grains are the teeth; the corresponding part of the अर्क (*arka*) is the tongue; the अर्क (*arka*) root is food. The Puruṣa who is expounded by this अर्क (*arka*) is the sacrificial fire. Thus, for one who knows the identity of these three, अर्क (*arka*), fire and Puruṣa, the sacrificial fire becomes manifest on the sacrificial altar; thus he has told the hidden meaning of the word अर्क (*arka*). Explaining again that this अर्क (*arka*) itself is the principle of Parabrahman in the form of the imperishable,
+
+तद्धैतत्पश्यन्नृषिरभ्यनूनाद । भूतं भविष्यत्प्रस्तौमि । महद्ब्रह्मैकमक्षरं बहु ब्रह्मैकमक्षरमित्येतद्दैवाक्षरग्० सर्वे देवाः सर्वाणि भूतान्यभि संपद्यंते तदेतद्ब्रह्म च क्षत्रं चाग्निरेव ब्रह्मेंद्रः क्षत्रमिंद्राग्नी वै विश्वे देवा विडु विश्वे देवास्तदेतद्ब्रह्म क्षत्रं विट् ॥ (*taddhaitatpaśyannṛṣirabhyanūnāda | bhūtaṃ bhaviṣyatprastaumi | mahadbrahmaikamakṣaraṃ bahu brahmaikamakṣaramityetaddaivākṣarag0 sarve devāḥ sarvāṇi bhūtānyabhi saṃpadyaṃte tadetadbrahma ca kṣatraṃ cāgnireva brahmeṃdraḥ kṣatramiṃdrāgnī vai viśve devā viḍu viśve devāstadetadbrahma kṣatraṃ viṭ ‖*) (Śa. Brā. 10-4-1-9)
+
+This अर्क (*arka*) is Parabrahman itself, reflecting the past, future and present and being all-pervading. All the gods are included in this Parabrahman, which has the form of अर्क (*arka*) and the form of the imperishable. This one alone reflects the power of Brahma and the power of Kṣatra. It is stated that the principle which the seer explained, saying that all the gods are included in this, is this very अर्क (*arka*)-ness. And,
+
+स एष एवार्कः । योऽयमग्निश्चितस्तस्यैतदन्नं क्यमेष सौम्योऽध्वरस्तदर्क्र्यं ..................सहोदक्रामदेष चंद्रमाः ॥ (*sa eṣa evārkaḥ | yo 'yamagniścitastasyaitadannaṃ kyameṣa saumyo 'dhvarastadarkryaṃ ..................sahodakrāmadeṣa caṃdramāḥ ‖*) (Śa. Brā. 10-4-1-21)
+
+अर्क (*arka*) is this deity of the sacrifice. The principle Kya, that is, the Soma sacrifice, is its food. The harmony of these two becomes अर्क (*arka*). **NOTE**
+
+### Printed p. 810
+
+#### Ṛk 32
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाचं (*vācaṃ*)—the sound
+- हिन्वानः (*hinvānaḥ*)—sending forth
+- इंद्राय (*iṃdrāya*)—for the drinking of Indra
+- पवसे (*pavase*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+Soma cries along the whole way of the sacrifice that is true in nature, O Soma. You who are the abode of immortality shine, being of bright colour. You who cause joy flow for the drinking of Indra, sending forth sound together with the praises of the praisers. **NOTE**
+
+##### English translation
+(The Soma) cries repeatedly upon the path of the sacrifice ; you shine (being) the abode of immortality ; possessing exhilaration you flow for Indra, sending forth your voice with the praises of the sages.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒व्यः सु॑प॒र्णोऽव॑ चक्षि सोम॒ पिन्वं॒धाराः॒ कर्म॑णा दे॒ववी॑तौ ।  
+> एंदो॑ विश क॒लशं॑ सोम॒धानं॒ क्रंद॑न्निहि॒ सूर्य॒स्योप॑ र॒श्मिम् ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिव्यः । सुऽपर्णः। अव । चक्षि । सोम । पिन्वन् । धाराः ॥ कर्मणा । देवऽवीतौ ।  
+> आ । इंदो इति । विश । कलशम् ॥ सोमऽधानम् । क्रंदन् । इहि । सूर्यस्य । उप । रश्मिम् ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम दिव्यो दिविभवः सुपर्णः सुपतनस्त्वं अवचक्षि अवस्तात् पश्य च । चष्टेर्लटिसिपिव्यत्ययेन परस्मैपदं । किं कुर्वन् देववीतौ देवानां हविर्भक्षणस्थानेयज्ञे कर्मणा धाराः पिन्वन् क्षरन् । किंच हे इंदो सोमधानं कलशं आविश क्रंदन्शब्दायमानस्त्वं सूर्यस्य प्रेरकस्यादित्यस्य रश्मिं कांतिमुपोहि उपगच्छ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, celestial, born in heaven, well-winged, good in flight, you look down from below and see. What do you do? In the devavīti, the place where the gods eat the oblation, the sacrifice, you cause the streams to flow by your act. And further, O Indu, enter the vessel that holds Soma; crying out, sounding, approach the ray, the radiance, of Sūrya, the impelling Āditya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- दिव्यः (*divyaḥ*)—born in the world of heaven
+- सुपर्णः (*suparṇaḥ*)—you who have an excellent course
+- देववीतौ (*devavītau*)—in the sacrifice
+- कर्मणा (*karmaṇā*)—by your good act
+
+### Printed p. 811
+
+- धाराः (*dhārāḥ*)—the streams of juice
+- पिन्वन् (*pinvan*)—causing to flow
+- अव चक्षि (*ava cakṣi*)—look down towards us
+- सोमुधानं (*somudhānaṃ*)—that holds Soma **NOTE**
+- कलशं (*kalaśaṃ*)—into the vessel
+- आ विश (*ā viśa*)—enter
+- क्रंदन् (*kraṃdan*)—crying out
+- सूर्यस्य (*sūryasya*)—of the Sun
+- रश्मिं (*raśmiṃ*)—the ray
+- उपेहि (*upehi*)—join
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are born in heaven and have an excellent course, causing the streams of juice to flow in the sacrifice by your good act, look down towards us. Enter the vessel that holds the Soma juice. Crying out, join the ray of the Sun and become one with it.
+
+##### English translation
+Soma, who are celestial, well-winged, you look down from heaven pouring forth your streams by the pious rite at the sacrifice ; Indu,enter into pitcher the receptacle of the Soma crying aloud approach the sun's rays.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒स्रो वाच॑ ईरयति॒ प्र वह्नि॑रृ॒तस्य॑ धी॒तिं ब्रह्म॑णो मनी॒षाम् ।  
+> गावो॑ यंति॒ गोप॑तिं पृ॒च्छमा॑नाः॒ सोमं॑ यंति म॒तयो॑ वावशा॒नाः॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिस्रः । वाचः। ईरयति । प्र । वह्निः । ऋतस्य । धीतिम् । ब्रह्मणः । मनीषाम् ।  
+> गावः । यंति । गोऽपतिम् । पृच्छमानाः । सोमम् । यंति । मतयः। वावशानाः ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वह्रिर्वोढा यजमानः [१]तिस्रोवाचः ऋग्यजुःसामात्मिकाः स्तुतीः प्रेरयति । तथा ऋतस्य यज्ञस्य धीतिं धारयित्रीं ब्रह्मणः परिवृढस्य सोमस्य मनीषां मनसईशित्रीं कल्याणीं वाचं च प्रेरयति । किंच गोपतिं वृषभं यथा गावोभिगच्छंति तद्वत् । गवां स्वामिनं सोमं गावः पृच्छमानाः पृच्छंत्यः सत्यो यंति स्वपयसामिश्रयितुमभिगच्छंति । तथा वावशानाः कामयमानाः मतयः स्तोतारः सोमं यंति स्तोतुमभिगच्छंति ॥ ३४ ॥
+
+##### Gist of the bhāṣya
+
+The bearer, that is, the sacrificer, sends forth the three speeches, the praises consisting of Ṛk, Yajus and Sāman. Likewise he sends forth the upholding of the sacrifice (ऋतस्य (*ṛtasya*)) and the मनीषां (*manīṣāṃ*) of Brahma, that is, of Soma who is the all-surrounding one: the speech that rules the mind, the auspicious one. And further, as cows go towards the lord of cows, a bull, so the cows, asking, go to Soma, the lord of cows, in order to mingle with their own milk. Likewise the desiring ones (मतयः (*matayaḥ*)), the praisers, go to Soma, go in order to praise.
+
+### Printed p. 812
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वह्निः (*vahniḥ*)—the sacrificer, the conductor of the sacrifice
+- तिस्रः वाचः (*tisraḥ vācaḥ*)—the speeches of three kinds, consisting of Ṛk, Yajus and Sāman
+- प्रेरयति (*prerayati*)—he recites
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- धीतिं (*dhītiṃ*)—that sustains
+- ब्रह्मणः (*brahmaṇaḥ*)—addressed to Soma
+- मनीषां (*manīṣāṃ*)—he recites the praise
+- गाव (*gāva*)—cows furnished with milk **NOTE**
+- गोपतिं (*gopatiṃ*)—the place where Soma, the lord of the cows, is
+- पृच्छमानः (*pṛcchamānaḥ*)—asking **NOTE**
+- यंति (*yaṃti*)—they approach Soma (as cows seek the bull, the cows seek Soma)
+- वावशानाः (*vāvaśānāḥ*)—those who desired Soma
+- मतयः (*matayaḥ*)—the praisers
+- सोमं (*somaṃ*)—Soma
+- यंति (*yaṃti*)—they approach
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer, the conductor of the sacrifice, recites the speeches of three kinds, consisting of Ṛk, Yajus and Sāman. He also recites the praise addressed to Soma, who sustains the sacrifice. As cows furnished with milk seek the bull who is their lord, so they seek Soma, the lord of the cows. The praisers who desire Soma approach Soma.
+
+##### English translation
+The bearer (of the oblation) utters the three praises, the thought of Bramhma that sustains the sacrifice ; the cows come to the cowherd asking (to be milked), the praisers proceed to the Soma with eagerness.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk there are two kinds of explanation in the Nirukta Pariśiṣṭa: one is adhidaivika, the other ādhyātmika. The meaning concerning the deity (adhidaivata) has been explained in Sāyaṇa's commentary. But the explanation given by Yāska is somewhat different. Therefore we indicate here the two kinds of explanation that Yāska has given.
+
+In the adhidaivata view—
+
+वह्निरादित्यो भवति स तिस्रो वाचः प्रेरयत्यृचो यजूंषि सामान्यृतस्यादित्यस्य कर्माणि ब्रह्मणो मतान्येष एव्यैतत् सर्वमक्षरमित्यधिदैवतं ॥ (*vahnirādityo bhavati sa tisro vācaḥ prerayatyṛco yajūṃṣi sāmānyṛtasyādityasya karmāṇi brahmaṇo matānyeṣa evyaitat sarvamakṣaramityadhidaivataṃ ‖*) (Ni. Pariśiṣṭa. 14–19) **NOTE**
+
+Here वह्नि (*vahni*) means Āditya. That Āditya impels the sentences of the three Vedas, the Ṛgveda, Yajurveda and Sāmaveda, that is, the mantras, among the praisers.
+
+### Printed p. 813
+
+The actions of this truth-natured Āditya are in accordance with the rule of Brahma. As the Śruti sentence असौ वा आदित्यो ब्रह्मेति (*asau vā ādityo brahmeti*) says, this Āditya is Parabrahman. According to his rule the actions of all beings go on.
+
+In the ādhyātmika view—
+
+वह्निरात्मा भवति स तिस्रो वाच ईरयति प्रेरयति विद्यामतिबुद्धिमतामृतस्यात्मनः कर्माणि ब्रह्मणो मतान्ययमेव्यैतत् सर्वमनुभवत्यात्मगतिमाचष्टे ॥ (*vahnirātmā bhavati sa tisro vāca īrayati prerayati vidyāmatibuddhimatāmṛtasyātmanaḥ karmāṇi brahmaṇo matānyayamevyaitat sarvamanubhavatyātmagatimācaṣṭe ‖*) (Ni. 14–14) **NOTE**
+
+Here वह्निः (*vahniḥ*) means the Self. That Self, dwelling in the body, is the impeller of the three kinds of activity called तिस्रः वाचः (*tisraḥ vācaḥ*), that is, vidyā, mati and buddhi, and he enjoys, according to the rule of Brahma, the fruits and so on of all the actions done by the various beings.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमं॒ गावो॑ धे॒नवो॑ वावशा॒नाः सोमं॒ विप्रा॑ म॒तिभिः॑ पृ॒च्छमा॑नाः ।  
+> सोमः॑ सु॒तः पू॑यते अ॒ज्यमा॑नः॒ सोमे॑ अ॒र्कास्त्रि॒ष्टुभः॒ सं न॑वंते ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमम् । गावः । धेनवः । वावशानाः । सोमम् । विप्राः । मतिऽभिः । पृच्छमानाः ।  
+> सोमः । सुतः । पूयते । अज्यमानः। सोमे । अर्काः । त्रिऽस्तुभः । सम् । नवंते ॥ ३५॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धेनवः प्रीणयित्र्योगावः सोमं वावशानाः कामयमाना भवंति विप्रा मेधाविनः स्तोतारः मतिभिः पृच्छमानाः पृच्छंतो भवंति । अज्यमानः गोभिः सिच्यमानः सुतोभिषुतः सोमः ऋत्विग्भिः परिपूयते । तथा त्रिष्टुभः त्रिष्टुब्रूपाः अर्काः अस्माभिः क्रियमाणाः एते मंत्राः सोमे संनवंते संगच्छंते ॥ ३५ ॥
+
+##### Gist of the bhāṣya
+
+The milch cows, the gratifying ones, are desirous of Soma; the wise, the intelligent praisers, are asking with their praises. Soma, pressed and being sprinkled with the milk of the cows, is purified all around by the Ṛtviks. Likewise these Ṛks in Triṣṭubh form, which are made by us, these mantras unite in Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवः (*dhenavaḥ*)—yielding gratifying milk
+- गावः (*gāvaḥ*)—the cows
+- सोमं (*somaṃ*)—Soma
+- वावशानाः (*vāvaśānāḥ*)—they wish to partake
+- विप्राः (*viprāḥ*)—the wise praisers
+- मतिभिः (*matibhiḥ*)—with praises
+- सोमं पृच्छमानाः (*somaṃ pṛcchamānāḥ*)—they ask in order to know the place of Soma
+- सुतः (*sutaḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 805. Ṛk 27 end, Ṛk 28-31, start of Special Topics (arka)
+**Progress note:** Done through printed p. 813. Special Topics on arka (end), Ṛk 32-35 (pp. 810-813; p. 809 absent in supplied text)
