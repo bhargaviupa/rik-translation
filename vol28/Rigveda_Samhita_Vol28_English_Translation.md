@@ -20345,6 +20345,276 @@ Brihaspati looked round upon the cows shut up in the cave like fish in a dried-u
 
 The meaning Sāyaṇa has given for this Ṛk differs from the meaning Yāska has given. Explaining the etymology of the word Brihaspati, Yāska says: बृहस्पतिर्बृहतः पाता वा पालयिता वा (*bṛhaspatirbṛhataḥ pātā vā pālayitā vā*). Of him there is this Ṛk.
 
+### Printed p. 584
+
+द्बृहस्पतिर्विरवेणा विकृत्य ॥ अशनवता मेघेनापिनद्धं मधु पर्यपश्यन्मत्स्यमिव दीन उदके निवसंतं निर्जहार तच्चमसमिव वृक्षात् । चमसः कस्मात् चमंत्यस्मिन्निति । बृहस्पतिर्विरवेण शब्देन विकृत्य ॥ (*dbṛhaspatirviraveṇā vikṛtya ‖ aśanavatā meghenāpinaddhaṃ madhu paryapaśyanmatsyamiva dīna udake nivasaṃtaṃ nirjahāra taccamasamiva vṛkṣāt | camasaḥ kasmāt camaṃtyasminniti | bṛhaspatirviraveṇa śabdena vikṛtya ‖*) (Ni. 10-12) **NOTE**
+
+That is: because he protects this vast world, or the water, he is called Bṛhaspati. The explanation of the Ṛk "अश्नापिनद्धं (*aśnāpinaddhaṃ*)", which describes his deed, is as follows. Bṛhaspati saw the water (madhu) that was bound (within or in the middle of) this all-pervading cloud, that is, covered so that no one could see it. He saw it as easily as one can see a fish in shallow water; he saw the water in the middle of the cloud. And as one fashions a cup (camasa) from a tree and brings it, so he brought the water that was in the middle of the cloud down to the earth with a terrible sound (a roar, or mantras recited in a loud voice); that is, he made it fall as rain. If it is asked what "camasa" means here: the word camasa is formed from the root cam, "to eat". Because Soma juice is eaten, that is, drunk, from this cup, it has come to be called camasa. This is the meaning of the etymology.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोषाम॑विंद॒त्सः स्व१॒॑गःसो अ॒ग्निं सो अ॒केण॒ वि ब॑बाधे॒ तमां॑सि।  
+> बृह॒स्पति॒र्गोव॑पुषो व॒लस्य॒ निर्म॒ज्ञानं॒ न पर्व॑णो जभार ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । उषां । अविंदत् । सः । स्वंरिति स्वः । सः । अग्निं । सः । अर्केण । वि । बबाधे ।  
+> तमांसि ।  
+> बृहस्पतिः । गोऽवपुषः । वलस्य । निः । मज्जनं । न । पर्वणः । जभार ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स बृहस्वतिस्तत्र पर्वतविवरे गवां दर्शनायोषामुषसमविंदत् । अलभत ।
+> स एव स्वरादित्यं सोग्निं लब्ध्वार्केणार्चनीयेन तेजसा तमांसि वि बबाधे ।
+> अत्यर्थं बाधितवान् । ततः स गोवपुषो गोरूपशरीरस्य पशुभिः परिवृतस्य वलस्य
+> पर्वणः पर्वतात्ता गा निर्जभार । बलेन निर्जहार । बलवादाहरणे दृष्टांतः ।
+> मज्ञानं न पर्वणः अस्नो मज्ञानं यथातिक्लेशेन निर्हरंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+That Bṛhaspati, in that cavity of the mountain, found Uṣas, the dawn, so that the cows might be seen. Having obtained also Svar, the sun, and Agni, he drove the darknesses away with worshipful radiance (arka), hindering them utterly. Then he carried those cows out by force from the mountain of Vala, whose body is of cow-form and who is surrounded by cattle. The illustration for the forcible carrying off: as men with great toil extract the marrow of a bone.
+
+### Printed p. 585
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः बृहस्पतिः (*saḥ bṛhaspatiḥ*)—that Bṛhaspati
+- उषां (*uṣāṃ*)—Uṣas
+- अविंदत् (*aviṃdat*)—obtained
+- सः (*saḥ*)—he
+- स्वः (*svaḥ*)—the sun
+- सः (*saḥ*)—he
+- अग्निं (*agniṃ*)—Agni, having obtained
+- अर्कॆण (*arkèṇa*)—with worshipful radiance
+- तमांसि (*tamāṃsi*)—the darknesses
+- वि बबाधे (*vi babādhe*)—destroyed
+- पर्वणः (*parvaṇaḥ*)—by the entry into the inside of the bones
+- मज्जनं न (*majjanaṃ na*)—as the fat is made to come out
+- गोवपुषः (*govapuṣaḥ*)—of him pervaded by a body of cow-form
+- वलस्य (*valasya*)—of Vala
+- पर्वणः (*parvaṇaḥ*)—from the mountain
+- निर्जभार (*nirjabhāra*)—made the cows come out with toil
+
+##### भावार्थ (Bhāvārtha)
+
+To help in seeing the cows, Bṛhaspati obtained Uṣas, the sun and Agni, and with their worshipful radiance destroyed the darknesses. As fat is made, with difficulty, to come out from the inside of the bones, so he made the cows come out with toil from the mountain of Vala, who was pervaded by a body of cow-form.
+
+##### English translation
+Brihaspati found the dawn, the sun, Agni; he dispersed the gloom with light; he seized (the cattle from the rock) of Vala surrounded by the cows as (one extracts) marrow from a bone.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒मेव॑ प॒र्णा मु॑षि॒ता वना॑नि॒ बृह॒स्पति॑नाकृपयद्व॒लो गाः ।  
+> अ॒ना॒नु॒कृ॒त्यम॑पु॒नश्च॑कार॒ यात्सूर्या॒मासा॑ मि॒थ उ॒च्चरा॑तः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिमाऽइव । पर्णा । मुषिता । वनानि । बृहस्पतिना । अकृपयत् । वलः । गाः ।  
+> अननुऽकृत्यं । अपुनरिति । चकार । यात् । सूर्यामासा । मिथः । उत्चरातः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिमेव यथा हिमेन पर्णा पर्णानि पद्मपत्राणि मुषिता मुषितानि भवंति
+> तद्वद्वलेन वनानि वननीयानि गोधनानि मुषितान्यभूवन् । अथ गवामन्वेषणाय
+> बृहस्पतिनागतेन हेतुना वलोऽकृपयत् । अस्मै ता मुषिता गाः प्रायच्छत् ।
+> तत्राननुकृत्यमननुकरणीयमपुनःकर्तव्यं च तत्कर्म चकार । यथा तत्पश्चात्कर-
+
+##### Gist of the bhāṣya
+
+As lotus leaves are plundered by frost, so the desirable cow-wealth was plundered by Vala. Then, because Bṛhaspati had come in search of the cows, Vala showed favour: he gave those plundered cows back to him. And Bṛhaspati did there a deed that cannot be imitated and cannot be repeated, that is, one done in such a way that it need not be done again afterwards.
+
+### Printed p. 586
+
+> णीयं न भवति यथा पुनरकरणीयं तथाकार्षिदिर्थः । किं तदिति आह । सूर्यामासा सूर्यचंद्रमसौ मिथः परस्परमहोरात्रयोरुच्चरात उच्चरत इति यात्
+> तच्चकार ॥ यादिति दीर्घश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+What was that deed? Sun and moon move up in turn, as day and night: that is what he did.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्णा (*parṇā*)—the leaves of a tree
+- हिमेव मुषिता (*himeva muṣitā*)—as they are carried off by frost
+- बृहस्पतिना (*bṛhaspatinā*)—by Bṛhaspati
+- वनानि (*vanāni*)—the attractive cows were carried off (by Vala)
+- बृहस्पतिना (*bṛhaspatinā*)—as soon as Bṛhaspati came
+- वलः (*valaḥ*)—Vala
+- गाः (*gāḥ*)—those cows
+- अकृपयत् (*akṛpayat*)—handed over to him
+- यात् (*yāt*)—by whose power
+- सूर्यमासा (*sūryamāsā*)—sun and moon
+- मिथः (*mithaḥ*)—alternately
+- उच्चरातः (*uccarātaḥ*)—move
+- अननुकृत्यं (*ananukṛtyaṃ*)—not imitated by another
+- अपुनः (*apunaḥ*)—that which cannot be done again, that deed
+- चकार (*cakāra*)—accomplished
+
+##### भावार्थ (Bhāvārtha)
+
+As the leaves of a tree are carried off by frost, so the attractive cows were carried off (by Vala) by Bṛhaspati. As soon as Bṛhaspati came, Vala handed those cows over to him. Bṛhaspati has accomplished a work that cannot be imitated by another and cannot be done again, by whose power sun and moon have come to move in turn.
+
+##### English translation
+As the trees (bemoan) their leaves carried off by the winter, so Vala bemoaned his cows (carried off) by Brihaspati; he did that which cannot be imitated, which cannot be repeated, whereby sun and moon mutually rise (day and night).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि श्या॒वं न कृश॑नेभि॒रश्वं॒ नक्ष॑त्रेभिः पि॒तरो॒ द्याम॑सिंशन् ।  
+> रात्र्यां॒ तमो॒ अद॑धु॒ज्योति॒रह॒न्बह॒स्पति॑र्भि॒नदद्रिं॑ वि॒दद्गाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । श्यावं । न । कृशनेभिः । अश्वं । नक्षत्रेभिः । पितरः । द्यार । आपिंशन् ।  
+> रात्र्यां । तमः । अदधुः । ज्योतिः । अहन् । बृहस्पतिः । भिनत् । आद्रिं । विदत् । गाः ॥
+
+### Printed p. 587
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितरः पालयितारो देवा द्यां द्युलोकं नक्षत्रेभिराश्विन्यादिभिरभ्यपिंशन् ।
+> अभितोऽदीपयन् ॥ पिश आवयवे । अयं दीपनायां वर्तते ॥ तत्र दृष्टांतः ।
+> श्यावं न यथा श्याववर्णमश्वं कृशनेभिः सौवर्णैराभरणैरलंकुर्वंति तद्वत् । तथा
+> रात्र्यां तमो निहितवंतः । किंचाहन्न ह्नि ज्योतिरादित्याख्यमदधुः ॥ अदधुरित्युत्तरवाक्येन संबंधः करणीयः । अन्यथा स्वरो न घटीत । अत्र तु वाक्यभेदादनिघातः ॥ यदा बृहस्पतिरद्रिं वलेनाधिष्ठितं शिलोच्चयं भिनत् अभिनत् विभिद्य च तत्र
+> स्थितान्गाः पशून्विदत् अविदत् अलभत ॥ विदेर्लुजि ल्बुद्धित्वादज् ॥ तदा देवा एवमकार्षुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Fathers, the protecting gods, adorned the heaven all around with the constellations beginning with Aśvinī; the root पिश (*piśa*) is used here in the sense of illuminating. The illustration: as men decorate a brown horse with golden ornaments. Likewise they placed darkness in the night, and in the day they placed the light called the sun. (The word "placed" is to be connected with the following sentence.) When Bṛhaspati split the rocky mass held by Vala and found the cattle that stood there, then the gods acted in this way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्यावं (*śyāvaṃ*)—golden-brown
+- अश्वं (*aśvaṃ*)—horse
+- कृशनेभिः न (*kṛśanebhiḥ na*)—as one decorates with golden ornaments
+- पितरः (*pitaraḥ*)—the gods, protectors of the world
+- द्यां (*dyāṃ*)—the heavenly world
+- नक्षत्रेभिः (*nakṣatrebhiḥ*)—with the constellations beginning with Aśvinī
+- अभ्यपिंशन् (*abhyapiṃśan*)—have decorated
+- रात्र्यां (*rātryāṃ*)—in the night
+- तमः (*tamaḥ*)—have established thick darkness
+- अहन् (*ahan*)—in the day
+- ज्योतिः (*jyotiḥ*)—light
+- अदधुः (*adadhuḥ*)—have established
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- आद्रिं (*ādriṃ*)—the mountain
+- भिनत् (*bhinat*)—split
+- गाः (*gāḥ*)—the cattle
+- विदत् (*vidat*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+As a golden-brown horse is decorated with golden ornaments, so the gods, protectors of the world, have decorated the heavenly world with the constellations beginning with Aśvinī. They have established darkness in the night and light in the day. With the help of this light Bṛhaspati split the mountain and obtained the cattle.
+
+##### English translation
+The protecting (deities) have decorated the heaven with constellations as (men decorate) a brown horse with golden trappings: they established darkness in the night and light in the day; Brihaspati fractured the rock and recovered the cows.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दम॑कर्म॒ नमो॑ अभ्रि॒याय॒ यः पू॒र्वीरन्वा॒नोन॑वीति ।  
+> बृह॒स्पतिः॒ स हि गोभिः॒ सो अश्वैः॒ स वी॒रेभिः॒ स नृभि॑नो॒ ॑ 
+> वयो धात् ॥ १२ ॥
+
+### Printed p. 588
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । अकर्म । नमः । अभ्रियाय । यः । पूर्वीः । अनु । आनोनवीति ।  
+> बृहस्पतिः । सः । हि । गोभिः । सः । अश्वैः । सः । वीरेभिः । सः । नृभिः । नः । वयः ।  
+> धात् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्रियायाभ्रेषु भवायांतरिक्ष्याय मध्यमाय बृहस्पतय इदमुक्तं नमः
+> स्तोत्रमकर्म । वयमकार्ष्म । यो बृहस्पतिः पूर्विर्बह्वीर्युचोऽन्वनुक्रमेणानोनवीति अत्यर्थमाभिमुख्येन ब्रवीति स बृहस्पतिरेव गोभिरश्वैश्च युक्तं
+> वीरेभिः पुत्रैर्नृभिर्भृत्यादिभिश्च सहितं वयोऽन्नं नोऽस्मभ्यं स्तोतृभ्यो धात् ।
+> दधातु । प्रयच्छतु । तच्छब्दावृत्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+To Bṛhaspati, the one "of the clouds", that is, born in the clouds, belonging to the atmosphere, the middle region, we have made this homage, this praise. The Bṛhaspati who recites many Ṛks in order, vigorously and facing us, may that same Bṛhaspati give to us, the praisers, food together with cows and horses, together with sons (vīras) and with men, that is, servants and the like. The repetition of the word तच्छब्द (*tacchabda*) ("that") is for respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभ्रियाय (*abhriyāya*)—addressed to Bṛhaspati who dwells in the atmosphere
+- इदं नमः (*idaṃ namaḥ*)—this praise
+- अकर्म (*akarma*)—we offer
+- यः (*yaḥ*)—the Bṛhaspati who
+- पूर्वीः (*pūrvīḥ*)—many mantras
+- अनु (*anu*)—in order
+- आनोनवीति (*ānonavīti*)—recites
+- सः बृहस्पतिः (*saḥ bṛhaspatiḥ*)—that same Bṛhaspati
+- गोभिः (*gobhiḥ*)—with cows
+- अश्वैः (*aśvaiḥ*)—with horses
+- वीरेभिः (*vīrebhiḥ*)—with heroic sons
+- नृभिः (*nṛbhiḥ*)—with servants and the like
+- वयः (*vayaḥ*)—food
+- नः (*naḥ*)—to us
+- धात् (*dhāt*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+We offer this praise addressed to Bṛhaspati who dwells in the atmosphere. May that Bṛhaspati who recites many mantras in order give us food together with cows, with horses, with heroic sons and with servants and the like.
+
+##### English translation
+We have offered this homage to Brihaspati, who lives in mid-heaven, who recites in order many (sacred stanzas); may he bestow upon us food, with cows, with horses, with sons, with dependants.
+
+## Sūkta 69 (Maṇḍala 10)
+
+> षष्ठेऽनुवाके षोडश सूक्तानि। भद्रा इति द्वादशर्चं प्रथमं सूक्तं वध्र्यश्वपुत्रस्य सुमित्रस्यार्षं । आदितो द्वे जगत्यावथ दश त्रिष्टुभः । अग्निर्देवता । तथा
+> चानुक्रम्यते ॥ भद्राः सुमित्रो वाध्र्यश्व आग्नेयं द्विजगत्यादीति ॥ गतो विनियोगः
+
+##### Gist of the bhāṣya
+
+In the sixth anuvāka there are sixteen sūktas. The first, "भद्राः (*bhadrāḥ*)", of twelve Ṛks, has as seer Sumitra, son of Vadhryaśva; its first two Ṛks are in Jagatī and the following ten in Triṣṭubh; the deity is Agni. So the Anukramaṇī says: भद्राः सुमित्रो वाध्र्यश्व आग्नेयं द्विजगत्यादीति (*bhadrāḥ sumitro vādhryaśva āgneyaṃ dvijagatyādīti*). The viniyoga has been stated already.
+
+### Printed p. 589
+
+##### Anuvāda
+
+In the sixth anuvāka of the tenth maṇḍala of the Ṛgveda-saṃhitā there are sixteen sūktas. Of these the sūkta "भद्रा अग्नेः (*bhadrā agneḥ*)" is the first; it has twelve Ṛks. The seer of this sūkta is Sumitra, the son of Vadhraśva. The first two Ṛks of this sūkta are in the Jagatī metre; the following ten Ṛks are in the Triṣṭup metre; Agni is the deity. In the Anukramaṇī it is said: Bhadrāḥ Sumitro Vādhraśva Āgneyaṃ dvijagatyādi. The viniyoga has been stated before.
+
+Sūkta 69
+Maṇḍala 10; Anuvāka 6; Sūkta 69.
+Aṣṭaka 8; Adhyāya 2; Varga 19, 20.
+Number of Ṛks in the sūkta: 12.
+Ṛṣi: Sāmitra Vādhraśva.
+Devatā: Agni.
+Chandas: 1, 2 Jagatī; 3-12 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रा अ॒ग्नेर्व॑ध्र॒श्वस्य॑ सं॒दृशो॑ वा॒मी प्रणी॑तिः सु॒रणा॒ उपे॑तयः ।  
+> यदीं॑ सुमि॒त्रा विशो॒ अग्र॑ इं॒धते॑ घृ॒तेनाहु॑तो जरते॒  ॑
+> दविद्युतत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्राः । अग्नेः । वध्रिऽश्वस्य । संऽदृशः । वामी । प्रनीतिः । सुरणाः । उपइतयः॥  
+> यत् । ईं । सुमित्राः । विशः । अग्रे । इंधते । घृतेन । आहुतः । जरते ।  
+> दविद्युतत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नेर्वक्ष्यमाणगुणस्य संदृशः संदृष्टयो वध्रश्वस्यैतन्नामकस्य मम॥
+> पितुर्भद्राः कल्याणकारिण्यो भवंतु । यद्वा । वध्रश्वस्य वध्रश्वकुले जातस्याग्नेः
+> संदृष्टयो भजनीया भवंतु । प्रणीतिस्तस्य प्रणयनं वामी कल्याणं च भवतु ।
+> तथोपेतयो यज्ञं प्रत्युपगतयः सुरणाः शोभनरमणा भवंतु । सुमित्रा
+> एतन्नामधेया विशोऽमी मनुष्या ईमेनमग्निमग्रे प्रथमं यद्यदेंधते
+
+##### Gist of the bhāṣya
+
+May the sights (saṃdṛśaḥ) of Agni, whose qualities will be told, be auspicious for my father, who bears the name Vadhryaśva. Or else: may the sights of Agni, born in the family of Vadhryaśva, be worthy of being served; may his leading forward (praṇīti) and his welfare be there; and may the approaches (upetayaḥ) to the sacrifice be of good delight. The men named Sumitra, who kindle this Agni first, whenever they kindle him.
+
 ---
 
-**Progress note:** Done through printed p. 583. pp. 578-583 (batch API)
+**Progress note:** Done through printed p. 589. pp. 584-589 (batch API)
