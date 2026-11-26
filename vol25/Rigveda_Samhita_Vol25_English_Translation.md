@@ -16379,6 +16379,176 @@ Purified, Indra, give us wealth ; purified, give to your worshipper preceious th
 
 The sūkta beginning अस्मै (*asmai*), of twenty-one Ṛks, is the third. About it the Anukramaṇī says: अस्मै सैका द्युतानो वा मारुतस्त्रैष्टुभं चतुर्थी विराळिष्यामीति मारुतः पादः परैंद्राबार्हस्पत्या (*asmai saikā dyutāno vā mārutastraiṣṭubhaṃ caturthī virāḷiṣyāmīti mārutaḥ pādaḥ paraiṃdrābārhaspatyā*). The seer is Dyutāna, a son of the Maruts, or Tiraścī of the Aṅgirases. The fourth Ṛk is in the Virāṭ metre; the rest are in Triṣṭubh. The deity is Indra. The pāda beginning इष्यामि (*iṣyāmi*) has the Maruts as deity. The Ṛk beginning अध द्रप्सः (*adha drapsaḥ*) has Indra and Bṛhaspati as deity. The use of the sūkta in ritual is to be understood from the indication.
 
+### Printed p. 422
+
+The Anuvāda: this sūkta beginning अस्मै (*asmai*) is the third sūkta in the tenth anuvāka. It has twenty-one Ṛks. In the Anukramaṇikā it is said—अस्मै सैका द्युतः नो वा मारुतस्त्रैष्टुभं चतुर्थी विराळिष्यामिति मारुतः पादः पर्यैंद्राबार्हस्पत्या (*asmai saikā dyutaḥ no vā mārutastraiṣṭubhaṃ caturthī virāḷiṣyāmiti mārutaḥ pādaḥ paryaiṃdrābārhaspatyā*). **NOTE** For this sūkta the seer is Dyutāna, a son of the Maruts, or Tiraścīḥ Āṅgirasaḥ; Indra is the deity; the fourth Ṛk of this sūkta is in the Virāṭ metre; the remaining Ṛks are in the Triṣṭup metre. The fourth pāda of the fourteenth Ṛk, इष्यामि वः (*iṣyāmi vaḥ*), has the Maruts as deity; the fifteenth Ṛk, अध दृप्सः (*adha dṛpsaḥ*), has Indra and Bṛhaspati as deities. The use of the sūkta is by the Liṅga.
+
+Sūkta—96
+Maṇḍala—8 ‖ Anuvāka—10 ‖ Sūkta—96 ‖
+Aṣṭaka—6 ‖ Adhyāya—6 ‖ Varga—32, 33, 34, 35 ‖
+Number of Ṛks in the sūkta—21 ‖
+Ṛṣi—Tiraścīr Dyutāno vā Mārutaḥ ‖
+Devatā—1–13. In 14 the 3rd pāda. 16–21. Indraḥ । In 14 the 4th pāda Marutaḥ । 15. Indrābṛhaspatī ‖
+Chandas—1–3, 5–21. Triṣṭup । 4. Virāṭ ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा उ॒षास॒ आति॑रंत॒ याम॒मिंद्रा॑य॒ नक्त॒मूर्म्याः॑ सु॒वाचः॑ ।  
+> अ॒स्मा आपो॑ मा॒तरः॑ स॒प्त त॑स्थु॒र्नृभ्य॒स्तरा॑य॒ सिंध॑वः सुपा॒राः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । उषसः । आ । अतिरंत । यामम् । इंद्राय । नक्तम् । ऊर्म्याः । सुऽवाचः ।  
+> अस्मै । आपः । मातरः । सप्त । तस्थुः । नृऽभ्यः । तराय । सिंधवः । सुऽपाराः ॥ १ ॥
+
+### Printed p. 423
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रसामर्थ्याद्भीताः उषसः उषःकालाः अस्मै पूर्वोक्तगुणोपेताय इंद्राय यामं स्वस्वगमनम्। आतिरंत । तिरतिर्वर्धनकम । समंतादवर्धयंत । यथा पूर्वमुद्यंति तथेदानीमप्यस्मा उद्गता अभवन् । तथा ऊर्म्याः । रात्रिनामैतत् । 'ऋ गतिप्रापणयोः'। अर्तेरू च' (उ. सू. ४. ४८४) इति मिप्रत्ययः । भवे छंदसि ' इति यत् । सर्वैरभिगंतव्याः । रात्रौ हि सर्वे स्वनिवासं गच्छंति । स्वनिलयप्राप्तिहेतुभूता रात्रयः। नक्तम् अपररात्रिकाले सुवाचः शोभनवाचो भवंति । तस्मिन् काले हि सर्वे वेदाध्ययनादीनि कुर्वंति । तस्मात् कल्याणवाचोऽभवन् । इंद्रेऽनुशासति वेदाद्यनुमाने निरता अभवन् । तथा आपः ।  ‘ अप्लृ व्याप्तौ । सर्वतो व्याप्ताः मातरः जगतां निर्मात्र्यः सप्त सप्तसंख्याकाः सिंधवः स्यंदमाना गंगाद्या नद्यः । यद्वा । सप्त सर्पणशीलाः सिंधवः सरितः । तासामावरकस्याहेर्हननोत्पादकत्वात् अस्मै इंद्राय नृभ्यस्तराय मनुष्याणां सुखेन तरणार्थं सुपाराः शोभनपाराः सुखेन तर्तुं योग्या अभवन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The dawns, उषसः (*uṣasaḥ*), the times of dawn, frightened by Indra's might, prolonged for this Indra, who has the qualities described before, their going, यामं (*yāmaṃ*), that is, their own coming; they made it grow on all sides. As they rose before, so now also they rose for him. Likewise the nights, ऊर्म्याः (*ūrmyāḥ*): this is a name of night. They are to be approached by all; for at night all go to their own dwellings, and the nights are the cause of reaching one's own home. नक्तम् (*naktam*), in the last part of the night, they become सुवाचः (*suvācaḥ*), of good speech; for at that time all perform Veda-study and the like, and therefore the nights became of auspicious speech; while Indra ruled, they became intent upon the Veda and the like. Likewise the waters, आपः (*āpaḥ*): spread everywhere, the mothers, the makers of the worlds, seven in number, the flowing rivers beginning with the Gaṅgā; or else the seven gliding rivers. Because the killing of Ahi, who obstructed them, was brought about, for this Indra, for men to cross easily, they became सुपाराः (*supārāḥ*), with good banks, easy to cross. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मै (*asmai*)—having the qualities described before
+- इंद्राय (*iṃdrāya*)—for Indra
+- उषसः (*uṣasaḥ*)—the times of dawn
+- यामं (*yāmaṃ*)—their coming in the form of rising
+- आतिरंत (*ātiraṃta*)—go on prolonging
+- ऊर्म्याः (*ūrmyāḥ*)—belonging to the time of night
+- नक्तं (*naktaṃ*)—the excellent last watch
+- सुवाचः (*suvācaḥ*)—is endowed with speech in the form of Veda-recitation
+- मातरः (*mātaraḥ*)—the makers of the world
+- सप्त (*sapta*)—seven in number
+- सिंधवः (*siṃdhavaḥ*)—the rivers beginning with the Gaṅgā
+- आपः (*āpaḥ*)—the water-deities
+- अस्मै (*asmai*)—for the satisfaction of this Indra alone
+- नृभ्यः तरायु (*nṛbhyaḥ tarāyu*)—so as to be fit for men to cross easily
+- सुपाराः (*supārāḥ*)—as having excellent banks
+- तस्थुः (*tasthuḥ*)—remain
+
+##### भावार्थ (Bhāvārtha)
+
+For the great Indra the times of dawn go on prolonging their coming in the form of rising. The excellent last watch belonging to the time of night is endowed with speech in the form of Veda-recitation. The rivers beginning with the Gaṅgā, the makers of the world, seven in number, and the water-deities remain, for the satisfaction of this Indra alone, as having excellent banks, so as to be fit for men to cross easily.
+
+##### English translation
+For him the dawns prolonged their rising ; for Indra the nights uttered auspicious voices by night ; for him the waters, the mothers, the seven rivers, stood, offering an easy passage for men to cross over.
+
+### Printed p. 424
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॑विद्धा विथु॒रेणा॑ चि॒दस्त्रा॒ त्रिः स॒प्त सानु॒ संहि॑ता गिरी॒णाम् ।  
+> न तद्दे॒वो न मर्त्य॑स्तुतुर्या॒द्यानि॒ प्रवृ॑द्धो वृष॒भश्च॒कार॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतिऽविद्धा । विथुरेण । चित् । अस्त्रा । त्रिः । सप्त । सानु । सम्ऽहिता । गिरीणाम् ।  
+> न । तत् । देवः । न । मर्त्यः । तुतुर्यात् । यानि । प्रऽवृद्धः । वृषभः । चकार ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विथुरेण । वर्णव्यत्ययः । चित् अप्यर्थे । विधुरेणासहायेनापि अस्त्रा। असु क्षेपणे ' । ताच्छीलिकस्तृन् । शत्रुक्षेपणशीलेनेंद्रेण । यद्वा । अस्त्रास्त्रेण वज्रेण । त्रिः सप्त एकविंशतिसंख्यानि संहिता संहितान्येकत्र संघीभूतानि गिरीणां सप्तानां पर्वतानां सानु सानूनि अतिविद्धा अतिविद्धानि । अतीत्य ताडितानि । तेन मुक्तो वज्रपातस्तानि भित्त्वागमदित्यर्थः । अत्र तैत्तिरीयकं ब्राह्मणं - दर्भपिंजूलमुद्धत्य सप्त गिरीन् भित्वा तमहन्' (तै. सं. ६. २. ४. ३) इत्यादि । तस्येंद्रस्य तत् तानि सानुभेदनादीनि कर्माणि देवः इंद्राद्व्यतिरिक्तो देवः मर्त्यः मनुष्यो वा न तुतुर्यात् न तरेत्। तथा कर्तुं न शक्नोतीत्यर्थः ॥  ‘तॄ प्लवनतरणयोः । लिङि छांदसः शपः श्लुः।   ‘बहुलं छंदसि' इत्युत्वम् । यद्वा ।' तुर त्वरणे'। जौहोत्यादिकः । प्रवृद्धः सोमपानेन बलेन व प्रवृद्धः वृषभः कामानामुदकानां वा वर्षक इंद्रः यानि कर्माणि चकार कृतवान् तानि देवो मनुष्यो वा न तथा कर्तुं शक्नोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+विथुरेण (*vithureṇa*) is by a change of letter for the other form; चित् (*cit*) is in the sense of "even": even by one without a helper. अस्त्रा (*astrā*): by Indra, who is given to hurling his enemies; or else by the missile, the vajra. त्रिः सप्त (*triḥ sapta*), twenty-one in number, संहिता (*saṃhitā*), joined together in one place, the सानु (*sānu*), the ridges, of the seven mountains, गिरीणां (*girīṇāṃ*), were अतिविद्धा (*atividdhā*), struck through; the thunderbolt released by him went splitting them. On this the Taittirīya Brāhmaṇa says: "Taking a bunch of darbha grass and splitting the seven mountains, he slew him" (Tai. Saṃ. 6. 2. 4. 3), and so on. Those deeds of that Indra, the splitting of the ridges and the like, neither a god other than Indra nor a mortal man could do, न तुतुर्यात् (*na tuturyāt*): he is not able to do so. Or else: प्रवृद्धः (*pravṛddhaḥ*), grown great through Soma-drinking or through strength, the वृषभः (*vṛṣabhaḥ*), Indra, the showerer of desires or of waters, whatever deeds he did, neither a god nor a man is able to do the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विथुरेण चित् (*vithureṇa cit*)—even without the help of others
+- अस्त्रा (*astrā*)—by the vajra weapon that overthrows enemies
+- त्रिः सप्त (*triḥ sapta*)—twenty-one in number
+- संहिता (*saṃhitā*)—and firmly joined together
+- गिरीणां (*girīṇāṃ*)—of the mountains
+- सानु (*sānu*)—the table-lands
+- अतिविद्धा (*atividdhā*)—have been struck (by Indra)
+- प्रवृद्धः (*pravṛddhaḥ*)—grown strong through Soma-drinking
+- वृषभः (*vṛṣabhaḥ*)—Indra, the showerer of desires
+- यानि (*yāni*)—which heroic deeds
+- चकार (*cakāra*)—he accomplished
+- तत् (*tat*)—such heroic deeds
+- देवः (*devaḥ*)—any one of the other gods
+- मर्त्यः (*martyaḥ*)—any human being
+- न तुतुर्यात् (*na tuturyāt*)—is not able to do
+
+### Printed p. 425
+
+##### भावार्थ (Bhāvārtha)
+
+Even without the help of others, the table-lands of the mountains, twenty-one in number and firmly joined together, have been struck by Indra with the vajra weapon that overthrows enemies. The heroic deeds that Indra, grown strong through Soma-drinking and the showerer of desires, accomplished, no one among the other gods and no human being is able to do.
+
+##### English translation
+By him the thrower, unaided, were pierced asunder the thrice seven table-lands of the mountains heaped together ; neither god nor mortal could do what he, the showerer, in his full-grown strength has done.
+
+##### विशेषविषयगळु (Special Topics)
+
+गिरीणां सानु अतिविद्धा त्रिः सप्त संहिता विथुरेण अस्त्रा चित् (*girīṇāṃ sānu atividdhā triḥ sapta saṃhitā vithureṇa astrā cit*)—
+Here it is said that Indra, with his enemy-crushing vajra, struck and destroyed the group of seven mountains joined together in threes. This matter is explained in the Taittirīya Saṃhitā of the Yajurveda, with a slight difference, in this way—
+यज्ञो देवेभ्यो निलायत विष्णुरूपं कृत्वा स पृथिवीं प्राविशत्तं देवा हस्तान्स्सग्ं रभ्यैच्छस्तमिंद्र उपर्युपर्यत्यक्रामत्सोऽब्रवीत्कोमायमुपर्युपर्यत्यक्रविादित्यहं दुर्गे हंतेत्यथ कस्त्वमित्यहं दुर्गादाहर्तेति सोऽब्रवीद्दुर्गे वै हंतावोचथावराहोऽयं वामुमोषः सप्तानां गिरीणां परस्ताद्वित्तं वेद्यमसुराणां बिभर्ति तं जहि यदि दुर्गे हंतासीति स दर्भपुंजीलमुद्गृह्य सप्तगिरीन् भित्वा तमुहन्नोऽब्रविद्दुर्गाद्वा आहर्ता वोचथा इतमाहरेति तमेभ्यो यज्ञ इव यज्ञमाहरद्यत्तद्वित्तं वेद्यमसुराणामविंदंत तदेकं वेद्यै वेदित्वं ॥ (*yajño devebhyo nilāyata viṣṇurūpaṃ kṛtvā sa pṛthivīṃ prāviśattaṃ devā hastānssagṃ rabhyaicchastamiṃdra uparyuparyatyakrāmatso 'bravītkomāyamuparyuparyatyakraviādityahaṃ durge haṃtetyatha kastvamityahaṃ durgādāharteti so 'bravīddurge vai haṃtāvocathāvarāho 'yaṃ vāmumoṣaḥ saptānāṃ girīṇāṃ parastādvittaṃ vedyamasurāṇāṃ bibharti taṃ jahi yadi durge haṃtāsīti sa darbhapuṃjīlamudgṛhya saptagirīn bhitvā tamuhanno 'braviddurgādvā āhartā vocathā itamāhareti tamebhyo yajña iva yajñamāharadyattadvittaṃ vedyamasurāṇāmaviṃdaṃta tadekaṃ vedyai veditvaṃ ‖*)
+(Trai. Saṃ. 6-3-4-2, 3) **NOTE**
+To explain how the sacrificial ground came to be called vedi, a story is told in the Yajurveda—
+In former times, for some reason, the sacrifice took the form of Viṣṇu, left the gods and went away. Then that Viṣṇu, who was the sacrifice itself, entered the earth and hid himself without anyone's knowing
+
+### Printed p. 426
+
+. The gods, not seeing him, searched everywhere, holding one another's hands; yet they did not find the place where Viṣṇu was. But when Indra was passing over the region where Viṣṇu was hidden, Viṣṇu, who was below, said: "Who is that? who passes over this place where I am?" Hearing that, Indra asked: "I am the hero who strikes and demolishes the strongholds of the asuras. But who are you?" To this Viṣṇu replied: "I am the one who brings the wealth and other things that are there after the strongholds of the asuras have been destroyed." Then, addressing Indra: "O man, if you are indeed he who destroys the cities of enemies as you claim, then from here, beyond seven mountains, there is an asura called Varāha. He has carried off the wealth and other things of the asuras and keeps them within his strong fort. If you have the power you claim to destroy the strongholds of the asuras, strike and destroy that asura called Varāha. Only then will your power be known." Hearing this, Indra took a bunch of darbha grass that was near, made it his very weapon, split the seven unbreakable mountains, and struck and killed that asura Varāha. Then, addressing Viṣṇu: "O man, as you said, I have split the seven mountains and killed the asura there. By this my strength and prowess have become clear. You said that you were the one who brings the wealth and other things from the strongholds of the asuras destroyed before. Now, as you said, bring the wealth and other things that are there; then your power will be manifest." When he said this, Viṣṇu said "So be it", and he who was in the form of the sacrifice carried off the wealth and other things that were with that asura and brought them to the gods. Since the gods thus obtained the wealth of the asuras through the sacrifice, the place where the sacrifice is performed came to be called vedi: this is the main purport of this story.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य॒ वज्र॑ आय॒सो निमि॑श्ल॒ इंद्र॑स्य बा॒ह्वोर्भूयि॑ष्ठ॒मोजः॑ ।  
+> शी॒र्षन्निंद्र॑स्य॒ क्रत॑वो निरे॒क आ॒सन्नेषं॑त॒ श्रुत्या॑ उपा॒के ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । वज्रः । आयसः । निऽमिश्लः । इंद्रस्य । बाह्वोः । भूयिष्ठम् । ओजः ।  
+> शीर्षन् । इंद्रस्य । क्रतवः । निरेके । आसन् । आ । ईषंत । श्रुत्यै । उपाके ॥ ३ ॥
+
+### Printed p. 427
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तगुणस्य इंद्रस्य वज्र आयसः अयसा निर्मितः । अयोमय इत्यर्थः। स वज्रः इंद्रेण स्वहस्ते निमिश्लः संमिश्रः अत्यंतं संबद्धः कृतः । अत एव इंद्रस्य बाह्वोः भुजयोः भूयिष्ठं बहुतमम् ओजः वीर्यमस्ति । तथा निरेके। निपूर्वाद्रिच्यतेर्वा निस्पूर्वादेतेर्वेति संदेहादनवग्रहः । निर्गमने यदा युद्धार्थमिंद्रो निर्गच्छति तदानीम् इंद्रस्य शीर्षन् शिरसि क्रतवः कर्माणि शिरस्त्राणनिधानादीनि । यद्वा । शिर इति गलप्रभृत्यूर्ध्वमंगमुच्यते । तत्रत्याभ्यामक्षिभ्यां दर्शनप्रेरणादीनि कर्माणि भवंति । तथा आसन् । आस्यस्यासन्नादेशः । आस्ये च यानि कर्माणि युद्धार्थं वाजिनो गजान् संनाहयतेत्यादीनि भवंति । किंच श्रुत्यै संग्रामाय निर्गच्छतोऽनुशासित इंद्रस्य वाक्यश्रवणार्थं सर्वं उपजीविनो भृत्याः उपाके अंतिके एषंत । अयमिंद्रोऽस्मान् कुत्र कुत्र कार्ये नियोक्ष्यतीत्येतेन मनसा तदंतिके समंतादागच्छंति । ईष गतिहिंसादर्शनेषु' । भौवादिकः ॥
+
+##### Gist of the bhāṣya
+
+The वज्र (*vajra*) of Indra, who has the stated qualities, is आयसः (*āyasaḥ*), made of iron, that is, consisting of iron. That vajra was made by Indra to be निमिश्लः (*nimiślaḥ*), joined to his own hand, very firmly attached. Therefore in the arms of Indra, बाह्वोः (*bāhvoḥ*), there is भूयिष्ठं (*bhūyiṣṭhaṃ*), the greatest, ओजः (*ojaḥ*), valour. Likewise निरेके (*nireke*): because of doubt whether the word comes from ni with ric or from nis with root i, its explanation is not fixed; it is taken in the sense of going forth. When Indra goes forth for battle, then on Indra's शीर्षन् (*śīrṣan*), head, there are क्रतवः (*kratavaḥ*), acts such as the placing of the helmet. Or else: शिर (*śira*) is said of the part of the body from the neck upward; with the two eyes there, acts such as seeing and directing take place. Likewise आसन् (*āsan*), in the mouth: in the mouth there are the acts for the battle, such as "Harness the horses and the elephants" and the like. Moreover, श्रुत्यै (*śrutyai*), to hear the word of Indra, who is going forth to battle and giving orders, all dependants and servants एषंत (*eṣaṃta*) come उपाके (*upāke*), near him, with the thought: "Where, in what task, will this Indra employ us?"
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- आयसः (*āyasaḥ*)—made of steel
+- वज्रः (*vajraḥ*)—the vajra weapon
+- निमिश्लः (*nimiślaḥ*)—is firmly held by him
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- बाह्वोः (*bāhvoḥ*)—in the arms
+- भूयिष्ठं (*bhūyiṣṭhaṃ*)—the greatest
+- ओजः (*ojaḥ*)—valour resides
+- निरेके (*nireke*)—when Indra goes forth for battle
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- शीर्षन् (*śīrṣan*)—on the head
+- क्रतवः (*kratavaḥ*)—ornaments such as the helmet
+- आसन् (*āsan*)—and the acts such as the orders to be given by the mouth at the time of battle (are present)
+- श्रुत्यै (*śrutyai*)—to carry out the orders of Indra
+- उपाके (*upāke*)—near him
+- एषंत (*eṣaṃta*)—all his servants and the like gather and move about
+
+##### भावार्थ (Bhāvārtha)
+
+The vajra weapon made of steel is firmly held by Indra. In his arms there is the greatest valour. When Indra goes forth for battle, ornaments such as the helmet are on Indra's head, and the acts such as the orders to be given by the mouth at the time of battle are present. To carry out the orders of Indra, all his servants and the like gather and move about near him.
+
+##### English translation
+Indra’s iron thunderbolt is grasped firmly in his hand; enormous strength resides in his arms; when he goes forth (to battle), there is ample employment for his head and his mouth, and (his followers) rush near him to hear his commands.
+
 ---
 
-**Progress note:** Done through printed p. 421. Mandala 8 sukta 95 Rks 5-9 (Indra purified story), start of sukta 96
+**Progress note:** Done through printed p. 427. Mandala 8 sukta 96 intro and Rks 1-3
