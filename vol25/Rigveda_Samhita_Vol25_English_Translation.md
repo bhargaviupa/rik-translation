@@ -23032,6 +23032,289 @@ O Soma, your great (महीः (*mahīḥ*), महत्यः (*mahatyaḥ*)
 
 O Soma, your words of praise are filled with greatness. We beg you, who can provide the best world to the sacrificer who by your favour is able to destroy enemies, for the gaining of joy.
 
+### Printed p. 593
+
+##### English translation
+We ask you for exhilaration, you the giver of the highest world to your foe-crushing worshipper,—great are your praises.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्य॑मिंदविंद्र॒युर्मध्वः॑ पवस्व॒ धार॑या ।  
+> प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यम् । इंदो इति । इंद्रऽयुः । मध्वः । पवस्व । धारया ।  
+> पर्जन्यः । वृष्टिमान्ऽइव ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम इंद्रयुः इंद्रकामस्त्वं मध्वः मदकरस्यामृतस्य धारया पर्जन्यो वृष्टिमानिव यथा वर्षवान् पर्जन्यो मेघस्तथा अस्मभ्यं मेधातिथिभ्यः पवस्व क्षर
+
+##### Gist of the bhāṣya
+
+O Indu, Soma: you who desire Indra (इंद्रयुः (*iṃdrayuḥ*)), flow (पवस्व (*pavasva*), that is, क्षर (*kṣara*)) for us (अस्मभ्यं (*asmabhyaṃ*), that is, for the Medhātithis) with a stream (धारया (*dhārayā*)) of the intoxicating nectar (मध्वः (*madhvaḥ*)), as the rain-cloud Parjanya, the bearer of rain, does (पर्जन्यो वृष्टिमानिव (*parjanyo vṛṣṭimāniva*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- वृष्टिमानिव (*vṛṣṭimāniva*)—as, filled with rain
+- पर्जन्यः (*parjanyaḥ*)—the king of clouds pours down rain
+- इंद्रयुः (*iṃdrayuḥ*)—you who wish to bring satisfaction to Indra
+- मध्वः (*madhvaḥ*)—of the sweet nectar
+- धारया (*dhārayā*)—with a stream
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- पवस्व (*pavasva*)—come flowing
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, as the king of clouds, filled with rain, pours down rain, so you, who wish to bring satisfaction to Indra, come flowing for us with a stream of sweet nectar.
+
+##### English translation
+Indu. you, longing for Indra, stream upon us with a shower of ambrosia, like a raining cloud.
+
+### Printed p. 594
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गो॒षा इं॑दो नृ॒षा अ॑स्यश्व॒सा वा॑ज॒सा उ॒त ।  
+> आ॒त्मा य॒ज्ञस्य॑ पू॒र्व्यः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽसाः । इंदो इति । नृऽसाः । असि । अश्वऽसाः । वाजऽसाः । उत ।  
+> आत्मा । यज्ञस्य । पूर्व्यः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो यज्ञस्य पूर्व्यः प्रत्नः आत्मा आत्मभूतस्त्वं गोषाः अस्मभ्यं गवां दाता असि भवसि । नृषाः पुत्राणां दाता चासि । अश्वसाः अश्वानां दाता चासि । उत अपि च वाजसाः अन्नानां दाता चासि ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, you who are the ancient (प्रत्नः (*pratnaḥ*)) self (आत्मा (*ātmā*)) of the sacrifice (यज्ञस्य पूर्व्यः (*yajñasya pūrvyaḥ*)) are the giver of cows (गोषाः (*goṣāḥ*)) to us. You are also the giver of sons (नृषाः (*nṛṣāḥ*)), the giver of horses (अश्वसाः (*aśvasāḥ*)), and moreover the giver of food (वाजसाः (*vājasāḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- पूर्व्यः (*pūrvyaḥ*)—the ancient one
+- आत्मा (*ātmā*)—you who are of the nature of the self
+- गोषाः असि (*goṣāḥ asi*)—you have become the giver of cows to us
+- नृषाः (*nṛṣāḥ*)—you are the giver of sons and other offspring
+- अश्वसाः (*aśvasāḥ*)—you make the gift of horses
+- उत (*uta*)—and
+- वाजसाः (*vājasāḥ*)—you are also the bestower of food
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are of the nature of the self, extremely ancient for the sacrifice, are the giver of cows to us. You make the gift of horses. And for our praises you are also the giver of the best food.
+
+##### English translation
+Indu, you are the giver of cows, of children, of horses, and of food; you are the primeval soul of the sacrifice.
+
+### Printed p. 595
+
+The third sūkta.
+
+## Sūkta 3 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एष देवः' इति दशर्चं तृतीयं सूक्तमाजीगर्तेः शुनःशेपस्यार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रांतं च - एषः शुनःशेपः' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एष देवः (*eṣa devaḥ*), of ten Ṛks, is the third sūkta. Its seer is Śunaḥśepa Ājīgarti; the metre is Gāyatrī; the deity is Pavamāna Soma. So the Anukramaṇikā says: एषः शुनःशेपः (*eṣaḥ śunaḥśepaḥ*). The ritual use has been stated.
+
+##### Anuvāda
+
+This sūkta beginning एष देवः (*eṣa devaḥ*) is the third sūkta in the first anuvāka. There are ten Ṛks in it. The seer of this sūkta is the one named Śunaḥśepa Ājīgarti; Pavamāna Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: एष शुनःशेप (*eṣa śunaḥśepa*). The ritual use has been stated before.
+
+##### Particulars
+
+Sūkta 3.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 3.
+
+Aṣṭaka 6. Adhyāya 7. Vargas 20, 21.
+
+Number of Ṛks in the sūkta: 10.
+
+Seer: Śunaḥśepa.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दे॒वो अम॑र्त्यः पर्ण॒वीरि॑व दीयति ।  
+> अ॒भि द्रोणा॑न्या॒सद॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । देवः । अमर्त्यः । पर्णवीःऽइव । दीयति ।  
+> अभि । द्रोणानि । आऽसदम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवः द्योतमानः अमर्त्यः मरणरहितः एषः सोमः द्रोणानि द्रोणकलशानि अभि अभिलक्ष्य आसदम् आसदनार्थं पर्णवीरिव यथा पक्षी तथा वेगेन दीयति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This divine (देवः (*devaḥ*), that is, द्योतमानः (*dyotamānaḥ*)) immortal (अमर्त्यः (*amartyaḥ*), that is, मरणरहितः (*maraṇarahitaḥ*)) Soma goes (दीयति (*dīyati*), that is, गच्छति (*gacchati*)) with speed, as a bird does (पर्णवीरिव यथा पक्षी (*parṇavīriva yathā pakṣī*)), towards (अभि (*abhi*)) the Droṇa vessels (द्रोणानि (*droṇāni*), that is, द्रोणकलशानि (*droṇakalaśāni*)), in order to settle (आसदनार्थं (*āsadanārthaṃ*)).
+
+### Printed p. 596
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—shining
+- अमर्त्यः (*amartyaḥ*)—and free from the nature of death
+- एषः (*eṣaḥ*)—this Soma
+- द्रोणानि (*droṇāni*)—the Droṇa vessels
+- अभि (*abhi*)—aiming at
+- आसदं (*āsadaṃ*)—to be settled in its own natural seat
+- पर्णवीरिव (*parṇavīriva*)—with the speed with which a bird flies
+- दीयुति (*dīyuti*)—comes
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which is shining and free from the nature of death, aims at the Droṇa vessels and comes with the speed with which a bird flies, to be settled in its own natural seat.
+
+##### English translation
+The divine immortal (Soma) hastens as a bird to settle on the sacrificial vessels.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दे॒वो वि॒पा कृ॒तोऽति॒ ह्वरां॑सि धावति ।  
+> पव॑मानो॒ अदा॑भ्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । देवः । विपा । कृतः । अति । ह्वरांसि । धावति ।  
+> पवमानः । अदाभ्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विपा अंगुल्या । ‘अथर्यो विपः' इत्यंगुलिनामसु पाठात् । कृतः अभिषुतः एषः सोमः देवः पवमानः क्षरन् अदाभ्यः केनाप्यहिंसितश्च सन् ह्ररांसि शत्रून् अति धावति हंतुमभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+विपा (*vipā*) means by a finger, since अथर्यो विपः (*atharyo vipaḥ*) is read among the names of the fingers. This divine Soma, made (कृतः (*kṛtaḥ*), that is, pressed) by the finger, flowing (पवमानः (*pavamānaḥ*)) and inviolable (अदाभ्यः (*adābhyaḥ*), that is, harmed by no one), runs against (अति धावति (*ati dhāvati*), that is, goes to strike) the enemies (शत्रून् (*śatrūn*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपा (*vipā*)—with the fingers
+- कृतः (*kṛtaḥ*)—pressed
+- देवः (*devaḥ*)—and shining
+- एषः (*eṣaḥ*)—this Soma
+- पवमानः (*pavamānaḥ*)—flowing (streaming)
+- अदाभ्यः (*adābhyaḥ*)—without being subject to anyone's harm
+- ह्वरांसि (*hvarāṃsi*)—the enemies
+- अति धावति (*ati dhāvati*)—runs swiftly to destroy
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, pressed with the fingers and shining, flowing and not subject to anyone's harm, runs swiftly to destroy the enemies. (It streams.)
+
+### Printed p. 597
+
+##### English translation
+This divine ( Soma ), expressed by the fingers, and dropping inviolable, rushes against the enemies.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दे॒वो वि॑प॒न्युभिः॒ पव॑मान ऋता॒युभिः॑ ।  
+> हरि॒र्वाजा॑य मृज्यते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । देवः । विपन्युऽभिः । पवमानः । ऋतयुऽभिः ।  
+> हरिः । वाजाय । मृज्यते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः क्षरन् एषः सोमः देवः विपन्युभिः स्तोतृभिः ऋतायुभिः यज्ञकामैः हरिः अश्व इव वाजाय संग्रामार्थं मृज्यते स्तुतिभिरलंक्रियते ॥
+
+##### Gist of the bhāṣya
+
+This divine Soma, flowing (पवमानः क्षरन् (*pavamānaḥ kṣaran*)), is adorned (मृज्यते (*mṛjyate*)) with praises by the praisers (विपन्युभिः (*vipanyubhiḥ*), स्तोतृभिः (*stotṛbhiḥ*)), the sacrifice-desiring ones (ऋतायुभिः (*ṛtāyubhiḥ*), यज्ञकामैः (*yajñakāmaiḥ*)), as a horse (हरिः (*hariḥ*)) is adorned for battle (वाजाय (*vājāya*), संग्रामार्थं (*saṃgrāmārthaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाय (*vājāya*)—going forth for battle
+- हरिः (*hariḥ*)—as a horse is adorned
+- पवमानः (*pavamānaḥ*)—flowing purely
+- देवः (*devaḥ*)—and possessing divine qualities
+- एषः (*eṣaḥ*)—this Soma
+- विपस्युभिः (*vipasyubhiḥ*)—by the praisers
+- ऋतायुभिः (*ṛtāyubhiḥ*)—by means of the sacrificial rites
+- मृज्यते (*mṛjyate*)—is adorned
+
+##### भावार्थ (Bhāvārtha)
+
+As a horse going forth for battle is adorned, so this Soma, which flows purely and possesses divine qualities, is adorned by the praisers by means of the sacrificial rites.
+
+##### English translation
+This divine (Soma), as it drops is adorned (with hymns) by the sacrifice-desiring priests as a horse for battle.
+
+### Printed p. 598
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष विश्वा॑नि॒ वार्या॒ शूरो॒ यन्नि॑व॒ सत्व॑भिः ।  
+> पव॑मानः सिषासति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । विश्वानि । वार्या । शूरः । यन्ऽइव । सत्वऽभिः ।  
+> पवमानः । सिसासति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः क्षरन् शूरः वीरः एषः सोमो देवः विश्वानि सर्वाणि वार्या वरणीयाणि धनानि सत्वभिः बलैः यन्निव गच्छन्निव सिषासति अस्मदर्थं संभक्तुमिच्छति ॥
+
+##### Gist of the bhāṣya
+
+This divine Soma, the hero (शूरः (*śūraḥ*), that is, वीरः (*vīraḥ*)), flowing (पवमानः क्षरन् (*pavamānaḥ kṣaran*)), desires (सिषासति (*siṣāsati*)) to apportion for us (अस्मदर्थं संभक्तुमिच्छति (*asmadarthaṃ saṃbhaktumicchati*)) all (विश्वानि (*viśvāni*), सर्वाणि (*sarvāṇi*)) desirable (वार्या (*vāryā*)) riches (धनानि (*dhanāni*)), as if going (यन्निव (*yanniva*), गच्छन्निव (*gacchanniva*)) with its powers (सत्वभिः (*satvabhiḥ*), that is, बलैः (*balaiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—purifying
+- शूरः (*śūraḥ*)—and full of power
+- एषः (*eṣaḥ*)—this Soma, whose nature is divine
+- वार्या (*vāryā*)—desired by all
+- विश्वानि (*viśvāni*)—all the riches
+- सत्वभिः (*satvabhiḥ*)—by its own powers
+- युन्निव (*yunniva*)—attaining as if by seizing
+- सिषासति (*siṣāsati*)—is apportioned to us
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which is purifying, full of power and divine in nature, attains by its own powers, as if by seizing, all the riches desired by all, and is apportioned to us.
+
+##### English translation
+This strong one, as it drops, seems to encompass all desirable things with its power and seeks to bestow them upon us.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दे॒वो र॑थर्यति॒ पव॑मानो दशस्यति ।  
+> आ॒विष्कृ॑णोति वग्व॒नुम् ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 592. Mandala 9 Sukta 2 Rks 2-8
+**Progress note:** Done through printed p. 598. Mandala 9 Sukta 2 Rks 9-10 and Sukta 3 Rks 1-5 (Saṃhitā of Rk 5)
