@@ -17349,6 +17349,232 @@ You, showerer, were the mighty destroyer of the hindrances of your worshippers; 
 
 "Now the verbs are in the third person (*parokṣa*). That Indra is *sukratu*, of good wisdom and good works, who among the pressed (*suta*) Soma-juices is *raṇitā*, delighting in them for the sake of drinking them. And *anuttamanyu*: one whose wrath is not driven back by others; he cannot be pushed aside by enemies. Such is that Indra who is *revān*, wealthy." The illustration: "like the days (*ahā iva*)": as the days are wealthy, for wealth appears in the daytime and not in the nights, so is he. Likewise that Indra, *eka it*, quite alone and unhelped, is the doer (*kartā*) of deeds (*apāṃsi*) in *nari*, in a man, a leader of the rite; he is one whose habit is to do. The block then gives the grammar of *kartā* and the reason for the omission of the genitive, which the Grammar section carries. "That Indra, endowed with the qualities stated before, is *vṛtrahā*: because he kills the asura who covers the waters, or the obstacle, all hear of him as *vṛtrahā*." "They say that very Indra is, *anyaṃ prati* (against the other)": *it* is a word of emphasis; the sense is that against any other host of enemies Indra stands, and they say he overcomes them without fail.
 
+### Printed p. 452
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the well-known Indra
+- सुक्रतुः (*sukratuḥ*)—he is an excellent doer of rites
+- यः (*yaḥ*)—the Indra who
+- सुतेषु (*suteṣu*)—when the Soma juice is pressed
+- रणिता (*raṇitā*)—is filled with joy
+- अनुत्तमन्युः (*anuttamanyuḥ*)—and possesses unrepelled wrath
+- यः (*yaḥ*)—who
+- अहेव (*aheva*)—like the days
+- रेवान् (*revān*)—is endowed with wealth
+- यः (*yaḥ*)—who
+- एक इत् (*eka it*)—alone (without a second, unhelped)
+- नरि (*nari*)—among men
+- अपांसि (*apāṃsi*)—the prescribed rites
+- कर्ता (*kartā*)—is able to perform
+- सः (*saḥ*)—that same Indra
+- वृत्रहा (*vṛtrahā*)—as the slayer of Vritra
+- अन्यं प्रति इत् (*anyaṃ prati it*)—and as the one who faces and conquers enemies
+- आहुः (*āhuḥ*)—the learned say
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Indra is an excellent doer of rites. The Indra who, when the Soma juice is pressed, is filled with joy and possesses unrepelled wrath, who is endowed with wealth like the days, who alone is able to perform the rites prescribed among men,—that same Indra, the learned say, is the slayer of Vritra and the one who faces and conquers enemies.
+
+##### English translation
+He who noble in his exploits rejoices in the Soma-libations, he whose wrath cannot be repelled and who is wealthy as the days, he who alone performs the rites for his worshipper,—he, the slayer of Vritra, men say, is a match for all others.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वृ॑त्र॒हेंद्र॑श्चर्षणी॒धृत्तं सु॑ष्टु॒त्या हव्यं॑ हुवेम ।  
+> स प्रा॑वि॒ता म॒घवा॑ नोऽधिव॒क्ता स वाज॑स्य श्रव॒स्य॑स्य दा॒ता ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वृत्रऽहा । इंद्रः । चर्षणिऽधृत् । तम् । सुऽस्तुत्या । हव्यम् । हुवेम ।  
+> सः । प्रऽअविता । मघऽवा । नः । अधिऽवक्ता । सः । वाजस्य । श्रवस्यस्य । दाता ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रहा वृत्रस्य हंता सः इंद्रः चर्षणीधृत् मनुष्याणां धनादिदानेन पोषको भवति । तम् इंद्रं वयं सुष्टुत्या शोभनया स्तुत्या हुवेम अस्मद्यज्ञेष्वाह्वयामः । किमर्थं यूयमाह्वयथेति चेत् कारणं ब्रूमः । सः इंद्रः प्राविता प्रकर्षेणास्माकं रक्षिता भवति । किंच मघवा धनवानिंद्रः नः अस्माकम् अधिवक्ता अधिकं वक्ता बहुमानेन वक्ता भवति । यद्वा । धनदानेनास्मानधिकं वक्तुमर्हति । अर्हे कृत्यतृचश्च' (पा. सू. ३. ३. १६९ ) इति तृच् । किंच सः एवेंद्रः श्रवस्यस्य श्रवसः कीर्तेर्निमित्तस्य वाजस्य अन्नस्य । यद्वा । श्रवसोऽन्नस्य हिताय वाजस्य बलस्य । दाता भवति खलु । तस्मादेवंगुणमिंद्रं वयमाह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+Vṛtrahan, the slayer of Vritra, that Indra, is *carṣaṇīdhṛt*, the cherisher of men, by giving them wealth and other gifts. We call upon that Indra with a good hymn of praise (*suṣṭutyā*), summoning him to our sacrifices. If it is asked why you summon him, we give the reason: that Indra is *prāvitā*, our protector in an outstanding way. Further, Maghavan, the wealthy Indra, is *adhivaktā* for us: one who speaks more, who speaks with great regard; or else, he deserves to speak more of us by giving wealth. Further, that same Indra is the giver of *vāja*, of food, which brings *śravas*, fame (*śravasyasya*); or else, for the benefit of *śravas*, that is food, he gives *vāja*, strength. He is indeed the giver. Therefore we summon an Indra of such qualities.
+
+### Printed p. 453
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—the slayer of Vritra
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- चर्षणीधृत् (*carṣaṇīdhṛt*)—is the supporter of men through gifts of wealth and the like
+- हव्यं (*havyaṃ*)—worthy of worship
+- तं (*taṃ*)—that same Indra
+- सुष्टुत्या (*suṣṭutyā*)—with an excellent hymn
+- हुवेमु (*huvemu*)—let us pray and invoke
+- सः (*saḥ*)—that same Indra
+- प्राविता (*prāvitā*)—is an excellent protector
+- मघवा (*maghavā*)—the wealthy Indra
+- नः (*naḥ*)—to us
+- अधिवक्ता (*adhivaktā*)—speaks encouraging words
+- सः (*saḥ*)—that same Indra
+- श्रवस्यस्य (*śravasyasya*)—of fame
+- वाजस्य (*vājasya*)—and of food
+- दाता (*dātā*)—is the giver
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the slayer of Vritra, is the supporter of men through gifts of wealth and the like. Let us pray to that same worshipful Indra and invoke him with an excellent hymn. That same Indra is an excellent protector to us. The wealthy Indra speaks encouraging words to us. That same Indra gives us fame and food.
+
+##### English translation
+Indra is the slayer of Vritra, the cherisher of men ; let us invoke him, worthy of invocation, with an excellent hymn ; he is Maghavan, our protector, our encourager, he is the bestower of food that brings fame.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वृ॑त्र॒हेंद्र॑ ऋभु॒क्षाः स॒द्यो ज॑ज्ञा॒नो हव्यो॑ बभूव ।  
+> कृ॒ण्वन्नपां॑सि॒ नर्या॑ पु॒रूणि॒ सोमो॒ न पी॒तो हव्यः॒ सखि॑भ्यः ॥ २१ ॥
+
+### Printed p. 454
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वृत्रऽहा । इंद्रः । ऋभुक्षाः । सद्यः । जज्ञानः । हव्यः । बभूव ।  
+> कृण्वन् । अपांसि । नर्या । पुरूणि । सोमः । न । पीतः । हव्यः । सखिऽभ्यः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुक्षाः महान् । यद्वा । ऋभुशब्देनर्भ्वादयस्त्रयो गृह्यंते । ऋभुभिः सह क्षियति निवसतीति तादृशः। वृत्रहा सः इंद्रः सद्यः तदानीमेव जज्ञानः प्रादुर्भवन् हव्यः सर्वैः स्तोतृभिः यष्टॄभिराह्वातव्यो बभूव । किंच नर्या नर्याणि । नरा मनुष्याः कर्मनेतारः । तेभ्यो हितानि पुरूणि बहूनि अपांसि कर्माणि कृण्वन् कुर्वन् सखिभ्यः हविष्प्रदानेनोपकारकत्वान्मित्रेभ्य ऋत्विग्भ्यः हव्यः आह्वातव्यो हवनयोग्यो वाभूत् । तत्र दृष्टांतः। सोमो न यथा पीतः सोमो यष्टृभ्यः स्वर्गादिफलानि कुर्वन् देवैराह्वातव्यो भवति तद्वत् ॥ ॥ ३५ ॥
+
+##### Gist of the bhāṣya
+
+*Ṛbhukṣāḥ* means "great"; or else, by the word *ṛbhu* the three, Ṛbhu and the others, are meant, and he is one who dwells (*kṣiyati*) with the Ṛbhus. That Indra, the slayer of Vritra, at the very moment he was born (*jajñānaḥ*, appearing) became *havyaḥ*, to be invoked by all the praisers and sacrificers. Further, *naryā* are the things beneficial to *narāḥ*, men, the leaders of the rite; performing (*kṛṇvan*) many (*purūṇi*) such deeds (*apāṃsi*), he became to be invoked, worthy of invocation, by his friends (*sakhibhyaḥ*), the priests, because he helps them by receiving their oblations. The illustration: as Soma, when drunk (*pītaḥ*), giving the sacrificers heaven and the other fruits, is to be invoked by the gods, so is he.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—dwelling with the Ṛbhus
+- वृत्रहा (*vṛtrahā*)—and the slayer of Vritra
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- जज्ञानः (*jajñānaḥ*)—having been born
+- सद्यः (*sadyaḥ*)—at that very moment
+- हव्यः (*havyaḥ*)—became worthy of the praise of all
+- बभूव (*babhūva*)—became
+- पीतः (*pītaḥ*)—fit to be drunk by the gods
+- सोमो न (*somo na*)—as Soma is worthy of their invocation
+- नर्या (*naryā*)—beneficial to men
+- पुरूणि (*purūṇi*)—and of many kinds
+- अपांसि (*apāṃsi*)—deeds
+- कृण्वन् (*kṛṇvan*)—performing
+- सखिभ्यः (*sakhibhyaḥ*)—to his friends, the priests
+- हव्यः (*havyaḥ*)—he became worthy of invocation
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who dwells with the Ṛbhus and is the slayer of Vritra, became worthy of the praise of all as soon as he was born. As Soma, fit to be drunk by the gods, is worthy of their respectful invocation, so Indra too, performing deeds of many kinds that are beneficial to men, is worthy of the invocation of his friends the priests, and is worshipful.
+
+##### English translation
+As soon as he was born, he, Indra, the slayer of Vritra, the chief of the Ribhus, was worthy to be invoked ; he, performing many sacred acts for men, is worthy to be invoked for his frends like the quaffed Soma juice.
+
+### Printed p. 455
+
+## Sūkta 97 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या इंद्र इति पंचदशर्चं चतुर्थं सूक्तं काश्यपस्य रेभस्यार्षमैंद्रम् । दशम्यतिजगती द्वापंचाशदक्षरा। एकादशीद्वादश्यावुपरिष्टाद्बृहत्यौ त्र्यष्टकांतद्वादशकवत्यौ। त्रयोदश्यतिजगती । चतुर्दशी त्रिष्टुप् । पंचदशी जगती । शिष्टा बृहत्यः । तथा चानुक्रम्यते- या इंद्र पंचोना रेभः काश्यपो बार्हतमतिजगत्युपरिष्टाद्बृहत्यावतिजगती त्रिष्टुब्जगतीत्यंततः' इति । सूक्तविनियोगो लैंगिकः । महाव्रते निष्केवल्ये बार्हततृचाशीतौ ' या इंद्र' इत्यादिका नवर्चः । तथैव पंचमारण्यके सूत्र्यते ' या इंद्र भुज आभर इति नव सूददोहाः' (ऐ. आ. ५. २. ४) इति । चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनो वैकल्पिकानुरूपतृचस्य ' या इंद्र' इत्यादिके द्वे द्वितीयातृतीये । सूत्र्यते च--- तमिंद्रं जोहवीमि या इंद्र भुज आभर इत्येका द्वे च' (आश्व. श्रौ. ७. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning या इंद्र (*yā iṃdra*) has fifteen verses and is the fourth hymn; its seer is Rebha Kāśyapa and its deity is Indra. The tenth verse is an atijagatī of fifty-two syllables; the eleventh and twelfth are upariṣṭādbṛhatī, with three octosyllabic quarters and the last of twelve syllables; the thirteenth is an atijagatī; the fourteenth is a triṣṭubh; the fifteenth is a jagatī; the rest are bṛhatī. So the Anukramaṇī says: या इंद्र पंचोना रेभः काश्यपो बार्हतमतिजगत्युपरिष्टाद्बृहत्यावतिजगती त्रिष्टुब्जगतीत्यंततः (*yā iṃdra paṃconā rebhaḥ kāśyapo bārhatamatijagatyupariṣṭādbṛhatyāvatijagatī triṣṭubjagatītyaṃtataḥ*). The application of the hymn is by indication (*laiṅgika*). In the Mahāvrata, in the Niṣkevalya, the nine verses of the Bārhata tṛca beginning या इंद्र (*yā iṃdra*) are used; so it is taught in the fifth Āraṇyaka: या इंद्र भुज आभर इति नव सूददोहाः (*yā iṃdra bhuja ābhara iti nava sūdadohāḥ*) (Ai. Ā. 5. 2. 4). On the Cāturviṃśika day, at the midday pressing, the two verses beginning या इंद्र (*yā iṃdra*) are the second and third of the alternative Anurūpa tṛca of the Brāhmaṇācchaṃsin; and it is taught: तमिंद्रं जोहवीमि या इंद्र भुज आभर इत्येका द्वे च (*tamiṃdraṃ johavīmi yā iṃdra bhuja ābhara ityekā dve ca*) (Āśva. Śrau. 7. 4).
+
+##### Anuvāda
+
+This hymn beginning *yā indra* is the fourth hymn in the tenth Anuvāka. It has fifteen verses. For this hymn the seer is Rebhaḥ Kāśyapaḥ; the deity is Indra; the tenth verse of this hymn is in the metre atijagatī of fifty-two syllables; the eleventh and twelfth verses are in the metre upariṣṭādbṛhatī. In this metre there are four quarters, of which the first three have eight syllables each and the last has twelve syllables; the thirteenth verse is in the atijagatī metre; the fourteenth is in triṣṭubh; the fifteenth is in jagatī; the remaining verses are in bṛhatī. In the Anukramaṇī it is said: या इंद्र पंचोना रेभः काश्यपो बार्हतमतिजगत्युपरिष्टाद्बृहत्यावतिजगती त्रिष्टुब्जगतीत्यंततः (*yā iṃdra paṃconā rebhaḥ kāśyapo bārhatamatijagatyupariṣṭādbṛhatyāvatijagatī triṣṭubjagatītyaṃtataḥ*). The application of the hymn is by indication. In the Mahāvrata rite, when the Niṣkevalya recitation is made, the nine verses of this hymn beginning with *yā indra* are applied for the verses of the bṛhatī metre, as is set out in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence या इंद्र भुज आभर इति नव सूददोहाः (*yā iṃdra bhuja ābhara iti nava sūdadohāḥ*) (Ai. Ā. 5-2-4). And on the day of the sacrifice called Cāturviṃśika, at the time of the midday pressing, in the Anurūpa tṛca recited by the priest called Brāhmaṇācchaṃsin, the two verses beginning with *yā indra* are to be recited as the second and third verses of the tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, तमिंद्रं जोहवीमि या इंद्र भुज आभर इत्येका द्वे च (*tamiṃdraṃ johavīmi yā iṃdra bhuja ābhara ityekā dve ca*) (Ā. 7-4).
+
+### Printed p. 456
+
+##### Particulars
+
+Sūkta 97. Maṇḍala 8. Anuvāka 10. Aṣṭaka 6. Adhyāya 6. Vargas 36, 37, 38. Number of Ṛks in the sūkta: 15. Seer: Rebhaḥ Kāśyapaḥ. Deity: Indraḥ. Metre: 1-9 Bṛhatī; 10, 13 Atijagatī; 11, 12 Upariṣṭādbṛhatī; 14 Triṣṭup; 15 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या इं॑द्र॒ भुज॒ आभ॑रः॒ स्व॑र्वाँ॒ असु॑रेभ्यः ।  
+> स्तो॒तार॒मिन्म॑घवन्नस्य वर्धय॒ ये च॒ त्वे वृ॒क्तब॑र्हिषः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । इंद्र । भुजः । आ । अभरः । स्वःऽवान् । असुरेभ्यः ।  
+> स्तोतारम् । इत् । मघवन् । अस्य । वर्धय । ये । च । त्वे इति । वृक्तऽबर्हिषः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरिंद्रं प्रार्थयते । हे इंद्र स्वर्वान् सुखवान् स्वर्गवान् वा । अथवा स्वःशब्दः सर्वपर्यायः । सर्वं भूतजातम् । आत्मन एवोत्पन्नत्वात्तद्वान् । एवंगुणस्त्वं याः यानि भुजः भोक्तव्यानि धनानि असुरेभ्यः बलवद्भ्यो राक्षसेभ्यः आभरः आहरः तान् हत्वाहृतवानसि। हग्रहोः' इति भकारादेशः । अत एव हे मघवन् धनवन्निंद्र अस्य । अन्वादेशेऽशादेशः । एतस्याहृतस्य धनस्य दानेन स्तोतारमित् तव स्तोत्रकारिणमेव वर्धय वृद्धिमंतं कुरु। ये च अन्ये यष्टारः त्वे त्वदर्थं वृक्तबर्हिषः स्तीर्णबर्हिषो भवंति अतस्तांश्च धनेन वर्धय ॥
+
+##### Gist of the bhāṣya
+
+The seer prays to Indra. O Indra, *svarvān*: possessed of happiness, or of heaven; or else the word *svaḥ* is a synonym of "all", the whole host of beings, and he is *svarvān* because all that exists arose from himself. Such as you are, those enjoyable riches (*bhujaḥ*) which you carried off (*ābharaḥ*) from the Asuras, the mighty demons, you brought after slaying them. Therefore, O Maghavan, wealthy Indra, by giving this wealth that you have brought, make prosper (*vardhaya*) your praiser alone, the one who makes hymns to you. And those other sacrificers who for you have strewn the sacred grass (*vṛktabarhiṣaḥ*), make them also prosper with wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- स्वर्वान् (*svarvān*)—you who embrace all beings
+- याः (*yāḥ*)—which
+- भुजः (*bhujaḥ*)—riches that are the means of enjoyment
+- असुरेभ्यः (*asurebhyaḥ*)—from the Asuras
+- आभरः (*ābharaḥ*)—you have carried off and brought
+- अस्य (*asya*)—by the gift of that same wealth
+- स्तोतारं इत् (*stotāraṃ it*)—your praisers alone
+- वर्धय (*vardhaya*)—make prosper
+- यो (*yo*)—which
+- अन्ये च (*anye ca*)—other sacrificers also
+- त्वे (*tve*)—for you
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—who prepare the seats of darbha grass, make those also prosper
+
+### Printed p. 457
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, you who embrace all beings, make your praisers prosper through the gift of that same wealth, the riches that are the means of enjoyment which you have carried off from the Asuras and brought. Be the cause of prosperity also to the other sacrificers who have prepared and made ready, for your worship, the seats of darbha grass.
+
+##### English translation
+Indra, lord of heaven, with those good things which you have carried off from the Asuras you prosper, O Maghavan, your praiser and those who have spread for you the clipped grass.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमिं॑द्र दधि॒षे त्वमश्वं॒ गां भा॒गमव्य॑यम् ।  
+> यज॑माने सुन्व॒ति दक्षि॑णावति॒ तस्मिं॒तं धे॑हि॒ मा प॒णौ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । इंद्र । दधिषे । त्वम् । अश्वम् । गाम् । भागम् । अव्ययम् ।  
+> यजमाने । सुन्वति । दक्षिणाऽवति । तस्मिन् । तम् । धेहि । मा । पणौ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यम् अश्वं गमनसाधनान् हरीन् गाम् अग्निहोत्रकर्मणि पयःप्रदानेनोपकारिका गाः अव्ययं व्ययरहितमविनश्वरं भाग भजनीयं धनम्। सर्वत्रैकत्वमविवक्षितम् । एतान् शत्रुभ्य आहृत्य दधिषे बिभर्षि तं सर्वं सुन्वति सोमाभिषवं कुर्वति दक्षिणावति यज्ञ ऋत्विग्भ्यो दक्षिणादेयत्वेन तद्वति यजमाने यागं कुर्वाणे तस्मिन् त्वं धेहि। सर्वत्र धनादिदानं मा कुर्वित्याह। मा पणौ ।' पण व्यवहारे'। द्रव्यव्यवहारादयष्टा जनः पणिः । तस्मिन्नेतत् सर्वं मा देहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the horse (*aśvam*) that you hold (*dadhiṣe*) means the steeds, the means of going; the cow (*gām*) means the cows that are helpful in the Agnihotra rite by giving milk; *avyayam* is the undiminishing, imperishable share (*bhāgam*), the wealth to be enjoyed. The singular is not meant to be specific throughout. Having taken all these from your enemies you hold them; all that you place in the sacrificer who presses Soma (*sunvati*) and is *dakṣiṇāvat*, one who has to give fees to the priests at the sacrifice, who performs the sacrifice. He says: do not give wealth and the rest everywhere. *Mā paṇau*: the root पण (*paṇa*) is used of trade; a man who does not sacrifice and is given to trading in goods is a *paṇi*. Do not give all this to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- यं (*yaṃ*)—which
+- अश्वं (*aśvaṃ*)—horses
+- गां (*gāṃ*)—and cows
+- अव्ययं (*avyayaṃ*)—and imperishable
+- भागं (*bhāgaṃ*)—and worshipful wealth
+- दधिषे (*dadhiṣe*)—you have carried off from the Asuras and brought
+- तं (*taṃ*)—all of that
+- सुन्वति (*sunvati*)—to him who presses Soma and offers it
+
 ---
 
-**Progress note:** Done through printed p. 451. Mandala 8 sukta 96 rks 15-19
+**Progress note:** Done through printed p. 457. Sūkta 96 Ṛk 19 end to Ṛk 21; Sūkta 97 intro, Ṛk 1, Ṛk 2 begin
