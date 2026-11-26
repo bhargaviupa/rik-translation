@@ -28115,6 +28115,207 @@ The shining Soma being purified by the golden hand that urges it forth, brings i
 
 Bhadrā means auspicious, good things. समनमिति संग्रामनाम (*samanamiti saṃgrāmanāma*): समन (*samana*) is a name for battle; समन्या (*samanyā*) means what is fit for it, suited to battle. वस्त्रा (*vastrā*) means garments, covering splendours; covering them, the great seer, who sees beyond; therefore the praises to be spoken repeatedly, made by the priests,
 
+### Printed p. 751
+
+> शंसन् विचक्षणो विशेषेण सर्वस्य द्रष्टा जागृविर्जागरणशीलः सोमस्त्वं देववीत् ।
+> देवानां वीतिर्भक्षणं यस्मिन् स देववीतियज्ञः । तस्मिंश्चन्वोरधिषवणफलकयोरा
+> वच्यस्व! पात्राण्या विश ॥ वचिर्गत्यर्थः । व्यत्ययेन श्यन् ॥ पूयमानः सन् ॥
+
+##### Gist of the bhāṣya
+
+Praising (śaṃsan), the far-seeing one (vicakṣaṇaḥ), who sees everything in a special way, the ever-wakeful (jāgṛviḥ) Soma, you (are) देववीत् (*devavīt*): the vīti of the gods is their eating; the sacrifice in which that takes place is devavīti. In it, on the two pressing planks, enter (ā vacyasva) the vessels; the root vac has the sense of going. Being purified.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भद्रा (*bhadrā*)—auspicious
+- समन्या (*samanyā*)—and fit for battle
+- वस्त्रा (*vastrā*)—the garment of the form of splendour
+- वसानः (*vasānaḥ*)—you who are clothed in
+- महान् (*mahān*)—the great-souled
+- कविः (*kaviḥ*)—the sagacious
+- विचक्षणः (*vicakṣaṇaḥ*)—who can see everything
+- जागृवी (*jāgṛvī*)—and vigilant, you **NOTE**
+- निवचनानि (*nivacanāni*)—the praises
+- शंसन् (*śaṃsan*)—reciting
+- देवनीत् (*devanīt*)—in the sacrifice **NOTE**
+- पूयमानः (*pūyamānaḥ*)—being purified
+- चन्नोः (*cannoḥ*)—through the pressing stones **NOTE**
+- आ वच्यस्व (*ā vacyasva*)—enter the vessels
+
+##### भावार्थ (Bhāvārtha)
+
+O Lord Soma, you who are clothed in a garment of splendour, auspicious and fit for battle, great-souled, sagacious, able to see everything and vigilant, reciting the praises, purified in the sacrifice, enter the vessels through the pressing stones.
+
+##### English translation
+The great wise Soma, clothed in his auspicious warvestments, the inspirer of praises enter into the vessels when purified, you who are sagacious and vigilant at the banquet of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+भद्रा वस्त्रा समन्या वसानः महान् कविः निवचनानि शंसन् देववीत् आ वच्यस्व (*bhadrā vastrā samanyā vasānaḥ mahān kaviḥ nivacanāni śaṃsan devavīt ā vacyasva*)—As a warrior or hero who sets out for battle, encouraged by the words of cheer of his intimates and adorned with excellent garments, goes to the battlefield, so Soma, of great form, adorned with the excellent garments of his splendour, listening to the words (mantras) in the form of praise of the priests, enters the vessels made ready on the sacrificial altar; thus the going forth of the Soma juice is praised.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑ प्रि॒यो मृ॑ज्यते॒ सानो॒ अव्ये॑ य॒शस्त॑रो य॒शसां॒ ॑ ॒
+> क्षैतो॑ अ॒स्मे ।
+
+### Printed p. 752
+
+> अभि स्वर धन्वा पूयमानो यूयं पात स्वस्तिभिः सदा  
+> नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स । ऊं इति । प्रियः । मृज्यते । सानौ । अव्ये । यशःतरः । यशसां । क्षैतः ।  
+> अस्मे इति ।  
+> अभि । स्वर । धन्व । पूयमानः । यूयिं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यशसां यशस्विनां मध्ये यशस्तरोऽतिशयेन यशस्वी क्षैतः क्षितौ भवः
+> प्रियः प्रीणयिता सोमः सानौ समुच्चि तेऽव्येऽविमये पवित्रेऽस्मे अस्मदर्थं
+> सं मृज्यते । ऋत्विग्भिः परिपूयते । उ अवधारणे । पूयमानस्त्वं धन्वांतरिक्षेऽभि
+> स्वर । अभितः । शब्दय । यूयं ॥ पूजायां बहुवचनं ॥ हे सोम त्वं
+> नोऽस्मान् स्वस्तिभिः कल्याणतमैः पालनैः सदा सर्वदा पात । रक्षत । पालयत ॥
+
+##### Gist of the bhāṣya
+
+Among the renowned (yaśasām), the most renowned (yaśastaraḥ, exceedingly renowned), born on the earth (kṣaitaḥ, kṣitau bhavaḥ), the dear (priyaḥ, the gladdener) Soma is purified (saṃ mṛjyate) by the priests on the high place (sānau), in the woollen (avimaya) filter, for us (asme, for our sake) **NOTE**; उ (*u*) is for emphasis. You, being purified, sound all around (abhi svara) in the atmosphere (धन्वांतरिक्षे (*dhanvāṃtarikṣe*)). यूयं (*yūyaṃ*) is a plural of respect. O Soma, protect us always (sadā, at all times) with blessings (svastibhiḥ), the most auspicious protections.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यशसां (*yaśasāṃ*)—among the renowned
+- यशस्तरः (*yaśastaraḥ*)—the most renowned
+- क्षैतः (*kṣaitaḥ*)—born on the earth
+- प्रियः (*priyaḥ*)—the gladdening Soma
+- सान् (*sān*)—in the high place **NOTE**
+- अव्ये (*avye*)—in the ten-fold filter
+- अस्मे (*asme*)—for us
+- संमृज्यते (*saṃmṛjyate*)—is purified
+- पूयमानः (*pūyamānaḥ*)—you who are purified
+- धन्व (*dhanva*)—in the atmosphere
+- अभिस्वर (*abhisvara*)—sound all around
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the most renowned among the renowned, born on the earth, the gladdener, is purified for us in the ten-fold filter in the high place. O Soma, you who are purified, sound all around in the atmosphere. Always protect us with blessings.
+
+##### English translation
+(Soma), the most famous of the famous, the earthborn, the conciliator, is cleansed for us in the elevated fleece ; sound aloud in the firmament when purified : you Gods, ever protect us with blessings.
+
+### Printed p. 753
+
+##### विशेषविषयगळु (Special Topics)
+
+यशसां यशस्वरः (*yaśasāṃ yaśasvaraḥ*) **NOTE**—the one of the greatest renown among the renowned gods. Because in the Soma sacrifices such as the Agniṣṭoma the Soma juice is the most important means, and because the drinking of Soma is delightful to the gods Indra and the rest, Soma is a very famous and necessary substance, and by his gifts of wealth and the like to the praisers Soma is the object of the greatest love; this is the purport.
+क्षितः (*kṣitaḥ*) **NOTE**—क्षितौ भवः (*kṣitau bhavaḥ*). The Soma creeper that grows on the earth; Soma creepers grow on the earth and also in high mountain regions.
+अस्मे (*asme*)—This word is used also in the sense of the seven cases. An example: (1) अस्मै ते बंधुः (*asmai te baṃdhuḥ*) **NOTE**. वयमित्यर्थः (*vayamityarthaḥ*). अस्मे इत्येतत्पदं सर्वविभक्त्यंतं ! तस्मादनेकार्थं । एकमेव हैतच्छब्दरूपं सप्तस्वपि विभक्त्यर्थेषु वर्तते ! प्रकरणादिवशात् तस्य नियमो भवति । तद्यथा (*asme ityetatpadaṃ sarvavibhaktyaṃtaṃ ! tasmādanekārthaṃ | ekameva haitacchabdarūpaṃ saptasvapi vibhaktyartheṣu vartate ! prakaraṇādivaśāt tasya niyamo bhavati | tadyathā*) प्रथमायास्तावत्—अस्मे ते बंधुः । वयमित्यर्थः (*prathamāyāstāvat—asme te baṃdhuḥ | vayamityarthaḥ*) means that the word अस्मे (*asme*) is used according to the context in the sense of the seven cases; that is, according to the particular context any one of the seven cases may be given as the meaning of this word. How? In the sentence अस्मे ते बंधुः (*asme te baṃdhuḥ*) the word अस्मे (*asme*) has the meaning वयं (*vayaṃ*), "we". This is an example of the sense of the nominative case.
+(2) अस्मे यातं नासत्या सजोषाः (*asme yātaṃ nāsatyā sajoṣāḥ*). आस्मानित्यर्थः (*āsmānityarthaḥ*). Of the accusative: here the meaning of the word अस्मे (*asme*) is अस्मान् (*asmān*), "us", in the accusative case. As an example of this meaning
+
+आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः । हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥ (*ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ | have hi vāmaśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ‖*)
+(Ṛ. Saṃ. 1-18-11)
+
+this Ṛk has been given. In this Ṛk the word अस्त्रे (*astre*) **NOTE** means आस्मान् (*āsmān*), "us".
+(3) अस्मै समानेभिवृषभ पौंस्येभिः (*asmai samānebhivṛṣabha pauṃsyebhiḥ*). अस्माभिरित्यर्थः (*asmābhirityarthaḥ*). Of the instrumental: here अस्त्रे (*astre*) means अस्माभिः (*asmābhiḥ*), "by us", the sense of the instrumental case. In this matter
+
+### Printed p. 754
+
+भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः । भूरीणि हि कृणवामा शविष्ठेंद्र कृत्वा मरुतो यद्वशाम ॥ (*bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ | bhūrīṇi hi kṛṇavāmā śaviṣṭheṃdra kṛtvā maruto yadvaśāma ‖*)
+(Ṛ. Saṃ. 1-165-7)
+
+this Ṛk has been given as an example. Here अस्मे (*asme*) means अस्माभिः (*asmābhiḥ*), "by us".
+(4) अस्मे प्रयंधि मघवन्नृजीषिन् (*asme prayaṃdhi maghavannṛjīṣin*). अस्मभ्यमित्यर्थः (*asmabhyamityarthaḥ*). Of the dative: here अस्मे (*asme*) means अस्मभ्यं (*asmabhyaṃ*), "for us", the sense of the dative case. For example
+
+अस्मे प्र यंधि मघवन्नृजीषिन्निंद्र रायो विश्ववारस्य भूरेः । अस्मे शतं शरदो जीवसे धा अस्यॆ वीराञ्श्वत इंद्र शिप्रिन् ॥ (*asme pra yaṃdhi maghavannṛjīṣinniṃdra rāyo viśvavārasya bhūreḥ | asme śataṃ śarado jīvase dhā asyè vīrāñśvata iṃdra śiprin ‖*)
+(Ṛ. Saṃ. 3 36-10)
+
+for the words अस्मे (*asme*) in this Ṛk the sense of the dative case is अस्मभ्यं (*asmabhyaṃ*), "for us".
+(5) अस्मे आराच्चिद्वेषः सनुतर्युयोतु (*asme ārāccidveṣaḥ sanutaryuyotu*). अस्मदित्यर्थः (*asmadityarthaḥ*). Of the ablative: here अस्मे (*asme*) means अस्मत् (*asmat*), "from our side". For example
+
+तस्य वयं सुमतौ यज्ञियस्यापि भद्रे सौमनसे स्याम । स सुत्रामा स्ववा इंद्रो अस्मे आराच्चिद्वेषः सनुतर्युयोतु ॥ (*tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma | sa sutrāmā svavā iṃdro asme ārāccidveṣaḥ sanutaryuyotu ‖*)
+
+for the word अस्मे (*asme*) in this Ṛk the sense of the ablative case is अस्मत् (*asmat*), "from our side".
+(6) ऊर्व इव पप्रथे कामो अस्मे (*ūrva iva paprathe kāmo asme*). अस्माकमित्यर्थः (*asmākamityarthaḥ*). Of the genitive: here अस्मे (*asme*) means अस्माकं (*asmākaṃ*), "for us". For the explanation of this meaning
+
+आ नो भर भगमिंद्र द्युमंतं नि ते देष्टस्य धीमहि प्ररेके । ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनां ॥ (*ā no bhara bhagamiṃdra dyumaṃtaṃ ni te deṣṭasya dhīmahi prareke | ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnāṃ ‖*)
+(Ṛ. Saṃ. 3 30-19)
+
+this Ṛk is cited. For the word अस्मे (*asme*) in this Ṛk the sense of the genitive is अस्माकं (*asmākaṃ*), "our, for us".
+(7) अस्मे धत्त वसवो वसूनि (*asme dhatta vasavo vasūni*). अस्मास्वित्यर्थः (*asmāsvityarthaḥ*). Of the locative: here अस्मे (*asme*) means "in us". For example
+
+अग्ने वाजस्य गोमत ईशानः सहसो यहो । अस्मे धेहि जातवेदो महि श्रवः ॥ (*agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahi śravaḥ ‖*)
+(Ṛ. Saṃ. 1-79-4)
+
+for the word अस्मे (*asme*) in this Ṛk the sense of the locative is अस्मासु (*asmāsu*), "in us".
+
+### Printed p. 755
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र गा॑यता॒भ्य॑र्चाम दे॒वान्सोमं॑ हिनोत मह॒ते  ॑
+> धनाय ।  
+> स्वा॒दुः प॑वाते॒ अति॒ वार॒मव्य॒मा सी॑दाति क॒लशं॑ देव॒युर्नः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । गायत । अभि । अर्चाम । देवान् । सोमं । हिनोत । महते । धनाय ।  
+> स्वादुः । पवाते । अति । वारं । अव्यं । आ । सीदाति । कलशं । देवयुः । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः प्र गायत । सोमं प्रकर्षेणाभिष्टुत । तथा देवानभ्यर्चाम।
+> अभ्यर्चत ॥ पुरुषव्यत्ययः ॥ यद्वा । वयं देवानभिष्टुमः यूयं सोमं
+> स्तुतेति ' किंच महते महत्प्रभूतं धनाय धनं प्राप्तुं सोमं हिनोत । अभिषवार्थं प्रेरयत ॥ क्रियार्थोपपदस्य च कर्मणि स्थानिन इति धनशब्दस्य चतुर्थी ॥
+> ततः स्वादुः स्वामकरः सोमोऽव्यमविभवं वारं वालं पवित्रमति पवाते । अतीत्य
+> पवते । किंच देवयुर्देवान्कामयमानो नोऽस्मदीयः सोमः कलशं पात्रमा
+> सीदाति । आसीदति । प्रविशति ॥ उभयत्र लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+O praisers, sing forth, that is, praise Soma exceedingly; likewise let us worship the gods (अभ्यर्चाम (*abhyarcāma*) is for अभ्यर्चत (*abhyarcata*), an interchange of person). Or else: we praise the gods, you praise Soma. Further, send Soma, that is, impel him for the pressing, to obtain great, abundant wealth. Then the sweet, the sweetness-making Soma flows over, that is, crosses, the woollen (अव्यं (*avyaṃ*), sheep's) hair (वारं (*vāraṃ*)) filter. Further, our Soma, desiring the gods (देवयुः (*devayuḥ*)), sits in the vessel, that is, enters it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्र गायत (*pra gāyata*)—praise Soma and recite the words of praise
+- देवान् (*devān*)—the gods
+- अभ्यर्चाम (*abhyarcāma*)—worship
+- महते (*mahate*)—for exceedingly great
+- धनाय (*dhanāya*)—wealth
+- सोमं हिनोत (*somaṃ hinota*)—press the Soma (squeeze it)
+- स्वादुः (*svāduḥ*)—the savoury Soma
+- अव्यं (*avyaṃ*)—of the ten-fold filter
+- वारं (*vāraṃ*)—the woollen threads
+- अति पवते (*ati pavate*)—crosses and flows **NOTE**
+- देवयु: (*devayu:*)—who desires the gods
+- नः (*naḥ*)—our Soma
+- कलशं (*kalaśaṃ*)—in the vessel
+- आ सीदाति (*ā sīdāti*)—takes a place (sits)
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise Soma and recite the words of praise. Worship the gods. Press the Soma for exceedingly great wealth. The savoury Soma crosses the woollen threads of the ten-fold filter and flows. Our Soma, who desires the gods, sits in the vessel.
+
+### Printed p. 756
+
+##### English translation
+Sing (to the Soma), let us praise the gods ; send forth the Soma for (the acquirement of) great wealth. He passes sweet-flavoured pure through the fleecy filter ; our (Soma) devoted to the god's alights on the pitcher.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्र गायत - हे स्तोतारः सोमं प्रकर्षेणाभिष्टुत (*pra gāyata - he stotāraḥ somaṃ prakarṣeṇābhiṣṭuta*). O praisers, praise the god Soma with the recitation of Sāman mantras in the form of song. Among the Ṛgveda mantras, many Ṛks, and among them especially the Ṛks that praise the deity Soma, have been composed by the joining of correct syllables, words and corresponding sense, so as to be suitable for singing; for that very reason the greater part of the mantras in the Sāmaveda are Ṛks of the Ṛgveda.
+देवान् अभि अर्चाम (*devān abhi arcāma*)—Worship the gods; or, since the first person अर्चाम (*arcāma*) is used here, the meaning may also be given thus: we (the priests) invite and worship the gods, and you (the singers of Sāman) praise the deity Soma by singing.
+सोमं हिनोत महते धनाय (*somaṃ hinota mahate dhanāya*)—The priests are addressed: press the Soma juice for the gain of abundant wealth. If one performs the sacrifice, invites the gods to it and satisfies them with the drinking of Soma, they, being pleased, will give wealth and the like to us, the performers of the sacrifice. To make known that wealth is obtained by pressing and preparing the Soma juice in the sacrifice for the pleasure of the gods, सोमं हिनोत महते धनाय (*somaṃ hinota mahate dhanāya*) is said here.
+स्वादुः अव्यं वारं पवते (*svāduḥ avyaṃ vāraṃ pavate*)—Here अव्यं (*avyaṃ*) means related to sheep, that is, made of the fleece of a sheep. वारं (*vāraṃ*) means the vessel for filtering called the filter, covered with it. They spread a thin layer of sheep's fleece or wool over a vessel and make the pressed juice flow and fall over it. When this Soma juice crosses that layer of wool, the impurities in it, such as the husks, remain on the wool itself, and only the clear juice goes into the vessel and stands there. It is like filtering ghee or oil through a wire mesh. This filtering of the Soma juice is described in many Ṛks.
+आ सीदाति कलशं देवयुः नः (*ā sīdāti kalaśaṃ devayuḥ naḥ*)—देवयुः (*devayuḥ*) means the Soma that desires the gods, that is, the Soma juice that is ready to be offered to the gods. The purport is that such a Soma juice crosses the woollen mesh and stands in the vessel or pot below.
+
 ---
 
-**Progress note:** Done through printed p. 750. Sūkta 96 Ṛks 23-24; Sūkta 97 intro, Ṛks 1-2
+**Progress note:** Done through printed p. 756. Sūkta 97 Ṛks 2-4, Special Topics on asme
