@@ -34671,6 +34671,183 @@ and by Ghoṣā in the present Ṛk. It is known from the Anukramaṇikā that V
 
 In these Ṛks the seer of the sūkta has referred to himself by the words विमदस्य ऋषेः मम चॆ (*vimadasya ṛṣeḥ mama cè*). In the Aitareya Brāhmaṇa, in stating the order of its application, it is said that the sūkta कुह श्रुत इंद्रः कस्मिन्नद्येति सूक्तं (*kuha śruta iṃdraḥ kasminnadyeti sūktaṃ*) (Ṛ. Saṃ. 10-22) is वैमदं (*vaimadaṃ*), that is, that the sūkta beginning with the Ṛk कुह श्रुत (*kuha śruta*) was seen by the seer Vimada. (Ai. Brā. 21-5)
 
+### Printed p. 954
+
+युवं वध्रिमत्याः हवं अगच्छतं । पुरंधये सुषुतिं चक्रथु (*yuvaṃ vadhrimatyāḥ havaṃ agacchataṃ | puraṃdhaye suṣutiṃ cakrathu*)—It is said here that the Aśvin gods, at the prayer of the woman named Vadhrimatī, came to her and granted her a son named Hiraṇyahasta. Suhastya Ghauṣeya, the seer of the 41st sūkta of this maṇḍala, the son of the woman Ghoṣā, may be this very Hiraṇyahasta. In his commentary on the 13th Ṛk of the 116th sūkta of the first maṇḍala the commentator says:
+
+वध्रिमतीनाम कस्यचिद्राजर्षेः पुत्री नपुंसकभर्तृका । सा पुत्रलाभार्थमश्विनावाजुहाव । तदाह्वानं श्रुत्वाश्विनावागत्य तस्य हिरण्यहस्ताख्यं पुत्रं ददतुः । तदेतदाह ॥ (*vadhrimatīnāma kasyacidrājarṣeḥ putrī napuṃsakabhartṛkā | sā putralābhārthamaśvināvājuhāva | tadāhvānaṃ śrutvāśvināvāgatya tasya hiraṇyahastākhyaṃ putraṃ dadatuḥ | tadetadāha ‖*)
+
+वध्रिः पुत्रोत्पादनाशक्तः षण्डकः । तद्वती राजपुत्रि (*vadhriḥ putrotpādanāśaktaḥ ṣaṇḍakaḥ | tadvatī rājaputri*) Sāyaṇa explains that a eunuch, who has not the power of virile energy fit for begetting a son, is called vadhri, and he has interpreted that a woman who has such a eunuch as her husband bears the name Vadhrimatī. Skandasvāmin gives the meaning of the word vadhrimatī thus: वध्रिमती नाम योध्री शत्रुभिः संग्रामे भिन्नहस्ता (*vadhrimatī nāma yodhrī śatrubhiḥ saṃgrāme bhinnahastā*) that is, Vadhrimatī (the king's daughter) is a woman who fights; in battle (fighting with enemies) she lost her hand. Although Skandasvāmin and Sāyaṇa differ in their view in interpreting this Ṛk, on the point that the Aśvins granted a son named Hiraṇyahasta the opinion of both is of one kind. Sāyaṇa, since the word vadhrimatī has the meaning "eunuch", explains that she who has him as husband is Vadhrimatī, and tells the history that a king's daughter who had a eunuch as husband praised the Aśvin gods much and pleased them; pleased by her praise, the Aśvin gods appeared and, according to her wish, granted a boon that a son having the name Hiraṇyahasta (a son) should be born. Skandasvāmin says:
+
+वध्रिमती नाम योध्री संग्रामे शत्रुभिश्चिन्नहस्ता अश्विनौ तुष्टाव । तस्याः अश्विनौ हिरण्यहस्तं ददतुः इति (*vadhrimatī nāma yodhrī saṃgrāme śatrubhiścinnahastā aśvinau tuṣṭāva | tasyāḥ aśvinau hiraṇyahastaṃ dadatuḥ iti*)
+
+Since the hand of the woman warrior named Vadhrimatī was cut off by enemies in battle, she praised the Aśvin gods. At her wish they made the hand as it had been before. That hand was also made of gold, he says, and: हिरण्मयौ हस्तौ यस्मिन् स हिरण्यहस्तः । बाहुः (*hiraṇmayau hastau yasmin sa hiraṇyahastaḥ | bāhuḥ*) The word hiraṇya means gold; therefore he has explained it as one having a golden arm.
+
+### Printed p. 955
+
+Sāyaṇa has explained the meaning of the word hiraṇyahasta as हितरमणीयपाणिं (*hitaramaṇīyapāṇiṃ*), one having a (beneficial) pleasant, beautiful hand, or else one bearing the name Hiraṇyahasta, and he has explained it as an epithet of the son.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं विप्र॑स्य जर॒णामु॑पे॒युषः॒ पुनः॑ क॒लेर॑कृणुतं॒ युव॒द्वयः॑ ।  
+> यु॒वं वंद॑नमृश्य॒दादुदू॑पथुर्यु॒वं स॒द्यो वि॒श्वला॒मेत॑वे कृथः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । विप्रस्य । जरणां । उपईयुषः । पुनरिति । कलेः । अकृणुतं । युवत् ।  
+> वयः ।  
+> युवं । वंदनं । ऋश्यदात् । उत् । ऊपथुः । युवं । सद्यः । विश्वलां । एतवे  
+> कृथः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां विप्रस्य मेधाविनो जरणां जरामुपेयुष
+> उपगतवतः कलेः कलिनामधेयस्यर्षॆर्वयः पुनरपि यवद्युवत्वयुक्तमकृणुतं ।
+> अकुरुतं । तथा च निगमांतरं । कलिं याभिर्वित्तजानिं दुवस्यथः । ऋ- १-११२-१५ ।
+> इति । किंच युवं युवां वंदनं जायावियोगसंतापेन कूपपतितं वंदनाख्यमृषिमृश्यदात्कूपादुदूपथुः । उदैरयतं । तथा निगमांतरं । उद्वंदनमैरयतं स्वर्दृशे । ऋ. १-११२-५ । इति । किंच युवं युवां विश्वलां । खीलस्य
+> राज्यः सेनायां योद्ध्री विश्वला नाम काचित् स्त्री । तां संग्रामे शत्रुभिश्शिन्नजंघां सद्यस्तदैवैतवे गमनाय कृधः । अकुरुतं । तथा च निगमांतरं । चरित्रं
+> हि वेरिवाच्छेदि पर्णमाजा खीलस्य परितक्कायां । सद्यो जंघामायसीं विश्वलाय्कॆ धने हिते सर्तवे प्रत्यधत्तं । ऋ. १-११६-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aśvins, you made again youthful the age of the wise Kali, a seer who had reached old age. As another text says: कलिं याभिर्वित्तजानिं दुवस्यथः (*kaliṃ yābhirvittajāniṃ duvasyathaḥ*) (Ṛ. 1-112-15) **NOTE**. Further, you lifted Vandana, who had fallen into a well in the pain of separation from his wife, out of the well. As another text says: उद्वंदनमैरयतं स्वर्दृशे (*udvaṃdanamairayataṃ svardṛśe*) (Ṛ. 1-112-5). Further, Viśvalā, a woman warrior in the army of the king Khīla, had her leg cut off by enemies in battle; at that very moment you made her able to walk. As another text says: चरित्रं हि वेरिवाच्छेदि पर्णमाजा खीलस्य परितक्कायां । सद्यो जंघामायसीं विश्वलाय्कॆ धने हिते सर्तवे प्रत्यधत्तं । (*caritraṃ hi verivācchedi parṇamājā khīlasya paritakkāyāṃ | sadyo jaṃghāmāyasīṃ viśvalāykè dhane hite sartave pratyadhattaṃ |*) (Ṛ. 1-116-15).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं (*yuvaṃ*)—you (O Aśvin gods)
+- विप्रस्य (*viprasya*)—of the wise one
+- जरणां उपेयुषः (*jaraṇāṃ upeyuṣaḥ*)—who was approaching old age
+- कलेः (*kaleḥ*)—to the seer called Kali
+- वयः (*vayaḥ*)—his age
+
+### Printed p. 956
+
+- पुनः (*punaḥ*)—again
+- युवत् (*yuvat*)—so that he gained youth
+- अकृणुतं (*akṛṇutaṃ*)—you made
+- युवं (*yuvaṃ*)—you
+- वंदनं (*vaṃdanaṃ*)—Vandana, who had fallen into a well
+- ऋश्यदात् (*ṛśyadāt*)—from the well
+- उदूपथुः (*udūpathuḥ*)—you lifted out
+- युवं (*yuvaṃ*)—you
+- सद्यः (*sadyaḥ*)—at once
+- विश्वलां (*viśvalāṃ*)—the lame Viśvalā
+- एतवे (*etave*)—able to walk
+- कृथः (*kṛthaḥ*)—you made
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, to the seer called Kali, who was wise and approaching old age, you restored his age, so that he gained youth again. You lifted Vandana, who had fallen into a well, out of the well. To Viśvalā, who had become lame in battle, you gave a leg and made her walk.
+
+##### English translation
+You made young again the life of the sage Kali, when approaching old age, you rescued Vandana from the well; you quickly enabled Vishpala to walk.
+
+##### विशेषविषयगळु (Special Topics)
+
+युवं विप्रस्य जरणां उपेयुषः कलेः वयः पुनः युवत् अकृणुतं (*yuvaṃ viprasya jaraṇāṃ upeyuṣaḥ kaleḥ vayaḥ punaḥ yuvat akṛṇutaṃ*)—It is praised here that, O Aśvin gods, you made the seer called Kali, who was advanced in age and had a worn-out body, a youth again. Kutsa also described this matter in Ṛk 1-112-15:
+
+याभिर्नम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तजानिं दुवस्यथः । (*yābhirnamraṃ vipipānamupastutaṃ kaliṃ yābhirvittajāniṃ duvasyathaḥ |*) (Ṛ. Saṃ. 1-112-15)
+
+कलिर्नाम ऋषिर्जय्या तरीतस्तरुणीं भार्यां लेभे । स तत्रैत्यै पुनर्यौवनमात्मन इच्छन् अश्विनौ तुष्टाव । तमागत्याश्विन् पुनर्यौवनं चक्रतुरिति । (*kalirnāma ṛṣirjayyā tarītastaruṇīṃ bhāryāṃ lebhe | sa tatraityai punaryauvanamātmana icchan aśvinau tuṣṭāva | tamāgatyāśvin punaryauvanaṃ cakraturiti |*) The story is that the seer called Kali, after he had grown old, married a young girl. Wishing to regain youth in order to win her over, he praised the Aśvin gods, and they brought youth back to him. This matter is described also in the present Ṛk.
+
+वंदनं (*vaṃdanaṃ*)—अत्रेदमाख्यानं । वंदनो नाम कश्चिदृषिः । स चासुरैः कूपे निखात उत्तरीतुमशक्नुवन्नश्विनावस्तौत् । तमश्विन् कूपादुन्निन्यतुरिति । तदाह ॥ (*atredamākhyānaṃ | vaṃdano nāma kaścidṛṣiḥ | sa cāsuraiḥ kūpe nikhāta uttarītumaśaknuvannaśvināvastaut | tamaśvin kūpādunninyaturiti | tadāha ‖*)
+
+### Printed p. 957
+
+A seer called Vandana had been thrown by asuras into a well in a lonely place in the middle of a forest. Unable to rise from there, he praised the Aśvin gods. The history told here is that the Aśvin gods, protectors of the righteous, knowing the plight of this seer, lifted him out of the well and saved him, as one gladly takes out wealth hidden in a well. This protection of the seer by the Aśvin gods is praised as one that is visible to all who look on, to be praised by all, to be honoured by all.
+
+याभी रेभं निवृतं सितमद्भ्य उद्वंदनमैरयतं स्वर्दृशे । (*yābhī rebhaṃ nivṛtaṃ sitamadbhya udvaṃdanamairayataṃ svardṛśe |*)
+
+याभिः कण्वं प्रसिषासंतमापतं ताभिरू షు ऊतिभिरश्विना गतं ॥ (*yābhiḥ kaṇvaṃ prasiṣāsaṃtamāpataṃ tābhirū షు ūtibhiraśvinā gataṃ ‖*)
+
+(Ṛ. Saṃ. 1-112-5)
+
+In this Ṛk it is said that they saved Rebha, Vandana and Kaṇva, who had fallen into a well. Skandasvāmin, citing this Ṛk, says:
+
+रेभमृषिं संध्याकाले स्नात्वा ह्रदादुत्तीर्णं अग्निहोत्रं होतुं स्वाश्रमं गच्छंतं असुरा ददृशुः । ते देवानामयं यष्टा स्तोता चेति ज्ञात्वा संक्रुद्धाः तं ताडयित्वा बध्वा च तस्मिन् ह्रदे प्रक्षिप्य दशरात्रं धारयां चक्रुः (*rebhamṛṣiṃ saṃdhyākāle snātvā hradāduttīrṇaṃ agnihotraṃ hotuṃ svāśramaṃ gacchaṃtaṃ asurā dadṛśuḥ | te devānāmayaṃ yaṣṭā stotā ceti jñātvā saṃkruddhāḥ taṃ tāḍayitvā badhvā ca tasmin hrade prakṣipya daśarātraṃ dhārayāṃ cakruḥ*)
+
+The seer called Rebha, after bathing at the time of twilight, was coming out of the river and returning to his hermitage to perform the Agnihotra, when the asuras saw him; knowing that this seer worships the gods with sacrifice, they were angry with him, struck him, bound him with a rope, threw him into a well and kept him hidden there for ten nights. Afterwards, pleased with his praise, the Aśvin gods saved that seer; thus it is described. In some Ṛks it is described that asuras had pushed both Rebha and Vandana into a well, and that when they praised the Aśvin gods they were saved. In some places only the matter of Vandana is told.
+
+शुभे रुक्ष्मं न दर्शतं निखातमुदूपथुरश्विना वंदनाय । (*śubhe rukṣmaṃ na darśataṃ nikhātamudūpathuraśvinā vaṃdanāya |*) (Ṛ. Saṃ. 1-107-5)
+
+युवं वंदनमृश्यदादुदूपथुर्युर्वं सद्यो विश्वलामेशवे कृथः । (*yuvaṃ vaṃdanamṛśyadādudūpathuryurvaṃ sadyo viśvalāmeśave kṛthaḥ |*) (Ṛ. Saṃ. 10-39-8)
+
+In some other Ṛks,
+
+### Printed p. 958
+
+युवं शयोरवसं पिप्यथुर्गवि प्र दीर्घेण वंदनस्तार्यायुषा (*yuvaṃ śayoravasaṃ pipyathurgavi pra dīrgheṇa vaṃdanastāryāyuṣā*) (Ṛ. Saṃ. 1-119-6)
+
+उद्वंदनमैरतं दंसनाभिरुद्रेभं दस्रा वृषणा शचीभिः । (*udvaṃdanamairataṃ daṃsanābhirudrebhaṃ dasrā vṛṣaṇā śacībhiḥ |*) (Ṛ. Saṃ. 1 118-6.) **NOTE**
+
+युवं वंदनं निर्ऋतं जरण्यया रथं न दस्रा करणा समिन्वथः । (*yuvaṃ vaṃdanaṃ nirṛtaṃ jaraṇyayā rathaṃ na dasrā karaṇā saminvathaḥ |*) (Ṛ. Saṃ. 1-119-7)
+
+there is praise that they made Vandana's worn-out body like the body of a youth and caused him to live for a long time.
+
+विश्वलां (*viśvalāṃ*)—King Khela made the seer Agastya his priest. He had also a wife named Viśvalā. While war was going on with enemies, the foot of the woman Viśvalā was cut off. Then the seer Agastya praised the Aśvin gods so that Viśvalā might have a leg; the Aśvin gods came by night and, in place of her cut-off legs, joined iron legs, and made it so that this woman had feet: this history is told here. This matter is described in the Ṛks
+
+याभिर्विश्वलां धनसामथर्व्यं सहस्रमीळ्ह आजावजिन्वतं । (*yābhirviśvalāṃ dhanasāmatharvyaṃ sahasramīḷha ājāvajinvataṃ |*) (Ṛ. Saṃ. 1-112-10)
+
+अगस्त्ये ब्रह्मणा वावृधाना सं विश्वाला नासत्या परिणीतं । (*agastye brahmaṇā vāvṛdhānā saṃ viśvālā nāsatyā pariṇītaṃ |*) (Ṛ. Saṃ. 1-117-11)
+
+अमुंचतं वर्तिकामंहसो निः प्रति जंघां विश्वलाया अधत्तं । (*amuṃcataṃ vartikāmaṃhaso niḥ prati jaṃghāṃ viśvalāyā adhattaṃ |*) (Ṛ. Saṃ. 1-118-8)
+
+युवं वंदनमृश्यदादुदूपथुर्युवं सद्यो विश्वलामेतवे कृथः । (*yuvaṃ vaṃdanamṛśyadādudūpathuryuvaṃ sadyo viśvalāmetave kṛthaḥ |*) (Ṛ. Saṃ. 10-39-8)
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह॑ रे॒भं वृ॑षणा॒ गुहा॑ हि॒तमुदै॑रयतं ममृ॒वांस॑मश्विना ।
+
+### Printed p. 959
+
+> युवमृबीसमुत तप्तमत्रय ओमन्वंतं चक्रथुः सप्तवध्रये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । ह । रेभं । वृषणा । गुहा । हितं । उत् । ऐरयतं । ममृवांसं।  
+> अश्विना ।  
+> युवं । ऋबीसं । उत । तप्तं । अत्रये । ओमन्सवंतं । चक्रथुः । सप्तवध्रये ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषणा वर्षितारावश्विनाश्विन् युवं युवां गुहा गुहायां हितमसु.
+> रैर्निहितं ममृवांसं म्रियमाणं रेभं रेभाख्यमृषिमुदैरयतं । उत्तरितवंतौ
+> स्थः । तथा च निगमांतरं । दश रात्रीरशिवेना नव द्योनवनद्धं शृथितमप्स्यंतः ।
+> विप्रुतं रेभमुदनि प्रवृक्तमुन्निन्यथुः सोममिव स्रुवेण । ऋ. १-११६-२४ । इति ।
+> उत किंच युवं युवां तप्तमृबीसमग्नि कुंडमत्रयेऽत्रेरर्थायौमन्वंतमवनवंतं चक्रथुः । वृष्टा निशमय्य शीतं कृतवंतौ स्थ इत्यर्थः । तथा च निगमांतरं । हिमेनाग्निं घ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तं । ऋबीसे
+> अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति । ऋ. १-११६-८ । इति । किंच युवां
+> सप्तवध्रयेऽश्वमेधेन राज्या केनचिदपराधेन काष्ठमयमंजूषायां निहितस्य
+> सप्तवध्रिनामधेयस्यर्षेरर्थाय चक्रथुः । मंजूषोद्घाटनं कृतवंतौ स्थ
+> इत्यर्थः । तथा च निगमांतरं । वि जिहीष्ट वनस्पते योनिः सूष्यंत्या इव । श्रुतं
+> मे अश्विना हवं सप्तवध्रिं च मुंचतं । ऋ. ५-७८-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O showering Aśvins, you lifted up the seer called Rebha, who lay dying, hidden in a cave by asuras. As another text says: दश रात्रीरशिवेना नव द्योनवनद्धं शृथितमप्स्यंतः । विप्रुतं रेभमुदनि प्रवृक्तमुन्निन्यथुः सोममिव स्रुवेण । (*daśa rātrīraśivenā nava dyonavanaddhaṃ śṛthitamapsyaṃtaḥ | viprutaṃ rebhamudani pravṛktamunninyathuḥ somamiva sruveṇa |*) (Ṛ. 1-116-24). And further, you made the heated fire-pit cool for Atri. **NOTE**. As another text says: हिमेनाग्निं घ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तं । ऋबीसे अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति । (*himenāgniṃ ghraṃsamavārayethāṃ pitumatīmūrjamasmā adhattaṃ | ṛbīse atrimaśvināvanītamunninyathuḥ sarvagaṇaṃ svasti |*) (Ṛ. 1-116-8). And further, for the seer named Saptavadhri, who had been put into a wooden box by a queen on account of some offence, you opened the box. **NOTE**. As another text says: वि जिहीष्ट वनस्पते योनिः सूष्यंत्या इव । श्रुतं मे अश्विना हवं सप्तवध्रिं च मुंचतं । (*vi jihīṣṭa vanaspate yoniḥ sūṣyaṃtyā iva | śrutaṃ me aśvinā havaṃ saptavadhriṃ ca muṃcataṃ |*) (Ṛ. 5-78-5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—showering rain
+- अश्विना (*aśvinā*)—O Aśvin gods
+- युवं (*yuvaṃ*)—you
+- गुहा (*guhā*)—in a cave
+- हितं (*hitaṃ*)—who had been shut up
+- ममृवांसं (*mamṛvāṃsaṃ*)—who was at the point of dying
+- रेभं (*rebhaṃ*)—the seer called Rebha
+- उदैरयतं (*udairayataṃ*)—you lifted up
+- उत (*uta*)—and
+- युवं (*yuvaṃ*)—you
+- तप्तं (*taptaṃ*)—burning
+- ऋबीसं (*ṛbīsaṃ*)—the fire-pit
+- अत्रये (*atraye*)—to help the seer Atri
+- ओमन्वंतं (*omanvaṃtaṃ*)—so that it became cool
+- चक्रथुः (*cakrathuḥ*)—you made
+- सप्तवध्रये (*saptavadhraye*)—to Saptavadhri you gave freedom
+
 ---
 
-**Progress note:** Done through printed p. 953. Sukta 39 Rk 5-7 (Ashvins), Tugra's son, Ghosha, Vimada
+**Progress note:** Done through printed p. 959. Sukta 39 Rk 7 special topics, Rk 8-9 (Kali, Vandana, Vishvala, Rebha, Atri)
