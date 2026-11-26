@@ -6613,6 +6613,258 @@ I have kept up in them that which no deity, not even Twashtri, has maintained, b
 > एव । देवान् । इंद्रः । विव्ये । नृन् । प्र । च्यात्नेन । मघवा । सत्यराधाः ।  
 > विश्वा । इत् । ता । ते । हरिर्वः । शचीवः । अभि । तुरासः । स्वयशः । गृणंति ॥ ११ ॥
 
+### Printed p. 212
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथानयेंद्र इंद्रभावं परित्यज्य ऋषिभावेनाह । एवैवमुक्तप्रकारेण
+> देवान्न्यांश्चेंद्रो देवः प्र विव्ये । प्रकर्षेण गमयति । तस्मात्पराचीः प्रजाः प्र
+> वीयंते प्रतीचीर्जायंते । तै. सं. ६-३-१-४ । इति ब्राह्मणं । किमन्यसहायेन
+> नेत्याह । च्यौत्नेन स्वीयेन बलेन । कीदृश इंद्रः । मघवा धनवान् सत्यराधाः
+> सत्यधनः । अथ प्रत्यक्षेणाह । हे हरिवो हरिभ्यां तद्वञ्चीवः कर्मवन् हे स्वयशः
+> स्वायत्तकीर्तेऽन्नवन्नवेंद्र ता तानि विश्वा सर्वाणि कर्माणि ते तव संबंधीनि येषु
+> कर्मसु तुरासस्वरमाणा ऋत्विजोऽभि गृणंति अभिष्टुवंति ॥
+
+##### Gist of the bhāṣya
+
+Now Indra, giving up the standpoint of Indra, speaks as a Ṛṣi. एव (*eva*) means "in the manner stated". Indra, the god, प्र विव्ये (*pra vivye*) — sends forth, drives on, both gods and others. Sāyaṇa quotes the Brāhmaṇa: "Therefore creatures turn away (पराचीः (*parācīḥ*)) and are born facing us (*pratīcīḥ*)" (Tai. Saṃ. 6-3-1-4). Does he act with another's help? No: च्यौत्नेन (*cyautnena*) means by his own strength. Of what kind is Indra? मघवा (*maghavā*) is the wealthy one, सत्यराधाः (*satyarādhāḥ*) one whose wealth is true. Then he speaks directly: O हरिवः (*harivaḥ*), lord of the two bay horses, one possessed of deeds (*śacīvaḥ*), O स्वयशः (*svayaśaḥ*), one whose fame rests on himself, or one possessing food, Indra: all those (ता विश्वा (*tā viśvā*)) deeds of yours, in which the hastening (तुरासः (*turāsaḥ*)) priests glorify you (अभि गृणंति (*abhi gṛṇaṃti*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—the wealthy one
+- सत्यराधाः (*satyarādhāḥ*)—one possessing true wealth
+- इंद्रः (*iṃdraḥ*)—Indra
+- एव (*eva*)—in this manner
+- देवान् (*devān*)—gods
+- नृन् (*nṛn*)—men
+- चौत्नेन (*cautnena*)—by his own power and capacity
+- प्र विव्ये (*pra vivye*)—favours excellently
+- हरिवः (*harivaḥ*)—O one possessing the horses called Hari
+- शचिवः (*śacivaḥ*)—doer of daring deeds
+- स्वयशः (*svayaśaḥ*)—O Indra, famous or possessing food
+- ता विश्वा (*tā viśvā*)—all these deeds
+- तुरासः (*turāsaḥ*)—those who quickly praise you
+- ते (*te*)—those priests
+- अभि गृणंति (*abhi gṛṇaṃti*)—extol and praise
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has true wealth and is rich, thus favours abundantly, by his own power, gods and men. O Indra, doer of daring deeds, possessor of the horses called Hari, possessor of fame or food, those priests who praise you quickly extol greatly your renowned daring deeds.
+
+##### English translation
+Indra speaks as Rishi :) In this manner does Indra, the possessor of opulence, the affluent in truth, by his energy stimulate both gods and men : lord of horses, doer of great deeds, renowned (Indra), the eager (priests) glorify all these (your actions).
+
+## Sūkta 50 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वो मह इति सप्तर्चमष्टमं सूक्तं ॥ आदितो द्वे जगत्यौ । के ते नर
+> इत्यादिके द्वे अभिसारिण्यौ । आदितो द्वै दशाक्षरौ ततो द्वै द्वादशकौ साभिसारिणीः।
+
+### Printed p. 213
+
+> तदुक्तं । वैराज् जागत् चाभिसारिणी । अनु. ९-४ । इति॥ ततस्त्रिष्टुबेका । ततो द्वे
+> जगत्यौ। पूर्ववदृषिदेवते । तथा चानुक्रांतं।प्र वो महे सप्त द्विजगत्याद्यंतं के
+> तेऽभिसारिण्याविति ॥ महाव्रते निष्केवल्य एतत्तूक्तं निविद्धानं । सूत्रितं च । प्र वो
+> महे मंदमानायांधस इति निविद्धानं । ऐ.आ.५-३-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+प्र वो मह (*pra vo maha*) is the eighth sūkta, of seven Ṛks. The first two are Jagatī; the two beginning के ते नर (*ke te nara*) are Abhisāriṇī. Abhisāriṇī has two ten-syllable pādas followed by two twelve-syllable ones; this is stated: "Vairāja and Jāgata make the Abhisāriṇī" (Anu. 9-4). Then one Tristubh, then two Jagatī. Ṛṣi and deity as before. The Anukramaṇī says: प्र वो महे सप्त द्विजगत्याद्यंतं के तेऽभिसारिण्याविति (*pra vo mahe sapta dvijagatyādyaṃtaṃ ke te 'bhisāriṇyāviti*). In the Mahāvrata this sūkta is used as the nividdhāna in the Niṣkevalya; it is prescribed: प्र वो महे मंदमानायांधस इति निविद्धानं (*pra vo mahe maṃdamānāyāṃdhasa iti nividdhānaṃ*) (Ai. Ā. 5-3-1).
+
+##### Anuvāda (Kannada commentary)
+
+This sūkta प्र वो महे (*pra vo mahe*) is the eighth sūkta in the fourth anuvāka. It has seven Ṛks. Its first two Ṛks are in the Jagatī metre. The two Ṛks beginning के ते नरः (*ke te naraḥ*) (Ṛks 3–4) are in the metre called Abhisāriṇī. If a Ṛk has four pādas, the first two of ten syllables each and the next two of twelve each, it is called Abhisāriṇī (Anu. 9-4). The next Ṛk (Ṛk 5) is in Triṣṭubh. The next two Ṛks (6–7) are in Jagatī. The ṛṣi and deity of this sūkta are as in the previous sūkta. The Anukramaṇī says: प्र वो महे सप्त द्विजगताद्यंतं के तेऽभिसारिण्य (*pra vo mahe sapta dvijagatādyaṃtaṃ ke te 'bhisāriṇya*). In the Mahāvratestī, in the recitation of the Niṣkevalya-śastra mantras, this sūkta is to be recited as the nividdhāna sūkta, as indicated by the Aitareya Āraṇyaka sentence प्र वो महे मंदमानायांधस इति निविद्वानं (*pra vo mahe maṃdamānāyāṃdhasa iti nividvānaṃ*) (Ai. Ā. 5-3-1).
+
+Maṇḍala 10, Anuvāka 4, Sūkta 50. Aṣṭaka 8, Adhyāya 1, Varga 9. Number of Ṛks in the sūkta: 7. Ṛṣi: Indra Vaikuṇṭha. Deity: Indra Vaikuṇṭha. Metre: 1, 2, 6, 7 Jagatī; 3–4 Abhisāriṇī; 5 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ म॒हे मंद॑माना॒यांध॒सोऽर्चा॑ वि॒श्वान॑राय  ॒॑
+> विश्वा॒भुवे॑ ।  
+> इंद्र॑स्य॒ यस्य॒ सुम॑खं॒ सहो॒ महि॒ श्रवो॑ नृ॒ण्णं च॒ रोद॑सी  ॒॑
+> सपर्यतः ॥ १ ॥
+
+### Printed p. 214
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । महे । मंदमानाय । अंधसः। अर्च । विश्वानराय । विश्वभुवे ।  
+> इंद्रस्य । यस्य । सुमखं । सहः । महि । श्रवः । नृम्णं । च। रोदसी इति । सपर्यतः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः वस्त्रं ॥ पूजार्थे बहुवचनं ॥ महे महतेऽंधसः । अंधसेत्यर्थः । सोमेन मंडमानाय मोदमानायि विश्वानराय सर्वस्य नेत्रे ॥
+> नरे संज्ञायामिति दीर्घः ॥ विश्वाभुवे सर्वस्य भावयित्रे मह्यमिंद्राय प्रार्च ।
+> अर्चतिः स्तुतिकर्मा । प्रोच्चारय । यस्य ममेंद्रस्य सुमखं सुष्टु मंहनीयं
+> सहो बलं महि महच्छ्रवोऽन्नं नृण्णं सुखं च रोदसी द्यावापृथिव्यौ
+> सपर्यतः । पूजयतः । तस्मा इंद्रायार्चेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O singer, वः (*vaḥ*) is "you" (plural of respect). *mahe aṃdhasaḥ* means with great food, that is, Soma; address your praise to me, Indra, who am exhilarated (मंदमानाय (*maṃdamānāya*)) by it, to विश्वानराय (*viśvānarāya*), leader of all (the lengthening by "nare saṃjñāyām"), to विश्वाभुवे (*viśvābhuve*), the cause of the existence of all. अर्चतिः (*arcatiḥ*) is a root of praise: utter it. Of me, Indra, whose worshipful (सुमखं (*sumakhaṃ*)) strength, great food (श्रवः (*śravaḥ*)) and happiness (नृण्णं (*nṛṇṇaṃ*)), heaven and earth (रोदसी (*rodasī*)) honour (सपर्यतः (*saparyataḥ*)). The construction is: sing to that Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O singer) वः (*vaḥ*)—you
+- महे (*mahe*)—abundant
+- अंधसः (*aṃdhasaḥ*)—with food in the form of Soma
+- मंदमानाय (*maṃdamānāya*)—to the one delighted
+- विश्वानराय (*viśvānarāya*)—guide of all
+- विश्वाभुवे (*viśvābhuve*)—cause of all origination; to Indra, so described
+- प्र अर्च (*pra arca*)—recite praise
+- यस्य इंद्रस्य (*yasya iṃdrasya*)—of which me (Indra)
+- सुमखं (*sumakhaṃ*)—worshipful
+- सहः (*sahaḥ*)—strength
+- महि (*mahi*)—great
+- श्रवः (*śravaḥ*)—food
+- नृम्णं च (*nṛmṇaṃ ca*)—and happiness too
+- रोदसी (*rodasī*)—heaven and earth
+- सपर्यतः (*saparyataḥ*)—praise (honour) and worship
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth greatly praise and worship my, Indra's, worshipful, that is, exceeding strength, the abundant food in me, and the happiness I give to those who serve me. O singer, recite praise to that Indra, who is satisfied by abundant Soma-drinking, guide of all and cause of all.
+
+##### English translation
+Worship him who is exhilarated by the sacrificial food, the mighty
+Indra, the leader of all men, the creator of all, whose venerable strength
+and abundant food and wealth, heaven and earth adore.
+
+#### Ṛk 2
+### Printed p. 215
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो चि॒न्नु सख्या॒ नर्य॑ इ॒नः स्तु॒तश्च॒र्कृत्य॒ इंद्रो॒ माव॑ते॒ नरे॑ ।  
+> विश्वा॑सु धू॒र्षु वा॑ज॒कृत्ये॑षु सत्पते वृ॒त्रे वा॒प्व१॒ं॑भि शू॑र  
+> मंदसे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । चित् । नु । सख्या । नर्यः । इनः । स्तुतः । चर्कृत्यः । इंद्रः । मावते । नरे ।  
+> विश्वासु । धूःऽसु । वाजकृत्येषु । सत्pपते। वृत्रे । वा । अप्ऽसु। अभि । शूर ।  
+> मंदसे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सो चिन्नु स खल्विंद्रः सख्या सखिभूतेन निमित्तेन नर्यो नृभ्यो हित इनः
+> सर्वस्येश्वरः स्तुतः सर्वैरभिष्टुतः । सख्या स्तुत इति वान्वयः । मावते मत्सदृशाय
+> नरे नराय चर्कृत्यः । पुनःपुनः कर्तव्यः । परिचरणीय इत्यर्थः । अथ प्रत्यक्षवादः।
+> हे सत्पते सतां पालकेंद्र स त्वं विश्वासु सर्वासु धूर्षु वोढव्येषु कार्यभारेषु वाजकृत्येषु च बलकृत्येषु च वृत्रे वाप्सु मेघे वर्तमानेषूदकेषु च
+> निमित्तेषु हे शूर त्वमभि मंदसे । अभिष्टूयसे ॥
+
+##### Gist of the bhāṣya
+
+सो चिन्नु (*so cinnu*): that Indra, by way of friendship (सख्या (*sakhyā*)), is beneficial to men (नर्यः (*naryaḥ*)), lord (इनः (*inaḥ*)) of all, praised (स्तुतः (*stutaḥ*)) by all; or "praised through friendship". For one like me, a man, he is चर्कृत्यः (*carkṛtyaḥ*), to be done again and again, that is, to be served. Then direct address: O सत्पते (*satpate*), protector of the good, you, hero (शूर (*śūra*)), in all burdens to be borne (धूर्षु (*dhūrṣu*)), in deeds of strength (वाजकृत्येषु (*vājakṛtyeṣu*)), and in the waters abiding in the cloud of Vṛtra (वृत्रे वाप्सु (*vṛtre vāpsu*)), as occasions, are glorified (अभि मंदसे (*abhi maṃdase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः चिन्नु इंद्रः (*saḥ cinnu iṃdraḥ*)—that very Indra
+- सख्या (*sakhyā*)—by reason of friendship
+- नर्यः (*naryaḥ*)—beneficial to men
+- इनः (*inaḥ*)—lord of all
+- स्तुतः (*stutaḥ*)—praised by all
+- मावते नरे (*māvate nare*)—by a man like me
+- चर्कृत्यः (*carkṛtyaḥ*)—worthy to be served again and again
+- शूर (*śūra*)—O valiant
+- सत्पते (*satpate*)—O Indra, protector of the good, you
+- विश्वासु (*viśvāsu*)—in all
+- धूर्षु (*dhūrṣu*)—that which bears and nourishes all
+- वाजकृत्येषु (*vājakṛtyeṣu*)—accompanied by daring deeds
+- वृत्रे (*vṛtre*)—enveloping
+- वाप्पु (*vāppu*)—in the waters of the cloud
+- अभि मंदसे (*abhi maṃdase*)—you rejoice with delight
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra, beneficial to men, lord of all and praised by all, is moreover, by way of friendship, worthy of repeated praise from men like me. O valiant Indra, protector of the good, you rejoice, displaying your power and valour in the cloud-waters, which sustain and nourish all, which are accompanied by daring deeds, and which relate to the demon Vṛtra.
+
+### Printed p. 216
+
+##### English translation
+That Indra, kind to man, the lord of all, who is praised by his friend,
+is to be repeatedly honoured by men like me; you, hero, protector of the
+good, are glorified in the all-sustaining food-producing cloud-imprisoned
+waters.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> के ते नर॑ इंद्र॒ ये त॑ इ॒षे ये ते॑ सु॒म्मं स॑ध॒न्य१॒॑ १ मिय॑क्षान् ।  
+> के ते॒ वाजा॑यासु॒र्या॑य हिन्विरे॒ के अ॒प्पु स्वासू॒र्वरा॑सु॒  ॑
+> पौंस्यॆ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । ते । नरः । इंद्र । ये । ते । इषे । ये । ते । सुम्नं । सधन्यं । इयक्षान् ।  
+> के । ते । वाजाय । आसुर्याय । हिन्विरे । के । अप्सु । स्वासु । उर्वरासु ।  
+> पांस्ये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते के नरः के मनुष्या इति प्रश्नॆः । ते महांतो मया ज्ञातव्या
+> इत्यभिप्रायः । प्रष्टव्यानाह । ये नरास्ते तवेषेऽन्नाय प्रभवंतीति शेषः । ये
+> च ते सुम्मं सुखं त्वदीयं सधन्यं धनयुक्तमियक्षान् गच्छंति । इयक्षतिर्गतिकर्मा । त्वदीयमन्नं सुखं धनं च ये लभंते ते के महात्मान इति । किंच के
+> ते तवासुर्यायासुरसंबंधिने तेषां वधनिमित्ताय वाजाय बलाय हिन्विरे ।
+> प्रेरयंति सोमादि हविः । के वाप्सु स्वासु स्वापेक्षितेषादकेषूर्वरासु सर्वसस्याढ्यासु भूमिषु पौंस्ये पुंस्वे चेति तेषु निमित्तभूतेषु हविः प्रेरयंतीत्यनुवर्तते । उक्तविधा महांतो दुर्लभा इति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, "who are those men?" is a question; the sense is that they are great and must be known by me. He names those to be asked about: the men who have power for your food (इषे (*iṣe*)); and those who go (इयक्षान् (*iyakṣān*); इयक्षति (*iyakṣati*) is a root of motion) to your happiness (सुम्मं (*summaṃ*)) accompanied by wealth (सधन्यं (*sadhanyaṃ*)); those who obtain your food, happiness and wealth: who are those great ones? Further: who are those who send (हिन्विरे (*hinvire*)) Soma and other oblations to your strength (वाजाय (*vājāya*)) of the Asura-slaying kind (आसुर्याय (*āsuryāya*))? Who, in their own desired waters, in fertile lands rich in all crops, and in manliness (पौंस्ये (*pauṃsye*)), send oblations for these ends? "Send oblations" continues. The sense: such great ones are hard to find.
+
+### Printed p. 217
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ये (*ye*)—which men
+- ते (*te*)—in you
+- इषे (*iṣe*)—are able to obtain food
+- ते के (*te ke*)—who are they
+- ये च (*ye ca*)—and which men
+- ते (*te*)—obtained from you
+- सधन्यं (*sadhanyaṃ*)—accompanied by wealth
+- सुम्मं (*summaṃ*)—happiness
+- इयक्षान् (*iyakṣān*)—obtain; who are those men
+- ते (*te*)—your
+- असुर्याय (*asuryāya*)—for the slaying of Asuras
+- वाजाय (*vājāya*)—strength (zeal)
+- हिन्विरे ते (*hinvire te*)—the men who urge
+- के (*ke*)—who
+- स्वासु (*svāsu*)—that they desire
+- अप्पु (*appu*)—waters
+- उर्वरासु (*urvarāsu*)—land rich in all crops
+- पौंस्यॆ (*pauṃsyè*)—abundant manliness or strength: who urge you to give these
+- के ते (*ke te*)—who are such men?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are the men who obtain from you food, wealth and happiness? Who are the men who encourage you for the slaying of the Asuras and increase your strength? And who are the men able to urge you to give the rain-waters they need, land full of all crops, and abundant strength?
+
+##### English translation
+What men, Indra, are they who (are eminent) in offering food to
+you, who are desirous of obtaining from you happiness and opulence, who
+send you (oblations) for the sake of strength (to fight) the Asura, who (send
+oblations) for the sake of obtaining spontaneously-flowing waters and culti-
+vable lands, and manly vigour ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुव॒न्त्वमिं॑द्र॒ ब्रह्म॑णा म॒हान्भवो॒ विश्वे॑षु॒ सव॑नेषु  ॒॑
+> यज्ञियः ।  
+> भुवो॒ न्यंश्चौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मंत्रो॑ विश्वचर्षणे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवः । त्वं । इंद्र । ब्रह्मणा । महान् । भुवः।विश्वेषु । सवनेषु । यज्ञियः ।  
+> 28
+
 ---
 
-**Progress note:** Done through printed p. 211. pp. 206-211 (batch API)
+**Progress note:** Done through printed p. 217. pp. 212-217 (batch API), Cyrillic letters in one word replaced
