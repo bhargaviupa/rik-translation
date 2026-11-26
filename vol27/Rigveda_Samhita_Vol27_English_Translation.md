@@ -34533,7 +34533,7 @@ I proclaim, Ashwins, your ancient exploits among the people, for you were the ph
 
 ##### विशेषविषयगळु (Special Topics)
 
-It is described in many places that the Aśvin gods are the physicians of the gods. That they made the aged sage Cyavana a youth has been explained in the preceding Ṛk. The matter of their setting right the broken leg of the woman named Viśpalā, of their bringing a dead cow to life, and many more such matters are described in many places. In the Yajurveda it is said: अश्विनौ वै देवानां भिषजि (*aśvinau vai devānāṃ bhiṣaji*)
+It is described in many places that the Aśvin gods are the physicians of the gods. That they made the aged sage Cyavana a youth has been explained in the preceding Ṛk. The matter of their setting right the broken leg of the woman named Viśvalā, of their bringing a dead cow to life, and many more such matters are described in many places. In the Yajurveda it is said: अश्विनौ वै देवानां भिषजि (*aśvinau vai devānāṃ bhiṣaji*)
 
 #### Ṛk 6
 
