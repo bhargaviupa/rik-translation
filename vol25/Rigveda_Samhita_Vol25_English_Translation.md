@@ -29718,6 +29718,276 @@ The seer passes through the woollen fleece for the beverage of the gods, triumph
 > स हि ष्मा॑ जरि॒तृभ्य॒ आ वाजं॒ गोमं॑त॒मिन्व॑ति ।  
 > पव॑मानः सह॒स्रिण॑म् ॥ २ ॥
 
+### Printed p. 738
+
+> सः । हि । स्म । जरितृऽभ्यः । आ । वाजम् । गोऽमंतम् । इन्वति ।
+> पवमानः । सहस्रिणम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि ष्म स खलु पवमानः सोमः जरितृभ्यः स्तोतृभ्यः गोमंतं बहुभिगोंभिर्युक्तं सहस्रिणं सहस्रसंख्याकं वाजम् अन्नम् आ अभिमुखम् इन्वति व्याप्नोति । प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: That same purifying Soma gives to the praisers, to the singers, a thousandfold वाजम् (*vājam*), food, possessing cattle, that is, joined with many cows; he reaches towards them, he pervades, that is, he gives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि ष्म (*sa hi ṣma*)—possessing the qualities stated before
+- पवमानः (*pavamānaḥ*)—that very Soma-god
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to those who praise him
+- गोमंतं (*gomaṃtaṃ*)—possessed of many cows
+- सहस्रिणं (*sahasriṇaṃ*)—numbering a thousand (also, immeasurable)
+- वाजं (*vājaṃ*)—food
+- आ इन्वति (*ā invati*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma-god, of whom it was said before, provides to the people who praise him cows and food in the number of a thousand, or without measure.
+
+##### English translation
+Verily he, the pure-flowing, bestows upon his praisers thousands of victuals with cattle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ विश्वा॑नि॒ चेत॑सा मृ॒शसे॒ पव॑से म॒ती ।  
+> स नः॑ सोम॒ श्रवो॑ विदः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । विश्वानि । चेतसा । मृशसे । पवसे । मती ।  
+> सः । नः । सोम । श्रवः । विदः ॥ ३ ॥
+
+### Printed p. 739
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं चेतसा स्वीयेनास्मदनुकूलेन चित्तेन विश्वानि सर्वाणि धनानि परि मृशसे । प्रयच्छसीत्यर्थः । मती मत्यास्मत्स्तुत्या पवसे क्षरसि रसम्। सः त्वं हे सोम नः अस्मभ्यं श्रवः अन्नं विदः देहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, you with your own mind, favourable to us, touch all wealth around, that is, you give it. By our praise, मती (*matī*), you flow, you pour your juice. Such as you are, O Soma, give us food, श्रवः (*śravaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma, you)
+- चेतसा (*cetasā*)—with the gracious mind that you have towards us
+- विश्वानि (*viśvāni*)—all riches
+- परि मृशसे (*pari mṛśase*)—you give
+- मती (*matī*)—by the praise that we make (being pleased)
+- पवसे (*pavase*)—you pour out the juice
+- सोम (*soma*)—O Soma
+- सः (*saḥ*)—such as you are
+- नः (*naḥ*)—to us
+- श्रवः (*śravaḥ*)—food
+- विदः (*vidaḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, impelled by the gracious mind that you have placed in us, you give us all riches. Pleased by the praise we make, you pour out your juice. O Soma, such as you are, procure food for us.
+
+##### English translation
+By your favour you give to us all kinds of wealth, you flow at our praise ; grant us, O Soma, food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्ष बृ॒हद्यशो॑ म॒घव॑द्भ्यो ध्रु॒वं र॒यिम् ।  
+> इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्ष । बृहत् । यशः । मघवत्ऽभ्यः । ध्रुवम् । रयिम् ।  
+> इषम् । स्तोतृऽभ्यः । आ । भर ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम बृहद्यशः महतीं कीर्तिम् अभ्यर्ष अभिगमय । मघवद्भ्यः हविष्मद्भ्यः अस्मभ्यं ध्रुवं रयिं धनं चाभ्यर्ष । किंच इषम् अन्नं स्तोतृभ्यः अस्मभ्यम् आ भर आहर ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, make great fame अभ्यर्ष (*abhyarṣa*), that is, make it reach us. To us who possess मघवद्भ्यः (*maghavadbhyaḥ*), that is, who have oblations, make firm wealth also flow towards us. Further, bring food, इषम् (*iṣam*), to us, the praisers.
+
+### Printed p. 740
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- बृहत् यशः (*bṛhat yaśaḥ*)—great fame
+- अभि अर्ष (*abhi arṣa*)—make it come to us
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to us who offer oblations
+- ध्रुवं (*dhruvaṃ*)—imperishable
+- रयिं (*rayiṃ*)—give wealth also
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us who are praising you
+- इषं (*iṣaṃ*)—food also
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, make great fame come to us. Give imperishable wealth to us who offer oblations. Bring and provide food also to us who are praising you.
+
+##### English translation
+Bestow upon us great renown, grant durable riches to those who are profuse in their libations, bring food to your praisers.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं राजे॑व सुव्र॒तो गिरः॑ सो॒मा वि॑वेशिथ ।  
+> पु॒ना॒नो व॑ह्ने अद्भुत ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । राजाऽइव । सुऽव्रतः । गिरः । सोम । आ । विवेशिथ ।  
+> पुनानः । वह्ने । अद्भुत ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुव्रतः सुकर्मा पुनानः त्वं राजेव गिरः अस्मदीयाः स्तुतीः आ विवेशिथ आविशसि । हे वह्ने वोढः अद्भुत महन् सोम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, of good works, being purified, you enter, like a king, our praises, that is, our hymns. O bearer, O wonderful, great Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वह्ने (*vahne*)—O carrier of the sacrifice
+- अद्भुत (*adbhuta*)—and doer of wonderful deeds
+- सोम (*soma*)—O Soma
+- सुव्रते (*suvrate*)—having excellent works **NOTE**
+- पुनानः (*punānaḥ*)—and purifier
+- त्वं (*tvaṃ*)—you
+- राजेव (*rājeva*)—like a king
+- गिरः (*giraḥ*)—our words of praise
+- आ विवेशिथ (*ā viveśitha*)—accept with respect
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, conductor of the sacrifice and doer of wonderful deeds, you who purify, like a king who has carried out many excellent works, listen with respect to our words of praise.
+
+### Printed p. 741
+
+##### English translation
+Purified one, doer of good deeds, you, Soma, enter our praises like a king O wonderful bearer (of our offerings).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वह्नि॑र॒प्सु दु॒ष्टरो॑ मृ॒ज्यमा॑नो॒ गभ॑स्त्योः ।  
+> सोम॑श्च॒मूषु॑ सीदति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वह्निः । अप्ऽसु । दुस्तरः । मृज्यमानः । गभस्त्योः ।  
+> सोमः । चमूषु । सीदति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः वह्निः वोढा यज्ञादेः अप्सु अंतरिक्षे वर्तमानः दुष्टरः दुःखेनान्यैस्तरणीयः मृज्यमानः शोध्यमानः गभस्त्योः हस्तयोरेवंभूतः सन् सः चमूषु पात्रेषु सीदति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: That Soma, the bearer of the sacrifice and the rest, abiding in the waters, that is, in the firmament, hard to cross, to be crossed by others only with difficulty, being cleansed in the two hands, being such, sits down in the vessels, in the cups.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वह्निः (*vahniḥ*)—the conductor of the sacrifice
+- अप्सु (*apsu*)—dwelling in the firmament (in heaven)
+- दुष्टरः (*duṣṭaraḥ*)—unattainable by others **NOTE**
+- सः सोमः (*saḥ somaḥ*)—that Soma-god
+- गभस्त्योः (*gabhastyoḥ*)—in the hands
+- मृज्यमानः (*mṛjyamānaḥ*)—being purified
+- चमूषु (*camūṣu*)—in the vessels called camū, in which the Soma is placed
+- सीदति (*sīdati*)—is established
+
+##### भावार्थ (Bhāvārtha)
+
+That same Soma, the conductor of the sacrifice, dwelling in the firmament, unattainable by others, purified in the hands of the priests, sits (is established) in the camū vessels.
+
+##### English translation
+Soma, the bearer (of oblations), abiding in the waters of the firmament, difficult to be surpassed, being cleansed by our hands reposes in the vessels.
+
+### Printed p. 742
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्री॒ळुर्म॒खो न मं॑ह॒युः प॒वित्रं॑ सोम गच्छसि ।  
+> दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रीळुः । मखः । न । मंहयुः । पवित्रम् । सोम । गच्छसि ।  
+> दधत् । स्तोत्रे । सुऽवीर्यम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम क्रीळुः क्रीडनशीलस्त्वं मंहयुः । मंहतिर्दानकर्मा । दानेच्छुः मखो न दानमिव पवित्रं गच्छसि । किं कुर्वन् । स्तोत्रे स्तुतिकर्त्रे सुवीर्यं शोभनवीर्यं दधत् प्रयच्छन् ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, you, sportive, desiring to give, go to the filter like a gift. मंहतिर्दानकर्मा (*maṃhatirdānakarmā*): the verb has the sense of giving. What are you doing? Giving good vigour to the praiser, bestowing it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-god
+- क्रीळुः (*krīḷuḥ*)—you who are sportive
+- मंहयुः (*maṃhayuḥ*)—desiring to give gifts to the people who praise you
+- स्तोत्रे (*stotre*)—to the praiser
+- सुवीर्यं (*suvīryaṃ*)—excellent strength
+- दधत् (*dadhat*)—giving
+- मखो न (*makho na*)—like a gift
+- पवित्रं (*pavitraṃ*)—the ten-thread filter
+- गच्छसि (*gacchasi*)—you go, desiring it
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you who are sportive, desiring to give what is wished to the people who praise you, giving them excellent strength like a gift, go to the ten-thread filter, the place of purifying.
+
+##### English translation
+Soma, you proceed to the straining-cloth, sportive and generous, like a gift, giving excellent vigour to him who praises you.
+
+### Printed p. 743
+
+**The twenty-first sūkta.**
+
+## Sūkta 21 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते धावंति' इति सप्तर्चमेकविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । एते धावंति' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एते धावंति (*ete dhāvaṃti*) has seven Ṛks and is the twenty-first sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as एते धावंति (*ete dhāvaṃti*). The use has been stated.
+
+This sūkta beginning एते धावंति (*ete dhāvaṃti*) is the twenty-first sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as before. In the Anukramaṇikā it is said एते धावंति (*ete dhāvaṃti*). The use of the sūkta has been stated before.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते धा॑वं॒तींद॑वः॒ सोमा॒ इंद्रा॑य॒ घृष्व॑यः ।  
+> म॒त्स॒रासः॑ स्व॒र्विदः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । धावंति । इंदवः । सोमाः । इंद्राय । घृष्वयः ।  
+> मत्सरासः । स्वःऽविदः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमाः इंद्राय धावंति गच्छंति । कीदृशा एते । इंदवः क्लेदयितारो दीप्ता वा घृष्वयः घर्षणशीलाः मत्सरासः मादयितारः स्वर्विदः स्वर्लोकस्य लंभयितारः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: These Somas run, go, to Indra. Of what kind are these? इंदवः (*iṃdavaḥ*): moistening, or bright; घृष्वयः (*ghṛṣvayaḥ*): of rubbing nature; मत्सरासः (*matsarāsaḥ*): exhilarating; स्वर्विदः (*svarvidaḥ*): bringers of the heavenly world.
+
 ---
 
-**Progress note:** Done through printed p. 737. Sūkta 19 Ṛk 3-7, sūkta 20 Ṛk 1-2 saṃhitā (pp. 732-737)
+**Progress note:** Done through printed p. 743. Sūkta 20 Ṛk 2-7, sūkta 21 Ṛk 1 bhāṣya (pp. 738-743)
