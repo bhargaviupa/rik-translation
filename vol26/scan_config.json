@@ -8,5 +8,8 @@
  "body_from": null,
  "start": "9.97",
  "tail": null,
- "src": "vol26/html/rig_26_part2.md"
+ "raw": "vol26/work/rig_26_raw.md",
+ "final": "vol26/work/rig_26_part2_final.md",
+ "splice_into": "vol26/html/rig_26.md",
+ "splice_start": "810 \u0cb8\u0cbe\u0caf\u0ca3\u0cad\u0cbe\u0cb7\u0ccd\u0caf\u0cb8\u0cb9\u0cbf\u0ca4\u0cbe"
 }

@@ -19,19 +19,22 @@ Translated by `api_front.py 27 2 72 preface` ($0.035, checks PASS, 0 NOTE), inst
 Full plan: 163 windows, 991 pages, 3,698,515 input tokens (estimate $3.70 + output $9.25–22.19). The user has about $8 of API budget (Nov 25 2026), so the batch is cut to the FIRST 120 windows (pp. 1–about 732, 2,739,105 input tokens; expected real cost $6.7–7.1 from Vols 23 and 30: $2.4–2.6 per million input tokens). The remaining 43 windows (about pp. 733–992, about $2.4) wait for more budget: `api_batch.py plan 27 --windows 60` continues after the last committed page.
 
 ## Status
-Done through printed p. 794 (windows 1–130 of 163; the first batch 1–120 through p. 733, then a second batch of 10 windows, pp. 734–794, cost $0.58; one API batch of 120 windows submitted and collected Nov 25 2026; `batch.py audit 27` passes; `check_labels.py 27`: 1412 English blocks, 1412 Kannada, 0 not matched; `rkheads 27 --dry-run`: nothing to change). Sūktas present in order: Maṇḍala 9 Sūktas 101–114 and Maṇḍala 10 Sūktas 1–27 (41 headings). Preface translated and installed. **Real cost $6.95 + $0.58 for the two batches + $0.035 preface = $7.57 of the user's $8 (balance left about $0.22)** (estimate 2.74M input tokens: $2.5 per million). 304 `**NOTE**` marks, 383 rows in `review/notes.tsv`.
+**Done through printed p. 992: the whole volume** (colophon and benediction on p. 992). Batch API: 130 windows, pp. 1–794 (two batches, Nov 25 2026, $6.95 + $0.58); agents: the last 33 windows, pp. 795–992 (11 batches of three windows by Sonnet agents, Nov 25–26 2026, 14–23 tool uses and 157k–192k tokens each, see `parts/batch_costs.md`), after the API budget was spent. `batch.py audit 27` passes; `next 27`: "no further window"; `check_labels.py 27`: 1947 English blocks, 1947 Kannada, 0 not matched; `rkheads 27 --dry-run`: nothing to change; sūkta sequence checked by script: Maṇḍala 9 Sūktas 101–114 and Maṇḍala 10 Sūktas 1–40, all present in order; `kn_headings.py 27 --write` run (54 sūktas, 578 Ṛk headings). Ṛk counts agree with the Wikisource reference in every sūkta except Maṇḍala 10 Sūkta 10 (13 headings for 14 Ṛks: Ṛk 4 has no Saṃhitā/Pada in the supplied text, NOTE and `notes.tsv` row). 481 `**NOTE**` marks = 481 rows in `review/notes.tsv`; 9 `**GLOSS**` marks. Preface translated and installed.
 
 ## Repairs (in `review/repair_log.md`)
-10 windows stopped or failed after the commit: page mark of p. 148 (garbled head), a page heading glued into another heading (w0326), remarks (w0338, w0593), a wrongly numbered quoted verse (w0363), a glued word-list entry (w0393), garbled Pada labels (w0495, w0644), an inline quotation off from kn.md (w0611), a chapter-level `## Special Topics` heading (w0320), a second line of a Saṃhitā with its own headings (w0399).
+Batch API part: 14 windows stopped or failed after commit (list in the log). Agent part: garbled Pada label of p. 853 restored in both files; 'Viśpalā' → 'Viśvalā'; a doubled phrase on p. 989 and a cut Pratipadārtha entry on pp. 983/984 joined.
 
-## Second batch (Nov 25 2026)
-The user's API balance showed $0.80: ONE more batch of 10 windows (pp. 734–794, 243,154 input tokens, expected $0.62) submitted; `collect 27` after it ends. Then 33 windows (pp. 795–992, about $1.9) remain.
+## Finishing checklist (HANDBOOK §11), Nov 26 2026
+Done: 1 (last window p. 992, colophon and benediction), 2 (`check_labels`: 1947 English / 1948 Kannada blocks, 0 not matched, 0 under another section's label; `refs_fix`: 0 lines; `repair_inline`: 0 quotations left; `check_inline` over all windows: 0 mismatches), 3 (accent report, report only, **no `--api`** because the API budget is spent: 258 lines not matched, 13 compared; `review/accent_report.tsv`, `accent_report_pages.tsv`), 4 (`kn_headings.py 27 --write` done earlier: 54 sūktas, 578 Ṛk headings), 5 (QA: two samples by Opus agents, read-only, not told what to expect: sample 1 = 24 pages, 10 ERRORs, 20 MINORs; sample 2 = 27 pages, 5 ERRORs, 13 MINORs; **51 pages, 15 ERRORs, 33 MINORs** = 0.29 ERRORs per page; the clear findings repaired by logged edits, the rest listed at the end of `review/repair_log.md`), 7 (review lists: `notes.tsv` 483 rows, `inline_mismatch.tsv`, `page_flags.md`, `accent_report_pages.tsv`, `qa_sample.md`, `qa_sample_2.md`; `doubts.tsv` none), 8 (metrics below), 9 (lessons: `docs/LESSONS.md`). Not done: 6 (front matter and PDFs: needs the user's front-matter scan PDF; WeasyPrint and fonts are not installed).
 
-## Not done: the last 33 windows (printed pp. 795–992, Maṇḍala 10 Sūktas 28–40 and the colophon)
-They need about $1.9 more (33 windows × $0.058). When the user has the budget: `python3 tools/rv/api_batch.py plan 27 --windows 50` (free), show the estimate, `submit 27`, then the dry-run sweep and `collect 27`. The supplied text is complete (the colophon stands on p. 992).
+## Metrics
+| windows | pages | hand-fixes by kind | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA samples (pages, errors, minors) | cost |
+|---|---|---|---|---|---|---|---|---|
+| 163 (130 by the Batch API in two batches, 33 by 11 agent batches) | 992 printed (975 pages in the source, 17 numbers without a head) | 14 API stops or failed verifications (page marks 2, labels/blocks 4, remarks 2, headings 3, inline 1, glued entry 1, Ṛk heading 1) + 3 repairs after the agent batches | 14 | 0 | 0 | 258 | 51 pages, 15 errors, 33 minors | API $7.57 (two batches $6.95 + $0.58, preface $0.035); agents 11 × 157–192k tokens (about 1.9M); QA agents 2 × about 220k tokens |
 
 ## Open items
-1. (user) about $2 of API budget for the last 33 windows.
-2. (user) 383 `**NOTE**` questions in `review/notes.tsv`; 36 `fix-certain` word-meaning rows left and the `near`/`absent` rows (`review/pratipada_check_source.tsv`).
-3. 17 printed numbers have no page of their own (see above).
-4. After the last page: finishing checklist (HANDBOOK §11).
+1. (user) 481 `**NOTE**` questions in `review/notes.tsv`; 36 `fix-certain` word-meaning rows left and the `near`/`absent` rows (`review/pratipada_check_source.tsv`).
+2. (user) the Saṃhitā and Pada of 10.10.4 missing in the supplied text.
+3. 17 printed numbers without a page of their own (see above).
+4. Front matter and PDFs (checklist step 6) not done: needs the user's front-matter scan PDF.
+5. QA findings left for the editor: see the last line of `review/repair_log.md`.
