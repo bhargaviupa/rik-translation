@@ -13877,7 +13877,7 @@ He who is rubbed down by the grandchildren of the sacrificer like a handsome you
 
 ---
 
-ಅ ೬. ಅ[?]. ೮. ವ. ೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 697
+ಅ. ೬. ಅ. ೮. ವ. ೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 697
 ॥ ಪದಪಾಠಃ ॥
 [[block: pada]]
 ॥ ಸಾಯಣಭಾಷ್ಯಂ ॥
@@ -14567,7 +14567,7 @@ Whatever wonderful glorious wealth there be in heaven or in earth you, Soma, bei
 
 ---
 
-ಅ೬. ೮[?]. ೮ ವ. ೯. | ಋಗ್ವೇದಸಂಹಿತಾ 731
+ಅ. ೬. ಅ. ೮. ವ. ೯. | ಋಗ್ವೇದಸಂಹಿತಾ 731
 ॥ ಪದಪಾಠಃ ॥
 [[block: pada]]
 ॥ ಸಾಯಣಭಾಷ್ಯಂ ॥
@@ -15200,7 +15200,7 @@ The Soma flows, the sustainer (of the world), bearing a sense-invigorating essen
 
 ---
 
-762 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨೩[?]
+762 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨೩
 ॥ ಭಾವಾರ್ಥ ॥
 ಎಲ್ಲೈ ಸೋಮವೇ, ಯಜ್ಞಾರ್ಹನಾದ ನೀನು ಇಂದ್ರನ ಮತ್ತು ಇತರ ದೇವತೆಗಳ ಪಾನಾರ್ಥವಾಗಿ ಸ್ರವಿಸುತ್ತೀಯೆ. ಎಲ್ಲೈ ಸೋಮವೇ, ಅಂತಹ ನೀನು ನಮಗೆ ಅನ್ನವನ್ನು ಕೊಡಬೇಕೆಂದು ಇಚ್ಛಿಸುತ್ತೀಯೆ.
 English Translation
@@ -15673,7 +15673,7 @@ This invigorating heaven-conquering Soma is poured upon the filter for Indra and
 
 ---
 
-784 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೭[?]
+784 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೭
 [[block: pada]]
 ಸಾಯಣಭಾಷ್ಯಂ
 [[block: bhashya]]
@@ -16120,7 +16120,7 @@ English Translation
 
 ---
 
-ಅ. ೬. ಅ. ೮. ವ. ೨೧ [?] ] ಋಗ್ವೇದಸಂಹಿತಾ 805
+ಅ. ೬. ಅ. ೮. ವ. ೨೧ ] ಋಗ್ವೇದಸಂಹಿತಾ 805
 ಮೂವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು.
 ॥ ಸಾಯಣಭಾಷ್ಯಂ ॥
 [[block: bhashya]]
@@ -17808,7 +17808,7 @@ This Indu all our praises desiring protection, beautify (now) as of old for Indr
 
 ---
 
-ಮಂ[?]. ೯[?]. ಅ. ೨[?]. ಸೂ. ೪೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 875
+ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 875
 ॥ ಸಂಹಿತಾಪಾಠಃ ॥
 [[block: samhita]]
 ॥ ಪದಪಾಠಃ ॥
@@ -17826,7 +17826,7 @@ Pure flows the beloved Soma, beautified by the praises of the sage Medhyatithi.
 
 ---
 
-876 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩[?]
+876 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩
 ॥ ಪದಪಾಠಃ ॥
 [[block: pada]]
 ॥ ಸಾಯಣಭಾಷ್ಯಂ ॥
@@ -17844,7 +17844,7 @@ Purified Soma, grant us auspicious wealth with infinite splendour, O Indu.
 
 ---
 
-ಮಂ[?]. ೯[?]. ಅ. ೨[?]. ಸೂ. ೪೩[?] ] ಋಗ್ವೇದಸಂಹಿತಾ 877
+ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 877
 ॥ ಸಾಯಣಭಾಷ್ಯಂ ॥
 [[block: bhashya]]
 ॥ ಪ್ರತಿಪದಾರ್ಥ ॥
