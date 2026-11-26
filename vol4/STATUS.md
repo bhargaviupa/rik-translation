@@ -30,3 +30,6 @@ Built with `publish/build_vol45.py 4 full` (cleaner `vol45_clean.py`); `vol4/rev
 `vol4/README.md`, `docs/HISTORY.md`.
 
 - **Nov 18 2026, glosses (T12):** 49 more labelled glosses replaced by the marker `**GLOSS**` (82 markers in the volume now; removed text in `review/glosses_removed.tsv`, 31 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).
+
+## Kannada Text file (2026-11-26)
+`vol4/Rigveda_Samhita_Vol4_Kannada_Text.md` made from the supplied text by `tools/rv/kn_full.py` (pages 2–608; gaps: 5 (187, 227, 304, 326, 534: no running head of their own)). Sections are inferred by `html_to_kn.py`; on these older sources a `>` block can include Kannada commentary that follows the bhāṣya. Reference names not yet unified. Notes: `vol4/review/kn_full_notes.md`.

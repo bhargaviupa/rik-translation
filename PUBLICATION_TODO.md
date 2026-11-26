@@ -73,6 +73,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 |---|---|---|
 | S1 | Supplied text in the repo, pages checked | you, script |
 | S2 | Kannada text made from it; verses from the reference | script |
+|  | *(Nov 26 2026) whole-volume Kannada Text files by `tools/rv/kn_full.py`: ✓ 3, 4, 22 (partial, 221 of 601 pages), 25; 26 already had the curated file on main — still to make: 7, 8, 9, 10, 13, 28 (no supplied text in the repository); older scan-based files stay for 1, 2, 5, 6* | script |
 | S3 | Volume cut into units; English laid in, every paragraph placed once | script |
 | S4 | Scan-read Sanskrit and numbers replaced from the supplied text (group A only) | script |
 | S5 | Marks and remarks out of the text: settled, removed, or turned into a question | script, agents |
