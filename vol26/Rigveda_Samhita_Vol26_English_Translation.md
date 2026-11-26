@@ -17831,6 +17831,242 @@ Soma, who is fit to be purified, of the nature of juice and of the nature of str
 
 This Soma holds weapons in his hands like a hero. Wishing to obtain svaḥ, the means of the happiness of heaven, or the sacrifice, he is rathira, one who has a chariot: when the sacrificer is searching for cows, he is a charioteer to obtain cows for the sacrificer. Urging forth Indra's might, Indu, god Soma, is urged on by those desiring works, the wise priests, and is anointed with milk.
 
+### Printed p. 480
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—god Soma
+- गभस्योः (*gabhasyoḥ*)—in his hands **NOTE**
+- आयुधा (*āyudhā*)—weapons
+- शोरो न (*śoro na*)—like a hero **NOTE**
+- धत्ते (*dhatte*)—carries
+- स्वं (*svaṃ*)—the sacrifice
+- सिषासन् (*siṣāsan*)—desirous of enjoying
+- रथिरः (*rathiraḥ*)—mounted on a chariot
+- गविष्टिषु (*gaviṣṭiṣu*)—at the time of searching for cattle
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- शुष्मं (*śuṣmaṃ*)—the strength
+- ईरयन् (*īrayan*)—animating
+- इंदुः (*iṃduḥ*)—Soma
+- अपस्युभिः (*apasyubhiḥ*)—who desire works
+- मनीषिभिः (*manīṣibhiḥ*)—by the priests
+- हिन्वानः (*hinvānaḥ*)—being urged
+- अज्यते (*ajyate*)—is mixed with milk
+
+##### भावार्थ (Bhāvārtha)
+
+Like a hero, god Soma carries weapons in his hands. Desirous of enjoying the sacrifice, mounted on a chariot, at the time of searching for cattle, increasing the strength of Indra, Soma, urged by the priests who desire works, is mixed with milk.
+
+##### English translation
+Like a hero he carries weapons in his hands, desirous of enjoing felicity, mounting his chariot in quest of the cattle (of the worshipper), animating the strength of Indra, Indu, urged by the wise performers of pious acts, is anointed (with the milk and curds). **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य सोम॒ पव॑मान ऊ॒र्मिणा॑ तवि॒ष्यमा॑णो ज॒ठरे॒ष्वा वि॑श ।  
+> प्र णः॑ पिन्व वि॒द्युद॒भ्रेव॒ रोद॑सी धि॒या न वाजाँ॒ उप॑ मासि॒ शश्व॑तः ॥ ३ ॥
+
+### Printed p. 481
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । सोम । पवमानः । ऊर्मिणा । तविष्यमाणः । जठरेषु । आ । विश ।  
+> प्र । नः । पिन्व । विऽद्युत् । अभ्राऽइव । रोदसी इति । धिया । न । वाजान् । उप । मासि । शश्वतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानः पूयमानस्त्वं तविष्यमाणः वर्धयिष्यमाणः सन् इंद्रस्य जठरेषु ऊर्मिणा प्रभूतया धारया आ विश । जठरप्रदेशस्य बाहुल्याद्बहुवचनम्। नः अस्मदर्थं विद्युदभ्रेव अभ्राणीव सा यथा दोग्ध्यभ्राणि तद्वत् प्र पिन्व धुक्ष्व रोदसी द्यावापृथिव्यौ। किंच धिया कर्मणा न इदानीम् । नेति संप्रत्यर्थे । शश्वतः । बहुनामैतत् । बहून् वाजान् अन्नानि उप समीपे मासि निर्मासि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being purified and about to grow, enter the bellies of Indra with a mighty stream (ūrmi means a copious stream). The plural is used because the region of the belly is large. For us, as lightning milks the clouds, as one milks clouds that are fit for milking, so milk heaven and earth. Further, now, with the rite: na has the sense of "now" here. Shaśvataḥ is a name for "many". Measure out, that is, create, many foods close to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- पवमानः (*pavamānaḥ*)—purified
+- तविष्यमाणः (*taviṣyamāṇaḥ*)—desiring strength
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरेषु (*jaṭhareṣu*)—in the bellies
+- ऊर्मिणा (*ūrmiṇā*)—in a mighty stream
+- आ विश (*ā viśa*)—enter
+- विद्युत् (*vidyut*)—lightning
+- अभ्रेव (*abhreva*)—as it calls the cloud
+- नः (*naḥ*)—for us
+- रोदसी (*rodasī*)—from heaven and earth
+- प्र पिन्व (*pra pinva*)—milk the essence
+- धिया (*dhiyā*)—by your rite
+- न (*na*)—now
+- शश्वतः (*śaśvataḥ*)—abundant
+- वाजान् (*vājān*)—foods
+- उप मासि (*upa māsi*)—create for us
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, purified and desiring strength, enter the bellies of Indra in a mighty stream. As lightning calls the cloud, milk for us from heaven and earth their essence. By your rite now create for us abundant foods.
+
+##### English translation
+Soma, who are purified, who desire strength enter Indra's belly in a mighty stream ; milk heaven and earth for us as lightning (milks) the clouds ; now with the rite mete (unto us) abundant food. **NOTE**
+
+### Printed p. 482
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्य॒ राजा॑ पवते स्व॒र्दृश॑ ऋ॒तस्य॑ धी॒तिमृ॑षि॒षाळ॑वीवशत् ।  
+> यः सूर्य॒स्यासि॑रेण मृ॒ज्यते॑ पि॒ता म॑ती॒नामस॑मष्टकाव्यः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्य । राजा । पवते । स्वःऽदृशः । ऋतस्य । धीतिम् । ऋषिषाट् । अवीवशत् ।  
+> यः । सूर्यस्य । असिरेण । मृज्यते । पिता । मतीनाम् । असमष्टऽकाव्यः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वस्य जगतः राजा स्वामी सोमः स्वर्दृशः स्वर्गद्रष्टुः सर्वद्रष्टुर्वा ऋतस्य सत्यभूतस्येंद्रस्य । मनुष्यवाच्यनृतशब्दप्रतियोगिकस्य ऋतशब्दस्य देवार्थः। तत्रापि औचित्येनेंद्रः परिगृह्यते । तस्य धीतिं मतिं कर्म वा ऋषिषाट् ऋषीणामतींद्रियद्रष्टॄणामभिभविता । महत्त्वेन  स्वयमपि ऋषिश्रेष्ठत्वादिति भावः । तथा च मंत्रांतरं -- ब्रह्मा देवानां पदवीः कवीनामृषिः  (ऋ. सं.९.९६.६) इति । ईदृशः सोमः अवीवशत् अकामयत इंद्रस्य कर्म । यः सोमः सूर्यस्य देवस्य असिरेण क्षेपकेण रश्मिना मृज्यते । असमष्टकाव्यः अन्यैः कविभिरव्याप्तकर्मा सोमः मतीनाम् अस्मदीयानां स्तुतीनां पिता पालकः स्वामी भवतीति शेषः । यद्वा । यो मतीनां पिता असमष्टकाव्यश्च सन् मृज्यते सः पवते इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Soma, the king, the lord of the whole world, who sees heaven or sees all, flows. He desires the work, the thought or the worship, of the truthful Indra: ṛta, the opposite of the word anṛta used of men, here has the sense of the gods, and among them Indra is taken as fitting. Soma is ṛṣiṣāṭ, the overcomer of the ṛṣis, the seers of what is beyond the senses, because by his greatness he is himself the best of the ṛṣis. So another mantra says ब्रह्मा देवानां पदवीः कवीनामृषिः (*brahmā devānāṃ padavīḥ kavīnāmṛṣiḥ*) (Ṛ. Saṃ. 9.96.6). Such a Soma desired Indra's work. The Soma who is cleansed by the ray of the god Sūrya, which casts forth, who is of unequalled poetic work, that is, whose work is not reached by other poets, becomes the father, the protector and lord, of our praises. Or else: he who, being the father of the praises and of unequalled poetic work, is cleansed, he flows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वस्य (*viśvasya*)—of the whole world
+- राजा (*rājā*)—god Soma, the lord
+- पवते (*pavate*)—flows
+- स्वर्दृशः (*svardṛśaḥ*)—Soma, who has the power to see everything
+- ऋतस्य (*ṛtasya*)—of Indra, who is truth by nature
+- धीतिं (*dhītiṃ*)—the worship
+- ऋषिषाट् (*ṛṣiṣāṭ*)—surpassing the ṛṣis
+- अवीवशत् (*avīvaśat*)—desires
+- यः (*yaḥ*)—which god Soma
+- सूर्यस्य (*sūryasya*)—of the sun
+- असिरेण (*asireṇa*)—by the ray
+- मृज्यते (*mṛjyate*)—is cleansed, that same god Soma
+- असमष्टकाव्यः (*asamaṣṭakāvyaḥ*)—having a work that cannot be imitated by others
+- मशीनां (*maśīnāṃ*)—to the praises **NOTE**
+- पिता (*pitā*)—is the protector
+
+##### भावार्थ (Bhāvārtha)
+
+God Soma, the lord of the whole world, flows. Soma, who has the power to see everything, desires the worship of Indra, who is truth by nature, surpassing the other ṛṣis.
+
+### Printed p. 483
+
+God Soma, who is cleansed by the rays of the sun, with a work that cannot be imitated by others, is the protector of the praises.
+
+##### English translation
+(Soma) the sovereign of the universe flows forth; surpassing the Rishis he desired the worship of the all seeing truthful (Indra); he who is cleansed by the ray of the sun, the father of praise, the unequalled sage.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषे॑व यू॒था परि॒ कोश॑मर्षस्य॒पामु॒पस्थे॑ वृष॒भः कनि॑क्रदत् ।  
+> स इंद्रा॑य पवसे मत्स॒रिंत॑मो॒ यथा॒ जेषा॑म समि॒थे त्वोत॑यः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषाऽइव । यूथा । परि । कोशम् । अर्षसि । अपाम् । उपऽस्थे । वृषभः । कनिक्रदत् ।  
+> सः । इंद्राय । पवसे । मत्सरिन्ऽतमः । यथा । जेषाम । सम्ऽइथे । त्वाऽऊतयः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वृषेव यूथा यूथानि वृषभ इव स यथा तानि प्रविशति तद्वत् कोशं कोशवत् रसधारकं कलशं परि अर्षसि परिगच्छसि । कुत्रस्थः सन् । अपामुपस्थे अंतरिक्षे । कीदृशः सन् । वृषभः वर्षिता कनिक्रदत् शब्दं कुर्वन् । सः त्वं हे सोम इंद्राय इंद्रार्थं पवसे पूयसे । मत्सरिंतमः मादयितृतमस्त्वम् । यथा वयं जेषाम जयेम समिथे संग्रामे त्वोतयः त्वया रक्षिताः संतः ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, like a bull entering herds, as he enters them, so you go around the kośa, the vessel that holds the juice. Where do you stand? In the lap of the waters, the atmosphere. What are you like? A bull, a rainer, making a sound. You, O Soma, flow, are purified, for Indra, most exhilarating, so that we, protected by you, may conquer in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां उपस्थे (*apāṃ upasthe*)—in the atmosphere (O god Soma)
+- वृषभः (*vṛṣabhaḥ*)—you, the rainer
+- कनिक्रदत् (*kanikradat*)—making a sound
+- यूथा (*yūthā*)—to the herd of cattle
+- वृषा इव (*vṛṣā iva*)—as a bull rushes in and enters
+- कोशं (*kośaṃ*)—to the Droṇa vessel
+- परि अर्षसि (*pari arṣasi*)—you enter swiftly
+- यथा (*yathā*)—in the manner in which
+- समिथे (*samithe*)—in battle
+- त्वोतयः (*tvotayaḥ*)—we, protected by you
+
+### Printed p. 484
+
+- जेषाम (*jeṣāma*)—may obtain victory, in that manner
+- मत्सरिंतमः (*matsariṃtamaḥ*)—causing exceeding joy
+- सः (*saḥ*)—you
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- पवसे (*pavase*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you, the rainer in the atmosphere, making a sound, enter swiftly into the Droṇa vessel as a bull rushes into a herd of cattle. In the manner in which we, protected by you, may obtain victory in battle, so you, causing exceeding joy, flow for the drinking of Indra.
+
+##### English translation
+As a bull (entering) the herd you rush to the receptacle, on the top of the waters, showering (benefits) crying aloud; you flow for Indra, most exhilarating, so that we may be victorious in battle protected by you.
+
+## Sūkta 77 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एष प्र कोशे' इति पंचर्च दशमं सूक्तम् । ऋष्यांद्याः पूर्ववत् । ‘एषः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five ṛks beginning एष प्र कोशे (*eṣa pra kośe*) is the tenth sūkta. The seer and the rest are as before. It is listed in the Anukramaṇī as एषः (*eṣaḥ*). The ritual use has been stated already.
+
+##### Anuvāda
+
+The sūkta एष प्र कॊशे (*eṣa pra kòśe*) is the tenth sūkta in the fourth anuvāka. It has five ṛks. The seer, deity and metre of this sūkta are the same as in the previous sūkta. In the Anukramaṇī it is said एषः (*eṣaḥ*). The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 77. **NOTE** Maṇḍala 9, Anuvāka 4, Sūkta 77. Aṣṭaka 7, Adhyāya 3, Varga 2. Number of ṛks in the sūkta: 5. Seer: Kavi **NOTE**. Deity: Pavamāna Soma. Metre: Jagatī.
+
+### Printed p. 485
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष प्र कोशे॒ मधु॑माँ अचिक्रद॒दिंद्र॑स्य॒ वज्रो॒ वपु॑षो॒ वपु॑ष्टरः ।  
+> अ॒भीमृ॒तस्य॑ सु॒दुघा॑ घृत॒श्चुतो॑ वा॒श्रा अ॑र्षंति॒ पय॑सेव धे॒नवः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । प्र । कोशे । मधुऽमान् । अचिक्रदत् । इंद्रस्य । वज्रः । वपुषः । वपुःऽतरः ।  
+> अभि । ईम् । ऋतस्य । सुऽदुघाः । घृतऽश्चुतः । वाश्राः । अर्षंति । पयसाऽइव । धेनवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः अयं सोमः मधुमान् मधुररसः कोशे द्रोणकलशे  अचिक्रदत् प्रकर्षेण शब्दायते । कीदृश एषः । इंद्रस्य वज्रः वज्रस्थानीयः । बलकरत्वेन वज्रवत् प्रहरणसधनत्वात् वज्रत्वोपचारः । एष एव हि सोमो वज्र इंद्रस्य साधने । तथा वपुषः बीजानां वप्तुः अन्यस्मात् वपुष्टरः अतिशयेन वप्ता । बीजवापस्य सोमकर्तृकत्वात् ' सोमो वै रेतोधाः' (तै. सं. २. १. १. ६) इति श्रुतेः । ईम् अस्य ऋतस्य सत्यफलस्य सोमस्य । धारा इति शेषः । ताः अभि अर्षंति अभिगच्छंति । कीदृश्यस्ताः । सुदुघाः सुष्टुं दोग्ध्यः फलाना घृतश्चुतः उदकस्य रसस्य वा क्षारथियः वाश्राः शब्दयंत्यः । किमिव । पयसा युक्ता वाश्रः धेनवः इव इति ॥
+
+##### Gist of the bhāṣya
+
+This Soma, sweet of juice, cries out loudly in the kośa, the Droṇa vessel. What is he like? Indra's vajra: he is like a vajra because by giving strength he is an instrument of striking like a thunderbolt, and this word is used figuratively; for it is Soma who is the vajra in Indra's accomplishment. He is also vapuṣṭara, more than the vapus, the sower of seeds: the greater sower, because the sowing of seed is done by Soma, according to the Veda सोमो वै रेतोधाः (*somo vai retodhāḥ*) (Tai. Saṃ. 2.1.1.6). Toward the streams of this true-fruited Soma, the streams being understood, these streams go, good milkers of fruits, dripping ghee, that is, trickling water or juice, and sounding. Like what? Like cows that are yoked with milk and low.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वपुषः (*vapuṣaḥ*)—than beautiful form
+- वपुष्टरः (*vapuṣṭaraḥ*)—more beautiful
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- वज्रः (*vajraḥ*)—who is like the vajra weapon
+- एषः (*eṣaḥ*)—this god Soma
+- मधुमान् (*madhumān*)—endowed with sweet juice
+- कोशे (*kośe*)—in the Droṇa vessel
+- प्राचिक्रदत् (*prācikradat*)—makes a sound **NOTE**
+- पयसा (*payasā*)—filled with milk
+- धेनव इव (*dhenava iva*)—like cows
+- ऋतस्य (*ṛtasya*)—having true fruit
+- ईं (*īṃ*)—of this Soma
+- सुदुघाः (*sudughāḥ*)—that pour out excellent fruits
+- धृतश्चुतः (*dhṛtaścutaḥ*)—that squeeze out the juice **NOTE**
+- वाश्राः (*vāśrāḥ*)—and sound
+- अभ्यर्षंति (*abhyarṣaṃti*)—flow all around, the streams
+
 ---
 
-**Progress note:** Done through printed p. 479. Sukta 75 rks 4-5, adhyaya 2 end, Sukta 76 rks 1-2 bhashya, pp. 473-479
+**Progress note:** Done through printed p. 485. Sukta 76 rks 2-5 and Sukta 77 rk 1
