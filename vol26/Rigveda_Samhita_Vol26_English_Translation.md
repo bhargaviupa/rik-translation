@@ -26199,6 +26199,222 @@ Sūkta 95. Maṇḍala 9, Anuvāka 5, Sūkta 95. Aṣṭaka 7, Adhyāya 4, Varga
 
 Soma, the green one (हरिः (*hariḥ*)), being sent forth (सृज्यमानः (*sṛjyamānaḥ*)) on all sides, that is, pressed, cries out (कनिक्रंति (*kanikraṃti*)) again and again. And being purified (पुनानः (*punānaḥ*)) he makes a sound, sitting down (सीदन् (*sīdan*)) in the belly (जठरे (*jaṭhare*)) of the lovely (वनस्य (*vanasya*)) Droṇakalaśa. Further, Soma, held in check (यतः (*yataḥ*)) by the priests (नृभिः (*nṛbhiḥ*)), the leaders of the rite, covering the products of the cow (गाः (*gāḥ*)), milk and the rest, makes his own form (निर्णिजम् (*nirṇijam*)) in the Graha cups and the like. Therefore the praisers produce (जनयत (*janayata*)) for this Soma thoughts (मतीः (*matīḥ*)), praises worthy of thought, together with oblations (स्वधाभिः (*svadhābhiḥ*)). Or else: O praisers, produce praises for this Soma; that is, make them.
 
+### Printed p. 695
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सृज्यमानः (*sṛjyamānaḥ*)—the one who has been pressed
+- हरिः (*hariḥ*)—Soma, of green colour
+- पुनानः (*punānaḥ*)—having obtained purity
+- वनस्य (*vanasya*)—of the attractive Droṇakalaśa
+- जठरे (*jaṭhare*)—in the middle
+- सीदन् (*sīdan*)—sitting
+- कनिक्रंति (*kanikraṃti*)—makes a sound again and again
+- नृभिः (*nṛbhiḥ*)—by the priests
+- यतः (*yataḥ*)—being restrained
+- गाः (*gāḥ*)—milk and the rest
+- निर्णिजं (*nirṇijaṃ*)—to his own form
+- कृणुते (*kṛṇute*)—makes
+- अतः (*ataḥ*)—therefore (O praisers)
+- मतीः (*matīḥ*)—praises addressed to him
+- स्वधाभिः (*svadhābhiḥ*)—together with oblations
+- जनयत (*janayata*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who has been pressed and is of green colour, having obtained purity, sits in the middle of the attractive Droṇakalaśa and makes a sound again and again. Restrained by the priests, he mixes milk and the rest into his own form. O praisers, produce praises addressed to Soma, together with oblations.
+
+##### English translation
+The green-tinted Soma cries aloud when let loose, sitting when filtered in the belly of the pitcher ; collected by the priests, he assumes his shape, (putting on) the products of the cows ; therefore raise praises (to him) with oblations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरिः॑ सृजा॒नः प॒थ्या॑मृ॒तस्येय॑र्ति॒ वाच॑मरि॒तेव॒ नाव॑म् ।  
+> दे॒वो दे॒वानां॒ गुह्या॑नि॒ नामा॒विष्कृ॑णोति ब॒र्हिषि॑ प्र॒वाचे॑ ॥ २ ॥
+
+### Printed p. 696
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरिः । सृजानः । पथ्याम् । ऋतस्य । इयर्ति । वाचम् । अरिताऽइव । नावम् ।  
+> देवः । देवानाम् । गुह्यानि । नाम । आविः । कृणोति । बर्हिषि । प्रऽवाचे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सृजानः सृज्यमानः हरिः हरितवर्णः सोमः ऋतस्य सत्यभूतस्य पथ्यां पथि भवां वाचं दैवीम् इयर्ति प्रेरयति । तत्र दृष्टांतः । अरितेव जनांस्तीरं प्रापयन्नाविकः नावं यथा प्रेरयति तद्वत् । ‘ऋ  गतौ । जौहोत्यादिकः । ‘ अर्तिपिपर्त्योः ० इत्यभ्यासस्येत्वम् । ततः देवः दीप्यमानः सोमः देवानाम् इंद्रादीनां गुह्यानि अंतर्हितानि नाम नामानि शरीराणि प्रवाचे प्रकर्षेण वाचयित्रे स्तोत्रे बर्हिषि यज्ञे आविष्कृणोति स्तोतुमाविष्करोति ॥
+
+##### Gist of the bhāṣya
+
+Soma, the green one (हरिः (*hariḥ*)), being sent forth (सृजानः (*sṛjānaḥ*)), sends forth (इयर्ति (*iyarti*): impels) the divine speech that belongs to the path (पथ्यां (*pathyāṃ*): that is on the path) of truth (ऋतस्य (*ṛtasya*)). The illustration: as a boatman (अरितेव (*ariteva*)), bringing people to the shore, impels his boat. Then the shining Soma reveals (आविष्कृणोति (*āviṣkṛṇoti*)), at the sacrifice (बर्हिषि (*barhiṣi*)), to the praiser (प्रवाचे (*pravāce*): to the one who makes the recitation proceed), for the sake of praising, the hidden (गुह्यानि (*guhyāni*)) names — that is, the bodies — of the gods, Indra and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरिता इव (*aritā iva*)—as the boatman
+- नावं (*nāvaṃ*)—impels the boat
+- सृजानः (*sṛjānaḥ*)—the one who has been pressed
+- हरिः (*hariḥ*)—Soma, of green colour
+- ऋतस्य (*ṛtasya*)—to truth
+- पथ्यां (*pathyāṃ*)—guiding
+- वाचं (*vācaṃ*)—speech
+- इयर्ति (*iyarti*)—impels
+- देवः (*devaḥ*)—the shining Soma
+- बर्हिषि (*barhiṣi*)—at the sacrifice
+- देवानां (*devānāṃ*)—of the gods Indra and the rest
+- गुह्यानि नाम (*guhyāni nāma*)—the hidden bodies
+- प्रवाचे (*pravāce*)—to the praiser
+- आविष्कृणोति (*āviṣkṛṇoti*)—makes manifest
+
+##### भावार्थ (Bhāvārtha)
+
+As a boatman impels the boat to move, Soma, who has been pressed and is of green colour, impels the speech (the praise) that guides to truth. The shining Soma makes the hidden bodies of the gods, Indra and the rest, manifest to the praiser at the sacrifice.
+
+##### English translation
+The green-tinted Soma being let loose propels the voice that indicates the path of truth as the boatman (propels his) boat ; the bright Soma reveals to his worshipper od the sacred grass the secret names of the god. **NOTE**
+
+### Printed p. 697
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पामि॒वेदू॒र्मय॒स्तर्तु॑राणाः॒ प्र म॑नी॒षा ई॑रते॒ सोम॒मच्छ॑ ।  
+> न॒म॒स्यंती॒रुप॑ च॒ यंति॒ सं चा च॑ विशंत्युश॒तीरु॒शंत॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपाम्ऽइव । इत् । ऊर्मयः । तर्तुराणाः । प्र । मनीषाः । ईरते । सोमम् । अच्छ ।  
+> नमस्यंतीः । उप । च । यंति । सम् । च । आ । च । विशंति । उशतीः । उशंतम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपामिव यथोदकानाम् ऊर्मयः त्वरंते । इत् इति पूरणः । तद्वत् तर्तुराणाः कर्मणि देवान् स्तोतुं त्वरमाणाः । ‘तुर त्वरणे' । जौहोत्यादिकः । यङ्लुगंतस्य शानचि रूपम् । अभ्यासस्यावर्णश्च रेफादेशश्छांदसः । अभ्यस्तस्वरः। तादृशा ऋत्विजः मनीषाः मनस ईशित्रीः स्तुतीः सोममच्छ सोमं प्रति प्र ईरते प्रेरयंति। नमस्यंतीः नमस्यंत्यः सोमं पूजयंत्यः सत्यः तम् उप यंति च उपगच्छंति तमेव सं यंति च । ‘ चवायोगे प्रथमा' इति न निघातः । ततः उशतीः कामयमानाः स्तुतयः उशंतं कामयमानं सोमम् आ विशंति च ॥
+
+##### Gist of the bhāṣya
+
+As the waves of the waters hasten, so the priests, eager (तर्तुराणाः (*tarturāṇāḥ*): hurrying to praise the gods in the rite), send out (ईरते (*īrate*)) their praises (मनीषाः (*manīṣāḥ*): those that rule the mind) towards Soma (सोममच्छ (*somamaccha*)). The word इत् (*it*) is a filler. Adoring (नमस्यंतीः (*namasyaṃtīḥ*)) Soma and worshipping him, the praises approach him and also come together with him. Then the praises, longing (उशतीः (*uśatīḥ*)), enter Soma, who longs for them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां इव (*apāṃ iva*)—of the waters
+- ऊर्मय (*ūrmaya*)—like waves **NOTE**
+- तर्तुराणाः (*tarturāṇāḥ*)—priests with a quick eagerness in the rite
+- मनीषाः (*manīṣāḥ*)—their praises
+- सोममच्छ (*somamaccha*)—towards Soma
+- प्र ईरते (*pra īrate*)—send forth
+- नमस्यंतीः (*namasyaṃtīḥ*)—those praises, worshipping Soma
+- उप यंति (*upa yaṃti*)—approach him
+- सं (यंति) (*saṃ (yaṃti)*)—join him
+- उशंतं (*uśaṃtaṃ*)—him who longs for them
+- उशतीः (*uśatīḥ*)—longing
+- आ विशंति (*ā viśaṃti*)—enter him
+
+##### भावार्थ (Bhāvārtha)
+
+As the waves of the waters move in succession, the priests, quick in their eagerness in the rite, send their praises towards Soma and recite them. Those praises approach Soma, worshipping him. Honouring Soma, who longs for those very praises, they join him.
+
+### Printed p. 698
+
+##### English translation
+The priests hurrying like the waves of the waters despatch praises towards Soma ; adoring him they approach and come up together, longing for him who longs for them they enter him.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं म॑र्मृजा॒नं म॑हि॒षं न साना॑वं॒शुं दु॑हंत्यु॒क्षणं॑ गिरि॒ष्ठाम् ।  
+> तं वा॑वशा॒नं म॒तयः॑ सचंते त्रि॒तो बि॑भर्ति॒ वरु॑णं समु॒द्रे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । मर्मृजानम् । महिषम् । न । सानौ । अंशुम् । दुहंति । उक्षणम् । गिरिऽस्थाम् ।  
+> तम् । वावशानम् । मतयः । सचंते । त्रितः । बिभर्ति । वरुणम् । समुद्रे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्मजानं यष्टृभिः परिचर्यमाणं महिषं न महिषाख्यं मृगमिव सानौ समुच्छ्रिते देशे वर्तमानम् उक्षणं कामानां सेक्तारं गिरिष्ठाम् अभिषवार्थं ग्रावसु निष्ठितं तं तादृशं प्रसिद्धम् अंशुं सोमं दुहंति ऋत्विजो दुहते । ‘ ग्रावाणो वत्सा ऋत्विजो दुहंति' (तै. सं. ६.२.११.४ ) इति तैत्तिरीयब्राह्मणम् । तं तादृशं वावशानं कामयमानं सोमं मतयः मंतव्याः स्तुतयः सचंते समवयंति । सेवंत इति यावत् । ततः त्रितः त्रिषु स्थानेषु वर्तमान इंद्रः वरुणं शत्रूणां निवारकमेनं सोमं समुद्रे अंतरिक्षे बिभर्ति शत्रुवधार्थं धारयति । यद्वा । त्रितस्त्रिषु स्थानेषु द्रोणाधवनीयपूतभृदाख्येषु कलशेषु ततो विततः सोमः शत्रूणां निवारकमिंद्रं द्युलोके बिभर्ति पोषयति ॥
+
+##### Gist of the bhāṣya
+
+The priests milk (दुहंति (*duhaṃti*)) that well-known Soma, the plant (अंशुं (*aṃśuṃ*)), who is adored (मर्मजानं (*marmajānaṃ*)) by the priests who tend him, who is like a buffalo (महिषं न (*mahiṣaṃ na*)) standing on a high place (सानौ (*sānau*)), who is the sprinkler of desires (उक्षणं (*ukṣaṇaṃ*)), and who is fixed among the pressing stones (गिरिष्ठाम् (*giriṣṭhām*)). The Taittirīya Brāhmaṇa says: ग्रावाणो वत्सा ऋत्विजो दुहंति (*grāvāṇo vatsā ṛtvijo duhaṃti*) (Tai. Saṃ. 6.2.11.4). The praises (मतयः (*matayaḥ*)), worthy of thought, attend (सचंते (*sacaṃte*): serve) that Soma, who longs (वावशानं (*vāvaśānaṃ*)). Then Trita (त्रितः (*tritaḥ*)), that is Indra, who is present in three places, bears (बिभर्ति (*bibharti*)) Varuṇa (वरुणं (*varuṇaṃ*)), this Soma who keeps off enemies, in the ocean (समुद्रे (*samudre*)), the sky, for the slaying of enemies. Or else: Trita is Soma, spread out in three places, the vessels called Droṇa, Ādhavanīya and Pūtabhṛt; he bears, that is nourishes, Indra, the warder-off of enemies, in the world of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्मजानं (*marmajānaṃ*)—the one who has obtained purity
+- महिषं न (*mahiṣaṃ na*)—like a buffalo
+- सानौ (*sānau*)—who is on a high place
+- उक्षणं (*ukṣaṇaṃ*)—the sprinkler of desires
+- गिरिष्ठां (*giriṣṭhāṃ*)—who is placed among the pressing stones
+- तं अंशुं (*taṃ aṃśuṃ*)—Soma
+- दुहंति (*duhaṃti*)—the priests milk
+- वावशानं तं (*vāvaśānaṃ taṃ*)—Soma, who longs for praises
+- मतयः (*matayaḥ*)—praises
+- सचंते (*sacaṃte*)—serve
+- त्रितः (*tritaḥ*)—Indra, who is present in all three places
+- वरुणं (*varuṇaṃ*)—Soma, who keeps off enemies
+- समुद्रे (*samudre*)—in the sky
+- बिभर्ति (*bibharti*)—bears
+
+### Printed p. 699
+
+##### भावार्थ (Bhāvārtha)
+
+The priests milk Soma, who has obtained purity, who is on a high place like a buffalo, who is the sprinkler of desires and who is placed among the pressing stones. The praises serve Soma, who longs for praises. Indra, who is present in all three places, bears Soma, who keeps off enemies, in the sky.
+
+##### English translation
+(The priests) milk forth the Soma cleansed (dwelling) on a high place like a buffalo, the sprinkler, placed between the grinding-stones ; praises attend upon the longing Soma ; (Indra) who dwells in three abodes supports him, the defeater of enemies, in the firmament.
+
+##### विशेषविषयगळु (Special Topics)
+
+महिषं न गिरिस्थां अंशुं दुहंति (*mahiṣaṃ na giristhāṃ aṃśuṃ duhaṃti*)—The work of the priests such as the Adhvaryu, crushing and squeezing the soma creepers with stones and taking out the juice, is described by comparison with milking a buffalo. Here the soma creepers are the buffalo, and the stones that crush the creepers are the calf. On this subject there is the sentence of the Taittirīya Saṃhitā, ग्रावाणो वत्सा ऋत्विजो दुहंति (*grāvāṇo vatsā ṛtvijo duhaṃti*) (Tai. Saṃ. 6-2-11-4). The purport of the explanation is: as one lets the calf go to the buffalo and milks it, so the priests take the stone to the soma creepers, crush the creeper with that stone, and draw out the soma juice that flows from it, as one milks. **NOTE**
+
+त्रितः (*tritaḥ*)—Two kinds of meaning are given for this word. त्रितः (*tritaḥ*) means त्रिषु स्थानेषु वर्तमान इंद्रः (*triṣu sthāneṣu vartamāna iṃdraḥ*): Indra, who is in the three places, earth, sky and heaven, that is, who rules over them. Such an Indra bears Soma for the slaying of enemies, that is, drinks it; the purport is that Indra, gladdened by the drinking of Soma, destroys the enemies. Or else, for the word त्रितः (*tritaḥ*): त्रिषु स्थानेषु द्रोणाधवनीयपूतभृदाख्येषु कलशेषु (*triṣu sthāneṣu droṇādhavanīyapūtabhṛdākhyeṣu kalaśeṣu*) the soma juice, spread out विततः सोमः (*vitataḥ somaḥ*), nourishes Indra in the world of heaven: that is, the soma juice in the three vessels for holding the soma juice, called Droṇakalaśa, Ādhavanīya and Pūtabhṛt. Such soma juice bears Indra for the warding off of enemies, that is, nourishes him; by the drinking of Soma Indra becomes strong: this is the other kind of meaning. In the first meaning the word त्रितः (*tritaḥ*) is used of Indra, in the second of Soma.
+
+### Printed p. 700
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इष्य॒न्वाच॑मुपव॒क्तेव॒ होतुः॑ पुना॒न इं॑दो॒ वि ष्या॑ मनी॒षाम् ।  
+> इंद्र॑श्च॒ यत्क्षय॑थः॒ सौभ॑गाय सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इष्यन् । वाचम् । उपवक्ताऽइव । होतुः । पुनानः । इंदो इति । वि । स्य । मनीषाम् ।  
+> इंद्रः । च । यत् । क्षयथः । सौभगाय । सुऽवीर्यस्य । पतयः । स्याम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम वाचं स्तुतिम् इष्यन् प्रेरयन् होतुः उपवक्तेव यथाध्वर्युः प्रतिगरं कुर्वन् प्रोत्साहयति तद्वत् स्तोतॄणां शंसनाय प्रोत्साहं कुर्वन् पुनानः पूयमानस्त्वं मनीषां बुद्धि वि ष्य विमुंच । किंतु बुद्धिं धनप्रदानाभिमुखीं कुरु । किंच यत् यदा इंद्रश्च त्वं च सह यज्ञे क्षथथः निवसथः तदा स्तोतारो वयं सौभगाय सौभाग्याय स्याम । किंच सुवीर्यस्य शोभनवीर्योपेतस्य धनस्य पतयः स्वामिनः स्याम भवेम ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, sending forth (इष्यन् (*iṣyan*)) speech, praise: as the Adhvaryu, making the response, spurs on the Hotṛ — like the उपवक्तेव (*upavakteva*) — so, encouraging the praisers to recite and being purified, release (वि ष्य (*vi ṣya*)) the thought (मनीषां (*manīṣāṃ*)), the intellect; that is, turn the intellect towards giving wealth. Further, when you and Indra dwell together at the sacrifice, then may we, the praisers, be for good fortune (सौभगाय (*saubhagāya*)). Further, may we be the lords (पतयः (*patayaḥ*)) of wealth that has excellent heroism.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- होतुः (*hotuḥ*)—to the words of the Hotṛ
+- उपवक्ता इव (*upavaktā iva*)—as the Adhvaryu, who speaks the answering words, spurs on the Hotṛ
+- वाचं (*vācaṃ*)—our praise
+- इष्यन् (*iṣyan*)—impelling
+- पुनानः (*punānaḥ*)—you who have obtained purity
+- मनीषां (*manīṣāṃ*)—your helpful intellect
+- वि ष्य (*vi ṣya*)—make manifest
+- यत् (*yat*)—when
+- इंद्रश्च (*iṃdraśca*)—Indra and you
+- क्षयथः (*kṣayathaḥ*)—you dwell in the house of the sacrifice, then
+- सौभगाय (*saubhagāya*)—(we) becoming worthy of welfare
+- स्याम (*syāma*)—may we be
+- सुवीरस्यॆ (*suvīrasyè*)—for wealth accompanied by heroic sons **NOTE**
+- पतयः (*patayaḥ*)—may we become the lords
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, as the Adhvaryu, who speaks the answering words to the words of the Hotṛ, spurs on the Hotṛ, so you, impelling our praise, you who have obtained purity, make manifest your helpful intellect. When Indra and you dwell in the house of the sacrifice, may we become worthy of welfare. May we become the lords of wealth accompanied by heroic sons.
+
 ---
 
-**Progress note:** Done through printed p. 694. Sūkta 94 Ṛk 2-5; Sūkta 95 Ṛk 1
+**Progress note:** Done through printed p. 700. Sūkta 95 Ṛk 1 (Pratipadārtha) to Ṛk 5
