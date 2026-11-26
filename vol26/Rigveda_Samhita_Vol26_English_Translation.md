@@ -11354,6 +11354,260 @@ The exhilarating, the desirable, the wise, the intelligent, the defender (of all
 
 O Soma of good insight (सुक्रतो (*sukrato*)), we choose your wealth (रयिं (*rayiṃ*)). Further, सुचेतुनम् (*sucetunam*) is good knowledge. In our sons (तनूषु (*tanūṣu*)) too, do you bestow wealth and good knowledge. Or else: we choose it for the sake of sons. Likewise we partake of you, the protector (पांतं (*pāṃtaṃ*)) of all and desired (पुरुस्पृहं (*puruspṛhaṃ*)) by many sacrificers.
 
+### Printed p. 309
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतो (*sukrato*)—O Soma-deva, of excellent insight
+- सुचेतुनं (*sucetunaṃ*)—excellent, bestowing strength
+- रयिं (*rayiṃ*)—your wealth
+- आ (वृणीमहे) (*ā (vṛṇīmahe)*)—we worship and desire
+- तनूषु (*tanūṣu*)—in our sons and the like
+- आ (विधेहि) (*ā (vidhehi)*)—provide that wealth
+- पांतं (*pāṃtaṃ*)—the protector of all
+- पुरुस्पृहं (*puruspṛhaṃ*)—the one desired by many, you
+- आ (*ā*)—we worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, of excellent insight, your wealth, which is excellent and bestows strength, we worship and desire. Fill our sons and the like with that wealth. You, the protector of all and desired by many, we worship.
+
+##### English translation
+(We have recourse) to your wealth and intelligence for our prosterity**NOTE** O you to whom fair sacrifices are offered, and to you the defender (of all), the desired of many.
+
+## Sūkta 66 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘पवस्व' इति त्रिंशदृचं षष्ठं सूक्तम् । अत्रानुक्रम्यते- पवस्व शतं वैखानसा अष्टादश्यनुष्टुप्परास्तिस्र आग्नेय्यः' इति । शतसंख्याका वैखानसाख्याः संहता ऋषयः । ‘ त्वं सोम सूरः ' इत्येषानुष्टुप् । शिष्टा गायत्र्यः । ‘ अग्न आयूंषि' इत्याद्यास्तिस्रः पवमानविशिष्टाग्निदेवताकाः । अन्यासां पवमानः सोमो देवता । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, पवस्व (*pavasva*), has thirty Ṛks. The Anukramaṇī says of it: अत्रानुक्रम्यते- पवस्व शतं वैखानसा अष्टादश्यनुष्टुप्परास्तिस्र आग्नेय्यः' (*atrānukramyate- pavasva śataṃ vaikhānasā aṣṭādaśyanuṣṭupparāstisra āgneyyaḥ '*). The seers are a hundred together, the Vaikhānasas. The eighteenth Ṛk, त्वं सोम सूरः (*tvaṃ soma sūraḥ*), is in the Anuṣṭubh metre; the rest are Gāyatrī. The three beginning अग्न आयूंषि (*agna āyūṃṣi*) have as deity Agni qualified as Pavamāna; for the others the deity is Pavamāna Soma. The application of the sūkta has been given.
+
+##### Anuvāda
+
+This sūkta, पवस्व (*pavasva*), is the sixth sūkta in the third anuvāka. It has thirty Ṛks. In the Anukramaṇī it is said: पवस्व शतं वैखानसा अष्टादश्यनुष्टुप्परा स्तिस्र आग्नेय्यः (*pavasva śataṃ vaikhānasā aṣṭādaśyanuṣṭupparā stisra āgneyyaḥ*). The seers of this sūkta are, collectively, the hundred seers called Vaikhānasas. The eighteenth Ṛk of this sūkta, त्वं सोम सूरः (*tvaṃ soma sūraḥ*), is in the Anuṣṭubh metre; the remaining Ṛks are in the Gāyatrī metre. The three Ṛks beginning अग्न आयूंषि (*agna āyūṃṣi*) (Ṛks 19–21) have as deity Agni qualified as Pavamāna. For the other Ṛks the deity is Pavamāna Soma. The application of the sūkta has been stated before.
+
+### Printed p. 310
+
+##### Particulars
+
+Sūkta 66. Maṇḍala 9. Anuvāka 3. Sūkta 66. Aṣṭaka 7. Adhyāya 2. Vargas 7, 8, 9, 10, 11, 12. Number of Ṛks in the sūkta: 30. Seer: Śataṃ Vaikhānasāḥ. Deity: 1–18, 22–30 Pavamāna Soma; 19–21 Agni. Metre: 1–17, 19–30 Gāyatrī; 18 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व विश्वचर्षणे॒ऽभि विश्वा॑नि॒ काव्या॑ ।  
+> सखा॒ सखि॑भ्य॒ ईड्यः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । विश्वऽचर्षणे । अभि । विश्वानि । काव्या ।  
+> सखा । सखिऽभ्यः । ईड्यः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वचर्षणे सर्वव्यापित्वेन सर्वस्य द्रष्टर्हे सोम सखा स्तुत्यस्तोतृयष्टृयष्टव्यलक्षणेन संबंधेन सखिभूतस्त्वम् ईड्यः स्तोतव्यः सन् सखिभ्यः हविष्प्रदानेनोपकारकत्वात् मित्रभूतेभ्योऽस्मभ्यं विश्वानि सर्वाणि काव्या । कवेः कर्माणि काव्यानि । ब्राह्मणादित्वात् ष्यञ्। सर्वाणि स्तोत्राणि अभि लक्षीकृत्य पवस्व आगच्छ॥
+
+##### Gist of the bhāṣya
+
+O Soma, all-seeing (विश्वचर्षणे (*viśvacarṣaṇe*)), that is, seeing everything through your all-pervasiveness, you are a friend (सखा (*sakhā*)) by the relation of the praised, the praiser, the sacrificer and the one sacrificed to. Being worthy of praise (ईड्यः (*īḍyaḥ*)), flow (पवस्व (*pavasva*)), come, toward all (विश्वानि (*viśvāni*)) the hymns (काव्या (*kāvyā*): works of the poet), to us, your friends (सखिभ्यः (*sakhibhyaḥ*)), who are like friends because we help you by the offering of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वचर्षणे (*viśvacarṣaṇe*)—O Soma, able to see everything
+- सखा (*sakhā*)—you, who are a friend to us
+- ईड्यः (*īḍyaḥ*)—being worthy of praise
+- सखिभ्यः (*sakhibhyaḥ*)—of us, your friends
+- विश्वानि (*viśvāni*)—all
+- काव्या अभि (*kāvyā abhi*)—with regard to the acts of praise
+- पवस्व (*pavasva*)—flow hither
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, able to see everything, you who are a friend to us, being worthy of our praise, flow hither with regard to all the acts of praise of us, your friends.
+
+### Printed p. 311
+
+##### English translation
+All-seeing (Soma), who are the adorable friend (of the worshippers), flow for (us your) friends towards all (our) hymns of praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताभ्यां॒ विश्व॑स्य राजसि॒ ये प॑वमान॒ धाम॑नी ।  
+> प्र॒ती॒ची सो॑म त॒स्थतुः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताभ्याम् । विश्वस्य । राजसि । ये इति । पवमान । धामनी इति ।  
+> प्रतीची इति । सोम । तस्थतुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान दशापवित्रेण पूयमान पुनान वा हे सोम ये धामनी पूर्वपक्षापरपक्षयोर्लतारूपस्य सोमस्य तवैकैकपर्णवृद्धिहासाभ्यां तव स्वभूतौ पूर्वादिपक्षौ । यद्वा ये धामनी नामनी अंशुसोमात्मके अपि प्रतीची त्वदभिमुखं गच्छंतौ गच्छती वा पक्षौ नामनी वा तस्थतुः उपजग्मतुः ताभ्यां त्वं विश्वस्य सर्वस्य लोकस्य राजसि स्वामी भवसि । पूर्वादिपक्षाभ्यां सर्वलोकस्योपनायकत्वात्तस्य स्वामी भवसि । पृथिव्यामंशुनाम्ना मनुष्याणां सर्वेषामभीप्सितदानेन तस्य लोकस्य द्युलोके देवेभ्यः स्वसुधामयकलादानेन तेषां प्रीणयिता भवसि । देवाः खलु सोमस्यैकैकवृद्धिहासाभ्यां कलाः पिबंति ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, purified by the ten-fold filter, O Soma: the two abodes (धामनी (*dhāmanī*)) are the two fortnights, the earlier and the later, which are your own through the increase and decrease, leaf by leaf, of you who are of the form of the creeper Soma. Or else the two abodes are two names, those of the plant Soma and of the pressed Soma, which stand facing you, or the two fortnights or names that have come to you. By these two you are lord (राजसि (*rājasi*)) of the whole world: through the fortnights you lead the whole world, and on earth, under the name of the plant, by granting the desires of all men, and in heaven, by giving the gods the digits made of his nectar, you become the one who pleases them. For the gods indeed drink the digits of Soma through his increase and decrease, one by one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifying one
+- सोम (*soma*)—O Soma
+- ये (*ye*)—which
+- धामनी (*dhāmanī*)—the two faces (powers) called the earlier and the later fortnight
+- प्रतीची (*pratīcī*)—toward you
+- तस्थतुः (*tasthatuḥ*)—stand established (or move)
+- ताभ्यां (*tābhyāṃ*)—with those
+- विश्वस्य (*viśvasya*)—of the whole world
+- राजसि (*rājasi*)—you are lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, purifier, with those two faces, called the earlier and the later fortnight, which stand established and move facing you, you are lord of the whole world.
+
+### Printed p. 312
+
+##### English translation
+You, purified Soma, rule the universe by those two halves (of the lunar month) which stand facing you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ धामा॑नि॒ यानि॑ ते॒ त्वं सो॑मासि वि॒श्वतः॑ ।  
+> पव॑मान ऋ॒तुभिः॑ कवे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । धामानि । यानि । ते । त्वम् । सोम । असि । विश्वतः ।  
+> पवमान । ऋतुऽभिः । कवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यस्मात् ते त्वदीयानि धामानि त्वदधीना अहोरात्ररूपाः कालविशेषाः परि भवंति सर्वत्र व्याप्तास्तिष्ठंति । यद्वा त्वदीयानि धामानि तेजांसि परि वर्तंते अत एव हे पवमान पूयमान हे कवे क्रांतकर्मन हे सोम त्वम् ऋतुभिः वसंतादिकालविशेषैः सह विश्वतः सर्वतः असि भवसि । अहोरात्रौ यत्र यत्र व्याप्तौ तत्र तत्र वसंतादिकालोपाधिकः सोमस्तिष्ठति । तयोस्तधीनत्वादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, since your abodes (धामानि (*dhāmāni*)), the particular times in the form of day and night, which depend on you, extend (परि (*pari*)) everywhere, or since your splendours go round, therefore, O Pavamāna, being purified, O sage (कवे (*kave*): of far-reaching action), you are (असि (*asi*)) everywhere (विश्वतः (*viśvataḥ*)) together with the seasons (ऋतुभिः (*ṛtubhiḥ*)), the particular times such as spring. Wherever day and night extend, there Soma, conditioned by seasons such as spring, abides, since these depend on him. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifier
+- कवे (*kave*)—one of far-reaching action
+- सोम (*soma*)—O Soma-deva
+- ते (*te*)—your
+- यानि धामानि (*yāni dhāmāni*)—which (powers), particular times in the form of day and night
+- परि (*pari*)—extend everywhere; such
+- त्वं (*tvaṃ*)—you
+- ऋतुभिः (*ṛtubhiḥ*)—with the divisions of the seasons such as spring
+- विश्वतः (*viśvataḥ*)—everywhere
+- असि (*asi*)—you pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, purifier and one of far-reaching action, because those particular times of yours in the form of day and night extend everywhere, therefore you pervade everywhere together with the divisions of the seasons such as spring.
+
+##### English translation
+Since your splendours abound, you purified sage, Soma, are everywhere (associated) with the seasons.
+
+### Printed p. 313
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व ज॒नय॒न्निषो॒ऽभि विश्वा॑नि॒ वार्या॑ ।  
+> सखा॒ सखि॑भ्य ऊ॒तये॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । जनयन् । इषः । अभि । विश्वानि । वार्या ।  
+> सखा । सखिऽभ्यः । ऊतये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सखा सखिभूतस्त्वं विश्वानि सर्वाणि वार्या वरणीयान्यस्मत्कृतानि स्तोत्राणि अभि लक्षीकृत्य सखिभ्यः अस्मभ्यम् ऊतये रक्षणाय जीवनाय इषः अन्नानि जनयन् प्रयच्छन् पवस्व आगच्छ । पवतिर्गतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being a friend, toward all (विश्वानि (*viśvāni*)) the desirable (वार्या (*vāryā*)) hymns made by us, to us your friends (सखिभ्यः (*sakhibhyaḥ*)), for protection (ऊतये (*ūtaye*)), for life, generating (जनयन् (*janayan*)), that is, giving, foods (इषः (*iṣaḥ*)), flow (पवस्व (*pavasva*)), come. The root पव (*pava*) means going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखा (*sakhā*)—you, who are a friend (O Soma-deva)
+- विश्वानि (*viśvāni*)—all
+- वार्या अभि (*vāryā abhi*)—toward our hymns that are desired by you
+- सखिभ्यः (*sakhibhyaḥ*)—of us, your friends
+- ऊतये (*ūtaye*)—for protection
+- इषः (*iṣaḥ*)—foods
+- जनयन् (*janayan*)—producing
+- पवस्व (*pavasva*)—come flowing
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are a friend, facing all our hymns that are desired by you, for the protection of us, your friends, come flowing, producing foods.
+
+##### English translation
+Soma, who are a friend, do you for the sake of all our desirable (praises) approach generating food for (us your) friends for our support
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ शु॒क्रासो॑ अ॒र्चयो॑ दि॒वस्पृ॒ष्ठे वि त॑न्वते ।  
+> प॒वित्रं॑ सोम॒ धाम॑भिः ॥ ५ ॥
+
+### Printed p. 314
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । शुक्रासः । अर्चयः । दिवः । पृष्ठे । वि । तन्वते ।  
+> पवित्रम् । सोम । धामऽभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम शुक्रासः सर्वत्र ज्वलनशीलाः धामभिः तेजोभिः सहितस्य तव स्वभूताः अर्चयः अर्चनीया रश्मयः दिवः द्योतमानस्यादित्यस्य द्युलोकस्य वा पृष्ठे अधरभागे। पृथिव्यामित्यर्थः। पवित्रं पवनसाधनमुदकं वि तन्वते विशेषेण तन्वंति विस्तारयंति । सर्वत्र कुर्वंतीत्यर्थः ॥ ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the bright (शुक्रासः (*śukrāsaḥ*)), that is, everywhere blazing, rays (अर्चयः (*arcayaḥ*)), to be worshipped, which are your own, accompanied by splendours (धामभिः (*dhāmabhiḥ*)), spread out (वि तन्वते (*vi tanvate*)), extend widely the filter (पवित्रं (*pavitraṃ*)), the water that is the means of purifying, on the back (पृष्ठे (*pṛṣṭhe*)) of heaven (दिवः (*divaḥ*)), that is, of the shining sun or of the heavenly world, in its lower part, that is, on the earth. The meaning is that they do so everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- धामभिः (*dhāmabhiḥ*)—accompanied by splendours
+- तव (*tava*)—your
+- शुक्रासः (*śukrāsaḥ*)—shining
+- अर्चयः (*arcayaḥ*)—rays
+- दिवः (*divaḥ*)—of the atmosphere
+- पृष्ठे (*pṛṣṭhe*)—on the earth, the lower region
+- पवित्रः (*pavitraḥ*)—the water, the means of purification
+- वि तन्नते (*vi tannate*)**NOTE**—cause to spread
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your shining rays, accompanied by splendours, spread out the water, the means of purification, on the earth, which lies below the atmosphere.
+
+##### English translation
+Soma, the shinning rays of you who are accompanied by brilliance, spread the purifying (water) over the surface of heaven.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवे॒मे स॒प्त सिंध॑वः प्र॒शिषं॑ सोम सिस्रते ।  
+> तुभ्यं॑ धावंति धे॒नवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । इमे । सप्त । सिंधवः । प्रऽशिषम् । सोम । सिस्रते ।  
+> तुभ्यम् । धावंति । धेनवः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 308. Rk 9.65.24-30 (Soma pavamana)
+**Progress note:** Done through printed p. 314. Rk 9.65.30 end; Sukta 9.66 Rk 1-6
