@@ -29988,6 +29988,278 @@ This sūkta beginning एते धावंति (*ete dhāvaṃti*) is the tw
 
 Sāyaṇa says: These Somas run, go, to Indra. Of what kind are these? इंदवः (*iṃdavaḥ*): moistening, or bright; घृष्वयः (*ghṛṣvayaḥ*): of rubbing nature; मत्सरासः (*matsarāsaḥ*): exhilarating; स्वर्विदः (*svarvidaḥ*): bringers of the heavenly world.
 
+### Printed p. 744
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदवः (*iṃdavaḥ*)—flowing in liquid form, or clear
+- घृष्वयः (*ghṛṣvayaḥ*)—crushed and pressed, or assailing foes
+- मत्सरासः (*matsarāsaḥ*)—exhilarating
+- स्वर्विदः (*svarvidaḥ*)—conferring the heavenly world
+- एते सोमाः (*ete somāḥ*)—these Soma-juices
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- धावंति (*dhāvaṃti*)—run swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, which drip in liquid form, are crushed and pressed, bring exhilaration to those who drink them, and are the means to the heavenly world, run swiftly for Indra's drinking.
+
+##### English translation
+These flowing Soma-juices, foe-destroying, exhilarating, heaven-conferring, hasten to Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒वृ॒ण्वंतो॑ अभि॒युजः॒ सुष्व॑ये वरिवो॒विदः॑ ।  
+> स्व॒यं स्तो॒त्रे व॑य॒स्कृतः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽवृण्वंतः । अभिऽयुजः । सुस्वये । वरिवःऽविदः ।  
+> स्वयम् । स्तोत्रे । वयःऽकृतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवृण्वंतः सुवानं प्रकर्षेण संभजंतः तथा अभियुजः अभियोजयितारः सुष्वये सुष्ठु अभिषवकर्त्रे वरिवोविदः । ‘ वरिवः' इति धननाम । तस्य लंभयितारः स्वयं स्तोत्रे वयस्कृतः अन्नस्य कर्तारः । एते धावंतीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes: the Somas that "run" (this is the connection) are those that favour, that is, resort in full measure to, the Soma-presser; likewise अभियुजः (*abhiyujaḥ*) are those who join (the offerer to his aim). They are providers of wealth to the one who presses well, the performer of the pressing; वरिवः (*varivaḥ*) is a name for wealth, and they are the ones who bring it about. They are, of their own accord, makers of food (वयस्कृतः (*vayaskṛtaḥ*)) for the praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रवृण्वंतः (*pravṛṇvaṃtaḥ*)—well refined by the work of pressing (the work of crushing the Soma plant)
+- अभियुजः (*abhiyujaḥ*)—facing foes
+- सुष्वये (*suṣvaye*)—to those who perform the pressing work well
+- वरिवोविदः (*varivovidaḥ*)—providers of wealth
+- स्वयं (*svayaṃ*)—themselves
+
+### Printed p. 745
+
+- स्तोत्रे (*stotre*)—to those who praise
+- वयुस्कृतः (*vayuskṛtaḥ*)—procurers of food; **NOTE**these Soma-juices flow for Indra's drinking.
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, which are well refined by the pressing work, face foes, provide wealth to the priests who perform the pressing well, and themselves procure food for those who praise, flow on for Indra's drinking.
+
+##### English translation
+Showing favour, assailing foes, giving wealth to him who rightly effuses them, and bestowing food spontaneously on their praiser.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृथा॒ क्रीळं॑त॒ इंद॑वः स॒धस्थ॑म॒भ्येक॒मित् ।  
+> सिंधो॑रू॒र्मा व्य॑क्षरन् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृथा । क्रीळंतः । इंदवः । सधऽस्थम् । अभि । एकम् । इत् ।  
+> सिंधोः । ऊर्मा । वि । अक्षरन् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृथा अनायासेन क्रीळंतः इंदवः सोमाः एकमित् एकमेव सधस्थं सहस्थानं द्रोणकलशं वा अभि अक्षरन्निति शेषः । सिंधोरूर्मा वसतीवरीषु व्यक्षरन् ॥
+
+##### Gist of the bhāṣya
+
+The Somas, sporting वृथा (*vṛthā*), that is, without effort, flow towards one and the same common place, सधस्थं (*sadhasthaṃ*), which is the Droṇa-kalaśa ("flow towards" is to be supplied). The waves of the river, सिंधोरूर्मा (*siṃdhorūrmā*), flow apart in the Vasatīvarī waters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृथा (*vṛthā*)—without effort
+- क्रीळंतः (*krīḷaṃtaḥ*)—sporting
+- इंदवः (*iṃdavaḥ*)—these Soma-juices
+- एकमित् (*ekamit*)—the one
+- सधस्थं (*sadhasthaṃ*)—the Droṇa-kalaśa, the common place
+- अभि (*abhi*)—flow, aiming at it (and)
+- सिंधोः ऊर्मा (*siṃdhoḥ ūrmā*)—in the Vasatīvarī waters **NOTE**
+- व्यक्षरन् (*vyakṣaran*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, sporting without effort, though they drip from many places, all gather together and go and fall into the one Droṇa-kalaśa, and they join the Vasatīvarī waters (or flow along like the waves of the river) **NOTE**.
+
+### Printed p. 746
+
+##### English translation
+The effused juices come sporting lightly to the common receptacle, they drop into the wave of the river.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते विश्वा॑नि॒ वार्या॒ पव॑मानास आशत ।  
+> हि॒ता न सप्त॑यो॒ रथे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । विश्वानि । वार्या । पवमानासः । आशत ।  
+> हिताः । न । सप्तयः । रथे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमाः पवमानासः पूयमानाः विश्वानि वार्या वार्याणि वरणीयानि धनानि आशत व्याप्नुवन् । रथे हिताः स्थापिताः नः सप्तयः अश्वा इव । ते यथा रथमभिमतं देशं प्राप्नुवंति तद्वद्धनमस्माकं प्रायच्छन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+These Somas, being purified (पवमानासः (*pavamānāsaḥ*)), have obtained all desirable (वार्या (*vāryā*)) riches. Like horses placed (हिताः (*hitāḥ*)) in a chariot, which carry the chariot to the desired place, so the Somas give us wealth: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these Soma-juices
+- पवमानासः (*pavamānāsaḥ*)—being purified
+- रथे (*rathe*)—in the chariot
+- हिताः (*hitāḥ*)—harnessed
+- सप्तयः न (*saptayaḥ na*)—like horses
+- विश्वानि (*viśvāni*)—all
+- वार्या (*vāryā*)—the desired riches
+- आशत (*āśata*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+As horses harnessed to a chariot carry the chariot to a fixed place, so these purified Soma-juices provide the praisers with all desired riches.
+
+##### English translation
+Like horses harnessed to a car these pure juices bring ( to us ) all desirable blessings.
+
+### Printed p. 747
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आस्मि॑न्पि॒शंग॑मिंदवो॒ दधा॑ता वे॒नमा॒दिशे॑ ।  
+> यो अ॒स्मभ्य॒मरा॑वा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अस्मिन् । पिशंगम् । इंदवः । दधात । वेनम् । आऽदिशे ।  
+> यः । अस्मभ्यम् । अरावा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे 'इंदवः सोमाः अस्मिन् यजमाने पिशंगं बहुरूपं मणिमुक्ताहिरण्यादिभेदेन नानारूपं वेनं कामयंतं बहुविधं कामम् आदिशे अस्मभ्यमादेशनाय आ दधात आयच्छतः । यः यजमानः अस्मभ्यम् अरावा ----- प्रयच्छति प्राप्तकाम एव खलु ऋत्विग्भ्यः प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Somas, bestow on this sacrificer, the multiform (पिशंगं (*piśaṃgaṃ*)), manifold desire (वेनं (*venaṃ*)) in the variety of jewels, pearls, gold and the like, for our direction (आदिशे (*ādiśe*)). The sacrificer who gives to us (अरावा (*arāvā*)) **NOTE** gives to the priests only when he has obtained his wish.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदवः (*iṃdavaḥ*)—O Soma-juices
+- यः (*yaḥ*)—the sacrificer who
+- अस्मभ्यं (*asmabhyaṃ*)—to us, the priests
+- अरावा (*arāvā*)—gives wealth and the like
+- अस्मिन् (*asmin*)—to that sacrificer
+- पिशंग (*piśaṃga*)—of many kinds
+- वेनं (*venaṃ*)—the desired wish
+- आदिशे (*ādiśe*)—according to our wish
+- आ (*ā*)—you bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-juices, to the sacrificer who gives us, the priests, wealth in plenty, you bestow, according to our wish, manifold desired riches in abundance.
+
+##### English translation
+Effused Soma-juices, at our indication bestow manifold blessings on this (institutor of the sacrifice), who (at present) has given us plenty.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भुर्न रथ्यं॒ नवं॒ दधा॑ता॒ केत॑मा॒दिशे॑ ।  
+> शु॒क्राः प॑वध्व॒मर्ण॑सा ॥ ६ ॥
+
+### Printed p. 748
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुः । न । रथ्यम् । नवम् । दधात । केतम् । आऽदिशे ।  
+> शुक्राः । पवध्वम् । अर्णसा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुर्न उरु भासमानो रथस्वामीव स यथा रथ्यं रथस्य नेतारं नवं स्तुत्यं कुशलं सारथिनमग्र आधत्ते तद्वदस्मदीयेऽस्मिन् आदिशे स्वामिनि केतं प्रज्ञानं दधात स्थापयत । हे सोमाः योऽस्मभ्यं प्रयच्छति तस्मिन्नित्यर्थः। हे सोमाः अर्णसा उदकेन शुक्राः दीप्ताः संतः पवध्वं क्षरध्वम्॥
+
+##### Gist of the bhāṣya
+
+As the lord of a chariot, shining greatly (ऋभुर्न (*ṛbhurna*)), places in front the chariot-driver (रथ्यं (*rathyaṃ*)), the leader of the chariot, a new (नवं (*navaṃ*)), that is, praiseworthy and skilful charioteer, so, O Somas, establish knowledge (केतं (*ketaṃ*)) in this lord of ours, the directing one (आदिशे (*ādiśe*)), that is, in the one who gives to us. O Somas, shining with water (अर्णसा (*arṇasā*)), flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरु (*uru*)—(O Soma-juices) greatly
+- ऋभुर्न (*ṛbhurna*)—as the radiant, that is, resplendent lord of a chariot
+- नवं (*navaṃ*)—the praiseworthy, that is, skilful
+- रथ्यं (*rathyaṃ*)—the charioteer who drives the chariot, whom he seats in front of himself; like him
+- आदिशे (*ādiśe*)—in our lord, the sacrificer
+- केतं (*ketaṃ*)—understanding, that is, excellent knowledge
+- दधात (*dadhāta*)—produce
+- हे सोमाः (*he somāḥ*)—O Soma-juices
+- अर्णसा (*arṇasā*)—with water (mixed)
+- शुक्राः (*śukrāḥ*)—shining, that is, with a clear stream
+- पवध्वं (*pavadhvaṃ*)—flow on
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-juices, as the owner of a chariot places a skilful charioteer in front of himself, so fill our sacrificer with excellent knowledge. O Soma-juices, mixed with water, flow on in a clear stream.
+
+##### English translation
+As a great man sets before him a commendable charioteer, so you grant knowledge to our lord, and flow glistening with water.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒त उ॒ त्ये अ॑वीवश॒न्काष्ठां॑ वा॒जिनो॑ अक्रत ।  
+> स॒तः प्रासा॑विषुर्म॒तिम् ॥ ७ ॥
+
+### Printed p. 749
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । ऊं इति । त्ये । अवीवशन् । काष्ठाम् । वाजिनः । अक्रत ।  
+> सतः । प्र । असाविषुः । मतिम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्ये ते एत उ एत एव सोमाः अवीवशन् कामयंते यज्ञम् । कांत्वा च वाजिनः बलवंतोऽन्नवंतो वा सोमाः काष्ठाम् अक्रत निवासस्थानमकुर्वन् । द्रोणकलशादुद्गता ग्रहानित्यर्थः। सतः यजमानस्य-स्तोतुर्वा मतिं बुद्धिं स्तुतिं वा प्रासाविषुः प्रैरयन् ॥ ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+Those very Somas have desired (अवीवशन् (*avīvaśan*)) the sacrifice. The powerful or food-possessing (वाजिनः (*vājinaḥ*)) Somas have made (अक्रत (*akrata*)) a dwelling place, काष्ठाम् (*kāṣṭhām*): the cups (grahas) drawn out of the Droṇa-kalaśa. They have impelled (प्रासाविषुः (*prāsāviṣuḥ*)) the mind (मतिं (*matiṃ*)), the intelligence or the praise, of the good (सतः (*sataḥ*)) sacrificer or praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्ये (*tye*)—the famous
+- एते उ (*ete u*)—those Soma-juices
+- अवीवशन् (*avīvaśan*)—desire the sacrificial rite
+- वाजिनः (*vājinaḥ*)—those Soma-juices, which are powerful or possessed of food
+- काष्ठां (*kāṣṭhāṃ*)—their dwelling place (in the Droṇa-kalaśa)
+- अक्रत (*akrata*)—made for themselves
+- सतः (*sataḥ*)—of the sacrificer or the praiser
+- मतिं (*matiṃ*)—the intelligence or the praise
+- प्रासाविषुः (*prāsāviṣuḥ*)—impelled
+
+##### भावार्थ (Bhāvārtha)
+
+The same famous Soma-juices, desirous of the sacrificial rite, powerful and possessed of food, made the Droṇa-kalaśa their dwelling place, that is, went into the Droṇa-kalaśa and stayed there. Afterwards they impelled to the performance of good rites the mind of the praiser, or of the sacrificer, who praises them.
+
+##### English translation
+These effused juices have desired (the sacrifice) ; powerful, they have made for themselves an abiding-place ; they have animated the intellect of the pious institutor of the rite.
+
+## Sūkta 22 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमासः' इति सप्तर्चं द्वाविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । एते सोमासः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एते सोमासः (*ete somāsaḥ*) has seven Ṛks and is the twenty-second sūkta. The seer and the rest are as before. In the Anukramaṇikā it is said एते सोमासः (*ete somāsaḥ*). The use (viniyoga) has been stated.
+
 ---
 
-**Progress note:** Done through printed p. 743. Sūkta 20 Ṛk 2-7, sūkta 21 Ṛk 1 bhāṣya (pp. 738-743)
+**Progress note:** Done through printed p. 749. Vol 25 pp. 744-749: sūkta 21 Ṛks 1-7 end; sūkta 22 intro
