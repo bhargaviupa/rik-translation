@@ -19513,6 +19513,244 @@ When all who honour the sacrifice climbed up to me, who was seated in the middle
 
 Seeing Indra come to his side, the pleased seer praises Indra's various deeds and his gift with this two-Ṛk set beginning विश्वेत्ता ते (*viśvettā te*). O Maghavan, Indra: whatever deeds (या यानि कर्माणि (*yā yāni karmāṇi*)) you did (चकर्थ (*cakartha*)) at the Soma-pressings, at the sacrifices (सवनेषु (*savaneṣu*)), for the sacrificer who presses the Soma (सुन्वते (*sunvate*)), all those deeds of yours are to be proclaimed (प्रवाच्या (*pravācyā*)); they are endless (विश्वेत् (*viśvet*)). Further, the wealth belonging to an enemy named Parāvat (पारावतं (*pārāvataṃ*)), that you uncovered (अपावृणोः (*apāvṛṇoḥ*)) for Śarabha (शरभाय (*śarabhāya*)), the seer of that name, the kinsman of seers (ऋषिबंधवे (*ṛṣibaṃdhave*)); that wealth was amply amassed (पुरुसंभृतं (*purusaṃbhṛtaṃ*)), that is, much amassed.
 
+### Printed p. 507
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- सवनेषु (*savaneṣu*)—in the sacrifices
+- सुन्वते (*sunvate*)—for the sacrificer who presses and offers the Soma
+- या (*yā*)—which helpful deeds
+- चकर्थ (*cakartha*)—you have done
+- ते (*te*)—your
+- विश्वेत् (*viśvet*)—all
+- ता (*tā*)—all those deeds
+- प्रवाच्या (*pravācyā*)—are worthy of praise
+- पारावतं (*pārāvataṃ*)—belonging to the enemy named Parāvat
+- पुरुसंभृतं (*purusaṃbhṛtaṃ*)—stored up for a long time
+- यत् (*yat*) वसु (*vasu*)—whatever wealth there is, that
+- ऋषिबंधने (*ṛṣibaṃdhane*)—who is a friend of all the seers
+- शरभाय (*śarabhāya*)—to the seer named Śarabha
+- अपावृणोः (*apāvṛṇoḥ*)—you have caused to come
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, all those helpful deeds that you have done for the sacrificer who presses and offers the Soma in the sacrifices are worthy of praise. The wealth that belonged to the enemy named Parāvat and had been stored up for a long time, that you have caused to come to the seer named Śarabha, who is a friend of all the seers.
+
+##### English translation
+Verily all those deeds of yours Maghavan, are to be proclaimed, which you have achieved for him who offers libations in the sacrifices ; that wealth of Paravat, collected by many, you have opened to Sharabha, the kinsman of the Rishi.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नू॒नं धा॑वता॒ पृथ॒ङ्नेह यो वो॒ अवा॑वरीत् ।  
+> नि षीं॑ वृ॒त्रस्य॒ मर्म॑णि॒ वज्र॒मिंद्रो॑ अपीपतत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नूनम् । धावत । पृथक् । न । इह । यः । वः । अवावरीत् ।  
+> नि । सीम् । वृत्रस्य । मर्मणि । वज्रम् । इंद्रः । अपीपतत् ॥ ७ ॥
+
+### Printed p. 508
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः शत्रुः नूनम् इदानीं प्र धावत प्रधावति पृथक् इह पृथङ्न तिष्ठति च वः युष्मान् न अवीवरीतु न विवारयति च तस्य वृत्रस्य शत्रोः मर्मणि मर्मस्थाने इंद्रः वज्रं कुलिशं नि अपीपतत् नितरामपातयत् ॥
+
+##### Gist of the bhāṣya
+
+The enemy who now runs forth, and who does not stand apart here and hold you back, in the vitals of that enemy Vṛtra Indra has driven down his thunderbolt, the kuliśa, with great force.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which enemy
+- नूनं (*nūnaṃ*)—now
+- प्र धावतॆ (*pra dhāvatè*)—is running away
+- पृथक् (*pṛthak*)—separately
+- इह (*iha*)—here
+- वः (*vaḥ*)—you
+- न आवावरीत् (*na āvāvarīt*)—does not hold back
+- वृत्रस्य (*vṛtrasya*)—of such an enemy
+- मर्मणि (*marmaṇi*)—in the vital spot
+- इंद्रः (*iṃdraḥ*)—Indra
+- वज्रं (*vajraṃ*)—the thunderbolt
+- सीं (*sīṃ*)—certainly
+- नि आपीपतत् (*ni āpīpatat*)—has hurled so that it enters
+
+##### भावार्थ (Bhāvārtha)
+
+The enemy who is now running away, and who does not stand apart here and hold you back, in the vital spot of such an enemy Indra has hurled his thunderbolt so that it enters.
+
+##### English translation
+Haste now severally forward ; he is not here who stopped your way,- has not Indra let fall his thunderbolt in the very vitals of that enemy ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनो॑जवा॒ अय॑मान आय॒सीम॑तर॒त्पुर॑म् ।  
+> दिवं॑ सुप॒र्णो ग॒त्वाय॒ सोमं॑ व॒ज्रिण॒ आभ॑रत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनःऽजवाः । अयमानः । आयसीम् । अतरत् । पुरम् ।  
+> दिवम् । सुऽपर्णः । गत्वाय । सोमम् । वज्रिणः । आ । अभरत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुपर्णः गरुत्मान् मनोजवाः मनोवेगः अयमानः गच्छन् आयसीं हिरण्मयीं पुरं नगरीम् अतरत् अतारीत्। ततः दिवं स्वर्गं गत्वाय गत्वा वज्रिणे इंद्राय सोमम् आभरत् आहरच्च ॥
+
+##### Gist of the bhāṣya
+
+Suparṇa, that is Garutmān, swift as the mind, going along, crossed the golden city. Then, having gone to heaven, he brought the Soma to Indra, the wielder of the thunderbolt.
+
+### Printed p. 509
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपर्णः (*suparṇaḥ*)—Garutmān
+- मनोजवाः (*manojavāḥ*)—endowed with the speed of the mind
+- आयुमानः (*āyumānaḥ*)—flying
+- आयसीं (*āyasīṃ*)—made of gold
+- पुरं (*puraṃ*)—the city
+- अतरत् (*atarat*)—he entered
+- दिवं (*divaṃ*)—to heaven
+- गत्वाय (*gatvāya*)—having gone
+- वज्रिणे (*vajriṇe*)—to Indra, the bearer of the thunderbolt
+- सोमं (*somaṃ*)—the Soma
+- आभरत् (*ābharat*)—he brought and supplied
+
+##### भावार्थ (Bhāvārtha)
+
+Garutmān (Suparṇa), flying with the speed of the mind, entered the city made of gold. Having gone to heaven, he brought the Soma to Indra, the bearer of the thunderbolt.
+
+##### English translation
+Suparna, rushing swift as thought, passed through the iron city ; then having gone to heaven he brought the Soma to the thunderer.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रे अं॒तः श॑यत उ॒द्ना वज्रो॑ अ॒भीवृ॑तः ।  
+> भरं॑त्यस्मै सं॒यतः॑ पु॒रःप्र॑स्रवणा ब॒लिम् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रे । अंतरिति । शयते । उद्ना । वज्रः । अभिऽवृतः ।  
+> भरंति । अस्मै । सम्ऽयतः । पुरःऽप्रस्रवणाः । बलिम् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः वज्रः समुद्रे अंतः समुद्रस्य मध्ये शयते शेते यश्च उद्ना उदकेन अभिवृतः अस्मै वज्राय संयतः संग्रामस्य । ‘सग्मन् संयतः' इति संग्रामनामसु पाठात् । पुरःप्रस्रवणाः पुरस्ताद्गच्छंतः शत्रवः बलिम् उपहारं भरंति धारयंति । तस्य छेद्या भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The thunderbolt lies in the midst of the sea, and is surrounded by water. To this thunderbolt, Sāyaṇa says, the enemies who run in front, in the battle (he cites the Nighaṇṭu reading among the names of battle, सग्मन् संयतः (*sagman saṃyataḥ*)), bring a tribute, an offering. The meaning is that they become the things it cuts down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रः (*vajraḥ*)—the thunderbolt of Indra
+- समुद्रे (*samudre*)—of the sea
+- अंतः (*aṃtaḥ*)—in the middle
+- शयते (*śayate*)—lies fallen
+- उद्ना (*udnā*)—by water
+- अभिवृतः (*abhivṛtaḥ*)—is surrounded
+- अस्मै (*asmai*)—to this thunderbolt
+
+### Printed p. 510
+
+- संयतः (*saṃyataḥ*)—of the battle
+- पुरःप्रस्रवणाः (*puraḥprasravaṇāḥ*)—the enemies who run about in front
+- बलिं (*baliṃ*)—tribute
+- भरंति (*bharaṃti*)—they bear (all of them fall victim to this thunderbolt)
+
+##### भावार्थ (Bhāvārtha)
+
+The thunderbolt of Indra lies in the middle of the sea, surrounded by water. All the enemies who run about in front of the battle fall victim to this thunderbolt.
+
+##### English translation
+The thunderbolt lies in the midst of the sea, covered with the waters ; (the foes) flying in front of the battle bring offerings of submission to it.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वाग्वदं॑त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ मं॒द्रा ।  
+> चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वाक् । वदंती । अविऽचेतनानि । राष्ट्री । देवानाम् । निऽससाद । मंद्रा ।  
+> चतस्रः । ऊर्जम् । दुदुहे । पयांसि । क्व । स्वित् । अस्याः । परमम् । जगाम ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राष्ट्री राजनशीला देवानां मंद्रा मादयित्री' वा यत् यदा वाक् अविचेतनानि विज्ञानरहितानप्रज्ञातानर्थान् वदंती प्रज्ञापयंती निषसाद यज्ञे निषीदति तदा चतस्रः दिशः प्रति ऊर्जम् अन्नं पयांसि तत्कारणभूतानि उदकानि दुदुहे। अस्याः माध्यमिकाया वाचः स्वभूतं यत् परमं श्रेष्ठं तत् क्व जगाम क्व गच्छतीति न दृश्यत इत्यर्थः । तथा च यास्कः - ‘ यद्वाग्वदंत्यविचेतनान्यविज्ञातानि राष्ट्री देवानां निषसाद मंद्रा मदना चतस्रोऽनु दिश अर्जं दुदुहे पयांसि क्व स्विदस्याः परमं जगामेति यत्पृथिवीं गच्छतीति वा यदादित्यरश्मयो हरंतीति वा ' (निरु. ११. २८) इति ॥
+
+##### Gist of the bhāṣya
+
+Vāk, the queen, the gladdener of the gods (or the delighter), when she sits down in the sacrifice uttering things unintelligible and unknown, then milks out toward the four quarters food and waters, the cause of food. Where has the highest, the best of this middle-region Vāk gone? It is not seen: that is the meaning. Sāyaṇa quotes Yāska (Niru. 11. 28), who reads the verse with the explanation that the best of her goes to the earth, or that the rays of the sun carry it away. **NOTE**
+
+### Printed p. 511
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राष्ट्री (*rāṣṭrī*)—she who shines with sovereignty
+- देवानां (*devānāṃ*)—to the gods
+- मंद्रा (*maṃdrā*)—the giver of delight
+- वाक् (*vāk*)—the speech-goddess of the middle region
+- यत् (*yat*)—when
+- अविचेतनानि (*avicetanāni*)—words not understood by the mind of men
+- वदंती (*vadaṃtī*)—uttering
+- निषसाद (*niṣasāda*)—sat down on the sacrificial ground (then)
+- चतस्रः (*catasraḥ*)—in the four quarters
+- ऊर्जं (*ūrjaṃ*)—food
+- पयांसि (*payāṃsi*)—waters
+- दुदुहे (*duduhe*)—she milked
+- अस्याः (*asyāḥ*)—of this speech-goddess
+- परमं (*paramaṃ*)—the best, the original principle
+- क्व स्वित् (*kva svit*)—where indeed
+- जगाम (*jagāma*)—has gone (no one knows)
+
+##### भावार्थ (Bhāvārtha)
+
+The speech-goddess of the middle region, who shines with her own sovereignty and gives delight to the gods, when she sat down on the sacrificial ground uttering words that the mind of men cannot understand, then in the four quarters she milked food and water. Where indeed has the best, the original principle of this speech-goddess, gone? No one knows.
+
+##### English translation
+When Vach, the queen, the gladdener of the gods, sits down ( in the sacrifice) uttering things not to be uderstood, she milks water and food for the four quarters (of the earth) ; whither now is her best portion gone ?
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk and the next, Yāska has given an exposition by way of illustration concerning the goddess of speech:
+यद्वाग्वदंत्यविचेतनान्यविज्ञातानि राष्ट्री देवानां निषसाद मंद्रा मदना चतस्रोऽसु दिश ऊर्जं दुदुहे पयांसि क्व स्विदस्यां परमं जगामेति यत्पृथिवीं गच्छतीति वा यदादित्यरश्मयो हरंतीति वा ॥ (*yadvāgvadaṃtyavicetanānyavijñātāni rāṣṭrī devānāṃ niṣasāda maṃdrā madanā catasro 'su diśa ūrjaṃ duduhe payāṃsi kva svidasyāṃ paramaṃ jagāmeti yatpṛthivīṃ gacchatīti vā yadādityaraśmayo haraṃtīti vā ‖*) (Ni. 11—28)
+When the goddess of speech (or the middle-region speech, that is, the thunder of the clouds in the atmosphere), giving delight among the gods, sits like a queen and speaks words that no one understands, that is, words that are mere sound with a meaning that is not understood, then the four quarters yield abundantly milk, food and water; but where does the best part of that goddess go? Does that best part go to the earth, or do the rays of the sun carry it away? (This no one knows.)
+
+### Printed p. 512
+
+If the goddess of speech in the present Ṛk is understood as the middle-region speech, that is, in the view that says it is the thunder of the clouds in the atmosphere, that is the lightning: when the clouds cover the atmosphere, the lightning that shines brilliantly in the midst of them is this goddess of speech, the queen sitting resplendent among the gods; the thunder that goes forth from the circle of the clouds is the indistinct words of the goddess of speech, that is, words that have sound but cannot be understood. When the goddess of speech makes this popular sound, the rain that falls in torrents in the four quarters is what the seer describes in another way as milk, as water and as food. But what the best form of this goddess is, no one knows. Whether it comes back again to the earth, or is carried off by the rays of the sun and goes to the sun (to heaven), no one knows anything of it; thus the seer has expressed the greatness of the goddess of speech and the littleness of men.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वीं वाच॑मजनयंत दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदंति ।  
+> सा नो॑ मं॒द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवीम् । वाचम् । अजनयंत । देवाः । ताम् । विश्वऽरूपाः । पशवः । वदंति ।  
+> सा । नः । मंद्रा । इषम् । ऊर्जम् । दुहाना । धेनुः । वाक् । अस्मान् । उप । सुऽस्तुता । आ । एतु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा माध्यमिका वाक् सर्वप्राण्यंतर्गता धर्माभिवादिनी भवतीति विभूतिमुपदर्शयति । यां देवीं द्योतमानां माध्यमिकां वाचं देवाः माध्यमिकाः अजनयंत जनयंति तां वाचं विश्वरूपाः सर्वरूपा व्यक्तवाचोऽव्यक्तवाचश्च पशवो वदंति । तत्पूर्वकत्वाद्वाक्प्रवृत्तेः । सा वाक् देवी मंद्रा मदना स्तुत्या हर्षयित्री वा वृष्टिप्रदानेनास्मभ्यम् इषम् अन्नम् ऊर्जं पयोघृतादिरूपं रसं च दुहाना क्षरंती धेनुः धेनुभूता सुष्टुता अस्माभिः स्तुता अस्मान् नेमान् उप ऐतु उपगच्छतु । वर्षणायोद्युक्तेत्यर्थः । तथा च यास्कः- ‘ देवीं वाचमजनयंत देवास्तां विश्वरूपाः पशवो वदंति व्यक्तवाचश्चाव्यक्तवाचश्च सा नो मदनान्नं च रसं च दुहाना धेनुर्वागस्मानुपैतु सुष्टुता' (निरु. ११. २९) इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this middle-region Vāk, present in all living beings, is the speaker of what is right, and he shows her greatness. The shining goddess, the middle-region Vāk, whom the gods of the middle region bring forth: that speech the beasts of all forms speak, those with clear speech and those with unclear speech, since the activity of speech has that as its antecedent. That Vāk, the goddess, the delighter or the one to be praised, by giving rain yields to us food and the sap in the form of milk, ghee and the like, flowing like a cow; well praised by us, may she come to us. The meaning is that she is ready to rain. Yāska (Niru. 11. 29) explains the verse in the same way: the beasts of all forms are those with clear and those with unclear speech, and Vāk is the milch cow who yields food and sap. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 506. 8.100.1-6
+**Progress note:** Done through printed p. 512. Ṛk 6 end to Ṛk 11 of Sūkta 100, pp. 507-512
