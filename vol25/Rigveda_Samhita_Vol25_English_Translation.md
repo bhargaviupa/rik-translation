@@ -2388,6 +2388,251 @@ Associated priests, give good heed to the sacrifice, for how can we (worthily) p
 
 "O Indra, equally worshipped, that is, to be worshipped by all, you are praised by many seers, that is, by priests who know what is beyond the senses, by those who have the sacred grass, who are engaged in the sacrifice." The Indra who thus gives away to the praisers one by one so many calves: O destroyer, injurer of the enemy. Here the word "calf" stands for the cows who are the mothers of the calves; the meaning is that you give cows.
 
+### Printed p. 61
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शर (*śara*)—O Indra, destroyer of enemies
+- यत् (*yat*)—for which reason
+- इत्थं (*itthaṃ*)—in this manner
+- एकं एकं इत् (*ekaṃ ekaṃ it*)—of many numbers, saying "this one, another one"
+- वत्सान् (*vatsān*)—cows
+- पराददः (*parādadaḥ*)—because you give to those who praise you
+- समुह (*samuha*)—O Indra, who are worshipped by all alike **NOTE**
+- बर्हिष्मद्भिः (*barhiṣmadbhiḥ*)—by those who are engaged in the sacrifice
+- भूरिभिः (*bhūribhiḥ*)—and are many in number
+- ऋषिभिः (*ṛṣibhiḥ*)—by the seers
+- स्तुविष्यसे (*stuviṣyase*)—you are praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, because you give to those who praise you cows of many numbers in this manner, saying "this one, another one", therefore, O Indra, who are worshipped by all alike, you are praised by the seers, who are engaged in the sacrifice and are many in number.
+
+##### English translation
+Indra, the common object of our worship, you are praised by many sacrificing Rishis ; for it is you, destroyer of foes, who thus give calves in succession to your worshippers.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒र्ण॒गृह्या॑ म॒घवा॑ शौरदे॒व्यो व॒त्सं न॑स्त्रि॒भ्य आन॑यत् ।  
+> अ॒जां सू॒रिर्न धात॑वे ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कर्णऽगृह्य । मघऽवा । शौरऽदेव्यः । वत्सम् । नः । त्रिऽभ्यः । आ । अनयत् ।  
+> अजाम् । सूरिः । न । धातवे ॥ १५ ॥
+
+### Printed p. 62
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं मघवा इंद्रः त्रिभ्यः हिंसकेभ्यः सकाशात् शौरदेव्यः । दीव्यंति क्रीडंत इति देवा योद्धारः। शूराश्च ते देवाश्च शूरदेवाः । तेषां हितं शौरदेवं युद्धम्। तत्संबंधिन्यो गाः। युद्धे शत्रून् हत्वा तत्संबंधिन्य इत्यर्थः । ताः वत्सं न । नेति चार्थे। वत्ससहिता अस्मभ्यं कर्णगृह्य कर्णे गृहीत्वा आनयत् आनयतु । सूरिर्न प्रेरकः स्वामीव धातवे पानाय अजां यथा स आनयति कर्णे गृहीत्वा तद्वदिति ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+This Maghavan, Indra, brings to us from three destroying enemies the cows that are called शौरदेव्यः (*śauradevyaḥ*). Those who play, who sport, are the gods, that is, the warriors; they are heroes and they are gods, hence "hero-gods". What is beneficial to them is battle; the cows connected with it are meant, that is, cows connected with it after the enemies have been slain in battle. Let him lead those cows, together with their calves, to us, taking them by the ear. As a master, the impeller, leads a goat by the ear to drink, so let him bring them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धातवे (*dhātave*)—for drinking milk
+- अजां (*ajāṃ*)—a goat
+- सूरिः न (*sūriḥ na*)—as its owner leads it, taking it by the ear
+- मघवा (*maghavā*)—Indra, the wealthy
+- शौरदेव्यः (*śauradevyaḥ*)—the cows found on the battlefield filled with heroes
+- वत्सं न (*vatsaṃ na*)—together with their calves
+- कर्णगृह्य (*karṇagṛhya*)—taking them by the ear and dragging them
+- त्रिभ्यः (*tribhyaḥ*)—seizing them from the enemies of three kinds
+- आनयत् (*ānayat*)—let him bring them to us
+
+##### भावार्थ (Bhāvārtha)
+
+As an owner leads a goat by the ear for drinking milk, so let Indra, the wealthy, taking them by the ear, drag the cows found on the battlefield filled with heroes, together with their calves, and, seizing them from the enemies of three kinds, bring them to us.
+
+##### English translation
+May Maghavan, taking them by the ears, lead the cows with their calves from our three (destructive enemies), as the owner leads a goat to drink.
+
+## Sūkta 71 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘त्वं नो अग्ने ' इति पंचदशर्चं द्वितीयं सूक्तम् । सुदीतिपुरुमीळ्हावृषी तयोरन्यतरो वा । आदौ नव गायत्र्यो दशमीद्वादशीचतुर्दश्यो बृहत्य एकादशीत्रयोदशीपंचदश्यः सतोबृहत्यः । अग्निर्देवता । तथा चानुक्रांतं - त्वं नः सुदीतिपुरुमीळ्हौ तयोर्वान्यतर आग्नेयं तु त्रिप्रगाथांतम् ' इति । प्रातरनुवाक आग्नेये क्रतौ गायत्रे छंदस्याश्विनशस्त्रे चादितो नवर्चः। तथा च सूत्रितं -- त्वं नो अग्ने महोभिरिति नव ' (आश्व. श्रौ. ४. १३) इति ॥
+
+##### Gist of the bhāṣya
+
+The fifteen-Ṛk sūkta beginning त्वं नो अग्ने (*tvaṃ no agne*) is the second sūkta. Its seer is Sudīti or Purumīḷha, or else either one of the two. The deity is Agni. The first nine Ṛks are in the Gāyatrī metre; the tenth, twelfth and fourteenth are in the Bṛhatī metre; the eleventh, thirteenth and fifteenth are in the Satobṛhatī metre. The Anukramaṇikā says as much: that the sūkta is Agni's, that the seer is one or the other of Sudīti and Purumīḷha, and that it ends with three pragāthas. In the Prātaranuvāka, in the Āgneya kratu, in the Gāyatra metre, and in the Āśvinaśastra, the first nine Ṛks are used. So it is laid down in the sūtra त्वं नो अग्ने महोभिरिति नव (*tvaṃ no agne mahobhiriti nava*) (Āśv. Śrau. 4. 13).
+
+### Printed p. 63
+
+The Anuvāda: this sūkta beginning त्वं नो अग्ने (*tvaṃ no agne*) is the second sūkta in the eighth Anuvāka. It has fifteen Ṛks. The seers of this sūkta are the two, Sudīti and Purumīḷha; or it may be some other seer. Agni is the deity. In this sūkta the first nine Ṛks are in the Gāyatrī metre; the tenth, twelfth and fourteenth Ṛks are in the Bṛhatī metre; the eleventh, thirteenth and fifteenth Ṛks are in the Satobṛhatī metre. In the Anukramaṇikā it is said: त्वं नः सुदीतिपुरुमीळ्हौ तयोर्वान्यतर आग्नेयं तु त्रिप्रगाथांतं (*tvaṃ naḥ sudītipurumīḷhau tayorvānyatara āgneyaṃ tu tripragāthāṃtaṃ*). At the time of reciting the Prātaranuvāka mantras, the first nine Ṛks of this sūkta are employed as Ṛks of the Gāyatrī metre pertaining to the Āgneya kratu, and for the Āśvinaśastra mantras, as is explained by the sūtra त्वं नो अग्ने महोभिरिति नव (*tvaṃ no agne mahobhiriti nava*) of the Āśvalāyana Śrautasūtra (Ā. 4-13).
+
+Sūkta 71 of Maṇḍala 6; Anuvāka 8.
+
+Aṣṭaka 6; Adhyāya 5; Varga 11, 12, 13.
+
+Number of Ṛks in the sūkta: 15.
+
+Seer: सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः (*sudītipurumīḷhau tayorvānyataraḥ*).
+
+Deity: अग्निः (*agniḥ*).
+
+Metre: 1-9. Gāyatrī. 10-15. Pragātha.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्ने॒ महो॑भिः पा॒हि विश्व॑स्या॒ अरा॑तेः ।  
+> उ॒त द्वि॒षो मर्त्य॑स्य ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । नः । अग्ने । महःऽभिः । पाहि । विश्वस्याः । अरातेः ।  
+> उत । द्विषः । मर्त्यस्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नः अस्मान् महोभिः पूजाभिर्महद्भिर्धनैर्वा पाहि रक्ष। विश्वस्याः बहुविधात् अरातेः अदातुः सकाशात् अदानाद्वा पाहि। त्वमेव महद्धनं दत्त्वादातुरदानाद्वा सकाशाद्रक्षेत्यर्थः । यद्वा । महोभिर्युक्तस्त्वमिति योज्यम् । उत अपि च द्विषः द्वेष्टुः मर्त्यस्य मर्त्यात् सकाशात् पाहि । अस्मभ्यं बलं दत्त्वेति भावः । अथवा मर्त्यस्य द्विषो द्वेषाद्रक्षेति संबंधः। अरातेरित्यस्यादानादिति पक्षे तत्रापि मर्त्यस्यादानादिति संबंधनीयम् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us by honours, or by great riches; protect us from every manifold niggard, that is, from the non-giver, or from non-giving. That is, protect us by giving great wealth, and from the non-giver or from non-giving. Or else the construction is: you, endowed with great splendours. And protect us from the hater, from the mortal who hates; that is, giving us strength. Or else the connection is: protect from the hatred of a mortal. In the alternative in which अरातेः (*arāteḥ*) means "from non-giving", the connection with the mortal's non-giving is to be made there also.
+
+### Printed p. 64
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- महोभिः (*mahobhiḥ*)—by the giving of venerable wealth
+- पाहि (*pāhi*)—protect
+- विश्वस्याः (*viśvasyāḥ*)—of every kind
+- अरातेः (*arāteḥ*)—protect also from the miser who is not a sacrificer
+- उत (*uta*)—and
+- द्विषः (*dviṣaḥ*)—who is an enemy
+- मर्त्यस्य (*martyasya*)—protect also from the man
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us by the giving of venerable wealth. Protect us also from every miser who is not a sacrificer, or who does not give. And protect us also from the man who is an enemy.
+
+##### English translation
+Agni, protect us by great wealth from every niggard and mortal foe.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि म॒न्युः पौरु॑षेय॒ ईशे॒ हि वः॑ प्रियजात ।  
+> त्वमिद॑सि॒ क्षपा॑वान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । मन्युः । पौरुषेयः । ईशे । हि । वः । प्रियऽजात ।  
+> त्वम् । इत् । असि । क्षपाऽवान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रियजात अग्ने वः तव पौरुषेयः पुरुषसंवंधी मन्युः क्रोधः न ईशे नेष्टे बाधितुम् । अस्मदादिभी रक्षितत्वादिति भावः । दिवाचराः खलु पुरुषाः अतो दिवा तव हानिर्नास्तीति भावः । अथ रात्रिंचरा रक्षःप्रभृतयः । तेभ्योऽपि पीडा नास्तीत्युच्यते । त्वमित् त्वमेव खलु क्षपावान् रात्रिमान् असि । रात्रौ ह्यग्निर्विशेषेण तेजस्वी भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, born loved, your anger that belongs to man cannot prevail to hinder you, because you are protected by us and others. Men are indeed day-goers, therefore by day there is no harm to you. Then there are those who go by night, the Rākṣasas and the rest; it is said that there is no affliction from them either. You alone are the lord of night, the possessor of night; for at night Agni is especially brilliant.
+
+### Printed p. 65
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियजाते (*priyajāte*)—O Agni, whose birth causes delight
+- पौरुषेयः (*pauruṣeyaḥ*)—that is manifested by a man **NOTE**
+- मन्युः (*manyuḥ*)—anger
+- वः (*vaḥ*)—you
+- नहि ईशे हि (*nahi īśe hi*)—is not able to harm
+- त्वमित् (*tvamit*)—you alone
+- क्षपावान् (*kṣapāvān*)—as the lord of all the night
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose birth causes delight, such anger, by whatever man it is manifested, is not able to harm you. You alone are the lord of all the night.
+
+##### English translation
+O you who were born loved, no human anger can harm you,—you only are the lord of night.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ विश्वे॑भिर्दे॒वेभि॒रूर्जो॑ नपा॒द्भद्र॑शोचे ।  
+> र॒यिं दे॑हि वि॒श्ववा॑रम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । विश्वेभिः । देवेभिः । ऊर्जः । नपात् । भद्रऽशोचे ।  
+> रयिम् । देहि । विश्वऽवारम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सः स्तुत्यस्त्वं नः अस्मभ्यं वस्वो वसु धनमुप मासि प्रयच्छसि । हे ऊर्जो नपात् बलस्य नप्तर्न पातयितर्वा हे भद्रशोचे स्तुत्यप्रकाश । तदेवादरार्थं पुनराह। रयिं धनं विश्ववारं सर्वैर्वरणीयं धनं देहि । अथवा यद्वसूप मासि अस्मभ्यं दातुं तद्धनं गृहादिलक्षणं तच्च रयिं दानार्हं गोहिरण्यादिकं च देहीत्यपुनरुक्तिः ॥ ।
+
+##### Gist of the bhāṣya
+
+O Agni, you, the praised, give to us wealth; **NOTE**. O son of strength, that is, grandson of strength or one who does not cause it to fall; O one of auspicious light, that is, of praiseworthy radiance. He says the same again for emphasis: give wealth, that is, wealth desirable by all. Or else: that wealth which he gives to us, of the nature of houses and the like, and also wealth fit to be given, cows, gold and the like, give; thus there is no repetition.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वेभिः (*viśvebhiḥ*)—all
+- देवेभिः (*devebhiḥ*)—who is accompanied by the gods
+
+### Printed p. 66
+
+- ऊर्जो (*ūrjo*) नपात् (*napāt*)—son of strength
+- भद्रशोचे (*bhadraśoce*)—who has auspicious brilliance, O Agni
+- सः (*saḥ*)—you, the famous one
+- नः (*naḥ*)—to us
+- विश्ववारं (*viśvavāraṃ*)—desired by all
+- रयिं (*rayiṃ*)—wealth
+- देहि (*dehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are accompanied by all the gods, son of strength, who have auspicious brilliance, you, the famous one, give us wealth desired by all.
+
+##### English translation
+Son of strength, auspicius in brilliance, associated with all the gods, give us all desirable wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तम॑ग्ने॒ अरा॑तयो॒ मर्तं॑ युवंत रा॒यः ।  
+> यं त्राय॑से दा॒श्वांस॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तम् । अग्ने । अरातयः । मर्तम् । युवंत । रायः ।  
+> यम् । त्रायसे । दाश्वांसम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तं स्तोतारम् अरातयः अदानशीला द्वेषिणः रायः रयिमंतः न युवंत न पृथक्कुर्वंति । रायो धनाद्वा न युवंत । यं दाश्वांसं हविर्दातारं त्रायसे पालयसे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the enemies who are not givers, the haters, the wealthy, do not separate that praiser from wealth, or do not part him from riches; him, the giver, the giver of oblations, whom you protect, whom you preserve.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यं (*yaṃ*)—which
+- दाश्वांसं (*dāśvāṃsaṃ*)—sacrificer who offers oblations
+- त्रायसे (*trāyase*)—you protect
+- तं मर्तं (*taṃ martaṃ*)—such a hymn **NOTE**
+- अरातयः (*arātayaḥ*)—enemies
+- रायः (*rāyaḥ*)—from his wealth
+- न युवंत (*na yuvaṃta*)—cannot separate
+
 ---
 
-**Progress note:** Done through printed p. 60. Sūkta 70 Ṛks 9-14
+**Progress note:** Done through printed p. 66. Vol 25 Ṛk 14-15 of sūkta 70; sūkta 71 Ṛk 1-4 begun
