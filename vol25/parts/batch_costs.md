@@ -13,3 +13,4 @@
 | through p. 132 (three windows in one agent: pp. 115-132) | sonnet | 12 | 139972 | 2.8 |
 | through p. 150 (three windows in one agent: pp. 133-150) | sonnet | 15 | 147975 | 3.3 |
 | through p. 168 (three windows in one agent: pp. 151-168) | sonnet | 15 | 152083 | 3.7 |
+| through p. 180 (windows w0169 ok; w0175 failed verify after its commit, repaired by the dispatcher; w0181 not started) | sonnet | 13 | 146555 | 3.6 |

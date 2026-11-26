@@ -7081,12 +7081,6 @@ Varāha means a cloud. Because this cloud, by pouring rain, provides excellent f
 
 #### Ṛk 11
 
-#### Ṛk 12
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 13
-
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > तु॒वि॒क्षं ते॒ सुकृ॑तं सू॒मयं॒ धनुः॑ सा॒धुर्बुं॒दो हि॑र॒ण्ययः॑ ।  
