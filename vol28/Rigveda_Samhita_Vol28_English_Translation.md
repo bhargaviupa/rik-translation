@@ -1916,6 +1916,253 @@ They go separately (to the worlds of the gods), first those who offer oblations 
 - पुरूणि (*purūṇi*)—are abundant, they
 - इत्था (*itthā*)—as described above, obtain an excellent course
 
+### Printed p. 49
+
+##### भावार्थ (Bhāvārtha)
+
+Even though they have the strength to yoke powerful horses to the chariot and win wealth, those who, being of evil mind, do not perform the rite go only downward. The sacrificers who are ready to offer the oblation before death, and in whom abundant excellent knowledge and wealth that serves enjoyment bear fruit, attain the excellent state described above.
+
+##### English translation
+Thus may those others the ignorant go downwards, whose restive horses are yoked ; otherwise (is it with those) who before (death) are near unto liberality, amongst whom precious gifts (to the gods) are numerous.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रीरज्रा॒नेज॑माना आधारय॒द्दौः क्रं॑ददं॒तरि॑क्षाणि कोपयत् ।  
+> स॒मी॒ची॒ने धि॒षणे॒ वि ष्क॑भायति॒ वृष्णः॑ पी॒त्वा मद॑ उ॒क्धानि॑  
+> शंसति ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरीन् । अज्रान् । रेजमानान् । आधारयत् । द्यौः । क्रंदत् । अंतरिक्षाणि ।  
+> कोपयत् ।  
+> समीचीने इति संईचीने । धिषणे इति । वि । स्वभायति । वृष्णः । पीत्वा । मदे ।  
+> उक्धानि । शंसति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सायुक्तं
+> गिरीश्वेघानज्रान्गमनशीलांज्रेजमानान्यंपमानानाधारयत् । इंद्रो धारितवान् । निश्चलान्कृतवानित्यर्थः । किंच द्यौर्द्युलोकस्तन्निवासी वा जनोऽसुरराक्षसेभ्यो भीतः सन् क्रंदत् । क्रंदति । इंद्रमाह्वयत्यात्मनः परित्राणार्थं । किंचें.
+> द्रोऽंतरिक्षणि कोपयत् । कोपयति । संक्षोभयतीत्यर्थः । किंचेंद्रः समीचीने परस्परं संगते धिषणे द्यावापृथिव्यै वि ष्कभायति । अंतरिक्षेण स्तंभाति । स्तंभ-
+
+##### Gist of the bhāṣya
+
+Indra held steady the moving, trembling गिरीन् (*girīn*), which Sāyaṇa glosses as clouds (the printed word is damaged) **NOTE**. That is, he made them motionless. Heaven, or the people dwelling in it, being afraid of the asuras and rākṣasas, cries out: it calls Indra for its own protection. Indra also shakes the atmospheric regions, that is, throws them into commotion. Further, Indra firmly fixes the two धिषणे (*dhiṣaṇe*), heaven and earth, which are joined together: he props them up by means of the atmosphere.
+
+### Printed p. 50
+
+> यतीत्यर्थः । किंचेंद्रो वृष्टः स्नोदरस्यासेक्तान्नोमान्पीत्वा मदे सत्क्यादि
+> प्रतस्यानि वचनानि तंसति । प्रब्रवीति ।
+
+##### Gist of the bhāṣya
+
+Having drunk the Soma that fills his belly, Indra, in his exhilaration, utters words of praise **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अज्रान् (*ajrān*)—the moving ones
+- रेजमानान् (*rejamānān*)—the trembling
+- गिरीस् (*girīs*)—the clouds
+- आधारयत् (*ādhārayat*)—Indra made them motionless
+- दौः (*dauḥ*)—the heaven-world
+- क्रंदक् (*kraṃdak*)—cries out to Indra for protection
+- अंतरिक्षाणि (*aṃtarikṣāṇi*)—the atmospheric regions
+- कोपयत् (*kopayat*)—are thrown into commotion
+- समीचीना (*samīcīnā*)—joined together
+- धिषणे (*dhiṣaṇe*)—heaven and earth
+- विष्कभायति (*viṣkabhāyati*)—firmly establishes
+- वृष्णः (*vṛṣṇaḥ*)—the Soma juices that fill his belly
+- पीश्वा (*pīśvā*)—having drunk
+- मदे (*made*)—when exhilaration arises
+- उक्कानि (*ukkāni*)—excellent words of praise
+- शंसति (*śaṃsati*)—recites
+
+##### भावार्थ (Bhāvārtha)
+
+Indra made the moving, trembling clouds motionless. The heaven-world cries out to Indra for protection. The atmospheric regions are thrown into commotion. Indra firmly establishes heaven and earth, which are joined together. Having drunk the Soma juices that fill his belly, he recites excellent words of praise when exhilaration arises.
+
+##### English translation
+(Indra) has arrested the wandering tremulous clouds : the heaven cries out (in alarm) : he agitates the firmament ; he fixes the combined heaven and earth : having drunk of the effused Soma, he repeats praises in his exhilaration.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं बि॑भर्मि॒ सुकृ॑तं ते अंकु॒शं येवा॑रु॒जासि॑ मघवज्ञाफा॒रुजः॑ ।  
+> अ॒स्मिन्नु ते॒ सव॑ने अस्तो॒क्यं॑ सु॒त इ॒ष्टौ म॑घवन्नो॒ध्याभ॑गः
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनुं । विधर्मि । सुकृतं । के । अंकुशं । येन । आर्यनागि । पुत्रस्यदन् ।  
+> तत्त्वज्ञः ॥
+
+### Printed p. 51
+
+> अस्मिन् । सु । ते । सवने । अस्तु । ओक्कं । सुते । इष्टौ । मघवन् । बोधि ।  
+> आभगः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघदन्नवन्निंद्र ते तव सुकृतं संस्कृतमिममंकुशं बिभर्मि । धारयामि । अश्रांकुशशब्देन प्रेरकत्वगुणयोगात्सुतिरुच्यते । स्तुतिं धारयामीत्यर्थः येन स्तुतिलक्षणांकुशेन स्तुतः संस्कृं शफारुज अभिमुख्येन परबलानां
+> हंत्यनैरावतादीन्गजानारुजासि अभिमुख्येन रुजसि । पीडयसीत्यर्थः । किंच ते
+> तवास्मिन्नस्मदीये सवन ओक्कमोको निवासोऽस्तु । भवतु । किंच हे मघदन्नवन्निंद्र आभग अभजनीयस्यं सुते सुतसोम इष्टौ यज्ञॆ बोधि । अस्मदीयाः
+> स्तुतीर्बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, I bear this well-prepared goad of yours, अंकुशं (*aṃkuśaṃ*). Here, because the goad has the quality of urging on, "goad" means praise: the meaning is "I hold praise". By this goad of praise, being praised, you press upon and torment, facing them, Airāvata and the other elephants that destroy the strength of the enemy **NOTE**. Further, let your dwelling ओक्कं (*okkaṃ*) be in this our Soma-pressing. And, O wealthy Indra, worthy of worship, be aware of our praises at the sacrifice in which Soma has been pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- येन (*yena*)—by which goad in the form of praise
+- तफारुजः (*taphārujaḥ*)—your elephants such as Airāvata, that fall upon the enemies
+- आरुजासि (*ārujāsi*)—you prod
+- ते (*te*)—your
+- सुकृतं (*sukṛtaṃ*)—well prepared
+- इदुं अंकुशं (*iduṃ aṃkuśaṃ*)—this goad in the form of praise
+- बिभर्मि (*bibharmi*)—I hold
+- ते (*te*)—for you
+- ओक्क्यं (*okkyaṃ*)—a dwelling-place
+- अस्मिन् सदने (*asmin sadane*)—in this our sacrifice
+- अस्तु (*astu*)—let it be
+- मघवन् (*maghavan*)—O wealthy Indra
+- अभगः (*abhagaḥ*)—you, the worshipful
+- सुते (*sute*)—in which Soma has been pressed
+- इष्टौ (*iṣṭau*)—in our sacrifice
+- बोधि (*bodhi*)—know our words of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, I hold this goad of yours, well prepared and in the form of praise, with which you prod your elephants such as Airāvata that fall upon the enemy armies. Let there be a dwelling for you in this our sacrifice. O wealthy Indra, worshipful one, know our words of praise in our sacrifice where Soma has been pressed.
+
+##### English translation
+I bear this your well-made goad, (excited) by which, Maghavat, you urge on the slayers of powerful foes. Let your abode be at this my sacrifice. Accept, Maghavat, who are to be adored, (my praise) at the sacrifice at which (the Soma) is effused.
+
+### Printed p. 52
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न॒ क्षुधं॑ पुरुहूत्॒त विश्वां॑ ।  
+> व॒यं राज॑भिः प्रथ॒मा धना॑स्य॒स्माके॑न वृ॒जने॑वा जयेम ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोभिः । शरेम । अमतिं । दुःखिवां । यवेन । क्षुधं । पुरुषूत । विश्वां ।  
+> वयं । राजभिः । प्रथमाः । धनानि । आस्माकेन । वृजनेस । जयेम ॥ १० "
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र तव प्रसादाद्दुरेवां दुष्टागदुसां
+> दारिद्रादागताममतिं दुर्बुद्धिं वयं घौषेयाः सुहस्त्या गोभिः पशुभिस्तरेम ।
+> निस्तरेम । किंच यवेन विश्वां व्याप्तां क्षुधं शरेम । किंच प्रथमा मुख्यापि
+> धनानि राजभिर्धनानामीश्वरैः । लभेमहीति शेषः । यद्वा । प्रथमा वयमिति
+> संबंधः । किंचास्माकेनास्मदीयेन वृजनेन बलेन जयेम । शत्रुविनिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Puruhūta, Indra invoked by many, by your grace may we cross over अमतिं (*amatiṃ*), evil-mindedness, which has come from poverty (दुरेवां (*durevāṃ*) is glossed as "bad … coming from poverty") **NOTE**, by means of cattle: may we get past it. And by means of barley may we get past all-pervading hunger. Further, may we obtain the foremost riches through the kings, the lords of wealth (the verb "may we obtain" is supplied). Or else the construction is "we, the first". And by our own strength वृजनेन (*vṛjanena*) may we conquer (the enemy is supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, called upon by many
+- दुरेणां (*dureṇāṃ*)—arisen from poverty
+- अमतिं (*amatiṃ*)—evil-mindedness
+- वयं (*vayaṃ*)—we
+- गोभिः (*gobhiḥ*)—with the help of our wealth of cattle
+- तरेम (*tarema*)—may we cross over
+- यवेन (*yavena*)—with the help of barley
+- विश्वां (*viśvāṃ*)—that surrounds us
+- क्षुधं (*kṣudhaṃ*)—hunger; may we cross over it
+- प्रथमाः (*prathamāḥ*)—the most important
+- धनानि (*dhanāni*)—riches
+- राजभी (*rājabhī*)—from the lords of wealth (may we obtain them)
+- अस्माकेन (*asmākena*)—our
+- वृजनेन (*vṛjanena*)—by strength
+- जयेम (*jayema*)—may we conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Puruhūta Indra, may we cross over the evil-mindedness that has come from poverty by means of our wealth of cattle. May we destroy the hunger that surrounds us with the help of barley. May we obtain the foremost riches from the wealthy. May we conquer our enemies by our strength.
+
+##### English translation
+Indra, invoked of many, may we escape all ignorance caused by poverty by means of our cattle : (may we escape) all hunger by means of our barley : (may we acquire) the chief riches through the princes (of wealth) : may we conquer by our valour.
+
+### Printed p. 53
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
+> इंद्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । नः । परि । पातु । पश्चात् । उत । उत्तरस्मात् । आधरात् । अघयोः।  
+> इंद्रः । पुरस्तात् । उत । मध्यतः । नः । सखा । सखिभ्यः । वरिवः । कृणोतु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पश्चात्पश्चिमतो योऽघायुरागच्छति तस्मादघायोः पापकाच्छत्रोर्नोS-
+> Sस्मास्पृहस्पतिः परि पातु । रक्षतु । उतापि चोत्तरस्मादुत्तरतोऽधरादधस्ताच्च
+> योऽघायुरागच्छति तस्मादघायोर्नोऽस्मान्परि पातु । उतापि चेंद्रः पुरस्तात्पूर्वतोमध्यतश्च योऽघायुरागच्छति तस्मादघायोर्नोऽस्मान्सरि पातु । किंच ।
+> सखा सखीभूतेंद्रः सखिभ्यः प्रियेभ्योऽस्मभ्यं वरिवो धनं कृणोतु । करोतु ॥
+
+##### Gist of the bhāṣya
+
+From the evil-minded foe who comes from behind, from the west, may Bṛhaspati protect us. And from the evil-minded one who comes from the north, उत्तरस्मात् (*uttarasmāt*), and from below, अधरात् (*adharāt*), may he protect us. Likewise may Indra protect us from the evil-minded one who comes from the front, from the east, and from the middle. Further, may Indra, the friend, make वरिवः (*varivaḥ*), wealth, for us, his dear friends. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- पश्चात् (*paścāt*)—from behind us
+- अघायोः (*aghāyoḥ*)—from the enemy who wishes us harm
+- नः (*naḥ*)—us
+- परि पातु (*pari pātu*)—may he protect
+- उत (*uta*)—and
+- उत्तरस्मात् (*uttarasmāt*)—from the part above us
+- अधरात् (*adharāt*)—may he protect us from the enemies who fall upon us from the part below
+- उत (*uta*)—and
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुरस्तात् (*purastāt*)—from the eastern direction
+- मध्यतः (*madhyataḥ*)—from the middle
+- नः (*naḥ*)—may he protect us
+- सखा (*sakhā*)—Indra, the friend
+- सखिभ्यः (*sakhibhyaḥ*)—to us, his friends
+- वरिवः (*varivaḥ*)—wealth
+- कृणोतु (*kṛṇotu*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May Bṛhaspati protect us from the enemy who comes from behind us wishing us harm. May he protect us also from the enemies who fall upon us from above and from below. May Indra protect us from the eastern direction and from the middle. May Indra, the friend, provide wealth to us, his friends.
+
+### Printed p. 54
+
+##### English translation
+May Brihaspati defend us from a malignant (foe) coming from behind, from above, or from below; may Indra defend us from foes in front and in the middle; may he, our friend bestow wealth upon (us) his friends.
+
+## Sūkta 45 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवस्परीति द्वादशर्चं तृतीयं सूक्तं भालंदनस्य वत्सप्रेरार्षं त्रैष्टुधमाग्नेयं । तथा चानुक्रांतं । दिवस्परि द्वादश वत्सप्रिराग्नेयं त्विति ॥ प्रातरनुपाकाश्चिनशस्त्रयोरिदमादिके द्वे सूक्ते अस्य सूक्तस्यांत्यां वर्जयित्वा । सूत्रितं चदिवस्परीति सूक्तयोः पूर्वस्कोत्तमामुद्धरेत् । आ-४-१३। इति ॥ क्षामवत्यामक्रंद
+> दग्निरित्येषा याज्या । सूत्रितं च । अग्ने त्वमस्मद्युयोध्यमीवा अक्रंददग्निः
+> स्तनयॆन्निवद्यौः । आ-३-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning दिवस्परि (*divaspari*) has twelve Ṛks and is the third sūkta. Its seer is Vatsapri, son of Bhalandana (the printed Sanskrit reads वत्सप्रेरार्षं (*vatsaprerārṣaṃ*)) **NOTE**; its deity is Agni; its metre is Triṣṭubh. The Anukramaṇī is quoted accordingly. In the Prātaranuvāka and the Āśvina-śastra, the two sūktas beginning with this one, the first and the following, are used, leaving out the last Ṛk of this sūkta. The sūtra is cited: दिवस्परीति सूक्तयोः पूर्वस्कोत्तमामुद्धरेत् (*divasparīti sūktayoḥ pūrvaskottamāmuddharet*) (Ā. 4-13). The fourth Ṛk, beginning अक्रंददग्निः (*akraṃdadagniḥ*), is the yājyā in the oblation to Agni Kṣāmavat. The sūtra is cited: अग्ने त्वमस्मद्युयोध्यमीवा (*agne tvamasmadyuyodhyamīvā*) and the rest (Ā. 3-13). **NOTE**
+
+##### Anuvāda
+
+This sūkta, beginning दिवस्परि (*divaspari*), is the third sūkta in the fourth anuvāka. It has twelve Ṛks. The seer of this sūkta is Vatsapri Bhālandana; the deity is Agni; the metre is Triṣṭubh. The Anukramaṇī says दिवस्परि द्वादश वत्सप्रिराग्नियं तु (*divaspari dvādaśa vatsaprirāgniyaṃ tu*). At the time of reciting the Prātaranuvāka and the Āśvinaśastra mantras, this sūkta, except its last Ṛk, and the following sūkta are used, as explained by the Āśvalāyana-Śrautasūtra sūtra दिवस्परीति सूक्तयोः पूर्वस्कोत्तमामुद्धरेत् (*divasparīti sūktayoḥ pūrvaskottamāmuddharet*) (Ā. 4-13). In the homa addressed to Agni Kṣāmavat, the fourth Ṛk of this sūkta, अक्रंददग्निः (*akraṃdadagniḥ*), is to be recited as the yājyā mantra, as explained by the Āśvalāyana-Śrautasūtra sūtra अग्ने त्वमस्मद्युयोध्यमीवा (*agne tvamasmadyuyodhyamīvā*) and the rest (Ā. 4-15).
+
+Sūkta 45. Maṇḍala 10. Anuvāka 4. Sūkta 85. Aṣṭaka 7. Adhyāya 8. Vargas 24, 29. Number of Ṛks in the sūkta: 12. Seer: Vatsapri. Deity: Agni. Metre: Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
+**Progress note:** Done through printed p. 54. pp. 49-54 (batch API), Pratipadārtha line un-quoted in kn.md
