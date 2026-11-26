@@ -15914,6 +15914,246 @@ I invoke those Maruts to drink this Soma, who have established heaven and earth.
 - मारुतं गणं (*mārutaṃ gaṇaṃ*)—the company of the Marut gods
 - अस्य सोमस्य (*asya somasya*)—of this Soma that I have made ready
 
+### Printed p. 410
+
+- सु (*su*)—quickly
+- हुवे (*huve*)—I, the seer of this sūkta, named Bindu, entreat and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+That well-known company of the Marut gods, which blows in the mountain regions or among masses of cloud, and which rains desires or water, I, the seer of this sūkta, named Bindu, quickly entreat and invoke for the drinking of this Soma-juice that I have made ready.
+
+##### English translation
+I invoke that band of the Maruts, abiding in the clouds, the showers, to drink this Soma.
+
+## Sūkta 95 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘आ त्वा' इति नवर्चं द्वितीयं सूक्तमानुष्टुभमैंद्रम् । तिरश्चीर्नामांगिरस ऋषिः । तथा चानुक्रम्यते- ‘ आ त्वा नव तिरश्चीरानुष्टुभम्' इति । आभिप्लविकेषूक्थ्येषु तृतीयसवनेऽच्छावाकस्य  ‘ आ त्वा गिरः' इति तृचो वैकल्पिकोऽनुरूपः । सूत्र्यते हि -- गायंति त्वा गायत्रिण आ त्वा गिरो रथीरिव' (आश्व. श्रौ. ७. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ त्वा (*ā tvā*) has nine Ṛks; it is the second sūkta, in the Anuṣṭubh metre, addressed to Indra. The seer is Tiraścī of the family of Aṅgiras. So the Anukramaṇī says: आ त्वा नव तिरश्चीरानुष्टुभम् (*ā tvā nava tiraścīrānuṣṭubham*). In the Ābhiplavika Ukthya rites, at the third pressing, the triplet beginning आ त्वा गिरः (*ā tvā giraḥ*) is an optional Anurūpa of the Acchāvāka. For it is stated in the Sūtra: गायंति त्वा गायत्रिण आ त्वा गिरो रथीरिव (*gāyaṃti tvā gāyatriṇa ā tvā giro rathīriva*) (Āśv. Śrau. 7. 8).
+
+In the Ṛgveda, the sūkta beginning आ त्वा गिरः (*ā tvā giraḥ*) is the second sūkta in the tenth maṇḍala. **NOTE** It has nine Ṛks. The seer of this sūkta is Tiraścī, the son of Aṅgiras; the deity is Indra; the metre is Anuṣṭup. In the Anukramaṇī it is said: आ त्वा नव तिरश्चीरानुष्टुभं (*ā tvā nava tiraścīrānuṣṭubhaṃ*). In the Ukthya sacrifices connected with the Abhiplava, at the third pressing, the priest called Acchāvāka is to recite the three Ṛks beginning आ त्वा गिरः (*ā tvā giraḥ*) as the optional Anurūpa triplet; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra गायंति त्वा गायत्रिण आ त्वा गिरो रथीरिव (*gāyaṃti tvā gāyatriṇa ā tvā giro rathīriva*) (Ā. 7-8).
+
+Sūkta—95
+Maṇḍala—8 ‖ Anuvāka—10 ‖ Sūkta—95 ‖
+Aṣṭaka—6 ‖ Adhyāya—6 ‖ Varga—30, 31 ‖
+Number of Ṛks in the sūkta—9 ‖
+Ṛṣi—Tiraścīḥ ‖
+Devatā—Indraḥ ‖
+Chandas—Anuṣṭup ‖
+
+### Printed p. 411
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ गिरो॑ र॒थीरि॒वास्थुः॑ सु॒तेषु॑ गिर्वणः ।  
+> अ॒भि त्वा॒ सम॑नूष॒तेंद्र॑ व॒त्सं न मा॒तरः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । गिरः । रथीःऽइव । अस्थुः । सुतेषु । गिर्वणः ।  
+> अभि । त्वा । सम् । अनूषत । इंद्र । वत्सम् । न । मातरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणः गीर्भिर्वननीयेंद्र सुतेषु सोमेष्वभिषुतेषु सत्सु गिरः अस्माकं स्तुतिलक्षणा वाचः त्वा त्वाम् आ अस्थुः आभिमुख्येन शीघ्रं तिष्ठंति । तत्र दृष्टांतः । रथीरिव । यथा रथवान् रथेन गच्छन् वीरः प्राप्यं देशं क्षिप्रं गच्छति तद्वदस्माभिरभिगंतव्यं त्वां स्तुतयोऽभिगच्छंति । किंच हे इंद्र अस्मदीया गिरः त्वा त्वामभिलक्ष्य समनूषत सम्यक् शब्दायंते । स्तुवंतीत्यर्थः । ‘नू स्तवने' । कुटादिः । तस्य लुङि रूपम् । तत्र दृष्टांतः । वत्सं न मातरः । यथा मातरो गावो वत्समभिलक्ष्य हंभारवादिशब्दं कुर्वंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O गिर्वणः (*girvaṇaḥ*), Indra, who are to be served with songs, when the Soma has been pressed, our songs, in the form of praise, आ अस्थुः (*ā asthuḥ*), stand quickly facing you. The illustration is रथीरिव (*rathīriva*): as a hero who has a chariot, going by chariot, quickly reaches the place he is to reach, so our praises go to you, whom we are to approach. Moreover, O Indra, our songs, aiming at you, समनूषत (*samanūṣata*), sound well, that is, they praise. The illustration is वत्सं न मातरः (*vatsaṃ na mātaraḥ*): as mother cows, aiming at the calf, make a sound such as lowing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O Indra, fond of praise
+- रथीरिव (*rathīriva*)—as the master of a chariot goes to any region he likes
+- सुतेषु (*suteṣu*)—at the time when Soma is pressed
+- गिरः (*giraḥ*)—our praises
+- त्वा (*tvā*)—aiming at you
+- आ अस्थुः (*ā asthuḥ*)—come and gather quickly
+- इंद्र (*iṃdra*)—O Indra
+- मातरः (*mātaraḥ*)—the cows who are mothers
+- वत्सं न (*vatsaṃ na*)—as they call out lovingly when calling their calves
+- त्वा अभि (*tvā abhi*)—towards you
+- समनूषत (*samanūṣata*)—our words of praise resound
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fond of praise, as the master of a chariot goes to any region he likes, so at the time when Soma is pressed our praises, aiming at you, come and gather quickly. O Indra, as the mother cows call out lovingly when they call their calves, so our words of praise resound towards you.
+
+### Printed p. 412
+
+##### English translation
+O Indra worthy of praise, when the Soma is effused, our songs hasten to you as a charioteer (to his goal); they low towards you as cows towards their calves.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ शु॒क्रा अ॑चुच्यवुः सु॒तास॑ इंद्र गिर्वणः ।  
+> पिबा॒ त्व१॒॑स्यांध॑स॒ इंद्र॒ विश्वा॑सु ते हि॒तम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । शुक्राः । अचुच्यवुः । सुतासः । इंद्र । गिर्वणः ।  
+> पिब । तु । अस्य । अंधसः । इंद्र । विश्वासु । ते । हितम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणः गीर्भिर्वननीय हे इंद्र शुक्राः ग्रहेषु पात्रेषु च दीप्यमानाः सुतासः अस्माभिः अभिषुताः सोमाः त्वा त्वाम् आ अचुच्यवुः आगच्छंतु । ' च्युङ् प्लुङ् गती'। लङि ‘बहुलं छंदसि ' इति शपः  श्लुः । ततस्त्वमस्माभिर्दीयमानस्य अंधसः सोमस्य भवदीयं भाग तु क्षिप्रं पिब । तदेवोपपादयति । हे इंद्र विश्वासु सर्वासु दिक्षु ते त्वदर्थं सोमपुरोडाशादिहविः हितं निहितं भवति ॥
+
+##### Gist of the bhāṣya
+
+O गिर्वणः (*girvaṇaḥ*), Indra, to be served with songs, the Soma-juices शुक्राः (*śukrāḥ*), shining in the cups and vessels, सुतासः (*sutāsaḥ*), pressed by us, आ अचुच्यवुः (*ā acucyavuḥ*), may come to you. Then do you quickly drink your portion of the Soma, अंधसः (*aṃdhasaḥ*), given by us. He confirms this: O Indra, in all directions, विश्वासु (*viśvāsu*), the oblations, Soma, the cake and the rest, are placed for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—fond of praise
+- इंद्र (*iṃdra*)—O Indra
+- शुक्राः (*śukrāḥ*)—shining
+- सुतासः (*sutāsaḥ*)—the Soma-juices pressed by us
+- त्वा (*tvā*)—you
+- आ अचुच्यवुः (*ā acucyavuḥ*)—may they come and join
+- अस्य अंधसः (*asya aṃdhasaḥ*)—of this Soma-juice, your portion
+- तु (*tu*)—quickly
+- पिब (*piba*)—drink
+- इंद्र (*iṃdra*)—O Indra
+- विश्वासु (*viśvāsu*)—in all directions
+- ते (*te*)—aiming at you
+- हितं (*hitaṃ*)—oblations such as Soma have been offered
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fond of praise, may the shining Soma-juices pressed by us come and join you. Drink quickly your portion of this Soma-juice. O Indra, in all directions oblations such as Soma have been offered to you.
+
+### Printed p. 413
+
+##### English translation
+Indra worthy of praise, let the bright Soma-libations come to you ; drink your portion of the beveragr ; Indra, in all places it is fit for you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॒ सोमं॒ मदा॑य॒ कमिंद्र॑ श्ये॒नाभृ॑तं सु॒तम् ।  
+> त्वं हि शश्व॑तीनां॒ पती॒ राजा॑ वि॒शामसि॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । सोमम् । मदाय । कम् । इंद्र । श्येनऽआभृतम् । सुतम् ।  
+> त्वम् । हि । शश्वतीनाम् । पतिः । राजा । विशाम् । असि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं श्येनाभृतम् । 'हृग्रहोर्भश्छंदसि ' इति हकारस्य भकारः । द्युलोकात् श्येनरूपया गायत्र्याहृतं सुतम् अभिषुतं सोमं मदाय हर्षाय पिब । कम् इति पूरणः सुखार्थो वा । सुखेन सोमं पिब । हिशब्दो हेतौ । हि यस्मात् त्वं शश्वतीनां बह्वीनां विशां मरुद्गणानां सर्वेषां देवगणानां च पतिः पालयिता स्वामी असि भवसि तथा राजा स्वतेजसा दीप्यमानश्चासि । अतस्त्वं पूर्वं सोमं पिबेति ॥
+> आभिप्लविकेषूक्थ्येषु तृतीयसवनेऽच्छावाकस्य ‘श्रुधी हवं तिरश्च्या' इति वैकल्पिकः स्तोत्रियः । सूत्रितं च -- श्रुधी हवं तिरश्च्या आश्रुत्कर्ण श्रुधी हवम् ' ( आश्व. श्रौ. ७. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the pressed Soma, श्येनाभृतम् (*śyenābhṛtam*), brought from the world of heaven by the Gāyatrī in the form of a hawk, drink for exhilaration, मदाय (*madāya*). कम् (*kam*) is either an expletive or has the sense of pleasure: drink the Soma comfortably. The word हि (*hi*) has the sense of reason: because you are the lord and protector of the many शश्वतीनां (*śaśvatīnāṃ*) hosts, विशां (*viśāṃ*), of the Maruts and of all the hosts of the gods, and because you are a king shining by your own splendour, therefore drink the Soma first.
+
+In the second paragraph: in the Ābhiplavika Ukthya rites, at the third pressing, the optional Stotriya of the Acchāvāka is श्रुधी हवं तिरश्च्या (*śrudhī havaṃ tiraścyā*). And it is stated in the Sūtra: श्रुधी हवं तिरश्च्या आश्रुत्कर्ण श्रुधी हवम् (*śrudhī havaṃ tiraścyā āśrutkarṇa śrudhī havam*) (Āśv. Śrau. 7. 8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- श्येनाभृतं (*śyenābhṛtaṃ*)—brought by the Gāyatrī in the form of a hawk
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma
+- मदाय (*madāya*)—for your exhilaration
+- पिब (*piba*)—drink
+- हि (*hi*)—because
+- त्वं (*tvaṃ*)—you
+- शश्वतीनां (*śaśvatīnāṃ*)—of the many
+- विशां (*viśāṃ*)—of all the peoples, gods, men and the rest
+- पतिः (*patiḥ*)—as the protector
+- असि (*asi*)—you are
+- राजा (*rājā*)—you are self-resplendent
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the lord and protector of the many peoples, gods, men and the rest, and you are self-resplendent. Therefore drink, for your exhilaration, the Soma pressed here, brought by the Gāyatrī in the form of a hawk.
+
+### Printed p. 414
+
+##### English translation
+Drink to your fill, Indra, the effused Soma brought by the hawk, you are the lord of all the divine hosts, you are the self-resplendent.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒धी हवं॑ तिर॒श्च्या इंद्र॒ यस्त्वा॑ सप॒र्यति॑ ।  
+> सु॒वीर्य॑स्य॒ गोम॑तो रा॒यस्पू॑र्धि म॒हाँ अ॑सि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुधि । हवम् । तिरश्च्याः । इंद्र । यः । त्वा । सपर्यति ।  
+> सुऽवीर्यस्य । गोऽमतः । रायः । पूर्धि । महान् । असि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्त्वा त्वां सपर्यति । सपरशब्दः कंड्वादिः । हविर्भिः परिचरति तादृशस्य तिरश्च्याः एतन्नामकस्यर्षेः मम हवं स्तुतिभिस्त्वद्विषयमाह्वानं श्रुधि शृणु । श्रुत्वा च हे इंद्र त्वं सुवीर्यस्य शोभनवीर्योपेतस्य । यद्वा । वीरे पुत्रे भवं वीर्यम् । सुपुत्रवतः । गोमतः गवादिपशुमतः रायः धनस्य दानेन पूर्धि अस्मान् पूरय । एतत्सामर्थ्यं कुत इत्यत आह । त्वं महान् गुणाधिको देवानां श्रेष्ठश्च असि भवसि खलु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, he who serves you, सपर्यति (*saparyati*), that is, attends on you with oblations: of such a one, of me, the seer named तिरश्च्याः (*tiraścyāḥ*), hear the invocation, हवं (*havaṃ*), the call addressed to you with praises. Having heard, O Indra, fill us by the gift of wealth, रायः (*rāyaḥ*), सुवीर्यस्य (*suvīryasya*), endowed with excellent heroism; or else, that which is born in a son, a hero, is वीर्यम् (*vīryam*): so, wealth with good sons; and गोमतः (*gomataḥ*), with cattle such as cows. Whence this ability? He says: you are महान् (*mahān*), greater in qualities, and the best of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—who
+- त्वा (*tvā*)—you
+- सपर्यति (*saparyati*)—worships; such
+- तिरश्च्यः (*tiraścyaḥ*)—of the seer called Tiraścī
+- हवं (*havaṃ*)—the praise
+- श्रुधि (*śrudhi*)—hear
+- सुवीर्यस्य (*suvīryasya*)—accompanied by heroic sons
+- गोमतः (*gomataḥ*)—accompanied by cows
+- रायः (*rāyaḥ*)—by the gift of wealth
+- पूर्धि (*pūrdhi*)—fulfil our desires
+- त्वं (*tvaṃ*)—you
+- महान् (*mahān*)—of great nature
+- असि (*asi*)—you are
+
+### Printed p. 415
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, hear the praise of the seer called Tiraścī, who worships you. By the gift of wealth that is accompanied by heroic sons and by cows, fulfil our desires. You are of great nature.
+
+##### English translation
+Hear, Indra, the prayer of Tirashchi who worships you, and satisfy him with wealth bringing gallant offspring and cattle,—for you are mighty.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukthya sacrifices connected with the Abhiplava, at the third pressing, the priest called Acchāvāka is to recite the three Ṛks beginning श्रुधी हवं तिरश्च्यः (*śrudhī havaṃ tiraścyaḥ*) as the optional Stotriya triplet; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra श्रुधी हवं तिरश्च्यः आश्रुत्कर्ण श्रुधी हवं (*śrudhī havaṃ tiraścyaḥ āśrutkarṇa śrudhī havaṃ*) (Ni. 6-8). **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ यस्ते॒ नवी॑यसीं॒ गिरं॑ मं॒द्रामजी॑जनत् ।  
+> चि॒कि॒त्विन्म॑नसं॒ धियं॑ प्र॒त्नामृ॒तस्य॑ पि॒प्युषी॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । यः । ते । नवीयसीम् । गिरम् । मंद्राम् । अजीजनत् ।  
+> चिकित्वित्ऽमनसम् । धियम् । प्रत्नाम् । ऋतस्य । पिप्युषीम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यः यजमानः नवीयसीं नवतरां पुनःपुनः क्रियमाणतया मंद्रां मदकरीं गिरं स्तुतिलक्षणां वाचं ते त्वदर्थम् अजीजनत् उदपीपदत् । अकार्षीदित्यर्थः। तस्मै स्तोत्रे त्वं प्रत्नां पुरातनम् ऋतस्य सत्यस्य संबंधि । यद्वा । तृतीयार्थे षष्ठी । सत्येन पिप्युषीं प्रवृद्धम् । लिड्यङोश्च' इति प्यायतेः पीभावः । तादृशं चिकित्विन्मनसम्। कित ज्ञाने' । क्वसौ रूपम् । अकारस्येकारश्छांदसः । चिकित्वांसि ज्ञातानि सर्वेषां हृदयानि ययेति । अमायया क्रियमाणं यत्तव रक्षणं सर्वेषां हृदयं प्रज्ञापयतीति तदतींद्रियार्थदर्शकं धियं त्वदीयं रक्षणाख्यं तस्मै कुरु ॥ ॥ ३० ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the sacrificer who has produced for you, अजीजनत् (*ajījanat*), that is, made, a newer song, नवीयसीं (*navīyasīṃ*), because it is made again and again, मंद्रां (*maṃdrāṃ*), gladdening, a speech in the form of praise: for him, in this praise, you, प्रत्नां (*pratnāṃ*), ancient, ऋतस्य (*ṛtasya*), connected with truth; or else the genitive stands in the sense of the instrumental, पिप्युषीं (*pipyuṣīṃ*), grown great through truth; such, चिकित्विन्मनसम् (*cikitvinmanasam*), that is, that by which the hearts of all are made known. Your protection, which is done without deceit, makes the heart of all known; that, a धियं (*dhiyaṃ*), your own, called protection, which shows things beyond the senses, do for him.
+
 ---
 
-**Progress note:** Done through printed p. 409. Sūkta 94 Ṛks 6-12 (Pratipadārtha of Ṛk 12 cut at window end)
+**Progress note:** Done through printed p. 415. Sūkta 95 (Maṇḍala 8) Ṛks 1-5
