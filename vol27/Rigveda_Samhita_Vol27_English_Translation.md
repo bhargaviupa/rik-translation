@@ -30926,6 +30926,275 @@ When I reflect, (then I say), "I will play no more with them", I pay attention t
 > स॒भामे॑ति कित॒वः पृ॒च्छमा॑नो जे॒ष्यामीति॑ त॒न्वा॒३॒॑३शूशु॑जानः ।  
 > अ॒क्षासो॑ अस्य॒ वि ति॑रंति॒ कामं॑ प्रति॒दीव्ने॒ दध॑त॒ आ कृ॒तानि॑ ॥६॥
 
+### Printed p. 863
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सभां । एति । कितवः । पृच्छमानः । जेष्यामि । इति । तन्वा । शूशुजानः ।  
+> अक्षासः । अस्य । वि । तिरंति । कामं । प्रतिदीव्ने । दधतः । आ । कृतानि ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तन्वा शरीरेण शूशुजानः शोशुचानो दीप्यमानः कितवः कोऽत्रास्ति
+> धनिकस्तं जेष्यामिति पृच्छमानः पृच्छन् सभां कितवसंबंधिनीमेति । गच्छति । तत्र
+> प्रतिदीन्वे प्रतिदेवित्रे कितवाय कृतानि देवनोपयुक्तानि कर्माण्या दधतो
+> जयार्थमाभिमुख्येन मर्यादया वा दधतोऽस्य कितवस्य काममिच्छामक्षासोऽक्षा वितरंति । वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+The gambler, glowing in his body, asks "Who here is a rich man? I shall defeat him", and goes to the gamblers' hall. There, for the opposing gambler, the dice, bringing about the actions used in play, which are set out for victory, whether facing the opponent or by rule, increase the desire of this gambler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तन्वा (*tanvā*)—by the radiance of his body
+- शूशुजानः (*śūśujānaḥ*)—shining
+- कितवः (*kitavaḥ*)—the gambler (whoever is here)
+- जेष्यामि (*jeṣyāmi*)—can I conquer
+- इति (*iti*)—thus
+- पृच्छमानः (*pṛcchamānaḥ*)—asking himself
+- सभां (*sabhāṃ*)—the gaming platform
+- एति (*eti*)—enters
+- प्रतिदीव्ने (*pratidīvne*)—to his rival
+- कृतानि (*kṛtāni*)—challenging deeds
+- आदधतः (*ādadhataḥ*)—who shows them cleverly
+- अस्य (*asya*)—of this gambler
+- कामं (*kāmaṃ*)—the desire
+- अक्षासः (*akṣāsaḥ*)—the dice
+- वि तिरंति (*vi tiraṃti*)—cause to increase
+
+##### भावार्थ (Bhāvārtha)
+
+The gambler, shining with the radiance of his body, enters the gambling platform, asking himself whether he can conquer whoever is there. When he shows his rival the clever feats in the form of his challenge, the dice make his desire for play still greater.
+
+##### English translation
+The gamester goes to the gaming table, radiant in person, and asking himself, " Shall I win? " The dice increase his passion for play as he practises the arts of (gambling) with his adversary.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क्षास॒ इदं॑कु॒शिनो॑ नितो॒दिनो॑ नि॒कृत्वा॑न॒स्तप॑नास्तापयि॒ष्णवः॑।  
+> कु॒मा॒रदे॑ष्णा॒ जय॑तः पुन॒र्हणो॒ मध्वा॒ संपृ॑क्ताः कित॒वस्य॑  ॒॑
+> बर्हणा ॥ ७ ॥
+
+### Printed p. 864
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षासः । इत् । अंकुशिनः । नितोदिनः । निकृत्वानः । तपनाः । तापयिष्णवः ।  
+> कुमारदेष्णाः । जयतः । पुनःहनः । मध्वा । संपृक्ताः । कितवस्य । बर्हणा ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्षास इदक्षा एवांकुशिनोऽंकुशवंतो नितोदिनो नितोदितवंतश्च निकृत्वानः पराजये निकर्तनशीलाश्वेत्तारो वा तपनाः पराजये कितवस्य संतापकास्तापयिष्णवः सर्वस्वहारकत्वेन कुटुंबस्य संतापनशीलाश्च भवंति । किंच जयतः
+> कितवस्य कुमारदेष्णा धनदानेन धान्यतां लंभयंतः कुमाराणां दातारो भवंति।
+> अपि च मध्वा मधुना संपृक्ताः प्रतिकितवेन बर्हणा परिवृद्धेन सर्वस्वहरणेन
+> कितवस्य पुनर्हणः पुनर्हंतारो भवंति ॥
+
+##### Gist of the bhāṣya
+
+The dice themselves are armed with goads and are piercing; they are deceivers, or cutters, in defeat; they are burning, scorching the gambler in defeat; and they are tormenting, since by taking everything they torment the family. Further, to the winning gambler they are givers of boys: by giving him wealth they make him prosperous and give him sons. Moreover, mixed with honey, they greatly grow through the rival gambler's taking of everything, and so they become slayers once more of the gambler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षासः इत् (*akṣāsaḥ it*)—the dice themselves
+- अंकुशिनः (*aṃkuśinaḥ*)—possessing goads
+- नितो दिनः (*nito dinaḥ*)—possessing pincers
+- निकृत्वानः (*nikṛtvānaḥ*)—having the power to cut
+- तपनाः (*tapanāḥ*)—causing pain
+- तापयिष्णवः (*tāpayiṣṇavaḥ*)—giving pain to the whole household
+- जयतः (*jayataḥ*)—who wins
+- कितवस्य (*kitavasya*)—to the gambler
+- कुमारदेष्णाः (*kumāradeṣṇāḥ*)—are givers of offspring
+- मध्वा (*madhvā*)—with honey
+- संपृक्ताः (*saṃpṛktāḥ*)—the dice that are joined
+- बर्हणा (*barhaṇā*)—by taking away everything (from the one who loses)
+- पुनर्हणः (*punarhaṇaḥ*)—are slayers again
+
+##### भावार्थ (Bhāvārtha)
+
+The dice, like goads and like pincers, cutting, give pain entirely to the gambler and to his household. These dice, joined with honey, are givers of offspring to the one who wins, and to the one who loses they are killers, taking away everything.
+
+##### English translation
+Dice verily are armed with hooks, with goads, pricking, paining and torturing (the gamester) : to the winning (player) they are the givers of sons, they are tipped with honey ; slaying him in return by taking away the gambler's (all).
+
+### Printed p. 865
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒पं॒चा॒शः क्री॑ळति॒ व्रात॑ एषां दे॒व इ॑व सवि॒ता स॒त्यध॑र्मा ।  
+> उ॒ग्रस्य॑ चिन्म॒न्यवे॒ ना न॑मंते॒ राजा॑ चिदेभ्यो॒ नम॒ इत्यृ॑णोति ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिपंचाशः । क्रीळति । व्रातः । एषां । देवः इव । सविता । सत्यधर्मा ।  
+> उग्रस्य । चित् । मन्यवे । न । नमंते । राजा । चित् । एभ्यः । नमः । इत् । कृणोति ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषामक्षाणां त्रिपंचाशस्त्र्यधिकपंचाशत्संख्याको व्रातः संघः क्रीळति ।
+> आस्फारे विहरति । अक्षिकाः प्रायेण तावद्धिरक्षैर्दिर्य्यंति हि । तत्र दृष्टांतः । सत्यधर्मा सविता सर्वस्य जगतः प्रेरकः सूर्यो देव इव । यथा सविता देवो जगति
+> विहरति तद्वदक्षाणां संघ आस्फारे विहरतीत्यर्थः । किंचोग्रस्य चित् क्रूरस्यापि
+> मन्यवे क्रोधायैतेऽक्षा न नमंते । न प्रह्वीभवंति । न वशे वर्तंते । तं नमयंतीत्यर्थः । राजा चिज्जगत ईश्वरोऽप्येभ्यो नम इन्नमस्कारमेव देवनवेलायां कृणोति । नावज्ञां करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The host of these dice, numbering three over fifty, that is fifty-three, plays; it moves about on the gaming ground. Dice-players mostly play with just so many dice. The illustration is Savitṛ, true to dharma, the impeller of the whole world, the Sun, like a god: as the god Savitṛ moves about in the world, so the host of dice moves about on the board. Further, these dice do not bow before the wrath even of one who is fierce; they do not yield and do not come under his control; they make him bow. Even a king, the lord of the world, pays homage to them at the time of play, saying namas; he does not show disregard.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्यधर्मा (*satyadharmā*)—who has the law of truth
+- सविता (*savitā*)—the impeller of the whole world
+- देव इव (*deva iva*)—like the god Sūrya
+- त्रिपंचाशः (*tripaṃcāśaḥ*)—numbering fifty-three
+- एषां (*eṣāṃ*)—of these dice
+- व्रातः (*vrātaḥ*)—the host
+- क्रीळति (*krīḷati*)—plays
+- उग्रस्य चित् (*ugrasya cit*)—of one of cruel nature
+- मन्यवे (*manyave*)—to the anger of any
+- न नमंते (*na namaṃte*)—they are not frightened and do not yield
+- राजा चित् (*rājā cit*)—even a ruler
+- ऐभ्यः (*aibhyaḥ*)—to these
+- नम इत् (*nama it*)—homage only
+- कृणोति (*kṛṇoti*)—pays
+
+##### भावार्थ (Bhāvārtha)
+
+Like Savitṛ, who has the law of truth and impels the whole world, the host of these dice, fifty-three in number, plays on the board. They do not yield in fear before the anger of anyone of cruel nature. Even a king pays homage to them.
+
+### Printed p. 866
+
+##### English translation
+The aggregate fifty-three of them are played as the divine truth, observant Savitri, (travels): the dice bow not before the wrath of any, however violent ; a king himself pays them homage.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नी॒चा व॑र्तंत उ॒परि॑ स्पुरंत्यह॒स्तासो॒ हस्त॑वंतं सहंते ।  
+> दि॒व्या अंगा॑रा॒ इरि॑णे॒ न्यु॑प्ताः शी॒ताः संतो॒ हृद॑यं॒ निर्द॑हंति ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नीचा । वर्तंते । उपरि । स्पुरंति । अहस्तासः । हस्तवंतं । सहंते ।  
+> दिव्याः । अंगाराः । इरिणे । निउप्ताः । शीताः । संतः । हृदयं । निः । दहंति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि चैतेऽक्षा नीचा नीचीनस्थले वर्तंते । तथाप्युपरि पराजयाद्भीतानां
+> द्योतकराणां कितवानां हृदयस्कोपरि स्पुरंति । अहस्तासो हस्तरहिता अप्यक्षा
+> हस्तवंतं द्यूतकरं कितवं सहंते । पराजयकरणेनाभिभवंति । दिव्या दिवि भवा
+> अपकृता अंगारा आंगारसदृशा अक्षा इरिण इंधनरहित आस्फारे न्युप्ताः शीताः शीतस्पर्शाः संतोऽपि हृदयं कितवानामंतःकरणं निर्दहंति । पराजयजनितसंतापेन
+> भस्मीकुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+These dice lie low, in a low place; yet they throb above the hearts of the gamblers who are frightened of defeat. Though without hands, the dice overcome the gambler who has hands, that is, they defeat him. The dice, like coals, are divine, being of heaven, and cast upon the barren board without fuel; though cold to the touch they burn the heart of gamblers, that is, the inner mind, reducing it to ashes by the torment that defeat brings. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षाः (*akṣāḥ*)—these dice
+- नीचा (*nīcā*)—in the lower part only
+- वर्तंते (*vartaṃte*)—are (and yet)
+- उपरि (*upari*)—climbing on the one who has met defeat
+- स्पुरंति (*spuraṃti*)—they make him tremble
+- अहस्तासः (*ahastāsaḥ*)—though without hands
+- हस्तवंतं (*hastavaṃtaṃ*)—the gambler who has hands
+- सहंते (*sahaṃte*)—they humiliate
+- दिव्याः (*divyāḥ*)—thrown from the world of heaven
+- अंगाराः (*aṃgārāḥ*)—these dice, which are like live coals
+- इरिणे (*iriṇe*)—on the board, which has no firewood
+- न्युप्ताः (*nyuptāḥ*)—thrown
+- शीताः संतः (*śītāḥ saṃtaḥ*)—though cold
+- हृदयं (*hṛdayaṃ*)—the heart of the one who has lost at gambling
+- निर्दहंति (*nirdahaṃti*)—burn
+
+### Printed p. 867
+
+##### भावार्थ (Bhāvārtha)
+
+The dice, though they lie below, seem to be on top of the loser and make him tremble. Though they have no hands, they humiliate the gambler who has hands. These dice, like live coals thrown from the world of heaven, thrown on a board that has no firewood, burn the heart of the one who has lost at gambling, though they are cold.
+
+##### English translation
+Now they abide below : now they palpitate on high ; handless, they overpower him who has hands : cast upon the dice-board like coals from the sky, even though cold they burn the heart.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जा॒या त॑प्यते कित॒वस्य॑ ही॒ना मा॒ता पु॒त्रस्य॒ चर॑तः॒ क्व॑ स्वित् ।  
+> ऋ॒णा॒वा बिभ्य॒द्धन॑मि॒च्छमा॑नो॒ऽन्येषा॒मस्त॒मुप॒ नक्त॑मेति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जाया । तप्यते । कितवस्य । हीना । माता । पुत्रस्य । चरतः । क्व । स्वित् ।  
+> ऋणवा । बिभ्यत् । धनं । इच्छमानः । अन्येषां । अस्तं । उप । नक्तं । एति ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्व स्वित् क्वापि चरतो निर्वेदाद्दच्छतः कितवस्य जाया भार्या हीना परित्यक्ता
+> सती तप्यते । वियोगजसंतापेन संतप्ता भवति । माता जनन्यपि पुत्रस्य क्वापि चरतः
+> कितवस्य संबंधाद्धीना तप्यते । पुत्रशोकेन संतप्ता भवति । ऋणावाक्षपराजयादृणवान् कितवः सर्वतो बिभद्धनं स्तेयजनितमिच्छमानः कामयमानोऽन्नेषां ब्राह्मणादीनामस्तं गृहं । अस्तं पस्त्यमिति गृहनामसु पाठात् । नक्तं
+> रात्रावपुपैति । चौर्यार्थमुपगच्छति ॥
+
+##### Gist of the bhāṣya
+
+The wife of the gambler who wanders somewhere out of despair, abandoned, is tormented; she is burnt by the pain of separation. The mother too, deprived through the gambler son who wanders anywhere, is tormented; she is burnt by grief for her son. The gambler who is in debt through losing at dice, fearing on every side and wishing for wealth got by theft, goes at night to the house of others, Brahmins and the rest; the word for house is given among the names of houses by the reading. That is, he approaches for the sake of theft.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्वस्वित् (*kvasvit*)—wherever his mind leads
+- चरतः (*carataḥ*)—who wanders sadly
+- कितवस्य (*kitavasya*)—of the one who has lost at gambling
+- जाया (*jāyā*)—the wife
+- हीना (*hīnā*)—abandoned by him
+- तप्यते (*tapyate*)—suffers anguish
+
+### Printed p. 868
+
+- माता (*mātā*)—his mother
+- पुत्रस्य (*putrasya*)—grieves for her son, who wanders without aim
+- ऋणावा (*ṛṇāvā*)—the gambler sunk in debt
+- बिभ्यद्धनं (*bibhyaddhanaṃ*)—that he must win money, even by theft
+- इच्छमानः (*icchamānaḥ*)—wishing eagerly
+- अन्येषां (*anyeṣāṃ*)—of others
+- अस्तं (*astaṃ*)—to the house
+- नक्तं (*naktaṃ*)—at night
+- उपैति (*upaiti*)—breaks in to steal
+
+##### भावार्थ (Bhāvārtha)
+
+The wife of the gambler who has lost at gambling and wanders sadly wherever his mind leads, abandoned by him, suffers anguish. His mother too grieves for her son who wanders without aim. The gambler, sunk in debt, eagerly wishing to win money even by theft, breaks into the houses of others at night to steal.
+
+##### English translation
+The deserted wife of the gamester is afflicted : the mother (grieves) for the son wandering wherever he likes ; involved in debt, ever in fear, anxious for wealth, (the gambler) goes forth by night to the dwellings of others (to plunder).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्त्रियं॑ दृ॒ष्ट्वा य॑ कित॒वं त॑तापा॒न्वेषां॑ जा॒यां सुकृ॑तं च॒  ॑
+> योनिं ।  
+> पू॒र्वा॒ह्ने अश्वा॑न्युयु॒जे हि ब॒भ्रून्सो अ॒ग्नेरंते॑ वृष॒लः  ॑
+> पपाद ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्त्रियं । दृष्ट्वा य । कितवं । तताप । अन्वेषां । जायां । सुकृतं । च । योनिं ।  
+> पूर्वाह्ने । अश्वान् । युयुजे । हि । बभ्रून् । सः । अग्नेः । अंते । वृषलः ।  
+> पपाद ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कितवं कितवः ॥ विभक्तिव्यत्ययः ॥ अन्येषां स्वव्यतिरिक्तानां पुरुषाणां जायां
+> जायाभूतां स्त्रीयं नारीं सुखेन वर्तमानां सुकृतं सुष्टु कृतं योनिं गृहं
+
+##### Gist of the bhāṣya
+
+The word कितवं (*kitavaṃ*) stands for कितवः (*kitavaḥ*), by a change of case ending. Of men other than himself, the wife, a woman living in comfort, and the well-made home
+
 ---
 
-**Progress note:** Done through printed p. 862. Sukta 34 Rk 1 special topics; Rk 2-5; Rk 6 samhita
+**Progress note:** Done through printed p. 868. Sukta 34 Rk 6 (rest) to Rk 11 bhasya start
