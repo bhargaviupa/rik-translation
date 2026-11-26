@@ -34446,6 +34446,231 @@ A king named Śaryāti, when his daughters were playing, gave to the aged sage C
 
 This matter is mentioned in these Ṛks, and also in many other Ṛks such as Ṛ. Saṃ. 5-74-5; 7-62.6.
 
+### Printed p. 948
+
+Taugrya: the son of the king named Tugra is here called Taugrya. His name is Bhujyu. It is described in many Ṛks of the Ṛgveda that, while he was sailing on the sea, he was being sunk in mid-ocean by the blows of the waves, and when he prayed to the Aśvin gods they saved him.
+
+That Bhujyu, the son of Tugra, when he was harassed by enemies and thrown into the sea, praised you, pleased you and called you to his help, is indicated in Ṛ. Saṃ. 1-180-5.
+
+Once enemies defeated the lord named Taugrya, bound his hands and feet and threw him into the middle of the sea. Unable to cross the sea, he prayed to the Aśvin gods for help. At once they yoked horses to their chariot, drove it down into the sea and brought him to the shore. Thus Sāyaṇa has cited the earlier story. This son of Tugra is known by the name Bhujyu, and his story is described in many places.
+
+That the Aśvin gods saved this same son of Tugra who had sunk in the sea has been described by Kakṣīvat, the son of Dīrghatamas, in sūktas 1-116 and 1-117; by Agastya Maitrāvaruṇi in sūkta 1.182; by Brahmātithi of the Kaṇva family in sūkta 8.5; and by Ghoṣā, the daughter of Kakṣīvat, in 10-39. In sūkta 1-182 it is described as follows, both how they sent boats, and how the son of Tugra, filled with hope, clung to those boats and was saved by their favour:
+
+युवमेतं चक्रथुः सिंधुषु प्लवमात्मनंतं दक्षिणं तौग्राय कं । (*yuvametaṃ cakrathuḥ siṃdhuṣu plavamātmanaṃtaṃ dakṣiṇaṃ taugrāya kaṃ |*)
+
+येन देवत्रा मनसा निरूहथुः सुपप्तनी पेतथुः क्षोदसो महः ॥ (*yena devatrā manasā nirūhathuḥ supaptanī petathuḥ kṣodaso mahaḥ ‖*)
+
+अवविद्धं तौग्रमप्पन्तरनारंभणे तमसि प्रविद्धं । (*avaviddhaṃ taugramappantaranāraṃbhaṇe tamasi praviddhaṃ |*)
+
+चतस्रो नावो जठलस्य जुष्टा उदश्विभ्यामिषिताः पारयंति । (*catasro nāvo jaṭhalasya juṣṭā udaśvibhyāmiṣitāḥ pārayaṃti |*)
+
+कः स्विदृक्षो निष्ठितो मध्यॆ अर्णसो यं तौग्रो नाधितः पर्यषस्वजत् ॥ (*kaḥ svidṛkṣo niṣṭhito madhyè arṇaso yaṃ taugro nādhitaḥ paryaṣasvajat ‖*)
+
+पर्णा मृगस्य पतरोरिवारभ उदश्विना ऊहथुः श्रोमताय कं ॥ (*parṇā mṛgasya patarorivārabha udaśvinā ūhathuḥ śromatāya kaṃ ‖*)
+
+(Mu. Saṃ. 1-182-5 to 7) **NOTE**
+
+O Aśvin gods, for Bhujyu, the son of Tugra, you made this boat, endowed with life and furnished with wings. For the son of Tugra, who had fallen into the fathomless sea shrouded in darkness and was sinking, you sent four boats. As wings are a support in the sky for flying birds, so the limbs of the boat that were a support and protection for Bhujyu sinking in the sea: from what tree did you make them? Thus it is praised. The same point is indicated in the present Ṛk also.
+
+### Printed p. 949
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रा॒णा वां॑ वी॒र्या॒३॒॑ ३ प्र ब्र॑वा॒ जनेऽथो॑ हासथुर्भि॒षजा॑  ॒॑
+> मयो॒भुवा॑ ।  
+> ता वां॒ नु नव्या॒वव॑से करामहे॒यं ना॑सत्या॒ श्रद॒रिर्यथा॒  ॑
+> दधत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुराणा । वां । वीर्या । प्र । ब्रव । जने । अथो इति । ह । आसथुः । भिषजा ।  
+> मयःऽभुवा !  
+> ता । वां । नु । नवौ । अवसे । करामहे । अयं । नासत्या । श्रत् । अरिः । यथा ।  
+> दधत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवयोः पुराणा पुराणानि वीर्याणि जने लोके प्र
+> ब्रव । प्रब्रवीमि । अथो अपि च हे नासत्या नासत्या युवां मयोभुवा सुखस्य
+> भावयितारौ भिषजा भिषजौ वैद्यावासथुः । बभूवथुः । ता तौ युवामवसे
+> रक्षणाय नव्यौ स्तुत्यौ करामहे । कुर्मः । अयमरिर्गंता पतिर्यजमानो यथा
+> श्रद्दधत् । श्रद्दध्यादिति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aśvins, I proclaim among the people your ancient heroic deeds. And, O Nāsatyas, you are the physicians, the bestowers of happiness. Therefore we make you two praiseworthy for our protection, so that this one, the visitor, the lord, the sacrificer, may have faith.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- युवां (*yuvāṃ*)—you
+- मयोभुवा (*mayobhuvā*)—bestowers of happiness
+- भिषजा (*bhiṣajā*)—as physicians
+- आसथुः (*āsathuḥ*)—you have been
+- अथो (*atho*)—therefore
+- वां (*vāṃ*)—your
+- पुराणा वीर्या (*purāṇā vīryā*)—ancient heroic deeds
+- जने (*jane*)—in the world
+- प्र ब्रव (*pra brava*)—I praise and extol
+- यथा (*yathā*)—in the way that
+- अयं अरिः (*ayaṃ ariḥ*)—this sacrificer
+- श्रद्धधत् (*śraddhadhat*)—he may place faith
+- ता वां (*tā vāṃ*)—you both
+- अवसे (*avase*)—for our protection
+- नव्या (*navyā*)—as praiseworthy
+- करामहे (*karāmahe*)—we make
+
+### Printed p. 950
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, you are physicians who give happiness. Therefore I praise and extol your ancient heroic deeds in the world. In the way that this sacrificer places faith in you, so we make you both praiseworthy for our protection.
+
+##### English translation
+I proclaim, Ashwins, your ancient exploits among the people, for you were the physicians, the bestowers of felicity : we count you two worthy to be praised for (our) preservation : so that this worshipper, Nasatyas, may believe (in you).
+
+##### विशेषविषयगळु (Special Topics)
+
+It is described in many places that the Aśvin gods are the physicians of the gods. That they made the aged sage Cyavana a youth has been explained in the preceding Ṛk. The matter of their setting right the broken leg of the woman named Viśpalā, of their bringing a dead cow to life, and many more such matters are described in many places. In the Yajurveda it is said: अश्विनौ वै देवानां भिषजि (*aśvinau vai devānāṃ bhiṣaji*)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं वा॑मह्वे शृणु॒तं मे॑ अश्विना पु॒त्राये॑व पि॒तरा॒ ॑ 
+> मह्यं शिक्षतं ।  
+> अना॑सि॒रज्ञा॑ असजा॒त्याम॑तिः पु॒रा तस्या॑ अ॒भिश॑स्ते॒रव॑ स्पृतं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । वां । अह्वे । शृणुतं । मे । अश्विना । पुत्राय इव । पितरा । मह्यं ।  
+> शिक्षतं ।  
+> अनापि । अज्ञाः । असजात्या । अमतिः । पुरा । तस्याः । अभिशस्तेः । अव । स्पृतं ॥ ६ ॥
+
+### Printed p. 951
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ नां युवामियं घोषाहमह्वे । आह्वयामि । मे मम
+> संबंधिनमिममाह्वानं शृणुतं। श्रुत्वा चाह्वानं मह्यं पुत्रायेव यथा पुत्राय
+> पितरा मातापितरौ तद्वच्छिक्षतं । धनं दत्तं । अनापिरबंधुरज्ञा आकृतज्ञानजात्यामतिरश्रद्धेया चाभिशस्तिर्मानागच्छति । तस्या अभिशस्तेः पुरा प्रागेवाव स्पृतं ।
+> मामनपारयतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aśvins, I, this Ghoṣā, call you. Hear this call of mine, and having heard it, give me wealth, as parents give to a son. He then explains the second half: the curse that is kinless, ungrateful, without belief and without wisdom does not come near; before that curse, protect me, that is, carry me across. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- वां (*vāṃ*)—you
+- इयं (*iyaṃ*)—I, the one named Ghoṣā
+- अह्वे (*ahve*)—call
+- मे (*me*)—my call
+- शृणुतं (*śṛṇutaṃ*)—hear
+- पितरा (*pitarā*)—parents
+- पुत्राय इव (*putrāya iva*)—as they give wealth and the like to a son
+- मह्यं (*mahyaṃ*)—to me
+- शिक्षतं (*śikṣataṃ*)—give wealth
+- अनापिः (*anāpiḥ*)—without kinsfolk
+- अज्ञा (*ajñā*)—without gratitude
+- असजात्या (*asajātyā*)—without faith
+- अनुतिः (*anutiḥ*)—a curse without wisdom draws near
+- तस्याः अभिशस्तेः पुरा (*tasyāḥ abhiśasteḥ purā*)—even before being struck down by such curses
+- अव स्पृशं (*ava spṛśaṃ*)—carry me across and protect me
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, I, the one named Ghoṣā, call you. Hear my call. Give me wealth, as parents give wealth and the like to a son. A curse without kinsfolk, without gratitude, without faith and without wisdom draws near me. Protect me even before such a curse strikes.
+
+##### English translation
+I here, (Ghosha), invoke you. Hear my (invocation), Ashwins, give me (wealth) as parents give to a son ; before (it come) beyond the reach of (a curse) that has no relatives, ungrateful, without kinsfolk, without belief (pursues me) : save me from that curse before (it reach me).
+
+##### विशेषविषयगळु (Special Topics)
+
+It may be that in this Ṛk the woman named Ghoṣā, the seer of this sūkta, has described her prayer for the removal of the leprosy that had befallen her.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं रथे॑न विम॒ुदाय॑ शुं॒ध्युनं॒ न्यू॑हथुः पुरुमि॒त्रस्य॒  ॑
+> योष॑णां॒ ।
+
+### Printed p. 952
+
+> युवं हवं वध्रिमत्या अगच्छतं युवं सुष्टुतिं चक्रथुः  
+> पुरंधये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । रथेन । विमदाय । शुंध्युवं । नि । ऊहथुः । पुरुमित्रस्य । योषणां ।  
+> युवं । हवं । वध्रिमत्याः । अगच्छतं । युवं । सुसुतिं । चक्रथुः । पुरंधये॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां पुरुमित्रस्य पुरुमित्रनामधेयस्य योषणां
+> दुहितरं शुंध्युवं नाम जायां विमदाय विमदनामधेयायर्षये रथेन
+> स्वसेनापरिवृतेन रथेन न्यूहथुः । प्रापयतं । विमदस्य गृहं नीतवंतौ स्थ
+> इत्यर्थः । तथा च निगमांतरं । यावर्भगाय विमदाय जायां सेनाजुवा
+> न्यूहतू रथेन । ऋ. १-११६-१ । इति । किंच युवं युवां वध्रिमत्याः संग्रामे
+> शत्रुभिश्चिन्नहस्ताया हवमाह्वानमगच्छतं । अगत्य च तस्यै हिरण्मयं हस्तं प्रायच्छतं । तथा च निगमांतरं । अजोहवीन्नासत्या करा नां महे यामन्पुरुभुजा
+> पुरंधिः श्रुतं तच्छासुरिव वध्रिमत्या हरण्यहस्तमश्विनावदत्तं । ऋ. १-११६-१३ । इति ॥
+> किंच युवं युवां पुरंधये बहुप्रज्ञाय्कॆ वध्रिमत्यै सुषुतिं सुप्रसवं शोभनमैश्वर्यं वा चक्रथुः । कृतवंतौ स्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aśvins, you carried Śundhyū, the daughter of Purumitra and wife of the seer Vimada, in a chariot surrounded by your own army, to Vimada; that is, you took her to Vimada's house. As another text says: यावर्भगाय विमदाय जायां सेनाजुवा न्यूहतू रथेन (*yāvarbhagāya vimadāya jāyāṃ senājuvā nyūhatū rathena*) (Ṛ. 1-116-1) **NOTE**. Further, you went to the call of Vadhrimatī, whose hand had been cut off by enemies in battle, and having gone you gave her a golden hand. As another text says: अजोहवीन्नासत्या करा नां महे यामन्पुरुभुजा पुरंधिः श्रुतं तच्छासुरिव वध्रिमत्या हरण्यहस्तमश्विनावदत्तं । (*ajohavīnnāsatyā karā nāṃ mahe yāmanpurubhujā puraṃdhiḥ śrutaṃ tacchāsuriva vadhrimatyā haraṇyahastamaśvināvadattaṃ |*) (Ṛ. 1-116-13). Further, you gave Vadhrimatī, who was of much wisdom, a good delivery, or else fine prosperity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं (*yuvaṃ*)—you (O Aśvin gods)
+- पुरुमित्रस्य (*purumitrasya*)—of Purumitra
+- योषणां (*yoṣaṇāṃ*)—the daughter
+- शुंध्युवं (*śuṃdhyuvaṃ*)—the one called Śundhyū
+- विमदाय (*vimadāya*)—to her husband Vimada
+- रथेन (*rathena*)—in your chariot
+- न्यूहथुः (*nyūhathuḥ*)—you led
+- युवं (*yuvaṃ*)—you
+- वध्रिमत्याः (*vadhrimatyāḥ*)—of Vadhrimati
+- हवं (*havaṃ*)—having heard the call
+- अगच्छतं (*agacchataṃ*)—you went to her
+- युवं (*yuvaṃ*)—you
+- पुरंधये (*puraṃdhaye*)—to Vadhrimati, of many kinds of wisdom
+- सुषुतिं (*suṣutiṃ*)—an excellent delivery (a son)
+- चक्रथुः (*cakrathuḥ*)—you provided
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, you led Śundhyū, the daughter of Purumitra, in your chariot to her husband Vimada. You heard the call of Vadhrimati and went to him. To Vadhrimati, of many kinds of wisdom, you provided an excellent delivery (a line of sons).
+
+### Printed p. 953
+
+##### English translation
+You brought, Shundhyu, the daughter of Purumitra to (her husband) Vimada : you came at Vadhrimati's invocation, and gave excellent offspring to her who was full of wisdom.
+
+##### विशेषविषयगळु (Special Topics)
+
+युवं पुरुमित्रस्य योषणां शुंध्युवं विमदाय रथेन न्यूहथुः (*yuvaṃ purumitrasya yoṣaṇāṃ śuṃdhyuvaṃ vimadāya rathena nyūhathuḥ*)—
+
+विमदऋषिः परिणीय महत्या विभूत्या भार्यां स्वगृहं निनीषन् अश्विनौ तुष्टाव । तस्यागत्याश्विनौ भार्यां स्वसेनापरिवृतेन रथेन निन्यतुः । गाश्चास्मै प्रभूता ददतुरिति । (*vimadaṛṣiḥ pariṇīya mahatyā vibhūtyā bhāryāṃ svagṛhaṃ ninīṣan aśvinau tuṣṭāva | tasyāgatyāśvinau bhāryāṃ svasenāparivṛtena rathena ninyatuḥ | gāścāsmai prabhūtā dadaturiti |*) The seer named Vimada, after marrying the maiden Śundhyū, the daughter of Purumitra, wished to take his wife to his own house with the greatest splendour and praised the Aśvin gods. They came, seated him and his wife in their chariot, led them to his house with splendour, and gave him many cows: this story is told here. The same matter was told by Kakṣīvat in the Ṛk
+
+यावर्भगाय विमदाय जायां सेनाजुवा न्यूहतॊ रथेन । (*yāvarbhagāya vimadāya jāyāṃ senājuvā nyūhatò rathena |*) (Ṛ. Saṃ. 1-116-1)
+
+and by the seer Kutsa in the Ṛk
+
+याभिः पत्नीर्विमदाय न्यूहथुरा घ ना याभिररुणीरशिक्षतं । (*yābhiḥ patnīrvimadāya nyūhathurā gha nā yābhiraruṇīraśikṣataṃ |*) (Ṛ. Saṃ. 1-112-19)
+
+and by Ghoṣā in the present Ṛk. It is known from the Anukramaṇikā that Vimada is the seer of 7 sūktas, from the 20th sūkta to the 27th sūkta of the 10th maṇḍala.
+
+एवा ते अग्ने विमदो मनीषामूर्जो नपादमृतेभिः सजोषाः । (*evā te agne vimado manīṣāmūrjo napādamṛtebhiḥ sajoṣāḥ |*) (Ṛ. Saṃ. 11-20-10) **NOTE**
+
+माकिर्न एना सख्या वि यौषुस्तव चेंद्र एमदस्य चॆ ऋषेः । (*mākirna enā sakhyā vi yauṣustava ceṃdra emadasya cè ṛṣeḥ |*) (Ṛ. Saṃ. 10-23-7)
+
+In these Ṛks the seer of the sūkta has referred to himself by the words विमदस्य ऋषेः मम चॆ (*vimadasya ṛṣeḥ mama cè*). In the Aitareya Brāhmaṇa, in stating the order of its application, it is said that the sūkta कुह श्रुत इंद्रः कस्मिन्नद्येति सूक्तं (*kuha śruta iṃdraḥ kasminnadyeti sūktaṃ*) (Ṛ. Saṃ. 10-22) is वैमदं (*vaimadaṃ*), that is, that the sūkta beginning with the Ṛk कुह श्रुत (*kuha śruta*) was seen by the seer Vimada. (Ai. Brā. 21-5)
+
 ---
 
-**Progress note:** Done through printed p. 947. Sukta 39 Rk 2-4 (Ashvins), special topics on Cyavana
+**Progress note:** Done through printed p. 953. Sukta 39 Rk 5-7 (Ashvins), Tugra's son, Ghosha, Vimada
