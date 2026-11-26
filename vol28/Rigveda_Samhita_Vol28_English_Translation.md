@@ -5602,6 +5602,129 @@ The praise of Vāvātā, Indra's wife, who spoke this dhāyyā mantra, is given 
 
 Indra spoke to them: "Let there be a share for you also." The gods said: "Let the virāj be the ājyā of the niṣkevalya, the one of thirty-three syllables. The gods are thirty-three: eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati and the vaṣaṭkāra. He makes the deities sharers by syllable; the deities drink up syllable after syllable, and the deities are satisfied by the divine vessel itself."
 
+### Printed p. 170
+
+On hearing Vāvātā's reply (answer), the gods went to Indra's presence. Indra said to them: "O gods, as you desire, a share of the sacrifice has been given to you in the niṣkevalya-śastra of the sacrifice." Hearing this, the gods said: "We, the gods, are thirty-three. How? Eight Vasus, eleven Rudras and twelve Ādityas, with Prajāpati as one and the vaṣaṭkāra as one: thirty-three in all." Since there are thirty-three gods, they prayed Indra to provide the soma-drinking by means of a yājyā mantra in the Virāṭ metre, of thirty-three syllables, namely:
+
+पिबा सोममिंद्र मंदतु त्वा यं ते सुषाव हर्यश्वाद्रिः । सोतुर्बाहुभ्यां सुयतो नार्वा ॥ (*pibā somamiṃdra maṃdatu tvā yaṃ te suṣāva haryaśvādriḥ | soturbāhubhyāṃ suyato nārvā ‖*)
+(Ṛ. Saṃ. 7-22-1)
+
+This yājyā mantra ought to have thirty-three syllables, but it has only twenty-nine. Even so, by the method of combining syllables, it is to be reckoned as having thirty-three syllables although some are lacking. In this way the thirty-three syllables of the yājyā mantra, each syllable being like one god, will satisfy the thirty-three gods. Next he explains the harm that results if the yājyā offering is made with a mantra of another metre, leaving aside this procedure.
+
+यं कामयेतानायतवान् स्यादित्यविराजास्य यजेद्गायत्रा ना त्रिष्टुभा वान्मेन वा छंदसा वषट्कुर्यादनायतनवंतमेवैनं तत्करोति (*yaṃ kāmayetānāyatavān syādityavirājāsya yajedgāyatrā nā triṣṭubhā vānmena vā chaṃdasā vaṣaṭkuryādanāyatanavaṃtamevainaṃ tatkaroti*)
+(Ai. Brā. 12-22)
+
+If the hotṛ desires that the sacrificing yajamāna's house and other possessions be destroyed, then in the niṣkevalya-śastra he should perform the homa while reciting, not the yājyā mantra in the Virāṭ metre, but mantras of Gāyatrī, Triṣṭubh or another metre. If he does so, the yajamāna's dwellings, house and the rest, will be destroyed. Therefore, if there is a wish that the yajamāna's household wealth be lasting, the hotṛ should perform the yājyā homa with the Ṛk in the Virāṭ metre, पिबा सोममिंद्र (*pibā somamiṃdra*) (Ṛ. Saṃ. 7-22-1), and no other. If he does so, the yajamāna will have abundance of house and dwelling-places.
+
+**The reason Indra came to be called Marutvān**
+
+The permanent companionship of Indra and the Maruts, the relation of king and subjects between them, the offering of oblations in the principal sacrificial acts to Indra together with the Maruts, and the help the Maruts gave Indra when he fought with Vṛtra
+
+### Printed p. 171
+
+are praised in many places in the Saṃhitās and Brāhmaṇas. In the Śatapatha-brāhmaṇa an earlier story is told that shows how Indra stayed together with the Maruts, apart from the other gods.
+
+अतिथ्येन है देवा इष्ट्वा । तान्त्वमदविंदत्ते चतुर्धाव्यद्रवन्नन्योन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्भृहस्पतिर्विश्वैर्देवैः ॥ (*atithyena hai devā iṣṭvā | tāntvamadaviṃdatte caturdhāvyadravannanyonyasya śriyā tiṣṭhamānā agnirvasubhiḥ somo rudrairvaruṇa ādityairiṃdro marudbhirbhṛhaspatirviśvairdevaiḥ ‖*)
+(Śa. Brā. 3-4-2-1)
+
+Formerly, when the gods performed the rite of hospitality, discord arose among them; unwilling to join one another, they formed four groups and separated. Agni joined the Vasus, Soma the Rudras, Varuṇa the Ādityas, Indra the Maruts, and Bṛhaspati the Viśve Devas, each forming a separate group. In this story the close relation that Indra developed with the Maruts, and kept with them, is told.
+
+Moreover, in many places it is said that Indra is the sovereign and the Maruts are the subjects. For example, in the same Śatapatha-brāhmaṇa:
+
+क्षत्रं ना इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति ॥ (*kṣatraṃ nā iṃdro viśo maruto viśā vai kṣatriyo balavān bhavati ‖*)
+(Śa. Brā. 4-3-3-6)
+
+Indra is the king, possessed of kṣatra-splendour; the Maruts are his subjects. It is indicated that a king becomes powerful only through the support of his subjects, and that Indra's prowess grew through the help of the Maruts. Because of this close relation and companionship, the practice of offering oblations to Indra and the Maruts together, addressing them jointly, is found in the Śrutis. And with Ṛks such as
+
+स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ॥ (*sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ ‖*)
+(Ṛ. Saṃ. 1-171-5)
+
+there is joint invocation of Indra and the Maruts and an offering of oblation to them. Having described the companionship in this way, the Bṛhaddevatā says:
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat*)
+(Bṛ. De. 4-56)
+
+By sentences such as this the epithet that denotes the relation of these deities is explained. But in one sūkta, as a result of a dispute between Indra and the Maruts, their mutual enmity and Indra's anger are indicated. The dispute between them that is the root of this anger is stated as follows:
+
+क्व १ स्यावो मरुतः स्वधासीद्यन्मामेकं समाधत्ताहिहत्ये । अहं ह्यु १ ग्रस्तविषस्तुविष्मान्मिश्वस्य शत्रोरनमं वधस्मैः ॥ (*kva 1 syāvo marutaḥ svadhāsīdyanmāmekaṃ samādhattāhihatye | ahaṃ hyu 1 grastaviṣastuviṣmānmiśvasya śatroranamaṃ vadhasmaiḥ ‖*)
+(Ṛ. Saṃ. 1-165-6)
+
+### Printed p. 172
+
+"O Maruts, it is false to say that I slew Ahi (Vṛtra) with your help. Where indeed was that power in you? Since my own power is extraordinary, it helped me at the time of the slaying of Vṛtra without needing the help of any other power. I alone am terrible, of wondrous strength and endowed with greatness." So Indra, looking on the Maruts with contempt, displays his anger. Here that anger is indicated. It is well known that Indra received the help of the Maruts at the time of killing the asura Vṛtra. Even so, when the Maruts mentioned this and asked that, in remembrance of that help, they too be given a share in the oblation that belongs to Indra, Indra declares that no help whatever came from the Maruts and that he slew all his enemies by his own power. The authors of the Nirukta, telling this same matter, say:
+
+अगस्त्य इंद्राय हविर्निरुप्य मरुद्भः संप्रतिश्वांचकार । स इंद्र एत्य परिदेवयांचक्रे ॥ (*agastya iṃdrāya havirnirupya marudbhaḥ saṃpratiśvāṃcakāra | sa iṃdra etya paridevayāṃcakre ‖*)
+(Ni. 1-5)
+
+Having set out the circumstance that the sage Agastya prepared an oblation for Indra, and as soon as he wished to offer a share of it to the Maruts too, Indra objected to it, the authors of the Nirukta cite the following Ṛk, which expresses this matter:
+
+न नूनमस्ति नो त्वः कस्तद्वेद यदद्भुतं । अन्यस्य चित्तमभि संचरेण्यमुताधीतं विनश्यति ॥ (*na nūnamasti no tvaḥ kastadveda yadadbhutaṃ | anyasya cittamabhi saṃcareṇyamutādhītaṃ vinaśyati ‖*)
+(Ṛ. Saṃ. 1-170-1)
+
+Here the prayer is addressed to the Maruts, so that the force of that anger may abate and not harm him, and so that the share of the oblation that rightly belongs to the Maruts may reach them. After such words of conciliation, Indra's friendship grows as before, and he himself gives his share of the oblation to the Maruts. The seer in the eighth Maṇḍala praises this same matter, saying:
+
+वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । मरुद्धिरिंद्र सख्यं ते अत्त्वथेमा विश्वाः पृतना जयासि ॥ (*vṛtrasya tvā śvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ | maruddhiriṃdra sakhyaṃ te attvathemā viśvāḥ pṛtanā jayāsi ‖*)
+(Ṛ. Saṃ. 8-96-7)
+
+"O Indra, your friendship with the Maruts is well known. Give them too a share in your oblation, and with their help conquer all your enemies": so the prayer runs.
+
+### Printed p. 173
+
+**Indra's slaying of the demon Namuci**
+
+After giving a brief account of this Namuci, we shall explain how Indra killed him.
+
+The name Namuci occurs nine times in the Ṛgveda, and also in the Vājasaneyi-saṃhitā, the Taittirīya-brāhmaṇa (Tai. Brā. 1-7-1-6, 7), the Śatapatha-brāhmaṇa (Śa. Brā. 12-7-1-10) and other places. He is spoken of as being of asura nature, and in the Ṛgveda as a dāsa (Ṛ. Saṃ. 5-30-7, 8). In one place (Ṛ. Saṃ. 1-57-7) he is described as māyin. The Ṛgveda says that when Indra defeated Namuci he had the friendship or support of Namī and Sāyka (Ṛ. Saṃ. 1-53-7; 6-20-6). **NOTE** Like other asuras Namuci was slain by Indra (Ṛ. Saṃ. 2-14-5; 7-19-5), or was struck down and destroyed (1-53-7). Indra killed the asura Vṛtra-Namuci and destroyed a hundred fortresses of the asuras (Ṛ. Saṃ. 7-19-5). He does not cut off Namuci's head as he cut off Vṛtra's head; he kills him by crushing (Ṛ. Saṃ. 5-30-8; 6-20-6), or by twisting his head (Ṛ. Saṃ. 5-30-7), or he twists (wrings) his head off with the foam of water (the sea) (Ṛ. Saṃ. 8-14-3). In some places it is also said that he cut off the head (Tai. Brā. 1-7-1-6, 7). In one place (Ṛ. Saṃ. 10-131-4, 5) Indra sat at Namuci's side and drank liquor; then Sarasvatī healed him with the help of the Aśvin deities. All these are the accounts given in the Ṛgveda.
+
+Now we shall explain how, in the Taittirīya-brāhmaṇa of the Yajurveda, Indra destroyed Namuci. नमुचिः । इंद्रेण सह युद्धं न मुंचतीति नमुचिः (*namuciḥ | iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ*): some commentators have derived the form of the word Namuci thus: since he does not give up fighting with Indra, he is called Namuci. As this asura was of great strength, it was very hard for Indra to fight and conquer him. Therefore Indra had to kill him by a stratagem. In the Taittirīya-brāhmaṇa there is an upākhyāna on this matter.
+
+इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेताम् । सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदथावहै । अथ त्वावस्रक्षामि । न मा शुष्केण नार्द्रेण हनः । नॆ दिवा न नक्तमिति । स एतमपां फेनमसिंचत् । न वा एष तुष्टो नार्द्रो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तं । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेन मन्ववर्तत । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग् स्यपाहत । यदपमार्गहोमो भवति । रक्षसामपहत्यै ॥ (*iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetām | so 'smādabhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdathāvahai | atha tvāvasrakṣāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | nè divā na naktamiti | sa etamapāṃ phenamasiṃcat | na vā eṣa tuṣṭo nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etaddivā na naktaṃ | tasyaitasmin loke | apāṃ phenena śira udavartayat | tadena manvavartata | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai sa rakṣāg syapāhata | yadapamārgahomo bhavati | rakṣasāmapahatyai ‖*)
+(Tai. Brā. 1-7-1-6, 7)
+
+### Printed p. 174
+
+After slaying the asura Vṛtra, Indra slew other asuras as well. But he could not conquer the asura named Namuci. This one was very strong; no kind of weapon made him yield. So Indra, wishing to conquer him by the strength of his own body, began a wrestling fight with him. Yet the more they fought, the more Namuci's strength grew. Indra could not free himself from his grip. Then Indra asked Namuci to release him, and the asura said to Indra: "O Indra, if you are to be released, you must do as I say. Let us now make a compact (agreement) with each other. You may again wish to fight me by some device and kill me. In that case, the weapon you use to kill me must be neither wet nor dry; you must not kill me by day, and you must not kill me at night either. If you agree to these conditions, I shall release you." Indra agreed, "So be it," freed himself from his grip, and began to consider how to conquer him. After some time Indra thought of a means. As he was roaming on the seashore, the foam of the sea fell under his eye. This foam is neither wet nor dry. "Therefore I shall make this my weapon and kill Namuci. When night has passed and the dawn has begun, before the sun rises, it is quite light. That time is not night, since it is not dark; and since the sun has not risen, it is not day. If I fight Namuci at such a time and kill him with a weapon made of the foam of water, I shall not have broken my word." Having resolved thus, he fought Namuci accordingly and cut off his head with that foam. Even so the asura did not die, but pursued Indra to kill him. "O Indra, betrayer of a friend, stand, stand! You promised me before that you would not kill me, and now you do such a treacherous deed. Even now I shall not leave you without killing you," he said. Then Indra, afraid, created a special tree called apāmārga and with its sticks made a homa in the fire for the increase of virility. By this Indra's strength grew, and he destroyed that Namuci. Therefore those who wish to be delivered from the affliction of rākṣasas should perform a homa in the fire with apāmārga sticks for the increase of virility. By this homa their strength grows and they are able to conquer the rākṣasas: such is the upākhyāna. The name of this Namuci occurs in the Ṛgveda in:
+
+नम्मा यदिंद्र सख्या परावति निबर्हयो नमुचिं नाम मायिनं ॥ (*nammā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāma māyinaṃ ‖*)
+(Ṛ. Saṃ. 1-53-7)
+
+यः पिपुं नमुचिं यो रुधिकां तस्मा इंद्रायांधसो जुहोत ॥ (*yaḥ pipuṃ namuciṃ yo rudhikāṃ tasmā iṃdrāyāṃdhaso juhota ‖*)
+(Ṛ. Saṃ. 2-14-5)
+
+### Printed p. 175
+
+निवेशने शततमाविवेषीरहङ्ङ वृत्रं नमुचिमुताहन् (*niveśane śatatamāviveṣīrahaṅṅa vṛtraṃ namucimutāhan*)
+(Ṛ. Saṃ. 7-19-5)
+
+त्वं जघंथ नमुचिं मखस्युं दासं कृष्णान ऋषये विमायं ॥ (*tvaṃ jaghaṃtha namuciṃ makhasyuṃ dāsaṃ kṛṣṇāna ṛṣaye vimāyaṃ ‖*)
+(Ṛ. Saṃ. 10-23-7)
+
+अत्रा दासस्य नमुचेः शिरो यपवर्तयो मनवे गातुमिच्छन् ॥ (*atrā dāsasya namuceḥ śiro yapavartayo manave gātumicchan ‖*)
+(Ṛ. Saṃ. 5-30-7)
+
+युजं हि मामकृथा आदिदिंद्र शिरो दासस्य नमुचेर्मथायन् ॥ (*yujaṃ hi māmakṛthā ādidiṃdra śiro dāsasya namucermathāyan ‖*)
+(Ṛ. Saṃ. 5-30-8)
+
+प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ॥ (*pra śyeno na madiramaṃśumasmai śiro dāsasya namucermathāyan ‖*)
+(Ṛ. Saṃ. 6-20-6)
+
+अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः (*apāṃ phenena namuceḥ śira iṃdrodavartayaḥ*)
+(Ṛ. Saṃ. 8-14-13)
+
+युवं सुराममश्विना नमुचावासुरे सचा (*yuvaṃ surāmamaśvinā namucāvāsure sacā*)
+(Ṛ. Saṃ. 10-131-4)
+
+It is in these Ṛks; it is nowhere else.
+
+**The reason Indra came to be called Yajiṣī**
+
+Yajiṣī: for this word Yāska gives the following explanation:
+
+ऋजीषी सोमो यत्सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति तेनर्जिषी सोमः । अथाप्यैंद्रो निगमो भवति ऋजीषी वज्री इति ॥ (*ṛjīṣī somo yatsomasya pūyamānasyātiricyate tadṛjīṣamapārjitaṃ bhavati tenarjiṣī somaḥ | athāpyaiṃdro nigamo bhavati ṛjīṣī vajrī iti ‖*)
+(Ni. 5-12)
+
+After the soma plant has been crushed with stones and the soma juice drawn off, the juiceless, husk-like substance that remains is called ṛjīṣa. This ṛjīṣa is thrown away as useless. On some occasions such ṛjīṣa is soaked in water and a little more juice is pressed and drawn from it. Such soma juice is called ṛjīṣaḥ somaḥ. At the third pressing, flour and other āśira substances are mixed with such ṛjīṣa-soma and offered to Indra. Because Indra drinks this ṛjīṣa-soma, it has become customary to call Indra by the very word ṛjīṣī. Besides, it is well known that Indra's horses, called Hari, eat the husks of these soma plants called ṛjīṣa. On this matter Yāska, by way of example, cites the Śruti sentence बद्धांते हरीधाना उप ऋजीषं जिघ्रतां (*baddhāṃte harīdhānā upa ṛjīṣaṃ jighratāṃ*). The meaning of the sentence above is: "O Indra, let your horses eat grain and smell this ṛjīṣa."
+
 ---
 
-**Progress note:** Done through printed p. 169. pp. 164-169 (batch API)
+**Progress note:** Done through printed p. 175. pp. 170-175 (batch API)
