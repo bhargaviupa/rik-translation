@@ -30529,6 +30529,285 @@ Descending rivers follow this excellent (Soma) as it spreads out the sacrifice ;
 
 O Soma, you bring (धारयः (*dhārayaḥ*)) from the Paṇis, the Asuras or the misers, the cow-profiting (गव्यानि (*gavyāni*)) wealth (वसु (*vasu*)), or else the herds of cows and wealth, and hold it. And you have roared (अचिक्रदः (*acikradaḥ*)) so that the thread, the sacrifice, is extended.
 
+### Printed p. 756
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- त्वं (*tvaṃ*)—you
+- पणिभ्यः (*paṇibhyaḥ*)—from the Asuras called Paṇis
+- गव्यानि (*gavyāni*)—the herds of cows
+- वसु (*vasu*)—and the riches
+- आ धारयः (*ā dhārayaḥ*)—you have snatched and brought
+- तंतुं (*taṃtuṃ*)—the sacrifice
+- ततं (*tataṃ*)—so that it is extended (completed)
+- अचिक्रदः (*acikradaḥ*)—you have made a sound
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you have snatched back and brought the herds of cows and the wealth that the Asuras called Paṇis had carried off from the gods. And you have sounded loudly in order that the sacrifice may be carried out.
+
+##### English translation
+You, Soma, hold the wealth of cows which you have won from the Panis ; you have called aloud at the outspread sacrifice.
+
+## Sūkta 23 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘सोमा असृग्रम्' इति सप्तर्चं त्रयोविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘सोमा असृग्रम्' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta सोमा असृग्रम् (*somā asṛgram*) of seven Ṛks is the twenty-third sūkta. The seer and the rest are as before. In the Anukramaṇikā it is said सोमा असृग्रम् (*somā asṛgram*). The use has been stated.
+
+Anuvāda: This sūkta सोमा असृग्रं (*somā asṛgraṃ*) is the twenty-third sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is said सोमा असृग्रं (*somā asṛgraṃ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 23. Aṣṭaka 6; Adhyāya 8; Varga 13. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+### Printed p. 757
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमा॑ असृग्रमा॒शवो॒ मधो॒र्मद॑स्य॒ धार॑या ।  
+> अ॒भि विश्वा॑नि॒ काव्या॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमाः । असृग्रम् । आशवः । मधोः । मदस्य । धारया ।  
+> अभि । विश्वानि । काव्या ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशवः शीघ्राः सोमाः असृग्रम् असृग्रन् सृज्यंते । मधोः मधुरस्य मदस्य मदकरस्य धारया असृग्रमिति संबंधः । किं प्रति उच्यते । अभि लक्षीकृत्य विश्वानि सर्वाणि काव्या काव्यानि स्तोत्राणि प्रति । स्तोत्रसमय इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+The swift (आशवः (*āśavaḥ*)) Somas have been released (असृग्रम् (*asṛgram*), that is, are released) in a stream (धारया (*dhārayā*)) of the sweet (मधोः (*madhoḥ*)), intoxicating (मदस्य (*madasya*)) juice. Towards what is this said? Aiming at all (विश्वानि (*viśvāni*)) the काव्या (*kāvyā*), that is, the praises: the meaning is, at the time of the praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—flowing swiftly
+- सोमाः (*somāḥ*)—the Soma-juices
+- विश्वानि (*viśvāni*)—all
+- काव्या (*kāvyā*)—aiming at the praises
+- मधोः (*madhoḥ*)—sweet
+- मदस्य (*madasya*)—of the gladdening juice
+- धारया (*dhārayā*)—in a stream
+- असृग्रं (*asṛgraṃ*)—they pour forth
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, whose nature is to flow swiftly, aiming at all the praises that we make, pour forth in a stream that is sweet and gladdening.
+
+##### English translation
+The swift-flowing Soma-juices have issued in a stream of the sweet exhilarating (beverage), at (the recital of) all the praises (of the sages).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ प्र॒त्नास॑ आ॒यवः॑ प॒दं नवी॑यो अक्रमुः ।  
+> रु॒चे ज॑नंत॒ सूर्य॑म् ॥ २ ॥
+
+### Printed p. 758
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । प्रत्नासः । आयवः । पदम् । नवीयः । अक्रमुः ।  
+> रुचे । जनंत । सूर्यम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्नासः पुराणाः केचित् आयवः शीघ्रगमना अश्वाः नवीयः नवतरं पदम् अनु अक्रमुः अनुक्रमंते । रूपकव्याहारेण सोमाः स्तूयंते । रुचे दीप्त्यै सूर्यं जनंत कुर्वंति । दीप्तं कुर्वंतीत्यर्थः । सोमप्यायनेन हि चंद्रो रोचते ।
+
+##### Gist of the bhāṣya
+
+Some ancient (प्रत्नासः (*pratnāsaḥ*)) swift-going horses (आयवः (*āyavaḥ*)) go after a newer (नवीयः (*navīyaḥ*)) step (पदम् (*padam*)). By this figurative expression the Somas are praised. They produce (जनंत (*janaṃta*)) the sun for light (रुचे (*ruce*)), that is, they make it bright; for it is by the swelling of Soma that the moon shines.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रत्नासः (*pratnāsaḥ*)—ancient, that is, well trained
+- आयवः (*āyavaḥ*)—swift-going horses
+- नवीयः (*navīyaḥ*)—new
+- पदं (*padaṃ*)—the stepping of the foot
+- अनु अक्रमुः (*anu akramuḥ*)—go following
+- रुचे (*ruce*)—for light
+- सूर्यं (*sūryaṃ*)—the sun
+- जनंते (*janaṃte*)—they produce
+
+##### भावार्थ (Bhāvārtha)
+
+Old, well-trained horses go on following a new gait. And they produce the sun for light.
+
+##### English translation
+Ancient swift-going (horses), they (the juices) have traversed a new field,—they have gen erated the sun to give light. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the Soma-juices are described in a different manner, by comparison with the swift going of horses. The birth of the sun means that the moon shines by the light of the sun. This is the idea.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वमान नो भरा॒र्यो अदा॑शुषो॒ गय॑म् ।  
+> कृ॒धि प्र॒जाव॑ती॒रिषः॑ ॥ ३ ॥
+
+### Printed p. 759
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवमान । नः । भर । अर्यः । अदाशुषः । गयम् ।  
+> कृधि । प्रजाऽवतीः । इषः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम त्वं नः अस्मभ्यम् अर्यः अरेः अदाशुषः अप्रयच्छतः गयं गृहं गृहोपलक्षितं धनम् आ भर आहर । तथास्मभ्यं प्रजावतीरिषः च कृधि कुरु ॥
+
+##### Gist of the bhāṣya
+
+O purifying (पवमान (*pavamāna*)) Soma, bring (भर (*bhara*)) to us from the enemy (अर्यः (*aryaḥ*)) who gives no oblation (अदाशुषः (*adāśuṣaḥ*), that is, does not give) the house (गयं (*gayaṃ*)), that is, the wealth marked by the house. And make for us food (इषः (*iṣaḥ*)) that is rich in offspring.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O flowing Soma
+- नः (*naḥ*)—to us
+- अर्यः (*aryaḥ*)—of the enemy (and)
+- अदाशुषः (*adāśuṣaḥ*)—of him who offers no oblation to the gods
+- गयं (*gayaṃ*)—the house, that is, the wealth in the house; bring (आ भर (*ā bhara*)) it (and for us)
+- प्रजावतीः (*prajāvatīḥ*)—accompanied by sons and the like
+- इषः (*iṣaḥ*)—also the foods
+- कृधि (*kṛdhi*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O flowing Soma, snatch away the house or the wealth of our enemy, who offers no oblation to the gods, and bring it to us; and procure for us food together with offspring such as sons.
+
+##### English translation
+Bring to us, purifier, the house of our enemy who prssents no libations,—bestow upon us progeny-abounding food. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि सोमा॑स आ॒यवः॒ पवं॑ते॒ मद्यं॒ मद॑म् ।  
+> अ॒भि कोशं॑ मधु॒श्चुत॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सोमासः । आयवः । पवंते । मद्यम् । मदम् ।  
+> अभि । कोशम् । मधुऽश्चुतम् ॥ ४ ॥
+
+### Printed p. 760
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयवः गंतारः सोमासः सोमाः मद्यं मदकरं रसम् अभि पवंते क्षरंति । तथा मधुश्चुतं मधुस्राविणं कोशम् । रसाधारेण कोशशब्देन तत्रामिश्रितो रसो लक्ष्यते। तम् अभि पवंत इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The going (आयवः (*āyavaḥ*)) Somas flow, that is, stream, towards the intoxicating (मद्यं (*madyaṃ*)) juice. Likewise towards the कोशं (*kośaṃ*) that sheds honey (मधुश्चुतं (*madhuścutaṃ*)). By the word कोश (*kośa*), the container of the juice, the unmixed juice in it is indicated; "they flow towards it" is the part to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयुवः (*āyuvaḥ*)—flowing **NOTE**
+- सोमासः (*somāsaḥ*)—these Soma-juices
+- मद्यं (*madyaṃ*)—the gladdening
+- मदं (*madaṃ*)—Soma-juice
+- अभि पवंते (*abhi pavaṃte*)—flow forth (and)
+- मधुश्चुतं (*madhuścutaṃ*)—having a sweet juice
+- कोशं (*kośaṃ*)—towards the Droṇa-kalaśa
+- अभि पवंते (*abhi pavaṃte*)—run swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+These swiftly flowing Soma-juices pour forth a juice that gladdens and gives strength, and run swiftly towards the Droṇa-kalaśa, which stores the sweet juice.
+
+##### English translation
+The swift·flowing Soma–juices diffuse exhilarating wine,–they flow to the honey·shedding receptacle·
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ अर्षति धर्ण॒सिर्दधा॑न इंद्रि॒यं रस॑म् ।  
+> सु॒वीरो॑ अभिशस्ति॒पाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । अर्षति । धर्णसिः । दधानः । इंद्रियम् । रसम् ।  
+> सुऽवीरः । अभिशस्तिऽपाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः अर्षति गच्छति । कीदृशः सः। धर्णसिः धारको जगतां तथा इंद्रियम् इंद्रियवर्धकं रसं दधानः धारयन् सुवीरः सुवीर्यः अभिशस्तिपाः अभिशस्तेः पाता। अभितो हिंसा ततो रक्षक इत्यर्थः। सोमपानं ब्रह्महत्यादिनिंदामनुमार्ष्टीति प्रसिद्धम् ॥
+
+##### Gist of the bhāṣya
+
+Soma goes (अर्षति (*arṣati*)). Of what kind is he? The sustainer (धर्णसिः (*dharṇasiḥ*)) of the worlds; bearing (दधानः (*dadhānaḥ*)) the juice that increases the strength of the senses (इंद्रियम् (*iṃdriyam*)); heroic (सुवीरः (*suvīraḥ*), that is, of good valour); a protector (अभिशस्तिपाः (*abhiśastipāḥ*)) from अभिशस्तेः (*abhiśasteḥ*): harm on all sides, hence a protector from it, that is the meaning. It is well known that the drinking of Soma wipes away the reproach of such sins as the slaying of a Brāhmaṇa.
+
+### Printed p. 761
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धर्णसिः (*dharṇasiḥ*)—that which sustains the world
+- रसं (*rasaṃ*)—the essence which, इंद्रियंद्रिय (*iṃdriyaṃdriya*) (limbs), increases **NOTE**
+- दधानः (*dadhānaḥ*)—that which bears (contains) it
+- सुवीरः (*suvīraḥ*)—that which is excellent and powerful
+- अभिशस्तिपाः (*abhiśastipāḥ*)—that which protects the praise from harm and the like
+- सोमः (*somaḥ*)—the Soma-juice
+- अर्षति (*arṣati*)—flows on
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juice, which sustains the world, gives strength to the senses and increases them, is of the nature of an essence, is excellent and powerful, and protects those who praise from harm and the like, flows on swiftly.
+
+##### English translation
+The Soma flows, the sustainer (of the world), bearing a sense-invigorating essence,—heroic—a protector against calumny.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य सोम पवसे दे॒वेभ्यः॑ सध॒माद्यः॑ ।  
+> इंदो॒ वाजं॑ सिषाससि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सोम । पवसे । देवेभ्यः । सधऽमाद्यः ।  
+> इंदो इति । वाजम् । सिसाससि ॥ ६ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सधमाद्यः । सधमादो यज्ञः । तदर्हस्त्वम् इंद्राय देवेभ्यः चान्येभ्यः पवसे क्षरसि । हे तादृश इंदो सोम अस्मभ्यं वाजम् अन्नं सिषाससि दातुमिच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are सधमाद्यः (*sadhamādyaḥ*). सधमादो (*sadhamādo*) is the sacrifice; you are worthy of it. You flow, that is, stream, for Indra, for the gods and for others. O Indu, Soma, such as you are, you wish (सिषाससि (*siṣāsasi*)) to give us वाजम् (*vājam*), food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O Soma
+- सधमाद्यः (*sadhamādyaḥ*)—you who are worthy of the sacrifice
+- इंद्राय (*iṃdrāya*)—for Indra
+- देवेभ्यः (*devebhyaḥ*)—and for the drinking of the other gods
+- पवसे (*pavase*)—you stream
+- इंदो (*iṃdo*)—O such Soma (you to us)
+- वाजं (*vājaṃ*)—food
+- सिषाससि (*siṣāsasi*)—you wish to give
+
 ---
 
-**Progress note:** Done through printed p. 755. Vol 25 pp. 750-755: sūkta 22 Ṛks 1-7
+**Progress note:** Done through printed p. 761. Vol 25 pp. 756-761: sūkta 22 Ṛk 7 end; sūkta 23 Ṛks 1-6
