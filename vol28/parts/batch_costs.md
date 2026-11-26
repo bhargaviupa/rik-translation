@@ -113,3 +113,5 @@
 | w0670 pp. 670-674 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17658 + cache write 0 + cache read 6181, out 6738 | $0.052 |
 | w0200 (pp. 200-205, direct request) | claude-sonnet-5-5 | in 16276, out 5414 | $0.087 |
 | w0236 (pp. 236-241, direct request) | claude-sonnet-5-5 | in 21347, out 11064 | $0.153 |
+
+- Vol 28 (Nov 26 2026): Batch API, 112 windows (pp. 1-674), collected cost $6.91; preface $0.07; two windows re-sent directly (pp. 200-205 $0.087, pp. 236-241 $0.153). Total about $7.2.
