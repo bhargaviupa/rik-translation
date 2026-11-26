@@ -10848,6 +10848,259 @@ O Indu, flowing in the vessels or shining; O Soma, bring to us, for protection, 
 
 O Soma-deva, for our protection, provide for us wealth accompanied by many cows, nourishing for cows, and accompanied by excellent horses.
 
+### Printed p. 297
+
+##### English translation
+Bring to us, Indu, for our protection increase of cows with hundreds of cattle and a gift of fortune with beautiful horses.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ सोम॒ सहो॒ जुवो॑ रू॒पं न वर्च॑से भर ।  
+> सु॒ष्वा॒णो दे॒ववी॑तये ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सोम । सहः । जुवः । रूपम् । न । वर्चसे । भर ।  
+> सुस्वानः । देवऽवीतये ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देववीतये देवपानाय देवानां कामाय वा सुष्वाणः अभिषूयमाणोऽभिषुतो भव त्वम् । सहः शत्र्वभिभवनसमर्थं बलं जुवः । जु इति गत्यर्थः। शत्रून् प्रति शीघ्रगमनं च । यद्वा । सर्वतो गमनशीलं बलं च । न इति चार्थे । वर्चसे ।  वर्च दीप्तौ । दीप्त्यै सर्वत्र प्रकाशनाय रूपं च नः अस्मभ्यम् आ भर आहर प्रयच्छ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are to be pressed for the drinking of the gods, or for the desire of the gods (देववीतये (*devavītaye*)). Bring (आ भर (*ā bhara*): fetch, bestow) to us सहः (*sahaḥ*), strength able to overcome enemies; जुवः (*juvaḥ*), from the root जु (*ju*) meaning going, swift going against the enemies, or alternatively strength that moves in every direction; न (*na*) is used in the sense of "and"; and for वर्चसे (*varcase*), from the root वर्च (*varca*) meaning shining, for brilliance, for shining everywhere, a form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- देवनीतये (*devanītaye*)**NOTE**—for the drinking of the gods
+- सुष्वाणः (*suṣvāṇaḥ*)—become one who is pressed
+- नः (*naḥ*)—to us
+- सहः (*sahaḥ*)—strength that destroys enemies
+- जुवः (*juvaḥ*)—speed of going
+- वर्चसे (*varcase*)—for brilliance
+- रूपं (*rūpaṃ*)—a form
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, become pressed for the drinking of the gods. Provide for us strength that destroys enemies, speed that moves everywhere, and an excellent form that is a means of brilliance.
+
+##### English translation
+(Be) expressed for the banquet of the gods: bestow on us, Soma, strength, speed and a form for brilliance.
+
+### Printed p. 298
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्षा॑ सोम द्यु॒मत्त॑मो॒ऽभि द्रोणा॑नि॒ रोरु॑वत् ।  
+> सीदं॑छ्ये॒नो न योनि॒मा ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्ष । सोम । द्युमत्ऽतमः । अभि । द्रोणानि । रोरुवत् ।  
+> सीदन् । श्येनः । न । योनिम् । आ ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अभिषूयमाण पवमान द्युमत्तमः अतिशयेन दीप्तिमांस्त्वं द्रोणानि । प्रयोगबाहुल्यापेक्षमेतद्बहुवचनम् । द्रोणान् अभि लक्षीकृत्य रोरुवत् पुनःपुनर्भृशं वा शब्दं कुर्वन् अर्ष तानागच्छ। दशापवित्रमध्यान्निर्गतः सोमोऽविच्छिन्नधारया द्रोणकलशे पतन् शब्दं करोति खलु। तत्र दृष्टांतः । श्येनो न यथा आ सीदन् सर्वतो गच्छन् श्येनः शंसनीयगतिः पक्षी योनिं स्वस्थानं कुलायं प्रति भृशं शब्दायमानः सन्नागच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being pressed and purifying, you who are most radiant, roaring again and again, or loudly, toward the Droṇa vessels, flow to them. The plural द्रोणानि (*droṇāni*) is used with regard to the frequency of use. Soma, issuing from the middle of the ten-fold filter with an unbroken stream and falling into the Droṇa vessel, indeed makes a sound. The example: just as a hawk (श्येनः (*śyenaḥ*)), a bird of praiseworthy flight, coming from all sides, makes a loud noise and comes to its own place, its nest, so does Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- योनिं (*yoniṃ*)—to reach his own nest
+- आ सीदन् (*ā sīdan*)—of praiseworthy flight
+- श्येनो न (*śyeno na*)—as the hawk goes swiftly and making sound
+- द्युमत्तमः (*dyumattamaḥ*)—you who are of exceeding radiance
+- द्रोणानि अभि (*droṇāni abhi*)—facing the Droṇa vessels
+- रोरुवत् (*roruvat*)—making sound
+- अर्ष (*arṣa*)—move
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, as a hawk of praiseworthy flight goes swiftly and with noise when reaching its nest, so you, of exceeding radiance, move toward the Droṇa vessels making sound.
+
+##### English translation
+Hasten, Soma, who are most radiant, with a roar to the wooden vessels; as a hawk flying to its nest.
+
+### Printed p. 299
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्सा इंद्रा॑य वा॒यवे॒ वरु॑णाय म॒रुद्भ्यः॑ ।  
+> सोमो॑ अर्षति॒ विष्ण॑वे ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्साः । इंद्राय । वायवे । वरुणाय । मरुत्ऽभ्यः ।  
+> सोमः । अर्षति । विष्णवे ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्साः वसतीवरीनामधेयानामपां संभक्ता । ‘षण संभक्तौ । जनसन ' इति विट् । आत्वं ‘ विड्वनोः' इति । तादृशः सोमः अर्षति द्रोणकलशमागच्छति । किमर्थम्। इंद्राय । सर्वदेवानां प्रथम एवेंद्रः सोमं पिबति तस्मात्पूर्वमेवाभिहितः । तस्मै वायवे तत्सहायाय च । ऐंद्रवायवे हींद्रस्यानंतरं वायुः सोमं पिबति तस्मात्तदनु वायुरुक्तः । तस्मै च वरुणाय मरुद्भ्यः  मितं शब्दं कुर्वद्भ्य एतन्नामकेभ्यो देवेभ्यः विष्णवे सर्वजगद्व्यापिने विष्णवे च । एतेषां पातुं सोमः स्रवतीत्यर्थः ॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+अप्साः (*apsāḥ*) is the one who shares the waters called Vasatīvarī. Such a Soma flows to, reaches, the Droṇa vessel. For what purpose? For Indra: among all the gods Indra drinks Soma first, therefore he is named first. For Vāyu, his companion: in the Aindravāya (cup) Vāyu drinks Soma after Indra, therefore Vāyu is mentioned next. For Varuṇa, for the Maruts, the gods of that name who make a measured sound, and for Viṣṇu, who pervades the whole world. The meaning is that Soma flows for these to drink.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्साः (*apsāḥ*)—mingling with the water called Vasatīvarī
+- सोमः (*somaḥ*)—Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- वायवे (*vāyave*)—for Vāyu
+- वरुणाय (*varuṇāya*)—for Varuṇa
+- मरुद्भ्यः (*marudbhyaḥ*)—for the Maruts
+- विष्णवे (*viṣṇave*)—for Viṣṇu, to become fit for drinking
+- अर्षति (*arṣati*)—goes to the Droṇa vessel and joins it
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who mingles with the water called Vasatīvarī, goes to the Droṇa vessel and joins it, to become fit for the drinking of the gods Indra, Vāyu, the Maruts, Varuṇa and Viṣṇu.
+
+##### English translation
+Soma, the enjoyer of the water, hasten (to the vessels) for Indra, Vayu, Varuna, the Maruts, and Vishnu.
+
+### Printed p. 300
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इषं॑ तो॒काय॑ नो॒ दध॑द॒स्मभ्यं॑ सोम वि॒श्वतः॑ ।  
+> आ प॑वस्व सह॒स्रिण॑म् ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषम् । तोकाय । नः । दधत् । अस्मभ्यम् । सोम । विश्वतः ।  
+> आ । पवस्व । सहस्रिणम् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नः अस्माकं तोकाय पुत्राय इषम् अन्नं दधत् विदधत् प्रयच्छन् सहस्रिणं सहस्रसंख्याकं धनं विश्वतः सर्वतो दिक्षु अस्मभ्यं च आ पवस्व आप्रापय । अस्मभ्यं पुत्राय च अन्नधनादिकं प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, bestowing (दधत् (*dadhat*): giving) food (इषं (*iṣaṃ*)) upon our son, flow to (आ पवस्व (*ā pavasva*): bring to) us from all sides, in all directions, wealth in thousands (सहस्रिणं (*sahasriṇaṃ*)). The meaning is: give food, wealth and the like to us and to our son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- नः-नम्म (*naḥ-namma*)—our
+- तोकाय-पुत्ररिगॆ (*tokāya-putrarigè*)—to sons
+- इषं-अन्न (*iṣaṃ-anna*)—food
+- दधत्-कॊडुत्त (*dadhat-kòḍutta*)—giving
+- अस्मभ्यं-नमगॆ (*asmabhyaṃ-namagè*)—to us
+- विश्वतः-ऎल्ला (*viśvataḥ-èllā*)—from all sides
+- सहस्रिणंसहस्र (*sahasriṇaṃsahasra*)—wealth of thousandfold number
+- आ पवस्व-तुंबुवंतॆ (*ā pavasva-tuṃbuvaṃtè*)—cause to fill
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, giving food to our sons, provide us from all sides with wealth of a thousandfold number.
+
+##### English translation
+Bestowing food upon our offspring, Soma, pour from all quarters thousand-fold (wealth).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये सोमा॑सः परा॒वति॒ ये अ॑र्वा॒वति॑ सुन्वि॒रे ।  
+> ये वा॒दः श॑र्य॒णाव॑ति ॥ २२ ॥
+
+### Printed p. 301
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । सोमासः । पराऽवति । ये । अर्वाऽवति । सुन्विरे ।  
+> ये । वा । अदः । शर्यणाऽवति ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदादिभ्यामृग्भ्यामिंद्रार्थं सर्वत्र सोमाभिषवोऽस्तीत्याह । ये सोमासः सोमाः परावति विप्रकृष्टेऽतिदूरे देशे ये वा अर्वावति अंतिके देश इंद्रार्थं सुन्विरे अभिषूयंते अभ्यषूयंत ये वा शर्यणावति । कुरुक्षेत्रस्य जघनार्धे शर्यणावत्संज्ञकं मधुररसयुक्तं सोमवत्सरोऽस्ति । अदः अस्मिन् सरसि सुरसा ये सोमाः इंद्रायाभिषूयंते तेऽस्माकमभिमतफलं प्रयच्छंत्विति वक्ष्यमाणेन संबंधः ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk and those that follow, Sāyaṇa says that Soma is pressed everywhere for Indra. The Soma juices that are pressed for Indra in a distant, very remote place, or those in a near place, or those at Śaryaṇāvat: in the rear half of Kurukṣetra there is a lake called Śaryaṇāvat, endowed with sweet juice. Those well-flavoured Soma juices that are pressed for Indra in this lake: let them grant us the desired fruit, so it connects with what is to be said next.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये सोमासः (*ye somāsaḥ*)—which Soma-juices
+- परावति (*parāvati*)—in a very distant place
+- ये (*ye*)—which
+- अर्वावति (*arvāvati*)—in a very near region
+- सुन्वीरॆ (*sunvīrè*)**NOTE**—are pressed
+- ये (*ye*)—which
+- ना (*nā*)**NOTE**—which
+- शरणावति (*śaraṇāvati*)**NOTE**—called Śaraṇāvat
+- अदः (*adaḥ*)—in this lake they are obtained; may all of them be fulfillers of our desired ends
+
+##### भावार्थ (Bhāvārtha)
+
+May those Soma-juices that are pressed for Indra in a very distant place, those in a very near place, and those obtained in this lake called Śaryaṇāvat, all be bestowers of our desired ends.
+
+##### English translation
+May those Soma-juices which are effused at a distance or nigh or on this Sharyanavat (lake).—
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आ॑र्जी॒केषु॒ कृत्व॑सु॒ ये मध्ये॑ प॒स्त्या॑नाम् ।  
+> ये वा॒ जने॑षु पं॒चसु॑ ॥ २३ ॥
+
+### Printed p. 302
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । आर्जीकेषु । कृत्वऽसु । ये । मध्ये । पस्त्यानाम् ।  
+> ये । वा । जनेषु । पंचऽसु ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये वा सोमाः आर्जीकेषु । ऋजीकानामदूरभवा आर्जीका देशाः । तेषु तथा कृत्वसु । कृत्वान इति देशाभिधानम् । तेषु कर्मवत्सु देशेषु च किंच पस्त्यानां सरस्वत्यादीनां नदीनां मध्ये समीपे च ये सोमा अभिषूयंते । ऋषयो वै सरस्वत्यां सत्रमासत' (ऐ. ब्रा. २.१९) इत्यादिषु नदीतीरे यज्ञकरणस्य श्रवणात् । किंच जनेषु पंचसु । निषादपंचमाश्चत्वारो वर्णाः पंच जनाः । तेषु च ये वा सोमा अभिषुताः ते सोमा अस्माकमभिमतं प्रयच्छंत्वित्युत्तरेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Or those Soma juices (pressed) among the Ārjīkas: the Ārjīka countries are those not far from the Ṛjīka; likewise among the Kṛtvas, a name of countries, that is, in lands of ritual action. Further, in the middle, that is, near, the rivers (पस्त्यानां (*pastyānāṃ*)) such as the Sarasvatī, the Soma juices that are pressed; for the performance of sacrifice on river banks is heard of in passages such as ऋषयो वै सरस्वत्यां सत्रमासत (*ṛṣayo vai sarasvatyāṃ satramāsata*) (Ai. Brā. 2.19). Further, among the five peoples: the four castes with the Niṣāda as the fifth are the five peoples; and the Soma juices pressed among them: let those Soma juices grant us what we desire, so it connects with the following Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Soma-juices
+- आर्जिकेषु (*ārjikeṣu*)—in the Ārjika countries
+- कृत्वसु (*kṛtvasu*)—in the Kṛtva countries, places of ritual action, are obtained
+- ये (*ye*)—which juices
+- पस्त्यानां (*pastyānāṃ*)—of rivers such as the Sarasvatī
+- मध्यॆ (*madhyè*)—are obtained near
+- ये वा (*ye vā*)—which juices
+- पंचसु जनेषु (*paṃcasu janeṣu*)—among people of five classes beginning with the Niṣādas, are pressed for Indra; let those Soma-juices be bestowers of our desired ends
+
+##### भावार्थ (Bhāvārtha)
+
+May those Soma-juices that are obtained in the Arjīka countries and in the Kṛtva countries, places of ritual action, those juices that are obtained near rivers such as the Sarasvatī, and those juices that are pressed for Indra among people of the five classes beginning with the Niṣādas, be bestowers of our desired ends.
+
+##### English translation
+Or amongst the Rijikas, or the Kritwas, or in ihe neighbourhood of the rivers Sarasvati, etc., or in the five castes.—
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ वृ॒ष्टिं दि॒वस्परि॒ पवं॑ता॒मा सु॒वीर्य॑म् ।  
+> सु॒वा॒ना दे॒वास॒ इंद॑वः ॥ २४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 296. Sukta 65 Rk 11 bhashya, Rks 12-17
+**Progress note:** Done through printed p. 302. Rk 9.65.18-24 (Soma pavamana)
