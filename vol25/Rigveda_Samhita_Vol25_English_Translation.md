@@ -7065,6 +7065,211 @@ To explain how the sacrificial altar came to have the name vedi, a history is st
 
 Formerly, for some reason, the sacrifice took the form of Viṣṇu, left the gods and went away. Then that Viṣṇu, the sacrifice-formed, entered the earth and remained hidden so that no one knew. The gods, not seeing him, held one another by the hand and searched everywhere, yet they did not find the place where Viṣṇu was. But when Indra passed over the region where Viṣṇu was hidden, Viṣṇu below said, "Who is it? Who passes over the place where I am?" Hearing that, Indra said, "I am the one who strikes and destroys the strongholds of the asuras, who
 
+### Printed p. 175
+
+a hero: that am I. But who are you?" To this Viṣṇu gave the reply: "I am the one who brings the wealth and other things that are there, after the strongholds and the like of the asuras have been destroyed." And addressing Indra, he said: "O man, if you are indeed the one who destroys the enemy cities as you claim, then beyond seven mountains from here there lives an asura named Varāha. He has carried off the wealth and other possessions of the asuras and keeps them inside his strong fortress. If you have the power, as you say, to destroy the strongholds of the asuras, strike down and destroy that asura Varāha. Only then will your power be known." Hearing this, Indra took a bunch of darbha grass that was near, made that very thing his weapon, split the seven unbreakable mountains, and struck and killed that Varāha-asura. Then, addressing Viṣṇu, he said: "O man, as you said, I have split the seven mountains and killed the asura who was there. By this my strength and power have become clear. You said that you are the one who brings the wealth and so on that is in the strongholds of the asuras that have been destroyed. Now, as you said, go and bring the wealth and other things that are there; then your power will be shown." When he said this, Viṣṇu agreed, and in the very form of the sacrifice he carried off the wealth and other things that were in that asura and brought them to the gods. Because in this way the gods obtained the wealth of the asuras through the sacrifice, the place where sacrifice is performed came to be called vedi: this is the main purport of this history.
+
+In order to explain the meaning of the word वराहः (*varāhaḥ*), Yāska has given an interpretation in this way:
+
+वराहः । वराहो मेघो भवति वराहारः । वरमाहारमाहार्षीः इति च ब्राह्मणं । विष्यस्वराहं तिरो अद्रिमस्ता इत्यपि निगमो भवति । आयमपि इतरो वराह एतस्मादेव । बृहति मूलानि वरं वरं मूलं बृहतीति वा । वराहमिंद्र एमुषं इत्यपि निगमो भवति ॥ (*varāhaḥ | varāho megho bhavati varāhāraḥ | varamāhāramāhārṣīḥ iti ca brāhmaṇaṃ | viṣyasvarāhaṃ tiro adrimastā ityapi nigamo bhavati | āyamapi itaro varāha etasmādeva | bṛhati mūlāni varaṃ varaṃ mūlaṃ bṛhatīti vā | varāhamiṃdra emuṣaṃ ityapi nigamo bhavati ‖*)
+
+(Ni. 5-4)
+
+Varāha means a cloud. Because this cloud, by pouring rain, provides excellent food, the cloud has come to have the name varāhāra or varāha. वरमाहारमाहार्षीः (*varamāhāramāhārṣīḥ*) is the Brāhmaṇa sentence that supports the meaning in this way. विद्यद् वराहं तिरो अद्रिमस्ता (*vidyad varāhaṃ tiro adrimastā*) is also an example of another Vedic sentence. In this the sense is indicated that Indra hurled his thunderbolt from afar and split the cloud. That is, in this example the meaning "cloud" of the word varāha is clear. The word varāha has another meaning too, "boar". This word (the word varāha) is also derived from the same root. Because it tears up with its tusks the roots of plants, that is, of vegetation and so on, and because it uproots and destroys those excellent tubers and roots together with their base, the pig or boar has the name varāha. In this matter the Vedic sentence in the present Ṛk, वराहमिंद्र एमुषं (*varāhamiṃdra emuṣaṃ*), "Indra split and killed the boar (the asura) that destroys food", serves as the example supporting this kind of meaning. This is the main purport of the Nirukta.
+
+### Printed p. 176
+
+#### Ṛk 11
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒वि॒क्षं ते॒ सुकृ॑तं सू॒मयं॒ धनुः॑ सा॒धुर्बुं॒दो हि॑र॒ण्ययः॑ ।  
+> उ॒भा ते॑ बा॒हू रण्या॒ सुसं॑स्कृत ऋदू॒पे चि॑दृदू॒वृधा॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुविऽक्षम् । ते । सुऽकृतम् । सुऽमयम् । धनुः । साधुः । बुंदः । हिरण्ययः ।  
+> उभा । ते । बाहू इति । रण्या । सुऽसंस्कृता । ऋदुऽपे । चित् । ऋदुऽवृधा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एषा निरुक्त एकमपि पदं (अ)विहाय यास्केन व्याख्याता । तदेव लिख्यते- तुविक्षं बहुविक्षेपं महाविक्षेपं वा ते सुकृतं सूमयं सुसुखं धनुः साधयिता ते बुंदो हिरण्मयः । उभौ ते बाहू रण्यौ रमणीयौ सांग्राम्यौ वर्दूपे अर्दनपातिनौ गमनपातिनो मर्मण्यर्दनवेधिनौ गमनवेधिनौ वा ' (निरु. ६. ३३ ) इति ॥ ॥ ३० ॥
+
+##### Gist of the bhāṣya
+
+Yāska has explained this Ṛk in the Nirukta without leaving out a single word, and the same is written here (निरु. ६. ३३ (*niru. 6. 33*)). तुविक्षं (*tuvikṣaṃ*) is "of many casts" or "of great casting". Your सुकृतं (*sukṛtaṃ*), well made, सूमयं (*sūmayaṃ*), very comfortable, धनुः (*dhanuḥ*) bow; your बुंदः (*buṃdaḥ*) is the accomplisher, golden. Both your arms are रण्यौ (*raṇyau*), delightful, belonging to battle; ऋदूपे (*ṛdūpe*), falling so as to crush, falling so as to move; piercing a vital spot by crushing, or piercing by moving.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—(O Indra) your
+- धनुः (*dhanuḥ*)—bow
+- तुविक्षं (*tuvikṣaṃ*)—that which strikes a far-distant target
+- सुकृतं (*sukṛtaṃ*)—that which is well made
+- सुमयं (*sumayaṃ*)—that which is endowed with beauty
+
+### Printed p. 177
+
+- साधुः (*sādhuḥ*)—excellent
+- बुंदः (*buṃdaḥ*)—arrow
+- हिरण्ययः (*hiraṇyayaḥ*)—made of gold
+- ते (*te*)—your
+- उभा बाहू (*ubhā bāhū*)—both arms also
+- रण्या (*raṇyā*)—delightful
+- संसंस्कृता (*saṃsaṃskṛtā*)—of excellent make
+- ऋदुपे चित् (*ṛdupe cit*)—possessed of the power to hurl enemies down
+- ऋदुवृधा (*ṛduvṛdhā*)—possessed of the power to hurl down and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your bow strikes a far-distant target, is well made and endowed with beauty, and your arrow is made of gold. Both your arms also are delightful, of excellent make, possessed of the power to hurl enemies down, and possessed of the power to destroy.
+
+##### English translation
+Far-darting is your well-made auspicious bow, unfailing is your golden arrow ; your two warlike arms are ready equipped, destructively overthrowing, destructively piercing.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the word बुंद (*buṃda*), Yāska took the present Ṛk itself as the example and stated an interpretation for this Ṛk. We have explained the meaning of the word bunda, as Yāska states it, in the Special Topics of the sixth Ṛk of this sūkta (page 166). Bunda means arrow. The interpretation of the present Ṛk is as follows:
+
+तुविक्षं बहुविक्षेपं महाविक्षेपं वा । ते सुकृतं सूमयं सुसुखं धनुः साधयिता । ते बुंदो हिरण्यय उभौ ते बाहू रण्या रमणीयौ सांग्राम्यौ वा । ऋदूपे अर्दनपातिनौ गमनपातिनौ शब्दपातिनौ दूरपातिनौ वा । (*tuvikṣaṃ bahuvikṣepaṃ mahāvikṣepaṃ vā | te sukṛtaṃ sūmayaṃ susukhaṃ dhanuḥ sādhayitā | te buṃdo hiraṇyaya ubhau te bāhū raṇyā ramaṇīyau sāṃgrāmyau vā | ṛdūpe ardanapātinau gamanapātinau śabdapātinau dūrapātinau vā |*) मर्मर्ण्यर्दनवेधिनौ (*marmarṇyardanavedhinau*)**NOTE** गमनवेधिनौ शब्दवेधिनौ दूरवेधिनौ वा (*gamanavedhinau śabdavedhinau dūravedhinau vā*)
+
+(Ni. 6-34)**NOTE**
+
+O Indra, your arrow is of great power, able to travel very far, or it goes forth discharged with great strength. Your bow is well made, of good shape, and gives delight. Your arrow is made of gold. Both your arms are beautiful and exceedingly strong for fighting. To the word ऋदूपे (*ṛdūpe*) used in this Ṛk (the arrow) Yāska has explained many kinds of meaning: that which strikes the target with its swift motion and brings it down, or brings it down by its twang; or that which, even if the object is far away, approaches it and strikes it down; or that which splits the vital parts (Vital or valnerable parts) of the target by its swift movement and by its sharp point; or that which, by its terrible sound or by its swift movement, pierces and splits an object that is far away.
+
+### Printed p. 178
+
+## Sūkta 78 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ पुरोळाशं नः' इति दशर्चं नवमं सूक्तं काण्वस्य कुरुसुतेरार्षम् । आद्या नव गायत्र्यो दशमी बृहती । इंद्रो देवता । तथा चानुक्रांतं-' पुरोळाशं दश बृहत्यंतम्' इति । सूक्तविनियोगो लैंगिकः । महाव्रते निष्केवल्ये गायत्रतृचाशीतावाद्यास्तिस्र ऋचः । तथा च सूत्रितं - ' पुरोळाशं नो अंधस इति तिस्रः ' ( ऐ. आ. ५. २. ३ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta पुरोळाशं नः (*puroḷāśaṃ naḥ*) has ten Ṛks; it is the ninth sūkta, and its seer is Kurusuti of the Kaṇva line (काण्वस्य कुरुसुतेरार्षम् (*kāṇvasya kurusuterārṣam*)). The first nine Ṛks are in the Gāyatrī metre and the tenth is a Bṛhatī. The deity is Indra. As the Anukramaṇī says: पुरोळाशं दश बृहत्यंतम् (*puroḷāśaṃ daśa bṛhatyaṃtam*). The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). In the Mahāvrata, in the Niṣkevalya recitation, the first three Ṛks serve as the Gāyatra triplet. So it is stated by the sūtra: पुरोळाशं नो अंधस इति तिस्रः (*puroḷāśaṃ no aṃdhasa iti tisraḥ*) (Ai. Ā. 5. 2. 3).
+
+##### Anuvāda
+
+This sūkta, पुरोळाशं नः (*puroḷāśaṃ naḥ*), is the ninth**NOTE** sūkta in the eighth Anuvāka. It has ten Ṛks. The seer of this sūkta is Kurusutiḥṇvaḥ**NOTE**; the deity is Indra. The first nine Ṛks of this sūkta are in the Gāyatrī metre; the tenth is in the Bṛhatī metre. In the Anukramaṇikā it is said: पुरोळाशं दश बृहत्कांतं (*puroḷāśaṃ daśa bṛhatkāṃtaṃ*). The use of the sūkta is by indication. In the Mahāvrata sacrifice, in the Niṣkevalya recitation, the first three Ṛks of this sūkta are used for the Ṛks in the Gāyatrī metre; this is specified in the Aitareya Āraṇyaka, in the fifth Āraṇyaka, by the sentence पुरोळाशं नो अंधस इति तिस्रः (*puroḷāśaṃ no aṃdhasa iti tisraḥ*) (Ai. Ā. 5-3-6).**NOTE**
+
+##### Particulars
+
+- Sūkta—78**NOTE**
+- Maṇḍala—8; Anuvāka—8; Sūkta—78**NOTE**
+- Aṣṭaka—6; Adhyāya—5; Varga—30, 31
+- Number of Ṛks in the sūkta—10
+- Ṛṣi—Kurusutiḥṇvaḥ
+- Devatā—Indra
+- Chandas—1-9 Gāyatrī; 10 Bṛhatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळाशं॑ नो॒ अंध॑स॒ इंद्र॑ स॒हस्र॒मा भ॑र ।  
+> श॒ता च॑ शूर॒ गोना॑म् ॥ १ ॥
+
+### Printed p. 179
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाशम् । नः । अंधसः । इंद्र । सहस्रम् । आ । भर ।  
+> शता । च । शूर । गोनाम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर इंद्र पुरोळाशं पुरो दीयमानमेतत्संज्ञकम् अंधसः अन्नं स्वीकृत्य गोनां गवां सहस्रं शता शतानि च नः अस्मभ्यम् आ भर आहर। अथवा नोऽस्मभ्यं पुरतो दीयमानमंधसोऽंधो व्यंजनं सहस्रं सहस्रसंख्याकं गोसहस्रं चाहरेति योज्यम्
+
+##### Gist of the bhāṣya
+
+O hero Indra, accepting the पुरोळाशं (*puroḷāśaṃ*), the food of that name which is offered in front, bring to us a thousand and hundreds of cows (गोनां (*gonāṃ*) means of cows). Or else it is to be construed thus: bring to us the food offered before us, the condiment, and a thousand cows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O mighty one
+- इंद्र (*iṃdra*)—O Indra
+- पुरोळाशं (*puroḷāśaṃ*)—called puroḍāśa
+- अंधसः (*aṃdhasaḥ*)—food (accepting)
+- नः (*naḥ*)—to us
+- गोनां (*gonāṃ*)—of cows
+- सहस्रं (*sahasraṃ*)—the number of a thousand
+- शता च (*śatā ca*)—and the number of a hundred
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, accepting the food called puroḍāśa, bring us cows in thousands and in hundreds.
+
+##### English translation
+(Accepting) our offering of sacrificial viands, O hero Indra, bring us thousands and hundreds of cows.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ भर॒ व्यंज॑नं॒ गामश्व॑म॒भ्यंज॑नम् ।  
+> सचा॑ म॒ना हि॑र॒ण्यया॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । भर । विऽअंजनम् । गाम् । अश्वम् । अभिऽअंजनम् ।  
+> सचा । मना । हिरण्यया ॥ २ ॥
+
+### Printed p. 180
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नः अस्मभ्यं व्यंजनं गामश्वमभ्यंजनं तैलं च आ भर। मना मननीयानि हिरण्यया हिरण्मयान्युपकरणानि सचा सहाभरेति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, bring to us the condiment, a cow, a horse and the अभ्यंजनं (*abhyaṃjanaṃ*), that is, oil. मना (*manā*) means desirable, हिरण्यया (*hiraṇyayā*) means golden implements: bring these together with them (सचा (*sacā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—(O Indra) to us
+- व्यंजनं (*vyaṃjanaṃ*)—condiment substances
+- गां (*gāṃ*)—cows
+- अश्वं (*aśvaṃ*)—horses
+- अभ्यंजनं (*abhyaṃjanaṃ*)—oil and the like
+- मना (*manā*)—valuable
+- हिरण्यया (*hiraṇyayā*)—golden things
+- सचा (*sacā*)—together
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bring us together condiment substances, cows, horses, oil and the like, and valuable gold.
+
+##### English translation
+Bring us condiments, cows, horses, and oil, (bring us) with them precious golden (vessels).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नः॑ कर्ण॒शोभ॑ना पु॒रूणि॑ धृष्ण॒वा भ॑र ।  
+> त्वं हि शृ॑ण्वि॒षे व॑सो ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । कर्णऽशोभना । पुरूणि । धृष्णो इति । आ । भर ।  
+> त्वम् । हि । शृण्विषे । वसो इति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च नः अस्मभ्यं कर्णशोभना कर्णाभरणानि पुरूणि बहूनि आ भर । हे धृष्णो धर्षकेंद्र वसो वासयितरिंद्र त्वं हि खलु शृण्विषे श्रूयसे । किमिति । उदारोऽयमिंद्र इति ॥
+
+##### Gist of the bhāṣya
+
+And also bring to us many ear-ornaments (कर्णशोभना (*karṇaśobhanā*) means ornaments of the ear; पुरूणि (*purūṇi*) means many). O bold Indra (धृष्णो (*dhṛṣṇo*), the daring one), O वसो (*vaso*), the one who causes to dwell: you indeed are heard of (शृण्विषे (*śṛṇviṣe*), you are heard). How? As this Indra is generous.
+
 ---
 
-**Progress note:** Done through printed p. 174. Ṛk 77.10 (Viṣṇu, Varāha); Nairukta and Aitihāsika views
+**Progress note:** Done through printed p. 180. Vedic history of Varāha, Ṛk 77.11, Sūkta 78 Ṛks 1-3
