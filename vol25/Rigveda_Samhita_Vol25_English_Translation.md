@@ -15428,6 +15428,227 @@ It is said in many places in the Ṛgveda that the Ṛbhus were formerly men and
 
 The tenth anuvāka has ten sūktas. Of these the first, गौर्धयति (*gaurdhayati*), of twelve Ṛks, is of the seer Bindu or Pūtadakṣa, of the family of Aṅgiras; its metre is Gāyatra and its deity the Maruts. As the Anukramaṇī says: गौर्धयति द्वादश बिंदुः पूतदक्षो वा मारुतम् (*gaurdhayati dvādaśa biṃduḥ pūtadakṣo vā mārutam*). The use of the sūkta is by the Liṅga (indicative sign). At the morning pressing, one recitation (śastra) additional to Soma is performed. In it the first triplet is the Anurūpa. And it is stated in the Sūtra: अस्ति सोमो अयं सुतो गौर्धयति मरुतामिति स्तोत्रियानुरूपौ (*asti somo ayaṃ suto gaurdhayati marutāmiti stotriyānurūpau*) (Āśv. Śrau. 6. 7). **NOTE**
 
+### Printed p. 398
+
+In the tenth anuvāka of the eighth maṇḍala of the Ṛgveda-saṃhitā there are ten sūktas. Of these, the sūkta called गौर्धयति (*gaurdhayati*) is the first. It has twelve Ṛks. The seer of this sūkta is Bindu, the son of Aṅgiras, or Pūtadakṣa; the deity is the Maruts; the metre is Gāyatrī. In the Anukramaṇī it is said: गौर्धयति द्वादश बिंदुः पूतदक्षो वा मारुतं (*gaurdhayati dvādaśa biṃduḥ pūtadakṣo vā mārutaṃ*). The use of the sūkta is by the Liṅga. At the morning pressing, one śastra among the additional mantras recited with reference to the Soma deity is to be recited. On that occasion the first three Ṛks of this sūkta are to be recited as the Anurūpa triplet; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra अस्ति सोमो आयं सुतो गौर्धयति मरुतामिति स्तोत्रियानुरूपौ (*asti somo āyaṃ suto gaurdhayati marutāmiti stotriyānurūpau*) (Ā. 6-2). **NOTE**
+
+Sūkta—94
+Maṇḍala—8 ‖ Anuvāka—10 ‖ Sūkta—94 ‖
+Aṣṭaka—6 ‖ Adhyāya—6 ‖ Varga—28, 29 ‖
+Number of Ṛks in the sūkta—12 ‖
+Ṛṣi—Binduḥ Pūtadakṣo vā ‖
+Devatā—Marutaḥ ‖
+Chandas—Gāyatrī ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गौर्ध॑यति म॒रुतां॑ श्रव॒स्युर्मा॒ता म॒घोना॑म् ।  
+> यु॒क्ता वह्नी॒ रथा॑नाम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गौः । धयति । मरुताम् । श्रवस्युः । माता । मघोनाम् ।  
+> युक्ता । वह्निः । रथानाम् ॥ १ ॥
+
+### Printed p. 399
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघोनां धनवतां मरुतां माता निर्मात्री गौः पृश्निरूपा । ‘पृश्नियै वै पयसो मरुतो जाताः' इति श्रुतेः। यद्वा । गौर्माध्यमिकी वाक् । तत्रैव मध्यमस्थाने मरुतामपि वर्तनात्तेषां तत्पुत्रत्वमुपचर्यते। धयति सोमं पिबति पाययति वा स्वपुत्रान् मरुतः । किमिच्छंती। श्रवस्युः अन्नं कामयमाना । कीदृशी। रथानां मारुतानां वह्निः पृषतीभिर्वडवाभिर्वोढ्री संयोजयित्री सा युक्ता सर्वत्र समंतात् पूज्या भवति ॥
+
+##### Gist of the bhāṣya
+
+Of the wealthy Maruts, the mother, the maker, is the cow, in the form of Pṛśni; for the Śruti says पृश्नियै वै पयसो मरुतो जाताः (*pṛśniyai vai payaso maruto jātāḥ*). Or else the cow is the speech of the middle region; since the Maruts too abide in that same middle region, sonship to her is ascribed to them figuratively. She drinks Soma, or makes her sons the Maruts drink it. What does she wish for? She is desirous of food. What is she like? She is the bearer of the chariots of the Maruts, the one who yokes them with the dappled mares; thus yoked, she becomes worthy of worship everywhere and on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघोनां (*maghonāṃ*)—of the wealthy
+- मरुतां (*marutāṃ*)—of the Marut gods
+- माता (*mātā*)—the mother
+- गौः (*gauḥ*)—the cow called Pṛśni, or the speech of the middle region
+- धयति (*dhayati*)—drinks the Soma, or makes her sons the Maruts drink Soma
+- श्रवस्युः (*śravasyuḥ*)—she who desires food
+- रथानां (*rathānāṃ*)—for the chariots of the Marut gods
+- वह्नीः (*vahnīḥ*)—the horses called Pṛṣatī
+- युक्ता (*yuktā*)—she who yokes them
+
+##### भावार्थ (Bhāvārtha)
+
+Pṛśni, the mother of the wealthy Marut gods, drinks the Soma; or she makes her sons the Maruts drink it. She who desires food, and who yokes to the chariots of the Marut gods their horses, the vehicles called Pṛṣatī, the Mother of the Maruts in the form of a cow called Pṛśni, is worshipped by all.
+
+##### English translation
+The cow (Prishni), the food-desiring mother of the wealthy Maruts, drinks the (Soma), she is worthy of all honour who yokes (the mares) to their chariots.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्या॑ दे॒वा उ॒पस्थे॑ व्र॒ता विश्वे॑ धा॒रयं॑ते ।  
+> सूर्या॒मासा॑ दृ॒शे कम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्याः । देवाः । उपऽस्थे । व्रता । विश्वे । धारयंते ।  
+> सूर्यामासा । दृशे । कम् ॥ २ ॥
+
+### Printed p. 400
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गौः सर्वदेवमयीत्याह । यस्याः मरुतां मातुर्गोः उपस्थे वर्तमानाः विश्वे सर्वे देवाः व्रता व्रतानि स्वस्वकर्माणि धारयंते बिभ्रति । इयमेवास्माकं स्वपयोमिश्रितस्य सोमस्य दात्रीति सर्वे तत्समीपे तिष्ठंतीत्यर्थः। किंच सूर्यामासा । माति स्वकलाभिस्तिथीनिति माश्चंद्रमाः ॥  ‘ देवताद्वंद्वे च ' इत्युभयपदप्रकृतिस्वरत्वम् । सूर्याचंद्रमसौ दृशे दर्शनाय सर्वलोकप्रकाशनाय च यस्या गोः समीपे कं सुखेन वर्तमानौ भवतः । सेयं गौः सोमं धयतीति पूर्वेण समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+He says that the cow is made up of all the gods. In the lap of her, the cow who is the mother of the Maruts, all the gods, abiding there, bear their व्रता (*vratā*), that is, their own several works. The meaning is: "She alone is the giver to us of the Soma mixed with her own milk", and so all stay near her. Moreover, as to सूर्यामासा (*sūryāmāsā*): मा (*mā*) is the moon, who measures the lunar days with his own phases. The sun and the moon, for the sake of seeing, that is, for lighting up all the worlds, abide happily, कं (*kaṃ*), near the cow. This cow drinks Soma: so the connection with the previous verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्याः (*yasyāḥ*)—of the mother of the Marut gods, who is in the form of a cow
+- उपस्थे (*upasthe*)—in the neighbourhood
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- व्रता (*vratā*)—their several works
+- धारयंते (*dhārayaṃte*)—they bear; that is, engaged in their several works, they abide near the Mother Cow
+- सूर्यामासा (*sūryāmāsā*)—the sun and the moon
+- दृशे (*dṛśe*)—in order to be seen by people
+- कं (*kaṃ*)—abide happily near that cow
+
+##### भावार्थ (Bhāvārtha)
+
+Near Pṛśni, the Mother Cow, the mother of the Marut gods, all the gods abide, engaged in their several works. In the same way the sun and the moon, appearing to the people of the world near that Mother Cow itself, abide happily.
+
+##### English translation
+She, in whose presence all the gods observe their functions, and the sun and moon move in peace to enlighten the world.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नो॒ विश्वे॑ अ॒र्य आ सदा॑ गृणंति का॒रवः॑ ।  
+> म॒रुतः॒ सोम॑पीतये ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सु । नः । विश्वे । अर्यः । आ । सदा । गृणंति । कारवः ।  
+> मरुतः । सोमऽपीतये ॥ ३ ॥
+
+### Printed p. 401
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्यः स्तोत्रकरणार्थमितस्ततो गंतारः नः अस्मदीयाः विश्वे सर्वे कारवः स्तोतारः तत् मरुतां बलं  सदा सर्वदा आ गृणंति । आभिमुख्येन स्तुतिभिः स्तुवंति । किमर्थम् । सोमपीतये अस्माभिर्दीयमानं  सोमं पातुम् । मरुतः एतन्नामका देवा अस्माभिराह्वातव्याः खलु । ततः पुरस्तात्तद्बलं स्तुवंतीत्यर्थः॥
+> पूर्वाभिहित एव शस्त्रे 'अस्ति सोमः' इति स्तोत्रियस्तृचः । सूत्रं तु पूर्वेण सहोदाहृतम् ॥
+
+##### Gist of the bhāṣya
+
+The अर्यः (*aryaḥ*) are those who go hither and thither for the sake of praise. All our praisers, कारवः (*kāravaḥ*), always sing that strength of the Maruts; that is, they praise it facing them with hymns. For what purpose? In order to drink the Soma given by us. The Maruts, gods of this name, are indeed to be invoked by us; therefore they praise their strength beforehand. In the second paragraph: in the same śastra mentioned before, the triplet अस्ति सोमः (*asti somaḥ*) is the Stotriya triplet; the Sūtra has been quoted together with the preceding one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्यः (*aryaḥ*)—those who go about
+- नः (*naḥ*)—our own, belonging to us
+- विश्वे कारवः (*viśve kāravaḥ*)—all the praisers
+- तत् (*tat*)—the strength (greatness) of those Marut gods
+- सदा (*sadā*)—at all times
+- सु आ गृणाति (*su ā gṛṇāti*)—they praise well
+- सोमपीतये (*somapītaye*)—in order to drink the Soma offered by us
+- मरुतः (*marutaḥ*)—those Marut gods are invoked by us
+
+##### भावार्थ (Bhāvārtha)
+
+All the praisers, who go from here to there on the sacrificial altar in order to sing praises, and who belong to us, praise the great nature of the Marut gods well at all times; and the Marut gods, entreated by us, are invoked in order to drink the Soma that we offer.
+
+##### English translation
+Therefore all our priests in their worship always sing the Maruts that they may drink the Soma.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ति॒ सोमो॑ अ॒यं सु॒तः पिबं॑त्यस्य म॒रुतः॑ ।  
+> उ॒त स्व॒राजो॑ अ॒श्विना॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्ति । सोमः । अयम् । सुतः । पिबंति । अस्य । मरुतः ।  
+> उत । स्वऽराजः । अश्विना ॥ ४ ॥
+
+### Printed p. 402
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पुरोवर्ती सोमः सुतः मरुदर्थमस्माभिरभिषुतः अस्ति विद्यते । तस्मात् अस्य । अन्वादेशे । एनं सुतं सोमं स्वराजः स्वयं दीप्यमानाः । स्वतेजसा नान्यदीयेनेत्यर्थः । तादृशाः मरुतः पिबंति । उत अपि च अश्विना अश्विनौ च सोमं पिबतः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, present before us, has been pressed by us for the Maruts; it exists, अस्ति (*asti*). Therefore अस्य (*asya*), with reference to something already mentioned: this pressed Soma is drunk by the स्वराजः (*svarājaḥ*), those shining of themselves, by their own splendour and not by another's. Such Maruts drink it. Moreover, the Aśvins too drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma before us
+- सुतः अस्ति (*sutaḥ asti*)—has been pressed by us for the Marut gods (therefore)
+- अस्य (*asya*)—this Soma
+- स्वराजः (*svarājaḥ*)—shining with their own radiance
+- मरुतः (*marutaḥ*)—the Marut gods
+- पिबंति (*pibaṃti*)—drink
+- उत (*uta*)—and
+- अश्विना (*aśvinā*)—the Aśvin gods also drink this Soma
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-juice, made ready before us, has been pressed by us for the Marut gods to drink. Therefore the Marut gods, who shine with their own radiance, and the Aśvin gods, drink this Soma.
+
+##### English translation
+This soma is effused (by us); the self-resplendent Maruts drink of it and the Aswins.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबं॑ति मि॒त्रो अ॑र्य॒मा तना॑ पू॒तस्य॒ वरु॑णः ।  
+> त्रि॒ष॒ध॒स्थस्य॒ जाव॑तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिबंति । मित्रः । अर्यमा । तना । पूतस्य । वरुणः ।  
+> त्रिऽसधस्थस्य । जाऽवतः ॥ ५ ॥
+
+### Printed p. 403
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न केवलं मरुत एव सोमपातारः किंत्वेतेऽपीत्याह । मित्रः सर्वेषां स्वस्वकर्मणि प्रवर्तकत्वात् सखिभूतः अर्यमा च वरुणः दुःखादीनां शत्रूणां वा वरिता निवारकः । एतन्नामकास्त्रयो देवाः तना। ततमूर्णास्तुकेनेति तनं दशापवित्रम् । ‘सुपां सुलुक् ' इति तृतीयाया आलादेशः । तनाद्युदात्तः । तना पूतस्य शोधितं त्रिसधस्थस्य । सह तिष्ठन्यत्रेति सधस्थं स्थानम् । द्रोणकलशाधवनीयपूतभृदात्मनि त्रीणि स्थानानि यस्य तं तथोक्तं तादृशं जावतः स्तुत्यजनवंतमिमं सोमं पिबंति । द्वितीयार्थे षष्ठ्यः ॥
+
+##### Gist of the bhāṣya
+
+Not only the Maruts are Soma-drinkers; he says that these also are. मित्रः (*mitraḥ*) is a friend, because he impels all to their own works. अर्यमा (*aryamā*), and वरुणः (*varuṇaḥ*), the वरिता (*varitā*), the one who keeps off sorrows and the like, or enemies. These three gods of those names drink this Soma. तना (*tanā*): तनं (*tanaṃ*) is the ten-strand filter; the third case-ending is replaced by आ (*ā*). पूतस्य (*pūtasya*): purified by it. त्रिसधस्थस्य (*trisadhasthasya*): सधस्थं (*sadhasthaṃ*) is a place where things stand together; the Soma has three places, the Droṇakalaśa, the Ādhavanīya and the Pūtabhṛt, and is so described. जावतः (*jāvataḥ*): possessed of people who praise. They drink this Soma, the genitives standing in the sense of the accusative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—the god Mitra, who is like a friend to all
+- अर्यमा (*aryamā*)—the god Aryaman
+- वरुणः (*varuṇaḥ*)—the god Varuṇa, who removes the sorrow of all; these three gods
+- तना (*tanā*)—by the ten-strand filter
+- पूतस्य (*pūtasya*)—purified
+- त्रिषधस्थस्य (*triṣadhasthasya*)—stored in three kinds of vessels, the Droṇakalaśa, the Ādhavanīya and the Pūtabhṛt
+- जावतः (*jāvataḥ*)—the Soma offered with praise by the praisers
+- पिबंति (*pibaṃti*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra, who is as beneficial as a friend to all, Aryaman, and Varuṇa, who removes sorrow, these three gods drink this Soma-juice, purified by the ten-strand filter, filled into the three kinds of vessels, the Droṇakalaśa, the Ādhavanīya and the Pūtabhṛt, and offered by the praisers with mantras.
+
+##### English translation
+Mitra, Aryaman, and Varuna drink (the Soma), purified by the straining cloth, abiding in three places, and granting posterity.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो न्व॑स्य॒ जोष॒माँ इंद्रः॑ सु॒तस्य॒ गोम॑तः ।  
+> प्रा॒तर्होते॑व मत्सति ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 397. Vol 25 Mandala 8 Sukta 93 rk 33 end, rk 34, Ribhu notes, start of Sukta 94
+**Progress note:** Done through printed p. 403. Sūkta 94 (Maṇḍala 8) Ṛks 1-5, Ṛk 6 begun
