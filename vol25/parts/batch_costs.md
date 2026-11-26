@@ -25,3 +25,4 @@
 batch 20 (pp. 326–343): 155,768 tokens
 batch 21 (pp. 344–361): 147,439 tokens
 batch 22 (pp. 362–379): 148,045 tokens
+batch 23 (pp. 380–397): 158,671 tokens
