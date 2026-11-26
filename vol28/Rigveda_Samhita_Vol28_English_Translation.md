@@ -2685,6 +2685,225 @@ He who is well disposed towards men illumes the Agni in the ocean (as submarine 
 > सद्यः । जज्ञानः । वि । हि॥ ईं । इद्दः । अख्यत् । आ । रोदसी । इति । भानुना । भाति ।  
 > अंतरिति ॥
 
+### Printed p. 79
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दावरूपोग्निः स्तूयते । अग्निर्दावाग्निः स्तनयन्निव द्यौर्यथा दीपो
+> विद्युद्रूपः पर्जन्यो महांतं शब्दं करोति तद्वदक्रंदत् । महांतं शब्दं
+> करोति । किं कुर्वन्नित्यत्राह । क्षाम क्षामां पृथिवीं रेरिहदास्वादयन्वीरुध ओषधीश्च समंजन् मुक्षयन् । संतापयन्नित्यर्थः । किंच सद्यस्तत् क्षणे समाने काले
+> जज्ञानो जायमान इद्दो दीप्त ईमिदं स्वेन दग्धं वस्तुजातं व्यख्यत् । विविधं
+> पश्यति । हीति पादपूरणः । किंच रोदसी द्यावापृथिवी द्यावापृथिव्यावंतरंतरेण
+> भानुना स्वदीप्ता भाति । प्रकाशते । यद्वा वाजसनेयकोक्तार्थो द्रष्टव्यः ।
+> तद्यथा । अक्रंददग्निः स्तनयन्निव द्यौरिति क्रंदतीव हि पर्जन्यः स्तनयन्मा रेरिहद्वीरुधः समंजन्निति क्षामां वै रेरिह्यमाणो वीरुधः समनक्ति सद्यो जज्ञानो
+> वि हीमिद्दो अख्यदिति सद्यो ना एष जज्ञान इदं सर्वं विख्यापयत्या रोदसी
+> भानुना भात्यंतरितीमे वै द्यावापृथिवी रोदसी ते एष भानुना भात्यंतः ।
+> शत-६-७-३-२ । इति । वैद्युतस्य स्तुतिः । यद्वा । इयं दावाग्नेः स्तुतिरिति ॥
+
+##### Gist of the bhāṣya
+
+Agni in the form of forest-fire is praised. Agni, the forest-fire, cries aloud, like the thundering heaven, that is, like Parjanya in the form of the lightning-flash making a great sound. What is he doing? He licks the earth (क्षाम (*kṣāma*) is the earth) and is anointing, that is, scorching, the plants. Further, the moment he is born he, kindled, sees in various ways whatever has been burnt by him; हि (*hi*) merely fills out the verse-quarter. Further, he shines with his own radiance between heaven and earth (रोदसी (*rodasī*)). Or else the meaning stated by the Vājasaneyins is to be seen. It is this: अक्रंददग्निः स्तनयन्निव द्यौरिति क्रंदतीव हि पर्जन्यः स्तनयन्मा रेरिहद्वीरुधः समंजन्निति क्षामां वै रेरिह्यमाणो वीरुधः समनक्ति सद्यो जज्ञानो वि हीमिद्दो अख्यदिति सद्यो ना एष जज्ञान इदं सर्वं विख्यापयत्या रोदसी भानुना भात्यंतरितीमे वै द्यावापृथिवी रोदसी ते एष भानुना भात्यंतः । (*akraṃdadagniḥ stanayanniva dyauriti kraṃdatīva hi parjanyaḥ stanayanmā rerihadvīrudhaḥ samaṃjanniti kṣāmāṃ vai rerihyamāṇo vīrudhaḥ samanakti sadyo jajñāno vi hīmiddo akhyaditi sadyo nā eṣa jajñāna idaṃ sarvaṃ vikhyāpayatyā rodasī bhānunā bhātyaṃtaritīme vai dyāvāpṛthivī rodasī te eṣa bhānunā bhātyaṃtaḥ |*) (Śa. Brā. 6-7-3-2). Thus it is a praise of the lightning-fire; or else it is a praise of the forest-fire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दौः (*dauḥ*)—Parjanya
+- स्तनयन्निव (*stanayanniva*)—like one who thunders
+- अग्निः (*agniḥ*)—Agni
+- अक्रंदत् (*akraṃdat*)—makes a sound
+- क्षाम (*kṣāma*)—the earth
+- रेरिहत् (*rerihat*)—licking
+- वीरुधः (*vīrudhaḥ*)—the plants
+- समंजन् (*samaṃjan*)—burns
+- सद्यः जज्ञानः (*sadyaḥ jajñānaḥ*)—as soon as he is born
+- इद्दः (*iddaḥ*)—blazing
+- ईं (*īṃ*)—all the objects of his burning
+- व्यख्यत् (*vyakhyat*)—looks at minutely
+- रोदसी अंतः (*rodasī aṃtaḥ*)—all through the space between heaven and earth
+- भानुना (*bhānunā*)—with his radiance
+- आ भाति (*ā bhāti*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+As Parjanya thunders in the heavenly world, so Agni too makes a sound. Licking the earth he burns the plants. As soon as he is born he blazes up and sees completely all the things that he has to burn. Between heaven and earth he shines with his radiance.
+
+##### English translation
+Agni cries aloud like the thundering heaven : he licks the earth burning the plants : as soon as generated, he contemplates this (conflagra- tion) : when kindled he blazes with his (own) radiance between heaven and earth.
+
+### Printed p. 80
+
+##### विशेषविषयगळु (Special Topics)
+
+The three preceding Ṛks have told of Agni's three kinds of birth, the varieties of Agni's forms corresponding to these births, the meditation appropriate to each form, and so on. In the present 4th and 5th Ṛks other great qualities of Agni are described. Of these the main ones are:
+1. the likeness between Agni and Parjanya;
+2. the radiance of Agni pervading both heaven and earth;
+3. Agni's being addressed as guardian of Soma; and
+4. the relation between Agni and Uṣas.
+
+First, explaining this very Ṛk (4), the Śatapatha Brāhmaṇa states the relation between Agni and Parjanya thus:
+अक्रंददग्निः स्तनयन्निव द्यौरिति । क्रंदतीव हि पर्जन्यः स्तनयन् क्षामा रेरिहद्वीरुधः समंजन्निति क्षामा वै रेरिह्यमाणो वीरुधः समनक्ति सद्यो जज्ञानो वि हीमिद्दो अख्यडिति सद्यो ना एष जज्ञान इदं सर्वं विख्यापयत्या रोदसी भानुना भात्यंतरितीमे वै द्वावापृथिवी रोदसी ते एष भानुना भात्यंतः ॥ (*akraṃdadagniḥ stanayanniva dyauriti | kraṃdatīva hi parjanyaḥ stanayan kṣāmā rerihadvīrudhaḥ samaṃjanniti kṣāmā vai rerihyamāṇo vīrudhaḥ samanakti sadyo jajñāno vi hīmiddo akhyaḍiti sadyo nā eṣa jajñāna idaṃ sarvaṃ vikhyāpayatyā rodasī bhānunā bhātyaṃtaritīme vai dvāvāpṛthivī rodasī te eṣa bhānunā bhātyaṃtaḥ ‖*) (Śa. Brā. 6-7-3-2)
+"Agni cried aloud like the thundering firmament." Just as Parjanya roars, Agni too makes a roaring sound. As Parjanya, touching the earth again and again, spreads out establishing his power in plants and the like, so Agni too spreads, as if scenting the earth again and again, and entering plants and the like and spreading. He shines between heaven and earth with his radiance, and makes these two worlds shine with his radiance. This is the explanation of the Śatapatha Brāhmaṇa, which Sāyaṇa has put as वैद्युतस्य स्तुतिः (*vaidyutasya stutiḥ*), "this is a praise of Agni in the form of lightning". Sāyaṇa's opinion is that this is a praise of the forest-fire. Since the explanation आ रोदसी भानुना भात्यंतः (*ā rodasī bhānunā bhātyaṃtaḥ*) is there, it would be proper to say that it is the lightning-fire. It is also said that Parjanya is not merely similar to Agni but, having Agni's particular function, is a transformation of him:
+तद्यदस्य तन्नामाकरोदाधित्यस्तद्रूपमभवदादित्यो वा ईशान आदित्यो ह्यस्य सर्वस्वेष्टे सोऽब्रवीदेतावान्वा अस्ति . . . . ॥ (*tadyadasya tannāmākarodādhityastadrūpamabhavadādityo vā īśāna ādityo hyasya sarvasveṣṭe so 'bravīdetāvānvā asti . . . . ‖*) (Śa. Brā. 6-1-3-15)
+
+### Printed p. 81
+Agni himself is the one called Bhava. Since everything comes into being from the fall of rain, this Bhava is of the form of Parjanya; thus Parjanya is said to be a special manifestation of Agni. Therefore it would not be wrong to say that in the present Ṛk the action is that of Parjanya or of the lightning-fire.
+
+This lightning-fire is praised in the 5th Ṛk as सोमगोपाः (*somagopāḥ*). Sāyaṇa has explained it as सोमस्य पालकः (*somasya pālakaḥ*). Soma does not mean merely the Soma juice. All the characteristics that the lightning-fire has are also characteristics of Soma. Soma, having divinity, is of self-luminous brilliant form. Descriptions such as स सूर्यस्य रश्मिभिः परिव्यत (*sa sūryasya raśmibhiḥ parivyata*) (Ṛ. Saṃ. 9-86-32) tell of Soma's brilliant divine nature. This Soma, of the form of brilliance, like Agni has three places. They are:
+धत्ते सोम दिवि ज्योतिरत्यृथिव्यां यदुरावंतरिक्षे (*dhatte soma divi jyotiratyṛthivyāṃ yadurāvaṃtarikṣe*) (Śa. Brā. 3-9-4-12)
+"O Soma-god, with the brilliance of yours that has spread in the heavenly world, the brilliance that shines in the atmospheric world, and the brilliance that is terrestrial, with all of these be nourishing to the sacrificer", and so on. The nature of Agni that the epithet त्रिषधस्थ (*triṣadhastha*) conveys, the same is conveyed by this description of Soma. In त्री षधस्था पुनानः कृणुते हरिः (*trī ṣadhasthā punānaḥ kṛṇute hariḥ*) (Ṛ. Saṃ. 9-103-2), although according to the context the meaning is the three vessels beginning with the Droṇakalaśa, yet on the basis of the Śatapatha Brāhmaṇa passage above it would not be wrong to give here too the meaning "one who is in the three worlds".
+नाभा पृथिव्या धरुणो महो दिवोऽपामूर्मौ सिंधुष्वंतरुक्षितः । इंद्रस्य वज्रो वृषभः विभूवसुः सोमो हृदे पवते चारु मत्सरः ॥ (*nābhā pṛthivyā dharuṇo maho divo 'pāmūrmau siṃdhuṣvaṃtarukṣitaḥ | iṃdrasya vajro vṛṣabhaḥ vibhūvasuḥ somo hṛde pavate cāru matsaraḥ ‖*) (Ṛ. Saṃ. 9-72-2)
+This Soma is the supporter of the heavenly world; the navel-like centre of the broad earth; the one in the middle of the atmosphere; a thunderbolt-weapon for Indra. Such a Soma is gratifying to Indra, it says.
+पर्जन्यः पिता महिषस्य पर्णिनः (*parjanyaḥ pitā mahiṣasya parṇinaḥ*) (Ṛ. Saṃ. 9-82-3): Parjanya himself is the father of this Soma. He is also called "Parjanya-increased" (9-113-3).
+
+The falcon that is described in the narrative as having brought Soma from the atmosphere is itself of the form of Agni.
+नवं नु स्तोममग्नये दिवः श्येनाय जीजनं । (*navaṃ nu stomamagnaye divaḥ śyenāya jījanaṃ |*) (Ṛ. Saṃ. 7-15-4)
+
+### Printed p. 82
+The meaning "Agni in the form of the falcon of the heavenly world is the guardian of the Agni of the form of lightning" is proper in the present context. (Since there is the task of guarding the terrestrial Soma juice and distributing it among the gods, there is no room in the present context for the meaning that this epithet is given to Agni on that account.)
+
+That Agni shines endowed with radiance in both heaven and earth, and the constant relation between Agni and Uṣas, have been stated in many places before.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्री॒णामु॑दा॒रो ध॒रुणो॑ रयी॒णां म॑नी॒षाणां॒ प्रार्प॑णः॒  ॑
+> सोम॑गोपाः ।  
+> वसुः॑ सू॒नुः सह॑सो अ॒प्सु राजा॒ वि भा॒त्यग्र॑ उ॒षसा॑मिधा॒नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रीणां । उत्आरः । धरुणः । रयीणां । मनीषाणां । प्रअर्पणः । सोम  
+> गोपाः ॥  
+> वसुः । सूनुः । सहसः । अप्सु । राजा । वि । भाति । अग्रे । उषसां । इधानः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रीणां विभूतीनामुदार उद्गमयिता दाता रयीणां धनानां धरुणो
+> धारको मनीषाणामीप्सितार्थानां प्रार्पणः प्रापयिता सोमगोपाः सोमस्य
+> गोपा वसुः सर्वस्य लोकस्य वासकः सहसो बलस्य सूनुरप्पुदकेषु स्थितो राजा
+> सर्वस्येश्वर उषसामग्रे प्रभातकाल इधानोऽग्निहोत्रार्थं समिध्यमानोऽग्निर्वि
+> भाति । प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+Agni is the उदार (*udāra*) of splendours (श्रीणां (*śrīṇāṃ*), prosperities): one who raises them up, a giver. He is the धरुणः (*dharuṇaḥ*), supporter, of riches; प्रार्पणः (*prārpaṇaḥ*), one who brings about the desired objects (मनीषाणां (*manīṣāṇāṃ*)); सोमगोपाः (*somagopāḥ*), protector of Soma; वसुः (*vasuḥ*), the one who makes the whole world dwell; son of strength; abiding in the waters; राजा (*rājā*), lord of all. At the front of the dawns, at daybreak, kindled for the Agnihotra, Agni shines forth, that is, becomes bright.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रीणां (*śrīṇāṃ*)—to the prosperities
+- उदारः (*udāraḥ*)—a giver
+- रयीणां (*rayīṇāṃ*)—of riches
+- धरुणः (*dharuṇaḥ*)—the supporter
+- मनीषाणां (*manīṣāṇāṃ*)—of the desired objects
+- प्रार्पणः (*prārpaṇaḥ*)—the one who brings them about
+- सोमगोपाः (*somagopāḥ*)—the protector of Soma
+- वसुः (*vasuḥ*)—the one who pervades the whole world
+- सहसः सूनुः (*sahasaḥ sūnuḥ*)—the son of strength
+- अप्सु (*apsu*)—abiding in the waters
+- राजा (*rājā*)—the lord
+- *uṣasāṃ agne*—at the time of the appearance of the dawn
+- इधानः (*idhānaḥ*)—becoming kindled, Agni
+- वि भाति (*vi bhāti*)—shines
+
+### Printed p. 83
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the one who gives prosperity, the supporter of riches, the giver of desired objects, the protector of Soma, the one who pervades the whole world, the son of strength, abiding in the waters, the lord, kindled at the time of the appearance of the dawn, shines forth.
+
+##### English translation
+Liberal, exciter of splendours, depositary of riches, granter of desires, preserver of the Soma, the inhabiter (of the world), the son of strength, (placed) in the waters, the king (Agni) blazes, kindled at the commence- ment of dawn.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्य के॒तुर्भुव॑नस्य॒ गर्भ॒ आ रोद॑सी अपृणा॒ज्जाय॑मानः ।  
+> वी॒ळुं चि॒दद्रि॑मभिनत्परा॒यञ्ञना॒ यद॒ग्निमय॑जंत॒ पंच॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्य । केतुः । भुवनस्य । गर्भः । आ । रोदसी इति । अपृणात् । जायमानः ॥  
+> वीळुं । चित् । अद्रिं । अभिनत् । परायन् । जनाः । यत् । अग्निं । अयजंत ।  
+> पंच ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वस्य सर्वस्य केतुः प्रज्ञापको भुवनस्योदकस्य गर्भो गर्भभूतोऽग्निर्जायमानः प्रादुर्भवन्नेव रोदसी द्यावापृथिव्यावापृणात् । अपूरयति । परायन् परागच्छन् वीळुं चिद्दृढमप्यद्रिं मेघमभिनत् । भिनत्ति च । कदेत्यत्राहयद्यदा पंच जना मनुष्या अग्निमयजंत यजंते ॥
+
+##### Gist of the bhāṣya
+
+Agni is the केतुः (*ketuḥ*), the making-known, of all; the embryo of the भुवनस्य (*bhuvanasya*), that is, of water. Just as he is born, appearing, he fills (आपृणात् (*āpṛṇāt*)) heaven and earth. Going forth he splits even the firm mountain, the cloud. When? When the five peoples, men, sacrifice to Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वस्य (*viśvasya*)—of the whole world
+- केतुः (*ketuḥ*)—the one who makes known
+- भुवनस्य (*bhuvanasya*)—of the water
+- गर्भः (*garbhaḥ*)—the embryo, Agni
+- जायमानः (*jāyamānaḥ*)—at the very time of being born
+- रोदसी (*rodasī*)—heaven and earth
+- आ पृणात् (*ā pṛṇāt*)—pervades
+- परायन् (*parāyan*)—at the time of moving about
+- अद्रिं (*adriṃ*)—the cloud
+- वीळुं चित् (*vīḷuṃ cit*)—even though firm
+- अभिनत् (*abhinat*)—splits
+- यत् (*yat*)—therefore
+- पंचजनाः (*paṃcajanāḥ*)—the five kinds of people beginning with the Niṣādas
+- अग्निं (*agniṃ*)—Agni
+- आयजंत (*āyajaṃta*)—worships
+
+### Printed p. 84
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the one who makes known to the whole world, the embryo of the water, as soon as he is born pervades heaven and earth. At the time of moving about he splits even the firm cloud (he sends down rain). Therefore the people, of the five classes, also worship this Agni.
+
+##### English translation
+The manifester of all, the germ of the world, Agni, as soon as born fills heaven and earth (with light) : he fractures as he advances the solid cloud, for which the five classes of men praise him.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शिक्षा॑व॒को अ॑र॒तिः सु॑मे॒धा मर्तॆ॑ष्व॒ग्निर॒मृतो॒ नि धा॑यि ।  
+> इय॑र्ति धू॒मनु॑रु॒षं भरि॑भ्र॒दुच्चु॒क्रेण॑ शो॒चिषा॒ द्यामिन॑क्षन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशिक् । पावकः । अरतिः । सुमेधाः । मर्तेषु । अग्निः । अमृतः । नि । धायि ॥  
+> इयर्ति । धूमं । अरुषं । भरिभ्रत् । उत् । शुक्रेण । शोचिषा । द्यां । इनक्षन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उशिघ्नवींषि कामयमानः पावकः सर्वस्य लोकस्य शोधकोऽरतिर्गंत
+> भूतानामारयिता वा सुमेधाः सुप्रज्ञोऽमृतो मरणधर्मरहितोऽग्निर्मर्तेषु मनुष्येषु नि धायि । निहितः । सोऽयमग्निर्धूममियर्ति । प्रेरयति ।
+> किंचारुषमारोचमानं रूपं भरिभ्रद्दारयञ्चक्रेण शुक्लेन शोचिषा रोचिषा
+> द्यां दिवमिनक्षन्वाप्नु वन् गच्छतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Agni desires oblations उशिघ्नवींषि (*uśighnavīṃṣi*) **NOTE**; he is the purifier, cleanser of the whole world; अरतिः (*aratiḥ*), a goer, or one who impels beings; सुमेधाः (*sumedhāḥ*), of good wisdom; immortal, free from the nature of death. Agni has been placed among mortals, that is, men. This Agni sends up smoke. Further, bearing a shining, radiant form, with white brilliance he reaches the heaven; "goes" is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशिक् (*uśik*)—the one who desires oblations
+- पावकः (*pāvakaḥ*)—the purifier
+- अरतिः (*aratiḥ*)—the swift-going one
+- सुमेधाः (*sumedhāḥ*)—the one with excellent wisdom
+- अमृतः (*amṛtaḥ*)—the deathless
+- अग्निः (*agniḥ*)—Agni
+- मर्तेषु (*marteṣu*)—among men
+- निधायि (*nidhāyi*)—has been established
+- धूमं (*dhūmaṃ*)—smoke
+- उत् इयर्ति (*ut iyarti*)—sends up
+- अरुषं (*aruṣaṃ*)—attractive form
+- भरिभ्रत् (*bharibhrat*)—bearing
+- शुक्रेण (*śukreṇa*)—pure
+- शोचिषा (*śociṣā*)—with brilliance
+- द्यां (*dyāṃ*)—the heavenly world
+- इनक्षन् (*inakṣan*)—pervades
+
 ---
 
-**Progress note:** Done through printed p. 78. pp. 73-78 (batch API)
+**Progress note:** Done through printed p. 84. pp. 79-84 (batch API)
