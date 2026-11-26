@@ -18790,6 +18790,245 @@ Your best juice (dwells) in the navel of heaven, that which receives (the oblati
 > एव । ते । इंदो इति । सुऽभ्वम् । सुऽपेशसम् । रसम् । तुंजंति । प्रथमाः । अभिऽश्रियः ।  
 > निदम्ऽनिदम् । पवमान । नि । तारिषः । आविः । ते । शुष्मः । भवतु । प्रियः । मदः ॥ ५ ॥
 
+### Printed p. 504
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वत्र ‘ अद्रयस्त्वां बप्सति' इत्युक्तं तदेवोच्यते । हे इंदो सोम एव एवा.... क्रियमाणप्रकारेण ते तव सुभ्वं शोभनभवनं सुपेशसम् । पेश इति रूपनाम । सुरूपं रसं प्रथमाः प्रथममेव । यद्वा । प्रथम इति मुख्यनाम। प्रथमाः मुख्याः। ग्रावाणोऽध्वर्यवो वा अभिश्रियः अभिश्रयंतः संतः तुंजंति प्रेरयंति । हे पवमान निदंनिदम् अस्मन्निंदकं सर्वमपि शत्रुं नि तारिषः विनाशय । ते तव शुष्मः बलकरः प्रियः प्रियभूतः मदः मदकरो रसः आविः भवतु ॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+What was said before, "the stones devour you", is now said again. O Indu, O Soma, in just this way, as the rite is being performed, they urge your juice, which is of good being, a fair abode, and of fair form (peśa means form), प्रथमाः (*prathamāḥ*) first of all. Or else: prathama means chief; the chief ones, either the stones or the Adhvaryu priests, urge it as they resort to it. O Pavamāna, destroy every enemy who reviles us. Let your strength-giving, dear, intoxicating juice become manifest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O god Soma
+- प्रथमाः (*prathamāḥ*)—the chief
+- अभिश्रियः (*abhiśriyaḥ*)—the priests who mix it with milk and the like
+- एव (*eva*)—in this very manner
+- ते (*te*)—your
+- सुभ्वं (*subhvaṃ*)—having an excellent abode
+- सुपेशसं (*supeśasaṃ*)—of beautiful form
+- रसं (*rasaṃ*)—the juice
+- तुंजंति (*tuṃjaṃti*)—urge
+- पवमान (*pavamāna*)—O god Soma
+- निदंनिदं (*nidaṃnidaṃ*)—all the enemies who revile us
+- नि तारिषः (*ni tāriṣaḥ*)—destroy
+- ते (*te*)—your
+- शुष्कः (*śuṣkaḥ*)—strengthening **NOTE**
+- प्रियः (*priyaḥ*)—pleasing
+- मदः (*madaḥ*)—and gladdening juice
+- आविर्भवतु (*āvirbhavatu*)—let it become manifest to us
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, the chief priests, who mix it with milk and the like, urge in this very manner your juice, which has an excellent abode and a beautiful form. O god Soma, destroy all the enemies who revile us. Let your juice, which strengthens, pleases and gladdens, become manifest to us.
+
+##### English translation
+Thus, Indu, the chief (priests) making the mixture send forth your well-lodged, well-formed juice ; purified Soma, destroy (our) reviler : let your potent, delightful, exhilaratingiug (juice) appear. **NOTE**
+
+## Sūkta 80 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘सोमस्य धारा' इति पंचर्चं त्रयोदशं सूक्तं भारद्वाजस्य वसुनाम्न आर्षं जागतं पवमानसोमदेवताकम् । तथा चानुक्रांतं- सोमस्य वसुर्भारद्वाजः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five ṛks beginning सोमस्य धारा (*somasya dhārā*) is the thirteenth sūkta. Its seer is Vasu, a Bhāradvāja; its metre is Jagatī; its deity is Pavamāna Soma. So it is listed in the Anukramaṇī: सोमस्य वसुर्भारद्वाजः (*somasya vasurbhāradvājaḥ*). The ritual use has been stated already.
+
+### Printed p. 505
+
+##### Anuvāda
+
+The sūkta सोमस्य धारा (*somasya dhārā*) is the thirteenth sūkta in the fourth anuvāka. It has five ṛks. The seer of this sūkta is one named Vasurbhāradvāja. Pavamāna Soma is the deity; the metre is Jagatī. In the Anukramaṇī it is said सोमस्य वसुर्भारद्वाजः (*somasya vasurbhāradvājaḥ*). The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 80. Maṇḍala 9, Anuvāka 4, Sūkta 80. Aṣṭaka 7, Adhyāya 3, Varga 5. Number of ṛks in the sūkta: 5. Seer: Vasurbhāradvāja. Deity: Pavamāna Soma. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑स्य॒ धारा॑ पवते नृ॒चक्ष॑स ऋ॒तेन॑ दे॒वान्ह॑वते दि॒वस्परि॑ ।  
+> बृह॒स्पते॑ र॒वथे॑ना॒ वि दि॑द्युते समु॒द्रासो॒ न सव॑नानि विव्यचुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमस्य । धारा । पवते । नृऽचक्षसः । ऋतेन । देवान् । हवते । दिवः । परि ।  
+> बृहस्पतेः । रवथेन । वि । दिद्युते । समुद्रासः । न । सवनानि । विव्यचुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमस्य अभिषूयमाणस्य धारा पवते श्चोतते । कीदृशस्य सोमस्य । नृचक्षसः नृणां यजमानानां द्रष्टुः । स च ऋतेन यज्ञेन देवान् सोमभाज इंद्रादीन हवते। कुत्र । दिवस्परि द्युलोकस्योपरि वर्तमानान् । बृहस्पतेः मंत्रपालकस्य स्तोतुः रवथेन शब्देन स्तोत्रेण वि दिद्युते विद्योतते । समुद्रासो न समुद्रा इव पृथिवीं सवनानि यज्ञसंबंधीनि विव्यचुः व्याप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+The stream of the Soma that is being pressed flows, that is, drips. Of what kind is this Soma? He beholds men, the sacrificers. He invites by the sacrifice the gods who share the Soma, Indra and the others, who dwell above the world of heaven. He shines by the sound, the praise, of the praiser, the guardian of the mantras. The libations connected with the sacrifice pervade the earth as oceans do.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृचक्षसः (*nṛcakṣasaḥ*)—who can behold men
+- सोमस्य (*somasya*)—of Soma
+- धारा (*dhārā*)—the stream
+- पवते (*pavate*)—flows
+- दिवस्परि (*divaspari*)—who are in the world of the gods
+- देवान् (*devān*)—the gods, Indra and the others
+
+### Printed p. 506
+
+- यतेन (*yatena*)—through the sacrifice **NOTE**
+- हवते (*havate*)—Soma invites
+- बृहस्पतेः (*bṛhaspateḥ*)—of the praiser
+- रवथेन (*ravathena*)—by the praise that makes sound
+- वि दिद्युते (*vi didyute*)—he shines
+- समुद्रासो न (*samudrāso na*)—as the oceans surround the earth
+- सवनानि (*savanāni*)—the Soma-juices connected with the sacrifice
+- विव्यचुः (*vivyacuḥ*)—pervade
+
+##### भावार्थ (Bhāvārtha)
+
+The stream of Soma, who can behold men, flows. Soma invites through the sacrifice the gods, Indra and the others, who are in the world of the gods. He shines by the sound-making praise of the praiser. As the oceans surround the earth, the Soma-juices connected with the sacrifice pervade everywhere.
+
+##### English translation
+The stream of the Soma, the contemplator of man, flows forth ; it invites by the sacrifice the gods (who dwell) above the sky ; it shines forth at the voice of the sacrificer ; the libations cover (the earth) like rivers.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॑ वाजिन्न॒घ्न्या अ॒भ्यनू॑ष॒तायो॑हतं॒ योनि॒मा रो॑हसि द्यु॒मान् ।  
+> म॒घोना॒मायुः॑ प्रति॒रन्महि॒ श्रव॒ इंद्रा॑य सोम पवसे॒ वृषा॒ मदः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । त्वा । वाजिन् । अघ्न्याः । अभि । अनूषत । अयःऽहतम् । योनिम् । आ । रोहसि । द्युऽमान् ।  
+> मघोनाम् । आयुः । प्रऽतिरन् । महि । श्रवः । इंद्राय । सोम । पवसे । वृषा । मदः ॥ २ ॥
+
+### Printed p. 507
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिन् अन्नवन् सोम यं त्वा त्वाम् अघ्न्याः अहननीया गावः अभ्यनूषत अभिष्टुवंति । आशिरार्थं स्थिताः शब्दायंत इत्यर्थः । स त्वम् अयोहतम् । अय इति हिरण्यनाम । तेन तद्वान् पाणिर्लक्ष्यते । हिरण्मयेन पाणिना हतं संस्कृतं योनिं स्थानम् आ रोहसि द्युमान् दीप्तः सन् । ‘ अभि योनिमयोहतम्' (ऋ. सं. ९. १. २) इति ह्युक्तम् । किंच हे सोम मघोनां हविष्मतां यजमानानाम् आयुः आयुष्यं महि महत् श्रवः अन्नं यशो वा प्रतिरन् वर्धयन् इंद्राय इंद्रार्थं पवसे पूयसे । वृषा वर्षको मदः मदकरश्च त्वम् ॥
+
+##### Gist of the bhāṣya
+
+O Vājin, O Soma, possessor of food, you whom the aghnyā cows, those not to be killed, praise; they stand to supply the admixture and make a sound. You, shining, mount the prepared place, fashioned by a golden hand: ayas means gold, and by it the hand that has it is meant. This is said in Ṛ. Saṃ. 9. 1. 2. Further, O Soma, increasing the life of the wealthy sacrificers who have oblations, and great food or fame, you flow for Indra, being the showerer and the exhilarating one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिन् (*vājin*)—O god Soma, endowed with food
+- यं त्वा (*yaṃ tvā*)—you whom
+- अघ्याः (*aghyāḥ*)—the cows **NOTE**
+- अभ्यनूषत (*abhyanūṣata*)—praise, you who are such
+- अयो हतं (*ayo hataṃ*)—prepared by a golden hand
+- योनिं (*yoniṃ*)—the place
+- आरोहसि (*ārohasi*)—you mount
+- सोम (*soma*)—O god Soma
+- वृषा (*vṛṣā*)—you who cause rain
+- मदः (*madaḥ*)—and cause gladness
+- द्युमान् (*dyumān*)—radiant
+- मघोनां (*maghonāṃ*)—of the sacrificers who have oblations
+- आयुः (*āyuḥ*)—life
+- महि (*mahi*)—great
+- श्रवः (*śravaḥ*)—and food
+- प्रतिरन् (*pratiran*)—increasing
+- इंद्राय (*iṃdrāya*)—for Indra
+- पवसे (*pavase*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, endowed with food, such as you are, whom the cows praise, you mount the well prepared place, fashioned by a golden hand. O god Soma, you who cause rain and cause gladness, radiant, you flow for Indra, increasing the life and the great food of the sacrificers who have oblations.
+
+##### English translation
+Giver of food, whom the cows praise, you mount, bright-shining, your station fashioned by golden hands; you, Soma, the health of the worshippers, increasing (their) abundant food flow for Indra, the showerer (of benefits), the giver of exhilaration.
+
+### Printed p. 508
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंद्र॑स्य कु॒क्षा प॑वते म॒दिंत॑म॒ ऊर्जं॒ वसा॑नः॒ श्रव॑से सुमं॒गलः॑ ।  
+> प्र॒त्यङ्स विश्वा॒ भुव॑ना॒भि प॑प्रथे॒ क्रीळ॒न्हरि॒रत्यः॑ स्यंदते॒ वृषा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्रस्य । कुक्षा । पवते । मदिन्ऽतमः । ऊर्जम् । वसानः । श्रवसे । सुऽमंगलः ।  
+> प्रत्यङ् । सः । विश्वा । भुवना । अभि । पप्रथे । क्रीळन् । हरिः । अत्यः । स्यंदते । वृषा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः इंद्रस्य कुक्षा कुक्षौ आ पवते आसिच्यते । किमर्थम् । श्रवसे तस्यान्नाय यष्टुर्वा अन्नसिद्ध्यर्थम् । सोमो विशेष्यते। मदिंतमः मादयितृतमः ऊर्जं वसानः बलकरं रसमाच्छादयन् । ‘ अपो वसानः' (ऋ. सं. ९. ७८, १ ) इति ह्युक्तम् । सुमंगलः शोभनमंगलप्रदः । सः सोमः प्रत्यङ् विश्वा भुवना सर्वाणि भूतजातानि अभि पप्रथे अभिप्रथयति । दिवि उदितः सन् क्रीळन् वेद्यां संक्रीडमानः हरिः हरितवर्णः अत्यः अतनकुशलः वृषा वर्षक: स्यंदते रसरूपेण ॥
+
+##### Gist of the bhāṣya
+
+This Soma is poured into the belly of Indra, for the sake of food, his or the sacrificer's, that is, for the success of food. Soma is described: most exhilarating, clothing himself with strength, that is, covering himself with the strength-giving juice, as stated in Ṛ. Saṃ. 9. 78, 1; the giver of auspicious fortune. That Soma spreads towards all beings. Risen in heaven, sporting on the altar, green-coloured, swift in motion, the showerer, he flows in the form of juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतमः (*madiṃtamaḥ*)—the extremely gladdening
+- ऊर्जं (*ūrjaṃ*)—strength
+- वसानः (*vasānaḥ*)—who is clothed in
+- सुमंगलः (*sumaṃgalaḥ*)—the bringer of fortune, Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- कुक्षा (*kukṣā*)—in the belly
+- श्रवसे (*śravase*)—for obtaining food
+- आ पवते (*ā pavate*)—flows
+- सः (*saḥ*)—that same Soma
+- प्रत्यज् (*pratyaj*)—everywhere **NOTE**
+- विश्वा भुवना (*viśvā bhuvanā*)—facing all the worlds
+- अभि पप्रथे (*abhi paprathe*)—roams
+- हरिः (*hariḥ*)—green-coloured
+- अत्यः (*atyaḥ*)—ever in motion
+- वृषा (*vṛṣā*)—who grants what is desired, Soma
+- क्रीळन् (*krīḷan*)—sporting
+- स्यंदते (*syaṃdate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the extremely gladdening, strong, bringer of fortune, enters the belly of Indra for the obtaining of food. He flows of his own accord in all the worlds. Soma, green-coloured, ever in motion, granting what is desired, flows sporting.
+
+### Printed p. 509
+
+##### English translation
+The (Soma) flows to Indra's belly for (his) food, giving extreme exhilaration, clothed with vigour, giving good fortune he spreads forth towards all beings ; sporting (on the altar), green-tinted, swift-moving, the showerer of benefits, he flows forth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ दे॒वेभ्यो॒ मधु॑मत्तमं॒ नरः॑ स॒हस्र॑धारं दुहते॒ दश॒ क्षिपः॑ ।  
+> नृभिः॑ सोम॒ प्रच्यु॑तो॒ ग्राव॑भिः सु॒तो विश्वां॑दे॒वाँ आ प॑वस्वा सहस्रजित् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । देवेभ्यः । मधुमत्ऽतमम् । नरः । सहस्रऽधारम् । दुहते । दश । क्षिपः ।  
+> नृऽभिः । सोम । प्रऽच्युतः । ग्रावऽभिः । सुतः । विश्वान् । देवान् । आ । पवस्व । सहस्रऽजित् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तं तादृशं त्वा त्वां देवेभ्यः इंद्राद्यर्थं मधुमत्तमम् अतिशयेन मधुमंतं सहस्रधारं बहुधारायुक्तं दुहते दुहंति । के। नरः नेतार ऋत्विजः दश क्षिपः तेषां दशसंख्याका अंगुलयश्च । हे सोम नृभिः मनुष्यैः प्रच्युतः ग्रावभिः सुतः अभिषुतस्त्वं सहस्रजित् सहस्रसंख्याकधनस्य जेता सन् विश्वान् देवान् आ पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Soma, such as you are, for the gods, for Indra and the others, most honeyed and of a thousand streams, that is, having many streams, they milk you: who? The leaders, the priests, and their ten fingers, the ten in number. O Soma, urged on by men, pressed by the stones, being the winner of wealth in the number of a thousand, flow to all the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—(O god Soma) the priests
+- दश क्षिपः (*daśa kṣipaḥ*)—and their ten fingers
+- सहस्र धारं (*sahasra dhāraṃ*)—you who are endowed with many streams
+- मधुमत्तमं (*madhumattamaṃ*)—full of sweetness
+- तं त्वा (*taṃ tvā*)—you, the well known
+- देवेभ्यः (*devebhyaḥ*)—for the gods, Indra and the others
+- दुहते (*duhate*)—milk
+- सोम (*soma*)—O Soma
+- नृभिः (*nṛbhiḥ*)—by men
+- प्रच्युतः (*pracyutaḥ*)—urged
+- ग्रावभिः (*grāvabhiḥ*)—by the pressing
+
 ---
 
-**Progress note:** Done through printed p. 503. Sūkta 78 end; Sūkta 79 Ṛk 1-4 and Ṛk 5 Saṃhitā/Pada, pp. 498-503
+**Progress note:** Done through printed p. 509. Sūkta 79 end; Sūkta 80 Ṛk 1-4 (to Pratipadārtha), pp. 504-509
