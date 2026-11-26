@@ -59,3 +59,10 @@ table.wide { table-layout: fixed; width: 100%; font-size: 7.4pt; line-height: 1.
 table.wide td, table.wide th { padding: 1.5pt 2pt; overflow-wrap: anywhere; word-break: break-word; }
 table.wide .dv, table.wide em { font-size: 1em; }
 table.cols7, table.cols8, table.cols9 { font-size: 6.8pt; }
+
+/* Lines of even length: words may be broken at the line end (user, Nov 26 2026: "use word breakers to get better line alignment").
+   Kannada: at a syllable boundary, without a hyphen sign (as the printed original does); English: with a hyphen, never fewer than
+   3 letters on either side.  Headings, tables of contents and Sanskrit quotations are not broken. */
+html[lang="kn"] body { hyphens: auto; hyphenate-character: ""; hyphenate-limit-chars: 5 2 2; text-align: justify; }
+html[lang="en"] body { hyphens: auto; hyphenate-limit-chars: 6 3 3; }
+h1, h2, h3, h4, h5, table.contents, blockquote .dv, blockquote em.iast, .titlepage, .cover, .copyright { hyphens: manual; }

@@ -414,6 +414,13 @@ def build_kan(cfg, html_only):
     # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
     # each page ('*[ಪೂರ್ವಪೀಠಿಕೆ 3]*'), the '[figure]' places and the machine's remark on a picture, comments of the making.
     md, nrh = re.subn(r'(?m)^\*\[[^\n]*\]\*[ \t]*\n', '', md)
+    # front matter: a line that is only a roman page number ('iii') is the page turn of the original; it becomes a page mark like the others, so
+    # that the number leaves the text, the footer shows it and the sentence cut by it is joined again (user, Nov 26 2026, Vol 1 Kannada p. 18)
+    k0 = md.find('<!-- printed ')
+    if k0 > 0:
+        fm_, nrom = re.subn(r'(?m)^([ivxlc]{1,7})[ \t]*$', lambda m: f'<!-- printed {m.group(1).lower()} -->', md[:k0])
+        md = fm_ + md[k0:]
+    else: nrom = 0
     md, nfig = re.subn(r'(?m)^\[figure[^\]\n]*\][ \t]*\n(?:\n?ಚಿತ್ರವು [^\n]*\n)?', '', md)
     md = re.sub(r'(?m)^<!-- (?!printed)[^\n]*-->[ \t]*\n', '', md)
     # chapter lines of a prose volume ('ಒಂದನೆಯ ಪ್ರಕರಣ.') become headings, so that the book has a contents page (after the first page mark only:
@@ -424,8 +431,8 @@ def build_kan(cfg, html_only):
         body, nch = re.subn(r'(?m)^([^\s#>*|][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ)(?:ವು)?[ \t.]*\n(?=[^\n]{1,80}\n)', lambda m: '\n## ' + m.group(1) + '\n\n', body)
         md = head + body
     else: nch = 0
-    print(f'[kan] running heads removed: {nrh}; figure places removed: {nfig}; chapter headings made: {nch}')
-    md = re.sub(r'<!-- printed (\d+) -->', r'### Printed p. \1', md)
+    print(f'[kan] running heads removed: {nrh}; roman page numbers turned into page marks: {nrom}; figure places removed: {nfig}; chapter headings made: {nch}')
+    md = re.sub(r'<!-- printed (\d+|[ivxlc]+) -->', r'### Printed p. \1', md)
     md = re.sub(r'\n---\n', '\n', md)
     body = pandoc_html(md)
     toc, st = [], {'n': 0}
@@ -433,7 +440,7 @@ def build_kan(cfg, html_only):
         tag, inner = m.group(1), m.group(2)
         text = re.sub(r'<[^>]+>', '', inner).strip()
         st['n'] += 1; hid = f'k{st["n"]}'
-        mm = re.match(r'Printed p\.\s*(\d+)', text)
+        mm = re.match(r'Printed p\.\s*(\d+|[ivxlc]+)', text)
         if mm: return f'<h3 class="pg" id="p{mm.group(1)}" data-p="Kannada edition p. {mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
         if tag == 'h2':                                   # '## ಸೂಕ್ತ N (ಮಂಡಲ M)' or '## ಮಂಡಲ M' (added from the English structure by kn_headings.py)
             cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'chapter' if 'ಪ್ರಕರಣ' in text else 'part'
