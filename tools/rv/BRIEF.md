@@ -74,3 +74,14 @@ The script has already standardised and inserted section labels, joined line-end
 If you made the same hand-fix a third time, say "recurring: …" in the report: it becomes a script change.
 
 *(Vols 12–16 were made under the older convention with "as supplied" remarks, `[?]` and `[sic]`; do not imitate their style.)*
+
+## Mistakes that stopped the API and agent runs of Vols 23, 27 and 30 again and again (Nov 2026; do not make them)
+- **Never put a Sanskrit word in Latin letters inside double quotation marks** ("Punīṣe"): copy it from kn.md inside ⟦ ⟧, or translate it, or leave it out.
+- **Never write a remark about the window or the page** ("breaks off here", "continues on the next page", "as printed", "[as printed: fortieth]", "the text is cut here"): a sentence or list that goes on in the next window simply ends where kn.md ends; doubts go in `**NOTE**{question}`.
+- **`### Printed p. N` on its own line for every `<!-- printed N -->` of kn.md** (never glued to other text, never inside a heading, never left out); no page heading where kn.md has no mark.
+- **Block labels follow kn.md exactly.** A `> ` block with no label right after another block is the CONTINUATION of that block (the second line of a Saṃhitā, a bhāṣya paragraph): place its `[[bN]]` right after the block before, no new label, no new Ṛk heading. If the FIRST block of a window has no label, write no Ṛk heading and no label for it. If a block's first line is a garbled label ('॥ ಪದಹಾರ ॥', '೧ ಪದಸಾರ ೧') and the block is plainly the Pada or the bhāṣya, repair kn.md with `batch.py fix` (put the real label `*ಪದಪಾಠಃ*` / `*ಸಾಯಣಭಾಷ್ಯಂ*` there) and place it under that label.
+- **`## ` is only for `## Sūkta N (Maṇḍala M)` and `## Maṇḍala M`** (M from the head line, not from a quoted reference like 1-116-14); every other heading is a bold line; a quotation from another Maṇḍala is never given a `#### Ṛk` heading.
+- **Copy every name and number as kn.md has it** (Viśvalā, not Viśpalā); do not 'improve' a doubtful word: `**NOTE**`.
+- **Stray lines inside a block** (printer's sheet numbers 'xxvii 59', 'This image contains no text', a running head) are not text: remove them with `batch.py fix`; a running head of a page inside a block or paragraph is split out and given its `<!-- printed N -->` and `### Printed p. N`.
+- **Translate the whole window.** An answer that stops in the middle (no `### Printed p.` of the last pages) is cut off and is sent again.
+
