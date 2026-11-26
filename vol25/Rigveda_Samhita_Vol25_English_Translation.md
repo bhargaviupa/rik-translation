@@ -26495,6 +26495,290 @@ Metre: गायत्री (*gāyatrī*).
 > उप । अस्मै । गायत । नरः । पवमानाय । इंदवे ।  
 > अभि । देवान् । इयक्षते ॥ १ ॥
 
+### Printed p. 665
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरः नेतार ऋत्विजः यज्ञस्य देवान् इंद्रादीन् अभि इयक्षते आभिमुख्येन यष्टुमिच्छते पवमानाय क्षरते अस्मै अभिषूयमाणाय इंदवे सोमाय उप गायत उपगानं कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O men (नरः (*naraḥ*)), leaders of the sacrifice (नेतार ऋत्विजः यज्ञस्य (*netāra ṛtvijaḥ yajñasya*)), the priests, sing in praise (उप गायत उपगानं कुरुत (*upa gāyata upagānaṃ kuruta*)) to this Indu, Soma (अस्मै अभिषूयमाणाय इंदवे सोमाय (*asmai abhiṣūyamāṇāya iṃdave somāya*)), who is being pressed and who flows purified (पवमानाय क्षरते (*pavamānāya kṣarate*)), and who desires (इयक्षते आभिमुख्येन यष्टुमिच्छते (*iyakṣate ābhimukhyena yaṣṭumicchate*)) to sacrifice facing the gods, Indra and the others (देवान् इंद्रादीन् (*devān iṃdrādīn*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O priests, leaders of the sacrifice
+- देवान् (*devān*)—the gods, Indra and the others
+- अभि इयक्षते (*abhi iyakṣate*)—who desires to approach and worship
+- पवमानाय (*pavamānāya*)—and who has a pure flow
+- अस्मै इंदवे (*asmai iṃdave*)—addressing this Soma
+- उप गायत (*upa gāyata*)—recite the laudatory praise in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, leaders of the sacrifice, addressing this Soma, who desires to approach and worship the gods, Indra and the others, and who has a pure flow, recite the laudatory praise in the form of song.
+
+##### English translation
+Sing, leaders of rites, to this pure-flowing Indu, who is desi offering worship to gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि ते॒ मधु॑ना॒ पयोऽथ॑र्वाणो अशिश्रयुः ।  
+> दे॒वं दे॒वाय॑ देव॒यु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । ते । मधुना । पयः । अथर्वाणः । अशिश्रयुः ।  
+> देवम् । देवाय । देवऽयु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव देवं देवनशीलं देवयु देवयुं देवकामं रसं देवाय देवनशीलायेंद्राय मधुना पयः गव्येन पयसा अथर्वाणः ऋषयः अभि अशिश्रयुः अभ्यश्रीणन् । समस्कुर्वन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the Atharvan seers (अथर्वाणः ऋषयः (*atharvāṇaḥ ṛṣayaḥ*)) have mixed (अभि अशिश्रयुः अभ्यश्रीणन् (*abhi aśiśrayuḥ abhyaśrīṇan*)), that is, prepared (समस्कुर्वन् (*samaskurvan*)), your juice (रसं (*rasaṃ*)), which is divine in nature (देवं देवनशीलं (*devaṃ devanaśīlaṃ*)) and desirous of the gods (देवयुं देवकामं (*devayuṃ devakāmaṃ*)), with sweet (मधुना (*madhunā*)) milk of the cow (पयः गव्येन पयसा (*payaḥ gavyena payasā*)), for the divine Indra (देवाय देवनशीलायेंद्राय (*devāya devanaśīlāyeṃdrāya*)).
+
+### Printed p. 666
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O divine Soma)
+- देवं (*devaṃ*)—which is of divine nature
+- देवयु (*devayu*)—which desires the worship of the gods
+- ते (*te*)—and which is related to you, the juice
+- देवाय (*devāya*)—for Indra, divine in nature
+- मधुना (*madhunā*)—exceedingly tasty
+- पयः (*payaḥ*)—with milk and the like
+- अथर्वाणः (*atharvāṇaḥ*)—the seers called Atharvans
+- अभि आशिश्रियुः (*abhi āśiśriyuḥ*)—have mixed and prepared
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, the seers called Atharvans have mixed and prepared your juice, which is of divine nature, which desires the worship of the gods, and which is related to you, for Indra, divine in nature, with exceedingly tasty milk and the like.
+
+##### English translation
+The Atharvans have mixed with sweet milk for the deity ( Indra ) your divine and god-devoted ( juice ).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ पवस्व॒ शं गवे॒ शं जना॑य॒ शमर्व॑ते ।  
+> शं रा॑ज॒न्नोष॑धीभ्यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । पवस्व । शम् । गवे । शम् । जनाय । शम् । अर्वते ।  
+> शम् । राजन् । ओषधीभ्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् दीप्यमान सोम सः प्रसिद्धस्त्वं नः अस्माकं गवे शं सुखं पवस्व क्षर । जनाय पुत्रादये च शं पवस्व । अर्वते अश्वाय च शं पवस्व । ओषधीभ्यः च शं पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O king, shining Soma (राजन् दीप्यमान सोम (*rājan dīpyamāna soma*)), you, the well known (सः प्रसिद्धस्त्वं (*saḥ prasiddhastvaṃ*)), flow (पवस्व क्षर (*pavasva kṣara*)) with happiness (शं सुखं (*śaṃ sukhaṃ*)) for our cow (गवे (*gave*)); flow with happiness for people, our sons and the rest (जनाय पुत्रादये (*janāya putrādaye*)); flow with happiness for the horse (अर्वते अश्वाय (*arvate aśvāya*)); and flow with happiness for the plants (ओषधीभ्यः (*oṣadhībhyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O shining Soma
+- सः (*saḥ*)—you, the well known
+- नः (*naḥ*)—our
+- गवे (*gave*)—to the cows
+- शं (*śaṃ*)—happiness
+- पवस्व (*pavasva*)—provide
+- जनाय (*janāya*)—to our sons and the rest
+
+### Printed p. 667
+
+- शं (*śaṃ*)—cause happiness
+- अर्वते (*arvate*)—to our horses also
+- शं (*śaṃ*)—bring about happiness
+- ओषधीभ्यः (*oṣadhībhyaḥ*)—to our herbs and the like also
+- शं (*śaṃ*)—provide happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Soma, you, the well known, provide happiness to our cows; cause happiness to our sons and the rest. Bring about happiness to our horses also. Provide happiness to our herbs and the like also.
+
+##### English translation
+Radiant (Soma), pour prosperity upon our cattle, upon our people, upon our horses, and upon our plants.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒भ्रवे॒ नु स्वत॑वसेऽरु॒णाय॑ दिवि॒स्पृशे॑ ।  
+> सोमा॑य गा॒थम॑र्चत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बभ्रवे । नु । स्वऽतवसे । अरुणाय । दिविऽस्पृशे ।  
+> सोमाय । गाथम् । अर्चत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः बभ्रवे बभ्रुवर्णाय स्वतवसे स्वबलाय अरुणाय कदाचिदरुणवर्णाय दिविस्पृशे दिवं स्पृशते सोमाय नु क्षिप्रं गाथं स्तुतिरूपां वाचम् अर्चत । उच्चारयतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O praisers (हे स्तोतारः (*he stotāraḥ*)), quickly (क्षिप्रं (*kṣipraṃ*)) recite (अर्चत उच्चारयत (*arcata uccārayata*)) a song (गाथं स्तुतिरूपां वाचम् (*gāthaṃ stutirūpāṃ vācam*)), a speech in the form of praise, to Soma (सोमाय (*somāya*)) who is of brown colour (बभ्रवे बभ्रुवर्णाय (*babhrave babhruvarṇāya*)), of his own strength (स्वतवसे स्वबलाय (*svatavase svabalāya*)), at times of red colour (अरुणाय कदाचिदरुणवर्णाय (*aruṇāya kadācidaruṇavarṇāya*)), and who touches heaven (दिविस्पृशे दिवं स्पृशते (*divispṛśe divaṃ spṛśate*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O praisers)
+- बभ्रवे (*babhrave*)—who is of a red colour mixed with green
+- स्वतवसे (*svatavase*)—who has power of his own
+- अरुणाय (*aruṇāya*)—who is (at times) golden-coloured
+- दिविस्पृशे (*divispṛśe*)—who touches the atmosphere **NOTE**
+- सोमाय (*somāya*)—addressing Soma
+- नु (*nu*)—quickly
+- गाथं (*gāthaṃ*)—the praise in the form of song
+- अर्चते (*arcate*)—offer
+
+### Printed p. 668
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, quickly offer the praise in the form of song, addressing Soma, who is of a red colour mixed with green, who has power of his own, who is at times golden-coloured and who touches the atmosphere.
+
+##### English translation
+Recite praises to the brown-coloured self-vigorous red heaven-touching Soma.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हस्त॑च्युतेभि॒रद्रि॑भिः सु॒तं सोमं॑ पुनीतन ।  
+> मधा॒वा धा॑वता॒ मधु॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हस्तऽच्युतेभिः । अद्रिऽभिः । सुतम् । सोमम् । पुनीतन ।  
+> मधौ । आ । धावत । मधु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः हस्तच्युतेभिः हस्तप्रच्युतैः अद्रिभिः अभिषवग्रावभिः सुतम् अभिषुतं सोमं पुनीतन पवित्रे पावयत । अपि च मधौ मदकरे सोमे मधु गव्यं पयः आ धावत प्रक्षिपत ॥ ॥ ३६ ॥
+
+##### Gist of the bhāṣya
+
+O priests, purify (पुनीतन पवित्रे पावयत (*punītana pavitre pāvayata*)) in the filter the Soma pressed (सुतम् अभिषुतं सोमं (*sutam abhiṣutaṃ somaṃ*)) by the pressing stones (अद्रिभिः अभिषवग्रावभिः (*adribhiḥ abhiṣavagrāvabhiḥ*)) that have slipped from the hands (हस्तच्युतेभिः हस्तप्रच्युतैः (*hastacyutebhiḥ hastapracyutaiḥ*)). And further, pour (आ धावत प्रक्षिपत (*ā dhāvata prakṣipata*)) the sweet (मधु (*madhu*)) milk of the cow (गव्यं पयः (*gavyaṃ payaḥ*)) into the intoxicating Soma (मधौ मदकरे सोमे (*madhau madakare some*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O priests)
+- हस्तच्युतेभिः (*hastacyutebhiḥ*)—wielded by the hands
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma
+- पुनीतन (*punītana*)—purify in the ten-fold filter
+- मधौ (*madhau*)—in this intoxicating Soma
+- मधु (*madhu*)—the tasty milk
+- आ धावत (*ā dhāvata*)—add and mix
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, purify in the ten-fold filter the Soma pressed by the pressing stones wielded by the hands. Add the tasty milk to this intoxicating Soma and mix it.
+
+##### English translation
+Purify the Soma which has been effused by the stones whirled by the hands ; mix the sweet (milk) in the inebriating juice.
+
+### Printed p. 669
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नम॒सेदुप॑ सीदत द॒ध्नेद॒भि श्री॑णीतन ।  
+> इंदु॒मिंद्रे॑ दधातन ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नमसा । इत् । उप । सीदत । दध्ना । इत् । अभि । श्रीणीतन ।  
+> इंदुम् । इंद्रे । दधातन ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः नमसेत् नमस्कारेणैव उप सीदत सोममुपगच्छत । दध्नेत् दध्नैव अभि श्रीणीतन अभिश्रीणीत च । इंद्रे इंदुं सोमं दधातन धत्त च ।
+
+##### Gist of the bhāṣya
+
+O priests, approach (उप सीदत सोममुपगच्छत (*upa sīdata somamupagacchata*)) Soma with reverence alone (नमसेत् नमस्कारेणैव (*namaset namaskāreṇaiva*)); mix (अभि श्रीणीतन (*abhi śrīṇītana*)) it with curds alone (दध्नेत् दध्नैव (*dadhnet dadhnaiva*)); and place (दधातन धत्त (*dadhātana dhatta*)) Indu, Soma (इंदुं सोमं (*iṃduṃ somaṃ*)), in Indra (इंद्रे (*iṃdre*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O priests)
+- नमुसेत् (*namuset*)—with reverence alone
+- उप सीदते (*upa sīdate*)—approach the Soma
+- दध्नेत् (*dadhnet*)—with curds alone
+- अभि श्रीणीतन (*abhi śrīṇītana*)—add and mix
+- इंद्रे (*iṃdre*)—in Indra alone
+- इंदुं (*iṃduṃ*)—the Soma
+- दधातन (*dadhātana*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, approach the Soma with reverence alone. Add and mix it with curds alone. Offer this Soma in Indra alone.
+
+##### English translation
+Approach with reverence, mix (the libation) with the curds. offer the Soma to Indra.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒मि॒त्र॒हा विच॑र्षणिः॒ पव॑स्व सोम॒ शं गवे॑ ।  
+> दे॒वेभ्यो॑ अनुकाम॒कृत् ॥ ७ ॥
+
+### Printed p. 670
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमित्रऽहा । विऽचर्षणिः । पवस्व । सोम । शम् । गवे ।  
+> देवेभ्यः । अनुकामऽकृत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अमित्रहा अमित्राणां हंता विचर्षणिः विद्रष्टा देवेभ्यः अनुकामकृत् अभीष्टस्य कर्ता त्वं गवे अस्माकं गवे शं सुखं पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, slayer of foes (अमित्रहा अमित्राणां हंता (*amitrahā amitrāṇāṃ haṃtā*)), far-seeing (विचर्षणिः विद्रष्टा (*vicarṣaṇiḥ vidraṣṭā*)), accomplisher of the wish (अनुकामकृत् अभीष्टस्य कर्ता (*anukāmakṛt abhīṣṭasya kartā*)) for the gods (देवेभ्यः (*devebhyaḥ*)), you flow (पवस्व क्षर (*pavasva kṣara*)) with happiness (शं सुखं (*śaṃ sukhaṃ*)) for our cow (गवे अस्माकं गवे (*gave asmākaṃ gave*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- अमित्रहा (*amitrahā*)—destroyer of enemies
+- विचर्षणिः (*vicarṣaṇiḥ*)—possessed of discerning vision
+- देवेभ्यः (*devebhyaḥ*)—for the gods also
+- असुकामुकृत् (*asukāmukṛt*)—you who fulfil desired ends
+- गवे (*gave*)—to our cows
+- शं (*śaṃ*)—happiness
+- पवस्व (*pavasva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, destroyer of enemies, possessed of discerning vision, you who fulfil the desired ends of the gods, provide happiness to our cows.
+
+##### English translation
+Soma, slayer of our enemies, the wise one, the fulfiller of the desires of the gods, shed prosperity on our cattle.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य सोम॒ पात॑वे॒ मदा॑य॒ परि॑ षिच्यसे ।  
+> म॒न॒श्चिन्मन॑स॒स्पतिः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सोम । पातवे । मदाय । परि । सिच्यसे ।  
+> मनःऽचित् । मनसः । पतिः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 664. Ṛk 4-9 of sūkta 10, sūkta 11 introduction and Ṛk 1 verse
+**Progress note:** Done through printed p. 670. sūkta 11 Ṛk 1 bhāṣya to Ṛk 7, Ṛk 8 verse
