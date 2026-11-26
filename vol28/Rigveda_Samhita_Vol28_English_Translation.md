@@ -4213,6 +4213,278 @@ The sūkta जगृभ्मा ते (*jagṛbhmā te*) has eight Ṛks and i
 
 This sūkta beginning जगृभ्मा ते (*jagṛbhmā te*) is the fifth sūkta in the fourth anuvāka. It has eight Ṛks. Its seer is Saptagu of the Āṅgirasa gotra; the metre is Triṣṭup. In ancient times there was an Asura woman named Vikuṇṭhā. Desiring that a son equal to Indra be born to her, she practised austerities for that purpose, observing rules such as Kṛcchra and Cāndrāyaṇa. Indra thought that no one else equal to himself should be born, and was himself born as a son to that Asura woman. This son became famous as Vaikuṇṭha Indra; he is the deity of this sūkta. That it is said in the Anukramaṇikā: जगृभ्माष्टौ सप्तगुर्वैकुंठमिंद्रं तुष्टाव (*jagṛbhmāṣṭau saptagurvaikuṃṭhamiṃdraṃ tuṣṭāva*)
 
+### Printed p. 133
+Maṇḍala 10, Anuvāka 4, Sūkta 47. Aṣṭaka 8, Adhyāya 1, Vargas 3, 4. Number of Ṛks in the sūkta: 8.
+Ṛṣi: Saptagu. Deity: Indra Vaikuṇṭha. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒गृ॒भ्मा ते॒ दक्षि॑णमिंद्र॒ हस्तं॑ वसू॒यवो॑ वसुपते॒ वसू॑नां ।  
+> वि॒द्वा हि त्वा॒ गोप॑तिं शूर॒ गोना॑म॒स्मभ्यं॑ चि॒त्रं वृष॑णं ॒ ॑
+> रयिं दाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जगृभ्य । ते । दक्षिणं । इंद्र । हस्तं । वसुयवः । वसुपते । वसूनां ॥  
+> विद्म । हि । त्वा । गोऽपतिं । शूर । गोनां । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसूनां वसुपते बहूनां धनानां स्वामिन्निंद्र ते तव दक्षिणं हस्तं
+> वसूयवो वसुकामा वयं जगृभ्य गृह्णीमः । यथा बहुप्रदस्यार्थिनो
+> मह्यमदत्वा न गंतव्यमिति हस्तं गृह्णंति तद्वत् । हे शूर विक्रांतेंद्र त्वा त्वां
+> गोनां गोपतिं । अत्र वृत्तवृत्तिभ्यां स्वामित्वं बहुत्वं च प्रतिपाद्यते । बह्नीनां
+> गवां गोपतिं विद्म । जानीमः । अतोऽस्मभ्यं चित्रं चायनीयं वृषणं वर्षकं
+> रयिं धनं दाः । देहि ॥
+
+##### Gist of the bhāṣya
+
+"Lord of many riches, Indra, we who desire wealth seize your right hand" — as people who want something from a generous giver take his hand, saying "you must not leave without giving to me." "O hero, valiant Indra, we know you as lord of cattle." Here, through the compound and the suffix, both lordship and plurality are conveyed: we know you as lord of many cows. Therefore give us wealth that is wonderful (चायनीयं (*cāyanīyaṃ*), worthy of reverence) and showering.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसूनां (*vasūnāṃ*)—to abundant riches
+- वसुपते (*vasupate*)—O Indra, lord
+- ते (*te*)—your
+- दक्षिणं हस्तं (*dakṣiṇaṃ hastaṃ*)—right hand
+- वसूवयः (*vasūvayaḥ*)—we who desire wealth
+- जगृभ्य (*jagṛbhya*)—we seize
+- शूर (*śūra*)—O valiant Indra
+- त्वा (*tvā*)—you
+- गोनां (*gonāṃ*)—of many cows
+- गोपतिं (*gopatiṃ*)—as the lord
+- विद्म (*vidma*)—we know
+- (therefore) अस्मभ्यं (*asmabhyaṃ*)—to us
+- चित्रं (*citraṃ*)—of many kinds
+- वृषणं (*vṛṣaṇaṃ*)—rain-giving
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+### Printed p. 134
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of abundant riches, we who desire wealth seize your right hand (so that you may not go away without giving us wealth). O valiant Indra, we know you as lord of many cows. Therefore give us wealth of many kinds, granting what we desire.
+
+##### English translation
+Indra, lord of abundant wealth, we desiring wealth, seize hold of your right hand ; we know you. hero, lord of abundant cattle, give us various fertilizing riches.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒यु॒धं स्वव॑शं सुनी॒थं चतुः॑समुद्रं ध॒रुणं॑ रयि॒णां ।  
+> च॒र्कृत्यं॒ शंस्यं॒ भूरि॑वारम॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं दाः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुआयुधं । सुअवसं । सुनीथं । चतुःसमुद्रं । धरुणं । रयीणां ।  
+> चर्कृत्यं । श्यंसं । भूरिवारं । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वायुधं शोभनवज्राद्यायुधं स्ववसं शोभनरक्षणं सुगमनं वा सुनीथं
+> सुनयनं चतुःसमुद्रं चतुरः समुद्रान्नो यशसा व्याप्नोति तं धरुणं धारकं
+> केषां । रयीणां धनानां । चर्कृत्यं पुनःपुनः कर्तव्यं शंस्यं स्तुत्यं भूरिवारं
+> भूरीणां दुःखानां वारकं बहुभिर्वर्णीयं वा त्वां विद्मेति शेषः । तादृशोऽस्मभ्यमित्यादि पूर्ववत् । यद्वा । हे इंद्र उक्तगुणविशिष्टं पुत्राख्यं रयिं दाः ।
+> देहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses: स्वायुधं (*svāyudhaṃ*), one with a fine weapon such as the thunderbolt; स्ववसं (*svavasaṃ*), one of fine protection, or of good going; सुनीथं (*sunīthaṃ*), a good leader; चतुःसमुद्रं (*catuḥsamudraṃ*), one who pervades the four oceans with his fame; धरुणं (*dharuṇaṃ*), the supporter, of riches; चर्कृत्यं (*carkṛtyaṃ*), to be done again and again; शंस्यं (*śaṃsyaṃ*), praiseworthy; भूरिवारं (*bhūrivāraṃ*), warder-off of many sorrows, or one to be chosen by many. The words "we know you" are to be supplied. Such a one — "to us" and so on as before. Alternatively: O Indra, give wealth called a son, endowed with the qualities stated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra, we) स्वायुधं (*svāyudhaṃ*)—one with an excellent thunderbolt weapon
+- स्ववसं (*svavasaṃ*)—a giver of excellent protection
+- सुनीथं (*sunīthaṃ*)—an excellent guide
+- चतुः समुद्रं (*catuḥ samudraṃ*)—one whose fame spreads to the four oceans
+- रयाणां (*rayāṇāṃ*)—of riches
+- धरुणं (*dharuṇaṃ*)—the supporter
+- चर्कृत्यं (*carkṛtyaṃ*)—to be done again and again
+- शंस्यं (*śaṃsyaṃ*)—worthy of praise
+- भूरिवारं (*bhūrivāraṃ*)—remover of sorrows, or one desired by many
+- (त्वां विद्म (*tvāṃ vidma*)—we know you,
+
+### Printed p. 135
+ O Indra) अस्मभ्यं (*asmabhyaṃ*)—to us
+- चित्रं (*citraṃ*)—of many kinds
+- वृषणं (*vṛṣaṇaṃ*)—consisting of offspring such as sons
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we know you as one with an excellent thunderbolt, a giver of excellent protection, an excellent guide, renowned as far as the four oceans, the supporter of riches, worthy again and again of praise, remover of sorrows or worthy of the regard of many people. Therefore, O Indra, give us wealth of many kinds and offspring such as sons.
+
+##### English translation
+(We know you to be) well armed, a sure protector, a safe guide, (renowned throughout) the four oceans, the depositary of riches, deserving of repeated worship. adorable, the preventer of many (ills): grant us various fertilizing riches.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ब्रह्मा॑णं दे॒ववं॑तं बृ॒हंत॑मु॒रुं ग॑भी॒रं पृ॒थुबु॑ध्नमिंद्र  
+> शृ॒तऋ॑षिमु॒ग्रम॑भिमाति॒षाह॑म॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं  ॑
+> दाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुब्रह्माणं । देववंतं । बृहंतं । उरुं । गभीरं । पृथुबुध्नं । इंद्र ।  
+> श्रुतऋषिं । उग्रं । अभिमाति सहं । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सुब्रह्माणं । ब्रह्म परिवृढं स्तुतिलक्षणं कर्म । शोभनस्तुतिकमित्यर्थः । देववंतं बृहंतं महांतमुरुं विस्तीर्णं गंभीरमसुरादिभिरगम्यं
+> पृथुबुद्धं विस्त्रतमूलं श्रुतऋषिं श्रुता ऋषयो येन तादृशमृषीणां ख्यापयितारं प्रथितज्ञानं वोग्रमुद्गूर्णबलं अत एवाभिमातिषाहमभिमातीनां शत्रुणामभिभवितारं हंतारमस्मभ्यं चित्रं पूज्यं वृषणं वर्षकं पुत्रं रयिं धनं
+> दाः । देहि । अथवा विशेषणविशेष्यभावः । उक्तलक्षणं पुत्राख्यं रयिं दाः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are सुब्रह्माणं (*subrahmāṇaṃ*): ब्रह्म (*brahma*) is the rite consisting of praise, so one with fine praise; देववंतं (*devavaṃtaṃ*), accompanied by gods; बृहंतं (*bṛhaṃtaṃ*), great; उरुं (*uruṃ*), wide; गभीरं (*gabhīraṃ*), unapproachable by Asuras and others; पृथुबुद्धं (*pṛthubuddhaṃ*), of broad root; श्रुतऋषिं (*śrutaṛṣiṃ*), one by whom the seers are made known, the proclaimer of the seers, of widely known wisdom; उग्रं (*ugraṃ*), of towering strength; therefore अभिमातिषाहं (*abhimātiṣāhaṃ*), the overcomer and slayer of enemies. Give us wonderful (worshipful), showering wealth in the form of a son. Or else there is a relation of qualifier and qualified: give wealth called a son, of the nature stated.
+
+### Printed p. 136
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra, you
+- सुब्रह्माणं (*subrahmāṇaṃ*)—praised through the rite called Subrahmaṇya, a praise of Brahman
+- देवयंतं (*devayaṃtaṃ*)—accompanied by the gods
+- बृहंतं (*bṛhaṃtaṃ*)—of great nature
+- उरुं (*uruṃ*)—of vast body
+- गभीरं (*gabhīraṃ*)—not to be conquered by Asuras and others
+- पृथुबुध्नं (*pṛthubudhnaṃ*)—of wide root
+- श्रुतऋषिं (*śrutaṛṣiṃ*)—one who knows the seers, or of excellent knowledge
+- उग्रं (*ugraṃ*)—of great strength
+- अभिमातिषाहं (*abhimātiṣāhaṃ*)—the conqueror of enemies; thus we know you. Therefore
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- चित्रं (*citraṃ*)—worshipful
+- वृषणं (*vṛṣaṇaṃ*)—granting what is desired
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we know you as worthy of the praise that is a hymn to Brahman, as dwelling with the gods, of great nature, of vast body, unconquerable by Asuras and others, of wide root, as one who knows the seers or is of excellent knowledge, of great strength, and therefore as the conqueror of enemies. Therefore, O Indra, give us worshipful wealth that grants what we desire.
+
+##### English translation
+Grant us, Indra, various fertilizing riches, the fit object of prayer, honoured by the gods, large, vast, profound, wide-rooted, by means of which the Rishis are heard, fierce, the subduer of your foes.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒नद्वा॑जं॒ विप्र॑वीरं॒ तरु॑त्रं धन॒स्पृतं॑ शूशु॒वांसं॑ सु॒दक्षं॑ ।  
+> द॒स्यु॒हनं॑ पू॒र्भिद॑मिंद्र स॒त्यम॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं  ॑
+> दाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनत्वाजं । विप्रवीरं । तरुत्रं । धनस्पृतं । शूशुवांसं । सुदक्षं ॥  
+> दस्युहनं । पूभिधं । इंद्र । सत्यं । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सनद्वाजं लब्धान्नं विप्रवीरं मेधाविनं पुत्रं तरुत्रं तारकं धनस्पृतं
+> धनानां पूरकं सृष्टारं वा ॥ स्पृणतेः स्पृशतेवोत्तरपदं ॥ शूशुवांसं
+
+##### Gist of the bhāṣya
+
+सनद्वाजं (*sanadvājaṃ*), one who has obtained food; विप्रवीरं (*vipravīraṃ*), one having a wise son; तरुत्रं (*tarutraṃ*), a rescuer; धनस्पृतं (*dhanaspṛtaṃ*), a filler or creator of riches (the latter member of the compound is from स्पृणतेः (*spṛṇateḥ*) or स्पृणतेः (*spṛṇateḥ*)); शूशुवांसं (*śūśuvāṃsaṃ*)
+
+### Printed p. 137
+
+> वर्धमानं सुदक्षं शोभनबलं दस्युहनं शत्रोणां हंतारं पूर्भिदं शत्रोणां
+> पुरां भेत्तारं सत्यं सत्यकर्माणं । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+growing; सुदक्षं (*sudakṣaṃ*), of fine strength; दस्युहनं (*dasyuhanaṃ*), slayer of enemies; पूर्भिदं (*pūrbhidaṃ*), breaker of the cities of enemies; सत्यं (*satyaṃ*), one of true deeds. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra, you
+- सनद्वाजं (*sanadvājaṃ*)—one who possesses food and other provisions
+- विप्रवीरं (*vipravīraṃ*)—one who has a wise son
+- तरुत्रं (*tarutraṃ*)—one who carries across sorrows and the like
+- धनस्पृतं (*dhanaspṛtaṃ*)—one filled with riches
+- शूशुवासं (*śūśuvāsaṃ*)—one who attains increase
+- सुदक्षं (*sudakṣaṃ*)—of excellent strength
+- दस्युहनं (*dasyuhanaṃ*)—slayer of enemies
+- पूर्विदं (*pūrvidaṃ*)—splitter of the enemies' cities
+- सत्यं (*satyaṃ*)—of true nature; thus we know you. Therefore
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- चित्रं (*citraṃ*)—of many kinds
+- वृषणं (*vṛṣaṇaṃ*)—granting what is desired
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we know you as one who has food and other provisions, who has a wise son, who brings people across sorrows and the like, who provides riches to the praisers, who causes increase, who slays enemies, who destroys the cities of enemies, and who is of true nature. Therefore, O Indra, give us wealth of many kinds that grants what we desire.
+
+##### English translation
+Grant us Indra, various fertilizing riches, dispensing food, comprising intelligent male offspring, the protector, filling men with wealth, the granter of increase, the very powerful, the slayer of the Dasyus, the destroyer of cities the observer of truth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑वंतं र॒थिनं॑ वी॒रवं॑तं सह॒स्रिणं॑ श॒तिनं॒ वाज॑मिंद्र ।  
+> भ॒द्रव्रा॑तं॒ विप्र॑वीरं स्व॒र्षाम॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं दाः॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्ववंतं । रथिनं । वीरवंतं । सहस्रिणं । शतिनं । वाजं । इंद्र ।  
+> भद्रव्रातं । विप्रवीरं । स्वःसां । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः ॥
+
+### Printed p. 138
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वावंतं बहुभिरश्वैरुपेतं रथिनं रथवंतं वीरवंतं वीरैः पुरुषैरुपेतं
+> सहस्रिणं सहस्रवंतं शतिनं शतवंतं । असंख्यातगवादियुक्तमित्यर्थः । भद्रव्रातं
+> भद्रगणं कल्याणैः सेवकैः परिवृतं विप्रवीरं विप्रैर्वीरैश्चोपेतं स्पर्षां सर्वास
+> संभक्तारं वाजं बलवंतं हे इंद्र । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+अश्वावंतं (*aśvāvaṃtaṃ*), endowed with many horses; रथिनं (*rathinaṃ*), possessing a chariot; वीरवंतं (*vīravaṃtaṃ*), accompanied by heroic men; सहस्रिणं (*sahasriṇaṃ*), possessing thousands; शतिनं (*śatinaṃ*), possessing hundreds, that is, endowed with countless cattle and the like; भद्रव्रातं (*bhadravrātaṃ*), with a company of good ones, surrounded by auspicious attendants; विप्रवीरं (*vipravīraṃ*), accompanied by sages and heroes; स्पर्षां (*sparṣāṃ*), the sharer of all; वाजं (*vājaṃ*), strong; O Indra. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra, you
+- अश्वावंतं (*aśvāvaṃtaṃ*)—one with many horses
+- रथिनं (*rathinaṃ*)—one with a chariot
+- वीरवंतं (*vīravaṃtaṃ*)—one accompanied by heroic men
+- सहस्रिणं शतिनं (*sahasriṇaṃ śatinaṃ*)—one possessed of hundreds or thousands of cattle as wealth
+- भद्रव्रातं (*bhadravrātaṃ*)—one served by excellent attendants
+- विप्रवीरं (*vipravīraṃ*)—one accompanied by men who are sages and heroes
+- स्वर्षां (*svarṣāṃ*)—one who possesses all wealth
+- वाजं (*vājaṃ*)—the mighty one; thus we know you. Therefore
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- चित्रं (*citraṃ*)—of many kinds
+- वृषणं (*vṛṣaṇaṃ*)—granting what is desired
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we know that with you are many horses, a chariot, heroic men, hundreds or thousands of cattle, excellent attendants, wise heroes, all wealth and strength. Therefore, O Indra, give us worshipful wealth that grants what we desire.
+
+##### English translation
+Grant us, Indra, various fertilizing wealth, consisting of horses, of chariots, of valiant followers, of thousands, of hundreds (of cattle), surrou- ded by beautiful attendants, endowed with sages and heroes, the enjoyer of all (benefits).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒प्तगु॑मृ॒तधी॑तिं सुमे॒धां बृह॒स्पतिं॑ म॒तिरच्छा॑ जिगाति ॥  
+> य आं॑गिर॒सो नम॑सोप॒सद्यो॒ऽस्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं  ॑
+> दाः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
+**Progress note:** Done through printed p. 138. pp. 133-138 (batch API)
