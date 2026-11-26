@@ -23315,6 +23315,310 @@ This strong one, as it drops, seems to encompass all desirable things with its p
 > ए॒ष दे॒वो र॑थर्यति॒ पव॑मानो दशस्यति ।  
 > आ॒विष्कृ॑णोति वग्व॒नुम् ॥ ५ ॥
 
+### Printed p. 599
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । देवः । रथर्यति । पवमानः । दशस्यति ।  
+> आविः । कृणोति । वग्वनुम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः क्षरन् एषः सोमः देवः रथर्यति अस्मदीयं यागं प्रत्यागमनाय रथं कामयते । दशस्यति आगत्य चास्मभ्यमभिलषितं प्रयच्छति। वग्वनुं शब्दम् आविष्कृणोति । अभिषूयमाणः प्रकटयति ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+This Soma (एषः सोमः (*eṣaḥ somaḥ*)), flowing (पवमानः क्षरन् (*pavamānaḥ kṣaran*)), divine (देवः (*devaḥ*)), desires a chariot (रथर्यति (*ratharyati*), that is, रथं कामयते (*rathaṃ kāmayate*)) in order to come to our sacrifice (अस्मदीयं यागं प्रत्यागमनाय (*asmadīyaṃ yāgaṃ pratyāgamanāya*)). It comes and gives us what we desire (दशस्यति (*daśasyati*), that is, आगत्य चास्मभ्यमभिलषितं प्रयच्छति (*āgatya cāsmabhyamabhilaṣitaṃ prayacchati*)). Being pressed (अभिषूयमाणः (*abhiṣūyamāṇaḥ*)), it makes manifest (आविष्कृणोति (*āviṣkṛṇoti*), that is, प्रकटयति (*prakaṭayati*)) the sound (वग्वनुं शब्दम् (*vagvanuṃ śabdam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमासः (*pavamāsaḥ*)—flowing **NOTE**
+- देवः (*devaḥ*)—and of divine nature
+- एषः (*eṣaḥ*)—this Soma
+- रथर्यति (*ratharyati*)—wishes for a chariot in order to come to our sacrifice
+- दशस्यति (*daśasyati*)—also provides what we desire
+- वग्वनुं (*vagvanuṃ*)—the sound of its coming
+- आविष्कृणोति (*āviṣkṛṇoti*)—makes manifest **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which flows and is of divine nature, wishes for a chariot in order to come to our sacrifice. It provides what we desire. It makes manifest the sound of its coming.
+
+##### English translation
+This divine (Soma), as it drops, prepares its chariot (to come to us) ; it flings us our boons, it utters a sound.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष विप्रै॑र॒भिष्टु॑तो॒ऽपो दे॒वो वि गा॑हते ।  
+> दध॒द्रत्ना॑नि दा॒शुषे॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । विप्रैः । अभिऽस्तुतः । अपः । देवः । वि । गाहते ।  
+> दधत् । रत्नानि । दाशुषे ॥ ६ ॥
+
+### Printed p. 600
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रैः मेधाविभिः स्तोतृभिः अभिष्टुतः परितः स्तुतः एषः सोमः देवः दाशुषे हविषां प्रदात्रे यजमानाय रत्नानि रमणीयानि धनानि दधत् धारयन् प्रयच्छन् अपः वसतीवरीः वि गाहते प्रविशति ॥
+
+##### Gist of the bhāṣya
+
+This Soma (एषः सोमः देवः (*eṣaḥ somaḥ devaḥ*)), praised on all sides (अभिष्टुतः परितः स्तुतः (*abhiṣṭutaḥ paritaḥ stutaḥ*)) by wise (मेधाविभिः (*medhāvibhiḥ*)) praisers (विप्रैः (*vipraiḥ*)), bestowing (दधत् (*dadhat*), that is, धारयन् प्रयच्छन् (*dhārayan prayacchan*)) delightful riches (रत्नानि रमणीयानि धनानि (*ratnāni ramaṇīyāni dhanāni*)) on the sacrificer who gives oblations (दाशुषे हविषां प्रदात्रे यजमानाय (*dāśuṣe haviṣāṃ pradātre yajamānāya*)), enters (वि गाहते (*vi gāhate*), that is, प्रविशति (*praviśati*)) the waters (अपः (*apaḥ*)), that is, the Vasatīvarī waters (वसतीवरीः (*vasatīvarīḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रैः (*vipraiḥ*)—by the wise praisers
+- अभिष्टुतः (*abhiṣṭutaḥ*)—praised on all sides
+- देवः (*devaḥ*)—and of divine nature
+- एषः (*eṣaḥ*)—this Soma
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- रत्नानि (*ratnāni*)—delightful riches
+- दधत् (*dadhat*)—giving
+- अपः (*apaḥ*)—the waters called Vasatīvarī
+- वि गाहते (*vi gāhate*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which is praised on all sides by the wise praisers and is of divine nature, enters the waters called Vasatīvarī, giving delightful riches to the sacrificer who offers oblations.
+
+##### English translation
+This divine (Soma), praised by the priests and giving wealth to the worshipper, plunges into the waters.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दिवं॒ वि धा॑वति ति॒रो रजां॑सि॒ धार॑या ।  
+> पव॑मानः॒ कनि॑क्रदत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । दिवम् । वि । धावति । तिरः । रजांसि । धारया ।  
+> पवमानः । कनिक्रदत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धारया पवमानः क्षरन् एषः सोमः कनिक्रदत् अभिषूयमाणः शब्दं कुर्वन् रजांसि लोकान् तिरः तिरस्कुर्वन् यागात् दिवं स्वर्गं वि धावति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma (एषः सोमः (*eṣaḥ somaḥ*)), flowing (पवमानः क्षरन् (*pavamānaḥ kṣaran*)) in a stream (धारया (*dhārayā*)), roaring (कनिक्रदत् (*kanikradat*)), that is, making a sound (शब्दं कुर्वन् (*śabdaṃ kurvan*)) as it is pressed (अभिषूयमाणः (*abhiṣūyamāṇaḥ*)), overcoming (तिरः तिरस्कुर्वन् (*tiraḥ tiraskurvan*)) the worlds (रजांसि लोकान् (*rajāṃsi lokān*)), runs (वि धावति (*vi dhāvati*), that is, गच्छति (*gacchati*)) from the sacrifice (यागात् (*yāgāt*)) to heaven (दिवं स्वर्गं (*divaṃ svargaṃ*)).
+
+### Printed p. 601
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धारया (*dhārayā*)—also in the form of a stream
+- पवमानः (*pavamānaḥ*)—flowing in purity
+- एषः (*eṣaḥ*)—this Soma
+- कनिक्रदत् (*kanikradat*)—making a sound
+- रजांसि (*rajāṃsi*)—all the worlds
+- तिरः (*tiraḥ*)—pushing back
+- दिवः (*divaḥ*)—to heaven **NOTE**
+- वि धावति (*vi dhāvati*)—goes swiftly and reaches
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which flows in the form of a stream and in purity, making a sound and pushing back all the worlds, goes swiftly to heaven and reaches it.
+
+##### English translation
+Making a sound as it drops in a continued stream, it rushes across the worlds into heaven.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दिवं॒ व्यास॑रत्ति॒रो रजां॒स्यस्पृ॑तः ।  
+> पव॑मानः स्वध्व॒रः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । दिवम् । वि । आ । असरत् । तिरः । रजांसि । अस्पृतः ।  
+> पवमानः । सुऽअध्वरः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः क्षरन् एषः सोमः स्वध्वरः सुयज्ञः अस्पृतः कैनाप्यहिंसितश्च सन् रजांसि लोकान् तिरः तिरस्कुर्वन् यज्ञात् दिवं प्रति व्यासरत् विसरति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma (एषः सोमः (*eṣaḥ somaḥ*)), flowing (पवमानः क्षरन् (*pavamānaḥ kṣaran*)), of good sacrifice (स्वध्वरः (*svadhvaraḥ*), that is, सुयज्ञः (*suyajñaḥ*)), and unharmed by anyone (अस्पृतः कैनाप्यहिंसितश्च (*aspṛtaḥ kaināpyahiṃsitaśca*)), overcoming (तिरः तिरस्कुर्वन् (*tiraḥ tiraskurvan*)) the worlds (रजांसि लोकान् (*rajāṃsi lokān*)), goes (व्यासरत् (*vyāsarat*), that is, विसरति गच्छति (*visarati gacchati*)) from the sacrifice (यज्ञात् (*yajñāt*)) towards heaven (दिवं प्रति (*divaṃ prati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—flowing in purity
+- एषः (*eṣaḥ*)—this Soma
+- स्वध्वरः (*svadhvaraḥ*)—by the accomplishment of an excellent sacrifice
+- अस्पृतः्रतिहतवाद (*aspṛtaḥratihatavāda*)—having unobstructed power **NOTE**
+- रजांसि (*rajāṃsi*)—all the worlds
+- तिरः (*tiraḥ*)—making them stay behind
+- दिवं (*divaṃ*)—to heaven
+- व्यासरत् (*vyāsarat*)—goes and reaches
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which flows in the form of a stream, having accomplished an excellent sacrifice and having unobstructed power, makes all the worlds stay behind and goes to heaven and reaches it.
+
+### Printed p. 602
+
+##### English translation
+As it drops, completing the sacrifice, it passes across the worlds inviolable to heaven.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष प्र॒त्नेन॒ जन्म॑ना दे॒वो दे॒वेभ्यः॑ सु॒तः ।  
+> हरिः॑ प॒वित्रे॑ अर्षति ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । प्रत्नेन । जन्मना । देवः । देवेभ्यः । सुतः ।  
+> हरिः । पवित्रे । अर्षति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिः हरितवर्णः देवः द्योतमानः एषः सोमः प्रत्नेन पुराणेन जन्मना जननेन देवेभ्यः देवार्थं सुतः अभिषुतः सन् पवित्रे स्थातुम् अर्षति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma (एषः सोमः (*eṣaḥ somaḥ*)), tawny-coloured (हरिः हरितवर्णः (*hariḥ haritavarṇaḥ*)) and shining (देवः द्योतमानः (*devaḥ dyotamānaḥ*)), by its ancient (प्रत्नेन पुराणेन (*pratnena purāṇena*)) birth (जन्मना जननेन (*janmanā jananena*)), pressed for the gods (देवेभ्यः देवार्थं सुतः अभिषुतः (*devebhyaḥ devārthaṃ sutaḥ abhiṣutaḥ*)), goes (अर्षति गच्छति (*arṣati gacchati*)) to settle in the strainer (पवित्रे स्थातुम् (*pavitre sthātum*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिः (*hariḥ*)—green-coloured
+- देवः (*devaḥ*)—and shining
+- एषः (*eṣaḥ*)—this Soma
+- प्रत्नेन (*pratnena*)—by its ancient
+- जन्मना (*janmanā*)—birth
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- सुतः (*sutaḥ*)—pressed
+- पवित्रे (*pavitre*)—to join the purifying ten-fold strainer
+- अर्षति (*arṣati*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which is green-coloured and shining, goes to join the purifying ten-fold strainer, pressed for the gods by its ancient birth.
+
+##### English translation
+Divine and expressed for the gods by an ancient birth, the golden-hued (Soma) flows into the straining-cloth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष उ॒ स्य पु॑रुव्र॒तो ज॑ज्ञा॒नो ज॒नय॒न्निषः॑ ।  
+> धार॑या पवते सु॒तः ॥ १० ॥
+
+### Printed p. 603
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । ऊं इति । स्यः । पुरुऽव्रतः । जज्ञानः । जनयन् । इषः ।  
+> धारया । पवते । सुतः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्यः एष उ सोम एव पुरुव्रतः बहुकर्मा जज्ञानः जायमान एव इषः अन्नानि जनयन् उत्पादयन् सुतः अभिषुतः सन् धारया पवते क्षरति ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+That very Soma (स्यः एष उ सोम एव (*syaḥ eṣa u soma eva*)), of many works (पुरुव्रतः बहुकर्मा (*puruvrataḥ bahukarmā*)), being born (जज्ञानः जायमान एव (*jajñānaḥ jāyamāna eva*)), producing (जनयन् उत्पादयन् (*janayan utpādayan*)) foods (इषः अन्नानि (*iṣaḥ annāni*)), and being pressed (सुतः अभिषुतः सन् (*sutaḥ abhiṣutaḥ san*)), flows (पवते क्षरति (*pavate kṣarati*)) in a stream (धारया (*dhārayā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—the well-known
+- एष उ (*eṣa u*)—this very Soma
+- पुरुव्रतः (*puruvrataḥ*)—having many works
+- जज्ञानः (*jajñānaḥ*)—born for the sacrifice
+- इषः (*iṣaḥ*)—foods
+- जनयन् (*janayan*)—producing
+- सुतः (*sutaḥ*)—pressed
+- धारया (*dhārayā*)—in the form of a stream
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Soma, having many works and born for the sacrifice, producing foods, pressed, flows in the form of a stream.
+
+##### English translation
+Produced at our rite and producing abundant food, the Soma, efficacious in sacrifices, flows effused in a stream.
+
+The fourth sūkta.
+
+## Sūkta 4 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘सना च' इति दशर्चं चतुर्थं सूक्तमांगिरसकुलस्य हिरण्यस्तूपस्थार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रांतं च- सन हिरण्यस्तूपः ' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सना च (*sanā ca*), of ten Ṛks, is the fourth sūkta. Its seer is Hiraṇyastūpa of the family of Aṅgiras (सूक्तमांगिरसकुलस्य (*sūktamāṃgirasakulasya*)); the metre is Gāyatrī; the deity is Pavamāna Soma. So the Anukramaṇikā says: सन हिरण्यस्तूपः (*sana hiraṇyastūpaḥ*). The ritual use has been stated.
+
+##### Anuvāda
+
+This sūkta beginning सना च (*sanā ca*) is the fourth sūkta in the first anuvāka. There are ten Ṛks in it. The seer of this sūkta is the one named Hiraṇyastūpa of the Āṅgirasa gotra; Pavamāna Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: सन हिरण्यस्तूपः (*sana hiraṇyastūpaḥ*). The ritual use has been stated before.
+
+### Printed p. 604
+
+##### Particulars
+
+Sūkta 4.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 4.
+
+Aṣṭaka 6. Adhyāya 7. Vargas 22, 23.
+
+Number of Ṛks in the sūkta: 10.
+
+Seer: Hiraṇyastūpa.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॑ च सोम॒ जेषि॑ च॒ पव॑मान॒ महि॒ श्रवः॑ ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सन । च । सोम । जेषि । च । पवमान । महि । श्रवः ।  
+> अथ । नः । वस्यसः । कृधि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महि श्रवः महदन्न पवमान सोम सन । अस्मद्यागे यजनीयान् देवान् भज । जेषि च । यागविध्वंसकारिणो राक्षसांश्च जय । अथ देवान् प्राप्य राक्षसांश्च जित्वानंतरं नः अस्मान वस्यसः श्रेयसः कृधि कुरु। श्रेयोऽस्मभ्यं देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)), of great food (महि श्रवः (*mahi śravaḥ*), that is, महदन्न (*mahadanna*)), flowing (पवमान (*pavamāna*)): serve (सन (*sana*), that is, भज (*bhaja*)) the gods worthy of worship (यजनीयान् देवान् (*yajanīyān devān*)) in our sacrifice (अस्मद्यागे (*asmadyāge*)), and conquer (जेषि च (*jeṣi ca*), that is, जय (*jaya*)) the rākṣasas (राक्षसांश्च (*rākṣasāṃśca*)) who destroy the sacrifice (यागविध्वंसकारिणो (*yāgavidhvaṃsakāriṇo*)). Then (अथ (*atha*)), having reached the gods and conquered the rākṣasas, afterwards make us (नः अस्मान (*naḥ asmāna*)) better off (वस्यसः श्रेयसः (*vasyasaḥ śreyasaḥ*)) (कृधि कुरु (*kṛdhi kuru*)): the meaning is, give us welfare (श्रेयोऽस्मभ्यं देहीत्यर्थः (*śreyo 'smabhyaṃ dehītyarthaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महि (*mahi*)—you who are of great nature
+- श्रवः (*śravaḥ*)—and possessed of food
+- पवमान (*pavamāna*)—you who are of the form of a pure stream
+- सोम्यॆ (*somyè*)—O Soma **NOTE**
+- सन च (*sana ca*)—worship the gods in our sacrifice
+- जेषि च (*jeṣi ca*)—conquer the enemies
+- अथ (*atha*)—afterwards
+- सः (*saḥ*)—us **NOTE**
+- वस्यसः (*vasyasaḥ*)—as possessed of well-being
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are of great nature, possessed of food and of the form of a pure stream, worship the gods in our sacrifice. Conquer the enemies. Afterwards make us possessed of well-being and grant happiness. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 598. Mandala 9 Sukta 2 Rks 9-10 and Sukta 3 Rks 1-5 (Saṃhitā of Rk 5)
+**Progress note:** Done through printed p. 604. Mandala 9 sukta 3 Rks 5-10, sukta 4 Rk 1 (pp. 599-604)
