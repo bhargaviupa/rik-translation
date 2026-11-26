@@ -31881,6 +31881,266 @@ When effused the Soma juice flows to the woollen (filter) as (a warrior) in a ch
 > परि॒ ष्य सु॑वा॒नो अ॑क्षा॒ इंदु॒रव्ये॒ मद॑च्युतः ।  
 > धारा॒ य ऊ॒र्ध्वो अ॑ध्व॒रे भ्रा॒जा नैति॑ गव्य॒युः ॥ ३ ॥
 
+### Printed p. 868
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । स्यः । सुवानः । अक्षारिति । इंदुः । अव्ये । मदऽच्युतः ।  
+> धारा । यः । ऊर्ध्वः । अध्वरे । भ्राजा । न । एति । गव्यऽयुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानः सूयमानः अस्यः स्यः सः इंदुः सोमः मदच्युतः मदार्थं देवैः प्रेरितः सन् अव्ये अविभवे पवित्रे परि अक्षाः परितः क्षरति । अध्वरे ऊर्ध्वः समुच्छ्रितः सर्वेषां मुख्यः यः सोमः गव्ययुः गोकामः यद्वा क्षीरादिकं कामयमानः सन् धारा धारया सह एति गच्छति । भ्राजा न भ्राजमानया दीप्त्या यथांतरिक्षे गच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Soma, being pressed, that same Indu, impelled by the gods for the sake of exhilaration, flows all round in the filter made of sheep's wool. The Soma who is exalted in the sacrifice, the chief of all, desiring cows, or else desiring milk and the like, goes along with the stream, as one moves through the atmosphere with shining radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भ्राजा न (*bhrājā na*)—as one moves in the atmosphere with shining radiance
+- यः (*yaḥ*)—which Soma
+- अध्वरे (*adhvare*)—in the sacrifice
+- ऊर्ध्वः (*ūrdhvaḥ*)—chief of all
+- गव्ययुः (*gavyayuḥ*)—desiring milk and the like
+- धारा (*dhārā*)—in the form of a stream
+- एति (*eti*)—flows
+- सुवानः (*suvānaḥ*)—being pressed
+- स्यः इंदुः (*syaḥ iṃduḥ*)—that same Soma
+- मदच्युतः (*madacyutaḥ*)—impelled for the sake of delight
+- अव्ये (*avye*)—in the filter of ten fringes
+- पर्येक्षाः (*paryekṣāḥ*)—flows all round
+
+##### भावार्थ (Bhāvārtha)
+
+As one moves in the atmosphere with shining radiance, the Soma who in the sacrifice, chief of all and desiring milk and the like, flows in the form of a stream, that same Soma being pressed, impelled by the gods for the sake of delight, flows all round in the filter of ten fringes.
+
+##### English translation
+The Soma juice being effused flows through the fleece diffusing exhilaration ; who, being exalted goes to the sacrifice in a stream desiring the milk and curds as (he goes to the firmament) with radiance.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि त्वं दे॑व॒ शश्व॑ते॒ वसु॒ मर्ता॑य दा॒शुषे॑ ।  
+> इंदो॑ सह॒स्रिणं॑ र॒यिं श॒तात्मा॑नं विवाससि ॥ ४ ॥
+
+### Printed p. 869
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । त्वम् । देव । शश्वते । वसु । मर्ताय । दाशुषे ।  
+> इंदो इति । सहस्रिणम् । रयिम् । शतऽआत्मानम् । विवाससि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव सोम सः त्वं शश्वते पुत्रादिमत्त्वेन बहवे मर्त्याय मनुष्याय दाशुषे हविर्दत्तवते यजमानाय वसु धनं मह्यं च विवाससि प्रेरयसि । एकवाक्यतापक्षे हि तिङंतस्य हियोगादनिघातः स्यात् ॥
+
+##### Gist of the bhāṣya
+
+O divine Soma, you send wealth to the many (one possessed of sons and the like), to the mortal, the sacrificer who has given the oblation, and to me also.**Pratipadārtha**
+- देव (*deva*)—O Soma, the shining**NOTE** and exalted
+- स हि त्वं (*sa hi tvaṃ*)—you, the renowned**NOTE**
+- दाशुषे (*dāśuṣe*)—who offers the oblation
+- शश्वते मर्त्याय (*śaśvate martyāya*)—to many men
+- वसु (*vasu*)—wealth
+- विवाससि (*vivāsasi*)—you give
+- इंदो (*iṃdo*)—O exalted Soma (to such a sacrificer)
+- सहस्रिणं (*sahasriṇaṃ*)—in thousands
+- शतात्मानं (*śatātmānaṃ*)—in hundreds of forms**NOTE**
+- रयिं (*rayiṃ*)—you give wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O shining**NOTE** and exalted Soma, you, the renowned**NOTE**, give wealth to all men who offer the oblation. To such sacrificers you give wealth in thousands and in hundreds of forms**NOTE**.
+
+##### English translation
+For you, divine Indu, grant riches to every man who offers libations, thousand-fold and hundred-fold treasure.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते॑ अ॒स्य वृ॑त्रह॒न्वसो॒ वस्वः॑ पुरु॒स्पृहः॑ ।  
+> नि नेदि॑ष्ठतमा इ॒षः स्याम॑ सु॒म्नस्या॑ध्रिगो ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयम् । ते । अस्य । वृत्रऽहन् । वसो इति । वस्वः । पुरुऽस्पृहः ।  
+> नि । नेदिष्ठऽतमाः । इषः । स्याम । सुम्नस्य । अध्रिगो इत्यध्रिऽगो ॥ ५ ॥
+
+### Printed p. 870
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् शत्रूणां हंतः सोम अस्य एतादृशस्य ते तव स्वभूताः वयं स्मः । ततो हे वसो वासयित: पुरुस्पृहः बहुभिः स्पृहणीयस्य वस्वः वसुनः धनस्य त्वया दीयमानस्य वयं नि नितरां नेदिष्ठतमाः अत्यंतमंतिकतमाः स्याम । तथा इषः अन्नस्य किंच हे अध्रिगो अधृतगमन सोम सुम्नस्य सुखस्य वयमंतिकतमाः स्याम भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Soma, slayer of Vṛtra, that is, of enemies, we are your own. Therefore, O Vasu, giver of dwelling, may we be exceedingly near the wealth, coveted by many, that is given by you; and likewise near food. Further, O irresistible Soma, may we be nearest to happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Soma, destroyer of enemies
+- वयं (*vayaṃ*)—we
+- अस्य ते (*asya te*)—belonging to you, the renowned
+- वसो (*vaso*)—O Soma, giver of dwelling
+- पुरुस्पृहः (*puruspṛhaḥ*)—desired by many
+- वस्वः (*vasvaḥ*)—to the wealth
+- नि (*ni*)—exceedingly
+- नेदिष्ठतमाः (*nediṣṭhatamāḥ*)—may we be very near
+- अध्रिगो (*adhrigo*)—O Soma, whose going is unobstructed
+- इषः (*iṣaḥ*)—to food
+- सुम्नस्य (*sumnasya*)—to happiness
+- स्याम (*syāma*)—may we become worthy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, destroyer of enemies, we belong to you, the renowned. O Soma, giver of dwelling, may we be near the wealth desired by many. O Soma, of unobstructed going, may we become worthy of food and of happiness.
+
+##### English translation
+Slayer of enemies, may we be your (people); Vasu, (may we be) extremely near your much-coveted wealth ; irresistible (Soma), may we be near happiness.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्विर्यं पंच॒ स्वय॑शसं॒ स्वसा॑रो॒ अद्रि॑संहतम् ।  
+> प्रि॒यमिंद्र॑स्य॒ काम्यं॑ प्रस्ना॒पयं॑त्यू॒र्मिण॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विः । यम् । पंच । स्वऽयशसम् । स्वसारः । अद्रिऽसंहतम् ।  
+> प्रियम् । इंद्रस्य । काम्यम् । प्रऽस्नापयंति । ऊर्मिणम् ॥ ६ ॥
+
+### Printed p. 871
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विः पंच दशसंख्याकाः स्वसारः कर्मकरणार्थमितस्ततो गच्छंत्योऽंगुलयः स्वयशसं स्वभूतयशस्कम् अद्रिसंहतं ग्रावभिरभिषुतम् इंद्रस्य प्रियं काम्यं सर्वैः काम्यमानम् ऊर्मिण धाराभिस्तद्वंतं यं सोमं प्रस्नापयंति वसतीवरीभिः प्रकर्षेण सेचयंति यजमानाः तं पुनंतीत्युत्तरत्र संबंधः ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+The twice five, that is ten, sisters, the fingers moving hither and thither for the performance of the rite, bathe forth with the vasatīvarī waters the Soma who has fame of his own, who is pressed by the stones, dear to Indra, desired by all, and has streams. The sacrificers do this; the connection is with the next verse: they purify him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वयशसं (*svayaśasaṃ*)—having glory won by himself
+- अद्रिसंहतं (*adrisaṃhataṃ*)—pressed by the pressing stones
+- इंद्रस्य (*iṃdrasya*)—to Indra**NOTE**
+- प्रियं (*priyaṃ*)—dear
+- काम्यं (*kāmyaṃ*)—attractive
+- ऊर्मिणं (*ūrmiṇaṃ*)—and in the form of a stream
+- यं (*yaṃ*)—which Soma
+- द्विः पंच स्वसारः (*dviḥ paṃca svasāraḥ*)—the ten fingers
+- प्रस्नापयंति (*prasnāpayaṃti*)—join with the vasatīvarī waters (that the sacrificers purify)
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who has glory won by himself, who is pressed by the pressing stones, dear to Indra**NOTE**, attractive and in the form of a stream, whom the ten fingers join with the vasatīvarī waters, him the sacrificers purify.
+
+##### English translation
+Whom, celebrated, expressed by the stones, dear to Indra, beloved (by all) moving in streams, the twice five sister (fingers) bathe (in the sacred waters)—
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ त्यं ह॑र्य॒तं हरिं॑ ब॒भ्रुं पु॑नंति॒ वारे॑ण ।  
+> यो दे॒वान्विश्वाँ॒ इत्परि॒ मदे॑न स॒ह गच्छ॑ति ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । त्यम् । हर्यतम् । हरिम् । बभ्रुम् । पुनंति । वारेण ।  
+> यः । देवान् । विश्वान् । इत् । परि । मदेन । सह । गच्छति ॥ ७ ॥
+
+### Printed p. 872
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हर्यतं सर्वैः स्पृहणीयं हरिं हरितवर्णं बभ्रुं बभ्रुवर्णं च त्यं तं सोमं वारेण वालेन पवित्रेण परि पुनंति परिशोधयंति । यः सोमः विश्वान् सर्वानिंद्रादीन् देवान् इत् देवानेव मदेन मादकेन रसेन सह परि गच्छति ॥
+
+##### Gist of the bhāṣya
+
+That Soma, coveted by all, green-tinted and brown, they purify all round with the filter, the wool. The Soma who goes round all the gods, Indra and the rest, only the gods, together with the exhilarating juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- विश्वान् देवान् इत् (*viśvān devān it*)—all the gods
+- मदेन सह (*madena saha*)—with his intoxicating juice
+- परि गच्छति (*pari gacchati*)—goes to and approaches
+- हर्यतं (*haryataṃ*)—desired by all
+- हरिं (*hariṃ*)—green-coloured
+- बभ्रुं (*babhruṃ*)—golden-coloured
+- त्यं (*tyaṃ*)—that Soma
+- वारेण (*vāreṇa*)—with the woollen threads of the filter
+- परिपुनंति (*paripunaṃti*)—they purify
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who approaches all the gods with his intoxicating**NOTE** juice, that Soma, desired by all, green-coloured and golden-coloured, the priests purify with the ten-fold filter.
+
+##### English translation
+Him, coveted (by all), green-tinted, brown, they purify with the filter ; who goes to all the gods with (his) exhilaration.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य वो॒ ह्यव॑सा॒ पांतो॑ दक्ष॒साध॑नम् ।  
+> यः सू॒रिषु॒ श्रवो॑ बृ॒हद्द॒धे स्व१॒॑र्ण ह॑र्य॒तः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । वः । हि । अवसा । पांतः । दक्षऽसाधनम् ।  
+> यः । सूरिषु । श्रवः । बृहत् । दधे । स्वः । न । हर्यतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वः । छांदसो वसादेशः । हिरवधारणे । वो यूयम् अस्य सोमस्य अवसा रक्षणेन दक्षसाधनं बलस्य साधनं रसं पांतः पिबंतो भवथ । स्वर्ण आदित्य इव हर्यतः सर्वैः काम्यमानः यः अयं सोमः सूरिषु स्तोत्राणि प्रेरयत्सु स्तोतृषु बृहत् महत् प्रभूतं श्रवः अन्नं दधे विदधे । स्थापयतीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+You, by the protection of this Soma, become drinkers of the juice that is the means of strength; the word वः (*vaḥ*) stands for यूयम् (*yūyam*) "you" by Vedic substitution. He is desired by all like the sun, he who bestows abundant food, great and plentiful, among the sūris, that is, the praisers who send forth hymns; the sense is that he establishes it.
+### Printed p. 873
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वः न (*svaḥ na*)—like the sun
+- हर्यतः (*haryataḥ*)—desired by all
+- यः (*yaḥ*)—which Soma
+- सूरिषु (*sūriṣu*)—among the praisers
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—food
+- दधे (*dadhe*)—establishes
+- अस्य (*asya*)—of this Soma
+- अवसा (*avasā*)—with the protection
+- दक्षसाधनं (*dakṣasādhanaṃ*)—the juice that is the means of strength
+- वः (*vaḥ*)—you
+- पांतः (*pāṃtaḥ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+Like the sun, the object of the desire of all, the Soma who establishes abundant food among the praisers, with the protection of that Soma drink the juice that is the means of strength.
+
+##### English translation
+For you by his protection have drunk the strengthening (juice of that Soma), who, beloved (by all) like the sun, has bestowed abundant food upon his worshippers.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वां॑ य॒ज्ञेषु॑ मानवी॒ इंदु॑र्जनिष्ट रोदसी ।  
+> दे॒वो दे॑वी गिरि॒ष्ठा अस्रे॑धं॒तं तु॑वि॒ष्वणि॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वाम् । यज्ञेषु । मानवी इति । इंदुः । जनिष्ट । रोदसी इति ।  
+> देवः । देवी इति । गिरिऽस्थाः । अस्रेधन् । तम् । तुविऽस्वनि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मानवी मानव्यौ मनोः स्वभूते हे देवी द्योतमाने हे रोदसी द्यावापृथिव्यौ वां युवयोः यज्ञेषु सः इंदुः सोमः जनिष्ट अजनि अंतरिक्षे देवः स्वतेजसा सर्वं प्रकाशयन् पृथिव्यां गिरिष्ठाः ग्रावसु तिष्ठन् । तं जातं सोमं तुविष्वणि बहुस्वने उपरे यज्ञे वा अस्रेधन् ऋत्विजो ग्रावभिरघ्नन् । अभ्यषुण्वन्निति यावत् ॥
+
+##### Gist of the bhāṣya
+
+O Mānavī, belonging to Manu, O shining divine Rodasī, heaven and earth: in your sacrifices that Indu, Soma, was born. In the atmosphere he is divine, illuminating all with his own radiance; on the earth he is girisṭhā, standing on the pressing stones. That Soma thus born, in the sacrifice with much sound, or in the upper sacrifice, the priests struck with the stones; the meaning is that they pressed him.
+
 ---
 
-**Progress note:** Done through printed p. 867. Vol 26 pp. 862-867
+**Progress note:** Done through printed p. 873. Mandala 9 sukta 98 Rk 3-9 (pp. 868-873)
