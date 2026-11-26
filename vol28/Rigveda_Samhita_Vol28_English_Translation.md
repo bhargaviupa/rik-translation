@@ -9975,6 +9975,277 @@ O Indra, which of the seers before us has reached the end, the farther limit, of
 - समस्य (*samasya*)—complete
 - महिमनः (*mahimanaḥ*)—
 
+### Printed p. 326
+Who among the Ṛṣis before us has reached the limit of your entire greatness? (The Kannada word-glosses at the head of this page continue the preceding verse.)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by that very greatness of yours you produced heaven and earth, both together, from your own body. For that reason there is no one whose greatness matches yours. Even in our company, among the foremost Ṛṣis, who is there that has fully understood your greatness?
+
+##### English translation
+Who among the Rishis before us have obtained the limit of your entire greatness. since from your own person you have generated at oace both mother and father (or earth and heaven) ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒त्वारि॑ ते असु॒र्या॑णि॒ नामादा॑भ्यानि महि॒षस्य॑ संति ।  
+> त्वमं॒ग तानि॒ विश्वा॑नि वित्से॒ येभिः॒ कर्मा॑णि मघवन्ज॒कर्थ॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चत्वारि । ते । असुर्याणि । नाम । अदाभ्यानि । महिषस्य । संति ।  
+> त्वं । अंग । तानि । विश्वानि । वित्से । येभिः । कर्माणि । मघवन् । चकर्थ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महिषस्य महतः पूज्यस्य ते तव चत्वार्यसुर्याण्यसुरविघातीन्यदाभ्यान्यनैरहिंस्यान्युत्तरसूक्त उपांत्यवर्जिते दूरे तन्नामेत्यादिषु प्रतिपादितानि यानि नाम नामकानि शरीराणि संति अंग सखे त्वं तानि विश्वानि सर्वाणि वित्से ।
+> अदाभ्यान्यहिंस्यानि वेत्सि । जानासि । येभिर्यॆनामभिः कर्माणि वृत्रवधादिरूपाणि
+> चकर्थ कुरुषे हे मघवन् तानि वेत्सीति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are mahiṣa, great and worthy of worship. You have four bodies, called "names", that destroy the Asuras and cannot be harmed by others. They are set forth in the later sūkta, with the exception of the penultimate verse, beginning दूरे तन्नाम (*dūre tannāma*). O friend, you know all of them, the unassailable ones. O Maghavan, you know the bodies by which you performed deeds such as the slaying of Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिषस्य (*mahiṣasya*)—of the great one
+- ते (*te*)—to you
+- असुर्याणि (*asuryāṇi*)—enemy-destroying
+- अदाभ्यानि (*adābhyāni*)—not subject to harm by others
+- चत्वारि नाम (*catvāri nāma*)—four bodies
+
+### Printed p. 327
+- संति (*saṃti*)—there are
+- अंग (*aṃga*)—O friend
+- मघवन् (*maghavan*)—O Indra
+- त्वं (*tvaṃ*)—you
+- येभिः (*yebhiḥ*)—by which bodies
+- कर्माणि (*karmāṇi*)—deeds such as the slaying of Vṛtra
+- चकर्थ (*cakartha*)—you performed
+- विश्वानि तानि (*viśvāni tāni*)—the natures of all those bodies
+- वित्से (*vitse*)—you know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, great one, you have four bodies, destroying enemies and not subject to harm by others. O friend Indra, you alone know the natures of all those bodies by which you performed deeds such as the slaying of Vṛtra.
+
+##### English translation
+Four are the Asura-slaying uninjurable forms of you the mighty one: you know them all where-with, Maghavat you have achieved your exploits.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं विश्वा॑ दधिषे॒ केव॑लानि॒ यान्या॒विया च॒ गुहा॒ वसू॑नि ।  
+> काम॒मिन्ने॑ मघव॒न्मा वि ता॑री॒स्वमा॑ज्ञा॒ता त्वमिं॑द्रासि  ॒
+> दाता ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । विश्वा । दधिषे । केवलानि । यानि । आविः । या । च । गुहा । वसूनि ।  
+> कामं । इत् । मे । मघवन् । मा । वि । तारीः । त्वं । आज्ञाता । त्वं । इंद्र ।  
+> असि । दाता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं विश्वा सर्वाणि केवलान्यन्येषामसाधारणानि वसूनि धनानि दधिषे।
+> धारयसि । विश्वानीत्युक्तं कथं विश्वत्वमित्यत आह । यान्याविराविर्भूतानि सर्वैः
+> प्रसिद्धानि वसूनि वासयोग्यानि धनानि संति या च गुहा गुहायां निगूढे प्रदेशे
+> वर्तमानानि वसूनि संति तानि विश्वानि दधिष इति । यस्मादेवं तस्मान्ने मम कामं
+> कांक्षितं हे मघवन् धनवन्निंद्र मा वि तारीः । मा हिंसीः । इदिति पादपूरणः ।
+
+##### Gist of the bhāṣya
+
+O Indra, you hold all the treasures that are exclusively yours, unshared by others. Asked how they can be "all", he says: whatever treasures, fit to dwell in, are manifest and known to all, and whatever lie in a hidden place, you hold all of them. Since this is so, O wealthy Maghavan, do not thwart my desire; इत् (*it*) is a metrical filler.
+
+### Printed p. 328
+
+> वर्धयेति शेषः । हे इंद्र त्वमाज्ञातासि प्रापयितास्यभिलषितं धनं । तथा हे इंद्र
+> त्वं दातासि ॥
+
+##### Gist of the bhāṣya
+
+The word "increase" is to be supplied. O Indra, you are the one who brings the desired wealth, and you are the giver.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- यानि (*yāni*)—which riches
+- आनिः (*āniḥ*)—are manifest **NOTE**
+- या च (*yā ca*)—and which riches
+- गुहा (*guhā*)—are hidden
+- केवलानि (*kevalāni*)—exclusive
+- विश्वा वसूनि (*viśvā vasūni*)—all riches
+- दधिषे (*dadhiṣe*)—you hold (therefore)
+- मे (*me*)—my
+- कामं (*kāmaṃ*)—desire for wealth
+- मा वि तारीः (*mā vi tārīḥ*)—do not destroy
+- त्वं (*tvaṃ*)—you
+- आज्ञाता (*ājñātā*)—know my desire for wealth
+- त्वं (*tvaṃ*)—you yourself
+- दाता असि (*dātā asi*)—are also the giver
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, you possess all such exclusive riches, whether manifest or hidden. Therefore do not destroy my desire for wealth. You know my desire for wealth, and you are also the giver.
+
+##### English translation
+You have in your keeping all treasures, which are yours exclusively‘ whether they be manifest or hidden : thwart not, therefore, Maghavat, my desire (for wealth) ; for you are cognizant (of my desire), you are the donor.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अद॑धा॒ज्योति॑षि॒ ज्योति॑रं॒तर्यो असृ॑ज॒न्मधु॑ना॒ सं  ॑
+> मधूनि ।  
+> अथ॑ प्रि॒यं शू॒षमिंद्रा॑य॒ मन्म॑ ब्रह्म॒कृतो॑ बृ॒हदु॑क्कादवाचि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अदधात् । ज्योतिषि । ज्योतिः । अंतः । यः । असृजत् । मधुना । सं ।  
+> मधूनि ।  
+> अध । प्रियं । शूषं । इंद्राय । मन्म । ब्रह्मकृतः । बृहत् उक्थात् । अवाचि ॥६॥
+
+### Printed p. 329
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो ज्योतिषि द्योतमान आदित्यादिके तेजस्यंतर्ज्योतिस्तेजोऽदधात् धारितवान् । यदादित्याग्न्यादिषु तेजोऽस्ति तदिंद्रकृतमित्यर्थः । यश्च
+> मधुना मधुरेण रसेन मधूनि सोमादिमधुद्रव्याणि समसृजत् समयोजयत्।
+> यद्वा । मधुना । अत्र मधुशब्देन सर्वैः सेव्यमान आदित्य उच्यते । तेन सह मधून्युदकानि समसृजत् । अध संप्रति तस्मा इंद्राय प्रियं प्रीतिजनकं शूषं बलं
+> शत्रोणां शोषकत्वाद्बलकरं मन्म मननीयं स्तोत्रं ब्रह्मकृतो मंत्रकृतो
+> बृहदुक्थात् प्रभूतशस्त्रयुक्तादेतन्नामकादृषेर्मत्तोऽवाचि । उक्तमभूत् ॥
+
+##### Gist of the bhāṣya
+
+The Indra who placed light, brilliance, within the luminous bodies such as the sun; that is, whatever brilliance is in the sun, fire and the rest was made by Indra. He also joined sweet things, Soma and other sweet substances, with sweet juice. Or else: here by मधुना (*madhunā*) is meant the sun, served by all, and with it he joined the waters. Now, for that Indra, a pleasing praise, strength-giving because it dries up enemies and worthy of reflection, has been uttered by me, the mantra-maker, from the Ṛṣi of this name, Bṛhaduktha, endowed with abundant praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- ज्योतिषि अंतः (*jyotiṣi aṃtaḥ*)—within the luminous orbs such as the sun
+- ज्योतिः (*jyotiḥ*)—brilliance
+- अदधात् (*adadhāt*)—placed
+- यः (*yaḥ*)—who
+- मधुना (*madhunā*)—with sweet juice
+- मधूनि (*madhūni*)—sweet substances such as Soma
+- समसृजत् (*samasṛjat*)—joined
+- इंद्राय (*iṃdrāya*)—to that Indra
+- अध (*adha*)—now
+- प्रियं (*priyaṃ*)—beneficial
+- शूषं (*śūṣaṃ*)—strength-giving
+- मन्म (*manma*)—praise
+- ब्रह्मकृतः (*brahmakṛtaḥ*)—of the praise-maker
+- बृहदुक्थान् (*bṛhadukthān*)—by the Ṛṣi Bṛhaduktha (by me)
+- अवाचि (*avāci*)—has been recited
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who placed brilliance in the luminous orbs such as the sun, who joined Soma and other sweet substances with sweet juice: to that Indra a beneficial, strength-giving praise has now been recited by the praise-maker Bṛhaduktha (by me).
+
+##### English translation
+To that Indra, who has deposited the light in luminous bodies, who has flavoured sweet things with sweetness, this acceptable invigorating praise has been recited by Brihaduktha, the author of the prayer
+
+## Sūkta 55 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूरे तदित्यष्टर्चं त्रयोदशं सूक्तं । ऋष्या द्याः पूर्ववत् । दूर इत्यनुक्रांतं । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, दूरे तत् (*dūre tat*), has eight Ṛks. The seer and the rest are as before. The Anukramaṇī says दूर (*dūra*). The sūkta's use has been stated.
+
+##### Anuvāda
+
+This sūkta दूरे तत् (*dūre tat*) is the thirteenth sūkta in the fourth anuvāka. It has eight Ṛks. Its seer, deity and metre are the same as in the preceding sūkta. In the Anukramaṇī it is stated beginning with दूरे (*dūre*). The use of the sūkta has been stated earlier.
+
+### Printed p. 330
+Sūkta 55. Maṇḍala 10; Anuvāka 4; Sūkta 55. Aṣṭaka 8; Adhyāya 1; Vargas 16, 17. Number of Ṛks in the sūkta: 8. Seer: Bṛhaduktha Vāmadevya. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒रे तन्नाम॒ गुह्यं॑ परा॒चैर्यत्वा॑ भी॒ते अह्व॑येतां  ॒
+> वयोध्यॆ ।  
+> उद॑स्तभ्नाः पृथि॒वीं द्याम॒भीके॒ भ्रातुः॑ पु॒त्रान्म॑घवन्तिषा॒णः ॥ ११
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूरे । तत् । नाम । गुह्यं । पराचैः । यत् । त्वा । भीते इति । अह्वयेतां ।  
+> वयोध्यॆ ।  
+> उत् । अस्तभ्नाः । पृथिवीं । द्यां । अभीके । भ्रातुः । पुत्रान् । मघवन् । तित्विषाणः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया चत्वारि ते असुर्याणि नामेत्युक्तस्याद्यं नाम स्तूयते हे इंद्र
+> ते तव तद्वक्ष्यमाणं नाम सर्वेषां नामकं शरीरं पराचैः पराङ्मुखैर्मनुष्यैः ।
+> मनुष्याणामित्यर्थः । गुह्यं गोपनीयमप्रकाशितं सद्दूर इतो विप्रकृष्टे
+> दूरदेशे वर्तत इति शेषः । यद्यदा त्वा त्वां रोदसी द्यावापृथिव्यौ भीते सती
+> अह्वयेतां । अवेत्यब्रूतां । किमर्थं । वयोधा अन्नस्य निधानार्थं ! जगतोऽन्नस्य साधनायेत्यर्थः । तदानीं तेन शरीरेणाभीके । अंतिकनामैतत् । तव समीप
+> एव पृथिवीं द्यां चोदूर्ध्वं परस्परवियुक्तं यथा भवति तथास्तभ्नाः । स्तंभितवानसि । किं कुर्वन् । हे मघवन्निंद्र भ्रातुः पर्जन्यस्य पुत्रान् पुत्रस्थानीयानुदकसंस्कृत्यांस्तिष्णाणो दीपयन् ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk the first of the four "names" (bodies) spoken of in चत्वारि ते असुर्याणि नाम (*catvāri te asuryāṇi nāma*) is praised. O Indra, that body of yours, to be spoken of, which is the name for all, being hidden from men who turn away, lies far from here. When heaven and earth, frightened, called you to establish food, that is, to provide food for the world, then by that body you propped heaven and earth upward in your very neighbourhood, so that they are separated from each other. O Maghavan, you did this making the sons of the brother, that is, of Parjanya, the waters that are as sons, blaze.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra
+- ते (*te*)—your
+- तत् (*tat*)—famous
+- नाम (*nāma*)—body
+- पराचैः (*parācaiḥ*)—more than men who turn away, unable to know it
+- गुह्यं (*guhyaṃ*)—being secret
+
+### Printed p. 331
+- दूरे (*dūre*)—is far, farther than from here
+- यत् (*yat*)—when
+- त्वा (*tvā*)—you
+- भीते (*bhīte*)—the frightened heaven and earth
+- वयोध्यॆ (*vayodhyè*)—for the establishment of food
+- अह्वयेतां (*ahvayetāṃ*)—called, then
+- अभीके (*abhīke*)—in your very neighbourhood
+- भ्रातुः (*bhrātuḥ*)—of Parjanya
+- पुत्रान् (*putrān*)—the masses of water as sons
+- तित्विषाणः (*titviṣāṇaḥ*)—making blaze
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- द्यां (*dyāṃ*)—the heavenly world
+- उत् (*ut*)—upward
+- अस्तभ्नाः (*astabhnāḥ*)—you established
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your famous body, more secret than men who turn away unable to know it, is far, farther than from here. When frightened heaven and earth called you for the establishment of food, then in your very neighbourhood, making blaze the masses of water that are the sons of Parjanya, you established earth and heaven upward.
+
+##### English translation
+Your form held secret by (men)with averted faces, is far from hence; when (heaven and earth) alarmed, called upon you for thc sustenance (of the world), then you fixed in their proximity the heaven and earth, illuming, Maghavat, the sons of (your) brother.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हत्तन्नाम॒ गुह्यं॑ पुरु॒स्पृग्येन॑ भू॒तं ज॒नयो॒ येन॒ भव्यं॑।  
+> प्र॒त्नं जा॒तं ज्योति॒र्यद॑स्य प्रि॒यं प्रि॒याः सम॑विशंत॒ पंच॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महत् । तत् । नाम । गुह्यं । पुरुस्पृक् । येन । भूतं । जनयः । येन । भव्यं।  
+> प्रत्नं । जातं । ज्योतिः । यत् । अस्य । प्रियं । प्रियाः । सं । अविशंत । पंच ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव तद्गुह्यं गोपनीयमन्यैरविज्ञातं पुरुस्पृग्बहुभिर्वृष्टर्थिभिः स्पृहणीयमाकाशात्मकं नाम शरीरं महदत्यंतं प्रवृद्धं येन नाम्ना
+> भूतं भव्यं च पूर्वं जनयः उत्पादितवानसि । भूतभवोभयान्नयाय
+> येनेत्यस्यावृत्तिः स्यात् । आकातात्मकादि परमेश्वरस्वरूपाद्भूतभव्यात्मकं
+
+##### Gist of the bhāṣya
+
+O Indra, that body of yours is hidden, unknown to others, desirable to many who seek rain, of the nature of space, great, exceedingly vast; by that body you formerly produced what was and what will be. For the sake of the connection between past and future, येन (*yena*) is repeated. From the form of the Supreme Lord, of the nature of space and the rest, the past and future.
+
 ---
 
-**Progress note:** Done through printed p. 325. pp. 320-325 (batch API)
+**Progress note:** Done through printed p. 331. pp. 326-331 (batch API)
