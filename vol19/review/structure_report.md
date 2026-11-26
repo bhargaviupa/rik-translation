@@ -1,24 +1,25 @@
 # Vol 19: structure report (rv structure)
 
-Units: 803 (bhashya 146, bhavartha 122, english 125, front 1, pada 125, pratipada 125, samhita 125, vishesha 34)
+Units: 3112 (bhashya 532, bhavartha 471, english 476, pada 476, pratipada 476, preface 1, samhita 475, vishesha 205)
 
 ## Read from the Kannada file
-- Sanskrit blocks: 422
-- bracketed lines of the Kannada file (not original text): 129
-- label bhashya: 146
-- label bhavartha: 122
-- label english: 125
-- label pada: 125
-- label pratipada: 125
-- label samhita: 125
-- label vishesha: 34
-- pages: 176
-- running heads: 174
+- Sanskrit blocks: 1580
+- bracketed lines of the Kannada file (not original text): 539
+- label bhashya: 532
+- label bhavartha: 471
+- label english: 476
+- label pada: 476
+- label pratipada: 476
+- label samhita: 475
+- label vishesha: 205
+- pages: 850
+- running heads: 848
+- stray lines removed (record: review/stray_lines_removed.tsv): 8
 - unit ids used twice: 7
 
 ## Against the reference text (verses)
 - sūktas in the volume: 0; with every reference verse present once, in order: 0
-- Saṃhitā units: 125
-- no reference verse with this number: 125
+- Saṃhitā units: 475
+- no reference verse with this number: 475
 
 Every differing place is a row of `review/source_faults.tsv` (column "decision" for the editor).

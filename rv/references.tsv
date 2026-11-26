@@ -12,7 +12,7 @@ Ai. Brā.	ಐ. ಬ್ರಾ.	Aitareya Brāhmaṇa	legend
 Chā. U.	ಛಾ. ಉ.	Chāndogya Upaniṣad	legend	
 Jai. Sū.	ಜೈ. ಸೂ.	Jaiminīya Pūrva-mīmāṃsā-sūtra	legend	
 Jai. Nyā. Vi.	ಜೈ. ನ್ಯಾ. ವಿ.	Jaiminīya Nyāyamālā-vistara	legend	
-Tā. Brā.	ತಾ. ಬ್ರಾ.	Tāṇḍya-mahā-brāhmaṇa	legend	
+Tā. Brā.	ತಾ. ಬ್ರಾ.	→ Pa. Brā.	mistake	user, Nov 26 2026: Pañcaviṃśa = Tāṇḍya-mahā-brāhmaṇa unified to Pa. Brā. in all volumes
 Tai. Ā.	ತೈ. ಆ.	Taittirīya Āraṇyaka	legend	
 Tai. Brā.	ತೈ. ಬ್ರಾ.	Taittirīya Brāhmaṇa	legend	
 Tai. Saṃ.	ತೈ. ಸಂ.	Taittirīya Saṃhitā	legend	
@@ -39,7 +39,7 @@ Mu. U.	ಮು. ಉ.	Muṇḍaka Upaniṣad	extra	not in the edition's legend; ex
 Mā. U.	ಮಾ. ಉ.	Māṇḍūkya Upaniṣad	extra	not in the edition's legend; expansion to be confirmed by the editor
 Śve. U.	ಶ್ವೇ. ಉ.	Śvetāśvatara Upaniṣad	extra	not in the edition's legend; expansion to be confirmed by the editor
 Pra. U.	ಪ್ರ. ಉ.	Praśna Upaniṣad	extra	not in the edition's legend; expansion to be confirmed by the editor
-Īśa.	ಈಶ.	Īśa Upaniṣad	extra	not in the edition's legend; expansion to be confirmed by the editor
+Īśa.	ಈಶ.	→ Īśa U.	mistake	user, Nov 26 2026: unified to Īśa U. in all volumes
 Bha. Gī.	ಭ. ಗೀ.	Bhagavad-gītā	extra	not in the edition's legend; expansion to be confirmed by the editor
 Go. Brā.	ಗೋ. ಬ್ರಾ.	Gopatha Brāhmaṇa	extra	not in the edition's legend; expansion to be confirmed by the editor
 Hi. Gṛ. Sū.	ಹಿ. ಗೃ. ಸೂ.	Hiraṇyakeśi Gṛhya-sūtra	extra	not in the edition's legend; expansion to be confirmed by the editor
@@ -47,7 +47,7 @@ Hi. Gṛ. Sū.	ಹಿ. ಗೃ. ಸೂ.	Hiraṇyakeśi Gṛhya-sūtra	extra	not i
 Kau. Sū.	ಕೌ. ಸೂ.	Kauśika-sūtra	extra	not in the edition's legend; expansion to be confirmed by the editor
 Sāṃ. Śrau. Sū.	ಸಾಂ. ಶ್ರೌ. ಸೂ.	Śāṅkhāyana Śrauta-sūtra	extra	not in the edition's legend; expansion to be confirmed by the editor
 Uṇ. Sū.	ಉಣ್. ಸೂ.	Uṇādi-sūtra (the legend has U. Sū.)	extra	not in the edition's legend; expansion to be confirmed by the editor
-A. Ve.	ಅ. ವೇ.	Atharvaveda (the legend has Ath. Saṃ.)	extra	not in the edition's legend; expansion to be confirmed by the editor
+A. Ve.	ಅ. ವೇ.	→ Ath. Saṃ.	mistake	user, Nov 26 2026: unified to the legend form Ath. Saṃ. in all volumes
 Si.	ಸಿ.	→ Ni.	mistake	decided by the user, Nov 14 2026 (machine misreading)
 Mi. Saṃ.	ಮಿ. ಸಂ.	→ Ṛ. Saṃ.	mistake	decided by the user, Nov 14 2026 (machine misreading)
 Ma. Saṃ.	ಮ. ಸಂ.	→ Ṛ. Saṃ.	mistake	decided by the user, Nov 14 2026 (machine misreading)
@@ -73,7 +73,7 @@ Tai. Saṃ. Bhā.	ತೈ. ಸಂ. ಭಾ.	Sāyaṇa's bhāṣya on the Taittirī
 Kau. U.	ಕೌ. ಉ.	Kauṣītaki Upaniṣad	extra	added by the user's decision, Nov 17 2026 (Vol 17)
 Kau. Brā.	ಕೌ. ಬ್ರಾ.	Kauṣītaki Brāhmaṇa	extra	added by the user's decision, Nov 17 2026 (Vol 17)
 Ka. U.	ಕ. ಉ.	Kaṭha Upaniṣad	extra	added by the user's decision, Nov 17 2026 (Vol 17)
-Pa. Brā.	ಪ. ಬ್ರಾ.	Pañcaviṃśa Brāhmaṇa	extra	added by the user's decision, Nov 17 2026 (Vol 17)
+Pa. Brā.	ಪ. ಬ್ರಾ.	Pañcaviṃśa Brāhmaṇa (Tāṇḍya-mahā-brāhmaṇa)	extra	added by the user's decision, Nov 17 2026 (Vol 17)
 Mā. Gṛ. Sū.	ಮಾ. ಗೃ. ಸೂ.	Mānava Gṛhyasūtra	extra	added by the user's decision, Nov 17 2026 (Vol 17)
 Ya Saṃ.	ಯ. ಸಂ.	Yajurveda-saṃhitā	extra	added by the user's decision, Nov 17 2026 (Vol 17)
 Ṛ. Saṃ. Bhā.	ಋ. ಸಂ. ಭಾ.	Ṛgveda-saṃhitā bhāṣya	extra	added by the user's decision, Nov 17 2026 (Vol 17)

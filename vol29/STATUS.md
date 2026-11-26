@@ -10,7 +10,7 @@ Supplied by the user (Nov 25 2026) as three machine-read markdown files, `rig_29
 Check: the supplied text has a `---` line after every printed page; from the marker on there are 1024 chunks = 1024 printed pages (`check_page_markers.py 29`). `html_pages.py`: 912 pages read, printed 1–1024. Page numbers whose running head the splitter did not read (first pages of a sūkta, heads with OCR slips, the heads of the unnumbered pages; 112 of 1024; chunk k = printed page k; not a fault, lesson 67 and Vol 24 lessons): 15, 19, 35, 71, 80, 95, 103, 120, 135, 140, 167, 181, 182, 196, 232, 242, 255, 260, 268, 269, 280, 311, 318, 319, 349, 360, 386, 390, 447, 455, 456, 464, 472, 475, 494, 500, 518, 533, 534, 556, 560, 576, 579, 580, 581, 582, 587, 588, 600, 601, 616, 617, 619, 630, 634, 642, 643, 644, 656, 662, 670, 673, 674, 680, 700, 713, 714, 720, 736, 737, 743, 756, 757, 759, 764, 768, 772, 773, 776, 784, 785, 800, 805, 811, 814, 822, 830, 834, 835, 845, 860, 864, 869, 870, 871, 893, 897, 906, 922, 932, 941, 946, 963, 964, 970, 986, 987, 1002, 1005, 1014, 1019, 1020. Front matter (lines 1–416; see `html/_layout.json`): title pages (two pictures), board of scholars, preface (ಪೀಠಿಕೆ, l. 104–133), contents (l. 135–371, in two sections by adhyāya), abbreviations (l. 376–414). No scans, no numeral file.
 
 ## Outputs
-`vol29/Rigveda_Samhita_Vol29_English_Translation.md`, `…_Kannada_Text.md` (empty; "Done through printed p. 0"). Cost log `vol29/parts/batch_costs.md`.
+`vol29/Rigveda_Samhita_Vol29_English_Translation.md`, `…_Kannada_Text.md` (both complete, 1024 page markers, Kannada Sūkta/Ṛk headings written), `review/` lists (notes.tsv, repair_log.md, contents_check.md, accent_report*.tsv, inline_mismatch.tsv, qa_sample.md, qa_sample_2.md). Cost log `vol29/parts/batch_costs.md`.
 
 ## How it was made
 By Sonnet agents, one per batch of three windows, no Batch API (`docs/prompts/VOL29_AGENT_PROMPT.md`, as Vol 24). Conventions in `volcfg.json` as Vol 24.
@@ -20,20 +20,22 @@ By Sonnet agents, one per batch of three windows, no Batch API (`docs/prompts/VO
 Dispatcher repairs (`review/repair_log.md`): displaced page p. 321 (user decision: bold `**Verse 35**`, `batch.py` made not to add a Ṛk heading under it), a stray heading, a sentence that had lost words (p. 417), a Pratipadārtha entry split by a page break (pp. 520/521), the Ṛk 9 marker/heading order (p. 553). Shared-tool changes made in this job, to be brought to main: `tools/rv/batch.py` (no Ṛk heading under a `**Verse N**` line; `fix` adds a marked page to `pages.json`), `tools/rv/check_page_markers.py` (new).
 
 ## Open items
-1. (dispatcher, next) **Page markers**: `check_page_markers.py 29` lists missing markers for pp. 167, 311, 447 (no text in the supplied md), 987, 1019, 1020; heads that disagree with the marker (OCR slips of the head numbers) are listed there too. Repair by a logged repair, taking the `---` chunks of the supplied text as the reference (as Vol 24, `repair_log.md`).
-2. (user) **Source defects for the better copy**: printed p. 321 (displaced page; Sūkta 83 Ṛk 1 has no Pratipadārtha/Bhāvārtha/English), p. 588 (repeats p. 586), the Sūkta 78 Ṛk 3 Bhāvārtha and English (cut off in the print, p. 144–146), a Tamil stray line on many pages, garbled references and Saṃhitā/Pada/bhāṣya text in many places (all as NOTEs).
-3. (user) 930 NOTE questions in `review/notes.tsv`; 144 GLOSS markers (quotations without a Kannada meaning, to be filled from our own edition); the reference abbreviations missing from the BRIEF list (Upaniṣad, Śatapatha, Gītā …) cause many NOTEs: add them to the list before the second reading.
-4. (dispatcher, with the user's yes) The preface (ಪೀಠಿಕೆ, lines 104–133 of `html/rig_29.md`) is not translated; contents and abbreviations (lines 135–414) are for the front matter job. The finishing checklist (HANDBOOK §11: tools, accent report, `kn_headings.py`, QA by Opus, front matter) is not started.
-5. Judgement calls for the second reading: where the print gives no Ṛk number the agents headed the Ṛk by order with a NOTE (as in Vol 24); inline Sanskrit that could not be copied from kn.md was written in Latin letters or given in English in some windows (w1010, w1017 and others); the printed-English slips ("hrᱥband") were written as the word plainly reads with a NOTE.
+1. (user) **Source defects for the better copy**: printed p. 321 (displaced page; Sūkta 83 Ṛk 1 has no Pratipadārtha/Bhāvārtha/English), p. 588 (repeats p. 586), the Sūkta 78 Ṛk 3 Bhāvārtha and English (cut off in the print, pp. 144–146), a Tamil stray line on many pages, garbled references and Saṃhitā/Pada/bhāṣya text in many places (all as NOTEs).
+2. (user) 747 NOTE questions in `review/notes.tsv` (187 reference NOTEs settled: 39 by the list, 148 by the user's confirmation of the guesses; `review/notes_resolved.tsv`; open reference guesses: `review/reference_guesses.md`); 144 GLOSS markers (quotations without a Kannada meaning, to be filled from our own edition); the reference abbreviations missing from the BRIEF list (Upaniṣad, Śatapatha, Gītā …) cause many NOTEs: add them to the list before the second reading.
+3. (user) Front matter and PDFs need the front-matter scan; contents and abbreviations (supplied lines 135–414) are for that job. Accent report: 147 lines unmatched, not applied (`--api` not run).
+4. (tool) Cause of the broken `( (*…‖ (*)` brackets (12 lines, repaired) not found in `tools/rv/` (docs/LESSONS.md).
+5. Judgement calls for the second reading: where the print gives no Ṛk number the agents headed the Ṛk by order with a NOTE (as in Vol 24); inline Sanskrit that could not be copied from kn.md was written in Latin letters or given in English in some windows (w1010, w1017 and others); the printed-English slips ("hrᱥband") were written as the word plainly reads with a NOTE; two QA notes left to the editor (p. 188 misprint ಅಶಿಥಿಲ, p. 95 ಇರುಚಿ "rim of the wheel").
 
 ## Publication (print PDF)
 Not built.
 
 ## Metrics
-| windows | pages | hand-fixes | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample | agent tokens / cost |
-|---|---|---|---|---|---|---|---|---|
+| windows | pages | batches | agent tokens | hand repairs (logged) | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample |
+|---|---|---|---|---|---|---|---|---|---|
+| 152 window dirs | 1024 | 52 (agent per 3 windows) | 10,284,913 for the 50 batches with a figure (batches 24, 41: none; about 10k per page); preface agent 76k | see `review/repair_log.md` (markers, preface, QA edits, one reference) | not tallied | 0 | 0 | 147 | 2 rounds × 24 pages (Opus): 2 ERROR, 11 MINOR, all repaired |
 
 ## Lessons from this volume
+See `docs/LESSONS.md` (Vol 24 and Vol 29 sections).
 
 ## Pointers
 `docs/prompts/VOL29_AGENT_PROMPT.md`, `vol29/html/_layout.json`.
