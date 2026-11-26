@@ -36031,6 +36031,138 @@ Pure flows the beloved Soma, beautified by the praises of the sage Medhyatithi.
 > पव॑मान वि॒दा र॒यिम॒स्मभ्यं॑ सोम सु॒श्रिय॑म् ।  
 > इंदो॑ स॒हस्र॑वर्चसम् ॥ ४ ॥
 
+### Printed p. 876
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । विदाः । रयिम् । अस्मभ्यम् । सोम । सुऽश्रियम् ।  
+> इंदो इति । सहस्रऽवर्चसम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान इंदो सोम अस्मभ्यं सुश्रियं शोभनया श्रिया युक्तं सहस्रवर्चसं बहुदीप्तिं रयिं धनं विदाः । देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O purifying (पवमान (*pavamāna*)) Indu, Soma: to us bestow (विदाः (*vidāḥ*), that is, give) wealth (रयिं (*rayiṃ*)) that is endowed with beautiful splendour (सुश्रियं (*suśriyaṃ*)) and of manifold radiance (सहस्रवर्चसं (*sahasravarcasaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—purifier
+- इंदो (*iṃdo*)—and shining
+- सोम (*soma*)—O Soma-god
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- सुश्रियं (*suśriyaṃ*)—accompanied by excellent prosperity
+- सहस्रवर्चसं (*sahasravarcasaṃ*)—very resplendent
+- रयिं (*rayiṃ*)—wealth
+- विदाः (*vidāḥ*)—bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, purifier and shining, bestow on us wealth that is accompanied by excellent prosperity and very resplendent.
+
+##### English translation
+Purified Soma, grant us auspicious wealth with infinite splendour, O Indu.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॒रत्यो॒ न वा॑ज॒सृत्कनि॑क्रंति प॒वित्र॒ आ ।  
+> यदक्षा॒रति॑ देव॒युः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । अत्यः । न । वाजऽसृत् । कनिक्रंति । पवित्रे । आ ।  
+> यत् । अक्षाः । अति । देवऽयुः ॥ ५ ॥
+
+### Printed p. 877
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंदुः वाजसृत् संग्रामसरणः अत्यो न अश्व इव पवित्र आ पवित्रे कनिक्रंति शब्दं करोति । यत् यदा अक्षाः क्षरति । क्षर संचलने' इत्यस्माच्छांदसे लुङि तिपि सिच् । ‘ बहुलं छंदसि' इतीडभावः । इडभावे च ' रात्सस्य ' इति सलोपः । देवयुः देवकामः सन् तदा शब्दं करोति ॥
+
+##### Gist of the bhāṣya
+
+This Indu, going to the battle (वाजसृत् (*vājasṛt*)), like a horse (अत्यो न (*atyo na*)), sounds (कनिक्रंति (*kanikraṃti*)) in the filter, when (यत् (*yat*)) he flows (अक्षाः (*akṣāḥ*)). Longing for the gods (देवयुः (*devayuḥ*)), he then makes his sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—this shining Soma
+- देवयुः (*devayuḥ*)—desiring to go to the gods
+- यत् (*yat*)—when
+- अक्षाः (*akṣāḥ*)—it flows, then
+- वाजसृत् (*vājasṛt*)—going towards battle
+- अत्यो न (*atyo na*)—like a horse, with eagerness
+- पवित्रे अति आ (*pavitre ati ā*)—while falling on the Daśāpavitra filter
+- कनिक्रंति (*kanikraṃti*)—it makes a loud sound
+
+##### भावार्थ (Bhāvārtha)
+
+This shining Soma, desiring to go to the gods, when it flows, then, like a horse going towards battle that neighs (makes a sound) with eagerness, makes a loud (gurgling) sound as it falls on the Daśāpavitra filter.
+
+##### English translation
+Indu, like a horse rushing into battle, sounds in the sieve, when he flows through, beloved of the gods.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व॒ वाज॑सातये॒ विप्र॑स्य गृण॒तो वृ॒धे ।  
+> सोम॒ रास्व॑ सु॒वीर्य॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । वाजऽसातये । विप्रस्य । गृणतः । वृधे ।  
+> सोम । रास्व । सुऽवीर्यम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवस्व क्षर । किमर्थम् । वाजसातये अन्नलाभाय। तथा गृणतः स्तुवतः विप्रस्य मम मेध्यातिथेः वृधे वर्धनाय च । हे सोम सुवीर्यं शोभनवीर्योपेतं पुत्रं च रास्व देहि ॥ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow (पवस्व (*pavasva*), stream forth), for the gain of food (वाजसातये (*vājasātaye*)), and for the increase (वृधे (*vṛdhe*)) of me, Medhyātithi, the wise (विप्रस्य (*viprasya*)) one who praises you. O Soma, give (रास्व (*rāsva*)) also a son of good valour (सुवीर्यं (*suvīryaṃ*)).
+
+### Printed p. 878
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- वाजसातये (*vājasātaye*)—for the gain of food
+- वृधे (*vṛdhe*)—for obtaining increase
+- गृणतः (*gṛṇataḥ*)—who praises you
+- विप्रस्य (*viprasya*)—for me, the wise one named Medhyātithi
+- पवस्व (*pavasva*)—flow streaming forth, (and)
+- सुवीर्यं (*suvīryaṃ*)—a son endowed with good valour
+- रास्व (*rāsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, for the gain of food and for increase, flow streaming forth for me, the wise one named Medhyātithi, who praise you, and graciously give a son endowed with excellent valour.
+
+##### English translation
+Flow for the acquisition of food, for the prosperity of the sage who praise you ; O Soma, grant (me) excellent male offspring.
+
+**Colophon**
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपाल साम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये षष्ठाष्टके अष्टमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpāla sāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣye ṣaṣṭhāṣṭake aṣṭamo 'dhyāyaḥ samāptaḥ ‖*)
+
+॥ समाप्तं च षष्ठाष्टकम् ॥ (*‖ samāptaṃ ca ṣaṣṭhāṣṭakam ‖*)
+
+Here ends the eighth chapter of the sixth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
+The sixth aṣṭaka is concluded.
+
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*)
+
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 875. Mandala 9 sukta 42 rks 4-6, sukta 43 rks 1-3 and Sayana-bhashya/samhita of rk 4
+**Progress note:** Done through printed p. 878. sukta 43 rks 4-6 and the colophon of the 6th ashtaka
