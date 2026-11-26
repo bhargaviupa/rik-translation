@@ -8843,6 +8843,213 @@ The sixth chapter in the sixth Aṣṭaka. The eighty-second sūkta in the eight
 
 Salutation to Gaṇeśa. Sāyaṇa bows to Vidyātīrtha-Maheśvara, from whose breath the Vedas came and who made the whole world out of the Vedas. The second sūkta, of nine Ṛks, is the one beginning आ प्र द्रव (*ā pra drava*); the Anukramaṇikā says: आ प्र द्रव (*ā pra drava*). By the rule ऋषिश्चान्यस्मात् (*ṛṣiścānyasmāt*) the seer is Kusīdin of the Kaṇva family (काण्वः कुसीद्यृषिः (*kāṇvaḥ kusīdyṛṣiḥ*)); by the rule प्राग्वत्सप्रीयपरिभाषया (*prāgvatsaprīyaparibhāṣayā*) the metre is Gāyatrī (गायत्री छंदः (*gāyatrī chaṃdaḥ*)); by the rule अनादेशपरिभाषयेंद्रो देवता (*anādeśaparibhāṣayeṃdro devatā*) the deity is Indra. The use of the sūkta in the Niṣkevalya śastra of the Mahāvrata has been stated. In the second rātri-paryāya, in the Maitrāvaruṇa śastra, the tṛca आ प्र द्रव (*ā pra drava*) is the Anurūpa. So it is stated in the sūtra: आ प्र द्रव परावतो नह्यन्यं बळाकरमित्यष्टौ (*ā pra drava parāvato nahyanyaṃ baḷākaramityaṣṭau*) (Āśv. Śrau. 6. 4).
 
+### Printed p. 218
+
+The Anuvāda: this sūkta beginning आ प्र द्रव (*ā pra drava*) is the second sūkta in the ninth Anuvāka. It has nine Ṛks. In the Anukramaṇikā it is said: आ प्र द्रव (*ā pra drava*). The seer is the one called Kusīdī Kāṇva; Indra is the deity; the metre is Gāyatrī. It was already stated in the introduction to the preceding sūkta that this sūkta is employed in the Mahāvrateṣṭi for the Niṣkevalya śastra mantras. In the second rātri-paryāya, in the śastra mantras recited by the priest called Maitrāvaruṇa, the first three Ṛks of this sūkta, beginning आ प्र द्रव (*ā pra drava*), are to be recited as the Anurūpa tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ प्र द्रव परावतो सह्यस्यं बळाकरमित्यष्टा (*ā pra drava parāvato sahyasyaṃ baḷākaramityaṣṭā*) (Ā. 5-4). **NOTE**
+
+Sūkta 82
+
+Maṇḍala 8, Anuvāka 9, Sūkta 82
+
+Aṣṭaka 6, Adhyāya 6, Varga 1, 2
+
+Number of Ṛks in the sūkta: 9
+
+Seer: Kusīdiḥ Kāṇvaḥ
+
+Deity: Indraḥ
+
+Metre: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प्र द्र॑व परा॒वतो॑ऽर्वा॒वत॑श्च वृत्रहन् ।  
+> मध्वः॒ प्रति॒ प्रभ॑र्मणि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । प्र । द्रव । पराऽवतः । अर्वाऽवतः । च । वृत्रऽहन् ।  
+> मध्वः । प्रति । प्रऽभर्मणि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् अपामावरकस्य वृत्रासुरस्य हंतर्हे इंद्र प्रभर्मणि । प्रकृष्टानि भर्माणि भरणानि पशुग्रहादिसंपादनानि यस्मिन् स प्रभर्मा यज्ञः । यद्वा । प्रकृष्टाः कर्मणि कुशला भर्माणो देवानां हविष्प्रदानेन पोषका ऋत्विजो यस्मिन्निति स तथोक्तः । एतादृशे यज्ञे मध्वः मदकरान् सोमान् प्रति परावतः विप्रकृष्टात् दूरस्थाद्देशादपि अर्वावतश्च समीपस्थाद्देशादपि आभिमुख्येन प्र द्रव त्वं त्वरयागच्छ । मध्व इति ‘वा छंदसि' इति पूर्वसवर्णदीर्घाभावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra as slayer of Vṛtra, the demon who held back the waters. The word प्रभर्मणि (*prabharmaṇi*) he takes as a name of the sacrifice, in two ways. In the first, the प्रभर्मा (*prabharmā*) is the sacrifice in which excellent acquisitions (bharmāṇi, bharaṇāni) such as the procuring of cattle and houses are accomplished. In the second ("or else"), it is the sacrifice in which the priests are the bharmāṇas: skilled in the rite and nourishers of the gods by giving them oblations. In such a sacrifice, for the sake of the intoxicating Soma-libations, Indra is to hasten hither facing us, quickly, both from a distant region and from a near one. Sāyaṇa adds that in मध्व (*madhva*) the lengthening that would ordinarily arise from the preceding similar vowel does not occur.
+
+### Printed p. 219
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे वृत्रहन् (*he vṛtrahan*)—O Indra, slayer of the demon Vṛtra
+- प्रभर्मणि (*prabharmaṇi*)—in this sacrifice
+- मध्वः (*madhvaḥ*)—the gladdening Soma-juice
+- प्रति (*prati*)—with regard to it, in order to drink it
+- परावतः (*parāvataḥ*)—whether you are in a distant region, from there
+- अर्वावतश्च (*arvāvataśca*)—or, if you are in a near region, from there
+- आ (*ā*)—towards our sacrifice
+- प्र द्रव (*pra drava*)—come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who slew Vṛtra, the demon who held back the waters in the clouds so that they did not pour down as rain: in this sacrifice, to drink the gladdening Soma, whether you are in a distant region or in a near one, come quickly from there towards our sacrifice.
+
+##### English translation
+Hasten, slayer of Vritra, from afar or from nigh, to the exhilarating (Soma-libations) in the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रभर्मणि (*prabharmaṇi*)—in the sacrifice. The commentator explains this word in two ways. प्रकृष्टानि भर्माणि भरणानि पशुगृहादिसंपादनानि यस्मिन् स प्रभर्मा यज्ञः । (*prakṛṣṭāni bharmāṇi bharaṇāni paśugṛhādisaṃpādanāni yasmin sa prabharmā yajñaḥ |*) The sacrificial rite by performing which excellent and nourishing things such as cattle and houses can be obtained through the favour of the gods is called प्रभर्मा (*prabharmā*). Or else: प्रकृष्टाः कर्मणि कुशला भर्माणो देवानां हविष्प्रदानेन पोषका ऋत्विजो यस्मिन्निति स तथोक्तः । (*prakṛṣṭāḥ karmaṇi kuśalā bharmāṇo devānāṃ haviṣpradānena poṣakā ṛtvijo yasminniti sa tathoktaḥ |*) Or else, in this sacrificial rite the priests, skilled in the mantras and in the actions, please the gods by giving oblations and the like, and by their favour they are the supporters, that is, the nourishers, of the sacrificer. Therefore a sacrifice endowed with such a course of action is called प्रभर्मा (*prabharmā*).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ती॒व्राः सोमा॑स॒ आ ग॑हि सु॒तासो॑ मादयि॒ष्णवः॑ ।  
+> पिबा॑ द॒धृग्यथो॑चि॒षे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तीव्राः । सोमासः । आ । गहि । सुतासः । मादयिष्णवः ।  
+> पिब । दधृक् । यथा । ओचिषे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तीव्राः तीव्रमदाः । क्षिप्रं मदकारिण इत्यर्थः । मादयिष्णवः मादनशीला मादनकारिणो वेमे सोमासः सोमाः सुतासः त्वदर्थमभिषुताः । तस्मात् आ गहि अस्मदीयं यज्ञं प्रत्यागच्छ । आगत्य च तान् पिब । सोमपाने कारणमाह । त्वं यथा दधृक् धृष्टस्तत्प्रीतौ प्रगल्भः संस्तान् ऊचिषे समवैषि सेवसे । ततस्तान यथाकामं पिबेत्यर्थः । दृधृगिति ‘ञिधृषा प्रागल्भ्ये' इत्यस्मात्  ‘ ऋत्विग्दधृक् ' इत्यादिना क्विन्प्रत्ययांतो निपात्यते । ऊचिषे ।' उच समवाये । छांदसे लिटि रूपम् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra. These Soma-juices are तीव्राः (*tīvrāḥ*), of keen intoxication, that is, they quickly produce exhilaration; they are मादयिष्णवः (*mādayiṣṇavaḥ*), intoxicating by nature, and they have been pressed for you. Therefore come to our sacrifice, and having come, drink them. He gives the reason for drinking: since you, दधृक् (*dadhṛk*), that is, bold and confident in your delight in them, resort to them, drink them as you wish.
+
+### Printed p. 220
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) तीव्राः (*tīvrāḥ*)—quickly producing intoxication
+- मादयिष्णवः (*mādayiṣṇavaḥ*)—producing great delight
+- सोमासः (*somāsaḥ*)—Soma-juices
+- सुतासः (*sutāsaḥ*)—have been pressed and made ready for you
+- आ गहि (*ā gahi*)—therefore be pleased to come towards our sacrifice
+- यथा (*yathā*)—(after you have come) in the manner in which
+- धृष्टः (*dhṛṣṭaḥ*)—you say that you are pleased by the drinking of Soma
+- ऊचिषे (*ūciṣe*)—so, that is, as much as you wish
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, intoxicating and delight-giving Soma-juices have been pressed and made ready for you. Therefore come towards our sacrifice and drink as much as you wish, so that you are satisfied by drinking the Soma.
+
+##### English translation
+Come hither, the strong intoxicating Soma is effused : drink, since you are boldly devoted to it.
+
+### Printed p. 221
+
+##### विशेषविषयगळु (Special Topics)
+
+तीव्राः (*tīvrāḥ*)—After the Soma-juice has been taken from the plants, it is the custom to strain it through a cloth and the like, to consecrate it with mantras and the like, to offer it to the gods and to drink it. To make this Soma-juice palatable some admixtures (āśira) are added. Soma-juice mixed with milk is called गवाशिर (*gavāśira*), that mixed with curds दध्याशिर (*dadhyāśira*), and that mixed with barley flour यवाशिर (*yavāśira*). Soma-juice taken from the plant with nothing mixed in is called तीव्र (*tīvra*). Because no other substance is mixed with such Soma-juice, its power of producing intoxication (mada) is greater. It is said in many places that Indra has a special liking for such keen Soma-juice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒षा मं॑द॒स्वादु॒ तेऽरं॒ वरा॑य म॒न्यवे॑ ।  
+> भुव॑त्त इंद्र॒ शं हृ॒दे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषा । मंदस्व । आत् । ऊं इति । ते । अरम् । वराय । मन्यवे ।  
+> भुवत् । ते । इंद्र । शम् । हृदे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इषा सोमलक्षणेनान्नेन मंदस्व मोदस्व हृष्टो भव । उ इत्यवधारणे । आत् अनंतरमेव ते तव वराय शत्रुनिवारकाय मन्यवे क्रोधाय स सोमः अरम् अलं पर्याप्तो भवतु । क्रोधशमने समर्थो भवतु । यदा सोमं पिबति तदा मन्युं त्यजतीत्यर्थः । किंच ते तव हृदे हृदये स सोमः शं शंकरः सुखकरः भुवत् भवतु ॥
+> तृतीये पर्याये ‘आ त्वशत्रो' इत्यनुरूपस्तृचः । सूत्रितं च- ‘ आ त्वेता नि दीदता स्वशत्रवा गहि' ( आश्व. श्रौ. ६. ४ ) इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra: rejoice with the food, that is, the Soma-offering, and be delighted. He explains उ (*u*) as a particle of emphasis. Immediately afterwards let that Soma be fully sufficient, अरम् (*aram*), for your वराय मन्यवे (*varāya manyave*), your enemy-restraining anger; let it be able to appease the anger. The meaning is that when he drinks Soma he gives up his anger. Moreover let that Soma be शं (*śaṃ*), bringing happiness, in your heart. He then adds a ritual use: in the third paryāya the tṛca beginning आ त्वशत्रो (*ā tvaśatro*) is the Anurūpa, and it is stated in the sūtra आ त्वेता नि दीदता स्वशत्रवा गहि (*ā tvetā ni dīdatā svaśatravā gahi*) (Āśv. Śrau. 6. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- इषा (*iṣā*)—with the food in the form of Soma, that is, by drinking the Soma-juice
+- मंदस्व उ (*maṃdasva u*)—be delighted
+- आत् (*āt*)—afterwards
+- ते (*te*)—your
+- वराय (*varāya*)—arisen for the destruction of enemies
+
+### Printed p. 222
+
+- मन्यवे (*manyave*)—anger (wrath)
+- अरं (*araṃ*)—may that Soma-drinking appease it (and)
+- ते (*te*)—your
+- हृदे (*hṛde*)—in the heart that Soma
+- शं (*śaṃ*)—happy, that is, producing delight
+- भुवत् (*bhuvat*)—may it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be delighted with the food in the form of Soma, that is, by drinking the Soma-juice. May the anger that arose in you for the destruction of enemies be appeased by the drinking of Soma, and may that Soma bring delight to your heart (mind).
+
+##### English translation
+Rejoice yourself with this food,—may it forthwith avail to (quench) your foe-restraining anger, may it produce happiness, Indra, in your heart.
+
+##### विशेषविषयगळु (Special Topics)
+
+स सोमः क्रोधशमने समर्थो भवतु । यदा सोमं पिबति तदा मन्युं त्यजतीत्यर्थः । (*sa somaḥ krodhaśamane samartho bhavatu | yadā somaṃ pibati tadā manyuṃ tyajatītyarthaḥ |*) When Soma is drunk all anger is appeased; that is, the Soma-juice has the power of appeasing anger. Therefore, as soon as Indra has drunk Soma, all the anger he had for the destruction of enemies is appeased and he becomes glad of mind: this is the purport.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्व॑शत्र॒वा ग॑हि॒ न्यु१॒॑क्थानि॑ च हूयसे ।  
+> उ॒प॒मे रो॑च॒ने दि॒वः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । अशत्रो इति । आ । गहि । नि । उक्थानि । च । हूयसे ।  
+> उपऽमे । रोचने । दिवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अशत्रो सपत्नरहित । अस्य बहुविधबलत्वाद्रणाभिमुखं गंतारः शत्रवो न संतीत्यर्थः । तादृशेंद्र तु क्षिप्रम् आ गहि आयाहि अस्मद्यज्ञं प्रत्यागच्छ । यतः दिवः स्वतेजसा दीप्यमानात् द्युलोकात् । तत्रस्थैर्देवैरित्यर्थः । रोचने अग्निभिर्दीप्यमाने लोके च उपमे समीपे । स्तोतारः स्तोत्रशस्त्रात्मकं शब्दं कुर्वंत्यत्रेत्युपमो यज्ञः । तस्मिन्नस्मदीये यज्ञे च उक्थानि त्रिवृत्पंचदशादिलक्षणानि स्तोत्राणि प्रति नि हूयसे त्वं स्तोतव्यतया नितरामाहूयसे । यस्मादेवं तस्मादागच्छेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra as अशत्रो (*aśatro*), one without rivals: because of his manifold strength there are no enemies who would go to meet him in battle. Such an Indra is to come quickly to our sacrifice. The reasons: he is called, as one to be praised, to the उक्थानि (*ukthāni*), the stotras of the kinds called trivṛt, pañcadaśa and the like, at our sacrifice, which is उपमे (*upame*), near, since the singers raise the sound of stotra and śastra in it. The sacrifice is situated दिवः (*divaḥ*) in relation to heaven, which shines by its own radiance, that is, in relation to the gods who dwell there, and रोचने (*rocane*) in a world illumined by the fires. Since this is so, let him come: such is the connection of the sentence.
+
+### Printed p. 223
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अशत्रो (*aśatro*)—O Indra, who are without enemies
+- तु (*tu*)—quickly
+- आ गहि (*ā gahi*)—be pleased to come towards our sacrifice
+- दिवः (*divaḥ*)—from the heavenly world, that is, by the gods who are in the world of heaven
+- रोचने (*rocane*)—shining
+- उपमे (*upame*)—at our sacrifice
+- उक्थानि (*ukthāni*)—reciting the hymns
+- नि हूयसे (*ni hūyase*)—you are invoked; therefore be pleased to come to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at this sacrifice that we are now performing, the gods have come from the shining heavenly world and are seated. The priests and the sacrificers are invoking you while reciting hymns; therefore be pleased to come to this our sacrifice.
+
+##### English translation
+O you who have no enemies, come hither ; you are summoned from the resplendent heaven to the hymns at this our rite near at hand in this world illumined (by the sacred fires )
+
+##### विशेषविषयगळु (Special Topics)
+
+अशत्रो (*aśatro*)—बहुविधबलत्वाद्रणाभिमुखं गंतारः शत्रवो न संतीत्यर्थः (*bahuvidhabalatvādraṇābhimukhaṃ gaṃtāraḥ śatravo na saṃtītyarthaḥ*). Because Indra has exceedingly great strength and power, there is no enemy who would confront Indra and fight him in battle; therefore Indra is here called one without enemies.
+
+दिवः (*divaḥ*)—स्वतेजसा दीप्यमाना ' द्युलोकात् । शत्रुस्थैर्देवैरित्यर्थः (*svatejasā dīpyamānā ' dyulokāt | śatrusthairdevairityarthaḥ*). **NOTE** The heavenly world shines exceedingly with its own radiance; the purport is: from the gods who are in such a heaven.
+
+रोचने (*rocane*)—अग्निभिर्दीप्यमाने (*agnibhirdīpyamāne*). The meaning is: brightly shining with the fires called Āhavanīya, Gārhapatya and Dakṣiṇāgni. This word is an epithet of the word उपमे (*upame*) (यज्ञे (*yajñe*)).
+
 ---
 
-**Progress note:** Done through printed p. 216. Maṇḍala 8 sūkta 81 Ṛk 4-9, end of adhyāya 5, start of sūkta 82
+**Progress note:** Done through printed p. 223. Sūkta 82 Ṛk 1-4, pp. 218-223
