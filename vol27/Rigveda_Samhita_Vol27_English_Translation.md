@@ -32554,6 +32554,326 @@ Ashwins, make our sacrifice ascend to heaven free from injury, happy for the att
 
 Drawing near, I call, for friendship, the host of the Maruts, easily invoked, purifying, beautiful to see, a source of happiness, a nourisher of wealth. We place that host, once arrived, in our mind, for the sake of good fame, that is, good food. The rest is already established.
 
+### Printed p. 899
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुहवं (*suhavaṃ*)—worthy of an excellent invocation
+- पावकं (*pāvakaṃ*)—purifying
+- ऋष्वं (*ṛṣvaṃ*)—of beautiful form
+- शंभुवं (*śaṃbhuvaṃ*)—producing happiness
+- रायः (*rāyaḥ*)—to wealth
+- पोषं (*poṣaṃ*)—nourishing
+- मारुतं गणं (*mārutaṃ gaṇaṃ*)—the host of the Maruts
+- सख्याय (*sakhyāya*)—for gaining friendship with us
+- उप ह्वये (*upa hvaye*)—I call
+- सौश्रवसाय (*sauśravasāya*)—for the gain of excellent food
+- धीमहि (*dhīmahi*)—we praise that host in meditation
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that renowned
+- अवः (*avaḥ*)—protection
+- अद्य (*adya*)—at this time of the sacrifice
+- वृणीमहे (*vṛṇīmahe*)—we pray for
+
+##### भावार्थ (Bhāvārtha)
+
+I call, for gaining friendship with us, the host of the Maruts, worthy of an excellent invocation, purifying, of beautiful form, producing happiness, and nourishing wealth. For the gain of excellent food I meditate on that host. We pray at this time of the sacrifice for that unparalleled protection which is to be had from the gods.
+
+##### English translation
+I invoke for their friendship, the deservedly invoked, purifying, beautiful troops of the Maruts, the givers of felicity, the dispensers of riches : we meditate upon them for the attainment of abundant food : we solicit to-day this protection of the gods.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पां पेरुं॑ जी॒वध॑न्यं भरामहे देवा॒व्यं॑ सु॒हव॑मध्वर॒श्रियं॑ ।  
+> सु॒र॒श्मिं सोम॑मिंद्रि॒यं य॑मीमहि॒ तद्दे॒वाना॒मवो॑ अ॒द्या  ॑
+> वृणीमहे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपां । पेरुं । जीवधन्यं । भरामहे । देव्य अव्यं । सुहवं । अध्वरश्रियं ।  
+> सुरश्मिं । सोमं । इंद्रियं । यमीमहि । तत् । देवानां । अवः । अद्य ।  
+> वृणीमहे ॥ ८ ॥
+
+### Printed p. 900
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपामुदकानां पेरुं पालकं जीवधन्यं । धन्या जीवा यस्मिन्नसौ जीवधन्यः ।
+> तं देवाव्यं देवानां तर्पकं सुहवं शोभनाह्वानं शोभनस्तुतिं नाध्वरश्रियं
+> सुरश्मिं शोभनांशुं सोमं भरामहे । धारयामः । पत्निशालातो हविर्धानं
+> प्रति प्रापयामो वा । धृतं तं सोममिंद्रियं वीर्यं यमीमहि । वयं
+> याचामहे । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Soma is the protector of the waters, and in him living beings are fortunate; he is the gratifier of the gods, well invoked, well praised, the glory of the sacrifice, with fair rays. We bear him, that is, we hold him; or else we carry him from the wives' hall to the oblation-shed. Having borne that Soma, we ask of him the vigour, the heroic power. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां (*apāṃ*)—of the waters
+- पेरुं (*peruṃ*)—the protector
+- जीवधन्यं (*jīvadhanyaṃ*)—one with a fruitful life
+- देवाव्यं (*devāvyaṃ*)—the gratifier of the gods
+- सुहवं (*suhavaṃ*)—worthy of an excellent invocation
+- अध्वरश्रियं (*adhvaraśriyaṃ*)—one rich in the sacrifice
+- सुरश्मिं (*suraśmiṃ*)—one with excellent rays
+- सोमं (*somaṃ*)—Soma
+- भरामहे (*bharāmahe*)—we bear
+- इंद्रियं (*iṃdriyaṃ*)—strength from him
+- यमीमहि (*yamīmahi*)—we ask for
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- अद्य (*adya*)—at this time of the sacrifice
+- वृणीमहे (*vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+We bear Soma, the protector of the waters, one with a fruitful life, the gratifier of the gods, worthy of an excellent invocation, rich in the sacrifice, with excellent rays, and we ask strength from him. We ask at this time of the sacrifice for that unparalleled protection which is to be had from the gods.
+
+##### English translation
+We offer the Soma, the protector of the waters, affluent in life, the delighter of the gods, who is well praised, the glory of sacrifice, the brilliant-rayed, the vigour which we desire : we solicit to-day this protection of the gods.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒नेम॒ तत्सु॑स॒निता॑ स॒नित्व॑भिर्व॒यं जी॒वा जी॒वपु॑त्रा॒ अना॑गसः ।  
+> ब्र॒ह्म॒द्विसो॒ विश्व॒गेनो॑ भरेरत॒ तद्दे॒वाना॒मवो॑ अ॒द्या वृ॑णेमहे ॥ ९ ॥
+
+### Printed p. 901
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनेम । तत् । सुसनिता । सनित्वभिः । वयं । जीवाः । जीवपुत्राः । अनागसः ।  
+> ब्रह्मद्विषः । विष्णक् । एनः । भरेरत । तत् । देवानां । अवः । अद्य । वृणेमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जीवा जीवंतो जीवपुत्रा जीवनवत्पुत्राश्च नागसोऽपराधवर्जिताश्च वयं
+> धनाका लुशाः सनित्वभिः संभक्तृभिः पुत्रपौत्रादिभिः सह सुसनिता शोभनेन भजनेन
+> तद्देवजातं सनेम । स्तुत्या हविष्ण्रदानेन च संभजेमहि । किंच ब्रह्मद्विषो ब्राह्मणानामस्माकं द्वेष्टारो विष्ण्वानागच्छदेनोऽस्मदीयं पापं भरेरत । आत्मनि
+> धारयंतु । पोषयंतु । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+We, living, with living sons, and free from fault, we of the Dhānāka line, the Luśas, together with those who share with us, our sons, grandsons and the rest, may by good sharing obtain that portion of the gods; we may share in it by praise and by the gift of oblations. And may those who hate the brāhmaṇas bear our sin, scattering it in all directions, upon themselves: may they hold it in themselves and nourish it **NOTE**. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जीवाः (*jīvāḥ*)—those who are living
+- जीवपुत्राः (*jīvaputrāḥ*)—those who have living sons
+- अनागसः (*anāgasaḥ*)—free from sin
+- वयं (*vayaṃ*)—we
+- सनित्वभिः (*sanitvabhiḥ*)—together with our sons, grandsons and the rest who share with us
+- सुसनिता (*susanitā*)—with excellent enjoyment
+- तत् (*tat*)—the work of the gods
+- सनेम (*sanema*)—let us perform
+- ब्रह्मद्विषः (*brahmadviṣaḥ*)—those who hate the brāhmaṇa who performs the work of the gods
+- विश्वक् (*viśvak*)—everywhere
+- एनः (*enaḥ*)—our sin
+- भरेरत (*bharerata*)—let them take upon themselves
+- अद्य (*adya*)—now
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- वृणीमहे (*vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+We who are living, who have living sons and are free from sin, together with our sons, grandsons and the rest who share with us, endowed with excellent enjoyments, let us perform the work of the gods. May those who hate the brāhmaṇas who perform the work of the gods take our sins upon themselves everywhere. We now ask for the unparalleled protection that is to be had from the gods.
+
+##### English translation
+Living with living offspring, and free from fault, let us make offerings (to the gods), sharing with those who share with us : may those who hate the Brahmans carry off our iniquity in different directions: we solicit to-day this protection of the gods.
+
+### Printed p. 902
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये स्था मनो॑र्य॒ज्ञिया॒स्ते शृ॑णोतन॒ यद्वो॑ देवा॒ ॒॑ ॑
+> ईम॑हे॒ तद्द॑दातन ।  
+> जैत्रं॒ क्रतुं॑ रयि॒मुद्वी॒रव॒द्यश॒स्तद्दे॒वाना॒मवो॑ अ॒द्या वृ॑णीमहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । स्थ । मनोः । यज्ञियाः । ते । शृणोतन । यत् । वः । देवाः । ईमहे ।  
+> तत् । ददातन ।  
+> जैत्रं । क्रतुं । रयिमत् । वीरवत् । यशः । तत् । देवानां । अवः । अद्य ।  
+> वृणीमहे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः ये यूयं मनोर्मनुष्यस्य यज्ञिया यज्ञार्हाः स्थ भवथ
+> ते यूयं शृणोतन । अस्मदीयां स्तुतिं शृणुत । किंच हे देवाः वो युष्मान्यदभीष्टमीमहे याचामहे तज्जैत्रं जयशीलं क्रतुं प्रज्ञानं रयिमद्धनवद्वीरवत्पुत्राद्युपेतं यशश्च ददातन । नोऽस्थभ्यं प्रयच्छत । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O gods, you who are worthy of the sacrifice of Manu, that is, of man, hear our praise. And whatever desired thing we ask of you, victorious intelligence, and fame accompanied by wealth and by heroic sons and the like, give that to us. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- ये (*ye*)—you who
+- मनोः (*manoḥ*)—of man
+- यज्ञियाः (*yajñiyāḥ*)—worthy of the sacrifice
+- स्थ (*stha*)—are
+- ते (*te*)—such you
+- शृणोतन (*śṛṇotana*)—hear our praises
+- वः (*vaḥ*)—from you
+- यत् (*yat*)—what desired object
+- ईमहे (*īmahe*)—we ask
+- तत् (*tat*)—such
+- जैत्रं (*jaitraṃ*)—victorious
+- क्रतुं (*kratuṃ*)—excellent knowledge
+- रयिमत् (*rayimat*)—accompanied by wealth
+- वीरवत् (*vīravat*)—accompanied by heroic sons and the like
+- यशः (*yaśaḥ*)—fame
+- ददातन (*dadātana*)—give
+- अद्य (*adya*)—now
+- देवानां (*devānāṃ*)—given by the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- वृणीमहे (*vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, you who are worthy of the sacrifice of man, hear our praises. Whatever desired object we ask of you, give us such victorious, excellent knowledge, and fame accompanied by wealth and by heroic sons and the like. We ask for the unparalleled fame that is to be had from the gods **NOTE**.
+
+##### English translation
+Gods, who are entitled to the worship of men, hear (our prayers), and grant us that which we request : (bestow upon us) the intelligence requisite for victory, and fame with wealth, and male progeny : we solicit to-day this protection of the gods.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हद॒द्य म॑ह॒तामा वृ॑णीम॒हेऽवो॑ दे॒वानां॑ बृह॒ता  ॒॑॑
+> मनर्वणां ।  
+> यथा॒ वसु॑ वी॒रजा॑तं॒ नशा॑महै॒ तद्दे॒वाना॒मवो॑ अ॒द्या  ॑
+> वृणीमहे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महत् । अद्य । महतां । आ । वृणीमहे । अवः । देवानां । बृहतां । अनवर्णां ।  
+> यथा । वसु । वीरजातं । नशामहै । तत् । देवानां । अवः । अद्य । वृणीमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्नहनि महतां श्रेष्ठानां बृहतां वृद्धानामनर्वणामप्रतिगतानां
+> देवानामिंद्रादीनां संबंधि महदधिकमवो रक्षणमा वृणीमहे । प्रार्थयामहे । किंच वयं यथा वसु धनं वीरजातमपत्यजातं च नशामहै प्राप्नुयाम
+> तथा ते देवाः कुर्वंत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day, we pray for the great, that is the abundant, protection that belongs to the gods Indra and the rest, who are great, that is excellent, grown, that is mighty, and unopposed. And the sense is to be supplied: those gods are to act in such a way that we may obtain wealth and offspring born of heroes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—on this day of the sacrifice
+- महतां (*mahatāṃ*)—of the excellent
+- बृहतां (*bṛhatāṃ*)—of the mighty
+- अनवर्णां (*anavarṇāṃ*)—of the unopposed
+- देवानां (*devānāṃ*)—gods
+- महत् (*mahat*)—exceedingly great
+- अवः (*avaḥ*)—protection
+
+### Printed p. 904
+
+- यथा (*yathā*)—in which manner
+- वसु (*vasu*)—wealth
+- वीरजातं (*vīrajātaṃ*)—heroic sons and the like
+- नशामहै (*naśāmahai*)—we may obtain, so
+- आ वृणीमहे (*ā vṛṇīmahe*)—we pray
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- अद्य (*adya*)—now
+- वृणीमहे (*vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+In order that we may obtain wealth and heroic sons and the like, on this day of the sacrifice we pray for the exceedingly great protection of the gods, who are excellent, mighty and unopposed. We now ask for the unparalleled protection that is to be had from the gods.
+
+##### English translation
+We implore to-day the especial protection of the mighty, the great, the irresistible, gods, that we may obtain riches, and male progeny : we solicit to-day this protection of the gods.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो अ॒ग्नेः स॑मिधा॒नस्य॒ शर्म॒ण्यना॑गा मि॒त्रे वरु॑णे  ॒॑
+> स्व॒स्तये॑ ।  
+> श्रेष्ठे॑ स्याम सवि॒तुः सवी॑मनि॒ तद्दे॒वाना॒मुवो॑ अ॒द्या वृ॑णीमहे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । अग्नेः । संइधानस्य । शर्मणि । अनागाः । मित्रे । वरुणे । स्वस्तये ।  
+> श्रेष्ठे । स्याम । सवितुः । सवीमनि । तत् । देवानां । अवः । अद्य । वृणीमहे ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिधानस्य समिध्यमानस्य महो महतोऽग्नेः शर्मणि सुखे वयं स्याम ।
+> भवेम । किंच वयमनागा अनागसः ॥ वचनव्यत्ययः ॥ स्याम । अपि च मित्रे वरुणे
+> मित्रावरुणयोः । षष्ठ्यर्थे सप्तमी । सवितुश्च सवीमनि प्रसवे स्वस्तये सर्वप्रकाराविनाशाय स्याम । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+May we be in the happiness of the great Agni who is kindled. And may we be free from fault; the plural form stands for the singular by a change of number. And may we be in Mitra and Varuṇa, that is, of Mitra and Varuṇa, the locative being used in the sense of the genitive, and in the impulsion of Savitṛ, for welfare, that is, for freedom from destruction of every kind. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिधानस्य (*samidhānasya*)—of the kindled
+- महः (*mahaḥ*)—of the great
+- अग्नेः (*agneḥ*)—Agni
+- शर्मणि (*śarmaṇi*)—in the happiness
+- स्याम (*syāma*)—may we be
+- अनागाः (*anāgāḥ*)—let us be free from sin
+- मित्रे (*mitre*)—in Mitra
+- वरुणे (*varuṇe*)—in Varuṇa
+- सवितुः (*savituḥ*)—of Savitṛ
+- सवीमनि (*savīmani*)—in the impulsion
+- स्वस्तये (*svastaye*)—may we obtain welfare
+- अद्य (*adya*)—now
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- वृणीमहे (*vṛṇīmahe*)—we pray for
+
+### Printed p. 905
+
+##### भावार्थ (Bhāvārtha)
+
+May we, free from sin, be in the happiness that comes from Agni, kindled and great. May we obtain the favour of Mitra and Varuṇa. May we obtain welfare in the work of impulsion of Savitṛ. We now pray for the unparalleled protection that is to be had from the gods.
+
+##### English translation
+May we free from sin be in the (enjoyment of the) happiness of the mighty kindled Agni ; and in (the keeping of) Mitra and Varuna for our welfare : may we be among the excellent progeny of Savitri: we solicit to-day this protection of the gods
+
+#### Ṛk 13
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये स॑वि॒तुः स॒त्यस॑वस्य॒ विश्वे॑ मि॒त्रस्य॑ व्र॒ते नरु॑णस्य दे॒वाः ।  
+> ते सौभ॑गं वी॒रव॒द्दोम॒दप्पो॒ दधा॑तन॒ द्रवि॑णं चि॒त्रम॒स्मे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । सवितुः । सत्यसवस्य । विश्वे । मित्रस्य । व्रते । वरुणस्य । देवाः ।  
+> ते । सौभगं । वीरवत् । गोमत् । अप्नः । दधातन । द्रविणं । चित्रं । अस्मे इति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये विश्वे देवाः सत्यसवस्य सत्यप्रसवस्य सवितुर्मित्रस्य वरुणस्य मित्रावरुणयोश्च व्रते प्रसवाख्यॆ कर्मणि भवंति तेयूयं सौभगं सौभाग्यं वीरवत्पुत्राद्युपेतं गोमद्गोयुक्तं चित्रं पूजनीयं ध्रविणं धनं चाप्नः कर्म चास्मे
+> मह्यं दधातन । प्रयच्छत ॥
+
+##### Gist of the bhāṣya
+
+You, all the gods who are in the rite called the impulsion of Savitṛ, the true-impelling, and of Mitra and Varuṇa, give me good fortune accompanied by heroic sons and the like, accompanied by cattle, and wonderful, that is, worshipful, wealth, and work.
+
 ---
 
-**Progress note:** Done through printed p. 898. Vol 27 pp. 893-898: sukta 36 Rk 2-7
+**Progress note:** Done through printed p. 905. Vol 27 pp. 899-905: sukta 36 Rk 7-13
