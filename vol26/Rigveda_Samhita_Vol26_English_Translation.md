@@ -1314,6 +1314,134 @@ O grāvā for pressing, which is the means for the gods to carry out the sacrifi
 
 O Indra, slayer of Vṛtra, this is offered to you; O Indra, conqueror of Vṛtra, this is for you; O Indra, slayer of enemies, this is for you; O Indra, accompanied by the Ādityas, this is for you; O Indra, accompanied by the Viśvedevas, this is for you. [With this mantra five separate offerings for the first oblation are to be indicated and measured]—
 
+### Printed p. 76
+
+श्वात्राः स्थ वृत्रतुरो राधोगूर्ता अमृतस्य पत्निस्ता देवीर्देवत्रेमं यज्ञं धत्तोपहूताः सोमस्य पिबतोपहूतो युष्माकं सोमः पिबतु ॥ (*śvātrāḥ stha vṛtraturo rādhogūrtā amṛtasya patnistā devīrdevatremaṃ yajñaṃ dhattopahūtāḥ somasya pibatopahūto yuṣmākaṃ somaḥ pibatu ‖*)
+
+O you waters, full of sap, conquerors of Vṛtra, wives of the immortal, make glad by your gifts and the rest, and establish this our sacrifice among the gods. Invited by us, drink the Soma juice; and let Soma, invited by you, drink also. [With this mantra water is to be sprinkled on the Soma plant.]
+
+यत्ते सोम दिवि ज्योतिर्यत्पृथिव्यां यदुरावंतरिक्षे तेनास्मै यजमानायोरु ! राया कृध्यधि दात्रे वोचः । (*yatte soma divi jyotiryatpṛthivyāṃ yadurāvaṃtarikṣe tenāsmai yajamānāyoru ! rāyā kṛdhyadhi dātre vocaḥ |*)
+
+O Soma, with that splendour of yours which spreads in the heaven, upon the earth and in the wide atmosphere, bestow wealth in abundance upon this sacrificer; show favour to the giver of the oblation. [With this mantra water is to be mixed with the Soma.]
+
+धिषणे वीडू सती वीडयेथामूर्जं दधाथामूर्जं मे धत्तं मा वाग्ं हिग्ंसिषं मा मा हिग्ंसिष्टं । (*dhiṣaṇe vīḍū satī vīḍayethāmūrjaṃ dadhāthāmūrjaṃ me dhattaṃ mā vāgṃ higṃsiṣaṃ mā mā higṃsiṣṭaṃ |*)
+
+O mighty Dhiṣaṇas, let your strength increase. Gather strength and give strength to me also. I shall not injure you; do not injure me. [With this mantra the pressing-boards are to be touched.]
+
+प्रागपागुवदगधराक्तास्ता दिश आ धानत्वंब निष्वर । (*prāgapāguvadagadharāktāstā diśa ā dhānatvaṃba niṣvara |*)
+
+May the intervening spaces of the directions, those in front, behind, above and below, urge you on; O mother, come out quickly. [This mantra belongs to the nigrābha procedure. The Unnetṛ brings water and pours it into the vessel of the Hotṛ; the Soma juice also falls with it.]
+
+यत्ते सोमादाभ्यं नाम जागृवि तस्मै ते सोमःसोमाय स्वाहा ॥ (*yatte somādābhyaṃ nāma jāgṛvi tasmai te somaḥsomāya svāhā ‖*)
+
+[With this mantra the Pratiprasthātṛ puts down the six Soma plants which he had taken.]
+
+After the Soma juice had thus been produced and purified, Indra and Vāyu were invited to come to drink it. This invitation stands in the Taittirīya Saṃhitā as follows.
+
+आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार । उपो ते अंधो मद्यमयामि यस्य देव दधिषे पूर्वपेयं । उपयामगृही- तोऽसि वायवे त्वेंद्रवायू इमे सुताः । उप प्रयोभिरागतमिंदवो नामुशंति हि । उपयामगृहीतोऽसींद्रवायुभ्यां त्वैष ते योनिः सजोषाभ्यां त्वा ॥ (*ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra | upo te aṃdho madyamayāmi yasya deva dadhiṣe pūrvapeyaṃ | upayāmagṛhī- to 'si vāyave tveṃdravāyū ime sutāḥ | upa prayobhirāgatamiṃdavo nāmuśaṃti hi | upayāmagṛhīto 'sīṃdravāyubhyāṃ tvaiṣa te yoniḥ sajoṣābhyāṃ tvā ‖*)
+
+### Printed p. 77
+
+(Tai. Saṃ. 1-4-4)
+
+O Vāyu, who drink the pure juice, be gracious with your thousand horses. For your first drink this sweet Soma juice has been pressed and made ready. O Indra and Vāyu, these Soma juices desire your coming. Come together, as companions of each other, and drink this juice prepared and purified for you: so the invitation was made.
+
+After the pressing, the procedure by which the Adhvaryus are to prepare this juice for the offering, and the mantras to be recited at that time, are given in the Taittirīya Saṃhitā in this way. It is called the Upāṃśugraha. (Tai. Saṃ. 1-4-2)
+
+1. वाचस्पतये पवस्व वाजिन्वृषा वृष्णो अग्‌ंशुभ्यां गभस्तिपूतो देवो देवानां पवित्रमसि येषां भागोऽसि तेभ्यस्त्वा (*vācaspataye pavasva vājinvṛṣā vṛṣṇo agṃśubhyāṃ gabhastipūto devo devānāṃ pavitramasi yeṣāṃ bhāgo 'si tebhyastvā*)
+
+हे वाजिन्नन्नप्रद सोम पतये पालकदेवार्थं वाचः संबंधिना मंत्रेण पवस्व शुद्धो भव । (*he vājinnannaprada soma pataye pālakadevārthaṃ vācaḥ saṃbaṃdhinā maṃtreṇa pavasva śuddho bhava |*)
+
+O Soma, giver of food, for the sake of the protecting god become pure through the mantras connected with speech. Before this you were purified in the forest by the rays of the sun; now be purified again by the Soma shoots that have been placed within. Being the best among the gods, you are the cause of purification also for him who drinks you. Now I take you to those gods for whom you are appointed. [In this part of the rite called Upāṃśugraha, the Adhvaryu pours the juice into the vessel held by the Pratiprasthātṛ. In that vessel there are two parts, and the juice is to be made pure. This act is to be carried out while reciting the portion of the mantra beginning वाचस्पतये पवस्व (*vācaspataye pavasva*).]
+
+2. स्वां कृतोऽसि मधुमतीर्न इषस्कृधि विश्वेभ्यस्त्वेंद्रियेभ्यो दिव्येभ्यःपार्थिवेभ्यः । (*svāṃ kṛto 'si madhumatīrna iṣaskṛdhi viśvebhyastveṃdriyebhyo divyebhyaḥpārthivebhyaḥ |*)
+
+O Upāṃśugraha, you have been accepted by us. Make our food full of sweetness. I accept you for the increase of all the powers that are in the divine world and in the earthly world. [With this mantra the vessel is to be taken, looked at, and rubbed in the left hand.]
+
+3. मनस्त्वाष्टु (*manastvāṣṭu*)—may the mind pervade you. [With this mantra there is the upasthāna.]
+
+### Printed p. 78
+
+4. उर्वंतरिक्षमन्विहि (*urvaṃtarikṣamanvihi*)—crossing the wide atmosphere, be gracious and come to the region of the Āhavanīya. [Reciting this mantra, the Adhvaryu comes to the region of the Āhavanīya.]
+
+5. स्वाहा त्वा सुभवः सूर्याय (*svāhā tvā subhavaḥ sūryāya*)—(सूर्याय स्वाहा (*sūryāya svāhā*)) [With this mantra the juice is offered in the fire.]
+
+(स्वाहा (*svāhā*)) देवेभ्यस्ता मरीचिपेभ्यः (*devebhyastā marīcipebhyaḥ*)—[This too follows the rule above.] This is one order; or else, reciting स्वाहा त्वा सुभवः सूर्याय देवेभ्यस्ता मरीचिपेभ्यः (*svāhā tvā subhavaḥ sūryāya devebhyastā marīcipebhyaḥ*) together and offering is another order.
+
+7. एष ते योनिः प्राणाय त्वा (*eṣa te yoniḥ prāṇāya tvā*)—this is your place of origin. [Reciting this mantra, the remainder is poured into the Āgrayaṇa vessel, and a plant is put into the emptied vessel.]**NOTE**
+
+The same procedure, with some variation, is stated in the Śatapatha Brāhmaṇa by the sentences beginning अथ राजानमुपावहरति (*atha rājānamupāvaharati*) इयं वै प्रतिष्ठा (*iyaṃ vai pratiṣṭhā*) (Śa. Brā. 3-9-3-2 to 33) and so on; they tell the duties of the Adhvaryu and how he prepares the Soma juice for the oblation and carries it away.**NOTE**
+
+शुक्राः (*śukrāḥ*)—शुभ्राः दीपाः (*śubhrāḥ dīpāḥ*). It is explained as bright, shining.
+
+**The explanation of the word pavitra**
+
+पवित्रं (*pavitraṃ*)—it is difficult to state the exact meaning of the word pavitra. ऊर्णामयं पवित्रं सोमांतर्धायकं (*ūrṇāmayaṃ pavitraṃ somāṃtardhāyakaṃ*): that is, if this pavitra made of ūrṇā (wool) is placed within the Soma juice, purification results; this is one procedure. Or else, making it into a sieve-like instrument for filtering, pouring the Soma juice into it and purifying it is another procedure. Probably the straining through a sieve is what is indicated here.
+
+The authors of the Nirukta have given different meanings of this word. But to show that the purpose is one, having explained that it is called pavitra because it purifies, पवित्रं पुनातेः (*pavitraṃ punāteḥ*) (Ni. 5-6),
+
+1. मंत्रः पवित्रमुच्यते (*maṃtraḥ pavitramucyate*): the mantra is called pavitra; quoting the sentence येन देवाः पवित्रेणात्मानं पुनते सदा (*yena devāḥ pavitreṇātmānaṃ punate sadā*) (Sā. Ve. 5-2-8-5; 2-652) they take the meaning there to be mantra,**NOTE**
+
+2. रश्मयः पवित्रमुच्यते (*raśmayaḥ pavitramucyate*): the rays also are called pavitra.
+
+3. अपः पवित्रमुच्यंते (*apaḥ pavitramucyaṃte*): the waters also are called pavitra; thus,
+
+### Printed p. 79
+
+quoting the Ṛk शतपवित्राः स्वधया मदंतीर्देवीर्देवानामपि यंति साथि (*śatapavitrāḥ svadhayā madaṃtīrdevīrdevānāmapi yaṃti sāthi*) (Ṛ. Saṃ. 7-87-3) they have shown that there it means water. But in the present Ṛk the sense is purifying, and none of the water, ray or mantra stated by the Nirukta authors fits. The meaning is an instrument of the nature of a sieve. Sometimes a bundle of darbha grass is placed over the vessel and the juice is poured over it to purify it. Since it is here explained as made of wool, it must be a sieve made of fleece.
+
+In the Ṛk उच्चिष्टं चन्नोर्भर सोमं पवित्र आ सृज । नि धेहि गोरधि त्वचि ॥ (*ucciṣṭaṃ cannorbhara somaṃ pavitra ā sṛja | ni dhehi goradhi tvaci ‖*) (Ṛ. Saṃ. 1-28-9) it is explained as daśāpavitra. (This word was explained in the previous Ṛk.) The daśāpavitra is merely of cloth. Here, since अव्यया रोमाणि अति (*avyayā romāṇi ati*), that is, they pour down beyond the hairs that are not split, it is understood to be the fleece of a sheep. Sāyaṇa has explained it as अविरोमाणि (*aviromāṇi*).
+
+अन्ये वधूयुः पवते परि त्वचि श्रथ्नीते नप्तीरदितेर्युतं यते । हरिरक्रान् यजतः संयतो मदो नृम्मा शिशानो महिषो न शोभते ॥ (*anye vadhūyuḥ pavate pari tvaci śrathnīte naptīraditeryutaṃ yate | harirakrān yajataḥ saṃyato mado nṛmmā śiśāno mahiṣo na śobhate ‖*) (Ṛ. Saṃ. 9-69-3)
+
+In Ṛks such as this, just as अव्ये त्वचि (*avye tvaci*) is explained as अवीः स्वभूते चर्मणि (*avīḥ svabhūte carmaṇi*), so here too the word अव्य (*avya*) is explained as relating to a sheep, and अव्ययाः सोमासः (*avyayāḥ somāsaḥ*) is to be understood as meaning that the juice goes through this fleece, falls and makes a sound. This same point, described in this Ṛk by अव्यया रोमाणि अति (*avyayā romāṇi ati*),
+
+प्र ते धारा अत्यण्णानि मेष्यः पुनानस्य संयतो यंति रंहयः । यद्योभिरिंदो चन्नोः समज्यस अ सुवानः सोम कलशेषु सीदसि ॥ (*pra te dhārā atyaṇṇāni meṣyaḥ punānasya saṃyato yaṃti raṃhayaḥ | yadyobhiriṃdo cannoḥ samajyasa a suvānaḥ soma kalaśeṣu sīdasi ‖*) (Ṛ. Saṃ. 9-86-47)
+
+is stated there too, in the same way, as the manner of purifying the Soma juice. रंहयः धाराः मेष्यः अण्णानि अणूनि लोमानि अतियंति । (*raṃhayaḥ dhārāḥ meṣyaḥ aṇṇāni aṇūni lomāni atiyaṃti |*): it is explained just as it is described here, that the streams of juice flow through the fine fleece. The word अव्ययाः (*avyayāḥ*) is repeated, and the second time it is an epithet of सोमासः (*somāsaḥ*). There it means without loss, that is, without decay.
+
+### Printed p. 80
+
+**Indra's regard for Soma-drinking**
+
+As soon as he is invited by the sacrificers for the drinking of Soma, Indra mounts his chariot and comes ready. There too food for his horses is ready. And as soon as he has come, an oblation in the form of Soma is made ready in abundance and offered for his drinking. (3-35-7)
+
+Immediately after this Soma-drinking he attains exceeding joy. And from it he obtains not only the eagerness required for battle but also strength useful for many other extraordinary works, such as the upholding of heaven and earth. All kinds of strength and eagerness increase. (2-15-2)
+
+Of the many sentences that tell the manner of Indra's worship, only the purport of a few is stated here. This Soma juice produces imperishable vigour. The seer prays that, just as the sun pervades the atmosphere and the other regions with his rays, this Soma juice may make strength pervade the whole body of Indra.
+
+(2-15-1, 2; 2-19-1; 3-36-3; 3-40-1, 3-42-1; 6-23-1, 5, 6; 6-27-1; 6-29-4; 7-22-1; 7-29-1; 8-3-1; 8-81-5, 6; 10-103-1)
+
+All the gods run eagerly to the portion of Soma juice offered to Indra. (8-2-19)
+
+"Together with Indra, the other gods and Agni have drunk. All the gods have been satisfied. But the satisfaction of Indra is the greatest." (1-184-9; 1-175-5; 2-14-1; 3-33-2; 8-2-4)
+
+Among all the other gods, the Soma-drinking of Indra is the most exceeding. इंद्र इत् सोमपा एकः........अंतर्देवान् मर्त्यांश्च । (*iṃdra it somapā ekaḥ........aṃtardevān martyāṃśca |*) (8-2-4): among gods and men and the rest, Indra alone is truly worthy of drinking Soma. Therefore he alone is truly the possessor of heroes. (8-4-12; 8-6-40)
+
+Since Indra's mother provided him with Soma on the very day of his birth, it is clear that Soma is life for Indra. (सद्यो यज्ञातो अपिबो ह सोमं (*sadyo yajñāto apibo ha somaṃ*)). (3-32-9, 10; 3-48-2; 6-40-2; 7-98-3.)
+
+It is famed that in a single draught he drank the Soma of thirty Droṇa vessels. (8-66-4; 6-17-11; 8-7-20. Ni. 4-11.)
+
+### Printed p. 81
+
+His devotees call him to this Soma-drinking with the utmost humility and devotion, and Indra, accepting their call and coming, drinks in haste like a thirsty deer. (8-4-10; 5-36-1; 8-33-2.)
+
+The belly (bellies) of this Indra is like two lakes. To fill it Indra, in his eagerness, roars like a bull wandering in search of water in a waterless desert. 5-36-1; 1-8-7; 1-104-9; 2-11-11; 2-14-10; 2-16-2; 3-35-6; 3-36-7, 8; 3-40-5; 3-47-1; 3-51-12; 8-12-23; 8-2-1; 8-17-5 to 8; 8-67-7; 8-81 to 22-24; 10-25.2; 10-43-7; 10-104-2; A. Se. 2-5-1; 6-2-1).**NOTE**
+
+Sometimes the same description occurs when the sacrificers themselves drink this Soma juice. For example:
+
+"As soon as I have drunk this Soma, it increases my body" (6-47-3.)
+
+so the seer declares. In another passage, telling the power of Soma-drinking, he proclaims:
+
+"We have drunk Soma, therefore we have become free from death. No man can now injure us. O Indra, immortal one, by your grace we also, together with you, without fear, shall climb to the atmosphere." (8-48-3)
+
+As birds fly to a tree full of leaves, and as rivers full of water go and join the ocean, so the stream of Soma juice goes and joins Indra. As, when rain falls, grain and the like grow abundant and strong, so by the offering of Soma juice the sacrificers cause Indra to grow strong. (19-43-4,7)**NOTE**
+
+As a good husband loves his wife and desires her company, so Indra is prayed to drink the Soma offered by the sacrificers, to accept the praises offered by them, and to be satisfied by them. (3-52-3; 4-32-16).
+
+In one sūkta, in order to show clearly how the power of Soma-drinking increases Indra's vigour, the seer has described the nature of Indra in this way; the Soma-drinking
+
 ---
 
-**Progress note:** Done through printed p. 75. Soma plant discussion: preparation, vessels, asira substances, Aitareya Brahmana method (pp. 69-75)
+**Progress note:** Done through printed p. 81. pp. 76-81: Yajus mantras of upāṃśugraha, pavitra discussion, Indra's soma-drinking
