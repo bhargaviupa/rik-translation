@@ -26891,6 +26891,208 @@ Soma is intoxicating (मत्सरः (*matsaraḥ*)). In battles (पृत�
 - पवमानः (*pavamānaḥ*)—you the purifier
 - मनीषी (*manīṣī*)—
 
+### Printed p. 713
+
+- wise
+- गाः इषण्यन् (*gāḥ iṣaṇyan*)—impelling the cows
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- अंशोः (*aṃśoḥ*)—of the Soma juice
+- ऊर्मिं (*ūrmiṃ*)—the mass
+- ईरय (*īraya*)—cause to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who cause exhilaration, who injure the enemies in battles and are yourself unharmed, who have streams of many kinds, and are renowned, confront the strength of the enemies and advance. O Soma-deva, you the purifier, being wise, impelling the cows, cause the mass of the Soma juice to flow for Indra's sake.
+
+##### English translation
+(Soma) who are the exhilarator, harming (the foe) in battles, (yourself) unharmed, who have a thousand streams, rush against the :strength (of the enemy); Indu, who are being purified, the sage, uttering cries, urge on for Indra the wave of juice. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+स मत्सरः पृत्सु वन्वन् अवातः (*sa matsaraḥ pṛtsu vanvan avātaḥ*)—Soma, who causes exhilaration, injures the enemies in battles and the like; but he himself is not injured by anyone. That is to say, after drinking Soma, delight arises and zeal is doubled. Therefore it is natural that warriors, made zealous by drinking Soma, rush on the enemies in battles with heroic fervour and slay them. Since the drinking of Soma is the cause of such slaying of enemies, the seer describes in another manner that Soma slays the enemies in battles.
+
+सहस्ररेताः (*sahasraretāḥ*)—सहस्रोदकधारोपेतः । (*sahasrodakadhāropetaḥ |*) When the Soma plants are crushed with a stone and the juice is pressed out, the Soma juice oozes out and flows from many places in the plants. That is described here by the words सहस्ररेताः सहस्रधारः शतधारः (*sahasraretāḥ sahasradhāraḥ śatadhāraḥ*) and so on. The words "thousand" and "hundred" mean "many".
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ प्रि॒यः क॒लशे॑ दे॒ववा॑त॒ इंद्रा॑य॒ सोमो॒ रण्यो॒ मदा॑य।  
+> स॒हस्र॑धारः श॒तवा॑ज॒ इंदु॑र्वा॒जी न सप्तिः॒ सम॑ना जिगाति ॥ ९ ॥
+
+### Printed p. 714
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । प्रियः । कलशे । देववातः । इंद्राय । सोमः । रण्यः । मदाय ।  
+> सहस्रधारः । शतवाजः । इंदुः । वाजी । न । सप्तिः । समना । जिगाति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रियः प्रीणयिता आत एव देववातो देवैरभिगतो रण्यो रमणीयः
+> सोम इंद्रायेंद्रस्य मदाय मदार्थं कलशे द्रोणाभिधाने परि जिगाति ।
+> परिगच्छति । कीदृशः । सहस्रभारो बहुविधधारोपेतः शतवाजो बहुबल इंदुः
+> पात्रेषु क्षरन् । तत्र दृष्टांतः ! वाजी न यथा वाजी बलवान् सप्तिरश्वः समना ।
+> संग्रामनामैतत् ॥ सम ष्टम अन्वैक्लव्ये ॥ समंति धृष्ट्वा भवंति योद्धारोऽत्रेति।
+> तस्मिन्संग्रामे यथाश्वो जिगाति गच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The delightful one (प्रियः (*priyaḥ*)), the one who gives pleasure, and for that very reason approached by the gods (देववातः (*devavātaḥ*)), the pleasing (रण्यः (*raṇyaḥ*)) Soma, goes round (परि जिगाति (*pari jigāti*)), that is, circulates in the vessel (कलशे (*kalaśe*)) called Droṇa, for Indra, for Indra's exhilaration (मदाय (*madāya*)). Of what kind is he? He has a thousand streams, that is, has streams of many kinds (सहस्रधारः (*sahasradhāraḥ*)), is of many strengths (शतवाजः (*śatavājaḥ*)), and is Indu, flowing into the vessels. An illustration: as a strong horse (वाजी न (*vājī na*) सप्तिः (*saptiḥ*)) goes in battle (समना (*samanā*), a name for battle, since the warriors become bold in it), so he goes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियः (*priyaḥ*)—the one who gives delight
+- देववातः (*devavātaḥ*)—the one surrounded by the gods
+- रण्यः (*raṇyaḥ*)—the pleasing
+- सहस्रधारः (*sahasradhāraḥ*)—of the form of many streams
+- शतवाजः (*śatavājaḥ*)—of many kinds of strength
+- इंदुः (*iṃduḥ*)—of the nature of a flood, who is
+- सोमः (*somaḥ*)—Soma
+- इंद्राय (*iṃdrāya*)—of Indra
+- मदाय (*madāya*)—for the exhilaration
+- समना (*samanā*)—in battle
+- वाजी (*vājī*)—the strong
+- सप्तिः न (*saptiḥ na*)—like a horse
+- कलशे (*kalaśe*)—in the Droṇa-kalaśa
+- परि जिगाति (*pari jigāti*)—goes round
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who gives delight, is surrounded by the gods, is pleasing, is of the form of many streams, has many kinds of strength, and is of the nature of a flood, goes round in the Droṇa-kalaśa for the exhilaration of Indra, as a strong horse moves about in battle.
+
+##### English translation
+The pleasing delightful Soma approached by gods (proceeds) to the pitcher to exhilarate Indra ; Indu the thousand-streamed and vigorous proceeds like a strong horse to battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्राय मदाय सोमः कलशे परि जिगाति (*iṃdrāya madāya somaḥ kalaśe pari jigāti*)—In order to gratify or delight Indra, the Soma juice goes and enters the vessel called the kalaśa. Both while the Soma is crushed with stones and the juice pressed out, and while that juice is strained in the straining vessels called pavitra, covered with the woollen fibres called pavitra
+
+### Printed p. 715
+
+, the seers pray to Soma in many places, "Flow for the pleasure of Indra." Although there are many gods who drink Soma, Indra has the greater fondness for drinking Soma, and so it is the custom to say "for Indra's drinking" or "for Indra's delight". We have explained at length Indra's fondness for drinking Soma in the introduction to the sūkta in this part.
+
+समना वाजी सप्तिः न (*samanā vājī saptiḥ na*)—As a strong horse on the battlefield does not stand still in one place but moves swiftly from here to there at the will of the charioteer, so the Soma juice flows swiftly and goes to enter the Droṇa-kalaśa: this is the meaning.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स पू॒र्वो व॑सु॒विज्जाय॑मानो मृजा॒नो अ॒प्सु दु॑दुहा॒नो  ॑
+> अद्र् ।  
+> अ॒भि॒श॒स्ति॒पा भुव॑नस्य॒ राजा॑ वि॒दद्दा॒तुं ब्रह्म॑णे पू॒यमा॑नः॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पूर्व्यः । वसुऽवित् । जायमानः । मृजानः । अप्सु । दुदुहानः । अद्र् ।  
+> अभिशस्तिपाः । भुवनस्य । राजा । विदत् । गातुं । ब्रह्मणे । पूयमानः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्व्यः पुराणो यद्वा पूर्वैः कृतोऽभिषुतो वसुविद्धनानां लंभको
+> जायमानोऽप्सु वसतीवर्याख्येषूदकेषु मृजानो मृज्यमानोऽद्रावभिषवग्रावणि दुदुहानो दुह्यमानोऽभिशस्तिपाः। अभितः शस्तिर्हिंसा येषां तेऽभिशस्तयः
+> शत्रवः । तेभ्यः परिरक्षको भुवनस्य भूतजातस्य राजा स्वामी एवंविधः स तादृशः
+> सोमो ब्रह्मणे कर्मार्थं पूयमानः सन् गातुं मार्गं समीचीनं विदत् ।
+> यजमानेभ्यः प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+The ancient one (पूर्व्यः (*pūrvyaḥ*)), or else one made, that is, pressed, by the ancients; the finder of wealth (वसुवित् (*vasuvit*)), the obtainer of riches; being born (जायमानः (*jāyamānaḥ*)), he is purified (मृजानः (*mṛjānaḥ*)) in the waters (अप्सु (*apsu*)) called Vasatīvarī, and is milked (दुदुहानः (*duduhānaḥ*)) by the pressing stone (अद्रौ (*adrau*), the pressing stone, the grāvan). The अभिशस्तिपाः (*abhiśastipāḥ*) is the protector from the enemies, the abhiśastayaḥ being those whose injury is on every side. He is the king (राजा (*rājā*)), the lord, of the world (भुवनस्य (*bhuvanasya*)), of all creatures. Such a Soma, being purified (पूयमानः (*pūyamānaḥ*)) for the Brahman, for the sake of the rite, finds (विदत् (*vidat*)) the right way (गातुं (*gātuṃ*)): he gives it to the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्व्यः (*pūrvyaḥ*)—the ancient
+- वसुवित् (*vasuvit*)—the one who obtains wealth
+- जायमानः (*jāyamānaḥ*)—as soon as he is produced
+- अप्पु (*appu*)—in the waters **NOTE**
+- मृजानः (*mṛjānaḥ*)—the one who attains purity
+- अदौ (*adau*)—from the pressing **NOTE**
+
+### Printed p. 716
+
+- stones
+- दुदुहानः (*duduhānaḥ*)—the one who is crushed and pressed
+- अभिशस्तिपाः (*abhiśastipāḥ*)—the one who protects the sacrificers from enemies
+- भुवनस्य (*bhuvanasya*)—of all beings
+- राजा (*rājā*)—the lord, who is
+- सः (*saḥ*)—Soma-deva
+- ब्रह्मणे (*brahmaṇe*)—for the sacrificial rite
+- पूयमानः (*pūyamānaḥ*)—being pressed
+- गातुं (*gātuṃ*)—the excellent way
+- विदत् (*vidat*)—makes known to the sacrificer
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, the ancient, the obtainer of wealth, who attains purity in the waters as soon as he is produced, who is crushed and pressed by the pressing stones, who protects the sacrificers from enemies and is the lord of all beings, being pressed for the sacrificial rite, makes known the good way to the sacrificer.
+
+##### English translation
+The ancient (Soma) the finder of treasure as soon as generated, cleansed in the waters milkd on the stone, the defender against enemies, the sovereign of the world, purified for the sacrifice, shows (the worshipper) the right way.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूर्व्यः (*pūrvyaḥ*)—the ancient, one renowned for a long time; or else one pressed by seers earlier than ourselves. The meaning is that the ancients also, like us, crushed the Soma plants with stones, pressed out the Soma juice and offered it to the gods in sacrifices.
+
+वसुवित् (*vasuvit*)—धनानां लंभकः । (*dhanānāṃ laṃbhakaḥ |*) The obtainer of wealth. That is to say, since the drinking of Soma is the cause of gaining zeal, conquering enemies in battle and obtaining the wealth and so on that they possess, Soma is called the obtainer of wealth.
+
+जायमानः मृजानः अप्पु (*jāyamānaḥ mṛjānaḥ appu*)—As soon as he is born, that is, as soon as the juice is pressed out of the plants, they strain it in the waters such as the वसतीवरी (*vasatīvarī*). When the Soma juice is consecrated with mantras, they mix in the water that is in the vessels called वसतीवरी (*vasatīvarī*). Therefore it is said here that he is purified in the वसतीवरी (*vasatīvarī*) waters.
+
+दुदुहानो अदौ (*duduhāno adau*)—Adri means the stone that crushes the Soma plants. It is also called ग्रावा (*grāvā*). As milk is drawn from a cow, so the crushing of the Soma plants with stones and taking out the juice is compared here to the drawing of milk.
+
+अभिशस्तिपाः (*abhiśastipāḥ*)—अभितः शस्तिर्हिंसा येषांतेऽभिशस्तयः शत्रवः तेभ्यः परिरक्षकः । (*abhitaḥ śastirhiṃsā yeṣāṃte 'bhiśastayaḥ śatravaḥ tebhyaḥ parirakṣakaḥ |*) Those who surround us on all sides and injure us are called अभिशस्तयः (*abhiśastayaḥ*), that is, enemies. Because he protects us from such
+
+### Printed p. 717
+
+enemies, Soma is called अभिशस्तिपाः (*abhiśastipāḥ*). By drinking Soma, strength is doubled and zeal increases, and Soma helps in conquering the enemies in battle; therefore the seer describes in another manner that Soma protects us from the enemies.
+
+भुवनस्य राजा (*bhuvanasya rājā*)—भूतजातस्य राजा स्वामी । (*bhūtajātasya rājā svāmī |*) Because he is the lord of all the creatures that are born, or of the plant groups such as herbs and trees, Soma is called by the name "king", that is, "lord". The Śruti sentence सोम ओषधीनां । सोमो वनस्पतीनां (*soma oṣadhīnāṃ | somo vanaspatīnāṃ*) (अधिपतिः (*adhipatiḥ*)) supports this.
+
+अद्रौ (*adrau*)—This is explained as the stones that press out the Soma juice, or the sacrificers who hold such stones. The difference between the word अद्रि (*adri*) and the word ग्राव (*grāva*) in the sense of an instrument for pressing the Soma juice has been shown in Ṛ. Saṃ. Part 11, pp. 4-5. This word is used not only in the sense of pressing out the juice or its instrument, but also in other senses.
+
+उत स्म ते परुष्ण्यामूर्णा वसत शुंद्यवः । उत पव्या रथानामद्रिं भिंदंत्योजसा ॥ (*uta sma te paruṣṇyāmūrṇā vasata śuṃdyavaḥ | uta pavyā rathānāmadriṃ bhiṃdaṃtyojasā ‖*) (Ṛ. Saṃ. 5-52) (Ṛ. Saṃ. 5-52-9) **GLOSS** In Ṛks such as this, it means a mountain;
+
+ब्रह्माणि मे मतयः शं सुतासः शुष्म इयर्ति प्रभृतो मे अद्रिः । आ शासते प्रति हर्य्यंतुक्थेमा हरी वहतस्ता नो अच्छ ॥ (*brahmāṇi me matayaḥ śaṃ sutāsaḥ śuṣma iyarti prabhṛto me adriḥ | ā śāsate prati haryyaṃtukthemā harī vahatastā no accha ‖*) (Ṛ. Saṃ. 1-65-4) **GLOSS** in this Ṛk, शत्रूणां भक्षको वज्रः । (*śatrūṇāṃ bhakṣako vajraḥ |*), the vajra weapon that destroys enemies;
+
+इंद्रस्यांगिरसां चेष्टौ विदत्सरमा तनयाय धासिं । बृहस्पतिर्भिनदद्रिं विदद्दाः समुस्रियाभिर्नावशंत नरः ॥ (*iṃdrasyāṃgirasāṃ ceṣṭau vidatsaramā tanayāya dhāsiṃ | bṛhaspatirbhinadadriṃ vidaddāḥ samusriyābhirnāvaśaṃta naraḥ ‖*) (Ṛ. Saṃ. 1-62-3) **GLOSS** in Ṛks such as this, an Asura;
+
+प्र यद्रथेषु पृषतीरयुग्ध्वं वाजे अद्रिं मरुतो रंहयंतः । उतारुषस्यॆ वि ष्यंति धाराश्चर्यमेवोदभिर्व्यंदंति भूम ॥ (*pra yadratheṣu pṛṣatīrayugdhvaṃ vāje adriṃ maruto raṃhayaṃtaḥ | utāruṣasyè vi ṣyaṃti dhārāścaryamevodabhirvyaṃdaṃti bhūma ‖*) (Ṛ. Saṃ. 1-85-5) **GLOSS** here, a cloud;
+
+महः स राय एषते पतिर्दन्निन इनस्य वसुनः पद आ । उप ध्रजंतमद्रयो विदन्नित् ॥ (*mahaḥ sa rāya eṣate patirdannina inasya vasunaḥ pada ā | upa dhrajaṃtamadrayo vidannit ‖*) (Ṛ. Saṃ. 1-149-1) **GLOSS** in places such as this, the sacrificers who have adris, that is, pressing stones: it has many meanings.
+
+### Printed p. 718
+
+Nirukta authorities have shown the derivations by which the word अद्रि (*adri*) comes to mean the vajra weapon, a demon, a stone, a mountain, a cloud and so on, as follows.
+
+अद्रिरादृणाक्येकेन । अपि वा अत्तेः स्यात् । (*adrirādṛṇākyekena | api vā atteḥ syāt |*) (Si. 4-4) **NOTE**
+
+The word अद्रि (*adri*) is formed either from the root धृ (*dhṛ*) **NOTE**, which gives the sense "split", or from the root अद् (*ad*), which gives the sense "eat". Because it splits mountains and the like, the vajra weapon has that name. In the same way the explanation of the word अद्रि (*adri*) is given in Ṛks such as 1-161-4 as भक्षकः वज्रः (*bhakṣakaḥ vajraḥ*), and it is also explained as अत्तारं, असुरं, भक्षकं पणिं (*attāraṃ, asuraṃ, bhakṣakaṃ paṇiṃ*). In giving this explanation, the Nirukta authorities have quoted the Ṛk
+
+यदिंद्र चित्र मेहनास्ति त्वादातमद्रिवः । राधस्तन्नो विदद्वस उभयाहस्त्या भर ॥ (*yadiṃdra citra mehanāsti tvādātamadrivaḥ | rādhastanno vidadvasa ubhayāhastyā bhara ‖*) (Ṛ. Saṃ. 5-39 1. **NOTE**) **GLOSS**
+
+and have shown how, in it, अद्रिवः (*adrivaḥ*) can have the meaning वज्रवन् इंद्र (*vajravan iṃdra*). Thus, since the root or roots of the word अद्रि (*adri*) give different meanings by derivations suited to the context, it must be understood according to the situation. In the present Ṛk it is explained as the stones that press out the Soma juice.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॒ हि नः॑ पि॒तरः॑ सोम॒ पूर्वे॒ कर्मा॑णि च॒क्रुः प॑वमान॒  ॑
+> धीराः ।  
+> व॒न्नन्नवा॑तः परि॒धेरपू॑र्ण वी॒रेभि॒रश्वै॑र्म॒घवा॑ भवा नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । हि । नः । पितरः । सोम । पूर्वे । कर्माणि । चक्रुः । पवमान । धीराः ।  
+> वन्सन् । अवातः । परिधीन् । अप । ऊर्ण् । वीरेभिः । अश्वैः । मघवा । भव । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे पितरः सोमवंत इत्यस्य द्वितीयानुवाक्या त्वया हि नः पितर
+> इत्येषा । सूत्रितं च । पितरोग्निष्वात्ता यम उदीरशामवर उत्परासस्त्वया हि
+> नः पितरः सोम पूर्वे ॥ आ. २-१९ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, for पितरः सोमवंत (*pitaraḥ somavaṃta*) the second anuvākyā is this verse, त्वया हि नः पितर (*tvayā hi naḥ pitara*) and the rest. And it is stated in the sūtra: पितरोग्निष्वात्ता यम उदीरशामवर उत्परासस्त्वया हि नः पितरः सोम पूर्वे (*pitarogniṣvāttā yama udīraśāmavara utparāsastvayā hi naḥ pitaraḥ soma pūrve*) (Ā. 2-19).
+
 ---
 
-**Progress note:** Done through printed p. 712. Sūkta 96 Ṛks 5 (end)-8 (start), pp. 707-712
+**Progress note:** Done through printed p. 718. Sūkta 96 Ṛks 8 (end)-11 (start), pp. 713-718
