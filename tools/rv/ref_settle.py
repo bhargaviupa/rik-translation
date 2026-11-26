@@ -42,7 +42,7 @@ def blocks(t):
     return [b for b in res if b[0] != 'other']
 def kn_word(w):
     k = deva2kn(DROPACC.sub('', w))
-    return re.sub('ಮ್$', 'ಂ', k)
+    return re.sub('ಮ್$', 'ಂ', k).replace('ऽ', 'ಽ')
 log = []; manual = []; nchg = 0
 for n in sorted(pages):
     t = open(pages[n], encoding='utf8').read(); t0 = t
