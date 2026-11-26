@@ -20924,6 +20924,279 @@ O Agni, you have wrested from enemies the riches that are beneficial to men and 
 ##### English translation
 You have gained mountain-treasures beneficial to men, (you have defeated ihe hostilities) of strong men, Dasas and Vritras, like are solute
 
+### Printed p. 596
+
+##### English translation
+warrior, do you Agni, the overthrower (of enemies), overeome those who are desirous of battle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दी॒र्घतं॑तुर्बृ॒हदु॑क्षा॒यम॒ग्निः स॒हस्र॑स्तरीः श॒तनी॑थ॒ ऋभ्वा॑ ।  
+> द्यु॒मान् द्यु॒मत्तु॒ नृभि॑र्मृ॒ज्यमा॑नः सुमि॒त्रेषु॑ दीदयो  ॒॑
+> देवयत्तु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दीर्घतंतुः । बृहत्उक्षा । अयं । अग्निः । सहस्रस्तरीः । शतनीथः । ऋभ्वा ।  
+> द्युमान् । द्युमत्सु । नृभिः । मृज्यमानः । सुमित्रेषु । दीदयः । देवयत्सु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीर्घतंतुः। यैर्यज्ञं संतनोति ते तंतवः स्तोत्रादयः । प्रभूतस्तुतिमान्बृहदुक्षा । उक्षा सेचको रश्मिः । प्रभूतरश्मियुक्तः सहस्रस्तरीर्हवीरूपबह्वाच्छादनः शतनीथ आहवनीयादिद्वारेण बहुविधनयन ऋभ्या महान्द्युमत्तु दीप्तिमत्तु मध्यॆ द्युमानतिशयेन दीप्तिमानयमग्निर्नृभिः कर्मनेतृभिर्यत्विग्निर्मृज्यमानोऽलंक्रियमाणो भवति ॥ मृजू शौचालंकारयोः ॥ सत्वं देवयत्तु देवान्कामयमानेषु सुमित्रेष्टस्मासु दीदयः । दीप्यस्व । दीदयतिर्दिप्तिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+The "long-threaded" one: the threads are the stotras and the like, by which the sacrifice is stretched out; he has abundant praise. बृहदुक्षा (*bṛhadukṣā*): उक्षा (*ukṣā*) is the sprinkling ray, so he possesses many rays. सहस्रस्तरीः (*sahasrastarīḥ*): he has a thousandfold covering in the form of oblations. शतनीथः (*śatanīthaḥ*): he leads in many ways through the Āhavanīya and the other fires. ऋभ्वा (*ṛbhvā*): great. द्युमत्तु (*dyumattu*): among the radiant, this Agni is exceedingly radiant. He is adorned by the priests, the leaders of the rite; मृजू शौचालंकारयोः (*mṛjū śaucālaṃkārayoḥ*) (the root means cleansing and adorning). Such as you are, shine upon us, the Sumitras, who desire the gods; दीदयति (*dīdayati*) is a word for shining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीर्घतंतुः (*dīrghataṃtuḥ*)—one who has abundant praise
+- बृहदुक्षा (*bṛhadukṣā*)—one who has abundant rays
+- सहस्रस्तरीः (*sahasrastarīḥ*)—one who has many coverings in the form of oblations
+- शतनीथः (*śatanīthaḥ*)—guide of many
+- ऋभ्या (*ṛbhyā*)—the great one
+- द्युमत्तु (*dyumattu*)—among the radiant
+- द्युमान् (*dyumān*)—one of great brilliance
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- नृभिः (*nṛbhiḥ*)—by the priests
+- मृज्यमानः (*mṛjyamānaḥ*)—is adorned
+- (O Agni) देवयत्तु (*devayattu*)—who are fond of the worship of the gods
+- सुमित्रेषु (*sumitreṣu*)—among us who are called Sumitras
+- दीदयः (*dīdayaḥ*)—shine exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has abundant praise, abundant rays, many coverings in the form of oblations, who is the guide of many, the great one, of great brilliance among the radiant,
+
+### Printed p. 597
+is adorned by the priests. O Agni, shine exceedingly among us, the Sumitras, who are devoted to the worship of the gods.
+
+##### English translation
+This Agni to whom a long series (of sacrifices has been addressed), who is bright with many rays, covering thousands (in the form of ghi), the leader of hundreds (of burnt offerings), the mighty one, brilliant among the brilliant, (is) heing glorified by the priests ; shine (Agni) upon the devout Sumitras.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे धे॒नुः सु॒दुघा॑ जातवेदोऽस॒श्चते॑व सम॒ना स॑ ब॒र्धुक् ।  
+> त्वं नृभि॒र्दक्षि॑णावद्भिरग्ने सुमि॒त्रेभि॑रिध्यसे देव॒यद्भिः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । धेनुः । सुदुघा । जातवेदः । असश्चताइव । समना । सबःधुक् ।  
+> त्वं । नृभिः । दक्षिणावत्भिः । अग्ने । सुमित्रेभिः । इध्यसे । देवयत्भिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञाग्ने त्वे त्वयि सुदुघा सुष्टु पयसो दोग्नि
+> काचिद्भोमसाधनभूता धेनुरस्ति । कीदृशी । असश्चतेव संगवर्जितेनेवैकत्र स्थित्यभावात्कुत्रापि न संयुक्तेनादित्येन समना संगता सबर्धुगमृतं दुहाना। गोरूपा
+> माध्यमिका वाग्वैद्युते त्वय्यस्तीति भावः । तादृशस्त्वं नृभिः कर्मनेतृभिर्दक्षिणावद्भिर्युत्विग्भो देयत्वेन तद्वद्भिर्देवयद्भिर्देवकाम्यॆः सुमित्रेभिरस्माभिरिध्यसे ।
+> हविर्भिर्दिर्प्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, Agni of born wisdom, in you there is a cow that yields milk well, a means of the sacrifice. What kind? Like one free of attachment, since she does not stay in one place and is joined to nothing, she is united with the Āditya; she milks the सबर्धुग (*sabardhuga*) nectar. The meaning is that the cow in the form of the middle-realm Speech, belonging to lightning, is in you. Such as you are, you are kindled by us, the Sumitras, who desire the gods, with the priests, the leaders of the rite, who are endowed with the sacrificial fee (they having it to give). You are made to blaze with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O one in the form of Jātavedas
+- अग्ने (*agne*)—O Agni
+- असश्चतेव (*asaścateva*)—with the Āditya, who is ever moving (not staying fixed anywhere)
+- समना (*samanā*)—united (and)
+- सबर्धुक् (*sabardhuk*)—like the middle-realm goddess Speech who milks nectar
+- त्वे (*tve*)—in you
+- सुदुघा (*sudughā*)—who milks excellent milk
+- धेनुः (*dhenuḥ*)—a cow is established
+- त्वं (*tvaṃ*)—you
+- दक्षिणावद्धिः (*dakṣiṇāvaddhiḥ*)—
+
+### Printed p. 598
+- by those who are endowed with the sacrificial fee
+- देवयद्भिः (*devayadbhiḥ*)—devoted to the worship of the gods
+- सुमित्रेभिः (*sumitrebhiḥ*)—called Sumitras
+- नृभिः (*nṛbhiḥ*)—by the priests
+- इध्यसे (*idhyase*)—you are kindled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, one in the form of Jātavedas, in you a cow that milks excellent milk is established, like the middle-realm goddess Speech who, joined to the Āditya, ever moving and fixed nowhere, milks nectar. You are kindled by the priests who are endowed with the sacrificial fee, devoted to the worship of the gods, and called Sumitras.
+
+##### English translation
+In you, Jatavedas, is the milch cow, easy to be milked, yielding ambrosia as it were inexhaustibly in battle, you are kindled, Agni, by the devout Sumitras who are entitled to the sacrificial donation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वाश्चि॑त्ते अ॒मृता॑ जातवेदो महि॒मानं॑ वाध्र्यश्व॒ प्र  ॑
+> वोचन् ।  
+> यत्सं॒पृच्छं॒ मानु॑षी॒र्विश॒ आय॒न्त्वं नृभि॑रजय॒स्तावृ॑धेभिः॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवाः । चित् । ते । अमृताः । जातवेदः । महिमानं । वाध्रिऽअश्व । प्र । वोचन् ।  
+> यत् । संपृच्छं । मानुषीः । विशः । आयन् । त्वं । नृभिः । अजयः । त्वावृधेभिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो हे वाध्यश्वाग्ने ते तव महिमानममृता देवाश्चिद्देवा अपि
+> प्र वोचन् । प्रब्रुवंति। यद्यदा मानुषीर्मनुष्यसंबंधिन्यो विशः प्रजाः संपृच्छं
+> देवैः सह को ना असुरान्हंतीत्येवमादिकं संप्रश्नमायन् प्राप्तवंतः तदा त्वं
+> नृभिः सर्वस्य नेतृभिस्तावृधेभिस्त्वया वर्धितैर्देवैः सह कर्मविघ्नकारिणस्तनजयः ।
+> जितवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, O Agni of Vadhryaśva, even the immortal gods proclaim your greatness. When the human tribes, the people connected with men, put the question (संपृच्छं (*saṃpṛcchaṃ*))—"Who, together with the gods, slays the Asuras?"—and the like, then you, with the leaders of all, with the gods who are strengthened by you, conquered those who obstruct the rite. अजयः (*ajayaḥ*): you have conquered.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाध्र्यश्व (*vādhryaśva*)—O one related to Vadhryaśva
+- जातवेदः (*jātavedaḥ*)—O Agni
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- अमृताः (*amṛtāḥ*)—deathless
+- देवाश्चित् (*devāścit*)—even the gods
+
+### Printed p. 599
+- प्र वोचन् (*pra vocan*)—praise
+- यत् (*yat*)—when
+- मानुषीः (*mānuṣīḥ*)—belonging to the group of humans
+- विशः (*viśaḥ*)—the people
+- संपृच्छं (*saṃpṛcchaṃ*)—the question "Who slays the Asuras?"
+- आयन् (*āyan*)—ask, then
+- त्वं (*tvaṃ*)—you
+- नृभिः (*nṛbhiḥ*)—with those who are guides
+- त्वावृधेभिः (*tvāvṛdhebhiḥ*)—together with the gods who are nourished by you
+- अजयः (*ajayaḥ*)—you conquer them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, related to Vadhryaśva, even the deathless gods praise your greatness. When we humans ask, "Who is the hero who will slay the Asuras?", then you, together with the gods who are guides and are nourished by you, conquer them.
+
+##### English translation
+The immortal gods have proclaimed your greatness, Jatavedas, Vadhryashwa (Agni); when human beings came to inquire (who would slay the Asuras), then you with (the gods), the leaders of all, fostered by you overcame (those who impeded the ceremony).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒तेव॑ पु॒त्रम॑बिभरु॒पस्थे॒ त्वाम॑ग्ने वध्र्य॒श्वः स॑प॒र्यन् ।  
+> जु॒षा॒णो अ॑स्य स॒मिधं॑ यविष्टो॒त पूर्वा॑ अवनो॒र्व्राध॑तश्चित् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिता इव । पुत्रं । अबिभः । उपस्थे । त्वां । अग्ने । वध्रि अश्वः । सपर्यन् ।  
+> जुषाणः । अस्य । संइथं । यविष्ठ । उत । पूर्वान् । अवनोः । प्राधतः । चित् ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वामुपस्थे पृथिव्या उपस्थान उत्तरवेद्यां सर्पयन् परिचर्याकर्मा परिचरन्वध्र्यश्वो मम पिताबिभः । धृतवान्। हविर्भिः पोषितवान्वा। कथमिव ।
+> पितेव यथा पिता समीपे पुत्रं स्थापयति पोषयति वा ॥ डुभृञ् धारणपोषणयोः । लज्तिपि गुणे कृते हल्ब्यादिना तिपो लोपः ॥ हे यविष्ठ युवतमाग्ने उतापि चास्य वध्र्यश्वस्य पितुर्वा मम ना समिधं जुषाणः सेवमानः सन्
+> पूर्वान्प्रत्नान्वाधतश्चिद्बाधकानपि शत्रूनवनोः । अवधीः ॥ वनतिर्हिंसायां भौवादिकः । व्यत्ययेनोप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, Vadhryaśva, serving you on the upastha (lap) of the earth, the Uttaravedi, bore you, or nourished you with oblations, as a father keeps his son near and nourishes him. The root डुभृञ् (*ḍubhṛñ*) means holding and nourishing. O Yaviṣṭha, youngest Agni, enjoying the fuel of this Vadhryaśva, or of my father, you have slain even the former, the obstructing enemies. The root वनति (*vanati*) is of the first class and means injuring.
+
+### Printed p. 600
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पितेव (*piteva*)—as a father seats his child near him and nourishes him
+- पुत्रं (*putraṃ*)—the child
+- त्वां (*tvāṃ*)—you
+- उपस्थे (*upasthe*)—on the Uttaravedi
+- सपर्यन् (*saparyan*)—worshipping
+- वध्रश्वः (*vadhraśvaḥ*)—Vadhryaśva
+- अबिभः (*abibhaḥ*)—has nourished with oblations and the like
+- यविष्ठ (*yaviṣṭha*)—O Agni, exceedingly young
+- अस्य समिधं (*asya samidhaṃ*)—my oblations and the like
+- जुषाणः (*juṣāṇaḥ*)—you who enjoy
+- पूर्वान् (*pūrvān*)—those who were there before
+- प्राधतश्चित् (*prādhataścit*)—and the injuring, all enemies
+- अवनोः (*avanoḥ*)—have slain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Vadhryaśva, who worshipped you on the Uttaravedi, has nourished you with oblations and the like, as a father seats his child near him and nourishes him. O exceedingly young Agni, you who enjoy my oblations and the like have slain all enemies, those who were before and the injurers.
+
+##### English translation
+Vadhryashwa honouring you, Agni, placed yon upon the altar as a father (places) his son (upon his lap); pleased with his fuel, youngest (of the gods), you slew the ancient obstructers (of the rite).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शश्व॑द॒ग्निर्व॑ध्र्य॒श्वस्य॒ शत्रू॒न्नृभि॑र्जिगाय सु॒तसो॑मवद्भिः ।  
+> सम॑नं चिददहश्चित्रभा॒नोऽव॒ प्राधं॑तमभिनद्वृ॒धश्चि॑त् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शश्वत् । अग्निः । वध्रिअश्वस्य 1 शत्रून् । नृभिः । जिगाय । सुतसोमवत्भिः ।  
+> समनं । चित् । अदहः । चित्रभानो इति चित्रभानो । अव । व्राधंतं । अभिनत् । वृधः।  
+> चित् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निर्वध्रृश्वस्य सुतसोमवद्भिरभिषुतसोमैः ॥ अनुवादको मत्वर्थीयः ॥ तैन्रृभिर्ऋत्विग्भिः शश्वत् सर्वदा शत्रूञ्ङिगाय । जितवान् । अथ प्रत्यक्षः ।
+> हे चित्रभानो नानातेजस्क चायनीयदीप्तिमन्नग्ने त्वं समनं चित् । समनमिति
+
+##### Gist of the bhāṣya
+
+That Agni, together with the priests of Vadhryaśva who have pressed the Soma (सुतसोमवद्भिः (*sutasomavadbhiḥ*): the suffix is anuvādaka, in the sense of "having"), has always conquered the enemies. Now he is addressed directly: O Citrabhānu, of manifold, worshipful radiance, Agni, you
+
+### Printed p. 601
+
+> संग्रामनाम । तमप्यदहः स्वतेजोभिः । अथ तव स्तोता वाध्र्यश्वो वृधश्चित्स्वयं
+> वृद्धो भवन्वाधंतं वर्धमानं हिंसकं नावाभिनत् । अवाङ्मुखं कृत्वाच्चिनत् ।
+> यद्वा । त्वमेव तमवाभिनत् । अवाङ्मुखं कृत्वाभिनः । अच्छिनः ॥ प्रथममध्यमयोः
+> समानमेतद्रूपं ॥
+
+##### Gist of the bhāṣya
+
+समनं (*samanaṃ*) is a name for battle. You burned even that with your own splendours. Further, your praiser Vadhryaśva, himself grown strong, cut down the growing, harming foe, turning him face downward. Or else: you yourself cut him down, turning him face downward. This form is common to the first and middle persons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- वध्र्यश्वस्य (*vadhryaśvasya*)—belonging to Vadhryaśva
+- सुत सोमवद्भिः (*suta somavadbhiḥ*)—who offer pressed Soma
+- नृभिः (*nṛbhiḥ*)—with the help of the priests
+- शश्वत् (*śaśvat*)—always
+- शत्रून् (*śatrūn*)—enemies
+- जिगाय (*jigāya*)—has conquered
+- चित्रभानो (*citrabhāno*)—O Agni of manifold radiance
+- समनं चित् (*samanaṃ cit*)—even the battle
+- अदहः (*adahaḥ*)—you have burned with your splendour
+- (Vadhryaśva, who praises you) वृधश्चित् (*vṛdhaścit*)—though mighty
+- प्राधॆंतं (*prādhèṃtaṃ*)—the harming enemy
+- अवाभिनत् (*avābhinat*)—has destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+With the help of the priests who belong to Vadhryaśva and offer pressed Soma, Agni has always conquered the enemies. O Agni of manifold radiance, you have burned even the battle with your splendour. Vadhryaśva, who praises you, has conquered the enemy who was mighty and harming.
+
+##### English translation
+Agni by means of the priests of Vadhryashwa pouring out libations always conquners his foes; you (Agni) shining with varied splendour, have consumed the battle; (your praiser) self-fostercd has destroyed his powerful (assailant),
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॒ग्निर्व॑ध्र्य॒श्वस्य॑ वृत्र॒हा स॑न॒कात्प्रेद्धो॒ नम॑सोपवा॒क्यः॑ ।  
+> स नो॒ अजा॑मीरु॒त वा॒ विजा॑मीन॒भि ति॑ष्ठ॒ शर्ध॑तो वाध्र्यश्व ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अग्निः । वध्रि ऽश्वस्य । वृत्रहा । सनकात् । प्रइद्धः । नमसा । उपवाक्यः ।  
+> सः । नः । अजामीन् । उत । वा । विजामीन् । अभि । तिष्ठ । शर्धतः । वध्रि ऽश्व ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 ---
 
-**Progress note:** Done through printed p. 595. pp. 590-595 (batch API)
+**Progress note:** Done through printed p. 601. pp. 596-601 (batch API)
