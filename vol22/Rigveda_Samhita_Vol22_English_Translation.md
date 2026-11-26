@@ -521,6 +521,253 @@ For you, Maghavan, this showering soma ( libation ) cries aloud: to you the wors
 > स न॑ इंद्र॒ त्वय॑ताया इ॒षे धा॒स्त्मना॑ च॒ ये म॒घवा॑नो जु॒नंति॑ ।  
 > वस्वे॒ षु ते॑ जरि॒त्रे अ॑स्तु श॒क्तिर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 
+### Printed p. 13
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । इंद्र । त्वयतायै । इषे । धाः । त्मना । च । ये । मघवानः । जुनंति ।  
+> वस्वी । सु । ते । जरित्रे । अस्तु । शक्तिः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स त्वं त्वयतायै इषे त्वया दत्तमन्नं भोक्तुं नोऽस्मान् धाः । धारय । ये च मघवानो हविष्मंतस्त्मना स्वयमेव जुनंति हवींषि त्वां प्रति प्रेरयंति तानपि त्वयतायै इषे धाः । अपि च वस्वीष्वत्यंतं प्रशस्तासु स्तुतिषु ते तव जरित्रे स्तोत्रे मह्यं शक्तिः सामर्थ्यमस्तु । यद्वा । जरित्रे मह्यं ते तव वस्वीषु प्रशस्ता शक्तिर्दानमस्तु । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, for the food given by you (त्वयतायै इषे (*tvayatāyai iṣe*)), enable us to partake of it. And those wealthy ones, the possessors of oblations, who of their own accord send oblations towards you, them too establish for that food. Moreover, in the exceedingly excellent praises, may there be power, ability, for me, your praiser. Or else: may there be for me, the praiser, your excellent gift in the matter of praises. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—you
+- धाः (*dhāḥ*)—make us capable
+- ये च (*ye ca*)—and whoever
+- मघवानः (*maghavānaḥ*)—being possessed of oblations
+- त्मना (*tmanā*)—by their own impulse
+- जुनंति (*junaṃti*)—offer oblations to you (make them also fit for that food)
+- वस्वी षु (*vasvī ṣu*)—with exceedingly excellent praises
+- ते (*te*)—your
+- जरित्रे (*jaritre*)—to me, the praiser
+- शक्तिः (*śaktiḥ*)—ability
+- अस्तु (*astu*)—let there be
+- यूयं (*yūyaṃ*)—you, O Indra and the other gods
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make us capable of enjoying the food given by you. Those who, possessed of oblations, offer oblations to you of their own impulse, make them also fit for that food. May I, who praise you with exceedingly excellent praises, have ability. O Indra and the other gods, protect us always with blessings.
+
+##### English translation
+Enable us, Indra, (to partake of) food granted by you, as well as those who, opulent (in sacrificial presentations), spontaneously offer (you oblations): may there be power in your adorer (to repeat) many laudations: and ever cherish us with blessings.
+
+### Printed p. 14
+
+## Sūkta 21 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असावि देवमिति दशर्चं चतुर्थं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । असावीति ॥ माध्यंदिनसवने मैत्रावरुणस्योन्नेयमानमिदं सूक्तं । असावि देवमिहोप यातेत्यनुसवनं । आ -५. ५. । इति ॥ इंद्रस्य वृत्रघ्नः पशावभि क्रत्वेति वपाया अनुवाक्या । सूत्रितं च । अभि क्रत्वेंद्र भूरध ज्मन् त्वं महा इंद्र तुभ्यं ह क्षाः । आ - ३. ८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta असावि देवं (*asāvi devaṃ*) of ten Ṛks is the fourth sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh and its deity Indra. So it is recorded in the Anukramaṇī: असावीति (*asāvīti*). In the midday pressing this sūkta is the one recited by the Maitrāvaruṇa priest as he leads up; the sūtra is असावि देवमिहोप यातेत्यनुसवनं (*asāvi devamihopa yātetyanusavanaṃ*) (Ā. 5-5). In the animal sacrifice to Indra the Vṛtra-slayer, the verse पशावभि क्रत्वेति (*paśāvabhi kratveti*) is the anuvākyā for the vapā; and it is prescribed in the sūtra अभि क्रत्वेंद्र भूरध ज्मन् त्वं महा इंद्र तुभ्यं ह क्षाः । (*abhi kratveṃdra bhūradha jman tvaṃ mahā iṃdra tubhyaṃ ha kṣāḥ |*) (Ā. 3-8).
+
+Translation: This sūkta beginning असावि देवं (*asāvi devaṃ*) is the fourth sūkta in the second anuvāka. It contains ten Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as beginning with असावि (*asāvi*). At the time of the midday pressing, the priest called Maitrāvaruṇa is to recite this sūkta as the unnīyamāna sūkta; this is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra असावि देवमिहोप यातेत्यनुसवनं (*asāvi devamihopa yātetyanusavanaṃ*) (Ā. 5-5). In the animal sacrifice made to Indra the Vṛtra-slayer, the sixth Ṛk of this sūkta, अभि क्रत्वा (*abhi kratvā*), is to be recited as the anuvākyā mantra at the vapā offering; this is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra अभि क्रत्वेंद्र भूरध ज्मंस्त्वं महा इंद्र तुभ्यं ह क्षाः (*abhi kratveṃdra bhūradha jmaṃstvaṃ mahā iṃdra tubhyaṃ ha kṣāḥ*) (Ā. 3-8).
+
+Sūkta 21. Maṇḍala 7; Anuvāka 2; Sūkta 21. Aṣṭaka 5; Adhyāya 3; Varga 3, 4. Number of Ṛks in the sūkta: 10. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑वि दे॒वं गोऋ॑जीक॒मंधो॒ न्य॑स्मि॒न्निंद्रो॑ ज॒नुषे॑मुवोच ।  
+> बोधा॑मसि त्वा हर्यश्व य॒ज्ञैर्बोधा॑ नः॒ स्तोम॒मंध॑सो॒ मदे॑षु ॥ १ ॥
+
+### Printed p. 15
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असावि । देवं । गोऋजीकं । अंधः । नि । अस्मिन् । इंद्रः । जनुषा । ईं ।  
+> उवोच ।  
+> बोधामसि । त्वा । हरिऽअश्व । यज्ञैः । बोध । नः । स्तोमं । अंधसः । मदेषु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवं दीप्तं गोऋजीकं गोभिः संस्कृतं । गव्येन मिश्रितमित्यर्थः । अंधः सोमरूपमन्नमसावि । अभिषुतं । ईमयमिंद्रोऽस्मिन्नभिषुते सोमरूपेऽंधसि जनुषा स्वभावत एव न्युवोच । नितरां संगतो भवति । अथ प्रत्यक्षस्तुतिः । हे हर्यश्व त्वा त्वां यज्ञैः स्तोत्रैर्हविर्भिर्वा बोधामसि । बोधयामः । अंधसः सोमस्य मदेषु नोऽस्माकं स्तोमं स्तोत्रं बोध । बुध्यस्व च ॥
+
+##### Gist of the bhāṣya
+
+The shining (deva) Soma-food, gorjīka, prepared with cows, that is, mixed with what comes from the cow, has been pressed. This same Indra, in this pressed Soma-food, from his birth, by his very nature, is closely joined. Then follows direct address: O lord of bay horses, we awaken you with sacrifices, that is, with hymns or oblations. In the exhilarations of the Soma, understand our hymn, our praise, and awaken.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवं (*devaṃ*)—the shining
+- गोऋजीकं (*goṛjīkaṃ*)—mixed with milk and the like
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- असावि (*asāvi*)—is pressed and ready to be offered
+- ईं इंद्रः (*īṃ iṃdraḥ*)—this same Indra
+- अस्मिन् (*asmin*)—with this pressed Soma juice
+- जनुषा (*januṣā*)—from birth
+- नि उवोच (*ni uvoca*)—is completely united
+- हर्यश्व (*haryaśva*)—O Indra, possessor of the horses named Hari
+- त्वा (*tvā*)—you
+- यज्ञैः (*yajñaiḥ*)—with hymns
+- बोधामसि (*bodhāmasi*)—we awaken
+- अंधसः (*aṃdhasaḥ*)—as the result of drinking the Soma juice
+- मदेषु (*madeṣu*)—when exhilaration arises
+- नः (*naḥ*)—our
+- स्तोमं (*stomaṃ*)—the nature of the hymn
+- बोध (*bodha*)—understand
+
+##### भावार्थ (Bhāvārtha)
+
+The shining Soma-food, mixed with milk and the like, is pressed and ready to be offered. This same Indra is completely united, from his birth, with this pressed Soma juice. O Indra, possessor of the horses named Hari, we awaken you with hymns. When exhilaration arises as the result of drinking the Soma juice, understand the force of our hymn.
+
+##### English translation
+The bright sacrificial food mixed with curds and milk has been poured out : Indra delights in it from his birth : lord of bay horses, we wake you up with sacrifices, acknowledge our praises in the exhilaration of the soma beverage.
+
+### Printed p. 16
+
+#### Ṛk 2
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यं॑ति य॒ज्ञं वि॒पयं॑ति ब॒र्हिः सो॑म॒मादो॑ वि॒दथे॑ दु॒ध्र-वा॑चः ।  
+> न्यू॑ भ्रियंते य॒शसो॑ गृ॒भादा दू॒रेउ॑पब्दो॒ वृष॑णो नृ॒षाचः॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यंति । यज्ञं । विपयंति । बर्हिः । सोममादः । विदथे । दुध्रवाचः ।  
+> नि । ऊं इति । भ्रियंते । यशसः । गृभात् । आ । दूरेऽउपब्दः । वृषणः । नृऽसाचः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञं प्र यंति यष्टारो बर्हिश्च विपयंति । स्तृणंति । विपिः स्तरणकर्मा । विदथे यज्ञे सोममादो ग्रावाणश्च दुध्रवाचो दुर्धरवाचो भवंति । अपि च यशसो यशस्विनो दूरेउपब्दाः । दूर उपब्दिः शब्दो येषां ते दूरेउपब्दाः । नृषाचः । नृन्नेतॄनृत्विजः सचंते इति नृषाचः । वृषणो ग्रावाणो गृभाद्गृहात् । गृहमध्यमग्रावा । तस्मात् । आ इति चार्थे । नि भ्रियंते । अभिषववेलायां निगृह्यंते । उ इति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers advance to the sacrifice and strew the sacred grass; vipi is a word for strewing. In the sacrifice (vidatha) the Soma-pressing stones have hard-to-restrain voices. Moreover, they are renowned, and their sound is heard from afar. The word nṛṣācaḥ means those that accompany the leaders, the priests. The showering stones are brought out from the house; **NOTE** the word आ (*ā*) is in the sense of "and". They are brought out at the time of pressing; the word उ (*u*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञं (*yajñaṃ*)—the sacrificial house
+- प्र यंति (*pra yaṃti*)—the sacrificers enter
+- बर्हिः (*barhiḥ*)—the seat of darbha grass too
+- विपयंति (*vipayaṃti*)—is spread out widely
+- विदथे (*vidathe*)—in the sacrifice
+- सोममादः (*somamādaḥ*)—the stones that press the Soma
+- दुध्रवाचः (*dudhravācaḥ*)—have a restrained sound
+- यशसः (*yaśasaḥ*)—renowned
+- दूरेउपब्दः (*dūreupabdaḥ*)—sounding from afar
+- नृषाचः (*nṛṣācaḥ*)—joining the priests
+- वृषणः (*vṛṣaṇaḥ*)—those stones
+- गृभात् (*gṛbhāt*)—from their house
+- आ नि भ्रियंते उ (*ā ni bhriyaṃte u*)—are brought out only at the times of pressing
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers enter the sacrificial house. The seat of darbha grass too is spread out widely. In the sacrifice the stones that press the Soma have a restrained sound. The stones, renowned, sounding from afar and joining the priests, are brought out from their house only at the times of pressing.
+
+### Printed p. 17
+
+##### English translation
+They repair to the sacrifice, they strew the sacred grass : the (grinding) stones at the ceremony are of difficulty suppressed noise : famous priests, whose voices are heard far off, bring the stones from the interior of the dwelling.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्र॒ स्रवि॑त॒वा अ॒पस्कः॒ परि॑ष्ठिता॒ अहि॑ना शूर पू॒र्वीः ।  
+> त्वद्वा॑वक्रे र॒थ्यो॒३॒॑३ न धेना॒ रेजं॑ते॒ विश्वा॑ कृ॒त्रिमा॑णि भी॒षा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इंद्र । स्रवितवै । अपः । करिति कः । परिस्थिताः । अहिना । शूर । पूर्वीः ।  
+> त्वत् । वावक्रे । रथ्यः । न । धेनाः । रेजंते । विश्वा । कृत्रिमाणि । भीषा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र त्वमहिना वृत्रेण परिष्ठिता आक्रांताः पूर्वीर्बह्वीरप उदकानि स्रवितवै स्रवितुं कः । अकार्षीः । धेना नद्यश्च त्वत्त्वत्तो हेतो रथ्यो न रथिन इव वावक्रे । निर्गच्छंति ॥ वकि कौटिल्य इति धातुः ॥ विश्वा विश्वानि कृत्रिमाणि भुवनानि च भीषा त्वत्तो भीत्या रेजंते । कंपंते ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, you have made the many waters, held around and overcome by Ahi, that is Vṛtra, able to flow. And the rivers (dhenāḥ), because of you, come forth like charioteers; the root vak is in the sense of crookedness. All the created worlds tremble from fear of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- अहिना (*ahinā*)—by the asura Vṛtra
+- परिष्ठिताः (*pariṣṭhitāḥ*)—enveloped
+- पूर्वीः (*pūrvīḥ*)—many
+- आपः (*āpaḥ*)—waters
+- स्रवितवै (*sravitavai*)—so that they could flow
+- कः (*kaḥ*)—you have made
+- धेनाः (*dhenāḥ*)—the rivers too
+- त्वत् (*tvat*)—in accordance with your rule
+- रथ्यो न (*rathyo na*)—like drivers of chariots
+- वावक्रे (*vāvakre*)—come forth and flow
+- विश्वा (*viśvā*)—all
+- कृत्रिमाणि (*kṛtrimāṇi*)—the worlds too
+- भीषा (*bhīṣā*)—from fear of you
+- रेजंते (*rejaṃte*)—tremble
+
+### Printed p. 18
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, you have made the many waters enveloped by the asura Vṛtra able to flow. The rivers too, in accordance with your rule, come forth and flow like charioteers. All the worlds too tremble from fear of you.
+
+##### English translation
+You, hero, have enabled the many waters arrested by Ahi to flow : by you the rivers rushed forth like charioteers : all created worlds trembled through fear of you.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भी॒मो वि॑वे॒षायु॑धेभिरेषा॒मपां॑सि॒ विश्वा॒ नर्या॑णि वि॒द्वान् ।  
+> इंद्रः॒ पुरो॒ जर्हृ॑षाणो॒ वि दू॑धो॒द्वि वज्र॑हस्तो महि॒ना ज॑घान ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भीमः । विवेष । आयुधेभिः । एषां । अपांसि । विश्वा । नर्याणि । विद्वान् ।  
+> इंद्रः । पुरः । जर्हृषाणः । वि । दूधोत् । वि । वज्रहस्तः । महिना । जघान ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो नर्याणि नरहितानि विश्वा विश्वान्यपांसि कर्माणि विद्वान् ज्ञातवान् आयुधे-भिरायुधैर्भीमो भयंकरः सन् एषां ॥ कर्माणि षष्ठी ॥ एतानसुरान् विवेष । व्याप्तवान् । पुरश्च तेषां वि दूधोत् । आकंपयत् । अपि च जर्हृषाणो हृष्यन् महिना महिम्ना युक्तो वज्रहस्तः सन् तान् जघान ॥
+
+##### Gist of the bhāṣya
+
+Indra, knowing all the deeds beneficial to men, fearsome with his weapons, advanced against these asuras and shook their cities. Moreover, exulting, endowed with greatness, vajra in hand, he slew them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- नर्याणि (*naryāṇi*)—beneficial to men
+- विश्वा अपांसि (*viśvā apāṃsi*)—all deeds
+- विद्वान् (*vidvān*)—knowing
+- आयुधेभिः (*āyudhebhiḥ*)—together with his weapons
+- भीमः (*bhīmaḥ*)—fearsome
+- एषां (*eṣāṃ*)—facing these asuras
+- विवेष (*viveṣa*)—advanced
+- पुरः (*puraḥ*)—their cities too
+- वि दूधोत् (*vi dūdhot*)—made to tremble
+- जर्हृषाणः (*jarhṛṣāṇaḥ*)—showing joy
+- महिना (*mahinā*)—and endowed with greatness
+- वज्रहस्तः (*vajrahastaḥ*)—holding the thunderbolt in his hand
+- वि जघान (*vi jaghāna*)—slew them all
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, knowing all the deeds beneficial to men, fearsome with his weapons, faced these asuras and advanced. He made their cities tremble. Showing joy, endowed with greatness, and holding the thunderbolt in his hand, he slew them all.
+
 ---
 
-**Progress note:** Done through printed p. 12. Vol 22 sukta 20 rks 4-10 (start)
+**Progress note:** Done through printed p. 18. Vol 22 sukta 20 rk 10, sukta 21 rks 1-4
