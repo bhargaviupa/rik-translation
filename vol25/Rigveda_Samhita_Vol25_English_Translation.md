@@ -16549,6 +16549,210 @@ The vajra weapon made of steel is firmly held by Indra. In his arms there is the
 ##### English translation
 Indra’s iron thunderbolt is grasped firmly in his hand; enormous strength resides in his arms; when he goes forth (to battle), there is ample employment for his head and his mouth, and (his followers) rush near him to hear his commands.
 
+### Printed p. 428
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मन्ये॑ त्वा य॒ज्ञियं॑ य॒ज्ञिया॑नां॒ मन्ये॑ त्वा॒ च्यव॑न॒मच्यु॑तानाम् ।  
+> मन्ये॑ त्वा॒ सत्व॑नामिंद्र के॒तुं मन्ये॑ त्वा वृष॒भं च॑र्षणी॒नाम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मन्ये । त्वा । यज्ञियम् । यज्ञियानाम् । मन्ये । त्वा । च्यवनम् । अच्युतानाम् ।  
+> मन्ये । त्वा । सत्वनाम् । इंद्र । केतुम् । मन्ये । त्वा । वृषभम् । चर्षणीनाम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदादयः प्रत्यक्षाः । हे इंद्र त्वा त्वां यज्ञियानां यज्ञार्हाणां देवानामपि यज्ञियं पुरस्तादेव यज्ञार्हमिति मन्ये अवबुध्ये। तथा त्वा त्वाम् अच्युतानां च्युतिरहितानामपि पर्वतानां च्यवनं च्यावयितारं वज्रेण विभेदकमिति मन्ये जानामि । यद्वा । अच्युतानां बलेन च्यावयितुमशक्यानां बलिनां वीराणामपि स्वबलेन विद्रावयितारमिति' जाने । किंच हे इंद्र सत्वनाम्। 'षण संभक्तौ'। क्वनिप् । संभजमानानां भटानां केतुम् उच्छ्रितमिति मन्ये । यद्वा । सत्वनां स्तुतिभिः हविर्भिर्वा संभक्तॄणां यष्टॄणां केतुमात्मनः प्रज्ञापकं तेषां पूजनीयमिति वा मन्ये । तथा त्वा त्वां चर्षणीनां मनुष्याणां वृषभम् अभिमतफलवर्षकमिति मन्ये जानामि ॥
+
+##### Gist of the bhāṣya
+
+He first notes एतदादयः प्रत्यक्षाः (*etadādayaḥ pratyakṣāḥ*). O Indra, I think, that is, I understand, you to be, among the gods who are worthy of sacrifice, यज्ञियं (*yajñiyaṃ*), the one worthy of sacrifice before all others. Likewise I know you to be the च्यवनं (*cyavanaṃ*), the one who causes to fall, of the अच्युतानां (*acyutānāṃ*) mountains, which are without falling, the one who splits them with the vajra. Or else: of the strong heroes who cannot be dislodged by force, the one who drives them away by his own strength. Moreover, O Indra, I think you to be the केतुम् (*ketum*), the banner raised high, of the सत्वनाम् (*satvanām*), the warriors who attend upon you. Or else: of the sacrificers who attend upon you with praises or oblations, the banner, the one who makes himself known, and is to be worshipped by them. Likewise I know you to be the वृषभम् (*vṛṣabham*), the showerer of the desired fruit, of men, चर्षणीनां (*carṣaṇīnāṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वा (*tvā*)—you
+- यज्ञियानां (*yajñiyānāṃ*)—among the gods worthy of sacrifice
+- यज्ञियं (*yajñiyaṃ*)—as the most excellent sharer in the sacrifice
+- मन्ये (*manye*)—I have understood
+- त्वा (*tvā*)—you
+- अच्युतानां (*acyutānāṃ*)—of the firm mountains
+- च्यवनं (*cyavanaṃ*)—as the breaker
+- मन्ये (*manye*)—I have understood
+- इंद्र (*iṃdra*)—O Indra
+- सत्वनां (*satvanāṃ*)—of all the valiant warriors
+- केतुं (*ketuṃ*)—as one who stands in a lofty place like a banner
+- त्वा (*tvā*)—you
+- मन्ये (*manye*)—I have understood
+- त्वा (*tvā*)—you
+- चर्षणीनां (*carṣaṇīnāṃ*)—of all mankind
+- वृषभं (*vṛṣabhaṃ*)—as the granter of desired ends
+- मन्ये (*manye*)—I have understood
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I have understood that among all the gods worthy of sacrifice you alone are the most excellent sharer in the sacrifice, and that you alone are the breaker of the firm mountains. Moreover, among all the valiant warriors
+
+### Printed p. 429
+
+you, standing in the loftiest place, are like a banner in their midst, and I have understood that you alone are the granter of desired ends to all mankind.
+
+##### English translation
+I think you the most worthy among those worthy of sacrifice ; I think you the overthrower of the imperishable (mountains) ; I think you, Indra, the banner of warriors ; I think you the showerer (of blessings) to men.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्वज्रं॑ बा॒ह्वोरिं॑द्र॒ धत्से॑ मद॒च्युत॒मह॑ये॒ हंत॒वा उ॑ ।  
+> प्र पर्व॑ता॒ अन॑वंत॒ प्र गावः॒ प्र ब्र॒ह्माणो॑ अभि॒नक्षं॑त॒ इंद्र॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । वज्रम् । बाह्वोः । इंद्र । धत्से । मदऽच्युतम् । अहये । हंतवै । ऊं इति ।  
+> प्र । पर्वताः । अनवंत । प्र । गावः । प्र । ब्रह्माणः । अभिऽनक्षंतः । इंद्रम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र बाह्वोः वज्रम् आयुधम् । कीदृशम् । मदच्युतं शत्रूणां मदस्य च्यावयितारं यत् यदा आ धत्से आदधासि । किमर्थम् । अहये अहिनामानमसुरं मेघं वा हंतवै । उ इत्यवधारणे । हंतुमेव । किंच यदा वेंद्रेणाहिनामकेऽसुरे हते सति पर्वताः जगदापूरका मेघाः प्र अनवंत । ‘नु शब्दे । प्रकर्षेणाशब्दयन् । यदा वा गावः तत्स्थान्युदकानि च प्रकर्षेण ध्वनिमकुर्वन् । उदकान्यध्वनयन्नित्यत्र याजुषो निगमः- ‘ यददः संप्रयतीरहावनदता हते तस्मादा नद्यो नाम स्थ' (तै. सं. ५. ६. १. २; अ. सं. ३. १३. १ ) इति । तुरीयः पादः परोक्षः । तदानीम् अभिनक्षंतः अभित इंद्रं स्तुतिभिर्हविर्भिर्गच्छंतः ब्रह्माणः ब्राह्मणाः इंद्रं पर्यचरन् । यद्वा । ब्रह्माणः ।  ‘ बृह वृद्धौ'। प्रवृद्धाः पर्वतादय इंद्रमस्तुवन्निति ॥ ॥ ३२ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you take up in your arms the वज्रम् (*vajram*), the weapon, of what kind? मदच्युतं (*madacyutaṃ*), the one that drives out the pride of enemies. For what purpose? अहये (*ahaye*), to slay हंतवै (*haṃtavai*) Ahi, the asura of that name, or the cloud; उ (*u*) is for emphasis: to slay indeed. Moreover, when Ahi, the asura of that name, has been killed by Indra, the पर्वताः (*parvatāḥ*), the clouds that fill the world, प्र अनवंत (*pra anavaṃta*), roared forth; or else the गावः (*gāvaḥ*) and the waters standing in them made a great sound. About the waters sounding there is this passage of the Yajurveda: यददः संप्रयतीरहावनदता हते तस्मादा नद्यो नाम स्थ (*yadadaḥ saṃprayatīrahāvanadatā hate tasmādā nadyo nāma stha*) (Tai. Saṃ. 5. 6. 1. 2; A. Saṃ. 3. 13. 1) **NOTE**. The fourth pāda is in the indirect person. Then the ब्रह्माणः (*brahmāṇaḥ*), the brahmins, अभिनक्षंतः (*abhinakṣaṃtaḥ*), approaching Indra on all sides with praises and oblations, served Indra. Or else: ब्रह्माणः (*brahmāṇaḥ*) are those who have grown great, the mountains and the rest; they praised Indra.
+
+### Printed p. 430
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- मदच्युतं (*madacyutaṃ*)—that destroys the pride of enemies
+- वज्रं (*vajraṃ*)—the vajra weapon **NOTE**
+- अहये (*ahaye*)—the asura of the name Ahi
+- हंतवै (*haṃtavai*)—to destroy
+- बाह्वोः (*bāhvoḥ*)—with your arms
+- आ धत्से (*ā dhatse*)—you hold (when)
+- पर्वताः (*parvatāḥ*)—the clouds
+- प्र असवंत (*pra asavaṃta*)—roar in fear of you (when)
+- गावः प्र (*gāvaḥ pra*)—when the waters in the clouds also roar, then
+- अभिसक्षंतः (*abhisakṣaṃtaḥ*)—encircling you and joining you with praises
+- ब्रह्माणः (*brahmāṇaḥ*)—the praisers
+- इंद्रं प्र (*iṃdraṃ pra*)—you, the lord, they will serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you take in your hand the vajra weapon that destroys the pride of enemies, in order to destroy Ahi, and when, in fear of you, the clouds and the waters that are in the clouds roar and bow before you, then the praisers, who draw near and encircle you with praises, will serve you, the lord.
+
+##### English translation
+When, Indra, you grasp in your arms your pride humbling thunderbolt to smite Ahi, when the mountain-clouds loudly roar and the cows loudly bellow, then the Brahmans offer their worship to Indra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ ष्टवाम॒ य इ॒मा ज॒जान॒ विश्वा॑ जा॒तान्यव॑राण्यस्मात् ।  
+> इंद्रे॑ण मि॒त्रं दि॑धिषेम गी॒र्भिरुपो॒ नमो॑भिर्वृष॒भं वि॑शेम ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ऊं इति । स्तवाम । यः । इमा । जजान । विश्वा । जातानि । अवराणि । अस्मात् ।  
+> इंद्रेण । मित्रम् । दिधिषेम । गीःऽभिः । उपो इति । नमःऽभिः[२] । वृषभम् । विशेम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परस्परं स्तोतार आहुः । तमु तमेवेंद्रं वयं संहत्य स्तवाम स्तोत्रं करवाम । यः इंद्रः इमा इमानि भूतानि जजान जनयामास । तस्मात् अस्मात् इंद्रादेव विश्वा विश्वानि सर्वाणि वस्तुजातानि सर्वाणि जगंति वा अवराणि अवरकालीनानि पश्चाद्भवानि भवंति । तेनानेन इंद्रेण वयं गीर्भिः स्तुतिभिः मित्रम् । लुप्तभावप्रत्ययेन निर्देशः । मैत्रीं दिधिषेम धारयेम । ‘धिष धारणे इति धातुं केचिद्वदंति । यद्वा । मित्रम् । छांदसमेकवचनम् । वयमिंद्रेण सह मित्राणि सुहृदो भवामेति गीर्भिरिंद्रं शब्दयेम ।  ‘ धिष शब्दे । जौहोत्यादिकः । अत्र व्यत्ययेन द्विविकरणता श्लुश्च शश्च। ततः नमोभिः क्रियमाणैर्नमस्कारैर्दीयमानैर्हविर्भिर्वा वृषभं कामानां वर्षकमिंद्रम् उपो विशेम अस्मदभिमुखमेव कुर्याम ॥
+
+##### Gist of the bhāṣya
+
+The praisers say to one another: that very Indra let us together praise, स्तवाम (*stavāma*), let us make a hymn to him, who जजान (*jajāna*), brought forth, these beings. From this very Indra all विश्वा (*viśvā*) things that are produced, or all the worlds, are अवराणि (*avarāṇi*), later in time, coming after. Therefore with this Indra, by our गीर्भिः (*gīrbhiḥ*), our praises, let us hold दिधिषेम (*didhiṣema*) friendship, मित्रम् (*mitram*); some say the root is one meaning "to hold". Or else: मित्रम् (*mitram*) is a Vedic singular: let us become friends and companions with Indra, and let us make Indra resound with hymns. Then, with नमोभिः (*namobhiḥ*), with obeisances being made or oblations being given, let us उपो विशेम (*upo viśema*), make turn toward us, Indra, the वृषभं (*vṛṣabhaṃ*), the showerer of desires.
+
+### Printed p. 431
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- इमा (*imā*)—the whole world
+- जजान (*jajāna*)—produced
+- तं (*taṃ*)—that same Indra
+- स्तवाम (*stavāma*)—let us praise
+- अस्मात् (*asmāt*)—from this very Indra
+- विश्वा जातानि (*viśvā jātāni*)—the whole universe that was produced
+- अवराणि (*avarāṇi*)—is of later date (not so ancient as he)
+- गीर्भिः (*gīrbhiḥ*)—by our praises
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- मित्रं (*mitraṃ*)—friendship
+- दिधिषेम (*didhiṣema*)—let us acquire
+- वृषभं (*vṛṣabhaṃ*)—Indra, the showerer of desires
+- नमोभिः (*namobhiḥ*)—together with oblations
+- उपो विशेम (*upo viśema*)—let us approach
+
+##### भावार्थ (Bhāvārtha)
+
+Let us praise that same Indra who produced the whole world. The whole universe produced from this very Indra is of later date than he. Let us acquire friendship with Indra by our praises; let us approach Indra, the showerer of desires, together with oblations.
+
+##### English translation
+Let us praise that Indra who produced all these things, to him all beings are subsequent; may we maintain friendship with Indra by our hymns, let us bring the showerer (of blessings) near us by our praises.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒त्रस्य॑ त्वा श्व॒सथा॒दीष॑माणा॒ विश्वे॑ दे॒वा अ॑जहु॒र्ये सखा॑यः ।  
+> म॒रुद्भि॑रिंद्र स॒ख्यं ते॑ अ॒स्त्वथे॒मा विश्वाः॒ पृत॑ना जयासि ॥ ७ ॥
+
+### Printed p. 432
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृत्रस्य । त्वा । श्वसथात् । ईषमाणाः । विश्वे । देवाः । अजहुः । ये । सखायः ।  
+> मरुत्ऽभिः । इंद्र । सख्यम् । ते । अस्तु । अथ । इमाः । विश्वाः । पृतनाः । जयासि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव ये विश्वे देवाः प्राक् सखायः संग्रामे सखित्वं कुर्यामेति' मित्राण्यभवन ते सर्वे देवाः वृत्रस्य वृत्रासुरस्य श्वसथात् । श्वसेरौणादिकोऽथप्रत्ययः । सर्वानागच्छतो दृष्ट्वा तेषां भीत्युत्पादनाय वृत्रासुरः श्वासमकार्षीत् । श्वासाद्भीताः संतः अत एव ईषमाणाः सर्वतः पलायमानाः
+> त्वा त्वाम् अजहुः संग्रामे त्यक्तवंतः । एवं सति हे इंद्र मरुद्भिः सह सख्यं सखिभावः ते तव अस्तु । ये मरुतस्त्वां न परित्यजंति तैः सहेति । अथ अनंतरम् इमाः विश्वाः पृतनाः शत्रुसेनाः जयासि स्वबलेनाभिभवसि । अनेन वृत्रं घ्नंतमिंद्रमाह । अत्र ‘इंद्रो वै वृत्रं हनिष्यन्' (ऐ. ब्रा. ३. २०) इत्यादि ब्राह्मणमनुसंधेयम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those विश्वे देवाः (*viśve devāḥ*), all the gods, who were formerly your friends, who became friends with the thought "let us be friends in battle", all those gods, on account of the श्वसथात् (*śvasathāt*), the breath, of Vṛtra, the asura Vṛtra: seeing them all coming, Vṛtra the asura breathed out, to produce fear in them. Frightened by the breath, and hence ईषमाणाः (*īṣamāṇāḥ*), running away in all directions, they अजहुः (*ajahuḥ*), forsook, you in the battle. This being so, O Indra, let there be friendship, सख्यं (*sakhyaṃ*), for you with the Maruts, with those Maruts who do not abandon you. Then you जयासि (*jayāsi*) conquer, overcome by your own strength, इमाः विश्वाः पृतनाः (*imāḥ viśvāḥ pṛtanāḥ*), all these armies of enemies. By this he speaks of Indra slaying Vṛtra. Here the Brāhmaṇa beginning इंद्रो वै वृत्रं हनिष्यन् (*iṃdro vai vṛtraṃ haniṣyan*) (Ai. Brā. 3. 20) is to be recalled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यो विश्वे देवाः (*yo viśve devāḥ*)—all the gods who
+- सखायः (*sakhāyaḥ*)—were formerly your friends, all of them
+- वृत्रस्य (*vṛtrasya*)—of the asura Vṛtra
+- श्वसथात् (*śvasathāt*)—frightened by the sound of his breathing out
+- ईषमाणाः (*īṣamāṇāḥ*)—fleeing
+- त्वा (*tvā*)—you
+- अजहुः (*ajahuḥ*)—forsook
+- इंद्र (*iṃdra*)—O Indra
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts alone
+- ते (*te*)—your
+- सख्यं (*sakhyaṃ*)—friendship
+- अस्तु (*astu*)—let it remain firm
+- अथ (*atha*)—if that friendship exists
+- विश्वाः (*viśvāḥ*)—all
+- इमाः पृतनाः (*imāḥ pṛtanāḥ*)—these hostile armies
+- जयासि (*jayāsi*)—you can conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, all the gods who were formerly your friends, frightened by the sound of the breathing out of the asura Vṛtra, not knowing where to turn, fled and forsook you. Do you alone keep firm friendship with the Maruts. With the help of that friend you will surely be able to conquer all the armies of enemies.
+
+##### English translation
+All the gods who were your friends forsook you, flying away at the snorting of Viitra; O Indra, let there be friendship to you with the Maruts; then you conquer all these hostile armies.
+
+### Printed p. 433
+
+##### विशेषविषयगळु (Special Topics)
+
+In former times, when Indra was fighting with the asura Vṛtra, the gods who were with Indra, frightened by the terrible breathing sound of the asura Vṛtra, ran away. Indra was left without the help of the gods. At that time the Maruts alone did not leave Indra but stayed near him and encouraged him in the battle. Because they helped in this time of difficulty, firm friendship arose between the Maruts and Indra: this account of an earlier story is stated in this Ṛk. The explanation of this matter in the Aitareya Brāhmaṇa is as follows.
+इंद्रो वै वृत्रं हनिष्यस्सर्वा देवता अब्रवीदसु मोपतिष्ठध्वमुप मा ह्वयध्वमिति तथेति तं हनिष्यंत आप्रवन्सो वेन्मां वै हनिष्यंत आब्रवंति हन्तेमान्वीषया इति तानभिप्राश्वसीत्रस्य श्वसथादीषमाणा विश्वे देवा अप्रवन्मरुतो हैसं नाजहुः प्रहर भगवो जहि वीरयस्वेत्येवैनमेता वाचं वदंत उपातिष्ठंत ॥ (*iṃdro vai vṛtraṃ haniṣyassarvā devatā abravīdasu mopatiṣṭhadhvamupa mā hvayadhvamiti tatheti taṃ haniṣyaṃta āpravanso venmāṃ vai haniṣyaṃta ābravaṃti hantemānvīṣayā iti tānabhiprāśvasītrasya śvasathādīṣamāṇā viśve devā apravanmaruto haisaṃ nājahuḥ prahara bhagavo jahi vīrayasvetyevainametā vācaṃ vadaṃta upātiṣṭhaṃta ‖*)
+(Ai. Brā. 12-20) **NOTE**
+In former times Indra, intending to slay the asura Vṛtra, called all the gods to him and said: "O gods, I am now ready to slay the asura Vṛtra. All of you must be with me and help me." The gods agreed, "So be it", and came along with Indra. Vṛtra, seeing the gods coming, thought in his mind: "These gods are coming to kill me. I shall devise a means for this: I shall make my body grow large and frighten them." Accordingly he made his body extremely large. (Earlier, about Vṛtra's growing, it is said in the śruti sentence स इषुमात्रमिषुमात्रं विष्वज्ञ वर्धत स इमां-ल्लोकानवृणोद्यदिमांल्लोकानवृणोत्तद्वृत्रस्य वृत्रत्वं (*sa iṣumātramiṣumātraṃ viṣvajña vardhata sa imāṃ-llokānavṛṇodyadimāṃllokānavṛṇottadvṛtrasya vṛtratvaṃ*) that he grew each day as far as an arrow shot from a bow goes. That is, this asura, growing each day to the extent that an arrow shot from a bow travels, covered this whole world. Because he thus covered the whole world, this asura got the name Vṛtrāsura: so it was said earlier, on another occasion.) Then Vṛtra displayed his huge body and by his terrible breath made the gods afraid. The gods, seeing the colossal form of this asura and his terrible breath, which seemed to spew embers, were frightened and fled in various directions. At that time the air of Vṛtra's breath was as terrible as the wind at the time of dissolution that burns everything. Before this wind the gods looked like mere atoms. Though the gods thus fled in fear, the Maruts who were with Indra alone did not leave Indra but said: "O Indra, blessed lord, do not fear; with your vajra weapon
+
 ---
 
-**Progress note:** Done through printed p. 427. Mandala 8 sukta 96 intro and Rks 1-3
+**Progress note:** Done through printed p. 433. Mandala 8 sukta 96 Rks 4-7, start of Special Topics on Vrtra
