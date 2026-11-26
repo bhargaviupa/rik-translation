@@ -9901,6 +9901,186 @@ Aṅgiras: अंगति सर्वत्र गच्छतीत्यं�
 
 In this sūkta and in many other Ṛks of the Ṛgveda the word Aṅgiras is used to address Agni. An explanation on this matter is needed. ये‍ऽङ्गाराः आसंस्ते‍ऽङ्गिरसो‍ऽभवन् (*ye 'ṅgārāḥ āsaṃste 'ṅgiraso 'bhavan*) (Ai. Brā. 3-34): the embers (aṅgāras) connected with Agni received the name Aṅgirasas; so it is said in the Aitareya Brāhmaṇa in the story of Prajāpati's lust for his daughter. In former times Prajāpati (Brahmā) thought in his mind of his own daughter (Uṣas or Dyu) with an evil feeling (lustful desire). The gods came to know of it and thought that he must be stopped from doing this evil deed. But Prajāpati
 
+### Printed p. 248
+
+had no power to punish him and restrain him from this deed. Therefore all the gods together united their own terrible forms, brought forth the god called Rudra, and told him to punish this Prajāpati. Knowing this, Prajāpati took fright, assumed the form of a deer and leapt into the atmosphere. Prajāpati, in the form called the Mṛga star, can be seen even now. Then Rudra appeared in the form of the Ārdrā star and discharged an arrow at Prajāpati. Then Prajāpati's seed was spilled. The Maruts scattered that seed in various directions and burnt it up. From it (from that seed) first Āditya was born and afterwards Bhṛgu Vāruṇi. From the remaining aṅgāras (embers) the Aṅgirases came into being, so it is said.
+
+In the Purāṇas and elsewhere the seer Aṅgirās is said to be one of the mind-born sons of Brahmā. In the Vedas this Aṅgiras is a very important seer and the original ancestor of many famous seers. This matter is found in the Vanaparva of the Mahābhārata, in the dialogue of Mārkaṇḍeya and Yudhiṣṭhira. For a reason, Agni left his duty and went off to the forest in disguise. Then the seer called Aṅgirā did Agni's work in the sacrifice, carrying the shares of oblation to the gods in place of Agni. And he prayed Agni to come back and perform his duty. Because he performed Agni's duties, this seer Aṅgirā became known as Agni's son, and the members of this seer's family as Aṅgirasas.
+
+There are some more such stories in the Purāṇas. Besides these, in the Ṛgveda Saṃhitā itself: ते आंगिरसः सूनवस्ते अग्नेः परिजज्ञिरे (*te āṃgirasaḥ sūnavaste agneḥ parijajñire*) (Ṛ. Saṃ. 10-62-5) it is said plainly that the seers called Aṅgirases are the sons of Agni. Why the commentator did not quote this Ṛk is not understood.
+
+That this seer Aṅgirā belonged to a very ancient time, and that many seers of the Ṛgveda here and there call him the original ancestor of their family, is made plain by some Ṛks of the Ṛgveda.
+
+मनुष्वदग्ने अंगिरस्वदंगिरो ययातिवत्सदने पूर्ववच्छुचे (*manuṣvadagne aṃgirasvadaṃgiro yayātivatsadane pūrvavacchuce*) (Ṛ. Saṃ. 1-31-17) **GLOSS**
+
+### Printed p. 249
+
+अंगिरस्वन्महिव्रते प्रस्कण्वस्य श्रुधी हवं (*aṃgirasvanmahivrate praskaṇvasya śrudhī havaṃ*) (Ṛ. Saṃ. 1-45-3) **GLOSS**
+
+दध्यङ् ह मे जनुषं पूर्वो अंगिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥ (*dadhyaṅ ha me januṣaṃ pūrvo aṃgirāḥ priyamedhaḥ kaṇvo atrirmanurviduste me pūrve manurviduḥ ‖*) (Ṛ. Saṃ. 1-139-9) **GLOSS**
+
+These Ṛks make known that the seer Aṅgirā was the forefather of many seers. Among the descendants of this seer Aṅgirā, one called Atharvan was the chief. He had three sons, Bṛhaspati, Gotama and Vṛṣaṇa. Vṛṣaṇa was the son born to this Atharvaṇa by his wife called Pathyā. His affair is indicated in many places in the Veda. Vṛṣaṇa's son was Sudhanvan Aṅgira. This Sudhanvan had three sons, Ṛbhu, Vibhvan and Vāja. These three are spoken of in the Veda as the Ṛbhus. It is said that they were pupils of Tvaṣṭṛ Prajāpati. In the family of this seer Aṅgirā there were three seers called Bṛhaspati. The Ṛbhus mentioned before and Bṛhaspati were regarded as gods, and many Ṛks in the Ṛgveda are hymns to them. Of these three Bṛhaspatis, the first, it is a matter of history, killed a Dasyu king called Paṇi and brought back the cows he had carried off, and fought with another Dasyu chief called Dāsa, who ruled on the bank of the river called Aṃśumatī, together with his ten thousand followers, and defeated him. The seer called Bharadvāja, son of another Bṛhaspati, was the priest of Divodāsa, who killed the demon called Śambara. In short, the family of the seer Aṅgirā is very great, and many famous men belonged to this family. In many places in the Ṛgveda, that is, in places where the word Agni should be used, the use of the word Aṅgira is frequent.
+
+Ūrjo napāt: अन्नस्य पुत्र (*annasya putra*). On the question how Agni is the son of food: नपादित्यपत्यनामु । हविर्भिर्वर्धमानत्वात् (*napādityapatyanāmu | havirbhirvardhamānatvāt*); napāt means offspring or son. Since Agni is made to grow by the oblation offered into Agni, Agni can be called the son of the oblation or of food. Or else नपादिति नप्ता हविर्लक्षणस्यान्नस्य नप्तः (*napāditi naptā havirlakṣaṇasyānnasya naptaḥ*): अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः । वृष्टे-रोषधयु ओषधीभ्यो‍ऽग्निरित्यन्नस्य नप्ता ॥ अ (*agnau prāstāhutiḥ samyagādityamupatiṣṭhate | ādityājjāyate vṛṣṭiḥ | vṛṣṭe-roṣadhayu oṣadhībhyo 'gnirityannasya naptā ‖ a*). Or else the word ūrjo napāt can be given the meaning grandson of food (son's son). How Agni is the grandson of food: the oblations and the like offered into Agni go to the Sun in heaven. From the Sun comes rain (vṛṣṭi), from rain the plants and trees, and from the plants (from the trees, that is, from the arani sticks in the form of trees) Agni too is produced. Therefore Agni is said to be the napt, that is, the grandson, of the oblation or of food.
+
+### Printed p. 250
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे सहसो यहो (*he sahaso yaho*)—O Agni, who are born of the application of strength
+- कस्य (*kasya*)—whose
+- यज्ञस्य (*yajñasya*)—sacrificer's
+- मनसा (*manasā*)—joined with mind, we, for you
+- दाशेमु (*dāśemu*)—shall we offer the oblation?
+- इदं नमः (*idaṃ namaḥ*)—this oblation or obeisance
+- कत् (*kat*)—when
+- वोचे उ (*voce u*)—shall I offer or speak?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are born of the application of strength, according to the wish of what sacrifice or what sacrificer shall we offer oblation to you? When shall I offer you this oblation or this praise with obeisance?
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दाशे॑म॒ कस्य॒ मन॑सा य॒ज्ञस्य॑ सहसो यहो ।  
+> कदु॑ वोच इ॒दं नमः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दाशेम । कस्य । मनसा । यज्ञस्य । सहसः । यहो इति ।  
+> कत् । ऊं इति । वोचे । इदम् । नमः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरग्निं प्रति ब्रूते । हे सहसो यहो । यहुरित्यपत्यनाम । बलेन निष्पाद्यमानत्वाद्बलस्य पुत्र हे अग्ने कस्य कीदृशस्य यज्ञस्य यज्ञवतो यजनीयदेववतो यजमानस्य मनसा युक्ताः संतो हवींषि तुभ्यं वयं दाशेम प्रयच्छेम । पूजायां बहुवचनम् । किंच तुभ्यम् इदं नमः हविर्नमस्कारं वा कत् कदा वोचे अहं वदामि । उ इति प्रश्ने । ऋषिः कदा यक्ष्यामि कदा स्तोष्यामीत्यग्निं पृच्छति । वोचे । वच्यादेशस्य लुङ्यात्मनेपद उत्तमैकवचने रूपम् ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+The seer speaks to Agni. O son of strength (सहसो यहो (*sahaso yaho*)): यहुरित्यपत्यनाम (*yahurityapatyanāma*); since he is produced by strength, he is the son of strength. O Agni, of whose sacrifice, of what kind, that is, of what sacrificer who has a sacrifice and gods to be worshipped, joined with the mind, shall we, being so, offer oblations to you? The plural is used for honour. Further, when shall I speak to you this obeisance, or this oblation? The particle उ (*u*) is used in a question: the seer asks Agni when he shall sacrifice and when he shall praise.
+
+### Printed p. 251
+
+##### English translation
+Son of strength, what worshipper's (offerings) shall we present to you with devoted mind, and when shall I utter to you this praise?
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ त्वं हि न॒स्करो॒ विश्वा॑ अ॒स्मभ्यं॑ सुक्षि॒तीः ।  
+> वाज॑द्रविणसो॒ गिरः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । त्वम् । हि । नः । करः । विश्वाः । अस्मभ्यम् । सुऽक्षितीः ।  
+> वाजऽद्रविणसः । गिरः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अध अनंतरं त्वम् । हिरवधारणे । त्वमेव अस्मभ्यं करः कुरु । देहीत्यर्थः । करोतेः । लेट्यडागमः । किमित्यपेक्षायामाह । नः अस्मदीयाः गिरः त्वद्विषयाः विश्वाः सर्वाः स्तुतीरेवं कुरु यथा सुक्षितीः । क्षियंति निवसंत्यत्रेति क्षितयो गृहाः। शोभननिवासाः । यद्वा । क्षितयो मनुष्याः । कल्याणपुत्रपौत्रादियुक्ताः । तथा वाजद्रविणसः अन्नयुक्तधनवतीः । अथवा वाजो दीप्तिः। सर्वतो दीप्तधनाश्च कुरु । त्वमस्माभिः स्तुतः सन् गृहपुत्रान्नधनादीनि देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, now, after this, you alone, the word हि (*hi*) being used for emphasis, do for us, that is, give. What is to be done? He says: make all our praises addressed to you such that they bring सुक्षितीः (*sukṣitīḥ*). kṣitayaḥ are houses, where people dwell; so, good dwellings. Or else kṣitayaḥ are men, possessed of good sons, grandsons and so on. And so वाजद्रविणसः (*vājadraviṇasaḥ*), possessed of food and wealth. Or else वाजो (*vājo*) is radiance: make our wealth shine everywhere. The meaning is: being praised by us, give us houses, sons, food, wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अथ (*atha*)—after this (O Agni)
+- त्वं हि (*tvaṃ hi*)—you yourself
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- करः (*karaḥ*)—give wealth and the like
+- नः (*naḥ*)—our
+- विश्वाः (*viśvāḥ*)—all
+- गिरः (*giraḥ*)—words in the form of praise
+- सुक्षितीः (*sukṣitīḥ*)—houses fit to dwell in, or offspring such as sons and grandsons
+- वाजद्रविणसः (*vājadraviṇasaḥ*)—so that they are rich in food and wealth (make)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may the words of praise that we recite addressed to you, through your favour give us houses fit to dwell in, or offspring such as sons and grandsons, and may those houses and the rest be rich in food, wealth and other abundance.
+
+### Printed p. 252
+
+##### English translation
+Cause all our praises to bring to us excellent dwellings and abun- dance of wealth in food.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्य॑ नू॒नं परी॑णसो॒ धियो॑ जिन्वसि दंपते ।  
+> गोषा॑ता॒ यस्य॑ ते॒ गिरः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कस्य । नूनम् । परीणसः । धियः । जिन्वसि । दम्ऽपते ।  
+> गोऽसाता । यस्य । ते । गिरः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दंपते यदा गार्हपत्ये वर्तसे तदा जायापतिस्वरूपोऽसि । तस्माद्दंपतिशब्देनाग्निरभिधीयते । तथाविध हे अग्ने नूनम् इदानीं कस्य कीदृशस्य जनस्य परीणसः बहूनि धियः कर्माणि जिन्वसि प्रीणयसि । यस्य ते तव संबंधिन्यः गिरः स्तुतयः गोसाता गोसातौ गवां लाभे भवंति खलु । तस्मात्त्वं कुत्र तिष्ठसि । अस्माकमिदानीं गवेच्छा प्रवर्तते । यद्वा । हे अग्ने त्वमिदानीं कस्य कर्माणि प्रीणयसि । न कस्यापीत्यर्थः । अस्माकमेव कर्माणि प्रीणयेति भावः ॥
+> अग्निमंथने ' तं मर्जयंत सुक्रतुम्' इत्येषा । सूत्रितं च -- तं मर्जयंत सुक्रतुं यज्ञेन यज्ञमयजंत देवाः' (आश्व. श्रौ. २. १६ ) इति । ।
+
+##### Gist of the bhāṣya
+
+O lord of the house (दंपते (*daṃpate*)), when you are in the Gārhapatya fire you are in the form of wife and husband; therefore Agni is denoted by the word दंपति (*daṃpati*). Such an Agni, now, whose many acts (धियः (*dhiyaḥ*), rites) do you gladden? Whose praises of you bring wealth of cows? Then where do you stay? Our desire for cows is now at work. Or else: O Agni, whose rites do you now gladden? The meaning is: of no one else; gladden our rites. In the kindling of fire by friction the Ṛk तं मर्जयंत सुक्रतुम् (*taṃ marjayaṃta sukratum*) is used, and it is laid down in the sūtra तं मर्जयंत सुक्रतुं (*taṃ marjayaṃta sukratuṃ*) with यज्ञेन यज्ञमयजंत देवाः (*yajñena yajñamayajaṃta devāḥ*) (Āśv. Śrau. 2. 16). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दंपते (*daṃpate*)—O Agni, who stand in the Gārhapatya fire-pit and are in the form of wife and husband
+- नूनं (*nūnaṃ*)—now
+- कस्य (*kasya*)—whose
+- परीणसः (*parīṇasaḥ*)—abundant
+- धियः (*dhiyaḥ*)—rites
+- जिन्वसि (*jinvasi*)—gladden you?
+- यस्य (*yasya*)—whose (recited by whom)
+- ते गिरः (*te giraḥ*)—words of praise addressed to you
+- गोसाता (*gosātā*)—can they bring the gain of cows?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who stand in the Gārhapatya fire, whose manifold sacrificial rites do you now delight in? To whose words of praise, recited addressed to you, are you pleased to grant cows?
+
+### Printed p. 253
+
+##### English translation
+Whose many offerings do you gladden, Agni,—you who are the lord of the house, and whose praises bring wealth of cows ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं म॑र्जयंत सु॒क्रतुं॑ पुरो॒यावा॑नमा॒जिषु॑ ।  
+> स्वेषु॒ क्षये॑षु वा॒जिन॑म् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । मर्जयंत । सुऽक्रतुम् । पुरःऽयावानम् । आजिषु ।  
+> स्वेषु । क्षयेषु । वाजिनम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुक्रतुं शोभनप्रज्ञं सुकर्माणं वा आजिषु संग्रामेषु पुरोयावानं शत्रुहननार्थं पुरत एव गंतारं वाजिनं बलवंतं तादृशमग्निं यजमानाः स्वेषु आत्मीयेषु क्षयेषु गृहेषु मर्जयंत निर्मथितमग्निमलंकुर्वंति । परिचरंतीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers adorn in their own houses (स्वेषु क्षयेषु (*sveṣu kṣayeṣu*), गृहेषु (*gṛheṣu*)) such an Agni: सुक्रतुं (*sukratuṃ*), of good wisdom or of good deeds; पुरोयावानं (*puroyāvānaṃ*), who goes in front in battles, in order to slay the enemies; वाजिनं (*vājinaṃ*), mighty. They adorn, that is, they attend upon, the Agni who has been churned out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतुं (*sukratuṃ*)—the doer of good works, or the conductor of the sacrificial rites
+- आजिषु (*ājiṣu*)—in battles
+- पुरोयावानं (*puroyāvānaṃ*)—who rushes forward to slay enemies
+- वाजिनं (*vājinaṃ*)—and mighty, such Agni, the sacrificers
+- स्वेषु क्षयेषु (*sveṣu kṣayeṣu*)—in their own houses
+- मर्जयंत (*marjayaṃta*)—adorn and worship
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers who perform sacrifice adorn and worship in their own houses Agni, the doer of good works, or the conductor of the sacrificial rites, who rushes forward in battles to slay enemies, and who is exceedingly mighty.
+
 ---
 
-**Progress note:** Done through printed p. 247. Mandala 8 rk 9 of sukta 83, sukta 84 rks 1-4, pp. 242-247
+**Progress note:** Done through printed p. 253. Mandala 8 sukta 84 rks 5-8 and special topics on Angiras, pp. 248-253
