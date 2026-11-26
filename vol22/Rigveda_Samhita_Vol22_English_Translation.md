@@ -1025,6 +1025,260 @@ O Indra, may we, who grow by your praises, be your friends on all days. O Indra,
 ##### English translation
 May we, daily increasing in reverence, be (regarded) Indra,(as) your friends : through the protection of you, surpasser in greatness, may (your worshippers) repulse the attack of the foe in battle, the strength of the malevolent.
 
+### Printed p. 25
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स न॑ इंद्र॒ त्वय॑ताया इ॒षे धा॒स्त्मना॑ च॒ ये म॒घवा॑नो जु॒नंति॑ ।  
+> वस्वी॒ षु ते॑ जरि॒त्रे अ॑स्तु श॒क्तिर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । इंद्र । त्वयतायै । इषे । धाः । त्मना । च । ये । मघवानः । जुनंति ।  
+> वस्वी । सु । ते । जरित्रे । अस्तु । शक्तिः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स त्वं त्वयताया इषे त्वया दत्तमन्नं भोक्तुं नोऽस्मान् धाः । धारय । ये च मघवानो हविष्मंतस्त्मना स्वयमेव जुनंति हवींषि त्वां प्रति प्रेरयंति तानपि त्वयताया इषे धाः । अपि च वस्वीष्वत्यंतं प्रशस्तासु स्तुतिषु ते तव जरित्रे स्तोत्रे मह्यं शक्तिः सामर्थ्यमस्तु । यद्वा । जरित्रे मह्यं ते तव वस्वी षु प्रशस्ता शक्तिर्दानमस्तु । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you, for the food given by you (त्वयताया इषे (*tvayatāyā iṣe*)), sustain us (धाः (*dhāḥ*), "hold, maintain") that we may enjoy it. And those wealthy in oblations (मघवानः (*maghavānaḥ*)) who of themselves (त्मना (*tmanā*)) send their oblations towards you (जुनंति (*junaṃti*)), them also sustain for that food. Moreover, in the exceedingly excellent praises (वस्वीषु (*vasvīṣu*)) of you, let ability (शक्तिः (*śaktiḥ*)) be in me, your praiser (जरित्रे (*jaritre*)). Or else: let your excellent शक्तिः (*śaktiḥ*), that is, gift, be for me, the praiser. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वयतायै (*tvayatāyai*)—given by you
+- इषे (*iṣe*)—to eat the food
+- नः (*naḥ*)—us
+- धाः (*dhāḥ*)—make us worthy
+- ये (*ye*)—which sacrificers
+- मघवानः (*maghavānaḥ*)—being possessed of oblations
+- त्मना (*tmanā*)—of their own impulse
+- जुनंति (*junaṃti*)—offer oblations to you, make them also worthy of that food
+- ते (*te*)—your
+- जरित्रे (*jaritre*)—to me, the praiser
+- शक्तिः (*śaktiḥ*)—ability
+- अस्तु (*astu*)—let there be fullness (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make us worthy to eat the food given by you. Those sacrificers who, being possessed of oblations, offer oblations to you of their own impulse, make them also worthy of that food. Let me, your praiser, have that same ability. O Indra and the other gods, always protect us with blessings.
+
+##### English translation
+Enable us, Indra, (to partake of) food granted by you, as well as those who, opulent (in sacrificial presentation), spontaneously offer the
+
+### Printed p. 26
+
+(oblations) : may there be ability in your adorer (to repeat) many laudations : and do you ever cherish us with blessings.
+
+## Sūkta 22 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिबा सोममिंद्र मंदतु त्वेति नवर्चं पंचमं सूक्तं । अनुक्रम्यते च । पिब नव वैराजमृतेऽस्तामिति वसिष्ठ ऋषिः आदितोऽष्टौ विराजो नवमी त्रिष्टुप् । इंद्रो देवता ॥ दशरात्रे चतुर्थेऽहनि निष्केवल्यशस्त्रे पिबा सोममिंद्रेति षट् स्तोत्रीयानुरूपाः । सूत्रितं च । वैराजं चेत्प्लुष्यं पिबा सोममिंद्र मंदतु त्वेति षट् स्तोत्रीयानुरूपाः । आ. ७ ११ । इति महाव्रतेऽपि निष्केवल्य आद्याः षडृचः । सूत्रितं च पिबा सोममिंद्र मंदतु त्वेति षट् । आ. ५ ३-१० । इति आद्या निष्केवल्यशस्त्रयाज्या । सूत्रितं च पिबा सोममिंद्र मंदतु त्वेति याज्या । आ ५ १५ । इति ॥ चतुर्थेऽहनि माध्यंदिनसवने होत्रकशस्त्रेषु सप्त विराजस्त्रिष्टुबंताः कृत्वो कृतस्तृचः कंसनीयः तत्र न ते गिर इत्याद्याश्चतस्र ऋचः सूक्तं च न ते गिरो अपि मृष्ये तुजस्य प्र वो महे महिवृधे भरध्वं । आ. ७ ११ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sūkta of nine Ṛks beginning पिबा सोममिंद्र मंदतु त्वा (*pibā somamiṃdra maṃdatu tvā*) is the fifth sūkta. It is recorded in the Anukramaṇī: पिब नव वैराजमृतेऽस्तामिति (*piba nava vairājamṛte 'stāmiti*). Vasiṣṭha is the seer; the first eight Ṛks are in the Virāj metre and the ninth is Triṣṭubh; Indra is the deity. In the Daśarātra, on the fourth day, in the Niṣkevalya recitation, the six verses beginning पिबा सोममिंद्र (*pibā somamiṃdra*) are the Stotrīya-anurūpa verses; it is laid down in the sūtra वैराजं चेत्प्लुष्यं पिबा सोममिंद्र मंदतु त्वेति षट् स्तोत्रीयानुरूपाः (*vairājaṃ cetpluṣyaṃ pibā somamiṃdra maṃdatu tveti ṣaṭ stotrīyānurūpāḥ*) (Ā. 7 11). In the Mahāvrata too the first six Ṛks are used in the Niṣkevalya; it is laid down in the sūtra पिबा सोममिंद्र मंदतु त्वेति षट् (*pibā somamiṃdra maṃdatu tveti ṣaṭ*) (Ā. 5 3-10), and the first Ṛk is the yājyā of the Niṣkevalya recitation, as laid down in the sūtra पिबा सोममिंद्र मंदतु त्वेति याज्या (*pibā somamiṃdra maṃdatu tveti yājyā*) (Ā 5 15). On the fourth day, in the midday pressing, in the recitations of the Hotrakas, seven Virāj verses ending with a Triṣṭubh are made into triplets; there the four Ṛks beginning न ते गिरः (*na te giraḥ*) and the sūkta न ते गिरो (*na te giro*) are used, as laid down in the sūtra न ते गिरो अपि मृष्ये तुजस्य प्र वो महे महिवृधे भरध्वं (*na te giro api mṛṣye tujasya pra vo mahe mahivṛdhe bharadhvaṃ*) (Ā. 7 11). **NOTE**
+
+This sūkta beginning पिबा सोममिंद्र मंदतु त्वा (*pibā somamiṃdra maṃdatu tvā*) **NOTE**: Vasiṣṭha is the seer of this sūkta; Indra is the deity; the first eight Ṛks of this sūkta are in the Virāj metre; the ninth Ṛk is in the Triṣṭubh metre. In the Stotrīya-anurūpa of the Niṣkevalya recitation of the fourth day of the sacrifice called Daśarātra, the six Ṛks beginning पिबा सोममिंद्र (*pibā somamiṃdra*) are declared to be Stotrīya-anurūpa verses. Not only that: by the Stotra-sūtra वैराजं चेत्प्लुष्यं पिबा सोममिंद्र मंदतु त्वेति षट् स्तोत्रीयानुरूपाः (*vairājaṃ cetpluṣyaṃ pibā somamiṃdra maṃdatu tveti ṣaṭ stotrīyānurūpāḥ*) (Ā. 7. 11) the first six Ṛks of this sūkta are to be used as Stotrīya-anurūpa mantras, and in the Mahāvrata also मंदतु त्वेति षट् (*maṃdatu tveti ṣaṭ*) (Ā. 5. 3-10) the first Ṛk of this sūkta is to be used as a mantra of the Niṣkevalya recitation. By the sūtra of the Āśvalāyana Śrauta Sūtra पिबा सोममिंद्र मंदतु त्वेति याज्या (*pibā somamiṃdra maṃdatu tveti yājyā*) (Ā. 5. 15) it is extended. In the midday pressing of the fourth day, among the recitation mantras said in the recitations of the Hotrakas, seven Ṛks of the Virāj metre are made into three kṛtas and each priest must recite one kṛta (a kṛta means three Ṛks). Then the application of the four Ṛks of this sūkta beginning न ते गिरः (*na te giraḥ*) (7.6.8) **NOTE** is explained by the Āśvalāyana Śrauta
+
+### Printed p. 27
+
+Sūtra, in the sūtra न ते गिरो अपि मृष्ये तुरस्य प्र वो महे महिवृधे भरध्वं (*na te giro api mṛṣye turasya pra vo mahe mahivṛdhe bharadhvaṃ*) (Ā. 7-11).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॒ सोम॑मिंद्र॒ मंद॑तु त्वा॒ यं ते॑ सु॒षाव॑ हर्य॒श्वाद्रिः॑ ।  
+> सो॒तुर्बा॒हुभ्यां॒ सुय॑तो॒ नार्वा॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । सोमं । इंद्र । मंदतु । त्वा । यं । ते । सुसाव । हरिअश्व । अद्रिः ।  
+> सोतुः । बाहुभ्यां । सुयतः । न । अर्वा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सोमं पिब । स सोमस्त्वा त्वां मंदतु । मादयतु । हे हर्यश्व ते त्वदर्थं सोतुरभिषवकर्तुर्बाहुभ्यामर्वा न रश्मिभ्यामश्व इव सुयतः सुष्ठु परिगृहीतोऽद्रिर्ग्रावा यं सोमं सुषाव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, drink the Soma; may that Soma gladden you. O lord of bay horses, the stone (अद्रिः (*adriḥ*), the pressing-stone), well held (सुयतः (*suyataḥ*)) like a horse (अर्वा न (*arvā na*)) by the reins in the arms of the presser (सोतुः (*sotuḥ*)), has pressed for you the Soma that you are to drink.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यश्व (*haryaśva*)—O lord of the horse named Hari
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- सोतुः (*sotuḥ*)—of the sacrificer who presses the Soma
+- बाहुभ्यां (*bāhubhyāṃ*)—by the arms
+- अर्वा न (*arvā na*)—as a horse is held by the bridle
+- सुयतः (*suyataḥ*)—held fast
+- अद्रिः (*adriḥ*)—the pressing-stone
+- यं (*yaṃ*)—which Soma
+- सुषाव (*suṣāva*)—it has pressed
+- सोमं (*somaṃ*)—that same Soma
+- पिब (*piba*)—drink
+- त्वा (*tvā*)—you
+- मंदतु (*maṃdatu*)—may it (that Soma) gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of the horse named Hari, drink that same Soma which the pressing-stone (the stone for pressing), held fast like a horse held by the bridles, in the arms of the sacrificer who presses the Soma for you, has pressed. May that Soma gladden you.
+
+### Printed p. 28
+
+##### English translation
+Drink, Indra, the Soma : may it exhilarate you, that which the stone tightly held like a horse (by the reins), by the arms of the grinder, has expressed, lord of bay horses, for you,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ मदो॒ युज्य॒श्चारु॒रस्ति॒ येन॑ वृ॒त्राणि॑ हर्यश्व॒ हंसि॑ ।  
+> स त्वामिं॑द्र प्रभूवसो ममत्तु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । मदः । युज्यः । चारुः । अस्ति । येन । वृत्राणि । हरिअश्व । हंसि ।  
+> सः । त्वां । इंद्र । प्रभुवसो इति प्रभु-वसो । ममत्तु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हर्यश्व ते तव यो युज्योऽनुगुणश्चारुः समीचीनो मदो मदकरः सोमोऽस्ति विद्यते येन च पीतेन सोमेन वृत्राणि हंसि हे प्रभूवसो प्रभूतधनेंद्र त्वां स सोमो ममत्तु । मादयतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O lord of bay horses, the Soma that is yours, suited to you (युज्यः (*yujyaḥ*), "agreeable"), fair (चारुः (*cāruḥ*), "excellent") and intoxicating, and by drinking which you slay the Vṛtras, the enemies: O Indra of abundant wealth (प्रभूवसो (*prabhūvaso*)), may that Soma gladden you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रभूवसो (*prabhūvaso*)—possessed of abundant wealth
+- हर्यश्व (*haryaśva*)—and lord of the horse named Hari
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- यः (*yaḥ*)—which Soma
+- युज्यः (*yujyaḥ*)—is suitable
+- चारुः (*cāruḥ*)—charming
+- मदः (*madaḥ*)—and intoxicating
+- अस्ति (*asti*)—is
+- येन (*yena*)—by which drinking of the juice
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- हंसि (*haṃsi*)—you slay
+- सः (*saḥ*)—such a Soma
+- त्वां (*tvāṃ*)—you
+- ममत्तु (*mamattu*)—may it gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of abundant wealth and lord of the horse named Hari, may that Soma gladden you which is suitable for you, and charming and intoxicating, and by drinking the juice of which you become able to slay your enemies.
+
+##### English translation
+May the exhilarating beverage which is fit for and suitable to you, by which, lord of bay horses, you slay Yritras, exhilarate you, Indra, abounding in riches.
+
+### Printed p. 29
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बोधा॒ सु मे॑ मघव॒न्वाच॒मेमां यां ते॒ वसि॑ष्ठो॒ अर्च॑ति॒ प्रश॑स्तिं ।  
+> इ॒मा ब्रह्म॑ सध॒मादे॑ जुषस्व ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बोध । सु । मे । मघवन् । वाचं । आ । इमां । यां । ते । वसिष्ठः । अर्चति । प्रशस्तिं ।  
+> इमा । ब्रह्म । सधमादे । जुषस्व ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र ते तव प्रशस्तिं स्तुतिरूपां यां वाचं वसिष्ठोऽर्चति वदति तामिमां मे वसिष्ठस्य संबंधिनीं वाचं स्वा बोध । सुष्ठ्वभिबुध्यस्व । किंचेमेमानि ब्रह्म ब्रह्माणि सधमादे यज्ञे जुषस्व । सेवस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O wealthy Indra, the speech in the form of praise of you that Vasiṣṭha recites: this speech of me, Vasiṣṭha, understand well (बोध (*bodha*)). Moreover, enjoy (जुषस्व (*juṣasva*), "partake of") these prayers (ब्रह्म (*brahma*)) at the sacrifice (सधमादे (*sadhamāde*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, the wealthy
+- ते (*te*)—your
+- प्रशस्तिं (*praśastiṃ*)—in the form of praise
+- यं वाचं (*yaṃ vācaṃ*)—which word of praise
+- वसिष्ठः (*vasiṣṭhaḥ*)—Vasiṣṭha
+- अर्चति (*arcati*)—offers
+- मे (*me*)—of me, named Vasiṣṭha
+- इमां (*imāṃ*)—this word of praise
+- सु आ बोध (*su ā bodha*)—understand thoroughly
+- इमा ब्रह्म (*imā brahma*)—these hymns
+- सधमादे (*sadhamāde*)—at the sacrifice
+- जुषस्व (*juṣasva*)—partake of
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, understand, by considering it, this word of praise of me, called Vasiṣṭha, which Vasiṣṭha offers to you in the form of praise. Partake of all these hymns at the sacrifice.
+
+##### English translation
+Understand thoroughly, Maghavan, this my speech, this praise of you, which Vasishta recites ; be pleased by these prayers at the sacrifice.
+
+### Printed p. 30
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒धी हवं॑ विपिपा॒नस्याद्रे॒र्बोधा॒ विप्र॒स्यार्च॑तो मनी॒षां ।  
+> कृ॒ष्वा दुवां॒स्यंत॑मा॒ सचे॒मा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुधि । हवं । विपिपानस्य । अद्रेः । बोध । विप्रस्य । अर्चतः । मनीषां ।  
+> कृष्व । दुवांसि । अंतमा । सचा । इमा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र विपिपानस्य विपीतवतो वा ममाद्रेर्ग्राव्णो हवमाह्वानं श्रुधि । शृणु । तथा च निगमांतरं । ग्रावभ्यो वाचं वदता वदद्भ्यः । ऋ. १०-९४-१ । इति । विप्रस्य प्राज्ञस्य वसिष्ठस्यार्चतः स्तुवतो मनीषां स्तुतिं बोध । बुध्यस्व च । इमेमानि क्रियमाणानि दुवांसि परिचरणान्यंतमांतिकतमानि बुद्धिस्थानि सचा सह सहायभूतः सन्ना कृष्व । कुरु च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, hear the call (हवं (*havaṃ*)) of the stone (अद्रेः (*adreḥ*), the pressing-stone) that has drunk (विपिपानस्य (*vipipānasya*)). He cites another text to the same effect: ग्रावभ्यो वाचं वदता वदद्भ्यः (*grāvabhyo vācaṃ vadatā vadadbhyaḥ*) (Ṛ. 10-94-1). Understand the praise (मनीषां (*manīṣāṃ*)) of the wise Vasiṣṭha who praises you, and do these services (दुवांसि (*duvāṃsi*), "attendances") that are being performed, the nearest ones (अंतमा (*aṃtamā*)), fixed in the mind, being together with us (सचा (*sacā*)) as a helper.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपिपानस्य (*vipipānasya*)—of this stone that drinks the Soma (O Indra)
+- अद्रेः (*adreḥ*)—of the stone
+- हवं (*havaṃ*)—the call
+- श्रुधि (*śrudhi*)—hear
+- अर्चतः (*arcataḥ*)—of him who worships you
+- विप्रस्य (*viprasya*)—and is wise, of Vasiṣṭha
+- मनीषां (*manīṣāṃ*)—the praise
+- बोध (*bodha*)—understand (examine and accept)
+- इमा दुवांसि (*imā duvāṃsi*)—these my acts of worship
+- अंतमा सचा (*aṃtamā sacā*)—in the depth of your heart
+- कृष्व (*kṛṣva*)—cause to enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, hear the call (the sound) of the stone that drinks the Soma, that is, the stone that crushes the Soma plants. Examine and accept the praise of Vasiṣṭha, who worships you and is wise. Cause these my acts of worship to enter within your heart.
+
+##### English translation
+Hear the invocation of the (grinding) stone, (of me) repeatedly drinking (the Soma), comprehend the hymn of the adoring sage, and, friendly (with us), take to your near consideration these adorations.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते॒ गिरो॒ अपि॑ मृष्ये तु॒रस्य॒ न सु॑ष्टु॒तिम॑सु॒र्य॑स्य वि॒द्वान् ।
+
 ---
 
-**Progress note:** Done through printed p. 24. Sukta 21 rks 5-9 (pp. 19-24)
+**Progress note:** Done through printed p. 30. Sukta 21 rk 10, Sukta 22 rks 1-5 start (pp. 25-30)
