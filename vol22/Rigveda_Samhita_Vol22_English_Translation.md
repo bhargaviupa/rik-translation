@@ -3463,6 +3463,279 @@ Sāyaṇa says: "Uta" means "and also"; "gha" is a filler. O Maghavan, those anc
 - प्रमतिः (*pramatiḥ*)—a kinsman of loving mind
 - असि (*asi*)—are
 
+### Printed p. 79
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, all those ancient seers whose praises you heard and were pleased are indeed beneficial to men. Therefore I too call upon you with entreaty. O Indra, you are to us like a father, a kinsman of loving mind.
+
+##### English translation
+Friendly to man were those of the ancient Rishis whose praises you have listened to ; therefore I repeatedly invoke you Maghavan : you, Indra are well affected towards us as a parent.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो॒चेमेदिंद्रं॑ म॒घवा॑नमेनं म॒हो रा॒यो राध॑सो॒ यद्दद॑न्नः ।  
+> यो अर्च॑तो॒ ब्रह्म॑कृति॒मवि॑ष्ठो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वोचेम । इत् । इंद्रं । मघवानं । एनं । महः । रायः । राधसः । यत् । ददत् । नः ।  
+> यः । अर्चतः । ब्रह्मकृतिं । अविष्ठः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्य इंद्रो महो महतो राधसः संराधकस्य रायो धनस्य । द्वितीयार्थे षष्ठी । संराधकं महद्धनं नोऽस्मभ्यं ददत् प्रायच्छेत् यश्चेंद्रोऽर्चतः स्तुवतो ब्रह्मकृतिं क्रियमाणं ब्रह्म स्तोत्रमविष्ठोऽतिशयेन रक्षिता गंता भवति तमेनं मघवानं धनवंतमिंद्रं प्रोचेमेत् । स्तुवेमैव । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Indra gives us great and perfecting wealth (the genitive of "wealth" stands in the sense of the accusative), and he is the supreme protector of the worshipper's praise that is being made. That opulent, wealthy Indra we shall praise indeed. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—the Indra who
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—and venerable
+- रायः (*rāyaḥ*)—wealth
+- नः (*naḥ*)—to us
+- ददत् (*dadat*)—gives
+- यः (*yaḥ*)—the Indra who
+- अर्चतः (*arcataḥ*)—of the worshipping praiser
+- ब्रह्मकृतिं (*brahmakṛtiṃ*)—the act of praise
+- अविष्ठः (*aviṣṭhaḥ*)—protects exceedingly
+- एनं (*enaṃ*)—such
+- मघवानं (*maghavānaṃ*)—wealthy
+- इंद्रं (*iṃdraṃ*)—Indra
+- प्रोचेम इत् (*procema it*)—we shall certainly praise (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 80
+
+##### भावार्थ (Bhāvārtha)
+
+We shall certainly praise that wealthy Indra who gives us great and venerable wealth, and who exceedingly protects the act of praise of the worshipping praiser. O Indra and the other gods, protect us always with auspicious acts.
+
+##### English translation
+Let us glorify that opulent Indra, that he may give us vast and valuable riches, he who is the chief protector of the religious rites of the worshipper : ever cherish us with blessings.
+
+## Sūkta 30 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ नो देवेति पंचर्चं त्रयोदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं । आ नो देवेत्यनुक्रांतं ॥ प्रथमे छंदोमे प्रउगशस्त्र आ न इत्ययमैंद्रप्रस्तृचः । सूत्र्यते हि । आ नो देव शवसा याहि शुष्मिन् प्र वो यज्ञेषु देवयंतो अर्चन् । आ. ८-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the thirteenth sūkta, आ नो देव (*ā no deva*), of five Ṛks; the seer is Vasiṣṭha, the deity Indra, the metre Triṣṭubh; the Anukramaṇī names it by its first words. In the first chandoma day, in the Praüga-śastra, the first Ṛks form the opening tṛca addressed to Indra; this is taught in the sūtra (Ā. Sū. 8-9).
+
+The Anuvāda says: this sūkta beginning आ नो देव (*ā no deva*) is the thirteenth sūkta in the second anuvāka. It contains five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is described by its first words. When the first chandoma mantras are recited, the first three Ṛks of this sūkta, beginning आ नः (*ā naḥ*), are to be recited in the Praüga-śastra mantras as the tṛca addressed to Indra, as is explained by the Āśvalāyana-śrauta-sūtra in the sūtra beginning with this Ṛk (Ā. 8-9).
+
+Sūkta 30. Maṇḍala 7; Anuvāka 3; Sūkta 30. Aṣṭaka 5; Adhyāya 3; Varga 14. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭup. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ देव॒ शव॑सा याहि शुष्मि॒न्भवा॑ वृ॒ध इं॑द्र रा॒यो अ॒स्य ।
+
+### Printed p. 81
+
+> महे नृम्णाय नृपते सुवज्र महि क्षत्राय पौंस्याय शूर॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । देव । शवसा । याहि । शुष्मिन् । भव । वृधः । इंद्र । रायः । अस्य ।  
+> महे । नृम्णाय । नृपते । सुवज्र । महि । क्षत्राय । पौंस्याय । शूर ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान शुष्मिन्बलवन्निंद्र नोऽस्माञ्छवसा बलेन सार्धमा याहि । अस्मभ्यं देयस्य रायो धनस्य वृधो वर्धयिता च भव । हे नृपते सुवज्र महे महते नृम्णाय बलाय च भव । बाधो नृम्णमिति बलनामसु पाठात् । हे शूर महि महते क्षत्राय शत्रूणां हिंसकाय । क्षदिर्हिंसाकर्मा । पौंस्याय वीर्याय च भव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O shining, mighty Indra, come to us together with your strength, and be the increaser of the wealth that is to be given to us. O lord of men, O wielder of the fine thunderbolt, be for great vigour and strength (the word for vigour is read among the names of strength). O hero, be for great kṣatra, that which harms enemies, and for manly power, valour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—shining
+- शुष्मिन् (*śuṣmin*)—and mighty
+- इंद्र (*iṃdra*)—O Indra
+- शवसा (*śavasā*)—together with your strength
+- नः (*naḥ*)—to us
+- आ याहि (*ā yāhi*)—graciously come
+- अस्य (*asya*)—that is to be given to us
+- रायः (*rāyaḥ*)—to wealth
+- वृधः (*vṛdhaḥ*)—an increaser
+- भव (*bhava*)—be
+- नृपते (*nṛpate*)—lord of all men
+- सुवज्र (*suvajra*)—and possessor of the excellent thunderbolt, O Indra
+- महे (*mahe*)—great
+- नृम्णाय (*nṛmṇāya*)—be the giver of strength
+- शूर (*śūra*)—O valiant Indra
+- महि (*mahi*)—great
+- क्षत्राय (*kṣatrāya*)—and harming enemies
+- पौंस्याय (*pauṃsyāya*)—be also the giver of valour
+
+##### भावार्थ (Bhāvārtha)
+
+O shining and mighty Indra, come graciously to us together with your strength. Be an increaser of the wealth that is to be given to us. O lord of all men, possessor of the excellent thunderbolt, O Indra, be to us the giver of great strength. O valiant Indra, be also the giver of valour, great and harming enemies.
+
+##### English translation
+Divine and powerful (Indra), come to us with your strength : be the augmenter of our riches : be to us, king of men, wielder of the thunderbolt for (a source of) vigour, of great prowess, hero, of manhood.
+
+### Printed p. 82
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हवं॑त उ त्वा॒ हव्यं॒ विवा॑चि त॒नूषु॒ शूराः॒ सूर्य॑स्य सा॒तौ ।  
+> त्वं विश्वे॑षु॒ सेन्यो॒ जने॑षु॒ त्वं वृ॒त्राणि॑ रंधया सु॒हंतु॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हवंते । ऊं इति । त्वा । हव्यं । विवाचि । तनूषु । शूराः । सूर्यस्य । सातौ ।  
+> त्वं । विश्वेषु । सेन्यः । जनेषु । त्वं । वृत्राणि । रंधय । सुहंतु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हव्यं ह्वातव्यं त्वा त्वां विवाचि विविधा वाचो यस्मिन्प्रादुर्भवंति तस्मिन्युद्धे शूराः पुरुषास्तनूष्वंगेषु रक्षणीयेषु सूर्यस्य सातौ संभजने । सरति गच्छतीत्यादित्योऽत्र सूर्यो विवक्षितः । तस्य चिरकालं प्राप्त्यर्थं हवंते । ह्वयंति । विश्वेषु सर्वेषु जनेषु त्वमेव सेन्यः सेनार्होऽसि । अपि च त्वं वृत्राणि शत्रून् सुहंतु सुहंतुनाम्ना वज्रेण रंधय । अस्मभ्यं वशीकुरु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you who are to be invoked: in the battle in which various voices arise, warriors call upon you for the protection of their bodies and for a share, a long attainment, of the sun (the sun, the one who moves, is meant here). Among all people you alone are fit to lead the army. And further, destroy the enemies with the thunderbolt called Suhantu, and make them subject to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) हव्यं (*havyaṃ*)—worthy of prayer
+- त्वा (*tvā*)—you
+- विवाचि (*vivāci*)—in battle, the place of many kinds of disputes
+- शूराः (*śūrāḥ*)—the valiant
+- तनूषु (*tanūṣu*)—for the protection of their bodies
+- सूर्यस्य (*sūryasya*)—and of the sun's light
+- सातौ (*sātau*)—for the gain
+- हवंते (*havaṃte*)—pray
+- विश्वेषु (*viśveṣu*)—among all
+- जनेषु (*janeṣu*)—people of divine and human form
+- त्वं (*tvaṃ*)—you alone
+- सेन्यः (*senyaḥ*)—are the true warrior
+- त्वं (*tvaṃ*)—you
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- सुहंतु (*suhaṃtu*)—with the thunderbolt that kills easily
+- रंधय (*raṃdhaya*)—cleave
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in battle, the place of many kinds of disputes, the valiant pray to you, who are worthy of prayer, for the protection of their bodies and for the gain of the sun's light. Among all people of divine and human form you alone are the true warrior. With the thunderbolt, the instrument by which one kills easily, destroy the enemies completely.
+
+##### English translation
+Warriers invoke you, worthy to be invoked, in the variously clamorous (strife), for (the safety of their) persons, and for the (long) enjoyment of the sun : you are a fit leader over all men ; humble our enemies by the fatal (bolt).
+
+### Printed p. 83
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहा॒ यदिं॑द्र सु॒दिना॑ व्यु॒च्छान्दधो॒ यत्के॒तुमु॑प॒मं स॒मत्सु॑।  
+> न्य१॒॑१ग्निः सी॑द॒दसु॑रो॒ न होता॑ हुवा॒नो अत्र॑ सु॒भगा॑य दे॒वान् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहा । यत् । इंद्र । सुदिना । विऽउच्छान् । दधः । यत् । केतुं । उपमं । समत्सु ।  
+> नि । अग्निः । सीदत् । असुरः । न । होता । हुवानः । अत्र । सुभगाय । देवान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदाहानि सुदिना सुदिनानि व्युच्छान् व्युच्छेयुः यद्यदा च समत्सु संग्रामेषु केतुं ज्ञानमुपममंतिकं दधः धारयेः तदासुरो बलवान् होता देवानामाह्वाताग्निः सुभगायास्माकं शोभनधनप्राप्तये देवान् हुवानो ह्वयन्नत्रास्मिन्यज्ञे नि षीदत् । न्यसीदत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, whenever fine days dawn, and whenever, in battles, you hold knowledge near, then Agni, the strong one, the invoker of the gods, calling the gods for the sake of our fair wealth, sits down at this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- अहा (*ahā*)—days
+- सुदिना (*sudinā*)—as good days
+- व्युच्छान् (*vyucchān*)—dawn (and)
+- यत् (*yat*)—when you
+- समत्सु (*samatsu*)—in battles
+- केतुं (*ketuṃ*)—the banner
+- उपमं (*upamaṃ*)—near us
+- दधः (*dadhaḥ*)—hold, then
+- [Or: समत्सु (*samatsu*)—in battles (to us)
+- केतुं (*ketuṃ*)—right understanding
+- उपमं (*upamaṃ*)—being near us
+- दधः (*dadhaḥ*)—you give us, then]
+- असुरः (*asuraḥ*)—the mighty
+- होता (*hotā*)—the invoker of the gods
+- अग्निः (*agniḥ*)—Agni
+- सुभगाय (*subhagāya*)—for our acquisition of excellent wealth
+- देवान् (*devān*)—the gods
+- हुवानः (*huvānaḥ*)—summoning
+- अत्र (*atra*)—in this sacrificial ground
+- निषीदत् (*niṣīdat*)—sits
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when good days arrive and you hold the banner near us in battles, to help us, giving us right understanding and support, then Agni, the mighty invoker of the gods, comes and sits on this our sacrificial ground.
+
+### Printed p. 84
+
+##### English translation
+When, Indra, fortunate days arise, when you advance your emblem in battles, the strong Agni, the invoker of the gods, summoning the gods hither for our benefit, sits down on the sacred grass.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते त॑ इंद्र॒ ये च॑ देव॒ स्तवं॑त शूर॒ दद॑तो म॒घानि॑ ।  
+> यच्छा॑ सू॒रिभ्य॑ उप॒मं वरू॑थं स्वा॒भुवो॑ जर॒णाम॑श्नवंत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । ते । इंद्र । ये । च । देव । स्तवंत । शूर । ददतः । मघानि ।  
+> यच्छ । सूरिभ्यः । उपमं । वरूथं । सुऽआभुवः । जरणां । अश्नवंत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव शूरेंद्र ते तव वयं वसिष्ठाः स्वभूताः । ये जना मदीयपुत्रपौत्रादयो मघानि मंहनीयानि हवींषि ददतः प्रयच्छंतः स्तवंते स्तुवंति तेऽपि तव स्वभूताः । तेभ्य उभयेभ्यः सूरिभ्यः स्तोतृभ्य उपमं श्रेष्ठं वरूथं गृहं यच्छ । प्रयच्छ । अपि च त उभे स्वाभुवः सुसमृद्धाः संतो जरणां जरामश्नवंते । प्राप्नुवंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O divine, valiant Indra, we Vasiṣṭhas are your own. Those, my sons, grandsons and the like, who praise you offering venerable oblations, are also your own. To both these praisers give an excellent dwelling, a house. And further, may both, well prospering, attain old age.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—divine
+- शूर (*śūra*)—and valiant
+- इंद्र (*iṃdra*)—O Indra
+- वयं (*vayaṃ*)—we
+- ते (*te*)—belong to you
+- ये च (*ye ca*)—those sons, grandsons and the like of ours who
+- मघानि (*maghāni*)—venerable oblations and the like
+- ददतः (*dadataḥ*)—offering
+- स्तवंते (*stavaṃte*)—praise you
+- ते (*te*)—they too belong to you
+- सूरिभ्यः (*sūribhyaḥ*)—to us, your praisers
+- उपमं (*upamaṃ*)—excellent
+- वरूथं (*varūthaṃ*)—a house
+- यच्छ (*yaccha*)—give
+- स्वाभुवः (*svābhuvaḥ*)—all of us endowed with abundant wealth
+- जरणां (*jaraṇāṃ*)—old age
+- अश्नवंते (*aśnavaṃte*)—may attain
+
+##### भावार्थ (Bhāvārtha)
+
+O divine and valiant Indra, we belong to you. Those sons, grandsons and the like of ours who praise you offering venerable oblations and the like, they too to you
+
 ---
 
-**Progress note:** Done through printed p. 78. Vii.28.4-5 end; 29.1-4
+**Progress note:** Done through printed p. 84. Vii.28.4-5 end; 30.1-4
