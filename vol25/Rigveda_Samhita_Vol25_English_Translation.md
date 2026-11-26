@@ -35763,6 +35763,274 @@ For the growing (वावृधानाय (*vāvṛdhānāya*)), the swift (�
 
 These Soma juices, of immeasurable strength or swift movement, flow for a battle that soon arises or for the gain of food quickly obtained.
 
+### Printed p. 870
+
+##### English translation
+The Soma juices of unbounded vigour flow for the increasing rapid acquisition of food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दु॒हा॒नः प्र॒त्नमित्पयः॑ प॒वित्रे॒ परि॑ षिच्यते ।  
+> क्रंदं॑दे॒वाँ अ॑जीजनत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुहानः । प्रत्नम् । इत् । पयः । पवित्रे । परि । सिच्यते ।  
+> क्रंदन् । देवान् । अजीजनत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्नमित् पुराणमेव पयः रस दुहानः दधानः सोमः पवित्रे परि षिच्यते । किंच क्रंदन् शब्दं कुर्वन् देवानजीजनत् जनयति स्वसमीपे । यत्र सोमोऽभिषूयते तत्र देवा नियतं प्रादुर्भवंति । अतो जनयतीत्युपचर्यते ॥
+
+##### Gist of the bhāṣya
+
+Soma, yielding the ancient fluid (पयः (*payaḥ*), the juice), is poured into the filter. Crying out (क्रंदन् (*kraṃdan*), making a sound) he brings the gods into being (अजीजनत् (*ajījanat*)) in his neighbourhood. Wherever Soma is pressed, the gods regularly appear there; therefore "he generates them" is said in a figurative sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रत्नं (*pratnaṃ*)—ancient
+- पयः इत् (*payaḥ it*)—the juice itself
+- दुहानः (*duhānaḥ*)—milking forth, that is, causing to flow
+- क्रंदन् (*kraṃdan*)—making a gurgling sound
+- पवित्रे (*pavitre*)—on the ten-fold filter (Daśāpavitra)
+- परि षिच्यते (*pari ṣicyate*)—flows down and falls (this Soma juice)
+- तत्र (*tatra*)—in that place of Soma-pressing (this Soma-god)
+- देवान् (*devān*)—the gods
+- अजीजनत् (*ajījanat*)—causes to appear
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, ancient, that is, as it has gone on for a long time so also now, flows out its juice, making a gurgling sound, and flows down and falls upon the Daśāpavitra filter. And in the place of pressing this Soma-god causes the gods to appear.
+
+##### English translation
+Milking forth the ancient fluid, the Soma is poured into the filter and crying out generates the gods.
+
+### Printed p. 871
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि विश्वा॑नि॒ वार्या॒भि दे॒वाँ ऋ॑ता॒वृधः॑ ।  
+> सोमः॑ पुना॒नो अ॑र्षति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । विश्वानि । वार्या । अभि । देवान् । ऋतऽवृधः ।  
+> सोमः । पुनानः । अर्षति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः पुनान: पूयमानः विश्वानि वार्या वरणीयानि धनानि अभि अर्षति । तथा ऋतावृधः यज्ञवर्धकान् देवान् अभि अर्षति ॥
+
+##### Gist of the bhāṣya
+
+This Soma, being purified, goes towards all desirable (वार्या (*vāryā*)) riches. Likewise he goes towards the gods who promote the sacrifice (ऋतावृधः (*ṛtāvṛdhaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमुः (*somuḥ*)—this Soma-god **NOTE**
+- पुनानः (*punānaḥ*)—being purified
+- विश्वानि (*viśvāni*)—all
+- वार्या (*vāryā*)—desired riches, to give to the worshippers
+- अभि अर्षति (*abhi arṣati*)—goes (and likewise)
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—promoters of the sacrifice
+- देवान् (*devān*)—to the gods
+- अभि (*abhi*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-god, having been purified, goes to the gods who promote the sacrifice, in order to bring and give to the worshippers all the riches that they desire.
+
+##### English translation
+Soma being purified hastens towards all desirable (wealth), towards the gods who favour the sacrifice.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोम॑न्नः सोम वी॒रव॒दश्वा॑व॒द्वाज॑वत्सु॒तः ।  
+> पव॑स्व बृह॒तीरिषः॑ ॥ ६ ॥
+
+### Printed p. 872
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमत् । नः । सोम । वीरऽवत् । अश्वऽवत् । वाजऽवत् । सुतः ।  
+> पवस्व । बृहतीः । इषः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुतः त्वं नः अस्मभ्यं गोमत् गोभिर्युक्तं वीरवत् बहुभिर्वीरैरुपेतम् अश्वावत् अश्वैर्युक्तं वाजवत् वाजैर्बलैः संग्रामैर्वोपेतं धनं बृहतीरिषः प्रभूतान्यन्नानि पवस्व । प्रयच्छेत्यर्थः ॥ ॥ ३२ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being pressed, to us do you "purify", that is, bestow, wealth that is accompanied by cows (गोमत् (*gomat*)), endowed with many heroes (वीरवत् (*vīravat*)), with horses (अश्वावत् (*aśvāvat*)), and with strength or battles (वाजवत् (*vājavat*)), and abundant food (बृहतीरिषः (*bṛhatīriṣaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma-god **NOTE**
+- सुतः (*sutaḥ*)—you who are pressed
+- नः (*naḥ*)—to us
+- गोमत् (*gomat*)—accompanied by cows
+- वीरवत् (*vīravat*)—with heroic sons and others
+- अश्वावत् (*aśvāvat*)—with horses
+- वाजवत् (*vājavat*)—with strength, wealth
+- बृहतीः इषः (*bṛhatīḥ iṣaḥ*)—abundant foods
+- पवस्व (*pavasva*)—bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, being pressed, bestow on us many cows, heroic sons and others, wealth and abundant food.
+
+##### English translation
+Soma, being effused pour down upon us (wealth) consisting of cows male offspring, horses and strength, and abundant food.
+
+## Sūkta 43 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो अत्यइव' इति षडृचमेकोनविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । यो अत्यइव' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यो अत्यइव (*yo atyaiva*) has six ṛks and is the nineteenth sūkta. The seer and so on are as before. The Anukramaṇī lists it by यो अत्यइव (*yo atyaiva*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning यो अत्य इव (*yo atya iva*) is the nineteenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, यो अत्य इव (*yo atya iva*), is the ritual use, which has been stated before.
+
+### Printed p. 873
+
+Sūkta 43. Maṇḍala 9, Anuvāka 2, Sūkta 43. Aṣṭaka 6, Adhyāya 8, Varga 23. Number of ṛks in the sūkta: 6. Ṛṣi: मेध्यातिथिः (*medhyātithiḥ*) **NOTE**. Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अत्य॑ इव मृ॒ज्यते॒ गोभि॒र्मदा॑य हर्य॒तः ।  
+> तं गी॒र्भिर्वा॑सयामसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अत्यःऽइव । मृज्यते । गोभिः । मदाय । हर्यतः ।  
+> तम् । गीःऽभिः । वासयामसि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः अत्यइव अतनशीलोऽश्व इव गोभिः वसतीवरीभिरद्भिर्गोविकारैः पय
+> आदिभिर्वा मृज्यते मिश्र्यते । किमर्थम् । मदाय देवानाम् । कीदृशः । यः हर्यतः कांतः । तं सोमं गीर्भिः स्तुतिभिः वासयामसि वासयामः ॥
+
+##### Gist of the bhāṣya
+
+The Soma who, like a horse (अत्यइव (*atyaiva*), one that goes constantly), is mixed with cow-products, that is, with the Vasatīvarī waters or with milk and the like, for the exhilaration of the gods; he who is beloved (हर्यतः (*haryataḥ*), desirable). That Soma we cause to dwell (वासयामसि (*vāsayāmasi*)) with praises (गीर्भिः (*gīrbhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma-god
+- अत्य इव (*atya iva*)—swift of movement like a horse
+- हर्यतः (*haryataḥ*)—of attractive form
+- गोभिः (*gobhiḥ*)—with the cow-products, milk and curds, or with the Vasatīvarī waters
+- वृज्यते (*vṛjyate*)—is mixed **NOTE**
+- तं (*taṃ*)—that Soma
+- मुदाय (*mudāya*)—for the delight of the gods **NOTE**
+- गीर्भिः (*gīrbhiḥ*)—with words of praise
+- वासयामुसि (*vāsayāmusi*)—we approach and praise **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma-god who is of a nature to flow swiftly like the going of a horse, who is of attractive form, who is mixed with milk, curds or the Vasatīvarī waters, that Soma-god we approach and praise with words of praise, for the delight arising from the gods' drinking of Soma.
+
+### Printed p. 874
+
+##### English translation
+We invest with praises that Soma who, beloved, is cleansed like a horse, with milk for the exhilaration (of the gods).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं नो॒ विश्वा॑ अव॒स्युवो॒ गिरः॑ शुंभंति पू॒र्वथा॑ ।  
+> इंदु॒मिंद्रा॑य पी॒तये॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । नः । विश्वाः । अवस्युवः । गिरः । शुंभंति । पूर्वऽथा ।  
+> इंदुम् । इंद्राय । पीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तम् इंदुं सोमं नः अस्माकं विश्वाः सर्वाः अवस्युवः । अवो रक्षणम् । तदिच्छंत्यः गिरः स्तुतयः पूर्वथा पूर्वमिव पूर्वं यथा तथैवेदानीमपि शुंभंति दीपयंति । किमर्थम् । इंद्राय इंद्रस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+To that Indu, Soma, all our praises (गिरः (*giraḥ*)) that desire protection (अवस्युवः (*avasyuvaḥ*), अवो रक्षणम् (*avo rakṣaṇam*)) render beauty, that is, make him shine, as of old (पूर्वथा (*pūrvathā*)), so also now. For what purpose? For Indra's drinking (पीतये (*pītaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवस्यवः (*avasyavaḥ*)—desiring protection, that is, made for protection
+- विश्वाः (*viśvāḥ*)—all
+- नः गिरः (*naḥ giraḥ*)—our words of praise
+- तं इंदुं (*taṃ iṃduṃ*)—that Soma-god
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for drinking
+- पूर्वथा (*pūrvathā*)—as before
+- शुंभंति (*śuṃbhaṃti*)—shine, that is, praise
+
+##### भावार्थ (Bhāvārtha)
+
+All the words of praise that we make for protection praise that Soma-god, for Indra's drinking, as before.
+
+##### English translation
+This Indu all our praises desiring protection, beautify (now) as of old for Indra to drink.
+
+### Printed p. 875
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नो या॑ति हर्य॒तः सोमो॑ गी॒र्भिः परि॑ष्कृतः ।  
+> विप्र॑स्य॒ मेध्या॑तिथेः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । याति । हर्यतः । सोमः । गीःऽभिः । परिऽकृतः ।  
+> विप्रस्य । मेध्यऽअतिथेः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः हर्यतः कमनीयः सोमो गीर्भिः परिष्कृतः स्तुतिभिरलंकृतः याति कलशं प्रति । किमर्थम् । विप्रस्य मेधाविनः मेध्यातिथेः मम यागार्थम् । यद्वा । मम गीर्भिरिति संबंधः॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified (पुनानः (*punānaḥ*)), desirable (हर्यतः (*haryataḥ*)), adorned with praises, goes towards the vessel. For what purpose? For the sacrifice of me, Medhyātithi, the wise (विप्रस्य (*viprasya*)). Or else: the connection is "with my praises".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—pressed
+- हर्यतः (*haryataḥ*)—of attractive form
+- सोमः (*somaḥ*)—this Soma
+- विप्रस्य (*viprasya*)—of the wise
+- मेध्यातिथेः (*medhyātitheḥ*)—of me, named Medhyātithi, the seer of this sūkta
+- गीर्भिः (*gīrbhiḥ*)—by words of praise
+- परिष्कृतः (*pariṣkṛtaḥ*)—adorned, that is, refined
+- याति (*yāti*)—flows towards the vessel
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, just now pressed and resplendent with an attractive form, flows towards the vessel, refined by the words of praise of me, Medhyātithi, the wise seer of this sūkta.
+
+##### English translation
+Pure flows the beloved Soma, beautified by the praises of the sage Medhyatithi.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान वि॒दा र॒यिम॒स्मभ्यं॑ सोम सु॒श्रिय॑म् ।  
+> इंदो॑ स॒हस्र॑वर्चसम् ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 869. Vol 25 Sūkta 41 Ṛk 3-6, Sūkta 42 Ṛk 1-3 (pp. 864-869)
+**Progress note:** Done through printed p. 875. Mandala 9 sukta 42 rks 4-6, sukta 43 rks 1-3 and Sayana-bhashya/samhita of rk 4
