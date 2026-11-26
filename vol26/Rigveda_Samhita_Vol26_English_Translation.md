@@ -16253,6 +16253,231 @@ O Indra, the god Soma, who is purified by men, pressed by the pressing stones, t
 ##### English translation
 Shaken by the men, expressed by the stones. the delighter (of the gods), the lord of cattle, ancient, distilling (In the vessels), born in due season, (the Soma is placed) on the sacred grass; intelligent, the material of the sacrifice of man, pure, the Soma flows for you, Indra, of his own accord.
 
+### Printed p. 436
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृबा॒हुभ्यां॑ चोदि॒तो धार॑या सु॒तो॑ऽनुष्व॒धं प॑वते॒ सोम॑ इंद्र ते ।  
+> आप्राः॒ क्रतू॒न्सम॑जैरध्व॒रे म॒तीर्वेर्न द्रु॒षच्च॒म्वो॒३॒॑रास॑द॒द्धरिः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृबाहुऽभ्याम् । चोदितः । धारया । सुतः । अनुऽस्वधम् । पवते । सोमः । इंद्र । ते ।  
+> आ । अप्राः । क्रतून् । सम् । अजैः । अध्वरे । मतीः । वेः । न । द्रुऽसत् । चम्वोः । आ । असदत् । हरिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पवमानगुणविशिष्ट नृबाहुभ्यां कर्मनेतॄणामृत्विजां बाहुभ्यां चोदितः प्रेरितः धारया सुतः अभिषुतः । यथा धारा भवति तथाभिषुत इत्यर्थः । तादृशः सोमः ते तव अनुष्वधं बलमनु बलार्थम् । यद्वा । स्वधेत्यन्ननाम । अन्नार्थं पवते आगच्छति । ततः स त्वं सोमपानेन क्रतून् कर्माणि आप्राः आपूरयसि । किंच अध्वरे यज्ञे मतीः अभिमन्यमानान्'  शत्रून् समजैः सम्यग्जितवानसि । ‘ जि जये' । लुङि सिपि सिचो ‘ बहुलं छंदसि' इति इडभावः । ‘ सिचि वृद्धि:०' इति वृद्धिः । सोऽयं हरिः हरितवर्णः सोमः चम्वोः अधिषवणफलकयोः आसदत् आसीदति । तत्र दृष्टांतः । वेर्न । वी गत्यादिषु । अन्येभ्योऽपि दृश्यंते' इति विच् । सार्वधातुकार्धधातुकयोः ' इति गुणः । यथा विः पक्षी द्रुषत् द्रुमे सीदतीति तद्वत् । द्रुषत्' । 'पूर्वपदात्' इति षत्वम् ॥ ॥ २७ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, endowed with the qualities of Pavamāna: the Soma is urged by the arms of the priests, who lead the rite, and pressed in a stream, that is, pressed so that there is a stream. Such a Soma flows for your strength (अनुष्वधं (*anuṣvadhaṃ*)); or else, since svadhā is a name for food, he comes for food. Then you, by drinking the Soma, fulfil the rites. Further, at the sacrifice you have completely conquered the enemies who are puffed up with thoughts of themselves. This green-hued Soma sits on the two pressing boards. The illustration: as a bird sits in a tree.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नृबाहुभ्यां (*nṛbāhubhyāṃ*)—by the arms of men
+- धारया (*dhārayā*)—in the form of a stream
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—Soma
+- ते (*te*)—for you
+- अनुष्वधं (*anuṣvadhaṃ*)—for the sake of strength
+- पवते (*pavate*)—he flows
+- त्वं (*tvaṃ*)—you
+- क्रतून् (*kratūn*)—the sacrificial rites
+- आप्राः (*āprāḥ*)—you carry out
+- अध्वरे (*adhvare*)—in the sacrifice
+- मतीः (*matīḥ*)—the wicked enemies
+- समजैः (*samajaiḥ*)—you have conquered
+
+### Printed p. 437
+
+- द्रुषत् (*druṣat*)—staying in a tree
+- वेः न (*veḥ na*)—like a bird
+- हरिः (*hariḥ*)—the green-hued Soma
+- चन्वोः (*canvoḥ*)—on the pressing boards **NOTE**
+- आसदत् (*āsadat*)—he sits
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Soma, urged by the arms of men and pressed in the form of a stream, flows for your strength. You carry out the sacrificial rites. At the sacrifice you have conquered the wicked enemies. Like a bird staying in a tree, the green-hued Soma sits on the pressing boards.
+
+##### English translation
+Urged by the arms of men, poured forth in a stream the Soma flows for you, Indra, for strength; you accomplished the rites, you overcome enemies at the sacrifice; the green-tinted Soma rests upon the cups like a bird perching on a tree.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒शुं दु॑हंति स्त॒नयं॑त॒मक्षि॑तं क॒विं क॒वयो॒ऽपसो॑ मनी॒षिणः॑ ।  
+> समी॒ गावो॑ म॒तयो॑ यंति सं॒यत॑ ऋ॒तस्य॒ योना॒ सद॑ने पुन॒र्भुवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंशुम् । दुहंति । स्तनयंतम् । अक्षितम् । कविम् । कवयः । अपसः । मनीषिणः ।  
+> सम् । ईमिति । गावः । मतयः । यंति । सम्ऽयतः । ऋतस्य । योना । सदने । पुनःऽभुवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कवयः क्रांतप्रज्ञाः अपसः कर्मवंतः मनीषिणः । मनस ईशा मनीषा बुद्धिः । तद्वंत ऋत्विजः स्तनयंतं शब्दायमानम् अक्षितम् अक्षीणं कविं क्रांतदर्शिनम् अंशुं सोमं दुहंति अभिषुण्वंति । ततः पुनर्भुवः पुनर्भवनशीलाः गावः पशवः मतयः मननीयाः स्तुतयश्च संयतः परस्परं संगताः सत्यः ऋतस्य सत्यभूतस्य यज्ञस्य योना योनौ योनिस्थानीय उत्पत्तिभूते सदने उतरवेद्याख्ये ईम एनं सोमं सं यंति संगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The seers, of surpassing wisdom, the doers of rites, the मनीषिणः (*manīṣiṇaḥ*) (मनीषा (*manīṣā*) is intellect, and the priests possess it), press the sounding, undecaying, far-seeing Soma, the Aṃśu. Thereupon the cows, the animals, who have the nature of being born again, and the praises, which are to be reflected upon, joined together with one another, go to this Soma at the seat that is the origin, the womb of the true sacrifice, the place called the Uttaravedi.
+
+### Printed p. 438
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवयः (*kavayaḥ*)—those of surpassing wisdom
+- अपसः (*apasaḥ*)—the doers of rites
+- मनीषिणः (*manīṣiṇaḥ*)—the intelligent priests
+- स्तनयंतं (*stanayaṃtaṃ*)—the sounding
+- अक्षितं (*akṣitaṃ*)—the undecaying
+- कविं (*kaviṃ*)—the far-seeing
+- अंशुं (*aṃśuṃ*)—Soma
+- दुहंति (*duhaṃti*)—they press
+- पुनर्भुवः (*punarbhuvaḥ*)—born again for the rite
+- गावः (*gāvaḥ*)—the animals
+- मतयः (*matayaḥ*)—and the praises
+- संयतः (*saṃyataḥ*)—joined together
+- ऋतस्य (*ṛtasya*)—of the sacrifice, which is of the nature of truth
+- योना (*yonā*)—which is the place of origin
+- सदने (*sadane*)—at the place of the Uttaravedi
+- ईं (*īṃ*)—this Soma
+- सं यंति (*saṃ yaṃti*)—they join
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, who are of surpassing wisdom, doers of rites and intelligent, press the sounding, undecaying, far-seeing Soma. The animals and the praises, born again for the rite, joined together, join this Soma at the Uttaravedi, the place of origin of the sacrifice, which is of the nature of truth.
+
+##### English translation
+The seers, the experienced performers of holy acts, milk forth the seer, the loud-sounding undecaying Soma ; the regenerated cattle and the praises combined repair to him at the place of birth of the sacrifice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाभा॑ पृथि॒व्या ध॒रुणो॑ म॒हो दि॒वो॒३॒॑ऽपामू॒र्मौ सिंधु॑ष्वं॒तरु॑क्षि॒तः ।  
+> इंद्र॑स्य॒ वज्रो॑ वृष॒भो वि॒भूव॑सुः॒ सोमो॑ हृ॒दे प॑वते॒ चारु॑ मत्स॒रः ॥ ७ ॥
+
+### Printed p. 439
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाभा । पृथिव्याः । धरुणः । महः । दिवः । अपाम् । ऊर्मौ । सिंधुषु । अंतः । उक्षितः ।  
+> इंद्रस्य । वज्रः । वृषभः । विभुऽवसुः । सोमः । हृदे । पवते । चारु । मत्सरः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महः महतः दिवः द्युलोकस्य धरुणः धारकोऽयं सोमः पृथिव्याः विस्तीर्णाया भूमेः नाभा नाभौ नाभिस्थानीये उच्छ्रिते पदे ' यदुत्तरवेदीनाभिः ' ( ऐ. ब्रा. १. २८) इत्याम्नानात् उत्तरवेदिस्थान ऋत्विग्भिर्निहितः सिंधुषु स्यंदमानासु नदीषु अपाम् उदकानाम् ऊर्मौ संघे अंतः मध्ये उक्षितः सिक्तः । अंतरिक्षस्थानमध्ये वर्तमान इत्यर्थः । तादृशः इंद्रस्य वज्रः वज्रस्थानीयः वृषभः कामानां वर्षिता अत एव विभूवसुः व्याप्तधनः सोमः चारु कल्याणं यथा भवति तथा इंद्रस्य मत्सरः मादयिता सन् हृदे मनसे सुखाय पवते आगच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma is the supporter of great heaven, the world of light. He is placed by the priests on the navel of the broad earth, that is, on the raised place that stands for a navel, the place of the Uttaravedi, as tradition says: यदुत्तरवेदीनाभिः (*yaduttaravedīnābhiḥ*) (Ai. Brā. 1. 28). He is sprinkled in the rivers that flow, in the midst of the wave, the mass, of the waters; that is, he is situated in the middle of the atmosphere. Such a Soma is Indra's thunderbolt, as it were, the showerer of desires, and therefore the possessor of pervading wealth. Being the gladdener of Indra, he flows, that is, comes, graciously for the heart, that is, for the mind's pleasure.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—great
+- दिवः (*divaḥ*)—for the heavenly world
+- धरुणः (*dharuṇaḥ*)—the supporter
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- नाभा (*nābhā*)—placed on the Uttaravedi, which is the navel
+- सिंधुषु (*siṃdhuṣu*)—in the rivers
+- अपां (*apāṃ*)—of the waters
+- ऊर्मौ अंतः (*ūrmau aṃtaḥ*)—in the midst of the waves
+- उक्षितः (*ukṣitaḥ*)—sprinkled
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- वज्रः (*vajraḥ*)—of the nature of the thunderbolt
+- वृषभ्य (*vṛṣabhya*)—the giver of desired things **NOTE**
+- विभावसुः (*vibhāvasuḥ*)—possessing pervading wealth **NOTE**
+- सोमः (*somaḥ*)—the god Soma
+- चारु (*cāru*)—attractive
+- मत्सरः (*matsaraḥ*)—as the gladdener
+- हृदे (*hṛde*)—for the satisfaction of the heart
+- पवते (*pavate*)—he comes flowing
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, the supporter of the great heavenly world, placed on the Uttaravedi, which is the navel of the earth, sprinkled in the midst of the waves of the waters of the rivers, of the nature of Indra's thunderbolt, the giver of desired things, possessing pervading wealth, comes flowing as an attractive gladdener for the satisfaction of the heart.
+
+##### English translation
+The supporter of vast heaven, (placed) upon the navel of the earth, moistened amongst the rivers in the wave of the waters, the thunderbolt of
+
+### Printed p. 440
+
+Indra, the showerer (of benefits), the possessor of wealth, Soma auspiciously exhilarating distils into (Indra,s) heart.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तू प॑वस्व॒ परि॒ पार्थि॑वं॒ रज॑ स्तो॒त्रे शिक्ष॑न्नाधून्व॒ते च॑ सुक्रतो ।  
+> मा नो॒ निर्भा॒ग्वसु॑नः सादन॒स्पृशो॑ र॒यिं पि॒शंगं॑ बहु॒लं व॑सीमहि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तु । पवस्व । परि । पार्थिवम् । रजः । स्तोत्रे । शिक्षन् । आऽधून्वते । च । सुक्रतो इति सुऽक्रतो ।  
+> मा । नः । निः । भाक् । वसुनः । सदनऽस्पृशः । रयिम् । पिशंगम् । बहुलम् । वसीमहि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुक्रतो शोभनकर्मन् सुप्रज्ञ वा सोम तादृशस्त्वं पार्थिवं रजः लोकं लक्षीकृत्य तु क्षिप्रं परि पवस्व परितः सर्वतः क्षर । किं कुर्वन् । आधून्वते अदाभ्यग्रहे त्रिभिरंशुभिराधावनं कुर्वते । तथा भगवता आपस्तंबेन सूत्रितं-- तैरेनं चतुराधुनोति पंचकृत्वः सप्तकृत्वो वा ' इति । तस्मै धनादिकं शिक्षन् प्रयच्छन् परि पवस्वेति समन्वयः । ततस्त्वं नः अस्मान् वसुनः धनात् मा निर्भाक् मा निर्भांक्षीः मा वियोक्षीः । कीदृशात् । सदनस्पृशः । येन भूतेन वसुना सदनानि गृहान् पुत्रादीन् स्पृशंति तादृशात् गृहादिकस्य प्रदातुः धनान्मा वियुजः । भाक्। 'भज सेवायाम् । लुङि सिपि सिचि ‘ बहुलं छंदसि' इति ईडागमाभावः । ‘ एकाचः' इति इट्प्रतिषेधः । हलंतलक्षणा वृद्धिः (पा. सू. ७. २. ३ )। सिपो लोपः । यस्मादेवं तस्माद्वयं पिशंगं नानारूपं कनकादिना अत एव बहुलं प्रभूतं रयिं धनं वसीमहि आच्छादयेम । बहुधनवंतो भवेमेत्यर्थः । ‘ वस आच्छादने '। आदादिकः । लिङि रूपम् ॥
+
+##### Gist of the bhāṣya
+
+O Sukratu, doer of good deeds or of good wisdom, Soma: such as you are, flow quickly all around, aiming at the terrestrial region. What do you do? You give wealth and the like to the one who shakes (आधून्वते (*ādhūnvate*)), who performs the washing with three Aṃśus at the Adābhya cup. The venerable Āpastamba has put it in a sūtra: तैरेनं चतुराधुनोति पंचकृत्वः सप्तकृत्वो वा (*tairenaṃ caturādhunoti paṃcakṛtvaḥ saptakṛtvo vā*). So the construction is: give wealth and flow all around. Then do not cut us off from wealth. From what kind of wealth? सदनस्पृशः (*sadanaspṛśaḥ*): the wealth by which one touches, that is, obtains houses, sons and the like. Do not separate us from the wealth that is the giver of houses and the like. Since it is so, we shall be clothed (वसीमहि (*vasīmahi*), "may we cover ourselves") with wealth that is पिशंगं (*piśaṃgaṃ*), of many forms through gold and the like, and therefore abundant; that is, may we have much wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतो (*sukrato*)—O Soma, of excellent rites
+- आधून्वते (*ādhūnvate*)—to the sacrificer who offers the oblation after stirring it
+- स्तोत्रे (*stotre*)—and to the praiser
+- शिक्षन् (*śikṣan*)—giving wealth **NOTE**
+
+### Printed p. 441
+
+- तु (*tu*)—quickly
+- पार्थिवं रजः परि (*pārthivaṃ rajaḥ pari*)—around the terrestrial region
+- पवस्व (*pavasva*)—flow
+- सदनस्पृतः (*sadanaspṛtaḥ*)—that which makes our house prosper **NOTE**
+- वसुनः (*vasunaḥ*)—from the wealth
+- नः (*naḥ*)—us
+- मा निर्भक् (*mā nirbhak*)—do not separate **NOTE**
+- पिशंगं (*piśaṃgaṃ*)—of many forms
+- बहुलं (*bahulaṃ*)—and abundant
+- रयिं (*rayiṃ*)—wealth
+- वसीमहि (*vasīmahi*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, of excellent rites, flow quickly around the terrestrial region, giving wealth to the sacrificer who stirs the oblation in the vessels and offers it, and to the praiser. Do not separate us from the wealth that makes our house prosper. May we obtain wealth that is of many forms and abundant.
+
+##### English translation
+Performer of good deeds, flow quickly round the terrestrial region, giving (riches) to the worshipper and the shaker (of the libation); do not deprive us of the wealth that enriches our dwellings; may we be invested with abundant wealth of divers kinds.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू न॑ इंदो श॒तदा॒त्वश्व्यं॑ स॒हस्र॑दातु पशु॒मद्धिर॑ण्यवत् ।  
+> उप॑ मास्व बृह॒ती रे॒वती॒रिषोऽधि॑ स्तो॒त्रस्य॑ पवमान नो गहि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । नः । इंदो इति । शतऽदातु । अश्व्यम् । सहस्रऽदातु । पशुऽमत् । हिरण्यऽवत् ।  
+> उप । मास्व । बृहतीः । रेवतीः । इषः । अधि । स्तोत्रस्य । पवमान । नः । गहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो पवमान नः अस्मभ्यं तु क्षिप्रं धनम् आ आयच्छ । कीदृशम् । शतदातु । दातु दानम् । बहुदानम् अश्व्यम् अश्वसहितं सहस्रदातु सहस्रदानोपेतं पशुमत् पश्वादियुक्तं हिरण्यवत् हिरण्ययुक्तं च धनं देहि । तथा हे सोम बृहतीः प्रभूतानि रेवतीः धनवंति । यद्वा पयसोदातारः पशवः। तद्वंति इषः अन्नानि चास्मभ्यम् उप मास्व उपनिर्मिमीष्व । कुर्विति यावत् । किंच हे पवमान नः अस्माकं स्वभूतस्य स्तोत्रस्य श्रवणाय अधि गहि आगच्छ। ‘ क्रियार्थोपपदस्य°' (पा. सू.२.३.१४ ) इति चतुर्थी । चतुर्थ्यर्थे बहुलं छंदसि' इति षष्ठी ॥ ॥ २८ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Pavamāna, bring us wealth quickly. What kind of wealth? शतदातु (*śatadātu*): दातु (*dātu*) is a gift, so it is wealth of many gifts, together with horses; सहस्रदातु (*sahasradātu*): accompanied by a thousand gifts; पशुमत् (*paśumat*): with cattle and the like; and हिरण्यवत् (*hiraṇyavat*): with gold. Give us such wealth. Likewise, O Soma, measure out near us the abundant and wealthy (रेवतीः (*revatīḥ*)); or else, the cattle that give milk, and the foods that go with them. Further, O Pavamāna, come to hear our praise.
+
 ---
 
-**Progress note:** Done through printed p. 435. Sūkta 72 Ṛks 1-4, pp. 430-435
+**Progress note:** Done through printed p. 441. Sūkta 72 Ṛks 5-9 (bhāṣya of Ṛk 9), pp. 436-441
