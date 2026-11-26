@@ -34241,6 +34241,211 @@ O Aśvin gods, that chariot of yours which travels everywhere, has an excellent 
 ##### English translation
 We from very ancient times invoke, Ashwins, by a name as venerable as that of a father, this your glorious chariot, which travels all around, which turns well, and which is to be invoked morning and evening by the worshipper.
 
+### Printed p. 942
+
+##### विशेषविषयगळु (Special Topics)
+
+We have described the chariot of the Aśvin gods earlier in many Ṛks. In many places it is described as marked by a supernatural construction and by beauty.
+
+आ नो यातं दिवो अच्छा पृथिव्या हिरण्ययेन सुवृता रथेन । (*ā no yātaṃ divo acchā pṛthivyā hiraṇyayena suvṛtā rathena |*) (Ṛ. Saṃ. 44-44-5) **NOTE**
+
+सहस्रकेतुं वनिनं शतद्वसुं शुष्टीवानं वरिवोधामभि प्रयः । (*sahasraketuṃ vaninaṃ śatadvasuṃ śuṣṭīvānaṃ varivodhāmabhi prayaḥ |*) (Ṛ. Saṃ. 1-119-1)
+
+त्रिवंधुरेण त्रिवृता रथेन त्रिचक्रेण सुवृता यातमर्नाक् । (*trivaṃdhureṇa trivṛtā rathena tricakreṇa suvṛtā yātamarnāk |*) (Ṛ. Saṃ. 1-118-2)
+
+In these and many other Ṛks the sages have praised the chariot of the Aśvin gods as an excellent chariot, made of gold, having a thousand banners, adorned with three seats **NOTE** and three wheels, and possessed of various other distinctions. See page 934 for the description of this chariot in the introduction to this sūkta.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चो॒दय॑तं सू॒नृताः॒ पिन्व॑तं॒ धिय॒ उत्पुरं॑धीरीरयतं॒  ॑
+> तदुश्यसि ।  
+> य॒शसं॑ भा॒गं कृ॑णुतं नो अश्विना॒ सोमं॒ न चारुं॑ म॒घव॑त्सु नस्कृतं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ पवनाट ॥  
+> चोदयतं । सूनृताः । पिन्वतं । धियः । उत् । पुरंधीः । ईरयतं । तत् ।  
+> उश्मसि ।  
+> यशसं । भागं । कृणुतं । नः । अश्विना । सोमं । न । चारुं । मघवत्सु । नः ।  
+> कृतं ॥ २ ॥
+
+### Printed p. 943
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युवां सूनृता वाच उषसो ना चोदयतं । प्रेरयतं
+> अस्माकं धियः कर्माणि च पिन्वतं । पूरयतं । पुरंधीर्बह्वी प्रज्ञाश्चोदीरयतं । उद्गमयतं । प्रेरयतं । उत्पादयतमित्यर्थः i तदेतत्रयमुष्मसि ।
+> वयं कामयामहे । किंच नोऽस्माकं यशसं यशस्विनं भागं भजनीयं धनादिकं कृणुतं । कुरुतं । चारुं कल्याणं सोमं न सोममिव नोऽस्मान्मघघवत्तु
+> धनवत्सु कृतं । कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: you urge on (that is, send forth) the true words, or else the dawns **NOTE**, of ours, and you fill (that is, fulfil) our thoughts, that is, our rites. The "many" faculties he explains as many kinds of intelligence, which they are to rouse, that is, send forth, bring into being. "This triple thing we desire." Further, he says, make for us a glorious, that is, renowned, portion, that is, wealth and the like that is worth sharing, and make us, like lovely, auspicious Soma, to be among the wealthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- सूनृताः (*sūnṛtāḥ*)—our truthful words of praise
+- चोदयतं (*codayataṃ*)—urge on
+- धियः (*dhiyaḥ*)—our rites
+- पिन्नतं (*pinnataṃ*)—bring to completion
+- पुरंधीः (*puraṃdhīḥ*)—our many kinds of intelligence
+- उदीरयतं (*udīrayataṃ*)—rouse to vigour
+- तत् (*tat*)—these three
+- उश्मसि (*uśmasi*)—we desire
+- नः (*naḥ*)—to us
+- यशसं (*yaśasaṃ*)—glorious
+- भापं (*bhāpaṃ*)—and venerable wealth
+- कृणुतं (*kṛṇutaṃ*)—provide
+- चारुं (*cāruṃ*)—auspicious
+- सोमं न (*somaṃ na*)—like Soma
+- नः (*naḥ*)—us
+- मघवत्तु (*maghavattu*)—among the wealthy
+- कृतं (*kṛtaṃ*)—place
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, urge on our truthful words of praise. Bring our rites to completion. Rouse our many kinds of intelligence to vigour. These three we desire. Provide us with glorious and venerable wealth. Place us, like auspicious Soma, among the wealthy.
+
+##### English translation
+Stimulate, Ashwins, our words of truth, perfect (our) sacred rites, and inspire (our) numerous faculties; this (is what) we wish; grant us a glorious portion (of wealth); put us like prosperous Soma amongst the affluent.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒मा॒जुर॑श्चिद्भवथो यु॒वं भगो॑ऽना॒शोश्वि॑दवि॒तारा॑प॒मस्य॑  
+> चित् ।
+
+### Printed p. 944
+
+> अंधस्य चिन्नासत्या कृशस्य चिद्युवामिदाहुर्भिषजा रुतस्य चित् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमाजुरः । चित् । भवथः । युवं । भगः । अनाशोः । चित् । अवितारा । अपमस्य ।  
+> चित् ।  
+> अंधस्य । चित् । नासत्या । कृशस्य ॥ चित् । युवां । इत् । आहुः । भिषजा । रुतस्य !  
+> चित् ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या नासत्यौ युवं युवाममाजुरश्चित्तृगृहे जूर्यंत्या अपि
+> दुर्भगाया घोषाया भगो भवथः । शोभनरूपेणात्मानं परिणमय्य पतिं
+> दत्तवंतौ स्थ इत्यर्थः । तथा च निगमांतरं । घोषायै चित्पितृषदे दुरोणे
+> पतिं जूर्यंत्या अश्विनावदत्तं । ऋ. १-११७-७ । इति । अनाशोश्चिदनशनस्याप्यवितारा
+> रक्षितारौ युवां भवथः । अपमस्य चिज्जात्यातिनिकृष्टस्यापि रक्षितारौ भवथः । अंधस्य
+> चिच्चक्षुर्विकलस्यापि रक्षितारौ भवथः । कृशस्य चिद्दुर्बलस्यापि रक्षितारौ भवथः । किंच
+> युवामिद्युवामेवर्तस्य चिद्यज्ञस्यापि भिषजौ वैद्यावाहुर्विद्वांसः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Nāsatyas, you become good fortune (bhaga) even for Ghoṣā, who was growing old in her father's house and was unfortunate; having transformed her into a beautiful form, you gave her a husband. In support he cites another text: घोषायै चित्पितृषदे दुरोणे पतिं जूर्यंत्या अश्विनावदत्तं (*ghoṣāyai citpitṛṣade duroṇe patiṃ jūryaṃtyā aśvināvadattaṃ*) (Ṛ. 1-117-7) **NOTE**. You are protectors even of the foodless one, even of the one lowest by birth, even of the blind, one deficient in sight, and even of the weak. Further, the learned call you, and you alone, the physicians of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- युवं (*yuvaṃ*)—you
+- अमाजुरश्चित् (*amājuraścit*)—even to a woman who, unmarried, was growing up in her father's house
+- भगः (*bhagaḥ*)—as bestowers of an auspicious husband
+- भवतः (*bhavataḥ*)—you became
+- अनाशोश्चित् (*anāśościt*)—even to one without food
+- अवितारा (*avitārā*)—you are protectors
+- अपमस्य चित् (*apamasya cit*)—you protected a man of low rank
+- अंधस्य चित् (*aṃdhasya cit*)—you protected the blind
+- कृशस्य चित् (*kṛśasya cit*)—you protected the weak
+- युवां इत् (*yuvāṃ it*)—you alone
+- ऋतस्य चित् (*ṛtasya cit*)—even to the sacrifice
+- भिषजौ (*bhiṣajau*)—as physicians
+- आहुः (*āhuḥ*)—the learned say
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, you provided a husband to the woman called Ghoṣā, who, unmarried, was growing old in her father's house. You are the protectors of the foodless, of one belonging to a lower birth, of the blind and of the weak. The learned say that you alone are the physicians even of the sacrifice.
+
+### Printed p. 945
+
+##### English translation
+You, Nasatyas, are the good fortune of a damsel growing old in (her father's) mansion ; the preservers of the famishing, (the protectors) of the abject, of the blind, of the feeble, they call you the physicians of the sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं च्यवा॑नं स॒नयं॒ यथा॒ रथं॒ पुन॒र्युवा॑नं च॒रथा॑य  
+> तक्षथुः ।  
+> निष्टौ॒ग्रमू॑हथुर॒द्भ्यस्परि॒ विश्वेत्ता वां॒ सव॑नेषु प्र॒वाच्या॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । च्यवानं । सनयं । यथा । रथं । पुनः । युवानं । चरथाय । तक्षथुः ।  
+> निः । तौग्रं । ऊहथुः । अत्भ्यः । परि । विश्वा । इत् । ता । वां । सवनेषु ।  
+> प्रवाच्या ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां सनयं पुराणं च्यवानमृषिं यथा रथं जीर्ण०
+> रथमिव पुनर्युवानं तरुणं चरथाय चरणार्थं तक्षथुः । ततक्षथुः । अकुरुतमित्यर्थः । तथा च यास्कः । युवं च्यवानं सनयं पुराणं यथा रथं पुनर्युवानं चरणाय ततक्षथुर्युवा प्रयौति कर्माणि तक्षतिः करोतिकर्मा । नि. ४-१९ ।
+> इति । किंच युवां तौग्रं तुग्रपुत्रं भुज्युमद्भ्यः परि समुद्रस्योपरि निरूहथुः ।
+> किंच वां युवयोर्विश्वा विश्वानि ता तानि कर्माणि सवनेषु यज्ञेषु प्रवाच्या
+> प्रवाच्यानि प्रकर्षेण वक्तव्यानि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aśvins, you made the ancient sage Cyavāna, who was like a worn-out chariot, young again, for the sake of moving about; the verb for "made" he explains as "you did". So Yāska: युवं च्यवानं सनयं पुराणं यथा रथं पुनर्युवानं चरणाय ततक्षथुर्युवा प्रयौति कर्माणि तक्षतिः करोतिकर्मा । (*yuvaṃ cyavānaṃ sanayaṃ purāṇaṃ yathā rathaṃ punaryuvānaṃ caraṇāya tatakṣathuryuvā prayauti karmāṇi takṣatiḥ karotikarmā |*) (Ni. 4-19), that is, the root meaning "to fashion" has the sense of "to do". Further, you bore Bhujyu, the son of Tugra, out of the waters, from above the sea. Further, all those deeds of yours are to be proclaimed at the sacrifices, that is, they are to be spoken of in a distinguished way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं (*yuvaṃ*)—you (O Aśvin gods)
+- यथा रथं (*yathā rathaṃ*)—as one makes a worn-out chariot new
+- सनयं (*sanayaṃ*)—aged
+- च्यवानं (*cyavānaṃ*)—the sage called Cyavāna
+- चरथाय (*carathāya*)—so that it might be convenient for him to move about
+- पुनः (*punaḥ*)—again
+- युवानं (*yuvānaṃ*)—to become young
+- तक्षथुः (*takṣathuḥ*)—you made
+
+### Printed p. 946
+
+- तौग्र्यं (*taugryaṃ*)—the son of Tugra
+- अद्भ्यः परि (*adbhyaḥ pari*)—out of the water
+- निरूहथुः (*nirūhathuḥ*)—you drew
+- वां (*vāṃ*)—your
+- ता विश्वा इत् (*tā viśvā it*)—all these extraordinary deeds
+- सवनेषु (*savaneṣu*)—at the times of sacrifice
+- प्रवाच्या (*pravācyā*)—are to be well praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, as one makes a worn-out chariot new, you made the aged sage Cyavāna young again, so that it would be convenient for him to move about. You drew the son of Tugra out of the water. All these extraordinary deeds of yours are to be well praised at the times of sacrifice.
+
+##### English translation
+You made the aged Chyavana, when like worn-out chariot, again young and able to go : you bore the son of Tugra above the waters; all these your (exploits) are to be celebrated at our sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+The sage Cyavana was old. His body was full of the signs of old age, such as grey hair and a wrinkled skin. Because of this, the sons of this sage and others had abandoned him. Then the sage Cyavana praised the Aśvin gods and pleased them, and having been rid of his old age by them, attained youth: this history is told here by this Ṛk. Skandasvāmin has told this history in another way. This history is found in the Śatapatha Brāhmaṇa.
+
+Here, in the Śatapatha (Śa. Brā. 4-1-5): अधीतमितिहासमाचक्षते । शर्यातो नाम राजा संक्रीडद्भिः कृतापराधाय कुपिताय जीर्णाय च्यवनाय प्र त्यापत्त्यर्थं सुकन्यां नाम कन्यकां दुहितरं ददौ । तां तत्रासीनां दृष्ट्वा अश्विनौ पुनः पुनरूचतुः । किं किं जीर्णीकृतरूपं कामयसे । आवां संभजेति । सा तौ प्रत्युवाच । यस्मै मां पिता अदात् नाहं तं जीवंतं हास्यामीति । तदृषिर्ज्ञात्वा सुकन्यामुवाच । यदि त्वामेता पुनरेवं ब्रूयातां ततस्त्वमेनौ प्रतिब्रूयाः । असर्वौ वसुसमृद्धौ संतौ पतिं मे निंदथ इति । तौ यदि त्वां प्रति ब्रूयातां केनासर्वौ वसुसमृद्धौ चेति तत एनौ प्रतिब्रूयाः पतिं मे पुनः युवानं कुरुतं । अथ वा वक्ष्यामीति । सा तौ तथोवा च । तामश्विन् प्रत्यूचतुः । एतं ह्रदमवतरतु (*adhītamitihāsamācakṣate | śaryāto nāma rājā saṃkrīḍadbhiḥ kṛtāparādhāya kupitāya jīrṇāya cyavanāya pra tyāpattyarthaṃ sukanyāṃ nāma kanyakāṃ duhitaraṃ dadau | tāṃ tatrāsīnāṃ dṛṣṭvā aśvinau punaḥ punarūcatuḥ | kiṃ kiṃ jīrṇīkṛtarūpaṃ kāmayase | āvāṃ saṃbhajeti | sā tau pratyuvāca | yasmai māṃ pitā adāt nāhaṃ taṃ jīvaṃtaṃ hāsyāmīti | tadṛṣirjñātvā sukanyāmuvāca | yadi tvāmetā punarevaṃ brūyātāṃ tatastvamenau pratibrūyāḥ | asarvau vasusamṛddhau saṃtau patiṃ me niṃdatha iti | tau yadi tvāṃ prati brūyātāṃ kenāsarvau vasusamṛddhau ceti tata enau pratibrūyāḥ patiṃ me punaḥ yuvānaṃ kurutaṃ | atha vā vakṣyāmīti | sā tau tathovā ca | tāmaśvin pratyūcatuḥ | etaṃ hradamavataratu*)
+
+### Printed p. 947
+
+अतो यत् कामयते तेन वयसा युक्त उत्तरिष्यतीति । स ऋषिस्तं ह्रदमवतीयोत्ततार युवाभूत्वेति । तदेतदितिहासेनॊच्यते जुजुरुषो नासत्येत्यादिना । (*ato yat kāmayate tena vayasā yukta uttariṣyatīti | sa ṛṣistaṃ hradamavatīyottatāra yuvābhūtveti | tadetaditihāsenòcyate jujuruṣo nāsatyetyādinā |*) (Śa. Brā. 4-1-5)
+
+A king named Śaryāti, when his daughters were playing, gave to the aged sage Cyavana in marriage his daughter named Sukanyā, since she had committed an offence against him. While Sukanyā was in the hermitage of the sage Cyavana, the Aśvin gods came there and said to her many times: "Abandon this old husband of yours and marry us." She replied: "My father gave me to this sage. As long as the one who married me is alive, I shall not abandon him." The sage Cyavana heard it and told her: "When they question you in this way again, ask them: though you are rich in every prosperity, what is the reason for your reviling my husband? They will answer: how are we rich in wealth? Then say to them: give my husband youth, and afterwards I shall give you an answer." So the sage Cyavana taught her what to say. Sukanyā spoke to the Aśvin gods just as the sage Cyavana had said. On hearing her words the Aśvin gods said: "If your husband goes down into this pool and bathes, your wish will be fulfilled; your husband will become possessed of youth." Hearing what they said, he bathed in the pool they had named and came up a youth. This history is told by the Ṛk beginning जुजुरुषो नासत्येत्यादिना (*jujuruṣo nāsatyetyādinā*). The matter of the Aśvin gods making the aged sage Cyavana a youth is described in many places in the Ṛgveda:
+
+युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvaṃ |*) (Ṛ. Saṃ. 7-31-5)
+
+प्र च्यवानाज्जु जुरुषो वत्रिमत्कं न मुंचथः । (*pra cyavānājju juruṣo vatrimatkaṃ na muṃcathaḥ |*) (Ṛ. Saṃ. 5-24-5)
+
+निष्टौग्रं पारयथः समुद्रात्पुनश्चवानं चक्रथुर्युवानं । (*niṣṭaugraṃ pārayathaḥ samudrātpunaścavānaṃ cakrathuryuvānaṃ |*) (Ṛ. Saṃ. 1-118-6)
+
+युवं च्यवानं सनयं यथा रथं पुनर्युवानं चरथाय तक्षथुः । (*yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ carathāya takṣathuḥ |*) (Ṛ. Saṃ. 10-39-4)
+
+This matter is mentioned in these Ṛks, and also in many other Ṛks such as Ṛ. Saṃ. 5-74-5; 7-62.6.
+
 ---
 
-**Progress note:** Done through printed p. 941. Sūkta 39 introduction (Aśvins' deeds), Sūkta 39 Ṛk 1, pp. 936-941
+**Progress note:** Done through printed p. 947. Sukta 39 Rk 2-4 (Ashvins), special topics on Cyavana
