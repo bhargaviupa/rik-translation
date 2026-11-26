@@ -16154,6 +16154,231 @@ In the Ukthya sacrifices connected with the Abhiplava, at the third pressing, th
 
 O Indra, the sacrificer who has produced for you, अजीजनत् (*ajījanat*), that is, made, a newer song, नवीयसीं (*navīyasīṃ*), because it is made again and again, मंद्रां (*maṃdrāṃ*), gladdening, a speech in the form of praise: for him, in this praise, you, प्रत्नां (*pratnāṃ*), ancient, ऋतस्य (*ṛtasya*), connected with truth; or else the genitive stands in the sense of the instrumental, पिप्युषीं (*pipyuṣīṃ*), grown great through truth; such, चिकित्विन्मनसम् (*cikitvinmanasam*), that is, that by which the hearts of all are made known. Your protection, which is done without deceit, makes the heart of all known; that, a धियं (*dhiyaṃ*), your own, called protection, which shows things beyond the senses, do for him.
 
+### Printed p. 416
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंप्र (*iṃpra*)—O Indra
+- यः (*yaḥ*)—the sacrificer who
+- नवीयसीं (*navīyasīṃ*)—new
+- मंद्रां (*maṃdrāṃ*)—and joy-giving
+- गिरं (*giraṃ*)—speech in the form of praise
+- ते (*te*)—addressed to you
+- आजीजनत् (*ājījanat*)—has made; for that praiser
+- प्रत्नां (*pratnāṃ*)—ancient
+- ऋतस्य (*ṛtasya*)—by its own true nature
+- पिप्युषीं (*pipyuṣīṃ*)—greatly grown
+- चिकित्विन्मनसं (*cikitvinmanasaṃ*)—that which by its power knows the minds of all
+- धियं (*dhiyaṃ*)—the act in the form of protection, accomplish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for that praiser, the sacrificer who makes for you a new and joy-giving speech in the form of praise, accomplish the act in the form of protection, which is ancient, greatly grown by its own true nature, and by its power knows the minds of all.
+
+##### English translation
+To him who has made for you this newest joy-giving hymn, Indra, (extend), your ancient truthful providence to which all hearts are known.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ ष्टवाम॒ यं गिर॒ इंद्र॑मु॒क्थानि॑ वावृ॒धुः ।  
+> पु॒रूण्य॑स्य॒ पौंस्या॒ सिषा॑संतो वनामहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ऊं इति । स्तवाम । यम् । गिरः । इंद्रम् । उक्थानि । ववृधुः ।  
+> पुरूणि । अस्य । पौंस्या । सिसासंतः । वनामहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषयः परस्परमाहुः । तं पूर्वोक्तलक्षणम् । उ इत्यवधारणे । तमेवेंद्रं स्तवाम स्तुतिभिः स्तुमः। यम् इंद्रं गिरः अस्माकं स्तुतयः उक्थानि शस्त्राणि च वावृधुः प्रावर्धयन् तं स्तुमः । ततो वयम् अस्य इंद्रस्य पुरूणि बहूनि पौंस्या वीर्याणि सिषासंतः । ‘षण संभक्तौ'। सनीडभावपक्ष आत्वे कृते ‘सनोतेरनः' इति सांहितिकं षत्वम् । तानि वीर्याणि संभक्तुमिच्छंतः संतः वनामहे । तमिंद्रं स्तुतिभिः संभजामहे ॥
+
+##### Gist of the bhāṣya
+
+The sages say to one another: that Indra, described before (the particle उ (*u*) is for emphasis), that very Indra we praise with praises. We praise the Indra whom our praises, गिरः (*giraḥ*), and our recited hymns, उक्थानि (*ukthāni*), that is, the śastras, have made grow. Therefore we, desiring to share in his many deeds of might, पौंस्या (*pauṃsyā*), that is, heroic deeds, वनामहे (*vanāmahe*): we serve and worship that Indra with praises.
+
+### Printed p. 417
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं इंद्रं (*yaṃ iṃdraṃ*)—the Indra whom
+- गिरः (*giraḥ*)—our words of praise
+- उक्थानि (*ukthāni*)—our śastra-mantras
+- वावृधुः (*vāvṛdhuḥ*)—have made to grow strong
+- तमु (*tamu*)—that very Indra
+- स्तवाम (*stavāma*)—let us praise
+- अस्य (*asya*)—of this Indra
+- पुरूणि (*purūṇi*)—of many kinds
+- पौंस्य (*pauṃsya*)—heroic deeds
+- सिषासंतः (*siṣāsaṃtaḥ*)—desiring to praise
+- वनामहे (*vanāmahe*)—we honour this Indra
+
+##### भावार्थ (Bhāvārtha)
+
+Let us praise that very Indra whom our words of praise and our śastra-mantras have made to grow strong. Desiring to praise the many kinds of heroic deeds of this Indra, we honour this Indra.
+
+##### English translation
+Let us praise that Indra whom our chants and hymns have magnified ; we worship him, desirous to honour his many deeds of might.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एतो॒ न्विंद्रं॒ स्तवा॑म शु॒द्धं शु॒द्धेन॒ साम्ना॑ ।  
+> शु॒द्धैरु॒क्थैर्वा॑वृ॒ध्वांसं॑ शु॒द्ध आ॒शीर्वा॑न्ममत्तु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतो इति । नु । इंद्रम् । स्तवाम । शुद्धम् । शुद्धेन । साम्ना ।  
+> शुद्धैः । उक्थैः । ववृध्वांसम् । शुद्धः । आशीःऽवान् । ममत्तु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेतिहासमाचक्षते । पुरा किलेंद्रो वृत्रादिकानसुरान् हत्वा ब्रह्महत्यादिदोषेणात्मानमपरिशुद्धमित्यमन्यत । ततस्तद्दोषपरिहारायेंद्र ऋषीनवोचत् । अपूतं मां युष्मदीयेन साम्ना शुद्धं कुरुतेति । ततस्ते च शुद्धयुत्पादकेन साम्ना शस्त्रैश्च परिशुद्धमकार्षुः । पश्चात्पूतायेंद्राय' यागादिकर्माणि सोमादीनि हवींषि प्रादुरिति । एषोऽर्थः शाट्यायनकब्राह्मणे प्रतिपादितः- ‘ इंद्रो वासुरान्हत्वापूत इवामेध्योऽमन्यत । सोऽकामयत शुद्धमेव मा संतं शुद्धेन साम्ना स्तुयुरिति । स ऋषीनब्रवीत् स्तुत मेति । ततः ऋषयः सामापश्यन् । तेनास्तुवन्नेतो न्विंद्रमिति । ततो वा इंद्रः पूतः शुद्धो मेध्योऽभवत्' इति । तथा चास्या ऋचोऽयमर्थः । ऋषयः परस्परं ब्रुवंति । नु क्षिप्रम् एतो आगच्छतैव । आगत्य च शुद्धेन शुद्ध्युत्पादकेन साम्ना तथा शुद्धैः शुद्धिहेतुभिः उक्थैः शस्त्रैश्च इंद्रं शुद्धम् अपापिनं कृत्वा स्तवाम स्तुयाम । ततः सामशस्त्रैश्च वावृध्वांसं पापरहित्येन वर्धमानं तमिममिंद्रं शुद्धः दशापवित्रेण आशीर्वान् आश्रयणवान् गव्यादिभिः ।  ‘ छंदसीरः ' इति मतुपो वत्वम् । तादृशः सोमः ममत्तु इंद्रं मादयतु । माद्यतेश्छांदसः श्लुः ॥
+> xxv. 27
+
+##### Gist of the bhāṣya
+
+Here they relate an old story. Once, it is said, Indra, having slain Vṛtra and other asuras, thought himself impure through the fault of brahmin-slaying and the like. To remove that fault Indra said to the sages: make me, who am unclean, pure with your Sāman. They then made him pure with a Sāman that produces purity and with śastras, and afterwards offered to the purified Indra sacrificial rites and oblations such as Soma. This meaning is set forth in the Śāṭyāyana-brāhmaṇa: Indra, having slain the asuras, thought himself as if unclean and unfit for the sacrifice. He desired: "Let them praise me, being pure, with a pure Sāman." He said to the sages: "Praise me." Then the sages saw a Sāman, and with it they praised him, न्विंद्रमिति (*nviṃdramiti*). Thereupon Indra became clean, pure and fit for the sacrifice. According to this the meaning of the Ṛk is as follows. The sages speak to one another: come quickly, all of you. Having come, with the pure Sāman that produces purity, and with pure recited hymns and śastras, the causes of purity, let us praise Indra, making him pure and without sin. Then the pure Soma, purified by the ten-stranded filter and furnished with admixtures of milk and the like, āśīrvān, is to gladden, ममत्तु (*mamattu*), this Indra, who grows through Sāman and śastras by being free from sin.
+
+### Printed p. 418
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sages) सु (*su*)—quickly
+- एतो (*eto*)—come together
+- शुद्धेन (*śuddhena*)—purifying
+- साम्ना (*sāmnā*)—with the Sāman
+- शुद्धैः (*śuddhaiḥ*)—the means of purification
+- उक्थैः (*ukthaiḥ*)—with the śastra-mantras
+- इंद्रं (*iṃdraṃ*)—Indra
+- शुष्ठं (*śuṣṭhaṃ*)—so that he becomes free from fault
+- स्तवाम (*stavāma*)—let us praise (afterwards)
+- शुद्धो (*śuddho*)—the Soma that has obtained purity through the ten-stranded filter
+- आशीर्वान् (*āśīrvān*)—and is furnished with substances such as milk as its support
+- वावृध्वांसं (*vāvṛdhvāṃsaṃ*)—Indra, grown strong by the Soma vessel
+- ममत्तु (*mamattu*)—may it gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O sages, come together quickly. Let us praise Indra, so that he becomes free from fault, with the purifying Sāman and with the śastra-mantras that are the means of purification. Afterwards may the Soma, which has obtained purity through the ten-stranded filter and is furnished with substances such as milk as its support, gladden Indra, who has grown strong through freedom from fault.
+
+##### English translation
+Come, let us praise the purified Indra with a pure Saman and with pure recited hymns ; let the pure (Soma) mixed with milk gladden him waxing strong.
+
+##### विशेषविषयगळु (Special Topics)
+
+In regard to this Ṛk and the next two Ṛks the commentator has told an earlier story:
+अत्रेतिहासमाचक्षते । पुरा किलेंद्रो वृत्रादिकानसुरान् हत्वा ब्रह्महत्या-दिदोषेणात्मानमपरिशुद्धमित्यमन्यत । ततस्तद्दोषपरिहारायेंद्र ऋषी- नवोचत् । अपूतं मां युष्मदीयेन साम्ना शुद्धं कुरुतेति । ततस्ते च शुद्ध्यृत्पादकेन साम्ना शस्त्रैश्च परिशुद्धमकार्षुः । पश्चात्पूतायें-द्राय यागादिकर्माणि सोमादीनि हवींषि प्रादुरिति । (*atretihāsamācakṣate | purā kileṃdro vṛtrādikānasurān hatvā brahmahatyā-didoṣeṇātmānamapariśuddhamityamanyata | tatastaddoṣaparihārāyeṃdra ṛṣī- navocat | apūtaṃ māṃ yuṣmadīyena sāmnā śuddhaṃ kuruteti | tataste ca śuddhyṛtpādakena sāmnā śastraiśca pariśuddhamakārṣuḥ | paścātpūtāyeṃ-drāya yāgādikarmāṇi somādīni havīṃṣi prāduriti |*)
+
+### Printed p. 419
+
+In former times Indra, having killed many asuras beginning with Vṛtra, thought that the fault of brahmin-slaying had come upon him. To remove that fault he addressed the sages: "O sages, you must make me, who am made impure by the fault of brahmin-slaying, perfectly pure. For this, praise me with fitting Sāma-mantras and make me pure." Thereupon those sages, to purify Indra, recited the Sāma-mantras and the śastra-mantras needed for it and made Indra perfectly pure as before. Afterwards they performed sacrifices and other rites for the purified Indra and offered Soma, oblations and the like. Such is the purport of this story. That this matter is stated in the Śāṭyāyana-brāhmaṇa (of the Sāmaveda) is why it is quoted here.
+इंद्रो वासुरान् हत्वापूत इवामेध्योऽमन्यत । सोऽकामयत शुद्ध-मेव मा संतं शुद्धेन साम्ना स्तुयुरिति । स ऋषीनब्रवीत् स्तुत मेति । तत ऋषयः सामापश्यन् । तेनास्तुवन्नेतो न्विंद्रमिति । ततो वा इंद्रः पूतः शुद्धो मेध्योऽभवत् ॥ (*iṃdro vāsurān hatvāpūta ivāmedhyo 'manyata | so 'kāmayata śuddha-meva mā saṃtaṃ śuddhena sāmnā stuyuriti | sa ṛṣīnabravīt stuta meti | tata ṛṣayaḥ sāmāpaśyan | tenāstuvanneto nviṃdramiti | tato vā iṃdraḥ pūtaḥ śuddho medhyo 'bhavat ‖*)
+The same meaning is stated here also. At Indra's command the sages, perceiving by their divine vision three mantras, एतोन्विंद्रः (*etonviṃdraḥ*) (Sāmaveda 350, 1402), इंद्र शुद्धो न आगहि (*iṃdra śuddho na āgahi*) (Sāmu. 1403) **NOTE** and इंद्र शुद्धो हि नो रयिं (*iṃdra śuddho hi no rayiṃ*) (Sāmu. 1404), praised Indra. Thereby Indra became pure. That this very matter is stated in these Ṛks is why the above story has been given as an introduction to the meaning of these Ṛks.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ शु॒द्धो न॒ आ ग॑हि शु॒द्धः शु॒द्धाभि॑रू॒तिभिः॑ ।  
+> शु॒द्धो र॒यिं नि धा॑रय शु॒द्धो म॑मद्धि सो॒म्यः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । शुद्धः । नः । आ । गहि । शुद्धः । शुद्धाभिः । ऊतिऽभिः ।  
+> शुद्धः । रयिम् । नि । धारय । शुद्धः । ममद्धि । सोम्यः ॥ ८ ॥
+
+### Printed p. 420
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शुद्धः अस्मदीयैः सामभिः शस्त्रैश्च परिशुद्धस्त्वं नः अस्मान् आ गहि आगच्छ । शुद्धाभिरूतिभिः । ऊतयो मरुतः । अवंति सर्वत्र गच्छंतीति वा । तेऽपि सामभिः शस्त्रैः परिपूताः । तैर्मरुद्भिः सह शुद्धः पापरहितस्त्वमा गहि । आगत्य च शुद्धः त्वं रयिं धनमस्मासु नि धारय नितरां स्थापय । किंच शुद्धः त्वं सोम्यः सोमार्हो भूत्वा ममद्धि सोमेन माद्य । ‘मदी हर्षे' । लोटि ‘बहुलं छंदसि' इति शपः श्लुः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, purified by our Sāmans and śastras, come to us. With pure ऊतिभिः (*ūtibhiḥ*): the ūtis are the Maruts, or those who go everywhere, अवंति (*avaṃti*). They too are purified by Sāmans and śastras. With those Maruts, you who are pure and free from sin, come. Having come, being pure, establish wealth firmly in us. Moreover, being pure and having become worthy of Soma, rejoice with Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शुद्धः (*śuddhaḥ*)—you, purified by our śastras and the like
+- नः (*naḥ*)—to us
+- आ गहि (*ā gahi*)—be gracious and come
+- शुद्धाभिः (*śuddhābhiḥ*)—with the thoroughly purified
+- ऊतिभिः (*ūtibhiḥ*)—Maruts, your protectors
+- शुद्धः (*śuddhaḥ*)—you, free from fault, come
+- शुद्धः (*śuddhaḥ*)—you, free from stain
+- रयिं (*rayiṃ*)—wealth
+- नि धारय (*ni dhāraya*)—establish in us
+- शुद्धः (*śuddhaḥ*)—you, thoroughly purified
+- सोम्यः (*somyaḥ*)—having obtained the right to drink Soma
+- ममद्धि (*mamaddhi*)—obtain joy from the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, thoroughly purified by our śastra-mantras and the like, be gracious and come to us. Free from fault, come with the Maruts, who are thoroughly purified and are your protectors. Free from stain, establish wealth in us. Thoroughly purified, having obtained the right to drink Soma, obtain the joy that comes from drinking Soma.
+
+##### English translation
+Come to us, Indra, purified ; purified with your pure protecting hosts ; purified, establish wealth in us ; purified and now worthy of the Soma, rejoice.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ शु॒द्धो हि नो॑ र॒यिं शु॒द्धो रत्ना॑नि दा॒शुषे॑ ।  
+> शु॒द्धो वृ॒त्राणि॑ जिघ्नसे शु॒द्धो वाजं॑ सिषाससि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । शुद्धः । हि । नः । रयिम् । शुद्धः । रत्नानि । दाशुषे ।  
+> शुद्धः । वृत्राणि । जिघ्नसे । शुद्धः । वाजम् । सिसाससि ॥ ९ ॥
+
+### Printed p. 421
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शुद्धः । हिरवधारणे । शुद्ध एव त्वं रयिं धनं नः अस्मभ्यं प्रयच्छ । तथा शुद्धः त्वं दाशुषे हविर्दत्तवते यजमानाय रत्नानि रमणीयानि धनादीनि च देहि । ततः शुद्धः पापरहितस्त्वं वृत्राणि अपामावरकान् कर्मविघ्कारिणः शत्रून् पापानि वा जिघ्नसे हंसि । ततः शुद्धः शत्रुहननदोषपरिहारायास्मदीयैः सामभिः शस्त्रैः परिशुद्धस्त्वं वाजम् अन्नमस्मभ्यं सिषाससि प्रदातुमिच्छसि । यदा यदा शत्रूनहं हन्यां तदा तदा शुद्ध्युत्पादकैः सामभिः शस्त्रैश्च यूयं मां परिशुद्धं कुरुतेत्यस्मभ्यमन्नं दातुमिच्छसीत्यर्थः ॥ ॥ ३१ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, being pure (हि (*hi*) is for emphasis), give us wealth. Likewise, being pure, give to the sacrificer who has given oblations, दाशुषे (*dāśuṣe*), delightful treasures, रत्नानि (*ratnāni*), wealth and the like. Then, being pure and free from sin, you smite the वृत्राणि (*vṛtrāṇi*): the enemies who obstruct the waters and hinder the ritual, or else sins. Then, being pure, purified by our Sāmans and śastras for the removal of the fault of killing enemies, you desire to give us food, वाजम् (*vājam*). The sense is: whenever I kill enemies, then you purify me with Sāmans and śastras that produce purity; thus you wish to give us food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शुद्धः (*śuddhaḥ*)—you, thoroughly purified
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—give to us
+- शुद्धः (*śuddhaḥ*)—you, free from stain
+- दाशुषे (*dāśuṣe*)—to the sacrificer who gives oblations
+- रत्नानि (*ratnāni*)—delightful riches, give
+- शुद्धः (*śuddhaḥ*)—you, free from sin
+- वृत्राणि (*vṛtrāṇi*)—the asura powers that cause obstruction
+- जिघ्नसे (*jighnase*)—destroy
+- शुद्धः (*śuddhaḥ*)—you, free from sin
+- वाजं (*vājaṃ*)—food
+- सिषाससि (*siṣāsasi*)—be willing to give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, thoroughly purified, give us wealth. Free from stain, give delightful riches to the sacrificer who gives oblations. Free from sin, destroy the asura powers that cause obstruction. Free from sin, be willing to give us food.
+
+##### English translation
+Purified, Indra, give us wealth ; purified, give to your worshipper preceious things ; purified, you smite your enemies ; purified, you desire to give us food.
+
+## Sūkta 96 (Maṇḍala 8)
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अस्मै ' इत्येकविंशत्यृचं तृतीयं सूक्तम् । अत्रानुक्रम्यते- अस्मै सैका द्युतानो वा मारुतस्त्रैष्टुभं चतुर्थी विराळिष्यामीति मारुतः पादः परैंद्राबार्हस्पत्या' इति । [१]द्युतानाख्यो मरुतां पुत्र ऋषिस्तिरश्चीर्नामांगिरसो वा । चतुर्थी विराट् । शिष्टास्त्रिष्टुभः । इंद्रो देवता । इष्यामि वो मरुतः' इति पादो मरुद्देवत्यः। ‘अध द्रप्सः' इत्येषा त्विंद्राबृहस्पतिदेवताका । सूक्तविनियोगो लिंगादवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अस्मै (*asmai*), of twenty-one Ṛks, is the third. About it the Anukramaṇī says: अस्मै सैका द्युतानो वा मारुतस्त्रैष्टुभं चतुर्थी विराळिष्यामीति मारुतः पादः परैंद्राबार्हस्पत्या (*asmai saikā dyutāno vā mārutastraiṣṭubhaṃ caturthī virāḷiṣyāmīti mārutaḥ pādaḥ paraiṃdrābārhaspatyā*). The seer is Dyutāna, a son of the Maruts, or Tiraścī of the Aṅgirases. The fourth Ṛk is in the Virāṭ metre; the rest are in Triṣṭubh. The deity is Indra. The pāda beginning इष्यामि (*iṣyāmi*) has the Maruts as deity. The Ṛk beginning अध द्रप्सः (*adha drapsaḥ*) has Indra and Bṛhaspati as deity. The use of the sūkta in ritual is to be understood from the indication.
+
 ---
 
-**Progress note:** Done through printed p. 415. Sūkta 95 (Maṇḍala 8) Ṛks 1-5
+**Progress note:** Done through printed p. 421. Mandala 8 sukta 95 Rks 5-9 (Indra purified story), start of sukta 96
