@@ -1539,6 +1539,292 @@ The sūkta उदु ब्रह्माणि (*udu brahmāṇi*) is the sixt
 
 Sāyaṇa says: In desire of food or fame (श्रवस्या (*śravasyā*)) all the sages raise up hymns (ब्रह्माणि (*brahmāṇi*)), that is, praises and oblations, for Indra, the sentence being completed thus; उ (*u*) is a filler. O Vasiṣṭha, you also honour (महय (*mahaya*)) Indra at the sacrifice (समर्ये (*samarye*)).
 
+### Printed p. 37
+
+> स्तोत्रेण हविषा च पूजय । अपि च य इंद्रो विश्वानि भुवनानि शवसा बलेना
+> ततान स ईवत उपगमनवतो मे मम वचांसि स्तुतिरूपाणि वाक्यान्युपश्रोता
+> भवतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: Indra is to be worshipped with praise and with oblation. Further, Indra who by his might (शवसा (*śavasā*)), that is, by his strength, has spread out all the worlds, may he become the hearer of my words, the words in the form of praise, spoken by me who approach him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रवस्या (*śravasyā*)—with desire for food
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- उद्वैरत (*udvairata*)—the sages recited, addressing Indra
+- वसिष्ठ (*vasiṣṭha*)—O Vasiṣṭha
+- समर्ये (*samarye*)—at the sacrifice
+- इंद्रं (*iṃdraṃ*)—Indra
+- महय (*mahaya*)—worship, you also, with praises and the like
+- यः (*yaḥ*)—which Indra
+- विश्वानि (*viśvāni*)—all the worlds
+- शवसा (*śavasā*)—by his strength
+- आ ततान (*ā tatāna*)—caused to spread out (that same Indra)
+- ईवतः (*īvataḥ*)—of me, who approach and worship him
+- मे (*me*)—my
+- वचांसि (*vacāṃsi*)—words in the form of praise
+- उपश्रोता (*upaśrotā*)—let him be the hearer
+
+##### भावार्थ (Bhāvārtha)
+
+The earlier sages recited hymns addressing Indra, in desire of food. O Vasiṣṭha, at this sacrifice you also worship Indra with praises and the like. May that Indra who by his strength caused all the worlds to spread out be the hearer of my words, in the form of praise, spoken by me who approach and worship him.
+
+##### English translation
+(The sages) have offered prayers to (Indra) for food; worship Indra; Vasishtha, at the sacrifice : may that Iadra who has spread out all (the regions) by his might, be the hearer of my words when approaching him.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अया॑मि॒ घोष॑ इंद्र दे॒वजा॑मिरिर॒ज्यंत॒ यच्छु॒रुधो॒ विवा॑चि ।  
+> न॒हि स्वमायु॑श्चिकि॒ते जने॑षु॒ तानीदंहां॒स्यति॑ पर्ष्य॒स्मान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयामि । घोषः । इंद्र । देवजामिः । इरज्यंत । यत् । शुरुधः । विवाचि ।  
+> नहि । स्वं । आयुः । चिकिते । जनेषु । तानि । इत् । अंहांसि । अति । पर्षि । अस्मान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा शुरुधः । शुचं संरुंधंतीति शुरुध ओषध्यः । इरज्यंते वर्धंते
+> तदा हे इंद्र त्वदर्थं विवाचि स्तोतृभि देवजामिर्देवानां बंधुर्घोषः । स्तुति-
+
+### Printed p. 38
+
+> रूपः शब्दो घोषः । अयामि । अकारि । अपि च जनेषु मध्ये केनापि स्वमायुः
+> स्वजीवितं नहि चिकिते । न ज्ञायते । यैरायुः क्षीयते तानीत्तानि सर्वाण्येवांहांसि पापान्यस्मानति पर्षि । अतिपारय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: When (यत् (*yat*)) the Śurudhaḥ grow, then, O Indra, a sound of praise, a kinsman of the gods, is raised for you by the worshippers. The Śurudhaḥ are the plants, so called because they check (saṃrundhanti) sorrow (śuc). The word अयामि (*ayāmi*) means "has been made". And among men no one knows his own life-span. Carry us across all those sins by which life is brought to an end.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- शुरुधः (*śurudhaḥ*)—the plants
+- इरज्यंते (*irajyaṃte*)—grow (then)
+- विवाचि (*vivāci*)—in the worshipper
+- देवजामिः (*devajāmiḥ*)—dear to the gods
+- घोषः (*ghoṣaḥ*)—the sound in the form of praise
+- अयामि (*ayāmi*)—is made manifest
+- जनेषु (*janeṣu*)—among men, by anyone
+- स्वं (*svaṃ*)—his own (measure of life)
+- नहि चिकिते (*nahi cikite*)—is surely not known
+- आयुः (*āyuḥ*)—the life of man is brought to an end (by which sins)
+- तानीत् अंहांसि (*tānīt aṃhāṃsi*)—from all such sins
+- अस्मान् (*asmān*)—us
+- अति पर्षि (*ati parṣi*)—carry across
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the plants grow, then a sound in the form of praise, dear to the gods, is made manifest in the worshipper. By no one among men is the measure of his own life known with certainty. Carry us across all those sins by which the life of man is brought to an end.
+
+##### English translation
+When, Indra the plants grow up, the sound (of praise) acceptable to the gods, (uttered) by the worshipper, has been raised : by no one among men, is his own life understood ; convey us beyound all those sins (by which life is shortened).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒जे रथं॑ ग॒वेष॑णं॒ हरि॑भ्या॒मुप॒ ब्रह्मा॑णि जुजुषा॒णम॑स्थुः ।  
+> वि बा॑धिष्ट॒ स्य रोद॑सी महि॒त्वेंद्रो॑ वृ॒त्राण्य॑प्र॒ती ज॑घ॒न्वान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युजे । रथं । गोऽएषणं । हरिऽभ्यां । उप । ब्रह्माणि । जुजुषाणं । अस्थुः ।  
+> वि । बाधिष्ट । स्यः । रोदसी इति । महिऽत्वा । इंद्रः । वृत्राणि । अप्रति । जघन्वान् ॥
+
+### Printed p. 39
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गवेषणं गवां प्रापकमिंद्रस्य रथं हरिभ्यामिंद्रवाहाभ्यां युजे । स्तोत्रैरहं युनज्मि । ब्रह्माणि स्तोत्राणि जुजुषाणं परिचार्यैः सेव्यमानमिंद्रमुपास्थुः । उपातिष्ठंते । स्य सोऽयमिंद्रो महित्वा महत्त्वेन रोदसी द्यावापृथिव्यौ वि बाधिष्ट । व्यबाधिष्ट च । अपि चेंद्रो वृत्राणि शत्रूनप्रति द्वंद्वानि जघन्वान् हतवान् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I yoke with praises the chariot of Indra, the cow-winning chariot (गवेषणं (*gaveṣaṇaṃ*)), to his two horses (हरिभ्यां (*haribhyāṃ*)), the bearers of Indra. The hymns approach Indra, who is pleased (जुजुषाणं (*jujuṣāṇaṃ*)) and attended by his servants. This same Indra by his greatness overcame heaven and earth, the two worlds (रोदसी (*rodasī*)). And Indra slew the Vṛtras, that is the enemies, who had no match or equal.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गवेषणं (*gaveṣaṇaṃ*)—of Indra, who brings the winning of cows
+- रथं (*rathaṃ*)—the chariot
+- हरिभ्यां (*haribhyāṃ*)—with the horses
+- युजे (*yuje*)—I cause to be joined (by my praises)
+- ब्रह्माणि (*brahmāṇi*)—the praises
+- जुजुषाणं (*jujuṣāṇaṃ*)—Indra, who is satisfied by them
+- उपास्थुः (*upāsthuḥ*)—have approached
+- स्यः (*syaḥ*)—that famous Indra
+- महित्वा (*mahitvā*)—by his greatness
+- रोदसी (*rodasī*)—heaven and earth, both
+- वि बाधिष्ट (*vi bādhiṣṭa*)—has surpassed
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- अप्रति (*aprati*)—without resistance
+- जघन्वान् (*jaghanvān*)—has slain
+
+##### भावार्थ (Bhāvārtha)
+
+I praise and join the chariot of Indra, who brings the winning of cows, to his horses. For the satisfaction of Indra the praises approach him. That famous Indra has by his greatness surpassed both heaven and earth. That same Indra has destroyed the enemies by his irresistible strength.
+
+##### English translation
+I harness (by praises) the cows-bestowing chariot (of Indra) with his horses : (my) prayers have reached him who is pleased (by devotion): he has surpassed in magnitude heaven and earth, slaying the unresisting enemies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आप॑श्चित्पिप्युः स्त॒र्यो॒३॒॑३ न गावो॒ नक्ष॑न्नृ॒तं ज॑रि॒तार॑स्त इंद्र ।  
+> या॒हि वा॒युर्न नि॒युतो॑ नो॒ अच्छा॒ त्वं हि धी॒भिर्दय॑से॒ वि वाजा॑न् ॥ ४ ॥
+
+### Printed p. 40
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । चित् । पिप्युः । स्तर्यः । न । गावः । नक्षन् । ऋतं । जरितारः । ते । इंद्र ।  
+> याहि । वायुः । न । नियुतः । नः । अच्छ । श्वं । हि । धीभिः । दयसे । वि । वाजान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र  सादादापश्चिदापः स्तर्यो न गावः स्तर्यो वशा गाव इव
+> पिप्युः । वर्धंतां । असूता गावो मांसला भवंति हि । ते तव जरितारः स्तोतारश्चर्कुमुदकं नक्षन् । व्याप्नुवन् । असि च त्वं नोऽस्मान्नियुतो वायुर्न वायुरिवाच्छ याहि । अभियाहि । श्वं हि धीभिः प्रज्ञाभिः कर्मभिर्वा वाजानन्नानि वि
+> दयसे । स्तोतृभ्यः प्रयच्छसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, may the waters also swell like the स्तर्यः (*staryaḥ*) cows; स्तर्यः (*staryaḥ*) are barren cows, and cows that have not calved become full-bodied. May your praisers reach the water (ऋतं (*ṛtaṃ*) is glossed as water). And you, come to us like the wind with its Niyut horses; come towards us. For by your insight, or by our rites, you give (दयसे (*dayase*)) food (वाजान् (*vājān*)) to the worshippers.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्तर्यः (*staryaḥ*)—in the state of heifers
+- गावः न (*gāvaḥ na*)—as cows become full-bodied
+- आपः चित् (*āpaḥ cit*)—let the waters also
+- पिप्युः (*pipyuḥ*)—flow fully
+- ते (*te*)—your
+- जरितारः (*jaritāraḥ*)—praisers
+- ऋतं (*ṛtaṃ*)—water
+- नक्षन् (*nakṣan*)—let them obtain
+- नियुतः (*niyutaḥ*)—joined with the Niyuts
+- वायुः न (*vāyuḥ na*)—as the wind comes swiftly
+- नः अच्छ (*naḥ accha*)—facing us
+- याहि (*yāhi*)—be gracious
+- श्वं हि (*śvaṃ hi*)—you indeed
+- धीभिः (*dhībhiḥ*)—satisfied by the rites
+- वाजान् (*vājān*)—foods
+- वि दयसे (*vi dayase*)—you give to the praisers
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as cows in the state of heifers (that have not yet calved) become full-bodied, so let the waters also flow fully. Let your praisers obtain water. As the wind joined with the horses called Niyut comes swiftly, so be gracious, facing us. You, satisfied by our rites, are the giver of food to the praisers.
+
+##### English translation
+May the waters increase like young : may your worshippers, Indra, possess water (in abundance); come like the wind with the Niyut steeds, for you, (propitiated) by holy rites, verily bestow upon us food.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते त्वा॒ मदा॑ इंद्र मादयंतु शु॒ष्मिणं॑ तुवि॒राध॑सं जरि॒त्रे ।  
+> एको॑ देव॒त्रा दय॑से॒ हि मर्ता॑न॒स्मि ञ्छू॑र॒ सव॑ने मादयस्व ॥
+
+### Printed p. 41
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । त्वा । मदाः । इंद्र । मादयंतु । शुष्मिणं । तुविराधसं । जरित्रे ।  
+> एकः । देवत्रा । दयसे । हि । मर्तान् । अस्मिन् । शूर । सवने । मादयस्व ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां ते एते मदा मदकराः सोमाः मादयंतु । अपि च
+> जरित्रे स्तोत्रे शुष्मिणं बलवंतं तुविराधसं बहुधनं पुत्रं प्रयच्छतीति शेषः ।
+> हे शूर त्वं देवत्रा देवेष्वेक एव मर्तान्मनुष्यान् दयसे हि । दयतिरनुकंपार्थः ॥ अस्मिन्सवने यज्ञे मादयस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, may these exhilarating Soma-juices gladden you. And to the praiser they bring (the verb is to be supplied) a strong son (शुष्मिणं (*śuṣmiṇaṃ*)) of abundant wealth (तुविराधसं (*tuvirādhasaṃ*)). O hero, you alone among the gods show compassion (दयसे (*dayase*)) to mortals; the root दय (*daya*) has the sense of compassion. Be exhilarated at this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मदाः (*madāḥ*)—inebriating
+- ते (*te*)—these Soma-juices
+- त्वा (*tvā*)—you
+- मादयंतु (*mādayaṃtu*)—let them satisfy
+- जरित्रे (*jaritre*)—to the praiser
+- शुष्मिणं (*śuṣmiṇaṃ*)—a mighty
+- तुविराधसं (*tuvirādhasaṃ*)—and exceedingly wealthy son, give
+- शूर (*śūra*)—O valiant Indra
+- देवत्रा (*devatrā*)—among all the gods
+- एकः (*ekaḥ*)—you alone
+- मर्तान् (*martān*)—towards men
+- दयसे हि (*dayase hi*)—you show compassion
+- अस्मिन् सवने (*asmin savane*)—at this sacrifice
+- मादयस्व (*mādayasva*)—be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let these inebriating Soma-juices satisfy you. Give to the praiser a son who is mighty and exceedingly wealthy. O valiant Indra, among all the gods you alone show compassion towards men. At this sacrifice drink the Soma and be satisfied.
+
+##### English translation
+May these inebriating draughts exhilarate you, Indra : bestow upon the praiser (a son vigorous and wealthy) : for you alone amongst the gods are compassionate to mortals : be exhilarated here at this sacrifice.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेदिंद्रं॒ वृष॑णं॒ वज्र॑बाहुं॒ वसि॑ष्ठासो अ॒भ्य॑र्चंत्य॒र्कैः ।  
+> स नः॑ स्तु॒तो वी॒रव॑द्धातु॒ गोम॑द्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥  
+> ६
+
+### Printed p. 42
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । इत् । इंद्रं । वृषणं । वज्रऽबाहुं । वसिष्ठासः । अभि । अर्चंति । अर्कैः ।  
+> सः । नः । स्तुतः । वीरऽवत् । पातु । गोऽमत् । यूयं । पात । स्वस्तिऽभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसिष्ठासो वसिष्ठा वज्रबाहुं वज्रकल्पबाहुं वृषणं कामानां वर्षितारमिंद्रमेवेदुक्तेन प्रकारेणैवार्क्यैरर्चनीयैः स्तोत्रैरभ्यर्चंति । अभिपूजयंति । स्तुतः स इंद्रो नोऽस्मभ्यं वीरवत्पुत्रादियुक्तं गोमद्गोयुक्तं च धनं धातु । ददातु । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The Vasiṣṭhas (वसिष्ठासो (*vasiṣṭhāso*)) glorify Indra, the showerer of desires, whose arms are like the thunderbolt, in the manner just stated, with hymns fit for worship (अर्क्यैः (*arkyaiḥ*)); अभ्यर्चंति (*abhyarcaṃti*) means they worship. May that Indra, praised, grant us wealth that includes heroic sons and the like and that is rich in cattle (गोमत् (*gomat*)). The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठासः (*vasiṣṭhāsaḥ*)—the sages born in the family of Vasiṣṭha
+- वज्रबाहुं (*vajrabāhuṃ*)—who holds the thunderbolt in his hand
+- वृषणं (*vṛṣaṇaṃ*)—the showerer of desires
+- इंद्रं (*iṃdraṃ*)—Indra
+- एवेत् (*evet*)—in the manner stated above
+- अर्क्यैः (*arkyaiḥ*)—with worshipful praises
+- अभ्यर्चंति (*abhyarcaṃti*)—worship
+- स्तुतः (*stutaḥ*)—praised
+- सः (*saḥ*)—that same Indra
+- नः (*naḥ*)—to us
+- वीरवत् (*vīravat*)—accompanied by mighty sons
+- गोमत् (*gomat*)—and rich in cattle
+- धातु (*dhātu*)—let him give the wealth (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+The sages born in the family of Vasiṣṭha worship, in the manner stated above, with worshipful praises Indra, who holds the thunderbolt in his hand and showers desires. May that same Indra, thus praised, give us wealth accompanied by mighty sons and rich in cattle. O Indra and the other gods, protect us always with blessings.
+
+##### English translation
+In this manner the Vasishthas glorify with hymns Indra, the showerer, the bearer of the thunderbolt : may he so glorified grant us wealth, comprising male posterity and cattle : and do you ever cherish us with blessings.
+
 ---
 
-**Progress note:** Done through printed p. 36. Sukta 22 rks 5-9, Sukta 23 rk 1 start (pp. 31-36)
+**Progress note:** Done through printed p. 42. Sūkta 23 Ṛk 1 end to Ṛk 6
