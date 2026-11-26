@@ -82,3 +82,7 @@
 - Nov 26 2026 (user's readings, late): p399 l3 `ಶತಕ್ರತೋೇಕ[?]` → `ಶತಕೃತೋ ಅನೇಕ`; p407 l2 `ಕರೆ ಆ[?]` → `ಕರೆದು`; p407 l4 `ಪ್ರಾಪ[?]।` → `ತುಷ್ಟಾನ` (from the user's snippet `…ಋಭುಂ ತುಷ್ಟಾನ ಋಭವಸ್ತತ್ಸ…`).
 
 - Nov 26 2026 (translator of batch 17, w0272, Sūkta 87.1 Pratipadārtha): English `like the Gara deer` → `like the Gaura deer` (typo; the headword is गौराविव). Logged hand repair of a committed line.
+
+- Nov 26 2026 (user's readings of the 52 remaining marks on PDF pp. 758-890: the user sent each place's text window with the mark removed): 35 marks cleared where the window agreed with the text; 17 windows replaced by the user's text where it differed: p760 `ರಥಿನು`→`ರಥಿಕನು`, p766 `ಹೆರಡಿ`→`ಹರಡಿ`, p781 `ಹಿಂದಿ`→`ಹಿಂಡಿ`, p802 `ಪ್ರಾನಾರ್ಥ`→`ಪಾನಾರ್ಥ`, p809 `ನನುಗಾಗಿ`→`ನಮಗಾಗಿ`, p829 `ಹೇಳಿರುವುದ`→`ಹೇಳಿರುವುದು`, p840 the stray `೬` before the mark removed, p842 `ನಮುಗೆ`→`ನಮಗೆ` and `ದಾತೃಸಿ`→`ದಾನಿ` (the full stop kept), p849 `ಸೋಮುನ)`→`ಸೋಮನು`, p856 `ಜೇಗಬೇಗನೆ`→`ಬೇಗಬೇಗನೆ`, p858 `ನಿರ್ಮಿತೆವಾದ`→`ನಿರ್ಮಿತವಾದ` and `ಪ್ರಸಿದ್ಧಮೂ`→`ಪ್ರಸಿದ್ಧವೂ`, p860 `ಬೇಗಸೆ`→`ಬೇಗನೆ` and `ಸೋಮುವು`→`ಸೋಮವು`, p868 `sit dowu`→`sit down`, p870 `ಜೇಗನೆ`→`ಬೇಗನೆ`, p878 `ನಮುಗೆ`→`ನಮಗೆ`. Heads: p883 `ವ. ೬೨` and p885 `ವ. ೨೩` accepted as the user wrote them (no mark left); a Varga of 62 cannot be right (neighbouring heads of this adhyāya run 28-33): flagged to the user.
+
+- Nov 26 2026: p789 l3 `lap of[?] Aditi` → `lap of Aditi` (the user's window, cleared by hand: the script's pass had left it).
