@@ -10583,6 +10583,181 @@ Metre: Jagatī
 
 O Aśvins, you are दस्रा (*dasrā*), that is, beautiful to behold; or else, from the root दसु (*dasu*) in the sense of destruction, you are the destroyers of all enemies. You are भिषजा (*bhiṣajā*), the physicians of the gods; or else you are the drivers away of fears: when men praise the Aśvins, they remove their fear. Being such, you are मयोभुवा (*mayobhuvā*), the producers of happiness. Both of you (उभा (*ubhā*)) have become the objects of the praise of Dakṣa, the Prajāpati of that name; this is well known (हि (*hi*)): formerly Dakṣa praised you. Such praiseworthy ones as you, Viśvaka, the seer of that name, calls with praises for the sake of his son, called तनूकृथे (*tanūkṛthe*), that is, one who spreads the family, a son, namely Viṣṇāpū (so the block reads, and later Viṣṇāpva). **NOTE** Therefore do not separate our friendships (सख्या (*sakhyā*)), which have come into being through our being worshippers; **NOTE** and further, release, that is, standing on the chariot, loosen the reins of the horses, in order to come to us. Here the father Viśvaka, speaking of himself, says that he calls you on behalf of his son named Viṣṇāpū. Or else: Kṛṣṇa, the seer who is the father of Viśvaka, says that his son Viśvaka calls you for the sake of a son.
 
+### Printed p. 266
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—those whose form is attractive
+- भिषजा (*bhiṣajā*)—the physicians of the gods
+- मुयोभुवा (*muyobhuvā*)—those who produce happiness
+- उभा (*ubhā*)—you, O Aśvin deities, who are always together, both of you
+- दक्षस्य (*dakṣasya*)—of Dakṣa Prajāpati
+- वचसः (*vacasaḥ*)—the objects of the praise
+- बभूवथुः (*babhūvathuḥ*)—you have become
+- हि (*hi*)—this matter is well known
+- ता (*tā*)—you who are thus well known
+- वां (*vāṃ*)—you
+- विश्वकः (*viśvakaḥ*)—the seer called Viśvaka
+- तनूकृथे (*tanūkṛthe*)—for the sake of his son
+- हवते (*havate*)—invokes with praises; therefore
+- नः (*naḥ*)—in our case
+- सख्या (*sakhyā*)—the friendship you have
+- मा वि यौष्टं (*mā vi yauṣṭaṃ*)—do not cause it to depart, and
+- मुमोचतं (*mumocataṃ*)—you who have come near us, unyoke the horses of your chariot
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whose form is attractive, the physicians of the gods, the givers of happiness to all, who, though two, are always together, you have been the objects of the praise of Dakṣa Prajāpati. This matter is well known. The seer called Viśvaka (the seer of this sūkta) invokes you, such as you are, with praises for the sake of his son. Do not let the friendship you have for us fall away; unyoke here the horses of your chariot, you who have come near us.
+
+##### English translation
+Dasras, physicians, sources of happiness, you both were (the objects) of Daksha's praise; Vishwaka now invokes you for the sake of his son ; sever not our friendships, but fling loose (your reins and gallop hither).
+
+### Printed p. 267
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Viśvaka, the seer of the sūkta, speaks of himself, saying that he invokes the Aśvin deities on behalf of his son called Viṣṇāpu. Or else it may be said that the seer called Kṛṣṇa, the father of the seer Viśvaka, says that his son Viśvaka invokes the Aśvin deities on account of his own son called Viṣṇāpu.
+
+दस्रा (*dasrā*)—दर्शनीयौ (*darśanīyau*). Those whose form is attractive. Or else दसु उपक्षये । सर्वेषां शत्रूणामुपक्षपयितारौ । (*dasu upakṣaye | sarveṣāṃ śatrūṇāmupakṣapayitārau |*). If it is supposed that the word दस्रा (*dasrā*) is formed from the root दसु (*dasu*), "to destroy", the meaning is also: those who destroy the enemies.
+
+भिषजा (*bhiṣajā*)—Two kinds of meaning may be given for this word also. As in the scriptural sentence अश्विनौ वै देवानां भिषजौ (*aśvinau vai devānāṃ bhiṣajau*), these Aśvin deities are well known as the physicians of the gods. Or else भीतीनां त्रासयितारौ । यदा नरा अश्विनौ स्तुवंति तदा तौ तेषां भीतिमुपनयत इत्यर्थः । (*bhītīnāṃ trāsayitārau | yadā narā aśvinau stuvaṃti tadā tau teṣāṃ bhītimupanayata ityarthaḥ |*): those who remove the fear that comes upon people. That is, when people pray to the Aśvin deities, these deities remove the fear of those people. Therefore the meaning "those who remove fear" may also be given.
+
+तनूकृथे (*tanūkṛthe*)—तनोति कुलमिति तनूः पुत्रः तस्य निमित्तं (*tanoti kulamiti tanūḥ putraḥ tasya nimittaṃ*). Because he extends the family, that is, because he causes the lineage to grow through offspring, a son is called तनूः (*tanūḥ*); the sense of the word is "for the sake of that son".
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था नू॒नं वां॒ विम॑ना॒ उप॑ स्तवद्यु॒वं धियं॑ ददथु॒र्वस्य॑इष्टये ।  
+> ता वां॒ विश्व॑को हवते तनूकृ॒थे मा नो॒ वि यौ॑ष्टं स॒ख्या मु॒मोच॑तम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । नूनम् । वाम् । विऽमनाः । उप । स्तवत् । युवम् । धियम् । ददथुः । वस्यःऽइष्टये ।  
+> ता । वाम् । विश्वकः । हवते । तनूऽकृथे । मा । नः । वि । यौष्टम् । सख्या । मुमोचतम् ॥ २ ॥
+
+### Printed p. 268
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ विमनाः एतन्नामक ऋषिः नूनं पुरा कथा कथं वां युवाम् उप स्तवत् कथमुपास्तौत् । तेन स्तुतौ युवं युवां वस्यइष्टये । वस्यो वसीयः प्रशस्तं धनम् । तस्याभिलषितस्येष्टयेऽभिगमनाय यद्वा वसिष्ठधनस्येष्टये प्राप्तये धियं बुद्धिं विमनसे ददथुः अददाथां खलु । वस्य इति वसुमच्छब्दादीयसुनि ‘विन्मतोर्लुक् ' इति लुक् । ईयसुन ईकारलोपश्छांदसः ॥ तादृशौ युवां विश्वको हवते इति गतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the seer of that name, Vimanas, formerly, how did he praise you? When he had praised you, you gave understanding to Vimanas for the attainment (इष्टये (*iṣṭaye*)) of वस्यः (*vasyaḥ*), that is, of the better, excellent wealth; that is, for the approach to that desired wealth; or else, for the obtaining of the best wealth. You indeed gave it. Such as you are, Viśvaka calls you; the rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) विमनाः (*vimanāḥ*)—the seer called Vimanas
+- नूनं (*nūnaṃ*)—formerly
+- कथा (*kathā*)—in what manner
+- वां (*vāṃ*)—you
+- उप स्तवत् (*upa stavat*)—praised
+- युवं (*yuvaṃ*)—you (pleased with his praise, to him)
+- वस्य इष्टये (*vasya iṣṭaye*)—for the way to the obtaining of wealth
+- धियं (*dhiyaṃ*)—understanding
+- दधथुः (*dadhathuḥ*)—gave
+- ता (*tā*)—you who are thus well known
+- वां (*vāṃ*)—you
+- विश्वकः (*viśvakaḥ*)—the seer called Viśvaka
+- तनूकृथे (*tanūkṛthe*)—for the sake of his son
+- हवते (*havate*)—invokes with praises; therefore
+- नः (*naḥ*)—in our case
+- सख्या (*sakhyā*)—the friendship you have
+- मा वि यौष्टं (*mā vi yauṣṭaṃ*)—do not cause it to depart, and
+- मुमोचतं (*mumocataṃ*)—you who have come near us, unyoke the horses of your chariot
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the seer called Vimanas formerly praised you in many ways. Pleased with his praise, you gave him understanding in the way of acquiring wealth. The seer called Viśvaka (the seer of this sūkta) invokes you, such as you are, with praises for the sake of his son. Do not let the friendship you have for us fall away. Unyoke here the horses of your chariot, you who have come near us.
+
+##### English translation
+How Vimanas once praised you, and you gave him understanding for the attainment of excellent wealth ! Vishwaka now invokes you for the
+
+### Printed p. 269
+
+sake of his son ; sever not our friendships, but fling loose ( your reins and gallop hither ).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं हि ष्मा॑ पुरुभुजे॒ममे॑ध॒तुं वि॑ष्णा॒प्वे॑ द॒दथु॒र्वस्य॑इष्टये ।  
+> ता वां॒ विश्व॑को हवते तनूकृ॒थे मा नो॒ वि यौ॑ष्टं स॒ख्या मु॒मोच॑तम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवम् । हि । स्म । पुरुऽभुजा । इमम् । एधतुम् । विष्णाप्वे । ददथुः । वस्यःऽइष्टये ।  
+> ता । वाम् । विश्वकः । हवते । तनूऽकृथे । मा । नः । वि । यौष्टम् । सख्या । मुमोचतम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुभुजा पुरुभुजौ पुरूणां बहूनां धनादिदानेन भोजयितारौ । यद्वा । बहूनां स्तोतॄणां पालयितारावश्विनौ । युवम् । हि ष्म इत्यवधारणे । युवामेव इममेधतुम् । एधतेः ‘एधिवहोश्चतुः' ( उ. सू. १, ७८ ) इति चतुप्रत्ययः । चित्त्वादंतोदात्तः । इमां धनादिवृद्धिं विष्णाप्वे । विष्णोः सर्वेषां देवानां मुख्यत्वात् तद्ग्रहणे सर्वे देवा गृहीता भवंति । विष्ण्वादीन् कर्मणा व्याप्नोतीति विष्णापूः । पृषोदरादिः । यद्वा । विष्णुं सर्वग्रहेषु व्याप्तं सोमं दशापवित्रेणापुनातीति । तस्य चतुर्थी विष्णाप्व इति । एतन्नामके मम पुत्रे पौत्रे वा । पुत्राय पौत्राय वा । इमां धनादिवृद्धिं ददथुः अदत्तम् । किमर्थम् । वस्यइष्टये वसीयसः प्रशस्तधनस्येष्टय इच्छां पूरयितुम् ।' क्रियार्थोपपदस्य । (पा. सू. २. ३. १४ ) इति चतुर्थी । ता वाम् इति पूर्ववद्वयाख्येयम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, पुरुभुजा (*purubhujā*): those who cause many to be fed through gifts of wealth and the like; or else, the protectors of many praisers. युवम् । हि ष्म (*yuvam | hi ṣma*) is in the sense of emphasis: you alone. This increase of wealth and the like you gave to विष्णाप्वे (*viṣṇāpve*). Since Viṣṇu is the chief of all the gods, when he is taken all the gods are taken; the one who pervades Viṣṇu and the others by his rite is Viṣṇāpū. Or else: he purifies with the ten-stranded filter the Soma that pervades the Viṣṇu cup among all the graha cups; the dative of that is विष्णाप्व (*viṣṇāpva*). So, to my son or grandson of this name, you gave this increase of wealth and the like. For what purpose? For वस्यइष्टये (*vasyaiṣṭaye*), that is, to fulfil the wish for better, excellent wealth. ता वाम् (*tā vām*) is to be explained as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभुजा (*purubhujā*)—O Aśvin deities, protectors of many
+- युवं (*yuvaṃ*)—you
+- इमुं एधतुं (*imuṃ edhatuṃ*)—for bringing about this increase of wealth
+- विष्णाप्वे (*viṣṇāpve*)—in my son called Viṣṇāpu
+
+### Printed p. 270
+
+- वस्य इष्टये (*vasya iṣṭaye*)—the understanding that is the means to the obtaining of wealth
+- दधतुः (*dadhatuḥ*)—graciously gave
+- ता (*tā*)—you who are thus well known
+- वां (*vāṃ*)—you
+- विश्वकः (*viśvakaḥ*)—the seer called Viśvaka
+- तनूकृथे (*tanūkṛthe*)—for the sake of his son
+- हवते (*havate*)—invokes with praises; therefore
+- नः (*naḥ*)—in our case
+- सख्या (*sakhyā*)—the friendship you have
+- मा वि यौष्टं (*mā vi yauṣṭaṃ*)—do not cause it to depart, and
+- मुमोचतं (*mumocataṃ*)—you who have come near us, unyoke the horses of your chariot
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, protectors of many sacrificers, you graciously gave to my son called Viṣṇāpū the understanding that is the means to the obtaining of wealth, so as to bring about the increase of his wealth. The seer called Viśvaka (the seer of this sūkta) invokes you, such as you are, with praises for the sake of his son. Do not let the friendship you have for us fall away. Unyoke here the horses of your chariot, you who have come near us.
+
+##### English translation
+Gladeners of many, you have given to Vishnapu this prosperity for the attainment of excellent wealth ; Vishwaka now invokes you for the sake of his son ; sever not our friendships, but fling loose (your reins and gallop hither).
+
+##### विशेषविषयगळु (Special Topics)
+
+पुरुभुजा (*purubhujā*)—This word is ordinarily used as an adjective describing the qualities of the Aśvin deities. पुरूणां बहूनां धनादिदानेन भोजयितारौ । अनेक जनरिगॆ धनादिगळन्नु कॊट्टु पोषिसुववरु अथवा बहूनां स्तोत्रणाम् पालयितारौ । (*purūṇāṃ bahūnāṃ dhanādidānena bhojayitārau | aneka janarigè dhanādigaḷannu kòṭṭu poṣisuvavaru athavā bahūnāṃ stotraṇām pālayitārau |*). Two kinds of meaning are given: those who nourish many people by giving them wealth and the like, or those who protect the many who sing their praise.
+
+विष्णाप्वे (*viṣṇāpve*)—The son of the seer Viśvaka, the seer of this mantra, is called Viṣṇāpū. The commentator has explained here the parts of this word. विष्णोः सर्वेषां देवानां मुख्य-त्वात् तद्ग्रहणे सर्वे देवा गृहीता भवंति । विष्ण्वादीन् कर्मणा व्याप्नोतीति विष्णापूः । (*viṣṇoḥ sarveṣāṃ devānāṃ mukhya-tvāt tadgrahaṇe sarve devā gṛhītā bhavaṃti | viṣṇvādīn karmaṇā vyāpnotīti viṣṇāpūḥ |*). Since Viṣṇu is the chief among all the gods, the word Viṣṇu here indicates all the gods. Because he pervades, that is, satisfies, by sacrificial rites and the like all the gods, beginning with Viṣṇu, he is named विष्णापूः (*viṣṇāpūḥ*). This is one kind of meaning; in this meaning the latter half of the word is formed from the root आप्लृ व्याप्तौ (*āplṛ vyāptau*). Or else another
+
+### Printed p. 271
+
+kind of meaning also becomes possible for this word. विष्णुं सर्वग्रहेषु व्याप्तं सोमं दशापवित्रेणा पुनातीति विष्णापूः। (*viṣṇuṃ sarvagraheṣu vyāptaṃ somaṃ daśāpavitreṇā punātīti viṣṇāpūḥ|*). Because he purifies with the ten-stranded filter the Soma in the Viṣṇu graha cup, which pervades the graha cups of all the gods, he is named विष्णापूः (*viṣṇāpūḥ*). Here it must be supposed that the latter half of this word is formed from the root पुनाति (*punāti*) preceded by the preverb आ (*ā*).
+
+वस्य इष्टयो (*vasya iṣṭayo*)—वसीयुसः प्रशस्तधनस्येष्टय इच्छां पूरयितुं इमां धनादि-वृद्धिं ददथुः अदत्तं। (*vasīyusaḥ praśastadhanasyeṣṭaya icchāṃ pūrayituṃ imāṃ dhanādi-vṛddhiṃ dadathuḥ adattaṃ|*). The meaning is: to fulfil the wish of Viṣṇāpu, who desires excellent wealth, you brought about the increase of his wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्यं वी॒रं ध॑न॒सामृ॑जी॒षिणं॑ दू॒रे चि॒त्संत॒मव॑से हवामहे ।  
+> यस्य॒ स्वादि॑ष्ठा सुम॒तिः पि॒तुर्य॑था॒ मा नो॒ वि यौ॑ष्टं स॒ख्या मु॒मोच॑तम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्यम् । वीरम् । धनऽसाम् । ऋजीषिणम् । दूरे । चित् । संतम् । अवसे । हवामहे ।  
+> यस्य । स्वादिष्ठा । सुऽमतिः । पितुः । यथा । मा । नः । वि । यौष्टम् । सख्या । मुमोचतम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ उत अपि च वीरं कर्मणि समर्थं धनसां धनानां संभक्तारम् ऋजीषिणम् । ऋजीषोऽपार्जितोऽभिषुतः सोमः। तद्वंतं दूरे चित् दूर एव संतं भवंतं विनष्टमिव त्यं तं विष्णाप्वम् अवसे अस्माकं रक्षणाय हवामहे आह्वयामः । पुत्रो हि पितरं रक्षति । किंच यस्य पुत्रस्य पौत्रस्य वा सुमतिः शोभना स्तुतिः स्वादिष्ठा स्वादुतमा । अतिशयेन देवानां स्वादुकारिणीत्यर्थः । तत्र दृष्टांतः । पितुर्यथा । पितुर्विश्वकस्य स्तुतिर्यथा देवानां प्रीतिकरी तद्वत् । तस्मात्तमाह्वयाम इति शेषः । मा नो इति गतार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, and further: the hero, that is, one capable in action; the distributor of wealths (धनसां (*dhanasāṃ*)); ऋजीषिणम् (*ṛjīṣiṇam*), that is, one who has the ṛjīṣa, the Soma that has been strained and pressed out. Though he is far away, as if lost, that Viṣṇāpva we call for our protection (अवसे (*avase*)); for a son protects his father. Further, the good praise (सुमतिः (*sumatiḥ*)) of this son or grandson is the sweetest (स्वादिष्ठा (*svādiṣṭhā*)), that is, exceedingly pleasing to the gods. The illustration is पितुर्यथा (*pituryathā*): as the praise of the father Viśvaka is pleasing to the gods, so is his. Therefore we call him; "we call" is to be supplied. मा नो (*mā no*) has been explained already.
+
 ---
 
-**Progress note:** Done through printed p. 265. pp. 260-265: Sukta 85 Rks 5-9, Sukta 86 Rk 1
+**Progress note:** Done through printed p. 271. pp. 266-271: Sukta 86 Rks 1-4
