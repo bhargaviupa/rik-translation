@@ -36,3 +36,5 @@
 - Nov 25 2026: front matter (PDF pp. 1–12: cover, title, portrait, ಪೀಠಿಕೆ, contents) read by two agents into p0001–p0012.md and assembled before `<!-- page 1 -->` (scan_assemble.py --body-from 13). The contents agent wrote some unreadable sūkta numbers/titles of the contents 'by their position in the sequence' (its own report): to be checked.
 
 - Nov 26 2026: markdown bold markers `**` (added by transcription agents for words printed in bold; 58 pairs on 10 pages: p0187, p0188, p0189, p0190, p0736, p0737, p0738, p0739, p0740, p0741) removed; the words stay.
+
+- Nov 26 2026: 9 running heads: the title words with [?] (ಋಗ್ವೇದಸಂಹಿತಾ / ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, the volume's two head titles, 415/413 clean heads) set to the clean form when ≥0.75 similar; 3-digit page numbers with [?] set to PDF page − 12. Listed in review/heads_applied.tsv.

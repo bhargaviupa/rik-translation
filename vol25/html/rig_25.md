@@ -5776,7 +5776,7 @@ Nasatyas, Aswins, hasten quickly to my praise, that you may drink the exhilarati
 
 ---
 
-266  ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ[?]  [ ಮಂ. ೮. ಅ. ೯. ಸೂ. ೮೬
+266  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ ಮಂ. ೮. ಅ. ೯. ಸೂ. ೮೬
 
 [[block: bhashya]]
 
@@ -6794,7 +6794,7 @@ Thrice, Shatakratu, you purify Apala, in the hole of the chariot, in the hole of
 
 ---
 
-ಅ. ೬. ಅ. ೬. ವ. ೧೩ | ಋಗ್ವೇದಸಂಹಿತಾ[?] ೩೨೩
+ಅ. ೬. ಅ. ೬. ವ. ೧೩ | ಋಗ್ವೇದಸಂಹಿತಾ ೩೨೩
 ಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ತಿಳಿ. ಆರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ಪುರುಹೂತಂ ಪುರುಷ್ಟುತೇತಿ ಶೇಷಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೨೩) ನಿರ್ದಿಷ್ಟ ವಾಗಿರುವುದು. ಮತ್ತು ಪ್ರಥಮರಾತ್ರಿ ಪರ್ಯಾಯದಲ್ಲಿ ಹೋತೃವು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಈ ಸೂಕ್ತದ ಎರಡು ತೃಚಗಳನ್ನು (ಆರು ಋಕ್ಕುಗಳನ್ನು) ಸ್ತೋತ್ರಿಯ ಮತ್ತು ಅನುರೂಪತೃಚಗಳನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಪಾಂತಮಾ ವೋ ಅಂಧಸೋಽಪಾದು ಶಿಪ್ರ್ಯಂಧಸಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು
 ಸೂಕ್ತ—೯೨
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೯೨ ॥
@@ -10307,7 +10307,7 @@ Those two leaders of rites, great in might, far-seeing, resplendent, and most fa
 
 ---
 
-ಅ. ೬ ಅ. ೭. ವ. ೬ ] ಋಗ್ರೇದಸಂಹಿತಾ[?] 521
+ಅ. ೬ ಅ. ೭. ವ. ೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 521
 English Translation
 Mitra, and Varuna, he who hastens to appear before you, becomes the messenger of the gods ; he wears an iron helmet, he exults in his wealth.
 ವಿಶೇಷವಿಷಯಗಳು
@@ -14133,7 +14133,7 @@ Cast into the filtering cloth the unassailable invincible (Soma), abiding in the
 
 ---
 
-ಅ. ೬. ಅ. ೮. ವ. ೬.] ಋಗ್ವೇದಸಂಹಿತಾ[?] 711
+ಅ. ೬. ಅ. ೮. ವ. ೬.] ಋಗ್ವೇದಸಂಹಿತಾ 711
 ॥ ಸಾಯಣಭಾಷ್ಯಂ ॥
 [[block: bhashya]]
 ॥ ಪ್ರತಿಪದಾರ್ಥ ॥
@@ -14315,7 +14315,7 @@ Soma, mounting beyond the three words, you illumine heaven, and, moving, you urg
 
 ---
 
-ಮ. ೯. ಅ. ೮. ವ. ೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 721[?]
+ಮ. ೯. ಅ. ೮. ವ. ೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 721
 English Translation
 The Sage performers (of pious rites) glorify (the Soma) at the head of the sacrifice, entertaining affection for him the all-beholding.
 ॥ ಸಂಹಿತಾಪಾಠಃ ॥
@@ -14620,7 +14620,7 @@ The mothers of the male calf, which are sucked by him, [?]ng to cherish the bull
 
 ---
 
-734 ಸಾಯಣಭಾಷ್ಯಸ[?] [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೧೯
+734 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೧೯
 ॥ ಪ್ರತಿಪದಾರ್ಥ ॥
 ವೃಷಣ್ಯಂತೀಭ್ಯಃ—ಸೋಮರಸವನ್ನಪೇಕ್ಷಿಸುತ್ತಿರುವ ವಸತೀವರ್ಯುದಕಗಳಿಗೆ ಮಿಶ್ರಿತವಾಗುವುದಕ್ಕಾಗಿ। ಪುನಾನಃ—ಶೋಧಿತವಾದ ಸೋಮುವು । ಗರ್ಭಂ—ಗರ್ಭಸ್ಥಾನೀಯವಾದ ರಸವನ್ನು । ಕುವಿತ್—ಬಹಳವಾಗಿ । ಆದಧತ್—ಉಂಟುಮಾಡುತ್ತದೆ । ಯಾಃ—ಯಾವ ಆ ವಸತೀವರ್ಯುದಕಗಳು । ಶುಕ್ರಂ—ಪ್ರಕಾಶಮಾನವಾದ ಎಂದರೆ ಸ್ವಚ್ಛವಾದ । ಪಯಃ—ಹಾಲನ್ನು । ದುಹತೇ—ವತ್ಸಸ್ಥಾನೀಯವಾದ ಸೋಮುಕ್ಕಾಗಿ ಕರೆಯುತ್ತವೆ.
 ॥ ಭಾವಾರ್ಥ ॥
@@ -14890,7 +14890,7 @@ These flowing Soma-juices, foe-destroying, exhilarating, heaven-conferring, hast
 
 ---
 
-ಅ. ೬. ಅ. ೮. ವ. ೧೧ ] ಋಗ್ವೇದಸಂಹಿತಾ[?] ೭೪೫
+ಅ. ೬. ಅ. ೮. ವ. ೧೧ ] ಋಗ್ವೇದಸಂಹಿತಾ ೭೪೫
 ಮಾಡುವವರಿಗೆ । ವಯುಸ್ಕೃತಃ—ಅನ್ನವನ್ನು ಸಂಪಾದಿಸಿಕೊಡುವವೂ ಆದ ಈ ಸೋಮರಸಗಳು ಇಂದ್ರನ ಪಾನಾರ್ಥವಾಗಿ ಹರಿಯುತ್ತವೆ ।
 ಭಾವಾರ್ಥ
 ಅಭಿಷವಕಾರ್ಯದಿಂದ ಚೆನ್ನಾಗಿ ಸಂಸ್ಕರಿಸಲ್ಪಡುವವೂ[?], ಶತ್ರುಗಳನ್ನು ಎದುರಿಸುವವೂ ಅಭಿಷವಕಾರ್ಯವನ್ನು ಚೆನ್ನಾಗಿ ಮಾಡುವ ಋತ್ವಿಗ್ಜನರಿಗೆ ಧನವನ್ನು ಒದಗಿಸಿಕೊಡುವವೂ, ಸ್ತೋತ್ರಮಾಡುವವರಿಗೆ ತಾವೇ ಸ್ವತಃ ಅನ್ನವನ್ನು ಸಂಪಾದಿಸಿಕೊಡುವವೂ ಆದ ಈ ಸೋಮರಸಗಳು ಇಂದ್ರನ ಪಾನಾರ್ಥವಾಗಿ ಪ್ರವಹಿಸುತ್ತವೆ.
@@ -15015,7 +15015,7 @@ These Soma-juices, when let out, neigh as they leap swiftly forth like chariots 
 
 ---
 
-752 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ[?] [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨೨
+752 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨೨
 English Translation
 Like strong winds, like the rains of Par janya, like the swift-whirling (flames) of fire.
 ಸಂಹಿತಾಪಾಠಃ
@@ -15110,7 +15110,7 @@ You, Soma, hold the wealth of cows which you have won from the Panis ; you have 
 
 ---
 
-ಅ. ೬. ಅ. ೮. ವ. ೧೩ ]  ಋಗ್ವೇದಸಂಹಿತಾ[?]  757
+ಅ. ೬. ಅ. ೮. ವ. ೧೩ ]  ಋಗ್ವೇದಸಂಹಿತಾ  757
 ॥ ಸಂಹಿತಾಪಾಠಃ ॥
 [[block: samhita]]
 ॥ ಪದಪಾಠಃ ॥
