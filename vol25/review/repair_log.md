@@ -38,3 +38,5 @@
 - Nov 26 2026: markdown bold markers `**` (added by transcription agents for words printed in bold; 58 pairs on 10 pages: p0187, p0188, p0189, p0190, p0736, p0737, p0738, p0739, p0740, p0741) removed; the words stay.
 
 - Nov 26 2026: 9 running heads: the title words with [?] (ಋಗ್ವೇದಸಂಹಿತಾ / ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, the volume's two head titles, 415/413 clean heads) set to the clean form when ≥0.75 similar; 3-digit page numbers with [?] set to PDF page − 12. Listed in review/heads_applied.tsv.
+
+- 2026-11-26: `tools/rv/kn_full.py 25` made `vol25/Rigveda_Samhita_Vol25_Kannada_Text.md` from vol25/html/rig_25.md (user named it as base, Nov 26): pages 1–878, 873 with text, gaps: 5 (217, 475, 574, 575, 681); picture blocks collapsed: none. Gates passed (page markers complete/in order; digit multiset per page equal to the supplied page; no Kannada letter lost apart from normalised label wording). Details: `vol25/review/kn_full_notes.md`. No English file touched; reference names not yet unified in this file (`refs_apply.py 25 --scripts kannada` preview only).

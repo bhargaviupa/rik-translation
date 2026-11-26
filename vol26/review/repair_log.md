@@ -28,3 +28,5 @@
 - Nov 26 2026: p1045 line 15, user's reading: `ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?]` → `೩-೧-೭-೩` (3-1-7-3). All numbers of Vol 26 part 2 are settled; one word mark left (p1071).
 
 - Nov 26 2026: p1071 line 17, user's reading: `ಮರ್ಜಯೋಮುಸಿ[?]` → `ಮರ್ಜಯೋಮಸಿ`. Vol 26 part 2 has no [?] left.
+
+- 2026-11-26: `tools/rv/kn_full.py 26` made `vol26/Rigveda_Samhita_Vol26_Kannada_Text.md` from vol26/html/rig_26.md (user named it as base, Nov 26): pages 1–894, 874 (873 + p. 617 found inside 616 by the script) with text, gaps: 20 (list in vol26/review/kn_gaps.md; 809 and 812 exist in rig_26_part2.md, not used); picture blocks collapsed: none. Gates passed (page markers complete/in order; digit multiset per page equal to the supplied page; no Kannada letter lost apart from normalised label wording). Details: `vol26/review/kn_full_notes.md`. No English file touched; reference names not yet unified in this file (`refs_apply.py 26 --scripts kannada` preview only).

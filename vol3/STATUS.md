@@ -30,3 +30,6 @@ Built (799 pp.) with `publish/build.py 3 full`; `publish/out/vol3_full.pdf`.
 `vol3/README.md`, `vol3/vol3_runbook.md`, `vol3/Session_Report_Vol3_Sukta29-32.md`.
 
 - **Nov 18 2026, glosses (T12):** 12 more labelled glosses replaced by the marker `**GLOSS**` (35 markers in the volume now; removed text in `review/glosses_removed.tsv`, 13 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).
+
+## Kannada Text file (2026-11-26)
+`vol3/Rigveda_Samhita_Vol3_Kannada_Text.md` made from the supplied text by `tools/rv/kn_full.py` (pages 2–647; gaps: none). Sections are inferred by `html_to_kn.py`; on these older sources a `>` block can include Kannada commentary that follows the bhāṣya. Reference names not yet unified. Notes: `vol3/review/kn_full_notes.md`.
