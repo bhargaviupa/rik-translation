@@ -25359,6 +25359,294 @@ These Soma juices destil the dear desire of Indra, increasing his vigour.
 > पु॒ना॒नास॑श्चमू॒षदो॒ गच्छं॑तो वा॒युम॒श्विना॑ ।  
 > ते नो॑ धांतु सु॒वीर्य॑म् ॥ २ ॥
 
+### Printed p. 641
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानासः । चमूऽसदः । गच्छंतः । वायुम् । अश्विना ।  
+> ते । नः । धांतु । सुऽवीर्यम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते प्रसिद्धाः सोमाः पुनानासः पुनाना अभिषूयमाणाः चमूषदः चमसेषु सीदंतः वायुम् अश्विना अश्विनौ च गच्छंतः प्राप्नुवंतः नः अस्मभ्यं सुवीर्यं शोभनवीर्यं धांतु धारयंतु । प्रयच्छंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those well-known Soma juices, being purified, that is, pressed (पुनानासः (*punānāsaḥ*)), sitting in the cups (चमूषदः (*camūṣadaḥ*)), going to Vāyu and to the two Aśvins (गच्छंतः (*gacchaṃtaḥ*)), that is, reaching them, may bestow on us (धांतु (*dhāṃtu*)) good heroic strength (सुवीर्यं (*suvīryaṃ*)); the meaning is: may they grant it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानासः (*punānāsaḥ*)—purely pressed
+- चमूषदः (*camūṣadaḥ*)—and standing in the cup
+- ते (*te*)—those Soma juices
+- वायुं (*vāyuṃ*)—Vāyu
+- अश्विना (*aśvinā*)—the Aśvin deities
+- गच्छंतः (*gacchaṃtaḥ*)—approaching
+- नः (*naḥ*)—to us
+- सुवीर्यं (*suvīryaṃ*)—excellent strength
+- धांतु (*dhāṃtu*)—may they produce
+
+##### भावार्थ (Bhāvārtha)
+
+Those Soma juices, purely pressed and standing in the cup, approaching Vāyu and the Aśvin deities, may produce for us excellent strength.
+
+##### English translation
+Pure-flowing, filling the ladles, and proceeding to Vayu and the Ashwins, many they sustain our energy.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य सोम॒ राध॑से पुना॒नो हार्दि॑ चोदय ।  
+> ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । सोम । राधसे । पुनानः । हार्दि । चोदय ।  
+> ऋतस्य । योनिम् । आऽसदम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 642
+
+> हे सोम पुनानः अभिषूयमाणः हार्दि अभिलषितस्त्वम् इंद्रस्य राधसे संराधनाय ऋतस्य यज्ञस्य  योनिं स्थानम् आसदं यथेंद्र आसीदति तथेंद्रं चोदय प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being pressed (पुनानः (*punānaḥ*)), desired (हार्दि (*hārdi*)), impel Indra (चोदय (*codaya*)), for the propitiation of Indra (राधसे (*rādhase*)), to the place of the sacrifice (the yoni (योनिं (*yoniṃ*)) of the sacrifice (ऋतस्य (*ṛtasya*))), that he may sit there (आसदं (*āsadaṃ*)), as Indra sits down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- पुनानः (*punānaḥ*)—you who are purely pressed
+- हार्दि (*hārdi*)—being desired by all
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- राधसे (*rādhase*)—for the worship
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योनिं (*yoniṃ*)—in the place
+- आसदं (*āsadaṃ*)—so that Indra comes and sits down
+- चोदय (*codaya*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are purely pressed, desired by all, impel Indra, for his worship, so that he comes and sits down in the place of the sacrifice.
+
+##### English translation
+Soma, pure-flowing, desired for the gratification of Indra, you impel him to sit in the place of sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒जंति॑ त्वा॒ दश॒ क्षिपो॑ हि॒न्वंति॑ स॒प्त धी॒तयः॑ ।  
+> अनु॒ विप्रा॑ अमादिषुः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृजंति । त्वा । दश । क्षिपः । हिन्वंति । सप्त । धीतयः ।  
+> अनु । विप्राः । अमादिषुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वा त्वां दश दशसंख्याकाः क्षिपः अंगुलयः । ‘ व्रिशः क्षिपः' इत्यंगुलिनामसु पाठात्। मृजंति परिचरंति । सप्त सप्तसंख्याकाः धीतयः होत्रकाश्च त्वा त्वां हिन्वंति स्वस्वव्यापारैः प्रीणयंति । विप्राः मेधाविनश्च त्वाम् अनु अमादिषुः अनुमादयंति ।
+
+##### Gist of the bhāṣya
+
+O Soma, the ten fingers (क्षिपः (*kṣipaḥ*)), ten in number, attend (मृजंति (*mṛjaṃti*)) you; for in the list of the names of the fingers there is the reading व्रिशः क्षिपः (*vriśaḥ kṣipaḥ*). The seven (धीतयः (*dhītayaḥ*)), the seven Hotṛ priests, gratify (हिन्वंति (*hinvaṃti*)) you by their several functions. The wise (विप्राः (*viprāḥ*)) also delight (अमादिषुः (*amādiṣuḥ*)) you.
+
+### Printed p. 643
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you (O Soma)
+- दश (*daśa*)—ten in number
+- क्षिपः (*kṣipaḥ*)—the fingers
+- वृजंति (*vṛjaṃti*)—wait upon **NOTE**
+- सप्त (*sapta*)—seven persons
+- धीतयः (*dhītayaḥ*)—the Hotṛs
+- हिन्वंति (*hinvaṃti*)—wait upon
+- विप्राः (*viprāḥ*)—the wise sacrificers
+- अनु अमादिषुः (*anu amādiṣuḥ*)—gladden you
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the ten fingers serve you. The seven Hotṛ priests wait upon you. The wise sacrificers gladden you.
+
+##### English translation
+The ten fingers strain you, the seven priests caress you, the worshippers gladden you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वेभ्य॑स्त्वा॒ मदा॑य॒ कं सृ॑जा॒नमति॑ मे॒ष्यः॑ ।  
+> सं गोभि॑र्वासयामसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवेभ्यः । त्वा । मदाय । कम् । सृजानम् । अति । मेष्यः ।  
+> सम् । गोभिः । वासयामसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मेष्यः अवेर्लोमानि कम् उदकं च अति अभि सृजानं त्वा त्वां देवेभ्यः देवानाम् । विभक्तिव्यत्ययः । मदाय मदार्थं गोभिः गोविकारैः पयोभिः सं वासयामसि संवासयामः ॥ ॥ ३० ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who flow together with (अति सृजानं (*ati sṛjānaṃ*)) the hairs of the sheep (मेष्यः (*meṣyaḥ*)) and with water (कम् (*kam*)), we cause you to dwell together (सं वासयामसि (*saṃ vāsayāmasi*)) with cow-products, milk (गोभिः (*gobhiḥ*)), for the delight (मदाय (*madāya*)) of the gods (देवेभ्यः (*devebhyaḥ*)); here the case ending is changed, the meaning being "of the gods".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मेष्यः (*meṣyaḥ*)—upon the wool
+- कं (*kaṃ*)—and together with the water
+- अति सृजानं (*ati sṛjānaṃ*)—flowing, combined
+- त्वा (*tvā*)—you
+- देवेभ्यः (*devebhyaḥ*)—of the gods
+- मदाय (*madāya*)—for the delight
+- गोभिः (*gobhiḥ*)—with milk and the like
+- सं वासयामसि (*saṃ vāsayāmasi*)—we combine and prepare
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are mingled with water and flow purified through the wool of the Daśāpavitra, we combine and prepare you with milk and the like for the satisfaction of the gods.
+
+### Printed p. 644
+
+##### English translation
+As you stream on the water and the woollen sieve, we wrap you up with milk for the exhilaration of the gods.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नः क॒लशे॒ष्वा वस्त्रा॑ण्यरु॒षो हरिः॑ ।  
+> परि॒ गव्या॑न्यव्यत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । कलशेषु । आ । वस्त्राणि । अरुषः । हरिः ।  
+> परि । गव्यानि । अव्यत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः कलशेषु कुंभेषु निषिच्यमानः अरुषः आरोचमानः हरिः हरितवर्णः सोमः गव्यानि दध्यादीनि वस्त्राणि वासांसीव परि अव्यत पर्याच्छादयति ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified (पुनानः (*punānaḥ*)), poured into the pitchers, the jars (कलशेषु (*kalaśeṣu*)), shining (अरुषः (*aruṣaḥ*)), green-hued (हरिः (*hariḥ*)), covers himself all round (परि अव्यत (*pari avyata*)) with the cow-products (गव्यानि (*gavyāni*)), curds and the like, as if they were garments (वस्त्राणि (*vastrāṇi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—purified
+- कलशेषु (*kalaśeṣu*)—poured into jars and the like
+- अरुषः (*aruṣaḥ*)—attractive
+- हरिः (*hariḥ*)—and green-hued, the Soma
+- वस्त्राणि आ (*vastrāṇi ā*)—as if putting on garments
+- गव्यानि (*gavyāni*)—the milk and the like, which are products of the cow
+- परि अव्यत (*pari avyata*)—makes to cover itself all round
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, purified, poured into jars and the like, attractive and green-hued, makes the milk and the like, which are products of the cow, cover it all round, as if putting on garments (they become mingled with milk and the like).
+
+##### English translation
+Purified in the pitchers, radiant, and green-tinted, the Soma puts on the raiment derived from the cow.
+
+### Printed p. 645
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒घोन॒ आ प॑वस्व नो ज॒हि विश्वा॒ अप॒ द्विषः॑ ।  
+> इंदो॒ सखा॑य॒मा वि॑श ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मघोनः । आ । पवस्व । नः । जहि । विश्वाः । अप । द्विषः ।  
+> इंदो इति । सखायम् । आ । विश ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम मघोनः धनवतः नः अस्मान् प्रति पवस्व क्षर ।.विश्वाः विश्वान् द्विषः द्वेष्टॄन् अप जहि मारय च । सखायं प्रियमिंद्रम् आ विश आप्नुहि च ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, flow (पवस्व (*pavasva*)), that is, stream, towards us (नः (*naḥ*)), who are wealthy (मघोनः (*maghonaḥ*)). Smite away (अप जहि (*apa jahi*)), that is, slay, all (विश्वाः (*viśvāḥ*)) haters (द्विषः (*dviṣaḥ*)). And enter (आ विश (*ā viśa*)), that is, reach, your dear friend (सखायं (*sakhāyaṃ*)), Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- मघोनः (*maghonaḥ*)—wealthy and your worshippers
+- नः आ (*naḥ ā*)—towards us
+- पवस्व (*pavasva*)—flow
+- विश्वा (*viśvā*)—all
+- द्विषः (*dviṣaḥ*)—enemies
+- अप जहि (*apa jahi*)—destroy
+- सखायं (*sakhāyaṃ*)—your friend Indra
+- आ विश (*ā viśa*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, flow towards us, who are wealthy and your worshippers. Destroy all enemies. Enter your friend Indra.
+
+##### English translation
+Flow to us, your wealthy (worshippers); destroy all our enemies Indu, enter your friend.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष्टिं दि॒वः परि॑ स्रव द्यु॒म्नं पृ॑थि॒व्या अधि॑ ।  
+> सहो॑ नः सोम पृ॒त्सु धाः॑ ॥ ८ ॥
+
+### Printed p. 646
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्टिम् । दिवः । परि । स्रव । द्युम्नम् । पृथिव्याः । अधि ।  
+> सहः । नः । सोम । पृत्ऽसु । धाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं दिवः द्युलोकात् वृष्टिं वर्षं परि स्रव वर्ष । पृथिव्या अधि पृथिव्याम् । अधिः सप्तम्यर्थानुवादः । द्युम्नम् अन्नं चोत्पादयेति शेषः । नः अस्माकं सहः बलं च पृत्सु संग्रामेषु धाः धेहि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, pour down (परि स्रव (*pari srava*)) rain (वृष्टिं (*vṛṣṭiṃ*)) from heaven (दिवः (*divaḥ*)), from the world of heaven. Upon the earth (पृथिव्या अधि (*pṛthivyā adhi*); the word अधिः (*adhiḥ*) here only repeats the sense of the locative) produce (supplied) abundance (द्युम्नम् (*dyumnam*)), food. Bestow (धाः (*dhāḥ*)) on us strength (सहः (*sahaḥ*)) in battles (पृत्सु (*pṛtsu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- दिवः (*divaḥ*)—from the atmosphere
+- वृष्टिं (*vṛṣṭiṃ*)—the rain
+- परि स्रव (*pari srava*)—pour down
+- पृथिव्या अधि (*pṛthivyā adhi*)—upon the earth
+- द्युम्नं (*dyumnaṃ*)—produce food
+- पृत्सु (*pṛtsu*)—in battles
+- नः (*naḥ*)—to us
+- सहः (*sahaḥ*)—strength
+- धाः (*dhāḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, pour down rain from the atmosphere. Produce food upon the earth. Provide us with strength in battles.
+
+##### English translation
+Pour down rain from heaven, and abundance upon the earth ; uphold our strength, Soma, in battles.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒चक्ष॑सं त्वा व॒यमिंद्र॑पीतं स्व॒र्विद॑म् ।  
+> भ॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृऽचक्षसम् । त्वा । वयम् । इंद्रऽपीतम् । स्वःऽविदम् ।  
+> भक्षीमहि । प्रऽजाम् । इषम् ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 640. Mandala 9 sukta 7 Rks 5-9 and sukta 8 Rks 1-2 start (pp. 635-640)
+**Progress note:** Done through printed p. 646. Mandala 9 sukta 8 Rks 2-9 (pp. 641-646)
