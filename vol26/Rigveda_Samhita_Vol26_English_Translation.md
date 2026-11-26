@@ -11101,6 +11101,259 @@ Or amongst the Rijikas, or the Kritwas, or in ihe neighbourhood of the rivers Sa
 > ते नो॑ वृ॒ष्टिं दि॒वस्परि॒ पवं॑ता॒मा सु॒वीर्य॑म् ।  
 > सु॒वा॒ना दे॒वास॒ इंद॑वः ॥ २४ ॥
 
+### Printed p. 303
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । वृष्टिम् । दिवः । परि । पवंताम् । आ । सुऽवीर्यम् ।  
+> सुवानाः । देवासः । इंदवः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानाः तत्र चात्र चाभिषूयमाणा देवा दीपनशीलाः स्तुत्या वा इंदवः ग्रहेषु चमसेषु च क्षरंतः ते सोमाः नः अस्माकं दिवस्परि। परिशब्दः पंचमीद्योतकः। अंतरिक्षादादित्याद्वा वृष्टिम् । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः' इति वृष्टिकारणत्वात् । किंच सुवीर्यं शोभनवीर्योपेतं पुत्रं च धनादिकं वा आ पवंतां प्रापयंतु । यजमानः सोमेन अभिमतफलानि प्राप्नोति खलु ॥
+
+##### Gist of the bhāṣya
+
+Those Soma juices (इंदवः (*iṃdavaḥ*)), being pressed (सुवानाः (*suvānāḥ*)) there and here, bright or praiseworthy, flowing into the cups and the ladles, let them, for us (नः (*naḥ*)), pour (आ पवंतां (*ā pavaṃtāṃ*): bring) from heaven (दिवस्परि (*divaspari*): the word परि (*pari*) indicates the ablative), from the atmosphere or from the sun, rain (वृष्टिम् (*vṛṣṭim*)), since the sun is the cause of rain: अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः' (*agnau prāstāhutiḥ samyagādityamupatiṣṭhate | ādityājjāyate vṛṣṭiḥ '*) **GLOSS**. Further, let them bring (सुवीर्यं (*suvīryaṃ*)) a son endowed with good valour, or wealth and the like. The sacrificer indeed obtains the desired fruits through Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—those that are brilliant
+- सुवानाः (*suvānāḥ*)—those that are pressed for Indra
+- इंदवः (*iṃdavaḥ*)—those that are of the nature of a stream
+- ते (*te*)—those Soma-juices
+- नः (*naḥ*)—to us
+- दिवस्परि (*divaspari*)—from the atmosphere
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- सुवीर‍्यं (*suvīryaṃ*)—wealth possessed of excellent valour
+- आ पवंतां (*ā pavaṃtāṃ*)—let them cause to flow
+
+##### भावार्थ (Bhāvārtha)
+
+May the Soma-juices, which are brilliant, pressed for Indra, and of the nature of a stream, cause rain from the atmosphere and wealth possessed of excellent valour to come to us.
+
+##### English translation
+May those brilliant Soma-juices when expressed, pour down upon us from heaven, rain with male progeny.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑ते हर्य॒तो हरि॑र्गृणा॒नो ज॒मद॑ग्निना ।  
+> हि॒न्वा॒नो गोरधि॑ त्व॒चि ॥ २५ ॥
+
+### Printed p. 304
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवते । हर्यतः । हरिः । गृणानः । जमत्ऽअग्निना ।  
+> हिन्वानः । गोः । अधि । त्वचि ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हर्यतः देवान् कामयमानः हरिः हरितवर्णः किंच गोः त्वचि अधि आनडुहे चर्मणि हिन्वानः प्रेर्यमाणः स सोमः जमदग्निना मंत्रद्रष्ट्रर्षिणा गृणानः स्तूयमानः सन् पवते दशापवित्रेण पूतो भवति । यद्वा । पात्राण्यभिगच्छति ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+हर्यतः (*haryataḥ*) is one who desires the gods; हरिः (*hariḥ*) is of green colour. Further, that Soma, urged (हिन्वानः (*hinvānaḥ*)) upon (अधि (*adhi*)) the hide (त्वचि (*tvaci*)) of the cow, that is, the bull's hide, being praised (गृणानः (*gṛṇānaḥ*)) by Jamadagni, the seer of the mantra, flows (पवते (*pavate*)), that is, becomes purified by the ten-fold filter. Or else: he goes to the vessels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यतः (*haryataḥ*)—one who desires the gods
+- हरिः (*hariḥ*)—one who is of green colour
+- गोः त्वचिअधि (*goḥ tvaciadhi*)—upon the cow-hide
+- हिन्वानः (*hinvānaḥ*)—one who is poured out, Soma
+- जमदग्निना (*jamadagninā*)—by the seer Jamadagni
+- गृणानः (*gṛṇānaḥ*)—having been praised
+- पवते (*pavate*)—flows toward the ten-fold filter
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who desires the gods, is of green colour, and is poured upon the cow-hide, having been praised by the seer Jamadagni, flows toward the ten-fold filter.
+
+##### English translation
+The delightful green-tinted Soma, praised by Jamadagni, urged on the cow-hide flows (to the vessels.)
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शु॒क्रासो॑ वयो॒जुवो॑ हिन्वा॒नासो॒ न सप्त॑यः ।  
+> श्री॒णा॒ना अ॒प्सु मृं॑जत ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शुक्रासः । वयःऽजुवः । हिन्वानासः । न । सप्तयः ।  
+> श्रीणानाः । अप्ऽसु । मृंजत ॥ २६ ॥
+
+### Printed p. 305
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुक्रासः शुक्रा दीप्यमानाः वयोजुवः अन्नं प्रेरयंतः । यद्यदपेक्ष्य देवेभ्यः सोमं प्रयच्छंति तत्तदपेक्षितं सोमो ददाति । ते सोमाः श्रीणानाः दधिक्षीरादिभिः श्रीयमाणाः संतः अप्सु वसतीवरीष्वेकधनासु च मृंजत ऋत्विग्भिः प्रमृज्यंते शोध्यंते । तत्र दृष्टांतः । हिन्वानासो न सप्तयः । अश्वनामैतत् । यथाश्वा हिन्वानासो हिन्वानाः सादिभिः प्रेर्यमाणाः संतोऽप्सु तैरेव प्रशोधिता भवंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+शुक्रासः (*śukrāsaḥ*) are bright, shining; वयोजुवः (*vayojuvaḥ*) send forth food: whatever they desire when they give Soma to the gods, Soma gives that very thing. Those Soma juices, being mixed (श्रीणानाः (*śrīṇānāḥ*)) with curds, milk and the like, are cleansed, wiped, by the priests in the waters (अप्सु (*apsu*)), the Vasatīvarī waters, and in the Ekadhanā waters. The example: हिन्वानासो न सप्तयः (*hinvānāso na saptayaḥ*); सप्तयः (*saptayaḥ*) is a name of horses. As horses, urged (हिन्वानाः (*hinvānāḥ*)) by their riders, are purified in the waters by those very riders, so are the Soma juices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्रासः (*śukrāsaḥ*)—those that are shining
+- वयोजुवः (*vayojuvaḥ*)—those that are impellers of food, the Soma-juices
+- श्रीणानाः (*śrīṇānāḥ*)—mixing with the admixture substances
+- अप्पु (*appu*)**NOTE**—in the waters such as Vasatīvarī
+- हिन्वानासः (*hinvānāsaḥ*)—urged by the charioteer
+- सप्तयः न (*saptayaḥ na*)—like horses
+- प्र मृंजत (*pra mṛṃjata*)—attain purification
+
+##### भावार्थ (Bhāvārtha)
+
+As horses urged by charioteers are washed and cleansed with water, so the Soma-juices, which are shining and impellers of food, mixing with the admixture substances, attain purification in the waters such as Vasatīvarī.
+
+##### English translation
+The bright Soma-juices, the dispensers of food, being mixed with the curds and milk, are cleansed in the waters like horses urged (by the charioteers).
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ सु॒तेष्वा॒भुवो॑ हिन्वि॒रे दे॒वता॑तये ।  
+> स प॑वस्वा॒नया॑ रु॒चा ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । सुतेषु । आऽभुवः । हिन्विरे । देवऽतातये ।  
+> सः । पवस्व । अनया । रुचा ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 306
+
+> अथ प्रत्यक्षकृतः । हे सोम आभुवः । कर्मकरणार्थं समंताद्भवंतीत्याभुव ऋत्विजः । ते सुतेषु । सुतोऽभिषुतः सोमः । तद्वत्सु यज्ञेषु देवतातये । ‘ सर्वदेवात्तातिल्' इति स्वार्थिकस्तातिल् । इंद्रादिदेवेभ्यः तं तादृशं प्रसिद्धं त्वा त्वां हिन्विरे ग्रावभिः प्रेरयंति । अभिषुण्वंतीत्यर्थः । ततः सः अभिषुतः स त्वम् अनया रुचा दीप्यमानया धारया द्रोणकलशं प्रति पवस्व आगच्छ । पवतिर्गतिकर्मा । यद्वा । अनया मदीयया रुचा स्तुत्या सह कलशमागच्छ । कलशाभिगमनकाले हि सोमं स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Now addressing him directly: O Soma, the आभुवः (*ābhuvaḥ*) are the priests, who come about on all sides for the performance of the rite. In the pressings (सुतेषु (*suteṣu*)), that is, in sacrifices where Soma is pressed, for the gods (देवतातये (*devatātaye*)), for Indra and the other gods, they send you forth (हिन्विरे (*hinvire*)) with the pressing stones, that is, they press you, the renowned one. Then you, thus pressed, flow (पवस्व (*pavasva*)), come toward the Droṇa vessel with this (अनया (*anayā*)) shining (रुचा (*rucā*)) stream; the root पव (*pava*) means going. Or else: come to the vessel with this praise (रुचा (*rucā*)) of mine; for Soma is praised at the time of approach to the vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आभुवः (*ābhuvaḥ*)—(O Soma-deva) the priests engaged in the rite
+- सुतेषु (*suteṣu*)—at the time of your pressing
+- देवतातये (*devatātaye*)—for the sacrifice for the worship of the gods
+- तं (*taṃ*)—the renowned
+- त्वां (*tvāṃ*)—you
+- हिन्विरे (*hinvire*)—press with stones
+- सः (*saḥ*)—you, thus pressed
+- अनया रुचा (*anayā rucā*)—with this shining praise
+- पवस्व (*pavasva*)—flow toward the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the priests engaged in the rite press you, the renowned, with stones at the time of your pressing, for the sacrifice for the worship of the gods. Thus pressed, flow toward the Droṇa vessel with this shining praise.
+
+##### English translation
+The priests who are present send you forth at the rites at which you are effused for the whole of the gods; do you flow with this splendour.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॒ दक्षं॑ मयो॒भुवं॒ वह्नि॑म॒द्या वृ॑णीमहे ।  
+> पांत॒मा पु॑रु॒स्पृह॑म् ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । दक्षम् । मयःऽभुवम् । वह्निम् । अद्य । वृणीमहे ।  
+> पांतम् । आ । पुरुऽस्पृहम् ॥ २८ ॥
+
+### Printed p. 307
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यष्टारो वयं ते तव स्वभूतं दक्षं बलम् अद्य अस्मिन् यागदिने आभिमुख्येन आ वृणीमहे संभजामहे। कीदृशम्। मयोभुवं सुखस्य भावकं वह्निं धनादीनां प्रापकं पांतं शत्रुभ्यो रक्षकं पुरुस्पृहं बहुभिः स्पृहणीयं काम्यमानं बलमिति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, we sacrificers today, on this day of the sacrifice, choose (आ वृणीमहे (*ā vṛṇīmahe*): take up, partake of) your (ते (*te*)) own strength (दक्षं (*dakṣaṃ*)), facing it. Of what kind? मयोभुवं (*mayobhuvaṃ*), the producer of happiness; वह्निं (*vahniṃ*), the bringer of wealth and the like; पांतं (*pāṃtaṃ*), the protector from enemies; पुरुस्पृहं (*puruspṛhaṃ*), desired by many, the strength that is wished for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मयोभुवं (*mayobhuvaṃ*)—(O Soma-deva) that which gives happiness
+- वह्निं (*vahniṃ*)—that which brings wealth
+- पांतं (*pāṃtaṃ*)—that which protects
+- पुरुस्पृहं (*puruspṛhaṃ*)—that which is desired by many
+- ते दक्षं (*te dakṣaṃ*)—your extraordinary strength
+- अद्य (*adya*)—at this time of the sacrifice
+- आ वृणीमहे (*ā vṛṇīmahe*)—we worship (we take refuge in)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your extraordinary strength, which gives happiness, brings wealth, protects and is desired by many, we worship and take refuge in at this time of the sacrifice.
+
+##### English translation
+We have recourse to-day to your strength, the source of happiness, the bearer (of good things), the defender (against foes), the desired of many—
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मं॒द्रमा वरे॑ण्य॒मा विप्र॒मा म॑नी॒षिण॑म् ।  
+> पांत॒मा पु॑रु॒स्पृह॑म् ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मंद्रम् । आ । वरेण्यम् । आ । विप्रम् । आ । मनीषिणम् ।  
+> पांतम् । आ । पुरुऽस्पृहम् ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मंद्रं मदकरं स्तुत्यं वा त्वाम् आ वृणीमहे । वरेण्यं सर्वैर्वरणीयं संभजनीयं च । किंच विप्रं मेधाविनं त्वाम् । तथा मनीषिणम् । मनस ईषा मनीषा। तद्वंतं स्तुतिमंतं वा त्वाम् आ वृणीमहे । प्रत्येकविशेषणापेक्षया आ इत्युपसर्गः कृतः । किंच पांतं सर्वेषां रक्षकं पुरुस्पृहं बहुभिः स्पृहणीयं च त्वां संभजामहे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, we choose you, who are exhilarating (मंद्रं (*maṃdraṃ*)), causing exhilaration, or praiseworthy. वरेण्यं (*vareṇyaṃ*): to be chosen by all and to be shared in. Further, you, the wise (विप्रं (*vipraṃ*)); and likewise मनीषिणम् (*manīṣiṇam*): मनीषा (*manīṣā*) is the impulse of the mind, and one who has it, or one who has praise: you we choose. The prefix आ (*ā*) is repeated with regard to each separate epithet. Further, we partake of you, the protector (पांतं (*pāṃtaṃ*)) of all and desired (पुरुस्पृहं (*puruspṛhaṃ*)) by many.
+
+### Printed p. 308
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्रं (*maṃdraṃ*)—(O Soma-deva) the delightful
+- वरेण्यं (*vareṇyaṃ*)—the most venerable one, you
+- आ (*ā*)—we worship
+- विप्रं (*vipraṃ*)—the wise
+- मनीषिणं (*manīṣiṇaṃ*)—the praise-endowed, you
+- आ (*ā*)—we worship
+- पांतं (*pāṃtaṃ*)—the protector
+- पुरुस्पृहं (*puruspṛhaṃ*)—the desired of many, you
+- आ (*ā*)—we worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you, the delightful and most venerable, we worship. You, the wise and endowed with praise, we worship. You, the protector, desired by many, we worship.
+
+##### English translation
+The exhilarating, the desirable, the wise, the intelligent, the defender (of all), the desired of many.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ र॒यिमा सु॑चे॒तुन॒मा सु॑क्रतो त॒नूष्वा ।  
+> पांत॒मा पु॑रु॒स्पृह॑म् ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रयिम् । आ । सुऽचेतुनम् । आ । सुक्रतो इति सुऽक्रतो । तनूषु । आ ।  
+> पांतम् । आ । पुरुऽस्पृहम् ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुक्रतो शोभनप्रज्ञ सोम त्वदीयं रयिं धनं वयम् आ वृणीमहे । किंच सुचेतुनम् । ‘ चिती संज्ञाने'। भाव औणादिक उनन्प्रत्ययः । सुज्ञानं च। तनूषु अस्मत्पुत्रेषु च धनं सुज्ञानं च त्वम् आ विधेहि । यद्वा पुत्रार्थं वयमावृणीमहे । तथा पांतं सर्वस्य रक्षकं पुरुस्पृहं बहुभिर्यष्टृभिः काम्यमानं त्वां संभजामहे ॥ ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+O Soma of good insight (सुक्रतो (*sukrato*)), we choose your wealth (रयिं (*rayiṃ*)). Further, सुचेतुनम् (*sucetunam*) is good knowledge. In our sons (तनूषु (*tanūṣu*)) too, do you bestow wealth and good knowledge. Or else: we choose it for the sake of sons. Likewise we partake of you, the protector (पांतं (*pāṃtaṃ*)) of all and desired (पुरुस्पृहं (*puruspṛhaṃ*)) by many sacrificers.
+
 ---
 
-**Progress note:** Done through printed p. 302. Rk 9.65.18-24 (Soma pavamana)
+**Progress note:** Done through printed p. 308. Rk 9.65.24-30 (Soma pavamana)
