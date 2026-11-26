@@ -27531,6 +27531,145 @@ From sentences of this kind it is understood that the Maruts are always in troop
 रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय ! तदानीं दितिरसुरमाता इंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे। इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य (*rudrasya ca marutāṃ pitṛtvamevamākhyāyate | purā kadācidiṃdro 'surān jigāya ! tadānīṃ ditirasuramātā iṃdrahananasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśādgarbhaṃ lebhe| imaṃ vṛttāṃtamavagacchanniṃdro vajrahastaḥ san sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya*)
 तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशायोनेनिर्गत्य अरुदन् । एतस्मिनवसरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यतामेवं त्वया कार्यं मयि चेत्प्रीतिरस्ति । स च महेश्वरस्तान् समानरूपान् समानवयसः समानालंकारान् पुत्रान् कृत्वा गौर्यै प्रददौ तवेमे पुत्राः संस्कृति । अतः सर्वेषु (*taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṃḍamakarot | te sarve garbhaikadeśāyonenirgatya arudan | etasminavasare līlārthaṃ gacchaṃtau pārvatīparameśvarau imān dadṛśatuḥ | maheśaṃ prati pārvatī evamavocat | ime māṃsakhaṃḍā yathā pratyekaṃ putrāḥ saṃpadyatāmevaṃ tvayā kāryaṃ mayi cetprītirasti | sa ca maheśvarastān samānarūpān samānavayasaḥ samānālaṃkārān putrān kṛtvā gauryai pradadau taveme putrāḥ saṃskṛti | ataḥ sarveṣu*) **NOTE**
 
+### Printed p. 732
+मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्सूयंते । रौद्रेषु च मरुतां पिता रुद्र इति ॥ (*māruteṣu sūkteṣu maruto rudraputrā iti ssūyaṃte | raudreṣu ca marutāṃ pitā rudra iti ‖*) (Sāyaṇa-bhāṣya Ṛ. Saṃ. 1-114-6)
+Formerly, once, Indra conquered the Asuras. Then Diti, the mother of the Asuras, desiring to obtain a son capable of killing Indra, performed austerity and by the favour of her husband bore a child in her womb. Indra, learning of this matter, came, holding his thunderbolt, in a subtle form, entered her belly and split that embryo into seven parts. Again he made each into seven pieces. Then all of them came out and were crying. Then, while Pārvatī and Parameśvara, both wandering for sport, saw them, Pārvatī, moved with pity, begged Maheśvara to turn all of them into children. Then Īśvara made all of them of one form, of one age and of one adornment, and gave them, now in the form of sons, to Gaurī, saying, "Let these be your sons." Therefore Sāyaṇa has told this story, saying that it is the custom, in all the Marut hymns, to call the Maruts the sons of Rudra, and in the Rudra hymns to call Rudra the father of the Maruts.
+In the Purāṇas and similar works, and in modern literature, no special difference is seen in the meaning of the words Marut and Vāyu. With regard to these words it is the custom to understand and use them as meaning wind or the wind-god. But in the Ṛgveda there is a great difference between these two words, both in meaning and in use or practice. Vāyu or Vāta means the wind pervading the atmosphere or the sky, or the wind-god. The usage "wind-god" is more in vogue than the meaning "wind". And whenever this god is praised, the singular is used. But the Marut deities are always spoken of in the plural. Besides this, there is also a great difference in the distinguishing features of Vāyu and the Maruts. There is no particular description of the qualities of Vāyu. Because Vāyu dwells in the atmosphere, he is famed as a deity of the middle region. Because the Maruts are many, it is the custom to call them a troop of gods. Ordinarily it is the custom to refer to them by the words मारुतं शर्धः (*mārutaṃ śardhaḥ*), मारुतं गणं (*mārutaṃ gaṇaṃ*) or by other words of the same meaning. Like Vāyu, they too are deities of the middle region. The Maruts are of the nature of a storm blowing with the greatest violence. That before the rain comes, or while the rain is pouring down, the wind blows with the greatest violence is a matter of everyone's experience; this storm blowing with violence is what is described in the Ṛgveda as the assembly of the Marut deities. Before the rain falls or while it falls, the violence of the wind
+
+### Printed p. 733
+is especially great. Therefore there is a special connection between rain and the Maruts. For that very reason the Maruts are praised with epithets such as उक्षण:—जलस्य सेक्तारः (*ukṣaṇa:—jalasya sektāraḥ*), "those who drench everything with water". Besides this, since rain accompanied by thunder, lightning, thunderbolts and wind blowing with the greatest violence has a connection with Indra, whose acts include the slaying of Vṛtra and the rest, it is said in many places that the Marut deities and Indra have friendship and companionship. Indra strikes with his thunderbolt the clouds, or Vṛtra, that hold back and do not pour down the rain, and makes the rain fall. Since in that act of raining the Maruts scatter the clouds and cause the rain to fall, the Maruts become helpers of Indra in the act of raining. For this very reason there is a special kind of friendship between Indra and the Maruts. The epithet मरुत्वान् (*marutvān*) of Indra has also arisen from this very reason.
+**Derivation of the word दुरुतः (*durutaḥ*)** **NOTE**
+अथातो मध्यस्थाना देवगणाः । तेषां मरुतः प्रथमागामिनो भवंति । मरुतः । मरुतो मितराविणो ना मितरोचिनो ना महद्द्रवंतीति वा ॥ (*athāto madhyasthānā devagaṇāḥ | teṣāṃ marutaḥ prathamāgāmino bhavaṃti | marutaḥ | maruto mitarāviṇo nā mitarocino nā mahaddravaṃtīti vā ‖*) (Ni. 11-14)
+Thus Yāska has given the derivation of the word मरुतः (*marutaḥ*). "Now we speak of the troops of gods of the middle region, the atmosphere. Among these troops the Maruts have the first place." The word मरुत् (*marut*) is formed from the two roots मि (*mi*) and रु (*ru*); since these deities make a measured sound, that is, one of a single kind or an even one, they are named Maruts. Or, if the word मरुत् (*marut*) is formed from the roots मि (*mi*) and रुच् (*ruc*), the meaning is "those of an even radiance"; and if it is formed from महत् (*mahat*) and the root द्रु (*dru*), "those who move (blow) greatly (violently)": this is the meaning of the derivation.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋषि॑मना॒ य ऋ॑षि॒कृत्स्व॒र्षाः स॒हस्र॑णीथः पद॒वीः क॑वी॒नां ।  
+> तृ॒तीयं॒ धाम॑ महि॒षः सिषा॑स॒न्मो॑ वि॒राज॒मनु॑ राजति॒  
+> ष्टुप् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋषिमनाः । यः । ऋषिकृत् । स्वःसाः । सहस्रनीथः । पद्वीः । कवीनां ।  
+> तृतीयं । धाम । महिषः । सिसासन् । सोमः । विराजं । अनु । राजति । स्तुप् ॥१८॥
+
+### Printed p. 734
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिमनाः सर्वदर्शनशीलमनस्कः अत एवर्षिकृत् सर्वस्य दर्शनकर्ता प्रकाशनस्य कर्ता स्वर्षाः सर्वस्य सूर्यस्य ना संभक्ता सहस्रणीथः । नीथा स्तुतिः ।
+> बहुविधस्तुतिकः कवीनां क्रांतप्रज्ञानां मध्ये पदवीः स्थलतां पदानां साधुत्वेन
+> संयोजयिता यः सोमो विद्यते स महिषो महान् पूज्यो वा सोमस्तृतीयं धाम द्युलोकं सिषासन् संभक्तुमिच्छन् स्तुप् स्तूयमानः सन्विराजं
+> विशेषेण राजंतं दीप्यमानमिंद्रमनु राजति । प्रकाशयति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: ऋषिमनाः (*ṛṣimanāḥ*) is one whose mind is by nature all-seeing; therefore ऋषिकृत् (*ṛṣikṛt*), the maker of the seeing of everything, the maker of illumination. स्वर्षाः (*svarṣāḥ*) is the sharer of the sun, of everything. सहस्रणीथः (*sahasraṇīthaḥ*): नीथा (*nīthā*) is praise, so one who has many kinds of praise. Among the wise (कवीनां (*kavīnāṃ*)), those of far-reaching knowledge, he who is the joiner of words **NOTE** correctly, that Soma is महिषः (*mahiṣaḥ*), great or worthy of worship. Soma, desiring to obtain the third abode, the heaven, being praised, illumines Indra, who shines specially, who is radiant; अनु राजति (*anu rājati*) means makes shine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- ऋषिमनाः (*ṛṣimanāḥ*)—with a mind that sees everything
+- ऋषिकृत् (*ṛṣikṛt*)—who makes everything manifest
+- स्वर्णाः (*svarṇāḥ*)—who obtains heaven **NOTE**
+- सहस्रणीथः (*sahasraṇīthaḥ*)—who has many praises
+- कवीनां (*kavīnāṃ*)—for the wise
+- पदवीः (*padavīḥ*)—and who is a guide
+- महिषः (*mahiṣaḥ*)—great
+- सः (*saḥ*)—that same Soma
+- तृतीयं धाम (*tṛtīyaṃ dhāma*)—the third heaven
+- सिषासन् (*siṣāsan*)—desiring to attain
+- स्तुप् (*stup*)—and praised
+- विराजं (*virājaṃ*)—the radiant Indra
+- अनु राजति (*anu rājati*)—makes shine abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who has a mind that sees everything, who makes everything manifest, who obtains heaven, who has many praises, who is a guide for the wise and is great, desiring to attain the third heaven and praised, makes the radiant Indra shine abundantly.
+
+##### English translation
+Thinking as a rishi, acting as a rishi, gaining heaven, praised by thousands, the guide of the wise, the mighty Soma desiring to attain the third region (heaven), being praised adds lustre to the illustrious (Indra).
+
+##### विशेषविषयगळु (Special Topics)
+
+तृतीयं धाम (*tṛtīyaṃ dhāma*)—the third place, that is, the world of heaven. In some contexts it is said that there are three divisions even in the world of heaven. Among those three divisions the third is the highest place. According to the Śruti sentence तृतीयस्यामितो दिवि सोम आसीत् (*tṛtīyasyāmito divi soma āsīt*), it is said that the Soma-plant was formerly in the highest region, the third division of heaven.
+
+### Printed p. 735
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒मू॒षच्छे॒नः श॑कु॒नो वि॒भृत्वा॑ गोविं॒दुर्द्र॒प्स आयु॑धानि॒  ॑
+> बिभ्रत् ।  
+> अ॒पामू॒र्मिं सच॑मानः समु॒द्रं तु॒रीयं॒ धाम॑ महि॒षो  ॑
+> विवक्ति ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चमूसत् । श्येनः । शकुनः । विभृत्वा । गोऽविंदुः । द्रप्सः । आयुधानि । बिभ्रत् ।  
+> अपां । ऊर्मिं । सचमानः । समुद्रं । तुरीयं । धाम । महिषः । विवक्ति ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चमूषत् । चमंति भक्षयंत्यत्रेति चम्वश्चमसाः । तेषु सीदन् । यद्वा ।
+> चम्वावधिषवणफलके । तयोर्वर्तमानः । श्येनः शंसनीयः शकुनः शक्तः सामर्थ्यकारी विभृत्वा ॥ हरतेरातो मुनिन्नित्यादिना क्वनिप् ॥ पात्रेषु विहरणशीलः गोविंदुर्यजमानानां गनां लंभकः ॥ विंदुरिच्चुः । पा. ३-२-१६९ । इत्युप्रत्ययांतत्वेन
+> निपातितः ॥ द्रप्पो द्रवणशीलः आयुधानि स्प्यकपालादीनि बिभ्रद्धारयन् अपामुदकानामूर्मिं प्रेरकं समुद्रं । अंतरिक्षनामैतत् । अंतरिक्षलोकं सचमानः
+> सेवमानः महिषो महान् य एवंविधः सोमः स सोमस्तुरीयं चतुर्थं धाम
+> चांद्रमसं स्थानं विवक्ति । सेवते । सूर्यलोकस्कोपरि चंद्रमसो लोको
+> विद्यत इति यमः पृथिव्या अधिपतिः स मावत्पत्यादिभिश्चंद्रमा नक्षत्राणामधिपतिः स
+> मावत्पत्यंतैर्मंत्रैर्ज्ञायते । तै- सं- ३-४-५-१ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: चमूषत् (*camūṣat*): the चम्वश्चमसाः (*camvaścamasāḥ*) are the cups (camasa) in which they eat; sitting in them. Or else, the two चम्वा (*camvā*), the pressing boards; being in those two. श्येनः (*śyenaḥ*) is praiseworthy, शकुनः (*śakunaḥ*) is able, one who makes for ability; विभृत्वा (*vibhṛtvā*) is one who roams in the vessels; गोविंदुः (*goviṃduḥ*) is the obtainer of the cows of the sacrificers; द्रप्सः (*drapsaḥ*) is of flowing nature; bearing the weapons स्प्यकपालादीनि (*spyakapālādīni*) and the rest; serving the समुद्रं (*samudraṃ*), which is a name of the atmosphere, the impeller of the waters; the great one, who is such a Soma, that Soma serves the तुरीयं (*turīyaṃ*), the fourth abode, the lunar region. For the world of the moon is above the world of the sun. This is known from the mantras of the Yajus, beginning "Yama is the lord of the earth" and ending with "the moon is the lord of the stars" (Tai. Saṃ. 3-4-5-1).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चमूषत् (*camūṣat*)—situated in the camū vessel
+- श्येनः (*śyenaḥ*)—praiseworthy
+- शकुनः (*śakunaḥ*)—capable
+- विभृत्वा (*vibhṛtvā*)—roaming in the vessels
+- गोविंदुः (*goviṃduḥ*)—finding the cows of the sacrificer
+- द्रप्सः (*drapsaḥ*)—of the nature of a stream
+- महिषः (*mahiṣaḥ*)—great, Soma
+- आयुधानि (*āyudhāni*)—the weapons
+- बिभ्रत् (*bibhrat*)—bearing
+- अपां ऊर्मिं (*apāṃ ūrmiṃ*)—the impeller of the waters
+- समुद्रं (*samudraṃ*)—the atmosphere
+- सचमानः (*sacamānaḥ*)—serving
+- तुरीयं धामु (*turīyaṃ dhāmu*)—the fourth world **NOTE**
+- विवक्ति (*vivakti*)—he serves
+
+### Printed p. 736
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is situated in the camū vessel, praiseworthy, capable, roaming in the vessels, finding the cows of the sacrificer, of the nature of a stream, and great, bearing his weapons and serving the atmosphere, the impeller of the waters, serves the fourth world, the lunar world.
+
+##### English translation
+Seated on the ladles, praiseworthy, competent, supporting, acquiring cattle, flowing, bearing arms, attending upon the firmament, the sender of the waters, the mighty (Soma) attends the forth sphere. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+तुरीयं धाम (*turīyaṃ dhāma*)—चतुर्थं धाम चंद्रमसंस्थानं सेवते (*caturthaṃ dhāma caṃdramasaṃsthānaṃ sevate*). Here it is said "the fourth place". Which is this fourth place? The commentator says it is the world of the moon, and in order to support it he has cited the Taittirīya Saṃhitā sentence
+यमः पृथिव्या अधिपतिः स मावतु ............. ... (*yamaḥ pṛthivyā adhipatiḥ sa māvatu ............. ...*)
+वायुरंतरिक्षस्य ,, ,, (*vāyuraṃtarikṣasya ,, ,,*)
+सूर्यो दिवः ,, ,, (*sūryo divaḥ ,, ,,*)
+चंद्रमा नक्षत्राणां ,, ,, (*caṃdramā nakṣatrāṇāṃ ,, ,,*) (Tai. Saṃ. 3-4-5-1)
+According to this, Yama is the lord of the Pṛthivī, that is, the earth-world; Vāyu is the lord of the atmosphere above this; Sūrya is the lord of the world of heaven above this; the moon is the lord of the world of the stars (or the lunar world) above this. Therefore he has said that the fourth place here means the lunar world. Soma has a special connection with the moon. In the Yajurveda and other texts the moon also has the name Soma. Some have explained the sentence सोम ओषधीनामधिपतिः (*soma oṣadhīnāmadhipatiḥ*) as "the moon is the lord of the herbs". Because the Soma-plant is included among the herbs and the like, it is said in the Purāṇas and elsewhere that it has a closeness to the moon.
+The word समुद्र (*samudra*) is read among the names of the atmosphere (Ni. 2-13), and in this Ṛk it is used in this very sense.
+Because the word समुद्र (*samudra*) is used in the Ṛksaṃhitā in different meanings, the Nirukta authors have included the word समुद्र (*samudra*) among the names of the atmosphere (Ni. 2-10). Then they have shown the difference between the terrestrial sea and the sea that is a synonym of the atmosphere. Concerning those who, not knowing the difference between the two, explain in a way that gives room for doubt,
+
+### Printed p. 737
+तत्र समुद्र इत्येतत्पार्थिवेन समुद्रेण संदिह्यते । (*tatra samudra ityetatpārthivena samudreṇa saṃdihyate |*)
+Many mistake the sea that is a synonym of the atmosphere for the terrestrial sea and explain accordingly. That is not right; so they have shown the derivation of the word समुद्र (*samudra*).
+समुद्रः कस्मात्समुद्रवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेऽस्मिन् भूतानि समुदको भवति समुनत्तीति ना ॥ (*samudraḥ kasmātsamudravaṃtyasmādāpaḥ samabhidravaṃtyenamāpaḥ saṃmodaṃte 'smin bhūtāni samudako bhavati samunattīti nā ‖*) (Ni. 2-11)
+First, the root द्रु (*dru*), giving the meaning "to move", together with the two prefixes सम् (*sam*) and उद् (*ud*), gives the sense "it overflows and flows upwards"; or, second, the same root द्रु (*dru*) together with the prefixes सम् (*sam*) and अभि (*abhi*) gives the meaning that the waters (of rivers) flow towards it; or the root मुद् (*mud*), giving the meaning "to rejoice", together with the prefix सम् (*sam*), gives the meaning that aquatic creatures experience joy in it; or because it is a store for water; or the root उद् (*ud*), giving the meaning "to wet", together with the prefix सम् (*sam*), gives the sense "to soak": by any of these the word समुद्र (*samudra*) is formed. Thus he has shown the derivation of that word (Ni. 2-10). In this context he has also shown a history, to show the difference between the word समुद्र (*samudra*) that is a synonym of the atmosphere and the terrestrial sea.
+तयोर्निभागस्तत्रेतिहासमाचक्षते । देवापिश्चाष्टिषेणः शंतनुश्च कौरव्या भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेजचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति । तस्यैतद्वर्षकामसूक्तं तस्यैषा भवति ॥ (*tayornibhāgastatretihāsamācakṣate | devāpiścāṣṭiṣeṇaḥ śaṃtanuśca kauravyā bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣejacayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtanurdevāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste 'sāni yājayāni ca tveti | tasyaitadvarṣakāmasūktaṃ tasyaiṣā bhavati ‖*)
+Of the two Kuru-born brothers, Devāpi and Śantanu, sons of Ṛṣṭiṣeṇa **NOTE**, the younger, Śantanu, got himself consecrated and became the king of that kingdom. Devāpi went off to the forest for austerity. From then, for twelve years there was no rain in the kingdom of Śantanu. Then the Brahmins said to Śantanu: "By making your elder brother go to the forest and yourself becoming the king, you have committed a sinful deed. Therefore the rain-god has not poured rain in your kingdom."
+
 ---
 
-**Progress note:** Done through printed p. 731. Sukta 96 Rk 14 end to 17, Mandala 9
+**Progress note:** Done through printed p. 737. Sukta 96 Rk 17 (end) to 19, Mandala 9
