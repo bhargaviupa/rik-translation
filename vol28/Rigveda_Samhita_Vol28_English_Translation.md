@@ -17073,6 +17073,293 @@ The attractive company of Maruts is delightful to behold, like a dwelling endowe
 **English Translation**
 Pleasant of aspect (is the troop of Maruts), like a house well stored with provisions : fortunate is the favour of the Maruts, the sons of Rudra :
 
+### Printed p. 500
+may we (thereby) be famed among men for cattle, and so, gods, ever
+approach (you) with sacrificial food.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यां मे॒ धियं॒ मरु॑त॒ इंद्र॒ देवा॒ अद॑दात नरुण मित्र  ॒
+> यूयं ।  
+> तां सी॑पयत॒ पय॑सेव धे॒नुं कु॒विद्गिरो॒ अधि॒ रथे॒ वहा॑थ ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यां । मे । धियं । मरुतः । इंद्र । देवाः । अददात । वरुण । मित्र । यूयं ।  
+> तां । पीपयत । पयसाइव । धेनुं । कुवित् । गिरः । अधि । रथे । वहाथ ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो हे इंद्र देवा हे वरुण हे मित्र यूयं यां धियं
+> यत्कर्म मे मह्यमददात दत्तवंतः स्थ ॥ मरुत इत्यत्र वाक्यभेदादनिघातः। पूर्वपूर्वस्याविद्यमानत्वेनाद्यु दात्तत्वं ॥ तां धियं पीपयत । फलेनाप्याययत । तत्र
+> दृष्टांतः । पयसेव धेनुं नवप्रसूतिकां गां क्षीरेण यथाप्याययंति तद्वत्
+> किंच । गिरोऽस्मदीयाः स्तुतीरधि रथ आत्मीये रथे कुविद्बहुवारं वहाथ । प्राप्ताः
+> स्थ । स्तुतेषु सत्तु यज्ञं प्रत्यागमनाय रथारूढा भवथ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Maruts, Indra, the gods, Varuṇa and Mitra: the thought (धियं (*dhiyaṃ*)), that is, the rite, which you have given to me, that you must fill with its fruit. The example: as people fill a newly calved cow with milk, so do you. He says that in मरुत (*maruta*) the accent is not lowered because of a break in the sentence, and that the first syllable keeps the high accent because no preceding word exists. Further, you carry (वहाथ (*vahātha*)) our praises many times (कुवित् (*kuvit*)) on your own chariot, that is, you have received them; when praised, you mount your chariots to come to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- इंद्र (*iṃdra*)—O Indra
+- देवाः (*devāḥ*)—O gods
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- यूयं (*yūyaṃ*)—you
+- यां धियं (*yāṃ dhiyaṃ*)—which rite
+- मे (*me*)—to me
+- अददात (*adadāta*)—you have granted
+- तां (*tāṃ*)—that rite
+- पयसेव धेनुं (*payaseva dhenuṃ*)—as one fills a cow with milk
+- पीपयत (*pīpayata*)—fill with fruit
+- गिरः (*giraḥ*)—our praises
+- आधि रथे (*ādhi rathe*)—on your chariots
+- कुवित् (*kuvit*)—many times
+- वहाथ (*vahātha*)—you take up
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, O Indra, O gods, O Varuṇa, O Mitra, the rite that you have granted me, fill it with fruit, as a cow is filled with milk. You take up our praises on your chariots many times; that is, you hear our praises.
+
+### Printed p. 501
+
+##### English translation
+Maruts, Indra, gods, Varuna and Mitra, reward the worship,
+which you have given as (men fatten) the (newly-delivered) cow with milk,
+you have repeatedly put my praises on your car.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विदं॒ग प्रति॒ यथा॑ चिद॒स्य नः॑ सजा॒त्य॑स्य मरुतो॒ बुबो॑धथ।  
+> नाभा॒ यत्र॑ प्रथ॒मं सं॒नसा॑महे॒ तत्र॑ जामि॒त्वमदि॑तिर्दधातु  
+> नः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । अंग । प्रति । यथा । चित् । अस्य । नः । सजात्यस्य । मरुतः । बुबोधथ ।  
+> नाभा । यत्र । प्रथमं । संनसामहे । तत्र । जामित्वं । अदितिः । दधातु । नः ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगेति संबुद्धौ । हे मरुतः यूयं नोऽस्मान्कुविद्बहुवारं प्रति बुबोधथ।तथा प्रतिबुध्यध्वं ॥ कुविच्छब्दयोगादनिघातः ॥ यथा नोऽस्मान्सजात्यस्यास्य
+> बांधवस्य विषयभूतान्कुरुथ तथा जानीथ । ततो नाभा पृथिव्या नाभिस्थाने यत्र
+> यस्मिन्नुत्तरवेदिलक्षणे देशे प्रथममेव संनसामहे हविषा यत्र संगच्छेमहि
+> तत्त्रैव देशेदितिर्देवानां माता नोऽस्माकं जामित्वं मनुष्यैः सह बांधवं
+> दधातु । विदधातु ॥
+
+##### Gist of the bhāṣya
+
+अंग (*aṃga*) is a vocative particle. O Maruts, you must take notice of us many times (कुवित् (*kuvit*)); the accent is not lowered because of the word कुवित् (*kuvit*). As you make us the object of this kinship, so you know us. Then, at the navel of the earth, in the place called the Uttaravedi where we first of all assemble with the oblation, there may Aditi, mother of the gods, establish for us kinship with men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंग मरुतः (*aṃga marutaḥ*)—O Maruts
+- यथा (*yathā*)—in what manner
+- नः (*naḥ*)—us
+- अस्य सजात्यस्य (*asya sajātyasya*)—as you make us fit to attain your kinship
+- कुवित् (*kuvit*)—many times
+- प्रति बुबोधथ (*prati bubodhatha*)—take notice, favouring us
+- नाभा (*nābhā*)—at the navel of the earth
+- यत्र (*yatra*)—in which sacrificial place
+- प्रथमं (*prathamaṃ*)—first
+- संनसामहे (*saṃnasāmahe*)—we are ready, together with oblations and the rest
+- तत्र (*tatra*)—in that place
+- अदितिः (*aditiḥ*)—Aditi, mother of the gods
+- नः (*naḥ*)—to us
+- जामित्वं (*jāmitvaṃ*)—kinship with men
+- दधातु (*dadhātu*)—may she grant
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, in the manner in which you make us fit objects of your kinship, favour us many times. In the sacrificial place, the navel of the earth, where we are ready beforehand together with oblations and the rest, in that place may Aditi, mother of the gods,
+
+### Printed p. 502
+grant us kinship with men.
+
+##### English translation
+Maruts, repeatedly acknowledge us, so that (you may make us the
+objects) of this relationship ; and may Aditi grant us affinity (with men)
+on the navel of the earth, where we first assemble (to offer oblations).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि द्यावा॑पृथि॒वी मा॒तरा॑ म॒ही दे॒वी दे॒वाञ्जन॑ना य॒ज्ञि॑ -  ॒
+> ये इतः ।  
+> उ॒भे बि॑भृत उ॒भयं॒ भरी॑मभिः पु॒रू रेतां॑सि पि॒तृभि॑श्च  
+> सिंचतः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते इति । हि । द्यावापृथिवी इति । मातरा । मही इति । देवी इति । देवान् । जन्मना ।  
+> यज्ञिये इति । इतः ।  
+> उभे इति । बिभृतः । उभयं । भरीमभिः । पुरु । रेतांसि । पितृभिः । च । सिंचतः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मातरा सर्वस्य जगतो निर्मात्र्यौ आत एव मही महत्यौ देवी देवनशीले
+> यज्ञिये यज्ञार्हे ते द्यावापृथिवी द्यावापृथिव्यौ देवानिंद्रादीज्जननैवेतो
+> हि । प्राप्नुतः खलु ॥ इण् गत् । लिटि रूपं ॥ किंचोभे द्यावापृथिव्यौ भरीमभिर्भरणैर्नानाविधैरुभयं जनं देवान्मनुष्यांश्च बिभृतः । धारयतः । पोषयतः । तथा
+> पितृभिः पालकैर्देवैः संगते ते पुरु पुराण्यात्मीयानि रेतांस्युदकानि सिंचतः ।
+> क्षरतः । प्रत्यक्षेण धारयतः ॥
+
+##### Gist of the bhāṣya
+
+Heaven and Earth are the mothers, makers of the whole world, and therefore great, divine and worthy of sacrifice. By their very birth they reach (इतः (*itaḥ*), from the root इण् (*iṇ*) "to go", perfect form) the gods, Indra and the others. Both, with manifold supports, bear and nourish both peoples, gods and men. Joined with the protecting gods, the fathers, they pour abundant waters (रेतांसि (*retāṃsi*)), their own; that is, they sustain them visibly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरा (*mātarā*)—the two makers of the world
+- मही (*mahī*)—of great nature
+- देवी (*devī*)—divine
+- यज्ञिये (*yajñiye*)—worthy of sacrifice
+- ते द्यावापृथिवी (*te dyāvāpṛthivī*)—those Heaven and Earth
+- देवान् (*devān*)—the gods, Indra and others
+- जन्मना (*janmanā*)—at the very birth
+- इतः हि (*itaḥ hi*)—they join
+- उभे (*ubhe*)—both Heaven and Earth
+- भरीमभिः (*bharīmabhiḥ*)—with many materials that support the world
+- उभयं (*ubhayaṃ*)—gods and men
+- बिभृतः (*bibhṛtaḥ*)—they nourish
+- पितृभिः (*pitṛbhiḥ*)—they, together with the protecting gods
+- पुरु (*puru*)—abundant
+- रेतांसि (*retāṃsi*)—waters
+- सिंचतः (*siṃcataḥ*)—make flow
+
+### Printed p. 503
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and Earth, makers of the world, of great nature, divine and worthy of sacrifice, join the gods Indra and the rest at their very birth. Both Heaven and Earth nourish gods and men with the many materials that support the world. Together with the gods who protect the world, they make abundant waters flow.
+
+##### English translation
+They two, the maternal heaven and earth, mighty, divine, adorable, attain to the gods upon their birth ; they both cherish tho two (races, human and divine) with various nutriments : (associated) with the paternal (gods), they shed abundant moisture.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि षा होत्रा॒ विश्व॑मश्नोति॒ वार्यं॒ बृह॒स्पति॑र॒रम॑तिः॒ पनी॑यसी ।  
+> ग्रावा॒ यत्र॑ मधु॒षुदु॒च्यते॑ बृ॒हदवी॑वशंत म॒तिभि॑र्मनी॒षिणः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सा । होत्रा । विश्वं । अश्नोति । वार्यं । बृहस्पतिः । अरमतिः । पनीयसी ।  
+> ग्रावा । यत्र । मधुसुत् । उच्यते । बृहत् । अवीवशंत । मतिभिः । मनीषिणः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होत्रा । वाज्ञामैतत् आहूयंतेऽनया देवा इति । सा वाग्वार्यं वरणीयं विश्वं सर्वं पश्वादिसहितं धनं व्यश्नोति । विविधं व्याप्नुते । कीदृशी ।
+> बृहस्पतिर्बृहतां महतां पालयित्रि आरमतिः पर्याप्तस्तुतिः यद्वा कुत्राप्यनुपरता पनीयस्य अत्यंतं देवानां स्तोत्रकारिणी । यत्र यस्यां होत्रायां
+> मधुषुत् सोममभिषुण्वन्बृहद्महान्गावोच्यते अभिधीयते। स्तूयत इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+होत्रा (*hotrā*) is a name of speech: "by it the gods are invoked". That speech obtains (व्यश्नोति (*vyaśnoti*), pervades in various ways) all desirable wealth, together with cattle and the like. What kind is it? बृहस्पतिः (*bṛhaspatiḥ*): protectress of the great; अरमतिः (*aramatiḥ*): of sufficient praise, or, alternatively, never ceasing anywhere; पनीयसी (*panīyasī*): one who greatly praises the gods. In that invocation in which the great grinding-stone (ग्रावा (*grāvā*)), pressing the sweet Soma, is spoken of, that is, praised,
+
+### Printed p. 504
+*Gist (continued):* the wise gods (मनीषिणः (*manīṣiṇaḥ*)) desire that sacrifice full of praise together with the praises (मतिभिः (*matibhiḥ*)). अवीवशंत (*avīvaśaṃta*) means "they desire". Alternatively: the wise praisers, by their praises, make the gods desirous of the sacrifice.
+
+> तं स्तुतिमंतं यज्ञं मनीषिणो देवा मतिभिः स्तुतिभिः सहावीवशंत । काम
+> यंते॥ वष्टीर्ण्यंतस्य लुजि रूपं यद्वा। मनीषिणः स्तोतारः स्तुतिभिर्देवान्यज्ञं
+> कामयमानान्कुर्वंति ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—that which protects the gods of great nature
+- अरमतिः (*aramatiḥ*)—that which is pervasive
+- पनीयसी (*panīyasī*)—that which praises the gods
+- होत्रा (*hotrā*)—that which praises the gods and calls them to the sacrifice
+- सा (*sā*)—that praise
+- वार्यं (*vāryaṃ*)—desired
+- विश्वं (*viśvaṃ*)—all wealth
+- व्यश्नोति (*vyaśnoti*)—obtains
+- यत्र (*yatra*)—at what time of praise
+- मधुसुत् (*madhusut*)—that which presses Soma
+- बृहत् (*bṛhat*)—great
+- ग्रावा (*grāvā*)—the pressing stone
+- उच्यते (*ucyate*)—is praised; that sacrifice full of praise
+- मनीषिणिः (*manīṣiṇiḥ*)—the wise gods
+- मतिभिः (*matibhiḥ*)—with praises
+- अवीवशंत (*avīvaśaṃta*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+The praise that protects the gods of great nature, is pervasive, praises the gods and calls them to the sacrifice, causes all desired wealth to be obtained. At the time of praise in which the great stone that presses the Soma is praised, that sacrifice full of praise the wise gods desire together with the praises.
+
+##### English translation
+That voice of invocation, the protectress of the mighty, never ceasing, the panegyrist (of the gods), obtains all desirable wealth : on uttering which, the great grinding-stone expressing the sweet Soma is eulogized ; the pious, by their praises, make the god desirous (of the sacrifice).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा क॒विस्तु॑वी॒रवा॑ ऋत॒ज्ञा द्र॑विण॒स्युद्रर्वि॑णसश्चका॒नः ।  
+> उ॒क्षेभि॒रत्र॑ म॒तिभि॑श्च॒ विप्रोऽपी॑पय॒द्गयो॑ दि॒व्यानि॒ जन्म॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । कविः । तुविरवान् । ऋतज्ञाः । द्रविणस्युः । द्रविणसः । चकानः ।  
+> उक्षेभिः । अत्र । मतिभिः । च । विप्रः । अपीपयत् । गयः । दिव्यानि । जन्म ॥ १६ ॥
+
+### Printed p. 505
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतप्रज्ञस्तुवीरवान् ॥ मत्त्वर्थीयप्रत्ययावृत्तिः ॥ बहुस्तुतियुक्तऋतज्ञा यज्ञस्य वेदिता द्रविणस्युद्धनकामः ॥ सर्वप्रातिपदिकेभ्यो लालसायामिति
+> सुगागमः ॥ तस्यैव विशदवचनं । द्रविणसश्च कान इति। पश्वादिधनं कामयमान इत्यर्थः।
+> विव्रो मेधावी गयो नामर्षिरेवमुक्तप्रकारेणात्र सूक्त उक्तेभिः शस्त्रैर्मतिभिः
+> स्तुतिभिश्च दिव्यानि दिवि जातानि जन्म जननानि देवानपीपयत् । अवर्धयत् ।
+> अस्तावीदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+कविः (*kaviḥ*) is one of far-reaching wisdom; तुवीरवान् (*tuvīravān*) is one with much praise (the possessive affix is repeated); ऋतज्ञाः (*ṛtajñāḥ*) is a knower of the sacrifice; द्रविणस्युः (*draviṇasyuḥ*) is one desiring wealth (the augment *suk* in the sense of longing). The phrase द्रविणसश्च कानः (*draviṇasaśca kānaḥ*) is its explanation: one desiring cattle and the like. The sage, the wise गय (*gaya*) by name, in the way described, here in this hymn, with recitations (उक्षेभिः (*ukṣebhiḥ*), the Śastras) and praises, caused the gods, born in heaven (दिव्यानि जन्म (*divyāni janma*)), to thrive (अपीपयत् (*apīpayat*)), that is, he made them grow, he praised them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the wise
+- तुविरवान् (*tuviravān*)—one with many praises
+- ऋतज्ञाः (*ṛtajñāḥ*)—one who knows the truth of the sacrifice
+- द्रविणस्युः (*draviṇasyuḥ*)—one who desires wealth
+- द्रविणसश्चकानः (*draviṇasaścakānaḥ*)—one who wishes for cattle and the like
+- विप्रः (*vipraḥ*)—the learned
+- गयः (*gayaḥ*)—the seer Gaya
+- अत्र (*atra*)—in this hymn
+- उक्तेभिः (*uktebhiḥ*)—with the Śastra mantras
+- मतिभिः (*matibhiḥ*)—with praises
+- एव (*eva*)—in this manner
+- दिव्यानि जन्म (*divyāni janma*)—the gods who have an excellent birth
+- अपीपयत् (*apīpayat*)—has made to thrive
+
+##### भावार्थ (Bhāvārtha)
+
+The seer Gaya, wise, full of many praises, knowing the truth of the sacrifice, desiring wealth, wishing for cattle and the like, and learned, has in this hymn, with Śastra mantras and praises, in this manner made the gods of excellent birth thrive.
+
+##### English translation
+The pious sage, Gaya, eloquent in laudation, conversant with sacred rites, wishing for wealth, eager for wealth, propitiates the celestial people with prayers and praises.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा प्ल॒तेः सू॒नुर॑वीवृधद्वो॒ विश्व॑ आदित्या अदिते मनी॒षी ।  
+> ई॒शा॒नासो॒ नरो॒ अम॑र्त्ये॒नास्ता॑वि॒ जनो॑ दि॒व्यो गये॑न ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । प्लतेः । सूनुः । अवीवृधत् । वः । विश्वे । आदित्याः । अदिते । मनीषी ।  
+> ईशानासः । नरः । अमर्त्येन । अस्तावि । जनः । दिव्यः । गयेन ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 ---
 
-**Progress note:** Done through printed p. 499. pp. 494-499 (batch API)
+**Progress note:** Done through printed p. 505. pp. 500-505 (batch API)
