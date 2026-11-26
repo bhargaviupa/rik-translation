@@ -19270,6 +19270,254 @@ Soma, when purified, strew upon us wealth ; Indu, who are possessed of affluence
 > आ । नः । पूषा । पवमानः । सुऽरातयः । मित्रः । गच्छंतु । वरुणः । सऽजोषसः ।  
 > बृहस्पतिः । मरुतः । वायुः । अश्विना । त्वष्टा । सविता । सुऽयमा । सरस्वती ॥ ४ ॥
 
+### Printed p. 516
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुरातयः सुदानाः सजोषसः संगताः पूषादयो देवाः आ गच्छंतु नः अस्मान् अस्माकं यज्ञं वा । तथा सुयमा । यम्यते नियम्यत इति यमो विग्रहः । सुविग्रहा सरस्वती चागच्छतु ॥
+
+##### Gist of the bhāṣya
+
+The generous (surātayaḥ means sudānāḥ, those who give well) and united (sajoṣasaḥ means saṃgatāḥ) gods, Pūṣan and the others, are to come to us, that is, to us or to our sacrifice. Likewise Suyamā: what is controlled is "yama", which here means the body; so Sarasvatī, who has a fair body, also comes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—the god Pūṣan
+- पवमानः (*pavamānaḥ*)—the god Soma
+- मित्रः (*mitraḥ*)—Mitra
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- मरुतः (*marutaḥ*)—the Maruts
+- अश्विना (*aśvinā*)—the Aśvin gods
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- सविता (*savitā*)—Savitṛ
+- सुयमा (*suyamā*)—having a beautiful body
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- सुराशयः (*surāśayaḥ*)—those who give excellent gifts **NOTE**
+- सजोषसः (*sajoṣasaḥ*)—those who are united
+- नः (*naḥ*)—to us
+- आ गच्छंतु (*ā gacchaṃtu*)—may they come
+
+##### भावार्थ (Bhāvārtha)
+
+May Pūṣan, the god Soma, Mitra, Varuṇa, Bṛhaspati, the Maruts, Vāyu, the Aśvin gods, Tvaṣṭṛ, Savitṛ, and Sarasvatī with her beautiful body, who give excellent gifts and are united, come to us.
+
+##### English translation
+May the generous (gods) met together come to us—Pushan, Pavamana, Mitra. Varuna, Brihaspati, the Maruts, Vayu, the Ashwins, Twashtri, Savitri, and beautiful Saraswati.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भे द्यावा॑पृथि॒वी वि॑श्वमि॒न्वे अ॑र्य॒मा दे॒वो अदि॑तिर्विधा॒ता ।  
+> भगो॒ नृशंस॑ उ॒र्व१॒ं॑तरि॑क्षं॒ विश्वे॑ दे॒वाः पव॑मानं जुषंत ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभे इति । द्यावापृथिवी इति । विश्वमिन्वे इति विश्वम्ऽइन्वे । अर्यमा । देवः । अदितिः । विऽधाता ।  
+> भगः । नृऽशंसः । उरु । अंतरिक्षम् । विश्वे । देवाः । पवमानम् । जुषंत ॥ ५ ॥
+
+### Printed p. 517
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वमिन्वे । इन्वतिर्व्याप्तिकर्मा । सर्वव्यापिन्यौ उभे द्यावापृथिवी द्यावापृथिव्यौ अर्यमादयस्त्रयश्च भगश्च नृशंसः नृभिः शंसनीयः उर्वंतरिक्षं च विश्वे देवाः च पवमानं पूयमानं सोमं जुषंत सेवंते ॥ ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+"Inva" means pervading. Both heaven and earth are all-pervading. Aryaman and the two others who follow him (three in all), Bhaga who is to be praised by men (nṛśaṃsa), the wide firmament, and all the gods serve the Soma that is being purified (pavamāna). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वमिन्वे (*viśvaminve*)—the all-pervading
+- उभे द्यावापृथिवी (*ubhe dyāvāpṛthivī*)—both heaven and earth
+- देवः (*devaḥ*)—the resplendent
+- अर‍्यमा (*aryamā*)—Aryaman
+- अदितिः (*aditiḥ*)—Aditi
+- विधाता (*vidhātā*)—Vidhātṛ
+- नृशंसः (*nṛśaṃsaḥ*)—praised by men
+- भगः (*bhagaḥ*)—Bhaga
+- उरु (*uru*)—the wide
+- अंतरिक्षः (*aṃtarikṣaḥ*)—the firmament
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- पवमानं (*pavamānaṃ*)—the Soma
+- जुषंत (*juṣaṃta*)—they serve
+
+##### भावार्थ (Bhāvārtha)
+
+The all-pervading heaven and earth, the resplendent Aryaman, Aditi, Vidhātṛ, Bhaga who is praised by men, the wide firmament, and all the gods serve the Soma.
+
+##### English translation
+The all-pervading couple heaven and earth, the divine Aryaman, Aditi. Vidhatri, Bhaga deserving the praise of men, the spacious firmament, all the gods honour the purified (Soma).
+
+## Sūkta 82 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘असावि' इति पंचर्चं पंचदशं सूक्तम् । ऋष्याद्याः पूर्ववत् । अत्रानुक्रमणिका– असावीति त्रिष्टुबंते' इति । अनेन द्विवचनेन प्रकृतयोः ‘प्र सोमस्य' इत्यादिकयोर्द्वयोरपि त्रिष्टुबंतता प्रतिपादिता । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning असावि (*asāvi*) has five Ṛks and is the fifteenth sūkta. The seer and the other particulars are as before. Concerning it the Anukramaṇikā says that it ends in Triṣṭubh; by this dual expression it is shown that both of the sūktas concerned, the one beginning प्रसोमस्य (*prasomasya*) and this one, end in Triṣṭubh. The application (viniyoga) has already been stated.
+
+The Anuvāda: this sūkta, असावि (*asāvi*) सोमः (*somaḥ*), is the fifteenth sūkta in the fourth anuvāka. It has five Ṛks. The seer, deity and metres of this sūkta are the same as those of the preceding sūkta. The Anukramaṇikā says: असावीति (*asāvīti*) त्रिष्टुबंते (*triṣṭubaṃte*). Since the word त्रिष्टुबंते (*triṣṭubaṃte*) is used here in a dual-ending form **NOTE**, it is indicated that this sūkta and the preceding sūkta beginning प्रसोमस्य (*prasomasya*) have the same seer, deity and metres; that is, in both these sūktas
+
+### Printed p. 518
+
+the first four Ṛks are to be understood as in the Jagatī metre and the last Ṛk as in the Triṣṭubh metre. The application (viniyoga) has been stated earlier.
+
+- Maṇḍala 9; Anuvāka 4; Sūkta 82
+- Aṣṭaka 7; Adhyāya 3; Varga 7
+- Number of Ṛks in the sūkta: 5
+- Seer: Vasu Bhāradvāja
+- Deity: Pavamāna Soma
+- Metre: 1-4 Jagatī; 5 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑वि॒ सोमो॑ अरु॒षो वृषा॒ हरी॒ राजे॑व द॒स्मो अ॒भि गा अ॑चिक्रदत् ।  
+> पु॒ना॒नो वारं॒ पर्ये॑त्य॒व्ययं॑ श्ये॒नो न योनिं॑ घृ॒तवं॑तमा॒सद॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असावि । सोमः । अरुषः । वृषा । हरिः । राजाऽइव । दस्मः । अभि । गाः । अचिक्रदत् ।  
+> पुनानः । वारम् । परि । एति । अव्ययम् । श्येनः । न । योनिम् । घृतऽवंतम् । आऽसदम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः असावि अभिषुतोऽभूत्। कीदृशः सोमः । अरुषः आरोचमानः वृषा वर्षकः हरिः हरितवर्णः । स च राजेव दस्मः दर्शनीयः सन् गाः उदकानि अभिलक्ष्य अचिक्रदत् शब्दं करोति स्वरसनिर्मोकसमये । पश्चात् पुनानः पूयमानः अव्ययम् अविमयं वारं वालं दशापवित्रं पर्येति । ततः श्येनो न श्येन इव योनिं स्वकीयं स्थानं घृतवंतम् उदकवंतम् आसदम् आसदनाय पवत इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Soma has been pressed. Of what kind is this Soma? He is radiant (aruṣa), the showerer, and tawny-green in colour (harita). Like a king, handsome to look at, he cries out toward the waters when his own juice is released. Afterwards, being purified, he passes through the sheep's-wool (avimaya) filter, the ten-fold strainer made of hair (vāra). Then, like a hawk, he flows to take his seat in his own place, which is full of water; "he flows" is the word to be supplied.
+
+### Printed p. 519
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुषः (*aruṣaḥ*)—having an attractive colour
+- वृषा (*vṛṣā*)—the giver of rain
+- हरिः (*hariḥ*)—having a green colour
+- सोमः (*somaḥ*)—Soma
+- असावि (*asāvi*)—has been pressed
+- राजेव (*rājeva*)—like a king
+- वस्मः (*vasmaḥ*)—having an attractive form **NOTE**
+- गाः अभि (*gāḥ abhi*)—facing the waters
+- अचिक्रदत् (*acikradat*)—goes along making a sound
+- पुनानः (*punānaḥ*)—being purified
+- अव्ययं (*avyayaṃ*)—of wool
+- वारं (*vāraṃ*)—the fibres of the ten-fold filter
+- पर्येति (*paryeti*)—reaches
+- धृतवंतं (*dhṛtavaṃtaṃ*)—full of water **NOTE**
+- योनिं (*yoniṃ*)—to his own place
+- श्येनो न (*śyeno na*)—swiftly like a hawk
+- आ सदं (*ā sadaṃ*)—goes to sit
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who has an attractive colour, sends rain and is green in colour, has been pressed. With an attractive form like a king, he goes along making a sound toward the waters. Being purified, he reaches the woollen fibres of the ten-fold filter. He goes swiftly like a hawk to his own place, which is full of water, and sits there.
+
+##### English translation
+The Soma has been effused radiant, the showerer, green-tinted; magnificient as a king, he cries aloud when approaching the waters ; purified, he passes through the sheep's fleece, to alight on the water-moistened seat like a hawk (on its nest).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विर्वे॑ध॒स्या पर्ये॑षि॒ माहि॑न॒मत्यो॒ न मृ॒ष्टो अ॒भि वाज॑मर्षसि ।  
+> अ॒प॒सेधं॑दुरि॒ता सो॑म मृळय घृ॒तं वसा॑नः॒ परि॑ यासि नि॒र्णिज॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविः । वेधस्या । परि । एषि । माहिनम् । अत्यः । न । मृष्टः । अभि । वाजम् । अर्षसि ।  
+> अपऽसेधन् । दुःऽइता । सोम । मृळय । घृतम् । वसानः । परि । यासि । निःऽनिजम् ॥ २ ॥
+
+### Printed p. 520
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम कविः क्रांतदर्शी सन् वेधस्या यागविधानेच्छया माहिनं मंहनीयं पवित्रं पर्येषि परिगच्छसि । पश्चात् मृष्टः प्रक्षालितः अत्यो न अश्व इव वाजं संग्रामम् अभि अर्षसि । हे सोम दुरिता अस्माकं दुरितानि अपसेधन परिहरन् मृळय सुखय । घृतम् उदकं वसानः आच्छादयन् परि यासि अभिगच्छसि । किम् । निर्णिजं निर्णेजकं पवित्रम् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being a seer (one who sees beyond), with the wish to carry out the sacrificial rite, you go around to the adorable (māhina, that is, to be honoured) filter. Afterwards, being washed, you rush to the battle (vāja) like a horse. O Soma, driving away (apasedhan, that is, removing) our misfortunes (durita), make us happy. Clothed in water (ghṛta means water), you go around, that is, approach. What do you approach? The cleansing (nirṇij, that is, the purifying) filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—you who are far-seeing (addressed: O god Soma)
+- वेधस्या (*vedhasyā*)—with the wish to perform the sacrifice
+- माहिनं (*māhinaṃ*)—the adorable ten-fold filter
+- पर्येषि (*paryeṣi*)—you go and reach
+- मृष्टः (*mṛṣṭaḥ*)—washed there
+- अत्यो न (*atyo na*)—like a horse
+- वाजं (*vājaṃ*)—to the battle
+- अभ्यर्षसि (*abhyarṣasi*)—you go
+- सोम (*soma*)—O god Soma
+- दुरिता (*duritā*)—our sins
+- अपसेधन् (*apasedhan*)—destroying
+- मृळय (*mṛḷaya*)—make happy
+- धृतं (*dhṛtaṃ*)—water **NOTE**
+- वसानः (*vasānaḥ*)—wrapped in
+- निर्णिजं (*nirṇijaṃ*)—to the purifying ten-fold filter
+- परियासि (*pariyāsi*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you who are far-seeing go and reach the adorable ten-fold filter with the wish to perform the sacrifice. O Soma, destroying our sins, make us happy. Wrapped in water (that is, possessing water), go and reach the purifying ten-fold filter.
+
+##### English translation
+You, who are wise, pass through the adorable (filter) with a desire to perform the sacrifice ; being cleansed you rush like a horse to the battle. Driving away misfortunes be gracious (to us), Soma ; clothed in water you proceed to the cleansiug (vessel). **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒र्जन्यः॑ पि॒ता म॑हि॒षस्य॑ प॒र्णिनो॒ नाभा॑ पृथि॒व्या गि॒रिषु॒ क्षयं॑ दधे ।  
+> स्वसा॑र॒ आपो॑ अ॒भि गा उ॒तास॑र॒न्सं ग्राव॑भिर्नसते वी॒ते अ॑ध्व॒रे ॥ ३ ॥
+
+### Printed p. 521
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्जन्यः । पिता । महिषस्य । पर्णिनः । नाभा । पृथिव्याः । गिरिषु । क्षयम् । दधे ।  
+> स्वसारः । आपः । अभि । गाः । उत । असरन् । सम् । ग्रावऽभिः । नसते । वीते । अध्वरे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य महिषस्य महतः पर्णिनः पर्णवतः पतनवतो वा सोमस्य पर्जन्यः पिता जनकः स सोमः पृथिव्याः नाभा नाभौ नाभिस्थानीये हविर्धाने गिरिषु गिरिसंबंधिग्रावसु क्षयं निवासं दधे धारयत्यभिषवसमये । उत अपि च स्वसारः अंगुलयः आपः वसतीवर्यः गाः आशिरार्थाः स्तुतयो वा अभि असरन् अभिसरंति । सं नसते संगच्छते च ग्रावभिः साकम् । कुत्र । वीते कांते अध्वरे यज्ञे ॥
+
+##### Gist of the bhāṣya
+
+The Soma who is mighty (mahiṣa) and winged (parṇin: possessing leaves, or possessing flight), whose father (begetter) is Parjanya, holds his dwelling on the navel of the earth, that is, in the oblation-vessel (havirdhāna) which stands in the position of the navel, and among the mountains, that is, among the pressing stones that belong to the mountains, at the time of pressing. Moreover, the sisters, namely the fingers, the waters called वसतीवर्यः (*vasatīvaryaḥ*), and the cows (gāḥ), that is, the milk-mixtures (āśir) or else the praises, approach; and he joins together with the stones. Where? At the beloved (vīta, that is, pleasing) sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिषस्य (*mahiṣasya*)—great
+- पर्णिनः (*parṇinaḥ*)—winged; of the Soma of whom Parjanya is the father
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- पिता (*pitā*)—is the father; that Soma
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- नाभा (*nābhā*)—in the sacrifice that is the navel-place, and
+- गिरिषु (*giriṣu*)—on the mountains
+- क्षयं (*kṣayaṃ*)—has taken his own dwelling-place
+- दधे (*dadhe*)—has obtained
+- स्वसारः (*svasāraḥ*)—the fingers
+- आपः (*āpaḥ*)—the waters
+- गाः (*gāḥ*)—the milk-mixtures
+- अभ्यसरन् (*abhyasaran*)—approach
+- वीते (*vīte*)—in the resplendent
+- अध्वरे (*adhvare*)—sacrifice
+- ग्रावभिः (*grāvabhiḥ*)—with the pressing stones
+- सं नसते (*saṃ nasate*)—join together
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who is great and winged, and whose father is Parjanya, has his dwelling-place in the sacrifice that is the navel of the earth, and on the mountains. The fingers approach the waters and the milk-mixtures. In the resplendent sacrifice he joins together with the pressing stones.
+
+##### English translation
+The mighty winged (Soma) whose father is Parjanya has placed his dwelling on the navel of the earth among the mountains; the sisters, the waters flow to (the produce of) the cows; he meets with the stones at the beloved sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 515. Sūkta 80 end; Sūkta 81 Ṛk 1-3 and Ṛk 4 Saṃhitā/Pada, pp. 510-515
+**Progress note:** Done through printed p. 521. Mandala 9: Rk 4 end, Rk 5, Sukta 82 Rk 1-3 (pp. 516-521)
