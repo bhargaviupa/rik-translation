@@ -4485,6 +4485,202 @@ Grant us, Indra, various fertilizing wealth, consisting of horses, of chariots, 
 > य आं॑गिर॒सो नम॑सोप॒सद्यो॒ऽस्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं  ॑
 > दाः ॥ ६ ॥
 
+### Printed p. 139
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सप्तगुं । ऋतधीतिं । सुमेधां । बृहस्पतिं । मतिः । अच्छ । जिगाति ॥  
+> यः । अंगिरसः । नमसा । उपसद्यः । अस्मभ्यं । चित्रं । वृषणं रयिं । दाः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्तगुं मां मतिः स्तुतिर्देवविषयाच्छा जिगाति । कीदृषं सप्तगुं ।
+> यतधीतिं सत्यकर्माणं सुमेधां शोभनप्रज्ञं बृहस्पतिं बृहतो मंत्रस्य
+> स्वामिनं । यः सप्तगुरांगिरसोऽंगिरोगोत्रोत्पन्नोऽहं नमसा नमस्कारेण
+> देवानुपसद्यः । उपगतः । यद्वा । नमसान्नेनोपसद्य उपसदनीयः । देवैरनु
+> ग्राह्य इत्यर्थः । तादृशायास्मभ्यं मह्यं चित्रं वृषणं रयिं दाः ॥
+
+##### Gist of the bhāṣya
+
+The praise (मतिः (*matiḥ*)) directed to the gods comes to me, Saptagu. Sāyaṇa describes the one it comes to: one whose works are true (यतधीतिं (*yatadhītiṃ*) in the block), of good wisdom, and lord (बृहस्पतिं (*bṛhaspatiṃ*)) of a great mantra. "I, Saptagu, born in the family of Aṅgiras, have approached the gods with homage." Alternatively, उपसद्यः (*upasadyaḥ*) means "to be approached with offered food", that is, one to be favoured by the gods. "To such a one, to me, give wealth that is wonderful and showering (desired things)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतधीतिं (*ṛtadhītiṃ*)—one who does only true works
+- सुमेधां (*sumedhāṃ*)—one who possesses excellent knowledge
+- बृहस्पतिं (*bṛhaspatiṃ*)—lord of many mantras, that is, the maker of many mantras
+- सप्तगुं (*saptaguṃ*)—me, who am named Saptagu
+- मतिः (*matiḥ*)—the thought of praising the gods
+- अच्छ जिगाति (*accha jigāti*)—comes and joins
+- अंगिरसः (*aṃgirasaḥ*)—born in the Aṅgiras family
+- यः (*yaḥ*)—I, Saptagu, who
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- नमसा (*namasā*)—with homage, or endowed with oblation
+- उपसद्यः (*upasadyaḥ*)—have approached the gods (therefore, O Indra)
+- चित्रं (*citraṃ*)—of many kinds
+- वृषणं (*vṛṣaṇaṃ*)—granting desired ends
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+To me, the seer named Saptagu, who am devoted to true works, of excellent knowledge and the author of many mantras, the thought of praising the gods arises. Therefore I, named Saptagu, approach the gods with homage and with oblations and the like. O Indra, give us wealth that is attractive and grants desired ends.
+
+##### English translation
+The praise (adressed to the gods) comes to the presence of Saptagu, the observer of the truth, the intelligent, the lord of much (praise), who being of the family of Angiras, has approached (the gods) with oblations: (Indra), grant me various fertilizing riches.
+
+### Printed p. 140
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वनी॑वानो॒ मम॑ दू॒तास॒ इंद्रं॒ स्तोमा॑श्चरंति सुम॒तीरि॑या॒  
+> नाः ।  
+> हृ॒दि॒स्पृशो॒ मन॑सा व॒च्यमा॑ना अ॒स्मभ्यं॑ चि॒तं वृष॑णं र॒यिं  ॑
+> दाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वनीवानः । मम । दूतासः । इंद्रं । स्तोमाः । चरंति । सुमतीः । इयानाः ॥  
+> हृदिस्पृशः । मनसा । वच्यमानाः । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनीवानो वननवंतः ॥ छंदसीवनिपाविति मत्त्वर्थीयोवनिप् ॥ मम सप्तगोर्दूतासो दूतसदृशाः दूता यथा भर्तुरभिमतार्थं प्रापणीयं प्रापयंति
+> तद्वत्सुत्यान्गुणान्प्रायंतः स्तोमाः स्तवाः सुमतीस्तस्येंद्रस्यास्मद्विषया
+> अनुकूला बुद्धीरियाना याचमाना इद्रं चरंति । प्राप्पुवंति । पुनश्च त एव
+> विशेष्यंते । हृदिस्पृशो हृदये स्पृशंतः । स्तुत्यस्य प्रियभूता इत्यर्थः ॥
+> हृद्धुभ्यामित्युपसंख्यानात् जीरलुक् ॥ मनसा सत्योद्रिक्तेन वच्यमाना
+> उच्यमानाः । अस्मभ्यमित्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+वनीवानः (*vanīvānaḥ*) means "possessing desire". My (Saptagu's) praises are like messengers: as messengers bring to the master the desired thing that is to be brought, so the praises, proclaiming the qualities of the praiseworthy one, are the favourable thoughts of that Indra towards us. Asking, they go to Indra and reach him. These same praises are again qualified: हृदिस्पृशः (*hṛdispṛśaḥ*), touching the heart, that is, dear to the one praised; वच्यमानाः (*vacyamānāḥ*), spoken by a mind filled with truth. The rest, अस्मभ्यं (*asmabhyaṃ*) and so on, has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनीवानः (*vanīvānaḥ*)—desiring Indra's favour
+- मम (*mama*)—my
+- दूतासः (*dūtāsaḥ*)—going out from my mouth like messengers and coming to Indra
+- हृदिस्पृशः (*hṛdispṛśaḥ*)—touching the heart
+- मनसा (*manasā*)—by the mind alone, that is, wholeheartedly
+- वच्यमानाः (*vacyamānāḥ*)—uttered
+- स्तोमाः (*stomāḥ*)—of the nature of hymns
+- सुमतीः (*sumatīḥ*)—our words of praise, made with thought
+- इयानाः (*iyānāḥ*)—(asking for desired ends)
+- इंद्रं (*iṃdraṃ*)—Indra
+- चरंति (*caraṃti*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+The words of praise, which desire Indra's favourable thought, go out from my mouth like messengers and go to Indra, touch Indra's heart, are uttered wholeheartedly and are of the nature of hymns; they go to Indra asking for desired ends
+
+### Printed p. 141
+
+##### English translation
+My praises, (my) messengers soliciting (audience), come to Indra, praying (his) favourable (thoughts), heart-touching, spoken from the soul; (therefore, Indra), grant me various fertilizing riches.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्त्वा॒ यामि॑ द॒द्धि तन्न॑ इंद्र बृ॒हंतं॒ क्षय॒मस॑मं॒ जना॑ना ।  
+> अ॒भि तद्द्यावा॑पृथि॒वी गृ॑णीताम॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं दाः॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । त्वा । यामि । दद्धि । तत् । नः । इंद्र । बृहंतं । क्षयं। असमं । जनानां॥  
+> अभिः । तत् । द्यावापृथिवी इति । गृणीतां । अस्मभ्यं । चित्रं । वृषणं । रयिं । दाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां यद्वक्षमाणं यामि याचामि ॥ वर्णलोपश्रांदसः ॥
+> याच्यमानं तद्दद्धि । देहि ॥ ददातेर्लोटि व्यत्ययेन परस्मैपदं । बहुलं
+> छंदसीति शपो लुक् ॥ तदिति सामान्येन निर्दिष्टं विशेषयति । बृहंतं महांतं
+> क्षयं निवासं जनानामन्येषामसममसाधारणं देहि । त्वया दातव्यं द्यावापृथिवी अभि गृणीतां । अस्मभ्यमित्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, what I ask of you, namely what is about to be said, that give." Sāyaṇa takes यामि (*yāmi*) as "I ask" (loss of a letter being Vedic), दद्धि (*daddhi*) as "give", an imperative of the root *dadāteḥ* with a reversal of voice. "That" is stated in a general way, and he now specifies it: a great dwelling (क्षयं (*kṣayaṃ*)), unequalled, not common to other men, give. May heaven and earth approve what is to be given by you. The rest, अस्मभ्यं (*asmabhyaṃ*) and so on, has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वां (*tvāṃ*)—you
+- यत् (*yat*)—for which (what)
+- यामि (*yāmi*)—I ask
+- तत् (*tat*)—that
+- नः (*naḥ*)—to us
+- दद्धि (*daddhi*)—give
+- बृहंतं (*bṛhaṃtaṃ*)—that which is large
+- जनानां (*janānāṃ*)—(like the houses) of other people
+- असमं (*asamaṃ*)—not ordinary, that is, far better than the houses of all
+- क्षयं (*kṣayaṃ*)—give a house fit to dwell in
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अभि गृणीतां (*abhi gṛṇītāṃ*)—may they approve (the house you give); O Indra
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- चित्रं (*citraṃ*)—attractive
+- वृषणं (*vṛṣaṇaṃ*)—granting desired ends
+- रयिं (*rayiṃ*)—wealth
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give us what we ask you to give; that is, give me a dwelling that is large and, unlike the houses of others, not ordinary but most excellent.
+
+### Printed p. 142
+May heaven and earth approve this gift that you give. O Indra, give us wealth that is attractive and grants desired ends.
+
+##### English translation
+Bestow, Indra, that which I solicit of you; a large mansion, not held in common with other men; and may heaven and earth approve of it grant us, (Indra), various fertilizing riches.
+
+## Sūkta 48 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+The forty-eighth sūkta. Introduction. In this sūkta and in the next, Indra himself praises the many valiant deeds he has done. The Aitareya Brāhmaṇa describes as follows how Indra, famous for many valiant deeds, beginning with the slaying of the demon Vṛtra, came to be given the title Mahān Indra.
+
+The reason Indra got the name Mahān Indra. There is an ancient story in the Aitareya Brāhmaṇa about how the title Mahān (great) came to Indra.
+इंद्रो वै वृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्प्रजापतिमहमेतद सानि यत्त्वमहं महासनानीति स प्रजापतिरब्रवीदथ कोऽहमिति यदैवैतदवोच इत्यब्रवीत्ततो वै को नाम प्रजापतिरभवत्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्नहेंद्रस्य महेंद्रत्वं । (*iṃdro vai vṛtraṃ hatvā sarvā vijitīrvijityābravītprajāpatimahametada sāni yattvamahaṃ mahāsanānīti sa prajāpatirabravīdatha ko 'hamiti yadaivaitadavoca ityabravīttato vai ko nāma prajāpatirabhavatko vai nāma prajāpatiryanmahāniṃdro 'bhavattannaheṃdrasya maheṃdratvaṃ |*) (Ai. Brā. 12-21)
+Formerly, after Indra had slain Vṛtra, he conquered all the regions of the earth, and said to Prajāpati: "O Prajāpati, you have now gained a great station and are worshipful. Henceforth I want your great position." Prajāpati asked, "If you take my position, who (कः (*kaḥ*)) am I? What is my station?" To this Indra said: "O Prajāpati, as you yourself have just said, your name henceforth shall be Ka (who); that is, you will be denoted by the word Ka." Therefore from that time Prajāpati became denoted by the word Ka. This is well known. For that very reason the matter is stated in the pratigraha mantras, to be recited when one accepts any gift, that is, क इदं (*ka idaṃ*)
+### Printed p. 143
+कस्मा अदादित्याह । प्रजापतिर्वै कः । प्रजापतय एव तद्ददाति (*kasmā adādityāha | prajāpatirvai kaḥ | prajāpataya eva taddadāti*) is the Brāhmaṇa sentence of the other Vedas. Since the word Ka has the meaning "happiness", in dealings and matters concerning Prajāpati he is said to be of the nature of happiness. Since Indra thus took over the greatness of Prajāpati, the designation Mahān came to Indra; that is, Indra became Mahān Indra. This is stated in the other Vedas: इंद्रो वृत्रमहन्तं देवा अब्रुवन्महान्वा आयमभूद्यो वृत्रमवधीदिति तन्नहेंद्रस्य महेंद्रत्वं । (*iṃdro vṛtramahantaṃ devā abruvanmahānvā āyamabhūdyo vṛtramavadhīditi tannaheṃdrasya maheṃdratvaṃ |*). The gods, praising Indra's slaying of Vṛtra, said: since this Indra slew Vṛtra he has become Mahendra (gained a great position), that is, he has become the best of all the gods. This is said to be the reason why the name Mahendra came to Indra.
+
+स महान्भूत्वा देवता अब्रवीदुद्धारं म उद्धरतेति यथाप्येतर्हिच्छतियो वै भवति यः श्रेष्ठतामश्नुते स महान्भवति तं देवा अब्रुवन् स्वयमेव ब्रूष्ट यत्ते भविष्यतीति स एतं माहेंद्रं ग्रहमब्रूत माध्यंदिनं सवनानां निष्केवल्यमुक्तानां त्रिष्टुभं छंदसां पृष्ठं साम्नां तमस्मा उद्धारमदहरन् उदस्मा उद्धारं हरंति य एवं वेद ॥ (*sa mahānbhūtvā devatā abravīduddhāraṃ ma uddharateti yathāpyetarhicchatiyo vai bhavati yaḥ śreṣṭhatāmaśnute sa mahānbhavati taṃ devā abruvan svayameva brūṣṭa yatte bhaviṣyatīti sa etaṃ māheṃdraṃ grahamabrūta mādhyaṃdinaṃ savanānāṃ niṣkevalyamuktānāṃ triṣṭubhaṃ chaṃdasāṃ pṛṣṭhaṃ sāmnāṃ tamasmā uddhāramadaharan udasmā uddhāraṃ haraṃti ya evaṃ veda ‖*)
+Then Indra, having gained a great position as described above, called the gods and said: "O gods, since I have gained a great position, arrange on this account, that is, to honour me, some ceremony of respect." Even in worldly dealings, when a man obtains unequalled prosperity, or distinction in learning and the like, or the king's honour, he becomes known as a person of esteem among people, and so it is the custom for people to arrange a gathering of honour to congratulate such a man. In the same way Indra put the question to the gods about this. The gods too welcomed Indra's words and said: "O Indra, how should this ceremony of honour be done? How would it please you? You yourself must tell us. We shall act accordingly." Indra then said: among the grahas (a graha is a special vessel for drinking soma) the Māhendra graha (the soma vessel offered to me, who have become Mahendra) must be the best of all the grahas. Likewise, among the three savanas, the morning, midday and third savanas, the midday savana; among the śastras (mantras) such as the Āśvina and Marutvatīya, the niṣkevalya śastra; among the metres such as Gāyatra, the Triṣṭubh metre; and among the sāman chants, the Bṛhad-rathantara sāman, which produces the pṛṣṭha stotra: "you must approve these as the best, for all of them are dear to me. This is the honour you will do me." The gods agreed that it be so, and approved the pre-eminence of the Māhendra graha and the rest in sacrifices and the like. This matter is stated also in the other Vedas: स एतं माहेंद्रमुदहरत वृत्रं हत्वान्यासु (*sa etaṃ māheṃdramudaharata vṛtraṃ hatvānyāsu*)
+
+### Printed p. 144
+देवतास्वधीति यन्माहेंद्रो गृह्यत उद्धारमेव तं यजमान उद्धरते न प्रजास्वधि (*devatāsvadhīti yanmāheṃdro gṛhyata uddhārameva taṃ yajamāna uddharate na prajāsvadhi*) The sacrificer who performs a sacrifice and knows this matter obtains pre-eminence and a place of esteem among people.
+The introduction ends.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहंभुवमित्येकादशर्चं षष्ठं सूक्तं । पूर्वसूक्तेन सप्तगुना स्तुतो
+> हृष्टः सन्निदमादिसूक्तत्रयेण स्वयमात्यानमस्तौत् । तस्माद्वैकुंठस्येंद्रस्य वाक्यत्वाद्यस्य वाक्यं स ऋषिरिति परिभाषायेंद्र ऋषिः । वैकुंठस्येंद्रस्य च स्तूयमानत्वाद्या तेनोच्यते सा देवतेति परिभाषायेंद्र एव देवता। दशम्येकादशीसप्तम्य
+> स्त्रिस्ष्टुभः । शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः । तथा चानुक्रांतं । स सप्तगुस्तुतिसंहृष्ट आत्मानमुत्तरैस्तिभिस्तुष्टावाहं भुवॆमेकादशांत्ये त्रिष्टुभौ सप्तमी चेति ॥
+> अतिरात्रे द्वितीयपर्याये होतुः शस्त्र एतत्तूक्तं । सूत्रितं च । अहं भुवमपाय्क्य स्यांधसो मदायेति याज्या । आ. ६-४ । इति ॥ समूळ्हस्य दशरात्रस्य तृतीये छंदोमे निष्केवल्येऽप्येतत्तूक्तं । अहं भुवं तत्त इंद्रियमिति निष्केवल्यं ।
+> आ. ८-७ । इति सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+अहंभुवं (*ahaṃbhuvaṃ*) is the sixth sūkta, of eleven Ṛks. Indra, praised by Saptagu in the previous sūkta and delighted, praised himself in this and the next two sūktas. Because the sūkta is the speech of Indra Vaikuṇṭha, Indra is the seer by the rule यस्य वाक्यं स ऋषिरिति (*yasya vākyaṃ sa ṛṣiriti*); and because Indra (Vaikuṇṭha) is the one praised, Indra alone is the deity by the rule या तेनोच्यते सा देवतेति (*yā tenocyate sā devateti*). The tenth, eleventh and seventh Ṛks are Triṣṭubh; the rest are Jagatī by the rule that a Ṛk ending in Triṣṭubh pādas is Jagatī. So the Anukramaṇī says; Sāyaṇa quotes it. The sūkta is the hotṛ's śastra in the second paryāya of the Atirātra, and the sūtra says: अहं भुवमपाय्क स्यांधसो मदायेति याज्या (*ahaṃ bhuvamapāyka syāṃdhaso madāyeti yājyā*) (Ā. Sū. 6-4). In the third chandoma of the Samūḷha Daśarātra it is also the niṣkevalya, as the sūtra says: अहं भुवं तत्त इंद्रियमिति निष्केवल्यं (*ahaṃ bhuvaṃ tatta iṃdriyamiti niṣkevalyaṃ*) (Ā. Sū. 8-7).
+
+##### Anuvāda
+
+This sūkta अहं भुवं (*ahaṃ bhuvaṃ*) is the sixth sūkta in the fourth anuvāka. It has eleven Ṛks. Indra, praised in the previous sūkta by the seer Saptagu, was satisfied with the seer's praise and praised himself in this sūkta and in the next two sūktas. Therefore, since the subject of this sūkta is the speech of Indra, named Vaikuṇṭha, by the rule "यस्य वाक्यं स ऋषिः (*yasya vākyaṃ sa ṛṣiḥ*): he whose speech is in the mantras is the seer of that mantra," Indra is the seer of this sūkta; since Indra is the one praised in this sūkta, by the rule "*yā tenocyate sā devatā*: that which is propounded in the mantra is the deity of that mantra," Indra is the deity of this sūkta. The tenth, eleventh and seventh Ṛks of this sūkta are in the Triṣṭubh metre. The remaining Ṛks are in the Jagatī metre. The Anukramaṇī says so. For the śastra mantras to be recited by the priest called hotṛ in the second paryāya of the sacrifice called Atirātra, the use of this sūkta is set out in the sūtra of the Āśvalāyana Śrauta Sūtra अहं भुवमपाय्स्यांधसो मदायेति याज्या (*ahaṃ bhuvamapāysyāṃdhaso madāyeti yājyā*) (Ā. Sū. 6-4). For the niṣkevalya śastra mantras in the third chandoma of the ten-day sacrifice called Samūḷha, the use of this sūkta is set out in the sūtra of the Āśvalāyana Śrauta Sūtra अहं भुवं तत्त इंद्रियमिति निष्केवल्यं (*ahaṃ bhuvaṃ tatta iṃdriyamiti niṣkevalyaṃ*) (Ā. Sū. 8-7).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहंभुवमित्येकादशर्चं षष्ठं सूक्तं । पूर्वसूक्तेन सप्तगुना स्तुतो
+> हृष्टः सन्निदमादिसूक्तत्रयेण स्वयमात्यानमस्तौत् । तस्माद्वैकुंठस्येंद्रस्य वाक्यत्वाद्यस्य वाक्यं स ऋषिरिति परिभाषायेंद्र ऋषिः । वैकुंठस्येंद्रस्य च स्तूयमानत्वाद्या तेनोच्यते सा देवतेति परिभाषायेंद्र एव देवता। दशम्येकादशीसप्तम्य
+> त्रिष्टुभः । शिष्टास्त्रिष्टुबंतपरिभाषया जगत्यः । तथा चानुक्रांतं । स सप्तगुस्तुतिसंहृष्ट आत्मानमुत्तरैस्तिभिस्तुष्टावाहं भुवॆमेकादशांत्ये त्रिष्टुभौ सप्तमी चेति ॥
+> अतिरात्रे द्वितीयपर्याये होतुः शस्त्र एतत्तूक्तं । सूत्रितं च । अहं भुवमपाय्क स्यांधसो मदायेति याज्या । आ. ६-४ । इति ॥ समूळ्हस्य दशरात्रस्य तृतीये छंदोमे निष्केवल्येऽप्येतत्तूक्तं । अहं भुवं तत्त इंद्रियमिति निष्केवल्यं ।
+> आ. ८-७ । इति सूत्रितं ॥
+
+##### Gist of the bhāṣya
+
+The same introduction as in the preceding block, repeated: sixth sūkta of eleven Ṛks; Indra, pleased with Saptagu's praise, praises himself; Indra is seer and deity by the two rules; Ṛks ten, eleven and seven are Triṣṭubh, the rest Jagatī; the Anukramaṇī is quoted; use in the Atirātra (Ā. Sū. 6-4) and in the niṣkevalya of the Samūḷha Daśarātra (Ā. Sū. 8-7). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 138. pp. 133-138 (batch API)
+**Progress note:** Done through printed p. 144. pp. 139-144 (batch API)
