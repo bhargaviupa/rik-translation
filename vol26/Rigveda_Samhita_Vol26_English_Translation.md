@@ -29596,6 +29596,180 @@ Soma, being purified with the filters, is the seer of men, the beholder of the f
 
 Soma, who is purified by the dashapavitra and the other filters, who watches the dealings of men, who is the lord of the gods and of men and the owner of abundant wealth, exists in two forms. Such a great Soma bears water that is well stored and auspicious.
 
+### Printed p. 794
+
+##### English translation
+Purified by the filters the observer of man, the sovereign of both gods and mortals, the lord of abundant wealth (Soma), is twofold ; Indu bears the auspicious collected water.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्वा॑ इव॒ श्रव॑से सा॒तिमच्छेंद्र॑स्य वा॒योर॒भि वी॒तिम॑र्ष ।  
+> स नः॑ स॒हस्रा॑ बृह॒तीरिषो॑ दा॒ भवा॑ सोम द्रविणो॒वित्सु॑ना॒नः ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्नान् इव । श्रवसे । सातिं । अच्छ । इंद्रस्य । वायोः । अभि । वीतिं । अर्ष ।  
+> सः । नः । सहस्रा । बृहतीः । इषः । दाः । भव । सोम । द्रविणःऽवित् । पुनानः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अन्नार्थं युद्धेऽर्वानिवाश्वो यथा गच्छति तद्वत्त्वं श्रवसेऽस्माकमन्नार्थं तथा सातिमच्छ धनलाभं प्रतींद्रस्य वायोश्च नीतिं पानमभ्यर्ष ।
+> अभिगच्छ ! ऐंद्रवायुवग्रहे हींद्रवायू सह सोमं पिबत इत्यत्र सहोपादानं ।
+> स त्वं सहस्रा सहस्राणि बहुविधानि बृहतीर्ब्बंहितानि प्रवृद्धानीषोऽन्नानि नोऽस्मभ्यं
+> दाः । प्रयच्छ! हे सोम पुनानः पूयमानस्वं नोऽस्मभ्यं द्रविणोविद्दनस्य
+> लंभयिता भव ॥ द्रविणशब्दात्सर्वप्रातिपदिकेभ्यो लालसायां सुग्वक्तव्यः । का. ७-१-
+> ५१-३ । इति सुगागमः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, as a horse goes into battle for the sake of food, so you too, for fame, that is, for our food, go towards the gain of wealth and towards the drink (नीतिं (*nītiṃ*), that is, drinking) of Indra and of Vāyu; approach. In the Aindravāyava cup (graha) the text "Indra and Vāyu drink Soma together" mentions the two together. You, then, give us thousands of foods, of many kinds, great, grown abundant. O Soma, being purified, become for us the one who obtains wealth for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+O divine Soma.
+
+- अर्वानिव (*arvāniva*)—like a horse in battle
+- श्रवसे (*śravase*)—for the sake of food
+- सातिमच्छ (*sātimaccha*)—for the gain of wealth
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- वायोः (*vāyoḥ*)—for Vāyu
+- नीतिं (*nītiṃ*)—the drink
+- अभ्यर्ष (*abhyarṣa*)—provide
+- सः (*saḥ*)—you
+- नः (*naḥ*)—to us
+- सहस्रा (*sahasrā*)—in thousandfold number
+- बृहतीः (*bṛhatīḥ*)—in abundance
+- इषः (*iṣaḥ*)—foods
+- दाः (*dāḥ*)—give
+- सोम (*soma*)—O divine Soma
+- पुनानः (*punānaḥ*)—you who are being purified
+- द्रविणोवित् (*draviṇovit*)—as the obtainer of wealth
+- भव (*bhava*)—become
+
+### Printed p. 795
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, as a horse acts in battle, so exert yourself and provide for us, for the sake of food and for the gain of wealth, the drink for Indra and for Vāyu; give us foods in thousandfold number and in abundance. O divine Soma, being purified, be the obtainer of wealth.
+
+##### English translation
+Hasten (Soma) to give food to Indra and Vayu like a horse, for (the sake of giving us) food, to acquire wealth ; give us abundant thousand-fold food ; Soma, when filtered, become the dispenser of riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+इंद्रस्य वायोः नीतिं अभि अर्ष (*iṃdrasya vāyoḥ nītiṃ abhi arṣa*)—Here there is a mention of the Soma-drinking of Indra and Vāyu. There is a narrative about how both of them obtained Soma-drinking in the Aindravāyava cup, and how Vāyu became entitled to Soma-drinking before all others. It is well known that in the sacrifice Vāyu is the first entitled to drink Soma, and that for another reason Indra joined Vāyu and both drink Soma together. On this matter, that is, how the deity Vāyu is entitled to the first Soma-drinking, there is an earlier history in the Aitareya Brāhmaṇa.
+
+देवा वै सोमस्य राज्योऽग्रपेये न समपादयॆन्नहं प्रथमः पिबेयमहं प्रथमः पिबेयमित्येवाकामयंत ते संपादयंतोऽब्रुवन् हंताजिमयाम स यो न उज्जॆष्यति स प्रथमः सोमस्य पास्यतीति तथेति त आजिमयुस्तेषामाजिं यतामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेंद्रोऽथ मित्रावरुणावथाश्विन् । (*devā vai somasya rājyo 'grapeye na samapādayènnahaṃ prathamaḥ pibeyamahaṃ prathamaḥ pibeyamityevākāmayaṃta te saṃpādayaṃto 'bruvan haṃtājimayāma sa yo na ujjèṣyati sa prathamaḥ somasya pāsyatīti tatheti ta ājimayusteṣāmājiṃ yatāmabhisṛṣṭānāṃ vāyurmukhaṃ prathamaḥ pratyapadyatātheṃdro 'tha mitrāvaruṇāvathāśvin |*) (Ai. Brā. 9-25)
+
+In former times all the gods together desired to drink Soma, and a dispute arose as to which of them should drink the Soma first; each of them began to insist, "I first, I first shall drink." Since the matter could not be settled in any way, they all gathered, took counsel and came to an agreement, namely: "Let us all arrange a contest together. Whoever wins in it shall be entitled to drink Soma first." When all agreed to this, the contest was fixed thus: running from one place to another place far away, whoever first reached a rock or a tree there should be regarded as the winner. When all consented to the agreement that the one who wins in this way should be victorious among them and drink Soma first, all the gods began to run at the same time.
+
+### Printed p. 796
+
+Among all the running gods, Vāyu reached the appointed place ahead of everyone. Indra came right behind Vāyu and became the second. After that, behind Indra came Mitra and Varuṇa, and behind them the Aśvin gods ran up and reached the appointed place. Therefore among these gods Vāyu ran ahead of everyone and became the victor.
+
+सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्जयानेति स नेत्यब्रवीदहमेवोज्जॆष्यामाति तृतीयं मेऽथोज्जयावेति नेति हैवाब्रवीदहमेवोज्जॆष्यामाति तुरीयं मेऽथोज्जयावेति तथेति तं तुरीयेऽत्यार्जत तत्तु रीयभागिंद्रोऽभवत्रिभाग्वायुः ॥ (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojjayāneti sa netyabravīdahamevojjèṣyāmāti tṛtīyaṃ me 'thojjayāveti neti haivābravīdahamevojjèṣyāmāti turīyaṃ me 'thojjayāveti tatheti taṃ turīye 'tyārjata tattu rīyabhāgiṃdro 'bhavatribhāgvāyuḥ ‖*)
+
+While Vāyu was running and Indra behind him, a conversation took place between them in this manner. Indra, who was behind Vāyu, saw him running swiftly and resolved: "This Vāyu will run ahead of everyone and be the victor. Somehow I too must run along with him and win." Using all his strength he ran close to Vāyu. Yet, as there was no sign of leaving Vāyu behind and going ahead himself, Indra then addressed Vāyu: "O Vāyu, we two are ahead of everyone. Therefore let us regard ourselves both as winners and both share the first Soma-drinking: half for me, half for you; thus let us co-operate and gain the victory." Hearing those words Vāyu said: "O Indra, I am ahead of you, if only by a little. Therefore I alone shall be the victor. In the first Soma-drinking everything must belong to me. I cannot give you half." Then Indra said: "Very well, then I do not want a half. Take two out of three parts, and give me only one part." But Vāyu did not agree even to this and said: "Somehow I alone shall win. The whole share will belong to me; I am not willing to give you even one part out of three." Then Indra again entreated Vāyu: "I do not want even one part out of three. Still less, that is, if you give me one part out of four, it is enough. Agree to that at least." When he asked thus, Vāyu agreed, saying "So be it." Therefore it was arranged that in the Aindravāyava cup (that is, the vessel in which Indra and Vāyu together drink Soma) Indra should have one part and Vāyu three parts.
+
+### Printed p. 797
+
+तौ सहैवेंद्रवायू उदजयतां सह मित्रावरुण् सहाश्विन् त एषामेते यथोज्जि तं भक्षा इंद्रवाय्वोः प्रथमोऽथ मित्रावरुणयोरथाश्विनोः स एष इंद्रतुरीयो ग्रहो गृह्यते यद्यैंद्रवायवः । (*tau sahaiveṃdravāyū udajayatāṃ saha mitrāvaruṇ sahāśvin ta eṣāmete yathojji taṃ bhakṣā iṃdravāyvoḥ prathamo 'tha mitrāvaruṇayorathāśvinoḥ sa eṣa iṃdraturīyo graho gṛhyate yadyaiṃdravāyavaḥ |*)
+
+In this way Indra and Vāyu, co-operating, won the contest and reached the appointed place first. Behind them Mitra and Varuṇa came and joined. Behind them the Aśvin gods came. Therefore among these gods, in the order of the place each obtained in the contest, they became entitled to Soma-drinking. That is, the arrangement came about that first Indra and Vāyu, then Mitra and Varuṇa, then the Aśvin gods should drink Soma. Thus the practice of the dvidevatya graha (that is, the practice in which two deities together drink Soma) came into use. Therefore in the Aindravāyava cup only one part out of four is Indra's share in the Soma-drinking.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वा॒व्यो॑ नः परिषि॒च्यमा॑नाः॒ क्षयं॑ सु॒वीरं॑ धन्वंतु॒ सोमाः॑ ।  
+> आ॒य॒ज्यवः॑ सुम॒तिं वि॒श्ववा॑रा॒ होता॑रो॒ न दि॑वि॒यजो॑ मं॒द्रत॑माः ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देव अव्यः । नः । परिसिच्यमानाः । क्षयं । सुवीरं । धन्वंतु । सोमाः ।  
+> आयज्यवः । सुमतिं । विश्वनाराः । होतारः । न । दिवियजः । मंद्रतमाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवाव्यः ॥ अवतेस्तर्पणार्थस्य अवित्यस्तंत्रिभ्य ईरितीप्रत्ययः । उदात्तस्वरितयोर्यण इति जसः स्वरितत्वं ॥ देवानां तर्पयितारः परिषिच्यमानाः परितः
+> पात्रेषु सिच्यमानाः सोमा नोऽस्माकं सुवीरं शोभनपुत्रं क्षयं गृहं धन्वंतु!
+> प्रेरयंतु । कीदृशाः । होतारो न होतारो यथा देवानिंद्रानीस्तुवंत एवं
+> दिवियजो दिवि द्युलोके स्थितानिंद्रादीन्देवान्यजंतः ॥ दिव्यब्दे तत्पुरुषे कृति
+> बहुलमिति सप्तम्या अलुक् ॥ मंद्रतमा अत्यंतं मदकराः ॥
+
+##### Gist of the bhāṣya
+
+Those who gratify the gods (देवाव्यः (*devāvyaḥ*)), the Somas poured around, that is, poured on all sides into the vessels, are to bring us a dwelling with good heroes, that is, with good sons: may they impel it towards us. Of what kind are they? Like ministrant priests: as the Hotṛs praise the gods Indra and Agni, so these worship the gods Indra and the others who dwell in heaven, in the world of light. They are most exhilarating, that is, in the highest degree intoxicating.
+
+### Printed p. 798
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाव्यः (*devāvyaḥ*)—those who give satisfaction to the gods
+- परिषिच्यमानाः (*pariṣicyamānāḥ*)—and which are poured all around in the vessels
+- सोमाः (*somāḥ*)—the Soma juices
+- नः (*naḥ*)—to us
+- सुवीरं (*suvīraṃ*)—furnished with excellent heroic sons
+- क्षयं (*kṣayaṃ*)—a dwelling
+- धन्वंतु (*dhanvaṃtu*)—let them give
+- होतारो न (*hotāro na*)—like the Hotṛs
+- दिवियजः (*diviyajaḥ*)—those who worship the gods of the heavenly world
+- आयज्यवः (*āyajyavaḥ*)—those who give gifts visibly
+- विश्ववाराः (*viśvavārāḥ*)—those worthy of everyone's esteem
+- मंद्रतमाः (*maṃdratamāḥ*)—the Soma juices that are most exhilarating
+- सुमतिं (*sumatiṃ*)—let them bestow good understanding on us
+
+##### भावार्थ (Bhāvārtha)
+
+May the Soma juices, which give satisfaction to the gods and are poured all around in the vessels, give us a dwelling furnished with excellent heroic sons. Like the Hotṛs, those who worship the gods of the heavenly world, who give gifts visibly, who are worthy of everyone's esteem and most exhilarating, the Soma juices, are to bestow good understanding on us.
+
+##### English translation
+May the Soma juices which are gratifying to the gods when poured around (into the vessels) bring us a dwelling and male offspring—(the juices) endeavouring to gain the favour (of the gods), desired by all offering (to the gods) in heaven like the the ministrant priests, most exhilarating. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+The word सुमति (*sumati*) is, by Yāska,
+
+धाता ददातु दाशुषे प्राचीं जीनातुमक्षितां । वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ॥ (*dhātā dadātu dāśuṣe prācīṃ jīnātumakṣitāṃ | vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ ‖*) (Atha. Saṃ. 7-2-2) **GLOSS**
+
+In this quoted Ṛk and in still other places, Sāyaṇa has explained that the word सुमति (*sumati*) conveys the meaning "auspicious understanding". But the word सुमति (*sumati*) is used not only for the divine, gracious understanding, but also in the sense of a prayer made by man, or the excellent desire of man. For example,
+
+### Printed p. 799
+
+शुभ्यं भरंति क्षितयो यविष्ठ बलिमग्ने अंतित ओत दूरात् । आ भंदिष्ठस्य सुमतिं चिकिद्दि बृहत्ते अग्ने महि शर्म भद्रं ॥ (*śubhyaṃ bharaṃti kṣitayo yaviṣṭha balimagne aṃtita ota dūrāt | ā bhaṃdiṣṭhasya sumatiṃ cikiddi bṛhatte agne mahi śarma bhadraṃ ‖*) (Ṛ. Saṃ. 5-1-10) **GLOSS**
+
+प्र वो महे महिवृधे भरध्वं प्रचेतसे प्र सुमतिं कृणुध्वं । विशः पूर्वीः प्र चरा चर्षणिप्राः ॥ (*pra vo mahe mahivṛdhe bharadhvaṃ pracetase pra sumatiṃ kṛṇudhvaṃ | viśaḥ pūrvīḥ pra carā carṣaṇiprāḥ ‖*) (Ṛ. Saṃ. 7-31-10) **GLOSS**
+
+In Ṛks such as these it has been interpreted as स्तोतुः स्तुतिं आ जानीहि (*stotuḥ stutiṃ ā jānīhi*), "listen to the excellent praise of the praiser", and as इंद्राय सुष्टुतिं प्र कुरुत (*iṃdrāya suṣṭutiṃ pra kuruta*), "recite an excellent praise addressed to Indra". And further,
+
+यूयं न उग्रा मरुतः सुचेतुनारिष्टग्रामाः सुमतिं पिपर्तन । यत्रा वो विद्युद्रदति क्रिविर्दती रिणाति पश्वः सुधितेव बर्हणा ॥ (*yūyaṃ na ugrā marutaḥ sucetunāriṣṭagrāmāḥ sumatiṃ pipartana | yatrā vo vidyudradati krivirdatī riṇāti paśvaḥ sudhiteva barhaṇā ‖*) (Ṛ. Saṃ. 1-166-6) **GLOSS**
+
+In the Ṛk explained earlier, Sāyaṇa has explained सुमतिं पिपर्तन (*sumatiṃ pipartana*) as शोभनबुद्धिं पूरयत (*śobhanabuddhiṃ pūrayata*). Here "excellent understanding" does not mean only the gracious understanding of the gods. Since पिपर्तन (*pipartana*) is said, the meaning "fulfil also our excellent desired aims" arises naturally.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा दे॑व दे॒वता॑ते पवस्व म॒हे सो॑म॒ प्सर॑से देव॒पानः॑ ।  
+> म॒हश्चि॒द्दि ष्मसि॑ हि॒ताः स॑म॒र्यॆ कृ॒धि सु॑स्था॒ने रोद॑सी पुना॒नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । देव । देवताते । पवस्व । महे । सोम । प्सरसे । देवपानः ।  
+> महः । चित् । हि । स्मसि । हिताः । समर्यॆ । कृधि । सुस्थाने इति सुस्थाने । रोदसी  
+> इति । पुनानः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान स्तोतव्य वा हे सोम देवपानो देवैः पातव्यस्त्वं
+> देवताते देवैस्तते वितते यज्ञे महे महते प्सरसे भक्षणाय देवानां पानाय्कॆ-
+
+##### Gist of the bhāṣya
+
+O shining or praiseworthy Soma, you who are to be drunk by the gods, in the sacrifice spread out by the gods, for the great drinking, for food, for the drinking of the gods. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 793. Sūkta 97 Ṛk 21 bhāṣya to Ṛk 24 (pp. 788-793)
+**Progress note:** Done through printed p. 799. Ṛk 25 (Special Topics, Aitareya narrative), Ṛk 26, start of Ṛk 27 (Sūkta 97)
