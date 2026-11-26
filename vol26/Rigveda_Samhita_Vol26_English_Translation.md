@@ -23448,6 +23448,262 @@ Swift-going Soma, when pressed, runs to the ten-fold filter like a horse let loo
 ##### English translation
 When effused, this quick-flowing Soma hastens to the filter like a steed let loose ; whilst alighting (he moves) like a buffalo sharpening his pointed horns, like a warrior on a foray for cattle.
 
+### Printed p. 620
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा य॑यौ पर॒मादं॒तरद्रेः॒ कूचि॑त्स॒तीरू॒र्वे गा वि॑वेद ।  
+> दि॒वो न वि॒द्युत्स्त॒नयं॑त्य॒भ्रैः सोम॑स्य ते पवत इंद्र॒ धारा॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । आ । ययौ । परमात् । अंतः । अद्रेः । कूऽचित् । सतीः । ऊर्वे । गाः । विवेद ।  
+> दिवः । न । विऽद्युत् । स्तनयंती । अभ्रैः । सोमस्य । ते । पवते । इंद्र । धारा ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा सोमधारा परमात् उच्छ्रितात् स्थानात् ययौ जगाम पात्रं स्वयंप्राप्तव्यं देशं वा । किंच अद्रेः पणीनां निवासस्थानस्य पर्वतस्य अंतः कूचित् क्वचित् कुत्रचिद्गूढे ऊर्वे देशे सतीः वर्तमानाः पणिभिरपहृताः गाः विवेद लब्धवती । यत्र पणयो गा अपहृत्य  स्थापितवंतः स देश ऊर्वः। 'ऊर्वं गव्यं महि गृणानः' (ऋ. सं. ६,१७,१ ) इति हि मंत्रांतरम् । दिवो न विद्युत् दिवः सकाशाद्विद्युदिव स्तनयंती शब्दयंती । विद्युत् विशेष्यते । अभ्रैः प्रेरितेति शेषः । सा यथा शब्दं करोति तद्वच्छब्दं कुर्वती । सोमस्य संबंधिनी सेयं धारा हे इंद्र ते त्वदर्थं त्वत्पानाय पवते पूयते । क्षरति वा ॥
+
+##### Gist of the bhāṣya
+
+This stream of Soma went (ययौ (*yayau*)) from the highest, lofty place to the vessel, or to the place to be reached of itself. Further, within the mountain (अद्रेः (*adreḥ*)), the dwelling place of the Paṇis, somewhere, in a hidden wide place (ऊर्वे (*ūrve*)), it found the cows (गाः (*gāḥ*)) that were there, stolen by the Paṇis. The place where the Paṇis stole the cows and put them is ऊर्वः (*ūrvaḥ*); for there is another mantra, ऊर्वं गव्यं महि गृणानः (*ūrvaṃ gavyaṃ mahi gṛṇānaḥ*) (Ṛ. Saṃ. 6,17,1). Sounding like lightning from heaven, sent forth by the clouds (that is to be supplied), as that makes a sound so this makes a sound. This stream, belonging to Soma, O Indra, is purified, or flows, for you, for your drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा (*eṣā*)—this stream of Soma
+- परमात् (*paramāt*)—from the highest place
+- युयौ (*yuyau*)—has come **NOTE**
+- अद्रेः (*adreḥ*)—of the mountain
+- अंतः (*aṃtaḥ*)—inside
+- क्वचित् ऊर्वे (*kvacit ūrve*)—in a place that no one sees **NOTE**
+- सतीः (*satīḥ*)—that were hidden
+- गाः (*gāḥ*)—the cows
+- विवेद (*viveda*)—has found out
+- इंद्र (*iṃdra*)—O Indra
+- अभ्रैः (*abhraiḥ*)—impelled by the clouds
+- विद्युत् (*vidyut*)—lightning
+- स्तनयंती (*stanayaṃtī*)—sounding
+- दिवो न (*divo na*)—as falling from the atmosphere
+- सोमस्य (*somasya*)—of the Soma-juice
+- धारा (*dhārā*)—the stream
+- ते (*te*)—for you
+- पवते (*pavate*)—flows
+
+### Printed p. 621
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deity has come from a very high place. It has found the cows that were hidden in a place inside the mountain that no one sees. O Indra, like lightning impelled by the cloud, falling sounding from the atmosphere, the stream of the Soma-juice flows towards you.
+
+##### English translation
+This Soma stream has come from on high and has detected the cattle which were in a stall (hidden) somewhere within the mountain ; the stream of the Soma flows for you, Indra, thundering like lightning emitted by the clouds from heaven.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्म॑ रा॒शिं परि॑ यासि॒ गोना॒मिंद्रे॑ण सोम स॒रथं॑ पुना॒नः ।  
+> पू॒र्वीरिषो॑ बृह॒तीर्जी॑रदानो॒ शिक्षा॑ शचीव॒स्तव॒ ता उ॑प॒ष्टुत् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । राशिम् । परि । यासि । गोनाम् । इंद्रेण । सोम । सऽरथम् । पुनानः ।  
+> पूर्वीः । इषः । बृहतीः । जीरदानो इति जीरऽदानो । शिक्ष । शचीऽवः । तव । ताः । उपऽस्तुत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत स्म अपि च खलु हे सोम पुनानः पूयमानः गोनां गवां राशिं समूहं पणिभिरपहृतं परि यासि परिगच्छसि । कथंभूतः सन् उच्यते । इंद्रेण सह सरथम् एकमेव रथमास्थाय । हे जीरदानो क्षिप्रदान सोम उपस्तुत् उपस्तूयमानस्त्वं पूर्वीः बह्वीः बृहतीः महतीः इषः उक्तलक्षणान्यन्नानि शिक्ष देहि । हे शचीवः अन्नवन् ताः इषः तव स्वभूता इति शेषः ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+And indeed, O Soma, being purified, you go round the herd (गोनां राशिं (*gonāṃ rāśiṃ*), the mass) of cows stolen by the Paṇis. In what manner? Riding together with Indra in one and the same chariot (सरथं (*sarathaṃ*)). O Soma, quick giver (जीरदानो (*jīradāno*)), being praised, give many (पूर्वीः (*pūrvīḥ*)) and great (बृहतीः (*bṛhatīḥ*)) foods (इषः (*iṣaḥ*)) of the kind stated. O शचीवः (*śacīvaḥ*), possessor of food, those foods are your own, that is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- पुनानः (*punānaḥ*)—you who have attained purity
+- इंद्रेण सह (*iṃdreṇa saha*)—together with Indra
+- सरथं (*sarathaṃ*)—mounting one and the same chariot
+- गोनां राशिं (*gonāṃ rāśiṃ*)—the herd of cows
+
+### Printed p. 622
+
+- परि यासि (*pari yāsi*)—you set out seeking
+- जीरदानो (*jīradāno*)—O Soma-deva, who give quickly
+- उपस्तुत् (*upastut*)—you who are praised by us
+- पूर्वीः (*pūrvīḥ*)—abundant
+- बृहतीः (*bṛhatīḥ*)—and of great fruit
+- इषः (*iṣaḥ*)—foods
+- शिक्ष (*śikṣa*)—give
+- शचीवः (*śacīvaḥ*)—O Soma, possessor of food
+- ताति (*tāti*)—those foods **NOTE**
+- तव (*tava*)—are your possessions
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have attained purity set out seeking the herd of cows, mounting one and the same chariot together with Indra. O Soma-deva, who give quickly, you who are praised by us, give abundant foods of great fruit. O Soma, possessor of food, those foods are your possessions.
+
+##### English translation
+And being purified, Soma, you pursue the herd of (stolen) cattle in the same chariot with Indra ; O you who give quickly, give (us) when invoked plentiful and abundant viands, for they are your (property), O you who abund in food. **NOTE**
+
+## Sūkta 88 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> 'अयं सोमः' इत्यष्टर्चं तृतीयं सूक्तम् । ऋष्याद्याः पूर्ववत् । अयं सोमोऽष्टौ ' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, beginning अयं सोमः (*ayaṃ somaḥ*), has eight Ṛks. The seer and the rest are as before. The Anukramaṇikā is cited: अयं सोमोऽष्टौ (*ayaṃ somo 'ṣṭau*). The application (viniyoga) has been stated.
+
+Anuvāda: This sūkta beginning अयं सोमः (*ayaṃ somaḥ*) is the third sūkta in the fifth anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as in the previous sūkta. In the Anukramaṇikā it is said: आयं सोमोऽष्टौ (*āyaṃ somo 'ṣṭau*). The application (viniyoga) has been stated before. **NOTE**
+
+- Maṇḍala 9; Anuvāka 5; Sūkta 88
+- Aṣṭaka 7; Adhyāya 3; Varga 24
+- Number of Ṛks in the sūkta: 8
+- Seer: उशनाः (*uśanāḥ*)
+- Deity: पवमानः सोमः (*pavamānaḥ somaḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+### Printed p. 623
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सोम॑ इंद्र॒ तुभ्यं॑ सुन्वे॒ तुभ्यं॑ पवते॒ त्वम॑स्य पाहि ।  
+> त्वं ह॒ यं च॑कृ॒षे त्वं व॑वृ॒ष इंदुं॒ मदा॑य॒ युज्या॑य॒ सोम॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । सोमः । इंद्र । तुभ्यम् । सुन्वे । तुभ्यम् । पवते । त्वम् । अस्य । पाहि ।  
+> त्वम् । ह । यम् । चकृषे । त्वम् । ववृषे । इंदुम् । मदाय । युज्याय । सोमम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अयं सोमः तुभ्यं त्वदर्थं सुन्वे सूयते ॥ सुनोतेः कर्मार्थे लटि ‘ लोपस्त आत्मनेपदेषु' इति तलोपः ॥ तुभ्यं त्वदर्थमेव पवते पूयते । त्वं च अस्य अमुं पाहि पिब । त्वं ह यम् इंदुं सोमं चकृषे करोषि । त्वं च यं ववृषे वृतवानसि । किमर्थम् । मदाय युज्याय सहायाय । सोम इंद्राय बलकरत्वात् सहाय इति प्रसिद्धम् । यमेवं करोषि त्वं तं पाहीति समन्वयः॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Soma is pressed (सुन्वे (*sunve*)) for you; for you alone it is purified. Drink it. That Indu, Soma, which you have made (चकृषे (*cakṛṣe*)) and which you have chosen (ववृषे (*vavṛṣe*)): for what purpose? For exhilaration (मदाय (*madāya*)) and for companionship (युज्याय (*yujyāya*), glossed as help). It is well known that Soma is a helper of Indra, because it gives strength. The construction is: drink him whom you thus treat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- तुभ्यं (*tubhyaṃ*)—for you
+- सुन्वे (*sunve*)—is pressed
+- तुभ्यं (*tubhyaṃ*)—for you
+- पवते (*pavate*)—is purified
+- त्वं (*tvaṃ*)—you
+- इंदुं (*iṃduṃ*)—in the form of a stream
+- यं सोमं (*yaṃ somaṃ*)—which Soma
+- चकृषे (*cakṛṣe*)—you create
+- मदाय (*madāya*)—for your joy
+- युज्याय (*yujyāya*)—and for help
+- त्वं (*tvaṃ*)—you
+- ववृषे (*vavṛṣe*)—which Soma you desire
+- अस्य (*asya*)—such a Soma
+- त्वं (*tvaṃ*)—you
+- पाहि (*pāhi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma is pressed for you. It is purified for you. The Soma in the form of a stream, which you create, which you desire for your joy and for help, such a Soma drink.
+
+##### English translation
+This Soma is expressed ror you, Indra ; for you it is filtered ; drink of it ; it is the Indu Soma which you have made, which you have chosen for your exhilaration, your companion. **NOTE**
+
+### Printed p. 624
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॒ रथो॒ न भु॑रि॒षाळ॑योजि म॒हः पु॒रूणि॑ सा॒तये॒ वसू॑नि ।  
+> आदीं॒ विश्वा॑ नहु॒ष्या॑णि जा॒ता स्व॑र्षाता॒ वन॑ ऊ॒र्ध्वा न॑वंत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ईमिति । रथः । न । भुरिषाट् । अयोजि । महः । पुरूणि । सातये । वसूनि ।  
+> आत् । ईमिति । विश्वा । नहुष्याणि । जाता । स्वःऽसाता । वने । ऊर्ध्वा । नवंत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स ईं सोऽयं सोमः भुरिषाट् भूरिभारस्य सोढा रथो न रथ इव भुरिषाट्  प्रभूतस्य भारस्य सोढा अयोजि युज्यते । कीदृशः सः । महः महान् । किमर्थमयोजि । पुरूणि बहूनि वसूनि धनानि सातये अस्मभ्यं दातुम् । आदीं योगानंतरं विश्वा विश्वानि सर्वाणि नहुष्याणि । नहुषो मनुष्याः । तेषां संबंधीनि जाता जातान्यस्मद्विरोधीनि ऊर्ध्वा उन्मुखानि वने वननीये स्वर्षाता स्वर्षातौ । संग्रामनामैतत् । स्वर्गलाभयुक्ते संग्रामे नवंत गच्छंतु । नवतिर्गतिकर्मा । यद्वा। सोमं संग्रामे युद्धार्थिनः संगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+This Soma, like a chariot that bears a heavy load (भुरिषाट् (*bhuriṣāṭ*), the bearer of much burden), is yoked (अयोजि (*ayoji*)). Of what kind? Great. For what purpose is he yoked? To give us many riches (सातये (*sātaye*)). After the yoking, let all (विश्वा (*viśvā*)) the born (जाता (*jātā*)) belonging to men (नहुष्याणि (*nahuṣyāṇi*); नहुषो मनुष्याः (*nahuṣo manuṣyāḥ*), that is, men), who are hostile to us, looking upward (ऊर्ध्वा (*ūrdhvā*), with faces turned up), go (नवंत (*navaṃta*); the root नवति (*navati*) is in the sense of going) to the desirable (वने (*vane*)) battle (स्वर्षाता (*svarṣātā*) is a name of battle) that brings the gain of heaven. Or else, those who seek battle assemble at Soma in the battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—the great one
+- सईं (*saīṃ*)—that same Soma **NOTE**
+- भूरिषाट् (*bhūriṣāṭ*)—which bears a heavy burden **NOTE**
+- रथो न (*ratho na*)—like a chariot
+- पुरूणि (*purūṇi*)—abundant
+- वसूनि (*vasūni*)—riches
+- सातये (*sātaye*)—to give us
+- अयोजि (*ayoji*)—is yoked
+- आदीं (*ādīṃ*)—immediately after
+- नहुष्याणि (*nahuṣyāṇi*)—in the group of men
+- जाता (*jātā*)—born
+- विश्वा (*viśvā*)—all our enemies
+- ऊर्ध्वा (*ūrdhvā*)—facing us
+- वने (*vane*)—which gives enthusiasm
+- स्वर्षाता (*svarṣātā*)—in the battle
+- नवंत (*navaṃta*)—let them come and join
+
+##### भावार्थ (Bhāvārtha)
+
+The great Soma is appointed to give us abundant riches, like a chariot that bears a heavy burden. Immediately after, let all our enemies, born in the group of men, come and join, facing us, in the battle that gives enthusiasm.
+
+### Printed p. 625
+
+##### English translation
+It has been harnessed like a great wagon that bears heavy burdens in order to bring us many treasures ; after this may all the races of men expecting our (attack) go to the desirable battle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒युर्न यो नि॒युत्वाँ॑ इ॒ष्टया॑मा॒ नास॑त्येव॒ हव॒ आ शंभ॑विष्ठः ।  
+> वि॒श्ववा॑रो द्रविणो॒दा इ॑व॒ त्मन्पू॒षेव॑ धी॒जव॑नोऽसि सोम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वायुः । न । यः । नियुत्वान् । इष्टऽयामा । नासत्याऽइव । हवे । आ । शम्ऽभविष्ठः ।  
+> विश्वऽवारः । द्रविणोदाःऽइव । त्मन् । पूषाऽइव । धीऽजवनः । असि । सोम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः नियुत्वान् । नियुतो वायोरश्वाः । तद्वान् वायुर्न वायुरिव इष्टयामा इष्टगमनः । नासत्येव अश्विनाविव हवम् आह्वानमाकर्ण्य आ सर्वतः शंभविष्ठः सुखस्य भावयितृतमः । द्रविणोदाइव धनदातेव' त्मन् आत्मनि विश्ववारः विश्वैर्वरणीयो भवति तद्वद्विश्ववारोऽसि । पूषेव पोषकः सवितेव धीजवनः मनोवेगः असि । यद्वा कर्मणां प्रवर्तयितासि हे सोम ॥
+
+##### Gist of the bhāṣya
+
+That Soma who has the नियुत्वान् (*niyutvān*), the horses of Vāyu, like Vāyu, is of desired going (इष्टयामा (*iṣṭayāmā*)). Like the Aśvins (नासत्येव (*nāsatyeva*)), hearing the invocation (हवम् (*havam*)), he is on every side the greatest producer of happiness (शंभविष्ठः (*śaṃbhaviṣṭhaḥ*)). As a giver of wealth is to be chosen by all in himself (त्मन् (*tman*)), so you are विश्ववारः (*viśvavāraḥ*), chosen by all. Like Pūṣan (पूषेव (*pūṣeva*)), the nourisher, like Savitṛ, you are swift as thought (धीजवनः (*dhījavanaḥ*), having the speed of the mind). Or else you, O Soma, are the one who sets the rites in motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- यः (*yaḥ*)—you who
+- नियुत्वान् (*niyutvān*)—possessing the horses called Niyut
+- वायुर्न (*vāyurna*)—like Vāyu
+- इष्टयामा (*iṣṭayāmā*)—of free movement
+- नासत्येव (*nāsatyeva*)—like the Aśvin-devatās
+- हवं (*havaṃ*)—hearing our invocation
+- आ (*ā*)—everywhere
+- शंभविष्यः (*śaṃbhaviṣyaḥ*)—the giver of happiness **NOTE**
+- द्रविणोदाइव (*draviṇodāiva*)—like a giver of wealth
+- त्मन् (*tman*)—you yourself
+- विश्ववारः (*viśvavāraḥ*)—desired by all
+- पूषेव (*pūṣeva*)—like Savitṛ, the nourisher of the world
+- धीजवनः (*dhījavanaḥ*)—having the speed of the mind
+- असि (*asi*)—you are
+
 ---
 
-**Progress note:** Done through printed p. 619. Sukta 87 Rk 1 end to Rk 7, pp. 613-619
+**Progress note:** Done through printed p. 625. Sukta 87 Rk 8-9, Sukta 88 Rk 1-3, pp. 620-625
