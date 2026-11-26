@@ -1279,6 +1279,266 @@ Hear the invocation of the (grinding) stone, (of me) repeatedly drinking (the So
 
 > न ते॒ गिरो॒ अपि॑ मृष्ये तु॒रस्य॒ न सु॑ष्टु॒तिम॑सु॒र्य॑स्य वि॒द्वान् ।
 
+### Printed p. 31
+
+> सदा ते नाम स्वयशो विवक्मि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । गिरः । अपि । मृष्ये । तुरस्य । न । सुस्तुतिं । असुर्यस्य । विद्वान् ।  
+> सदा । ते । नाम । स्वयशः । विवक्मि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तुरस्य शत्रूणां हिंसकस्य ते तव गिरः स्तुतीरसुर्यस्य । द्वितीयार्थे षष्ठी । त्वदीयमसुर्यं बलं विद्वाञ्जानन्नहं नापि मृष्ये । मृषिर्मार्जनकर्मा । न मार्जयामि । न परित्यजामीत्यर्थः । सुष्टुतिं शोभनां स्तुतिं च नापि मृष्ये । मृषेर्मार्जनकर्मत्वमन्यत्रापि दृश्यते । तद्यथा । मा नो अग्ने सख्या पित्र्याणि प्र मर्षिष्ठाः । ऋ. १-७१-१० । इति । किंतु स्वयशोऽसाधारणयशस्ते तव नाम स्तोत्रं सदैव विवक्मि । ब्रवीमि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you who are the destroyer of enemies (तुरस्य (*turasya*)): knowing your strength (असुर्यस्य (*asuryasya*)), I do not wipe away (मृष्ये (*mṛṣye*)) your praises (गिरः (*giraḥ*)). The root मृषि (*mṛṣi*) has the sense of wiping off; the meaning is "I do not wipe off, I do not abandon". Nor do I wipe away the good praise (सुष्टुतिं (*suṣṭutiṃ*)). That मृषि (*mṛṣi*) means wiping off is seen elsewhere too, as in मा नो अग्ने सख्या पित्र्याणि प्र मर्षिष्ठाः (*mā no agne sakhyā pitryāṇi pra marṣiṣṭhāḥ*) (Ṛ. 1-71-10). Rather, I always proclaim (विवक्मि (*vivakmi*)) your name, that is, your hymn, whose fame (स्वयशः (*svayaśaḥ*)) is peculiar to yourself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुरस्य (*turasya*)—(O Indra) of you, the destroyer of enemies
+- ते (*te*)—your
+- असुर्यस्य (*asuryasya*)—mighty strength
+- विद्वान् (*vidvān*)—I who know
+- गिरः (*giraḥ*)—your praises
+- न अपि मृष्ये (*na api mṛṣye*)—I never stop
+- सुष्टुतिं (*suṣṭutiṃ*)—the most excellent praise
+- न (*na*)—I certainly do not stop
+- सदा (*sadā*)—always
+- ते (*te*)—your
+- स्वयशः (*svayaśaḥ*)—praising the extraordinary fame
+- नाम (*nāma*)—the hymn
+- विवक्मि (*vivakmi*)—I recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I who know the mighty strength of you, the destroyer of enemies, never stop reciting your praises. I certainly do not stop the most excellent praise. I always recite the hymn that praises your extraordinary fame.
+
+##### English translation
+Knowing of your strength, I refrain not from the praise nor from the glorification of you, the destroyer (of foes), but ever proclaim your especial care.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरि॒ हि ते॒ सव॑ना॒ मानु॑षेषु॒ भूरि॑ मनी॒षी ह॑वते॒ त्वामित् ।  
+> मारे अ॒स्मन्म॑घव॒न्ज्योक्कः॑ ॥ ६ ॥
+
+### Printed p. 32
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरि । हि । ते । सवना । मानुषेषु । भूरि । मनीषी । हवते । त्वां । इत् ।  
+> मा । आरे । अस्मत् । मघवन् । ज्योक् । करिति कः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् ते तव सवना सवनानि सोमाभिषवणानि भूरि भूरीणि मानुषेष्वस्मासु वर्तंत इति शेषः । मनीषी स्तोता त्वामित्त्वामेव भूरि हवते । नितरां ह्वयति । स्तौति । अतोऽस्मदस्मत्त आरे दूरे ज्योक् चिरकालं मा कः । आत्मानं मा कार्षीः । क्षिप्रमात्मानमस्मदासन्नं कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Maghavan, your many Soma-pressings (सवना (*savanā*)) are going on among us men (मानुषेषु (*mānuṣeṣu*)), the verb being understood. The praiser (मनीषी (*manīṣī*)) calls on you alone, very often (भूरि हवते (*bhūri havate*)); that is, he praises you. Therefore do not make yourself (मा कः (*mā kaḥ*)) far (आरे (*āre*)) from us for a long time (ज्योक् (*jyok*)); the meaning is: quickly bring yourself near to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- मानुषेषु (*mānuṣeṣu*)—among men
+- ते (*te*)—performed for you
+- सवना (*savanā*)—the sacrificial rites
+- भूरि (*bhūri*)—are exceedingly many
+- मनीषी (*manīṣī*)—the praiser also
+- त्वामित् (*tvāmit*)—you alone
+- भूरि हि (*bhūri hi*)—abundantly
+- हवते (*havate*)—praises (therefore)
+- अस्मात् (*asmāt*)—than us
+- आरे (*āre*)—being far away
+- ज्योक् (*jyok*)—for a long time
+- मा कः (*mā kaḥ*)—do not make us wait
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, the sacrificial rites performed for you are exceedingly many among men. The praiser also praises you alone abundantly. Therefore do not, being far away from us, make us wait for a long time.
+
+##### English translation
+Many are the sacrifices offered, Maghavan, to you amongst mankind; constantly does the worshipper indeed invoke you , therefore be not far, nor be a long time from us.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्येदि॒मा सव॑ना शूर॒ विश्वा॒ तुभ्यं॒ ब्रह्मा॑णि॒ वर्ध॑ना कृणोमि ।  
+> त्वं नृभि॒र्हव्यो॑ वि॒श्वधा॑सि ॥ ७ ॥
+
+### Printed p. 33
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । इत् । इमा । सवना । शूर । विश्वा । तुभ्यं । ब्रह्माणि । वर्धना । कृणोमि ।  
+> त्वं । नृभिः । हव्यः । विश्वधा । असि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर तुभ्येत्तुभ्यमेवेमेमानि विश्वा विश्वानि सवना सोमाभिषवणानि मया क्रियंते इति शेषः । तुभ्यं त्वदर्थमेव वर्धना वर्धनानि ब्रह्माणि स्तोत्राणि कृणोमि । करोमि । त्वमेव नृभिर्यज्ञानां नेतृभिर्विश्वधा सर्वप्रकारैर्हव्यो ह्वातव्यः स्तुत्यो वासि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O hero, for you alone (तुभ्येत् (*tubhyet*)) all these Soma-pressings (सवना (*savanā*)) are performed by me, the verb being understood. For you alone I make (कृणोमि (*kṛṇomi*)) hymns (ब्रह्माणि (*brahmāṇi*)), that is, praises, that cause growth (वर्धना (*vardhanā*)). You alone, by the leaders of the sacrifices (नृभिः (*nṛbhiḥ*)), in every manner (विश्वधा (*viśvadhā*)), are to be invoked or praised (हव्यः (*havyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- तुभ्येत् (*tubhyet*)—directed to you alone
+- विश्वा (*viśvā*)—all
+- इमा सवना (*imā savanā*)—these sacrificial rites (are performed)
+- तुभ्यं (*tubhyaṃ*)—for you alone
+- वर्धना (*vardhanā*)—ever-growing
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- कृणोमि (*kṛṇomi*)—I compose
+- त्वं (*tvaṃ*)—you alone
+- नृभिः (*nṛbhiḥ*)—by the performers of the sacrifice
+- विश्वथा (*viśvathā*)—in many ways
+- हव्यः (*havyaḥ*)—as one to be worshipped
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, all these sacrificial rites, directed to you alone, are performed. I compose these ever-growing hymns to offer to you. You alone are worshipped by the performers of the sacrifice in many ways.
+
+##### English translation
+To you, hero, I indeed offer these sacrifices, to you I address these elevating praises : you are to be in all ways invoked by the leaders (of rites).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू चि॒न्नु ते॒ मन्य॑मानस्य द॒स्मोद॑श्नुवंति महि॒मान॑मुग्र ।  
+> न वी॒र्य॑मिंद्र ते॒ न राधः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । चित् । नु । ते । मन्यमानस्य । दस्म । उत् । अश्नुवंति । महिमानं । उग्र ।  
+> न । वीर्यं । इंद्र । ते । न । राधः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 34
+
+> हे दस्म दर्शनीय मन्यमानस्य स्तूयमानस्य ते तव महिमानं । नू चिदिति प्रतिषेधार्थः । नु क्षिप्रं नू चिदुदश्नुवंति । केचन न प्राप्नुवंति । हे उग्रोद्गूर्ण ते तव राधो धनं नोदश्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Dasma, of fair aspect, of your greatness (महिमानं (*mahimānaṃ*)), you who are praised (मन्यमानस्य (*manyamānasya*)): नू चित् (*nū cit*) has the sense of denial; नु (*nu*) means quickly; none (केचन (*kecana*)) attains it (उदश्नुवंति (*udaśnuvaṃti*)). O fierce one, uplifted one (उग्र (*ugra*)), your wealth (राधः (*rādhaḥ*)) too they do not attain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्म (*dasma*)—O Indra of attractive form
+- मन्यमानस्य (*manyamānasya*)—worthy of praise
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- नू चित् (*nū cit*)—certainly
+- नु उदश्नुवंति (*nu udaśnuvaṃti*)—none can obtain
+- उग्र (*ugra*)—possessed of exceeding strength
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- राधः (*rādhaḥ*)—wealth
+- न (*na*)—none can obtain
+- वीर्यं (*vīryaṃ*)—your valour too
+- न (*na*)—none can attain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of attractive form, certainly no one can obtain your greatness, you who are worthy of praise. O Indra, possessed of exceeding strength, no one can obtain even your wealth. It is not possible for anyone to attain your valour.
+
+##### English translation
+Indra, of goodly aspect, none attain the greatness of you who are to be honoured, nor, fierce Indra, your heroism, nor your wealth.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये च॒ पूर्व॒ ऋष॑यो॒ ये च॒ नूत्ना॒ इंद्र॒ ब्रह्मा॑णि ज॒नयं॑त॒ विप्राः॑ ।  
+> अ॒स्मे ते॑ संतु स॒ख्या शि॒वानि॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । च । पूर्वे । ऋषयः । ये । च । नूत्नाः । इंद्र । ब्रह्माणि । जनयंत । विप्राः ।  
+> अस्मे इति । ते । संतु । सख्या । शिवानि । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ९ ॥
+
+### Printed p. 35
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये च पूर्वे प्राक्तना ऋषयो ये च नूत्ना नूतना विप्रा मेधाविन ऋषयो ब्रह्माणि स्तोत्राणि जनयंत अजनयंत तेष्विवास्मे अस्मास्वपि हे इंद्र ते तव सख्या सख्यानि शिवानि भद्राणि संतु । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: As the ancient (पूर्वे (*pūrve*)) sages and the new (नूत्ना (*nūtnā*)) sages, the wise (विप्राः (*viprāḥ*)), who generated hymns (ब्रह्माणि (*brahmāṇi*)), that is, praises, were shown your friendship, so, O Indra, let your friendships (सख्या (*sakhyā*)) be auspicious (शिवानि (*śivāni*)), that is, beneficial, for us also. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ये च (*ye ca*)—those
+- पूर्वे (*pūrve*)—ancient
+- ऋषयः (*ṛṣayaḥ*)—sages
+- ये च (*ye ca*)—and those
+- नूत्नाः (*nūtnāḥ*)—of the present time
+- विप्राः (*viprāḥ*)—sages and wise men
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- जनयंत (*janayaṃta*)—who composed and praised you with them (as it was in their case)
+- अस्मे (*asme*)—in our case also
+- ते (*te*)—your
+- सख्या (*sakhyā*)—friendship
+- शिवानि (*śivāni*)—as bringing blessing
+- संतु (*saṃtu*)—let it be (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as your friendship was made manifest in the case of the ancient sages, and of the sages and wise men of the present time, when they composed and recited hymns praising you, so in our case also may your friendship be a bringer of blessing. O Indra and the other gods, always protect us with blessings.
+
+##### English translation
+May your auspicious regards. Indra, be directed towards us, as they have been to those pious sages, ancient or recent, who have originated (your) praises, and do you ever cherish us with blessings.
+
+## Sūkta 23 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदु ब्रह्माणीति षडृचं षष्ठं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं । अनुक्रम्यते च । उदु षडिति ॥ अग्निष्टोमे माध्यंदिने सवने ब्राह्मणाच्छंसिशस्त्र एतत्सूक्तं । सूत्रितं च । उदु ब्रह्माण्यर्जेषी वज्री वृषभस्तुराषाळिति याज्या । अ-५-१३ । इति ॥ चातुर्विंशकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्र एतदहरहःशस्यसंज्ञकं सूक्तं । सूत्रितं च । उदु ब्रह्माण्यभि तष्ट्वेवेतीतरावहरहः शस्ये । आ-७-४ । इति ॥ आहर्गणेषु द्वितीयादिष्वहःस्वेतदेव सूक्तं ॥ महाव्रतेऽपि निष्केवल्य एतत्सूक्तं । सूत्रितं च । उदु ब्रह्माण्यैरत श्रवस्या ते मह इंद्रोत्युग्रेति पंच सूक्तानि । ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sūkta of six Ṛks beginning उदु ब्रह्माणि (*udu brahmāṇi*) is the sixth sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra. The Anukramaṇī records it with उदु षडिति (*udu ṣaḍiti*). In the Agniṣṭoma, at the midday pressing, this sūkta belongs to the recitation of the Brāhmaṇācchaṃsin; it is laid down in the sūtra उदु ब्रह्माण्यर्जेषी वज्री वृषभस्तुराषाळिति याज्या (*udu brahmāṇyarjeṣī vajrī vṛṣabhasturāṣāḷiti yājyā*) (A-5-13). On the Chāturviṃśa day, at the midday pressing, in the recitation of the Brāhmaṇācchaṃsin, this is the sūkta called Ahar-ahaḥ-śasya; it is laid down in the sūtra उदु ब्रह्माण्यभि तष्ट्वेवेतीतरावहरहः शस्ये (*udu brahmāṇyabhi taṣṭvevetītarāvaharahaḥ śasye*) (Ā-7-4). In the Ahargaṇas, on the second and the following days, this same sūkta is used. In the Mahāvrata too this sūkta belongs to the Niṣkevalya recitation; it is laid down in the sūtra उदु ब्रह्माण्यैरत श्रवस्या ते मह इंद्रोत्युग्रेति पंच सूक्तानि (*udu brahmāṇyairata śravasyā te maha iṃdrotyugreti paṃca sūktāni*) (Ai. Ā. 5-2-2). **NOTE**
+
+### Printed p. 36
+
+The sūkta उदु ब्रह्माणि (*udu brahmāṇi*) is the sixth sūkta in the second anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as उदु षट् (*udu ṣaṭ*). It is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra उदु ब्रह्माण्यर्जेषी वज्री वृषभस्तुराषाळिति याज्या (*udu brahmāṇyarjeṣī vajrī vṛṣabhasturāṣāḷiti yājyā*) (Ā. 5-13) that this sūkta is applied for the recitation mantras to be recited, at the time of the midday pressing in the Agniṣṭoma sacrifice, by the priest called Brāhmaṇācchaṃsin. It is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra उदु ब्रह्माण्यभि तष्ट्वेवेतीतरावहरहःशस्ये (*udu brahmāṇyabhi taṣṭvevetītarāvaharahaḥśasye*) (Ā. 7-4) that on the day of the sacrifice called Chāturviṃśika, at the time of the midday pressing, when the priest called Brāhmaṇācchaṃsin recites the recitation mantras, this sūkta is to be recited as the sūkta called Śasya, to be recited every day; and in the Ahargaṇas this sūkta is to be recited from the second day onwards. It is indicated by the sentence of the Aitareya Āraṇyaka उदु ब्रह्माण्यैरत श्रवस्या ते मह इंद्रोत्युग्रेति पंच सूक्तानि (*udu brahmāṇyairata śravasyā te maha iṃdrotyugreti paṃca sūktāni*) that in the Mahāvrata sacrifice also this sūkta is applied for the Niṣkevalya recitation mantras.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ब्रह्मा॑ण्यैरत श्रव॒स्येंद्रं॑ सम॒र्ये म॑हया वसिष्ठ ।  
+> आ यो विश्वा॑नि॒ शव॑सा त॒तानो॑पश्रो॒ता म॒ ईव॑तो॒ वचां॑सि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । ब्रह्माणि । ऐरत । श्रवस्या । इंद्रं । समर्ये । महय । वसिष्ठ ।  
+> आ । यः । विश्वानि । शवसा । ततान । उपश्रोता । मे । ईवतः । वचांसि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रवस्यान्नेच्छया ब्रह्माणि स्तोत्राणि हवींषि चेंद्रार्थमुदैरत सर्व ऋषय इति शेषः । उ इति पूरणः । हे वसिष्ठ त्वमपि समर्ये यज्ञ इंद्रं महय ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: In desire of food or fame (श्रवस्या (*śravasyā*)) all the sages raise up hymns (ब्रह्माणि (*brahmāṇi*)), that is, praises and oblations, for Indra, the sentence being completed thus; उ (*u*) is a filler. O Vasiṣṭha, you also honour (महय (*mahaya*)) Indra at the sacrifice (समर्ये (*samarye*)).
+
 ---
 
-**Progress note:** Done through printed p. 30. Sukta 21 rk 10, Sukta 22 rks 1-5 start (pp. 25-30)
+**Progress note:** Done through printed p. 36. Sukta 22 rks 5-9, Sukta 23 rk 1 start (pp. 31-36)
