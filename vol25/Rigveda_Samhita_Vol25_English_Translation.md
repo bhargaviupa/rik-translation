@@ -14108,6 +14108,247 @@ Whatsoever, O sun, slayer of Vritra, you have risen upon to-day,— it is all, I
 > यत् । वा । प्रऽवृद्ध । सत्ऽपते । न । मरै । इति । मन्यसे ।  
 > उतो इति । तत् । सत्यम् । इत् । तव ॥ ५ ॥
 
+### Printed p. 362
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाशब्दः समुच्चये । अपि च हे प्रवृद्ध स्वबलेन प्रवर्धमान सत्पते सतां पते स्वप्रकाशाधिक्येन सतां  नक्षत्राणां पते हे इंद्र न मरै इति मनुष्यवद्वार्धक्येनाहं न म्रिय इति यत् यदि मन्ये युध्यसे। मृङ् प्राणत्यागे'। लेट्यडागमः।' वैतोऽन्यत्र' इत्यैकारः। उतो अपि च तव तत् न म्रिय इति मननं सत्यमित् यथार्थमेव । इंद्रो न म्रियत इत्यर्थे मंत्रांतरं-- न ह्यस्या अपरं चन जरसा मरते पतिः' (ऋ. सं. १०. ८६. ११) इति ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+The word वाशब्दः (*vāśabdaḥ*) is used in the sense of "and also". O Indra, who grow forth by your own strength, lord of the good (or, by the abundance of your own radiance, lord of the good, that is, of the stars): if you think "like a man, I shall not die of old age", that thought of yours, that you do not die, is true indeed, exactly as it is. For the meaning that Indra does not die, another mantra is adduced: न ह्यस्या अपरं चन जरसा मरते पतिः (*na hyasyā aparaṃ cana jarasā marate patiḥ*) (Ṛ. Saṃ. 10. 86. 11).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वा (*vā*)—and
+- प्रवृद्ध (*pravṛddha*)—who grow by your own strength
+- सत्पते (*satpate*)—protector of the good (or protector of the stars)
+- ऎल्लै इंद्रने (*èllai iṃdrane*)—O Indra
+- न मर्य इति (*na marya iti*)—that I shall not die like men
+- यत् मन्यसे (*yat manyase*)—if you think
+- उतो (*uto*)—and
+- तव तत् (*tava tat*)—that knowledge of yours that you will not die
+- सत्यं इत् (*satyaṃ it*)—is indeed true
+
+##### भावार्थ (Bhāvārtha)
+
+And, O Indra, who grow exceedingly by your own strength and are the protector of the good, if you think "Like men, I shall not die when I grow old", that knowledge of yours is true indeed.
+
+##### English translation
+When, swelling in your might, lord of the good, you think " I shall not die, " that thought of yours is indeed true.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the matter that Indra has no old age and death, the commentator has cited as an example the scriptural sentence न ह्यस्या अपरं चन जरसा मरते पतिः (*na hyasyā aparaṃ cana jarasā marate patiḥ*) (Ṛ. Saṃ. 10-86-11).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये सोमा॑सः परा॒वति॒ ये अ॑र्वा॒वति॑ सुन्वि॒रे ।  
+> सर्वाँ॒स्ताँ इं॑द्र गच्छसि ॥ ६ ॥
+
+### Printed p. 363
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । सोमासः । पराऽवति । ये । अर्वाऽवति । सुन्विरे ।  
+> सर्वान् । तान् । इंद्र । गच्छसि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ये सोमासः सोमाः परावति विप्रकृष्टेऽतिदूरदेशे ये सोमाः अर्वावति अंतिकतमे देशे च सुन्विरे । छंदसि द्विर्वचनस्य विकल्पितत्वादत्र द्विर्वचनाभावः। ये सोमा ऋत्विग्भिरभिषूयंते सर्वान् दूरे समीपे चाभिषूयमाणान् तान् सोमान् गच्छसि तत्पानार्थं युगपत्प्राप्नोषि । अनेनेंद्रस्य सर्वगतत्वं सूचितम् ॥
+> अप्तोर्यामे ब्राह्मणाच्छंसिनोऽतिरिक्तोक्थे ' तमिंद्रं वाजयामसि' इति स्तोत्रियस्तृचः । सूत्रितं च - तमिंद्रं वाजयामसि महाँ इंद्रो य ओजसा' ( आश्व. श्रौ. ९. ११ ) इति । व्यूळ्हस्य दशरात्रस्य पंचमेऽहनि निष्केवल्येऽयमेव तृचो निविद्धानीयः । सूत्रितं च व्यूळ्हश्चेदिति खंडे--  ‘ मरुत्वाँ इंद्र मीढ्वस्तमिंद्रं वाजयामसि' (आश्व. श्रौ. ८. ८) इति ।
+
+##### Gist of the bhāṣya
+
+O Indra, the Soma-juices that are pressed far away in a very distant region, and the Soma-juices that are pressed in a very near region, all of those that the priests press, whether far or near, to all those Soma-juices you go, reaching them at one and the same time in order to drink them. By this the omnipresence of Indra is indicated. This verse is the Stotriya triplet of the Āptoryāma, in the Atirikta-uktha of the Brāhmaṇācchaṃsin, beginning तमिंद्रं वाजयामसि (*tamiṃdraṃ vājayāmasi*); it is prescribed in the Sūtra: तमिंद्रं वाजयामसि महाँ इंद्रो य ओजसा (*tamiṃdraṃ vājayāmasi mahām̐ iṃdro ya ojasā*) (Āśva. Śrau. 9. 11) **NOTE**. On the fifth day of the Vyūḍha Daśarātra, in the Niṣkevalya, this very triplet is to be used as the Nividdhānīya. It is prescribed in the section beginning व्यूळ्हश्चेदिति (*vyūḷhaścediti*): मरुत्वाँ इंद्र मीढ्वस्तमिंद्रं वाजयामसि (*marutvām̐ iṃdra mīḍhvastamiṃdraṃ vājayāmasi*) (Āśva. Śrau. 8. 8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- परावति (*parāvati*)—in a distant region
+- यो सोमासः (*yo somāsaḥ*)—which Soma-juices
+- सुन्विरे (*sunvire*)—are pressed by the priests
+- अर्वावति (*arvāvati*)—in a near region
+- यो सोमाः (*yo somāḥ*)—which Soma-juices are pressed
+- सर्वान् तान् (*sarvān tān*)—aiming at both those kinds of Soma-juices
+- गच्छसि (*gacchasi*)—you go
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whether the priests and sacrificers press Soma-juices for you in a distant region or in a near region, wherever they press them, you go there, to all of them, at one and the same time in order to drink those Soma-juices.
+
+##### English translation
+You go at once, Indra, to all those Soma-libations which are effused afar or effused near.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिंद्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हंत॑वे ।  
+> स वृषा॑ वृष॒भो भु॑वत् ॥ ७ ॥
+
+### Printed p. 364
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । इंद्रम् । वाजयामसि । महे । वृत्राय । हंतवे ।  
+> सः । वृषा । वृषभः । भुवत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजमाना आहुः । तं पूर्वोक्तलक्षणम् इंद्रं वाजयामसि वाजयामः । सोमेन स्तुतिभिर्वा वाजवंतं बलवंतं कुर्मः । किमर्थम् । महे महते वृत्राय अपामावरकं वृत्रासुरं हंतवे हंतुम् । सोमपानेन मत्तः स्तुतिभिर्वा स्तुतः सन् वृषा धनानां सेक्ता दाता सः इंद्रः वृषभः अस्माकं स्तोतॄणां सोमस्य दातॄणां धनादिसेचको दाता भुवत् भवतु ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers speak. We invigorate that Indra, of the kind described before, with Soma or with praises; we make him strong. For what purpose: to slay the great Vṛtra, the asura Vṛtra, who obstructs the waters. Intoxicated by drinking Soma, or praised by praises, that Indra, the showerer, the giver, the pourer of wealth, may become for us, the praisers and givers of Soma, a bounteous giver, a pourer of wealth and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—mighty
+- वृत्राय (*vṛtrāya*)—Vṛtra, the asura
+- हंतवे (*haṃtave*)—for slaying
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- वाजयामसि (*vājayāmasi*)—we praise with hymns and make him full of strength
+- वृषा (*vṛṣā*)—the showerer of desires
+- सः (*saḥ*)—that Indra
+- वृषभ (*vṛṣabha*)—as a giver to us of wealth and the rest
+- भुवत् (*bhuvat*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+We praise that Indra with hymns so that he may become strong to slay the asura Vṛtra. May that Indra, the showerer of desires and full of strength, become the giver to us of wealth and the rest.
+
+##### English translation
+We invigorate that (great) Indra for the slaying of mighty Vritra ; may he be a bounteous showerer (of wealth).
+
+### Printed p. 365
+
+##### विशेषविषयगळु (Special Topics)
+
+It is explained by the Āśvalāyana Śrauta-sūtra, in the sūtra तमिंद्रं वाजयामसि महा इंद्रो य ओजसा (*tamiṃdraṃ vājayāmasi mahā iṃdro ya ojasā*) (Ā. 9-11), that, among the Atirikta-uktha mantras to be recited in the sacrifice called Āptoryāma by the priest called Brāhmaṇācchaṃsin, the three Ṛks beginning तमिंद्रं वाजयामसि (*tamiṃdraṃ vājayāmasi*) are to be recited as the Stotriya triplet. It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra मरुत्वा इंद्र मीढ्वस्तमिंद्रं वाजयामसि (*marutvā iṃdra mīḍhvastamiṃdraṃ vājayāmasi*) (Ā. 8-8) that, on the fifth day of the ten-night sacrifice called Vyūḍha, among the Niṣkevalya Śastra mantras, this triplet is to be recited as the Nividdhānīya triplet.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ स दाम॑ने कृ॒त ओजि॑ष्ठः॒ स मदे॑ हि॒तः ।  
+> द्यु॒म्नी श्लो॒की स सो॒म्यः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सः । दामने । कृतः । ओजिष्ठः । सः । मदे । हितः ।  
+> द्युम्नी । श्लोकी । सः । सोम्यः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः इंद्रः दामने स्तोतृभ्यो धनादिदानायैव कृतः प्रजापतिना सृष्टः । किंच ओजिष्ठः ओजस्वितमः सः एवेंद्रः मदे। माद्यंत्यनेनेति मदः सोमः । तस्मिंश्च प्रजापतिना सृष्टिकाले हितः । सोमपानार्थं च निहित इत्यर्थः । द्युम्नी । 'द्युम्नं द्योततेर्यशो वान्नं वा' इति । यशस्व्यन्नवान् वा अत एव श्लोकी । श्लोकः स्तुतिः । तद्वान् सः इंद्रः सोम्यः सोमार्हो भवति ।
+
+##### Gist of the bhāṣya
+
+That Indra was created by Prajāpati for giving wealth and the rest to the praisers. Moreover that same Indra, the most mighty, was placed by Prajāpati at the time of creation in मदे (*made*), that is, in Soma (that by which they are exhilarated is मदः (*madaḥ*), Soma); that is, he was placed for the drinking of Soma. द्युम्नी (*dyumnī*): he cites द्युम्नं द्योततेर्यशो वान्नं वा (*dyumnaṃ dyotateryaśo vānnaṃ vā*), so the word means one possessed of fame or of food. For that very reason he is श्लोकी (*ślokī*): श्लोकः (*ślokaḥ*) is praise, and he possesses it. That Indra is सोम्यः (*somyaḥ*), worthy of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- दामने (*dāmane*)—for giving wealth and the rest to the people who praise
+- कृतः (*kṛtaḥ*)—has been created by Brahmā
+- ओजिष्ठः (*ojiṣṭhaḥ*)—mighty
+- सः (*saḥ*)—that Indra
+- मदे (*made*)—for the drinking of Soma
+- हितः (*hitaḥ*)—has been appointed
+- द्युम्नी (*dyumnī*)—possessed of fame or of food
+- श्लोकी (*ślokī*)—worthy of praise
+- सः (*saḥ*)—that Indra
+- सोम्यः (*somyaḥ*)—is worthy to drink Soma
+
+### Printed p. 366
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra has been created by Prajāpati for giving wealth and the rest to the people who praise him. That mighty Indra has been appointed for the drinking of Soma. Therefore that Indra, possessed of fame, possessed of food and worthy of praise, is worthy of drinking Soma.
+
+##### English translation
+Indra was created for giving, he, the most mighty, was set over the texhilarating Soma ; he the glorious one, the lord of praise, is worthy of he Soma. **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रा वज्रो॒ न संभृ॑तः॒ सब॑लो॒ अन॑पच्युतः ।  
+> व॒व॒क्ष ऋ॒ष्वो अस्तृ॑तः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरा । वज्रः । न । सम्ऽभृतः । सऽबलः । अनपऽच्युतः ।  
+> ववक्षे । ऋष्वः । अस्तृतः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिरा स्तुतिलक्षणया वाचा स्तोतृभिः संभृतः उत्पादितस्तीक्ष्णीकृतः । तत्र दृष्टांतः । वज्रो न । वज्र आयुधम् । तत्कर्तृभिर्निशितधारो यथा भवति तीक्ष्णीक्रियते तद्वत् स्तोतृभिः स्तुत्या संभृतोऽत एव सबलः बलसहितस्तस्मात् अनपच्युतः परैरप्रच्युतः । अनभिगत इत्यर्थः । तादृशः ऋष्वः महान् दीप्यमानो वा अस्तृतः युद्धे शत्रुभिरहिंसित इंद्रः ववक्षे स्तोतृभ्यो धनादिकं वोढुमिच्छति ॥
+
+##### Gist of the bhāṣya
+
+Indra is संभृतः (*saṃbhṛtaḥ*), brought forth, that is, sharpened, by the praisers through गिरा (*girā*), speech in the form of praise. An illustration: वज्रो न (*vajro na*); वज्र (*vajra*) is a weapon, and as its makers sharpen its edge, so by the praisers' praise he is made keen, and therefore is सबलः (*sabalaḥ*), possessed of strength, and for that reason अनपच्युतः (*anapacyutaḥ*), not dislodged by others, that is, not overcome. Being such, ऋष्वः (*ṛṣvaḥ*), great or shining, and अस्तृतः (*astṛtaḥ*), unharmed by enemies in battle, Indra ववक्षे (*vavakṣe*), desires to bring wealth and the rest to the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रो न (*vajro na*)—as a weapon is sharpened
+- गिरा (*girā*)—by speech in the form of praise
+- संभृतः (*saṃbhṛtaḥ*)—he who is extolled by the praisers
+- सबलः (*sabalaḥ*)—he who is possessed of strength
+- अनपच्युतः (*anapacyutaḥ*)—he who is unobstructed by others
+- ऋष्वः (*ṛṣvaḥ*)—he who is of great nature or shining
+- अस्तृतः (*astṛtaḥ*)—he who cannot be harmed by enemies in battle, that Indra
+- ववक्षे (*vavakṣe*)—brings and gives wealth and the rest to the praising people
+
+### Printed p. 367
+
+##### भावार्थ (Bhāvārtha)
+
+As a weapon is rubbed and sharpened, so that Indra, who is made worthy of worship by being praised with hymns and the like, who is exceedingly mighty, unharmed by others, and not yielding to the injury of enemies in battle, brings and gives wealth and the rest to those who praise him.
+
+##### English translation
+The mighty (Indra), unassailed by his foes, hastens to confer wealth on his worshippers,—rendered keen by their praises, as a weapon, full of strength and invincible.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दु॒र्गे चि॑न्नः सु॒गं कृ॑धि गृणा॒न इं॑द्र गिर्वणः ।  
+> त्वं च॑ मघव॒न्वशः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुःऽगे । चित् । नः । सुऽगम् । कृधि । गृणानः । इंद्र । गिर्वणः ।  
+> त्वम् । च । मघऽवन् । वशः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणः गीर्भिर्वननीय इंद्र गृणानः स्तोतृभिः स्तूयमानस्त्वं नः अस्माकं दुर्गे चित् दुर्गमेऽपि मार्गे सुगं सुगमं पंथानं कृधि तथा कुरु । हे मघवन् धनवन्निंद्र त्वम् । चशब्दश्चेदर्थे । यदि वशः सोमपानार्थं तत्प्रदातॄनस्मान् कामयेथाः तदा पंथानं शोभनगमनं कुरुष्व । वष्टेर्लेट्यडागमः । चशब्दयोगादनिघातः ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+O गिर्वणः (*girvaṇaḥ*), Indra, to be served with hymns, praised by the praisers, make for us an easy, comfortable path even in a difficult, hard-to-traverse way. O wealthy Indra, च (*ca*) is in the sense of "if": if you desire us, the givers of Soma for drinking, then make the path a good going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—who are obtained by praises
+- इंद्र (*iṃdra*)—O Indra
+- गृणानः (*gṛṇānaḥ*)—you who are extolled by the praising people
+- नः (*naḥ*)—for us
+- दुर्गे चित् (*durge cit*)—even on a very difficult way
+- सुगं (*sugaṃ*)—a comfortable path
+- कृधि (*kṛdhi*)—make
+- मघवन् (*maghavan*)—O wealthy Indra
+- त्वं च (*tvaṃ ca*)—you
+- वशः (*vaśaḥ*)—desire to come near us who offer Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of praise, you who are extolled by the praising people, make for us a favourable path, so that we may go comfortably even in places that are very difficult to traverse. The wealthy
+
 ---
 
-**Progress note:** Done through printed p. 361. Mandala 8 sukta 93 rk 33 end, sukta 93 rks 1-5 (Samhita/Pada), pp. 356-361
+**Progress note:** Done through printed p. 367. Mandala 8 Sukta 93 Rks 5-10
