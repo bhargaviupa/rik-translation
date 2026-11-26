@@ -35780,6 +35780,210 @@ Sāyaṇa addresses the two Aśvins. From their palace, this Ghoṣā, a woman e
 - पतयत् (*patayat*)—let him come
 - दंसनाः अनु (*daṃsanāḥ anu*)—by the falling of rain
 
+### Printed p. 984
+
+after it has fallen.
+
+- वीरुधः (*vīrudhaḥ*)—the herbs
+- वि चारुहन् (*vi cāruhan*)—let them grow fully
+- अस्मै (*asmai*)—for this bridegroom
+- निवनेव (*nivaneva*)—as flowing in a low-lying place
+- सिंधवः (*siṃdhavaḥ*)—the waters
+- आ रीयंते (*ā rīyaṃte*)—let them come flowing over the plants and the rest
+- अह्ने (*ahne*)—who is unharmed
+- अस्मै (*asmai*)—for this bridegroom
+- तत् (*tat*)—that which signifies manly power
+- पतित्वनं (*patitvanaṃ*)—youth
+- भवति (*bhavati*)—let it be attained
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, this woman named Ghoṣā has been born. Let an excellent bridegroom come to her. For him, after rain has fallen, let the herbs grow fully. Let the waters flow and let the plants and the rest grow. Let this bridegroom attain youth, which signifies manly power.
+
+##### English translation
+The bride, Aswins, has been born, let the husband approach : may the plants spring up (for him) after the rain: for him may the streams flow as if from a declivity ; may he invulnerable have the power of a husband over her.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जी॒वं रु॑दंति॒ वि म॑यंते अध्व॒रे दी॒र्घामनु॒ पसि॑तिं दीधियु॒र्नरः॑ ।  
+> वा॒मं पि॒तृभ्यो॒ य इ॒दं स॑मेरि॒रे मयः॒ पति॑भ्यो॒ जन॑यः  ॒॑
+> परिष्वजे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जीवं । रुदंति । वि । मयंते । अध्वरे । दीर्घां । अनु । प्रसितं । दीधियुः ।  
+> नरः ।  
+> वामं । पितृभ्यः । ये । इदं । सं 5परिरे । मयः । पतिभ्यः । जनयः । परिस्वजे ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवयोरनुग्रहाद्ये नरः पतयो जायानां जीवं जीवनमुद्दिश्य रुदंति । रोदनेनापि जायानां जीवनमेवाशासत इत्यर्थः । ता जाया
+
+### Printed p. 985
+
+> अध्वरे यज्ञे वि मयंते निवेशयंति च किंच तासु दीर्घां महतीं प्रसितिं
+> यजयोः प्रबंधनमनु दीधियुः अनुदधति इदं नामं वननीयमपत्यं पितृभ्यः
+> समेरिरे संप्रेरयंति च तेभ्यः पतिभ्यो जनयो जायाः परिष्टजे परिष्टंगार्थं
+> मयः सुखं कुर्वंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins. By their favour the husbands weep for the life of their wives; that is, even by weeping they wish only for the life of their wives. Those wives are seated in the sacrifice, and they settle them there. Further, in them they sustain a long, great continuous bond **NOTE**. They send forth this desirable offspring to the fathers. And for those husbands the wives, for embracing, bring about happiness; this is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये नरः (*ye naraḥ*)—the husbands who
+- जीवं (*jīvaṃ*)—for the life of their wives
+- रुदंति (*rudaṃti*)—are in anguish; such husbands, by your favour,
+- अध्वरे (*adhvare*)—at the sacrifice
+- वि मयंते (*vi mayaṃte*)—they make them sit
+- दीर्घां (*dīrghāṃ*)—long
+- प्रसितिं (*prasitiṃ*)—embrace
+- अनुदीधियुः (*anudīdhiyuḥ*)—they obtain
+- इदं वामं (*idaṃ vāmaṃ*)—the desired son
+- पितृभ्यः (*pitṛbhyaḥ*)—to the fathers (their husbands)
+- समेरिरे (*samerire*)—they send forth
+- पतिभ्यः (*patibhyaḥ*)—to the husbands
+- जनयः (*janayaḥ*)—the wives
+- परिष्वजे (*pariṣvaje*)—in the form of embrace
+- मयः (*mayaḥ*)—they give happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, when husbands are in anguish for their wives, by your favour they sit in the sacrifice. Having received a long embrace, they send forth for the begetting of a son. They give happiness in the form of embrace.
+
+##### English translation
+The husbands who weep for the life (of their wives), make them sit down at the sacrifice, hold in a long embrace, (and) send the Pitris this desirable offspring, upon these husbands the wives (bestow) happiness in order to be embraced.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तस्य॑ विद्म॒तदु॒ सु प्र वो॑चत॒ युवा॑ ह॒ यद्यु॑व॒त्याः क्षेति॒  ॑
+> योनिषु ।  
+> प्रि॒यो स्रि॑यस्य वृष॒भस्य॑ रे॒तिनॊ,॑ गृ॒हं ग॑मेमाश्विना॒ तदु॑श्मसि ॥ ११ ॥
+
+### Printed p. 986
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तस्य । विद्म । तत् । ऊं इति । सु । प्र । वोचत । युवा । ह । यत् ।  
+> युवत्याः । क्षेति । योनिषु ।  
+> प्रियउस्रियस्य । वृषभस्य । रेतिनः । गृहं । गमेम। अश्विना । तत् ! उश्मसि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् तस्य तत्सुखं वयं न विद्म । न जानीमः । तत्सुखं यूयं
+> सु सुष्टु प्र वोचत । बहुवचनं पूजार्थं । युना ह तरुणः खलु मत्पतिर्युवत्या यौवनान्विताया मनु योनिषु गृहेषु यत्क्षेति निवसतीति । किंच प्रियोप्रियस्य प्रिययुवतेर्वृषभस्य सेक्कू रेतिनो रेतस्विनो मत्पतेर्गृहं गमेम ।
+> गच्छेम । वयं तद्गृहमुश्मसि । कामयामहे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins. We do not know that happiness of his; do you tell it well. The plural is used in honour. Tell how the young husband, mine, dwells in the houses of the young woman who is endowed with youth. Further, let us go to the house of my husband, who is the bull, the shedder of seed, dear to his beloved young wife. We desire that house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Ashvin gods
+- तस्य तत् (*tasya tat*)—such happiness
+- न विद्म (*na vidma*)—we have not known
+- युवा ह (*yuvā ha*)—the young husband
+- युवत्याः (*yuvatyāḥ*)—of me, a young woman
+- योनिषु (*yoniṣu*)—in the houses
+- यत् क्षेति (*yat kṣeti*)—how he dwells
+- सु प्रवोचत (*su pravocata*)—tell this clearly
+- प्रियोस्त्रियस्य (*priyostriyasya*)—to the beloved young woman
+- वृषभस्य (*vṛṣabhasya*)—who showers desire
+- रेतिनः (*retinaḥ*)—of the husband
+- गृहं (*gṛhaṃ*)—to the house
+- गमेम (*gamema*)—let us go
+- तत् (*tat*)—that house
+- उश्मसि (*uśmasi*)—we desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, we have not known the happiness of union with a husband. Tell clearly how a young husband can dwell in the house of me, a young woman. Let the beloved young woman have the opportunity of going to the house of her husband, who showers desire. We desire that house.
+
+##### English translation
+We do not know this (happiness) of his; do you, (Aswins), clearly explain how it is that the young (husbands) dwells in the bride's house; let us, Aswins, repair to the dwelling of (my) dear youthful, vigorous, and manly husband: this is our desire.
+
+### Printed p. 987
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वा॑मगन्तुम॒तिर्वा॑जिनीवसू॒ न्य॑श्विना हृ॒त्सु कामा॑ अयंसत ।  
+> अभू॑तं गो॒पा मि॑थु॒ना शु॑भस्पती प्रि॒या अ॑र्य॒ण्णो दुर्या॑  
+> अशीमहि ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । अगन् । सुमतिः । वाजनीवसू इति वाजनीऽवसू । नि । अश्विना । हृत्सु ।  
+> कामाः । अयंसत ।  
+> अभूतं । गोपा । मिथुना । शुभः । पती इति । प्रियाः । अर्य्यम्नः । दुर्यान् ।  
+> अशीमहि ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नधनौ शुभस्पती उदकस्य स्वामिनौ हे अश्विनाश्विन् मिथुना
+> मिथुनौ परस्परं सहितौ नां युवां सुमतिरागन् । आगच्छतु । हृत्स्वस्मदीयेषु
+> हृदयेषु कामा अभिलाषा न्ययंसत । नियम्यंतां । किंच युवां गोपा मम
+> गोपायितारावभूतं । भवतं । अपि च प्रियाः सत्यो वयमर्यम्मः पत्युद्र्र्यान्गृहानशीमहि । प्राप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins, who have food as their wealth and are the lords of water, and who are a pair, joined to each other. Let your good will come; let the desires in our hearts be restrained. Further, be my protectors. And, being dear, may we attain the houses of the husband.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—you who are possessed of food
+- शुभस्पती (*śubhaspatī*)—and lords of water
+- अश्विना (*aśvinā*)—O Ashvin gods
+- मिथुना (*mithunā*)—you who are joined together
+- वां (*vāṃ*)—your
+- सुमतिः (*sumatiḥ*)—favourable thought
+- आगन् (*āgan*)—let it come to me
+- हृत्सु (*hṛtsu*)—lying within my heart
+- कामाः (*kāmāḥ*)—the desires
+- न्ययंसत (*nyayaṃsata*)—let it restrain
+- गोपा (*gopā*)—you, as my protectors
+- अभूतं (*abhūtaṃ*)—be
+- प्रियाः (*priyāḥ*)—being dear to the husband
+- अरम्यः (*aramyaḥ*)—of the husband
+- दुर्यान् (*duryān*)—to the house
+- अशीमहि (*aśīmahi*)—let us go
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, you who have food and are lords of water, let your favourable thought, joined together, approach me. Let it restrain the desires in my heart. Be my protectors. Being dear to the husband, let us go to the husband's house.
+
+### Printed p. 988
+
+##### English translation
+Aswins, rich in food, lords of water, twin (associates), may your good will devolve (upon us), may the desires (of our hearts) be attained: you have been my protectors : may we, (being) beloved, attain the habitation of a husband.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the three previous Ṛks of this sūkta, in this Ṛk and in the next Ṛk also (in Ṛks 9 to 13), the woman Ghoṣā, the seer of this sūkta, informs the Ashvin gods that she has no husband, and, because her age is passing, prays that they provide a suitable husband and give her offspring in sons and wealth. We have explained in the introduction to this sūkta itself that, because this woman had leprosy, no one came forward to marry her; that therefore she had to spend a large part of her youth alone in her father's house; and that for this reason she prayed to the Ashvin gods to remove her disease, provide an excellent husband and through him heroic sons and wealth, and protect her.
+
+सुमति (*sumati*)—For the word sumati Yāska has given the meaning कल्याणी मतिः (*kalyāṇī matiḥ*), a good, auspicious intelligence (Ni. 2-11; 7-22; 11-11; 11-19; 12-39). That is, the gods have a gracious intention to do good to the people who praise them. The gods can do harm to men if they wish, and can show favour if they wish; the gods have both these kinds of power. Therefore worshippers, when they praise the gods, pray that the gracious intention of the gods toward themselves may give them protection.
+
+वाजनीवसू (*vājanīvasū*)—अन्नधनौ (*annadhanau*). This word, as an epithet of the Ashvin gods, indicates the meaning those who have wealth in the form of food, that is, those who give wealth of that kind to those who praise them. The word वाजः (*vājaḥ*) is read among the twenty-eight names of food (Ni. 3-9), and, besides being read among the names of battle (Ni. 3-9), it is also the name of Vāja, one of the three Ṛbhu gods, Ṛbhu, Vibhu and Vāja, the sons of Sudhanvan (Ni. 11-16). In the word वाजनीवसू (*vājanīvasū*) in the present Ṛk, the word वाजः (*vājaḥ*) means food (nourishment). The word वाजिनी (*vājinī*) (this word is feminine) is used in the sense of one who has or gives food, and this word वाजिनी (*vājinī*) is also one of the sixteen names of the goddess Uṣas, such as Vibhāvarī and Sūnarī. In many contexts the word वाजिनी (*vājinī*) is used to is used for describing the qualities of the goddess Uṣas.
+
+### Printed p. 989
+
+In such a context वाजनी (*vājanī*) means one who has food to give to her worshippers. But in the word वाजनीवसू (*vājanīvasū*) the word वाजनी (*vājanī*) must be taken to mean food, which is the meaning of the word वाजः (*vājaḥ*). वाजनी (*vājanī*) means food; although the word वसु (*vasu*) has many meanings, here it means wealth (Ni 3.9). Therefore the dual word वाजनीवसू (*vājanīvasū*) means these two Ashvin gods, who have food itself as wealth. Wealth may be in many forms: property, cattle, food and other nourishment, houses and so on. Whatever thing is necessary or useful to men may be called by the name of wealth. Therefore there is room here to say that food (nourishment) itself is wealth. Because the food that is absolutely necessary to men is with the Ashvin gods, and because they give that food and other nourishment to the people who praise them, they are called by the word वाजनीवसू (*vājanīvasū*).
+
+मिथुना (*mithunā*)—This is a word ending in the dual. In place of the word मिथुनौ (*mithunau*) the word मिथुना (*mithunā*) has been used. This kind of use of a dual word is special in the Ṛgveda: राजाना (*rājānā*), मित्रावरुणा (*mitrāvaruṇā*), नासत्या (*nāsatyā*) and so on. Yāska has given the derivation of the word मिथुन (*mithuna*) in this way:
+
+मिथुनौ कस्मान्मिनोतिः श्रयतिकर्मा, थु इति नामकरणस्थकारो वा नयतिः परो वनिर्वा, समाश्रितावन्योन्यं नयतो वनुतो वा, मनुष्यमिथुनावप्येतस्मादेव, मेथंतावन्योन्यं वनुत इति वा ॥ (*mithunau kasmānminotiḥ śrayatikarmā, thu iti nāmakaraṇasthakāro vā nayatiḥ paro vanirvā, samāśritāvanyonyaṃ nayato vanuto vā, manuṣyamithunāvapyetasmādeva, methaṃtāvanyonyaṃ vanuta iti vā ‖*) (Si-7-29) **NOTE**
+
+He has given two kinds of derivation of the word मिथुनौ (*mithunau*). The root मि (*mi*) (the root मिनोति (*minoti*)) has the meaning resort to; the letter थु (*thu*) is a naming (suffix) or an affix. If this affix is joined to the root मि (*mi*) it becomes मि+थु (*mi+thu*). नयतिः परः (*nayatiḥ paraḥ*) means that the letter na of the root नयति (*nayati*) must stand after the root मि (*mi*). Therefore it became मि+न+थु (*mi+na+thu*). Here, by the reversal of the middle and the end, that is, by the interchange of the middle letter na and the last letter थु (*thu*), that is, by shifting their places, it becomes मि+थु+न (*mi+thu+na*); this is one derivation of the form. The meaning of this word is that there are two things, and one of them, resorting to the other, carries the one to the other.
+
+As said before, in place of the affix थु (*thu*) the affix थ (*tha*) may be joined to the root मि (*mi*), and after this वनिः (*vaniḥ*) comes as संप्रसारण (*saṃprasāraṇa*); that is, in मि+थ (*mi+tha*) the vowel a of the letter tha is dropped, it becomes th, and the vowel u comes to it. It becomes मि+थु (*mi+thu*). Afterwards, as said before, by the reversal of the middle and the end, that is, by exchanging the places of the last two letters, it becomes मिथुन (*mithuna*). For the word मिथुन (*mithuna*) formed in this way
+
 ---
 
-**Progress note:** Done through printed p. 983. Sūkta 40 Ṛk 6-9 start, pp. 978-983
+**Progress note:** Done through printed p. 989. Sūkta 40 Ṛk 9 end to Ṛk 12, pp. 984-989
