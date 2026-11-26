@@ -21654,6 +21654,245 @@ O Soma, of flowing nature, the food that for us each day, at the three times of 
 ##### English translation
 Radiant Soma, when filtered, pour upon us accumulated unwasting nutritious food, which is milked for us three times a day, without hindrance, giving forth a sound, yielding strength and madhu and fair male offspring.
 
+### Printed p. 576
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ मती॒नां प॑वते विचक्ष॒णः सोमो॒ अह्नः॑ प्रतरी॒तोषसो॑ दि॒वः ।  
+> क्रा॒णा सिंधू॑नां क॒लशाँ॑ अवीवश॒दिंद्र॑स्य॒ हार्द्या॑वि॒शन्म॑नी॒षिभिः॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । मतीनाम् । पवते । विऽचक्षणः । सोमः । अह्नः । प्रऽतरीता । उषसः । दिवः ।  
+> क्राणा । सिंधूनाम् । कलशान् । अवीवशत् । इंद्रस्य । हार्दि । आऽविशन् । मनीषिऽभिः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः पवते अभिषूयते । कीदृशः सोमः । मतीनाम् । मतयः स्तोतारः । तेषां वृषा वर्षकः कामानां विचक्षणः विद्रष्टा अह्नः उषसो दिवः द्युलोकस्यादित्यस्य वा प्रतरीता प्रवर्धयिता। किंच सिंधूनां स्यंदमानानामुदकानां क्राणा कर्ता ॥ करोतेः शानचि • बहुलं छंदसि ' इति विकरणस्य लुक् । सुः। ‘सुपां सुलुक्' इत्याकारः ॥ कलशानवीवशत् कामयते प्रवेष्टुम् । किं कुर्वन् । इंद्रस्य हार्दि हृदयम् आविशन् प्रविशन् मनीषिभिः स्तुत इति शेषः । यद्वा । व्यवहितमपि मनीषिभिरित्येतत् पवत इत्यनेन संबध्यते ॥
+
+##### Gist of the bhāṣya
+
+This Soma is purified, that is, pressed. Of what sort is he? He is the showerer of desires for the praisers, and far-seeing. He is the one who advances and increases the day, the dawn and heaven (the heavenly world, or the sun). Further, he is the maker of the rivers, the flowing waters. He desires to enter the vessels. Doing what? Entering the heart of Indra, praised by the wise; this is to be supplied. Or else, although separated from it, "by the wise" is connected with "is purified".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतीनां (*matīnāṃ*)—to the praisers
+- वृषा (*vṛṣā*)—the showerer of desires
+- विचक्षणः (*vicakṣaṇaḥ*)—the one of subtle sight
+- अह्नः (*ahnaḥ*)—of the day
+- उषसः (*uṣasaḥ*)—of the dawn
+- दिवः (*divaḥ*)—of the sun
+- प्र तरीतावृद्धिकारकनू (*pra tarītāvṛddhikārakanū*)—the increaser **NOTE**
+- सिंधूनां (*siṃdhūnāṃ*)—of the waters
+- त्राणा (*trāṇā*)—the maker **NOTE**
+- सोमः (*somaḥ*)—Soma
+- पवते (*pavate*)—flows
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- हार्दि (*hārdi*)—the heart
+- आविशन् (*āviśan*)—entering
+- मनीषिभिः (*manīṣibhiḥ*)—praised by the praisers
+- कलशान् (*kalaśān*)—into the Droṇa vessels
+- अवीवशत् (*avīvaśat*)—desires to enter
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who grants desired objects to the praisers, who is of subtle sight, who increases the day, the dawn and the sun, and who is the maker of the waters, flows. Entering the heart of Indra and praised by the praisers, he desires to enter the Droṇa vessels.
+
+### Printed p. 577
+
+##### English translation
+The all-observant Soma the showerer (of the desires) of his eulogists, the increaser of the day, the dawn, the sun ; maker of rivers he desires to enter the pitchers, penetrating to Indra's heart, (praised) by the wise.
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒नी॒षिभिः॑ पवते पू॒र्व्यः क॒विर्नृभि॑र्य॒तः परि॒ कोशाँ॑ अचिक्रदत् ।  
+> त्रि॒तस्य॒ नाम॑ ज॒नय॒न्मधु॑ क्षर॒दिंद्र॑स्य वा॒योः स॒ख्याय॒ कर्त॑वे ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनीषिऽभिः । पवते । पूर्व्यः । कविः । नृऽभिः । यतः । परि । कोशान् । अचिक्रदत् ।  
+> त्रितस्य । नाम । जनयन् । मधु । क्षरत् । इंद्रस्य । वायोः । सख्याय । कर्तवे ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः मनीषिभिः मेधाविभिरध्वर्य्वादिभिः पवते पूयते । यद्वा । अयं मनीषिभिर्मनीषिणीभिर्धाराभिः पवते क्षरति । कीदृशोऽयम् । पूर्व्यः पुराणः कविः मेधावी नृभिः नेतृभिरध्वर्य्वादिभिः यतः नियमितः सन् कोशान् कलशान प्राप्तुं परि अचिक्रदत् परिक्रंदते शब्दं करोति । त्रितस्य त्रिषु स्थानेषु विस्तृतस्येंद्रस्य संबंधि नाम नामकमुदकं जनयन् उत्पादयन् मधु मधुरं रसं क्षरत् क्षरति । किमर्थम् । इंद्रस्य वायोः च सख्याय कर्तवे सख्यं कर्तुम् ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+This Soma is purified by the wise, the priests such as the Adhvaryu. Or else, he flows, that is, streams, by the wise (feminine) streams. Of what sort is he? He is ancient, a sage. Held in check by the leaders, the Adhvaryus and others, he roars about, makes a sound, in order to reach the vessels. Producing the water called after Trita, Indra, who is extended in three places, he distils sweet juice. For what purpose? To make friendship with Indra and with Vāyu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्व्यः (*pūrvyaḥ*)—the ancient
+- कविः (*kaviḥ*)—the sage, Soma
+- मनीषिभिः (*manīṣibhiḥ*)—by the Adhvaryus
+- पवते (*pavate*)—is purified
+- नृभिः (*nṛbhiḥ*)—by the Adhvaryus
+- यतः (*yataḥ*)—held in check
+- कोशान् (*kośān*)—to enter the Droṇa vessels
+- परि अचिक्रदत् (*pari acikradat*)—makes a sound
+- त्रितस्य (*tritasya*)—belonging to Indra, who is extended in three places
+- नाम (*nāma*)—the water
+- जनयन् (*janayan*)—producing
+- इंद्रस्य (*iṃdrasya*)—of Indra (and)
+- वायोः (*vāyoḥ*)—of Vāyu
+- सख्याय (*sakhyāya*)—friendship
+- कर्तवे (*kartave*)—to establish
+- मधु (*madhu*)—pleasantly
+- क्षरत् (*kṣarat*)—streams
+
+### Printed p. 578
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the ancient and wise, is purified by the Adhvaryus. Held in check by the Adhvaryus, he makes a sound in order to enter the Droṇa vessels. Producing the water that belongs to Indra, who is extended in three places, he streams pleasantly in order to gain the friendship of Indra and of Vāyu.
+
+##### English translation
+The ancient sage (Soma) is purified by the wise, guided by the priests he roars into the receptacles ; generating the water of the threefold (Indra), he distils sweet juice to gain Indra's and Vayu's friendship.
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं पु॑ना॒न उ॒षसो॒ वि रो॑चयद॒यं सिंधु॑भ्यो अभवदु लोक॒कृत् ।  
+> अ॒यं त्रिः स॒प्त दु॑दुहा॒न आ॒शिरं॒ सोमो॑ हृ॒दे प॑वते॒ चारु॑ मत्स॒रः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । पुनानः । उषसः । वि । रोचयत् । अयम् । सिंधुऽभ्यः । अभवत् । ऊं इति । लोकऽकृत् ।  
+> अयम् । त्रिः । सप्त । दुदुहानः । आऽशिरम् । सोमः । हृदे । पवते । चारु । मत्सरः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः पुनानः पूयमानः उषसो वि रोचयत् विविधं रोचयति । अयं सिंधुभ्यः स्यंदमानाभ्योऽद्भ्यो वसतीवरीभ्यः अभवत् समृद्धो भवति । उ इति पूरणः । कीदृशोऽयम् । लोककृत् लोकानां कर्ता । वर्षकत्वात् रेतोधारकत्वाच्चास्य लोककृत्त्वम् । अयं सोमः त्रिः सप्त एकविंशतिं गा ऋत्विङ्मुखेन आशिरं दुदुहानः दुहानः । दोहस्य प्रयोजकत्वात् कर्त्रुपचारः। मत्सरः मदकरः चारु रमणीयं पवते क्षरति । किमर्थम् । हृदे हृदयाय हृदयगमनाय ॥
+
+##### Gist of the bhāṣya
+
+This Soma, being purified, makes the dawns shine in many ways. He becomes abundant for the rivers, the flowing waters, the abiding waters; the particle that follows is an expletive. Of what sort is he? He is the maker of the worlds, since he is a showerer and the bearer of seed, and so the maker of worlds. This Soma, milking the thrice seven, twenty-one cows, through the mouths of the priests, the mixing substance, is the one who milks; since he causes the milking, the agency is attributed to him figuratively. Exhilarating, he flows beautifully. For what purpose? For the heart, that is, to go to the heart.
+
+### Printed p. 579
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- लोककृत् (*lokakṛt*)—the maker of the world
+- अयं (*ayaṃ*)—this Soma
+- पुनानः (*punānaḥ*)—being purified
+- उषसः (*uṣasaḥ*)—the dawns
+- वि रोचयत् (*vi rocayat*)—makes shine
+- अयं (*ayaṃ*)—this same Soma
+- सिंधुभ्यः (*siṃdhubhyaḥ*)—for the abiding waters
+- अभवत् (*abhavat*)—becomes nourished
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- त्रिः सप्त (*triḥ sapta*)—by the priests numbering twenty-one
+- आशिरं (*āśiraṃ*)—the mixing substances such as milk
+- दुदुहानः (*duduhānaḥ*)—milking
+- हृदे (*hṛde*)—to enter Indra's heart
+- मत्सरः (*matsaraḥ*)—as the one who gladdens
+- चारु (*cāru*)—as the one who attracts
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, the maker of the world, being purified, makes the dawns shine. This same Soma becomes nourished for the abiding waters. This Soma, milking the mixing substances such as milk through the twenty-one priests, flows, gladdening and attractive, in order to enter Indra's heart.
+
+##### English translation
+(It is) he (who), when purified, illumines the dawn ; he the maker of the world is (prosperous) for the rivers ; this Soma, having milked the thrice seven (cows) of their curds and milk, exhilarating, flows pleasently to (go to) the heart. **NOTE**
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम दि॒व्येषु॒ धाम॑सु सृजा॒न इं॑दो क॒लशे॑ प॒वित्र॒ आ ।  
+> सीद॒न्निंद्र॑स्य ज॒ठरे॒ कनि॑क्रद॒न्नृभि॑र्य॒तः सूर्य॒मारो॑हयो दि॒वि ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । दिव्येषु । धामऽसु । सृजानः । इंदो इति । कलशे । पवित्रे । आ ।  
+> सीदन् । इंद्रस्य । जठरे । कनिक्रदत् । नृऽभिः । यतः । सूर्यम् । आ । अरोहयः । दिवि ॥ २२ ॥
+
+### Printed p. 580
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम दिव्येषु धामसु स्थानेषु । देवानां संबंधिषूदरेष्वित्यर्थः । तेषु पवस्व क्षर । कीदृशः सन् । हे इंदो दीप्त सोम कलशे पवित्र आ दशापवित्रे च । आ इति चार्थे । 'सृजानः सृज्यमानः । अत्र ‘ अग्निहोत्रं जुहोति यवागूं पचति' इतिवदार्थिकः क्रमोऽवगंतव्यः । किंच इंद्रस्य जठरे सीदन् जठरं गच्छन् कनिक्रदत् शब्दं कुर्वन् नृभिः नेतृभिर्ऋत्विग्भिः यतः परिगृहीतः । हुत इत्यर्थः । तथाभूतः सन् दिवि सूर्यम् आरोहयः प्रादुर्भूतमकरो: ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow, stream, in the heavenly abodes, that is, in the bellies of the gods. Of what sort being? O Indu, radiant Soma, in the vessel and in the ten-fold filter; the particle after "filter" has the sense of "and". "Being poured forth" means being let out. Here the order is to be understood from the sense, as in "he offers the Agnihotra, he cooks gruel". Further, settling in Indra's belly, that is, going to the belly, making a sound, and held, that is, offered, by the leaders, the priests, being such you made the sun ascend, that is, appear, in heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- दिव्येषु (*divyeṣu*)—in the sacred
+- धामसु (*dhāmasu*)—heavenly abodes
+- पवस्व (*pavasva*)—stream
+- इंदो (*iṃdo*)—O Soma
+- कलशे (*kalaśe*)—in the Droṇa vessel
+- पवित्रे आ (*pavitre ā*)—flow also in the ten-fold filter
+- सृजानः (*sṛjānaḥ*)—formed for that purpose
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरे सीदन् (*jaṭhare sīdan*)—entering the belly
+- कनिक्रदत् (*kanikradat*)—making a sound
+- नृभिः (*nṛbhiḥ*)—by the priests
+- यतः (*yataḥ*)—held in check
+- दिवि (*divi*)—in the firmament
+- सूर्यं (*sūryaṃ*)—the sun
+- आरोहयः (*ārohayaḥ*)—make ascend
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, flow in the sacred heavenly abode. Flow in the Droṇa vessel and in the ten-fold filter. Formed for Indra, entering Indra's belly and making a sound, held in check by the priests, cause the sun to appear in the firmament.
+
+##### English translation
+Flow, Soma, to the heavenly abodes ; let forth, O Indu, (proceed) to the pitcher, to the filter ; alighting upon Indra's belly with a noise, guided by the priests, make the sun ascend the sky.
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद्रि॑भिः सु॒तः प॑वसे प॒वित्र॒ आँ इंद॒विंद्र॑स्य ज॒ठरे॑ष्वावि॒शन् ।  
+> त्वं नृ॒चक्षा॑ अभवो विचक्षण॒ सोम॑ गो॒त्रमंगि॑रोभ्योऽवृणो॒रप॑ ॥ २३ ॥
+
+### Printed p. 581
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्रिऽभिः । सुतः । पवसे । पवित्रे । आ । इंदो इति । इंद्रस्य । जठरेषु । आऽविशन् ।  
+> त्वम् । नृऽचक्षाः । अभवः । विऽचक्षण । सोम । गोत्रम् । अंगिरःऽभ्यः । अवृणोः । अप ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अद्रिभिः ग्रावभिः सुतः अभिषुतस्त्वं पवसे क्षरसि पूयसे वा। पवित्र आ दशापवित्रे । आ इति पूरणः । यद्वा । अभिषुतो भवसि पवसे चेति चार्थं आकारः । किं कुर्वन् । इंद्रस्य जठरेषु जठरप्रदेशेषु आविशन् । जठरप्रवेशायेत्यर्थः । किंच हे विचक्षण विद्रष्टः सोम त्वं नृचक्षा अभवः नृणां मनुष्याणामनुग्रहेण द्रष्टा भवसि । किंच हे सोम त्वम् अंगिरोभ्यः गोत्रं मेघमुदकं क्षारयितुं पणिभिरपहृतानां गवामावरकं पर्वतं वा अप अवृणोः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, pressed with the stones, the pressing-stones, you flow, stream, or are purified, in the ten-fold filter; the particle after "filter" is an expletive. Or else, that particle has the sense of "and": you are pressed and you flow. Doing what? Entering the bellies of Indra, the regions of the belly; that is, in order to enter the belly. Further, O far-seeing Soma, you became the beholder of men, you become the one who looks on mankind with favour. Further, O Soma, you opened for the Angirases the enclosure: the cloud, the water, so as to cause it to flow; or else the mountain that enclosed the cows carried off by the Paṇis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- सुतः (*sutaḥ*)—pressed
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरेषु (*jaṭhareṣu*)—in the bellies
+- आविशन् (*āviśan*)—entering
+- पवित्र आ (*pavitra ā*)—in the ten-fold filter
+- पवसे (*pavase*)—you flow
+- विचक्षण (*vicakṣaṇa*)—O Soma of subtle sight
+- त्वं (*tvaṃ*)—you
+- नृचक्षाः (*nṛcakṣāḥ*)—able to look on the dealings of men
+- अभवः (*abhavaḥ*)—have become
+- सोम (*soma*)—O Soma
+- अंगिरोभ्यः (*aṃgirobhyaḥ*)—for the Angirases
+- गोत्रं (*gotraṃ*)—the water
+- अप अवृणोः (*apa avṛṇoḥ*)—made to flow from the cloud
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, pressed with the pressing stones, you flow in the ten-fold filter, entering the belly of Indra. O Soma of subtle sight, you have become able to look on the dealings of men. For the Angirases you made the water flow from the cloud.
+
+##### English translation
+Effused with the stones, you flow, Indu, into the filter entering the belly of Indra ; Soma, the contemplator, you look upon man (with affection); you opened the cloud for the Angirasas.
+
 ---
 
-**Progress note:** Done through printed p. 575. Mandala 9 hymn 86 verses 14-18 (pp. 570-575)
+**Progress note:** Done through printed p. 581. Mandala 9 hymn 86 verses 19-23 (pp. 576-581)
