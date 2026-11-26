@@ -30,5 +30,6 @@
  "printed_english_label": "English translation",
  "branches": [
   "claude/epic-curie-xg7s3d"
- ]
+ ],
+ "doubt_check": "kn_only"
 }
