@@ -14038,6 +14038,278 @@ offspring was numerous, which was hidden in the cave.
 
 > भर्गः । ह । नाम । उत । यस्य । देवाः । स्वः । न । ये । त्रिसधस्थे । निसेदुः ।
 
+### Printed p. 428
+#### Ṛk 14 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ह । नाम । उत । जातवेदाः । श्रुधि । नः । होतः । ऋतस्य । होता ।  
+> अध्रुक् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च भर्गो ह नाम तत्तेजः किल प्रसिद्धं यस्य तेजस आग्नेयस्य
+> संबंधिनि त्रिषधस्ते बर्हिषि ये देवाः संति ते सर्वे स्वर्ण स्वर्गे यथा तथैव
+> निषेदुः निषीदंति । उतापि च तत्तेजोऽग्निर्ह नामाग्निः किल नाम । उतापि च जातवेदा जातप्रज्ञो जातानां वेदित्यतदपि तस्य तेजसो नाम । अग्नेर्भर्ग इत्यग्निरिति
+> जातवेदा इति च त्रीणि नामानीत्यर्थः । अथ प्रत्यक्षकृतः । हे होतर्होमनिष्पादकोक्तनामाग्ने ऋतस्य होता यज्ञस्य संबंधिनां देवानामाह्वाताधुग्रोहरहितस्त्वं नोऽस्माकमाह्वानं श्रुधि । शृणु ॥
+
+##### Gist of the bhāṣya
+
+Bharga is the well-known name of that radiance of Agni on whose triple-seated sacred grass the gods who are present sit down, just as they sit in heaven. That radiance is also called Agni, and also Jātavedas ("knower of what is born"). Bharga, Agni and Jātavedas are thus three names of it. Then he turns to the direct address: O Hotṛ, accomplisher of the oblation, bearing the names stated, invoker of the gods who belong to the sacrifice, free from malice, hear our invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये देवाः (*ye devāḥ*)—those gods who are
+- स्वर्ण (*svarṇa*)—as if seated in heaven
+- यस्य (*yasya*)—of which Agni, endowed with radiance
+- त्रिषधस्ते (*triṣadhaste*)—on the seat of sacred grass
+- निषेदुः (*niṣeduḥ*)—they sit down
+- ह (*ha*)—to that radiance
+- भर्गो ह नाम (*bhargo ha nāma*)—the name may be Bharga
+- उत (*uta*)—or
+- अग्नि र्ह नाम (*agni rha nāma*)—its name may be Agni
+- जातवेदः (*jātavedaḥ*)—or its name may be Jātavedas (all-knowing)
+- होतः (*hotaḥ*)—O Agni, in the form of the Hotṛ
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- होता (*hotā*)—you who call the gods
+- अध्रुक् (*adhruk*)—without doing harm to us
+- नः (*naḥ*)—our invocation
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+The radiance on whose sacred grass the gods sit as if in heaven may be named Bharga, or Agni, or Jātavedas. O Agni in the form of the Hotṛ, you who call the gods to the sacrifice, hear our invocation without doing us harm.
+
+##### English translation
+Whether Bharga is the name of that radiance, on the triple seat of which those who are gods are seated, as if in heaven, or whether it be Agni, or Jatavedas ; invoker (of the gods), who are the ministrant priest of the sacrifice, here our guileless invocation.
+
+### Printed p. 429
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्या मे॒ रौद्रा॑वर्चि॒मंता॒ नास॑त्याविंद्र गू॒र्तये॒  ॑
+> यजध्यै ।  
+> म॒नु॒ष्वद्वृ॒क्तब॑र्हिषे॒ ररा॑णा मं॒दू हि॒तप्र॑यसा वि॒क्षु  ॑
+> यज्यू ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्या । मे । रौद्रौ । अर्चिमंता । नासत्यौ । इंद्र । गूर्तये । यजध्यै ।  
+> मनुष्वत् । वृक्तबर्हिषे । रराणा । मंदू इति । हितप्रयसा । विक्षु । यज्यू  
+> इति ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र त्या तौ प्रसिद्धौ रौद्रौ रुद्रपुत्रौ । क्षोदो न रेत इतऊति सिंचत् । ऋ. १०-६१-२ । इति हि रुद्रपुत्रत्वमुक्तं । अर्चिमंता दीप्तिमंतौ
+> नासत्यावश्विन् मे गूर्तये स्तुतये यजध्यै यागाय च भवेतामिति शेषः ।
+> किंच मनुष्मन्मम पितुर्मनोरिव तस्य यज्ञे यथा तथैव व्यक्तबर्हिषे स्तीर्णबर्हिषे मह्यं रराणा रममाण् मंदू मदिष्टू हितप्रयसा प्रेरितधनौ विश्वत्वस्वस्मदीयेषु तथा यज्यू यष्टव्यौ भवतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+And, O Indra, those two famous ones are sons of Rudra; the sonship of Rudra has been stated in क्षोदो न रेत इतऊति सिंचत् (*kṣodo na reta itaūti siṃcat*) (Ṛ. Saṃ. 10-61-2). The two luminous Nāsatyas, the Aśvins, are to be present for my praise and for the sacrifice (this is supplied). Further: as at the sacrifice of my father Manu, so for me, who have strewn the sacred grass, may they be delighting, exhilarating, with wealth set forth, **NOTE** and worthy to be sacrificed to (this is supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्या (*tyā*)—famous
+- रौद्रा (*raudrā*)—sons of Rudra
+- अर्चिमंता (*arcimaṃtā*)—and radiant
+- नासत्या (*nāsatyā*)—the Aśvin deities
+- मे (*me*)—my
+- गूर्तये (*gūrtaye*)—let them be present facing my praise
+- यजध्यै (*yajadhyai*)—and facing the sacrifice
+- मनुष्वत् (*manuṣvat*)—as they sat at the sacrifice of Manu and gave him delight
+- वृक्तबर्हिषे (*vṛktabarhiṣe*)—to me who have prepared the sacred grass
+- रराणा (*rarāṇā*)—giving delight
+- विक्षु (*vikṣu*)—among us
+- मंदू (*maṃdū*)—and joyful
+- हितप्रयसा (*hitaprayasā*)—possessing wealth which they give to us
+- यज्यू (*yajyū*)—and worthy of the sacrifice, let them be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the famous, radiant Aśvin deities, sons of Rudra, be present facing my praise and my sacrifice. As they sat at Manu's sacrifice and gave him delight, so may they give delight to me who have prepared the sacred grass, and be joyful among us the priests, possessing wealth which they give to us, and worthy of the sacrifice.
+
+##### English translation
+And, Indra, let those two brilliant sons of Rudra, the Nasatyas, (be present) at my praise and sacrifice ; being propitious to (me seated) on the strewn grass, as (at the sacrificee of ) Manu, cheerful, liberal of wealth to the people, deserving of adoration
+
+### Printed p. 430
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स्तु॒तो राजा॑ वंदि वे॒धा अ॒पश्च॒ विप्र॑स्तरति॒ स्वसे॑तुः ।  
+> स क॒क्षीवं॑तं रेजय॒त्सो अ॒ग्निं ने॒मिं न च॒क्रमर्व॑तो  ॒
+> रघुद्रु ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । स्तुतः । राजा । वंदि । वेधाः । अपः । च । विप्रः । तरति । स्वसेतुः ।  
+> सः । कक्षीवंतं । रेजयत् । सः । अग्निं । नेमिं । न । चक्रं । अर्वतः । रघुऽद्रु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वेधाः सर्वस्य विधाता राजा सोमः स्तुतः सर्वैर्विंदि । स्तूयतेऽस्माभिः । किंच विप्रो विशेषेण पूरको विप्रवच्चुद्धो ना स्वसेतुर्यस्य स्वभूता
+> रश्मयो जगद्बंधकाः संति स सोमोऽपश्चांतरिक्षं च तरति । लंघयति प्रतिदिनं ।
+> स सोमः कक्षीवंतमृषिं पर्वतमध्यॆ सोमार्थं गतं रेजयत् सः स एवाग्निं
+> हनिर्वोढुमशक्तं संतं पलाय्याप्सु प्रविष्टं रेजयत् । अकंपयत् । कंपने
+> दृष्टांतः । नेमिं नमनशीलं रघुद्रु लघुगमनं चक्रमर्वतोर्वंतोऽश्वा इव
+> ते यथा तथा रेजयत् ॥ नुमभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+This creator of all, the king Soma, is praised by all; he is praised by us. Further, the sage, as it were a purifier in a special sense, is svasetu: his own rays are binders of the world. That Soma crosses the waters and the atmosphere, passing over them every day. That Soma made the ṛṣi Kakṣīvat, who had gone to the middle of the mountain for the sake of Soma, tremble. He likewise made Agni, who was unable to carry the oblation and had fled and entered the waters, tremble. The illustration of the trembling: as horses make a bending, swift-moving wheel (of a chariot) shake, so he made him tremble. The loss of the nasal augment is Vedic.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधाः (*vedhāḥ*)—creator
+- राजा (*rājā*)—lord
+- स्तुतः (*stutaḥ*)—praised by all
+- अयं (*ayaṃ*)—this god Soma
+- वंदि (*vaṃdi*)—is saluted by us
+- विप्रः (*vipraḥ*)—the wise one
+- स्वसेतुः (*svasetuḥ*)—Soma, who has a causeway made by himself from his own rays
+- अपश्च (*apaśca*)—the atmosphere
+- तरति (*tarati*)—crosses
+- सः (*saḥ*)—that same Soma
+- कक्षीवंतं (*kakṣīvaṃtaṃ*)—the ṛṣi named Kakṣīvat
+- रेजयत् (*rejayat*)—
+
+### Printed p. 431
+made to tremble
+- अर्वतः (*arvataḥ*)—excellent horses
+- नेमिं (*nemiṃ*)—fit for travelling
+- रघुद्रु (*raghudru*)—and swiftly moving
+- चक्रं न (*cakraṃ na*)—as they make a wheel (revolving) shake
+- सः (*saḥ*)—that same Soma
+- अग्निं (*agniṃ*)—made Agni tremble
+
+##### भावार्थ (Bhāvārtha)
+
+The creator, lord, praised by all, the god Soma, is saluted by us. Soma, the wise one, who has a causeway made by himself from his own rays, crosses the atmosphere. That same Soma made the ṛṣi Kakṣīvat tremble. As horses whirl and shake a wheel that is fit for travelling and moves swiftly, so that same Soma made Agni, who had hidden in the water without carrying the oblation, tremble.
+
+##### English translation
+This royal (Soma), this glorified creator, is praised (by all), and, like a sage, constituting his own causeway, he traverses the firmament : he made Kakshivat tremble, he (made) Agni (shake) as horses (agitate) the light-whirling, revolving-wheel (of a chariot).
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स द्वि॒बंधु॑र्वैतर॒णो यष्टा॑ सब॒र्धुं धे॒नुम॒स्वं॑ दु॒हध्यै॑ ।  
+> सं यन्मि॒त्रावरु॑णा वृं॒ज उ॒क्ष्यैर्ज्येष्ठ॑भिरर्य॒मणं॒  ॑
+> वरूथैः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । द्विबंधुः । वैतरणः । यष्टा । सबःधुं । धेनुं । अस्वं । दुहध्यै ।  
+> सं । यत् । मित्रावरुणा । वृंजे । उक्षैः । ज्येष्ठेभिः । अर्यमणं । वरूथैः ॥१७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोग्निर्द्विबंधुर्द्वयोर्लोकयोर्बंधुभूतो वैतरणः सर्वस्य विशेषेण
+> तारयिता । यद्वा । वितरणार्हो हविष्णदानार्हः । यष्टा देवानां याजकोग्निः
+> सबर्धुममृतोपमपयोदोग्धीं धेनुमस्वमप्रसूतां निवृत्तप्रसवां शयवे
+> दुहध्यै दोहायाकरोत् । यद्यदा स शयुर्मित्रावरुणावर्यमणं च ज्येष्ठेभिर्ज्येष्ठैः प्रशस्त्यैर्वरूथैर्वर्णेय्रुक्थैः शस्त्रैः सं वृंजे सम्यक् स्तौति ।
+> यदा स शयुर्मित्रावरुणार्यम्मां स्तुतिं करोति तदा तेषामाज्ञयाग्निर्निवृत्तप्रसवां पयोदोग्धिमकरोदिति ॥
+
+##### Gist of the bhāṣya
+
+That Agni is dvibandhu, a kinsman of the two worlds, and vaitaraṇa, the special conveyer of all across; or else he is worthy of giving across, worthy of the gift of oblations. Agni, sacrificer for the gods, made the cow that yields ambrosia-like milk, though she had not given birth and her calving had ceased, yield milk for Śayu. When that Śayu praises Mitra and Varuṇa and Aryaman with the best, choice ukthas, that is, śastras, he praises well. When Śayu praises Mitra, Varuṇa and Aryaman, then by their command Agni made the cow, whose calving had ceased, yield milk.
+
+### Printed p. 432
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सः (*saḥ*)—Śayu
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- आर्यमणं (*āryamaṇaṃ*)—and Aryaman
+- ज्येष्ठेभिः (*jyeṣṭhebhiḥ*)—with praiseworthy
+- वरूथैः (*varūthaiḥ*)—and chosen
+- उक्षैः (*ukṣaiḥ*)—śastra-mantras
+- सं वृंजे (*saṃ vṛṃje*)—praised fully, then
+- द्विबंधुः (*dvibaṃdhuḥ*)—kinsman of both heaven and earth
+- वैतरणिः (*vaitaraṇiḥ*)—conveyer of all across (difficulty)
+- यष्टा (*yaṣṭā*)—worshipper of the gods
+- सः (*saḥ*)—Agni
+- सबर्धुं (*sabardhuṃ*)—yielding ambrosia (milk)
+- धेनुं (*dhenuṃ*)—the cow
+- अस्वं (*asvaṃ*)—although she had not borne a calf
+- धुहध्यै (*dhuhadhyai*)—made her yield milk
+
+##### भावार्थ (Bhāvārtha)
+
+At the time when Śayu praised Mitra and Varuṇa and Aryaman fully with praiseworthy, chosen śastra-mantras, Agni, kinsman of both heaven and earth, conveyer of all across difficulty, worshipper of the gods, made the cow that yields ambrosia (milk) yield milk although she had not borne a calf.
+
+##### English translation
+The kinsman of the two (worlds, Agni) the conveyer (of all), the sacrificer, (made) the ambrosia-yielding cow, which had not given birth, to yield milk (for Shayu), when he praises Mitra, Varuna and Aryaman, with most excellent and choice hymns.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्बं॑धुः सू॒रिर्दि॒वि ते॑ धियं॒धा नाभा॒नेदि॑ष्टो रपति॒ प्र  ॑
+> वेनन् ।  
+> सा नो॒ नाभिः॑ पर॒मास्य वा॑ घा॒हं तत्प॒श्चा क॑ति॒थश्चि॑दास ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् 5बंधुः । सूरिः । दिवि । ते । धियं5धाः । नाभानेदिष्टः । रपति । प्र । वेनन् ।  
+> सा । नः । नाभिः । परमा । अस्य । वा । घ । अहं । तत् । पश्चा । कतिथः । चित् । आस ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तद्बंधुः । सैव हृथिवी बंधुकोत्पत्यधिष्ठानत्वेन यस्यासौ तद्बंधुः । तन्मातृक इत्यर्थः । सूरिः स्तुतेः प्रेरको दिवि वर्तमानस्य ते तव स्वभूत इति शेषः ।
+
+### Printed p. 433
+
+> त्यदपत्यभूत इति यावत् । षष्ठीसामर्थ्यत्संबंधसामान्यं प्रतीयते । तच्चादित्यपुत्रो मनुर्मनोः पुत्रो नाभानेदिष्य इत्येवं सूर्यापत्यत्वं पर्यवस्यति ।
+> सूर्यनाभानेदिष्टयोः संबंधश्चरमपाद उत्तरमंत्रे च वक्ष्यते । स च धियंधाः
+> कर्मणां धारको नाभानेदिष्टो वेनन्नंगिरोदत्तं गोसहस्रं वेनन्कामयन्
+> प्र रपति । प्रलपति । स्तौतीत्यर्थः । वापि चेत्यर्थः । सा द्यौर्नोऽस्माकं परमोत्कृष्टा
+> नाभिर्बंधिका चास्यादित्यस्याधिष्ठानभूतास्ति । घेति पूरणः । अहं तत्तस्यादित्यस्य पश्चा
+> पश्चादनंतरं कतिथः कतिपयानां पूरण आस । अभवं । अनेन ममादित्येन जन्यजनकभावः संबंधः संनिकृष्ण इत्युक्तं भवति ॥
+
+##### Gist of the bhāṣya
+
+Tadbandhu: that very earth is the seat of origin of the kinsman, so that he has that as his basis; the meaning is that he has her as his mother. Sūri is the impeller of praise, and is yours, that is, your offspring, who are present in heaven (the words are supplied). From the force of the genitive a general relationship is understood, and this settles as descent from Sūrya: the son of Āditya is Manu, and the son of Manu is Nābhānediṣṭha. The relationship of Sūrya and Nābhānediṣṭha will be stated in the last pāda and in the next mantra. That same Nābhānediṣṭha, supporter of rites, desiring the thousand cows given by Aṅgiras, speaks forth, that is, praises; the sense is also "or". That heaven is our supreme bond, the binding tie, and is the seat of this Āditya; घेति (*gheti*) is a filler. I became, after that Āditya, some (generations) later, the ordinal of a few. By this, a relationship of begotten and begetter with Āditya, a close one, is declared.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तद्बंधुः (*tadbaṃdhuḥ*)—near kinsman of the earth
+- सूरिः (*sūriḥ*)—the utterer of praise
+- दिवि (*divi*)—abiding in heaven
+- ते (*te*)—belonging to you
+- धियंधाः (*dhiyaṃdhāḥ*)—supporter of rites
+- नाभानेदिष्टः (*nābhānediṣṭaḥ*)—Nābhānediṣṭha
+- वेनन् (*venan*)—desiring the recompense in the form of cows
+- प्र रपति (*pra rapati*)—praises
+- सा (*sā*)—that heaven
+- नः (*naḥ*)—to us
+- परमा (*paramā*)—excellent
+- नाभिः (*nābhiḥ*)—a bond (it is)
+- अस्य (*asya*)—and for Āditya (it is the dwelling-place)
+- अहं (*ahaṃ*)—I
+- तत् (*tat*)—than Āditya
+- पश्चा (*paścā*)—afterwards
+- कतिथः (*katithaḥ*)—after some generations
+- आस (*āsa*)—have been born
+
+##### भावार्थ (Bhāvārtha)
+
+Nābhānediṣṭha, the near kinsman of the earth, the utterer of praise, belonging to you who abide in heaven, the supporter of rites, praises you desiring the recompense in the form of cows. Heaven is for us an excellent bond and the dwelling-place of Āditya. I was born in the line of that same Āditya, some generations after him.
+
+##### English translation
+The kinsman of the earth, the utterer of praise(belonging)to you(who abide) in heaven, Nabhanedishtha, the supporter of the rite, desiring (the recompense), repeats (this praise) : the (heaven) our most excellent bond (is the site)of the (sun), and I was after many (degrees) descended from him.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं मे॒ नाभि॑रि॒ह मे॑ स॒धस्थ॑मि॒मे मे॑ दे॒वा अ॒यम॑स्मि॒  ॑
+> सर्वः ।
+
 ---
 
-**Progress note:** Done through printed p. 427. pp. 422-427 (batch API)
+**Progress note:** Done through printed p. 433. pp. 428-433 (batch API)
