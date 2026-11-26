@@ -1654,6 +1654,268 @@ O Indra, protector of men (नृपते (*nṛpate*)), your chariot has a goo
 
 O Indra, protector of men, your chariot has an excellent dwelling-place; your horses are well harnessed; in your arm the thunderbolt is held. O Indra, lord, come quickly by the excellent path facing us. We strengthen your powers, you who drink Soma.
 
+### Printed p. 43
+King of men, your chariot is well stationed; your horses are well trained; the thunderbolt is grasped in your hand : come quickly towards us, lord of all, by a good path, we will augment your energies when you drink the Soma.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंद्र॒वाहो॑ नृ॒पतिं॒ वज्र॑बाहुमु॒ग्रमु॒ग्रास॑स्तवि॒षास॑ एनं ।  
+> प्रत्व॑क्षसं वृष॒भं स॒त्यशु॑ष्म॒मेम॑स्म॒त्रा स॑ध॒मादो॑ वहंतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्रवाहः । नृपतिं । वज्रबाहुं । उग्रं । उग्रासः । तविषासः । एनं ।  
+> प्रत्त्वक्षसं । वृषभं । सत्यशुष्मं । आ । ईं । अस्मत्रा । सध्वमादः । वहंतु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृपतिं नरां नेतृणां पालकं वज्रबाहुं वज्रहस्तमुग्रमुद्दूर्णं प्रत्वक्षसं शत्रुबलानां प्रकर्षेण तनूकर्तारं वृषभं कामानां वर्षितारं सत्यशुष्कमविसंवादिबलमेनमिंद्रं । आ ईमिति पूर्णा । उग्रास उद्यूर्णास्तविषासः प्रवृद्धाः
+> सधमादः सह माद्यंत इंद्रवाह इंद्रस्य वोढारोऽस्मत्रास्मास्वा वहंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the verse. Indra is the protector of men (नृपतिं (*nṛpatiṃ*), of the leaders of men), the bearer of the thunderbolt in his hand (वज्रबाहुं (*vajrabāhuṃ*)), fierce (उग्रं (*ugraṃ*), "violent"), the one who greatly diminishes the strength of enemies (प्रत्वक्षसं (*pratvakṣasaṃ*)), the showerer of desires (वृषभं (*vṛṣabhaṃ*)), and one whose strength is unfailing (सत्यशुष्मं (*satyaśuṣmaṃ*)). *ā īm* is a filler (completing the sense). The horses are उग्रासः (*ugrāsaḥ*) (violent), तविषासः (*taviṣāsaḥ*) (grown strong), सधमादः (*sadhamādaḥ*) (rejoicing together) and इंद्रवाहः (*iṃdravāhaḥ*) (bearers of Indra); let them bring him to us (अस्मत्रा (*asmatrā*), among us).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृपतिं (*nṛpatiṃ*)—protector of men
+- वज्रबाहुं (*vajrabāhuṃ*)—one who holds the thunderbolt in his hand
+- उग्रं (*ugraṃ*)—one of terrible might
+- प्रत्वक्षसं (*pratvakṣasaṃ*)—one who destroys enemies
+- वृषभं (*vṛṣabhaṃ*)—showerer of desires
+- सत्यशुष्मं (*satyaśuṣmaṃ*)—one whose strength is true
+- एनं (*enaṃ*)—Indra
+- उग्रासः (*ugrāsaḥ*)—those of abundant strength
+- तविषासः (*taviṣāsaḥ*)—those who are strong
+- सधमादः (*sadhamādaḥ*)—those who rejoice together
+- इंद्रवाहः (*iṃdravāhaḥ*)—horses that carry Indra
+- अस्मत्रा (*asmatrā*)—to us
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+May the horses, of abundant strength, sturdy, rejoicing together and carrying Indra, bring to us Indra, the protector of men, who holds the thunderbolt in his hand, of terrible might, destroyer of enemies, showerer of desires, whose strength is true.
+(continued)
+
+### Printed p. 44
+
+##### English translation
+May the fierce, vigorous, exulting horses of Indra bring him hither to us, the king of men, armed with the thunderbolt, fierce, the reducer of foes, the showerer (of benefits), whose strength is real.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा पतिं॑ द्रोण॒साचं॒ सचे॑तसमू॒र्जः स्कं॒भं॒॒ आ वृ॑षायसे।  
+> ओजः॑ कृष्ण॒ सं गृ॑भाय॒ त्वे अप्पसो॒ यथा॑ केनि॒पाना॑मि॒नो  ॒
+> वृधे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । पतिं । द्रोणसाचं । सचेतसं । ऊर्जः । स्कंभं । धरुणे । आ । वृषयसे ।  
+> ओजः । कृष्ण । सं । गृभाय । श्वे इति । अपि । असः । यथा । केऽविपासाः । इनः । वृधे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमेवैवं पतिं पालकं द्रोणसाचं द्रोणकलशस्य सेवितारं
+> सचेतसं सप्रज्ञमूर्जः स्कंभं बलस्य धारकं सोमं धरुणे धारके जतर आ वृषायसे । असिंचसे । धारयसीत्यर्थः । किंच । मह्यमोजो बलं कृष्ण । कुरुष्ट ।
+> त्वे त्वय्यस्मानपि संगृभाय । सं गृहाण च । किंच । केनिपानां मेधाविनामस्माळं ।
+> केनिप उशिज इति मेधाविनामसु पाशात् । वृधे वर्धनाय यथा यथापत्सर्वथेन
+> स्वाम्यसः । भवसि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you thus fill the protector (पतिं (*patiṃ*)), the one who resorts to the Droṇa vessel (द्रोणसाचं (*droṇasācaṃ*)), the wise one (सचेतसं (*sacetasaṃ*)), the upholder of strength (ऊर्जः स्कंभं (*ūrjaḥ skaṃbhaṃ*)), namely Soma, into your receptacle (धरुणे (*dharuṇe*)); आ वृषायसे (*ā vṛṣāyase*) means you pour in, you hold. Further, make strength in me; take us also into yourself. Further, you are the master, for the growth of us the wise (केनिपानां (*kenipānāṃ*), which Sāyaṇa glosses as 'wise', citing 'kenipa, uśija' among the names of the wise)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—in this manner
+- पतिं (*patiṃ*)—protector of the sacrifice
+- द्रोणसाचं (*droṇasācaṃ*)—that which rests on the Droṇa vessel
+- सचेतसं (*sacetasaṃ*)—filled with wisdom
+- ऊर्जः (*ūrjaḥ*)—of strength
+- स्कंभं (*skaṃbhaṃ*)—the upholder; Soma
+- धरुणे (*dharuṇe*)—in your belly
+- आ वृषायसे (*ā vṛṣāyase*)—you fill yourself
+- ओजः (*ojaḥ*)—strength
+- तृष्ण (*tṛṣṇa*)—fill into me
+- केनिपानां (*kenipānāṃ*)—of us the wise
+- वृधे (*vṛdhe*)—for growth
+(continued)
+
+### Printed p. 45
+- यथा (*yathā*)—in what manner
+- इनः (*inaḥ*)—as master
+- आसः (*āsaḥ*)—as you are (therefore)
+- त्ये (*tye*)—in you
+- अपि सं गृभय (*api saṃ gṛbhaya*)—take us to yourself (make us yours)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you fill into your belly the Soma, protector of the sacrifice, resting on the Droṇa vessel, filled with wisdom, upholder of strength. Fill vigour in me too. For the growth of us the wise, make us your own. You are our master; therefore make us grow.
+
+##### English translation
+Verily, Indra, you pour into your capacious (stomach) the protecting (Soma), serving the wooden trough, intelligent, holding strength : bestow (upon us) vigour : take us into yourself, for you are the lord of the exaltation of the wise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गम॑न्न॒स्मे वसू॒न्या हि शंसि॑षं स्वा॒तिषं॒ भर॒मा या॑हि सो॒मिनः॑ ।  
+> त्वमित॑िषे॒ सास्मिन्ना स॑त्सि ब॒र्हिष्य॑नाधृ॒ष्ट्या तव॒ पात्रा॑णि॒ धर्म॑णा॥  
+> ददनादि  
+> गमन् । अस्मे इति । वसूनि । आ । संशिषं । सुआशिषं । भरं । आ । याहि । सोमिनः।  
+> त्वं । ई॑शिषे॒ । सः । अस्मिन् । आ । स॑त्सि । ब॒र्हिषि । अ॑नाधृ॒ष्या । तव॒ । पात्रा॑णि॒ । धर्म॑णा॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वसूनि त्वद्देयानि धनान्यस्मे मय्या गमन् । आगच्छंतु । हि
+> यस्मात्वामहं शंसिषं स्तौमि । किंच सोमिनः सोमवशो मम स्वाशिषं शोभना
+> आशिषो यस्मिंस्तं भरं यज्ञमा याहि । त्वमागच्छ । किंच त्वमीशिषे । धनस्येश्वरोऽसि । एवं विधः स त्वमस्मिन्नस्मदीये वेद्यास्तृते बर्हिष्या सत्सि । आसीद । किंच
+> तव सोमपात्राणि धर्मणा राक्षसानां कर्मणानाधृष्ट्यानि धर्षयितुमशक्यानि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, let the riches that you give come to me, since I praise you. Come also to the sacrifice of me, the Soma-possessor, in which there are good blessings. You are the lord of wealth; being such, sit on this spread sacred grass of ours. Further, your Soma vessels are unassailable (*anādhṛṣṭyāni*), impossible to violate, through the action (धर्मणा (*dharmaṇā*)) of the Rākṣasas."
+(continued)
+
+### Printed p. 46
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसूनि (*vasūni*)—the riches you provide
+- अस्मे (*asme*)—to us
+- आ गमन् (*ā gaman*)—let them come quickly and join
+- हि (*hi*)—because
+- शंसिषं (*śaṃsiṣaṃ*)—I praise you
+- सोमिनः (*sominaḥ*)—of me, who have Soma
+- स्वाशिषं (*svāśiṣaṃ*)—accompanied by good blessings
+- भरं (*bharaṃ*)—to the sacrifice
+- आ याहि (*ā yāhi*)—deign to come
+- त्वं (*tvaṃ*)—you
+- ईशिषे (*īśiṣe*)—you are lord of wealth
+- सः (*saḥ*)—you, the renowned
+- अस्मिन् (*asmin*)—of this sacrifice
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- आ सत्सि (*ā satsi*)—sit
+- तव (*tava*)—your
+- पात्राणि (*pātrāṇi*)—Soma vessels
+- धर्मणा (*dharmaṇā*)—by the action of asuras and others
+- अनाधृष्या (*anādhṛṣyā*)—are not defiled
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the riches you provide come quickly to us. I praise you. Deign to come to the sacrifice of me, who have Soma, accompanied by good blessings. You are lord of wealth. Renowned as you are, sit on the seat of darbha grass of this sacrifice. Your Soma vessels are not defiled by the action of asuras and others.
+
+##### English translation
+Let the wealth (to be given by you) come quickly to me, for verily I have glorified you : come to the blessed sacrifice of the offerer of the Soma ; for you are the lord : sit down upon this sacred grass : these your cups (of Soma) are not to be insulted by the act(of evil spirits)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृथ॒क् प्राय॑न्प्रथ॒मा दे॒वहू॑त॒योऽकृ॑ण्वत श्रव॒स्का॑नि दु॒ष्टरा॑।  
+> न ये शे॒कुर्य॒ज्ञियां॒ नाव॑मा॒रुह॑मी॒र्मैव ते न्य॑विशंत॒  ॑
+> केपयः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृथक् । प्र । आयन् प्रथमाः । देवहूतयः । अकृण्वत । श्रवस्यानि । दुस्तरा ।  
+> न । ये । शीकुः । यज्ञियां । नावं । आरुहं । ईर्मा । एव । ते । नि । अविशंत ।  
+> क्रीपयः ॥ ६ ॥
+
+### Printed p. 47
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव प्रसादात्ते पृथक् प्रायन् देवलोकान्नृथग्गच्छंति ये
+> प्रथमाः पूर्व मुख्या ना देवहूतयो देवानामाह्वातारः ॥ कर्तरि कृत् ॥ किंच
+> दुष्टरान्यॆर्दुस्तराणि श्रवण्यानि श्रवणीयानि यशांस्यकृण्वत अकुर्वत । किंच ये
+> तत्पसादरहिता जना यज्ञियां यज्ञसंबंधिनीं । यज्ञमयीमित्यर्थः । नावमारुहमारोढुं न शेकुः न शक्नु वंति ते केपयः कुत्सितपूयकर्माणः पापकर्माणो जना ईर्मैव ऋणेनैव स्यविशंत । नीचैरविशंत । अधोगतिं प्राप्ता
+> इत्यर्थः । तथा च यास्कः । पृथक् प्रायन् पृथक् प्रथतेः प्रथमा देवहूतयो
+> ये देवानाह्वयंताकुर्वत श्रवणीयानि यशांसि दुरनुकरणान्र्येऽशक्नु वन्यज्ञॆयां नावमारोळ्ळुमथ ये नाशक्कुवन्यज्जियां नावमारोळ्ळुमीर्मैव ते
+> न्यविशंत ऋणेनैव ते स्यविशंतास्मिन्नेव लोक इति वा । नि. ५-२५ । इति ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, by your grace they go separately from the world of the gods: those who are first, foremost, callers of the gods (देवहूतयः (*devahūtayaḥ*); the affix is in the agent sense). Further, they have made difficult-to-attain (दुस्तरा (*dustarā*)) glories worthy of being heard (श्रवस्यानि (*śravasyāni*)). Further, those people without that grace who are unable to ascend the sacrificial boat, i.e. the boat consisting of sacrifice, those of evil, sinful action (केपयः (*kepayaḥ*)), sink down by debt alone (ईर्मा (*īrmā*) = ऋणेनैव (*ṛṇenaiva*)), attaining a downward course." Sāyaṇa also cites Yāska: पृथक् प्रायन्प्रथमा देवहूतयोऽकृण्वत श्रवस्कानि दुष्टरा। न ये शेकुर्यज्ञियां नावमारुहमीर्मैव ते न्यविशंत केपयः ॥ ६ ॥ पृथक् । प्र । आयन् प्रथमाः । देवहूतयः । अकृण्वत । श्रवस्यानि । दुस्तरा । न । ये । शीकुः । यज्ञियां । नावं । आरुहं । ईर्मा । एव । ते । नि । अविशंत । क्रीपयः ॥ ६ ॥ हे इंद्र तव प्रसादात्ते पृथक् प्रायन् देवलोकान्नृथग्गच्छंति ये प्रथमाः पूर्व मुख्या ना देवहूतयो देवानामाह्वातारः ॥ कर्तरि कृत् ॥ किंच दुष्टरान्यॆर्दुस्तराणि श्रवण्यानि श्रवणीयानि यशांस्यकृण्वत अकुर्वत । किंच ये तत्पसादरहिता जना यज्ञियां यज्ञसंबंधिनीं । यज्ञमयीमित्यर्थः । नावमारुहमारोढुं न शेकुः न शक्नु वंति ते केपयः कुत्सितपूयकर्माणः पापकर्माणो जना ईर्मैव ऋणेनैव स्यविशंत । नीचैरविशंत । अधोगतिं प्राप्ता इत्यर्थः । तथा च यास्कः । पृथक् प्रायन् पृथक् प्रथतेः प्रथमा देवहूतयो ये देवानाह्वयंताकुर्वत श्रवणीयानि यशांसि दुरनुकरणान्र्येऽशक्नु वन्यज्ञॆयां नावमारोळ्ळुमथ ये नाशक्कुवन्यज्जियां नावमारोळ्ळुमीर्मैव ते न्यविशंत ऋणेनैव ते स्यविशंतास्मिन्नेव लोक इति वा । नि. ५-२५ । (*pṛthak prāyanprathamā devahūtayo 'kṛṇvata śravaskāni duṣṭarā| na ye śekuryajñiyāṃ nāvamāruhamīrmaiva te nyaviśaṃta kepayaḥ ‖ 6 ‖ pṛthak | pra | āyan prathamāḥ | devahūtayaḥ | akṛṇvata | śravasyāni | dustarā | na | ye | śīkuḥ | yajñiyāṃ | nāvaṃ | āruhaṃ | īrmā | eva | te | ni | aviśaṃta | krīpayaḥ ‖ 6 ‖ he iṃdra tava prasādātte pṛthak prāyan devalokānnṛthaggacchaṃti ye prathamāḥ pūrva mukhyā nā devahūtayo devānāmāhvātāraḥ ‖ kartari kṛt ‖ kiṃca duṣṭarānyèrdustarāṇi śravaṇyāni śravaṇīyāni yaśāṃsyakṛṇvata akurvata | kiṃca ye tatpasādarahitā janā yajñiyāṃ yajñasaṃbaṃdhinīṃ | yajñamayīmityarthaḥ | nāvamāruhamāroḍhuṃ na śekuḥ na śaknu vaṃti te kepayaḥ kutsitapūyakarmāṇaḥ pāpakarmāṇo janā īrmaiva ṛṇenaiva syaviśaṃta | nīcairaviśaṃta | adhogatiṃ prāptā ityarthaḥ | tathā ca yāskaḥ | pṛthak prāyan pṛthak prathateḥ prathamā devahūtayo ye devānāhvayaṃtākurvata śravaṇīyāni yaśāṃsi duranukaraṇānrye 'śaknu vanyajñèyāṃ nāvamāroḷḷumatha ye nāśakkuvanyajjiyāṃ nāvamāroḷḷumīrmaiva te nyaviśaṃta ṛṇenaiva te syaviśaṃtāsminneva loka iti vā | ni. 5-25 |*) (Ni. 5-25), which expands the verse in the same sense, adding the alternative that they sank by debt in this very world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथक् (*pṛthak*)—two kinds of separate courses
+- प्रायन् (*prāyan*)—men attain
+- प्रथमाः (*prathamāḥ*)—the foremost
+- देवहूतयः (*devahūtayaḥ*)—sacrificers who call the gods to the sacrifice
+- दुष्टरा (*duṣṭarā*)—not to be climbed by others
+- श्रवस्यानि (*śravasyāni*)—a glorious divine abode
+- अकुर्वत (*akurvata*)—they make for themselves (obtain)
+- ये (*ye*)—those who
+- यज्जियां (*yajjiyāṃ*)—consisting of sacrifice
+- नावं (*nāvaṃ*)—boat
+- आरुहं (*āruhaṃ*)—to ascend
+- न शेकुः (*na śekuḥ*)—are not able
+- ते (*te*)—they
+- केपयः (*kepayaḥ*)—being of sinful action
+- ईर्मैव (*īrmaiva*)—afflicted by debt alone
+- नृविशंत (*nṛviśaṃta*)—attain a downward course
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, men have two different courses. The sacrificers, the foremost, who call the gods to the sacrifice, obtain a glorious divine abode not to be climbed by others. Those who cannot ascend the boat of sacrifice, being of sinful action, are afflicted by debt and attain a downward course.
+
+##### English translation
+They go separately (to the worlds of the gods), first those who offer oblations to the gods have attained reputation difficult to surpass : those who have not been able to ascend the ship of sacrifice, have gone down (in the world), wretches (plunged) in debt.
+
+### Printed p. 48
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वैवापा॒गप॑रे संतु दू॒ड्योऽश्वा॒ येषां॑ दु॒युर्ज॑ आयुयु॒ज्रे ।  
+> इ॒त्था ये प्रागुप॑रे॒ संति॑ दा॒वने॑ पु॒रूणि॒ यत्र॑ व॒युना॑नि॒  ॑
+> भोजना ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । एव । अपाक् । अपरे । संतु । दुःध्यः । अश्वाः । येषां । दुःयुजः । आयुयुज्रे ।  
+> इत्था । ये । प्राक् । उपरे । संति । दावने । पुरूणि । यत्र । वयुनानि । भोजना॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवैनैवमेव दूढ्यो दुर्बुद्धयोऽपरेऽन्ये । अयज्ञान इत्यर्थः । अपागपाचीना अधोगंतारः संतु भवंतु येषां यज्ञमकुर्वतामश्वा दुर्युजो
+> दुर्योजाः प्रबला आश्वा आयुयुज्रे रथेषु युज्यंते । ये सत्यपि सामर्थ्ये
+> न यजंति ते नरकं गच्छंतीति भावः । किंचेत्थेत्थं ते स्वर्गगामिनो भवंति य
+> उपरे यज्ञानः प्राग्मरणात्पूर्वमेव दावने देवानां हविर्दानाय संति भवंति ।
+> यत्र येषु च यज्ञकारिसु वयुनानि प्रज्ञानानि कांतानि वा भोजना भोगानि
+> धनानि पुरूणि बहूनि देवेभ्यो दानाय संति ॥
+
+##### Gist of the bhāṣya
+
+"In just this way let the others, of evil mind, i.e. non-sacrificers, be downward-going (अपाक् (*apāk*)), those whose strong horses (दुर्युजः (*duryujaḥ*)) are yoked to chariots while they do not perform sacrifice. The sense is: those who do not sacrifice though able go to hell. Further, thus (इत्था (*itthā*)) those others, sacrificers, who before death (प्राग् (*prāg*)) are ready to give oblations to the gods, go to heaven; and among those sacrificers there are knowledge (वयुनानि (*vayunāni*), wisdom, or desirable things) and many enjoyable riches (*bhojanā purūṇi*) for giving to the gods."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषां (*yeṣāṃ*)—of those fallen from ritual action
+- दुर्युजः (*duryujaḥ*)—of powerful strength
+- अश्वाः (*aśvāḥ*)—horses
+- आयुयुचे (*āyuyuce*)—are yoked to the chariot (though they have such strength)
+- अपरे (*apare*)—such others fallen from ritual action
+- दूढ्यः (*dūḍhyaḥ*)—being of evil mind
+- एवैव (*evaiva*)—just as described above
+- अपाक् (*apāk*)—going downward
+- संतु (*saṃtu*)—let them be
+- ये उपरे (*ye upare*)—those sacrificers
+- प्राक् (*prāk*)—before death
+- दापने (*dāpane*)—to offer oblation
+- संति (*saṃti*)—who are ready
+- यत्र (*yatra*)—among which sacrificers
+- वयुनानि (*vayunāni*)—excellent knowledge
+- भोजना (*bhojanā*)—cattle as means of enjoyment
+- पुरूणि (*purūṇi*)—are abundant, they
+- इत्था (*itthā*)—as described above, obtain an excellent course
+
 ---
 
-**Progress note:** Done through printed p. 42. pp. 37-42 (batch API), two remarks removed
+**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
