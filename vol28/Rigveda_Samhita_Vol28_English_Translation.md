@@ -4681,6 +4681,310 @@ This sūkta अहं भुवं (*ahaṃ bhuvaṃ*) is the sixth sūkta in th
 
 The same introduction as in the preceding block, repeated: sixth sūkta of eleven Ṛks; Indra, pleased with Saptagu's praise, praises himself; Indra is seer and deity by the two rules; Ṛks ten, eleven and seven are Triṣṭubh, the rest Jagatī; the Anukramaṇī is quoted; use in the Atirātra (Ā. Sū. 6-4) and in the niṣkevalya of the Samūḷha Daśarātra (Ā. Sū. 8-7). **NOTE**
 
+### Printed p. 145
+Maṇḍala 10; Anuvāka 4; Sūkta 48. Aṣṭaka 8; Adhyāya 1; Varga 5, 6. Number of Ṛks in the sūkta: 11. Ṛṣi: Indra Vaikuṇṭha. Deity: Indra Vaikuṇṭha. Metre: 1–6 and 8–9 Jagatī; 7, 11, 11 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं भु॑वं॒ वसु॑नः पू॒र्वस्पति॑र॒हं धना॑नि॒ सं ज॑यामि॒ शश्व॑तः।  
+> मां ह॑वंते पि॒तरं॒ न जं॒तपो॒ऽहं दा॒शुषे॒ वि भ॑जामि॒ भोज॑  
+> नं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । भुवं । वसुनः । पूर्व्यः । पतिः । अहं । धनानि । सं । जयामि । शश्वतः ॥  
+> मां । हवंते । पितरं । न । जंतवः । अहं । दाशुषे । वि । भजामि । भोजनं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रो वसुनो धनस्य पूर्व्यो मुख्योऽसाधारणः पतिः स्वामी
+> भुवं । अभवं ॥ भवतेर्लजि बहुलं छंदसीति शपो लुक् । अचि शुधातुभ्रुवा
+> मित्युवजादेशः । अडभावश्चांदसः । तथाहं शश्वतः । बहुनामैतत् । बहोः
+> शत्रोः संबंधीनि धनानि । समित्येकीभावे । सह जयामि । किंच मामेव जंतवः
+> प्राणिनो यजमाना हवंते । आह्वयंति । पितरं न पितरमिव पुत्राः । अहं दाशुषे
+> दात्रे यजमानाय भोजनमन्नं वि भजामि । ददामि ॥
+
+##### Gist of the bhāṣya
+
+"I, Indra, have become the chief, the unshared lord (पतिः (*patiḥ*)) of wealth (वसुनः (*vasunaḥ*))." भुवं (*bhuvaṃ*) means "I became"; the lug-ending of the root भू (*bhū*) is used and so on (grammar omitted). Likewise, "I win together (सं (*saṃ*) expresses unity) the wealth of शश्वतः (*śaśvataḥ*)", this being a word for "many", that is, the wealth belonging to many enemies. Moreover living beings, the sacrificers, call upon me alone, as sons call upon a father. I distribute (give) food to the giver (दाशुषे (*dāśuṣe*)), the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I (Indra)
+- वसुनः (*vasunaḥ*)—of wealth
+- पूर्व्यः (*pūrvyaḥ*)—chief (unshared)
+- पतिः (*patiḥ*)—as lord
+- भुवं (*bhuvaṃ*)—I have become
+- अहं (*ahaṃ*)—I
+- शश्वतः (*śaśvataḥ*)—of many enemies
+- धनानि (*dhanāni*)—the wealth
+- सं जयामि (*saṃ jayāmi*)—I win and bring
+- जंतवः (*jaṃtavaḥ*)—living beings, sacrificers and others
+- मां (*māṃ*)—me
+- पितरं न (*pitaraṃ na*)—as sons call their father with trust
+- हवंते (*havaṃte*)—they call
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहं भुवं वसुनः पूर्व्यस्पतिरहं धनानि सं जयामि शश्वतः।  
+> मां ह॑वंते पि॒तरं॒ न जं॒तपो॒ऽहं दा॒शुषे॒ वि भ॑जामि॒ भोज॑  
+> नं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । भुवं । वसुनः । पूर्व्यः । पतिः । अहं । धनानि । सं । जयामि । शश्वतः ॥  
+> मां । हवंते । पितरं । न । जंतवः । अहं । दाशुषे । वि । भजामि । भोजनं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रो वसुनो धनस्य पूर्व्यो मुख्योऽसाधारणः पतिः स्वामी
+> भुवं । अभवं ॥ भवतेर्लजि बहुलं छंदसीति शपो लुक् । अचि शुधातुभ्रुवा
+> मित्युवजादेशः । अडभावश्चांदसः । तथाहं शश्वतः । बहुनामैतत् । बहोः
+> शत्रोः संबंधीनि धनानि । समित्येकीभावे । सह जयामि । किंच मामेव जंतवः
+> प्राणिनो यजमाना हवंते । आह्वयंति । पितरं न पितरमिव पुत्राः । अहं दाशुषे
+> दात्रे यजमानाय भोजनमन्नं वि भजामि । ददामि ॥
+
+##### Gist of the bhāṣya
+
+"I, Indra, have become the chief, the unshared lord of wealth. Likewise I win together the wealth of many enemies. Moreover living beings, the sacrificers, call upon me, as sons call upon a father. I distribute food to the giver, the sacrificer."**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I (Indra)
+- वसुनः (*vasunaḥ*)—of wealth
+- पूर्व्यः (*pūrvyaḥ*)—chief (unshared)
+- पतिः (*patiḥ*)—as lord
+- भुवं (*bhuvaṃ*)—I have become
+- अहं (*ahaṃ*)—I
+- शश्वतः (*śaśvataḥ*)—of many enemies
+- धनानि (*dhanāni*)—the wealth
+- सं जयामि (*saṃ jayāmi*)—I win and bring
+- जंतवः (*jaṃtavaḥ*)—living beings, sacrificers and others
+- मां (*māṃ*)—me
+- पितरं न (*pitaraṃ na*)—as sons call their father with trust
+- हवंते (*havaṃte*)—they call
+
+### Printed p. 146
+- अहं (*ahaṃ*)—I
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers me oblations
+- भोजनं (*bhojanaṃ*)—food
+- वि भजामि (*vi bhajāmi*)—I provide
+
+##### भावार्थ (Bhāvārtha)
+
+I, Indra, am the chief of all wealth, that is, its sole master. I win and bring the wealth of enemies. All beings, that is, the sacrificers who perform the sacrifice, call upon me with love and respect, as sons call their father. To the sacrificer who offers me oblations I provide food fit for enjoyment.
+
+##### English translation
+I am the principal lord of wealth : I conquer the treasure of many (adversaries) : living beings call upon me as (sons call upon) a father ; I bestow food on the donor of oblations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमिंद्रो॒ रोधो॒ वक्षो॒ अथ॑र्वणस्त्रि॒ताय॒ु गा अ॑जनय॒मु  ॒॑
+> हेरधि ।  
+> अ॒हं दसु॑भ्यः॒ परि॑ नृ॒ष्णमा द॑दे गो॒त्रा शिक्ष॑न् दधी॒चे मा॑त॒  ॑
+> रिश्वने ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । इंद्रः । रोधः । वक्षः । अथर्वणः । त्रिताय । गाः । अजनयं । अहेः । अधि ॥  
+> अहं । दस्युभ्यः । परि । नृम्मं । आ । ददे । गोत्रा । शिक्षन् । दधीचे । मातरिश्वने॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आद्यपादस्येतिहासमाहुः । आथर्वणं दध्यंचं मधुविद्यावंतमिंद्र अगत्य
+> मधुविद्यां कस्य चिन्न ब्रूया इति नियमितवान् । यदि ब्रूयस्ते शिरो हरामीत्युक्तवान् । स चाथर्वणोऽश्विभ्यामुवाच । इदं वै तन्मधु दध्यज्ञाथर्वणोऽश्विभ्यामुवाच । शत-१४-५-५-१६ । अश्वस्य शीर्ष्णा प्र यदीमुवाच । ऋ-१-११६-१२ । इति हि
+
+They tell the legend of the first pāda. Indra went to Dadhyañc, the son of Atharvan, who possessed the Madhuvidyā, and bound him by a rule: "You must not teach the Madhuvidyā to anyone; if you teach it, I shall cut off your head." That son of Atharvan nevertheless taught it to the Aśvins. For this the Śruti is इदं वै तन्मधु दध्यज्ञाथर्वणोऽश्विभ्यामुवाच । शत-१४-५-५-१६ । (*idaṃ vai tanmadhu dadhyajñātharvaṇo 'śvibhyāmuvāca | śata-14-5-5-16 |*) and अश्वस्य शीर्ष्णा प्र यदीमुवाच । ऋ-१-११६-१२ । (*aśvasya śīrṣṇā pra yadīmuvāca | ṛ-1-116-12 |*)
+
+##### Gist of the bhāṣya
+
+Sāyaṇa gives the legend of the first pāda: Indra forbade Dadhyañc, Atharvan's son, who knew the Madhuvidyā, to teach it, on pain of losing his head. Dadhyañc taught it to the Aśvins, as stated in Śa. 14-5-5-16 and Ṛ. 1-116-12. The account continues in the next block.
+
+### Printed p. 147
+
+> श्रुतिः । स चेंद्र अगत्य दधीचः शिरोऽहरदिति तत्रोच्यते । इंद्रोऽहमथर्वणोऽधर्वणः पुत्रस्य दधीचो वक्षः । तदुपलक्षितं शिर इत्यर्थः । तस्य रोधो रोधको
+> हर्तास्मि । तथा त्रिताय्कॆतन्नामकायाप्ट्वाय कूपपतितायोद्धरणार्थमहेर्मेघस्याध्युपरि गा उदकान्यजनयं । उदपादयं । त्रितस्य कूपपतिस्वेंद्रं प्रत्युद्धरणप्रार्थनं सं मा तपंत्यभितः । ऋ. १०-३३-२ । इत्यत्र प्रतिपादितं । तथाहं दस्युभ्य
+> उपक्षपयितृभ्यः शतृभ्यः सकाशान्मृम्मं धनमाडदे । आदत्तवानस्मि । किं कुर्वन् ।
+> गोत्रा गवामुदकानां रक्षकान्मेघाङ्क्षणन् विनयन् । किमर्थं । मातरिश्वने
+> मातरिश्वनः पुत्राय दधीच एतन्नामकायर्षये वर्षकामाय प्रवर्षयितुमिच्छन्
+
+##### Gist of the bhāṣya
+
+The Śruti says that Indra came and cut off Dadhīca's head; to that the verse refers. "I, Indra, am the रोधः (*rodhaḥ*), the obstructor, that is, the remover, of the वक्षः (*vakṣaḥ*) of Atharvan's son Dadhīca", meaning the head, which is marked by the chest. Likewise for Trita, a sage of that name, of the Āptya family, who had fallen into a well, I generated (अजनयं (*ajanayaṃ*), produced) the waters (गाः (*gāḥ*)) from above the cloud (अहेः (*aheḥ*)) so as to raise him out. Trita's prayer to Indra for rescue as he lay in the well is set out in सं मा तपंत्यभितः । ऋ. १०-३३-२ । (*saṃ mā tapaṃtyabhitaḥ | ṛ. 10-33-2 |*). Likewise I took (आ ददे (*ā dade*)) wealth from the Dasyus, the enemies who destroy. What was I doing? Chastising (शिक्षन् (*śikṣan*), restraining) the गोत्रा (*gotrā*), the clouds that guard the waters. For what purpose? For Mātariśvan's son, the sage named Dadhīca, who desired rain, wishing to make it rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अहं (*ahaṃ*)—I
+- अथर्वणः (*atharvaṇaḥ*)—of the sage Dadhīca, the son of the sage Atharvan
+- वक्षः (*vakṣaḥ*)—the head
+- रोधः (*rodhaḥ*)—I have cut off
+- त्रिताय (*tritāya*)—for raising the sage Trita who had fallen into a well
+- अहेः (*aheḥ*)—of the cloud
+- अधि (*adhi*)—upon (having struck)
+- गाः (*gāḥ*)—the waters
+- अजनयं (*ajanayaṃ*)—I have produced
+- अहं (*ahaṃ*)—I
+- दस्युभ्यः (*dasyubhyaḥ*)—from the Dasyus, the enemies
+- नृम्मं (*nṛmmaṃ*)—wealth
+- आ ददे (*ā dade*)—I have snatched and brought
+- मातरिश्वने (*mātariśvane*)—son of Mātariśvan
+- दधीचे (*dadhīce*)—as the sage Dadhīca prayed, to make rain fall
+- गोत्रा (*gotrā*)—the clouds
+- शिक्षन् (*śikṣan*)—I have chastised
+
+##### भावार्थ (Bhāvārtha)
+
+I, Indra, have cut off the head of the sage Dadhīca, son of the sage Atharvan. When the sage Trita had fallen into a well and was suffering from thirst, I struck the cloud for him and made a rain of water fall. I have snatched and brought away the wealth of the Dasyus, the enemies. As the sage Dadhīca, son of Mātariśvan, prayed, I have struck the clouds so that they pour rain.
+
+##### English translation
+I, Indra, am the striker off of the head of the son of Atharvan. I generated the waters from above the cloud for the sake of Trita. I carried off their wealth from the Dasyus; taming the clouds for Dadhyanch, the son of Matarishwan.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मह्यं॒ त्वष्टा॒ वज्र॑मतक्षदाय॒सं मयि॑ दे॒वासो॑ऽवृज॒न्नपि॒  ॑
+> क्रतुं ।
+
+### Printed p. 148
+
+> ममानीकं सूर्यस्येव दुष्टरं मामार्यंति कृतेन  
+> कर्त्वेन च ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मह्यं । त्वष्टा । वज्रं । अतक्षत् । आयसं । मयि। देवासः । अवृजन् । अपि । क्रतुं ॥  
+> मम । अनेकं । सूर्यस्य इव । दुस्तरं । मां । आर्यंति । कृतेन । कर्त्वेन । च ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मह्यं मदर्थं त्वष्टा देव आयसमयोमयं वज्रमायुधमतक्षत् ।
+> संपादितवान् । देवा मयि विषये क्रतुं स्वविरोधिहननरूपं कर्माप्यवृजन् ।
+> समपादयन् । ममानीकं सेनासमूहं सूर्यानीकमिव दुष्टरं । अन्येन
+> तरीतुमशक्यं । मामेव कृतेन कर्मणा कर्त्वेनेतः परं कर्तव्येन वृत्रवधादिरूपेणार्यंति । गच्छंति । आर्यतिर्गतिकर्मा । यद्वा । आर्यमीश्वरं कुर्वते ॥
+
+##### Gist of the bhāṣya
+
+For me the god Tvaṣṭṛ fashioned the आयसं (*āyasaṃ*), iron, vajra weapon. The gods in me (मयि (*mayi*)) brought about (अवृजन् (*avṛjan*)) the क्रतुं (*kratuṃ*), the work that consists in slaying their own enemies. My अनीकं (*anīkaṃ*), my host of armies, is hard to cross, like the Sun's host, impossible for another to cross. People go to (आर्यंति (*āryaṃti*)) me alone on account of what has been done (कृतेन (*kṛtena*)) and of what is to be done hereafter (कर्त्वेन (*kartvena*)), such as the slaying of Vṛtra and the like; आर्यति (*āryati*) is a root of motion. Or else: they make me their lord (आर्यं (*āryaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टा (*tvaṣṭā*)—the god Tvaṣṭṛ
+- मह्यं (*mahyaṃ*)—for me
+- आयसं (*āyasaṃ*)—made of steel
+- वज्रं (*vajraṃ*)—the vajra weapon
+- अतक्षत् (*atakṣat*)—has made and given
+- (देवाः (*devāḥ*)—the gods)
+- मयि (*mayi*)—in me
+- क्रतुं (*kratuṃ*)—the work of slaying enemies
+- अपि अवृजन् (*api avṛjan*)—have concentrated
+- मम (*mama*)—my
+- अनीकं (*anīkaṃ*)—army
+- सूर्यस्येव (*sūryasyeva*)—like the sharp rays of the Sun
+- दुस्तरं (*dustaraṃ*)—impossible to withstand
+- मां (*māṃ*)—me
+- कृतेन (*kṛtena*)—on account of what has now been done
+- कर्त्वेन (*kartvena*)—on account of the Vṛtra-slaying and other deeds to be done hereafter
+- आर्यंति (*āryaṃti*)—they approach, regarding me as lord
+
+##### भावार्थ (Bhāvārtha)
+
+The god Tvaṣṭṛ made for me a vajra weapon of steel. The gods have concentrated and established in me all works of the power to destroy enemies. My army is insupportable, like the sharp rays of the Sun. On account of the deeds of valour that I have now done and shall do hereafter, people approach me, regarding me as their lord.
+
+##### English translation
+For me Twashtri fabricated the iron thunderbolt: in me the gods have concentered pious acts : my lustre is insupportable, like that of the
+
+### Printed p. 149
+Sun : men acknowledge me as lord ia consequence of what I have done, and of what I shall do.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमे॒तं ग॒व्यय॒मश्वं॑ प॒शुं पु॑री॒षिणं॒ साय॑केना हिर॒ण्ययं॑  
+> पु॒रू स॒हस्रा॒ नि शि॑शामि दा॒शुषे॒ यन्मा॒ सोमा॑स उ॒क्तिनो॒  ॑
+> अमंदिषुः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । एतं । गव्ययं । अश्वं । पशुं । पुरीषिणं । सायकेन । हिरण्ययं ॥  
+> पुरु । सहस्रा । नि । शिशामि । दाशुषे। यत् । मा । सोमासः । उक्तिनः । अमंदिषुः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमेतं गव्ययं गोमयमश्वमश्वमयं हिरण्ययं हिरण्यालंकारो
+> पेतं पुरीषिणं। पुरीषमुदकं क्षीररूपं। तद्वंतं पशुं शत्रुसंबंधिनं । जात्येकवचनं । पशुसंघमित्यर्थः । तं । सायकेनायुधेनाजयं । तथा पुरु पुरूणि
+> सहस्रा सहस्राणि शस्त्राणि नि शिशामि संस्करोमि दाशुशे हर्विदत्तवते यजमानाय+
+> वैरिनाशायेत्यर्थः । कदेति उच्यते । यद्यदा मा मां सोमासः सोमा उक्किनः
+> शस्त्रोपेताः संतः अथवा सोमेन शस्त्रैश्चोपेता यजमाना अमंदिषुः
+> तर्पयंति ॥
+
+##### Gist of the bhāṣya
+
+"I conquered with the arrow (सायकेन (*sāyakena*)), the weapon, this पशुं (*paśuṃ*) of the enemy": गव्ययं (*gavyayaṃ*) means consisting of cows, अश्वं (*aśvaṃ*) consisting of horses, हिरण्ययं (*hiraṇyayaṃ*) furnished with golden ornaments, पुरीषिणं (*purīṣiṇaṃ*) having पुरीष (*purīṣa*), which here is water in the form of milk. The singular पशुं (*paśuṃ*) is generic, meaning a herd of cattle. Likewise I sharpen (नि शिशामि (*ni śiśāmi*), prepare) many thousands of weapons for the sacrificer who has given oblations, that is, for the destruction of his foes. When? यत् (*yat*), when the Somas, together with praises (उक्तिनः (*uktinaḥ*), furnished with śastras), or the sacrificers furnished with Soma and śastras, have delighted (अमंदिषुः (*amaṃdiṣuḥ*), satisfied) me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- मा (*mā*)—me
+- सोमासः (*somāsaḥ*)—the Soma juices
+- उक्तिनः (*uktinaḥ*)—offered by the sacrificers with mantras
+- अमंदिषुः (*amaṃdiṣuḥ*)—satisfy; then
+- आहं (*āhaṃ*)—I
+- गव्ययं (*gavyayaṃ*)—that which has cows
+- अश्वं (*aśvaṃ*)—that which has horses
+- हिरण्ययं (*hiraṇyayaṃ*)—that which is furnished with golden ornaments
+- पुरीषिणं (*purīṣiṇaṃ*)—that which has milk
+- पशुं (*paśuṃ*)—the herd of cattle in the enemy's possession
+- सायकेन (*sāyakena*)—with the weapon I shall conquer (and for the slaying of enemies)
+- पुरु (*puru*)—great
+- सहस्रा (*sahasrā*)—thousands of weapons
+- दाशुषे (*dāśuṣe*)—for the sacrificer who has offered me oblations
+- नि शिशामि (*ni śiśāmi*)—I shall sharpen
+
+### Printed p. 150
+
+##### भावार्थ (Bhāvārtha)
+
+When I am satisfied with the Soma juices that the sacrificers offer me with mantras, then, in order to win from the enemies, for the sacrificers who have offered me oblations, the cows, horses, golden ornaments and cows that give much milk which the enemies possess, I shall sharpen my weapon, and with those great thousands of weapons I shall conquer the enemies.
+
+##### English translation
+(I conquered) by my shaft this (wealth) comprehending cows, horses, herds, water, and gold; I give many thousands to the donor(of the oblation) when libations and praises have afforded me delight.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमिंद्रो॒ न परा॑ जिग्न्य॒ इद्दनं॒ न मृ॒त्युवेन॑ तस्थे॒ कदा॑ च॒न ।  
+> सोम॒मिन्मा॑ सु॒न्वंतो॑ याचता॒ वसु॒ न मे॑ पूरवः स॒ख्ये  ॑
+> रिषाधन ॥ ५ ॥  
+> रिसाधन ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । इंद्रः । न । परा । जिग्ये । इत् । धनं । न । मृत्यवे । अव । तस्थे । कदा । चन॥  
+> सोमं । इत् । मा । सुन्वंतः । याचतः । वसु । न । मे । पूरवः। सख्ये । रिषाथन॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो धनस्य सर्वस्य स्वाम्यहं धनमात्मीयं न परा जिग्य इत् । नैव
+> पराभावयामि । मदीयं धनं न पराभूयत इत्यर्थः । किंचाहं मृत्यवे
+> सर्वेषां मारकाय कदा चन कदापि नाव तस्थे । नावस्थितो भवामि । इंद्रभक्ता न
+> मृत्युभाजो भवंति किल किमु वक्तव्यमिंद्रस्य मृत्युविरहे । यस्मादेवं तस्मात्सोमं सुन्वंतो हे यजमानाः वसु युष्मदभिमतं धनं मेन्मामेव
+> याचत । हे पूरवो मनुष्याः मे सख्ये न रिषाथन । मा रिष्टा भवथ । मत्सख्यं
+> मा विनाशयत ॥
+
+##### Gist of the bhāṣya
+
+I, Indra, lord of all wealth, never let my wealth be overcome (परा जिग्ये (*parā jigye*)): my wealth is not defeated. Moreover I never (कदा चन (*kadā cana*)) submit (अव तस्थे (*ava tasthe*)) to मृत्यवे (*mṛtyave*), death, the slayer of all. Devotees of Indra do not partake of death, so what need to speak of Indra, who is without death? Therefore, O sacrificers who press Soma, ask (याचत (*yācata*)) me alone for the wealth (वसु (*vasu*)) you desire. O पूरवः (*pūravaḥ*), men, do not suffer harm (रिषाथन (*riṣāthana*)) in my friendship; do not destroy my friendship.
+
 ---
 
-**Progress note:** Done through printed p. 144. pp. 139-144 (batch API)
+**Progress note:** Done through printed p. 150. pp. 145-150 (batch API)
