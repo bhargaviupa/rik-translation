@@ -20232,6 +20232,251 @@ O Soma, being well pressed, flow on all sides for the sake of Indra; go, release
 
 O Soma-god, being well pressed, flow for Indra's drinking. May our disease go far away together with the demons. May sinners not attain the delight obtained by drinking your juice. May your juices be possessed of wealth in our sacrifice.
 
+### Printed p. 540
+
+##### English translation
+Flow forth, Soma, well-effused for Indra ; may disease and the Rakshasas be (kept) far off ; let not the double-dealers be exhilarated by the liquor ; may the Soma-juices be full of wealth at this (sacrifice).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मान्स॑म॒र्ये प॑वमान चोदय॒ दक्षो॑ दे॒वाना॒मसि॒ हि प्रि॒यो मदः॑ ।  
+> ज॒हि शत्रूँ॑र॒भ्या भं॑दनाय॒तः पिबें॑द्र॒ सोम॒मव॑ नो॒ मृधो॑ जहि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मान् । सऽमर्ये । पवमान । चोदय । दक्षः । देवानाम् । असि । हि । प्रियः । मदः ।  
+> जहि । शत्रून् । अभि । आ । भंदनाऽयतः । पिब । इंद्र । सोमम् । अव । नः । मृधः । जहि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम अस्मान् समर्ये संग्रामे चोदय प्रेरय। दक्षः हि असि समर्थः खलु भवसि देवानां मध्ये । यद्वा । देवानां प्रीणनाय दक्षोऽसि । यद्वा । दक्षस्त्वं देवानां प्रियः प्रियकरो मदः मादयितासि हि । जहि च शत्रून् अस्माकम् । अभ्या गच्छ चास्मान् प्रति भंदनायतः । भंदनाः स्तुतयः । भंदतेः स्तुतिकर्मणः । ता इच्छतः । पिब च इंद्र सोमम् अव जहि च नः अस्माकं मृधः संग्रामात् ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, urge us on in battle. You are दक्षः (*dakṣaḥ*), that is, capable, among the gods. Or else: you are skilled in pleasing the gods. Or else: being skilled, you are dear to the gods, the one who gladdens them. Slay our enemies. And come toward us who are भंदनायतः (*bhaṃdanāyataḥ*): भंदनाः (*bhaṃdanāḥ*) are praises, the root भंद (*bhaṃda*) being used in the sense of praising, and we desire them. And, Indra, drink the Soma, and drive away from us those who harm us in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-god
+- अस्मान् (*asmān*)—us
+- समर्ये (*samarye*)—for battle
+- चोदय (*codaya*)—urge on
+- देवानां (*devānāṃ*)—among the gods
+- दक्षः आसि हि (*dakṣaḥ āsi hi*)—you are indeed capable for this work **NOTE**
+
+### Printed p. 541
+
+- प्रियः (*priyaḥ*)—the one who causes love
+- मदः (*madaḥ*)—and the one who causes delight
+- शत्रून् (*śatrūn*)—our enemies
+- जहि (*jahi*)—conquer
+- भंदनायतः (*bhaṃdanāyataḥ*)—to us who desire to praise you
+- अभि आ (*abhi ā*)—be gracious
+- इंद्र (*iṃdra*)—O Indra
+- सोमं (*somaṃ*)—the Soma
+- पिब (*piba*)—drink
+- नः (*naḥ*)—our
+- मृधः (*mṛdhaḥ*)—enemies who do harm
+- अव जहि (*ava jahi*)—defeat and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, urge us on to battle. Among all the gods you are capable for this work. You are the one who causes love and delight. Conquer our enemies. Be gracious to us who desire to praise you. O Indra, drink the Soma. Defeat and destroy our enemies who do harm.
+
+##### English translation
+Purified (Soma), animate us in battle ; for you are powerful, dear to the gods, the exhilarator. Slay our foes, approach (us) who desire (to propitiate you by) praises ; Indra, drink the Soma, destroy our adversaries.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद॑ब्ध इंदो पवसे म॒दिंत॑म आ॒त्मेंद्र॑स्य भवसि धा॒सिरु॑त्त॒मः ।  
+> अ॒भि स्व॑रंति ब॒हवो॑ मनी॒षिणो॒ राजा॑नम॒स्य भुव॑नस्य निंसते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदब्धः । इंदो इति । पवसे । मदिन्ऽतमः । आत्मा । इंद्रस्य । भवसि । धासिः । उत्ऽतमः ।  
+> अभि । स्वरंति । बहवः । मनीषिणः । राजानम् । अस्य । भुवनस्य । निंसते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो क्लिद्यमान सोम अदब्धः अहिंसितः मदिंतमः मादयितृतमस्त्वं पवसे पूयसे । आत्मा स्वयमेव उत्तमः त्वम् इंद्रस्य धासिः अन्नं भवसि । अस्य भुवनस्य राजानं सोमं बहवो मनीषिणः स्तोतारः अभि स्वरंति अभिष्टुवंति । निंसते गच्छंति च ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma who are being moistened, you are अदब्धः (*adabdhaḥ*), unharmed, and most exhilarating, and you flow purified. You yourself, the best, become the food of Indra. The many wise ones, the praisers, praise Soma, the king of this world, and approach him.
+
+### Printed p. 542
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-god
+- अदब्धः (*adabdhaḥ*)—unharmed
+- मदिंतमः (*madiṃtamaḥ*)—and most delight-causing, you
+- पवसे (*pavase*)—flow
+- आत्मा (*ātmā*)—self-impelled
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- उत्तमः (*uttamaḥ*)—excellent
+- धासिः (*dhāsiḥ*)—in the form of food
+- भवसि (*bhavasi*)—you are
+- अस्य भुवनस्य (*asya bhuvanasya*)—of all this world
+- राजानं (*rājānaṃ*)—Soma, the lord
+- बहवः (*bahavaḥ*)—many
+- मनीषिणः (*manīṣiṇaḥ*)—wise men
+- अभि स्वरंति (*abhi svaraṃti*)—praise
+- निंसते (*niṃsate*)—take refuge in
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, unharmed and most delight-causing, you flow. Self-impelled, you are food for Indra. Many wise men praise and take refuge in Soma, the lord of the whole world.
+
+##### English translation
+You flow, Indu, the inviolable, the most exhilarating ; you are yourself) the best support of Indra ; many sages approach and glorify you, the ruler of this world.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑णीथः श॒तधा॑रो॒ अद्भु॑त॒ इंद्रा॒येंदुः॑ पवते॒ काम्यं॒ मधु॑ ।  
+> जय॒न्क्षेत्र॑म॒भ्य॑र्षा॒ जय॑न्न॒प उ॒रुं नो॑ गा॒तुं कृ॑णु सोम मीढ्वः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रऽनीथः । शतऽधारः । अद्भुतः । इंद्राय । इंदुः । पवते । काम्यम् । मधु ।  
+> जयन् । क्षेत्रम् । अभि । अर्ष । जयन् । अपः । उरुम् । नः । गातुम् । कृणु । सोम । मीढ्वः ॥ ४ ॥
+
+### Printed p. 543
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रनीथः बहुप्रकारनयनः शतधारः अपरिमितधारोपेतः अद्भुतः आश्चर्यकरो महान् इंदुः इंद्राय काम्यं मधु पवते । किंच क्षेत्रम् अस्मभ्यम् अपः च जयन् अभ्यर्ष अभिगच्छ पवित्रम् । हे सोम मीढ्वः सेक्तः गातुं मार्गं नः अस्माकम् उरुं विस्तीर्णं कृणु कुरु ॥
+
+##### Gist of the bhāṣya
+
+Indu, who is सहस्रनीथः (*sahasranīthaḥ*), leading in many ways, शतधारः (*śatadhāraḥ*), endowed with countless streams, and अद्भुतः (*adbhutaḥ*), wonderful and great, flows the desirable honey for Indra. Further, winning for us the field and the waters, approach the filter. O Soma, मीढ्वः (*mīḍhvaḥ*), sprinkler, make our path wide.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रनीधः (*sahasranīdhaḥ*)—the guide of many **NOTE**
+- शतधारः (*śatadhāraḥ*)—having streams of many kinds
+- अद्भुतः (*adbhutaḥ*)—and wonderful
+- इंदुः (*iṃduḥ*)—Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- काम्यं (*kāmyaṃ*)—attractive
+- मधु (*madhu*)—and savoury
+- पवते (*pavate*)—flows
+- सोम (*soma*)—O Soma-god
+- क्षेत्रं (*kṣetraṃ*)—fertile land
+- अपः (*apaḥ*)—and water
+- जयन् (*jayan*)—acquiring for us
+- अभ्यर्ष (*abhyarṣa*)—approach us
+- मिड्वः (*miḍvaḥ*)—you who rain down desires **NOTE**
+- नः (*naḥ*)—our
+- गातुं (*gātuṃ*)—path
+- उरु (*uru*)—broad
+- कृणु (*kṛṇu*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the guide of many, having streams of many kinds, and wonderful, flows attractive and savoury for Indra. O Soma-god, acquiring for us fertile land and water, approach us. You who rain down desires, make our path broad.
+
+##### English translation
+The guide of thousands, flowing in a hundred streams, marvellous, Indu fiows **NOTE** forth for Indra, (his) beloved beverage ; approach (the filter) winning (us) land winning water, O Soma, sprinkler, make our path broad.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कनि॑क्रदत्क॒लशे॒ गोभि॑रज्यसे॒ व्य१॒॑व्ययं॑ स॒मया॒ वार॑मर्षसि ।  
+> म॒र्मृ॒ज्यमा॑नो॒ अत्यो॒ न सा॑न॒सिरिंद्र॑स्य सोम ज॒ठरे॒ सम॑क्षरः ॥ ५ ॥
+
+### Printed p. 544
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कनिक्रदत् । कलशे । गोभिः । अज्यसे । वि । अव्ययम् । समया । वारम् । अर्षसि ।  
+> मर्मृज्यमानः । अत्यः । न । सानसिः । इंद्रस्य । सोम । जठरे । सम् । अक्षरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम कनिक्रदत् शब्दं कुर्वन् कलशे वर्तमानः गोभिः पयोभिः अज्यसे सिक्तो भवसि । अव्ययम् अविमयं वारं वालं दशापवित्रं समया तत्समीपे वि अर्षसि विविधं गच्छसि । मर्मृज्यमानः शोध्यमानः अत्यो न अश्व इव सानसिः संभजनशीलस्त्वं हे सोम इंद्रस्य जठरे समक्षरः सम्यक् क्षरसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, crying aloud, abiding in the vessel, you are sprinkled with the cows, that is, with milk. You move in many ways near the वारं (*vāraṃ*), the hair of the ten-fold filter, made of wool. Being cleansed like a horse, O Soma, you who are inclined to share, flow well into the belly of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god) कनिक्रदत् (*kanikradat*)—crying aloud
+- कलशे (*kalaśe*)—you who are in the Droṇakalaśa
+- गोभिः (*gobhiḥ*)—with milk
+- अज्यसे (*ajyase*)—are mixed
+- अव्ययं (*avyayaṃ*)—made of wool
+- वारं (*vāraṃ*)—of the threads of the ten-fold filter
+- समया (*samayā*)—in the middle
+- व्यर्षसि (*vyarṣasi*)—you flow in many ways
+- सोम (*soma*)—O Soma-god
+- सानसिः (*sānasiḥ*)—you who are to be worshipped **NOTE**
+- मर्मृज्यमानः (*marmṛjyamānaḥ*)—having been cleansed
+- अत्यो न (*atyo na*)—like a horse
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरे (*jaṭhare*)—in the belly
+- समक्षरः (*samakṣaraḥ*)—you have entered
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, crying aloud, you are mixed with milk in the Droṇakalaśa. You flow in many ways in the middle of the threads of the ten-fold filter made of wool. O Soma-god, you who are to be worshipped, having been cleansed, you have entered the belly of Indra like a horse.
+
+##### English translation
+Crying aloud you are blended in the pitcher with curds and milk, you pass through the woollen fleece in the midst ; being cleansed like a horse, distributing (gifts), you flow, Soma, into Indra's belly.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒दुः प॑वस्व दि॒व्याय॒ जन्म॑ने स्वा॒दुरिंद्रा॑य सु॒हवी॑तुनाम्ने ।  
+> स्वा॒दुर्मि॒त्राय॒ वरु॑णाय वा॒यवे॒ बृह॒स्पत॑ये॒ मधु॑माँ॒ अदा॑भ्यः ॥ ६ ॥
+
+### Printed p. 545
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादुः । पवस्व । दिव्याय । जन्मने । स्वादुः । इंद्राय । सुहवीतुऽनाम्ने ।  
+> स्वादुः । मित्राय । वरुणाय । वायवे । बृहस्पतये । मधुऽमान् । अदाभ्यः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम स्वादुः त्वं दिव्याय जन्मने देवगणाय पवस्व । तथा सुहवीतुनाम्ने शोभनाह्वाननामधेयाय इंद्राय स्वादुः त्वं पवस्व । मित्राय वरुणाय वायवे बृहस्पतये च पवस्व मधुमान् मधुररसः अदाभ्यः अन्यैरहिंस्यस्त्वम् ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are sweet, flow for the divine birth, that is, for the company of the gods. Likewise, sweet, flow for Indra, whose name is सुहवीतुनाम्ने (*suhavītunāmne*), one of beautiful invocation. Flow for Mitra, Varuṇa, Vāyu and Bṛhaspati, you who are मधुमान् (*madhumān*), of sweet juice, and अदाभ्यः (*adābhyaḥ*), not to be harmed by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god) स्वादुः (*svāduḥ*)—you who are savoury
+- दिव्याय जन्मने (*divyāya janmane*)—for the company of gods born in the world of the gods
+- पवस्व (*pavasva*)—flow
+- सुहवीतुनाम्ने (*suhavītunāmne*)—having a name worthy of excellent invocation
+- इंद्राय (*iṃdrāya*)—for Indra
+- स्वादुः (*svāduḥ*)—flow savoury
+- मधुमान् (*madhumān*)—and possessing sweetness
+- अदाभ्यः (*adābhyaḥ*)—and unharmed, you
+- मित्राय (*mitrāya*)—for Mitra
+- वरुणाय (*varuṇāya*)—for Varuṇa
+- वायवे (*vāyave*)—for Vāyu
+- बृहस्पतये (*bṛhaspataye*)—for Bṛhaspati
+- स्वादुः (*svāduḥ*)—flow savoury
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you who are savoury, flow for the company of gods born in the world of the gods. Flow savoury for Indra, who has a name worthy of excellent invocation. You who are possessed of sweetness and unharmed, flow savoury for Mitra, for Varuṇa, for Vāyu and for Bṛhaspati.
+
+##### English translation
+Flow sweet for the celestial people, flow sweet for Indra, whose name is worthily invoked ; sweet for Mitra, Varuna, Vayu, Brihaspati, you who are sweet-flavoured, inviolable.
+
 ---
 
-**Progress note:** Done through printed p. 539. Mandala 9 Sukta 84 Rk 2-5 (end), Sukta 85 Rk 1
+**Progress note:** Done through printed p. 545. Mandala 9 Sukta 85 Rk 1 (end) to Rk 6
