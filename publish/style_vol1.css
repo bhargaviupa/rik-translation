@@ -23,3 +23,7 @@ h3 { font-weight: 700; }
 h4 { font-weight: 700; }
 .toc li.ch a::after { content: leader('.') target-counter(attr(href), page); }
 blockquote p { margin: .25em 0; }
+
+/* user, Nov 26 2026: nothing is bold except the chapter headings */
+strong, b, th, dt, h3, h4, h5, h6, p > strong:only-child, .toc li.su, .toc li.ch.sk, span.longnote::before, .noteblock::before { font-weight: 400 !important; }
+h1.part, h2.chapter { font-weight: 700 !important; }

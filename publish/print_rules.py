@@ -131,6 +131,18 @@ def prose_ch(b):
         segs[k] = re.sub(r"[\w'’ʼĀ-ſḀ-ỿ]+", lambda m: word(m.group(0)), s)
     return ''.join(segs)
 
+def no_bold(b):
+    """user, Nov 26 2026: nothing is bold except the chapter headings (the '# ' and '## ' lines, set in bold by the style sheet)"""
+    out = []
+    for l in b.split('\n'):
+        if re.match(r'^#{1,2} ', l): out.append(l); continue
+        n = l.count('**')
+        l2 = re.sub(r'\*\*\*(.+?)\*\*\*', r'*\1*', l)
+        l2 = re.sub(r'\*\*(.+?)\*\*', r'\1', l2).replace('**', '')
+        if l2 != l: STATS['bold marks removed'] += max(1, n // 2)
+        out.append(l2)
+    return '\n'.join(out)
+
 def apply(md, report=False):
     STATS.clear()
     md = md.replace('**Embedded English translation, as given in the source:**', '**Printed English translation:**')
@@ -154,6 +166,7 @@ def apply(md, report=False):
                 for j in reversed(k): del lines[j]
                 b = '\n'.join(lines).rstrip('\n>').rstrip(); STATS['repeated translation lines dropped'] += 1
         res.append(b)
+    res = [no_bold(b) for b in res]
     md2 = '\n\n'.join(res) + '\n'
     if report: print(dict(STATS))
     return md2
