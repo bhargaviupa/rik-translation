@@ -19911,6 +19911,274 @@ The man who quickly brings Mitra and Varuṇa face to face, for the fulfilment o
 - देवतातये (*devatātaye*)—for the sacrifice
 - शशमे (*śaśame*)—prepares the oblation
 
+### Printed p. 519
+
+##### भावार्थ (Bhāvārtha)
+
+The man who quickly calls Mitra and Varuṇa to face the sacrificer who offers the oblation, for the fulfilment of his wish, that same man truly prepares the oblation for the sacrifice.
+
+##### English translation
+That man verily consecrates the oblation for the sacrifice, who brings, qucikly Mitra and Varuna to the offerer for the attainment of his desires.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वर्षि॑ष्ठक्षत्रा उरु॒चक्ष॑सा॒ नरा॒ राजा॑ना दीर्घ॒श्रुत्त॑मा ।  
+> ता बा॒हुता॒ न दं॒सना॑ रथर्यतः सा॒कं सूर्य॑स्य र॒श्मिभिः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वर्षिष्ठऽक्षत्रौ । उरुऽचक्षसा । नरा । राजाना । दीर्घश्रुत्ऽतमा ।  
+> ता । बाहुता । न । दंसना । रथर्यतः । साकम् । सूर्यस्य । रश्मिऽभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वर्षिष्ठक्षत्रौ अतिशयेन वृद्धबलौ उरुचक्षसा महादर्शनौ नरा नेतारौ कर्मणां राजाना दीप्यमानौ दीर्घश्रुत्तमा अतिशयेन विद्वांसौ ता तौ मित्रावरुणौ बाहुता न भुजाविव सूर्यस्य रश्मिभिः किरणैः साकं सह दंसना दंसनानि कर्माणि। ‘अप्नः' दंसः ' इति कर्मनाममु पाठात् । रथर्यतः प्राप्नुतः । यथा बाहू सह कर्म प्राप्नुतः तथा मित्रावरुणौ सह यज्ञं प्राप्नुत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Mitra and Varuṇa are exceedingly grown in strength, wide-seeing, leaders of rites, shining, and exceedingly learned. Like two arms, together with the rays of the sun, they together obtain the deeds, the rites (Sāyaṇa takes this from the Nighaṇṭu, where अप्नः (*apnaḥ*) and दंसः (*daṃsaḥ*) are read among the names of rite). The meaning is that, as the two arms together obtain a rite, so Mitra and Varuṇa together obtain the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वर्षिष्ठक्षत्रौ (*varṣiṣṭhakṣatrau*)—possessed of the greatest strength
+- उरुचक्षसा (*urucakṣasā*)—far-sighted
+- नरा (*narā*)—leaders of the rite
+- राजाना (*rājānā*)—shining
+- दीर्घश्रुत्तमा (*dīrghaśruttamā*)—exceedingly wise
+- ता (*tā*)—those Mitra and Varuṇa
+- बाहुता न (*bāhutā na*)—as if by the strength of their arms
+- सूर्यस्य (*sūryasya*)—of the sun
+- रश्मिभिः साकं (*raśmibhiḥ sākaṃ*)—together with the rays
+- दंसना (*daṃsanā*)—the rites
+- रथर्यतः (*ratharyataḥ*)—they carry out
+
+### Printed p. 520
+
+##### भावार्थ (Bhāvārtha)
+
+Those Mitra and Varuṇa, possessed of the greatest strength, far-sighted, leaders of the rite, shining and exceedingly wise, carry out the rites together with the rays of the sun, which are as if their arms.
+
+##### English translation
+Those two leaders of rites, great in might, far-seeing, resplendent, and most far-hearing, perform their deeds, like two arms, by the help of the rays of the sun.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यो वां॑ मित्रावरुणाजि॒रो दू॒तो अद्र॑वत् ।  
+> अयः॑शीर्षा॒ मदे॑रघुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यः । वाम् । मित्रावरुणा । अजिरः । दूतः । अद्रवत् ।  
+> अयःऽशीर्षा । मदेऽरघुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवाम् अजिरः गमनशीलः यः यजमानः प्र अद्रवत् अभिगच्छति स देवानां दूतः भवति । अयःशीर्षा हिरण्यालंकृतशिरस्कश्च भवति । मदेरघुः मदकरे धने गंता च भवति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, the sacrificer who, swift of movement, runs forward toward you becomes a messenger of the gods; he becomes one whose head is adorned with gold; and he becomes a goer to wealth that gives delight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- अजिरः (*ajiraḥ*)—swift of movement
+- यः (*yaḥ*)—which sacrificer
+- वां (*vāṃ*)—to you
+- प्र अद्रवत् (*pra adravat*)—he who quickly comes and joins
+- दूतः (*dūtaḥ*)—becomes a messenger of the gods
+- अयःशीर्षा (*ayaḥśīrṣā*)—wearing a crown of metal
+- मदेरघुः (*maderaghuḥ*)—obtains wealth that gives joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the swift-moving sacrificer who quickly comes and joins you becomes a messenger of the gods. Wearing a crown of metal, he obtains wealth that gives joy.
+
+### Printed p. 521
+
+##### English translation
+Mitra, and Varuna, he who hastens to appear before you, becomes the messenger of the gods ; he wears an iron helmet, he exults in his wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the words अयः शीर्षा (*ayaḥ śīrṣā*) Sāyaṇa has given the meaning a head adorned with a crown made of gold.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यः सं॒पृच्छे॒ न पुन॒र्हवी॑तवे॒ न सं॑वा॒दाय॒ रम॑ते ।  
+> तस्मा॑न्नो अ॒द्य समृ॑तेरुरुष्यतं बा॒हुभ्यां॑ न उरुष्यतम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यः । सम्ऽपृच्छे । न । पुनः । हवीतवे । न । सम्ऽवादाय । रमते ।  
+> तस्मात् । नः । अद्य । सम्ऽऋतेः । उरुष्यतम् । बाहुऽभ्याम् । नः । उरुष्यतम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः शत्रुः संपृच्छे संप्रश्नाय न रमते न क्रीडते न च पुनःपुनः हवीतवे हवनाय रमते न च संवादाय रमते तस्मात् शत्रोः समृतेः संग्रामात् नः अस्मान् अद्य उरुष्यतं हे मित्रावरुणौ युवां रक्षतम् । किंच तस्य शत्रोः बाहुभ्यां नः अस्मान् उरुष्यतं रक्षतम् ॥
+
+##### Gist of the bhāṣya
+
+The enemy who takes no delight in asking after one (संपृच्छे (*saṃpṛcche*), for enquiry), who does not play, and who takes no delight in calling again and again (हवीतवे (*havītave*), for calling), and takes no delight in conversation: from the battle with that enemy, O Mitra and Varuṇa, protect us today. And further, protect us from the arms of that enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रापरुणरे (*mitrāparuṇare*)—O Mitra and Varuṇa
+- यः (*yaḥ*)—which enemy
+- संपृच्छे (*saṃpṛcche*)—for asking after our welfare and the like with pleasure
+- न रमते (*na ramate*)—does not wish
+- न हवीतवे (*na havītave*)—does not wish even to call us again and again
+- न च संवादाय (*na ca saṃvādāya*)—and does not wish even to talk with us
+- तस्मात् (*tasmāt*)—from the
+- संवृतेः (*saṃvṛteḥ*)—battle that takes place with such an enemy
+- नः (*naḥ*)—us
+- अद्य (*adya*)—now
+- उरुष्यतं (*uruṣyataṃ*)—protect
+- नः (*naḥ*)—us
+- बाहुभ्यां (*bāhubhyāṃ*)—from his arms also
+- उरुष्यतं (*uruṣyataṃ*)—protect
+
+### Printed p. 522
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the enemy who does not wish with pleasure to ask after our welfare and the like, does not wish to call us again and again, and does not wish to talk with us: from the battle that takes place with such an enemy protect us, and protect us from his arms also.
+
+##### English translation
+He who has no pleasure in questioning, nor in repeated calling nor in dialogue,—defend us to-day from him and from his encounter, defend us from his arms.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मि॒त्राय॒ प्रार्य॒म्णे स॑च॒थ्य॑मृतावसो ।  
+> व॒रू॒थ्यं१॒॑ वरु॑णे॒ छंद्यं॒ वच॑ स्तो॒त्रं राज॑सु गायत ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मित्राय । प्र । अर्यम्णे । सचथ्यम् । ऋतवसो इत्यृतऽवसो ।  
+> वरूथ्यम् । वरुणे । छंद्यम् । वचः । स्तोत्रम् । राजऽसु । गायत ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतवसो यज्ञधन मित्राय सचथ्यं सेवार्हं वरूथ्यं यज्ञगृहे भवं च स्तोत्रं प्र गायत प्रकर्षेण गायत। अर्यम्णे च प्र गायत। वरुणे छंद्यं प्रीणनसाधनं चैतादृशं वचः प्र गायत । प्रगायतेति बहुवचनं पूजार्थम् । एतदेव दर्शयति । राजसु मित्रादिषु राजसु स्तोत्रं गायत पठत । मित्रादींस्त्रीन्राज्ञः स्तुतेति समुदायार्थः ॥ ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+O Ṛtavasu, you whose wealth is the sacrifice, sing forth to Mitra a hymn that is worthy of service (सचथ्यं (*sacathyaṃ*)) and that has its place in the sacrificial house (वरूथ्यं (*varūthyaṃ*)); sing forth with vigour. And sing forth to Aryaman. To Varuṇa sing forth a speech of this kind, छंद्यं (*chaṃdyaṃ*), a means of pleasing. The plural in प्रगायत (*pragāyata*) is for honour. He shows this very thing: sing a hymn, recite it, among the kings, Mitra and the others. The sum of the meaning: praise the three kings, Mitra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतवसो (*ṛtavaso*)—O singer whose wealth is the sacrifice
+- मित्राय (*mitrāya*)—with Mitra in view
+- सचथ्यं (*sacathyaṃ*)—worthy of service
+- वरूथ्यं (*varūthyaṃ*)—made in the sacrificial house: a hymn, recite it in the form of song
+
+### Printed p. 523
+
+- प्र (गायत) (*pra (gāyata)*)—recite in the form of song
+- अर्यम्णे (*aryamṇe*)—with Aryaman also in view
+- वरुणे (*varuṇe*)—with Varuṇa in view
+- छंद्यं (*chaṃdyaṃ*)—pleasing
+- वचः (*vacaḥ*)—recite a praise
+- राजसु (*rājasu*)—praising Mitra and the other lords
+- स्तोत्रं (*stotraṃ*)—recite a hymn
+
+##### भावार्थ (Bhāvārtha)
+
+O singer whose wealth is the sacrifice, recite in the form of song, with Mitra in view, a hymn that is worthy of service and made in the sacrificial house. With Aryaman and Varuṇa in view, recite a praise that gives pleasure. Recite a praise that praises Mitra and the other lords.
+
+##### English translation
+O you rich in offerings, sing to mitra, sing to Aryaman, a reverential hymn produced in the sacrificial chamber ; sing a propitiating address to Varuna ; sing a hymn of praise to the kings.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि॑न्विरे अरु॒णं जेन्यं॒ वस्वेकं॑ पु॒त्रं ति॑सॄ॒णाम् ।  
+> ते धामा॑न्य॒मृता॒ मर्त्या॑ना॒मद॑ब्धा अ॒भि च॑क्षते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हिन्विरे । अरुणम् । जेन्यम् । वसु । एकम् । पुत्रम् । तिसॄणाम् ।  
+> ते । धामानि । अमृताः । मर्त्यानाम् । अदब्धाः । अभि । चक्षते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुणम् अरुणवर्णं जेन्यं जयसाधनं वसु वासकं तिसॄणां पृथिव्यादीनाम् एकं पुत्रं ते देवाः हिन्विरे प्रेरयंति त्रैलोक्यस्य तमोनिवारणाय । किंच अदब्धाः केनाप्यहिँसिताः अमृताः मरणरहिताः ते देवाः मर्त्यानां मनुष्याणां धामानि स्थानानि अभि चक्षते अभिपश्यंति ॥
+
+##### Gist of the bhāṣya
+
+The gods send forth the red-coloured one, the instrument of victory, the dweller, the one son of the three, earth and the others, for the removal of the darkness of the three worlds. And further, those gods, unharmed by any, immortal, free from death, look upon the abodes, the places, of mortals, of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुणं (*aruṇaṃ*)—the golden-hued
+- जेन्यं (*jenyaṃ*)—the accomplisher of victory
+- वसु (*vasu*)—the giver of dwelling
+- तिसृणां (*tisṛṇāṃ*)—of the three worlds, earth and the others
+- एकं (*ekaṃ*)—the one
+- पुत्रं (*putraṃ*)—the son, Sūrya
+- ते (*te*)—the gods
+- हिन्विरे (*hinvire*)—have sent for the removal of the darkness
+
+### Printed p. 524
+
+- अदब्धाः (*adabdhāḥ*)—who are unharmed
+- अमृताः (*amṛtāḥ*)—and free from the nature of death
+- ते (*te*)—those same gods
+- मर्त्यानां (*martyānāṃ*)—of men
+- धामानि (*dhāmāni*)—the places
+- अभि चक्षते (*abhi cakṣate*)—surround and look at
+
+##### भावार्थ (Bhāvārtha)
+
+The gods have sent for the removal of the darkness Sūrya, the golden-hued, the accomplisher of victory, the giver of dwelling, the one son of the three worlds, earth and the others. Those same gods, who are unharmed and free from the nature of death, surround all the places of men and look at them with keen sight.
+
+##### English translation
+It was these who sent the red victory-giving Vasu, the one son of the three (worlds) ; they, the invincible, the immoratal, overlook the abodes of men.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मे॒ वचां॒स्युद्य॑ता द्यु॒मत्त॑मानि॒ कर्त्वा॑ ।  
+> उ॒भा या॑तं नासत्या स॒जोष॑सा॒ प्रति॑ ह॒व्यानि॑ वी॒तये॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मे । वचांसि । उत्ऽयता । द्युमत्ऽतमानि । कर्त्वा ।  
+> उभा । यातम् । नासत्या । सऽजोषसा । प्रति । हव्यानि । वीतये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या नासत्यौ सत्यस्य प्रणेतारौ सजोषसा संगतौ उभा उभौ युवां मे जमदग्नेर्मम उद्यता उद्यतानि द्युमत्तमानि दीप्ततमानि वचांसि स्तोत्ररूपाणि वाक्यानि कर्त्वा कर्माणि च आ यातम् । किंच हव्यानि हवींषि वीतये भक्षणाय प्रति गच्छतम् ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, leaders of truth, united, both of you come to my, Jamadagni's, uplifted, brightest words, speech in the form of praises, and to the rites; and further, go to the oblations to eat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvins
+- उभा (*ubhā*)—both
+- सजोषसा (*sajoṣasā*)—united
+- मे (*me*)—my
+- उद्यता (*udyatā*)—which are uttered aloud and recited
+- द्युमत्तमानि (*dyumattamāni*)—of exceeding brightness
+- वचांसि (*vacāṃsi*)—to the words of praise
+- कर्त्वा (*kartvā*)—and to the rites, facing them **NOTE**
+- आ यातं (*ā yātaṃ*)—come
+- हव्यानि (*havyāni*)—the oblations
+- वीतये (*vītaye*)—to eat
+- प्रति (*prati*)—come
+
 ---
 
-**Progress note:** Done through printed p. 518. Ṛk 11-12 of Sūkta 100, Sūkta 101 introduction and Ṛk 1, pp. 513-518
+**Progress note:** Done through printed p. 524. Sūkta 101 Ṛk 1 end to Ṛk 7, pp. 519-524
