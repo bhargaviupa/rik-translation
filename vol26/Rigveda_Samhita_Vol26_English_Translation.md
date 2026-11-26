@@ -20725,6 +20725,212 @@ The many voices of the Venas praise (the Soma who dwells) in heaven, well-winged
 > ऊ॒र्ध्वो गं॑ध॒र्वो अधि॒ नाके॑ अस्था॒द्विश्वा॑ रू॒पा प्र॑ति॒चक्षा॑णो अस्य ।  
 > भा॒नुः शु॒क्रेण॑ शो॒चिषा॒ व्य॑द्यौ॒त्प्रारू॑रुच॒द्रोद॑सी मा॒तरा॒ शुचिः॑ ॥ १२ ॥
 
+### Printed p. 552
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । गंधर्वः । अधि । नाके । अस्थात् । विश्वा । रूपा । प्रतिऽचक्षाणः । अस्य ।  
+> भानुः । शुक्रेण । शोचिषा । वि । अद्यौत् । प्र । अरूरुचत् । रोदसी इति । मातरा । शुचिः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्ध्वः उन्नतः गंधर्वः रश्मीनां धारकः सोमः नाके आदित्ये अधि अस्थात् अधितिष्ठति ॥ किं कुर्वन् । अस्य आदित्यस्य विश्वा विश्वानि रूपाणि प्रतिचक्षाणः प्रतिपश्यन् । भानु: आदित्यः सोमाधिष्ठितः सन् शुक्रेण दीप्तेन शोचिषा तेजसा व्यद्यौत् विद्योतते । न केवलं स्वयमेव अपि तु मातरा निर्मात्र्यौ रोदसी द्यावापृथिव्यौ प्रारूरुचत् प्ररोचयति। शुचिः दीप्तः सूर्यः ॥११॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+Soma, the elevated one and the bearer of the rays (गंधर्वः (*gaṃdharvaḥ*)), takes his stand above in the world of the sun (नाके (*nāke*), glossed as आदित्ये (*āditye*)). What does he do there? He looks upon all the forms of this Āditya. The sun (भानुः (*bhānuḥ*), that is Āditya), presided over by Soma, shines with bright, radiant splendour. Nor does he shine only himself: he also makes the two mothers, the makers of the world, Heaven and Earth (रोदसी (*rodasī*)), shine brightly. शुचिः (*śuciḥ*) means the radiant Sūrya. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्ध्वः (*ūrdhvaḥ*)—the one who is in an elevated place
+- गंधर्वः (*gaṃdharvaḥ*)—the bearer of the rays, that is, Soma
+- अस्य (*asya*)—of Āditya
+- विश्वा (*viśvā*)—all
+- रूपा (*rūpā*)—forms
+- प्रतिचक्षणः (*praticakṣaṇaḥ*)—beholding **NOTE**
+- नाके (*nāke*)—in the world of Āditya
+- अध्यस्थात् (*adhyasthāt*)—is established
+- भानुः (*bhānuḥ*)—Āditya
+- शुक्रेण (*śukreṇa*)—with resplendent
+- शोचिषा (*śociṣā*)—brilliance
+- व्यदौत् (*vyadaut*)—shines **NOTE**
+- शुचिः (*śuciḥ*)—the radiant Sun
+- मातरा (*mātarā*)—the two that are the makers of the world
+- रोदसी (*rodasī*)—Heaven and Earth
+- प्रारूरुचत् (*prārūrucat*)—makes shine
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is in an elevated place and bears the rays, is established in the world of Āditya, beholding all the forms of Āditya. Āditya shines with resplendent brilliance. The radiant Sun makes shine Heaven and Earth, the makers of the world.
+
+##### English translation
+The elevated Gandharva abides above the sun contemplating all its forms; the sun shines with white light, radiant he illumines the creative heaven and earth.
+
+### Printed p. 553
+
+## Sūkta 86 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पंचमेऽनुवाक एकादश सूक्तानि । तत्र प्र ते ' इत्यष्टाचत्वारिंशदृचं प्रथमं सूक्तम् ॥ प्रथमदशर्चस्य आकृष्टा' इति माषा इति च द्विनामान ऋषिगणा द्रष्टारः । द्वितीयस्य दशर्चस्य सिकता इति नीवावरी इति द्विनामान ऋषिगणाः । तृतीयस्य दशर्चस्य पृश्नय इत्यजा इति च नामद्वयोपेता ऋषिगणाः । अदृष्टार्थमेषां द्विनामत्वमवगंतव्यम् । चतुर्थस्य दशर्चस्य आकृष्टा माषा इत्यादिद्विनामानस्त्रयो गणा द्रष्टारः । एवं चत्वारिंशद्गताः । अथ पंचानां भौमोऽत्रिर्ऋषिः । ततस्तिसृणां गृत्समदः । जगती छंदः । पवमानः सोमो देवता । तथा चानुक्रांतं----' प्र तेऽष्टाचत्वारिंशदृषिगणा दशर्चा आकृष्टा माषाः प्रथमे सिकता निवावरी द्वितीये पृश्नयोऽजास्तृतीये त्रयश्चतुर्थेऽत्रिः पंचांत्यास्तिस्रो गृत्समदः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The fifth anuvāka contains eleven sūktas. Of them the first, beginning प्र ते (*pra te*), has forty-eight Ṛks. For its first ten Ṛks the seers are the groups of seers with the two names आकृष्टा (*ākṛṣṭā*) and माषा (*māṣā*); for the second ten, the groups with the two names सिकता (*sikatā*) and नीवावरी (*nīvāvarī*); for the third ten, the groups with the two names पृश्नय (*pṛśnaya*) and अजा (*ajā*). The double names are to be understood as serving an unseen purpose. For the fourth ten, the three groups with the double names beginning with आकृष्टा माषा (*ākṛṣṭā māṣā*) are the seers. Thus forty Ṛks are gone. Then for five Ṛks the seer is Atri, son of Bhūmi; then for three Ṛks Gṛtsamada. The metre is Jagatī; the deity is Pavamāna Soma. The Anukramaṇikā is cited accordingly, giving the same assignment of seers. The application (viniyoga) has been stated.
+
+Anuvāda: In the fifth anuvāka of the ninth maṇḍala of the Ṛgveda-saṃhitā there are eleven sūktas. Of them this sūkta beginning प्र ते (*pra te*) is the first. It has forty-eight Ṛks. In this sūkta the seers of the first ten Ṛks (1-10) are the groups of seers with the two names Ākṛṣṭa and Māṣa; of the next ten Ṛks (11-20), the groups of seers named Sikatā and Nīvāvarī; of the next ten Ṛks (21-30), the groups of seers named Pṛśnaya and Ajā; of the next ten Ṛks (31-40), the three groups of seers in all, namely those named Ākṛṣṭa and Māṣa, those named Sikatā and Nīvārī, and those named Pṛśnaya and Ajā, are the seers. When forty Ṛks have thus passed, the seer of the five Ṛks from the forty-first onward (40-45) is Atri. Of the next three Ṛks (46-48) the seer is Gṛtsamada; the deity is Pavamāna Soma; the metre is Jagatī. In the Anukramaṇikā it is said: प्र तेऽष्टाचत्वारिंशदृषिगणा दशर्चा आकृष्टा माषाः प्रथमे सिकता नीवावरी द्वितीये पृश्नयोऽजास्त्रृतीये त्रयश्चतुर्थेऽत्रिः पंचांत्यास्तिस्रो गृत्समदः (*pra te 'ṣṭācatvāriṃśadṛṣigaṇā daśarcā ākṛṣṭā māṣāḥ prathame sikatā nīvāvarī dvitīye pṛśnayo 'jāstrṛtīye trayaścaturthe 'triḥ paṃcāṃtyāstisro gṛtsamadaḥ*). The application (viniyoga) has been stated before. **NOTE**
+
+### Printed p. 554
+
+- Maṇḍala 9; Anuvāka 5; Sūkta 86
+- Aṣṭaka 7; Adhyāya 3; Varga 12, 13, 14, 15, 16, 17, 18, 19, 20, 21
+- Number of Ṛks in the sūkta: 48
+- Seers: Ṛks 1-10 आकृष्णा माषाः (*ākṛṣṇā māṣāḥ*) **NOTE**; 11-20 सिकता निवावरी (*sikatā nivāvarī*); 21-30 पृश्नयोजाः (*pṛśnayojāḥ*) **NOTE**; 31-40 the three groups of seers; 41-45 अत्रिः (*atriḥ*); 46-48 गृत्समदः (*gṛtsamadaḥ*)
+- Deity: पवमानः सोमः (*pavamānaḥ somaḥ*)
+- Metre: जगती (*jagatī*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र त॑ आ॒शवः॑ पवमान धी॒जवो॒ मदा॑ अर्षंति रघु॒जा इ॑व॒ त्मना॑ ।  
+> दि॒व्याः सु॑प॒र्णा मधु॑मंत॒ इंद॑वो म॒दिंत॑मासः॒ परि॒ कोश॑मासते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । आशवः । पवमान । धीऽजवः । मदाः । अर्षंति । रघुजाःऽइव । त्मना ।  
+> दिव्याः । सुऽपर्णाः । मधुऽमंतः । इंदवः । मदिन्ऽतमासः । परि । कोशम् । आसते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम ते तव आशवः व्याप्ताः धीजवः मनोवेगा: मदाः मदकरा रसाः अर्षंति गच्छंति । त्मना आत्मनैव । अनायासेनेत्यर्थः । क इव । रघुजाइव । रघुः। शीघ्रगा वडवाः । तत्र जाता रघुजाः । त इव निर्गतास्ते दिव्याः दिवि भवाः । अंतरिक्षे दशापवित्रे धार्यमाणा इत्यर्थः । सुपर्णाः सुपतनाः मधुमंतः माधुर्योपेताः मदिंतमासः अतिशयेन मादयितृतमाः इंदवः दीप्ता रसाः कोशं द्रोणकलशं परि आसते पर्युपविशंति ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, Soma who is being purified, your pervading (आशवः (*āśavaḥ*)), mind-swift (धीजवः (*dhījavaḥ*)), intoxicating (मदाः (*madāḥ*)) juices flow (अर्षंति (*arṣaṃti*), glossed as go) of themselves (त्मना (*tmanā*), that is by their own nature, without effort). Like what? Like रघुजा (*raghujā*): रघुः (*raghuḥ*) are swift mares, and those born of them are रघुजाः (*raghujāḥ*), the foals; as these dart forth, so do the juices. They are celestial (दिव्याः (*divyāḥ*)), that is, they are in heaven, held in the atmosphere in the ten-fold filter. They have a good flight (सुपर्णाः (*suparṇāḥ*)), are sweet (मधुमंतः (*madhumaṃtaḥ*), endowed with sweetness), are most exhilarating (मदिंतमासः (*madiṃtamāsaḥ*), intoxicating in the highest degree), and are bright juices (इंदवः (*iṃdavaḥ*)). They settle (आसते (*āsate*)) round the receptacle (कोशं (*kośaṃ*), the Droṇa-kalaśa).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva
+- ते (*te*)—your
+- आशवः (*āśavaḥ*)—the juices that pervade everywhere
+- धीजवः (*dhījavaḥ*)—that have the speed of thought
+- मदाः (*madāḥ*)—and that cause joy
+- रघुजा इव (*raghujā iva*)—like the foals of swift horses
+
+### Printed p. 555
+
+- त्मना (*tmanā*)—of their own impulse
+- प्रार्षंति (*prārṣaṃti*)—flow forth abundantly **NOTE**
+- दिव्याः (*divyāḥ*)—produced in the world of Dyaus
+- सुपर्णाः (*suparṇāḥ*)—having an excellent fall
+- मधुमंतः (*madhumaṃtaḥ*)—and endowed with sweetness; these
+- इंदवः (*iṃdavaḥ*)—Soma-juices
+- मदिंतमासः (*madiṃtamāsaḥ*)—being exceedingly agreeable to the taste
+- कोशंपरि (*kośaṃpari*)—around the Droṇa-kalaśa
+- आसते (*āsate*)—are established
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your juices, which pervade everywhere, have the speed of thought and cause joy, flow forth abundantly of their own impulse, like the foals of swift horses. The Soma-juices, produced in the world of Dyaus, of excellent fall and endowed with sweetness, being exceedingly agreeable to the taste, are established around (inside) the Droṇa-kalaśa.
+
+##### English translation
+Your (juices), purified (Soma), all pervading, quick as thought, go of themselves like the offspring of swift (mares) ; the celestial well-winged sweet-flavoured juices, great exciters of exhilaration, alight upon the receptacle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ मदा॑सो मदि॒रास॑ आ॒शवोऽसृ॑क्षत॒ रथ्या॑सो॒ यथा॒ पृथ॑क् ।  
+> धे॒नुर्न व॒त्सं पय॑सा॒भि व॒ज्रिण॒मिंद्र॒मिंद॑वो॒ मधु॑मंत ऊ॒र्मयः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । मदासः । मदिरासः । आशवः । असृक्षत । रथ्यासः । यथा । पृथक् ।  
+> धेनुः । न । वत्सम् । पयसा । अभि । वज्रिणम् । इंद्रम् । इंदवः । मधुऽमंतः । ऊर्मयः ॥ २ ॥
+
+### Printed p. 556
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र असृक्षत प्रसृज्यंते ते तव मदिरासः मदकराः आशवः व्याप्ताः मदासः मदा रसाः । क इव । रथ्यासः रथ्या अश्वाः ते यथा तथा पृथक् प्रसृज्यंते । ते मधुमंतः माधुर्योपेताः ऊर्मयः प्रवृद्धरसाः इंदवः सोमाः धेनुः पयसा वत्सम् इव स्वरसेन वज्रिणमिंद्रम् अभि गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+Your (ते (*te*)) intoxicating (मदिरासः (*madirāsaḥ*)), pervading (आशवः (*āśavaḥ*)) juices (मदासः (*madāsaḥ*)) are let loose (असृक्षत (*asṛkṣata*), that is, sent forth) separately, like chariot-horses (रथ्यासः (*rathyāsaḥ*), horses that draw the chariot). These sweet (मधुमंतः (*madhumaṃtaḥ*)) waves (ऊर्मयः (*ūrmayaḥ*), juices that have swelled), the Soma-drops (इंदवः (*iṃdavaḥ*)), go with their own juice towards Indra the wielder of the thunderbolt (वज्रिणमिंद्रम् (*vajriṇamiṃdram*)), as a cow goes with her milk to her calf.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) ते (*te*)—your
+- मदासः (*madāsaḥ*)—joy-causing
+- मदिरासः (*madirāsaḥ*)—flavoursome
+- आशवः (*āśavaḥ*)—and swift-moving Soma-juices
+- रथ्यासः यथा (*rathyāsaḥ yathā*)—like horses yoked to a chariot
+- पृथक् (*pṛthak*)—separately
+- प्र असृक्षत (*pra asṛkṣata*)—have been let loose
+- मधुमंतः (*madhumaṃtaḥ*)—delicious
+- ऊर्मयः (*ūrmayaḥ*)—and wave-like; these
+- इंदवः (*iṃdavaḥ*)—Soma-juices
+- धेनुः (*dhenuḥ*)—as a cow
+- पयसा (*payasā*)—with milk
+- वत्सं न (*vatsaṃ na*)—runs lovingly to her calf
+- वज्रिणं (*vajriṇaṃ*)—the wielder of the thunderbolt
+- इंद्रं अभि (*iṃdraṃ abhi*)—go towards Indra
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your joy-causing, flavoursome and swift-moving Soma-juices have been let loose separately, like horses yoked to a chariot. The delicious, wave-like Soma-juices go towards Indra, the wielder of the thunderbolt, as a cow goes lovingly with her milk to join her calf.
+
+##### English translation
+Your exhilarating all-pervading juices are let loose separately like chariot-horses ; the sweet-flavoured (Soma) waves (go) to Indra the wielder of the thunderbolt as a cow with her milk to the calf.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्यो॒ न हि॑या॒नो अ॒भि वाज॑मर्ष स्व॒र्वित्कोशं॑ दि॒वो अद्रि॑मातरम् ।  
+> वृषा॑ प॒वित्रे॒ अधि॒ सानो॑ अ॒व्यये॒ सोमः॑ पुना॒न इं॑द्रि॒याय॒ धाय॑से ॥ ३ ॥
+
+### Printed p. 557
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्यः । न । हियानः । अभि । वाजम् । अर्ष । स्वःऽवित् । कोशम् । दिवः । अद्रिऽमातरम् ।  
+> वृषा । पवित्रे । अधि । सानौ । अव्यये । सोमः । पुनानः । इंद्रियाय । धायसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्यो न अश्व इव हियानः प्रेर्यमाणः वाजं संग्रामम् अभि अर्ष अभिगच्छ । तथा स्वर्वित् सर्ववित् कोशं द्रोणकलशं दिवः द्युलोकात् अद्रिमातरम् । अद्रिर्मेघः। तेन तज्जन्यमुदकं लक्ष्यते । तस्य निर्मातारमभ्यर्ष । अथ प्रत्यक्षकृतः । वृषा वर्षकः सोमः अव्यये अविमये अधि सानौ । अधीति सप्तम्यर्थानुवादी । समुच्छ्रिते तस्मिन् पुनानः पूयमानो भवति । किमर्थम् । धायसे धारकाय इंद्रियाय तदर्थम् ॥
+
+##### Gist of the bhāṣya
+
+Like a horse (अत्यो न (*atyo na*)) that is urged on (हियानः (*hiyānaḥ*), driven), go (अर्ष (*arṣa*)) towards the contest (वाजं (*vājaṃ*), battle). Likewise, being all-knowing (स्वर्वित् (*svarvit*), glossed as सर्ववित् (*sarvavit*)), go from heaven (दिवः (*divaḥ*)) towards the receptacle (कोशं (*kośaṃ*), the Droṇa-kalaśa) whose mother is the stone-like cloud (अद्रिमातरम् (*adrimātaram*)): अद्रिर्मेघः (*adrirmeghaḥ*): the stone (adri) is the cloud, and by it the water produced from it is meant; go towards its maker. Then, speaking of what is now seen directly: Soma the showerer (वृषा (*vṛṣā*)) becomes purified (पुनानः (*punānaḥ*)) on the woollen (अव्यये (*avyaye*), made of sheep's wool) high ridge (सानौ (*sānau*)); the word अधि (*adhi*) only repeats the sense of the locative. For what purpose? For the sake of the strength (इंद्रियाय (*iṃdriyāya*)) of the supporter (धायसे (*dhāyase*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) अत्यः न (*atyaḥ na*)—like a horse
+- हियानः (*hiyānaḥ*)—urged on
+- वाजं (*vājaṃ*)—to battle
+- अभ्यर्ष (*abhyarṣa*)—go and join
+- स्वर्वित् (*svarvit*)—you who lead (men) to heaven **NOTE**
+- अद्रिमातरं (*adrimātaraṃ*)—that is the source of the mass of water
+- कोशं (*kośaṃ*)—towards the Droṇa-kalaśa
+- दिवः (*divaḥ*)—come from the world of Dyaus and join
+- अव्यये (*avyaye*)—made of wool
+- पवित्रे (*pavitre*)—the ten-fold filter
+- सानौ अधि (*sānau adhi*)—in the elevated place
+- पुनानः (*punānaḥ*)—being purified
+- वृषा (*vṛṣā*)—and granting what is wished for, the Soma-deva
+- धायसे (*dhāyase*)—world-supporting
+- इंद्रियाय (*iṃdriyāya*)—flows for Indra as the cause of strength
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, urged on like a horse, go and join the battle. You who lead to heaven, come from the world of Dyaus and join the Droṇa-kalaśa, the mother of the water. Soma-deva, who is purified in the elevated place of the ten-fold filter made of wool and who grants what is wished for, flows for the strength of Indra, the supporter of the world. **NOTE**
+
+##### English translation
+Like a horse urged on to battle, do you who are all-knowing rush from heaven to the receptacle whose mother is the cloud ; Soma the showerer (of benefits) is being purified at the top upon the woollen filter for Indra's strength which supports (the world).
+
 ---
 
-**Progress note:** Done through printed p. 551. Mandala 9 Sukta 85 Rk 7-12 (Rk 12 block only)
+**Progress note:** Done through printed p. 557. Sūkta 86 intro, Ṛks 1-3, end of Ṛk 12 of sūkta 85
