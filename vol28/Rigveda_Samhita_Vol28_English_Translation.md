@@ -12839,6 +12839,295 @@ With this Ṛk Agastya's sister-in-law, the mother of Bandhu and the others, pra
 - सप्ति (*sapti*)—horses
 - युनक्षि (*yunakṣi*)—yoke to the chariot
 
+### Printed p. 392
+Of the red horses: "non-sacrificers" (अराधसः (*arādhasaḥ*)) means those who are not performers of sacrifice. "All the Paṇis" (विश्वान् पणीन् (*viśvān paṇīn*)) means all the greedy ones. "Overcome" (नि अभि अक्रमीः (*ni abhi akramīḥ*)) means defeat and destroy.
+
+##### भावार्थ (Bhāvārtha)
+
+O Raja (the one without equal), yoke the golden-coloured horses to your chariot, to supply wealth to all the kinsmen of the sage Agastya. Defeat and destroy all the greedy ones who are not sacrificers.
+
+##### English translation
+Yoke the two red horses to your chariot, for the nephews of Agastya,
+and overcome, Raja, all the niggard withholders of oblations.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं मा॒तायं पि॒तायं जी॒वातु॒राग॑मत् ।  
+> इ॒दं तव॑ प्र॒सर्प॑णं॒ सुबं॑ध॒वेहि॒ निरि॑हि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । माता । अयं । पिता । अयं । जीवातुः । आ । अगमत् ।  
+> इदं । तव । प्रसर्पणं । सुबंधो इति सुबंधो । आ । इहि । निः । इहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र शेषे शाट्यायनकं । अथाग्निं द्वैपदेन सूक्तेनास्तुवन् अग्निः स्तुत
+> आजगाम। अगत्य चाह किंकामा मागच्छतेति। सुबंधोरेवासुं पुनर्वनुयामेत्यब्रुवन् । एषांतःपरिधीत्यब्रवीत्तमादध्वमिति । तन्निराह । अयं मातायं पितेति ।
+> शौनकश्च ।
+> स्तुतः स राजा सुप्रीतस्तस्थौ गौपायनानभि ।
+> सूक्तेन तेऽस्तुवन्नग्निं द्वैपदेन यथात्रिषु ॥
+> अथाग्निरब्रवीदेतानयमंत्रः परिध्यसुः ।
+> सुबंधोरस्य चेक्ष्वाकोर्मया गुप्तो हितार्थिना ॥
+> सुबंधवे प्रदायासुं जीवेत्युक्त्वा च पावकः ।
+> स्तुतो गौपायनैः प्रीतो जगाम त्रिदिवं प्रति ॥
+> आयं मातेति हृष्टास्ते सुबंधोरुसुमाह्वयन् ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa cites the Śāṭyāyanaka for the remainder of the sūkta. The kinsmen praised Agni with a two-footed hymn, and Agni, praised, came. He asked them, "What do you desire? Why have you summoned me?" They said, "We wish to bring back the breath of Subandhu." Agni said that it was within the inner enclosure (परिधी (*paridhī*)), and told them to "fetch it". The words अयं मातायं पितेति (*ayaṃ mātāyaṃ piteti*) were that request. Śaunaka also says (in verses) that the king (Agni), praised and well pleased, stood before the Gaupāyanas. They had praised him with a sūkta of two-footed verses, as with the Atris. Agni said that this mantra was the enclosure of the breath, guarded by him for the good of Subandhu, the Ikṣvāku. Having given the breath to Subandhu with the words "live", Agni, pleased, went to heaven. The Gaupāyanas, glad, called out "अयं माता (*ayaṃ mātā*)" to Subandhu's breath.
+
+### Printed p. 393
+
+> शरीरमभिनिर्दिश्य सुबंधोः पतितं भुवि ।
+> सूक्तशेषं जगुश्चास्य चेतसो धारणायत इति ॥
+> (बृ.. ७-१०२२ रिंद १०७६)
+> अयमग्निर्माता । अयमेव पिता । अयं जीवातुर्जीवयितागमत् ।
+> आजगाम । अतो हे सुबंधो जीवपरिधौ वर्तमान इदं तव शरीरं तव प्रसर्पणं।
+> प्रकर्षेण सर्पणसाधनं। आत इदं प्रत्येहि । आगच्छ। निरिहि। निर्गच्छ परिधेः सकाशात् ।
+> अन्य एवं व्याचक्षते । हे निर्गतप्राण सुबंधो अयं ॥ विभक्तिव्यत्ययः ॥ इयं
+> मातायं पितायं जीवातुर्जीवनफलभूतः पुत्रश्चागमदिति संबध्यते । सर्वे
+> त्वामागता दुःखिताः संतः । शिष्टं समानं ॥
+
+##### Gist of the bhāṣya
+
+(The Bṛhaddevatā quotation continues:) Pointing to Subandhu's body fallen on the ground, they sang the rest of the sūkta, "for the holding of his mind" (Bṛ. 7-1022 to 1076). Sāyaṇa then explains: this Agni is the mother, this same is the father, this is the giver of life, the reviver, who has come. So, O Subandhu, who stand in the enclosure of life, this body of yours is your means of moving forth; come to it, and go out from the enclosure. Others explain differently: O Subandhu, whose breath has departed, there is a change of case विभक्तिव्यत्ययः (*vibhaktivyatyayaḥ*); the sense is that this mother, this father and this son, the fruit of living, have come to you, all of them grieving. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुबंधो (*subaṃdho*)—O Subandhu
+- अयं (*ayaṃ*)—this Agni
+- माता (*mātā*)—your mother
+- अयं (*ayaṃ*)—this same Agni
+- पिता (*pitā*)—your father
+- अयं (*ayaṃ*)—this same Agni
+- जीवातुः (*jīvātuḥ*)—the one who gives you life
+- अगमत् (*agamat*)—has come here
+- प्रसर्पणं (*prasarpaṇaṃ*)—that moves
+- तव इदं (*tava idaṃ*)—to this body of yours
+- एहि (*ehi*)—come and enter
+- निरिहि (*nirihi*)—come out from the enclosure
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, this Agni is himself your mother and father. This Agni, who fills you with life, has come here. Come and enter your body, which is of a moving nature. Come out of the enclosure.
+Or else:
+O Subandhu, hearing of your death, your mother, father and child have all come, grieving. Enter the body again and live. Become a bringer of happiness to them. Sāyaṇa has indicated that another meaning of this kind is possible.
+
+##### English translation
+This (Agni) your mother, this your father, this the giver of life to
+you, has arrived ; come back, Subandhu, to this your (body) that is
+capable of motion; come forth.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of this Ṛk the commentator has quoted a passage of the Śāṭyāyana Brāhmaṇa: अथाग्निं द्वैपदेन सूक्तेनास्तुवन् अग्निः स्तुत आजगाम। अगत्य चाह किंकामा मागच्छतेति। सुबंधोरेवासुं पुनर्वनुयामेत्यब्रुवन् । एषांतःपरिधीत्यब्रवीत्तमादध्वमिति । तन्निराह । अयं मातायं पितेति । (*athāgniṃ dvaipadena sūktenāstuvan agniḥ stuta ājagāma| agatya cāha kiṃkāmā māgacchateti| subaṃdhorevāsuṃ punarvanuyāmetyabruvan | eṣāṃtaḥparidhītyabravīttamādadhvamiti | tannirāha | ayaṃ mātāyaṃ piteti |*)
+
+### Printed p. 394
+The kinsmen and others praised Agni with a sūkta in the Dvipadā Virāj metre (Ṛ. Saṃ. 5-24). Agni, pleased with it, came there and asked, "What is your wish? Why did you summon me?" They said, "We wish that the breath of this Subandhu should return." Agni said that Subandhu's breath was in his inner enclosure, and they prayed that it be brought. That prayer is what is said in this Ṛk beginning आयं माता (*āyaṃ mātā*).
+The great sage Śaunaka too, in his work the Bṛhaddevatā, has described this matter, beginning with स्तुतः स राजा सुप्रीतः (*stutaḥ sa rājā suprītaḥ*) and ending with चेतसो धारणाय ते (*cetaso dhāraṇāya te*). We have explained this in the introduction to Sūkta 57 (pp. 352-353).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ यु॒गं व॑र॒त्रया॒ नह्यं॑ति ध॒रुणा॑य॒ कं ।  
+> ए॒वा दा॑धार ते॒ मनो॑ जी॒वात॑वे॒ न मृ॒त्यवेऽथो॑ अरि॒ष्टता॑तये ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । युगं । वरत्रया । नह्यंति । धरुणाय । कं ।  
+> विव । दाधार । ते । मनः । जीवातवे । न । मृत्यवे । अथो इति । अरिष्टतातये ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा युगं वरत्रया पाशेन नह्यंति बध्यंति धरुणाय रथादिधारणाय ।
+> कमिति पादपूरणः । एवैवं ते मनो दाधार परिधावग्निः । किमर्थं । जीवातवे
+> जीवनाय न मृत्यवे मरणाय न अथो अपि चारिष्टतातयेऽविनाशाय ॥
+> स्वार्थिकस्तातिः ॥
+
+##### Gist of the bhāṣya
+
+As men bind the yoke with a cord, a bond, for the holding of the chariot and the like, so Agni has held your mind in the enclosure. For what? For life, not for death, and also for non-destruction. कं (*kaṃ*) is a metrical filler. The affix तातिः (*tātiḥ*) is used without added sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- युगं (*yugaṃ*)—the yoke
+- धरुणाय (*dharuṇāya*)—so that it stands firm
+- वरत्रया (*varatrayā*)—with a rope
+- नह्यंति (*nahyaṃti*)—they bind
+- एव (*eva*)—in the same manner
+- ते मनः (*te manaḥ*)—your consciousness
+- जीवातवे (*jīvātave*)—for living
+- दाधार (*dādhāra*)—he has joined and established in the enclosure
+- अरिष्टतातये (*ariṣṭatātaye*)—for welfare only
+- न मृत्यवे (*na mṛtyave*)—not established for dying
+
+##### भावार्थ (Bhāvārtha)
+
+As men bind the yoke with a rope so that it stands firm, in the same way Agni has joined and established your consciousness in the enclosure so that it may live. He has established it for the gain of welfare, not for its death.
+
+### Printed p. 395
+
+##### English translation
+As men bind the yoke with cords for its support, so has (Agni) placed your spirit (in the body) for life, not for death, but for security.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न् ।  
+> ए॒वा दा॑धार ते॒ मनो॑ जी॒वात॑वे॒ न मृ॒त्युवेऽथो॑ अरि॒ष्टता॑  
+> तये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । इयं । पृथिवी । मही । दाधार । इमान् । वनस्पतीन् ।  
+> एव । दाधार । ते । मनः । जीवातवे । न । मृत्यवे । अथो इति । अरिष्टतातये॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथेयं पृथिवी महीमान्वनन्पतीन्वृक्षादीन्दाधार । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+As this great earth supports these trees, the trees and the like, so (Agni has held your mind). The rest is as said.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- मही (*mahī*)—of great nature
+- पृथिवी (*pṛthivī*)—the earth
+- इमान् वनस्पतीन् (*imān vanaspatīn*)—these trees
+- दाधार (*dādhāra*)—has firmly supported
+- एव (*eva*)—in the same manner (Agni)
+- ते मनः (*te manaḥ*)—your consciousness
+- जीवातवे (*jīvātave*)—so that it lives
+- दाधार (*dādhāra*)—has established and held in the enclosure
+- अरिष्टतातये (*ariṣṭatātaye*)—for welfare only
+- न मृत्युवे (*na mṛtyuve*)—not for dying
+
+##### भावार्थ (Bhāvārtha)
+
+As the earth, of great nature, firmly supports these trees, in the same way Agni has established and held your consciousness in the enclosure so that it may live; for its welfare, not for its dying.
+
+##### English translation
+As this spacious earth supports these trees so has (Agni) placed your spirit (in the body) for life, not for death, but for security.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒माद॒हं वै॑वस्व॒तात्सु॒बंधो॒र्मन॒ आभ॑रं ।
+
+### Printed p. 396
+
+> जीवातवे न मृत्यवेऽथो अरिष्टतातये ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमात् । अहं । वैवस्वतात् । सुबंधोः । मनः । आ । अभरं ।  
+> जीवातवे । न । मृत्युवे । अथो इति । अरिष्टतातये ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं निगदसिद्धा ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is self-evident from the text.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुबंधोः (*subaṃdhoḥ*)—of Subandhu
+- मनः (*manaḥ*)—the consciousness
+- अहं (*ahaṃ*)—I
+- वैवस्वतात् (*vaivasvatāt*)—of the son of Vivasvat
+- यमात् (*yamāt*)—from Yama
+- आभरं (*ābharaṃ*)—have brought
+- जीवातवे (*jīvātave*)—I have brought it so that it lives
+- अरिष्टतातये (*ariṣṭatātaye*)—and for its welfare
+- न मृत्यवे (*na mṛtyave*)—not for its dying
+
+##### भावार्थ (Bhāvārtha)
+
+I have brought the consciousness of Subandhu from Yama, the son of Vivasvat. I have brought it so that it may live and for its welfare, not for its dying.
+
+##### English translation
+(Agni speaks :) I bring the spirit of Subandhu from Yama, the son
+of Vivaswat, for life, not for death, but for security.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य१॒ं॑ग्वातोऽव॑ वाति॒ न्य॑क्तपति॒ सूर्यः॑ ।  
+> नी॒चीन॑म॒घ्ना दु॑हे॒ न्य॑ग्भवतु ते॒ रपः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न्यक् । वातः । अव । वाति । न्यक् । तपति । सूर्यः ।  
+> नीचीनं । अघ्ना । दुहे । न्यक् । भवतु । ते । रसः ॥ ११ ॥
+
+### Printed p. 397
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातो वायुर्द्युलोकान्नग्नीचीनमव वाति। गच्छति। सूर्यश्च न्यक् तपति।
+> अघ्नाहननीया गौर्निचीनं दुहे । दुग्धे। एवं ते रपः पापं न्यग्नीचीनं भवतु ॥
+
+##### Gist of the bhāṣya
+
+The wind blows downward from the heavenly world; the sun too burns downward. The unslayable cow, the one not to be killed, yields milk downward. So let your sin (रपः (*rapaḥ*)) be turned downward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातः (*vātaḥ*)—the wind
+- न्यक् (*nyak*)—downward-facing
+- अव वाति (*ava vāti*)—blows
+- सूर्यः (*sūryaḥ*)—the sun
+- न्यक् (*nyak*)—with downward-turned rays
+- तपति (*tapati*)—burns
+- अघ्ना (*aghnā*)—the cow worthy of protection
+- नीचीनं (*nīcīnaṃ*)—from the udder in the lower part
+- दुहे (*duhe*)—yields milk
+- ते (*te*)—your
+- रपः (*rapaḥ*)—sin
+- न्यक् भवतु (*nyak bhavatu*)—let it be one that goes downward
+
+##### भावार्थ (Bhāvārtha)
+
+The wind blows downward. The sun burns with downward-turned rays. The cow worthy of protection yields milk from the udder in the lower part. Let your sin go downward and be destroyed.
+
+##### English translation
+The wind blows downwards, the sun burns downwards, the cow yields her milk downwards, so be your sin cast down.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं मे॒ हस्तो॒ भग॑वान॒यं मे॒ भग॑वत्तरः ।  
+> अ॒यं मे॑ वि॒श्वभे॑षजो॒ऽयं शि॒वाभि॑मर्शनः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । मे । हस्तः । भगवान् । अयं । मे । भगवत्तरः ।  
+> अयं । मे । विश्वभेषजः । अयं । शिवअभिमर्शनः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया बंध्वादयो लब्धजीवं सुबंधुं पाणिभिरस्पृशन् । अयं मे हस्तो
+> भगवान् यस्मात्सजीवं सुबंधुं स्पृशति तस्मात् । तथायं मे हस्तो भगवत्तरः ।
+> अतिशयेन भगवान् । तथायं मे हस्तो विश्वभेषजो जीवचिकित्सासाधनसर्वौषधवान् तत्स्थानीयो वा । अयं शिवाभिमर्शनो मंगलस्पर्शनः । यतो जीवंतं
+> स्पृशत्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk the kinsmen and others touched Subandhu, who had regained life, with their hands. "This hand of mine is blessed (भगवान् (*bhagavān*))", since it touches the living Subandhu. So "this hand of mine is more blessed", blessed in the highest degree. So "this hand of mine is the all-healing one", possessing all the medicines that serve for the healing of the living, or standing in their place. "This is the touch of auspiciousness", the touch that brings good fortune; the meaning is that it touches one who is alive, hence so.
+
 ---
 
-**Progress note:** Done through printed p. 391. pp. 386-391 (batch API)
+**Progress note:** Done through printed p. 397. pp. 392-397 (batch API)
