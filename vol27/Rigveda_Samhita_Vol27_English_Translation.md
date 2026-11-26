@@ -30691,6 +30691,241 @@ The word अक्ष (*akṣa*) is formed from the root अश् (*aś*), whic
 
 As stated in the Kauṣītaki Brāhmaṇa, Kavaṣa, the seer of this sūkta, is well known as a gambler and one addicted to playing at dice. For that reason he has described, most finely and from experience, in a way that goes to the heart, the excess of joy that comes to gamblers in the game of dice when they win, and the heartache that comes when they lose. When the dice are shaken in the hand and thrown, as they roll like a stream of water and finally come to rest, they cause anxiety whether they will make one win or make one lose. This is known by experience to gamblers. Here an illustration has been given for the occasion that causes joy. Mūjavān is a lofty mountain. The juice obtained from the Soma creepers that grow in a lofty mountain region is abundant, intoxicating and joy-giving, and is
 
+### Printed p. 857
+
+so. Therefore, as the Soma juice pressed out from Soma creepers growing on such a mountain as Mūjavat gives the greatest joy to those who drink it, so these dice give the greatest joy to gamblers who play when they win; this is the comparison with Soma juice that is given here.
+
+In this connection, the explanation of the derivation and meaning of some words found in this Ṛk has also been given. विभीदक (*vibhīdaka*) means a particular kind of tree. Since the dice used for play are made from this tree, the seer has used the very word विभीदक (*vibhīdaka*) to denote the dice.
+
+इरिणं (*iriṇaṃ*) means the cloth or board on which the dice game is played. The squares of the game are drawn on it. The word इरिणं (*iriṇaṃ*) has the meaning निर्ऋणं (*nirṛṇaṃ*), that is, free of debt. The money staked in a game must be in cash; a stake is not laid on credit. Since in gambling there is therefore no question of debt, it has become the custom to call the board, the chief thing for the game, by the word इरिणं (*iriṇaṃ*). This word is formed from the root ऋ गतौ (*ṛ gatau*), which has the meaning of going; or else इरिणं (*iriṇaṃ*) is the name of a hilly region, because herbs and trees are taken away from such a hilly region. For that reason too it is called इरिणं (*iriṇaṃ*).
+
+मौजवतस्य भक्षः (*maujavatasya bhakṣaḥ*): Mūjavān is the name of a mountain. The herbs and the like that grow on this mountain, especially the Soma creeper, are called Maujavata (grown on the mountain named Mūjavān). The reason this mountain has this name is that a kind of reed or darbha grass called muñja grows here, and so it is called Mūjavān (where muñja grass grows).
+
+Muñja means a kind of grass or darbha. This word is formed from the root मुच् (*muc*), meaning that it is separated from another kind of grass called iṣīkā (इषीकया विमुच्यत इति मुंजः (*iṣīkayā vimucyata iti muṃjaḥ*)); therefore it is called muñja.
+
+The word iṣīkā is formed from the root इषति (*iṣati*), which has the meaning of going. This word has two meanings: a kind of grass, and an arrow (because it goes out from the bow).
+
+विभीदक (*vibhīdaka*) means that which is bored through. Since dice are made by boring through (carving) this wood, the die is called vibhīdaka.
+
+### Printed p. 858
+
+जागृवि (*jāgṛvi*) means keeping awake without sleeping. It is the custom, when gambling at night, to give up sleep and stay awake for any length of time.
+
+In this Ṛk the seer has praised the joy that comes to him from the dice game when he wins. In the following Ṛks (probably because he lost) he reviles the dice and gambling, describes the mental pain, grief and troubles that come to people who gamble, and so reviles gambling out of experience.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न मा॑ मिमेथ॒ न जि॑हीळ ए॒षा शि॒वा सखि॑भ्य उ॒त मह्य॑मासीत् ।  
+> अ॒क्षस्या॒हमे॑कप॒रस्य॑ हे॒तोरनु॑व्रता॒मप॑ जा॒याम॑रोधं ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । मा । मिमेथ । न । जिहीळे । एषा । शिवा । सखिभ्यः । उत । मह्यं । आसीत् :  
+> अक्षस्य । अहं । एकपरस्य । हेतोः । अनुव्रतां । आप । जायां । आरोपं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषास्मदीया जाया मा मां कितवं न मिमेथ न च चुक्रोध न
+> जिहीळे न च लज्जितवती । सखिभ्योऽस्मदीयेभ्यः कितवेभ्यः शिवा सुखकर्यासीत् ।
+> अभूत् । उतापि च मह्यं शिवासीत् । इत्थमनुव्रतामनुकूलां जायामेकपर.
+> सैकः परः प्रधानं यस्य तस्याक्षस्य हेतोः कारणादहमपारोधं । परित्यक्तवानस्मीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This wife of ours did not rage at me, the gambler, and was not ashamed. She was kind to our friends, the fellow gamblers, and she was kind to me too. Such was my devoted, agreeable wife; and for the sake of that die which is the one chief thing, I abandoned her. That is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा (*eṣā*)—this wife of mine
+- मा (*mā*)—towards me
+- न मिमेथ (*na mimetha*)—has not been angry
+- न जिहीळे (*na jihīḷe*)—has not shown shame for my fault
+- सखिभ्यः (*sakhibhyaḥ*)—to my friends
+- शिवा (*śivā*)—showing regard
+- आसीत् (*āsīt*)—she was
+- उत (*uta*)—and
+- मह्यं (*mahyaṃ*)—she was kind to me also (and yet)
+- अनुव्रतां (*anuvratāṃ*)—who had been a help to me
+- जायां (*jāyāṃ*)—that wife
+- एकपरस्य (*ekaparasya*)—who is of benefit to only one among the gamblers
+- अक्षस्य हेतोः (*akṣasya hetoḥ*)—for the sake of this die
+- अहं (*ahaṃ*)—I
+- अपारोधं (*apārodhaṃ*)—have abandoned
+
+### Printed p. 859
+
+##### भावार्थ (Bhāvārtha)
+
+Although I am a gambler, my wife has not been angry with me. She has not shown shame for my conduct either. She showed regard to my friends and was very kind to me. Although she was thus a help to me, I have abandoned such a wife for the sake of this die, which gives victory to one side among the gamblers.
+
+##### English translation
+This (my wife) has not been angry (with me), nor was she overcome with shame; kind was she to me and to my friends; yet for the sake of one or other die, I have deserted this affectionate spouse.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वेष्टि॑ श्व॒शूरप॑ जा॒या रु॑णद्धि॒ न ना॑थि॒तो विं॑दते मर्डि॒तारं॑ ।  
+> अश्व॑स्येव॒ जर॑तो॒ वस्य॑स्य॒ नाहं विं॑दामि कित॒वस्य॒ भोगं॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वेष्टि । श्वशूः । अप । जाया । रुणद्धि । न । नाथितः । विंदते । मर्डितारं ।  
+> अश्वस्य इव । जरतः । वस्यस्य । न । अहं । विंदामि । कितवस्य । भोगं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वश्रूर्जायाया माता गृहगतं कितवं द्वेष्टि । निंदतीत्यर्थः । किंच जाया
+> भार्याप रुणद्धि । निरुणद्धि । अपि च नाथितो याचमानः कितवो धनं मर्डितारं
+> धनदानेन सुखयितारं न विंदते । न लभते । इत्थं बुद्ध्या विमृशन्नहं जरतो
+> वृद्धस्य वस्न्यस्य । वस्नं मूल्यं । तदर्हस्याश्वस्येव कितवस्य भोगं न विंदामि ।
+> न लभे ॥
+
+##### Gist of the bhāṣya
+
+The mother of the wife, the mother-in-law, hates the gambler who has come home; that is, she reviles him. Further, the wife keeps him back. And the gambler who begs for money finds no giver who would gladden him by giving wealth; he does not obtain one. Reflecting thus in his mind, he says: I do not find the enjoyment of the gambler, like that of an old horse that is worth a price, vasna being price. That is, I do not obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्वश्रूः (*śvaśrūḥ*)—my wife's mother (mother-in-law)
+- द्वेष्टि (*dveṣṭi*)—reviles me
+- जाया (*jāyā*)—my wife
+- अप रुणद्धि (*apa ruṇaddhi*)—holds me back
+- नाथित (*nāthita*)—the gambler who makes a request
+- मर्डितारं (*marḍitāraṃ*)—the giver who would satisfy him
+- न विंदते (*na viṃdate*)—certainly does not find
+
+### Printed p. 860
+
+- वस्यस्य (*vasyasya*)—though worth a price
+- जरतः (*jarataḥ*)—grown old
+- अश्वस्येव (*aśvasyeva*)—like a horse
+- अहं (*ahaṃ*)—I
+- कितवस्य (*kitavasya*)—of the gambler
+- भोगं (*bhogaṃ*)—the pleasure
+- न विंदामि (*na viṃdāmi*)—do not obtain
+
+##### भावार्थ (Bhāvārtha)
+
+My mother-in-law reviles me. My wife always holds me back. Whomever a gambler begs from, there is no generous person who will satisfy him. As a horse, though very valuable, finds no pleasure when it has grown old, so I, though worthy, certainly have no happiness, because I am a gambler.
+
+##### English translation
+My mother-in-law reviles me, my wife opposes me; the beggar meets no compassionate (benefactor): I do not realize the enjoyment of the gamester any more than that of a valuable horse grown old.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्ये जा॒यां परि॑ मृशंत्यस्य॒ यस्यागृ॑ध॒द्वेद॑ने वा॒ज्य१॒ं॑क्षः ।  
+> पि॒ता मा॒ता भ्रात॑र एनमाहु॒र्न जा॑नीमो॒ नय॑ता ब॒द्धमे॒तं ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्ये । जायां । परि । मृशंति । अस्य । यस्य । अगृधत् । वेदने । वाजी । अक्षः ।  
+> पिता । माता । भ्रातरः । एनं । आहुः । न । जानीमः । नयत । बद्धं । एतं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य कितवस्य वेदने धने वाजी बलवानक्षो देवोऽगृधत्-अभिकांक्षां
+> करोति तस्यास्य कितवस्य जायां भार्यामन्ये प्रतिकितवाः परि मृशंति । वस्त्रकेशाद्याकर्षणेन संस्पृशंति । किंच । पिता जननी च भ्रातरः सहोदराश्चैनं कितवमाहुः ।
+> वदंति । न वयमस्मदीयमेनं जानीमः । रज्जा बद्धमेतं कितवं हे कितवाः
+> यूयं नयत । यथेष्टदेशं प्रापयतेति ॥
+
+##### Gist of the bhāṣya
+
+The gambler whose wealth the powerful die, the god Akṣa, covets: his wife is touched all over by other gamblers, his opponents, who lay hold of her by pulling at her clothes, hair and the like. Further, his father and mother and his brothers say of this gambler: we do not know him as ours; O gamblers, take him, bound with a rope, to whatever place you please.
+
+### Printed p. 861
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which gambler
+- वेदने (*vedane*)—in the wealth
+- वाजी (*vājī*)—powerful
+- अक्षः (*akṣaḥ*)—the die
+- अगृधत् (*agṛdhat*)—shows a desire to snatch away
+- अस्य (*asya*)—of such a gambler
+- जायां (*jāyāṃ*)—the wife
+- अन्ये (*anye*)—his rivals
+- परि मृशंति (*pari mṛśaṃti*)—seize, drag and humiliate
+- न जानीमः (*na jānīmaḥ*)—we do not know who he is
+- बद्धं (*baddhaṃ*)—bound with a rope
+- एतं (*etaṃ*)—this man
+- नयत (*nayata*)—take away to any place you like, saying so
+- पिता (*pitā*)—his father
+- माता (*mātā*)—his mother
+- भ्रातरः (*bhrātaraḥ*)—his brothers
+- एनं (*enaṃ*)—concerning him
+- आहुः (*āhuḥ*)—say
+
+##### भावार्थ (Bhāvārtha)
+
+The rivals of the gambler whose wealth the powerful die desires and snatches away seize and drag his wife and humiliate her. His father and mother and his brothers say of him: "This man is no concern of ours. Bind him and take him wherever you like."
+
+##### English translation
+Others touch the wife of him whose wealth the potent dice covet : his mother, father, brothers say, "We know him not, take him away bound (wherever you will)".
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदा॒दीध्ये॒ न द॑विषाण्येभिः परा॒यद्योऽव॑ हीये॒ सखि॑भ्यः ।  
+> न्यु॑प्ताश्च ब॒भ्रवो॒ वाच॒मक्र॑ते॒ एमीदे॑षां निष्कृ॒तं जा॒रिणे॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । आदीध्ये । न । दविषाणि । एभिः । परायत्ऽभ्यः । अव । हीये । सखिभ्यः ।  
+> निउप्ताः । च । बभ्रवः । वाचं । अक्रत । एमि । इत् । एषां । निःकृतं । जारिणीइव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदाहमादीध्ये ध्यायामि तदानीमेभिरक्षैर्न दविषाणि । न दूषये ।
+> न परितपामि । यद्वा । न दविषाणि । न देविष्यामीत्यर्थः । परायद्ध्यः स्वयमेव
+
+### Printed p. 862
+
+> परागच्छद्भ्यः सखिभ्यः सखिभूतेभ्यः कितवेभ्योऽव हीये । अवहितो भवामि । नाहं
+> प्रथममक्षान्विसृजामीति । किंच बभ्रवो बभ्रुवर्णा अक्षा न्युप्ताः कितवैरवक्षिप्ताः
+> संतो वाचमक्रत । शब्दं कुर्वंति । तदा संकल्पं परित्यज्याक्षव्यसनेनाभिभूयमानोऽहमेषामक्षाणां निष्कृतं स्थानं जारिणीव यथा कामव्यसनेनाभिभूयमाना
+> स्वैरिणी संकेतस्थानं याति तद्वदेमीत् । गच्छाम्येव ॥
+
+##### Gist of the bhāṣya
+
+When I reflect, then I shall not blame these dice, that is, I shall not torment myself; or else the meaning is, I shall not play. I am left behind by the friends, the fellow gamblers, who go away of themselves; that is, I am set aside, since I do not myself throw the dice first. Further, when the brown dice, thrown down by the gamblers, make a sound, then, giving up my resolve and overcome by the vice of dice, I go to the place of these dice, as a woman of loose character, overcome by the vice of passion, goes to the place of assignation; so I go indeed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- आदीध्यॆ (*ādīdhyè*)—I think about my conduct, then
+- एभिः (*ebhiḥ*)—with these dice
+- न दविषाणि (*na daviṣāṇi*)—that I shall not play at all
+- परायद्भ्यः (*parāyadbhyaḥ*)—who run away leaving me
+- सखिभ्यः (*sakhibhyaḥ*)—with friends
+- अव हीयॆ (*ava hīyè*)—I make a vow with care (but)
+- बभ्रवः (*babhravaḥ*)—the tawny dice
+- न्युप्ताः (*nyuptāḥ*)—thrown down by the gamblers
+- वाजं अक्रत (*vājaṃ akrata*)—when I hear them making a sound **NOTE**
+- जारिणीव (*jāriṇīva*)—as a passionate woman hurries to the place of assignation
+- एषां (*eṣāṃ*)—of these dice
+- निष्कृतं (*niṣkṛtaṃ*)—to the place
+- एमीत् (*emīt*)—I certainly go and join
+
+##### भावार्थ (Bhāvārtha)
+
+When I begin to think about my conduct, I make a vow: "I shall not play with these dice any more", before my friends (other gamblers), who also forsake me. But when the tawny dice are thrown at the time of gambling and make their alluring sound, then at once, as a passionate woman hurries to the place of assignation, I too certainly go and join the place of those dice.
+
+##### English translation
+When I reflect, (then I say), "I will play no more with them", I pay attention to my friends who desert (me); and the tawny dice rattle as they are thrown : I hasten to their accustomed place as a harlot (to an assignation).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒भामे॑ति कित॒वः पृ॒च्छमा॑नो जे॒ष्यामीति॑ त॒न्वा॒३॒॑३शूशु॑जानः ।  
+> अ॒क्षासो॑ अस्य॒ वि ति॑रंति॒ कामं॑ प्रति॒दीव्ने॒ दध॑त॒ आ कृ॒तानि॑ ॥६॥
+
 ---
 
-**Progress note:** Done through printed p. 856. Rk 7-9 of Sukta 33 end; Sukta 34 intro and Rk 1 begins
+**Progress note:** Done through printed p. 862. Sukta 34 Rk 1 special topics; Rk 2-5; Rk 6 samhita
