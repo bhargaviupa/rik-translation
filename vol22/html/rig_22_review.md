@@ -1,6 +1,6 @@
 # Rigveda Saṃhitā, Volume 22 — Kannada text for review
 
-Source: the scan PDF `Rig_Vol22.pdf`, transcribed page by page (front matter PDF 1–26, body printed pages 1–600 = PDF 27–626; printed = PDF − 26). Numbers settled by rules and the Wikisource reference; Pada words from Wikisource; no Vedic accent marks; `[?]` = one word that could not be read (list with scan strips: `vol22/review/qmarks/qmarks_to_verify.md`). The file for the pipeline is `rig_22.md` (same text, page markers `<!-- page N -->`).
+Source: the scan PDF `Rig_Vol22.pdf`, transcribed page by page (front matter PDF 1–26, body printed pages 1–600 = PDF 27–626; printed = PDF − 26). Numbers settled by rules and the Wikisource reference; Pada words from Wikisource; no Vedic accent marks; `[?]` = one word that could not be read (list with scan strips: `vol22/review/qmarks/qmarks_to_verify.md`). This is the MARKED master (`rig_22_marked.md` with visible page headings); the pipeline reads `rig_22.md` = the same text without the `[?]` marks.
 # Vol 22 (Kannada) — front matter transcribed from the scan PDF (PDF pages 1-26), then the body (printed pages 1-600; printed = PDF - 26)
 
 
