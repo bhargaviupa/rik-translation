@@ -4695,7 +4695,7 @@ The last three Ṛks are the praise of the gift of the king named Śrutarvan. In
 
 Translation of the Kannada: This sūkta beginning विशोविशो वः (*viśoviśo vaḥ*) is the fifth sūkta in the eighth Maṇḍala. It has fifteen Ṛks. In the Anukramaṇikā it is said: विशोविशो वः पंचोनाग्नेयं त्वनुष्टुबुम्मखास्त्र्यचाश्चत्वारोऽन्त्यास्तिस्रोऽनुष्टुभ आर्क्षस्य श्रुतर्वणो दानस्तुतिः (*viśoviśo vaḥ paṃconāgneyaṃ tvanuṣṭubummakhāstryacāścatvāro 'ntyāstisro 'nuṣṭubha ārkṣasya śrutarvaṇo dānastutiḥ*). The seer of this sūkta is the one named Gopavana. Of the first three tṛcas of this sūkta (a tṛca is three Ṛks) the first Ṛk is Anuṣṭubh, and the second and third Ṛks are in the Gāyatrī metre. The three Ṛks from the thirteenth onwards are in the Anuṣṭubh metre. Agni is the deity of this sūkta and of the next sūkta. For the last three Ṛks of this sūkta the praise of the gift of the king named Śrutarvā is the deity. It is to be used for the Ājya-śastra mantras in the Vyoma, Viśvadeva and Pañcaśāradīya rites, as it is explained by the sūtra of the Āśvalāyana Śrauta-sūtra विशोविशो वोः अथितिमिथ्याज्यं (*viśoviśo voḥ athitimithyājyaṃ*) (Ā. 9-8). **NOTE**
 
-Sūkta 24. Maṇḍala 8, Anuvāka 8, Sūkta 24. Aṣṭaka 6, Adhyāya 5, Vargas 21, 22, 23. Number of Ṛks in the sūkta: 15. Seer: Gopavana Ātreya. Deity: 1-12 Agni; 13-15 the praise of the gift of Śrutarvan Ārkṣa. Metre: 1, 4, 7, 10, 13-15 Anuṣṭubh; 2, 3, 5, 6, 8, 9, 11, 12 Gāyatrī.
+Sūkta 74. Maṇḍala 8, Anuvāka 8, Sūkta 74. Aṣṭaka 6, Adhyāya 5, Vargas 21, 22, 23. Number of Ṛks in the sūkta: 15. Seer: Gopavana Ātreya. Deity: 1-12 Agni; 13-15 the praise of the gift of Śrutarvan Ārkṣa. Metre: 1, 4, 7, 10, 13-15 Anuṣṭubh; 2, 3, 5, 6, 8, 9, 11, 12 Gāyatrī.
 
 #### Ṛk 1
 
