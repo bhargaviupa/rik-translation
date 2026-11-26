@@ -8090,6 +8090,270 @@ O Indra, you, the harmless one, who have protected us in former times for the ga
 ##### English translation
 O you, the invulnerable, who have always in former times protected us for the battle, you **NOTE**, Indra, make us happy.
 
+### Printed p. 199
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमं॒ग र॑ध्र॒चोद॑नः सुन्वा॒नस्या॑वि॒तेद॑सि ।  
+> कु॒वित्स्विं॑द्र णः॒ शकः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किम् । अंग । रध्रऽचोदनः । सुन्वानस्य । अविता । इत् । असि ।  
+> कुवित् । सु । इंद्र । नः । शकः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं रध्रचोदनः । रध्रं राधकं चोदयतीति रध्रचोदनः । तादृशस्त्वं सुन्वानस्य अवितेदसि रक्षक एव भवसि । अतः नः अस्माकं कुवित् बहु सु सुष्ठु शकः अशकः शक्तो भव। बहु धनं कुर्वित्वर्थः । अस्मान् वा बहु कुर्विति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are रध्रचोदनः (*radhracodanaḥ*): he who impels the one who accomplishes (रध्रं राधकं चोदयतीति (*radhraṃ rādhakaṃ codayatīti*)). Being such, you are surely the protector of the one who presses Soma. Therefore, for us, become exceedingly (कुवित् (*kuvit*), सु (*su*)) capable; the meaning is: make much wealth, or make us many. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- रध्रचोदनः (*radhracodanaḥ*)—you, who are the stimulator of your worshipper
+- सुन्वानस्य (*sunvānasya*)—of him who presses and offers Soma to you
+- अंग (*aṃga*)—surely
+- अविता इत् असि (*avitā it asi*)—you are indeed the protector
+- नः (*naḥ*)—to us
+- कुवित् (*kuvit*)—abundantly
+- सु (*su*)—exceedingly
+- शकः (*śakaḥ*)—become a powerful helper
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who stimulate your worship, are surely the protector of him who presses Soma and offers it to you. Become to us a helper, abundantly and exceedingly powerful.
+
+##### English translation
+Director of the worshipper, you are the guardian of the offerer; help us mightily.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ प्र णो॒ रथ॑मव प॒श्चाच्चि॒त्संत॑मद्रिवः ।  
+> पु॒रस्ता॑देनं मे कृधि ॥ ४ ॥
+
+### Printed p. 200
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । प्र । नः । रथम् । अव । पश्चात् । चित् । संतम् । अद्रिऽवः ।  
+> पुरस्तात् । एनम् । मे । कृधि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नः रथं प्र अव प्ररक्ष । कीदृशं रथम् । पश्चाच्चित्संतम् । चिदप्यर्थे । अस्मत्समानरथानां पश्चाद्भूतमपि एनं मे रथं हे अद्रिवः वज्रवन्निंद्र पुरस्तात् वर्तमानं कृधि कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, protect our chariot fully (प्र अव प्ररक्ष (*pra ava prarakṣa*)). What kind of chariot? One that is behind (पश्चाच्चित्संतम् (*paścāccitsaṃtam*)); here चित् (*cit*) is in the sense of "even". Even though it is behind chariots equal to ours, this chariot of mine, O Indra, wielder of the thunderbolt (अद्रिवः वज्रवन् (*adrivaḥ vajravan*)), make present in front (पुरस्तात् वर्तमानं कृधि कुरु (*purastāt vartamānaṃ kṛdhi kuru*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पश्चाच्चित्संतं (*paścāccitsaṃtaṃ*)—even though fallen far behind
+- नः (*naḥ*)—our
+- रथं (*rathaṃ*)—chariot
+- प्र अव (*pra ava*)—protect fully
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- मे (*me*)—my
+- एनं (*enaṃ*)—this chariot
+- पुरस्तात् (*purastāt*)—as being ahead of the other chariots
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even though our chariot has fallen far behind the other chariots, protect our chariot fully. O Indra, bearer of the thunderbolt, make this chariot of mine to be ahead of the other chariots.
+
+##### English translation
+Indra, protect our chariot; though now left behind, set it in the front, O thunderer.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हंतो॒ नु किमा॑ससे प्रथ॒मं नो॒ रथं॑ कृधि ।  
+> उ॒प॒मं वा॑ज॒यु श्रवः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंतो इति । नु । किम् । आससे । प्रथमम् । नः । रथम् । कृधि ।  
+> उपऽमम् । वाजऽयु । श्रवः ॥ ५ ॥
+
+### Printed p. 201
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हंतेत्येतदादि मुख्यकृदामंत्रितेन समानम् । हंत इंद्र नु इदानीं किं त्वं तूष्णीम् आससे । तत्र किं करोमीति चेदुच्यते । नः रथं प्रथमं सर्वेषां मुख्यं कृधि कुरु । वाजयु अस्माकममिच्छत् श्रवः अन्नं हविर्लक्षणम् उपमम् । अंतिकनामैतत् । तवांतिकभूतं वर्तत इति शेषः । यस्मादेवं तस्माद्रथमस्मदीयं प्रथमं कृधीति ॥ ॥ ३५ ॥
+
+##### Gist of the bhāṣya
+
+The verse beginning with हंत (*haṃta*) is introduced by Sāyaṇa as the same as a vocative construction. **NOTE** "Come now, O Indra, why do you sit silent now?" If it is asked what he should do, it is said: make our chariot first, the foremost of all (प्रथमं सर्वेषां मुख्यं कृधि कुरु (*prathamaṃ sarveṣāṃ mukhyaṃ kṛdhi kuru*)). The श्रवः (*śravaḥ*), the food in the form of an oblation, desiring us (वाजयु अस्माकममिच्छत् (*vājayu asmākamamicchat*)), is उपमम् (*upamam*); this is a word meaning "near": it is near you, this being the word to be supplied. Since it is so, make our chariot first.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हंतो (*haṃto*)—O Indra
+- नु (*nu*)—now
+- किं (*kiṃ*)—why
+- आससे (*āsase*)—do you sit silent?
+- नः (*naḥ*)—our
+- रथं (*rathaṃ*)—chariot
+- प्रथमं (*prathamaṃ*)—as the foremost among the other chariots
+- कृधि (*kṛdhi*)—make
+- वाजयुं (*vājayuṃ*)—desiring food for us
+- श्रवः (*śravaḥ*)—this food in the form of an oblation
+- उपमं (*upamaṃ*)—is quite near you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, why are you still silent? Make our chariot the best (the foremost) of all the other chariots. This food in the form of an oblation, desiring food for us, is near you.
+
+##### English translation
+Up, why do you sit still? Make our chariot the first; our food-seeking offering is near you.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॑ नो वाज॒युं रथं॑ सु॒करं॑ ते॒ किमित्परि॑ ।  
+> अ॒स्मान्सु जि॒ग्युष॑स्कृधि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । नः । वाजऽयुम् । रथम् । सुऽकरम् । ते । किम् । इत् । परि ।  
+> अस्मान् । सु । जिग्युषः । कृधि ॥ ६ ॥
+
+### Printed p. 202
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नः वाजयुम् अन्नेच्छुं रथम् अव रक्ष संग्रामे । ते तव किमित् किमपि सर्वकर्तव्यजातं परि परितः सुकरं सुखेन कर्तव्यम्। तव कर्तुमशक्यं न किंचिदस्ति । यस्मादेवं तस्मात् सु जिग्युषः सुष्ठु जेतॄन् कुरु संग्रामे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, protect in battle our chariot, which desires food (वाजयुम् अन्नेच्छुं (*vājayum annecchuṃ*)). Whatever is to be done by you, all of it, on every side (परि परितः (*pari paritaḥ*)), is easy, to be done with ease (सुकरं सुखेन कर्तव्यम् (*sukaraṃ sukhena kartavyam*)); there is nothing that you cannot do. Since it is so, make us well victorious (सु जिग्युषः सुष्ठु जेतॄन् (*su jigyuṣaḥ suṣṭhu jetṝn*)) in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) नः (*naḥ*)—our
+- वाजयुं (*vājayuṃ*)—desiring food
+- रथं (*rathaṃ*)—chariot
+- अव (*ava*)—protect
+- परि (*pari*)—on all sides
+- ते (*te*)—to you
+- किं इत् (*kiṃ it*)—every task
+- सुकरं (*sukaraṃ*)—is easy
+- अस्मान् (*asmān*)—us
+- सु (*su*)—exceedingly
+- जिग्युषः (*jigyuṣaḥ*)—so that we may be victorious
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protect our chariot, which desires food. All tasks are easy for you in all places. Make us excellent and victorious.
+
+##### English translation
+Protect our food-seeking chariot; everything is easy for you to do; make us completely victorious.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ दृह्य॑स्व॒ पूर॑सि भ॒द्रा त॑ एति निष्कृ॒तम् ।  
+> इ॒यं धीरृ॒त्विया॑वती ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । दृह्यस्व । पूः । असि । भद्रा । ते । एति । निःऽकृतम् ।  
+> इयम् । धीः । ऋत्वियऽवती ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं दृह्यस्व दृढो भव संग्रामे । त्वं पूरसि पुरमसि । यथा पुरमविचलितं तद्वत्त्वमसि । अथवा। अस्मदीये यज्ञे दृढो भव । त्वं पुनरन्ययज्ञजिगमिषुर्मा भूः । त्वं पूः पूरकः कामानामसि । किमत्र विद्यत इति चेदुच्यते । निष्कृतं निष्कर्तारं ते त्वां भद्रा कल्याणी इयं धीः स्तुतिः क्रिया वा ऋत्वियावती । ऋतुशब्दः कालोपलक्षकः । स्वकालोपेता सती एति गच्छति । यद्वा । ते निष्कृतं स्थानमेति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, be firm (दृह्यस्व दृढो भव (*dṛhyasva dṛḍho bhava*)) in battle. You are पू (*pū*), a city (पुरमसि (*puramasi*)); as a city is unshaken, so are you. Or else: be firm at our sacrifice, and do not wish to go to another sacrifice. You are पूः पूरकः कामानामसि (*pūḥ pūrakaḥ kāmānāmasi*), the fulfiller of desires. If it is asked what there is here: to you, the one who sets right (निष्कृतं निष्कर्तारं (*niṣkṛtaṃ niṣkartāraṃ*)), this auspicious (भद्रा कल्याणी (*bhadrā kalyāṇī*)) धीः (*dhīḥ*), a hymn of praise or a rite, comes (एति गच्छति (*eti gacchati*)), being furnished with its proper season (स्वकालोपेता सती (*svakālopetā satī*)); the word ऋतु (*ṛtu*) indicates time. Or else: it comes to your place (ते निष्कृतं स्थानमेति (*te niṣkṛtaṃ sthānameti*)).
+### Printed p. 203
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूः (*pūḥ*)—like a city with a fort
+- असि (*asi*)—you are firm
+- दृह्यस्व (*dṛhyasva*)—stand unshaken in battle
+- निष्कृतं (*niṣkṛtaṃ*)—who is seen as rejecting the enemies
+- त्वा (*tvā*)—you
+- ऋत्वियावती (*ṛtviyāvatī*)—that which is to be ... in due season, **NOTE** and
+- भद्रा (*bhadrā*)—auspicious
+- इयं धीः (*iyaṃ dhīḥ*)—this hymn of praise
+- एति (*eti*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are firm like a city with a fort. Stand unshaken in battle. This hymn of praise, auspicious and **NOTE** in due season, approaches you, who are seen rejecting the enemies.
+
+##### English translation
+Indra, be firm (in battle), you are (strong as) a city; to you, the repeller (of enemies), comes this auspicious sacrifice, offered in due season.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा सी॑मव॒द्य आ भा॑गु॒र्वी काष्ठा॑ हि॒तं धन॑म् ।  
+> अ॒पावृ॑क्ता अर॒त्नयः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । सीम् । अवद्ये । आ । भाक् । उर्वी । काष्ठा । हितम् । धनम् ।  
+> अपऽआवृक्ताः । अरत्नयः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मा अस्मान् सीं सर्वतः अवद्यः निंदा आ भाक् माभजतु । प्राप्नोतु न कुतश्चित् । पापरहितान् कुर्वित्यर्थः। किंच उर्वी काष्ठा बह्वंतरालमाज्यंतः । ‘आज्यंतोऽपि काष्ठोच्यते क्रांत्वा स्थिता भवति' (निरु. २. १५) इति यास्कः । तत्र हितं निहितं शत्रुसंबंधि धनम् अस्माकं भवत्वित्यर्थः । अरत्नयः अरममाणाः शत्रवः अपावृक्ताः संत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+May reproach (अवद्यः निंदा (*avadyaḥ niṃdā*)) not come upon us from any side (सीं सर्वतः (*sīṃ sarvataḥ*)); the meaning is: make us free of sin. Further, उर्वी काष्ठा (*urvī kāṣṭhā*) is the wide space, the end of the course (बह्वंतरालमाज्यंतः (*bahvaṃtarālamājyaṃtaḥ*)). Yāska says (Ni. 2. 15): आज्यंतोऽपि काष्ठोच्यते क्रांत्वा स्थिता भवति (*ājyaṃto 'pi kāṣṭhocyate krāṃtvā sthitā bhavati*) **GLOSS**. There the wealth belonging to the enemy that is stored (हितं निहितं शत्रुसंबंधि धनम् (*hitaṃ nihitaṃ śatrusaṃbaṃdhi dhanam*)) is to be ours. The enemies, अरत्नयः अरममाणाः (*aratnayaḥ aramamāṇāḥ*), are to be driven away (अपावृक्ताः (*apāvṛktāḥ*)).
+### Printed p. 204
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सीं (*sīṃ*)—everywhere
+- अवद्यः (*avadyaḥ*)—reproach
+- मा आ भाक् (*mā ā bhāk*)—may it not approach us
+- काष्ठा (*kāṣṭhā*)—the final goal of the battle
+- उर्वी (*urvī*)—is still very far away
+- हितं (*hitaṃ*)—that which is in the enemies
+- धनं (*dhanaṃ*)—wealth, may it come to us
+- अरत्नयः (*aratnayaḥ*)—enemies who cause sorrow
+- अपावृक्ताः (*apāvṛktāḥ*)—may they go far away
+
+##### भावार्थ (Bhāvārtha)
+
+May reproach not approach us from any side. The final goal of the battle is still very far from us. May the wealth that is in the enemies come to us. May our enemies, who cause sorrow, go far away.
+
+##### English translation
+Let not reproach reach us; far off is the goal; there is the wealth stored; may our enemies be excluded.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒रीयं॒ नाम॑ य॒ज्ञियं॑ य॒दा कर॒स्तदु॑श्मसि ।  
+> आदित्पति॑र्न ओहसे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुरीयम् । नाम । यज्ञियम् । यदा । करः । तत् । उश्मसि ।  
+> आत् । इत् । पतिः । नः । ओहसे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यज्ञियं यज्ञसंबंधि तुरीयं चतुर्थं नाम यदा करः करोषि तदुश्मसि कामयामहे । आदित् अनंतरमेव नामकामानंतरमेव पतिः पालकस्त्वं नः अस्मान् ओहसे वहसि प्रापयसि । नक्षत्रनाम गुह्यं नाम प्रकाशं नामेति त्रीणि नामानि सोमयाजीति तुरीयं नाम तच्च यज्ञियम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you make (करः करोषि (*karaḥ karoṣi*)) the fourth (तुरीयं चतुर्थं (*turīyaṃ caturthaṃ*)) name (नाम (*nāma*)) relating to the sacrifice (यज्ञियं यज्ञसंबंधि (*yajñiyaṃ yajñasaṃbaṃdhi*)), that we desire (तदुश्मसि कामयामहे (*taduśmasi kāmayāmahe*)). Immediately afterwards, after the desire for the name, you, the protector (पतिः पालकस्त्वं (*patiḥ pālakastvaṃ*)), carry us (ओहसे वहसि प्रापयसि (*ohase vahasi prāpayasi*)), bring us to our goal. There are three names: नक्षत्रनाम गुह्यं नाम प्रकाशं नाम (*nakṣatranāma guhyaṃ nāma prakāśaṃ nāma*); the fourth name is that of the Soma-sacrificer (सोमयाजीति तुरीयं नाम (*somayājīti turīyaṃ nāma*)), and that is the one relating to the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 198. Maṇḍala 8 sūkta 79 Ṛks 6-9, sūkta 80 Ṛks 1-2 (pp. 193-198)
+**Progress note:** Done through printed p. 204. Maṇḍala 8 sūkta 80, Ṛk 3-9
