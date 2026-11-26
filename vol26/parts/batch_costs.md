@@ -47,3 +47,5 @@
 | through p. 831 (three windows in one agent: pp. 814-819, 820-825, 826-831) | sonnet | 23 | 199898 | 6.3 |
 | through p. 849 (three windows in one agent: pp. 832-837, 838-843, 844-849) | sonnet | 17 | 203694 | 6.4 |
 | through p. 867 (three windows in one agent: pp. 850-855, 856-861, 862-867) | sonnet | 21 | 181802 | 6.1 |
+| through p. 885 (three windows in one agent: pp. 868-873, 874-879, 880-885) | sonnet | 16 | 148946 | 2.8 |
+| through p. 894 (two windows in one agent: pp. 886-891, 892-894; end of the volume) | sonnet | 15 | 126801 | 2.4 |

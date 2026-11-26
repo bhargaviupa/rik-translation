@@ -1,6 +1,6 @@
 # Publishing the volumes — the to-do list
 
-*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 25 2026**. (T14, the Sāyaṇa-bhāṣya reader, added Nov 18–20 2026: see `sayana_bhr.md`).*
+*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 26 2026**. (T14, the Sāyaṇa-bhāṣya reader, added Nov 18–20 2026: see `sayana_bhr.md`).*
 *Kept current by every session: a finished point is ticked with its date, a new point is added where it belongs, the counts in §1 are refreshed. Counts are from commands run on the date given; estimates are called estimates. Background: `docs/REQUIREMENTS.md` (Part H), `docs/DESIGN.md`, `docs/LEGACY_VOLUMES_PLAN.md`. Other parked points of the project: `TODO.md`. State of one volume in detail: `volN/STATUS.md`.*
 
 Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you)** only the user can do it · **(script)** costs nothing · **(agents)** uses the session allowance · **(scholar)** / **(advice)** someone outside.
@@ -173,3 +173,4 @@ One route for all volumes (the approved design): the Kannada book and the struct
 - Nov 18 2026: T14: English of the Sāyaṇa-bhāṣya made for all 21 sūktas of Vol 11 (Maṃ. 1 Sū. 137–157) and for 3.40; found: the supplied text of Vol 11 lacks Sāyaṇa's introduction to at least nine sūktas that the reference edition has.
 - Nov 19 2026: T14: run stopped as the user asked (3 am IST). 47 of 143 sūktas of the ready volumes have the English of the bhāṣya (Vol 11: 21; Vol 16: 25; Vol 17: 1); questions and readings lists built for Vols 11, 16, 17.
 - Nov 19 2026: T14: Vol 16 complete (English of the bhāṣya for all 33 sūktas; 185 questions, 2,352 readings logged). Run paused for the user's choice of model after a reading of the Sonnet sūktas.
+- Nov 26 2026: **Vol 26 translated** by the agent route (Maṇḍala 9 Sūktas 44–100 with the introduction to the maṇḍala, Aṣṭaka 7 adhyāyas 1–4; pp. 1–894; `vol26/`, branch `claude/epic-curie-xg7s3d`; 939 NOTE, 151 GLOSS; 49 batches, about 8.5M agent tokens). Open (`vol26/STATUS.md`): the heading of Sūkta 72 printed as 22, a doubled Ṛk 5 in Sūkta 78, the gap of the supplied text in Sūktas 90–91 (p. 645) and at p. 809, the second reading of the scan pages 810–894; finishing checklist and PDFs not started. Two small shared-tool changes to bring to `main`: `publish/tools/translit/kannada_to_deva.py` (candrabindu U+0C81), `tools/rv/batch.py` (`"doubt_check": "kn_only"`).
