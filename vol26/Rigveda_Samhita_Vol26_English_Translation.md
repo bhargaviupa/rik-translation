@@ -18551,6 +18551,245 @@ O Soma, making true these riches, the cows and the rest named in the previous ma
 
 O god Soma, making true all the riches that we desire, as described above, flow, purified, desiring our good. Which enemy of ours
 
+### Printed p. 498
+
+whether near or far he may be, destroy every such enemy. Make for us a wide road and fearlessness.
+
+##### English translation
+Bestowing all these true riches, loving us you flow, Soma, purified ; destroy our enemy whether he be far or nigh ; grant us a free road and freedom from danger.
+
+## Sūkta 79 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अचोदसः' इति पंचर्चं द्वादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘ अचोदसः' इत्यनुक्रांतम् । गतो विनियोगः ।
+
+##### Gist of the bhāṣya
+
+The sūkta of five ṛks beginning अचोदसः (*acodasaḥ*) is the twelfth sūkta. The seer and the rest are as before. It is listed in the Anukramaṇī as अचोदसः (*acodasaḥ*). The ritual use has been stated already.
+
+##### Anuvāda
+
+The sūkta अचोदसः (*acodasaḥ*) is the twelfth sūkta in the fourth anuvāka. It has five ṛks. The seer, deity and metre of this sūkta are the same as in the previous sūkta. In the Anukramaṇī it is said अचोदसः (*acodasaḥ*). The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 79. Maṇḍala 9, Anuvāka 4, Sūkta 79. Aṣṭaka 7, Adhyāya 3, Varga 4. Number of ṛks in the sūkta: 5. Seer: Kavi. Deity: Pavamāna Soma. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒चो॒दसो॑ नो धन्वं॒त्विंद॑वः॒ प्र सु॑वा॒नासो॑ बृ॒हद्दि॑वेषु॒ हर॑यः ।  
+> वि च॒ नश॑न्न इ॒षो अरा॑तयो॒ऽर्यो न॑शंत॒ सनि॑षंत नो॒ धियः॑ ॥ १ ॥
+
+### Printed p. 499
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अचोदसः । नः । धन्वंतु । इंदवः । प्र । सुवानासः । बृहत्ऽदिवेषु । हरयः ।  
+> वि । च । नशन् । नः । इषः । अरातयः । अर्यः । नशंत । सनिषंत । नः । धियः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अचोदसः अचोदना अनन्यप्रेरिताः इंदवः सोमाः नः अस्माकं प्र धन्वंतु प्रगच्छंतु । धन्वतिर्गतिकर्मा। कुत्र। बृहद्दिवेषु प्रभूतदीप्तिषु यागेषु निमित्तेषु । अथवा बृहद्दिवकुलजेषु मध्ये । न इति संबंधः । कीदृशा इंदवः । सुवानासः सूयमानाः हरयः हरितवर्णाः । किंच नः अस्मभ्यं ये च इषः अन्नस्य अरातयः अदातारः संति ते च वि नशन् विनश्यंतु । तथा अर्यः अरयोऽपि नशंत विनश्यंतु। सनिषंत संभजंतु च नो धियः अस्मदीयानि कर्माणि देवा अस्मत्प्रियभूता वा ॥
+
+##### Gist of the bhāṣya
+
+Let the Soma-juices, self-impelled, that is, not urged by another, go forth to us; the root dhanv means motion. Where? In the sacrifices of abundant brilliance, बृहद्दिवेषु (*bṛhaddiveṣu*), as the occasion; or else among those born in the family of Bṛhaddiva. The word "our" is to be connected. What kind of juices? Being pressed, and green-coloured. Further, let those who are withholders of food from us perish; likewise let our enemies perish. And let the gods, or those who are dear to us, enjoy our acts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अचोदसः (*acodasaḥ*)—self-impelled
+- सुवानासः (*suvānāsaḥ*)—to be pressed
+- हरयः (*harayaḥ*)—of green colour
+- इंदवः (*iṃdavaḥ*)—the Soma-juices
+- बृहद्दिवेषु (*bṛhaddiveṣu*)—on the brilliant days of the sacrifice
+- नः (*naḥ*)—to favour us
+- प्र धन्वंतु (*pra dhanvaṃtu*)—may they flow forth
+- नः (*naḥ*)—our
+- इषः (*iṣaḥ*)—for food
+- अरातयः (*arātayaḥ*)—obstructors (those who do not give)
+- वि नशन् (*vi naśan*)—may they perish
+- अर्यः (*aryaḥ*)—our enemies also
+- नशंत (*naśaṃta*)—may they perish
+- देवाः (*devāḥ*)—(the gods)
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—acts
+- सनिषंत (*saniṣaṃta*)—may they enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+May the Soma-juices, which are pressed and of green colour, flow forth of their own impulse, to favour us, on our brilliant days of sacrifice. May those who do not give us food perish. May our enemies also perish. May the gods enjoy our acts.
+
+##### English translation
+May the spantaneous Soma-juices flow to us at the brilliaut (sacrifices) green-tinted, effused ; may they be destroyed who are the withholders of food from us ; may (our) foes be destroyed ; may (the gods) enjoy our pious acts. **NOTE**
+
+### Printed p. 500
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र णो॑ धन्वं॒त्विंद॑वो मद॒च्युतो॒ धना॑ वा॒ येभि॒रर्व॑तो जुनी॒मसि॑ ।  
+> ति॒रो मर्त॑स्य॒ कस्य॑ चि॒त्परि॑ह्वृतिं व॒यं धना॑नि वि॒श्वधा॑ भरेमहि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नः । धन्वंतु । इंदवः । मदऽच्युतः । धना । वा । येभिः । अर्वतः । जुनीमसि ।  
+> तिरः । मर्तस्य । कस्य । चित् । परिऽह्वृतिम् । वयम् । धनानि । विश्वधा । भरेमहि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र धन्वंतु प्रगच्छंतु नः अस्माकम् इंदवः सोमाः मदच्युतः मदस्राविणः । वा अथवा। किंचेत्यर्थः। धना धनान्यपि प्र धन्वंतु । येभिः यैः सोमैः अर्वतः बलवतः शत्रोः समीपं जुनीमसि जुनीमः प्राप्नुमः । कस्य चित् कस्यापि मर्तस्य मनुष्यस्य प्रबलस्य परिह्वृतिं परितो बाधां तिरः तिरस्कुर्वंतो वयं धनानि गवादिरूपाणि विश्वधा सर्वदा भरेमहि बिभृयाम ॥
+
+##### Gist of the bhāṣya
+
+Let the Soma-juices, which drip intoxication, go forth to us. Or else, "moreover": let riches also go forth. By means of which Soma-juices we reach the neighbourhood of a powerful enemy, overcoming the harassment on all sides from any mortal, any powerful man, may we always bear wealth in the form of cows and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येभिः (*yebhiḥ*)—by the help of which Soma-juices
+- आर्वतः (*ārvataḥ*)—powerful enemies **NOTE**
+- जुनीमसि (*junīmasi*)—such as we can confront and resist
+- इंदवः (*iṃdavaḥ*)—the Soma-juices
+- नः (*naḥ*)—for us
+- प्र धन्वंतु (*pra dhanvaṃtu*)—may they flow forth
+- मदच्युतः (*madacyutaḥ*)—those juices that produce joy
+- धना (*dhanā*)—may they supply us riches also
+- कस्य चित् (*kasya cit*)—all
+- मर्तस्य (*martasya*)—of the man (the enemy)
+- परिह्वृतिं (*parihvṛtiṃ*)—all the obstructions
+- तिरः (*tiraḥ*)—crossing over
+- वयं (*vayaṃ*)—we
+- धनानि (*dhanāni*)—the riches in the form of cows and the like
+- विश्वधा (*viśvadhā*)—always
+- भरेमहि (*bharemahi*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+May the Soma-juices by whose help we can confront powerful enemies flow forth for us. May those joy-producing juices supply us with riches. Crossing over all the obstruction of the enemy, may we always obtain cattle, the riches in the form of cows and the like.
+
+### Printed p. 501
+
+##### English translation
+May they flow to us, may they bring us riches--the honey-dropping Soma-juices by whose aid we encounter tbe powerful (enemy) ; may we over- coming the opposition of every man always bear off his wealth. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्वस्या॒ अरा॑त्या अ॒रिर्हि ष उ॒तान्यस्या॒ अरा॑त्या॒ वृको॒ हि षः ।  
+> धन्व॒न्न तृष्णा॒ सम॑रीत॒ ताँ अ॒भि सोम॑ ज॒हि प॑वमान दुरा॒ध्यः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्वस्याः । अरात्याः । अरिः । हि । सः । उत । अन्यस्याः । अरात्याः । वृकः । हि । सः ।  
+> धन्वन् । न । तृष्णा । सम् । अरीत । तान् । अभि । सोम । जहि । पवमान । दुःऽआध्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च सः सोमः स्वस्याः अरात्याः स्वीयस्य शत्रोः अरिः अभिगंता हननाय । उत अपि च सः सोमः अन्यस्याः अस्मदीयायाः अरात्याः अस्मच्छत्रोः वृको हि हिंसकः खलु । अरातिशब्दः स्त्रीलिंगोऽप्यस्ति । अथ प्रत्यक्षकृतः । धन्वन्न तृष्णा । धन्व निरुदको देशः । तस्मिन् स्थितस्य तृष्णेव सा यथा तं समरीत प्राप्नोति तद्वत् तान् उभयविधान् शत्रून् जहि ॥
+
+##### Gist of the bhāṣya
+
+That Soma is the enemy, the one who approaches for killing, of his own foe. And that Soma is the wolf, the destroyer, of the foe of another, that is, of our enemy. Dhanva is a waterless region; as thirst reaches a man who stays there, so slay both kinds of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सः (*saḥ*)—that Soma
+- स्वस्याः (*svasyāḥ*)—his own
+- अरात्याः (*arātyāḥ*)—to the enemy
+- अरिः (*ariḥ*)—is the destroyer
+- उत (*uta*)—and
+- सः (*saḥ*)—the same Soma
+- अन्यस्याः (*anyasyāḥ*)—of others
+- अरात्याः (*arātyāḥ*)—to the enemy also
+- वृको हि (*vṛko hi*)—is the harmer
+- धन्वन् (*dhanvan*)—in the desert
+- तृष्णा (*tṛṣṇā*)—thirst
+- न (*na*)—in which manner
+- समरीति (*samarīti*)—as it surrounds and torments **NOTE**
+- पवमान (*pavamāna*)—O purifier
+- सोम (*soma*)—O Soma
+- दुराध्यः (*durādhyaḥ*)—you who are unassailable
+- तान् (*tān*)—all such enemies
+- जहि (*jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+Soma is the destroyer of all enemies, both his own and his devotees'. O purifying Soma, as thirst torments one who wanders in a desert, so you, the unassailable, destroy all the enemies.
+
+### Printed p. 502
+
+##### English translation
+For the (Soma) verily is the foe of his own enemy and the destroyer of the enemy of another ; as thirst overcomes one in a desert, so purified Soma who are irresistible, slay (both) those (adversaries).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वि ते॒ नाभा॑ पर॒मो य आ॑द॒दे पृ॑थि॒व्यास्ते॑ रुरुहुः॒ सान॑वि॒ क्षिपः॑ ।  
+> अद्र॑यस्त्वा बप्सति॒ गोरधि॑ त्व॒च्य१॒॑प्सु त्वा॒ हस्तै॑र्दुदुहुर्मनी॒षिणः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवि । ते । नाभा । परमः । यः । आऽददे । पृथिव्याः । ते । रुरुहुः । सानवि । क्षिपः ।  
+> अद्रयः । त्वा । बप्सति । गोः । अधि । त्वचि । अप्ऽसु । त्वा । हस्तैः । दुदुहुः । मनीषिणः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव सः परमः उत्तमोंऽशो दिवि दिवः नाभा नाभौ द्युलोकस्य नाभिस्थानीये देशे । अथवा नाभौ वृष्ट्यादेर्बंधके दिवि द्युलोके। वर्तते य आददे आदत्ते हविर्देवतारूपः सन् । ते तव द्युलोकस्थांशस्यावयवाः पृथिव्याः सानवि समुच्छ्रिते  देशे पर्वतादिप्रदेशे क्षिपः क्षिप्ताः । संतः रुरुहुः रोहंति । त्वा त्वां द्युलोकस्थसोमांशभूतम् अद्रयः ग्रावाणः बप्सति भक्षयंति । बप्सतिरत्तिकर्मा । कुत्र । गोरधि त्वचि । अधीति सप्तम्यर्थानुवादी । आनडुहेऽधिषवणचर्मणीत्यर्थः। यद्यपि इदानींतनाः कृष्णाजिनेऽभिषुण्वंति न गोचर्मणि तथापि तस्मिन् सोमो मीयते क्रयार्थम् । तथा च सति यस्मिन् मिमीते तस्याधिप्रवणचर्म इति सूत्रात् मानसाधनस्यैव गोचर्मणः अधिषवणचर्मत्वाभिधानादविरोधः । त्वा त्वां तथा अप्सु वसतीवरीषु दुदुहुः दुहंति । अद्भिराप्लाव्य दुहंतीत्यर्थः । यद्वा । अप्सूदकेषु रसेषु निमित्तेषु दुदुहुः दुहंति । कैः साधनैः। हस्तैः । 'हस्तो हंतेः ' (निरु. १. ७) इति निरुक्तम् । के। मनीषिणः मेधाविनोऽध्वर्य्वादयः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, that best part of yours which takes the oblation, being in the form of a deity, is in heaven, in the navel of the heavenly world, that is, in the region that stands for its navel; or else in heaven, which binds rain and the like. The members of your heavenly part, thrown upon the elevated places of the earth, the regions of mountains and the like, grow. The pressing stones devour you, the part of Soma that is in heaven, upon the cowhide, that is, upon the hide of an ox used for pressing. Although men nowadays press on the black antelope skin and not on cowhide, yet the Soma is measured out on it for the purchase; and since, according to the sūtra, that on which one measures is called the pressing hide, the cowhide that serves as the means of measuring is called the pressing hide, so there is no contradiction. Likewise they milk you into the waters, the Vasatīvarī: having sprinkled you with waters, they milk; or else into the waters, that is, the juices, as the occasion. By what means? With the hands; the Nirukta (Ni. 1. 7) says हस्तो हंतेः (*hasto haṃteḥ*). Who do so? The wise ones, the Adhvaryu and the other priests.
+
+### Printed p. 503
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—O god Soma, which divine part of yours
+- आददे (*ādade*)—receives the oblation
+- ते (*te*)—your
+- परमः (*paramaḥ*)—that same most excellent part
+- दिवि (*divi*)—of the world of heaven
+- नाभा (*nābhā*)—is in the navel region
+- ते (*te*)—your remaining members
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- सानवि (*sānavi*)—in the mountain regions
+- क्षिपः (*kṣipaḥ*)—thrown
+- रुरुहुः (*ruruhuḥ*)—grow
+- त्वा (*tvā*)—you
+- अद्रयः (*adrayaḥ*)—the pressing stones
+- गोः त्वचि अधि (*goḥ tvaci adhi*)—upon the skin of the cow
+- बप्सति (*bapsati*)—devour
+- मनीषिणः (*manīṣiṇaḥ*)—the wise priests
+- हस्तैः (*hastaiḥ*)—with their hands
+- त्वा (*tvā*)—you
+- अप्पु (*appu*)—in the waters such as the Vasatīvarī **NOTE**
+- दुदुहुः (*duduhuḥ*)—milk
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, that divine part of yours which receives the oblation, that same most excellent part of yours is in the navel region of the world of heaven. Your remaining members, thrown upon the mountain regions of the earth, grow. The pressing stones devour you upon the cowhide (they place you). The wise priests milk you with their hands into the waters such as the Vasatīvarī.
+
+##### English translation
+Your best juice (dwells) in the navel of heaven, that which receives (the oblation) ; your (members) grow up thrown upon the summit of the earths the stones devour you upon the cowhide ; the wise (priests) milk you into the water with their hands.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा त॑ इंदो सु॒भ्वं॑ सु॒पेश॑सं॒ रसं॑ तुंजंति प्रथ॒मा अ॑भि॒श्रियः॑ ।  
+> निदं॑निदं पवमान॒ नि ता॑रिष आ॒विस्ते॒ शुष्मो॑ भवतु प्रि॒यो मदः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । ते । इंदो इति । सुऽभ्वम् । सुऽपेशसम् । रसम् । तुंजंति । प्रथमाः । अभिऽश्रियः ।  
+> निदम्ऽनिदम् । पवमान । नि । तारिषः । आविः । ते । शुष्मः । भवतु । प्रियः । मदः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 497. Sukta 78 rks 1-5 (Bhavartha of rk 5 breaks off)
+**Progress note:** Done through printed p. 503. Sūkta 78 end; Sūkta 79 Ṛk 1-4 and Ṛk 5 Saṃhitā/Pada, pp. 498-503
