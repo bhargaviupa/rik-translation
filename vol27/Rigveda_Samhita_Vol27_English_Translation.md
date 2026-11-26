@@ -29974,6 +29974,238 @@ The devout (priest) excels (going) towards your place of worship : the quick-mov
 > निधीयमानं । अपगूळ्हं । अप्सु । प्र । मे । देवानां । व्रतपाः । उवाच ।  
 > इंद्रः । विद्वान् । अनु । त्वा । चचक्ष । तेन । अहं । अग्ने । अनुशिष्टः । आ । अगां ॥
 
+### Printed p. 838
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुरुश्रवणस्य यज्ञे निधीयमानोऽग्निरभिधीयते । निधीयमानमध्वर्युणाहवनीयेऽग्नावप्पु मातृभूतास्वपगूळ्हमंतर्हितं देवानां व्रतपाः कर्मणो
+> रक्षक इंद्रो मे मह्यं प्रोवाच । प्रावादीत् । हे अग्ने विद्याज्ञानान इंद्रः
+> स्वाधिकारमस्मद्भक्ततां वा त्वा त्वामनु हि चचक्ष । अनुगतः पश्चाद्ददर्श । तेनेंद्रेणानुशिष्टोऽहमनेन पथा त्वया स्वर्गो गंतव्य इत्येवमुपदिष्टः सन्नागां
+> अभिमुख्येन स्वर्गं गच्छेयं ॥
+
+##### Gist of the bhāṣya
+
+The deposited Agni is spoken of in the sacrifice of Kuruśravaṇa. Indra, the protector of the rites of the gods, declared to me the Agni deposited by the Adhvaryu in the Āhavanīya fire and hidden among the waters, who are his mothers. O Agni, Indra, who knows, has afterwards looked upon you following his own rightful office or our devotion to him. Instructed by that Indra, "You must go to heaven by this path", may I go facing heaven. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निधीयमानं (*nidhīyamānaṃ*)—(O Agni) you who are deposited in the Āhavanīya fire
+- अप्सु (*apsu*)—in the waters
+- अपगूळ्हं (*apagūḷhaṃ*)—and hidden, concerning you
+- देवानां (*devānāṃ*)—of the gods
+- व्रतपा (*vratapā*)—Indra, the protector of the rites
+- मे (*me*)—to me
+- प्र उवाच (*pra uvāca*)—said
+- अग्ने (*agne*)—O Agni
+- विद्वान् (*vidvān*)—knowing all
+- इंद्रः (*iṃdraḥ*)—Indra
+- त्वा (*tvā*)—you
+- अनु चचक्ष (*anu cacakṣa*)—has looked upon at once, directly
+- तेन (*tena*)—by that Indra
+- अनुशिष्टः (*anuśiṣṭaḥ*)—instructed
+- अहं (*ahaṃ*)—I
+- आगां (*āgāṃ*)—may I go facing heaven
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Indra, the protector of the rites of the gods, told me about you, who are deposited in the Āhavanīya fire and hidden in the waters. O Agni, Indra, who knows all, has looked upon you directly at once. Instructed by that Indra, may I go facing heaven.
+
+##### English translation
+The guardian of the sacred rites of the gods, Indra, said to me, (Agni), who had been deposited in the waters; the sagacious Indra, following you, Agni, has discovered you, therefore admonished by him may I, Agni, proceed to heaven.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक्षे॑त्रवित् क्षेत्र॒विदं॒ ह्यप्रा॒ट् स पैति॑ क्षेत्र॒विदानु॑शिष्टः ।  
+> ए॒तद्वै भ॒द्रम॑नु॒शास॑नस्यो॒त स्तु॒तिं विं॑दत्यंज॒सीनां॑ ॥ ७ ॥
+
+### Printed p. 839
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षेत्रवित् । क्षेत्रविदं । हि । अप्राट् । सः । प्र । एति । क्षेत्रविदा । अनुशिष्टः ।  
+> एतत् । वै । भद्रं । अनुशासनस्य । उत । स्तुतिं । विंदति । आंजसीनां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सेयमनुशासनस्तुतिः प्रासंगिकी । अक्षेत्रवित् ॥ क्षि निवासगत्योः ॥ क्षीयते
+> गम्यतेनेनेति क्षेत्रं पंथाः । पंथानमजानन् पुरुषः क्षेत्रविदं क्षेत्रज्ञं पुरुषमप्राट् । पृष्टवान् । स क्षेत्रविदा पथिज्ञेन तेनानुशिष्टः प्रदर्शितमार्गः सन् प्रैति ।
+> स्वाभिलषितं देशं गच्छति । अनुशासनस्य मार्गोपदेशरूपस्यतद्वा एतत्पलु भद्रं
+> भजनीयं कल्याणकरं । किं तत् । उतापि चांजसीनामृजुना मार्गेण गंतव्यानामपां स्तुतिं मार्गं पिपासितः सन् विंदति । लभते । यद्वा । अंजसीनामिति
+> स्तुतीर्विशेषणं । ऋजुमकुटिलमप्रयासेन गंतव्यं मार्गं लभते खलु ॥
+
+##### Gist of the bhāṣya
+
+This praise of instruction is incidental. अक्षेत्रवित् (*akṣetravit*): क्षेत्रं (*kṣetraṃ*) is the path, that by which one is led. A man who does not know the path has asked the one who knows it, the knower of the way. Instructed by him, shown the road, he goes to the place he desires. This instruction, consisting in showing the way, is good, to be resorted to, beneficial. What is it? Also, the thirsty man finds the path of the waters that are to be reached by a straight road. Or else, अंजसीनां (*aṃjasīnāṃ*) is an epithet of the praise: he obtains the straight, not crooked path, to be reached without effort. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षेत्रवित् (*akṣetravit*)—one who does not know the best path
+- क्षेत्रविदं (*kṣetravidaṃ*)—the man who knows the path
+- अप्राट् (*aprāṭ*)—asks, questioning
+- सः (*saḥ*)—he
+- क्षेत्रविदा (*kṣetravidā*)—by one who knows the path
+- अनुशिष्टः (*anuśiṣṭaḥ*)—having been instructed
+- प्रैति (*praiti*)—goes to the region he wished
+- एतद्वै (*etadvai*)—the very reaching of this goal
+- अनुशासनस्य (*anuśāsanasya*)—of this instruction in the way
+- भद्रं (*bhadraṃ*)—is the auspicious accomplishment
+- उत (*uta*)—and
+- अंजसीनां (*aṃjasīnāṃ*)—of the straight-flowing waters
+- स्तुतिं (*stutiṃ*)—the path
+- विंदते (*viṃdate*)—(the weary one) obtains
+
+##### भावार्थ (Bhāvārtha)
+
+One who does not know the best path asks the man who knows it. After the instruction in the way he goes to the region he wished. Reaching this goal is the auspicious accomplishment of the instruction in the way. The weary one obtains, through this instruction, the path of the straight-flowing waters.
+
+##### English translation
+One who knows not the road inquires it of one who knows it ; and directed by him who knows the way proceeds (to his destination): such verily is the good of instruction, and (thereby) one finds the path of the things that are to be reached by a straight path.
+### Printed p. 840
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्येदु॒ प्राणे॒दम॑मन्नि॒माहापी॑वृतो अधयन्मा॒तुरूधः॑ ।  
+> एमे॑नमाप जरि॒मा युवा॑न॒महे॑ळ॒न्वसुः॑ सु॒मना॑ बभूव ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्य । इत् । ऊं इति । प्र । आनीत् । अममन् । इमा । अहा । अपिवृतः ।  
+> अधयत् । मातुः । ऊधः ।  
+> आ । ईं । एनं । आप । जरिमा । युवानं । अहेळन् । वसुः । सुमनाः । बभूव ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निरद्येददैवास्मिन्निने प्राणीत् । मथनेन चेष्टितोऽभवत् । श्वस
+> प्राणने अन चेति धातुः ॥ तदानीमेवेमेमान्यहाहानि सौमिकान्यममन् ।
+> नेतुममन्यत ॥ मन ज्ञाने । व्यत्ययेन श्लुः । तिजिउत्तरत्पादनिघातः ॥ अपि चापीकृतस्तेजोभिः परिवृतः सन् मातुः पृथिव्या ऊधः सारभूतं सोमादिकं हविरधयत् । पिबति ! तथा युवानां नित्यतरुणं देवानां हविषा मिश्रयंतं वैनमग्निं
+> जरिमा ॥ जरतिः स्तुतिकर्मा । तस्मादौणादिक इमनिच् ॥ स्तोतृभिः क्रियमाणा स्तुतिराप ! अभिमुख्येन व्याप्नोति । ईमिति पूरणः । ततोऽहेळन्नक्रुद्यन् स्तोतृन्मृति
+> वसुर्वासयिता सर्वेषां धनदानेनाच्छादयिता तेजोभिः शत्रूणां वा वसुमान्वाग्निः सुमनाः शोभनमनस्को बभूव ॥
+
+##### Gist of the bhāṣya
+
+This Agni, on this very day, breathed, that is, came to life when churned (the root is for breathing and living). Just then he thought of leading these days of the Soma sacrifice. Surrounded by lights, he drinks the Soma and other oblation, the essence of his mother, the Earth. And the praise, made by the praisers (the word for praise is derived from the root meaning to praise), reaches the ever-youthful Agni, who is mingled with the oblation of the gods, approaching him directly. Then Agni, free from anger toward the praisers, the Vasu, who clothes all by giving wealth or clothes enemies with his lights, or who is rich in wealth, became well-disposed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्येत् (*adyet*)—this very day
+- प्राणीत् (*prāṇīt*)—churned, Agni became full of life
+- इमा अहा (*imā ahā*)—these days of the Soma sacrifice
+- अममन् (*amaman*)—he thought they should be performed
+- अपीवृतः (*apīvṛtaḥ*)—endowed with lights
+- मातुः (*mātuḥ*)—belonging to the Earth
+- ऊधः (*ūdhaḥ*)—the essential oblation
+- अधयत् (*adhayat*)—drinks
+- युवानं (*yuvānaṃ*)—the ever-youthful
+- ईं एनं (*īṃ enaṃ*)—this Agni
+- जरिमा (*jarimā*)—praise
+- आप (*āpa*)—reaches
+- वसुः (*vasuḥ*)—Agni, giver of dwelling
+- आहेळन् (*āheḷan*)—without anger
+- सुमनाः (*sumanāḥ*)—with a gracious mind
+- बभूव (*babhūva*)—has become
+
+##### भावार्थ (Bhāvārtha)
+
+On this very day the churned Agni became full of life. He thought that these days of the Soma sacrifice should be performed. Endowed with lights, he drinks the essential oblation belonging to the Earth.
+### Printed p. 841
+Praise reaches the ever-youthful Agni. Agni, the giver of dwelling, without anger, has become gracious in mind.
+
+##### English translation
+To-day (Agni) breathed: he purposed (to conduct) these days surrounded (by lustre), and drank the sap of his mother (earth): the praise of his (worshippers) reaches the ever-youthful (Agni), and he has become gentle, generous, and well-disposed.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तानि॑ भ॒द्रा क॑लश क्रियाम॒ कुरु॑श्रवण॒ दध॑तो म॒घानि॑ ।  
+> दा॒न इद्दो॑ मघवानः॒ सो अ॑स्त्व॒यं च॒ सोमो॑ हृ॒दियं  ॑
+> बिभर्मि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतानि । भद्रा । कलश । क्रियाम । कुरुश्रवण । ददतः । मघानि ।  
+> दानः । इत् । वः । मघ्नवानः । सः । अस्तु । अयं । च । सोमः । हृदि । यं ।  
+> बिभर्मि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कलश सर्वकलापरिपूर्ण । यद्वा । लुप्तमत्त्वर्थीयः । द्रोणकलशवन् !
+> हे कुरुश्रवण । कुरव ऋत्विजः । तेषां स्वभूतानां स्तुतीनां श्रोतर्हे इंद्र
+> मघानि धनानि स्तोतृभ्यो यष्टृभ्यश्च ददतः प्रयच्छतस्तवेंद्रस्यार्थमेतानि
+> भद्रा भजनीयानि हवींषि स्तोत्राणि च क्रियाम । विधेयास्मि ॥ करोतेराशीर्लिजि
+> रिज् शय्ग्लिंक्षु । पा ७.४.२८ । इति रिजादेशः ॥ अथ स्तोतृन्यत्याह । हे मघवानो महनीयस्तोत्ररूपधनवंतः वो युष्माकं स इंद्रो दान इद्दनादेर्दातैवास्तु । भवतु । अयं च यज्ञॆ स्थितः सोमो दातास्तु हृदय आत्मीये
+> यं पीतं सोमं बिभर्मि धारयामि॥ डुभृञ्छध: रणपूषणयोः। जौहोत्यादिकः।
+> भृञामितित्यभ्यासस्यॆत्वं । यद्योगावनिघातः ॥ यद्वा । हे कलशकुलजात हे कुरुश्रवणैतन्नामक त्रसदस्कोः पुत्र राजन् ऋत्विग्यो धनानि प्रयच्छतस्तवार्थं
+> वयं कर्माणि क्रियाम । मघवानः कुरुश्रवणाः । पूजायां बहुवचनपदं ।
+> योगकर्म कुर्वाणस्य तवेंद्रो दाता भवतु । अयं सोमश्च धनानि प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Kalaśa, complete in all the arts; or else (the suffix of possession being dropped) one who has the Droṇa vessel, like the Droṇa vessel. O Kuruśravaṇa (the Kurus are the priests, and he is the hearer of their praises, O Indra): for you who give riches to the praisers and sacrificers we offer these auspicious oblations and praises. Then he addresses the praisers: O you who are rich in venerable praise, may that Indra be a giver of gifts to you, and may this Soma standing in the sacrifice be a giver, the Soma which, drunk, I bear in my own heart. Or else: O one born in the family of Kalaśa, O king named Kuruśravaṇa, son of Trasadasyu, for you who give riches to the priests we perform rites; the plural मघवानः (*maghavānaḥ*) is a plural of respect. May Indra be a giver to you who perform the sacrifice, and may this Soma give riches. **NOTE**
+### Printed p. 842
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कलश (*kalaśa*)—you who have the Droṇa vessel
+- कुरुश्रवण (*kuruśravaṇa*)—and hear the hymns of the priests, O Indra
+- मघानि (*maghāni*)—riches
+- ददतः (*dadataḥ*)—for you who give
+- एतानि भद्रा (*etāni bhadrā*)—these auspicious oblations
+- क्रियाम (*kriyāma*)—we offer
+- मघवानः (*maghavānaḥ*)—O praisers who have venerable praises
+- वः (*vaḥ*)—to you
+- सः (*saḥ*)—Indra
+- दान इत् (*dāna it*)—as a giver of gifts
+- अस्तु (*astu*)—may he be
+- यं (*yaṃ*)—which Soma
+- हृदि (*hṛdi*)—in the heart
+- बिभर्मि (*bibharmi*)—I bear (that is, drink), such
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma also, may it give wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have the Droṇa vessel and hear the hymns of the priests, we offer these auspicious oblations for you, who give riches. O praisers who have venerable praises, may Indra, and also this Soma on which we meditate, give you wealth in abundance.
+
+##### English translation
+(Indra), the possessor of the pitchers, the bearer of the praises of the Kurus, let us celebrate these auspicious adorations of you, the giver of riches : may he, (Indra), be the donor (of affluence) to you who are opulent, (in pious offering), and (so may) this Soma which I cherish in my heart.
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । प्रमथांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pramathāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये सप्तमाष्टके सप्तमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣye saptamāṣṭake saptamo 'dhyāyaḥ samāptaḥ ‖*) Here the seventh chapter in the seventh aṣṭaka of the Ṛgveda-saṃhitā, with the Śrī Sāyaṇa-bhāṣya and the Kannada translation, is concluded.
+ओं तत्पत् (*oṃ tatpat*)
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostu te ‖*) **GLOSS**
+शुभं भवयात् (*śubhaṃ bhavayāt*)
+मंगळं (*maṃgaḷaṃ*)
+श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं समामिगजाननं ॥ यस्य निश्यसितं वेदा यो वेदेभ्योखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ वेदः शिवः शिवो वेदो वेदाध्याया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ सप्तमे सप्तमं त्वद्य व्याख्याय श्रुतिकोविदः । सायणार्यस्ततोऽध्यायमष्टमं व्याचिकीर्षति । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ samāmigajānanaṃ ‖ yasya niśyasitaṃ vedā yo vedebhyokhilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖ vedaḥ śivaḥ śivo vedo vedādhyāyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖ saptame saptamaṃ tvadya vyākhyāya śrutikovidaḥ | sāyaṇāryastato 'dhyāyamaṣṭamaṃ vyācikīrṣati |*) **GLOSS**
+अथ सप्तमाष्टकेऽष्टमोऽध्यायः (*atha saptamāṣṭake 'ṣṭamo 'dhyāyaḥ*) The eighth chapter in the seventh aṣṭaka. The thirty-third sūkta in the tenth maṇḍala.
+## Sūkta 33 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथाष्टमोऽध्याय आरभ्यते । तत्र प्र मेति नवर्चं चतुर्थं सूक्तं । ऐलूषस्य कवषस्यार्षं । आद्या त्रिष्टुप् सा च वैश्वदेवी । द्वितीयातृतीये बृहतीसतोब्रहत्यावैंद्रौ । पराः षड्गायत्र्यः । कुरुश्रवणमावृणीति द्वाभ्यां तसदस्युपुत्रस्य
+> कुरुश्रवणनान्नो राज्यो दानं तुष्टाव । अतस्तद्देवताके । अथ यस्य प्रस्वादस
+> इत्यादिभिश्चतसृभिर्मित्रातिथिनामि राजि परलोकं गते शोकाभिभूतं तस्य पुत्रमुपश्रवोनामानं कवष ऋषिः स्नेहवशादभिगत्य विगतशोकमकरोत् । अतस्तासां
+
+##### Gist of the bhāṣya
+
+Now the eighth chapter begins. In it the fourth sūkta, of nine ṛks, beginning प्र मेति (*pra meti*). Its seer is Kavaṣa, son of Ilūṣa. The first is in Triṣṭubh, and it is addressed to the Viśvedevas. The second and third are in Bṛhatī and Satobṛhatī, and are addressed to Indra. The remaining six are in Gāyatrī. By the two beginning कुरुश्रवणमावृणीति (*kuruśravaṇamāvṛṇīti*) the seer praised the gift of the king named Kuruśravaṇa, son of Trasadasyu; hence the gift is their deity. By the four beginning यस्य प्रस्वादसः (*yasya prasvādasaḥ*), when the king Mitrātithi had gone to the other world, the seer Kavaṣa, out of affection, approached his son named Upaśravas, who was overcome by grief, and freed him from sorrow. Hence they have that as their deity. **NOTE**
+### Printed p. 844
+
+> तद्देवतात्वं । तथा चानुक्रांतं । प्र माद्या वैश्वदेवैंद्रः प्रगाथः परा
+> गायत्र्यो द्वे कुरुश्रवणस्य त्रासदस्यवस्य दानस्तुतिः पराभिर्मृते मित्रातिथौ राज्ञि
+> तत्स्नेहादृषिरूपमश्रवसं पुत्रमस्य व्यशोकयदिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+So the Anukramaṇī says: the first is for the Viśvedevas and Indra, a Pragātha, the following Gāyatrī; the two are the gift-praise of Kuruśravaṇa Trāsadasyava; by the following, when king Mitrātithi had died, the seer, out of affection for him, freed his son Upamaśravas from sorrow. The application has been given.
+The Kannada Anuvāda: The commentary on the eighth chapter in the seventh aṣṭaka is now begun. This sūkta, the first of this chapter, beginning प्र मा युयुजे (*pra mā yuyuje*), is the fourth sūkta in the third anuvāka of the tenth maṇḍala. It has nine ṛks. Its seer is Kavaṣa, son of Ilūṣa. The first ṛk of this sūkta is in Triṣṭubh metre and has the Viśvedevas as deity. The second and third ṛks are in Bṛhatī and Satobṛhatī metres and have Indra as deity; the six ṛks from there on are in Gāyatrī metre. By the two ṛks (4-5) beginning कुरुश्रवणमावृणि (*kuruśravaṇamāvṛṇi*) the seer praised the gift of the king named Kuruśravaṇa, son of Trasadasyu; therefore the gift-praise is the deity of those ṛks. By the four ṛks (6-9) beginning यस्य प्रस्वादसः (*yasya prasvādasaḥ*) he refers to how, when the king named Mitrātithi died, the seer, out of his affection for him, consoled his son named Upaśrava and removed his grief; therefore the removal of Upaśrava's grief is the deity of those ṛks. In the Anukramaṇī it is said: प्र माद्या वैश्वदेवैंद्रः प्रगाथः परा गायत्रो द्वे कुरुश्रवणस्य त्रासदस्यवस्य दानस्तुतिः पराभिर्मिते मित्रातिथौ राज्जि तत्नेहादृषिरुपमश्रवसं पुत्रमस्य व्यशोकयत् (*pra mādyā vaiśvadevaiṃdraḥ pragāthaḥ parā gāyatro dve kuruśravaṇasya trāsadasyavasya dānastutiḥ parābhirmite mitrātithau rājji tatnehādṛṣirupamaśravasaṃ putramasya vyaśokayat*) The application was stated before.
+Particulars: Maṇḍala 10; Anuvāka 3; Sūkta 33. Aṣṭaka 7; Adhyāya 8; Varga 1, 2. Number of Ṛks in the sūkta: 9. Seer: Kavaṣa Ailūṣa. Deity: 1 Viśvedevas; 2-3 Indra; 4-5 gift-praise of Kuruśravaṇa Trāsadasyava; 6-9 Upamaśravas, son of Mitrātithi. Metre: 1 Triṣṭubh; 2 Bṛhatī; 3 Satobṛhatī; 4-9 Gāyatrī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मा॑ युयुज्रे प्र॒युजो॒ जना॑नां॒ वहा॑मि स्म पू॒षण॒मंत॑रेण ।
+
 ---
 
-**Progress note:** Done through printed p. 837. Mandala 10 Sukta 32 rks 2-6 (pp. 831-837)
+**Progress note:** Done through printed p. 844. Mandala 10 Sukta 32 rks 6-9, end of adhyaya 7, Sukta 33 start (pp. 838-844)
