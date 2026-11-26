@@ -21715,6 +21715,139 @@ Sāyaṇa: O goddesses named Doors, touch the lofty and wider region of heaven (
 - स्पृशत (*spṛśata*)—touch
 - वा (*vā*)—
 
+### Printed p. 622
+**Pratipadārtha** (continued)
+- अथवा (*athavā*)—or (and)
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- मात्रया (*mātrayā*)—according to the measure
+- विश्रयध्वं (*viśrayadhvaṃ*)—attain expansion
+- उशतीः (*uśatīḥ*)—you who desire the worship of the gods
+- रथयुः (*rathayuḥ*)—desiring a chariot
+- महिना (*mahinā*)—by your greatness
+- महद्भिः (*mahadbhiḥ*)—by the gods of great nature, who have resorted to it
+- देवं (*devaṃ*)—shining
+- रथं (*rathaṃ*)—the chariot
+- धारयद्वं (*dhārayadvaṃ*)—sustain
+
+##### भावार्थ (Bhāvārtha)
+
+O goddesses called the Doors, touch the lofty, extensive divine place of the world of the gods. Attain an expansion according to the measure of the earth. You who desire the worship of the gods, desiring a chariot, by your greatness sustain the shining chariot that the gods of great nature have resorted to.
+
+##### English translation
+Be in contact, doors, with the lofty height of heaven, or expand according to the measure of the earth; desiring the gods, desiring a chariot, sustain with your might the shining chariot (that is mounted) by the mighty gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In Ṛ. Saṃ. 1-188-5, when the door-deities of the sacrificial house (दुरः (*duraḥ*)) are prayed to with देवीर्द्वारः (*devīrdvāraḥ*), a further peculiarity is that the names of the four doors, standing in the four directions of the sacrificial house, are indicated there. Other Āprī hymns do not have such names. Even so, it is reasonable to assign etymological meanings to words such as विराट् (*virāṭ*) and to treat them as epithets of the word दुरः (*duraḥ*). The commentator has made both kinds of attempt.
+
+As to who these door-deities of the sacrificial house, द्वारः (*dvāraḥ*), are, Yāska gives this etymology:
+द्वारः । द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा । गृहद्वार इति कात्थक्यः । अग्निरिति शाकपूणिः ॥ (*dvāraḥ | dvāro javatervā dravatervā vārayatervā | gṛhadvāra iti kātthakyaḥ | agniriti śākapūṇiḥ ‖*) (Ni. 8-10)
+A door is for entering, for going in, or for preventing going in; hence the name "door". The opinion of Kātthakya is that a door is the house-door; that of Śākapūṇi is that it is Agni. It is also said that the house where the oblation is made is the form of Agni, and therefore its doors are special forms of Agni (अग्नि विशेषमूर्तयः (*agni viśeṣamūrtayaḥ*)). "The doors of the chamber in which the oblation is offered are said to be personification of Agni." Sāyaṇa explains them as the presiding deities of the doors of the sacrificial house. There is a difference of opinion whether these doors are really the doors of the sacrificial house or merely a figurative usage.
+
+### Printed p. 623
+If the word here does not mean house-doors, then in the case of the deities of the Āprī hymns too, the points just stated apply, and different meanings must be conceived.
+
+In the Aitareya Brāhmaṇa:
+दुरो यजति वृष्टिर्वै दुरो वृष्टिमेव तत्रीणाति वृष्टिमन्नाद्यं यजमाने दधाति । (*duro yajati vṛṣṭirvai duro vṛṣṭimeva tatrīṇāti vṛṣṭimannādyaṃ yajamāne dadhāti |*)
+Here, instead of the meaning "door", the meaning "rain" is given. How this meaning arises is not explained.
+
+The Nirukta-author: द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा । (*dvāro javatervā dravatervā vārayatervā |*) It is formed either from the root जु (*ju*) (meaning "press forward"), or from the root द्रु (*dru*) (meaning "advance"), or from the root वृ (*vṛ*) (meaning "separate"). Quoting the Ṛk
+व्यचस्वतीरुर्विया वि श्रयंतां पतिभ्यो न जनयः शुंभमानाः । देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः ॥ (*vyacasvatīrurviyā vi śrayaṃtāṃ patibhyo na janayaḥ śuṃbhamānāḥ | devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ ‖*) (Ṛ. Saṃ. 10-110-5 **NOTE**)
+and explaining the word द्वार (*dvāra*), he states the difference of opinion: गृहद्वार इति कात्थक्यः । (*gṛhadvāra iti kātthakyaḥ |*) — according to Kātthakya, the house-door; अग्निरिति शाकपूणिः । (*agniriti śākapūṇiḥ |*) — according to Śākapūṇi, Agni (Ni. 8-10). In the Bṛhaddevatā:
+द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां तास्तु पत्नयः । अग्नायीमनुवर्तंते तथाग्नाय्यग्निमेव च ॥ अग्नौ ध्रुवं स्थितास्तास्तु संस्तूयंतेऽग्निना सह । प्राधान्यं तासु चैवाग्ने स्तुतिष्टेव हविष्णु च ॥ (*dvārastu devyo yāḥ proktā viśveṣāṃ tāstu patnayaḥ | agnāyīmanuvartaṃte tathāgnāyyagnimeva ca ‖ agnau dhruvaṃ sthitāstāstu saṃstūyaṃte 'gninā saha | prādhānyaṃ tāsu caivāgne stutiṣṭeva haviṣṇu ca ‖*) (Bṛ. De. 3-6 to 7)
+It is said that these doors are wives of the gods; that they follow Agnāyī (Agni's wife), who follows Agni; and that, being firmly established in Agni, they are praised together with Agni. This is consistent.
+
+Concerning the preparation of the four doors of the sacrificial house, the Taittirīya Saṃhitā describes it thus:
+प्राचीनवग्‌ंशं करोति देवमनुष्या दिशो व्यभजंत प्राचीं देवा दक्षिणा पितरः प्रतीचीं मनुष्या उदीचीग्‌० रुद्राः ॥ (*prācīnavagṃśaṃ karoti devamanuṣyā diśo vyabhajaṃta prācīṃ devā dakṣiṇā pitaraḥ pratīcīṃ manuṣyā udīcīg0 rudrāḥ ‖*) (Tai. Saṃ. 6-1-1-1)
+That is: the gods took the eastern door of the sacrificial house, the Pitṛ-deities the southern, men the western, and the (eleven) Rudras the northern.
+
+### Printed p. 624
+The names of the doors of this sacrificial house, as given in 1-188-5, are as follows: विराट् (*virāṭ*) may be said to be the eastern door, सम्राट् (*samrāṭ*) the southern door, विभ्वीः (*vibhvīḥ*) the western door, and प्रभ्वीः (*prabhvīḥ*) the northern door. Sāyaṇa has explained the etymological meaning of these words there itself.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वी दि॒वो दु॑हि॒तरा॑ सुशि॒ल्पे उ॒षासा॒नक्ता॑ सदतां॒ नि योन् ॑।  
+> आ वां॑ दे॒वास॑ उशती उ॒शंत॑ उ॒रौ सी॑दंतु सुभगे उ॒पस्थे॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवी इति । दिवः । दुहितरा । सुशिल्पे इति सुशिल्पे । उषासानक्ता । सदतां । नि ।  
+> योन्सौ ।  
+> आ । वां । देवासः । उशती इति । उशंतः । उरौ । सीदंतु । सुभगे इति सुभगे ।  
+> उपस्थे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवी द्योतमाने दिवो द्युलोकस्य दुहितरा दुहितरौ सुशिल्पे शोभनरूपे उषासानक्कोषाश्च नक्तं चाहोरात्र्योन् योन् यज्ञस्य स्थाने नि सदतां ।
+> निषीदतां । हे उशती उशत्यौ कामयमाने हे सुभगे शोभनधने हे देव्यौ
+> वां युवयोरुर् विस्तीर्णं उपस्थे समीपस्थे स्थान उशंतो हवींषि कामयमाना देवासो देवा आ सीदंतु । उपविशंतु ॥
+
+##### Gist of the bhāṣya
+
+देवी (*devī*) means the two shining ones; दिवः दुहितरा (*divaḥ duhitarā*) the two daughters of the heaven-world; सुशिल्पे (*suśilpe*) those of beautiful form; उषासानक्ता (*uṣāsānaktā*) Dawn and Night, that is, the day-and-night pair. Let them sit down in the योन् (*yon*), the place of the sacrifice (नि सदतां (*ni sadatāṃ*) = let them sit down). "O you two who desire (उशती (*uśatī*)), O you of good fortune (सुभगे (*subhage*)), that is, of beautiful wealth, O goddesses: in your spacious (उरौ (*urau*)) lap (उपस्थे (*upasthe*)), your near place, let the gods (देवासः (*devāsaḥ*)), desiring (उशंतः (*uśaṃtaḥ*)) the oblations, sit down (आ सीदंतु (*ā sīdaṃtu*)), take their seats."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—shining ones
+- दिवः (*divaḥ*)—of the heaven-world
+- दुहितरा (*duhitarā*)—daughters
+- सुशिल्पे (*suśilpe*)—of excellent form
+- उषासानक्ता (*uṣāsānaktā*)—O deities of day and night
+- योन्सौ (*yonsau*)—in the place of sacrifice
+- नि सदतां (*ni sadatāṃ*)—sit down
+- उशती (*uśatī*)—you who desire wealth
+- सुभगे (*subhage*)—O deities who possess excellent wealth
+- वां (*vāṃ*)—your
+- उरौ (*urau*)—spacious
+- उपस्थे (*upasthe*)—in the near place
+- उशंतः (*uśaṃtaḥ*)—desiring the oblation
+- देवासः (*devāsaḥ*)—the gods
+- अ सीदंतु (*a sīdaṃtu*)—let them sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O deities of day and night, shining, daughters of the heaven-world, of excellent form, sit down in the place of sacrifice. O deities who desire wealth and possess excellent wealth, in your spacious
+
+### Printed p. 625
+near place let the gods who desire the oblation sit down.
+
+##### English translation
+Radiant daughters of heaven, Dawn and Night, sit down on the place of sacrifice; O you, who are desirous and possessed of affluence, may the gods desirous (of oblations) sit down on your spacious lap.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the presiding deities of night and morning, नक्तोषासा (*naktoṣāsā*), are invoked. Yāska's explanation of the word नक्तोषासा (*naktoṣāsā*) is as follows.
+उषासानक्ता । उषासानक्कोषाश्च नक्ता चोषा व्याख्याता । नक्तेति रात्रिनामानक्ति भूतन्यवश्यायेनापि ना नक्ताव्यक्तवर्णा ॥ (*uṣāsānaktā | uṣāsānakkoṣāśca naktā coṣā vyākhyātā | nakteti rātrināmānakti bhūtanyavaśyāyenāpi nā naktāvyaktavarṇā ‖*)
+Whether read नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*), the meaning is one. The explanation of the word उषाः (*uṣāḥ*) we have given earlier. नक्ता (*naktā*) is a name of night. For नक्ता (*naktā*) means "of indistinct colour": because of the darkness, things are indistinct, that is, not seen well. So the night accompanied by darkness is called नक्ता (*naktā*), and in the night creatures are unable to do their activities. अनक्ति क्लेदयति भूतानि अवश्यायेन । (*anakti kledayati bhūtāni avaśyāyena |*) Or else अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः ॥ (*api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ ‖*) Since the darkness troubles creatures so that their activities cannot proceed properly, the night accompanied by such darkness is called नक्ता (*naktā*); or because everything is indistinct, not seen well, it is called नक्ता (*naktā*). By day the forms of all things are clearly seen; in the night they are not. Therefore the time of night is called नक्ता (*naktā*) (Ni. 8-11).
+
+It has been said that the explanation of the word उषाः (*uṣāḥ*) was given earlier. That explanation is as follows: sixteen words beginning with विभावरी (*vibhāvarī*), सूनरी (*sūnarī*) are names of Dawn (2-19), and उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥ (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*) Because it removes the darkness of the night-time it is called उषाः (*uṣāḥ*); that is, the latter part of the night. To support this meaning, the last part gives an example—
+
+### Printed p. 626
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सावाय एवा रात्र्युषसे योनिमारैक् ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ sāvāya evā rātryuṣase yonimāraik ‖*) (Ṛ. Saṃ. 1-113-1)
+The Nirukta on this quarter-verse:
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्रुषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां गर्भः ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātruṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ garbhaḥ ‖*) (Ni. 2-19)
+The best and most brilliant light of the sun is rising. The Dawn-time, which precedes the sun's light, appears before the light like its banner. How? Just as the sun's light shines all day and at sunset becomes the womb (yoni), that is, the cause, of night, so the night at its end becomes the womb, that is, the cause, of the Dawn-time. योनि (*yoni*) means birthplace. The main idea is that at the end of day comes night, and at the end of night the Dawn-time, each arriving as a change into the next. Therefore उषः (*uṣaḥ*) means the radiance, the light, that spreads over all directions and appears before sunrise, after the night has passed.
+
+The commentator's (Sāyaṇa's) explanation: नक्तशब्द उषश्यब्दश्च लोके कालविशेष वाचिन् । इह तु तत्कालाभिमानिवह्निमूर्तिद्वये प्रयुज्येते । नक्तोषासा नक्तोषोनामिके वह्निमूर्ति (*naktaśabda uṣaśyabdaśca loke kālaviśeṣa vācin | iha tu tatkālābhimānivahnimūrtidvaye prayujyete | naktoṣāsā naktoṣonāmike vahnimūrti*)—that is, in common usage the two words नक्ता (*naktā*) (night) and उषः (*uṣaḥ*) (morning) denote times; but in this Ṛk, or in the Ṛgveda, these words convey the meaning of the presiding deities of night and morning. Therefore the words नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*) are used in the sense of two forms (mūrti) of Agni, the presiding deities of night and of the Dawn-time. The word सुपेशसा (*supeśasā*) (of good form or shape) used in places supports this meaning. For night and morning, being divisions of time, have neither form nor shape; if they are said to be the presiding deities of those times, a form can be assigned to those deities. Since such an indication is found in this Ṛk, it should be understood that the presiding deities of those times are what is meant here. The long vowel in नक्तोषासा (*naktoṣāsā*) is lengthened for the convenience of the metre.
+
+The epithet ऋतस्य मातणा (*ṛtasya mātaṇā*) in Ṛk Saṃ. 1-142-7 is very important.
+द्रवतां त उषसा वाजयंती अग्ने वातस्य पथ्याभिरच्छ । ऋत्सीमंजंति पूर्व्यं हविर्भिरा वंधुरेव तस्थतुर्दुरोणे ॥ (*dravatāṃ ta uṣasā vājayaṃtī agne vātasya pathyābhiraccha | ṛtsīmaṃjaṃti pūrvyaṃ havirbhirā vaṃdhureva tasthaturduroṇe ‖*) (Ṛ. Saṃ. 3-14-3)
+
+### Printed p. 627
+In this Ṛk their constant relation to the sacrifice is described. In all the Ṛks that invoke them (there are about twenty such Ṛks) the prayer is that they come with the other gods and sit on the darbha seat. Moreover, they have a very close relation with Agni, who is kindled at dawn and at evening. Hence the figurative description that they bear and hold Agni among us.
+नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची । द्यावाक्षामा रुक्मो अंतर्वि भाति देवा अग्निं धारयन्द्र विणोदां ॥ (*naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samīcī | dyāvākṣāmā rukmo aṃtarvi bhāti devā agniṃ dhārayandra viṇodāṃ ‖*) (Ṛ. Saṃ. 1-96-5)
+In such Ṛks it is stated that they help Agni, in the form of an infant, to drink the oblation. Because of this relation they are said to be near the sacrificers. In the Āprī hymns generally this point is repeated. For example:
+आसुष्वयंती यजते उपाके उषासानक्ता सदतां नि योन् । दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥ (*āsuṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yon | divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*) (Ṛ. Saṃ. 10-110-6)
+The same matter is stated in this verse of the Āprī hymn.
+
+From this it is understood that the deities Dawn and Night have in the sacrificial rites no subordinate place but a very important one. This principal position is indicated in the mantra of the Praiṣa hymn:
+होतायक्षदुषासानक्ता बृहती सुपेशसा नृग्ः पतिभ्यो योनिं कृष्णाने । सग्स् स्मयमाने इंद्रेण देवैरेदं बर्हिः सीदतां वीतामाज्यस्य होतरज ॥ (*hotāyakṣaduṣāsānaktā bṛhatī supeśasā nṛgḥ patibhyo yoniṃ kṛṣṇāne | sags smayamāne iṃdreṇa devairedaṃ barhiḥ sīdatāṃ vītāmājyasya hotaraja ‖*) (Tai. Brā. 3-6-2-1)
+In it the prayer is that Dawn and Night sit on the darbha seat not only with Agni but also with Indra and the other gods. In the Aitareya Brāhmaṇa they are addressed as अहोरात्रे (*ahorātre*). The Nirukta-author in 8-11 has explained the nature of these deities; the derivation of the two words उषस् (*uṣas*) and नक्ता (*naktā*) and the nature of these deities as stated by the Nirukta-author were given earlier. In the Bṛhaddevatā too they are described thus:
+नक्कोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते । श्यान्याग्नेयी हि कालस्य तस्यैवोषाः कलेव तु ॥ (*nakkoṣāsau ca ye devyāvāgneyyāveva te smṛte | śyānyāgneyī hi kālasya tasyaivoṣāḥ kaleva tu ‖*) (Bṛ. De. 3-8)
+Both deities, Dawn and Night, are well known to be connected with Agni. Of these, त्यावि (*tyāvi*) (the night-deity, 1-71-1) has a close relation with Agni, and
+
 ---
 
-**Progress note:** Done through printed p. 621. pp. 616-621 (batch API)
+**Progress note:** Done through printed p. 627. pp. 622-627 (batch API)
