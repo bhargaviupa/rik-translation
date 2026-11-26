@@ -10330,6 +10330,257 @@ O Soma-deva, you are the giver of the desired objects. O Soma-deva, the purifier
 ##### English translation
 We who perform good works praise you, purified Soma, brilliant with radiance, for you are the showerer (of benefits).
 
+### Printed p. 285
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व सु॒वीर्यं॒ मंद॑मानः स्वायुध ।  
+> इ॒हो ष्विं॑द॒वा ग॑हि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । सुऽवीर्यम् । मंदमानः । सुऽआयुध ।  
+> इहो इति । सु । इंदो इति । आ । गहि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वायुध । यज्ञे स्फ्यकपालादीनि दशायुधानीत्यभिधीयंते । शोभनानि तानि यस्य स तथोक्तः। यद्वा । धनुरादीन्यायुधानि यस्य सः । तादृश हे सोम त्वं मंदमानः मोदमानः सन् । यद्वा। अंतर्णीतण्यर्थः । देवान् स्वयं मादयन् । सुवीर्यं शोभनवीर्योपेतं पुत्रादिकमस्माकम् आ पवस्व । पवतिर्गत्यर्थः । आप्रापय । किंच हे इंदो ग्रहेषु चमसेषु च क्षरणशील सोम इहो । इह उ पदद्वयम् । उ इत्यवधारणे । इहैवास्मदीये यज्ञ एव सुष्ठु आ गहि आगच्छ ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+O स्वायुध (*svāyudha*), one of good weapons. In the sacrifice, the स्फ्यकपालादीनि (*sphyakapālādīni*), the sphya, the kapāla and the rest, are called the ten weapons; he who has these good ones is so called. Or else: he who has bows and other weapons. O Soma, being such, you who are मंदमानः (*maṃdamānaḥ*), rejoicing; or else, with the causative sense contained within, yourself gladdening the gods: cause to reach us सुवीर्यं (*suvīryaṃ*), sons and the like endowed with good valour; आ पवस्व (*ā pavasva*), where the root पवति (*pavati*) has the sense of going, means "bring". Further, O Indu, Soma, who flow in the cups and in the ladles: इहो (*iho*) is two words, इह (*iha*) and उ (*u*), and उ (*u*) is in the sense of emphasis. Come well, right here, in our own sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वायुध (*svāyudha*)—O Soma-deva, possessed of excellent weapons
+- मंदमानः (*maṃdamānaḥ*)—you who are joyful, or you who cause joy to the gods
+- सुवीरं (*suvīraṃ*)**NOTE**—excellent heroic sons
+- आ पवस्व (*ā pavasva*)—provide for us
+- इंदो (*iṃdo*)—O Soma-deva, of the nature of a stream
+- इह (*iha*)—to this our sacrifice
+- सु (*su*)—exceedingly
+- आ गहि (*ā gahi*)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, possessed of excellent weapons, you who are joyful (or you who cause joy to the gods), provide for us excellent heroic sons. O Soma-deva, of the nature of a stream, be exceedingly gracious to this our sacrifice.
+
+##### English translation
+Well armed (Soma) who exhilarate (the gods), pour forth for us male ottspring**NOTE**; come, Indu, favourably to our sacrifice.
+
+### Printed p. 286
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्भिः प॑रिषि॒च्यसे॑ मृ॒ज्यमा॑नो॒ गभ॑स्त्योः ।  
+> द्रुणा॑ स॒धस्थ॑मश्नुषे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अत्ऽभिः । परिऽसिच्यसे । मृज्यमानः । गभस्त्योः ।  
+> द्रुणा । सधऽस्थम् । अश्नुषे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम गभस्त्योः । बाहुनामैतत् । बभसति दीपयंति निर्मथ्नन्यात्भ्यामग्निमिति गभस्ती बाहू । तयोः मृज्यमानः ताभ्यां शोध्यमानः सन् अद्भिः । सोमसेचनार्थं चतुर्विधा आपः । ताभिर्वसतीवरीभिरेकधनाभिश्च यत् यदा परिषिच्यसे परितः सिच्यमानो भवसि तदानीं द्रुणा दुममयेन पात्रेण गृह्यमाणः सन् सधस्थम् । सह तिष्ठंत्यत्रेति सधस्थं स्थानं ग्रहचमसादिकम् । अश्नुषे प्राप्नोषि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, गभस्त्योः (*gabhastyoḥ*) is a name of the arms: they kindle, for with them one churns out fire; thus the two arms are गभस्ती (*gabhastī*). Being purified by those two, you, with अद्भिः (*adbhiḥ*), the waters (there are four kinds of water for the sprinkling of Soma, among them those called ताभिर्वसतीवरीभिरेकधनाभिश्च (*tābhirvasatīvarībhirekadhanābhiśca*)): when you are sprinkled on all sides, then, taken up by the द्रुणा (*druṇā*), the vessel made of wood, you reach the सधस्थम् (*sadhastham*), the abode, that is, the place where they stay together, the cup, the ladle and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गभस्त्योः (*gabhastyoḥ*)—(O Soma-deva) with the arms
+- मृज्यमानः (*mṛjyamānaḥ*)—you, who have been purified
+- अद्भिः (*adbhiḥ*)—together with waters such as वसतीवार्यादि (*vasatīvāryādi*)**NOTE**
+- यत् (*yat*)—when
+- परिषिच्यसे (*pariṣicyase*)—you are poured (then)
+- द्रुणा (*druṇā*)—taken up by the vessel made of wood
+- सधस्थं (*sadhasthaṃ*)—in your place, the camasa vessel
+- अश्नुषे (*aśnuṣe*)—you join
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, when you, purified by the arms, are poured together with the waters वसतीवर्याद्युदक (*vasatīvaryādyudaka*), then, taken up by the vessel made of wood, you join your place, the camasa vessel.
+
+##### English translation
+When cleansed by the hands yon**NOTE** are sprinkled with the water, (taken up) with the wooden vessel you attain your abode.
+
+### Printed p. 287
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोमा॑य व्यश्व॒वत्पव॑मानाय गायत ।  
+> म॒हे स॒हस्र॑चक्षसे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमाय । व्यश्वऽवत् । पवमानाय । गायत ।  
+> महे । सहस्रऽचक्षसे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः पवमानाय दशापवित्रेण पूयमानाय पुनानाय वा सोमाय प्र गायत प्रकर्षेण सामगानं कुरुत । अभिष्टुत वा । कथमिव । व्यश्ववत् । यथा पूर्वं व्यश्वो नामर्षिः सोममगासीत् तद्वद्यूयमपि । कीदृशाय । महे महते देवेभ्यः स्वीक्रियमाणत्वेन गुणादिभिर्वा महत्त्वयुक्ताय सहस्रचक्षसे । प्रयोगबाहुल्यापेक्षमेतद्वचनम् । सहस्रसंख्याकस्तोत्रयुक्ताय । यद्वा । नानाविधैर्देवैरनेकधा द्रष्टव्याय सोमायेति ॥
+
+##### Gist of the bhāṣya
+
+O singers, sing forth to Pavamāna, Soma, who is purified by the ten-strand filter or is the purifier; that is, perform the Sāman-singing with vigour, or praise him. How? व्यश्ववत् (*vyaśvavat*): as formerly the seer named Vyaśva sang to Soma, so you also. To what kind of Soma? महे (*mahe*), to the great, because he is accepted by the gods, or endowed with greatness through his qualities; सहस्रचक्षसे (*sahasracakṣase*): this expression regards the abundance of usage, and means endowed with a thousand hymns of praise; or else, to be seen in many ways by the various gods, to Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्यश्ववत् (*vyaśvavat*)—(O singers) as Vyaśva praised in former times
+- महे (*mahe*)—endowed with greatness
+- सहस्रचक्षसे (*sahasracakṣase*)—having sight of many kinds
+- पवमानाय (*pavamānāya*)—the purifier
+- सोमाय (*somāya*)—addressed to Soma
+- प्र गायत (*pra gāyata*)—praise exceedingly in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+O singers, as Vyaśva praised in former times, praise exceedingly in the form of song, addressing Soma, who is endowed with greatness, has sight of many kinds, and is the purifier.
+
+##### English translation
+Sing. as Vyashwa did, to the filtered Soma, the great, the all-beholding.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ वर्णं॑ मधु॒श्चुतं॒ हरिं॑ हि॒न्वंत्यद्रि॑भिः ।  
+> इंदु॒मिंद्रा॑य पी॒तये॑ ॥ ८ ॥
+
+### Printed p. 288
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । वर्णम् । मधुऽश्चुतम् । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> इंदुम् । इंद्राय । पीतये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्य्वादयः वर्णं शत्रूणां वारकम् । येनासौ पीयते तेन मत्तेन शत्रवः संप्रहार्यंत इति शत्रुनिवारणसमर्थम् । मधुश्चुतं मधुररसस्य च्यावयितार हरिं हरितवर्णम् इंदुम् । इंधेरेतद्रूपमत्रेष्यते । सर्वतो दीप्यमानम्।' उंदी क्लेदने ' इत्यस्माद्वा । अभिषवानंतरं पात्रेषु क्षरणशीलम् । यस्य सोमस्य तव कारणमंशुम् अद्रिभिः हिन्वंति प्रेरयंति । अभिषुण्वंतीत्यर्थः। इंद्राय पीतये इंद्रस्य पानाय । तदर्थमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O adhvaryus and the rest: वर्णं (*varṇaṃ*), the repeller of enemies; since by the one who drinks it, intoxicated by it, enemies are struck down, it is capable of warding off enemies. मधुश्चुतं (*madhuścutaṃ*), the one who makes the sweet juice flow; हरिं (*hariṃ*), of green hue; इंदुम् (*iṃdum*), here understood as shining on all sides, from the root इंधे (*iṃdhe*), or else from a root meaning to wet; after the pressing, flowing into the vessels. They urge on, that is, press out with the stones, the stalk, the cause of that Soma. इंद्राय पीतये (*iṃdrāya pītaye*), for Indra's drinking, that is, for that purpose.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—(O adhvaryus) which Soma
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for the drinking
+- हिन्वंति (*hinvaṃti*)—those who squeeze, such a one
+- वर्णं (*varṇaṃ*)—the obstructer of enemies
+- मधुश्चुतं (*madhuścutaṃ*)—the one who pours forth the sweet juice
+- हरिं (*hariṃ*)—the one of green colour
+- इंदुं (*iṃduṃ*)—praise Soma-deva
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryus, praise Soma-deva, whom they squeeze with the pressing stones for the drinking of Indra, such a one, the obstructer of enemies, who pours forth the sweet juice and is of green colour.
+
+##### English translation
+( That Soma ) whose juice they squeeze out with the stones, foc-repelling**NOTE**, honey-dropping, green-tinted, for Indra to drink.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्य॑ ते वा॒जिनो॑ व॒यं विश्वा॒ धना॑नि जि॒ग्युषः॑ ।  
+> स॒खि॒त्वमा वृ॑णीमहे ॥ ९ ॥
+
+### Printed p. 289
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्य । ते । वाजिनः । वयम् । विश्वा । धनानि । जिग्युषः ।  
+> सखिऽत्वम् । आ । वृणीमहे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वाजिनः संभृतहविष्काः वयं विश्वा विश्वानि सर्वाणि व्याप्तानि वा शत्रुधनानि जिग्युषः जितवतः तस्य पूर्वोक्तलक्षणस्य प्रसिद्धस्य वा ते तव सखित्वं स्तुत्यस्तोतृलक्षणं सख्यम् आ वृणीमहे संभजामहे । अस्मभ्यं धनं देहीति संभजनं कुर्म इत्यर्थः ॥ जिग्युषः । ‘ जि जये' । लिटि क्वसौ ‘वस्वेकाजात्' इति नियमादिडभावः। 'सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कवर्गादेशः । ङसि परतो वसोः संप्रसारणम् । क्वसुप्रत्ययस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, we, वाजिनः (*vājinaḥ*), who have collected oblations, solicit सखित्वं (*sakhitvaṃ*), the friendship, of the kind that exists between the praised and the praisers, of you, of the one of whom we have spoken or the famous one, who have won विश्वा (*viśvā*), all, that is, all-pervading, riches of the enemy. The meaning is: we make this solicitation, "give us wealth".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनः (*vājinaḥ*)—(O Soma-deva) we who possess oblations
+- वयं (*vayaṃ*)—we
+- विश्वा धनानि (*viśvā dhanāni*)—all the wealth of enemies
+- जिग्युषः (*jigyuṣaḥ*)—who bring it, having conquered
+- तस्य (*tasya*)—the famous
+- ते (*te*)—your
+- सखित्वं (*sakhitvaṃ*)—friendship
+- आ वृणीमहे (*ā vṛṇīmahe*)—we request
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, we, who possess oblations, request the friendship of you, the famous, who bring all the wealth of the enemies, having carried it off.
+
+##### English translation
+We, who have heaped up oblations, solicit his friendship, (the friendship) of you who have won all the riches (of the foe).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ पवस्व॒ धार॑या म॒रुत्व॑ते च मत्स॒रः ।  
+> विश्वा॒ दधा॑न॒ ओज॑सा ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । पवस्व । धारया । मरुत्वते । च । मत्सरः ।  
+> विश्वा । दधानः । ओजसा ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वृषा स्तोतॄणामभिमतफलस्य वर्षकः सन् धारया त्वदीयया पवस्व द्रोणकलशमागच्छ । पवतिर्गतिकर्मा । आगतस्त्वं यदास्माभिरिंद्राय दीयसे तदा मरुत्वते सहाया मरुतो यस्य संति तस्मा इंद्राय मत्सरः मदकरः च भव। कीदृशः । विश्वा विश्वानि सर्वाणि व्याप्तानि वा धनानि ओजसा आत्मीयेन बलेन युक्तः सन् स्तोतृभ्यस्तानि दधानः प्रयच्छन् । त्वं मादयिता भवेति समन्वयः ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you, being the वृषा (*vṛṣā*), the showerer of the desired fruit of the singers, flow with your stream, that is, come to the Droṇa-kalaśa; the root पवति (*pavati*) has the sense of motion. Having come, when you are given by us to Indra, then be intoxicating to Indra, मरुत्वते (*marutvate*), who has the Maruts as helpers. Of what kind? Endowed with your own strength, holding and bestowing on the singers विश्वा (*viśvā*), all, that is, all-pervading, riches. The construction is: be the gladdener.
+
+### Printed p. 290
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—(O Soma-deva) you, the giver of the desired objects
+- धारया (*dhārayā*)—by your form of a stream
+- पवस्व (*pavasva*)—flow toward the Droṇa-kalaśa
+- विश्वा (*viśvā*)—all the wealth
+- ओजसा (*ojasā*)—by the power of your valour
+- दधानः (*dadhānaḥ*)—you, who hold
+- मरुत्वते (*marutvate*)—to Indra, accompanied by the Maruts
+- मत्सरः च (*matsaraḥ ca*)—be the gladdener
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you, the giver of the desired objects, flow with your form of a stream toward the Droṇa-kalaśa. You, who hold all the wealth by the power of your valour, be the gladdener of Indra, accompanied by the Maruts.
+
+##### English translation
+Flow in a stream, you who are the showerer (of benefits) : and (be) exhilarating to the lord of the Maruts, granting us all (wealth) by your power.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ ध॒र्तार॑मो॒ण्यो॒३॒ः॑ पव॑मान स्व॒र्दृश॑म् ।  
+> हि॒न्वे वाजे॑षु वा॒जिन॑म् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । धर्तारम् । ओण्योः । पवमान । स्वःऽदृशम् ।  
+> हिन्वे । वाजेषु । वाजिनम् ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 284. Mandala 9 Sukta 64 Rk 30 end; chapter colophon; Sukta 65 Rks 1-4
+**Progress note:** Done through printed p. 290. Sukta 65 Rks 5-11 (bhashya of Rk 11 follows)
