@@ -35984,6 +35984,135 @@ He has given two kinds of derivation of the word मिथुनौ (*mithunau*)
 
 As said before, in place of the affix थु (*thu*) the affix थ (*tha*) may be joined to the root मि (*mi*), and after this वनिः (*vaniḥ*) comes as संप्रसारण (*saṃprasāraṇa*); that is, in मि+थ (*mi+tha*) the vowel a of the letter tha is dropped, it becomes th, and the vowel u comes to it. It becomes मि+थु (*mi+thu*). Afterwards, as said before, by the reversal of the middle and the end, that is, by exchanging the places of the last two letters, it becomes मिथुन (*mithuna*). For the word मिथुन (*mithuna*) formed in this way
 
+### Printed p. 990
+
+has the same meaning as said before. That is, the meaning of the word मिथुनौ (*mithunau*) is two things, one of which resorts to the other. When this word is used of human beings also, it denotes the same meaning; that is, the intention is two persons who are equal in qualities, form and the like, of whom one resorts to the other and who spend their time together. This word may be used to denote a married couple or twins.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता मं॑दसा॒ना मनु॑षो दुरो॒ण आ ध॒त्तं र॒यिं स॒हवी॑रं  ॒॑
+> वचस्यवे ।  
+> कृ॒तं ती॒र्थं सु॑प्रपा॒णं शु॑भस्पती स्था॒णुं प॑थे॒ष्ठामस॑ ॒ ॑
+> दुर्मतिं हतं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । मंदसाना । मनुषः । दुरोणे । आ । धत्तं । रयिं । सहवीरं । वचस्यवे ।  
+> कृतं । तीर्थं । सुप्रपानं । शुभः । पती इति । स्थाणुं । पथेस्थां । अप ।  
+> दुःमतिं । हतं ॥ १३ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ मंदसाना मंदसान् ता तौ युवां मनुषो मनुष्यस्य
+> मत्पतेर्दुरोणे गृहे वचस्यवे युष्मत्सुतिकामाय्कॆ मह्यं सहवीरं पुत्रादिसहितं रयिं धनमा धत्तं! स्थापयतं । किंच हे अश्विनौ शुभस्पती उदकस्य स्वामिन्
+> युवां पतिगृहं गच्छंत्या मम तीर्थं पानाय सुप्रपाणं कृतं । कुरुतं । किंच
+> युवां पथेष्ठां मार्गस्थं स्थाणुं वृक्षं दुर्मतिं दुर्बुद्धिं परिपंथिनं चाप
+> हतं । अपगमयतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins, who are exhilarated. In the house of the man, that is, of my husband, he asks them to establish for me, who desire to praise them, wealth together with sons and the rest. Further, the two Aśvins, lords of water, are to make a ford, a good place for drinking, for her who is going to her husband's house. Further, they are to drive away the tree that stands in the way, and the ill-minded one, who is a highwayman.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंदसाना (*maṃdasānā*)—you who are filled with joy
+- ता (*tā*)—you
+- मनुषः (*manuṣaḥ*)—of my husband, a human being
+- दुरोणे (*duroṇe*)—in the house
+- वचस्यवे (*vacasyave*)—to me who praise you
+- सहवीरं (*sahavīraṃ*)—accompanied with heroic sons and the rest
+- रयिं (*rayiṃ*)—wealth
+- आ धत्तं (*ā dhattaṃ*)—bring and provide
+- शुभस्पती (*śubhaspatī*)—you who are lords of water
+
+### Printed p. 991
+
+- तीर्थं (*tīrthaṃ*)—the water
+- सुप्रपानं (*suprapānaṃ*)—as fit to drink
+- कृतं (*kṛtaṃ*)—make
+- पथेष्ठां (*patheṣṭhāṃ*)—standing in the road
+- स्थाणुं (*sthāṇuṃ*)—the obstructing tree
+- दुर्मतिं (*durmatiṃ*)—and the evil power
+- अपहृतं (*apahṛtaṃ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, you who are filled with joy, provide for me, who praise you, in my husband's house, wealth accompanied with heroic sons and the rest. You who are lords of water, make the water fit for me to drink. Destroy the stump of a tree that obstructs my path, and the evil power.
+
+##### English translation
+Exulting, do you bestow riches, comprehending male progeny, in the house of my husband, on me, who desire to praise you; lords of waters make the sacred ford good to drink : remove the tree that stands in the road and the malevolent (enemy).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व॑ स्विद॒द्य क॑त॒मास्व॒श्विना॑ वि॒क्षु द॒स्रा मा॑दयेते शु॒भस्पती॑ ।  
+> क ईं॒ नि ये॑मे कत॒मस्य॑ जग्मतु॒र्विप्र॑स्य वा॒ यज॑मानस्य वा  ॒
+> गृहं ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । स्वित् । अद्य । कतमासु । अश्विना । विक्षु । दस्रा । मादयेते इति । शुभः ।  
+> पती इति ।  
+> कः । ईं । नि । येमे । कतमस्य । जग्मतुः । विप्रस्य । वा । यजमानस्य । वा । गृहं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् दस्रा दर्शनीयौ शुभस्पती उदकस्य पती स्वामिनौ भवंतौ क्व
+> स्वित्क्व स्थितौ जनपदेऽद्यास्मिन्नहनि कतमासु कासु विक्षु प्रजासु मादयेते । आत्मानं
+> तर्पयतः । किंच को यजमान ईमेत् नि येमे । नियच्छति । किंच भवंतौ
+> कतमस्य विप्रस्य मेधाविनः स्तोतुर्यजमानस्य गृहं वा जग्मतुः । गतवंतौ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins, who are beautiful to look at and lords of water. Where are they today, in this region, and among which peoples do they delight, that is, gratify themselves? Further, which sacrificer holds them back? And to the house of which wise one, that is, a praiser, or of which sacrificer, have they gone?
+
+### Printed p. 992
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Ashvin gods
+- दस्रा (*dasrā*)—you who have an attractive form
+- शुभस्पती (*śubhaspatī*)—and are protectors of water
+- क्व स्वित् (*kva svit*)—in what region being
+- अद्य (*adya*)—at this time of sacrifice
+- कतमासु विक्षु (*katamāsu vikṣu*)—among the people of what country
+- मादयेते (*mādayete*)—are you enjoying delight
+- कः (*kaḥ*)—which sacrificer
+- ईं (*īṃ*)—you
+- नि येमे (*ni yeme*)—holds back?
+- कतमस्य (*katamasya*)—of which
+- विप्रस्य (*viprasya*)—praiser
+- वा (*vā*)—or
+- यजमानस्य (*yajamānasya*)—sacrificer
+- गृहं (*gṛhaṃ*)—to the house
+- जन्मतुः (*janmatuḥ*)—have you gone?
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, you who have an attractive form and are protectors of water, in what region are you now, and among the people of what country are you enjoying delight at this time of sacrifice? Which sacrificer holds you back? To the house of which praiser or sacrificer have you gone?
+
+##### English translation
+Aswins of goodly aspect, lords of water, in what place, among what people, do you to-day delight ? who now detains you ? to the house of what sage, or of what sacrificer, have you repaired ?
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश युक्संहिताभाष्ये दशमे मंडले चत्वारिंशत्सूक्तं समाप्तं ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa yuksaṃhitābhāṣye daśame maṃḍale catvāriṃśatsūktaṃ samāptaṃ ‖*)
+
+Here, in the Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya and the Kannada translation, the fortieth sūkta in the tenth maṇḍala is concluded.
+
+In the eighth adhyāya of the seventh aṣṭaka, the twentieth varga is concluded.
+
+ओं तत्स्यत् (*oṃ tatsyat*)
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 989. Sūkta 40 Ṛk 9 end to Ṛk 12, pp. 984-989
+**Progress note:** Done through printed p. 992. Sūkta 40 Ṛk 13-14, colophon and benediction, pp. 990-992
