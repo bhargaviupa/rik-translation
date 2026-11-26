@@ -6,7 +6,7 @@ RIG-VEDA
 (ಕರ್ಣಾಟಕ ಭಾಷಾರ್ಥಾನುವಾದವಿವರಣೆಗಳೊಡನೆ)
 ಭಾಗ—೨೨
 ಐದನೆಯ ಅಷ್ಟಕದ ೩—೫ ಅಧ್ಯಾಯಗಳು.
-ಏಳನೆಯ ಮಂಡಲದ ಸೂಕ್ತಗಳು ೫೦—೮೦
+ಏಳನೆಯ ಮಂಡಲದ ಸೂಕ್ತಗಳು ೨೦—೮೦
 Translated with Exhaustive Critical Notes
 and Explanations
 by
