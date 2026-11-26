@@ -6954,6 +6954,117 @@ O Indra, by you these things, seen before us by all, are most greatly grown (var
 - वीळु (*vīḷu*)—firmly
 - आधारयः (*ādhārayaḥ*)—you have held
 
+### Printed p. 169
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, all things that are known to all, exceedingly grown, spread out and pervading, and possessed of most excellent strength, have been made by you alone. You hold all these by the resolve of your own mind.
+
+##### English translation
+These gignatic far reaching efforts were put forth by you ; you fiixed them firm in your thought.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वेत्ता विष्णु॒राभ॑रदुरुक्र॒मस्त्वेषि॑तः ।  
+> श॒तं म॑हि॒षान्क्षी॑रपा॒कमो॑द॒नं व॑रा॒हमिंद्र॑ एमु॒षम् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । इत् । ता । विष्णुः । आ । अभरत् । उरुऽक्रमः । त्वाऽइषितः ।  
+> शतम् । महिषान् । क्षीरऽपाकम् । ओदनम् । वराहम् । इंद्रः । एमुषम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्या ऋचो नैरुक्तैतिहासिकमतभेदेन द्विधा योजना । नैरुक्तपक्षे तावत् । हे इंद्र ता तानि यानि त्वया स्रष्टव्यान्युदकानि संति तानि विष्णुः व्यापनशील आदित्यः आभरत् आभरति । लोकाय प्रयच्छतीत्यर्थः । कीदृशो विष्णुः । उरुक्रमः बहुगतिः । किं स्वविरोधेन नेत्याह । त्वेषितः त्वया प्रेरितः । न केवलमुदकान्येव अपि च शतं महिषान् शतसंख्याकान् पशून् । महिषशब्दो गवादेरप्युपलक्षकः । अथवा शतशब्दोऽपरिमितवचनो महिष इति महन्नाम । असंख्यातान् महतो यज्ञान् यजमानेभ्य आभरत् ददातीत्यर्थः । किंच क्षीरपाकं क्षीरपक्वम् ओदनं पायसम् । एतच्चरुपुरोडाशादेरुपलक्षकम् । तद्यजमानेभ्य आभरत् । अथवा सर्वार्थं वृष्टिप्रदानद्वारोदनं प्राहरत् । किंच इंद्रः वराहं जलपूर्णं मेघं हंतीति शेषः । कीदृशं तम् । एमुषम् । आ इत्यस्य स्थाने छांदस एकारः । आमुषमुदकस्य मोषकमित्यर्थः । निरुक्तपक्ष एवम् । ऐतिहासिकपक्षे चरकब्राह्मण इतिहास आम्नायते । विष्णुर्यज्ञः । स देवेभ्य आत्मानमंतरधात् । तमन्यदेवता नाविदन्निंद्रस्त्ववेत् । स इंद्रमब्रवीत्को भवानिति । तमिंद्रः प्रत्यब्रवीदहं दुर्गाणामसुराणां च हंता भवांस्तु क इति । सोऽब्रवीदहं दुर्गादाहर्ता त्वं तु यदि दुर्गाणामसुराणां हंता ततोऽयं वराहो वाममुष एकविंशत्याः पुरां पारेऽश्ममयीनां वसति तस्मिन्नसुराणां वसु वाममस्ति तमिमं जहीति । तस्येंद्रस्ताः पुरो भित्त्वा हृदयमविध्यत्। अधि तत्र यदासीत्तद्विष्णुराहरदिति । सोऽयमितिहासः अस्येदु मातुः सवनेषु ( ऋ. सं. १. ६१. ७ ) ‘ विश्वेत्ता विष्णुः' इत्याभ्यां प्रतिपादितः । तयोर्मध्ये ‘अस्येदु मातुः' इत्यत्र विष्णुना हे इंद्र त्वं दुर्गाणां हंतेत्यात्मानं कथयसि तर्हि वाममुषं वराहमसुरं जहीत्युक्तार्थो ‘ विध्यद्वराहम्' इति पादेन प्रतिपादितः । इंद्रेण च विष्णो त्वं दुर्गादाहर्तेति ब्रूषे मया पुराणि जितान्यसुरश्च घातितस्तस्य वामं वस्वानयेत्युक्तो विष्णुमूर्तिस्तस्य वराहासुरस्य धनं मुमोष । सोऽर्थः ‘मुषायद्विष्णुः पचतम्' इति पादेन सूचितः । स किं पुनर्मुषितवानिति तदत्रोच्यते ' विश्वेत्ता' इति । हे इंद्र त्वेषितस्त्वया प्रेरितो विष्णुर्यज्ञरूपी त्वेषितस्त्वं दुर्गादाहर्ता किल तर्हि त्वं तस्य धनान्याहरेति त्वया प्रेरितः सन्नुरुक्रमो भूत्वा विश्वेत्ता यानि त्वयाहर्तव्यानीत्युक्तानि यानि च तत्र स्थितानि तानि सर्वाण्याभरत् आभरतु । कानि तानीति । शतं महिषानपरिमितान् प्रशस्तान् पदार्थान् तेषां वाहनरूपान् महिषान् वा क्षीरपाकमोदनं च पक्वमात्रमेवौदनं चाभरत् ।' विध्यद्वराहम्' इत्यत्रोक्तोऽर्थश्च चरमपादेनोच्यते । इंद्रस्तु वराहं वराहारं स्वीकृतासुरसर्वस्वं वराहरूपिणं वैमुषमेमुषनामानमथवैमुषं धनानामामोषकं वराहमसुरं हृदयेऽविध्यदिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is explained in two ways, according to the view of the Nairuktas and according to the view of the Aitihāsikas. In the Nairukta view: O Indra, the waters that are to be released by you, those ता (*tā*) the all-pervading Āditya, Viṣṇu, brings (आभरत् (*ābharat*)), that is, gives to the world. Viṣṇu is उरुक्रमः (*urukramaḥ*), of many movements. Does he do it against his own will? No: he is त्वेषितः (*tveṣitaḥ*), urged by you. Not only the waters, but also a hundred महिषान् (*mahiṣān*), that is, a hundred animals; the word mahiṣa stands for cows and the like. Or else the word शतं (*śataṃ*) means an unlimited number and mahiṣa is a name of the great: he gives innumerable great sacrifices to the sacrificers. Further, क्षीरपाकं (*kṣīrapākaṃ*) is boiled in milk, ओदनं (*odanaṃ*) is rice-pudding; this stands for caru, puroḍāśa and the like, and he brings it to the sacrificers. Or else, by giving rain, he brings food for all. And Indra smites the boar (वराहं (*varāhaṃ*)), the cloud full of water. Of what kind? एमुषम् (*emuṣam*): in place of ā there is the Vedic e; it means one who steals the water. This is the Nairukta view.
+
+In the Aitihāsika view, a history is handed down in the Caraka Brāhmaṇa: Viṣṇu is the sacrifice. He hid himself from the gods. The other deities did not find him; Indra alone knew him. Viṣṇu asked Indra, "Who are you?" Indra answered, "I am the slayer of strongholds and of the asuras; who are you?" He said, "I am the bringer out of the stronghold. If you are the slayer of the strongholds of the asuras, then this boar, a stealer of treasure, dwells beyond twenty-one cities of stone; in him is the choice wealth of the asuras; kill him." Indra broke those cities and pierced the boar in the heart; and whatever was there, Viṣṇu brought. This history is set forth in the two Ṛks beginning अस्येदु मातुः सवनेषु (*asyedu mātuḥ savaneṣu*) (Ṛ. Saṃ. 1. 61. 7) and विश्वेत्ता विष्णुः (*viśvettā viṣṇuḥ*). Of the two, in अस्येदु मातुः (*asyedu mātuḥ*) the sense "O Indra, you say you are the slayer of strongholds; then kill the boar-asura, the stealer of treasure" is conveyed by the pāda विध्यद्वराहम् (*vidhyadvarāham*). And the sense "O Viṣṇu, you say you are the bringer out of the stronghold; I have conquered the cities and slain the asura; bring his wealth", spoken by Indra, after which Viṣṇu, in the form of the sacrifice, stole the wealth of that boar-asura, is indicated by the pāda मुषायद्विष्णुः पचतम् (*muṣāyadviṣṇuḥ pacatam*). What then did he steal? This is told here by विश्वेत्ता (*viśvettā*): O Indra, Viṣṇu in the form of the sacrifice, urged by you, who are the bringer out of strongholds, to bring the wealth of that asura, became उरुक्रमः (*urukramaḥ*) and brought all that stood there. What is that? A hundred महिषान् (*mahiṣān*), that is, countless excellent things, or buffaloes as their carriers, and rice boiled in milk, merely cooked rice. The sense stated in विध्यद्वराहम् (*vidhyadvarāham*) is told by the last pāda: Indra pierced in the heart the boar, the taker of all the asura's possessions, in the form of a boar, named Vaimuṣa or Emuṣa, or else the stealer of treasures.
+
+### Printed p. 170
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुक्रमः (*urukramaḥ*)—(O Indra) one of wide movement
+- त्वेषितः (*tveṣitaḥ*)—one urged by you alone
+- विष्णुः (*viṣṇuḥ*)—the pervading Āditya
+- ता विश्वा इत् (*tā viśvā it*)—all the waters created by you
+- आ भरत् (*ā bharat*)—bears
+- शतं (*śataṃ*)—numbering a hundred
+- महिषान् (*mahiṣān*)—animals
+- क्षीरपाकं (*kṣīrapākaṃ*)—cooked with milk
+- ओदनं (*odanaṃ*)—rice, he himself bears also
+- इंद्रः (*iṃdraḥ*)—Indra
+- एमुषं (*emuṣaṃ*)—holding the water (stealing)
+- वराहं (*varāhaṃ*)—cleaves the cloud
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the all-pervading Āditya, of wide movement and urged by you alone, bears all the waters created by you. He bears a hundred animals and rice cooked with milk. Indra cleaves the cloud that is full of water.
+
+### Printed p. 171
+
+##### English translation
+The wide-traversing Sun, depatched by you, brings (to the world) all these ( waters which you creat ); he brings hundreds of cattle and rice boiled in milk ; it is Indra who slays the water-stealing boar.
+
+##### विशेषविषयगळु (Special Topics)
+
+There are two kinds of explanation of this Ṛk: one is the Nairukta view, the other the Aitihāsika view. Besides these two kinds of meaning, Yāska also states an interpretation (nirvacana) of this Ṛk. It is necessary to explain all these here in order.
+
+**Explanation in the Nairukta view**
+
+(हे इंद्र (*he iṃdra*)—O Indra). उरुक्रमः (*urukramaḥ*)—of manifold movement, that is, constantly moving; विष्णुः (*viṣṇuḥ*)—Āditya, who pervades everywhere with his rays; त्वेषितः (*tveṣitaḥ*)—urged by you; ता (*tā*)—the waters created by you; आ भरत् (*ā bharat*)—bears for the benefit of the world, that is, gives. (And) शतं महिषान् (*śataṃ mahiṣān*)—a hundred animals, or many animals; (आ भरत् (*ā bharat*))—he gives to the sacrificer who performs the sacrifice; (and) क्षीरपाकं (*kṣīrapākaṃ*)—cooked with milk; ओदनं (*odanaṃ*)—rice-pudding, that is, oblations in the form of caru, puroḍāśa and the like; (आ भरत् (*ā bharat*))—he gives to the sacrificer. [Or ओदनं (*odanaṃ*)—by pouring rain on the earth he brings forth plants and the like, becomes the cause of the production of food and other nourishment, and gives them to the sacrificers]. (And) इंद्रः (*iṃdraḥ*)—Indra; एमुषं (*emuṣaṃ*)—that which holds back the water and does not let it pour on the earth as rain; वराहं (*varāhaṃ*)—the cloud full of water, he strikes.
+
+O Indra, Āditya, who is always moving, draws with his rays the water in oceans and other reservoirs, causes that water to be changed into clouds, and pours rain on the earth for the benefit of the world. This work done by Āditya is impelled by you (Indra); that is, it is by Indra's command that Āditya pours rain on the earth for the benefit of the world. Besides this, for the use of the sacrificers who perform sacrifices, he gives innumerable animals fit for sacrifice, and rice and other food cooked in milk, for the purpose of oblation. All these works Āditya does only when impelled by Indra. Having made Āditya do these works, Indra himself strikes the clouds, which, though full of water, hold it back so that it does not fall on the earth as rain, and makes the rain fall. All this is the power of Indra.
+
+### Printed p. 172
+
+All the explanation given above belongs to the Nairukta view. Now let us consider what the explanation in the Aitihāsika view is. In this matter a history is stated in the Caraka Brāhmaṇa:
+
+विष्णुर्यज्ञः । स देवेभ्य आत्मानमुतरधात् । तमस्यदेवता साविंदन्निंद्रस्त्ववेत् । स इंद्रमब्रवीत्को भवानिति । तमिंद्रः प्रत्यब्रवीदहं दुर्गाणामसुराणां च हंता भवांस्त्व क इति । सोऽब्रवीदहं दुर्गादाहर्ता त्वं तु यदि दुर्गाणामसुराणां हंता ततोऽयं वराहो वाममुष एकविंशत्याः पुरां पारेऽश्ममयीनां वसति तस्मिन्नसुराणां वसु वाममस्ति तमिमं जहीति । तस्येंद्रस्त्राः पुरो भित्त्व हृदयमविध्यत् । अधि तत्र यदासीत्तद्विष्णुराहरदिति । सोऽयमितिहासः ॥ (*viṣṇuryajñaḥ | sa devebhya ātmānamutaradhāt | tamasyadevatā sāviṃdanniṃdrastvavet | sa iṃdramabravītko bhavāniti | tamiṃdraḥ pratyabravīdahaṃ durgāṇāmasurāṇāṃ ca haṃtā bhavāṃstva ka iti | so 'bravīdahaṃ durgādāhartā tvaṃ tu yadi durgāṇāmasurāṇāṃ haṃtā tato 'yaṃ varāho vāmamuṣa ekaviṃśatyāḥ purāṃ pāre 'śmamayīnāṃ vasati tasminnasurāṇāṃ vasu vāmamasti tamimaṃ jahīti | tasyeṃdrastrāḥ puro bhittva hṛdayamavidhyat | adhi tatra yadāsīttadviṣṇurāharaditi | so 'yamitihāsaḥ ‖*)
+
+The main purport of this is as follows. Viṣṇu is the sacrifice. That Viṣṇu, in the form of the sacrifice, once left the gods and went away and stayed in a secret place. The other deities did not come to know this; only Indra knew. Then, when Indra went to the place where Viṣṇu was, Viṣṇu asked Indra who he was. In reply Indra said, "I am the one who destroys strongholds and asuras. But who are you?" Viṣṇu said, "I am the one who carries off from strongholds the wealth and so on belonging to the asuras. Who are you? What work do you do?" When he asked again, Viṣṇu said thus: "If you are, as you say, the destroyer of the strongholds and of the wealth of the asuras, then the asura named Varāha, who has carried off wealth and hidden it in himself, lives in a fortress firmly built of stones at the end of twenty-one cities (forts) from here. In him there is much wealth of the asuras. Therefore kill that asura." Hearing this, Indra destroyed those cities of the asuras and pierced the heart of the asura called Varāha and killed him. Then Viṣṇu brought from there all the wealth that was in the asura. This is the main purport of this history. This matter is also stated in the present Ṛk, and in the Ṛk
+
+अस्येदु मातुः सवनेषु सद्यो महः पितुं पपिवा‌ञ्चार्वन्ना । मुषायद्विष्णुः पचतं सहीयान्विध्यद्वराहं तिरो अद्रिमस्ता ॥ (*asyedu mātuḥ savaneṣu sadyo mahaḥ pituṃ papivāñcārvannā | muṣāyadviṣṇuḥ pacataṃ sahīyānvidhyadvarāhaṃ tiro adrimastā ‖*)
+
+(Ṛ. Saṃ. 1–61–7)
+
+and the commentator, saying so, has explained by fitting together the words found in the present Ṛk and in the quoted one with the history stated above:
+
+अस्येदु मातुः इत्यत्र विष्णुना हे इंद्र त्वं दुर्गाणां हंतेत्यात्मानं कथयसि तर्हि वाममुषं वराहमसुरं जहीत्युक्तार्थो विध्यद्वराहं इति पादेन प्रतिपादितः । (*asyedu mātuḥ ityatra viṣṇunā he iṃdra tvaṃ durgāṇāṃ haṃtetyātmānaṃ kathayasi tarhi vāmamuṣaṃ varāhamasuraṃ jahītyuktārtho vidhyadvarāhaṃ iti pādena pratipāditaḥ |*)
+
+### Printed p. 173
+
+The meaning of the words of Viṣṇu stated in the history above, "O Indra, you say that you are the destroyer of strongholds and of the asuras. If so, kill the asura named Varāha, who has carried off wealth and the like and hidden it in himself", is stated in the last pāda विध्यद्वराहं तिरो अद्रिमस्ता (*vidhyadvarāhaṃ tiro adrimastā*) of the quoted Ṛk अस्येदु मातुः (*asyedu mātuḥ*).
+
+इंद्रेण च विष्णो त्वं दुर्गादाहर्तेति ब्रूषे मया पुराणि जितास्यसुरश्च घातितस्तस्य वामं वस्वानयेत्युक्तो विष्णुमूर्तिस्तस्य वराहासुरस्य धनं मुमोष । सोऽर्थः मुषायद्विष्णुः पचतं सहीयान् इति पादेन सूचितः ॥ (*iṃdreṇa ca viṣṇo tvaṃ durgādāharteti brūṣe mayā purāṇi jitāsyasuraśca ghātitastasya vāmaṃ vasvānayetyukto viṣṇumūrtistasya varāhāsurasya dhanaṃ mumoṣa | so 'rthaḥ muṣāyadviṣṇuḥ pacataṃ sahīyān iti pādena sūcitaḥ ‖*)
+
+And Indra said to Viṣṇu: "O Viṣṇu, you say that you are the one who brings wealth and so on out of the strongholds of the asuras. Now I have conquered many enemy cities and killed the asura. Go and bring the wealth that is in that asura." Viṣṇu agreed to this and carried off and brought the wealth that was in that boar-asura. This detail is made known by the pāda मुषायद्विष्णुः पचतं सहीयान् (*muṣāyadviṣṇuḥ pacataṃ sahīyān*) of the quoted Ṛk.
+
+स किं पुनर्मुषितवानिति तदक्रोच्यते । विश्वेत्ता इति । हे इंद्र त्वेषितस्त्वया प्रेरितो विष्णुर्यज्ञरूपिः त्वेषितस्त्वं दुर्गादाहर्ता किल तर्हि त्वं तस्य धनान्याहरेति त्वया प्रेरितः सन्नुरुक्रमो भूत्वा विश्वेत्ता यानि च तत्र स्थितानि तानि सर्वाण्याभरत् । आभरतु । कानि तानीति । शतं महिषानपरिमितान् प्रशस्तान् पदार्थान् तेषां वाहनरूपान् महिषान्वा क्षीरपाकमोदनं च पक्वमात्रमेवौदनं चाभरत् ॥ (*sa kiṃ punarmuṣitavāniti tadakrocyate | viśvettā iti | he iṃdra tveṣitastvayā prerito viṣṇuryajñarūpiḥ tveṣitastvaṃ durgādāhartā kila tarhi tvaṃ tasya dhanānyāhareti tvayā preritaḥ sannurukramo bhūtvā viśvettā yāni ca tatra sthitāni tāni sarvāṇyābharat | ābharatu | kāni tānīti | śataṃ mahiṣānaparimitān praśastān padārthān teṣāṃ vāhanarūpān mahiṣānvā kṣīrapākamodanaṃ ca pakvamātramevaudanaṃ cābharat ‖*)
+
+It is said that Viṣṇu again brought many more things, carrying them off. Its detail is stated clearly in the present Ṛk विश्वेत्ता (*viśvettā*): O Indra, as soon as Viṣṇu, the sacrifice-formed, was urged by you with the words, "O Viṣṇu, you say that you are the one who carries off wealth and so on from the strongholds of the asuras; then bring the wealth and so on that is in this boar-asura", he agreed, saying "So be it", went swiftly to the city of the asura, and carried off and brought all the wealth and so on that was in the asura, that is, whatever things Indra had told him to bring. What are those things Viṣṇu brought? The most excellent and innumerable things, wealth and other choice things, and the animals such as buffaloes that carry them, and food and other nourishment cooked with milk and the like: he carried off and brought all of it as Indra had said. This detail is clearly indicated in the present Ṛk.
+
+### Printed p. 174
+
+विध्यद्वराहं इत्यत्रोक्तोऽर्थश्च चरमपादेनोच्यते । इंद्रस्तु वराहारं स्वीकृतासुरसर्वस्वं वराहरूपिणं वैमुषमेमुषनामानमथवैमुषं धनानामामोषकं वराहमसुरं हृदयेऽविध्यदिति (*vidhyadvarāhaṃ ityatrokto 'rthaśca caramapādenocyate | iṃdrastu varāhāraṃ svīkṛtāsurasarvasvaṃ varāharūpiṇaṃ vaimuṣamemuṣanāmānamathavaimuṣaṃ dhanānāmāmoṣakaṃ varāhamasuraṃ hṛdaye 'vidhyaditi*)
+
+Now they explain the meaning of the last pāda of the present Ṛk, विध्यद्वराहमिंद्र एमुषं (*vidhyadvarāhamiṃdra emuṣaṃ*). This asura called Varāha was in the form of a varāha (boar) and had carried off and stored much wealth from many. Therefore it is customary to call him एमुषं (*emuṣaṃ*), that is, धनानामामोषकं (*dhanānāmāmoṣakaṃ*), one who steals wealth. Indra, by his strength and power, pierced the chest of this asura named Emuṣa, in the form of a boar, and killed him: this is the sense set out in the last pāda of the present Ṛk.
+
+In the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda also, the account of this matter is stated in the same way:
+
+यज्ञो देवेभ्यो निलायत विष्णूरूपं कृत्वा स पृथिवीं प्राविशत्तं देवा हस्तान्सग्‌ं रभ्यैच्छन्तमिंद्र उपर्युपर्यत्यक्रामत्तोऽब्रवीत्को मायमुपर्युपर्यतिक्रमीत्यहं दुर्गे हंतेत्यथ कस्त्वमित्यहं दुर्गादाहर्तेति सोऽब्रवीद्गिरे वै हंतास्योऽथा वराहोऽयं वाम-मोषः सप्तानां गिरीणां परस्ताद्वित्तं वेद्यमसुराणां बिभर्ति तं जहि यदि दुर्गे हंतासीति सदर्भप्रंजिलमुद्गृह्य सप्तगिरीन् भित्त्वा तमहन्तोऽब्रविद्विष्णुर्गाप्ता आहर्ता वो ऽथा एतमाहरेति तमेभ्यो यज्ञ एव यज्ञमाहरद्यत्तद्वित्तं वेद्यमसुराणामविंदंत तदेकु वेद्यै वेदित्वं ॥ (*yajño devebhyo nilāyata viṣṇūrūpaṃ kṛtvā sa pṛthivīṃ prāviśattaṃ devā hastānsagṃ rabhyaicchantamiṃdra uparyuparyatyakrāmatto 'bravītko māyamuparyuparyatikramītyahaṃ durge haṃtetyatha kastvamityahaṃ durgādāharteti so 'bravīdgire vai haṃtāsyo 'thā varāho 'yaṃ vāma-moṣaḥ saptānāṃ girīṇāṃ parastādvittaṃ vedyamasurāṇāṃ bibharti taṃ jahi yadi durge haṃtāsīti sadarbhapraṃjilamudgṛhya saptagirīn bhittvā tamahanto 'bravidviṣṇurgāptā āhartā vo 'thā etamāhareti tamebhyo yajña eva yajñamāharadyattadvittaṃ vedyamasurāṇāmaviṃdaṃta tadeku vedyai veditvaṃ ‖*)
+
+(Trai. Saṃ. 6-2-4-2, 3)**NOTE**
+
+To explain how the sacrificial altar came to have the name vedi, a history is stated in the Yajurveda:
+
+Formerly, for some reason, the sacrifice took the form of Viṣṇu, left the gods and went away. Then that Viṣṇu, the sacrifice-formed, entered the earth and remained hidden so that no one knew. The gods, not seeing him, held one another by the hand and searched everywhere, yet they did not find the place where Viṣṇu was. But when Indra passed over the region where Viṣṇu was hidden, Viṣṇu below said, "Who is it? Who passes over the place where I am?" Hearing that, Indra said, "I am the one who strikes and destroys the strongholds of the asuras, who
+
 ---
 
-**Progress note:** Done through printed p. 168. Sukta 77 Rk 4 Special Topics end and Rks 5-9
+**Progress note:** Done through printed p. 174. Ṛk 77.10 (Viṣṇu, Varāha); Nairukta and Aitihāsika views
