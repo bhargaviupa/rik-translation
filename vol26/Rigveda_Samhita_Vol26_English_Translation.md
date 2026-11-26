@@ -14737,6 +14737,226 @@ Soma, who desires the bride in the form of Vasatīvarī, becomes purified on the
 > उक्षा । मिमाति । प्रति । यंति । धेनवः । देवस्य । देवीः । उप । यंति । निःऽकृतम् ।  
 > अति । अक्रमीत् । अर्जुनम् । वारम् । अव्ययम् । अत्कम् । न । निक्तम् । परि । सोमः । अव्यत ॥ ४ ॥
 
+### Printed p. 394
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षा रेतसः सेक्ता वृषभः पुरतः मिमाति शब्दायते । 'माङ् माने शब्दे च ' । तं वृषभं धेनवः गावः प्रति यंति अनुगच्छंति । तथा देवस्य द्योतमानस्य निष्कृतं संस्कृतं स्थानं देवीः देव्यः उप यंति उपगच्छंति । अनेनार्धेन सोमस्तुतिश्चाभिधीयते । सोमः सन् द्रोणकलशाभिगमनकाले शब्दं करोति। तमनु धेनवः प्रीणयित्र्यः स्तुतयः पारियंति देवस्य स्थानं स्तुतयोऽभिगच्छंति । तथा सोऽयं सोमः अर्जुनं श्वेतवर्णम् अव्ययम् अविमयमविस्वभूतं वारं वालं पवित्रम् अत्यक्रमीत् अतिक्रामति । अतिक्रम्य पात्राणि गच्छतीत्यर्थः । किंच सोमः अत्कं न आत्मीयं कवचमिव निक्तम् उज्ज्वलं श्रयणद्रव्यं परि अव्यत परितः संवृणोति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the bull (उक्षा (*ukṣā*)), the sprinkler of seed, lows (मिमाति (*mimāti*)) in front; the cows follow that bull (प्रति यंति (*prati yaṃti*)). Likewise the goddesses go up to the refined place (निष्कृतं (*niṣkṛtaṃ*)) of the shining god. By this half-verse the praise of Soma is also stated: Soma makes a sound at the time of going to the Droṇa vessel; after him the pleasing praises, the cows (धेनवः (*dhenavaḥ*)), go to the place of the god. Likewise this Soma crosses over (अत्यक्रमीत् (*atyakramīt*)) the white (अर्जुनं (*arjunaṃ*)) filter (वारं (*vāraṃ*)) made of sheep's wool (अव्ययम् (*avyayam*)); having crossed it, he goes to the vessels. Further, Soma covers himself all around (परि अव्यत (*pari avyata*)) with the shining admixture (श्रयणद्रव्यं (*śrayaṇadravyaṃ*)), as with his own armour (अत्कं न (*atkaṃ na*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षा (*ukṣā*)—the bull
+- मिमाति (*mimāti*)—makes a sound
+- धेनवः (*dhenavaḥ*)—the cows
+- प्रति यंति (*prati yaṃti*)—follow around it
+- देवस्य (*devasya*)—of Soma, who is the deity
+- निष्कृतं (*niṣkṛtaṃ*)—the well-refined place
+- देवीः (*devīḥ*)—the shining praises
+- उपयंति (*upayaṃti*)—approach
+- अव्ययं (*avyayaṃ*)—of wool
+- अर्जुनं (*arjunaṃ*)—white
+- वारं (*vāraṃ*)—the threads of the ten-fold filter
+- अत्यक्रमित् (*atyakramit*)—having crossed over, Soma enters the vessels **NOTE**
+- सोमः (*somaḥ*)—Soma
+- अत्कं न (*atkaṃ na*)—as one puts on armour
+- निकतं (*nikataṃ*)—the shining admixture **NOTE**
+- परि अव्यत (*pari avyata*)—he takes to himself
+
+##### भावार्थ (Bhāvārtha)
+
+As cows follow around the bull when it makes a sound, the shining praises approach the well-refined place of Soma, who is the deity. Having crossed the white threads of the ten-fold filter of wool, Soma enters the vessels. As one puts on armour, Soma takes to himself the shining admixture.
+
+##### English translation
+The bull lows, the cows flock around him : the divine (praises) gather round the station of the radiant (Soma) : Soma passes through the white sheep-skin ; he clothes himself with it as it were with a burnished armour.
+
+#### Ṛk 5
+
+### Printed p. 395
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमृ॑क्तेन॒ रुश॑ता॒ वास॑सा॒ हरि॒रम॑र्त्यो निर्णिजा॒नः परि॑ व्यत ।  
+> दि॒वस्पृ॒ष्ठं ब॒र्हणा॑ नि॒र्णिजे॑ कृतोप॒स्तर॑णं च॒म्वो॑र्नभ॒स्मय॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमृक्तेन । रुशता । वाससा । हरिः । अमर्त्यः । निःऽनिजानः । परि । व्यत ।  
+> दिवः । पृष्ठम् । बर्हणा । निःऽनिजे । कृत । उपऽस्तरणम् । चम्वोः । नभस्मयम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमर्त्यः मनुष्यधर्मरहितः हरिः हरितवर्णः सोमः निर्णिजानः उदकेन शोध्यमानः सन् अमृक्तेन । ‘मृजी शौचालंकारयोः' । अनिर्णिक्तेनापि रुशता स्वतः शुक्लवर्णेन पयोरूपेण वाससा परि व्यत परित आच्छादयति । सोमे परिपूते गव्येन पयसा मिश्रीकुर्वंति खलु । तदुच्यते । ततः सोऽयं सोमः दिवः द्युलोकस्य पृष्ठं पृष्ठभागे तिष्ठंतमादित्यं बर्हणा बर्हणाय पापानामुद्यमनकारिणे पापनाशिने निर्निजे निर्नेजनाय परिपवनाय कृत द्युलोकेऽकार्षीत् । स हि स्वदीप्त्या सर्वं निर्णेक्ति । कृत । कृणोतेर्लुङि ‘ह्रस्वात्' इति सिचो लोपः । तदेवाह । चम्वोः । द्यावापृथिवीनामैतत् । चमंति भक्षयंत्यत्र देवा मनुष्या इति । तयोः उपस्तरणम् आच्छादनशीलं नभस्मयम् आदित्यमयमादित्यस्य स्वभूतं तेजश्च सर्वेषां निर्णेजनाय अकार्षीत् ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that Soma, free from human qualities (अमर्त्यः (*amartyaḥ*)), of green hue (हरिः (*hariḥ*)), while being cleansed with water (निर्णिजानः (*nirṇijānaḥ*)), covers himself all around (परि व्यत (*pari vyata*)) with a garment (वाससा (*vāsasā*)) in the form of milk, which is uncleansed (अमृक्तेन (*amṛktena*)), shining (रुशता (*ruśatā*)), and naturally white. For when Soma has been purified, they mix it with cow's milk; that is what is said. Then this Soma made (कृत (*kṛta*)), in the heavenly world, the Āditya who stands on the back (पृष्ठं (*pṛṣṭhaṃ*)) of the heavenly world (दिवः (*divaḥ*)) for destruction (बर्हणा (*barhaṇā*)), that is, for the one who uproots sins, the destroyer of sin, and for cleansing (निर्निजे (*nirnije*)), for purification; for the Āditya cleanses everything by his own radiance. That is what he says: चम्वोः (*camvoḥ*) is a name of Heaven and Earth, because gods and men eat in them (चमंति भक्षयंत्यत्र देवा मनुष्या इति (*camaṃti bhakṣayaṃtyatra devā manuṣyā iti*)). The covering (उपस्तरणम् (*upastaraṇam*)) of these two, which has the nature of covering, made of the Āditya (नभस्मयम् (*nabhasmayam*)), that is, the Āditya's own brilliance, he made for the cleansing of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्यः (*amartyaḥ*)—free from the nature of death
+- हरिः (*hariḥ*)—of green colour; Soma
+- निर्णिजानः (*nirṇijānaḥ*)—though he has attained purity
+- अमृक्तेन (*amṛktena*)—that has not been refined
+- रुशता (*ruśatā*)—and is white
+- वाससा (*vāsasā*)—with a garment in the form of milk
+- परिव्यत (*parivyata*)—he is covered
+- दिवः (*divaḥ*)—of the atmosphere
+- पृष्ठं (*pṛṣṭhaṃ*)—the Āditya who is on the back
+- बर्हणा (*barhaṇā*)—for the destruction of the world's sins
+- निर्निजे (*nirnije*)—and for the purification of the world
+- कृत (*kṛta*)—he created
+- चन्नोः (*cannoḥ*)—both Heaven and Earth **NOTE**
+- उपस्तरणं (*upastaraṇaṃ*)—that covers (surrounds)
+- नभस्मयं (*nabhasmayaṃ*)—he created the brilliance of the Āditya
+
+### Printed p. 396
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, free from the nature of death and of green colour, though he has attained purity, is covered with a garment in the form of milk, which is not refined and is white. He created the Āditya, who is on the back of the atmosphere, for the destruction of the world's sins and for the purification of the world. He also created the brilliance of the Āditya, which covers both Heaven and Earth.
+
+##### English translation
+The immortal green-tinted Soma when purified is arranged in an uncleansed shining vestment; he has created (Aditya) who stands on the back of the sky for the destruction (of sin) and purification, (and has created) Aditya's brilliance, the cover of the two worlds.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर्य॑स्येव र॒श्मयो॑ द्रावयि॒त्नवो॑ मत्स॒रासः॑ प्र॒सुपः॑ सा॒कमी॑रते ।  
+> तंतुं॑ त॒तं परि॒ सर्गा॑स आ॒शवो॒ नेंद्रा॑दृ॒ते प॑वते॒ धाम॒ किं च॒न ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यस्यऽइव । रश्मयः । द्रवयित्नवः । मत्सरासः । प्रऽसुपः । साकम् । ईरते ।  
+> तंतुम् । ततम् । परि । सर्गासः । आशवः । न । इंद्रात् । ऋते । पवते । धाम । किम् । चन ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यस्य रश्मयः सर्वस्य प्रेरकस्य सुवीर्यस्य वादित्यस्य रश्मयः सर्वतो व्यापकाः किरणाः इव द्रावयित्नवः सर्वत्रद्रवणशीलाः मत्सरासः मदकराः प्रसुपः शत्रूणां प्रस्वापका हंतारः आशवः ग्रहेषु चमसेषु च व्याप्ताः सर्गासः सृज्यमानाः सोमाः ततं विस्तृतं तंतुं तंतुभिः कृतं वस्त्रं साकं सह युगपत् परि ईरते परितो गच्छंति । ते सोमाः इंद्रादृते इंद्रं वर्जयित्वा अन्यत् किं चन धाम देवशरीरं लक्षीकृत्य न पवते न गच्छति। एकवचनं छांदसम् । न गच्छंति । किंत्विंद्रस्यैव धाम प्रति गच्छंति । इंद्रस्य धाम्नो यष्टव्यत्वं च ' अयाळिंद्रस्य प्रिया धामानि ' (वा. सं. २१.४७ ) इति मंत्रवर्णादवगम्यते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the Soma-juices (सर्गासः (*sargāsaḥ*), those being let flow), which are ever-running (द्रावयित्नवः (*drāvayitnavaḥ*)), exhilarating (मत्सरासः (*matsarāsaḥ*)), lulling the enemies to sleep, that is, slaying them (प्रसुपः (*prasupaḥ*)), and pervading the cups and the ladles (आशवः (*āśavaḥ*); ग्रहेषु चमसेषु च (*graheṣu camaseṣu ca*)), go (परि ईरते (*pari īrate*)) all around, together and at once, the extended (ततं (*tataṃ*)) cloth made of threads (तंतुं (*taṃtuṃ*)), like the rays (रश्मयः (*raśmayaḥ*)) of Sūrya, who is the impeller of all, or of good vigour, that is, the Āditya, rays that spread in every direction. Those Soma-juices, except Indra (इंद्रादृते (*iṃdrādṛte*)), do not go aiming at any other abode (धाम (*dhāma*)), that is, the body of a god; the singular is Vedic usage. They go only to Indra's abode. That Indra's abode is to be worshipped is known from the Vedic text अयाळिंद्रस्य प्रिया धामानि (*ayāḷiṃdrasya priyā dhāmāni*) (Vā. Saṃ. 21.47) **GLOSS**.
+
+### Printed p. 397
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रावयित्सवः (*drāvayitsavaḥ*)—those of spreading nature **NOTE**
+- मत्सरासः (*matsarāsaḥ*)—the exhilarating
+- प्रसुपः (*prasupaḥ*)—the destroyers of enemies
+- आशवः (*āśavaḥ*)—the swift-going
+- सर्गासः (*sargāsaḥ*)—the Soma-juices offered for the sacrifice
+- ततं (*tataṃ*)—extended
+- तंतुं (*taṃtuṃ*)—on the cloth made of thread
+- सूरस्य रश्मय इव (*sūrasya raśmaya iva*)—like the rays of the sun **NOTE**
+- साकं (*sākaṃ*)—together
+- परि (*pari*)—all around
+- ईरते (*īrate*)—they spread
+- इंद्रादृते (*iṃdrādṛte*)—except Indra
+- किं चन धाम (*kiṃ cana dhāma*)—to any other region
+- न पवते (*na pavate*)—Soma does not enter
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, which are of spreading nature, exhilarating, destroyers of enemies, swift-going and offered for the sacrifice, spread together all around over the extended cloth made of thread, like the rays of the sun. Apart from Indra, this Soma does not enter any other region.
+
+##### English translation
+The rushing exhilarating foe-slaying Soma-juices when let loose flow together round the extended cloth like the son's rays **NOTE** : they flow to no other person except, Indra.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिंधो॑रिव प्रव॒णे नि॒म्न आ॒शवो॒ वृष॑च्युता॒ मदा॑सो गा॒तुमा॑शत ।  
+> शं नो॑ निवे॒शे द्वि॒पदे॒ चतु॑ष्पदे॒ऽस्मे वाजाः॑ सोम तिष्ठंतु कृ॒ष्टयः॑ ॥ ७ ॥
+
+### Printed p. 398
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिंधोःऽइव । प्रवणे । निम्ने । आशवः । वृषऽच्युताः । मदासः । गातुम् । आशत ।  
+> शम् । नः । निऽवेशे । द्विऽपदे । चतुःऽपदे । अस्मे इति । वाजाः । सोम । तिष्ठंतु । कृष्टयः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषच्युताः । वृष हिंसासंक्लेशनदानेष्वपि । वृषभिः सोमस्य दातृभिर्ऋत्विग्भिश्युनदताः परिस्रुताः मदासः मदकारिणः सोमाः स्तुतिभिः प्राप्तव्य इंद्रे गातुं गमनम् आशत प्राप्नुवंति । तत्र दृष्टांतः । सिंधोरिव प्रवणे । प्रगच्छंत्युदकानि यत्रेति तत्प्रवणम् । तस्मिन् निम्ने स्थले सिंधोर्नद्याः आशवः व्याप्ता आपो यथा गच्छंति तद्वत् । अथ प्रत्यक्षः। हे सोम नः अस्माकं निवेशे स्वगृहं प्रति प्रवेशने निर्गमने वा द्विपदे पुत्रादिकाय चतुष्पदे गवादिकाय पशवे शं सुखं कुरु । किंच हे सोम अस्मे अस्मासु वाजाः अन्नानि कृष्टयः पुत्रादिकाः प्रजाश्च तिष्ठंतु । अन्नादिकं देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that वृषच्युताः (*vṛṣacyutāḥ*) are the exhilarating (मदासः (*madāsaḥ*)) Soma-juices poured forth (परिस्रुताः (*parisrutāḥ*)) by the bulls, that is, by the priests who give Soma **NOTE**. They find the way (गातुं गमनम् आशत (*gātuṃ gamanam āśata*)) to Indra, who is to be reached by praises. As an illustration he gives सिंधोरिव प्रवणे (*siṃdhoriva pravaṇe*): प्रवण (*pravaṇa*) is the place to which waters flow; as the pervading (आशवः (*āśavaḥ*)) waters of a river go to that low ground, so the juices go. Now he addresses Soma directly: O Soma, make happiness (शं (*śaṃ*)) for our two-footed creatures, sons and the like, and our four-footed creatures, cows and the like, at our entering (निवेशे (*niveśe*)) our own house or going out of it. Further, O Soma, let food (वाजाः (*vājāḥ*)) and offspring (कृष्टयः (*kṛṣṭayaḥ*)), sons and the like, abide in us (अस्मे (*asme*)); that is, give us food and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—swift-going
+- सिंधोः (*siṃdhoḥ*)—the streams of the river
+- प्रवणे (*pravaṇe*)—that are the support of the water
+- निम्मे इव (*nimme iva*)—as they flow to low-lying regions **NOTE**
+- वृषच्युताः (*vṛṣacyutāḥ*)—offered by the priests
+- मदासः (*madāsaḥ*)—and exhilarating, the Soma-juices
+- गातुं (*gātuṃ*)—to Indra, who is their place of support
+- अशत (*aśata*)—they go and reach **NOTE**
+- सोम (*soma*)—O god Soma
+- नः (*naḥ*)—our
+- निवेशे (*niveśe*)—entering the house
+- द्विपदे (*dvipade*)—to sons and the like
+- चतुष्पदे (*catuṣpade*)—and to cattle
+- शं (*śaṃ*)—bring happiness
+- अस्मे (*asme*)—in us
+- वाजाः (*vājāḥ*)—food
+- कृष्टयः (*kṛṣṭayaḥ*)—and offspring such as sons
+- तिष्ठंतु (*tiṣṭhaṃtu*)—let them be established
+
+##### भावार्थ (Bhāvārtha)
+
+As the swift streams of a river flow to the low-lying regions that are the support of the water, the exhilarating Soma-juices offered by the priests go and reach Indra, who is their place of support. O god Soma, bring happiness to the sons and the like, and to the cattle, that enter our house. Let food and offspring such as sons be established in us.
+
+##### English translation
+The exhilarating (Soma-juices) poured forth by the sprinklers effect their way to Indra as in a waterfall of a river the pervading (waters find their
+
+### Printed p. 399
+
+way) to dry ground ; bless on our return our two-footed and four-footed things ; may food and offspring ever abide with us.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ पवस्व॒ वसु॑म॒द्धिर॑ण्यव॒दश्वा॑व॒द्गोम॒द्यव॑मत्सु॒वीर्य॑म् ।  
+> यू॒यं हि सो॑म पि॒तरो॒ मम॒ स्थन॑ दि॒वो मू॒र्धानः॒ प्रस्थि॑ता वय॒स्कृतः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । पवस्व । वसुऽमत् । हिरण्यऽवत् । अश्वऽवत् । गोऽमत् । यवऽमत् । सुऽवीर्यम् ।  
+> यूयम् । हि । सोम । पितरः । मम । स्थन । दिवः । मूर्धानः । प्रऽस्थिताः । वयःऽकृतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वसुमत् वसुयुक्तं हिरण्यवत् कनकादिसहितम् अश्ववत् गोमत् गवाश्वसहितं यवमत् । यवो नाम धान्यविशेषः। धान्यविशिष्टं सुवीर्यं शोभनवीर्योपेतं धनं नः अस्मभ्यम् आ पवस्व आप्रापय । प्रयच्छेति यावत् । किंच हे सोम यतस्त्वं मम पितॄणामंगिरसामपि पितासि ततो यूयम् एव मम पितरः स्थन भवथ । पितृबहुत्वमत्र सोमस्याभिधीयते । कीदृशाः । दिवः द्युलोकस्य मूर्धानः मूर्धवदुच्छ्रिताः । कर्मभिः स्वर्गादिकमलभंतेत्यर्थः । प्रस्थिताः सर्वदा कर्मकरणार्थं स्थिताः वयस्कृतः हवीरूपस्यान्नस्य कर्तारः । तादृशा मम पितरस्त्वं भवसि । ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma: bestow (आ पवस्व (*ā pavasva*)), that is, give, to us wealth that is endowed with treasures (वसुमत् (*vasumat*)), with gold and the like (हिरण्यवत् (*hiraṇyavat*)), with horses (अश्ववत् (*aśvavat*)), with cows (गोमत् (*gomat*)) and with barley (यवमत् (*yavamat*); यवो नाम धान्यविशेषः (*yavo nāma dhānyaviśeṣaḥ*), barley is a particular grain, so, endowed with grain), and endowed with good vigour (सुवीर्यं (*suvīryaṃ*)). Further, O Soma, since you are the father even of my fathers, the Aṅgirases, you yourselves are my fathers (स्थन (*sthana*), you are); the plurality of fathers is here said of Soma. What are they like? They are heads (मूर्धानः (*mūrdhānaḥ*)) of the heavenly world (दिवः (*divaḥ*)), raised like a head; by rites they obtain heaven and the like. They are प्रस्थिताः (*prasthitāḥ*), always standing ready to perform rites, and वयस्कृतः (*vayaskṛtaḥ*), makers of the food in the form of oblation. Such are my fathers; such you are.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+**NOTE**
+
+- वसुमत् (*vasumat*)—(O god Soma) endowed with wealth
+- हिरण्यवत् (*hiraṇyavat*)—filled with gold
+- अश्ववत् (*aśvavat*)—endowed with horses
+- गोमत् (*gomat*)—accompanied by cows
+- यवमत् (*yavamat*)—endowed with barley grain
+- सुवीरं (*suvīraṃ*)—the wealth endowed with excellent vigour **NOTE**
+- नः (*naḥ*)—to us
+- आपवस्व (*āpavasva*)—provide
+- सोम (*soma*)—O god Soma
+- दिवः (*divaḥ*)—of the heavenly world
+
 ---
 
-**Progress note:** Done through printed p. 393. Sukta 69 intro and Rks 1-4 (Sayana bhashya through Rk 3)
+**Progress note:** Done through printed p. 399. Sukta 69 Rks 4-8 (Rk 8 Pratipadartha begun)
