@@ -21893,6 +21893,249 @@ O Soma-deva, pressed with the pressing stones, you flow in the ten-fold filter, 
 ##### English translation
 Effused with the stones, you flow, Indu, into the filter entering the belly of Indra ; Soma, the contemplator, you look upon man (with affection); you opened the cloud for the Angirasas.
 
+### Printed p. 582
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां सो॑म॒ पव॑मानं स्वा॒ध्योऽनु॒ विप्रा॑सो अमदन्नव॒स्यवः॑ ।  
+> त्वां सु॑प॒र्ण आभ॑रद्दि॒वस्परींदो॒ विश्वा॑भिर्म॒तिभिः॒ परि॑ष्कृतम् ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । सोम । पवमानम् । सुऽआध्यः । अनु । विप्रासः । अमदन् । अवस्यवः ।  
+> त्वाम् । सुऽपर्णः । आ । अभरत् । दिवः । परि । इंदो इति । विश्वाभिः । मतिऽभिः । परिऽकृतम् ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानं त्वां स्वाध्यः सुमतयः सुकर्माणो वा विप्रासः विप्रा मेधाविनः स्तोतारः अवस्यवः रक्षाकामाः अनु अमदन अनुष्टुवंति । हे इंदो त्वां सुपर्णः श्येनः आभरत् आहरत् । दिवस्परि द्युलोकस्योपरि । द्युलोकादित्यर्थः । कीदृशं त्वाम् । विश्वाभिर्मतिभिः सर्वाभिः स्तुतिभिः परिष्कृतम् अलंकृतम् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are being purified: the praisers, the inspired wise ones of good thought or good works, desiring protection, praise you afterwards. O Indu, the hawk brought you from above heaven, that is, from the heavenly world; you, adorned, that is, decked, with all the praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- पवमानं (*pavamānaṃ*)—the purifier
+- त्वां (*tvāṃ*)—you
+- स्वाध्यः (*svādhyaḥ*)—those of excellent rites
+- विप्रासः (*viprāsaḥ*)—the wise praisers
+- अवस्यवः (*avasyavaḥ*)—desiring protection
+- अनु अमुदन् (*anu amudan*)—praise **NOTE**
+- इंदो (*iṃdo*)—O Soma
+- विश्वाभिः (*viśvābhiḥ*)—all
+- मतिभिः (*matibhiḥ*)—with praises
+- परिष्कृतं (*pariṣkṛtaṃ*)—well adorned
+- त्वां (*tvāṃ*)—you
+- सुपर्णः (*suparṇaḥ*)—the hawk
+- दिवस्परि (*divaspari*)—from the heavenly world
+- आ अभरत् (*ā abharat*)—brought
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the praisers of excellent rites and wisdom, desiring protection, praise you, the purifier. O Soma, the hawk brought you, adorned with all praises, from the heavenly world.
+
+##### English translation
+The pious worshippers desirous of preservation have glorified you, Soma, when being purified; the hawk brought you from heaven, Indu, adorned with all praises.
+
+### Printed p. 583
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव्ये॑ पुना॒नं परि॒ वार॑ ऊ॒र्मिणा॒ हरिं॑ नवंते अ॒भि स॒प्त धे॒नवः॑ ।  
+> अ॒पामु॒पस्थे॒ अध्या॒यवः॑ क॒विमृ॒तस्य॒ योना॑ महि॒षा अ॑हेषत ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्ये । पुनानम् । परि । वारे । ऊर्मिणा । हरिम् । नवंते । अभि । सप्त । धेनवः ।  
+> अपाम् । उपऽस्थे । अधि । आयवः । कविम् । ऋतस्य । योना । महिषाः । अहेषत ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अव्ये अविमये वारे वाले दशापवित्रे ऊर्मिणा रसेन परि परितः पुनानं पवमानं हरिं हरितवर्णं सोमम् अभि नवंते अभिगच्छंति सप्त धेनवः प्रीणयित्र्यः सप्त गायत्र्याद्याः सप्त गंगाद्या नद्यो वा । ' नवते क्षोदते ' इति गतिकर्मस्वयं पठितः । किंच कविं त्वाम् अपामुपस्थे अंतरिक्षस्योत्संगे ऋतस्य योनौ । उदकनामैतत्  ऋतं योनिर्ऋतस्य योनिः' इति तन्नामसु पाठात् । उदके महिषाः महांतः आयवः मनुष्याः अधि अहेषत अधिकं प्रेरयंति ॥ ॥ १६ ॥
+
+##### Gist of the bhāṣya
+
+In the ten-fold filter made of wool, with the stream, that is, the juice, flowing purified all around, the seven milch cows, the gladdening ones, approach the green-tinted Soma. The seven are the metres beginning with the Gāyatrī, or the seven rivers beginning with the Gaṅgā. The root used here is read among the verbs of motion. Further, you, the sage, in the lap of the waters, that is, of the atmosphere, in the womb of the sacred order (a name of water, as the reading among the names of water shows), in the water, great men, human beings, impel you strongly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अव्ये (*avye*)—made of wool
+- वारे (*vāre*)—in the threads of the ten-fold filter
+- ऊर्मिणा (*ūrmiṇā*)—with the juice
+- परि (*pari*)—all around
+- पुनानं (*punānaṃ*)—who is being purified
+- हरिं (*hariṃ*)—Soma
+- सप्त धेनवः (*sapta dhenavaḥ*)—the seven metres beginning with the Gāyatrī
+- अभि नवंते (*abhi navaṃte*)—approach
+- महिषाः (*mahiṣāḥ*)—(O Soma) great-souled
+- आयवः (*āyavaḥ*)—men
+- कविं (*kaviṃ*)—you, the adorable
+- अपां (*apāṃ*)—of the waters
+- उपस्थे (*upasthe*)—in the lap (upon the thigh)
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योन्सौ (*yonsau*)—in the place **NOTE**
+- अध्यहेषत (*adhyaheṣata*)—impel strongly
+
+##### भावार्थ (Bhāvārtha)
+
+The seven metres beginning with the Gāyatrī approach Soma, who is being purified all around with his juice in the threads of the ten-fold filter made of wool. O Soma, great-souled men impel you, the adorable, over the waters at the place of the sacrifice.
+
+### Printed p. 584
+
+##### English translation
+The seven milch cows approach the green-tinted (Soma) who flows purified in a stream through the woollen fleece, mighty men urge (you) the sage on the lap of the waters to the place of sacrifice.
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदुः॑ पुना॒नो अति॑ गाहते॒ मृधो॒ विश्वा॑नि कृ॒ण्वन्सु॒पथा॑नि॒ यज्य॑वे ।  
+> गाः कृ॑ण्वा॒नो नि॒र्णिजं॑ हर्य॒तः क॒विरत्यो॒ न क्रीळ॒न्परि॒ वार॑मर्षति ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । पुनानः । अति । गाहते । मृधः । विश्वानि । कृण्वन् । सुऽपथानि । यज्यवे ।  
+> गाः । कृण्वानः । निःऽनिजम् । हर्यतः । कविः । अत्यः । न । क्रीळन् । परि । वारम् । अर्षति ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंदुः दीप्तः सोमः पुनानः पूयमानः अति गाहते अतिक्रम्य गच्छति मृधः शत्रून् । किं कुर्वन् । विश्वानि गंतव्यानि सुवर्मा  नि वैदिकानि लौकिकानि च सुपथानि कृण्वन् कुर्वन् । कस्मै । यज्यवे यागकर्त्रे । यजमानाय शत्रून् परिहरन् मार्गान् सुपथान् कुर्वन् कलशं प्रविशतीत्यर्थः । किंच निर्णिजम् आत्मीयं रूपं गाः कृण्वानः । रसमयान् कुर्वाण इत्यर्थः । हर्यतः कांतः । ‘ हर्य गतिकांत्योः' । औणादिकोऽतच् । कविः क्रांतप्रज्ञः एवंभूतः सोमः अत्यो न अश्व इव क्रीळन् वारं दशापवित्रं परि अर्षति परिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Indu, the radiant Soma, being purified, passes beyond, overcoming the foes. Doing what? Making all the roads to be travelled, the Vedic and the worldly ones, into good paths, for the one who sacrifices: removing the enemies from the sacrificer and making the roads good, he enters the vessel. Further, making his own form juicy, he is lovely (the root meaning movement and desire). A sage, that is, of far-reaching wisdom, being such, Soma, sporting like a horse, goes around the ten-fold filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—who has been purified
+- इंदुः (*iṃduḥ*)—Soma
+- यज्यवे (*yajyave*)—for the sacrificer
+- विश्वानि (*viśvāni*)—all the roads
+- सुपथानि (*supathāni*)—fit for excellent travel
+- कृण्वन् (*kṛṇvan*)—making
+- मृधः (*mṛdhaḥ*)—for the destruction of foes
+- अतिगाहते (*atigāhate*)—presses forward
+- निर्णिजं (*nirṇijaṃ*)—his own
+
+### Printed p. 585
+- रूपवन्नु (*rūpavannu*)—form
+- गाः (*gāḥ*)—juicy
+- कृष्णानः (*kṛṣṇānaḥ*)—having made **NOTE**
+- हर्यतः (*haryataḥ*)—the radiant
+- कविः (*kaviḥ*)—the wise Soma
+- अत्यो न (*atyo na*)—like a horse
+- क्रीळन् (*krīḷan*)—sporting
+- वारं (*vāraṃ*)—within the ten-fold filter
+- पर्यर्षति (*paryarṣati*)—falls and moves all around
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who has been purified, making all the roads fit for excellent travel for the sacrificer, presses forward for the destruction of foes. Having made his own form juicy, the radiant and wise Soma, sporting like a horse, falls into the ten-fold filter and moves all around.
+
+##### English translation
+Indu, purified, plunges through his foes making all things easy of access to the worshipper ; making his body liquid, lovable and wise, he rushes through the filter sporting like a horse.
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स॒श्चतः॑ श॒तधा॑रा अभि॒श्रियो॒ हरिं॑ नवं॒तेऽव॒ ता उ॑द॒न्युवः॑ ।  
+> क्षिपो॑ मृजंति॒ परि॒ गोभि॒रावृ॑तं तृ॒तीये॑ पृ॒ष्ठे अधि॑ रोच॒ने दि॒वः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असश्चतः । शतऽधाराः । अभिऽश्रियः । हरिम् । नवंते । अव । ताः । उदन्युवः ।  
+> क्षिपः । मृजंति । परि । गोभिः । आऽवृतम् । तृतीये । पृष्ठे । अधि । रोचने । दिवः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असश्चतः परस्परमसंगताः शतधाराः अभिश्रियः अभितः सोमं श्रयंत्यः ताः प्रसिद्धाः सूर्यस्य दीप्तयः हरिम् अव नवंते गच्छंति । उदन्युवः उदकेच्छावत्यः सत्यः । यद्वा । धाराशब्देनात्र सोमधारा अभिप्रेताः । असश्चतोऽसंबद्धा अभिश्रियोऽभितो गाः श्रयंत्यो गोभिः श्रितास्ताः प्रसिद्धा उदन्युव इंद्रसंबंधिवृष्टिकामा हरिमिंद्रमव नवंते संगच्छंते । क्षिपः अंगुलयोऽपि गोभिः दीप्तिपक्षे गोभी रश्मिभिः आवृतं सोमधारापक्षे गोभिः परि आवृतं व्याप्तं सोमं मृजंति अवशोधयंति । दिवः आदित्यात् रोचने रोचमाने यमादित्यो रोचयति तस्मिन् तृतीये क्षित्यपेक्षायां तृतीयभूते द्युलोके अधि वसंतं सोमं मृजंति ॥
+
+##### Gist of the bhāṣya
+
+The hundred streams, not joined with one another, resorting to Soma on all sides, those well-known rays of the sun go to Hari, desiring water. Or else, by "streams" the streams of Soma are meant: not connected, resorting on all sides to the cows (the milk), those well-known ones, desiring the rain that belongs to Indra, join Hari, Indra. The fingers cleanse Soma, who is enveloped, that is, pervaded, by the cows: in the view of the rays, by rays; in the view of the Soma streams, by milk. They cleanse Soma abiding in the third, the heavenly world, counting the earth as the first, in the light of heaven, that is, in the radiant sphere which the sun makes shine.
+
+### Printed p. 586
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असश्चतः (*asaścataḥ*)—those that are separate
+- शतधाराः (*śatadhārāḥ*)—those with many kinds of flow
+- अभिश्रियः (*abhiśriyaḥ*)—those that join Soma
+- ताः (*tāḥ*)—the well-known rays of the sun
+- उदन्युवः (*udanyuvaḥ*)—desiring waters
+- हरिं (*hariṃ*)—Soma
+- अव नवंते (*ava navaṃte*)—go and join
+- दिवः (*divaḥ*)—of the sun
+- रोचने (*rocane*)—shining
+- तृतीये अधि (*tṛtīye adhi*)—who is in the third world
+- गोभिः (*gobhiḥ*)—with rays
+- परि (*pari*)—all around
+- आवृतं (*āvṛtaṃ*)—enveloped, such Soma
+- क्षिपः (*kṣipaḥ*)—the fingers
+- मृजंति (*mṛjaṃti*)—cleanse
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known rays of the sun, separate, with many kinds of flow, joining Soma, desiring waters, go and join Soma. The fingers cleanse Soma, who is in the shining third world of the sun and is pervaded all around by the rays.
+
+##### English translation
+Seperate, hundred-streamed, commingling (with the Soma), water-desiring, (the sun's rays) approach the green-tinted (Soma) ; the fingers cleanse him pervaded by rays, in the third sphere illumined by the sun. **NOTE**
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवे॒माः प्र॒जा दि॒व्यस्य॒ रेत॑स॒स्त्वं विश्व॑स्य॒ भुव॑नस्य राजसि ।  
+> अथे॒दं विश्वं॑ पवमान ते॒ वशे॒ त्वमिं॑दो प्रथ॒मो धा॑म॒धा अ॑सि ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । इमाः । प्रऽजाः । दिव्यस्य । रेतसः । त्वम् । विश्वस्य । भुवनस्य । राजसि ।  
+> अथ । इदम् । विश्वम् । पवमान । ते । वशे । त्वम् । इंदो इति । प्रथमः । धामऽधाः । असि ॥ २८ ॥
+
+### Printed p. 587
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तव दिव्यस्य रेतसः सकाशात् इमाः प्रजाः उत्पद्यमानाः प्राणिन उत्पन्नाः । सोमो वै रेतोधाः' (तै. सं. २.१.१.६ ) इति श्रुतेः । त्वं विश्वस्य भुवनस्य राजसि ईश्वरो भवसि । अथ अपि च इदं विश्वं हे पवमान ते वशे त्वदधीनं वर्तते । हे इंदो प्रथमः मुख्यः त्वं धामधाः धाम्नो धर्ता असि भवसि ॥
+
+##### Gist of the bhāṣya
+
+From your celestial seed these creatures, these living beings, are born; this follows from the scripture that Soma is indeed the bearer of seed (Tai. Saṃ. 2.1.1.6). You rule over the whole world, you are its lord. And further, O purifier, this whole world is in your power, subject to you. O Indu, you, the foremost, the chief, are the supporter of the abode.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifier
+- इंदो (*iṃdo*)—O Soma-deva
+- दिव्यस्य (*divyasya*)—of divine nature
+- तव (*tava*)—your
+- रेतसः (*retasaḥ*)—from the vigour
+- इमाः प्रजाः (*imāḥ prajāḥ*)—all these creatures are born
+- त्वं (*tvaṃ*)—you
+- विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of all the worlds
+- राजसि (*rājasi*)—are the lord
+- अथ (*atha*)—and
+- इदं विश्वं (*idaṃ viśvaṃ*)—this whole world
+- ते वशे (*te vaśe*)—is under your control
+- त्वं (*tvaṃ*)—you
+- प्रथमः (*prathamaḥ*)—the most important
+- धामधाः (*dhāmadhāḥ*)—the supporter of the abodes
+- असि (*asi*)—are
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the purifier, all creatures are born from your vigour, of divine nature. You are the lord of all the worlds. The whole world is under your control. You are the chief supporter of all the abodes.
+
+##### English translation
+All these are the offspring of your celestial effluence ; you are the ruler of the whole world ; so, purified (Soma), this universe is in subjection to you ; you, Indu, are the foremost, the supporter of the house.
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं स॑मु॒द्रो अ॑सि विश्व॒वित्क॑वे॒ तवे॒माः पंच॑ प्र॒दिशो॒ विध॑र्मणि ।  
+> त्वं द्यां च॑ पृथि॒वीं चाति॑ जभ्रिषे॒ तव॒ ज्योतीं॑षि पवमान॒ सूर्यः॑ ॥ २९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 581. Mandala 9 hymn 86 verses 19-23 (pp. 576-581)
+**Progress note:** Done through printed p. 587. Mandala 9 hymn 86 verses 24-29 (pp. 582-587)
