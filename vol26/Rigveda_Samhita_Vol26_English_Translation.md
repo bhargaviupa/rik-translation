@@ -16478,6 +16478,209 @@ Performer of good deeds, flow quickly round the terrestrial region, giving (rich
 
 O Indu, Pavamāna, bring us wealth quickly. What kind of wealth? शतदातु (*śatadātu*): दातु (*dātu*) is a gift, so it is wealth of many gifts, together with horses; सहस्रदातु (*sahasradātu*): accompanied by a thousand gifts; पशुमत् (*paśumat*): with cattle and the like; and हिरण्यवत् (*hiraṇyavat*): with gold. Give us such wealth. Likewise, O Soma, measure out near us the abundant and wealthy (रेवतीः (*revatīḥ*)); or else, the cattle that give milk, and the foods that go with them. Further, O Pavamāna, come to hear our praise.
 
+### Printed p. 442
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- नः (*naḥ*)—to us
+- शतदातु (*śatadātu*)—that which has hundreds of gifts
+- अश्वं (*aśvaṃ*)—that which is accompanied by horses
+- पशुमत् (*paśumat*)—that which is endowed with cattle
+- हिरण्यवत् (*hiraṇyavat*)—that which is made of gold
+- सहस्रदातु (*sahasradātu*)—wealth that has thousands of gifts
+- तु (*tu*)—quickly
+- आ (*ā*)—provide
+- बृहतीः (*bṛhatīḥ*)—abundant
+- रेवतीः (*revatīḥ*)—rich in wealth
+- इषः (*iṣaḥ*)—foods
+- उप मास्व (*upa māsva*)—provide for us
+- पवमान (*pavamāna*)—O purified Soma
+- नः (*naḥ*)—our
+- स्तोत्रस्य (*stotrasya*)—for hearing the praise
+- अधि गहि (*adhi gahi*)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, provide us with wealth that is fit to be given in hundreds and in thousands, endowed with cattle, made of gold. Provide us with foods that are abundant and rich in wealth. O purified Soma, be gracious to hear our praise.
+
+##### English translation
+O Indu, bring us quickly (wealth) with a hundred gifts, with horses, with a thousand gifts, with catlle and with gold; measure unto us abundant riches and food ; come, purified one, to (hear) our praise. **NOTE**
+
+## Sūkta 73 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘स्रक्वे' इति नवर्चं षष्ठं सूक्तमांगिरसस्य पवित्रस्यार्षं जागतं पवमानसोमदेवताकम् । तथा चानुक्रम्यते- स्रक्वे पवित्रः' इति । प्रवर्ग्येऽभिष्टव एतत् सूक्तम् । सूत्रितं च-' स्रक्वे द्रप्सस्यायं वेनश्चोदयत्पृश्निगर्भाः ' ( आश्व. श्रौ. ४.६ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning स्रक्वे (*srakve*), of nine ṛks, is the sixth sūkta; it is the vision of Pavitra, of the line of Aṅgiras, its metre is Jagatī and its deity is Pavamāna Soma. So the Anukramaṇī says: स्रक्वे पवित्रः (*srakve pavitraḥ*). This sūkta is used in the Abhiṣṭava of the Pravargya. It is also laid down in the sūtra स्रक्वे द्रप्सस्यायं वेनश्चोदयत्पृश्निगर्भाः (*srakve drapsasyāyaṃ venaścodayatpṛśnigarbhāḥ*) (Āśva. Śrau. 4.6). **NOTE**
+
+Translation.—This sūkta beginning स्रक्वे (*srakve*) is the sixth sūkta in the fourth anuvāka. It contains nine ṛks. The seer of this sūkta is Pavitra, a son of Aṅgiras; the deity is Pavamāna Soma; the metre is Jagatī. In the Anukramaṇī it is said: स्रक्वे पवित्रः (*srakve pavitraḥ*). In the Abhiṣṭava
+
+### Printed p. 443
+
+for the Pravargya the use of this sūkta is shown, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra beginning सक्वे द्रप्सस्यायं वेनश्चोदयत्पृश्निगर्भाः (*sakve drapsasyāyaṃ venaścodayatpṛśnigarbhāḥ*) (Ā. 4-6). **NOTE**
+
+Maṇḍala 9; Anuvāka 4; Sūkta 73; Aṣṭaka 7; Adhyāya 2; Varga 29, 30. Number of ṛks in the sūkta: 9. Ṛṣi: Pavitra. Devatā: Pavamāna Soma. Chandas: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्रक्वे॑ द्र॒प्सस्य॒ धम॑तः॒ सम॑स्वरन्नृ॒तस्य॒ योना॒ सम॑रंत॒ नाभ॑यः ।  
+> त्रीन्स मू॒र्ध्नो असु॑रश्चक्र आ॒रभे॑ स॒त्यस्य॒ नावः॑ सु॒कृत॑मपीपरन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्रक्वे । द्रप्सस्य । धमतः । सम् । अस्वरन् । ऋतस्य । योना । सम् । अरंत । नाभयः ।  
+> त्रीन् । सः । मूर्ध्नः । असुरः । चक्रे । आऽरभे । सत्यस्य । नावः । सुऽकृतम् । अपीपरन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्रक्वे यज्ञस्य हनुस्थानीये। स्रक्व ओष्ठप्रांतो हनुरुच्यते । ‘हनुरधिषवणफलकः' इत्याम्नानात् हनुस्थानीये अधिषवणफलके धमतः अभिषूयमाणस्य द्रप्सस्य सोमस्यांशवः समस्वरन् संगच्छंते । समशब्दयन् वा । ऋतस्य सत्यभूतस्य यज्ञस्य योना योनावुत्पत्तिस्थाने नाभयः सोमरसाः समरंत संगच्छंते । अर्तेः ‘समो गमि°' इत्यादिनात्मनेपदम् ।' सर्तिशास्त्यर्तिभ्यश्च । इति च्लेरङ्। अथ असुरः बलवान् सर्वेषां प्रीणनात् प्राणदाता वा सः सोमः मूर्ध्नः समुच्छ्रितान् त्रीन् लोकान् आरभे आरंभणाय मनुष्यदेवादीनां संचरणाय करोति । किंच सत्यस्य सत्यभूतस्य सोमस्य नावः नौका इव स्थिताश्चतस्रः स्थाल्यः। आदित्याग्रयणोक्थ्यध्रुवस्थाल्य इति । ताः स्थाल्यः सुकृतं सुष्ठु कर्माणि कुर्वंतं यजमानम् अपीपरन् अभिमतदानेन पूजयंति वा। पारयतेर्लुङि चङि सन्वद्भावाभ्यासेत्वदीर्घाः ॥
+
+##### Gist of the bhāṣya
+
+On the jaw-like part of the sacrifice (स्रक्वे (*srakve*)), that is, on the pressing board, since the tradition says हनुरधिषवणफलकः (*hanuradhiṣavaṇaphalakaḥ*) ("the jaw is the pressing board"), the streams of the dripping, that is, the pressed, Soma (द्रप्सस्य (*drapsasya*)) come together or sound together. In the place of origin of the true sacrifice the Soma-juices (नाभयः (*nābhayaḥ*)) flow together. Then that Soma, the Asura, who is mighty or who gives life by gratifying all, makes the three exalted worlds, for their beginning, for the movement of men, gods and the rest. Further, the four vessels standing like ships of the true Soma, namely the Āditya, Āgrayaṇa, Ukthya and Dhruva vessels, satisfy the worshipper who performs his rites well, or honour him by giving what he desires.
+
+### Printed p. 444
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रक्वे (*prakve*)—on the pressing board, which is like the jaw of the sacrifice **NOTE**
+- धमतः (*dhamataḥ*)—that is pressed
+- द्रप्सस्य (*drapsasya*)—the juices of Soma
+- समस्वरन् (*samasvaran*)—come together
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योना (*yonā*)—in the place of origin
+- नाभयः (*nābhayaḥ*)—the Soma-juices
+- समरंत (*samaraṃta*)—join together and flow
+- असुरः (*asuraḥ*)—mighty
+- सः (*saḥ*)—Soma
+- मूर्ध्नः (*mūrdhnaḥ*)—standing exalted
+- त्रीन् (*trīn*)—the three worlds
+- आरभे (*ārabhe*)—for the movement of gods, men and the rest
+- चक्रे (*cakre*)—has made
+- सत्यस्य (*satyasya*)—of Soma, who is of the nature of truth
+- नावः (*nāvaḥ*)—the ships
+- सुकृतं (*sukṛtaṃ*)—the worshipper who has excellent rites
+- अपीपरन् (*apīparan*)—satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+The juices of Soma pressed on the pressing board, which is like the jaw of the sacrifice, come together. In the place of origin of the sacrifice the Soma-juices join together and flow. The mighty Soma has made the three worlds, which stand exalted, for the movement of gods, men and the rest. The ships of Soma, who is of the nature of truth, satisfy the worshipper who has excellent rites.
+
+##### English translation
+(The streams) of the dripping effused (Soma) sound together on the jaw (of the sacrifice), the Soma-juices flow together to the place of sacrifice. The powerful (Soma) has made the three exalted worlds for the use (of men and gods); the ships of the truthful (Soma) satisfy the pious worshipper.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्यक्स॒म्यंचो॑ महि॒षा अ॑हेषत॒ सिंधो॑रू॒र्मावधि॑ वे॒ना अ॑वीविपन् ।  
+> मधो॒र्धारा॑भिर्ज॒नयं॑तो अ॒र्कमित्प्रि॒यामिंद्र॑स्य त॒न्व॑मवीवृधन् ॥ २ ॥
+
+### Printed p. 445
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम्यक् । सम्यंचः । महिषाः । अहेषत । सिंधोः । ऊर्मौ । अधि । वेनाः । अवीविपन् ।  
+> मधोः । धाराभिः । जनयंतः । अर्कम् । इत् । प्रियाम् । इंद्रस्य । तन्वम् । अवीवृधन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महिषाः पूज्या महांतो वर्त्विजः सम्यंचः परस्परं संगताः संतः सम्यक् अहेषत सोमं सम्यक् प्रेरयंति अभिषुण्वंतीति यावत् ।' हि गतौ वृद्धौ च ' । लुङि सिचि रूपम् । ततः वेनाः । ‘ वेनतेः कांतिकर्मणः ' (निरु. १०, ३८ ) इति यास्कः । स्वर्गादिफलं कामयमाना ऋत्विजः सिंधोः स्यंदमानस्योदकस्य ऊर्मौ अधि संघे वसतीवर्यादिषु जलेषु सोमम् अवीविपन् कंपयंति । तत्र प्रेरयंतीत्यर्थः । वपतेर्ण्यंतस्य लुङि चङि ' णौ चङ्युपधाया ह्रस्वः' इति ह्रस्वः । किंच अर्कम् अर्चनीयं स्तोत्रं जनयंतः कुर्वंतस्ते प्रियां प्रियतमाम् इंद्रस्य तन्वं धाम च मधोः मदकरस्य सोमस्य धाराभिः अवीवृधन् वर्धितवंतः । वर्धतेर्लुङि चङि रूपम् ॥
+
+##### Gist of the bhāṣya
+
+The venerable, great priests (महिषाः (*mahiṣāḥ*)), united together (सम्यंचः (*samyaṃcaḥ*)), send Soma forth well (सम्यक् अहेषत (*samyak aheṣata*)), that is, they press it. Then वेनाः (*venāḥ*): Yāska says (Ni. 10, 38) वेनतेः कांतिकर्मणः (*venateḥ kāṃtikarmaṇaḥ*), that is, the root means to desire. The priests, desiring heaven and the like, shake the Soma in the wave of the flowing water (सिंधोः (*siṃdhoḥ*)), in the mass of waters such as the Vasatīvarī waters; that is, they impel it there. Further, generating the अर्कम् (*arkam*), the praise that is to be honoured, they increase the dearest body and the splendour of Indra with the streams of the exhilarating Soma (मधोः (*madhoḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिषाः (*mahiṣāḥ*)—the venerable priests
+- सम्यंचः (*samyaṃcaḥ*)—having assembled together
+- सम्यक् (*samyak*)—satisfyingly
+- अहेषत (*aheṣata*)—press out and offer the Soma
+- वेनाः (*venāḥ*)—desiring heaven
+- सिंधोः (*siṃdhoḥ*)—of the flowing water
+- ऊर्मौ अधि (*ūrmau adhi*)—along with the waves
+- अवीविपन् (*avīvipan*)—mix and stir
+- अर्कं (*arkaṃ*)—the praise
+- जनयंतः (*janayaṃtaḥ*)—producing
+- प्रियां (*priyāṃ*)—agreeable
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- तन्नं (*tannaṃ*)—the body **NOTE**
+- मधोः (*madhoḥ*)—of the sweet Soma-juice **NOTE**
+- धाराभिः (*dhārābhiḥ*)—with the streams
+- अवीवृधन् (*avīvṛdhan*)—have nourished
+
+##### भावार्थ (Bhāvārtha)
+
+The venerable priests, having assembled together, press out the Soma and offer it satisfyingly. Desiring heaven, they mix and stir it with the waves of the flowing water. Producing praise, they have nourished the agreeable body of Indra with the streams of the sweet Soma-juice.
+
+##### English translation
+The mighty (priests) assembled send forth (the Soma) together; desirous (of heaven) they drive it to the wave of the river ; generating praise
+
+### Printed p. 446
+
+they nourish the precious body of Indra with the streams of the exhilarating Soma.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒वित्र॑वंतः॒ परि॒ वाच॑मासते पि॒तैषां॑ प्र॒त्नो अ॒भि र॑क्षति व्र॒तम् ।  
+> म॒हः स॑मु॒द्रं वरु॑णस्ति॒रो द॑धे॒ धीरा॒ इच्छे॑कुर्ध॒रुणे॑ष्वा॒रभ॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवित्रऽवंतः । परि । वाचम् । आसते । पिता । एषाम् । प्रत्नः । अभि । रक्षति । व्रतम् ।  
+> महः । समुद्रम् । वरुणः । तिरः । दधे । धीराः । इत् । शेकुः । धरुणेषु । आऽरभम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवित्रवंतः पवित्रेण शोधकेन सामर्थ्येन युक्ताः सोमस्य रश्मयः वाचं सोमस्थितां माध्यमिकां वाचं परि आसते पर्युपविशंति । सोमोऽंतरिक्षे तिष्ठति खलु ‘सोमो वै राजा गंधर्वेष्वासीत् ' ( ऐ. ब्रा, १.२७) इत्याम्नानात् । ततः प्रत्नः पुराणः एषां रश्मीनां पिता अयं सोमश्च व्रतं प्रकाशनात्मकं कर्म अभि रक्षति अवितं करोति । किंच वरुणः सर्वस्य स्वतेजसाच्छादकः सोऽयं सोमः महः महत् समुद्रम् । अंतरिक्षनामैतत् । महदंतरिक्षं तै रश्मिभिः तिरो दधे अंतर्हितमकरोत् । सर्वं व्याप्नोदिति यावत् । तमिमं सोमं धीराः । इत् अवधारणे । कर्मणि कुशलाः प्राज्ञा एवर्त्विजः धरुणेषु सर्वस्य धारकेषु वसतीवर्याख्येषूदकेषु आरभम् आरब्धुं शेकुः शक्नुवंति च । रभेस्तुमर्थे ' शकि णमुल्कमुलौ' (पा. सू. ३. ४. १२ ) इति कमुल्। लित्स्वरेण मध्योदात्तः ॥
+
+##### Gist of the bhāṣya
+
+The rays of Soma (पवित्रवंतः (*pavitravaṃtaḥ*)), endowed with the purifying power, sit round the voice (वाचं (*vācaṃ*)), that is, the middle (mādhyamikā) voice that rests in Soma. For Soma stays in the atmosphere, since the tradition says सोमो वै राजा गंधर्वेष्वासीत् (*somo vai rājā gaṃdharveṣvāsīt*) (Ai. Brā. 1.27). Then the ancient (प्रत्नः (*pratnaḥ*)) father of these rays, this Soma, protects the rite (व्रतं (*vrataṃ*)), the work of illumination, that is, preserves it. Further, Varuṇa, who covers all with his own splendour, this Soma, has hidden the great समुद्रम् (*samudram*), which is a name of the atmosphere, with those rays; that is, he pervades all. The skilful, wise priests (धीराः (*dhīrāḥ*); इत् (*it*) is for emphasis) are able to begin the rite with him in the all-sustaining (धरुणेषु (*dharuṇeṣu*)) waters called Vasatīvarī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवित्रवंतः (*pavitravaṃtaḥ*)—the rays of Soma that bring purity
+- वाचं परि (*vācaṃ pari*)—around the middle voice
+- आसते (*āsate*)—abide, resting on it
+- प्रश्नॆः (*praśnèḥ*)—the ancient one **NOTE**
+
+### Printed p. 447
+
+- एषां पिता (*eṣāṃ pitā*)—Soma, the father of these rays
+- व्रतं (*vrataṃ*)—the sacrificial rite
+- अभि रक्षति (*abhi rakṣati*)—protects completely
+- वरुणः (*varuṇaḥ*)—Soma, who covers all
+- महः (*mahaḥ*)—great
+- समुद्रं (*samudraṃ*)—the atmosphere
+- तिरो दधे (*tiro dadhe*)—has covered over, as if closing it
+- धीराः (*dhīrāḥ*)—the wise priests
+- धरुणेषु (*dharuṇeṣu*)—in the Vasatīvarī waters, which sustain the sacrifice
+- आरभं (*ārabhaṃ*)—to mix the Soma
+- शेकुः (*śekuḥ*)—are able
+
+##### भावार्थ (Bhāvārtha)
+
+The rays of Soma that bring purity abide around the middle voice. Soma, who is ancient and the father of these rays, protects the sacrificial rite completely. Soma, who covers all, has covered over the great atmosphere. The wise priests are able to mix the Soma in the Vasatīvarī waters, which sustain the sacrifice.
+
+##### English translation
+(The rays of the Soma) having the means of purification sit round the voice (of the firmament), their ancient father protects their (light-giving) work : Soma the all developer has overspread the mighty firmament (with them) : the skilful (priests) are able to conduct (the Soma) to the all-sustaining (waters).
+
+##### विशेषविषयगळु (Special Topics)
+
+To this effect Yāska has given the following etymology—पवित्रवंतो रश्मिवंतो माध्यमिक्वादेवगणाः पर्यासते माध्यमिकां वाचं। मध्यमः पितैषां प्रत्नः पुराणोऽभिरक्षति व्रतं कर्म। महः समुद्रं वरुणस्तिरोऽन्तदधात्यथ धीराः शुक्रवंति धरुणेषूदकेषु कर्मण आरभ मारब्धुं ॥ (*pavitravaṃto raśmivaṃto mādhyamikvādevagaṇāḥ paryāsate mādhyamikāṃ vācaṃ| madhyamaḥ pitaiṣāṃ pratnaḥ purāṇo 'bhirakṣati vrataṃ karma| mahaḥ samudraṃ varuṇastiro 'ntadadhātyatha dhīrāḥ śukravaṃti dharuṇeṣūdakeṣu karmaṇa ārabha mārabdhuṃ ‖*) (Ni. 12-32).
+
+Here the word पवित्र (*pavitra*) is explained as the rays that purify. Therefore पवित्रवंतः (*pavitravaṃtaḥ*) means those who have rays, or the gods of the middle region (the atmosphere) who are in contact with the rays of the sun; they take refuge in the voice of the middle region. For these hosts of gods of the middle region the ancient Varuṇa is the protector, and he protects or regulates the rites and other acts of the Maruts and the other gods. This Varuṇa, of great form, covers Āditya with masses of clouds. The discerning are able to begin their works, or sacrifices and the like, in these waters.
+
 ---
 
-**Progress note:** Done through printed p. 441. Sūkta 72 Ṛks 5-9 (bhāṣya of Ṛk 9), pp. 436-441
+**Progress note:** Done through printed p. 447. Sūkta 72 Ṛk 9 end; Sūkta 73 Ṛks 1-3
