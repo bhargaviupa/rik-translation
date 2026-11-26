@@ -34087,6 +34087,277 @@ In the rite of praising this divine Soma, who is the protector of sacrificial ri
 ##### English translation
 On the worship of whom all men fix their thoughts,—the lord of pious acts, the purified, the possessor of abundant wealth.
 
+### Printed p. 834
+
+## Sūkta 36 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> 'असर्जि' इति षडृचं द्वादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । असर्जि' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning असर्जि (*asarji*) has six ṛks and is the twelfth sūkta. The seer and so on are as before. The Anukramaṇī lists it by असर्जि (*asarji*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning असर्जि (*asarji*) is the twelfth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, असर्जि (*asarji*), is the ritual use, which has been stated before.
+
+Sūkta 36. Maṇḍala 9, Anuvāka 2, Sūkta 36. Aṣṭaka 6, Adhyāya 8, Varga 26. Number of ṛks in the sūkta: 6. Ṛṣi: प्रभूवसुः (*prabhūvasuḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑र्जि॒ रथ्यो॑ यथा प॒वित्रे॑ च॒म्वोः॑ सु॒तः ।  
+> कार्ष्म॑न्वा॒जी न्य॑क्रमीत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असर्जि । रथ्यः । यथा । पवित्रे । चम्वोः । सुतः ।  
+> कार्ष्मन् । वाजी । नि । अक्रमीत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथ्यो यथा रथसंबंध्यश्व इव स यथा विसृज्यते तद्वत् चम्वोः अधिषवणफलकयोः सुतः अभिषुतः सोमः असर्जि सृष्टोऽभूत् पवित्रे । तथाभूतः वाजी वेजनवान् सोमाख्योऽश्वः कार्ष्मन् । कार्ष्म युद्धमितरेतरकर्षणात् । अत्र देवानामाकर्षणवति यज्ञाख्ये संग्रामे न्यक्रमीत् नितरां क्रामति ॥
+
+##### Gist of the bhāṣya
+
+Like a chariot-horse that is let loose, the Soma that has been pressed between the two pressing boards is let loose upon the filter. Being so, the swift Soma, named as the horse, steps forward, that is, advances continually, in the battle: the word for battle means the dragging of each other to and fro, and here it is the sacrificial battle, in which the gods are drawn.
+
+### Printed p. 835
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चम्वोः (*camvoḥ*)—between the two boards used for pressing the Soma
+- सुतः (*sutaḥ*)—the Soma juice that is pressed
+- रथ्यः (*rathyaḥ*)—as a horse yoked to a chariot comes out when it is unyoked
+- असर्जि (*asarji*)—it darts out swiftly from the boards
+- वाजी (*vājī*)—the horse that goes swiftly
+- काष्मर्न् (*kāṣmarn*)—in the work of battle
+- न्यक्रमिात् (*nyakramiāt*)—as it goes leaping
+- वाजी (*vājī*)—the swift Soma juice
+- काष्मर्न् (*kāṣmarn*)—in the rite named sacrifice
+- नि अक्रमिात् (*ni akramiāt*)—it flows, plunging down
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma placed between the boards for pressing, after it has been pressed, darts out swiftly from between the boards and flows, as a horse yoked to a chariot comes out when it is unyoked. And as a swift horse runs leaping in battle, this Soma juice flows swiftly in the sacrificial rite.
+
+##### English translation
+Pressed between the boards, (the Soma) has been let loose, like a chariot-horse, upon the straining-cloth,—the courser steps out on the field.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वह्निः॑ सोम॒ जागृ॑विः॒ पव॑स्व देव॒वीरति॑ ।  
+> अ॒भि कोशं॑ मधु॒श्चुत॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वह्निः । सोम । जागृविः । पवस्व । देवऽवीः । अति ।  
+> अभि । कोशम् । मधुऽश्चुतम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम स वह्निः वाहकः जागृविः जागरूकः देववीः देवकामस्त्वं मधुश्चुतं मधुस्रावि कोशं दशापवित्रमतिक्रम्य अभि पवस्व द्रोणकलशं प्रति क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are the bearer, vigilant, desirous of the gods, pass beyond the ten-fringed filter and the honey-flowing vessel, and flow forward, that is, stream towards the Droṇa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O divine Soma
+- वह्निः (*vahniḥ*)—bearer of the sacrificial rite
+- जागृविः (*jāgṛviḥ*)—ever watchful
+- देववीः (*devavīḥ*)—desirous of the gods
+- सः (*saḥ*)—you, that one
+
+### Printed p. 836
+
+- मधुश्चुतं (*madhuścutaṃ*)—flowing with sweet juice
+- कोशं (*kośaṃ*)—streaming out of the daśāpavitra
+- अभि पवस्व (*abhi pavasva*)—flow towards the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, bearer of the sacrifice, ever watchful, desirous of going to the gods, you flow out of the daśāpavitra that is pouring sweet juice and run swiftly towards the Droṇa vessel.
+
+##### English translation
+Soma, bearer (of oblations), vigilant, devoted to the gods, flows past the honey-dropping filter-cloth (into the vessel).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ ज्योतीं॑षि पूर्व्य॒ पव॑मान॒ वि रो॑चय ।  
+> क्रत्वे॒ दक्षा॑य नो हिनु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । ज्योतींषि । पूर्व्य । पवमान । वि । रोचय ।  
+> क्रत्वे । दक्षाय । नः । हिनु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूर्व्य पुराण पवमान सोम नः अस्माकं ज्योतींषि दिव्यानि स्थानानि वि रोचय प्रकाशय । किंच क्रत्वे कर्मणे यागाय दक्षाय बलाय च बलप्रदाय यागाय वा नः अस्मान् हिनु प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O ancient Pavamāna Soma, make shine for us the luminaries, that is, the divine places. Further, impel us to the rite, the sacrifice, and to strength, or to a sacrifice that gives strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्व्य (*pūrvya*)—ancient
+- पवमान (*pavamāna*)—O flowing Soma
+- नः (*naḥ*)—to us
+- ज्योतींषि (*jyotīṃṣi*)—the shining places of the world of the gods
+- विरोचय (*virocaya*)—make them shine (cause them to be obtained)
+- क्रत्वे (*kratve*)—for the sacrifice
+- दक्षाय (*dakṣāya*)—and for the gaining of strength
+- नः (*naḥ*)—us
+- हिनु (*hinu*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, ancient god, make shine for us the shining places of the world of the gods, that is, lay them open; and impel us towards the sacrifice and the gaining of strength.
+
+### Printed p. 837
+
+##### English translation
+Ancient purifier, illume for us the luminaries (of heaven), animate us for strength-bestowing sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुं॒भमा॑न ऋता॒युभि॑र्मृ॒ज्यमा॑नो॒ गभ॑स्त्योः ।  
+> पव॑ते॒ वारे॑ अ॒व्यये॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुंभमानः । ऋतयुऽभिः । मृज्यमानः । गभस्त्योः ।  
+> पवते । वारे । अव्यये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतायुभिः यज्ञकामैर्ऋत्विग्भिः शुंभमानः अलंक्रियमाणस्तेषामेव गभस्त्योः हस्तयोः मृज्यमानः सोमः अव्यये अविमये वारे वाले देशापवित्रे पवते पूयते ॥
+
+##### Gist of the bhāṣya
+
+Soma, adorned by the ṛtviks who desire the sacrifice and cleansed in their very hands, is purified in the filter made of sheep's wool, that is, of hair, the ten-fringed filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतायुभिः (*ṛtāyubhiḥ*)—by the ṛtviks devoted to the sacrificial work
+- शुंभमानः (*śuṃbhamānaḥ*)—adorned
+- गभस्त्योः (*gabhastyoḥ*)—in the hands or by the hands
+- मृज्यमानः (*mṛjyamānaḥ*)—pounded and pressed; this Soma
+- अव्यये (*avyaye*)—made of sheep's wool
+- वारे (*vāre*)—in the daśāpavitra
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Adorned by the ṛtviks, the adhvaryu and the others, who are devoted to the sacrificial work, and pounded and pressed by their hands, this Soma juice falls upon the daśāpavitra made of sheep's wool and flows.
+
+##### English translation
+Beautified by the ministers of the rite, expressed by their hands (the Soma) flows through the woollen filter.
+
+### Printed p. 838
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स विश्वा॑ दा॒शुषे॒ वसु॒ सोमो॑ दि॒व्यानि॒ पार्थि॑वा ।  
+> पव॑ता॒मांतरि॑क्ष्या ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । विश्वा । दाशुषे । वसु । सोमः । दिव्यानि । पार्थिवा ।  
+> पवताम् । आ । अंतरिक्ष्या ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः अभिषूयमाणः सोमः दाशुषे हविर्दात्रे विश्वा सर्वाणि वसु वसूनि धनानि पवतां प्रयच्छतु । विश्वानीयुक्तस्य विवरणं शिष्टम् । दिव्यानि दिवि भवानि पार्थिवा पृथिवीसंबद्धानि अंतरिक्ष्या अंतरिक्षे भवानि च पवताम् ॥
+
+##### Gist of the bhāṣya
+
+May that Soma, who is being pressed, bestow on the giver of the oblation all treasures: those of heaven, those belonging to the earth, and those of the atmosphere. The explanation of the word for "all" has been given already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः सोमुः (*saḥ somuḥ*)—that Soma who is pressed
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- दिव्यानि (*divyāni*)—those that are in heaven
+- पार्थिवा (*pārthivā*)—those that are on the earth
+- अंतरिक्ष्या (*aṃtarikṣyā*)—and those that are in the atmosphere
+- विश्वा (*viśvā*)—all
+- वसु (*vasu*)—treasures
+- आ पवतां (*ā pavatāṃ*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May that Soma who is pressed provide the sacrificer who offers the oblation with all the treasures that are in heaven, earth and the atmosphere.
+
+##### English translation
+May that Soma bestow upon the donor (of the libation) all treasures whether of heaven or earth or the firmament.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दि॒वस्पृ॒ष्ठम॑श्व॒युर्ग॑व्य॒युः सो॑म रोहसि ।  
+> वी॒र॒युः श॑वसस्पते ॥ ६ ॥
+
+### Printed p. 839
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । दिवः । पृष्ठम् । अश्वऽयुः । गव्यऽयुः । सोम । रोहसि ।  
+> वीरऽयुः । शवसः । पते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं स्तोतॄणाम् अश्वयुः अश्वमिच्छन् गव्ययुः गा इच्छन् वीरयुः पुत्रानिच्छन् दिवस्पृष्ठं द्युलोकम् आ रोहसि आहुतिद्वारा हे शवसस्पते अन्नस्य पालक ॥ ॥ २६ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, desiring horses, desiring cows, desiring sons for the praisers, you ascend by way of the oblation to the back of heaven, the world of heaven. O lord of food, protector of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसः पते (*śavasaḥ pate*)—O protector of food
+- सोमु (*somu*)—O divine Soma, you
+- स्तोतृणां (*stotṛṇāṃ*)—to those who praise you
+- अश्वयुः (*aśvayuḥ*)—desiring to give horses
+- गव्ययुः (*gavyayuḥ*)—desiring to give cows
+- वीरयुः (*vīrayuḥ*)—desiring to give sons and others who are heroes
+- दिवः पृष्ठं (*divaḥ pṛṣṭhaṃ*)—to the world of heaven
+- आ रोहसि (*ā rohasi*)—you climb (by way of the oblation)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, protector of food, with the wish to give horses, cows and heroic sons to those who praise you, you climb to the world of heaven by way of the sacrificial oblation.
+
+##### English translation
+Soma, lord of food, you ascend to the summmit of the sky, desirous of horses, cows, and male progeny.
+
+## Sūkta 37 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘स सुतः' इति षडृचं त्रयोदशं सूक्तं रहूगणस्यार्षं गायत्रं सौम्यम् । अनुक्रम्यते च-स सुतो रहूगणः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning स सुतः (*sa sutaḥ*) has six ṛks and is the thirteenth sūkta. It is the seer-composition of Rahūgaṇa, in the Gāyatrī metre, with Soma as its deity. It is listed in the Anukramaṇī as स सुतो रहूगणः (*sa suto rahūgaṇaḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning स सुतः (*sa sutaḥ*) is the thirteenth sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is one named Rahūgaṇa; the deity is Pavamāna Soma; the metre is Gāyatrī. What the Anukramaṇī says, स सुतो रहूगणः (*sa suto rahūgaṇaḥ*), is the ritual use, which has been stated before.
+
+Sūkta 37. Maṇḍala 9, Anuvāka 2, Sūkta 37. Aṣṭaka 6, Adhyāya 8, Varga 37 **NOTE**. Number of ṛks in the sūkta: 6. Ṛṣi: रहूगणः (*rahūgaṇaḥ*). Devatā: पवमानः सोमुः (*pavamānaḥ somuḥ*). Chandas: गायत्री (*gāyatrī*).
+
 ---
 
-**Progress note:** Done through printed p. 833. Sukta 34 rk 6 end; Sukta 35 rks 1-6
+**Progress note:** Done through printed p. 839. Sūkta 36 complete (Ṛk 1-6), start of Sūkta 37, pp. 834-839
