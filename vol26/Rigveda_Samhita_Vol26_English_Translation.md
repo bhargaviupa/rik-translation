@@ -19029,6 +19029,247 @@ O Soma, such as you are, for the gods, for Indra and the others, most honeyed an
 - प्रच्युतः (*pracyutaḥ*)—urged
 - ग्रावभिः (*grāvabhiḥ*)—by the pressing
 
+### Printed p. 510
+
+- सुतः (*sutaḥ*)—pressed with the stones (continuing: the pressing stones)
+- सहस्रजित् (*sahasrajit*)—obtaining immeasurable riches
+- विश्वान् देवान् (*viśvān devān*)—facing all the gods
+- आ पवस्व (*ā pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, the priests, and also their ten fingers, milk you, endowed with many streams and with sweetness, for the gods, Indra and the others. Urged on by men, pressed by the pressing stones, obtaining immeasurable riches, flow facing all the gods.
+
+##### English translation
+The priests. and their ten fingers, milk you forth for the gods, most sweetflavoured, flowing in a thousand streams ; effused by the men, expressed with the stones, do you, Soma; the winner of thousand fold wealth, flow to all the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ ह॒स्तिनो॒ मधु॑मंत॒मद्रि॑भिर्दु॒हंत्य॒प्सु वृ॑ष॒भं दश॒ क्षिपः॑ ।  
+> इंद्रं॑ सोम मा॒दयं॒दैव्यं॒ जनं॒ सिंधो॑रिवो॒र्मिः पव॑मानो अर्षसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । हस्तिनः । मधुऽमंतम् । अद्रिऽभिः । दुहंति । अप्ऽसु । वृषभम् । दश । क्षिपः ।  
+> इंद्रम् । सोम । मादयन् । दैव्यम् । जनम् । सिंधोःऽइव । ऊर्मिः । पवमानः । अर्षसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं तादृशं मधुमंतं मधुररसं वृषभं कामानां वर्षकं त्वा त्वां हस्तिनः सुहस्तस्य दश क्षिपः अंगुलयः अद्रिभिः ग्रावभिः अप्सु दुहंति । तादृश हे सोम इंद्रम् अन्यं दैव्यं जनं देवसंबंधिनं संघं मादयन् सिंधोरूर्मिरिव पवमानः पूयमानः सन् अर्षसि गच्छसि॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+You, such as you are, honeyed, of sweet juice, the showerer of desires, the ten fingers, the ten kṣipaḥ, of one of fine hands, milk with the pressing stones into the waters. O Soma, such as you are, gladdening Indra and the other divine folk, the host connected with the gods, you go, flowing purified, like a wave of the river.
+
+### Printed p. 511
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- मधुमंतं (*madhumaṃtaṃ*)—endowed with sweetness
+- वृषभं (*vṛṣabhaṃ*)—the showerer of desires
+- तं त्वा (*taṃ tvā*)—you
+- हस्तिनः (*hastinaḥ*)—of fine hands
+- दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- अप्पु (*appu*)—in the waters **NOTE**
+- दुहंति (*duhaṃti*)—press
+- सिंधोरिव (*siṃdhoriva*)—(O Soma) of a river
+- ऊर्मिः (*ūrmiḥ*)—like the waves
+- पवमानः (*pavamānaḥ*)—you who flow
+- इंद्रं (*iṃdraṃ*)—Indra
+- दैव्यं जनं (*daivyaṃ janaṃ*)—and the other divine folk
+- मादयन् (*mādayan*)—gladdening
+- अर्षसि (*arṣasi*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you who are endowed with sweetness and shower desires, the ten fingers of the skilful hand press the waters with the pressing stones. O Soma, you who flow like the waves of a river, flow gladdening Indra and the other divine folk.
+
+##### English translation
+The ten fingers of the skilful (one) milk (you) forth with the stones into the water most sweet-flavoured, the showerer (of benefits); Soma, exhilarating Indra (and) the celestial people you rush forth, when filtered, like the wave of a river.
+
+## Sūkta 81 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र सोमस्य' इति पंचर्चं चतुर्दशं सूक्तम् । ऋषिदेवते पूर्ववत् । अंत्या त्रिष्टुप् शिष्टा जगत्यः । ‘प्र सोमस्य' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five ṛks beginning प्र सोमस्य (*pra somasya*) is the fourteenth sūkta. The seer and the deity are as before. The last ṛk is in the Triṣṭubh metre, the remaining ones in Jagatī. It is listed in the Anukramaṇī as प्र सोमस्य (*pra somasya*). The ritual use has been stated already.
+
+##### Anuvāda
+
+The sūkta प्र सोमस्य (*pra somasya*) is the fourteenth sūkta in the fourth anuvāka. It has five ṛks. The seer and the deity of this sūkta are the same as in the previous sūkta. The last ṛk of this sūkta is in the Triṣṭubh metre; the remaining ṛks are in the Jagatī metre. In the Anukramaṇī it is said प्र सोमस्य (*pra somasya*). The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 81. Maṇḍala 9, Anuvāka 4, Sūkta 81. Aṣṭaka 7, Adhyāya 3, Varga 6. Number of ṛks in the sūkta: 5. Seer: Vasurbhāradvāja. Deity: Pavamāna Soma. Metre: 1–4 Jagatī; 5 Triṣṭubh.
+
+### Printed p. 512
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोम॑स्य॒ पव॑मानस्यो॒र्मय॒ इंद्र॑स्य यंति ज॒ठरं॑ सु॒पेश॑सः ।  
+> द॒ध्ना यदी॒मुन्नी॑ता य॒शसा॒ गवां॑ दा॒नाय॒ शूर॑मु॒दमं॑दिषुः सु॒ताः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमस्य । पवमानस्य । ऊर्मयः । इंद्रस्य । यंति । जठरम् । सुऽपेशसः ।  
+> दध्ना । यत् । ईम् । उत्ऽनीताः । यशसा । गवाम् । दानाय । शूरम् । उत्ऽअमंदिषुः । सुताः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानस्य पूयमानस्य ऊर्मयः रसप्रवाहाः इंद्रस्य जठरं प्र यंति प्रगच्छंति । सुपेशसः सुरूपा ऊर्मय इति संबंधः । यत् यदा ईम् एते सुताः अभिषुताः सोमाः गवां यशसा बलभूतेन दध्ना सह उन्नीताः संतः दानाय यजमानविषयाभिमतदानाय शूरं विक्रांतमिंद्रम् उदमंदिषुः उन्मादयंति तदा जठरं यंति ॥
+
+##### Gist of the bhāṣya
+
+The waves, the streams of juice, of the Pavamāna, who is being purified, go forth to the belly of Indra; "of fair form" is to be connected with the waves. When these pressed Soma-juices, raised up together with the curds of the cows, which are the strength-giving glory, exhilarate the valiant, powerful Indra for the bestowing of what the sacrificer desires, then they go to the belly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- ईं (*īṃ*)—these Soma-juices
+- सुताः (*sutāḥ*)—pressed
+- गवां (*gavāṃ*)—of the cows
+- यशसा (*yaśasā*)—strength-giving
+- दध्ना (*dadhnā*)—with curds
+- उन्नीताः (*unnītāḥ*)—mixed
+- दानाय (*dānāya*)—for granting the sacrificer what he desires
+- शूरं (*śūraṃ*)—the valiant Indra
+- उदमंदिषुः (*udamaṃdiṣuḥ*)—exhilarate, then
+- पवमानस्य (*pavamānasya*)—of the purifier
+- सोमस्य (*somasya*)—of god Soma
+- सुपेशसः (*supeśasaḥ*)—of beautiful form
+- ऊर्मयः (*ūrmayaḥ*)—the juices that are like waves
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरं (*jaṭharaṃ*)—the belly
+- प्रयंति (*prayaṃti*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+When these Soma-juices, pressed and mixed with the strength-giving curds of the cows, exhilarate Indra for granting the sacrificer what he desires, then the juices of god Soma, the purifier, of beautiful form and like waves, enter the belly of Indra.
+
+### Printed p. 513
+
+##### English translation
+The graceful waves of the purified Soma flow into Indra's belly when being effused and drawn forth (together) with the potent curds of the cows, they excite the hero to bestow (gifts to the worshipper).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॒ हि सोमः॑ क॒लशाँ॒ असि॑ष्यद॒दत्यो॒ न वोळ्हा॑ र॒घुव॑र्तनि॒र्वृषा॑ ।  
+> अथा॑ दे॒वाना॑मु॒भय॑स्य॒ जन्म॑नो वि॒द्वाँ अ॑श्नोत्य॒मुत॑ इ॒तश्च॒ यत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । हि । सोमः । कलशान् । असिस्यदत् । अत्यः । न । वोळ्हा । रघुऽवर्तनिः । वृषा ।  
+> अथ । देवानाम् । उभयस्य । जन्मनः । विद्वान् । अश्नोति । अमुतः । इतः । च । यत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असौ सोमः कलशान् अच्छ अभिमुखम् असिष्यदत् स्यंदते । क इव । अत्यो न वोळ्हा रथस्य वाहकोऽश्व इव । स यथा स्वगंतव्यमभिगच्छति तद्वत् । यद्वा । अयमुत्तरत्र दृष्टांतः । वोळ्हा अश्व इव रघुवर्तनिः लघुगमनः वृषा वर्षकश्च । अथ अपि च देवानां सोमसजुषाम् उभयस्य उभयविधं जन्मनः जातं विद्वान् जानन् असिष्यदत् कलशान् । किं तदुभयं जन्मेति उच्यते । यद्देवजातम् अमुतः द्युलोकात् इतश्च अस्माद्भूलोकाच्च अश्नोति व्याप्नोति यज्ञम् । तस्योभयस्य जातं विद्वानिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+This Soma flows towards the pitchers. Like what? Like a draught horse, the bearer of a chariot: as he goes towards his destination, so does Soma. Or else this is a simile for what follows: like a draught horse, he is light in motion and a showerer. And further, knowing the birth of the gods who share the Soma, of both kinds, he flows to the pitchers. What are these two births? That which is born of the gods and comes from yonder, from the world of heaven, and from here, from this world of earth, and reaches the sacrifice. Knowing the birth of both: so the construction runs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमुतः (*amutaḥ*)—from the world of heaven
+- इतश्च (*itaśca*)—and from this world
+- अश्नोति (*aśnoti*)—such as come to the sacrifice
+- उभयस्य (*ubhayasya*)—of two kinds
+- देवानां (*devānāṃ*)—of the gods
+- जन्मनः (*janmanaḥ*)—the order of origin
+- विद्वान् (*vidvān*)—knowing
+- रघुवर्तनिः (*raghuvartaniḥ*)—of light motion
+- वृषा (*vṛṣā*)—and the giver of rain
+- सोमः (*somaḥ*)—god Soma
+- कलशान् अच्छ (*kalaśān accha*)—towards the Droṇa pitchers
+- वोळ्हा (*voḷhā*)—that bears the chariot
+- अत्यो न (*atyo na*)—like a horse
+- असिष्यदत् (*asiṣyadat*)—flows
+
+### Printed p. 514
+
+##### भावार्थ (Bhāvārtha)
+
+Knowing the order of origin of the gods of two kinds, who come to the sacrifice from the world of heaven and from this world, Soma, of light motion and giver of rain, flows towards the Droṇa pitchers like a horse that bears a chariot.
+
+##### English translation
+The Soma flows towards the pitchers, like a draught horse, lightly moving, the showerer ; and knowing both races of gods-those who come to (the sacrifice) from the other world and those who (come) from this world.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ सोम॒ पव॑मानः किरा॒ वस्विंदो॒ भव॑ म॒घवा॒ राध॑सो म॒हः ।  
+> शिक्षा॑ वयोधो॒ वस॑वे॒ सु चे॒तुना॒ मा नो॒ गय॑मा॒रे अ॒स्मत्परा॑ सिचः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सोम । पवमानः । किर । वसु । इंदो इति । भव । मघऽवा । राधसः । महः ।  
+> शिक्ष । वयःऽधः । वसवे । सु । चेतुना । मा । नः । गयम् । आरे । अस्मत् । परा । सिचः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ किर सर्वतो विक्षिप नः अस्मभ्यं हे सोम पवमानः पूयमानस्त्वम् । किम् । वसु वासकं धनं गवादिरूपम् । किंच इंदो दीप्त हे सोम मघवा धनवांस्त्वं महः महतः राधसः धनस्य भव दातेति शेषः । तथा हे वयोधः अन्नस्य धातः सोम वसवे वासकाय परिचरते मह्यं चेतुना प्रकृष्टेन प्रज्ञानेन सु सुखं कल्याणं शिक्ष देहि । नः अस्मभ्यं प्रदेयं गयं धनम् अस्मत् आरे अस्मत्तो दूरं मा परा सिचः मा प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being purified, scatter on all sides for us. What? Vasu, wealth that gives a dwelling, in the form of cows and the like. Further, O Indu, shining Soma, you who are rich, be the giver of great wealth; "the giver" is to be supplied. Likewise, O Vayodhas, giver of food, O Soma, to Vasu, the dweller, that is, to me who serve you, grant happiness, welfare, by excellent knowledge. Do not send away from us, far from us, the wealth that is to be given to us.
+
+### Printed p. 515
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- पवमानः (*pavamānaḥ*)—you who purify
+- नः (*naḥ*)—for us
+- वसु (*vasu*)—wealth
+- आकिर (*ākira*)—bestow, so that it spreads everywhere
+- इंदो (*iṃdo*)—O god Soma
+- मघवा (*maghavā*)—you who are rich
+- महः (*mahaḥ*)—of great
+- राधसः (*rādhasaḥ*)—wealth
+- भव (*bhava*)—become the giver
+- वयोधः (*vayodhaḥ*)—O god Soma, giver of food
+- वसवे (*vasave*)—to me who serve you
+- चेतुना (*cetunā*)—with a gracious mind
+- सु (*su*)—happiness
+- शिक्ष (*śikṣa*)—produce
+- नः (*naḥ*)—that is to be given to us
+- गयं (*gayaṃ*)—the wealth
+- अस्मत् (*asmat*)—than from us
+- आरे (*āre*)—to a far region
+- मा परा सिचः (*mā parā sicaḥ*)—do not send away
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, purifier, make wealth spread everywhere for us. O god Soma, you who are rich, be the giver of great wealth. O god Soma, giver of food, grant happiness with a gracious mind to me who serve you. Do not send the wealth that is to be given to us to a region farther than us.
+
+##### English translation
+Soma, when purified, strew upon us wealth ; Indu, who are possessed of affluence, be (the donor) of ample riches ; dispenser of food, grant to Vasu prosperity through (your) intelligence, scatter not our riches far from us.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ पू॒षा पव॑मानः सुरा॒तयो॑ मि॒त्रो ग॑च्छंतु॒ वरु॑णः स॒जोष॑सः ।  
+> बृह॒स्पति॑र्म॒रुतो॑ वा॒युर॒श्विना॒ त्वष्टा॑ सवि॒ता सु॒यमा॒ सर॑स्वती ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । पूषा । पवमानः । सुऽरातयः । मित्रः । गच्छंतु । वरुणः । सऽजोषसः ।  
+> बृहस्पतिः । मरुतः । वायुः । अश्विना । त्वष्टा । सविता । सुऽयमा । सरस्वती ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 509. Sūkta 79 end; Sūkta 80 Ṛk 1-4 (to Pratipadārtha), pp. 504-509
+**Progress note:** Done through printed p. 515. Sūkta 80 end; Sūkta 81 Ṛk 1-3 and Ṛk 4 Saṃhitā/Pada, pp. 510-515
