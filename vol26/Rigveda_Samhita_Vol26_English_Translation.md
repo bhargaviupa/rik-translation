@@ -8026,6 +8026,297 @@ Soma-deva, uttering the name "Indra", harnesses the sun's horse to travel in the
 ##### English translation
 And Indu exclaiming "Indra!" harnesses the (horse of the) sun to go towards these ten regions.
 
+### Printed p. 236
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परी॒तो वा॒यवे॑ सु॒तं गिर॒ इंद्रा॑य मत्स॒रम् ।  
+> अव्यो॒ वारे॑षु सिंचत ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । इतः । वायवे । सुतम् । गिरः । इंद्राय । मत्सरम् ।  
+> अव्यः । वारेषु । सिंचत ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिरः स्तोतारः यूयं वायवे वाय्वर्थम् इंद्राय इंद्रार्थं च सुतम् अभिषुतं मत्सरं मदकरं सोमम् इतः अभिषवदेशादुद्धृत्य अव्यः अवेः वारेषु वालेषु परि षिंचत ॥ ॥ ३१ ॥
+
+##### Gist of the bhāṣya
+
+O praisers, you who are the voices, from this place of pressing take up the pressed, intoxicating Soma, pressed for Vāyu and for Indra, and sprinkle it round upon the hairs of the sheep, that is, the woollen filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिरः (*giraḥ*)—O praisers
+- वायवे (*vāyave*)—for Vāyu's sake
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- सुतं (*sutaṃ*)—that which is pressed
+- मत्सरं (*matsaraṃ*)—and that which gladdens, the Soma
+- इतः (*itaḥ*)—from this place of pressing
+- अव्यः (*avyaḥ*)—of the ten-fold filter made of wool
+- वारेषु (*vāreṣu*)—in the meshes
+- परि षिंचत (*pari ṣiṃcata*)—pour out
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, the Soma that is pressed for Vāyu and for Indra, and that gladdens, pour out from this place of pressing into the meshes of the ten-fold filter made of wool.
+
+##### English translation
+Sprinkle, worshippers, upon the woollen fleece the exhilarating (Soma) that has been effused in all directions for Vayu and for Indra,
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान वि॒दा र॒यिम॒स्मभ्यं॑ सोम दु॒ष्टर॑म् ।  
+> यो दू॒णाशो॑ वनुष्य॒ता ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 237
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । विदाः । रयिम् । अस्मभ्यम् । सोम । दुस्तरम् ।  
+> यः । दुःऽनशः । वनुष्यता ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान °सोम यः रयिः वनुष्यता हिंसकेनं शत्रुणा दूणाशः नाशयितुमशक्यः तं शत्रुभिः दुष्टरं रयिं धनम् अस्मभ्यं विदाः देहि ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, give us that wealth which cannot be destroyed by the violent enemy and which is hard for enemies to cross.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—you who are the purifier
+- सोम (*soma*)—O Soma-deva
+- यः (*yaḥ*)—which wealth
+- वनुष्यता (*vanuṣyatā*)—by a violent enemy
+- दूणाशः (*dūṇāśaḥ*)—is not destroyed, such
+- दुष्टरं (*duṣṭaraṃ*)—unobstructed
+- रयिं (*rayiṃ*)—wealth and riches
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- विदाः (*vidāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, purifier, give us the unobstructed wealth and riches that is not destroyed by a violent enemy.
+
+##### English translation
+Purified Soma, grant us wealth unassailable (by our foes), and which cannot be destroyed by the enemy.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्ष सह॒स्रिणं॑ र॒यिं गोमं॑तम॒श्विन॑म् ।  
+> अ॒भि वाज॑मु॒त श्रवः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्ष । सहस्रिणम् । रयिम् । गोऽमंतम् । अश्विनम् ।  
+> अभि । वाजम् । उत । श्रवः ॥ १२ ॥
+
+### Printed p. 238
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं सहस्रिणं बहुसंख्याकं गोमंतं गोभिर्युक्तम् अश्विनम् अश्ववंतं रयिं धनम् अभ्यर्ष अस्मानभिगमय । उत अपि च वाजं बलं श्रवः अन्नं चास्मान् अभि गमय ।
+
+##### Gist of the bhāṣya
+
+O Soma, bring to us wealth that is thousandfold, with cattle and with horses. Moreover, bring to us strength and food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रिणं (*sahasriṇaṃ*)—that which is of a thousand kinds (O Soma-deva)
+- गोमंतं (*gomaṃtaṃ*)—that which is joined with cattle
+- अश्विनं (*aśvinaṃ*)—and that which is joined with horses
+- रयिं (*rayiṃ*)—wealth
+- अभ्यर्ष (*abhyarṣa*)—provide for us
+- उत (*uta*)—and
+- वाजं (*vājaṃ*)—strength
+- श्रवः (*śravaḥ*)—and food
+- अभि (*abhi*)—provide for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, provide us with wealth that is of a thousand kinds, joined with cattle and joined with horses; and provide us with strength and food.
+
+##### English translation
+Bring to us thousand-fold wealth with cattle and horses; bring vigour and food.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ दे॒वो न सूर्योऽद्रि॑भिः पवते सु॒तः ।  
+> दधा॑नः क॒लशे॒ रस॑म् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । देवः । न । सूर्यः । अद्रिऽभिः । पवते । सुतः ।  
+> दधानः । कलशे । रसम् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो न देव इव सूर्यः रोचमानः सोमः अद्रिभिः ग्रावभिः सुतः अभिषुतः सन् कलशे द्रोणकलशे रसं दधानः धारयन् पवते धारया क्षरति ॥
+
+##### Gist of the bhāṣya
+
+Soma, shining like a god, like the sun, pressed by the stones, bearing the juice in the Droṇa vessel, flows in a stream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—who is of the nature of a god
+- सूर्यः न (*sūryaḥ na*)—radiant like the sun
+- सोमः (*somaḥ*)—Soma-deva
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुतः (*sutaḥ*)—having been pressed
+- कलशे (*kalaśe*)—in the Droṇa vessel
+- रसं (*rasaṃ*)—the juice
+- दधानः (*dadhānaḥ*)—holding
+- पवते (*pavate*)—flows in the form of a stream
+
+### Printed p. 239
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who is of the nature of a god and radiant like the sun, pressed by the pressing stones, takes on the form of juice in the Droṇa vessel and flows on.
+
+##### English translation
+Soma, like the radiant sun, when effused flows forth, depositing its juice in the pitcher.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते धामा॒न्यार्या॑ शु॒क्रा ऋ॒तस्य॒ धार॑या ।  
+> वाजं॒ गोमं॑तमक्षरन् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । धामानि । आर्या । शुक्राः । ऋतस्य । धारया ।  
+> वाजम् । गोऽमंतम् । अक्षरन् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते अभिषुताः इमे शुक्राः दीप्ताः सोमाः आर्या आर्याणां श्रेष्ठानां यजमानानां धामानि गृहान् प्रति गोमंतं गोभिर्युक्तं वाजम् अन्नम् ऋतस्य उदकस्य धारया अक्षरन् क्षरंति ॥
+
+##### Gist of the bhāṣya
+
+These pressed, brilliant Somas flow with a stream of water towards the dwellings, the houses, of the noble, that is, of the excellent sacrificers, bringing food endowed with cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—pressed
+- शुक्राः (*śukrāḥ*)—and shining Soma-juices
+- आर्या (*āryā*)—of excellent sacrificers
+- धामानि (*dhāmāni*)—in the houses
+- गोमंतं (*gomaṃtaṃ*)—joined with cattle
+- वाजं (*vājaṃ*)—food
+- ऋतस्य (*ṛtasya*)—of water
+- धारया (*dhārayā*)—in the form of a stream
+- अक्षरन् (*akṣaran*)—they pour down
+
+##### भावार्थ (Bhāvārtha)
+
+The pressed and shining Soma-juices pour down, in the houses of excellent sacrificers, food joined with cattle in the form of a stream of water.
+
+### Printed p. 240
+
+##### English translation
+These brilliant Soma-juices (flowing) towards thc dwellings of respectable (worshippers), effuse food and cattle in a stream of water. **NOTE**
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ता इंद्रा॑य व॒ज्रिणे॒ सोमा॑सो॒ दध्या॑शिरः ।  
+> प॒वित्र॒मत्य॑क्षरन् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुताः । इंद्राय । वज्रिणे । सोमासः । दधिऽआशिरः ।  
+> पवित्रम् । अति । अक्षरन् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वज्रिणे वज्रवते इंद्राय इंद्रार्थं सुताः अभिषुताः दध्याशिरः । दधि आशीराश्रयणद्रव्यं येषां ते दध्याशिरः । दधिसंस्कृताः सोमासः सोमाः पवित्रमति अतिक्रम्य अक्षरन् धारया क्षरंति ॥ ॥ ३२ ॥
+
+##### Gist of the bhāṣya
+
+For Indra, the wielder of the thunderbolt, the pressed Somas called दध्याशिरः (*dadhyāśiraḥ*), those whose binding material is curds, that is, Somas prepared with curds, flow across the filter in a stream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिणे (*vajriṇe*)—bearing the thunderbolt weapon
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- सुताः (*sutāḥ*)—pressed
+- दध्याशिरः (*dadhyāśiraḥ*)—and prepared mixed with curds
+- सोमासः (*somāsaḥ*)—Soma-juices
+- पवित्रमति (*pavitramati*)—crossing the ten-fold filter
+- अक्षरन् (*akṣaran*)—flow on
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, pressed for the sake of Indra who bears the thunderbolt weapon and prepared mixed with curds and other binding substances, flow on across the ten-fold filter.
+
+##### English translation
+The Soma-juices mixed with curds effused for Indra, the wielder of the thunderbolt, flow through the filter.
+
+### Printed p. 241
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सो॑म॒ मधु॑मत्तमो रा॒ये अ॑र्ष प॒वित्र॒ आ ।  
+> मदो॒ यो दे॑व॒वीत॑मः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोम । मधुमत्ऽतमः । राये । अर्ष । पवित्रे । आ ।  
+> मदः । यः । देवऽवीतमः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव यः मदः रसः मधुमत्तमः अत्यंतं मधुमान् देववीतमः अतिशयेन देवकामश्च तं रसं राये अस्माकं धनार्थं पवित्रे प्र आ अर्ष धारया क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, that intoxicating juice of yours which is exceedingly sweet and most desirous of the gods, that juice flow in a stream into the filter for the sake of wealth for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- यः (*yaḥ*)—which
+- मदः (*madaḥ*)—juice of yours
+- मधुमत्तमः (*madhumattamaḥ*)—exceedingly delicious
+- देववीतमः (*devavītamaḥ*)—and desired by the gods, such a juice
+- राये (*rāye*)—for the attainment of our wealth
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- प्रार्ष (*prārṣa*)—pour in the form of a stream **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, that juice of yours which is exceedingly delicious and desired by the gods, such a juice pour in the form of a stream into the ten-fold filter for the attainment of our wealth.
+
+##### English translation
+Soma, pour into the filter to bring us wealth (your joice), which is most sweet-flavoured, exhilarating, and most desired by the gods. **NOTE**
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमी॑ मृजंत्या॒यवो॒ हरिं॑ न॒दीषु॑ वा॒जिन॑म् ।  
+> इंदु॒मिंद्रा॑य मत्स॒रम् ॥ १७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 235. Sūkta 63 Ṛk 2-9
+**Progress note:** Done through printed p. 241. Sūkta 63 Ṛk 10-17 (Saṃhitā)
