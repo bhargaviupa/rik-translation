@@ -8,5 +8,6 @@
  "body_from": "13",
  "start": null,
  "tail": "890:vol25/scans/Rig_Vol25_tail.pdf",
- "src": null
+ "raw": "vol25/work/rig_25_raw.md",
+ "final": "vol25/html/rig_25.md"
 }
