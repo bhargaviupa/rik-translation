@@ -17600,6 +17600,237 @@ Soma, who shines and is pressed and gathered together by the priests in the gold
 ##### English translation
 Shining, he cries aloud (descending) into the vessels, pressed by the priests into the golden receptacle ; the milkers of the sacrifice glorify him ; the supporter of the three sacrifices shines (most) on the days of sacrifice.'
 
+### Printed p. 473
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद्रि॑भिः सु॒तो म॒तिभि॒श्चनो॑हितः प्ररो॒चय॒न्रोद॑सी मा॒तरा॒ शुचिः॑ ।  
+> रोमा॒ण्यव्या॑ स॒मया॒ वि धा॑वति॒ मधो॒र्धारा॒ पिन्व॑माना दि॒वेदि॑वे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्रिऽभिः । सुतः । मतिऽभिः । चनःऽहितः । प्रऽरोचयन् । रोदसी इति । मातरा । शुचिः ।  
+> रोमाणि । अव्या । समया । वि । धावति । मधोः । धारा । पिन्वमाना । दिवेऽदिवे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मतिभिः । ‘ मन ज्ञाने । मंत्रे विषेषपचमन  इति क्तिन्नुदात्तः । स्तुतिभिः अद्रिभिः ग्रावभिश्च सुतः अभिषुतः चनोहितः चनसे अन्नाय हितः हितान्नो वा मातरा मातरौ जगतो  निर्मात्र्यौ रोदसी द्यावापृथिव्यौ प्ररोचयन स्वतेजसा प्रकाशयन् अत एव शुचिः दीप्यमानः एवंविधः सोमः अव्यानि अविभवानि रोमाणि तैः कृतानि पवित्राणि समया अभितः समीपे वि धावाति विशेषेण क्षरति । किंच पिन्वमाना अद्भिः सिच्यमाना मधोः मदकरस्य  सोमस्य धारा दिवेदिवे अन्वहं दीर्घसत्रेषु पवित्राण्युभयतः पवते ॥
+
+##### Gist of the bhāṣya
+
+Soma is pressed by the stones and by the praises (matibhiḥ means praises). He is chanohita: placed for food, or else one whose food is beneficial. He makes the two parents, the makers of the world, heaven and earth, shine with his own radiance, and therefore he is shining. Such a Soma runs around close to the filters made of the hairs of the sheep and flows variously. Further, the stream of the intoxicating Soma, sprinkled with water, flows day by day, in the long sacrifices, through the filters on both sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतिभिः (*matibhiḥ*)—accompanied by praises
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुतः (*sutaḥ*)—who is pressed
+- चनोहितः (*canohitaḥ*)—fit for eating
+- मातरा (*mātarā*)—the two mothers, the makers of the world
+- रोदसी (*rodasī*)—heaven and earth
+- प्ररोचयन् (*prarocayan*)—making shine
+- शुचिः (*śuciḥ*)—and shining Soma
+- अव्यारोमाणि (*avyāromāṇi*)—of the ten-fold filter made of wool
+- समया (*samayā*)—around
+- विधावति (*vidhāvati*)—goes and joins
+- पिन्नमाना (*pinnamānā*)—together with the waters **NOTE**
+- मधोः धारा (*madhoḥ dhārā*)—the stream of Soma
+- दिवे दिवे (*dive dive*)—flows every day
+
+### Printed p. 474
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is pressed by the pressing stones together with praises, fit for eating, and makes heaven and earth, the makers of the world, shine, goes and joins all around the ten-fold filter made of wool. The stream of Soma, joining with the waters, flows every day.
+
+##### English translation
+Effused by the stones and by the praises, fit for food, illuminating heaven and earth the parents (of the universe), pure, (the Soma) flows between the sheep's hairs; diluted (with the water) the stream of the exhilarating beverage (is purified) day by day.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ सोम॒ प्र ध॑न्वा स्व॒स्तये॒ नृभिः॑ पुना॒नो अ॒भि वा॑सया॒शिर॑म् ।  
+> ये ते॒ मदा॑ आह॒नसो॒ विहा॑यस॒स्तेभि॒रिंद्रं॑ चोदय॒ दात॑वे म॒घम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सोम । प्र । धन्व । स्वस्तये । नृऽभिः । पुनानः । अभि । वासय । आऽशिरम् ।  
+> ये । ते । मदाः । आहनसः । विऽहायसः । तेभिः । इंद्रम् । चोदय । दातवे । मघम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम स्वस्तये अविनाशाय परि प्र धन्व पात्राणि परितः प्रगच्छ । धविर्गत्यर्थः । किंच नृभिः कर्मनेतृभिर्ऋत्विग्भिः पुनानः पूयमानस्त्वम् आशिरम् आश्रयणं  क्षीरादिकम् अभि वासय आच्छादय । संयोजयेति यावत् । आहनसः । ‘ आहननवंतो वचनवंतः । (निरु. ४,१५ ) इति यास्कः । शत्रूणामाभिमुख्येन हंतारोऽभिहन्यमाना अभिषूयमाणाः स्तुतिमंतः शब्दवंतो वा विहायसः । महन्नामैतत् । महांतः ते त्वदीयाः ये मदाः मदहेतवो रसाः संति तेभिः तैः सोमैरस्माभिर्दीयमानैः  मघं मंहनीयं धनमस्मभ्यं दातवे दातुम् इंद्रं चोदय प्रेरय ॥ ॥ ३३ ॥
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमहाजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये
+> सप्तमाष्टके द्वितीयोऽध्यायः संपूर्णः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow all around the vessels for welfare, that is, for indestructibility. Further, being purified by the priests, the leaders of the rite, clothe yourself, that is, unite yourself, with the mixture, the milk and the rest that serve as support. Āhanasaḥ: Yāska says आहननवंतो वचनवंतः (*āhananavaṃto vacanavaṃtaḥ*) (Ni. 4,15): they are those who strike the enemies, being struck, that is, pressed, and that have praise or sound. Vihāyasaḥ is a name for great. With those great juices of yours that are the causes of exhilaration, given by us as Soma, urge Indra to give us desirable wealth. The block closes with the concluding stanza of the adhyāya, which invokes Vidyātīrtha Maheśvara as dispelling the darkness of the heart by revealing the meaning of the Veda, and with the colophon recording that the second adhyāya of the seventh aṣṭaka, in the Mādhavīya Vedārthaprakāśa commentary on the Ṛksaṃhitā composed by Sāyaṇācārya, is complete.
+
+### Printed p. 475
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- स्वस्तये (*svastaye*)—for our welfare
+- परि प्र धन्व (*pari pra dhanva*)—flow all around
+- नृभिः (*nṛbhiḥ*)—by the priests
+- पुनानः (*punānaḥ*)—you who are purified
+- आशिरं (*āśiraṃ*)—the substance serving as support, milk and the rest
+- अभि वासय (*abhi vāsaya*)—clothe yourself with
+- आहनसः (*āhanasaḥ*)—those that make sound
+- विहायसः (*vihāyasaḥ*)—and are great
+- ते (*te*)—your
+- ये मदाः (*ye madāḥ*)—what juices there are
+- तेभिः (*tebhiḥ*)—with them
+- मघं (*maghaṃ*)—wealth
+- दातवे (*dātave*)—to give us
+- इंद्रं (*iṃdraṃ*)—Indra
+- चोदय (*codaya*)—urge
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, flow all around for our welfare. Purified by the priests, clothe yourself with the substances serving as support, milk and the rest. With those juices of yours that make sound and are great, urge Indra to give us wealth.
+
+##### English translation
+Soma, flow forth for our welfare ; purified by the priests clothe yourself in the (milky) mixture : with the exhilarating loud-sounding mighty juices which you have, inspire Indra to bestow affluence upon us.
+
+##### विशेषविषयगळु (Special Topics)
+
+आहनसः (*āhanasaḥ*): Yāska, explaining the meaning of this word, has said ये ते मदा आहननवंतो वंचनवंतस्मैरिंद्रं चोदय दानाय मघं (*ye te madā āhananavaṃto vaṃcanavaṃtasmairiṃdraṃ codaya dānāya maghaṃ*) (Ni. 4-15). That is, O god Soma, with those streams of yours that are gladdening, pleasing and most excellent, urge Indra to give us wealth: this is the main sense.
+
+### Printed p. 476
+
+**Colophon**
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् (*vedārthasya prakāśena tamo hārdaṃ nivārayan*) **GLOSS**
+पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ*) **GLOSS**
+इति श्रीमद्राजाधिराज परमेश्वर वैधिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे यक्संहिताभाष्ये सप्तमाष्टके द्वितियोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidhikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe yaksaṃhitābhāṣye saptamāṣṭake dvitiyo 'dhyāyaḥ samāptaḥ ‖*) **GLOSS**
+ओं तत्त्वम् (*oṃ tattvam*)
+Here ends the second chapter in the seventh aṣṭaka of the Ṛgveda-saṃhitā, with Śrī Sāyaṇa's bhāṣya and the Karnāṭaka translation.
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेश् (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhaveś*) **GLOSS**
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तुते (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostute*) **GLOSS**
+शुभं धूयात् (*śubhaṃ dhūyāt*) **GLOSS**
+1 मंगळं (*maṃgaḷaṃ*) 1
+
+**Adhyāya 3**
+ओं (*oṃ*)
+श्री (*śrī*) 9
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*) **GLOSS**
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame*)
+यं नत्वा कृतकृत्याः स्युस्तं समामि गजाननं (*yaṃ natvā kṛtakṛtyāḥ syustaṃ samāmi gajānanaṃ*) **GLOSS**
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat*)
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ*) **GLOSS**
+वेदः शिवः शिवो वेदो वेदध्याया सदाशिवः (*vedaḥ śivaḥ śivo vedo vedadhyāyā sadāśivaḥ*)
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् (*tasmātsarvaprayatnena vedameva sadā japet*) **GLOSS**
+व्याख्ययाव्याहतप्रज्ञः सप्तमस्य द्वितीयकं (*vyākhyayāvyāhataprajñaḥ saptamasya dvitīyakaṃ*)
+अध्यायं सायणामात्यस्तृतीयं व्याकरोत्यथ (*adhyāyaṃ sāyaṇāmātyastṛtīyaṃ vyākarotyatha*) **GLOSS**
+सायणभाष्यसहिता (*sāyaṇabhāṣyasahitā*)
+ऋग्वेदसंहिता (*ṛgvedasaṃhitā*)
+अथ सप्तमाष्टके तृतीयोऽध्यायः (*atha saptamāṣṭake tṛtīyo 'dhyāyaḥ*)
+The third chapter in the seventh aṣṭaka.
+The seventy-sixth sūkta in the ninth maṇḍala.
+
+## Sūkta 76 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीगणेशाय नमः ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे  तमहं वंदे विद्यातीर्थमहेश्वरम् ॥
+> व्याख्यायाव्याहतप्रज्ञः सप्तमस्य द्वितीयकम् ।
+> अध्यायं सायणामात्यस्तृतीयं व्याकरोत्यथ ॥
+> तत्र ‘ धर्ता ' इति पंचर्चं नवमं सूक्तं भार्गवस्य कवेरार्षं जागतं पवमानसोमदेवताकम् । ‘धर्ता' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+After the salutation to Śrī Gaṇeśa, Sāyaṇa bows to Vidyātīrtha Maheśvara, whose breath is the Vedas and who made the whole world from the Vedas, and says that Sāyaṇa the minister, of unobstructed wisdom, now explains the third adhyāya of the seventh aṣṭaka. There the sūkta of five ṛks beginning धर्ता (*dhartā*), the ninth, has Kavi Bhārgava as its seer, Jagatī as its metre and Pavamāna Soma as its deity; it is listed as धर्ता (*dhartā*). The ritual use has been stated already.
+
+##### Anuvāda
+
+The sūkta धर्ता दिवः (*dhartā divaḥ*) is the ninth sūkta in the fourth anuvāka of the ninth maṇḍala. It has five ṛks. The seer of this sūkta is the one called Kavi, a son of Bhṛgu; Pavamāna Soma is the deity; the metre is Jagatī. In the Anukramaṇī it is said धर्ता (*dhartā*). The ritual use has been stated earlier.
+
+### Printed p. 478
+
+##### Particulars
+
+Sūkta 76. Maṇḍala 9, Anuvāka 4, Sūkta 76. Aṣṭaka 7, Adhyāya 3, Varga 1. Number of ṛks in the sūkta: 5. Seer: Kavi. Deity: Pavamāna Soma. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध॒र्ता दि॒वः प॑वते॒ कृत्व्यो॒ रसो॒ दक्षो॑ दे॒वाना॑मनु॒माद्यो॒ नृभिः॑ ।  
+> हरिः॑ सृजा॒नो अत्यो॒ न सत्व॑भि॒र्वृथा॒ पाजां॑सि कृणुते न॒दीष्वा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धर्ता । दिवः । पवते । कृत्व्यः । रसः । दक्षः । देवानाम् । अनुऽमाद्यः । नृऽभिः ।  
+> हरिः । सृजानः । अत्यः । न । सत्वऽभिः । वृथा । पाजांसि । कृणुते । नदीषु । आ ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धर्ता सर्वस्य धारकः सोमः दिवः अंतरिक्षात् अंतरिक्षस्थिताद्दशापवित्रात् पवते पूयते । कीदृशः सोमः । कृत्व्यः कर्तव्यः । शोध्य इत्यर्थः । रसः रसात्मको देवानां दक्षः बलप्रदः । यद्वा । दक्षः प्रवर्धनीयो देवानामर्थाय । तथा नृभिः नेतृभिर्ऋत्विग्भिः अनुमाद्यः अनुमदनीयः स्तुत्यो वा हरिः हरितवर्णः सत्वभिः प्राणिभिः सादिभिः सृजानः सृज्यमानः अत्यो न अश्व इव स यथा शिक्षितो वृथा अनायासेन गच्छति तद्वत् वृथा अप्रयत्नेन पाजांसि बलानि स्वीयान् वेगान् कृणुते कुरुते । नदीषु वस्तीवरीषु । ताभिरित्यर्थः । आ सिक्त इति शेषः । अयम् अभिषवसमयाभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Soma, the sustainer of all, is purified from the atmosphere, from the ten-fold filter that stands in the atmosphere. What kind of Soma? Kṛtvya: to be made, that is, to be cleansed; juice by nature; the strength-giving one of the gods; or else one to be increased for the sake of the gods. Likewise he is anumādya, to be rejoiced in or praised by the priests, the leaders; green-coloured; sent forth by living beings, the riders, like a horse, as a trained horse goes easily, so he without effort makes his own powers, his speeds, in the rivers, the Vasatīvarī waters; the meaning is that he is poured upon with them. This is the view for the time of pressing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृत्वर्यः (*kṛtvaryaḥ*)—fit to be purified **NOTE**
+- रसः (*rasaḥ*)—of the nature of juice
+- देवानां (*devānāṃ*)—for the gods
+- दक्षः (*dakṣaḥ*)—of the nature of strength
+- धर्ता (*dhartā*)—the sustainer of the world, god Soma
+- दिवः (*divaḥ*)—from the atmosphere
+- पवते (*pavate*)—flows
+
+### Printed p. 479
+
+- नृभिः (*nṛbhiḥ*)—by the priests
+- अनुमाद्यः (*anumādyaḥ*)—who is praised
+- हरिः (*hariḥ*)—of green colour
+- सत्वभिः (*satvabhiḥ*)—by living beings
+- सृजानः (*sṛjānaḥ*)—who has been created, Soma
+- नदीषु (*nadīṣu*)—with the Vasatīvarī waters
+- आ (*ā*)—having joined
+- अत्यो न (*atyo na*)—like a horse
+- वृथा (*vṛthā*)—without effort
+- पाजांसि (*pājāṃsi*)—his own powers
+- कृणुते (*kṛṇute*)—increases
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is fit to be purified, of the nature of juice and of the nature of strength for the gods, flows from the atmosphere. Soma, who is praised by the priests, green in colour and created by living beings, having joined the Vasatīvarī waters, increases his own powers without effort like a horse.
+
+##### English translation
+(Soma) the sustainer (of all) flows from the firmament, the purifiable juice, the invigorator of the gods, worthy to be praised by the priests; green-tinted like a horse let loose by the charioteers he easily restores his vigour in the waters.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शूरो॒ न ध॑त्त॒ आयु॑धा॒ गभ॑स्त्योः॒ स्व१॒ः॑ सिषा॑सन्रथि॒रो गवि॑ष्टिषु ।  
+> इंद्र॑स्य॒ शुष्म॑मी॒रय॑न्नप॒स्युभि॒रिंदु॑र्हिन्वा॒नो अ॑ज्यते मनी॒षिभिः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शूरः । न । धत्ते । आयुधा । गभस्त्योः । स्वरिति स्वः । सिसासन् । रथिरः । गोऽइष्टिषु ।  
+> इंद्रस्य । शुष्मम् । ईरयन् । अपस्युऽभिः । इंदुः । हिन्वानः । अज्यते । मनीषिऽभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः गभस्त्योः हस्तयोः आयुधा आयुधानि शूरो न शूर इव धत्ते धारयति । स्वः स्वर्गसुखसाधनं यज्ञं वा सिषासन् संभक्तुमिच्छन् रथिरः रथवान्। रथादिरच्प्रत्ययः । गविष्टिषु यजमानस्य गवामेषणेषु सत्सु । यजमानार्थं गोसंभजनाय रथवानित्यर्थः । इंद्रस्य शुष्मं बलम् ईरयन् प्रेरयन् इंदुः सोमो देवः अपस्युभिः कर्मेच्छुभिः मनीषिभिः मेधाविभिर्ऋत्विभिः हिन्वानः प्रेर्यमाणः अज्यते गोभिः ॥
+
+##### Gist of the bhāṣya
+
+This Soma holds weapons in his hands like a hero. Wishing to obtain svaḥ, the means of the happiness of heaven, or the sacrifice, he is rathira, one who has a chariot: when the sacrificer is searching for cows, he is a charioteer to obtain cows for the sacrificer. Urging forth Indra's might, Indu, god Soma, is urged on by those desiring works, the wise priests, and is anointed with milk.
+
 ---
 
-**Progress note:** Done through printed p. 472. Sukta 74 rks 8-9, Sukta 75 rks 1-3, pp. 466-472
+**Progress note:** Done through printed p. 479. Sukta 75 rks 4-5, adhyaya 2 end, Sukta 76 rks 1-2 bhashya, pp. 473-479
