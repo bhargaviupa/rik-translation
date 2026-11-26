@@ -30260,6 +30260,275 @@ These effused juices have desired (the sacrifice) ; powerful, they have made for
 
 The sūkta beginning एते सोमासः (*ete somāsaḥ*) has seven Ṛks and is the twenty-second sūkta. The seer and the rest are as before. In the Anukramaṇikā it is said एते सोमासः (*ete somāsaḥ*). The use (viniyoga) has been stated.
 
+### Printed p. 750
+
+Anuvāda: This sūkta एते सोमासः (*ete somāsaḥ*) is the twenty-second sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is said एते सोमासः (*ete somāsaḥ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 22. Aṣṭaka 6; Adhyāya 8; Varga 12. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमा॑स आ॒शवो॒ रथा॑ इव॒ प्र वा॒जिनः॑ ।  
+> सर्गाः॑ सृ॒ष्टा अ॑हेषत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमासः । आशवः । रथाःऽइव । प्र । वाजिनः ।  
+> सर्गाः । सृष्टाः । अहेषत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते पूयमानाः सोमासः सोमाः सृष्टाः अध्वर्युणा आशवः दशापवित्रादधोगमने शीघ्राः प्र अहेषत प्रहेषंते । शीघ्रगमने दृष्टांतद्वयम् । आजौ सृष्टाः शीघ्राः रथाइव तथोक्तलक्षणाः वाजिनः इव वेजनवंतोऽश्वा इव॥
+
+##### Gist of the bhāṣya
+
+These Somas, being purified, released (सृष्टाः (*sṛṣṭāḥ*)) by the Adhvaryu, swift (आशवः (*āśavaḥ*)) in going down below the ten-fold strainer (the daśā-pavitra), neigh forth (अहेषत (*aheṣata*), that is प्रहेषंते (*praheṣaṃte*)). There are two illustrations of their swift going: like chariots that are swift when let loose in battle, and like horses (वाजिनः (*vājinaḥ*)) that possess speed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते सोमासः (*ete somāsaḥ*)—these flowing Soma-juices
+- सृष्टाः (*sṛṣṭāḥ*)—pressed out by the Adhvaryu
+- आशवः (*āśavaḥ*)—when they flow swiftly downwards towards the daśā-pavitra
+- सर्गाः (*sargāḥ*)—let loose in battle
+- रथा इव (*rathā iva*)—like swift chariots
+- वाजिनः (*vājinaḥ*)—like swiftly running horses
+- प्र अहेषत (*pra aheṣata*)—they make a loud sound
+
+### Printed p. 751
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, pressed out by the Adhvaryu, make a loud sound, as they flow downwards towards the daśā-pavitra, like chariots driven swiftly in battle by the charioteer and like horses.
+
+##### English translation
+These Soma-juices, when let out, neigh as they leap swiftly forth like chariots or rapid steeds let loose.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते वाता॑ इवो॒रवः॑ प॒र्जन्य॑स्येव वृ॒ष्टयः॑ ।  
+> अ॒ग्नेरि॑व भ्र॒मा वृथा॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । वाताःऽइव । उरवः । पर्जन्यस्यऽइव । वृष्टयः ।  
+> अग्नेःऽइव । भ्रमाः । वृथा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमाः उरवः महांतः वाताइव वायव इव वृथा अनायासेन व्यानशुः इत्युत्तरत्र संबंधनीयम् । अथवाध्याहारेण निःसरंतीति योज्यम् । तथा पर्जन्यस्य वृष्टयः इव वर्षा यथा तथैव । किंच अग्नेः भ्रमाः भ्रमणा ज्वालासंचाराः इव ॥
+
+##### Gist of the bhāṣya
+
+These Somas, mighty (उरवः (*uravaḥ*)), like winds, effortlessly (वृथा (*vṛthā*)) "have pervaded" (व्यानशुः (*vyānaśuḥ*)): this is to be connected from the verse that follows; or else a verb such as "flow forth" is to be supplied. Likewise, as the rains (वृष्टयः (*vṛṣṭayaḥ*)) of Parjanya, that is, showers; and further, like the whirlings (भ्रमाः (*bhramāḥ*)) of fire, that is, the spreading movements of flames.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these Soma-juices
+- उरवः (*uravaḥ*)—mighty
+- वाता इव (*vātā iva*)—move swiftly like a gale
+- पर्जन्यस्येव (*parjanyasyeva*)—as the deity Parjanya
+- वृष्टयः (*vṛṣṭayaḥ*)—pours down rain in torrents
+- भ्रमः (*bhramaḥ*)—that which whirls, that is, which quickly spreads all around
+- अग्नेरिव (*agneriva*)—like a forest fire
+- वृथा (*vṛthā*)—flow and rush forward effortlessly
+
+##### भावार्थ (Bhāvārtha)
+
+These flowing Soma-juices rush forward and flow effortlessly, like a mighty gale, that is, a storm blowing with extreme speed, like the torrential rain that Parjanya pours down, and like a forest fire that quickly spreads everywhere.
+
+### Printed p. 752
+
+##### English translation
+Like strong winds, like the rains of Par janya, like the swift-whirling (flames) of fire.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते पू॒ता वि॑प॒श्चितः॒ सोमा॑सो॒ दध्या॑शिरः ।  
+> वि॒पा व्या॑नशु॒र्धियः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । पूताः । विपःऽचितः । सोमासः । दधिऽआशिरः ।  
+> विपा । वि । आनशुः । धियः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमासः सोमाः पूताः शुद्धाः विपश्चितः प्राज्ञाः दध्याशिरः दध्याश्रयणाः विपा प्रज्ञानेन धियः अस्मदीयानि कर्माणि व्यानशुः व्याप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+These Somas are pure (पूताः (*pūtāḥ*)), wise (विपश्चितः (*vipaścitaḥ*), that is, learned), mixed with curds (दध्याशिरः (*dadhyāśiraḥ*)); by their wisdom (विपा (*vipā*)) they pervade (व्यानशुः (*vyānaśuḥ*)) our rites (धियः (*dhiyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते सोमासः (*ete somāsaḥ*)—these Soma-juices
+- पूताः (*pūtāḥ*)—are purified by straining through the daśā-pavitra
+- विपश्चितः (*vipaścitaḥ*)—are endowed with special understanding
+- दध्याशिरः (*dadhyāśiraḥ*)—are mixed with curds
+- विपा (*vipā*)—by their wisdom (intelligence)
+- धिये (*dhiye*)—our sacrifices and other rites **NOTE**
+- व्यानशुः (*vyānaśuḥ*)—pervading everywhere, they bring them to completion
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices are purified by straining through the daśā-pavitra. They are endowed with special wisdom. They are mixed with curds. By their wisdom they pervade our sacrificial rites everywhere and carry them out.
+
+##### English translation
+These pure Soma-juices, sagacious, mixed with curds, easily pervade our ceremonies with their intelligence.
+
+### Printed p. 753
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते मृ॒ष्टा अम॑र्त्याः ससृ॒वांसो॒ न श॑श्रमुः ।  
+> इय॑क्षंतः प॒थो रजः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । मृष्टाः । अमर्त्याः । ससृऽवांसः । न । शश्रमुः ।  
+> इयक्षंतः । पथः । रजः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमाः मृष्टाः दशापवित्रेण शोधिताः अमर्त्याः अमरणधर्माणः ससृवांसः हविर्धानात् सरंतः पथः मार्गान् रजः लोकांश्च इयक्षंतः गंतुमिच्छंतः न शश्रमुः न श्राम्यंति ॥
+
+##### Gist of the bhāṣya
+
+These Somas are cleansed (मृष्टाः (*mṛṣṭāḥ*)) by the daśā-pavitra, immortal (अमर्त्याः (*amartyāḥ*), that is, not subject to death), moving (ससृवांसः (*sasṛvāṃsaḥ*)) from the havirdhāna; wishing to go (इयक्षंतः (*iyakṣaṃtaḥ*)) along the paths (पथः (*pathaḥ*)) and the worlds (रजः (*rajaḥ*)), they are not wearied (न शश्रमुः (*na śaśramuḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these Soma-juices
+- मृष्टाः (*mṛṣṭāḥ*)—are purified by the daśā-pavitra
+- अमर्त्याः (*amartyāḥ*)—are free from the nature of death, that is, are imperishable
+- ससृवांसः (*sasṛvāṃsaḥ*)—being carried from the havirdhāna region
+- पथः (*pathaḥ*)—those paths
+- रजः (*rajaḥ*)—all the worlds
+- इयक्षंतः (*iyakṣaṃtaḥ*)—traversing
+- न शश्रमुः (*na śaśramuḥ*)—take no rest anywhere on the way
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices are purified by the daśā-pavitra and are imperishable. While they are being carried from the havirdhāna to the uttara-vedi, they traverse those paths and all the worlds, and take no rest anywhere on the way.
+
+##### English translation
+Purified, immortal, issuing from the vessels, eager to traverse their (assigned) paths and the universe, they are never wearied.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते पृ॒ष्ठानि॒ रोद॑सोर्विप्र॒यंतो॒ व्या॑नशुः ।  
+> उ॒तेदमु॑त्त॒मं रजः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 754
+
+> एते । पृष्ठानि । रोदसोः । विऽप्रयंतः । वि । आनशुः ।  
+> उत । इदम् । उत्ऽतमम् । रजः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमाः रोदसो: द्यावापृथिव्योः पृष्ठानि विप्रयंतः विविधं गच्छंतः व्यानशुः व्याप्नुवंति । उत अपि च इदमुत्तमं रजः द्युलोकं व्यानशुः । आहुतिद्वारेणेति भावः । रोदसोरित्यत्रांतरिक्षोऽभिप्रेतः ॥
+
+##### Gist of the bhāṣya
+
+These Somas, going in various ways over the surfaces (पृष्ठानि (*pṛṣṭhāni*)) of the two worlds (रोदसोः (*rodasoḥ*)), heaven and earth, pervade them. And also they pervade this highest region (रजः (*rajaḥ*)), the heavenly world, by way of the oblation. By रोदसोः (*rodasoḥ*) the atmosphere is intended here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these Soma-juices
+- रोदसोः (*rodasoḥ*)—of heaven and earth
+- पृष्ठानि (*pṛṣṭhāni*)—the ridge regions
+- विप्रयंतः (*viprayaṃtaḥ*)—crossing over
+- व्यानशुः (*vyānaśuḥ*)—pervade everywhere
+- उत (*uta*)—and
+- इदं उत्तमं रजः (*idaṃ uttamaṃ rajaḥ*)—pervade this highest world, the heavenly world
+
+##### भावार्थ (Bhāvārtha)
+
+While these Soma-juices cross over the ridge regions of heaven and earth, they spread and pervade everywhere. And through the oblation offered to the gods they reach the highest heavenly world and pervade there too.
+
+##### English translation
+Spreading in various directions, they pervade the surface of earth and sky, you, and this highest heaven. **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तंतुं॑ तन्वा॒नमु॑त्त॒ममनु॑ प्र॒वत॑ आशत ।  
+> उ॒तेदमु॑त्त॒माय्य॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तंतुम् । तन्वानम् । उत्ऽतमम् । अनु । प्रऽवतः । आशत ।  
+> उत । इदम् । उत्तमाय्यम् ॥ ६ ॥
+
+### Printed p. 755
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तंतुं यज्ञं तन्वानम् उत्तमम् उत्कृष्टं सोमम् अनु आशत प्रवतः नद्यः । उत अपि च इदं कर्म अनेन सोमेन उत्तमाय्यम् उत्तमीकृतम्। अथवा तंतुं तन्वानं सोमं प्रवतोऽधःस्थिताः सर्वा अन्वाशत । उतेदमुत्तमाख्यं रजः । द्युलोक इत्यर्थः । सोऽप्यन्वश्नुते पृथिव्या चांतरिक्षेण च । उत्तमीकृतमुत्तमाय्यम् ॥
+
+##### Gist of the bhāṣya
+
+The rivers (प्रवतः (*pravataḥ*)) follow (आशत (*āśata*)) Soma, the excellent, who extends the thread (तंतुं (*taṃtuṃ*)), that is, the sacrifice. And this rite is made excellent (उत्तमाय्यं (*uttamāyyaṃ*)) by this Soma. Or else: all the waters standing below follow Soma who extends the thread; and the region named the highest (रजः (*rajaḥ*)), that is, the heavenly world, that also it pervades together with the earth and the atmosphere. उत्तमीकृतमुत्तमाय्यम् (*uttamīkṛtamuttamāyyam*): that is the meaning of उत्तमाय्यम् (*uttamāyyam*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तंतुं (*taṃtuṃ*)—towards the sacrifice
+- तन्वासं (*tanvāsaṃ*)—going **NOTE**
+- उत्तमं (*uttamaṃ*)—the excellent Soma
+- प्रवतः (*pravataḥ*)—the rivers that flow in the low ground
+- अनु आशत (*anu āśata*)—follow after
+- उत (*uta*)—and
+- इदं (*idaṃ*)—this rite
+- उत्तमाय्यं (*uttamāyyaṃ*)—is honoured (by the company of the Soma-juice)
+
+##### भावार्थ (Bhāvārtha)
+
+The rivers that flow in the low ground follow after the very Soma that spreads out and goes towards the sacrifice. This rite is made honourable by the company of the Soma-juice; that is, the action of the rivers that follow the Soma is regarded as an excellent action.
+
+##### English translation
+Descending rivers follow this excellent (Soma) as it spreads out the sacrifice ; this rite is glorified thereby.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म प॒णिभ्य॒ आ वसु॒ गव्या॑नि धारयः ।  
+> त॒तं तंतु॑मचिक्रदः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । पणिऽभ्यः । आ । वसु । गव्यानि । धारयः ।  
+> ततम् । तंतुम् । अचिक्रदः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं पणिभ्यः असुरेभ्यो लुब्धकेभ्यो वा सकाशात् गव्यानि गोहितानि वसु वसूनि गोयूथानि वसूनि चेति वा आ आहृत्य धारयः धारयसि । तथा तंतुं यज्ञं प्रति ततं विस्तृतं यथा भवति तथा अचिक्रदः शब्दमकार्षीः ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you bring (धारयः (*dhārayaḥ*)) from the Paṇis, the Asuras or the misers, the cow-profiting (गव्यानि (*gavyāni*)) wealth (वसु (*vasu*)), or else the herds of cows and wealth, and hold it. And you have roared (अचिक्रदः (*acikradaḥ*)) so that the thread, the sacrifice, is extended.
+
 ---
 
-**Progress note:** Done through printed p. 749. Vol 25 pp. 744-749: sūkta 21 Ṛks 1-7 end; sūkta 22 intro
+**Progress note:** Done through printed p. 755. Vol 25 pp. 750-755: sūkta 22 Ṛks 1-7
