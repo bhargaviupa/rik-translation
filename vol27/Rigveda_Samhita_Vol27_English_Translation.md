@@ -30473,6 +30473,224 @@ O king, as a cultivated field given to a poor man is a source of joy, so the wor
 ##### English translation
 Upamashravas, the words of whose father were sweet, like a pleasant field given to a beggar.
 
+### Printed p. 851
+
+#### Ṛk 6 (continued)
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the three Ṛks that follow it, the following is told: when the king named Mitrātithi had died, his son named Upamaśravas was burning with grief; the seer, out of the friendly feeling he had for him, removed his grief and comforted him.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॑ पुत्रोपमश्रवो॒ नसा॑न्मित्रातिथेरिहि ।  
+> पि॒तुष्टे॑ अस्मि वंदि॒ता ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । पुत्र । उपमश्रवः । नपात् । मित्र अतिथेः । इहि ।  
+> पितुः । ते । अस्मि । वंदिता ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुत्रोपमश्रवो मित्रातिथेर्नपात्पुत्र त्वमधीहि । मत्समीपमागच्छ । ते
+> तव पितुस्तस्य मित्रातिथेरहं वंदिता स्तोतास्मि । एतज्ञात्वा शोकं मा कुरु ।
+> यद्देयं द्रव्यमस्ति तत्सर्वं मह्यं देहि ॥
+
+##### Gist of the bhāṣya
+
+O Upamaśravas, son, grandson of Mitrātithi, come near me. I am the praiser of your father, that Mitrātithi. Knowing this, do not grieve. Whatever wealth is to be given, give all of it to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुत्र (*putra*)—one who has the form of a son
+- मित्रातिथेः (*mitrātitheḥ*)—to Mitrātithi
+- उपमश्रवः (*upamaśravaḥ*)—O king named Upamaśravas, who are exceedingly famous
+- अधि इहि (*adhi ihi*)—come to me
+- ते (*te*)—your
+- पितुः (*pituḥ*)—of the father
+- वंदिता (*vaṃditā*)—as a praiser
+- अस्मि (*asmi*)—I am
+
+##### भावार्थ (Bhāvārtha)
+
+O king, son of Mitrātithi and exceedingly famous, come to me, who am to be honoured by you like a father. I am one who praises the virtues of your father.
+
+##### English translation
+Come to me, my son, grandson of Mitratithi; I am the eulogist of your father.
+
+### Printed p. 852
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदीशी॑या॒मृता॑नामु॒त वा॒ मर्त्या॑नां ।  
+> जीवे॒दिन्म॒घवा॒ मम॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ईशीय । अमृतानां । उत । वा । मर्त्यानां ।  
+> जीवेत् । इत् । मघवा । मम ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च यद्यद्यमृतानां देवानां मर्त्यानां मनुष्याणां ना मरणहेतूनामीशीय अहमीश्वरः स्यां तर्हि मम कवषस्य याज्यो मघवा धनवान्मित्रातिथी राजा जीवेत् । प्राणान्धारयेत् । तथा च नाहं मरणहेतोरीश्वरः तस्मादयं राजा मृत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+If I were lord of the immortals, the gods, and of mortals, human beings, and of the causes of death, then the wealthy king Mitrātithi, the one to whom my Kavaṣa's sacrifice is offered, would live; he would keep his breath. But I am not lord over the causes of death, and therefore this king is dead. That is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- यत् (*yat*)—if perchance
+- अमृतानां (*amṛtānāṃ*)—of the gods too
+- मर्त्यानां वा (*martyānāṃ vā*)—of human beings too
+- ईशीय (*īśīya*)—if I were the lord
+- मम (*mama*)—to me
+- मघवा (*maghavā*)—the king (Mitrātithi), the giver of wealth
+- जीवेत् इत् (*jīvet it*)—would have to be alive
+
+##### भावार्थ (Bhāvārtha)
+
+If I were the lord of gods, human beings and all the rest, then the king who gave me wealth would have to be alive.
+
+##### English translation
+If I were lord over immortals and mortals, then should my munificent (benefactor) live.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न दे॒वाना॒मति॑ व्र॒तं श॒तात्मा॑ च॒न जी॑वति ।  
+> तथा॑ यु॒जा वि वा॑वृते ॥
+
+### Printed p. 853
+
+> १ पदसार १  
+> न । देवानां । अति । व्रतं । शत्रुआत्मा । चन । जीवति ।  
+> तथा । युजा । वि । ववृते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां ब्रह्मादीनां व्रतं मर्यादालक्षणं कर्मात्यतिक्रम्य शतात्मा चन
+> शतसंवत्सरः कश्चन जीवति । तथा युजा सहायादिना वि ववृते । विवर्तते ।
+> वियुक्तो भवतीति ज्ञात्वा शोकं मा कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Passing beyond the rule of the gods, Brahmā and the others, that is, beyond the action that marks their limit, no one lives a hundred years. Likewise one is parted from a companion or helper. Knowing that one becomes separated, do not grieve. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of the gods beginning with Brahmā
+- व्रतं (*vrataṃ*)—the action of the nature of a rule
+- अति (*ati*)—transgressing
+- शतात्मा चन (*śatātmā cana*)—for a hundred years
+- न जीवति (*na jīvati*)—no one can live
+- तथा (*tathā*)—just so
+- युजा (*yujā*)—from companions
+- वि ववृते (*vi vavṛte*)—one must be separated
+
+##### भावार्थ (Bhāvārtha)
+
+No one can live a hundred years by transgressing the action, of the nature of a rule, set by the gods beginning with Brahmā. Likewise, one must be separated even from one's companions. This is the resolve of the Lord.
+
+##### English translation
+No one lives a hundred years passing the limit fixed by the gods; so he is separated from his friends.
+
+## Sūkta 34 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रावेपा इति चतुर्दशर्चं पंचमं सूक्तमैलूषस्य कवषस्यार्षं मुजवतः
+> पुत्रस्याक्षाख्यस्य वा । सप्तमी जगती शिष्टास्त्रयोदश त्रिष्टुभः । अत्र द्वादश्यक्षान्सौति
+> नवम्याद्या च सप्तमी । अतस्तास्तद्देवत्याः । त्रयोदशी कृषिं सौति । अतस्तस्याः सा
+> देवता । एवं पंच गताः । शिष्टाभिर्नवभिः कितवोऽक्षाश्च निंद्यंते । आतस्ता आपि
+> तद्देवत्याः । तथा चानुक्रांतं । प्रावेपाः षळूना मौजवान्वाक्षोऽक्षकृषिप्रशंसा
+> चाक्षकितवनिंदा च सप्तमी जगतीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रावेपा (*prāvepā*) has fourteen Ṛks and is the fifth sūkta. Its seer is Kavaṣa, son of Ilūṣa, or else Akṣa, son of Mujavat. The seventh Ṛk is in Jagatī, and the remaining thirteen are in Triṣṭubh. Here the twelfth Ṛk praises the dice, and so do the ninth and the first, as also the seventh; therefore those Ṛks have the dice as their deity. The thirteenth praises the ploughing of the earth, so its deity is that. Thus five Ṛks have been dealt with. In the remaining nine, the dice and gamblers are censured, so their deity is that too. The Anukramaṇī says the same: the Ṛks beginning with प्रावेपा (*prāvepā*) are six and a half, belonging to the Maujavān or Akṣa; there is praise of the dice and of ploughing, and censure of the dice and gamblers; the seventh is in Jagatī. The application has been told.
+
+### Printed p. 854
+
+The Kannada Anuvāda: this sūkta beginning प्रावेपाः (*prāvepāḥ*) is the fifth sūkta in the third anuvāka. It has fourteen Ṛks. The seer of this sūkta is Kavaṣa, son of Ilūṣa, or else Akṣa, son of one named Mujavān. The seventh Ṛk of this sūkta is in the Jagatī metre; the remaining thirteen Ṛks are in the Triṣṭubh metre. In this sūkta the first, seventh, ninth and twelfth Ṛks contain praise of the dice (the pagaḍe game) used in play; therefore those Ṛks have these for their deity. The thirteenth Ṛk praises the cultivation of land; therefore that Ṛk has that for its deity. After the deities of five Ṛks have thus been stated, the remaining nine Ṛks deal with gamblers and the game of dice and censure them; therefore those Ṛks have that subject for their deity. In the Anukramaṇī it is said: प्रावेपाः षळूना मौजवान्वाक्षोऽक्षकृषिप्रशंसा चाक्षकितवनिंदा च सप्तमी जगतीति ॥ गतो विनियोगः ॥ अनुवादवु—प्रावेपाः ऎंब ई सूक्तवु मूरनॆय अनुवाकदल्लि ऐदनॆय सूक्तवु. इदरल्लि हदिनाल्कु ऋक्कुगळिरुववु. ई सूक्तक्कॆ इलूषपुत्रनाद कवषनॆंबुवनु ऋषियु, अथवा मुजवान् ऎंबुवन पुत्रनाद अक्षनॆंबुवनु ऋषियु. ई सूक्तद एळनॆय ऋक्कु जगतीछंदस्कवु. उळिद हदिमूरु ऋक्कुगळु त्रिष्टुप्‌छंदस्कवु. ई सूक्तदल्लि ऒंदु, एळु, ऒंभत्तु मत्तु हन्नॆरडनॆय ऋक्कुगळल्लि आटवाडुव (पगडॆ) दाळगळ स्तुतियिरुवुदु. आद्दरिंद आ ऋक्कुगळिगॆ अवुगळे देवतॆयु. हदिमूरनॆय ऋक्किनल्लि भूमिय व्यवसायवन्नु प्रशंसॆ माडिरुवुदरिंद आ ऋक्किगॆ अदे देवतॆयु. ई रीति ऐदु ऋक्कुगळिगॆ देवतॆगळन्नु हेळिद नंतर उळिद ऒंभत्तु ऋक्कुगळल्लि जूजुगारर मत्तु पगडॆ आटद प्रसक्तियू अवुगळ निंदॆयू इरुवुद रिंद आ ऋक्कुगळिगॆ आ विषयवे देवतॆयु. अनुक्रमणिकॆयल्लि—प्रावेपाः षळूना मौजवान्वाक्षोऽक्षकृषिप्रशंसा चाक्षकितवनिंदा च सप्तमी जगती (*prāvepāḥ ṣaḷūnā maujavānvākṣo 'kṣakṛṣipraśaṃsā cākṣakitavaniṃdā ca saptamī jagatīti ‖ gato viniyogaḥ ‖ anuvādavu—prāvepāḥ èṃba ī sūktavu mūranèya anuvākadalli aidanèya sūktavu. idaralli hadinālku ṛkkugaḷiruvavu. ī sūktakkè ilūṣaputranāda kavaṣanèṃbuvanu ṛṣiyu, athavā mujavān èṃbuvana putranāda akṣanèṃbuvanu ṛṣiyu. ī sūktada eḷanèya ṛkku jagatīchaṃdaskavu. uḷida hadimūru ṛkkugaḷu triṣṭupchaṃdaskavu. ī sūktadalli òṃdu, eḷu, òṃbhattu mattu hannèraḍanèya ṛkkugaḷalli āṭavāḍuva (pagaḍè) dāḷagaḷa stutiyiruvudu. āddariṃda ā ṛkkugaḷigè avugaḷe devatèyu. hadimūranèya ṛkkinalli bhūmiya vyavasāyavannu praśaṃsè māḍiruvudariṃda ā ṛkkigè ade devatèyu. ī rīti aidu ṛkkugaḷigè devatègaḷannu heḷida naṃtara uḷida òṃbhattu ṛkkugaḷalli jūjugārara mattu pagaḍè āṭada prasaktiyū avugaḷa niṃdèyū iruvuda riṃda ā ṛkkugaḷigè ā viṣayave devatèyu. anukramaṇikèyalli—prāvepāḥ ṣaḷūnā maujavānvākṣo 'kṣakṛṣipraśaṃsā cākṣakitavaniṃdā ca saptamī jagatī*). The application has been told before.
+
+Particulars: Sūkta 34. Maṇḍala 10; Anuvāka 3. Aṣṭaka 7; Adhyāya 8; Varga 3, 4, 5. Number of Ṛks in the sūkta: 14. Seer: Kavaṣa Ailūṣa, or Akṣa Maujavān. Deity: 1, 7, 9, 12, 13 praise of the dice and of ploughing; 2-6, 8, 10, 11, 14 censure of the dice and gamblers. Metre: 1-6, 8-14 Triṣṭubh; 7 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒वे॒पा मा॑ बृह॒तो मा॑दयंति प्रवाते॒जा इरि॑णे॒ वर्वृ॑तानाः ।  
+> सोम॑स्येव मौजन॒तस्य॑ भ॒क्षो वि॒भीद॑को॒ जागृ॑वि॒र्मह्य॑मच्छान् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रावेपाः । मा । बृहतः । मादयंति । प्रवातेऽजाः । इरिणे । वर्वृतानाः ।  
+> सोमस्य इव । मौजवतस्य । भक्षः । विभीदकः । जागृविः । मह्यं । अच्छान् ॥ १ ॥
+
+### Printed p. 855
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहतो महतो विभीतकस्य फलत्वेन संबंधिनः प्रवातेजाः प्रवणे देशे
+> जाता इरिण आस्फारे वर्वृतानाः प्रवर्तमानाः प्रावेपाः प्रवेपिणः कंपनशीला
+> अक्षा मा मां मादयंति । हर्षयंति । किंच जागृविर्जयपराजययोर्हर्षशोकाभ्यां कितवानां जागरणस्य कर्ता विभीदको विभीतकविकारोऽक्षो मह्यं
+> मामच्छान् । अचच्छदत् । अत्यर्थं मादयति । तत्र दृष्टांतः । सोमस्येव यथा
+> सोमस्य मौजवतस्य । मुजवति पर्वते जातो मौजवतः । तस्य । तत्र ह्युत्तमः
+> सोमो जायते । भक्षः पानं यजमानान्देवांश्च मादयति तद्वदित्यर्थः । तथा
+> च यास्कः । प्रवेपिणो मा महतो विभीतकस्य फलानि मादयंति । प्रवातेजाः
+> प्रवणेजा इरिणे वर्तमाना इरिणं निर्ऋणमृणातेरपार्णं भवत्यपरता अस्मादोषधय इति वा सोमस्येव मौजवतस्य भक्षो मौजवतो मुजवति जातो मुजवान्पर्वतो मुंजवान्मुंजो विमुच्यत इषिकयेषीक्षतेर्गतिकर्मण इयमपीतरेषीकैतस्मादेव विभेदको विभेदनाज्जागृविर्जागरणान्मह्यमचच्छदत् । नि. ९-८ ।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+The dice, quivering and trembling, born in a sloping place and rolling on the gaming ground, and being the fruit of the large vibhītaka tree, delight me, that is, make me glad. Further, the vibhīdaka, the die, a product of the vibhītaka, which keeps gamblers awake through the joy and grief of winning and losing, delights me exceedingly. The illustration is: as the drink of the Soma of Mujavat gladdens the sacrificers and the gods. Mujavat is a mountain, and the Soma born there is the best, so one born on Mujavat is called Maujavata; its drinking is what gladdens, and the die is likened to it. So Yāska says in the Nirukta (Ni. 9-8): the quivering fruits of the large vibhītaka delight me; प्रवातेजाः (*pravātejāḥ*) means born on a slope; इरिणे (*iriṇe*) means being at the irina, the barren ground, from which the plants withdraw; Maujavata means born on Mujavat, the mountain; the muñja reed is released by its sheath, and that sheath is from a root of motion; विभीदकः (*vibhīdakaḥ*) is so called from splitting and जागृविः (*jāgṛviḥ*) from keeping awake; मह्यमच्छान् (*mahyamacchān*) means that it gladdened me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इरिणे (*iriṇe*)—in a hilly place
+- बृहतः (*bṛhataḥ*)—of great size
+- प्रवातेजाः (*pravātejāḥ*)—like a stream flowing in a steep place
+- वर्वृतानाः (*varvṛtānāḥ*)—rolling about
+- प्रावेपाः (*prāvepāḥ*)—the trembling ones, the dice
+- मा (*mā*)—me
+- मादयंति (*mādayaṃti*)—make glad
+- मौजवतः (*maujavataḥ*)—born on the Mujavat mountain
+- सोमस्य (*somasya*)—of Soma
+- भक्षः इव (*bhakṣaḥ iva*)—as the drinking of the juice gives joy to the gods
+- जागृविः (*jāgṛviḥ*)—which always keeps gamblers awake
+- विभीदकः (*vibhīdakaḥ*)—the die
+- मह्यं (*mahyaṃ*)—to me
+- अच्छान् (*acchān*)—gives exceeding joy
+
+##### भावार्थ (Bhāvārtha)
+
+The dice, which roll about on the board and quiver, like a great stream flowing in a steep hilly place, make me glad. As the drinking of the juice of Soma born on the Mujavat mountain gives joy to the gods, the die, which always keeps gamblers awake, gives me exceeding joy.
+
+##### English translation
+The large rattling dice exhilarate me a torrents borne on a precipice flowing in a desert : the exciting dice animate me as the taste of the Soma of Maujavat (delights the gods).
+
+### Printed p. 856
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of the word अक्ष (*akṣa*) and for an example, Yāska has given the Nirukta on this Ṛk:
+
+अक्षाः । अक्षा अश्नुवत एनानिति वाभ्यश्नुवत एभिरिति ना ॥ (*akṣāḥ | akṣā aśnuvata enāniti vābhyaśnuvata ebhiriti nā ‖*) (Ni. 9-7)
+
+The word अक्ष (*akṣa*) is formed from the root अश् (*aś*), which means to obtain, to acquire, and denotes the die. The meaning is that this die is obtained by gamblers, that is, they keep these dice with them. Or, since these dice earn wealth and the like for gamblers in their games, they have received the name अक्षाः (*akṣāḥ*); this is the intention of the explanation. As an example of a Ṛk in which this word अक्षाः (*akṣāḥ*) is used, Yāska has taken the present Ṛk itself and has given a Nirukta for that too:
+
+तेषामेषा भवति । प्रावेपा मा बृहतो मादयंति प्रवातेजा इरिणे वर्मृतानाः । सोमस्येव मौजवतस्य भक्षो विभीदको जागृविर्मह्य मच्छान् ॥ प्रवेपिणो मा महतो विभीदकस्य फलानि मादयंति । प्रवातेजाः प्रवणेजाः । इरिणे वर्तमानाः । इरिणं निर्ऋणं ऋणातेर पार्णं भवति अपरता अस्मादोषधय इति वा । सोमस्येव मौजवतस्य भक्षः । मौजवतो मूजवति जातः । मूजवान् पर्वतो मुंजवान् । मुंजो विमुच्यत इषिकया । इषिकेषतेर्गतिकर्मणः । इयमपीतरेषिकैतस्मादेव । विभीदको विभदनात् । जागृविर्जागरणात् । मह्यमचच्छदत् प्रशंसत्येनान् प्रथमया निंदत्युत्तराभिऋषेरक्षपरिद्र्यनस्यॆतदार्षं वेदयंते ॥ ( (*teṣāmeṣā bhavati | prāvepā mā bṛhato mādayaṃti pravātejā iriṇe varmṛtānāḥ | somasyeva maujavatasya bhakṣo vibhīdako jāgṛvirmahya macchān ‖ pravepiṇo mā mahato vibhīdakasya phalāni mādayaṃti | pravātejāḥ pravaṇejāḥ | iriṇe vartamānāḥ | iriṇaṃ nirṛṇaṃ ṛṇātera pārṇaṃ bhavati aparatā asmādoṣadhaya iti vā | somasyeva maujavatasya bhakṣaḥ | maujavato mūjavati jātaḥ | mūjavān parvato muṃjavān | muṃjo vimucyata iṣikayā | iṣikeṣatergatikarmaṇaḥ | iyamapītareṣikaitasmādeva | vibhīdako vibhadanāt | jāgṛvirjāgaraṇāt | mahyamacacchadat praśaṃsatyenān prathamayā niṃdatyuttarābhiṛṣerakṣaparidryanasyètadārṣaṃ vedayaṃte ‖ (*) (Ni. 9-8)
+
+As stated in the Kauṣītaki Brāhmaṇa, Kavaṣa, the seer of this sūkta, is well known as a gambler and one addicted to playing at dice. For that reason he has described, most finely and from experience, in a way that goes to the heart, the excess of joy that comes to gamblers in the game of dice when they win, and the heartache that comes when they lose. When the dice are shaken in the hand and thrown, as they roll like a stream of water and finally come to rest, they cause anxiety whether they will make one win or make one lose. This is known by experience to gamblers. Here an illustration has been given for the occasion that causes joy. Mūjavān is a lofty mountain. The juice obtained from the Soma creepers that grow in a lofty mountain region is abundant, intoxicating and joy-giving, and is
+
 ---
 
-**Progress note:** Done through printed p. 850. Mandala 10 Sukta 33 rks 1-6 (pp. 845-850)
+**Progress note:** Done through printed p. 856. Rk 7-9 of Sukta 33 end; Sukta 34 intro and Rk 1 begins
