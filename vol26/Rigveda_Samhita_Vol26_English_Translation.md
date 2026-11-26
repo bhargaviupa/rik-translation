@@ -17111,6 +17111,233 @@ The supporter of heaven, the prop (of the earth), the Soma-juice who widely spre
 
 To Indra who goes to the true sacrifice (ऋतं (*ṛtaṃ*) यते (*yate*)) the well-prepared (सुकृतं (*sukṛtaṃ*)) Soma drink (सोम्यं (*somyaṃ*)) is large, abundant and of sweet juice (महि (*mahi*) मधु (*madhu*)): it is food and drink (प्सरः (*psaraḥ*)). Further, for Indra and the others coming to our sacrifice, the path (गव्यूतिः (*gavyūtiḥ*)) of Aditi, the earth, becomes broad (उर्वी (*urvī*)); the sense is that the road for Indra to travel with his hundred thousand horses became wide. Indra, who is lord (ईशे (*īśe*)) of the rain that falls to this world from here (इतः (*itaḥ*)); likewise उस्रियः (*usriyaḥ*), for usrā is a name for the cow, so one who is beneficial to cows; the rainer (वृषा (*vṛṣā*)) of the waters, the leader (नेता (*netā*)) of the sacrifice; इतऊतिः (*itaūtiḥ*), one whose going is to this sacrifice of ours. That Indra, going from here, is ऋग्मियः (*ṛgmiyaḥ*), worthy of the ṛc, one to be praised. For him this Soma is to be drunk.
 
+### Printed p. 460
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतं (*ṛtaṃ*)—to the sacrifice
+- यते (*yate*)—for Indra who comes
+- सुकृतं (*sukṛtaṃ*)—that which is excellently made
+- सोम्यं (*somyaṃ*)—that which is made of Soma
+- महि (*mahi*)—that which is great
+- मधु (*madhu*)—that which is sweet
+- प्सरः (*psaraḥ*)—the food is ready
+- अदितेः (*aditeḥ*)—to the earth
+- गव्यूतिः (*gavyūtiḥ*)—the road by which to come
+- उर्वी (*urvī*)—is broad
+- यः (*yaḥ*)—which Indra
+- इतः (*itaḥ*)—that falls upon this world
+- वृष्टेः (*vṛṣṭeḥ*)—of the rain
+- ईशे (*īśe*)—is lord
+- उस्रियः (*usriyaḥ*)—is beneficial to cows
+- अपां (*apāṃ*)—of the waters
+- वृषा (*vṛṣā*)—is the showerer
+- नेता (*netā*)—is the leader
+- इतऊतिः (*itaūtiḥ*)—is the teacher of our sacrifice **NOTE**
+- यः (*yaḥ*)—who
+- ऋग्मियः (*ṛgmiyaḥ*)—is worthy of praise, for him the Soma food is ready
+
+##### भावार्थ (Bhāvārtha)
+
+For that Indra who is lord of the rain that falls upon this world, who is beneficial to cows, who is the showerer of water and the leader and protector in our sacrifice, who is worthy of praise, for such an Indra, so that he may come to our sacrifice, food that is excellently made, great and sweet is ready. The road by which to come to the earth is broad.
+
+##### English translation
+(There is) abundant food well-prepaped made of Soma and sweet for (Indra) who comes to the sacrifice; the way to earth is broad : (for Indra) who is the lord of the rain (that falls) here, the possessor of cattle, the showerer of water, the leader (of the sacrifice), whose road is hither, who is deserving of praise. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒त्म॒न्वन्नभो॑ दुह्यते घृ॒तं पय॑ ऋ॒तस्य॒ नाभि॑र॒मृतं॒ वि जा॑यते ।  
+> स॒मी॒ची॒नाः सु॒दान॑वः प्रीणंति॒ तं नरो॑ हि॒तमव॑ मेहंति॒ पेर॑वः ॥ ४ ॥
+
+### Printed p. 461
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत्मन्ऽवत् । नभः । दुह्यते । घृतम् । पयः । ऋतस्य । नाभिः । अमृतम् । वि । जायते ।  
+> सम्ऽईचीनाः । सुऽदानवः । प्रीणंति । तम् । नरः । हितम् । अव । मेहंति । पेरवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत्मन्वत् । अनो नुट्' इति नुडागमः । आत्मवत् सारवत् घृतं पयः च नभः नभस आदित्यरूपात्सोमः दुह्यते । किंच ऋतस्य यज्ञस्य नाभिः । ‘णह बंधने' । ‘ स्वमोर्नपुंसकात्' ( पा. सू. ७. १. २३) इति सोर्लुग्न भवति सर्वविधीनां छंदसि विकल्पितत्वात् । नाभि यज्ञस्य बंधकम् अमृतम् उदकं च वि जायते तस्मादेव प्रादुर्भवति । ततः सुदानवः शोभनस्तुतिहविर्दानवंतो यजमानाः समीचीनाः परस्परं संगताः संतः तम् इदं सोमं प्रीणयंति स्तुतिभिस्तर्पयंति । अथ नरः नेतारः पेरवः । ‘ पा रक्षणे । मापोरित्वे रुन्' इति रुन्प्रत्ययः । सर्वस्य रक्षकाः सोमरश्मयः हितं निहितम् अव अवस्ताद्वर्तमानं पार्थिवमुदकं मेहंति वर्षंति । ‘ मिह सेचने ' । भौवादिकः । यद्वा । हितमुदकं पृथिवीं प्रति मेहंति ।
+
+##### Gist of the bhāṣya
+
+The Soma that has the quality of sap is milked, as ghee and milk, from the sky, that is, from the sun-formed sky. Further, Soma is the navel (the binder) of the sacrifice, and the nectar, the water, is born from there itself. Then the sacrificers, good givers of praise and oblation, assembled and united with one another, please this Soma and satisfy him with their praises. Then the leaders, the protectors of all, the rays of Soma, shower down the stored water of the earth lying below. Or else, they shower the stored water toward the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत्मनत् (*ātmanat*)—full of sap **NOTE**
+- धृतं (*dhṛtaṃ*)—butter **NOTE**
+- पयः (*payaḥ*)—milk
+- नभः (*nabhaḥ*)—from the atmosphere
+- दुह्यते (*duhyate*)—is milked
+- ऋतस्य (*ṛtasya*)—to the sacrifice
+- नाभिः (*nābhiḥ*)—the binding
+- अमृतं (*amṛtaṃ*)—and the rain-water
+- विजायते (*vijāyate*)—is born from there itself
+- सुदानवः (*sudānavaḥ*)—the sacrificers, excellent givers
+- समीचीनाः (*samīcīnāḥ*)—having gathered together
+- तं (*taṃ*)—this Soma
+- प्रीणंति (*prīṇaṃti*)—satisfy
+- नरः (*naraḥ*)—leaders
+- पेरवः (*peravaḥ*)—and protectors, the rays of Soma
+- अव (*ava*)—toward this earth
+- हितं (*hitaṃ*)—the stored water
+- मेहंति (*mehaṃti*)—milk **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Ghee and milk full of sap are milked from the atmosphere. The rain-water, which binds the sacrifice, is born from there itself. The sacrificers, excellent givers, having gathered together, satisfy this Soma. The Soma-rays, the leaders and protectors, milk the stored water toward this earth.
+
+##### English translation
+Full of sap the butter and milk is milked from heaven, the bond of the sacrifice, the water is generated : the assembled liberal gives delight him : (the Soma-juices) the leaders, the protectors shower down the accumulated (water)
+
+### Printed p. 462
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhiṣṭava Pravargya this ṛc आत्मन्वन्नभः (*ātmanvannabhaḥ*) is to be recited, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तदु प्रयतक्षतममस्य कर्मात्मन्वन्नभो दुह्यते धृतं पयः (*tadu prayatakṣatamamasya karmātmanvannabho duhyate dhṛtaṃ payaḥ*) (Ā. 4-7).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरा॑वीदं॒शुः सच॑मान ऊ॒र्मिणा॑ देवा॒व्यं१॒॑ मनु॑षे पिन्वति॒ त्वच॑म् ।  
+> दधा॑ति॒ गर्भ॒मदि॑तेरु॒पस्थ॒ आ येन॑ तो॒कं च॒ तन॑यं च॒ धाम॑हे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरावीत् । अंशुः । सचमानः । ऊर्मिणा । देवऽअव्यम् । मनुषे । पिन्वति । त्वचम् ।  
+> दधाति । गर्भम् । अदितेः । उपऽस्थे । आ । येन । तोकम् । च । तनयम् । च । धामहे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्मिणा वसतीवर्यादीनामुदकानां संघेन सचमानः अंशुः सोमः अरावीत् शब्दं करोति । किंच स सोमः देवाव्यम् । अव रक्षणे' ।' अवितॄस्तृतंत्रिभ्य ईः' इति ईप्रत्ययः । देवानां पालयित्रीं त्वचम् आत्मनः शरीरं मनुषे मनुष्याय यजमानाय पिन्वति सिंचति । पात्रेषु क्षरतीति यावत् ॥ अपि च अदितेः अदीनायाः पृथिव्याः उपस्थे समीप ओषधीषु तं गर्भम् आ दधाति सुधामयैः किरणैर्विदधाति । येन गर्भेण वयं तोकं दुःखनाशकं पुत्रं च तनयम् । तनोति कुलमिति तनयः पौत्रः । तं च धामहे दध्महे धारयामः । दधातेर्लटि ‘बहुलं छंदसि' इति शपो लुक् ॥ ॥ ३१ ॥
+
+##### Gist of the bhāṣya
+
+Soma, united with the mass of waters, with the Vasatīvarī and the other waters, utters a sound. Further, that Soma sprinkles his body, which protects the gods, for man, the sacrificer; that is, he flows into the vessels. Moreover, in the lap of Aditi, the unconquered earth, near the plants, he places that germ with rays full of nectar, by which germ we obtain a son (toka, the destroyer of sorrow) and a grandson (tanaya, one who extends the family), and bear them.
+
+### Printed p. 463
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्मिणा (*ūrmiṇā*)—with the mass of waters
+- सचमानः (*sacamānaḥ*)—united
+- अंशुः (*aṃśuḥ*)—Soma
+- अरावीत् (*arāvīt*)—utters a sound
+- देवाव्यं (*devāvyaṃ*)—protecting the gods
+- त्वचं (*tvacaṃ*)—his body
+- मनुषे (*manuṣe*)—for the sacrificer, a human being
+- पिन्नति (*pinnati*)—sprinkles **NOTE**
+- येन (*yena*)—by which germ
+- तोकं (*tokaṃ*)—a son
+- तनयं च (*tanayaṃ ca*)—and a grandson
+- धामहे (*dhāmahe*)—we obtain, such
+- गर्भं (*garbhaṃ*)—a germ
+- अदितेः (*aditeḥ*)—of the earth
+- उपस्थे (*upasthe*)—near
+- आ दधाति (*ā dadhāti*)—he establishes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, united with the mass of waters, utters a sound. He sprinkles his body, which protects the gods, for the human sacrificer. He establishes, near the earth, the germ by which we obtain a son and a grandson.
+
+##### English translation
+Combining with the wave the Soma utters a cry ; he sprinkles his god-protecting body for the worshipper ; he places the germ upon the lap of the earth, whereby we acquire sons and grandsons.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑धा॒रेऽव॒ ता अ॑स॒श्चत॑स्तृ॒तीये॑ संतु॒ रज॑सि प्र॒जाव॑तीः ।  
+> चत॑स्रो॒ नाभो॒ निहि॑ता अ॒वो दि॒वो ह॒विर्भ॑रंत्य॒मृतं॑ घृत॒श्चुतः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रऽधारे । अव । ताः । असश्चतः । तृतीये । संतु । रजसि । प्रजाऽवतीः ।  
+> चतस्रः । नाभः । निऽहिताः । अवः । दिवः । हविः । भरंति । अमृतम् । घृतऽश्चुतः ॥ ६ ॥
+
+### Printed p. 464
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रधारे बहूदकधारे तृतीये रजसि लोके स्वर्गे वर्तमानाः असश्चतः परस्परमसक्ताः प्रजावतीः उत्पादितप्रजावत्यः सोमस्य स्वभूताः ताः अव संतु अवस्तात्पृथिव्यां पतंतु । कास्ता इत्याह । चतस्रो नाभः तपसो बाधिकाः सोमस्य संबंधिन्यश्चतस्रो दीप्तयः कला: दिवः द्युलोकात् अवः अवस्तात् निहिताः सोमेन स्थापिताः ताः घृतश्चुतः घृतस्योदकस्य च्यावयित्र्यः सत्यः हविः सोमादिलक्षणं भरंति देवानां प्रयच्छंति । तथा अमृतं गोष्वोषधीषु च पयोरूपं सुधारूपं च भरंति प्रक्षिपंति ॥
+
+##### Gist of the bhāṣya
+
+Let those waters of Soma that are in the third world, heaven, the world of a thousand streams, that is, of many streams of water, unconnected with one another and bearing progeny, descend below, that is, fall upon the earth. Which are they? Sāyaṇa says: the four navels, the four rays or digits of Soma, which restrain heat, placed below from the world of heaven by Soma. Pouring ghee, that is, water, they carry the oblation, Soma and the rest, and give it to the gods. Likewise they bring nectar in the form of milk and in the form of ambrosia, and put it into the cows and the plants.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रधारे (*sahasradhāre*)—having many kinds of streams
+- तृतिये रजसि (*tṛtiye rajasi*)—those that are in the third world **NOTE**
+- असश्चतः (*asaścataḥ*)—having separate divisions
+- प्रजावतीः (*prajāvatīḥ*)—able to produce progeny
+- ताः (*tāḥ*)—the Soma-juices
+- अव संतु (*ava saṃtu*)—let them descend to the earth
+- चतस्रो नाभः (*catasro nābhaḥ*)—the four digits
+- दिवः (*divaḥ*)—from the world of heaven
+- अवः (*avaḥ*)—to the lower region
+- निहिताः (*nihitāḥ*)—being established
+- धृतश्चतः (*dhṛtaścataḥ*)—and pouring water **NOTE**
+- हविः (*haviḥ*)—the oblation
+- भरंति (*bharaṃti*)—they carry to the gods
+- अमृतं (*amṛtaṃ*)—the nectar in the form of milk, too, it carries **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+May the Soma-juices, which have many kinds of streams, are in the third world, have separate divisions and are able to produce progeny, descend to the earth. The four digits, established below from the world of heaven and pouring water, also carry the oblation to the gods. They carry also the nectar in the form of milk.
+
+##### English translation
+May those (juices) which are in the third world, the world of many streams, unconnected, bestowing progeny, descend ; the four digits (of the Soma) sent down from heaven bearing water bring the oblation and the nectar.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्वे॒तं रू॒पं कृ॑णुते॒ यत्सिषा॑सति॒ सोमो॑ मी॒ढ्वाँ असु॑रो वेद॒ भूम॑नः ।  
+> धि॒या शमी॑ सचते॒ सेम॒भि प्र॒वद्दि॒वस्कवं॑ध॒मव॑ दर्षदु॒द्रिण॑म् ॥ ७ ॥
+
+### Printed p. 465
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वेतम् । रूपम् । कृणुते । यत् । सिसासति । सोमः । मीढ्वान् । असुरः । वेद । भूमनः ।  
+> धिया । शमी । सचते । सः । ईम् । अभि । प्रऽवत् । दिवः । कवंधम् । अव । दर्षत् । उद्रिणम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वेतं दीप्यमानं शुक्लं रूपं कृणुते तदा करोति यत् यदा सिषासति स्वर्गं संभक्तुमिच्छति । सोमे पात्राण्यागते सति तत्तेजसानुरंजितानां तेषां श्वेतं रूपं भवति । ततः मीढ्वान् । 'मिह सेचने । अस्मात् क्वसौ ‘ दाश्वान्साह्वान्मीढ्वांश्च' इति निपातनादभिमतरूपसिद्धिः । कामानां सेक्ता असुरः प्राज्ञो बलवान् वा सोमः भूमनः बहुधनानि वेद स्तोतृभ्यो दातुं जानाति । प्रयच्छतीति यावत् । स ईम् ।  सोऽचि लोपे चेत' इति सुलोपः । सोऽयं धिया प्रज्ञानेन प्रवत् प्रकृष्टानि शमी । द्वितीयायाः पूर्वसवर्णदीर्घः । कर्माणि अभि सचते अभितः समवैति । किंच दिवः अंतरिक्षात् उद्रिणम् उदकवंतं कवंधं मेघम् । कवंधशब्देन मेघोऽभिधीयते । तात्स्थ्यात्ताच्छब्द्यमिति । मेघम् अव दर्षत् अवदारयति । विवृतद्वारं करोति । मेघं विदार्यांतरिक्षात् वृष्टिं करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma makes a white, shining form when he wishes to ascend to heaven; when Soma has come to the vessels, they, tinged with his radiance, become white. Then Soma, the showerer of desires, wise or strong, knows many riches, that is, he knows how to give them to the praisers: he bestows them. That same Soma, with his wisdom, joins on all sides the excellent rites. Further, from heaven, that is, from the atmosphere, he splits the cloud that holds water. The word kavandha denotes the cloud. He opens its door: having split the cloud, he makes rain from the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सिषासति (*siṣāsati*)—Soma wishes to ascend to heaven, then
+- श्वेतं (*śvetaṃ*)—of white colour
+- रूपं (*rūpaṃ*)—a form
+- कृणुते (*kṛṇute*)—he obtains
+- मीढ्वान् (*mīḍhvān*)—the showerer of desires
+- असुरः (*asuraḥ*)—and powerful
+- सोमः (*somaḥ*)—Soma
+- भूमनः (*bhūmanaḥ*)—abundant wealth
+- वेद (*veda*)—knows he should give to the praisers
+- स ईं (*sa īṃ*)—that same Soma
+- धिया (*dhiyā*)—with his wisdom
+- प्रवत् (*pravat*)—excellent
+- शमी (*śamī*)—with rites
+- अभि सचते (*abhi sacate*)—joins
+- दिवः (*divaḥ*)—from the atmosphere
+- अद्रिणं (*adriṇaṃ*)—holding water **NOTE**
+- कवंधं (*kavaṃdhaṃ*)—the cloud
+- अव दर्षत् (*ava darṣat*)—he splits
+
 ---
 
-**Progress note:** Done through printed p. 459. Sūkta 73 Ṛks 8-9; Sūkta 74 Ṛks 1-3
+**Progress note:** Done through printed p. 465. Sukta 74 rks 3 (end)-7 (partial), pp. 460-465
