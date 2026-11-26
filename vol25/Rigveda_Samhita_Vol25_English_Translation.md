@@ -892,7 +892,7 @@ Seer: Priyamedha.
 
 Deity: 1-10, 13-18, Indra; 11, first half, the Viśvedevas; 11, second half, 12, Varuṇa.
 
-Metre: 1-3 **NOTE**, 7-10, 12-15 **NOTE**, Anuṣṭubh; 2, Uṣṇih; 4-6, Gāyatrī; 11, 16, Paṅkti; 17, 18, Bṛhatī.
+Metre: 1-3, 7-10, 12-15, Anuṣṭubh; 2, Uṣṇih; 4-6, Gāyatrī; 11, 16, Paṅkti; 17, 18, Bṛhatī.
 
 #### Ṛk 1
 
@@ -1445,7 +1445,7 @@ You are a glorious god, Varuna, across whose palate the seven rivers keep pourin
 ##### विशेषविषयगळु (Special Topics)
 
 To explain the meaning of the word काकुदं (*kākudaṃ*), Yāska has given an explanation (nirvacana) for this Ṛk:
-सुदेवस्त्वं कल्याणदेवः कमनीयदेवो वा भवसि वरुण यस्य ते सप्त सिंधवः । सिंधुः प्रवणात् यस्य ते सप्त स्रोतांसि तानि ते काकुदमनुस्यक्ष-रंति सूर्मिः कल्याणोर्मिः स्रोतः सुषिरमनु यथा ॥ (*sudevastvaṃ kalyāṇadevaḥ kamanīyadevo vā bhavasi varuṇa yasya te sapta siṃdhavaḥ | siṃdhuḥ pravaṇāt yasya te sapta srotāṃsi tāni te kākudamanusyakṣa-raṃti sūrmiḥ kalyāṇormiḥ srotaḥ suṣiramanu yathā ‖*) (Ni. 5-27) **NOTE**
+सुदेवस्त्वं कल्याणदेवः कमनीयदेवो वा भवसि वरुण यस्य ते सप्त सिंधवः । सिंधुः प्रवणात् यस्य ते सप्त स्रोतांसि तानि ते काकुदमनुस्यक्ष-रंति सूर्मिः कल्याणोर्मिः स्रोतः सुषिरमनु यथा ॥ (*sudevastvaṃ kalyāṇadevaḥ kamanīyadevo vā bhavasi varuṇa yasya te sapta siṃdhavaḥ | siṃdhuḥ pravaṇāt yasya te sapta srotāṃsi tāni te kākudamanusyakṣa-raṃti sūrmiḥ kalyāṇormiḥ srotaḥ suṣiramanu yathā ‖*) (Ni. 5-27)
 O Varuṇa, you are Sudeva, that is, a god who brings about welfare, a god who does good to all, who makes auspiciousness; or else a god who is desired by all (a charming god). Such is your tongue's root, into which the seven famous rivers (Gaṅgā and the others) flow and fall. How? As flowing water goes and falls naturally into a pit, that is, into a low region, so the seven famous rivers go and fall into the root of your tongue (that is, into the ocean). Here the word Sindhu means a flowing river; that is, because it has the nature of flowing, a river is also called Sindhu. Sūrmi means one with good waves, that is, a stream with abundant water, as it rushes into a low region; thus the illustration of the word Suṣirā is given.
 
 #### Ṛk 13
@@ -2000,7 +2000,7 @@ Indra, were there one hundred heavens to compare with you, or were there one hun
 
 ##### विशेषविषयगळु (Special Topics)
 
-On the third day of the sacrifice, when the Niṣkevalya-śastra mantras are recited, in the alternative with the Vairūpa Sāman, this pragātha beginning यद्द्यावः (*yaddyāvaḥ*) (Ṛks 5-6) is to be recited as a stotriya pragātha mantra **NOTE**, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, यद्द्याव इंद्र ते शतं यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रियानुरूपौ (*yaddyāva iṃdra te śataṃ yadiṃdra yāvatastvamiti pragāthau stotriyānurūpau*) (Ā. 7-10).
+On the third day of the sacrifice, when the Niṣkevalya-śastra mantras are recited, in the alternative with the Vairūpa Sāman, this pragātha beginning यद्द्यावः (*yaddyāvaḥ*) (Ṛks 5-6) is to be recited as the stotriya pragātha, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, यद्द्याव इंद्र ते शतं यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रियानुरूपौ (*yaddyāva iṃdra te śataṃ yadiṃdra yāvatastvamiti pragāthau stotriyānurūpau*) (Ā. 7-10).
 
 #### Ṛk 6
 
@@ -2545,7 +2545,7 @@ O Agni, born loved, your anger that belongs to man cannot prevail to hinder you,
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - प्रियजाते (*priyajāte*)—O Agni, whose birth causes delight
-- पौरुषेयः (*pauruṣeyaḥ*)—that is manifested by a man **NOTE**
+- पौरुषेयः (*pauruṣeyaḥ*)—that is manifested by a man
 - मन्युः (*manyuḥ*)—anger
 - वः (*vaḥ*)—you
 - नहि ईशे हि (*nahi īśe hi*)—is not able to harm
@@ -2881,7 +2881,7 @@ Let our voices, our praises, go towards, go to Agni, whose flame devours, who is
 - यज्ञासः (*yajñāsaḥ*)—our sacrifices also
 - नमसा (*namasā*)—in the form of our oblation
 - पुरुवसुं (*puruvasuṃ*)—who has exceedingly abundant wealth
-- पुरुप्रशस्तं (*purupraśastaṃ*)—and is abundantly **NOTE** praised, Agni
+- पुरुप्रशस्तं (*purupraśastaṃ*)—and is abundantly praised, Agni
 - ऊतये (*ūtaye*)—for our protection
 - अच्छ (*accha*)—let them go and reach towards him
 
@@ -2894,7 +2894,7 @@ Let our voices come near the beautiful (Agni), him who bears devouring flames ; 
 
 ##### विशेषविषयगळु (Special Topics)
 
-At the time of reciting the Prātaranuvāka mantras, the six Ṛks beginning अच्छा नः (*acchā naḥ*) are employed for the Ṛks in the Bṛhatī metre, as is explained by the sūtra of the Āśvalāyana Śrautasūtra अच्छा नः शीरशोचिषमिति षट् (*acchā naḥ śīraśociṣamiti ṣaṭ*) (8. 4-13) **NOTE**. On the tenth day of the sacrifice
+At the time of reciting the Prātaranuvāka mantras, the six Ṛks beginning अच्छा नः (*acchā naḥ*) are employed for the Ṛks in the Bṛhatī metre, as is explained by the sūtra of the Āśvalāyana Śrautasūtra अच्छा नः शीरशोचिषमिति षट् (*acchā naḥ śīraśociṣamiti ṣaṭ*) (Ā. 4-13). On the tenth day of the sacrifice
 
 ### Printed p. 73
 
@@ -3455,7 +3455,7 @@ Seven milk one (cow), the two direct the five, on the resounding shore of the ri
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the Abhiṣṭaveṣṭi, at the heating of the Gharma, the Ṛk beginning दुहंति सप्त (*duhaṃti sapta*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुहंति सप्तैकां समिद्धो अग्निरश्विना (*duhaṃti saptaikāṃ samiddho agniraśvinā*) (Ā. 4-7). And in the Grāvastotra also this Ṛk is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुहंति सप्तैकामधुक्षत्पिप्युषीमिषं (*duhaṃti saptaikāmadhukṣatpipyuṣīmiṣaṃ*) **NOTE** (Ā. 5-12).
+In the Abhiṣṭaveṣṭi, at the heating of the Gharma, the Ṛk beginning दुहंति सप्त (*duhaṃti sapta*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुहंति सप्तैकां समिद्धो अग्निरश्विना (*duhaṃti saptaikāṃ samiddho agniraśvinā*) (Ā. 4-7). And in the Grāvastotra also this Ṛk is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुहंति सप्तैकामधुक्षत्पिप्युषीमिषं (*duhaṃti saptaikāmadhukṣatpipyuṣīmiṣaṃ*) (Ā. 5-12).
 
 #### Ṛk 8
 
@@ -7130,7 +7130,7 @@ Far-darting is your well-made auspicious bow, unfailing is your golden arrow ; y
 
 In explaining the word बुंद (*buṃda*), Yāska took the present Ṛk itself as the example and stated an interpretation for this Ṛk. We have explained the meaning of the word bunda, as Yāska states it, in the Special Topics of the sixth Ṛk of this sūkta (page 166). Bunda means arrow. The interpretation of the present Ṛk is as follows:
 
-तुविक्षं बहुविक्षेपं महाविक्षेपं वा । ते सुकृतं सूमयं सुसुखं धनुः साधयिता । ते बुंदो हिरण्यय उभौ ते बाहू रण्या रमणीयौ सांग्राम्यौ वा । ऋदूपे अर्दनपातिनौ गमनपातिनौ शब्दपातिनौ दूरपातिनौ वा । (*tuvikṣaṃ bahuvikṣepaṃ mahāvikṣepaṃ vā | te sukṛtaṃ sūmayaṃ susukhaṃ dhanuḥ sādhayitā | te buṃdo hiraṇyaya ubhau te bāhū raṇyā ramaṇīyau sāṃgrāmyau vā | ṛdūpe ardanapātinau gamanapātinau śabdapātinau dūrapātinau vā |*) मर्मर्ण्यर्दनवेधिनौ (*marmarṇyardanavedhinau*)**NOTE** गमनवेधिनौ शब्दवेधिनौ दूरवेधिनौ वा (*gamanavedhinau śabdavedhinau dūravedhinau vā*)
+तुविक्षं बहुविक्षेपं महाविक्षेपं वा । ते सुकृतं सूमयं सुसुखं धनुः साधयिता । ते बुंदो हिरण्यय उभौ ते बाहू रण्या रमणीयौ सांग्राम्यौ वा । ऋदूपे अर्दनपातिनौ गमनपातिनौ शब्दपातिनौ दूरपातिनौ वा । (*tuvikṣaṃ bahuvikṣepaṃ mahāvikṣepaṃ vā | te sukṛtaṃ sūmayaṃ susukhaṃ dhanuḥ sādhayitā | te buṃdo hiraṇyaya ubhau te bāhū raṇyā ramaṇīyau sāṃgrāmyau vā | ṛdūpe ardanapātinau gamanapātinau śabdapātinau dūrapātinau vā |*) मर्मर्ण्यर्दनवेधिनौ (*marmarṇyardanavedhinau*) गमनवेधिनौ शब्दवेधिनौ दूरवेधिनौ वा (*gamanavedhinau śabdavedhinau dūravedhinau vā*)
 
 (Ni. 6-34)**NOTE**
 
@@ -7150,12 +7150,12 @@ The sūkta पुरोळाशं नः (*puroḷāśaṃ naḥ*) has ten Ṛ
 
 ##### Anuvāda
 
-This sūkta, पुरोळाशं नः (*puroḷāśaṃ naḥ*), is the ninth**NOTE** sūkta in the eighth Anuvāka. It has ten Ṛks. The seer of this sūkta is Kurusutiḥṇvaḥ**NOTE**; the deity is Indra. The first nine Ṛks of this sūkta are in the Gāyatrī metre; the tenth is in the Bṛhatī metre. In the Anukramaṇikā it is said: पुरोळाशं दश बृहत्कांतं (*puroḷāśaṃ daśa bṛhatkāṃtaṃ*). The use of the sūkta is by indication. In the Mahāvrata sacrifice, in the Niṣkevalya recitation, the first three Ṛks of this sūkta are used for the Ṛks in the Gāyatrī metre; this is specified in the Aitareya Āraṇyaka, in the fifth Āraṇyaka, by the sentence पुरोळाशं नो अंधस इति तिस्रः (*puroḷāśaṃ no aṃdhasa iti tisraḥ*) (Ai. Ā. 5-3-6).**NOTE**
+This sūkta, पुरोळाशं नः (*puroḷāśaṃ naḥ*), is the ninth sūkta in the eighth Anuvāka. It has ten Ṛks. The seer of this sūkta is Kurusutiḥṇvaḥ**NOTE**; the deity is Indra. The first nine Ṛks of this sūkta are in the Gāyatrī metre; the tenth is in the Bṛhatī metre. In the Anukramaṇikā it is said: पुरोळाशं दश बृहत्कांतं (*puroḷāśaṃ daśa bṛhatkāṃtaṃ*). The use of the sūkta is by indication. In the Mahāvrata sacrifice, in the Niṣkevalya recitation, the first three Ṛks of this sūkta are used for the Ṛks in the Gāyatrī metre; this is specified in the Aitareya Āraṇyaka, in the fifth Āraṇyaka, by the sentence पुरोळाशं नो अंधस इति तिस्रः (*puroḷāśaṃ no aṃdhasa iti tisraḥ*) (Ai. Ā. 5-3-6).**NOTE**
 
 ##### Particulars
 
-- Sūkta—78**NOTE**
-- Maṇḍala—8; Anuvāka—8; Sūkta—78**NOTE**
+- Sūkta—78
+- Maṇḍala—8; Anuvāka—8; Sūkta—78
 - Aṣṭaka—6; Adhyāya—5; Varga—30, 31
 - Number of Ṛks in the sūkta—10
 - Ṛṣi—Kurusutiḥṇvaḥ
@@ -7401,11 +7401,11 @@ That Indra, unharmed by anyone, brings down (नि चिकीषते (*ni c
 - नि चिकीषते (*ni cikīṣate*)—makes it come down
 - निदः (*nidaḥ*)—for reproaching him
 - पुरा (*purā*)—beforehand
-- चिकीषते (*cikīṣate*)—makes such persons **NOTE** humble
+- चिकीषते (*cikīṣate*)—makes such persons humble
 
 ##### भावार्थ (Bhāvārtha)
 
-The renowned Indra, without being harmed by anyone, makes the wrath of mortals come down. If anyone wishes to reproach him, he beforehand makes such persons **NOTE** humble.
+The renowned Indra, without being harmed by anyone, makes the wrath of mortals come down. If anyone wishes to reproach him, he beforehand makes such persons humble.
 
 ### Printed p. 184
 
@@ -7592,7 +7592,7 @@ Sūkta 79
 
 Maṇḍala 8, Anuvāka 8, Sūkta 79
 
-Aṣṭaka 6, Adhyāya 5 **NOTE**, Varga 33, 34
+Aṣṭaka 6, Adhyāya 5, Varga 33, 34
 
 Number of Ṛks in the sūkta: 9
 
@@ -8088,7 +8088,7 @@ You who are harmless (अमृधः (*amṛdhaḥ*)) and have protected (आ�
 O Indra, you, the harmless one, who have protected us in former times for the gain of food, make us happy always.
 
 ##### English translation
-O you, the invulnerable, who have always in former times protected us for the battle, you **NOTE**, Indra, make us happy.
+O you, the invulnerable, who have always in former times protected us for the battle, you, Indra, make us happy.
 
 ### Printed p. 199
 #### Ṛk 3
