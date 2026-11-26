@@ -11701,6 +11701,297 @@ O Subandhu, the mind of yours that has gone to the मरीचीः (*marīcī
 - जीवसे (*jīvase*)—to live long
 - आ वर्तयामासि (*ā vartayāmāsi*)—we cause to come back
 
+### Printed p. 368
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone far away from us, to the world of the ever-moving rays, we make that same spirit of yours return here, to dwell here and to live long.
+
+##### English translation
+Although your spirit have gone far away to the advancing rays of light, we bring back that (spirit) of yours to dwelling here, to live (long).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ अ॒पो यदोष॑धी॒र्मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑ह जी॒वसे॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । अपः । यत् । ओषधीः । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनोऽप उदकं यदोषधीर्वनस्पतीनिति तदिति गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, that mind of yours which has gone to the waters (उदकं (*udakaṃ*)), or to the herbs, the trees." The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perhaps
+- ते मनः (*te manaḥ*)—your spirit
+- दूरकं (*dūrakaṃ*)—very far away
+- अपः (*apaḥ*)—to the waters
+- ओषधीः (*oṣadhīḥ*)—to the plants and creepers
+- जगाम (*jagāma*)—has gone and joined
+- तत् ते (*tat te*)—that same spirit of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—I make return
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone far away and joined the waters, or the plants and creepers, we make that same spirit of yours return here, to dwell here and to live long.
+
+### Printed p. 369
+
+##### English translation
+Although your spirit have gone far away to the waters, to the plants, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ सूर्यं॒ यदु॒षसं॒ मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । सूर्यं । यत् ! उषसं । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनः सूर्यं सूर्यमिव यदुषसं तदिति गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, that mind of yours which has gone to the sun, like the sun, and to the dawn." The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perhaps
+- ते मनः (*te manaḥ*)—your spirit
+- दूरकं (*dūrakaṃ*)—very far from us
+- सूर्यं (*sūryaṃ*)—to the world of the sun
+- उषसं (*uṣasaṃ*)—to the world of the dawn
+- जगाम (*jagāma*)—even if it has gone
+- तत् ते (*tat te*)—that same spirit of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—we make return
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone to the world of the sun and the world of the dawn, very far from us, we make that same spirit of yours return here, to dwell here and to live long.
+
+##### English translation
+Although your spirit have gone far away to the sun, to the dawn, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ पर्व॑तान्बृह॒तो मनो॑ ज॒गाम॑ दूर॒कं ।  
+> 47
+
+### Printed p. 370
+
+> तत्त आ वर्तयामसीह क्षयाय जीवसे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । पर्वतान् । बृहतः । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनो बृहतः पर्वतान् तदिति गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, that mind of yours which has gone to the great mountains." The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perhaps
+- ते मनः (*te manaḥ*)—your spirit
+- दूरकं (*dūrakaṃ*)—as if far from us
+- बृहतः (*bṛhataḥ*)—very great
+- पर्वतान् (*parvatān*)—to mountain regions
+- जगाम (*jagāma*)—even if it has gone
+- तत् ते (*tat te*)—that same spirit of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—we make return
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone to the very great mountain regions, far from us, we make that same spirit of yours return here, to dwell here and to live long.
+
+##### English translation
+Although your spirit have gone far away to the great mountains, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ विश्व॑मि॒दं जग॒न्मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । विश्वं । इदं । जगत् । मनः । जगाम । दूरकं ।
+
+### Printed p. 371
+
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनो विश्वमिति तदिति गतं । चतस्र ऋचो निगदसिद्धाः ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, that mind of yours which has gone to the whole (this world)." The rest has been explained already. The four Ṛks are established by the Nigada (निगदसिद्धाः (*nigadasiddhāḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perhaps
+- ते मनः (*te manaḥ*)—your spirit
+- दूरकं (*dūrakaṃ*)—as if very far from us
+- इदं विश्वं जगत् (*idaṃ viśvaṃ jagat*)—pervading this entire world
+- जगाम (*jagāma*)—even if it has gone
+- तत् ते (*tat te*)—that same spirit of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live
+- आ वर्तयामसि (*ā vartayāmasi*)—I make return
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone, far from us, so as to pervade this whole world, I make that same spirit of yours return here, to dwell here and to live.
+
+##### English translation
+Although your spirit have gone to the remotest regions of this universe, we bring back that spirit of yours to dwell here, to live (long).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ पराः॑ परा॒वतो॒ मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । पराः । परावतः । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनः पराः परावतोऽत्यंतं दूरदेशाञ्जगाम तदिति
+> गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, that mind of yours which has gone to the farthest distant regions." The rest has been explained already.
+
+### Printed p. 372
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perhaps
+- ते मनः (*te manaḥ*)—your spirit
+- दूरकं (*dūrakaṃ*)—as if far from us
+- पराः परावतः (*parāḥ parāvataḥ*)—to the most distant region
+- जगाम (*jagāma*)—even if it has gone
+- तत् ते (*tat te*)—that same spirit of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—we make return
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone to the most distant region, as if far from us, we make that same spirit of yours return here, to dwell here and to live long.
+
+##### English translation
+Although your spirit have gone far away to the remotest regions, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ भू॒तं च॒ भव्यं॑ च॒ मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । भूतं । च । भव्यं । च । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनो भूतं च भव्यं चेत्यनेन भूतभन्यात्मकव्यतिरेकेण कस्यचिदभावाद्वर्तमानस्य पृथगेवाभिधानात् कृत्स्नं प्रपंचमुक्तं भवति ।
+> तत्र सर्वत्र गतं मनो जीवनाय निवासाय चावर्तयामः ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, that mind of yours" — by "what has been and what is to be," since nothing exists apart from what is past and what is future, and since the present is also named separately, the whole universe is said to be meant. Into all of that the mind has gone; we make it return for life and for dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perhaps
+- ते मनः (*te manaḥ*)—your spirit
+- दूरकं (*dūrakaṃ*)—as if far from us
+- भूतं (*bhūtaṃ*)—in the principles of past time
+- भव्यं (*bhavyaṃ*)—in the principles of future time
+### Printed p. 373
+- जगाम (*jagāma*)—even if it has gone and become one
+- तत् ते (*tat te*)—that same spirit of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—we make return
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your spirit has gone and become one with the principles of past time and of future time, as if far from us, we make that same spirit of yours return here, to dwell here and to live long.
+
+##### English translation
+Although your spirit have gone far away to what has been, or to what is to be, we bring back that (spirit) of yours to dwell here, to live (long).
+
+## Sūkta 59 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र तारीति दशर्चं सप्तदशं सूक्तं बंध्वादीनां त्रयाणां गौपायनानामार्षं ।
+> आदितः सप्त त्रिष्टुभः । अष्टमी पंचाष्टका पंक्तिः । नवमी षडष्टका महापंक्तिः ।
+> दशमी पंक्त्युत्तरा । आद्य दशकावष्टकास्त्रयः । आनु. ९-११. । इत्युक्तलक्षणसद्भावात् ।
+> एकाक्षराधिक्याद्भूरिग्विशेषेणेयं वेदितव्या सूक्तस्यादितश्चतस्रो देहात्मानिर्गम
+> यित्र्या निर्ऋतेर्निवृत्यर्थं बंध्वादयोऽजपन् । मो षु णः सोमेति चतुर्थ्या
+> मेव मृत्युनिवृत्यर्थं सोममस्तुवन् । अतश्चतसृणां निर्ऋतिर्देवता चतुर्थ्याः
+> सोमश्च । असुनीते मन इति द्वाभ्यामसुनीतिनामीं देवीमस्तुवन् । आतस्तयोः
+> सा देवता । पुनर्नो असुमित्यस्याः पृथिव्याद्या लिंगोक्ता देवताः । ततस्तिसृभिः
+> शिष्टाभिः पंक्तिमहापंक्तिपंक्त्युत्तराभिर्द्यानापृथिव्याविति द्यावापृथिव्यौ देवते ।
+> समिंद्रेत्यर्धर्चस्येंद्रो देवता । तथा चानुक्रांतं । प्र तारीति दशर्चे चतस्रो
+> निर्ऋत्यपनोदनार्थं जेपुश्चतुर्थ्यां सोमं चास्तुवन्मृत्यूरपगमायोत्तराभ्यां दैवीमसुनीतिं सप्तम्यां लिंगोक्तदेवताः शिष्टाभिः पंक्तिमहापंक्तिपंक्त्युत्तराभिर्द्यावापृथिव्यौ समिंद्रेतींद्रं चार्धर्चेनेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र तारी (*pra tārī*) has ten Ṛks and is the seventeenth sūkta; its seer is the three Gaupāyanas, Bandhu and the others. The first seven Ṛks are Triṣṭubh; the eighth is a Paṅkti of five pādas of eight syllables; the ninth is a Mahāpaṅkti of six pādas of eight; the tenth is a Paṅkty-uttarā. He cites the definition आद्य दशकावष्टकास्त्रयः । आनु. ९-११. (*ādya daśakāvaṣṭakāstrayaḥ | ānu. 9-11.*) This Ṛk is to be known as a Bhurij variety through one syllable in excess. The first four Ṛks of the sūkta were muttered by Bandhu and the others to turn away Nirṛti, who drives the soul out of the body. With the fourth, मो षु णः सोम (*mo ṣu ṇaḥ soma*), they praised Soma to turn away death. So the deity of the four is Nirṛti, and of the fourth also Soma. With the two Ṛks असुनीते मन (*asunīte mana*) they praised the goddess named Asunīti; she is their deity. The deities of *punarno asuṃ* are Pṛthivī and others, as stated by the gender-indications. Of the remaining three, Paṅkti, Mahāpaṅkti and Paṅkty-uttarā, the deities are Heaven and Earth (द्यावापृथिव्यौ (*dyāvāpṛthivyau*)). The half-Ṛk समिंद्र (*samiṃdra*) has Indra as deity. He quotes the Anukramaṇī to the same effect: प्र तारीति दशर्चं सप्तदशं सूक्तं बंध्वादीनां त्रयाणां गौपायनानामार्षं । आदितः सप्त त्रिष्टुभः । अष्टमी पंचाष्टका पंक्तिः । नवमी षडष्टका महापंक्तिः । दशमी पंक्त्युत्तरा । आद्य दशकावष्टकास्त्रयः । आनु. ९-११. । इत्युक्तलक्षणसद्भावात् । एकाक्षराधिक्याद्भूरिग्विशेषेणेयं वेदितव्या सूक्तस्यादितश्चतस्रो देहात्मानिर्गम यित्र्या निर्ऋतेर्निवृत्यर्थं बंध्वादयोऽजपन् । मो षु णः सोमेति चतुर्थ्या मेव मृत्युनिवृत्यर्थं सोममस्तुवन् । अतश्चतसृणां निर्ऋतिर्देवता चतुर्थ्याः सोमश्च । असुनीते मन इति द्वाभ्यामसुनीतिनामीं देवीमस्तुवन् । आतस्तयोः सा देवता । पुनर्नो असुमित्यस्याः पृथिव्याद्या लिंगोक्ता देवताः । ततस्तिसृभिः शिष्टाभिः पंक्तिमहापंक्तिपंक्त्युत्तराभिर्द्यानापृथिव्याविति द्यावापृथिव्यौ देवते । समिंद्रेत्यर्धर्चस्येंद्रो देवता । तथा चानुक्रांतं । प्र तारीति दशर्चे चतस्रो निर्ऋत्यपनोदनार्थं जेपुश्चतुर्थ्यां सोमं चास्तुवन्मृत्यूरपगमायोत्तराभ्यां दैवीमसुनीतिं सप्तम्यां लिंगोक्तदेवताः शिष्टाभिः पंक्तिमहापंक्तिपंक्त्युत्तराभिर्द्यावापृथिव्यौ समिंद्रेतींद्रं चार्धर्चेनेति ॥ (*pra tārīti daśarcaṃ saptadaśaṃ sūktaṃ baṃdhvādīnāṃ trayāṇāṃ gaupāyanānāmārṣaṃ | āditaḥ sapta triṣṭubhaḥ | aṣṭamī paṃcāṣṭakā paṃktiḥ | navamī ṣaḍaṣṭakā mahāpaṃktiḥ | daśamī paṃktyuttarā | ādya daśakāvaṣṭakāstrayaḥ | ānu. 9-11. | ityuktalakṣaṇasadbhāvāt | ekākṣarādhikyādbhūrigviśeṣeṇeyaṃ veditavyā sūktasyāditaścatasro dehātmānirgama yitryā nirṛternivṛtyarthaṃ baṃdhvādayo 'japan | mo ṣu ṇaḥ someti caturthyā meva mṛtyunivṛtyarthaṃ somamastuvan | ataścatasṛṇāṃ nirṛtirdevatā caturthyāḥ somaśca | asunīte mana iti dvābhyāmasunītināmīṃ devīmastuvan | ātastayoḥ sā devatā | punarno asumityasyāḥ pṛthivyādyā liṃgoktā devatāḥ | tatastisṛbhiḥ śiṣṭābhiḥ paṃktimahāpaṃktipaṃktyuttarābhirdyānāpṛthivyāviti dyāvāpṛthivyau devate | samiṃdretyardharcasyeṃdro devatā | tathā cānukrāṃtaṃ | pra tārīti daśarce catasro nirṛtyapanodanārthaṃ jepuścaturthyāṃ somaṃ cāstuvanmṛtyūrapagamāyottarābhyāṃ daivīmasunītiṃ saptamyāṃ liṃgoktadevatāḥ śiṣṭābhiḥ paṃktimahāpaṃktipaṃktyuttarābhirdyāvāpṛthivyau samiṃdretīṃdraṃ cārdharceneti ‖*) The viniyoga is stated.
+
+##### विशेषविषयगळु (Special Topics)
+
+Anuvāda: This sūkta प्र कार्यायुः (*pra kāryāyuḥ*) is the seventeenth sūkta in the fourth anuvāka. It has ten Ṛks. Its seers are three brothers, Bandhu and others, sons of Gopāyana. The first seven Ṛks of this sūkta are in the Triṣṭubh metre. The eighth Ṛk is in the Paṅkti metre, with five pādas of eight syllables each. The ninth Ṛk, of eight syllables each …
+
 ---
 
-**Progress note:** Done through printed p. 367. pp. 362-367 (batch API)
+**Progress note:** Done through printed p. 373. pp. 368-373 (batch API)
