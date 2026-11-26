@@ -24,3 +24,5 @@
 - Nov 26 2026: p1045 line 9, user's reading: `೯-೬೫-೩೭[?]` → `೯-೬೫-೨೪` (9-65-24). Left on p1045: ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?] (line 15); p1071 one word.
 
 - Nov 26 2026: p1045 line 9, user corrected their own reading: `೯-೬೫-೨೪` → `೯-೬೫-೨೫` (9-65-25).
+
+- Nov 26 2026: p1045 line 15, user's reading: `ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?]` → `೩-೧-೭-೩` (3-1-7-3). All numbers of Vol 26 part 2 are settled; one word mark left (p1071).
