@@ -15044,6 +15044,282 @@ May he give strength and his brilliant heaven and precious things to you his wor
 > आ । ते । दधामि । इंद्रियम् । उक्था । विश्वा । शतक्रतो इति शतऽक्रतो ।  
 > स्तोतृऽभ्यः । इंद्र । मृळय ॥ २७ ॥
 
+### Printed p. 386
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो इंद्र ते तव इंद्रियं वीर्यवंतं सोमं विश्वा उक्था सर्वाणि स्तोत्राणि आ दधामि संपादयामि । हे इंद्र त्वं स्तोतृभ्यः मृळय सुखय ॥
+
+##### Gist of the bhāṣya
+
+O शतक्रतो (*śatakrato*) Indra, I prepare for you, that is, bring about, the Soma full of इंद्रियं (*iṃdriyaṃ*), that is, of vigour, and all the उक्था (*ukthā*), that is, all the hymns of praise. O Indra, make your praisers happy, मृळय (*mṛḷaya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O Indra, the doer of many deeds of daring
+- ते (*te*)—for you
+- इंद्रियं (*iṃdriyaṃ*)—the Soma that produces exhilaration
+- विश्वा उक्थानि (*viśvā ukthāni*)—all the hymns of praise
+- आ दधामि (*ā dadhāmi*)—I prepare and offer
+- इंद्र (*iṃdra*)—O Indra, you
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—those who praise you
+- मृळय (*mṛḷaya*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who perform many deeds of daring, I prepare and offer to you the exhilarating Soma and many hymns of praise. O Indra, make happy those who praise you.
+
+##### English translation
+I prepare, Satakratu, your strong (Soma) and all your praises ; be gracious, Indra, to your hymners·
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रंभ॑द्रं न॒ आ भ॒रेष॒मूर्जं॑ शतक्रतो ।  
+> यदिं॑द्र मृ॒ळया॑सि नः ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रम्ऽभद्रम् । नः । आ । भर । इषम् । ऊर्जम् । शतक्रतो इति शतऽक्रतो ।  
+> यत् । इंद्र । मृळयासि । नः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो शतविधकर्मन् शतप्रज्ञ वा इंद्र भद्रंभद्रं कल्याणतममथ सुखोत्पादकं वा धनं नः अस्मभ्यम् आ भर आसंपादय देहि । तथा इषम् अन्नम् ऊर्जम् अन्नरसं यद्वा बलवदन्नं  च देहि । नः अस्मान् यत् यदि मृळयासि सुखयसि तर्हि तद्धनादिकं देहीति । ‘मृड सुखने'। ण्यंतस्य लेट्याडागमः ॥
+
+##### Gist of the bhāṣya
+
+O शतक्रतो (*śatakrato*) Indra, doer of a hundred kinds of deeds, or possessed of a hundred kinds of wisdom, bring to us, that is, procure and give, भद्रंभद्रं (*bhadraṃbhadraṃ*), the most auspicious wealth or wealth that produces happiness. Give also इषम् (*iṣam*), food, and ऊर्जम् (*ūrjam*), the juice of food, or else strengthening food. If you make us happy, मृळयासि (*mṛḷayāsi*), then give us that wealth and the rest.
+
+### Printed p. 387
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतकृतो (*śatakṛto*)—doer of many deeds of valour, or possessed of manifold knowledge
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—if
+- नः (*naḥ*)—us
+- मृळयासि (*mṛḷayāsi*)—you make happy
+- भद्रं भद्रं (*bhadraṃ bhadraṃ*)—wealth that is auspicious and pleasant
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring (and likewise)
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—juice, or strengthening food; give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many deeds, or possessed of manifold wisdom, if you have the wish to make us happy, bring to us auspicious and pleasant wealth and juice and juice. **NOTE**
+
+##### English translation
+Bring us what is most auspicious, Satakratu, (bring us) food and strength, if you have favour to us, Indra.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ विश्वा॒न्या भ॑र सुवि॒तानि॑ शतक्रतो ।  
+> यदिं॑द्र मृ॒ळया॑सि नः ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । विश्वानि । आ । भर । सुवितानि । शतक्रतो इति शतऽक्रतो ।  
+> यत् । इंद्र । मृळयासि । नः ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो इंद्र सः पूर्वोक्तलक्षणस्त्वं विश्वानि सर्वाणि सुवितानि । सुष्ठ्वीयते प्राप्यते येष्विति सुवितानि मंगलानि । सुपूर्वादेतेः क्ते प्रत्यये उवङादेशः । सर्वानभ्युदयान् नः अस्मभ्यमाहर । हे इंद्र यदि नः अस्मान् सुखयसि तर्हि धनादिसहितानभ्युदयान् देहीति ॥
+
+##### Gist of the bhāṣya
+
+O शतक्रतो (*śatakrato*) Indra, you, of the kind spoken of before, bring to us all सुवितानि (*suvitāni*), auspicious things, that is, those in which one is well led or reached; all blessings. O Indra, if you make us happy, then give blessings together with wealth and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतोः इंद्र (*śatakratoḥ iṃdra*)—O Indra, possessed of manifold wisdom
+- यत् (*yat*)—if
+- नः (*naḥ*)—us
+- मृळयासि (*mṛḷayāsi*)—you have the wish to make happy
+- सः (*saḥ*)—you, who are distinguished by the qualities spoken of before
+
+### Printed p. 388
+
+- विश्वानि (*viśvāni*)—all
+- सुवितानि (*suvitāni*)—blessings, or welfare
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of manifold wisdom, if you have the wish to make us happy, bring about for us all welfare.
+
+##### English translation
+Bring us all blessings, Satakratu, if you have favour to us, Indra.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद्वृ॑त्रहंतम सु॒तावं॑तो हवामहे ।  
+> यदिं॑द्र मृ॒ळया॑सि नः ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । इत् । वृत्रहन्ऽतम । सुतऽवंतः । हवामहे ।  
+> यत् । इंद्र । मृळयासि । नः ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतम अतिशयेन वृत्रस्यापामावरकस्य हंतरिंद्र सुतवंतः अभिषुतसोमवंतो वयम् । इदवधारणे' । त्वामित् त्वामेव हवामहे । अस्मद्यज्ञमागत्य सोमपानायाह्वयामः । हे इंद्र नः अस्मान् यदि सुखयसि तर्ह्याह्वयाम इति ॥ ॥ २६ ॥
+> व्यूळ्हस्य दशरात्रस्य षष्ठेऽहनि निष्केवल्ये ‘उप नो हरिभिः' इति तृचो निविद्धानीयः । सूत्रितं च --- अयं ह येन वा इदमुप नो हरिभिः सुतम् ' ( आश्व. श्रौ. ८. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+O वृत्रहंतम (*vṛtrahaṃtama*) Indra, extreme slayer of Vṛtra, the enclosure of the waters, we who have pressed Soma, सुतवंतः (*sutavaṃtaḥ*), invoke you alone, हवामहे (*havāmahe*): we call you to come to our sacrifice and drink Soma. O Indra, if you make us happy, then we call you. Use: on the sixth day of the Daśarātra called Vyūḷha, in the Niṣkevalya, the triplet beginning उप नो हरिभिः (*upa no haribhiḥ*) is the Nividdhānīya; and it is stated in the Sūtra: अयं ह येन वा इदमुप नो हरिभिः सुतम् (*ayaṃ ha yena vā idamupa no haribhiḥ sutam*) (Āśv. Śrau. 8. 8). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतमु (*vṛtrahaṃtamu*)—O Indra, who slew the demon Vṛtra
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—if
+- नः (*naḥ*)—us
+- मृळयासि (*mṛḷayāsi*)—you make happy
+- सुतवंते (*sutavaṃte*)—we who have pressed and made ready the Soma-juice
+- त्वामित् (*tvāmit*)—you alone
+- हवामुहे (*havāmuhe*)—we pray and invoke for the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of the demon Vṛtra, if you have the wish to make us happy, then we, who have pressed and made ready the Soma-juice to offer to you, pray to you alone in our sacrifice and invoke you for the drinking of Soma.
+
+### Printed p. 389
+
+##### English translation
+Bearing the effused libation, we invoke you, mighty slayer of Vritra if you have favour to us, Indra.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नो॒ हरि॑भिः सु॒तं या॒हि म॑दानां पते ।  
+> उप॑ नो॒ हरि॑भिः सु॒तम् ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । हरिऽभिः । सुतम् । याहि । मदानाम् । पते ।  
+> उप । नः । हरिऽभिः । सुतम् ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदानां पते । माद्यंतेऽनेनेति मदाः सोमाः। ‘मदोऽनुपसर्गे' इति करणेऽप्प्रत्ययः । सोमानां स्वामिन्निंद्र हरिभिः ‘आ शतेन हरिभिः' (ऋ. सं. २.१८.६ ) इत्यादिषु बहूनामश्वानां श्रुतेरत्रापि शतसहस्रसंख्याकैरश्वैः सह नः अस्माकं यज्ञे सुतम् अभिषुतं सोमम् उप याहि । तत्पानार्थं शीघ्रमायाहि । पुनः उप नः इत्यादरार्थः ॥
+
+##### Gist of the bhāṣya
+
+O मदानां पते (*madānāṃ pate*), lord of the Somas (the मदाः (*madāḥ*) are the Somas, because by them one is exhilarated), Indra: since many horses are heard of in passages such as आ शतेन हरिभिः (*ā śatena haribhiḥ*) (Ṛ. Saṃ. 2.18.6), here also come with hundreds and thousands of हरिभिः (*haribhiḥ*), horses, to the Soma pressed at our sacrifice; come quickly to drink it. The repetition उप नः (*upa naḥ*) is for respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदानां पते (*madānāṃ pate*)—O Indra, lord of the exhilarating Soma-juice
+- हरिभिः (*haribhiḥ*)—accompanied by many horses
+- नः (*naḥ*)—at our sacrifice
+- सुतं (*sutaṃ*)—with a view to the pressed Soma
+- उप याहि (*upa yāhi*)—be pleased to come
+- सुतं (*sutaṃ*)—for the drinking of the pressed Soma-juice
+- हरिभिः (*haribhiḥ*)—with your horses
+- नः उप (*naḥ upa*)—be pleased to come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of the exhilarating Soma-juice, be pleased to come to us, together with your many horses, for the drinking of the Soma-juice pressed and made ready at our sacrifice.
+
+### Printed p. 390
+
+##### English translation
+Come with your steeds to our effused libation, lord of the Soma,—come with your steeds to our effused libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the ten-day sacrifice called Vyūḷha, in the Niṣkevalya recitations, the three Ṛks beginning उप नो हरिभिः (*upa no haribhiḥ*) are to be recited as the निविद्धानीयतृच (*nividdhānīyatṛca*); this is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra अयं ह येन वा इदमुप नो हरिभिः सुतं (*ayaṃ ha yena vā idamupa no haribhiḥ sutaṃ*) (Ā. 8-5). **NOTE**
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वि॒ता यो वृ॑त्र॒हंत॑मो वि॒द इंद्रः॑ श॒तक्र॑तुः ।  
+> उप॑ नो॒ हरि॑भिः सु॒तम् ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विता । यः । वृत्रहन्ऽतमः । विदे । इंद्रः । शतऽक्रतुः ।  
+> उप । नः । हरिऽभिः । सुतम् ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रहंतमः अतिशयेन वृत्रस्य हंता शतक्रतुः नानाविधकर्मा यः इंद्रः द्विता द्विधा विदे वृत्रवधादावुग्रकर्मा जगद्रक्षणकाले शांतकर्मेति द्विप्रकारेण सर्वैर्ज्ञायते । विद ज्ञाने'। कर्मणि विहितस्य तप्रत्ययस्य लोपस्त आत्मनेपदेषु' इति तलोपः । स त्वं हरिभिः सह सुतं सोममुपयाहि ॥
+
+##### Gist of the bhāṣya
+
+Indra, extreme slayer of Vṛtra and doer of many kinds of deeds, is known in two ways, द्विता (*dvitā*), विदे (*vide*): by all he is known as fierce in action at the slaying of Vṛtra and the like, and as gentle in action at the time of protecting the world. Such as you are, come with your horses to the pressed Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतमः (*vṛtrahaṃtamaḥ*)—he who slew the demon Vṛtra
+- शतक्रतुः (*śatakratuḥ*)—and the doer of many deeds of daring
+- यः इंद्रः (*yaḥ iṃdraḥ*)—which Indra
+- द्विता (*dvitā*)—of two kinds, that is, the fierce action at the time of the slaying of Vṛtra and the like and the gentle action at the time of the protection of the world, both kinds of action
+- विदे (*vide*)—who has known (such an Indra)
+- नः (*naḥ*)—that concerns us
+- सुतं (*sutaṃ*)—looking to the pressed Soma
+- हरिभिः (*haribhiḥ*)—with his horses
+- उप (*upa*)—let him be pleased to come
+
+### Printed p. 391
+
+##### भावार्थ (Bhāvārtha)
+
+May that Indra, the slayer of the demon Vṛtra and doer of many kinds of deeds of daring, who knows that he must do cruel action at the time of the slaying of Vṛtra and the like and gentle action at the time of the protection of the world, be pleased to come to us with his horses, to drink the Soma that we have prepared.
+
+##### English translation
+Indra, Satakratu, mighty slayer of Vritra, you whose power is known in a two-fold way, come with your steeds to our effused libation.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि वृ॑त्रहन्नेषां पा॒ता सोमा॑ना॒मसि॑ ।  
+> उप॑ नो॒ हरि॑भिः सु॒तम् ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । हि । वृत्रऽहन् । एषाम् । पाता । सोमानाम् । असि ।  
+> उप । नः । हरिऽभिः । सुतम् ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्रस्य पापस्य वा हंतरिंद्र । हिशब्दो हेत्वर्थे। यस्मात् त्वम् एषाम् अस्मदीयानां सोमानां पाता पानकर्ता असि भवसि । एषाम् इति इदमोऽन्वादेशे अशोदेशोऽनुदात्तश्च । अतस्त्वम् अश्वैः सह सोमं पातुमुपयाहि आगच्छ ॥
+> व्यूळ्हस्य दशरात्रस्य नवमेऽहनि वैश्वदेवे अभिप्लवतृचस्य ‘इंद्र इषे ददातु नस्ते नो रत्नानि धत्तन' इति द्वे ऋचावार्भव्यौ । सूत्रितं च- इंद्र इषे ददातु नस्ते नो रत्नानि धत्तनेत्येका द्वे व (आश्व. श्रौ. ८. ११ ) इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of Vṛtra, or of sin: the word हि (*hi*) has the sense of cause. Because you are the drinker of these our Somas, therefore come with your horses to drink Soma. Use: on the ninth day of the Daśarātra called Vyūḷha, in the Vaiśvadeva, of the Abhiplava triplet, the two Ṛks इंद्र इषे ददातु नस्ते नो रत्नानि धत्तन (*iṃdra iṣe dadātu naste no ratnāni dhattana*) are Ārbhava; and it is stated in the Sūtra: इंद्र इषे ददातु नस्ते नो रत्नानि धत्तनेत्येका द्वे व (*iṃdra iṣe dadātu naste no ratnāni dhattanetyekā dve va*) (Āśv. Śrau. 8. 11).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of the demon Vṛtra, or remover of sin
+- हि (*hi*)—for what reason
+- त्वं (*tvaṃ*)—you
+- एषां (*eṣāṃ*)—which we have prepared
+- सोमानां (*somānāṃ*)—the Soma-juices
+- पाता (*pātā*)—as drinker
+- असि (*asi*)—you are, for that reason
+- नः सुतं (*naḥ sutaṃ*)—with a view to our Soma
+- हरिभिः (*haribhiḥ*)—with your horses
+- उप (*upa*)—be pleased to come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of the demon Vṛtra or remover of sin, you are the drinker of the Soma-juices that we have prepared for you. Therefore be pleased to come to us with your horses to drink that Soma-juice of ours.
+
 ---
 
-**Progress note:** Done through printed p. 385. Vol 25 Mandala 8 Sukta 93 rks 22 end to 27
+**Progress note:** Done through printed p. 391. Vol 25 Mandala 8 Sukta 93 rks 27 to 33
