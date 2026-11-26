@@ -653,6 +653,277 @@ part of the day Indra scatters his eager and well-armed (enemies), and defeats h
 
 The Indra in whom we have set praise, the wealthy one, fulfils our desired objects. The enemy of this Indra fears even while he is far away. May all the food-wealth produced in the country of the enemy people come under the sway of this Indra.
 
+### Printed p. 19
+
+##### English translation
+May the enemy of that Indra on whom we have laid our praise, the lord of affluence, who has granted us our desires, be in fear of him even when far off : may the food belonging to the country of the foe bow down before him (to enjoy)
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒राच्छत्रु॒मप॑ बाधस्व दू॒रमु॒गो यः शंबः॑ पुरुहूत॒  ॑
+> तेन ।  
+> अ॒स्मे धे॑हि॒ यव॑म॒ुद्योम॑दिंद्र कृ॒धी धियं॑ जरि॒त्रे वाज॑रत्नां
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आरात् । शत्रुं । अप । बाधस्व । दूरं । उग्रः । यः । शंबः । पुरुहूत । तेन ।  
+> अस्मे इति । धेहि । यवमत् । गोमत् । इंद्र । कृधि । धियं । जरित्रे । वाजरत्नां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र तव य उग्र उद्धूणः शंबो वज्रः ।
+> तथा च यास्कः । शंब इति वज्रनाम शमयतेर्वा शातयतेर्वा । नि ५-२४ । इति ।
+> तेन वज्रेण शत्रुमस्मदरिमारादस्मत्समीपाद्दूरमप बाधस्व । त्वमपगमयॆ । किंचास्मे अस्मासु यवमद्यवयुक्तं गोमद्गोयुक्तं च धनं धेहि । निधेहि । किंच
+> जरित्रे स्तोत्रे मह्यं राजरत्नां रमणीयान्नं धियं कर्म कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+"O Purūhūta, Indra, invoked by many, your fierce, terrible Śamba is the thunderbolt." Yāska says: शंब इति वज्रनाम शमयतेर्वा शातयतेर्वा । (*śaṃba iti vajranāma śamayatervā śātayatervā |*) (Ni. 5-24). With that thunderbolt drive the enemy far from us, away from our neighbourhood; make him go away. Further, place in us wealth that is rich in barley and rich in cattle. And for me, the worshipper who praises, accomplish the rite (धियं (*dhiyaṃ*)) together with delightful food (राजरत्नां (*rājaratnāṃ*) is so glossed).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—worthy of being invoked by many
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—which
+- उग्रः (*ugraḥ*)—of terrible power
+- शंबः (*śaṃbaḥ*)—thunderbolt-weapon there is
+- केन (*kena*)—with that **NOTE**
+- शत्रुं (*śatruṃ*)—the enemy
+- आरात् दूरं (*ārāt dūraṃ*)—far from us
+- अप बाधस्व (*apa bādhasva*)—strike and drive away
+- अस्मे (*asme*)—in us
+- यवमत् (*yavamat*)—endowed with barley
+- गोमत् (*gomat*)—endowed with cattle, the wealth
+- धेहि (*dhehi*)—establish
+- जरित्रे (*jaritre*)—to me, the praiser
+- वाजरत्नां (*vājaratnāṃ*)—delightful
+- धियं (*dhiyaṃ*)—the rite
+- कृधि (*kṛdhi*)—construct and give
+
+### Printed p. 20
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of being invoked by many, with the thunderbolt of terrible power that you have, drive the enemy far away from us. Establish in us wealth that is rich in barley-grain and rich in cattle. To me, the praiser, construct and give delightful food and the rite.
+
+##### English translation
+Invoked of many, (Indra), drive far away the enemy with that fierce thunderbolt of yours : grant to us, Indra, wealth of barley and cattle : render to the worshipper his sacrifice productive of pleasant food
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यमं॒तर्वृ॑षस॒वासो॒ अग्॑न्ती॒व्राः सोमा॑ बहु॒लांता॑स॒  ॑
+> इंद्रं ।  
+> नाह॑ दा॒मानं॑ म॒घवा॒ नि यं॑स॒न्नि सु॑न्व॒ते व॑हति॒ भूरि॑ वा॒मं
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यं । अंतः । वृषसवासः । अग्मन् । तीव्राः । सोमाः । बहुलअंतासः ।  
+> इंद्रं ।  
+> न । अह । दामानं । मघवा । नि । यंसत् । नि । सुन्वते । वहति । भूरि । पामं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंतॆर्जठरे यमिंद्रं वृषसवासो वृषसवा अग्नौ सोमस्य वर्षित्प्रभर्धर्युभिरभिषुतास्तीव्रास्तीव्ररसा बहुलांतासो बहुलमन्नादिकमंते येभ्यत्ते
+> बहुलांताः सोमाः प्राग्मन् प्रगच्छंति स मघवा धनवानिंद्रो दामानं दाकारं
+> यजमानं नाह नैव नि यंसत् । नियच्छति । किंतु सुन्वते सोमाभिषवं कुर्वते
+> यजमानाय भूर्यधिकं वामं वननीयं धनं नि वहति । निकरां प्रासयति ॥
+
+##### Gist of the bhāṣya
+
+The Indra into whose belly (अंतः (*aṃtaḥ*)) the Soma-juices have entered—pressed in the fire by the Adhvaryus, the showerers of Soma, sharp (strong in juice), and having abundant food at their end—that wealthy Indra does not restrain (नि यंसत् (*ni yaṃsat*)) the giver, the sacrificer. On the contrary, to the sacrificer who presses Soma he brings abundant, desirable wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषसवासः (*vṛṣasavāsaḥ*)—pressed by the Adhvaryus
+- तीक्ष्णाः (*tīkṣṇāḥ*)—intoxicating
+- बहुलांतासः (*bahulāṃtāsaḥ*)—having abundant food-juices
+- सोमाः (*somāḥ*)—the Soma-juices
+- यं इंद्रं (*yaṃ iṃdraṃ*)—which Indra
+
+### Printed p. 21
+
+- अंतः (*aṃtaḥ*)—inside the belly
+- प्र अग्मन् (*pra agman*)—have entered
+- मघवा (*maghavā*)—that same wealthy Indra
+- दामानं (*dāmānaṃ*)—the sacrificer
+- नाह नि यंसत् (*nāha ni yaṃsat*)—does not abandon
+- सुस्वते (*susvate*)—to the sacrificer
+- भूरि (*bhūri*)—abundant
+- वामं (*vāmaṃ*)—attractive wealth
+- नि वहति (*ni vahati*)—brings and provides
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices—pressed by the Adhvaryus, intoxicating, having abundant food-juices—enter the belly of Indra; that same wealthy Indra does not abandon the sacrificer. He brings and provides to the sacrificer abundant and attractive wealth.
+
+##### English translation
+The Indra into whom the sharp aboundānt Soma-juices cſfused by (the priests), the showerers (of the Soma), have entered : he, Maghavat, deserts not the donor of the sacrifice, but bestows ample wealth upon him who presents libations.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त प्र॒हाम॑त्ति॒दीव्या॑ जयाति कृ॒तं यच्छ्व॒घ्नी वि॑चि॒नोति॑ का॒ले  
+> यो दे॒वका॑मो॒ न धना॑ रुणद्धि॒ समित्तं रा॒या सृ॑जति स्व॒धावा॑न् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । प्रहां । अत्तिऽदीव्य । जयाति । कृतं । यत् । श्वघ्नी । विचिनोति । काले ।  
+> यः । देवकामः । न । धना । रुणद्धि । सं । इत् । तं । राया । सृजति । स्वधावान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उपापि चेंद्रः प्रहां प्रहंतारमतिदीव्य । अतिरभिपूजितार्थे वर्तते ।
+> दीवृतिर्गत्यर्थे । अभिपूजितं गमयित्वा जयाति । जयति । किंच यद्यथा । अत्र
+> प्रकारवचनप्रत्ययस्य लोपो द्रष्टव्यः । श्वघ्नी कितवः कृतं कृतसमयं प्रतिकितवं
+> किरवानां मध्यॆ विचिनोति परीक्ष्य गृह्णाति तद्वदिंद्रः काले युद्धकाले बलवंतं
+> शत्रुं परीक्ष्य वधार्थं गृह्णातीत्यर्थः । किंच । यो मनुष्यो देवकामो देवान्यष्टुं स्तोतुं वाभिलाषवान्भवति तस्यार्थाय धना धनानि न रुणद्धि । नावृगोति ।
+
+##### Gist of the bhāṣya
+
+Indra also, having driven away (*atidīvya*) the assailant (प्रहां (*prahāṃ*), the striker), conquers. अति (*ati*) is used in the sense of honoured; the root दीव् (*dīv*) is in the sense of going; having made the honoured one go, he conquers. Further, "as": here the affix of manner is to be seen as dropped. As a gambler (श्वघ्नी (*śvaghnī*)) selects from among the players the opponent with whom the कृत (*kṛta*) throw is agreed, examining and taking him, so Indra at the time of battle examines the strong enemy and takes him up for slaying. Further: the man who longs to worship or praise the gods does not obstruct (रुणद्धि (*ruṇaddhi*): does not cover) his riches for that purpose. On the contrary, powerful (स्वधावान् (*svadhāvān*)) Indra unites that god-loving man with wealth.
+
+### Printed p. 22
+
+> नाच्छादयतीत्यर्थः । किंतु स्वधावान्बलवानिंद्रस्तं देवकामं राया धनेन सं
+> सृजति । संयोजयत्येव ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- प्रहां (*prahāṃ*)—the enemy who falls upon (him)
+- अतिदीप्त्य (*atidīptya*)—having driven far away
+- जयाति (*jayāti*)—he conquers
+- यत् (*yat*)—in what manner
+- कृष्णी (*kṛṣṇī*)—the gambler (hunter) **NOTE**
+- कृतं (*kṛtaṃ*)—watching for the time
+- विचिनोति (*vicinoti*)—selects his opponent (animals etc.), as he does
+- काले (*kāle*)—at the time of battle (Indra too) selects and defeats the enemy
+- यः (*yaḥ*)—which sacrificer
+- देवकामः (*devakāmaḥ*)—being fond of the worship of the gods
+- धना (*dhanā*)—riches
+- न रुणद्रि (*na ruṇadri*)—does not cover up **NOTE**
+- तं (*taṃ*)—that devotee of the gods
+- स्वधावान् (*svadhāvān*)—Indra, endowed with power
+- राया (*rāyā*)—with wealth
+- सं सृजति (*saṃ sṛjati*)—unites
+
+##### भावार्थ (Bhāvārtha)
+
+Indra drives away the enemy who falls upon him and conquers. As a hunter lies in ambush and selects and strikes animals and the like, and as a gambler examines the time and selects his opponent, so Indra too at the time of battle selects the enemy and defeats him. The sacrificer who, being fond of the worship of the gods, does not cover up his riches—that devotee of the gods the powerful Indra unites with wealth.
+
+##### English translation
+Having driven away the assailant, he triumphs: at the time (of battle) he selects his antagonist as does a gambler, the man who, desirous of gratifying the gods, withholds not his riches, him the powerful Indra associates with wealth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न॒ क्षुधं॑ पुरुहूत॒ विश्वां॑।  
+> व॒यं राज॑भिः प्रथ॒मा धना॑न्य॒स्माके॑न वृ॒जने॑ना जयेम ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोभिः । तरेम । अमतिं । दुःएवां । यवेन । क्षुधं । पुरुहूत । विश्वां ।  
+> वयं । राजभिः । प्रथमाः । धनानि । अस्माकेन । वृजनेन । जयेम ॥ १० ॥
+
+### Printed p. 23
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र तव प्रसादाद्दुरेवां दुष्टागमनां
+> दारिद्रादागताममतिं दुर्बुद्धि वयं घौषेयाः सुहस्त्या गोभिः पशुभिस्तरेम ।
+> निस्तरेम । किंच यवेन विश्वां व्याप्तां क्षुधं तरेम । किंच प्रथमा मुख्यानि
+> धनानि राजभिर्धनानामीश्वरैः । लभेमहीति शेषः । यद्वा । प्रथमा वयमिति
+> संबंधः । किंचास्माकेनास्मदीयेन वृजनेन बलेन जयेम । शत्रुनिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"O Purūhūta, Indra, invoked by many, by your favour may we cross over the evil (दुरेवां (*durevāṃ*), of evil approach, come from poverty) ill-mindedness (अमतिं (*amatiṃ*)) with cattle." Further, may we cross over all-pervading hunger with barley. Further, may we obtain the first, chief riches through the kings, the lords of riches—"may we obtain" is to be supplied. Or else the connection is "we the first". Further, may we conquer by our own strength (वृजनेन (*vṛjanena*), strength); "the enemies" is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, called by many
+- दुरेवां (*durevāṃ*)—come from poverty
+- अमतिं (*amatiṃ*)—ill-mindedness
+- वयं (*vayaṃ*)—we
+- गोभिः (*gobhiḥ*)—with the help of our wealth of cattle
+- तरेम (*tarema*)—may we cross over
+- यवेन (*yavena*)—with the help of barley-grain
+- विश्वां (*viśvāṃ*)—which surrounds us
+- क्षुधं (*kṣudhaṃ*)—may we cross over hunger
+- प्रथमाः (*prathamāḥ*)—very chief
+- धनानि (*dhanāni*)—riches
+- राजभिः (*rājabhiḥ*)—through the lords of wealth (may we obtain)
+- अस्माकेन (*asmākena*)—our
+- वृजनेन (*vṛjanena*)—by strength
+- जयेम (*jayema*)—may we conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are called by many, may we cross over, with our wealth of cattle, the ill-mindedness that has come from poverty. May we put an end, with the help of barley-grain, to the hunger that surrounds us. May we obtain the chief riches from the wealthy. May we conquer the enemies by our strength.
+
+##### English translation
+Indra, invoked of many, may we escape all ignorance caused by poverty by means of our cattle : (may we escape) all hunger by means of our barley : (may we acquire) the chief riches through the princes (of wealth) : may we conquer by our valour.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
+> इंद्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु
+
+### Printed p. 24
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । नः । परि । पातु । पश्चात् । उत । उत्तरस्मात् । अधरात् । अघयोः ॥  
+> इंद्रः । पुरस्तात् । उत । मध्यतः । नः । सखा । सखिभ्यः । वरिवः । कृणोतु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पश्चात्पश्चिमतो योऽघायुरागच्छति तस्मादघायोः पापकाच्छत्रोर्नोs-
+> sस्मान्स्पृहस्पतिः परि पातु । रक्षतु । उतापि चोत्तरस्मादुत्तरतोऽधरादधस्ताच्च
+> योऽघायुरागच्छति तस्मादघायोर्नोऽस्मान्सरि पातु । उतापि चेंद्रः पुरस्तातूर्वतोमध्यतश्च योऽघायुरागच्छति तस्मादघायोर्नोऽस्मान्सरि पातु । किंच ।
+> सखा सखीभूतेंद्रः सखिभ्यः प्रियेभ्योऽस्मभ्यं वरिवो धनं कृणोतु । करोतु ॥
+
+##### Gist of the bhāṣya
+
+From the malicious foe (अघायोः (*aghāyoḥ*)) who comes from behind, from the west, may Bṛhaspati protect us all around. And from the malicious foe who comes from the north and from below, may he protect us. Also may Indra protect us from the malicious foe who comes from the front, from the east, and from the middle. Further, may Indra, the friend, bestow wealth (वरिवः (*varivaḥ*)) on us, his dear friends.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- पश्चात् (*paścāt*)—from behind us
+- अघायोः (*aghāyoḥ*)—from the enemy who wishes evil
+- नः (*naḥ*)—us
+- परि पातु (*pari pātu*)—may he protect
+- उत (*uta*)—and
+- उत्तरस्मात् (*uttarasmāt*)—from above us
+- अधरात् (*adharāt*)—from below; may he protect us from the enemies who fall upon us
+- उत (*uta*)—and
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुरस्तात् (*purastāt*)—from the east
+- मध्यतः (*madhyataḥ*)—from the middle
+- नः (*naḥ*)—may he protect us
+- सखा (*sakhā*)—Indra, the friend
+- सखिभ्यः (*sakhibhyaḥ*)—to us, his friends
+- वरिदः (*varidaḥ*)—wealth
+- कृणोतु (*kṛṇotu*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May Bṛhaspati protect us from the enemy who comes from behind us and wishes us evil. May he protect us also from the enemies who fall upon us from above and from below. May Indra protect us from the east and from the middle. May Indra, the friend, provide wealth to us, his friends.
+
+##### English translation
+May Brihaspati defend us from a malignant (foe) coming from be-
+hind; from above or from below may Indra defend us from foes in front
+and in the middle; may he, our friend bestow wealth upon (us) his friends
+
 ---
 
-**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
+**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
