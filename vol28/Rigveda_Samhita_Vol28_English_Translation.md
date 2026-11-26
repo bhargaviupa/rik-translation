@@ -15840,6 +15840,279 @@ prepare for you such worship as may bear us safe beyond iniquity for our well-be
 - येभ्यः (*yebhyaḥ*)—addressing which of you
 - होत्रां (*hotrāṃ*)—the sacrifice
 
+### Printed p. 470
+Pratipadārtha (continued from the previous page):
+- वन्नु (*vannu*)—(the sacrifice)
+- आयेजे (*āyeje*)—offered; such as
+- ते (*te*)—you
+- नः (*naḥ*)—to us
+- अभयं (*abhayaṃ*)—fearlessness
+- शर्म (*śarma*)—and happiness
+- यच्छत (*yacchata*)—grant
+- नः (*naḥ*)—our
+- स्वस्तये (*svastaye*)—for welfare
+- सुपथा (*supathā*)—good Vedic paths
+- सुगा (*sugā*)—easy to travel
+- कर्त (*karta*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Adityas, sons of Aditi, you to whom Manu, having made the fire blaze with oblations, then with meditation and together with the seven Hotṛs, offered the sacrifice: grant us fearlessness and happiness. For our welfare, make the good Vedic paths easy to travel (so that we may follow them).
+
+##### English translation
+Adityas, to whom Manu, having kindled the fire, offered the first sacrifice with (reverent) mind, (aided) by the seven ministrant priests, bestow upon us prosperity, free from peril; provide for us pleasant paths easy to travel for our well-being.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matter of the seven Hotṛs is explained in Ṛ. Saṃ. Part 15, page 693.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ईशि॑रे॒ भुव॑नस्य॒ प्रचे॑तसो॒ विश्व॑स्य स्था॒तुर्जग॑तश्च॒ मंत॑वः ।  
+> ते नः॑ कृ॒तादकृ॑ता॒देन॑स॒स्पर्य॒द्या दे॑वासः पिपृता स्व॒स्तये॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ईशिरे । भुवनस्य । प्रचेतसः । विश्वस्य । स्थातुः । जगतः । च । मंतवः ।  
+> ते । नः । कृतात् । अकृतात् । एनसः । परि । आद्य । देवासः । पिपृत । स्वस्तये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रचेतसः प्रकृष्टज्ञाना मंतवः सर्वस्य वेदितारो ये देवाः स्थातुः स्थापरस्य जगतो जंगमस्य विश्वस्य सर्वस्य भुवनस्य लोकस्येशिरे ईश्वरा भवंति। अथ प्रत्यक्षकृतः । हे देवासो देवाः य उक्तगुणास्ते यूयं नोऽस्मान्कृतात्कायिकात्पा-
+
+##### Gist of the bhāṣya
+
+The gods who are far-knowing (प्रचेतसः (*pracetasaḥ*)) and all-knowing (मंतवः (*maṃtavaḥ*)) are lords of the whole world, of the immovable and the moving. Addressing them directly: O gods, you who have these qualities, from sin committed (by the body)….
+
+### Printed p. 471
+
+> पात् अकृतात्करचरणादिभिरकृतादेनसः किंतु मानसात्पापाच्चाद्यास्मिन्निने स्वस्तयेऽविनाशायायुषोऽभिवृद्धये पिपृत । पारयत पापरहितान्कुरुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+…from sin committed, and from sin not committed by hands, feet and the like, but mental sin; today, for our welfare, i.e. for non-destruction and the increase of life, carry us across (पिपृत (*pipṛta*)), that is, make us free from sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसः (*pracetasaḥ*)—possessed of excellent knowledge
+- मंतवः (*maṃtavaḥ*)—knowers of all
+- देवासः (*devāsaḥ*)—O gods
+- ये (*ye*)—you who
+- स्थातुः (*sthātuḥ*)—of the immovable
+- जगतः (*jagataḥ*)—and the moving
+- विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of the entire world
+- ईशिरे (*īśire*)—are lords; such
+- ते (*te*)—you
+- नः (*naḥ*)—us
+- कृतात् (*kṛtāt*)—from what we have done
+- अकृतात् (*akṛtāt*)—and what is not done with the hands and the like
+- एनसः परि (*enasaḥ pari*)—from sin
+- अद्य (*adya*)—today
+- स्वस्तये (*svastaye*)—for our good
+- पिपृत (*pipṛta*)—carry across
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, of excellent knowledge and knowing all, you who are lords of the entire world, immovable and moving: release us from all our sins. Bring about our welfare.
+
+##### English translation
+May the wise and omniscient deities, who rule over the whole world both stationery aud moveable, deliver us to-day from committed and uncommitted sin, for our well-being.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भरे॒ष्टिंद्रं॑ सु॒हनं॑ हवामहेऽंहो॒मुचं॑ सु॒कृतं॒ दैव्यं॒  ॑
+> जनं ।  
+> अ॒ग्निं मि॒त्रं वरु॑णं सा॒तये॒ भगं॒ द्यावा॑पृथि॒वी म॒रुतः॑  ॒॑
+> स्वस्तये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भरेषु । इंद्रं । सुहवं । हवामहे । अंहःमुचं । सुकृतं । दैव्यं । जनं ।  
+> अग्निं । मित्रं । वरुणं । सातये । भगं । द्यावापृथिवी इति । मरुतः । स्वस्तये ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंहोमुचमंहसः पापस्य मोचकं सुहवं शोभनाह्वानमिंद्रं भरेषु ।
+> भृणंति भर्जऋंति विनाशयंति शत्रूनत्रेति भराः संग्रामाः । तेषु हवामहे । रक्ष-
+
+##### Gist of the bhāṣya
+
+We call upon Indra, the liberator from sin (अंहोमुचं (*aṃhomucaṃ*)), well-invoked (सुहवं (*suhavaṃ*)), in the भरेषु (*bhareṣu*): bharas are battles, since in them (people) destroy enemies. In them we call him for protection…
+
+### Printed p. 472
+
+> णायाह्वयामः । किंच सुकृतं सुकर्माणं दैव्यं देवसंबंधिनमन्यं जनं चाह्वयामहे । तं जनमुद्दिशति । अग्निं मित्रं वरुणं भगं भजनीयमेतन्नामानं
+> देवं द्यावापृथिवी द्यावापृथिव्य मरुतश्च सातयेऽन्नलाभाय स्वस्तयेऽविनाशाय रक्षणायाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+…for protection. Further, we call also another person who is of good deeds and belongs to the gods (दैव्यं जनं (*daivyaṃ janaṃ*)); he points to that group: Agni, Mitra, Varuṇa, Bhaga (the adorable god so named), Heaven and Earth, and the Maruts; we call them for the gaining of food (सातये (*sātaye*)) and for welfare, i.e. non-destruction and protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंहोमुचं (*aṃhomucaṃ*)—the one who releases from sin
+- सुहवं (*suhavaṃ*)—worthy of excellent invocation
+- इंद्रं (*iṃdraṃ*)—Indra
+- भरेषु (*bhareṣu*)—in battles
+- हवामहे (*havāmahe*)—we call for help
+- सुकृतं (*sukṛtaṃ*)—the doer of excellent deeds
+- दैव्यं जनं (*daivyaṃ janaṃ*)—belonging to the group of gods
+- अग्निं (*agniṃ*)—Agni
+- मित्रं (*mitraṃ*)—Mitra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- भगं (*bhagaṃ*)—Bhaga
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- मरुतः (*marutaḥ*)—the Maruts
+- सातये (*sātaye*)—for the gaining of food
+- स्वस्तये (*svastaye*)—for our welfare we call
+
+##### भावार्थ (Bhāvārtha)
+
+We call in battles for help Indra, who releases from sin and is worthy of excellent invocation. Agni, Mitra, Varuṇa, Bhaga, Heaven and Earth and the Maruts, who are doers of excellent deeds and belong to the company of the gods, we too call with prayer for the gaining of food and for our welfare.
+
+##### English translation
+We call in battles upon the well-invoked Indra, the liberator from sin, and upon the virtuous folk of heaven, Agni, Mitra, Varuna, Bhaga, Heaven and Earth, the Maruts, for the acquisition (of food), for well-being.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिं ।  
+> दैवीं॒ नावं॑ स्वरि॒त्रामना॑गस॒मस्र॑वंती॒मा रु॑हेमा स्व॒स्तये॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुत्रामाणं । पृथिवीं । द्यां । अनेहसं । सुशर्माणं । आदितिं । सुप्रनीतिं ।  
+> दैवीं । नावं । सुअरित्रां । अनागसं । अस्रवंतीं । आ । रुहेम । स्वस्तये ॥ १० ॥
+
+### Printed p. 473
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितिदेवताकस्य पशोः सुत्रामाणमित्येषा वपायागस्य याज्या । सूत्रितं
+> च । अदितिर्ह्यजनिष्ट सुत्रामाणं पृथिवीं द्यामनेहसं । आ-३-८ । इति ॥ प्रायणीयेष्वावादित्यस्य हविष एष्यॆवानुवाक्या सैवोदयनीयाया याज्या । सूत्रितं च ।
+> सुत्रामाणं पृथिवीं द्यामनेहसं महीमू षु मातरं सुव्रतानां । आ-४-३ । इति ॥
+> प्रयाणेऽनय्यन नावमारोहेत् । सूत्रितं च । सुत्रामाणं पृथिवीं द्यामनेहसमिति नावं । आ.गृ.२-६-८। इति ॥
+> द्युलोको नौरूपकतया स्सूयते । सुत्रामाणं सुष्टु त्रायंतीं
+> पृथिवीं विस्त्रतामनेहसं पापरहितां सुशर्माणं शोभनसुखयुक्तामदितिमदीनां
+> सुप्रणीतिं सुप्रणयनां सुष्टु प्रणेत्रि दैवीं देवसंबंधिनीं स्वरित्रां शोभनारित्रां जलाहरणशीलदारुयुक्तामनागसं पापरहितामस्रवंतीमगच्छंतीमविनश्वरीं नावं नावमिव स्थितां द्यां स्वस्तयेऽविनाशाय देवत्वप्राप्त्यय आ रुहेम ।
+> वयमारोहेम ॥ रोहतेर्लिजि लिज्याशिष्यज्जित्यज् प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk सुत्रामाणं (*sutrāmāṇaṃ*) is the yājyā of the vapā offering in the animal sacrifice to Aditi; it is stated in the sūtra: अदितिर्ह्यजनिष्ट सुत्रामाणं पृथिवीं द्यामनेहसं (*aditirhyajaniṣṭa sutrāmāṇaṃ pṛthivīṃ dyāmanehasaṃ*) (Ā. 3-8). In the Prāyaṇīya offerings, for the oblation to Āditya, this is the anuvākyā, and the same is the yājyā of the Udayanīya; stated in the sūtra सुत्रामाणं पृथिवीं द्यामनेहसं महीमू षु मातरं सुव्रतानां (*sutrāmāṇaṃ pṛthivīṃ dyāmanehasaṃ mahīmū ṣu mātaraṃ suvratānāṃ*) (Ā. 4-3). On a journey one should board a boat with it; stated in सुत्रामाणं पृथिवीं द्यामनेहसमिति नावं (*sutrāmāṇaṃ pṛthivīṃ dyāmanehasamiti nāvaṃ*) (Ā. Gṛ. 2-6-8).
+The heaven-world is praised in the form of a boat. सुत्रामाणं (*sutrāmāṇaṃ*): one that protects well; पृथिवीं (*pṛthivīṃ*): the vast one; अनेहसं (*anehasaṃ*): free from sin; सुशर्माणं (*suśarmāṇaṃ*): possessed of excellent happiness; अदितिं (*aditiṃ*): the undiminished; सुप्रणीतिं (*supraṇītiṃ*): the good leader; दैवीं (*daivīṃ*): belonging to the gods; स्वरित्रां (*svaritrāṃ*): with good oars, furnished with wood for drawing water; अनागसं (*anāgasaṃ*): sinless; अस्रवंतीं (*asravaṃtīṃ*): not leaking, not perishing; नावं (*nāvaṃ*): standing as a boat. We would board heaven for welfare, that is non-destruction and the attainment of divinity (आ रुहेम (*ā ruhema*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुत्रामाणं (*sutrāmāṇaṃ*)—easily protected
+- प्रथिवीं (*prathivīṃ*)—vast
+- अनेहसं (*anehasaṃ*)—free from sin
+- सुशर्माणं (*suśarmāṇaṃ*)—possessed of excellent happiness
+- अनागसं (*anāgasaṃ*)—free from fault
+- अदितिं (*aditiṃ*)—undivided
+- सुप्रणीतिं (*supraṇītiṃ*)—a good guide
+- दैवीं (*daivīṃ*)—belonging to the gods
+- स्वरित्रं (*svaritraṃ*)—having excellent oars
+- अस्रवंतीं (*asravaṃtīṃ*)—indestructible
+- नावं (*nāvaṃ*)—carrying across like a boat
+- द्यां (*dyāṃ*)—the heaven-world
+- स्वस्तये (*svastaye*)—for our welfare
+- आ रुहेम (*ā ruhema*)—let us ascend
+
+##### भावार्थ (Bhāvārtha)
+
+Let us ascend, for our welfare, the heaven-world, which is easily protected, vast, free from sin, giver of excellent happiness, faultless, undivided, a good guide, belonging to the gods, with excellent oars, indestructible, and carrying across like a boat.
+
+##### English translation
+May we for our well-being ascend the well-oared, defectless, unyielding, divine vessel, the safe-sheltering expansive heaven, exempt from evil, replete with happieess, exalted and right-directing.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice made to the deity Aditi, when the vapā offering is made, this Ṛk सुत्रामाणं (*sutrāmāṇaṃ*) is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrautasūtra—
+
+### Printed p. 474
+अदितिर्ह्यजनिष्ट सुत्रामाणं पृथिवीं द्यामनेहसं (*aditirhyajaniṣṭa sutrāmāṇaṃ pṛthivīṃ dyāmanehasaṃ*) (Ā. 3-8). In the Prāyaṇīya offering, in the oblation made to Āditya, this Ṛk is to be recited as anuvākyā, and in the Udayanīya offering as yājyā, as explained by the sūtra of the Āśvalāyana Śrautasūtra सुत्रामाणं पृथिवीं द्यामनेहसं महीमू षु मातरं सुव्रतानां (*sutrāmāṇaṃ pṛthivīṃ dyāmanehasaṃ mahīmū ṣu mātaraṃ suvratānāṃ*) (Ā. 4-3). At the time of a journey, when crossing a river met on the way, one should recite this Ṛk and board the boat, as explained by the sūtra of the Āśvalāyana Gṛhyasūtra सुत्रामाणं पृथिवीं द्यामनेहसमिति नावं (*sutrāmāṇaṃ pṛthivīṃ dyāmanehasamiti nāvaṃ*) (Ā. Gṛ. 2-6-8).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ यजत्रा॒ अधि॑ वोचतो॒तये॒ त्राय॑ध्वं नो दु॒रेवा॑या अभि॒ह्रुतः॑ ।  
+> स॒त्यया॑ वो दे॒वहू॑त्या हुवेम शृण्व॒तो दे॑वा॒ अव॑से  ॒॑
+> स्तस्तये ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । यजत्राः । अधि । वोचत । ऊतये । त्रायध्वं । नः । दुःखिवायाः । अभिह्रुतः ।  
+> सत्यया । वः । देवहूत्या । हुवेम । शृण्वतः । देवाः । अवसे । स्वस्तये ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजत्रा यजनीया हे विश्वे सर्वॆ देवाः यूयमूतये रक्षणार्थमधि वोचत। अस्मानधिब्रूत । अभाष्य चाभिह्रुतोऽभिहिंसित्रा दुरेवाया दुर्गतेर्नोऽस्मांस्त्रात्रायध्वं । यद्येवं कुरुथ तर्हि हे देवाः शृण्वतः स्तोत्राण्यस्माभिरुक्तानि तादृशान्वो युष्मान् सत्यया यथार्थभूतया देवहूत्या । देवा
+> हूयंतेऽनयेति देवहूतिः स्तुतिः । तया वयं हुवेम । आह्वयेम । किमर्थ० ।
+> अवसे रक्षणाय शत्रुभ्यः स्वस्तये क्षेमाय जीवनाभिवृद्धये च ॥
+
+##### Gist of the bhāṣya
+
+O adorable (यजत्रा (*yajatrā*)) all-gods, speak for us (अधि वोचत (*adhi vocata*)) for our protection (ऊतये (*ūtaye*)), and protect us from the evil course (दुरेवायाः (*durevāyāḥ*)) that afflicts us (अभिह्रुतः (*abhihrutaḥ*): the one who injures). If you do so, then, O gods who listen to the praises we have uttered, we would invoke you with a true (सत्यया (*satyayā*)) invocation of gods (देवहूत्या (*devahūtyā*): that by which gods are called, i.e. praise), for protection from enemies and for welfare (स्वस्तये (*svastaye*)), i.e. well-being and increase of life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्रा: (*yajatrā:*)—venerable
+- विश्वे (*viśve*)—O all gods
+- ऊतये (*ūtaye*)—for our protection
+- अधि वोचत (*adhi vocata*)—speak in our favour with graciously inclined praise
+- अभि ह्रुतः (*abhi hrutaḥ*)—(from) that which injures us
+
+### Printed p. 475
+- दुरेवायाः (*durevāyāḥ*)—from the evil power
+- नः (*naḥ*)—us
+- त्रायध्वं (*trāyadhvaṃ*)—protect
+- देवाः (*devāḥ*)—O gods
+- शृण्वतः (*śṛṇvataḥ*)—who hear our praises
+- वः (*vaḥ*)—you
+- सत्यया (*satyayā*)—with a true
+- देवहूत्या (*devahūtyā*)—praise that extols the gods
+- अवसे (*avase*)—for our protection
+- स्वस्तये (*svastaye*)—for our welfare
+- हुवेम (*huvema*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O venerable gods, for our protection speak in our favour with graciously inclined praise. Protect us from the evil power that afflicts us. O gods who hear our praises, we call upon you with a true praise that extols the gods, for our protection and our welfare.
+
+##### English translation
+Adorable, universal gods, advocate our cause for our protection ; preserve us from malignant adversity, may we with sincere invocation invoke you, gods, who listen (to our praise) for our protection, for our well-being-
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपामी॑वा॒मप॒ विश्वा॒मना॑हुति॒मपारा॑तिं दुर्वि॒दत्रा॑मघाय॒तः ।  
+> आ॒रे दे॑वा॒ द्वेषो॑ अ॒स्मद्यु॑योतनो॒रु णः॒ शर्म॑ यच्छता  ॒॑
+> स्वस्तये ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ह । अमीवां । अप । विश्वां । अनाहुतिं । अप । अरातिं । दुःविदत्रां । अघयतः ।  
+> रे । देवाः । द्वेषः । अस्मत् । युयोतन । उरु । नः । शर्म । यच्छत । स्वस्तये॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः अमीवां रोगादिकं यद्वा रोगवद्भाधकं शत्रुमस्मत्तो
+> दूरेऽप कुरुत । पृथक्कुरुत । तथा विश्वां सर्वामनाहुतिं देवानामनाह्वानबुद्धिं
+> यद्वा देवानां महाशत्रुं पृथक्कुरुत । किंचारातिमदानं लोभबुद्धिं यद्वा
+> देवेभ्यो हविषामदाकारं शत्रुमप गमयत । अपि चाघायतः पापमिच्छतः
+
+##### Gist of the bhāṣya
+
+O gods, put far from us (*apa kuruta*, separate) the disease (अमीवां (*amīvāṃ*)) and the like, or the enemy who afflicts like disease. Likewise separate all (विश्वां (*viśvāṃ*)) the अनाहुतिं (*anāhutiṃ*), the thought of not invoking the gods, or the great enemy of the gods. Further, drive away the अरातिं (*arātiṃ*), the non-giving, the miserly thought, or the enemy who is of the nature of not giving oblations to the gods. And also (the one) who desires evil (अघयतः (*aghayataḥ*))…
+
 ---
 
-**Progress note:** Done through printed p. 469. pp. 464-469 (batch API)
+**Progress note:** Done through printed p. 475. pp. 470-475 (batch API)
