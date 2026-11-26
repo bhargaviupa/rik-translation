@@ -2538,6 +2538,153 @@ In Tai. Brā. 1-1-10 Sāyaṇa has given the purport of Pavamāna as self-pure, 
 
 The order of offering oblations to Agni of these three forms, the requirement that this offering correspond to the nature of the respective original forms, and the fruit of each offering are stated in the Śatapatha-brāhmaṇa in this way. Here, a description of the prescribed order of offering the oblation is not relevant.
 
+### Printed p. 73
+The chief purpose is to examine what account this injunction gives of the fundamental forms of Agni.
+
+स ना अग्नये पवमानाय निर्वपति । प्राणो वै पवमानः प्राणमेवास्मिन्नेतद्दधाति । तद्वेतयैवास्मिंस्तद्दधाति अन्नग्ं हि प्राणोऽन्नमेषाहुतिः ॥ (*sa nā agnaye pavamānāya nirvapati | prāṇo vai pavamānaḥ prāṇamevāsminnetaddadhāti | tadvetayaivāsmiṃstaddadhāti annagṃ hi prāṇo 'nnameṣāhutiḥ ‖*) (Śa. Brā. 2-2-16)
+
+Agni as Pavamāna is of the nature of the vital breath. By offering the oblation to Agni Pavamāna, the breath is, as it were, established in the sacrificer. Food is the support of the breath and is of the nature of the breath. Therefore by offering this oblation he establishes the breath.
+
+अथाग्नये पावकाय निर्वपति । अन्नं वै पावकमन्नमेवास्मिन्नेतद्दधाति तद्वेतय्यैवास्मिंस्तद्दधात्येषाह्येव प्रत्यक्षमन्नमाहुतिः ॥ (*athāgnaye pāvakāya nirvapati | annaṃ vai pāvakamannamevāsminnetaddadhāti tadvetayyaivāsmiṃstaddadhātyeṣāhyeva pratyakṣamannamāhutiḥ ‖*) (Śa. Brā. 2-2-1-7)
+
+Next he offers the oblation to Agni Pāvaka, the purifier. Food is what purifies. By offering this oblation, food is, as it were, established in the sacrificer. This purifying food he establishes through this oblation.
+
+अथाग्नये शुचये निर्वपति । वीर्यं वै शुचि यद्वा अस्यैतदुज्वलत्येतदस्य वीर्यग्ं शुचि वीर्यमेवास्मिन्नेतद्दधाति . . . . . अथास्येतद्वीर्यग्ं शुच्युज्वलति ॥ (*athāgnaye śucaye nirvapati | vīryaṃ vai śuci yadvā asyaitadujvalatyetadasya vīryagṃ śuci vīryamevāsminnetaddadhāti . . . . . athāsyetadvīryagṃ śucyujvalati ‖*) (Śa. Brā. 2-2-1-8)
+
+Next he offers the oblation to Agni Śuci. Since the shining Agni Śuci is of the nature of vigour, as a result of offering this oblation vigour is, as it were, established in the sacrificer.
+
+Such injunctions make known the three forms of Agni, namely Pavamāna-hood, Pāvaka-hood and Śuci-hood, and the fruits that accrue to the sacrificer by worshipping these forms.
+
+अग्निर्ह यत्र देवेभ्यो मनुष्यानभ्युपाववर्त तद्धीक्षांचक्रे मृष सर्वे एवात्मना मनुष्यानभ्युपावृतमिति । (*agnirha yatra devebhyo manuṣyānabhyupāvavarta taddhīkṣāṃcakre mṛṣa sarve evātmanā manuṣyānabhyupāvṛtamiti |*) (Śa. Brā. 2-2-1-13)
+
+When Agni, from the company of the gods, came to join men, he thought: "I cannot go with my complete form."
+
+### Printed p. 74
+स एतास्ति स्रस्तनूरेषु लोकेषु विन्यधत्त । यदस्य पवमानग्ं रूपमासीत्तदस्यां पृथिव्यां न्यधत्ताथ यत्पावकं तदंतरिक्षेऽथ यच्चुचि तद्दिवि तद्वा ऋषयः प्रतिबुबुधिरे य उ तह्यृषय आसुरसर्वेण वै न आत्मनाग्निरभ्युपावृतदिति तस्मा एतानि हवीगंषि निरवपन् ॥ (*sa etāsti srastanūreṣu lokeṣu vinyadhatta | yadasya pavamānagṃ rūpamāsīttadasyāṃ pṛthivyāṃ nyadhattātha yatpāvakaṃ tadaṃtarikṣe 'tha yaccuci taddivi tadvā ṛṣayaḥ pratibubudhire ya u tahyṛṣaya āsurasarveṇa vai na ātmanāgnirabhyupāvṛtaditi tasmā etāni havīgaṃṣi niravapan ‖*) (Śa. Brā. 2-2-1-14)
+
+Then Agni established his three forms in the three worlds: the Pavamāna form in the earth, the purifying Pāvaka form in the atmosphere, and the shining Śuci form in the heavenly world. The sages of that time, understanding this division of Agni and thinking, "Agni has not come to us in his complete form," realised the necessity of offering this full oblation.
+
+स यदग्नये पवमानाय निर्वपति । यदेवास्यास्यां पृथिव्याग्ं रूपं तदेवास्यैतेनाप्नोत्यथ यदग्नये पावकाय निर्वपति यदेवास्यांतरिक्षे रूपं तदेवास्यैतेनाप्नोत्यथ यदग्नये शुचये निर्वपति यदेवास्य दिवि रूपं तदेवास्यैतेनाप्नोत्येवमु कृत्स्नमेवाग्निमनपनिहितमादत्ते तस्मादु निर्वपेदेवोत्तराणि हवीग्ंषि ॥ ( (*sa yadagnaye pavamānāya nirvapati | yadevāsyāsyāṃ pṛthivyāgṃ rūpaṃ tadevāsyaitenāpnotyatha yadagnaye pāvakāya nirvapati yadevāsyāṃtarikṣe rūpaṃ tadevāsyaitenāpnotyatha yadagnaye śucaye nirvapati yadevāsya divi rūpaṃ tadevāsyaitenāpnotyevamu kṛtsnamevāgnimanapanihitamādatte tasmādu nirvapedevottarāṇi havīgṃṣi ‖ (*) (Śa. Brā. 2-2-1-15)
+
+In the same way, when they offered the oblation, they learned its fruit. If one offers the oblation to Agni Pavamāna, he obtains the form of Agni that is established in the earth. If one offers the oblation to Agni Pāvaka, the sacrificer obtains the form of Agni that pervades the atmosphere. If one offers the oblation to Agni Śuci, he obtains the form of Agni that is in the heavenly world. In this way he obtains the form of Agni in his complete, unimpaired form. Therefore this full oblation is to be offered; thus the greatness of the three forms of Agni is praised.
+
+Thus the lords of these worlds who shine in all three worlds are described as Sūrya, Indra (Vāyu) and Agni in one context; as Agni Pavamāna, Agni Pāvaka and Agni Śuci in another; and as Vaiśvānara, Jātavedas and the earthly Agni in yet another: in each case three different forms of a single principle.
+
+अयं प्रयोगस्त्वतेषां ज्योतिषां त्रिषु वर्ततां । लोकेषु मंत्रविद्विद्यान् प्रयोगे नावसीदति ॥ (*ayaṃ prayogastvateṣāṃ jyotiṣāṃ triṣu vartatāṃ | lokeṣu maṃtravidvidyān prayoge nāvasīdati ‖*) (Bṛ. De. 1-90)
+
+### Printed p. 75
+Knowing how the three luminous forms rest in the three worlds, one should offer oblations and the like in accordance with the respective forms. The wise man, knowing this, does not act contrary to it.
+
+नियतेऽयं नृभिर्यस्मान्न यत्यस्मादसौ च तं । तेनेमौ चक्रतुः कर्म सनामानौ पृथक् पृथक् ॥ (*niyate 'yaṃ nṛbhiryasmānna yatyasmādasau ca taṃ | tenemau cakratuḥ karma sanāmānau pṛthak pṛthak ‖*) (Bṛ. De. 1-91)
+
+This earthly Agni is impelled by men. The Agni of the heavenly world leads him away from the earth. Thus, although both have the same name, the work of each is different.
+
+यद्विद्यते हि जातः सञ्जातैर्यद्वात्र विद्यते । तेनेमौ तुल्यनामानौ उभौ लोकौ समाप्नुतः ॥ (*yadvidyate hi jātaḥ sañjātairyadvātra vidyate | tenemau tulyanāmānau ubhau lokau samāpnutaḥ ‖*) (Bṛ. De. 1-92)
+
+Because he knows everything at the very moment of birth, and because he is known by the creatures that are born, these two forms, though they have the same name, pervade the two worlds. (The nature of Agni in the form of Jātavedas is explained in the 8th part of the Ṛ. Saṃ.)
+
+विसृजन्नयमेतेषां भ्राजते व्योम्मि मध्यमः । निपातमात्रे कथ्यंते तथाग्नेयानि कानिचित् ॥ (*visṛjannayameteṣāṃ bhrājate vyommi madhyamaḥ | nipātamātre kathyaṃte tathāgneyāni kānicit ‖*) (Bṛ. De. 1-93)
+
+Of these three forms, the Agni who pervades the middle world, the atmosphere, shines in the form of lightning while pouring down rain. Thus there are varieties of names describing the respective qualities in accordance with the respective functions. But these varieties of names are incidental. They do not show any real difference in Agni. For example:
+
+असौ तु रश्मिभिः केशी तेनैनानाह केशिनः । एतेषां तु पृथक्त्वेन त्रयाणां केशिनामिह ॥ (*asau tu raśmibhiḥ keśī tenainānāha keśinaḥ | eteṣāṃ tu pṛthaktvena trayāṇāṃ keśināmiha ‖*) (Bṛ. De. 1-94)
+
+Because the earthly Agni has hair in the form of flames, the Agni of the middle world has hair in the form of lightning, and the Agni of the heavenly world, in the form of the sun, has hair in the form of rays, the sages have designated these three as त्रयः केशिनः (*trayaḥ keśinaḥ*).
+
+एतेषां तु पृथक्त्वेन त्रयाणां केशिनामिह । संलक्ष्यंते प्रक्रियासु त्रयः केशिन इत्यृचि ॥ (*eteṣāṃ tu pṛthaktvena trayāṇāṃ keśināmiha | saṃlakṣyaṃte prakriyāsu trayaḥ keśina ityṛci ‖*)
+
+### Printed p. 76
+Since the nature of these varieties of Agni, with three kinds of hair, is different, they are designated "त्रयः केशिनः (*trayaḥ keśinaḥ*)" according to the respective differences of procedure.
+
+न चैवेषां प्रसूतिर्वा विभूतिस्थान जन्म वा । निर्वक्तुं शक्त्यमेतैर्हि कृत्स्नं व्याप्तमिदं जगत् ॥ (*na caiveṣāṃ prasūtirvā vibhūtisthāna janma vā | nirvaktuṃ śaktyametairhi kṛtsnaṃ vyāptamidaṃ jagat ‖*) (Bṛ. De. 1-96)
+
+But how is the individual birth of each? What are the individual special powers? Which are the separate places? It is not possible to say such things. Every variety pervades the whole world.
+
+वैश्वानरं श्रितो ह्यग्निरग्निं वैश्वानरः श्रितः । अनयोर्जातवेदास्तु तथैते जातवेदसी ॥ (*vaiśvānaraṃ śrito hyagniragniṃ vaiśvānaraḥ śritaḥ | anayorjātavedāstu tathaite jātavedasī ‖*) (Bṛ. De. 1-97)
+
+Agni is merged in Vaiśvānara. (The greatness of Vaiśvānara is explained in the 8th part of the Ṛ. Saṃ.) Vaiśvānara is merged in Agni. Jātavedas is hidden in both these forms. Therefore the first two varieties are the two forms of Jātavedas. Not these alone: all the gods are hidden and merged in this very Agni.
+
+जातवेदाः श्रितो ह्यग्निमग्निं वैश्वानरः श्रितः । द्रविणोदास्तथेध्मश्च श्रितश्चाग्निं तनूनपात् ॥ नराशंसः श्रितश्चैनं एनमेवाश्रितस्त्वीळः । बर्हिर्द्वारश्च देव्योऽग्निमेनमेव तु संश्रिताः ॥ नक्तोषासा च देव्यौ च होतारावेतदाश्रयौ । देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः ॥ श्रितो वनस्पतिश्चैनं स्वाहाकृतय एव च । (*jātavedāḥ śrito hyagnimagniṃ vaiśvānaraḥ śritaḥ | draviṇodāstathedhmaśca śritaścāgniṃ tanūnapāt ‖ narāśaṃsaḥ śritaścainaṃ enamevāśritastvīḷaḥ | barhirdvāraśca devyo 'gnimenameva tu saṃśritāḥ ‖ naktoṣāsā ca devyau ca hotārāvetadāśrayau | devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ ‖ śrito vanaspatiścainaṃ svāhākṛtaya eva ca |*) (Bṛ. De. 1.106-110)
+
+Jātavedas, Vaiśvānara, Draviṇodāḥ, Idhma, Tanūnapāt, Narāśaṃsa, Iḷā (Barhis), the door-deities, the deities Nakta and Uṣas, the Hotṛs, Vanaspati and all the other deities are merged in this Agni. This Agni is the all-pervading great principle. This great principle is described as "मूर्धा भुवो भवति (*mūrdhā bhuvo bhavati*)", that is, in the night he is the lord of the earth, and so on. (This explanation was given earlier.)
+
+यदेदेनमदधुर्यज्ञॆयासो दिवि देवाः सूर्यमादितेयं । यदा चरिष्णू मिथुनावभूतामादित्पापश्यन्भुवनानि विश्वा ॥ (*yadedenamadadhuryajñèyāso divi devāḥ sūryamāditeyaṃ | yadā cariṣṇū mithunāvabhūtāmāditpāpaśyanbhuvanāni viśvā ‖*) (Pu. Saṃ. 10-88-11) **NOTE**
+
+### Printed p. 77
+The revered gods established this Agni in the heavenly world in the form of the sun. When this Sūra and the Vaiśvānaras became visible to the world, the gods became able to survey the whole world with the help of these, the sun and the others, who are parts of Agni. Thus the praise of Agni is of many kinds. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रे त्वा॑ नृ॒मणा॑ अ॒प्स्व१॒ं॑गतर्नृ॒चक्षा॑ ईधे दि॒वो अ॑ग्न॒  ॑
+> ऊधन् ।  
+> तृ॒तीये॑ त्वा॒ रज॑सि तस्थि॒वांस॑म॒पामु॒पस्थे॑ महि॒षा अ॑वर्धन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रे । त्वा । नृमनाः । अप्सु । अंतः । नृचक्षाः । ईधे । दिवः । अग्ने ।  
+> ऊधन् ॥  
+> तृतीये । त्वा । रजसि । तस्थिवांसं । अपां । उपस्थे । महिषाः । अवर्धन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने समुद्रे महोदधौ जायमानमप्संतरपां मध्यॆ वडनात्मना
+> स्थितं त्वा त्वां नृमणा नृषु मनुष्येष्टनुग्राहकतयासक्तचित्तो वरुण ईधे ।
+> संदीपितवान् । किंच नृचक्षा नृणां प्रत्यक्षेण द्रष्टादित्यो दिवो द्युलोकस्य संबंधिन्यूथन्यूथस्यूधःस्थानीय आदित्यमंडले यज्ञे वेधे । संदीपितवान् । किंच
+> तृतीये त्रयाणां पूरकेऽपां वृष्टु्यदकानामुपस्थे स्थाने रजस्यंतरिक्षलोके
+> तस्थिनांसं विद्युद्रूपेणावस्थितं त्वां महिषा महांतो माध्यमिकादेवगणा मरुदादयः स्तोतारोऽवर्धन् । स्तुतिभिरवर्धयन् । यद्वा । वाजसनेयकोक्तप्रकारेणार्थो द्रष्टव्यः । तद्यथा । समुद्रे त्वा नृमणा अप्स्यंतरिति प्रजापतिर्वै
+> नृमणा अप्सु त्वा प्रजापतिरित्येतन्नृचक्षा ईधे दिवो अग्न ऊढन्निति प्रजापतिर्वै
+> नृचक्षा आपो दिव ऊधस्तृतीये त्वा रजसि तस्थिवांसमिति द्यौर्नै तृतीयं रजोऽपामुपस्थे महिषा अवर्धन्निति प्राणा वै महिषा दिवि त्वा प्राणा अवर्थन्नित्येतत् ।
+> शत ७-७-४.५ । इति ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you who are born in the sea, the great ocean, and who stand in the midst of the waters in the form of the submarine fire: Varuṇa, whose mind is attached to men as their benefactor, kindled you." Also, the Āditya, the beholder of men, who sees them directly, kindled you in the sun's orb in the heavenly world, which stands in the place of the udder (ऊधन् (*ūdhan*), said to be *ūdhasthānīya*) of the heavenly world. Also, the great gods of the middle region, the Maruts and others, the praisers, magnified you with praises as you stood in the third region, the atmosphere, in the form of lightning; that region fills the three, and is the place (the lap) of the waters, that is, the rain-waters.
+
+Alternatively, the meaning is to be seen in the manner stated by the Vājasaneyins. It is this: समुद्रे त्वा नृमणा अप्स्यंतरिति (*samudre tvā nṛmaṇā apsyaṃtariti*): Prajāpati is nṛmaṇāḥ; "you in the waters", that is, Prajāpati. नृचक्षा ईधे दिवो अग्न ऊढन् (*nṛcakṣā īdhe divo agna ūḍhan*): Prajāpati is nṛcakṣāḥ; the waters are the udder of heaven. तृतीये त्वा रजसि तस्थिवांसं (*tṛtīye tvā rajasi tasthivāṃsaṃ*): heaven is the third region. *apāmupasthe mahiṣā avardhan*: the vital breaths are the mahiṣāḥ; "in heaven the breaths magnified you." The reference is given as Śata 7-7-4.5. **NOTE**
+
+### Printed p. 78
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- समुद्रे (*samudre*)—born in the midst of the sea
+- अप्स्यंतः (*apsyaṃtaḥ*)—who is in the form of the submarine fire in the midst of the waters
+- त्वा (*tvā*)—you
+- नृमणाः (*nṛmaṇāḥ*)—Varuṇa, who is beneficial to men
+- ईधे (*īdhe*)—caused to blaze
+- नृचक्षाः (*nṛcakṣāḥ*)—the Āditya, who can see men
+- दिवः (*divaḥ*)—of the heavenly world
+- ऊधन् (*ūdhan*)—in the central place, the orb of the sun, caused you to blaze
+- अपां उपस्थे (*apāṃ upasthe*)—which is the place of the rain-waters
+- तृतीये रजसि (*tṛtīye rajasi*)—in the third region, the atmosphere
+- तस्थिवांसं (*tasthivāṃsaṃ*)—who is in the form of lightning
+- त्वा (*tvā*)—you
+- महिषाः (*mahiṣāḥ*)—the great gods
+- अवर्धन् (*avardhan*)—strengthened
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, born in the midst of the sea, and being in the form of the submarine fire in the midst of the waters: Varuṇa, who is beneficial to men, caused you to blaze. The Āditya, who can see men, caused you to shine in the sun's orb in the middle of the heavenly world. The great gods strengthened you, who are in the form of lightning in the atmosphere, the place of the rain-waters.
+
+##### English translation
+He who is well disposed towards men illumes the Agni in the ocean (as submarine fire), in the midst of the waters: the beholder of men (illumes) you in the centre of the sky : the mighty (Maruts) magnify you abiding in the third region (the firmament), on the lap of the waters.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक्रं॑दद॒ग्निः स्त॒नय॑न्निव॒ द्यौः क्षामा॒ रेरि॑हद्वी॒रुधः॑ समं॒जन् ।  
+> स॒द्यो ज॑ज्ञा॒नो वि हीमि॒द्दो अख्य॒दा रोद॑सी भा॒नुना॑  ॒
+> भात्यंतः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्रंदत् । अग्निः । स्तनयन् इव । द्यौः । क्षाम । रेरिहत् । वीरुधः । संअंजन् ॥  
+> सद्यः । जज्ञानः । वि । हि॥ ईं । इद्दः । अख्यत् । आ । रोदसी । इति । भानुना । भाति ।  
+> अंतरिति ॥
+
 ---
 
-**Progress note:** Done through printed p. 72. pp. 67-72 (batch API)
+**Progress note:** Done through printed p. 78. pp. 73-78 (batch API)
