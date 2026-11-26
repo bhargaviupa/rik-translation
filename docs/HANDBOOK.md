@@ -64,6 +64,8 @@ work/                     one dir per window (git-ignored): kn.md, en.md, en_fin
 
 ## 4. Inputs the user supplies (Vol 15 onwards — no page scans)
 
+*If no machine-read text exists for a volume and the Kannada text must be made from the scans, follow `docs/SCAN_PIPELINE.md` (Vols 25, 26 onwards).*
+
 1. **Machine-read text** of the volume (HTML or markdown) in one or more files → `volN/html/`. If the user gives several markdown files, merge them into ONE file with `python3 tools/rv/merge_md.py volN/html/rig_N.md IN1.md IN2.md … --write` (lossless; it refuses unless the page split is identical), point `volcfg.json` `source` and `pubcfg.json` `supplied_md` at it and `git rm` the inputs. Strip embedded base64 images from markdown before committing. Page images are **not** read. The text matched an independent reading of the scan on 98.85 % of characters (Vol 5 tests), and the user found its numerals correct. Known weak points: `||` and the avagraha are lost (repaired by script); single-letter OCR slips; garbled running heads; stray "This image contains no text…" description lines (kept as italic notes); a few Latin/Telugu/Devanagari letters inside Kannada.
 2. **Front-matter scan PDF** (cover, title page, portrait, permission page, board of scholars, preface, contents pages, abbreviations): used only as page images for the PDFs and to verify the printed contents.
 3. **Optional** numeral file (xlsx) → `volN/numerals/` (cross-check only; see `docs/LEGACY_SCAN_WORKFLOW.md` for the old method).
