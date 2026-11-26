@@ -24200,6 +24200,289 @@ The bright golden-hued pure-flowing one rushes in its might, strewing the sacred
 > उदातै॑र्जिहते बृ॒हद्द्वारो॑ दे॒वीर्हि॑र॒ण्ययीः॑ ।  
 > पव॑मानेन॒ सुष्टु॑ताः ॥ ५ ॥
 
+### Printed p. 617
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । आतैः । जिहते । बृहत् । द्वारः । देवीः । हिरण्ययीः ।  
+> पवमानेन । सुऽस्तुताः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्ययीः हिरण्मय्यः द्वारो देवीः द्वारो देव्यः पवमानेन सोमेन सह सुष्टुताः स्तोतृभिः सम्यक् स्तुताः सत्यः बृहत् बृहतीभ्यो महतीभ्यः आतैः आताभ्यो दिग्भ्यः । ‘आता आशाः इति दिङ्नामसु पाठात् । उत् जिहते उद्गच्छंति ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the words of the verse: the golden doors (द्वारः (*dvāraḥ*)), which are divine, are praised well by the singers together with Soma the pure-flowing one. The word बृहत् (*bṛhat*) means "to the great ones", and आतैः (*ātaiḥ*) means "from the quarters", since आता (*ātā*) is read among the names of the quarters. उत् जिहते (*ut jihate*) means "they rise up".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरण्ययीः (*hiraṇyayīḥ*)—made of gold
+- देवीः (*devīḥ*)—of divine nature
+- द्वारः (*dvāraḥ*)—the doors
+- पवमानेन (*pavamānena*)—together with the god Soma
+- सुष्टुताः (*suṣṭutāḥ*)—well praised
+- बृहत् (*bṛhat*)—of vast form
+- आत्कैः (*ātkaiḥ*)—from the quarters **NOTE**
+- उज्जिहते (*ujjihate*)—rise up
+
+##### भावार्थ (Bhāvārtha)
+
+The doors, made of gold and of divine nature, well praised together with the god Soma, rise up from the quarters of vast form.
+
+##### English translation
+The bright golden doors, praised by the priests together with the Soma, rise up from the vast horizon
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒शि॒ल्पे बृ॑ह॒ती म॒ही पव॑मानो वृषण्यति ।  
+> नक्तो॒षासा॒ न द॑र्श॒ते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुशिल्पे इति सुऽशिल्पे । बृहती इति । मही इति । पवमानः । वृषण्यति ।  
+> नक्तोषसा । न । दर्शते इति ॥ ६ ॥
+
+### Printed p. 618
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुशिल्पे सुरूपे बृहती परिवृढे मही महत्यौ न संप्रति दर्शते दर्शनीये नक्तोषासा नक्तोषासौ पवमानः सोमः वृषण्यति कामयते ॥
+
+##### Gist of the bhāṣya
+
+The two, well-formed (सुशिल्पे (*suśilpe*)), wide-spread (बृहती (*bṛhatī*)) and great (मही (*mahī*)), who are fair to see (दर्शते (*darśate*)) at the present time, are Night and Dawn (नक्तोषासा (*naktoṣāsā*)); Soma the pure-flowing one longs for them (वृषण्यति (*vṛṣaṇyati*) means "desires").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुशिल्पे (*suśilpe*)—of excellent form
+- बृहती (*bṛhatī*)—spread wide
+- मही (*mahī*)—of greatness
+- न (*na*)—at this time
+- दर्शते (*darśate*)—who appear
+- नक्तोषासा (*naktoṣāsā*)—the presiding deities of night and day
+- पवमानः (*pavamānaḥ*)—Soma
+- वृषण्यति (*vṛṣaṇyati*)—desires
+
+##### भावार्थ (Bhāvārtha)
+
+Soma desires the presiding deities of night and day, who are of excellent form, spread wide, of greatness, and who appear at this time.
+
+##### English translation
+The pure-flowing (Soma) longs for the fair-formed wide-reaching mighty Night and Dawn not yet visible.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भा दे॒वा नृ॒चक्ष॑सा॒ होता॑रा॒ दैव्या॑ हुवे ।  
+> पव॑मान॒ इंद्रो॒ वृषा॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभा । देवा । नृऽचक्षसा । होतारा । दैव्या । हुवे ।  
+> पवमानः । इंद्रः । वृषा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृचक्षसा मनुष्याणां द्रष्टारौ दैव्या दैव्यौ देवसंबंधिनौ होतारा होतारौ उभा उभौ देवा देवौ हुवे आह्वयामि यज्ञे। पवमानः सोमः इंद्रः दीप्तः । तथा च यास्कः-’ इंद्र इरां दृणातीति वेरां दारयत इति वेरां धारयतीति वेंधे भूतानीति वा तद्यदेनं प्राणैः समैंधत तदिंद्रस्येंद्रत्वमिति विज्ञायते' (निरु. १०. ८) इति । वृषा कामानां वर्षिता च भवतीति ॥
+
+##### Gist of the bhāṣya
+
+The two beholders of men (नृचक्षसा (*nṛcakṣasā*)), the two divine (दैव्या (*daivyā*)) priests (होतारा (*hotārā*)), both gods, I invoke at the sacrifice. Pavamāna Soma is Indra, that is, radiant. Yāska says so in the Nirukta (Ni. 10. 8), explaining the name Indra by its derivations and by the saying that Indra is so called because the creatures kindled him with their breaths. Vṛṣā means one who showers desires.
+
+### Printed p. 619
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृचक्षसा (*nṛcakṣasā*)—who look upon the affairs of men
+- दैव्या (*daivyā*)—related to the gods
+- देवा (*devā*)—of divine nature
+- उभा होतारा (*ubhā hotārā*)—the two priests
+- हुवे (*huve*)—I call to the sacrifice
+- पवमानः (*pavamānaḥ*)—Soma, of pure flow
+- इंद्रः (*iṃdraḥ*)—radiant
+- वृषा (*vṛṣā*)—the showerer of desires
+
+##### भावार्थ (Bhāvārtha)
+
+I call to the sacrifice the two priests, who look upon the affairs of men, who are related to the gods and are of divine nature. Soma, of pure flow, is radiant and the showerer of desires.
+
+##### English translation
+I invoke the two divine priests, the two deities who behold men—
+the pure-flowing (Soma) is radiant and the showerer (of benefits).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भार॑ती॒ पव॑मानस्य॒ सर॑स्व॒तीळा॑ म॒ही ।  
+> इ॒मं नो॑ य॒ज्ञमा ग॑मंति॒स्रो दे॒वीः सु॒पेश॑सः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भारती । पवमानस्य । सरस्वती । इळा । मही ।  
+> इमम् । नः । यज्ञम् । आ । गमन् । तिस्रः । देवीः । सुऽपेशसः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भारती भारत्याख्या सरस्वती सरस्वत्याख्या च मही महती इळाख्या च तिस्रः सुपेशसः सुरूपाः देवीः देव्यः नः अस्माकं पवमानस्य सोमस्य संबंधिनम् इमं यज्ञं प्रति आ गमन् आगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+The three goddesses of fair form, called Bhāratī, Sarasvatī and Iḷā the great, may come to this sacrifice of ours, which belongs to Pavamāna Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपेशसः (*supeśasaḥ*)—of excellent form
+- देवीः (*devīḥ*)—of divine nature
+- भारती (*bhāratī*)—the goddess Bhāratī
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- मही (*mahī*)—of great nature
+- इळा (*iḷā*)—the goddess Iḷā
+
+### Printed p. 620
+
+- तिस्रः (*tisraḥ*)—these three
+- नः (*naḥ*)—our
+- पवमानस्य (*pavamānasya*)—related to Soma
+- इमं यज्ञं (*imaṃ yajñaṃ*)—to this sacrifice
+- आ गमन् (*ā gaman*)—may they graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+May these three goddesses, Bhāratī, Sarasvatī and Iḷā, of excellent form and of divine nature, graciously come to this our sacrifice, which is related to Soma.
+
+##### English translation
+May the three beautiful goddesses Bharati, Saraswati and mighty Ila
+come to this our offering of the Soma.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वष्टा॑रमग्र॒जां गो॒पां पु॑रो॒यावा॑न॒मा हु॑वे ।  
+> इंदु॒रिंद्रो॒ वृषा॒ हरिः॒ पव॑मानः प्र॒जाप॑तिः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वष्टारम् । अग्रऽजाम् । गोपाम् । पुरःऽयावानम् । आ । हुवे ।  
+> इंदुः । इंद्रः । वृषा । हरिः । पवमानः । प्रजाऽपतिः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्रजाम् अग्रे जातं गोपां प्रजानां पालयितारं पुरोयावानं देवानां पुरस्ताद्गंतारं त्वष्टारं देवम् आ हुवे अहमाह्वयामि यज्ञे । हरिः हरितवर्णः पवमानः इंदुः सोमः इंद्रः देवानामीश्वरः वृषा कामानां वर्षिता च प्रजापतिः प्रजानां पालयिता च भवतीति ।
+
+##### Gist of the bhāṣya
+
+I invoke at the sacrifice the god Tvaṣṭṛ, who was born first (अग्रजाम् (*agrajām*)), the protector of creatures (गोपां (*gopāṃ*)), who goes before the gods (पुरोयावानं (*puroyāvānaṃ*)). Hari (green-coloured), Pavamāna, Indu, that is Soma, is Indra, the lord of the gods; he is the showerer of desires and Prajāpati, the protector of creatures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्रजां (*agrajāṃ*)—who was born before all
+- गोपां (*gopāṃ*)—the protector of creatures
+- पुरोयावानं (*puroyāvānaṃ*)—who goes in front of the gods
+- त्वष्टारं (*tvaṣṭāraṃ*)—the god Tvaṣṭṛ
+- आ हुवे (*ā huve*)—I call to the sacrifice
+- हरिः (*hariḥ*)—of emerald colour
+- पवमानः (*pavamānaḥ*)—of pure flow
+- इंदुः (*iṃduḥ*)—Soma
+- इंद्रः (*iṃdraḥ*)—lord of the gods
+- वृषा (*vṛṣā*)—showerer of desires
+- प्रजापतिः (*prajāpatiḥ*)—protector of creatures
+
+### Printed p. 621
+
+##### भावार्थ (Bhāvārtha)
+
+I call to the sacrifice the god Tvaṣṭṛ, who was born before all, the protector of creatures, who goes in front of the gods. Soma, of emerald colour and of pure flow, is the lord of the gods, the showerer of desires and the protector of creatures.
+
+##### English translation
+I invoke Twashtri, the first-born, the protector, the leader ; the golden-coloured pure-flowing Indu is Indra, the showerer, the lord of all creatures.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वन॒स्पतिं॑ पवमान॒ मध्वा॒ समं॑ग्धि॒ धार॑या ।  
+> स॒हस्र॑वल्शं॒ हरि॑तं॒ भ्राज॑मानं हिर॒ण्यय॑म् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वनस्पतिम् । पवमान । मध्वा । सम् । अंग्धि । धारया ।  
+> सहस्रऽवल्शम् । हरितम् । भ्राजमानम् । हिरण्ययम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम हरितं हरितवर्णं हिरण्ययं कदाचिद्धिरण्मयवर्णं व भ्राजमानं दीप्यमानं सहस्रवल्शं सहस्रशाखं वनस्पतिं देवं धारया धारामयेण मध्वा मधुना समंग्धि  अंक्ष्व । संस्कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, consecrate with the honey (मध्वा (*madhvā*)) in the stream (धारया (*dhārayā*)) the god Vanaspati, who is green-coloured (हरितं (*haritaṃ*)), golden (हिरण्ययं (*hiraṇyayaṃ*)), sometimes of golden colour, shining (भ्राजमानं (*bhrājamānaṃ*)) and thousand-branched (सहस्रवल्शं (*sahasravalśaṃ*)). समंग्धि (*samaṃgdhi*) means "anoint", that is, "prepare". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma, the god **NOTE**
+- हरितं (*haritaṃ*)—of emerald colour (or of green colour)
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- भ्राजमानं (*bhrājamānaṃ*)—resplendent
+- सहस्रवल्शं (*sahasravalśaṃ*)—having a thousand branches **NOTE**
+- वनस्पतिं (*vanaspatiṃ*)—the god Vanaspati
+- धारया (*dhārayā*)—in the form of a stream
+- मध्वा (*madhvā*)—with your honey
+- समंग्धि (*samaṃgdhi*)—prepare
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, prepare with your honey, in the form of a stream, the god Vanaspati, who is of emerald colour, made of gold, resplendent and has a thousand branches.
+
+### Printed p. 622
+
+##### English translation
+Pure Soma, consecrate with your streaming ambrosia the green bright golden-hued Vanaspati with its thousand branches.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ देवाः॒ स्वाहा॑कृतिं॒ पव॑मान॒स्या ग॑त ।  
+> वा॒युर्बृह॒स्पतिः॒ सूर्यो॒ऽग्निरिंद्रः॑ स॒जोष॑सः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । स्वाहाऽकृतिम् । पवमानस्य । आ । गत ।  
+> वायुः । बृहस्पतिः । सूर्यः । अग्निः । इंद्रः । सऽजोषसः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वे देवाः वायुः बृहस्पतिः च सूर्यः च अग्निः च इंद्रः च सर्वे यूयं सजोषसः संगताः संतः पवमानस्य सोमस्य स्वाहाकृतिं स्वाहाकारं प्रति आ गत आगच्छत ॥ ॥ २५ ॥
+
+##### Gist of the bhāṣya
+
+O all gods, and Vāyu, Bṛhaspati, Sūrya, Agni and Indra, all of you, united (सजोषसः (*sajoṣasaḥ*)), come to the call of svāhā (स्वाहाकृतिं (*svāhākṛtiṃ*)) of Pavamāna Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे देवाः (*viśve devāḥ*)—O all gods
+- पवमानस्य (*pavamānasya*)—of the god Soma
+- स्वाहाकृतिं (*svāhākṛtiṃ*)—to the sacrifice accompanied by the cry of svāhā
+- गत (*gata*)—be gracious and come
+- वायुः (*vāyuḥ*)—Vāyu
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- सूर्यः (*sūryaḥ*)—Sūrya
+- अग्निः (*agniḥ*)—Agni
+- इंद्रः (*iṃdraḥ*)—Indra
+- सजोषसः (*sajoṣasaḥ*)—may all these come together
+
+##### भावार्थ (Bhāvārtha)
+
+O all gods, be gracious and come to the sacrifice of Soma accompanied by the cry of svāhā. May Vāyu, Bṛhaspati, Sūrya, Agni and Indra, all of these, come together.
+
+##### English translation
+O all you gods, come together to the consecration of the Soma,—Vayu, Brihaspati, Surya, Agni and Indra.
+
 ---
 
-**Progress note:** Done through printed p. 616. Mandala 9 sukta 4 Rks 9-10, sukta 5 Rks 1-5 Samhita (pp. 611-616)
+**Progress note:** Done through printed p. 622. Mandala 9 Sukta 5, Rk 5 (Pada, Sayana) to Rk 11
