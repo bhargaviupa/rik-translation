@@ -21415,6 +21415,245 @@ This Soma-deva, endowed with praise, purified and impelled by the priests, strea
 ##### English translation
 This (Soma) possessed of agreeable (praise), filtered, and sent forth, (quick) as a bird, goes with a stream (of juice) through the fleece ; by your sustainig act, by your intelligence, sage Indra, the pure Soma flows purified through both heaven and earth. **NOTE**
 
+### Printed p. 570
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्रा॒पिं वसा॑नो यज॒तो दि॑वि॒स्पृश॑मंतरिक्ष॒प्रा भुव॑ने॒ष्वर्पि॑तः ।  
+> स्व॑र्जज्ञा॒नो नभ॑सा॒भ्य॑क्रमीत्प्र॒त्नम॑स्य पि॒तर॒मा वि॑वासति ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्रापिम् । वसानः । यजतः । दिविऽस्पृशम् । अंतरिक्षऽप्राः । भुवनेषु । अर्पितः ।  
+> स्वः । जज्ञानः । नभसा । अभि । अक्रमीत् । प्रत्नम् । अस्य । पितरम् । आ । विवासति ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिविस्पृशं दिविस्प्रष्टारं द्रापिं कवचं तेजोरूपं वसानः आच्छादयन् यजतः यष्टव्यः अंतरिक्षप्राः अंतरिक्षस्य पूरक उदकेन तादृशः सोमः भुवनेषु उदकेषु अर्पितः स्वः सर्वं स्वेन पाययितव्यं देवसंघं स्वर्गं वा जज्ञानः जनयन् । अथवा । स्वरुदकम् । तज्जनयन् । नभसा उदकेन अभ्यक्रमीत् अभिक्रामति । अस्य उदकस्य पितरं पालकं प्रत्नं पुराणमिंद्रम् आ विवासति परिचरति ॥
+
+##### Gist of the bhāṣya
+
+Soma, who touches heaven, is clothed in a coat of mail (a covering) that is of the nature of brilliance; he is adorable, and fills the firmament with water. He is placed in the waters (the "worlds"). He brings forth Svar, which is either the host of gods who are to be made to drink by him, or heaven; or, alternatively, Svar means water, and he brings that forth. He advances together with the water. He serves the ancient father of this water, its protector, namely the ancient Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिविस्पृशं (*divispṛśaṃ*)—touching the firmament
+- द्रापिं (*drāpiṃ*)—a coat of mail
+- वसानः (*vasānaḥ*)—wearing
+- यजतः (*yajataḥ*)—the adorable
+- अंतरिक्षप्राः (*aṃtarikṣaprāḥ*)—who fills the firmament with water, Soma
+- भुवनेषु (*bhuvaneṣu*)—in the waters
+- अर्पितः (*arpitaḥ*)—placed
+- स्वः (*svaḥ*)—heaven
+- जज्ञानः (*jajñānaḥ*)—bringing forth
+- नभसा (*nabhasā*)—together with the water
+- अभ्यक्रमीत् (*abhyakramīt*)—joins
+- अस्य (*asya*)—of the water
+- पितरं (*pitaraṃ*)—the protector
+- प्रश्नं (*praśnaṃ*)—the ancient one, Indra **NOTE**
+- आ विवासति (*ā vivāsati*)—serves
+
+##### भावार्थ (Bhāvārtha)
+
+Wearing a coat of mail that touches the firmament, the adorable Soma, who fills the firmament with water, placed in the waters, brings forth heaven and joins with the water. He serves Indra, the protector of the water, the ancient one.
+
+### Printed p. 571
+
+##### English translation
+Wearing a coat of mail reaching to heaven, the adorable Soma, who fills the firmament (with rain), placed in the waters, generating heaven, passes with the water, (and) worships its ancient parent (Indra).
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॑स्य वि॒शे महि॒ शर्म॑ यच्छति॒ यो अ॑स्य॒ धाम॑ प्रथ॒मं व्या॑न॒शे ।  
+> प॒दं यद॑स्य पर॒मे व्यो॑म॒न्यतो॒ विश्वा॑ अ॒भि सं या॑ति सं॒यतः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अस्य । विशे । महि । शर्म । यच्छति । यः । अस्य । धाम । प्रथमम् । विऽआनशे ।  
+> पदम् । यत् । अस्य । परमे । विऽओमनि । अतः । विश्वाः । अभि । सम् । याति । सम्ऽयतः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः अस्य इंद्रस्य विशे प्रवेशनाय महि महत् शर्म सुखं यच्छति । यः सोमः अस्य इंद्रस्य धाम तेजोयुक्तं शरीरं प्रथमम् इतरदेवप्राप्तेः पूर्वं व्यानशे प्राप्तवान् । यत् यस्य अस्य सोमस्य परमे उत्कृष्टे व्योमन् विशेषेण रक्षके द्युलोके वेद्यां वा पदं भवति । यतः यस्मात् सोमात् तृप्त इंद्रः सोमः स्वयं वा विश्वाः संयतः सर्वान् संग्रामान अभि याति' सम्यगभिगच्छति । स सोमो महि शर्म यच्छतीति संबंधः ॥ ॥ १४ ॥
+
+##### Gist of the bhāṣya
+
+That Soma gives great happiness to this Indra, for his entering. This Soma first, before the other gods reached him, obtained Indra's body, which is full of brilliance. The Soma whose station is in the highest heaven, the protecting heaven (or the altar), and by whom satisfied, Indra (or Soma himself) overcomes all contests: that Soma gives great happiness. This is the connection.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- अस्य (*asya*)—of Indra
+- धाम (*dhāma*)—the brilliant body
+- प्रथमं (*prathamaṃ*)—before all
+- व्यानशे (*vyānaśe*)—entered, such a one
+- यत् (*yat*)—which
+- अस्य (*asya*)—to this Soma
+- परमे (*parame*)—in the highest heaven
+- पदं (*padaṃ*)—there is a station
+- यतः (*yataḥ*)—by whose help
+- विश्वाः (*viśvāḥ*)—all
+- संयतः (*saṃyataḥ*)—the contests
+- अभि सं याति (*abhi saṃ yāti*)—Indra conquers, such a one
+
+### Printed p. 572
+- सः (*saḥ*)—that same Soma
+- अस्य (*asya*)—of Indra
+- विशे (*viśe*)—for the entering
+- महि (*mahi*)—great
+- शर्म (*śarma*)—happiness
+- यच्छति (*yacchati*)—gives
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who first entered Indra's brilliant body, whose station is in the highest heaven, and by whose help Indra conquers all the contests, that same Soma gives great happiness for Indra's entering.
+
+##### English translation
+(Soma), who first reached Indra's glorious body, gives great happiness to the entrance of Indra ; (that Soma), whose station is in the highest heaven, and through whom (Indra) triumphs) in all contests. **NOTE**
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो अ॑यासी॒दिंदु॒रिंद्र॑स्य निष्कृ॒तं सखा॒ सख्यु॒र्न प्र मि॑नाति सं॒गिर॑म् ।  
+> मर्य॑ इव युव॒तिभिः॒ सम॑र्षति॒ सोमः॑ क॒लशे॑ श॒तया॑म्ना प॒था ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रो इति । अयासीत् । इंदुः । इंद्रस्य । निःऽकृतम् । सखा । सख्युः । न । प्र । मिनाति । सम्ऽगिरम् ।  
+> मर्यःऽइव । युवतिऽभिः । सम् । अर्षति । सोमः । कलशे । शतऽयाम्ना । पथा ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः सोमः इंद्रस्य निष्कृतं स्थानमुदरं प्रो अयासीत् प्रैव गच्छति । गत्वा च सखा सखिभूतः सोमः सख्युः इंद्रस्य संगिरं सम्यग्गिरणाधारभूतमुदरं न प्र मिनाति न हिनस्ति । किंच मर्यइव युवतिभिः मर्त्यो यथा युवतिभिः सह संगतो भवति तद्वदयमपि सोमः युवतिभिर्मिश्रणशीलाभिर्वसतीवरीभिरद्भिः सह समर्षति संगच्छतेऽभिषवकाले । पश्चात् सोमः शतयाम्ना अनेकयानसाधनच्छिद्रोपेतेन पथा मार्गेण दशापवित्रसंबंधिनि कलशे द्रोणकलशे गच्छतीति शेषः । यद्वा एकमेव वाक्यम् । यथा मर्यो युवतिभिः सह संगच्छते एवं कलशे शतयाम्ना पथा संगच्छतेऽद्भिः॥
+
+##### Gist of the bhāṣya
+
+Indu, Soma, goes straight to Indra's prepared place, the stomach. Having gone, Soma, being a friend, does not harm the stomach of his friend Indra, which is the receptacle of swallowing. Further: as a man is united with young women, so this Soma, at the time of pressing, unites with the waters, which are young, of mingling nature, the abiding waters. Afterwards Soma goes by a path with a hundred ways, that is, one provided with many openings as means of going, into the vessel connected with the ten-fold filter, the Droṇa vessel; "goes" is the word to be supplied. Or else it is a single sentence: as a man unites with young women, so in the vessel by the path of a hundred ways he unites with the waters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- निष्कृतं (*niṣkṛtaṃ*)—the place
+- प्रो अयासीत् (*pro ayāsīt*)—goes and joins
+- सखा (*sakhā*)—Soma, his friend
+- सख्युः (*sakhyuḥ*)—of Indra
+- संगिरं (*saṃgiraṃ*)—the stomach
+- न प्र मिनाति (*na pra mināti*)—does not abandon
+- मर‍्यः (*maryaḥ*)—a man
+- युवतिभिः इव (*yuvatibhiḥ iva*)—as he joins young women
+- सोमः (*somaḥ*)—Soma
+- शतयाम्ना (*śatayāmnā*)—of many kinds
+- पथा (*pathā*)—by a path
+- कलशे (*kalaśe*)—to the Droṇa vessel
+- सं अर्षति (*saṃ arṣati*)—goes and joins
+
+### Printed p. 573
+
+##### भावार्थ (Bhāvārtha)
+
+Soma goes to Indra's place (the stomach) and joins it. Soma does not abandon the stomach of his friend Indra. As a man joins young women, so Soma goes by a path of many kinds to the Droṇa vessel and joins it.
+
+##### English translation
+Indu goes to Indra's abode, the friend leaves not the stomach of his friend ; as a young man meets maidens, so the Soma (meets) the pitcher by a hundred paths.
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॒ धियो॑ मंद्र॒युवो॑ विप॒न्युवः॑ पन॒स्युवः॑ सं॒वस॑नेष्वक्रमुः ।  
+> सोमं॑ मनी॒षा अ॒भ्य॑नूषत॒ स्तुभो॒ऽभि धे॒नवः॒ पय॑सेमशिश्रयुः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । धियः । मंद्रऽयुवः । विपन्युवः । पनस्युवः । सम्ऽवसनेषु । अक्रमुः ।  
+> सोमम् । मनीषाः । अभि । अनूषत । स्तुभः । अभि । धेनवः । पयसा । ईम् । अशिश्रयुः ॥ १७ ॥
+
+### Printed p. 574
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वः युष्माकं धियः ध्यातारः मंद्रयुवः मदकरं शब्दं कामयमानाः पनस्युवः स्तुतिं कामयमानाः विपन्युवः । स्तोतृनामैतत् । स्तोतारः संवसनेषु संवासयोग्येषु यागगृहेषु प्र अक्रमुः प्रक्रमंते । तदेवाह । सोमं मनीषाः मनस ईश्वराः स्तुभः स्तोतारः अभ्यनूषत अभिष्टुवंति । धेनवः अपि पयसा स्वीयेन ईम् एनं सोमम् अभि अशिश्रयुः अभिश्रीणंति ।
+
+##### Gist of the bhāṣya
+
+O Soma, your meditators, who desire a gladdening sound, who desire praise, the vipanyus (this is a name for praisers), the praisers, advance into the places fit for dwelling together, the sacrificial houses. He says this same thing: the lords of the mind, the praisers, praise Soma; and the cows, too, mix this Soma with their own milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O Soma)
+- धियः (*dhiyaḥ*)—the meditators
+- मंद्रयुवः (*maṃdrayuvaḥ*)—those who make a pleasing sound
+- पनस्युवः (*panasyuvaḥ*)—those desiring to recite praise
+- विपन्युवः (*vipanyuvaḥ*)—the praisers
+- संवसनेषु (*saṃvasaneṣu*)—in the sacrificial houses
+- प्राक्रमुः (*prākramuḥ*)—come and gather **NOTE**
+- मनीषाः (*manīṣāḥ*)—the discerning
+- स्तुभः (*stubhaḥ*)—praisers
+- सोमं (*somaṃ*)—Soma
+- अभ्यनूषत (*abhyanūṣata*)—praise
+- धेनवः (*dhenavaḥ*)—the cows
+- पयसा (*payasā*)—with their milk
+- ईं (*īṃ*)—this Soma
+- अभि अशिश्रयुः (*abhi aśiśrayuḥ*)—mix
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the praisers, who meditate on you, who make a pleasing sound and desire praise, come and gather in the sacrificial houses. The discerning praisers praise Soma. The cows also mix Soma with their milk.
+
+##### English translation
+Your thoughtful worshippers (Soma), desiring an exhilarating sound, purposing praise, advance into the halls of sacrifice ; the praisers the lords of intellect praise Soma, the milch cows approach him with their milk.
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ सोम सं॒यतं॑ पि॒प्युषी॒मिष॒मिंदो॒ पव॑स्व॒ पव॑मानो अ॒स्रिध॑म् ।  
+> या नो॒ दोह॑ते॒ त्रिरह॒न्नस॑श्चुषी क्षु॒मद्वाज॑व॒न्मधु॑मत्सु॒वीर्य॑म् ॥ १८ ॥
+
+### Printed p. 575
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सोम । सम्ऽयतम् । पिप्युषीम् । इषम् । इंदो इति । पवस्व । पवमानः । अस्रिधम् ।  
+> या । नः । दोहते । त्रिः । अहन् । असश्चुषी । क्षुऽमत् । वाजऽवत् । मधुऽमत् । सुऽवीर्यम् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्त सोम पवमानः त्वं नः अस्माकं संयतं संगृहीतं पिप्युषीं प्रवृद्धम् इषम् अन्नम् अस्रिधम् अक्षीणं पवस्व । प्रयच्छेत्यर्थः । या यादृशी नः अस्माकम् अहन् अहनि अह्नः त्रिः त्रिषु सवनेषु असश्चुषी अप्रतिबंधा दोहते क्षरति । किम् । क्षुमत् शब्दोपेतं सर्वत्र श्रूयमाणं वाजवत्’ मधुमत् माधुर्योपेतं सुवीर्यं शोभनसामर्थ्यं पुत्रं दोहते। तामिषं पवस्वेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, radiant Soma, being purified, pour for us the food that is gathered together, swollen, and unwasting; that is, give it. The food that for us, each day, three times, that is, at the three pressings, unhindered, is milked, that is, flows: what sort? It is endowed with sound (heard everywhere), has strength, is endowed with sweetness, and is of good ability, that is, a son. The connection is: pour that food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—of flowing nature
+- सोम (*soma*)—O Soma
+- या (*yā*)—which
+- नः (*naḥ*)—for us
+- अहन् (*ahan*)—in the day
+- त्रिः (*triḥ*)—at the three times of pressing
+- असश्चुषी (*asaścuṣī*)—without hindrance
+- क्षुमत् (*kṣumat*)—giving forth a sound
+- वाजवत् (*vājavat*)—endowed with food
+- मधुमत् (*madhumat*)—endowed with sweetness
+- सुवीर्यं (*suvīryaṃ*)—endowed with excellent offspring
+- संयतं (*saṃyataṃ*)—gathered together
+- पिप्युषीं (*pipyuṣīṃ*)—nourishing
+- इषं (*iṣaṃ*)—the food, such as it is
+- पवमानः (*pavamānaḥ*)—you, the purifier
+- अस्त्रिधं (*astridhaṃ*)—without deficiency **NOTE**
+- पवस्व (*pavasva*)—pour
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, of flowing nature, the food that for us each day, at the three times of pressing, without hindrance, is sounding, endowed with food, endowed with sweetness, endowed with excellent offspring, gathered together and nourishing: such food, you, the purifier, pour unceasingly.
+
+##### English translation
+Radiant Soma, when filtered, pour upon us accumulated unwasting nutritious food, which is milked for us three times a day, without hindrance, giving forth a sound, yielding strength and madhu and fair male offspring.
+
 ---
 
-**Progress note:** Done through printed p. 569. Sūkta 86 Ṛks 9-13
+**Progress note:** Done through printed p. 575. Mandala 9 hymn 86 verses 14-18 (pp. 570-575)
