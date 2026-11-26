@@ -5729,6 +5729,297 @@ O you who are the possessor of wealth flow for us, for the adorable Indra, for V
 > उपो॒ षु जा॒तम॒प्तुरं॒ गोभि॑र्भं॒गं परि॑ष्कृतम् ।  
 > इंदुं॑ दे॒वा अ॑यासिषुः ॥ १३ ॥
 
+### Printed p. 188
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपो इति । सु । जातम् । अप्ऽतुरम् । गोभिः । भंगम् । परिऽकृतम् ।  
+> इंदुम् । देवाः । अयासिषुः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सु जातं सम्यक्प्रादुर्भूतम् अप्तुरं वसतीवरीभिः प्रेरितं भंगं शत्रूणां भंजकं गोभिः गोविकारैः पयोभिः परिष्कृतम् अलंकृतं संस्कृतम् इंदुं सोमं देवाः इंद्रादयः उप अयासिषुः उपागच्छंति ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: "well born" means fully manifested; the word अप्तुरं (*apturaṃ*) means urged on by the waters called Vasatīvarī; भंगं (*bhaṃgaṃ*) means the breaker of enemies; "with cows" means adorned and refined with the products of the cow, that is, with milk. The gods, Indra and the rest, approach this Indu, Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सु जातं (*su jātaṃ*)—one of excellent origin
+- अपुरं (*apuraṃ*)—one joined with the Vasatīvarī waters **NOTE**
+- भंगं (*bhaṃgaṃ*)—the destroyer of enemies
+- गोभिः (*gobhiḥ*)—united with milk and the like
+- परिष्कृतं (*pariṣkṛtaṃ*)—one who is refined
+- इंदुं (*iṃduṃ*)—Soma, the divine
+- देवाः (*devāḥ*)—the gods beginning with Indra
+- उपो अयासिषुः (*upo ayāsiṣuḥ*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+The gods beginning with Indra approach the divine Soma, who is of excellent origin, joined with the Vasatīvarī waters, the destroyer of enemies, and refined and well prepared by union with milk and the like.
+
+##### English translation
+The gods approach Indu, ( who is ) completely generated, sent forth by the waters, the demolisher (of foes), adorned with milk and curds.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्व॑र्धंतु नो॒ गिरो॑ व॒त्सं सं॒शिश्व॑रीरिव ।  
+> य इंद्र॑स्य हृदं॒सनिः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । इत् । वर्धंतु । नः । गिरः । वत्सम् । संशिश्वरीःऽइव ।  
+> यः । इंद्रस्य । हृदम्ऽसनिः ॥ १४ ॥
+
+### Printed p. 189
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः इंद्रस्य हृदंसनिः हृदयस्य संभक्ता भवति तमित् तमेव सोमं नः अस्माकं गिरः स्तुतिरूपा वाचः सं वर्धंतु सम्यग्वर्धयंतु । तत्र दृष्टांतः । वत्सं बालं शिश्वरीरिव । यथा शिश्वर्यो बद्धपयस्का मातरो वत्सं वर्धयंति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Soma who is the sharer of Indra's heart, that very Soma may our praises, which are words in the form of eulogy, cause to grow well. An illustration follows: as mothers whose milk is held back, being fond of their young, make the calf grow, so may our praises make Soma grow. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिश्वरीः (*śiśvarīḥ*)—cows rich in milk
+- वत्सं इव (*vatsaṃ iva*)—as they lick their calves lovingly and make them thrive
+- यः (*yaḥ*)—which Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- हृदंसनिः (*hṛdaṃsaniḥ*)—brings satisfaction to the heart
+- तमित् (*tamit*)—that very Soma
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words of praise
+- वर्धंतु (*vardhaṃtu*)—(well) let them increase
+
+##### भावार्थ (Bhāvārtha)
+
+As cows rich in milk lick their calves lovingly and make them thrive, so may our words of praise increase that very Soma who brings satisfaction to the heart of Indra.
+
+##### English translation
+May our praises foster him who wins the heart of Indra, as cows who have young ones (foster) their calf.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्षा॑ णः सोम॒ शं गवे॑ धु॒क्षस्व॑ पि॒प्युषी॒मिष॑म् ।  
+> वर्धा॑ समु॒द्रमु॒क्थ्य॑म् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्ष । नः । सोम । शम् । गवे । धुक्षस्व । पिप्युषीम् । इषम् ।  
+> वर्ध । समुद्रम् । उक्थ्यम् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नः अस्माकं गवे शं सुखम् अर्ष क्षर । अपि च पिप्युषीं प्रवृद्धम् इषम् अन्नं धुक्षस्व पूरय । किंच उक्थ्यं प्रशस्यं समुदम् उदकं वर्ध वर्धय ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow for our cow, that is, pour out comfort. Moreover, fill up and bring forth abundant, swollen food. And further, increase the water that is praiseworthy, the water.  **NOTE**
+
+### Printed p. 190
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- नः (*naḥ*)—our
+- गवे (*gave*)—for the cows
+- शं (*śaṃ*)—happiness
+- अर्ष (*arṣa*)—provide
+- पिप्युषीं (*pipyuṣīṃ*)—nourishing
+- इषं (*iṣaṃ*)—food
+- धुक्षस्व (*dhukṣasva*)—fill up and give
+- उक्ष्यं (*ukṣyaṃ*)—praiseworthy **NOTE**
+- समुद्रं (*samudraṃ*)—water
+- वर्ध (*vardha*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, provide happiness to our cows. Fill up and give us nourishing food. Increase the praiseworthy water.
+
+##### English translation
+Soma, pour prosperity upon our cattle, milk forth (for us) nutritious food; augment the laudable water.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो अजीजनद्दि॒वश्चि॒त्रं न त॑न्य॒तुम् ।  
+> ज्योति॑र्वैश्वान॒रं बृ॒हत् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । अजीजनत् । दिवः । चित्रम् । न । तन्यतुम् ।  
+> ज्योतिः । वैश्वानरम् । बृहत् ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः सोमः बृहत् महत् वैश्वानरं वैश्वानराख्यं ज्योतिः तेजः दिवः द्युलोकस्य चित्रं विचित्रं तन्यतुं न अशनिमिव अजीजनत् अजनयत् ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna Soma has brought forth the great light called Vaiśvānara, the light of heaven, wonderful, like a thunderbolt (or lightning).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्रं (*citraṃ*)—attractive
+- तन्यतुं न (*tanyatuṃ na*)—as one produces the light of lightning
+- बृहत् (*bṛhat*)—great
+- वैश्वानरं (*vaiśvānaraṃ*)—called Vaiśvānara
+- ज्योतिः (*jyotiḥ*)—light
+- दिवः (*divaḥ*)—in the atmosphere **NOTE**
+- पवमानः (*pavamānaḥ*)—the divine Soma
+- अजीजनत् (*ajījanat*)—has produced
+
+### Printed p. 191
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Soma has produced in the atmosphere a great light called Vaiśvānara, as one produces attractive lightning.
+
+##### English translation
+The pure (Soma) has generated in heaven the great Vaishwanara light like the wonderful thunder.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानस्य ते॒ रसो॒ मदो॑ राजन्नदुच्छु॒नः ।  
+> वि वार॒मव्य॑मर्षति ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानस्य । ते । रसः । मदः । राजन् । अदुच्छुनः ।  
+> वि । वारम् । अव्यम् । अर्षति ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् दीप्यमान सोम पवमानस्य क्षरतः ते तव अदुच्छुनः रक्षोवर्जितः मदः मदकरः रसः अव्यम् अविमयं वारं वालं दशापवित्रम् अर्षति अभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+O shining king Soma, of you who flow, the exhilarating juice, free from demons, goes to the sheep's-wool strainer, the ten-fold filter of hair.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O resplendent divine Soma
+- पवमानस्य (*pavamānasya*)—who are in the form of a stream
+- ते (*te*)—your
+- अदुच्चुनः (*aduccunaḥ*)—free from fault **NOTE**
+- मदः (*madaḥ*)—gladdening
+- रसः (*rasaḥ*)—the juice
+- अव्यं (*avyaṃ*)—made of wool
+- वारं (*vāraṃ*)—the hairs of the ten-fold filter
+- वि अर्षति (*vi arṣati*)—goes and joins for purification
+
+##### भावार्थ (Bhāvārtha)
+
+O resplendent divine Soma, your juice, which is in the form of a stream, free from fault and gladdening, goes and joins the fibres of the ten-fold filter made of wool, for purification.
+
+### Printed p. 192
+
+##### English translation
+Bright shining Soma, the juice of you when you flow enters the woollen filter, exhilarating, free from evil.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान॒ रस॒स्तव॒ दक्षो॒ वि रा॑जति द्यु॒मान् ।  
+> ज्योति॒र्विश्वं॒ स्व॑र्दृ॒शे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । रसः । तव । दक्षः । वि । राजति । द्युऽमान् ।  
+> ज्योतिः । विश्वम् । स्वः । दृशे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम तव त्वदीयः दक्षः वृद्धः द्युमान् दीप्तिमान् रसः वि राजति प्रकाशते । न केवलं स्वयमेव प्रकाशते किंतु विश्वं व्याप्तं स्वः सर्वं ज्योतिः तेजश्च दृशे द्रष्टुं करोतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, your juice, grown strong and brilliant, shines forth. Not only does it shine of itself, but it also makes the whole pervading light, all radiance, to be seen; the verb "to make" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O divine Soma
+- तव (*tava*)—your
+- दक्षः (*dakṣaḥ*)—powerful
+- म्यमान् (*myamān*)—radiant **NOTE**
+- रसः (*rasaḥ*)—the juice
+- वि राजति (*vi rājati*)—shines
+- विश्वं (*viśvaṃ*)—all-pervading
+- स्वः (*svaḥ*)—all
+- ज्योतिः (*jyotiḥ*)—light
+- दृशे (*dṛśe*)—so as to be seen by all
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, your juice, which is powerful and radiant, shines forth. It also makes the all-pervading and all-embracing light to be seen by everyone.
+
+##### English translation
+Purified Soma, your juice as it increases shines bright; it (makes) a pervading universal light to be seen.
+
+### Printed p. 193
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ मदो॒ वरे॑ण्य॒स्तेना॑ पव॒स्वांध॑सा ।  
+> दे॒वा॒वीर॑घशंस॒हा ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । मदः । वरेण्यः । तेन । पवस्व । अंधसा ।  
+> देवऽअवीः । अघशंसऽहा ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव देवावीः देवकामः अघशंसहा राक्षसानां हंता वरेण्यः सर्वैर्वरणीयः मदः मदकरः यः रसो विद्यते तेन रसेन अंधसा अदनीयेन पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, whatever juice of yours there is that is desirous of the gods, the slayer of the demons, to be chosen by all and exhilarating, with that juice, that food fit to be eaten, flow forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- देवावीः (*devāvīḥ*)—that which desires the company of the gods
+- अघशंसहा (*aghaśaṃsahā*)—that which destroys the sinful
+- वरेण्यः (*vareṇyaḥ*)—most excellent
+- मदः (*madaḥ*)—gladdening
+- यः (*yaḥ*)—which juice there is
+- तेन (*tena*)—with such
+- अंधसा (*aṃdhasā*)—juice
+- पवस्व (*pavasva*)—flow in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, with the juice which desires the company of the gods, destroys the sinful, is most excellent and gladdening, flow in the form of a stream.
+
+##### English translation
+Flow forth with that juice of yours which is exhilarating, the best gratifying the gods, the slayer of Rakshasas.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जघ्नि॑र्वृ॒त्रम॑मि॒त्रियं॒ सस्नि॒र्वाजं॑ दि॒वेदि॑वे ।  
+> गो॒षा उ॑ अश्व॒सा अ॑सि ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जघ्निः । वृत्रम् । अमित्रियम् । सस्निः । वाजम् । दिवेऽदिवे ।  
+> गोऽसाः । ऊं इति । अश्वऽसाः । असि ॥ २० ॥
+
 ---
 
-**Progress note:** Done through printed p. 187. Mandala 9 Sukta 61 Rk 5-13 start, pp. 182-187
+**Progress note:** Done through printed p. 193. Mandala 9 sukta 61 rks 13-20 (pp. 188-193)
