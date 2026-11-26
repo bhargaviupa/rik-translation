@@ -16113,6 +16113,260 @@ Adorable, universal gods, advocate our cause for our protection ; preserve us fr
 
 O gods, put far from us (*apa kuruta*, separate) the disease (अमीवां (*amīvāṃ*)) and the like, or the enemy who afflicts like disease. Likewise separate all (विश्वां (*viśvāṃ*)) the अनाहुतिं (*anāhutiṃ*), the thought of not invoking the gods, or the great enemy of the gods. Further, drive away the अरातिं (*arātiṃ*), the non-giving, the miserly thought, or the enemy who is of the nature of not giving oblations to the gods. And also (the one) who desires evil (अघयतः (*aghayataḥ*))…
 
+### Printed p. 476
+
+> शत्रुर्दुर्विदत्रां दुर्विज्ञानं दुष्टां बुद्धिं इत्थं च द्वेषो द्वेष्टान् सर्वाञ्छतूनस्मदस्मत्त आरे दूरे युयोतन । पृथक्कुरुत । एवं सति यूयं नोऽस्मभ्यमुरु विस्तीर्णं शर्म सुखं स्वस्तये कल्याणाय प्रयच्छत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the construction begun in the preceding verse: gods, remove far from us the enemy, the evil-minded one दुर्विदत्रां (*durvidatrāṃ*) (bad understanding), and in this way all those who hate us; keep them far away from us. This being so, grant us wide, extensive happiness for our well-being.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- अमीवां (*amīvāṃ*)—disease
+- अप (*apa*)—remove from us
+- विश्वां (*viśvāṃ*)—all
+- अनाहुतिं (*anāhutiṃ*)—the attitude opposed to sacrifice
+- अप (*apa*)—destroy
+- अरातिं (*arātiṃ*)—the enemy
+- अप (*apa*)—drive far away
+- अघयतः (*aghayataḥ*)—of the enemy who wishes us harm
+- दुर्विदत्रां (*durvidatrāṃ*)—destroy the evil mind
+- द्वेषः (*dveṣaḥ*)—our enemies
+- अस्मत् (*asmat*)—from us
+- आरे (*āre*)—far away
+- युयोतन (*yuyotana*)—drive away
+- स्वस्तये (*svastaye*)—for our welfare
+- नः (*naḥ*)—to us
+- उरु (*uru*)—wide
+- शर्म (*śarma*)—happiness
+- यच्छत (*yacchata*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, destroy our diseases. Let no attitude opposed to sacrifice cling to us. Drive far away our enemies, who wish us harm and are of evil mind. For our welfare give us wide happiness.
+
+##### English translation
+(Remove far) from us disease, remove all neglect of oblations, remove illiberaliiy, the malevolence of those who wish to do us harm ; remove far from us, gods, those who hate us ; grant us ample happiness for our well-being.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरि॑ष्टः॒ स मर्तो॒ विश्व॑ विधते॒ प्र प्र॒जाभि॑र्जायते॒ धर्म॑ण॒स्परि॑ ।  
+> यमा॑दित्यासो॒ नय॑था सुनी॒तिभि॒रति॒ विश्वा॑नि दुरि॒ता स्व॒स्तये॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरिष्टः। सः । मर्तः । विश्वः । विधते । प्र । प्रजाभिः । जायते । धर्मणः । परि ।  
+> यं । आदित्यासः । नयथ । सुनीतिभिः । अति । विश्वानि । दुःइता । स्वस्तये ॥ १३ ॥
+
+### Printed p. 477
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वे देवाः विश्वः सर्वो मर्तः स मनुष्योऽरिष्टः कैश्चिदप्यहिंसितः सन्नेधते पश्वादिभिर्वर्धते । तथा धर्मणस्परि धारकात्कर्मणोऽनंतरं स मनुष्यः
+> प्रजाभिः पुत्रादिभिः प्र जायते । प्रकर्षेणाविर्भूतो भवति । हे आदित्यास आदित्या
+> देवाः यं मनुष्यं सुनीतिभिः सुनयनैर्विश्वानि सर्वाणि दुरिता दुरितानि पापानि
+> तद्रूञ्छत्तून्वा स्वस्तये क्षेमायाति नयथ अतीत्य सन्मार्गं नयथ । स वर्धत इति
+> समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Viśvedevas, every mortal, unharmed by anyone, prospers with cattle and the like; and after the sustaining rite he is born forth with offspring, sons and the rest, that is, he becomes manifest in a distinguished way. O Ādityas, the man whom you lead by good guidance beyond all evils (or enemies) for his welfare, you lead over them along the good path; he prospers. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- यं (*yaṃ*)—which man
+- सुनीतिभिः (*sunītibhiḥ*)—by excellent guidance
+- विश्वानि दुरितानि (*viśvāni duritāni*)—all evil powers
+- स्वस्तये (*svastaye*)—for his welfare
+- अति नयथ (*ati nayatha*)—you cause to cross over
+- सः (*saḥ*)—such
+- विश्वः मर्तः (*viśvaḥ martaḥ*)—every man
+- अरिष्टः (*ariṣṭaḥ*)—without suffering any harm
+- विधते (*vidhate*)—attains growth
+- धर्मणस्परि (*dharmaṇaspari*)—after the sacrificial rites that sustain the world
+- प्रजाभिः (*prajābhiḥ*)—in the form of sons and the rest
+- प्र जायते (*pra jāyate*)—increases his lineage
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, the man whom you, by your excellent guidance, cause to cross over all evil powers for his welfare—every such man attains growth without suffering any harm. After performing the sacrificial rites that sustain the world, he comes into manifestation in the form of sons and the rest and gains increase.
+
+##### English translation
+Unharmed prospers every mortal, after performing his duties, he flourishes with posterity, whom you Adityas guide with good counsels safe over all misfortunes to well-beings,
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं दे॑वा॒सोऽव॑थ॒ वाज॑सात्॒ यं शूर॑साता मरुतो हि॒ते  ॑
+> धने ।  
+> प्रा॒त्॒रर्यावा॑णं॒ रथ॑मिंद्र सान॒सिमरि॑ष्यंत॒मा रु॑हेमा स्व॒तये॑ ॥ १४ ॥
+
+### Printed p. 478
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । देवासः । अवथ । वाजसात् । यं । शूरसाता । मरुतः । हिते । धने ।  
+> प्रातःयावानं । रथं । इंद्र । सानसिं । अरिष्यंतं । आ । रुहेम । स्वस्तये ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवाः वाजसातावन्नभजनेऽन्नलाभे ना यं रथमवथ रक्षथ हे
+> मरुतः शूरसाता । संग्रामनामैतत् शूराः स्यंति खिद्यंतेऽत्रेति शूराः सीयंते
+> विनश्यंते योद्धृभिरत्रेति। तस्मिन्युद्धे यं रथं हिते निहिते धने धनमुद्दिश्य ॥ निमित्तात्कर्मसंयोगे । पा. २-३-३६-६ । इति सप्तमी ॥ तदुद्दिश्य रक्षथ । सर्वेषां देवानां
+> मुख्यत्वादिंद्रमेवाभिलक्ष्य वदत्युत्तरार्धेन । हे इंद्र सर्वेषां मुख्य प्रातयार्वाणं प्रातरेव युद्धं प्रति गंतारं सानसिं संभजनीयमरिष्यंतं कैश्चिदप्यहिंसितं । यद्वा। इंद्रसहायानां मरुतामबाधकं। तं रथं स्वस्तयेऽस्माकं रक्षणाय
+> वयमारुहेम । आरोहेम ॥
+
+##### Gist of the bhāṣya
+
+O gods, the chariot which you protect in the winning of food (वाजसाता (*vājasātā*)); O Maruts, the chariot which you protect in शूरसाता (*śūrasātā*), a name for battle (the place where heroes are weary or are destroyed by warriors), with a view to the wealth laid down there—the seventh case is by निमित्तात्कर्मसंयोगे । पा. २-३-३६-६ । (*nimittātkarmasaṃyoge | pā. 2-3-36-6 |*). Since Indra is chief of all the gods, the second half is addressed to him: O Indra, chief of all, we would mount that chariot, which goes forth to battle at early morning, is to be shared in, is unharmed by anyone—or, alternatively, does not hinder the Maruts who are Indra's helpers—for our protection and welfare.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O gods
+- वाजसात् (*vājasāt*)—for the winning of food
+- यं (*yaṃ*)—which chariot
+- अवध (*avadha*)—you protect
+- मरुतः (*marutaḥ*)—O Maruts
+- शूरसाता (*śūrasātā*)—in the battle that conquers heroes
+- यं (*yaṃ*)—which chariot
+- हिते धने (*hite dhane*)—you protect for the wealth in it
+- इंद्र (*iṃdra*)—O Indra
+- प्रातरावाणं (*prātarāvāṇaṃ*)—setting out to battle early in the morning
+- सानसिं (*sānasiṃ*)—worthy of honour
+- अरिष्यंतं (*ariṣyaṃtaṃ*)—not liable to harm
+- रथं (*rathaṃ*)—that chariot
+- स्वस्तये (*svastaye*)—for our welfare
+- आ रुहेम (*ā ruhema*)—may we mount
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, the chariot you protect for the winning of food; O Maruts, the chariot you protect, for the wealth in it, in the battle that conquers heroes; O Indra, that chariot which sets out to battle in the early morning, is worthy of honour and not liable to harm—may we mount it for our welfare.
+
+##### English translation
+(The chariot) which, deities, you protect for the supply of food ; that which, Maruts, (you protect) in battle for the sake of the deposited spoil ; may we mount, Indra, the early-moving desirable irresistible chariot for our weil-being.
+
+### Printed p. 479
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्ति नः॑ प॒थ्या॑सु॒ धन्व॑सु स्व॒स्त्य१॒॑ग्पु वृ॒जने॒ स्व॑र्वति ।  
+> स्व॒स्ति नः॑ पुत्रकृ॒थेषु॒ योनि॑षु स्व॒स्ति रा॒ये म॑रुतो दधातन ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्ति । नः । पथ्यासु । धन्वसु । स्वस्ति । अप्सु । वृजने । स्वःवति ।  
+> स्वस्ति । नः । पुत्रकृथेषु । योनिषु । स्वस्ति । राये । मरुतः । दधातन ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रायणेयेष्टौ पथ्यास्वस्तेर्यागस्य स्वस्ति नः पथ्यास्वित्येषानुवाक्या । उत्तरा
+> याज्या। सूत्रितं च। स्वस्ति नः पथ्यासु धनस्विति द्वे अग्ने नय सुपथा राये आस्मान्।
+> आ. ४-३ । इति । उदयनीयायामेत एव विपर्यस्ते याज्यानुवाक्ये । सूत्रितं च ।
+> विपरीताश्च याज्यानुवाक्या इति ॥
+> हे मरुतो मितराविणो देवाः नोऽस्माकं पथ्यासु पथियोग्येषु सोदकेषु देशेषु स्वस्ति कल्याणं कुरुत । तथा धन्वसु निरुदकेषु देशेषु स्वस्ति कल्याणमुदकजननलक्षणं कुरुत । तथाप्सूदकेषु स्वस्ति । तथा स्वर्वति सर्वैरायुधैर्युक्ते
+> सेनालक्षणे वृजने शत्रूणामावर्जके बले च कल्याणं कुरुत । नोऽस्माकं पुत्रकृथेषु पुत्राणां कर्तृषूत्पादकेषु स्त्रीणां योनिषु स्वस्ति कल्याणं यथा गर्भा
+> न पतंति तथा क्षेमं कुरुत । किंच नोऽस्माकं राये धनाय गवादिलक्षणाय स्वस्ति
+> क्षेमं दधातन । धत्त । कुरुत ॥
+
+##### Gist of the bhāṣya
+
+In the Prāyaṇīyeṣṭi, for the offering to Pathyāsvasti, स्वस्ति नः पथ्यासु (*svasti naḥ pathyāsu*) is the anuvākyā and the next verse the yājyā. It is stated in the sūtra: स्वस्ति नः पथ्यासु धनस्विति द्वे अग्ने नय सुपथा राये आस्मान्। (*svasti naḥ pathyāsu dhanasviti dve agne naya supathā rāye āsmān|*) Ā. 4-3. In the Udayanīyā the same two are used with yājyā and anuvākyā reversed; this too is stated in the sūtra: विपरीताश्च याज्यानुवाक्या इति (*viparītāśca yājyānuvākyā iti*).
+O Maruts, gods, make well-being for us on roads suited to travel, with water; likewise in waterless regions (deserts), a well-being consisting in bringing forth water; likewise in the waters; likewise in the वृजने (*vṛjane*), the army or force that turns enemies aside, equipped with all weapons, make well-being. Make well-being for us in the wombs of women, the producers of sons, so that the embryos do not fall; and for our wealth in the form of cattle and the like, give welfare.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- नः (*naḥ*)—to us
+- पथ्यासु (*pathyāsu*)—on roads full of water
+- स्वस्ति (*svasti*)—let there be good
+- धन्वसु (*dhanvasu*)—on roads through waterless deserts
+- स्वस्ति (*svasti*)—let there be welfare
+- अप्सु (*apsu*)—in the waters
+- स्वर्वति (*svarvati*)—full of troops
+- वृजने (*vṛjane*)—amid the enemy force, let there be good
+- नः (*naḥ*)—to us
+- पुत्रकृथेषु (*putrakṛtheṣu*)—of the women who bear sons
+- योनिषु (*yoniṣu*)—in the wombs
+- स्वस्ति (*svasti*)—provide safety
+- राये (*rāye*)—for the enjoyment of our wealth
+- स्वस्ति (*svasti*)—safety
+- दधातन (*dadhātana*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, let there be welfare for us on roads with water and in waterless deserts. Let it be good in the waters. Let it be good for us amid enemy forces equipped with armies. Give protection to the wombs of the women who increase our line. For the enjoyment of our wealth, provide us safety.
+
+##### English translation
+Maruts, secure to us well-being on roads, in deserts, well-being in waters, amidst the might of assailing hosts : well-being in the son-bearing wombs (of our wives) ; well-being for (the acquirement of) riches.
+
+### Printed p. 480
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Prāyaṇīyeṣṭi, in the offering made to the deity named Pathyāsvasti, these Ṛks beginning स्वस्ति नः पथ्यासु (*svasti naḥ pathyāsu*) are to be recited as the anuvākyā mantra and the following Ṛk स्वस्तिरिद्धि (*svastiriddhi*) as the yājyā mantra; this is explained by the Āśvalāyana Śrauta Sūtra स्वस्ति नः पथ्यासु धन्वस्विति द्वे अग्ने नय सुपथा राये आस्मान् (*svasti naḥ pathyāsu dhanvasviti dve agne naya supathā rāye āsmān*) (Ā. 4-3). In the Udayanīyeṣṭi also these two Ṛks may be recited optionally as yājyā and anuvākyā mantras; this is explained by the Āśvalāyana Śrauta Sūtra विपरीताश्च याज्यानुवाक्याः (*viparītāśca yājyānuvākyāḥ*).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्तिरिद्धि प्रप॑थे॒ श्रेष्ठा॒ रेक्ण॑स्वत्य॒भि या वा॒ममेति॑ ।  
+> सा नो॑ अ॒मा सो अर॑णे॒ नि पा॑तु स्वावे॒शा भ॑वतु दे॒वगो॑पा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्तिः । इत् । हि । प्रपथे । श्रेष्ठा । रेक्णस्वती । अभि ! या । वामं । एति ।  
+> सा । नः । अमा । सो इति । अरणे । नि । पातु । सुआवेशा । भवतु । देवगोपा ॥१६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या पृथिवी गंतुमुद्युक्तानां प्रपथे प्रकृष्टाय मार्गाय स्वस्तिरित् क्षेमकारिण्येव भवति श्रेष्ठा प्रशस्यतमा रेक्णस्वती धनवती या पृथिवी वामं वननीयं
+> यज्ञमभ्येति उत्तरवेद्यात्मना वाभिप्राप्नोति सा पृथिवी नोऽस्माकममा । गृहनामैतत् । गृहं रक्षतु । तथा सो सा उ सैवारणे गंतव्ये देशेऽरणेऽरमणेऽरण्यादिके देशे वा नोऽस्मान्नि पातु । नितरां रक्षतु । तथा देवगोपा देवा गोपायितारो यस्याः संति सा पृथिव्यस्माकं स्वावेशा शोभननिवासा भवतु ॥
+
+##### Gist of the bhāṣya
+
+The earth, which for those set out to travel is स्वस्तिरित् (*svastirit*), the very maker of well-being on the excellent path, most excellent, रेक्णस्वती (*rekṇasvatī*) (wealthy), and which comes to the desirable sacrifice or reaches it as the uttaravedi—may that earth protect our home (अमा (*amā*) is a name for house). Likewise may she protect us thoroughly in the अरणे (*araṇe*), in the place to be travelled, a place without pleasure, forest and the like. Likewise she who has the gods as guardians: may that earth be a good dwelling for us.
+
+### Printed p. 481
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रपथे (*prapathe*)—for the excellent path
+- स्वस्तिरित् (*svastirit*)—a maker of welfare
+- श्रेष्ठा (*śreṣṭhā*)—excellent
+- रेक्ष्णस्वती (*rekṣṇasvatī*)—wealthy
+- या (*yā*)—which earth
+- वामं (*vāmaṃ*)—to the attractive sacrifice
+- अभ्येति (*abhyeti*)—comes
+- सा (*sā*)—that earth
+- नः (*naḥ*)—us
+- अमा (*amā*)—may she protect in the house
+- सो (*so*)—she herself
+- अरणे (*araṇe*)—in forest and other path-regions
+- नि पातु (*ni pātu*)—may she protect us completely
+- देवगोपा (*devagopā*)—that same earth who protects the gods
+- स्वावेशा (*svāveśā*)—giving us a good home
+- भवतु (*bhavatu*)—may she be
+
+##### भावार्थ (Bhāvārtha)
+
+May that earth, who is a maker of welfare for the excellent path, excellent, and wealthy, and who comes to the attractive sacrifice, protect us in the house. May she herself protect us completely in forests and other path-regions. May that same earth, who also protects the gods, be a giver of a good home to us.
+
+##### English translation
+May (Prithivi), who secures well-being to the excellent path, who, abounding with wealth, goes to the desirable (place of sacrifice), preserve our home,  may she protect us on the path we have to travel ; cherished by the gods, may she be to us a pleasant abode.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has stated the Nirukta on this Ṛk:
+स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सा निरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप्री देवान् गोपायत्विति देवा एनां गोपायंत्वित्वा ॥ (*svastireva hi prapathe śreṣṭhā rekṇasvatī dhanavatyabhyeti yā vasūni vananīyāni sā no 'mā gṛhe sā niramaṇe sā nirgamane pātu svāveśā bhavatu devī goprī devān gopāyatviti devā enāṃ gopāyaṃtvitvā ‖*) (Ni. 11-46)
+This deity named Svasti is the best of the gods of the middle region. She comes near us as one with wealth, raining the water everyone needs. May she protect us whether we are at home or travelling outside. By her entry good comes to us. This goddess is called देवगोपा (*devagopā*): because she protects the gods (or us, the givers of oblations), or because the gods protect her, she has the name देवगोपा (*devagopā*). This is the main import of the Nirukta statement.
+
 ---
 
-**Progress note:** Done through printed p. 475. pp. 470-475 (batch API)
+**Progress note:** Done through printed p. 481. pp. 476-481 (batch API)
