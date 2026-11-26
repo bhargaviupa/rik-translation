@@ -25581,6 +25581,191 @@ his youngest son, named Nābhānediṣṭha, was studying in the guru's house in
 
 मनुः (*manuḥ*)—Since the usage occurs also when men in general are intended, as "Manu" or "Manus", it is difficult to know when men are intended and when the person called Manu. In the second sense, the usage occurs about twenty times in the singular as "Manu" and about as many times in the plural; Manu is called "father" five times, and in two of these still more clearly "our father" (2-33-13: and the like). (विशः (*viśaḥ*) 4-37-1;) **NOTE** Agni dwells in the progeny of Manu (1-68-4). It is Manu who began the sacrifices. Having kindled Agni, together with the seven sages, he gave the first offering to the gods (10-63-7). The very sacrifice practised by Manu is what everyone practises now. The present sacrifice is compared to the sacrifice that the Manus performed with reference to the gods (1-76-5). By the adverb मनुस्वत् (*manusvat*) (like Manu) the sacrificial acts are compared again and again. Like the Manus, the worshippers complete the sacrifice with Agni (1-44-11). Like the Manus, they kindle Agni (5-21-1 and the like). They praise Agni, kindled by Manu, just like Manu (7-2-3). Like the Manus, they offer the Soma juice (4-37-3). Soma is prayed to flow for them now, as he flowed formerly for Manu (9-96-12). Manu established Agni so that he might be a light for all people (1-36-19). With the ancient sacrificers, the Aṅgirases and the Yayātis (1-31-17), Bhṛgu and Aṅgirasa
 
+### Printed p. 677
+
+Bhṛgus and Aṅgirases (8-43-13), with Atharvan and Dadhyañc (1-80-16), and with Dadhyañc, the Aṅgirases, Atri and the Kaṇvas (1-139-1) Manu too is included. The gods (1-36-10), Mātariśvan (1-128-2), Mātariśvan and the gods (1-46-9) or the poet Uśanas (8-23-17,): these gave Agni to Manu **NOTE** or appointed him as the priest of Manu. In four contexts Manu must mean a man.
+
+Indra drank Soma together with Manu, the son of Vivasvant (Vā. 4-1) **NOTE**, or with Manu Sāṃvaraṇi (Vā. 3-1). To obtain the strength needed for fighting with the Asura Vṛtra, Indra drank the soma juice belonging to the Manus, as much as three lakes (5-29-7). A bird brought the soma juice to Manu (4-26-4). In the Taittirīya Saṃhitā and the Śatapatha Brāhmaṇas Manu is described as the patron of religious rites.
+
+Manu is conceived as the son of Vivasvant; he has the name Vaivasvata Manu (4-1; compare 3-1). In the Atharvaveda (A. Ve. 8-10-24) **NOTE**, the Śatapatha Brāhmaṇa (Śa. Brā. 13-4-3-3) and the Purāṇas and the like, the name Vaivasvata has become customary for Manu. Among the children of Vivasvant Yama is one, and he is the first among men. That is, Manu and Yama may be called the two primal progenitors of men. But while Manu is the first among the living, Yama became the first among the dead and the lord of the world of the dead. In the Śatapatha Brāhmaṇa, Vaivasvata Manu is called the king of men and Yama the king of the dead (Śa. Brā. 13-4-3-3 5) **NOTE**. In the Nirukta (Ni. 12-10), Manu is explained as the son of the Āditya called Vivasvant and of the woman called Savarṇā (which may have been used in the place of Saraṇyu) (compare 10-17-2), and he is indicated as one of the deities of the heavenly world (Ni. 5-6) (Ni. 12-34).
+
+There is a story in the Śatapatha Brāhmaṇa (Śa. Brā. 1-8-1-1 to 10) that at the time of the deluge, although all other creatures were drowned, Manu alone was saved in a ship by a fish (an incarnation of Viṣṇu). It was then that Manu became the cause of the human race through his daughter named Iḍā (Iḷā), born of oblations. This story of the deluge is found in the Atharvaveda too (A. Ve. 19-39-8).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ सद्मे॑व पशु॒मांति॒ होता॒ राजा॒ न स॒त्यः समि॑तीरिया॒नः ।  
+> सोमः॑ पुना॒नः क॒लशाँ॑ अयासी॒त्सीद॑न्मृ॒गो न म॑हि॒षो वने॑षु ॥ ६ ॥
+
+### Printed p. 678
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सद्मऽइव । पशुऽमंति । होता । राजा । न । सत्यः । सम्ऽइतीः । इयानः ।  
+> सोमः । पुनानः । कलशान् । अयासीत् । सीदन् । मृगः । न । महिषः । वनेषु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता देवानामाह्वातर्त्विक् पशुमंति पशुमतः सद्मेव यज्ञगृहान् यथोपगच्छति । किंच राजा न यथा राजा सत्यः सत्यकर्मा सन् समितीः । संग्रामनामैतत् सम्यक् प्राप्यते योद्धृभिरत्रेति । तान् संग्रामान् इयानः गच्छन् भवति तथा पुनानः सोमः वनेषु वननीयेषु वसतीवर्याख्येषूदकेषु सीदन् मृगो न महिषः महिषाख्यो मृग इवोदकेषु तिष्ठन् कलशान् द्रोणाभिधानान् अयासीत् परियाति । यद्वा । महिषो महान् पूज्यो वा सोमः कलशान् परिगच्छतीति ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+The Hotṛ, the priest who summons the gods, goes to the sacrificial houses पशुमंति (*paśumaṃti*), those that have animals, as one goes to one's own house. Further, as a king, being of true action, goes to समितीः (*samitīḥ*), which is a name for battle (that in which warriors properly (सम्यक् (*samyak*)) attain), going to those battles, so Soma, being purified, abiding in वनेषु (*vaneṣu*), the lovable waters called vasatīvarī, like the wild beast called महिषः (*mahiṣaḥ*) staying in water, goes round the vessels called Droṇa. Or else, महिषः (*mahiṣaḥ*) means great or worthy of worship: Soma goes round the vessels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the Hotṛ
+- पशुमंति (*paśumaṃti*)—possessed of sacrificial animals
+- सद्मेव (*sadmeva*)—as he enters the sacrificial house
+- सत्यः (*satyaḥ*)—of true action
+- राजा (*rājā*)—the king
+- समितीः न इयानः (*samitīḥ na iyānaḥ*)—as he enters the field of battle
+- पुनानः (*punānaḥ*)—the purifier
+- सोमः (*somaḥ*)—Soma
+- महिषः मृगो न (*mahiṣaḥ mṛgo na*)—as the wild beast called mahiṣa enters the water
+- वनेषु (*vaneṣu*)—in the vasatīvarī and the rest
+- सीदन् (*sīdan*)—being stationed
+- कलशान् (*kalaśān*)—into the Droṇakalaśa
+- अयासीत् (*ayāsīt*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+As the Hotṛ enters the sacrificial house provided with sacrificial animals, as the king of true action enters the field of battle, Soma, the purifier, stationed in the vasatīvarī and the rest, enters the Droṇakalaśa, as the wild beast called mahiṣa (the buffalo) enters the water.
+
+##### English translation
+As the ministrant priest proceeds to the hall where the victim is stationed, as a just king marches to battle, the Soma undergoing purification enters the pitchers like the wild buffalo in the waters, **NOTE**
+
+The ninety-third sūkta.
+
+## Sūkta 93 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साकमुक्षः' इति पंचर्चमष्टमं सूक्तं गौतमस्य नोधस आर्षम् । पूर्ववच्छंदोदेवते । तथा चानुक्रम्यते- साकमुक्षः पंच नोधाः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, of five Ṛks, beginning साकमुक्षः (*sākamukṣaḥ*), is the ārṣa of Nodhas Gautama. Its metre and deity are as before. And so the Anukramaṇī says साकमुक्षः पंच नोधाः (*sākamukṣaḥ paṃca nodhāḥ*). The viniyoga has been stated.
+
+### Printed p. 679
+
+##### Anuvāda
+
+Anuvāda— This sūkta, साकमुक्षः (*sākamukṣaḥ*), is the eighth sūkta in the fifth anuvāka. It has five Ṛks. The seer of this sūkta is Nodhas, the son of the sage Gotama; Pavamāna Soma is the deity; the metre is Triṣṭup. That it is said in the Anukramaṇikā साकमुक्षः पंच नोधाः (*sākamukṣaḥ paṃca nodhāḥ*): the viniyoga has been stated before.
+
+Sūkta 93. Maṇḍala 9, Anuvāka 5, Sūkta 93. Aṣṭaka 7, Adhyāya 4, Varga 3. Number of ṛks in the sūkta: 5. Seer: Nodhas. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒क॒मुक्षो॑ मर्जयंत॒ स्वसा॑रो॒ दश॒ धीर॑स्य धी॒तयो॒ धनु॑त्रीः ।  
+> हरिः॒ पर्य॑द्रव॒ज्जाः सूर्य॑स्य॒ द्रोणं॑ ननक्षे॒ अत्यो॒ न वा॒जी ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साकम्ऽउक्षः । मर्जयंत । स्वसारः । दश । धीरस्य । धीतयः । धनुत्रीः ।  
+> हरिः । परि । अद्रवत् । जाः । सूर्यस्य । द्रोणम् । ननक्षे । अत्यः । न । वाजी ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साकमुक्षः सह युगपत् सिंचंत्यः । उक्ष सेचने'। क्विपि रूपम् । तादृश्यः स्वसारः कर्मकरणार्थमितस्ततः सुष्ठु गच्छंत्योऽंगुल्यः मर्जयंत सोमं शोधयंति। ‘ मृजू शौचालंकारयोः' । तथा दश दशसंख्याकाः धीतयः । अंगुलिनामैतत् । अंगुलयः धीरस्य समर्थस्य प्राज्ञस्य वा देवैर्ध्यातव्यस्य काम्यमानस्य वा सोमस्य धनुत्रीः प्रेरयित्र्यो भवंति । ततः हरिः हरितवर्णः सोमः सूर्यस्य जाः प्रादुर्भूता जाया दिशस्ताः पर्यद्रवत् परितो गच्छति । सूर्यतेजसा ह्याविर्भवतीति दिशां तस्य जात्वम् । अत्यः अतनशीलः वाजी न अश्व इव स्थितः सोमः द्रोणं कलशं ननक्षे व्याप्नोति । नक्षतिर्व्याप्तिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+साकमुक्षः (*sākamukṣaḥ*): sprinkling together, at one time (the root उक्ष (*ukṣa*) has the sense of sprinkling). Such sisters, the fingers, moving well hither and thither in order to perform the rite, मर्जयंत (*marjayaṃta*), purify the Soma (the root मृजू (*mṛjū*) has the sense of cleansing and adorning). Likewise the ten, ten in number, धीतयः (*dhītayaḥ*), which is a name of the fingers, the fingers, are धनुत्रीः (*dhanutrīḥ*), impellers, of the धीरस्य (*dhīrasya*) Soma, who is able or wise, or is to be meditated upon by the gods, or is desired. Then हरिः (*hariḥ*), the green-hued Soma, goes round on all sides the जाः (*jāḥ*) of the Sun, the manifested wives, the directions; for they become manifest through the Sun's light, and so the directions are said to be born of him. Staying like a अत्यः (*atyaḥ*), one who keeps moving, a swift horse, Soma pervades the Droṇa, the vessel, ननक्षे (*nanakṣe*). नक्षति (*nakṣati*) has the sense of pervading.
+
+### Printed p. 680
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- साकमुक्षः (*sākamukṣaḥ*)—gathered together and pressing
+- स्वसारः (*svasāraḥ*)—the fingers
+- मर्जयंत (*marjayaṃta*)—purify the Soma
+- दश धीतयः (*daśa dhītayaḥ*)—the ten fingers also
+- धीरस्य (*dhīrasya*)—for the wise Soma
+- धनुत्रीः (*dhanutrīḥ*)—are impellers
+- हरिः (*hariḥ*)—Soma, of green colour
+- सूर्यस्य जाः परि (*sūryasya jāḥ pari*)—in all the directions lighted by the sun
+- अद्रवत् (*adravat*)—moves
+- अत्यः (*atyaḥ*)—swift-going
+- वाजी न (*vājī na*)—like a horse
+- द्रोणं (*droṇaṃ*)—into the Droṇakalaśa
+- ननक्षे (*nanakṣe*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+The fingers, which gather together and press, purify the Soma. The ten fingers also are impellers of the wise Soma. Soma, of green colour, moves in all the directions lighted by the sun. Like a swift-going horse he enters the Droṇakalaśa.
+
+##### English translation
+The sister (fingers) sprinkling together cleanse (the Soma), the ten fingers (are) the effusers of the sagacious (Soma); the green-tinted one flows round the wives of the sun, he hastens like a swift horse to the pitcher.
+
+##### विशेषविषयगळु (Special Topics)
+
+दश स्वसारः (*daśa svasāraḥ*)—कर्मकरणार्थमितस्ततः सुष्टु गच्छंत्योऽज्जुलयः । (*karmakaraṇārthamitastataḥ suṣṭu gacchaṃtyo 'jjulayaḥ |*) Because they keep moving hither and thither while working, the fingers have the name स्वसारः (*svasāraḥ*). Besides, स्वसारः (*svasāraḥ*) also has the meaning sisters: since the fingers have gone forth from the hand, the hand is the common place of origin of the fingers. Women who have one and the same place of origin are called sisters of one another. Here, since the hand is the common place of origin of the fingers, it has become customary to call these fingers by the word स्वसारः (*svasāraḥ*). In the present Ṛk it is indicated that the ten fingers on the hands of the priests, the Adhvaryu and the others, are engaged in the work of crushing the soma creeper with stones and pressing out the juice. The description of this work has been given in many Ṛks of this maṇḍala. Yāska in his Nirukta has read the word स्वसारः (*svasāraḥ*) among the twenty-two names of the fingers beginning with आग्रुवः (*āgruvaḥ*). (Ni. 3-9)
+
+### Printed p. 681
+
+सूर्यस्य जाः (*sūryasya jāḥ*)—सूर्यस्य प्रादुर्भूता जाया दिशः । सूर्यतेजसा ह्याविर्भवंतीति दिशां तस्य जात्वं ॥ (*sūryasya prādurbhūtā jāyā diśaḥ | sūryatejasā hyāvirbhavaṃtīti diśāṃ tasya jātvaṃ ‖*) Here जाः (*jāḥ*) has been taken to mean the directions: since by the light of the sun the directions all around become visible to everyone, the seer has described the directions as produced (illumined) by the sun.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं मा॒तृभि॒र्न शिशु॑र्वावशा॒नो वृषा॑ दधन्वे पुरु॒वारो॑ अ॒द्भिः ।  
+> मर्यो॒ न योषा॑म॒भि नि॑ष्कृ॒तं यन्सं ग॑च्छते क॒लश॑ उ॒स्रिया॑भिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । मातृऽभिः । न । शिशुः । वावशानः । वृषा । दधन्वे । पुरुऽवारः । अत्ऽभिः ।  
+> मर्यः । न । योषाम् । अभि । निःऽकृतम् । यन् । सम् । गच्छते । कलशे । उस्रियाभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वावशानः देवान् कामयमानः वृषा कामानां वर्षकोऽत एव पुरुवारः बहुभिर्वरणीयः सोमः अद्भिः मातृभूताभिर्वसतीवरीभिः सं दधन्वे संधार्यते । तत्र दृष्टांतः । मातृभिर्न शिशुः । कामयमानः पुत्री यथा मातृभिः पयःप्रदानेन संधार्यते । धविर्गत्यर्थः । कर्मणि लिटि रूपम् । मर्यो न मनुष्यो यथा योषां युवतिमभिगच्छति तद्वत् निष्कृतं संस्कृतं स्वस्थानम् अभि यन् अभिगच्छन् कलशे द्रोणाभिधाने उस्रियाभिः अद्भिर्गोविकारैः क्षीरादिभिर्वा सं गच्छते । गमेरकर्मकात् ' समो गम्यृच्छि' इत्यात्मनेपदम् ॥
+
+##### Gist of the bhāṣya
+
+Longing for the gods, वावशानः (*vāvaśānaḥ*), the showerer of desires, वृषा (*vṛṣā*), and therefore पुरुवारः (*puruvāraḥ*), to be chosen by many, Soma is held together with the waters, अद्भिः (*adbhiḥ*), the vasatīvarī waters who are like mothers. An illustration for this: मातृभिर्न शिशुः (*mātṛbhirna śiśuḥ*), as a longing child is sustained by its mothers through the giving of milk. मर्यो न (*maryo na*): as a man goes to a young woman, so going to his own prepared place, in the vessel called Droṇa he unites with उस्रियाभिः (*usriyābhiḥ*), with waters, or with products of the cow, milk and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिशुः (*śiśuḥ*)—the child
+- मातृभिः न (*mātṛbhiḥ na*)—as it joins its mothers
+- वावशानः (*vāvaśānaḥ*)—one who longs for the gods
+- वृषा (*vṛṣā*)—the granter of desires
+- पुरुवारः (*puruvāraḥ*)—desired by many; Soma, the god, being such
+- अद्भिः (*adbhiḥ*)—with the vasatīvarīs
+- सं दधन्वे (*saṃ dadhanve*)—joins
+- मर्यः (*maryaḥ*)—a man
+- योषां न (*yoṣāṃ na*)—as he goes near a young woman
+- निष्कृतं (*niṣkṛtaṃ*)—to his well-refined place
+- अभि यन् (*abhi yan*)—going
+- कलशे (*kalaśe*)—in the Droṇakalaśa
+- उस्रियाभिः (*usriyābhiḥ*)—with milk and the like
+- सॆं गच्छते (*sèṃ gacchate*)—joins **NOTE**
+
+### Printed p. 682
+
+##### भावार्थ (Bhāvārtha)
+
+As a child joins its mother, Soma, the god, who longs for the gods, grants desires and is desired by many, joins the vasatīvarīs. As a man goes near a young woman, going to his well-refined place he joins in the Droṇakalaśa with milk and the like.
+
+##### English translation
+Longing (for the deities) the showerer (of benefits) the desired of many (the Soma) is sustained by the (consecrated) waters as the infant by its mother; going to his station like a bridegroom to his bride, he combines in the pitcher with the curds and milk.
+
+##### विशेषविषयगळु (Special Topics)
+
+The soma juice, pressed out of the creepers, flows away and goes and falls into the vessel called the Droṇakalaśa, placed for it. The seer has described this by two kinds of illustrations. One kind of illustration is this: as a small child goes to its mother's side for suckling, the soma juice goes in order to join the वसतीवरी (*vasatīvarī*) water, which is like a mother to it. The soma juice just pressed is compared to a small child. It is natural for a child to go to its mother. In the same way, as a preliminary to offering the pressed soma to the gods, it is to be purified in the दशापवित्र (*daśāpavitra*) and refined by rites such as mixing it with the water of the vessel called वसतीवरी (*vasatīvarī*). That is what is said here in the comparison: the soma juice goes in order to be mixed with the वसतीवरी (*vasatīvarī*) water. The second comparison is this: in the way a young man goes eagerly to the young woman dear to him, this soma juice goes to the Droṇakalaśa in order to join the substances such as milk with which it is mingled **NOTE**. This is the second illustration. In order that the soma juice may have taste, substances called आशिर (*āśira*), milk, curds and flour, are added to it. The soma juice to which milk is added has the name गवाशिर (*gavāśira*), that to which curds are added दध्याशिर (*dadhyāśira*), and that to which flour is added यवाशिर (*yavāśira*): different names. The seer has described the soma juice flowing to be mixed with आशिर (*āśira*) substances of this kind, comparing it to a young man going to unite with a young woman.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त प्र पि॑प्य॒ ऊध॒रघ्न्या॑या॒ इंदु॒र्धारा॑भिः सचते सुमे॒धाः ।  
+> मू॒र्धानं॒ गावः॒ पय॑सा च॒मूष्व॒भि श्री॑णंति॒ वसु॑भि॒र्न नि॒क्तैः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 676. Special Topics on 33 gods and the seven rivers (Nirukta), Rk 5 block and Pratipadartha, Special Topics on Manu
+**Progress note:** Done through printed p. 682. end of Manu topic, Rk 6 block and Pratipadartha, Sukta 93 intro, Rk 1-2 with Special Topics, Rk 3 Samhita
