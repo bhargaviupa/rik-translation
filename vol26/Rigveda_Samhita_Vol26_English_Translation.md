@@ -30706,6 +30706,208 @@ The Paṇis: O Saramā, good. You said that Indra has sent you as messenger. Wha
 
 Saramā: As you think, that Indra cannot be conquered. The Indra who sent me conquers enemies, but others cannot conquer him. Even deep rivers cannot stop him. Slain by him, you will have to lie on the bed of death.
 
+### Printed p. 832
+
+The Paṇis: O Saramā, is it not indeed for these cows that you have come this great distance by the path of the firmament, and desire them? But who will hand those cows over to you for nothing, without battle? Our weapons are very sharp.
+
+Saramā: What use are your words? Is there the strength of an army in those words? Do your sin-filled bodies have the power that bows and arrows have? The path you follow is very hard. Bṛhaspati (the master of the cows) will show you no mercy and will set no value on your words.
+
+The Paṇis: O Saramā, this wealth of cattle, that is, cows, horses, goods and so on, we have gathered and placed in the mountains. We, the Paṇis, guard them with great care. Your coming alone to such an inaccessible place is in vain.
+
+Saramā: Listen, O Paṇis. The sages and the Aṅgirasas, having obtained strength and power by drinking Soma, will come here under the leadership of Ayāsya, seize these cows by force and share them among themselves. Then you will know that the words you speak are vain.
+
+The Paṇis: O Saramā, it seems that you have the support of the gods. Therefore we shall regard you as our sister. Do not go back to Indra. Stay here. We shall give you a share of these cows too.
+
+Saramā: I do not want the friendship and the sisterhood you offer. Indra and the terrible Aṅgirasas know my nature. As I was coming here seeking the cows, they came to know your dwelling by a hidden path. Therefore, O Paṇis, run far away and save your lives. Do not delay; go to a safe place far off. Let the cows kept in the cave come out in order. Bṛhaspati, Soma and the wise sages will discover this secret place, break open the door of the cave where the cows are, and rush in.
+
+In this dialogue one Ṛk is spoken by the Paṇis and, in reply, another Ṛk by Saramā. These matters of the Paṇis' carrying off the cows are indicated in many places in the Ṛgveda.
+
+### Printed p. 833
+
+Although in the Ṛgveda the word Paṇi has the meaning of a wealthy man who carries on trade and the like, it also means a man who does not perform sacrifices and the like and gives no sacrificial fees or gifts; therefore the sages seem to have looked on him with disdain and to have regarded him as unworthy of respect and as a base man. In some places Paṇi appears as a single separate person, but since the plural use of this word is especially frequent, it should be understood that the word for the Paṇis denotes a class of people. Some hold that these Paṇis were the earlier inhabitants of this country, that they were engaged in trade and the like, but, because they lacked honesty, people used to say that they belonged to the company of the Asuras. Since they performed no sacrifices, took no interest in any good rite, and, by just or unjust means, regarded the mere gathering of wealth as the chief thing and acted accordingly, the Āryas considered them robbers (dasyus) and men of base conduct, and expressed that opinion in the mantras and elsewhere. There are many Ṛks in the Ṛgveda concerning the Paṇis.
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक्रां॑त्समु॒द्रः प्र॑थ॒मे विध॑र्मंज॒नय॑न्प्र॒जा भुव॑नस्य॒ राजा॑ ।  
+> वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ अव्ये॑ बृ॒हत्सोमो॑ वावृधे सुवा॒न इंदुः॑ ॥ ४० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्रान् । समुद्रः । प्रथमे । विधर्मन् । जनयन् । प्रऽजाः । भुवनस्य । राजा ।  
+> वृषा । पवित्रे । अधि। सानौ । अव्ये। बृहत् । सोमः । ववृधे । सुवानः । इंदुः ॥ ४० ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रः यस्मादापः समुद्द्रवंति स समुद्रः अपां वर्षको राजा सोमः प्रथमे विस्तृते भुवनस्योदकस्य विधर्मन् विधारकेंतरिक्षे प्रजा जनयन् । उत्पादयन् अक्रान् सर्वमतिक्रामति । क्रमतेर्लुङि तिपीडभावे वृद्धौ च कृतायां सिज्लोपे मकारस्य मोनोधातोरिति नकाररूपं । वृषा कामानां वर्षिता सुवानोभिषूयमाणः इंदुर्दीप्तः स सोमः अधि अधिकं सानौ समुच्छिते अव्ये अविमये पवित्रे बृहत् प्रभूतं ववृधे वर्धते ॥ ४० ॥
+> XXVI 53
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the waters flow forth from Soma, and therefore he is the ocean: Soma, the sender of the waters, the king. In the wide firmament, the supporter of the water, generating creatures, he traverses everything. Soma is the showerer of desired things; being pressed, he is bright. That Soma grows abundantly on the lofty woollen filter, the word for "above" being taken as "greatly", the word for "lofty" as "raised up", and the word for "woollen" as "made of wool".
+
+### Printed p. 834
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रः (*samudraḥ*)—the one who pours rain
+- राजा (*rājā*)—the lord, Soma
+- प्रथमे (*prathame*)—in the wide
+- भुवनस्य (*bhuvanasya*)—of the water
+- विधर्मन् (*vidharman*)—in the firmament that is the supporter
+- प्रजाः (*prajāḥ*)—creatures
+- जनयन् (*janayan*)—producing
+- अक्रान् (*akrān*)—he pervades the whole world
+- वृषा (*vṛṣā*)—the showerer of desires
+- सुवानः (*suvānaḥ*)—the one who is pressed
+- इंदुः (*iṃduḥ*)—the shining
+- सोमः (*somaḥ*)—god Soma
+- सानौ (*sānau*)—on the elevated place
+- अव्ये (*avye*)—made of wool
+- पवित्रे अधि (*pavitre adhi*)—on the ten-fold filter
+- बृहत् (*bṛhat*)—exceedingly
+- ववृधे (*vavṛdhe*)—he grows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the pourer of rain and the lord, producing creatures in the wide firmament that supports the water, pervades the whole world. Soma the god, the showerer of desires, the one who is pressed, the shining one, grows exceedingly on the ten-fold filter, which is on a lofty place and is made of wool.
+
+##### English translation
+The ocean, the royal (Soma), generating progency in the outstretched (firmament, the) supporter of the water traverses tne universe ; the showerer (of benefits), the brilliant Soma when effused increases abundantly in the elevated woollen filter. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation of this Ṛk, saying that two kinds of meaning are possible, in the view concerning the deity and in the view concerning the Self.—
+
+अत्यक्रमिात्समुद्र आदित्यः परमो व्यवने वर्षकर्मणा जनयन् प्रजा भुवनस्य राजा सर्वस्य राजा वृषा पवित्रे अधि सानो अव्ये बृहत्सोमो वावृधे सुवान इंदुरित्यधिदैवतं ॥ (*atyakramiātsamudra ādityaḥ paramo vyavane varṣakarmaṇā janayan prajā bhuvanasya rājā sarvasya rājā vṛṣā pavitre adhi sāno avye bṛhatsomo vāvṛdhe suvāna iṃdurityadhidaivataṃ ‖*)
+
+Then, in the view concerning the Self—
+
+अत्यक्रमिात्समुद्र आत्मा परमो व्यवने ज्ञानकर्मणा जनयन् प्रजा भुवनस्य राजा सर्वस्य राजा वृषा पवित्रे अधि सानो अव्ये बृहत्सो-मो वावृधे सुवान इंदुरित्यात्मगतिमाचष्टे ॥ (*atyakramiātsamudra ātmā paramo vyavane jñānakarmaṇā janayan prajā bhuvanasya rājā sarvasya rājā vṛṣā pavitre adhi sāno avye bṛhatso-mo vāvṛdhe suvāna iṃdurityātmagatimācaṣṭe ‖*) (Ni. 14-13) **NOTE**
+
+In the view concerning the deity it is said that the word for ocean means Āditya, and that he, producing creatures by the work of rain, is king of all the worlds. In the view concerning the Self the word for ocean is explained as the Self,
+
+### Printed p. 835
+
+and this Self, by his own knowledge, being the cause of the origin of creatures, is lord of all the worlds; thus the course of the Self is described.
+
+#### Ṛk 41
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हत्तत्सोमो॑ महि॒षश्च॑कारा॒पां यद्गर्भोऽवृ॑णीत दे॒वान् ।  
+> अद॑धा॒दिंद्रे॒ पव॑मान॒ ओजोऽज॑नय॒त्सूर्ये॒ ज्योति॒रिंदुः॑ ॥ ४१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महत् । तत् । सोमः । महिषः । चकार । अपाम् । यत् । गर्भः । अवृणीत । देवान् ।  
+> अदधात् । इंद्रे । पवमानः । ओजः । अजनयत् । सूर्ये । ज्योतिः । इंदुः ॥ ४१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महिषो महान् पूज्यो वा सोमो महत्प्रभूतं तत्कर्म चकार अकरोत् । किं तत् अपां गर्भः उदकानां गर्भभूतः जनयितृत्वाज्जन्यत्वाच्च स सोमः देवानवृणीत समभजतेति यत् तत्कृतवानिति ॥ किंच पवमानः पूयमानः सोमः ओजः सोमपानेन जन्यं बलं इंद्रे अधात् व्यधात् । तथा इंदुः सोमः सूर्ये ज्योतिस्तेजः अजनयत् ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Soma, the great or worshipful, did that mighty deed. What was it? As the germ of the waters, being their begetter and also born of them, that Soma shared out the gods, and that is what he did. Further, Soma, being purified, placed in Indra the strength produced by the drinking of Soma. Likewise Indu, Soma, generated light, that is, lustre, in the sun. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां गर्भः (*apāṃ garbhaḥ*)—Soma the god, the germ of the waters
+- देवान् (*devān*)—the gods
+- आवृणीत (*āvṛṇīta*)—he worshipped, namely **NOTE**
+- यत् (*yat*)—which rite there is
+- महत् (*mahat*)—endowed with greatness
+- तत् (*tat*)—that rite
+- महिषः (*mahiṣaḥ*)—the worshipful
+- सोमः (*somaḥ*)—Soma
+- चकार (*cakāra*)—has accomplished
+- पवमानः (*pavamānaḥ*)—Soma who has become pure
+- ओजः (*ojaḥ*)—strength
+- इंद्रे (*iṃdre*)—in Indra
+- आदॆधात् (*ādèdhāt*)—has placed **NOTE**
+- इंदुः (*iṃduḥ*)—Soma
+- सूर्ये (*sūrye*)—in the sun
+- ज्योतिः (*jyotiḥ*)—lustre
+- आजनयत् (*ājanayat*)—produced **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the germ of the waters, worshipped the gods; that rite, endowed with greatness, Soma has accomplished. Soma, who has become pure, has placed strength in Indra. Soma has produced lustre in the sun.
+
+### Printed p. 836
+
+##### English translation
+The mighty Soma has achieved this mighty (work) that, being the germ of the waters, he has nourished the gods ; purified he has given strength to Indra ; Indu has generated the light in the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the view concerning the Self, Yāska has explained this Ṛk thus—
+
+महत्सोवो महिषश्चकारापां यद्गर्भोऽवृणीत देवानामाधिपत्यमदधा-दिंद्रे पवमान ओजोऽजनयत्सूर्ये ज्योतिरिंदुरादित्य इंदुरात्मा ॥ (*mahatsovo mahiṣaścakārāpāṃ yadgarbho 'vṛṇīta devānāmādhipatyamadadhā-diṃdre pavamāna ojo 'janayatsūrye jyotiriṃdurāditya iṃdurātmā ‖*) **NOTE**
+
+In this Ṛk, for the word इंदुः (*iṃduḥ*), instead of the meaning Soma, the meaning the Self should be taken. In the explanation of the remaining matters there is no difference. That is, the Self, who is lord of the worlds beginning with the firmament (the Self who pervades all places beginning with the firmament), is lord of all the gods. This same Self has established in Indra supreme sovereignty, that is, lordship over all moving and unmoving things, and in the sun, lustre. This Self is Āditya; such is the purport of the etymology.
+
+#### Ṛk 42
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मत्सि॑ वा॒युमि॒ष्टये॒ राध॑से च॒ मत्सि॑ मि॒त्रावरु॑णा पू॒यमा॑नः ।  
+> मत्सि॒ शर्धो॒ मारु॑तं॒ मत्सि॑ दे॒वान्मत्सि॒ द्यावा॑पृथि॒वी दे॑व सोम ॥ ४२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मत्सि । वायुम् । इष्टये। राधसे । च । मत्सि । मित्रावरुणा। पूयमानः ।  
+> मत्सि । शर्धः । मारुतम् । मत्सि । देवान् । मत्सि। द्यावापृथिवी इति । देव । सोम ॥ ४२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वायुं मत्सि मादय । किमर्थं इष्टये अस्माकमेषणाय अन्नाय राधसे धनाय च । तथा पूयमानः पवित्रेण त्वं मित्रावरुणा मित्रावरुणौ च मत्सि तर्पयसि । किंच मारुतं मरुतां स्वभूतं शर्धो बलं च मत्सि। तथा देवानिंद्रादीन् मत्सि हर्षयसि । हे देव स्तोतव्य हे सोम द्यावापृथिवी द्यावापृथिव्यौ च मत्सि मादय एतान् हर्षयुक्तान् कृत्वास्मभ्यं धनं प्रयच्छेत्यर्थः ॥४२॥ ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, exhilarate Vayu. For what? For our desire, that is, for food, and for wealth. Likewise, being purified by the filter, you satisfy Mitra and Varuna. Further, exhilarate the strength that belongs to the Maruts. Likewise you gladden the gods, Indra and the others. O divine Soma, worthy of praise, exhilarate heaven and earth also; having made them joyful, give us wealth; such is the meaning.
+
+### Printed p. 837
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O one whose self is divine
+- सोम (*soma*)—O Soma
+- इष्टये (*iṣṭaye*)—for the desired food
+- राधसे च (*rādhase ca*)—and for wealth
+- वायुं (*vāyuṃ*)—Vayu
+- मत्सि (*matsi*)—make glad
+- पूयमानः (*pūyamānaḥ*)—you who have become pure
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuna
+- मत्सि (*matsi*)—make glad
+- मारुतं शर्धः (*mārutaṃ śardhaḥ*)—the host of the Maruts
+- मत्सि (*matsi*)—make glad
+- देवान् (*devān*)—the gods
+- मत्सि (*matsi*)—make glad
+- द्यावापृथिव्या (*dyāvāpṛthivyā*)—heaven and earth **NOTE**
+- मत्सि (*matsi*)—make glad
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, whose self is divine, make Vayu glad for the desired food and for wealth. You who have become pure, satisfy Mitra and Varuna, the host of the Maruts, and heaven and earth. Bring satisfaction to all the gods.
+
+##### English translation
+Exhilarate Vayu for (our) food and wealth, exhilarate Mitra and Varuna as soon as you are filtered ; exhilarate the company of the Maruts, exhilarate the gods, exhilarate heaven and earth, divine Soma.
+
+#### Ṛk 43
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒जुः प॑वस्व वृजि॒नस्य॑ हं॒तापामी॑वां॒ बाध॑मानो॒ मृध॑श्च ।  
+> अ॒भि॒श्री॒णन्पयः॒ पय॑सा॒भि गोना॒मिंद्र॑स्य॒ त्वं तव॑ व॒यं सखा॑यः॥ ४३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋजुः । पवस्व । वृज़िनस्य । हंता । अपं । अमीवाम् । बाधमानः । मृधः । च ।  
+> अभिऽश्रीणन् । पयः । पयसा । अभि । गोनाम् । इंद्रस्य । त्वम् । तव । वयम् । सखायः ॥ ४३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 831. Rk 38 end, Rk 39, Sarama and the Panis
+**Progress note:** Done through printed p. 837. pp. 832-837: end of Saramā-Paṇi dialogue, Paṇis, Ṛk 40-43 of Maṇḍala 9 Sūkta 97
