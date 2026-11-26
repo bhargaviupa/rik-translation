@@ -14822,6 +14822,260 @@ Like the 61st sūkta, Idamitthā, of the previous chapter, this sūkta too was s
 
 Of these, taking the eleven-verse यज्ञेन (*yajñena*) sūkta into account in the anuvāka, this is the second sūkta. Its seer is Nābhānediṣṭha, son of Manu. The first four Ṛks are in Jagatī; the fifth is Anuṣṭubh; the sixth is Bṛhatī.
 
+### Printed p. 446
+
+> सप्तमी सतोबृहती । अष्टमीनवम्यावनुष्टुभौ । दशमी गायत्री । एकादशी
+> त्रिष्टुप् । आदितः षण्णां विश्वे देवा अंगिरसो वा देवता । सप्तमी वैश्वदेवी । अष्ट
+> म्याद्यासु चतसृषु सावर्णेर्महाराजस्य दानं स्तूयते। अतस्तास्तद्देवताकाः। तथा
+> चानुक्रम्यते। ये यज्ञेनैकादशाद्याः षळंगिरसां स्तुतिर्वांत्या त्रिष्टुप्पंचम्यनुष्टुप्पगाथोऽनुष्टुभौ गायत्री चतस्रोऽन्त्याः सावर्णॆर्दानस्तुतिरिति॥ षष्ठेhहनि
+> वैश्वदेवशस्त्र एतत्तूक्तं । सूत्रितं च । इदमित्था रौद्रमिति प्रागुपोत्तमाया ये
+> यज्ञेनेत्यावपते । आ. ८-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his introduction to the sūkta. The seventh verse is Sato-bṛhatī; the eighth and ninth are anuṣṭubh; the tenth is gāyatrī; the eleventh is triṣṭubh. For the first six verses the deities are the Viśve Devāḥ or the Aṅgirases. The seventh is addressed to the Viśve Devāḥ (Vaiśvadevī). In the four verses beginning with the eighth, the gift of the great king Sāvarṇi is praised, so these have that gift as their deity. He cites the Anukramaṇī to the same effect. The sūkta is used in the Vaiśvadeva-śastra on the sixth day, and it is prescribed in the sūtra of Āśvalāyana (Ā. 8-1).
+
+##### Anuvāda
+
+In the previous chapter the sixty-one sūktas of the tenth maṇḍala were completed. Now this chapter begins with the sixty-second sūkta, "ये यज्ञेन (*ye yajñena*)". This sūkta is the second sūkta in the fifth anuvāka of the tenth maṇḍala. It has eleven ṛks. The seer of this sūkta is Nābhānediṣṭha, the son of Manu. The first four ṛks of this sūkta are in the Jagatī metre; the fifth is in Anuṣṭubh; the sixth is in Bṛhatī; the seventh is in Sato-bṛhatī; the eighth and ninth are in Anuṣṭubh; the tenth is in Gāyatrī; the eleventh is in Triṣṭubh. For the first six ṛks of this sūkta the deities are the Viśve Devāḥ or the Aṅgirases; the seventh ṛk is addressed to the Viśve Devāḥ; since the four ṛks from the eighth onward (ṛks 8–11) describe the praise of the gift of the great king named Sāvarṇi, that praise of the gift is the deity of those four ṛks. This is what the Anukramaṇī states. The use of this sūkta, when the Vaiśvadeva-śastra mantras are recited on the sixth day of the sacrifice, is set out by the Āśvalāyana-śrauta-sūtra in the sūtra beginning "Idam itthā raudram" (Ā. 8-1).
+
+##### Particulars
+
+Sūkta 62. Maṇḍala 10; Anuvāka 5; Sūkta 62. Aṣṭaka 8; Adhyāya 2; Vargas 1, 2. Number of ṛks in the sūkta: 11. Ṛṣi: Nābhānediṣṭha Mānava. Deity: 1–6 Viśve Devāḥ or the Aṅgirases; 7 Viśve Devāḥ; 8–11 the praise of the gift of Sāvarṇi. Metre: 1–4 Jagatī; 5, 8, 9 Anuṣṭubh; 6 Bṛhatī; 7 Sato-bṛhatī; 10 Gāyatrī; 11 Triṣṭubh.
+
+### Printed p. 447
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये य॒ज्ञेन॒ दक्षि॑णया॒ सम॑क्ता॒ इंद्र॑स्य स॒ख्यम॑मृत॒त्वमा॑न॒श ।  
+> तेभ्यो॑ भ॒द्रमं॑गिरसो वो अस्तु॒ प्रति॑ गृभ्णीत मान॒वं  ॑
+> सुमेदसः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । यज्ञेन । दक्षिणया । संअक्ताः ! इंद्रस्य । सख्यं । अमृतत्वं । आनश ।  
+> तेभ्यः । भद्रं । अंगिरसः । वः । अस्तु । प्रति । गृभ्णीत । मानवं । सुमेधसः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नाभानेदिष्टः स्वपित्रा मनुनाभ्यनुज्ञातः सत्प्रमासीनानंगिरसोऽभ्येत्य मां
+> प्रतिगृह्णीत युष्मभ्यं यज्ञं प्रज्ञापयामिति यदुक्तवान् तदुच्यते । इतिहासस्त्विदमिथ्येति पूर्वसूक्ते नाभानेदिष्टं शंसति नाभानेदिष्टं वै मानवमिति ब्राह्मणानुसारेण मनुः पुत्रेभ्यो दायं व्यभजदिति तैत्तिरीयब्राह्मणानुसारेण च
+> सप्रपंचमभिहितः । तथा चास्या ऋचोऽयमर्थः । यज्ञेन यजनियेन हविषा
+> दक्षिणयर्त्विग्भो देयया समक्ताः संगता येऽहीनैकाहसत्राणि कुर्वंतो
+> यूयमिंद्रस्य सख्यं सखिकर्म अत एवामृतत्वममरणधर्म० देवत्वमानश
+> आनशिद्धे प्राप्ताः स्थ ॥ अश्नोतेर्लिटि मध्यमे व्यत्ययेन बहुवचनं। अश्नोतेश्वेति
+> नुडागमः । यद्वृत्तयोगादनिघातः ॥ हे अंगिरसः तेभ्यो वो युष्मभ्यं भद्रं
+> कल्याणं कर्मास्तु । हे सुमेधसः सुप्रज्ञा हे अंगिरसः ते यूयमिदानीमागतं
+> मानवं मनोः पुत्रं मां प्रति गृभ्नित । प्रतिगृह्णीत । मयि प्रतिगृहीते सति यज्ञं
+> साधु करिष्यामीति तदर्थ० प्रतिगृह्णीत ॥
+
+##### Gist of the bhāṣya
+
+Nābhānediṣṭha, having been given leave by his father Manu, approached the Aṅgirases seated at their sattra and said, "Accept me; I will make the sacrifice known to you." What he said is now told. The story was set out in full in the preceding sūkta, following the Brāhmaṇa (*nābhānediṣṭaṃ vai mānavaṃ*) and the Taittirīya Brāhmaṇa. The meaning of this ṛk: you who are joined with the sacrificial offering and with the dakṣiṇā to be given to the priests, performing ahīna, ekāha and sattra sacrifices, have attained the friendship of Indra and therefore immortality, that is, divinity. May good, auspicious action be yours, Aṅgirases. O sages of fine understanding, accept me, the son of Manu, who have now come; when I am accepted I shall perform the sacrifice well, and for that purpose accept me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञेन (*yajñena*)—with the offering fit for sacrifice
+- दक्षिणाय (*dakṣiṇāya*)—with the wealth in the form of an honorarium that is to be given to the priests
+- समक्ताः (*samaktāḥ*)—united
+- ये (*ye*)—you Aṅgirases, who are performing the sattra sacrifice
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सख्यं (*sakhyaṃ*)—the friendship
+- अमृतत्वं (*amṛtatvaṃ*)—the divinity that is free from death
+- आनश (*ānaśa*)—you have obtained
+- तेभ्यः वः (*tebhyaḥ vaḥ*)—to such of you
+- भद्रं (*bhadraṃ*)—welfare or well-being
+- अस्तु (*astu*)—may it be
+- सुमेधसः (*sumedhasaḥ*)—O men of intelligence
+- (हे) अंगिरसः (*(he) aṃgirasaḥ*)—O Aṅgirasa sages, you
+- मानवं (*mānavaṃ*)—me, the son of Manu
+- प्रतिगृभीत (*pratigṛbhīta*)—accept
+
+### Printed p. 448
+
+##### भावार्थ (Bhāvārtha)
+
+O Aṅgirasa sages, you who have prepared the offering fit for sacrifice and the wealth for the dakṣiṇā to be given to the priests, have gained the friendship of Indra and the divinity that is free from death. May welfare come to you, who are distinguished by such qualities. O Aṅgirases, men of understanding, accept me, the son of Manu, who have come to you; that is, listen respectfully to the words I speak.
+
+##### English translation
+You, who associated with sacrifice and pious donotions, have acquired
+the friendship of Indra and immortality ; upon you, Angirasas, may good
+fortune attend ; welcome, sages, the son of Manu,
+
+##### विशेषविषयगळु (Special Topics)
+
+As said in the introduction to the previous sūkta, the seer of this sūkta, the sage Nābhānediṣṭha, following his father's word, came to the place where the Aṅgirasa sages were performing a sacrifice, addressed them, and spoke in this way. What he said is stated in this ṛk and in the next three ṛks. For further detail see the introduction to sūkta 61.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒दाज॑िन्पि॒तरो॑ गो॒मयं॒ वस्व॒तेनाभिं॑दन्परिवत्स॒रे व॒लं ।  
+> दी॒र्घा॒यु॒त्वमं॑गिरसो वो अस्तु॒ प्रति॑ गृभ्णीत मान॒वं  ॑
+> सुमेधसः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । उत्आजन् । पितरः । गोमयं । वसु । ऋतेन । अभिंदन् । परिवत्सरे  
+> वलं ।  
+> दीर्घायुत्वं । अंगिरसः । वः । अस्तु । प्रति । गृभ्णीत । मानवं । सुमेधसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये अंगिरसः पितरोऽस्माकं पूर्वजत्वेन पितृभूता ये यूयं गोमयं गवात्मकं हणिभिरपहृतं वसु धनमुदाजन् तैरधिष्ठि तात्पर्वतादुदगमयन् ।
+> किंचर्तॆन सत्यभूतेन यज्ञेन परिवत्सरे पर्यागते वत्सरे संपूर्णे । सत्रांत
+
+### Printed p. 449
+
+> इत्यर्थः । तत्र वलं वलनामानं गवामपहर्तारमसुरमभिंदन् व्यनाशयनन् तेभ्यो
+> वो युष्मभ्यं दीर्घायुत्वं प्रभूतजीवनमस्तु । शेषं पूर्ववत् ॥
+
+##### Gist of the bhāṣya
+
+The Aṅgirases, who by being earlier-born are as fathers to us, drove up the wealth consisting of cattle, which the Paṇis had carried off, from the mountain that they held. Further, by true sacrifice, when the year was completed, that is, at the end of the sattra, they destroyed Vala, the Asura who steals cattle. May long life, abundant living, be theirs. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरसः (*aṃgirasaḥ*)—O Aṅgirasa sages
+- पितरः (*pitaraḥ*)—worthy to be called fathers, because you are elders to us
+- ये (*ye*)—you who
+- गोमयं (*gomayaṃ*)—in the form of cattle carried off by the Paṇis
+- वसु (*vasu*)—the wealth
+- उदाजन् (*udājan*)—you drove out and brought from the mountain region, and
+- यतेन (*yatena*)—by sacrifice, that is, by performing sacrifice **NOTE**
+- परिवत्सरे (*parivatsare*)—a period of one year was passed by you (and you)
+- वलं (*valaṃ*)—the Asura called Vala
+- अभिंदन् (*abhiṃdan*)—destroyed
+- वः (*vaḥ*)—to such of you
+- दीर्घायुत्वं (*dīrghāyutvaṃ*)—long life
+- अस्तु (*astu*)—may it be
+- सुमेधसः (*sumedhasaḥ*)—O Aṅgirases, men of intelligence, you
+- मानवं (*mānavaṃ*)—me, the son of Manu
+- प्रति गृभीत (*prati gṛbhīta*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Aṅgirases, because you are our elders you are to be honoured like fathers. You brought out the cattle carried off by the Paṇis from the mountain region where they had hidden them. You completed the sattra sacrifice that you were performing for a year. You destroyed the Asura named Vala. May long life be yours, such as you are. Accept me, the son of Manu.
+
+##### English translation
+May length of life be yours, Angirasas, our progenitors, who drove
+forth the wealth of cattle, and by means of your sacrifice when the year was
+ended, demolished (the Asura) Bala : welcome, sages, the son of Manu.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have described the matter of the Asura named Vala in Ṛ. Saṃ. Part 5, page 692, and on pages 14-634.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒तेन॒ सूर्य॒मारो॑हयन् दि॒व्यप्र॑थयन्पृथि॒वीं मा॒तरं॒ वि ।  
+> सु॒प्र॒जा॒स्तमं॑गिरसो वो अस्तु॒ प्रति॑ गृभ्णीत मान॒वं सु॑मेधसः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 450
+
+> ये । ऋतेन । सूर्यं । आ । अरोहयन् । दिवि । अप्रथयन् । पृथिवीं । मातरं ।  
+> वि ।  
+> सुप्रजाःत्वं । अंगिरसः । वः । अस्तु । प्रति । गृभ्णीत । मानवं । सुमेधसः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरसः ये भवंत ऋतेन सत्यभूतेन यज्ञेन दिवि द्युलोके सूर्यं
+> सुष्टु सर्वस्य प्रेरकमादित्यमारोहयन् अस्थापयन् किंच मातरं सर्वॆषां
+> निर्मात्रीं पृथिवीं व्यप्रथयन् प्रसिद्धामकुर्वन् सत्प्रादिकर्मकरणेन तेभ्यो
+> युष्मभ्यं सुप्रजास्त्वं सुपुत्रत्वमस्तु॥ नित्यमसिच् प्रजामेधयोरित्यसिच्छमासांतः।
+> तस्माद्भावप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O Aṅgirases, you who by true sacrifice set the sun in heaven, well, as the impeller of all, the Āditya; and who by performing sattras and the like made famous the earth, the mother, the maker of all: to you may there be good offspring, fine sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरसः (*aṃgirasaḥ*)—O Aṅgirases
+- ये (*ye*)—you who
+- ऋतेन (*ṛtena*)—by the power of performing sacrifice, which is of the nature of truth
+- दिवि (*divi*)—in heaven (the atmosphere)
+- सूर्यं (*sūryaṃ*)—the Āditya, the impeller of all
+- आरोहयन् (*ārohayan*)—you have established (and)
+- मातरं (*mātaraṃ*)—who is of the nature of a mother to all
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- वि अप्रथयन् (*vi aprathayan*)—you have made famous by your sattra and other sacrifices
+- वः (*vaḥ*)—to such of you
+- सुप्रजास्त्वं (*suprajāstvaṃ*)—excellent offspring of sons
+- अस्तु (*astu*)—may it be
+- सुमेधसः (*sumedhasaḥ*)—O Aṅgirases, men of intelligence
+- मानवं (*mānavaṃ*)—me, the son of Manu
+- प्रति गृभ्नीत (*prati gṛbhnīta*)—receive
+
+##### भावार्थ (Bhāvārtha)
+
+O Aṅgirases, through the greatness of your performance of sacrifice, which is of the nature of truth, you have established the Āditya, the impeller of all, in heaven (the atmosphere). You have made this earth, which is a mother to all, famous by good works such as the performance of sacrifice. O Aṅgirases, men of intelligence, may excellent offspring be yours. Accept me, the son of Manu.
+
+##### English translation
+May the possession of posterity be yours, Angirasas, who elevated by the (power) of sacrifice the Sun in heaven, and made the maternal earth renowned : welcome, sages, the son of Manu.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं नाभा॑ वदति व॒ल्गु वो॑ गृ॒हे देव॑पुत्रा ऋषय॒स्तच्छृ॑होतन ।
+
+### Printed p. 451
+
+> सुब्रह्मण्यमंगिरसो पो अस्तु प्रति गृभ्णीत मानवं सुमेधसः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । नाभा । वदति । वल्गु । वः । गृहे । देवपुत्राः । ऋषयः । तत् । शृणोतन ।  
+> सुब्रह्मण्यं । अंगिरसः । वः । अस्तु । प्रति । गृभ्नीत । मानवं । सुमेधसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवपुत्रा देवानां पुत्रा अग्नेः पुत्रा ऋषयोऽतींद्रियार्थस्य
+> द्रष्टारो हेऽंगिरसः आयं नाभा नाभानेदिष्टः पुरोवर्ति जनो वो युष्माकं
+> गृहे गृहभूते यज्ञॆ वल्गु कल्याणं वचो वदति । तद्वाकृं यूयं शृणोतन ।
+> महातादरेण शृणुत ॥ श्रु श्रवणे । तप्तनप्तनथनाश्चेति तनबादेशः ॥ तेभ्यो
+> युष्मभ्यं सुब्रह्मण्यं शोभनं ब्रह्मवर्चसमस्तु । इदानीमागतं मानवं मां प्रति
+> गृभ्नीत । प्रतिगृह्नीत ॥
+
+##### Gist of the bhāṣya
+
+O sons of the gods, that is, sons of Agni, O seers of what is beyond the senses, Aṅgirases: this Nābhā, that is, Nābhānediṣṭha, standing before you, speaks fair, auspicious words in your house, that is, at the sacrifice that is your house. Hear those words with great respect. To you may there be fine brahmavarcasa. Accept me, the son of Manu, who have now come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवपुत्राः (*devaputrāḥ*)—O you who are sons of the god Agni
+- ऋषयः (*ṛṣayaḥ*)—and seers of matters beyond the senses
+- अंगिरसः (*aṃgirasaḥ*)—O Aṅgirases
+- अयं नाभा (*ayaṃ nābhā*)—this one called Nābhānediṣṭha (I)
+- वः (*vaḥ*)—your
+- गृहे (*gṛhe*)—in the house of sacrifice
+- वल्गु (*valgu*)—auspicious speech
+- वदति (*vadati*)—speaks
+- तत् (*tat*)—that statement, you
+- शृणोतन (*śṛṇotana*)—hear respectfully
+- अंगिरसः (*aṃgirasaḥ*)—O Aṅgirases
+- वः (*vaḥ*)—to you
+- सुब्रह्मण्यं (*subrahmaṇyaṃ*)—excellent brahmavarcasa
+- अस्तु (*astu*)—may it be
+- सुमेधसः (*sumedhasaḥ*)—O men of intelligence
+- मानवं (*mānavaṃ*)—me, the son of Manu
+- प्रति गृभ्नित (*prati gṛbhnita*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Aṅgirases, sons of the god Agni and knowers of things beyond the senses, Nābhānediṣṭha, who is now conversing with you (I), speaks one auspicious word in your sacrificial house. Listen to it with respect. May excellent brahmavarcasa be yours. O Aṅgirases, men of intelligence, accept me, the son of Manu; that is, give heed to the word I speak and listen to it respectfully.
+
+##### English translation
+Rishis, sons of the gods, this (Nabhanedishtha) addresses to you in
+the house of (sacrifice) his bendiction ; here it : may divine splendour,
+Angirasas, be yours : welcome, sages the, son of Manu.
+
 ---
 
-**Progress note:** Done through printed p. 445. pp. 440-445 (batch API)
+**Progress note:** Done through printed p. 451. pp. 446-451 (batch API), block numbers shifted by one repaired
