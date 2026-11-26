@@ -25766,6 +25766,204 @@ The soma juice, pressed out of the creepers, flows away and goes and falls into 
 > उ॒त प्र पि॑प्य॒ ऊध॒रघ्न्या॑या॒ इंदु॒र्धारा॑भिः सचते सुमे॒धाः ।  
 > मू॒र्धानं॒ गावः॒ पय॑सा च॒मूष्व॒भि श्री॑णंति॒ वसु॑भि॒र्न नि॒क्तैः ॥ ३ ॥
 
+### Printed p. 683
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । प्र । पिप्ये । ऊधः । अघ्न्यायाः । इंदुः । धाराभिः । सचते । सुऽमेधाः ।  
+> मूर्धानम् । गावः । पयसा । चमूषु । अभि । श्रीणंति । वसुऽभिः । न । निक्तैः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च अघ्न्यायाः । अघ्न्येति गोनाम । अहंतव्याया गोः ऊधः पयःस्थानं सोमः प्र पिप्ये । ओषध्यादिषु सोमः प्रविश्य प्रकर्षेणाप्याययति । प्यायतेर्लिटि लिड्यङोश्च ' इति पीभावः । सुमेधाः शोभनप्रज्ञः सोऽयम् इंदुः सोमः धाराभिः सचते समवैति संगच्छते । ततः गावः चमूषु । चमंति भक्षयन्यत्र सोममिति चम्वो ग्रहादयः । तेषु स्थितं मूर्धानं समुच्छ्रितमिमं सोमं पयसा श्वेतेन अभि श्रीणंति अभित आच्छादयंति । तत्र दृष्टांतः । निक्तैः प्रक्षालितैः वसुभिर्न वस्त्रैर्यथाच्छादयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Also" (उत (*uta*)): the udder of the cow अघ्न्यायाः (*aghnyāyāḥ*) — अघ्न्या (*aghnyā*) is a name of the cow, one not to be killed — that is, the place of the milk, is nourished by Soma (प्र पिप्ये (*pra pipye*)): Soma enters the plants and the like and nourishes them greatly. The wise Indu, Soma, is united with his streams (सचते (*sacate*): comes together, joins). Then the cows clothe this elevated Soma, standing in the चमूषु (*camūṣu*) (the vessels in which the Soma is drunk, the Graha cups and the rest, called camvaḥ because they take in the Soma), with white milk, covering him on all sides. The illustration: as people cover themselves with washed garments (वसुभिर्न (*vasubhirna*), the word vasubhiḥ meaning garments), so the cows cover the Soma.
+
+##### English translation
+And he nourishes the cow's udder ; the intelligent Indu is associated with his streams ; the cows clothe the elevated Soma in the ladies with their milk as with newly washed robes. **NOTE**
+
+### Printed p. 684
+
+##### विशेषविषयगळु (Special Topics)
+
+अघ्नायाः (*aghnāyāḥ*)—अहंतव्या गोः । (*ahaṃtavyā goḥ |*) The cow, which is not fit to be killed, that is, which is to be revered, is called अघ्न्या (*aghnyā*). The word अघ्न्या (*aghnyā*) is read among the nine names of the cow. (Ni. 3-9). **NOTE**
+
+अघ्न्यायाः ऊधः प्र पिप्ये (*aghnyāyāḥ ūdhaḥ pra pipye*)—गोः पयःस्थानं ओषध्यादिशु सोमः प्रविश्य आप्याययति । (*goḥ payaḥsthānaṃ oṣadhyādiśu somaḥ praviśya āpyāyayati |*) The meaning is that this god Soma nourishes the milk in the udders of the cows and makes it increase. What relation is there between Soma and the cows? How does Soma make the milk increase in the cows? According to the Śruti sentence सोमो वनस्पतीनामधिपतिः (*somo vanaspatīnāmadhipatiḥ*), the deity Soma is the lord of the plants and trees. Therefore he nourishes well the grass and the like, the food of cattle such as cows, makes it full of sap, and by that means is the cause of the cows' thriving. Because the cows eat food full of sap, they give milk abundantly. The meaning is that the deity Soma is thus the indirect (indirectly) cause of the cows giving much milk.
+
+निक्तै वसुभिर्न चमूषु मूर्धनि स्थितं पयसा अभि श्रीणंति । (*niktai vasubhirna camūṣu mūrdhani sthitaṃ payasā abhi śrīṇaṃti |*) When people put on clean, well-washed, shining garments, they look white; in the same way, when the milk of the cows is mixed with the Soma juice filled in the Camasa vessels, the Soma juice looks white, like people wrapped in white cloth. The meaning is that when the cows mix their white milk with the Soma juice, they make that Soma juice look white. In this way the seer has described it in another manner.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ दे॒वेभिः॑ पवमान र॒देंदो॑ र॒यिम॒श्विनं॑ वावशा॒नः ।  
+> र॒थि॒रा॒यता॑मुश॒ती पुरं॑धिरस्म॒द्र्य१॒॑गा दा॒वने॒ वसू॑नाम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । देवेभिः । पवमान । रद । इंदो इति । रयिम् । अश्विनम् । वावशानः ।  
+> रथिरायताम् । उशती । पुरम्ऽधिः । अस्मद्र्यक् । आ । दावने । वसूनाम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम सः तादृशस्त्वं नः अस्मभ्यं देवेभिः देवैः सह रद प्रयच्छ । किं तत् उच्यते । हे इंदो पात्रेषु क्षरन् सोम वावशानः कामयमानः सन् अश्विनम् अश्ववंतं रयिं धनं प्रयच्छति । किंच रथिरायताम् । रथो येषामस्तीति रथिराः । ‘ मेधारथाभ्याम्' इतीरच्प्रत्ययः । तद्वदाचरतस्तानिच्छतो वा पुरुषान् उशती कामयमाना पुरंधिः त्वदीया बहुविधा धीः वसूनां धनानां दावने दानाय अस्मद्र्यक् अस्मदभिमुखी आ आगच्छतु । यद्वा । रथिरायितामिति धनानां विशेषणम् । बलवतां धनानामिति । अस्मद्र्यक् । 'विष्वग्देवयोश्च टेरद्र्यंचतावप्रत्यये । (पा. सू. ६. ३. ९२ ) इत्यद्र्यादेशः । अद्रिसध्र्योरंतोदात्तत्वनिपातनात् ' उदात्तस्वरितयोर्यणः । इति स्वरितः ॥
+
+##### Gist of the bhāṣya
+
+"O Pavamāna, Soma who art being purified, such as thou art, give (रद (*rada*)) to us together with the gods." What is it that he gives? "O Indu, Soma flowing in the vessels, desiring (वावशानः (*vāvaśānaḥ*)), thou bestowest wealth, riches with horses (अश्विनम् (*aśvinam*))." Further, रथिरायताम् (*rathirāyatām*): those who have a chariot are रथिराः (*rathirāḥ*); men who behave like them or who wish for them. Thy manifold intelligence (पुरंधिः (*puraṃdhiḥ*)), desiring (उशती (*uśatī*)) such men, should come (आ (*ā*)) towards us (अस्मद्र्यक् (*asmadryak*)) for the giving (दावने (*dāvane*)) of riches (वसूनाम् (*vasūnām*)). Or else: rathirāyitām is an epithet of riches, meaning mighty riches.
+
+### Printed p. 685
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान इंदो (*pavamāna iṃdo*)—O Soma named Pavamāna
+- सः (*saḥ*)—you
+- देवेभिः (*devebhiḥ*)—with the gods
+- वावशानः (*vāvaśānaḥ*)—desiring their company
+- अश्विनं (*aśvinaṃ*)—possessed of horses
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+- रद (*rada*)—give
+- रथिरायतां (*rathirāyatāṃ*)—men possessing a chariot
+- उशती (*uśatī*)—desiring
+- पुरंधिः (*puraṃdhiḥ*)—your intelligence
+- वसूनां दावने (*vasūnāṃ dāvane*)—for the giving of wealth
+- अस्मध्यक् (*asmadhyak*)—towards us **NOTE**
+- आ (*ā*)—may it come
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva named Pavamāna, desiring the company of the gods, give us wealth possessed of horses. May your intelligence, which desires men possessing chariots, come towards us for the giving of wealth.
+
+##### English translation
+Indu Pavamana, do you with the gods, who do long for (our good) bestow upon us riches comprising horses ; may your capacious mind longing for those possess chariots (come) towards us to bestow treasures (upon us).
+
+##### विशेषविषयगळु (Special Topics)
+
+रथिरायतां (*rathirāyatāṃ*)—रथो येषामस्तीति रथिराः । (*ratho yeṣāmastīti rathirāḥ |*) तद्वदाचरतस्तानिच्छतो वा पुरुषान् । (*tadvadācaratastānicchato vā puruṣān |*) Those who possess a chariot are called रथिराः (*rathirāḥ*). The meaning of this word is: desiring such men who are charioteers. Or: रथिरायतामिति वसूनां विशेषणं बलवतां धनानामिति । (*rathirāyatāmiti vasūnāṃ viśeṣaṇaṃ balavatāṃ dhanānāmiti |*) The word रथिरायतां (*rathirāyatāṃ*) may also be said to be an epithet of the word वसूनां (*vasūnāṃ*). In this case the meaning can be said to be: of riches and the like that are possessed of chariots, loaded in chariots, or that give strength.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नो॑ र॒यिमुप॑ मास्व नृ॒वंतं॑ पुना॒नो वा॒ताप्यं॑ वि॒श्वश्चं॑द्रम् ।  
+> प्र वं॑दि॒तुरिं॑दो ता॒र्यायुः॑ प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥ ५ ॥
+
+### Printed p. 686
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । रयिम् । उप । मास्व । नृऽवंतम् । पुनानः । वाताप्यम् । विश्वऽचंद्रम् ।  
+> प्र । वंदितुः । इंदो इति । तारि । आयुः । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पुनानः पूयमानस्त्वं नः अस्मभ्यं नु क्षिप्रं नृवंतं मनुष्यैर्युक्तम् । छांदसं मतुपो वत्वम् । तादृशं रयिं धनम् उप मास्व उपनिर्मिमीष्व । उपकुर्वित्यर्थः । किं च विश्वचंद्रं सर्वेषामाह्लादकं वाताप्यम्। उदकनामैतत् । उदकं च कुरु । तथा हे इंदो सोम वंदितुः तव स्तोतुः आयुः जीवनं प्र तारि त्वया वर्धितमस्तु । सोऽयं सोमः धियावसुः बुद्ध्या  कर्मणा वा प्राप्तधनः प्रातः काले वा सवने वा मक्षु शीघ्रमस्मदीयं यज्ञं प्रति जगम्यात् आगच्छेत् । गमेर्लिङि ‘ बहुलं छंदसि ' इति शपः श्लुः ॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, being purified, quickly (नु (*nu*)) fashion for us (उप मास्व (*upa māsva*): bring about, do us the favour of) riches, rich in men (नृवंतं (*nṛvaṃtaṃ*): possessed of men)." Further, make the वाताप्यम् (*vātāpyam*) — this is a name of water — that gladdens all (विश्वचंद्रं (*viśvacaṃdraṃ*)). Likewise, O Indu, Soma, may the life of thee, thy praiser (वंदितुः (*vaṃdituḥ*)), be lengthened (प्र तारि (*pra tāri*)) by thee. May this Soma, who has obtained wealth (धियावसुः (*dhiyāvasuḥ*)) by intelligence or by rite, come (जगम्यात् (*jagamyāt*)) quickly (मक्षु (*makṣu*)) to our sacrifice in the morning (प्रातः (*prātaḥ*)), that is, at the morning pressing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- पुनानः (*punānaḥ*)—you who have obtained purity
+- नः (*naḥ*)—to us
+- नु (*nu*)—quickly
+- नृवंतं (*nṛvaṃtaṃ*)—together with men
+- रयिं (*rayiṃ*)—wealth
+- उप मास्व (*upa māsva*)—provide
+- विश्वचंद्रं (*viśvacaṃdraṃ*)—delightful to the whole world
+- वाताप्यं (*vātāpyaṃ*)—provide water
+- इंदो (*iṃdo*)—O Soma
+- वंदितुः (*vaṃdituḥ*)—of your praiser
+- आयुः (*āyuḥ*)—life
+- प्र तारि (*pra tāri*)—may it grow long
+- धियावसुः (*dhiyāvasuḥ*)—Soma, who has wealth in the form of rites
+- प्रातः (*prātaḥ*)—in the morning
+- मक्षु (*makṣu*)—quickly
+- जगम्यात् (*jagamyāt*)—may he come to the house of the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have obtained purity, quickly provide us with wealth together with sons and the like. Provide us water that is delightful to the whole world. O Soma, may the life of him who praises you grow long. May Soma, who has wealth in the form of rites, come quickly in the morning to the house of the sacrifice. **NOTE**
+
+### Printed p. 687
+
+##### English translation
+Soma, when you are purified, measure out to us riches and dependents and all-gratifying water. Indu, may the life of your praiser be prolonged ; may (Soma) who acquires wealth by his intelligence come quickly at dawn.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, which is a conclusion, Soma-deva is prayed to bestow wealth and the like, offspring such as sons, and long life on those who praise him, and to come in the morning to the sacrificial ground of the praiser.
+
+The ninety-fourth sūkta.
+
+## Sūkta 94 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अधि यत्' इति पंचर्चं नवमं सूक्तमांगिरसस्य कण्वस्यार्षम् । तथानुक्रम्यते---- अधि यत्कण्वः' इति । पूर्ववच्छंदोदेवते । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, of five Ṛks, beginning अधि यत् (*adhi yat*), is the ārṣa of Kaṇva of the Āṅgirasa line. And so the Anukramaṇī says अधि यत्कण्वः (*adhi yatkaṇvaḥ*). Metre and deity are as before. The viniyoga has been stated.
+
+##### Anuvāda
+
+Anuvāda— This sūkta, अधि यत् (*adhi yat*), is the ninth sūkta in the fifth anuvāka. It has five Ṛks. The seer of this sūkta is Kaṇva of the Aṅgirasa gotra; the deity and metre of this sūkta are as in the preceding sūkta. In the Anukramaṇikā it is said अधि यत्कण्वः (*adhi yatkaṇvaḥ*). The viniyoga has been stated before.
+
+Sūkta 94. Maṇḍala 9, Anuvāka 5, Sūkta 94. Aṣṭaka 7, Adhyāya 4, Varga 4. Number of ṛks in the sūkta: 5. Seer: Kaṇva. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॒ यद॑स्मिन्वा॒जिनी॑व॒ शुभ॒ स्पर्धं॑ते॒ धियः॒ सूर्ये॒ न विशः॑ ।  
+> अ॒पो वृ॑णा॒नः प॑वते कवी॒यन्व्र॒जं न प॑शु॒वर्ध॑नाय॒ मन्म॑ ॥ १ ॥
+
+### Printed p. 688
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । यत् । अस्मिन् । वाजिनिऽइव । शुभः । स्पर्धंते । धियः । सूर्ये । न । विशः ।  
+> अपः । वृणानः । पवते । कविऽयन् । व्रजम् । न । पशुऽवर्धनाय । मन्म ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा अस्मिन् सोमे वाजिनीव शुभः अश्वे यथा वस्त्रप्रभृत्यलंकारा भवंति । यदा वास्मिन् सोमे सूर्ये न यथा सूर्ये विशः रश्मय उदिता भवंति । तदा धियः अंगुलयः अधि स्पर्धंते । अहं पुरस्ताच्छोधयाम्यहं पुरः शोधयामीत्यहमहमिकयोपतिष्ठंति । ततोऽयं सोमः अपः वसतीवरीः वृणानः आच्छादयन् पवते पात्रेषु क्षरति । कलशानधिगच्छति। कीदृशः । कवीयन् कविरिवाचरन् । यद्वा । कवयः स्तोतारः । तानिच्छन् । तत्र दृष्टांतः। व्रजं न मन्म मननीयं गवां गोष्ठं पशुवर्धनाय पशूनां वर्धनाय गोपालः परिगच्छति । तथा देवानां प्रीणनाय पात्राणि प्रति पवत इति ॥
+
+##### Gist of the bhāṣya
+
+When (यत् (*yat*)) on this Soma the trappings (शुभः (*śubhaḥ*)) such as garments are, as on a horse (वाजिनीव (*vājinīva*)); or when on this Soma, as in the sun (सूर्ये न (*sūrye na*)), the rays (विशः (*viśaḥ*)) have risen — then the fingers (धियः (*dhiyaḥ*)) vie (अधि स्पर्धंते (*adhi spardhaṃte*)), each coming forward with "I shall purify first, I shall purify first". Then this Soma, covering (वृणानः (*vṛṇānaḥ*)) the waters (अपः (*apaḥ*), the वसतीवरीः (*vasatīvarīḥ*)), flows (पवते (*pavate*)) into the vessels and goes to the kalaśas. How? Acting like a poet (कवीयन् (*kavīyan*)); or else desiring the poets, the praisers. The illustration: as a cowherd goes round to the cow-pen (व्रजं न (*vrajaṃ na*)), the desirable (मन्म (*manma*), worthy of thought) stall of the cows, for the increase of cattle (पशुवर्धनाय (*paśuvardhanāya*)), so Soma flows towards the vessels to please the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभः (*śubhaḥ*)—ornaments and the like
+- वाजनीव (*vājanīva*)—as horses are adorned **NOTE**
+- विशः (*viśaḥ*)—rays
+- सूर्ये न (*sūrye na*)—as they rise in the sun
+- यत् (*yat*)—when
+- धियः (*dhiyaḥ*)—fingers
+- अस्मिन् (*asmin*)—in this Soma
+- अधि स्पर्धंते (*adhi spardhaṃte*)—are eager, in rivalry, to purify, then
+- कवीयान् (*kavīyān*)—Soma, who desires the welfare of the praisers **NOTE**
+- अपः (*apaḥ*)—the वसतीवरी (*vasatīvarī*) waters
+- वृणानः (*vṛṇānaḥ*)—wrapping himself
+- पशुवर्धनाय (*paśuvardhanāya*)—for the nourishing of cattle
+- मन्म (*manma*)—having excellent cows
+- व्रजं न (*vrajaṃ na*)—as (the cowherd) enters the cow-pen
+- पवते (*pavate*)—enters the vessels
+
+##### भावार्थ (Bhāvārtha)
+
+As ornaments and the like lie on horses and adorn them, and as the rays envelop the sun and adorn it, so when the fingers, in mutual rivalry, are eager to envelop Soma and purify him, Soma, who desires the welfare of the praisers, mingled with the वसतीवरी (*vasatīvarī*) waters, enters the vessels, as a cowherd enters, for the nourishing of the cattle, a cow-pen having excellent cows.
+
+##### English translation
+When the fingers vie with each other in this (Soma), as the trappings on a horse or the rays in the sun, clothed in the waters he flows desiring his
+
 ---
 
-**Progress note:** Done through printed p. 682. end of Manu topic, Rk 6 block and Pratipadartha, Sukta 93 intro, Rk 1-2 with Special Topics, Rk 3 Samhita
+**Progress note:** Done through printed p. 688. Ṛk 3 (Pada-bhāṣya) to Sūkta 94 Ṛk 1
