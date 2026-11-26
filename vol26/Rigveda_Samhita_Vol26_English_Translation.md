@@ -4887,6 +4887,267 @@ The sūkta beginning पवस्व (*pavasva*) has four ṛks and is the thirt
 
 Translation: This sūkta beginning पवस्व (*pavasva*) is the thirty-fifth sūkta in the second anuvāka. It contains four ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. The Anukramaṇī says पवस्व (*pavasva*). The use in the rite has been stated before.
 
+### Printed p. 170
+Maṇḍala 9, Anuvāka 2, Sūkta 59. Aṣṭaka 7, Adhyāya 1, Varga 16. Number of ṛks in the sūkta: 4. Seer: अवत्सारः (*avatsāraḥ*). Deity: पवमानः सोमः (*pavamānaḥ somaḥ*). Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व गो॒जिद॑श्व॒जिद्वि॑श्व॒जित्सो॑म रण्य॒जित् ।  
+> प्र॒जाव॒द्रत्न॒मा भ॑र ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । गोऽजित् । अश्वऽजित् । विश्वऽजित् । सोम । रण्यऽजित् ।  
+> प्रजाऽवत् । रत्नम् । आ । भर ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम गोजित् शत्रूणां गवां जेता अश्वजित् अश्वानामपि जेता विश्वजित् विश्वस्य जगतो जेता रण्यजित् रमणीयस्य धनस्यापि जेता त्वं पवस्व धारया क्षर । अपि चास्मभ्यं प्रजावत् पुत्राद्युपेतं रत्नं रमणीयं धनम् आ भर आहर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, winner of cattle, winner of horses, winner of the whole world, winner of even desirable wealth, flow in a stream. And bring to us desirable wealth, endowed with offspring such as sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- गोजित् (*gojit*)—winner of cattle
+- अश्वजित् (*aśvajit*)—winner of horses
+- विश्वजित् (*viśvajit*)—winner of the whole world
+- रण्यजित् (*raṇyajit*)—winner of desirable riches; you who are such
+- पवस्व (*pavasva*)—flow in the form of a stream
+- प्रजावत् (*prajāvat*)—endowed with sons and the like
+- रत्नं (*ratnaṃ*)—desirable
+- आ भर (*ā bhara*)—bring the wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who win cattle, win horses, win the whole world and win desirable riches, flow in the form of a stream. Provide wealth endowed with sons and the like, and desirable.
+
+### Printed p. 171
+
+##### English translation
+Flow, Soma, eonqueror of cattle, of horses, of all things, of desirable wealth; bring us riches with male offspring. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्वा॒द्भ्यो अदा॑भ्यः॒ पव॒स्वौष॑धीभ्यः ।  
+> पव॑स्व धि॒षणा॑भ्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । अत्ऽभ्यः । अदाभ्यः । पवस्व । ओषधीभ्यः ।  
+> पवस्व । धिषणाभ्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वम् अद्भ्यः वसतीवरीभ्यः अदाभ्यः[१][२] अंशुभ्यश्च पवस्व क्षर । अपि च ओषधीभ्यः पवस्व क्षर। किंच धिषणाभ्यः ग्रावभ्यः पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow, that is, stream forth, for the waters called Vasatīvarī, and for the filaments. Also flow for the herbs. And flow for the pressing stones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्भ्यः (*adbhyaḥ*)—(O divine Soma) with the waters called Vasatīvarī
+- अदाभ्यः (*adābhyaḥ*)—with your filaments
+- पवस्व (*pavasva*)—flow
+- ओषधीभ्यः (*oṣadhībhyaḥ*)—with the herbs
+- पवस्व (*pavasva*)—flow in the form of a stream
+- धिषणाभ्यः (*dhiṣaṇābhyaḥ*)—with the pressing stones
+- पवस्व (*pavasva*)—stream forth
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, flow with the waters called Vasatīvarī and with your filaments. Stream forth with the herbs and with the pressing stones.
+
+##### English translation
+Flow with waters and with filaments, flow with herbs, flow with the stones.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म॒ पव॑मानो॒ विश्वा॑नि दुरि॒ता त॑र ।  
+> क॒विः सी॑द॒ नि ब॒र्हिषि॑ ॥ ३ ॥
+
+### Printed p. 172
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । पवमानः । विश्वानि । दुःऽइता । तर ।  
+> कविः । सीद । नि । बर्हिषि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानः पूयमानः कविः क्रांतकर्मा त्वं विश्वानि सर्वाणि दुरितानि राक्षसैः कृतान्युपद्रवाणि तर निराकुरु । अस्मिन् बर्हिषि नि षीद च ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being purified, a sage, you drive away all the calamities, the troubles caused by the demons. And sit down on this sacred grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- पवमानः (*pavamānaḥ*)—purifier
+- कविः (*kaviḥ*)—sage; you who are such
+- त्वं (*tvaṃ*)—you
+- विश्वानि (*viśvāni*)—all
+- दुरिता (*duritā*)—calamities
+- तर (*tara*)—push far away
+- बर्हिषि (*barhiṣi*)—on the seats of sacred grass
+- नि षीद (*ni ṣīda*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are the purifier and the sage, push all calamities far away. Sit down on the seats of sacred grass.
+
+##### English translation
+Soma, do you who are the purifier, the sage, over-come all hindrances; sit down ou the sacred gass. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान॒ स्व॑र्विदो॒ जाय॑मानोऽभवो म॒हान् ।  
+> इंदो॒ विश्वाँ॑ अ॒भीद॑सि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । स्वः । विदः । जायमानः । अभवः । महान् ।  
+> इंदो इति । विश्वान् । अभि । इत् । असि ॥ ४ ॥
+
+### Printed p. 173
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम त्वं स्वः सर्वं विदः यजमानाय प्रयच्छ । अपि च जायमानः प्रादुर्भवन्नेव महान् पूजनीयः अभवः असि । किंच हे इंदो सोम त्वं विश्वानित् सर्वानेव शत्रून् अभि असि तेजसाभिभवसि ॥ ॥ १६ ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, give to the sacrificer all that he desires. Also, as soon as you are born, you have become great, worthy of worship. And further, O Indu, Soma, you overcome all enemies by your splendour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O divine Soma, the purifier
+- स्वः (*svaḥ*)—all that is desired
+- विदः (*vidaḥ*)—give to the sacrificer
+- जायमानः (*jāyamānaḥ*)—at the time of birth itself
+- महान् (*mahān*)—possessed of great qualities
+- अभवः (*abhavaḥ*)—you have become
+- इंदो (*iṃdo*)—O divine Soma
+- विश्वानित् (*viśvānit*)—all enemies
+- अभ्यसि (*abhyasi*)—defeat and destroy **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, purifier, give to the sacrificer all that is desired. At the very time of your birth you have become possessed of great qualities. O divine Soma, destroy all enemies.
+
+##### English translation
+O purifying Soma, grant all boons; as soon as you are born you ar great; Indu, you overcome all (foes). **NOTE**
+
+## Sūkta 60 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र गायत्रेण' इति चतुर्ऋचं षट्त्रिंशं सूक्तं काश्यपस्यावत्सारस्यार्षम्। तृतीया पुरउष्णिगाद्यद्वादशका द्व्यष्टका । शिष्टा गायत्र्यः । पवमानः सोमो देवता । तथा चानुक्रांतं- प्र गायत्रेणोपांत्या पुरउष्णिक्' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र गायत्रेण (*pra gāyatreṇa*) has four ṛks and is the thirty-sixth sūkta; it is the vision of Kāśyapa Avatsāra. The third ṛk is a Puraūṣṇih, of which the first pāda has twelve syllables and the other two eight each. The remaining ṛks are Gāyatrī. The deity is Pavamāna Soma. The Anukramaṇī says: प्र गायत्रेणोपांत्या पुर उष्णिक् (*pra gāyatreṇopāṃtyā pura uṣṇik*). The use in the rite has been stated.
+
+##### Anuvāda
+
+This sūkta beginning प्र गायत्रेण (*pra gāyatreṇa*) is the thirty-sixth sūkta in the second anuvāka. It has four ṛks. The seer of this sūkta is the one called काश्यपः अवत्सारः (*kāśyapaḥ avatsāraḥ*); the deity is Pavamāna Soma. The third ṛk of this sūkta is of the metre called Puraūṣṇih. If a ṛk has three pādas, with twelve syllables in the first pāda and eight syllables each in the other two pādas, it is called of Puraūṣṇih metre. The remaining ṛks are of Gāyatrī metre. In the Anukramaṇī it is said: प्र गायत्रेणोपांत्या पुर उष्णिक् (*pra gāyatreṇopāṃtyā pura uṣṇik*). The use in the rite has been stated before.
+
+### Printed p. 174
+Maṇḍala 9, Anuvāka 2 **NOTE**, Sūkta 60. Aṣṭaka 7, Adhyāya 1, Varga 17. Number of ṛks in the sūkta: 4. Seer: अवत्सारः (*avatsāraḥ*). Deity: पवमान सोमः (*pavamāna somaḥ*). Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र गा॑य॒त्रेण॑ गायत॒ पव॑मानं॒ विच॑र्षणिम् ।  
+> इंदुं॑ स॒हस्र॑चक्षसम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । गायत्रेण । गायत । पवमानम् । विऽचर्षणिम् ।  
+> इंदुम् । सहस्रऽचक्षसम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विचर्षणिं विद्रष्टारं सहस्रचक्षसं बहुदर्शनं पवमानं पूयमानम् इंदुं सोमं गायत्रेण गायत्रनामधेयेन साम्ना प्र गायत हे स्तोतारः गानं कुरुते । स्तुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O singers, sing forth the purifying Indu, Soma, who is all-seeing and thousand-eyed, with the sāman called Gāyatra; that is, praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणिं (*vicarṣaṇiṃ*)—who can see everything with a subtle eye
+- सहस्रचक्षसं (*sahasracakṣasaṃ*)—who has manifold sight
+- पवमानं (*pavamānaṃ*)—the purifier
+- इंदुं (*iṃduṃ*)—divine Soma
+- गायत्रेण (*gāyatreṇa*)—with the sāma-mantra called Gāyatra
+- प्र गायत (*pra gāyata*)—praise abundantly in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+Praise abundantly in song divine Soma, who can see everything with a subtle eye, who has manifold sight, and who is the purifier, with the sāman called Gāyatra.
+
+##### English translation
+Hymn with a Gayatri hymn Indu the purifier, the all-beholding, the thousand-eyed.
+
+#### Ṛk 2
+### Printed p. 175
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ स॒हस्र॑चक्षस॒मथो॑ स॒हस्र॑भर्णसम् ।  
+> अति॒ वार॑मपाविषुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । त्वा । सहस्रऽचक्षसम् । अथो इति । सहस्रऽभर्णसम् ।  
+> अति । वारम् । अपाविषुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सहस्रचक्षसं बहुदर्शनम् अथो अपि च सहस्रभर्णसं बहुभरणं तम् अभिषुतं त्वा त्वां वारं वालं दशापवित्रम् अति अपाविषुः ऋत्विजः पावयंति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are thousand-eyed, of much sight, and also thousand-supporting, of much sustenance, pressed as you are, the priests purify you through the ten-fold filter, the strainer of hair.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रचक्षसं (*sahasracakṣasaṃ*)—(O divine Soma) who has a sight of a thousand faces
+- अथो ४ (*atho 4*)—and **NOTE**
+- सहस्रभर्णसं (*sahasrabharṇasaṃ*)—who nourishes thousands of sacrificers
+- तं (*taṃ*)—renowned
+- त्वा (*tvā*)—you
+- वारं (*vāraṃ*)—with the fibres of the ten-fold filter
+- अत्यपाविषुः (*atyapāviṣuḥ*)—the priests purify
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who have a sight of a thousand faces, who nourish thousands of sacrificers, and who are renowned, the priests purify you with the fibres of the ten-fold filter.
+
+##### English translation
+You, the thousand-eyed, and the supporter of thousands, they make to flow through the filter.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॒ वारा॒न्पव॑मानो असिष्यदत्क॒लशाँ॑ अ॒भि धा॑वति ।  
+> इंद्र॑स्य॒ हार्द्या॑वि॒शन् ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 169. sukta 57 rk 3-4, sukta 58, start of sukta 59
+**Progress note:** Done through printed p. 175. Mandala 9 Sukta 59 (Rk 1-4) and Sukta 60 Rk 1-3 start, pp. 170-175
