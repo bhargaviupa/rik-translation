@@ -24805,6 +24805,312 @@ As horses are urged by the fingers when fighting together with a chariot, the So
 
 The Soma Indu, being pressed (सुवानः (*suvānaḥ*)) by the good praisers (कव्यैः (*kavyaiḥ*)), by men (नहुष्येभिः (*nahuṣyebhiḥ*)), goes to the sacrifice for the drinking (वीती (*vītī*)) of the divine people (the divine people), that is, of the host of the gods born in heaven, for the eating of Soma. And further, immortal **NOTE**
 
+### Printed p. 652
+
+> मरणधर्मरहितो यः सोमो नृभिः कर्मनेतृभिर्मर्त्येभिर्मर्त्यैरविभिरविमय्यैः
+> पवित्रैः तथा गोभिरानडुहैरधिषवणचर्मभिः यद्वा गोविकारैः क्षीरादिभिः
+> अद्भिवर्ततीवर्यादिभिरुदकैश्च मर्मृजानो भृशं शोध्यमानः सन् यज्ञं प्रति
+> गच्छति । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+The Soma who is free from the law of death, with the men who lead the rite, with mortals, with the filters made of wool, likewise with the ox-hides on the pressing-place, or else with the products of the cow, milk and the rest, and with the waters, being thoroughly purified, goes toward the sacrifice. Because the preverb is heard, a suitable verb is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृतः (*amṛtaḥ*)—free from the law of death **NOTE**
+- यः (*yaḥ*)—which Soma
+- कव्यैः (*kavyaiḥ*)—by the praisers
+- नहुष्येभिः (*nahuṣyebhiḥ*)—by men
+- सुवानः (*suvānaḥ*)—pressed
+- नृभिः (*nṛbhiḥ*)—by the leaders of the rite
+- मर्त्येभिः (*martyebhiḥ*)—by men
+- अविभिः (*avibhiḥ*)—in the ten-fold filters
+- गोभिः (*gobhiḥ*)—with milk and the rest
+- अद्भिः (*adbhiḥ*)—with the waters
+- मर्मृजानः (*marmṛjānaḥ*)—who is purified
+- इंदुः (*iṃduḥ*)—Soma
+- दिवस्य जनस्यॆ (*divasya janasyè*)—to the host of gods born in the heaven-world **NOTE**
+- वीती (*vītī*)—for drinking
+- अधि (*adhi*)—comes to the sacrificial house
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who is free from the law of death, pressed by men who are praisers, and purified by men who lead the rite, in the ten-fold filters, with milk and the rest and with the waters, such a Soma comes to the sacrificial house for the drinking of the host of gods born in the heaven-world.
+
+##### English translation
+The Soma juice effused by pious mortals (comes) down (to the sacrifice) for the food of the celestial people ; which immortal (liquor) is purified by mortal (priests) with the filter, the curds and milk and the waters.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ वृष्णे॒ रोरु॑वदं॒शुर॑स्मै॒ पव॑मानो॒ रुश॑दीर्ते॒ पयो॒  
+> गोः ।  
+> स॒हस्र॒मृक्वा॑ प॒थिभि॑र्वचो॒विद॑ध्व॒स्मभिः॒ सूरो॒ अण्वं॒ वि या॑ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । वृष्णे । रोरुवत् । अंशुः । अस्मै । पवमानः । रुशत् । ईर्ते । पयः ।  
+> गोः ।  
+> सहस्रं । ऋक्वा । पथिभिः । वचःवित् । अध्वस्मभिः । सूरः । अण्वं । वि । याति ॥ ३ ॥
+
+### Printed p. 653
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षको वृषेवाचरन्वा रोरुवद्भृशं शब्दायमानोऽंशुः
+> सोमः पवमानः पूयमानः सन्नस्मै वृष्णे वर्षकायेंद्राय तदर्थं रुशत् ॥
+> रोचतेरिदं रूपं ॥ आरोचमानं श्वेतं गोः पय आश्रयणद्रव्यमिर्तॆ । गच्छति ॥
+> ईर गत् । आदादिकः ॥ किंच ऋक्वा ॥ छंदसीवनिपाविति मत्वर्थीयो वनिप् ॥
+> स्तोत्रवान् अत एव वचोवित् स्तुतीनां ज्ञाता सूरः सुवीर्यः सर्वेषामग्निष्टोमादिकर्मणि प्रेरकः सोमोऽध्वस्मभिर्ध्वंसनवर्जितैर्हिंसारहितैः सहस्रं
+> पथिभिर्बहुभिमार्गैरण्वं सूक्ष्मच्छिद्रं पवित्रं वि याति । अतीत्य द्रोणकलशं गच्छति ॥
+
+##### Gist of the bhāṣya
+
+वृषा (*vṛṣā*): the showerer of desires, or one acting like a bull; रोरुवत् (*roruvat*): sounding loudly; अंशुः (*aṃśuḥ*): Soma, being purified, goes for this showerer, Indra, and for his sake to the shining white milk of the cow, the substance that serves as a support; ईर्ते (*īrte*) means goes. Further, ऋक्वा (*ṛkvā*) is the possessor of praise, in the Vedic form with the affix meaning possession; hence वचोवित् (*vacovit*), the knower of praises; सूरः (*sūraḥ*): of good valour, the impeller of all in the Agniṣṭoma and the other rites. That Soma, with a thousand paths, many, free from destruction and harm, passes through the filter with its fine holes; having crossed it, he goes to the Droṇakalaśa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the giver of desired things
+- रोरुवत् (*roruvat*)—and one who makes sound
+- अंशुः (*aṃśuḥ*)—Soma
+- पवमानः (*pavamānaḥ*)—having attained purity
+- अस्मै वृष्णे (*asmai vṛṣṇe*)—for this Indra
+- रुशत् (*ruśat*)—shining
+- गोः पयः (*goḥ payaḥ*)—toward the milk and the other substances that serve as a support
+- ईर्ते (*īrte*)—goes
+- ऋक्वा (*ṛkvā*)—possessed of praise
+- वचोवित् (*vacovit*)—knower of praise
+- सूरः (*sūraḥ*)—Soma, the impeller
+- अध्वस्मभिः (*adhvasmabhiḥ*)—free from harm
+- सहस्रं पथिभिः (*sahasraṃ pathibhiḥ*)—by many paths
+- अण्वं (*aṇvaṃ*)—to the ten-fold filter
+- वि याति (*vi yāti*)—comes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the giver of desired things and one who makes sound, having attained purity, goes for Indra toward the shining milk and the other substances that serve as a support. Soma, who is possessed of praise, a knower of praise and an impeller, comes to the ten-fold filter by many paths free from harm.
+
+##### English translation
+The Soma juice the showerer (of benefits) roaring to the showerer (Indra) goes when being purified to (mix with) the glistening milk of the cow; greeted with laudation, cognizant of sacred praise, the hero passes through the filter by a thousand imperishable paths.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रु॒जा दृ॒ळ्हा चि॑द्र॒क्षसः॒ सदां॑सि पुना॒न इं॑द उर्णुहि॒ वि  ॑
+> वाजान् ।
+
+### Printed p. 654
+
+> वृश्चोपरिस्पात्तुजता वधेन ये अंति दूरारुपनायमेषां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रुज । दृळ्हा । चित् । रक्षसः । सदांसि ' पुनानः । इंदो इति । ऊर्णुहि । वि । वाजान् ।  
+> वृश्च । उपरिष्टात् । तुजता । वधेन । ये । अंति । दूरात् । उपनायं । एषां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम दृळ्हा चिद्दृढान्यपि परैरगंतव्यत्वेन रक्षसो राक्षसस्य सदांसि
+> स्थानानि पुराणि रुज । विनाशय ॥ रुजो भंगे तौदादिकः ॥ किंच हे इंदो पवमानः
+> पुनानः पवित्रादिभिः पूयमानस्त्वं . वाजांस्तस्यान्नानि तस्य बलानि वोर्णुहि ।
+> आच्छादय । आहरेत्यर्थः । तथा ये राक्षसा उपरिष्टादूर्ध्वदेशादागच्छंति ये
+> वांत्यंतिके समीप आगच्छंति ये च दूराद्दूरदेशाद्वागच्छंति तेषां राक्षसानामुपनायमुपनेतारं स्वामिनं तुजता । तुजतिर्हिंसाकर्मा । हिंसकेन वधेन
+> हननसाधनेनायुधेन त्वं वृश्च । छिंधि ॥ ओव्रश्च छेदने तौदादिकः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, break the dwellings, the strongholds, of the Rākṣasa, सदांसि (*sadāṃsi*), even though they are firm and not to be entered by others; destroy them. Further, O Indu, purified by the filters and the rest, put on, that is, cover yourself with, or bring, the strengths, the foods, of that one. Likewise, those Rākṣasas who come from above, from the upper region, or who come from near, or who come from afar: their leader and master (उपनायं (*upanāyaṃ*)), cut down with a harming weapon, a means of killing (तुजता (*tujatā*): the root means harm); cut, cleave (वृश्च (*vṛśca*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva)
+- रक्षसः (*rakṣasaḥ*)—of the Rākṣasa
+- सदांसि (*sadāṃsi*)—the dwelling-places
+- दृळ्हाचित् (*dṛḷhācit*)—though they are exceedingly firm
+- रुज (*ruja*)—destroy
+- इंदो (*iṃdo*)—O Soma
+- पुनानः (*punānaḥ*)—you who have attained purity
+- वाजान् (*vājān*)—strength
+- वि ऊर्णुहि (*vi ūrṇuhi*)—put on
+- ये (*ye*)—which Rākṣasas
+- उपरिष्टात् (*upariṣṭāt*)—from above
+- अंति (*aṃti*)—from near
+- दूरात् (*dūrāt*)—and from a distant region come, those Rākṣasas
+- एषां उपनायं (*eṣāṃ upanāyaṃ*)—and their leaders
+- तुजता (*tujatā*)—harming
+- वधेन (*vadhena*)—with a weapon
+- वृश्च (*vṛśca*)—cut
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, destroy the dwelling-places of the Rākṣasa, though they are exceedingly firm. O Soma, you who have attained purity, put on strength. Those asuras **NOTE** who come from above, from near, and from a distant region, those Rākṣasas and their leaders too, cut with a harming weapon.
+
+### Printed p. 655
+
+##### English translation
+Demolish the strong dwellings of the Rakshasa ; Indu, when purified put on his strength; cut to pieces with your destructive weapon (the Rakshasas) who come from above, from nigh, or from afar and their leader.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प्र॑श्न॒वन्नव्य॑से विश्ववार सू॒क्ताय॑ प॒थः कृ॑णुहि॒ प्राचः॑ ।  
+> ये दुः॒षहा॑सो व॒नुषा॑ बृ॒हंत॒स्तांस्ते॑ अश्याम पुरुकृत्पुरुक्षो ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । प्रश्नवत् । नव्यसे । विश्ववार । सुउक्ताय । पथः । कृणुहि । प्राचः ।  
+> ये । दुःसहासः । वनुषा । बृहंतः । तान् । शे । अश्याम । पुरुकृत् । पुरुक्षो  
+> इति पुरुषोत्तम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववार विश्वै सर्वैर्वर्णेय हे सोम स तादृशस्त्वं प्रत्नवत् पुराण
+> इव स्थितस्त्वं नव्यसे नवीयसे नवतराय ॥ नवशब्दादीयसुनीकारलोपश्रांदसः ॥
+> तस्यॆ सूक्ताय शोभनस्तुतिकाय मह्यं पथो मार्गान् प्राचः प्राचीनान्
+> कृणुहि । कुरु । सर्वत्र गमनं प्रयच्छेत्यर्थः ॥ कृवि हिंसाकरणयोः । धिन्विकृण्वोरच्चेत्युप्रत्ययः ॥ हे पुरुकृद्बहुकर्मन् हे पुरुषो ॥ टुक्षु शब्दे । मितद्वादिश्वाद्दु प्रत्ययः । पा. ३-२-१४०-१ ॥ बहुविधॆं शब्दायमान हे सोम दुःसहासो
+> रक्षोभिः सोधुमशक्याः अत एव वनुषा । वनतिर्हिंसार्थः । हिंसया युक्ता
+> बृहंतो महांतो ये त्वदीयाः अंताः संति तांस्ते तव स्वभूतानंशान्वयं
+> यष्टेऽत्याम ! प्राप्युयाम ॥
+
+##### Gist of the bhāṣya
+
+O विश्ववार (*viśvavāra*), one to be chosen by all, O Soma, such as you are, standing as if ancient (प्रत्नवत् (*pratnavat*)), for the newer, the very new one (नव्यसे (*navyase*)), that is, for me, the well-praising सूक्ताय (*sūktāya*), make the paths forward, the ancient ones; the meaning is: grant movement everywhere. O पुरुकृत् (*purukṛt*), doer of many works, O पुरुक्षो (*purukṣo*), one who sounds in many ways, O Soma: those of your parts which are दुःसहासो (*duḥsahāso*), impossible for the Rākṣasas to overcome, and therefore वनुषा (*vanuṣā*), accompanied by harming, great, which are yours, those portions of you which belong to you, may we obtain. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववार (*viśvavāra*)—O Soma-deva, worthy of all worship
+- सः (*saḥ*)—you who are renowned
+- प्रत्नवत् (*pratnavat*)—being ancient
+- नव्यसे (*navyase*)—and the present one
+- सूक्ताय (*sūktāya*)—to me, who am an excellent praiser
+- पथः (*pathaḥ*)—excellent paths
+- प्राजिः (*prājiḥ*)—so that they face me **NOTE**
+- कृणुहि (*kṛṇuhi*)—make
+
+### Printed p. 656
+
+- पुरुकृत् (*purukṛt*)—one who does many works
+- पुरुक्षो (*purukṣo*)—one who sounds greatly, O Soma
+- दुःसहासः (*duḥsahāsaḥ*)—which cannot be withstood by enemies
+- वनुषा (*vanuṣā*)—harming enemies
+- बृहंतः (*bṛhaṃtaḥ*)—and of great form
+- ये (*ye*)—which powers of yours there are
+- तान् (*tān*)—those
+- ते (*te*)—we **NOTE**
+- अश्याम (*aśyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, worthy of the worship of all, you who are renowned, being ancient, make known excellent paths to me, who am the present one and an excellent praiser. O Soma, doer of many works and one who sounds greatly, may we obtain those powers of yours which cannot be withstood by enemies, which harm enemies and are of great form.
+
+##### English translation
+Adorable (Soma), you as of old grant the ancient paths to your new worshipper ; doer of many acts, utterer of many sounds, may we obtain those (portions) of you which are difficult to defeat, inflicting injury (on foes) and mighty.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा पु॑ना॒नो अ॒पः स्व१॒॑र्गा अ॒स्मभ्यं॑ तो॒का तन॑यानि॒ भूरि॑ ।  
+> शं नः॒ क्षेत्र॑मु॒रु ज्योतीं॑षि सोम॒ ज्योज्न्॒यः सूर्यं॑  
+> दृ॒शये॑ रिरीहि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । पुनानः । अपः । स्वः । गाः । अस्मभ्यं । तोका । तनयानि । भूरि ।  
+> शं । नः । क्षेत्रं । उरु । ज्योतींषि । सोम । ज्योक् । नः । सूर्यं । दृशये ।  
+> रिरीहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम एवैवं पुनानः पूयमानः पवित्रादिभिरस्मभ्यं रिरीहि । प्रापय ।
+> प्रयच्छ । किं तत् । अपः । अप इत्यंतरिक्ष नाम । आप्नोति सर्वमपि । अंतरिक्षं स्वः
+> अ. ७. आ. ४. व. २. ] ऋग्वेदसंहिता 657.
+> स्वर्गं द्युलोकं गाः । सर्वैर्गम्यतेऽत्रेति गावः पृथिव्यः । ताः पृथिवीश्च भूरि ॥
+> सुपां सुलुगति द्वितीयाया लुक् ॥ बहूंस्तोका पुत्रांस्तनयानि । तन्वंति कुलमिति
+> तनयाः पौत्राः । तांश्च तथा नोऽस्मभ्यं क्षेत्रं शं सुखकरं कुरु । हे सोम
+> जोतींषि नक्षत्राण्युरूरूण्यंतरिक्षे विस्तीर्णानि कुरु तथा नोऽस्मभ्यं सूर्यमादित्यं ज्योक् । चिरनामैतत् । चिरकालं दृशये द्रष्टुं कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, thus purified by the filters and the rest, रिरीहि (*rirīhi*): bring to us, give. What? अपः (*apaḥ*): this is a name of the antarikṣa, because it pervades everything; स्वः (*svaḥ*): heaven, the world of the sky; गाः (*gāḥ*): the earths, because all go over them; and these earths in abundance (भूरि (*bhūri*)). Many sons (तोका (*tokā*)) and grandsons (तनयानि (*tanayāni*): those who extend the family are the tanayas, the grandsons). And likewise make our field pleasant (शं (*śaṃ*)). O Soma, make the luminaries, the stars, wide (उरु (*uru*)) in the antarikṣa; and likewise make us see the sun, the Āditya, for a long time (ज्योक् (*jyok*) is a name meaning long), दृशये (*dṛśaye*), to see.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva)
+- एव (*eva*)—thus
+- पुनानः (*punānaḥ*)—you who have attained purity
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- अपः (*apaḥ*)—the atmosphere
+- स्वः (*svaḥ*)—the heaven-world
+- गाः (*gāḥ*)—the earths
+- भूरि (*bhūri*)—in abundance
+- तोका (*tokā*)—sons
+- तनयानि (*tanayāni*)—grandsons
+- रिरीहि (*rirīhi*)—provide
+- नः (*naḥ*)—to us
+- क्षेत्रं (*kṣetraṃ*)—the field
+- शं (*śaṃ*)—make pleasant
+- सोम (*soma*)—O Soma
+- ज्योतींषि (*jyotīṃṣi*)—the stars
+- उरु (*uru*)—make them shine in the wide atmosphere
+- नः (*naḥ*)—to us
+- सूर्यं (*sūryaṃ*)—the Āditya
+- ज्योक् (*jyok*)—for a long time
+- दृशये (*dṛśaye*)—make visible
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have attained purity, provide us the atmosphere, the heaven-world, the earths, and in abundance sons and grandsons. Make our field pleasant. Make the stars shine in the atmosphere; may we see the Āditya for a long time.
+
+##### English translation
+Thus, being purified. bestow upon us the firmament and heaven and earth and many sons and grandsons ; make our land prosper, diffuse the luminaries widely (in the firmament) and grant us long life to see the sun- **NOTE**
+
+The ninety-second sūkta.
+
+## Sūkta 92 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘परि सुवानः' इति षडृचं सप्तमं सूक्तं मारीचस्य कश्यपस्यार्षं त्रैष्टुभं पवमानसोमदेवताकम् । ‘ परि सुवानः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परि सुवानः (*pari suvānaḥ*) has six Ṛks and is the seventh sūkta. Its seer is Kaśyapa, of Marīci's line; its metre is Triṣṭubh; its deity is Pavamāna Soma. The Anukramaṇī says परि सुवानः (*pari suvānaḥ*). The viniyoga has been stated.
+
+##### Anuvāda
+
+Anuvāda— This sūkta, परि सुवानः (*pari suvānaḥ*), is the seventh sūkta in the fifth anuvāka. It has six Ṛks. The seer of this sūkta is Kaśyapa, the son of Marīci; the deity is Pavamāna
+
+### Printed p. 658
+
+Soma; the metre is Triṣṭup. In the Anukramaṇikā it is said परि सुवानः (*pari suvānaḥ*). The viniyoga has been stated before.
+
+Sūkta 92. Maṇḍala 9, Anuvāka 5, Sūkta 92. Aṣṭaka 7, Adhyāya 4, Varga 2. Number of ṛks in the sūkta: 6. Seer: Kaśyapa. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ सुवा॒नो हरि॑रं॒शुः प॒वित्रे॒ रथो॒ न स॑र्जि स॒नये॑ हिया॒नः ।  
+> आप॒च्छ्लोक॑मिंद्रि॒यं पू॒यमा॑नः॒ प्रति॑ दे॒वाँ अ॑जुषत॒ प्रयो॑भिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सुवानः । हरिः । अंशुः । पवित्रे । रथः । न । सर्जि । सनये । हियानः ।  
+> आपत् । श्लोकम् । इंद्रियम् । पूयमानः । प्रति । देवान् । अजुषत । प्रयःऽभिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानः' अभिषूयमाणः हियानः ऋत्विग्भिः प्रेर्यमाणः हरिः हरितवर्णः अंशुः सोमः पवित्रे अविवालेन कृते दशापवित्रे परि सर्जि परिसृज्यते । किमर्थम् । सनये धनलाभाय देवानां संभजनाय वा । तत्र दृष्टांतः । रथो न । रथो यथा युद्धे शत्रुवधार्थं शत्रुधनहरणार्थं वा सृज्यते तद्वत् । किंच पूयमानः पवित्रेण सोऽयं सोमः इंद्रियम् इंद्रलिंगमिंद्रस्य पर्याप्तं वा श्लोकं स्तोत्रम् आपत् आप्नोति । आप्लृ व्याप्तौ ' । लेट्यडागमः । तथा स सोमः प्रयोभिः प्रीणयितृभिः हवीरूपैरन्नैः देवान् प्रति अजुषत प्रतिसेवते । ‘जुषी प्रीतिसेवनयोः' ॥
+
+##### Gist of the bhāṣya
+
+सुवानः (*suvānaḥ*): being pressed; हियानः (*hiyānaḥ*): driven on by the priests; हरिः (*hariḥ*): of green colour; अंशुः (*aṃśuḥ*): Soma. On the filter, the ten-fold filter made of woollen threads, he is released all around (परि सर्जि (*pari sarji*)). For what purpose? सनये (*sanaye*): for the gain of wealth, or for the sharing with the gods. An example is given: रथो न (*ratho na*), as a chariot is sent forth in battle to kill enemies or to carry off the enemies' wealth, so he is sent. Further, being purified by the filter, this Soma obtains (आपत् (*āpat*)) इंद्रियम् (*iṃdriyam*), the mark of Indra or what is sufficient for Indra, and praise, श्लोकं (*ślokaṃ*). Likewise that Soma, with the gladdening foods in the form of oblations (प्रयोभिः (*prayobhiḥ*)), serves the gods (अजुषत (*ajuṣata*); the root means pleasing and serving).
+
 ---
 
-**Progress note:** Done through printed p. 651. Sūkta 90 Ṛk 3 end to Sūkta 91 Ṛk 2 (to bhāṣya)
+**Progress note:** Done through printed p. 658. Sūkta 91 Ṛk 2 (end) to Sūkta 92 Ṛk 1 (to bhāṣya)
