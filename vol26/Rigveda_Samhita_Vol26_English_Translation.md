@@ -29140,6 +29140,233 @@ O Soma, send rain to us, rain of this kind: divine, born in heaven; moving swift
 
 O divine Soma, pour down the rain that is born in the heavenly world, falls swiftly, is rich in food, gives happiness and quickly provides wealth. Like dear children
 
+### Printed p. 782
+
+being cherished and approached, being kin to you and dwelling on the earth, wishing to approach us, be gracious.
+
+##### English translation
+Send us rain from heaven, quick-falling, food-giving, giving health to our home, promptly munificent : flow Indu, seeking these lower winds your kinsmen as (one seeking his) beloved infants.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रं॒थिं न वि ष्य॑ ग्रथि॒तं पु॑ना॒न ऋ॒जुं च॑ गा॒तुं वृ॑जि॒नं च॑  
+> सोम ।  
+> अत्यो॒ न क्र॑दो॒ हरि॒रा सृ॑जा॒नो मर्यो॑ देव धन्व प॒स्त्या॑वान् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रंथिं । न । वि । स्य । ग्रथितं । पुनानः । ऋजुं । च । गातुं । वृजिनं । च । सोम ।  
+> अत्यः । न । क्रदः । हरिः । आ । सृजानः । मर्यः । देव । धन्व । पस्यवान् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानस्त्वं ग्रथितं पापैर्बद्धं मां विष्य । मुंच । पापेभ्यो
+> विश्लेषय । कथमिव । ग्रंथिं न यथा कश्चिद्ग्रंथिं विश्लेषयति ॥ षो अंतकर्मणीत्यस्य
+> लोटि रूपं ॥ किंच हे सोम त्वमृजुमवक्रं गातुं मार्गं च वृजिनं बलं च
+> मह्यं देहि । हरिर्हरितवर्णस्त्वमा सृजानः पात्रेष्वासृज्यमानः सन्नत्यो नातनशीलोऽश्व इव क्रदः । क्रंदसि । शब्दायसे । किंच हे देव मर्यो मनुष्यहितो
+> मारको हिंसको वा शत्रूणां पस्यवान् । पस्यं गृहं । तद्वांस्तं धन्व ।
+> मामभिगच्छ कलशान्या ॥
+
+##### Gist of the bhāṣya
+
+You who are being purified, release me who am bound by sins (ग्रथितं (*grathitaṃ*)); free me from the sins, as someone loosens a knot. Further, O Soma, give me a straight, unbent path and strength. You, of green colour, being poured into the vessels, cry out, that is, make a sound, like a horse running swiftly. Further, O god, you are मर्यो (*maryo*), beneficent to men, or else a slayer or injurer of enemies, and पस्यवान् (*pasyavān*), possessing a house (पस्यं गृहं । (*pasyaṃ gṛhaṃ |*)); come to me, to the vessels **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- पुनानः (*punānaḥ*)—you, who have attained purity
+- ग्रंथिं न (*graṃthiṃ na*)—as one unties a knot
+- ग्रथितं (*grathitaṃ*)—me, bound by sin
+- वि ष्य (*vi ṣya*)—release
+- ऋजुं (*ṛjuṃ*)—straight
+- गातुं (*gātuṃ*)—show the path
+- वृजिनं च (*vṛjinaṃ ca*)—give strength too
+- हरिः (*hariḥ*)—you, who are green in colour
+- आ सृजानः (*ā sṛjānaḥ*)—when let loose freely
+- अत्यो न (*atyo na*)—like a horse
+
+### Printed p. 783
+
+- क्रदः (*kradaḥ*)—you make a sound
+- देव (*deva*)—O Soma, divine in nature
+- मर्यः (*maryaḥ*)—beneficial to men
+- पस्यवान् (*pasyavān*)—you, who have a house
+- धन्व (*dhanva*)—come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who have attained purity, release the bond of sin of me, who am bound by sin, as one unties a knot. Show me a straight path and give me strength too. You who are green in colour make a sound like a horse when let loose freely. O Soma, divine in nature, you who are beneficial to men and have a house, come to us.
+
+##### English translation
+(Soma), when filtered loose (me) bound (by sin) as (one looses) a knot ;
+(grant me) a straight path and strength. You, green-tinted, neigh like a horse:
+(when you are) let loose : proceed divine (Soma) who are friendly to man,
+and have a dwelling.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जुष्टो॒ मदा॑य दे॒वता॑त इंदो॒परि॒ ष्टुना॑ धन्व॒ सानो॒ अव्ये॑ ।  
+> स॒हस्र॑धारः सुर॒भिरद॑ब्बः॒ परि॑ स्रव॒ वाज॑सात् नृ॒षह्ये॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुष्टः । मदाय । देवताते । इंदो इति । परि । स्नुना । धन्व । सानौ । अव्ये ।  
+> सहस्रधारः । सुरभिः । अदब्बः । परि । स्रव । वाजसात् । नृसह्ये ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो मदाय जुष्टः पर्याप्तस्त्वं देवताते देवैस्तते यज्ञे सानौ
+> समुच्च्रितेऽव्येऽविभवे पवित्रे स्नुना स्रवणशीलेन धारासंघेन सह परि धन्व।परिगच्छ।
+> सहस्रधारो बहुधारोपेतः सुरभिः सुगंधिस्त्वमदब्बो न कैश्चिद्धिंसितः सन्
+> वाजसातावन्नलाभनिमित्ते नृसह्ये नृभिः सोढव्ये युद्धे परि स्रव । परितो गच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, you who are sufficient for exhilaration, flow at the sacrifice (देवताते (*devatāte*), the sacrifice extended by the gods), together with the stream of flowing currents, on the elevated fleece, the filter. You, with a thousand streams, that is, with many streams, fragrant and unharmed by anyone, flow around in the battle, which is to be endured by men and is for the sake of gaining food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- मदाय (*madāya*)—to cause exhilaration
+- जुष्टः (*juṣṭaḥ*)—you, who are capable
+- देवताते (*devatāte*)—at the sacrifice
+- सानौ (*sānau*)—at the elevated place
+- अव्ये (*avye*)—in the dashapavitra filter
+
+### Printed p. 784
+
+- स्नुना (*snunā*)—together with the stream
+- परि धन्व (*pari dhanva*)—flow
+- सहस्रधारः (*sahasradhāraḥ*)—having many streams
+- सुरभिः (*surabhiḥ*)—you, who are fragrant
+- अदब्धः (*adabdhaḥ*)—not subject to the violence of anyone **NOTE**
+- नृसह्ये (*nṛsahye*)—in battle
+- वाजसात् (*vājasāt*)—for the gain of food
+- परिस्रव (*parisrava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are capable of causing exhilaration, flow with the stream at the sacrifice into the dashapavitra filter that stands in the elevated place. You who have many streams and are fragrant, flow, subject to the violence of none, for the gain of food in battle.
+
+##### English translation
+Indu, who are adequate for exhilaration flow in a stream to the elevated
+fleece at the sacrifice; thousand-streaming, fragrant, irresistible, flow for the
+acquisition of food in the combat.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र॒श्मानो॒ ये॑र॒था अयु॑क्ता॒ अत्या॑सो॒ न स॑सृजा॒नास॑ आ॒जौ ।  
+> ए॒ते शु॒क्रासो॑ धन्वंति॒ सोमा॒ देवा॑स॒स्ता उप॑ याता॒  ॑
+> पिबध्यै ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरश्मानः । ये । अरथाः । अयुक्ताः । अत्यासः । न । ससृजानासः । आजौ ।  
+> एते । शुक्रासः । धन्वंति । सोमाः । देवासः । तान् । उप । यात । पिबध्यै ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरश्मानो रश्मिवर्जिताः । रज्जुरहिता इति यावत्। अरथा रथवर्जिता आयुक्ताः
+> कुत्रापि न नियुक्ताः । अबद्धा इत्यर्थः । एतादृशा य आजौ युद्धे सस्यजानासः
+> सृज्यमाना अत्यासो नाश्वा यथा त्वरया लक्ष्यं गच्छंति तद्वदाजौ । अजंति
+> कर्मकरणार्थमृत्वजोऽत्रेत्याजिर्यज्ञः । तस्मिन्सृज्यमानाः शुक्रा दीप्यमाना एते
+> सोमा धन्वंति । क्षिप्रं कलशानभिगच्छंति । अथ प्रत्यक्षः । हे देवासो देवाः
+> तानागच्छतः सोमान्पिबध्यॆ पानायोप यात । उपगच्छत ॥
+
+##### Gist of the bhāṣya
+
+These Somas, without reins, that is, without ropes, without chariots, and unyoked, not harnessed anywhere, that is, unbound, being let loose in the battle, run to the goal swiftly like horses. Sāyaṇa explains the battle as the sacrifice, because the officiating priests drive there for the performance of the rites. Let loose in it, these bright, shining Somas run, that is, go quickly to the vessels. Then, in the direct address: O gods, come to those Somas that are arriving, to drink.
+
+### Printed p. 785
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरश्मानः (*araśmānaḥ*)—without bridle
+- अरथाः (*arathāḥ*)—without chariot
+- अयुक्ताः (*ayuktāḥ*)—not tied to a chariot
+- ये (*ye*)—which horses
+- आजौ (*ājau*)—in battle
+- ससृजानासः (*sasṛjānāsaḥ*)—those that are let loose freely
+- अत्यासो न (*atyāso na*)—as horses run at will
+- शुक्रासः (*śukrāsaḥ*)—powerful
+- एते सोमाः (*ete somāḥ*)—these Soma juices
+- धन्वंति (*dhanvaṃti*)—run towards the vessel
+- देवासः (*devāsaḥ*)—O gods
+- तान् (*tān*)—those Soma juices
+- पिबध्यै (*pibadhyai*)—to drink
+- उप यात (*upa yāta*)—come near
+
+##### भावार्थ (Bhāvārtha)
+
+As horses without bridle and not tied to a chariot, if let loose in the battlefield, run freely, so these powerful Soma juices run towards the vessel, that is, they flow. O gods, come near to drink those Soma juices.
+
+##### English translation
+These brilliant Soma-juices flow like horses let loose in battle without reins, without chariots, unharnessed ; approach them, you gods, to drink.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the sentence अरश्मानः........सोमाः (*araśmānaḥ........somāḥ*) is said to be in the indirect form, and the sentence देवासः........ पिबध्यॆ (*devāsaḥ........ pibadhyè*) in the direct form. In many Ṛks there are only indirect sentences; in some Ṛks only direct ones; and in still other Ṛks both indirect and direct. Therefore we shall explain briefly what the indirect and the direct forms are, following what Yāska has explained here.
+
+In dividing the Ṛks of the Ṛgveda according to their sense, Yāska says that there are various kinds, comprising such subjects as the indirect, the direct, the indirect and direct together, the spiritual, praise, blessing, oath, curse, a matter concerning someone, lament, censure and so on, and he has explained them by examples. Thus:
+
+(1) परोक्षकृत (*parokṣakṛta*)—In this Ṛk the deity is thought of as not being before the speaker, that is, as being out of sight, and is praised so. In this case any of the cases of the pronoun may be used, but the verb must be in the third person. For example, इंद्रो दिव इंद्र ईशे पृथिव्याः ॥ (*iṃdro diva iṃdra īśe pṛthivyāḥ ‖*) (nominative case)
+
+### Printed p. 786
+
+इंद्रमिद्दाथिनो बृहत् ॥ (*iṃdramiddāthino bṛhat ‖*) (second case)
+
+इंद्रेणैते तृत्सवो वेविषाणाः ॥ (*iṃdreṇaite tṛtsavo veviṣāṇāḥ ‖*) (third case)
+
+इंद्राय साम गायत ॥ (*iṃdrāya sāma gāyata ‖*) (fourth case)
+
+नेंद्रादृते पवते धाम किंचन ॥ (*neṃdrādṛte pavate dhāma kiṃcana ‖*) (fifth case)
+
+इंद्रस्य नु वीर्याणि प्रवोचं ॥ (*iṃdrasya nu vīryāṇi pravocaṃ ‖*) (sixth case)
+
+इंद्रे कामा अयंसत ॥ (*iṃdre kāmā ayaṃsata ‖*) (seventh case)
+
+Here seven examples are given for the seven cases. Only the verb is in the third person.
+
+(2) प्रत्यक्षकृत (*pratyakṣakṛta*)—In this kind of Ṛk the deity who is praised is thought of as present, that is, as standing in front, and that deity may be praised in all the cases as said before. But the second-person pronouns, "you", "your" and so on, and the second-person verbs corresponding to them must be used. For example, त्वमिंद्र बलवादधि ॥ (*tvamiṃdra balavādadhi ‖*) वि न इंद्र मृधो जहि ॥ (*vi na iṃdra mṛdho jahi ‖*) and so on.
+
+(3) Direct and indirect—In some Ṛks which contain both kinds, the people who praise are treated as direct, and the deities who are praised as indirect. For example, मा चिदन्यद्विशंसत ॥ (*mā cidanyadviśaṃsata ‖*) कण्णा अभि प्र गायत ॥ (*kaṇṇā abhi pra gāyata ‖*) **NOTE** उप प्रेत कुशिकाश्चेयध्वं ॥ (*upa preta kuśikāśceyadhvaṃ ‖*) and so on.
+
+(4) आध्यात्मिक (*ādhyātmika*)—The deities who are praised themselves speak, and the sentences are said in the first person. For example, अहं भुवं वसुनः पूर्वस्पतिः ॥ (*ahaṃ bhuvaṃ vasunaḥ pūrvaspatiḥ ‖*) इति ना इति मे मनः ॥ (*iti nā iti me manaḥ ‖*) अहं रुद्रेभिर्वसुभिश्चरामि ॥ (*ahaṃ rudrebhirvasubhiścarāmi ‖*) and so on.
+
+(5) स्तुति (*stuti*)—A Ṛk containing only the praise of deities or of other persons. For example, इंद्रस्य नु वीर्याणि प्रवोचं ॥ (*iṃdrasya nu vīryāṇi pravocaṃ ‖*) and so on.
+
+(6) आशीः (*āśīḥ*)—A blessing, or a mantra that wishes what is good. For example, सुचक्षा अहमक्षिभ्यां ॥ (*sucakṣā ahamakṣibhyāṃ ‖*) and so on.
+
+### Printed p. 787
+
+(7) Oath and curse—a vow, and the giving of a curse wishing another ill. For example, अद्या मुरीय यति यातुधानो अस्मि ॥ (*adyā murīya yati yātudhāno asmi ‖*) **NOTE** अधा स वीरैर्दशभिर्वियूयाः ॥ (*adhā sa vīrairdaśabhirviyūyāḥ ‖*) and so on.
+
+(8) कस्यचिद्भाव (*kasyacidbhāva*)—There is a description or mention of some matter. For example, न मृत्युरासीदमृतं न तर्हि । (*na mṛtyurāsīdamṛtaṃ na tarhi |*) तम आसीत्तमसा गूळ्वमग्रे ॥ (*tama āsīttamasā gūḷvamagre ‖*) and so on.
+
+(9) परिदेवना (*paridevanā*)—Lamenting. For example, सुदेवो अद्य प्रपतेदनावृत् ॥ (*sudevo adya prapatedanāvṛt ‖*) न विजानामि यदि वेदमस्मि ॥ (*na vijānāmi yadi vedamasmi ‖*) and so on.
+
+(10) निंदा (*niṃdā*)—A mantra containing censure or praise. For example, केवलाघो भवति केवलादी ॥ (*kevalāgho bhavati kevalādī ‖*) भोजस्येदं पुष्करणीव वेष्म (*bhojasyedaṃ puṣkaraṇīva veṣma*) (here there is censure of gambling and praise of agriculture) and so on. **NOTE**
+
+The mantras given above as examples are the opening words of the respective Ṛks. The complete Ṛks must be found in the alphabetical index of the Ṛks (Ṛ. Saṃ. Part 1, pp. 717-920). Among the ten kinds of mantras explained above, for an example of a Ṛk of the seventh, the matter of oath and curse, Yāska has recited the Ṛk अद्या मुरीय यदि यातुधानो अस्मि (*adyā murīya yadi yātudhāno asmi*) (Ṛ. Saṃ. 7-104-15, **NOTE**
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा न॑ इंदो अ॒भि दे॒ववी॑तिं॒ परि॑ स्रव॒ नभो॒ अर्ण॑श्च॒मूषु॑ ।  
+> सोमो॑ अ॒स्मभ्यं॒ काम्यं॑ बृ॒हंतं॑ र॒यिं द॑दातु वी॒रवं॑तमु॒ग्रं ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । इंदो इति । अभि । देवनीतिं । परि । स्रव । नभः । अर्णः । चमूषु ।  
+> सोमः । अस्मभ्यं । काम्यं । बृहंतं । रयिं । ददातु । वीरवंतं । उग्रं ॥ २१ ॥
+
 ---
 
-**Progress note:** Done through printed p. 781. Sūkta 96 Ṛk 12 to Sūkta 97 Ṛk 17 (pp. 775-780)
+**Progress note:** Done through printed p. 787. Sūkta 97 Ṛk 17 end to Ṛk 21 Pada (pp. 782-787)
