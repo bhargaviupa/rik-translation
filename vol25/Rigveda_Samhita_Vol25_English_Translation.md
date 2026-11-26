@@ -1440,6 +1440,241 @@ O god Varuṇa, you are a most excellent god, for the seven rivers, Gaṅgā and
 ##### English translation
 You are a glorious god, Varuna, across whose palate the seven rivers keep pouring as a fair-flowing (stream) into an abyss.
 
+### Printed p. 37
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word काकुदं (*kākudaṃ*), Yāska has given an explanation (nirvacana) for this Ṛk:
+सुदेवस्त्वं कल्याणदेवः कमनीयदेवो वा भवसि वरुण यस्य ते सप्त सिंधवः । सिंधुः प्रवणात् यस्य ते सप्त स्रोतांसि तानि ते काकुदमनुस्यक्ष-रंति सूर्मिः कल्याणोर्मिः स्रोतः सुषिरमनु यथा ॥ (*sudevastvaṃ kalyāṇadevaḥ kamanīyadevo vā bhavasi varuṇa yasya te sapta siṃdhavaḥ | siṃdhuḥ pravaṇāt yasya te sapta srotāṃsi tāni te kākudamanusyakṣa-raṃti sūrmiḥ kalyāṇormiḥ srotaḥ suṣiramanu yathā ‖*) (Ni. 5-27) **NOTE**
+O Varuṇa, you are Sudeva, that is, a god who brings about welfare, a god who does good to all, who makes auspiciousness; or else a god who is desired by all (a charming god). Such is your tongue's root, into which the seven famous rivers (Gaṅgā and the others) flow and fall. How? As flowing water goes and falls naturally into a pit, that is, into a low region, so the seven famous rivers go and fall into the root of your tongue (that is, into the ocean). Here the word Sindhu means a flowing river; that is, because it has the nature of flowing, a river is also called Sindhu. Sūrmi means one with good waves, that is, a stream with abundant water, as it rushes into a low region; thus the illustration of the word Suṣirā is given.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो व्यतीँ॒रफा॑णय॒त्सुयु॑क्ताँ॒ उप॑ दा॒शुषे॑ ।  
+> त॒क्वो ने॒ता तदिद्वपु॑रुप॒मा यो अमु॑च्यत ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । व्यतीन् । अफाणयत् । सुऽयुक्तान् । उप । दाशुषे ।  
+> तक्वः । नेता । तत् । इत् । वपुः । उपऽमा । यः । अमुच्यत ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः इंद्रः व्यतीन् विविधगमनान् ‘सुयुक्तान् सुष्ठु रथे संबद्धानश्वान् दाशुषे हविर्दात्रे यजमानाय गंतुं प्राप्तुम् उप अफाणयत् उपगमयति । फणतिर्गतिकर्मा । यदैवं करोति तदित् तदानीमेव तक्वः । तकतिर्गतिकर्मा । यज्ञगमनशीलः नेता उदकस्य फलस्य वा नायक इंद्रः वपुः उदकमुत्पादयतीति शेषः । यः इंद्रः उपमा उपमानभूतः अमुच्यत अन्यैर्वृष्टिनिवारकैरसुरादिभिर्मुक्तो भवति ॥
+
+##### Gist of the bhāṣya
+
+Indra, who causes his horses, of varied gait and well yoked, that is, well fastened to the chariot, to come near to the sacrificer who gives the oblation, to go to him and reach him (the root for "cause to go" is a root of motion): when he does so, at that very moment Indra, who is bent on going to the sacrifice (the root of the word for "swift" is a root of motion), the leader, who leads the water or the fruit, produces water; this is to be supplied. That Indra who is without compare, that is, serves as the standard of comparison, is freed from the others, the Asuras and the rest who hold back the rain.
+
+### Printed p. 38
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- व्यतीन् (*vyatīn*)—those of many kinds of movement
+- सुयुक्तान् (*suyuktān*)—his horses, well fastened to his chariot
+- दाशुषे (*dāśuṣe*)—to come to the sacrificer who offers the oblation
+- उप अघाणयत् (*upa aghāṇayat*)—urges on
+- तदित् (*tadit*)—at that very moment
+- तक्वः (*takvaḥ*)—he who desires to come to the sacrifice
+- नेता (*netā*)—and who brings about the fruit, that Indra
+- वपुः (*vapuḥ*)—produces water
+- यः (*yaḥ*)—the Indra who
+- उपमा (*upamā*)—is himself his own comparison, that Indra
+- अमुच्यत्रुगळिंद (*amucyatrugaḷiṃda*)—is freed from enemies **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who urges on his horses, of many kinds of movement and well fastened to his chariot, to come to the sacrificer who offers the oblation, at that very moment he who desires to come to the sacrifice and brings about the fruit, that Indra, produces water. The Indra who is his own comparison is freed from enemies.
+
+##### English translation
+He who directs towards the worshipper his well-yoked prancing steeds,—he, (Indra), the swift bearer of blessing, (produces) rain,—he, who being comparable only to himself is delivered (from all his enemies).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the recitation of the Śastra mantras of the Ṣoḍaśin, the three Ṛks beginning यो व्यतीन् (*yo vyatīn*) are to be recited as the third triplet in the Anuṣṭubh metre; this is explained in the sūtra of the Āśvalāyana Śrauta-Sūtra यो व्यतीरथाणयदिति तृचा आनुष्टुभाः (*yo vyatīrathāṇayaditi tṛcā ānuṣṭubhāḥ*) (Ā. 6-2). **NOTE**
+
+### Printed p. 39
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अतीदु॑ श॒क्र ओ॑हत॒ इंद्रो॒ विश्वा॒ अति॒ द्विषः॑ ।  
+> भि॒नत्क॒नीन॑ ओद॒नं प॒च्यमा॑नं प॒रो गि॒रा ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । इत् । ऊं इति । शक्रः । ओहते । इंद्रः । विश्वाः । अति । द्विषः ।  
+> भिनत् । कनीनः । ओदनम् । पच्यमानम् । परः । गिरा ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः शक्रः शक्तः सन् अतीत् ओहते । अतिक्रम्य गच्छत्येव संग्रामे निरोधकान् शत्रून् । तदेवाह । अयम् इंद्रः विश्वाः द्विषः द्वेष्टॄन् शत्रून् अति अतिक्रम्य गच्छति । कनीनः कमनीयः परः मेघानां परस्ताद्वर्तमान इंद्रः ओदनम् । मेघनामैतत् । मेघं भिनत् अभिनत् भिनत्ति वृष्ट्यर्थम् । कीदृशम् । गिरा माध्यमिकया वाचा स्तनितलक्षणया पच्यमानम्। वज्रनिर्घोषेण ताड्यमानमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, being mighty, goes beyond all, passing over the enemies who obstruct him in battle. The same is said again: this Indra passes beyond all hateful enemies. Indra, the lovely, who is beyond, that is, abides beyond the clouds, cleaves the Odana (this is a name for the cloud) for the sake of rain. What sort of cloud? One that is being cooked by the voice, that is, the voice of the middle region, which has the nature of thunder; the meaning is: struck by the crash of the thunderbolt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्रः (*śakraḥ*)—Indra, the all-powerful
+- अतीत् (*atīt*)—passing beyond all the enemies
+- ओहते (*ohate*)—he moves about
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—the enemies also
+- अति (*ati*)—surpasses
+- कनीनः (*kanīnaḥ*)—he who has an attractive form
+- परः (*paraḥ*)—and is supreme, Indra
+- गिरा (*girā*)—with his thundering sound
+- पच्यमानं (*pacyamānaṃ*)—struck
+- ओदनं (*odanaṃ*)—the cloud
+- भिनत् (*bhinat*)—has split for the sake of rain
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the all-powerful, moves about passing beyond all the enemies. That same Indra surpasses all the enemies. Indra, who has an attractive form and is supreme, has split, for the sake of rain, the cloud struck by his thundering sound.
+
+##### English translation
+Shakra verily overpowers; Indra, overpowers all his enemies; he, worthy of love, abiding beyond, cleaves the cloud smitten by his thunder-voice.
+
+### Printed p. 40
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्भ॒को न कु॑मार॒कोऽधि॑ तिष्ठ॒न्नवं॒ रथ॑म् ।  
+> स प॑क्षन्महि॒षं मृ॒गं पि॒त्रे मा॒त्रे वि॑भु॒क्रतु॑म् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्भकः । न । कुमारकः । अधि । तिष्ठत् । नवम् । रथम् ।  
+> सः । पक्षत् । महिषम् । मृगम् । पित्रे । मात्रे । विभुऽक्रतुम् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः अर्भको न अल्पशरीरः कुमारकः कुमारक इव नवं स्तुत्यं रथम् अधि तिष्ठत् अधितिष्ठति । सः इंद्रः महिषं महांतं मृगं मृगवदितस्ततो धावंतं सर्वैर्मृग्यं वा विभुक्रतुं बहुकर्माणं मेघं पक्षत् पचति । वृष्टयभिमुखं करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, like a small-bodied child, mounts the new chariot, worthy of praise. That Indra makes ready, that is, makes favourable to rain, the great cloud, which runs here and there like a deer or is sought by all, the cloud of many works.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अर्भकः (*arbhakaḥ*)—of tender age
+- कुमारकः न (*kumārakaḥ na*)—like a young boy
+- नवं (*navaṃ*)—his own praiseworthy
+- रथं (*rathaṃ*)—chariot
+- अधि तिष्ठत् (*adhi tiṣṭhat*)—he has mounted and sits
+- सः (*saḥ*)—that same Indra
+- महिषं (*mahiṣaṃ*)—of a great form
+- मृगं (*mṛgaṃ*)—moving like a deer
+- विभुक्रतुं (*vibhukratuṃ*)—and of many works, the cloud
+- पित्रे मात्रे (*pitre mātre*)—for his father and mother
+- पक्षत् (*pakṣat*)—prepares for rain
+
+##### भावार्थ (Bhāvārtha)
+
+Like a young boy of tender age, Indra has mounted his own praiseworthy chariot and sits there. That same Indra prepares for rain the cloud, of a great form, moving like a deer, and of many works, for the convenience of his father and mother, heaven and earth.
+
+##### English translation
+(Indra), like a young boy, has mounted his splendid chariot; he makes ready for his father and mother the great deer-like many-functioned cloud.
+
+### Printed p. 41
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू सु॑शिप्र दंपते॒ रथं॑ तिष्ठा हिर॒ण्यय॑म् ।  
+> अध॑ द्यु॒क्षं स॑चेवहि स॒हस्र॑पादमरु॒षं स्व॑स्ति॒गाम॑ने॒हस॑म् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । सुऽशिप्र । दम्ऽपते । रथम् । तिष्ठ । हिरण्ययम् ।  
+> अध । द्युक्षम् । सचेवहि । सहस्रऽपादम् । अरुषम् । स्वस्तिऽगाम् । अनेहसम् ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुशिप्र सुहनो हे दंपते गृहस्वामिन् । अत्र गृहो रथः। तस्य स्वामिन् । तु त्वं तावत् रथम् आ तिष्ठ। हविःस्वीकरणांतरं पश्चादहमारोहामीति भावः । कीदृशम् । हिरण्ययं हिरण्मयम्। अध तवारोहणानंतरमहमप्यारुह्योभौ सचेवहि संगच्छेवहि । संगतौ भवेव। पुनः कीदृशम् । द्युक्षं दीप्तं रथं सहस्रपादं बहुपादम् अरुषम् आरोचमानं स्वस्तिगां कुशलगमनम् अनेहसम् अपापम् ॥
+> पूर्वाह्णे प्रवर्ग्ये ‘तं घेमित्था ' इत्येषा । सूत्रितं च -- तं घेमित्था नमस्विन इति प्रागाथीं पूर्वाह्ने' (आश्व. श्रौ. ४. ७) इति ॥
+
+##### Gist of the bhāṣya
+
+O Suśipra, of fine jaws, O Dampati, lord of the house (here the house is the chariot, and he is its lord): mount, for your part, the chariot first; the sense is that after accepting the oblation, I shall mount afterwards. What sort of chariot? A golden one. Then, after you have mounted, I too shall mount, and we two shall meet and be united. Again, what sort of chariot? Bright, thousand-footed, that is, many-footed, shining, of good movement, free from fault.
+
+In the forenoon Pravargya the Ṛk beginning तं घेमित्था (*taṃ ghemitthā*) is used. It is so laid down in the sūtra तं घेमित्था नमस्विन इति प्रागाथीं पूर्वाह्ने (*taṃ ghemitthā namasvina iti prāgāthīṃ pūrvāhne*) (Āśva. Śrau. 4. 7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुशिप्र (*suśipra*)—O Indra, of fine jaws
+- दंपते (*daṃpate*)—and lord of the house called the chariot
+- तु (*tu*)—as for you
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- रथं (*rathaṃ*)—in the chariot
+- आ तिष्ठ (*ā tiṣṭha*)—mount and sit
+- अध (*adha*)—afterwards
+- द्युक्षं (*dyukṣaṃ*)—the bright one
+- सहस्रपादं (*sahasrapādaṃ*)—the one of a thousand (pillar) feet
+- अरुषं (*aruṣaṃ*)—the golden-coloured one
+- स्वस्तिगां (*svastigāṃ*)—the one of excellent movement
+- अनेहसं (*anehasaṃ*)—the one free from fault, the chariot, having mounted it
+- सचेवहि (*sacevahi*)—let us two be united
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of fine jaws and lord of the house called the chariot, mount at once the chariot made of gold. Afterwards, having mounted the bright chariot of a thousand (pillar) feet, golden-coloured, of excellent movement and free from fault, let us two be united.
+
+##### English translation
+Handsome-jawed (Indra), householder, mount your golden chariot: then let us meet mounted together on that bright thousand-footed brilliant auspiciously-moving sinless (car).
+
+### Printed p. 42
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं घे॑मि॒त्था न॑म॒स्विन॒ उप॑ स्व॒राज॑मासते ।  
+> अर्थं॑ चिदस्य॒ सुधि॑तं॒ यदेत॑व आव॒र्तयं॑ति दा॒वने॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । घ । ईम् । इत्था । नमस्विनः । उप । स्वऽराजम् । आसते ।  
+> अर्थम् । चित् । अस्य । सुऽधितम् । यत् । एतवे । आऽवर्तयंति । दावने ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं घ तं खलु ईम् एनमिंद्रम् इत्था इत्थमनेन प्रकारेण नमस्विनः अन्नवंतः स्तुतिवंतो वाध्वर्य्वादयः स्वराजं स्वयं राजमानं वा उप आसते सेवंते । तथा कृत्वा अर्थं चित् अरणीयं धनं सुधितं सुष्ठु स्थापितम् अस्य इंद्रस्य संबंधिनं प्राप्नुवंतीति शेषः । कदेति आह । यत् यदा एतवे अस्येंद्रस्य गमनाय स्वयं प्राप्तुं वा दावने हविर्दानाय आवर्तयंति स्तुतयः तदेत्यर्थः । अथवाश्वा वावर्तयंति तदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Him, this very Indra, in this manner, the devout, that is, the offering-bearing or praising Adhvaryus and the others, attend upon, that is, serve, the self-ruling one, or the self-shining. Having done so, they obtain the desirable wealth, well placed, belonging to this Indra; "they obtain" is to be supplied. When? When, for his going, or for reaching of oneself, the praises turn him to the giving of the oblation; or else, when the horses turn him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वराजं (*svarājaṃ*)—the self-shining one
+- तं (*taṃ*)—and famous
+- ईं घ (*īṃ gha*)—this Indra himself
+- नमस्विनः (*namasvinaḥ*)—the Adhvaryus who bear the oblation
+- इत्था (*itthā*)—in this manner
+- उप आसते (*upa āsate*)—serve
+- यत् (*yat*)—when
+- दावने (*dāvane*)—for the giving of the oblation
+- एतवे (*etave*)—to go
+- आवर्तयंति (*āvartayaṃti*)—the horses of this Indra are ready, then
+- अस्य (*asya*)—belonging to this Indra
+- सुधितं (*sudhitaṃ*)—and well placed
+- अर्थं चित् (*arthaṃ cit*)—the wealth itself they obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The Adhvaryus, who bear the oblation, serve in this manner this same Indra, self-shining and famous. When, for going to give the oblation, the horses of this Indra become ready (or, their praises become ready for the giving of the oblation), then they obtain the wealth belonging to this Indra and well placed.
+
 ---
 
-**Progress note:** Done through printed p. 36. Vol 25 pp. 31-36, Maṇḍala 8 Sūkta 69 Ṛk 7-12
+**Progress note:** Done through printed p. 42. Vol 25 pp. 37-42, Maṇḍala 8 Sūkta 69 Ṛk 12-17
