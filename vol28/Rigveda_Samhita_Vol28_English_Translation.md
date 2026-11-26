@@ -2475,7 +2475,7 @@ Then that embryo, which lay within, came forth in the form of Vāyu. The tears t
 Again he wished that this too should grow and increase as offspring. Then, in the form of Vāyu, he came into contact with the atmosphere, and again an egg appeared. Blessing it with "Be glorious", he touched it. From that, Āditya came into being.
 
 सोऽकामयत। भूय एव स्यात्प्रजायेतेति स आदित्येन दिवं मिथुनग्ं समभवत्तत आंडग्ं समुवर्तत . . , . ॥ (*so 'kāmayata| bhūya eva syātprajāyeteti sa ādityena divaṃ mithunagṃ samabhavattata āṃḍagṃ samuvartata . . , . ‖*)
-(reference printed garbled)**NOTE**
+(…-1-2-4) **NOTE**
 
 He wished to grow still further. Then, in the form of Āditya, he came into contact with the heaven-world, and from that too an egg arose.
 
@@ -6471,12 +6471,13 @@ Conveyed by the swift white horses of Surya, I hasten forth by my power; when th
 
 ##### Gist of the bhāṣya
 
-I am a binder even of the binder, a still greater binder. By my strength I made Turvaśa and Yadu renowned, by giving them the cattle and the like of their enemies; I made them as famous as men in the world are famous. Further, I made another, a worshipper who presses Soma for us, strong by my power (सहः (*sahaḥ*) meaning strong). करं (*karaṃ*) is "I made". Nine, and ninety, that is ninety-nine, growing powerful (foes), I destroyed; वक्षयं (*vakṣayaṃ*) means "I destroyed".
+I am a binder even of the binder, a still greater binder. By my strength I made Turvaśa and Yadu renowned, by giving them the cattle and the like of their enemies; I acted so that the two became renowned in the world. Further, I made another, a worshipper who presses Soma for us, strong by my power (सहः (*sahaḥ*) meaning strong). करं (*karaṃ*) is "I made". Nine, and ninety, that is ninety-nine, growing powerful (foes), I destroyed; वक्षयं (*vakṣayaṃ*) means "I destroyed".
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - अहं (*ahaṃ*)—I
 - सप्तहा (*saptahā*)—destroyer of seven enemy cities, or slayer of seven Asuras such as Namuci
+- अहं (*ahaṃ*)—I
 - नहुषः (*nahuṣaḥ*)—to binding
 - नहुष्टरः (*nahuṣṭaraḥ*)—the binder
 - शवसा (*śavasā*)—by my strength and power
@@ -9027,7 +9028,7 @@ Having said so, the Nirukta begins: अथातोऽनुक्रमिष�
 
 In this Ṛk the Aśvin deities are praised: "Come to this place of sacrifice with the thirty-three gods and drink Soma."
 
-श्रुष्टीवानो (*śruṣṭīvāno*) … *ā vaha* **NOTE**
+श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः । तान्रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ॥ (*śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ | tānrohidaśva girvaṇastrayastriṃśatamā vaha ‖*)
 (Ṛ. Saṃ. 1-45-2)
 
 In this Ṛk Agni is entreated to bring the thirty-three gods.
@@ -9712,7 +9713,7 @@ Twashtri knows the arts of fabricating (drinking vessels), the most skilful of a
 
 ##### Gist of the bhāṣya
 
-"O kavayaḥ, wise ones, my (Tvaṣṭṛ's) pupils the Ṛbhus, being good (satah, that is, excellent), now sharpen (the tools) exceedingly".
+"O kavayaḥ, wise ones, my (Tvaṣṭṛ's) pupils the Ṛbhus, being good (सतः (*sataḥ*), that is, excellent), now sharpen (the tools) exceedingly".
 
 ### Printed p. 320
 
@@ -13184,7 +13185,7 @@ These are: the 61st sūkta of the 10th Maṇḍala of the Ṛgveda Saṃhitā, b
 These sūktas are called the Nābhānediṣṭa sūktas, because the seer (draṣṭṛ) of these sūktas is the ṛṣi named Nābhānediṣṭa. It is customary to name a sūkta after its ṛṣi; therefore these sūktas are called Nābhānediṣṭa sūktas. There is an account concerning this ṛṣi Nābhānediṣṭa. It is set out here:
 
 ### Printed p. 399
-नाभानेदिष्टं वै मानवं ब्रह्मचर्यं वसंतं भ्रातरो निरभजन्सोब्रवी- देत्य किं मह्यमभाक्तेत्येतमेव निष्ठावमववदितारमित्यब्रुवंस्तस्माद्धाष्येतर्हि पितरं पुत्रा निष्ठावोऽववदितेत्येवाचक्षते ॥ म (*nābhānediṣṭaṃ vai mānavaṃ brahmacaryaṃ vasaṃtaṃ bhrātaro nirabhajansobravī- detya kiṃ mahyamabhāktetyetameva niṣṭhāvamavavaditāramityabruvaṃstasmāddhāṣyetarhi pitaraṃ putrā niṣṭhāvo 'vavaditetyevācakṣate ‖ ma*)
+नाभानेदिष्टं वै मानवं ब्रह्मचर्यं वसंतं भ्रातरो निरभजन्सोब्रवी- देत्य किं मह्यमभाक्तेत्येतमेव निष्ठावमववदितारमित्यब्रुवंस्तस्माद्धाष्येतर्हि पितरं पुत्रा निष्ठावोऽववदितेत्येवाचक्षते ॥ (*nābhānediṣṭaṃ vai mānavaṃ brahmacaryaṃ vasaṃtaṃ bhrātaro nirabhajansobravī- detya kiṃ mahyamabhāktetyetameva niṣṭhāvamavavaditāramityabruvaṃstasmāddhāṣyetarhi pitaraṃ putrā niṣṭhāvo 'vavaditetyevācakṣate ‖*)
 
 Nābhānediṣṭa, the son of Manu, as soon as he had undergone the upanayana, lived in the teacher's house in brahmacarya and studied the Veda. While he was away from his father's house, his elder brothers reflected selfishly: "Our younger brother Nābhānediṣṭa is still a boy; he is studying in the teacher's house. He has no need of wealth. So let us share our father's wealth and property among ourselves." Leaving nothing for Nābhānediṣṭa, they divided all the property that there was among themselves. After some time Nābhānediṣṭa finished his studies, came back from the teacher's house and said to his elder brothers: "Brothers, you have shared out the whole property among yourselves. You have left nothing for me. Where is my share of the property?" At this they pointed with the hand to their father Manu, who was standing there, and said: "Nābhānediṣṭa, ask your father; we know nothing of this matter. Your father is one who has fixed the Dharmaśāstra itself and knows well the secret of dharma. Ask him." (Ai. Brā. 22-14)
 
