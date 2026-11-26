@@ -3380,6 +3380,129 @@ A mighty ministrant priest, one cognizant of heaven, though abiding with men, ha
 
 नृषद्वा (*nṛṣadvā*)—नृषु सीदन् (*nṛṣu sīdan*). One who sits among men, or in the sacrifice that men are performing; that is, the Agni established on the sacrificial altar in the middle of the sacrifice which men are performing.
 
+### Printed p. 103
+
+##### विशेषविषयगळु (Special Topics)
+
+उपस्थे—उत्संगे (*upasthe—utsaṃge*). "On the lap", that is, in the middle region of the atmosphere.
+नभोवित्—अंतरिक्षस्य नेत्ता (*nabhovit—aṃtarikṣasya nettā*). Because he was born there, he is its knower; the meaning is: one who knows its nature, since he was born in the atmosphere itself.
+अपां (*apāṃ*)—this is a name of the atmosphere. The words आपः समुद्रः (*āpaḥ samudraḥ*) and the like are read among the names of the atmosphere (Ni.). The word अपः (*apaḥ*) also means "work" (Ni.). In this context कर्मणामुपस्थ उपस्थाने समीपे वेद्यां (*karmaṇāmupastha upasthāne samīpe vedyāṃ*): it can also be said to mean "on the sacrificial altar where the sacrificial work is performed". For the words अपामुपस्थे (*apāmupasthe*) the commentator has given another sense as well: ु अपां मध्यॆ योऽग्नि हर्विवोडुमसहमानो निगूढः स देवैः पुनः प्रार्थितस्सन् वेद्यां प्रसीदति । (*u apāṃ madhyè yo 'gni harvivoḍumasahamāno nigūḍhaḥ sa devaiḥ punaḥ prārthitassan vedyāṃ prasīdati |*). Formerly Agni, for some reason, became weary of the task of carrying the oblation to the gods and, telling no one, ran away and hid in the middle of the water. The gods, learning of this with great effort, went there, entreated Agni in many ways, gave him boons and the like, appeased him, and made him take up the carrying of the oblation again. The commentator indicates that the Agni who rose again from the water has now come and sat on the sacrificial altar. Since this matter is explained in the 51st sūkta of this same maṇḍala, we shall describe it at length when we explain that sūkta.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं वि॒धंतो॑ अ॒पां स॒धस्थे॑ प॒शुं न न॒ष्टं प॒द्यरनु॑ ग्मन् ।  
+> गुहा॒ चतं॑तमु॒शिजो॒ नमो॑भिरि॒च्छंतो॒ धीरा॒ भृग॑वोऽविं  
+> दन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । विधंतः । अपां । सधस्थे । पशुं । न । नष्टं । पद्यैः । अनु । ग्मन् ।  
+> गुहा । चतंतं । उशिजः । नमभिः । इच्छंतः । धीराः । भृगवः । अविंदन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इममग्निमपामुदकानां सधस्थे सहस्थाने मध्यॆ निगूढं विधंतः परिचरंतः
+> उपचारं वदंतो ऋषयश्च पद्यैः पलायनमार्गव्यंजकैर्नष्टं चोरादिभिरपहृतं
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes *imamagniṃ* (this Agni) as hidden in the midst of the waters, सधस्थे (*sadhasthe*) being "the common abode". The seers, विधंतः (*vidhaṃtaḥ*), serve him, that is, speak words of homage; and as one follows a lost animal, stolen by thieves and the like, by footprints that mark the way of its flight, they followed him.
+
+### Printed p. 104
+
+> पशुमिवानुग्मन् । अनुजग्मुः ॥ गमर्लुजि मंत्रे घसेति ज्लेर्लुक् ॥ तेषु मध्यॆ
+> गुहा गुहायां चतंतं । चतिर्गतिकर्मा । अप्पु विलीनमित्यर्थः । उशिजः कामयमाना नमोभिर्नमस्कारैः स्तोत्रैर्वेच्छंत आत्मन इच्छंतो धीरा धीमंतो
+> भृगवोऽविंदन् । लब्धवंतः । अग्नेर्हविर्वोढुमसहमानस्य पलाय्याप्सु प्रवेशो
+> देवानामन्वेषणं जाग्रेस्रयो ज्यायांस इत्यत्र स्पष्टमाम्नातं । तै. स. २-६-६ ।
+> अन्वेषणं कुर्वतां मध्यॆ भृगूणामग्निलाभ इमं विधंतो अपां सधस्थे द्वितादधुर्भृगव इत्यत्रोक्तं ॥ ऋ-२-४-२ ॥
+
+##### Gist of the bhāṣya
+
+अनुग्मन् (*anugman*) is अनुजग्मुः (*anujagmuḥ*). Among those waters, गुहा (*guhā*) in a cave, चतंतं (*cataṃtaṃ*): चति (*cati*) is a root meaning motion; the sense is "dissolved, hidden in the waters". The उशिजः (*uśijaḥ*), desiring (him), नमोभिः (*namobhiḥ*) with homages, with hymns of praise, wishing him for themselves, the wise Bhṛgus अविंदन् (*aviṃdan*), found him. That Agni, unable to carry the oblation, fled and entered the waters, and that the gods searched for him, is plainly handed down in the passage जाग्रेस्रयो ज्यायांस (*jāgresrayo jyāyāṃsa*) (Tai. Saṃ. 2-6-6). That among those searching the Bhṛgus obtained Agni is stated in इमं विधंतो अपां सधस्थे द्वितादधुर्भृगव (*imaṃ vidhaṃto apāṃ sadhasthe dvitādadhurbhṛgava*) (Ṛ. 2-4-2).
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमं (*imaṃ*)—this Agni
+- अपां (*apāṃ*)—of the waters
+- सधस्थे (*sadhasthe*)—in the place of confluence
+- विधंतः (*vidhaṃtaḥ*)—the seers who were serving or appeasing (him)
+- नष्टं (*naṣṭaṃ*)—stolen by thieves and the like
+- पशुं (*paśuṃ*)—cattle
+- पदैः (*padaiḥ*)—as one goes following and searches by footprints
+- अनुग्यन् (*anugyan*)—followed and searched
+- गुहा (*guhā*)—in the middle of that water
+- चतंतं (*cataṃtaṃ*)—Agni, who had gone and hidden
+- उशिजः (*uśijaḥ*)—desiring to bring (him) back again
+- नमोभिः (*namobhiḥ*)—with recitations of praise accompanied by homage and the like
+- इच्छंतः (*icchaṃtaḥ*)—wishing
+- धीराः (*dhīrāḥ*)—the wise
+- भृगवः (*bhṛgavaḥ*)—the seers beginning with Bhṛgu
+- अविंदन् (*aviṃdan*)—obtained Agni
+
+##### भावार्थ (Bhāvārtha)
+
+To seek Agni, who was hidden in the midst of the waters, the seers, devoted to the service of Agni, searched as one searches, following by their footprints, for cattle stolen by thieves. Wishing (praying for) Agni, who was hidden secretly in the midst of the water so that no one knew, with homages and hymns, the wise Bhṛgu and the other seers finally came and reached the place where Agni was.
+
+##### English translation
+The Rishis worshipping him, (when hiding) in the midst of the waters, followed him by his footprints (as men follow) an animal that is lost : the wise Bhrigus desiring his presence, and anxious (to find him), dis- covered him by their prayers lurking in the cave.
+
+##### विशेषविषयगळु (Special Topics)
+
+(What was said in the previous Ṛk is here said again in another way.) भृगवः गुहा चतंतं इमं (अग्निं) अविंदन् (*bhṛgavaḥ guhā cataṃtaṃ imaṃ (agniṃ) aviṃdan*): the Bhṛgus first discovered
+
+### Printed p. 105
+Agni, who was hidden in the cave in the form of water, and obtained his favour; this is the purport of the present Ṛk. When trouble came upon Agni's brothers, Agni took fright and hid in a cave, and the gods tried to find him: these matters were explained briefly earlier, quoting the Taittirīya Saṃhitā passage. Since the word अप् (*ap*) means not only water but also the atmosphere, the purport in this context can also be stated with reference to the lightning-fire (vaidyuta Agni) dwelling in the atmosphere. Then one must examine the manner in which the lightning-fire is hidden in a cave, how it became visible only to the Bhṛgus and to none of the other gods, and hence the distinction of the Bhṛgus over the other gods. This topic is explained in two parts: first, the distinction of the Bhṛgus; second, the purport of the Bhṛgus' obtaining the Agni who was within the cave.
+
+When it says भृगवः अविंदन् (*bhṛgavaḥ aviṃdan*), the meaning is the seers born in the line of Bhṛgu. Some of the seers born in the lineage of Bhṛgu, who arose from a divine portion, are seers of certain sūktas of the Ṛk Saṃhitā. Bhṛgu too is the seer of two sūktas. This famous Bhṛgu is one of the seven most excellent seers belonging to the group of human beings (Atri, Bhṛgu, Kutsa and so on); so it is customary to say. But there are also Vedic passages that praise Atri and the other seers as not human, but as divine principles reflecting the spiritual principle; or there is also the view that, since all of them arose from a divine portion, they belong to the group of the gods.
+
+भृगुवैर्न वारुणिः । वरुणं पितरमुपससार ॥ (*bhṛguvairna vāruṇiḥ | varuṇaṃ pitaramupasasāra ‖*) (Tai. U. 3-1).
+In such places Bhṛgu is clearly stated to be the son of Varuṇa. Telling how Bhṛgu was born from Varuṇa, the Bṛhaddevatā relates Bhṛgu's origin in the form of a story, as follows.
+
+त्रिसांवत्सरिकं सत्त्रं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्विश्वेदैवै सहेति च ॥ (*trisāṃvatsarikaṃ sattraṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairviśvedaivai saheti ca ‖*) (Bṛ. De. 5-97)
+Prajāpati desired offspring. Then, together with the Sādhyas and the Viśvedevas, he performed a sattra lasting three years.
+
+तत्र वाग्दीक्षणीयायां आजगाम शरीरिणे । तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥ (*tatra vāgdīkṣaṇīyāyāṃ ājagāma śarīriṇe | tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖*) (Bṛ. De. 5-98)
+14
+
+### Printed p. 106
+Then Vāc, the goddess of speech, came to the place of that sattra in the form of a beautiful embodied woman. On seeing her, both Prajāpati and Varuṇa were at once overcome and bewildered by her divine beauty.
+
+शुक्रं चस्कंद तद्वायुरग्नौ प्रास्यद्यदृच्छया । करोऽर्चिभ्यो भृगुर्जज्ञे अंगारेष्टंगिराऋषिः ॥ (*śukraṃ caskaṃda tadvāyuragnau prāsyadyadṛcchayā | karo 'rcibhyo bhṛgurjajñe aṃgāreṣṭaṃgirāṛṣiḥ ‖*) (Bṛ. De. 5.99)
+Then the seed of both of them was discharged. Vāyu, according to his power, caused that seed to spread in the fire. Then from that flame Bhṛgu was born; from the embers Aṅgiras was born: this is the account of Bhṛgu's birth. From this narrative, of the nature of an itihāsa, it is understood that Bhṛgu has the divine portion of both Prajāpati and Varuṇa. The Aitareya Brāhmaṇa explains this same matter and praises Bhṛgu's divine portion. But in many respects the explanation given above differs from that of the Aitareya Brāhmaṇa.
+
+प्रजापतिर्वै स्वां दुहितरमभ्यध्यायत् दिवमित्यन्य आहुरुषसमित्यन्ये . . . . . . . . . इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतोऽदुषदिति यदब्रुवन् मेदं प्रजापते रेतोऽदुषदिति तन्मादुषमभवत्तन्मादुषस्य मादुषत्वं माडुषं ह वॆ नामैतद्यन्मानुषं तन्नानुषं सन्मानुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः ॥ (*prajāpatirvai svāṃ duhitaramabhyadhyāyat divamityanya āhuruṣasamityanye . . . . . . . . . idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto 'duṣaditi yadabruvan medaṃ prajāpate reto 'duṣaditi tanmāduṣamabhavattanmāduṣasya māduṣatvaṃ māḍuṣaṃ ha vè nāmaitadyanmānuṣaṃ tannānuṣaṃ sanmānuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ ‖*) (Ai. Brā. 2-22)
+Prajāpati looked on his own daughter and was infatuated. Some say she was the presiding deity of the heavenly world, others that she was Uṣas. She had taken the form of a female deer; he took the form of a male deer and pursued her. The gods, seeing this conduct of Prajāpati and not enduring it, looked for a means to punish him. Among themselves they found no one who could punish Prajāpati. Then they gathered together all the terrible forms of the world and produced one being. When that being pierced Prajāpati, he leapt upward. Because he leapt, he was called "मृग (*mṛga*)". The female deer became named "रोहिणि (*rohiṇi*)". As soon as the three-jointed arrow (iṣu) pierced him, Prajāpati's seed was discharged. It became a lake. Then the gods thought, "Prajāpati's seed must not be spoiled (māduṣat)". Hence it became "मादुष (*māduṣa*)". "मानुष (*mānuṣa*)" means connected with man. Because the gods love the indirect, they called "मानुष (*mānuṣa*)" "मादुष (*māduṣa*)".
+
+### Printed p. 107
+तदग्निना पर्यादधुस्तन्मरुतो धून्वंस्तदग्निर्न प्राच्यावयत्तदग्निना वैश्वानरेण पर्यादधुस्तन्मरुतो धून्वंस्तदग्निर्वैश्वानरः प्राच्यावयत्तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवद्यद्दितीयमासीत्तद्भृगुरभवत्तं वरुणो नृगृह्णीत तस्मात्स भृगुर्वारुणिरथ यत्कृतीयमदीदेदिव त आदित्या अभवन्येऽंगारा आसंस्तेऽंगिरसो अभवन् ॥ (*tadagninā paryādadhustanmaruto dhūnvaṃstadagnirna prācyāvayattadagninā vaiśvānareṇa paryādadhustanmaruto dhūnvaṃstadagnirvaiśvānaraḥ prācyāvayattasya yadretasaḥ prathamamudadīpyata tadasāvādityo 'bhavadyadditīyamāsīttadbhṛgurabhavattaṃ varuṇo nṛgṛhṇīta tasmātsa bhṛgurvāruṇiratha yatkṛtīyamadīdediva ta ādityā abhavanye 'ṃgārā āsaṃste 'ṃgiraso abhavan ‖*) (Ai. Brā. 2-24)
+With the good purpose that Prajāpati's seed should not be spoiled, they made Agni surround it. Then the Maruts blew on that Agni and made it blaze. Agni could not make it move. Then they made it be surrounded by Agni Vaiśvānara, and blew on that Agni Vaiśvānara and made it blaze. Then Agni Vaiśvānara was able to make it move. One part of Prajāpati's seed, made to blaze, was transformed into the form of Āditya; another part appeared in the form of Bhṛgu. Varuṇa took him over. Therefore he became famed as भृगुर्वारुणिः (*bhṛgurvāruṇiḥ*).
+
+The same Bhṛgu who in the Taittirīya and Śatapatha Brāhmaṇas is said to have come forth from Prajāpati's seed and to have been taken over by Varuṇa, is stated in the Taittirīya Brāhmaṇa to be a portion of Īśvara in the form of Indra.
+
+इंद्रस्य सुषुवाणस्य त्रेधेंद्रियं वीर्यं परापतत् । भृगुस्तृतीयमभवत् । श्रायंतीयं तृतीयं । सरस्वती तृतीयं । भार्गवो होता भवति । श्रायंतीयं ब्रह्मसामं भवति । वारवंतीयमग्निष्टोमसामं ॥ ( (*iṃdrasya suṣuvāṇasya tredheṃdriyaṃ vīryaṃ parāpatat | bhṛgustṛtīyamabhavat | śrāyaṃtīyaṃ tṛtīyaṃ | sarasvatī tṛtīyaṃ | bhārgavo hotā bhavati | śrāyaṃtīyaṃ brahmasāmaṃ bhavati | vāravaṃtīyamagniṣṭomasāmaṃ ‖ (*) (Tai. Brā. 1-8-2-5)
+The virility of Indra, who desired the sacrifice, was discharged divided into three parts. From one part Bhṛgu, from another the Śrāyantīya Sāman, and from the remaining third Sarasvatī came into being. Among these the Bhārgava is the Hotṛ.
+
+Although there are such differences of opinion regarding Bhṛgu's origin, there is nowhere any difference of view that he arose from a divine portion. Even so, in some places it is evident that Bhṛgu reveals his own ignorance. For example—
+
+भृगुर्ह वै वारुणिः । वरुणं पितरं विद्ययातिमेने तद्ध वरुणो विदां चकाराति वै मा विद्यया मन्यत इति । स होवाच । प्राज् पुत्रक व्रजतात्तत्र यत्पश्येस्तद्दृष्ट्वा दक्षिणा व्रजतात्तत्र यत्पश्येत्तद्दृष्ट्वा ... मे आचक्षीया इति ॥ (*bhṛgurha vai vāruṇiḥ | varuṇaṃ pitaraṃ vidyayātimene taddha varuṇo vidāṃ cakārāti vai mā vidyayā manyata iti | sa hovāca | prāj putraka vrajatāttatra yatpaśyestaddṛṣṭvā dakṣiṇā vrajatāttatra yatpaśyettaddṛṣṭvā ... me ācakṣīyā iti ‖*) (Śa. Brā. 11-6-1-1)
+
+### Printed p. 108
+Bhṛgu, son of Varuṇa, thought himself more learned than his father Varuṇa. Varuṇa learned of this conceit of wisdom in Bhṛgu and understood: "He thinks he is greater than I in knowledge."
+
+Then he called his son Bhṛgu and ordered: "Child, go about in all directions. First go to the eastern direction and, whatever you see there, learn it and tell me. After that go to the south, then to the west and the north, and finally to the north-east, see with your own eyes the doings in each place and report them to me." Then Bhṛgu travelled in all directions and saw that the creatures in all directions were full of hatred and envy, injuring one another, slaying one another. Astonished at it, he came back and told his father all this. Then the father said that all these were marks of saṃsāra, and that if one gains knowledge through rites such as the agnihotra one can escape this terrible saṃsāra. Thus Bhṛgu received Varuṇa's instruction. The teaching of truth set out in the Taittirīya Upaniṣad differs in many respects from the teaching here. In still other places Bhṛgu is praised as a seer who knew the truth of the sacrifice.
+
+आपो ना अस्पर्धंत वयं पूर्वं यज्ञं वक्ष्यामो वयमिति याश्चेमाः पूरैद्युर्वसतीवरो गृह्यंते याश्च प्रातरेकधनास्ता भृगुरपश्यदापो वै स्पर्धंत इति ता एतयर्चासमज्ञपयत्समन्यायंती . . . . (*āpo nā aspardhaṃta vayaṃ pūrvaṃ yajñaṃ vakṣyāmo vayamiti yāścemāḥ pūraidyurvasatīvaro gṛhyaṃte yāśca prātarekadhanāstā bhṛgurapaśyadāpo vai spardhaṃta iti tā etayarcāsamajñapayatsamanyāyaṃtī . . . .*) (Ai. Brā. 2-20)
+**NOTE**
+Once a rivalry arose, in the task of bearing the sacrifice, between the waters named Vasatīvarī, collected the previous day, and the waters named Ekadhanā, collected that morning. When discord arose among them, the smooth conduct of the sacrificial work was hindered. Then Bhṛgu, perceiving the discord of these waters, recited the mantra आपो न देवीरुप यंति (*āpo na devīrupa yaṃti*) (Ṛ. Saṃ. 1-82-2) and brought harmony among them. So it is stated.
+
+In sum, Bhṛgu's greatness, as one arisen from a divine portion and as a divine knower, is praised in many Śruti passages. In the Ṛk Saṃhitā he is famed as the author of the sūktas 99-5 and 10-19.
+**NOTE**
+
+Moreover, in the excellent conduct of the sacrifice Bhṛgu is praised as the model man for all human beings. For example—
+
 ---
 
-**Progress note:** Done through printed p. 102. pp. 97-102 (batch API)
+**Progress note:** Done through printed p. 108. pp. 103-108 (batch API)
