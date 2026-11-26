@@ -13944,6 +13944,144 @@ For the man who recites these sūktas, which are addressed to the deity Pavamān
 ##### English translation
 For him who reads the hymns to Pavamana, the essence (of the Veda) collected by the Rishis, Saraswati milks milk, ghee, and exilarating Soma.
 
+### Printed p. 370
+
+**Supplementary mantras to be recited at the end of Sūkta 67**
+
+The total of 610 ṛks of the sixty-seven sūktas of this ninth maṇḍala are well known as the Pāvamānī ṛks. All these ṛks are in the Gāyatrī metre. We have explained many times that the ṛks in the Gāyatrī metre have a special excellence. Therefore, the fruits that come to those who study the 610 ṛks in the Gāyatrī metre addressed to the deity Pavamāna Soma, and the removal of the many kinds of sins they may have committed earlier, are bestowed by these Pāvamānī ṛks, that is, by the Veda-Puruṣa, the lord of all, as is stated in these supplementary mantras. The supplementary mantras and their main purport are explained further.
+
+पावमानीः स्वस्त्ययनीः सुदुघा हि धृतश्चुतः । ऋषिभिः संभृतो रसो ब्राह्मणेष्वमृतं हितं (*pāvamānīḥ svastyayanīḥ sudughā hi dhṛtaścutaḥ | ṛṣibhiḥ saṃbhṛto raso brāhmaṇeṣvamṛtaṃ hitaṃ*)
+
+These (6-0) ṛks in the Gāyatrī metre, which praise the deity called Pavamāna Soma, bring welfare to those who study them. For their satisfaction they milk ghee (the means of wealth), or water in the form of rain; that is, by granting rain they become the cause of the means of wealth. Many seers, drawing out the essence of many mantras, have gathered into these Pāvamānī mantras that sap or essence, which is nectar-like and beneficial. **NOTE**
+
+पावमानीर्दिशंतु न इमं लोकमधो अमुं । कामान्त्समर्धयंतु नो देवीर्देवैः समाहिताः ॥ (*pāvamānīrdiśaṃtu na imaṃ lokamadho amuṃ | kāmāntsamardhayaṃtu no devīrdevaiḥ samāhitāḥ ‖*)
+
+May these Pāvamānī ṛks, which are of the nature of deities, joined with all the other gods, procure for us the happiness that can be had in this world and the happiness that can be had in the other world, and may they fulfil all our desires.
+
+येन देवाः पवित्रेणात्मानं पुनते सदा । तेन सहस्रधारेण पावमान्यः पुनंतु मां (*yena devāḥ pavitreṇātmānaṃ punate sadā | tena sahasradhāreṇa pāvamānyaḥ punaṃtu māṃ*)
+
+With the streams of thousands of flowing Soma juice by which all the gods always purify themselves (that is, by drinking Soma), may these Pāvamānī ṛks purify me too.
+
+प्राजापत्यं पवित्रं शतोद्यामं हिरण्मयं । तेन ब्रह्मविदो वयं पूतं ब्रह्म पुनीमहे ॥ (*prājāpatyaṃ pavitraṃ śatodyāmaṃ hiraṇmayaṃ | tena brahmavido vayaṃ pūtaṃ brahma punīmahe ‖*)
+
+### Printed p. 371
+
+Whatever Soma juice there is that belongs to Prajāpati, that is, was created by Prajāpati, that flows streaming in hundreds of streams, that is endowed with a splendour shining like gold, and that is itself pure, by that (by reciting it) we (the seers), knowers of Brahman or knowers of the mantra, purify the mantra or the food in the form of oblation.
+
+इंद्रः पुनीती सह मा पुनातु सोमः स्वस्तावरुणः समिच्या । यमो राजा प्रमृणाभिः पुनातु मा जातवेदा मूर्जयंत्या पुनातु ॥ (*iṃdraḥ punītī saha mā punātu somaḥ svastāvaruṇaḥ samicyā | yamo rājā pramṛṇābhiḥ punātu mā jātavedā mūrjayaṃtyā punātu ‖*)
+
+May Indra, who has become pure (or delighted) by drinking Soma, purify me as well. May the god Soma purify me by granting welfare, Varuṇa by excellent guidance, Yama, the lord, by choice things, and Agni by granting food that is full of sap.
+
+ऋषयस्तु तपस्तेपुः सर्वे स्वर्गजिगीषवः । तपंतस्तपसोग्रेण पावमानीर्ऋचोऽब्रुवन् ॥ (*ṛṣayastu tapastepuḥ sarve svargajigīṣavaḥ | tapaṃtastapasogreṇa pāvamānīrṛco 'bruvan ‖*) (Pariśiṣṭa 18-6)
+
+In former times, desiring to obtain heaven, all the seers performed fierce austerity, studied these Pāvamānī ṛks, and made in this manner a praise of them as the remover of sin.
+
+यन्मे गर्भे वसतः पापमुग्रं यज्जायमानस्य च किंचिदन्यत् । जातस्य च यच्चापि च वर्धतो मे तत्पावमानीभिरहं पुनामि ॥ (*yanme garbhe vasataḥ pāpamugraṃ yajjāyamānasya ca kiṃcidanyat | jātasya ca yaccāpi ca vardhato me tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-7) **NOTE**
+
+The Veda-Puruṣa, the lord of all, speaks thus: whatever man, while dwelling in the womb, and later while being born, and after birth, and while growing, has committed extremely fierce sin, if he studies the Pāvamānī mantras, I destroy all such sins and make him wholly pure.
+
+मातापित्रोर्यन्न कृतं वचो मे यत्स्थावरं जंगममा बभूव । विश्वस्य तत्पृहृषितं वचो मे तत्पावमानीभिरहं पुनामि ॥ (*mātāpitroryanna kṛtaṃ vaco me yatsthāvaraṃ jaṃgamamā babhūva | viśvasya tatpṛhṛṣitaṃ vaco me tatpāvamānībhirahaṃ punāmi ‖*) (18-8)
+
+The sin of transgressing the word of father and mother, and whatever sin arises from speech uttered wishing harm to any being in this world, movable or immovable, such sin too I remove, and I make him wholly pure.
+
+### Printed p. 372
+
+गोघ्नात् तस्करत्वात् स्त्रीवधाद्यच्च किल्पिषं । पापकं च चरणेभ्यस्तत्पावमानीभिरहं पुनामि ॥ (*goghnāt taskaratvāt strīvadhādyacca kilpiṣaṃ | pāpakaṃ ca caraṇebhyastatpāvamānībhirahaṃ punāmi ‖*) (Hari. 18-9) **NOTE**
+
+Killing of a cow, theft, killing of a woman, the act of harming creatures by trampling them with the feet: the sin that may arise from these I remove and make him pure.
+
+ब्रह्मवधात्सुरापानात्स्वर्णस्तेयाद्वृषलिगमनमैथुनसंगमात् । गुरोर्दाराधिगमनाच्च तत्पावमानीभिरहं पुनामि ॥ (*brahmavadhātsurāpānātsvarṇasteyādvṛṣaligamanamaithunasaṃgamāt | gurordārādhigamanācca tatpāvamānībhirahaṃ punāmi ‖*) (Sari. 18-10) **NOTE**
+
+Killing of a Brāhmaṇa, drinking liquor, stealing gold, the sin of having intercourse with a woman called Vṛṣalī, who is unmarried although her younger sister is married, the sin of sexual intercourse with the wife of one's teacher: all these I remove and make him pure.
+
+बालघ्नान्मातृपितृवधाध्भूमितस्करात्सर्ववर्णगमनमैथुनसंगमात् । पापेभ्यश्च प्रतिग्रहात्सद्यः प्रहरति सर्वदुष्कृतं तत्पामानीभिरहं पुनामि ॥ (*bālaghnānmātṛpitṛvadhādhbhūmitaskarātsarvavarṇagamanamaithunasaṃgamāt | pāpebhyaśca pratigrahātsadyaḥ praharati sarvaduṣkṛtaṃ tatpāmānībhirahaṃ punāmi ‖*) (Pari. 18-11) **NOTE**
+
+Killing children, killing father and mother, fraudulently seizing land such as fields, consorting with women of all the low castes, accepting improper gifts, doing other evil deeds: whatever sins arise from these, I remove all those sins and make him wholly pure.
+
+क्रयविक्रयाद्योनिदोषाद्भक्षाद्योज्यात्पतिग्रहात् । असंभोजनाच्चापि नृशंसं तत्पावमानीभिरहं पुनामि ॥ (*krayavikrayādyonidoṣādbhakṣādyojyātpatigrahāt | asaṃbhojanāccāpi nṛśaṃsaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-12)
+
+Buying and selling by unjust means, that is, by fraud; consorting with whatever women come one's way; eating things that must not be eaten; accepting things that are not fit to be accepted; eating without the guest who has come to the house: I remove the sins arising from these.
+
+दुर्यष्टं दुरधीतं पापं यच्चा ज्ञानतो कृतं । अयाजिताश्च संयाज्यास्तत्पावमानीभिरहं पुनामि ॥ (*duryaṣṭaṃ duradhītaṃ pāpaṃ yaccā jñānato kṛtaṃ | ayājitāśca saṃyājyāstatpāvamānībhirahaṃ punāmi ‖*)
+
+Performing a sacrifice otherwise than in the manner prescribed, studying the Veda without discipline, the sin done through ignorance, making those who are not entitled to sacrifice perform a sacrifice, not making those entitled to it perform it: the sins arising from such wrong deeds I remove and make him pure.
+
+### Printed p. 373
+
+अमंत्रमन्नं यत्किंचिद्भूयते च हुताशने । संवत्सरकृतं पापं तत्पावमानीभिरहं पुनामि ॥ (*amaṃtramannaṃ yatkiṃcidbhūyate ca hutāśane | saṃvatsarakṛtaṃ pāpaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-14)
+
+The sin arising from offering oblation in the fire without reciting the mantra prescribed, or while reciting the mantra wrongly, and whatever sins have been committed during the year, all these I remove and make him wholly pure.
+
+ऋतस्य योनयोऽमृतस्य धाम विश्वा देवेभ्यः पुण्यगंधाः । ता न आपः प्र वहंतु पापं शुद्धा गच्छामि सुकृतामु लोकं तत्पावमानीभिरहं पुनामि ॥ (*ṛtasya yonayo 'mṛtasya dhāma viśvā devebhyaḥ puṇyagaṃdhāḥ | tā na āpaḥ pra vahaṃtu pāpaṃ śuddhā gacchāmi sukṛtāmu lokaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-15)
+
+May the heavenly waters, which are the chief support of truth or of the sacrifice, which dwell in eternal heaven, and which cause delight to the gods, wash away the sins mentioned above. Having made that man pure, I shall cause him to obtain the excellent world.
+
+पावमानीः स्वस्त्ययनीयार्भिर्गच्छति नांदनं । पुण्यांश्च भक्षान्भक्षयत्यमृतत्वं च गच्छति ॥ (*pāvamānīḥ svastyayanīyārbhirgacchati nāṃdanaṃ | puṇyāṃśca bhakṣānbhakṣayatyamṛtatvaṃ ca gacchati ‖*)
+
+These Pāvamānī ṛks bring auspiciousness to those who recite them. By the study or recitation of these ṛks a man obtains joy and merit. Eating excellent food and delicacies he is satisfied, and at the end of his life he obtains the supreme state free from death and is happy.
+
+पावमानीः पितृन्देवान् ध्यायेद्यश्च सरस्वतीं । पित्यंस्तस्योपवर्तेत क्षीरं सर्पिर्मधूदकं ॥ (*pāvamānīḥ pitṛndevān dhyāyedyaśca sarasvatīṃ | pityaṃstasyopavarteta kṣīraṃ sarpirmadhūdakaṃ ‖*)
+
+The man who, reciting the Pāvamānī ṛks, meditates on the Pitṛ deities and on the goddess Sarasvatī: the Pitṛ deities, staying near such a man, milk for him in abundance milk, ghee, honey and water; that is, they cause an abundance of them to arise.
+
+पावमानं परं ब्रह्म शुक्रं ज्योतिः सनातनं । ऋषींस्तस्योपतिष्ठेत क्षीरं सर्पिर्मधूदकं ॥ (*pāvamānaṃ paraṃ brahma śukraṃ jyotiḥ sanātanaṃ | ṛṣīṃstasyopatiṣṭheta kṣīraṃ sarpirmadhūdakaṃ ‖*)
+
+The man who meditates on the deity Pavamāna Soma, who is of the nature of Supreme Brahman, shines with extreme splendour, is of the nature of light and is without beginning or end, and on the seers who praised that god,
+
+### Printed p. 374
+
+and who worships him, for him there arises an abundance of milk, ghee, honey and water; that is, an abundance of manifold wealth arises.
+
+पावमानं परं ब्रह्म ये पठंति मनीषिणः । सप्त जन्म भवेद्विप्रो धनाढ्यो वेदपारगः ॥ (*pāvamānaṃ paraṃ brahma ye paṭhaṃti manīṣiṇaḥ | sapta janma bhavedvipro dhanāḍhyo vedapāragaḥ ‖*)
+
+The discerning men who recite and praise this Pavamāna mantra, which is of the nature of Supreme Brahman, will in the next seven births be born in the Brāhmaṇa birth itself, and be wealthy and accomplished in the study of the Veda, and be happy.
+
+दशोत्तराण्यृचांश्चेव पावमानीः शतानि षट् । एतज्जुह्वन् जपेन्मंत्रं घोरमृत्युभयं हरेत् ॥ (*daśottarāṇyṛcāṃśceva pāvamānīḥ śatāni ṣaṭ | etajjuhvan japenmaṃtraṃ ghoramṛtyubhayaṃ haret ‖*)
+
+If one recites these 610 ṛks in the Gāyatrī metre which praise the deity Pavamāna Soma, and offers oblation in the fire with the mantra, even such a terrible fear of death is removed.
+
+एतत्पुण्यं पापहरं रोगमृत्युभयापहं । पठतां शृण्वतां चैव ददाति परमां गतिं ॥ (*etatpuṇyaṃ pāpaharaṃ rogamṛtyubhayāpahaṃ | paṭhatāṃ śṛṇvatāṃ caiva dadāti paramāṃ gatiṃ ‖*)
+
+For those who recite or listen to these Pāvamānī mantras, which bestow merit and remove sin, all disease and fear of death perish, and for them there arises the supreme state, that is, the attainment of the excellent world of heaven.
+
+## Sūkta 68 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतुर्थेऽनुवाकेऽष्टादश सूक्तानि । तत्र ‘प्र देवम्' इति दशर्चं प्रथमं सूक्तं भलंदनपुत्रस्य वत्सप्रेरार्षं पवमानसोमदेवताकम् । दशमी त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रम्यते- प्र देवं दश वत्सप्रिर्भालंदनस्त्रिष्टुबंतं ह' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that in the fourth anuvāka there are eighteen sūktas. Of these, the first is the sūkta of ten ṛks beginning प्र देवम् (*pra devam*), whose seer is Vatsapri, son of Bhalandana, and whose deity is Pavamāna Soma. The tenth ṛk is in the Triṣṭup metre and the rest are in Jagatī. He cites the Anukramaṇī: प्र देवं दश वत्सप्रिर्भालंदनस्त्रिष्टुबंतं ह (*pra devaṃ daśa vatsaprirbhālaṃdanastriṣṭubaṃtaṃ ha*). The application (viniyoga) has already been stated.
+
+Translation.—In the fourth anuvāka of the ninth maṇḍala there are eighteen sūktas. Among them this sūkta beginning प्र देवं (*pra devaṃ*) is the first. It contains ten ṛks. The seer of this sūkta is Vatsapri, the son of the seer called Bhalandana. The deity is Pavamāna Soma;
+
+### Printed p. 375
+
+the tenth ṛk of this sūkta is in the Triṣṭup metre. The remaining ṛks are in the Jagatī metre. In the Anukramaṇī it is said: प्र देवं दश वत्सप्रिर्भालंदनस्त्रिष्टुबंतं ह (*pra devaṃ daśa vatsaprirbhālaṃdanastriṣṭubaṃtaṃ ha*). The application of the sūkta has been stated earlier.
+
+Maṇḍala 9; Anuvāka 4; Sūkta 68; Aṣṭaka 7, Adhyāya 2, Varga 19, 20. Number of ṛks in the sūkta: 10. Ṛṣi: Vatsapri Bhālandana. Devatā: Pavamāna Soma. Chandas: 1–9 Jagatī; 10 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र दे॒वमच्छा॒ मधु॑मंत॒ इंद॒वोऽसि॑ष्यदंत॒ गाव॒ आ न धे॒नवः॑ ।  
+> ब॒र्हि॒षदो॑ वच॒नावं॑त॒ ऊध॑भिः परि॒स्रुत॑मु॒स्रिया॑ नि॒र्णिजं॑ धिरे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । देवम् । अच्छ । मधुऽमंतः । इंदवः । असिस्यदंत । गावः । आ । न । धेनवः ।  
+> बर्हिऽसदः । वचनाऽवंतः । ऊधऽभिः । परिऽस्रुतम् । उस्रियाः । निःऽनिजम् । धिरे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मधुमंतः मादकरससंयुक्ताः इंदवः सोमाः देवं द्योतमानं सोमात्मकमिंद्रम् अच्छ प्रति प्र असिष्यदंत प्रस्यंदंते । ग्रहादिषु प्रक्षरंति । स्यंदतेर्ण्यंतस्य लुङि चङि रूपम् । तत्र दृष्टांतः । गाव आ न धेनवः । पयस्विन्यः प्रीणयित्र्यो गावो यथा वत्सं प्रति पयांसि प्रस्रवंति तद्वत्। किंच बर्हिषदः बर्हिषि सीदंतः वचनावंतः हंभारवादिशब्दवंतः उस्रियाः । गोनामैतत् । तादृश्यो गावः ऊधभिः पयोधारकैः स्वैः स्वैरूधभिः परिस्रुतं परितः स्रवणशीलं निर्णिजं शुद्धं पयोभूतं सोमरसं धिरे दधिरे । इंद्रार्थं धारयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the Soma drops (इंदवः (*iṃdavaḥ*)), endowed with intoxicating juice, flow towards the shining god, that is, Indra in the form of Soma, and drip into the cups (grahas) and the like. As an illustration he gives गाव आ न धेनवः (*gāva ā na dhenavaḥ*): just as milk-giving, satisfying cows stream their milk towards the calf, so do the Soma drops. Further, the cows (उस्रियाः (*usriyāḥ*) is a name for cows), seated on the sacred grass and lowing with sounds such as the cry of the cow, bear with their own milk-holding udders the Soma juice, which flows all around and is pure, being turned into milk, for Indra; that is, they hold it for Indra's sake.
+
 ---
 
-**Progress note:** Done through printed p. 369. Sūkta 67 Ṛk 27 to 32 (pp. 364-369)
+**Progress note:** Done through printed p. 375. Vol 26 pp. 370-375: Pavamana appendix mantras, start of Sukta 68
