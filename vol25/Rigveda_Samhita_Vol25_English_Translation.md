@@ -2896,6 +2896,240 @@ Let our voices come near the beautiful (Agni), him who bears devouring flames ; 
 
 At the time of reciting the Prātaranuvāka mantras, the six Ṛks beginning अच्छा नः (*acchā naḥ*) are employed for the Ṛks in the Bṛhatī metre, as is explained by the sūtra of the Āśvalāyana Śrautasūtra अच्छा नः शीरशोचिषमिति षट् (*acchā naḥ śīraśociṣamiti ṣaṭ*) (8. 4-13) **NOTE**. On the tenth day of the sacrifice
 
+### Printed p. 73
+
+at the time of the morning pressing, in place of the trca beginning अच्छा वो अग्निं (*acchā vo agniṃ*), the trca beginning अच्छा नः (*acchā naḥ*) is to be recited by the priest called Acchāvāka, as is explained by the sūtra of the Āśvalāyana Śrautasūtra अच्छा नः शीरशोचिषं प्रति प्र तायु वो धृषदिति तृचौ (*acchā naḥ śīraśociṣaṃ prati pra tāyu vo dhṛṣaditi tṛcau*) (Ā. 8-12) **NOTE**.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं सू॒नुं सह॑सो जा॒तवे॑दसं दा॒नाय॒ वार्या॑णाम् ।  
+> द्वि॒ता यो भूद॒मृतो॒ मर्त्ये॒ष्वा होता॑ मं॒द्रत॑मो वि॒शि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निम् । सूनुम् । सहसः । जातऽवेदसम् । दानाय । वार्याणाम् ।  
+> द्विता । यः । भूत् । अमृतः । मर्त्येषु । आ । होता । मंद्रऽतमः । विशि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं सहसः सूनुं बलस्य पुत्रं जातवेदसं जातधनं वार्याणां वरणीयानां गवादिधनानां दानाय गिरः अच्छ यंत्वित्यनुवर्तते । यः अग्निः अमृतः अमरणधर्मा देवेषु भवति सः मर्त्येष्वा । आकारश्चार्थे । मनुष्येषु चाभूत् अभवदित्येवं द्विता द्वैधं भवति । देवेष्वमृतत्वमस्य प्रसिद्धं मनुष्येषु कीदृशोऽभूदिति उच्यते । विशि विक्षु यजमानरूपासु प्रजासु होता होमनिष्पादकः मंद्रतमः मादयितृतमश्च भवति । अच्छ यन्विति समन्वयः । अथवा योऽमृतो द्विता द्वित्वं द्वैधं द्विप्रकारोऽभूत् । कथम् । मर्त्येषु सामान्येन दाहपाकादिसाधनोऽभवदित्येतत् प्रसिद्धं विशि यजमानरूपायां तु होता मंद्रतमः अभवदित्येवं द्वित्वम् ।
+
+##### Gist of the bhāṣya
+
+Agni, the son of strength, Jātavedas, that is, one whose wealth is born, for the giving of desirable wealth such as cows: the words "let our voices go towards" continue from the preceding Ṛk. The Agni who is immortal, of an undying nature, among the gods, and who among mortals also became so, in this way becomes twofold. His immortality among the gods is well known; it is now said what kind of being he became among men. Among the people, the sacrificers, he is the Hotṛ, the accomplisher of the oblation, and the most exhilarating. The construction is: let them go towards. Or else: the immortal one became twofold, of two kinds. How? Among mortals in general it is well known that he became the means of burning, cooking and the like; but among the people who are sacrificers he became the Hotṛ, the most exhilarating. Thus the twofoldness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्रतमः (*maṃdratamaḥ*)—who gives delight
+- यः (*yaḥ*)—which Agni
+- विशि (*viśi*)—among men who are sacrificers
+- होता (*hotā*)—as the accomplisher of the oblation
+- मर्त्येषु आ (*martyeṣu ā*)—among the other men
+
+### Printed p. 74
+
+as the means of cooking;
+- द्विता (*dvitā*)—of two kinds
+- अमृतः (*amṛtaḥ*)—as one possessed of the nature of mortality, or **NOTE**
+- भूत् (*bhūt*)—who is immortal among the gods and a performer of sacrifice and the like among men, such
+- सहसः सूनुं (*sahasaḥ sūnuṃ*)—the son of strength
+- जातवेदसं (*jātavedasaṃ*)—who knows all things
+- अग्निं (*agniṃ*)—Agni
+- वार्याणां (*vāryāṇāṃ*)—of desired riches
+- दानाय (*dānāya*)—for the giving (may our praises go and reach him)
+
+##### भावार्थ (Bhāvārtha)
+
+May our praises go and reach, for the giving and attaining of desired riches, Agni, son of strength, who knows all things, who gives delight, who is in two ways, as the accomplisher of the oblation among men who are sacrificers and as the means of cooking among the other men, and who shines as the immortal among the gods.
+
+##### English translation
+(Let them come near) Agni, Jatavedas, son of strength, for the giving of all desirable good things ; who is doubly immortal as (perpetually burning) amongst mortals, and as the supremely exhilarating ministrant-priest amongst the sacrificers.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं वो॑ देवय॒ज्यया॒ग्निं प्र॑य॒त्य॑ध्व॒रे ।  
+> अ॒ग्निं धी॒षु प्र॑थ॒मम॒ग्निमर्व॑त्य॒ग्निं क्षैत्रा॑य॒ साध॑से ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निम् । वः । देवऽयज्यया । अग्निम् । प्रऽयति । अध्वरे ।  
+> अग्निम् । धीषु । प्रथमम् । अग्निम् । अर्वति । अग्निम् । क्षैत्राय । साधसे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमानाः युष्माकं देवयज्यया देवयागेन निमित्तेन देवयागार्थम् अग्निं स्तौमीति शेषः । तथा अग्निम् अध्वरे यागे प्रयति प्रकर्षेण गच्छति प्रवृत्ते सति स्तौमि प्रथमम् इतरदेवेभ्यः । तथा अग्निम् अर्वति आगते भ्रातृव्ये स्तौमि यज्ञविघ्नपरिहारार्थम् । तथा क्षैत्राय क्षेत्राय क्षेत्रसंबंधिने साधसे साधनाय क्षेत्रलाभाय स्तौमि । यज्ञांते क्षेत्रलाभरूपाय फलाय च स्तौमि । एवमादौ मध्येऽंते च सर्वदा स्तौमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O sacrificers, by your divine sacrifice, that is, for the sake of the sacrifice to the gods, I praise Agni; so the sentence is completed. So also, when the sacrifice proceeds, that is, has set out and is in progress, I praise Agni, first before the other gods. So also, when the rival has come, I praise Agni, for the removal of the obstacles of the sacrifice. So also, for what belongs to the field, for the accomplishing, that is, for the gaining of a field, I praise him; and at the end of the sacrifice I praise him for the fruit in the form of the gaining of a field. The meaning is that I praise him always, at the beginning, in the middle and at the end.
+
+### Printed p. 75
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers) वः (*vaḥ*)—your
+- देवयज्यया (*devayajyayā*)—for the sacrifice directed to the gods
+- अग्निं (*agniṃ*)—I praise Agni
+- अध्वरे (*adhvare*)—when the sacrifice
+- प्रयति (*prayati*)—is being performed
+- अग्निं (*agniṃ*)—I praise Agni
+- धीषु (*dhīṣu*)—among the wise gods
+- प्रथमं अग्निं (*prathamaṃ agniṃ*)—I praise Agni, the foremost
+- अर्वति (*arvati*)—at the time of the enemy's approach also
+- अग्निं (*agniṃ*)—I praise Agni
+- क्षैत्राय (*kṣaitrāya*)—for what is related to the field
+- साधसे (*sādhase*)—for the accomplishing of gain
+- अग्निं (*agniṃ*)—I praise Agni
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, at the beginning of your sacrifice directed to the gods, I praise Agni. While the sacrifice is being performed, I praise Agni. I praise Agni, the foremost among the wise gods. At the time of the enemy's approach also, I praise Agni. For the accomplishing of gain related to the field, I praise Agni.
+
+##### English translation
+I praise Agni, (O sacrificers), for the inauguration of your divine offering; (I praise him) when the sacrifice is proceeding: (I praise) Agni first of the gods, at our rites; (I praise) Agni when the enemy approaches ; (I praise)Agni for the attainment of land.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरि॒षां स॒ख्ये द॑दातु न॒ ईशे॒ यो वार्या॑णाम् ।  
+> अ॒ग्निं तो॒के तन॑ये॒ शश्व॑दीमहे॒ वसुं॒ संतं॑ तनू॒पाम् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । इषाम् । सख्ये । ददातु । नः । ईशे । यः । वार्याणाम् ।  
+> अग्निम् । तोके । तनये । शश्वत् । ईमहे । वसुम् । संतम् । तनूऽपाम् ॥ १३ ॥
+
+### Printed p. 76
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निः देवः सख्ये समानख्यानाय नः मह्यम् । सख्युः कर्म सख्यम् । तस्मिन् वा । नोऽस्मभ्यम् इषाम् इषोऽन्नानि ददातु । यः अग्निः वार्याणां धनानाम् ईशे ईष्टे स ददात्विति । तमेव अग्निं तोके पुत्रार्थं तनये तत्पुत्रार्थं च शश्वत् बहु धनमन्नं वा ईमहे याचामहे । वार्याणामीश इत्युक्तत्वादेवं लभ्यते । कीदृशमग्निम् । वसुं वासकं संतं सर्वदा वर्तमानं तनूपाम्  अंगानां पालयितारम् ॥
+
+##### Gist of the bhāṣya
+
+May Agni, the god, for friendship, that is, for equal renown, give to us, to me, food. सख्यम् (*sakhyam*) is the act of a friend, or it may be taken as "in that". Let him give to us foods; that Agni who is lord, who rules, over desirable riches, let him give. That same Agni we beg for our son and for our son's son, for abundant wealth or food; this is obtained from the statement that he is lord of desirable things. What kind of Agni? वसुं (*vasuṃ*), the one who makes to dwell; संतं (*saṃtaṃ*), who is present always; तनूपाम् (*tanūpām*), the protector of the limbs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- वार्याणां (*vāryāṇāṃ*)—of all desired riches
+- ईशे (*īśe*)—is the master, such
+- अग्निः (*agniḥ*)—Agni
+- सख्ये (*sakhye*)—because there is friendship with us
+- नः (*naḥ*)—to us
+- इषां (*iṣāṃ*)—food
+- ददातु (*dadātu*)—let him give
+- वसुं (*vasuṃ*)—the giver of dwelling
+- संतं (*saṃtaṃ*)—who is eternal
+- तनूपां (*tanūpāṃ*)—and protector of the limbs
+- अग्निं (*agniṃ*)—Agni
+- तोके (*toke*)—for the sake of a son
+- तनये (*tanaye*)—and for the sake of a grandson
+- शश्वत् (*śaśvat*)—in many ways
+- ईमहे (*īmahe*)—we beg
+
+##### भावार्थ (Bhāvārtha)
+
+May that Agni who is the master of all desired riches give us food because there is friendship with us. We beg Agni, the giver of dwelling, who is eternal, and protector of the limbs, in many ways, for the sake of a son and of a grandson.
+
+##### English translation
+May Agni in his friendship give us food, for he is the lord of all desirable things ; we solicit abundance for our sons and grandsons from Agni, who is the giver of dwellings and the protector of our bodies.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निमी॑ळि॒ष्वाव॑से॒ गाथा॑भिः शी॒रशो॑चिषम् ।  
+> अ॒ग्निं रा॒ये पु॑रुमीळ्ह श्रु॒तं नरो॒ऽग्निं सु॑दी॒तये॑ छ॒र्दिः ॥ १४ ॥
+
+### Printed p. 77
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निम् । ईळिष्व । अवसे । गाथाभिः । शीरऽशोचिषम् ।  
+> अग्निम् । राये । पुरुऽमीळ्ह । श्रुतम् । नरः । अग्निम् । सुऽदीतये । छर्दिः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुमीळ्ह त्वम् अग्निम् अवसे आवयो रक्षणाय ईळिष्व स्तुहि गाथाभिः । गाथेति वाङ्नाम । मंत्ररूपाभिर्वाग्भिः । कीदृशम् । शीरशोचिषं शयनस्वभावरोचिष्कम् । तथा राये धनाय ईळिष्व । श्रुतम् एनं नरः अन्येऽपि यजमानाः स्तुवंति स्वार्थम् । तस्मात् सुदीतये मह्यम् अग्निं छर्दिः गृहं याचस्वेत्येवं सुदीतिः पुरुमीळ्हं ब्रूते ॥
+
+##### Gist of the bhāṣya
+
+O Purumīḷha, praise Agni for protection with gāthās; गाथेति वाङ्नाम (*gātheti vāṅnāma*), that is, with speeches in the form of mantras. What kind of Agni? शीरशोचिषं (*śīraśociṣaṃ*), one whose radiance is of a reclining nature. So also praise him for wealth. This famous one other men also, other sacrificers, praise, each for his own sake. Therefore ask for me, Sudīti, of Agni a house; thus Sudīti speaks to Purumīḷha.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुमीळ्ह (*purumīḷha*)—O seer named Purumīḷha
+- शीरशोचिषं (*śīraśociṣaṃ*)—who has a radiance that spreads out and extends
+- अग्निं (*agniṃ*)—Agni
+- अवसे (*avase*)—for protection
+- गाथाभिः (*gāthābhiḥ*)—with speeches in the form of mantras
+- ईळिष्व (*īḷiṣva*)—praise
+- राये (*rāye*)—for wealth
+- श्रुतं अग्निं (*śrutaṃ agniṃ*)—this very famous Agni
+- नरः (*naraḥ*)—the other men also praise (therefore)
+- सुदीतये (*sudītaye*)—for me, who am named Sudīti
+- अग्निं (*agniṃ*)—pray to Agni
+- छर्दिः (*chardiḥ*)—and ask for a house
+
+##### भावार्थ (Bhāvārtha)
+
+O seer named Purumīḷha, praise with speeches in the form of mantras, for protection, Agni, who has a radiance that spreads out and extends. The other men also praise this very Agni, famous for wealth. Therefore pray to Agni for me, who am named Sudīti, and ask for a house.
+
+##### English translation
+Laud with your hymns for our protection Agni, whose splendours lie outspread ; laud Agni for wealth, O Purumilha, for other offerers are lauding that far-famed one on their own behalf; solicit of Agni a house for (me) Suditi.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं द्वेषो॒ योत॒वै नो॑ गृणीमस्य॒ग्निं शं योश्च॒ दात॑वे ।  
+> विश्वा॑सु वि॒क्ष्व॑वि॒तेव॒ हव्यो॒ भुव॒द्वस्तु॑रृषू॒णाम् ॥ १५ ॥
+
+### Printed p. 78
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निम् । द्वेषः । योतवै । नः । गृणीमसि । अग्निम् । शम् । योः । च । दातवे ।  
+> विश्वासु । विक्षु । अविताऽइव । हव्यः । भुवत् । वस्तुः । ऋषूणाम् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं नः अस्माकं द्वेषः द्वेष्टॄन् योतवै पृथक्कर्तुं गृणीमसि गृणीमः स्तुमः । तथा अग्निं शं सुखं योश्च भयानाममिश्रणं च दातवे दातुम् । अथवा शं सुखस्य योर्मिश्रणाय च गृणीमसि । अस्मिन् पक्षे द्वेषो योतवा इत्यनेन सह समुच्चयार्थश्चशब्दः । सोऽग्निः विश्वासु सर्वासु विक्षु प्रजासु अवितेव रक्षिता राजेव ऋषूणाम् ऋषीणामस्माकं वस्तुः वासको देवः हव्यो भुवत् भवतु । अथवा सर्वासु विक्षु यजमानरूपासु प्रजासु मध्य ऋषूणामृषीणां सूक्तद्रष्टॄणामस्माकमेव हव्यो भवतु वस्तुः सर्वस्य वासको देवः ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+We praise Agni in order to separate from us our haters, to drive them away. So also we praise Agni to give happiness, शं (*śaṃ*), and the non-mingling, योः (*yoḥ*), with fears. Or else: we praise for the mingling of happiness, शं (*śaṃ*), and योः (*yoḥ*); in this alternative the word च (*ca*) is for combining it with "to separate the haters". May that Agni be, among all the peoples, like a protector, like a king, for us, the seers, the god who makes us dwell, to be invoked. Or else: among all the peoples in the form of sacrificers, among the seers, that is, the seers of the sūkta, for us alone, may he be to be invoked, the god who makes all dwell.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- द्वेषः (*dveṣaḥ*)—haters
+- योतवै (*yotavai*)—in order to drive far away
+- अग्निं (*agniṃ*)—Agni
+- गृणीमसि (*gṛṇīmasi*)—we praise
+- शं (*śaṃ*)—happiness
+- योः च (*yoḥ ca*)—and the warding off of fear
+- दातवे (*dātave*)—in order to bring about
+- अग्निं (*agniṃ*)—we pray to Agni
+- (सः (*saḥ*)—that same Agni)
+- विश्वासु (*viśvāsu*)—all
+- विक्षु (*vikṣu*)—among the peoples also
+- अवितेव (*aviteva*)—shining like a protecting king
+- ऋषूणां (*ṛṣūṇāṃ*)—for us, who are seers
+- वसुः (*vasuḥ*)—as the giver of dwelling
+- हव्यः (*havyaḥ*)—and as one to be worshipped
+- भुवत् (*bhuvat*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+We praise Agni in order to drive far away our haters. We pray to that same Agni in order to bring about happiness for us and the warding off of fear. May that same Agni, shining like a protecting king among all the peoples, be for us, who are seers, the giver of dwelling and one to be worshipped.
+
 ---
 
-**Progress note:** Done through printed p. 72. Vol 25 sūkta 71 Ṛk 4 end to Ṛk 10
+**Progress note:** Done through printed p. 78. Vol 25 sūkta 71 Ṛk 11-15
