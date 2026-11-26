@@ -4632,6 +4632,261 @@ The greeu-tinted Soma contemplating all the holy acts that are pleasing to the g
 
 That Soma, of good works (suvrata), being cleansed by men (āyu), that is, by the priests, fearless (ibha) like a king, and like a hawk, settles in the waters called vasatīvarī.
 
+### Printed p. 164
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुव्रतः (*suvrataḥ*)—having excellent works
+- सः (*saḥ*)—that Soma-deva
+- आयुभिः (*āyubhiḥ*)—by the priests
+- मर्म्मजानः (*marmmajānaḥ*)—being cleansed
+- राजीव (*rājīva*)—like a lord
+- इभः (*ibhaḥ*)—fearless
+- श्येनो न (*śyeno na*)—as the hawk sits on the waters
+- वंसु (*vaṃsu*)—in the waters called vasatīvarī
+- सीदति (*sīdati*)—he sits down
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma-deva, of excellent works, being cleansed by the priests and fearless like a lord, sits in the waters called vasatīvarī as a hawk sits on the waters.
+
+##### English translation
+He, the object of pious observances, cleansed by the priests, fearless as a king, sits on the waters like a hawk.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ विश्वा॑ दि॒वो वसू॒तो पृ॑थि॒व्या अधि॑ ।  
+> पु॒ना॒न इं॑द॒वा भ॑र ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । विश्वा । दिवः । वसु । उतो इति । पृथिव्याः । अधि ।  
+> पुनानः । इंदो इति । आ । भर ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम सः अभिषुतः पुनानः पबमानस्त्वं दिवः अधि दिवि स्थितानि उतो अपि च पृथिव्या अधि पृथिव्यां स्थितानि । अधीति सप्तम्यार्थानुवादः । विश्वा विश्वानि वसु वसूनि नः अस्मभ्यम् आ भर आहर ॥ ॥ १४ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, that pressed one, you who purify yourself, bring to us all the riches that stand in heaven and also those that stand on earth. The word अधि (*adhi*) merely restates the sense of the locative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- सः (*saḥ*)—you who have been pressed
+- पुनानः (*punānaḥ*)—as the purifier
+- दिवः अधि (*divaḥ adhi*)—those that are in the world of heaven
+- उतो (*uto*)—and
+- पृथिव्या? (*pṛthivyā?*)—those that are on earth **NOTE**
+- विश्वा (*viśvā*)—all
+- वसु (*vasu*)—the riches
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—provide
+
+### Printed p. 165
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have been pressed and are the purifier, provide us with all the riches that are in heaven and that are on earth.
+
+##### English translation
+Indu, when you are purified, bring us all the treasures that are in heaven and upon earth.
+
+## Sūkta 58 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘तरत्सः' इति चतुर्ऋचं चतुस्त्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । तरत्सः' इत्यनुक्रांतम् ॥ उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तरत्सः (*taratsaḥ*) has four ṛks and is the thirty-fourth sūkta. The seer and the rest are as before. The Anukramaṇī says तरत्सः (*taratsaḥ*). The use in the rite has been stated.
+
+Translation: This sūkta beginning तरत्सः (*taratsaḥ*) is the thirty-fourth sūkta in the second anuvāka. It contains four ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. The Anukramaṇī says तरत्सः (*taratsaḥ*). The use in the rite has been stated before.
+
+Sūkta 58. Maṇḍala 9. Anuvāka 2. Sūkta 58. Aṣṭaka 7. Adhyāya 1. Varga 15. Number of ṛks in the sūkta: 4. Seer: Avatsāra. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तर॒त्स मं॒दी धा॑वति॒ धारा॑ सु॒तस्यांध॑सः ।  
+> तर॒त्स मं॒दी धा॑वति ॥ १ ॥
+
+### Printed p. 166
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तरत् । सः । मंदी । धावति । धारा । सुतस्य । अंधसः ।  
+> तरत् । सः । मंदी । धावति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंदी देवानां हर्षकरः सः सोमः तरत् स्तोतॄन् पाप्मनः सकाशात् तारयन् धावति पवते । तदेव दर्शयति । सुतस्य अभिषुतस्य अंधसः देवानामन्नात्मकस्य सोमस्य धारा धावतीति । पुनरपि तदेवाह अत्यंतादरार्थं तरत्स मंदी धावति इति । यद्वा । अस्या ऋचो यास्केनोक्तोऽर्थो द्रष्टव्यः । तद्यथा-‘तरति स पापं सर्वं मंदी यः स्तौति धावति गच्छत्यूर्ध्वाँ गतिम् । धारा सुतस्यांधसो धारयाभिषुतस्य सोमस्य मंत्रपूतस्य वाचा स्तुतस्य ' (निरु. १३.६ ) इति ॥
+
+##### Gist of the bhāṣya
+
+That Soma, the delighter (mandī) of the gods, runs on, that is, flows, carrying the praisers across from sin. He shows just this: the stream (dhārā) of the pressed (suta) food-like (andhas) Soma of the gods runs. Again he says the same, for the sake of great emphasis: "he crosses, the delighter runs". Or else, the meaning stated by Yāska is to be seen for this ṛk, namely (Ni. 13.6): he crosses all sin who, delighted, praises; "runs" means goes to the upward path; the stream of the pressed andhas means the stream of the Soma that is pressed, purified by mantra and praised by speech.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंदी (*maṃdī*)—the delighter of the gods
+- सः (*saḥ*)—Soma-deva
+- तरत् (*tarat*)—carrying the praisers across from sin
+- धावति (*dhāvati*)—he flows swiftly
+- सुतस्य (*sutasya*)—of the pressed
+- अंधसः (*aṃdhasaḥ*)—Soma
+- धारा (*dhārā*)—the flow runs swiftly
+- तरत् (*tarat*)—carrying the sacrificers across from hardship **NOTE**
+- सः (*saḥ*)—Soma-deva
+- मंदी (*maṃdī*)—causing gladness
+- धावति (*dhāvati*)—he moves quickly
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, the delighter of the gods, flows swiftly, carrying the praisers across from sin. The flow of the pressed Soma runs swiftly.
+
+##### English translation
+He the delighter (of the gods) flows rescuing (his worshippers from sin); the stream of the effused beverage (flows); he the delighter (of the gods) flows rescuing (his worshippers from sin).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒स्रा वे॑द॒ वसू॑नां॒ मर्त॑स्य दे॒व्यव॑सः ।  
+> तर॒त्स मं॒दी धा॑वति ॥ २ ॥
+
+### Printed p. 167
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उस्रा । वेद । वसूनाम् । मर्तस्य । देवी । अवसः ।  
+> तरत् । सः । मंदी । धावति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसूनां धनानाम् उस्रा उत्सरणशीला प्रदात्री देवी द्योतमाना स्तूयमाना वा यस्य सोमस्य धारा मर्तस्य मनुष्यं यजमानम् अवसः रक्षितुं वेद जानाति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+The stream of that Soma, which gives the riches (vasu), is moving (uṣrā) and bountiful, and is shining (devī) or praised, knows how to protect (avasaḥ) the mortal (martya), the human sacrificer. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसूनां (*vasūnāṃ*)—the riches
+- उस्रा (*usrā*)—that gives abundantly
+- देवी (*devī*)—and radiant stream of Soma
+- मर्तस्य (*martasya*)—the human sacrificer
+- अवसः (*avasaḥ*)—to protect
+- वेद (*veda*)—it knows
+- मंदी (*maṃdī*)—the delighter of the gods
+- सः (*saḥ*)—Soma-deva
+- तरत् (*tarat*)—carrying the sacrificers across from sin
+- धावति (*dhāvati*)—he moves quickly
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant stream of Soma, which gives riches abundantly, knows that it must protect the human sacrificer. Soma-deva, the delighter of the gods, moves quickly, carrying the sacrificer across from sin.
+
+##### English translation
+The brilliant (stream), the bestower of riches, knows how to protect the worshipper : he the delighter (of the gods) flows rescuing (his worshippers from sin).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्व॒स्रयोः॑ पुरु॒षंत्यो॒रा स॒हस्रा॑णि दद्महे ।  
+> तर॒त्स मं॒दी धा॑वति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्वस्रयोः । पुरुऽसंत्योः । आ । सहस्राणि । दद्महे ।  
+> तरत् । सः । मंदी । धावति ॥ ३ ॥
+
+### Printed p. 168
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ध्वस्रयोः पुरुषंत्योः । ध्वस्रः कश्चिद्राजा पुरुषंतिः कश्चित् । तयोरुभयोः । अत्र इतरेतरयोगविवक्षया द्विवचनं द्रष्टव्यम् । सहस्राणि धनानां सहस्राणि आ दद्महे वयं प्रतिगृह्णीमः । तदस्माभिः प्रतिगृहीतं धनमुत्तममस्त्विति ऋषिः सोमं प्रार्थयत इति सोमस्य स्तुतिः । सिद्धमन्यत् । यथावत्सार एतयोर्धनानि प्रतिजग्राह एवं तरंतपुरुमीळ्हौ प्रतिजगृहतुः । तथा च शाट्यायनकम्--- ‘ अथ ह वै तरंत पुरुमीळ्हौ वैददश्वी ध्वस्रयोः पुरुषंत्योर्बहु प्रतिगृह्य गरगिराविव मेनाते तौ ह स्मांगुल्या सातं प्रतिममृशाते तावकामयेतामसातं नाविवेदं सातं स्यादात्तमिवैव न प्रतिगृहीतमिति तावेतंचतुर्ऋचमपश्यतां तेन प्रत्यैतां ततो वै तयोरसातं सातमभवदात्तमिवैव न प्रतिगृहीतं स यः  प्रतिगृह्य कामयेत' इत्यादि ॥
+
+##### Gist of the bhāṣya
+
+Of Dhvasra and Puruṣanti: Dhvasra is a certain king and Puruṣanti is another; of those two. The dual is to be understood here as intending a combination of one with the other (itaretarayoga). We receive thousands of riches. The seer prays to Soma that the wealth received by us may be excellent; thus it is praise of Soma. The rest is established. As Vatsāra received the riches of these two, so Taranta and Purumīḷha received them. And so the Śāṭyāyanaka says: Taranta and Purumīḷha, the Vaidadaśvis, having received much from Dhvasra and Puruṣanti, thought it like poison; they touched the gain with a finger and wished that the ungained become gained and that what was received become as if not received; they saw this four-ṛk hymn and went to it; thereupon the ungained became gained and what was received as if not received; and so on. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्वस्रयोः (*dhvasrayoḥ*)—from the king called Dhvasra
+- पुरुषंत्योः (*puruṣaṃtyoḥ*)—and from the king called Puruṣanti
+- सहस्राणि (*sahasrāṇi*)—unlimited riches
+- आ दद्महे (*ā dadmahe*)—we have received
+- मंदी (*maṃdī*)—the gladdener
+- सः (*saḥ*)—Soma-deva
+- तरत् (*tarat*)—carrying the sacrificers across from sin
+- धावति (*dhāvati*)—he moves quickly
+
+##### भावार्थ (Bhāvārtha)
+
+We have received unlimited riches from the king called Dhvasra and from the king called Puruṣanti. Soma-deva, the gladdener, moves quickly, carrying the sacrificers across from sin.
+
+##### English translation
+We have received thousands from Dhwasra and Purushanti: he the delighter (of the gods) flows rescuing (his worshippers from sin).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ययो॑स्त्रिं॒शतं॒ तना॑ स॒हस्रा॑णि च॒ दद्म॑हे ।  
+> तर॒त्स मं॒दी धा॑वति ॥ ४ ॥
+
+### Printed p. 169
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ययोः । त्रिंशतम् । तना । सहस्राणि । च । दद्महे ।  
+> तरत् । सः । मंदी । धावति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ययोः ध्वस्रपुरुषंत्योः त्रिंशतं त्रिशतानि सहस्राणि तना वस्त्राणि आ दद्महे वयं प्रतिगृह्णीमः तयोरस्माभिः प्रतिगृहीतं तत्सर्वमप्रतिगृहीतमस्त्विति सोमऋषिः प्रार्थयत इति सोमस्यैव स्तुतिः । सिद्धमन्यत् ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+Of those two, Dhvasra and Puruṣanti, we receive thirty hundreds of thousands of garments (tanā); the seer of Soma prays that all that has been received by us from them may be as if not received; thus it is only praise of Soma. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ययोः (*yayoḥ*)—from those two kings, Dhvasra and Puruṣanti
+- त्रिंशतिं (*triṃśatiṃ*)—multiplied by three hundred **NOTE**
+- सहस्राणि (*sahasrāṇi*)—numbering thousands
+- तना च (*tanā ca*)—and garments
+- आ दद्महे (*ā dadmahe*)—we have received
+- मंदी (*maṃdī*)—the gladdener
+- सः (*saḥ*)—Soma-deva
+- तरत् (*tarat*)—carrying the sacrificers across from sin
+- धावति (*dhāvati*)—he moves quickly
+
+##### भावार्थ (Bhāvārtha)
+
+From the two kings, Dhvasra and Puruṣanti, we have received garments numbering thousands multiplied by three hundred (1000 x 300). Soma-deva, the gladdener, moves quickly, carrying the sacrificers across from sin.
+
+##### English translation
+We have received from those two three hundred thousand garments; he the delighter ( of the gods ) flows rescuing ( his worshippers from sin ).
+
+## Sūkta 59 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘पवस्व ' इति चतुर्ऋचं पंचत्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ' पवस्व' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पवस्व (*pavasva*) has four ṛks and is the thirty-fifth sūkta. The seer and the rest are as before. The Anukramaṇī says पवस्व (*pavasva*). The use in the rite has been stated.
+
+Translation: This sūkta beginning पवस्व (*pavasva*) is the thirty-fifth sūkta in the second anuvāka. It contains four ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. The Anukramaṇī says पवस्व (*pavasva*). The use in the rite has been stated before.
+
 ---
 
-**Progress note:** Done through printed p. 163. sukta 56 rks 1-4, sukta 57 rks 1-3
+**Progress note:** Done through printed p. 169. sukta 57 rk 3-4, sukta 58, start of sukta 59
