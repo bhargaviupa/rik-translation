@@ -34637,6 +34637,290 @@ Sūkta 38. Maṇḍala 9, Anuvāka 2, Sūkta 38. Aṣṭaka 6, Adhyāya 8, Varga
 
 That well-known Soma, who has been pressed, the showerer, of a swift nature, goes with the sheep's hairs, that is, through the daśāpavitra, to the vessel. Going to give the sacrificer a thousandfold food, he enters the Droṇa vessel; this is the meaning. The particle उ (*u*) is a filler.
 
+### Printed p. 846
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the bestower of desired things
+- रथः (*rathaḥ*)—swift in motion like a chariot
+- स्यः (*syaḥ*)—well known
+- एषः (*eṣaḥ*)—this Soma who has been pressed
+- सहस्रिणं (*sahasriṇaṃ*)—a thousandfold, or immeasurable
+- वाजं (*vājaṃ*)—food (to give to the sacrificer)
+- अव्यः वारेभिः (*avyaḥ vārebhiḥ*)—purified by the daśāpavitra made of sheep's wool
+- अर्षति (*arṣati*)—goes towards the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Soma, the bestower of desires, swift in motion like a chariot, just now pressed, being purified by the daśāpavitra made of sheep's wool in order to give the sacrificer immeasurable food, flows towards the Droṇa vessel.
+
+##### English translation
+This Soma the showerer of benefits, the chariot, dashes through the woollen fleece, bearing (to the worshipper) thousand-fold food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं त्रि॒तस्य॒ योष॑णो॒ हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
+> इंदु॒मिंद्रा॑य पी॒तये॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतम् । त्रितस्य । योषणः । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> इंदुम् । इंद्राय । पीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतम् इंदुं क्लिद्यमानं हरिं हरितवर्णं सोमं त्रितस्य ऋषेः योषणः अंगुलयः अद्रिभिः हिन्वंति इंद्राय इंद्रस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+The fingers of the seer Trita press, with the stones, this Indu, the moistened, green-tinted Soma, for Indra, for Indra's drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिं (*hariṃ*)—green-hued
+- इंदुं (*iṃduṃ*)—full of juice
+- एतं (*etaṃ*)—this Soma plant
+- त्रितस्य (*tritasya*)—of the seer named Trita
+- योषणः (*yoṣaṇaḥ*)—the fingers
+- अद्रिभिः (*adribhiḥ*)—pounding with stones
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for the drinking
+- हिन्वंति (*hinvaṃti*)—impel, that is, press
+
+### Printed p. 847
+
+##### भावार्थ (Bhāvārtha)
+
+The fingers of the seer Trita, pounding with stones this juice-filled, green-hued Soma plant, impel it to pour out its juice for the drinking of Indra.
+
+##### English translation
+The fingers of Tritra effuse by the stones this green-tinted juice for Indra's drinking.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं त्यं ह॒रितो॒ दश॑ मर्मृ॒ज्यंते॑ अप॒स्युवः॑ ।  
+> याभि॒र्मदा॑य॒ शुंभ॑ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतम् । त्यम् । हरितः । दश । मर्मृज्यंते । अपस्युवः ।  
+> याभिः । मदाय । शुंभते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतं त्यं तं सोममध्वर्योः दश हरितः हरणस्वभावा अंगलयः अपस्युवः कर्मेच्छवः सत्यः मर्मृज्यंते शोधयंति । याभिः इंद्रस्य मदाय शुंभते दीप्यते । शोध्यत इत्यर्थः । तमेतमिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The ten fingers of the adhvaryu, of a seizing nature, eager for the rite, purify this well-known Soma; by them he shines, that is, is purified, for the exhilaration of Indra. The construction takes both words, this and that, together. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरितः (*haritaḥ*)—tinged with a green colour
+- दश (*daśa*)—the ten fingers of the adhvaryu
+- अपस्युवः (*apasyuvaḥ*)—being devoted to the work of pressing
+- त्यं (*tyaṃ*)—well known
+- एतं (*etaṃ*)—that Soma
+- मर्मृज्यंतेधिसुत्तवॆ (*marmṛjyaṃtedhisuttavè*)—they purify **NOTE**
+- याभिः (*yābhiḥ*)—by those fingers
+- मदाय (*madāya*)—for the delight of Indra
+- शुंभते (*śuṃbhate*)—the Soma juice is purified
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers of the adhvaryu, tinged with green because they are engaged in the work of pressing, purify that well-known Soma juice for the delight of Indra.
+
+##### English translation
+The ten fingers, eager in the work, express that (Soma), and by them it is purified for the exhilaration (of Indra).
+
+### Printed p. 848
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य मानु॑षी॒ष्वा श्ये॒नो न वि॒क्षु सी॑दति ।  
+> गच्छं॑जा॒रो न यो॒षित॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । मानुषीषु । आ । श्येनः । न । विक्षु । सीदति ।  
+> गच्छन् । जारः । न । योषितम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्यः सः एषः सोमः मानुषीषु विक्षु प्रजासु यजमानरूपास्वनुग्रहेण आ सीदति श्येनो न श्येन इव । पुनः क इव । योषितं गच्छन् अभिगच्छन् जारो न जार इव । यथा संकेतितस्तस्याः कामपूरणाय गूढो गच्छति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Soma sits down among the human peoples, that is, the sacrificers, out of favour, like a falcon. Again, like whom? Like a lover going to a woman: as one who has made an appointment goes in secret to fulfil her desire, so he, this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—well known
+- एषः (*eṣaḥ*)—this Soma juice
+- श्येनो न (*śyeno na*)—like the falcon (that brought the Soma to earth)
+- योषितं (*yoṣitaṃ*)—the young woman whom he desires
+- गच्छन् (*gacchan*)—approaching
+- जारो न (*jāro na*)—like a lover
+- मानुषीषु विक्षु (*mānuṣīṣu vikṣu*)—near the human sacrificers who perform sacrifice
+- आ सीदति (*ā sīdati*)—comes and sits, with a mind of favour
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Soma, like the falcon, and like a lover approaching the young woman whom he loves, flows swiftly and settles among the human sacrificers in order to show them favour.
+
+##### English translation
+That Soma sits down amongs human beings like a falcon, hastening as a gallant to his mistress.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य मद्यो॒ रसोऽव॑ चष्टे दि॒वः शिशुः॑ ।  
+> य इंदु॒र्वार॒मावि॑शत् ॥ ५ ॥
+
+### Printed p. 849
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । मद्यः । रसः । अव । चष्टे । दिवः । शिशुः ।  
+> यः । इंदुः । वारम् । आ । अविशत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्यः सः एषः मद्यः मदनिमित्तः रसः अव चष्टे सर्वमवपश्यति। दिवः शिशुः । द्युपुत्रः । तत्रोत्पत्तेः पुत्रत्वमस्य । य इंदुः दीप्तः सोमः वारं दशापवित्रम् आविशत् आविशति स एष इति ॥
+
+##### Gist of the bhāṣya
+
+That well-known juice, which causes exhilaration, looks down upon everything. The child of heaven, that is, the son of heaven, because he originates there; the Indu, the shining Soma who enters the daśāpavitra: this is he.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—well known
+- मद्यः (*madyaḥ*)—causing delight
+- एषः रसः (*eṣaḥ rasaḥ*)—this Soma juice
+- अव चष्टे (*ava caṣṭe*)—looks upon everything
+- दिवः (*divaḥ*)—to heaven (because he was formerly there)
+- शिशुः (*śiśuḥ*)—is of the form of a child
+- य इंदुः (*ya iṃduḥ*)—such a shining Soma juice
+- वारं (*vāraṃ*)—the daśāpavitra (for purification)
+- आविशत् (*āviśat*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Soma juice, which causes delight, looks upon everything. Because it was born in heaven it is a child to heaven. Such a shining Soma juice enters the daśāpavitra to be purified.
+
+##### English translation
+That exhilarating juice beholds all,—Indu, the child of heaven, that percolates through the fleece.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य पी॒तये॑ सु॒तो हरि॑रर्षति धर्ण॒सिः ।  
+> क्रंद॒न्योनि॑म॒भि प्रि॒यम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । पीतये । सुतः । हरिः । अर्षति । धर्णसिः ।  
+> क्रंदन् । योनिम् । अभि । प्रियम् ॥ ६ ॥
+
+### Printed p. 850
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष स्यः स सोमः पीतये पानाय सुतः अभिषुतः हरिः हरितवर्णः धर्णसिः धारकः प्रियं स्वप्रियभूतं योनिं स्थानं द्रोणकलशं क्रंदन् शब्दयन् अभि अर्षति गच्छति ॥ ॥ २८ ॥
+
+##### Gist of the bhāṣya
+
+That well-known Soma, pressed for drinking, green-tinted, the sustainer, goes crying out towards his dear place, the Droṇa vessel, that is, resounds as he goes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धर्णसिः (*dharṇasiḥ*)—who bears everything
+- हरिः (*hariḥ*)—green-tinted
+- स्यः एषः (*syaḥ eṣaḥ*)—this well-known Soma plant
+- पीतये (*pītaye*)—for drinking
+- सुतः (*sutaḥ*)—pressed
+- प्रियं (*priyaṃ*)—dear to him
+- योनिं (*yoniṃ*)—towards the Droṇa vessel, his own place
+- क्रंदन् (*kraṃdan*)—making a gurgling sound
+- अभि अर्षति (*abhi arṣati*)—flows and goes
+
+##### भावार्थ (Bhāvārtha)
+
+This green-tinted Soma plant, the upholder of the world, pounded and pressed for drinking, flows with a gurgling sound to the Droṇa vessel, his dear place and own abode.
+
+##### English translation
+That green-tinted, all-sustaining (Soma), when effused for the drinking (of the gods), rushes crying aloud to its beloved place.
+
+## Sūkta 39 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ आशुरर्ष' इति षडृचं पंचदशं सूक्तमांगिरसस्य बृहन्मतेरार्षं गायत्रं पवमानसोमदेवताकम् । ‘ आशुरर्ष बृहन्मतिः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आशुरर्ष (*āśurarṣa*) has six ṛks and is the fifteenth sūkta. It is the seer-composition of Bṛhanmati of the Āṅgirasa line, in the Gāyatrī metre, with Pavamāna Soma as its deity. It is listed in the Anukramaṇī as आशुरर्ष बृहन्मतिः (*āśurarṣa bṛhanmatiḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning आशुरर्ष (*āśurarṣa*) is the fifteenth sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is one named Bṛhanmati; the deity is Pavamāna Soma; the metre is Gāyatrī. What the Anukramaṇī says, आशुरर्ष बृहन्मतिः (*āśurarṣa bṛhanmatiḥ*), is the ritual use, which has been stated before.
+
+Sūkta 39. Maṇḍala 9, Anuvāka 2, Sūkta 39. Aṣṭaka 6, Adhyāya 8, Varga 29. Number of ṛks in the sūkta: 6. Ṛṣi: बृहन्मतिः (*bṛhanmatiḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+### Printed p. 851
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒शुर॑र्ष बृहन्मते॒ परि॑ प्रि॒येण॒ धाम्ना॑ ।  
+> यत्र॑ दे॒वा इति॒ ब्रव॑न् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशुः । अर्ष । बृहत्ऽमते । परि । प्रियेण । धाम्ना ।  
+> यत्र । देवाः । इति । ब्रवन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहन्मते महामते सोम प्रियेण देवानां प्रियतमेन धाम्ना शरीरेण धारया आशुः शीघ्रः सन् परि अर्ष परिगच्छ । यत्र देवाः इंद्रादयो वर्तंते इति ब्रवन ब्रुवन् उच्चारयन् । तां दिशं गच्छामीति ब्रुवन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Bṛhanmati, great-minded Soma, being swift, flow around with the dearest body, the stream, dear to the gods, where the gods, Indra and the others, are, uttering the words "I go to that quarter".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहन्मते (*bṛhanmate*)—O very wise Soma
+- प्रियेण (*priyeṇa*)—dear to the gods
+- धाम्ना (*dhāmnā*)—taking on a body
+- यत्र (*yatra*)—where
+- देवाः (*devāḥ*)—the gods beginning with Indra are
+- इति (*iti*)—thus
+- ब्रवन् (*bravan*)—saying
+- आशुः (*āśuḥ*)—swift of going
+- परि अर्ष (*pari arṣa*)—go quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O very wise Soma, take on the radiant body that is dear to the gods and go quickly to them, saying "Where are Indra and the other gods?"
+
+##### English translation
+Great-minded Soma, go swift with your body that is most dear (to the gods), saying, “ Where are the gods ? ”
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रि॒ष्कृ॒ण्वन्ननि॑ष्कृतं॒ जना॑य या॒तय॒न्निषः॑ ।  
+> वृ॒ष्टिं दि॒वः परि॑ स्रव ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 845. Sūkta 37 Ṛk 1-6, Sūkta 38 Ṛk 1, pp. 840-845
+**Progress note:** Done through printed p. 851. Sūkta 38 Ṛk 1-6, Sūkta 39 Ṛk 1 and start of Ṛk 2, pp. 846-851
