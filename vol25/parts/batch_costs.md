@@ -31,3 +31,4 @@ batch 25 (pp. 416–433): 188,016 tokens
 batch 26 (pp. 434–451): 178,788 tokens
 batch 27 (pp. 452–469): 158,639 tokens
 batch 28 (pp. 470–488): 165,528 tokens
+batch 29 (pp. 489–506): 178,469 tokens
