@@ -13405,6 +13405,286 @@ Bruised with the stones and effused (by the worshippers) you, Soma, enter the fi
 > एषः । तुन्नः । अभिऽस्तुतः । पवित्रम् । अति । गाहते ।  
 > रक्षःऽहा । वारम् । अव्ययम् ॥ २० ॥
 
+### Printed p. 358
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुन्नः । तुद व्यथने । ग्रावभिरभिव्यथितः सुतः अत एव सर्वैः अभिष्टुतः एषः अस्मदीयः सोमः रक्षोहा कर्मविघ्नकारिणां रक्षसां पापानां वा हंताभवत् । अव्ययम् अविमयमव्यवयवभूतं वारं वालं तेन कृतं पवित्रं दशापवित्रम् अति अतिक्रम्य गाहते द्रोणकलशं प्रविशति ॥ ॥ १६ ॥
+
+##### Gist of the bhāṣya
+
+Tunna means pressed and tormented by the grāvan stones; hence praised by all, this Soma of ours becomes the slayer of the rakṣasas who obstruct the rite, or of the sins. The word avyaya is explained as made of the sheep, a constituent part of it; vāra is hair; the filter made of it is the daśā-pavitra; going beyond it, he enters the Droṇa vessel. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुन्नः (*tunnaḥ*)—the one who is pressed
+- अभिष्टुतः (*abhiṣṭutaḥ*)—the one who is praised
+- एषः (*eṣaḥ*)—this Soma-deva
+- रक्षोहा (*rakṣohā*)—as destroyer of the rākṣasas
+- अव्यया (*avyayā*)—of wool **NOTE**
+- वारं (*vāraṃ*)—having fibres
+- पवित्रं (*pavitraṃ*)—the daśā-pavitra
+- अति (*ati*)—crossing
+- गाहते (*gāhate*)—enters the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, pressed and praised, destroyer of all the rākṣasas, crosses the daśā-pavitra with its woollen fibres and enters the Droṇa vessel.
+
+##### English translation
+The (Soma). bruised (with stones), and praised by (all), the slayer of Rakshasas, plunges through the woollen filter (into the vessel). **NOTE**
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदंति॒ यच्च॑ दूर॒के भ॒यं विं॒दति॒ मामि॒ह ।  
+> पव॑मान॒ वि तज्ज॑हि ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अंति । यत् । च । दूरके । भयम् । विंदति । माम् । इह ।  
+> पवमान । वि । तत् । जहि ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान पुनान वा सोम यत् भयम् अंति अंतिके तथा यंच भयं दूरके अतिदूरे देशे अथवा इह अस्मिन् प्रदेशेऽपि भयं मां विंदति लभते प्राप्नोति तत् भयं त्वं वि जहि विशेषेण नाशय । यद्वा । इहेति यज्ञोऽयं लोको वा । अस्मिन् क्रियमाणे यज्ञेऽस्मिँल्लोके वा यद्भयं व्याप्नोति तन्नाशयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, Soma who are being purified or are the purifier: whatever fear finds me, that is, reaches me, near, or at a place very far away, or here in this place also, that fear destroy utterly. Or else: "here" means this sacrifice or this world; whatever fear pervades in this sacrifice that is being performed, or in this world, destroy that. This is the meaning.
+
+### Printed p. 359
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva
+- यत् भयं (*yat bhayaṃ*)—whatever fear
+- अंति (*aṃti*)—nearby
+- यच्च (*yacca*)—and what
+- दूरके (*dūrake*)—in a distance (or)
+- इह (*iha*)—in this place
+- मां (*māṃ*)—me
+- विंदति (*viṃdati*)—approaches
+- तत् (*tat*)—all that
+- वि जहि (*vi jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, whatever fear comes and troubles me from near, from a far place, or from this place, destroy all that fear completely.
+
+##### English translation
+Whatever fear seizes me, near, afar off, or here, purified (Soma), dispel that (fear).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानः॒ सो अ॒द्य नः॑ प॒वित्रे॑ण॒ विच॑र्षणिः ।  
+> यः पो॒ता स पु॑नातु नः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । सः । अद्य । नः । पवित्रेण । विऽचर्षणिः ।  
+> यः । पोता । सः । पुनातु । नः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः तादृशः प्रसिद्धः विचर्षणिः सर्वस्य द्रष्टा पवमानः अद्य इदानीमेव पवित्रेण पापशोधकेन तेजसा नः अस्मान् पुनातु पापरहितान् करोतु ॥
+> पवित्रेष्ट्यां प्रथमाज्यभागस्य याज्या ‘ यत्ते पवित्रम् ' इत्येषा । सूत्रितं च -- यत्ते पवित्रमर्चिष्या कलशेषु धावतीति पवित्र इत्येते ( आश्व. श्रौ. २. १२ ) इति ॥
+
+##### Gist of the bhāṣya
+
+That well-known Pavamāna, the seer of all, today, even now, with his sin-cleansing brilliance, may he purify us, make us free from sin. Viniyoga: in the Pavitreṣṭi, the yājyā of the first ājyabhāga is this Ṛk beginning यत्ते पवित्रम् (*yatte pavitram*); and it is stated in the sūtra यत्ते पवित्रमर्चिष्या कलशेषु धावतीति पवित्र इत्येते (*yatte pavitramarciṣyā kalaśeṣu dhāvatīti pavitra ityete*) (Āśv. Śrau. 2. 12) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the well-known
+- विचर्षणिः (*vicarṣaṇiḥ*)—who has excellent vision
+- पवमानः (*pavamānaḥ*)—Soma, who is the purifier
+- अद्य (*adya*)—today
+- पवित्रेण (*pavitreṇa*)—by his own purifying brilliance
+- नः (*naḥ*)—us
+- पुनातु (*punātu*)—may he purify
+
+### Printed p. 360
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the well-known, who has excellent vision and is the purifier, may today purify us by his own purifying brilliance.
+
+##### English translation
+May that purified Soma, the beholder of all, who is the purifier, purify us now by his purifying (might).
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ प॒वित्र॑म॒र्चिष्यग्ने॒ वित॑तमं॒तरा ।  
+> ब्रह्म॒ तेन॑ पुनीहि नः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । पवित्रम् । अर्चिषि । अग्ने । विऽततम् । अंतः । आ ।  
+> ब्रह्म । तेन । पुनीहि । नः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमानगुणविशिष्ट अग्ने ते त्वदीयं पवित्रं शोधकं यत् स्वतेजः अर्चिषि सौरवैद्युतादितेजसि अंतः मध्ये आ विततम् आविस्तृतं विद्यते । यद्वा । हे अग्ने ते तव स्वभूतेऽर्चिषि तेजस्यंतर्मध्ये यत्पवित्रं शुद्धयुत्पादकं सामर्थ्यमस्ति । तेन तादृशेन तेजसा ब्रह्म पुत्रादिवर्धनकारि नः शरीरं पुनीहि पापरहितं पूतं कुरु ।
+
+##### Gist of the bhāṣya
+
+O Agni, endowed with the qualities of Pavamāna, your purifying power, that is, your own brilliance, is spread within the flame, the brilliance of the sun, lightning and the rest, in the midst of it. Or else: O Agni, within your own flame, your brilliance, there is the power that produces purity; with such brilliance purify our body, which increases sons and the rest; make it free from sin, cleansed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- पवित्रं (*pavitraṃ*)—purifying
+- यत् (*yat*)—which brilliance
+- अर्चिषि अंतः (*arciṣi aṃtaḥ*)—in the midst of the lights of the sun and the rest
+- आ विततं (*ā vitataṃ*)—is spread widely
+- तेन (*tena*)—by that brilliance
+- ब्रह्म (*brahma*)—which increases offspring, sons and the rest
+- नः (*naḥ*)—our bodies
+- पुनीहि (*punīhi*)—purify
+
+### Printed p. 361
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by that purifying brilliance of yours which is spread widely in the midst of the lights of the sun and the rest, purify our bodies, which increase offspring, sons and the rest.
+
+##### English translation
+Purify, Agni, our divine (body) with your purifying (light), which is diffused in the midst of the light.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the first ājyabhāga is offered in the Pavitreṣṭi, this Ṛk beginning यत्ते पवित्रं (*yatte pavitraṃ*) is to be recited as the yājyā mantra; this is explained in the Āśvalāyana-śrauta-sūtra by the sūtra यत्ते पवित्रमर्चिष्या कलशेषु धावतीति पवित्र इत्येते (*yatte pavitramarciṣyā kalaśeṣu dhāvatīti pavitra ityete*) (Ā. Sū. 2-12).
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ प॒वित्र॑मर्चि॒वदग्ने॒ तेन॑ पुनीहि नः ।  
+> ब्र॒ह्म॒स॒वैः पु॑नीहि नः ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । पवित्रम् । अर्चिऽवत् । अग्ने । तेन । पुनीहि । नः ।  
+> ब्रह्मऽसवैः । पुनीहि । नः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पवित्रं शोधकम् अर्चिवत् अर्चिर्वत् । ‘ छंदसीरः' इति मतुपो वत्वम् । सौरादितेजोयुक्तं ते त्वदीयं यत् तेजो विद्यते तेन स्वीयेनैव तेजसा नः अस्मान् पुनीहि पूतान् कुरु । किंच ब्रह्मसवैः ब्राह्मणकर्तृकसोमाभिषवैः । यद्वा । ब्रह्म सोमः । तस्याभिषवैः नोऽस्मान् पुनीहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the purifier, possessing flame; your brilliance that exists, joined with the brilliance of the sun and the rest: with that very brilliance of your own purify us, make us cleansed. Moreover, with the brahmasavas, the Soma-pressings made by the brāhmaṇas. Or else: brahma is Soma; with its pressings purify us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पवित्रं (*pavitraṃ*)—and purifying
+- अर्चिवत् (*arcivat*)—and possessing brilliance
+- ते (*te*)—your
+- यत् (*yat*)—whatever light there is
+- तेन (*tena*)—by it
+- नः (*naḥ*)—us
+- पुनीहि (*punīhi*)—purify
+- ब्रह्मसवैः (*brahmasavaiḥ*)—by the Soma-pressings
+- नः (*naḥ*)—us
+- पुनीहि (*punīhi*)—purify
+
+### Printed p. 362
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, with whatever light of yours there is, which is purifying and brilliant, purify us. Purify us with the Soma-pressings.
+
+##### English translation
+Purify us, Agni, with your purifying (light) which possesses the light; purify us with the effusions of the Soma.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च ।  
+> मां पु॑नीहि वि॒श्वतः॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभाभ्याम् । देव । सवितः । पवित्रेण । सवेन । च ।  
+> माम् । पुनीहि । विश्वतः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः सर्वस्य प्रेरक हे देव द्योतमान सोम त्वं पवित्रेण पापशोधकेन त्वदीयेन तेजसा सवेन सोसाभिषवेण च एताभ्याम् उभाभ्यां विश्वतः सर्वतः मां पुनीहि पूतं कुरु ॥ ॥ १७ ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, impeller of all, O Deva, shining Soma, with your sin-cleansing brilliance and with the Soma-pressing, with these two, purify me on every side, make me cleansed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O impeller of all
+- देव (*deva*)—O Soma-deva, who are divine in nature
+- पवित्रेण (*pavitreṇa*)—and by your purifying brilliance
+- सवेन च (*savena ca*)—and by the Soma-pressing
+- उभाभ्यां (*ubhābhyāṃ*)—by these two rites
+- विश्वतः (*viśvataḥ*)—on every side
+- मां (*māṃ*)—me
+- पुनीहि (*punīhi*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, impeller of all, divine in nature, purify me on every side both by your purifying brilliance and by the Soma-pressing, by these two rites.
+
+### Printed p. 363
+
+##### English translation
+Shining (Soma), urger of all things, purify me by both, by your purifying (light) and by the effusion (of the Soma); purify me in every way.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒भिष्ट्वं दे॑व सवित॒र्वर्षि॑ष्ठैः सोम॒ धाम॑भिः ।  
+> अग्ने॒ दक्षैः॑ पुनीहि नः ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिऽभिः । त्वम् । देव । सवितः । वर्षिष्ठैः । सोम । धामऽभिः ।  
+> अग्ने । दक्षैः । पुनीहि । नः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव स्तुत्य दीप्यमान वा हे सवितः सर्वस्य स्वस्वकर्मणि चोदयितर्हे सोम पवमानगुणविशिष्ट हे अग्ने त्वं वर्षिष्ठैः वृद्धतमैः अत एव दक्षैः सामर्थ्यवद्भिः त्रिभिः धामभिः शरीरैः अग्निवायुसूर्यात्मकैस्त्रिभिः शरीरैः नः अस्मान् पुनीहि परिशुद्धान् कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Deva, praiseworthy or shining; O Savitṛ, impeller of all each to his own work; O Soma, endowed with the qualities of Pavamāna; O Agni: you, with the three bodies, the most grown and therefore capable and powerful, the three bodies of the nature of Agni, Vāyu and Sūrya, purify us, make us wholly cleansed. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O divine-natured
+- सवितः (*savitaḥ*)—impeller of all
+- सोम (*soma*)—and purifier
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- वर्षिष्ठैः (*varṣiṣṭhaiḥ*)—most worshipful
+- दक्षैः (*dakṣaiḥ*)—and capable
+- त्रिभिः धामभिः (*tribhiḥ dhāmabhiḥ*)—by your three kinds of bodies, of the nature of Agni, Vāyu and Sūrya
+- नः (*naḥ*)—us
+- पुनीहि (*punīhi*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, divine in nature, impeller of all, purifier, purify us with your three kinds of bodies, of the nature of Agni, Vāyu and Sūrya, which are most worshipful and capable.
+
+##### English translation
+Purify us, shining Agni Pavamana, urger of all things, with your three most mighty powerful forms.
+
 ---
 
-**Progress note:** Done through printed p. 357. Sūkta 67 Ṛk 13 to 20 (pp. 352-357)
+**Progress note:** Done through printed p. 363. Sūkta 67 Ṛk 20 to 26 (pp. 358-363)
