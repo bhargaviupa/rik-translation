@@ -78,3 +78,7 @@
 - Nov 26 2026 (check of every `[[block: …]]` marker against its label line, all 878 pages; found by batch 15's repair at p. 251): three missing or wrong label lines in the page files: PDF 263 (printed 251) label `ಪ್ರತಿಪದಾರ್ಥ` before the Pada block → `॥ ಪದಪಾಠಃ ॥` (the translator had repaired kn.md with `batch.py fix`); PDF 217 (printed 205, already translated) labels `ಸಂಹಿತಾಪಾಠಃ`/`ಪದಪಾಠಃ` added before its two blocks; PDF 457 (printed 445, not translated yet) label `ಸಾಯಣಭಾಷ್ಯಂ` added before the bhāṣya block. PDF 881 (printed 869) has two consecutive `[[block: samhita]]` markers (two Ṛks): left. The rest of the volume's labels agree with their blocks.
 
 - Nov 26 2026 (user): PDF 748 line 6 `ಸೋಮೈ[?] ಸೋಮನೇ` → `ಸೋಮ—ಎಲೈ ಸೋಮನೇ` (the user typed `ಸೋಮ-ಎಲೈ`; the dash is the em dash of the word-meaning lines).
+
+- Nov 26 2026 (user's readings, late): p399 l3 `ಶತಕ್ರತೋೇಕ[?]` → `ಶತಕೃತೋ ಅನೇಕ`; p407 l2 `ಕರೆ ಆ[?]` → `ಕರೆದು`; p407 l4 `ಪ್ರಾಪ[?]।` → `ತುಷ್ಟಾನ` (from the user's snippet `…ಋಭುಂ ತುಷ್ಟಾನ ಋಭವಸ್ತತ್ಸ…`).
+
+- Nov 26 2026 (translator of batch 17, w0272, Sūkta 87.1 Pratipadārtha): English `like the Gara deer` → `like the Gaura deer` (typo; the headword is गौराविव). Logged hand repair of a committed line.

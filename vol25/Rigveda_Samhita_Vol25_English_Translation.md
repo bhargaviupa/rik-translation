@@ -10905,7 +10905,7 @@ O Aśvins, this seer named Dyumnīka, whose praise does not fail, is your praise
 - मध्वः (*madhvaḥ*)—intoxicating Soma juice
 - प्रियः (*priyaḥ*)—is the dearest. Therefore
 - इरिणे (*iriṇe*)—at a pool or similar water-place, to drink the water
-- गौराविव (*gaurāviva*)—like the Gara deer that come
+- गौराविव (*gaurāviva*)—like the Gaura deer that come
 - पातं (*pātaṃ*)—drink the pressed Soma
 
 ##### भावार्थ (Bhāvārtha)

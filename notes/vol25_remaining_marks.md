@@ -1,41 +1,6 @@
-# Vol 25: the 70 marks that are still open (Nov 26 2026)
+# Vol 25: the 53 marks that are still open (Nov 26 2026)
 
 PDF page = page-file number (printed page = PDF − 12). `⟦?⟧` is the place of the mark.
-
-## PDF p399 (printed 387)
-- line 3 #1 (word): ಶತಕ್ರತೋೇಕ⟦?⟧ ವೀರ್ಯಕರ್ಮಕರ್ತನಾದ ಅಥ
-
-## PDF p407 (printed 395)
-- line 2 #1 (word): ವೂ, ದೇವದೇವನಾದ ಪ್ರಜಾಪತಿಯೂ ಸಕಲದೇವತೆಗಳನ್ನೂ ಕರೆ ಆ⟦?⟧ ಋಭುಗಳಿಗೆ ಅಮೃತತ್ವವು 
-- line 4 #1 (word): ಸುಷಿಕ್ತಸ್ಯಾ ಧೇನೋರ್ವತ್ಸಂ ದೃಷ್ಟ್ವಾ ಋಭುಂ ಪ್ರಾಪ⟦?⟧। ಋಭವಸ್ತತ್ಸ ಪೃಷೀಮನ್ಯ
-
-## PDF p412 (printed 400)
-- line 9 #1 (word): resence all the gods observe their functions,⟦?⟧ and the sun and moo
-
-## PDF p500 (printed 488)
-- line 8 #1 (number): ಯೆಂಬ ಋತ್ವಿಜನು ತ್ರಾಯಂತ ಇವ ಎಂಬ ಪ್ರಗಾಥವನ್ನು (೩-೪⟦?⟧ ಋಕ್ಕುಗಳನ್ನು[?]) ವೈಕ
-- line 8 #2 (word): ್ರಾಯಂತ ಇವ ಎಂಬ ಪ್ರಗಾಥವನ್ನು (೩-೪[?] ಋಕ್ಕುಗಳನ್ನು⟦?⟧) ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯಪ
-
-## PDF p510 (printed 498)
-- line 13 #1 (word): any, hiding treasures in his store house and ⟦?⟧ending wealth (to hi
-
-## PDF p540 (printed 528)
-- line 14 #1 (word): ಸೂರ್ಯ—ಎಲ್ಲೈ ಸೂರ್ಯನೇ ⟦?⟧ | (ತ್ವಂ—ನೀನು) | ಮಹಾ
-- line 14 #2 (word): (ತ್ವಂ—ನೀನು) | ಮಹಾನ್—ತೇಜಸ್ಸಿನಿಂದ ಅಧಿಕನಾಗಿರುವೆ ⟦?⟧ | ಬಟ್—ಇದು ಸತ್ಯವು [?
-- line 14 #3 (word): ೇಜಸ್ಸಿನಿಂದ ಅಧಿಕನಾಗಿರುವೆ [?] | ಬಟ್—ಇದು ಸತ್ಯವು ⟦?⟧ | ಆದಿತ್ಯ—ಅದಿತಿಪುತ್ರ
-- line 14 #4 (word):  | ಬಟ್—ಇದು ಸತ್ಯವು [?] | ಆದಿತ್ಯ—ಅದಿತಿಪುತ್ರನಾದ ⟦?⟧ ಎಲ್ಲೈ ಸೂರ್ಯನೇ [?] |
-- line 14 #5 (word): [?] | ಆದಿತ್ಯ—ಅದಿತಿಪುತ್ರನಾದ [?] ಎಲ್ಲೈ ಸೂರ್ಯನೇ ⟦?⟧ | ಮಹಾನ್—ಬಲದಿಂದಲೂ [?
-- line 14 #6 (word): ್ರನಾದ [?] ಎಲ್ಲೈ ಸೂರ್ಯನೇ [?] | ಮಹಾನ್—ಬಲದಿಂದಲೂ ⟦?⟧ ಅಧಿಕನಾಗಿ [?],
-- line 14 #7 (word): ಲೈ ಸೂರ್ಯನೇ [?] | ಮಹಾನ್—ಬಲದಿಂದಲೂ [?] ಅಧಿಕನಾಗಿ ⟦?⟧,
-
-## PDF p559 (printed 547)
-- line 14 #1 (word): । ವಾಯೋಃ—ವಾಯುವಿನ । ಅನೀಕೇ—ಸಮೀಪದಲ್ಲಿ । ಅಸ್ಥಿರನ್—⟦?⟧ ಪ್ರಜ್ವಲಿಸುವಂತೆ ಮಾಡು
-
-## PDF p592 (printed 580)
-- line 15 #1 (word): ೂಪದಲ್ಲಿ ಹರಿಯುವ ಎಲೈ ಸೋಮನೇ, । ತ್ವಾಂ ಅಚ್ಛ—ನಿನಗೆ ⟦?⟧ ಮುಖವಾಗಿ । ಚರಾಮಸಿ—ನಾ
-
-## PDF p607 (printed 595)
-- line 10 #1 (number): ಸೂಕ್ತ—೩⟦?⟧
 
 ## PDF p758 (printed 746)
 - line 15 #1 (word): o a car these pure juices bring ( to us ) all⟦?⟧ desirable blessings
