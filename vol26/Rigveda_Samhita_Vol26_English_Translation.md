@@ -32900,6 +32900,124 @@ Flow, Soma, who are the giver of food in a stream, when effused, to the filter ;
 
 O purifying Soma, in the sacrifice that bears the various oblations, the mother vasatīvarīs, free from hostility, lick you, the tawny Soma standing in the filter; that is, they taste you. How? As cows lick a newborn calf, so.
 
+### Printed p. 892
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-god
+- धेनवः (*dhenavaḥ*)—the milch cows
+- जातं (*jātaṃ*)—newly born
+- वत्सं न (*vatsaṃ na*)—as they lick the calves
+- विधर्मणि (*vidharmaṇi*)—in the sacrifice, which bears many oblations
+- अद्रुहः (*adruhaḥ*)—free from hostility
+- मातरः (*mātaraḥ*)—and of the nature of mothers, the vasatīvarīs
+- हरिं (*hariṃ*)—green-coloured
+- त्वां (*tvāṃ*)—you
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- रिहंति (*rihaṃti*)—fondly embrace
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, as milch cows lick their newly born calves, so, in the sacrifice that bears many oblations, the vasatīvarīs, free from hostility and of the nature of mothers, fondly embrace you, green-coloured, in the ten-fold filter.
+
+##### English translation
+The innocent maternal (waters) caress you, the green-tinted, upon the filter, O Pavamana, at the sacrifice, as milch cow caress their new-born calf.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान॒ महि॒ श्रव॑श्चि॒त्रेभि॑र्यासि र॒श्मिभिः॑ ।  
+> शर्धं॒तमां॑सि जिघ्नसे॒ विश्वा॑नि दा॒शुषो॑ गृ॒हे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । महि । श्रवः । चित्रेभिः । यासि । रश्मिऽभिः ।  
+> शर्धन् । तमांसि । जिघ्नसे । विश्वानि । दाशुषः । गृहे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान महि महत् श्रवः श्रवणीयमंतरिक्षं चित्रेभिः चित्रैर्नानाविधैश्चायनीयैर्वा रश्मिभिः परि यासि परिगच्छसि । तथा शर्धन् वेगं कुर्वंस्त्वं दाशुषः हविर्दत्तवतो यजमानस्य गृहे स्थित्वा विश्वानि सर्वाणि तमांसि तमोरूपाणि रक्षांसि जिघ्नसे हंसि । एवं द्यावापृथिव्योः वर्तस इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, you traverse the great, audible firmament with your various, wondrous rays. And, hastening, you, standing in the house of the sacrificer who has given the oblation, destroy all darknesses, that is, the rākṣasas that are of the nature of darkness. Thus, he says, you abide in heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-god called Pavamāna
+- महि (*mahi*)—great
+- श्रवः (*śravaḥ*)—the firmament
+- चित्रेभिः (*citrebhiḥ*)—various
+- रश्मिभिः (*raśmibhiḥ*)—with your rays
+- यासि (*yāsi*)—you pervade
+### Printed p. 893
+- शर्धन् (*śardhan*)—you who move swiftly
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- गृहे (*gṛhe*)—who is in the house
+- विश्वानि तमांसि (*viśvāni tamāṃsi*)—all the rākṣasas in the form of darkness
+- जिघ्नसे (*jighnase*)—you destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god called Pavamāna, you pervade the great firmament with your various rays. You, moving swiftly, destroy all the rākṣasas in the form of darkness who are in the house of the sacrificer who offers the oblation.
+
+##### English translation
+Pavamana, you traverse the vast firmament with various rays hastening on you, dispell all Rakshasas at the house of the donor (of the libation).
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं द्यां च॑ महिव्रत पृथि॒वीं चाति॑ जभ्रिषे ।  
+> प्रति॑ द्रा॒पिम॑मुंचथाः॒ पव॑मान महित्व॒ना ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । द्याम् । च । महिऽव्रत । पृथिवीम् । च । अति । जभ्रिषे ।  
+> प्रति । द्रापिम् । अमुंचथाः । पवमान । महिऽत्वना ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महिव्रत महाकर्मन् बहुविधकर्मन् सोम त्वं द्यां द्युलोकं च पृथिवीं च अति जभ्रिष अत्यंतं बिभर्षि ।' डुभृञ् धारणपोषणयोः । तस्य छांदसे लिटि सर्वविधीनां छंदसि विकल्पितत्वादत्रेडागमः । अंतरिक्षे सोमात्मनेति पृथिव्यां लतारूपेणेत्येवं लोकद्वयवर्तित्वम्। हे पवमान क्षरन् सोम त्वं महित्वना महत्त्वेन युक्तः सन् द्रापिं कवचं प्रति अमुंचथाः प्रतिमुंचसि संवृणोषि ॥ ॥ २८ ॥
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये सप्तमाष्टके  चतुर्थोऽध्यायः समाप्तः ॥
+
+##### Gist of the bhāṣya
+
+O Mahivrata, Soma of great and manifold deeds, you bear heaven and earth exceedingly. Thus he shows that Soma exists in the two worlds: in the atmosphere in the form of Soma, and on earth in the form of the plant. O Pavamāna, flowing Soma, endowed with greatness, you put on the dṛāpi, that is, the coat of mail; you cover yourself with it. The verse that follows says: may Vidyātīrtha-Maheśvara, dispelling the darkness of the heart by the light of the meaning of the Veda, grant the four aims of man. The colophon says: thus the fourth adhyāya of the seventh aṣṭaka, in the Ṛk-saṃhitā-bhāṣya, the Mādhavīya Vedārthaprakāśa composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka, the king of kings, supreme lord and promoter of the Vedic path, is completed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिव्रत (*mahivrata*)—O Soma-god who perform great deeds
+- त्वं (*tvaṃ*)—you
+- द्यां च (*dyāṃ ca*)—both the heavenly world
+- पृथिवीं च (*pṛthivīṃ ca*)—and the earthly world
+- अति जभ्रिषे (*ati jabhriṣe*)—you bear exceedingly
+### Printed p. 894
+- पवमान (*pavamāna*)—O Soma-god called Pavamāna
+- महित्वना (*mahitvanā*)—you who are endowed with majesty
+- द्रापिं (*drāpiṃ*)—the coat of mail
+- प्रत्यमुंचथाः (*pratyamuṃcathāḥ*)—you put on
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god who perform great deeds, you bear the heavenly world and the earthly world exceedingly. O Soma-god called Pavamāna, you who are endowed with majesty put on the coat of mail.
+
+##### English translation
+Observer of manifold**NOTE** rites, you support both heaven and earth ; O Pavamana, (who are endowed) with greatness, you put on your coat of mail.
+
+By the light of the meaning of the Veda dispelling the darkness of the heart, may Vidyātīrtha-Maheśvara grant the four aims of man.
+
+Thus ends the fourth adhyāya, in the seventh aṣṭaka, of the Ṛk-saṃhitā-bhāṣya, the Vedārthaprakāśa of the Mādhava school, composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka, the king of kings, the supreme lord, the promoter of the Vedic path.
+
+Om, Tat, Sat.
+
+Here ends the fourth adhyāya, in the seventh aṣṭaka, of the Ṛgveda-saṃhitā with the commentary of Śrī Sāyaṇa and a translation into the Karṇāṭaka language.
+
+Whatever has fallen from syllable or word, or whatever is lacking in measure**NOTE**, may all that be forgiven, O God, Lord of Speech; salutation to you.
+
+May there be auspiciousness.
+
 ---
 
-**Progress note:** Done through printed p. 891. Sukta 100 Rk 1-7 (pp. 886-891)
+**Progress note:** Done through printed p. 894. Sukta 100 Rk 7-9, colophon (pp. 892-894)
