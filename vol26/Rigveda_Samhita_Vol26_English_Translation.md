@@ -28316,6 +28316,207 @@ Sing (to the Soma), let us praise the gods ; send forth the Soma for (the acquir
 स्वादुः अव्यं वारं पवते (*svāduḥ avyaṃ vāraṃ pavate*)—Here अव्यं (*avyaṃ*) means related to sheep, that is, made of the fleece of a sheep. वारं (*vāraṃ*) means the vessel for filtering called the filter, covered with it. They spread a thin layer of sheep's fleece or wool over a vessel and make the pressed juice flow and fall over it. When this Soma juice crosses that layer of wool, the impurities in it, such as the husks, remain on the wool itself, and only the clear juice goes into the vessel and stands there. It is like filtering ghee or oil through a wire mesh. This filtering of the Soma juice is described in many Ṛks.
 आ सीदाति कलशं देवयुः नः (*ā sīdāti kalaśaṃ devayuḥ naḥ*)—देवयुः (*devayuḥ*) means the Soma that desires the gods, that is, the Soma juice that is ready to be offered to the gods. The purport is that such a Soma juice crosses the woollen mesh and stands in the vessel or pot below.
 
+### Printed p. 757
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॑र्दे॒वाना॒मुप॑ स॒ख्यमा॒यन्स॒हस्र॑धारः पवते॒ मदा॑य ।  
+> नृभिः॒ स्तवा॑नो॒ अनु॒ धाम॒ पूर्व॒मग॒न्निंद्रं॑ मह॒ते सौभ॑गाय ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । देवानां । उप । सख्यं । आयन् । सहस्रधारः । पवते । मदाय ।  
+> नृभिः । स्तवानः । अनु । धाम । पूर्वं । अगन् । इंद्रं । महते । सौभगाय ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानामिंद्रादीनां सख्यं सखिभावमुपायन्नु पगच्छन् सहस्रधारो
+> बहुविधधार इंदुः सोमो मदाय देवानां मदार्थं पवते । कलशादिषु क्षरति ।
+> नृभिः कर्मनेतृभिः स्तवानः स्तूयमानः सोमः पूर्वं पुरातनं धाम द्युलोकमनुगच्छति । तदेवाह । महते प्रभूताय सौभगाय सौभाग्ययेंद्रमगन् । गच्छति ।
+> सोम इंद्रेण पीते सति यजमानानां महत्सौभाग्यं भवति खलु ॥ अगन् ।
+> गमेर्लुजि मंत्रे घसेति चेर्लुक् । मो नो धातोरिति नत्वं ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is Soma, having a thousand streams, that is, streams of many kinds, comes to obtain the friendship of the gods Indra and the others, and flows for the exhilaration of the gods, that is, he streams into the vessels and the like. Praised by the priests, the leaders of the rite, Soma follows to his ancient abode, the world of heaven. This he says further: he goes to Indra for great, abundant good fortune of the sacrificers; for when Soma has been drunk by Indra, great good fortune comes to the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of the gods Indra and the others
+- सख्यं (*sakhyaṃ*)—friendship
+- उपायन् (*upāyan*)—desiring to obtain
+- सहस्रधारः (*sahasradhāraḥ*)—having many streams
+- इंदुः (*iṃduḥ*)—Soma
+- मदाय (*madāya*)—for delight
+- पवते (*pavate*)—flows
+- नृभिः (*nṛbhiḥ*)—by the priests
+- स्तवानः (*stavānaḥ*)—Soma, who is praised
+- पूर्वं धाम (*pūrvaṃ dhāma*)—his ancient world of heaven
+- अनु (*anu*)—enters
+- महते (*mahate*)—abundant
+- सौभगाय (*saubhagāya*)—for welfare
+- इंद्रं अगन् (*iṃdraṃ agan*)—approaches and goes to Indra
+
+##### भावार्थ (Bhāvārtha)
+
+Desiring to obtain the friendship of Indra and the other gods, Soma flows in many streams for the delight of the gods. Praised by the priests, Soma enters his ancient world of heaven. For abundant welfare he approaches and goes to Indra.
+
+### Printed p. 758
+
+##### English translation
+Indu coming to obtain the friendship of the gods flows in a thousand streams for (their) exhilaration ; glorified by the priests (he proceeds) to his ancient station, he proceeds to Indra for the sake of great prosperity (to the worshippers).
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्रधारः इंदुः देवानां सॆख्यं उप आयन् मदाय पवते (*sahasradhāraḥ iṃduḥ devānāṃ sèkhyaṃ upa āyan madāya pavate*)—Here sahasra means many. When the Soma plants are crushed with stones, the juice that oozes from those plants comes trickling from many places; or the juice thus issuing from the plants flows in many directions, that is, in many streams, toward the filtering vessel. Such juice, desiring the friendship of Indra and the other gods, that is, for their drinking and to bring them delight, flows and goes to settle in the vessels and the like: this is the purport.
+
+नृभिः स्तवानः पूर्व धाम अनु अगन् (*nṛbhiḥ stavānaḥ pūrva dhāma anu agan*)—Praised by the leaders of the rite, that is, by the priests such as the Adhvaryu who perform the many kinds of ancillary acts in the sacrifice, with the recitation of the mantras proper to the time at all three pressings, he reaches his former station, the world of heaven. That is, at all three pressings, when the Soma juice is pressed out, the priests recite mantras and praise Soma. Afterwards they offer that Soma as an oblation in the fire in the sacrifice and make it reach the gods. Since the gods come from heaven to the place of sacrifice and, after the sacrifice, return again to heaven, the Soma juice drunk by them has reached heaven. According to the scriptural statement तृतीयस्यामितो दिवि सोम आसीत् (*tṛtīyasyāmito divi soma āsīt*) the Soma plant was formerly in heaven alone; it was not on the earth. The falcon (Śyena) bird brought it to the earth. Therefore Soma's पूर्वं धाम (*pūrvaṃ dhāma*), his former abode, is heaven. It is said here that the Soma juice, whose former abode is heaven, followed the gods, that is, entered their bellies, and went to heaven itself.
+
+इंद्रं महते सौभगाय (*iṃdraṃ mahate saubhagāya*)—सोम इंद्रेण पीते सति यजमानानां महत्सौभाग्यं भवति खलु (*soma iṃdreṇa pīte sati yajamānānāṃ mahatsaubhāgyaṃ bhavati khalu*). If Indra comes to the sacrifices and drinks the Soma, great good fortune comes to the sacrificers thereby, that is, wealth, grain and the like, cattle, prosperity, everything is obtained; the purport is that Indra, pleased with the drinking of Soma, gives the sacrificers every kind of wealth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तो॒त्रे रा॒ये हरि॑रर्षा पुना॒न इंद्रं॒ मदो॑ गच्छतु ते॒  ॑
+> भराय ।
+
+### Printed p. 759
+
+> देव्यर्याहि सरथं राधो अच्छा यूयं पात स्वस्तिभिः सदा  
+> नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोत्रे । राये । हरिः । अर्ष । पुनानः । इंद्रं । मदः । गच्छतु । ते । भराय ।  
+> देवैः । याहि । सऽरथं । राधः । अच्छ । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम हरिर्हरितवर्णः पुनानः पूयमानस्त्वं स्तोत्रेऽस्माभिः क्रियमाणे सति राये धनार्थमर्ष । आगच्छ । ततस्ते त्वदीयो मदो मदकरो रसो
+> भराय ॥ भ्य भर्त्सने ॥ भर्त्सयंति शत्रुनत्र योद्धार इति भरः संग्रामः । तदर्थमिंद्रं गच्छतु । किंच सरथं देवैः समानं रथमास्थाय राधोच्छास्माकं धनार्थं
+> याहि । आगच्छ । यूयं नोऽस्मान् स्वस्तिभिः सदा पात । त्वं रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Soma, green-hued and being purified, when praise is offered by us, flow, that is, come, for wealth. Then may your exhilarating juice go to Indra for battle; here Sāyaṇa explains that warriors here threaten their enemies, hence bhara is battle. Moreover, mounting a chariot shared with the gods, come to us for our wealth. You protect us always with blessings. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) हरिः (*hariḥ*)—green-hued
+- पुनानः (*punānaḥ*)—who attains purity, you who are such
+- स्तोत्रे (*stotre*)—at the time of our recitation of praise
+- राये (*rāye*)—for wealth
+- अर्ष (*arṣa*)—flow and come
+- ते (*te*)—your
+- मदः (*madaḥ*)—the exhilarating juice
+- भराय (*bharāya*)—for battle
+- इंद्रं (*iṃdraṃ*)—Indra
+- गच्छतु (*gacchatu*)—may it go and reach
+- देवै? (*devai?*)—with the gods **NOTE**
+- सरथं (*sarathaṃ*)—mounting the same chariot
+- राधः अच्छ (*rādhaḥ accha*)—to provide us with wealth
+- याहि (*yāhi*)—be pleased to come
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, green-hued and purified, flow and come for wealth at the time of our recitation of praise. May your exhilarating juice go and reach Indra for battle. Mounting the same chariot as the gods, be pleased to come to provide us with wealth. Protect us always with blessings.
+
+##### English translation
+(Soma), when our praise is offered, flow green-tinted aud**NOTE** purified, to (bring us) riches, may your exhilarating beverage animate Indra to battle.
+
+### Printed p. 760
+
+Go in the same car with the gods to (procure us) wealth ; do you ever protect us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्तोत्रे राये हरिः अर्ष पुनानः (*stotre rāye hariḥ arṣa punānaḥ*)—When the Soma juice is pressed, it is हरिः (*hariḥ*), that is, of a green (pacce) colour. Such Soma juice, purified in the ten-fold filter and praised by us for the sake of wealth, comes flowing.
+
+इंद्रं मदो गच्छतु ते भराय (*iṃdraṃ mado gacchatu te bharāya*)—O Soma, may your intoxicating juice go to Indra to make him full of zeal in battle; that is, the meaning is that Indra should drink the intoxicating Soma juice so that zeal may arise in battle. For the word भराय (*bharāya*) here the commentator gives the etymological meaning: भर्त्सयंति शत्रूनत्र योद्धार इति भरः संग्रामः (*bhartsayaṃti śatrūnatra yoddhāra iti bharaḥ saṃgrāmaḥ*). That is, on the battlefield the warriors disparage their enemies by speaking heroic words, and so bhara means battle.
+
+देवैः सरथं राधः अच्छ याहि (*devaiḥ sarathaṃ rādhaḥ accha yāhi*)—O Soma, when the gods come to the place of sacrifice to give us wealth, you too, seated with them in the same chariot, come to us: thus the seer prays.
+
+यूयं पात स्वस्तिभिः सदा नः (*yūyaṃ pāta svastibhiḥ sadā naḥ*)—O gods, protect us always with blessings: reciting this sentence the seer has brought the sūkta to a close. This sentence occurs at the close of many sūktas of the seventh maṇḍala, seen by the seer Vasiṣṭha. Therefore the seer Indrapramati, of the Vasiṣṭha family, the seer of these three Ṛks (4-6), recited this sentence in this Ṛk, which is a conclusion, as his forefathers did.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र काव्य॑मु॒शने॑व ब्रुवा॒णो दे॒वो दे॒वानां॒ जनि॑मा विवक्ति ।  
+> महि॑व्रतः॒ शुचि॑बंधुः पाव॒कः प॒दा व॑रा॒हो अ॒भ्ये॑ति॒ रेभ॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । काव्यं । उशनाइव । ब्रुवाणः । देवः । देवानां । जनिम । विवक्ति ।  
+> महित्व्रतः । शुचिबंधुः । पावकः । पदा । वराहः । अभि । एति । रेभन् ॥ ७ ॥
+
+### Printed p. 761
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उशनेवैतन्नामक ऋषिरिव काव्यं कविकर्म स्तोत्रं ब्रुवाण उच्चारयन्
+> देवः स्तोतायमृषिर्वृषगणो नाम देवानामिंद्रादीनां जनिम जन्मानि प्र विवक्ति ।
+> प्रकर्षेण ब्रवीति ॥ वच परिभाषणे । व्यत्ययेन विकरणस्य श्लुः । बहुलं छंदसीत्यभ्यासस्यॆत्वं ॥ महिव्रतः प्रभूतकर्मा शुचिबंधुः । बध्नंति शत्रुनिति बंधूनि तेजांसि
+> बलानि वा! दीप्ततेजस्कः पावकः पापानां शोधको वरादः । वरं च तदहश्च वराहः॥
+> राजाहःसखिभ्यष्टजिति टच् समासांतः ॥ तस्मिन्नहन्यभिषूयमाणत्वेन तद्वान् ॥ अर्श
+> आदित्वान्मत्वर्थीयोऽच् ॥ तादृशः सोमो रेभञ्छब्दं कुर्वनदा पदानि स्थानानि
+> पात्राण्यभ्येति । अभिगच्छति । यद्वा । यथा कश्चन वराहः पदा पादेन भूमिं
+> विक्रममाणः शब्दं करोति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Like the seer named Uśanā, uttering a kāvya, that is, a praise, the work of a poet, the god, this praising seer named Vṛṣagaṇa, proclaims the births of the gods Indra and the others; he declares them at length. Mahivrataḥ means of great deeds. Śucibandhuḥ: the bandhūni are the splendours or powers that bind the enemies; he is of blazing splendour. Pāvakaḥ is the purifier of sins. Varāhaḥ: that which is excellent and is a day is varāha, and because he is pressed on that day, he is possessed of it. Such a Soma, making a sound, goes to the places, that is, to the vessels. Or else, as a boar, treading the earth with its foot, makes a noise, so does Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशनेव (*uśaneva*)—like the seer named Uśanā
+- काव्यं (*kāvyaṃ*)—excellent praise
+- ब्रुवाणः (*bruvāṇaḥ*)—reciting
+- देवः (*devaḥ*)—Vṛṣagaṇa, the praiser
+- देवानां (*devānāṃ*)—of the gods Indra and the others
+- जनिम (*janima*)—the order of origin
+- प्र विवक्ति (*pra vivakti*)—praises
+- पदा (*padā*)—when it sets its feet
+- वराह (*varāha*)—as a boar makes a noise
+- महिव्रतः (*mahivrataḥ*)—of excellent action
+- शुचिबंधुः (*śucibaṃdhuḥ*)—of shining splendour
+- पावकः (*pāvakaḥ*)—Soma, who is also pure
+- रेभन् (*rebhan*)—making a noise
+- अभ्येति (*abhyeti*)—approaches the ten-fold filter
+
+##### भावार्थ (Bhāvārtha)
+
+Reciting excellent praise like the seer named Uśanā, Vṛṣagaṇa, the praiser, praises the order of origin of Indra and the other gods. Making a noise as he flows like a boar, Soma, who is of excellent action, of shining splendour and pure, approaches the ten-fold filter, making a noise.
+
+##### English translation
+Reciting sacred praise like Ushanas the praiser (Vrishagana) proclaims the births of the gods ; assiduous in pious observances, of brilliant radiance, purifying (from sin), he approaches the filter making a noise (as) a wild boar (makes a noise) with its foot.
+
+##### विशेषविषयगळु (Special Topics)
+
+उशनेव काव्यं (*uśaneva kāvyaṃ*)—Reciting excellent praise like the seer named Uśanā: thus the comparison with the seer Uśanā is given here. This seer Uśanā is the son of the seer called Kavi.
+
+### Printed p. 762
+
+This seer's name is recited in the Ṛgveda-saṃhitā in the following Ṛks: 1-51-10; 1-83-5; 1-121-12; 4-16-2; 4-26-1; 6-20-11; 8-23-17; 9-87-3; 9-97-7; 10-40-7; 1-130-9; 5-31-8; 5-34-2; 8-7-26; 10-22-6. Besides, in the Taittirīya Saṃhitā:
+
+अग्निर्देवानां दूत आसीदुशना काव्योऽसुराणां तौ प्रजापतिं प्रश्नमैताग्ं स प्रजापतिरग्निं दूतं वृणीमह इत्यभिपर्यावर्तत ततो देवा अभवन्सरासुराः । (*agnirdevānāṃ dūta āsīduśanā kāvyo 'surāṇāṃ tau prajāpatiṃ praśnamaitāgṃ sa prajāpatiragniṃ dūtaṃ vṛṇīmaha ityabhiparyāvartata tato devā abhavansarāsurāḥ |*) (Tai. Saṃ. 2-5-8-5)
+
+In former times, Agni was the messenger of the gods, to carry the oblations and the like offered in the sacrifices by the sacrificers to the deities for whom they were intended. In the same way, in the matter of the Asuras, Uśanā, the son of Kavi, was the messenger. When it was so, Agni and Uśanā both went to Prajāpati and asked which of the two of them was capable of bearing the duty of messenger. Prajāpati said अग्निं दूतं वृणेमहे (*agniṃ dūtaṃ vṛṇemahe*), "we choose Agni himself as messenger." Therefore the gods, pleased by Agni's carrying of the oblations, became victorious in all battles, and the Asuras were defeated: so it is said.
+
+This seer is mentioned in the Atharvaveda 4-29-6; Pañcaviṃśa-brāhmaṇa 7-5-20; 14-12-5; Jaiminīya Upaniṣad-brāhmaṇa 2-7-2-6; Sāṅkhyāyana Śrauta-sūtra 14-23-1 and other places.
+
+वराहः (*varāhaḥ*)—In this Ṛk the commentator gives two kinds of meaning for the word varāha. वरं च तदहश्च वराहः (*varaṃ ca tadahaśca varāhaḥ*): the meaning is "on an excellent day". Or varāha means a particular animal (the boar). यथा कश्चन वराहः पादेन भूमिं शब्दं करोति तद्वत् । (*yathā kaścana varāhaḥ pādena bhūmiṃ śabdaṃ karoti tadvat |*) The purport is that as a boar digs the earth with its feet and makes a noise, so the Soma juice flows to the vessels making a noise.
+
+The word varāha has many meanings, such as cloud; and in order to state the etymology of this word, Yāska took the Ṛk Ṛ. Saṃ. 8-77-10 as an example and explained that Ṛk in two ways, from the Nirukta side and from the spiritual side (see Part 25, pp. 171-172). Besides, there is a narrative that there was an Asura named Varāha and that Indra slew him; Viṣṇu too has a part in it. In this matter the history told in the Caraka-brāhmaṇa is described here.
+
 ---
 
-**Progress note:** Done through printed p. 756. Sūkta 97 Ṛks 2-4, Special Topics on asme
+**Progress note:** Done through printed p. 762. Sukta 97 Rks 5-7 (pp. 757-762)
