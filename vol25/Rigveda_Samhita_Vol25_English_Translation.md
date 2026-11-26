@@ -34921,6 +34921,286 @@ Great-minded Soma, go swift with your body that is most dear (to the gods), sayi
 > प॒रि॒ष्कृ॒ण्वन्ननि॑ष्कृतं॒ जना॑य या॒तय॒न्निषः॑ ।  
 > वृ॒ष्टिं दि॒वः परि॑ स्रव ॥ २ ॥
 
+### Printed p. 852
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिऽकृण्वन् । अनिःऽकृतम् । जनाय । यातयन् । इषः ।  
+> वृष्टिम् । दिवः । परि । स्रव ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनिष्कृतम् असंस्कृतं यजमानं स्थानं वा परिष्कृण्वन् संस्कुर्वन् जनाय यागकर्त्रे इषः अन्नानि यातयन् निर्गमयन् दिवः अंतरिक्षात् वृष्टिं परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes: Soma, sanctifying (अनिष्कृतम् (*aniṣkṛtam*)) the unconsecrated, that is, the worshipper or the place, making the offerer (जनाय (*janāya*)) obtain foods (इषः (*iṣaḥ*)), bringing them out, pour down (परि स्रव (*pari srava*)) rain from heaven, that is, from the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनिष्कृतं (*aniṣkṛtaṃ*)—(O Soma) the unconsecrated worshipper, or the impure place
+- परिष्कृण्वन् (*pariṣkṛṇvan*)—making pure
+- जनाय (*janāya*)—for the worshipper who performs the sacrifice
+- इषः (*iṣaḥ*)—foods
+- यातयन् (*yātayan*)—providing
+- दिवः (*divaḥ*)—from the atmosphere
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- परि स्रव (*pari srava*)—pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, making pure the unconsecrated or impure worshipper or place, and providing food for the performer of the sacrifice, pour down rain from the atmosphere.
+
+##### English translation
+Sanctifying the unconsecrated (worshipper) bringing food for the offerer, pour down rain from heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒त ए॑ति प॒वित्र॒ आ त्विषिं॒ दधा॑न॒ ओज॑सा ।  
+> वि॒चक्षा॑णो विरो॒चय॑न् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतः । एति । पवित्रे । आ । त्विषिम् । दधानः । ओजसा ।  
+> विऽचक्षाणः । विऽरोचयन् ॥ ३ ॥
+
+### Printed p. 853
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतः अभिषुतः सोमः सन् पवित्रे दशापवित्रे । आ इत्यनर्थकः । ओजसा बलेन शीघ्रम् एति गच्छति । कीदृशः सन् । त्विषिं दीप्तिं दधानः धारयन् विचक्षाणः सर्वं पश्यन् विरोचयन् दीपयंश्च । किम् । देवानिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The Soma, having been pressed, goes quickly with force to the filter, the daśāpavitra; the word आ (*ā*) has no meaning. Of what kind is he? Bearing radiance (त्विषिं (*tviṣiṃ*)), seeing everything, and illuminating. Whom does he illuminate? The gods, which is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—this pressed Soma juice
+- त्विषिं (*tviṣiṃ*)—radiance
+- दधानः (*dadhānaḥ*)—bearing
+- विचक्षाणः (*vicakṣāṇaḥ*)—seeing everything
+- विरोचयन् (*virocayan*)—making the gods and others shine
+- ओजसा (*ojasā*)—by his own strength
+- पवित्रे (*pavitre*)—to the daśāpavitra
+- आ एति (*ā eti*)—go
+
+##### भावार्थ (Bhāvārtha)
+
+This pressed Soma juice, shining with his own radiance, seeing everything, and making the gods and others shine, flows by his own strength to the daśāpavitra.
+
+##### English translation
+(The Soma) when effused enters the filter with force, giving forth light, beholding and illuminating (all things).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स यो दि॒वस्परि॑ रघु॒यामा॑ प॒वित्र॒ आ ।  
+> सिंधो॑रू॒र्मा व्यक्ष॑रत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । सः । यः । दिवः । परि । रघुऽयामा । पवित्रे । आ ।  
+> सिंधोः । ऊर्मा । वि । अक्षरत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सः सोमः पवित्रे आ सिच्यमान इति शेषः । सिंधोः जलस्राविण्याः ऊर्मा ऊर्मौ संघाते व्यक्षरत् विविधं क्षरति । स इत्युक्तं क इत्याह । यो दिवस्परि द्युलोकस्योपरि रघुयामा लघुगमनो देवप्राप्तौ सोऽयमिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, being poured (to be supplied) into the filter, flows variously (व्यक्षरत् (*vyakṣarat*)) into the stream, the mass of a water-flowing river. Who is this "he"? He who is above the heaven, the world of the sky, of light movement (रघुयामा (*raghuyāmā*)), for reaching the gods; this very one is meant, thus the connection.
+
+### Printed p. 854
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- दिवः परि (*divaḥ pari*)—above the heavenly world
+- रघुयामा (*raghuyāmā*)—who approaches the gods with easy movement
+- अयं सः (*ayaṃ saḥ*)—this very Soma
+- सिंधोः (*siṃdhoḥ*)—of the sea
+- ऊर्मा (*ūrmā*)—as drops of water fall on the waves
+- पवित्रे (*pavitre*)—upon the daśāpavitra
+- आ (सिच्यमानः) (*ā (sicyamānaḥ)*)—falls in drops
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, which goes to the gods above the heaven, falls in drops upon the daśāpavitra as drops fall upon the waves of the sea.
+
+##### English translation
+This (Soma), who light of movement (mounts) to heaven, flows through the filter in a stream of water.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒विवा॑सन्परा॒वतो॒ अथो॑ अर्वा॒वतः॑ सु॒तः ।  
+> इंद्रा॑य सिच्यते॒ मधु॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आऽविवासन् । पराऽवतः । अथो इति । अर्वाऽवतः । सुतः ।  
+> इंद्राय । सिच्यते । मधु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतः अभिषुतः सोमः परावतः । दूरनामैतत् । दूरस्थान् अथो अपि च अर्वावतः अंतिकस्थांश्च देवान् आविवासन् । रसेन परिचरणायेत्यर्थः । इंद्राय इंद्रार्थं मधु मधुसदृशः सोमः सिच्यते ॥
+
+##### Gist of the bhāṣya
+
+The Soma, having been pressed, attending the gods, those far away (परावतः (*parāvataḥ*), a name for "far") and also those near (अर्वावतः (*arvāvataḥ*)), with his juice, that is, to serve them, is poured for Indra, for Indra's sake, as madhu, the Soma that is like honey.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—this pressed Soma
+- परावतः (*parāvataḥ*)—the gods who are in the far region
+- अथो (*atho*)—and
+- अर्वावतः (*arvāvataḥ*)—the gods who are near
+- आविवासन् (*āvivāsan*)—attending with his juice
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- मधु (*madhu*)—the sweet juice
+- सिच्यते (*sicyate*)—sprinkles, or flows
+
+### Printed p. 855
+
+##### भावार्थ (Bhāvārtha)
+
+This pressed Soma, attending with his juice the gods who are far away and those who are near, flows as sweet juice for Indra's drinking.
+
+##### English translation
+The effused (Soma) honouring (the gods), whether he is far off or nigh, is poured out (as) madhu for Indra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मी॒ची॒ना अ॑नूषत॒ हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
+> योना॑वृ॒तस्य॑ सीदत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम्ऽईचीनाः । अनूषत । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> योनौ । ऋतस्य । सीदत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समीचीनाः सम्यगंचिताः संगताः स्तोतारः अनूषत स्तुवंति । किंच सोमं हरिं हरितवर्णं हिन्वंति प्रेरयंति गमयंति अद्रिभिः ग्रावभिः । यस्मादेवं तस्मात् ऋतस्य यज्ञस्य योनौ स्थाने सीदत निषण्णा भवत हे देवाः ॥ ॥ २९ ॥
+
+##### Gist of the bhāṣya
+
+The united worshippers, the assembled, praise (अनूषत (*anūṣata*)). Moreover, they impel and send the green-coloured Soma with the pressing stones. Since this is so, O gods, be seated in the place of the sacrifice, the womb of the rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समीचीनाः (*samīcīnāḥ*)—all the worshippers, gathering together in one place
+- अनूषत (*anūṣata*)—praise
+- हरिं (*hariṃ*)—the green-coloured Soma plant
+- अद्रिभिः (*adribhiḥ*)—with stones
+- हिन्वंति (*hinvaṃti*)—they crush it and impel the juice to flow (therefore, O gods)
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योना (*yonā*)—in the place
+- सीदत (*sīdata*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+The worshippers all gather in one place and praise together with one voice. They crush the green Soma plant with stones and make the juice flow. Therefore, O gods, come and sit down at this place of the sacrifice.
+
+### Printed p. 856
+
+##### English translation
+The united (worshippers) praise (him), they squeeze (him) forth green-tinted with the stones ; sit down (O gods) at the place of sacrifice.
+
+## Sūkta 40 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘पुनानः' इति षडृचं षोडशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘पुनानः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पुनानः (*punānaḥ*) has six ṛks and is the sixteenth sūkta. The seer and so on are as before. The Anukramaṇī lists it by पुनानः (*punānaḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning पुनानः (*punānaḥ*) is the sixteenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, पुनानः (*punānaḥ*), is the ritual use, which has been stated before.
+
+Sūkta 40. Maṇḍala 9, Anuvāka 2, Sūkta 40. Aṣṭaka 6, Adhyāya 8, Varga 30. Number of ṛks in the sūkta: 6. Ṛṣi: बृहन्मति (*bṛhanmati*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नो अ॑क्रमीद॒भि विश्वा॒ मृधो॒ विच॑र्षणिः ।  
+> शुं॒भंति॒ विप्रं॑ धी॒तिभिः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । अक्रमीत् । अभि । विश्वाः । मृधः । विऽचर्षणिः ।  
+> शुंभंति । विप्रम् । धीतिऽभिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः विचर्षणिः द्रष्टा सोमः विश्वाः सर्वान् मृधः हिंसकान् शत्रून् अभि अक्रमीत् अतिक्रांतवान् । तं विप्रं मेधाविनं धीतिभिः कर्मभिरभिषवादिभिः स्तुतिभिर्वा शुंभंति दीपयंति अलंकुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified (पुनानः (*punānaḥ*)), the seer (विचर्षणिः (*vicarṣaṇiḥ*)), has overcome all harming enemies. That wise one the worshippers adorn, that is, make shine and decorate, with rites such as pressing, or with praises.
+
+### Printed p. 857
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—the producer of understanding
+- विचर्षणिः (*vicarṣaṇiḥ*)—this Soma-deva who sees everything
+- विश्वाः (*viśvāḥ*)—all
+- मृधः (*mṛdhaḥ*)—harming enemies
+- अभि अक्रमीत् (*abhi akramīt*)—overcomes
+- विप्रं (*vipraṃ*)—that wise Soma
+- धीतिभिः (*dhītibhiḥ*)—with rites such as pressing, or with praises
+- शुंभंति (*śuṃbhaṃti*)—adorn (praise)
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, the producer of understanding and seer of everything, overcomes all harming enemies, that is, turns them away. They adorn this wise Soma with rites such as pressing, or with praises, that is, they praise him.
+
+##### English translation
+The pure all-seeing (Soma) has overcome all enemies ; (the worshippers) grace the sage (Soma) with their praises.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ योनि॑मरु॒णो रु॑ह॒द्गम॒दिंद्रं॒ वृषा॑ सु॒तः ।  
+> ध्रु॒वे सद॑सि सीदति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । योनिम् । अरुणः । रुहत् । गमत् । इंद्रम् । वृषा । सुतः ।  
+> ध्रुवे । सदसि । सीदति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् अरुणः अरुणवर्णः सोमः योनिं स्थानं द्रोणकलशम् आ रुहत् आरोहति । ततः इंद्रं गमत् गच्छति । कुतः सन् । अयं वृषा वर्षकः फलानां सुतः अभिषुतः सन् गत्वा ध्रुवे सदसि स्थिरे स्थाने द्युलोकाख्ये सीदति निवसति ॥
+
+##### Gist of the bhāṣya
+
+This red-coloured Soma mounts (आ रुहत् (*ā ruhat*)) to his place, the Droṇa vessel. Then he goes to Indra. Why? This showerer, the bestower of fruits, having been pressed, having gone, sits, dwells, in the firm seat, the stable place called the world of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुणः (*aruṇaḥ*)—this golden-coloured Soma juice
+- योनिं (*yoniṃ*)—his own place, the Droṇa vessel
+- आ रुहत् (*ā ruhat*)—climbs and sits (then)
+- इंद्रं (*iṃdraṃ*)—to Indra
+- गमत् (*gamat*)—goes (by means of the oblation)
+- वृषा (*vṛṣā*)—this Soma, the showerer of desires
+- सुतः (*sutaḥ*)—after being pressed
+- ध्रुवे (*dhruve*)—firm
+- सदसि (*sadasi*)—in the place, the world of heaven
+- सीदसि (*sīdasi*)—dwells
+
 ---
 
-**Progress note:** Done through printed p. 851. Sūkta 38 Ṛk 1-6, Sūkta 39 Ṛk 1 and start of Ṛk 2, pp. 846-851
+**Progress note:** Done through printed p. 857. Vol 25 Sūkta 39 Ṛk 2-6, Sūkta 40 Ṛk 1-2 begin (pp. 852-857)
