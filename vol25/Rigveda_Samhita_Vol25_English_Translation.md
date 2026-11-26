@@ -23619,6 +23619,305 @@ O Soma (सोम (*soma*)), of great food (महि श्रवः (*mahi śr
 
 O Soma, you who are of great nature, possessed of food and of the form of a pure stream, worship the gods in our sacrifice. Conquer the enemies. Afterwards make us possessed of well-being and grant happiness. **NOTE**
 
+### Printed p. 605
+
+##### English translation
+Pure-dropping (Soma), bounteous food, welcome (the gods at our rite) and overcome (the demons) ; and make us happy.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॒ ज्योतिः॒ सना॒ स्व१॒॑र्विश्वा॑ च सोम॒ सौभ॑गा ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सन । ज्योतिः । सन । स्वः । विश्वा । च । सोम । सौभगा ।  
+> अथ । नः । वस्यसः । कृधि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं ज्योतिः तेजः सन अस्मभ्यं प्रयच्छ । अपि च स्वः स्वर्गं सन अस्मभ्यं देहि । विश्वा विश्वानि सौभगा सौभाग्यानि च सन । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)), you give us (सन अस्मभ्यं प्रयच्छ (*sana asmabhyaṃ prayaccha*)) light, that is, brightness (ज्योतिः तेजः (*jyotiḥ tejaḥ*)). Moreover give us heaven (स्वः स्वर्गं सन अस्मभ्यं देहि (*svaḥ svargaṃ sana asmabhyaṃ dehi*)), and give all (विश्वा विश्वानि (*viśvā viśvāni*)) good fortunes (सौभगा सौभाग्यानि (*saubhagā saubhāgyāni*)). The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma, of divine nature **NOTE**
+- ज्योतिः (*jyotiḥ*)—brightness
+- सन (*sana*)—provide for us
+- स्वः (*svaḥ*)—heaven
+- सनॆ (*sanè*)—cause us to obtain
+- विश्वा (*viśvā*)—all
+- सौभगा च (*saubhagā ca*)—and provide comforts
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as possessed of well-being
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, of divine nature, provide us with brightness. Cause us to obtain heaven. Provide us with all comforts. Afterwards make us possessed of well-being.
+
+##### English translation
+Soma, give us brightness, give us heaven, give us all good things ; and make us happy.
+
+### Printed p. 606
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॒ दक्ष॑मु॒त क्रतु॒मप॑ सोम॒ मृधो॑ जहि ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सन । दक्षम् । उत । क्रतुम् । अप । सोम । मृधः । जहि ।  
+> अथ । नः । वस्यसः । कृधि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं दक्षं बलं सन अस्मभ्यं देहि । उत अपि च क्रतुं प्रज्ञानं सन । मृधः हिंसकान् शत्रूंश्च अप जहि मारय । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)), give us strength (दक्षं बलं सन अस्मभ्यं देहि (*dakṣaṃ balaṃ sana asmabhyaṃ dehi*)), and also (उत अपि च (*uta api ca*)) wisdom (क्रतुं प्रज्ञानं सन (*kratuṃ prajñānaṃ sana*)). Drive away (अप जहि (*apa jahi*), that is, मारय (*māraya*)) the enemies who are violent (मृधः हिंसकान् शत्रूंश्च (*mṛdhaḥ hiṃsakān śatrūṃśca*)). The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O divine Soma **NOTE**
+- दक्षं (*dakṣaṃ*)—strength for us
+- सन (*sana*)—provide
+- उत (*uta*)—and
+- क्रतुं (*kratuṃ*)—bring about excellent knowledge
+- मृधः (*mṛdhaḥ*)—our violent enemies
+- अप जहि (*apa jahi*)—destroy
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as possessed of well-being and of happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, provide us with strength. And bring about knowledge. Destroy our violent enemies. Afterwards make us possessed of well-being and of happiness.
+
+##### English translation
+Soma, give us strength, give us wisdom, drive away our enemies ; and make us happy.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पवी॑तारः पुनी॒तन॒ सोम॒मिंद्रा॑य॒ पात॑वे ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ४ ॥
+
+### Printed p. 607
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवितारः । पुनीतन । सोमम् । इंद्राय । पातवे ।  
+> अथ । नः । वस्यसः । कृधि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवीतारः सोमाभिषवकर्तारः यूयम् इंद्राय पातवे पातुं सोमं पुनीतन अभिषुणुत । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O purifiers (पवीतारः (*pavītāraḥ*)), that is, you who perform the pressing of Soma (सोमाभिषवकर्तारः (*somābhiṣavakartāraḥ*)): press (पुनीतन (*punītana*), that is, अभिषुणुत (*abhiṣuṇuta*)) the Soma for Indra to drink (इंद्राय पातवे पातुं सोमं (*iṃdrāya pātave pātuṃ somaṃ*)). The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवीतारः (*pavītāraḥ*)—O priests who press the Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- पातवे (*pātave*)—in order to drink
+- सोमुं (*somuṃ*)—the Soma **NOTE**
+- पुनीतन (*punītana*)—press in purity
+- अथ (*atha*)—afterwards
+- (सोमु (*somu*)—O divine Soma)
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with well-being and endowed with happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O priests who press the Soma, press the Soma in purity for Indra to drink. Afterwards, O divine Soma, make us endowed with well-being and endowed with happiness.
+
+##### English translation
+Priests, press out the Soma for Indra to drink ; (O Soma), make us happy.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सूर्ये॑ न॒ आ भ॑ज॒ तव॒ क्रत्वा॒ तवो॒तिभिः॑ ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सूर्ये । नः । आ । भज । तव । क्रत्वा । तव । ऊतिऽभिः ।  
+> अथ । नः । वस्यसः । कृधि ॥ ५ ॥
+
+### Printed p. 608
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं तव क्रत्वा तव ऊतिभिः स्वकर्तृकेण कर्मणा त्वत्कर्तृकाभी रक्षाभिश्च नः अस्मान् सूर्ये आ भज प्रापय । सिद्धमन्यत् ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)), by your action (तव क्रत्वा (*tava kratvā*), that is, by action of which you are the doer, स्वकर्तृकेण कर्मणा (*svakartṛkeṇa karmaṇā*)) and by your protections (तव ऊतिभिः (*tava ūtibhiḥ*), that is, protections of which you are the doer, त्वत्कर्तृकाभी रक्षाभिश्च (*tvatkartṛkābhī rakṣābhiśca*)), cause us (नः अस्मान् (*naḥ asmān*)) to attain (आ भज प्रापय (*ā bhaja prāpaya*)) the sun (सूर्ये (*sūrye*)). The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) त्वं (*tvaṃ*)—you
+- तव (*tava*)—by your
+- क्रत्वा (*kratvā*)—excellent works
+- तव (*tava*)—and by your
+- ऊतिभिः (*ūtibhiḥ*)—protections
+- नः (*naḥ*)—us
+- सूर्ये (*sūrye*)—in the sun
+- आ भज (*ā bhaja*)—lead and unite
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with well-being and endowed with happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, by your excellent works and by your excellent works, lead us and unite us with the sun. **NOTE** Afterwards make us endowed with well-being and endowed with happiness.
+
+##### English translation
+( O Soma ), by your power and your protections bring us to the sun, and make us happy.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ क्रत्वा॒ तवो॒तिभि॒र्ज्योक्प॑श्येम॒ सूर्य॑म् ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । क्रत्वा । तव । ऊतिऽभिः । ज्योक् । पश्येम । सूर्यम् ।  
+> अथ । नः । वस्यसः । कृधि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तव क्रत्वा प्रज्ञानेन तव ऊतिभिः रक्षाभिश्च ज्योक् चिरं पश्येम सूर्यम् । पश्याम द्रक्ष्यामः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)), by your wisdom (तव क्रत्वा प्रज्ञानेन (*tava kratvā prajñānena*)) and your protections (तव ऊतिभिः रक्षाभिश्च (*tava ūtibhiḥ rakṣābhiśca*)), may we see the sun (पश्येम सूर्यम् (*paśyema sūryam*)) for long (ज्योक् चिरं (*jyok ciraṃ*)): पश्याम द्रक्ष्यामः (*paśyāma drakṣyāmaḥ*), that is, we shall see. The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+### Printed p. 609
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) तव (*tava*)—your
+- क्रत्वा (*kratvā*)—by excellent knowledge
+- तव (*tava*)—your
+- ऊतिभिः (*ūtibhiḥ*)—and joined with protections
+- ज्योक् (*jyok*)—for a long time
+- सूर्यं (*sūryaṃ*)—the sun
+- पश्येम (*paśyema*)—may we behold
+- अथ (*atha*)—and
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with well-being and happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, joined with your excellent knowledge and your protections, may we behold the sun for a long time. And make us endowed with well-being and happiness.
+
+##### English translation
+By your wisdom and your protections may we long behold the sun ; and you make us happy.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्ष स्वायुध॒ सोम॑ द्वि॒बर्ह॑सं र॒यिम् ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्ष । सुऽआयुध । सोम । द्विऽबर्हसम् । रयिम् ।  
+> अथ । नः । वस्यसः । कृधि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वायुध शोभनायुध सोम त्वं द्विबर्हसं द्वयोर्द्यावापृथिव्योः स्थानयोः परिवृढं रयिं धनम् अभ्यर्ष अस्मानभिगमय । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)) of good weapons (स्वायुध शोभनायुध (*svāyudha śobhanāyudha*)): bring (अभ्यर्ष (*abhyarṣa*), that is, अस्मानभिगमय (*asmānabhigamaya*)) to us wealth (रयिं धनम् (*rayiṃ dhanam*)) that is द्विबर्हसं (*dvibarhasaṃ*), that is, परिवृढं (*parivṛḍhaṃ*) in the two places (द्वयोर्द्यावापृथिव्योः स्थानयोः (*dvayordyāvāpṛthivyoḥ sthānayoḥ*)), heaven and earth. The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वायुध (*svāyudha*)—you who have excellent weapons
+- सोमु (*somu*)—O Soma **NOTE**
+- द्विबर्हसं (*dvibarhasaṃ*)—filling both heaven and earth
+- रयिं (*rayiṃ*)—the wealth
+- (अस्मभ्यं (*asmabhyaṃ*)—to us)
+- अभ्यर्ष (*abhyarṣa*)—provide
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who have excellent weapons, provide us with the wealth that fills both heaven and earth. Afterwards make us endowed with happiness.
+
+### Printed p. 610
+
+##### English translation
+Bright-weaponed Soma, shower upon us wealth abundant for both worlds ; and make us happy.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य१॒॑र्षान॑पच्युतो र॒यिं स॒मत्सु॑ सास॒हिः ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्ष । अनपऽच्युतः । रयिम् । समत्ऽसु । ससहिः ।  
+> अथ । नः । वस्यसः । कृधि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम समत्सु संग्रामेषु अनपच्युतः शत्रुभिरनाहतः सासहिः शत्रूणामभिभविता त्वं रयिं धनम् अभ्यर्ष अस्मानभिगमय । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma (सोम (*soma*)), you who are unfallen (अनपच्युतः (*anapacyutaḥ*)), that is, unstruck by enemies (शत्रुभिरनाहतः (*śatrubhiranāhataḥ*)), in battles (समत्सु संग्रामेषु (*samatsu saṃgrāmeṣu*)), and the overcomer of enemies (सासहिः शत्रूणामभिभविता (*sāsahiḥ śatrūṇāmabhibhavitā*)): bring (अभ्यर्ष (*abhyarṣa*), that is, अस्मानभिगमय (*asmānabhigamaya*)) wealth (रयिं धनम् (*rayiṃ dhanam*)) to us. The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) समत्सु (*samatsu*)—in battles
+- अनपच्युतः (*anapacyutaḥ*)—unfallen
+- सासहिः (*sāsahiḥ*)—and the one who beats down enemies, you
+- रयिं (*rayiṃ*)—wealth
+- अभ्यर्ष (*abhyarṣa*)—provide for us
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with well-being and happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are unfallen in battles and beat down enemies, provide us with wealth. Afterwards make us endowed with well-being and happiness.
+
+##### English translation
+O you who are unvanquished in battle, smiter of enemies, shower wealth upon us, and make us happy.
+
 ---
 
-**Progress note:** Done through printed p. 604. Mandala 9 sukta 3 Rks 5-10, sukta 4 Rk 1 (pp. 599-604)
+**Progress note:** Done through printed p. 610. Mandala 9 sukta 4 Rks 2-8 (pp. 605-610)
