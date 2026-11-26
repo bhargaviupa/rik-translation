@@ -22392,6 +22392,299 @@ The sovereign of rivers flows pure, the lord of heaven goes with a shout by the 
 
 O Pavamāna Soma, you make the great water, much water, or the juice, run forth, you cause it to go; the root dhāv is given with the senses of motion and purification. Further, wonderful like the sun, revered, you go to the vessels, the woollen ones, made of sheep. Further, purified by the hands, pressed by the leaders, the Ṛtvijs, and by the pressing stones **NOTE**, you go for great strength, the battle, for the one who is good for wealth. The root dhanv is a root of motion.
 
+### Printed p. 594
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva
+- मह्यर्णः (*mahyarṇaḥ*)—abundant water
+- विधावसि (*vidhāvasi*)—you pour forth
+- सूरो न (*sūro na*)—like the sun
+- चित्रः (*citraḥ*)—attractive
+- अव्यया (*avyayā*)—made of wool
+- पव्यया (*pavyayā*)—you go to the vessel
+- गभस्तिपूतः (*gabhastipūtaḥ*)—purified by the hands
+- नृभिः (*nṛbhiḥ*)—by the priests
+- अद्रिभिः (*adribhiḥ*)—by the stones
+- सुतः (*sutaḥ*)—pressed
+- महे (*mahe*)—great
+- वाजाय (*vājāya*)—for the battle
+- धन्याय (*dhanyāya*)—for the gaining of wealth
+- धन्वसि (*dhanvasi*)—you go
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you pour forth abundant water. Attractive like the sun, you go to the filtering vessel made of wool. Purified by the hands and pressed by the priests (by the stones), you go for wealth to the great battle.
+
+##### English translation
+Purified (Soma), you pour forth abundant juice ; like the wonderful sun (you approach) the fleecy filters ; purified by the hands of the priests, expressed with the stones you flow for a mighty wealth-yielding conflict.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इष॒मूर्जं॑ पवमाना॒भ्य॑र्षसि श्ये॒नो न वंसु॑ क॒लशे॑षु सीदसि ।  
+> इंद्रा॑य॒ मद्वा॒ मद्यो॒ मदः॑ सु॒तो दि॒वो वि॑ष्टं॒भ उ॑प॒मो वि॑चक्ष॒णः ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषम् । ऊर्जम् । पवमान । अभि । अर्षसि । श्येनः । न । वंसु । कलशेषु । सीदसि ।  
+> इंद्राय । मद्वा । मद्यः । मदः । सुतः । दिवः । विष्टंभः । उपऽमः । विऽचक्षणः ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम इषम् अन्नम् ऊर्जं बलं च अभ्यर्षसि । श्येनो न श्येन इव वंसु वननीयेषु कुलायेषु कलशेषु सीदसि निषण्णो भवसि । अथ परोक्षकृतः । इंद्राय मद्वा मदकरः मद्यः मदहेतुः मदः रसः सुतः अभिषुतः । कीदृशः । दिवः द्युलोकस्य उपमः उपमीयमानः विष्टंभः विशेषेण स्तंभयिता । स्थूणा यथा गृहं तथा । विचक्षणः विद्रष्टा । ‘ स्थूणेव जनाँ उपमित्' ( ऋ. सं. १.५९.१ ) इत्युक्तम् ॥ ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, being purified, you bring food and strength. Like a falcon you sit in the pitchers, which are desirable and like nests. Then the verb passes to the third person: for Indra the Soma juice is pressed, exhilarating, the cause of exhilaration. Of what kind is he? He is the likeness of heaven, its support, one who props it firmly, as a pillar does a house; he is the all-seeing. With this the text cites: स्थूणेव जनाँ उपमित् (*sthūṇeva janā~ upamit*) (Ṛ. Saṃ. 1.59.1).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—and strength
+- अर्भर्षसिऒदगिसुत्तीयॆ (*arbharṣasiòdagisuttīyè*)—you provide **NOTE**
+- वंसु (*vaṃsu*)—in the nests
+- श्येनो न (*śyeno na*)—as a falcon sits
+- कलशेषु (*kalaśeṣu*)—in the pitchers
+- सीदसि (*sīdasi*)—you sit
+- दिवः (*divaḥ*)—of the heavenly world
+- उपमः (*upamaḥ*)—the model
+- विष्टंभः (*viṣṭaṃbhaḥ*)—the supporting pillar
+- विचक्षणः (*vicakṣaṇaḥ*)—keen of sight, Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- मद्वा (*madvā*)—exhilarating
+- मद्यः (*madyaḥ*)—the cause of exhilaration
+- मदः (*madaḥ*)—of the nature of juice
+- सुतः (*sutaḥ*)—is pressed
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you provide food and strength. As a falcon sits in its nests, you sit in the pitchers. Soma, the model of the heavenly world, its supporting pillar and keen of sight, is pressed for Indra in the form of the exhilarating juice.
+
+##### English translation
+You rush, Pavamana, to (bring) food and strength; you alight on the pitchers like a falcon on its nest ; (you) the exhilarating effused juice giving exhilaration to Indra, resembling the support of heaven, beholding (all things).
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त स्वसा॑रो अ॒भि मा॒तरः॒ शिशुं॒ नवं॑ जज्ञा॒नं जेन्यं॑ विप॒श्चित॑म् ।  
+> अ॒पां गं॑ध॒र्वं दि॒व्यं नृ॒चक्ष॑सं॒ सोमं॒ विश्व॑स्य॒ भुव॑नस्य रा॒जसे॑ ॥ ३६ ॥
+
+### Printed p. 596
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । स्वसारः । अभि । मातरः । शिशुम् । नवम् । जज्ञानम् । जेन्यम् । विपःऽचितम् ।  
+> अपाम् । गंधर्वम् । दिव्यम् । नृऽचक्षसम् । सोमम् । विश्वस्य । भुवनस्य । राजसे ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्त सर्पणस्वभावाः सप्तसंख्याका वा मातरः मातृस्थानीया गंगायमुनायाः शिशुं शिशुस्थानीयम् अभि गच्छंतीति शेषः । स्वकीयैः पयोभिराच्छादयंतीति शेषः । कीदृशं शिशुम् । नवं जज्ञानं जायमानं जेन्यं जयशीलं विपश्चितं विद्वांसम् अपां जनकं तेषां मध्ये वर्तमानं वा गंधर्वम् उदकस्य धातारं दिव्यं दिवि भवं नृचक्षसं नॄणां द्रष्टारं सोमम् अभिगच्छंति । किमर्थम् । विश्वस्य भुवनस्य विराजसे विराजनार्थम् ॥
+
+##### Gist of the bhāṣya
+
+The seven mothers, of the nature of flowing or seven in number, standing in the place of mothers, namely the Gaṅgā and the Yamunā and the others, approach the infant, who stands in the place of a child; this "approach" is to be supplied. They cover him with their own waters. What kind of infant? New, newly born, being born, victorious, learned; the begetter of the waters, or one who dwells in the midst of them; the Gandharva, the supporter of water; divine, born in heaven; the beholder of men. They approach Soma. For what? In order that he may rule over the whole world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वसारः (*svasāraḥ*)—in the form of sisters
+- सप्त मातरः (*sapta mātaraḥ*)—the seven rivers, the Gaṅgā and the others
+- शिशुं (*śiśuṃ*)—in the form of an infant
+- नवं (*navaṃ*)—newly
+- जज्ञानं (*jajñānaṃ*)—born
+- जेन्यं (*jenyaṃ*)—victorious
+- विपश्चितं (*vipaścitaṃ*)—learned
+- अपां (*apāṃ*)—dwelling in the midst of the waters
+- गंधर्वं (*gaṃdharvaṃ*)—the supporter of the waters
+- दिव्यं (*divyaṃ*)—related to the heavenly world
+- नृचक्षसं (*nṛcakṣasaṃ*)—able to see men
+- सोमं (*somaṃ*)—Soma
+- विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of all the worlds
+- राजसे (*rājase*)—in order to become lord
+- अभि (*abhi*)—(they approach) draw near
+
+##### भावार्थ (Bhāvārtha)
+
+The seven rivers, the Gaṅgā and the others, in the form of sisters, draw near to Soma, who is in the form of an infant, newly born, victorious, learned, dwelling in the midst of the waters, the supporter of the waters, related to the heavenly world and able to see men, in order that he may become lord of all the worlds.
+
+##### English translation
+The seven sister mothers approach the new-born, victorious sagacious infant, Soma, abiding amidst the waters, supporter of water, divine, the contemplator of men, to make him the ruler of the whole world.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒शा॒न इ॒मा भुव॑नानि॒ वीय॑से युजा॒न इं॑दो ह॒रितः॑ सुप॒र्ण्यः॑ ।  
+> तास्ते॑ क्षरंतु॒ मधु॑मद्घृ॒तं पय॒स्तव॑ व्र॒ते सो॑म तिष्ठंतु कृ॒ष्टयः॑ ॥ ३७ ॥
+
+### Printed p. 597
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशानः । इमा । भुवनानि । वि । ईयसे । युजानः । इंदो इति । हरितः । सुऽपर्ण्यः ।  
+> ताः । ते । क्षरंतु । मधुऽमत् । घृतम् । पयः । तव । व्रते । सोम । तिष्ठंतु । कृष्टयः ॥ ३७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम ईशानः सर्वस्य स्वामी त्वम् इमा इमानि भुवनानि भूतजातानि वीयसे गच्छसि । वी गत्यादिषु । किं कुर्वन् । हरितः हरितवर्णाः सुपर्ण्यः सुपतनाश्चाश्वाः रथे युजानः योजयन् । ताः सुपर्ण्यः ते तव संबंधिन्यः मधुमत् माधुर्योपेतं घृतं दीप्तं पयः उदकं क्षरंतु । हे सोम तव व्रते कर्मणि तिष्ठंतु कृष्टयः मनुष्याः सर्वे ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you, the lord, the master of all, go through these worlds, the born beings; the root vī is in the sense of going and the like. Doing what? Harnessing to the chariot the green-coloured, swift-flying horses. May those horses, yours, shed sweet, shining water, the liquid. O Soma, may all men, the people, abide in your rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- ईशानः (*īśānaḥ*)—you, the lord
+- हरितः (*haritaḥ*)—green-coloured
+- सुपर्ण्यः (*suparṇyaḥ*)—and swift-moving horses
+- युजानः (*yujānaḥ*)—harnessing to the chariot
+- इमा भुवनानि (*imā bhuvanāni*)—in all these worlds
+- वीयसे (*vīyase*)—you move about
+- ताः (*tāḥ*)—those same horses
+- ते (*te*)—your
+- मधुमत् (*madhumat*)—sweet
+- धृतं (*dhṛtaṃ*)—and shining **NOTE**
+- पयः (*payaḥ*)—water
+- क्षरंतु (*kṣaraṃtu*)—let them cause to flow
+- सोम (*soma*)—O Soma-deva
+- कृष्णयः (*kṛṣṇayaḥ*)—all men **NOTE**
+- तव व्रते (*tava vrate*)—in your rite of worship
+- तिष्ठंतु (*tiṣṭhaṃtu*)—let them be devoted
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you, the lord, harness green-coloured, swift-moving horses to your chariot and move about in all these worlds. May those same horses cause your sweet and shining water (juice) to flow. O Soma-deva, may all men be devoted to your rite of worship.
+
+### Printed p. 598
+
+##### English translation
+Iudu **NOTE**, who are the lord, you go (through) these worlds, harnessing (to your car) your swift-moving steeds ; let them dispense the sweet-flavoured shining liquor, may all men be present, Soma, at your worship.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नृ॒चक्षा॑ असि सोम वि॒श्वतः॒ पव॑मान वृषभ॒ ता वि धा॑वसि ।  
+> स नः॑ पवस्व॒ वसु॑म॒द्धिर॑ण्यवद्व॒यं स्या॑म॒ भुव॑नेषु जी॒वसे॑ ॥ ३८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । नृऽचक्षाः । असि । सोम । विश्वतः । पवमान । वृषभ । ता । वि । धावसि ।  
+> सः । नः । पवस्व । वसुऽमत् । हिरण्यऽवत् । वयम् । स्याम । भुवनेषु । जीवसे ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं विश्वतः सर्वतः सर्वेषु भुवनेषु नृचक्षाः नॄणां द्रष्टा असि भवसि । हे पवमान वृषभ अपां वर्षक ताः अपः वि धावसि विविधं गच्छसि। सः त्वं नः अस्माकं पवस्व क्षर। किम् । वसुमत् बहुभिर्वसुभिर्वासकैर्गवादिद्रव्यैर्युक्तं तथा हिरण्यवत् बहुभिर्हिरण्यैर्युक्तं धनम् । वयं च वसुभिर्हिरण्यैर्युक्ताः भुवनेषु लोकेषु जीवसे जीवितुं प्रभवः स्याम भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are everywhere, in all the worlds, the beholder of men. O Pavamāna, bull, showerer of the waters, you make those waters run in many ways. You, as such, flow for us: what? Wealth endowed with many riches, the dwelling goods such as cattle, and likewise with much gold. And may we, endowed with riches and gold, be able to live in the worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—the one who causes growth **NOTE**
+- सोम (*soma*)—O Soma-deva
+- त्वं (*tvaṃ*)—you
+- विश्वतः (*viśvataḥ*)—from all regions
+- नृचक्षाः (*nṛcakṣāḥ*)—able to see men
+- असि (*asi*)—you are
+- पवमान (*pavamāna*)—O Soma named Pavamāna
+- ताः (*tāḥ*)—those waters
+- विधावसि (*vidhāvasi*)—you make flow in many ways
+- सः (*saḥ*)—you
+- नः (*naḥ*)—to us
+- वसुमत् (*vasumat*)—endowed with wealth such as cattle
+- हिरण्यवत् (*hiraṇyavat*)—and made of gold, the wealth
+- पवस्व (*pavasva*)—provide
+- वयं (*vayaṃ*)—we
+- भुवनेषु (*bhuvaneṣu*)—in the worlds
+- जीवसे (*jīvase*)—to live
+- स्याम (*syāma*)—may we be able
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, rain-maker, you are able to see men from all regions. O Soma, named Pavamāna, you make the waters flow in many ways.
+
+### Printed p. 599
+
+Provide us wealth endowed with cattle and the like, and made of gold. Grant that we may live long in the world.
+
+##### English translation
+You, Soma, are everywhere; the contemplator of men; you, Pavamana, the showerer, hasten to these (waters) ; pour forth upon us (wealth), comprising various treasures and gold ; may we be (able) to live in the worlds.
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गो॒वित्प॑वस्व वसु॒विद्धि॑रण्य॒विद्रे॑तो॒धा इं॑दो॒ भुव॑ने॒ष्वर्पि॑तः ।  
+> त्वं सु॒वीरो॑ असि सोम विश्व॒वित्तं त्वा॒ विप्रा॒ उप॑ गि॒रेम आ॑सते ॥ ३९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽवित् । पवस्व । वसुऽवित् । हिरण्यऽवित् । रेतःऽधाः । इंदो इति । भुवनेषु । अर्पितः ।  
+> त्वम् । सुऽवीरः । असि । सोम । विश्वऽवित् । तम् । त्वा । विप्राः । उप । गिरा । इमे । आसते ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं पवस्व क्षर। कीदृशः । गोवित् गवां लंभकः वसुवित् धनस्य लंभकः हिरण्यवित् हिरण्यस्य लंभकः रेतोधाः । रेत उदकम् । तस्य धातौषधीनाम् । यद्वा । रेतः प्रजननसामर्थ्यम् । तस्य धारयिता। भुवनेषु उदकेषु अर्पितः । हे इंदो सोम त्वं सुवीरः सुवीर्यः असि भवसि । विश्ववित् सर्वस्य वेत्ता। तं त्वा त्वाम् इमे विप्राः गिरा स्तुत्या उप आसते ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow, shed your stream. What kind? The finder of cattle, the finder of wealth, the finder of gold, the holder of seed. Seed is water: the supporter of it, for plants. Or else: seed is the power of procreation, and he is its sustainer. He is placed in the waters. O Indu, Soma, you are a good hero, of good valour, and all-knowing. These sages sit near you, such as you are, with a hymn of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- गोवित् (*govit*)—the one who obtains cattle
+- वसुवित् (*vasuvit*)—the one who brings wealth
+- हिरण्यवित् (*hiraṇyavit*)—the one who fills up gold
+- रेतोधाः (*retodhāḥ*)—you, the one who gives water
+
+### Printed p. 600
+
+- पवस्व (*pavasva*)—flow
+- भुवनेषु (*bhuvaneṣu*)—in the waters
+- अर्पितः (*arpitaḥ*)—you, who are offered
+- सुवीरः (*suvīraḥ*)—possessed of excellent strength
+- असि (*asi*)—you are
+- विश्ववित् (*viśvavit*)—you know everything
+- तं (*taṃ*)—such
+- त्वा (*tvā*)—you
+- इमे विप्राः (*ime viprāḥ*)—these sages
+- गिरा (*girā*)—with praise
+- उप आसते (*upa āsate*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who provide cattle and wealth such as gold, flow in the form of a stream. You, who are offered in the waters, are possessed of excellent strength. You are all-knowing. The singers of praise worship you with praise.
+
+##### English translation
+Flow, Indu, who are the winner of cattle, wealth, and gold, the fructifier, placed upon the waters ; you, Soma, are a hero, omniscient ; you, these sages approach with praise.
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उन्मध्व॑ ऊ॒र्मिर्व॒नना॑ अतिष्ठिपद॒पो वसा॑नो महि॒षो वि गा॑हते ।  
+> राजा॑ प॒वित्र॑रथो॒ वाज॒मारु॑हत्स॒हस्र॑भृष्टिर्जयति॒ श्रवो॑ बृ॒हत् ॥ ४० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । मध्वः । ऊर्मिः । वननाः । अतिस्थिपत् । अपः । वसानः । महिषः । वि । गाहते ।  
+> राजा । पवित्रऽरथः । वाजम् । आ । अरुहत् । सहस्रऽभृष्टिः । जयति । श्रवः । बृहत् ॥ ४० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मध्वः मधुरस्य ऊर्मिः रसः वननाः वननीया वाचः उत् अतिष्ठिपत् उत्थापयति । सोमाभिषवकाले स्तुतिवाचः प्रवृत्तेः । अपः वसानः आच्छादयन् महिषः महान् वि गाहते प्रविशति कलशम् । राजा सोमः पवित्ररथः। दशापवित्रमेव रथो यस्य स तथोक्तः । तादृशः सोमः वाजं संग्रामम् आरुहत् आरोहति । सहस्रभृष्टिः बहुभ्रंशोऽपरिमितगमनः बृहत् श्रवः महदन्नं जयति अस्मदर्थम् ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+The wave, the juice, of the sweet one makes the pleasing words rise up, for at the time of the pressing of Soma the words of praise begin. Clothing himself with the waters, the great one enters the pitcher. The king Soma, whose chariot is the ten-fold filter alone, such a Soma mounts the battle. Of a thousand shakings, of unmeasured motion, he wins great food for us.
+
 ---
 
-**Progress note:** Done through printed p. 593. Mandala 9 sukta 86 rks 29-34 (to bhasya of 34)
+**Progress note:** Done through printed p. 600. Mandala 9 sukta 86 rks 34-40 (to bhasya of 40)
