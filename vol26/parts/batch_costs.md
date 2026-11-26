@@ -11,3 +11,4 @@
 | through p. 169 (three windows in one agent: pp. 150-157, 158-163, 164-169) | sonnet | 12 | 142145 | 2.8 |
 | through p. 187 (three windows in one agent: pp. 170-175, 176-181, 182-187) | sonnet | 11 | 136045 | 2.4 |
 | through p. 205 (three windows in one agent: pp. 188-193, 194-199, 200-205) | sonnet | 14 | 137000 | 2.7 |
+| through p. 223 (three windows in one agent: pp. 206-211, 212-217, 218-223) | sonnet | 10 | 129740 | 2.1 |
