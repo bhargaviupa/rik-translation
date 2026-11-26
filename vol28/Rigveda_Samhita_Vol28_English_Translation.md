@@ -1169,6 +1169,222 @@ As birds perch upon the leafy tree, so the exhilarating Soma juices filling the 
 
 Sāyaṇa says: as the gambler (श्वघ्नी (*śvaghnī*), one who destroys the property of others) at the game (देवने (*devane*)) of dice picks out the winning throw (कृतं (*kṛtaṃ*)), so Indra seeks out the Sun. When? He says: when (यत् (*yat*)) the wealthy Indra wins (जयत् (*jayat*)) the Sun, the Āditya, the संवर्गं (*saṃvargaṃ*) **NOTE**, he conquers him by taking away his essence. Then follows a direct address: O wealthy Indra, that heroism of yours, the winning of the Sun, no other man (अन्यः (*anyaḥ*)) of the future can imitate …
 
+### Printed p. 31
+
+> शकत् । न शक्नोति । पुराणः पूर्वोऽपि त्वदीय्यमनुकर्तुं न शकत् । न शक्नोति ।
+> उतापि च नूतनो वर्तमानकालीनोऽपि त्वदीयं वीर्यमनुकर्तुं न शक्नोति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his gloss of the verse. No other man, whether ancient or modern, is able to imitate Indra's heroism.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्णी (*kṛṣṇī*)—the gambler
+- देवने (*devane*)—in the game of dice
+- कृतं (*kṛtaṃ*)—waiting for the moment
+- विचिनोति न (*vicinoti na*)—as he picks out his opponent and defeats him
+- यत् (*yat*)—when
+- मघवा (*maghavā*)—Indra
+- संवर्गं (*saṃvargaṃ*)—the one who pours down rain
+- सूर्यं (*sūryaṃ*)—picks out the sun; then
+- जयत् (*jayat*)—he conquers him by seizing away his essence
+- मघवन् (*maghavan*)—O Indra
+- ते (*te*)—your
+- तत् (*tat*)—that well-known
+- वीर्यं (*vīryaṃ*)—valour
+- अन्यः (*anyaḥ*)—anyone else
+- अनु (*anu*)—to imitate
+- न शकत् (*na śakat*)—is not able
+- पुराणः न (*purāṇaḥ na*)—nor one of former times is able
+- उत (*uta*)—and
+- नूतनः (*nūtanaḥ*)—nor one of the present is able
+
+##### भावार्थ (Bhāvārtha)
+
+As a gambler at play waits for the moment, picks out his opponent and defeats him, so when Indra picks out the sun, the sender of rain, he conquers him by seizing away his essence. O Indra, no one, whether of former times or of the present, can imitate your well-known valour.
+
+##### English translation
+As a gambler at play selects his adversary, so does Maghavat when he overcomes the rain-bestowing sun : no one, Maghavat, ancient or modern is able to imitate this your vigour.
+
+##### विशेषविषयगळु (Special Topics)
+
+In passages that show valour or cruelty, the comparison with the श्वघ्नि (*śvaghni*), one who has valour or one who cheats, is shown in many contexts. Sāyaṇa gives this word different meanings in different contexts. It is made of two words, श्वान् (*śvān*) and घ्न (*ghna*), and घ्न (*ghna*) is formed from the root हन् (*han*). The word can be explained either as श्वानं हंति (*śvānaṃ haṃti*), "he kills a dog", or as शुना (सह) हंति (*śunā (saha) haṃti*), "he kills together with a dog". In the first three places of its use Sāyaṇa gives the word the meaning "hunter" or "one who pursues game".
+पुनःपुनर्जायमाना पुराणी समानं वर्णमभि शुंभमाना । कृत्स्नव कृत्सुर्विज आमिनाना मर्तस्य देवी जरयंत्यायुः ॥ (*punaḥpunarjāyamānā purāṇī samānaṃ varṇamabhi śuṃbhamānā | kṛtsnava kṛtsurvija āminānā martasya devī jarayaṃtyāyuḥ ‖*) (Ṛ. Saṃ. 1-92-10)
+
+### Printed p. 32
+This verse describes Ushas. Just as the श्वघ्नि (*śvaghni*) is cruel, so Ushas too, pitiless, brings all creatures under the sway of old age and harms them; this is the sense of the sentence. Sāyaṇa explains: शुना मृगान् हतवान् (*śunā mṛgān hatavān*), he who has killed game with a dog is श्वहा (*śvahā*), and his wife is श्वघ्नी (*śvaghnī*), the wife of a hunter who kills game by means of dogs. Likewise in शृघ्नद यो जिगिनास् (*śṛghnada yo jiginās*) (Ṛ. Saṃ. 2-12-4), where the subject is Indra defeating and harming his enemies, Indra is compared to a cruel hunter. There too this same meaning is given. In other contexts, however, the same word is given another meaning. For example:
+एवारे वृषभा सुशेऽसिन्वन्भूरादयः । श्श्विनेद विवता चरस् ॥ (*evāre vṛṣabhā suśe 'sinvanbhūrādayaḥ | śśvineda vivatā caras ‖*) (Ṛ. Saṃ. 4-43-44 **NOTE** 45-46 **NOTE**) **NOTE**
+Here too Indra is praised. In this context Sāyaṇa, quoting श्वघ्नी कितवो भवति स्वं हंति (*śvaghnī kitavo bhavati svaṃ haṃti*) (Ni. 5.22), gives the word the meaning of one who cheats: one who seizes the property of others. Many English scholars too have expressed the opinion that the meaning of this word has been wrongly taken. Since a gambler is commonly one who loses his own property and takes the property of others, the word श्वघ्नी (*śvaghnī*) may be said to mean a gambler. But the original sense of the words श्वन् (*śvan*) (dog) and हन् (*han*) (kill) does not here give the general sense; this derivation is possible only if the meaning "hunter" is taken. Yet the meaning "hunter" is not possible in the places where this word occurs ... **NOTE**. The question naturally arises whether a gambler can have the epithet श्वघ्न (*śvaghna*). It is possible that Sāyaṇa gives this meaning on the strength of a Gṛhya-sūtra. There is a section called "श्वग्रहप्रायश्चित्त (*śvagrahaprāyaścitta*)" for destroying diseases such as epilepsy. As the name itself shows, young children suffer epilepsy and similar diseases through the affliction of an evil seizer (श्व ग्रह (*śva graha*)). In the Hiraṇyakeśi and Pāraskara Gṛhya-sūtras the expiation of this fault is prescribed as follows.
+The father of the afflicted child performs the rite according to rule, takes the child to the gambling-place of the gamblers and performs certain prescribed acts there. Then he lays the child upon the dice-board and recites mantras meaning "O dog, go far away". In this rite the gambler is an assistant. Since the gambler helps in it, he is as it were the destroyer of the dog-seizer; hence he too became कृष्ण (*kṛṣṇa*) **NOTE**. On this basis it may be said that Sāyaṇa (also showing the authority of Yāska's sentence) explains the word त्वघ्निप् (*tvaghnip*) **NOTE** as gambler. (15-2-37)
+
+### Printed p. 33
+उत प्रहामतिदीव्या जयाति कृतं यच्छ्वघ्नी विचिनोति काले । यो देवकामो न धना रुणद्धि समित्तं राया सृजति स्वधावान् ॥ (*uta prahāmatidīvyā jayāti kṛtaṃ yacchvaghnī vicinoti kāle | yo devakāmo na dhanā ruṇaddhi samittaṃ rāyā sṛjati svadhāvān ‖*) (Ṛ. Saṃ. 10-42-9)
+In this and similar passages too, Indra's doings are compared with the doings of a gambler, such as his search for his man. Here the standard and the thing compared are consistent.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विशं॑विशं म॒घवा॒ पर्य॑शायत॒ जना॑नां॒ धेना॑ अव॒चाक॑श॒द्वृषा॑  
+> यस्याह॑ श॒क्रः सव॑नेषु॒ रण्य॑ति॒ स ती॒व्रैः सोमैः॑ सहते पृतन्य॒तः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशंविशं । मघवा । परि । अशायत । जनानां । धेनाः । अव्यचाकशत् । वृषा ।  
+> यस्य । आह । शक्रः । सवनेषु । रण्यति । सः । तीव्रैः । सोमैः । सहते । पृतन्यतः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षिता मघवा धनवानिंद्रो विशंविशं सर्वान्मनुष्यास्पर्ययशायत । परिशेते । किंच जनानां स्तोतृजनानां धेनाः स्तुतीरवचाकशत् ।
+> अभिपश्यति । किंच शक्र इंद्रो यस्याह यस्यैव यजमानस्य सवनेषु रण्यति रमते
+> स यजमानस्तीव्रैस्तीव्रकरैः प्रदीयमानैः सोमैः पृतन्यतः संग्राममिच्छतः
+> तत्रून् सहते । अभिभवति ॥
+
+##### Gist of the bhāṣya
+
+Indra, the showerer of desires and possessor of wealth, lies around every people. He looks upon the praises of the praising folk. Indra delights in the sacrifices of whichever sacrificer; that sacrificer overcomes foes who seek battle, by means of the potent Soma offered to Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the giver of desired things
+- मघवा (*maghavā*)—Indra, the wealthy
+- विशंवितं (*viśaṃvitaṃ*)—every single man
+- पर्यशायत (*paryaśāyata*)—enters
+- जनानां (*janānāṃ*)—of the praisers
+- धेनाः (*dhenāḥ*)—the praises
+- अवचाकशत् (*avacākaśat*)—examines closely
+- शक्रः (*śakraḥ*)—Indra
+- यस्याह (*yasyāha*)—of whichever sacrificer
+- सवनेषु (*savaneṣu*)—in the sacrifice
+- रण्यति (*raṇyati*)—he rejoices
+- सः (*saḥ*)—that sacrificer
+- तीव्रैः (*tīvraiḥ*)—with keen, potent
+- सोमैः (*somaiḥ*)—Somas
+- पृतस्यतः (*pṛtasyataḥ*)—enemies
+- सहते (*sahate*)—defeats
+
+### Printed p. 34
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the giver of desired things and wealthy, enters the heart of every man. He examines closely the praises of the praisers. The sacrificer in whose sacrifices Indra rejoices defeats his enemies by drinking the Soma of keen potency.
+
+##### English translation
+Maghavat, the showerer (of benefits), encompasses all people : he contemplates the praises of mankind : the man in whose sacrifice Shakra delights, overcomes (foes) wishing to fight by means of his pungent Soma libations.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॒ न सिंधु॑म॒भि यत्स॒मक्ष॑र॒न्सोमा॑स॒ इंद्रं॑ कु॒ल्या इ॑व  ॒
+> ह्रदं ।  
+> वर्धं॑ति॒ विप्रा॒ महो॑ अस्य॒ साद॑ने॒ यवं॒ न वृ॒ष्टिर्दि॒व्येन॒ दानु॑ना ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । न । सिंधुं । अभि । यत् । संअक्षरन् । सोमासः । इंद्रं । कुल्याः इद ।  
+> ह्रदं ।  
+> वर्धंति । विप्राः । महः । अस्य । सदने । यवं । न । वृष्टिः । दिव्येन । दानुना ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा सोमासः सोमा इंद्रमभि समक्षरन् अभिक्षरंति । अभिगच्छंतीत्कर्थः । तत्र दृष्टांतौ दर्शयति । आपो न यथापः सिंधुं समुद्रमभिसंक्षरंति ।
+> कुल्या इनयथा भकुल्या प्रदमभिसंक्षरंति तद्वदित्यर्थः । तदानीमस्येंद्रस्य
+> महो महत्त्वं तदने यज्ञगृहे विप्रा मेधाविनो वर्धंति । तत्र दृष्टांतमाह ।
+> यवं न यथायवं यवसस्यं व्यष्टिः ॥ कर्तरि कृत् ॥ वर्षिता वर्जन्यो दिव्येन
+> दिविधवेन दानुना दानेन वर्षणेन वर्धयति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When the Somas flow towards Indra, as waters flow to the sea and as channels flow to a lake, then at the sacrificial house the wise worshippers increase this Indra's greatness. The illustration: as the rain-giver, Parjanya, makes the barley grow by his heavenly gift, the rain, so they increase him.
+
+### Printed p. 35
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—waters
+- सिंधुं स (*siṃdhuṃ sa*)—as they join a river
+- तुल्याः (*tulyāḥ*)—channels
+- प्रदं इव (*pradaṃ iva*)—as they join the seas
+- यत् (*yat*)—when
+- सोमासः (*somāsaḥ*)—Soma juices
+- इंद्रं अभि (*iṃdraṃ abhi*)—towards Indra
+- समक्षरन् (*samakṣaran*)—flow
+- दिव्येन (*divyena*)—born of heaven
+- दासुना (*dāsunā*)—by the rain
+- वृष्टिः (*vṛṣṭiḥ*)—the rain
+- यवं स (*yavaṃ sa*)—as it makes barley grow
+- विप्राः (*viprāḥ*)—the wise
+- अस्य (*asya*)—of this Indra
+- महः (*mahaḥ*)—the greatness
+- सदने (*sadane*)—in the sacrificial house
+- वर्धंति (*vardhaṃti*)—they increase
+
+##### भावार्थ (Bhāvārtha)
+
+When the Soma juices flow towards Indra, as waters join a river and channels join the seas, then the wise praisers increase Indra's greatness in the sacrificial house, as the rain, born of heaven, nourishes the barley.
+
+##### English translation
+When the Soma juices flow towards Indra, as waters to the sea, as rivers to a lake, then the pious worshippers augment his greatness in the (sacrificial) abode, as the rain by its heavenly gift, (augments) the barley.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ न क्रु॒द्धः प॑तय॒द्रजः॒ स्वा यो अ॒र्यप॑त्नि॒रकृ॑णोदि॒मा  ॒
+> अपः ।  
+> स सु॑न्व॒ते म॒घवा॑ जी॒रदा॑न॒वेऽविं॑द॒ज्योति॒र्मन॑वे ह॒विष्म॑ते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । न । क्रुद्धः । पतयत् । रजिसु । आ । यः । अर्यपत्निः । अकृणोत् ।  
+> इमाः । अपः ।  
+> सः । सुन्वते । मघवा । जीरदानवे । अविंदत् । ज्योतिः । मनदे । हविष्मते ॥८॥
+
+### Printed p. 36
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रजिसु लोकेषु वृषा न यथा वृषभः क्रुद्धः सन् प्रतिवृषभदधाय पतयद्दच्छति तद्वद्य इंद्रः क्रुद्धः सन्मेघवधाय पतयति हत्वा च मेघमर्यपत्निः
+> सर्वस्य जगतः स्वामिन इंद्रस्य पालयितव्या इमाः प्रसिद्धा अपो दृष्ट्त्युदकान्याकृणोत् अकृणोति अस्मदभिमुखं करोति स मघवा धनवानिंद्रः सुस्वते सोमभिषवं कुर्वते जीरदानवे क्षिप्रदानाय हविष्मते मनदे मनुष्याय । यजमानायेत्यर्थः । ज्योतिस्तेजोऽविंदत् । प्रायच्छत् ॥
+
+##### Gist of the bhāṣya
+
+In the worlds, as an angry bull rushes to destroy a rival bull, so Indra, angry, rushes to slay the cloud. Having slain the cloud, he makes these well-known waters, the rain-waters to be guarded, belonging to Indra, the lord of the whole world, turn towards us. That wealthy Indra gives light, splendour, to the man who presses Soma, gives quickly and has oblations, that is, to the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रजिसु (*rajisu*)—in the worlds
+- क्रुद्धः (*kruddhaḥ*)—angry
+- वृषा (*vṛṣā*)—the bull
+- पतयत् स (*patayat sa*)—as it rushes forward and charges
+- यः (*yaḥ*)—when the angry Indra rushes forward against the clouds
+- आर्यपत्निः (*āryapatniḥ*)—the nourishing, of Indra, the protector of the world
+- इमा अपः (*imā apaḥ*)—these rain-waters
+- आकृणोत् (*ākṛṇot*)—fall towards us
+- समघवा (*samaghavā*)—that same Indra
+- सुस्वते (*susvate*)—to the presser of Soma
+- जीरदानवे (*jīradānave*)—one who gives oblations quickly
+- हविष्कृते (*haviṣkṛte*)—who has oblations
+- मनवे (*manave*)—to the sacrificer
+- ज्योतिः (*jyotiḥ*)—splendour
+- अविंदत् (*aviṃdat*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+As in the world an angry bull rushes forward and charges, so when the angry Indra rushes forward against the clouds, these rain-waters, the nourishers of Indra, protector of the world, fall towards us. That same Indra provides splendour to the sacrificer who presses Soma and quickly makes offerings.
+
+##### English translation
+As in the world an angry bull rushes (upon another), so does Indra, who directs (towards us) the waters, the brides of the lord (of earth): when (the Soma) is effused Maghavat bestows light upon the man, who gives promptly, who offers oblations.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उज्जा॑यतां पर॒शुज्योति॑षा स॒ह भू॒या य॒तस्य॑ सु॒दुघा॑  ॒
+> पुराण॒वत् ।
+
 ---
 
-**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
+**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
