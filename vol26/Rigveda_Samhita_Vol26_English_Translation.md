@@ -28947,7 +28947,7 @@ Soma, who makes a sound like a golden-coloured, sturdy bull bellowing among the 
 
 ##### Gist of the bhāṣya
 
-"O Soma, you are रसाय्यः (*rasāyyaḥ*)", that is, to be tasted; flowing with milk, you send forth sound and attain the sweet the अंशुं (*aṃśuṃ*), the state of juice.
+"O Soma, you are रसाय्यः (*rasāyyaḥ*)", that is, to be tasted; flowing with milk, you send forth sound and attain the sweet अंशुं (*aṃśuṃ*), the state of juice.
 
 ### Printed p. 778
 
