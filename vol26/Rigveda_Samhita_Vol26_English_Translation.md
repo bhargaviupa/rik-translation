@@ -17338,6 +17338,268 @@ Soma makes a white, shining form when he wishes to ascend to heaven; when Soma h
 - कवंधं (*kavaṃdhaṃ*)—the cloud
 - अव दर्षत् (*ava darṣat*)—he splits
 
+### Printed p. 466
+
+##### भावार्थ (Bhāvārtha)
+
+When Soma wishes to ascend to heaven, he assumes a white-coloured form. Soma, the showerer of desires and powerful, knows that he should give abundant wealth to the praisers. That same Soma, by his wisdom, joins excellent rites. From the atmosphere he splits the cloud that holds water.
+
+##### English translation
+When the Soma seeks to gain (heaven) he assumes a white colour; showering (benefits), powerful he knows (how to bestow) abundant wealth (upon the worshippers). He by his wisdom is associated with excellent rites; he bursts asunder the rain cloud from heaven.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ श्वे॒तं क॒लशं॒ गोभि॑र॒क्तं कार्ष्म॒न्ना वा॒ज्य॑क्रमीत्सस॒वान् ।  
+> आ हि॑न्विरे॒ मन॑सा देव॒यंतः॑ क॒क्षीव॑ते श॒तहि॑माय॒ गोना॑म् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । श्वेतम् । कलशम् । गोभिः । अक्तम् । कार्ष्मन् । आ । वाजी । अक्रमीत् । ससऽवान् ।  
+> आ । हिन्विरे । मनसा । देवऽयंतः । कक्षीवते । शतऽहिमाय । गोनाम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अथानंतरं श्वेतं संप्रति सोमसंसर्गात् श्वेतवर्णं गोभिः उदकैः अक्तं संपृक्तं द्रोणकलशं ससवान् संभजन सोमः आ अक्रमीत् आक्रमते । कार्ष्मन्। कार्ष्मशब्दः काष्ठावचनः । आजिं धावंतो योद्धारो यां गंतुमिच्छंति तस्यां काष्ठायां वाजी कश्चिदश्वो युद्धं भजमान आक्रमीत् आक्रमते । सोमः काष्ठायां द्रोणकलशे पततीत्यर्थः । ततस्तस्मै सोमाय देवयंतः देवानिच्छंत ऋत्विजः मनसा आ हिन्विरे स्तुतीराभिमुख्येन प्रेरयंति । तत्र शतहिमाय बहुगमनाय कक्षीवते स्तोत्रकारिण एतन्नामकायर्षये सोमः गोनां गाः पशून् प्रेरयति । ' गोः पादांते ' (पा. . ७. १. ५७ ) इति नुडागमः । ‘ क्रियाग्रहणं कर्तव्यम्' इति संप्रदानसंज्ञा । चतुर्थ्यर्थे षष्ठी ॥
+
+##### Gist of the bhāṣya
+
+Then, now, Soma, white through contact with Soma, mingled with waters, enjoying the Droṇa vessel, comes upon it. The word kārṣman means the goal. As a warrior who races into battle, some horse, delighting in the fight, reaches the goal to which he wishes to go, so Soma falls into the Droṇa vessel, the goal. Then the priests, desiring the gods, urge on with their minds, that is, send forward their praises toward that Soma. There Soma sends cows, cattle, to the sage of that name, Kakṣīvat, the praiser, who has a hundred winters and is of much going.
+
+### Printed p. 467
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कार्ष्मन् (*kārṣman*)—running toward the battle
+- वाजी (*vājī*)—as a horse takes possession of the field of battle
+- श्वेतं (*śvetaṃ*)—white in colour
+- गोभिः (*gobhiḥ*)—with waters
+- अक्तं (*aktaṃ*)—and joined
+- कलशं (*kalaśaṃ*)—the Droṇa vessel
+- ससवान् (*sasavān*)—Soma, who goes and joins it
+- आक्रमीत् (*ākramīt*)—takes possession of
+- देवयंतः (*devayaṃtaḥ*)—and the priests who desire the gods
+- मनसा (*manasā*)—with meditation
+- आहिन्विरे (*āhinvire*)—enliven
+- शतहिमाय (*śatahimāya*)—for him whose hundred years have passed
+- कक्षीवते (*kakṣīvate*)—for Kakṣīvat
+- गोनां (*gonāṃ*)—he gives a multitude of cows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who goes and joins the Droṇa vessel, white in colour and joined with waters, takes possession of it as a horse running toward battle takes possession of the field of battle. The priests who desire the gods enliven him with meditation. He gives a multitude of cows to Kakṣīvat, whose hundred years have passed.
+
+##### English translation
+Soon the Soma successfully reaches the white water-besprinkled pitcher like a horse (reaching) the goal: the devout (priests) stimulate him with their praise ; (he bestows) cattle upon Kakshivat who has seen a hundred winters.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्भिः सो॑म पपृचा॒नस्य॑ ते॒ रसोऽव्यो॒ वारं॒ वि प॑वमान धावति ।  
+> स मृ॒ज्यमा॑नः क॒विभि॑र्मदिंतम॒ स्वद॒स्वेंद्रा॑य पवमान पी॒तये॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्ऽभिः । सोम । पपृचानस्य । ते । रसः । अव्यः । वारम् । वि । पवमान । धावति ।  
+> सः । मृज्यमानः । कविऽभिः । मदिन्ऽतम । स्वदस्व । इंद्राय । पवमान । पीतये ॥ ९ ॥
+
+### Printed p. 468
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पवित्रेण पूयमान हे सोम अद्भिः वसतीवर्यादिभिरुदकैः पपृचानस्य संपृच्यमानस्य ते तव रसः अव्यः अवेः वारं वालं दशापवित्रं वि धावति विविधं प्राप्नोति । ततो हे मदिंतम मादयितृतम हे पवमान सोम त्वं कविभिः क्रांतकर्मभिर्ऋत्विग्भिः मृज्यमानः पूयमानः सन् इंद्राय पीतये इंद्रस्य पानार्थं स्वदस्व प्रियरसो भव ॥ ॥ ३२ ॥
+
+##### Gist of the bhāṣya
+
+O purified Soma, your juice, mingled with waters such as the Vasatīvarī, runs variously to the hair of the sheep, the ten-fold filter. Then, O most exhilarating purified Soma, being cleansed by the priests, the sages of far-reaching works, be sweet, of agreeable juice, for Indra's drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—purified
+- सोम (*soma*)—O Soma
+- अद्भिः (*adbhiḥ*)—with the waters such as the Vasatīvarī
+- पपृचानस्य (*papṛcānasya*)—who joins
+- ते (*te*)—your
+- रसः (*rasaḥ*)—juice
+- अव्यः (*avyaḥ*)—of wool
+- वारं (*vāraṃ*)—the ten-fold filter that has threads
+- वि धावति (*vi dhāvati*)—goes and joins, separately
+- मदिंतम (*madiṃtama*)—tasty
+- पवमान (*pavamāna*)—O god Soma
+- कविभिः (*kavibhiḥ*)—by the priests
+- मृज्यमानः (*mṛjyamānaḥ*)—being purified
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for drinking
+- स्वदस्व (*svadasva*)—become one of agreeable taste
+
+##### भावार्थ (Bhāvārtha)
+
+O purified god Soma, your juice, which joins with waters such as the Vasatīvarī, goes and joins, separately, the ten-fold filter that has threads of wool. O tasty Soma, being purified by the priests, become one of agreeable taste for the drinking of Indra.
+
+##### English translation
+Purified Soma, when you are diluted with the water your juice passes through the woollen fleece; cleansed by the sages, O exhilarating purified (Soma), be sweet-flavoured for Indra to drink.
+
+## Sūkta 75 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘अभि प्रियाणि ' इति पंचर्चमष्टमं सूक्तं भार्गवस्य कवेरार्षं जागतं पवमानसोमदेवताकम् । तथानुक्रम्यते-’ अभि प्रियाणि पंच कविः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five ṛks beginning अभि प्रियाणि (*abhi priyāṇi*) is the eighth sūkta; its seer is Kavi Bhārgava, its metre is Jagatī, its deity is Pavamāna Soma. So it is listed in the Anukramaṇī: अभि प्रियाणि पंच कविः (*abhi priyāṇi paṃca kaviḥ*). The ritual use has been stated already.
+
+##### Anuvāda
+
+The sūkta अभि प्रियाणि (*abhi priyāṇi*) is the eighth sūkta in the fourth anuvāka. It has five ṛks. The seer of this sūkta is the one called Kavi, a son of Bhṛgu; Pavamāna
+### Printed p. 469
+
+Soma is the deity; the metre is Jagatī. In the Anukramaṇī it is said अभि प्रयाणि पंच कविः (*abhi prayāṇi paṃca kaviḥ*) **NOTE**. The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 75. Maṇḍala 9, Anuvāka 4, Sūkta 75. Aṣṭaka 7, Adhyāya 2, Varga 33. Number of ṛks in the sūkta: 5. Seer: Kavi. Deity: Pavamāna Soma. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रि॒याणि॑ पवते॒ चनो॑हितो॒ नामा॑नि य॒ह्वो अधि॒ येषु॒ वर्ध॑ते ।  
+> आ सूर्य॑स्य बृह॒तो बृ॒हन्नधि॒ रथं॒ विष्वं॑चमरुहद्विचक्ष॒णः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रियाणि । पवते । चनःऽहितः । नामानि । यह्वः । अधि । येषु । वर्धते ।  
+> आ । सूर्यस्य । बृहतः । बृहन् । अधि । रथम् । विष्वंचम् । अरुहत् । विऽचक्षणः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चनोहितः । चन इत्यन्ननाम । चायतेरसुनि चन इत्यौणादिकसूत्रेण निपातितः । चनसेऽन्नाय हितः यद्वा हितान्नः सोमः प्रियाणि जगतः प्रीणयितॄणि नामानि नमनशीलानि तान्युदकानि अभि पवते अभितः करोति । येषु अंतरिक्षस्थितेषूदकेषु यह्वः महानयं सोमः अधि वर्धते अधिकं प्रवृद्धो भवति । अपां मध्ये सोमो वसति । ततः बृहन् महान् सोमः बृहतः महतः परिवृढस्य सूर्यस्य विष्वंचं विष्वग्गमनम् अधि उपरि रथं विचक्षणः सर्वस्य विद्रष्टा सन् आ अरुहत् आरोहति । ‘ अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ' इति ॥
+
+##### Gist of the bhāṣya
+
+Canohita: cana is a name for food; Soma is placed for food, or else Soma is one whose food is beneficial. He purifies, that is, makes all around, the waters, which are dear to the world and bowing, in which waters standing in the atmosphere this great Soma grows, becomes greatly increased, for Soma dwells in the midst of the waters. Then the great Soma, the beholder of all, mounts above the chariot of the great sun, which goes everywhere. Sāyaṇa cites अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते (*agnau prāstāhutiḥ samyagādityamupatiṣṭhate*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषु (*yeṣu*)—in which waters of the atmosphere
+- यह्वः (*yahvaḥ*)—the great Soma
+- अधि वर्धते (*adhi vardhate*)—obtains growth, such
+- प्रियाणि (*priyāṇi*)—which are dear to the world
+
+### Printed p. 470
+
+- नामानि (*nāmāni*)—aiming at the waters
+- चनोहितः (*canohitaḥ*)—Soma, fit for eating
+- अभि पवते (*abhi pavate*)—flows
+- बृहन् (*bṛhan*)—the great Soma
+- विचक्षणः (*vicakṣaṇaḥ*)—having sight everywhere
+- बृहतः (*bṛhataḥ*)—of the great
+- सूर्यस्य (*sūryasya*)—sun
+- विष्वंचं (*viṣvaṃcaṃ*)—which moves everywhere
+- रथं अधि (*rathaṃ adhi*)—upon the chariot
+- आरुहत् (*āruhat*)—mounts
+
+##### भावार्थ (Bhāvārtha)
+
+Aiming at the waters that are dear to the world, in which the great Soma obtains growth, Soma, fit for eating, flows. The great Soma, having sight everywhere, mounts the chariot, moving everywhere, of the great sun.
+
+##### English translation
+(The Soma) fit for food flows towards the delightful waters in which the mighty (Soma) is fostered ; the beholder of all, the great (Soma) mounts the mighty sun's chariot which goes everywhere.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॑ जि॒ह्वा प॑वते॒ मधु॑ प्रि॒यं व॒क्ता पति॑र्धि॒यो अ॒स्या अदा॑भ्यः ।  
+> दधा॑ति पु॒त्रः पि॒त्रोर॑पी॒च्यं१॒॑ नाम॑ तृ॒तीय॒मधि॑ रोच॒ने दि॒वः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । जिह्वा । पवते । मधु । प्रियम् । वक्ता । पतिः । धियः । अस्याः । अदाभ्यः ।  
+> दधाति । पुत्रः । पित्रोः । अपीच्यम् । नाम । तृतीयम् । अधि । रोचने । दिवः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य सत्यभूतस्य यज्ञस्य जिह्वा मुख्यत्वेन जिह्वास्थानीयः सोमः प्रियं प्रियकरं मधु मदकरं रसं पवते क्षरति। कीदृशः। वक्ता शब्दकृत् । यद्वा । स्तोतृभिः क्रियमाणाः स्तुतयः साधीयस्य इति प्रतिश्रवणस्य कर्ता । अस्याः धियः एतस्य कर्मणः पतिः पालयिता अदाभ्यः रक्षोभिर्हिंसितुमशक्यः पुत्रः यजमानः पित्रोः मातापित्रोः अपीच्यम् अंतर्हितं यत् नाम । तौ न जानीतो नामकरणवेलायाम् । तस्मात्तयोरपरिज्ञायमानं तत् तृतीयं नाम दिवः द्युलोकस्य रोचने दीप्यमाने सोमेऽभिषूयमाणे सति अधि दधाति अत्यंतं धारयति । नक्षत्रव्यावहारिकनाम्नी प्रभाष्य सोमयाजीति तृतीयमस्य नाम इति भगवता बौधायनेनोक्तम् ( बौ. गृह्यशेष. १.११.४-७ ) ॥
+
+##### Gist of the bhāṣya
+
+Soma, who as the chief is like the tongue of the sacrifice, the true, distils the dear, intoxicating juice. What is he like? A speaker, one who makes sound. Or else, he is the one who gives the response that the praises made by the praisers will be well accomplished. He is the lord, the protector, of this rite, unassailable, that cannot be harmed by the rākṣasas. The son, the sacrificer, bears that name which is hidden from his father and mother: they do not know it at the time of naming. That third name, unknown to them, he holds firmly in the shining heaven, when Soma is being pressed. Having declared the name from the star and the name in common use, the revered Bodhāyana said that Somayājin is his third name (Bau. Gṛhyaśeṣa. 1.11.4-7). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वक्ता (*vaktā*)—who makes sound
+- अस्याः धियः (*asyāḥ dhiyaḥ*)—of this rite
+- पतिः (*patiḥ*)—the protector
+- अदाभ्यः (*adābhyaḥ*)—unharmed
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- जिह्वा (*jihvā*)—who is like the tongue, Soma
+- प्रियं (*priyaṃ*)—dear
+- मधु (*madhu*)—honey
+- पवते (*pavate*)—makes flow
+- पुत्रः (*putraḥ*)—the sacrificer
+- रोचने (*rocane*)—shining
+- दिवः अधि (*divaḥ adhi*)—in the world of heaven
+- पित्रोः (*pitroḥ*)—to his father and mother also
+- अवीच्यं (*avīcyaṃ*)—unknown, secret **NOTE**
+- तृतीयं नाम (*tṛtīyaṃ nāma*)—the third name
+- दधाति (*dadhāti*)—bears
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who makes sound, is the protector of this rite, unharmed, and is like the tongue of the sacrifice, makes the dear honey flow. The sacrificer bears, in the shining world of heaven, the third name, called Somayājin, which is unknown and secret even to his father and mother.
+
+##### English translation
+The tongue of the sacrifice (Soma) distils the delightful exhilarating (juice), speaking, lord of this rite, unassailable ; the son (the sacrificer) assumes a third name unknown to his parents in the brilliance of heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ द्युता॒नः क॒लशाँ॑ अचिक्रद॒न्नृभि॑र्येमा॒नः कोश॒ आ हि॑र॒ण्यये॑ ।  
+> अ॒भीमृ॒तस्य॑ दो॒हना॑ अनूष॒ताधि॑ त्रिपृ॒ष्ठ उ॒षसो॒ वि रा॑जति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । द्युतानः । कलशान् । अचिक्रदत् । नृऽभिः । येमानः । कोशे । आ । हिरण्यये ।  
+> अभि । ईम् । ऋतस्य । दोहनाः । अनूषत । अधि । त्रिऽपृष्ठः । उषसः । वि । राजति ॥ ३ ॥
+
+### Printed p. 472
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युतानः। ‘द्युत दीप्तौ' । दीप्यमानः नृभिः कर्मनेतृभिर्ऋत्विग्भिः हिरण्यये हिरण्मये कोशे अधिषवणचर्मणि । तस्य हिरण्मयत्वं ' हिरण्यपाणिरभिषुणोति ' इति हिरण्यसंबंधात् । तादृशे कोशे येमानः । छांदसे कर्मणि लिटि कानचि रूपम् । नियम्यमानः सोमः । ततः ऋतस्य सत्यभूतस्य यज्ञस्य दोहनाः दोग्धार ऋत्विजः ईम् एनं सोमम् अभि अनूषत अभिष्टुवंति । ‘ ग्रावाणो वत्सा ऋत्विजो दुहंति' (तै. सं. ६.२.११.४ ) इति तैत्तिरीयब्राह्मण एषां दोग्धृत्वमभिहितम् । सोमः कलशान् द्रोणाभिधानान् प्रति अव अचिक्रदत् अवक्रंदति शब्दायते । ततः त्रिपृष्ठः । त्रीणि सवनान्येव पृष्ठानि यस्य स तथोक्तः त्रिषु सवनेषु सोमस्य विद्यमानत्वात् । त्रिचक्रादित्वादुत्तरपदांतोदात्तत्वम्। तादृशः सोमः उषसः अधि यागाहनि वि राजति । 'अधिशीङ्स्थासां० ) (पा. सू. १. ४, ४६ ) इति द्वितीया । तेष्वहःसु विशेषेण दीप्यते । यद्वा । राजतिरंतर्णीतण्यर्थः । अहानि प्रकाशयति ॥
+
+##### Gist of the bhāṣya
+
+Soma, shining, is held by the priests, the leaders of the rite, in the golden receptacle, the pressing-skin; it is golden because of its connection with gold, as in हिरण्यपाणिरभिषुणोति (*hiraṇyapāṇirabhiṣuṇoti*) **GLOSS**. Soma, so held in the receptacle, then the priests, the milkers of the true sacrifice, praise this Soma; the Taittirīya Brāhmaṇa states their being milkers: ग्रावाणो वत्सा ऋत्विजो दुहंति (*grāvāṇo vatsā ṛtvijo duhaṃti*) (Tai. Saṃ. 6.2.11.4) **GLOSS**. Soma cries out toward the vessels called Droṇa. Then he is tripṛṣṭha: the three pressings are his backs, since Soma is present in the three pressings. Such a Soma shines distinctly upon the days of the sacrifice. Or else, the verb is causal in sense: he makes the days shine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युतानः (*dyutānaḥ*)—who shines
+- नृभिः (*nṛbhiḥ*)—by the priests
+- हिरण्यये कोशे (*hiraṇyaye kośe*)—in the golden vessel
+- येमानः (*yemānaḥ*)—Soma who is pressed and gathered together
+- कलशान् (*kalaśān*)—having joined the Droṇa vessels
+- अवाचिक्रदत् (*avācikradat*)—makes a sound **NOTE**
+- ऋतस्य (*ṛtasya*)—the sacrifice
+- दोहनाः (*dohanāḥ*)—the priests who milk
+- ईं (*īṃ*)—this Soma
+- अभ्यनूषत (*abhyanūṣata*)—praise **NOTE**
+- त्रिपृष्ठः (*tripṛṣṭhaḥ*)—Soma, who is the support of all three pressings
+- उषसः अधि (*uṣasaḥ adhi*)—on each of the days of sacrifice
+- विराजति (*virājati*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who shines and is pressed and gathered together by the priests in the golden vessel, joins the Droṇa vessel and makes a sound. The priests who milk the sacrifice praise this Soma. Soma, the support of all three pressings, shines on each day of the sacrifice.
+
+##### English translation
+Shining, he cries aloud (descending) into the vessels, pressed by the priests into the golden receptacle ; the milkers of the sacrifice glorify him ; the supporter of the three sacrifices shines (most) on the days of sacrifice.'
+
 ---
 
-**Progress note:** Done through printed p. 465. Sukta 74 rks 3 (end)-7 (partial), pp. 460-465
+**Progress note:** Done through printed p. 472. Sukta 74 rks 8-9, Sukta 75 rks 1-3, pp. 466-472
