@@ -16616,6 +16616,192 @@ That is: Kātthakya says the sacrifice has the name Narāśaṃsa because men (p
 (Ma. Saṃ. 7-2-2)
 In this Ṛk the sense of Agni alone is fitting. Among the deities listed in the Nighaṇṭu, the deity Narāśaṃsa is said to be one of the other forms of Agni. This the authors of the Bṛhaddevatā
 
+### Printed p. 488
+The Kannada continues the quotation from the Bṛhaddevatā:
+नरांशंसस्तश्चैनमेनमेवाश्रितस्त्वळः । बहिर्द्वारश्च देव्योऽग्निमेनमेव तु संश्रिताः (*narāṃśaṃsastaścainamenamevāśritastvaḷaḥ | bahirdvāraśca devyo 'gnimenameva tu saṃśritāḥ*) (Bṛ. De. 1-107). By this śloka the author says that Narāśaṃsa is included in Agni, like the other deities mentioned here. And:
+पृथक्त्वेन समस्तैस्तु यज्ञे यच्छस्यते नृभिः । स्तुवंत्याप्रीषु तेनेषुं नराशंसं तु कारवः ॥ (*pṛthaktvena samastaistu yajñe yacchasyate nṛbhiḥ | stuvaṃtyāprīṣu teneṣuṃ narāśaṃsaṃ tu kāravaḥ ‖*) (Bṛ. De. 2-28). Because he is praised separately by all the men gathered at the sacrifice, the poets praise him (Agni) in the Āprī hymns under the name Narāśaṃsa. Having said this, the author also endorses the view stated by the Nirukta writers.
+नराशंसमिहैके तु अग्निमाहुरथेतरे । नराः शंसंति सर्वॆऽस्मिन्नासीना इति नाध्वरे ॥ (*narāśaṃsamihaike tu agnimāhurathetare | narāḥ śaṃsaṃti sarvè 'sminnāsīnā iti nādhvare ‖*) and एतमेवाहुरन्येऽग्निं नराशंसोऽध्वरे ह्ययं । नरैः प्रशस्य आसीनैराहुश्चैवर्त्विजो नरः ॥ (*etamevāhuranye 'gniṃ narāśaṃso 'dhvare hyayaṃ | naraiḥ praśasya āsīnairāhuścaivartvijo naraḥ ‖*) (Bṛ. De. 3-2, 3). Some say that Narāśaṃsa is Agni himself. Others say he is the sacrifice, because men gather and praise it. Yet others hold that Narāśaṃsa is Agni, because he is praised by the men gathered at the sacrifice. The third view is a reconciliation of the first and the second. Besides these two meanings, Sāyaṇa has also given a third. In his commentary on Ṛ. Saṃ. 1-89-9 there is this explanation:
+नराशंसमेतन्नामकं देवविशेषं । यद्वा अवयवार्थव्युत्पत्ता सदसस्पतिदेवतापरोऽयं शब्दः । अत्र अग्निवत् सदसस्पतेरपि नरैः शस्यमानत्वात् नराशंसस्त्वं । एतमेवाभिप्रायं हृदि निधाय ब्राह्मणमेवमाम्नायते प्रजा वै नरो वाक् शंसः ॥ (*narāśaṃsametannāmakaṃ devaviśeṣaṃ | yadvā avayavārthavyutpattā sadasaspatidevatāparo 'yaṃ śabdaḥ | atra agnivat sadasaspaterapi naraiḥ śasyamānatvāt narāśaṃsastvaṃ | etamevābhiprāyaṃ hṛdi nidhāya brāhmaṇamevamāmnāyate prajā vai naro vāk śaṃsaḥ ‖*) (Ai. Brā. 6-27). Narāśaṃsa may mean a particular deity of this name. Since the lord of the assembly (Sadasaspati) too is praised by men, and since the sentence quoted from the Aitareya Brāhmaṇa suggests this sense, the word may also have this meaning; thus the third meaning is shown. But it can be said that throughout the Ṛksaṃhitā this word refers to Agni.
+
+### Printed p. 489
+In Ṛks such as नराशंसः प्रति धामान्यंजन् तिस्रो दिवः प्रति मह्ना स्वर्चिः । घृतपुषा मनसा हव्यमुंदन्मूर्धन्यज्ञस्य समनक्तु देवान् ॥ (*narāśaṃsaḥ prati dhāmānyaṃjan tisro divaḥ prati mahnā svarciḥ | ghṛtapuṣā manasā havyamuṃdanmūrdhanyajñasya samanaktu devān ‖*) (Ṛ. Saṃ. 2-3-2), the word Narāśaṃsa is understood to mean Agni.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था क॒विस्तु॑वी॒रवा॒न्कया॑ गि॒रा बृह॒स्पति॑र्वावृधते सुवृ॒क्तिभिः॑ ।  
+> अ॒ज एक॑पात्सु॒हवे॑भि॒र्ऋक्व॑भि॒रहिः॑ शृणोतु बु॒ध्यो॒३॒॑ऽहवी॑मनि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । कविः । तुविरवान् । कया । गिरा । बृहस्पतिः । ववृधते । सुवृक्तिभिः ।  
+> अजः । एकपात् । सुहवेभिः । ऋक्वभिः । अहिः । शृणोतु । बुध्न्यः । हवीमनि ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः कांतप्रज्ञोऽग्निः कथा कथं केन प्रकारेण तुवीरवान्बहुस्तोत्रयुक्तो भवति ॥ मत्त्वर्थीयप्रत्ययावृत्तिः । यद्वा । तुविशब्दस्य रो मत्त्वर्थीयः ।
+> बाहुल्ययुक्तदेवैः सहितो भवति ॥ कया वा गिरा स्तुत्या बहुमान्भवति । बृहस्पतिरेतन्नामको देवः सुवृक्तिभिः शोभनाभिः स्तुतिभिस्तथा वावृधते। तथैकपात् । एकोऽसहाय एव पतति गच्छतीत्येकपात् तादृशो दिवो धारयिताज एतन्नामको देवश्च
+> सुहवेभिः शोभनाह्वानैर्युक्वभिर्मंत्रवद्धिः स्तोत्रैर्वावृधते । एते त्रयोदेवा
+> वर्धंते ॥ त्रित्वापेक्षया बहुवचनं । वृधु वृद्धौ । व्यत्ययेन शपः श्लुः ॥ अहिर्बुध्न्यश्चॆतन्नामको देवश्च हवीमन्याह्वानेऽस्माञ्णोणोतु ॥
+
+##### Gist of the bhāṣya
+
+The sage, Agni, of lovely wisdom: "in what way" is he rich in praise (तुवीरवान् (*tuvīravān*)), that is, possessed of many hymns? The suffix indicating possession is repeated. Or else the र (*ra*) of the word तुवि (*tuvi*) is the possessive: he is accompanied by gods marked by abundance. By what hymn does he become much honoured? The deity Bṛhaspati is magnified by fine praises. Likewise Aja Ekapād (the one who goes, पतति (*patati*), alone and unaided) the sustainer of heaven, is magnified by well-invoking, mantra-bearing hymns. These three gods are magnified; the plural is by reference to the number three. The root is वृधु वृद्धौ (*vṛdhu vṛddhau*). The deity Ahirbudhnya also: let him hear us at the invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—Agni the wise
+- कथा (*kathā*)—in what manner (is he praised)
+- कया गिरा (*kayā girā*)—(accompanied) by what praise
+- तुविरवान् (*tuviravān*)—he is accompanied by abundant praisers
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—by excellent praises
+- वावृथते (*vāvṛthate*)—grows
+- अज एकपात् (*aja ekapāt*)—the god named Aja Ekapād
+- सुहवेभिः (*suhavebhiḥ*)—by excellent invocations
+- ऋक्वभिः (*ṛkvabhiḥ*)—by praises in the form of mantras
+- वावृथते (*vāvṛthate*)—grows
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—the god named Ahirbudhnya
+- हवीमनि (*havīmani*)—at the times of invocation
+- शृणोतु (*śṛṇotu*)—let him hear our invocations
+
+### Printed p. 490
+
+##### भावार्थ (Bhāvārtha)
+
+In what manner is the wise Agni praised? By how many praisers, rich in praise, is he accompanied? Bṛhaspati grows by excellent praises. The god named Aja Ekapād grows by excellent invocations and by praises in the form of mantras. Let the god named Ahirbudhnya hear our invocations at the times of invocation.
+
+##### English translation
+How is the sage (Agni) adored by multitudes, and by what praises ? Brihaspati is magnified with sacred hymns ; Aja, walking alone, is magnified with solemn invocations and prayers : may Ahirbudhnya hear us at the season of invocation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दक्ष॑स्य वादिते॒ जन्म॑नि व्र॒ते राजा॑ना मि॒त्रावरु॒णा वि॑वाससि ।  
+> अतू॑र्तपंथाः पुरु॒रथो॑ अर्य॒मा स॒प्तहो॑ता॒ विषु॑रूपेषु॒  ॑
+> जन्मसु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दक्षस्य । वा । अदिते । जन्मनि । व्रते । राजाना । मित्रावरुणा । आ । विवाससि ।  
+> अतूर्तपंथाः । पुरुरथः । अर्यमा । सप्तहोता । विषुरूपेषु । जन्मसु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अदिते पृथिवि दक्षस्य सूर्यस्य जन्मनि तस्मिञ्चिते व्रते तस्य यज्ञकर्मणि
+> राजाना राजंतौ मित्रावरुणौ विवाससि । वाशब्द उपमार्थः । यथा त्वं वेदिभूता
+> सती तौ पर्यचरः एवमिदानीमप्यस्मद्यज्ञॆ कुर्विति पृथिवीमाशास्ते । सोऽर्यमारीणां तमसां यंता नियंता सूर्यो विषुरूपेषु नानारूपेषु जन्मसु
+> कर्मस्वनहमुद्यन् सप्तहोता । सप्त रश्मयो यस्मिन्नराइज्जु ह्वति प्रक्षिपंति स एतादृशो भवति । अतूर्तपंथाः । अतूर्तस्वरारहितः पंथा यस्य सः । नियतगतित्वात्
+> त्वरमाणो ह्यनियतगतिर्भवति । पुरुरथः । रथो रंहतेः । प्रत्यहं भुक्तिभेदाद्बहुरंहणो भवति ॥ यद्वा। हे आदिते प्रातस्तनि संध्यॆ दक्षस्यादित्यस्य जन्मन्न्युदयाख्ये
+> जन्मनि कर्मणि । उद्यत्यादित्य इत्यर्थः । वा शब्दः श्रुतिसामर्थ्याद्दक्षस्य वा जन्मनि त्वत्त-
+
+##### Gist of the bhāṣya
+
+O Aditi, Earth! At the birth (जन्मनि (*janmani*)) of Dakṣa, the Sun, at his rite (व्रते (*vrate*), his sacrificial act), you serve the shining Mitra and Varuṇa (विवाससि (*vivāsasi*)). The word वा (*vā*) has the sense of comparison: as you, being the altar, served them, so now too perform the same at our sacrifice; thus he prays to the Earth. He is Aryaman, the controller (यंता (*yaṃtā*)) of the enemies, the darknesses: the Sun, in manifold-formed births, that is, actions, at sunrise, having seven ministering priests (सप्तहोता (*saptahotā*)): seven rays into which they pour (offerings) as into a fire. अतूर्तपंथाः (*atūrtapaṃthāḥ*): his path is free of hurry, because his course is fixed; one in a hurry has an unfixed course. पुरुरथः (*pururathaḥ*): रथो रंहतेः (*ratho raṃhateḥ*); by the difference in his daily course (bhukti) he moves swiftly in many ways.
+Or else: O Aditi, the morning twilight! At the birth of Dakṣa, the Āditya, that is, at the act called rising: the sun rising. The word वा (*vā*), by the force of the text, may also mean "at your birth, or at Dakṣa's".
+
+### Printed p. 491
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तव वा जन्मनि दक्षादिति । राजाना दीप्यमानौ मित्रावरुणा । अहर्नै मित्रो रात्रिर्वरुणः । ऐ. ब्रा. ४-१० । इति श्रुतेरहोरात्र्य मित्रावरुणावुच्येते । तौ विवाससि ।
+> परिचरसि । कथं । तदनुप्रवेशेन । अर्धं हि संध्याया रात्रिमनुप्रविशत्यर्धमहरिति । उत्तरार्धः पूर्ववत् । सप्तहोता । ह्वयतेरर्चतिकर्मण इदं रूदं ।
+> सप्तर्षयो भरद्वाजादयो होतारः स्तोतारः संतीति । अथवा सप्तहोता ।
+> मल्लिमु चांहसस्पतिसहिताः सप्तर्तवो यस्य होतारो भवंति तादृशः। अत्र निरुक्तं।
+> दक्षस्य वादिते जन्मनि कर्मणि व्रते राजानौ । नि.११-२३ । इत्यादि ॥
+
+##### Gist of the bhāṣya
+
+The shining Mitra and Varuṇa: "Day is Mitra, night is Varuṇa" (Ai. Brā. 4-10); by this text Mitra and Varuṇa are day and night. You serve them: how? By entering them; for half of the twilight enters the night and half the day. The latter half is as before. सप्तहोता (*saptahotā*): from the root ह्वयते (*hvayate*) in the sense of praising; the seven sages beginning with Bharadvāja are the praisers. Or else सप्तहोता (*saptahotā*): the one whose priests are the seven seasons together with the Aṃhaspati month. Here the Nirukta: दक्षस्य वादिते जन्मनि कर्मणि व्रते राजानौ । (*dakṣasya vādite janmani karmaṇi vrate rājānau |*) (Ni. 11-23), and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदिते (*adite*)—O Earth (Aditi)
+- दक्षस्य (*dakṣasya*)—of the Sun
+- जन्मनि (*janmani*)—at the time of birth
+- व्रते (*vrate*)—for his rite of worship
+- राजाना (*rājānā*)—the shining
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- आ विवाससि (*ā vivāsasi*)—you worship
+- अर्यमा (*aryamā*)—the Sun, who restrains darkness
+- विषुरूपेषु (*viṣurūpeṣu*)—having many forms according to varied actions
+- जन्मसु (*janmasu*)—at his times of rising and setting
+- सप्तहोता (*saptahotā*)—having seven kinds of rays
+- अतूर्तपंथाः (*atūrtapaṃthāḥ*)—having paths of unhurried going
+- पुरुरथः (*pururathaḥ*)—having many chariots
+
+##### भावार्थ (Bhāvārtha)
+
+O Earth (Aditi), at the time of the Sun's birth, for the rite of worshipping him, you worship the shining Mitra and Varuṇa. The Sun, who restrains darkness, at his times of rising and setting, which have many forms in accordance with actions, has seven kinds of rays, and has paths of unhurried going, or of one even course, and has many chariots, that is, is very swift.
+
+##### English translation
+At the birth of Daksha, at his sacred rite, you, Aditi, worship the royal Mitra and Varuna at the sacred rite. Aryaman: whose course is not hurried, the giver of delight to many, haviag seven ministering (rays), (proceeds) in his multiform births.
+
+##### विशेषविषयगळु (Special Topics)
+
+In giving the etymology of the word Aditi, Yāska has given a Nirukta for this Ṛk: अदितिः । अदितिरदीना देवमाता (*aditiḥ | aditiradīnā devamātā*) (Ni. 4-22).
+
+### Printed p. 492
+Aditi is the mother of the gods. Because she is not poor (*adīnā*), she has the name Aditi. As for the sons of Aditi: अष्टौ पुत्रासो अदितेः ।...........ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग्श्चेत्येते ॥ (*aṣṭau putrāso aditeḥ |...........tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāgścetyete ‖*) (Tai. Ā. 1-13-3). It says that Aditi has eight sons: Mitra, Varuṇa, Dhātā, Aryaman, Aṃśa, Bhaga, Indra and Vivasvān. Taking the present Ṛk, which contains this word Aditi, as the example, he gave the etymology thus:
+दक्षस्य वादिते जन्मनि व्रते कर्मणि राजान् मित्रावरुणौ परिचरसि । विवासतिः परिचर्यायां। हविष्मान् आविवासति। इत्याशास्तेर्वा। अतूर्तपंथा अत्वरमाणपंथा बहुरथो अर्यमादित्योऽरीन्नियच्छति सप्तहोता सप्तास्मै रश्मयो रसानभिसन्नामयंति सप्नैनम्मषयः स्तुवंतीति वा विषमरूपेषु जन्मसु कर्मसूदयेषु ॥ (*dakṣasya vādite janmani vrate karmaṇi rājān mitrāvaruṇau paricarasi | vivāsatiḥ paricaryāyāṃ| haviṣmān āvivāsati| ityāśāstervā| atūrtapaṃthā atvaramāṇapaṃthā bahuratho aryamādityo 'rīnniyacchati saptahotā saptāsmai raśmayo rasānabhisannāmayaṃti sapnainammaṣayaḥ stuvaṃtīti vā viṣamarūpeṣu janmasu karmasūdayeṣu ‖*) (Ni. 11-53).
+O Aditi, at the time of Dakṣa's birth you serve Mitra and Varuṇa, who are kings (shining like kings). For the root विवासति (*vivāsati*), परिचर्या (*paricaryā*) means serving. The Śruti sentence हविष्मान् आविवासति (*haviṣmān āvivāsati*) supports this meaning; or this root also has the meaning of praying, desiring. The word Aryaman here means Āditya. The path on which this Āditya travels is unobstructed, that is, no one can stop him; and his movement is even, without excessive speed; or his chariot has the power of moving very swiftly. The word सप्तहोता (*saptahotā*) means seven rays. The sun's seven kinds of rays are capable of drawing up the juices and the like, which are the sun's work; or the word may also be taken to mean the seven sages, who praise this Sun. The words विषुरूपेषु जन्मसु (*viṣurūpeṣu janmasu*) mean "at varied times of birth", that is, sunrise and sunset.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॒ अर्वं॑तो हवन॒श्रुतो॒ हवं॒ विश्वे॑ शृण्वंतु वा॒जिनो॑  ॒॑
+> मि॒तद्र॑वः ।  
+> स॒ह॒स्र॒सा मे॒धसा॑ताविन॒ त्मना॑ म॒हो ये धनं॑ समि॒थेषु॑  ॒
+> जभिरे ॥ ६ ॥
+
+### Printed p. 493
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । अर्वंतः । हवनश्रुतः । हवं । विश्वे । शृण्वंतु । वाजिनः । मितद्रवः ।  
+> सहस्रसाति । मेधसात् इव । त्मना । महः । ये । धनं । संइथेषु । जभिरे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हवनश्रुत आह्वानं शृण्वंतो वाजिनो बलवंतो मितद्रवॊः मितमार्गा
+> अध्वानं परिच्छिंदंतो विश्वे सर्वॆ प्रसिद्धा अर्वंतोऽश्वा इंद्रादीनां वाहनभूता
+> हर्यादयो नोऽस्माकं हवमाह्वानं शृण्वंतु । कीदृशाः । मेधसाताविव। मेधाः
+> स्तुतयः सायंते संभज्यंतेऽत्रेति मेधसातिर्यज्ञः। तस्मिन्निव त्वनात्मनैव सहस्रसाः
+> सहस्रसंख्याकथनस्य दातारः । ते शृण्वंतु येऽश्वाः समिधेषु । संग्रामनामैतत् ।
+> संप्राप्यते योद्धभिरत्रेति । तेषु संग्रामेषु महो महध्वनं जभ्रिरे । शत्रुभ्य
+> आहरंति ॥ हृग्रहोर्भः ॥
+
+##### Gist of the bhāṣya
+
+The horses that hear the invocation, strong, of measured course (cutting the road short), all those well-known horses, Hari and the others, the vehicles of Indra and the rest: let them hear our summons. Of what kind? मेधसाताविव (*medhasātāviva*): मेधाः (*medhāḥ*) are praises, which are shared (सायंते (*sāyaṃte*)) in it; so मेधसाति (*medhasāti*) is the sacrifice. As at that, they of themselves (त्मना (*tmanā*)) are givers (सहस्रसाः (*sahasrasāḥ*)) of thousands. Let those horses hear who in समिथेषु (*samitheṣu*) (a name for battle: it is reached by warriors there) carry off great wealth (महो (*maho*)) from enemies (जभ्रिरे (*jabhrire*)). हृग्रहोर्भः (*hṛgrahorbhaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मेधसाताविना (*medhasātāvinā*)—as if giving wealth generously at sacrifices
+- त्मना (*tmanā*)—of their own impulse
+- सहस्रसाः (*sahasrasāḥ*)—providing wealth in many ways
+- ये (*ye*)—which horses
+- समिथेषु (*samitheṣu*)—in battles
+- महः धनं (*mahaḥ dhanaṃ*)—abundant wealth
+- जभ्रिरे (*jabhrire*)—carry off from enemies
+- हवनश्रुतः (*havanaśrutaḥ*)—hearing our invocations
+- वाजिनः (*vājinaḥ*)—powerful
+- मितद्रवः (*mitadravaḥ*)—of swift going along the way
+- ते विश्वे अर्वंतः (*te viśve arvaṃtaḥ*)—all those divine horses, Hari and the rest
+- नः (*naḥ*)—our
+- हवं (*havaṃ*)—invocation
+- शृण्वंतु (*śṛṇvaṃtu*)—let them hear
+
+##### भावार्थ (Bhāvārtha)
+
+May all the divine horses, Hari and the rest (the horses that are the vehicles of Indra and the others), which of their own impulse provide wealth in many ways, as if giving wealth generously at sacrifices, which carry off immense wealth from enemies in battles, which hear our invocations, which are powerful and of swift going along the way, hear our invocation.
+
+##### English translation
+May those universal horses (of the deities), who iisten to invocations, who are vigorous, swift roadsters, hear our summons : they who spontaneou-sly are the givers of thousands, as if at a sacrifice ; they who have won great wealth in battles.
+
 ---
 
-**Progress note:** Done through printed p. 487. pp. 482-487 (batch API)
+**Progress note:** Done through printed p. 493. pp. 488-493 (batch API)
