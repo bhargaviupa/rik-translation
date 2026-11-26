@@ -5390,6 +5390,218 @@ Then the deities Agni and Soma, although they had thus obtained the boon they de
 
 Thereafter the winds called prāṇa and apāna abandoned that Vṛtra; that is, they left his body. The word prāṇa has the meaning *dakṣa*, and the word apāna the meaning "kratu". Dakṣa is skill in work and activities, intelligence; kratu is bodily power for work, capacity. Both of these left that Vṛtra, who had his mouth open. Therefore, while performing a sacrificial rite, if one makes a bodily movement or yawns and opens the mouth, the mantra मयि द्रक्षकतू (*mayi drakṣakatū*)**NOTE**should be uttered. If one does so, prāṇa and apāna do not leave the sacrificer but stay firm, and long life also results.
 
+### Printed p. 164
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स देवता वृत्रान्निर्हूय वार्त्र्घ्नग्ं-हविः पूर्णमासे निरवपद् घ्नंति
+> ना एनं पूर्णमास आमावास्यायां प्याययंति तस्माद्वार्त्र्घ्नी पूर्णमासेऽनूच्येते वृधन्वती अमावास्यायां ॥
+
+##### Gist of the bhāṣya
+
+Indra, having called the deities out from Vṛtra, prepared the Vārtraghna oblation on the full-moon day. The Brāhmaṇa says that on the full moon they strike him (Vṛtra), and on the new moon they make him swell. Therefore the two Vārtraghnī verses are recited on the full moon, and the Vṛdhanvatī verses on the new moon.
+
+Afterwards Indra called Agni, Soma and the other deities out of the mouth of the demon Vṛtra, and on the full-moon day he prepared the oblation, consisting of the offering-materials and the portions of ghee, as the means of destroying Vṛtra. It is known to everyone in worldly life, too, that the enemy called darkness, which covers everything everywhere, is destroyed by the bright moonlight of the full moon. On the new-moon day, however, there is no moonlight, so the enemy, darkness (Vṛtra), spreads everywhere and grows. Therefore, for the slaying of Vṛtra, on the full-moon day, before the oblations called the Āgneya-Somīya ājyabhāgas,
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्वृत्राणि जंघनद्दृविणस्युर्विपन्यया । समिद्धः शुक्र आहुतः ।
+
+##### Gist of the bhāṣya
+
+A Ṛk is quoted, with its reference (Ṛ. Saṃ. 6-16-34).
+
+(Ṛ. Saṃ. 6-16-34)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं सोमासि सत्पतिस्त्वं राजोत वृत्रहा । त्वं भद्रो असि क्रतुः ॥
+
+##### Gist of the bhāṣya
+
+A second Ṛk is quoted, with its reference (Ṛ. Saṃ. 1-91-5).
+
+(Ṛ. Saṃ. 1-91-5)
+(Ṛ. Saṃ. 1-91-5)
+
+these Ṛks must be recited as puronuvākyā mantras. Since both Ṛks contain words indicating the slaying of Vṛtra, they are called the Vārtraghnī Ṛks. For the slaying of Vṛtra took place on the full-moon day itself. It is therefore fitting to recite on that day the Ṛks concerned with the slaying of Vṛtra and to make the offering. On the new-moon day darkness has grown; that is, Vṛtra, who pervades everything with darkness, flourishes. Therefore on that day the Ṛks containing words formed from the root वृधु-वृद्धौ (*vṛdhu-vṛddhau*), which denotes growth, are to be recited—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निः प्रश्नेन मन्मना शुंभमानस्तन्वं १ स्वां । कविर्विप्रेण नावृधे ॥
+
+##### Gist of the bhāṣya
+
+A Ṛk is quoted, with its reference (Ṛ. Saṃ. 8-44-12).
+
+(Ṛ. Saṃ. 8-44-12)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोम गीर्भिष्ट्वा वयं वर्धयामो वचोविदः । सुमृळीको न आ विश ॥
+
+##### Gist of the bhāṣya
+
+A Ṛk is quoted, with its reference (Ṛ. Saṃ. 1-91-11).
+
+(Ṛ. Saṃ. 1-91-11)
+
+These Ṛks, which contain words denoting growth, are called Vṛdhanvatī Ṛks. They are to be recited on the new-moon day, when darkness has grown.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्सग्स् स्थाप्य वार्त्रघ्नग्ं हविर्वज्रमादाय पुनरभ्यायत ते अब्रूतां
+> द्यावापृथिनी मा प्रहारावयोर्वै श्रित इति ते अब्रूतां वरं वृणावहै
+> नक्षत्रनिहिताहमसानीत्य सादब्रवीच्चित्रविहिताहमितीयं तस्मान्नक्षत्रनिहितासौ
+> चित्रविहितेयं य विवं द्यावापृथिव्योर्वरं वेदैनं वरो गच्छति स अभ्यामेव प्रसूत इंद्रो वृत्रमहन् ॥
+
+##### Gist of the bhāṣya
+
+Having set up the Vārtraghna oblation and taken the thunderbolt, Indra again advanced against Vṛtra. Heaven and Earth said to him: "Do not strike; he rests on us two." They then said: "Let us choose a boon." Heaven asked to be set with stars, and Earth said she would be variously formed. Whoever knows this boon of Heaven and Earth, the boon comes to him. Authorised by the two, Indra slew Vṛtra.
+
+### Printed p. 165
+
+Then Indra, having completed in full the ājyabhāga and the oblations that are the means of slaying Vṛtra, took the thunderbolt in his hand and rushed against Vṛtra to destroy him. Heaven and Earth (earth and atmosphere) then stopped Indra: "O Indra, do not kill Vṛtra. He pervades the whole region from the earth up to heaven. He lives in dependence on us, and we cannot give him up." When Indra did not agree, Heaven and Earth spoke to him again: "O Indra, if we are to give room for the slaying of Vṛtra, you must grant the boon we ask." Indra said, "So be it." Then the atmosphere (heaven) asked as its boon that it be adorned with stars. The earth asked that it be filled with many kinds of wonderful things: human beings, animals, trees, mountains, rivers, seas and so on. Indra gave the boon accordingly. The man who knows this manner in which Heaven and Earth obtained their boons obtains the desired objects he wishes for and is happy. Afterwards Indra, having obtained the leave of Heaven and Earth, struck Vṛtra with the thunderbolt and slew him.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते देवा वृत्रग्ं हत्वाग्नीषोमावब्रुवन् हव्यं नो वहतमिति तावब्रूतामप तेजसौ वै त्र्यौ वृत्रे वै त्ययोस्तेज इति तेऽब्रुवन् क इदमच्छैतीति गौरित्यब्रुवन्गौर्वाव सर्वस्य मित्रमिति साब्रवीद्वरं वृणै मय्येव सतोभयेन भुनजाध्वा इति तद्गौराहरत्तस्माद्दवि सतोभयेन भुंजत एतद्वा
+> अग्नेस्तेजो यद्धृतमेतत्सोमस्य यत्पयो य एवमग्नीषोमयो
+
+##### Gist of the bhāṣya
+
+After slaying Vṛtra the gods asked Agni and Soma to carry the oblation for them. The two answered that their vigour had gone away into Vṛtra. The gods asked who would go for it; the cow was chosen, being the friend of all. She said she would choose a boon: that people should enjoy food through her. The cow brought it, and so people still eat with her. This, the ghee, is Agni's vigour; this, the milk, is Soma's. He who knows the vigour of Agni and Soma becomes, as it were, vigorous.
+
+After the slaying of Vṛtra, all the gods who were near Indra addressed Agni and Soma: "O Agni and Soma, you have now come back from the mouth of Vṛtra. From now on, carry the oblations that are offered for us in sacrifices and the like, and present them to us." Agni and Soma answered the gods: "O gods, we were for a long time in the body of Vṛtra, and through his biting and the like we have become without vigour; that is, our strength has dwindled. All our strength, our vigour, has stayed behind in Vṛtra." The gods then deliberated among themselves how to bring back the vigour that Agni and Soma had left in Vṛtra's body. Since the cow does no harm to anyone and behaves in a friendly way toward all, they decided to send her and have the vigour brought from Vṛtra. They then called the cow and told her to bring the vigour that was in Vṛtra. She said: "So be it; but the vigour I bring must always remain in me in the form of milk and ghee, and people must obtain these from me and carry out their meals and the like. If you grant this boon I will bring it." The gods said, "So be it," and gave the boon accordingly. Having received the boon, the cow brought that vigour. As a result of this granting of the boon, people in the world even now keep obtaining nourishing food such as milk and ghee from cows and take their meals with it.
+
+### Printed p. 166
+
+Here the ghee, or धृत (*dhṛta*), is said to be Agni's vigour. For that very reason, in sacrifices and the like, people offer oblations into the fire with धृत (*dhṛta*), that is ghee, and make the fire blaze up. Milk is said to be Soma's vigour. For Soma is liquid like milk, and to heighten the taste of the Soma juice milk is mixed with it. This is called गदाशिर (*gadāśira*). By mixing milk in this way the vigour of Soma, or its essence (its taste), increases. The man who knows this greatness of the vigour of Agni and of Soma becomes full of vigour.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मवादिनो वदंति किंदेवत्यं पौर्णमासमिति प्राजापत्यमिति ब्रूयात्तेनेंद्रं ज्येष्यं पुत्रं निरवासाययदिति तस्माज्जैष्ठ्यं पुत्रं धनेन
+> निरवासयंति ॥
+
+##### Gist of the bhāṣya
+
+The expounders of the Veda ask what the deity of the full-moon sacrifice is. One should answer: Prajāpati. By it he settled Indra, his eldest son, in his inheritance; therefore people settle the eldest son with wealth. (Tai. Saṃ. 2-5-2-1 to 7.)
+
+(Tai. Saṃ. 2-5-2-1 to 7)
+
+The expounders of the Veda ask who the chief deity of this sacrifice called Paurṇamāsya is. The answer to be given is that Prajāpati is the deity presiding over the sacrifice. But Prajāpati has no share of the oblation in this sacrifice; so how is Prajāpati the deity of this sacrifice? The answer: in the beginning Prajāpati created all the sacrifices. This is stated in the Vedic sentence—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रजापतिर्यज्ञानसृजताग्निहोत्रं चाग्निष्टोमं च पौर्णमासीं
+> चोक्थ्यं चामावास्यां जातिरात्रं च ॥
+
+##### Gist of the bhāṣya
+
+Prajāpati created the sacrifices: the Agnihotra and the Agniṣṭoma, the full-moon sacrifice, the Ukthya, the new-moon sacrifice, and the Atirātra. (Tai. Saṃ. 1-5-9-1.)
+
+(Tai. Saṃ. 1-5-9-1)
+
+It is said here that Prajāpati created all the sacrifices: the Agnihotra, the Agniṣṭoma, the Paurṇamāsī (the sacrifice performed on the full-moon day), the Ukthya, the Amāvāsyā (the sacrifice performed on the new-moon day), the Atirātra and the rest. All the sacrifices created by Prajāpati became his own property. Therefore, as is the custom in worldly life, that is, as one gives one's property to one's eldest son, Prajāpati handed over the chief deityship of these sacrifices to Indra, his eldest son. This is stated in the very sentence of the Taittirīya Saṃhitā: तेनेंद्रं निरवासाययत्तेनेंद्रः परमां काष्ठामगच्छत् (*teneṃdraṃ niravāsāyayatteneṃdraḥ paramāṃ kāṣṭhāmagacchat*). Therefore all the oblations offered to Indra, the son, in the Paurṇamāsya sacrifice are to be regarded as offered to Prajāpati, the father. For this very reason it is customary to say that this sacrifice, the Paurṇamāsya, is Prājāpatya, that is, related to Prajāpati. In accordance with this order, even now in worldly life it is customary for a father to give all his property, wealth and the rest, to his eldest son.
+
+### Printed p. 167
+
+**The story of the goddess Prāsahā**
+
+The gods said to Indra: "O Indra, we honoured you and offered you in the sacrifice all the choice things you wished. You alone have taken all the choice things. Give us some of them too." Indra said: "That cannot be. I alone desired all these choice things, and I obtained them all. What reason is there to give them to you?" The gods again said, "O Indra, do not refuse our request like this; give us a little share too." When they prayed thus, Indra looked at them with a gracious eye. He said nothing more.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते देवा अब्रुवन्नियं ना इंद्रस्य प्रिया जाया पावाता प्रासहा नामास्यामेवेच्छामहा इति तथेति तस्यामैच्छंत सैनानब्रवीत्पातर्वः प्रतिवक्तास्मीति तस्मात्त्रयः पत्याविच्छंते तस्मादु स्त्रनुरात्रं पत्याविच्छते तां प्रातरुपायन्सैतदेव प्रत्यपह्यत ॥
+
+##### Gist of the bhāṣya
+
+The gods said: "This is Indra's dear wife, Vāvātā, of the middle rank, named Prāsahā; let us seek her out." They sought her, and she said she would answer them in the morning. Hence three kinds of women seek their husband; a woman seeks her husband at night. They approached her in the morning, and she answered with this very verse. (Ai. Brā. 12-22.)
+
+(Ai. Brā. 12-22)
+
+Since Indra said nothing, the gods did not understand his mind. They therefore spoke among themselves: "This woman who is before us now is Indra's beloved wife. She is of the middle rank. Her name is Vāvātā. Kings have three kinds of wives. Among them it is customary to call the wife of the highest rank Mahiṣī, the wife of the middle rank Vāvātā, and the wife of the lowest rank Parivṛtti. For that reason, in the duties to be performed by the women in the Aśvamedha sacrifice, the Mahiṣī is designated by the word भूः (*bhūḥ*), the wife called Vāvātā by the word भुवः (*bhuvaḥ*), and the wife called Parivṛtti by the word सुवः (*suvaḥ*). Of these three, the wife of the middle rank, called Vāvātā, bears the name Prāsahā. For this wife, knowing her husband's wishes and acting accordingly, is able to do every task by force, and so she is very dear to the king. Therefore, understanding that it was fitting to learn the mind of Indra the king through her, they laid their matter before her. Hearing it, Vāvātā said: "O gods, now is not the proper time to tell Indra of your matter and learn his mind. In the world it is the custom for women to tell their husbands any important matter at night, when they are in private. When they are in private there are no obstructions or disturbances of any kind, so the man listens sympathetically to what the woman says and gives a fitting answer. Therefore tonight, when I am in private with Indra, I shall bring up your matters and learn Indra's mind. So if you come tomorrow morning, I shall tell you Indra's answer." The gods said, "So be it," and came the next morning at dawn to ask. Vāvātā then spoke in reply this sentence in the form of a mantra—
+
+### Printed p. 168
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्वावान पुगुतमं पुराषाळा वृत्रहेंद्रो नामान्यप्राः ।
+> अचेति प्रासहस्पतिस्तुविष्मान् यदीमुश्मसि कर्तसे करत्तक् ॥
+
+##### Gist of the bhāṣya
+
+A Ṛk is quoted, with its reference (Ṛ. Saṃ. 10-74-6).
+
+(Ṛ. Saṃ. 10-74-6)
+
+Among the men of old, Indra slew Vṛtra, was victorious in many other battles as well, and won fame throughout the world. Therefore Indra bears the name Prāsahaspati. प्र (*pra*) means "exceedingly", सहः (*sahaḥ*) "of strength", पतिः (*patiḥ*) "lord": the name, "the exceedingly mighty one", is a name that fits its meaning. Having earned such a name by the great deed of slaying Vṛtra, he has made known throughout the world that honoured names such as the Māhendra graha and the midday pressing are very dear to him. This Indra knows what the gods desire, and he is very mighty: this is the meaning of the three pādas of this Ṛk. This is what Vāvātā told the gods. **NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो वै प्रासहस्पतिस्तुविष्मान् । यदीमुश्मसि कर्तवे करत्तदिति यदेवैतदवोचामाकरत्तदित्येवैनांस्तदब्रवीत् ॥
+
+##### Gist of the bhāṣya
+
+"Indra is Prāsahaspati, the mighty; 'whatever we wish he will do': what we have said, he will do." So she told them.
+
+Having heard the answer Vāvātā gave through the three pādas of the mantra as above, the gods spoke among themselves by the fourth pāda—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदीमुश्मसि कर्तवे करत्तत् ।
+
+##### Gist of the bhāṣya
+
+The fourth pāda of the Ṛk is quoted.
+
+The meaning of the fourth pāda is: "If we gods too have a share in the sacrifice, and if Indra will arrange that sacrificial share for us, then he will not leave our wish unfulfilled." Or, if this sentence of the fourth pāda is taken to be Vāvātā's own reply, it means: "O gods, Indra will fulfil, or will accomplish, the thing you have thought out and prayed Indra for." This is stated plainly here—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते देवा अब्रुवन्यप्यस्या इहास्तु यानोऽस्मिन्न वैकमविददिति तथेति तस्या
+> अप्यत्राकुर्वन् ॥
+
+##### Gist of the bhāṣya
+
+The gods said: "Let her too have a part here; she has served us in this matter." "So be it," they said, and they gave her a part in it.
+
+Hearing Vāvātā's reply, the gods said: "This Vāvātā has done a great service to us gods, so we must do a service in return. We do not know whether this Vāvātā has any connection with the niṣkevalya śastra mantra. Whatever the case, let us arrange a fitting connection for this Vāvātā in the niṣkevalya śastra mantra." Having thought so, they did accordingly.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्मादेषात्रापि शस्यते यद्वानान्पुरुत्वमं पुराषाळिति ।
+
+##### Gist of the bhāṣya
+
+Therefore this verse too is recited there: यद्वानान्पुरुत्वमं पुराषाळिति (*yadvānānpurutvamaṃ purāṣāḷiti*).
+
+Because the gods thus arranged for Vāvātā a connection, in the niṣkevalya śastra mantra, with this Ṛk (यद्वावान (*yadvāvāna*), Ṛ. Saṃ. 10-24.6), this Ṛk is called a dhāyyā mantra in the niṣkevalya śastra mantra.
+
+### Printed p. 169
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सेना वा इंद्रस्य प्रिया जाया नावाता प्रासहा नाम को नाम प्रजापतिः
+> श्वशुरस्तद्यास्य कामे सेना जयेत्तस्या अर्धात्तिष्ठंस्तृणमुभयुतः परिच्छिद्येतरां सेनामभ्यस्यॆत्प्रासहे कस्त्वा पश्यतीति तद्यथैवादः स्नुषा श्वशुराल्लज्जमाना निलीयमान्यैत्येवमेव सा सेना भज्यमाना निलीयमानैति
+> यत्रैवं विद्वांस्तृणमुभयतः परिच्छिद्येतरां सेनामभ्यस्यति प्रासहे कस्त्वा
+> पश्यतीति ॥
+
+##### Gist of the bhāṣya
+
+Vāvātā, Indra's dear wife named Prāsahā, is the army; Ka, that is Prajāpati, is her father-in-law. One who desires his army to win should stand on its side, cut a blade of grass at both ends, and throw it at the other army, saying प्रासहे कस्त्वा पश्यतीति (*prāsahe kastvā paśyatīti*). As a daughter-in-law shrinks away from her father-in-law out of shame, so that army, being broken, shrinks away. The knower who does this casts the grass at the other army with those words.
+
+The praise of Vāvātā, Indra's wife, who spoke this dhāyyā mantra, is given here in somewhat more detail. It was said before that Vāvātā was Indra's dear wife and that her name was Prāsahā. In worldly usage this Vāvātā or Prāsahā is said to exist in the form of the army made ready for battle, because Indra's wife is the deity presiding over the army. In the Veda too it is said: इंद्राणी वै सेनाय देवता (*iṃdrāṇī vai senāya devatā*). It has been explained before that Prajāpati is what the word क (*ka*) denotes, since she says को नाम (*ko nāma*), "I am who". That Prajāpati is the father-in-law of Indra's wife. As to Indra being Prajāpati's son, the Veda itself says: प्रजापतिरिंद्रमसृजतानुजावरं देवानां (*prajāpatiriṃdramasṛjatānujāvaraṃ devānāṃ*). This being so, in worldly practice a man eager for battle, if he wishes his army to win, must do one thing. When the two armies stand facing each other ready to fight, that man must go forward, passing beyond his army, that is, a little ahead of the middle of the army, stand on the ground, take a blade of grass, cut off its root and its tip, and throw the middle part toward the enemy army as one throws an arrow. While throwing it he must throw the blade of grass with the mantra प्रासहे कस्त्या पश्यति (*prāsahe kastyā paśyati*): "O wife of Indra named Prāsahā, Prajāpati, who is denoted by the word Ka and is your father-in-law, is looking at you with his eyes." If the blade of grass is thrown thus with this mantra, defeat comes to the enemy army. This is made clear by an illustration. In worldly life, in the house of a respectable householder faithful to the customs of his forefathers, when a young daughter-in-law sees her father-in-law she adjusts the end of her sari out of shyness, draws in her hands and other limbs, and slips quietly into the inner part of the house. In the same way, through the throwing of the blade of grass with the mantra, the enemy army suffers defeat and retreats, crossing mountains, forests and rivers, and flees to its own country. Having broken off this matter here as incidental, he now takes up the context at hand—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तानिंद्र उवाचापि वोऽत्मास्त्विति ते देवा ८ ब्रुवन्विराड्याज्यास्तु निष्केवल्यस्य या त्रयस्त्रिंशदक्षरा त्रयस्त्रिंशद्वै देवा अष्टौ वसन एकादश रुद्रा
+> द्वादशादित्याः प्रजापतिश्च वषट्कारश्च देवता अक्षरभाजः करोत्यक्षरमक्षरमेवतद्देवता अनुप्रपिबंति देवपात्रेणैव तद्देवतास्तृप्यंति ॥
+
+##### Gist of the bhāṣya
+
+Indra spoke to them: "Let there be a share for you also." The gods said: "Let the virāj be the ājyā of the niṣkevalya, the one of thirty-three syllables. The gods are thirty-three: eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati and the vaṣaṭkāra. He makes the deities sharers by syllable; the deities drink up syllable after syllable, and the deities are satisfied by the divine vessel itself."
+
 ---
 
-**Progress note:** Done through printed p. 163. pp. 157-163 (batch API)
+**Progress note:** Done through printed p. 169. pp. 164-169 (batch API)
