@@ -9039,6 +9039,243 @@ what is recited in this Ṛk is recited again in the present Ṛk. Here it is sa
 
 Where homage is said to all kinds of gods, great and small, young and old, it is understood that there is variety of form among the gods. This Ṛk is recited also in the Aitareya Brāhmaṇa (Ai. Brā. 7-16), in the Śunaḥśepa story, in the context of the prayer to the Viśvedevas. But
 
+### Printed p. 302
+Special Topics (continued)
+
+In न हि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतोमहांत इत् ॥ (*na hi vo astyarbhako devāso na kumārakaḥ | viśve satomahāṃta it ‖*) (Ṛ. Saṃ. 8-30-1), there is no distinction between great and small among the gods. The praise is that all the gods are great souls.
+
+## Sūkta 53 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमैच्छामेत्येकादशर्चमेकादशं सूक्तं । देवानां वाक्यत्वाद्देवा
+> ऋषयः । तदद्येति तृचस्य सौचीकोऽग्निर्ऋषिः । तंतुं तन्नन्नित्याद्या अष्टमीवर्जिता जगत्यः । अष्टमी शिष्टाश्च त्रिष्टुभः । तथा चानुक्रांतं । तंतुमाद्या
+> जगत्योऽष्टमीवर्जमिति । शिष्टमुक्तं ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यमैच्छाम (*yamaicchāma*) has eleven Ṛks and is the eleventh sūkta. Because it records the speech of the gods, the gods are the seers. For the triplet beginning तदद्य (*tadadya*) the seer is Agni Saucīka. The Ṛks beginning तंतुं तन्वन् (*taṃtuṃ tanvan*), with the eighth excepted, are Jagatī; the eighth and the remaining Ṛks are Triṣṭubh. The Anukramaṇī says: तंतुमाद्या जगत्योऽष्टमीवर्जमिति (*taṃtumādyā jagatyo 'ṣṭamīvarjamiti*). The rest has been stated; the viniyoga of the sūkta is finished.
+
+##### Anuvāda
+
+This sūkta beginning यमैच्छाम (*yamaicchāma*) is the eleventh sūkta in the fourth anuvāka. It has eleven Ṛks. Since it contains the words of the gods, the gods themselves are the seers of this sūkta. For the two Ṛks beginning तदद्य (*tadadya*) only (Ṛks 4-5), Agni Saucīka is the seer; for the remaining Ṛks the gods are the seers. Agni is the deity. The first five Ṛks, up to the Ṛk तंतुं तन्वन् (*taṃtuṃ tanvan*), and the Ṛks other than the eighth are in the Jagatī metre; the remaining Ṛks are in the Triṣṭubh metre. The Anukramaṇī says: तंतुमाद्या जगत्योऽष्टमीवर्ज० (*taṃtumādyā jagatyo 'ṣṭamīvarja0*). The viniyoga has already been stated earlier.
+
+Sūkta 53. Maṇḍala 10; Anuvāka 4; Sūkta 53. Aṣṭaka 8; Adhyāya 1; Vargas 13, 14. Number of Ṛks in the sūkta: 11.
+Seer: 1-3, 6-11, the gods; 4-5, Agni Saucīka.
+Deity: 1-3, 6-11, Agni Saucīka; 4-5, the gods.
+Metre: 1-5, 8, Triṣṭubh; 6, 7, 9-11, Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमैच्छा॑म॒ मन॑सा॒ सो॒३॒॑शियमागा॑द्य॒ज्ञस्य॑ वि॒द्वान्वरु॑षश्चि॒त्वान् ।
+
+### Printed p. 303
+
+> स नो यक्षद्देवताता यजीयान्नि हि षत्सदंतरः पूर्वो  
+> अस्मत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । ऐच्छाम । मनसा । सः । अयं । आ । अगात् । यज्ञस्य । विद्वान् । परुषः ।  
+> चिकित्वान् ।  
+> सः । नः । यक्षत् । देवताता । यजीयान् । नि । हि । सत्सत् । अंतरः । पूर्वः ।  
+> अस्मत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निमैच्छाम अनिष्टवंतो वयं मनसा हविष्प्रापणबुद्धा । मह्यं
+> हविः प्रापयत्त्विति बुद्धेत्यर्थः । सोऽयमग्निरागात् । आजगाम । कीदृशोऽग्निः ।
+> यज्ञस्य यज्ञं विद्वान् तथा परुषः परूंषि संधातव्यान्यंगानि चिकित्वानभिगच्छन् ।
+> सोऽग्निर्यजीयान्यष्टृतमो नोऽस्मान्देवताता देवतात् यज्ञे यक्षत् ।
+> यजतु । नि हि षत्सत् । न्यसीदत्पलु वेद्यामिति शेषः । कीदृशः सन् । अंतर ऋत्विजां
+> यष्टव्यानां देवानां च मध्यॆ संचरन् अस्मत्पूर्वोऽस्मत्तो देवेभ्यः
+> पूर्वभावी सन् । अग्निं समिध्य पश्चाद्धि देवा आह्वयंते ॥
+
+##### Gist of the bhāṣya
+
+Agni, whom we sought, wishing the oblation to reach us, with the thought "let him convey the oblation to me", has come. He knows the sacrifice and knows the joints, the parts of the sacrifice that are to be joined. That Agni, the best sacrificer, is to sacrifice for us at the worship of the gods; नि हि षत्सत् (*ni hi ṣatsat*) means he has sat down on the altar. Moving among the priests and the gods to be worshipped, he comes before us, before the gods; for the gods are called only after Agni has been kindled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसा (*manasā*)—with the meditative mind
+- यं (*yaṃ*)—which Agni
+- ऐच्छाम (*aicchāma*)—we were seeking
+- सः (*saḥ*)—such
+- यज्ञस्य विद्वान् (*yajñasya vidvān*)—one who knows the nature of the sacrifice
+- परुषः (*paruṣaḥ*)—to join the separate parts of the sacrifice
+- चिकित्वान् (*cikitvān*)—one who knows
+- आयं (*āyaṃ*)—this Agni
+- आगात् (*āgāt*)—has come
+- यजीयान् (*yajīyān*)—the worshipful one
+- निषत्सद्धि (*niṣatsaddhi*)—seated on the sacrificial altar
+- अस्मत् पूर्वः (*asmat pūrvaḥ*)—coming even before us
+- अंतरः (*aṃtaraḥ*)—one who has joined in among the priests
+- सः (*saḥ*)—that same Agni
+- नः (*naḥ*)—us
+- देवताता (*devatātā*)—at the sacrifice
+- यक्षत् (*yakṣat*)—may he worship
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, whom we were seeking with the meditative mind, who knows the nature of the sacrifice and knows how to join the separate parts of the sacrifice, has come. May Agni, the worshipful, seated on the sacrificial altar, who has joined in among the priests even before us, worship for us at the sacrifice.
+
+### Printed p. 304
+
+##### English translation
+(The gods :) He whom we sought with (anxious) minds has arrived; he who understands the sacrifice and is acquainted with its different parts ; may he who is most skilled in worship, sacrifice for us at the worship of the gods, being seated (at the altar), taking place among (the priests), and preceding us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरा॑धि॒ होता॑ नि॒षदा॒ यजी॑यान॒भि प्रयां॑सि॒ सुधि॑तानि॒ हि  
+> ख्यात् ।  
+> यजा॑महै य॒ज्जिया॒न्हंत॑ दे॒वा ईळा॑महा॒ ईड्या॒ आज्ये॑न ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अराधि । होता । निसदा । यजीयान् । अभि । प्रयांसि । सुधितानि । हि । ख्यात् ।  
+> यजामहै । यज्जियान् । हंत । देवान् । ईळामहै । ईड्यान् । आज्येन ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासयोः पुराराधीत्येषा जप्या । सूत्रमुदाहृतं ॥
+> अयमग्निर्होता होमनिष्पादको यजीयान् यष्टृतमश्च सन्निषदा
+> वेद्यां निषदनेनाराधि । सिद्धोऽभूत् । आहुतियोग्योऽभूदित्यर्थः । तथाभूतोऽयं सुधितानि सुष्टु निहितानि प्रयांसि चरुपुरोडाशाद्यन्नान्यभि हि ख्यत् ।
+> अभिचष्टे । सर्वतः पश्यति । हीति पादपूरणः । कया बुद्धैति । यज्ञियान्यष्टव्यानाहुतिभाजो देवान् हंत शीघ्रमाज्येन यजामहै तथेड्र्यान् स्तुतिभाजो
+> देवान् स्तुत्येळामहा इति बुद्धैति शेषः ॥
+
+##### Gist of the bhāṣya
+
+At the Darśapūrṇamāsa sacrifices this Ṛk beginning *purārādhi* is to be muttered (japya); the sūtra has been quoted. This Agni, the hotṛ who accomplishes the offering and the best sacrificer, has been made ready by sitting on the altar; that is, he has become fit for the oblations. Such as he is, he looks all around at the well-placed offerings, the cooked grain, cakes and other foods; हि (*hi*) only fills out the verse-quarter. With what thought? "Let us quickly worship with ghee the gods who are worthy of sacrifice and receive the oblations; let us praise with hymns the gods who are worthy of praise": the words "with this thought" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the accomplisher of the offering
+- यजीयान् (*yajīyān*)—Agni, the worshipful
+- निषदा (*niṣadā*)—by sitting on the sacrificial altar
+- अराधि (*arādhi*)—has become fit for worship
+- सुधितानि (*sudhitāni*)—well offered
+
+### Printed p. 305
+- प्रयांसि (*prayāṃsi*)—cakes and cooked grain
+- अभि हि ख्यत् (*abhi hi khyat*)—looks all around
+- यज्ञियान् (*yajñiyān*)—those worthy of sacrifice
+- देवान् (*devān*)—gods
+- हंत (*haṃta*)—quickly
+- आज्येन (*ājyena*)—by the offering of ghee
+- यजामहै (*yajāmahai*)—let us worship
+- ईड्यान् (*īḍyān*)—the gods worthy of praise
+- ईळामहै (*īḷāmahai*)—let us praise
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the accomplisher of the offering and the worshipful one, is fit for worship because he is seated on the sacrificial altar. He looks all around at the well-offered cooked grain, cakes and the like. Let us quickly worship with the offering of ghee the gods who are worthy of sacrifice. Let us praise the gods who are worthy of praise.
+
+##### English translation
+The hotri, most skilled in worship, has been sanctified by his seat (at the altar); he contemplated the sacred offerings reverently placed (before him) : let us speedily worship with ghi the gods to whom worship is due ; let us praise those who are entitled to praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+The sūtra stating that this Ṛk beginning अराधि (*arādhi*) is to be muttered at the beginning of the Darśapūrṇamāsa sacrifices has already been quoted earlier.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒ध्वीम॑कर्दे॒वनी॑तिं नो अ॒द्य य॒ज्ञस्य॑ जि॒ह्वाम॑विदाम॒  ॑
+> गुह्यां ।  
+> स आयु॒रागा॑त्सुर॒भिर्वसा॑नो भ॒द्राम॑कर्दे॒वहू॑तिं नो  ॒
+> अद्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साध्वीं। अकः । देवऽवीतिं । नः । आद्य । यज्ञस्य । जिह्वां । अविदाम । गुह्यां ।  
+> सः । आयुः । आ । अगात् । सुरभिः । वसानः । भद्रां । अकः । देवहूतिं। नः । आद्य ॥
+
+### Printed p. 306
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्यजमाने जीवति मृतशब्दो जायते तस्य सुरभिमतीष्टिः कर्तव्या ।
+> साद्वीमकरित्येषा तत्र याज्या । सूत्रितं च । अग्निर्होता न्यसीदद्यजीयान्
+> साद्वीमकर्देवनीतिं नो अद्य । आ-३-१३ । इति ॥
+> अयमग्निरद्य नोऽस्माकं देवनीतिं देवानामागमनवंतं देवानां
+> हविर्भक्षणोपेतं वा यज्ञं साध्वीमकः । साधुमकरोत् । वयं च यज्ञस्य
+> जिह्वां गुह्यां गूढतरां जिह्वामविदाम । लब्धवंतः स्म । अग्निर्हि यज्ञस्य जिह्वा
+> तेन देवानां पानाज्जिह्वात्वेनोपचारः । स तादृशोऽग्निः सुरुभिः सुगंध आयुर्देवैर्दत्तमायुष्यं वसान आच्छादयन्नागात् आगच्छति । अगत्य च नोऽस्मदर्थं
+> देवहूतिं देवानामाह्वानवंतं यज्ञं भद्रामकः । कल्याणं कृतवान् । आद्येदानीं ॥
+
+##### Gist of the bhāṣya
+
+When the word "dead" is heard about a sacrificer who is still alive, the Surabhimatī iṣṭi is to be performed for him; the Ṛk साद्वीमकः (*sādvīmakaḥ*) is the yājyā there. It is so stated in the sūtra: अग्निर्होता न्यसीदद्यजीयान् साद्वीमकर्देवनीतिं नो अद्य (*agnirhotā nyasīdadyajīyān sādvīmakardevanītiṃ no adya*) (Ā. 3-13). This Agni today has made our sacrifice efficacious, that is, one to which the gods come, or one accompanied by the gods' eating of the oblation. We have found the sacrifice's tongue, the most hidden one: Agni is the tongue of the sacrifice, since through him the gods drink, hence the figurative use of "tongue". Such an Agni, fragrant, clothing himself in the life given by the gods, comes; and having come, he has made for us auspicious the sacrifice in which the gods are invoked. आद्य (*ādya*) means "now".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—today
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—by us
+- देवनीतिं (*devanītiṃ*)—the oblation offered for the gods
+- साध्वीं (*sādhvīṃ*)—as fit to be eaten
+- अकः (*akaḥ*)—has made
+- (वयं (*vayaṃ*)—we)
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- गुह्यां (*guhyāṃ*)—the mysterious
+- जिह्वां (*jihvāṃ*)—tongue
+- अविदाम (*avidāma*)—we have obtained
+- सः (*saḥ*)—Agni
+- सुरभिः (*surabhiḥ*)—fragrant
+- आयुः (*āyuḥ*)—life favoured by the gods
+- वसानः (*vasānaḥ*)—possessing
+- आगात् (*āgāt*)—comes
+- अद्य (*adya*)—today
+- नः (*naḥ*)—for us
+- देवहूतिं (*devahūtiṃ*)—the sacrifice that attracts the gods
+- भद्रां (*bhadrāṃ*)—as auspicious
+- अकः (*akaḥ*)—has made
+
+##### भावार्थ (Bhāvārtha)
+
+Agni has made the oblation offered by us to the gods fit to be eaten. We have obtained the mysterious tongue of the sacrifice. Agni comes fragrant and possessing the life favoured by the gods. Today he has made auspicious for us the sacrifice that attracts the gods.
+
+##### English translation
+He has to-day made our banquet to the gods efficacious : we have obtained the mysterious tongue of sacrifices : he has come, fragrant, clothed with life : he makes our oblation to the gods to-day auspicious.
+
+### Printed p. 307
+
+##### विशेषविषयगळु (Special Topics)
+
+If, while a sacrificer who performs a sacrifice is still alive, the word that he is dead is heard about him for some other reason, then as expiation for it the iṣṭi called Surabhimatī is to be performed. In that iṣṭi the Ṛk साद्वीमकः (*sādvīmakaḥ*) is to be recited as the yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra अग्निर्होता न्यसीदद्यजीयान् साद्वीमकर्देवनीतिं नो अद्य (*agnirhotā nyasīdadyajīyān sādvīmakardevanītiṃ no adya*) (Ā. 3-13).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॒द्य वा॒चः प्र॑थ॒मं म॑सीय॒ येनासु॑रा अ॒भि दे॒वा असा॑म।  
+> ऊर्जा॑द उ॒त य॑ज्ञियासः॒ पंच॑ जना॒ मम॑ हो॒त्रं  ॑
+> जुषध्वं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । अद्य । वाचः । प्रथमं । मसीय । येन । असुरान् । अभि। देवाः । असाम ॥  
+> ऊर्जS अदः । उत । यज्ञियासः । पंच । जनाः । मम । होत्रं । जुषध्वं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासयोः सामिधेन्यर्थं प्रेषितेन होत्रा तदद्य वाच इत्येषा
+> जप्या । स्रुगादापनात्पूर्वमपि जप्या । सूत्रितं च। तदद्य वाचः प्रथमं मसीयेति
+> समाप्य । आ. १-२ । इति ॥
+> इदमुत्तरं चाग्निर्वाक्यमित्युक्तं। अद्येदानीं प्रथमं । मुख्यनामैतत् ।
+> वाचां मुख्यं तद्वाचो वचो वचनं मसीय । मंसीय । उच्चारयामि ।
+> येन वचसाहं देवाश्च वयमसुरानभ्यसाम । अभिभवेम । किं तत्प्रथमं वचनमिति उच्यते । ऊर्जादो हे अन्नाद उतापि च यज्जियासो यज्ञार्हा हे
+> पंच जना देवमनुष्यादयः यूयं मम होत्रं जुषध्वं । सेवध्वमिति । एवं
+
+##### Gist of the bhāṣya
+
+At the Darśapūrṇamāsa sacrifices, when the hotṛ has been sent out for the sāmidhenī verses, this Ṛk तदद्य वाचः (*tadadya vācaḥ*) is to be muttered; it is also to be muttered before the taking up of the ladle. The sūtra says: तदद्य वाचः प्रथमं मसीयेति समाप्य (*tadadya vācaḥ prathamaṃ masīyeti samāpya*) (Ā. 1-2). This and the following Ṛk are said to be Agni's words. अद्य (*adya*) means "now"; प्रथमं (*prathamaṃ*) is a word meaning "chief": I utter today that chief utterance of speech, by which we gods overcome the asuras. What is that first utterance? It is said: O eaters of food, and O you worthy of sacrifice, five peoples, gods, men and the rest, take delight in my offering; "serve it" is the meaning. Thus
+
 ---
 
-**Progress note:** Done through printed p. 301. pp. 296-301 (batch API)
+**Progress note:** Done through printed p. 307. pp. 302-307 (batch API)
