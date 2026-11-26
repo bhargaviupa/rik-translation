@@ -2141,6 +2141,253 @@ O priests, the Indra who is called for help in the waters, who is called in the 
 ##### English translation
 Great (priests), worship that Indra who is propitiated by gifts ; who is to be invoked in the shallows and in the depths, and who is to be invoked in battles.
 
+### Printed p. 55
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदू॒ षु णो॑ वसो म॒हे मृ॒शस्व॑ शूर॒ राध॑से ।  
+> उदू॒ षु म॒ह्यै म॑घवन्म॒घत्त॑य॒ उदिं॑द्र॒ श्रव॑से म॒हे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । सु । नः । वसो इति । महे । मृशस्व । शूर । राधसे ।  
+> उत् । ऊं इति । सु । मह्यै । मघऽवन् । मघत्तये । उत् । इंद्र । श्रवसे । महे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितः शूर इंद्र त्वं नः अस्मान् सु सुष्ठु उदु मृशस्व उन्मृशस्वैव । उत्थापय । किमर्थम्। महे महते राधसे अन्नाय । तथा हे शूर मघवन् इंद्र उत् मृशस्व मह्यै महते मघत्तये धनदानाय । तथा उत् मृशस्व इंद्र महे महत्यै श्रवसे कीर्त्यै ॥
+
+##### Gist of the bhāṣya
+
+"O Vasu, giver of dwelling, O hero Indra, raise us well up": the verb उदु मृशस्व (*udu mṛśasva*) is explained as "set us up". For what? For great food. Likewise, O hero Maghavan Indra, raise us up for great wealth-giving, and raise us up, Indra, for great fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, giver of dwelling
+- शूर (*śūra*)—and hero
+- नः (*naḥ*)—us
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—for the gaining of food
+- सु (*su*)—in the best manner
+- उदु मृशस्व (*udu mṛśasva*)—make us rise up
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- मह्यै (*mahyai*)—very great
+- मघत्तये (*maghattaye*)—for the giving of wealth also
+- सु (*su*)—well
+- उदु (*udu*)—make us rise up
+- इंद्र (*iṃdra*)—O Indra
+- महे (*mahe*)—very great
+- श्रवसे (*śravase*)—for fame also
+- उत् (*ut*)—make us rise up
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling and hero, make us rise up in the best manner for the gaining of great food. O Indra, possessor of wealth, make us rise up well also for the giving of very great wealth. O Indra, make us rise up also for very great fame.
+
+### Printed p. 56
+
+##### English translation
+O hero, giver of dwellings, raise us up to enjoy abundant food; raise us up, Maghavan, for abundant wealth; raise us up, Indra, for abundant fame.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं न॑ इंद्र ऋत॒युस्त्वा॒निदो॒ नि तृं॑पसि ।  
+> मध्ये॑ वसिष्व तुविनृम्णो॒र्वोर्नि दा॒सं शि॑श्नथो॒ हथैः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । नः । इंद्र । ऋतऽयुः । त्वाऽनिदः । नि । तृंपसि ।  
+> मध्ये । वसिष्व । तुविऽनृम्ण । ऊर्वोः । नि । दासम् । शिश्नथः । हथैः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ऋतयुः यज्ञकामः त्वं नः अस्मान् त्वानिदः । त्वां यो निंदति सः । अयजनमेव निंदा तव । तस्मादयष्टुः सकाशात् नि नितरां तृंपसि प्रीणयसि । तस्य धनमपहृत्येति भावः । एवं संतर्प्य हे तुविनृम्ण प्रभूतधन स त्वं तव ऊर्वोः मध्ये अस्मान् वसिष्व । ऊरुभ्यामाच्छादय रक्षार्थम् । दासम् उपक्षपयितारमस्मद्द्वेषिणं पापं वा हथैः हननैः नि शिश्नथः मारयसि । अथवा त्वद्विरोधिनं दासमसुरं नि शिश्नथो हननैः ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, desirous of sacrifice, you, from him who reviles you", that is, from the man who does not sacrifice, for not sacrificing is a reproach to you, "thoroughly satisfy us", the sense being that you take away that man's wealth. Having so satisfied us, O Tuvinṛmṇa, possessor of abundant wealth, you cover us between your thighs, for protection. The Dāsa, the one who injures us, our hater, or the sinner, you slay with blows; or else you slay with blows the Dāsa, the Asura, who opposes you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ऋतयुः (*ṛtayuḥ*)—you who desire sacrifice
+- त्वां (*tvāṃ*)—you
+- त्वानिदः (*tvānidaḥ*)—from the wicked man who reviles you (having taken away his wealth)
+- नः (*naḥ*)—us
+- नि (*ni*)—fully
+- तृंपसि (*tṛṃpasi*)—satisfy
+- तुविनृम्ण (*tuvinṛmṇa*)—O Indra, possessor of abundant wealth
+- ऊर्वोः (*ūrvoḥ*)—of your thighs
+- मध्ये (*madhye*)—in the middle, hiding us
+- वसिष्ठ (*vasiṣṭha*)—give shelter for our protection
+- दासं (*dāsaṃ*)—the injuring enemy
+- हथ्यैः (*hathyaiḥ*)—with instruments of killing
+- नि शिश्नथः (*ni śiśnathaḥ*)—destroy entirely
+
+### Printed p. 57
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who desire sacrifice, take away the wealth of the wicked man who reviles you and fully satisfy us. O Indra, possessor of abundant wealth, hide us in the middle of your thighs and give shelter for our protection; destroy entirely the injuring enemy with instruments of killing.
+
+##### English translation
+Indra, who delights in offerings, satisfy us abuudantly with (the possessions of him) who despises you ; O you, possessed of vast wealth, shelter us between your thighs ; smite down the Dasa with your blows.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्यव्र॑त॒ममा॑नुष॒मय॑ज्वान॒मदे॑वयुम् ।  
+> अव॒ स्वः सखा॑ दुधुवीत॒ पर्व॑तः सु॒घ्नाय॒ दस्युं॒ पर्व॑तः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यऽव्रतम् । अमानुषम् । अयज्वानम् । अदेवऽयुम् ।  
+> अव । स्वः । सखा । दुधुवीत । पर्वतः । सुऽघ्नाय । दस्युम् । पर्वतः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अन्यव्रतं व्यतिरिक्तकर्माणम् अत एव अमानुषं मानुषाणामिंद्रयाजिनामप्रियम् अयज्वानम् अयष्टारम् अदेवयुम् अदेवकर्मिणं पापिनं स्वः स्वर्गात् अव दुधुवीत । अवचालयेदित्यर्थः । कः । सखा पर्वतः तव सखिभूतः पर्वत ऋषिः । यद्यप्यन्यं देवमिष्ट्वा स्वर्गं प्राप्नोति सः तथापि पातयति ऋषिः । न केवलं धूननमात्रमपि तु सुघ्नाय सुष्ठु हंत्रे मृत्यवे दस्युम् उक्तलक्षणं पर्वतः प्रेरयतीति शेषः । अत इंद्रमेवावश्यं यजध्वमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, may Parvata, your friend, the seer, hurl down from heaven the man who follows other rites", one whose action is outside the rule, who for that very reason is not of men, being disagreeable to the men who sacrifice to Indra, who does not sacrifice, who is devoted to what is not god's rite, the sinner. Even if he has gone to heaven by sacrificing to another god, the seer makes him fall. Nor only shaking him down: Parvata sends the Dasyu, of the character described, to the good smiter, death. Therefore sacrifice to Indra alone.
+
+### Printed p. 58
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखा (*sakhā*)—(O Indra) your friend
+- पर्वतः (*parvataḥ*)—the seer named Parvata
+- अन्यव्रतं (*anyavrataṃ*)—him who has rites contrary to the ordinance
+- अमानुषं (*amānuṣaṃ*)—the enemy of the men who worship you
+- अयज्वानं (*ayajvānaṃ*)—who does not sacrifice
+- अदेवयुं (*adevayuṃ*)—who does not worship the gods, that sinner
+- स्वः (*svaḥ*)—from heaven
+- अव दुधुवीत (*ava dudhuvīta*)—may he thrust down
+- पर्वतः (*parvataḥ*)—that same Parvata
+- दस्युं (*dasyuṃ*)—the injuring enemy
+- सुघ्नाय (*sughnāya*)—may he deliver to death, the slayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the seer named Parvata, your friend, thrust down from heaven that sinner who has rites contrary to the scripture, who is the enemy of the men who worship you, and who does not sacrifice. May that same Parvata deliver the injuring enemy to death, the slayer.
+
+##### English translation
+May your friend, Parvata, hurl down from heaven him who follows other rites, the enemy of men, him who offers not sacrifice and who worships not the gods ; may Parvata hurl the Dasyu down to the stern smiter (death).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं न॑ इंद्रासां॒ हस्ते॑ शविष्ठ दा॒वने॑ ।  
+> धा॒नानां॒ न सं गृ॑भायास्म॒युर्द्विः सं गृ॑भायास्म॒युः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । नः । इंद्र । आसाम् । हस्ते । शविष्ठ । दावने ।  
+> धानानाम् । न । सम् । गृभाय । अस्मऽयुः । द्विः । सम् । गृभाय । अस्मऽयुः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शविष्ठ बलवन् इंद्र त्वं नः अस्मभ्यं दावने प्रदानाय आसां गवाम् । कर्मणि षष्ठी । एता गाः हस्ते गृभाय गृहाण । ग्रहणे दृष्टांतः । धानानां न । धाना भृष्टयवाः । अत्रापि कर्मणि षष्ठी । धाना यथा संगृह्णाति तद्वद्गृहाण । कीदृशस्त्वम् । अस्मयुः अस्मान् कामयमानः । गृहीत्वा च अस्मयुः सन् द्विः सं गृभाय । पुनर्द्विवारं संगृहाण ॥
+
+##### Gist of the bhāṣya
+
+"O mighty Indra, take in your hand these cows, to give to us", and as illustration Sāyaṇa gives धानानां न (*dhānānāṃ na*): the dhānās are parched barley; as one gathers up parched grain, so gather up these cows. What kind are you? Desiring us. Having taken them, being desirous of us, take them again, twice.
+
+### Printed p. 59
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—of exceeding strength
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- अस्मयुः (*asmayuḥ*)—desiring to help us
+- नः (*naḥ*)—to us
+- दावने (*dāvane*)—for giving
+- धानानां न (*dhānānāṃ na*)—as one holds grain in the hand
+- आसां (*āsāṃ*)—these cows
+- हस्ते (*haste*)—in the hand
+- सं गृभाय (*saṃ gṛbhāya*)—take hold of
+- अस्मयुः (*asmayuḥ*)—desiring to do good to us
+- द्विः (*dviḥ*)—two times
+- सं गृभाय (*saṃ gṛbhāya*)—lift them in the hand and hold them
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of exceeding strength, take hold of these cows in your hand, as one holds grain in the hand, to give to us. Desiring to do good to us, lift them in the hand and hold them two times.
+
+##### English translation
+Most powerful Indra, in your favour towards us, take these cows in your hand, as fried grain, to give to us ; yes, take them twice in your favour towards us.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑यः॒ क्रतु॑मिच्छत क॒था रा॑धाम श॒रस्य॑ ।  
+> उप॑स्तुतिं भो॒जः सू॒रिर्यो अह्र॑यः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायः । क्रतुम् । इच्छत । कथा । राधाम । शरस्य ।  
+> उपऽस्तुतिम् । भोजः । सूरिः । यः । अह्रयः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः ऋत्विजोऽध्वर्य्वादयः क्रतुं कर्म इंद्रसंबंधिनम् इच्छत कर्तुम् । हे सखायः शरस्य । ‘शॄ हिंसायाम्' । हिंसकस्येंद्रस्य कथा कथं राधाम साधयाम । किम् । उपस्तुतिं स्तोत्रम् । यः इंद्रः भोजः शत्रूणां भोजयिता सूरिः प्रेरकः अह्रयः अनवनतः शत्रूणामिति ॥
+
+##### Gist of the bhāṣya
+
+"O friends, priests, the Adhvaryus and the rest, wish to perform the sacrifice that belongs to Indra." O friends, how shall we accomplish the praise, the hymn, of Indra the destroyer, the injurer: he who is the one who makes his enemies feed, the impeller, the one not bowed down before his enemies?
+
+### Printed p. 60
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests, who are friends
+- क्रतुं (*kratuṃ*)—the sacrificial rite directed to Indra
+- इच्छत (*icchata*)—wish to perform
+- यः (*yaḥ*)—the Indra who
+- भोजः (*bhojaḥ*)—causes his enemies the experience of sorrow
+- सूरिः (*sūriḥ*)—the impeller
+- अप्रयः (*aprayaḥ*)—who does not bend to his enemies, such an Indra
+- शरस्य (*śarasya*)—of the injuring Indra
+- उपस्तुतिं (*upastutiṃ*)—the hymn
+- कथा (*kathā*)—in what manner
+- राधामु (*rādhāmu*)—shall we accomplish
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, who are friends, wish to perform the sacrificial rite directed to Indra. In what manner shall we accomplish the hymn of such an Indra, destroyer of enemies, who causes his enemies the experience of sorrow, the impeller, and who does not bend to his enemies?
+
+##### English translation
+Associated priests, give good heed to the sacrifice, for how can we (worthily) perform the praise of (Indra) the destroyer, who is the recompenser of enemies, the sender of reward, the unvanquished ?
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरि॑भिः समह॒ ऋषि॑भिर्ब॒र्हिष्म॑द्भि स्तविष्यसे ।  
+> यदि॒त्थमेक॑मेक॒मिच्छर॑ व॒त्सान्प॑रा॒ददः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरिऽभिः । समह । ऋषिऽभिः । बर्हिष्मत्ऽभिः । स्तविष्यसे ।  
+> यत् । इत्थम् । एकम्ऽएकम् । इत् । शर । वत्सान् । पराऽददः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र समह समानपूज। सर्वैः पूज्येत्यर्थः। भूरिभिः बहुभिः ऋषिभिः अतींद्रियज्ञैर्ऋत्विग्भिः बर्हिष्मद्भिः यागवद्भिः स्तविष्यसे स्तूयसे। यत् य इंद्रः इत्थमेकमेकमित् एकमेकमेव वत्समित्येवं बहून् वत्सान् स्तोतृभ्यः पराददः प्रयच्छसि। हे शर हिंसक शत्रोः । अत्र वत्सशब्दो वत्समातॄणां गवामुपलक्षकः । गाः प्रयच्छसीति ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, equally worshipped, that is, to be worshipped by all, you are praised by many seers, that is, by priests who know what is beyond the senses, by those who have the sacred grass, who are engaged in the sacrifice." The Indra who thus gives away to the praisers one by one so many calves: O destroyer, injurer of the enemy. Here the word "calf" stands for the cows who are the mothers of the calves; the meaning is that you give cows.
+
 ---
 
-**Progress note:** Done through printed p. 54. Sūkta 70 Ṛks 4-8
+**Progress note:** Done through printed p. 60. Sūkta 70 Ṛks 9-14
