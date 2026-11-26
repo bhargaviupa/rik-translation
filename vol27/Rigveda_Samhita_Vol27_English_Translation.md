@@ -30570,7 +30570,8 @@ If I were lord over immortals and mortals, then should my munificent (benefactor
 
 ### Printed p. 853
 
-> १ पदसार १  
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
 > न । देवानां । अति । व्रतं । शत्रुआत्मा । चन । जीवति ।  
 > तथा । युजा । वि । ववृते ॥ ९ ॥
 

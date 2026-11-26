@@ -132,3 +132,4 @@
 | through p. 812 (three windows in one agent: pp. 795-800, 801-806, 807-812) | sonnet | 14 | 169559 | 4.8 |
 | through p. 830 (three windows in one agent: pp. 813-818, 819-824, 825-830) | sonnet | 20 | 191513 | 5.8 |
 | through p. 850 (three windows in one agent: pp. 831-837, 838-844, 845-850) | sonnet | 18 | 178044 | 4.8 |
+| through p. 868 (three windows in one agent: pp. 851-856, 857-862, 863-868) | sonnet | 17 | 159924 | 4.0 |
