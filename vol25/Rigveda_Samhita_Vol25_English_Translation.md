@@ -25080,6 +25080,285 @@ When Soma, whose work is full of wisdom, wearing garments in the form of treasur
 ##### English translation
 When the seer (Soma), wearing ample treasures, goes round the praises (of his worshippers), then the mighty (Indra), in heaven is eager to repair to the oblation.
 
+### Printed p. 635
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो अ॒भि स्पृधो॒ विशो॒ राजे॑व सीदति ।  
+> यदी॑मृ॒ण्वंति॑ वे॒धसः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । अभि । स्पृधः । विशः । राजाऽइव । सीदति ।  
+> यत् । ईम् । ऋण्वंति । वेधसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत यदा ईम् एनं सोमं वेधसः कर्मणां कर्तारः ऋण्वंति प्रेरयंति तदा पवमानः क्षरन्नेष सोमः स्पृधः स्पर्धमानान् यागविघ्नकारिणो राक्षसान् विशः स्पर्धमानान् मनुष्यान् राजेव यथा राजा तद्वत् अभि षीदति नाशयितुमभिगच्छति ॥ ॥ २८ ॥
+
+##### Gist of the bhāṣya
+
+When the priests, the performers of the rites, impel (ऋण्वंति (*ṛṇvaṃti*)) this Soma to flow, then this flowing Soma, like a king, goes forth to destroy the contending demons who obstruct the sacrifice (स्पृधः (*spṛdhaḥ*)) and the contending men (विशः (*viśaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- ईं (*īṃ*)—this Soma
+- वेधसः (*vedhasaḥ*)—the sacrificers, the performers of the rites
+- ऋण्वंति (*ṛṇvaṃti*)—impel to flow, then
+- पवमानः (*pavamānaḥ*)—this Soma, of pure flow
+- स्पृधः (*spṛdhaḥ*)—the Asuras who rise up and contend
+- विशः (*viśaḥ*)—and the men who are enemies
+- राजेव (*rājeva*)—like a king
+- अभि षीदति (*abhi ṣīdati*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+When the sacrificers, the performers of the rites, impel this Soma to flow, then this Soma of pure flow destroys the Asura who rises up and contends, and the men who are enemies, as a king destroys his enemies.
+
+##### English translation
+When the priests excite it, the flowing Soma like a king destroys opposing (demons and) men.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव्यो॒ वारे॒ परि॑ प्रि॒यो हरि॒र्वने॑षु सीदति ।  
+> रे॒भो व॑नुष्यते म॒ती ॥ ६ ॥
+
+### Printed p. 636
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्यः । वारे । परि । प्रियः । हरिः । वनेषु । सीदति ।  
+> रेभः । वनुष्यते । मती ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिः हरितवर्णः प्रियः देवानां प्रियतम एव सोमः वनेषु उदकेषु संपृक्तः अव्यः अवेः वारे वालोपेते परि षीदति । किंच रेभः अभिषववेलायामुपरवेषु शब्दं कुर्वन् मती मत्या स्तुत्या वनुष्यते सेव्यते ॥
+
+##### Gist of the bhāṣya
+
+Soma, green-hued (हरिः (*hariḥ*)) and the dearest of the gods (प्रियः (*priyaḥ*)), mingled with the waters (वनेषु (*vaneṣu*)), sits down on the wool of the sheep (अव्यः वारे (*avyaḥ vāre*)), the filter. Moreover, making a sound on the pressing-stones at the time of pressing (रेभः (*rebhaḥ*)), he is served with praise (मती (*matī*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिः (*hariḥ*)—green-hued **NOTE**
+- प्रियः (*priyaḥ*)—Soma, the dearest of the gods
+- वनेषु (*vaneṣu*)—mingled with the waters
+- अव्यः (*avyaḥ*)—of the Daśāpavitra
+- वारे (*vāre*)—on the wool
+- परि षीदति (*pari ṣīdati*)—sits down in that place for purification
+- रेभः (*rebhaḥ*)—making a sound
+- मती (*matī*)—with praise
+- वनुष्यते (*vanuṣyate*)—is served
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is green-hued and the dearest of the gods, mingled with the waters, sits down for purification on the wool of the Daśāpavitra. At the time of pressing, making a sound, he is served with praise.
+
+##### English translation
+The green-tinted (Soma), dear to the gods, commingled with the water, sits down upon the woollen sieve, uttering a sound it is greeted by praise-
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वा॒युमिंद्र॑म॒श्विना॑ सा॒कं मदे॑न गच्छति ।  
+> रणा॒ यो अ॑स्य॒ धर्म॑भिः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वायुम् । इंद्रम् । अश्विना । साकम् । मदेन । गच्छति ।  
+> रण । यः । अस्य । धर्मऽभिः ॥ ७ ॥
+
+### Printed p. 637
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः यजमानः अस्य सोमस्य धर्मभिः कर्मभिः क्रयणाभिषवादिभिः रण रमते सः यजमानः वायुमिंद्रं च अश्विना अश्विनौ च मदेन साकं सह गच्छति प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who delights in the rites of this Soma (धर्मभिः (*dharmabhiḥ*)), such as the purchase and the pressing, goes together with exhilaration (मदेन साकं (*madena sākaṃ*)) to Vāyu, to Indra and to the two Aśvins, that is, he reaches them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- अस्य (*asya*)—of this Soma **NOTE**
+- धर्मभिः (*dharmabhiḥ*)—in the rites beginning with the pressing
+- रण (*raṇa*)—becomes engaged with delight, then
+- सः (*saḥ*)—that same sacrificer
+- वायुं (*vāyuṃ*)—Vāyu
+- इंद्रं (*iṃdraṃ*)—Indra
+- अश्विना (*aśvinā*)—the Aśvin deities
+- मदेन साकं (*madena sākaṃ*)—together with joy
+- गच्छति (*gacchati*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who is engaged in the rites beginning with the pressing of this Soma approaches, together with joy, Vāyu, Indra and the Aśvin deities.
+
+##### English translation
+He who is assiduous in the functions of (providing and preparing) the Soma, goes with exhilaration to Vayu, Indra, and the Ashwins.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मि॒त्रावरु॑णा॒ भगं॒ मध्वः॑ पवंत ऊ॒र्मयः॑ ।  
+> वि॒दा॒ना अ॑स्य॒ शक्म॑भिः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मित्रावरुणा । भगम् । मध्वः । पवंते । ऊर्मयः ।  
+> विदानाः । अस्य । शक्मऽभिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषां यजमानानां मध्वः सोमस्य ऊर्मयः तरंगाः मित्रावरुणा मित्रावरुणौ देवौ भगं भगाख्यं देवं च प्रति पवंते क्षरंति ते यजमानाः अस्य सोमस्येमं सोमं विदानाः जानंतः शक्मभिः सुखैः संगच्छंत इति शेषः ॥
+
+### Printed p. 638
+
+##### Gist of the bhāṣya
+
+Those sacrificers for whom the waves (ऊर्मयः (*ūrmayaḥ*)) of the sweet Soma flow towards the gods Mitra and Varuṇa and the god named Bhaga, those sacrificers, knowing (विदानाः (*vidānāḥ*)) this Soma, come together with happinesses (शक्मभिः (*śakmabhiḥ*)); the words "come together" are supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मध्वः (*madhvaḥ*)—of the sweet Soma juice
+- ऊर्मयः (*ūrmayaḥ*)—the waves
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- भगं (*bhagaṃ*)—and Bhaga, aiming at them
+- आ पवंते (*ā pavaṃte*)—flow
+- अस्य (*asya*)—the power of this Soma
+- विदानाः (*vidānāḥ*)—the people who know it
+- शक्मभिः (*śakmabhiḥ*)—become endowed with happinesses
+
+##### भावार्थ (Bhāvārtha)
+
+The waves of the sweet Soma juice flow, aiming at Mitra and Varuṇa and at Bhaga. The people who know the power of this Soma become endowed with happinesses.
+
+##### English translation
+Streams of the sweet Soma flow to Mitra and Varuna and to Bhaga ; the worshippers knowing its (virtues are rewarded) with happiness.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॑ रोदसी र॒यिं मध्वो॒ वाज॑स्य सा॒तये॑ ।  
+> श्रवो॒ वसू॑नि॒ सं जि॑तम् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यम् । रोदसी इति । रयिम् । मध्वः । वाजस्य । सातये ।  
+> श्रवः । वसूनि । सम् । जितम् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रोदसी द्यावापृथिव्यौ युवां मध्वः देवानां मोदयितुः वाजस्य सोमात्मकस्यान्नस्य सातये लाभाय अस्मभ्यं काश्यपासितेभ्यः काश्यपदेवलेभ्यो वा रयिं धनं श्रवः अन्नं च वसूनि वासकान्यन्यान्यपि पश्वादीनि धनानि सं जितं संजयतम् । प्रयच्छतमित्यर्थः ॥ ॥ २९ ॥
+
+##### Gist of the bhāṣya
+
+O heaven and earth (रोदसी (*rodasī*)), for the gain (सातये (*sātaye*)) of the food (वाजस्य (*vājasya*)) consisting of Soma, which gladdens the gods (मध्वः (*madhvaḥ*)), win together (सं जितं (*saṃ jitaṃ*)) for us, the Kāśyapa Asitas or the Kāśyapa Devalas, wealth (रयिं (*rayiṃ*)), food (श्रवः (*śravaḥ*)) and also other treasures that give dwelling (वसूनि (*vasūni*)), such as cattle; the meaning is: bestow them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोदसी (*rodasī*)—O Heaven and Earth
+- मध्वः (*madhvaḥ*)—which cause satisfaction to the gods
+- वाजस्य (*vājasya*)—of this food, which is in the form of Soma
+- सातये (*sātaye*)—for the gain
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- श्रवः (*śravaḥ*)—food
+- वसूनि (*vasūni*)—treasures
+- सं जितं (*saṃ jitaṃ*)—provide
+
+### Printed p. 639
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, for the gain of this food, which causes satisfaction to the gods and is in the form of Soma, provide for us wealth, food and treasures.
+
+##### English translation
+Heaven and earth, for the acquisition of this exhilarating Soma food, win for us, wealth, food, and treasures.
+
+The eighth sūkta.
+
+## Sūkta 8 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एते सोमाः' इति नवर्चमष्टमं सूक्तम् । ऋष्याद्याः पूर्ववत् । अनुक्रांतं च -- एते सोमाः ' इति । उक्तः सूक्तविनियोगः । ग्रावस्तोत्रे गाणगारिमतेनाभिरूपकरणे सोमे मृज्यमाने ' मृजंति त्वा  इत्येषा । सूत्रितं च- अथापरमभिरूपं कुर्यादिति गाणगारिरा प्यायस्व समेतु त इति तिस्रो मृजंति त्वा दश क्षिपः' (आश्व. श्रौ. ५.१२ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एते सोमाः (*ete somāḥ*), of nine Ṛks, is the eighth sūkta. The seer and the rest are as before. The Anukramaṇikā says: एते सोमाः (*ete somāḥ*). The use of the sūkta has been stated. In the Grāvastotra, according to the opinion of Gāṇagāri, when the Soma is being cleansed in the act of making it fit , the Ṛk मृजंति त्वा (*mṛjaṃti tvā*) is used. It is prescribed in the Sūtra: the passage beginning अथापरमभिरूपं (*athāparamabhirūpaṃ*), from Āśv. Śrau. 5.12 **NOTE**.
+
+This sūkta beginning एतेसोमाः (*etesomāḥ*) is the eighth sūkta in the first anuvāka. There are nine Ṛks in it. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said: एते सोमाः (*ete somāḥ*). The use of the sūkta has been stated earlier. In the Grāvastotra, according to the opinion of the teacher Gāṇagāri, in the act of making the Soma fit, the fourth Ṛk मृजंति त्वा (*mṛjaṃti tvā*) is to be recited, as is made clear by the Sūtra of the Āśvalāyana Śrautasūtra: अथापरमभिरूपं कुर्यादिति गाणगारिराप्यायस्व समेतुइति तिस्रो मृजंति त्वा दश क्षिपः (*athāparamabhirūpaṃ kuryāditi gāṇagārirāpyāyasva sametuiti tisro mṛjaṃti tvā daśa kṣipaḥ*) (Ā. Sū. 5 12).
+
+Sūkta 8 of Maṇḍala 9; Anuvāka 1.
+
+Aṣṭaka 6; Adhyāya 7; Vargas 30, 31.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: असितः काश्यपो देवलो वा (*asitaḥ kāśyapo devalo vā*).
+
+Deity: पवमानः सोमः (*pavamānaḥ somaḥ*).
+
+Metre: यत्री (*yatrī*) **NOTE**.
+
+### Printed p. 640
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमा॑ अ॒भि प्रि॒यमिंद्र॑स्य॒ काम॑मक्षरन् ।  
+> वर्धं॑तो अस्य वी॒र्य॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमाः । अभि । प्रियम् । इंद्रस्य । कामम् । अक्षरन् ।  
+> वर्धंतः । अस्य । वीर्यम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते अभिषुता इमे सोमाः अस्य इंद्रस्य वीर्यं शक्तिं वर्धंतः वर्धयंतः इंद्रस्य कामं काम्यं प्रियं प्रीतिकरं रसम् अभि अक्षरन् अभिपवंते अभ्यवर्षन् ।
+
+##### Gist of the bhāṣya
+
+These pressed Soma juices, increasing the vigour of this Indra (वर्धंतः (*vardhaṃtaḥ*)), have flowed towards, that is, have rained upon (अभि अक्षरन् (*abhi akṣaran*)), Indra's desirable, dear, delightful sap.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—those prepared here **NOTE**
+- सोमाः (*somāḥ*)—Soma juices
+- अस्य (*asya*)—of this Indra
+- वीर्यं (*vīryaṃ*)—the strength
+- वर्धंतः (*vardhaṃtaḥ*)—increasing
+- इंद्रस्य (*iṃdrasya*)—to Indra
+- कामं (*kāmaṃ*)—the attractive
+- प्रियं (*priyaṃ*)—and the lovable sap
+- अभ्यक्षरन् (*abhyakṣaran*)—cause to flow
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices prepared here, increasing the strength of this Indra, cause to flow for Indra the sap that is attractive and lovable.
+
+##### English translation
+These Soma juices destil the dear desire of Indra, increasing his vigour.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नास॑श्चमू॒षदो॒ गच्छं॑तो वा॒युम॒श्विना॑ ।  
+> ते नो॑ धांतु सु॒वीर्य॑म् ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 634. Mandala 9 Sukta 6 Rk 7-9 (Pratipadartha onward), Sukta 7 Rk 1-4
+**Progress note:** Done through printed p. 640. Mandala 9 sukta 7 Rks 5-9 and sukta 8 Rks 1-2 start (pp. 635-640)
