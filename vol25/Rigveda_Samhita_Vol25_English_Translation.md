@@ -1675,6 +1675,235 @@ Him, this very Indra, in this manner, the devout, that is, the offering-bearing 
 
 The Adhvaryus, who bear the oblation, serve in this manner this same Indra, self-shining and famous. When, for going to give the oblation, the horses of this Indra become ready (or, their praises become ready for the giving of the oblation), then they obtain the wealth belonging to this Indra and well placed.
 
+### Printed p. 43
+
+##### English translation
+(The priests), presenting praise, thus worship that self-resplendent (Indra) ; they obtain his well-stored wealth, when (his horses) bring him on his way for the offering.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk beginning तॆंघोमित्रा (*tèṃghomitrā*) is to be recited in the Pravargyeṣṭi performed in the forenoon, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, तेघोमित्रा नमस्विन इति प्रागाथीं पूर्वाह्णे (*teghomitrā namasvina iti prāgāthīṃ pūrvāhṇe*) (Ā. 4-7) **NOTE**.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ प्र॒त्नस्यौक॑सः प्रि॒यमे॑धास एषाम् ।  
+> पूर्वा॒मनु॒ प्रय॑तिं वृ॒क्तब॑र्हिषो हि॒तप्र॑यस आशत ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । प्रत्नस्य । ओकसः । प्रियऽमेधासः । एषाम् ।  
+> पूर्वाम् । अनु । प्रऽयतिम् । वृक्तऽबर्हिषः । हितऽप्रयसः । आशत ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरति । एषां देवानामिंद्रादीनां प्रत्नस्य पुराणस्य ओकसः स्थानस्य पुराणं स्थानं प्रियमेधासः प्रियमेधाः अनु आशत अनुप्राप्ताः । कीदृशाः प्रियमेधाः । पूर्वां मुख्यं प्रयतिं प्रदानम् अनु लक्षीकृत्य वृक्तबर्हिषः स्तीर्णदर्भाः हितप्रयसः आसादितसोमादिहविष्काः ॥ ॥ ७ ॥ ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk Sāyaṇa concludes the praise. The Priyamedhas, the descendants of Priyamedha, have reached the ancient dwelling-place of these deities, Indra and the others; प्रत्नस्य (*pratnasya*) means "ancient" and ओकसः (*okasaḥ*) means "place", so that the whole is the old place, and आशत (*āśata*) is explained as "have attained". He then asks what kind of Priyamedhas these are. They have in view the foremost (chief) offering, and they have strewn the sacred grass; they have set in readiness the soma and the other oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्व्यं (*pūrvyaṃ*)—the most chief
+- प्रयुतिं (*prayutiṃ*)—the offering
+- अनु (*anu*)—with a view to (to present the offering)
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—those who have spread the seat of darbha grass
+- हितप्रयसः (*hitaprayasaḥ*)—and who are possessed of the oblation
+- प्रियमेधासः (*priyamedhāsaḥ*)—the descendants of Priyamedha
+- एषां (*eṣāṃ*)—of these deities, Indra and the others
+- प्रत्नस्य (*pratnasya*)—ancient
+- ओकसः (*okasaḥ*)—the place
+- आनु आशत (*ānu āśata*)—have reached
+
+### Printed p. 44
+
+##### भावार्थ (Bhāvārtha)
+
+The descendants of Priyamedha, who have spread the seat of darbha grass for the sake of the chief offering and are possessed of the oblation, have reached the ancient place of these deities, Indra and the others.
+
+##### English translation
+The Priyamedhas have reached the ancient dwelling-place of these deities, having strewed the sacred grass and placed their oblations after the manner of a pre-eminent offering.
+
+## Sūkta 70 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अष्टमेऽनुवाक एकादश सूक्तानि । तत्र  ‘ यो राजा ' इति पंचदशर्चं प्रथम सूक्तम् । अत्रानुक्रमणिका-- ' यो राजा पंचोना पुरुहन्मा बार्हतं त्रिप्रगाथाद्युष्णिगनुष्टुप्पुरउष्णिगंतम्' इति । पुरुहन्मा ऋषिः । स च क्वचित् कथंचिदविशेषितम्' (अनु. २, ३) इति परिभाषयांगिरसः । आद्यातृतीयापंचम्यो बृहत्यः। द्वितीयाचतुर्थीषष्ठ्यः सतोबृहत्यः । सप्तम्याद्याः षट् बृहत्यः । त्रयोदश्युष्णिक् चतुर्दश्यनुष्टुप् पंचदशी पुरउष्णिगाद्यद्वादशका द्व्यष्टका । ' आद्यश्चेत्पुरउष्णिक्' (अनु. ५.२ ) इति हि तल्लक्षणम् । इंद्रो देवता। महाव्रते निष्केवल्ये बार्हततृचाशीतावादित एकादशर्चः । तथा च पंचमारण्यके सूत्रितं -- यो राजा चर्षणीनामित्येकादश' (ऐ. आ. ५. २. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+The eighth Anuvāka has eleven sūktas, and the first of them is the sūkta of fifteen Ṛks beginning यो राजा (*yo rājā*). The Anukramaṇikā describes it in its own words, as a बार्हतं (*bārhataṃ*) sūkta with Ṛks in the three prāgāthas, the first of them beginning with उष्णिक् (*uṣṇik*), then अनुष्टुप् (*anuṣṭup*), and ending with पुरउष्णिक् (*purauṣṇik*). The seer is Puruhanman, who, by the general rule of the Anukramaṇikā (Anu. 2, 3) that a seer not otherwise specified belongs to the Aṅgirases, is an Āṅgirasa. The first, third and fifth Ṛks are बृहत्यः (*bṛhatyaḥ*), the second, fourth and sixth are सतोबृहत्यः (*satobṛhatyaḥ*), and the six from the seventh onward are बृहत्यः (*bṛhatyaḥ*). The thirteenth is उष्णिक् (*uṣṇik*), the fourteenth अनुष्टुप् (*anuṣṭup*), and the fifteenth पुरउष्णिक् (*purauṣṇik*), which is a metre of twelve and two times eight syllables, since the definition is that when the first is a पुरउष्णिक् (*purauṣṇik*) (Anu. 5.2). The deity is Indra. In the Mahāvrata, in the Niṣkevalya recitation, the first eleven Ṛks are used for the बार्हत (*bārhata*) triplet, and so it is laid down in the fifth Āraṇyaka, यो राजा चर्षणीनामित्येकादश (*yo rājā carṣaṇīnāmityekādaśa*) (Ai. Ā. 5. 2. 4).
+
+In the eighth Anuvāka of the eighth Maṇḍala there are eleven sūktas. Among them this sūkta beginning यो राजा (*yo rājā*) is the first. It has fifteen Ṛks. In the Anukramaṇikā it is said: यो राजा पंचोना पुरुहन्मा जार्पतं त्रिप्रगाथाद्युष्णिगनुष्टुप्पुरउष्णिगंतं (*yo rājā paṃconā puruhanmā jārpataṃ tripragāthādyuṣṇiganuṣṭuppurauṣṇigaṃtaṃ*) **NOTE**. The seer of this sūkta is Puruhanman; this seer is stated in the Anukramaṇikā (Anu. 2-3) to belong to the Āṅgirasa gotra. The first, third and fifth Ṛks of this sūkta are in the बृहती (*bṛhatī*) metre. The second, fourth and sixth Ṛks are in the सतोबृहती (*satobṛhatī*) metre. The six Ṛks from the seventh onward are in the बृहती (*bṛhatī*) metre. The thirteenth is in the उष्णिक् (*uṣṇik*), the fourteenth in the अनुष्टुप् (*anuṣṭup*) and the fifteenth in the पुरउष्णिक् (*purauṣṇik*) metre. If a Ṛk has three pādas, with twelve syllables in the first pāda and eight
+
+### Printed p. 45
+
+syllables each in the remaining ones, that metre is called पुरउष्णिक् (*purauṣṇik*); such is its definition. Indra is the deity. In the Mahāvratesṭi, when the Niṣkevalya-śastra mantras are recited, the first eleven Ṛks of this sūkta are employed for the Ṛks in the बृहती (*bṛhatī*) metre, as is specified in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence यो राजा चर्षणीनामित्येकादश (*yo rājā carṣaṇīnāmityekādaśa*) (Ai. Ā. 5-2-4).
+
+Sūkta 70 of Maṇḍala 8; Anuvāka 8.
+
+Aṣṭaka 6; Adhyāya 5; Varga 8, 9, 10.
+
+Number of Ṛks in the sūkta: 15.
+
+Seer: Puruhanmā.
+
+Deity: Indra.
+
+Metre: 1-5. Prāgātha (the odd ones बृहत्यः (*bṛhatyaḥ*), the even ones सतोबृहत्यः (*satobṛhatyaḥ*)). 7-12. बृहती (*bṛhatī*) **NOTE**. 13. उष्णिक् (*uṣṇik*). 14. अनुष्टुप् (*anuṣṭup*). 15. पुरउष्णिक् (*purauṣṇik*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो राजा॑ चर्षणी॒नां याता॒ रथे॑भि॒रध्रि॑गुः ।  
+> विश्वा॑सां तरु॒ता पृत॑नानां॒ ज्येष्ठो॒ यो वृ॑त्र॒हा गृ॒णे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । राजा । चर्षणीनाम् । याता । रथेभिः । अध्रिऽगुः ।  
+> विश्वासाम् । तरुता । पृतनानाम् । ज्येष्ठः । यः । वृत्रऽहा । गृणे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः इंद्रः चर्षणीनां मनुष्याणां राजा स्वामी रथैः याता गंता च अध्रिगुः अधृतगमनोऽन्यैः विश्वासां पृतनानां सेनानां तरुता तारकः । यः च ज्येष्ठः गुणैर्ज्यायान् । यश्च वृत्रहा वृत्रं हतवान् । तं महाभागमिंद्रं गृणे स्तौमि ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is the lord of the people (mankind), who travels in chariots and whose going is not held back by others, who is the one who carries across all the armies, who is the eldest, that is, the greatest in qualities, and who is the slayer of Vṛtra, that glorious Indra the seer praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- चर्षणीनां (*carṣaṇīnāṃ*)—of all mankind
+- राजा (*rājā*)—is the lord
+- अध्रिगुः (*adhriguḥ*)—of a going not stopped by others
+- रथेभिः (*rathebhiḥ*)—in chariots (with chariots)
+
+### Printed p. 46
+
+- याता (*yātā*)—and moves about
+- विश्वासां (*viśvāsāṃ*)—of all
+- पृतनानां (*pṛtanānāṃ*)—the armies
+- तरुता (*tarutā*)—and is the protector
+- यः (*yaḥ*)—the Indra who
+- ज्येष्ठः (*jyeṣṭhaḥ*)—is the most eminent in qualities
+- वृत्रहा (*vṛtrahā*)—and is the slayer of Vṛtra (that Indra)
+- गृणे (*gṛṇe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise that Indra who is the lord of all mankind, who moves about in chariots with a going not stopped by others, and who is the protector of all armies, and who is the most eminent in qualities and the slayer of Vṛtra.
+
+##### English translation
+I praise that Indra who is the lord of men, who proceeds irresistible in his chariots, the breaker-through of all armies, the pre-eminent one, the slayer of Vṛtra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॒ तं शुं॑भ पुरुहन्म॒न्नव॑से॒ यस्य॑ द्वि॒ता वि॑ध॒र्तरि॑ ।  
+> हस्ता॑य॒ वज्रः॒ प्रति॑ धायि दर्श॒तो म॒हो दि॒वे न सूर्यः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रम् । तम् । शुंभ । पुरुऽहन्मन् । अवसे । यस्य । द्विता । विऽधर्तरि ।  
+> हस्ताय । वज्रः । प्रति । धायि । दर्शतः । महः । दिवे । न । सूर्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहन्मन् ऋषे त्वं तम् इंद्रं शुंभ हविष्प्रदानादिनालंकुरु । किमर्थम् । अवसे रक्षणाय । एवमात्मानं संबोध्य ब्रवीति । यस्य तव विधर्तरि विधारक इंद्रे द्विता द्वित्वमस्त्यौग्य्मनौग्र्यम् । तव शत्रून् हंतुमुग्रत्वं त्वदनुग्रहायानौग्र्यं चेति द्वैतमस्ति । तत्रौग्र्यचिह्नं दर्शयति । हस्ताय कराय हननाय शत्रूणां दर्शतः दर्शनीयः महः महान् वज्रः प्रति धायि प्रतिनिहितो भवति दिवे प्रकाशाय दिवसाय वा अथवा दिवि दृश्यमानः सूर्यः इव ॥
+> तस्मिन्नेव शस्त्रे ‘नकिष्टम्' इति प्रगाथो वैकल्पिकः स्तोत्रियः । सूत्रितं च - ‘ नकिष्टं कर्मणा नशन्न त्वा बृहंतो अद्रयः' (आश्व. श्रौ. ७. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+"O seer Puruhanman, adorn that Indra with the offering of oblations and the like, for protection." Thus the seer addresses himself. In you the upholder, Indra, there is a twofold nature: fierceness, to slay your enemies, and non-fierceness, for favour to you. He shows the mark of the fierceness: the glorious, great thunderbolt is placed in the hand for the slaying of enemies, like the sun seen in heaven, for light or for the day.
+
+In that same Śastra the pragātha नकिष्टं (*nakiṣṭaṃ*) is an optional stotriya, and it is laid down in the sūtra नकिष्टं कर्मणा नशन्न त्वा बृहंतो अद्रयः (*nakiṣṭaṃ karmaṇā naśanna tvā bṛhaṃto adrayaḥ*) (Āśv. Śrau. 7. 4) **NOTE**.
+
+### Printed p. 47
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहन्मन् (*puruhanman*)—O seer named Puruhanman
+- यस्य (*yasya*)—in which
+- विधर्तरि (*vidhartari*)—Indra, your upholder
+- द्विता (*dvitā*)—there are instruments of two kinds, restraint and favour
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- अवसे (*avase*)—for protection
+- शुंभ (*śuṃbha*)—adorn with offerings of oblations and the like
+- दिवे (*dive*)—for light in the daytime
+- सूर्यः न (*sūryaḥ na*)—as the sun
+- हस्ताय (*hastāya*)—for the slaying of enemies
+- दर्शतः (*darśataḥ*)—of a pleasing form
+- महः (*mahaḥ*)—and of a great nature
+- वज्रः (*vajraḥ*)—the thunderbolt
+- प्रतिधायि (*pratidhāyi*)—has been taken up by Indra
+
+##### भावार्थ (Bhāvārtha)
+
+O seer named Puruhanman, adorn with offerings of oblations and the like, for your protection, that Indra, your upholder, in whom there are instruments of two kinds, restraint and favour. For the slaying of enemies the thunderbolt, of a pleasing form and of a great nature, like the sun for light in the daytime, has been taken up by Indra.
+
+##### English translation
+Puruhanman, honour that Indra for your protection, for in your upholder there is a two-fold might ; he holds in his hand ( to smite his enemies) the glorious thunderbolt great as the sun in heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकि॒ष्टं कर्म॑णा नश॒द्यश्च॒कार॑ स॒दावृ॑धम् ।  
+> इंद्रं॒ न य॒ज्ञैर्वि॒श्वगू॑र्त॒मृभ्व॑स॒मधृ॑ष्टं धृ॒ष्ण्वो॑जसम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । तम् । कर्मणा । नशत् । यः । चकार । सदाऽवृधम् ।  
+> इंद्रम् । न । यज्ञैः । विश्वऽगूर्तम् । ऋभ्वसम् । अधृष्टम् । धृष्णुऽओजसम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं जनमन्यो मर्षको जनः कर्मणा हननादिव्यापारेण नकिः नशत् नैव व्याप्नोति । यः इंद्रं चकार इंद्रमेवानुकूलं यज्ञैः साधनैः । कीदृशमिंद्रम् । सदावृधं सदा वर्धकं विश्वगूर्त सर्वैः स्तुत्यम् ऋभ्वसं महांतम् अधृष्टम् अन्यैः धृष्ण्वोजसं धर्षकबलम् ॥
+
+##### Gist of the bhāṣya
+
+No other person, no hostile man, reaches that man by any action such as slaying: him who, by the means of sacrifices, has made Indra favourable to himself. Sāyaṇa then describes Indra: always the increaser, to be praised by all, great, not to be overcome by others, and of daring (overcoming) strength.
+
+### Printed p. 48
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- सदावृधः (*sadāvṛdhaḥ*)—who always grows
+- विश्वगूर्तं (*viśvagūrtaṃ*)—who is to be praised by all
+- ऋभ्वसं (*ṛbhvasaṃ*)—the great-souled
+- अधृष्टं (*adhṛṣṭaṃ*)—not struck back by enemies
+- धृष्ण्वोजसं (*dhṛṣṇvojasaṃ*)—and of a daring strength
+- इंद्रं न (*iṃdraṃ na*)—Indra himself
+- यज्ञैः (*yajñaiḥ*)—with the oblations and the like, the means of the sacrifice
+- चकार (*cakāra*)—worships
+- तं (*taṃ*)—that sacrificer
+- कर्मणा (*karmaṇā*)—by deeds of violence and the like
+- नकिः नशत् (*nakiḥ naśat*)—none among his enemies can harm
+
+##### भावार्थ (Bhāvārtha)
+
+None among his enemies can harm, by deeds of violence and the like, that sacrificer who worships with the oblations and the like, the means of the sacrifice, Indra himself, who always grows, is to be praised by all, is great-souled, not struck back by enemies and of a daring strength.
+
+##### English translation
+None can touch him by his deeds, who has made Indra his friend by sacrifices,—(Indra) ever giving fresh strength, to be hymned by all, great, unconquered, of ever-daring might.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Niṣkevalya-śastra mantras, the pragātha beginning नकिष्टं (*nakiṣṭaṃ*) (Ṛks 3-4) is to be recited as an optional stotriya mantra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, नकिष्टं कर्मणा नशन्न त्वा बृहंतो अद्रयः (*nakiṣṭaṃ karmaṇā naśanna tvā bṛhaṃto adrayaḥ*) (Ā. 7-4).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अषा॑ळ्हमु॒ग्रं पृत॑नासु सास॒हिं यस्मि॑न्म॒हीरु॑रु॒ज्रयः॑ ।  
+> सं धे॒नवो॒ जाय॑माने अनोनवु॒र्द्यावः॒ क्षामो॑ अनोनवुः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 42. Vol 25 pp. 37-42, Maṇḍala 8 Sūkta 69 Ṛk 12-17
+**Progress note:** Done through printed p. 48. Ṛk 18 end of Sūkta 69, Sūkta 70 Ṛks 1-4 start
