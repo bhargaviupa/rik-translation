@@ -3999,6 +3999,304 @@ Sāyaṇa says: O Indra, you who are lord, do not give us over to the speaker of
 - निदे च (*nide ca*)—or to one who reviles us
 - अराव्णे (*arāvṇe*)—or to one who offers no oblation, fallen from rites
 
+### Printed p. 91
+
+- नः (*naḥ*)—us
+- मा रंधीः (*mā raṃdhīḥ*)—do not make (us) subject
+- उत (*uta*)—and
+- त्वे (*tve*)—in you
+- मम (*mama*)—my
+- क्रतुः (*kratuḥ*)—may the act in the form of praise become united (with you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are lord and protector of us all, do not make us subject to one who speaks so as to hurt us, to one fallen from rites who offers no oblation, or to our revilers. And may my act in the form of praise pervade you and be united with you.
+
+##### English translation
+Indra, you are lord ; subject us not to the reviler, to the abuser, to the withholder of offerings : may my worship verily (find favour) wlth you.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं वर्मा॑सि स॒प्रथः॑ पुरोयो॒धश्च॑ वृत्रहन् ।  
+> त्वया॒ प्रति॑ ब्रुवे यु॒जा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । वर्म । असि । सऽप्रथः । पुरःऽयोधः । च । वृत्रऽहन् ।  
+> त्वया । प्रति । ब्रुवे । युजा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्राणां हिंसकेंद्र त्वं वर्मास्माकं कवचमसि । कवचवद्रक्षकोऽसीत्यर्थः । सप्रथः सर्वतः पृथुश्चासि । पुरोयोधश्च पुरो योद्धा चासि । त्वया युजा त्वया सहायेन प्रति ब्रुवे । शत्रून् प्रतिब्रवीमि । प्रतिहन्मीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, slayer of Vṛtras (enemies), you are our armour; that is, you are our protector as armour is. You are also vast on every side, and you are our leader in battle, the one who fights in front. With you as my ally I speak against the enemies, that is, I strike them back.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of enemies
+- त्वं (*tvaṃ*)—you
+- वर्म (*varma*)—as armour for us
+- असि (*asi*)—you are
+- सप्रथः (*saprathaḥ*)—and you are famed everywhere
+- पुरोयोधश्च (*puroyodhaśca*)—and you are the one who stands in front of us and fights (for us)
+- त्वया युजा (*tvayā yujā*)—joined with you
+- प्रति ब्रुवे (*prati bruve*)—I am able to confront the enemies and strike them
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, you are armour for us. You are famed everywhere. You are also the one who stands in front of us and fights for us. Joined with you, I am able to confront the enemies and strike them.
+
+### Printed p. 92
+
+##### English translation
+Slayer of enemies, you, Indra, are our armour, vast and our preceder in battle : with you for my ally I defy (the foe).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हां उ॒तासि॒ यस्य॒ तेऽनु॑ स्व॒धाव॑री॒ सहः॑ ।  
+> म॒म्नाते॑ इंद्र॒ रोद॑सी ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । उत । असि । यस्य । ते । अनु । स्वधावरी इति स्वधाऽवरी । सहः ।  
+> मम्नाते इति । इंद्र । रोदसी इति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र त्वं महानसि । सर्वाधिकोऽसि । हे इंद्र यस्य ते तव सहो बलं स्वधावरी अन्नवत्यौ रोदसी द्यावापृथिव्यौ अनु मम्नाते । अनुमन्येते । त्वदीयं सहः सर्वाधिकमित्युभावपि लोकौ विसंवादं न कुरुत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you are great, greater than all. Heaven and earth, both abounding in food, respect your strength; that is, they acknowledge it. Both worlds do not dispute that your strength is greater than all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—moreover
+- इंद्र (*iṃdra*)—O Indra
+- महान् (*mahān*)—endowed with exceeding greatness
+- असि (*asi*)—you are
+- यस्य ते (*yasya te*)—of you, who are such
+- सहः (*sahaḥ*)—the strength
+- स्वधावरी (*svadhāvarī*)—abounding in food
+- रोदसी (*rodasī*)—heaven and earth
+- अनु मम्नाते (*anu mamnāte*)—respect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are endowed with exceeding greatness. Heaven and earth, which abound in food, respect the strength of you who have such greatness.
+
+##### English translation
+You verily are great ; and heaven and earth abounding with food, respect, Indra, your strength.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ म॒रुत्व॑ती॒ परि॒ भुव॒द्वाणी॑ स॒याव॑री ।  
+> नक्ष॑माणा स॒ह द्युभिः॑ ॥ ८ ॥
+
+### Printed p. 93
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वा । मरुत्वती । परि । भुवत् । वाणी । सऽयावरी ।  
+> नक्षमाणा । सह । द्युभिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तमुक्तगुणविशिष्टं त्वा त्वां सयोवरी त्वया सह गंत्री । यत्र यत्र त्वं यासि तत्र तत्र यांतीत्यर्थः । द्युभिस्तेजोभिर्नक्षमाणा व्याप्नुवंती मरुत्वती । मरुतः स्तोतारः । तद्वती वाणी स्तुतिः परि भुवत् । परिभवतिरत्र परिग्रहार्थीयः । परिगृह्णात्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, may praise (speech) that has such qualities as described, accompanying you wherever you go, pervading with radiance, and joined with the Maruts, that is, with the praisers, encompass you; here the verb meaning "to encompass" has the sense of embracing, so the meaning is: may it embrace you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) तं (*taṃ*)—endowed with the qualities described before
+- त्वा (*tvā*)—you
+- सयोवरी (*sayovarī*)—that which moves together with you
+- द्युभिः सह (*dyubhiḥ saha*)—with splendours
+- नक्षमाणा (*nakṣamāṇā*)—that which pervades
+- मरुत्वती (*marutvatī*)—joined with the praisers
+- वाणी (*vāṇī*)—the praise
+- परि भुवत् (*pari bhuvat*)—may it encompass
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the praise that accompanies you wherever you go, that pervades with splendours, and that is joined with the praisers, encompass you who have the qualities described before. May it serve you completely.
+
+##### English translation
+May the praiscs of your adorers, accompanying you (wherever you go), such as you are, and spreading around with radiance, reach you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वास॒स्त्वान्विंद॑वो॒ भुव॑न्द॒स्ममुप॒ द्यवि॑ ।  
+> सं ते॑ नमंत कृ॒ष्टयः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वासः । त्वा । अनु । इंदवः । भुवन् । दस्मं । उप । द्यवि ।  
+> सं । ते । नमंत । कृष्टयः ॥ ९ ॥
+
+### Printed p. 94
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उप द्यवि द्युलोकसमीपे स्थितं दस्मं दर्शनीयं त्वा त्वामनूर्ध्वास ऊर्ध्वा इंदवोऽस्मदीयाः सोमा भुवन् । भवंति । कृष्टयः प्रजाश्च ते तुभ्यं सं नमंते । भुवि सोमास्त्वदर्थमेव जायंते प्रजाश्च त्वामेव प्रणमंतीतींद्रस्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, our Soma juices become upward-flowing toward you, who are of beautiful appearance and stand near the heavenly world. The people too bow together to you. On earth the Somas are born for you alone, and the people bow to you alone; thus this is praise of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) उप द्यवि (*upa dyavi*)—you who abide in heaven
+- दस्मं (*dasmaṃ*)—and have an attractive form
+- त्वा अनु (*tvā anu*)—with you as the aim
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- ऊर्ध्वासः (*ūrdhvāsaḥ*)—with upward-turned streams
+- भुवन् (*bhuvan*)—become
+- कृष्टयः (*kṛṣṭayaḥ*)—all the people too
+- ते (*te*)—to you
+- सं नमंत (*saṃ namaṃta*)—bow with devotion
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with you, who abide in heaven and have an attractive form, as the aim, the Soma juices become upward-turned streams. All the people bow to you with devotion.
+
+##### English translation
+The ascending libations proceed, Indra, to you, abiding ia heaven of goodly aspect; men how in reverence before you. **NOTE**
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ म॒हे म॑हि॒वृधे॑ भरध्वं॒ प्रचे॑तसे॒ प्र सु॑म॒तिं  ॑
+> कृणुध्वं ।  
+> विशः॑ पू॒र्वीः प्र च॑रा चर्षणि॒प्राः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । महे । महिऽवृधे । भरध्वं । प्रऽचेतसे । प्र । सुऽमतिं । कृणुध्वं ।  
+> विशः । पूर्वीः । प्र । चर । चर्षणिऽप्राः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीयाः पुरुषाः वो यूयं महिवृधे महतां धनानां वर्धयित्रे महे महते इंद्राय प्र भरध्वं । सोमान्प्रणयत । प्रचेतसे प्रकृष्टमतये इंद्राय सुमतिं सुष्टुतिं च प्र कृणुध्वं । प्रकुरुत । अथ प्रत्यक्षस्तुतिः । हे इंद्र
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O my men, bring forward Somas to great Indra, who increases great riches. Offer good praise to Indra, who is of excellent mind; do it well. Now the direct address to Indra begins: O Indra,
+
+### Printed p. 95
+
+> चर्षणिप्राः कामैः प्रजानां पूरयिता त्वं पूर्वीर्हविषां पूरयित्रीर्विशः प्रजाः प्र चर । अभिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+you, the fulfiller of the desires of the people, go forth to the people who fill the oblations in abundance; approach them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers) वः (*vaḥ*)—you
+- महिवृधे (*mahivṛdhe*)—to Indra, who increases great wealth
+- महे (*mahe*)—and is great
+- प्र भरध्वं (*pra bharadhvaṃ*)—procure Somas
+- प्रचेतसे (*pracetase*)—for the praise of Indra, who is of excellent understanding
+- सुमतिं (*sumatiṃ*)—excellent praises
+- प्र कृणुध्वं (*pra kṛṇudhvaṃ*)—compose
+- (O Indra) चर्षणिप्राः (*carṣaṇiprāḥ*)—you who fulfil the desires of the people
+- पूर्वीः (*pūrvīḥ*)—who fill the oblations
+- विशः (*viśaḥ*)—to the people
+- प्र चर (*pra cara*)—come quickly with favour
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, procure Soma juices for Indra, who increases great wealth and is great. Compose excellent praises for the praise of Indra, who is of excellent understanding. O Indra, you who fulfil the desires of the people, come quickly with favour to the people who have filled and prepared oblations for you.
+
+##### English translation
+Bring (libations) to the great (Indra), the giver of great (wealth) : offer praise to the wise Indra : fulfiller (of the desires) of men, come to the people offering many (oblations).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रु॒व्यच॑से म॒हिने॑ सुवृ॒क्तिमिंद्रा॑य॒ ब्रह्म॑ जनयंत॒ विप्राः॑ ।  
+> तस्य॑ व्र॒तानि॒ न मि॑नंति॒ धीराः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुऽव्यचसे । महिने । सुऽवृक्तिं । इंद्राय । ब्रह्म । जनयंत । विप्राः ।  
+> तस्य । व्रतानि । न । मिनंति । धीराः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरुव्यचसे पृथुव्याप्तये महिने महते यस्मा इंद्राय सुवृक्तिं स्तुतिं ब्रह्मान्नं हविश्च विप्राः प्राज्ञाः जनयंत जनयंति तस्येंद्रस्य व्रतानि रक्षणादीनि कर्माणि धीराः प्राज्ञा देवा अपि न मिनंति । न हिंसंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The wise produce good praise and sacred food and oblation for Indra, who is of wide pervasion and great. The steadfast wise gods too do not violate or harm the functions of that Indra, namely his acts of protection and the like.
+
+### Printed p. 96
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुव्यचसे (*uruvyacase*)—for him of very wide pervasion
+- महिने (*mahine*)—and great
+- इंद्राय (*iṃdrāya*)—for Indra
+- सुवृक्तिं (*suvṛktiṃ*)—well-made praise
+- ब्रह्म (*brahma*)—food in the form of oblation
+- विप्राः (*viprāḥ*)—the wise
+- जनयंत (*janayaṃta*)—produce and make ready
+- तस्य (*tasya*)—of that same Indra
+- व्रतानि (*vratāni*)—the acts of protection
+- धीराः (*dhīrāḥ*)—the wise gods too
+- न मिनंति (*na minaṃti*)—do not transgress (do not obstruct)
+
+##### भावार्थ (Bhāvārtha)
+
+The wise produce and make ready well-made praise and food in the form of oblation for Indra, who is of very wide pervasion and great. The wise gods too cannot transgress the acts of protection of that same Indra.
+
+##### English translation
+The sages engender sacred praise and (sacrificial) food for the widepervadiug mighty Indra : the prudent impede not his functions.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॒ वाणी॒रनु॑त्तमन्युमे॒व स॒त्रा राजा॑नं दधिरे॒ सह॑ध्यै ।  
+> हर्य॑श्वाय बर्हया॒ समा॒पीन् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । वाणीः । अनुत्तऽमन्युं । एव । सत्रा । राजानं । दधिरे । सहध्यै ।  
+> हरिऽअश्वाय । बर्हय । सं । आपीन् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्रा राजानं सर्वजगत ईश्वरमनुत्तमन्युं । केनाप्यनुत्तोऽबाधितो मन्युः क्रोधो यस्य सः । तमेवेंद्रं वाणीः स्तुतयः सहध्यै स्तोत्राणि शत्रूणामभिभवितुं दधिरे । अतो हेतोर्हे स्तोतः त्वमपि हर्यश्वायेंद्राय । हर्यश्वमिंद्रं स्तोतुमित्यर्थः । आपीन् बंधून् सं बर्हय । उत्साहय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra is king of the whole world, lord of all, and his anger is unrepelled, that is, not obstructed by anyone. To that same Indra the praises, the hymns, are directed in order to overcome enemies. Therefore, O praiser, you too, to praise Indra, who has bay horses, encourage your kinsmen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्रा (*satrā*)—to the whole world
+- राजानं (*rājānaṃ*)—lord
+- अनुत्तमन्युं (*anuttamanyuṃ*)—having anger that cannot be withstood by anyone
+- इंद्रं एव (*iṃdraṃ eva*)—Indra alone
+- वाणीः (*vāṇīḥ*)—the praises
+- सहध्यै (*sahadhyai*)—enemy
+
 ---
 
-**Progress note:** Done through printed p. 90. Vii.30.4-5 end; 31.1-5
+**Progress note:** Done through printed p. 96. Sukta 31 Rk 5 end to Rk 12 start (pp. 91-96)
