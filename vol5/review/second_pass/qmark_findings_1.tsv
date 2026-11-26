@@ -1,0 +1,23 @@
+page	kind	reader	place	as_found	proposed	basis	decision	log
+232	H10	R1	L4246: 2-12-3	2-15-8; 2-12-3 [?]	2-15-8; 2-12-3	scan p. 232, 330 dpi: item reads ೨-೧೨-೩; middle digit 2 has a damaged/barred form, cannot rule out another digit	question	not certain
+232	H10	R1	L4246: 2-24-3	2-12-3 [?]; 2-24-3 [?]	2-12-3 [?]; 2-24-3	scan p. 232, 330 dpi: item reads ೨-೨೪-೩; first glyph barred/damaged, 2 vs 3 not certain	question	not certain
+232	H10	R1	L4246: 8-14-7	6-39-2; 8-14-7 [?]	6-39-2; 8-14-7	scan p. 232, 330 dpi: first glyph resembles ಲ/೮, last digit ೭ vs ೨ not certain	question	not certain
+232	H10	R1	L4246: 8-24-30	8-14-7 [?]; 8-24-30 [?]	8-14-7 [?]; 8-24-30	scan p. 232, 330 dpi: glyphs of the middle group damaged, ೨೪ vs other not certain	question	not certain
+232	H10	R1	L4246: 10-67-2	8-24-30 [?]; 10-67-2 [?]	8-24-30 [?]; 10-67-2	scan p. 232, 330 dpi: second group has a broken glyph pair; read as ೧೦-೬?-? , tens/units of 67 and last digit not certain	question	not certain
+232	H10	R1	L4246: 10-62-6	10-67-2 [?]; 10-62-6 [?]	10-67-2 [?]; 10-62-6	scan p. 232, 330 dpi: item broken, ೧೦-೬೨-೬ plausible but middle digit ೨ damaged; not certain	question	not certain
+232	H10	R1	L4246: where a digit is not certain	scan; [?] where a digit	scan; where a digit	scan p. 232, 330 dpi: this [?] is inside the translator remark explaining the marks, not at a number	question	not a number mark (b)
+234	H10	R1	L4292: U. Sū. 4-20	U. Sū. 4-20 [?]	U. Sū. 4-20	scan p. 234, 330 dpi (3x crop): ಉ. ೪-೨? where the last digit reads ∩ = ೧ not ೦ (as in ೧೦ elsewhere, O is 0), i.e. 4-21 rather than 4-20; the middle glyph also has a loop	question	scan seems to read 4-21 vs English 4-20; not changed
+243	H10	R1	L4459: प्रापर्य	अनुपूर्व्येण हर्षं प्रापर्य [?]	अनुपूर्व्येण हर्षं प्रापर्य	not a number: Sanskrit word (Sāyaṇa text, doubtful prāparya); scan not consulted for it	question	Sanskrit word, not a number
+243	H10	R1	L4461: prāparya	anupūrvyeṇa harṣaṃ prāparya [?]	anupūrvyeṇa harṣaṃ prāparya	not a number: Sanskrit word (IAST of prāparya)	question	Sanskrit word, not a number
+243	H10	R1	L4463: read prāparya	read *prāparya* [?]	read *prāparya*	not a number: reading of a Sanskrit word	question	Sanskrit word, not a number
+259	H10	R1	L4766: Kā. 1-2-1	Kā. 1-2-1 as read, [?]	Kā. 1-2-1 as read,	scan p. 259, 330 dpi (3x crop): ಕಾ. ೧-೨-?-೧ : four groups with the third group broken; English 1-2-1 has three; not certain	question	scan shows a different/broken form (four groups); not changed
+260	H10	R1	L4788: apṛthivīrudrapūṣamanthiṣu	manthiṣu*" [as read, [?]]	manthiṣu*" [as read]	no reference number follows this quoted word in the print (p. 259 text); the mark is not at a number	question	not a number mark; no reference printed
+263	H10	R1	L4856: Many numerals are marked	are marked [?] in the Riks	are marked in the Riks	remark in the introduction, not at a number	question	not a number mark (b)
+271	H10	R1	L5008: Pā. 7-4-50	Pā. 7-4-50 as read, [?]]	Pā. 7-4-50 as read,]	scan p. 271: the sūtra is printed ತಾಸಸ್ತ್ಯೋರ್ಲೋಪಃ with no reference number after it; nothing to compare	question	no number in the print here; cannot confirm 7-4-50
+277	H10	R1	L5118: यान्सोमान्	यान्सोमान् [?] वयम	यान्सोमान् वयम	not a number: Sanskrit word	question	Sanskrit word, not a number
+277	H10	R1	L5120: yān somān	yān somān [?] vayam	yān somān vayam	not a number: Sanskrit word	question	Sanskrit word, not a number
+277	H10	R1	L5120: read yān somān	read *yān somān*, [?])	read *yān somān*, )	not a number: remark on a Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5213: अमदर्य	अमदर्य [?] । हर्षं	अमदर्य । हर्षं	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5213: प्रापर्य	प्रापर्य [?] । तानि	प्रापर्य । तानि	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5215: amadarya	amadarya [?] | harṣaṃ	amadarya | harṣaṃ	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5215: prāparya	prāparya [?] | tāni	prāparya | tāni	not a number: Sanskrit word	question	Sanskrit word, not a number

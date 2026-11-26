@@ -1678,3 +1678,69 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 338	H26	R3	L6309: no *āṭ* by *bahulaṃ chandasy a	no *āṭ* by *bahulaṃ chandasy amāṅyoge 'pi*	no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*	Scan prints "ಬಹುಲಂ ಛಂದಸ್ಯಮಾಙ್ಯೋಗೇಽಪೀತ್ಯಡಭಾವಃ" (aḍabhāvaḥ = no aṭ); English "āṭ" differs. Sanskrit form: question, not applied.	question	
 338	H27	R1	L6309: *hoḍhaḥ*, *jhalāṃ jaśo 'nte*, 	*hoḍhaḥ*, *jhalāṃ jaśo 'nte*, *vāvasāne* gives *ṭ*	*hoḍhaḥ*, *jhalāṃ jaśo 'nte*, *vāvasāne* gives *ṭ*	The janāṣāṭ tail printed on p. 338 runs: "ಜನಾನ್ ಸಹತೇ ... ಛಂದಸಿ ಸಹಃ (ಪಾ. ೩-೨-೬೩) ಇತಿ ಣ್ವಿಃ । ಆತ ಉಪಧಾಯಾ ಇತಿ ವೃದ್ಧಿಃ । ಸಹೇಃ ಸಾಡಃ ಸಃ (೮-೩-೫೬) ಇತಿ ಷತ್ವಂ । ಅನ್ಯೇಷಾಮಪಿ ದೃಶ್ಯತ ಇತಿ ಪೂರ್ವಪದದೀರ್ಘಃ" and then tavyam; hoḍhaḥ / jhalāṃ jaśo / vāvasāne are not on p. 338 (they belong to the Kannada p. 339 notes). Same for the ending of the svapatyai item (ekādeśa udāttenodāttaḥ, ayādeśa). The English remark says these are given "in full" on pp. 338-340, so possibly intended; editor to decide.	question	
 338	H27	R1	L6309: *ekādeśa udāttenodāttaḥ*; *ayā	*ekādeśa udāttenodāttaḥ*; *ayādeśa* with optional loss of *y*	*ekādeśa udāttenodāttaḥ*; *ayādeśa* with optional loss of *y*	Scan p. 338 svapatyai tail ends "ಜಸಾದಿಷು ಛಂದಸಿ ವಾವಚನಮಿತಿ ಯಾಡಾಪಃ (ಪಾ. ೭-೩-೧೧೩) ಇತಿ ಯಾಡಾಗಮಾಭಾವೇ ವೃದ್ಧಿರೇಚಿ (ಪಾ. ೬-೧-೮೮) ಇತಿ ವೃದ್ಧಿಃ ॥"; ekādeśa/ayādeśa are not printed on p. 338. See previous row.	question	
+232	H10	R1	L4246: 2-12-3	2-15-8; 2-12-3 [?]	2-15-8; 2-12-3	scan p. 232, 330 dpi: item reads ೨-೧೨-೩; middle digit 2 has a damaged/barred form, cannot rule out another digit	question	not certain
+232	H10	R1	L4246: 2-24-3	2-12-3 [?]; 2-24-3 [?]	2-12-3 [?]; 2-24-3	scan p. 232, 330 dpi: item reads ೨-೨೪-೩; first glyph barred/damaged, 2 vs 3 not certain	question	not certain
+232	H10	R1	L4246: 8-14-7	6-39-2; 8-14-7 [?]	6-39-2; 8-14-7	scan p. 232, 330 dpi: first glyph resembles ಲ/೮, last digit ೭ vs ೨ not certain	question	not certain
+232	H10	R1	L4246: 8-24-30	8-14-7 [?]; 8-24-30 [?]	8-14-7 [?]; 8-24-30	scan p. 232, 330 dpi: glyphs of the middle group damaged, ೨೪ vs other not certain	question	not certain
+232	H10	R1	L4246: 10-67-2	8-24-30 [?]; 10-67-2 [?]	8-24-30 [?]; 10-67-2	scan p. 232, 330 dpi: second group has a broken glyph pair; read as ೧೦-೬?-? , tens/units of 67 and last digit not certain	question	not certain
+232	H10	R1	L4246: 10-62-6	10-67-2 [?]; 10-62-6 [?]	10-67-2 [?]; 10-62-6	scan p. 232, 330 dpi: item broken, ೧೦-೬೨-೬ plausible but middle digit ೨ damaged; not certain	question	not certain
+232	H10	R1	L4246: where a digit is not certain	scan; [?] where a digit	scan; where a digit	scan p. 232, 330 dpi: this [?] is inside the translator remark explaining the marks, not at a number	question	not a number mark (b)
+234	H10	R1	L4292: U. Sū. 4-20	U. Sū. 4-20 [?]	U. Sū. 4-20	scan p. 234, 330 dpi (3x crop): ಉ. ೪-೨? where the last digit reads ∩ = ೧ not ೦ (as in ೧೦ elsewhere, O is 0), i.e. 4-21 rather than 4-20; the middle glyph also has a loop	question	scan seems to read 4-21 vs English 4-20; not changed
+243	H10	R1	L4459: प्रापर्य	अनुपूर्व्येण हर्षं प्रापर्य [?]	अनुपूर्व्येण हर्षं प्रापर्य	not a number: Sanskrit word (Sāyaṇa text, doubtful prāparya); scan not consulted for it	question	Sanskrit word, not a number
+243	H10	R1	L4461: prāparya	anupūrvyeṇa harṣaṃ prāparya [?]	anupūrvyeṇa harṣaṃ prāparya	not a number: Sanskrit word (IAST of prāparya)	question	Sanskrit word, not a number
+243	H10	R1	L4463: read prāparya	read *prāparya* [?]	read *prāparya*	not a number: reading of a Sanskrit word	question	Sanskrit word, not a number
+259	H10	R1	L4766: Kā. 1-2-1	Kā. 1-2-1 as read, [?]	Kā. 1-2-1 as read,	scan p. 259, 330 dpi (3x crop): ಕಾ. ೧-೨-?-೧ : four groups with the third group broken; English 1-2-1 has three; not certain	question	scan shows a different/broken form (four groups); not changed
+260	H10	R1	L4788: apṛthivīrudrapūṣamanthiṣu	manthiṣu*" [as read, [?]]	manthiṣu*" [as read]	no reference number follows this quoted word in the print (p. 259 text); the mark is not at a number	question	not a number mark; no reference printed
+263	H10	R1	L4856: Many numerals are marked	are marked [?] in the Riks	are marked in the Riks	remark in the introduction, not at a number	question	not a number mark (b)
+271	H10	R1	L5008: Pā. 7-4-50	Pā. 7-4-50 as read, [?]]	Pā. 7-4-50 as read,]	scan p. 271: the sūtra is printed ತಾಸಸ್ತ್ಯೋರ್ಲೋಪಃ with no reference number after it; nothing to compare	question	no number in the print here; cannot confirm 7-4-50
+277	H10	R1	L5118: यान्सोमान्	यान्सोमान् [?] वयम	यान्सोमान् वयम	not a number: Sanskrit word	question	Sanskrit word, not a number
+277	H10	R1	L5120: yān somān	yān somān [?] vayam	yān somān vayam	not a number: Sanskrit word	question	Sanskrit word, not a number
+277	H10	R1	L5120: read yān somān	read *yān somān*, [?])	read *yān somān*, )	not a number: remark on a Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5213: अमदर्य	अमदर्य [?] । हर्षं	अमदर्य । हर्षं	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5213: प्रापर्य	प्रापर्य [?] । तानि	प्रापर्य । तानि	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5215: amadarya	amadarya [?] | harṣaṃ	amadarya | harṣaṃ	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5215: prāparya	prāparya [?] | tāni	prāparya | tāni	not a number: Sanskrit word	question	Sanskrit word, not a number
+282	H10	R1	L5217: aṃ prāpayan*, [?]	aṃ prāpayan*, [?]	aṃ prāpayan*,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+283	H10	R1	L5246:  are crowded, [?]	 are crowded, [?]	 are crowded,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+288	H10	R1	L5319: " as printed, [?]	" as printed, [?]	" as printed,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+298	H10	R1	L5517: ने । नि. ६-३२ [?]	ने । नि. ६-३२ [?]	ने । नि. ६-३२	scan p. 298, 330 dpi: ನಿ. ೬-೩೨ read, but the last two digits (೩೨ vs ೪೧/೩೩) are not certain	question	not certain
+302	H10	R1	L5620: ls are marked [?]	ls are marked [?]	ls are marked	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+303	H10	R1	L5640: d "(ಸಿ. ೬-೪)" [?]	d "(ಸಿ. ೬-೪)" [?]	d "(ಸಿ. ೬-೪)"	scan p. 303: [?] concerns the abbreviation letter, not the digits	question	[?] is on the abbreviation letter (b)
+305	H10	R1	L5698: त्वात्समासयता [?]	त्वात्समासयता [?]	त्वात्समासयता	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+305	H10	R1	L5698: घजलवर्षणेन तेज[?]	घजलवर्षणेन तेज[?]	घजलवर्षणेन तेज	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+305	H10	R1	L5700: āt samāsayatā [?]	āt samāsayatā [?]	āt samāsayatā	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+305	H10	R1	L5700: varṣaṇena teja[?]	varṣaṇena teja[?]	varṣaṇena teja	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+305	H10	R1	L5700: oud's water … [?]	oud's water … [?]	oud's water …	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+305	H10	R1	L5700: saṃtrāsayatā *[?]	saṃtrāsayatā *[?]	saṃtrāsayatā *	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+305	H10	R1	L5700: s not settled [?]	s not settled [?]	s not settled	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+311	H10	R1	L5809: aḥ* separate, [?]	aḥ* separate, [?]	aḥ* separate,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+313	H10	R1	L5841: e it as read, [?]	e it as read, [?]	e it as read,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+317	H10	R1	L5934: ्यस्योपरि भौमा[?]	्यस्योपरि भौमा[?]	्यस्योपरि भौमा	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+317	H10	R1	L5936: syopari bhaumā[?]	syopari bhaumā[?]	syopari bhaumā	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+317	H10	R1	L5938: or* bhaumān*, [?]	or* bhaumān*, [?]	or* bhaumān*,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+324	H10	R1	L6069: " not certain [?]	" not certain [?]	" not certain	scan p. 324, 330 dpi: ಮು. ೬-೧-೧೭-೨; ೧೭ glyphs resemble ೬/೭, not certain	question	not certain
+333	H10	R1	L6214: a prapūraṇe*, [?]	a prapūraṇe*, [?]	a prapūraṇe*,	not a number: Sanskrit/Kannada reading or a translator remark; left	question	question (b)
+422	H10	R1	L7786: | u. sū. 2-60 [?]	| u. sū. 2-60 [?]	| u. sū. 2-60	scan p. 422, 330 dpi: ಉ. ?-೬೦; first digit smudged (೨/೩/೧), not certain	question	not certain
+422	H10	R1	L7788: 230 dpi only, [?]	230 dpi only, [?]	230 dpi only,	scan p. 422, 330 dpi: first digit of ?-೬೦ smudged; also reading note says p. 424 differs	question	not certain
+443	H10	R1	L8202: धा. १९-६३, ६२ [?]	धा. १९-६३, ६२ [?]	धा. १९-६३, ६२ [?]	scan p.443 330dpi: Dhā. ref ೧೯-೬೩,೬೨ last digits not certain (final digit looks like ೨ or ೭); not settled	question	scan p.443 330dpi: Dhā. ref ೧೯-೬೩,೬೨ last digits not certain
+443	H10	R1	L8204: dhā. 19-63, 62 [?]	dhā. 19-63, 62 [?]	dhā. 19-63, 62 [?]	same place as L8202; not certain	question	same place as L8202; not certain
+454	H10	R1	L8404: म. स्मृ. ३-७६ [?]	म. स्मृ. ३-७६ [?]	म. स्मृ. ३-७६ [?]	scan p.454 (not 453): ಮನು ೩-೭೬ small type; first digit and middle digit (7/2) not certain	question	scan p.454 (not 453): ಮನು ೩-೭೬ small type; first digit and m
+453	H10	R1	L8404: प्रत्यवरोहोऽपि [?]	प्रत्यवरोहोऽपि [?]	प्रत्यवरोहोऽपि [?]	Sanskrit word, not a number	question	Sanskrit word, not a number
+454	H10	R1	L8406: ma. smṛ. 3-76 [?]	ma. smṛ. 3-76 [?]	ma. smṛ. 3-76 [?]	same place as L8404; not certain	question	same place as L8404; not certain
+453	H10	R1	L8406: pratyavaroho 'pi [?]	pratyavaroho 'pi [?]	pratyavaroho 'pi [?]	Sanskrit word, not a number	question	Sanskrit word, not a number
+454	H10	R1	L8408: between 7 and 2: [?]	between 7 and 2: [?]	between 7 and 2: [?]	translator's reading note on Manu number; number not certain (see L8404)	question	translator's reading note on Manu number; number not certain
+454	H10	R1	L8408: ಪ್ರತ್ಯವರೋಹೇಽಪಿ": [?]	ಪ್ರತ್ಯವರೋಹೇಽಪಿ": [?]	ಪ್ರತ್ಯವರೋಹೇಽಪಿ": [?]	note on a Sanskrit word, not a number	question	note on a Sanskrit word, not a number
+474	H10	R1	L8666: nityam*, [?]	nityam*, [?]	nityam*, [?]	reading note on a Sanskrit word, not a number	question	reading note on a Sanskrit word, not a number
+476	H10	R1	L8714: as read, [?]]	as read, [?]]	as read, [?]]	note on Sanskrit verbs, not a number	question	note on Sanskrit verbs, not a number
+477	H10	R1	L8720: (as read [?])	(as read [?])	(as read [?])	note on a Sanskrit word, not a number	question	note on a Sanskrit word, not a number
+478	H10	R1	L8744: all marked [?].)	all marked [?].)	all marked [?].)	remark about unclear numerals in general, no single number	question	remark about unclear numerals in general, no single number
+479	H10	R1	L8778: prayaḥ*, [?]	prayaḥ*, [?]	prayaḥ*, [?]	reading note on a Sanskrit word, not a number	question	reading note on a Sanskrit word, not a number
+492	H10	R1	L8952: U. Sū. 4-179 [?]	U. Sū. 4-179 [?]	U. Sū. 4-179 [?]	scan p.492 330dpi: ಉ. ೪-೧೭೯ ; middle digit 7 vs 2 not certain, mark stays	question	scan p.492 330dpi: ಉ. ೪-೧೭೯ ; middle digit 7 vs 2 not certai
+498	H10	R1	L9008: p[?]ṣādidyutādi	p[?]ṣādidyutādi	p[?]ṣādidyutādi	Sanskrit syllable, not a number	question	Sanskrit syllable, not a number
+506	H10	R1	L9120: as printed, [?]	as printed, [?]	as printed, [?]	note on a Sanskrit word, not a number	question	note on a Sanskrit word, not a number
+524	H10	R1	L9376: अकारीत्यर्थः [?]	अकारीत्यर्थः [?]	अकारीत्यर्थः [?]	mark on Sanskrit word (ākāri), not a number	question	mark on Sanskrit word (ākāri), not a number
+524	H10	R1	L9378: akārīty arthaḥ [?]	akārīty arthaḥ [?]	akārīty arthaḥ [?]	mark on Sanskrit word, not a number	question	mark on Sanskrit word, not a number
+524	H10	R1	L9382: (*ākāri*) [?]	(*ākāri*) [?]	(*ākāri*) [?]	note on a Sanskrit word, not a number	question	note on a Sanskrit word, not a number
+529	H10	R1	L9474: are marked [?];	are marked [?];	are marked [?];	general remark about doubtful digits, no single number	question	general remark about doubtful digits, no single number
+572	H10	R1	L9934: *gārṣveya* [?] as re	*gārṣveya* [?] as read	*gārṣveya* [?] as read	gloss/word, not a number	question	gloss/word, not a number
+577	H10	R1	L9978: 10-73 [?]-1 and 2	10-73 [?]-1 and 2	10-73 [?]-1 and 2	number mark, but scan p.577 not examined (time); not settled	question	number mark, but scan p.577 not examined (time); not settled
