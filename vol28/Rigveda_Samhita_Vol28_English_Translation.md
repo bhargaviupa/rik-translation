@@ -21848,6 +21848,193 @@ In it the prayer is that Dawn and Night sit on the darbha seat not only with Agn
 नक्कोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते । श्यान्याग्नेयी हि कालस्य तस्यैवोषाः कलेव तु ॥ (*nakkoṣāsau ca ye devyāvāgneyyāveva te smṛte | śyānyāgneyī hi kālasya tasyaivoṣāḥ kaleva tu ‖*) (Bṛ. De. 3-8)
 Both deities, Dawn and Night, are well known to be connected with Agni. Of these, त्यावि (*tyāvi*) (the night-deity, 1-71-1) has a close relation with Agni, and
 
+### Printed p. 628
+The Nirukta sentence उषः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣaḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (Ni. 2-18) shows that Uṣas is the latter part of that night.
+
+तम उच्छत्युषा नक्तानक्तीमां हिमबिंदुभिः । अपि वाव्यक्तवर्णेति नइद् पूर्वांचीरिदं भवेत् ॥ (*tama ucchatyuṣā naktānaktīmāṃ himabiṃdubhiḥ | api vāvyaktavarṇeti naid pūrvāṃcīridaṃ bhavet ‖*) (Bṛ. De. 3-9)
+
+Of these two, Uṣas drives away the darkness. Night makes everything wet and pervaded with drops of dew. Or else, because she has no distinct colour, the root अञ्ज्न् (*añjn*) joins with the word नञ् (*nañ*) and gives the sense "of indistinct colour".
+
+सा हि दोषा भवत्यादौ निशीथे सा तमस्वती । नाम्ना भवत्युषाश्चैव सैषा प्रागुदयाद्रवेः ॥ (*sā hi doṣā bhavatyādau niśīthe sā tamasvatī | nāmnā bhavatyuṣāścaiva saiṣā prāgudayādraveḥ ‖*) (Bṛ. De. 3-10)
+
+At the beginning this goddess is called Doṣā, at midnight Tamasvatī, and before sunrise Uṣas. Doṣā, Tamasvatī, Śyāvī and Naktā are all read in the Nighaṇṭu as names of night. (Nighaṇṭu 1-7)
+
+Elsewhere in the Ṛksaṃhitā, with epithets such as तंतुं ततं संवयंती (*taṃtuṃ tataṃ saṃvayaṃtī*) (Ṛ. Saṃ. 2-3-6), the help of Uṣāsānaktā in extending the sacrifice is described.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो ग्रावा॑ बृ॒हद॒ग्निः समि॑द्धः प्रि॒या धामा॒न्यदि॑तेरु॒पस्थे॑ ।  
+> पु॒रोहि॑तावृत्विजा य॒ज्ञे अ॒स्मिन् वि॒दुष्ट॑रा॒ द्रवि॑ण॒मा  ॑
+> यजेथां ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । ग्रावा । बृहत् । अग्निः । संइद्धः । प्रिया । धामानि । अदितेः । उपस्थे ।  
+> पुरःहिता । ऋत्विजा । यज्ञे । अस्मिन् । विदुःतरा । द्रविणं । आ । यजेथां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रावा सोमाभिषवाय यदोर्ध्व उन्नतो भवति यदा च बृहन्महानग्निः
+> समिद्धो हविर्भिः सम्यग्दीपो भवति । तथा प्रियाणि देवानां सोमादिहविष्पदा-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: when the pressing-stone is raised up for pressing the Soma, and when the great Agni is well kindled by the oblations, and when the vessels that hold the oblations, dear to the gods because they are made to hold Soma and other offerings, are set down on the lap of Aditi, the earth, that is, in the sacrificial place — then, O two priests, divine, set in front (the two hotṛs), most learned (he notes a Vedic vowel-change in विदुष्टरा (*viduṣṭarā*))...
+
+### Printed p. 629
+
+> नेन प्रीणयित्यणि धामानि हविषां धारकाणि यज्ञपात्राण्यदितेः पृथिव्या उपस्थे
+> यज्ञसदने यदासादितानि भवंति तदानीं हे ऋत्विजौ देव्यौ पुरोहितौ होतार्
+> पुरतो निहितौ विदुष्टरा ॥ छांदसं संप्रसारणं ॥ विद्वत्तमौ युवामस्मिन्यज्ञे
+> द्रविणं धनमा यजेथां । यजिर्दानार्थः । अस्मभ्यमाभिमुख्येन प्रयच्छृतं ॥
+> ग्रावा—सोमवन्नु हिंडुव कल्लुगळु । ऊर्ध्वः—यावाग मेल्मुखवागुवुवो आग ।
+> बृहत्—महत्स्वरूपवुळ्ळ । अग्निः—अग्नियु । समिद्धः—प्रज्वलितनागुत्तानॆ । प्रिया—
+> देवतॆगळिगॆ प्रीतिकरवाद । धामानि—हविस्सन्नु हॊंदिरुव पात्रॆगळु । अदितेः—पृथ्विय ।
+> उपस्थे—यज्ञ स्थानदल्लि सिद्धवागुत्तवॆ (आ कूडले) । ऋत्विजा—ऋत्विग्रूपरू । पुरोहिता—
+> होतृरूपरू । विदुष्टरा—विद्यावतियरू आद ऎलै देवतॆगळे । (युवां—नीवु) । अस्मिन्
+> यज्ञे—ई यज्ञदल्लि । द्रविणं—धनवन्नु । आ यजेथां—कॊडुत्तीरि.
+
+##### Gist of the bhāṣya
+
+...in this sacrifice bestow wealth. The root यजि (*yaji*) has the sense of giving: "give it to us, turned towards us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावा (*grāvā*)—the stones that press the Soma
+- ऊर्ध्वः (*ūrdhvaḥ*)—when they are turned upward, then
+- बृहत् (*bṛhat*)—of great form
+- अग्निः (*agniḥ*)—Agni
+- समिद्धः (*samiddhaḥ*)—becomes kindled
+- प्रिया (*priyā*)—pleasing to the gods
+- धामानि (*dhāmāni*)—the vessels holding the oblation
+- अदितेः (*aditeḥ*)—of the earth
+- उपस्थे (*upasthe*)—in the sacrificial place they are made ready (at once)
+- ऋत्विजा (*ṛtvijā*)—who are of the nature of priests
+- पुरोहिता (*purohitā*)—who are of the nature of hotṛs
+- विदुष्टरा (*viduṣṭarā*)—who are most learned, O gods
+- युवां (*yuvāṃ*)—you
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- द्रविणं (*draviṇaṃ*)—wealth
+- आ यजेथां (*ā yajethāṃ*)—you give
+
+##### भावार्थ (Bhāvārtha)
+
+When the stones that press the Soma are turned upward, the mighty Agni is kindled. The vessels, pleasing to the gods and holding the oblation, are made ready in the sacrificial place. Immediately then, O gods who are priests, hotṛs and learned ones, you give wealth in this sacrifice.
+
+##### English translation
+(When) the grinding-stone is uplifted, the mighty Agni kindled, the acceptable vessels (ready) on the lap of earth ; (then), most learned priests, who take the foremost place, bestow wealth upon us at tkis sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+देवसंबंधिनौ होतारौ । अयं च मध्यमस्थानश्च (*devasaṃbaṃdhinau hotārau | ayaṃ ca madhyamasthānaśca*) — Sāyaṇa has explained the two as the two forms of Agni, the terrestrial Agni and the Agni of the atmosphere, both related to the gods and both hotṛs. Some modern scholars give different meanings and differ among themselves. Gelder takes them as the sacrificer-hotṛ and his fire; Haug as the hotṛ and the adhvaryu; Oldenberg as the hotṛ and his assistant the Maitrāvaruṇa. None of these is acceptable.
+
+That the chief duty of these hotṛs is to perform the sacrifice is stated in the Ṛks 1-13-8 and 1-18-7 as यज्ञं नो यक्षतामिमं । (*yajñaṃ no yakṣatāmimaṃ |*), and in Ṛk 2-3-2 as देवान्यजंतावृतुथा । (*devānyajaṃtāvṛtuthā |*)
+
+### Printed p. 630
+This statement of duty applies to the human hotṛ, and the address to Agni is figurative.
+
+Yāska's explanation of the word दैन्व्या होतारा (*dainvyā hotārā*) is: दैन्व्याहोतारा दैन्व्याहोतारावयं चाग्निरसौ च मध्यमः ॥ (*dainvyāhotārā dainvyāhotārāvayaṃ cāgnirasau ca madhyamaḥ ‖*) (Ni. 8-12). That is, this word indicates Agni; since Agni invokes the gods, Agni stands between gods and men; he gave an example in this matter:
+
+दैन्व्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै । प्रचोदयंता विधथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता ॥ (*dainvyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai | pracodayaṃtā vidhatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā ‖*) (Ṛ. Saṃ. 10-110-7)
+
+Durgācārya's commentary on it is:
+यावेत् दैन्यौ होतारौ । देवेषु भवौ दैन्यौ देवावेव दैव्यौ । स्वार्थे एव तद्धितः । मनुष्यहोतारौ अपेक्ष्य । दैन्यौ होतारौ होतृमैत्रावरुणौ इति विशेषणं । होतारा होतारौ आह्वातारौ देवानां वाय्वग्नी । प्रथमा प्रथमौ मुख्यौ मनुष्यहोतारावपेक्ष्य । सुवाचा सुवाचौ, प्रशस्तवाचौ, सुस्तुता । मिनीना यज्ञं यज्ञनिर्मातारौ नित्यं । मनुष्यः मनुष्यस्य यजध्यै यजनाम । प्रयोदयंता प्रचोदयमानौ । विदथेषु यज्ञेषु । कारू कर्तारौ । इत्यादि ॥ (*yāvet dainyau hotārau | deveṣu bhavau dainyau devāveva daivyau | svārthe eva taddhitaḥ | manuṣyahotārau apekṣya | dainyau hotārau hotṛmaitrāvaruṇau iti viśeṣaṇaṃ | hotārā hotārau āhvātārau devānāṃ vāyvagnī | prathamā prathamau mukhyau manuṣyahotārāvapekṣya | suvācā suvācau, praśastavācau, sustutā | minīnā yajñaṃ yajñanirmātārau nityaṃ | manuṣyaḥ manuṣyasya yajadhyai yajanāma | prayodayaṃtā pracodayamānau | vidatheṣu yajñeṣu | kārū kartārau | ityādi ‖*)
+
+Its main sense is this: for the gods, Agni and Vāyu are the hotṛs; for men, the priests called Hotṛ and Maitrāvaruṇa are the hotṛs. Since Agni, or Agni and Vāyu, stand between gods and men and connect them, Agni is also said to be the middle one.
+
+The name of the deities दैव्या होतारौ (*daivyā hotārau*) occurs not only in the Āprī hymns but also in these two Ṛks:
+
+त्वष्टारं वायुमृभवो य ओहते दैव्या होतारा उषसं स्वस्तये । (*tvaṣṭāraṃ vāyumṛbhavo ya ohate daivyā hotārā uṣasaṃ svastaye |*) (Ṛ. Saṃ. 10-65-10)
+
+दैन्व्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया । (*dainvyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā |*) (Ṛ. Saṃ. 10-66 13)
+
+In Ṛ. Saṃ. 7-2.7 they are called जादवेदसा (*jādavedasā*) and in Ṛ. Saṃ. 10-30-7 पुरोहितौ (*purohitau*). And since the words in the Ṛks above — मिमाना यज्ञं मनुषो यजध्यै (*mimānā yajñaṃ manuṣo yajadhyai*), यज्ञेषु मानुषेषु कारू (*yajñeṣu mānuṣeṣu kārū*) and प्रचोदयंता विदथेषु कारू (*pracodayaṃtā vidatheṣu kārū*) — say that these deities carry out the sacrifices made by men, it is natural that they are called purohitas.
+
+### Printed p. 631
+Among the gods the hotṛs are Agni and Vāyu; among men the Hotṛ and his assistant priest Maitrāvaruṇa are called the hotṛs. This Maitrāvaruṇa, by the Praiṣa mantras, commands the other priests to do their respective duties. In the Yajurveda (Tai. Saṃ. 6.1.4 2) it is said: मैत्रावरुणो हि पुरस्तादृत्विग्यो वाचं विभजति (*maitrāvaruṇo hi purastādṛtvigyo vācaṃ vibhajati*).
+
+Thus some epithets are common to the two hotṛs and yet indicate the duty of the human hotṛ; others, also common to both, describe the duties of Agni, the divine hotṛ. For example:
+
+दैव्या होतारा प्रथमान्यृंजे सप्त पृक्षासः स्वधया मदंति । ऋतं शंसंत ऋतमित्त आहुरनु व्रतं व्रतपा दीध्यानाः । (*daivyā hotārā prathamānyṛṃje sapta pṛkṣāsaḥ svadhayā madaṃti | ṛtaṃ śaṃsaṃta ṛtamitta āhuranu vrataṃ vratapā dīdhyānāḥ |*) (Ṛ. Saṃ. 3-4-7)
+
+In this Ṛk there is no doubt that the epithet प्रथमा (*prathamā*) refers to Agni, the divine hotṛ. In 1-13-4 होता मनुर्हितः (*hotā manurhitaḥ*) is an epithet of Agni. The exact difference between the two hotṛs is stated in the Praiṣa hymn thus:
+
+होतायक्षद्दैव्या होतारा मंद्रा पोतारा कवी प्रचेतसा । स्विष्टमद्यान्यः करदिषा स्वभिगूर्तमन्य ऊर्जा सतवसेमं यज्ञं दिवि देवेषु धत्तां वीतामाज्यस्य होतर्यज ॥ (*hotāyakṣaddaivyā hotārā maṃdrā potārā kavī pracetasā | sviṣṭamadyānyaḥ karadiṣā svabhigūrtamanya ūrjā satavasemaṃ yajñaṃ divi deveṣu dhattāṃ vītāmājyasya hotaryaja ‖*) (Tai. Brā. 3-6-2-2)
+
+In this passage one hotṛ is asked to make the sacrifice acceptable with the oblation that is food, and the other to establish this sacrifice in heaven among the gods. This division of work shows the difference between the human hotṛ and Agni, the divine hotṛ.
+
+In the Aitareya Brāhmaṇa:
+दैव्या होतारा यजति प्राणापानौ वै दैव्या होतारा प्राणापानावेव तत्प्रीणाति प्राणापानौ यजमाने थदाति ॥ (*daivyā hotārā yajati prāṇāpānau vai daivyā hotārā prāṇāpānāveva tatprīṇāti prāṇāpānau yajamāne thadāti ‖*) (Ai. Brā. 2-4)
+Thus it states the identity of these hotṛs with prāṇa and apāna, and says that whoever recites this mantra secures for the sacrificer a good state of prāṇa and apāna. In the Nirukta, दैव्या होतारा दैव्यौ होतारावयं चाग्निरसौ च मध्यमः । (*daivyā hotārā daivyau hotārāvayaṃ cāgnirasau ca madhyamaḥ |*) — with these supporting passages for Sāyaṇa's meaning — they are said to be the terrestrial Agni and the Agni of the atmosphere. The Bṛhaddevatā, too, approving the same view,
+
+### Printed p. 632
+दैव्याविति तु होतारावग्नी पार्थिवमध्यम् । दिव्यादग्नेर्हि जज्ञाते दैव्यौ तेनेह जन्मना ॥ (*daivyāviti tu hotārāvagnī pārthivamadhyam | divyādagnerhi jajñāte daivyau teneha janmanā ‖*) (Bṛ. De. 3-11)
+says that the two hotṛs are the Agnis of the terrestrial and middle (atmospheric) station.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तिस्रो॑ देवीर्ब॒हिरि॒दं वरी॑य॒ आ सी॑दत चक्र॒मा वः॑ स्यो॒नं ।  
+> म॒नु॒ष्वद्य॒ज्ञं सुधि॑ता ह॒वींषीळा॑ दे॒वी घृ॒तप॑दी जुषंत ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिस्रः । देवीः । बर्हिः । इदं । वरीयः । आ । सीदत । चक्रम । वः । स्योनं ।  
+> मनुष्वत् । यज्ञं । सुधिता । हवींषि । इळा । देवी । धृतपदी । जुषंत ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तिस्रो देवीरिळाद्यास्तिस्रो देव्यः वरीय उरुतरमिदं बर्हिरा सीदत ॥
+> कालाध्वनोरिति द्वितीया ॥ अत्यंतं तस्मिन्निषीदत । कुत एतत् तत्राह। वो युष्मदर्थं
+> स्योनं विस्तीर्णमिदं चकृम । वयं कृतवंतः ॥ वाक्यभेदादनिघातः ॥ इळ्ळैतन्नामिका
+> देवी द्योतमाना सरस्वती धृतपदी दीप्तपदोपेता भारती चैता मनुष्टन्मनोर्यज्ञे यथा हवींष्यसेवंत तद्वदस्मदीयं यज्ञं सुधिता सुष्टु निहितानि हवींषि
+> च जुषंत । सेवतां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O three goddesses, Iḷā and the others, sit on this very broad barhis (the accusative is used in the sense of duration, "sit on it continuously"). Why? Because we have made it spread wide and comfortable for you. The accent is not lowered because the sentences are separate. The goddess named Iḷā, the shining Sarasvatī, and Bhāratī with shining feet — as they enjoyed the oblations in Manu's sacrifice, so let them enjoy our sacrifice and the well-placed oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिस्रः देवीः (*tisraḥ devīḥ*)—O three goddesses, Iḷā and the others
+- वरीयः (*varīyaḥ*)—very wide
+- इदं बर्हिः (*idaṃ barhiḥ*)—on this seat of darbha grass
+- आ सीदत (*ā sīdata*)—sit down
+- वः (*vaḥ*)—for you
+- स्योनं चक्रम (*syonaṃ cakrama*)—we have spread this seat widely
+- इळा (*iḷā*)—the goddess Iḷā
+- देवी (*devī*)—the shining Sarasvatī
+- धृतपदी (*dhṛtapadī*)—Bhāratī with shining feet
+- मनुष्वत् (*manuṣvat*)—as accepted in Manu's sacrifice
+- यज्ञं (*yajñaṃ*)—in our sacrifice
+- सुधिता (*sudhitā*)—well placed
+- हवींषि (*havīṃṣi*)—the oblations
+- जुषंत (*juṣaṃta*)—let them enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O goddesses, Iḷā and the others, sit on this very broad seat of darbha grass. We have spread this seat widely for you. Let the goddess Iḷā, the shining Sarasvatī and Bhāratī with radiant feet enjoy the well-placed oblations in this sacrifice of ours, as they were accepted in Manu's sacrifice.
+
+### Printed p. 633
+
+##### English translation
+Sit down, you three goddesses; upon this broad barhis, we have spread it out for you ; Ila, radiant (Saraswati) and bright-footed (Bharati) accept our sacrificee and well-presented oblations as if they were Manu's.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk a group of three goddesses is addressed and prayed to come to the sacrifice. In all the Āprī hymns except the present one and hymn 1-142, these goddesses are together indicated collectively as तिस्रो देवीः (*tisro devīḥ*). The three are Iḷā, Sarasvatī and Bhāratī. There is much difference of opinion about the nature of these deities. In 1-142 the goddess Bhāratī has the epithets होत्रा (*hotrā*), शुचिः (*śuciḥ*) (मरुत्सु (*marutsu*), देवेषु (*deveṣu*)), अर्पिता (*arpitā*), and the goddess Sarasvatī the epithet मही (*mahī*). In some hymns the word मही (*mahī*) is an epithet used as a substitute for the goddess Bhāratī. Whether the nature of these deities can be ascertained exactly here may be examined with Śruti and similar passages as authority.
+
+On तिस्रो देवीः (*tisro devīḥ*) Yāska says only तिस्रो देवीः । तिस्रो देवीस्तिस्रो देव्यः । (*tisro devīḥ | tisro devīstisro devyaḥ |*) and then explains the Ṛk given as example:
+
+आ नो यज्ञं भारती तेयमेत्विळा मनुष्पदिह चेतयंती । तिस्रो देवीर्बर्हिरेदं स्कोनं सरस्वती स्वपसः सदंतु ॥ (*ā no yajñaṃ bhāratī teyametviḷā manuṣpadiha cetayaṃtī | tisro devīrbarhiredaṃ skonaṃ sarasvatī svapasaḥ sadaṃtu ‖*) (Ṛ. Saṃ. 10-110-8)
+
+ऐतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्यदिह चेतयमाना तिस्रो देव्यो जर्हिरिदं सुखं सरस्वती च सुकर्माण आसीदंतु ॥ (*aitu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣyadiha cetayamānā tisro devyo jarhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa āsīdaṃtu ‖*)
+
+That is: Bhāratī — Bharata is one of the twelve Ādityas. The radiance of the Āditya is called भा (*bhā*). Therefore Bhāratī is the light of the sun, or the Agni present as light in the solar orb. Iḷā — Iḷā is the earth. मनुष्यत् चेतयंती (*manuṣyat cetayaṃtī*) — having the power to impel like men; that is, because she gives food and wealth to men on earth, Iḷā is a particular form of Agni in the earth's station. Sarasvatī — because she is the presiding deity of the thunder and lightning in the atmosphere, Sarasvatī is also said to be a form of Agni in the atmospheric station.
+
 ---
 
-**Progress note:** Done through printed p. 627. pp. 622-627 (batch API)
+**Progress note:** Done through printed p. 633. pp. 628-633 (batch API)
