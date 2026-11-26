@@ -33676,6 +33676,269 @@ The sūkta beginning अस्मिन्न (*asminna*) is the ninth sūkta, o
 
 Anuvāda: This sūkta, अस्मिन्नः (*asminnaḥ*), is the ninth sūkta in the third anuvāka. It has five ṛks. The seer of this sūkta is Indra, distinguished as Mukhya **NOTE**; the deity is Indra; the metre is jagatī. In the Anukramaṇī, अस्मिन्नः पंच मुष्कवानिंद्रः (*asminnaḥ paṃca muṣkavāniṃdraḥ*), it is stated
 
+### Printed p. 924
+
+The application has been stated earlier. Some other Sāmagas, followers of the Tāṇḍya-brāhmaṇa and the Śāṭyāyana-brāhmaṇa, say that for this sūkta the deity is Indra distinguished by Muṣka, and that the seer is Luśa.
+
+- Sūkta 38
+- Maṇḍala 10, Anuvāka 3, Sūkta 38
+- Aṣṭaka 7, Adhyāya 8, Varga 14
+- Number of ṛks in the sūkta: 5
+- Ṛṣi: Indra Muṣkavān
+- Devatā: Indra
+- Chandas: Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मिन्न॑ इंद्र पृत्सु॒तौ यश॑स्वति॒ शिमी॑ावति॒ क्रंद॑सि॒ प्राव॑ सा॒तये॑ ।  
+> यत्र॒ गोषा॑ता धृषि॒तेषु॑ खा॒दिषु॒ विश्व॒क्षतं॑ति दि॒द्यवो॑  ॒॑
+> नृषाह्ये ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मिन् । नः । इंद्र । पृत्सुत् । यशस्वति । शिमीावति । क्रंदसि । प्र । अव । सातये ।  
+> यत्र । गोऽसाता । धृषितेषु । खादिषु । विश्वक् । पतंति । दिद्यवः । नृसह्ये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यशस्वति कीर्तिमति शमीवति परस्परप्रहारलक्षणकर्मवत्यस्मिन्नुपस्थिते पृत्सुत् संग्रामे क्रंदसि । सिंहनादं करोषि । सातये धनलाभाय प्राव
+> नोऽस्मान्ररक्षसि च । कस्मिन्नित्यत्राह । यत्र यस्मिन्नोषाता गोसात् लब्धपशुके
+> नृषाह्ये नृणामभिभावुके च संग्रामे खादिषु परस्परखादकेषु च योद्धृषु
+> धृषितेषु दृढेषु सत्तु दिद्यव आयुधानि विश्वक् सर्वतः पतंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in this present battle, which is glorious, that is, famed, and shamīvat, that is, marked by the action of striking one another, you roar, that is, utter a lion's roar; and you protect us for the winning of wealth. In what battle? He says: in which, being goṣātā, that is, with cattle won, and nṛṣāhya, that is, overpowering men, and among warriors who devour one another, being firm, the shining ones, that is, the weapons, fall on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- गोषाता (*goṣātā*)—in which cows are obtained
+- नृषाह्ये (*nṛṣāhye*)—in which enemies are overcome
+- यत्र (*yatra*)—in which battle
+- खादिषु (*khādiṣu*)—warriors who destroy one another
+### Printed p. 925
+- धृषितेषु (*dhṛṣiteṣu*)—when they begin to fight
+- दिद्यवः (*didyavaḥ*)—shining weapons
+- विष्वक् (*viṣvak*)—in all regions
+- पतंति (*pataṃti*)—fall; in such
+- यशस्वति (*yaśasvati*)—glorious
+- शिमीवति (*śimīvati*)—having the action of striking one another
+- अस्मिन् पृत्सुता (*asmin pṛtsutā*)—in this battle
+- क्रंदसि (*kraṃdasi*)—you utter a lion's roar
+- सातये (*sātaye*)—for the gain of wealth for us
+- नः (*naḥ*)—us
+- प्राव (*prāva*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in which battle, where cows are obtained and enemies are overcome, shining weapons fall in all regions when the warriors who destroy one another begin to fight: in this glorious battle, full of the action of striking one another, you utter a lion's roar. Protect us for the gain of wealth for us.
+
+##### English translation
+You shout, Indra, in this glorious and arduous conflict, and assist us to the acquirement (of spoil), in this battle where cows are won and men overpowered, wherein the weapons descend on every side upon the fierce and courrgeous combatants.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ क्षु॒मंतं॒ सद॑ने॒ व्यो॑र्णुहि॒ गोअ॑र्णसं र॒यिमिं॑द्र  ॒॑
+> श्रवाय्यं ।  
+> स्याम॑ ते॒ जय॑तः शक्र मे॒दिनो॒ यथा॑ व॒यमु॒श्मसि॒ तद्व॑सो  
+> कृधि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । क्षुमंतं । सदने । वि । ऊर्णुहि । गोअर्णसं । रयिं । इंद्र ।  
+> श्रवाय्यं ।  
+> स्याम । ते । जयतः । शक्र । मेदिनः । यथा । वयं । उश्मशि । तत् । वसो इति ।  
+> कृधि ॥ २ ॥
+
+### Printed p. 926
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स सर्वानुग्राहकत्वेन प्रसिद्धस्त्वं नोऽस्माकं सदने गृहे क्षुमंतमन्नवंतं शब्दवंतं वा गोअर्णसं । गावोऽर्ण उदकमिव प्रवृद्धा यस्मिन् ।
+> तं श्रवाय्यं श्रवणीयं रयिं धनं व्यूर्णुहि । विविधमाच्छादय । किंच हे वसो
+> वासक शक्रेंद्र जयतः शत्रुं ते तव प्रसादाद्वयं मेदिनो मेदसा युक्ता
+> बलवंतः स्याम । भवेम । किं बहूक्त्या । यथा यद्वयमुश्मसि कामायामहे
+> तत्सर्वं कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, famed as the one who favours all, fill up in our house, in various ways, wealth that is rich in food, or sounding, goarṇasa, that is, in which cattle have grown abundant like water in a sea, and that is worthy of being heard. Further, O Vasu, giver of dwelling, O Śakra Indra, through your favour we, victorious over the enemy, may be endowed with strength, mighty. What need of many words: do, that is, make, all that which we desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—you, the famed one
+- नः (*naḥ*)—our
+- सदने (*sadane*)—in the house
+- क्षुमंतं (*kṣumaṃtaṃ*)—that which is rich in food
+- गोआर्णसं (*goārṇasaṃ*)—that which has well-nourished cattle
+- श्रवाय्यं (*śravāyyaṃ*)—that which is famed
+- रयिं (*rayiṃ*)—wealth
+- व्यूर्णुहि (*vyūrṇuhi*)—fill in many ways
+- वसो (*vaso*)—O giver of dwelling
+- शक्र (*śakra*)—O Indra
+- जयतः (*jayataḥ*)—who conquer enemies
+- ते (*te*)—by your favour
+- मेदिनः (*medinaḥ*)—endowed with strength
+- स्याम (*syāma*)—may we become
+- यथा (*yathā*)—what
+- वयं (*vayaṃ*)—we
+- उश्मसि (*uśmasi*)—desire
+- तत् (*tat*)—all that
+- कृधि (*kṛdhi*)—provide for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the famed one, fill in our house in many forms wealth that is rich in food, has well-nourished cattle, and is famed. By your favour, you who destroy enemies, may we become endowed with strength. Provide for us all that we desire.
+
+##### English translation
+Do you, Indra, heap up in our dwelling famous riches, comprising food and herds of cottle: may we, Shakra, be vigorous (through the favour) of you, the victorious : grant us, Vasu, that which we desire.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॒ दास॒ आर्यो॑ वा पुरुष्टु॒तादे॑व इंद्र यु॒धये॒  ॑
+> चिकेतति ।  
+> अ॒स्माभि॑ष्टे सु॒षहाः॑ संतु॒ शत्र॑व॒स्त्वया॑ व॒यं तान्व॑नुयाम  ॒
+> संगमे ॥ ३ ॥
+
+### Printed p. 927
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । दासः । आर्यः । वा । पुरुस्तुत । अदेवः । इंद्र । युधये । चिकेतति ।  
+> आस्माभिः । ते । सुसहाः । संतु । शत्रवः । त्वया । वयं । तान् । वनुयाम ॥  
+> संगमे !!
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुस्तुतेंद्र यो दासः कर्मकरः शूद्र आर्यस्त्रैवर्णिकोऽदेवो देवादन्योऽसुरो वा नोऽस्मान्युधये युद्धाय चिकेतति जानाति ते
+> सर्वॆ शत्रवोऽस्मदरयस्ते तव प्रसादादस्माभिः सुसहाः स्वभिभवाः संतु । भवंतु ।
+> किं च वयं त्वया सहायेन ताञ्यत्रून्संगमे संग्रामे वनुयाम । हन्याम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many: whoever, a dāsa, that is, a servant, a Śūdra, or an ārya, that is, one of the three upper classes, or an adeva, that is, one other than the gods, or an Asura, knows us as fit for battle, that is, challenges us to battle: may all those enemies of ours, through your favour, be easily overcome by us. Further, with you as helper may we slay those enemies in the battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O you who are worthy of the invocation of many
+- इंद्र (*iṃdra*)—O Indra
+- दासः (*dāsaḥ*)—whether of the group of servants
+- आर्यः (*āryaḥ*)—or of the higher class
+- यः (*yaḥ*)—whoever
+- अदेवः (*adevaḥ*)—without worship of the gods
+- नः (*naḥ*)—us
+- युधये (*yudhaye*)—as fit for battle
+- चिकेतति (*ciketati*)—will know
+- शत्रवः (*śatravaḥ*)—all those enemies of ours
+- ते (*te*)—by your favour
+- आस्माभिः (*āsmābhiḥ*)—by us
+- सुसहाः (*susahāḥ*)—easily overcome
+- संतु (*saṃtu*)—let them be
+- वयं (*vayaṃ*)—we
+- त्वया (*tvayā*)—with your help
+- तान् (*tān*)—all of them
+- संगमे (*saṃgame*)—in battle
+- वनुयाम (*vanuyāma*)—may we kill
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the invocation of many, whether among the black people **NOTE** or among the group of six, whoever, without worship of the gods, calls us to battle: may all those enemies of ours, by your favour, be easily overcome by us. May we, with your help, kill all of them in battle.
+
+##### English translation
+Indra, the praised of many, may he who proposes to assail us, whether he be a Dasa, an Arya, or an enemy of the gods; through your aid may all (such) foes be easily overcome by us; through you may we des roy them in battle.
+
+### Printed p. 928
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो द॒भ्रेभि॒र्हव्यो॒ यश्च॒ भूरि॑भि॒र्यो अ॒भीके॑ वरिवो॒विन्नृ॒षाह्ये॑ ।  
+> तं वि॑खा॒दे सस्नि॑म॒ध्य श्रु॒तं नर॑म॒र्वांच॒मिंद्र॒मव॑से करामहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । दभ्रेभिः । हव्यः । यः । च । भूरिभिः । यः । अभीके । वरिवःवित् । नृसह्ये ।  
+> तं । विखादे । सस्निं । अद्य । श्रुतं । नरं । अर्पांचं । इंद्रं । अवसे । करामहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृसह्ये नृणामभिभावुके विखादे विशेषण भक्षकेऽभीके संग्रामे वरिपोविद्दनस्य लंभको य इंद्रो दभ्रेभिः स्वल्पैर्हव्यो ह्वातव्यो यश्च भूरिभिर्बहु.
+> भिर्हव्यः तं सस्निं शुचिं श्रुतं सर्वत्र विख्यातं नरं नेतारमिंद्रमद्यास्मिन्नहन्यवसेऽस्मद्रक्षणायार्वांचमस्मदभिमुखं करामहे । कुर्मः ॥
+
+##### Gist of the bhāṣya
+
+Indra is the winner of wealth in the battle that overpowers men and is marked by devouring one another; he is to be invoked by few and he is to be invoked by many. Him, the pure one, renowned everywhere, the leader, Indra, we make, today, on this day, turned towards us, for our protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरिवोवित् (*varivovit*)—winner of wealth
+- यः (*yaḥ*)—whichever Indra
+- दभ्रेभिः (*dabhrebhiḥ*)—by few people
+- हव्यः (*havyaḥ*)—is invoked
+- यश्च (*yaśca*)—and who
+- भूरिभिः (*bhūribhiḥ*)—by many people
+- हव्यः (*havyaḥ*)—is invoked
+- तं (*taṃ*)—such
+- सस्निं (*sasniṃ*)—pure
+- श्रुतं (*śrutaṃ*)—renowned
+- नरं (*naraṃ*)—leader
+- इंद्रं (*iṃdraṃ*)—Indra
+- अद्य (*adya*)—today
+- नृसह्ये (*nṛsahye*)—that which overcomes enemies
+- विखादे (*vikhāde*)—that which destroys one another
+- अभीके (*abhīke*)—in the battle
+- अवसे (*avase*)—for our protection
+- अर्वांचं (*arvāṃcaṃ*)—so as to face us
+- करामहे (*karāmahe*)—we make
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the winner of wealth, who is invoked by all people: that pure, renowned leader, Indra, we make today face us, for our protection, in the battle that overcomes enemies and in which they strike one another.
+
+### Printed p. 929
+
+##### English translation
+Let us bring before us to day for our protection that Indra, the pure, the renowned, the leader of rites, who in the man-destroying, all-devouring conflict, is the winner of wealth ; who is to be invoked by few and by many,
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒वृजं॒ हि त्वाम॒हमिं॑द्र शु॒श्रवा॑नानु॒दं वृ॑षभ रध्र॒चोद॑नं ।  
+> प्र मुं॑चस्व॒ परि॒ कुत्सा॑दि॒हा ग॑हि॒ किमु॒ त्वावा॑न्मु॒षयो॑र्ब॒द्ध  ॑
+> आसते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्ववृजं । हि । त्वां । अहं । इंद्र । शुश्रव । अननुदं । वृषभ । रध्रचोदनं !  
+> प्र । मुंचस्व । परि । कुत्सात् । इह । आ । गहि । किं । ऊं इति । त्वावान् ।  
+> मुष्कयोः । बद्धः । आसते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषभ कामानां वर्षकेंद्र स्ववृजं स्वयमेव च्येत्तारमननुदमनपेक्षितबलानुप्रदानं रध्रचोदनं राधकस्य चोदकं प्रेरकं त्वामहं लुशः शुश्रव
+> अश्शौषं हि यस्मात्तस्मात्प मुंचस्व । कुत्सेन वार्ध्रिशतेनांडयोर्बद्धमात्मानं
+> बंधनाद्वियुंच । अथ परि सर्वतः परिवृतस्त्वं कुत्सात्कुत्साख्यादृषेरिहास्मद्याग आ
+> गहि । आगच्छ । किमु त्वावांस्त्वत्सदृशोऽन्यः कश्चिन्मुष्कयोर्बद्ध आसते । न कोऽप्येतादृशो निर्लज्जस्त्वत्तोऽन्नोऽस्तीत्यभिप्रायः । तत्र शाट्यायनकं । कुत्सश्चलुशश्चेंद्रं व्यह्वयेतां स कुत्सस्याहवमागच्छत् तं शतेन वार्धिभिरांडयोरबध्नात्
+> तं लुशोऽभ्यवदत् स्ववृजं हि त्वामहमिंद्र शुश्रुवानानुदं वृषभ रध्रचोदनं
+> प्र मुंचस्व परि कुत्सादिहा गहि किमु त्वावान्मुष्कयोर्बद्ध आसत इति ताः सर्वाः
+> संलुप्य लुशमभि प्रादुद्रुवदिति । छंदोगब्राह्मणमपि । कुत्सश्च लुशश्च युगप-
+> xxvii 59
+> xxvii 59
+
+##### Gist of the bhāṣya
+
+O Bull, showerer of desires, Indra: I, Luśa, have heard of you, svavṛja, that is, one who himself cuts **NOTE**, giver of strength unasked, anānuda, and urger, that is, impeller, of the worshipper, radhracodana. Since I have heard it, release me, bound by Kutsa at the testicles with a hundred leather straps, from the bondage. Then come here to us, from the seer called Kutsa, surrounded on every side. Is any other, like you, bound at the testicles? No one is so shameless as this; this is the intention. On this the Śāṭyāyanaka says: Kutsa and Luśa invoked Indra; he came to the invocation of Kutsa; Kutsa bound him at the testicles with a hundred straps; Luśa addressed him: स्ववृजं हि त्वामहमिंद्र शुश्रुवानानुदं वृषभ रध्रचोदनं प्र मुंचस्व परि कुत्सादिहा गहि किमु त्वावान्मुष्कयोर्बद्ध आसत इति (*svavṛjaṃ hi tvāmahamiṃdra śuśruvānānudaṃ vṛṣabha radhracodanaṃ pra muṃcasva pari kutsādihā gahi kimu tvāvānmuṣkayorbaddha āsata iti*); having cut all those off, he ran towards Luśa. The Chāndogabrāhmaṇa also says: Kutsa and Luśa together **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 923. Vol 27 pp. 918-923: Sūkta 37 Ṛk 8-12, Sūkta 38 intro
+**Progress note:** Done through printed p. 929. Sūkta 38 Ṛk 1-5, pp. 924-929
