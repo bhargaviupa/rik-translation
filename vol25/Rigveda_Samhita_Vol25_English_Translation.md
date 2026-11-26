@@ -3130,6 +3130,264 @@ We praise Agni in order to separate from us our haters, to drive them away. So a
 
 We praise Agni in order to drive far away our haters. We pray to that same Agni in order to bring about happiness for us and the warding off of fear. May that same Agni, shining like a protecting king among all the peoples, be for us, who are seers, the giver of dwelling and one to be worshipped.
 
+### Printed p. 79
+
+##### English translation
+We praise Agni that he may keep off our enemies; we praise Agni that he may give us joy and security; he may well be worshipped as the giver of dwellings to the Rishis, he who is as it were the protector of men.
+
+## Sūkta 72 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ हविष्कृणुध्वम् ' इत्यष्टादशर्चं तृतीयं सूक्तम् । अत्रानुक्रमणिका – हविर्द्व्यूना हर्यतः प्रागाथो हविषां स्तुतिर्वा ' इति । प्रगाथपुत्रो हर्यत ऋषिः । परं गायत्रं प्राग्वत्सप्रेः ' इति परिभाषया गायत्री छंदः ।  ‘ आग्नेयं तु ' इत्युक्तत्वादग्निर्देवता यद्वा हविषां स्तूयमानत्वात्तद्देवताकं वा । सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning हविष्कृणुध्वम् (*haviṣkṛṇudhvam*) has eighteen Ṛks and is the third sūkta. The Anukramaṇikā says here: हविर्द्व्यूना हर्यतः प्रागाथो हविषां स्तुतिर्वा (*havirdvyūnā haryataḥ prāgātho haviṣāṃ stutirvā*). The seer is Haryata, the son of Pragātha. By the rule of interpretation परं गायत्रं प्राग्वत्सप्रेः (*paraṃ gāyatraṃ prāgvatsapreḥ*) the metre is Gāyatrī. Since it is said आग्नेयं तु (*āgneyaṃ tu*), the deity is Agni; or else, because the oblations are praised, the deity is the oblations. The use of the sūkta in ritual is by the indicatory sign (liṅga).
+
+The Kannada Anuvāda: This sūkta, हविष्कृणुध्वं (*haviṣkṛṇudhvaṃ*), is the third sūkta in the eighth anuvāka. It has eighteen Ṛks. The seer of this sūkta is Haryata, the son of Pragātha; the metre is Gāyatrī. The deity is Agni, or, since there is praise of the oblation, that praise itself is the deity. In the Anukramaṇikā it is said: हविदूर्व्यना हर्यतः प्रागाथो हविषां स्तुतिर्वा (*havidūrvyanā haryataḥ prāgātho haviṣāṃ stutirvā*). The use in ritual is by the indicatory sign.
+
+Sūkta—72
+Maṇḍala—8 ‖ Anuvāka—8 ‖ Sūkta—72 ‖
+Aṣṭaka—6 ‖ Adhyāya—5 ‖ Varga—14, 15, 16, 17 ‖
+Number of Ṛks in the sūkta—18 ‖
+Seer—हर्यतः प्रागाथः (*haryataḥ prāgāthaḥ*) ‖
+Deity—अग्निर्हवींषि वा (*agnirhavīṃṣi vā*) ‖
+Metre—गायत्री (*gāyatrī*) ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒विष्कृ॑णुध्व॒मा ग॑मदध्व॒र्युर्व॑नते॒ पुनः॑ ।  
+> वि॒द्वाँ अ॑स्य प्र॒शास॑नम् ॥ १ ॥
+
+### Printed p. 80
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हविः । कृणुध्वम् । आ । गमत् । अध्वर्युः । वनते । पुनरिति ।  
+> विद्वान् । अस्य । प्रऽशासनम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्युसंबंधिनो हविष्कर्तारः यूयं हविः कृणुध्वं कुरुध्वं शीघ्रम् । यतः आ गमत् आजगामायमग्निः अतः कृणुध्वम् । अध्वर्युः पुनः वनते संभजते । किम् । सामर्थ्यादध्वरमिति गम्यते । कीदृशोऽध्वर्युः । अस्य हविषः प्रशासनं प्रदानं विद्वान् ॥
+
+##### Gist of the bhāṣya
+
+O makers of the oblation, you who belong to the Adhvaryu, make the oblation, prepare it quickly. Because this Agni has come (आ गमत् (*ā gamat*)), therefore make it. The Adhvaryu again takes up (वनते (*vanate*), he resorts to). What does he take up? By implication, the sacrifice (the adhvara) is understood. What kind of Adhvaryu is he? One who knows the bestowal (प्रशासनं (*praśāsanaṃ*)) of this oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आ गमत् (*ā gamat*)—(O givers of the oblation) Agni has come here
+- हविः (*haviḥ*)—the oblation
+- कृणुध्वं (*kṛṇudhvaṃ*)—offer to him
+- अस्य (*asya*)—of this oblation
+- प्रशासनं (*praśāsanaṃ*)—the offering
+- विद्वान् (*vidvān*)—who knows
+- अध्वर्युः (*adhvaryuḥ*)—the Adhvaryu
+- पुनः (*punaḥ*)—again
+- वनते (*vanate*)—performs the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O givers of the oblation, Agni has come here. Offer the oblation to him. The Adhvaryu, who knows the offering of this oblation, again performs the sacrifice.
+
+##### English translation
+(Priests), present the oblation, for (Agni) has come; the Adhwaryu again offers (the sacrifice), well-skilled in its offerings.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि ति॒ग्मम॒भ्यं१॒॑शुं सीद॒द्धोता॑ म॒नावधि॑ ।  
+> जु॒षा॒णो अ॑स्य स॒ख्यम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । तिग्मम् । अभि । अंशुम् । सीदत् । होता । मनौ । अधि ।  
+> जुषाणः । अस्य । सख्यम् ॥ २ ॥
+
+### Printed p. 81
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता ऋत्विक् तिग्मं तीक्ष्णम् अंशुं तमग्निं नि षीदत् निषीदति । कीदृशो होता । अस्य अग्नेः सख्यं मनावधि यजमाने जुषाणः । अधीति सप्तम्यर्थानुवादी ॥
+
+##### Gist of the bhāṣya
+
+The Hotṛ, the priest, sits down (नि षीदत् (*ni ṣīdat*)) by the sharp (तिग्मं (*tigmaṃ*)), that is, keen, flame (अंशुं (*aṃśuṃ*)), that is, by Agni. What kind of Hotṛ? One delighting (जुषाणः (*juṣāṇaḥ*)) in the friendship of this Agni, which is established in the offerer (मनावधि (*manāvadhi*)). The word अधि (*adhi*) merely repeats the sense of the locative case.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनावधि (*manāvadhi*)—established in the offerer
+- अस्य (*asya*)—of this Agni
+- सख्यं (*sakhyaṃ*)—the friendship
+- जुषाणः (*juṣāṇaḥ*)—praising and rejoicing in
+- होता (*hotā*)—the Hotṛ
+- तिग्मं (*tigmaṃ*)—sharp
+- अंशुं अभि (*aṃśuṃ abhi*)—near the flame of Agni
+- नि षीदत् (*ni ṣīdat*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+The Hotṛ, praising and rejoicing in the friendship of this Agni, which is established in the offerer, sits down near the flame of the keen Agni.
+
+##### English translation
+The Hotri sits down by (Agni's) hot flame, rejoicing in his friendship towards the offerer.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒तरि॑च्छंति॒ तं जने॑ रु॒द्रं प॒रो म॑नी॒षया॑ ।  
+> गृ॒भ्णंति॑ जि॒ह्वया॑ स॒सम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतः । इच्छंति । तम् । जने । रुद्रम् । परः । मनीषया ।  
+> गृभ्णंति । जिह्वया । ससम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं रुद्रम् । रुत् दुःखम् । तस्य द्रावयितारम् । अथवा रुत् स्तुतिः । तया गंतव्यम् । स्तुत्यमित्यर्थः । तादृशमग्निं जने यजमानार्थं मनीषया स्वप्रज्ञानेन परः परस्तात् पुरोदेशे इच्छंति स्थापयितुम् । त एव पश्चात् ससं स्वपंतमग्निं जिह्वया । जन्ये जनकशब्दः । जिह्वाप्रभवया स्तुत्या गृभ्णंति गृह्णंत्यंगुलिभिः । अत्र यास्कः - स्वप्नमेतन्मध्यमं ज्योतिरनित्यदर्शनम्।....द्वैधं सत्ता मध्यमे च स्थाने उत्तमे च । ' ( निरु. ५. ३) इति ॥
+> [ xxv. 6 ]
+
+##### Gist of the bhāṣya
+
+Rudra is that Agni. रुत् (*rut*) is sorrow, and he is the one who drives it away; or else रुत् (*rut*) is praise, and he is the one to be approached with it, that is, the one worthy of praise. Such an Agni, for the sake of the offerer among men, they desire to establish by their own insight in the forward region (परः परस्तात् पुरोदेशे (*paraḥ parastāt purodeśe*)). The same people afterwards seize Agni, who is sleeping (ससं (*sasaṃ*)), with the tongue (जिह्वया (*jihvayā*)); the word for the cause stands for what is born of it, so that it means the praise that arises from the tongue; they seize him with the fingers. Here Yāska says (Ni. 5. 3): स्वप्नमेतन्मध्यमं ज्योतिरनित्यदर्शनम्।....द्वैधं सत्ता मध्यमे च स्थाने उत्तमे च । (*svapnametanmadhyamaṃ jyotiranityadarśanam|....dvaidhaṃ sattā madhyame ca sthāne uttame ca |*) **GLOSS**
+
+### Printed p. 82
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रं (*rudraṃ*)—the remover of sorrow
+- तं (*taṃ*)—Agni
+- जने (*jane*)—for the offerer
+- मनीषया (*manīṣayā*)—by their own insight
+- अंतःपरः (*aṃtaḥparaḥ*)—in the forward region
+- इच्छंति (*icchaṃti*)—they desire to establish
+- ससं (*sasaṃ*)—Agni who is asleep
+- जिह्वया (*jihvayā*)—together with the praise born of the tongue
+- गृभ्णंति (*gṛbhṇaṃti*)—they seize
+
+##### भावार्थ (Bhāvārtha)
+
+They desire to establish Agni, the remover of sorrow, in the forward region by their own insight for the sake of the offerer. They seize Agni, who is asleep, together with the praise born of the tongue.
+
+##### English translation
+For the sake of the offerer, they seek by their skill to place Rudra in the fore front; they seize him, as he sleeps, with their tongue.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जा॒म्य॑तीतपे॒ धनु॑र्वयो॒धा अ॑रुह॒द्वन॑म् ।  
+> दृ॒षदं॑ जि॒ह्वयाव॑धीत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जामि । अतीतपे । धनुः । वयःऽधाः । अरुहत् । वनम् ।  
+> दृषदम् । जिह्वया । आ । अवधीत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयोधाः अन्नस्य दाताग्निर्मध्यमस्थानः जामि प्रवृद्धं सर्वमतिरिच्य वर्तमानम् । ‘ जाम्यतिरेकनाम ' (निरु. ४. २०) इति यास्कः । धनुः धन्वांतरिक्षम् अतीतपे अतितपति । अथवाग्नेर्जामि गमनशीलं धनुरतितपते स्वविरोधिनम् । स च वयोधा अन्नस्य दाताग्निः वनम् उदकम् अरुहत् आरोहति विमोकाय । तदर्थं जिह्वया ज्वालया दृषदं मेघम् अवधीत् हंति । दावाग्निपक्षे वनं तरुसमूहं हंति । जिह्वया दृषदं कठिनमपि पाषाणं भिनत्तीति ॥
+
+##### Gist of the bhāṣya
+
+Agni, the giver of food (वयोधाः (*vayodhāḥ*)), who dwells in the middle region, scorches (अतीतपे (*atītape*)) the bow (धनुः (*dhanuḥ*)), that is, the atmosphere, which is swollen (जामि (*jāmi*)), standing above and beyond everything. Yāska says: जाम्यतिरेकनाम (*jāmyatirekanāma*) (Ni. 4. 20) **GLOSS** Or else: the bow of Agni, which is quick-moving (जामि (*jāmi*)), scorches what is hostile to it. And that Agni, the giver of food, mounts (अरुहत् (*aruhat*)) the water (वनम् (*vanam*)) in order to release it; for that purpose he smites (अवधीत् (*avadhīt*)) the cloud (दृषदं (*dṛṣadaṃ*)) with his tongue, that is, his flame. According to the view of the forest fire, he destroys the forest, the mass of trees; with his tongue he breaks even the hard stone (दृषदं (*dṛṣadaṃ*)).
+
+### Printed p. 83
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयोधाः (*vayodhāḥ*)—Agni, the giver of food
+- जामि (*jāmi*)—swollen, grown vast
+- धनुः (*dhanuḥ*)—the atmosphere
+- अतीतपे (*atītape*)—makes it burn
+- वसं (*vasaṃ*)—the water
+- अरुहत् (*aruhat*)—has mounted
+- जिह्वया (*jihvayā*)—with his tongue
+- दृषदं (*dṛṣadaṃ*)—the cloud
+- आ अवधीत् (*ā avadhīt*)—splits
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the giver of food, makes the vastly grown atmosphere burn. He has mounted the water. With his tongue he splits the cloud.
+
+##### English translation
+(Agni), the giver of food, scorches the vast bow (of the sky); he mounts the water; he smites the cloud with his tongue.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चर॑न्व॒त्सो रुश॑न्नि॒ह नि॑दा॒तारं॒ न विं॑दते ।  
+> वेति॒ स्तोत॑व अं॒ब्य॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चरन् । वत्सः । रुशन् । इह । निऽदातारम् । न । विंदते ।  
+> वेति । स्तोतवे । अंब्यम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वत्सः । वत्सवच्चापलेन धावनाद्वत्स इत्युपचर्यते । अथवा वत्स इव संचरन् । इवशब्दो लुप्यते । रुशन श्वेतो भवन् इह अस्मिँल्लोके निदातारं निरोधकं न विंदते न लभते । किंतु स्तोतवे स्तोतुम् अंब्यं स्तोतारं स्वयं वेति कामयते । अथवात्र वैद्युतोऽग्निरुच्यते । वैद्युतोऽयं रुशंश्चरंश्चेहांतरिक्षे वत्सः सर्वदा वसन् वत्सस्थानीयो वा सन्निदातारं निरोधकं न विंदते । किंतु स्तोतुमंब्यं माध्यमिकां वाचं वेति ॥ ॥ १४ ॥
+
+##### Gist of the bhāṣya
+
+वत्सः (*vatsaḥ*) is said figuratively, because he runs about with a calf's restlessness; or else the meaning is moving about like a calf, the word इव (*iva*) being dropped. Becoming white (रुशन् (*ruśan*)), he finds (विंदते (*viṃdate*)) here, in this world, no hinderer (निदातारं (*nidātāraṃ*)); rather, to praise (स्तोतवे (*stotave*)) he himself desires (वेति (*veti*)) a praiser (अंब्यं (*aṃbyaṃ*)). Or else the fire of lightning is spoken of here: this lightning fire, shining and moving here in the atmosphere, always dwelling there as a calf or standing in the place of a calf, finds no hinderer; rather he desires the speech of the middle region in order to be praised.
+
+### Printed p. 84
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वत्सः (*vatsaḥ*) चरन् (*caran*)—Agni, who roams like a young calf
+- रुशन् (*ruśan*)—and who is shining
+- इह (*iha*)—in this world
+- निदातारं (*nidātāraṃ*)—one who obstructs him
+- न विंदते (*na viṃdate*)—does not find
+- स्तोतवे (*stotave*)—in order to praise him
+- अंब्यं (*aṃbyaṃ*)—in order to obtain a praiser
+- वेति (*veti*)—he desires
+- अथवा वत्सः (*athavā vatsaḥ*)—or, always dwelling in the atmosphere
+- चरन् (*caran*)—moving
+- रुशन् (*ruśan*)—and shining, the fire of lightning
+- निदातारं (*nidātāraṃ*)—one who obstructs him
+- न विंदते (*na viṃdate*)—does not find
+- स्तोतवे (*stotave*)—in order to praise him
+- अंब्यं (*aṃbyaṃ*)—the speech of the middle region
+- वेति (*veti*)—he desires
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who roams everywhere like a young calf and who is shining, does not find in this world one who obstructs him. He desires to obtain a praiser who will praise him.
+
+##### English translation
+Roaming like a calf and bright-shining, he finds here no hinderer; he seeks a chanter to praise him.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो न्व॑स्य॒ यन्म॒हदश्वा॑व॒द्योज॑नं बृ॒हद् ।  
+> दा॒मा रथ॑स्य॒ ददृ॑शे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । नु । अस्य । यत् । महत् । अश्वऽवत् । योजनम् । बृहत् ।  
+> दामा । रथस्य । ददृशे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो अपि च नु क्षिप्रमद्य अस्य आदित्यस्य यन्महत् माहात्म्ययुक्तम् अश्वावत् संवृद्धाश्ववत् बृहत् महत् स्थूलं योजनं दृश्यते । तदेवाह। रथस्य दामा ददृशे दृश्यते। अंतरिक्षे रथेऽश्वान्नियोजयतीत्यर्थः। तदा दुहंतीत्युत्तरत्र संबंधः ॥
+> अभिष्टवे घर्मदाहे ‘ दुहंति सप्त ' इत्येषा । सूत्रितं च -- दुहंति सप्तैकां समिद्धो अग्निरश्विना' (आश्व. श्रौ. ४. ७) इति । ग्रावस्तोत्रेऽप्येषा । सूत्रितं च - ‘ दुहंति सप्तैकामधुक्षत्पिप्युषीमिषम् ' (आश्व. श्रौ. ५. १२) इति ॥
+
+##### Gist of the bhāṣya
+
+And now quickly, today, the great, vast, thick yoking of this Āditya, filled with majesty and like that of fully grown horses, is seen. That is what he says: the rope of the chariot is seen (ददृशे (*dadṛśe*)); the meaning is that in the atmosphere he yokes the horses to the chariot. The connection with दुहंति (*duhaṃti*) is in the following Ṛk. This Ṛk, in the Abhiṣṭava at the heating of the Gharma, is the one beginning दुहंति सप्त (*duhaṃti sapta*). It is also given in the sūtra: दुहंति सप्तैकां समिद्धो अग्निरश्विना (*duhaṃti saptaikāṃ samiddho agniraśvinā*) (Āśv. Śrau. 4. 7). This Ṛk is also in the Grāvastotra; and it is given in the sūtra: दुहंति सप्तैकामधुक्षत्पिप्युषीमिषम् (*duhaṃti saptaikāmadhukṣatpipyuṣīmiṣam*) (Āśv. Śrau. 5. 12). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 78. Vol 25 sūkta 71 Ṛk 11-15
+**Progress note:** Done through printed p. 84. Sukta 72 Rk 1-6 (pp. 79-84)
