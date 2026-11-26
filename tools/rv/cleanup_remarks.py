@@ -14,6 +14,10 @@ KINDs: oldnotes   old mid-file progress/target notes and the closing progress no
        twin       (Vol 1) a Sanskrit quotation given twice in Devanagari: as printed, then again with the words set apart, then the
                   transliteration.  The second Devanagari line goes (user, Nov 25 2026: "retain only the first lines"); only where the two lines
                   are the same text (letters compared through the transliteration, >= 93 of 100) and the transliteration follows.
+       all        the three kinds every volume gets before a PDF is built (REQUIREMENTS B4.6, B2.6): session, paren, twin, in that order, on
+                  EVERY English file of the volume; then `marks`.  Dry run: one line of counts per file and kind.  --write: applies, logs each
+                  removal in review/removed_remarks.tsv and one line in review/repair_log.md.  Afterwards rebuild the PDF and compare its
+                  chapter/sūkta count with the build before (a removed note may be a marker the builder needs: Vol 1, LESSONS).
        marks      no change: writes volN/review/open_readings.tsv, every `[?]` and `[sic]` left in the file (file, page, line, mark, context)
 Dry run by default: prints counts, damage checks and 30 before/after samples.  --write applies, appends to volN/review/removed_remarks.tsv
 (kind, page, line, text removed, line before, line after) so that any removal can be undone, and prints the damage report.
@@ -259,7 +263,7 @@ def damage(L):
     return bad
 def list_marks(vol):
     d = os.path.join(ROOT, f'vol{vol}'); rows = []
-    for name in sorted(x for x in os.listdir(d) if x.endswith('English_Translation.md') and '_scan_' not in x):
+    for name in english_files(vol):
         L = open(os.path.join(d, name), encoding='utf8').read().split('\n'); pg = pages(L)
         for i, l in enumerate(L):
             for m in re.finditer(r'\[\?\]|\[sic\b[^\]]*\]', l):
@@ -268,9 +272,35 @@ def list_marks(vol):
     f = os.path.join(d, 'review', 'open_readings.tsv')
     open(f, 'w', encoding='utf8').write('file\tprinted page\tline\tmark\tcontext\n' + ''.join('\t'.join(r) + '\n' for r in rows))
     print(f'{len(rows)} marks -> {os.path.relpath(f, ROOT)}')
+def english_files(vol):
+    d = os.path.join(ROOT, f'vol{vol}')
+    return sorted(x for x in os.listdir(d) if x.endswith('English_Translation.md') and '_scan_' not in x)
+def run_all(vol, write):
+    import datetime
+    d = os.path.join(ROOT, f'vol{vol}'); total = {}
+    for name in english_files(vol):
+        p = os.path.join(d, name)
+        for kind in ('session', 'paren', 'twin'):
+            L = open(p, encoding='utf8').read().split('\n'); pg = pages(L)
+            rm = KINDS[kind](L); idx = sorted(k for k in rm if k != 'last')
+            print(f'{name}: {kind} {len(idx)}'); total[kind] = total.get(kind, 0) + len(idx)
+            if not write or not idx: continue
+            new = apply(L, dict(rm)); rd = os.path.join(d, 'review'); os.makedirs(rd, exist_ok=True)
+            f = os.path.join(rd, 'removed_remarks.tsv'); new_file = not os.path.exists(f)
+            with open(f, 'a', encoding='utf8') as o:
+                if new_file: o.write('kind\tpage\tline\ttext removed\tline before\tline after\n')
+                for i in idx:
+                    o.write('\t'.join([kind, str(pg[i]), str(i + 1), L[i].replace('\t', ' ') + ('' if rm[i] is None else '  ==>  ' + rm[i]), (L[i-1] if i else '')[:150], (L[i+1] if i+1 < len(L) else '')[:150]]) + '\n')
+            open(p, 'w', encoding='utf8').write('\n'.join(new))
+    if write and sum(total.values()):
+        with open(os.path.join(d, 'review', 'repair_log.md'), 'a', encoding='utf8') as o:
+            o.write(f"\n- {datetime.date.today()}: tools/rv/cleanup_remarks.py {vol} all --write (REQUIREMENTS B4.6, B2.6): " + ', '.join(f'{k} {v}' for k, v in total.items()) + ' lines; every removal is a row of review/removed_remarks.tsv.\n')
+    if write: list_marks(vol)
+    else: print('dry run; --write applies')
 def main():
     vol, kind = int(sys.argv[1]), sys.argv[2]; write = '--write' in sys.argv
     if kind == 'marks': return list_marks(vol)
+    if kind == 'all': return run_all(vol, write)
     p, L = load(vol); pg = pages(L)
     rm = KINDS[kind](L); lastset = rm.get('last')
     idx = sorted(k for k in rm if k != 'last')

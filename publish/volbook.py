@@ -16,6 +16,7 @@ Front matter (the Vol 1 pattern, aligned to the volume's own scans):
                guru portrait | present-day placeholders | printed contents (typeset like the original) | sūkta index | body
   Kannada PDF: cover scan | title page scan | credits | portrait scan | permission scan | board scan | preface scans |
                guru portrait | present-day placeholders | printed contents | body (Kannada text)
+Footer of both books (style_footer.css; REQUIREMENTS A4): page number, 'Kannada edition p. N', REVIEW COPY; the English book has no page marks in the body.
 English PDF (volN/pubcfg.json: front_en, contents_en, contents_target_overrides): translated board/preface/abbreviations/contents (frontmatter_en.json, contents_en.json), remarks as footnotes, Introduction heading, Om on printed p. 1.
 Body conversions done in memory only: missing '## Sūkta N' headings are supplied (pubcfg 'missing_headings'); every leftover
 ⟦Kannada-script Sanskrit⟧ quotation (also multi-line) is converted to Devanagari + (IAST); every Saṃhitā and Pada block
@@ -341,7 +342,7 @@ def wrap(front_html, rest, kan, vol):
     css = '<link rel="stylesheet" href="../style_volbook.css">' + ('<link rel="stylesheet" href="../style_volbook_kan.css">' if kan else '')
     t = f'Ṛgveda-saṃhitā, Volume {vol} ' + ('(Kannada text)' if kan else '(English translation)')
     return (f'<!doctype html><html lang="{"kn" if kan else "en"}"><head><meta charset="utf-8"><title>{t}</title>'
-            f'<link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol1.css">{css}</head><body>\n{front_html}\n{rest}\n</body></html>')
+            f'<link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol1.css">{css}<link rel="stylesheet" href="../style_footer.css"></head><body>\n{front_html}\n{rest}\n</body></html>')
 
 def write(doc, name, html_only, vol):
     out = PUB / 'out'; out.mkdir(exist_ok=True)
@@ -387,13 +388,13 @@ def build_eng(cfg, html_only):
             return f'<h2 class="{cls}" id="{hid}" data-short="{html.escape(lab)}">{inner}</h2>'
         if tag == 'h3':
             mm = re.match(r'Printed p\.\s*(\d+)', text)
-            if mm: return f'<h3 class="pg" id="p{mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
+            if mm: return f'<h3 class="pg" id="p{mm.group(1)}" data-p="Kannada edition p. {mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     fe = load_front_en(cfg)
     body = notes_to_footnotes(body)
     body = intro_headings(body)
-    body = body.replace('<h3 class="pg" id="p1"><span>p. 1</span></h3>', '<h3 class="pg" id="p1"><span>p. 1</span></h3><div class="om">ॐ</div>', 1)
+    body = body.replace('<span>p. 1</span></h3>', '<span>p. 1</span></h3><div class="om">ॐ</div>', 1)
     suk_ids = [h for h, l, c in toc if c == 'sukta']
     if fe and cfg.get('contents_en'):
         ch = contents_en_html(cfg, fe, suk_ids); blocks = []
@@ -421,7 +422,7 @@ def build_kan(cfg, html_only):
         text = re.sub(r'<[^>]+>', '', inner).strip()
         st['n'] += 1; hid = f'k{st["n"]}'
         mm = re.match(r'Printed p\.\s*(\d+)', text)
-        if mm: return f'<h3 class="pg" id="p{mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
+        if mm: return f'<h3 class="pg" id="p{mm.group(1)}" data-p="Kannada edition p. {mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
         if tag == 'h2':                                   # '## ಸೂಕ್ತ N (ಮಂಡಲ M)' or '## ಮಂಡಲ M' (added from the English structure by kn_headings.py)
             cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'part'
             toc.append((hid, text, cls))

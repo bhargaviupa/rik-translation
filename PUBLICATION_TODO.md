@@ -1,6 +1,6 @@
 # Publishing the volumes — the to-do list
 
-*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 25 2026**. (T14, the Sāyaṇa-bhāṣya reader, added Nov 18–20 2026: see `sayana_bhr.md`).*
+*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 26 2026**. (T14, the Sāyaṇa-bhāṣya reader, added Nov 18–20 2026: see `sayana_bhr.md`).*
 *Kept current by every session: a finished point is ticked with its date, a new point is added where it belongs, the counts in §1 are refreshed. Counts are from commands run on the date given; estimates are called estimates. Background: `docs/REQUIREMENTS.md` (Part H), `docs/DESIGN.md`, `docs/LEGACY_VOLUMES_PLAN.md`. Other parked points of the project: `TODO.md`. State of one volume in detail: `volN/STATUS.md`.*
 
 Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you)** only the user can do it · **(script)** costs nothing · **(agents)** uses the session allowance · **(scholar)** / **(advice)** someone outside.
@@ -123,7 +123,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | T4 | The second reading as a regular step, runnable by agents or by the API | all | [ ] |
 | T5 | Question list out to a spreadsheet and answers back in | all | [~] by hand for Vol 17 |
 | T6 | Release gate: no final copy while a question or known fault is open | all | [ ] |
-| T7 | Final-copy build: printer's page size, margins, cover, version and date in each PDF | all | [ ] |
+| T7 | Final-copy build: printer's page size, margins, cover, version and date in each PDF | all | [~] Nov 26 2026: footer (page number, Kannada-edition page, REVIEW COPY) in every builder, PDF check `publish/pdf_check.py`; the rest open |
 | T8 | One vocabulary for the series: deities, seers, metres, ritual terms spelt the same in every volume | all | [ ] |
 | T9 | The shared accent tool reads the older layouts (it finds no verse in Vol 2) | group A | [x] Nov 17 2026: `accent_compare.py` and `accent_replace.py` read the Vol 2 layout; other group-A volumes to be tried |
 | T10 | Translation step in the new form (units instead of windows) | Vols 13, 19 onwards | [ ] |
@@ -143,6 +143,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 26 2026: the PDF rules decided on Vol 1 written into `docs/REQUIREMENTS.md` (A4 footer, B2.6 quotation once in Devanagari, B4.6 generic remarks, D19 PDF check, M5a) and into the tools for all volumes: `tools/rv/cleanup_remarks.py N all`, `publish/style_footer.css` (old builders and `volbook.py`), `publish/pdf_check.py N`. Vol 21 review copies rebuilt with the new footer. Vols 2–10: dry-run counts only, nothing written.
 - Nov 25 2026: Vol 1: generic remarks removed from the English (457 lines, logged; new kinds `paren` and `session` in `tools/rv/cleanup_remarks.py`, usable for Vols 2–10); `[?]`/`[sic]` listed in `vol1/review/open_readings.tsv` (66); review PDF rebuilt with the old builder (1,275 pages). Verse layers not yet from the reference.
 - Nov 25 2026: T11 done: every PDF moved out of `publish/out/` into `volN/review/` (Vol 13's two old builds to `vol13/legacy/`); `volbook.py`, the legacy builders and `bhashya_book.py` now write review copies there. Survey of the route to PDFs for all volumes made; the choice of the one printer (`volbook.py` or `rv print`) waits for the user.
 - Nov 24 2026: **Vol 5 second pass done** (S0–S6: Kannada book from the supplied text, all supplied pages 2–708 read in 52 batches, 1 420 repairs applied, 205 questions in `vol5/review/second_pass/questions.tsv`, Wikisource coverage of the 152 Ṛks checked, 30 pictures listed). Bhāṣya English not made; 20 pages are not in the supplied text. See `vol5/STATUS.md`.
