@@ -11200,6 +11200,224 @@ Metre: Prāgātham (ayujaḥ bṛhatyaḥ yujaḥ satobṛhatyaḥ)
 
 Nodhas praises Indra. O priests and sacrificers, we hail Indra, who is दस्मं (*dasmaṃ*), beautiful to see, and ऋतीषहम् (*ṛtīṣaham*): ṛtis are the obstructing enemies, so he is their overcomer. Further, of what kind? He is the remover of the suffering that makes one dwell (वसोः (*vasoḥ*)); or else, he is the one dwelling (वसोः (*vasoḥ*)) in the vessel. Such is Indra, rejoicing (मंदानं (*maṃdānaṃ*)) through the drinking of the food (अंधसः (*aṃdhasaḥ*)) that consists of Soma, and he is yours (वः (*vaḥ*)) as the one to be worshipped by you the sacrificers. We hail (अभि नवामहे (*abhi navāmahe*)) him with words (गीर्भिः (*gīrbhiḥ*)), that is, with speech consisting of praise. Where? In the स्वसरेषु (*svasareṣu*). On this Yāska says: स्वसराण्यहानि स्वयंसारीण्यपि वा स्वरादित्यो भवति स एनानि सारयति (*svasarāṇyahāni svayaṃsārīṇyapi vā svarādityo bhavati sa enāni sārayati*) (Ni. 5. 4) **GLOSS**. That is, we hail him in the days that have the sun as their leader. The illustration is वत्सं न (*vatsaṃ na*): as newly calved cows (धेनवः (*dhenavaḥ*)) in the स्वसरेषु (*svasareṣu*), the cow-pens, where cows are well driven, make their sound with the calf in view, so it is here.
 
+### Printed p. 284
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O priests and sacrificers,)
+- दस्मं (*dasmaṃ*)—who has an attractive form
+- ऋतीषहं (*ṛtīṣahaṃ*)—who overcomes enemies
+- वसोः (*vasoḥ*)—who removes suffering
+- अंधसः (*aṃdhasaḥ*)—through the drinking of Soma
+- मंदानं (*maṃdānaṃ*)—who rejoices
+- वः (*vaḥ*)—who, as the one to be worshipped, is related to you as worshippers
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- धेनवः (*dhenavaḥ*)—cows that have newly calved
+- स्वसरेषु (*svasareṣu*)—in the cow-pens
+- वत्सं न (*vatsaṃ na*)—as they go lowing towards their calves
+- गीर्भिः (*gīrbhiḥ*)—with words of praise
+- अभि नवामहे (*abhi navāmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, as cows that have newly calved approach their calves in the cow-pens, lowing to them lovingly, so we every day praise with words of praise Indra, who has an attractive form, overcomes enemies, removes suffering, is satisfied by the drinking of Soma, and is related to you as the one to be worshipped is to the worshippers.
+
+##### English translation
+We offer praise with our hymns, as cows (low) to their calf in the stalls, to that handsome Indra of yours, (O priests), the overcomer of enemies, who rejoices in the excellent beverage.
+
+##### विशेषविषयगळु (Special Topics)
+
+वसोः (*vasoḥ*): वासयितुर्दुःखस्य निवासयितुः (*vāsayiturduḥkhasya nivāsayituḥ*). He is the destroyer of the suffering of those who praise. Or else the word वसोः (*vasoḥ*) can be construed with the word अंधसः (*aṃdhasaḥ*). In that case: वसोः पात्रे निवसतः तादृशस्य अंधसः सोमलक्षणस्यान्नस्य पानेन मंदानं । (*vasoḥ pātre nivasataḥ tādṛśasya aṃdhasaḥ somalakṣaṇasyānnasya pānena maṃdānaṃ |*). The meaning is also: one who rejoices in the drinking of the Soma juice that fills the vessel.
+
+### Printed p. 285
+
+स्वसरेषु (*svasareṣu*): two kinds of meaning have been given for this word. Yāska: स्वसराण्यहानि स्वयंसारीण्यपि वा स्वरादित्यो भवति स एनानि सारयति (*svasarāṇyahāni svayaṃsārīṇyapi vā svarādityo bhavati sa enāni sārayati*) (Ni. 5-4). स्वसराणि (*svasarāṇi*) means the days, the day-times. Since time proceeds of itself in the daytime; or else स्वः (*svaḥ*) means Āditya, and this Āditya makes these days move, that is, the days go on by the light of the sun alone. Without the light of the sun that time would not be day at all but would become night. Therefore the sun alone is the support for the proceeding of the days.
+
+स्वसरेषु (*svasareṣu*): गोष्ठेषु (*goṣṭheṣu*), in cow-pens; सुष्म्वस्यंते प्रेर्यंते गावो अत्रेति स्वसराणि गोष्ठानि (*suṣmvasyaṃte preryaṃte gāvo atreti svasarāṇi goṣṭhāni*). Cows are driven so as to be here, that is, they are tied in this cow-pen; therefore स्वसरेषु (*svasareṣu*) means in cow-pens. Thus the commentator has explained both kinds of meaning.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यु॒क्षं सु॒दानुं॒ तवि॑षीभि॒रावृ॑तं गि॒रिं न पु॑रु॒भोज॑सम् ।  
+> क्षु॒मंतं॒ वाजं॑ श॒तिनं॑ सह॒स्रिणं॑ म॒क्षू गोमं॑तमीमहे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्युक्षम् । सुऽदानुम् । तविषीभिः । आऽवृतम् । गिरिम् । न । पुरुऽभोजसम् ।  
+> क्षुऽमंतम् । वाजम् । शतिनम् । सहस्रिणम् । मक्षु । गोऽमंतम् । ईमहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युक्षं दीप्तीनां निवासस्थानम् । अतिशयितदीप्तिमित्यर्थः । यद्वा । द्युक्षं दिवि द्युलोके क्षियंतं निवसंतम् । सुदानुं शोभनदानं तविषीभिः बलैः आवृतम् आच्छादितम् । आवरणे दृष्टांतः । गिरिं न तविषीभिर्बलयुक्तैर्मेघैरावृतं शिलोच्चयमिव स्थितम् । पुनः कीदृशम् । पुरुभोजसं सोमादिहविष्प्रदानेन बहुभिर्यजमानैर्भोजयितव्यं यद्वा बहूनां पालयितारमिंद्रं क्षुमंतम् । टुक्षु शब्दे । शब्दवंतम् । अनेन पुत्रादिकं लक्ष्यते । स्तोत्रादीनि कुर्वाणं शतिनं सहस्रिणं शतसहस्रसंख्याकधनयुक्तं गोमंतं गवादियुक्तं वाजम् अन्नं मक्षु शीघ्रम् ईमहे याचामहे । यद्वा । पूर्वार्धो वाजविशेषणत्वेन वा योजनीयः । प्रदीप्तं शोभनदानयोग्यं बलादियुक्तं बहुभिः पुत्रमित्रादिभिर्भोक्तव्यं शब्दादियुक्तमन्नमिंद्रं याचामह इति ॥
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनः ‘न त्वा बृहंतः' इति वैकल्पिकोऽनुरूपः । सूत्रितं च--- न त्वा बृहंतो अद्रय उभयं शृणवच्च नः' (आश्व. श्रौ. ७. ४) इति ।
+
+##### Gist of the bhāṣya
+
+द्युक्षं (*dyukṣaṃ*) is the abode of splendours, that is, one of surpassing splendour; or else one dwelling in heaven, the world of light. He is सुदानुं (*sudānuṃ*), of good gifts, covered (enveloped) by तविषीभिः (*taviṣībhiḥ*), powers. The illustration of the covering is गिरिं न (*giriṃ na*): like a mass of rock standing covered by clouds endowed with strength. Further, of what kind? पुरुभोजसं (*purubhojasaṃ*): he is to be fed by many sacrificers through the gift of Soma and other oblations; or else he is the protector of many. Indra is क्षुमंतं (*kṣumaṃtaṃ*), possessing sound, by which a son and the like is indicated, one who performs praises and the like. We quickly (मक्षु (*makṣu*)) ask (ईमहे (*īmahe*)) for food (वाजम् (*vājam*)) possessed of wealth numbering hundreds (शतिनं (*śatinaṃ*)) and thousands (सहस्रिणं (*sahasriṇaṃ*)) and of cattle and the like (गोमंतं (*gomaṃtaṃ*)). Or else the first half is to be construed as qualifying the food: we ask Indra for food that is bright, fit for good gifts, endowed with strength and the like, to be enjoyed by many sons, friends and others, and endowed with sound and the like.
+
+Further: on the Cāturviṃśika day, at the midday pressing, the Brāhmaṇācchaṃsin has the Ṛk ‘na tvā bṛhantaḥ’ as optional anurūpa. It is laid down in the sūtra: न त्वा बृहंतो अद्रय उभयं शृणवच्च नः (*na tvā bṛhaṃto adraya ubhayaṃ śṛṇavacca naḥ*) (Āśv. Śrau. 7. 4).
+
+### Printed p. 286
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युक्षं (*dyukṣaṃ*)—who dwells in the world of heaven
+- सुदानुं (*sudānuṃ*)—an excellent giver
+- तविषीभिः (*taviṣībhiḥ*)—by his own powers and strengths
+- आवृतं (*āvṛtaṃ*)—endowed; or
+- गिरिं न तविषीभिः (*giriṃ na taviṣībhiḥ*)—strong like a mountain covered by clouds
+- पुरुभोजसं (*purubhojasaṃ*)—to whom oblations are offered in many ways by many sacrificers, or the protector of many people, Indra (from Indra)
+- क्षुमंतं (*kṣumaṃtaṃ*)—sounding
+- शतिनं (*śatinaṃ*)—numbering hundreds
+- सहस्रिणं (*sahasriṇaṃ*)—and numbering thousands
+- गोमंतं (*gomaṃtaṃ*)—endowed with cows
+- वाजं (*vājaṃ*)—food
+- मक्षू (*makṣū*)—quickly
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+From Indra, who dwells in the world of heaven, is exceedingly strong like a mountain covered by clouds, and is the protector of many, we ask for hundreds and thousands of cows and for food.
+
+##### English translation
+We solicit the radiant bounteous (Indra), surrounded by powers as a mountain (by clouds), the supporter of many,—( we solicit him ) speedily for renowned food, rich in cattle, and multiplied an hundred and a thousand fold.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वा॑ बृ॒हंतो॒ अद्र॑यो॒ वरं॑त इंद्र वी॒ळवः॑ ।  
+> यद्दित्स॑सि स्तुव॒ते माव॑ते॒ वसु॒ नकि॒ष्टदा मि॑नाति ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । त्वा । बृहंतः । अद्रयः । वरंते । इंद्र । वीळवः ।  
+> यत् । दित्ससि । स्तुवते । माऽवते । वसु । नकिः । तत् । आ । मिनाति । ते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र बृहंतः बलेन महांतः अत एव वीळवः सर्वतो दृढा अपि अद्रयः पर्वताः त्वा त्वां न वरंते बलेन न निवारयंति । अनिवारणमेवोत्तरार्धेन विवृणोति । स्तुवते त्वद्विषयं स्तोत्रं कुर्वते मावते मत्सदृशाय मादृशाय स्तोत्रे यत् वसु यद्धनं दित्ससि त्वं दातुमिच्छसि तव देयं तत् धनं नकिः न कश्चित् आ मिनाति आभिमुख्येन हिनस्ति ॥ ' मीञ् हिंसायाम् । ' मीनातेर्निगमे' इति ह्रस्वः । मावते । युष्मदस्मद्भ्यां सादृश्य उपसंख्यानम्' इति वतुप् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, even the mountains (अद्रयः (*adrayaḥ*)), great (बृहंतः (*bṛhaṃtaḥ*)) in strength and therefore firm (वीळवः (*vīḷavaḥ*)) on every side, do not restrain you by force (वरंते (*varaṃte*)). He explains this non-restraint by the second half. To the praiser (स्तुवते (*stuvate*)), who makes praise of you, to one like me (मावते (*māvate*)), whatever wealth (वसु (*vasu*)) you wish to give (दित्ससि (*ditsasi*)), that wealth, your gift, no one (नकिः (*nakiḥ*)) injures (आ मिनाति (*ā mināti*)) with hostility.
+
+### Printed p. 287
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- बृहंतः (*bṛhaṃtaḥ*)—great in strength
+- वीळवः (*vīḷavaḥ*)—and firm in every way
+- अद्रयः (*adrayaḥ*)—mountains
+- त्वा (*tvā*)—you
+- न वरंते (*na varaṃte*)—cannot stop by the use of force
+- स्तुवते (*stuvate*)—who praises you
+- मावते (*māvate*)—to a man like me
+- यत् वसु (*yat vasu*)—whatever wealth
+- दित्ससि (*ditsasi*)—you wish to give
+- तत् (*tat*)—that wealth, that is, that gift of wealth
+- नकिः (*nakiḥ*)—no one
+- आ मिनाति (*ā mināti*)—can injure, that is, can obstruct
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even mountains that are great in size and exceedingly firm cannot stop you by the use of force. No one is able to prevent the gift of wealth that you are minded to give to a man like me, who praises you.
+
+##### English translation
+The vast firm mountains cannot stop you, Indra,—whatever wealth you would give to a worshipper such as I, none can hinder you therein.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, at the midday pressing, the priest called Brāhmaṇācchaṃsin is to recite the Ṛk न त्वा बृहंतः (*na tvā bṛhaṃtaḥ*) as the optional anurūpa mantra, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: न त्वा बृहंतो अद्रयु उभयं शृणवच्च नः (*na tvā bṛhaṃto adrayu ubhayaṃ śṛṇavacca naḥ*) (Āśv. 6-4). **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> योद्धा॑सि॒ क्रत्वा॒ शव॑सो॒त दं॒सना॒ विश्वा॑ जा॒ताभि म॒ज्मना॑ ।  
+> आ त्वा॒यम॒र्क ऊ॒तये॑ ववर्तति॒ यं गोत॑मा॒ अजी॑जनन् ॥ ४ ॥
+
+### Printed p. 288
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> योद्धा । असि । क्रत्वा । शवसा । उत । दंसना । विश्वा । जाता । अभि । मज्मना ।  
+> आ । त्वा । अयम् । अर्कः । ऊतये । ववर्तति । यम् । गोतमाः । अजीजनन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र क्रत्वा वृत्रहननादिकर्मणा अपि वा प्रज्ञानेन शवसा आत्मीयेन बलेन योद्धा शत्रूणां संप्रहारकः असि । उत अपि च त्वं दंसना स्वकीयेन कर्मणा मज्मना । मज मुजि शब्दार्थाः' । मजमुजी चेति मजतिः शब्दार्थः । शत्रूणामाक्रोशनसमर्थेन बलेन विश्वा जाता सर्वाणि भूतजातान्यभिभवसि । उक्तार्थस्य विश्वा जातान्यभ्यस्मि मह्ना' (ऋ. सं. ८. १००, ४ ) इत्यादिष्विंद्रेणैवोक्तत्वात् । एतादृशं त्वा त्वाम् अर्कः । ‘अर्च पूजायाम् । अर्चनीयः अयं मंत्रः यद्वार्को देवानामर्चकः पूजकोऽयं स्तोता ऊतये स्वरक्षणाय आ ववर्तति आवर्तयति । आत्माभिमुख्ये करोतीत्यर्थः । वर्ततेर्लेटि बहुलं श्लुरडागमश्च । यं त्वां गोतमाः गोतमपुत्रा नोधःप्रभृतयः अजीजनन् स्वयज्ञे प्रादुरबीभवन् । तं त्वामयं मंत्रः स्तोता वावर्तयति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by क्रत्वा (*kratvā*), that is, by the deeds beginning with the slaying of Vṛtra, or else by wisdom, and by शवसा (*śavasā*), your own strength, you are a योद्धा (*yoddhā*), a warrior, a striker of enemies. And you, by दंसना (*daṃsanā*), your own deed, and by मज्मना (*majmanā*), a strength able to make enemies cry out, overcome all beings (विश्वा जाता (*viśvā jātā*)). That this is the meaning is shown by Indra himself having said so in विश्वा जातान्यभ्यस्मि मह्ना' (*viśvā jātānyabhyasmi mahnā '*) (Ṛ. Saṃ. 8. 100, 4) and other places. Such as you are, this अर्कः (*arkaḥ*), the mantra to be worshipped, or else the worshipper of the gods, this praiser, turns hither (आ ववर्तति (*ā vavartati*)) for his protection (ऊतये (*ūtaye*)), that is, makes you face himself. You, whom the Gotamas (गोतमाः (*gotamāḥ*)), the sons of Gotama, Nodhas and others, brought forth (अजीजनन् (*ajījanan*)), that is, made to appear at their sacrifice, you this mantra or praiser turns hither.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Indra, you)
+- क्रत्वा (*kratvā*)—by your capacity, consisting in the slaying of Vṛtra and the like, or by your surpassing wisdom
+- शवसा (*śavasā*)—and by your own power and strength
+- योद्धा (*yoddhā*)—a soldier fighting with enemies
+- असि (*asi*)—you are
+- उत (*uta*)—and you
+- दंसना (*daṃsanā*)—by your deed of valour
+- मज्मना (*majmanā*)—and by your strength that chastises enemies
+- विश्वा जाता (*viśvā jātā*)—defeat all beings (creatures)
+- यं (*yaṃ*)—whom
+- गोतमाः (*gotamāḥ*)—the sons of the seer Gotama, Nodhas and others
+- अजीजनन् (*ajījanan*)—made manifest in their sacrifice
+- त्वा (*tvā*)—such as you are
+- अर्कः (*arkaḥ*)—worthy of worship
+- अयं (*ayaṃ*)—this mantra
+- ऊतये (*ūtaye*)—for our protection
+- आ ववर्तति (*ā vavartati*)—let it bring you towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your capacity, consisting in the slaying of Vṛtra and the like, or by your surpassing wisdom, and by your own strength, you are an excellent soldier fighting with enemies. And by your deed of valour and by a strength capable of chastising enemies,
+
+### Printed p. 289
+
+you are able to defeat all. May this mantra, worthy of worship, bring here towards us, for our protection, you whom the sons of the seer Gotama made manifest in their sacrifice.
+
+##### English translation
+By your exploits and might you are a warrior ; you overpower all beings by your deeds and prowess ; this hymn which the Gotamas have made, causes you to turn hither for their protection.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र हि रि॑रि॒क्ष ओज॑सा दि॒वो अंते॑भ्य॒स्परि॑ ।  
+> न त्वा॑ विव्याच॒ रज॑ इंद्र॒ पार्थि॑व॒मनु॑ स्व॒धां व॑वक्षिथ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । हि । रिरिक्षे । ओजसा । दिवः । अंतेभ्यः । परि ।  
+> न । त्वा । विव्याच । रजः । इंद्र । पार्थिवम् । अनु । स्वधाम् । ववक्षिथ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र दिवः द्युलोकस्य पर्यंतेभ्यः ओजसा । हिरवधारणे । स्वबलेनैव प्र रिरिक्षे प्रकर्षेणातिरिक्तो भवसि । रिचेर्लटि • बहुलं छंदसि' इति श्लुः । प्रत्ययस्वरः । किंच हे इंद्र पार्थिवं पृथिव्यां भवः रजः लोकः त्वा त्वां महता स्वशरीरेण न विव्याच न व्याप्नोति । द्यावापृथिवीभ्यामपि स्वतः स त्वं बलेन समर्थों भवसीत्यर्थः । एवंभूतः सन्नस्माकं स्वधाम् अन्नमुदकं वा अनु ववक्षिथ अनुवोढुमिच्छ । वहेः सनंतस्य छांदसे लिटि रूपम् । मंत्रत्वादामभावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by your ओजसा (*ojasā*), your own strength alone, you stand pre-eminently in excess (प्र रिरिक्षे (*pra ririkṣe*)) of the ends of heaven, the world of light. Further, O Indra, the terrestrial (पार्थिवं (*pārthivaṃ*)) world does not encompass (विव्याच (*vivyāca*)) you with its great body; the meaning is that you, even beyond heaven and earth, are capable of yourself by strength. Being such, desire to bring (ववक्षिथ (*vavakṣitha*)) our स्वधाम् (*svadhām*), food or water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Indra, you)
+- दिवः अंतेभ्यः परि (*divaḥ aṃtebhyaḥ pari*)—as far as the end of the world of heaven
+- ओजसा (*ojasā*)—by your own strength
+- प्र रिरिक्षे (*pra ririkṣe*)—have surpassed everything
+- इंद्र (*iṃdra*)—O Indra
+- पार्थिवं रजः (*pārthivaṃ rajaḥ*)—this terrestrial world (even with its great form)
+- त्वा (*tvā*)—you
+- विव्याच (*vivyāca*)—is not able to encompass
+- स्वधां (*svadhāṃ*)—food or water
+- अनु ववक्षिथ (*anu vavakṣitha*)—desire to bring for me **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 283. Vol25 pp.278-283: 87.3-6, Sukta 88 Rk 1 bhashya
+**Progress note:** Done through printed p. 289. Vol25 pp.284-289: 88.1 special topics, 88.2-5
