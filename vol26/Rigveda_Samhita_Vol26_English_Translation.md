@@ -21179,6 +21179,242 @@ The royal (Soma) plunges into the firmament, (and) the rivers (thereof) mixed wi
 > दि॒वो न सानु॑ स्त॒नय॑न्नचिक्रद॒द्द्यौश्च॒ यस्य॑ पृथि॒वी च॒ धर्म॑भिः ।  
 > इंद्र॑स्य स॒ख्यं प॑वते वि॒वेवि॑द॒त्सोमः॑ पुना॒नः क॒लशे॑षु सीदति ॥ ९ ॥
 
+### Printed p. 564
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । न । सानु । स्तनयन् । अचिक्रदत् । द्यौः । च । यस्य । पृथिवी । च । धर्मऽभिः ।  
+> इंद्रस्य । सख्यम् । पवते । विऽवेविदत् । सोमः । पुनानः । कलशेषु । सीदति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो न सानु स्तनयन् द्युलोकस्य समुच्छ्रितं स्थानं शब्दयन्निव अचिक्रदत् क्रंदते यस्य सोमस्य धर्मभिः धारणैः द्यौश्च पृथिवी च धृते स्याताम् । वृष्टिप्रदानद्वारौषध्याद्युत्पादनेन देवानां हविर्भावेन चोभयधारकत्वं प्रसिद्धम् । तादृशः सोमः महानुभावः सोमः पुनानः पूयमानः इंद्रस्य सख्यं विवेविदत् पवते पूयते पवित्रे । सः पुनानः सोमः कलशेषु सीदति निवसति
+
+##### Gist of the bhāṣya
+
+The Soma at whose (यस्य (*yasya*)) supports (धर्मभिः (*dharmabhiḥ*), upholdings) heaven and earth are held, roars (अचिक्रदत् (*acikradat*), he cries out) as if thundering at the lofty place of heaven (दिवो न सानु (*divo na sānu*)). That he upholds both is well known: by giving rain and producing the herbs, and by being the oblation of the gods. Such a Soma of great power, being purified, flows (पवते (*pavate*)) in the filter, winning (विवेविदत् (*vivevidat*)) the friendship of Indra (इंद्रस्य सख्यं (*iṃdrasya sakhyaṃ*)). That purified Soma sits, that is, dwells, in the vessels (कलशेषु (*kalaśeṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Soma-deva
+- धर्मभिः (*dharmabhiḥ*)—by the supporting powers
+- द्यौः (*dyauḥ*)—the world of Dyaus
+- पृथिवी च (*pṛthivī ca*)—and the earth are held; such a Soma
+- दिवः सानुः (*divaḥ sānuḥ*)—the elevated region of the atmosphere
+- स्तनयन् न (*stanayan na*)—as if thundering
+- अचिक्रदत् (*acikradat*)—makes a sound
+- इंद्रस्य (*iṃdrasya*)—with Indra
+- सख्यं (*sakhyaṃ*)—the friendship
+- विवेनिदत् (*vivenidat*)—having come to know, **NOTE**
+- पवते (*pavate*)—flows
+- पुनानः (*punānaḥ*)—purified
+- सोमः (*somaḥ*)—Soma
+- कलशेषु (*kalaśeṣu*)—in the Droṇa-kalaśas
+- सीदति (*sīdati*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, by whose supporting powers the world of Dyaus and the earth are held, makes a sound as if the elevated region of the atmosphere were thundering. Knowing the friendship of Indra, he flows. Soma, who has been purified, sits down in the Droṇa-kalaśas.
+
+##### English translation
+Thundering like the summit of the sky (the Soma) roars, by whose support both heaven and earth (are upheld) ; the Soma flows acquiring Indra's friendship, purified he alights upon the pitchers.
+
+### Printed p. 565
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्योति॑र्य॒ज्ञस्य॑ पवते॒ मधु॑ प्रि॒यं पि॒ता दे॒वानां॑ जनि॒ता वि॒भूव॑सुः ।  
+> दधा॑ति॒ रत्नं॑ स्व॒धयो॑रपी॒च्यं॑ म॒दिंत॑मो मत्स॒र इं॑द्रि॒यो रसः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ज्योतिः । यज्ञस्य । पवते । मधु । प्रियम् । पिता । देवानाम् । जनिता । विभुऽवसुः ।  
+> दधाति । रत्नम् । स्वधयोः । अपीच्यम् । मदिन्ऽतमः । मत्सरः । इंद्रियः । रसः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्य ज्योतिः प्रकाशकः सोमः प्रियं देवानां मधु मधुरं रसं पवते क्षरति । यद्वा । ज्योतिर्यज्ञस्येत्येतदपि मधुविशेषणम् । तथा सति उक्तलक्षणं मधु पवते पूयत इत्यर्थः । सोमरसो विशेष्यते । पिता रक्षिता देवानां जनिता उत्पादयिता सर्वस्य विभूवसुः प्रभूतधनः । ईदृशः सः स्वधयोः द्यावापृथिव्योः। ‘ स्वधे पुरंधी ' इति द्यावाथिवीनामसु पठितः । तयोः अपीच्यम् अंतर्हितं रत्नं रमणीयं धनं दधाति स्थापयति स्तोतृषु । पुनः स एव विशेष्यते । मदिंतमः मादयितृतमः मत्सरः सोमः इंद्रियः इंद्रेण जुष्ट इंद्रस्य वर्धको वा रसः रसरूपः ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+Soma, the light (ज्योतिः (*jyotiḥ*), the illuminator) of the sacrifice, distils the dear, sweet (मधु (*madhu*)) juice of the gods. Or else, ज्योतिर्यज्ञस्य (*jyotiryajñasya*) is also an adjective of मधु (*madhu*); then the sweet juice with the stated character is purified. Thus the Soma juice is qualified. He is the protector (पिता (*pitā*)) of the gods and the generator (जनिता (*janitā*)) of all, of abundant wealth (विभूवसुः (*vibhūvasuḥ*)). Such a one places in the two स्वधयोः (*svadhayoḥ*), that is, heaven and earth (the words स्वधे पुरंधी (*svadhe puraṃdhī*) are read among the names of heaven and earth), the hidden (अपीच्यम् (*apīcyam*)), lovely wealth (रत्नं (*ratnaṃ*)), establishing it among the worshippers. Again the same Soma is qualified: most exhilarating (मदिंतमः (*madiṃtamaḥ*)), the gladdener (मत्सरः (*matsaraḥ*)), dear to Indra or the increaser of Indra (इंद्रियः (*iṃdriyaḥ*)), in the form of juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—for the sacrifice
+- ज्योतिः (*jyotiḥ*)—Soma who makes light
+- देवानां (*devānāṃ*)—for the gods
+- प्रियं (*priyaṃ*)—dear
+- मधु (*madhu*)—and sweet juice
+- पवते (*pavate*)—makes flow
+- मदिंतमः (*madiṃtamaḥ*)—the joy-causing
+- मत्सरः (*matsaraḥ*)—the giver of delight
+- इंद्रियः (*iṃdriyaḥ*)—the giver of strength to Indra
+- रसः (*rasaḥ*)—in the form of juice
+- पिता (*pitā*)—the protector of all
+- देवानां (*devānāṃ*)—of the gods
+- जनिता (*janitā*)—the producer
+- विभूवसुः (*vibhūvasuḥ*)—possessing abundant wealth, Soma-deva
+- स्वधयोः (*svadhayoḥ*)—between Heaven and Earth
+- अपीच्यं (*apīcyaṃ*)—hidden
+- रत्नं (*ratnaṃ*)—lovely wealth
+- दधाति (*dadhāti*)—establishes
+
+### Printed p. 566
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who makes light for the sacrifice, makes flow for the gods the dear and sweet juice. Soma-deva, the joy-causing, the giver of delight, the giver of strength to Indra, in the form of juice, the protector of all, the producer of the gods, possessing abundant wealth, establishes the wealth hidden between Heaven and Earth.
+
+##### English translation
+The light of the sacrifice, he distils sweet (juice) delightful (to the gods), the parent of the gods, the generator (of all), possessed of ample wealth ; he supports the hidden wealth of heaven and earth, the most exhilarating, the exciting (Soma), the nourisher of (Indra), the juice.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि॒क्रंद॑न्क॒लशं॑ वा॒ज्य॑र्षति॒ पति॑र्दि॒वः श॒तधा॑रो विचक्ष॒णः ।  
+> हरि॑र्मि॒त्रस्य॒ सद॑नेषु सीदति मर्मृजा॒नोऽवि॑भिः॒ सिंधु॑भि॒र्वृषा॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिऽक्रंदन् । कलशम् । वाजी । अर्षति । पतिः । दिवः । शतऽधारः । विऽचक्षणः ।  
+> हरिः । मित्रस्य । सदनेषु । सीदति । मर्मृजानः । अविऽभिः । सिंधुऽभिः । वृषा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजी वेजनवान् गमनवान् अश्वसदृशो वा सोमः अभिक्रंदन् शब्दं कुर्वन् कलशम् अभि अर्षति गच्छति । कीदृशो वाजी । दिवः पतिः द्युलोकस्य स्वामी शतधारः शतसंख्याकधारः विचक्षणः विद्रष्टा । हरिः हरितवर्णो रसात्मकः सोमः मित्रस्य देवानां मित्रभूतस्य यज्ञस्य वा सदनेषु स्थानेषु सीदति पात्रेषु धृतः सन् । कीदृशो हरिः । सिंधुभिः स्यंदनसाधनैः अविभिः दशापवित्रच्छिद्रैः मर्मृजानः शोध्यमानः वृषा वर्षकः ॥
+
+##### Gist of the bhāṣya
+
+The swift (वाजी (*vājī*), one who goes, or like a horse) Soma goes crying out (अभिक्रंदन् (*abhikraṃdan*), making a sound) to the vessel (कलशम् (*kalaśam*)). Of what kind is he? The lord (पतिः (*patiḥ*)) of heaven (दिवः (*divaḥ*)), hundred-streamed (शतधारः (*śatadhāraḥ*), with a hundred streams), the beholder (विचक्षणः (*vicakṣaṇaḥ*), the seer). The green-hued (हरिः (*hariḥ*)) Soma, of the nature of juice, sits in the seats (सदनेषु (*sadaneṣu*)) of Mitra, that is, of the friend of the gods, or of the sacrifice, held in the vessels. Of what kind is the green one? Cleansed (मर्मृजानः (*marmṛjānaḥ*), purified) by the means of flowing (सिंधुभिः (*siṃdhubhiḥ*)) and by the holes of the ten-fold filter (अविभिः (*avibhiḥ*)), the showerer.
+
+### Printed p. 567
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the world of Dyaus
+- पतिः (*patiḥ*)—the lord
+- शतधारः (*śatadhāraḥ*)—in the form of many streams
+- विचक्षणः (*vicakṣaṇaḥ*)—of subtle sight
+- वाजी (*vājī*)—and powerful Soma
+- अभिक्रंदन् (*abhikraṃdan*)—making a sound
+- कलशं (*kalaśaṃ*)—to the Droṇa-kalaśa
+- अर्षति (*arṣati*)—goes
+- सिंधुभिः (*siṃdhubhiḥ*)—which are the means of flowing
+- अविभिः (*avibhiḥ*)—by the openings of the ten-fold filter
+- मर्मृजानः (*marmṛjānaḥ*)—having been purified
+- वृषा (*vṛṣā*)—the granter of wishes
+- हरिः (*hariḥ*)—and of green colour, Soma
+- मित्रस्य (*mitrasya*)—of the sacrifice that is dear to the gods
+- सदनेषु (*sadaneṣu*)—in the places
+- सीदति (*sīdati*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the lord of the world of Dyaus, in the form of many streams, of subtle sight and powerful, goes to the Droṇa-kalaśa, making a sound. Purified by the openings of the ten-fold filter, which are the means of flowing, Soma, the granter of wishes and of green colour, sits down in the places of the sacrifice.
+
+##### English translation
+The rapid (Soma) the lord of heaven, the thousand-streamed, the beholder (of all), rushes crying aloud to the pitcher; the green-tinted one. alights upon Mitra's dwelling-place, cleansed by the sheep's hairs and the waters, the showerer. **NOTE**
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्रे॒ सिंधू॑नां॒ पव॑मानो अर्ष॒त्यग्रे॑ वा॒चो अ॑ग्रि॒यो गोषु॑ गच्छति ।  
+> अग्रे॒ वाज॑स्य भजते महाध॒नं स्वा॑यु॒धः सो॒तृभिः॑ पूयते॒ वृषा॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्रे । सिंधूनाम् । पवमानः । अर्षति । अग्रे । वाचः । अग्रियः । गोषु । गच्छति ।  
+> अग्रे । वाजस्य । भजते । महाऽधनम् । सुऽआयुधः । सोतृऽभिः । पूयते । वृषा ॥ १२ ॥
+
+### Printed p. 568
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः पवमानः सिंधूनां स्यंदमानानामुदकानाम् अग्रे अर्षति गच्छति । तथा अग्रियः अग्रार्हः श्रेष्ठः अग्रे वाचः माध्यमिकाया अग्रे अर्षति। तथा गोषु रश्मिषु गच्छति । तथा वाजस्य अन्नस्य बलस्य वा लाभाय महाधनं संग्रामं भजते । सः स्वायुधः वृषा वर्षकः सोमः सोतृभिः अभिषवकर्तृभिः पूयते ॥
+
+##### Gist of the bhāṣya
+
+The Soma who, being purified, runs in front (अग्रे (*agre*)) of the flowing waters (सिंधूनां (*siṃdhūnāṃ*)); likewise, being foremost (अग्रियः (*agriyaḥ*), worthy of the front, the best), he runs in front of the speech (वाचः (*vācaḥ*)), that is, of the speech of the middle region; likewise he goes among the rays (गोषु (*goṣu*)). Likewise, to gain (वाजस्य (*vājasya*)) food or strength, he enters the battle of great wealth (महाधनं (*mahādhanaṃ*)). He, well-armed (स्वायुधः (*svāyudhaḥ*)), the showerer, Soma, is purified by the pressers (सोतृभिः (*sotṛbhiḥ*), the performers of the pressing).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः पवमानः (*yaḥ pavamānaḥ*)—which Soma-deva, named Pavamāna
+- सिंधूनां (*siṃdhūnāṃ*)—of the waters
+- अग्रे (*agre*)—in front
+- अर्षति (*arṣati*)—flows
+- अग्रियॆः (*agriyèḥ*)—who is the best **NOTE**
+- वाचः अग्रे (*vācaḥ agre*)—who is in front of the speech of the middle region
+- गोषु (*goṣu*)—among the rays
+- गच्छति (*gacchati*)—goes and joins
+- वाजस्य (*vājasya*)—for the gain of food
+- महाधनं (*mahādhanaṃ*)—abundant wealth
+- भजते (*bhajate*)—who partakes of; such
+- स्वायुधॆः (*svāyudhèḥ*)—having an excellent weapon **NOTE**
+- वृषा (*vṛṣā*)—and granting wishes, Soma
+- सोतृभिः (*sotṛbhiḥ*)—by those who press
+- पूयते (*pūyate*)—is purified
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, named Pavamāna, who flows in front of the waters, the best, who goes and joins the rays that stand in front of the speech of the middle region, who has abundant wealth for the gain of food, that Soma, who has an excellent weapon and grants wishes, is purified by those who press.
+
+##### English translation
+In the front of the waters rushes the filtered (Soma),foremost(he rushes) in the front of the voice, he goes amongst the rays ; in the front he engages in battle (to win) food ; well-armed, the showerer (of benefits), he is purified by the offerers of the oblation.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं म॒तवां॑छकु॒नो यथा॑ हि॒तोऽव्ये॑ ससार॒ पव॑मान ऊ॒र्मिणा॑ ।  
+> तव॒ क्रत्वा॒ रोद॑सी अंत॒रा क॑वे॒ शुचि॑र्धि॒या प॑वते॒ सोम॑ इंद्र ते ॥ १३ ॥
+
+### Printed p. 569
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । मतऽवान् । शकुनः । यथा । हितः । अव्ये । ससार । पवमानः । ऊर्मिणा ।  
+> तव । क्रत्वा । रोदसी इति । अंतरा । कवे । शुचिः । धिया । पवते । सोमः । इंद्र । ते ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः मतवान् । मतं संमतं प्रियं स्तोत्रम् । तद्वान् पवमानः पूयमानः शोध्यमानश्च सन् हितः प्रेरितः शकुनः पक्षी यथा शीघ्रं गच्छति तथा अव्ये पवित्रे ऊर्मिणा रसेन ससार गच्छति । हे कवे क्रांतप्रज्ञ अनूचान वा । ये वा अनूचानास्ते कवयः' (ऐ. ब्रा. २. ३८) इति श्रुतेः । तादृश यजमान यद्वा उक्तलक्षण इंद्र ते तव क्रत्वा कर्मणा धिया प्रज्ञया च । यद्वा । विशेषणविशेष्यभावः । धिया धारकेण क्रत्वा कर्मणा रोदसी अंतरा रोदस्योर्द्यावापृथिव्योरंतरा शुचिः सोमः पवते पूयते ॥
+
+##### Gist of the bhāṣya
+
+This Soma is मतवान् (*matavān*): मतं (*mataṃ*) is the agreeable, dear praise, and he possesses it. Being purified and cleansed, and sent forth (हितः (*hitaḥ*), impelled), as a bird (शकुनः (*śakunaḥ*)) goes swiftly, so he goes (ससार (*sasāra*)) in the filter (अव्ये (*avye*)) with the wave (ऊर्मिणा (*ūrmiṇā*), with the juice). O sage (कवे (*kave*)), that is, one of surpassing wisdom, or one who has studied the Veda (अनूचान (*anūcāna*)); as the Śruti says: ये वा अनूचानास्ते कवयः (*ye vā anūcānāste kavayaḥ*) (Ai. Brā. 2.38). Such a sacrificer, or, as already described, Indra: by your act (क्रत्वा (*kratvā*), rite) and wisdom (धिया (*dhiyā*)). Or else, there is a relation of qualifier and qualified: by the supporting rite (क्रत्वा (*kratvā*)) the pure (शुचिः (*śuciḥ*)) Soma flows, is purified, between heaven and earth (रोदसी अंतरा (*rodasī aṃtarā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Soma-deva
+- मतवान् (*matavān*)—endowed with praise
+- पवमानः (*pavamānaḥ*)—purified
+- हितः (*hitaḥ*)—and impelled
+- शकुनः यथा (*śakunaḥ yathā*)—as a bird runs
+- अव्ये (*avye*)—in the ten-fold filter
+- ऊर्मिणा (*ūrmiṇā*)—together with the juice
+- ससार (*sasāra*)—streams
+- कवे (*kave*)—of surpassing wisdom
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- क्रत्वा (*kratvā*)—by the rite
+- धिया (*dhiyā*)—and by the wisdom
+- रोदसी अंतरा (*rodasī aṃtarā*)—between Heaven and Earth
+- शुचिः (*śuciḥ*)—the bright
+- सोमः (*somaḥ*)—Soma
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, endowed with praise, purified and impelled by the priests, streams quickly in the form of juice in the ten-fold filter, as a bird runs. O Indra, of surpassing wisdom, by your rite and wisdom the bright Soma flows between this Heaven and Earth.
+
+##### English translation
+This (Soma) possessed of agreeable (praise), filtered, and sent forth, (quick) as a bird, goes with a stream (of juice) through the fleece ; by your sustainig act, by your intelligence, sage Indra, the pure Soma flows purified through both heaven and earth. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 563. Sūkta 86 Ṛks 4-8 and Saṃhitā of Ṛk 9
+**Progress note:** Done through printed p. 569. Sūkta 86 Ṛks 9-13
