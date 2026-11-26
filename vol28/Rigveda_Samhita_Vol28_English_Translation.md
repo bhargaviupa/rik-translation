@@ -10246,6 +10246,274 @@ Your form held secret by (men)with averted faces, is far from hence; when (heave
 
 O Indra, that body of yours is hidden, unknown to others, desirable to many who seek rain, of the nature of space, great, exceedingly vast; by that body you formerly produced what was and what will be. For the sake of the connection between past and future, येन (*yena*) is repeated. From the form of the Supreme Lord, of the nature of space and the rest, the past and future.
 
+### Printed p. 332
+
+> जगदुत्पद्यते । आकाशाद्वायुरित्यादिश्रुतेः । किंच प्रश्नं पुराणं पूर्वकालीनं
+> यज्योतिर्द्योतमानमादित्याख्यमदकाख्यं वास्येंद्रस्य प्रियं प्रियभूतं
+> तत्त्वं जातमुत्पन्नं प्रियाः प्रीयमाणाः पंच। पंच जना इति शेषः । भीमसेनो
+> भीम इतिवदेकदेशलक्षणा । निषादपंचमाश्चत्वारो वर्णाः समविशंत । संविशंते ।
+> स्वनिर्वाहार्थ० भजंत इत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+(Continuing Sāyaṇa's explanation of the previous verse.) From that ethereal form the world arises, as the śruti says "from ether, air" and so on. He adds that the ancient, earlier light which shines, called Āditya or *adakākhyaṃ* **NOTE**, has been born as dear to this Indra. Into it the five who delight in it enter; "five persons" is to be supplied. As *Bhīmasena* can be called just "भीम (*bhīma*)", this is a designation by one part of the name. The four castes, with the Niṣāda as fifth, enter it, that is, they resort to it to sustain themselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which heavenly body (light) of yours, of the nature of ether
+- भूतं (*bhūtaṃ*)—the earlier principles
+- भव्यं (*bhavyaṃ*)—the principles of the future
+- जनयः (*janayaḥ*)—you produced
+- अस्य (*asya*)—of you
+- प्रियं (*priyaṃ*)—as pleasing
+- जातं (*jātaṃ*)—born
+- प्रश्नं (*praśnaṃ*)—ancient **NOTE**
+- यत् ज्योतिः (*yat jyotiḥ*)—which divine light
+- प्रियाः (*priyāḥ*)—dear to you
+- पंच (*paṃca*)—the five kinds of persons, gods, men and the rest
+- समविशंत (*samaviśaṃta*)—serve
+- तत् नाम (*tat nāma*)—that divine light
+- गुह्यं (*guhyaṃ*)—secret
+- पुरुस्पृक् (*puruspṛk*)—desired by many
+- महत् (*mahat*)—exceedingly grown great
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, that divine light of yours, of the nature of ether, by which you produced the earlier principles and those of the future, and the ancient divine light, born as pleasing to you, which the five kinds of persons dear to you, gods, men and the rest, serve: that divine light is secret, desired by many, and exceedingly great.
+
+##### English translation
+That mighty mysterious form, desired of many, wherewith you have engendered the past, and (engender) the future, the ancient mani- fested light, the beloved of Indra, into which the five (orders of beings) delighted enter.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रोद॑सी अपृणा॒दोत मध्यं॒ पंच॑ दे॒वा ऋ॑तु॒शः स॒प्तस॑प्त ।  
+> चतु॑स्त्रिंशता पुरु॒धा वि च॑ष्टे॒ सरू॑पेण॒ ज्योति॑षा॒ विव्र॑तेन ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रोदसी इति । अपृणात् । आ । उत । मध्यं । पंच । देवान् । ऋतुशः ।  
+> सप्तसप्त ।
+
+### Printed p. 333
+
+> चतुःत्रिंशता । पुरुधा । वि । चष्टे । सरूपेण । ज्योतिषा । विव्रतेन ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्र आत्मीयेन शरीरेण तेजसा वा रोदसी द्यावापृथिव्यावा
+> सर्वतोऽपृणात् । पूरयति । उतापि च मध्यं द्युभूम्यपेक्षया मध्यभूतमंतरिक्षमपृणादिति वर्तते । तदपि स्वशरीरेण तेजसा वा पूरयति । किंच पंच देवान्
+> देवमनुष्यपित्रसुरराक्षससंज्ञकान् तथा सप्त सप्त । द्विरुक्ता सप्त संख्याकानि
+> तत्वानि लोके यानि संति तानि परिगृह्यंते । कानि तानीति सप्तमरुद्धणान् सप्तादित्यरश्मीन् सप्त चेंद्रियाणि सप्त लोकानन्यानपि सप्तसंख्योपेतानृतुशः काले
+> काले चतुस्त्रिंशता चतुस्त्रिंशत्संख्याकेन देवगणेन सह पुरुधा बहुप्रकारं
+> वि चष्टे । विपश्यति । सर्वदेक्षते । अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च
+> वषट्कारश्च विराट् चेति चतुस्त्रिंशत्त्वं देवानां । केनेति तदुच्यते । सरूपेण
+> समानरूपेण ज्योतिषा प्रकाशकेन विव्रतेन विविधेन कर्मणा ॥
+
+##### Gist of the bhāṣya
+
+This Indra, with his own body or radiance, filled रोदसी (*rodasī*), heaven and earth, on all sides. उत (*uta*) also he filled the middle, the atmosphere, which lies between heaven and earth; "filled" is to be understood there too, and he fills it with his body or radiance. Further, he surveys the five kinds of gods, named gods, men, fathers, asuras and rākṣasas, and also the "seven, seven": the doubled seven means that all the groups of seven principles that exist in the world are taken in. Which are they? The seven Marut groups, the seven rays of the sun, the seven senses, the seven worlds, and other sevenfold things. He looks upon them in their seasons, time after time, in many ways together with the group of thirty-four gods. He sees, always looks. The thirty-fourfold number of the gods is: eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati, Vaṣaṭkāra and Virāṭ. By what means? By light of like form, that is, illuminating, and by varied activity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- रोदसी (*rodasī*)—heaven and earth
+- आ (*ā*)—everywhere
+- आ अपृणात् (*ā apṛṇāt*)—pervades (with his radiance)
+- सरूपेण (*sarūpeṇa*)—by light of one kind
+- ज्योतिषा (*jyotiṣā*)—by brightness
+- विव्रतेन (*vivratena*)—and by action of many kinds
+- पंच देवान् (*paṃca devān*)—the five kinds of persons, gods, men and the rest
+- सप्त सप्त (*sapta sapta*)—all principles of the number seven, rooted in the sun's rays
+- ऋतुशः (*ṛtuśaḥ*)—each at its proper time
+- चतुस्त्रिंशता (*catustriṃśatā*)—with the groups of gods numbering thirty-four
+- पुरुधा (*purudhā*)—in many ways
+- वि चष्टे (*vi caṣṭe*)—looks upon
+
+##### भावार्थ (Bhāvārtha)
+
+Indra with his radiance fully pervades heaven and earth and the atmosphere. By light of one kind and by actions of many kinds he looks in many ways upon the five kinds of persons, gods, men and the rest, and all the principles of the number seven rooted in the sun's rays, each at its proper time, together with the groups of thirty-four gods.
+
+##### English translation
+He has filled heaven and earth (with his ethereal form) as well as the mid-heaven ; he contemplates in various aspects the five orders of beings, the classes of seven in their seasons, with the thirty-four (deities), (endowed) with light of like nature, and with various functions.
+
+### Printed p. 334
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदु॑ष॒ औच्छः॑ प्रथ॒मावि॒भाना॒मज॑नयो॒ येन॑ पु॒ष्टस्य॑ पु॒ष्टं ।  
+> यत्ते॑जामि॒त्वमव॑रं॒ पर॑स्या म॒हन्म॑ह॒त्या अ॑सुर॒त्वमेकं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । उषः । औच्छृः । प्रथमा । विभानां । अजनयः । येन । पुष्टस्य । पुष्टं ।  
+> यत् । ते । जामित्वं । अवरं । परस्याः । महत् । महत्याः । असुरत्वं । एकं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र प्रसंगात्सूर्यात्मकेंद्रसंबंधिन्युषाः स्तूयते । हे उष उषोदेवते विभानां विभासकानां ग्रहनक्षत्रादीनां प्रथमा प्रथमभूता सत्यौच्छः ।
+> विभासनमकरोः। अग्रे ह्युषसः प्रादुर्भवंति पश्चादन्यानि तेजांसि । येन च तेजसा
+> पुष्टस्य पोषयुक्तस्यापि पदार्थस्य पुष्टमतिशयेन पोषयुक्तमादित्यमजनयः ।
+> उदपादयः । यत् यद्वा ते तव जामित्वं बांधवनवरमवाज्मुखं । अस्मवभिमुखमित्यर्थः । कीदृश्यास्तवेत्युच्यते । परस्याः । उपरि स्थिताया इत्यर्थः । तदिदं महत्यास्तव महदतिप्रवृद्धमेकमसाधारणमेकमेव वासुरत्वं प्रकृष्टबलवत्त्वं । तव
+> बलेन कृतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Here, by the way, Uṣas belonging to Indra in his solar form is praised. O Uṣas, goddess of dawn, you, being the first of the luminaries, the planets, stars and the rest, shone forth, brought light; for the dawns appear first and the other lights afterwards. And by the radiance by which you begot the nourished of the nourished, that is, Āditya, exceedingly full of nourishment: or यत् (*yat*) that kinship of yours is turned downward, facing us. Of what sort of you is this said? Of you who are परस्याः (*parasyāḥ*), situated above. Thus this is of you who are great: the one, unique, greatly increased असुरत्वं (*asuratvaṃ*), excellent strength; it is meant that it is wrought by your power.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- यत् (*yat*)—by which greatness of yours
+- विभानां (*vibhānāṃ*)—than the luminous Ādityas and the rest
+- प्रथमा (*prathamā*)—as the first
+- औच्छः (*aucchaḥ*)—you shone
+- येन (*yena*)—by which majesty of yours
+- पुष्टस्य (*puṣṭasya*)—than all things that possess nourishment
+- पुष्टिं (*puṣṭiṃ*)—him who has the greatest nourishment, Āditya
+- अजनयः (*ajanayaḥ*)—you produced (Āditya, the nourisher of them all)
+- परस्याः (*parasyāḥ*)—though in a lofty station
+- ते (*te*)—your
+- जामित्वं (*jāmitvaṃ*)—relationship
+- यत् (*yat*)—by which generosity
+- अवरं (*avaraṃ*)—is connected with the lower world
+- महत्याः (*mahatyāḥ*)—of you who are of great nature
+- महत् (*mahat*)—exceeding
+- असुरत्वं (*asuratvaṃ*)—power
+- एकं (*ekaṃ*)—is unique
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, by your greatness by which you shone as the first before the luminous Ādityas and the rest, by your majesty by which you produced Āditya, the nourisher of the whole world,
+### Printed p. 335
+and by your generosity by which, though you are in a lofty station, your relationship is with the lower world: such exceeding power of yours, of great nature, is unique.
+
+##### English translation
+Since you, Ushas, shone forth the first of luminaries, whereby you begot the nourishment of nourishment (the sun); unequalled is the mighty greatness of you who are mighty, since your relationship is down- wards (towards us), though you are stationed on high.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒धुं द॑द्रा॒णं सम॑ने बहू॒नां युवा॑नं॒ संतं॑ पलि॒तो  ॑
+> जगार ॥ ।  
+> दे॒वस्य॑ पश्य॒ काव्यं॑ महि॒त्वाद्या म॒मार॒ स ह्यः समा॑न ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विधुं । दद्राणं । समने । बहूनां । युवानं । संतं । पलितः । जगार ।  
+> देवस्य । पश्य । काव्यं । महित्वा । अद्य । ममार । सः । ह्यः । सं । आन ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महाव्रते निष्केवल्ये विधुं दद्राणमित्येषा । सूत्रितं च । आ याह्यर्वाजुप
+> वंधुरेष्ठा विधुं दद्राणमिति ॥
+> अनया कालात्मक इंद्रः स्तूयते । विधुं विधातारं सर्वस्य युद्धादेः
+> कर्तारं । विपूर्वो दधातिः करोत्यर्थः । तथा समने अननमनः प्राणनं । सम्यगननोपेते संग्रामे बहूनां शत्रूणां दद्राणं द्रावकं ईदृक्षामर्थ्योपेतं
+> युवानं संतं पुरुषं पलितो जरा जगार । निगिरतींद्राज्ञया । एवमुक्तलक्षणं
+> वक्ष्यमाणलक्षणं च देवस्य कालात्मकस्येंद्रस्य महित्वा महत्वेनोपेतं काव्यं
+> सामर्थ्यं पश्य । पश्यत हे जनाः । तथा जरसा प्राप्तोऽयं ममार । म्रियते । स
+> ह्यः परेद्युः समान । सम्यक्क्षेष्टते । पुनर्जन्मांतरे प्रादुर्भवतीत्यर्थः । तदेवं
+> चत्वारि नामानि शरीराण्युक्तानि ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāvrata, in the Niṣkevalya, this verse विधुं दद्राणं (*vidhuṃ dadrāṇaṃ*) is used. It is also put in sūtra form: आ याह्यर्वाजुप वंधुरेष्ठा विधुं दद्राणमिति (*ā yāhyarvājupa vaṃdhureṣṭhā vidhuṃ dadrāṇamiti*). By this verse Indra in the form of Time is praised. विधुं (*vidhuṃ*) is the arranger, the doer of everything, of war and the rest; the root दधाति (*dadhāti*) with वि (*vi*) has the meaning "does". समने (*samane*): *ananaṃ* is breathing; in a battle where there is fully breathing, the man who scatters many enemies, endowed with such ability, who is young, grey old age swallows, at Indra's command. Thus, O people, behold the power of the deity Indra, whose form is Time, endowed with greatness, such as has been described and will be described. Then this same man, overcome by old age, dies; and on the next day समान (*samāna*), he breathes again; that is, he appears again in another birth. Thus four names, that is bodies, have been stated.
+
+### Printed p. 336
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विधुं (*vidhuṃ*)—one who has the ability to carry through many wars
+- समने (*samane*)—in battle
+- बहूनां (*bahūnāṃ*)—many enemies
+- दद्राणं (*dadrāṇaṃ*)—the man who drives them off
+- युवानं संतं (*yuvānaṃ saṃtaṃ*)—though young
+- पलितः (*palitaḥ*)—old age
+- जगार (*jagāra*)—covers him
+- देवस्य (*devasya*)—(O men) of Indra, whose form is Time
+- महित्वा (*mahitvā*)—endowed with majesty
+- काव्यं (*kāvyaṃ*)—power
+- पश्य (*paśya*)—behold
+- सः (*saḥ*)—that same man
+- अद्य (*adya*)—today
+- ममार (*mamāra*)—meets death
+- ह्यः (*hyaḥ*)—the next day
+- समान (*samāna*)—breathes again (obtains rebirth)
+
+##### भावार्थ (Bhāvārtha)
+
+A man who has the ability to carry through many wars and who destroys many enemies in battle, though he is young, old age covers him. O people, behold the majestic power of Indra, whose form is Time. That same man dies today. Again, after a time, he obtains rebirth.
+
+##### English translation
+The grey-haired has swallowed the warlike (man), the scatterer of many foes, in battle being young; behold the power of the deity (endowed) with might ; he dies to-day ; he is alive to-morrow.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this verse विधुं दद्राणं (*vidhuṃ dadrāṇaṃ*) is to be recited among the Niṣkevalya-śastra mantras in the Mahāvrata sacrifice is explained by the sentence of the Aitareya Āraṇyaka, आ याह्वर्वाजुप वंधुरेष्ठा विधुं दद्राणं (*ā yāhvarvājupa vaṃdhureṣṭhā vidhuṃ dadrāṇaṃ*) (Ai. Ā. 5-3-1).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शाक्क॑ना शा॒को अ॑रु॒णः सु॑प॒र्ण आ यो म॒हः शूरः॑ स॒नादनी॑ळः ॥  
+> यच्चि॒केत॑ स॒त्यमित्तन्न मोघं॒ वसु॑ स्पा॒र्हमु॒त जेतो॒त  ॑
+> दाता ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शाक्मना । शाकः । अरुणः । सुपर्णः । आ । यः । महः । शूरः । सनात् । अनीळः ।
+
+### Printed p. 337
+
+> यत् । चिकेत । सत्यं । इत् । तत् । न । मोघं । वसु । स्पार्हं ! उत । जेता । उत ।  
+> दाता ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शाक्कना । शक्त्येव शाक्क । शक्कना बलेन शाकः शक्तः ॥ शक्त्यशक्तौ । स्वशक्तैव
+> सर्वं कर्तुं शक्त इत्यर्थः। न हींद्रस्य सहायांतरापेक्षास्तींद्रत्वादेव ।
+> अरुणोऽरुणवर्णः सुपर्णः कश्चिच्छोभनपर्णः पक्ष्या गच्छतीत्यध्याहारः । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । यो महो महाञ्चरो विक्रांतः सनात्
+> पुराणोऽनीळोऽनीडो नीडस्याकर्ता । न हींद्रोऽग्निवत् कुत्रचिदपि यज्ञे
+> निकेतनं करोति । एवं सुपर्णरूपेणेंद्रमाह । स पक्षींद्रो यच्चिकेत कर्तव्यत्वेन जानाति तत्सत्यमित् सत्यमेव न तु मोघं व्यर्थं भवति । स स्पार्हं स्पृहणीयं वसूत जेता जयति शत्रुभ्यः सकाशात् उतापि दाता प्रयच्छति च स्तोतृभ्यः॥
+> न लोकाव्ययेत्यादिना षष्ठिप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+शाक्कना (*śākkanā*) means by power, by strength; शाकः (*śākaḥ*) is capable. That is, he is able to do everything by his own power alone; for Indra, by his very Indra-hood, needs no other help. अरुणः (*aruṇaḥ*) is red-coloured; सुपर्णः (*suparṇaḥ*) is one with beautiful wings; "goes by flight" is to be supplied, and "comes" is supplied from the preverb आ (*ā*) heard in the verse. He who is महः (*mahaḥ*), great, शूरः (*śūraḥ*), valiant, सनात् (*sanāt*), ancient, अनीळः (*anīḷaḥ*), makes no nest; for Indra, unlike Agni, does not make a dwelling anywhere in the sacrifice. Thus he speaks of Indra in the form of a bird. What that bird Indra knows as to be done, that is truly true, not vain. He is the winner of desirable wealth from enemies, and also the giver of it to the praisers. The rest of the passage cites the rule न लोकाव्ययेत्यादिना (*na lokāvyayetyādinā*) for the prohibition of the genitive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शाक्मना (*śākmanā*)—endowed with inner power
+- शाकः (*śākaḥ*)—joined with strength
+- यः (*yaḥ*)—which Indra
+- महः (*mahaḥ*)—great-souled
+- शूरः (*śūraḥ*)—valiant
+- सनात् (*sanāt*)—ancient
+- अनीळः (*anīḷaḥ*)—nestless
+- सुपर्णः (*suparṇaḥ*)—in the form of a bird
+- अरुणः (*aruṇaḥ*)—the golden-hued Indra
+- आ (*ā*)—comes
+- यत् (*yat*)—what (that same Indra)
+- चिकेत (*ciketa*)—knows
+- तत् (*tat*)—that
+- सत्यं इत् (*satyaṃ it*)—is truly of the nature of truth
+- न मोघं (*na moghaṃ*)—not false
+- स्पार्हं (*spārhaṃ*)—desired by all
+- वसु (*vasu*)—wealth
+- जेता (*jetā*)—the conqueror
+- उत (*uta*)—and
+- दाता (*dātā*)—the giver
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who, endowed with inner power, is great-souled, valiant, ancient, and a nestless bird in form, such golden-hued Indra comes. That which the same Indra knows is truly of the nature of truth. It does not become false. Indra is the winner of attractive wealth and the giver of it.
+
+##### English translation
+Vigorous with (innate) vigour, (comes a) purple-coloured bird, mighty, heroic, ancient, having no nest : that which he knows is truth, and is not vain :(he is) the conqueror and distributor of desirable wealth.
+
 ---
 
-**Progress note:** Done through printed p. 331. pp. 326-331 (batch API)
+**Progress note:** Done through printed p. 337. pp. 332-337 (batch API)
