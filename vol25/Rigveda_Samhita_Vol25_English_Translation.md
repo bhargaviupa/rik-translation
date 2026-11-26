@@ -4408,6 +4408,283 @@ Why is this (repeated invocation) addresred to you as if you were decrepit like 
 
 O Aśvins, the kinship of birth (सजात्यं (*sajātyaṃ*)) between the two of you is common (समानम् (*samānam*)), one only; for both of you the common birth is from the wife of Sūrya in the form of a mare. Likewise the binder (बंधुः (*baṃdhuḥ*)) of you two is common, one only. **NOTE**
 
+### Printed p. 109
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- वां (*vāṃ*)—of you two
+- सजात्यं (*sajātyaṃ*)—the family relationship
+- समानं (*samānaṃ*)—is one and the same
+- बंधुः (*baṃdhuḥ*)—the kinship also
+- समानः (*samānaḥ*)—is one and the same
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to me
+- भूत् (*bhūt*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the family relationship of you two is one and the same. Your kinship is also the same. (Therefore I belong to both of you in the same way.) Grant that your protection may be very close to me.
+
+##### English translation
+Aswins, your relationship is common and you have a common kinsman ; let your protection abide near me
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॒ रजां॑स्यश्विना॒ रथो॑ वि॒याति॒ रोद॑सी ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वाम् । रजांसि । अश्विना । रथः । विऽयाति । रोदसी इति ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वां युवयोः यः रथः अस्ति स रथः रजांसि लोकान् रोदसी द्यावापृथिव्यौ च वियाति विशेषेण गच्छति । अतस्तेन रथेन शीघ्रमागच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The car (रथः (*rathaḥ*)) which is yours moves specially (वियाति (*viyāti*)) through the worlds (रजांसि (*rajāṃsi*)) and through heaven and earth (रोदसी (*rodasī*)). Therefore come quickly with that car; this is the part to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- वां (*vāṃ*)—your
+- यः (*yaḥ*)—which famous
+- रथः (*rathaḥ*)—car there is
+- रजांसि (*rajāṃsi*)—all the worlds
+- रोदसी (*rodasī*)—heaven and earth
+
+### Printed p. 110
+- वियाति (*viyāti*)—it moves round exceedingly
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, your famous car moves exceedingly through all the worlds and through heaven and earth. May your protection always be close to us.
+
+##### English translation
+Your chariot, Aswins, moves swiftly through the worlds, through heaven and earth ; let your protection abide near me.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ गव्ये॑भि॒रश्व्यैः॑ स॒हस्रै॒रुप॑ गच्छतम् ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गव्येभिः । अश्व्यैः । सहस्रैः । उप । गच्छतम् ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ नः अस्मान् सहस्रैः अपरिमितैः गव्येभिः गोसमूहैः अश्व्यैः अश्वसमूहैश्च उप गच्छतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come to us (नः (*naḥ*)) with thousands (सहस्रैः (*sahasraiḥ*)), that is with countless herds of cattle (गव्येभिः (*gavyebhiḥ*)) and herds of horses (अश्व्यैः (*aśvyaiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) नः (*naḥ*)—to us
+- सहस्रैः (*sahasraiḥ*)—countless
+- गव्येभिः (*gavyebhiḥ*)—with herds of cattle
+- अश्वैः (*aśvaiḥ*)—with herds of horses
+- उप आ गच्छतं (*upa ā gacchataṃ*)—graciously come
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, graciously come to us with countless herds of cattle and herds of horses. May your protection always be very close to us.
+
+### Printed p. 111
+
+##### English translation
+Come to us with thousands of herds of cattle and horses; let your protection abide near me.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॒ गव्ये॑भि॒रश्व्यैः॑ स॒हस्रे॑भि॒रति॑ ख्यतम् ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । गव्येभिः । अश्व्यैः । सहस्रेभिः । अति । ख्यतम् ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ गव्येभिः गोसमूहैः अश्व्यैः अश्वसमूहैः सहस्रेभिः सहस्रसंख्याकैः मा अस्मान् अति ख्यतम् । अतीति प्रतीत्यस्मिन्नर्थे । मा निवारयतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, do not pass us by (अति ख्यतम् (*ati khyatam*)) with thousands (सहस्रेभिः (*sahasrebhiḥ*)), that is with herds of cattle (गव्येभिः (*gavyebhiḥ*)) and herds of horses (अश्व्यैः (*aśvyaiḥ*)); the meaning is: do not hinder us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) सहस्रेभिः (*sahasrebhiḥ*)—countless
+- गव्येभिः (*gavyebhiḥ*)—with herds of cattle
+- अश्वैः (*aśvaiḥ*)—and with herds of horses, you who are accompanied
+- नः (*naḥ*)—us
+- मा अति ख्यतं (*mā ati khyataṃ*)—do not go past us (neglecting us)
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you who are accompanied by countless herds of cattle and herds of horses, do not pass us by without regarding us. May your protection always be very close to me.
+
+##### English translation
+Pass us not by with your thousands of heards of cattle and horses ; let your protection abide near me.
+
+### Printed p. 112
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒रु॒णप्सु॑रु॒षा अ॑भू॒दक॒र्ज्योति॑रृ॒ताव॑री ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरुणऽप्सुः । उषाः । अभूत् । अकः । ज्योतिः । ऋतऽवरी ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ उषाः अरुणप्सुः शुभ्रवर्णा अभूत् भवति । न केवलं स्वयम् । ज्योतिः तेजः अकः करोति अंति सर्वतः ऋतावरी ऋतवत्युषाः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, Uṣas has become bright-hued (अरुणप्सुः (*aruṇapsuḥ*)). Not only herself: she makes (अकः (*akaḥ*)) light (ज्योतिः (*jyotiḥ*)) on every side (अंति (*aṃti*)); Uṣas is possessed of ṛta (ऋतावरी (*ṛtāvarī*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) अरुणप्सुः (*aruṇapsuḥ*)—of bright hue
+- उषाः (*uṣāḥ*)—the goddess Uṣas
+- अभूत् (*abhūt*)—has appeared
+- ऋतावरी (*ṛtāvarī*)—Uṣas, who is chief for the sacrifice
+- ज्योतिः (*jyotiḥ*)—her radiance (everywhere)
+- अकः (*akaḥ*)—makes (spreads)
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the bright-hued goddess Uṣas has appeared. Uṣas, who is chief for the sacrifice, has cast her radiance everywhere. O Aśvins, grant that your protection may be very close to us.
+
+##### English translation
+The purple-tinted Dawn has appeared, the mistress of the sacrifice spreads her light ; let your protection abide near me.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्विना॒ सु वि॒चाक॑शद्वृ॒क्षं प॑रशु॒माँ इ॑व ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १७ ॥
+
+### Printed p. 113
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । सु । विऽचाकशत् । वृक्षम् । परशुमान्ऽइव ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सु विचाकशत् अत्यंतं दीप्यमानः सूर्योऽग्निर्वा वृक्षं परशुमानिव स यथा शकलयति तद्वत्तमो निशारयतीति शेषः । दृष्टांतसामर्थ्यादेवं लभ्यते । यस्मादेवं तस्मात् अश्विना अश्विनावाह्वय इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The sun or Agni, shining exceedingly (सु विचाकशत् (*su vicākaśat*)), as a man with an axe (परशुमान् (*paraśumān*)) splits a tree (वृक्षं (*vṛkṣaṃ*)), so he drives away the darkness; this is the part to be supplied. This is understood from the force of the simile. Since it is so, "I invoke the Aśvins" is the part to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) परशुमान् (*paraśumān*)—the woodcutter who holds an axe
+- वृक्षं इव (*vṛkṣaṃ iva*)—as he cuts a tree to pieces and splits it
+- सु विचाकशत् (*su vicākaśat*)—the shining sun (or Agni) scatters the darkness
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंति षत् (*aṃti ṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as a woodcutter who holds an axe cuts a tree to pieces and splits it, so the shining sun, or Agni, scatters the darkness (the black gloom). Grant that your protection may always be very close to us.
+
+##### English translation
+Aswins, the splendidly-brilliant (sun cleaves the darkness) as the woodman with his axe a tree ; let your protection abide near me.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुरं॒ न धृ॑ष्ण॒वा रु॑ज कृ॒ष्णया॑ बाधि॒तो वि॒शा ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरम् । न । धृष्णो इति । आ । रुज । कृष्णया । बाधितः । विशा ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 114
+
+> हे धृष्णो धर्षक सप्तवध्रे त्वं कृष्णया आकर्षया विशा प्रवेशयंत्या पेटिकया बाधितः त्वं ततो निर्गत्य तामेव आ रुज पीडय अश्विनोरनुग्रहात् । एवं स्वयं स्वात्मानं प्रेष्यति । अथवा गोपवनः सप्तवध्रिमेवं ब्रवीति । वां युवयोः अवः रक्षणं गमनं वा समीपे । तत्र त्रिषु वर्गेषु  अंति षत्' इत्युत्तरोऽर्धर्चोऽन्वितपदाध्याहारेण योज्यः ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+O bold (धृष्णो (*dhṛṣṇo*)) Saptavadhri, you, afflicted (बाधितः (*bādhitaḥ*)) by the dark (कृष्णया (*kṛṣṇayā*)) chest (पेटिकया (*peṭikayā*)) that draws in and encloses (विशा (*viśā*)), come out of it and break (आ रुज (*ā ruja*)) that very chest, by the favour of the Aśvins. So he exhorts himself. Or else Gopavana speaks thus to Saptavadhri. Your (वां (*vāṃ*)) protection (अवः (*avaḥ*)) or going is near. In the three vargas the latter half-Ṛk अंति षत् (*aṃti ṣat*) is to be connected by supplying a fitting word.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृष्णो (*dhṛṣṇo*)—O Saptavadhri, who have firm strength
+- कृष्णया (*kṛṣṇayā*)—that binds
+- विशा (*viśā*)—by the chest
+- बाधितः (*bādhitaḥ*)—you, who are harmed
+- पुरं न (*puraṃ na*)—as one splits an enemy's city and comes out
+- आ रुज (*ā ruja*)—split that chest and come out (O Aśvins)
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Saptavadhri, who have firm strength, harmed by the chest that bound you, split that chest and come out, as one splits an enemy's city and comes out. O Aśvins, may your protection be very close to me.
+
+##### English translation
+O bold Saptavadhri, distressed by the entangling and detaining (basket), break through it as through a city ; let your protection ( Aswins ) abide near me.
+
+## Sūkta 74 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘विशोविशो वः' इति पंचदशर्चं पंचमं सूक्तम् । अत्रेयमनुक्रमणिका -–• विशोविशो वः पंचोनाग्नेयं त्वनुष्टुम्मुखास्तृचाश्चत्वारोऽंत्यास्तिस्रोऽनुष्टुभ आर्क्षस्य श्रुतर्वणो दानस्तुतिः' इति । अनुवृत्तेर्गोपवन ऋषिः । आदितस्त्रिषु तृचेषु सर्वाः प्रथमा अनुष्टुभो द्वितीयातृतीये प्राग्वत्सप्रपरिभाषया गायत्र्यौ त्रयोदश्याद्यास्तिस्रोऽनुष्टुभः । अस्योत्तरस्य चाग्निर्देवता । अंत्यास्तिस्रः श्रुतर्वनाम्नो राज्ञो दानस्तुतिः । व्योमविश्वदेवस्तुत्पंचशारदीयेष्विदं सूक्तमाज्यशस्त्रम् । सूत्रितं च-’ विशोविशो वो अतिथिमित्याज्यम्' (आश्व. श्रौ. ९. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विशोविशो वः (*viśoviśo vaḥ*) has fifteen Ṛks and is the fifth sūkta. The Anukramaṇikā says of it that it is addressed to Agni, that four tṛcas begin with an Anuṣṭubh and that the last three Ṛks are Anuṣṭubh, and that it is a praise of the gift of Śrutarvan, son of Ṛkṣa. Gopavana is the seer, by continuation. In the three tṛcas from the beginning all the first Ṛks are Anuṣṭubh and the second and third are Gāyatrī, as before; the thirteenth and the two following are Anuṣṭubh. The deity of this and of the following is Agni. The last three are a praise of the gift of the king named Śrutarvan. This sūkta is the Ājya-śastra in certain rites; the use is set out in the sūtra विशोविशो वो अतिथिमित्याज्यम् (*viśoviśo vo atithimityājyam*) (Āśv. Śrau. 9. 8). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 108. Sūkta 73 Ṛks 5 (end)-12
+**Progress note:** Done through printed p. 114. Sūkta 73 Ṛks 12-18; start of Sūkta 74
