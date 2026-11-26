@@ -120,7 +120,10 @@ def sanskrit(doc):
                     if not _DV.search(nxt) and (_IASTCH.search(nxt) or re.search(r'\|\s*$|‖', nxt)):
                         prev = ''.join(out[-3:]).rstrip()
                         br = '' if re.search(r'(<p>|<br ?/?>|<blockquote[^>]*>)$', prev) else '<br>'
-                        out.append(br + '<em class="iast">'); continue
+                        out.append(br + '<em class="iast">'); in_em = True; continue
+                if t == '</em>' and in_em:
+                    in_em = False; nxt = parts[k + 1] if k + 1 < len(parts) else ''
+                    out.append('</em>' + ('<br>' if nxt.strip() else '')); continue                    # the English after it begins a new line too
                 out.append(t)
             else:
                 out.append(_DVRUN.sub(lambda r: f'<span class="dv">{r.group(0)}</span>', t))
