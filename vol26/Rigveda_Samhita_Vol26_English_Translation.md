@@ -27395,12 +27395,6 @@ the works of fixed syllables, that is, in metres containing a fixed number of sy
 
 #### Ṛk 16
 
-#### Ṛk 17
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 18
-
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > सा॒यु॒धः सो॒तृभिः॑ पू॒यमा॑नो॒ऽभ्य॑र्ष॒ गुह्यं॒ चारु॒ नाम॑ ।  
@@ -27474,12 +27468,6 @@ Of these ten implements of the sacrifice, the eighth, ninth and tenth are used i
 The manner of crushing the Soma-plant and preparing the Soma-juice is nowhere described at length in the Ṛgveda. From some sentences stated here and there that manner can be inferred. The stones that crush the Soma-plants have the names ग्रावा (*grāvā*) and अद्रि (*adri*). In some contexts the wooden boards famous by the name अधिषवण (*adhiṣavaṇa*) are also used. If the plant is fresh, the juice comes in plenty. If not, that is, if some days have passed since it was gathered and brought, they soak it in water and afterwards place it on a skin. Then they crush it with stones and take out the juice. Because in the juice so taken pieces and bits of the plant and the like are mixed, they filter that juice either through the gaps of the fingers of the hands, or through a sieve or cloth called पवित्र (*pavitra*), or through the sheep's wool **NOTE**. The juice filtered in this way is bright, without impurities. It has the names शुक्र, शुचि (*śukra, śuci*). In appearance this juice is of a dull reddish colour, or a red mixed with yellow. It is the custom to offer to Indra and Vāyu the pure Soma-juice, that is, without any admixture of mixing substances. For the other deities they use it mixed with milk, curds and grain flour. The Soma-juice mixed with these has respectively the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*).
 
 #### Ṛk 17
-
-#### Ṛk 18
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 19
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
