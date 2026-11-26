@@ -13129,6 +13129,282 @@ This Soma poured forth for you, shining (Pushan) flows like pure ghee : may he b
 > वा॒चो जं॒तुः क॑वी॒नां पव॑स्व सोम॒ धार॑या ।  
 > दे॒वेषु॑ रत्न॒धा अ॑सि ॥ १३ ॥
 
+### Printed p. 352
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाचः । जंतुः । कवीनाम् । पवस्व । सोम । धारया ।  
+> देवेषु । रत्नऽधाः । असि ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम कवीनां क्रांतप्रज्ञानां स्तोतॄणां वाचो जंतुः स्तुतेर्जनयिता । यद्वा । मेधाविनां मध्ये त्वमेव वाचं जनयसि । अत्यंतं वाग्मी त्वं धारया पवस्व द्रोणकलशं ग्रहांश्च प्राप्नुहि । तत इंद्रादिदेवेषु रत्नधाः रमणशीलस्य सोमस्य निधाता असि भवसि । अथवा । देवेषु स्तोत्रकारिषु कर्म कुर्वाणेषु वास्मासु रत्नस्य कनकादेर्दाता भवसि । ।
+> ग्रावस्तोत्रे गाणगारिमतेनाभिरूपकरणे कलशेषु सोम आसिच्यमाने वक्तव्यस्य तृचस्य ‘आ कलशेषु' इत्यादिके द्वितीयातृतीये । सूत्रितं च---’ आ कलशेषु धावति श्येन वर्म वि गाहत इति द्वे' (आश्व. श्रौ. ५. १२) इति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are the begetter of the speech of the kavis, the wise praisers, that is, the begetter of their praise. Or else: among the wise you alone bring speech into being; being exceedingly eloquent, flow in a stream, reach the Droṇa vessel and the cups. Then, among the gods, Indra and the others, you are the placer of the delight-giving Soma. Or else: among the gods, that is, among us, the praisers who are performing the rite, you are the giver of treasure, gold and the like. Viniyoga: in the Grāvastotra, according to the view of Gāṇagāri, in the abhirūpa-karaṇa, when Soma is being poured into the vessels, of the tṛca that is to be recited, beginning आ कलशेषु (*ā kalaśeṣu*), the second and the third Ṛk are these; and it is stated in the sūtra (Āśv. Śrau. 5. 12) **NOTE** that the two, beginning with the words आ कलशेषु (*ā kalaśeṣu*), are meant. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- कवीनां (*kavīnāṃ*)—to the wise
+- वाचः (*vācaḥ*)—the word of praise
+- जंतुः (*jaṃtuḥ*)—you who impel
+- धारया (*dhārayā*)—in the form of a stream
+- पवस्व (*pavasva*)—flow
+- देवेषु (*deveṣu*)—among the gods
+- रत्नधाः (*ratnadhāḥ*)—as the abode of wealth
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who impel the word of praise to the wise, flow in the form of a stream. Among the gods you alone are the abode of wealth.
+
+##### English translation
+Soma, generator of the praises of the wise, flow in a stream; you are the dispenser of treasure among the gods.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ क॒लशे॑षु धावति श्ये॒नो वर्म॒ वि गा॑हते ।  
+> अ॒भि द्रोणा॒ कनि॑क्रदत् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । कलशेषु । धावति । श्येनः । वर्म । वि । गाहते ।  
+> अभि । द्रोणा । कनिक्रदत् ॥ १४ ॥
+
+### Printed p. 353
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋत्विभिरभिषिच्यमानः कश्चित्सोमः कलशेषु सोमाधारेषु द्रोणकलशेषु आ धावति सर्वतो गच्छति । श्येनः । लुप्तोपममेतत् । यथा श्येनः वर्म वरणीयं कुलायं वि गाहते प्रविशति तद्वत् । कनिक्रदत् अत्यंतं शब्दं कुर्वन् द्रोणा द्रोणकलशानभिगच्छति च । यद्वा । द्रोणाधवनीयपूतभृत्संज्ञकाभिप्रायम् । एकः सिच्यमानः सोमो द्रोणं प्रति शब्दायमानः प्रथमं गच्छति । ततः पश्चात्  पात्रद्वयमिति ॥
+
+##### Gist of the bhāṣya
+
+A certain Soma, being poured by the priests, runs in on every side into the kalaśas, the receptacles of Soma, the Droṇa vessels. The word for falcon: this is an elliptical simile: as a falcon enters its choice nest, so he enters. Sounding loudly, he also goes to the Droṇa vessels. Or else, the meaning refers to the vessels called Droṇa, Dhavanīya and Pūtabhṛt: one Soma, being poured, sounding toward the Droṇa, goes first; then afterwards the two vessels. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्येनः (*śyenaḥ*)—the falcon
+- वर्म (*varma*)—its own nest
+- वि गाहते (*vi gāhate*)—as it enters
+- कलशेषु (*kalaśeṣu*)—in the Droṇa vessels
+- आ धावति (*ā dhāvati*)—Soma-deva enters
+- कनिक्रदत् (*kanikradat*)—making a sound
+- द्रोणा (*droṇā*)—the Droṇa vessel
+- अभि (*abhi*)—he enters
+
+##### भावार्थ (Bhāvārtha)
+
+As a falcon enters its nest, Soma enters the Droṇa vessels. Making a sound, he enters the Droṇa vessel.
+
+##### English translation
+He hastens to the vessels as a falcon enters its nest and enters the wooden (vessels) with a cry.
+
+##### विशेषविषयगळु (Special Topics)
+
+According to the view of the teacher named Gāṇagāri: of the three Ṛks that are to be recited when the stones called Grāva, which crush the Soma-juice, are praised, this Ṛk beginning आ कलशेषु (*ā kalaśeṣu*) and the following Ṛk beginning परिप्रसोम (*pariprasoma*) are to be recited as the second and the third Ṛk of the tṛca (group of three Ṛks). This is explained in the Āśvalāyana-śrauta-sūtra by the sūtra आ कलशेषु धावति श्येनो वर्म वि गाहत इति द्वे (*ā kalaśeṣu dhāvati śyeno varma vi gāhata iti dve*) (Ā. Sū. 5-12).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ प्र सो॑म ते॒ रसोऽस॑र्जि क॒लशे॑ सु॒तः ।  
+> श्ये॒नो न त॒क्तो अ॑र्षति ॥ १५ ॥
+
+### Printed p. 354
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । प्र । सोम । ते । रसः । असर्जि । कलशे । सुतः ।  
+> श्येनः । न । तक्तः । अर्षति ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम कलशेषु द्रोणाभिधानेषु सुतः अभिषुतः ते तव रसः परि प्र असर्जि परितो ग्रहेषु चमसेषु च प्रसृष्टो विभक्तो भवति । कथमिव । श्येनो न तक्तः । तकिर्गतिकर्मा । गमनशीलः श्येनः पक्षी यथा सर्वत्र अर्षति गच्छति तद्वत् । यद्वा । यथा श्येनः सर्वतो गंता तद्वत्तक्तः पात्रेषु गतः सोमोऽर्षति इंद्रादिदेवानागच्छतु । अर्तेर्लेटि सिपि वा रूपम् । पूर्वम् ‘ऋषी गतौ ' इत्यस्माल्लटि शपि रूपम् ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your juice, pressed in the kalaśas called Droṇa, has been let out on every side: it is distributed all around into the cups and the ladles. How? "Like a swift falcon": the root taki means motion; as a swift falcon, a bird, goes everywhere, so it flows. Or else: as the falcon is one who goes everywhere, so Soma, gone into the vessels, flows; let him come to Indra and the other gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- कलशेषु (*kalaśeṣu*)—in the Droṇa vessels
+- सुतः (*sutaḥ*)—pressed
+- ते (*te*)—your
+- रसः (*rasaḥ*)—juice
+- परि प्र असर्जि (*pari pra asarji*)—spreads all around
+- तक्तः (*taktaḥ*)—swift
+- श्येनो न (*śyeno na*)—like a falcon
+- अर्षति (*arṣati*)—goes swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your juice, pressed in the Droṇa vessels, spreads all around. Like a swift falcon it flows swiftly.
+
+##### English translation
+Your juice, Soma, spreads around when effused into the vessel as a swift falcon rushes along.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम मं॒दय॒न्निंद्रा॑य॒ मधु॑मत्तमः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । मंदयन् । इंद्राय । मधुमत्ऽतमः ॥ १६ ॥
+
+### Printed p. 355
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मधुमत्तमः अतिशयेन मधुररसवांस्त्वं मंदयन् मादयिता भवन् । यद्वा । इंद्राय। ‘ क्रियाग्रहणं कर्तव्यम्' इति संप्रदानम् । इंद्रं मोदमानः सन् पवस्व इंद्रार्थमागच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are exceedingly sweet in flavour, becoming the exhilarator, flow. Or else: the word for "to Indra" is the dative, by the rule that the verb must be taken into account; rejoicing Indra, flow, come for Indra's sake.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- मधुमत्तमः (*madhumattamaḥ*)—you who have sweet juice
+- मंदयन् (*maṃdayan*)—causing joy
+- इंद्राय (*iṃdrāya*)—toward Indra
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have sweet juice, flow toward Indra, causing joy.
+
+##### English translation
+Flow, Soma, you are most sweet-flavoured, giving exhilaration to Indra.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असृ॑ग्रंदे॒ववी॑तये वाज॒यंतो॒ रथा॑ इव ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असृग्रन् । देवऽवीतये । वाजऽयंतः । रथाःऽइव ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतेऽभिषुताः सोमाः वाजयंतः संतः देववीतये देवानां पानाय असृग्रन् विसृज्यंते ऋत्विग्भिः प्रदीयंते । तत्र दृष्टांतः । रथाइव । वाजयंतः शत्रुधनानि बलानि वा स्वामिन इच्छंतो रथा देववीतये देवानां गमनाय यथा विसृज्यंते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+These pressed Somas, eager for strength, are let go for the drinking of the gods (devavīti); that is, they are handed over by the priests. An illustration: like chariots. As chariots that desire the enemy's wealth, or strength, for their master are let go for the gods' going, so these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजयंतः (*vājayaṃtaḥ*)—desiring to bring the enemy's wealth
+- रथा इव (*rathā iva*)—like chariots
+- सोमाः (*somāḥ*)—(the Soma-juices)
+- देववीतये (*devavītaye*)—for the satisfaction of the gods
+- असृग्रन् (*asṛgran*)—are offered
+
+##### भावार्थ (Bhāvārtha)
+
+Like chariots desiring to bring the enemy's wealth, the Soma-juices are offered for the satisfaction of the gods.
+
+### Printed p. 356
+
+##### English translation
+(The Soma-juices) are let loose for the banquet of the gods like chariots desiring the wealth (of the enemy).
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते सु॒तासो॑ म॒दिंत॑माः शु॒क्रा वा॒युम॑सृक्षत ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । सुतासः । मदिन्ऽतमाः । शुक्राः । वायुम् । असृक्षत ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदिंतमाः अतिशयेन मादयितारः शुक्राः दीप्यमानाः सुता अभिषुताः ते सोमाः वायुं शब्दम् असृक्षत असृजन् अकार्षुः । यद्वा वायुमेव सोमपानार्थमसृजन् । सोमेषु सुतेषु सत्सु वायुस्तत्पानार्थमागच्छति खलु ॥
+
+##### Gist of the bhāṣya
+
+Those pressed Somas, exceedingly exhilarating and brilliant, produced the sound, that is, made it. Or else: they sent forth Vāyu himself for the drinking of Soma; for when Soma is pressed, Vāyu certainly comes to drink it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतमाः (*madiṃtamāḥ*)—exceedingly joy-causing
+- शुक्राः (*śukrāḥ*)—radiant
+- ते (*te*)—the Soma-juices
+- वायुं (*vāyuṃ*)—toward Vāyu
+- असृक्षत (*asṛkṣata*)—are offered
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, exceedingly joy-causing and radiant, are offered toward Vāyu.
+
+##### English translation
+These effused (Soma juices), brilliant and extremely exhilarating, are let forth for Vayu.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्राव्णा॑ तु॒न्नो अ॒भिष्टु॑तः प॒वित्रं॑ सोम गच्छसि ।  
+> दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥ १९ ॥
+
+### Printed p. 357
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्राव्णा । तुन्नः । अभिऽस्तुतः । पवित्रम् । सोम । गच्छसि ।  
+> दधत् । स्तोत्रे । सुऽवीर्यम् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ग्राव्णा तुन्नः अभिपीडितोऽभिषुतस्त्वं स्तोतृभिः अभिष्टुतः सन् पवित्रं गच्छसि प्राप्नोषि । किं कुर्वन् । स्तोत्रे स्तोत्रकारिणे जनाय सुवीर्यं शोभनवीर्योपेतं धनादिकं दधत् विदधत् प्रयच्छन् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, pressed and crushed by the grāvan stones, being praised by the praisers, you reach the filter. Doing what? Bestowing on the praiser, the person who sings praise, wealth and the like endowed with excellent heroism.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- ग्रावाण्या (*grāvāṇyā*)—by the pressing stones **NOTE**
+- तुन्नः (*tunnaḥ*)—you who are pressed
+- अभिष्टुतः (*abhiṣṭutaḥ*)—being praised
+- स्तोत्रे (*stotre*)—to the praiser
+- सुवीर‍्यं (*suvīryaṃ*)—wealth accompanied by heroic sons and the like
+- दधत् (*dadhat*)—giving
+- पवित्रं (*pavitraṃ*)—to the filter with its fringes
+- गच्छसि (*gacchasi*)—you enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are pressed by the pressing stones, being praised, enter the filter with its fringes, giving the praiser wealth accompanied by heroic sons and the like.
+
+##### English translation
+Bruised with the stones and effused (by the worshippers) you, Soma, enter the filter, bestowing upon your praiser (wealth), accompanied with excellent male offspring.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष तु॒न्नो अ॒भिष्टु॑तः प॒वित्र॒मति॑ गाहते ।  
+> र॒क्षो॒हा वार॑म॒व्यय॑म् ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । तुन्नः । अभिऽस्तुतः । पवित्रम् । अति । गाहते ।  
+> रक्षःऽहा । वारम् । अव्ययम् ॥ २० ॥
+
 ---
 
-**Progress note:** Done through printed p. 350. Rk 5 end to Rk 13 start, sukta 67, pp. 345-350
+**Progress note:** Done through printed p. 357. Sūkta 67 Ṛk 13 to 20 (pp. 352-357)
