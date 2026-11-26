@@ -13378,6 +13378,257 @@ We pray to and call for the drinking of Soma, when the Soma juice has been press
 ##### English translation
 We invoke, now that the Soma is effused, that Indra in whom all graces are at their height, and in whom the seven associated priests rejoice.
 
+### Printed p. 344
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिक॑द्रुकेषु॒ चेत॑नं दे॒वासो॑ य॒ज्ञम॑त्नत ।  
+> तमिद्वर्धंतु नो गिरः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिऽकद्रुकेषु । चेतनम् । देवासः । यज्ञम् । अत्नत ।  
+> तम् । इत् । वर्धंतु । नः । गिरः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासः देवा इंद्रादयः त्रिकद्रुकेषु आभिप्लविकेष्वहःसु । ज्योतिर्गौरायुरिति त्रिकद्रुकाः । तेषु चेतनम् । 'चिती संज्ञाने'। चेतंति जानंत्यनेन स्वर्गादिकमिति चेतनः । ज्ञानसाधनं यज्ञम् अत्नत अतन्वत स्वैः स्वैः कर्मभिः पालनैश्च विस्तारितवंतः ।  ‘ तनु विस्तारे'। लङि ‘बहुलं छंदसि' इति विकरणस्य लुक्। तनिपत्योश्छंदसि' इत्युपधालोपः। तमित् तमेवास्मदीयं यज्ञं नः अस्माकं गिरः स्तुतिलक्षणा वाचः वर्धंतु वर्धयंतु ॥
+
+##### Gist of the bhāṣya
+
+O gods, Indra and the others: in the Trikadruka days, the Ābhiplavika days (the Trikadrukas being Jyotis, Gau and Āyus), the gods extended the sacrifice that is the instrument of knowledge, "cetana" being that by which one knows heaven and the like (root चिती संज्ञाने (*citī saṃjñāne*)). They extended (अत्नत (*atnata*) = अतन्वत (*atanvata*)) it by their own rites and protections. May our praises prosper that very sacrifice of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—the gods Indra and the rest
+- त्रिकद्रुकेषु (*trikadrukeṣu*)—in the first three days of the Ābhiplava sacrifice
+- चेतनं (*cetanaṃ*)—that produces knowledge which is the means to heaven and the like
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- अत्नत (*atnata*)—performed
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words in the form of praise
+- तमित् (*tamit*)—that very sacrifice of ours
+- वर्धंतु (*vardhaṃtu*)—may they increase
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, Indra and the rest, all together performed and brought to completion the sacrifice that produces the knowledge which is the means of reaching heaven, in the first three days of the Ābhiplava sacrifice, called Jyotis, Gau and Āyus. May our words of praise increase that sacrifice.
+
+##### English translation
+The gods extended the heaven-revealing sacrifice in the Trikadruka days,—may our praises prosper it.
+
+### Printed p. 345
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा विशंत्विंदवः समुद्रमिव सिंधवः ।  
+> न त्वामिंद्राति रिच्यते ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । विशंतु । इंदवः । समुद्रम्ऽइव । सिंधवः ।  
+> न । त्वाम् । इंद्र । अति । रिच्यते ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इंदवः स्रवंतोऽस्माभिर्दीयमानाः सोमाः त्वा त्वाम् आ विशंतु । सर्वतः प्रविशंतु । तत्र दृष्टांतः । समुद्रमिव सिंधवः । स्यंदमाना नद्यः यथा समुद्रं जलाशयं सर्वतः प्रविशंति तद्वत् । यत एवं तस्मात् हे इंद्र त्वां कश्चिदपि देवो बलेन धनेन वा न अति रिच्यते नातिरिक्तोऽस्ति । सामर्थ्यवांस्त्वत्तोऽधिको नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may the flowing Soma-drops that we offer enter you from all sides. The illustration: as flowing rivers enter the sea, the reservoir of waters, from every side. Since this is so, O Indra, no god surpasses you in strength or in wealth; the meaning is that none is more capable than you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎल्लै इंद्रने (*èllai iṃdrane*)) सिंधवः (*siṃdhavaḥ*)—the rivers from all directions
+- समुद्रमिव (*samudramiva*)—as they enter the sea
+- इंदवः (*iṃdavaḥ*)—the Soma juices, pressed by us and trickling down
+- त्वा (*tvā*)—you
+- आ विशंतु (*ā viśaṃtu*)—may they enter well
+- इंद्र (*iṃdra*)—O Indra
+- त्वां (*tvāṃ*)—you (whether god or man, no one)
+- न अति रिच्यते (*na ati ricyate*)—can surpass in strength and capacity
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as rivers come from many directions and join the sea, may these Soma juices, pressed by us and flowing, enter you well. O Indra, no one, whether god or man, can surpass you in strength and capacity.
+
+##### English translation
+Let Soma-drops enter you as the rivers the sea; none, Indra, surpasses you.
+
+### Printed p. 346
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विव्यक्थ महिना वृषन्भक्षं सोमस्य जागृवे ।  
+> य इंद्र जठरेषु ते ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विव्यक्थ । महिना । वृषन् । भक्षम् । सोमस्य । जागृवे ।  
+> यः । इंद्र । जठरेषु । ते ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् कामानां वर्षितर्हे जागृवे जागरणशीलेंद्र त्वं तस्य सोमस्य भक्षं पानं प्रति महिना स्वमहिम्ना विव्यक्थ सर्वतो व्याप्तवानसि । व्यचेर्लिटि थलि  ‘ °अभ्यासस्योभयेषाम् । (पा. सू. ६. १. १७) इति संप्रसारणम् । हे इंद्र यः सोमः ते जठरेषु उदरेषु प्रविशति तस्य पानं व्याप्तवानसीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O showerer of desires, O ever-wakeful Indra, by your own greatness you have pervaded, on every side, the drinking of that Soma. The Soma that enters your bellies, O Indra: its drinking you have pervaded (the words "its drinking you have pervaded" are to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—you who pour down the desired objects
+- जागृवे इंद्र (*jāgṛve iṃdra*)—and are always watchful, O Indra
+- यः (*yaḥ*)—the Soma which
+- ते (*te*)—your
+- जठरेषु (*jaṭhareṣu*)—enters into the bellies, of such
+- सोमस्य (*somasya*)—Soma juice
+- भक्षं (*bhakṣaṃ*)—the drinking
+- महिना (*mahinā*)—by your own greatness
+- विव्यक्थ (*vivyaktha*)—you have made to pervade everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who pour down the desired objects and are always watchful, the Soma that enters your belly, you make that Soma pervade all your limbs and become intoxicating. This is your greatness.
+
+##### English translation
+Indra, showerer (of blessings), wakeful one, you have attained by your might the drinking of the Soma which enters into your belly.
+
+### Printed p. 347
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं त इंद्र कुक्षये सोमो भवतु वृत्रहन् ।  
+> अरं धामभ्य इंदवः ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरम् । ते । इंद्र । कुक्षये । सोमः । भवतु । वृत्रऽहन् ।  
+> अरम् । धामऽभ्यः । इंदवः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्रस्यापामावरकस्यासुरस्य पापस्य वा हंतर्हे इंद्र सोमः अस्माभिर्दीयमानः ते तव कुक्षये अरम् अलं पर्याप्तः भवतु। किंच इंदवः सर्वतः क्षरणशीलाः सोमास्तव धामभ्यः नानाविधेभ्यः शरीरेभ्यस्तव तेजोभ्यो वा अरम् अलं पर्याप्ता भवंतु । अनेन तेजसां हविर्भाक्त्वमस्तीति सूचितम् । अस्मदीयाः सोमा एव तव कुक्षये देहेभ्योऽपि पर्याप्ता भवंतु नान्यदीया इति भावः ॥
+
+##### Gist of the bhāṣya
+
+O slayer of Vṛtra, that is, of the demon who covers the waters, or of sin, O Indra: may the Soma given by us be enough for your belly. And further, may the Soma-drops, flowing in all directions, be enough for your many bodies, or for your radiances. By this it is indicated that the radiances partake of the oblation. The meaning is that only our Soma, not another's, should suffice even for your bodies and bellies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—slayer of the demon Vṛtra
+- इंद्र (*iṃdra*)—O Indra
+- सोमः (*somaḥ*)—the Soma offered by us
+- ते (*te*)—your
+- कुक्षये (*kukṣaye*)—for the belly
+- अरं भवतु (*araṃ bhavatu*)—may it be enough
+- इंदवः (*iṃdavaḥ*)—the Soma juices that have the nature of spreading
+- धामुभ्यः (*dhāmubhyaḥ*)—in all your limbs
+- अरं (*araṃ*)—may they pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of the demon Vṛtra, may the Soma offered by us be enough to fill your belly. May those Soma juices, which have the nature of spreading, pervade everywhere in all your limbs.
+
+##### English translation
+Indra, slayer of Vritra, may the Soma be enough for your belly, may the drops be enough for your (various) bodies.
+
+### Printed p. 348
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरमश्वाय गायति श्रुतकक्षो अरं गवे ।  
+> अरमिंद्रस्य धाम्ने ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरम् । अश्वाय । गायति । श्रुतऽकक्षः । अरम् । गवे ।  
+> अरम् । इंद्रस्य । धाम्ने ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रुतकक्षो नामर्षिः गवाश्वादिंद्रं स्तौति । अयं श्रुतकक्षः एतन्नामक ऋषिः अश्वाय इंद्रेण दीयमानायाश्वायैतदर्थम् अरम् अलं गायति इंद्रविषयं स्तोत्रं करोति । तथा गवे अरम् अलं गायति । इंद्रस्य इंद्रकर्तृकाय धाम्ने गृहाय तदर्थं च अरं पर्याप्तं स्तौति । यदश्वादिकमिंद्रः प्रयच्छति तस्मै गायतीति । यद्वा । इंद्रस्येति कर्मणि षष्ठी । गवादिलाभार्थमिंद्रं स्तौति ॥
+
+##### Gist of the bhāṣya
+
+The seer named Śrutakakṣa praises Indra for the sake of a cow and a horse. This Śrutakakṣa sings enough for the horse given by Indra, that is, for the sake of that horse; he makes a hymn addressed to Indra. Likewise he sings enough for a cow. And for Indra's house, that is, the house made by Indra, he praises enough for that purpose. He sings to him for whatever horses and the like Indra gives. Or else: इंद्रस्य (*iṃdrasya*) is a genitive of the object; he praises Indra for the sake of obtaining cows and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रुतकक्षः (*śrutakakṣaḥ*)—the seer Śrutatakṣa**NOTE**, the seer of this sūkta
+- अश्वाय (*aśvāya*)—for the gaining of a horse
+- अरं गायति (*araṃ gāyati*)—praises Indra, and likewise
+- गवे (*gave*)—for cows also
+- अरं (*araṃ*)—he praises
+- इंद्रस्य (*iṃdrasya*)—for Indra's**NOTE**
+- धाम्ने (*dhāmne*)—for a house also
+- अरं (*araṃ*)—he praises and prays
+
+##### भावार्थ (Bhāvārtha)
+
+The seer Śrutakaksha, the seer of this sūkta, praises and prays to Indra for horses, for cows, and for a house to live in.
+
+##### English translation
+Srutakaksha sings enough for a horse, enough for a cow, enough for a house of Indra's.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं हि ष्म सुतेषु णः सोमेष्विंद्र भूषसि ।  
+> अरं ते शक्र दावने ॥ २६ ॥
+
+### Printed p. 349
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरम् । हि । स्म । सुतेषु । नः । सोमेषु । इंद्र । भूषसि ।  
+> अरम् । ते । शक्र । दावने ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुतेषु अभिषुतेषु नः अस्मदीयेषु सोमेषु । हि ष्म इत्यवधारणे । त्वमेव तेषां पाने अलं पर्याप्तः भूषसि भवसि । यद्वा। सोमेष्वभिषुतेषु सत्सु नोऽस्माकं पर्याप्तं धनं भूषसि । ‘भू प्राप्तौ । त्वं प्रापय । तथा भवति हे शक्र समर्थेंद्र दावने धनादिकस्य दात्रे ते तुभ्यमस्माभिर्दीयमानाः सोमाः अरम् अलं पर्याप्ता भवंतु ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when our Soma has been pressed, you alone are enough, able, to drink it; हि ष्म (*hi ṣma*) is in the sense of emphasis. Or else: when the Soma has been pressed, you bring about sufficient wealth for us (भू प्राप्तौ (*bhū prāptau*): you cause us to obtain it). And, O Śakra, capable Indra, giver of wealth and the like, may the Soma offered by us be enough for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—belonging to us
+- सुतेषु (*suteṣu*)—pressed
+- सोमेषु (*someṣu*)—in the drinking of the Soma juices
+- अरं हि ष्म भूषसि (*araṃ hi ṣma bhūṣasi*)—be well satisfied
+- शक्र (*śakra*)—O capable Indra
+- दावने (*dāvane*)—who give wealth and the rest
+- ते (*te*)—to you, the Soma juices we offer
+- अरं (*araṃ*)—may they be as much as is enough
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may you be satisfied in drinking the Soma juices that we have prepared. May the Soma juices that we offer to you, the giver of wealth and the rest, be enough.
+
+##### English translation
+When our Soma-libations are effused, you are abundantly able (to drink them),—may they be enough for you, the bounteous.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पराकात्ताच्चिदद्रिवस्त्वां नक्षंत नो गिरः ।  
+> अरं गमाम ते वयम् ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पराकात्तात् । चित् । अद्रिऽवः । त्वाम् । नक्षंत । नः । गिरः ।  
+> अरम् । गमाम । ते । वयम् ॥ २७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 343. Mandala 8 sukta 92 Rk 15 to Rk 20, pp. 338-343
+**Progress note:** Done through printed p. 349. Mandala 8 sukta 93 rks 21-27, pp. 344-349
