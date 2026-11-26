@@ -9681,6 +9681,300 @@ Twashtri knows the arts of fabricating (drinking vessels), the most skilful of a
 
 "O kavayaḥ, wise ones, my (Tvaṣṭṛ's) pupils the Ṛbhus, being good (satah, that is, excellent), now sharpen (the tools) exceedingly".
 
+### Printed p. 320
+
+> शीभिः पात्राण्यमृताय सोमाय । तत्पानायेत्यर्थः । यद्वा । युष्माकममृतत्वाय तदर्थं तक्षत । संपादयथ । हे कवयो विद्वांसः यूयं गुह्यानि
+> गोपनीयानि पदा पदानि निवासस्थानानि कर्तन । कुरुत। येन स्थानकरणेन देवासो
+> देवाः यूयममृतत्वमानशुः प्राप्ता यूयं । एवं स्वशिष्यानाह ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: the vessels are sharpened with the adzes (वाशीभिः (*vāśībhiḥ*)) with which the Ṛbhus fashion cups for the immortal Soma, that is, for its drinking. Or else: "fashion" (तक्षत (*takṣata*)) means "bring about" for the sake of your own immortality. O sages, learned ones, make the secret, to-be-guarded abodes (पदा (*padā*), dwelling-places), by which kind of making you, O gods, have attained immortality. Thus he addresses his own pupils.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कमयः (*kamayaḥ*)—O wise Ṛbhus
+- सतः (*sataḥ*)—you who are good men
+- याभिः वाशीभिः (*yābhiḥ vāśībhiḥ*)—the vessels which
+- अमृताय (*amṛtāya*)—for the drinking of nectar
+- तक्षथ (*takṣatha*)—you fashion; those vessels
+- नूनं (*nūnaṃ*)—now
+- सं शिशीत (*saṃ śiśīta*)—prepare well
+- येन (*yena*)—by which act of fashioning
+- देवासः (*devāsaḥ*)—you who are venerable
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- आनशुः (*ānaśuḥ*)—you attained; such
+- गुह्यानि (*guhyāni*)—secret
+- पदा (*padā*)—dwelling-places
+- विद्वांसः (*vidvāṃsaḥ*)—you who are learned
+- कर्तन (*kartana*)—make
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मेधाविगळाद ऎलै ऋभुगळे, सत्पुरुषराद नीवु याव पात्रॆगळन्नु अमृतपानक्कागि  
+> संपादिसुविरो आ पात्रॆगळन्नु ईग संस्करिसिरि. याव निर्माणक्रियॆयिंद पूज्यराद नीवु मरण  
+> राहित्यवन्नु हॊंदिदिरो आ रहस्यात्मकवाद निवासस्थानगळन्नु प्राज्ञराद नीवु निर्मिसि.
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Ṛbhus, you who are good men, now prepare well the vessels that you fashion for the drinking of nectar. You who are learned, make those secret dwelling-places by whose fashioning you, the venerable, attained freedom from death.
+
+##### English translation
+Verily being sages, (Ribhus) sharpen the instruments with which you fabricate the cups for the nectar. Do you, who are wise, prepare the mysterious paths whereby gods have attained to immortality.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गर्भे॒ योषा॒मद॑धुर्व॒त्समा॒सन्य॑पी॒च्ये॑न॒ मन॑सो॒त जि॒ह्वया॑ ।  
+> स वि॒श्वाहा॑ सु॒मना॑ यो॒ग्य्या अ॒भि सि॑षा॒सनि॑र्वनते का॒र इज्जितिं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गर्भे । योषां । अदधुः । वत्सं । आसनि । अपीच्येन । मनसा । उत । जिह्वया ।  
+> सः । विश्वाहा । सुमनाः । योग्य्याः । अभि । सिसासनिः । वनते । कारः । इत् । जितिं ॥
+
+### Printed p. 321
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुतो गर्भे मृताया गोर्मध्यॆ ग्राहके चर्मणि मृताया गोः
+> संबंधिनि योषां कांचिद्दामदधुः । धारितवंतः । निश्चर्मणो गामरिणीत धीतिभिः ।
+> ऋ. १-१६१-७ । इत्युक्तं । तथासनि मृताया आस्यॆ वत्समदधुः । केन
+> साधनेन । अपीच्येन मनसा देवत्वमाकांक्षतोतापि च जिह्वया । सादृश्यप्रधानोऽयं निर्देशः । जिह्वावदायतया वाश्येत्यर्थः । यद्वा जिह्वया युक्तां
+> योषामिति संबंधः । सिषासनिः संभजनशीलः स ऋभुसंघो विश्वाहा सर्वॆष्वहःसु
+> सर्वदा योग्याः स्वोचिताः सुमनाः स्तुतीरभिवनते । स च संघो जितिं शत्रुजयं
+> कामं कार इत् कर्तृव । शत्रुजयकर्तृव ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts placed some female (योषां (*yoṣāṃ*)) in the womb (गर्भे (*garbhe*)), the enveloping hide, of a dead cow. This is said in ऋ. १-१६१-७ (*ṛ. 1-161-7*) ("they fashioned the cow with their thoughts from the hide"). So too in its mouth (आसनि (*āsani*)) they placed a calf. By what means? With a mind (अपीच्येन (*apīcyena*)) that aspires to godhood, and also with a tongue; this is a statement based on likeness, meaning that she is long-tongued, as it were. Or else the connection is "the female endowed with a tongue". The fraternity of the Ṛbhus, inclined to share (सिषासनिः (*siṣāsaniḥ*)), daily and always offers fitting praises, and that company achieves victory over enemies, the desired object; it is the doer of victory over foes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपीच्येन मनसा (*apīcyena manasā*)—with a mind desirous of obtaining godhood
+- (the Maruts)—in the womb, in the middle of a dead cow
+- जिह्वया (*jihvayā*)—endowed with an excellent tongue
+- योषां (*yoṣāṃ*)—another cow
+- आदधुः (*ādadhuḥ*)—they placed
+- आसनि (*āsani*)—in its mouth
+- वत्सं (*vatsaṃ*)—a calf they placed
+- सिषासनिः (*siṣāsaniḥ*)—endowed with generosity
+- सः (*saḥ*)—that company of Ṛbhus
+- विश्वाहा (*viśvāhā*)—on all days
+- योग्य्याः (*yogyyāḥ*)—fit to be offered to the gods
+- सुमनाः (*sumanāḥ*)—excellent praises
+- अभि वनते (*abhi vanate*)—offers
+- जितिं (*jitiṃ*)—victory over enemies
+- कार इत् (*kāra it*)—will surely obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, with a mind desirous of obtaining godhood, placed in the middle of a dead cow another cow endowed with an excellent tongue. In its mouth they placed a calf. That generous company of Ṛbhus offers on all days excellent praises fit to be offered to the gods, and will surely obtain victory over enemies.
+
+##### English translation
+(The Maruts) placed a female in the enveloping hide (of a dead cow) and a calf in the mouth (of a dead cow), with mind and tongue, aiming (at deification) : daily the generous (fraternity of the Ribhus) offers suitable praises (to the gods), granting victory over our foes.
+
+## Sūkta 54 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तां सु त इति षडृचं द्वादशं सूक्तं नामदेवगोत्रस्य बृहदुक्थस्यार्षं
+> त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । तां सु षड् बृहदुक्थो नामदेव्य इति ॥
+> 41
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, तां सु त (*tāṃ su ta*), of six Ṛks, has as seer Bṛhaduktha of the Nāmadeva (Vāmadeva) gotra; its metre is Triṣṭubh and its deity Indra. The Anukramaṇī says: तां सु षड् बृहदुक्थो नामदेव्य इति (*tāṃ su ṣaḍ bṛhaduktho nāmadevya iti*).
+
+### Printed p. 322
+
+> समूढस्य दशरात्रस्य द्वितीये छंदोम एतत्तूक्तं । सूत्रितं च । अपूर्व्या पुरुतमानि तां सु ते कीर्तिं महा इंद्र । आ. ८-७ । इति ॥ महाव्रते निष्केवल्य एतत्तूक्तं । सूत्रितं च । तां सु ते कीर्तिं मघवन्महित्वा भूय इद्द्वावृधे वीर्याय।
+> ऐ. आ. ५-१-६ । इति ॥
+> आनुवादवु—तां सु ते ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि हन्नॆरडनॆय सूक्तवु.
+> इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवगोत्रद बृहदुक्थनॆंबुवनु ऋषियु, इंद्रनु
+> देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि—तां सु षट् बृहदुक्थो वामदेव्यः
+> ऎंदु हेळिरुवुदु. समूळ्ववॆंब दशरात्रयागद द्वितीयछंदोमदल्लि ई सूक्तवन्नु पठिस
+> बेकॆंदु आश्वलायनशौतसूत्रद—अपूर्णा पुरुतमानि तां सु ते कीर्तिं त्वं महा
+> इंद्र ऎंब सूत्रदिंद विवृतवागिरुवुदु. महाव्रतेष्टियल्लियू निष्केवल्यशस्त्रमंत्रगळल्लि ई
+> सूक्तवन्नु पठिसबेकॆंदु ऐतरेयारण्यकद तां सु ते कीर्तिं मघवन्महित्वा भूय इद्दावृधे वीर्याय ऎंब वाक्यदिंद (ऐ, आ. ५-१-६) निर्दिष्टवागिरुवुदु.
+> सूक्त—५४
+> मंडल—१० ॥ अनुवाक—४ ॥ सूक्त—५४ ॥
+> अष्टक—८ ॥ अध्याय—१ ॥ वर्ग—१५ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
+> ऋषिः—बृहदुक्थो वामदेव्यः ॥
+> देवता—इंद्रः ॥
+> छंदः—त्रिष्टुप् ॥
+
+##### Gist of the bhāṣya
+
+This sūkta is used in the second Chandoma day of the Samūḍha Daśarātra. It is prescribed in the sūtra अपूर्व्या पुरुतमानि तां सु ते कीर्तिं महा इंद्र। आ. ८-७ । इति (*apūrvyā purutamāni tāṃ su te kīrtiṃ mahā iṃdra| ā. 8-7 | iti*) (Ā. 8-7). In the Mahāvrata it is used in the Niṣkevalya. It is prescribed in तां सु ते कीर्तिं महा इंद्र । आ. ८-७ । इति ॥ महाव्रते निष्केवल्य एतत्तूक्तं । सूत्रितं च । तां सु ते कीर्तिं मघवन्महित्वा भूय इद्द्वावृधे वीर्याय। (*tāṃ su te kīrtiṃ mahā iṃdra | ā. 8-7 | iti ‖ mahāvrate niṣkevalya etattūktaṃ | sūtritaṃ ca | tāṃ su te kīrtiṃ maghavanmahitvā bhūya iddvāvṛdhe vīryāya|*) (Ai. Ā. 5-1-6).
+
+##### Anuvāda
+
+This sūkta तां सु ते (*tāṃ su te*) is the twelfth sūkta in the fourth anuvāka. It has six Ṛks. Its seer is Bṛhaduktha of the Vāmadeva gotra, its deity is Indra, its metre Triṣṭup. The Anukramaṇī says तां सु षट् बृहदुक्थो वामदेव्यः (*tāṃ su ṣaṭ bṛhaduktho vāmadevyaḥ*). The sūkta is to be recited in the second Chandoma of the Daśarātra sacrifice called Samūḷha (Samūḍha), as explained by the Āśvalāyana Śrauta Sūtra अपूर्णा पुरुतमानि तां सु ते कीर्तिं त्वं महा इंद्र (*apūrṇā purutamāni tāṃ su te kīrtiṃ tvaṃ mahā iṃdra*). In the Mahāvrata rite also it is to be recited among the Niṣkevalya śastra mantras, as indicated by the Aitareya Āraṇyaka sentence तां सु ते कीर्तिं मघवन्महित्वा भूय इद्दावृधे वीर्याय (*tāṃ su te kīrtiṃ maghavanmahitvā bhūya iddāvṛdhe vīryāya*) (Ai. Ā. 5-1-6).
+
+##### Particulars
+
+- Sūkta—54
+- Maṇḍala—10; Anuvāka—4; Sūkta—54
+- Aṣṭaka—8; Adhyāya—1; Varga—15
+- Number of Ṛks in the sūkta—6
+- Ṛṣi—Bṛhaduktha Vāmadevya
+- Devatā—Indra
+- Chandas—Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तां सु ते॑ की॒र्तिं म॑घवन्महि॒त्वा यत्त्वा॑ भी॒ते रोद॑सी॒  ॑
+> अह्वयेतां ।  
+> प्रावो॑ दे॒वा अति॑रो॒ दास॒मोजः॑ प्र॒जायै॑ त्वस्यै॒ यदशि॑क्ष  
+> इंद्र ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । सु । ते । कीर्तिं । मघवन् । महित्वा । यत् । त्वा । भीते इति । रोदसी  
+> इति । अह्वयेतां ।
+
+### Printed p. 323
+
+> प्र । आवः । देवान् । आ । अतिरः । दासं । ओजः । प्रजायै । त्वस्यै । यत् । अशिक्षः ।  
+> इंद्र ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मघवन् धनवन् ते तव संबंधिनीं महित्वा महत्वेनागतां
+> कीर्तिं सु सुष्टु कीर्तयामीति शेषः । किंच यद्यदा त्वा त्वां प्रति भीते असुरैर्भयं प्राप्ते रोदसी द्यावापृथिव्यावह्वयेतां आनेत्यब्रूतां तदानीं देवानावः । प्रारक्षः । तथा दासं देवानामुपक्षयकर्तारमसुरमातिरः । व्यनाशयः ।
+> असुरान् हत्वा देवानां रक्षणेन द्यावापृथिव्योर्भितिं पर्यहर इति यदस्ति
+> किंच त्वस्या एकस्यॆ प्रजायै यजमानरूपाय्कॆ यद्बलमशिक्षः प्रायच्छः तां
+> कीर्तिं कीर्तयामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, Maghavan (wealthy one), I well proclaim that glory of yours which came by your greatness (महित्वा (*mahitvā*)); this is the word to be supplied. Moreover, when heaven and earth (रोदसी (*rodasī*)), frightened by the Asuras, called on you, saying "Come", you then protected the gods. And you destroyed the dāsa, the Asura who harmed the gods. By slaying the Asuras and protecting the gods you removed the fear of heaven and earth. Further, the strength that you gave to the one offspring (प्रजायै (*prajāyai*)), in the form of the sacrificer, that glory I proclaim.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- ते (*te*)—your
+- महित्वा (*mahitvā*)—acquired by greatness
+- तां कीर्तिं (*tāṃ kīrtiṃ*)—that glory
+- सु (*su*)—I recite exceedingly
+- यत् (*yat*)—when
+- भीते (*bhīte*)—frightened by the Asuras
+- रोदसी (*rodasī*)—heaven and earth
+- त्वा अह्वयेतां (*tvā ahvayetāṃ*)—prayed to you, then
+- देवान् (*devān*)—the gods
+- प्रावः (*prāvaḥ*)—you protected
+- दासं (*dāsaṃ*)—the Asuras
+- अतिरः (*atiraḥ*)—you destroyed
+- इंद्र (*iṃdra*)—O Indra
+- त्वस्यॆ प्रजाय्कॆ (*tvasyè prajāykè*)—to one sacrificer
+- यत् (*yat*)—with what pride
+- ओजः (*ojaḥ*)—strength
+- अशिक्षः (*aśikṣaḥ*)—you granted; therefore I praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, I exceedingly recite that glory acquired by your greatness. When heaven and earth, frightened by the Asuras, prayed to you, you protected the gods and destroyed the Asuras. O Indra, for the pride with which you granted strength to the sacrificer, for that very reason I praise you.
+
+##### English translation
+(I celebrate), Maghavat, the great glory (you have acquired) by your might ; when heaven and earth alarmed called upon you, you defended the gods, and destroyed (their) adversary ; (I celebrate your glory), Indra, in that you gave strength to one person (the worshipper).
+
+### Printed p. 324
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदच॑रस्त॒न्वा॑ वावृधा॒नो बला॑नींद्र प्रब्रुवा॒णो जने॑षु ।  
+> मा॒येत्सा ते॒ यानि॑ यु॒द्धान्व्या॒हुर्नाद्य शत्रुं॑ न॒नु पु॒रा  ॑
+> विवित्से ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अचरः । तन्वा । ववृधानः । बलानि । इंद्र । प्रब्रुवाणः । जनेषु ।  
+> माया । इत् । सा । ते । यानि । युद्धानि । आहुः । न । आद्य । तत्रुं । ननु । पुरा ।  
+> विवित्सॆ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तन्वा शरीरेण स्तोत्रेण वा वावृधानो वर्धमानो जनेषु
+> प्राणिषु बलानि प्रब्रुवाणो वृत्रवधादिरूपाणि सामर्थ्य्यानि प्रकर्षेण कथयन्नचर
+> इति यत्संचारं कृतवानिति यदस्ति ते तव सा गतिर्मायेन्माय्कॆव । मृषेत्यर्थः।
+> किंच यानि युद्धानि शत्रुविषयाण्याहुः ब्रुवते पुराविद ऋषयः तान्यपि माय्कॆव ।
+> कुत इति आह । अद्येदानीं शत्रुं हंतव्यं न विवित्सॆ । न लभसे । अद्य मा भूत्
+> पूर्वं हतवानस्मीति यद्भूषे तदपि नेत्याह । नन्निति प्रश्ने । किं पुरा शत्रुमलभथाः । तदपि नेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, growing by body or by praise, proclaiming among creatures your powers of the kind of Vṛtra-slaying, the fact that you "moved about" (अचरः (*acaraḥ*)), that going of yours is mere illusion (माया (*māyā*)), that is, false. Moreover, the battles against enemies that the seers of old tell of are also illusion. Why? He says: you do not now find (न विवित्से (*na vivitse*)) an enemy to be slain. Let it not be today; even if you say "I slew before", he says no to that as well. ननु (*nanu*) is a question: did you find an enemy before? The meaning is: that too, no.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तन्वा (*tanvā*)—by praise
+- वावृधानः (*vāvṛdhānaḥ*)—having grown
+- जनेषु (*janeṣu*)—among all creatures
+- बलानि (*balāni*)—your enemies
+- प्र ब्रुवाणः (*pra bruvāṇaḥ*)—proclaiming
+- अचरः (*acaraḥ*)—the report that you went about
+- यत् (*yat*)—which affair there is, such
+- ते सा (*te sā*)—that going of yours
+- माया इत् (*māyā it*)—surely false
+- यानि युद्धानि (*yāni yuddhāni*)—the battles of yours which
+- आहुः (*āhuḥ*)—they praise (those battles also are false)
+- अद्य (*adya*)—now
+- शत्रुं (*śatruṃ*)—any enemy to oppose you
+- न विवित्से (*na vivitse*)—you do not have
+- ननु पुरा (*nanu purā*)—what enemies did you indeed have before?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have grown by praise and proclaim your powers among all creatures; that affair of your going about is surely false. The battles of yours which people praise are also false. There is now no enemy to oppose you. Even before, who indeed was an enemy equal to you?
+
+##### English translation
+When your proceed, Indra, increasing in form, and proclaiming your powers among mankind, false is that your (wandering), false the combats which they have narrated; you (find) now no enemy (to attack), did you formerly find one ?
+
+### Printed p. 325
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क उ॒ नु ते॑ महि॒मनः॑ समस्या॒स्मत्पूर्व॒ ऋष॒योऽंत॑मापुः ।  
+> यन्मा॒तरं॑ च पि॒तरं॑ च सा॒कमज॑नयथास्त॒न्व१॒॑गः स्वायाः॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । ऊं इति । नु । ते । महिमनः । समस्य । अस्मत् । पूर्वे । ऋषयः । अंतं ।  
+> आपुः ।  
+> यत् । मातरं । च । पितरं । च । साकं । अजनयथाः । तन्वः । स्वायाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव महिमनो महिम्नः समस्यॆ सर्वस्याप्यंतं पारमस्मदस्मत्तः
+> पूर्व ऋषयः क आपुः । प्राप्नु वन् । न कोऽपीत्यर्थः। यद्यपि महत्त्वं प्रख्यापयंति तथापि न कात्स्येनेति । तत्र कारणमाह । यद्यस्मान्मातरं पितरं च । द्यौः
+> पिता पृथिवी मातेति हि श्रुतं । अतो द्यावापृथिव्यावित्यर्थः । ते उभे अपि साकं
+> सहैव स्वायास्तन्वः स्वकीयाच्छरीरादजनयथाः । उदपादयः । अतो नापुरिति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, which of the seers before us has reached the end, the farther limit, of the whole of your greatness? None. Although they proclaim your greatness, they do not do so completely. He gives the reason: because you brought forth mother and father together from your own body. For it is heard that heaven is the father and earth the mother; so the meaning is heaven and earth. Both of them you produced at once from your own body. Therefore they did not reach it; this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यत् (*yat*)—by which greatness of yours
+- मातरं (*mātaraṃ*)—the earth
+- पितरं (*pitaraṃ*)—the world of heaven
+- साकं (*sākaṃ*)—together
+- स्वायाः तन्वः (*svāyāḥ tanvaḥ*)—from your own body
+- अजनयथाः (*ajanayathāḥ*)—you brought forth; therefore
+- ते (*te*)—your
+- समस्य (*samasya*)—complete
+- महिमनः (*mahimanaḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 319. pp. 314-319 (batch API), continuation block unlabelled
+**Progress note:** Done through printed p. 325. pp. 320-325 (batch API)
