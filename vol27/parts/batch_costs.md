@@ -138,3 +138,4 @@
 | through p. 923 (three windows in one agent: pp. 906-911, 912-917, 918-923) | sonnet | 21 | 181664 | 5.3 |
 | through p. 941 (three windows in one agent: pp. 924-929, 930-935, 936-941) | sonnet | 20 | 185026 | 4.8 |
 | through p. 959 (three windows in one agent: pp. 942-947, 948-953, 954-959) | sonnet | 13 | 177714 | 5.0 |
+| through p. 977 (three windows in one agent: pp. 960-965, 966-971, 972-977) | sonnet | 16 | 178884 | 5.4 |
