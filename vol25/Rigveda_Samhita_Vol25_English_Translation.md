@@ -26217,6 +26217,284 @@ As kings are surrounded by excellent words of praise, and as the sacrifice is su
 ##### English translation
 The libations are annointed with milk as kings with praises, and (tended) as a sacrifice by seven priests.
 
+### Printed p. 659
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ सुवा॒नास॒ इंद॑वो॒ मदा॑य ब॒र्हणा॑ गि॒रा ।  
+> सु॒ता अ॑र्षंति॒ धार॑या ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सुवानासः । इंदवः । मदाय । बर्हणा । गिरा ।  
+> सुताः । अर्षंति । धारया ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानासः सुवाना अभिषूयमाणाः इंदवः सोमाः बर्हणा महत्या गिरा स्तुतिरूपया वाचा सुताः अभिषुताः संतः मदाय मदार्थं धारया परि अर्षंति परितो गच्छंति ।
+
+##### Gist of the bhāṣya
+
+The Soma juices (इंदवः सोमाः (*iṃdavaḥ somāḥ*)), being pressed (सुवानासः सुवाना अभिषूयमाणाः (*suvānāsaḥ suvānā abhiṣūyamāṇāḥ*)), pressed forth with loud praise (बर्हणा महत्या गिरा स्तुतिरूपया वाचा (*barhaṇā mahatyā girā stutirūpayā vācā*)), in the form of words of praise, flow around (परि अर्षंति परितो गच्छंति (*pari arṣaṃti parito gacchaṃti*)) in a stream (धारया (*dhārayā*)) for exhilaration (मदाय मदार्थं (*madāya madārthaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानासः (*suvānāsaḥ*)—ready to be pressed
+- इंदवः (*iṃdavaḥ*)—the Somas
+- बर्हणा (*barhaṇā*)—great
+- गिरा (*girā*)—accompanied by a word of praise
+- सुताः (*sutāḥ*)—pressed
+- मदाय (*madāya*)—for the satisfaction of the gods
+- धारया (*dhārayā*)—in the form of a stream
+- परि अर्षंति (*pari arṣaṃti*)—flow all around
+
+##### भावार्थ (Bhāvārtha)
+
+The Somas, ready to be pressed, are pressed to the accompaniment of great words of praise and flow all around in the form of a stream for the satisfaction of the gods.
+
+##### English translation
+The Soma-juices, when poured forth, are effused with loud praise, and proceed in a stream to excite exhilaration.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒पा॒नासो॑ वि॒वस्व॑तो॒ जनं॑त उ॒षसो॒ भग॑म् ।  
+> सूरा॒ अण्वं॒ वि त॑न्वते ॥ ५ ॥
+
+### Printed p. 660
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपानासः । विवस्वतः । जनंतः । उषसः । भगम् ।  
+> सूराः । अण्वम् । वि । तन्वते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विवस्वतः इंद्रस्य आपानासः अपानभूताः उषसः भगं जनंतः जनयंतः सूराः सरंतः सोमाः अण्वं वि तन्वते । अभिषववेलायामुपरवेषु शब्दं कुर्वंति ॥ ॥ ३४ ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices (सोमाः (*somāḥ*)), flowing (सूराः सरंतः (*sūrāḥ saraṃtaḥ*)), serving as the drink (आपानासः अपानभूताः (*āpānāsaḥ apānabhūtāḥ*)) of Indra, who is called Vivasvat (विवस्वतः इंद्रस्य (*vivasvataḥ iṃdrasya*)), and producing the glory (भगं (*bhagaṃ*)) of Uṣas (उषसः (*uṣasaḥ*)), spread (वि तन्वते (*vi tanvate*)) the sound (अण्वं (*aṇvaṃ*)): at the time of pressing they make a sound on the pressing-stones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विवस्वतः (*vivasvataḥ*)—to Indra
+- आपानासः (*āpānāsaḥ*)—which are an excellent drink
+- उषसः (*uṣasaḥ*)—to the goddess Uṣas
+- भगं (*bhagaṃ*)—radiance
+- जनंतः (*janaṃtaḥ*)—which produce
+- सूराः (*sūrāḥ*)—and flow, the Soma juices
+- अण्वं (*aṇvaṃ*)—sound
+- वि तन्वते (*vi tanvate*)—spread
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, which are an excellent drink for Indra, which produce radiance for the goddess Uṣas, and which flow, spread sound.
+
+##### English translation
+The beverages of Vivaswat and producing the glory of the dawn, the issuing juices spread their sound.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ द्वारा॑ मती॒नां प्र॒त्ना ऋ॑ण्वंति का॒रवः॑ ।  
+> वृष्णो॒ हर॑स आ॒यवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । द्वारा । मतीनाम् । प्रत्नाः । ऋण्वंति । कारवः ।  
+> वृष्णः । हरसे । आयवः ॥ ६ ॥
+
+### Printed p. 661
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मतीनां स्तुतीनां कारवः कर्तार ऋत्विजः प्रत्नाः पुराणाः वृष्णः सेचकस्य सोमस्य हरस आहरस आहर्तारश्च आयवः मनुष्याः द्वारा यज्ञस्य द्वाराणि अप ऋण्वंति ॥
+
+##### Gist of the bhāṣya
+
+The makers of praises (मतीनां स्तुतीनां कारवः कर्तार (*matīnāṃ stutīnāṃ kāravaḥ kartāra*)), the priests, the ancient ones (प्रत्नाः पुराणाः (*pratnāḥ purāṇāḥ*)), and the men (आयवः मनुष्याः (*āyavaḥ manuṣyāḥ*)) who are bringers (आहर्तारश्च (*āhartāraśca*)) of the showering (सेचकस्य (*secakasya*)) Soma, open (अप ऋण्वंति (*apa ṛṇvaṃti*)) the doors of the sacrifice (यज्ञस्य द्वाराणि (*yajñasya dvārāṇi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रत्नाः (*pratnāḥ*)—those who are ancient
+- मतीनां (*matīnāṃ*)—of praises
+- कारवः (*kāravaḥ*)—the makers
+- वृष्णः (*vṛṣṇaḥ*)—the Soma, who showers desires
+- हरसे (*harase*)—appointed to carry and bring
+- आयुवः (*āyuvaḥ*)—the men
+- द्वारा (*dvārā*)—the doors of the house of sacrifice
+- अप ऋण्वंति (*apa ṛṇvaṃti*)—open
+
+##### भावार्थ (Bhāvārtha)
+
+Those who are ancient, the makers of praises, and the men appointed to carry and bring the Soma who showers desires, open the doors of the house of sacrifice.
+
+##### English translation
+The old makers of hymns, men the offerers of the Soma, throw open the doors (of the sacrifice).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मी॒ची॒नास॑ आसते॒ होता॑रः स॒प्तजा॑मयः ।  
+> प॒दमेक॑स्य॒ पिप्र॑तः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम्ऽईचीनासः । आसते । होतारः । सप्तऽजामयः ।  
+> पदम् । एकस्य । पिप्रतः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समीचीनासः समीचीनाः जामयः जामिसदृशाः एकस्य सोमस्य पदं स्थानं पिप्रतः पूरयंतः सप्त होतारः सप्त होत्रकाः आसते यज्ञ उपविशंति ॥
+
+##### Gist of the bhāṣya
+
+The seven hotṛs (सप्त होतारः सप्त होत्रकाः (*sapta hotāraḥ sapta hotrakāḥ*)), united (समीचीनासः समीचीनाः (*samīcīnāsaḥ samīcīnāḥ*)) and like kinsmen (जामयः जामिसदृशाः (*jāmayaḥ jāmisadṛśāḥ*)), filling (पिप्रतः पूरयंतः (*piprataḥ pūrayaṃtaḥ*)) the place (पदं स्थानं (*padaṃ sthānaṃ*)) of the one Soma (एकस्य सोमस्य (*ekasya somasya*)), sit (आसते (*āsate*)) at the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समीचीनासः (*samīcīnāsaḥ*)—those who are gathered together with one mind
+- सप्तजामयः (*saptajāmayaḥ*)—who are like kinsmen and seven in number
+- होतारः (*hotāraḥ*)—the seven hotṛs also
+- एकस्य (*ekasya*)—of the one Soma
+- पदं (*padaṃ*)—the place
+- पिप्रतः (*piprataḥ*)—having surrounded
+- आसते (*āsate*)—are seated in the place of sacrifice
+
+### Printed p. 662
+
+##### भावार्थ (Bhāvārtha)
+
+The seven hotṛs, who are gathered together with one mind and are like kinsmen, are seated in the place of sacrifice, having surrounded the place of the one Soma.
+
+##### English translation
+The seven associated ministers like so many kinsmen filling the receptacle of the single (Soma), sit down (at the sacrifice).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाभा॒ नाभिं॑ न॒ आ द॑दे॒ चक्षु॑श्चि॒त्सूर्ये॒ सचा॑ ।  
+> क॒वेरप॑त्य॒मा दु॑हे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाभा । नाभिम् । नः । आ । ददे । चक्षुः । चित् । सूर्ये । सचा ।  
+> कवेः । अपत्यम् । आ । दुहे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नाभिं यज्ञस्य नाभिभूतं सोमं नः अस्माकं नाभा नाभौ अहम् आ ददे । पिबामीत्यर्थः । पीतसोमानामस्माकं चक्षुश्चित् चक्षुरपि सूर्ये सचा संगतं भवति । किंच कवेः क्रांतकर्मणः सोमस्य अपत्यम्' अंशुम् आ दुहे आपूरयामि । ।
+
+##### Gist of the bhāṣya
+
+The Soma that is the navel of the sacrifice (नाभिं यज्ञस्य नाभिभूतं सोमं (*nābhiṃ yajñasya nābhibhūtaṃ somaṃ*)) I take (आ ददे (*ā dade*)), that is, drink, into our navel (नाभा नाभौ (*nābhā nābhau*)). For us who have drunk Soma, the eye too (चक्षुश्चित् (*cakṣuścit*)) becomes united (सचा संगतं (*sacā saṃgataṃ*)) with the sun (सूर्ये (*sūrye*)). Further, I fill up (आ दुहे आपूरयामि (*ā duhe āpūrayāmi*)) the offspring (अपत्यम् (*apatyam*)), the aṃśu (अंशुम् (*aṃśum*)), of Soma, the wise one of far-reaching action (कवेः क्रांतकर्मणः (*kaveḥ krāṃtakarmaṇaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नाभिः (*nābhiḥ*)—the Soma, who is the navel of the sacrifice
+- नः (*naḥ*)—our
+- नाभा (*nābhā*)—so that it gathers in the stomach
+- आ ददे (*ā dade*)—we drink
+- चक्षुश्चित् (*cakṣuścit*)—our eye also
+- सूर्ये (*sūrye*)—in the sun
+- सचा (*sacā*)—joins
+- कवेः (*kaveḥ*)—of Soma, whose action is possessed of wisdom
+- अपत्यं (*apatyaṃ*)—the aṃśu, which is in the form of a son
+- आ दुहे (*ā duhe*)—I fill
+
+##### भावार्थ (Bhāvārtha)
+
+We drink the Soma, who is the navel of the sacrifice, so that it gathers in our stomach. Our eye also joins the sun. I fill the aṃśu, in the form of a son of Soma, whose action is possessed of wisdom.
+
+### Printed p. 663
+
+##### English translation
+I take into my navel the navel of the sacrifice, my eye becomes associated with the sun, I fill the offspring of the sage.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रि॒या दि॒वस्प॒दम॑ध्व॒र्युभि॒र्गुहा॑ हि॒तम् ।  
+> सूरः॑ पश्यति॒ चक्ष॑सा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रिया । दिवः । पदम् । अध्वर्युऽभिः । गुहा । हितम् ।  
+> सूरः । पश्यति । चक्षसा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरः सुवीर्य इंद्रः चक्षसा चक्षुषा दिवः दीप्तस्यात्मनः प्रिया प्रियं पदम् अध्वर्युभिः गुहा गुहायां हृदये हितं निहितं पीतं सोममपि अभि पश्यति ॥ ॥ ३५ ॥
+
+##### Gist of the bhāṣya
+
+Sūra, the mighty Indra (सूरः सुवीर्य इंद्रः (*sūraḥ suvīrya iṃdraḥ*)), looks with his eye (चक्षसा चक्षुषा (*cakṣasā cakṣuṣā*)) upon the dear (प्रियं पदम् (*priyaṃ padam*)) place of the Soma, the Soma that has been drunk and placed (हितं निहितं पीतं सोममपि (*hitaṃ nihitaṃ pītaṃ somamapi*)) by the Adhvaryus in the cave, that is, in the heart (गुहा गुहायां हृदये (*guhā guhāyāṃ hṛdaye*)), dear to his own shining self (दिवः दीप्तस्यात्मनः (*divaḥ dīptasyātmanaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरः (*sūraḥ*)—Indra, who is possessed of valour
+- दिवः (*divaḥ*)—to his own resplendent self
+- प्रिया (*priyā*)—which is dear
+- अध्वर्युभिः (*adhvaryubhiḥ*)—by the Adhvaryus
+- गुहा (*guhā*)—in his own stomach, which is a secret place **NOTE**
+- हितं (*hitaṃ*)—and which is placed
+- पदं (*padaṃ*)—the place of the Soma
+- चक्षसा (*cakṣasā*)—with his divine eye
+- अभि पश्यति (*abhi paśyati*)—beholds fully
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is possessed of valour, beholds fully with his divine eye the place of the Soma, which is dear to his own resplendent self and which is placed secretly in his stomach by the Adhvaryus.
+
+##### English translation
+The powerful (Indra) looks with the eye of his own resplendent self on the acceptable place of the Soma, fixed by the priests in the heart.
+
+### Printed p. 664
+
+## Sūkta 11 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ उपास्मै ' इति नवर्चमेकादशं सूक्तम् । ऋष्याद्याः पूर्ववत् ।  उपास्मै  इत्यनुक्रांतम् । उक्तः सूक्तविनियोगः । अभिष्टवे घर्मदुघावत्सेऽपनीयमाने 'नमसेदुप' इत्येषा । सूत्रितं च-’ नमसेदुप सीदत संजानाना उप सीदन्नभिज्ञु' (आश्व. श्रौ. ४.७ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The eleventh sūkta, of nine Ṛks, begins उपास्मै (*upāsmai*). The seer and the rest are as before. It is recorded in the Anukramaṇikā as उपास्मै (*upāsmai*). The use of the sūkta has been stated. At the abhiṣṭava, when the calf is being removed (from the cow) for the gharmaduh, the Ṛk नमसेदुप (*namasedupa*) is recited. It is stated in the sūtra: नमसेदुप सीदत संजानाना उप सीदन्नभिज्ञु (*namasedupa sīdata saṃjānānā upa sīdannabhijñu*) (Āśva. Śrau. 4.7) **NOTE**. **NOTE**
+
+This sūkta beginning उपास्मै (*upāsmai*) is the eleventh sūkta in the first anuvāka. There are nine Ṛks in it. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is said: उपास्मै (*upāsmai*). The use of the sūkta has been stated before. At the abhiṣṭava, when the calf is let loose at the time of milking the cow for the gharmaduh, the sixth Ṛk, नमुसेदुष (*namuseduṣa*), is to be recited, as is settled (**NOTE**) by the sūtra of the Āśvalāyana Śrauta-sūtra, नमुसेदुष सीदत संजानाना उप सीदन्नभिज्ञु (*namuseduṣa sīdata saṃjānānā upa sīdannabhijñu*) (Ā. 4-7).
+
+Maṇḍala 9; Anuvāka 1; Sūkta 11.
+
+Aṣṭaka 6; Adhyāya 2 **NOTE**; Varga 33, 34 **NOTE**.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: असितः काश्यपो देवलो वा (*asitaḥ kāśyapo devalo vā*).
+
+Deity: पवमानः सोमः (*pavamānaḥ somaḥ*).
+
+Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उपा॑स्मै गायता नरः॒ पव॑माना॒येंद॑वे ।  
+> अ॒भि दे॒वाँ इय॑क्षते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । अस्मै । गायत । नरः । पवमानाय । इंदवे ।  
+> अभि । देवान् । इयक्षते ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 658. Ṛk 7-9 of sūkta 9 (printed English of Ṛk 6 at start), sūkta 10 Ṛk 1-3
+**Progress note:** Done through printed p. 664. Ṛk 4-9 of sūkta 10, sūkta 11 introduction and Ṛk 1 verse
