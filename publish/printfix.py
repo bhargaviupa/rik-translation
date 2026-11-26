@@ -62,6 +62,7 @@ def contents_sections(doc):
         if sum(1 for r in rows if r.get('href')) < 3: return m.group(0)          # not a contents list after all
         return m.group(1) + contents_table(rows[:nlast]) + m.group(2)[end:]
     return _SEC.sub(sec, doc)
+_ORIGNAMES = r'(?:P[ūu]rva-?)?P[īi][ṭt]hik[eāa]|Munnu[ḍd]i|Upodgh[āa]ta|Bh[āa][ṣs]ya-?bh[ūu]mik[āa]|Anukrama[ṇn]ik[āa]|Pari[śs]i[ṣs][ṭt]a'
 _HEAD = re.compile(r'<(h1|h2) class="(part|book|chapter)([^"]*)"([^>]*)>(.*?)</\1>', re.S)
 _ORIG = re.compile(r'^(.*\S)\s*\(([^()]*)\)\s*$', re.S)
 def headings(doc):
@@ -75,13 +76,15 @@ def headings(doc):
         o = _ORIG.match(text)
         if o and '<' not in o.group(2) and (cls in ('part', 'book') or re.match(r'(Introduction|Preface)\b', text)):
             text, orig = o.group(1), o.group(2)
+        o2 = re.match(r'^(' + _ORIGNAMES + r')\s*\(([^()<]+)\)\s*$', text) or re.match(r'^(' + _ORIGNAMES + r')\s+—\s+(?:the\s+)?([^<]+)$', text)
+        if o2 and not orig: text, orig = o2.group(2)[:1].upper() + o2.group(2)[1:], o2.group(1)      # "Pīṭhike (Introduction)" -> "Introduction", name to the footer
         cut = re.match(r'((?:PART|Part|BOOK|Book) [^:<]{1,12}):\s*(.+)$', text, re.S) or re.match(r'(Chapter [\w-]+)\s*(?:—|\.)\s*(.+)$', text, re.S) \
               or re.match(r'([^<—]{3,40}?)\s+—\s+(.+)$', text, re.S)
         body = f'<span class="ht1">{cut.group(1)}</span><span class="ht2">{cut.group(2)}</span>' if cut else text
         d = f' data-orig="{orig}"' if orig else (' data-orig=""' if cls in ('part', 'book') else '')
         return f'<{tag} class="{cls}{more}"{attrs}{d}>{body}</{tag}>'
     return _HEAD.sub(rep, doc)
-_TURN = re.compile(r'<p>((?:(?!</p>).)*?)\s*</p>\s*<div class="pgmark"([^>]*)></div>\s*<p>((?:(?!</p>).)*?)</p>', re.S)
+_TURN = re.compile(r'<p>((?:(?!</p>).)*?)\s*</p>\s*<(?:div class="pgmark"|h3 class="pg")([^>]*)>(?:<span>[^<]*</span>)?</(?:div|h3)>\s*<p>((?:(?!</p>).)*?)</p>', re.S)
 def join_page_turns(doc):
     """A sentence that runs over a page turn of the original was two paragraphs with the page heading between them ("…in this manner..." /
     "...the greatness of these texts").  With the page mark out of the body they are one paragraph again (user, Nov 26 2026): joined where the
@@ -132,14 +135,20 @@ def sanskrit(doc):
 
 _STRONG = re.compile(r'<strong>((?:(?!</?strong>).)*)</strong>', re.S)
 def plain_sentences(doc):
-    """Bold is for headings and labels.  The scan-period sessions also set whole sentences in bold as emphasis of their own (Vol 1: about 930);
-    in print such a sentence is plain text (user, Nov 26 2026).  A bold run counts as a sentence when it has 8 words or more, or 5 or more and
-    ends like a sentence; short bold runs (labels, run-in heads, single terms) are left."""
-    def rep(m):
-        t = re.sub(r'<[^>]+>', '', m.group(1)).strip(); w = len(t.split())
-        if w >= 8 or (w >= 5 and re.search(r'[.?!]["”’)]*$', t)): return m.group(1)
-        return m.group(0)
-    return _STRONG.sub(rep, doc)
+    """Bold is for headings and labels only (user, Nov 26 2026).  The scan-period sessions also set whole sentences, and single words and
+    names inside sentences, in bold as emphasis of their own; in print these are plain text.  Kept: a short bold run (fewer than 8 words,
+    not a sentence) that OPENS its paragraph, list item or table cell: a label or run-in head."""
+    def sentence(t):
+        w = len(t.split()); return w >= 8 or (w >= 5 and bool(re.search(r'[.?!]["”’)]*$', t)))
+    def block(m):
+        open_, inner, close = m.group(1), m.group(2), m.group(3); first = [True]
+        def rep(x):
+            lead = first[0] and not re.sub(r'<[^>]+>|[\s"“(\[—-]', '', inner[:x.start()]); first[0] = False
+            t = re.sub(r'<[^>]+>', '', x.group(1)).strip()
+            return x.group(0) if lead and not sentence(t) else x.group(1)
+        return open_ + _STRONG.sub(rep, inner) + close
+    return re.sub(r'(<(p|li|td)\b[^>]*>)(.*?)(</\2>)', lambda m: block(re.match(r'(.*?>)(.*)(</\w+>)$', m.group(0), re.S)), doc, flags=re.S)
+
 
 def stamp(doc):
     """Every PDF says when it was built (REQUIREMENTS H2.7; user, Nov 26 2026, after reading an old copy for a day): the footer reads
@@ -148,6 +157,111 @@ def stamp(doc):
     when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y %H:%M')
     css = f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY\\A built {when} UTC"; white-space: pre; }} }} @page front {{ @bottom-left {{ content: none; }} }} @page :first {{ @bottom-left {{ content: none; }} }} @page :blank {{ @bottom-left {{ content: none; }} }}</style>'
     return doc.replace('</head>', css + '</head>', 1)
-def fix(doc):
+_PGHEAD = re.compile(r'<(h[2-4])([^>]*)>\s*\[?(?:Printed )?[Pp]ages? ([0-9ivxlc]+)((?:[–-][0-9ivxlc]+)?)\]?\s*(?:(?:—|:)\s*(.*?)|<em>\([^<]*\)</em>|\([^<)]*\))?\s*</\1>', re.S)
+def page_headings(doc):
+    """Safety net for every builder: a heading of the working file that is only a page of the original ("Page 221 (continued)",
+    "Pages 46–47 — The Bashkala Samhita…") never prints.  It becomes the invisible page mark that feeds the footer; a title after the dash
+    stays as a heading unless it only says that the text continues."""
+    have = set(re.findall(r'<(?:div class="pgmark"|h3 class="pg") id="(p[0-9ivxlc]+)"', doc)); n = 0
+    def rep(m):
+        nonlocal n
+        tag, attrs, pg, rng, title = m.groups()
+        if 'class="pg"' in attrs: return m.group(0)                      # volbook's own page mark
+        n += 1; pid = 'p' + pg; idattr = '' if pid in have else f' id="{pid}"'; have.add(pid)
+        out = f'<div class="pgmark"{idattr} data-p="Kannada edition p{"p" if rng else ""}. {pg}{rng}"></div>'
+        if title and not re.search(r'(^|[\s(—,])continued\)?\s*$', re.sub(r'<[^>]+>', '', title), flags=re.I): out += f'<{tag}{attrs}>{title}</{tag}>'
+        return out
+    doc = _PGHEAD.sub(rep, doc)
+    return doc, n
+
+_TOC = re.compile(r'(<section class="toc">\s*<h2>[^<]*</h2>)(?:\s*<p class="tocsub">[^<]*</p>)?\s*<ul[^>]*>(.*?)</ul>', re.S)
+def toc_tables(doc):
+    """The book's own contents page or index of sūktas, as every builder writes it (a list of links), set as the one contents table."""
+    def rep(m):
+        rows = []
+        for li in re.finditer(r'<li class="([^"]*)">\s*<a href="(#[^"]+)">(.*?)</a>\s*</li>', m.group(2), flags=re.S):
+            cls, href, label = li.groups()
+            if 'su' in cls.split(): rows.append({'kind': 'head', 'html': f'<a href="{href}"><strong>{label}</strong></a>'}); continue
+            nm = re.match(r'(?:.*?·\s*)?(?:Sūkta|Chapter|ಸೂಕ್ತ)\s+([\w೦-೯-]+)\s*(?:[—:.]\s*(.*))?$', re.sub(r'<[^>]+>', '', label), flags=re.S)
+            rows.append({'no': nm.group(1) if nm else '', 'html': f'<a href="{href}">{label}</a>', 'href': href + ('" data-rm="1' if 'rm' in cls.split() else '')})
+        return m.group(1) + contents_table(rows) if rows else m.group(0)
+    return _TOC.sub(rep, doc)
+
+_LAT = re.compile(r'[A-Za-z]{3,}')
+def quotations(doc):
+    """A quotation from another work, printed with a bar, holds the Sanskrit and its transliteration only (user, Nov 26 2026: "references
+    from other books … should not contain the English").  The English that stood inside the bar is our rendering of the quotation: it is
+    not dropped but set as ordinary text right under the bar (p.qen).  A short reference in parentheses after the Sanskrit stays in the bar."""
+    n = 0
+    def bq(m):
+        nonlocal n
+        inner = m.group(2)
+        if not _DV.search(inner): return m.group(0)
+        keep, out_en = [], []
+        for part in re.split(r'(<p\b[^>]*>.*?</p>)', inner, flags=re.S):
+            pm = re.match(r'(<p\b[^>]*>)(.*)(</p>)$', part, flags=re.S)
+            if not pm: keep.append(part); continue
+            body = pm.group(2)
+            ends = [x.end() for x in re.finditer(r'</em>|</span>', body) if (x.group(0) == '</span>' or '<em class="iast">' in body[:x.start()])]
+            cut = max(ends) if ends else 0
+            head, tail = body[:cut], body[cut:]
+            ref = re.match(r'(?:\s|<br ?/?>)*(\((?:[^()<]|<[^>]+>){0,70}\))', tail)                       # "(Taittiriya Brahmana 2-1-2-12)" stays with the Sanskrit
+            if ref and cut: head += ' ' + ref.group(1); tail = tail[ref.end():]
+            t = re.sub(r'^(?:\s|<br ?/?>)+|(?:\s|<br ?/?>)+$', '', tail)
+            if cut == 0 and not _DV.search(body) and 'class="iast"' not in body:
+                if _LAT.search(re.sub(r'<[^>]+>', '', body)): out_en.append(body); continue             # a paragraph of English only
+                keep.append(part); continue
+            if t and len(_LAT.findall(re.sub(r'<[^>]+>', '', t))) >= 2 and not _DV.search(t):
+                out_en.append(t); head = re.sub(r'(?:\s|<br ?/?>)+$', '', head)
+                if head.strip(): keep.append(pm.group(1) + head + pm.group(3))
+            else: keep.append(part)
+        if not out_en: return m.group(0)
+        n += len(out_en)
+        return m.group(1) + ''.join(keep) + '</blockquote>\n' + '\n'.join(f'<p class="qen">{x}</p>' for x in out_en)
+    doc = re.sub(r'(<blockquote(?![^>]*samhita)[^>]*>)(.*?)</blockquote>', bq, doc, flags=re.S)
+    return doc, n
+
+_KN = re.compile('[ಀ-೿]')
+_KNRUN = re.compile('[ಀ-೿][ಀ-೿‌‍\\s।॥.,:;\\-–]*[ಀ-೿।॥.]|[ಀ-೿]')
+def no_kannada(doc):
+    """No Kannada script in the body of the English book (REQUIREMENTS B2.3; user, Nov 26 2026: "no kannada in main body at all").
+    "ಆರನೆಯ ಪ್ರಕರಣ — The Sixth Chapter" keeps the English; "(ಮುನ್ನುಡಿ)" after an English word goes; any other Kannada is given in
+    transliteration, italic, so that nothing is lost.  Only for a document whose language is English."""
+    if not re.search(r'<html lang="en"', doc[:300]) or not _KN.search(doc): return doc, 0
+    import sys, pathlib
+    sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / 'tools' / 'translit'))
+    from kannada_to_deva import kn2deva
+    from add_iast import deva_to_iast
+    n = 0; digits = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
+    def text(t):
+        nonlocal n
+        if not _KN.search(t): return t
+        n += 1
+        t = re.sub('[ಀ-೿][ಀ-೿\\s‌‍]*\\s+[—–-]\\s+(?=[A-Z])', '', t)             # Kannada name — English name
+        t = re.sub('\\s*\\(\\s*[ಀ-೿][ಀ-೿\\s‌‍.]*\\)', '', t)                        # English (Kannada)
+        t = t.translate(digits)
+        return _KNRUN.sub(lambda r: '<i>' + deva_to_iast(kn2deva(r.group(0))).strip() + '</i>', t)
+    parts = re.split(r'(<[^>]+>)', doc); body = False
+    for k, t in enumerate(parts):
+        if t.startswith('<'):
+            if t.startswith('<body'): body = True
+        elif body: parts[k] = text(t)
+    return ''.join(parts), n
+
+def fix(doc, quiet=False):
+    """Every print rule that holds for all volumes (docs/REQUIREMENTS.md, A4 "Print rules"), applied to the finished HTML of any builder.
+    Prints one line of counts, so that each build shows what was done."""
+    c = {}
     doc = stamp(doc)
-    return sanskrit(headings(lists(contents_sections(join_page_turns(label_paragraphs(plain_sentences(doc)))))))
+    doc, c['page headings out of the body'] = page_headings(doc)
+    b0 = doc.count('<strong>'); doc = plain_sentences(doc); c['bold sentences and words set plain'] = b0 - doc.count('<strong>')
+    doc = label_paragraphs(doc); c['label paragraphs'] = doc.count('<p class="only-strong">')
+    doc = join_page_turns(doc); c['paragraphs joined over a page turn'] = doc.count('<span class="pgmark"')
+    doc = toc_tables(contents_sections(doc)); c['contents tables'] = doc.count('<table class="contents">')
+    doc = lists(doc); c['lists continued'] = doc.count('<ol class="cont"')
+    doc = headings(doc); c['two-line headings'] = doc.count('class="ht1"')
+    doc = sanskrit(doc); c['transliterations on their own line'] = doc.count('<em class="iast">')
+    doc, c['English moved out of the quotation bar'] = quotations(doc)
+    doc, c['Kannada-script places'] = no_kannada(doc)
+    if not quiet: print('[printfix] ' + '; '.join(f'{k} {v}' for k, v in c.items()))
+    return doc
