@@ -12810,6 +12810,325 @@ Indu effused (by the stones) passes through the woollen filter : green-tinted he
 > इंदो इति । वि । अव्यम् । अर्षसि । वि । श्रवांसि । वि । सौभगा ।  
 > वि । वाजान् । सोम । गोऽमतः ॥ ५ ॥
 
+### Printed p. 345
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अव्यम् अविवाले भवं पवित्रं वि अर्षसि विविधं धाराभिर्गच्छसि । किंच श्रवांसि हवीरूपाण्यन्नानि च वि गच्छसि। तथा सौभगा । सुभगस्य भावः सौभगम् । सुभगशब्द उद्गात्रादिषु पठ्यते । तस्योत्तरपदवृद्धिर्नेष्यते । सौभगानि धनानि विविधं प्राप्नोषि। तथा हे सोम गोमतः पशुमंति वाजान् बलानि च विविधं प्राप्नुहि। तानि सर्वाण्यस्माकं प्रापयेत्यभिप्रायः ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, O Soma, you go variously with your streams through the filter made of sheep's hair. Moreover you go through the foods in the form of oblations. You also obtain in various ways the good-fortune-bringing riches; the word for good fortune belongs to the class of words of the Udgātṛ and the like. Likewise, O Soma, obtain in various ways the strength and cattle-rich foods; the intention is that all these be obtained for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- अव्यं (*avyaṃ*)—the ten-fold filter made of wool
+- वि अर्षसि (*vi arṣasi*)—you enter with many streams
+- श्रवांसि (*śravāṃsi*)—also the foods
+- वि (*vi*)—you obtain in abundance
+- सौभगा (*saubhagā*)—the riches that are for welfare
+- वि (*vi*)—you obtain (in order to give to us)
+- सोम (*soma*)—O Soma-deva
+- गोमतः (*gomataḥ*)—that are rich in cattle
+- वाजान् (*vājān*)—the foods
+- वि (*vi*)—obtain in many forms
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you enter the ten-fold filter made of wool with many streams. You obtain the foods in abundance. You obtain the riches that are for welfare, in order to give them to us. O Soma-deva, obtain in many forms the cattle-rich foods.
+
+##### English translation
+Indu, hasten through the fleece, grant us food and wealth (therefore grant us), Soma, strength of flocks.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॑ इंदो शत॒ग्विनं॑ र॒यिं गोमं॑तम॒श्विन॑म् ।  
+> भरा॑ सोम सह॒स्रिण॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । इंदो इति । शतऽग्विनम् । रयिम् । गोऽमंतम् । अश्विनम् ।  
+> भर । सोम । सहस्रिणम् ॥ ६ ॥
+
+### Printed p. 346
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो पात्रेषु क्षरन् हे सोम नः अस्मभ्यम् आ भर संपादय देहि । किमिति उच्यते । शतग्विनम् । शतं गावो यस्य स शतगुः । तद्वंतं गोमंतं प्रशस्तपशुमंतम् अश्विनम् अश्वयुक्तं सहस्रिणं सहस्रसंख्याकं रयिं धनं पुत्रं वा आ भर ॥
+
+##### Gist of the bhāṣya
+
+O Indu, flowing into the vessels, O Soma, bring to us, that is, procure and give, wealth, or a son, of what kind? शतग्विनम् (*śatagvinam*): one who has a hundred cows is शतगुः (*śataguḥ*), and wealth endowed with that; rich in cows, that is, having excellent cattle; अश्विनम् (*aśvinam*), having horses; सहस्रिणं (*sahasriṇaṃ*), thousandfold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—who flows
+- सोम (*soma*)—O Soma-deva **NOTE**
+- नः (*naḥ*)—to us
+- शतग्विनः (*śatagvinaḥ*)—that which has a hundred cows **NOTE**
+- गोमंतं (*gomaṃtaṃ*)—that which has excellent cows
+- अश्विनं (*aśvinaṃ*)—that which has horses
+- सहस्रिणं (*sahasriṇaṃ*)—that which is thousandfold
+- रयिं (*rayiṃ*)—wealth
+- आभर (*ābhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, who are of the nature of a flow, bring and provide to us wealth which has hundreds of excellent cows, which has horses and which is thousandfold.
+
+##### English translation
+Indu, Soma, bring us thousand-fold wealth, consisting of hundreds of cows, having excellent cows and horses.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानास॒ इंद॑वस्ति॒रः प॒वित्र॑मा॒शवः॑ ।  
+> इंद्रं॒ यामे॑भिराशत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानासः । इंदवः । तिरः । पवित्रम् । आशवः ।  
+> इंद्रम् । यामेभिः । आशत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवित्रम् ऊर्णास्तुकेन निर्मितं दशापवित्रं तिरः तिरस्कृत्य व्यवधायकं कृत्वा पवमानासः कलशं प्रति बहुधाराः क्षरंतः आशवः क्षिप्रंमदकारिणश्चमसादीन् व्याप्नुवंतो वा इंदवः सोमाः यामेभिः स्वीयैर्गमनैः इंद्रम् आशत व्याप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+The Indus, that is, the Somas, flowing in many streams towards the vessel, having set aside, that is, made an obstruction of, the ten-fold filter made of wool, swift, that is, quickly gladdening, or pervading the cups and the like, reach, that is, pervade, Indra by their own goings.
+
+### Printed p. 347
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवित्रं (*pavitraṃ*)—the ten-fold filter
+- तिरः (*tiraḥ*)—having crossed
+- पवमानासः (*pavamānāsaḥ*)—flowing in many streams
+- आशवः (*āśavaḥ*)—swift-moving
+- इंदवः (*iṃdavaḥ*)—the Soma-juices
+- यामेभिः (*yāmebhiḥ*)—by their goings
+- इंद्रं (*iṃdraṃ*)—Indra
+- आशत (*āśata*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, flowing in many streams and swift-moving, having crossed the ten-fold filter, approach Indra by their goings.
+
+##### English translation
+The purified swift-flowing Soma-juices passing through the filter reach Indra by their own paths.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒कु॒हः सो॒म्यो रस॒ इंदु॒रिंद्रा॑य पू॒र्व्यः ।  
+> आ॒युः प॑वत आ॒यवे॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ककुहः । सोम्यः । रसः । इंदुः । इंद्राय । पूर्व्यः ।  
+> आयुः । पवते । आयवे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ककुहः । सोमः सर्वकर्मकारयितृत्वेन सर्वेषां समुच्छ्रितोऽतिशयितो भवति । सोऽयं पूर्व्यः पूर्वैः कृतोऽभिषुतः पूर्वं प्रातःकाले कृतो वा आयुः इंद्रमभिगंता इंदुः पात्रेषु क्षरन् सोम्यः । ‘ मये च ' ( पा. सू. ४. ४. १३८ ) इति यप्रत्ययः। सोममयः रसः आयवे सर्वत्र गंत्रे इंद्राय पवते कलशेषु पवित्रेण पूतो भवति । यद्वा । इंद्रार्थमभिमुखं गच्छति । पवतिर्गतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+Soma becomes exalted, surpassing all, as the one who causes all rites to be performed. This Soma is पूर्व्यः (*pūrvyaḥ*): made, that is, pressed, by the men of old, or made formerly, at the morning time. He is the goer to Indra, Indu, flowing into the vessels, सोम्यः (*somyaḥ*), made of Soma, the juice. He is purified by the filter in the vessels for Indra, who goes everywhere. Or else, he goes towards Indra; the root meaning "purify" has the sense of going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—which is of the nature of a flow
+- ककुहः (*kakuhaḥ*)—which is excellent
+- पूर्व्यः (*pūrvyaḥ*)—which is pressed by those of old
+- आयुः (*āyuḥ*)—which approaches Indra
+- सोम्यः (*somyaḥ*)—which is related to Soma, such
+- रसः (*rasaḥ*)—the juice
+
+### Printed p. 348
+
+- अयवे (*ayave*)—who is the place of arrival **NOTE**
+- इंद्राय (*iṃdrāya*)—with Indra in view
+- पवते (*pavate*)—gains purity in the ten-fold filter
+
+##### भावार्थ (Bhāvārtha)
+
+The juice, which is of the nature of a flow, excellent, pressed by those of old, approaching Indra and related to Soma, gains purity in the ten-fold filter with Indra, the place of arrival, in view.
+
+##### English translation
+The excellent juice of the Soma dropping (into the vessels) poured forth by men of old, the goer (to Indra) is filtered for Indra the goer.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒न्वंति॒ सूर॒मुस्र॑यः॒ पव॑मानं मधु॒श्चुत॑म् ।  
+> अ॒भि गि॒रा सम॑स्वरन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिन्वंति । सूरम् । उस्रयः । पवमानम् । मधुऽश्चुतम् ।  
+> अभि । गिरा । सम् । अस्वरन् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उस्रयः कर्मकरणार्थमितस्ततः संचरंत्योऽंगुलयः मधुश्चुतं मदकरस्य रसस्य च्यावयितारं सूरं सुवीर्यं सर्वस्य यागादिकर्मणि प्रेरकं पवमानं सोमं हिन्वंति अभिषवार्थं संप्रेरयंति । ततः स्तोतारः गिरा स्तुत्या तमेनम् अभि समस्वरन् सम्यगभिष्टुवंति ॥
+
+##### Gist of the bhāṣya
+
+The fingers, moving here and there for the performance of the rite, impel, that is, send forth for the pressing, Pavamāna Soma, who causes the honey-like intoxicating juice to flow, who is heroic and the impeller of all in the rites such as the sacrifice. Then the praisers, with the voice, that is, with praise, hail that same Soma well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुश्चुतं (*madhuścutaṃ*)—who makes sweet juice flow
+- सूरं (*sūraṃ*)—who has heroic power
+- पवमानं (*pavamānaṃ*)—Soma
+- उस्रयः (*usrayaḥ*)—the fingers
+- हिन्वंति (*hinvaṃti*)—press
+- गिरा (*girā*)—with praises
+- अभि समस्वरन् (*abhi samasvaran*)—the praisers extol
+
+##### भावार्थ (Bhāvārtha)
+
+The fingers press Soma, who makes sweet juice flow and who has heroic power. The praisers extol him with praises.
+
+### Printed p. 349
+
+##### English translation
+The fingers express the purified honey-dropping heroic Soma : (the worshippers) hail him with praise.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वि॒ता नो॑ अ॒जाश्वः॑ पू॒षा याम॑नियामनि ।  
+> आ भ॑क्षत्क॒न्या॑सु नः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविता । नः । अजऽअश्वः । पूषा । यामनिऽयामनि ।  
+> आ । भक्षत् । कन्यासु । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजाश्वः । ‘अजाः पूष्णः' इत्युक्तत्वादजा एवाश्वा वाहनानि यस्य स तथोक्तः । सः पूषा एतन्नामको देवः यामनियामनि सर्वस्मिन् गमने भौमदिव्यलक्षणे नः अस्माकम् अविता पालयिता भवतु । किंच कन्यासु कमनीयास्वभिमतासु स्त्रीषु नः अस्मान् आ भक्षत् आभजतु । अस्माकं कन्याः प्रयच्छत्वित्यर्थः । भजः सेवार्थाल्लेटि सिप्यडागमे रूपम् । यद्वा । अजाश्वोऽजवाहनः पूषा सर्वस्य पोषयिता सोमो यामनियामनि । यायते प्राप्यते देवैरत्रेति याम यज्ञः । तत्र यज्ञे नोऽस्माकमविता रक्षिता भवतु । तथा कन्यासु स्त्रीष्विष्टास्वस्माना भक्षत् प्रापयतु ॥ ॥ १४ ॥
+
+##### Gist of the bhāṣya
+
+अजाश्वः (*ajāśvaḥ*): since it is said "the goats are Pūṣan's", he whose horses, that is, vehicles, are goats. May that god named Pūṣan be our protector in every going, whether of earth or of heaven. Moreover let him bring us to lovable, desired women; the meaning is that he should give us maidens. Or else: अजाश्वः (*ajāśvaḥ*) is Soma, who has goats as his vehicle and is the nourisher of all; याम (*yāma*) is the sacrifice, to which the gods go; may he be our protector in that sacrifice, and may he bring us to desired women.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजाश्वः (*ajāśvaḥ*)—who has a vehicle called Aja
+- पूषा (*pūṣā*)—Pūṣan-deva
+- यामनियामनि (*yāmaniyāmani*)—in all our paths of going
+- नः (*naḥ*)—to us
+- अविता (*avitā*)—let him be a protector
+- कन्यासु (*kanyāsu*)—with attractive maidens
+- नः (*naḥ*)—us
+- आ भक्षत् (*ā bhakṣat*)—let him cause to join
+
+##### भावार्थ (Bhāvārtha)
+
+Let Pūṣan-deva, who has vehicles called Aja, be our protector in all our paths of going, and let him cause us to join attractive maidens. **NOTE**
+
+### Printed p. 350
+
+##### English translation
+May the goat-borne Pushan in all his paths be our protector : may he bestow maidens on us.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सोमः॑ कप॒र्दिने॑ घृ॒तं न प॑वते॒ मधु॑ ।  
+> आ भ॑क्षत्क॒न्या॑सु नः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । सोमः । कपर्दिने । घृतम् । न । पवते । मधु ।  
+> आ । भक्षत् । कन्यासु । नः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कपर्दिने कल्याणमुकुटवते सोमाय पूष्णे वा तदर्थम् अयं मादयिताभिषुतोऽस्मदीयः सोमः पवते च गच्छति । तं प्राप्नोति । तत्र दृष्टांतः। घृतं न मधु मादकं हवीरूपं घृतं यथा सोमं पूषणं वा गच्छति तद्वत् । ततः सः कन्यासु अस्मानागमयत् ॥
+
+##### Gist of the bhāṣya
+
+For the one with the beautiful crown, that is, for Soma or Pūṣan, this gladdening Soma of ours, pressed, flows, that is, goes and reaches him. An illustration is given: as the gladdening ghee in the form of an oblation goes to Soma or to Pūṣan, so does it. Thereupon may he bring us to maidens.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधु (*madhu*)—sweet
+- धृतं न (*dhṛtaṃ na*)—like ghee **NOTE**
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma-juice
+- कपर्दिने (*kapardine*)—towards Pūṣan, who wears fine garments
+- पवते (*pavate*)—flows
+- सः (*saḥ*)—that same Pūṣan
+- नः (*naḥ*)—us
+- कन्यासु (*kanyāsu*)—with attractive maidens
+- आ भक्षत् (*ā bhakṣat*)—let him cause to join
+
+##### भावार्थ (Bhāvārtha)
+
+Like sweet ghee, this Soma-juice flows towards Pūṣan-deva, who wears fine garments. Let that same Pūṣan cause us to join attractive maidens.
+
+##### English translation
+This Ṣoma flows to Pushan, who wears a beautiful tiara like exhilarating ghee : may he bestow maidens on us. **NOTE**
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं त॑ आघृणे सु॒तो घृ॒तं न प॑वते॒ शुचि॑ ।  
+> आ भ॑क्षत्क॒न्या॑सु नः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । ते । आघृणे । सुतः । घृतम् । न । पवते । शुचि ।  
+> आ । भक्षत् । कन्यासु । नः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आघृणे । 'घृ क्षरणदीप्त्योः । सर्वतो दीप्यमान पवमान पूषन् वा ते त्वदर्थं सुतः अभिषुतः अयं सोमः पवते त्वदभिमुखमागच्छति । यद्वा । त्वदर्थं पात्रेषु पवित्रेण पूतो भवति क्षरति वा । तत्र दृष्टांतः। घृतं न शुचि । शुद्धं घृतं यथा त्वां प्राप्नोति तद्वत् । ततस्त्वमभिलषितान्यस्माकं देहीति ॥
+
+##### Gist of the bhāṣya
+
+O आघृणे (*āghṛṇe*), from a root meaning to flow and to shine: O one shining all around, O Pavamāna, or O Pūṣan, this Soma, pressed for you, flows, that is, comes towards you. Or else, for you it is purified by the filter in the vessels, or flows. An illustration is given: as pure ghee reaches you, so does it. Therefore may you give us what we desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आफृणे (*āphṛṇe*)—O Pūṣan-deva, who are radiant **NOTE**
+- ते (*te*)—towards you
+- सुतः (*sutaḥ*)—pressed
+- अयं (*ayaṃ*)—this Soma
+- शुचि (*śuci*)—pure
+- घृतं न (*ghṛtaṃ na*)—like ghee
+- पवते (*pavate*)—flows
+- नः (*naḥ*)—us
+- कन्यासु (*kanyāsu*)—with maidens
+- अभक्षत् (*abhakṣat*)—cause to be joined **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Pūṣan-deva, this Soma, pressed for you, flows like pure ghee. Cause us to be joined with maidens.
+
+##### English translation
+This Soma poured forth for you, shining (Pushan) flows like pure ghee : may he bestow maidens on us.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒चो जं॒तुः क॑वी॒नां पव॑स्व सोम॒ धार॑या ।  
+> दे॒वेषु॑ रत्न॒धा अ॑सि ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 344. Sukta 67 intro, Rk 1-5, pp. 339-344
+**Progress note:** Done through printed p. 350. Rk 5 end to Rk 13 start, sukta 67, pp. 345-350
