@@ -22685,6 +22685,238 @@ Flow, Indu, who are the winner of cattle, wealth, and gold, the fructifier, plac
 
 The wave, the juice, of the sweet one makes the pleasing words rise up, for at the time of the pressing of Soma the words of praise begin. Clothing himself with the waters, the great one enters the pitcher. The king Soma, whose chariot is the ten-fold filter alone, such a Soma mounts the battle. Of a thousand shakings, of unmeasured motion, he wins great food for us.
 
+### Printed p. 601
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मध्वः (*madhvaḥ*)—of the sweet Soma
+- ऊर्मिः (*ūrmiḥ*)—the juice in the form of a wave
+- वननाः (*vananāḥ*)—attractive sound
+- उदतिष्ठिपत् (*udatiṣṭhipat*)—produces
+- अपः (*apaḥ*)—the waters
+- वसानः (*vasānaḥ*)—putting on
+- महिषः (*mahiṣaḥ*)—the great Soma
+- वि गाहते (*vi gāhate*)—enters into the pitcher
+- पवित्ररथः (*pavitrarathaḥ*)—the one who has an excellent chariot
+- राजा (*rājā*)—and the lord, Soma
+- वाजं (*vājaṃ*)—the field of battle
+- आरुहत् (*āruhat*)—mounts
+- सहस्रभृष्टिः (*sahasrabhṛṣṭiḥ*)—possessing many weapons
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—food
+- जयति (*jayati*)—he provides for us
+
+##### भावार्थ (Bhāvārtha)
+
+The juice of the sweet Soma, in the form of a wave, produces an attractive sound. Putting on the waters, the great Soma enters into the pitcher. Soma, who has an excellent chariot and is the lord, mounts the field of battle. Possessing many weapons, he provides abundant food for us.
+
+##### English translation
+The wave of the sweet-flavoured (Soma) excites voices (of praise); clothed in water the mighty one plunges (into the pitcher): the king whose chariot is the filter mounts for the conflict, and, armed with a thousand weapons, wins ample sustenance (for us).
+
+#### Ṛk 41
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स भं॒दना॒ उदि॑यर्ति प्र॒जाव॑तीर्वि॒श्वायु॒र्विश्वाः॑ सु॒भरा॒ अह॑र्दिवि ।  
+> ब्रह्म॑ प्र॒जाव॑द्र॒यिमश्व॑पस्त्यं पी॒त इं॑द॒विंद्र॑म॒स्मभ्यं॑ याचतात् ॥ ४१ ॥
+
+### Printed p. 602
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । भंदनाः । उत् । इयर्ति । प्रजाऽवतीः । विश्वऽआयुः । विश्वाः । सुऽभराः । अहःऽदिवि ।  
+> ब्रह्म । प्रजाऽवत् । रयिम् । अश्वऽपस्त्यम् । पीतः । इंदो इति । इंद्रम् । अस्मभ्यम् । याचतात् ॥ ४१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः विश्वायुः सर्वस्य गंता सोमः प्रजावतीः प्रजारूपफलदात्रीः सुभराः सुष्ठु ह्रियमाणाः विश्वाः सर्वाः भंदनाः स्तुतीः उदियर्ति उत्कृष्टं प्रेरयति । कस्मिन् काले उच्यते । अहर्दिवि अहोरात्रयोश्च । अथ प्रत्यक्षकृतः । ब्रह्म परिवृढं कर्म प्रजावत् प्रजाभिर्युक्तम् । प्रजाफलकमित्यर्थः । यद्वा । अन्नं तच्च प्रजावत् प्रजाद्युपेतम् । तथा रयिं धनम् । कीदृशम् । अश्वपस्त्यं व्याप्तगृहम् । तदुभयं हे इंदो दीप्त सोम पीतः इंद्रेण पीतस्त्वं तमेव इंद्रमस्मभ्यं याचतात् याचस्व ॥
+
+##### Gist of the bhāṣya
+
+That Soma, the all-going, the goer to all, sends forth upward all the praises (भंदनाः (*bhaṃdanāḥ*) here means praises), which give offspring as their fruit and are well borne. At what time is this said? In day and night. Now the verse turns to the direct address: ब्रह्म (*brahma*) is the great rite, endowed with offspring, that is, with offspring as its fruit; or else it is food, and that too endowed with offspring and the like. Likewise wealth, of what kind? That which fills the house, where horses are. O Indu, shining Soma, you who were drunk by Indra, ask that same Indra for us for both.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वायुः (*viśvāyuḥ*)—the all-going
+- सः (*saḥ*)—Soma-deva
+- अहर्दिवि (*ahardivi*)—throughout days and nights
+- प्रजावतीः (*prajāvatīḥ*)—giving fruits such as sons
+- सुभराः (*subharāḥ*)—and well offered
+- विश्वाः भंदनाः (*viśvāḥ bhaṃdanāḥ*)—all the praises
+- उदियर्ति (*udiyarti*)—he sends forth
+- इंदो (*iṃdo*)—O Soma-deva
+- पीतः (*pītaḥ*)—you, who were drunk by Indra
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- इंद्रं (*iṃdraṃ*)—from Indra
+- प्रजावत् (*prajāvat*)—with offspring
+- ब्रह्म (*brahma*)—and abundant food
+- अश्वपस्यं (*aśvapasyaṃ*)—having a spacious house **NOTE**
+- रयिं (*rayiṃ*)—and wealth
+- याचतां (*yācatāṃ*)—ask **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, the all-going, sends forth throughout days and nights all the praises that give sons and other fruits and are well offered. O Soma-deva, you who were drunk by Indra, ask from Indra for us food with offspring and abundant, and wealth with a spacious house.
+
+##### English translation
+The all pervading (Soma) excites both day and night all praises easily borne, productive of prosperity ; Indu, when drunk, solicit Indra (to give) us food productive of progeny and riches filling our homes.
+
+### Printed p. 603
+
+##### विशेषविषयगळु (Special Topics)
+
+भंदनाः (*bhaṃdanāḥ*): praises. Yāska has said भंदना भंदतेः स्तुतिकर्मणः (*bhaṃdanā bhaṃdateḥ stutikarmaṇaḥ*). The word भंदनाः (*bhaṃdanāḥ*) is formed from the root भंदति (*bhaṃdati*), which has the meaning "to praise". भंदनाः (*bhaṃdanāḥ*) means praises (Ni. 5-2).
+
+#### Ṛk 42
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अग्रे॒ अह्नां॒ हरि॑र्हर्य॒तो मदः॒ प्र चेत॑सा चेतयते॒ अनु॒ द्युभिः॑ ।  
+> द्वा जना॑ या॒तय॑न्नं॒तरी॑यते॒ नरा॑ च॒ शंसं॒ दैव्यं॑ च ध॒र्तरि॑ ॥ ४२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अग्रे । अह्नाम् । हरिः । हर्यतः । मदः । प्र । चेतसा । चेतयते । अनु । द्युऽभिः ।  
+> द्वा । जना । यातयन् । अंतः । ईयते । नराशंसम् । च । दैव्यम् । च । धर्तरि ॥ ४२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः अग्रे सर्वेषां संमुखं चेतसा प्राणिनां चेतनेन सह अह्रां द्युभिः दीप्तिभिः अनु प्र चेतयते अनुप्रज्ञायते । यद्वा । अह्नामग्रे अग्रभागे। प्रातरित्यर्थः । स्तोतॄणां चेतसा प्रज्ञानेन द्युभिर्दीप्ताभिः स्तुतिभिश्चानु प्र चेतयते । कीदृशः सः । हरिः हरितवर्णः हर्यतः कांतः मदः मदकरः। किंच द्वा जना द्वौ जनौ स्तोतारं यष्टारं च यातयन् प्रापयन् स्वविहितेन कर्मणा । लौकिकवैदिकौ द्वौ जनौ द्रष्टव्यौ । एवं कुर्वन् अंतः द्यावापृथिव्योर्मध्ये ईयते गच्छति । ‘ ईङ् गतौ ' । किं कुर्वन् । नराशंसं नरैः शंसनीयम् । मानुषमित्यर्थः । दैव्यं च दिवि भवम् उभयविधं धनं धर्तरि धारके यजमाने प्रेरयन्निति शेषः ॥
+
+##### Gist of the bhāṣya
+
+That Soma is made known in front of all, with the understanding of living beings, along with the lights of the days. Or else: in the forefront of the days, that is, in the morning, with the understanding of the singers and with shining praises he is made known. Of what kind is he? Green, lovely, exhilarating. Further, he causes the two persons, the singer and the sacrificer, to reach the fruit by the rite ordained by himself; the two persons are to be understood as the worldly one and the Vedic one. Doing so he goes in the midst of heaven and earth; the root ईङ् (*īṅ*) is in the sense of going. Doing what? Sending both kinds of wealth, the human, which is to be praised by men, and the divine, which is born in heaven, to the sacrificer, the holder; the verb "sending" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Soma-deva
+- अग्रे (*agre*)—so as to be visible to all
+- चेतसा (*cetasā*)—with his excellent knowledge
+- अह्नां (*ahnāṃ*)—of the days
+- द्युभिः (*dyubhiḥ*)—with the splendours
+- अनु प्र चेतयते (*anu pra cetayate*)—is made known
+- हरिः (*hariḥ*)—green-coloured
+- हर्यतः (*haryataḥ*)—attractive
+- मदः (*madaḥ*)—and delight-giving Soma
+- द्वा जना (*dvā janā*)—the sacrificer and the hotṛs
+- यातयन् (*yātayan*)—making them obtain the fruit of the rite
+
+### Printed p. 604
+
+- नराशंसं (*narāśaṃsaṃ*)—the wealth beneficial to men
+- दैव्यं च (*daivyaṃ ca*)—and the wealth of the heavenly world
+- धर्तरि (*dhartari*)—establishing in the sacrificer
+- अंतः (*aṃtaḥ*)—between heaven and earth
+- ईयते (*īyate*)—he moves about
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva is made known so as to be visible to all, with his excellent knowledge and the splendours of the days. Green-coloured, attractive and delight-giving, Soma bestows the fruit of the rite on the sacrificer and the hotṛs, establishes in the sacrificer the wealth of earth and of the heavenly world, and moves about between heaven and earth.
+
+##### English translation
+At the beginning of the day the green-tinted delightful exhilarating (Soma) is recognized by the intelligence (of the praisers and by their praises); approaching the two men he passes in the midst (of heaven and earth, bestowing) upon the upholder (of the rite) both human and divine (riches).
+
+#### Ṛk 43
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒जते॒ व्यं॑जते॒ समं॑जते॒ क्रतुं॑ रिहंति॒ मधु॑ना॒भ्यं॑जते ।  
+> सिंधो॑रुच्छ्वा॒से प॒तयं॑तमु॒क्षणं॑ हिरण्यपा॒वाः प॒शुमा॑सु गृभ्णते ॥ ४३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंजते । वि । अंजते । सम् । अंजते । क्रतुम् । रिहंति । मधुना । अभि । अंजते ।  
+> सिंधोः । उत्ऽश्वासे । पतयंतम् । उक्षणम् । हिरण्यऽपावाः । पशुम् । आसु । गृभ्णते ॥ ४३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोममृत्विजः अंजते गोभिः । तथा व्यंजते विविधमंजंति । समंजते सम्यगंजंति । स्तुत्यर्थत्वादपुनरुक्तिः । तथा क्रतुं बलकर्तारं रिहंति लिहंति । आस्वादयंति देवाः । तथा पुनः मधुना गव्येन अभ्यंजते । तमेव सोमं सिंधोः उदकस्य रसस्याधारभूते उच्छ्वासे उच्छ्रिते देशे पतयंतं गच्छंतम् ॥ ‘पत्लृ गतौ ' इत्यस्मात्स्वार्थे णिचि वृद्ध्यभावश्छांदसः ॥ उक्षणं सेक्तारं हिरण्यपावाः हिरण्येन पुनंतः पशुं द्रष्टारम् । ‘पशुः पश्यतेः ' (निरु. ३.१६) इति निरुक्तम् । आसु वसतीवरीषु गृभ्णते गृह्णंति ॥
+
+##### Gist of the bhāṣya
+
+The priests anoint Soma with milk; likewise they anoint him variously, and anoint him well; there is no repetition, since the purpose is praise. Likewise they lick, that is, the gods taste, the maker of strength. Again they anoint him with honey, that is, with what comes from cows. That same Soma goes, falling, in the high place that is the basis of the water, the juice. He is the sprinkler. Those who purify with gold take the seer, the पशुं (*paśuṃ*); the Nirukta says "the paśu from the root paśyati" (Niru. 3.16) **NOTE**. They take him in these waters, the vasatīvarī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंजते (*aṃjate*)—the priests mix Soma with milks
+- व्यंजते (*vyaṃjate*)—they adorn
+- समंजते (*samaṃjate*)—they refine
+- क्रतुं (*kratuṃ*)—the powerful Soma
+- रिहंति (*rihaṃti*)—the gods drink
+- मधुना (*madhunā*)—with sweet milk
+- अभिव्यंजते (*abhivyaṃjate*)—they mix together **NOTE**
+- सिंधोः (*siṃdhoḥ*)—of the water that is the basis of the juice
+- उच्छ्वासे (*ucchvāse*)—in the high place
+- पतॆयंतं (*patèyaṃtaṃ*)—the one that falls **NOTE**
+- उक्षणं (*ukṣaṇaṃ*)—that showers desires
+- पशुं (*paśuṃ*)—and has the power of sight, the Soma juice
+- हिरण्यपावाः (*hiraṇyapāvāḥ*)—the priests who purify with gold
+- आसु (*āsu*)—with the vasatīvarī waters
+- गृभ्नते (*gṛbhnate*)—take, in order to mix **NOTE**
+
+### Printed p. 605
+
+##### भावार्थ (Bhāvārtha)
+
+The priests mix Soma with milks. They adorn and refine. The gods drink the powerful Soma. They mix it with sweet milk. The priests who purify with gold take the Soma juice, which falls in the high place of the water that is the basis of the juice, which showers desires and has the power of sight, in order to mix it with the vasatīvarī waters.
+
+##### English translation
+(The priests) smear and grease and anoint (the Soma with milk) ; (the gods) taste the invigorating (juice) ; they smear it o'er with sweet (milk). Purifying it with gold, they plunge it into those (waters), the sprinkler, the beholder, falling into the seething torrent.
+
+#### Ṛk 44
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒प॒श्चिते॒ पव॑मानाय गायत म॒ही न धारात्यंधो॑ अर्षति ।  
+> अहि॒र्न जू॒र्णामति॑ सर्पति॒ त्वच॒मत्यो॒ न क्रीळ॑न्नसर॒द्वृषा॒ हरिः॑ ॥ ४४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विपःऽचिते । पवमानाय । गायत । मही । न । धारा । अति । अंधः । अर्षति ।  
+> अहिः । न । जूर्णाम् । अति । सर्पति । त्वचम् । अत्यः । न । क्रीळन् । असरत् । वृषा । हरिः ॥ ४४ ॥
+
+### Printed p. 606
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः विपश्चिते मेधाविने पवमानाय पूयमानाय गायत स्तुतिं कुरुत । स च विपश्चित्सोमः मही न धारा महती वर्षधारेव अंधः अन्नं रसात्मकम् अति अर्षति । अहिर्न अहिरिव जूर्णां जीर्णां त्वचम् अति सर्पति अतिमुंचति । अभिषवादिकर्मणा त्वचं मुंचतीत्यर्थः । तद्वदतिसर्पति धारा दशापवित्रात् । अत्यो न अश्व इव क्रीळन् असरत् सरति गच्छति द्रोणकलशम् । वृषा वर्षकः कामानां हरिः हरितवर्णः रसः ॥
+
+##### Gist of the bhāṣya
+
+O priests, sing praise to the wise, the purifying Soma. And that wise Soma, like a great stream of rain, sends forth food of the nature of juice. Like a snake he casts off his old skin; that is, by the rite of pressing he casts off his skin; in the same way the stream passes out of the ten-fold filter. Like a horse, sporting, he goes to the Droṇa pitcher. He is the showerer of desires, green-coloured, the juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) विपश्चिते (*vipaścite*)—the one who has wisdom
+- पवमानाय (*pavamānāya*)—and the purifier, Soma
+- गायत (*gāyata*)—praise
+- मही (*mahī*)—great
+- धारा न (*dhārā na*)—like a stream of rain
+- अंधः (*aṃdhaḥ*)—food of the nature of juice
+- अत्यर्पति (*atyarpati*)—Soma provides **NOTE**
+- अहिर्न (*ahirna*)—like a snake
+- जूर्णां त्वचं (*jūrṇāṃ tvacaṃ*)—the old skin
+- अतिसर्पति (*atisarpati*)—passes over
+- वृषा (*vṛṣā*)—the giver of desired objects
+- हरिः (*hariḥ*)—and green-coloured Soma
+- अत्यो न (*atyo na*)—like a horse
+- क्रीळन् (*krīḷan*)—sporting
+- असरत् (*asarat*)—rejoices
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, praise Soma, who has wisdom and is the purifier. Like a great stream of rain, Soma provides food of the nature of juice. Like a snake he passes over the old skin. Soma, the giver of desired objects and green-coloured, rejoices sporting like a horse.
+
+##### English translation
+Sing (you priests) to the intelligent Pāyamana **NOTE**; like a mighty shower he sends forth food ; like a snake he glides out of his old skin, sporting like a horse he hastens forth, the showerer, green-tinted.
+
+#### Ṛk 45
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्रे॒गो राजाप्य॑स्तविष्यते वि॒मानो॒ अह्नां॒ भुव॑ने॒ष्वर्पि॑तः ।  
+> हरि॑र्घृ॒तस्नुः॑ सु॒दृशी॑को अर्ण॒वो ज्यो॒तीर॑थः पवते रा॒य ओ॒क्यः॑ ॥ ४५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 600. Mandala 9 sukta 86 rks 34-40 (to bhasya of 40)
+**Progress note:** Done through printed p. 606. Mandala 9 sukta 86 rks 40-45 (Saṃhitā of 45)
