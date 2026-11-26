@@ -8039,6 +8039,208 @@ By this verse Agni gives the cause of his flight. O gods, my elder brothers, bor
 
 Agni: O Varuṇa, as a charioteer grows thin by going round and round the road, my elder brothers performed this task of carrying the oblation and were slain one after another. O Varuṇa, as the animal called सौर (*saura*) **NOTE**, frightened, runs trembling at the bowstring of the archer who looses the arrow, so I too, trembling with the same fear, have fled to this distant place.
 
+### Printed p. 266
+
+##### Gist of the bhāṣya
+
+none.
+
+##### English translation
+(Agni :) The elder brothers of Agni performed that duty, as the driver of a chariot covers the road. (They were slain), and therefore, Varuna, I fled afar through fear. I trembled as a wild ox (trembles) at the bowstring of the archer.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒र्मस्त॒ आयु॑र॒जरं॒ यद॑ग्ने॒ यथा॑ यु॒क्तो जा॑तवेदो॒ न  ॑
+> रिष्याः ।  
+> अथा॑ वहासि सुमन॒स्यमा॑नो भा॒गं दे॒वेभ्यो॑ ह॒विषः॑ सुजात॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुर्मः । ते । आयुः । अजरं । यत् । अग्ने । यथा । युक्तः । जातवेदः । न ।  
+> रिष्याः ॥  
+> अथ । वहासि । सुमनस्यमानः । भागं । देवेभ्यः । हविषः । सुजात ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं देवानां वाक्यं । हे अग्ने यदायुरायुष्यमजरं जरारहितमस्ति
+> तत्ते कुर्मः । तथा तेनायुषा युक्तस्त्वं हे जातवेदो जातप्रज्ञ यथा न
+> रिष्या न म्रियसे तथा कुर्मः । अथ वहासि वह सुमनस्यमानः सौमनस्यं कुर्वन्।
+> वोढव्यं वहन् । तदेव दर्शयति । हविषो यजमानप्रत्तस्य भागं । केभ्यः ।
+> देवेभ्यः । हे सुजात शोभनजन्मन्नग्ने ॥
+
+##### Gist of the bhāṣya
+
+This is the speech of the gods. "O Agni, the life that is अजरं (*ajaraṃ*), free from old age, that we grant to you. Endowed with that life, O Jātavedas, O one of acquired knowledge, we act so that you do not perish (न रिष्याः (*na riṣyāḥ*), you do not die). Then वहासि (*vahāsi*): bear, being सुमनस्यमानः (*sumanasyamānaḥ*), showing good will, bearing what is to be borne." He shows what: the portion of the oblation given by the sacrificer, for whom? For the gods. "O सुजात (*sujāta*), Agni of fair birth."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् आयुः (*yat āyuḥ*)—the life which
+- अजरं (*ajaraṃ*)—does not decay, that
+- ते (*te*)—to you
+- कुर्मः (*kurmaḥ*)—we grant
+- जातवेदः (*jātavedaḥ*)—O Agni, who are Jātavedas
+- युक्तः (*yuktaḥ*)—you, endowed with that life
+- यथा न रिष्याः (*yathā na riṣyāḥ*)—we shall see to it that you do not perish
+- अथ (*atha*)—therefore
+- सुजात (*sujāta*)—O Agni of excellent birth
+
+### Printed p. 267
+- सुमनस्यमानः (*sumanasyamānaḥ*)—desiring to do good
+- हविषः (*haviṣaḥ*)—of the oblation, the portions
+- देवेभ्यः (*devebhyaḥ*)—to the respective gods
+- वहासि (*vahāsi*)—bear
+
+##### भावार्थ (Bhāvārtha)
+
+The gods: O Agni, we grant you the life that does not decay. O Agni, Jātavedas, endowed with that life, we shall see to it that you do not perish. Therefore, O Agni of excellent birth, desiring to do good, bear the portions of the oblation to the respective gods.
+
+##### English translation
+(The gods :) We grant you life, Agni, which (is) exempt from decay, so that thus endowed, Jatavedas, your will not die; so, becoming concili- ated, well-born Agni, bear their portion of the oblation to the gods.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒या॒जान्ने॑ अनुया॒जांश्च॒ केव॑ला॒नूर्ज॑स्वंतं ह॒विषो॑ दत्त  ॒
+> भागं ।  
+> घृ॒तं चा॒पां पुरु॑षं॒ चौष॑धीनाम॒ग्नेश्च॑ दी॒र्घमायु॑रस्तु  
+> देवाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रयाजान् । मे । अनुयाजान् । च । केवलान् । ऊर्जस्वंतं । हविषः । दत्त ।  
+> भागं ॥  
+> घृतं । च । अपां । पुरुषं । च । ओषधीनां । अग्नेः । च । दीर्घं । आयुः । अस्तु  
+> देवाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनेनाग्निर्वहने दाताव्यानुक्त्वा दत्तेति प्रतिजानाति । हे देवाः मे
+> मह्यं प्रयाजान् प्रधानस्य प्रमुखे यष्टव्यानेतन्नामकान् हविर्भागान् तथानुयाजाननुप्रधानात्पश्चादृष्टव्यानेतन्नामकान् केवलानसाधारणान्दत्त । प्रयच्छत।
+> तथोर्जस्वंतं प्रत्यभिघारणात्सारवंतं हविषः सर्वस्यापि चरुपुरोडाशादेर्भागं
+
+##### Gist of the bhāṣya
+
+By this verse Agni, having spoken of the bearing of the oblation, makes the request "give". "O gods, give me the oblations named Prayājas, to be offered at the head of the principal offering, and likewise the Anuyājas, to be offered after the principal offering, exclusively, for me alone. Also give the portion of the whole oblation, rice-cake and cooked grain and the rest, that is ऊर्जस्वंतं (*ūrjasvaṃtaṃ*), full of sap through the repeated pouring of ghee,
+
+### Printed p. 268
+
+> स्विष्टकृदाख्यं भागं दत्त । आथवोर्जस्वंतं हविषो भागं प्रयाजानुयाजाख्यं
+> दत्तेति योज्यं । किंचापां सारभूतं ताभ्य उत्पन्नं ना धृतमाज्यभागादिसाधनमोषधीनामोषधीभ्य उत्पन्नं पुरुषं च भागं दत्त । किंचाग्नेर्मम दीर्घमायुश्चास्तु । वषट्कारकृतवधभयं मा भूदित्यर्थः। अमुमितिहासं प्रस्तुत्य कौषीतकिब्राह्मणं । तस्मादाहुराग्नेयाः प्रयाजा आग्नेया अनुयाजा आग्नेयमाज्यमाग्नेयः पुरोडाश इति । शरीरदाया ह ना अग्नयो भवंतीति च ब्राह्मणं
+> पुरुषाहुतिर्यस्य प्रियतमेति च ॥
+
+##### Gist of the bhāṣya
+
+the portion called Sviṣṭakṛt. Or else the construction is: give the portion of the oblation, called Prayāja and Anuyāja, as full of sap. And further give the ghee, the essence of the waters, produced from them, the means of the Ājyabhāgas and the rest, and the पुरुषं (*puruṣaṃ*) portion, produced from the plants. And let there be long life for me, Agni; the meaning is, let there be no fear of death through the vaṣaṭ-call." Having introduced this story, the Kauṣītaki Brāhmaṇa says: तस्मादाहुराग्नेयाः प्रयाजा आग्नेया अनुयाजा आग्नेयमाज्यमाग्नेयः पुरोडाश इति । (*tasmādāhurāgneyāḥ prayājā āgneyā anuyājā āgneyamājyamāgneyaḥ puroḍāśa iti |*). And a Brāhmaṇa says: शरीरदाया ह ना अग्नयो भवंतीति (*śarīradāyā ha nā agnayo bhavaṃtīti*) and पुरुषाहुतिर्यस्य प्रियतमेति (*puruṣāhutiryasya priyatameti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- मे (*me*)—to me
+- प्रयाजान् (*prayājān*)—the oblations named Prayāja (offered at the beginning)
+- अनुयाजान् (*anuyājān*)—the oblations named Anuyāja, offered afterwards
+- केवलान् (*kevalān*)—so as to reach me alone
+- दत्त (*datta*)—provide
+- हविषः (*haviṣaḥ*)—of the oblation
+- ऊर्जस्वंतं (*ūrjasvaṃtaṃ*)—full of sap
+- भागं (*bhāgaṃ*)—the portion
+- (दत्त (*datta*)—give)
+- अपां (*apāṃ*)—the essence of the waters
+- धृतं (*dhṛtaṃ*)—and the ghee
+- ओषधीनां (*oṣadhīnāṃ*)—the essence of the plants
+- पुरुषं (*puruṣaṃ*)—give the Puruṣa portion (food)
+- अग्नेः (*agneḥ*)—for me
+- दीर्घं आयुः (*dīrghaṃ āyuḥ*)—the power of living long
+- अस्तु (*astu*)—let there be
+
+##### भावार्थ (Bhāvārtha)
+
+Agni: O gods, offer the oblations named Prayāja and those named Anuyāja so that they reach me alone. Give me the sap-full portion of the oblation. Give the ghee, the essence of the waters, and the Puruṣa portion (food), the essence of the plants. Let me have the power of living long.
+
+##### English translation
+(Agni :) Only grant to me, deities, the concentrated portion of the oblation, the Prayajas and the Anuyajas exclusively : (give me) the butter (the essence) of the waters and man (the essence) of the plants; and let the life of Agni be long.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present Ṛk and in the next, the words प्रयाजाः (*prayājāḥ*) and अनुयाजाः (*anuyājāḥ*) are used. On the meaning of these words Yāska has given the etymological explanation as follows.
+
+### Printed p. 269
+अथ किं देवताः प्रयाजानुयाजाः । अग्नेया इत्येके । प्रयाजान्मे अनुयाजांश्च केवलानूर्जस्वंतं हविषो दत्तभागं । धृतं चापां पुरुषं चौषधीनामग्नेश्च दीर्घमायुरस्तु देवाः । तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वंतो हविषः संतु भागाः । तवाग्ने यज्ञो ३ यमस्तु सर्वस्तुभ्यं नमंतां प्रदिशश्चतसः ॥ आग्नेया वै प्रयाजा आग्नेया अनुयाजा इति च ब्राह्मणं ॥ (*atha kiṃ devatāḥ prayājānuyājāḥ | agneyā ityeke | prayājānme anuyājāṃśca kevalānūrjasvaṃtaṃ haviṣo dattabhāgaṃ | dhṛtaṃ cāpāṃ puruṣaṃ cauṣadhīnāmagneśca dīrghamāyurastu devāḥ | tava prayājā anuyājāśca kevala ūrjasvaṃto haviṣaḥ saṃtu bhāgāḥ | tavāgne yajño 3 yamastu sarvastubhyaṃ namaṃtāṃ pradiśaścatasaḥ ‖ āgneyā vai prayājā āgneyā anuyājā iti ca brāhmaṇaṃ ‖*) (Ni. 8-22)
+Having asked "Which deities are the Prayājas and Anuyājas?", he says in answer: आग्नेया इत्येके (*āgneyā ityeke*), "Agni is the deity of those mantras", this being the view of some. A little explanation is necessary here. In sacrifices and other rites one makes offerings in Agni, addressing gods who are not visible. The offerings made to the gods designated and invoked are called principal offerings (mukhyāhuti). It is customary to perform some subsidiary offerings both before and after these principal offerings. Therefore the subsidiary offerings made before the principal offerings are called Prayājas, and those made after the principal offering Anuyājas. In the two Ṛks quoted above, Agni asked the gods for the boon that these offerings, Prayājas and Anuyājas, be made addressed to himself, and that he himself be the deity of those offerings; the gods granted the boon, saying "So be it." Therefore Yāska explains here that, in the view of some, Agni is the deity of these Prayāja-Anuyāja mantras and of the offerings. On this point he also cites the Brāhmaṇa sentence आग्नेया वै प्रयाजा आग्नेया अनुयाजा (*āgneyā vai prayājā āgneyā anuyājā*). In the same way he states the opinions of other schools:
+छंदोदेवता इत्यपरं । छंदांसि वै प्रयाजाश्चंदांस्यनुयाजा इति च ब्राह्मणं ॥ (*chaṃdodevatā ityaparaṃ | chaṃdāṃsi vai prayājāścaṃdāṃsyanuyājā iti ca brāhmaṇaṃ ‖*)
+ऋतुदेवता इत्यपरं । ऋतवो वै प्रयाजा ऋतवोऽनुयाजा इति च ब्राह्मणं ॥ (*ṛtudevatā ityaparaṃ | ṛtavo vai prayājā ṛtavo 'nuyājā iti ca brāhmaṇaṃ ‖*)
+पशुदेवता इत्यपरं । पशवो वै प्रयाजा पशवोऽनुयाजा इति च ब्राह्मणं॥ (*paśudevatā ityaparaṃ | paśavo vai prayājā paśavo 'nuyājā iti ca brāhmaṇaṃ‖*)
+प्राणदेवता इत्यपरं । प्राणा वै प्रयाजाः प्राणा वा अनुयाजा इति च ब्राह्मणं ॥ (*prāṇadevatā ityaparaṃ | prāṇā vai prayājāḥ prāṇā vā anuyājā iti ca brāhmaṇaṃ ‖*)
+आत्मदेवता इत्यपरं। आत्मा वै प्रयाजा आत्मा वा अनुयाजा इति च ब्राह्मणं॥ (*ātmadevatā ityaparaṃ| ātmā vai prayājā ātmā vā anuyājā iti ca brāhmaṇaṃ‖*)
+Some say that metre is the deity of the Prayāja-Anuyāja mantras. On this there is the Brāhmaṇa sentence छंदांसि वै प्रयाजाश्चंदांस्यनुयाजा (*chaṃdāṃsi vai prayājāścaṃdāṃsyanuyājā*). Others say of these mantras that
+
+### Printed p. 270
+the seasons (spring and the rest) are the deities. The Brāhmaṇa sentence ऋतवो वै प्रयाजा ऋतवोऽनुयाजा (*ṛtavo vai prayājā ṛtavo 'nuyājā*) supports this. Others say that animals, cows and the rest, are the deity; the Brāhmaṇa sentence पशवो वै प्रयाजा पशवोऽनुयाजा (*paśavo vai prayājā paśavo 'nuyājā*) is the basis for this. Others say that breath is the deity of these mantras and show as basis the Brāhmaṇa sentence प्राणा वा प्रयाजाः प्राणा वा अनुयाजा (*prāṇā vā prayājāḥ prāṇā vā anuyājā*). Others say that the Self is the deity, and maintain that the Brāhmaṇa sentence आत्मा वै प्रयाजा आत्मा वा अनुयाजा (*ātmā vai prayājā ātmā vā anuyājā*) is the proof for it.
+आग्नेया इति तु स्थितिः । भक्तिमात्रमितरत्। किमर्थं पुनरिदमुच्यते । यस्यै देवताय्कॆ हविर्गृहीतं स्यात्तां मनसा ध्यायेद्वषट् करिष्यन्निति ह विज्ञायते ॥ (*āgneyā iti tu sthitiḥ | bhaktimātramitarat| kimarthaṃ punaridamucyate | yasyai devatāykè havirgṛhītaṃ syāttāṃ manasā dhyāyedvaṣaṭ kariṣyanniti ha vijñāyate ‖*) (Ni. 8-22)
+Despite all these differences of view and opinion, it is settled that the view that Agni is the deity of these mantras is the one worthy of authority. If so, why are the various differing views stated? What is the use of this? Because there is an injunction and a tradition that, when offering the Prayāja-Anuyāja mantras in Agni with the vaṣaṭ-call, one should offer while meditating in the mind on the deities of the respective mantras, all this had to be set out here in detail.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ प्रया॒जा अ॑नुया॒जाश्च॒ केव॑ल॒ ऊर्ज॑स्वंतो ह॒विषः॑  ॒
+> संतु भागाः ।  
+> तवा॑ग्ने य॒ज्ञो॒३॒॑ऽयम॑स्तु॒ सर्व॒स्तुभ्यं॑ नमंतां प्र॒दिश॒श्चत॑स्रः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । प्रयाजाः । अनुयाजाः । च । केवले । ऊर्जस्वंतः । हविषः। संतु। भागाः॥  
+> तव । अग्ने । यज्ञः । आयं । अस्तु । सर्वः । तुभ्यं । नमंतां । प्रदिशः । चतस्रः ॥
+
+### Printed p. 271
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमग्निना याच्यमाना देवाः प्रति ब्रुवते । हे अग्ने तव प्रयाजा अनुयाजाश्च केवलेऽसाधारणा ऊर्जस्वंतो बलवंतो हविषो भागाः संतु । हे
+> अग्ने आयं सर्वो यज्ञश्च तवास्तु । तथा प्रदिशः प्रकृष्टा मुख्याश्चतस्रो दिशस्तुभ्यं
+> नमंतां । अत एहि हविर्वहेति शेषः ॥
+> अग्ने—ऎलै अग्निये । प्रयाजाः—प्रयाजरूपवाद हविस्सुगळू। अनुयाजाश्च—
+> अनुयाजसंज्ञकगळाद हविस्सुगळू । केवले तव—केवल निनगागिये । संतु—उद्दिष्टवागिरु
+> त्तवॆ । हविषः—हविस्सुगळ । ऊर्जस्वंतः—सारवत्ताद । भागाः—भागगळु । निनगागिये
+> इरुत्तवॆ । अयं सर्वः यज्ञः—ई सकल यज्ञवू । तव—निन्नन्ने उद्देशिसि । अस्तु—
+> अर्पितवागलि । चतस्रः प्रदिशः—नाल्कु मुख्यवाद दिक्कुगळू । तुभ्यं—निनगॆ । नमंतां—
+> नमस्करिसलि.
+
+##### Gist of the bhāṣya
+
+Thus entreated by Agni, the gods reply: "O Agni, let the Prayājas and Anuyājas be yours alone, exclusive; let the portions of the oblation, ऊर्जस्वंतः (*ūrjasvaṃtaḥ*), strong, be yours. O Agni, let this whole sacrifice be yours. And let the four प्रदिशः (*pradiśaḥ*), the principal quarters, bow to you." The remainder to be supplied: therefore come, bear the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- प्रयाजाः (*prayājāḥ*)—the oblations in the form of Prayāja
+- अनुयाजाश्च (*anuyājāśca*)—and the oblations named Anuyāja
+- केवले तव (*kevale tava*)—for you alone
+- संतु (*saṃtu*)—are designated, let them be
+- हविषः (*haviṣaḥ*)—of the oblations
+- ऊर्जस्वंतः (*ūrjasvaṃtaḥ*)—sap-full
+- भागाः (*bhāgāḥ*)—portions, are for you alone
+- अयं सर्वः यज्ञः (*ayaṃ sarvaḥ yajñaḥ*)—this whole sacrifice
+- तव (*tava*)—addressed to you alone
+- अस्तु (*astu*)—let it be offered
+- चतस्रः प्रदिशः (*catasraḥ pradiśaḥ*)—the four principal quarters
+- तुभ्यं (*tubhyaṃ*)—to you
+- नमंतां (*namaṃtāṃ*)—let them bow
+
+##### भावार्थ (Bhāvārtha)
+
+The gods: O Agni, the oblations in the form of Prayāja and those named Anuyāja are designated for you alone. The sap-full portions of the oblations are for you alone. Let the whole sacrifice be offered addressed to you alone. Let the four principal quarters bow to you.
+
+##### English translation
+(The gods :) yours, Agni, be the Prayajas and Anuyajas exclusively ; yours be the concentrated portions of the oblations : let this sacrifice, Agni, be all yours and let the four quarters of space bow down before you.
+
+## Sūkta 52 (Maṇḍala 10)
+**Pīṭhikā**
+Since the Viśvedevas are the deities praised in this sūkta, we explain the matter of these deities here briefly. Their name is read among the thirty-one names that indicate special deities such as the Aśvins. The commentator says that they are separate, special deities. Some say they are all the gods. But from the matter in other sūktas it can be said clearly that the seers worshipped separate deities called Viśvedevas. On this question Yāska has written an explanation of the Ṛk ओमासः (*omāsaḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 265. pp. 260-265 (batch API)
+**Progress note:** Done through printed p. 271. pp. 266-271 (batch API)
