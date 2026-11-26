@@ -22136,6 +22136,262 @@ All these are the offspring of your celestial effluence ; you are the ruler of t
 > त्वं स॑मु॒द्रो अ॑सि विश्व॒वित्क॑वे॒ तवे॒माः पंच॑ प्र॒दिशो॒ विध॑र्मणि ।  
 > त्वं द्यां च॑ पृथि॒वीं चाति॑ जभ्रिषे॒ तव॒ ज्योतीं॑षि पवमान॒ सूर्यः॑ ॥ २९ ॥
 
+### Printed p. 588
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । समुद्रः । असि । विश्वऽवित् । कवे । तव । इमाः । पंच । प्रऽदिशः । विऽधर्मणि ।  
+> त्वम् । द्याम् । च । पृथिवीम् । च । अति । जभ्रिषे । तव । ज्योतींषि । पवमान । सूर्यः ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतप्रज्ञ त्वं यस्मात् समुद्रः वर्षसाधनोऽपाम् अतः विश्ववित् असि । यद्वा । समुद्रो द्रवात्मकोऽसि विश्वविच्चासि । किंच तव विधर्मणि विधारणे पंच प्रदिशः प्रकृष्टा दिशो भवंतीति शेषः । त्वं द्यां च दिवं च पृथिवीं च अति जभ्रिषे बिभर्षि । हे पवमान सूर्यः देवः तव ज्योतींषि आप्याययति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma as kavi, "one of far-reaching wisdom". Because you are the ocean, the means of rain for the waters, therefore you are all-knowing. Or else: you are the ocean, of fluid nature, and you are all-knowing. Further, in your sustaining (विधर्मणि (*vidharmaṇi*), that is, in the upholding) the five regions, the excellent quarters, come to be; the verb "come to be" is to be supplied. You bear heaven and earth. O Pavamāna, the god Sūrya nourishes your lights.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O wise one
+- पवमान (*pavamāna*)—O Soma-deva
+- त्वं (*tvaṃ*)—you
+- समुद्रं (*samudraṃ*)—are like the ocean, fluid in nature
+- विपश्चित् (*vipaścit*)—therefore, as a learned one **NOTE**
+- असि (*asi*)—you are
+- तव (*tava*)—your
+- विधर्मणि (*vidharmaṇi*)—in the vow of command
+- पंच प्रदिशः (*paṃca pradiśaḥ*)—the five directions are subject
+- त्वं (*tvaṃ*)—you
+- द्यां (*dyāṃ*)—the heavenly world
+- दिवं च (*divaṃ ca*)—and the atmosphere
+- पृथिवीं च (*pṛthivīṃ ca*)—and the earth
+- अति जभ्रिषे (*ati jabhriṣe*)—you have borne
+- सूर्यः (*sūryaḥ*)—the sun
+- तव (*tava*)—your
+- ज्योतींषि (*jyotīṃṣi*)—splendours he nourishes
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Soma-deva, you are the ocean, or the atmosphere, the support of the waters. Therefore you are a learned one. The five directions are subject to your command. You have borne the heavenly world. The sun nourishes your splendours.
+
+##### English translation
+You, O sage, are the ocean, you are omniscient ; these five regions (rest) on your support ; you sustain both heaven and earth ; the sun, O Pavamana, (nourishes) your luminaries.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं प॒वित्रे॒ रज॑सो॒ विध॑र्मणि दे॒वेभ्यः॑ सोम पवमान पूयसे ।  
+> त्वामु॒शिजः॑ प्रथ॒मा अ॑गृभ्णत॒ तुभ्ये॒मा विश्वा॒ भुव॑नानि येमिरे ॥ ३० ॥
+
+### Printed p. 589
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । पवित्रे । रजसः । विऽधर्मणि । देवेभ्यः । सोम । पवमान । पूयसे ।  
+> त्वाम् । उशिजः । प्रथमाः । अगृभ्णत । तुभ्य । इमा । विश्वा । भुवनानि । येमिरे ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमान त्वं रजसः लोकस्य रसस्य वा विधर्मणि विधारके दशापवित्रे देवेभ्यः देवार्थं पूयसे । त्वामुशिजः कामयमाना ऋत्विजः प्रथमाः प्रतमा मुख्याः अगृभ्णत गृह्णंति । तुभ्य तुभ्यम् इमा इमानि विश्वा सर्वाणि भुवनानि भूतजातानि येमिरे यच्छंत्यात्मानम्॥॥ १७ ॥
+
+##### Gist of the bhāṣya
+
+O Soma Pavamāna, you are purified for the gods, for the sake of the gods, in the ten-fold filter that supports the world, or the juice. The Ṛtvijs who desire you take you first, as the chief ones. To you all these worlds, all beings, restrain themselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—named Pavamāna
+- सोम (*soma*)—O Soma-deva
+- त्वं (*tvaṃ*)—you
+- रजसः (*rajasaḥ*)—of the whole world
+- विधर्मणि (*vidharmaṇi*)—supporting
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- पूयसे (*pūyase*)—you become pure
+- त्वां (*tvāṃ*)—you
+- उशिजः (*uśijaḥ*)—the priests who desire
+- प्रथमाः (*prathamāḥ*)—as the first
+- अगृभ्यत (*agṛbhyata*)—accept **NOTE**
+- तुभ्य (*tubhya*)—to you
+- विश्वा (*viśvā*)—all
+- इमा भुवनानि (*imā bhuvanāni*)—all these worlds
+- येमिरे (*yemire*)—are obedient
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, named Pavamāna, you become pure for the gods in the ten-fold filter that supports the whole world. The priests who desire you accept you first. All the worlds are obedient to your command.
+
+##### English translation
+Purified Soma, you are purified for the gods in the filter the supporter of the world ; the chief (priests) desiring (you) lay hold of you, all these worlds offer themselves to you.
+
+### Printed p. 590
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र रे॒भ ए॒त्यति॒ वार॑म॒व्ययं॒ वृषा॒ वने॒ष्वव॑ चक्रद॒द्धरिः॑ ।  
+> सं धी॒तयो॑ वावशा॒ना अ॑नूषत॒ शिशुं॑ रिहंति म॒तयः॒ पनि॑प्नतम् ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । रेभः । एति । अति । वारम् । अव्ययम् । वृषा । वनेषु । अव । चक्रदत् । हरिः ।  
+> सम् । धीतयः । वावशानाः । अनूषत । शिशुम् । रिहंति । मतयः । पनिप्नतम् ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रेभः शब्दयिता । रेभृ शब्दे'। सोमः वारमव्ययम् अविमयं वालं प्र अति ऐति' प्रकर्षेणातिगच्छति । वृषा सेक्ता सोमः वनेषु उदकेषु अव चक्रदत् अवक्रंदन् हरिः हरितवर्णः सोमः । सम् अनूषत संस्तुवंति । के। धीतयः ध्यातारः वावशानाः यार्ग सोमं वा कामयमानाः। शिशुं शिशुवत् संस्कर्तव्यं सोमं मतयः स्तुतयः रिहंति लिहंति स्पृशंति । स्वविषयीकुर्वंतीत्यर्थः । कीदृशम् । पनिप्नतं शब्दयंतम् ॥
+
+##### Gist of the bhāṣya
+
+Rebha means the one who sounds; the root rebhṛ is in the sense of sound. Soma goes forward strongly through the woollen fleece, the hair made of sheep. The showerer, the sprinkler Soma, green-tinted (hari), cries out in the waters. The thinkers, the meditators, desiring the sacrifice (or Soma) **NOTE** praise him together. The praises touch, lick, that is, make their own object, the infant, the Soma to be prepared like an infant, which makes a sound (panipnata, "sounding").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेभः (*rebhaḥ*)—Soma who sounds
+- अव्ययं (*avyayaṃ*)—woollen
+- वारं (*vāraṃ*)—in the threads
+- प्र अत्येति (*pra atyeti*)—enters
+- वृषा (*vṛṣā*)—the giver of desired objects
+- हरिः (*hariḥ*)—Soma
+- वनेषु (*vaneṣu*)—in the waters
+- अव चक्रदत् (*ava cakradat*)—sounds
+- नावशानाः (*nāvaśānāḥ*)—desiring the sacrifice **NOTE**
+- धीतयः (*dhītayaḥ*)—the worshippers
+- समनूषत (*samanūṣata*)—praise
+- मतयः (*matayaḥ*)—the praises
+- पनिष्नतं (*paniṣnataṃ*)—and sounding **NOTE**
+- शिशुं (*śiśuṃ*)—the Soma fit for preparation like an infant
+- रिहंति (*rihaṃti*)—touch
+
+##### भावार्थ (Bhāvārtha)
+
+The sounding Soma enters the threads of wool. The Soma who gives the desired objects sounds in the waters. The worshippers who desire the sacrifice praise him. The praises touch the Soma, who sounds and, like an infant, is fit for preparation.
+
+### Printed p. 591
+
+##### English translation
+The sounding (Soma) passes through the woollen fleece ; the green-tinted showerer cries in the waters ; the worshipper desiring (the Soma) praise him together, the laudations soothe the infant as he cries.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सूर्य॑स्य र॒श्मिभिः॒ परि॑ व्यत॒ तंतुं॑ तन्वा॒नस्त्रि॒वृतं॒ यथा॑ वि॒दे ।  
+> नय॑न्नृ॒तस्य॑ प्र॒शिषो॒ नवी॑यसीः॒ पति॒र्जनी॑ना॒मुप॑ याति निष्कृ॒तम् ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सूर्यस्य । रश्मिऽभिः । परि । व्यत । तंतुम् । तन्वानः । त्रिऽवृतम् । यथा । विदे ।  
+> नयन् । ऋतस्य । प्रऽशिषः । नवीयसीः । पतिः । जनीनाम् । उप । याति । निःऽकृतम् ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः सूर्यस्य रश्मिभिः परि व्यत परिवेष्टयत्यात्मानम् । किं कुर्वन् । त्रिवृतं सवनैर्देवैर्वा त्रिर्वृतं तंतुं यज्ञं तन्वानः विस्तारयन् यथा विदे जानाति । येन प्रकारेण संपूर्णमवगच्छति तथा तन्वानः । ऋतस्य सत्यभूतस्य यजमानस्य नवीयसीः नवतराः प्रशिषः प्रशंसना अभिमतानि नयन् प्रापयन् । तस्मा एव जनीनां पतिः पालकः स्वामी निष्कृतं संस्कृतं पात्रम् उप याति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+That Soma surrounds himself with the rays of the sun. What does he do? He stretches out the thread, the sacrifice, which is threefold, with the pressings or with the gods, thrice turned, in the way he knows, that is, in the way by which he understands it completely. Leading the newer praises, the desired things, of the truthful sacrificer, he, the protector and lord of the women, goes to the prepared vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Soma
+- त्रिवृतं (*trivṛtaṃ*)—having three kinds of pressing
+- तंतुं (*taṃtuṃ*)—the sacrifice
+- यथा विदे (*yathā vide*)—according to his knowledge
+- तन्नानः (*tannānaḥ*)—spreading **NOTE**
+- सूर्यस्य (*sūryasya*)—of the sun
+- रश्मिभिः (*raśmibhiḥ*)—by the rays
+- परि व्यत (*pari vyata*)—is surrounded
+- जनीनां (*janīnāṃ*)—for the wives of the sacrificer
+- पतिः (*patiḥ*)—Soma the protector
+- ऋतस्य (*ṛtasya*)—of the sacrificer
+- नवीयसीः (*navīyasīḥ*)—new
+- प्रशिषः (*praśiṣaḥ*)—wishes
+- नयन् (*nayan*)—providing
+- निष्कृतं (*niṣkṛtaṃ*)—the prepared vessel
+- उपयाति (*upayāti*)—goes and reaches
+
+### Printed p. 592
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, spreading the sacrifice that consists of three pressings according to his knowledge, is surrounded by the rays of the sun. Soma, the protector of the wives of the sacrificer, providing the new wishes of the sacrificer, goes and reaches the prepared vessel.
+
+##### English translation
+He invests himself with the rays of the sun stretching out the triple thread in the way he knows ; guiding the recent adorations of the truthful (worshipper), the protector of women passes to the consecrated (vessel).
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राजा॒ सिंधू॑नां पवते॒ पति॑र्दि॒व ऋ॒तस्य॑ याति प॒थिभिः॒ कनि॑क्रदत् ।  
+> स॒हस्र॑धारः॒ परि॑ षिच्यते॒ हरिः॑ पुना॒नो वाचं॑ ज॒नय॒न्नुपा॑वसुः ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राजा । सिंधूनाम् । पवते । पतिः । दिवः । ऋतस्य । याति । पथिऽभिः । कनिक्रदत् ।  
+> सहस्रऽधारः । परि । सिच्यते । हरिः । पुनानः । वाचम् । जनयन् । उपऽवसुः ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंधूनां नदीनामुदकानां राजा ईश्वरः दिवः पतिः द्युलोकस्य स्वामी ऋतस्य यज्ञस्य पथिभिः मार्गैः कनिक्रदत् शब्दं कुर्वन् याति । सहस्रधारः बहुधारायुक्तः सोमो नृभिर्नेतृभिर्ऋत्विग्भिः परि षिच्यते पात्रेषु । पुनानः पूयमानः वाचं शब्दं जनयन् उत्पादयन् उपावसुः उपागच्छद्घनः परि षिच्यते इति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The king, the lord, of the rivers, the waters, the master of heaven, the world of heaven, goes sounding by the paths of the sacrifice. Soma, with a thousand streams, that is, with many streams, is poured round into the vessels by the leaders, the Ṛtvijs. Being purified, producing sound, and gathering wealth, he is poured round; this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधूनां (*siṃdhūnāṃ*)—of the flowing waters
+- राजा (*rājā*)—the lord
+- दिवः (*divaḥ*)—of the heavenly world
+- पतिः (*patiḥ*)—the master, Soma
+- पवते (*pavate*)—flows
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+
+### Printed p. 593
+
+- पथिभिः (*pathibhiḥ*)—by the paths
+- कनिक्रदत् (*kanikradat*)—sounding
+- याति (*yāti*)—goes
+- सहस्रधारः (*sahasradhāraḥ*)—the one with many streams
+- पुनानः (*punānaḥ*)—the one who becomes pure
+- उपवसुः (*upavasuḥ*)—and the one who provides wealth **NOTE**
+- हरिः (*hariḥ*)—Soma
+- वाचं (*vācaṃ*)—sound
+- जनयन् (*janayan*)—producing
+- परिषिच्यते (*pariṣicyate*)—is poured into the vessel
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the lord of the flowing waters and the master of the heavenly world, flows. He goes sounding by the paths of the sacrifice. Soma, who has many streams, who becomes pure and who provides wealth, is poured into the vessel, producing sound.
+
+##### English translation
+The sovereign of rivers flows pure, the lord of heaven goes with a shout by the paths of the sacrifice; the thousand-streamed green-tinted (Soma) is poured out, uttering a sound while being filtered, the beinger of wealth. **NOTE**
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान॒ मह्यर्णो॒ वि धा॑वसि॒ सूरो॒ न चि॒त्रो अव्य॑यानि॒ पव्य॑या ।  
+> गभ॑स्तिपूतो॒ नृभि॒रद्रि॑भिः सु॒तो म॒हे वाजा॑य॒ धन्या॑य धन्वसि ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । महि । अर्णः । वि । धावसि । सूरः । न । चित्रः । अव्ययानि । पव्यया ।  
+> गभस्तिऽपूतः । नृऽभिः । अद्रिऽभिः । सुतः । महे । वाजाय । धन्याय । धन्वसि ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम मह्यर्णः बहूदकम् । अर्ण इत्युदकनाम । रसं वा वि धावसि गमयसि । ‘ धावु गतिशुद्धयोः'। किंच सूरो न चित्रः सूर्य इव चित्रः चायनीयः पूज्यः सन् अव्ययानि अविमयानि पव्यया पात्राणि गच्छसि । किंच गभस्तिपूतः बाहुभिरभिशोधितः नृभिः ऋत्विग्भिः ग्रeवभिश्च सुतः अभिषुतः महे महते वाजाय संग्रामाय धन्याय धनेभ्यो हिताय धन्वसि गच्छसि । धन्वतिर्गतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, you make the great water, much water, or the juice, run forth, you cause it to go; the root dhāv is given with the senses of motion and purification. Further, wonderful like the sun, revered, you go to the vessels, the woollen ones, made of sheep. Further, purified by the hands, pressed by the leaders, the Ṛtvijs, and by the pressing stones **NOTE**, you go for great strength, the battle, for the one who is good for wealth. The root dhanv is a root of motion.
+
 ---
 
-**Progress note:** Done through printed p. 587. Mandala 9 hymn 86 verses 24-29 (pp. 582-587)
+**Progress note:** Done through printed p. 593. Mandala 9 sukta 86 rks 29-34 (to bhasya of 34)
