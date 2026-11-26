@@ -1,0 +1,12 @@
+{
+ "preface_lines": [
+  3,
+  152
+ ],
+ "contents_lines": [
+  154,
+  700
+ ],
+ "body_first_line": 704,
+ "note": "Vol 28: Maṇḍala 10 Sūktas 41-71, printed pp. 1-674. Printed p. 1 ('ॐ || ಶ್ರೀಃ ||') has no running head: marker '<!-- page 1 -->' inserted before it. Pages 162, 604, 605 are not in the supplied text (no pages between 161/163 and 603/606); markers '<!-- page N -->' added for the headless pages 89, 93, 445. The appendix introduction (## ಬೃಹದ್ದೇವತಾ / ಪೀಠಿಕೆ, after p. 674) is moved to vol28/html/appendix_brhaddevata_intro.md. Picture of in-file 2 line 100 saved as fig_line00100_f2.jpg (name clash with file 3). Front-matter line numbers approximate."
+}
