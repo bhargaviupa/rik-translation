@@ -69,6 +69,7 @@ def is_latin(l):
 def stray(l):
     if re.match(r'(This|The) image (contains|is|shows)',l) or re.fullmatch(r'Pages?: ?\d+/\d+',l): return True
     if re.fullmatch(r'[\[(]?\s*\d{1,3}\s*[\])]?\s*Vol\.?\s*\d+\s*\]?|[\[(]\s*\d{1,3}\s*[\])]',l): return True
+    if re.fullmatch(r'[\[(]?\s*[ivxl]{1,5}\.?\s*\d{1,3}\s*[\])]?',l): return True   # gathering signature 'xxv. 52' / '[ xxv. 2 ]' (Vol 25, hand-removed 5 times)
     return bool(not re.search(KN+'|[A-Za-z]{2}',l) and not re.search(r'[೦-೯0-9]',l) and len(l)<=12 and not re.fullmatch(r'[॥।\s]+',l))
 _REF={}
 def ref_index(mandalas):
