@@ -11638,6 +11638,225 @@ Priests, utter forth the hymn to your great Indra; let Shatakratu, the slayer of
 
 In the Agniṣṭoma sacrifice, among the mantras of the Marutvatīya litany, this Pragātha (Ṛks 3-4) beginning प्र व इंद्राय (*pra va iṃdrāya*) is to be recited as the Marutvatīya Pragātha, as explained by the Āśvalāyana Śrauta Sūtra in the sūtra प्र व इंद्राय बृहत इति मरुत्वतीयः प्रगाथः (*pra va iṃdrāya bṛhata iti marutvatīyaḥ pragāthaḥ*) (Ā. Sū. 5-14).
 
+### Printed p. 296
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्र भ॑र धृष॒ता धृ॑षन्मनः॒ श्रव॑श्चित्ते असद्बृ॒हत् ।  
+> अर्षं॒त्वापो॒ जव॑सा॒ वि मा॒तरो॒ हनो॑ वृ॒त्रं जया॒ स्वः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्र । भर । धृषता । धृषत्ऽमनः । श्रवः । चित् । ते । असत् । बृहत् ।  
+> अर्षंतु । आपः । जवसा । वि । मातरः । हनः । वृत्रम् । जय । स्वः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धृषन्मनः शत्रूणां धर्षणशीलमनस्केंद्र ते तवैव बृहत् महत् अतिप्रभूतम् श्रवः अन्नम् असत् अस्ति । तदन्नं धृषता धृष्टेन मनसा युक्तः सन् अस्मभ्यम् अभि प्र भर आभिमुख्येन प्रकर्षेण संपादय । देहीत्यर्थः । हे इंद्र मातरः अस्माकमुत्पादनहेतुत्वान्मातृभूताः । कथमपां मातृत्वम् ।  ‘ अद्भ्यः पृथिवी पृथिव्या ओषधयः' (तै. उ. २. १) इत्यादिश्रुतेः । तादृश्यः आपः जवसा वेगेन वि अर्षंतु विविधं भूमिं प्रति गच्छंतु । कथमापो गच्छंतीति चेत्तदाह । वृत्रम् अपामावरितारं शत्रुं मेघं हनः जहि ताडय । ततो मेघभेदनेनोदकानि विगच्छंतु । पुनरपि स्वः सर्वं भूतजातं जय ॥
+> प्रथमे स्वरसाम्नि निष्केवल्ये  यज्जायथा अपूर्व्य ' इति स्तोत्रियः । तथा च सूत्र्यते-- ‘ तेषां स्तोत्रिया यज्जायथा अपूर्व्य' ( आश्व. श्रौ. ८. ५) इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, whose mind is given to overpowering enemies, yours alone is the great, the very abundant food. Being possessed of a bold mind, bring that food towards us, supply it in abundance; that is, give it. O Indra, the waters are our mothers, because they are the cause of our coming into being. How are the waters mothers? Because of the scriptural text अद्भ्यः पृथिवी पृथिव्या ओषधयः (*adbhyaḥ pṛthivī pṛthivyā oṣadhayaḥ*) (Tai. U. 2. 1) **NOTE**, and the like. Let such waters flow swiftly, going in various ways towards the earth. If it is asked how the waters are to go, he says: smite Vṛtra, the enemy who holds the waters back, that is, the cloud; then, the cloud being split, let the waters flow forth. And again conquer all that is born.
+
+In the first Svara-Sāman of the Niṣkevalya litany the stotriya is यज्जायथा अपूर्व्य (*yajjāyathā apūrvya*), and so it is laid down in the sūtra तेषां स्तोत्रिया यज्जायथा अपूर्व्य (*teṣāṃ stotriyā yajjāyathā apūrvya*) (Āśv. Śrau. 8. 5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे धृषन्मनः (*he dhṛṣanmanaḥ*)—O Indra, who crush your enemies
+- ते (*te*)—your
+- बृहत् (*bṛhat*)—abundant
+- श्रवः चित् (*śravaḥ cit*)—food
+- असत् (*asat*)—there is indeed; that food
+- धृषता (*dhṛṣatā*)—with an excellent mind, to our
+- अभि (*abhi*)—facing
+- प्र भर (*pra bhara*)—bring and supply (O Indra)
+- मातरः (*mātaraḥ*)—nourishing like mothers
+- आपः (*āpaḥ*)—the waters
+- जवसा (*javasā*)—swiftly
+- वि अर्षंतु (*vi arṣaṃtu*)—let them cover the earth in various ways
+- वृत्रं (*vṛtraṃ*)—Vṛtra, the enemy who holds back the water, or the cloud
+- हनः (*hanaḥ*)—strike (and)
+- स्वः (*svaḥ*)—all that is born, that is, the living beings
+- जय (*jaya*)—conquer, that is, satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whose mind is bent on crushing enemies, bring towards us with an excellent mind the abundant food that is with you. Let the waters, nourishing like mothers, in the form of
+
+### Printed p. 297
+
+rain, spread over the earth. Strike the cloud that does not pour down rain, and satisfy all living beings.
+
+##### English translation
+Daring-souled (Indra), there is abundance of food with you,—boldly bring it to us; let our mothers (the waters) impetuously spread over the earth; smite Vritra, and conquer all.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज्जाय॑था अपूर्व्य॒ मघ॑वन्वृत्र॒हत्या॑य ।  
+> तत्पृ॑थि॒वीम॑प्रथय॒स्तद॑स्तभ्ना उ॒त द्याम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । जायथाः । अपूर्व्य । मघऽवन् । वृत्रऽहत्याय ।  
+> तत् । पृथिवीम् । अप्रथयः । तत् । अस्तभ्नाः । उत । द्याम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अपूर्व्य त्वत्तो व्यतिरिक्तेन पूर्व्येण वर्जित हे मघवन् मंहनीयधनवन्निंद्र वृत्रहत्याय वृत्रासुरहननाय यत् यदा त्वं जायथाः उत्पन्नः प्रादुर्भूतोऽसि तत् तदानीमेव पृथिवीं प्रथमानाम् अप्रथयः प्रसिद्धां दृढामकरोः । उत अपि च तत् तदानीमेव द्यां द्युलोकमंतरिक्षेण अस्तभ्नाः निरुद्धामकार्षीः । एतादृशं वीर्यं त्वदन्यस्य न संभवतीत्यर्थं द्योतयितुमपूर्व्येति पदम् ॥
+
+##### Gist of the bhāṣya
+
+O Apūrvya, one who has none before you, none other than you who is earlier; O Maghavan, Indra, possessor of praiseworthy wealth: when you were born, came into being, for the slaying of the asura Vṛtra, then and there you spread out the earth, making it known and firm. And then and there you propped up the world of heaven with the atmosphere, that is, you held it fast. The word अपूर्व्य (*apūrvya*) is used to show that such valour is not possible for anyone other than you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अपूर्व्य (*he apūrvya*)—O you who have no ancient gods before you, or none greater than you
+- मघवन् (*maghavan*)—O Indra, the wealthy
+- वृत्रहत्याय (*vṛtrahatyāya*)—for the slaying of the asura Vṛtra
+- यत् (*yat*)—when
+- त्वं (*tvaṃ*)—you
+- जायथाः (*jāyathāḥ*)—were born
+- तत् (*tat*)—then
+- पृथिवीं (*pṛthivīṃ*)—this broad earth
+- अप्रथयः (*aprathayaḥ*)—you made firm
+- उत (*uta*)—and
+- तत् (*tat*)—at that very time
+- द्यां (*dyāṃ*)—heaven (by the atmosphere)
+- अस्तभ्नाः (*astabhnāḥ*)—you have set it firmly so that it does not fall
+
+### Printed p. 298
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+**NOTE**
+
+- मरुतः (*marutaḥ*)—O Maruts
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—all the gods who increase the sacrificial rite
+- देवाय (*devāya*)—for Indra, whose self is divine
+- देवं (*devaṃ*)—shining
+- जागृवि (*jāgṛvi*)—and sleepless
+- ज्योतिः (*jyotiḥ*)—the sun
+- येन (*yena*)—by which Sāman mantra
+- अजनयन् (*ajanayan*)—they produced, that
+- वृत्रहंतमं (*vṛtrahaṃtamaṃ*)—greatly sin-destroying
+- बृहत् (*bṛhat*)—Bṛhat Sāman mantra
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- गायतॆ (*gāyatè*)—recite and sing
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, sing, reciting it, for the pleasure of Indra, that Bṛhat Sāman mantra, remover of sin, by the power of which the all-gods, who increase the sacrifice, produced for Indra, whose self is divine, the ever-vigilant sun.
+
+##### English translation
+Priests, sing to Indra the most sin-destroying Brihat-Saman, by which the upholders of truth produced the divine all-waking luminary for the god.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्ते॑ य॒ज्ञो अ॑जायत॒ तद॒र्क उ॒त हस्कृ॑तिः ।  
+> तद्विश्व॑मभि॒भूर॑सि॒ यज्जा॒तं यच्च॒ जंत्व॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । ते । यज्ञः । अजायत । तत् । अर्कः । उत । हस्कृतिः ।  
+> तत् । विश्वम् । अभिऽभूः । असि । यत् । जातम् । यत् । च । जंत्वम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदा त्वमजायथाः तत् तदानीं ते त्वदर्थं यज्ञः अग्निष्टोमादिः अजायत सोमपानार्थमभूत् । उत अपि च तदानीं हस्कृतिः ।  ‘ हसे हसने । हासकारी प्रीत्यर्थं क्रियमाणो हर्षस्य सूचकः अर्कः अर्चनीयो मंत्रोऽप्यजायत । किंच तदा यज्जातं भूतजातं यच्च जंत्वम् । कृत्यार्थे त्वन्प्रत्ययः । जनितव्यं यत् विश्वम् अस्ति तत् सर्वम् अभिभूरसि स्वमहिम्नाभिभूतवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you were born, then for you the sacrifice, the Agniṣṭoma and the rest, came into being for the drinking of Soma. And then too the हस्कृतिः (*haskṛtiḥ*) **NOTE**, the arka, the adorable mantra, performed for pleasure and indicating joy, came into being. Further, whatever creatures were born then and whatever is yet to be born, all that you overcame by your own greatness.
+
+### Printed p. 299
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तत् (*tat*)—then (O Indra, when you were born)
+- ते (*te*)—for your pleasure
+- यज्ञः (*yajñaḥ*)—the sacrifice, the Agniṣṭoma and the rest
+- अजायत (*ajāyata*)—came into being for the drinking of Soma
+- उत (*uta*)—and
+- हस्कृतिः (*haskṛtiḥ*)—indicating joy
+- अर्कः (*arkaḥ*)—the mantra worthy of worship also came into being (then)
+- यज्जातं (*yajjātaṃ*)—the creatures born before, up to now
+- यच्च जंत्वं (*yacca jaṃtvaṃ*)—and the creatures that will be born hereafter
+- विश्वं तत् (*viśvaṃ tat*)—all those beings
+- अभिभूरसि (*abhibhūrasi*)—you overcome by your own greatness
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you were born, the sacrifices, the Agniṣṭoma and the rest, were produced for you, that is, for your drinking of Soma, and so were the mantras by which they are performed. And you overcome by your own greatness all living creatures, those born before and those to be born hereafter.
+
+##### English translation
+Then was the sacrifice produced for you, then too the joyous hymn; then you surpass all, whatever has been or will be born.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒मासु॑ प॒क्वमैर॑य॒ आ सूर्यं॑ रोहयो दि॒वि ।  
+> घ॒र्मं न सामं॑तपता सुवृ॒क्तिभि॒र्जुष्टं॒ गिर्व॑णसे बृ॒हत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आमासु । पक्वम् । ऐरयः । आ । सूर्यम् । रोहयः । दिवि ।  
+> घर्मम् । न । सामन् । तपत । सुवृक्तिऽभिः । जुष्टम् । गिर्वणसे । बृहत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आमासु अपक्वासु गोषु पक्वं पयः ऐरयः प्रैरयश्च । तथा मंत्रः - ‘ आमासु चिद्दधिषे पक्वमंतः' (ऋ. सं. १. ६२. ९) इति । किंच दिवि द्युलोके सूर्यम् आ रोहयः च । पूर्वं पणयो नामासुरा अंगिरसां गा अपहृत्यांधकारावृते कस्मिंश्चित्पर्वते ताः स्थापितवंतः । ततोऽंगिरस इंद्रं स्तुत्वा गाः पुनरस्मभ्यमाहरेति तैरुक्त इंद्रो गवां स्थानं तमसावृतं दृष्ट्वा तत्र गोदर्शनाय द्युलोके सर्वप्रकाशकं सूर्यमारोहितवान् । स्थापितवानसि । 'चादिलोपे विभाषा' इति पूर्वस्यैरय इत्यस्य न निघातः । अथ परोक्षकृतोऽर्धर्चः । हे स्तोतारः सुवृक्तिभिः शोभनाभिः स्तुतिभिः तपत इंद्रं तीक्ष्णीकुरुत । इंद्रं स्तुतिभिः प्रवर्धयतेत्यर्थः । तत्र दृष्टांतः । घर्मं न । यथा घर्मं दीपनशीलं प्रवर्ग्यं सामन् । 'सुपा सुलुक्°' इति तृतीयाया लुक् । सामभिर्यथा तपंति तद्वत् । ततः गिर्वणसे गीर्भिर्वननीयायेंद्राय जुष्टं प्रीतिकरं पर्याप्तं वा बृहत् साम गायत ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in the unripe cows you impelled ripe milk; so the mantra says, आमासु चिद्दधिषे पक्वमंतः (*āmāsu ciddadhiṣe pakvamaṃtaḥ*) (Ṛ. Saṃ. 1. 62. 9). Further, you made the sun ascend in the world of heaven. Formerly the asuras called Paṇis stole the cows of the Aṅgirases and placed them on a certain mountain wrapped in darkness. Then the Aṅgirases praised Indra and, being told by them to bring the cows back to us, Indra saw the place of the cows covered with darkness and, in order to see the cows there, made the sun, the illuminator of all, ascend in the world of heaven. The second half-verse is in the third person: O praisers, with beautiful praises sharpen Indra, that is, make Indra grow strong by praises. An illustration is given: as they heat the blazing Gharma, the Pravargya, with Sāmans, so do you. Then sing the Bṛhat Sāman, pleasing or sufficient, for Indra, who is to be won by songs.
+
+### Printed p. 300
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आमासु (*āmāsu*)—in the cows that have just calved
+- पक्वं (*pakvaṃ*)—the ready milk
+- ऐरयः (*airayaḥ*)—you impel to fill the udders
+- दिवि (*divi*)—in heaven, that is, in the atmosphere
+- सूर्यं (*sūryaṃ*)—the sun
+- आ रोहयः (*ā rohayaḥ*)—you have established
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—O praisers, with excellent words of praise
+- तपत (*tapata*)—praise Indra
+- घर्मं न (*gharmaṃ na*)—as the shining Gharma or Pravargya sacrifice
+- सामन् (*sāman*)—is extolled with Sāman chants
+- गिर्वणसे (*girvaṇase*)—to Indra, who is won by words of praise
+- जुष्टं (*juṣṭaṃ*)—pleasing
+- बृहत् (*bṛhat*)—reciting and singing the mantra called Bṛhat Sāman
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you cause milk to fill the udders of cows that have not yet given milk and have only just calved. You have established the sun in the atmosphere and made it shine everywhere. O praisers, praise Indra with hymns and the like, and as the Gharma sacrifice is made to grow by Sāman chanting, sing and praise Indra, who is won by words of praise, with the Bṛhat Sāman, the Sāman mantra that is pleasing to him.
+
+##### English translation
+In the immature (cows) you produced the mature (milk), you caused the sun to arise in heaven (Priests), excite (Indra) with your praises as men heat the Gharma with Saman-hymns; (sing) the acceptable Brihat-Saman to him who is to be honoured by song.
+
+### Printed p. 301
+
+##### विशेषविषयगळु (Special Topics)
+
+गिर्वणसे (*girvaṇase*)—Yāska gives this nirukta for this word: गिर्वणा देवो भवति गीर्भिरेनं वनयंति जुष्टं गिर्वणसे बृहत् इत्यपि निगमो भवति ॥ (*girvaṇā devo bhavati gīrbhirenaṃ vanayaṃti juṣṭaṃ girvaṇase bṛhat ityapi nigamo bhavati ‖*) (Ni. 6-14). Girvaṇāḥ means a god; they win this god by courting him with words of praise. That is, since he is pleased with praises, inclines to the praisers and fulfils their wishes, girvaṇāḥ means a god. In this matter the sentence जुष्टं गिर्वणसे बृहत् (*juṣṭaṃ girvaṇase bṛhat*) of the present Ṛk is the example, he says.
+
+आमासु (*āmāsu*) **NOTE**—In cows that have not yet calved or have only just calved, he describes Indra's surpassing greatness as impelling ripe, that is drinkable, milk, which was not there until now, to fill them of itself. In this matter the bhāṣyakāra cites the verse आमासु पक्वमंतः (*āmāsu pakvamaṃtaḥ*) (Saṃ. 1-62-9) **NOTE**.
+
+आ सूर्यमारोहयो दिवि (*ā sūryamārohayo divi*)—O Indra, you have established the sun in the atmosphere and made it shine. This too is your surpassing greatness. In this matter the bhāṣyakāra tells an ancient story:
+
+पूर्वं पणयोमासुरा अंगिरसां गा अपहृत्यांधकारावृते कस्मिंश्चित्स्वर्वते ताः स्थापितवंतः । ततोऽङ्गिरस इंद्रं स्तुत्वा गाः पुनरस्म्यैवमाहरेति तैरुक्त इंद्रो गवां स्थानं तमसावृतं दृष्ट्वा तत्र गोदर्शनाय द्युलोके सर्वप्रकाशकं सूर्यमारोहितवान् । (*pūrvaṃ paṇayomāsurā aṃgirasāṃ gā apahṛtyāṃdhakārāvṛte kasmiṃścitsvarvate tāḥ sthāpitavaṃtaḥ | tato 'ṅgirasa iṃdraṃ stutvā gāḥ punarasmyaivamāhareti tairukta iṃdro gavāṃ sthānaṃ tamasāvṛtaṃ dṛṣṭvā tatra godarśanāya dyuloke sarvaprakāśakaṃ sūryamārohitavān |*)
+
+In ancient times the asuras called Paṇis stole the cows of the Aṅgiras sages and hid them in a secret place of a mountain, that is, in a cave. Then, when those sages prayed to Indra to bring their cows back, Indra found the place where the cows were and, in order to free them and bring them out, established the sun in the atmosphere so that it shone and the thick darkness that had gathered there was dispelled. By the light of that sun the cave became bright, and he freed the cows that were there, brought them and gave them to the Aṅgiras sages. This is the ancient story in connection with which the words आ सूर्यमारोहयो दिवि (*ā sūryamārohayo divi*) are spoken in this Ṛk. The mention of this story is made here and there in many Ṛks of the Ṛgveda.
+
 ---
 
-**Progress note:** Done through printed p. 295. Sukta 88 Rk 6 end, Sukta 89 Rks 1-3
+**Progress note:** Done through printed p. 301. Sukta 89 Rks 4-7
