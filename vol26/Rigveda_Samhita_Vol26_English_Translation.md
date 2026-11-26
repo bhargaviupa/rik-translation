@@ -32141,6 +32141,242 @@ For you by his protection have drunk the strengthening (juice of that Soma), who
 
 O Mānavī, belonging to Manu, O shining divine Rodasī, heaven and earth: in your sacrifices that Indu, Soma, was born. In the atmosphere he is divine, illuminating all with his own radiance; on the earth he is girisṭhā, standing on the pressing stones. That Soma thus born, in the sacrifice with much sound, or in the upper sacrifice, the priests struck with the stones; the meaning is that they pressed him.
 
+### Printed p. 874
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मानवी (*mānavī*)—O heaven and earth, born of Manu
+- देवी (*devī*)—and divine in nature
+- रोदसी (*rodasī*)—O heaven and earth
+- वां (*vāṃ*)—addressed to you
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- देवः (*devaḥ*)—shining
+- गिरिष्ठाः (*giriṣṭhāḥ*)—standing between the pressing stones
+- सः इंदुः (*saḥ iṃduḥ*)—that Soma, of the nature of juice
+- जनिष्व (*janiṣva*)**NOTE**—has been born
+- तं (*taṃ*)—that born Soma
+- तुविष्णणि (*tuviṣṇaṇi*)**NOTE**—in the sacrifice that is full of sound
+- अस्रेधन् (*asredhan*)—the priests pressed
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, born of Manu and divine in nature, in the sacrifices addressed to you the Soma, of the nature of juice, shining and standing between the pressing stones, has been born. The priests have pressed the born Soma in the sacrifice that is full of sound.
+
+##### English translation
+Divine heaven and earth the progeny of Manu, the Soma juice is generated at your sacrifices, radiant, abiding in the grinding stones ; (the priests) bruise him at the loud-sounding ceremony
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य सोम॒ पात॑वे वृत्र॒घ्ने परि॑ षिच्यसे ।  
+> नरे॑ च॒ दक्षि॑णावते दे॒वाय॑ सदना॒सदे॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सोम । पातवे । वृत्रऽघ्ने । परि । सिच्यसे ।  
+> नरे । च । दक्षिणाऽवते । देवाय । सदनऽसदे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वृत्रघ्ने वृत्रस्य हंत्रे इंद्राय । षष्ठ्यर्थे चतुर्थी । इंद्रस्य पातवे पानार्थं परि षिच्यसे परितः पात्रेषु सिच्यसे । वसतीवरीभिर्वा । किंच दक्षिणावते ऋत्विग्भ्यो दक्षिणादानेन तद्वते देवाय देवार्थं हवींषि दातुं सदनसदे यज्ञगृहे सीदते नरे मनुष्याय यजमानाय तस्मै फलप्रदानार्थं परिषिच्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are poured round for Indra, the slayer of Vṛtra, for his drinking; the dative stands in the sense of the genitive. You are poured round into the vessels on all sides, or else with the vasatīvarī waters. Further, you are poured round for the man, the sacrificer, who sits in the house of sacrifice to give oblations for the god, and who has the sacrificial fee, being possessed of it through giving fees to the priests, for the bestowal of fruit on him.
+### Printed p. 875
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- वृत्रघ्ने (*vṛtraghne*)—the slayer of Vṛtra
+- इंद्राय (*iṃdrāya*)—Indra's**NOTE**
+- पातवे (*pātave*)—for drinking
+- दक्षिणावते (*dakṣiṇāvate*)—who gives the fee to the priests**NOTE**
+- देवाय (*devāya*)—to offer the oblation to the gods
+- सदनसदे (*sadanasade*)—who is in the house of sacrifice
+- नरे च (*nare ca*)—and for the sacrificer, for the bestowal of fruit
+- परिषिच्यसे (*pariṣicyase*)—you are pressed
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you are pressed for the drinking of Indra**NOTE**, the slayer of Vṛtra, and for the bestowal of fruit on the sacrificer who is in the house of sacrifice, who has given the fee to the priests, to offer the oblation to the gods.
+
+##### English translation
+You are poured forth, Soma, for Indra, the slayer of Vritra, to drink ; and for the munificent worshipper who sits in the halls of sacrifice (to give oblations) to the god.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते प्र॒त्नासो॒ व्यु॑ष्टिषु॒ सोमाः॑ प॒वित्रे॑ अक्षरन् ।  
+> अ॒प॒प्रोथं॑तः सनु॒तर्हु॑र॒श्चितः॑ प्रा॒तस्ताँ अप्र॑चेतसः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । प्रत्नासः । विऽउष्टिषु । सोमाः । पवित्रे । अक्षरन् ।  
+> अपऽप्रोथंतः । सनुतः । हुरःऽचितः । प्रातरिति । तान् । अप्रऽचेतसः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्युष्टिषु उषसां व्युच्छनेषु प्रकाशनेषु प्रत्नासः प्रत्नाः ते सोमाः पवित्रे अक्षरन् क्षरंति । ये सोमाः सनुतः अंतर्हितान् अप्रचेतसः प्रज्ञानरहितान् हुरश्चितः । स्तेननामैतत् । कौटिल्येन चिन्वंतीति । तान् मायाविनः स्तेनान् प्रातः प्रातःकाल एव अपप्रोथंतः । अपप्रोथनं चापप्रेरणम् । अपप्रेरयंतः शब्देन निराकुर्वंतो भवंति । ते क्षरंतीति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+At the dawnings, the brightenings of the dawns, those ancient Somas flow in the filter. Those Somas, in the early morning itself, drive away the hidden thieves who are devoid of understanding. हुरश्चितः (*huraścitaḥ*) is a name of thieves: they heap up, that is, gather, by crookedness. Those deceitful thieves they drive off; driving off is a pushing away: driving them away with sound, they repel them. The connection is: they flow.
+### Printed p. 876
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सनुतः (*sanutaḥ*)—who are hidden
+- अप्रचेतसः (*apracetasaḥ*)—who are devoid of understanding
+- हुरश्चितः (*huraścitaḥ*)—who go crookedly
+- तान् (*tān*)—those demons in the form of thieves
+- प्रातः (*prātaḥ*)—in the early morning itself
+- अपब्रोथंतः (*apabrothaṃtaḥ*)**NOTE**—driving far away
+- प्रत्नासः (*pratnāsaḥ*)—ancient
+- ते सोमः (*te somaḥ*)—those Soma juices
+- व्युष्टिषु (*vyuṣṭiṣu*)—at the very times of the appearing of the dawns
+- पवित्रे (*pavitre*)—in the ten-fringed filter
+- अक्षरन् (*akṣaran*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient Soma juices, driving far away in the early morning itself the demons in the form of thieves, who are secretly hidden, of evil mind and crooked in going, flow in the ten-fringed filter at the very times of the appearing of the dawns.
+
+##### English translation
+Those ancient Soma juices flow into the filter at the dawns, driving away in the early morning the concealed and ignorant thieves.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं स॑खायः पुरो॒रुचं॑ यू॒यं व॒यं च॑ सू॒रयः॑ ।  
+> अ॒श्याम॒ वाज॑गंध्यं स॒नेम॒ वाज॑पस्त्यम् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । सखायः । पुरःऽरुचम् । यूयम् । वयम् । च । सूरयः ।  
+> अश्याम । वाजऽगंध्यम् । सनेम । वाजऽपस्त्यम् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः स्तोतारः सूरयः प्राज्ञाः यूयं वयं च यजमानाः पुरोरुचं पुरतो रोचमानं वाजगंध्यं बलकरसाधुगंधोपेतं सोमम् अश्याम अश्नीयाम पिबेम । किंच वाजपस्त्यम् अन्नयुक्तगृहसहितं यद्वा बलकरं सोमं सनेम संभजेमहि । सोमेन बलान्नगृहादीनि भवंतीत्यर्थः ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+O friends, praisers, wise ones, you and we the sacrificers: let us drink that Soma who shines in front and is possessed of a fragrance that gives strength. Further, let us obtain Soma, who is accompanied by a house with food, or else is strengthening. The meaning is that through Soma come strength, food, houses and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friendly praisers
+- सूरयः (*sūrayaḥ*)—wise
+- यूयं (*yūyaṃ*)—you**NOTE**
+- वयं च (*vayaṃ ca*)—and we, the sacrificers
+- पुरोरुचं (*purorucaṃ*)—shining exceedingly**NOTE**
+### Printed p. 877
+- वाजगंध्यं (*vājagaṃdhyaṃ*)—that Soma who has a fragrance that produces strength
+- अश्यामु (*aśyāmu*)—let us drink
+- वाजपस्त्यं (*vājapastyaṃ*)—and a house with food
+- सनेमु (*sanemu*)—let us obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O friendly praisers, you who are wise**NOTE**, and we the sacrificers, let us drink the Soma who shines exceedingly and has a fragrance that produces strength. Let us obtain also a house with food.
+
+##### English translation
+May you and we, intelligent friends, eat the bright Soma fragrant and invigorating, may we obtain food and dwellings.
+## Sūkta 99 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ आ हर्यताय' इत्यष्टर्चं तृतीयं सूक्तम् । कश्यपगोत्रौ रेभसूनू एतत्संज्ञौ द्वावृषी । आद्या बृहती सप्तानुष्टुभः। पवमानसोमो देवता । तथा चानुक्रांतम्-' आ हर्यतायाष्टौ रेभसूनू काश्यपौ बृहत्याद्या ' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ हर्यताय (*ā haryatāya*) has eight Ṛks and is the third sūkta. Its two seers, of the Kaśyapa gotra, are Rebha and Sūnu. The first Ṛk is in bṛhatī and seven are in anuṣṭubh. The deity is Pavamāna Soma. The Anukramaṇī says accordingly: आ हर्यतायाष्टौ रेभसूनू काश्यपौ बृहत्याद्या (*ā haryatāyāṣṭau rebhasūnū kāśyapau bṛhatyādyā*). The use in the ritual has been stated.
+This sūkta, आ हर्यतायॆ (*ā haryatāyè*), is the third sūkta in the sixth anuvāka. It has eight Ṛks. The two seers of this sūkta are Rebha and Sūnu, of the Kaśyapa gotra. The deity is Pavamāna Soma. The first Ṛk of this sūkta is in the bṛhatī metre, and the other seven Ṛks are in the anuṣṭubh metre. In the Anukramaṇī it is said आ हर्यतायॊष्टौ रेभसूनू काश्यपौ बृहत्याद्या (*ā haryatāyòṣṭau rebhasūnū kāśyapau bṛhatyādyā*). The use in the ritual has been stated earlier.
+Sūkta 99. Maṇḍala 9. Anuvāka 6. Sūkta 99. Aṣṭaka 7. Adhyāya 4. Vargas 35, 36. Number of Ṛks in the sūkta: 8. Seers: Rebha and Sūnu, of the Kaśyapa gotra. Deity: Pavamāna Soma. Metre: Ṛk 1 Bṛhatī; Ṛks 2 to 8 Anuṣṭubh.
+### Printed p. 878
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ह॑र्य॒ताय॑ धृ॒ष्णवे॒ धनु॑स्तन्वंति॒ पौंस्य॑म् ।  
+> शु॒क्रां व॑यं॒त्यसु॑राय नि॒र्णिजं॑ वि॒पामग्रे॑ मही॒युवः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । हर्यताय । धृष्णवे । धनुः । तन्वंति । पौंस्यम् ।  
+> शुक्राम् । वयंति । असुराय । निःऽनिजम् । विपाम् । अग्रे । महीयुवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हर्यताय सर्वैः स्पृहणीयाय धृष्णवे शत्रूणां धर्षणशीलाय सोमाय पौंस्यं पुंस्त्वस्याभिव्यंजकं धनुः आ तन्वंति । धनुषि ज्यां कुर्वंतीति । सोमस्य धाराविसर्गार्थं वितायमानं पवित्रमभिधीयते । तदेव विवृणोति । महीयुवः पूजाकामा ऋत्विजः विपां मेधाविनां देवानाम् अग्रे पुरस्तात् शुक्रां शुक्लवर्णां निर्णिजं यथा सोमो निर्णिज्यते ताम् असुराय बलवते वयंति वितन्वंति । दशापवित्रं विस्तारयंतीत्यर्थः । वयतिर्गतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+For the Soma who is desired by all and bold, that is, accustomed to overcome enemies, they stretch the bow, the manifestation of manhood; that is, they string it. What is meant is the filter that is spread out for the pouring out of the streams of Soma. He explains this: the priests, desiring worship, in front of the wise gods spread out, for the mighty Soma, the white nirṇij, the very means by which Soma is cleansed. The meaning is that they stretch out the ten-fringed filter; the root वय (*vaya*) has the sense of motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यताय (*haryatāya*)**NOTE**—for the juice of Soma, who has an attractive form
+- धृष्णवे (*dhṛṣṇave*)—who confronts his enemies
+- पौंस्त्यं (*pauṃstyaṃ*)**NOTE**—which displays manly power
+- धनुः (*dhanuḥ*)—the bow
+- आ तॆन्वंति (*ā tènvaṃti*)—they string and make ready
+- महीयुवः (*mahīyuvaḥ*)—the priests who desire worship
+- विपां (*vipāṃ*)—of the wise gods
+- अग्रे (*agre*)—in front
+- शुक्रां (*śukrāṃ*)—white-coloured
+- निर्णिजं (*nirṇijaṃ*)—the filter that is the means of cleansing
+- असुराय (*asurāya*)—for the powerful Soma**NOTE**
+- वयंति (*vayaṃti*)—they extend and spread out
+
+##### भावार्थ (Bhāvārtha)
+
+For the juice of Soma, who has an attractive form and confronts his enemies, they string and make ready the bow that displays manly power. The priests, desiring worship, in front of the wise gods extend and spread out the filter, white-coloured and the means of cleansing**NOTE**, for the powerful Soma.
+
+##### English translation
+They stretch the bow of manhood for the beloved courageous (Soma) ; (the priests) wishing to worship spread out the white filter for the mighty (Soma) in the presence of the sage (deities).
+### Printed p. 879
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ क्ष॒पा परि॑ष्कृतो॒ वाजाँ॑ अ॒भि प्र गा॑हते ।  
+> यदी॑ वि॒वस्व॑तो॒ धियो॒ हरिं॑ हि॒न्वंति॒ यात॑वे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । क्षपा । परिऽकृतः । वाजान् । अभि । प्र । गाहते ।  
+> यदि । विवस्वतः । धियः । हरिम् । हिन्वंति । यातवे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्षपा । 'सुपां सुलुक्' इति पंचम्या आकारः । क्षपाया रात्रेः अध अनंतरं प्रातःकाले परिष्कृतः । भूषणार्थे ' संपर्युपेभ्यः' इति करोतेः सुडागमः । अद्भिरलंकृतः । यद्वा । क्षपयित्र्यां सेनायामलंकृतः । सोमः वाजान् अन्नानि बलानि वाभिलक्ष्य प्र गाहते प्रगच्छति । विवस्वतः परिचरणवतो यजमानस्य धियः कर्मसाधनभूता अंगुलयः हरिं हरितवर्णमेतमंशुं यातवे पात्राण्यभिगमनाय यदि हिन्वंति प्रेरयंति तर्हि सवनानि गच्छतीति ॥
+
+##### Gist of the bhāṣya
+
+क्षपा (*kṣapā*) means "of the night" (the ablative). After the night, that is, in the morning, Soma, adorned with the waters, or else adorned in the night-destroying army, plunges, that is, goes forth, towards the vājas, foods or strengths. When the fingers of the attending sacrificer, the instruments of the rite, impel this green Soma, the filaments, to go to the vessels, then he goes to the pressings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदि (*yadi*)—when
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer
+- धियः (*dhiyaḥ*)—the fingers
+- हरिं (*hariṃ*)—the green-coloured Soma
+- यातवे (*yātave*)—to go towards the vessel
+- हिन्वंति (*hinvaṃti*)—impel, then
+- क्षपा अध (*kṣapā adha*)—after the night, in the morning
+- परिष्कृतः (*pariṣkṛtaḥ*)—the Soma adorned with the waters
+- वाजान् अभि (*vājān abhi*)—towards food
+- प्र गाहते (*pra gāhate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+When the fingers of the sacrificer impel the green-coloured Soma to go towards the vessel, then, after the night, in the morning, the Soma adorned with the waters flows towards food.
+
+##### English translation
+Consecrated at the end of the night (the Soma) plunges into the viands, when the fingers of the worshipper press out the green-tinted (juice) to go (to the vessels).
+
 ---
 
-**Progress note:** Done through printed p. 873. Mandala 9 sukta 98 Rk 3-9 (pp. 868-873)
+**Progress note:** Done through printed p. 879. Mandala 9 sukta 98 Rk 9-12, sukta 99 Rk 1-2 (pp. 874-879)
