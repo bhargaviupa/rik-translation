@@ -25964,6 +25964,241 @@ As ornaments and the like lie on horses and adorn them, and as the rays envelop 
 ##### English translation
 When the fingers vie with each other in this (Soma), as the trappings on a horse or the rays in the sun, clothed in the waters he flows desiring his
 
+### Printed p. 689
+
+worshippers like (a cowhered going to) a pleasant cow-stall for the nourishment of his cattle. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वि॒ता व्यू॒र्ण्वन्न॒मृत॑स्य॒ धाम॑ स्व॒र्विदे॒ भुव॑नानि प्रथंत ।  
+> धियः॑ पिन्वा॒नाः स्वस॑रे॒ न गाव॑ ऋता॒यंती॑र॒भि वा॑वश्र॒ इंदु॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विता । विऽऊर्ण्वन् । अमृतस्य । धाम । स्वःऽविदे । भुवनानि । प्रथंत ।  
+> धियः । पिन्वानाः । स्वसरे । न । गावः । ऋतऽयंतीः । अभि । वावश्रे । इंदुम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमृतस्य उदकस्य धाम धारकं स्थानमंतरिक्षं सोमः द्विता द्विधा व्यूर्ण्वन् उभयतः स्वतेजसाच्छादयन् मध्येन गच्छति । ततः स्वर्विदे सर्वज्ञाय तस्मै सोमाय भुवनानि प्रथंत विस्तीर्णानि भवंति । तस्य रश्मीनां संचरणार्थं प्रथंत इत्यर्थः । अथ पिन्वानाः प्रीणयित्र्यः धियः स्तुतिलक्षणा वाचः ऋतायंतीः यज्ञमिच्छंत्यः सत्यस्तमिमम् इंदुं सोममभिलक्ष्य स्वसरे यागाहनि वावश्रे शब्दायंते । यद्वा । सोमं कामयंते । तत्र दृष्टांतः। गावो न यथा पिन्वमानाः पयः क्षरंत्यो गावः स्वसरे । सुष्ठु अस्यंते प्रेर्यंते गावोऽत्रेति स्वसरो गोष्ठम् । तस्मिन्नच्छाभिलक्ष्य शब्दं कुर्वंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Soma, covering on both sides (द्विता व्यूर्ण्वन् (*dvitā vyūrṇvan*)) with his own lustre the धाम (*dhāma*) of the अमृतस्य (*amṛtasya*) — that is, the sky, the place that holds the water — goes through the middle. Then for him, the omniscient (स्वर्विदे (*svarvide*)), the worlds expand (प्रथंत (*prathaṃta*)): they expand for the movement of his rays. Then the gratifying (पिन्वानाः (*pinvānāḥ*)) praises (धियः (*dhiyaḥ*), words of the nature of laudation), desiring the sacrifice (ऋतायंतीः (*ṛtāyaṃtīḥ*)), call out (वावश्रे (*vāvaśre*)) towards this Indu, Soma, on the day of the sacrifice (स्वसरे (*svasare*)); or else they desire Soma. **NOTE**  The illustration: as cows (गावो न (*gāvo na*)), yielding milk and being gratified, call out in the स्वसरे (*svasare*) — स्वसर (*svasara*) is the cow-stall, where the cows are well driven — so they call out in it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृतस्य (*amṛtasya*)—to the water
+- धाम (*dhāma*)—the sky, which holds it
+- द्विता (*dvitā*)—making it two
+- व्यूर्णन् (*vyūrṇan*)—pervading that part with his lustre (Soma moves) **NOTE**
+- स्वर्विदे (*svarvide*)—for him, the omniscient
+- भुवनानि (*bhuvanāni*)—the worlds
+- प्रथंत (*prathaṃta*)—attain expansion
+- गावः (*gāvaḥ*)—cows
+- स्वसरे न (*svasare na*)—as they call out to go to their stall
+- पिन्याना (*pinyānā*)—gratifying **NOTE**
+- धियः (*dhiyaḥ*)—words of praise
+- ऋतायंतीः (*ṛtāyaṃtīḥ*)—desiring the sacrifice
+- इंदुं अभि (*iṃduṃ abhi*)—towards Soma
+- वावश्रे (*vāvaśre*)—call out
+
+### Printed p. 690
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, making the sky that holds the water two and pervading that part with his lustre, moves in the middle of them. For him, the omniscient, the worlds expand. As cows call out to go to their stall, gratifying words of praise, desiring the sacrifice, call out towards Soma.
+
+##### English translation
+Opening out the abode of the ambrosia on both sides (he passes between) ; for him, the omniscient, the worlds expand. Gratifying laudations eager for the sacrifice, call upon Indu, like cows (lowing) towards their stall,
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ यत्क॒विः काव्या॒ भर॑ते॒ शूरो॒ न रथो॒ भुव॑नानि॒ विश्वा॑ ।  
+> दे॒वेषु॒ यशो॒ मर्ता॑य॒ भूषं॒दक्षा॑य रा॒यः पु॑रु॒भूषु॒ नव्यः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । यत् । कविः । काव्या । भरते । शूरः । न । रथः । भुवनानि । विश्वा ।  
+> देवेषु । यशः । मर्ताय । भूषन् । दक्षाय । रायः । पुरुऽभूषु । नव्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतप्रज्ञः सोमः काव्या काव्यानि कवेः कर्माणि स्तोत्राणि यत् यदा परि भरते परितो बिभर्ति । परिगच्छतीति यावत् । कथमिव । शूरो न यथा शूरः शत्रूणां बाधकः रथः तदीयः विश्वा भुवनानि सांग्रामिकाणि भूतानि परियाति तद्वत् । तदानीं देवेषु स्थितं यशः व्यापकं धनं मर्ताय मनुष्याय स्तोत्रे भूषन् । भवतेरंतर्भावितण्यर्थात् सनि रूपम् । भावयितुमिच्छन् सोमः रायः आत्मना दत्तस्य धनस्य दक्षाय वृद्ध्यर्थं पुरुभूषु बहुषु यज्ञभवनेषु नव्यः स्तोतव्यो भवति । ‘णु स्तुतौ' । अचो यत् ॥
+
+##### Gist of the bhāṣya
+
+The sage (कविः (*kaviḥ*): one of far-reaching wisdom), Soma, when (यत् (*yat*)) he bears round (परि भरते (*pari bharate*): goes round) the काव्या (*kāvyā*) — the works, the praises, of the sage. How? As a hero (शूरो न (*śūro na*)), a smiter of enemies, his chariot goes round all the worlds, that is, all the beings of the battle. Then the glory (यशः (*yaśaḥ*)), the pervading wealth that abides among the gods, desiring (भूषन् (*bhūṣan*)) to bring it about for the mortal, the praiser — Soma, wishing to cause it to be, becomes worthy to be praised (नव्यः (*navyaḥ*)) in many houses of sacrifice (पुरुभूषु (*purubhūṣu*)) for the growth (दक्षाय (*dakṣāya*)) of the wealth (रायः (*rāyaḥ*)) given by himself.
+
+### Printed p. 691
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरः (*śūraḥ*)—destroying enemies
+- रथः (*rathaḥ*)—the chariot
+- विश्वा भुवनानि न (*viśvā bhuvanāni na*)—as it takes up all its implements of war
+- यत् (*yat*)—when
+- कविः (*kaviḥ*)—Soma, of far-reaching wisdom
+- काव्या (*kāvyā*)—praises
+- परि भरते (*pari bharate*)—takes up, then
+- देवेषु (*deveṣu*)—among the gods
+- यशः (*yaśaḥ*)—the wealth
+- मर्ताय (*martāya*)—to the mortal praiser
+- भूषन् (*bhūṣan*)—desiring to give
+- रायः (*rāyaḥ*)—of the wealth given by himself
+- दक्षाय (*dakṣāya*)—for the growth
+- पुरुभूषु (*purubhūṣu*)—in many houses of sacrifice
+- नव्यः (*navyaḥ*)—becomes worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+As a chariot that destroys enemies takes up all its implements of war, so when Soma, of far-reaching wisdom, takes up the praises, he, desiring to give the wealth that is among the gods to the mortal praiser, becomes worthy of praise in many sacrifices for the growth of the wealth given by himself.
+
+##### English translation
+When the sagc Soma goes round praises (of the wise) like a hostile chariot (going round) all the regions (of the battle-field), then desirous of bestowing upon mortals the wealth that abides with the gods, he (is) to be glorified in the many places of sacrifice for the preservation of the riches he has given. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रि॒ये जा॒तः श्रि॒य आ निरि॑याय॒ श्रियं॒ वयो॑ जरि॒तृभ्यो॑ दधाति ।  
+> श्रियं॒ वसा॑ना अमृत॒त्वमा॑य॒न्भवं॑ति स॒त्या स॑मि॒था मि॒तद्रौ॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रिये । जातः । श्रिये । आ । निः । इयाय । श्रियम् । वयः । जरितृऽभ्यः । दधाति ।  
+> श्रियम् । वसानाः । अमृतऽत्वम् । आयन् । भवंति । सत्या । सम्ऽइथा । मितऽद्रौ ॥ ४ ॥
+
+### Printed p. 692
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमः श्रिये जातः संपदर्थं प्रादुर्भूतो भवति । तदेवाह । श्रिये श्र्यर्थमेव आ निरियाय । अंशुभ्य आभिमुख्येन निर्गच्छति । निर्गतश्च स सोमः जरितृभ्यः स्तोतृभ्यः श्रियं वयः अन्नं जीवनं वा दधाति विदधाति प्रयच्छति । तेन दत्तां श्रियं वसानाः आच्छादयंतः स्तोतारः अमृतत्वं देवत्वममरणं वा आयन प्राप्नुवन् । तस्मिन् मितद्रौ मितगमने सोमे समिथा । युद्धनामैतत् सम्यक् प्राप्यतेऽत्रेति । ‘ समीणः ' ( उ. सू. २. ११ ) इत्येतेः संपूर्वस्य थक्प्रत्ययः । तानि युद्धानि सत्या सत्यानि यथार्थानि भवंति न तु वितथानि । तेन सोमेन पराजितानि भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Soma is born for prosperity, that is, he comes forth for the sake of wealth. This is what he says: श्रिये (*śriye*) — for the sake of prosperity — he issues forth (आ निरियाय (*ā niriyāya*)), going out from the stalks facing us. And having issued forth he gives (दधाति (*dadhāti*)) to the praisers (जरितृभ्यः (*jaritṛbhyaḥ*)) prosperity and वयः (*vayaḥ*), that is, food or life. The praisers, clothing themselves in the prosperity given by him, attained (आयन (*āyana*)) immortality, which is divinity or deathlessness. Under him, मितद्रौ (*mitadrau*), who moves with measured tread, the समिथा (*samithā*) — this is a name of battle, where one is rightly reached — those battles become true (सत्या (*satyā*)), real and not false: the meaning is that they are won by that Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—Soma-deva
+- श्रिये (*śriye*)—for prosperity
+- जातः (*jātaḥ*)—has been born
+- श्रिये (*śriye*)—for prosperity
+- आ निरियाय (*ā niriyāya*)—goes out
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to the praisers
+- श्रियं (*śriyaṃ*)—prosperity
+- वयः (*vayaḥ*)—and food
+- दधाति (*dadhāti*)—gives
+- श्रियं (*śriyaṃ*)—the prosperity given by Soma
+- वसानाः (*vasānāḥ*)—the praisers who have put it on
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- आयन् (*āyan*)—attained (attain)
+- मितद्रौ (*mitadrau*)—when there is the help of Soma, who moves with measure
+- समिथा (*samithā*)—the battle-acts of the praisers
+- सत्या (*satyā*)—true, with good fruit
+- भवंति (*bhavaṃti*)—become
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva has been born for prosperity. He goes out for prosperity. He gives the praisers prosperity and food. The praisers who have put on (obtained) the prosperity given by Soma attain freedom from death. When there is the help of Soma, who moves with measure, the battle-acts of the praisers become true, with good fruit.
+
+##### English translation
+He (is) generated for prosperity, for prosperity he issues forth, he gives prosperity (and) sustenance to those who praise him ; clothing themselves in (his) prosperity, they obtain immortality ; their eonflicts are successful through the aid of (the Soma) who moves with measured tread. **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इष॒मूर्ज॑म॒भ्य१॒॑र्षाश्वं॒ गामु॒रु ज्योतिः॑ कृणुहि॒ मत्सि॑ दे॒वान् ।  
+> विश्वा॑नि॒ हि सु॒षहा॒ तानि॒ तुभ्यं॒ पव॑मान॒ बाध॑से सोम॒ शत्रू॑न् ॥ ५ ॥
+
+### Printed p. 693
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषम् । ऊर्जम् । अभि । अर्ष । अश्वम् । गाम् । उरु । ज्योतिः । कृणुहि । मत्सि । देवान् ।  
+> विश्वानि । हि । सुऽसहा । तानि । तुभ्यम् । पवमान । बाधसे । सोम । शत्रून् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम इषम् अन्नम् ऊर्जम् अन्नरसं च अस्मभ्यम् अभ्यर्ष अभिगमय । किंच अश्वं वाहनं गां पयःप्रदानेन यज्ञस्य साधनभूतां गां च । तथा उरु महत् ज्योतिः सूर्याख्यं कृणुहि जगदालोकनार्थं कुरु । किंच देवान् इंद्रादीन् मत्सि सोमेन तर्पय । मदेर्लटि ‘बहुलं छंदसि' इति विकरणस्य लुक् । वाक्यभेदादनिघातः । अपि च हे सोम तुभ्यं विश्वानि सर्वाणि रक्षांसि सुषहा सुसहान्यनायासेनैवाभिभवितुं शक्यानि भवंति । हिरवधारणे । अत एव हे पवमान पूयमान हे सोम सर्वान् शत्रून् बाधसे जहि ॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, bring to us (अभ्यर्ष (*abhyarṣa*)) food (इषम् (*iṣam*)) and the juice of food (ऊर्जम् (*ūrjam*)). Further, a horse (अश्वं (*aśvaṃ*)), a vehicle, and a cow (गां (*gāṃ*)), the cow that is a means of the sacrifice by giving milk. Likewise make (कृणुहि (*kṛṇuhi*)) the great (उरु (*uru*)) light (ज्योतिः (*jyotiḥ*)) called the sun, for the viewing of the world. Further, delight (मत्सि (*matsi*)) the gods, Indra and the others, with Soma. And, O Soma, for you all the Rākṣasas are easy to overcome (सुषहा (*suṣahā*)): they can be overcome without effort; the word हि (*hi*) is for emphasis. Therefore, O Pavamāna, O Soma who art being purified, smite (बाधसे (*bādhase*): slay) all enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—and the juice of food
+- अभ्यर्ष (*abhyarṣa*)—provide for us
+- अश्वं (*aśvaṃ*)—a horse
+- गां (*gāṃ*)—a cow
+- उरु (*uru*)—extensive
+- ज्योतिः (*jyotiḥ*)—and lustre
+- कृणुहि (*kṛṇuhi*)—produce
+- देवान् (*devān*)—the gods Indra and the others
+- मत्सि (*matsi*)—gratify
+- तुभ्यं (*tubhyaṃ*)—to you
+- विश्वानि तानि (*viśvāni tāni*)—all the powers of the Rākṣasas
+- सुषहा (*suṣahā*)—are easily subdued
+- पवमान (*pavamāna*)—purifying
+- सोम (*soma*)—O Soma-deva
+- शत्रून् (*śatrūn*)—enemies
+- भाधसे (*bhādhase*)—you smite **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, give us food and the juice of food. Produce a horse, a cow and extensive lustre. Gratify the gods, Indra and the others. You can easily defeat all the powers of the Rākṣasas. O Soma-deva, the purifier, you smite all enemies.
+
+##### English translation
+Bring us food and drink, horses, cattle and ample light, exhilarate the gods ; for all (the Rakshasas) are easily subdued by you ; Soma Pavamana, destroy (all) foes.
+
+### Printed p. 694
+
+The ninety-fifth sūkta.
+
+## Sūkta 95 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘कनिक्रंति' इति पंचर्चं दशमं सूक्तं कण्वपुत्रस्य प्रस्कवस्यार्षम् । तथानुक्रम्यते--- कनिक्रंति प्रस्कण्वः' इति । पूर्ववच्छंदोदेवते । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, of five Ṛks, beginning कनिक्रंति (*kanikraṃti*), is the ārṣa of Praskaṇva, the son of Kaṇva. And so the Anukramaṇī says कनिक्रंति प्रस्कण्वः (*kanikraṃti praskaṇvaḥ*). Metre and deity are as before. The viniyoga has been stated.
+
+##### Anuvāda
+
+Anuvāda— This sūkta, कनिक्रंति (*kanikraṃti*), is the tenth sūkta in the fifth anuvāka. It has five Ṛks. The seer of this sūkta is Praskaṇva, the son of Kaṇva. The deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is said कनिक्रंति प्रस्कण्वः (*kanikraṃti praskaṇvaḥ*). The viniyoga has been stated before.
+
+Sūkta 95. Maṇḍala 9, Anuvāka 5, Sūkta 95. Aṣṭaka 7, Adhyāya 4, Varga 5. Number of ṛks in the sūkta: 5. Seer: Praskaṇva. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कनि॑क्रंति॒ हरि॒रा सृ॒ज्यमा॑नः॒ सीद॒न्वन॑स्य ज॒ठरे॑ पुना॒नः ।  
+> नृभि॑र्य॒तः कृ॑णुते नि॒र्णिजं॒ गा अतो॑ म॒तीर्ज॑नयत स्व॒धाभिः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कनिक्रंति । हरिः । आ । सृज्यमानः । सीदन् । वनस्य । जठरे । पुनानः ।  
+> नृऽभिः । यतः । कृणुते । निःऽनिजम् । गाः । अतः । मतीः । जनयत । स्वधाभिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सृज्यमानः आ समंताद्विसृज्यमानोऽभियूयमाणः हरिः हरितवर्णः सोमः कनिक्रंति पुनःपुनः शब्दायते । क्रंदतेर्यङ्लुकि तिपीडभावे ‘ दाधर्ति दर्धर्ति इत्यादिना निपातनादभ्यासस्य निगागमः । अभ्यस्तस्वरः । तथा पुनानः पूयमानः वनस्य वननीयस्य द्रोणकलशस्य जठरे सीदन् उपविशन् शब्दायते । किंच नृभिः कर्मनेतृभिर्ऋत्विग्भिः यतः संयतः सोमः गाः गोविकारान् क्षीरादीन्याच्छादयन् निर्णिजम् आत्मनो रूपं कृणुते ग्रहादिषु करोति । अतः अस्मै सोमाय मतीः मननीयाः स्तुतीः स्वधाभिः हविर्भिः सह जनयत स्तोतारः अजनयन्। झस्यांतादेशाभावः छांदसः। यद्वा । हे स्तोतारः अस्मै सोमाय स्तुतीर्जनयत उत्पादयत । कुरुतेति यावत्॥
+
+##### Gist of the bhāṣya
+
+Soma, the green one (हरिः (*hariḥ*)), being sent forth (सृज्यमानः (*sṛjyamānaḥ*)) on all sides, that is, pressed, cries out (कनिक्रंति (*kanikraṃti*)) again and again. And being purified (पुनानः (*punānaḥ*)) he makes a sound, sitting down (सीदन् (*sīdan*)) in the belly (जठरे (*jaṭhare*)) of the lovely (वनस्य (*vanasya*)) Droṇakalaśa. Further, Soma, held in check (यतः (*yataḥ*)) by the priests (नृभिः (*nṛbhiḥ*)), the leaders of the rite, covering the products of the cow (गाः (*gāḥ*)), milk and the rest, makes his own form (निर्णिजम् (*nirṇijam*)) in the Graha cups and the like. Therefore the praisers produce (जनयत (*janayata*)) for this Soma thoughts (मतीः (*matīḥ*)), praises worthy of thought, together with oblations (स्वधाभिः (*svadhābhiḥ*)). Or else: O praisers, produce praises for this Soma; that is, make them.
+
 ---
 
-**Progress note:** Done through printed p. 688. Ṛk 3 (Pada-bhāṣya) to Sūkta 94 Ṛk 1
+**Progress note:** Done through printed p. 694. Sūkta 94 Ṛk 2-5; Sūkta 95 Ṛk 1
