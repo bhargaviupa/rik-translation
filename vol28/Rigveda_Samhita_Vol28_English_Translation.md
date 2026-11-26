@@ -16802,6 +16802,277 @@ May all the divine horses, Hari and the rest (the horses that are the vehicles o
 ##### English translation
 May those universal horses (of the deities), who iisten to invocations, who are vigorous, swift roadsters, hear our summons : they who spontaneou-sly are the givers of thousands, as if at a sacrifice ; they who have won great wealth in battles.
 
+### Printed p. 494
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ वा॒युं र॑थ॒युजं॒ पुरं॑धिं॒ स्तोमैः॑ कृणुध्वं ॒॑ ॒॑
+> सख्याय पूषणं ।  
+> ते हि दे॒वस्य॑ सवि॒तुः सवी॑मनि॒ क्रतुं॒ सचं॑ते स॒चितः॒ सचे॑तसः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । वायुं । रथयुजं । पुरंधिं । स्तोमैः । कृणुध्वं । सख्याय । पूषणं ।  
+> ते । हि । देवस्य । सवितुः । सवीमनि । क्रतुं । सचंते । सचितः । सचेतसः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः वो यूयं वायुं रथयुजं रथस्य योक्तारं पुरंधिं
+> बहुकर्माणमिंद्रं पूषणमेतन्नामानं च स्तोमैस्त्रिवृत्पंचदशादिलक्षणैः
+> सख्याय सखिकर्मणे प्र कृणुध्वं । प्रकुरुध्वं । यथा तेऽस्माकं धनादिप्रदानेन
+> सखायो भवंति तथा कुरुत । हि यस्मात्सचितो ज्ञानयुक्तास्ते देवाः सचेतसः
+> परस्परं समानबुद्धयः संतः सवितुः सर्वप्रेरकस्य देवस्यादित्यस्य सवीमनि प्रसवेऽह्नि क्रतुं यज्ञं सचंते सेवंते तस्मात्प्रकुरुध्वं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the praisers: "you" are to propitiate Vāyu, the yoker of the chariot, Purandhi (Indra, of many deeds), and Pūṣan, with praises such as the trivṛt and pañcadaśa stomas, for the sake of friendship. Do so in such a way that they become our friends by granting wealth and the like. For those gods, endowed with knowledge and of one mind with one another, attend the sacrifice at the birth (day of impulsion) of the god Savitṛ (the Sun), the impeller of all; therefore perform the praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—by whose greatness
+- सचितः (*sacitaḥ*)—endowed with wisdom
+- ते (*te*)—those gods
+- सचेतसः (*sacetasaḥ*)—having mutual knowledge
+- देवस्य (*devasya*)—of the divine
+- सवितुः (*savituḥ*)—of the Sun
+- सवीमनि (*savīmani*)—on the day of the sacrifice
+- क्रतुं (*kratuṃ*)—the sacrifice
+- सचंते (*sacaṃte*)—they attend; therefore
+- वः (*vaḥ*)—you
+- रथयुजं (*rathayujaṃ*)—connected with the chariot
+- वायुं (*vāyuṃ*)—Vāyu
+- पुरंधिं (*puraṃdhiṃ*)—Indra, who is endowed with many deeds
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- सख्याय (*sakhyāya*)—to win their friendship
+- स्तोमैः (*stomaiḥ*)—with praises
+- प्रकृणुध्वं (*prakṛṇudhvaṃ*)—praise and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, the wise gods, having knowledge of one another's nature, attend the sacrifice on the sacrificial day of the divine Sun, taking a share in it by their own greatness. Such gods that you are, worship and praise with hymns Vāyu, who is connected with the chariot, Indra, endowed with many deeds, and the god Pūṣan, in order to win their friendship.
+
+### Printed p. 495
+**English Translation**
+Importune, (worshippers) with praises, Vayu, harnessing his chariot, and Purandhi, and Pnshan for their friendship, for these considerate and consentient deities, attend the sacrifice upon the birth of Savitri.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिः स॒प्त स॒स्रा न॒द्यो॑ म॒हीर॒पो वन॒स्पती॒न्सर्व॑ता अ॒ग्निमू॒तये॑ ।  
+> कृ॒शानु॒मस्ता॑न्ति॒ष्यं॑ स॒धस्थ॒ आ रु॒द्रं रु॒द्रेषु॑ रु॒द्रियं॑ हवामहे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । सप्त । सस्राः । नद्यः । महीः । अपः । वनस्पतीन् । पर्वतान् । अग्निं । ऊतये ।  
+> कृशानुं । आस्तवान् । तिष्यं । सधस्थे । आ । रुद्रं । रुद्रेषु । रुद्रियं । हवामहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिः सप्तैकविंशतिसंख्याकाः सस्राः सरंतीर्नद्यो नदीः । सरस्वती सरयुः
+> सिंधुरिति त्रयाणां गणानां प्रधानभूताः । तदाद्या नदीर्महीर्महांत्यपस्तासामुदकानि सोमाभिषवार्थं वनस्पतीन्दारुमायांश्चमसादीन्पर्वतान्नोमाभिषवार्थं ग्राप्पोऽग्निं होमनिष्पादकं कृशानुं सोमपालमेतन्नामानं गंधर्वमस्य निषूणां क्षेप्त्वांस्तदनुचरान्गंधर्वानूतये सोमरक्षणाय तिष्यं नक्षत्रं च
+> रुद्रियं रुद्रस्तोमार्हं रुद्रं हविर्भागिनं रुद्रमेतन्नामानं यद्वा परिशिष्टस्वामिनं रुद्रं च एतान्सर्वान्सधस्थे । सह तिष्ठंत्यत्रेति सधस्थो यज्ञः । तस्मिन्
+> रुद्रेषु स्तोत्रकारिषु तदर्थं हवामहे । स्तुत्यत्वेनाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+"Thrice seven" are twenty-one flowing rivers, headed by the three groups whose chief members are Sarasvatī, Sarayu and Sindhu. Their great waters, for the Soma-pressing; the trees, that is, wooden vessels such as cups (camasa); the mountains, that is, the pressing stones; Agni, the accomplisher of the offering; Kṛśānu, a Gandharva of that name, guardian of Soma, and his followers the Gandharvas, the archers who shoot at the Soma-thief — all for protection of the Soma; and the constellation Tiṣya; also Rudra, worthy of the praise of the Rudras, who receives a share of the oblation, or Rudra as owner of the remainder. All these we invoke at the sacrificial seat (sadhastha, where they abide together), that is the sacrifice, among the Rudras who are praisers, for that purpose; we call them as objects of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिः सप्त (*triḥ sapta*)—twenty-one in number
+- सस्राः (*sasrāḥ*)—flowing
+- नद्यः (*nadyaḥ*)—the rivers Sarasvatī and others
+- महीः (*mahīḥ*)—endowed with greatness
+- अपः (*apaḥ*)—their waters
+- वनस्पतीन् (*vanaspatīn*)—the trees (or the cups etc. made from them)
+- पर्वतान् (*parvatān*)—the mountains
+- अग्निं (*agniṃ*)—Agni
+- कृशानुं (*kṛśānuṃ*)—the Gandharva named Kṛśānu
+- अस्त्यान् (*astyān*)—the bearers of bows
+
+### Printed p. 496
+- his other followers
+- ऊतये (*ūtaye*)—for the protection of Soma
+- तिष्यं (*tiṣyaṃ*)—the constellation named Tiṣya
+- रुद्रियं (*rudriyaṃ*)—worthy of praise that extols Rudra
+- रुद्रं (*rudraṃ*)—Rudra
+- सधस्थे (*sadhasthe*)—in the sacrifice
+- रुद्रेषु (*rudreṣu*)—on behalf of the praisers
+- हवामहे (*havāmahe*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+We call the twenty-one flowing rivers, Sarasvatī and the rest, their waters endowed with greatness, the trees, the mountains, Agni, the Gandharva Kṛśānu, his other followers who bear bows, the constellation named Tiṣya for the protection of Soma, and Rudra, worthy of the praise that extols Rudra, in the sacrifice on behalf of the praisers.
+**English Translation**
+Ve invoke for protection the thrice seven flowing rivers, (their) great waters, the trees, the mountains, Agui, Krishanu, the archers, and Tishya, to the assembly : (we invoke) Rudra, worthy of the praise fo the Rudras, for the good of the praisers.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk "thrice seven rivers" means twenty-one rivers. Though rivers are many, the expression "thrice seven rivers" is used in the sense that the principal rivers are twenty-one. Which these twenty-one rivers are is not clear. In the 75th sūkta of this same Maṇḍala the names of some rivers are mentioned: Gaṅgā, Yamunā, Sarasvatī, Śutudrī, Paruṣṭhī, Asiknī, Marudvṛdhā, Vitastā, Ārjīkīyā, Vipāṭ, Suṣomā, Sindhu, Rasā; together with these, other rivers too may make up the twenty-one.
+Kṛśānu: he is a Gandharva engaged in guarding the Soma in heaven. Kṛśānu is one of the seven guardians of Soma: Snāna, Bhrāja, Aṅghāri, Bambhāri, Hasta, Suhasta, Kṛśānu. His matter we have explained in the introduction to the 9th Maṇḍala.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वती स॒रयुः॒ सिंधु॑रू॒र्मिभि॑र्म॒हो म॒हीरव॒सा यं॑तु॒  ॑
+> वक्षणीः ।  
+> दे॒वीरापो॑ मा॒तरः॑ सूदयि॒त्वो॑ घृ॒तव॒त्पयो॒ मधु॑मन्नो  
+> अर्चत ॥ ९ ॥
+
+### Printed p. 497
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वती । सरयुः । सिंधुः । ऊर्मिभिः । महः । महीः । अवसा । यंतु । वक्षणीः ।  
+> देवीः । आपः । मातरः । सूदयित्त्वः । घृतवत् । पयः । मधुमत् । नः । अर्चत॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महो महतोऽपि महीर्महत्योऽत्यंतं महत्य ऊर्मिभिः सहिताः
+> सरस्वती सरयुः सिंधुरेतदाद्या एकविंशति संख्याका वक्षणीरिमा नद्योऽवसा रक्षणेन
+> हेतुना यंतु । अस्मदीयं यज्ञं प्रत्यागच्छंतु । ततो देवीर्देवनशीला
+> मातरो मातृभूताः सूदयित्त्वः प्रेरयित्र्यस्तासामापो धृतवद्धृतयुक्तं
+> मधुमद्मधुसहितमात्मीयं पयो नोऽस्मभ्यमर्चत । प्रयच्छत ॥
+
+##### Gist of the bhāṣya
+
+The very great rivers, endowed with waves — Sarasvatī, Sarayu, Sindhu and the others, twenty-one in number, the *vakṣaṇīs* — are to come for protection to our sacrifice. Then the divine waters, mothers and impellers, are to grant us their own water, mixed with ghee and honey.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—than other rivers of greatness
+- महीः (*mahīḥ*)—possessing still greater greatness
+- ऊर्मिभिः (*ūrmibhiḥ*)—with waves
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- सरयुः (*sarayuḥ*)—the river Sarayu
+- सिंधुः (*siṃdhuḥ*)—that named Sindhu
+- वक्षणीः (*vakṣaṇīḥ*)—all these rivers
+- अवसा (*avasā*)—for protection
+- आ यंतु (*ā yaṃtu*)—let them come
+- देवीः (*devīḥ*)—divine
+- मातरः (*mātaraḥ*)—mothers of the world
+- सूदयित्त्वः (*sūdayittvaḥ*)—giving vitality to the world
+- आपः (*āpaḥ*)—the rivers full of water
+- धृतवत् (*dhṛtavat*)—possessing ghee
+- मधुमत् (*madhumat*)—possessing sweetness
+- पयः (*payaḥ*)—their waters
+- नः (*naḥ*)—to us
+- अर्चत (*arcata*)—let them provide
+
+##### भावार्थ (Bhāvārtha)
+
+Let all the rivers — Sarasvatī, the river Sarayu, and that named Sindhu, possessing greater greatness than other great rivers and endowed with waves — come for protection. Let the divine rivers full of water, mothers of the world and givers of vitality to it, provide us their waters, endowed with ghee and sweetness.
+**English Translation**
+May the very great rivers, Saraswati, Sarayu, Sindhu, come with their waves for (our) protection : may the divine maternal animating waters grant us their water mixed with butter and honey.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त मा॒ता बृ॑हद्दि॒वा शृ॑णोतु न॒स्वष्टा॑ दे॒वेभि॒र्जनि॑भिः पि॒ता  ॑
+> वचः ।  
+> 63
+
+### Printed p. 498
+
+> ऋभुक्षा वाजो रथस्पतिर्भगो रण्वः शंसः शशमानस्य  
+> पातु नः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । माता । बृहत्स्‌दिवा । शृणोतु । नः । त्वष्टा । देवेभिः । जनिभिः । पिता । वचः ।  
+> ऋभुक्षाः । वाजः । रथःपतिः । भगः । रण्वः । शंसः । शशमानस्य । पातु । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च बृहद्दिवा । महद्दिवेति यास्कः । नि. ११-४९ । महती दिवा दीप्तिर्यस्याः सा माता देवमाता नोऽस्माकमाह्वानं शृणोतु । तथा देवेभिर्देवैरिंद्रादिभिर्जनिभिर्देवपत्नीभिश्च पिता सर्वॆषां त्वष्टैतन्नामकोऽस्मदीयं वचः शृणोतु ।
+> तथर्भुक्षा इंद्रो वाजस्तत्सहायो वाजो नाम सौधन्वनः कनीयान् रथस्पती रथस्य
+> पतिर्भगश्च तथा रणो रमणीयः शंसः स्तुत्यो मरुद्धणश्च ततः शशमानस्य शंसमानं स्तोत्यन्नोऽस्मान्पातु । रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+"Also": महद्दिवेति यास्कः । नि. ११-४९ । (*mahaddiveti yāskaḥ | ni. 11-49 |*) — the mother whose radiance is great, the divine mother, is to hear our call. Likewise the father of all, Tvaṣṭṛ, with the gods Indra and others and with the gods' wives, is to hear our words. So too Ṛbhukṣan, that is Indra; Vāja, his helper, the youngest of the Saudhanvanas named Vāja; Rathaspati, lord of the chariot; Bhaga; and the delightful and praiseworthy company of Maruts — these are to protect us who praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहद्दिवा (*bṛhaddivā*)—of exceeding radiance
+- माता (*mātā*)—the divine mother
+- नः (*naḥ*)—our call
+- शृणोतु (*śṛṇotu*)—let her hear
+- देवेभिः (*devebhiḥ*)—together with the gods Indra and others
+- जनिभिः (*janibhiḥ*)—and with the gods' wives
+- पिता (*pitā*)—father of the whole world
+- त्वष्टा (*tvaṣṭā*)—the god Tvaṣṭṛ
+- वचः (*vacaḥ*)—let him hear our praise
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—Ṛbhukṣan (Indra)
+- वाजः (*vājaḥ*)—Vāja
+- रथस्पतिः (*rathaspatiḥ*)—the god who is lord of the chariot
+- भगः (*bhagaḥ*)—Bhaga
+- रण्वः (*raṇvaḥ*)—attractive
+- शंसः (*śaṃsaḥ*)—worthy of praise, the company of Maruts
+- शशमानस्य (*śaśamānasya*)—of the praisers
+- नः (*naḥ*)—us
+- पातु (*pātu*)—let it protect
+
+##### भावार्थ (Bhāvārtha)
+
+Let the divine mother of exceeding radiance hear our call. Let the god Tvaṣṭṛ, accompanied by Indra and the other gods and the gods' wives, father of the whole world, hear our praise. Let Ṛbhukṣan, Vāja, Rathaspati, Bhaga, and the attractive company of Maruts, worthy of praise, protect us who praise.
+**English Translation**
+May the bright-shining mother (of the gods) hear us : may father Twashtri, with the gods, and their wives, (hear our) words : may Ribhukshan , Vaja, Rathaspati, Bhaga, may the joyous adorable (company of the Maruts) protect us their praisers.
+
+### Printed p. 499
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒ण्वः संदृ॑ष्टौ पितु॒मा इ॑व॒ क्षयो॑ भ॒द्रा रु॒द्राणां॑ म॒रुता॒मुप॑स्कृतिः ।  
+> गोभिः॑ ष्याम य॒शसो॒ जने॒ष्व सदा॑ देवास॒ इळ॑या सचेमहि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रण्वः। संदृष्टौ । पितुमान् इव । क्षयः । भद्रा । रुद्राणां । मरुतां । उपस्तुतिः ।  
+> गोभिः । ष्याम । यशसः । जनेषु । आ । सदा । देवासः । इळया । सचेमहि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संदृष्टौ संदर्शने रणो रमणीयो मरुद्दणः पितुमानिवान्नवानिव क्षयो
+> निवासः स्तोत्थाणां भवति । रुद्राणां रुद्रपुत्राणां तेषां मरुतामुपस्तुतिरनुग्रहबुद्धिर्भद्रा कल्याणी भवति । तस्माज्जनेषु जनानां मध्ये वयं गोभिर्गवादिभिर्यशसो यशस्विनः स्याम । भवेम । आनंतरं हे देवासो देवाः युष्मान्सदा
+> सर्वदेळयान्नेन हविर्लक्षणेन सचेमहि । सचेम । संगच्छेम ॥
+
+##### Gist of the bhāṣya
+
+To behold, the delightful company of Maruts is like a dwelling well stored with food, a home for the praisers. The favourable intention of the Maruts, the sons of Rudra, is auspicious. Therefore may we be glorious among men through cows and the like. Thereafter, O gods, may we always be united with you by food in the form of oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संदृष्टौ (*saṃdṛṣṭau*)—to behold
+- रण्वः (*raṇvaḥ*)—the delightful company of Maruts
+- पितुमानिव (*pitumāniva*)—like one endowed with the wealth of food
+- क्षयः (*kṣayaḥ*)—is pleasing like a dwelling-place
+- रुद्राणां (*rudrāṇāṃ*)—sons of Rudra
+- मरुतां (*marutāṃ*)—of the Maruts
+- उपस्तुतिः (*upastutiḥ*)—the favourable intention
+- भद्रा (*bhadrā*)—is auspicious (therefore)
+- जनेषु (*janeṣu*)—among men
+- गोभिः (*gobhiḥ*)—possessed of cows
+- यशसः (*yaśasaḥ*)—deserving of glory
+- स्याम (*syāma*)—may we be
+- आ (*ā*)—thereafter
+- देवासः (*devāsaḥ*)—O gods
+- सदा (*sadā*)—always
+- इळया (*iḷayā*)—with food in the form of oblation
+- सचेमहि (*sacemahi*)—may we be united
+
+##### भावार्थ (Bhāvārtha)
+
+The attractive company of Maruts is delightful to behold, like a dwelling endowed with wealth of food. The favourable intention of the Maruts, sons of Rudra, is auspicious. Therefore may we be possessed of cows among men and deserving of glory. O gods, may we always be united with food in the form of oblation.
+**English Translation**
+Pleasant of aspect (is the troop of Maruts), like a house well stored with provisions : fortunate is the favour of the Maruts, the sons of Rudra :
+
 ---
 
-**Progress note:** Done through printed p. 493. pp. 488-493 (batch API)
+**Progress note:** Done through printed p. 499. pp. 494-499 (batch API)
