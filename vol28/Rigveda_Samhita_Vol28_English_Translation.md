@@ -21197,6 +21197,132 @@ Agni by means of the priests of Vadhryashwa pouring out libations always conqune
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
+### Printed p. 602
+
+> वृत्रहा शत्रूणां हंतायमग्निः सनकाच्चिरादारभ्य वध्र्यश्वस्य हविषा प्रेद्धः
+> प्रकर्षेण दीपितो भवति । तथा तस्य नमसा नमस्कारेण सहोपवाक्य उपस्तोतव्यो
+> भवति । हे वाध्र्यश्व वध्र्यश्वकुले मथनेन समुत्पन्नाग्ने स त्वं नोऽस्माकमजामीनज्ञातीञ्त्यत्रून् उत नापि वा शर्धतो हिंसतो विजामीन्विविधाञ्चा तीनप्यभि
+> तिष्ठ । अभिभव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the verse as follows. This Agni, वृत्रहा (*vṛtrahā*), the slayer of enemies, has been kindled, that is, brilliantly lit, from long ago (सनकात् (*sanakāt*), "beginning from a long time ago") by the oblation of Vadhryaśva. Likewise he is उपवाक्यः (*upavākyaḥ*), to be praised, together with Vadhryaśva's homage (नमसा (*namasā*), "with obeisance"). The poet then addresses Agni: "O Vādhryaśva", that is, O Agni born by churning in the family of Vadhryaśva, "you, नः (*naḥ*), ours, अजामीन् (*ajāmīn*), the unrelated enemies, and also (उत वा (*uta vā*)) विजामीन् (*vijāmīn*), enemies of various kinds who are kinsmen, even those who harm us (शर्धतः (*śardhataḥ*)), अभि तिष्ठ (*abhi tiṣṭha*), overcome them."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—the destroyer of enemies
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- सनकात् (*sanakāt*)—from a long time
+- वध्रश्चश्वस्य (*vadhraścaśvasya*)—by the oblation of Vadhryaśva **NOTE**
+- प्रेद्धः (*preddhaḥ*)—has been kindled
+- नमसा (*namasā*)—together with his homage
+- उपवाक्यः (*upavākyaḥ*)—is praised
+- वाध्रश्च (*vādhraśca*)—O Agni, born through the effort of Vadhryaśva **NOTE**
+- सः (*saḥ*)—you
+- नः (*naḥ*)—to us
+- शर्धतः (*śardhataḥ*)—who inflict harm
+- अजामीन् (*ajāmīn*)—the enemies who are not kinsmen
+- उत वा (*uta vā*)—and likewise
+- विजामीन् (*vijāmīn*)—the enemies who are kinsmen
+- अभि तिष्ठ (*abhi tiṣṭha*)—defeat them
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, the destroyer of enemies, has for a long time been kindled by the oblation of Vadhryaśva, and is praised together with his homage. O Agni, born through the effort of Vadhryaśva, conquer all the enemies who inflict harm on us, and destroy them, whether they are our kinsmen or not.
+
+##### English translation
+From a long period has this Agni the slayer of foes been kindled (by the ohlation) of Vadhryashwa ; (he is) to be addressed with reverence; do you, (Agni, kindled in the) family of Vadhryashwa, overcome our ene-mies, both those who have no kinsmen and those who have many kinsmen.
+
+## Sūkta 70 (Maṇḍala 10)
+
+Seventieth Sūkta
+
+Introduction
+
+The present sūkta is one of the Āprī-sūktas. In the Ṛgveda there are ten Āprī-sūktas in all. In them there are mantras having as deities Idhma (or Samiddha Agni), Narāśaṃsa, Tanūnapāt, Iḷa, Barhis, the Devī Dvāras, Uṣāsānaktā, the two divine Hotṛs who are Pracetasas, the three goddesses Sarasvatī, Iḷā and Bhāratī, Tvaṣṭṛ, and Vanaspati and the Svāhākṛtis. But in respect of the deities Narāśaṃsa and Tanūnapāt, in some sūktas the one deity Narāśaṃsa alone is praised, in others the one deity Tanūnapāt alone,
+
+### Printed p. 603
+
+and in others both deities, Narāśaṃsa and Tanūnapāt, are praised. According to this, these Āprī-sūktas have been divided into three kinds. That is, the Āprī-sūktas composed by the seers Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada are:
+1. जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*)—Ṛ. Saṃ. 7-2 (मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇirvasiṣṭhaḥ*))
+2. सुसमिद्धाय शोचिषे (*susamiddhāya śociṣe*)—Ṛ. Saṃ. 5-5 (वसुश्रत आत्रेयः (*vasuśrata ātreyaḥ*))
+3. इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*)—Ṛ. Saṃ. 10-70 (सुमित्रो वाध्यश्वः (*sumitro vādhyaśvaḥ*))
+4. समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*)—Ṛ. Saṃ. 2-3 (गृत्समदः (*gṛtsamadaḥ*))
+
+These four sūktas belong to one group. Each of them has a Ṛk whose deity is Narāśaṃsa. Therefore these four sūktas are named नराशंसवंति सूक्तानि (*narāśaṃsavaṃti sūktāni*), Āprī-sūktas that praise the deity Narāśaṃsa alone.
+1. सुसमिद्धो न आ वह (*susamiddho na ā vaha*)—Ṛ. Saṃ. 1-13 (मेथातिथिः काण्वः (*methātithiḥ kāṇvaḥ*))
+2. समिद्धो अग्न आवह (*samiddho agna āvaha*)—Ṛ. Saṃ. 1-142 (दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*))
+
+These two Āprī-sūktas belong to the second group. In them there is one Ṛk each for the two deities Narāśaṃsa and Tanūnapāt. Therefore these Āprī-sūktas are known as sūktas with both kinds of deity, Narāśaṃsa and Tanūnapāt. Since both deities are present in these sūktas, in sūkta 1-142, apart from Indra, there came to be twelve homas in place of the eleven Prayāja homas.
+1. समिद्धो अद्य राजसि (*samiddho adya rājasi*)—Ṛ. Saṃ. 1-188 (अगस्त्यो मैत्रावरुणिः (*agastyo maitrāvaruṇiḥ*))
+2. समित्समित्सुमना (*samitsamitsumanā*)—Ṛ. Saṃ. 3-4 (गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*))
+3. समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*)—Ṛ. Saṃ. 9-5 (काश्यपोऽसितो देवलो वा (*kāśyapo 'sito devalo vā*))
+4. समिद्धो अद्य मनुषो (*samiddho adya manuṣo*)—Ṛ. Saṃ. 10-110 (जमदग्निः भार्गवः (*jamadagniḥ bhārgavaḥ*))
+
+These sūktas belong to the third group. In them there are only Ṛks whose deity is Tanūnapāt (there are no Ṛks with Narāśaṃsa as deity). Therefore they are named तनूनपात्वंति सूक्तानि (*tanūnapātvaṃti sūktāni*), that is, Āprī-sūktas containing mantras whose deity is Tanūnapāt. These Āprī-sūktas are recited in the animal oblation for performing the eleven Prayāja homas. There is a sentence of the Taittirīya Saṃhitā: एकादशावदानान्यवद्यति दश वै पशोः प्राणा आत्मैकादशः (*ekādaśāvadānānyavadyati daśa vai paśoḥ prāṇā ātmaikādaśaḥ*) (Tai. Saṃ. 6-3-10-3). In reciting these Āprī-sūktas and performing the animal oblation there is one special rule: sacrificers born in a given gotra must, when performing the sacrifice, recite only the Āprī-sūkta composed by the seer of that gotra (Ā. 3-2). The present Āprī-sūkta is to be recited by those born in the Vādhryaśva gotra.
+
+### Printed p. 606
+
+… a Brāhmaṇa sentence confirms this very view. But some say it is addressed to the metre-deities (Śa. Brā. 1-3-2-9); others, to the deities consisting of the Ṛtus (Śa. Brā. 1-3-2-8); others, to the sacrificial animal (Kau. Brā. 3.4 **NOTE**); some, to the deity consisting of the vital breath (Ai. Brā. 1-11, Śa. Brā. 11-2-7-27); and still others, to the Self (Tai. Saṃ. 6-1-5-4). Having gathered together all that these have said, [Kātyāyana] then states his firm view that the sound doctrine is to say that it is addressed to Agni.
+
+In the Sarvānukramaṇikā of Kātyāyana the difference between the words Āpra and Āprī is also indicated (this difference is stated at the end of the Āprī-sūkta, that is, of sūkta 1-142; it shows that Ṛks addressed to the deity Narāśaṃsa are known as Āpra mantras, and Ṛks addressed to the deity Tanūnapāt as Āprī mantras). In the Bṛhaddevatā:
+द्वितीये द्वादशर्चॆ तु प्रत्यृचं यास्तु देवताः । सूयंते ह्यग्निना सार्थ० तासां नामानि मे शृणु ॥ (*dvitīye dvādaśarcè tu pratyṛcaṃ yāstu devatāḥ | sūyaṃte hyagninā sārtha0 tāsāṃ nāmāni me śṛṇu ‖*)
+प्रथमायां स्तुतश्चेध्मो द्वितीयायां तनूनपात् । नराशंस स्तृतीयायां चतुर्थ्या० सूयते त्विळः ॥ (*prathamāyāṃ stutaścedhmo dvitīyāyāṃ tanūnapāt | narāśaṃsa stṛtīyāyāṃ caturthyā0 sūyate tviḷaḥ ‖*)
+बर्हिरेव तु पंचम्यां द्वारो देव्यस्ततोऽन्यया । नक्तोषासा तु सप्तम्यामष्टम्यां संस्तुतौ सह ॥ (*barhireva tu paṃcamyāṃ dvāro devyastato 'nyayā | naktoṣāsā tu saptamyāmaṣṭamyāṃ saṃstutau saha ‖*)
+देव्याविति तु होतारौ नवमामृचि संस्तुताः । तिस्रो देव्यो दशम्यां तु ज्ञेयस्त्वष्टैव तु स्तुतः ॥ (*devyāviti tu hotārau navamāmṛci saṃstutāḥ | tisro devyo daśamyāṃ tu jñeyastvaṣṭaiva tu stutaḥ ‖*)
+एकादश्यां तु सूक्तस्य स्तुतं विद्याद्वनस्पतिः । द्वादश्यां तु स्तुता देवीर्विद्यात्साहाकृतीरिति ॥ (*ekādaśyāṃ tu sūktasya stutaṃ vidyādvanaspatiḥ | dvādaśyāṃ tu stutā devīrvidyātsāhākṛtīriti ‖*)
+सूक्तेऽस्मिन्प्रत्यृचं यासु देवताः परिकीर्तिताः । ता एव सर्वास्वाप्रीषु द्वितीया तु विकल्पते ॥ (*sūkte 'sminpratyṛcaṃ yāsu devatāḥ parikīrtitāḥ | tā eva sarvāsvāprīṣu dvitīyā tu vikalpate ‖*)
+(Bṛ. De. 2-146 to 151).
+Thus, having named all the deities beginning with Idhma, it states the order of the sūkta and the particular deity addressed in each single Ṛk. On the question of how many Āprī-sūktas there are, the author of the Nirukta says:
+इतीमान्येकादशाप्रीसूक्तानि । तेषां वासिष्ठमात्रेयं वाध्र्यश्वं गार्त्स्मदमिति नाराशंसवंति । मैधातिथं दैर्घतमसं प्रैषितमित्युभयवंत्यतोऽन्यानि तनूनपात्वंति तनूनपात्वंति ॥ (*itīmānyekādaśāprīsūktāni | teṣāṃ vāsiṣṭhamātreyaṃ vādhryaśvaṃ gārtsmadamiti nārāśaṃsavaṃti | maidhātithaṃ dairghatamasaṃ praiṣitamityubhayavaṃtyato 'nyāni tanūnapātvaṃti tanūnapātvaṃti ‖*)
+(Ni. 8-22).
+
+### Printed p. 607
+
+Among these sūktas, those seen by Vasiṣṭha, Atri, Vadhryaśva and Gṛtsamada are devoted to Narāśaṃsa. Those seen by the seers Medhātithi and Dīrghatamas, and also the Praiṣa-sūkta, are addressed to both deities, Tanūnapāt and Narāśaṃsa; the remaining four sūktas are devoted to the deity Tanūnapāt alone. In all (if the Praiṣa-sūkta is included) there are eleven Āprī-sūktas. The Bṛhaddevatā too gives this same view:
+प्रेष्टैः सहाप्रीसूक्तानि तान्येकादश संति च । यजूंषि प्रैषसूक्तं ना दशैतानीतराणि तु ॥ (*preṣṭaiḥ sahāprīsūktāni tānyekādaśa saṃti ca | yajūṃṣi praiṣasūktaṃ nā daśaitānītarāṇi tu ‖*)
+सौत्रामण्यानि तु त्रीणि प्राजापत्याश्वमेधिके । पुरुषस्य तु यन्मेधे यजस्वेव तु तानि षट् ॥ (*sautrāmaṇyāni tu trīṇi prājāpatyāśvamedhike | puruṣasya tu yanmedhe yajasveva tu tāni ṣaṭ ‖*)
+अत्रैव प्रैषसूक्तं स्यान्न यजुष्वाद्रियेत तत् । तेषां प्रैषगतं सूक्तं यच्च दीर्घतमा जगौ । मेधातिथौ यदुक्तं च त्रिण्येवोभयवंति तु । ऋषौ गृत्समदे यच्च वाध्यश्वे च यदुच्यते ॥ (*atraiva praiṣasūktaṃ syānna yajuṣvādriyeta tat | teṣāṃ praiṣagataṃ sūktaṃ yacca dīrghatamā jagau | medhātithau yaduktaṃ ca triṇyevobhayavaṃti tu | ṛṣau gṛtsamade yacca vādhyaśve ca yaducyate ‖*)
+नराशंसवदत्रेश्च ददर्श च यदौर्वशः । तनूनपादगस्त्यश्च जमदग्निश्च यज्जगौ ॥ (*narāśaṃsavadatreśca dadarśa ca yadaurvaśaḥ | tanūnapādagastyaśca jamadagniśca yajjagau ‖*)
+विश्वामित्र ऋषिर्यश्च जगौ वै काश्यपोस्ितः । मेधातिथेर्युचां यास्तु प्रोक्ता द्वादशदेवताः ॥ (*viśvāmitra ṛṣiryaśca jagau vai kāśyapositaḥ | medhātitheryucāṃ yāstu proktā dvādaśadevatāḥ ‖*)
+संपद्यंते यथाग्निं ताः संपदं तां निबोधत । (*saṃpadyaṃte yathāgniṃ tāḥ saṃpadaṃ tāṃ nibodhata |*)
+(Bṛ. De. 2-152 to 157).
+In these verses it is said that if the Praiṣa-sūkta is included there are eleven Āprī-sūktas in all, and if not, ten; and following the Nirukta sentence itself it gives the order of the sūktas addressed to the deities Narāśaṃsa, Tanūnapāt and so on, and of those composed by the seers Medhātithi and others.
+
+The Praiṣa-sūkta is orderly and is such as to gather together the substance of all the Āprī-sūktas and give one definite picture. It collects all the individual epithets of the deities addressed in the Āprī-sūktas and sets out separately the nature and the function of each deity. In addressing each deity as well, it first utters a fixed portion of mantra, होता यक्षत् (*hotā yakṣat*), and only then names the deity concerned. By first examining the deity, the epithet of the deity and the function described in the Praiṣa-sūkta, one can afterwards learn the agreement, or the differences of opinion, on the questions: what is the aim of such Āprī-sūktas addressed to deities? What are their characteristics? What benefit results from reciting them?
+
+### Printed p. 608
+
+##### विशेषविषयगळु (Special Topics)
+
+- No. १ (*1*)—deity अग्निः (समित्) (*agniḥ (samit)*); epithets समिधा, सुसमिधा, समिद्धः (*samidhā, susamidhā, samiddhaḥ*)
+- No. २ (*2*)—deity अग्निः (तनूनपात्) (*agniḥ (tanūnapāt)*); epithets अदितेः गर्भं भुवनस्य गोपां (*aditeḥ garbhaṃ bhuvanasya gopāṃ*)
+- No. ३ (*3*)—deity अग्निः (नराशंसः) (*agniḥ (narāśaṃsaḥ)*); epithets नृसस्त्रं नृः प्रणेत्रं (*nṛsastraṃ nṛḥ praṇetraṃ*)
+- No. ४ (*4*)—deity अग्निः (इळः) (*agniḥ (iḷaḥ)*); epithets ईळितो देवः हव्यवाट् अमूरः (*īḷito devaḥ havyavāṭ amūraḥ*)
+- No. ५ (*5*)—deity बर्हिः (*barhiḥ*); epithets सुष्टरीम, ऊर्णम्रद, देवेभ्यः, स्नासस्थं (*suṣṭarīma, ūrṇamrada, devebhyaḥ, snāsasthaṃ*)
+- No. ६ (*6*)—deity देवीद्वारः (*devīdvāraḥ*); epithets ऋष्वाः कवष्यः, कोषधावनीः (*ṛṣvāḥ kavaṣyaḥ, koṣadhāvanīḥ*)
+- No. ७ (*7*)—deity उषासानाक्ता (*uṣāsānāktā*); epithets *bṛhatī, supeśasā, patibhyaḥ, yoniṃ, kṛṇavānne, saṃsmayamāne*
+- No. ८ (*8*)—deity दैव्या होतारा (*daivyā hotārā*); epithets मंद्रा, पोतारा, कवी, प्रचेतसा (*maṃdrā, potārā, kavī, pracetasā*)
+- No. ९ (*9*)—deity तिसो. ६ देवीः (*tiso. 6 devīḥ*); epithets *apasāṃ apastamāḥ, devīḥ aciṣṭaḥ apākaḥ, retodhāḥ, viśravas, yaśodhāḥ pururūpaḥ, akāmakarśana dhiyo jyeṣyā, svadhāvān svadhitiḥ, devebhyaḥṛtudhā havyavāṭ yajñasya āyuḥ, kalpamānaḥ ājyasya medasaḥ svāhā*
+
+Gathering the main points of the Āprī-sūktas, a systematic … the order of their composition, their styles, and in the sacrificial rite … poetic character … at the end it is stated. … regarding their aims the scholar Max Muller first … as a means of satisfying …, and afterwards … to take them up is toil, thus he has said— **NOTE**
+
+### Printed p. 609
+
+… it is well known that this sūkta alone is used. But for the seers who were the seers of the fourth and sixth Maṇḍalas no reason can be given why they have no need of it; or perhaps the descendants of Vāmadeva and of Bharadvāja used to recite some other mantras in this place.
+
+The mantras indicated by the names Āprī and Āpra: Kātyāyana in the Sarvānukramaṇikā says: एतदाप्रीसूक्तं एतेनान्युक्तदैवतानि एकादशकानि तु नाराशंसानि आप्रशब्दोक्तानि आतनूनपात्वंति । (*etadāprīsūktaṃ etenānyuktadaivatāni ekādaśakāni tu nārāśaṃsāni āpraśabdoktāni ātanūnapātvaṃti |*). He has said that the mantras recited addressed to the deity Narāśaṃsa are known by the name Āpra, and the mantras recited addressed to the deity Tanūnapāt are known by the name Āprī. But in the Nirukta and the like there are no sentences showing this distinction. The question also naturally arises whether the name Āprī belongs to the deity or to the sūkta. On close examination one may say that they were first sūkta-wise, and afterwards became mantras pointing out the deity.
+
+Nature of the rite: it may be said that the sacrificial rite prescribed by the Āprī-sūkta did not hold a subordinate position, as the Brāhmaṇas and the like indicate, but held the position of a principal sacrifice. The difference between the Prayāja oblations and the oblations prescribed in this rite is evident in many places: 1-13-8, 1-148-7 **NOTE**, 1-142-8, 3-4-8, 5-5-7, 9-5-8. In these Ṛks the mantra-words इमं यज्ञं (*imaṃ yajñaṃ*); in Ṛks 5-5-2 and 3-4-5 the words नः यज्ञं (*naḥ yajñaṃ*); and in Ṛks 1-13-2, 7-2-7 and 10-110-8 the words अस्मिन् यज्ञे (*asmin yajñe*) show a principal position in the sacrificial rite or in the offering of oblations, and not a subordinate position like the Prayāja oblations.
+
+From the mantras त्रिरादिवोमिमिक्षति (*trirādivomimikṣati*) (1-142-3) and त्रिरहन्नायजंते (*trirahannāyajaṃte*) (3-4-2) it is learned that this rite is to be performed at three times in the day; and from समिद्धो अद्य मनुषो दुरोणे (*samiddho adya manuṣo duroṇe*) (10-110-1) it is learned that there is no separate sacrificial house for it, and that the fire may be established in an ordinary house.
+
+In the Ṛk
+समित्समित्सुमना बोध्यस्मे शुचाशुचा सुमतिं रासि वस्वः । आ देव देवान्यजथाय वक्षि सखा सखीन्सुमना यक्ष्यग्ने ॥ (*samitsamitsumanā bodhyasme śucāśucā sumatiṃ rāsi vasvaḥ | ā deva devānyajathāya vakṣi sakhā sakhīnsumanā yakṣyagne ‖*)
+(Ṛ. Saṃ. 3-4-1)
+the seer Viśvāmitra describes poetically the kindling of Agni, and also in
+जुषस्व नः समिधमग्ने अद्य शोचा बृहद्यजतं धूममृण्वन् । (*juṣasva naḥ samidhamagne adya śocā bṛhadyajataṃ dhūmamṛṇvan |*)
+
 ---
 
-**Progress note:** Done through printed p. 601. pp. 596-601 (batch API)
+**Progress note:** Done through printed p. 609. pp. 602-609 (batch API)
