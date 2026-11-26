@@ -3388,6 +3388,244 @@ Roaming like a calf and bright-shining, he finds here no hinderer; he seeks a ch
 
 And now quickly, today, the great, vast, thick yoking of this Āditya, filled with majesty and like that of fully grown horses, is seen. That is what he says: the rope of the chariot is seen (ददृशे (*dadṛśe*)); the meaning is that in the atmosphere he yokes the horses to the chariot. The connection with दुहंति (*duhaṃti*) is in the following Ṛk. This Ṛk, in the Abhiṣṭava at the heating of the Gharma, is the one beginning दुहंति सप्त (*duhaṃti sapta*). It is also given in the sūtra: दुहंति सप्तैकां समिद्धो अग्निरश्विना (*duhaṃti saptaikāṃ samiddho agniraśvinā*) (Āśv. Śrau. 4. 7). This Ṛk is also in the Grāvastotra; and it is given in the sūtra: दुहंति सप्तैकामधुक्षत्पिप्युषीमिषम् (*duhaṃti saptaikāmadhukṣatpipyuṣīmiṣam*) (Āśv. Śrau. 5. 12). **NOTE**
 
+### Printed p. 85
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो (*uto*)—and
+- यत् (*yat*)—when
+- अस्य (*asya*)—of the Āditya
+- महत् (*mahat*)—possessing majesty
+- अश्वावत् (*aśvāvat*)—connected with horses
+- बृहत् (*bṛhat*)—large
+- योजनं (*yojanaṃ*)—the union with the chariot takes place
+- सु (*su*)—immediately
+- रथस्य (*rathasya*)—of his chariot
+- दामा (*dāmā*)—the course of movement
+- ददृशे (*dadṛśe*)—becomes visible
+
+##### भावार्थ (Bhāvārtha)
+
+When the union with the chariot takes place, a union that is possessed of the Āditya's majesty, connected with horses and large, immediately the course of movement of his chariot becomes visible.
+
+##### English translation
+As soon as the great stout harness of his horses is seen (in the sky), the traces of his chariot.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दु॒हंति॑ स॒प्तैका॒मुप॒ द्वा पंच॑ सृजतः ।  
+> ती॒र्थे सिंधो॒रधि॑ स्व॒रे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुहंति । सप्त । एकाम् । उप । द्वा । पंच । सृजतः ।  
+> तीर्थे । सिंधोः । अधि । स्वरे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्त ऋत्विजः एकां घर्मं दुहंति । तेषां मध्ये द्वा द्वौ प्रतिप्रस्थातारावध्वर्यू पंच अन्यान् उप सृजतः प्रयोजयतः । के ते पंच त उच्यंते । यजमानं ब्रह्माणं होतारमाग्नीध्रं प्रस्तोतारमिति । कुत्रेति उच्यते। सिंधोः कस्याश्चित् सरस्वत्यादिप्रख्याताया नद्याः तीर्थे । यत्रायमृषिर्यजति तत्र । स्वरे अधि। स्वरतिः शब्दकर्मा । अधीति सप्तम्यर्थानुवादी । स्वरोपेते शब्दवति । यत्तीर्थमृत्विजाम् ओ श्रावय इत्यादिशब्दैः शब्दवद्भवति तस्मिन्नित्यर्थः ॥
+> प्रवर्ग्येऽभिष्टवे ग्राव्णोऽभिष्टवे च  आ दशभिः' इत्येषा । सूत्रितं च - ‘ आ दशभिर्विवस्वतो दुहंति सप्तैकाम्' (आश्व. श्रौ. ४. ७ ; ५. १२) इति ॥
+
+##### Gist of the bhāṣya
+
+Seven priests milk one Gharma. Among them the two, the two Pratiprasthātṛ Adhvaryus, send forth, that is, employ, the other five. Who are those five? They are named: the offerer, the Brahmā, the Hotṛ, the Āgnīdhra and the Prastotṛ. Where? On the bank (तीर्थे (*tīrthe*)) of some river (सिंधोः (*siṃdhoḥ*)), a river made famous like the Sarasvatī and the others, there where this seer performs the sacrifice. The words स्वरे अधि (*svare adhi*) mean: स्वरतिः (*svaratiḥ*) is a root of sound, and अधि (*adhi*) merely repeats the sense of the locative; so the bank that is sounding, that is, which resounds with such words of the priests as ओ श्रावय (*o śrāvaya*). The Ṛk आ दशभिः (*ā daśabhiḥ*) is used in the Pravargya, in the Abhiṣṭava, and in the Abhiṣṭava of the Grāvan. It is given in the sūtra: आ दशभिर्विवस्वतो दुहंति सप्तैकाम् (*ā daśabhirvivasvato duhaṃti saptaikām*) (Āśv. Śrau. 4. 7 ; 5. 12).
+
+### Printed p. 86
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधोः (*siṃdhoḥ*)—of the famed river
+- स्वरे अधि (*svare adhi*)—resounding
+- तीर्थे (*tīrthe*)—on the bank of the water
+- सप्त (*sapta*)—seven priests
+- एकां (*ekāṃ*)—the one Gharma
+- दुहंति (*duhaṃti*)—milk
+- द्वा (*dvā*)—two of them
+- पंच (*paṃca*)—to the remaining five persons
+- उप सृजतः (*upa sṛjataḥ*)—gives direction
+
+##### भावार्थ (Bhāvārtha)
+
+On the bank of the resounding water of the famed river, seven priests together milk the one Gharma. Of them the two Pratiprasthātṛs give direction to the five, namely the offerer, the Brahmā, the Hotṛ, the Āgnīdhra and the Prastotṛ.
+
+##### English translation
+Seven milk one (cow), the two direct the five, on the resounding shore of the river.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhiṣṭaveṣṭi, at the heating of the Gharma, the Ṛk beginning दुहंति सप्त (*duhaṃti sapta*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुहंति सप्तैकां समिद्धो अग्निरश्विना (*duhaṃti saptaikāṃ samiddho agniraśvinā*) (Ā. 4-7). And in the Grāvastotra also this Ṛk is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुहंति सप्तैकामधुक्षत्पिप्युषीमिषं (*duhaṃti saptaikāmadhukṣatpipyuṣīmiṣaṃ*) **NOTE** (Ā. 5-12).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ द॒शभि॑र्वि॒वस्व॑त॒ इंद्रः॒ कोश॑मचुच्यवीत् ।  
+> खेद॑या त्रि॒वृता॑ दि॒वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । दशऽभिः । विवस्वतः । इंद्रः । कोशम् । अचुच्यवीत् ।  
+> खेदया । त्रिऽवृता । दिवः ॥ ८ ॥
+
+### Printed p. 87
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विवस्वतः परिचरतो यजमानस्य दशभिः अंगुलीभिर्याचितः सन् इंद्रः कोशम् । मेघनामैतत् । उदकसेचकं मेघं दिवः अंतरिक्षसंबंधिनं तत्सकाशाद्वा आ अचुच्यवीत् । व्यदारयदित्यर्थः। केन साधनेनेति तदुच्यते । त्रिवृता त्रिप्रकारवर्तनवता खेदया रश्मिना । यद्वा । अत्रेंद्रशब्देनाग्निरादित्यो वा गृह्यते । खेदया त्रिवृतेति लिंगात् ॥
+
+##### Gist of the bhāṣya
+
+Indra, entreated by the ten fingers of the offerer who is engaged in service (विवस्वतः (*vivasvataḥ*)), split the कोशम् (*kośam*). This is a name for the cloud: the cloud that sprinkles water, belonging to heaven, the atmosphere, or from there, he split (आ अचुच्यवीत् (*ā acucyavīt*)). By what means is this said: by the ray (खेदया (*khedayā*)) of threefold turning (त्रिवृता (*trivṛtā*)). Or else: here by the word इंद्र (*iṃdra*) Agni or the Āditya is understood, because of the indicatory sign खेदया त्रिवृता (*khedayā trivṛtā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विवस्वतः (*vivasvataḥ*)—of the offerer engaged in worship
+- दशभिः (*daśabhiḥ*)—also prayed to by the ten fingers
+- इंद्रः (*iṃdraḥ*)—Indra
+- कोशं (*kośaṃ*)—the cloud
+- त्रिवृता (*trivṛtā*)—threefold
+- खेदया (*khedayā*)—by means in the form of rays
+- दिवः (*divaḥ*)—so as to scatter from the atmosphere
+- आ अचुच्यवीत् (*ā acucyavīt*)—has split asunder
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, prayed to also by the ten fingers of the offerer who is engaged in worship, has split the cloud asunder, so that it scatters from the atmosphere, by a threefold means in the form of rays.
+
+##### English translation
+Invoked by the ten (fingers) of the worshipper, Indra has caused the cloud to fall from heaven by his three-fold ray.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pravargya and in the Abhiṣṭaveṣṭi, and also in the Grāvābhiṣṭava, the Ṛk आ दशभिः (*ā daśabhiḥ*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ दशभिर्विवस्वतो दुहंति सप्तैकां (*ā daśabhirvivasvato duhaṃti saptaikāṃ*) (Ā. 4-7; 5-12).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ त्रि॒धातु॑रध्व॒रं जू॒र्णिरे॑ति॒ नवी॑यसी ।  
+> मध्वा॒ होता॑रो अंजते ॥ ९ ॥
+
+### Printed p. 88
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । त्रिऽधातुः । अध्वरम् । जूर्णिः । एति । नवीयसी ।  
+> मध्वा । होतारः । अंजते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः त्रिधातुः लोहितशुक्लकृष्णभेदेन त्रिवर्णः जूर्णिः जवो वेगवान् नवीयसी नवीयस्या ज्वालया अध्वरं प्रवर्ग्यम् एति गच्छति । होतारः होमनिष्पादका अध्वर्य्वादयः मध्वा आज्यादिना परि अंजते । अथवाग्नेस्त्रिस्त्रिप्रकारा क्षिप्रा जवतरा ज्वाला पर्येति महावीरम् । तं मध्वांजत इति ॥
+
+##### Gist of the bhāṣya
+
+This Agni is त्रिधातुः (*tridhātuḥ*), of three colours by the distinction of red, white and black; जूर्णिः (*jūrṇiḥ*) is swift, speedy. With a new flame (नवीयसी (*navīyasī*)) he goes (एति (*eti*)) to the sacrifice, the Pravargya. The होतारः (*hotāraḥ*), the Adhvaryu and the others who accomplish the oblation, anoint (परि अंजते (*pari aṃjate*)) with honey (मध्वा (*madhvā*)), that is, with ghee and the like. Or else: the flame of Agni, threefold, quick and swifter, goes around the Mahāvīra, and they anoint it with honey.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिधातुः (*tridhātuḥ*)—having red, white and black colours
+- जूर्णिः (*jūrṇiḥ*)—swift
+- नवीयसी (*navīyasī*)—new; Agni with a flame of this kind
+- अध्वरं (*adhvaraṃ*)—to the sacrifice
+- एति (*eti*)—comes
+- होतारः (*hotāraḥ*)—the Hotṛs
+- मध्वा (*madhvā*)—with sweet ghee and the like
+- परि अंजते (*pari aṃjate*)—smear all around and adorn
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has red, white and black colours and a swift and new flame, comes to the sacrifice. The Hotṛs smear and adorn Agni all around with sweet ghee and the like.
+
+##### English translation
+The three-hued fresh impetuous (blaze) goes swiftly round the sacrifice ; the priests anoint it with butter.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिं॒चंति॒ नम॑साव॒तमु॒च्चाच॑क्रं॒ परि॑ज्मानम् ।  
+> नी॒चीन॑बार॒मक्षि॑तम् ॥ १० ॥
+
+### Printed p. 89
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिंचंति । नमसा । अवतम् । उच्चाऽचक्रम् । परिऽज्मानम् ।  
+> नीचीनऽबारम् । अक्षितम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नमसा नमनेन अवतं महावीरम् उच्चाचक्रम् उपरिस्थितचक्रं परिज्मानं परितो व्याप्तं नीचीनबारं नीचीनद्वारम् अक्षितम् अक्षीणमीदृशं क्षीराद्यवशेषयुक्तमाहवनीयस्योपरि नमनेन सिंचंति जुह्वति । महावीरेण ह्याहवनीये हूयते ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+With reverence (नमसा (*namasā*)), that is, with bowing, they sprinkle, that is, offer, over the Āhavanīya the अवतं (*avataṃ*), the Mahāvīra, उच्चाचक्रं (*uccācakraṃ*), with its wheel standing above, परिज्मानं (*parijmānaṃ*), pervading all around, नीचीनबारं (*nīcīnabāraṃ*), with its door below, अक्षितं (*akṣitaṃ*), undecayed, being such, together with the remnant of milk and the like. For with the Mahāvīra it is offered in the Āhavanīya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवतं (*avataṃ*)—that which bears the name Mahāvīra
+- उच्चाचक्रं (*uccācakraṃ*)—having the shape of a wheel in the upper part
+- परिज्मानं (*parijmānaṃ*)—pervading everywhere
+- नीचीनबारं (*nīcīnabāraṃ*)—having a door in the lower part
+- अक्षितं (*akṣitaṃ*)—free from decay; the flame of Agni (the Mahāvīra vessel)
+- नमसा (*namasā*)—with reverence
+- सिंचंति (*siṃcaṃti*)—they smear with ghee and the like and adorn
+
+##### भावार्थ (Bhāvārtha)
+
+With reverence they smear with ghee and the like and adorn the flame of Agni (the Mahāvīra vessel), that which bears the name Mahāvīra, has the shape of a wheel in the upper part, pervades everywhere, has a door in the lower part and is free from decay.
+
+##### English translation
+They pour out with reverence the inexhaustible cauldron, as it goes round circular above and with an opening below.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्यार॒मिदद्र॑यो॒ निषि॑क्तं॒ पुष्क॑रे॒ मधु॑ ।  
+> अ॒व॒तस्य॑ वि॒सर्ज॑ने ॥ ११ ॥
+
+### Printed p. 90
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिऽआरम् । इत् । अद्रयः । निऽसिक्तम् । पुष्करे । मधु ।  
+> अवतस्य । विऽसर्जने ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्रयः आद्रियमाणा अध्वर्य्वादयः अभ्यारमित् अभिगम्यैव निषिक्तम् अतिरिक्तं मधु पुष्करे वपुष्करे प्रवृद्ध उपयमनीपात्रे सिंचंति अग्निहोत्रार्थम् अवतस्य महावीरस्य विसर्जने विसर्जनसमये । होमानंतरं खलु महावीरमासंद्यामासादयंति ॥
+
+##### Gist of the bhāṣya
+
+The अद्रयः (*adrayaḥ*), the Adhvaryu and the others who are honoured, having approached (अभ्यारमित् (*abhyāramit*)), pour the surplus honey (मधु (*madhu*)), poured out (निषिक्तं (*niṣiktaṃ*)), into the पुष्करे (*puṣkare*), the large Upayamanī vessel, for the Agnihotra, at the time of the setting down (विसर्जने (*visarjane*)) of the अवतस्य (*avatasya*), the Mahāvīra. For after the oblation they place the Mahāvīra on the seat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवतस्य (*avatasya*)—of Agni bearing the name Mahāvīra
+- विसर्जने (*visarjane*)—(after the offering) at the time of setting down
+- अद्रयः (*adrayaḥ*)—the priests who are of reverent mind
+- अभ्यारमित् (*abhyāramit*)—approaching
+- निषिक्तं (*niṣiktaṃ*)—left over after the offering
+- मधु (*madhu*)—the sweet ghee
+- पुष्करे (*puṣkare*)—in the extended Upayamanī vessel (they pour)
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of the setting down after the offering of the one that bears the name Mahāvīra, the priests of reverent mind, approaching Agni, pour the sweet ghee left over after the offering into the extended Upayamanī vessel.
+
+##### English translation
+The reverent priests drawing near pour the superfluous butter into the large (spoon), when they set the cauldron down.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गाव॒ उपा॑वताव॒तं म॒ही य॒ज्ञस्य॑ र॒प्सुदा॑ ।  
+> उ॒भा कर्णा॑ हिर॒ण्यया॑ ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 84. Sukta 72 Rk 1-6 (pp. 79-84)
+**Progress note:** Done through printed p. 90. Sukta 72 Rk 6-12 (pp. 85-90)
