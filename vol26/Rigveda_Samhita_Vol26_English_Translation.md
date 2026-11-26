@@ -25111,6 +25111,172 @@ Sūkta 92. Maṇḍala 9, Anuvāka 5, Sūkta 92. Aṣṭaka 7, Adhyāya 4, Varga
 
 सुवानः (*suvānaḥ*): being pressed; हियानः (*hiyānaḥ*): driven on by the priests; हरिः (*hariḥ*): of green colour; अंशुः (*aṃśuḥ*): Soma. On the filter, the ten-fold filter made of woollen threads, he is released all around (परि सर्जि (*pari sarji*)). For what purpose? सनये (*sanaye*): for the gain of wealth, or for the sharing with the gods. An example is given: रथो न (*ratho na*), as a chariot is sent forth in battle to kill enemies or to carry off the enemies' wealth, so he is sent. Further, being purified by the filter, this Soma obtains (आपत् (*āpat*)) इंद्रियम् (*iṃdriyam*), the mark of Indra or what is sufficient for Indra, and praise, श्लोकं (*ślokaṃ*). Likewise that Soma, with the gladdening foods in the form of oblations (प्रयोभिः (*prayobhiḥ*)), serves the gods (अजुषत (*ajuṣata*); the root means pleasing and serving).
 
+### Printed p. 659
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानः (*suvānaḥ*)—pressed
+- हियानः (*hiyānaḥ*)—driven on by the priests
+- हरिः (*hariḥ*)—of green colour
+- अंशुः (*aṃśuḥ*)—the Soma
+- रथो न (*ratho na*)—like a chariot
+- पवित्रे (*pavitre*)—on the ten-fold filter
+- सनये (*sanaye*)—for the gain of wealth
+- परिसर्जि (*parisarji*)—is let loose
+- पूयमानः (*pūyamānaḥ*)—having attained purity
+- इंद्रियं (*iṃdriyaṃ*)—being gratifying to Indra
+- श्लोकं (*ślokaṃ*)—praise
+- आपत् (*āpat*)—obtains
+- प्रयोभिः (*prayobhiḥ*)—with gladdening oblations
+- देवान् (*devān*)—the gods
+- प्रत्यजुषत (*pratyajuṣata*)—serves
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma, which is pressed, driven on by the priests, and of green colour, is let loose like a chariot on the ten-fold filter for the gain of wealth. Having attained purity, since it is gratifying to Indra, it is praised. With gladdening oblations it serves the gods.
+
+##### English translation
+The green-tinted Soma effused and sent forth (by the priests) is let loose, like a chariot upon the filter, for the acquisition (of riches); being filtered he acquires (Indra's) praise, he gratifies the gods with conciliatory (oblations).
+
+##### विशेषविषयगळु (Special Topics)
+
+अंशु. सनये रथो न सर्जि (*aṃśu. sanaye ratho na sarji*)—अयं सोमः धनलाभाय देवानां संभजनाय वा परिसृज्यते । तत्र दृष्टांतः । यथा रथः युद्धे शत्रुवधार्थं शत्रुधनहरणार्थं वा सृज्यते तद्वत् । (*ayaṃ somaḥ dhanalābhāya devānāṃ saṃbhajanāya vā parisṛjyate | tatra dṛṣṭāṃtaḥ | yathā rathaḥ yuddhe śatruvadhārthaṃ śatrudhanaharaṇārthaṃ vā sṛjyate tadvat |*) Here the Soma juice that streams out from the crushed Soma plants is compared to a chariot that sets out for battle. A chariot that sets out for battle is helpful in killing the enemies in the battle, and after the enemies have been conquered in the battle it also helps in bringing the wealth and other things that were with them. In the same way the pressed Soma juice is used in the sacrifices and other rites that are performed for the gain of wealth, for the pleasure of Indra, and for the attainment of strength and capacity. In the sense that refers to Soma, the word सनये (*sanaye*) indicates the idea: for the gain of wealth, or for the gods to come to the sacrifice. Likewise the word इंद्रियं (*iṃdriyaṃ*) indicates the meaning virility, strength, or else the hymn recited addressing Indra.
+
+### Printed p. 660
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ नृ॒चक्षा॑ असरत्प॒वित्रे॒ नाम॒ दधा॑नः क॒विर॑स्य॒ योनौ॑ ।  
+> सीद॒न्होते॑व॒ सद॑ने च॒मूषूपे॑मग्म॒न्नृष॑यः स॒प्त विप्राः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । नृऽचक्षाः । असरत् । पवित्रे । नाम । दधानः । कविः । अस्य । योनौ ।  
+> सीदन् । होताऽइव । सदने । चमूषु । उप । ईम् । अग्मन् । ऋषयः । सप्त । विप्राः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृचक्षाः नृणां द्रष्टा कविः क्रांतप्रज्ञः सोमः नाम वसतीवर्याख्यमुदकं दधानः धारयन् अस्य एतादृशस्यात्मनः योनौ स्थाने पवित्रे अच्छ असरत् अभितः सरति । ततः सदने । सीदंत्यत्रेति सदनो यज्ञः । तस्मिन् होतेव होता यथा देवान् स्तोतुमुपविशति तद्वद्देवानागंतुमुपविशन् सोमः चमूषु । चमंति चम्वो ग्रहादयः । तेष्वभिसरति । अनंतरं सप्तसंख्याकाः विप्राः मेधाविनो भरद्वाजः कश्यप गोतमोऽत्रिर्विश्वामित्रो जमदग्निर्वसिष्ठ इत्येते ऋषयः ईम् एनं सोमम् उप अग्मन् स्तोत्रैरुपगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+नृचक्षाः (*nṛcakṣāḥ*): the seer of men; कविः (*kaviḥ*): one of surpassing wisdom: this Soma, holding the water called vasatīvarī, flows all around, अच्छ असरत् (*accha asarat*), in the filter, which is the place of himself, such as he is. Then at the sacrifice, the place where they sit: as a Hotṛ sits in order to praise the gods, so Soma sits in order that the gods may come, in the चमूषु (*camūṣu*), the cups, that is, the vessels of the grahas and the rest, which are sipped from; he flows toward them. After that the seven wise ones, men of intelligence, the seers Bharadvāja, Kaśyapa, Gotama, Atri, Viśvāmitra, Jamadagni and Vasiṣṭha, approach (अग्मन् (*agman*)) him, ईम् (*īm*), this Soma, with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृचक्षाः (*nṛcakṣāḥ*)—one who can see men
+- कविः (*kaviḥ*)—Soma, of surpassing wisdom
+- नाम (*nāma*)—water
+- दधानः (*dadhānaḥ*)—holding
+- अस्य योन्सौ (*asya yonsau*)—in his own place **NOTE**
+- पवित्रे (*pavitre*)—on the ten-fold filter
+- अच्छ (*accha*)—everywhere
+- असरत् (*asarat*)—flows
+- सदने सीदन् (*sadane sīdan*)—sitting at the sacrifice
+- होतेव (*hoteva*)—like a Hotṛ who praises the gods
+- चमूषु (*camūṣu*)—in the camū vessels Soma gathers to serve the gods
+- विप्राः (*viprāḥ*)—the wise
+- सप्त ऋषयः (*sapta ṛṣayaḥ*)—the seven seers beginning with Bharadvāja
+- ईं (*īṃ*)—this Soma
+- उपाग्मन् (*upāgman*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who can see men and is of surpassing wisdom, mixed with water, flows everywhere in the ten-fold filter, his own place. Like the Hotṛ who sits at the sacrifice and praises the gods, Soma enters the camū vessels to serve the gods. The seven wise seers beginning with Bharadvāja approach this Soma.
+
+### Printed p. 661
+
+##### English translation
+The sage, the observer of men, retaining the water proceeds to his place on the filter ; like a ministrant priest sitting at the sacrifice (the Soma flows) into the cups ; the seven wise rishis approach him with praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+नाम दधानः—वसतीवर्याख्यमुदकं धारयन् । (*nāma dadhānaḥ—vasatīvaryākhyamudakaṃ dhārayan |*) Here the word नाम (*nāma*) means water (Ni. 2-24). When the pressed Soma juice is being prepared, it is the rule to mix with it the water that is in the vessels called vasatīvarī. Therefore the meaning of the words नाम दधानः (*nāma dadhānaḥ*) is: the Soma juice mixed with such vasatīvarī waters.
+
+योनौ—स्वस्थाने पवित्रे । (*yonau—svasthāne pavitre |*) योनि (*yoni*) means place. Since the Soma is poured into the vessel for straining called the ten-fold filter and is strained, that straining vessel, the filter, is what is indicated here by the word योनि (*yoni*).
+
+सीदन् होतेव चमूषु—होता यथा यज्ञे देवान् स्तोतुमुपविशति तथा सोमः ग्रहादिचमसपात्रॆषु उपविशति (*sīdan hoteva camūṣu—hotā yathā yajñe devān stotumupaviśati tathā somaḥ grahādicamasapātrèṣu upaviśati*) The meaning is: as the priest called Hotṛ sits in his own place on the sacrificial altar in order to praise the gods, so the Soma juice is placed in the camasa, graha and other vessels that are made ready for it.
+
+होता— होमनिष्पादको अयमग्निः । (*hotā— homaniṣpādako ayamagniḥ |*) Although the word hotṛ designates the priest who invites the gods in order that they may accept the oblations, it applies also to Agni, who in order to bring the oblations that the sacrificers offer in the sacrifice to the gods, brings the gods, offers them the oblations, and so carries out the sacrifice: this meaning has been explained. A meaning of this kind is employed especially with regard to Agni. And further: होमनिष्पादकं आह्वातारं वा । (*homaniṣpādakaṃ āhvātāraṃ vā |*) "one who accomplishes the homa by the offering of oblations and the rest, or one who invites the gods": thus two kinds of activity of the Hotṛ are given as the meaning of the word hotṛ. The same idea is explained in the Aitareya Brāhmaṇa in the form of a discussion, as follows. It shows the position of the Hotṛ in the sacrifice.
+
+यज्ञो वै देवेभ्य उदक्रामत्तमिष्टिभिः प्रैषमैच्छन्यदिष्टिभिः प्रैषमैच्छंस्तदिष्टीनामिष्टित्वं तमन्वविंदन् । अनुवित्तयज्ञो राध्योति य एवं वेद । आहुतयो वै नामृता यदाहुतॆय एताभिर्नै देवान्यजमानो ह्वयति तदाहुतीनामाहुतित्वं । ऊतयः खलु वै ता नाम याभिर्देवा (*yajño vai devebhya udakrāmattamiṣṭibhiḥ praiṣamaicchanyadiṣṭibhiḥ praiṣamaicchaṃstadiṣṭīnāmiṣṭitvaṃ tamanvaviṃdan | anuvittayajño rādhyoti ya evaṃ veda | āhutayo vai nāmṛtā yadāhutèya etābhirnai devānyajamāno hvayati tadāhutīnāmāhutitvaṃ | ūtayaḥ khalu vai tā nāma yābhirdevā*)
+
+### Printed p. 662
+
+यजमानस्य ह्यवमायंतिये वै पंथानो याः स्तुतयस्ता ना ऊतयस्त उ एवैतत्सर्गयाणा यजमानस्य भवंति ॥ (*yajamānasya hyavamāyaṃtiye vai paṃthāno yāḥ stutayastā nā ūtayasta u evaitatsargayāṇā yajamānasya bhavaṃti ‖*) (Ai. Brā. 1-2)
+
+Once the sacrifice went away from the gods. Then they got it back by offering oblations. An oblation (āhuti) is an offering made by invoking a deity by name. When it is said that the one who offers such an oblation is called the Hotṛ, another question arises.
+
+तदाहुर्यदन्यो जुहोत्यथ योऽनु चाह यजति च कस्मात्तं होतेत्याचक्षत इति। यद्वाव स तत्र यथाभाजनं देवता अमुमावहामुमावहेत्यावाहयति तदेव होतुर्होतृत्वं होता भवति । होतेत्येनमाचक्षते य एवं वेद ॥ (*tadāhuryadanyo juhotyatha yo 'nu cāha yajati ca kasmāttaṃ hotetyācakṣata iti| yadvāva sa tatra yathābhājanaṃ devatā amumāvahāmumāvahetyāvāhayati tadeva hoturhotṛtvaṃ hotā bhavati | hotetyenamācakṣate ya evaṃ veda ‖*) (Ai. Brā. 1-2)
+
+To the question how the name Hotṛ is proper for one who utters the mantra of offering, where the one who offers the oblation is one person and the one who gives the invitation and utters the mantra is another, it is answered that since the one who recites this mantra calls the respective deities according to the respective measure of the offerings, the name Hotṛ is proper for him as well; and then:
+
+मनो वै यज्ञस्य मैत्रावरुणो वाग्यज्ञस्य होता ! (*mano vai yajñasya maitrāvaruṇo vāgyajñasya hotā !*) (Ai. Brā. 6-5)
+
+By this sentence the identity of speech, which recites the mantra, and the Hotṛ is stated. And:
+
+सीद होतः स्व उ लोके चिकित्वानित्यग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदी नाभिः...................नि होता होतृषदने विदान इत्यग्निर्वै देवानां होता तस्यैतद्धोतृषदनं यदुत्तरवेदी नाभिः ॥ (*sīda hotaḥ sva u loke cikitvānityagnirvai devānāṃ hotā tasyaiṣa svo loko yaduttaravedī nābhiḥ...................ni hotā hotṛṣadane vidāna ityagnirvai devānāṃ hotā tasyaitaddhotṛṣadanaṃ yaduttaravedī nābhiḥ ‖*) (Ai. Brā. 5-2)
+
+These and similar sentences address Agni, the accomplisher of the homa, as Hotṛ; therefore in the Ṛk at hand two kinds of meaning can be given to the word होतारं (*hotāraṃ*): होमनिष्पादकं आह्वातारं ना (*homaniṣpādakaṃ āhvātāraṃ nā*) **NOTE**.
+
+ऋषियः सप्त विप्रा अग्मन्—सप्त ऋषय एनं सोमं स्तोत्रैरुपगच्छंति ! (*ṛṣiyaḥ sapta viprā agman—sapta ṛṣaya enaṃ somaṃ stotrairupagacchaṃti !*) The seven wise seers approach Soma, reciting hymn-mantras. Here Bharadvāja, Kaśyapa, Gotama, Atri, Viśvāmitra, Jamadagni and Vasiṣṭha are said to be the seven seers.
+
+### Printed p. 663
+
+ऋयषः— ऋषिः अतींद्रियद्रष्टा । (*ṛyaṣaḥ— ṛṣiḥ atīṃdriyadraṣṭā |*) One who, by the power of his austerity, can know what other ordinary people cannot know, the past, future and present, and the nature of Brahman, is called a ṛṣi.
+
+The derivation of the word ṛṣi is given in the Śatapatha Brāhmaṇa in this way; at the same time the relation between creation and the seers is also shown.
+
+असद्वा इदमग्र आसीत् । तदाहुः किं तदसदासीदित्यषयो नाव तेऽग्रेऽ सदासीत्तदाहुः के त ऋषय इति प्राणा ना ऋषयस्ते यत्पुरास्मात्सर्वस्मादिदमिच्छंतः क्रमेण तपसारिषंस्तस्मादृषयः (*asadvā idamagra āsīt | tadāhuḥ kiṃ tadasadāsīdityaṣayo nāva te 'gre ' sadāsīttadāhuḥ ke ta ṛṣaya iti prāṇā nā ṛṣayaste yatpurāsmātsarvasmādidamicchaṃtaḥ krameṇa tapasāriṣaṃstasmādṛṣayaḥ*) (Śa. Brā. 6-1-1-1)
+
+Before creation there was only non-being. These seers were in that form. Who are the seers? They are the chief vital breaths. Before creation, desiring the creation of the world, they practised austerity for it and toiled. Therefore they are called seers: thus the derivation of the word ṛṣi is stated (तपसारिषंस्तस्मादृषयः (*tapasāriṣaṃstasmādṛṣayaḥ*)). And:
+
+............त्वयि तंतुमेतमिति योऽसावृषिभिस्तंतुस्तु तस्तमेतदाह (*............tvayi taṃtumetamiti yo 'sāvṛṣibhistaṃtustu tastametadāha*) (Śa. Brā. 8-6 3-22) **NOTE**
+
+They spun the sacrificial thread that is of the nature of the universe; they became the cause of the expansion of the world: thus the power of the seers is praised. For that very reason they are also said to be of the nature of Brahman, the root of creation:
+
+प्राणा ना यषयः प्रथमजास्तद्धि ब्रह्म प्रथमजं (*prāṇā nā yaṣayaḥ prathamajāstaddhi brahma prathamajaṃ*) (Śa. Brā. 8-6-1-5)
+
+Thus the identity of the seers and Brahman is shown. If this is one kind of derivation, another derivation is possible in contrast to it, as stated in the Vācaspatya:
+
+यमति ज्ञानेन संसारपारं (*yamati jñānena saṃsārapāraṃ*)
+
+Because one crosses to the far shore of saṃsāra through knowledge, the word ṛṣi, formed from the root ṛṣ, means the knowers. Thus according to one derivation the seers are the root cause of the creation of the world, and according to the other derivation the cause of the cessation of saṃsāra. The description of the Ṛk at hand is that both these powers were in the seers. In the words उभौ वर्ण पुपोष (*ubhau varṇa pupoṣa*), through obtaining Rāma-satisfaction **NOTE** the power of creation is described, and through obtaining spiritual knowledge the power that is the means of the cessation of saṃsāra is described.
+
+### Printed p. 664
+
+The derivation given above shows that the word ṛṣi is formed from the root ऋषी (ऋष्) गत् । (*ṛṣī (ṛṣ) gat |*), a root of the sense of non-going. **NOTE** Further, the scholar Monier Williams states in his Sanskrit-English Dictionary that the word ṛṣi can also be formed from the root dṛś, and, giving the meaning of the word ऋषिकृत् (*ṛṣikṛt*) with two authorities, has stated the meaning Causing to see, enlightening. In this example, firstly:
+
+इमामग्ने शरणिं मीमृषो न इममध्वानं यमगाम दूरात् । आपिः पिता प्रमतिः सोम्यानां भृमिरस्यृषिकृन्मर्त्यानां ॥ (*imāmagne śaraṇiṃ mīmṛṣo na imamadhvānaṃ yamagāma dūrāt | āpiḥ pitā pramatiḥ somyānāṃ bhṛmirasyṛṣikṛnmartyānāṃ ‖*) (Ṛ. Saṃ. 1-31-16)
+
+In this Ṛk the word ऋषिकृत् (*ṛṣikṛt*) is an epithet of Agni. Sāyaṇa has given this word the meaning दर्शनकारी (*darśanakārī*). Similarly:
+
+ऋषिमना य ऋषिकृत्स्वर्षाः सहस्रणीथः पदवीः कवीनां । तृतीयं धाम महिषः सिषासन्मो विराजमनु राजति ष्टुप् ॥ (*ṛṣimanā ya ṛṣikṛtsvarṣāḥ sahasraṇīthaḥ padavīḥ kavīnāṃ | tṛtīyaṃ dhāma mahiṣaḥ siṣāsanmo virājamanu rājati ṣṭup ‖*) (Ṛ. Saṃ. 9-96-18)
+
+in this Ṛk too the word ऋषिमानाः (*ṛṣimānāḥ*) has been explained as सर्वदर्शनशील मनस्यः (*sarvadarśanaśīla manasyaḥ*) and ऋषिकृत् (*ṛṣikṛt*) as सर्वस्य दर्शनकर्ता (*sarvasya darśanakartā*). In worldly usage too, the synonym darśana for knowledge of the truth indicates these ideas.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु॑मे॒धा गा॑तु॒विद्वि॒श्वदे॑वः॒ सोमः॑ पुना॒नः सद॑ एति॒ नित्य॑म् ।  
+> भुव॒द्विश्वे॑षु॒ काव्ये॑षु॒ रंतानु॒ जना॑न्यतते॒ पंच॒ धीरः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सुऽमेधाः । गातुऽवित् । विश्वऽदेवः । सोमः । पुनानः । सदः । एति । नित्यम् ।  
+> भुवत् । विश्वेषु । काव्येषु । रंता । अनु । जनान् । यतते । पंच । धीरः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुमेधाः । ‘ नित्यमसिच् प्रजामेधयोः' ( पा. सू. ५. ४. १२२) इत्यसिच्समासांतः । शोभनप्रज्ञः गातुवित् मार्गस्य वेत्ता । यद्वा । गातवः स्तोतारः । तेषां धनस्य लंभयिता । विश्वदेवः सर्वदेवोपगतः । यद्वा । देवो देवनं दीप्तिः । व्यापकदीप्तियुक्तः । एतादृशः सोमः पुनानः पूयमानः सन् नित्यम् अविनश्वरं सदः स्थानं द्रोणकलशं प्र एति प्रगच्छति । ततः विश्वेषु सर्वेषु काव्येषु कविकर्मसु स्तोत्रेषु रंता भुवत् रमणशीलो भवति । रमेस्ताच्छीलिकस्तृन् । तथा धीरः प्राज्ञः सोऽयं पंच जनान् निषादपंचमांश्चतुरो वर्णान् अनु यतते अनुगंतुं प्रयत्नं करोति । अनुगच्छतीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+सुमेधाः (*sumedhāḥ*): of good wisdom; गातुवित् (*gātuvit*): the knower of the path; or else, the gātus are the praisers, and he causes them to obtain wealth; विश्वदेवः (*viśvadevaḥ*): attended by all the gods; or else, deva is devana, light: possessed of pervading light. Such a Soma, being purified, goes forth continually to the imperishable सदः (*sadaḥ*), place, the Droṇakalaśa. Then among all the काव्येषु (*kāvyeṣu*), the works of poets, the hymns, he becomes delighted. Likewise, being धीरः (*dhīraḥ*), wise, he strives to follow the पंच जनान् (*paṃca janān*), the four classes together with the Niṣādas as the fifth; the meaning is that he goes after them.
+
 ---
 
-**Progress note:** Done through printed p. 658. Sūkta 91 Ṛk 2 (end) to Sūkta 92 Ṛk 1 (to bhāṣya)
+**Progress note:** Done through printed p. 664. Sūkta 92 Ṛk 1 (end) to Ṛk 3 (to bhāṣya)
