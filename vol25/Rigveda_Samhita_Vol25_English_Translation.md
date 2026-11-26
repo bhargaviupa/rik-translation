@@ -27075,6 +27075,310 @@ The Soma that is in the kalaśa vessels and is placed in the middle of the ten-f
 ##### English translation
 Indu has embraced that Soma which is collected in the ewers and has been passed through the filter.
 
+### Printed p. 677
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वाच॒मिंदु॑रिष्यति समु॒द्रस्याधि॑ वि॒ष्टपि॑ ।  
+> जिन्व॒न्कोशं॑ मधु॒श्चुत॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वाचम् । इंदुः । इष्यति । समुद्रस्य । अधि । विष्टपि ।  
+> जिन्वन् । कोशम् । मधुऽश्चुतम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः सोमः मधुश्चुतं मधुनश्च्यावकं कोशं मेघम् । असुरः कोशः' इति मेघनामसु पाठात् । जिन्वन् प्रीणयन् समुद्रस्य अंतरिक्षस्य अधि विष्टपि विष्टब्धे स्थाने वाचं प्र इष्यति प्रेरयति । पवित्रे पूयमानः शब्दं करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indu, Soma, delighting (जिन्वन् (*jinvan*), "gladdening") the cloud (कोशं (*kośaṃ*)) that sheds honey (मधुश्चुतं (*madhuścutaṃ*)), sends forth (प्र इष्यति (*pra iṣyati*)) a sound (वाचं (*vācaṃ*)) in the supported place (विष्टपि (*viṣṭapi*)) above the sea (समुद्रस्य (*samudrasya*)), that is, the atmosphere. The word कोशः (*kośaḥ*) means cloud, because it is read among the names of clouds (असुरः कोशः (*asuraḥ kośaḥ*)). The meaning is that, being purified in the filter, he makes a sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—Soma
+- मधुश्चुतं (*madhuścutaṃ*)—shedding sweet juice
+- कोशं (*kośaṃ*)—the cloud
+- जिन्वन् (*jinvan*)—delighting
+- समुद्रस्य अधि (*samudrasya adhi*)—above the atmosphere
+- विष्टपि (*viṣṭapi*)—seated on an excellent seat
+- वाचं (*vācaṃ*)—sound
+- प्र इष्यति (*pra iṣyati*)—produces (causes to arise)
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, delighting the cloud that sheds sweet juice, seated on an excellent seat above the atmosphere, produces a sound.
+
+##### English translation
+Indu emits a sound, abiding in the firmament of the sky, and delighting the nectar-shedding cloud.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नित्य॑स्तोत्रो॒ वन॒स्पति॑र्धी॒नामं॒तः स॑ब॒र्दुघः॑ ।  
+> हि॒न्वा॒नो मानु॑षा यु॒गा ॥ ७ ॥
+
+### Printed p. 678
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नित्यऽस्तोत्रः । वनस्पतिः । धीनाम् । अंतरिति । सबःऽदुघः ।  
+> हिन्वानः । मानुषा । युगा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नित्यस्तोत्रः संततस्तोत्रः सबर्दुघः अमृतस्य दोग्धा वनस्पतिः वनानां पालयिता सोमः मानुषा मानुषाणि युगा युगानि अहीनैकाहात्मकानि हिन्वानः प्रीणयन् धीनां कर्मणाम् अंतः मध्ये निवसतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma, of unceasing praise (नित्यस्तोत्रः (*nityastotraḥ*), one whose praise is continuous), the milker (दुघः (*dughaḥ*)) of nectar (सबर्दुघः (*sabardughaḥ*)), the guardian (वनस्पतिः (*vanaspatiḥ*)) of the woods, gladdening (हिन्वानः (*hinvānaḥ*)) the human periods (मानुषा युगा (*mānuṣā yugā*)), which consist of ahīna and ekāha sacrifices, dwells in the midst (अंतः (*aṃtaḥ*)) of the rites (धीनां (*dhīnāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नित्यस्तोत्रः (*nityastotraḥ*)—one whose praise is everlasting
+- सबर्दुघः (*sabardughaḥ*)—one who milks nectar
+- वनस्पतिः (*vanaspatiḥ*)—and protector of the woods, Soma
+- मानुषा (*mānuṣā*)—belonging to men
+- युगा (*yugā*)—all the divisions of time beginning with the ahīna
+- हिन्वानः (*hinvānaḥ*)—gladdening
+- धीनां (*dhīnāṃ*)—of the rites
+- अंतः (*aṃtaḥ*)—dwells in the midst
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is praised for ever, who milks nectar and is protector of the woods, dwells in the midst of the rites, gladdening all the divisions of time beginning with the ahīna that belong to men.
+
+##### English translation
+Soma, whose praise is eternal, the lord of forests, the shedder of nectar and rejoicing the generations of men, (is present) in the midst of our sacred rites·
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रि॒या दि॒वस्प॒दा सोमो॑ हिन्वा॒नो अ॑र्षति ।  
+> विप्र॑स्य॒ धार॑या क॒विः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रिया । दिवः । पदा । सोमः । हिन्वानः । अर्षति ।  
+> विप्रस्य । धारया । कविः ॥ ८ ॥
+
+### Printed p. 679
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतकर्मा सोमः दिवः अंतरिक्षात् हिन्वानः प्रेर्यमाणः विप्रस्य मेधाविनः स्वस्य धारया प्रिया प्रियाणि पदा पदानि स्थानानि अभि अर्षति अभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Soma, the seer (कविः (*kaviḥ*), one of accomplished works), sent forth (हिन्वानः (*hinvānaḥ*)) from the sky (दिवः (*divaḥ*)), that is, from the atmosphere, goes to (अभि अर्षति (*abhi arṣati*)) the dear (प्रिया (*priyā*)) places (पदा (*padā*)) in a stream (धारया (*dhārayā*)) of his own, for the wise (विप्रस्य (*viprasya*)) worshipper.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—of wise works
+- सोमः (*somaḥ*)—Soma
+- दिवः (*divaḥ*)—from the atmosphere
+- हिन्वानः (*hinvānaḥ*)—having been sent
+- विप्रस्य (*viprasya*)—for the intelligent sacrificer
+- प्रिया (*priyā*)—pleasing,
+- पदा (*padā*)—the place of sacrifice
+- धारया (*dhārayā*)—in the form of a stream
+- अभि अर्षति (*abhi arṣati*)—comes and joins
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, of wise works, having been sent from the atmosphere, comes in the form of a stream and joins the place of sacrifice, which is pleasing to the intelligent sacrificer.
+
+##### English translation
+The sage Soma, urged from heaven, flows in a stream to the beloved abodes of his devout (worshipper)·
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वमान धारय र॒यिं स॒हस्र॑वर्चसम् ।  
+> अ॒स्मे इं॑दो स्वा॒भुव॑म् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवमान । धारय । रयिम् । सहस्रऽवर्चसम् ।  
+> अस्मे इति । इंदो इति । सुऽआभुवम् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान इंदो सोम त्वं सहस्रवर्चसं बहुदीप्तिं स्वाभुवं शोभनभवनं रयिं धनम् अस्मे अस्मासु धारय । प्रक्षिपेत्यर्थः ॥ ॥ ३९ ॥
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये षष्ठाष्टके सप्तमोऽध्यायः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, purifying Soma, set (धारय (*dhāraya*), "place, pour") in us (अस्मे (*asme*)) wealth that is of a thousand splendours (सहस्रवर्चसं (*sahasravarcasaṃ*), of much brilliance) and of good being (स्वाभुवं (*svābhuvaṃ*)). Then follows Sāyaṇa's closing verse: by bringing to light the meaning of the Veda, and removing the darkness of the heart, may Vidyātīrtha-Maheśvara grant the four aims of man. The colophon states that this is the seventh adhyāya of the sixth aṣṭaka in the Ṛk-saṃhitā commentary, the Vedārthaprakāśa of the Mādhava school, composed by Sāyaṇācārya, who bears the burden of the empire of King Vīra Bukka, the promoter of the Vedic path.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—having a pure stream
+- इंदो (*iṃdo*)—O divine Soma
+- सहस्रवर्चसं (*sahasravarcasaṃ*)—endowed with many kinds of splendour
+- स्वाभुवं (*svābhuvaṃ*)—endowed with excellent being
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—to us
+- आ धारय (*ā dhāraya*)—send
+
+### Printed p. 680
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, having a pure stream, send to us wealth that is endowed with many kinds of splendour and with excellent dwelling-places.
+
+##### English translation
+Purifying Indu, bestow upon us wealth of a thousand radiances excellent in its nature.
+
+वेदार्थस्यप्रकाशेन तमो हार्दं निवारयन् । (*vedārthasyaprakāśena tamo hārdaṃ nivārayan |*)
+पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपाल साम्राज्यधुरंधरेण सायणाचार्येणरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये षष्ठाष्टके सप्तमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpāla sāmrājyadhuraṃdhareṇa sāyaṇācāryeṇaracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣye ṣaṣṭhāṣṭake saptamo 'dhyāyaḥ samāptaḥ ‖*)
+
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+
+Here ends the seventh chapter of the sixth Aṣṭaka of the Ṛgveda-saṃhitā, with the Sāyaṇa-bhāṣya and the Kannada translation.
+
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते । (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te |*) **GLOSS**
+
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*)
+
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
+॥ श्री ॥ (*‖ śrī ‖*)
+
+॥ श्री महागणाधिपतये नमः ॥ (*‖ śrī mahāgaṇādhipataye namaḥ ‖*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*)
+यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*)
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*)
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+**Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya**
+
+**In the sixth Aṣṭaka, the eighth chapter.**
+
+**In the ninth Maṇḍala, the thirteenth sūkta.**
+
+## Sūkta 13 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीगणेशाय नमः ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत्।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरम् ॥
+> षष्ठस्य सप्तमोऽध्यायः संग्रहात्संप्रदर्शितः ।
+> अथाष्टमः सुमतिना संगमेन प्रदर्श्यते ॥
+> तत्र सोमः पुनानः' इति नवचं त्रयोदशं सूक्तम् । असितो देवलो वर्षिः। सोमो देवता । ‘ पवमानगुणः सोमो विज्ञेयः काश्यपावृषी । इति विद्यादनुक्तेऽपि लाघवाया दृळ्हच्युतात् ॥ ‘सोमः इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Salutation to Śrī Gaṇeśa. He bows to Vidyātīrtha-Maheśvara, from whose breath the Vedas came and who from the Vedas made the whole world. The seventh adhyāya of the sixth (aṣṭaka) has been shown in brief; now the eighth is shown by one of good understanding **NOTE**. In it, the nine-Ṛk hymn beginning सोमः पुनानः (*somaḥ punānaḥ*) is the thirteenth sūkta. Asita Devala is the seer; Soma is the deity. A verse is quoted: Soma should be understood as having the quality of Pavamāna, and the two seers as Kāśyapa; one should know this even though it is not stated, for brevity **NOTE**. It is recorded in the Anukramaṇikā as सोमः (*somaḥ*). The use has been stated.
+
+This sūkta beginning सोमः पुनानः (*somaḥ punānaḥ*) in the ninth maṇḍala of the Ṛgveda-saṃhitā is the thirteenth in the first anuvāka. There are nine Ṛks in it. The seer of this sūkta is Asita Kāśyapa, or Devala; Soma is the deity; in all places in the sūktas of this maṇḍala where Soma is the deity, he is to be understood as Soma possessed of the quality of Pavamāna. The two seers of this sūkta, Asita and Devala, were both born in the Kāśyapa lineage. In the Anukramaṇikā it is said सोमः (*somaḥ*), and so on. The use has been stated before.
+
+### Printed p. 682
+
+Maṇḍala 9; Anuvāka 1; Sūkta 13.
+
+Aṣṭaka 6; Adhyāya 8; Varga 1, 2.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: असितः काश्यपो देवलो वा (*asitaḥ kāśyapo devalo vā*).
+
+Deity: पवमानः सोमः (*pavamānaḥ somaḥ*).
+
+Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमः॑ पुना॒नो अ॑र्षति स॒हस्र॑धारो॒ अत्य॑विः ।  
+> वा॒योरिंद्र॑स्य निष्कृ॒तम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । पुनानः । अर्षति । सहस्रऽधारः । अतिऽअविः ।  
+> वायोः । इंद्रस्य । निःऽकृतम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पुनानः पावकः सोमः अर्षति गच्छति । कीदृशोऽयं पवमानः। सहस्रधारः अपरिमितधारः अत्यविः । अत्राविशब्देन तल्लोमान्युच्यंते । अविलोमभिर्निष्पादितं दशापवित्रमित्यर्थः । तदतिक्रम्य गच्छतीत्यत्यविः । किमर्थम् । वायोरिंद्रस्य च पानायेति शेषः । किं प्रति । निष्कृतम् । निरित्येष समित्येतस्मिन्नर्थे । संस्कृतं पात्रं प्रति ॥
+
+##### Gist of the bhāṣya
+
+This purifying Soma flows (अर्षति (*arṣati*)). Of what kind is this Pavamāna? He has a thousand streams (सहस्रधारः (*sahasradhāraḥ*)), streams without measure, and is अत्यविः (*atyaviḥ*). Here the word अवि (*avi*) means its hairs: the ten-fold filter made of the hair of the sheep; he goes beyond it, hence अत्यविः (*atyaviḥ*). For what purpose? For the drinking of Vāyu and Indra, this being understood. Towards what? Towards the निष्कृतं (*niṣkṛtaṃ*), which means the prepared (संस्कृतं (*saṃskṛtaṃ*)) vessel, निः (*niḥ*) here being in the sense of सं (*saṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—the purifier
+- सहस्रधारः (*sahasradhāraḥ*)—flowing in streams from countless places
+- अत्यविः (*atyaviḥ*)—purified through a cloth made of sheep's wool, such Soma
+- वायोः (*vāyoḥ*)—of the god Vāyu and
+- इंद्रस्य (*iṃdrasya*)—for Indra's drinking
+- निष्कृतं (*niṣkṛtaṃ*)—near the prepared vessel
+- अर्षति (*arṣati*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the purifier, who trickles from countless places in countless streams, who is purified through a cloth made of sheep's wool or through the ten-fold filter, approaches the vessel prepared for the drinking of Vāyu and Indra.
+
+### Printed p. 683
+
+##### English translation
+The purifying Soma, flowing in a thousand streams and passing the woollen filter, proceeds to the prepared vessel for Vayu and Inda.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्रधारः अत्यविः (*sahasradhāraḥ atyaviḥ*)—When the Soma plants are pounded with a stone and the juice is drawn out, the juice trickles from many places. Because that juice contains the husks of the plants and the like, it is filtered through a cloth of sheep's wool, or through the ten-fold filter, or with the ten fingers, so that it may be convenient to drink. After the filtering, it is collected in the vessels that hold the Soma juice, द्रोणकलश (*droṇakalaśa*), आधवनीय (*ādhavanīya*) and पूतभृत् (*pūtabhṛt*), for offering in the sacrifice with Indra and Vāyu as the objects. This is what is described in this Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानमवस्यवो॒ विप्र॑म॒भि प्र गा॑यत ।  
+> सु॒ष्वा॒णं दे॒ववी॑तये ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानम् । अवस्यवः । विप्रम् । अभि । प्र । गायत ।  
+> सुस्वानम् । देवऽवीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अवस्यवः रक्षणकामा उद्गात्रादयः यूयं पवमानं शोधकं विप्रं विशेषेन देवानां प्रीणयितारं विप्रवच्छुद्धं वा । अथवा विप्र इति मेधाविनाम। मेधाविनम्। देववीतये देवपानाय सुष्वाणं सूयमानम् अभि प्र गायत आभिमुख्येन प्रकर्षेण स्तुत ॥
+
+##### Gist of the bhāṣya
+
+O Udgātṛs and the others, who desire protection (अवस्यवः (*avasyavaḥ*)), sing towards (अभि प्र गायत (*abhi pra gāyata*), "praise with face towards and forth") Pavamāna, the purifier, who is a विप्रं (*vipraṃ*), one who especially pleases the gods, or one pure like a vipra; or else the word vipra is a name for the intelligent, so the intelligent one. Sing to him who is being pressed (सुष्वाणं (*suṣvāṇaṃ*)) for the drinking of the gods (देववीतये (*devavītaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवस्यवः (*avasyavaḥ*)—O Udgātṛs, you who desire protection
+- पवमानं (*pavamānaṃ*)—the purifier
+- विप्रं (*vipraṃ*)—the intelligent, or the one who gladdens the gods
+- देववीतये (*devavītaye*)—for the drinking of the gods
+- सुष्वाणं (*suṣvāṇaṃ*)—and who is pressed, Soma
+- अभि (*abhi*)—having in view (with reference to)
+- प्र गायतॆ (*pra gāyatè*)—praise well
+
 ---
 
-**Progress note:** Done through printed p. 676. Ṛk 8 end, Ṛk 9, Sūkta 12 Ṛks 1-5 (pp. 671-676)
+**Progress note:** Done through printed p. 683. Sūkta 12 Ṛks 6-9 with adhyāya end; Sūkta 13 Ṛks 1-2 (pp. 677-683)
