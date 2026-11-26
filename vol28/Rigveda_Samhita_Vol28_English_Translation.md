@@ -3976,6 +3976,243 @@ In the sentences cited above the nature of Trita is described in many ways. The 
 
 The precise meaning that Trita is none other than the lightning fire finds support in all the above sentences.
 
+### Printed p. 127
+The battle of Indra with Vṛtra and the others has the purpose of loosening the cloud that was held bound and making rain fall. In this connection the help of Trita (the lightning-fire) must be present. For this very reason the Vāruṇa horse also bears the name Trita. It was stated earlier that this Vāruṇa horse is the divine light, a portion of the Sun. Since this lightning-fire is itself a portion of Agni, the identity of Agni and Trita comes about naturally. It was also explained earlier that Agni, who has three seats, is the one named Trita (1-45-1, 2). The same meaning is to be understood when identity with Soma, Varuṇa and the others is spoken of.
+
+Therefore it would not be wrong to call the relation between Trita and Indra a description of the relation between Agni and Indra. Indra and Agni are often described together, and are praised together as slayers of the demon Vṛtra.
+
+Above all, the epithet "Trita Āptya" is noteworthy. The matter of Agni's three brothers was explained earlier by citing a Taittirīya Saṃhitā passage. There the position of Trita and the meaning of the word "Trita" were stated, and earlier (in the Special Topics on Ṛk 10-45-2) the Śatapatha and Taittirīya Brāhmaṇas were also cited to explain Trita's specific position.
+
+In sum, Sāyaṇa explains in the present Ṛk that Agni is called Trita because he pervades the three worlds.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्याजरा॑सो द॒माम॒रित्रा॑ अ॒र्चद्दू॑ मासो अ॒ग्नयः॑ पाव॒काः  
+> श्वि॒ती॒चयः॑ श्वा॒त्रासो॑ भुर॒ण्यवो॑ वन॒र्षदो॑ वा॒यवो॒ न  ॑
+> सोमाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । अजरासः । दमां । अरित्राः । अर्चत् ऽधूमासः । अग्नयः । पावकाः ।  
+> श्वित्तीचयः । श्वात्रासः । भुरण्यवः । वनसदः । वायवः । न । सोमाः ॥ ७ ॥
+
+### Printed p. 128
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र बहुत्वेन स्तूयते । अस्य यजमानस्य संबंधिनोऽजरासो जरारहिता
+> डमां दमनीयानां रक्षःप्रभृतीनां॥ दमेः क्विपि सावेकाच इति विभक्तेरुदात्तत्वं॥
+> तेषामरित्रास्तारका अर्चद्दूमासोऽर्चंतोऽर्चनीया धूमा धूमोपलक्षिता
+> ज्वाला ना एषां ते तथोक्ताः पावकाः शोधकाः श्वितीचयः श्वेतिमानमंचंतः ॥
+> श्वितिः श्वेतः । औणादिक इः ॥ श्वात्रासः । क्षिप्रनामैतत् । क्षिप्रधर्मका भुरण्यवो भरणशीला वनर्षदो वनेषु सीदंतः । संहितायां छांदसं रुत्वं ॥ वायवो न
+> सोमा गंतारः सोमा इव । हनिर्दातुर्यजमानस्य शीघ्रा भवंतीति ।
+
+##### Gist of the bhāṣya
+
+Here Agni is praised in the plural. The fires belonging to this sacrificer are undecaying, free from old age. They are अरित्राः (*aritrāḥ*), "rescuers" (*tārakāḥ*), of the दमां (*damāṃ*), the beings that are to be tamed, the rākṣasas and the like; the accent of the case-ending there is explained by the rule that the root दम (*dama*) takes the affix kvip. अर्चद्दूमासः (*arcaddūmāsaḥ*) means having worshipful smoke, that is, flame marked by smoke. They are purifiers. श्वितीचयः (*śvitīcayaḥ*) means moving with whiteness; श्विति (*śviti*) is white, with the Uṇādi affix इ (*i*). श्वात्रासः (*śvātrāsaḥ*) is a word for "swift": they have the nature of swiftness. भुरण्यवः (*bhuraṇyavaḥ*) means bearing, supporting by nature; वनर्षदः (*vanarṣadaḥ*) means sitting in the woods (the change of ending in the Saṃhitā is Vedic). They are वायवो न सोमाः (*vāyavo na somāḥ*): going, like Soma-juices, they become swift to the sacrificer who gives the oblation. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this sacrificer
+- अजरासः (*ajarāsaḥ*)—free from old age, that is, without destruction
+- दमां (*damāṃ*)—of enemies such as the rākṣasas
+- अरित्राः (*aritrāḥ*)—those that hold back
+- अर्चद्दू मासः (*arcaddū māsaḥ*)—those having worshipful smoke or flames
+- पावकाः (*pāvakāḥ*)—purifiers
+- श्वितीचयः (*śvitīcayaḥ*)—shining white
+- श्वात्रासः (*śvātrāsaḥ*)—having the nature of quickly pervading everywhere
+- भुरण्यवः (*bhuraṇyavaḥ*)—having the capacity to bear and nourish
+- वनर्षदः (*vanarṣadaḥ*)—the fires, or fire-flames, hidden in the form of an embryo in the midst of trees and the like
+- नायवो न (*nāyavo na*)—like swiftly blowing winds
+- सोमाः (*somāḥ*)—like swiftly flowing Soma-juices, they come quickly and join the sacrificer who offers the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+May the fires or fire-flames belonging to the sacrificer, kindled on the sacrificial altar of the sacrificers, undecaying (that is, not quickly going out), holding back the rākṣasas and others so that they do not come to the altar, endowed with worshipful smoke or flames, purifying, shining, able to pervade quickly everywhere, bearing the sacrifice, and hidden in the midst of trees and the like, come and join the sacrificers who offer the oblation, like swiftly blowing winds and like swiftly flowing Soma-juices.
+
+##### English translation
+The undecaying fires of the worshipper, the rescuers from the humiliated (spirits of ill), having adorable smoke, purifying, becoming white, swift, bearing (the oblation), sitting in the wood, (are) like the fast-flowing juices of the Soma.
+
+### Printed p. 129
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र जि॒ह्वया॑ भरते॒ वेपो॑ अ॒ग्निः प्र व॒युना॑नि॒ चेत॑सा पृथि॒व्याः ।  
+> तमा॒यवः॑ शु॒चयं॑तं पाव॒कं मं॒द्रं होता॑रं दधिरे॒  ॑
+> यजिष्ठं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । जिह्वया । भरते । वेपः । अग्निः । वयुनानि । चेतसा । पृथिव्याः ।  
+> तं । आयवः । शुचयंतं । पावकं । मंद्रं । होतारं । दधिरे । यजिष्ठं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्ज्ह्वया ज्वालया वेपः । कर्मनामैतत् । कर्म प्र भरते तथा
+> योऽग्निर्वयुनानि प्रज्ञानानि स्तोत्राणि पृथिव्या रक्षणाय चेतसानुग्रहयुक्तेन
+> मनसा प्र भरते तमग्निमायवो गंतारो मनुष्याः शुचयंतं दीप्यमानं
+> पावकं शोधकं मंद्रं स्तुत्यं होतारमाह्वातारं होमनिष्पादकं वा यजिष्ठमतिशयेन यष्टव्यं यष्टृतमं ना दधिरे । धारयंति ॥
+
+##### Gist of the bhāṣya
+
+The Agni who with his tongue, his flame, bears forward वेपः (*vepaḥ*) (a word for "rite") the rite; and who, for the protection of the earth, bears forward वयुनानि (*vayunāni*), knowledge, that is, hymns of praise, with a mind full of favour: that Agni the आयवः (*āyavaḥ*), the going ones, men, hold as shining, purifying, मंद्रं (*maṃdraṃ*) (worthy of praise), होतारं (*hotāraṃ*) (the caller, or the accomplisher of the oblation), and यजिष्ठं (*yajiṣṭhaṃ*), the one most to be worshipped, the best sacrificer. दधिरे (*dadhire*) means they hold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (यः (*yaḥ*)) अग्निः (*agniḥ*)—the Agni who
+- जिह्वया (*jihvayā*)—with his flame
+- वेपः (*vepaḥ*)—the sacrificial rite
+- प्र भरते (*pra bharate*)—bears and carries out
+- (and) वयुनानि (*vayunāni*)—hymns of praise
+- पृथिव्याः (*pṛthivyāḥ*)—for the protection of the earth
+- चेतसा (*cetasā*)—with a mind of favour
+- प्र (*pra*) (भरते (*bharate*))—accepts and carries to the gods
+- तं (*taṃ*)—that Agni
+- आयवः (*āyavaḥ*)—men
+- शुचयंतं (*śucayaṃtaṃ*)—as the shining one
+- पावकं (*pāvakaṃ*)—the purifier
+- मंद्रं (*maṃdraṃ*)—the one worthy of praise
+- होतारं (*hotāraṃ*)—the accomplisher of the oblation, or the one who invites the gods
+- यजिष्ठं (*yajiṣṭhaṃ*)—the one worthy of worship, or the one who worships the gods
+- दधिरे (*dadhire*)—they conceive and hold him as such
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is able to carry out the sacrificial rite with his flame, and who, for the protection of the earth, carries the hymns of men to the gods with a mind of favour: that Agni men conceive and hold as the one who shines with great brilliance, the purifier, the one worthy of praise, the one who invites the gods, the one worthy of worship, or the one who worships the gods on behalf of men.
+
+### Printed p. 130
+
+##### English translation
+Agni who bears off (the oblation) with his tongue (of flames),who be-ars off the hymns of praise with(favourable) mind (for  the preservation  of the earth ; him men have appointed as the shining, purifying, exulting hotri the most entitled to worship.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यावा॒ यम॒ग्निं पृ॑थि॒वी जनि॑ष्टा॒माप॒स्त्वष्टा॒ भृग॑वो॒ यं  ॑
+> सहोभिः ।  
+> ई॒ळेन्यं॑ प्रथ॒मं मा॑त॒रिश्वा॑ दे॒वास्त॑तक्षु॒र्मन॑वे॒ यज॑त्रं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यावा । यं । अग्निं । पृथिवी इति । जनिष्टां । आपः । त्वष्टा । भृगवः । यं । सहःऽभिः  
+> ईळेन्यं । प्रथमं । मातरिश्वा । देवाः । ततक्षुः । मनवे । यजत्रं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निं द्यावापृथिवी व्यावापृथिव्य जनिष्टां अजनीषातां ॥ जनेर्लुज्
+> व्यत्ययेन परस्मैपदं ॥ आपश्च यमुदपादयन्‌वैद्युतरूपेण त्वष्टा च यमजनयत् भृगवश्च यं सहोभिर्बलैः स्तोत्रादिसाधनैर्लब्धवंतः । भृगवोऽविंदन्निति
+> ह्युक्तं । ऋ. १०-४६-२ । ईळेन्यं स्तुत्यं यं प्रथमं मातरिश्वा वायुरुदपादयत् अन्ये देवाश्च मनवे राज्ञे मनोरर्थाय यजत्रं यष्टव्यमग्निं ततक्षुः ।
+> निष्पादितवंतः ॥
+
+##### Gist of the bhāṣya
+
+The Agni whom heaven and earth जनिष्टां (*janiṣṭāṃ*) produced (a verb with an irregular middle/active ending); whom the waters produced in the form of lightning; whom Tvaṣṭṛ produced; and whom the Bhṛgus obtained by their powers, the means such as hymns. For this it has been said: "the Bhṛgus found" (Ṛ. 10-46-2). That praiseworthy Agni whom Mātariśvan, the wind, first produced, and whom the other gods fashioned, brought to completion, for Manu, the king, as the one to be worshipped.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं अग्निं (*yaṃ agniṃ*)—the Agni whom
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- जनिष्टां (*janiṣṭāṃ*)—produced
+- आपः चॆ (*āpaḥ cè*)—and the waters
+- यं (*yaṃ*)—the Agni whom they produced in the form of lightning
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ also produced
+- भृगवः (*bhṛgavaḥ*)—the seers of the Bhṛgu family
+- सहोभिः (*sahobhiḥ*)—produced by strength of arm and by hymns
+- ईळेन्यं (*īḷenyaṃ*)—that Agni worthy of praise
+- मातरिश्वा (*mātariśvā*)—Mātariśvan (the wind)
+- प्रथमं (*prathamaṃ*)—obtained before all others
+- देवाः (*devāḥ*) (चॆ (*cè*))—the gods also
+- मनवे (*manave*)—for the royal seer named Manu
+- यजत्रं (*yajatraṃ*)—Agni, worthy of sacrifice
+- ततक्षुः (*tatakṣuḥ*)—produced and obtained
+
+### Printed p. 131
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni whom heaven and earth produced, whom the waters produced in the form of lightning, and whom Tvaṣṭṛ and the Bhṛgu seers also produced and obtained by power and by the recitation of hymns and the like: that Agni Mātariśvan was the first to see and obtain. The gods also produced and obtained that Agni for the royal seer named Manu.
+
+##### English translation
+Agni whom heaven and earth engendered, (whom) the waters and Twashtri, ane the Brighus by their powers (begot); the adorable one, whom Matarishwa first and the gods fabricated as the object of worship for Manu.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॑ दे॒वा द॑धि॒रे ह॑व्य॒वाहं॑ पुरु॒स्पृहो॒ मानु॑षासो॒  ॑
+> यजत्रं ।  
+> स याम॑न्तग्ने स्तुव॒ते वयो॑ धाः॒ प्र दे॑व॒यन्य॒शसः॒ सं हि  ॒
+> पूर्वीः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वा । देवाः । दधिरे । हव्यवाहं । पुरुस्पृहः । मानुषासः । यजत्रं ।  
+> सः । यामन् । अग्ने । स्तुवते । वयः । धाः । प्र । देवयन् । यशसः । सं । हि ।  
+> पूर्वीः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हव्यवाहं यं त्वा त्वां देवा दधिरे धारितवंतः मानुषासो
+> मनुष्याश्च पुरुस्पृहो बहुकामान् स्पृहयंतो यजत्रं यष्टव्यं दधिरे
+> धारितवंतः हे अग्ने स त्वं यामन् यामनि यज्ञे स्तुवते मह्यं वयोऽन्नं
+> धाः । देहि । हे अग्ने त्वत्तो देवयन् देवकामो यजमानः पूर्विर्बर्बर्हूनि यशसो यशांसि। सं हीत्युपसर्गश्रुतेर्योग्यक्रियाध्याहारः । संप्राप्नोति
+> खलु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bearer of oblations, you whom the gods hold, and whom men hold as the one to be worshipped, पुरुस्पृहः (*puruspṛhaḥ*) desiring many wishes: you, in the यामन् (*yāman*), the sacrifice, give वयः (*vayaḥ*), food, to me who praise. O Agni, from you the worshipper who desires the gods obtains पूर्वीः (*pūrvīḥ*), many, यशसः (*yaśasaḥ*), renown. Because the preverb सं (*saṃ*) is heard, a suitable verb must be supplied: he obtains indeed.
+
+### Printed p. 132
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यं त्वा (*yaṃ tvā*)—you whom
+- देवाः (*devāḥ*)—the gods
+- हव्यवाहं (*havyavāhaṃ*)—appointed as bearer of the oblation for the gods
+- दधिरे (*dadhire*)—appointed
+- मानुषासः (*mānuṣāsaḥ*)—men also
+- पुरस्पृहः (*puraspṛhaḥ*)—desiring many wishes
+- यजत्रं (*yajatraṃ*)—you, who are worthy of sacrifice
+- दधिरे (*dadhire*)—held
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—such a you
+- यामन् (*yāman*)—in the sacrifice
+- स्तुवते (*stuvate*)—for me who praise
+- वयः (*vayaḥ*)—food
+- धाः (*dhāḥ*)—give
+- देवयन् (*devayan*)—the sacrificer also who desires the gods
+- पूर्विः (*pūrviḥ*)—much
+- यशसः (*yaśasaḥ*)—renown
+- सं हि (*saṃ hi*)—obtains through you
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you whom the gods appointed as bearer of the oblation for themselves, and whom men also held in sacrifices and the like as worthy of sacrifice for the attainment of many desires: give food in the sacrifice to me who praise you. The sacrificer who desires to worship the gods also obtains much renown from you alone.
+
+##### English translation
+You, whom the gods appointed as the bearer of oblations, whom men, desiring manifold blessings, regard as the object of worship Agni, bestow food upon him who praises you at the sacrifice; for the devout worshipper verily obtains great renown.
+
+## Sūkta 47 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जगृभ्मा त इत्यष्टर्चं पंचमं सूक्तमांगिरसस्य सप्तगुनाम्म आर्षं
+> त्रैष्टुभं । विकुंठा नामासुरस्त्री । सा चेंद्रसदृशं पुत्रं कामयमाना कृच्छ्रचांद्रायणादिकं तपस्तेपे । मत्सिदृशोऽन्यः कश्चिन्मा जनिष्टेति बुद्ध्वेंद्र एव
+> तॆस्याः पुत्रोऽजायत । तादृशो वैकुंठ इंद्रो देवता । तथा चानुक्रांतं ।
+> जगृभ्माष्टौ सप्तगुर्वैकुंठमिंद्रं तुष्टावेत्यादि ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta जगृभ्मा ते (*jagṛbhmā te*) has eight Ṛks and is the fifth sūkta. Its seer is Saptagu of the Āṅgirasa line; the metre is Triṣṭubh. Vikuṇṭhā was an Asura woman. Desiring a son like Indra, she performed austerities such as Kṛcchra and Cāndrāyaṇa. Indra, thinking that no one like himself should be born, was himself born as her son. The deity is Indra of that kind, Vaikuṇṭha. So the Anukramaṇī says: जगृभ्माष्टौ सप्तगुर्वैकुंठमिंद्रं तुष्टाव (*jagṛbhmāṣṭau saptagurvaikuṃṭhamiṃdraṃ tuṣṭāva*) and so on. The viniyoga is already stated.
+
+##### Anuvāda
+
+This sūkta beginning जगृभ्मा ते (*jagṛbhmā te*) is the fifth sūkta in the fourth anuvāka. It has eight Ṛks. Its seer is Saptagu of the Āṅgirasa gotra; the metre is Triṣṭup. In ancient times there was an Asura woman named Vikuṇṭhā. Desiring that a son equal to Indra be born to her, she practised austerities for that purpose, observing rules such as Kṛcchra and Cāndrāyaṇa. Indra thought that no one else equal to himself should be born, and was himself born as a son to that Asura woman. This son became famous as Vaikuṇṭha Indra; he is the deity of this sūkta. That it is said in the Anukramaṇikā: जगृभ्माष्टौ सप्तगुर्वैकुंठमिंद्रं तुष्टाव (*jagṛbhmāṣṭau saptagurvaikuṃṭhamiṃdraṃ tuṣṭāva*)
+
 ---
 
-**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
+**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
