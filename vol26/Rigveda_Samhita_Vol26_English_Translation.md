@@ -1442,6 +1442,116 @@ As a good husband loves his wife and desires her company, so Indra is prayed to 
 
 In one sūkta, in order to show clearly how the power of Soma-drinking increases Indra's vigour, the seer has described the nature of Indra in this way; the Soma-drinking
 
+### Printed p. 82
+
+has satisfied Indra, and from this it is known in what various ways Indra, so satisfied, shows his favour to the sacrificer.
+
+"I have drunk the Soma fully. Therefore I shall provide the sacrificer with cattle and horses. The stream of Soma that I have drunk has produced in me exceeding vigour. As a cow runs lovingly to her calf and joins it, the hymn composed by the seer has come and joined me. As the smith goes round the chariot-seat and fashions it, so I make that hymn pervade my heart. Even the five peoples, the Gandharvas and the rest, are small before me. That is the power of Soma. Even if heaven and earth were joined together they could not equal half of me. I am possessed of a greatness that surpasses the greatness of these two, heaven and earth. I establish this earth according to my resolve. The atmosphere is half of me; the other half I have brought down. I have the might to rule in the atmosphere. As the fruit of this Soma-drinking I have the power to take the oblation to all the gods and distribute it." (Ṛ. Saṃ. 10-119-1 to 13)
+
+Like the Soma offered to Indra, the hymns offered by the sacrificer and other kinds of worship also increase his valour and vigour exceedingly. ब्रह्माणींद्र तवयानि वर्धना (*brahmāṇīṃdra tavayāni vardhanā*) (उक्थैर्वर्धमानाः (*ukthairvardhamānāḥ*))
+
+(1-52-7; 1-54-8; 1-80-1; 2-11-2: 2-12-14: 3-32-12; 3-34-1; 5-37-10; 6-21-2, 6-44-13, 8--6-1, 21, 31, 35; 8-13-6 : 8-14-5, 11 ; 8-82-27; 8-47-8 ; 10-50-4 ; 12-120-5).**NOTE**
+
+To give exceeding power to the valour stimulated by that Soma-drinking, the gods and men place the thunderbolt in Indra's hand (1-63-2; 2-20-8; 3-32-12).
+
+Moreover, the other gods also establish all their strength in Indra himself. (1-80-15 : 6-20-2 ; 10-48-3 ; 10-113-8 ; 10-120-3 ; 10-56-4 ; 8-15-8).
+
+And they seat him in the chariot and make him ready for battle. (1-55-3 ; 1-130-1 ; 6-12-8).
+
+It is described in many places that at the time of the slaying of the asura Vṛtra the Maruts give encouragement to this Indra and make his strength stand firm and bring victory. That makes the power of Soma-drinking still greater,
+
+### Printed p. 83
+
+(या अभजो मरुत इंद्र सोमे ये त्वामवर्धन्नभवन् गणस्ते (*yā abhajo maruta iṃdra some ye tvāmavardhannabhavan gaṇaste*)).
+
+(3-35-9 ; 3.32-4; 3-47.3 ; 6.7-11 ; 8-7.24 ; 10-73-1, 2; 10-113-3).
+
+In this context it is necessary to state the natural relationship and companionship between Indra and the Maruts. This section shows Indra's regard for Soma. But since it also indicates how stimulating that Soma-drinking is for the slaying of Vṛtra and what the role of the Maruts is in this, this subject too is incidental.
+
+In 1-165 the dispute between Indra and the Maruts is described. In 1-165-8 Indra boasts that he slew Vṛtra by his own strength alone, without the help of the Maruts. In 7-21-6 the same praise is made by a devotee of Indra. (स्वेना हि वृत्रं शवसा जघंथ (*svenā hi vṛtraṃ śavasā jaghaṃtha*)) In the same way in 10-138-6 also he is praised with एता त्या ते श्रुत्यानि केवला यदेकः (*etā tyā te śrutyāni kevalā yadekaḥ*) and so on. It is stated that because of this prowess all the gods fear Indra. (5-30-5). In 8-7-1 it is asked whether it was not a fault that the Maruts did not help their friend Indra in a time of distress, and how, on such an occasion, they can be worthy of trust.
+
+In 4-18-11 Aditi, the mother of Indra, grieved that all the other gods had abandoned her son without helping him, approaches Viṣṇu and prays that he help her son. But elsewhere there is a somewhat different account. It is stated that when he was fighting the asura Vṛtra, all the other gods, frightened by his terrible form, fled leaving Indra alone; and that Indra, being a friend of the Maruts, destroyed Vṛtra with their help. (8-96-7). Sāyaṇa has given the purport on this occasion so that there is no contradiction with the earlier sentences. And he has supported his meaning by quoting a sentence of the Aitareya Brāhmaṇa. The sentence of the Aitareya Brāhmaṇa is as follows.—
+
+इंद्रो वै वृत्रं हनिष्यन्सर्वा देवता अब्रवीदनु मोपतिष्ठध्वमुप मा ह्वयध्वमिति तथेति तं हनिष्यंत आद्रवन्सोऽवेन्मां वै हनिष्यंत आद्रवंति हंतेमान्फीषया इति तानभिप्राश्वसीत्तस्य श्वसथादीषमाणा विश्वे देव अद्रवन् मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्वेत्येवैनमेतां वाचं वदंत उपातिष्ठंत । (*iṃdro vai vṛtraṃ haniṣyansarvā devatā abravīdanu mopatiṣṭhadhvamupa mā hvayadhvamiti tatheti taṃ haniṣyaṃta ādravanso 'venmāṃ vai haniṣyaṃta ādravaṃti haṃtemānphīṣayā iti tānabhiprāśvasīttasya śvasathādīṣamāṇā viśve deva adravan maruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasvetyevainametāṃ vācaṃ vadaṃta upātiṣṭhaṃta |*) तदेतदृषिः पश्यन्नभ्यनूनाच वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । (*tadetadṛṣiḥ paśyannabhyanūnāca vṛtrasya tvā śvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ |*) मरुद्भिरिंद्र सख्यं ते (*marudbhiriṃdra sakhyaṃ te*)
+
+### Printed p. 84
+
+थेमा विश्वाः पृतना जयासीति (*themā viśvāḥ pṛtanā jayāsīti*) सोऽवेदिमे वै किल मे सचिना इमे माकामायंत हंतेमानस्मिन्मुक्त आभजा इति ॥ (*so 'vedime vai kila me sacinā ime mākāmāyaṃta haṃtemānasminmukta ābhajā iti ‖*)
+
+(Ai. Brā. 3-20)
+
+Indra, wishing to kill the asura Vṛtra, said to the gods, "O gods, follow me without leaving me and be my helpers." Then they gave the assurance, "We shall do so," and rushed forward to kill Vṛtra. Then Vṛtra, saying, "These gods are rushing forward to kill me; I shall frighten them," breathed a mighty breath and made a terrible sound. Then all the gods, hearing that terrible sound, were afraid and ran in all directions. But the Maruts alone did not forsake Indra. Standing beside Indra they gave him encouragement, saying, "O Indra, strike him. Show your prowess." Praising the friendship of those Maruts, the seer recited the mantra beginning वृत्रस्य त्वा (*vṛtrasya tvā*) and praised them (8-96-7). Then Indra said, "These Maruts alone are my true friends. They love me; therefore in the uktha mantra offered to me I shall give them also a share."
+
+In the Ṛk Saṃhitā, in mantra 10-32-14, describing this same occasion, he is praised with अहेर्यातारं (*aheryātāraṃ*). Here too the meaning is doubtful. It is stated here that even Indra had a little fear at the time of the asura Vṛtra. Out of that fear, running like a hawk, he crossed the ninety-nine river-streams that he met on the way and escaped. In this way two or three kinds of purport can be given. But in the present case this discussion is unnecessary. The other gods who helped Indra are also praised in some places. For example—
+
+"O Aśvins, lords of radiance, having drunk the sweet Soma with Indra, you helped him when he was destroying the asura Namuci, and at that time you protected him." (10-131-4)
+
+"O Indra, as parents protect their children, the two Aśvins protected Indra in a time of danger. When you drank Soma at the time of the manifestation of your valour, the goddess Sarasvatī, with all her means of protection, was a helper at your side." (10-13-5)
+
+This episode is told also in the Vājasaneya Saṃhitā (10-33, 34). And in the commentary on the Vājasaneya Saṃhitā the commentator has quoted a story told in the Śatapatha Brāhmaṇa. Its form is as follows—
+
+### Printed p. 85
+
+इंद्रस्येंद्रियमन्नस्य रसग्‌ंसोमस्य भक्षग्सुरयासुरो नमुचिरहरत्योऽश्विन् च सरस्वतीं चोपाधावछेपानोऽस्मि नमुचये न त्वा दिवा न नक्तग्ं हनानि न दण्णेन न धन्वना न पृथेन न मुष्टिना न शुष्केण नार्द्रेणाथ म इद महार्षिदिदं म आजहीर्षथेति । (*iṃdrasyeṃdriyamannasya rasagṃsomasya bhakṣagsurayāsuro namuciraharatyo 'śvin ca sarasvatīṃ copādhāvachepāno 'smi namucaye na tvā divā na naktagṃ hanāni na daṇṇena na dhanvanā na pṛthena na muṣṭinā na śuṣkeṇa nārdreṇātha ma ida mahārṣididaṃ ma ājahīrṣatheti |*)
+
+(Śa. Brā. 12-7-3-1)
+
+The asura Namuci once carried off Indra's valour, his food, his Soma and his liquor. Then Indra went to the Aśvins and to Sarasvatī and said, "I have given an assurance that I shall not kill Namuci either by day or by night. Not only this, I have also given the assurance that I shall not kill him with wood, or with my hand, or with the fist, or with a dry instrument, or with a wet instrument. Because of this assurance he has carried off my strength. Bring it back to me." They answered him in this way:
+
+अस्तु नोऽत्राप्यथाहरामेति सह न एतदथाहरतेत्यब्रवीदिति । (*astu no 'trāpyathāharāmeti saha na etadathāharatetyabravīditi |*)
+
+(12-7-3-2)
+
+They said that it would do if a share were given to them also in that valour and in the Soma and the rest. Indra agreed to it.
+
+तावश्विनी च सरस्वती च अपां फेनं वज्रमसिंचन्न शुष्को नार्द्र इति तेनेंद्रो नमुचेरासुरस्य व्युष्टायाग्ं रात्रावनुदित आदित्ये न दिवा न नक्तमिति शिर उदवासयत् (*tāvaśvinī ca sarasvatī ca apāṃ phenaṃ vajramasiṃcanna śuṣko nārdra iti teneṃdro namucerāsurasya vyuṣṭāyāgṃ rātrāvanudita āditye na divā na naktamiti śira udavāsayat*)
+
+(12-7-3-3)
+
+Then the Aśvins and Sarasvatī smeared the thunderbolt with foam. Then it was neither wet nor dry. With it Indra struck Namuci. Because he struck at dawn, when the night had passed and the sun had not yet risen, it was neither day nor night. With it he cut off Namuci's head.
+
+तस्मादेतदृषिणाभ्यनूक्तं . . . . तस्य शीर्षंश्णिन्ने लोहितमिश्रः सोमोऽतिष्ठत्तस्मादबीभत्संत त एतदंधसोऽर्विपानमपश्यन्सो मो राज्ञामृतग्ं सुत इति तेनैनग्ं स्वदयित्वात्मन्नदधत ॥ ( (*tasmādetadṛṣiṇābhyanūktaṃ . . . . tasya śīrṣaṃśṇinne lohitamiśraḥ somo 'tiṣṭhattasmādabībhatsaṃta ta etadaṃdhaso 'rvipānamapaśyanso mo rājñāmṛtagṃ suta iti tenainagṃ svadayitvātmannadadhata ‖ (*) (12-7-3-4)
+
+As soon as Namuci's head was split, the Soma became mixed with blood. Then it became loathsome. Then they, understanding that "King Soma, as soon as he is sprinkled, becomes immortal", poured that in with this Soma and drank it, so the description runs.
+
+### Printed p. 86
+
+But in this last part, the question whether "this Soma" and "that Soma" make two Somas deserves examination. For the present it is not relevant.
+
+In the same way, in another context in the Śatapatha Brāhmaṇa it is stated that when Indra's power was diminished, the Aśvins, the physicians of the gods, and Sarasvatī caused his seat to be established again.
+
+(12-7-1980 : 2-8-31)**NOTE**
+
+Just as with the help of the Maruts Indra destroyed the power of the asuras, so also with the help of Bṛhaspati Indra destroyed the enemies of the gods who opposed him.
+
+(7-85-15)
+
+Thus, **NOTE** and stimulated by Soma-drinking, Indra goes to fight against Vṛtra, sometimes accompanied by the Maruts and sometimes by Viṣṇu.
+
+(2-15 : 209.2 ; 6-47-1, 2 ; 10-32-1)**NOTE**
+
+**The reason Indra is called Ṛjīṣī**
+
+यजिषी (*yajiṣī*)—Yāska has given this etymology of this word—**NOTE**
+
+यजिषी सोमो यत्सोमस्य पूयमानस्यातिरिच्यते तदृजेषमपार्जितं भवति तेनर्जिषी सोमः । अथाप्यैंद्रो निगमो भवति ऋजिषी वब्रे इति ॥ (*yajiṣī somo yatsomasya pūyamānasyātiricyate tadṛjeṣamapārjitaṃ bhavati tenarjiṣī somaḥ | athāpyaiṃdro nigamo bhavati ṛjiṣī vabre iti ‖*)
+
+(Ni. 5-12)
+
+The sapless, husk-like substance that remains after the Soma plant has been crushed with stones and the juice taken out is called ṛjīṣa. This ṛjīṣa is thrown away as useless. On some occasions such ṛjīṣa is soaked in water and a little more juice is squeezed out; such Soma juice is called ऋजीषः सोमः (*ṛjīṣaḥ somaḥ*). At the third pressing this ṛjīṣa Soma is mixed with flour and other āśira substances and offered to Indra. Because Indra drinks this ṛjīṣa Soma, it has become the custom to call Indra by the very word ऋजीषी (*ṛjīṣī*). Moreover, Indra's horses, called हरी (*harī*), are famed as eating the husks of these Soma plants called ṛjīṣa. In this matter Yāska has given as an example the Vedic sentence बद्धां ते हरीधाना उप ऋजीषं जिघ्रतां (*baddhāṃ te harīdhānā upa ṛjīṣaṃ jighratāṃ*). The meaning of the above sentence is: O Indra, let your horses eat grain and smell this ṛjīṣa.
+
+### Printed p. 87
+
+What is ṛjīṣa? What is the reason for its having this name? What is its use in the sacrifice? We shall examine closely here what is said on these matters in the Aitareya Brāhmaṇa and the Taittirīya Saṃhitā.
+
+सोमो वै राजमुष्मिंल्लोक आसीत्तं देवाश्च ऋषयश्चाभ्यध्यायन् कथमयमस्मात्सोमो राजागच्छेदिति तेऽब्रुवंशृंदांसि यूयं न इमं सोमं राजानमाहरेति तथेति ते सुपर्णा भूत्वोदपतन् । (*somo vai rājamuṣmiṃlloka āsīttaṃ devāśca ṛṣayaścābhyadhyāyan kathamayamasmātsomo rājāgacchediti te 'bruvaṃśṛṃdāṃsi yūyaṃ na imaṃ somaṃ rājānamāhareti tatheti te suparṇā bhūtvodapatan |*)
+
+(Ai. Brā. 13-25)
+
+Formerly King Soma (the Soma plant; it is the custom to call the Soma plant King Soma as a mark of respect), that is, the Soma plant, was in the world of heaven. It was not in this world. Knowing this, the gods and the seers considered how to bring this Soma here. Then, having deliberated on this matter, and knowing that the metres had the power to bring Soma from heaven to the earth, they addressed the metres and prayed: "O metres, for our sake, that is, for use in our sacrifice, bring to the earth the Soma that is in heaven." Accepting their prayer, the metres took the forms of certain birds well known in the world and flew to the world of heaven. First the Jagatī metre took the form of a bird and flew towards the world of heaven. But before it had gone far it grew tired, could not go as far as heaven, and turned back. Then the Triṣṭubh metre said that it would bring the Soma and leapt into the atmosphere. But before it had gone a little beyond half the way it was worn out with weariness and turned back. When the gods saw that the Jagatī and Triṣṭubh metres had thus returned, unable to bring the Soma, they went to the Gāyatrī metre and prayed: "O Gāyatrī, bring Soma for us from heaven." Gāyatrī agreed that it should be so, took the form of a hawk, flew to heaven, frightened the guardians of Soma there, Sāna, Bhrāja and others, snatched the Soma and brought it to the earth. Because it brought the Soma plant, Gāyatrī obtained the foremost place among the metres.
+
+सा यद्दक्षिणेन पदा समगृभ्नात्तत्प्रातःसवनमभवत्तद्गायत्री स्वमायतनम कुरुत तस्मात्तत्समृद्धतमं मन्यंते सर्वॆषां सवनानामग्रियो मुख्यो भवति श्रेष्ठतामश्नुते य एवं वेदाथ (*sā yaddakṣiṇena padā samagṛbhnāttatprātaḥsavanamabhavattadgāyatrī svamāyatanama kuruta tasmāttatsamṛddhatamaṃ manyaṃte sarvèṣāṃ savanānāmagriyo mukhyo bhavati śreṣṭhatāmaśnute ya evaṃ vedātha*) यत्सव्येन पदा समगृभ्नात्तन्माध्यंदिनं सवनमभवत्तद्विस्स्रंसत : तद्विस्स्रस्तं नान्वाप्पोत्तूर्वं सवनं ते देवाः प्राजिज्ञासंत तस्मिंस्किष्टुभं छंदसामदधुरिंद्रं देवतानां तेन (*yatsavyena padā samagṛbhnāttanmādhyaṃdinaṃ savanamabhavattadvissraṃsata : tadvissrastaṃ nānvāppottūrvaṃ savanaṃ te devāḥ prājijñāsaṃta tasmiṃskiṣṭubhaṃ chaṃdasāmadadhuriṃdraṃ devatānāṃ tena*)
+
 ---
 
-**Progress note:** Done through printed p. 81. pp. 76-81: Yajus mantras of upāṃśugraha, pavitra discussion, Indra's soma-drinking
+**Progress note:** Done through printed p. 87. pp. 82-87: Indra's soma-drinking, Maruts, Namuci, rjisa, Gayatri brings soma
