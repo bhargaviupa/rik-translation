@@ -22128,7 +22128,7 @@ Savitṛ is a very ancient and renowned deity, praised in many places. The sūkt
 
 To learn Savitṛ's personal qualities and his deeds connected with the working of the universe, some mantras may be cited and examined.
 
-Described with epithets such as Hiraṇyākṣa (having golden-formed eyes), Hiraṇyapāṇi and Hiraṇyahasta (having golden hands), Savitṛ is in many places described as having a golden-formed radiance (1-22-5; 1-35-9, 10; 3-54-11; 6-50-8; 6-71-4; 7-38-2; Sā. Saṃ. 1-464; Vā. Sa. 1-16; 4-25; A. Ve. 3-21-8; 7-14-2; 7-115-2). **NOTE** In addition, epithets such as Pṛthupāṇi, having broad hands (2-38-2), and Supāṇi, having beautiful hands (3-33-6; 7-45-4), also describe Savitṛ's attractive hands.
+Described with epithets such as Hiraṇyākṣa (having golden-formed eyes), Hiraṇyapāṇi and Hiraṇyahasta (having golden hands), Savitṛ is in many places described as having a golden-formed radiance (1-22-5; 1-35-9, 10; 3-54-11; 6-50-8; 6-71-4; 7-38-2; Sā. Saṃ. 1-464; Vā. Sa. 1-16; 4-25; Ath. Saṃ. 3-21-8; 7-14-2; 7-115-2). **NOTE** In addition, epithets such as Pṛthupāṇi, having broad hands (2-38-2), and Supāṇi, having beautiful hands (3-33-6; 7-45-4), also describe Savitṛ's attractive hands.
 
 p. 563 starts here in print.
 
@@ -26137,7 +26137,7 @@ He is not only the son of the araṇis but the son of all the trees (सून�
 
 "But the sacrificers offer ghee and the like into his mouth (āsya) and nourish him with it." (3-21-1)
 
-"O Agni, you are the divine Hotṛ; accept these oblations of ghee offered by us." (3-21-1, 2, 3) (5-14-6; 8-39-3; 8-43-10, 22; 10-69-1; 10-118-4; A. Ve. 1-7-2).**NOTE**
+"O Agni, you are the divine Hotṛ; accept these oblations of ghee offered by us." (3-21-1, 2, 3) (5-14-6; 8-39-3; 8-43-10, 22; 10-69-1; 10-118-4; Ath. Saṃ. 1-7-2).**NOTE**
 
 In Ṛ. Saṃ. 3-26-7 Agni declares: ghee is my eye (धृतं मे चक्षुः (*dhṛtaṃ me cakṣuḥ*)).
 
@@ -26257,7 +26257,7 @@ He stands upward-faced like a pillar, and his greatness surpasses the greatness 
 
 All men are alarmed on seeing the great deeds of this Agni. His laws and his constructions cannot be transgressed by anyone. (2-8-3; 2-9-1; Vā. Saṃ. 11-36; 6-7-5; 8-44-25; 8-92-3).
 
-Heaven and earth, and all beings of the past and the future, obey the command of this Agni. (7-5-4; A. Ve. 4-23-7)**NOTE**
+Heaven and earth, and all beings of the past and the future, obey the command of this Agni. (7-5-4; Ath. Saṃ. 4-23-7)**NOTE**
 
 For the gods this Agni won in battle all wealth and all regions and gave them, and he protected them all from calamity. (सहस्रजित् (*sahasrajit*) 1-188-1). (1-59-5; 7-13-2)
 

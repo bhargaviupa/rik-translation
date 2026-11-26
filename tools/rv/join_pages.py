@@ -75,6 +75,13 @@ def apply(vol, write):
         p = os.path.join(ROOT, f'vol{vol}', j['file']); L = texts.setdefault(p, open(p, encoding='utf8').read().split('\n'))
         an, bn = a.get('a_tail_new', j['a_tail']), a.get('b_head_new', j['b_head'])
         if an == j['a_tail'] and bn == j['b_head']: stat['unchanged'] += 1; continue
+        ia = [k for k, x in enumerate(L) if x.endswith(j['a_tail'])]                      # the file may have changed since the list was made: the words decide
+        if len(ia) != 1: stat['refused'] += 1; rows.append((j, 'refused', an, bn, 'the words before the break are no longer in the file as listed')); continue
+        j = dict(j); j['a_line'] = ia[0] + 1
+        if j['b_line']:
+            ib = next((k for k in range(ia[0] + 1, min(ia[0] + 12, len(L))) if L[k].startswith(j['b_head'])), None)
+            if ib is None and bn != j['b_head']: stat['refused'] += 1; rows.append((j, 'refused', an, bn, 'the words after the break are no longer in the file as listed')); continue
+            j['b_line'] = (ib + 1) if ib is not None else None
         la = L[j['a_line'] - 1]; lb = L[j['b_line'] - 1] if j['b_line'] else ''
         why = ''
         if not la.endswith(j['a_tail']) or (j['b_line'] and bn != j['b_head'] and not lb.startswith(j['b_head'])): why = 'the text is no longer as it was when listed'

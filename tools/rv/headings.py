@@ -20,7 +20,8 @@ publish/vol1_clean.py through apply_en)."""
 import os, re, sys, collections
 from rapidfuzz import fuzz
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-CH = re.compile(r'^([^\s#>*|<\[][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ)(?:ವು)?\s*[.—-]?\s*(.*)$')
+CH = re.compile(r'^([^\s#>*|<\[]\S*ನೆಯ ಪ್ರಕರಣ)(?:ವು)?(?![\u0c80-\u0cff])\s*[.—-]*\s*(.*)$')
+ATTR = re.compile(r'\s*\{\.[\w-]+\}\s*$')           # '{.headline}' left on a line by the conversion of the supplied file
 NUMBERED = re.compile(r'^[(\[]?[\d೦-೯]{1,2}[.)\]]')
 def kn_file(vol):
     for p in (f'vol{vol}/Rigveda_Samhita_Vol{vol}_Kannada_Text.md', f'vol{vol}/kannada/Rigveda_Samhita_Vol{vol}_Kannada_Text.md'):
@@ -46,14 +47,15 @@ def kannada(vol):
         if cur: topics[cur] += [t.strip(' .0123456789೦೧೨೩೪೫೬೭೮೯') for t in re.split(r'—|--|-(?=[ಀ-೿])|\.\s', l) if len(norm(t)) >= 4]
     rows, page, chap, pstart = [], None, None, first
     for i in range(first, len(L)):
-        l = L[i]; t = l.strip()
+        l = L[i]; t = ATTR.sub('', l.strip())
         m = re.match(r'<!-- printed (\d+) -->', l)
         if m: page = int(m.group(1)); pstart = i; continue
         if not t or t.startswith(('>', '*', '#', '|', '<', '[')): continue
-        prev = L[i - 1].strip(); nxt = L[i + 1].strip() if i + 1 < len(L) else ''
+        prev = ATTR.sub('', L[i - 1].strip()); nxt = ATTR.sub('', L[i + 1].strip()) if i + 1 < len(L) else ''
         c = CH.match(t)
-        if c and len(t) <= 40 and not c.group(2):
-            chap = norm(c.group(1)); title = nxt if 0 < len(nxt) <= 60 else ''
+        if c and len(t) <= 75 and not re.search(r'[।॥]', t):
+            chap = norm(c.group(1)); title = c.group(2).strip() or (nxt if 0 < len(nxt) <= 60 else '')
+            t = c.group(1)
             rows.append({'line': i + 1, 'page': page, 'level': 'chapter', 'text': t.rstrip('. '), 'extra': title.rstrip('. '), 'off': i - pstart}); continue
         if rows and rows[-1]['level'] == 'chapter' and rows[-1]['line'] == i and rows[-1]['extra'] and rows[-1]['extra'] == t.rstrip('. '): continue
         if len(t) > 45 or not re.search('[ಀ-೿]', t) or re.search(r'[।॥]|\d-\d|[೦-೯]-[೦-೯]', t) or t.endswith((',', ';', '—', '-')): continue
@@ -176,10 +178,10 @@ def apply_kn(text, vol):
         c = l.split('\t')
         if len(c) < 6 or c[5] != 'y': continue
         i = int(c[0]) - 1
-        if i >= len(L) or norm(L[i])[:8] != norm(c[3])[:8]: continue                          # the file has changed since the list was made
+        if i >= len(L) or norm(L[i])[:6] != norm(c[3])[:6]: continue                          # the file has changed since the list was made
         if c[2] == 'chapter':
             j = next((k for k in range(i + 1, min(i + 3, len(L))) if L[k].strip()), None)
-            if j is not None and len(L[j].strip()) <= 60 and not L[j].startswith(('<', '#')): L[j] = ''          # the title line goes into the heading
+            if j is not None and c[4] and norm(L[j])[:6] == norm(c[4])[:6] and not L[j].startswith(('<', '#')): L[j] = ''          # the title line goes into the heading
             L[i] = '\n## ' + c[3] + (' — ' + c[4] if c[4] else '') + '\n'
         else: L[i] = '\n' + '#' * (2 + int(c[2])) + ' ' + c[3] + ' {.lv' + c[2] + '}\n'
         n += 1

@@ -64,6 +64,8 @@ work/                     one dir per window (git-ignored): kn.md, en.md, en_fin
 
 ## 4. Inputs the user supplies (Vol 15 onwards — no page scans)
 
+*If no machine-read text exists for a volume and the Kannada text must be made from the scans, follow `docs/SCAN_PIPELINE.md` (Vols 25, 26 onwards).*
+
 1. **Machine-read text** of the volume (HTML or markdown) in one or more files → `volN/html/`. If the user gives several markdown files, merge them into ONE file with `python3 tools/rv/merge_md.py volN/html/rig_N.md IN1.md IN2.md … --write` (lossless; it refuses unless the page split is identical), point `volcfg.json` `source` and `pubcfg.json` `supplied_md` at it and `git rm` the inputs. Strip embedded base64 images from markdown before committing. Page images are **not** read. The text matched an independent reading of the scan on 98.85 % of characters (Vol 5 tests), and the user found its numerals correct. Known weak points: `||` and the avagraha are lost (repaired by script); single-letter OCR slips; garbled running heads; stray "This image contains no text…" description lines (kept as italic notes); a few Latin/Telugu/Devanagari letters inside Kannada.
 2. **Front-matter scan PDF** (cover, title page, portrait, permission page, board of scholars, preface, contents pages, abbreviations): used only as page images for the PDFs and to verify the printed contents.
 3. **Optional** numeral file (xlsx) → `volN/numerals/` (cross-check only; see `docs/LEGACY_SCAN_WORKFLOW.md` for the old method).
@@ -110,6 +112,16 @@ Check the text once before starting: `python3 tools/rv/html_pages.py FILE` (is e
 
 **Page-split caveats**: a window may run one page past its end when a head was merged; the position is always "Done through printed p. N" from the progress note, and the next window starts at N+1.
 
+## 6a. The Batch API route (Vols 17–30) and the agent fallback
+
+Needs `RIK_API_KEY`. **Cost measured** (Vols 23, 27, 30): real cost is about $2.4–2.6 per million input tokens of the plan (output ≈ 0.3 × input), i.e. 45–75 % of the low end `plan` prints; about $0.058 per window of six pages. Steps, each free until `submit`:
+1. Source: check the page heads first (`html_pages.py`: misread digits make pages vanish or merge; lesson of Vol 23 pp. 372–373), merge, `extract_figures.py`, `<!-- page 1 -->`, `batch.py new`, `volcfg.json` as in Vol 21. Word-meaning check and the certain corrections (`pratipada_check.py N --source`, `pratipada_apply.py N --write`) BEFORE `plan`. Preface by `api_front.py`.
+2. `api_batch.py plan N --windows K`, show the estimate, wait for the user's yes (or the ceiling the user gave), `submit N` (one batch; a budget smaller than the whole volume: cut K so that the cost fits and leave the last windows for later: `plan` continues after the last committed page).
+3. When the batch has ended: `collect N` writes every answer, then commits window after window in page order and stops at the first failing gate. Dry-run all prepared windows first (`batch.py done N WIN --dry-run --note x`; 3 minutes) and repair what the sweep finds before `collect` (heading missing, a garbled label that makes the blocks one off, a remark, a foreign-script letter, a cut-off answer: `api_window.py N P1,…,P6`).
+4. `collect` commits BEFORE it verifies: a VERIFY FAIL (heading counts, Ṛk heading order, page marks of the two files) leaves a committed window to repair in the output file as a logged repair (`fix_split_samhita.py --file`, `rkheads`, `check_labels`, a page mark inserted in the Kannada file). Nothing else may write to the repository while `collect` runs (the Stop hook's "uncommitted changes" is its own work).
+5. **When the API budget is spent**, the rest is translated by agents: `volN/CONTINUE_PROMPT_HTML.md` (see Vol 27, from the Vol 24 prompt; 3 windows per Sonnet agent, 157–192k tokens, 4–6 minutes), the same repairs by the dispatcher.
+6. After the last page: `rkheads N --dry-run`, `kn_headings.py N --write`, the sūkta sequence and the Ṛk count per sūkta against `ws_index.py` (REQUIREMENTS D19), STATUS, PUBLICATION_TODO.
+
 ## 7. Format of the outputs
 
 English file: `### Printed p. N` (one per page), `## Sūkta N (Maṇḍala M)` per sūkta (a new Maṇḍala gets `## Maṇḍala M`), Sāyaṇa's introduction (Sanskrit block, English Anuvāda, particulars), then per Ṛk `#### Ṛk N` with: Saṃhitā-pāṭha (accented), Pada-pāṭha, Sāyaṇa-bhāṣya (Sanskrit block + ≤ 25-word gist, grammatical tail transcribed but not explained), Pratipadārtha, Bhāvārtha, **Printed English translation** (reproduced as printed, `[sic]`), Special Topics (Viśeṣaviṣayagaḷu; all Sanskrit quotations in three layers with their printed references), grammar pages as a 2–4 line note. The last sūkta of an adhyāya ends with the Sanskrit colophon + the Kannada closing line (three layers) and the volume's closing formulas, nothing added. Bracketed italic notes record anything odd about the supplied text.
@@ -138,6 +150,11 @@ In memory only (the `.md` is not changed): missing `## Sūkta` headings are supp
 | `tools/rv/check_inline.py` | every inline `⟦⟧` segment of `en.md` occurs in `kn.md` (run before every commit) |
 | `tools/rv/refs_fix.py` | the user's corrections of misread reference abbreviations (ಸಿ.→ನಿ. = Ni., ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ. = Ṛ. Saṃ., ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. = Ai. Brā.); applied automatically by `html_to_kn.py` to every new window and by `refs_fix.py N --write` to a finished volume |
 | `tools/rv/refs_apply.py` (agent `reference-corrector`, `.claude/agents/`) | all volumes, all three scripts: the decided mistakes of the one list `rv/references.tsv` (and the place decisions of `rv/reference_places.tsv`) carried out on the names of works before reference numbers; preview by default, `--write` per volume, `--questions` = reference numbers still doubtful and the numerals files present. Supersedes running `refs_fix.py` by hand on a finished volume (`html_to_kn.py` still applies `fix_kn` to new text) |
+| `tools/rv/api_batch.py`, `api_front.py`, `api_window.py` | the Batch API route (§6a): `plan`/`submit`/`status`/`collect`; the preface by one direct request; one window re-prepared and re-sent by one direct request (a source repair made pages appear, or the answer was cut off) |
+| `tools/rv/pratipada_check.py`, `pratipada_apply.py` | word-meaning words against the Wikisource Pada Ṛk by Ṛk (report; certain one-letter corrections applied and logged; REQUIREMENTS C4/D18) |
+| `tools/rv/fix_split_samhita.py` | a Saṃhitā whose second line stands at the top of the next window got its own Ṛk and Saṃhitā headings: remove them (`--windows` before `collect`, `--file` after) |
+| `tools/rv/merge_scanpages.py` | merge several OCR files with `## Page N` labels (sorted, longest non-empty page kept, gaps listed, never filled) |
+| `tools/rv/ws_index.py` | the Wikisource index (`build` from `refs/wikisource/raw/`, then `get`/`search`/`stats`; Ṛk counts per sūkta for checks) |
 | `tools/rv/kn_headings.py`, `repair_inline.py`, `annotate_report.py` | after a volume: headings for the Kannada file; convert leftover multi-line `⟦⟧` quotations (older files; `convert.py` now joins such lines); add printed pages to a review TSV |
 | `publish/tools/translit/*` | Kannada↔Devanagari, IAST |
 | `publish/tools/accents/accent_volume.py` | Vedic accents from `refs/mandala` (`--write`; unmatched lines → `accent_report.tsv`) |

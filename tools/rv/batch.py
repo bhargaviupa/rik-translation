@@ -127,6 +127,9 @@ def rk_headings(t):
             k-=1
         if k<0 or L[k].startswith('## '): prev=None                     # first Ṛk of a sūkta (or of the text)
         if k>=0 and L[k].startswith('## Sūkta') and n is None: n=1
+        vk=i-1
+        while vk>=0 and not L[vk].strip(): vk-=1
+        if h is None and vk>=0 and re.match(r'\*\*Verse \d+\*\*\s*$',L[vk]): continue              # a displaced verse headed by a bold `**Verse N**` line (Vol 29 p. 321): no Ṛk heading is made for it
         if h is None:
             if prev and n and n!=prev+1: ch.append(('number',f'added heading: block number {n} -> {prev+1} (misprint or cut line in the supplied text; the sequence wins)')); n=prev+1
             n=n or (prev+1 if prev else None); ins[i]='#### Ṛk'+(f' {n}' if n else ''); ch.append(('added',n))
@@ -280,7 +283,9 @@ def cmd_check(a):
         if st: fail.append(f'stray letters of another script in the English text (e.g. {st[0]!r} U+{ord(st[0]):04X}): a mistyped Latin letter, fix it in en.md')
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
-    if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
+    if cfg.d.get('doubt_check')=='kn_only':        # Vol 26 pp. 810-894: the supplied text itself carries [?] (scan reading); the Kannada file keeps them, the English has **NOTE** instead
+        if de: fail.append(f'[?] in the English text ({len(de)}): write **NOTE**{{question}} instead')
+    elif len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
     knr=re.sub(r'(?<=[೦-೯])[ \n]+(?=[೦-೯]{1,4}[-)])','-',knr)     # a reference whose hyphen the print lost at a space or line break (೬ ೪-೧೦೨ / ೩-೨⏎೧೦೬): the same number (Vol 11)
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; knr=kn+'\n'+knr      # both forms count as twins (the loosened form must never hide a reference that matched as printed)
@@ -335,6 +340,13 @@ def cmd_fix(a):
     w,which,old,new=a[1],a[2],a[3],a[4]; p=os.path.join(w,{'kn':'kn.md','en':'en.md'}[which]); t=rd(p)
     if t.count(old)!=1: sys.exit(f'FAIL: old text occurs {t.count(old)} times in {which}.md (must be exactly once; add context)')
     wr(p,t.replace(old,new)); open(os.path.join(w,'fixes.tsv'),'a',encoding='utf8').write(f'{which}\t{old}\t{new}\n'); print('fixed; re-run build and check')
+    if which=='kn':                                # a page marker put in by the fix: the page goes into pages.json too (Vol 29: agents did it by hand in more than 10 windows)
+        pj=os.path.join(w,'pages.json')
+        if os.path.exists(pj):
+            pg=json.load(open(pj)); have={x['printed'] for x in pg}; added=[]
+            for m in re.findall(r'<!-- printed (\d+)',new):
+                if int(m) not in have: pg.append({'printed':int(m),'pdf':None,'file_page':None,'numeral_rows':0}); have.add(int(m)); added.append(int(m))
+            if added: pg.sort(key=lambda x:x['printed']); open(pj,'w').write(json.dumps(pg)); print('pages.json: added printed page(s)',added,'(write "### Printed p. N" in en.md)')
 def cmd_commit(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; note=a[a.index('--note')+1]; mx=a[a.index('--max-doubts')+1] if '--max-doubts' in a else '0'
     if re.match(r'\s*Done through',note): sys.exit('FAIL: the note must not start with "Done through" (the script writes the position)')
@@ -389,6 +401,8 @@ def audit(cfg,expect_clean=True):
     q=lambda t:t.count('[?]')-t.count('`[?]`')
     if cfg.d.get('doubt_check')=='kn_le_en':      # Vol 14 (older remark style): the English remarks may repeat or add a mark; every Kannada mark must have an English one
         if q(kn)>q(en): pr.append(f"more [?] in the Kannada file than in the English: English {q(en)}, Kannada {q(kn)}")
+    elif cfg.d.get('doubt_check')=='kn_only':
+        if q(en): pr.append(f"[?] in the English file ({q(en)}): the English carries **NOTE** instead")
     elif q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
     if note_style(cfg):
         nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0

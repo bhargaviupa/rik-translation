@@ -21,14 +21,16 @@ def kdig(n): return str(n).translate(KD)
 def edig(s): return int(''.join(ED[c] for c in s))
 # English structure
 ev = []
-for l in en:
+for li, l in enumerate(en):
     m = re.match(r'## Maṇḍala (\d+)\s*$', l)
     if m: ev.append(('mandala', int(m.group(1)))); continue
     m = re.match(r'## Sūkta (\d+) \(Maṇḍala (\d+)\)', l)
     if m: ev.append(('sukta', int(m.group(1)), int(m.group(2)))); continue
-    m = re.match(r'#### Ṛk (\d+)\s*$', l)
-    if m: ev.append(('rk', int(m.group(1))))
-suktas = [e for e in ev if e[0] == 'sukta']; riks = [e for e in ev if e[0] == 'rk']
+    m = re.match(r'#### Ṛk (\d+)\s*(?:\*\*NOTE\*\*)?\s*$', l)          # a heading may carry the NOTE mark (Vol 29)
+    if m: ev.append(('rk', int(m.group(1)))); continue
+    m = re.match(r'\*\*Verse (\d+)\*\*\s*$', l)                         # displaced verse (Vol 29, p. 321): has its Saṃhitā label, no Ṛk heading
+    if m and next((x for x in en[li+1:li+6] if x.strip()), '').startswith('##### ॥ संहितापाठः'): ev.append(('verse', int(m.group(1))))      # only a verse that has its own Saṃhitā block (a bare '**Verse N**' mark has no label)
+suktas = [e for e in ev if e[0] == 'sukta']; riks = [e for e in ev if e[0] in ('rk', 'verse')]
 # Kannada anchors
 sl = []
 for i, l in enumerate(kn):
@@ -44,6 +46,8 @@ full = [x for x in sl if x[1] is not None]
 if len(full) == len(suktas): sl = full                 # every sūkta has its full line (Vols 15, 16): the title lines are not needed
 labs = [i for i, l in enumerate(kn) if l.strip() == '*ಸಂಹಿತಾಪಾಠಃ*']
 prob = []; warn = []
+sl2 = [x for k, x in enumerate(sl) if not (k and sl[k - 1][2] == x[2] and x[0] - sl[k - 1][0] < 120)]      # the same sūkta line printed twice by the supplied text (Vol 28 Sūkta 48: the page is printed twice): one heading, before the first
+if len(sl) != len(suktas) == len(sl2): sl = sl2
 if len(sl) != len(suktas): prob.append(f'sūkta lines: Kannada {len(sl)} vs English {len(suktas)}')
 else:
     for (i, m, s), e in zip(sl, suktas):
@@ -62,7 +66,7 @@ for (i, _m, _s), e in zip(sl, suktas):
     pre += [f'## ಸೂಕ್ತ {kdig(s)} (ಮಂಡಲ {kdig(m)})', '']
     ins.setdefault(i, []).extend(pre); prev_m = m
 for i, e in zip(labs, riks):
-    ins.setdefault(i, []).extend([f'#### ಋಕ್ {kdig(e[1])}', ''])
+    if e[0] == 'rk': ins.setdefault(i, []).extend([f'#### ಋಕ್ {kdig(e[1])}', ''])
 out = []
 for i, l in enumerate(kn):
     if i in ins and out and out[-1].strip():          # pandoc/markdown: a heading needs a blank line before it

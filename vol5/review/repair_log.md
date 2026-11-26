@@ -1531,3 +1531,10 @@
 ## Second pass, closing checks, 2026-11-24
 - p. 680 (English line 11084) [H10]: `(8-23-12)` → `(8-23-17)` — the supplied text prints ೮-೨೩-೧೭ (the reader of batch 37 did not log it; found by the sieve).
 - The user's readings for pp. 578–625 (`archive/vol5/review/pending_doubts_p578-625_user_readings.txt`) were compared with the English after the batches: 603_d2 `7-47-1 and 2`, 608_d1 `1-127-1`, 611_d6 `3-1-12 and 13`, 622_d8 `3-62-7, 7-97-7`, 625_d9 `2-24-11` all stand in the English now (taken from the supplied text by the readers: supplied text and the user's readings agree, nothing to apply). 598_d0 and 598_d10 were "x" (not readable in the crop): the English reads `(8-26-21 and 22)` and `(1-64-8 and 9)`, from the supplied text.
+
+## Second pass: three repairs reverted after the Sanskrit check against the reference, 2026-11-25 (decision of the user)
+- p. 437 (L8082): `[as printed: dvyacotastijaḥ]` → `[as printed: dvyacotastiṅaḥ]` (and the earlier `dyaucotiśrīḥ`… clause restored): the repair had put a Kannada misprint into the English; the earlier form is the sūtra.
+- p. 109 (L2075): `gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca` → `gatikārakopapadāt kṛt`: the longer form is not in the supplied text; the reference has the old form.
+- p. 123 (L2358): `(igantalakṣaṇa guṇa)` → `by sārvadhātukārdhadhātukayoḥ`: the label is not in the reference.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: kn kannada 162; every change is a row of review/refs_applied.tsv.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en latin 4, kn kannada 355; every change is a row of review/refs_applied.tsv.

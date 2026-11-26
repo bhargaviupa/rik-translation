@@ -6,7 +6,7 @@
  "year": "1947",
  "press": "Śrī Cāmuṇḍeśvarī Electric Press, Mysore",
  "english_md": "vol1/Rigveda_Samhita_Vol1_English_Translation.md",
- "kannada_md": "vol1/kannada/Rigveda_Samhita_Vol1_Kannada_Text.md",
+ "kannada_md": "vol1/Rigveda_Samhita_Vol1_Kannada_Text.md",
  "out": "vol1_full",
  "kannada_only": true,
  "_note": "Only the Kannada book of Vol 1 is built by publish/volbook.py (python3 publish/volbook.py 1 kan); the English is built by publish/build_vol1.py. Year and press from the colophon of the supplied text (24-10-1947, Chamundeshwari Electric Press): to be confirmed by the user."

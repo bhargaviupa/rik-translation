@@ -1,0 +1,35 @@
+{
+ "vol": 26,
+ "mandala": 9,
+ "branch": "claude/epic-curie-xg7s3d",
+ "source": [
+  "vol26/html/rig_26.md@1-894"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol26/Rigveda_Samhita_Vol26_Kannada_Text.md",
+  "en": "vol26/Rigveda_Samhita_Vol26_English_Translation.md"
+ },
+ "work": "vol26/work",
+ "window": 6,
+ "mandalas": [
+  9
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/epic-curie-xg7s3d"
+ ],
+ "doubt_check": "kn_only"
+}

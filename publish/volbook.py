@@ -356,6 +356,23 @@ def abbreviations(cfg):
     role = cfg.get('front', {}).get('abbreviations')
     return scan(fm(cfg)[role], 'scan', 'List of abbreviations') + '\n' if role and role in fm(cfg) else ''
 
+def references_list_html(cfg, kan=False):
+    """List of the works cited in THIS volume, from the one reviewed list (rv/references.tsv), placed right after the contents (user, Nov 26 2026).
+    Only forms that stand before a reference number in the volume's English text are listed; the order is the list's order."""
+    rows = [l.split('\t') for l in (ROOT / 'rv' / 'references.tsv').read_text(encoding='utf8').split('\n')[1:] if l.count('\t') >= 3]
+    txt = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
+    used = []
+    for r in rows:
+        if r[3] not in ('legend', 'extra'): continue
+        forms = [x.strip() for x in r[0].split(' or ')]
+        n = sum(len(re.findall(r'(?<![\w.])' + re.escape(x) + r'(?=\s?\d)', txt)) for x in forms)
+        if n: used.append((r[0], r[1], r[2], n))
+    if not used: return ''
+    head = '<tr><th>Form used here</th>' + ('<th>As printed (Kannada)</th>' if kan else '') + '<th>Work</th></tr>'
+    body = ''.join(f'<tr><td>{html.escape(e)}</td>' + (f'<td class="kn">{html.escape(k)}</td>' if kan else '') + f'<td>{html.escape(w)}</td></tr>' for e, k, w, n in used)
+    return ('<section class="abbr refl"><h2>List of references</h2><p class="abintro">The works cited in this volume and the form of each name used in the notes '
+            f'(one list for all volumes)</p><table>{head}{body}</table></section>')
+
 def build_eng(cfg, html_only):
     md = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
@@ -401,7 +418,8 @@ def build_eng(cfg, html_only):
     else:
         idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
-    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
+    refl = references_list_html(cfg)
+    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
 
 def kannada_front_matter_fallback(cfg):
     """Only used when the volume has no preface scans: the supplied text up to the Pīṭhike (the Om line that opens printed p. 1)."""
@@ -472,6 +490,7 @@ def build_kan(cfg, html_only):
     md = (ROOT / cfg['kannada_md']).read_text(encoding='utf-8')
     sys.path.insert(0, str(ROOT / 'tools' / 'rv')); import headings as _hd
     md, nlev = _hd.apply_kn(md, cfg['vol']); print(f'[kan] title lines set as headings by level (volN/data/headings_kn.tsv): {nlev}')
+    md = re.sub(r'(?m)[ \t]*\{\.[\w-]+\}[ \t]*$', '', md)          # '{.headline}', '{.section-title}' left by the conversion of the supplied file
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
     # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
@@ -518,7 +537,8 @@ def build_kan(cfg, html_only):
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
     ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
-    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only, cfg['vol'])
+    refl = references_list_html(cfg, kan=True)
+    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + refl + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only, cfg['vol'])
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]

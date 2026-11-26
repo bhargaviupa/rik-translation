@@ -112,6 +112,9 @@
 ಋಕ್ಕುಗಳು ಗಾಯತ್ರಿಛಂದಸ್ಕವು. ಉಳಿದ ಹದಿನಾಲ್ಕು ಋಕ್ಕುಗಳು ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿಪುರೋಜಿತೀ ಷೋಳಶ ಶ್ಯಾವಾಶ್ವರಂಧೀಗುರ್ಯಯಾತಿರ್ನಾಹುಷೋ ಮಾನವೋ ಮನುಃ ಸಾಂವರಣ
 ಇತಿ ತೃಚಾಃ ಶೇಷೇ ಪ್ರಜಾಪತಿರುಪಾದ್ಯೇ ಗಾಯತ್ರೌ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತದ ವಿನಿಯೋಗ
 ವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೧
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೬ । ಸೂಕ್ತ—೧೦೧ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೫ । ವರ್ಗ—೧, ೨, ೩ ।
@@ -121,6 +124,9 @@
 ಪ್ರಜಾಪತಿಃ ॥
 ದೇವತಾ—ಪವಮಾನ ಸೋಮಃ ।
 ಛಂದಃ—೧, ೪-೧೬. ಅನುಷ್ಟುಪ್ । ೨, ೩. ಗಾಯತ್ರಿ : ।
+
+#### ಋಕ್ ೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 > ಪುರೋಜಿತೀ ವೋ ಅಂಧಸಃ ಸುತಾಯ ಮಾದಯಿತ್ನವೇ ।
 > ಅಪ ಶ್ವಾನಂ ಶೃಥಿಷ್ಟನ ಸಖಾಯೋ ದೀರ್ಘಜಿಹ್ವಂ ॥ ೧ ॥
@@ -135,7 +141,7 @@
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಹೇ ಸಖಾಯಃ ಸಖಿಭೂತಾಃ ಸಮಾನಖ್ಯಾನಾ ವಾ ಹೇ ಸ್ತೋತಾರಃ ವೋ ಯೂಯಂ ಪುರೋಜಿತೀ ॥ ಷಷ್ಟ್ಯಾಃ ಪೂರ್ವಸವರ್ಣದೀರ್ಘಃ । ಪುರಸ್ಥಿತಜಯಸ್ಯಾಂಧಸೋಽದನೀಯಸ್ಯ ಸೋಮಸ್ಯ
-> ಸ್ವಭೂತಾಯ ಸುತಾಯಾಭಿಷುತಾಯ ಮಾದಯತ್ನವೇಽತ್ಯಂತಂ ಮದಕರಾಯ ರಸಾಯ ದೀರ್ಘಜಿಹ್ವಂ ದೀರ್ಘಾ ಜಿಹ್ವಾ ಯಸ್ಯ ಸಃ ॥ ದೀರ್ಘಜಿಹ್ವೀ ಚ ಛಂದಸಿ। ಪಾ. ೪-೧-೫೯ । ಇತಿ ಜೀಷಂತತ್ವೇನ
+> ಸ್ವಭೂತಾಯ ಸುತಾಯಾಭಿಷುತಾಯ ಮಾದಯತ್ನವೇಽತ್ಯಂತಂ ಮದಕರಾಯ ರಸಾಯ ದೀರ್ಘಜಿಹ್ವಂ ದೀರ್ಘಾ ಜಿಹ್ವಾ ಯಸ್ಯ ಸಃ ॥ ದೀರ್ಘಜಿಹ್ವೀ ಚ ಛಂದಸಿ। ಪಾ. ಸೂ. ೪-೧-೫೯ । ಇತಿ ಜೀಷಂತತ್ವೇನ
 > ನಿಪಾತಿತಃ ॥ ತಾದೃಶಂ ಶ್ವಾನಮಪ ಶ್ವಥಿಷ್ಟನ । ಅಪಶ್ನಥಯತ । ಅಪಬಾಧಧ್ವಂ! ಯಥಾ ಶ್ವಾ ರಾಕ್ಷಸಾ
 > ನಾ ಸುತಂ ಸೋಮಂ ನ ಲಿಹಂತಿ ತಥಾ ಕುರುತೇತ್ರ್ಥಃ ॥
 
@@ -174,6 +180,8 @@ For (the drinking of) the effused exhilarating (juice) of the Soma who has place
 ಗಳಿರುವರು ; ೧೦೭ ನೆಯ ಸೂಕ್ತದಲ್ಲಿ ಸಪ್ತರ್ಷಿಗಳಿರುವರು. ಈ ಸಪ್ತರ್ಷಿಗಳು ಯಾರು ಎಂಬ ವಿಷಯವನ್ನು
 ನಾವು ಹಿಂದೆಯೇ ವಿವರಿಸಿದೇವೆ. ೧೦೮ ನೆಯ ಸೂಕ್ತದಲ್ಲಿ ವಸಿಷ್ಠವಂಶದ ಗೌರವೀತಿ ಮೊದಲಾದ ಏಳುಮಂದಿ
 ಋಷಿಗಳಿರುವರು. ಅನೇಕ ಮಂದಿ ಋಷಿದೃಷ್ಟವಾದ ಕೆಲವು ಸೂಕ್ತಗಳು ೧೦ ನೆಯ ಮಂಡಲದಲ್ಲಿಯೂ ಇರುವವು.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -218,6 +226,8 @@ The Indu good for sacred rites which when effused flows forth in a purifying str
 ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಪಾವಕವಂತಾವಾಜ್ಯಭಾಗಾವಗ್ನೀ ರಕ್ಷಾಂಸಿ ಸೇಧತಿ ಯೋ ಧಾರಯಾ ಪಾವಕಯಾ ಎಂಬ ಸೂತ್ರದಿಂದ ( ಆ. ೨-೧೨ )
 ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ದುರೋಷಮಭೀ ನರಃ ಸೋಮಂ ವಿಶ್ವಾಚ್ಯಾ ಧಿಯಾ ।
@@ -257,6 +267,8 @@ The Indu good for sacred rites which when effused flows forth in a purifying str
 
 Him, the Soma, unassailable, adorable, the priests, with all comprehending intelligence, express with the stones.
 *[೧ ಸಂಹಿತಾಪಾಠಿ ೧]*
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -305,6 +317,8 @@ The sweet-flavoured exhilarating Soma juices effused (and) filtered flow for Ind
 ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ದಧಿಕ್ರಾವೋಽಕಾರಿಸಮಿತ್ಯನುಷ್ಟುಪ್ ಸುತಾಸೋ ಮಧುಮತ್ತಮಾ ಇತಿ
 ಚ ತಿಸ್ತ್ರಃ ಎಂಬ ಸೂತ್ರದಿಂದ ( ಆ. ೮-೩ ) ವಿವೃತವಾಗಿರುವುದು
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದುರಿಂದ್ರಾಯ ಪವತ ಇತಿ ದೇವಾಸೋ ಅಬ್ರುವನ್ ।
@@ -347,6 +361,8 @@ The sweet-flavoured exhilarating Soma juices effused (and) filtered flow for Ind
 
 The devout (worshippers) say "Indu flows forth for Indra ": the lord of speech (Soma) sovereign of all by his might desires (our) worship.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಹಸ್ರಧಾರಃ ಪವತೇ ಸಮುದ್ರೋ ವಾಚಮೀಂಖಯಃ ।
@@ -384,6 +400,8 @@ The devout (worshippers) say "Indu flows forth for Indra ": the lord of speech (
 
 The thousand-streamed ocean, Soma the simulator of praise, the lord of riches, the friend of Indra flows day by day.
 *[, ಸಂಹಿತಾಕಾರ ॥]*
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -427,6 +445,8 @@ giving, to be enjoyed (by all) ; the lord of all beings, he has illuminated
 both heaven and earth.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮು ಪ್ರಿಯಾ ಅನೂಷತ ಗಾವೋ ಮದಾಯ ಘೃಷ್ಟಯಃ ।
@@ -465,6 +485,8 @@ both heaven and earth.
 
 The affectionate emulous cows celebrate (Soma) for his exhilaration;
 the brilliant filtered (Soma) juices make paths (for themselves to flow).
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -507,6 +529,8 @@ Bring to us, filtered (Soma), that celebrated (liquor) which is most
 potent, which (waits) upon the five orders of beings and by which we may
 obtain riches.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮಾಃ ಪವಂತ ಇಂದವೋಽಸ್ಮಭ್ಯಂ ಗಾತುವಿತ್ತಮಾಃ ।
@@ -546,6 +570,8 @@ obtain riches.
 
 The brilliant Soma juices flow for us knowing the right path, friendly (to the gods), effused, sinless, contemplative, all knowing.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುಸ್ವಾಣಾಸೋ ವ್ಯದ್ರಿಭಿಶ್ಚಿತಾನಾ ಗೋರಧಿ ತ್ವಚಿ ।
@@ -582,6 +608,8 @@ Effused by the stones, recognized upon the cowhide, acquirers of wealth they bes
 *[14 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯..ಅ. ೬..ಸೂ. ೧೦೧]*
 
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏತೇ ಪೂತಾ ವಿಪಶ್ಚಿತಃ ಸೋಮಾಸೋ ದಧ್ಯಾಶಿರಃ ।
@@ -615,6 +643,8 @@ Effused by the stones, recognized upon the cowhide, acquirers of wealth they bes
 These Filtered Soma juices , intelligent, mixed with curds, swift-
 moving, firm in the water (are) brilliant as suns.
 *[॥ ಸಂಹಿತಾಪ್ರಕಾಶ ॥]*
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -653,6 +683,8 @@ moving, firm in the water (are) brilliant as suns.
 *English Translation.*
 
 Let no mortal hear the sound of the effused Soma ; drive off the dog that sacrifices not as the Bhrigus drove off Makha.
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -696,6 +728,8 @@ Let no mortal hear the sound of the effused Soma ; drive off the dog that sacrif
 (Soma) the kinsman (of the gods) is enveloped in the investing filter like a child in the arms of its pretecting parents ; he hastens like a gallant to a mistress, like a bridegroom (to the bride), to sit upon his station (the pitcher).
 *[॥ ಗಡಿಪಾರು.]*
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವೀರೋ ದಕ್ಷಸಾಧನೋ ವಿ ಯಸ್ತಸ್ತಂಭ ರೋದಸೀ ।
@@ -738,6 +772,8 @@ The green-tinted (Soma), the implement of strength, the hero, who
 has upheld heaven and earth, is enveloped in the filter like the sacrificer
 (in his house) to sit upon his station.
 *[॥ ಸಂತಾಪಃ ॥]*
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -800,6 +836,8 @@ prepared station
 <!-- printed 19 -->
 *[ಆ. ೭. ಆ. ೫. ವ. ೪.] ಋಗ್ವೇದಸಂಹಿತಾ 19]*
 
+## ಸೂಕ್ತ ೧೦೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೨
 ಮಂಡಲ—೯ ॥ ಅನುನಾಕ—೬ ॥ ಸೂಕ್ತ—೧೦೨ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೪, ೫ ॥
@@ -808,6 +846,8 @@ prepared station
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಉಷ್ಣಿಕ್ ॥
 ೧ ಪರಿಶುದ್ಧತಾತ್ಪರಂ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -852,6 +892,8 @@ Performing (sacred rites) the child of the great (waters) sending
 forth the lustre of the sacrifice (Soma) produces all acceptable (oblations)
 and (abides) in the two worlds.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಪ ತ್ರಿತಸ್ಯ ಪಾಷ್ಯೋಽರಭಕ್ತ ಯದ್ಗುಹಾ ಪದಂ ।
@@ -891,6 +933,8 @@ and (abides) in the two worlds.
 
 When the Soma has taken the secret station of the grinding stones (at the sacrifice) of Trita, then with the seven supports of the sacrifice (the priests praise) the conciliating (Soma).
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ರೀಣಿ ತ್ರಿತಸ್ಯ ಧಾರಯಾ ಪೃಷ್ಠೇಷ್ವೇರಯಾ ರಯಿಂ ।
@@ -929,6 +973,8 @@ When the Soma has taken the secret station of the grinding stones (at the sacrif
 (Support, Soma;) with your stream Trita's three (oblations) ; cause
 the giver of riches (Indra) to come to the sacred songs. The intelligent
 (praiser) of this (Indra) measures out hymns.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -971,6 +1017,8 @@ the giver of riches (Indra) to come to the sacred songs. The intelligent
 
 The seven mothers instruct the (Soma) the institutor (of the sacrifice) when born for the prosperity (of the worshippers), so that this firm Soma is cognizant of riches.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ಯ ವ್ರತೇ ಸಜೋಷಸೋ ವಿಶ್ವೇ ದೇವಾಸೋ ಅದ್ರುಹಃ ।
@@ -1009,6 +1057,8 @@ The universal gods, devoid of malice, assembled together at his rite, are to be 
 *[24 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಆ. ೬. ಸೂ. ೧೦೨]*
 
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1050,6 +1100,8 @@ The germ which the augmenters of the rite brought forth at the sacrifice lovely 
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮಾಚೀನೇ ಅಭಿ ತ್ಮನಾ ಯದ್ವೀ ಋತಸ್ಯ ಮಾತರಾ ।
@@ -1089,6 +1141,8 @@ He of his own will approaches the great united parents of the sacrifice (heaven 
 *[26	ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ	[ ಮಂ. ೯. ಆ. ೬. ಸೂ. ೧೦೫.]*
 
 *[ಸಂಹಿತಾಚಾರ್ಯ]*
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1136,6 +1190,9 @@ rite.
 ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ದ್ವಿತ ಆಪ್ತ್ಯಃ ಎಂಬುವನು ಋಷಿಯು ; ಈ ಸೂಕ್ತದ ದೇವತಾ
 ಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಇವೆ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಪುನಾನಾಯ ಷಡ್ದ್ವಿತ ಆಪ್ತ್ಯಃ
 ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ-೧೦೩
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೬ । ಸೂಕ್ತ—೧೦೩ ॥
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೫ । ವರ್ಗ—೬ ।
@@ -1144,6 +1201,8 @@ rite.
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಉಷ್ಣಿಕ್ ॥
 *[೪ ಸಂಹಿತಾಪಾರ್ಶ್ವ ॥]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1186,6 +1245,8 @@ rite.
 
 Raise a loud voice to Soma the institutor (of the rite), purified, gratified by praises, as (men pay) wages (to a labourer).
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಿ ವಾರಾಣ್ಯವ್ಯಯಾ ಗೋಭಿರಂಜಾನೋ ಅರ್ಷತಿ ।
@@ -1222,6 +1283,8 @@ Raise a loud voice to Soma the institutor (of the rite), purified, gratified by 
 *English Translation.*
 
 Blending with the curds and milk the Soma rushes through the woollen fleece ; the green-tinted Soma being purified takes up three stations.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1261,6 +1324,8 @@ Blending with the curds and milk the Soma rushes through the woollen fleece ; th
 The Soma sends forth (its juice) through the woollen fleece to the honey-dripping receptacle ; the seven metres of the Rishis praise (it)
 *[೧ ಸಹಿತಾಪಾತಿ ।]*
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಿ ಣೇತಾ ಮತೀನಾಂ ವಿಶ್ವದೇವೋ ಅದಾಭ್ಯಃ ।
@@ -1298,6 +1363,8 @@ The Soma sends forth (its juice) through the woollen fleece to the honey-drippin
 
 Soma, the leader of praises, in whom all the gods are comprehended
 unassailable, green-tinted when filtered, enters the cups.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1337,6 +1404,8 @@ unassailable, green-tinted when filtered, enters the cups.
 *English Translation.*
 
 Proceed in the same chariot with Indra to the celestial hosts, a priest purified by priests, immortal.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1391,6 +1460,9 @@ the gods hastens when purified spreading widely into the vessels-
 ದಂತೆಯೇ ಈ ಸೂಕ್ತಕ್ಕೂ ದೇವತಾಛಂದಸ್ಸುಗಳು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸಖಾಯಃ ಪರ್ವತನಾರದೌ
 ಕಾಶ್ಯಪೌ ದ್ವೇ ಶಿಖಂಡಿನ್ಯಾ ವಾಪ್ಸರಸೌ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತದ ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ
 ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೪ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೪
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೧೦೪ ॥
 ಅಷ್ಟಕ—೨ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೭ ॥
@@ -1398,6 +1470,8 @@ the gods hastens when purified spreading widely into the vessels-
 ಋಷಿ:—ಪರ್ವತನಾರದೌ ದ್ವೇ ಶಿಖಂಡಿನ್ಸೌ ವಾ ಕಾಶ್ಯಪ್ಯಾವತ್ಸರಸೌ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಉಷ್ಣಿಕ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1435,6 +1509,8 @@ the gods hastens when purified spreading widely into the vessels-
 *English Translation.*
 
 Sit down, friends, sing to the filtered Soma, decorate him with offerings to beautify him as (parents decorate) a child.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1484,6 +1560,8 @@ Associate him the support of the mansion with the maternal (waters) as the calf 
 ವಿವೃತವಾಗಿರುವುದು.
 *[u ಸಂಗತೀಶ ।]*
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುನಾತಾ ದಕ್ಷಸಾಧನಂ ಯಥಾ ಶರ್ಧಾಯ ವೀತಯೇ ।
@@ -1526,6 +1604,8 @@ for the banquet (of the gods) and may grant much happiness to Mitra and
 to Varuna.
 *[೧ ಸಂವಾದ ೧]*
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ಮಭ್ಯಂ ತ್ವಾ ವಸುವಿದಮಭಿ ವಾಣೀರನೂಷತ ।
@@ -1556,6 +1636,8 @@ to Varuna.
 *English Translation.*
 
 For us the hymns glorify you the giver of wealth; we clothe your form with the (products of the cows).
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1593,6 +1675,8 @@ For us the hymns glorify you the giver of wealth; we clothe your form with the (
 *English Translation.*
 
 Lord of our exhilaration, Indu, you are of the brilliant form ; be our true gnide as a friend is to a friend.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1638,6 +1722,9 @@ Rakshasa, the impious, the double dealer—drive away our sin.
 > ತಂ ವ ಇತಿ ಷಡೃಚಂ ದ್ವಿತೀಯಂ ಸೂಕ್ತಂ । ಪರ್ವತನಾರದಯೋರಾರ್ಷಂ । ಅನ್ಯತ್ಪೂರ್ವವತ್ ।
 > ತಂ ವ ಇತ್ಯನುಕ್ರಾಂತಂ ॥ ಗತಃ ಸೂಕ್ತವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು— ತಂ ವಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಏಳನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎರಡನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಒಂದನ ಸೂಕ್ತದಂತೆ ಪರ್ವತನಾರದರೆಂಬೀರ್ವರು ಋಷಿಗಳು. ಋಷಿ- ದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ತಂ ವಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೫ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೫
 ಮಂಡಲ—೯ । ಅನುವಾಕ— ೭। ಸೂಕ್ತ—೧೦೫ ॥
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೫ । ವರ್ಗ—೮ ॥
@@ -1649,6 +1736,8 @@ Rakshasa, the impious, the double dealer—drive away our sin.
 <!-- printed 40 -->
 *[40 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೫]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1690,6 +1779,8 @@ ornaments).
 *[ವ. ೭. ಆ. ೫. ನ. ೮.] ಋಗ್ವೇದಸಂಹಿತಾ 41]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ೫೦ ವತ್ಸ ಇವ ಮಾತೃಭಿಃಮೂರ್ತಿನ್ವಾನೋ ಅಜ್ಯತೇ ।
@@ -1708,7 +1799,7 @@ ornaments).
 > ಸಿಕ್ತೋ ಭವತಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ವತ್ಸ ಇವ ವತ್ಸೋ ಯಥಾ ಮಾತೃಭಿಗರ್ಗೋಭಿಃ ಸಮಕ್ತೋ
 > ಭವತಿ ತದ್ವತ್ । ಕೀದೃಶಃ । ದೇವಾನೀರ್ದೇವಾನಾಂ ರಕ್ಷಕೋ ಮದೋ ಮದಕರೋ ಮತಿಭಿಃ
 > ಸ್ತುತಿಭಿಃ ಪರಿಷ್ಕೃತೋಽಲಂಕೃತಃ ॥ ಭೂಷಣಾರ್ಥೇ ಸಂಪರ್ಯುಪೇಭ್ಯ ಇತಿ ಸುಡಾಗಮಃ । ಪರಿನಿವಿಭ್ಯಃ ।
-> ಪಾ. ೮-೩-೭೦ । ಇತಿ ಸುಟಃ ಷತ್ವಂ ॥
+> ಪಾ. ಸೂ. ೮-೩-೭೦ । ಇತಿ ಸುಟಃ ಷತ್ವಂ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
 
@@ -1737,6 +1828,8 @@ Indu being sent forth is sprinkled (with waters) as a calf (is nourished) by its
 ಪ್ರವರ್ಗ್ಯವೆಂಬ ಯಾಗದ ಅಭಿಷ್ಟವದಲ್ಲಿ ಸಂ ವತ್ಸ ಇವ ಮಾತೃಭಿಃ ಎಂಬ ಈ ಋಕ್ಕಿನ ವಿನಿಯೋಗ
 ವಿರುವುದೆಂದು ಸಮಿ ವತ್ಸಂ ಎಂಬ ಋಕ್ಕಿನ ವಿನಿಯೋಗವನ್ನು ಹೇಳುವ ಸಂದರ್ಭದಲ್ಲಿ ಹೇಳಲಾಗಿದೆ (೯-೧೦೪-೨)
 *[, ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1778,6 +1871,8 @@ This (Soma) is an instrument for invigoration; he (is useful) for speed (and) fo
 *[ಆ. ೭. ಆ. ೫. ವ. ೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 43]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಗೋಮನ್ನ ಇಂದೋ ಅಶ್ವವತ್ಸುತಃ ಸುದಕ್ಷ ಧನ್ವ ।
@@ -1817,6 +1912,8 @@ Powerful Indu who are effused, pour upon us ( wealth ) comprising cattle and hor
 *[44 ಸಾಯಣಭಾಷ್ಪಸಹಿತಾ [ಮಂ. ೯. ಅ. ೬. ಸೂ. ೧೦೫]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ನೋ ಹರೀಣಾಂ ಪತ ಇಂದೋ ದೇವಪ್ಸರಸ್ತಮಃ ।
@@ -1854,6 +1951,8 @@ Lord of our bay-coloured (cattle), Indu, who have a most brilliant form, you who
 <!-- printed 45 -->
 *[೮. ೭ ಅ. ೫. ವ. ೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 45]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1906,6 +2005,9 @@ us, (drive) off the double-dealing (Rakshasa).
 ಪುತ್ರನಾದ ಮನುವೆಂಬುವನು ಋಷಿಯು ; ಈ ರೀತಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಾದ ಮೇಲೆ ಉಳಿದ ಐದು ಋಕ್ಕುಗಳಿಗೆ
 ಚಕ್ಷುಃ ಎಂಬ ಋಷಿಯ ಪುತ್ರನಾದ ಅಗ್ನಿಯು ಋಷಿಯು. ಅನುಕ್ರಮಣಿಗಯಲ್ಲಿ— ಇಂದ್ರಮಚ್ಚ ಷಳೂನಾಗ್ನಿಶ್ಚಾಕ್ಷುಪಶ್ಚಕ್ಷುರ್ಮಾನವೋ ಮನುರಾಪ್ಸವ ಇತಿ ತೃಚಾಃ ಪಂಚಾಗ್ನಿಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗ
 ವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೬ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೬
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೭ । ಸೂಕ್ತ—೧೦೬ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೯, ೧೦, ೧೧ ।
@@ -1914,6 +2016,8 @@ us, (drive) off the double-dealing (Rakshasa).
 ೧೦-೧೪. ಅಗ್ನಿಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಉಷ್ಣಿಕ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1954,6 +2058,8 @@ us, (drive) off the double-dealing (Rakshasa).
 May these effused green-tinted Soma juiees quickly generated, all-
 knowing, proceed to Indra the showerer (of benefits).
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಂ ಭರಾಯ ಸಾನಸಿರಿಂದ್ರಾಯ ಪವತೇ ಸುತಃ ।
@@ -1992,6 +2098,8 @@ knowing, proceed to Indra the showerer (of benefits).
 *English Translation.*
 
 This effused Soma adorable for battle, is filtered for Indra ; Soma thinks of the victorious (Indra) as he is known (in the world).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2034,6 +2142,8 @@ In the Soma's exhilaration may Indra Seize hold of wealth to be
 enjoyed (by all) and conquering Vritra in the waters may he wield the
 thunderbolt the showerer (of blessings).
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಧನ್ವಾ ಸೋಮ ಜಾಗೃವಿರಿಂದ್ರಾಯೇಂದೋ ಪರಿ ಸ್ರವ ।
@@ -2074,6 +2184,8 @@ xxv 4
 *English Translation.*
 
 Flow Soma who are vigilant ; Indu, spread around for Indra ; bring brilliant overpowering all-obtaining (strength)-
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2116,6 +2228,8 @@ Pour forth for Indra the exhilarating (juice) showering (benefits),
 you who are very beautiful, who have many paths, the finder of the (right)
 path, the observer (of all).
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ಮಭ್ಯಂ ಗಾತುವಿತ್ತಮೋ ದೇವೇಭ್ಯೋ ಮಧುಮತ್ತಮಃ ।
@@ -2149,6 +2263,8 @@ path, the observer (of all).
 
 You who are the best finder of paths for us, the sweet beverage for
 the gods, come by a thousand paths crying aloud.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2185,6 +2301,8 @@ the gods; sit down, Soma, who are sweet-flavoured, in our pitcher.
 <!-- printed 53 -->
 *[ಅ. ೭. ಅ. ೫. ವ. ೧೦. ] ಋಗ್ವೇದಸಂಹಿತಾ 53]*
 
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2225,6 +2343,8 @@ the gods have quaffed you, the deighter‘ for immortality,
 *[54 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯, ಆ. ೭. ಸೂ. ೧೦೬]*
 
 *[೧ ಸಂವಾದ ೧]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2267,6 +2387,8 @@ Bring us wealth, bright Soma juices effused, filtered, filling the sky with rain
 
 *[॥ ಸಂಹಿತಾಪಾಠ ೦]*
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮಃ ಪುನಾನ ಊರ್ಮಿಣಾವ್ಯೋ ವಾರಂ ವಿ ಧಾವತಿ ।
@@ -2298,6 +2420,8 @@ Bring us wealth, bright Soma juices effused, filtered, filling the sky with rain
 *English Translation.*
 
 Soma being filtered flows in a stream through the woollen fleece, crying aloud when filtered in advance of the voice (of praise).
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2338,6 +2462,8 @@ Soma being filtered flows in a stream through the woollen fleece, crying aloud w
 *English Translation.*
 
 They send forth with their fingers the powerful Soma sporting in the water, passing through the fleece; praises celebrate him abiding in the hree receptacles.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2380,6 +2506,8 @@ Desiring (to give the worshipper) food he has been let loose into the
 pitchers like a charger in battle ; being filtered, raising a cry he flows (into
 the vessels)
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವತೇ ಹರ್ಯೆತೋ ಹರಿರತಿ ಹ್ವರಾಂಸಿ ರಂಹ್ಯಾ ।
@@ -2416,6 +2544,8 @@ the vessels)
 *English Translation.*
 
 The delightful green-tinted (juice) flows with rapidity into the crooked (pitchers); bringing the worshippers food and male offspring.
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2460,7 +2590,7 @@ in all directions.
 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
-> ಪರೀತ ಇತಿ ಷಡ್ವಿಂಶತ್ಯಚಂ ಚತುರ್ಥಂ ಸೂಕ್ತಂ । ತ್ವಂ ಸೋಮಾಸಿ । ಋ. ೯.೬೭ । ಇತ್ಯತ್ರೋಕ್ತಾ ಭರದ್ವಾಜಕಶ್ಯಪಾದ್ಯಾಃ ಸಪ್ತರ್ಷಯಃ । ಆದ್ಯಾ ಬೃಹತೀ ದ್ವಿತೀಯಾ ಸತೋಬೃಹತೀ ।
+> ಪರೀತ ಇತಿ ಷಡ್ವಿಂಶತ್ಯಚಂ ಚತುರ್ಥಂ ಸೂಕ್ತಂ । ತ್ವಂ ಸೋಮಾಸಿ । ಋ. ಸಂ. ೯.೬೭ । ಇತ್ಯತ್ರೋಕ್ತಾ ಭರದ್ವಾಜಕಶ್ಯಪಾದ್ಯಾಃ ಸಪ್ತರ್ಷಯಃ । ಆದ್ಯಾ ಬೃಹತೀ ದ್ವಿತೀಯಾ ಸತೋಬೃಹತೀ ।
 > ಅಯಮೇಕಃ ಪ್ರಗಾಥಃ । ಪರಿ ಸುವಾನ ಇತ್ಯೇಷಾ ತೃತೀಯೈಕವಿಂಶತ್ಯಕ್ಷರಾ ಭುರಿಗ್ವಿರಾಡ್ ದ್ವಿಪದಾ ।
 > ನೃಭಿರ್ಯೆಮಾನ ಇತಿ ಷೋಡಶಿವಿಂಶತ್ಯಕ್ಷರಾ ದ್ವಿಪದಾ ವಿರಾಟ್ । ಚತುರ್ಥ್ಯಾದಿದ್ವೌ ಪ್ರಗಾಥೌ ।
 > ದಶಮ್ಯಾದಿತ್ರಯಃ ಸಪ್ತದಶ್ಯಾದಿಪಂಚ ಪ್ರಗಾಥಾಃ । ಪವಮಾನಃ ಸೋಮೋ ದೇವತಾ । ತಥಾ
@@ -2480,6 +2610,9 @@ in all directions.
 ಋಕ್ಕಿನಿಂದ ಮುಂದಕ್ಕೆ ಎರಡು ಪ್ರಗಾಥಗಳು. ಹತ್ತರಿಂದ ಮೂರು ಋಕ್ಕುಗಳೂ ಹದಿನೇಳರಿಂದ ಐದು ಋಕ್ಕುಗಳೂ
 ಪ್ರಗಾಥಗಳು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪರೀತಃ ಷಡ್ವಿಂಶತಿಃ ಸಪ್ತರ್ಷಯಃ ಪ್ರಾಗಾಥಂ ತೃತೀಯಷೋಳಶ್ಯಾ
 ದ್ವಿಪದೇ ಅಷ್ಟಮಾದ್ಯೇ ಬೃಹತ್ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೭ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೭
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೧೦೭ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೧೨, ೧೩, ೧೪, ೧೫, ೧೬ ॥
@@ -2491,6 +2624,8 @@ in all directions.
 ಚಂದಃ—೧, ೪, ೬, ೮-೧೦, ೧೨, ೧೪, ೧೭, ೧೯, ೨೧, ೨೩, ೨೫, ಬೃಹತೀ । ೨,೫,
 ೭, ೧೧, ೧೩, ೧೫, ೧೮, ೨೦, ೨೨, ೨೪, ೨೬. ಸತೋಬೃಹತೀ । ೩,೧೬.
 ದ್ವಿಪದಾ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2539,6 +2674,8 @@ Sprinkle from hence the effused Soma-juice which is the best
 oblation (to the gods), and which, good for man, is going into the midst
 of the firmament ; (the priest) has expressed the Soma with the stones.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನೂನಂ ಪುನಾನೋಽವಿಭಿಃ ಪರಿ ಸ್ರವಾದಬ್ಧಃ ಸುರಭಂತರಃ ।
@@ -2582,6 +2719,8 @@ of the firmament ; (the priest) has expressed the Soma with the stones.
 now being purified by the fleece ; being effused we praise you eminent in
 the waters mixing you with food and the (products of the) cows.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪಠ ಸುವಾನಶ್ಚಕ್ಷಸೇ ದೇವಮಾದನಃ ಕ್ರತುರಿಂದುರ್ವಿಚಕ್ಷಣಃ ॥ ೩ ॥
@@ -2615,6 +2754,8 @@ the waters mixing you with food and the (products of the) cows.
 *English Translation.*
 
 Being effused the Indu flows so as to be seen (of all) the exhilarator of the gods, the agent (in holy acts), the observer of all.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2656,6 +2797,8 @@ Being effused the Indu flows so as to be seen (of all) the exhilarator of the go
 *English Translation.*
 
 Undergoing purification you flow Soma in a stream clothed in the (consecrated) waters; the giver of wealth you sit on the place of sacrifice, divine (Soma), who flow forth, who are the origin of gold.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2703,6 +2846,8 @@ down on its ancient place of aggregation ( the firmament ); food-giving,
 cleansed by the priests, observant it flows to the commendable worshipper.
 *[, Kr. & ಪ್ರಾಕೃತ ॥]*
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರಸನ್ನಃ ಸೋಮ ಜಾಗೃಪಿರವ್ಯೋ ವಾರೇ ಪರಿ ಪ್ರಿಯಃ ।
@@ -2744,6 +2889,8 @@ cleansed by the priests, observant it flows to the commendable worshipper.
 
 Soma, who are purified, vigilant, agreeable (you flow ) through the woolen fleece ; you are intelligent, the chief of the Angirasas, squinkle our oblation with your exhilarating juice.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮೋ ಮೀಢ್ವಾನ್ನವತೇ ಗಾತುವಿತ್ತಮ ಋಷಿರ್ವಿಪ್ರೋ ವಿಚಕ್ಷಣಃ ।
@@ -2784,6 +2931,8 @@ Rishi, a sage, ali-discriminating : you are a seer, most devoted to the gods ;
 you have made the sun to mount the sky.
 *[೩ ಕೋಟಿ ರೂಪಾಯಿ.]*
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮ ಉಷುವಾಣಃ ಸೋತೃಭಿರಧಿ ಷ್ಣುಭಿರವೀನಾಂ ।
@@ -2801,7 +2950,7 @@ you have made the sun to mount the sky.
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಸೋತೃಭಿರಭಿಷುಣ್ವದ್ಭಿರ್ಯೃತ್ವಿಗ್ನಿಃ ಸುವಾನೋಽಭಿಷೂಯಮಾಣಃ ಸೋಮೋಽವೀನಾಂ
-> ಸ್ನುಭಿಃ । ಮಾಂಸೃತ್ಸೂನಾಮುಪಸಂಖ್ಯಾನಂ । ಪಾ. ೬-೧-೬೩-೧ । ಇತಿ ಸಾನುಶಬ್ದಸ್ಯ ಸ್ನುಭಾವಃ ॥
+> ಸ್ನುಭಿಃ । ಮಾಂಸೃತ್ಸೂನಾಮುಪಸಂಖ್ಯಾನಂ । ಪಾ. ಸೂ. ೬-೧-೬೩-೧ । ಇತಿ ಸಾನುಶಬ್ದಸ್ಯ ಸ್ನುಭಾವಃ ॥
 > ಸಮುಚ್ಛ್ರಿತೈರ್ವಾಲೈಃ ಪವಿತ್ರೈರಧಿ ಯಾತಿ । ಅಧಿಕಂ ಗಚ್ಛತಿ । ಉ ಇತಿ ಪ್ರಸಿದ್ಧೌ । ಅಶ್ವಯೇವ
 > ಬಡವಯೇವ ಹರಿತಾ ಹರಿತವರ್ಣಯಾ ಧಾರಯಾ ಯಾತಿ । ಮಂದ್ರಯಾ ಮದಕಾರಿಣ್ಯಾ ಧಾರಯಾ
 > ದ್ರೋಣಕಲಶಮಭಿಗಚ್ಛತಿ ॥
@@ -2824,6 +2973,8 @@ you have made the sun to mount the sky.
 
 Effused by the effusers Soma is poured out upon the elevated fleeces ; and proceeds with its green-tinted stream, as on a mare, proceeds with its exhilarating stream.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2874,6 +3025,8 @@ the exhilaration (of the gods),
 *[70 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೩]*
 
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಸೋಮ ಸುವಾನೋ ಅದ್ರಿಭಿಸ್ತಿರೋ ವಾರಾಣ್ಯವ್ಯಯಾ ।
@@ -2913,6 +3066,8 @@ the exhilaration (of the gods),
 *English Translation.*
 
 Expressed by the stones, Soma (passing) through the sheep's hairs green-tinted, entering the cups as a man (enters) a city, you take your seat in the wooden (vessels).
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2961,6 +3116,8 @@ fiecee the Soma is adorned like a horse in the battle ; the Pavamana, to be
 rejoiced in (by all, praised) by the intelligent, the sages, the reciters of
 sacred songs.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಸೋಮ ದೇವವೀತಯೇ ಸಿಂಧುರ್ನ ಪಿಪ್ಯೇ ಅರ್ಣಸಾ ।
@@ -3002,6 +3159,8 @@ sacred songs.
 
 You are fed with water, Soma, like a river, for the banquet of the gods ; with the juice of your fi'ament you go to honey-dropping receptacle, exhilarating, vigilant-
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಹರ್ಯತೋ ಅರ್ಜುನೇ ಅತ್ಕೇ ಅವ್ಯತ ಪ್ರಿಯಃ ಸೂನುರ್ನ ಮರ್ಜ್ಯಃ ।
@@ -3040,6 +3199,8 @@ You are fed with water, Soma, like a river, for the banquet of the gods ; with t
 *English Translation.*
 
 Agreeable affectionate like a son about to be decorated, the Soma is clad in a shining robe ; they send him with their arms into the streams as active (warriors send their) chariot into (battle).
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3081,6 +3242,8 @@ Agreeable affectionate like a son about to be decorated, the Soma is clad in a s
 
 The swift Somas send forth their inebriating juice upon the uplifted (filter) of the firmament, intelligent, exhilarating, all-acquiring.
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತರತ್ಸಮುದ್ರಂ ಪವಮಾನ ಊರ್ಮಿಣಾ ರಾಜಾ ದೇವ ಋತಂ ಬೃಹತ್ ।
@@ -3120,6 +3283,8 @@ The swift Somas send forth their inebriating juice upon the uplifted (filter) of
 
 The divine royal (Soma) vast and true, undergoing purification traverses the firmament in a stream ; vast and true, being sent forth he flows for the support of Mitra and Varuna.
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನೃಭಿರ್ಯೇಮಾನೋ ಹರ್ಯತೋ ವಿಚಕ್ಷಣೋ ರಾಜಾ ದೇವಃ ಸಮುದ್ರಿಯಃ ॥ ೧೬ ॥
@@ -3154,6 +3319,8 @@ The divine royal (Soma) vast and true, undergoing purification traverses the fir
 
 Regulated by the priests, the divine royal Soma, agreeable, intelli-
 gent, abiding in the firmament—
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3197,6 +3364,8 @@ Exhilarating, flows when effused, for Indra attended by the Maruts .
 thousand-streamed he passes through the fleece ; men cleanse him.
 *[೧ ಸಂಹಿತಾಪಾಠಃ ೧]*
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುನಾನಶ್ಚಮೂ ಜನಯನ್ಮತಿಂ ಕವಿಃ ಸೋಮೋ ದೇವೇಷು ರಣ್ಯತಿ ।
@@ -3239,6 +3408,8 @@ thousand-streamed he passes through the fleece ; men cleanse him.
 Purified in the cups, exciting laudation, the sage Soma rejoices amongst the gods ; clothed with the waters sitting in the wooden bowls, he is surrounded with the curds and milk.
 *[೧ ಸಂಹಿತಾಪಾರಃ ।]*
 
+#### ಋಕ್ ೧೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತವಾಹಂ ಸೋಮ ರಾರಣ ಸಖ್ಯ ಇಂದೋ ದಿವೇದಿನೇ ।
@@ -3280,6 +3451,8 @@ Purified in the cups, exciting laudation, the sage Soma rejoices amongst the god
 
 In your friendship, Indu Soma, I have rejoiced day by day ; many (Rakshasas) assail me. tawny-coloured (Soma) ; overcome these who surround me.
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತಾಹಂ ನಕ್ತಮುತ ಸೋಮ ತೇ ದಿವಾ ಸಖ್ಯಾಯ ಬಭ್ರ ಊಧನಿ ।
@@ -3320,6 +3493,8 @@ In your friendship, Indu Soma, I have rejoiced day by day ; many (Rakshasas) ass
 *English Translation.*
 
 I (delight) in your presence, tawny-coloured Soma, both day and night, for the sake of your friendship may we soar like birds far beyond the sun blazing with your light.
+
+#### ಋಕ್ ೨೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3374,6 +3549,8 @@ pitcher ; you bring, Pavamana, ample golden-hued much-coveted wealth.
 ಈ ವಿಷಯವು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಮೃಜ್ಯಮಾನಃ ಸುಹಸ್ತ್ಯಾ ದಶಭಿರ್ವಿವಸ್ವತಃ ಎಂಬ ಸೂತ್ರದಿಂದ
 (ಆ. ೫-೧೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೨೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮೃಜಾನೋ ವಾರೇ ಪವಮಾನೋ ಅವ್ಯಯೇ ವೃಷಾವ ಚಕ್ರದೋ ವನೇ ।
@@ -3418,6 +3595,8 @@ The showerer of benefits, cleansed and filtered in the woollen fleece.
 you cry aloud in the water ; Soma Pavamana, mixed with the curds and
 milk, you go to the prepared (station) of the gods.
 
+#### ಋಕ್ ೨೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಸ್ವ ವಾಜಸಾತಯೇಽಭಿ ವಿಶ್ವಾನಿ ಕಾವ್ಯಾ ।
@@ -3460,6 +3639,8 @@ milk, you go to the prepared (station) of the gods.
 
 Flow, Soma, to all praises to procure food (for us) ; you, the exhila-
 rator of the gods, are the chief supporter of the firmament.
+
+#### ಋಕ್ ೨೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3506,6 +3687,8 @@ celestial worlds ; the sages express you radiant. O observer of all, with
 praises and with their fingers,
 *[೧ ಸಹಿತಾಪಾಕೆ ।]*
 
+#### ಋಕ್ ೨೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಮಾನಾ ಅಸ್ಯಕ್ತ ಪವಿತ್ರಮತಿ ಧಾರಯಾ ।
@@ -3548,6 +3731,8 @@ praises and with their fingers,
 Your purified juices are let flow through the filter in a stream
 accompanied by the Maruts, exhilarating, pleasing Indra, swift-moving,
 bringing praise and food.
+
+#### ಋಕ್ ೨೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3619,6 +3804,9 @@ Indu clothed with waters effused by the worshippers rushes to the receptacle, ge
 ಯಲ್ಲಿ—ಪವಸ್ವ ಷೋಳಶ ಗೌರಿವೀತಿರ್ದ್ವಚಂ ಶಕ್ತಿರೇಕಾಮೂರುರ್ಯಜಿಶ್ವೋರ್ಧ್ವಸದ್ಮಾ ಕೃತಯಶಾ
 ಋಣಂಚಯ ಇತ್ಯೃಷಯೋ ದೃಚಾಸ್ತಿಸ್ರಃ ಶಕ್ತಿಃ ಕಾಕುಭಾಃ ಪ್ರಗಾಥಾಃ ಸ ಸುನ್ವೇ ಗಾಯತ್ರಿ
 ಯವಮಧ್ಯಾ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೮ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦೮
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೧೦೮ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೧೩, ೧೪, ೧೯ ॥
@@ -3633,6 +3821,8 @@ Indu clothed with waters effused by the worshippers rushes to the receptacle, ge
 <!-- printed 89 -->
 *[ಅ. ೭. ಅ. ೫. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 89]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3670,6 +3860,8 @@ Indu clothed with waters effused by the worshippers rushes to the receptacle, ge
 Soma, who are most sweet-flavoured, most intelligent, the exhilarator,
 flow for Indra, the great, the most brilliant, the exhilarating.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3710,6 +3902,8 @@ flow for Indra, the great, the most brilliant, the exhilarating.
 By drinking whom the showerer Indra is invigorated, by drinking you who are the beholder of everything, the intelligent (Indra) reaches the viands (of the enemy) as a horse (reaches) the battle.
 *[। ಹಂಪಿ ಪ್ರಾಂತ್ಯ ।]*
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಹ್ಯಂಗ ದೈವ್ಯಾ ಪವಮಾನ ಜನಿಮಾನಿ ದ್ಯುಮತ್ತಮಃ ।
@@ -3747,6 +3941,8 @@ By drinking whom the showerer Indra is invigorated, by drinking you who are the 
 *English Translation.*
 
 For you, Pavamana, who are most brilliant, quickly shout to the races of the gods for (the sake of their) immortality:—
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3798,6 +3994,8 @@ For you, Pavamana, who are most brilliant, quickly shout to the races of the god
 *[ಅ ೭. ಅ ೫. ವ. ೧೮ ; ಋಗ್ವೇದಸಂಹಿತಾ 93]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಸ್ಯ ಧಾರಯಾ ಸುತೋಽವ್ಯೋ ವಾರೇಭಿಃ ಪವತೇ ಮದಿಂತಮಃ ।
@@ -3830,6 +4028,8 @@ For you, Pavamana, who are most brilliant, quickly shout to the races of the god
 
 This (Soma) when effused flows most exhilarating through the wool-
 en fleece, sporting like a wave of water.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3880,6 +4080,8 @@ You, who by your might extricated from the rock the quick-moving cows abiding in
 *[ಆ. ೭. ಆ. ೨೫. ಪ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 95]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಸೋತಾ ಪರಿ ಷಿಂಚತಾಶ್ವಂ ನ ಸ್ತೋಮಮಪುರಂ ರಜಸ್ತುರಂ ।
@@ -3920,6 +4122,8 @@ penser of rain, dispenser cf light, showerer of fluid, swimming in water—
 *[96 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೮]*
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3962,6 +4166,8 @@ penser of rain, dispenser cf light, showerer of fluid, swimming in water—
 
 Thousand-streamed, showerer of benefits, augmenter of water, affectionate ; (pour it forth) for the race of the gods which water-born is fostered by the water, the king, the god, the true, the great.
 *[೦ ಸಂಹಿತಾಪಾರಃ ॥]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4006,6 +4212,8 @@ xxv xxvii 7
 
 Divine (Soma) lord of viands, who are devoted to the gods, bestow upon us brilliant and abundant food ; separate the mid-aerial receptacle.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ವಚ್ಯಸ್ವ ಸುದಕ್ಷ ಚಮ್ವೋಃ ಸುತೋ ವಿಶಾಂ ವರ್ಹ್ನಿರ್ನ ವಿಶ್ವತಿಃ ।
@@ -4045,6 +4253,8 @@ Divine (Soma) lord of viands, who are devoted to the gods, bestow upon us brilli
 Come, powerful (Soma) effused into the cups, like a prince the
 sustainer of the people; pour the course of the waters, the rain from
 heaven ; accomplish the rites for the worshipper who seeks cattle
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4086,6 +4296,8 @@ treasures.
 *[100 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೮]*
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4130,6 +4342,8 @@ treasures.
 
 The showerer (of benefits) is manifested begetting (light), immortal, destroying the darkness with (his) radiance; glorified by the wise he has assumed his shining robe ; the triple (oblation is supported) by his act.
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ಸುನ್ವೇ ಯೋ ವಸೂನಾಂ ಯೋ ರಾಯಾಮಾನೇತಾ ಯ ಇಳಾನಾಂ ।
@@ -4165,6 +4379,8 @@ bringer of riches, the bringer of food, the bringer of fair homes:-
 <!-- printed 102 -->
 *[102 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೭ ಸೂ. ೧೦೮]*
 
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4211,6 +4427,8 @@ Bhaga with Aryaman; through which we propitiate Mitra and Varuna
 and Indra, to obtain his powerful protection.
 *[೧ ಸಂಹಿತಾ ೧]*
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಾಯ ಸೋಮ ಪಾತವೇ ನೃಭಿರ್ಯತಃ ಸ್ವಾಯುಧೋ ಮದಿಂತಮಃ।
@@ -4251,6 +4469,8 @@ sweet-flavoured, flow for Indra to drink.
 *[104 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೮]*
 
 *[೧ ಸಂಚಿಕೆ ೧]*
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4304,6 +4524,9 @@ the sea agreeable to mitra, Varuna and Vayu, the chief stay of heaven.
 > ಸೋಮನು ದೇವತೆಯು ; ಈ ಸೂಕ್ತದ ಋಕ್ಕುಗಳು ಇಪ್ಪತ್ತಕ್ಷರಗಳಿರುವ ವಿರಾಟ್ ಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆ
 > ಯಲ್ಲಿ—ಪರಿ ಪ್ರ ದ್ವ್ಯಧಿಕಾಗ್ನಯೋ ಧಿಷ್ಣಾ ಐಶ್ವರಾ ದ್ವೈಪದಂ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು
 > ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦೯ (ಮಂಡಲ ೯)
+
 > ಸೂಕ್ತ—೧೦೯
 > ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೧೦೯ ॥
 > ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೦, ೨ ೧॥
@@ -4311,6 +4534,8 @@ the sea agreeable to mitra, Varuna and Vayu, the chief stay of heaven.
 > ಋಷಿ—ಅಗ್ನಯೋ ಧಿಷ್ಣಾ ಐಶ್ವರಾಃ ॥
 > ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 > ಛಂದಃ—ದ್ವಿಪದಾ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4344,6 +4569,8 @@ the sea agreeable to mitra, Varuna and Vayu, the chief stay of heaven.
 Flow, Soma, who are sweet-flavoured, for Indra, Mitra, Pushan and
 Bhaga.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4381,6 +4608,8 @@ Bhaga.
 Soma, let Indra and all the gods drink of you when effused for intel-
 ligence and strength.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏವಾಮೃತಾಯ ಮಹೇ ಕ್ಷಯಾಯ ಸ ಶುಕ್ರೋ ಅರ್ಷ ದಿವ್ಯಃ
@@ -4412,6 +4641,8 @@ ligence and strength.
 
 So do you who are pure, divine, the beverage of all the gods, flow for immortality and a spacious abode.
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4448,6 +4679,8 @@ So do you who are pure, divine, the beverage of all the gods, flow for immortali
 Flow, Soma, who are mighty, the shedder of juice, the parent of
 gods, towards all bodies.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶುಕ್ರಃ ಪವಸ್ವ ದೇವೇಭ್ಯಃ ಸೋಮ ದಿವೇ ಪೃಥಿವ್ಯೈ ಶಂ ಚ ಪ್ರಜಾಯೈ ॥
@@ -4481,6 +4714,8 @@ gods, towards all bodies.
 
 Soma, who are brilliant, flow for the gods and (give) joy to heaven
 and earth and all creatures-
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4516,6 +4751,8 @@ and earth and all creatures-
 You are the upholder of heaven, radiant and good to drink; flow
 you who are strong, at the truthful sacrifice.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಸ್ವ ಸೋಮ ದ್ಯುಮ್ನಾ ಸುಧಾರೋ ಮಹಾಮವೀನಾಮನು ಪೂರ್ವ್ಯಃ ॥
@@ -4546,6 +4783,8 @@ you who are strong, at the truthful sacrifice.
 
 Do you, Soma, who are possessed of food. who have a copious stream, flow through the great sheep's, hairs in due succession.
 *[॥ ಸಂಜಿತಾಶತಕ ॥]*
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4580,6 +4819,8 @@ Do you, Soma, who are possessed of food. who have a copious stream, flow through
 
 May the Soma regulated by the priests, engendered, purified,
 exhilarating, all-knowing, bring us all (riches).
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4616,6 +4857,8 @@ exhilarating, all-knowing, bring us all (riches).
 
 May Indu, purified, extolling (the gods) bestow on us progeny and all kinds of wealth.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಸ್ವ ಸೋಮ ಕ್ರತ್ವೇ ದಕ್ಷಾಯಾಶ್ವೋ ನ ನಿಕ್ತೋ ವಾಜೀ ಧನಾಯ ॥
@@ -4651,6 +4894,8 @@ cleansed like a horse.
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ತೇ ಸೋತಾರೋ ರಸಂ ಮದಾಯ ಪುನಂತಿ ಸೋಮಂ ಮಹೇ
@@ -4681,6 +4926,8 @@ cleansed like a horse.
 
 (The priests) who press you purify your juice for exhilaration;
 (they purify) the Soma for abundant food.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4720,6 +4967,8 @@ They cleanse the new-born infant, the green-tinted shining Soma,
 on the filter for the gods-
 *[೧ ಸಹಿತಾಪಾರ್ಶ್ವ ೧]*
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದುಃ ಪವಿಷ್ಟ ಚಾರುರ್ಮದಾಯಾಪಾಮುಪಸ್ಥೇ ಕವಿರ್ಭಗಾಯ ॥೧೩॥
@@ -4752,6 +5001,8 @@ on the filter for the gods-
 
 The auspicious sage Indu flows upon the lap of the waters for
 exhilaration and for wealth.
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4786,6 +5037,8 @@ The auspicious (Soma) sustains Indra's body by which he has slain all Rakshasas.
 *[116 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೯]*
 
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪಿಬಂತ್ಯಸ್ಯ ವಿಶ್ವೇ ದೇವಾಸೋ ಗೋಭಿಃ ಸ್ರೀತಸ್ಯ ನೃಭಿಃ ಸುತಸ್ಯ ॥ ೧೫ ॥
@@ -4815,6 +5068,8 @@ The auspicious (Soma) sustains Indra's body by which he has slain all Rakshasas.
 
 The universal gods drink of it, effused by the priests, mixed with
 the milk and curds.
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4851,6 +5106,8 @@ the milk and curds.
 Being effused the The Soma in a thousand streams flows through the
 sheep's-hair filter.
 
+#### ಋಕ್ ೧೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವಾಜ್ಯಕ್ಷಾಃ ಸಹಸ್ರರೇತಾ ಅದ್ಭಿರ್ಮೃಜಾನೋ ಗೋಭಿಃ ಶ್ರೀಣಾನಃ ॥
@@ -4886,6 +5143,8 @@ waters and mixing with the curds and milk,
 *[113 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೦೯]*
 
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಸೋಮ ಯಾಹೀಂದ್ರಸ್ಯ ಕುಕ್ಷಾ ನೃಭಿರ್ಯೇಮಾನೋ ಅದ್ರಿಭಿಃ
@@ -4917,6 +5176,8 @@ waters and mixing with the curds and milk,
 
 Guided by the priests and eflused with the stones go, Soma, to
 Indra's belly.
+
+#### ಋಕ್ ೧೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4952,6 +5213,8 @@ Indra's belly.
 
 The vigorous thousand-streamed Soma has been sent through the filter for Indra.
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಂಜಂತ್ಯೇನಂ ಮಧ್ವೋ ರಸೇನೇಂದ್ರಾಯ ವೃಷ್ಣ ಇಂದುಂ ಮದಾಯ ॥
@@ -4984,6 +5247,8 @@ The vigorous thousand-streamed Soma has been sent through the filter for Indra.
 They mix the Soma with the liquid of the sweet (milk) for Indra,
 the showerer (of benefits) for his exhilaration.
 
+#### ಋಕ್ ೨೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದೇವೇಭ್ಯಸ್ತಾ ವೃಥಾ ಪಾಜಸೇಽಪೋ ವಸಾನಂ ಹರಿಂ ಮೃಜಂತಿ ॥ ೨೧ ॥
@@ -5014,6 +5279,8 @@ the showerer (of benefits) for his exhilaration.
 They cleanse you readily, clothed with water, green-tinted, for the
 invigoration of the gods.
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೨೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5066,6 +5333,9 @@ Indu is effused for Indra, is effused downwards—fierce, mixing (with the milk)
 ಈ ಛಂದಸ್ಸಿನಲ್ಲಿ ಹನ್ನೆರಡು ಅಕ್ಷರಗಳ ಮೂರು ಪಾದಗಳಿರುವವು ಇದು ಇದರ ಲಕ್ಷಣವು. ಹತ್ತನೆಯ ಋಕ್ಕಿ
 ನಿಂದ ಮುಂದಿನ ಮೂರು ಋಕ್ಕುಗಳು ವಿರಾಟ್ಛಂದಸ್ಕವು. ಪವಮಾನಸೋಮನು ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆ
 ಯಲ್ಲಿ—ಪರ್ಯೂಷು ದ್ವಾದಶ ತ್ರುಣತ್ರಸದಸ್ಯೋ ತಿಸ್ರೋ5ನುಷ್ಟುಭಃ ಪಿಪೀಲಿಕಮಧ್ಯಾಃ ಷಳೂರ್ಥ್ವಬೃಹತ್ಯಸ್ತಿ ಸ್ರಶ್ಚ ವಿರಾಜಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೧೦ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ-೧೧೦
 ಮಂಡಲ—೯ : ಅನುವಾಕ—೭ : ಸೂಕ್ತ—೧೧೦ :
 ಅಷ್ಟಕ—೭ : ಅಧ್ಯಾಯ—೫ : ವರ್ಗ—೨೩ :
@@ -5075,6 +5345,8 @@ Indu is effused for Indra, is effused downwards—fierce, mixing (with the milk)
 ಛಂದಃ—೧-೩. ಅನುಷ್ಟುಪ್ಪಿಶೀಲಮಧ್ಯಾ, ೪-೯. ಊರ್ಧ್ವಬೃಹತೀ । ೧೦-೧೨
 ವಿರಾಟ್ ॥
 *[ಸಹಿತಾಶಾ]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5111,6 +5383,8 @@ Indu is effused for Indra, is effused downwards—fierce, mixing (with the milk)
 *English Translation.*
 
 Hasten, Soma, to bring us sustenance; gifted with endurance (attack our) foes ; the acquitter of our debts, you approach to disperse our enemies.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5149,6 +5423,8 @@ Hasten, Soma, to bring us sustenance; gifted with endurance (attack our) foes ; 
 
 In turn we glorify you, Soma, when effused; you attack the
 (hostile) forces, O Pavamana, to (defend) your great sovereignty over men.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5193,6 +5469,8 @@ Pavamana, by your might you have generated the sun in (the firma-
 ment), the support of the water, hastening on with abundant wisdom that
 procures cattle (for your worshippers),
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಜೀಜನೋ ಅಮೃತ ಮರ್ತ್ಯೇಷ್ಟ್ವ ಋತಸ್ಯ ಧರ್ಮನ್ನಮೃತಸ್ಯ
@@ -5233,6 +5511,8 @@ procures cattle (for your worshippers),
 Immortal Soma, you have generated (the sun) among mortals in
 (the firmament), the support of the truthful auspicious ambrosia ; streaming
 forth you go to battle continually.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5293,6 +5573,8 @@ You have burst open (the filter) with (your) food as (one bursts open) an inexha
 *[128 ಸಾಯಣಭಾಷ್ಯಸಹಿತಃ [ ಮಂ. ೯. ಆ. ೭. ಸೂ. ೧೧೦]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆದೀಂ ಕೇ ಚಿತ್ಪಶ್ಯಮಾನಾಸ ಆಪ್ಯಂ ವಸುರುಚೋ ದಿವ್ಯಾ
@@ -5337,6 +5619,8 @@ before the shining Savitri drives away the obstructing (darkness).
 
 *[ಸಂಹಿತಾ]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವೇ ಸೋಮ ಪ್ರಥಮಾ ವೃಕ್ತಬರ್ಹಿಷೋ ಮಹೇ ವಾಜಾಯ ಶ್ರವಸೇ
@@ -5377,6 +5661,8 @@ before the shining Savitri drives away the obstructing (darkness).
 
 The chief (of men) having cut the sacred grass have fixed their minds, Soma, on you for abundant strength and food ; do you, O hero, excite us to heroism.
 *[. ಸಂಹಿತಾಪಾಠ .]*
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5421,6 +5707,8 @@ Soma, the beverage (of the gods) of heaven, which is worthy of praise;
 they have praised it when gencrated for Indra.
 *[॥ ಸಂಹಿತಾಪಾಠ ೦]*
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧ ಯದಿಮೇ ಪವಮಾನ ರೋದಸೀ ಇಮಾ ಚ ವಿಶ್ವಾ ಭುವನಾಭಿ
@@ -5462,6 +5750,8 @@ they have praised it when gencrated for Indra.
 
 Since, Pavamana, you by your might are chief over these two worlds and all these living beings, as a bull is ruler in a herd of cows.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮಃ ಪುನಾನೋ ಅವ್ಯಯೇ ವಾರೇ ಶಿಶುರ್ನ ಕ್ರೀಳನ್ನವಮಾನೋ
@@ -5501,6 +5791,8 @@ Since, Pavamana, you by your might are chief over these two worlds and all these
 
 Pavamana Soma sporting like a child drops filtered through the
 woollen fleece, thousand-streamed, having the might of a hundred, radiant.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5544,6 +5836,8 @@ woollen fleece, thousand-streamed, having the might of a hundred, radiant.
 *English Translation.*
 
 This Soma juice undergoing purification, sweet-flavoured, holy, dropping, flows for Indra a sweet stream, bestowing food, dispensing wealth and life.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5591,6 +5885,9 @@ Flow, Soma, overcoming (our) enemies, driving away the Rakshasas who are difficu
 ಋಷಿಯು ; ಪವಮಾನಸೋಮನು ದೇವತೆಯು ; ಅತ್ಯಷ್ಟಿಃ ಎಂಬುದು ಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ— ಅಯಾ
 ರುಚಾ ತೃಚಮನಾನತಃ ಪಾರುಚ್ಛೇಪಿರಾತ್ಯಷ್ಟಂ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ
 ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೧೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೧೧
 ಮಂಡಲ—೯ । ಅನುವಾಕ— ೭ ॥ ಸೂಕ್ತ—೧೧೧ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೪
@@ -5598,6 +5895,8 @@ Flow, Soma, overcoming (our) enemies, driving away the Rakshasas who are difficu
 ಋಷಿಃ—ಅನಾನತಃ ಪಾರುಚ್ಛೇಪಿ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಬಂದಃ—ಅತ್ಯಷ್ಟಿ ! ..
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5655,6 +5954,8 @@ With this bright green-tinted stream Soma being filtered overcomes all enemies w
 the filtered green-tinted (Soma is) resplendent, which pervades all constel-
 lations, with the Rikvans, with the seven-mouthed Rikvans.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ತ್ಯತ್ಪಣೀನಾಂ ವಿದೋ ವಸ್ತು ಸಂ ಮಾತೃಭಿರ್ಮರ್ಜಯಸಿ ಸ್ವ ಆ
@@ -5709,6 +6010,8 @@ lations, with the Rikvans, with the seven-mouthed Rikvans.
 
 You did discover the wealth of the Panis, and are washed in your own house at the sacrifice by the mothers, the supporters of the sacrifice ; as the hymn (is heard) from afar, so it (is heard by all, the hymn) in which the supporters (of the rite) rejoice ; the shining (Soma) with its brilliant (waters), the supporters of the three (worlds), gives food (to the worshippers.
 *[೧ ಗಂಠಿಪ್ರಾಸಃ ॥]*
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5774,6 +6077,9 @@ The intelligent Soma proceeds to the eastern quarter; (your) beautiful chariot, 
 ಇದರಲ್ಲಿ ನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಶಿಶುಃ ಆಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು; ಪವಮಾನಸೋಮನು
 ದೇವತೆಯು; ಪಂಚಪದಾ ಪಂಕ್ತಿಃ ಎಂಬುದು ಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ನಾನಾನಂ ಚತುಷ್ಕಂ ಶಿಶುಃ
 ಪಾಂಕ್ತಂ ಹಿ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಒಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೧೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೧೨
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೭ । ಸೂಕ್ತ—೧೧೨ ॥
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೫ । ಪಗ—೨೫ ।
@@ -5781,6 +6087,8 @@ The intelligent Soma proceeds to the eastern quarter; (your) beautiful chariot, 
 ಋಷಿಃ—ಶಿರಃ ॥
 ದೇವತಾ—ಪವಮಾನ ಸೋಮಃ ॥
 ಛಂದಃ—ಪಾಕ್ತಿಃ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5832,6 +6140,8 @@ Various are our acts, (various) are the occupations of men; the carpenter desire
 
 *[೧ ಸಂಹಿತಾಪಾಠ ॥]*
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಜರತೀಭಿರೋಷಧೀಭಿಃ ಪರ್ಣೇಭಿಃ ಶಕುನಾನಾಂ ।
@@ -5875,6 +6185,8 @@ for Indra.
 <!-- printed 143 -->
 *[ತ. ಆ. ಸಿ. ವ. ೨೧. । ಋಗ್ವೇದಸಂಹಿತಾ . 113]*
 
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5960,6 +6272,8 @@ remain (in the world) like cattle (in the stalls): flow, Indu, for Indra.
 ಯಾವರೀತಿ ಹೋಗುತ್ತವೆಯೋ ಹಾಗೆ ನಮ್ಮ ನಮ್ಮ ಕರ್ತವ್ಯಕರ್ಮಗಳಲ್ಲಿ ನಿರತರಾಗಿರುತ್ತೇವೆ. ಆದ್ದರಿಂದ ಎಲೈ
 ಸೋಮನೇ, ಇಂದ್ರನ ಪಾನಾರ್ಥವಾಗಿ ಲತೆಗಳಿಂದ ಬೇಗನೆ ಸ್ರವಿಸಿ ಹರಿದು ಬಾ ಎಂದು ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಶ್ವೋ ವೋಳ್ಹಾ ಸುಖಂ ರಥಂ ಹಸನಾಮುಪಮಂತ್ರಿಣಃ ।
@@ -6010,6 +6324,9 @@ The draught horse (desires) a cart easy (to draw); those who invite guests (desi
 ಇದರಲ್ಲಿ ಹನ್ನೊಂದು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಮರೀಚ ಋಷಿಯ ಪುತ್ರನಾದ ಕಶ್ಯನೆಂಬುವನು ಋಷಿಯು ;
 ಈ ಸೂಕ್ತವೂ ಇದರ ಮುಂದಿನ ಸೂಕ್ತವೂ ಪಂಕ್ತಿಶ್ಚಂದಸ್ಕವು. ಪವಮಾನಸೋಮನು ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆ
 ಯಲ್ಲಿ—ಶರ್ಯಣಾವತ್ಯೇಕಾದಶ ಕಶ್ಯಪಃ ಎಂದು ಹೇಳಿರುವುದು ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೧೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ-೧೧೩
 ಮಂಡಲ—೯ : ಅನುವಾಕ—೭ : ಸೂಕ್ತ—೧೧೩ :
 ಅಷ್ಟಕ—೭ : ಅಧ್ಯಾಯ—೫ : ವರ್ಗ—೨೬, ೨೭ :
@@ -6021,6 +6338,8 @@ The draught horse (desires) a cart easy (to draw); those who invite guests (desi
 <!-- printed 147 -->
 *[ಅ .೭. ಅ. ೫. ವ. ೨೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 147]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6071,6 +6390,8 @@ for Indra.
 ಈ ಸರೋವರದ ಸಮೀಪದಲ್ಲಿ ದಧ್ಯಂಚಋಷಿಯ ಕುದುರೆಯ ಆಕಾರದ ಶಿರಸ್ಸು ಬಿದ್ದಿತ್ತೆಂಬ ಒಂದು ಇತಿಹಾಸವೂ
 ಹಿಂದೆ ಉಕ್ತವಾಗಿದೆ
 *[, ಕಲ್ಲಂಗಡಿ .]*
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6126,6 +6447,8 @@ Indra.
 ಶರ್ಯಣಾಪತ್ ಸುಷೋಮಾ ಎಂಬ ಸ್ಥಳಗಳಲ್ಲಿ ಬೆಳೆಯುವ ಸೋಮಲತೆಗಳು ಉತ್ತಮತರಹದ್ದೆಂದೂ
 ಯಥೇಷ್ಟವಾಗಿ ದೊರಕುವುದೆಂದೂ ಪ್ರಸಿದ್ಧಿ ಇದೆ.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರ್ಜನ್ಯವೃದ್ಧಂ ಮಹಿಷಂ ತಂ ಸೂರ್ಯಸ್ಯ ದುಹಿತಾಭರತ್ ।
@@ -6178,7 +6501,7 @@ Indu, for Indra.
 ಶಾಖಾಂತರಗಳಲ್ಲಿ ಹೇಳಲ್ಪಟ್ಟಿದೆ. ಉದಾಹರಣೆಗೆ ಯಜುರ್ವೇದದ ತೈತ್ತಿರೀಯಸಂಹಿತೆಯಲ್ಲಿ—
 ತಂ ಸೋಮಮಾಹ್ರಿಯಮಾಣಂ ಗಂಧರ್ವೋ ವಿಶ್ವಾವಸುಃ ಪರ್ಯಮುಷ್ಣಾತ್ಸ ತಿಸ್ರೋ ರಾತ್ರಿಃ
 ಪರಿಮುಷಿತೋಽವಸತ್ತಸ್ಮಾತ್ರಿಸ್ರೋ ರಾತ್ರಿಃ ಕ್ರೀತಃ ಸೋಮೋ ವಸತಿ ತೇ ದೇವಾ ಅಬ್ರುವನ್ಸ್ಕೀಕಾಮಾ ವೈ ಗಂಧರ್ವಾಸ್ತ್ರಿಯಾ ನಿಷ್ಕ್ರೀಣಾಮೇತಿ ತೇ ವಾಚಗ್ಸ್ ಸ್ತ್ರೀಯಮೇಕಹಾಯನೀಂ ಕೃತ್ವಾ ತಯಾ ನಿರಕ್ರೀಣನ್ತಾ ರೋಹಿದ್ರೂಪಂ ಕೃತ್ವಾಃಗಂಧರ್ವೇಭ್ಯೋಽಪಕ್ರಮ್ಯಾತಿಷ್ಠತ್ ॥
-(ಕೃ. ಸಂ. ೬-೧-೬--೫)
+(ತೈ. ಸಂ. ೬-೧-೬--೫)
 ಪೂರ್ವದಲ್ಲಿ ಸೋಮವು ಸ್ವರ್ಗದಲ್ಲಿದ್ದಿತು. ಅದನ್ನು ಭೂಮಿಗೆ ತರಲು ಯಾರಿಂದಲೂ ಸಾಧ್ಯವಾಗದೆ
 ಇರುವಾಗ ಗಾಯತ್ರಿಯು ಶೈನಪಕ್ಷಿಯ ರೂಪದಿಂದ ಸ್ವರ್ಗಕ್ಕೆ ಹೋಗಿ ಅಲ್ಲಿ ಅದನ್ನು ಕಾಯುತ್ತಿದ್ದ ಸ್ವಾನ್, ಭ್ರಾಜ,
 ಅಂಘಾರಿ, ಬಂಭಾರಿ, ಹಸ್ತ, ಸುದಸ್ತ, ಕೃಶಾನು ಎಂಬ ಸೋಮಪಾಲಕರ ಪ್ರತಿಭಟನೆಯನ್ನು ತಿರಸ್ಕರಿಸಿ ಅದನ್ನು
@@ -6204,6 +6527,8 @@ Indu, for Indra.
 ತ್ತದೆ. ಹಿಂದೆ ಸೋಮವನ್ನು ಗಂಧರ್ವನು ಅಪಹರಿಸಿದಾಗ ಅದು ಅವನಲ್ಲಿ ಮೂರು ರಾತ್ರಿಗಳವರೆಗೆ ಇದ್ದುದರಿಂದ
 ಕ್ರಯಕ್ಕೆ ತೆಗೆದುಕೊಂಡ ಸೋಮವನ್ನು ಮೂರು ರಾತ್ರೆಗಳವರೆಗೆ ಇಟ್ಟಿರಬೇಕೆಂಬ ನಿಯಮವಿದೆ. ಪ್ರಕೃತ ಋಕ್ಕಿನಲ್ಲಿ
 ಸೋಮಲತೆಯ ಈ ವಿಧವಾದ ಪ್ರಶಂಸೆಯು ಉಕ್ತವಾಗಿದೆ.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6250,6 +6575,8 @@ Indu, for Indra.
 Soma, the utterer of truth, radiant with truth, truthspeaking, truthful in act, speaking faith, lord (of worshippers) you are decorated by the upholder (of the rite) : flow, Indu, for Indra.
 *[೧ ಸಂಹಿತಾಪಾತಕ ॥]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸತ್ಯಮುಗ್ರಸ್ಯ ಬೃಹತಃ ಸಂ ಸ್ರವಂತಿ ಸಂಸ್ರವಾಃ ।
@@ -6291,6 +6618,8 @@ Soma, the utterer of truth, radiant with truth, truthspeaking, truthful in act, 
 The united sereams of you who are vast and truly formidable flow
 united ; the juices of you the juicy one meet together ; green-tinted (Soma)
 purified by holy prayer, Indu, flow for Indra.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6342,6 +6671,8 @@ rhythmical text, engendering the delight (of the gods) by the Soma
 *[ಆ. ೭. ಅ. ೫. ವ. ೨೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 155]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯತ್ರ ಜ್ಯೋತಿರಜಸ್ರಂ ಯಸ್ಮಿಲ್ಲೋಕೇ ಸ್ವರ್ಹಿತಂ ।
@@ -6385,6 +6716,8 @@ for Indra.
 <!-- printed 156 -->
 *[156 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೧೩]*
 
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6437,6 +6770,8 @@ for Indra.
 ವೈವಸ್ವತನೆಂದು ಹೆಸರು. ಇವನನ್ನು ಯಮನೆಂದೂ ಕರೆಯುವ ರೂಢಿ ಇದೆ. ಇವನ ವಿಷಯವಾದ ವಿವರಣೆಗಳು
 ಇದೇ ಭಾಗದ ಮುಂದಿನ ಸೂಕ್ತಗಳಲ್ಲಿ (ಋ. ಸಂ. ೧೦-೧೦ ಇತ್ಯಾದಿ) ವಿಸ್ತಾರವಾಗಿ ವಿವರಿಸಲ್ಪಟ್ಟಿವೆ.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯತ್ರಾನುಕಾಮಂ ಚರಣಂ ತ್ರಿನಾಕೇ ತ್ರಿದಿವೇ ದಿವಃ ।
@@ -6481,6 +6816,8 @@ Where in the third heaven, in the third sphere, the sun wanders at
 will, where the regions are filled with light, there make me immortal: flow,
 Indu, for Indra.
 *[, ಸಂಚಾರಿಗಳು ,]*
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6527,6 +6864,8 @@ Indu, for Indra.
 Where wishes and desires (are), where the region of the sun (is),
 where food and delight (are) found, there make me immortal ; flow, Indu,
 for Indra.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6584,6 +6923,9 @@ Where there is happiness, pleasures, joy and enjoyment, where the wishes of the 
 ಇದರಲ್ಲಿ ನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಋಷಿದೇವತಾ ಛಂದಸ್ಸುಗಳಿರುವವು.
 ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಯ ಇಂದೋಶ್ಚತುಷ್ಕಂ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೆ
 ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೧೪ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೧೪
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೧೧೪ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೮ ॥
@@ -6591,6 +6933,8 @@ Where there is happiness, pleasures, joy and enjoyment, where the wishes of the 
 ಋಷಿ—ಕಶ್ಯಪಃ ॥
 ದೇವತಾ—ಪವಮಾನ ಸೋಮಃ ॥
 ಛಂದಃ— ಪಂಕ್ತಿಃ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6640,6 +6984,8 @@ Where there is happiness, pleasures, joy and enjoyment, where the wishes of the 
 juice—him men call rich in children, who applies his mind to you, Soma ;
 flow, Indu, for Indra.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಋಷೇ ಮಂತ್ರಕೃತಾಂ ಸ್ತೋಮೈಃ ಕಶ್ಯಪೋದ್ವರ್ಧಯನ್ಗಿರಃ ।
@@ -6684,6 +7030,8 @@ makers, adore the royal Soma who is born the lord of creeping plants;
 flow, Indu, for Indra,
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಪ್ತ ದಿಶೋ ನಾನಾಸೂರ್ಯಾಃ ಸಪ್ತ ಹೋತಾರ ಋತ್ವಿಜಃ ।
@@ -6705,7 +7053,7 @@ flow, Indu, for Indra,
 > ಸಪ್ತ ದಿಶಃ । ಸೋಮೋ ಯಸ್ಯಾಂ ದಿಶಿ ವರ್ತತೇ ತದ್ವ್ಯತಿರಿಕ್ತಾಃ ಸಪ್ತ ಭವಂತಿ । ತಾ ನಾನಾಸೂರ್ಯಾ ನಾನಾವಿಧೈಃ ಸೂರ್ಯೈರಧಿಷ್ಠಿತಾ ಋತವೋ ಭವಂತಿ । ನಾಗಲಿಂಗತ್ವಾದೃತೂನಾಂ ನಾನಾಸೂರ್ಯತ್ವಮಿತ್ಯಾಮ್ನಾನಾತ್ । ಯದ್ವಾ । ನಾನಾಸೂರ್ಯಾ ಇತಿ ದಿಗ್ವಿಶೇಷಣಂ । ತಥಾ ಹೋತಾರೋ
 > ವಷಟ್ಕರ್ತಾರೋ ಹೋತ್ರಾದಯಃ ಸಪ್ತರ್ತ್ವಜೋ ಭವಂತಿ । ಕಿಂಚ ಸಪ್ತಾದಿತ್ಯಾ ಅದಿತೇಃ ಪುತ್ರಾ,
 > ಧಾತ್ರಾದಯೋ ಮಾರ್ತಂಡವರ್ಜಿತಾ ಯೇ ಸಪ್ತ ದೇವಾಃ ಸಂತಿ । ಏತತ್ತ್ವಷ್ಟೌ ಪುತ್ರಾಸೋ ಆದಿತೇಃ ।
-> ಋ. ೧೦-೭೨-೮ । ಇತ್ಯತ್ರ ಪ್ರಪಂಚಯಿಷ್ಯತೇ । ಹೇ ಸೋಮ ತೇಭಿಸ್ತೈರ್ದಿಗಾದಿಭಿಃ ಸರ್ವೈರ್ನೋಽಸ್ಮಾನಭಿ ರಕ್ಷ । ಏತತ್ತು ತ್ವಯಾ ವಿನಾ ನ ಘಟತ ಇತಿ ತಸ್ಮಾದಿಂದ್ರಾಯೇಂದೋ ಪರಿ ಸ್ರವ ॥
+> ಋ. ಸಂ. ೧೦-೭೨-೮ । ಇತ್ಯತ್ರ ಪ್ರಪಂಚಯಿಷ್ಯತೇ । ಹೇ ಸೋಮ ತೇಭಿಸ್ತೈರ್ದಿಗಾದಿಭಿಃ ಸರ್ವೈರ್ನೋಽಸ್ಮಾನಭಿ ರಕ್ಷ । ಏತತ್ತು ತ್ವಯಾ ವಿನಾ ನ ಘಟತ ಇತಿ ತಸ್ಮಾದಿಂದ್ರಾಯೇಂದೋ ಪರಿ ಸ್ರವ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
 
@@ -6777,13 +7125,13 @@ protect us: flow, Indu, for Indra,
 
 ತಿಳಿಸಿ ತತ್ಸು ನಃ ಸವಿತಾ ಭಗೋ ವರುಣೋ ಮಿತ್ರೋ ಅರ್ಯಮಾ (ಋ. ಸಂ. ೮-೧೮-೩) ಎಂಬ ನಾಲ್ಕು
 ಆದಿತ್ಯರೊಂದಿಗೆ ಸವಿತೃವಿನ ನಾಮವು ಸೇರಿದೆ. ಸೂರ ಅಥವಾ ಸವಿತೃ ದೇವತೆಗೆ ಆದಿತ್ಯರಲ್ಲಿ ಏಳನೆಯ ಸ್ಥಾನವು.
-ಕೆಲವೆಡೆಗಳಲ್ಲಿ ನಿರ್ದಿಷ್ಟವಾಗಿದೆ. (ಅ. ವೇ. ೮-೨-೯ : ೩೭) ಕೆಲವೆಡೆಗಳಲ್ಲಿ ವರುಣನ ಜೊತೆಯಲ್ಲಿ ಇಂದ್ರನೂ
+ಕೆಲವೆಡೆಗಳಲ್ಲಿ ನಿರ್ದಿಷ್ಟವಾಗಿದೆ. (ಅಥ. ಸಂ. ೮-೨-೯ : ೩೭) ಕೆಲವೆಡೆಗಳಲ್ಲಿ ವರುಣನ ಜೊತೆಯಲ್ಲಿ ಇಂದ್ರನೂ
 ಆದಿತ್ಯನೆಂದು ಪರಿಗಣಿತನಾಗಿದ್ದಾನೆ. (ಋ. ಸಂ. ೭-೮೫-೪).
 ಶತ್ರು ತ್ವಾದಿತ್ಯಾ ರಕ್ಷ್ಯತಾಂ ಸೂರ್ಯಾಚಂದ್ರಮಸಾವುಭೌ
 (ಆ. ವೇ ೮-೨-೧೫)
 ಎಂಬ ಸ್ಥಳಗಳಲ್ಲಿ ಸೂರ್ಯ ಮತ್ತು ಚಂದ್ರ ಇವರಿಬ್ಬರನ್ನೂ ಆದಿತ್ಯರ ಗುಂಪಿನಲ್ಲಿ ಸೇರಿಸಿದೆ.
 ಮಾತ್ಯಾದಿತ್ಯಾನಾಂ ದುಹಿತಾ ವಸೂನಾಂ . . . ಹಿರಣ್ಯವರ್ಣಾ ಮಧುಕಶಾ
-(ಅ. ವೇ. ೯-೧-೪)
+(ಅಥ. ಸಂ. ೯-೧-೪)
 ಹಿರಣ್ಯವರ್ಣಾತ್ಮಳಾದ ಮಧುಕಶೆಯನ್ನು ಆದಿತ್ಯಮಾತೆಯೆಂದೂ, ವಸುಪುತ್ರಿಯೆಂದೂ ಕರೆದಿದೆ. ಹೀಗೆ ಒಂದೊಂದು
 ಸನ್ನಿವೇಶದಲ್ಲಿ ಒಂದೊಂದು ವಿಧವಾಗಿ ಅದಿತಿಗೂ ಆದಿತ್ಯರಿಗೂ ಇರುವ ಸಂಬಂಧವನ್ನು ತಿಳಿಸಿದೆ. ಇವರ ಸಂಬಂಧವನ್ನು
 ತೈತ್ತಿರೀಯಬ್ರಾಹ್ಮಣದಲ್ಲಿ ಈ ರೀತಿ ವಿವರಿಸಿದೆ.
@@ -6792,7 +7140,7 @@ protect us: flow, Indu, for Indra,
 ರೇತೋಽಧತ್ತ । ತಸ್ಯೈ ಮಿತ್ರಶ್ಚ ವರುಣಶ್ಚಾಜಾಯೇತಾಂ । ಸಾ ತೃತೀಯಮಪಚತ್ । ತಸ್ಯಾ
 ಉಚ್ಛೇಷಣಮದದುಃ । ತತ್ಪಾಶ್ನಾತ್ । ಸಾ ರೇತೋಽಧತ್ತ । ತಸ್ಯಾ ಅಗಂಂಶಶ್ಚ ಭಗಶ್ಚಾಜಾಯೇತಾಂ । ಸಾ ಚತುರ್ಥಮಪಚತ್ । ತಸ್ಯಾ ಉಚ್ಛೇಷಣಮದದುಃ । ತತ್ಪಾಶ್ನಾತ್ । ಸಾ
 ರೇತೋಽಧತ್ತ । ತಸ್ಯಾ ಇಂದ್ರಶ್ಚ ವಿವಸ್ವಾಗ್ಶ್ಚಾಜಾಯೇತಾಂ ॥
-(ಶೈ. ಬ್ರಾ. ೧-೧-೯-೧,೨,೩)
+(ತೈ. ಬ್ರಾ. ೧-೧-೯-೧,೨,೩)
 ಅದಿತಿಯು ಪುತ್ರಕಾಮಳಾಗಿ ದೇವತೆಗಳನ್ನೂ ಸಾಧ್ಯರನ್ನೂ ಉದ್ದೇಶಿಸಿ ಬ್ರಹ್ಮಾದನರೂಪವಾದ ಹವಿಸ್ಸನ್ನು ಪಕ್ವ
 ಮಾಡಿದಳು. ಅವರು ತಾವು ಆ ಹವಿಸ್ಸನ್ನು ಭುಜಿಸಿ ಅದರಲ್ಲಿ ಉಳಿದ ಶೇಷವನ್ನು ಅವಳಿಗೆ ಕೊಟ್ಟರು. ಅವಳು ಅದನ್ನು
 ಭುಜಿಸಿದಾಗ ಅದರ ಪ್ರಭಾವದಿಂದ ಧಾತಾ ಅರ್ಯಮಾ ಎಂಬಿಬ್ಬರು ಪುತ್ರರು ಜನಿಸಿದರು. ಇದೇ ಕ್ರಮವನ್ನು ಎರಡ
@@ -6975,6 +7323,8 @@ protect us: flow, Indu, for Indra,
 ಇತರ ವಿಸ್ತಾರವಾದ ವಿವರಣೆಗಳನ್ನು ಋ. ಸಂ. ಭಾಗ 15 ಪೇಜು 697-715ರಲ್ಲಿ ಐತರೇಯಬ್ರಾಹ್ಮಣಾನುಸಾರ
 ವಾಗಿ ವಿವರಿಸಿರುವುದನ್ನು ನೋಡಿ.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯತ್ತೇ ರಾಜಞ್ಚಿತಂ ಹವಿಸ್ತೇನ ಸೋಮಾಭಿ ರಕ್ಷ ನಃ ।
@@ -6992,7 +7342,7 @@ protect us: flow, Indu, for Indra,
 > ಚ । ಯತ್ತೇ ರಾಜಞ್ಕೃತಂ ಹವಿರಿತಿ ದ್ವೃಚಾಃ ಸಮಾನೀ ವ ಆಕೂತಿರಿತ್ಯೇಕಾ : ಆ. ಗೃ- ೩-೫-೭ ।
 > ಇತಿ ॥
 > ಹೇ ರಾಜನ್ ಸರ್ವೇಷಾಂ ಕರ್ಮಸಾಧನತ್ವೇನ ಸ್ವಾಮಿನ್ ಹೇ ಸೋಮ ತೇ ತ್ವದರ್ಥಂ
-> ಕೃತಂ ಪಕ್ವಂ ಯದ್ಧವಿರಸ್ತಿ ॥ ಶೃತಂ ಪಾಕೇ । ಪಾ. ೬-೧.೨೭ । ಇತಿ ನಿಷ್ಠಾಯಾಂ ನಿಸಾತಿತ. ॥ ತೇನ
+> ಕೃತಂ ಪಕ್ವಂ ಯದ್ಧವಿರಸ್ತಿ ॥ ಶೃತಂ ಪಾಕೇ । ಪಾ. ಸೂ. ೬-೧.೨೭ । ಇತಿ ನಿಷ್ಠಾಯಾಂ ನಿಸಾತಿತ. ॥ ತೇನ
 > ಹವಿಷಾ ನೋಽಸ್ಮಾನಭಿ ರಕ್ಷ । ಅಭಿಪಾಲಯ ತಸ್ಮಾತ್ತ್ವದಭಿರಕ್ಷಿತಾನಸ್ಮಾನರಾತೀವಾರಾತಿವಾಣಿ ತು
 > ರ್ನೋಽಸ್ಮಾನ್ಮಾ ತಾರೀತ್ । ಮಾ ವಧೀತ್ । ಕಿಂ ಚ ನೋಸ್ಮಾಕಂ ಕಿಂ ಚನ ಕಿಂಚದಪಿ ಧನಾದಿಕಂ
 > ಶತ್ರುರ್ಮೋ ಆನುಮತ್ । ಮಾ ಹಿಂಸೀತ್ । ಯದೇತದೇತ್ಯೈಃ ಸೂಕ್ತೈರುಕ್ತಂ ತದ್ಯಥಾಸ್ಮಾಕಂ ಭವತಿ
@@ -9424,6 +9774,10 @@ xxvii 13
 <!-- printed 198 -->
 *[198 ಸಾಯಣಭಾಷ್ಯಸೂತಾ [ ಮಂ, ೧೦. ಅ.೧. ಸೂ. ೧]*
 
+## ಮಂಡಲ ೧೦
+
+## ಸೂಕ್ತ ೧ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ-೧
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೧ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೯ ॥
@@ -9431,6 +9785,8 @@ xxvii 13
 ಋಷಿ—ತ್ರಿತಅಪ್ತ್ಯಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9519,6 +9875,8 @@ The great fire at the beginning of the dawn has sprung aloft, and issuing forth 
 ವಿವರಿಸುವ ಅವಶ್ಯಕತೆ ಇರುವುದಿಲ್ಲ.
 *[. ಸಂಹಿತಾಪಾಠಿ .]*
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ಜಾತೋ ಗರ್ಭೋ ಅಸಿ ರೋದಸ್ಯೋರಗ್ನೇ ಚಾರುರ್ವಿಭೃತ ಓಷಧೀಷು।
@@ -9585,7 +9943,7 @@ When born, you, O Agni, are the embryo of heaven and earth, beautiful, borne abo
 ಸುಲೋಹಿತಾ ಯಾ ಚ ಸುಧೂಮ್ರವರ್ಣಾ ।
 ಸ್ಪುಲಿಂಗಿನೀ ವಿಶ್ವರುಚೀ ಚ ದೇವೀ
 ಲೇಲಾಯಮಾನಾ ಇತಿ ಸಪ್ತ ಜಿಹ್ವಾಃ ॥
-(ಮುಂ. ಉ. ೧-೨-೪)
+(ಮು. ಉ. ೧-೨-೪)
 ಎಂದು ಮುಂಡಕೋಪನಿಷತ್ತಿನಲ್ಲಿ ಹೇಳಿದೆ. ಕಾಲೀ, ಕರಾಲೀ, ಮನೋಜವಾ, ಸುಲೋಹಿತಾ, ಸುಧೂಮ್ರವರ್ಣಾ,
 ಸ್ಫುಲಿಂಗಿನೀ, ವಿಶ್ವರುಚೀ ಎಂಬ ಸಪ್ತಜಿಹ್ವೆ ಅಥವಾ ಜ್ವಾಲೆಗಳಿಂದ ಬೆಳಗುತ್ತಿರುವ ವಿಚಿತ್ರವರ್ಣವುಳ್ಳ ಅಗ್ನಿಯು ;
 ಅಥವಾ ಓಷಧ್ಯಾದಿಗಳಲ್ಲಿ (ವೃಕ್ಷ, ವನಸ್ಪತಿ) ಹುಟ್ಟುವುದರಿಂದ ಅಗ್ನಿಯನ್ನು ಓಷಧಿಗಳ ಶಿಶುವೆಂದೂ ಹೇಳಬಹುದು
@@ -9596,6 +9954,8 @@ When born, you, O Agni, are the embryo of heaven and earth, beautiful, borne abo
 ತನಗೆ ಮಾತೃಪ್ರಾಯರಾದ ಓಷಧಿಗಳು ಎಂದರೆ ಕಾಷ್ಠಗಳು. ಅವುಗಳನ್ನು ದಹಿಸುವಾಗ ಚಟಪಟ ಎಂಬ ಶಬ್ದಗಳನ್ನು
 ಮಾಡುತ್ತಾ ಪ್ರಜ್ವಲಿಸುತ್ತೀಯೆ ಎಂದಭಿಪ್ರಾಯವು.
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9658,6 +10018,8 @@ purpose, they praise him in this world.
 ಅಗ್ನಿಯನ್ನು ಸ್ತೋತ್ರಮಾಡುತ್ತಾರೆ.
 *[। ಸಹಿತವಾದ ।]*
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆತ ಉ ತ್ವಾ ಸಿತುಭೃತೋ ಜನಿತ್ರೀರನ್ನಾವೃಧಂ ಪ್ರತಿ ಚರಂತ್ಯನ್ನೈಃ ।
@@ -9711,6 +10073,8 @@ forms, you are amongst human beings the invoker (of the gods).
 ಮಾಡುತ್ತವೆ ಎಂದು ಒಂದು ವಿಧವಾದ ಅರ್ಥವು. ಎರಡನೆಯ ಅರ್ಥವು—ಔಷಧಿಗಳಲ್ಲಿ ಒಣಗಿರುವ ಕಾಷ್ಠಾದಿಗಳನ್ನು
 ಅಗ್ನಿಯಾದ ನೀನು ದಹಿಸಿ ಪ್ರವೃದ್ಧಮಾನನಾಗುತ್ತೀಯೆ ಎಂದು ಎರಡು ವಿಧವಾದ ಅರ್ಥಗಳು ಇಲ್ಲಿ ಸೂಚಿತವಾಗಿವೆ.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಹೋತಾರಂ ಚಿತ್ರರಥಮಧ್ವರಸ್ಯ ಯಜ್ಞಸ್ಯಯಜ್ಞಸ್ಯ ಕೇತುಂ ರುಶಂತಂ ।
@@ -9763,6 +10127,8 @@ forms, you are amongst human beings the invoker (of the gods).
 ಗಳಿಗೆ) ಪ್ರತಿಯೊಂದು, ಅಥವಾ ಎಲ್ಲಾ ಎಂಬರ್ಥವಿರುವುದು. ಮೇಲಿನ ಶಬ್ದಗಳಿಗೆ ಪ್ರತಿಯಜ್ಞಕ್ಕೂ ಅಥವ ಎಲ್ಲಾ
 ಯಜ್ಞಗಳಿಗೂ, ಎಲ್ಲಾ ದೇವತೆಗಳಿಗೂ ಎಂದರ್ಥವು. ಇದರಂತೆ, ದಿವೇದಿನೇ, ಅಹರಹಃ ಮೊದಲಾದ ಅನೇಕ
 ಉದಾಹರಣೆಗಳನ್ನೂ ಕೊಡಬಹುದು.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9940,7 +10306,7 @@ xxvii 14
 ತ್ತದೆ. ಯಜ್ಞದಿಂದಲೇ ಪ್ರಜಾಪತಿಯಿಂದ ಸೃಷ್ಟವಾದ ಸಕಲ ಭೂತಗಳೂ ತಮ್ಮ ಸ್ಥಿತಿಹೇತುವಾದ ಅನ್ನವನ್ನೂ,
 ಶಕ್ತಿಯನ್ನೂ ಪಡೆಯುತ್ತವೆ. ಆದುದರಿಂದ ಯಜ್ಞದ ಆವಶ್ಯಕತೆಯನ್ನು ತಿಳಿಸುತ್ತಾ ಶೈತ್ತಿರೀಯಸಂಹಿತೆಯಲ್ಲಿ,
 ಪ್ರಜಾಪತಿಃ ಪ್ರಜಾ ಅಸೃಜತ ತಾಸ್ಸೃಷ್ಟಾಃ ಕ್ಷುಧಂ ನ್ಯಾಯಂತ್ಸ ಏತಂ ನವರಾತ್ರಮಪಶ್ಯತ್ತಮಾಹರತ್ತೇನಾಯಜತ ತತೋ ವೈ ಪ್ರಜಾಭ್ಯೋಕಲ್ಪತ ಯರ್ಹಿ ಪ್ರಜಾಃ ಕ್ಷುಧಂ ನಿಗಚ್ಛೇಯುಸ್ತರ್ಹಿ ನವರಾತ್ರೇಣ ಯಜೇತೇಮೇ ಹಿ ವಾ ಏತಾಸಾಂ ಲೋಕಾ ಅಕ್ಷೃಪ್ತಾ ......॥
-(ಕೃ. ಸಂ. ೭-೨-೪-೧)
+(ತೈ. ಸಂ. ೭-೨-೪-೧)
 ಪ್ರಜಾಪತಿಯು ಪ್ರಜೆಗಳನ್ನು ಸೃಷ್ಟಿಸಿದನಂತರ ಅವು ಹಸಿವಿನಿಂದ ಪೀಡಿತವಾದವು. ಅವುಗಳ ಕ್ಷುತ್ತಿನ
 ಶಮನಕ್ಕಾಗಿ ನವರಾತ್ರಾತ್ಮಕವಾದ ಯಜ್ಞವನ್ನು ವೀಕ್ಷಿಸಿ ಅದರಿಂದ ಯಜ್ಞವನ್ನು ನಿರ್ವಹಿಸಿದನು. ಅದರಿಂದ ಆ
 ಪ್ರಜೆಗಳ ಕ್ಷುತ್ತಿನ ಶಮನವಾಯಿತು. ಆದುದರಿಂದ ಕ್ಷುತ್ತಿನ ಶಮನಕ್ಕಾಗಿ ಯಜ್ಞವು ಆಚರಿಸಲ್ಪಡತಕ್ಕದ್ದು ನಿಯತ
@@ -10040,6 +10406,8 @@ xxvii 14
 ಇರುವ ತಾದಾತ್ಮವನ್ನರಿಯುತ್ತಾನೆ. ಪ್ರಜಾಪತಿರೂಪಿಯಾದ ಪರಬ್ರಹ್ಮನ ವಿಶ್ವವ್ಯವಹಾರಗಳೆಲ್ಲವೂ ಈ ಯಜ್ಞ
 ತತ್ತ್ವದಲ್ಲಡಗಿರುತ್ತದೆಂದರಿಯುತ್ತಾನೆ. ಮತ್ತು ಆ ವಿಶ್ವಚಕ್ರದಲ್ಲಿ ತಾನೂ ಸಹ ಭಾಗವನ್ನು ವಹಿಸುತ್ತಾನೆ.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಹಿ ದ್ಯಾವಾಪೃಥಿವೀ ಅಗ್ನ ಉಭೇ ಸದಾ ಪುತ್ರೋ ನ ಮಾತರಾ ತತಂಥ।
@@ -10107,6 +10475,9 @@ desiring (you); Son of strength, bring hither the gods.
 ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ಮತ್ತು
 ದರ್ಶಪೂರ್ಣಮಾಸ ಯಾಗಗಳಲ್ಲಿ ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕನ್ನು ಸ್ವಿಷ್ಟಕೃದ್ಯೋಮದಲ್ಲಿ ಅನುವಾಕ್ಯಾಮಂತ್ರ
 ವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಅಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಅಥ ಸ್ವಿಷ್ಟಕೃತಃ ಪಿಪ್ರೀಹಿ ದೇವಾ ಉಶತೋ ಯವಿಷ್ಠೇತ್ಯನುವಾಕ್ಯಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೧-೬) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೨ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೨ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೩೦ ॥
@@ -10114,6 +10485,8 @@ desiring (you); Son of strength, bring hither the gods.
 ಋಷಿ—ತ್ರಿತ ಆಪ್ತಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ — ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10138,7 +10511,7 @@ desiring (you); Son of strength, bring hither the gods.
 > ದೈವ್ಯಾ ದೇವೇಷು ಭವಾಃ ಅಗ್ನಿರ್ಹೋತಾಶ್ವಿನಾವಧ್ವರ್ಯೂ ತ್ವಷ್ಟಾಗ್ನೀನ್ಮಿತ್ರ ಉಪವಕ್ತಾ । ತೈ. ಆ.
 > ೩-೩ । ಇತ್ಯತ್ರೋಕ್ತಾ ಯ ಋತ್ವಿಜಃ ಸಂತಿ ತೇಭಿಸ್ತೈಃ ಸಹ ದೇವಾನ್ಯಜ । ಯದ್ವಾ । ದೈವ್ಯಾ
 > ದೇವೇಷು ಭವಾ ಋತ್ವಿಜ ಆಶ್ವಲಾಯನೇನೋಕಾಶ್ಚಂದ್ರಮಾ ಬ್ರಹ್ಮಾದಿತ್ಯೋಽಧ್ವರ್ಯುಃ ಪರ್ಜನ್ಯ
-> ಉದ್ದಾತೇತಿ ! ಆ. ಗೃ. ೧.೧೩. ೮,೯ । ತೈಃ ಸಹ ಯಜ ! ಯಸ್ಮಾತ್ತ್ವಂ ಹೋತ್ಯಣಾಂ ಮಧ್ಯ ಆಯ.
+> ಉದ್ದಾತೇತಿ ! ಆ. ಗೃ. ಸೂ. ೧.೧೩. ೮,೯ । ತೈಃ ಸಹ ಯಜ ! ಯಸ್ಮಾತ್ತ್ವಂ ಹೋತ್ಯಣಾಂ ಮಧ್ಯ ಆಯ.
 > ಜಿಷ್ಠ ಅಭಿಮುಖ್ಯೇನ ದೇವಾನಾಂ ಯಷ್ಟೃತಮೋಽಸಿ ಭವಸಿ ॥
 *[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
 
@@ -10199,7 +10572,9 @@ Agni, youngest (of the deities), propitiate the desiring gods; lord of seasons, 
 ಜನು, ಅಶ್ವಿನೀದೇವತೆಗಳು ಆಧ್ವರ್ಯುಗಳು, ತ್ವಷ್ಟೃವು ಆಗ್ನೀಧ್ರನು ಇತ್ಯಾದಿ. ಶ್ವಲಾಯನ ಮ-೩
 ಸಹ ತಮ್ಮ ಗೃಹ್ಯಸೂತ್ರದಲ್ಲಿ—ಚಂದ್ರಮಾ ಬ್ರಹ್ಮಾದಿತ್ಯೋಽಧ್ವರ್ಯುಃ ಪರ್ಜನ್ಯ ಉದ್ಗಾತಾ.
 ದೇವತೆಗಳಲ್ಲಿ ಚಂದ್ರನು ಬ್ರಹ್ಮನೆಂಬ ಋತ್ವಿಜನು, ಆದಿತ್ಯನು ಅಧ್ವರ್ಯುವು, ಪರ್ಜನ್ಯನು ಉದ್ಗಾತೃವೆಂಬ ಋತ್ವಿ
-ಎಂದು ವಿವರಿಸಿದ್ದಾರೆ. (ಆ. ಗೃ. ೧-೨೩-೮, ೯).
+ಎಂದು ವಿವರಿಸಿದ್ದಾರೆ. (ಆ. ಗೃ. ಸೂ. ೧-೨೩-೮, ೯).
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10359,6 +10734,8 @@ Agni present them to the gods.
 ಸಮರ್ಥಿಸಿರುವರು.
 *[• ಸಂಹಿತಾಪಾಠ್ಕೆ •]*
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ದೇವಾನಾಮಪಿ ಪಂಥಾಮಗನ್ಮ ಯಚ್ಛಕ್ತವಾಮ ತದನು ಪ್ರವೋಳ್ಹುಂ।
@@ -10426,6 +10803,8 @@ xxvii 15
 ಮಂತ್ರವನ್ನಾಗಿಯೂ ಮತ್ತೊಂದರಲ್ಲಿ ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿಯೂ ಪಠಿಸಬೇಕು.
 *[ಸಂಹಿತಾ]*
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯದ್ವೋ ವಯಂ ಪ್ರಮಿನಾಮ ವ್ರತಾನಿ ವಿದುಷಾಂ ದೇವಾ ಅವಿದುಷ್ಟರಾಸಃ ।
@@ -10481,6 +10860,8 @@ O gods, when we who are most ignorant neglect the offices adderssed to you who a
 ನಲ್ಲಿಯೂ ಅಗ್ನಿಯನ್ನು ಪ್ರಾರ್ಥಿಸಲಾಗಿದೆ.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯತ್ಪಾಕತ್ರಾ ಮನಸಾ ದೀನದಕ್ಷಾ ನ ಯಜ್ಞಸ್ಯ ಮನ್ವತೇ ಮರ್ತ್ಯಾಸಃ ।
@@ -10530,6 +10911,8 @@ ted with (the ritual of) the sacrifice, may Agni, the invoker (of the gods),
 the skilled in rites, well knowing (what is to be done), the best offerer,
 offer worship according to the fit season to the gods.
 *[, ಸಂಹಿತಾಪಾಠ .]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10594,6 +10977,8 @@ sustaining praise-accompanied viands growing upon man-occupied earth.
 ಸ್ವರ್ಹಾ ಇಷಃ ಕ್ಷುಮತೀರ್ವಿಶ್ವಜನ್ಯಾಃ- ಸರ್ವಜನರಿಗೂ ಹಿತಕರವೂ ಅಪೇಕ್ಷಣೀಯವೂ ಆದ
 ಮತ್ತು ಸ್ತುತ್ಯಾದಿಗಳಿಂದ ಪ್ರಾರ್ಥಿತವಾದ ಅನ್ನಾದ್ಯಾಹಾರಗಳನ್ನು ಒದಗಿಸಿಕೊಡು ಎಂದಭಿಪ್ರಾಯವು.
 ಸಹಿತಾಪಾತಿ
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10727,6 +11112,9 @@ path, the road of the Pitris, shine brilliantly, being kindled.
 ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು- ಹಿಂದಿನ ಸೂಕ್ತ
 ದಂತೆಯೇ ಇರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಇನಃ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕಮಂತ್ರಗಳಿಗಾಗಿಯೂ
 ಆಶ್ವಿನಶಸ್ತ್ರ ಮಂತ್ರಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೩
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೩ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೫ । ವರ್ಗ—೩೧ ।
@@ -10734,6 +11122,8 @@ path, the road of the Pitris, shine brilliantly, being kindled.
 ಋಷಿ—ತ್ರಿತ ಆಪ್ತ್ಯಃ ॥
 ದೇವತಾ—ಆಗ್ನಿಃ ।
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10817,7 +11207,7 @@ with great lustre ; he proceeds, scattering the glimmering darkness.
 ಏವಾಗ್ನಿರ್ದಿವಾ ದದೃಶೇ.... ........ .... ಅಗ್ನಿರ್ಜ್ಯೋತಿರ್ಜ್ಯೋತಿಸ್ಸೂರ್ಯಸ್ಸಾಹೇತ್ಯೇವ
 ಸಾಯಗ್ಂ ಹೋತವ್ಯಂ । ಸೋರ್ಯೋ ಜ್ಯೋತಿರ್ಜ್ಯೋತಿರಗ್ನಿಸ್ಸಾಹೇತಿ ಪ್ರಾತಃ ।
 ತಥೋಭಾಭ್ಯಾಗ್ಂ ಸಾಯಗ್ಂ ಹೂಯತೇ । ಉಭಾಭ್ಯಾಂ ಪ್ರಾತಃ ।
-(ಶೈ. ಬ್ರಾ. ೨-೧-೨-೯ ರಿಂದ ೧೩)
+(ತೈ. ಬ್ರಾ. ೨-೧-೨-೯ ರಿಂದ ೧೩)
 ಪೂರ್ವದಲ್ಲಿ ಅಗ್ನಿಹೋತ್ರವೆಂಬ ಕರ್ಮದಲ್ಲಿ ಯಜಮಾನನು ಅಗ್ನಿಯಲ್ಲಿ ಹೋಮಮಾಡುತ್ತಿದ್ದನು. ಅಗ್ನಿಯಲ್ಲಿ
 ಹೋಮಮಾಡುತ್ತಿದ್ದುದರಿಂದ ಆ ಕರ್ಮಕ್ಕೆ ಅಗ್ನಿಹೋತ್ರವೆಂದು ಹೆಸರಾಯಿತು. ಈ ರೀತಿ ಅಗ್ನಿಯಲ್ಲಿ ಅಗ್ನಿಯನ್ನುದ್ದೇ
 ಶಿಸಿ ಹೋಮಮಾಡುತ್ತಿರುವ ಯಜಮಾನನನ್ನು ಕುರಿತು ಸೂರ್ಯನು—ಅಗ್ನಿಯಲ್ಲಿ ಅಗ್ನಿಯನ್ನು ಮಾತ್ರ ಉದ್ದೇಶಿಸಿ
@@ -10849,6 +11239,8 @@ with great lustre ; he proceeds, scattering the glimmering darkness.
 ಬೇಕು. ಈ ರೀತಿ ಮಾಡುವುದರಿಂದ ಸಾಯಂಪ್ರಾತಃಕಾಲಗಳೆರಡರಲ್ಲಿಯೂ ಇಬ್ಬರಿಗೂ ಪ್ರಾಧಾನ್ಯತೆಯನ್ನು
 ಕೊಟ್ಟಂತೆಯೂ ಅಗ್ನಿಯನ್ನು ಸಾಯಂಕಾಲದಲ್ಲಿಯೂ ಸೂರ್ಯನನ್ನು ಪ್ರಾತಃಕಾಲದಲ್ಲಿಯೂ ಪ್ರತ್ಯೇಕ ಪ್ರತ್ಯೇಕ
 ವಾಗಿಯೂ ನಿರ್ದೇಶಿ ಹೋಮಮಾಡಿದಂತೆಯೂ ಆಗುವುದು.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10924,6 +11316,8 @@ When he has overcome the dark departing (night) by his radiance, then, begetting
 ಅಗ್ನಿಯ ವಾಹಾತ್ಮದಿಂದಲೇ ಆಗಿದೆಯೆಂದು ಅಗ್ನಿಯ ಗುಣವರ್ಣನೆ ಮಾಡುವುದಕ್ಕಾಗಿ ಋಷಿಯು ಈ ವಿಧವಾಗಿ
 ವರ್ಣಿಸಿದ್ದಾನೆ.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಭದ್ರೋ ಭದ್ರಯಾ ಸಚಮಾನ ಆಗತ್ಸ್ವಸಾರಂ ಜಾರೋ ಅಭ್ಯೇತಿ ಪಶ್ಚಾತ್ ।
@@ -10980,6 +11374,8 @@ He has come auspicious, waited on by the auspicious (light); he afterwards appro
 ರಾತ್ರಿಯ ಕಗ್ಗತ್ತಲೆಯನ್ನು ನಾಶಮಾಡುತ್ತಾ ಬೆಳಕನ್ನು ಬೀರುವ ತನ್ನ ತೇಜಸ್ಸುಗಳಿಂದ ದೇದೀಪ್ಯಮಾನವಾಗಿ ಪ್ರಕಾ
 ಶಿಸುತ್ತಿರುವನು ಎಂದು ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 *[೧ ಸಹಿತಾಃ. ೧]*
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11051,6 +11447,8 @@ of (benefits), the vast, the strong-mouthed, are visible in the sacrifice.
 ವ. ೭. ಆ. ೫. ವ. ೩೧.] ಋಗ್ವೇದಸಂಹಿತಾ 24:1
 *[, ಸಂಹಿತಾಪಾಠಿ .]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ್ವನಾ ನ ಯಸ್ಯ ಭಾಮಾಸಃ ಪವಂತೇ ರೋಚಮಾನಸ್ಯ ಬೃಹತಃ ಸುದಿವಃ।
@@ -11107,6 +11505,8 @@ sportive, and most mighty rays ;—
 ನಭೋ ಮಂಡಲವೂ ಅತ್ಯಂತ ಎತ್ತರದಲ್ಲಿರುವುದೆಂದು ಪ್ರಸಿದ್ಧಿಯಷ್ಟೆ. ಅಗ್ನಿಯ ಅತ್ಯಂತ ತೇಜೋಯುಕ್ತವಾದ
 ರಶ್ಮಿಗಳು ಅಥವಾ ಜ್ವಾಲೆಗಳು ಅತ್ಯಂತ ಎತ್ತರಕ್ಕೆ ಏಳುತ್ತಾ, ಆಟವಾಡುತ್ತಿರುವಂತೆ ತೋರುತ್ತಾ ಅತಿ ಎತ್ತರದಲ್ಲಿರುವ
 ಸ್ವರ್ಗವನ್ನೂ ಮುಟ್ಟುತ್ತವೆ ಎಂದರೆ ಅತಿ ಎತ್ತರಕ್ಕೆ ವ್ಯಾಪಿಸಿರುತ್ತವೆ ಎಂದಭಿಪ್ರಾಯವು.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11168,6 +11568,8 @@ his course, most divine. with ancient, brilliant, and loud-sounding (flames).
 *[246 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೧. ಸೂ ೩]*
 
 *[೧ ಸಂಹಿತಾಶಾಖೆ ೧]*
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11252,6 +11654,9 @@ Great Agni, bring the gods to our ( sacrifice ). The messenger of the young heav
 ರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತದ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿ
 ಕೆಯಲ್ಲಿ ಪ್ರ ತೇ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕ ಮತ್ತು ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿ
 ಯೋಗವಿರುವುದೆಂದು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೪ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೪
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೪ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ ೩೨ ॥
@@ -11260,6 +11665,8 @@ Great Agni, bring the gods to our ( sacrifice ). The messenger of the young heav
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ ತ್ರಿಷ್ಟುಪ್ ॥
 *[॥ ಕಂಠೀರವ ॥]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11326,6 +11733,8 @@ of offering sacrifice.
 ಅದರಂತೆ ಎಲೈ ಅಗ್ನಿಯೇ, ನೀನು ಯಜ್ಞ ಮಾಡುವ ಯಜಮಾನನಿಗೆ ಮರಳುಗಾಡಿನಲ್ಲಿರುವ ಜಲಾಶಯದಂತೆ ಸುಖ
 ವನ್ನುಂಟುಮಾಡುವವನಾಗು ಎಂದು ಪ್ರಪಾಶಬ್ದದ ದೃಷ್ಟಾಂತದಿಂದ ಅಗ್ನಿಯ ಗುಣವರ್ಣನೆಮಾಡಿದೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಂ ತ್ವಾ ಜನಾಸೋ ಅಭಿ ಸಂಚರಂತಿ ಗಾವ ಉಷ್ಣಮಿವ ವ್ರಜಂ ಯವಿಷ್ಯ ॥
@@ -11391,6 +11800,8 @@ Men have recourse to you, Agni, youngest (of the gods), as cattle hasten to the 
 *[252 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦ ಅ. ೧. ಸೂ. ೪]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶಿಶುಂ ನ ತ್ವಾ ಜೇನ್ಯಂ ವರ್ಧಯಂತೀ ಮಾತಾ ಬಿಭರ್ತಿ ಸಚನಸ್ಯಮಾನಾ ॥
@@ -11439,6 +11850,8 @@ Cherishing you, (Agni), the victorious, like a child, your mother
 (earth) desirous of your contact sustains you. You come, eager from above
 the firmament, by a downward path, and when released,(after the oblation
 is offered), you desire to go back like cattle (to their stall).
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11510,6 +11923,8 @@ We, who are perplexed, know not, O unperplexed, intelligent one, your greatness 
 
 *[" ಸಂಹಿತಾಪಾರಂ "]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕೂಚಿಜ್ಜಾಯತೇ ಸನಯಾಸು ನವ್ಯೋ ವನೇ ತಸ್ಥೌ ಪಲಿತೋ ಧೂಮಕೇತುಃ ॥
@@ -11568,6 +11983,8 @@ propitiate.
 ನೆಂದು ಪ್ರತೀತಿಇರುವುದು ಎಂದರೆ ವನದಲ್ಲಿರುವ-ಮದಿಸಿದ ವೃಷಭವು ತನಗೆ ಸ್ನಾನಾಪೇಕ್ಷೆಯಲ್ಲಿದ್ದಿದ್ದರೂ ಬಿಸಲಿನ
 ತಾಪವನ್ನು ಪರಿಹರಿಸಿಕೊಳ್ಳುವುದಕ್ಕಾಗಿ ಜಲವನ್ನು ಪ್ರವೇಶಿಸುವಂತೆ ಈ ಅಗ್ನಿಯು ತಾನು ಸ್ನಾನದ ಅವಶ್ಯಕತೆ
 ಇಲ್ಲದೆ ಸ್ವತಃ ಶುದ್ಧನಾಗಿದ್ದರೂ ತನಗೆ ಇಷ್ಟಬಂದಾಗ ನೀರನ್ನು ಪ್ರವೇಶಿಸಿ ಅಲ್ಲಿರುವನೆಂದು ಋಷಿಯು ವರ್ಣಿಸಿದ್ದಾನೆ.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11662,6 +12079,8 @@ fingers). This new praise, Agni, is addressed to you : attach yourself (to my sa
 ಅರ್ಥವನ್ನು ವಿಶದಪಡಿಸಲಾಗಿದೆ ಎಂದು ಯಾಸ್ಕರು ವಿವರಿಸಿರುವರು.
 *[ಸಂಹಾರಕ]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಬ್ರಹ್ಮ ಚ ತೇ ಜಾತವೇದೋ ನಮಶ್ಚೇಯಂ ಚ ಗೀರ್ ಸದಮಿದ್ವರ್ಧನಿಃ
@@ -11723,6 +12142,8 @@ May this oblation, Jatavedas, this reverence, this praise, ever magnify you. Pro
 <!-- printed 261 -->
 *[ಅ. ೭. ಅ. ೫. ವ. ೩೩ ] ಮುಗ್ರೇದಸಂಹಿತಾ ೨೬೧]*
 
+## ಸೂಕ್ತ ೫ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೫
 ಮಂಡಲ—೧೦ ೦ ಅನುವಾಕ—೧ ೦ ಸೂಕ್ತ—೫ ।
 ಅಷ್ಟಕ—೭ ೦ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೩೩ ।
@@ -11731,6 +12152,8 @@ May this oblation, Jatavedas, this reverence, this praise, ever magnify you. Pro
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
 *[೧ ಸಂಹಿತಾಪಾಠೇ ॥]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11814,7 +12237,7 @@ holds our hearts ; he waits on the cloud in the neighbourhood of the hidden
 ಆ ಪದದ ನಿರ್ವಚನವನ್ನು ತೋರಿಸಿದ್ದಾರೆ (ನಿ. ೨-೧೦). ಈ ಸಂದರ್ಭದಲ್ಲಿ ಅಂತರಿಕ್ಷಪರ್ಯಾಯವಾದ ಸಮುದ್ರ
 ಶಬ್ದಕ್ಕೂ ಪಾರ್ಥಿವವಾದ ಸಮುದ್ರಕ್ಕೂ ವ್ಯತ್ಯಾಸವನ್ನು ತೋರಿಸುವುದಕ್ಕೆ ಒಂದು ಇತಿಹಾಸವನ್ನೂ ಉದ
 ಹರಿಸಿದ್ದಾರೆ.
-(సి. ೨.೧೧)
+(ಸಿ. ೨.೧೧)
 ತಯೋರ್ವಿಭಾಗಸ್ತತ್ರೇತಿಹಾಸಮಾಚಕ್ಷತೇ । ದೇವಾಪಿಶ್ಚಾರ್ಷ್ಟಷೇಣಃ ಶಂತನುಶ್ಚ ಕೌರವ್ಯಾ
 ಭ್ರಾತರಾ ಬಭೂವತುಃ । ಸ ಶಂತನುಃ ಕನೀಯಾನಭಿಷೇಜಚಯಾಂಚಕ್ರೇ । ದೇವಾಪಿಸ್ತಪಃ
 ಪ್ರತಿಪೇದೇ । ತತಃ ಶಂತನೋ ರಾಜ್ಯೇ ದ್ವಾದಶ ವರ್ಷಾಣಿ ದೇವೋ ನ ವವರ್ಷ । ತಮೂಚುಬ್ರಾಹ್ಮಣಾ ಅಧರ್ಮಸ್ತ್ವಯಾ ಚರಿತೋ ಜೇಷ್ಠಂಭ್ರಾತರಮಂತರಿತ್ಯಾಭಿಷೆಚಿತಂ ತಸ್ಮಾ
@@ -11884,6 +12307,8 @@ holds our hearts ; he waits on the cloud in the neighbourhood of the hidden
 ಮಿಕಾ ವಾಕ್ಕೆಂಬ ಸ್ಥಾನಕ್ಕೆ ಅಥವಾ ಉದಕದಿಂದ ಕೂಡಿದ ಮೇಘದ ಮಧ್ಯದಲ್ಲಿರುವ ನಿನ್ನ ಸ್ವರೂಪವೇ ಆದ ವಿದ್ಯು
 ದಗ್ನಿಸ್ಥಾನಕ್ಕೆ ಹೋಗು ಎಂದಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮಾನಂ ನೀಳಂ ವೃಷಣೋ ವಸಾನಾಃ ಸಂ ಜಗ್ಮಿರೇ ಮಹಿಷಾ ಅರ್ವತೀಭಿಃ ॥
@@ -11952,6 +12377,8 @@ port the divine rains in the vault (of heaven).
 ಉದಕವನ್ನು ಧರಿಸುತ್ತಾರೆ. ಅಥವಾ ಗೂಢ ಪ್ರದೇಶವಾದ ಹೃದಯಾಂತರಾಳದಲ್ಲಿ ಅಗ್ನಿಯ ವಿವಿಧನಾಮಗಳಾದ
 ಜಾತವೇದಾಃ, ವೈಶ್ವಾನರ ಮೊದಲಾದ ಹೆಸರುಗಳನ್ನು ಧ್ಯಾನಿಸಿ ಸ್ತುತಿಸುತ್ತಾರೆ ಎಂದೂ ಅರ್ಥಮಾಡಬಹುದು.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಋತಾಯಿನೀ ಮಾಯಿನೀ ಸಂ ದಧಾತೇ ಮಿತ್ವಾ ಶಿಶುಂ ಜಜ್ಞತುರ್ವರ್ಧಯಂತೀ ॥
@@ -12001,6 +12428,8 @@ port the divine rains in the vault (of heaven).
 
 The two observers of the truth, the two possessors of wisdom, (heaven and earth) sustain (this Agni) ; measuring the time. they have brought forth and reared a son ; and (men), pondering in their minds on that navel of the universe, movable and immovable, the thread of the sage (Agni, are blessed with happiness).
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಋತಸ್ಯ ಹಿ ವರ್ತನಯಃ ಸುಜಾತಮಿಷೋ ವಾಜಾಯಿ ಪ್ರದಿವಃ ಸಚಂತೇ ॥
@@ -12045,6 +12474,8 @@ The two observers of the truth, the two possessors of wisdom, (heaven and earth)
 
 The ancient celebrators of the rite desiring (boons) wait on (Agni) rightly born, for the sake of food : the all-comprising heaven and earth cherish him, who abides above the heavens, with the sacrificial butter and food (produced) from the water.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಪ್ತ ಸ್ವಸ್ವರರುಷೀರ್ವಾವಶಾನೋ ವಿದ್ವಾನ್ಮಧ್ವ ಉಜ್ಜಭಾರಾ ದೃಶೇ ಕಂ ॥
@@ -12065,7 +12496,7 @@ The ancient celebrators of the rite desiring (boons) wait on (Agni) rightly born
 > ಊರ್ಧ್ವಂ ಹೃತವಾನ್ । ಯಜ್ಞೇ ಸ್ವತೇಜಸಾ ಪ್ರಾದುರ್ಭೂತ ಇತ್ಯರ್ಥಃ । ಕಿಮರ್ಥಂ ಕಂ ಸುಖೇನ
 > ವೃಶೇ ಸರ್ವರ್ಷಾಮೇವ ಪದಾರ್ಥಾನಾಂ ದರ್ಶನಾರ್ಥಂ ! ಕಿಂಚ ಪುರಾಜಾಃ ಪುರಾಜಾತಃ ಸೋಽಗ್ನಿರ್ದಾವಾಪೃಥಿವ್ಯೋರಂತರ್ಮಧ್ಯೆಽಂತರಿಕ್ಷೇ ಸ್ಥಿತಸ್ತಾ ಜಿಹ್ವಾ ಯೇಮೇ । ನಿಯಮಿತವಾನ್ । ಸರ್ವತ್ರ
 > ತೇಜೋಯುಕ್ತೋ ವರ್ತತ ಇತ್ಯರ್ಥಃ । ಅಪಿ ಚೇಚ್ಛನ್ಯಜಮಾನಾನ್ಕಾಮಯಮಾನೋಽಗ್ನಿಃ ಪೂಷಣಸ್ಯ । ಪೂಷೇತಿ ಪೃಥಿವೀನಾಮ । ಪಾರ್ಥಿವಸ್ಯ ಲೋಕಸ್ಯ ವನ್ರಿಂ ರೂಪಂ ಪೃಶ್ನಿವರ್ಣಮವಿದತ್ ।
-> ಪ್ರಾಯಚ್ಛತ್ । ಯದ್ವಾ ಮೂರ್ಧಾ ಭುವೋ ಭವತಿ ನಕ್ತಮಗ್ನಿಸ್ತತಃ ಸೂರ್ಯೋ ಜಾಯತೇ ಪ್ರಾತರುದ್ಯನ್ ! ಋ. ೧-೮-೬ । ಇತಿ ಮಂತ್ರಾಂತರೇ ದರ್ಶನಾದಾದಿತ್ಯಾತ್ಮಾಗ್ನಿಃ ಸ್ತೂಯತೇ । ಕಾಮಯಮಾನಃ ಸೂರ್ಯಾತ್ಮಾಗ್ನಿಃ ಸಪ್ತಸಂಖ್ಯಾಕಾನ್ ಸ್ವಸ್ವ ರಶ್ಮೀನ್ ಮಧ್ವಃ ಸಮುದ್ರೋದಕಾದುದ್ಧೃತವಾನ್ । ಪ್ರಾಪ್ತಃ : ಅಂತರಿಕ್ಷೇ ವಿದ್ಯುದಾತ್ಮನಾ ಸ್ಥಿತ್ವಾ ವೃಷ್ಟಿಲಕ್ಷಣಂ ರೂಪಂ ಪೃಥಿವ್ಯಾಃ ಪ್ರಯಚ್ಛತಿ॥
+> ಪ್ರಾಯಚ್ಛತ್ । ಯದ್ವಾ ಮೂರ್ಧಾ ಭುವೋ ಭವತಿ ನಕ್ತಮಗ್ನಿಸ್ತತಃ ಸೂರ್ಯೋ ಜಾಯತೇ ಪ್ರಾತರುದ್ಯನ್ ! ಋ. ಸಂ. ೧-೮-೬ । ಇತಿ ಮಂತ್ರಾಂತರೇ ದರ್ಶನಾದಾದಿತ್ಯಾತ್ಮಾಗ್ನಿಃ ಸ್ತೂಯತೇ । ಕಾಮಯಮಾನಃ ಸೂರ್ಯಾತ್ಮಾಗ್ನಿಃ ಸಪ್ತಸಂಖ್ಯಾಕಾನ್ ಸ್ವಸ್ವ ರಶ್ಮೀನ್ ಮಧ್ವಃ ಸಮುದ್ರೋದಕಾದುದ್ಧೃತವಾನ್ । ಪ್ರಾಪ್ತಃ : ಅಂತರಿಕ್ಷೇ ವಿದ್ಯುದಾತ್ಮನಾ ಸ್ಥಿತ್ವಾ ವೃಷ್ಟಿಲಕ್ಷಣಂ ರೂಪಂ ಪೃಥಿವ್ಯಾಃ ಪ್ರಯಚ್ಛತಿ॥
 *ಪ್ರತಿಪದಾರ್ಥ*
 
 ನಾವಶಾನಃ—ಸ್ತುತಿಕರ್ತರಿಂದ ಪ್ರಶಂಸಿತನೂ । ವಿದ್ವಾನ್—ಸಕಲವನ್ನೂ ತಿಳಿದವನೂ ಆದ ಅಗ್ನಿಯು ।
@@ -12097,6 +12528,8 @@ The wise Agni glorified (by his worshippers) has from the sacrifice raised aloft
 ರಾರುಷೀರ್ವಾವಶಾನಃ ಇತ್ಯಪಿ ನಿಗಮೋ ಭವತಿ (ನಿ. ೫-೧) ಎಂದು ನಿರ್ವಚನವನ್ನು ಹೇಳಿದ್ದಾರೆ. ವಾವಶಾನಃ ಎಂಬ ಶಬ್ದವು ಅಪೇಕ್ಷಿಸು ಎಂಬರ್ಥವುಳ್ಳ ವರ್ ಧಾತುವಿನಿಂದಾಗಲಿ, ಘಟ್ಟಿಯಾಗಿ ಶಬ್ದಮಾಡು ಎಂಬರ್ಥವಿ
 ರುವ ವಾಶ್ ಧಾತುವಿನಿಂದಾಗಲಿ ನಿಷ್ಪನ್ನವಾಗಬಹುದು. ಆದ್ದರಿಂದ ನಾವಶಾನಃ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಅಪೇಕ್ಷಿಸುವ
 ಅಥವಾ ಶಬ್ದಮಾಡುವ ಎಂದರ್ಥವು.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12197,7 +12630,7 @@ xxvii 18
 ಛಾಂದೊಗ್ಯಾದಿಗಳಲ್ಲಿ ಪಾತಕವು ಐದುವಿಧವೆಂದು ನಿರ್ದೇಶಿಸಿದೆ. ಅವು ಯಾವುವೆಂದರೆ,
 ಸ್ತೆನೋ ಹಿರಣ್ಯಸ್ಯ ಸುರಾಂ ಪಿಬಂಶ್ಚ ಗುರೋಸ್ತಲ್ಪಮಾವಸನ್ ಬ್ರಹ್ಮಹಾ (ಚೈತೇ ಪತಂತಿ
 ಚತ್ವಾರಃ) ಪಂಚಮಶ್ಚಾಚರಂಸ್ತೈಃ ಇತಿ ।
-(ಭಾ. ಉ. ೫-೧೦-೯)
+(ಛಾ. ಉ. ೫-೧೦-೯)
 ೧) ಚಿನ್ನವನ್ನು ಕದಿಯುವುದು, ೨) ಸುರಾಪಾನ ೩) ಗರುಪತ್ನಿಯೊಡನೆ ಅತಿಕ್ರಮಪ್ರವೇಶ ೪) ಬ್ರಹ್ಮ
 ಹತ್ಯೆ ಈ ನಾಲ್ಕು ಕರ್ಮವನ್ನು ಮಾಡುವವರು ಪತಿತರು. ಐದನೆಯದಾಗಿ, ೫) ಈ ನಾಲ್ಕು ಕರ್ಮಗಳನ್ನು
 ಮಾಡುವ ಪತಿತರೊಡನೆ ಸರ್ವದಾ ಸಂಪರ್ಕವನ್ನಿಟ್ಟುಕೊಂಡಿರುವುದು. ಈ ಐವರೂ ಪಾತಕಿಗಳು ಎಂದು ತಿಳಿಸಿದೆ.
@@ -12293,6 +12726,8 @@ xxvii 18
 ಮೇಲೆ ಹೇಳಿದ ಏಳು ವಿಧ ಪಾಪಗಳಲ್ಲಿಯೇ ಅಡಗಿರುವವು ಎಂದು ಭಾವಿಸಬೇಕ..
 *[೧ ಸಂಹಿತಾಶಾಲೆ ।]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗಚ್ಚ ಸಚ್ಚ ಪರಮೇ ವ್ಯೋಮನ್ನಕ್ಷಸ್ಯ ಜನ್ಮನ್ನದಿತೇರುಪಸ್ಥೆ ॥
@@ -12307,10 +12742,10 @@ xxvii 18
 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
-> ಅಸದವ್ಯಾಕೃತಂ ಸಚ್ಚ ವ್ಯಾಕೃತಂ । ಅಸದೇವೇದಮಗ್ರ ಆಸೀತ್ ತತ್ಸದಾಸೀತ್ ತತ್ಸಮಭವತ್ । ಛಾಂ. ಉ. ೩-೧೯-೧ ಇತಿ ಶ್ರುತೇಃ । ಸದಸದಾತ್ಮಕಂ ಜಗತ್ಸರ್ವಂ ಪರಮ ಉತ್ತಮೇ
+> ಅಸದವ್ಯಾಕೃತಂ ಸಚ್ಚ ವ್ಯಾಕೃತಂ । ಅಸದೇವೇದಮಗ್ರ ಆಸೀತ್ ತತ್ಸದಾಸೀತ್ ತತ್ಸಮಭವತ್ । ಛಾ. ಉ. ೩-೧೯-೧ ಇತಿ ಶ್ರುತೇಃ । ಸದಸದಾತ್ಮಕಂ ಜಗತ್ಸರ್ವಂ ಪರಮ ಉತ್ತಮೇ
 > ಜ್ಞಾನಸಹಿತೇ ವ್ಯೋಮನ್ವೋಮನಿ ಕಾರಣಾತ್ಮನಿ ಜಾತಮಭೂತ್ಸದಾ । ಆದಿತೇಃ ಪೃಥಿವ್ಯಾ ಉಪಸ್ಥ
 > ಉಪಸ್ಥಾನೇ ಸಮಾಪೇ ದಕ್ಷಸ್ಯ ಪ್ರಜಾಪತೇಃ । ಯದ್ವಾ । ದಕ್ಷಸ್ಯ । ಸ ತ್ರೇಧಾತ್ಮಾನಂ ವ್ಯಭಜತಾದಿತ್ಯಂ
-> ತೃತೀಯಂ ವಾಯುಂ ತೃತೀಯಮಿತಿ ಶ್ರುತೇಃ । ಶತ. ೧೦-೬-೫-೩ । ತೃತೀಯಸ್ಯ ದ್ಯುಲೋಕಸ್ಯಾಧಿಷ್ಠಾತೃತ್ವಾದಾದಿತ್ಯಸ್ಯ : ಜನ್ಮಜ್ಜನ್ಯನಿ । ತತ ಏವಂ ಸತಿ ಮನುಷ್ಯಸ್ಯ ಸೃಷ್ಟಿಕ್ರಮಾತ್ತೂರ್ವಮಗ್ನಿರ್ಹಾಗ್ನಿರ್ವತಸ್ಯ ಕರ್ಮಫಲಸ್ಯ ಭೋಕ್ತೃಣಾಂ ನೋಽಸ್ಮಾಕಂ ಪ್ರಥಮಜಾಃ ಪ್ರಥಮಜಾತಃ ಸಮುತ್ಪನ್ನಃ । ತೇಜೋ ರಸೋ ನಿರವರ್ತತಾಗ್ನಿಃ । ಶತ. ೧೦-೬-೫-೨ । ಬೃ. ಉ. ೧-೧-೨-೨ । ಇತಿ ಶ್ರವಣಾತ್ । ಪಶ್ಚಾತ್ತಪ್ಪ ಕರಣೇ ತತೋ ಮನುಷ್ಯಾ ಅಜಾಯಂತೇತಿ ಪ್ರಥಮತ ಏವ ಮನುಷ್ಯಸೃಷ್ಟೇರಭಿಹಿತತ್ವಾತ್ ಅನಂತರಂ ಪೂರ್ವೇ । ಉತ್ತರ ಸೃಷ್ಟಿಮಪೇಕ್ಷ್ಯ ಪೂರ್ವತ್ವಂ । ಆಯುನಿ ಕಾಲೇಯ.
+> ತೃತೀಯಂ ವಾಯುಂ ತೃತೀಯಮಿತಿ ಶ್ರುತೇಃ । ಶ. ಬ್ರಾ. ೧೦-೬-೫-೩ । ತೃತೀಯಸ್ಯ ದ್ಯುಲೋಕಸ್ಯಾಧಿಷ್ಠಾತೃತ್ವಾದಾದಿತ್ಯಸ್ಯ : ಜನ್ಮಜ್ಜನ್ಯನಿ । ತತ ಏವಂ ಸತಿ ಮನುಷ್ಯಸ್ಯ ಸೃಷ್ಟಿಕ್ರಮಾತ್ತೂರ್ವಮಗ್ನಿರ್ಹಾಗ್ನಿರ್ವತಸ್ಯ ಕರ್ಮಫಲಸ್ಯ ಭೋಕ್ತೃಣಾಂ ನೋಽಸ್ಮಾಕಂ ಪ್ರಥಮಜಾಃ ಪ್ರಥಮಜಾತಃ ಸಮುತ್ಪನ್ನಃ । ತೇಜೋ ರಸೋ ನಿರವರ್ತತಾಗ್ನಿಃ । ಶ. ಬ್ರಾ. ೧೦-೬-೫-೨ । ಬೃ. ಉ. ೧-೧-೨-೨ । ಇತಿ ಶ್ರವಣಾತ್ । ಪಶ್ಚಾತ್ತಪ್ಪ ಕರಣೇ ತತೋ ಮನುಷ್ಯಾ ಅಜಾಯಂತೇತಿ ಪ್ರಥಮತ ಏವ ಮನುಷ್ಯಸೃಷ್ಟೇರಭಿಹಿತತ್ವಾತ್ ಅನಂತರಂ ಪೂರ್ವೇ । ಉತ್ತರ ಸೃಷ್ಟಿಮಪೇಕ್ಷ್ಯ ಪೂರ್ವತ್ವಂ । ಆಯುನಿ ಕಾಲೇಯ.
 > ಮುಗ್ನಿರೇವ ವೃಷಭಶ್ಚಾಸೀತ್ । ಧೇನುಶ್ಕಾಭವತ್ । ಸ್ತ್ರೀಪುಂಸವತ್ ಸ್ತ್ರೀಪುಂಸಾತ್ಮಕೋಽಭವದಿತ್ಯರ್ಥಃ ॥
 
 <!-- printed 278 -->
@@ -12346,7 +12781,7 @@ Non-existent, and existent (is Agni) in the supreme heaven, in the birth-place o
 ಅಸತ್ ಚ ಸತ್ ಚ ಪರಮೇ ವ್ಯೋಮನ್—ಪರಮೇ ವ್ಯೋಮನ್ ಎಂಬ ಶಬ್ದಗಳು ನಾಮರೂಪ
 ರಹಿತವಾದ ಅವ್ಯಕ್ತಬ್ರಹ್ಮಸ್ವರೂಪವನ್ನು ತಿಳಿಸುವ ಶಬ್ದಗಳು. ಪರಬ್ರಹ್ಮನ ಈ ವಿಧವಾದ ಅವ್ಯಕ್ತಸ್ವರೂಪವನ್ನು
 ಅಸದ್ವಾ ಇದಮಗ್ರ ಆಸೀತ್ । ತತೋ ವೈ ಸದಜಾಯತ ! ( ತೈ. ಉ. ೧-೮ ) ಅಸದೇವೇದಮಗ್ರ ಆಸೀತ್ ತತ್ಸದಾ
-ಸೀತ್ ತತ್ಸಮಭವತ್ (ಭಾ. ಉ. ೩-೧೯-೧) ಇತ್ಯಾದಿ ಉಪನಿಷದ್ವಾಕ್ಯಗಳು ವರ್ಣಿಸುವುವು. ಎಂದರೆ ಸೃಷ್ಟಿಗೆ
+ಸೀತ್ ತತ್ಸಮಭವತ್ (ಛಾ. ಉ. ೩-೧೯-೧) ಇತ್ಯಾದಿ ಉಪನಿಷದ್ವಾಕ್ಯಗಳು ವರ್ಣಿಸುವುವು. ಎಂದರೆ ಸೃಷ್ಟಿಗೆ
 ಪೂರ್ವದಲ್ಲಿ ನಾಮರೂಪನಿರ್ದೇಶಗಳಿಲ್ಲದ ಬ್ರಹ್ಮ ಒಂದೇ ಇದ್ದಿತು. ಅದಕ್ಕೆ ಆಕಾರವಾಗಲೀ, ರೂಪವಾಗಲೀ ಇರಲಿಲ್ಲ.
 ಕೇವಲ ಜ್ಞಾನಮಯವೂ ಅನಂತವೂ ಆಗಿದ್ದಿತು. ಈ ಸ್ವರೂಪವನ್ನೇ ಸತ್ಯಂ ಜ್ಞಾನಮನಂತಂ ಬ್ರಹ್ಮ
 (ತೈ. ಉ. ೨-೧-೧) ಎಂಬ ಉಪನಿಷದ್ವಾಕ್ಯವು ಪ್ರತಿಪಾದಿಸುವುದು. ಈ ದೆಶೆಯಲ್ಲಿರುವ ಅವ್ಯಕ್ತಸ್ವರೂಪಕ್ಕೆ ಅಸತ್
@@ -12434,6 +12869,9 @@ Non-existent, and existent (is Agni) in the supreme heaven, in the birth-place o
 
 ಪ್ರಾತರನುವಾಕ ಮತ್ತು ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳ ಪಠನಕ್ಕಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಹಿಂದೆಯೇ
 ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೬ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೬
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೬ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ ೧ ॥
@@ -12441,6 +12879,8 @@ Non-existent, and existent (is Agni) in the supreme heaven, in the birth-place o
 ಋಷಿ—ತ್ರಿತ ಆಪ್ತಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12481,6 +12921,8 @@ Non-existent, and existent (is Agni) in the supreme heaven, in the birth-place o
 *English Translation.*
 
 This is that Agni by whose protections the worshipper (diligent) in sacrifice prospers in his dwelling : who radiant, travels everywhere invested with the excellent splendours of his rays.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12525,6 +12967,8 @@ Agni, the observer of truth, the eternal, who shines resplendent
 with celestial splendours, who comes untiring like a swift horse, (bringing)
 frendly gifts to his friends.
 *[೧ ಸಚಿವಾಲಯ ।]*
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12572,6 +13016,8 @@ Who rules over every oblation to the gods. who all- pervading rules
 at the opening of the dawn, and in whom (the sacrificer), whose sacrifice
 is undisturbed by his foes, throws his choice oblations,—
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶೂಷೇಭಿರ್ವೃಧೋ ಜುಷಾಣೋ ಅರ್ಕೈರ್ದೇವಾ ಅಚ್ಛ ರಘುಪತ್ವಾ
@@ -12617,6 +13063,8 @@ he proceeds to the persence of the gods ; the aborable invoker of the deites,
 most entitled to worship, associated (with the gods), Agni presents to them
 (the oblation) with the sacrificial ladle.
 *[॥ ಸಂಹಿತಾಪ್ರಕಾಶ ॥]*
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12667,6 +13115,8 @@ the bestower of enjoyments, as if he were Indra, him, whom wise wor-
 shippers praise with hymns as Jatavedas, the sacrificer to the victorious Gods.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಂ ಯಸ್ಮಿನ್ವಿಶ್ವಾ ವಸೂನಿ ಜಗ್ಮುರ್ವಾಜೇ ನಾಶ್ವಾಃ ಸಪ್ತೀವಂತ ಏವೈಃ ।
@@ -12707,6 +13157,8 @@ shippers praise with hymns as Jatavedas, the sacrificer to the victorious Gods.
 O Agni, in whom all treasures are brought together as fleet horses
 are brought together in battle : bestow upon us protections even more
 effective than those of Indra.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12766,6 +13218,9 @@ Since you, Agni, born in your glory, and having sat down (on the altar), are imm
 ಇಷ್ಟಿಯ ಪ್ರಧಾನಹೋಮದಲ್ಲಿ ಸ್ವಸ್ತಿ ನಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವ
 ಲಾಯನ ಶೌತಸೂತ್ರದ— ಅಗ್ನಿಃ ಸ್ವಸ್ತಿಮಾನ್ ಸ್ವಸ್ತಿ ನೋ ದಿವೋ ಅಗ್ನೇ ಪೃಥಿವ್ಯಾಃ ಎಂಬ ಸೂತ್ರದಿಂದ
 (ಆ. ೨.೧೦) ವಿವೃತವಾಗಿರುವುದು
+
+## ಸೂಕ್ತ ೭ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೭
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೭ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೬ । ವರ್ಗ—೧ ।
@@ -12778,6 +13233,8 @@ Since you, Agni, born in your glory, and having sat down (on the altar), are imm
 *[ಅ. ೭. ಅ. ೬. ವ. ೨. ] ಋಗ್ವೇದಸಂಹಿತಾ 291]*
 
 *[॥ ಸಃಓಂ ನಮಃ ॥]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12822,6 +13279,8 @@ Since you, Agni, born in your glory, and having sat down (on the altar), are imm
 
 Divine Agni, bestow upon us from earth and heaven prosperity and abundant food, that we may be able to offer sacrifices. May we be associated beautiful (Agni), with your indications (of favour) : protect us, divine Agni on account of our many hymns.
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12868,6 +13327,8 @@ Divine Agni, bestow upon us from earth and heaven prosperity and abundant food, 
 
 These hymns, addressed, Agni, to you, praise you for wealth, to gether with cattle and horses : when a mortal obtains the means of enjoy-ment from you, (then), opulent and well-born Agni, you, who are the granter of benefits, (are celebrated) by our praises.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನಿಂ ಮನ್ಯೇ ಪಿತರಮಗ್ನಿಮಾಪಿಮಗ್ನಿಂ ಭ್ರಾತರಂ ಸದಮಿತ್ಸಖಾಯಂ ।
@@ -12908,6 +13369,8 @@ These hymns, addressed, Agni, to you, praise you for wealth, to gether with catt
 *English Translation.*
 
 I regard Agni as a father, as a kinsman, as a brother, as a constant friend. I reverence the face of the mighty Agni, radiant in heaven, adorable as the sun.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12958,6 +13421,8 @@ you, the perpetual invoker of the gods, protect in the sacrificial chamber,
 be rich in sacrifices, the master of red steeds, the possessor of abundant
 food ; may the desirable (oblation) be granted him on shining days.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದ್ಯುಭಿರ್ಹಿತಂ ಮಿತ್ರಮಿವ ಪ್ರಯೋಗಂ ಪ್ರತ್ನಮೃತ್ತಿಜಮಧ್ವರಸ್ಯ ಜಾರಂ ।
@@ -12998,6 +13463,8 @@ food ; may the desirable (oblation) be granted him on shining days.
 *English Translation.*
 
 Men have generated with their arms Agni, who is decorated with rays of light, selected as a friend, the ancient priest, the accomplisher of the sacrifice, and they have appointed him amongst people, the invoker of the gods.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13044,6 +13511,8 @@ Offer sacrifice yourself, divine (Agni), to the gods in heaven : what can one wh
 <!-- printed 298 -->
 *[298 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦ ಅ. ೧. ಸೂಕ್ತ ೭]*
 
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13157,7 +13626,7 @@ Be our protector, Agni, (in obvious peril) : be our presever (in un, seen danger
 ತ್ರಿತ ಎಂಬ ಶಬ್ದದ ಪ್ರಯೋಗವಿದ್ದರೂ ಅಲ್ಲಿಯೂ ಏನೂ ತಿಳಿಯಬರುವುದಿಲ್ಲ. ಇವನಿಗೂ ಇಂದ್ರನಿಗೂ ಇರುವ
 ಸಾಹಚರ್ಯವು ಮಾತ್ರ ಅನೇಕಕಡೆಗಳಲ್ಲಿದೆ. ಎಲ್ಲ ಕಡೆಗಳಲ್ಲಿಯೂ ಹೇಳಿರುವಂತೆ ತ್ರಿತನು ಬಹಳದೂರದಲ್ಲಿರುವ
 ದೇವತೆ, ಅವನಲ್ಲಿಗೆ ಪಾಪ ಅಥವಾ ದುಃಸ್ವಪ್ನಗಳು ಕಳುಹಿಸಲ್ಪಡುತ್ತವೆ, ಎಂದು ಮಾತ್ರ ಜ್ಞಾತವಾಗುತ್ತದೆ.
-(ಅ. ವೇ. ೧-೧೩೧-೧, ೩ ; ೧೯-೫೫-೪) ತೈತ್ತಿರೀಯ ಸಂಹಿತೆಯಲ್ಲಿ ಅವನು ದೀರ್ಘಾಯುಸ್ಸನ್ನು ಕೊಡತಕ್ಕವನು
+(ಅಥ. ಸಂ. ೧-೧೩೧-೧, ೩ ; ೧೯-೫೫-೪) ತೈತ್ತಿರೀಯ ಸಂಹಿತೆಯಲ್ಲಿ ಅವನು ದೀರ್ಘಾಯುಸ್ಸನ್ನು ಕೊಡತಕ್ಕವನು
 ಎಂದಿದೆ (ತೈ. ಸಂ. ೧-೮-೧೦-೨) ಅವನು ಅಮರತ್ವದಾಯಕವಾದ ಸೋಮರಸವನ್ನು ಸಿದ್ಧಮಾಡುವವನು. ತ್ರಿತನು
 ಏಕತ, ದ್ವಿತ ಮತ್ತು ತ್ರಿತರೆಂಬ ಮೂರುಮಂದಿ ಸಹೋದರರಲ್ಲೊಬ್ಬನು. ಈ ಮೂವರೂ ಅಗ್ನಿಪುತ್ರರು; ತ್ರಿತನು
 ನೀರಿನಿಂದ ಉದ್ಭವಿಸಿದನು ಎಂಮ ಶ. ಬ್ರಾ. ೧-೨-೩-೧, ೨ ಮತ್ತು ತೈ. ಬ್ರಾ. ೩-೨-೮-೧೦, ೧೧ ಇತ್ಯಾದಿ
@@ -13368,6 +13837,9 @@ xxvii 20
 ಅನುಕ್ರಮಣಿಯಲ್ಲಿ ಪ್ರ ಕೇತುನಾ ನವ ತ್ರಿಶಿರಾಸ್ತಾಷ್ಟಸ್ಯಚೋಽನ್ತ್ಯ ಐಂದ್ರಃ ಎಂದು ಹೇಳಿರುವುದು.
 ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಆರು ಋಕ್ಕುಗಳಿಗೆ ಪ್ರಾತರನುವಾಕ ಮತ್ತು ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಆಗ್ನೇಯಕ್ರತಸಂಬಂಧವಾದ ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಸಿನ ಮಂತ್ರಗಳಿಗಾಗಿ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ
 ಸೂಕ್ತ—ಲ
+
+## ಸೂಕ್ತ ೮ (ಮಂಡಲ ೧೦)
+
 ಮಂಡಲ—೧೦ : ಅನುವಾಕ—೧ : ಸೂಕ್ತ—೮ ।
 ಅಸ್ಪಕ—೭ : ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೩, ೪ ।
 ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೯ ।
@@ -13379,6 +13851,8 @@ xxvii 20
 *[308 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೧. ಸೂ. ೮.]*
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13424,6 +13898,8 @@ Agni traverses heaven and earth with a vast banner ; he roars (like)
 a bull ; he spreads aloft over the remote and proximate (regions) of the
 sky ; mighty, he increases in the lap of the water.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮುಮೋದ ಗರ್ಭೋ ವೃಷಭಃ ಕಕುದ್ಮಾನಸ್ರೇಮಾ ವತ್ಸಃ ಶಿಮೀನಾ
@@ -13468,6 +13944,8 @@ sky ; mighty, he increases in the lap of the water.
 
 The emoryo (of heaven and earth), the showerer (of benefits), the glorious, rejoices ; the excellent child (of morn and eve), the celebrator of holy rites calls aloud : assiduous in exertions at the worship of the gods, he moves chief in his own abodes.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಯೋ ಮೂರ್ಧಾನಂ ಪಿತ್ರೋರರಬ್ಧ ನ್ಯಧ್ವರೇ ದಧಿರೇ ಸೂರೋ ಅರ್ಣಃ ।
@@ -13510,6 +13988,8 @@ The emoryo (of heaven and earth), the showerer (of benefits), the glorious, rejo
 
 They have placed in the sacrifice the radiance of the powerful Agni, who seizes hold of the forehead of his parents, gratifying his cherished, radiant, and expanding limbs, in their course, in their chamber of sacrifice.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಷಉಷೋ ಹಿ ವಸೋ ಅಗ್ರಮೇಷಿ ತ್ವಂ ಯಮಯೋರಭವೋ
@@ -13547,6 +14027,8 @@ They have placed in the sacrifice the radiance of the powerful Agni, who seizes 
 
 Opulent Agni, you precede dawn after dawn. You are the illuminator of the twin (day and night) : engendering Mitra from your own preson, you retain seven places for sacrifice
 *[ಸಹಿತಾಪಾತಿ]*
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13598,6 +14080,8 @@ You are the eye, the protector of the great sacrifice : when you pro-
 ceed to the rite, you are Varuna ; you are the grandson of the waters,
 Jatavedas ; you are the messenger (of him) whose oblation you enjoy.
 *[೧ ಸಂಹಿತಾಪಾಠಿ ೧]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13655,6 +14139,8 @@ tongue the bearer of the oblation
 ಎಂಬ ಒಂದು ಕಾಮ್ಯೇಷ್ಟಿಯಲ್ಲಿಯೂ ಈ ಋಕ್ಕನ್ನು ಯಾಜ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತ
 ಸೂತ್ರದ. ಆಗ್ನೇಯಾ ಉತ್ತರೇ ನಿತ್ಯೇ ಮೂರ್ಧನ್ವತಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨ ೧೦) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ಯ ತ್ರಿತಃ ಕ್ರತುನಾ ನವ್ರೇ ಅಂತರಿಚ್ಛಸ್ಥಿತಿಂ ಪಿತುರೇವೈಃ ಪರಸ್ಯ ।
@@ -13699,6 +14185,8 @@ Trita by (his own) powers, desiring a share (of the sacrifice), for the sake of 
 *[ಅ. ೭. ಅ. ೬. ವ. ೪.] ಋಗ್ವೇದಸಂಹಿತಾ 317]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ಪಿತ್ರ್ಯಾಣ್ಯಾಯುಧಾನಿ ವಿದ್ವಾನಿಂದ್ರೇಷಿತ ಆಪ್ತ್ಯೋ ಅಭ್ಯಯುಧ್ಯತ್ ।
@@ -13739,6 +14227,8 @@ Trita by (his own) powers, desiring a share (of the sacrifice), for the sake of 
 *English Translation.*
 
 He, the son of the waters, incited by Indra, skilled in his paternal weapons, fought against (the enemy), and slew the seven-rayed, three-headed (Asura) : then Trita set free the cows of the son of Twashtri.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13900,6 +14390,9 @@ xxvii 21
 ಹೇಳಲಾಗಿದೆ. ಆಗ್ನಿಮಾರುತಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಆಪೋ ಹಿ ಷ್ಠಾ ಎಂಬ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು
 ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಅಶ್ವಲಾಯನ ಶೌತಸೂತ್ರದ—ಆಪೋ ಹಿ ಷ್ಠೇತಿ ತಿಸ್ರೋ ವಿಯತಮಪ
 ಉಪಸ್ಪೃಶನ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೨೦) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೯ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ-೯
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೯ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೫ ।
@@ -13913,6 +14406,8 @@ xxvii 21
 *[ಆ. ೭. ಆ. ೬. ಪ. ೨೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 323]*
 
 *[॥ ಸಂಹ ತಾಹಾತಿ ॥]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13969,6 +14464,8 @@ Since, Waters, you are the sources of happiness, grant to us to enjoy abundance,
 ಮತ್ತು ಶ್ರೇಷ್ಠವೂ ರಮಣೀಯವೂ ಆದ ಸುಖ (ಸ್ಥಿತಿಯನ್ನು) ವನ್ನೂ ನಾವು ನೋಡುವಂತೆ ಅನುಗ್ರಹಿಸಿ ಎಂದು
 ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೋ ನಃ ಶಿವತಮೋ ರಸಸ್ತಸ್ಯ ಭಾಜಯತೇಹ ನಃ ।
@@ -14007,6 +14504,8 @@ Since, Waters, you are the sources of happiness, grant to us to enjoy abundance,
 
 Give us to partake in this world of your most auspicious juice, like affectionate mothers.
 *[೧ ಸಂಹಿತಾಪಾಠಃ ೧]*
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14047,6 +14546,8 @@ Give us to partake in this world of your most auspicious juice, like affectionat
 
 Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us: waters, bestow upon us progeny.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶಂ ನೋ ದೇವೀರಭಿಷ್ಟಯ ಆಪೋ ಭವಂತು ಪೀತಯೇ ।
@@ -14086,6 +14587,8 @@ May the divine waters be propitious to our worship, (may
 they be good) for our drinking; may they flow round us, and be our health
 *[and safety.]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಈಶಾನಾ ವಾರ್ಯಾಣಾಂ ಕ್ಷಯಂತೀಚ್ಚರ್ಷಣೀನಾಂ ।
@@ -14116,6 +14619,8 @@ they be good) for our drinking; may they flow round us, and be our health
 
 Waters, sovereigns of precious (treasures), granters of habitations
 to men, I solicit of you medicine (for my infirmities).
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14177,6 +14682,8 @@ the benefector of the universe, are in the waters,
 ಹೇಳಬೇಕಾದ ಅವಶ್ಯಕತೆ ಇಲ್ಲ.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಪಃ ಪೃಣೀತ ಭೇಷಜಂ ವರೂಥಂ ತನ್ನೇ ೩ ಮಮ ।
@@ -14193,9 +14700,9 @@ the benefector of the universe, are in the waters,
 > ಹೇ ಆಪೋ ಮಮ ತನ್ನೇ ಶರೀರಾರ್ಥಂ ವರೂಥಂ ರೋಗನಿವಾರಕಂ ಭೇಷಜಮೌಷಧಂ
 > ಪೃಣೀತ । ಪೂರಯತ । ಕಿಂಚ ಜ್ಯೋಕ್ ಚಿರಂ ಸೂರ್ಯಂ ದೃಶೇ ದ್ರಷ್ಟುಂ ನಿರೋಗಾ ವಯಂ ಶಕ್ಕುವಾಮೇತಿ ಶೇಷಃ ॥ ಪೃಣೀತ । ಪ್ಪ ಪಾಲನಪೂರಣಯೋಃ । ಲೋಣ್ಮಧ್ಯಮಬಹುವಚನಂ ಥ । ತಸ್ಯ
 > ತಸ್ಥಸ್ಥ ಮಿಪಾಮಿತಿ ತಾದೇಶಃ । ಕ್ರಾದಿಭ್ಯಃ ಶ್ನಾ । ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವ ಇತಿ ಹ್ರಸ್ವಃ । ಈಹಲ್ಯಘೋರಿತೀತ್ವಂ । ಋವರ್ಣಾಚ್ಚೇತಿ - ಣತ್ವಂ । ಸತಿ ಶಿಷ್ಟಸ್ವರಬಲೀಯಸ್ತ್ವಮನ್ಯತ್ರ ವಿಕರಣೇಧ್ಯ ಇತಿ ತಿಜಃ
-> ಸ್ವರಃ ಶಿಷ್ಯತೇ । ಆಪ ಇತ್ಯಸ್ಯಾಮಂತ್ರಿತಂ ಪೂರ್ವಮವಿದ್ಯಮಾನವದಿತ್ಯವಿದ್ಯಮಾನವತ್ವೇ ಪಾದಾದಿತ್ವಾನ್ನಿಘಾತಾಭಾವಃ । ವರೂಥಂ । ವೃಞ್ ವರಣೇ । ಜ್ಞವೃಞ್ ಭ್ಯಾಮೂಥನ್ । ಉ. ೨-೬ । ನಿತ್ತ್ವಾದಾದ್ಯುದಾತ್ತಃ । ತನ್ನೇ । ಜಾತಿ ಹ್ರಸ್ವಶ್ಚ । ಪಾ. ೧-೪-೬। ಇತಿ ನದೀಸಂಜ್ಞಾ ಪಾಕ್ಷಿಕೀತ್ಯಾಡಾಗಮಾಭಾವಃ।
+> ಸ್ವರಃ ಶಿಷ್ಯತೇ । ಆಪ ಇತ್ಯಸ್ಯಾಮಂತ್ರಿತಂ ಪೂರ್ವಮವಿದ್ಯಮಾನವದಿತ್ಯವಿದ್ಯಮಾನವತ್ವೇ ಪಾದಾದಿತ್ವಾನ್ನಿಘಾತಾಭಾವಃ । ವರೂಥಂ । ವೃಞ್ ವರಣೇ । ಜ್ಞವೃಞ್ ಭ್ಯಾಮೂಥನ್ । ಉ. ಸೂ. ೨-೬ । ನಿತ್ತ್ವಾದಾದ್ಯುದಾತ್ತಃ । ತನ್ನೇ । ಜಾತಿ ಹ್ರಸ್ವಶ್ಚ । ಪಾ. ಸೂ. ೧-೪-೬। ಇತಿ ನದೀಸಂಜ್ಞಾ ಪಾಕ್ಷಿಕೀತ್ಯಾಡಾಗಮಾಭಾವಃ।
 > ಉದಾತ್ತಯಣೋ ಹಲ್ಕೂರ್ವಾದಿತಿ ವಿಭಕ್ತುದಾತ್ತತ್ವೇ ಪ್ರಾಪ್ತೇ ವ್ಯತ್ಯಯೇನೋದಾತ್ತಸ್ವರಿತಯೋರಿತಿ
-> ಸ್ವರಿತತ್ವಂ । ದೃಶೇ । ದೃಶೇ ವೃಖ್ಯೇ ಚ । ಪಾ. ೩-೪-೧೧ । ಇತಿ ತುಮರ್ಥೇ ನಿಪಾತ್ಯತೇ ॥
+> ಸ್ವರಿತತ್ವಂ । ದೃಶೇ । ದೃಶೇ ವೃಖ್ಯೇ ಚ । ಪಾ. ಸೂ. ೩-೪-೧೧ । ಇತಿ ತುಮರ್ಥೇ ನಿಪಾತ್ಯತೇ ॥
 
 <!-- printed 330 -->
 *[380 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೧. ಸೂ. ೯.]*
@@ -14244,6 +14751,8 @@ the good of my body, that I may long behold the Sun.
 ಇವುಗಳಲ್ಲದೆ ಯಜುರ್ವೇದಲ್ಲಿಯೂ— “ ಪಶ್ಯೇಮ ಶರದಃ ಶತಂ.... ಜ್ಯೋಕ್ ಚ ಸೂರ್ಯಂ ದೃಶೇ.”
 “ ಜ್ಯೋಕ್ ಚ ಪಶ್ಯಾಮಿ ಸೂರ್ಯಂ ” ಮೊದಲಾದ ಈ ಅಭಿಪ್ರಾಯವನ್ನು ಸೂಚಿಸುವ ಅನೇಕ ವಾಕ್ಯಗಳಿವೆ.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇದಮಾಪಃ ಪ್ರ ವಹತ ಯತ್ಕಿಂ ಚ ದುರಿತಂ ಮಯಿ !
@@ -14261,7 +14770,7 @@ the good of my body, that I may long behold the Sun.
 > ತ್ವಮಾವೇಕವಚನ ಇತಿ ಮಾದೇಶೇ ಕೃತೇಽತೋ ಗುಣ ಇತಿ ಪರರೂಪೇ ಚ ಸತಿ ಯೋಽಚೀತಿ ದಕಾರಸ್ಯ
 > ಯಕಾರಾದೇಶಃ । ಏಕಾದೇಶಸ್ವರೇಣ ಮಕಾರಾತ್ಪರಸ್ಯಾಕಾರಸ್ಯೋದಾತ್ತತ್ವಂ । ದುದ್ರೋಹ । ದ್ರುಹ
 > ಜಿಘಾಂಸಾಯಾಂ । ಣಲಿ ಗುಣೇ ದ್ವಿರ್ವಚನಹ್ರಸ್ವಹಲಾದಿಶೇಷಾಃ । ಲಿತೀತಿ ಪ್ರತ್ಯಯಾತ್ಪೂರ್ವಸ್ಕೋದಾತ್ತತ್ವಂ । ಯದ್ವೃತ್ತಯೋಗಾನ್ನಿಘಾತಾಭಾವಃ । ಶೇಷೇ । ಶಪ ಆಕ್ರೋಶೇ । ಲಿಟಿ ವ್ಯತ್ಯಯೇನ
-> ತಜ್ । ಉತ್ತಮೈಕವಚನಮಿಟ್ । ಟೇರೇತ್ವಂ । ಅತ ಏಕಹಲ್ಮಧ್ಯೆ । ಪಾ. ೬-೪-೧೨೦ । ಇತ್ಯೇತ್ವಾ
+> ತಜ್ । ಉತ್ತಮೈಕವಚನಮಿಟ್ । ಟೇರೇತ್ವಂ । ಅತ ಏಕಹಲ್ಮಧ್ಯೆ । ಪಾ. ಸೂ. ೬-೪-೧೨೦ । ಇತ್ಯೇತ್ವಾ
 > ಭ್ಯಾಸಲೋಪೌ । ಪ್ರತ್ಯಯಸ್ವರೇಣಾಂತೋದಾತ್ತತ್ವಂ । ಪೂರ್ವವನ್ನಿಘಾತಾಭಾವಃ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
@@ -14298,6 +14807,8 @@ Waters, take away whatever sin has been (found) in me, whether I have (knowingly
 ಪ್ರಾರ್ಥನೆಯು.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಪೋ ಅದ್ಯಾನ್ವ ಚಾರಿಷಂ ರಸೇನ ಸಮಗಸ್ಮಹಿ ॥
@@ -14318,10 +14829,10 @@ Waters, take away whatever sin has been (found) in me, whether I have (knowingly
 > ಅದ್ಯಾಸ್ಮಿನ್ನಿನೇವಭೃಥಾರ್ಥಮಾಪೋಽನ್ವಚಾರಿಷಂ । ಜಲಾನ್ಯನುಪ್ರವಿಷ್ಟೋಽಸ್ಮಿ । ಪ್ರವಿಶ್ಯ ಚ
 > ರಸೇನ ಜಲಸಾರೇಣ ಸಮಗಸ್ಮಹಿ । ಸಂಗತಾಃ ಸ್ಮಃ । ಹೇ ಅಗ್ನೇ ಪಯಸ್ವಾನ್ ಜಲೇ ವರ್ತಮಾನತ್ವೇನ
 > ಪಯೋಯುಕಸ್ತ್ವಮಾ ಗಹಿ । ಅಸ್ಮಿನ್ಕರ್ಮಣ್ಯಾಗಚ್ಛ । ತಂ ಮಾ ತಾದೃಶಂ ಸ್ನಾತಂ ಮಾಂ ವರ್ಚಸಾ
-> ತೇಜಸಾ ಸಂ ಸೃಜ । ಸಂಯೋಜಯ ॥ ಅಪಃ । ಕರ್ಮಣಿ ಶಸಿ ಪ್ರಾಪ್ತೇ ವ್ಯತ್ಯಯೇನ ಜಸ್ । ಆಚಾರಿಷಂ । ಚರ ಗತ್ಯರ್ಥಃ । ! ಲುಜಿ ಚ್ಛೇಃ ಸಿಚ್ । ಆರ್ಧಧಾತುಕಸ್ಯೇಡ್ವಲಾದೇಃ । ಪಾ. ೭-೨-೩೫ ।
-> ಇತೀಟ್! ನೇಟಿ। ಪಾ. ೭-೨-೪। ಇತಿ ವೃದ್ಧಿ ಪ್ರತಿಷೇಧೇಪ್ರಾಪ್ತೇ ತದಪವಾದತೆಯಾತೋ ಲಾಂತಸ್ಯ; ಪಾ।
-> ೭.೨-೨ । ಇತ್ಯುಪಧಾಯಾ ವೃದ್ಧಿಃ । ಅಗಸ್ಮಹಿ । ಸಮೋ ಗಮ್ಯಚ್ಛೇತ್ಯಾತ್ಮನೇಪದಂ । ಪಾ. ೧-೩-೨೯ ।
-> ಚ್ಛೇಃ ಸಿಚ್ । ಮಂತ್ರೇ ಘಸೇತ್ಯಾದಿನಾ ಜ್ಲೇರ್ಲುಗಭಾವಶ್ಚಾಂದಸಃ । ಏಕಾಚ ಉಪದೇಶೇಽನುದಾತ್ತಾದಿತೀಟ್ ಪ್ರತಿಷೇಧಃ । ನಾ ಗಮಃ । ಪಾ. ೧-೨-೧೩ । ಇತಿ ಸಿಚಃ ಕಿತ್ತ್ವಾದನುದಾತ್ತೋಪದೇಶೇತ್ಯಾದಿದಾನುನಾಸಿಕಲೋಪಃ । ಗಹಿ । ಲೋಟಿ ಗಮೇಃ ಸಿಪೋ ಹಿಃ । ಅಪಿತ್ವೇನ ಜುತ್ತ್ವಾದನುದಾತ್ತೋಪದೇಶೇತ್ಯಾದಿನಾನುನಾಸಿಕಲೋಪಃ । ಅತೋ ಹೇರಿತಿ ಲುಗ್ನ ಭವತಿ । ಅಸಿದ್ಧವದತ್ರಾಭಾದಿತಿ
+> ತೇಜಸಾ ಸಂ ಸೃಜ । ಸಂಯೋಜಯ ॥ ಅಪಃ । ಕರ್ಮಣಿ ಶಸಿ ಪ್ರಾಪ್ತೇ ವ್ಯತ್ಯಯೇನ ಜಸ್ । ಆಚಾರಿಷಂ । ಚರ ಗತ್ಯರ್ಥಃ । ! ಲುಜಿ ಚ್ಛೇಃ ಸಿಚ್ । ಆರ್ಧಧಾತುಕಸ್ಯೇಡ್ವಲಾದೇಃ । ಪಾ. ಸೂ. ೭-೨-೩೫ ।
+> ಇತೀಟ್! ನೇಟಿ। ಪಾ. ಸೂ. ೭-೨-೪। ಇತಿ ವೃದ್ಧಿ ಪ್ರತಿಷೇಧೇಪ್ರಾಪ್ತೇ ತದಪವಾದತೆಯಾತೋ ಲಾಂತಸ್ಯ; ಪಾ।
+> ೭.೨-೨ । ಇತ್ಯುಪಧಾಯಾ ವೃದ್ಧಿಃ । ಅಗಸ್ಮಹಿ । ಸಮೋ ಗಮ್ಯಚ್ಛೇತ್ಯಾತ್ಮನೇಪದಂ । ಪಾ. ಸೂ. ೧-೩-೨೯ ।
+> ಚ್ಛೇಃ ಸಿಚ್ । ಮಂತ್ರೇ ಘಸೇತ್ಯಾದಿನಾ ಜ್ಲೇರ್ಲುಗಭಾವಶ್ಚಾಂದಸಃ । ಏಕಾಚ ಉಪದೇಶೇಽನುದಾತ್ತಾದಿತೀಟ್ ಪ್ರತಿಷೇಧಃ । ನಾ ಗಮಃ । ಪಾ. ಸೂ. ೧-೨-೧೩ । ಇತಿ ಸಿಚಃ ಕಿತ್ತ್ವಾದನುದಾತ್ತೋಪದೇಶೇತ್ಯಾದಿದಾನುನಾಸಿಕಲೋಪಃ । ಗಹಿ । ಲೋಟಿ ಗಮೇಃ ಸಿಪೋ ಹಿಃ । ಅಪಿತ್ವೇನ ಜುತ್ತ್ವಾದನುದಾತ್ತೋಪದೇಶೇತ್ಯಾದಿನಾನುನಾಸಿಕಲೋಪಃ । ಅತೋ ಹೇರಿತಿ ಲುಗ್ನ ಭವತಿ । ಅಸಿದ್ಧವದತ್ರಾಭಾದಿತಿ
 > ಮಲೋಪಸ್ಯಾಸಿದ್ಧತ್ವಾತ್ ॥
 *[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
 
@@ -14541,10 +15052,10 @@ xxvii 22
 *[340 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೧. ಸೂ. ೧೦:]*
 
 ಇದೇ ನಾಯಿಗಳನ್ನು ಅಥರ್ವವೇದದಲ್ಲೂ ವರ್ಣಿಸಿದೆ. ಇವುಗಳಲ್ಲಿ ಒಂದು ಶ್ಯಾಮವರ್ಣವುಳ್ಳದ್ದೆಂದೂ
-ತಿಳಿಸಿದೆ. (ಅ. ವೇ. ೮-೧೯ ರಲ್ಲಿ ಯಮದೂತರನ್ನು ಬಹುವಚನದಲ್ಲಿ ನಿರ್ದೇಶಿಸಿದೆ. ಆದರೆ ಅವುಗಳನ್ನು
+ತಿಳಿಸಿದೆ. (ಅಥ. ಸಂ. ೮-೧೯ ರಲ್ಲಿ ಯಮದೂತರನ್ನು ಬಹುವಚನದಲ್ಲಿ ನಿರ್ದೇಶಿಸಿದೆ. ಆದರೆ ಅವುಗಳನ್ನು
 ಶ್ವಾನಗಳೆಂದು ತಿಳಿಸಿಲ್ಲ.
 ವೈವಸ್ವತೇನ ಪ್ರಹಿತಾನ್ಯಮದೂತಾಂಶ್ಚ ರತೋಽಪಸೇಧಾಮಿ ಸರ್ವಾನ್ ।
-(ಅ. ವೇ. ೮-೨-೧೧)
+(ಅಥ. ಸಂ. ೮-೨-೧೧)
 ವಿವಸ್ವತ್ಪುತ್ರನಾದ ಯಮನಿಂದ ಕಳುಹಲ್ಪಟ್ಟ ಸಕಲ ದೂತರನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳುತ್ತೇನೆ ಎಂದಿರುತ್ತದೆ. ಈ ಯಮ
 ದೂತರು ಶ್ವಾನಗಳಾಗಲಿ ಅಥವಾ ಯಾರಾದರಾಗಲಿ ಅವರ ಭಯಜನಕತ್ವವು ಘೋರವಾಗಿಯೇ ಇರುತ್ತದೆ. ಯಮ
 ದೂತರಂತೆಯೇ ಯಮನ ಆಯುಧವೂ ಭಯಜನಕವಾಗಿರುತ್ತದೆ.
@@ -14880,7 +15391,7 @@ xxvii 22
 ವಾಗಿದೆ. ಯಮನು ಅವರೊಡನೆ ಯಾಗಕ್ಕೆ ಬರುತ್ತಾನೆ ಮತ್ತು ಸಂತೋಷಪಡುತ್ತಾನೆ (೧೦-೧೪-೩, ೪;
 ೧೦-೧೫-೮). ಬಂಗಾರದಂತೆ ಕಣ್ಣುಗಳೂ, ಕಬ್ಬಿಣದ ಗೊರಸೂ ಉಳ್ಳ ಅವನ ಅಶ್ವಗಳ ವಿಷಯವು ಪ್ರಸ್ತಾ
 ಪಿತವಾಗಿದೆ (ತೈ. ಅ. ೬-೫-೨; ಆಪ. ಶೌ. ಸೂ. ೧೬-೬). ಅವನು ಜನಗಳನ್ನೆಲ್ಲಾ ಒಂದುಗೂಡಿಸುವವನು
-(೧೦-೧೪-೧), ಮೃತರಾದರಿಗೆ ವಿಶ್ರಾಂತಿಸ್ಥಾನವನ್ನು ಕಲ್ಪಿಸುತ್ತಾನೆ (೧೦-೧೪-೯ ; ಅ. ವೇ. ೧೮-೨-೩೭;)
+(೧೦-೧೪-೧), ಮೃತರಾದರಿಗೆ ವಿಶ್ರಾಂತಿಸ್ಥಾನವನ್ನು ಕಲ್ಪಿಸುತ್ತಾನೆ (೧೦-೧೪-೯ ; ಅಥ. ಸಂ. ೧೮-೨-೩೭;)
 ಮತ್ತು ಅವರಿಗೆ ಒಂದು ಪ್ರತ್ಯೇಕ ವಾಸಗೃಹವನ್ನು ಕಲ್ಪಿಸುತ್ತಾನೆ (೧೦-೧೮-೧೩).
 ಯಮನ ಸ್ಥಾನವು ಆಕಾಶದ ಒಂದು ಮೂಲೆಯಲ್ಲಿದೆ (೯-೧೧೩-೮). ಮೂರು ಸ್ವರ್ಗಗಳಲ್ಲಿ,
 ಎರಡು ಸವಿತೃವಿಗೂ, ಒಂದು ಯಮನಿಗೂ ಸೇರಿದೆ (೧-೩೫-೬; ೧-೧೨೩-೬ನ್ನು ಹೋಲಿಸಿ); ಯಮನ
@@ -14893,7 +15404,7 @@ xxvii 22
 (೧೦-೧೪-೪) ಇದೆ.
 ವಿವಸ್ವಂತನು ಅವನ ಜನಕ (೧೦-೧೪-೫) ಮತ್ತು ಸರಣು ಎಂಬುವಳು ತಾಯಿಯೆಂದು ಉಕ್ತವಾಗಿದೆ
 (೧೦-೧೭-೧). ಅನೇಕ ಸಲ ವೈವಸ್ವತನೆಂದು ಕರೆದಿದೆ (೧೦-೧೪-೧; ಇತ್ಯಾದಿ). ಅವನಿಗೆ ಅಧಿಕರಾರೂ
-ಇಲ್ಲದುದರಿಂದ, ಯಮನೇ ವಿವಸ್ವತನಿಗಿಂತ ಶ್ರೇಷ್ಠನು (ಅ. ವೇ. ೧೮-೨-೩೨ ; ೧೮-೩-೬೧, ೬೨ಗಳನ್ನು ಹೋಲಿಸಿ).
+ಇಲ್ಲದುದರಿಂದ, ಯಮನೇ ವಿವಸ್ವತನಿಗಿಂತ ಶ್ರೇಷ್ಠನು (ಅಥ. ಸಂ. ೧೮-೨-೩೨ ; ೧೮-೩-೬೧, ೬೨ಗಳನ್ನು ಹೋಲಿಸಿ).
 
 <!-- printed 351 -->
 *[ವ. ೭. ಅ. ೬. ವ. ೬.] ಋಗ್ವೇದಸಂಹಿತಾ 351]*
@@ -14903,7 +15414,7 @@ xxvii 22
 ಹೇಳುತ್ತಾಳೆ( ೧೦-೧೦-೩ ). ಯಮನು ದೇಹವನ್ನು ತ್ಯಜಿಸಿ ಮೃತ್ಯುವನ್ನೇ ಅಪೇಕ್ಷಿಸಿದನೆಂದು ಇದೆ.
 (೧೦-೧೩-೪). ಅವನು ಅನಂತರ ಬರುವ ಅನೇಕರಿಗೆ ದಾರಿಯನ್ನು ತೋರಿಸುತ್ತಾ, ಬೇರೆ ಲೋಕಕ್ಕೆ
 ಹೋದನು ; ಇಲ್ಲಿಗೇ ಪುರಾತನರಾದ ಪಿತೃಗಳೂ ಹೋಗಿರುವುದು (೧೦-೧೪ ೧, ೨). ಅವನೇ ಮೃತರಾದ
-ಮರ್ತ್ಯರಿಗೆಲ್ಲಾ ಮೊದಲಿನವನು (ಅ. ವೇ. ೧೮-೩-೧೩). ಇಲ್ಲಿ ಮರ್ತ್ಯರೆಂದರೆ ಮನುಷ್ಯರೇ ಇರಬೇಕು ; ಆದರೆ,
+ಮರ್ತ್ಯರಿಗೆಲ್ಲಾ ಮೊದಲಿನವನು (ಅಥ. ಸಂ. ೧೮-೩-೧೩). ಇಲ್ಲಿ ಮರ್ತ್ಯರೆಂದರೆ ಮನುಷ್ಯರೇ ಇರಬೇಕು ; ಆದರೆ,
 ಬೇರೆ ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ, ಮರ್ತಪದದಿಂದ ದೇವತೆಗಳೂ ಉದ್ದಿಷ್ಟರಾಗಿದ್ದಾರೆ. ಯಮನು ಸತ್ತವರಲ್ಲಿ ಮೊದಲನೆಯ
 ವನೂ, ಬಹಳ ಪುರಾತನನೂ ಆದುದರಿಂದ, ಅವರಿಗೆಲ್ಲಾ ಒಡೆಯನೆನಿಸಿಕೊಳ್ಳುವುದು ಸ್ವಾಭಾವಿಕವೇ. ಅವನಿಗೆ
 ವಿಶ್ವತಿ (ನೆಲಸಿದವರಿಗೆಲ್ಲಾ ಒಡೆಯ), ನಮ್ಮ ತಂದೆ ಎಂಬ ವಿಶೇಷಣಗಳಿವೆ (೧೦-೧೩೫-೧). ಯಮನ
@@ -14913,17 +15424,17 @@ xxvii 22
 ಇರಬಹುದು (೧-೧೬೩-೨: ೧-೮೩-೫ನ್ನು ಹೋಲಿಸಿ); ಹೀಗೆಯೇ ಯಮನಿಗೂ ಆದಿತ್ಯನಿಗೂ ಸಂಬಂಧವು
 ಋಗ್ವೇದದಲ್ಲಿಯೂ ಉಕ್ತವಾಗಿದೆಯೆನ್ನಬಹುದು.
 ಮೃತ್ಯುವೇ ಯಮನ ಮಾರ್ಗ (೧-೩೮-೫) ಮತ್ತು ಒಂದು ಸಲ (೧-೧೬೫.೪; ಮೈ. ಸಂ. ೨-೫-೬
-ಮತ್ತು ಅ. ವೇ. ೬-೨೮.೩೧ ಮತ್ತು ೬.೯೩-೧ ಗಳನ್ನು ಹೋಲಿಸಿ) ಅವನೇ ಮೃತ್ಯುವೆಂತಲೂ ಹೇಳಿದೆ.
+ಮತ್ತು ಅಥ. ಸಂ. ೬-೨೮.೩೧ ಮತ್ತು ೬.೯೩-೧ ಗಳನ್ನು ಹೋಲಿಸಿ) ಅವನೇ ಮೃತ್ಯುವೆಂತಲೂ ಹೇಳಿದೆ.
 ಯಮನು ಉಪಯೋಗಿಸುವ ಶೃಂಖಲೆಗಳು ವರುಣನ ಪಾಶಕ್ಕೆ ಉಪಮಿತವಾಗಿವೆ (೧೦-೯೭-೧೬). ಇಂತಹ
 ವಾಕ್ಯಗಳು ಮತ್ತು ಅವನ ದೂತರ ಲಕ್ಷಣಗಳಿಂದ ಯಮನು ಭಯಂಕರನೆಂದು ತೋರಬಹುದು. ಅಥರ್ವ
 ವೇದದಲ್ಲಿ ಮತ್ತು ಇತರ ವೈದಿಕ ಇತಿಹಾಸಗಳಲ್ಲಿ, ಮರಣ ಮತ್ತು ಮರಣಾನಂತರದ ದುಃಖಾನುಭವಗಳು
 ಯಮಕರ್ತೃಕವಾದುವೆಂದು ಹೇಳಿರುವುದರಿಂದ, ಯಮನೇ ಮೃತ್ಯುದೇವತೆಯೆಂದು ಪರಿಗಣಿತನಾಗಿದ್ದಾನೆ.
 ಆದರೆ ಪುರಾಣಗಳಲ್ಲಿಯೂ ಕೂಡ, ನರಕವೊಂದೇ ಯಮನ ರಾಜ್ಯವಲ್ಲವೆಂದು ಸ್ಪಷ್ಟವಾಗಿದೆ. ಇತರ ಸಂಹಿತೆ
 ಗಳಲ್ಲಿಯೂ, ಅಂತಕ, ಮೃತ್ಯು, ನಿರ್ಋತಿ (ರೋಗ) ಇವರುಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಮನೂ ಒಬ್ಬನು (ವಾ. ಸಂ.
-೩೯.೧೩ ; ಅ. ವೇ. ೬-೨೯.೩ ; ಮೈ. ಸಂ. ೨-೫-೬) ಮತ್ತು ಮೃತ್ಯುವು ಅವನ ದೂತ (ಅ. ವೇ. ೫-೩೦೧-೨ ;
+೩೯.೧೩ ; ಅಥ. ಸಂ. ೬-೨೯.೩ ; ಮೈ. ಸಂ. ೨-೫-೬) ಮತ್ತು ಮೃತ್ಯುವು ಅವನ ದೂತ (ಅಥ. ಸಂ. ೫-೩೦೧-೨ ;
 ೧೮.೨-೨೭ ; ಇತ್ಯಾದಿ). ಮೃತ್ಯುವು ಮನುಷ್ಯರಿಗೆ ಅಧಿಪತಿಯೆಂದೂ ಯಮನು ಪ್ರೇತಗಳಿಗೆ ಅಧಿಪತಿಯೆಂದೂ
-(ಅ. ವೇ. ೫-೨೪-೧೩, ೧೪), ನಿದ್ರೆಯು (ನಿದ್ರಾಧಿದೇವತೆಯು) ಯಮನ ರಾಜ್ಯದಿಂದ ಬರುತ್ತಾಳೆಂದೂ
-(ಅ. ವೇ. ೧೯-೫೬-೧) ಹೇಳಿದೆ.
+(ಅಥ. ಸಂ. ೫-೨೪-೧೩, ೧೪), ನಿದ್ರೆಯು (ನಿದ್ರಾಧಿದೇವತೆಯು) ಯಮನ ರಾಜ್ಯದಿಂದ ಬರುತ್ತಾಳೆಂದೂ
+(ಅಥ. ಸಂ. ೧೯-೫೬-೧) ಹೇಳಿದೆ.
 ಯಮ ಎಂಬ ಪದಕ್ಕೆ 'ಅವಳಿ' ಎಂಬರ್ಥದಲ್ಲಿಯೂ ಪ್ರಯೋಗವಿದೆ. ಸಾಧಾರಣವಾಗಿ ಪುಲ್ಲಿಂಗ
 ಅಥವಾ ಸ್ತ್ರೀಲಿಂಗ ದ್ವಿವಚನದಲ್ಲಿ—ಮತ್ತು ಲಗಾಮು ಅಥವಾ ಮಾರ್ಗದರ್ಶಕ ಎಂಬರ್ಥದಲ್ಲಿಯೂ ಈ ಶಬ್ದದ
 ಪ್ರಯೋಗಗಳಿವೆ. ಯಮ ಮತ್ತು ಯಮಿಗಳು ಯಮಳರೆಂದೇ ಭಾವನೆ (೧೦-೧೦). ಇತರ ಗ್ರಂಥಗಳಲ್ಲಿ,
@@ -15136,6 +15647,9 @@ xxvii 23
 ಋಕ್ಕುಗಳಿಗೆ ಯಮನೇ ದೇವತೆಯು. ಅದರಂತೆಯೇ ಈ ಸೂಕ್ತದ ೨, ೪ ಮೊದಲಾದ ಸಮಸಂಖ್ಯೆಯ (೬ನೇ
 ಋಕ್ಕನ್ನು ಬಿಟ್ಟು) ಋಕ್ಕುಗಳಿಗೂ ಅಸಮಸಂಖ್ಯೆಯಾದ ೯ನೇ ಋಕ್ಕಿಗೂ ವೈವಸ್ವತೋ ಯಮಃ ಎಂಬುವನು
 ಋಷಿಯು ; ಯಮಿಯೇ ದೇವತೆಯು; ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಸು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೦
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೦ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೬, ೭, ೮ ।
@@ -15145,6 +15659,8 @@ xxvii 23
 ದೇವತಾ—೧. ೩, ೫-೭, ೧೧, ೧೩. ಯನೋ ವೈವಸ್ವತಃ ।
 ೨, ೪, ೮-೧೦, ೧೨, ೧೪. ಯಮೀ ವೈವಸ್ವತೀ ।
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15167,7 +15683,7 @@ xxvii 23
 > ಮಿತ್ಯರ್ಥಃ । ಪುರು ಚಿದ್ಬ್ರಹ್ವಪಿ ವಿಸ್ತೀರ್ಣಂ ಚಾರ್ಣವಂ ಸಮುದ್ರೈಕದೇಶಮನಾಂತರದ್ವೀಪಂ ಜಗನ್ವಾನ್
 > ಗತವತೀ ಯಮೀ । ಚಿದಿತಿ ಪೂಜಾರ್ಥೇ । ಪೂಜಿತಮಿಷ್ಟಂ । ಶ್ರೇಷ್ಠಮಿತ್ಯರ್ಥಃ । ಸಖಾಯಂ ಗರ್ಭವಾಸಾದಾರಭ್ಯ ಸಖೀಭೂತಂ ಯಮಂ ಸಖ್ಯಾ ಸಖ್ಯಾಯ ಸ್ತ್ರೀಪುರುಷಸಂಪರ್ಕಜನಿತಮಿತ್ರತ್ವಾಯ ಓ
 > ವವೃತ್ಯಾಂ । ಆವರ್ತಯಾಮಿ । ಅಭಿಮುಖ್ಯೇನ ಸ್ಥಿತ್ವಾ ಲಜ್ಞಾಂ ಪರಿತ್ಯಜ್ಯ ತ್ವತ್ಸಂಭೋಗಂ ಕರೋಮಾತ್ಯರ್ಥಃ । ಧರ್ಮಸ್ಯ ತ್ವರಿತಾ ಗತಿರಿತಿ ನ್ಯಾಯೇನ ಕಾಮಸ್ಯ ತ್ವರಿತತ್ವಾತ್ । ಅಪಿ ಚ ಪಿತುರಾವಯೋರ್ಭವಿಷ್ಯತಃ ಪುತ್ರಸ್ಯ ಪಿತೃಭೂತಸ್ಯ ತವಾರ್ಥಾಯಾಧಿ ಕ್ಷಮ್ಯಧಿ ಪೃಥಿವ್ಯಾಂ । ಪೃಥಿವೀಸ್ಥಾನೀಯೇ
-> ಮಮೋದರ ಇತ್ಯರ್ಥಃ । ಪ್ರತರಂ ಪ್ರಕೃಷ್ಟಂ । ಸರ್ವಗುಣೋಪೇತಮಿತ್ಯರ್ಥಃ । ನಪಾತಂ ಗರ್ಭಲಕ್ಷಣಮಪತ್ಯಂ ವೇಧಾ ವಿಧಾತಾ ಪ್ರಜಾಪತಿರ್ದಿಧ್ಯಾನ ಅವಯೋರನುರೂಪಸ್ಯ ಪುತ್ರಸ್ಯ ಜನನಾರ್ಥಮಾವಾಂ ಧ್ಯಾಯನ್ನಾ ದಧೀತ । ಪ್ರಜಾಪತಿರ್ಧಾತಾ ಗರ್ಭಂ ದಧಾತು ತೇ । ಋ. ೧೦-೧೮೪-೧.
+> ಮಮೋದರ ಇತ್ಯರ್ಥಃ । ಪ್ರತರಂ ಪ್ರಕೃಷ್ಟಂ । ಸರ್ವಗುಣೋಪೇತಮಿತ್ಯರ್ಥಃ । ನಪಾತಂ ಗರ್ಭಲಕ್ಷಣಮಪತ್ಯಂ ವೇಧಾ ವಿಧಾತಾ ಪ್ರಜಾಪತಿರ್ದಿಧ್ಯಾನ ಅವಯೋರನುರೂಪಸ್ಯ ಪುತ್ರಸ್ಯ ಜನನಾರ್ಥಮಾವಾಂ ಧ್ಯಾಯನ್ನಾ ದಧೀತ । ಪ್ರಜಾಪತಿರ್ಧಾತಾ ಗರ್ಭಂ ದಧಾತು ತೇ । ಋ. ಸಂ. ೧೦-೧೮೪-೧.
 > ಇತ್ಯುಕ್ತತ್ವಾತ್ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
@@ -15195,6 +15711,8 @@ xxvii 23
 <!-- printed 360 -->
 *[360 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೧. ಸೂ. ೧೦.]*
 
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15246,6 +15764,8 @@ xxvii 23
 of one origin, she is of different form; the hero sons of the great Asura
 (prajapati) the upholders of heaven, enjoying vast renown, do not permit
 this intercourse.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15363,7 +15883,7 @@ stellation) ರುದ್ರನು ಬಿಟ್ಟ ಬಾಣದಲ್ಲಿ, ಕ�
 ತದ್ವಾ ಇದಂ ಪ್ರಜಾಪತೇ ರೇತಃ ಸಿಕ್ತಮಧಾವತ್ತತ್ಸರೋಽಭವತ್ತೇ ದೇವಾ ಅಬ್ರುವನ್ಮೇದಂ
 ಪ್ರಜಾಪತೇ ರೇತೋ ದುಷದಿತಿ ಯದಬ್ರುವನ್ಮೇದಂ ಪ್ರಜಾಪತೇ ರೇತೋ ದುಷದಿತಿ ತನ್ಮಾದುಷಮಭವತ್ತನ್ಮಾದುಷಸ್ಯ ಮಾದುಷತ್ವಂ ಮಾಡುಷಂ ಹ ವೈ ನಾಮೈತದ್ಯನ್ಮಾನುಷಂ
 ಸನ್ಮಾನುಷಮಿತ್ಯಾಚಕ್ಷತೇ ಪರೋಕ್ಷೇಣ ಪರೋಕ್ಷಪ್ರಿಯಾ ಇವ ಹಿ ದೇವಾಃ ॥
-(ಇ. ಬ್ರ. ೧೩-೨೩)
+(ಐ. ಬ್ರಾ. ೧೩-೨೩)
 ಮೃಗರೂಪದಲ್ಲಿದ್ದ ಪ್ರಜಾಪತಿಯು ಹೆಣ್ಣು ಜಿಂಕೆಯ ರೂಪದಲ್ಲಿದ್ದ ತನ್ನ ಪುತ್ರಿಯಲ್ಲಿ ಸೇಚನ ಮಾಡಿದ ವೀರ್ಯವು
 ಬಹಳವಾಗಿದ್ದುದರಿಂದ ಭೂಮಿಯ ಮೇಲೆ ಬಿದ್ದು ಪ್ರವಾಹರೂಪದಿಂದ ಹರಿಯುತ್ತಾ ತಗ್ಗಾದ ಒಂದು ಪ್ರದೇಶದಲ್ಲಿ
 ನಿಂತಿತು. ಅದು ಒಂದು ದೊಡ್ಡ ಸರೋವರವಾಗಿ ಪರಿಣಮಿಸಿತು. ಇದನ್ನು ನೋಡಿದ ದೇವತೆಗಳು ಈ ಪ್ರಜಾಪ
@@ -15426,10 +15946,10 @@ stellation) ರುದ್ರನು ಬಿಟ್ಟ ಬಾಣದಲ್ಲಿ, ಕ�
 
 > ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ತಾ ತೌ ಯುವಾಂ ಜಯುಷಾ ಜಯಶೀಲೇನ ರಥೇನ ಪರ್ವತಮುದ್ರಿಂ ಪ್ರತಿ
 > ವರ್ತಿರ್ಮಾರ್ಗಂ ವಿ ಯಾತಂ । ವಿವಿಧಂ ಗಚ್ಛಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ವಿ ಜಯುಷಾ ರಥ್ಯಾ
-> ಯಾತಮದ್ರಿಂ ಶ್ರುತಂ ಹವಂ ವೃಷಣಾ ವಧ್ರಿಮತ್ಯಾಃ । ಋ. ೬ ೬೨.೭ । ಇತಿ । ಕಿಂಚ ಯುವಾಂ
+> ಯಾತಮದ್ರಿಂ ಶ್ರುತಂ ಹವಂ ವೃಷಣಾ ವಧ್ರಿಮತ್ಯಾಃ । ಋ. ಸಂ. ೬ ೬೨.೭ । ಇತಿ । ಕಿಂಚ ಯುವಾಂ
 > ಶಯವೇ ಶಯೋರರ್ಥಾಯ ಧೇನುಮಪಿನ್ವತಂ । ನಿವೃತ್ತಪ್ರಸವಾಂ ವೃದ್ಧಾಂ ಗಾಂ ಪ್ರಭೂತಸ್ಯ
 > ಪಯಸೋ ದೋಗ್ಧೀಂ ಕೃತವಂತೌ ಸ್ಥ ಇತ್ಯರ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಯುವಂ ಧೇನುಂ
-> ಶಯವೇ ನಾಧಿತಾಯಾಪಿನ್ವತಮಶ್ವಿನಾ ಪೂರ್ವಾಯ । ಋ. ೧-೧೧೮-೮ । ಇತಿ । ಕಿಂಚ ಯುವಂ
+> ಶಯವೇ ನಾಧಿತಾಯಾಪಿನ್ವತಮಶ್ವಿನಾ ಪೂರ್ವಾಯ । ಋ. ಸಂ. ೧-೧೧೮-೮ । ಇತಿ । ಕಿಂಚ ಯುವಂ
 > ಯುವಾಂ ವೃಕಸ್ಯಾಂತರನುಪ್ರವಿಷ್ಟಾಂ ಗ್ರಸಿತಾಂ ವೃಕೇಣ ಗ್ರಸ್ತಾಂ ವರ್ತಿಕಾಂ । ವರ್ತಿಕಾ ನಾಮ
 > ಚಟಕಾ । ತಾಮಾಸ್ಯಾದ್ವೃಕಸ್ಯ ಮುಖಾಚ್ಛಚೀಭಿಃ ಪ್ರಜ್ಞಾಭಿಃ ಕರ್ಮಭಿರ್ವಾಮುಂಚತಂ । ಅಮೋಚಯತಂ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಅಜೋಹವೀದಶ್ವಿನಾ ವರ್ತಿಕಾ ವಾಮಾಸ್ನೋ ಯತ್ಸೀಮಮುಂಚತಂ ವೃಕಸ್ಯ । ಋ. ೧.೧೧೩-೧೬! ಇತಿ ॥
 
@@ -15491,6 +16011,8 @@ the wolf.
 *[368 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೧. ಸೂ. ೧೦.]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಗರ್ಭೇ ನು ನೌ ಜನಿತಾ ದಂಪತೀ ಕರ್ದೇವಸ್ತ್ವಷ್ಟಾ ಸವಿತಾ ವಿಶ್ವರೂಪಃ ।
@@ -15537,6 +16059,8 @@ the wolf.
 (Yami speaks). The divine omniform generator Twashtri, the pro-
 genitor, made us two husband and wife, even in the womb : none frustrate
 his undertaking ; earth and heaven are conscious of this our (union)
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15587,6 +16111,8 @@ xxvii 24
 ಆಹನಃ ಎಂಬ ಶಬ್ದದ ವಿಷಯದಲ್ಲಿ ಯಾಸ್ಕರು ಬರೆದಿರುವ ನಿರ್ವಚನವನ್ನೂ ಅರ್ಥವಿವರಣೆಯನ್ನೂ
 ಮುಂದಿನ ಋಕ್ಕಿನ ವಿಶೇಷವಿಷಯಗಳಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. (372ನೇ ಪೇಜು ನೋಡಿ).
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಮಸ್ಯ ಮಾ ಯಮ್ಯಂ ೧ ಕಾಮ ಆಗನ್ತ್ಸಮಾನೇ ಯೋನ್ಸಹಶೇಯಾಯ ।
@@ -15634,6 +16160,8 @@ xxvii 24
 *English Translation.*
 
 (Yami speaks). O yama, the desire may come to you to lie with me in the same bed ; I will abandon my person to you as a wife to her husband; let us exert ourselves in union like the two wheels of a waggon.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15697,6 +16225,8 @@ xxvii 24
 ಅಸಭ್ಯವರ್ತನೆಯ ಸ್ತ್ರೀಯರು, ವ್ಯಭಿಚಾರಮಾಡುವ ಸ್ತ್ರೀಯರು ಆಡುವ ಮಾತಿನಂತೆ ಮಾತನಾಡುವವಳು. ಆಹನಃ
 ಎಂಬುದು ಸಂಬುದ್ಧೈಕವಚನಾಂತ ಶಬ್ದವು. ಇದಕ್ಕೂ ಸಹ ಮೇಲೆ ಹೇಳಿದ ಅರ್ಥವೇ ಅನ್ವಯಿಸುವುದು.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ರಾತ್ರೀಭಿರಸ್ಮಾ ಅಹಭಿರ್ದಶಸ್ಯೇತ್ಸೂರ್ಯಸ್ಯ ಚಕ್ಷುರ್ಮುಹುರುನ್ಮಿಮಾಯಾತ್ ।
@@ -15737,6 +16267,8 @@ xxvii 24
 *English Translation.*
 
 (Yama speaks). To him (Yama) let every worshipper sacrifice both day and night, on him let the eyes of the Sun repeatedly rise; (for him may) the kindred pair (day and night unite) with heaven and earth. Yamī will adhere to the non-affinity of Yama.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15811,6 +16343,8 @@ xxvii 24
 ನೊಡನೆ ರತಿಸುಖವನ್ನನುಭವಿಸು ಎಂದು ಋಷಿಯು ವರ್ಣಿಸಿದ್ದಾನೆ.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಿಂ ಭ್ರಾತಾಸದ್ಯದನಾಥಂ ಭವಾತಿ ಕಿಮು ಸ್ವಸಾ ಯನ್ನಿರ್ಯತಿರ್ನಿಗಚ್ಛಾತ್ ।
@@ -15855,6 +16389,8 @@ xxvii 24
 *English Translation.*
 
 (Yami speaks). Is he a brother whose sister has no supporter in her brother ? Is she a sister who will allow (her brother) to approach misfortune? Overcome by desire, I strongly urge this one request ; unite your person with mine-
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15906,6 +16442,8 @@ xxvii 24
 (Yama speaks). I will not unite my persons with yours ; they call
 him who approaches a sister, a sinner. Enjoy pleasure with some other
 than me ; your brother, auspicious one, has no such desire
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15977,6 +16515,8 @@ than me ; your brother, auspicious one, has no such desire
 <!-- printed 381 -->
 *[ಆ. ೭. ಆ. ೬. ನ. ೮ ] ಸುಗ್ರೇಡಸಂಹಿತಾ 381]*
 
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16053,6 +16593,9 @@ make a happy union.
 
 ಋಕ್ಕುಗಳು ಜಗತೀಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ-ವೃಷಾ ನವಾಂಗಿರ್ಹವಿರ್ಧಾನ ಆಗ್ನೇಯಂ ತು
 ತ್ರಿತ್ರಿಷ್ಟುಬಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೧ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೧
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೧ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೯, ೧೦ ।
@@ -16060,6 +16603,8 @@ make a happy union.
 ಋಷಿಃ—ಹವಿಥಾನ ಆಂಗಿಃ ।
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ—೧-೬. ಜಗತೀ । ೭-೯. ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16108,6 +16653,8 @@ with a (great) milking the streams (of prosperity) from heaven for the un-
 wearying sacrifice; like Vaurna, he knows everything by his under-
 standing : may he who is skilled in sacrifice observe the sacrificirl seasons.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ರಪದ್ಗಂಧರ್ವೀರಪ್ಯಾ ಚ ಯೋಷಣಾ ನದಸ್ಯ ನಾದೇ ಪರಿ ಪಾತು ಮೇ
@@ -16154,6 +16701,8 @@ standing : may he who is skilled in sacrifice observe the sacrificirl seasons.
 
 The Gandharvi and the water-consecrated feminine oblation praise Agni: may He be favourable to the thought of me, raising my voice in his praise: may Agni place us in the midst of the sacrifice; the chief (of the worshippers), our elder brother, repeats his various laudations.
 *[• ಸಂಹಿತಾಪಾಠಿ •]*
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16208,6 +16757,8 @@ That very auspicious, resounding, famous Dawn, ascends bringing
 the sun to man ; when for the sacrifice after the worship they give birth
 to that Agni, the desirer, the invoker of the desiring (gods).
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧ ತ್ಯಂ ದ್ರಪ್ಸಂ ವಿಭ್ವಂ ವಿಚಕ್ಷಣಂ ವಿರಾಭರದಿಷತಃ ಶ್ಯೇನೋ ಅಧ್ವರೇ ।
@@ -16254,6 +16805,8 @@ copious all-seeing (soma) libration. When the Arya people choose the
 victorious Agni as the ministrant priest, then the sacred rite is celebrated.
 *[೧ ಸಂಹಿತಾಪಾರಂ ೧]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸದಾಸಿ ರಣೋ ಯವಸೇವ ಪುಷ್ಯತೇ ಹೋತ್ರಾಭಿರಗ್ನೇ ಮನುಷಃ ಸ್ವಧ್ವರಃ।
@@ -16299,6 +16852,8 @@ victorious Agni as the ministrant priest, then the sacred rite is celebrated.
 *English Translation.*
 
 You, Agni, are ever pleasing (to your worshippers), as pasture satisfies (the herds) ; be well-worshipped with man's sacrifices; if commending the praise of the wise, and partaking of the (sacrificial) food, you come with many (divinities to the rite).
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16369,6 +16924,8 @@ augmentation, the prudent (sacrificer) trembles in his thoughts.
 ವಿಪರಿಣಮತೀತ್ಯರ್ಥಃ—ಎಂದರೆ ರಾತ್ರಿಯನ್ನು ಕೊನೆಗಾಣಿಸುವವನಾದ್ದರಿಂದ ಆದಿತ್ಯನಿಗೆ ಜಾರನೆಂದು ಹೆಸರು.
 ಸೂರ್ಯನು ಉದಯಿಸುವುದರಿಂದ ರಾತ್ರಿ ಕಾಲವು ಕೊನೆಗೊಳ್ಳುವುದು ಎಂದಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ತೇ ಅಗ್ನೇ ಸುಮತಿಂ ಮರ್ತೋ ಅಕ್ಷತ್ಸಹಸಃ ಸೂನೋ ಅತಿ ಸ ಪ್ರ
@@ -16417,6 +16974,8 @@ augmentation, the prudent (sacrificer) trembles in his thoughts.
 *English Translation.*
 
 Agni, son of strength, the mortal who obtains your fovaur is widely celebrated : possessing abundant food, and being conveyed by horses, illustrious and vigorous, he graces the days of his existence.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16480,6 +17039,8 @@ precious (treasures), then allot to us a valuable share
 ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದ—ಯದಗ್ನ ಏಷಾ ಸಮಿತಿರ್ಭವಾತಿ ಎಂಬ ವಾಕ್ಯದಿಂದ ನಿರ್ದಿಷ್ಟ
 ವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶ್ರುಧೀ ನೋ ಅಗ್ನೇ ಸದನೇ ಸಧಸ್ಥೇ ಯುಕ್ತ್ವಾ ರಥಮಮೃತಸ್ಯ ದ್ರವಿತ್ನುಂ।
@@ -16536,6 +17097,8 @@ Agni, present in the dwelling common (to the deities) hear us : harness your swi
 <!-- printed 396 -->
 *[396 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮ. ೧೦. ಅ. ೧. ಸೂ. ೧೨]*
 
+## ಸೂಕ್ತ ೧೨ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ-೧೨
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೧೨ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೧, ೧೨ ॥
@@ -16543,6 +17106,8 @@ Agni, present in the dwelling common (to the deities) hear us : harness your swi
 ಋಷಿಃ—ಹವಿರ್ಧಾನ ಅಂಗಿಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ।
 ಬಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16589,6 +17154,8 @@ Agni, present in the dwelling common (to the deities) hear us : harness your swi
 *English Translation.*
 
 Haven and earth, declarers of truth, principal (of things), be present at the invocation, associated with the rite, when the divine (Agni), exciting mortals to sacrifice, sits down in their presence as the invoker (of the gods) putting forth his flame.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16639,6 +17206,8 @@ You, bright (Agni), surrounding the gods, carry our oblation with due rites; you
 ಸಮಿಧಾ ಭಾಯಜೀಕಃ ಇತ್ಯಪಿ ನಿಗಮೋ ಭವತಿ (ನಿ. ೬-೪) ಎಂದು ನಿರ್ವಚನವನ್ನು ಹೇಳಿದ್ದಾರೆ. ಎಂದರೆ,
 ಭಾಯಜೀಕಃ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾದ ಕಾಂತಿಯುಳ್ಳ ಎಂದರ್ಥವು. ಈ ವಿಷಯದಲ್ಲಿ ಪ್ರಕೃತ ಋಕ್ಕಿನ
 ಧೂಮಕೇತುಃ ಸಮಿಧಾ ಭಾಯಜೀಕಃ ಎಂಬ ವಾಕ್ಯವೇ ಶ್ರುತ್ಯುದಾಹರಣೆಯೆಂದು ಹೇಳಿದ್ದಾರೆ.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16692,6 +17261,8 @@ from his radiance, then the products from it sustain both heaven and earth ,
 all the worshippers glorify this your oblation, the celestial nutritious
 water which your white lustre milks forth.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರ್ಚಾಮಿ ವಾಂ ವರ್ಧಾಯಾಪೋ ಘೃತಸ್ನೂ ದ್ಯಾವಾಭೂಮಿಾ ಶೃಣುತಂ
@@ -16736,6 +17307,8 @@ water which your white lustre milks forth.
 *English Translation.*
 
 I worship you, waters that pour forth ghee, and you, heaven and earth, for your increase ; hear me, you worlds ; when worshippers at the daily or nightly rite proceed to their pious purpose, then may the parents (of all) sanctify us with ambrosia.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16784,6 +17357,8 @@ But will the royal Agni accept our oblations? Have we duly per-
 formed our vows to him? Who decides? As a friend affectionately invited,
 so let our praise now proceed to the gods; together with the sacrificial food
 that is left over.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16837,6 +17412,8 @@ Hard to understand is the nature of the immortal, for although of one origin, sh
 *[404 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೧ ಸೂ ೧೨]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಮಿನ್ದೇವಾ ವಿದಥೇ ಮಾದಯಂತೇ ವಿವಸ್ವತಃ ಸದನೇ ಧಾರಯಂತೇ ।
@@ -16878,6 +17455,8 @@ Hard to understand is the nature of the immortal, for although of one origin, sh
 
 In him the gods find pleasure at the sacrifice; they seat themselves on the altar of the sacrificer. They placed light in the sun; beams in the moon; and these untiring shed their light around.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16923,6 +17502,8 @@ When he, the all-illumining, is there, the gods assemble ; but when
 he concealed, we know not (his abode) ; so at this sacrifice let Mitra and
 Aditi and Savitri proclaim us to Varuna as free from sin.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17268,7 +17849,7 @@ Agni, present in the dwelling common (to the deities) hear us : harness your swi
 ಛದಿರ್ಹವಿರ್ಧಾನಯೋರುದಾಹ್ರಿಯತೇ ತೃತೀಯಸ್ಯ ಹವಿರ್ಧಾನಸ್ಯಾವರುಧ್ಯೈ ಶಿರೋ ವಾ
 ಏತದ್ಯಜ್ಞಸ್ಯ ಯದ್ಧವಿರ್ಧಾನಂ ವಿಷ್ಣೋ ರರಾಟಮಸಿ ವಿಷ್ಣೋಃ ಪೃಷ್ಠಮಸೀತ್ಯಾಹ ತಸ್ಮಾದೇತಾವದ್ದಾ ಶಿರೋ ವಿಷ್ಯೂತಂ ವಿಷ್ಣೋಸ್ಕೂರಸಿ ವಿಷ್ಣೋಧ್ರ್ರುವಮಸೀತ್ಯಾಹ ವೈಷ್ಣವಗ್ಂಹಿ ದೇವತಯಾ ಹವಿರ್ಧಾನಂ ಯಂ ಪ್ರಥಮಂ ಗ್ರಂಥಿಂ ಗ್ರಥ್ನೀಯಾದ್ಯತ್ತಂ ನ ವಿಸ್ರಗ್ಂಸ
 ಯೇದಮೇಹೇನಾಥ್ವರ್ಯುಃ ಪ್ರ ಮೀಯೇತ ತಸ್ಮಾತ್ಸ ವಿಸ್ತ್ರಸ್ಯಃ ॥
-(ತ್ರೈ. ಸಂ. ೬-೨-೯.೪)
+(ತೈ. ಸಂ. ೬-೨-೯.೪)
 
 ವಷಟ್ಕಾರ ಪಠನದಿಂದ ಉಪರವಂಶಸ್ಥನಾದ ದಂಡನು ಮೂರನೆಯ ಹವಿರ್ಧಾನದ ಅಕ್ಷವನ್ನು ಮುರಿದನು.
 ಆದುದರಿಂದ, ಪ್ರಕೃತದಲ್ಲಿ ಹವಿರ್ಧಾನದ ಮೇಲೆ ಹೊದ್ದಿಸಿರುವ ಮೂರನೆಯ ಹೊದ್ದಿಕೆಯೇ ಮೂರನೆಯ
@@ -17433,6 +18014,9 @@ xxvii 27
 ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ-ಯುಜೇ ಪಂಚ ವಿವಸ್ವಾನಾದಿತ್ಯೋ ಹಾವಿರ್ಧಾನಂ ಜಗತ್ತಂತಂ ಎಂದು ಹೇಳಿರುವುದು:
 ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ಹವಿರ್ಧಾನಪ್ರವರ್ತನಕರ್ಮದಲ್ಲಿ ಯುಜೇ ವಾಂ ಎಂಬ
 ಮೊದಲನೆಯ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಅಂತರಾ ವರ್ತ್ಮ ಪಾದಯೋರ್ಯುಜೇ ವಾಂ ಬ್ರಹ್ಮ ಪೂರ್ವಂ ನಮೋಭಿಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೯) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೩ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೩
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೩ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೬ । ವರ್ಗ—೧೩ ।
@@ -17440,6 +18024,8 @@ xxvii 27
 ಋಷಿಃ—ವಿವಸ್ವಾ ನಾದಿತ್ಯಃ ।
 ದೇವತಾ—ಹವಿರ್ಥಾನೇ ॥
 ಛಂದಃ—೧-೪. ತ್ರಿಷ್ಟುಪ್ । ೫. ಜಗತೀ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17493,6 +18079,8 @@ xxvii 27
 
 I load you two with sacred offerings, repeating an ancient prayer ; may the sound (of your approach) reach (the gods) like the path of the worshipper, may all the sons of the immortal (Prajapati) who inhabit the celestial regions hear (the sound).
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17549,6 +18137,8 @@ storehouses for our Soma.
 ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಯಮೇ ಇವ ಯತಮಾನೇ ಯದೈತಮಧಿದ್ವಯೋರದಧಾ ಉಕ್ತಂ ವಚ
 ಇತ್ಯರ್ಧರ್ಚ ಆರಮೇತ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೯) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪಂಚ ಪದಾನಿ ರುಪೋ ಅನ್ವರೋಹಂ ಚತುಷ್ಪದೀಮನ್ವೇಮಿ ವ್ರತೇನ ।
@@ -17599,6 +18189,8 @@ I make the five stages of the sacrifice ascend ; I take four steps by
 pious observances; with the sacred syllable, I perfect this (adoration); I
 purify (the Soma) on the navel of the sacrifice.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದೇವೇಭ್ಯಃ ಕಮವೃಣೀತ ಮೃತ್ಯುಂ ಪ್ರಜಾಯೈ ಕಮಮೃತಂ ನಾವೃಣೀತ ।
@@ -17643,6 +18235,8 @@ Brihaspati the sacrifice, Yama preserves our loved bodies.
 <!-- printed 427 -->
 *[ಆ. ೭. ಆ. ೬. ವ. ೧೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 427]*
 
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17801,7 +18395,7 @@ of both (men and gods¹.
 ಎಂಬೆರಡು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಮಾತ್ರ ಸಾಯಣರು ಜೀವಶಬ್ದಕ್ಕೆ ಜೀವಾತ್ಮ ಎಂಬ ಅರ್ಥವನ್ನೂ ತಿಳಿಸಿದ್ದಾರೆ.
 ಮೃತವಾಗುವ ಶರೀರಕ್ಕೆ ಸಂಬಂಧಿಸಿದುದೆಂದೂ, ಮರಣಾರ್ಹರಾದ ಜೀವದೊಡನೆ ಸಮಾನಸ್ಥಾನವುಳ್ಳದ್ದೆಂದೂ ಇದರ
 ಸ್ವರೂಪವನ್ನು ತಿಳಿಸಿದ್ದಾರೆ. ಜೀವಾಪೇತಂ ವಾವ ಕಿಲೇದಂ ಮ್ರಿಯತೇ, ನ ಜೀವೋ ಮ್ರಿಯತೇ
-(ಭಾ. ಉ. ೬-೧೧-೩) ಎಂಬ ಉಪನಿಷದ್ವಾಕ್ಯವನ್ನು ಉದಾಹರಿಸಿ ಜೀವ ಮತ್ತು ದೇಹಗಳಿಗಿರುವ ವ್ಯತ್ಯಾಸವನ್ನು
+(ಛಾ. ಉ. ೬-೧೧-೩) ಎಂಬ ಉಪನಿಷದ್ವಾಕ್ಯವನ್ನು ಉದಾಹರಿಸಿ ಜೀವ ಮತ್ತು ದೇಹಗಳಿಗಿರುವ ವ್ಯತ್ಯಾಸವನ್ನು
 ವಿವರಿಸಿದ್ದಾರೆ. ಇದರಂತೆಯೇ, ಪ್ರಾಣ, ಮನಸ್ ಎಂಬ ಪದಗಳೂ ಚೇತನ ಎಂಬರ್ಥದಲ್ಲಿ ಪ್ರಯುಕ್ತವಾಗಿದೆ.
 ಅಲ್ಲದೇ,
 ದ್ವಾ ಸುಪರ್ಣಾ ಸಯುಜಾ ಸಖಾಯಾ ಸಮಾನಂ ವೃಕ್ಷಂ ಪರಿ ಷಷ್ವಜಾತೇ ।
@@ -18272,7 +18866,7 @@ xxvii 28
 ಯಿಲ್ಲವೆಂದು ಈ ಮಾರ್ಗವನ್ನು ವರ್ಣಿಸಿದೆ,
 ತತ್ಪುರುಷೋಽಮಾನವಃ ಸ ಏವಾನ್ಯಹ್ಮ ಗಮಯತ್ಯೇಷ ದೇವಪಥೋ ಬ್ರಹ್ಮಪಥ ಏತೇನ
 ಪ್ರತಿಪದ್ಯಮಾನಾ ಇಮಂ ಮಾನವಮಾವರ್ತಂ ನಾವರ್ತಂತೇ ನಾವರ್ತಂತೇ ।
-(ಭಾ. ಉ. ೪-೧೫-೫)
+(ಛಾ. ಉ. ೪-೧೫-೫)
 ವಿದ್ಯುದ್ರೂಪದ ಪುರುಷನು (ಮಾನವನು) ಈ ಸುಕೃತಿಯನ್ನು ಬ್ರಹ್ಮಲೋಕಕ್ಕೆ ಒಯ್ಯುತ್ತಾನೆ. ಇದೇ ಬ್ರಹ್ಮ
 ಲೋಕದ ಮಾರ್ಗವು. ಈ ಮಾರ್ಗದಿಂದ ಬ್ರಹ್ಮಲೋಕಕ್ಕೆ ಸೇರಿದವರು ಹಿಂತಿರುಗುವುದಿಲ್ಲ. ಇದು ಖಂಡಿತ, ಎಂದು
 
@@ -18468,14 +19062,14 @@ xxvii 29
 ೧೩). ಉಷಸ್ಸುಗಳು, ನದಿಗಳು, ಪರ್ವತಗಳು, ಭೂಮ್ಯಾಕಾಶಗಳು, ಪೂಷಣ ಮತ್ತು ಋಭುಗಳು, ಇವರುಗಳ
 ಜೊತೆಯಲ್ಲಿ ಪಿತೃಗಳ ಅನುಗ್ರಹವೂ ಪ್ರಾರ್ಥಿತವಾಗಿದೆ (೬-೫೨-೪ ; ೬-೭೫-೧೦ ; ೭-೩೫-೧೨ ೧-೧೦೬-೩). ;
 ಅವರ ಕಟಾಕ್ಷವನ್ನು ಬೇಡುವ (೧೦-೧೪-೬) ಅವರ ವಂಶಜರಿಗೆ, ಸಂಪತ್ತು, ಸಂತಾನ ಮತ್ತು ದೀರ್ಘಾಯುಸ್ಸು
-ಗಳನ್ನು ಕೊಡಬೇಕೆಂದು ಪ್ರಾರ್ಥನೆ (೧೦-೧೫-೭, ೧೧; ಆ. ವೇ. ೧೮-೩-೧೪ ; ೧೮-೪-೬೨). ತಮ್ಮ ವಂಶೀ:
+ಗಳನ್ನು ಕೊಡಬೇಕೆಂದು ಪ್ರಾರ್ಥನೆ (೧೦-೧೫-೭, ೧೧; ಅಥ. ಸಂ. ೧೮-೩-೧೪ ; ೧೮-೪-೬೨). ತಮ್ಮ ವಂಶೀ:
 
 <!-- printed 452 -->
 *[452	ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ	[ ಮ. ೧೦. ಅ, ೧. ಸಡಿ. ೫.]*
 
 ಕರಿಗೆ ಸಹಾಯಮಾಡಬೇಕೆಂದು ವಸಿಷ್ಠರನ್ನು ಪ್ರಾರ್ಥಿಸಿದೆ (೭-೩೩-೧; ೧೦-೧೫-೮ ನ್ನು ಹೋಲಿಸಿ) ; ಶುರ್ವಶ
 ಯದು ಮತ್ತು ಉಗ್ರದೇವ ಎಂಬುವರು ಒಂಟಿಯಾಗಿಯೂ ಸ್ತುತರಾಗಿದ್ದಾರೆ (೧-೩೬-೧೮).
-ಪಿತೃಗಳೂ ಅಮರರು (ಅ. ವೇ. ೬-೪೧-೩) ; ದೇವತೆಗಳೆಂತಲೂ ಕರೆಯಲ್ಪಟ್ಟಿದ್ದಾರೆ (೧೦-೫೬-೪).
+ಪಿತೃಗಳೂ ಅಮರರು (ಅಥ. ಸಂ. ೬-೪೧-೩) ; ದೇವತೆಗಳೆಂತಲೂ ಕರೆಯಲ್ಪಟ್ಟಿದ್ದಾರೆ (೧೦-೫೬-೪).
 ಅಂಗಿರಸರು ಮತ್ತು ಕೆಲವು ಗಣಗಳಲ್ಲಿ, ದೇವತ್ವದ ಜೊತೆಗೆ ಋತ್ವಿಜತ್ವವೂ ಸೇರಿದೆ. ಸೃಷ್ಟಿಕಾರ್ಯಗಳು ಕೆಲವು
 ಪಿತೃಗಳಿಗೂ ಉಕ್ತವಾಗಿವೆ ; ಆಕಾಶವನ್ನು ನಕ್ಷತ್ರರಂಜಿತವನ್ನಾಗಿ ಮಾಡಿದವರು ಅವರೇ ; ಹಗಲು ಹೊತ್ತಿನಲ್ಲಿ
 ಬೆಳಕೂ, ರಾತ್ರಿ ಕತ್ತಲೂ, ಅವರಿಂದಲೇ ಆಯಿತು (೧೦-೬೮-೧೧); ಅಡಗಿಕೊಂಡಿದ್ದ ಬೆಳಕನ್ನು ಕಂಡು
@@ -18487,9 +19081,9 @@ xxvii 29
 ದ್ವಾರವು ಈಶಾನ್ಯ ದಿಕ್ಕಿನಲ್ಲಿಯೂ (ಶ. ಬ್ರಾ. ೬.೬-೨-೯), ಪಿತೃಲೋಕ ದ್ವಾರವು ಆಗ್ನೇಯದಲ್ಲಿಯೂ (ಶ. ಬ್ರಾ.
 ೧೩.೮.೧-೫) ಇವೆಯೆಂದು ಉಕ್ತವಾಗಿದೆ. ಪಿತೃಗಳೂ ಮನುಷ್ಯರೂ ಬೇರೆ ಬೇರೆ ವರ್ಗದವರು ಮತ್ತು
 ಸೃಷ್ಟಿಯೂ ಬೇರೆ ಬೇರೆ (ತೈ. ಬ್ರಾ. ೨.೩-೮-೨). ಪಿತೃಗಳು ಭೂಮಿ, ಅಂತರಿಕ್ಷ ಮತ್ತು ಸ್ವರ್ಗವಾಸಿಗಳು
-(ಅ. ವೇ ೧೮-೨.೪೯ ; ಋ. ವೇ. ೧೦-೧೫೨ನ್ನು ಹೋಲಿಸಿ).
+(ಅ. ವೇ ೧೮-೨.೪೯ ; ಋ. ಸಂ. ೧೦-೧೫೨ನ್ನು ಹೋಲಿಸಿ).
 ಪುರಾತನ ಪಿತೃಗಳೇ ಒಂದು ಸಲ ಸೋಮಾಹುತಿಯನ್ನು ಅರ್ಪಿಸಿದರು (೧೦-೧೫-೮). ಅವರು
-ಯಮನೊಡನೆ ಸಂತೋಷದಿಂದ ಕಾಲಕಳೆಯುತ್ತಾರೆ (೧೦-೧೪-೧; ೧೦-೧೩೫-೧ ಮತ್ತು ಅ. ವೇ. ೧೮-೪-೧೦
+ಯಮನೊಡನೆ ಸಂತೋಷದಿಂದ ಕಾಲಕಳೆಯುತ್ತಾರೆ (೧೦-೧೪-೧; ೧೦-೧೩೫-೧ ಮತ್ತು ಅಥ. ಸಂ. ೧೮-೪-೧೦
 ಗಳನ್ನು ಹೋಲಿಸಿ) ಮತ್ತು ದೇವತೆಗಳೊಡನೆ ಭೋಜನ ಮಾಡುತ್ತಾರೆ (೭-೭೬-೪). ದೇವತೆಗಳಿಗೆ ಸಮಾನ
 ರಾಗಿ ಜೀವಿಸುತ್ತಾ, ಒಂದೊಂದು ಸಲ ದೇವತೆಗಳಿಗೆ ಯೋಗ್ಯವಾದ ಪೂಜೆಗಳನ್ನೂ ಪಡೆಯುತ್ತಾರೆ. ಇಂದ್ರ ಮತ್ತು
 ದೇವತೆಗಳಿಗೆ ಯೋಗ್ಯವಾದ ಪೂಜೆಗಳನ್ನೂ ಪಡೆಯುತ್ತಾರೆ. ಇಂದ್ರ ಮತ್ತು ದೇವತೆಗಳ ರಥದಲ್ಲಿಯೇ ಅವರೂ
@@ -18499,7 +19093,7 @@ xxvii 29
 ಅಗ್ನಿಗಳೊಡನೆ ಬಂದು ಅವರೊಡನೆಯೇ, ಹುತವಾದವುಗಳನ್ನು ಸ್ವೀಕರಿಸಬೇಕೆಂದು ಅವರಿಗೆ ಆಹ್ವಾನವಿದೆ
 (೧೦-೧೫-೮ ರಿಂದ ೧೧ ; ೧೦-೧೪-೪, ೫). ಸಾವಿರಗಟ್ಟಲೆ ಬಂದು, ದರ್ಭಾಸನದಲ್ಲಿ ಕ್ರಮವಾಗಿ ಕುಳಿತು
 ಕೊಳ್ಳುತ್ತಾರೆ. (೧೦.೧೫.೧೦, ೧೧). ಪಿತೃಗಳು ಯಾಗಶಾಲೆಗೆ ಬಂದಾಗ, ಕೆಲವು ಪಿಶಾಚಿಗಳೂ, ಅವರ
-ಸ್ನೇಹಿತರ ರೂಪದಲ್ಲಿ, ಅವರೊಡನೆ ಬೆರೆಯುವುದುಂಟು. (ಅ.ವೇ. ೧೮-೨-೨೮).
+ಸ್ನೇಹಿತರ ರೂಪದಲ್ಲಿ, ಅವರೊಡನೆ ಬೆರೆಯುವುದುಂಟು. (ಅಥ. ಸಂ. ೧೮-೨-೨೮).
 ದೇವತೆಗಳಿಗೆ ಆಹಾರವು ಅರ್ಪಿತವಾಗುವಾಗ ' ಸ್ವಾಹಾ ' ಎಂತಲೂ, ಪಿತೃಗಳಿಗೆ ಕೊಡುವಾಗ ' ಸ್ವಧಾ '
 ಎಂತಲೂ (೧೦-೧೫-೩) ಹೇಳುತ್ತಾರೆ : ಎಲ್ಲಾ ಕರ್ಮಗಳಲ್ಲಿಯೂ ದೇವ ಮತ್ತು ಪಿತೃಭಾಗಗಳಿಗೆ ಈ ವ್ಯತ್ಯಾಸ
 ವಿದ್ದೇ ಇರಬೇಕು (ಶ. ಬ್ರಾ. ೪-೪-೨-೨). ಅವರಿಗೂ ಪೂಜೆಯುಂಟು ; ಅನುಯಾಯಿಗಳ ಪ್ರಾರ್ಥನೆಯನ್ನು
@@ -18535,6 +19129,9 @@ xxvii 29
 ಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಿದೆ. ಮಹಾಪಿತೃಯಜ್ಞವೆಂಬ ಕರ್ಮದ ಯಮಯಾಗದಲ್ಲಿ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕನ್ನು
 ಯಾಜ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಇಮಂ ಯಮ ಪ್ರಸ್ತರಮಾ ಹಿ
 ಸೀದೇತಿ ದ್ವೇ ಪರೇಯಿವಾಂಸಂ ಪ್ರವತೋ ಮಹೀರನು ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨-೧೯) ವಿನೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೪ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೪
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೪ ।
 ಅಷ್ಟಕ—೭ । ಅಧ್ಯಾಯ—೬ । ವರ್ಗ—೧೪, ೧೫, ೧೬ ।
@@ -18546,6 +19143,8 @@ xxvii 29
 <!-- printed 454 -->
 *[454 ಸಯಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೧. ಸೂ. ೧೯]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18612,7 +19211,7 @@ earth, and opens to many the path (of heaven).
 ಪರೇಯಿವಾಂಸಂ ಪರ್ಯಾಗತವಂತಂ ಪ್ರವತ ಉದ್ವರ್ತೋ ನಿವತ ಇತಿ । ಅವತಿರ್ಗತಿಕರ್ಮಾ ।
 ಬಹುಭ್ಯಃ ಪಂಥಾನಮನುಪಸ್ಪಾಶಯಮಾನಂ ವೈವಸ್ವತಂ ಸಂಗಮನಂ ಜನಾನಾಂ ಯಮಂ
 ರಾಜಾನಂ ಹವಿಷಾ ದುವಸ್ಯೇತಿ । ದುವಸ್ಯತೀ ರಾಧ್ಯೋತಿಕರ್ಮಾ ॥
-(సి. ೧೦-೨೦)
+(ಸಿ. ೧೦-೨೦)
 ಈ ಋಕ್ಕಿನಲ್ಲಿ ಋಷಿಯು ಯಜಮಾನನನ್ನು ಅಥವಾ ತನ್ನ ಆಂತರಾತ್ಮನನ್ನು ಉದ್ದೇಶಿಸಿ ಈ ರೀತಿ ಹೇಳುವನು—
 ಎಲೈ ಯಜಮಾನನೇ, ಯಮನನ್ನುದ್ದೇಶಿಸಿ ಹವಿಸ್ಸನ್ನರ್ಪಿಸಿ ಪರಿಚಯಿಸು. ಈ ಯಮನು ಸುತ್ತಲೂ ಬರುವನು ಎಂದರೆ
 ಪ್ರಾಣಿಗಳು ಎಲ್ಲೇ ಇರಲಿ ಅಲ್ಲಿಗೆಲ್ಲಾ ಮರಣಕಾಲದಲ್ಲಿ ಬಂದೇ ಬರುವನು. ಮತ್ತು ಈ ಋಕ್ಕಿನಲ್ಲಿ ಪ್ರವತಃ ಎಂಬ
@@ -18709,7 +19308,7 @@ earth, and opens to many the path (of heaven).
 ಪುತ್ರನು ಈ ವಿಷಯದಲ್ಲಿ—
 ಅಷ್ಟೌ ಪುತ್ರಾಸೋ ಅದಿತೇಃ । .... .... ತಾನನುಕ್ರಮಷ್ಯಾಮಃ । ಮಿತ್ರಶ್ಚ ವರುಣಶ್ಚ ।
 ಧಾತಾ ಚಾರ್ಯಮಾ ಚ । ಅಗಂತಶ್ಚ ಭಗಶ್ಚ । ಇಂದ್ರಶ್ಚ ವಿವಸ್ವಾಗ್ಶ್ವೇತ್ಯೇತೇ ॥
-(ಕೃ. ಆ. ೧-೧೩-೩)
+(ತೈ. ಆ. ೧-೧೩-೩)
 ಎಂದು ತೈತ್ತಿರೀಯಾರಣ್ಯಕದಲ್ಲಿ ಹೇಳಿರುವಂತೆ ಆದಿತಿಗೆ ಎಂಟು ಮಂದಿ ಪುತ್ರರು. ಮಿತ್ರ, ವರುಣ, ಧಾತಾ,
 ಆರ್ಯಮಾ, ಆಶ, ಭಗ, ಇಂದ್ರ, ವಿವಸ್ವಾನ್ ಎಂಬುವರೇ ಆ ಎಂಟು ಮಂದಿ ಪುತ್ರರು ಎಂದು ಹೇಳಿದೆ. ಇಲ್ಲಿ ಎಂಟನೆ
 ಯವನಾದ ವಿವಸ್ವಾನ್ ಎಂಬುವನೂ ಇಂದ್ರನೂ ಇಬ್ಬರೂ ಅವಳೀಮಕ್ಕಳು.
@@ -18725,6 +19324,8 @@ earth, and opens to many the path (of heaven).
 ಎಂಬ ಶಬ್ದಗಳಿಂದ ಯಮನನ್ನು ವರ್ಣಿಸಲಾಗಿದೆ. ಸಂಗಮನಂ ಎಂದರೆ ಗಂತವ್ಯಸ್ಥಾನಂ-ಜೀವರು ಹೋಗಿ
 ಸೇರಬೇಕಾದ ಪ್ರದೇಶ. ಇದು ಸ್ವರ್ಗವಾದರೂ ಆಗಬಹುದು ನರಕವಾದರೂ ಆಗಬಹುದು. ಪುಣ್ಯವಂತರ ವಿಷಯ
 ದಲ್ಲಿ ಸ್ವರ್ಗವೂ ಪಾಪಿಷ್ಠರ ವಿಷಯದಲ್ಲಿ ನರಕವೂ ಎಂದು ತಿಳಿಯಬೇಕು.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18785,6 +19386,8 @@ our ancient fathers departed. ಎಂದು ಹೇಳಿದಾನೆ.
 ಮಾಡಿರುವುದಿಲ್ಲ. ಗವ್ಯೂತಿ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಇತರ ಸ್ಥಳಗಳಲ್ಲಿ ಅತಿವಿಸ್ತೃತಂ ಮಾರ್ಗಂ ಎಂದು ಅರ್ಥಮಾಡಿದ್ದಾರೆ.
 ಇಲ್ಲಿ ಆ ಅರ್ಥವನ್ನು ಬೇಕಾದರೂ ಹೇಳಬಹುದು ಅಥವಾ ಯಮನ ಪ್ರಭುತ್ವಕ್ಕೆ ಒಳಪಟ್ಟಿರುವ ಉತ್ತಮವಾದ ಸ್ಥಾನ
 ವನ್ನು ಎಂದು ಬೇಕಾದರೂ ಅರ್ಥಮಾಡಬಹುದು.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18867,6 +19470,8 @@ augment the gods, these rejoice in Swaha, those in the Swadha.
 ಗಳಿಗೆ ಕವ್ಯವನ್ನರ್ಪಿಸುವಾಗ ಸ್ವಧಾಶಬ್ದಪೂರ್ವವಾಗಿಯೂ ಅರ್ಪಿಸಿದಲ್ಲಿ ಅವರುಗಳು ಸಂತೋಷಪಡುತ್ತಾರೆ ಎಂದು
 ಋಷಿಯು ತಿಳಿಸಿದ್ದಾನೆ.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಮಂ ಯಮ ಪ್ರಸ್ತರಮಾ ಹಿ ಸೀದಾಂಗಿರೋಭಿಃ ಪಿತೃಭಿಃ ಸಂವಿದಾನಃ ।
@@ -18929,6 +19534,8 @@ Yama, who are associated with the Angirasa Pitris, sit down at this Sacrifice; m
 ಅರ್ಪಿಸುವ ಹವಿಸ್ಸಿನಿಂದ ಸಂತುಷ್ಟನಾಗಿ ಯಜಮಾನನನ್ನೂ ಹರ್ಷಗೊಳಿಸು ಎಂದು ಈ ಋಕ್ಕಿನ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 *[೧ ಸಂಹಿತಾಪಾರಃ ೧]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಂಗಿರೋಭಿರಾ ಗಹಿ ಯಜ್ಞಿಯೇಭಿರ್ಯಮ ವೈರೂಪೈರಿಹ ಮಾದಯಸ್ವ ।
@@ -18979,6 +19586,8 @@ Come hither, Yama, with the venerable multiform Angirasas, and be exhilarated; I
 ಶ್ರುತಿವಾಕ್ಯದಂತೆ ವೈರೂಪವೆಂಬ ಸಾಮಮಂತ್ರವಿಶೇಷದ ಗಾನವನ್ನು ಕೇಳುವುದರಲ್ಲಿ ಪ್ರೀತಿಯುಕ್ತರಾದ ಪಿತೃಗಳು
 ಎಂದರ್ಧವು.
 *[೧ ಸಂಹಿತಾಪಾರೇ ॥]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19076,6 +19685,8 @@ The Angirasas, the Atharvas, the Bhrigus, who are entitled to the Soma, are our 
 ಉತ್ತಮಸ್ಥಾನವನ್ನು ಪಡೆದಿರುವುದರಿಂದ ಇವರೆಲ್ಲರನ್ನೂ ಪಿತೃಗಳೆಂದು ಕರೆಯಬೇಕೆಂದು ಮತ್ತೆ ಕೆಲವರ
 ಅಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರೇಹಿ ಪ್ರೇಹಿ ಪಥಿಭಿಃ ಪೂರ್ವ್ಯಭಿರ್ಯತ್ರಾ ನಃ ಪೂರ್ವೇ ಪಿತರಃ
@@ -19141,6 +19752,8 @@ Depart, depart, by the former paths by which our forefathers have departed; ther
 ಲೋಕಕ್ಕೆ ಪ್ರಭುಗಳಾದ ಯಮ ಮತ್ತು ವರುಣರನ್ನು ನೋಡುವೆ ಎಂದು ಋಷಿಯು ಹೇಳಿರುವನು. ಪಿತೃಲೋಕದಲ್ಲಿ
 ಯಮನಲ್ಲದೆ ವರುಣನೂ ಅಲ್ಲಿಯೇ ಇರುವನು ಎಂಬ ನಂಬಿಕೆಯು ಹಿಂದಿನ ಋಷಿಗಳಿಗಿದ್ದಿತು ಎಂದು ತಿಳಿಯಬೇಕು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಂ ಗಚ್ಛಸ್ವ ಪಿತೃಭಿಃ ಸಂ ಯಮೇನೇಷ್ಟಾಪೂರ್ತೇನ ಪರಮೇ ವ್ಯೋಮನ್ ।
@@ -19199,6 +19812,8 @@ Be united with the Pitris, with Yama, and with the fulfilment of your wishes in 
 ವಾದ ದೇಹವನ್ನು ಪಡೆದು ಉತ್ತಮ ಗೃಹದಲ್ಲಿ ವಾಸಿಸು ಎಂದು ಪ್ರಾರ್ಥನೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿರುವನು.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪೇತ ವೀತ ವಿ ಚ ಸರ್ಪತಾತೋಽಸ್ಮಾ ಏತಂ ಪಿತರೋ ಲೋಕಮಕ್ರನ್ ।
@@ -19217,7 +19832,7 @@ Be united with the Pitris, with Yama, and with the fulfilment of your wishes in 
 
 > ಪೈತೃಮೇಧಿಕೇ ಕರ್ಮಣಿ ಸ್ಮಶಾನಾಯತನಂ ಪ್ರೋಕ್ಷತ್ಯಪೇತ ವೀತೇತಿ । ಸೂತ್ರಿತಂ ಚ ।
 > ಗರ್ತೋದಕೇನ ಶಮೀಶಾಖಯಾ ತ್ರಿಃ ಪ್ರಸವ್ಯಮಾಯತನಂ ಪರಿವ್ರಜನ್ ಪ್ರೋಕ್ಷತ್ಯಪೇತ ವೀತ ವಿ ಚ
-> ಸರ್ಪತಾತಃ । ಆ. ಗೃ. ೪-೨-೧೮ । ಇತಿ ॥
+> ಸರ್ಪತಾತಃ । ಆ. ಗೃ. ಸೂ. ೪-೨-೧೮ । ಇತಿ ॥
 > ಶೃಶಾನೇ ಪೂರ್ವಂ ಸ್ಥಿತಾ ಹೇ ಪಿಶಾಚಾದಯಃ ಅತೋಽಸ್ಮಾದೃತಯಜಮಾನದಹನಸ್ಥಾನಾದಪೇತ i ಅಪಗಚ್ಛತ । ವೀತ । ವಿಶೇಷೇಣ ಗಚ್ಛತ । ವಿ ಸರ್ಪತ ಚ । ಇದಂ ಸ್ಥಾನಂ ಪರಿತ್ಯಜ್ಯ
 > ನಾನಾಭಾವೇನ ದೂರತರಂ ದೇಶಂ ಗಚ್ಛತೇತ್ಯರ್ಥಃ । ಪಿತರೋಽಸ್ಮೈ ಮೃತಯಜಮಾನಸ್ಯಾರ್ಥಾಯೈತಂ ಲೋಕಮಿದಂ ದಹನಸ್ಥಾನಮಕ್ರನ್ । ಯಮಸ್ಯಾಜ್ಞಯಾನ್ನಕುರ್ವನ್ । ಯಮೋಽಪ್ಯಹೋಭಿರ್ದಿವಸೈರದ್ಭಿರಭ್ಯುಕ್ಷಣೋದಕೈರಕ್ತುಭೀ ರಾತ್ರಿಭಿರ್ವ್ಯಕ್ತಂ ಸಂಗತಂ । ಶುದ್ಧಿನಿಮಿತ್ತೈಃ ಕಾಲೋದಕಾದಿಭಿಃ ಶೋಧಿತಮಿತ್ಯರ್ಥಃ । ಅವಸಾನಂ ದಹನಸ್ಥಾನಮಸ್ಮೈ ಮೃತಯಜಮಾನಸ್ಯಾರ್ಥಾಯ ದದಾತಿ ।
 > ದತ್ತವಾನ್ ॥
@@ -19251,7 +19866,7 @@ Depart from hence, begone, go far off, (evil spirits); the Pitris have assigned 
 *[ಆ. ೭. ಅ. ೬. ಪ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 473]*
 
 ಗರ್ತೋದಕೇನ ಶಮೀಶಾಖಯಾ ತ್ರಿಃಪ್ರಸವ್ಯಮಾಯತನಂ ಪರಿವ್ರಜನ್ ಪ್ರೋಕ್ಷತ್ಯಪೇತ ವೀತ ವಿ ಚ
-ಸರ್ಪತಾತಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೪-೨-೧೦) ವಿವೃತವಾಗಿರುವುದು.
+ಸರ್ಪತಾತಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೨-೧೦) ವಿವೃತವಾಗಿರುವುದು.
 ಶ್ಮಶಾನದಲ್ಲಿ ಮೃತಶರೀರವನ್ನು ದಹನಮಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಇರಬಹುದಾದ ಪಿಶಾಚಾದಿಗಳನ್ನು ಆ ಸ್ಥಳಬಿಟ್ಟು
 ದೂರಸರಿದು ಹೋಗಬೇಕೆಂದು ಋಷಿಯು ಈ ಋಕ್ಕಿನಲ್ಲಿ ಹೇಳಿದ್ದಾನೆ.
 ಯಮೋ ದದಾತ್ಯವಸಾನಮಸ್ಮೈ—ಯಮನೇ ಈ ದಹನಸ್ಥಾನವನ್ನು ಮೃತರಾದ ಈ ಪುರುಷನಿಗೋ
@@ -19264,6 +19879,8 @@ Depart from hence, begone, go far off, (evil spirits); the Pitris have assigned 
 ದೇಹವನ್ನು ಅಗ್ನಿಯಿಂದ ದಹಿಸುವ ಸ್ಥಾನ. ಶ್ಮಶಾನದಲ್ಲಿ ಒಂದು ಸ್ಥಳವನ್ನು ನಿರ್ದೇಶಿಸಿ ಅದನ್ನು ಉದಕಪ್ರೋಕ್ಷಣಾ
 ದಿಗಳಿಂದ ಶುದ್ಧಿಗೊಳಿಸಿ ಅಲ್ಲಿ ದಹನಕ್ರಿಯೆಯು ನಡೆಯುವುದು. ಅದನ್ನೇ ಇಲ್ಲಿ ಅವಸಾನಂ ಎಂಬ ಶಬ್ದದಿಂದ
 ವರ್ಣಿಸಿದೆ.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19279,7 +19896,7 @@ Depart from hence, begone, go far off, (evil spirits); the Pitris have assigned 
 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
-> ಅನುಸ್ತರಣ್ಯಾ ವೃಕ್ಕೌ ಪಾರ್ಶ್ವಯೋರಾಮ್ರಫಲಾಕೃತೀ । ತಾವುದ್ಧೃತ್ಯ ಪ್ರೇತಸ್ಯ ಹಸ್ತಯೋರ್ನಿದಧಾತ್ಯತಿ ದ್ರವ ಸಾರಮೇಯಾವಿತಿ ದ್ವಾಭ್ಯಾಂ । ಸೂತ್ರಿತಂ ಚ । ವೃಕ್ಕಾವುದ್ಧೃತ್ಯ ಪಾಣ್ಯೋರಾದಧ್ಯಾದತಿ ದ್ರವ ಸಾರಮೇಯೌ ಶ್ವಾನೌ । ಆ. ಗೃ. ೪-೩-೨೦ । ಇತಿ ॥
+> ಅನುಸ್ತರಣ್ಯಾ ವೃಕ್ಕೌ ಪಾರ್ಶ್ವಯೋರಾಮ್ರಫಲಾಕೃತೀ । ತಾವುದ್ಧೃತ್ಯ ಪ್ರೇತಸ್ಯ ಹಸ್ತಯೋರ್ನಿದಧಾತ್ಯತಿ ದ್ರವ ಸಾರಮೇಯಾವಿತಿ ದ್ವಾಭ್ಯಾಂ । ಸೂತ್ರಿತಂ ಚ । ವೃಕ್ಕಾವುದ್ಧೃತ್ಯ ಪಾಣ್ಯೋರಾದಧ್ಯಾದತಿ ದ್ರವ ಸಾರಮೇಯೌ ಶ್ವಾನೌ । ಆ. ಗೃ. ಸೂ. ೪-೩-೨೦ । ಇತಿ ॥
 
 <!-- printed 474 -->
 *[474 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮ. ೧೦. ಅ. ೧. ಸೂ-೧೪.]*
@@ -19318,7 +19935,7 @@ progeny of Sarama, and join the wise Pitris who rejoice joyfully with Yama.
 ಅಪರಕರ್ಮದಲ್ಲಿ ಶವದ ಕೈಗಳಲ್ಲಿ ಮಾವಿನಕಾಯಿನ ಪ್ರಮಾಣದ ಎರಡು ಹಿಟ್ಟಿನ ಪಿಂಡಗಳನ್ನು ಇಟ್ಟು
 ಅತಿದ್ರವ ಸಾರಮೇಯೌ ಎಂದು ಮೊದಲಾಗುವ ಎರಡು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯ
 ಸೂತ್ರದ—ವೃಕ್ಕಾವುದ್ಧೃತ್ಯ ಪಾಣ್ಯೋರಾದಧ್ಯಾದತಿ ದ್ರವ ಸಾರಮೇಯೌ ಶ್ವಾನೌ ಎಂಬ ಸೂತ್ರದಿಂದ
-(ಆ. ಗೃ. ೪-೩-೨೦) ವಿವೃತವಾಗಿರುವುದು.
+(ಆ. ಗೃ. ಸೂ. ೪-೩-೨೦) ವಿವೃತವಾಗಿರುವುದು.
 ಈ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಮುಂದಿನ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಸರಮಾ ಎಂಬ ದೇವಶುನಿಯ ಮರಿಗಳಾ . ಪರಮೇಯ
 ಗಳೆಂಬ ಎರಡು ನಾಯಿಗಳ ವಿಷಯವನ್ನು ಪ್ರಸ್ತಾಪಿಸಲಾಗಿದೆ. ಸರಮಾ ಎಂಬ ದೇವಶುನಿಯು ಇಂದ್ರನ ಬಳಿಯಿದ್ದು
 ಪಣಿಗಳಿಂದ ಅಪಹೃತವಾದ ಗೋವುಗಳನ್ನು ಹುಡುಕುವ ವಿಷಯದಲ್ಲಿ ಅದು ದೇವತೆಗಳಿಗೆ ತುಂಬಾ ಸಹಾಯಮಾಡಿ
@@ -19343,6 +19960,8 @@ progeny of Sarama, and join the wise Pitris who rejoice joyfully with Yama.
 ಸುವ ಮಾರ್ಗವನ್ನು ಕಾಯುತ್ತಿರುವವು. ಇವು ಯಮನ ದೂತರೆಂದು ಪ್ರಸಿದ್ಧಿಯನ್ನು ಪಡೆದಿರುವವು ಎಂಬ ವಿಷಯ
 ಗಳು ವ್ಯಕ್ತಪಡುವವು.
 *[೧ ಸಂಹಿತಾಪಾಠ 1]*
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19419,6 +20038,8 @@ him prosperity and health.
 ಈ ಋಕ್ಕಿನ ಉತ್ತರಾರ್ಧದಲ್ಲಿ-ಯಮನಬಳಿಗೆ ಬರುವ ಪ್ರೇತಶರೀರಕ್ಕೆ ರೋಗಗಳ ಬಾಧೆಯಿಲ್ಲದಂತೆ
 ಚೆನ್ನಾಗಿ ಕಾಪಾಡಬೇಕೆಂದು ಯಮನನ್ನು ಪ್ರಾರ್ಥಿಸಲಾಗಿದೆ.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉರೂಣಸಾವಸುತೃಪಾ ಉದುಂಬಲೌ ಯಮಸ್ಯ ದೂತೌ ಚರತೋ ಜನಾ
@@ -19482,6 +20103,8 @@ the sun.
 ವಂತೆಯೂ ನಮಗೆ ಮಂಗಳವನ್ನುಂಟುಮಾಡುವಂತೆಯೂ ಇರಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸಲಾಗಿದೆ.
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಮಾಯ ಸೋಮಂ ಸುನುತ ಯಮಾಯ ಜುಹುತಾ ಹವಿಃ ।
@@ -19533,6 +20156,8 @@ Pour out the Soma for Yama; to Yama offer the oblation, the decorated sacrifice 
 ನಲ್ಲಿಗೆ ಕೊಂಡೊಯ್ದು ಅವನಿಗೆ ಸೇರುವಂತೆ ಮಾಡಲಿ ಎಂಬ ಪ್ರಾಥನೆಯು ಇಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಮಾಯ ಘೃತವದ್ಧವಿರ್ಜುಹೋತ ಪ್ರ ಚ ತಿಷ್ಠತ ।
@@ -19576,6 +20201,8 @@ the altar); It is he who among the gods gives us a long life to live
 ಮಂತ್ರಪೂರ್ವಕವಾಗಿ ಅರ್ಪಿಸಿರಿ. ಅದರಿಂದ ತೃಪ್ತಿಗೊಂಡ ದೇವತೆಗಳ ಮಧ್ಯದಲ್ಲಿರುವ ಯಮನು ನಾವು ಬಹುಕಾಲ
 ಜೀವಿಸಿರುವಂತೆ ದೀರ್ಘವಾದ ಆಯುಸ್ಸನ್ನು ಕೊಟ್ಟು ನಮ್ಮನ್ನು ಅನುಗ್ರಹಿಸಲಿ ಎಂದು ಈ ಋಕ್ಕಿನ ಮುಖ್ಯಾಭಿ
 ಪ್ರಾಯವು.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19624,6 +20251,8 @@ paths.
 ಯಮನ ಬಳಿ ಪಿತೃಲೋಕದಲ್ಲಿ ವಾಸಿಸುತ್ತಿರುವ ಋಷಿಗಳಿಗೂ, ಮೃತರಾದ ನಮ್ಮ ಹಿರಿಯರಿಗೂ, ಯಮಲೋಕಕ್ಕೆ
 ಹೋಗುವ ದಾರಿಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿರುವ ಇತರ ಪಿತೃಗಳಿಗೂ ಇಗೋ ನಮಸ್ಕರಿಸುವೆನು ಎಂದು ಋಷಿಯು ತನ್ನ
 ಪಿತೃಗಳನ್ನು ವಂದಿಸಿರುವನು.
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19741,8 +20370,8 @@ paths.
 ಪುರಾತನರೂ, ಆದಿಯಲ್ಲಿ ಜನಿಸಿದವರೂ ಆದ ಋಷಿಗಳು ಹೋಗಿರುವ, ಅತ್ಯುನ್ನತವಾದ ಸೂರನ ಸ್ಥಾನಕ್ಕೆ,
 ಅತ್ಯಂತ ಎತ್ತರದಲ್ಲಿರುವ ಸ್ವರ್ಗಕ್ಕೆ, ಅಥವಾ ಸತ್ಪುರುಷರ ಲೋಕಕ್ಕೆ, ದೇವಲೋಕದ ಪಕ್ಷಿಯಾದ ಅಗ್ನಿಯ
 ಮೂಲಕ, ಮನುಷ್ಯರು ಹೋಗುತ್ತಾರೆ (ವಾ. ಸಂ. ೧೮-೫೧, ೫೨), ಗಾರ್ಹಪತ್ಯಾಗ್ನಿಯು ಮೃತರನ್ನು ಸತ್ಪರು
-ಷರ ಲೋಕಕ್ಕೆ ಒಯ್ಯುತ್ತಾನೆ (ಅ. ವೇ. ೧-೧೨೦-೧) ಅಗ್ನಿಯು ಮೊದಲು ಮೃತನ ದೇಹವನ್ನು ದಹಿಸಿ
-ಅನಂತರ ಸಜ್ಜೀವಿಗಳ ಲೋಕದಲ್ಲಿ ಇಡುತ್ತಾನೆ (ಅ. ವೇ. ೧೮-೩-೭೧). ಶವಗಳನ್ನು ದಹಿಸುವ ಅಗ್ನಿಯು
+ಷರ ಲೋಕಕ್ಕೆ ಒಯ್ಯುತ್ತಾನೆ (ಅಥ. ಸಂ. ೧-೧೨೦-೧) ಅಗ್ನಿಯು ಮೊದಲು ಮೃತನ ದೇಹವನ್ನು ದಹಿಸಿ
+ಅನಂತರ ಸಜ್ಜೀವಿಗಳ ಲೋಕದಲ್ಲಿ ಇಡುತ್ತಾನೆ (ಅಥ. ಸಂ. ೧೮-೩-೭೧). ಶವಗಳನ್ನು ದಹಿಸುವ ಅಗ್ನಿಯು
 (ಕ್ರವ್ಯಾದ) ದೇವತೆಗಳಿಗೆ ಆಹುತಿಯನ್ನು ವಹಿಸುವ ಅಗ್ನಿಗಿಂತಲೂ ಭಿನ್ನನು (೧೦-೧೬-೯). ತನ್ನ ಭಾಗವಾದ
 ಅಜವನ್ನು ದಹಸಿ, ದೇಹವನ್ನು ಕಾಪಾಡಬೇಕೆಂದು ಅಗ್ನಿಗೆ ಪ್ರಾರ್ಥನೆ (೧೦-೧೬-೪). ಕರ್ಮಮಾಡುವಾಗು
 ಶವವನ್ನು ಕೃಷ್ಣವರ್ಣದ ಅಜದ ಚರ್ಮದ ಮೇಲಿಡುತ್ತಾರೆ ಮತ್ತು ಬಲಿಕೊಡುವ ಸಂದರ್ಭದಲ್ಲಿ ಮೃಗ
@@ -19756,12 +20385,12 @@ paths.
 
 ವವನು (೧೦-೧೭-೪). ಹುತವಾದ ಅಜವು ಪಿತೃಗಳ ಸಮೀಪಕ್ಕೆ ಮುಂಚೆ ಹೋಗಿ, ಮೃತಾತ್ಮನ ಆಗದುನ
 ವನ್ನು ತಿಳಿಸುತ್ತದೆ; ಹೀಗೆ ಹೋಗುವಾಗ, ಮಾರ್ಗದಲ್ಲಿ ಕಗ್ಗತ್ತಲೆಯನ್ನು ಹಾದು, ಅನಂತರ, ಪಿತೃಗಳ ಸ್ಥಾನ
-ವಾದ ಸ್ವರ್ಗದ ಮೂರನೆಯ ಅಂತಸ್ತನ್ನು ಸೇರಬೇಕು (ಅ. ವೇ. ೯-೫-೧, ೩ ; ೮-೧-೮ನ್ನು ಹೋಲಿಸು)
+ವಾದ ಸ್ವರ್ಗದ ಮೂರನೆಯ ಅಂತಸ್ತನ್ನು ಸೇರಬೇಕು (ಅಥ. ಸಂ. ೯-೫-೧, ೩ ; ೮-೧-೮ನ್ನು ಹೋಲಿಸು)
 ಆಮುಷ್ಮಿಕಜೀವನಕ್ಕೆ ಉಪಯೋಗವಾಗಲೆಂದು, ಮೃತಜೀವನಿಗೆ, ಆಭರಣಗಳು ಮತ್ತು ವಸ್ತ್ರ
 ಗಳನ್ನು ಒದಗಿಸುತ್ತಾರೆ ; ಈ ಪದ್ಧತಿಯು ಈಗಲೂ ರೂಢಿಯಲ್ಲಿದೆ (೧೮-೪-೩೧). ಅವನ ಪತ್ನಿ ಮತ್ತು
 ಆಯುಧಗಳನ್ನೂ ಶವದೊಡನೆ ದಹಿಸುತ್ತಿದ್ದರೆಂಬುದಕ್ಕೆ ಅಲ್ಲಲ್ಲಿ ಚಿಹ್ನೆಗಳಿವೆ (೧೦-೧೮-೮, ೯). ಶವಕ್ಕೆ
 ಒಂದು ಹೊರೆ ಕಟ್ಟಿಗೆಯನ್ನು ಕಟ್ಟುತ್ತಿದ್ದರು. ಮೃತನ ಪ್ರೇತವು ಹಿಂದಕ್ಕೆ ಬರುವುದಕ್ಕೆ ದಾರಿ ತಿಳಿಯದಿರ
-ಲೆಂಬುದೇ ಇದರ ಉದ್ದೇಶ (ಅ. ವೇ. ೫-೧೯-೧೨; ಋ. ವೇ. ೧೦-೧೮-೨ ಮತ್ತು ೧೯-೯೭-೧೬ಗಳನ್ನು
+ಲೆಂಬುದೇ ಇದರ ಉದ್ದೇಶ (ಅಥ. ಸಂ. ೫-೧೯-೧೨; ಋ. ಸಂ. ೧೦-೧೮-೨ ಮತ್ತು ೧೯-೯೭-೧೬ಗಳನ್ನು
 ಹೋಲಿಸಿ).
 ಆತ್ಮ—ಅಗ್ನಿ ಅಥವಾ ಸಮಾಧಿಗಳು ದೇಹವನ್ನು ಮಾತ್ರ ಅಳಿಸುತ್ತವೆ; ಆದರೆ ಮೃತನ ವ್ಯಕ್ತಿತ್ವ
 ವನ್ನು ಅಳಿಸಲಾರವು. ಅಜ್ಞಾನಾವಸ್ಥೆಯಲ್ಲಿಯೂ ಜೀವವನ್ನು ದೇಹದಿಂದ ಬೇರ್ಪಡಿಸಬಹುದು ಮತ್ತು ದೇಹ
@@ -19779,7 +20408,7 @@ paths.
 ನಂತಲ್ಲ ; ಅದಕ್ಕೂ ವ್ಯಕ್ತಿತ್ವವಿದೆ. ಮನುಷ್ಯರು ದೇಹವನ್ನು ತ್ಯಜಿಸಿದ ಮೇಲೆಯೇ; ಅವರಿಗೆ ಅಮರತ್ವ
 ಪ್ರಾಪ್ತಿ (ಶ. ಬ್ರಾ. ೧೧-೪-೩-೯) ಯಾದರೂ, ಸ್ವರ್ಗಾದಿ ಲೋಕಗಳೂ ಪ್ರಾಕೃತವೇ ಆದುದರಿಂದ, ಶವಕ್ಕೂ
 ಮುಖ್ಯಸ್ಥಾನವಿದೆ. ಬೇರೆ ಲೋಕಗಳ ಅಸ್ತಿತ್ವದಲ್ಲಿ ದೇಹಕ್ಕೂ ಭಾಗವಿದೆ (೧೦-೧೬-೫, ಅ. ವೇ.
-೧೮-೨-೨೬). ದೋಷಗಳು ಯಾವುವೂ ಇಲ್ಲದ (ಅ. ವೇ. ೬-೧೨೦-೩) ದೇಹವನ್ನು ಸಾಧಾರಣವಾದ ಪಾರ್ಥಿವ
+೧೮-೨-೨೬). ದೋಷಗಳು ಯಾವುವೂ ಇಲ್ಲದ (ಅಥ. ಸಂ. ೬-೧೨೦-೩) ದೇಹವನ್ನು ಸಾಧಾರಣವಾದ ಪಾರ್ಥಿವ
 ದೇಹವೆನ್ನುವುದು ಸಾಧುವಲ್ಲ, ಅಗ್ನಿಯ ಪ್ರಭಾವದಿಂದ ಪರಿಪೂತವಾದ (೧೦-೧೬-೬ನ್ನು ಹೋಲಿಸಿ) ದೇಹ
 ಅಥವಾ ಈಚಿನ ವೇದಾಂತಿಗಳ 'ಸೂಕ್ಷ್ಮದೇಹ' ವೆನ್ನಬಹುದು. ದಹನವಾದ ಮೇಲೆ ಶೇಖರಿಸಬೇಕಾದ ಅಗ್ನಿ
 ಗಳು ನಾಶವಾದರೆ, ಅದೇ ಕಠಿಣವಾದ ಶಿಕ್ಷೆಯೆಂದು ಹೇಳಿದೆ (ಶ. ಬ್ರಾ. ೧೧-೬-೩-೧೧ ; ೧೪-೬-೯-೨೮); ಇದ
@@ -19798,10 +20427,10 @@ paths.
 ೧೧-೧-೩೭) ರಥದಲ್ಲಿ ಅಥವಾ ರೆಕ್ಕೆಗಳ ಮೇಲೆ (ಅ. ವೇ. ೪.೩೪.೪) ಅಥವಾ ಭೂತಗಳನ್ನು ಕೊಲ್ಲುವಾಗ
 ಅಗ್ನಿಯು ಉಪಯೋಗಿಸುವ ರೆಕ್ಕೆಗಳ ಮೇಲೆ (ವಾ. ಸ. ೧೮-೫೨) ಹೋಗುತ್ತಾನೆ. ಮರುತದಿಂದ ಮೇಲಕ್ಕೆ
 ತೇಲಿಸಲ್ಪಟ್ಟು, ಹಿತವಾದ ವಾಯುವನ್ನು ಸೇವಿಸುತ್ತಾ ಮತ್ತು ಮಳೆ ಹನಿಗಳಿಂದ ತಂಪುಮಾಡಲ್ಪಟ್ಟು, ಜೀವನು ತನ್ನ
-ಪುರಾತನ ರೂಪವನ್ನು ಪುನಃ ಪಡೆಯುತ್ತಾನೆ (ಅ. ವೇ. ೧೮-೨-೨೧ರಿಂದ ೨೬) ಮತ್ತು ವೈಭವ ವಿಶಿಷ್ಟನಾಗಿ,
+ಪುರಾತನ ರೂಪವನ್ನು ಪುನಃ ಪಡೆಯುತ್ತಾನೆ (ಅಥ. ಸಂ. ೧೮-೨-೨೧ರಿಂದ ೨೬) ಮತ್ತು ವೈಭವ ವಿಶಿಷ್ಟನಾಗಿ,
 ಯಮನ ಜೊತೆಯಲ್ಲಿ, ಪಿತೃಗಳು ಸಂತೋಷದಿಂದ ಕಾಲ ಕಳೆಯುತ್ತಿರುವ ಅತ್ಯುನ್ನತವಾದ ಸ್ವರ್ಗವನ್ನು ಸೇರುತ್ತಾನೆ
 (೧೦-೧೪-೮, ೧೦; ೧೦-೧೫೪-೪, ೫). ಈ ರೀತಿ ಸ್ವರ್ಗಪ್ರಾಪ್ತಿಗೆ ಮನೆಗೆ ವಾಪಸ್ಸು ಬರುವುದು ಎಂದು
-ಹೇಳಿದೆ (ಅಸ್ತಂ ; ೧೦-೧೪-೮). ಯಮನು ಈತನನ್ನು ಸ್ವಕೀಯನೆಂದು ತಿಳಿದು (ಅ. ವೇ. ೧೮-೨-೩೭), ಅವನಿಗೂ
+ಹೇಳಿದೆ (ಅಸ್ತಂ ; ೧೦-೧೪-೮). ಯಮನು ಈತನನ್ನು ಸ್ವಕೀಯನೆಂದು ತಿಳಿದು (ಅಥ. ಸಂ. ೧೮-೨-೩೭), ಅವನಿಗೂ
 ಒಂದು ವಿಶ್ರಾಂತಿ ಸ್ಥಾನವನ್ನು ಕೊಡುತ್ತಾನೆ (೧೯-೧೪-೯).
 ಶತಪಥಬ್ರಾಹ್ಮಣದ ಪ್ರಕಾರ, ಮೃತರು ಈ ಲೋಕವನ್ನು ಬಿಟ್ಟು ಹೊರಟು, ಎರಡು ಬೆಂಕಿಗಳ ಮಧ್ಯೆ
 ಹಾದುಹೋಗುತ್ತಾರೆ ; ಆ ಬೆಂಕಿಗಳು ಕೆಟ್ಟ ಜೀವವನ್ನು ಸುಡುತ್ತವೆ ; ಉತ್ತಮರನ್ನು ಮಾತ್ರ ಮಂದಕ್ಕೆ ಹೋಗಲು
@@ -19835,13 +20464,16 @@ paths.
 ಶಂಖ ಎಂಬುವನು ಋಷಿಯು. ಅಗ್ನಿಷ್ವಾತ್ತಾಃ ಎಂಬ ೧೧ನೆಯು ಋಕ್ಕು ಜಗತೀ ಛಂದಸ್ಕವು. ಉಳಿದ ಋಕ್ಕುಗಳು
 ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು ; ಪಿತೃಗಳು ದೇವತೆಯು ; ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ಅಷ್ಟಕಾ ಎಂಬ
 ಕರ್ಮದಲ್ಲಿ ಉದೀರತಾಮವರೇ ಎಂದು ಮೊದಲಾಗುವ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಎಂಟು ಋಕ್ಕುಗಳನ್ನು
-ಹೋಮಾರ್ಥವಾಗಿ ಉಪಯೋಗಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ- ಉದೀರತಾಮವರ ಉತ್ಪರಾಸ ಇತ್ಯಷ್ಟಾಭಿರ್ಹುತ್ವಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೨-೪-೬) ವಿವೃತವಾಗಿರುವುದು. ಮಹಾಪಿತೃಯಜ್ಞದಲ್ಲಿ ಪಿತರಃ
+ಹೋಮಾರ್ಥವಾಗಿ ಉಪಯೋಗಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ- ಉದೀರತಾಮವರ ಉತ್ಪರಾಸ ಇತ್ಯಷ್ಟಾಭಿರ್ಹುತ್ವಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೨-೪-೬) ವಿವೃತವಾಗಿರುವುದು. ಮಹಾಪಿತೃಯಜ್ಞದಲ್ಲಿ ಪಿತರಃ
 ಸೋಮವಂತಃ ಎಂಬ ವಿಶೇಷ ಪಿತೃಗಣವನ್ನುದ್ದೇಶಿಸಿ ಮಾಡುವ ಹೋಮದಲ್ಲಿ ಉದೀರತಾಂ ಎಂಬ ಮೊದಲನೆಯ
 ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ- ಪಿತರೋಗ್ನಿಷ್ವಾತ್ತಾ ಯಮ
 ಉದೀರತಾಮವರ ಉತ್ಪರಾಸಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨-೧೯) ವಿವೃತವಾಗಿರುವುದು ಮತ್ತು ಆಗ್ನಿಮಾರುತಶಸ್ತ್ರ
 ಮಂತ್ರಗಳಲ್ಲಿ ಉದೀರತಾಂ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಧಾಯ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತ
 ಸೂತ್ರದ-ಮಾತಲೀ ಕನೈರ್ಯಮೋ ಅಂಗಿರೋಭಿರುದೀರತಾಮವರ ಉತ್ಪರಾಸಃ ಎಂಬ ಸೂತ್ರದಿಂದ
 (ಆ. ೫-೨೦) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೫ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೫
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧॥ ಸೂಕ್ತ—೧೫ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೩, ೧೮, ೧೯ ॥
@@ -19850,6 +20482,8 @@ paths.
 ದೇವತಾ—ಪಿತರಃ ॥
 ವಂದಃ—೧-೧೦. ೧೨-೧೪, ತ್ರಿಷ್ಟುಪ್ । ೧೧. ಜಗತೀ ॥
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19946,6 +20580,8 @@ invocations.
 ವನ್ನು ರಕ್ಷಿಸುವರೂ, ಯಜ್ಞಾನುಷ್ಠಾನಕರ್ಮಗಳನ್ನು ತಿಳಿದವರೂ ಆದ ಯಾವ ಯಾವ ಪಿತೃಗಳಿರುವರೋ ಅವರೆ
 ಲ್ಲರೂ ನಮ್ಮ ಆಹ್ವಾನವನ್ನು ಮನ್ನಿಸಿ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ ಎಂಬಭಿಪ್ರಾಯವು ಈ ಋಕ್ಕಿನಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇದಂ ಪಿತೃಭ್ಯೋ ನಮೋ ಅಸ್ತ್ವದ್ಯ ಯೇ ಪೂರ್ವಾಸೋ ಯ ಉಪರಾಸ
@@ -20029,6 +20665,8 @@ present among opulent people.
 ವರ್ಗಕ್ಕೆ ಸೇರಿ ಶ್ರಾದ್ಧಾದಿಗಳಲ್ಲಿ ಹವಿಸ್ವೀಕಾರಾರ್ಥವಾಗಿ ಬಂದು ಕುಳಿತಿರುವ ಇನ್ನು ಕೆಲವು ಪಿತೃಗಳು. ಈ ಮೇಲೆ
 ಹೇಳಿದ ವಿಧವಿಧವಾದ ಪಿತೃಗಳನ್ನು ನಮಸ್ಕರಿಸುವೆನು ಎಂದು ಋಷಿಯು ವರ್ಣಿಸಿದ್ದಾನೆ.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಹಂ ಪಿತ್ಥನ್ತು ವಿದತ್ರಾ ಅವಿತ್ಸಿ ನಪಾತಂ ಚ ವಿಕ್ರಮಣಂ ಚ ವಿಷ್ಣೋಃ ।
@@ -20074,6 +20712,8 @@ I have brought to my presence the Pitris who are well cognizant
 (of my worship), the infallibility, and progressive advance of the sacrifice ;
 (the Pitris) who sit on the sacred grass frequently coming hither worship
 the food of the effused (Soma) with the sacrificial cake.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20145,6 +20785,8 @@ Pitris, Barhishads, protect (us who are) in your presence; we have made these ob
 ಯಜ್ಞಯಾಗಾದಿಗಳನ್ನು ವಿಧ್ಯುಕ್ತವಾಗಿ ಮಾಡಿ ಮೃತರಾದ ಮೇಲೆ ಪಿತೃಲೋಕಕ್ಕೆ ಹೋದವರಿಗೆ ಬರ್ಹಿಷದಃ ಎಂದು
 ಹೆಸರು ಎಂದು ಭಾಷ್ಯಕಾರರು ಈ ಶಬ್ದಕ್ಕೆ ಅರ್ಥವಿವರಣೆಮಾಡಿದ್ದಾರೆ.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಪಹೂತಾಃ ಪಿತರಃ ಸೋಮ್ಯಾಸೋ ಬರ್ಹಿಷ್ಯೇಷು ನಿಧಿಷು ಪ್ರಿಯೇಷು ।
@@ -20197,6 +20839,8 @@ May the Pitris who are entitled to the Soma come, when invoked by us, to the agr
 ಶೌತ ಸೂತ್ರದ-ಉಪಹೂತಾಃ ಪಿತರಃ ಸೋಮ್ಯಾಸಸ್ತ್ವಂ ಸೋಮ ಪ್ರ ಚಿಕಿತೋ ಮನೀಷಾ ಎಂಬ ಸೂತ್ರ
 ದಿಂದ (ಆ. ೨.೧೯) ವಿವೃತವಾಗಿರುವುದು.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20252,6 +20896,8 @@ Having sat down on the right side with bended knee, you all accept this sacrific
 ಉದಾಹರಣೆಯಾಗಿ ಕೊಟ್ಟಿರುವರು.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಸೀನಾಸೋ ಅರುಣೀನಾಮುಪಸ್ಥೇ ರಯಿಂ ಧತ್ತ ದಾಶುಷೇ ಮರ್ತ್ಯಾಯ ।
@@ -20293,6 +20939,8 @@ Having sat down on the right side with bended knee, you all accept this sacrific
 Seated in the proximity of the radiant (flames of the altar), bestow
 riches on the mortal donor (of the oblation); give wealth, Pitris, to his sons ;
 you are present, grant us vigour.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20336,6 +20984,8 @@ you are present, grant us vigour.
 *English Translation.*
 
 May yama, being propitiated, desirous (of the offering), partake at pleasure of the oblations along with those our ancient progenitors the Saumyas, the possessors of great wealth, who also desire it, and who conve-yed the Soma beverage (to the gods and to the Pitris) in order.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20396,6 +21046,8 @@ Come, Agni, to our presence with the Pitris, who are possessed of knowledge, who
 ಅಥವಾ ಉದಾರಬುದ್ಧಿ, ಔದಾರ್ಯ ಎಂದರ್ಥವು. ಈ ವಿಷಯದಲ್ಲಿ ಮೇಲೆ ಹೇಳಿದ ಶ್ರುತಿವಾಕ್ಯವೇ ಉದಾಹರಣೆಯು.
 *[೧ ಸಂಹಿತಾಪಾತಕ ೧]*
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೇ ಸತ್ಯಾಸೋ ಹವಿರದೋ ಹವಿಷ್ಪಾ ಇಂದ್ರೇಣ ದೇವೈಃ ಸರಥಂ
@@ -20440,6 +21092,8 @@ Come, Agni, to our presence with the Pitris, who are possessed of knowledge, who
 
 Come, Agni, with thousands of Pitris, of both past and future (time), frequenters of sacrifices, eulogists of the gods ; those who are true, who feed on oblations, and drink oblations, possessing equality with Indra and the gods.
 *[, ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20491,6 +21145,8 @@ the sacred grass and grant us riches and male posterity.
 ಮಹಾಪಿತೃಯಜ್ಞದಲ್ಲಿ ಪಿತರೋಽಗ್ನಿಷ್ವಾತ್ವಾಃ ಎಂಬ ಪಿತೃಗಳನ್ನುದ್ದೇಶಿಸಿ ಮಾಡುವ ಹೋಮದಲ್ಲಿ ಅಗ್ನಿಷ್ಟಾತ್ತಾಃ ಪಿತರಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಮೊದಲನೇ ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ
 ಶೌತಸೂತ್ರದ—ಅಗ್ನಿಷ್ವಾತ್ತಾಃ ಪಿತರ ಏಹ ಗಚ್ಛತ ಯೇ ಚೇಹ ಪಿತರೋ ಯೇ ಚ ನೇಹ ಎಂಬ ಸೂತ್ರ
 ದಿಂದ (ಆ. ೨-೧೯) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20550,6 +21206,8 @@ Agni Jatavedas, who are glorified (by us), having made our oblations fragrant, y
 *[ಅ, ೭. ಅ. ೬. ವ. ೧೯. ] ಋಗ್ವೇದಸಂಹಿತಾ 507]*
 
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೇ ಚೇಹ ಪಿತರೋ ಯೇ ಚ ನೇಹ ಯಾಂಶ್ಚ ವಿದ್ಮ ಯಾ ಉ ಚ ನ
@@ -20599,6 +21257,8 @@ You know, Jatavedas, those Pitris, how many they may be, who are not in this wor
 
 ಮಹಾಪಿತೃಯಜ್ಞದಲ್ಲಿ ಯೇ ಚೇಹ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಎರಡನೆಯ ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ
 ಪರಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶೌತಸೂತ್ರದಲ್ಲಿ ಹೇಳಿರುವುದನ್ನು ಹಿಂದೆಯೇ ತಿಳಿಸಲಾಗಿದೆ.
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20670,8 +21330,8 @@ May those who are Agnidagdhas, and those who are not, be satisfied with Swadha i
 ಸ್ವರ್ಗ :— ಪಿತೃಗಳೂ ಮತ್ತು ಯಮನು ವಾಸಿಸುವ ಸ್ಥಾನವು ನಿತ್ಯವಾದ ತೇಜಸ್ಸಿಗೆ ನೆಲೆಯಾದ ಆಕಾಶದ
 ಮಧ್ಯದಲ್ಲಿ (೧೦-೧೫-೧೪), ಅತ್ಯಂತ ಎತ್ತರವಾದ ಸ್ವರ್ಗದಲ್ಲಿ (೧೨-೧೪-೮), ಮೂರನೆಯ ಸ್ವರ್ಗದಲ್ಲಿ, ಆಕಾಶದ
 ಅತ್ಯಂತ ಗಹನವಾದ ಪ್ರದೇಶಗಳಲ್ಲಿ, (೯-೧೧೩-೭ ರಿಂದ ೯) ಇದೆ. ಅಥರ್ವವೇದದಲ್ಲಿಯೂ ಇದೇ ರೀತಿ, =ತ್ಯುನ್ನತ
-ವಾದ (ಅ. ವೇ. ೧೧-೪-೧೧) ಮತ್ತು ತೇಜಃಪುಂಜವಾದ ಲೋಕ (೪.೩೪-೨). ಆಕಾಶದ ತುದಿ (ಅ.ವೇ. ೧೮-೨.೪೭)
-ಮೂರನೆಯ ಆಕಾರ (ಅ. ವೇ. ೯-೫-೧,೮ ; ೧೮-೪-೩) ಮತ್ತು ಮೂರನೆಯ ಸ್ವರ್ಗ (ಅ. ವೇ. ೧೮-೨-೪೮)
+ವಾದ (ಅಥ. ಸಂ. ೧೧-೪-೧೧) ಮತ್ತು ತೇಜಃಪುಂಜವಾದ ಲೋಕ (೪.೩೪-೨). ಆಕಾಶದ ತುದಿ (ಅಥ. ಸಂ. ೧೮-೨.೪೭)
+ಮೂರನೆಯ ಆಕಾರ (ಅಥ. ಸಂ. ೯-೫-೧,೮ ; ೧೮-೪-೩) ಮತ್ತು ಮೂರನೆಯ ಸ್ವರ್ಗ (ಅಥ. ಸಂ. ೧೮-೨-೪೮)
 ಇವುಗಳೇ ಪಿತೃಲೋಕಗಳ ಮತ್ತು ಯಮನ ಸ್ಥಾನವೆಂದು ಹೇಳಿದೆ. ಮೈತ್ರಾಯಿಣೀ ಸಂಹಿತೆಯಲ್ಲಿ (ಮೈ ಸಂ.
 ೧-೧೦-೧೮ ; ೨.೩.೯) ಪಿತೃಲೋಕವೇ ಮೂರನೆಯ ಲೋಕ. ಪಿತೃಲೋಕವು ಸೂರ್ಯಮಂಡಲದ ಅತ್ಯಂತ
 ಎತ್ತರವಾದ ಪ್ರದೇಶ (೯.೧೧೩-೯). ಪಿತೃಗಳು ಸೂರನೊಡನೆ ಸೇರಿಹೋಗಿದ್ದಾರೆ ಅಥವಾ ಸೂರನನ್ನು ರಕ್ಷಿಸು
@@ -20697,7 +21357,7 @@ May those who are Agnidagdhas, and those who are not, be satisfied with Swadha i
 ಗಿಂತಲೂ ಹೆಚ್ಚಾಗಿ, ಉದಾರವಾಗಿ ಹೋಮದ್ರವ್ಯಗಳನ್ನರ್ಪಿಸುವವರಿಗೆ ಈ ಸ್ವರ್ಗವು ಫಲರೂಪವಾಗಿದೆ (೧೦-೧೫೪-೩ ;
 ೧-೧೨೫.೫, ೧೦-೧೦೭-೨). ಈ ಯಾಗಾದಿ ಕರ್ತೃಗಳಿಗೆ ದೊರಕುವ ಫಲಗಳ ವಿಷಯವನ್ನು ಅಥರ್ವವೇದದಲ್ಲಿ ಬಹಳ
 ಹೆಚ್ಚಾಗಿ ಹೇಳಿದೆ.
-ಮೃತರಾದವರು ಸ್ವರ್ಗದಲ್ಲಿ, ಬಹಳ ಅಹ್ಲಾದಕರವಾದ ಜೀವನವನ್ನು ಅನುಭವಿಸುತ್ತಾರೆ (೧೦-೧೪-೮; ೧೦-೧೫-೧೪; ೧೦-೧೬-೨, ೫); ಇಲ್ಲಿ ಎಲ್ಲಾ ಇಷ್ಟಾರ್ಥಗಳೂ ಕೈಗೂಡುತ್ತವೆ. (೯-೧೧೩.೯, ೧೧); ದೇವತೆಗಳ ಮಧ್ಯದಲ್ಲಿ (೧೦-೧೪-೧೪), ಅದರಲ್ಲಿಯೂ ಯಮ ಮತ್ತು ವರುಣರ ಸನ್ನಿಧಿಯಲ್ಲಿ ಈ ರೀತಿ ಜೀವನ (೧೦-೧೪-೭). ವಾರ್ಧಕ್ಯವೆಂಬ ಮಾತೇ ಇಲ್ಲ (೧೦-೨೭-೨೧). ಸುಂದರವಾದ ದೇಹವಿಶಿಷ್ಟರಾಗಿ, ದೇವತೆಗಳಿಗೆ ಪ್ರಿಯರೂ, ಇಷ್ಟರೂ ಆಗುತ್ತಾರೆ. ( ೧೦-೧೪-೮, ೧೦-೧೬-೫, ೧೦-೫೬-೧). ಅಲ್ಲಿ ತಂದೆ, ತಾಯಿ, ಮಕ್ಕಳು ಮೊದಲಾದವರನ್ನು ನೋಡುತ್ತಾರೆ (ಅ. ವೇ. ೬-೧೨೦-೩) ಮತ್ತು ಪತ್ನಿಪುತ್ರಾದಿಗಳೊಡನೆ ಪುನಃ ಮಿಲಿತರಾಗುತ್ತಾರೆ (ಅ. ವೇ. ೧೨-೩-೧೭). ಜೀವನದಲ್ಲಿ ಲೋಪದೋಷಗಳ ಲವಲೇಶವೂ ಇಲ್ಲ, ಅದರಂತೆ ಶಾರೀರಕ ಕಷ್ಟಗಳೂ ಇಲ್ಲ (೧೦-೧೪-೮, ಅ. ವೇ. ೬-೧೨೦.೩). ರೋಗರುಜಿನಗಳೆಲ್ಲಾ ಭೂಮೆಯಲ್ಲೇ ಉಳಿದುಕೊಳ್ಳುತ್ತವೆ, ಕೈಕಾಲುಗಳು, ಸೊಟ್ಟೆ ಅಥವಾ ಕುಂಟು, ಇಂತಹ ದೋಷಗಳೇನೂ ಇಲ್ಲ (ಅ. ವೇ. ೩-೨೮-೫) ಆ ಲೋಕದಲ್ಲಿ ಸಂಪೂರ್ಣವಾದ ದೇಹದಿಂದ ಕೂಡಿರುತ್ತಾರೆ ಎಂದು ಅಥರ್ವವೇದ ಮತ್ತು ಶತಪಥ ಬ್ರಾಹ್ಮಣಗಳಲ್ಲಿ ಹೇಳಿದೆ.
+ಮೃತರಾದವರು ಸ್ವರ್ಗದಲ್ಲಿ, ಬಹಳ ಅಹ್ಲಾದಕರವಾದ ಜೀವನವನ್ನು ಅನುಭವಿಸುತ್ತಾರೆ (೧೦-೧೪-೮; ೧೦-೧೫-೧೪; ೧೦-೧೬-೨, ೫); ಇಲ್ಲಿ ಎಲ್ಲಾ ಇಷ್ಟಾರ್ಥಗಳೂ ಕೈಗೂಡುತ್ತವೆ. (೯-೧೧೩.೯, ೧೧); ದೇವತೆಗಳ ಮಧ್ಯದಲ್ಲಿ (೧೦-೧೪-೧೪), ಅದರಲ್ಲಿಯೂ ಯಮ ಮತ್ತು ವರುಣರ ಸನ್ನಿಧಿಯಲ್ಲಿ ಈ ರೀತಿ ಜೀವನ (೧೦-೧೪-೭). ವಾರ್ಧಕ್ಯವೆಂಬ ಮಾತೇ ಇಲ್ಲ (೧೦-೨೭-೨೧). ಸುಂದರವಾದ ದೇಹವಿಶಿಷ್ಟರಾಗಿ, ದೇವತೆಗಳಿಗೆ ಪ್ರಿಯರೂ, ಇಷ್ಟರೂ ಆಗುತ್ತಾರೆ. ( ೧೦-೧೪-೮, ೧೦-೧೬-೫, ೧೦-೫೬-೧). ಅಲ್ಲಿ ತಂದೆ, ತಾಯಿ, ಮಕ್ಕಳು ಮೊದಲಾದವರನ್ನು ನೋಡುತ್ತಾರೆ (ಅಥ. ಸಂ. ೬-೧೨೦-೩) ಮತ್ತು ಪತ್ನಿಪುತ್ರಾದಿಗಳೊಡನೆ ಪುನಃ ಮಿಲಿತರಾಗುತ್ತಾರೆ (ಅಥ. ಸಂ. ೧೨-೩-೧೭). ಜೀವನದಲ್ಲಿ ಲೋಪದೋಷಗಳ ಲವಲೇಶವೂ ಇಲ್ಲ, ಅದರಂತೆ ಶಾರೀರಕ ಕಷ್ಟಗಳೂ ಇಲ್ಲ (೧೦-೧೪-೮, ಅಥ. ಸಂ. ೬-೧೨೦.೩). ರೋಗರುಜಿನಗಳೆಲ್ಲಾ ಭೂಮೆಯಲ್ಲೇ ಉಳಿದುಕೊಳ್ಳುತ್ತವೆ, ಕೈಕಾಲುಗಳು, ಸೊಟ್ಟೆ ಅಥವಾ ಕುಂಟು, ಇಂತಹ ದೋಷಗಳೇನೂ ಇಲ್ಲ (ಅಥ. ಸಂ. ೩-೨೮-೫) ಆ ಲೋಕದಲ್ಲಿ ಸಂಪೂರ್ಣವಾದ ದೇಹದಿಂದ ಕೂಡಿರುತ್ತಾರೆ ಎಂದು ಅಥರ್ವವೇದ ಮತ್ತು ಶತಪಥ ಬ್ರಾಹ್ಮಣಗಳಲ್ಲಿ ಹೇಳಿದೆ.
 ಮೃತರು ಸ್ವರ್ಗದಲ್ಲಿ ಸುಖವಾಗಿರುತ್ತಾರೆ, ಆನಂದಿಸುತ್ತಾರೆ (ಮದಂತಿ, ಮಾದಯಂತೇ, ೧೦-೧೪-೧೦,
 ೧೨-೧೫-೧೪, ಇತ್ಯಾದಿ). ಸ್ವರ್ಗಜೀವನದ ಸೌಖ್ಯವು ಬಹಳ ವಿಶದವಾಗಿ ೯-೧೧೩-೭ ರಿಂದ ೧೧ ರಲ್ಲಿ ಕೊಟ್ಟಿದೆ.
 ಅಲ್ಲಿ ಬೆಳಕು ಸತತವಾಗಿರುತ್ತದೆ, ನೀರು ವೇಗವಾಗಿ ಹರಿಯುತ್ತದೆ, ಪ್ರವಾಹಕ್ಕೆ ಅಡ್ಡಿಯೇ ಇಲ್ಲ (ತೈ. ಬ್ರಾ. ೩-೧೨-
@@ -20705,12 +21365,12 @@ May those who are Agnidagdhas, and those who are not, be satisfied with Swadha i
 ಉಂಟು, ಸಂತೋಷ, ಆನಂದ, ಇಷ್ಟಾರ್ಥಸಿದ್ಧಿ ಮೊದಲಾದುವುಗಳೆಲ್ಲವೂ ಇವೆ. ಅಸ್ಪಷ್ಟವಾಗಿ ಆನಂದ, ಸಂತೋಷ
 ಎಂದು ಹೇಳಿರುವುದನ್ನು ಮುಂದೆ ವಿಷಯಸುಖವೆಂದು ವಿವರಿಸಿದೆ (ತೈ. ಬ್ರಾ. ೨-೪-೬-೬, ಶ. ಬ್ರಾ. ೨-೪-೪-೪,
 ಶ. ಬ್ರಾ. ೧೦.೪.೪.೪ ನ್ನು ಹೋಲಿಸಿ). ಅಥರ್ವವೇದದಲ್ಲಿ ವಿಷಯಸುಖವು ಯಥೇಚ್ಛವಾಗಿ ಸಿಗುತ್ತದೆ ಎಂದು
-ಹೇಳಿದೆ (ಅ. ವೇ. ೪-೩೪-೨). ಭೂಮಿಯಲ್ಲಿ ಅನುಭವಿಸುವ ಅತ್ಯಂತ ಹೆಚ್ಚು ಸುಖಕ್ಕೆ ನೂರರಷ್ಟು ಹೆಚ್ಚು ಸುಖವು
+ಹೇಳಿದೆ (ಅಥ. ಸಂ. ೪-೩೪-೨). ಭೂಮಿಯಲ್ಲಿ ಅನುಭವಿಸುವ ಅತ್ಯಂತ ಹೆಚ್ಚು ಸುಖಕ್ಕೆ ನೂರರಷ್ಟು ಹೆಚ್ಚು ಸುಖವು
 ಅಲ್ಲಿ ಅನುಭವಿಸಲ್ಪಡುತ್ತದೆ. (ಶ. ಬ್ರಾ ೧೪-೭-೧-೩೨, ೩೩). ಪುಣ್ಯಶಾಲಿಗಳಿರುವ ಆ ಲೋಕದಲ್ಲಿ, ವೇಣು
 ನಾದವೂ ಮತ್ತು ಗಾನವೂ ಕೇಳಿಬರುತ್ತವೆ (೧೦-೧೩೫-೭), ಅವರಿಗೋಸ್ಕರ ಸೋಮರಸ, ಧೃತ ಮತ್ತು ಜೇನು
-ತುಪ್ಪಗಳು ಪ್ರವಹಿಸುತ್ತವೆ (ಅ. ವೇ. ೪-೩೪-೫-೬ ಶ. ಬ್ರಾ. ೧೧-೫-೬-೪). ಸ್ವಚ್ಛವೂ ನಾನಾ ವರ್ಣದವೂ
-ಇಷ್ಟಾರ್ಥಪ್ರದಗಳೂ ಆದ ಗೋವುಗಳು ಸರ್ವದಾ ಸಿದ್ಧವಾಗಿರುತ್ತವೆ (ಕಾಮದುಘಾಃ ಅ. ವೇ. ೪-೩೪-೮). ಅಲ್ಲಿ
-ಬಡವರು ಶ್ರೀಮಂತರು, ದೊಡ್ಡವರು ಚಿಕ್ಕವರು ಎಂಬ ಭೇದವಿಲ್ಲ (ಅ. ವೇ. ೩-೨೯-೩). ಸಂಹಿತೆ ಮತ್ತು
+ತುಪ್ಪಗಳು ಪ್ರವಹಿಸುತ್ತವೆ (ಅಥ. ಸಂ. ೪-೩೪-೫-೬ ಶ. ಬ್ರಾ. ೧೧-೫-೬-೪). ಸ್ವಚ್ಛವೂ ನಾನಾ ವರ್ಣದವೂ
+ಇಷ್ಟಾರ್ಥಪ್ರದಗಳೂ ಆದ ಗೋವುಗಳು ಸರ್ವದಾ ಸಿದ್ಧವಾಗಿರುತ್ತವೆ (ಕಾಮದುಘಾಃ ಅಥ. ಸಂ. ೪-೩೪-೮). ಅಲ್ಲಿ
+ಬಡವರು ಶ್ರೀಮಂತರು, ದೊಡ್ಡವರು ಚಿಕ್ಕವರು ಎಂಬ ಭೇದವಿಲ್ಲ (ಅಥ. ಸಂ. ೩-೨೯-೩). ಸಂಹಿತೆ ಮತ್ತು
 ಬ್ರಾಹ್ಮಣಗಳಲ್ಲಿ ವರ್ಣಿತವಾಗಿರುವ ಈ ಸ್ವರ್ಗಸುಖವು, ಉಪನಿಷತ್ತುಗಳಲ್ಲಿ, ಅಶಾಶ್ವತವೆಂದೂ ಉತ್ತಮವಲ್ಲವೆಂದೂ,
 ಅಮೃತದ ತತ್ವವನ್ನು ತಿಳಿದವರಿಗೆ ಮಾತ್ರ, ಬ್ರಹ್ಮೈಕ್ಯವೂ, ತಜ್ಞನವಾದ ಶಾಶ್ವತ ಸುಖವೂ ದೊರಕುತ್ತದೆ ಎಂತಲೂ
 ಉಕ್ತವಾಗಿದೆ. ಆದುದರಿಂದ ಸತ್ಕರ್ಮ ಮಾಡಿದವರು ಮರಣಾನಂತರ, ಸ್ವರ್ಗಲೋಕದಲ್ಲಿ, ಸುಖಲೋಲುಪರಾಗಿ,
@@ -20743,11 +21403,11 @@ May those who are Agnidagdhas, and those who are not, be satisfied with Swadha i
 ಸತ್ಪುರುಷರಿಗೆ ಆಮುಷ್ಮಿಕದಲ್ಲಿ ಸ್ವರ್ಗಾದಿ ಫಲವು ಲಭಿಸುತ್ತದೆ ಎಂದ ಮೇಲೆ, ಪಾಪಿಷ್ಠರಿಗೆ ಶಿಕ್ಷೆಗಳನ್ನು
 ವಿಧಿಸದಿದ್ದರೂ, ಅವರಿಗೆ ಪ್ರತ್ಯೇಕ ಸ್ಥಳವಿರಲೇಬೇಕು. ಅಥರ್ವವೇದ ಮತ್ತು ಕಠೋಪನಿಷತ್ತುಗಳಲ್ಲಿ ಇಂತಹವರು
 ನರಕದಲ್ಲಿ ತಮ್ಮ ಪಾಪಕರ್ಮಗಳ ಫಲವನ್ನನುಭವಿಸುತ್ತಾರೆ ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಿದೆ. ಸ್ವರ್ಗಲೋಕಕ್ಕೆ
-ಪ್ರತಿಯಾಗಿ (ಅ. ವೇ. ೧೨-೪-೩೬) ಹೆಣ್ಣು ಪಿಶಾಚಗಳು ಮೊದಲಾದುವು ವಾಸಿಸುವ ನರಕಲೋಕ (ಅಧೋಲೋಕ)
-ವಿದೆ (ಅ. ವೇ. ೨-೧೪-೩ ; ೫-೧೯-೩); ಈ ಲೋಕದಲ್ಲೇ ಕೊಲೆಪಾತಕನು ಶಿಕ್ಷೆಯನ್ನನುಭವಿಸುವುದು (ವಾ. ಸಂ.
-೩೦-೫). ಅತ್ಯಂತ ತಗ್ಗಾದ ಪ್ರದೇಶದಲ್ಲಿ ತಮಸ್ಸು (ಅ. ವೇ. ೮-೮-೨೪; ಇತ್ಯಾದಿ), ಅಂಧಕಾರಾವೃತವಾದ
-ತಮಸ್ಸು (ಅ, ವೇ. ೫-೩೦-೧೧), ಅಂಧಂತಮಸ್ಸು (ಅ. ವೇ. ೧೮-೩-೩) ಇತ್ಯಾದಿಯಾಗಿ ಈ ಲೋಕವು ವರ್ಣಿತ
-ವಾಗಿದೆ, ನರಕದ ದುಃಖಗಳು ಅ. ವೇ. ೫-೧೯ರಲ್ಲಿಯೂ, ಇನ್ನೂ ಹೆಚ್ಚು ವಿಶದವಾಗಿ ಶ. ಬ್ರಾ. ೧೧.೬-೧ರಲ್ಲಿಯೂ
+ಪ್ರತಿಯಾಗಿ (ಅಥ. ಸಂ. ೧೨-೪-೩೬) ಹೆಣ್ಣು ಪಿಶಾಚಗಳು ಮೊದಲಾದುವು ವಾಸಿಸುವ ನರಕಲೋಕ (ಅಧೋಲೋಕ)
+ವಿದೆ (ಅಥ. ಸಂ. ೨-೧೪-೩ ; ೫-೧೯-೩); ಈ ಲೋಕದಲ್ಲೇ ಕೊಲೆಪಾತಕನು ಶಿಕ್ಷೆಯನ್ನನುಭವಿಸುವುದು (ವಾ. ಸಂ.
+೩೦-೫). ಅತ್ಯಂತ ತಗ್ಗಾದ ಪ್ರದೇಶದಲ್ಲಿ ತಮಸ್ಸು (ಅಥ. ಸಂ. ೮-೮-೨೪; ಇತ್ಯಾದಿ), ಅಂಧಕಾರಾವೃತವಾದ
+ತಮಸ್ಸು (ಅಥ. ಸಂ. ೫-೩೦-೧೧), ಅಂಧಂತಮಸ್ಸು (ಅಥ. ಸಂ. ೧೮-೩-೩) ಇತ್ಯಾದಿಯಾಗಿ ಈ ಲೋಕವು ವರ್ಣಿತ
+ವಾಗಿದೆ, ನರಕದ ದುಃಖಗಳು ಅಥ. ಸಂ. ೫-೧೯ರಲ್ಲಿಯೂ, ಇನ್ನೂ ಹೆಚ್ಚು ವಿಶದವಾಗಿ ಶ. ಬ್ರಾ. ೧೧.೬-೧ರಲ್ಲಿಯೂ
 ವರ್ಣಿತವಾಗಿದೆ. ಅದೇ ಬ್ರಾಹ್ಮಣದಲ್ಲಿ ಹೀಗೆ ಹೇಳಿದೆ; ಪ್ರತಿಯೊಬ್ಬನ ಮರಣಾನಂತರ ಪುನಃ ಜನಿಸುತ್ತಾನೆ;
 
 <!-- printed 513 -->
@@ -20797,6 +21457,9 @@ xxvii 33
 ಶ್ವೇತಶ್ಚಾವಯತು ಪ್ರ ವಿದ್ವಾನ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೧೦) ವಿವೃತವಾಗಿರುವುದು. ಪ್ರೇತಸಂಸ್ಕಾರದಲ್ಲಿ
 ಮೃತಶರೀರವು ದಹಿಸಲ್ಪಡುತ್ತಿರುವಾಗ ಈ ಆರು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಿ ಅಗ್ನಿಯನ್ನು ಉಪಸ್ಥಾನಮಾಡಬೇಕು
 ಎಂದು ಹೇಳಿದೆ.
+
+## ಸೂಕ್ತ ೧೬ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೬
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೧॥ ಸೂಕ್ತ—೧೬ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೨೦, ೨೧, ೨೨ ॥
@@ -20805,6 +21468,8 @@ xxvii 33
 ದೇವತಾ—ಅಗ್ನಿಃ ।
 ತಂದಃ—೧-೧೦. ತ್ರಿಷ್ಟುಪ್ । ೧೧-೧೪, ಅನುಷ್ಟುಪ್ ॥
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20855,6 +21520,8 @@ Agni, consume him not entirely ; afflict him not ; scatter not (here and there) 
 ಅದರ ಸಮರ್ಥನೆಗಾಗಿ ಈ ಋಕ್ಕಿನ—ದೇವೇಭ್ಯಶ್ಚ ಪಿತೃಭ್ಯ ಆ ಎಂಬ ವಾಕ್ಯವನ್ನೇ (ಉದಾಹರಣೆಯಾಗಿ ತಿಳಿ
 ಸಿರುವರು. ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ಆ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಚ (ಮತ್ತು) ಎಂಬರ್ಥವಿರುವುದು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶೃತಂ ಯದಾ ಕರಸಿ ಜಾತವೇದೋಽಥೇಮೇನಂ ಪರಿ ದತ್ತಾತ್ಪಿತೃಭ್ಯಃ ।
@@ -20893,6 +21560,8 @@ Agni, consume him not entirely ; afflict him not ; scatter not (here and there) 
 *English Translation.*
 
 When you have rendered him mature, then give him up, Jatavedas, to the Pitris; when he proceeds to that world of spirits, then he becomes subject to the will of the gods.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20941,6 +21610,8 @@ Let the eye repair to the sun; the breath to the wind; go you to
 the heaven or to the earth, according to your merit; or go to the waters if
 it suits you (to be) there, or abide with your members in the plants.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಜೋ ಭಾಗಸ್ತಪಸಾ ತಂ ತಪಸ್ವ ತಂ ತೇ ಶೋಚಿಸ್ತಪತು ತಂ ತೇ ಅರ್ಚಿಃ।
@@ -20948,7 +21619,7 @@ it suits you (to be) there, or abide with your members in the plants.
 
 *ಪದಪಾಠಃ*
 
-> 519	సకలభాష్యము	। మం. ೧೫ ೨. ೧. ೩೭. ೪
+> 519	ಸಕಲಭಾಷ್ಯಮು	। ಮಂ. ೧೫ ೨. ೧. ೩೭. ೪
 > ೧ ಚನ್ನಬಸವಣ್ಣನ
 > “ಜಃ । ಭಾಗಃ । ತಪಸಾ । ತಃ ತಪಸ್ತ್ಯುಂ ತೇ ಶೋಚೆಃ । ತಪತು । ತಂ । ಶೇ ' ಅರ್ಚಃ ।
 > ಯಾಃ । ತೇ । ಶಿವಾ । ತನ್ನ । ಜಾತ್ರವೇದಃ । ತಾಭಿಃ । ವಹ । ಏನಂ । ಸುಕೃತಾಂ । ಊಂ ಇತಿ ।
@@ -20990,6 +21661,8 @@ given him, Jatavedas, bear him to the world (of the virtuous).
 <!-- printed 519 -->
 *[ಅ. ೭. ಅ. ೬. ಸ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 519]*
 
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21033,6 +21706,8 @@ Dismiss again to the Pitris, Agni him who, offered on you, comes with the Swadha
 *[520 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೧. ಸೂಕ್ತ. ೧೬.]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯುತ್ತೇ ಕೃಷ್ಣಃ ಶಕುನ ಆತುತೋದ ಪಿಪೀಲಃ ಸರ್ಪ ಉತ ವಾ ಶ್ವಾಪದಃ।
@@ -21074,6 +21749,8 @@ Dismiss again to the Pitris, Agni him who, offered on you, comes with the Swadha
 
 Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you, may Agni the all-devourer, and the Soma that has pervaded, the Brahmans, make it whole.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನೇರ್ವರ್ಮ ಪರಿ ಗೋಭಿರ್ವ್ಯಯಸ್ವ ಸಂ ಪ್ರೋರ್ಣುಸ್ವ ಜೀವಸಾ
@@ -21090,7 +21767,7 @@ Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you,
 
 > ಅನುಸ್ತರಣ್ಯಾ ವಸಯಾ ಪ್ರೇತಸ್ಯ ಮುಖಮಗ್ನೇರ್ವರ್ಮೇತ್ಯನಯಾ ಪ್ರೋರ್ಣುಯಾತ್ ।
 > ಸೂತ್ರಿತಂ ಚ । ಅನುಸ್ತರಣ್ಯಾ ವಸಾಮುತ್ಪಿದ್ಯ ಶಿರೋಮುಖಂ ಪ್ರಚ್ಛಾದಯೇದಗ್ನೇರ್ವರ್ಮ ಪರಿ
-> ಗೋಭಿರ್ವ್ಯಯಸ್ವೇತಿ । ಆ-ಗೃ. ೪-೩-೧೯ । ಇತಿ ॥
+> ಗೋಭಿರ್ವ್ಯಯಸ್ವೇತಿ । ಆ. ಗೃ. ಸೂ. ೪-೩-೧೯ । ಇತಿ ॥
 > ಹೇ ಪ್ರೇತ ಅಗ್ನೇಃ ಸ್ವಭೂತಂ ವರ್ಮ ಜ್ವಾಲಾಲಕ್ಷಣಂ ಕವಚಂ ಗೋಭಿರನುಸ್ತರಣೀಗೋಚರ್ಮಣಾ ಪರಿ ವ್ಯಯಸ್ವ । ಪರಿತಃ ಸಂವೃಣು । ಕಿಂಚ ಪೀವಸಾ ಸ್ಕೂಲೇನ ಮೇದಸಾ ಮಾಂಸೇನ
 > ಸಮ್ಯಕ್ ಪ್ರೋರ್ಣುಷ್ಟ್ವ । ಆಚ್ಛಾದಯ । ಏವಂ ಕೃತೇ ಸತಿ ಹರಸಾ ತೇಜಸಾ ಧೈಷ್ಣುರ್ಧರ್ಷಣಶೀಲೋ
 > ಜಹ್ರ್ಹಷಾಣೋಽತ್ಯರ್ಥಂ ಹೃಷ್ಯನ್ ದಧೃಗ್ಧೃಷ್ಟಃ ಪ್ರಗಲ್ಭಃ ॥ ಋತ್ವಿಗಿತ್ಯಾದಿನಾ ದಧೃಕ್‌ಶಬ್ದೋ
@@ -21125,7 +21802,9 @@ proud, embrace you roundabout to consume you (to ashes).
 
 ಪ್ರೇತಸಂಸ್ಕಾರಮಾಡುವಕಾಲದಲ್ಲಿ ಅಗ್ನೇರ್ವರ್ಮ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸುತ್ತಾ ಮೃತಶರೀರದ
 ಮುಖವನ್ನು ಅನುಸ್ತರಣಿಯಿಂದ ಆಚ್ಛಾದನೆಮಾಡಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಗೃಹ್ಯಸೂತ್ರದ-ಅನುಸ್ತರಣ್ಯಾ ವಸಾಮುತ್ಪಿದ್ಯ ಶಿರೋಮುಖಂ ಪ್ರಚ್ಛಾದಯೇದಗ್ನೇರ್ವರ್ಮ ಪರಿ ಗೋಭಿರ್ವಯಸ್ವ ಎಂಬ ಸೂತ್ರದಿಂದ
-(ಆ. ಗೃ. ೪-೩-೧೯) ವಿವೃತವಾಗಿರುವುದು.
+(ಆ. ಗೃ. ಸೂ. ೪-೩-೧೯) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21176,12 +21855,14 @@ Agni, shake not this ladle, for it is dear to the gods, and to the (Pitris) who 
 
 ಅಪರಕರ್ಮದಲ್ಲಿ ಪ್ರಣೀತಾಪಾತ್ರೆಯನ್ನು ಪ್ರಣಯನಮಾಡುವಾಗ ಇಮಮಗ್ನೇ ಚಮಸಂ ಎಂಬ
 ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಇಮಮಗ್ನೇ ಚಮಸಂ ಮಾ ವಿ ಜಿಹ್ವರ ಇತಿ
-ಪ್ರಣೀತಾಪ್ರಣಯನಮನುಮಂತ್ರಯತೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೪-೩-೨೪) ವಿವೃತವಾಗಿರುವುದು.
+ಪ್ರಣೀತಾಪ್ರಣಯನಮನುಮಂತ್ರಯತೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೩-೨೪) ವಿವೃತವಾಗಿರುವುದು.
 
 <!-- printed 524 -->
 *[524 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೧. ಸೂ. ೧೬]*
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21197,7 +21878,7 @@ Agni, shake not this ladle, for it is dear to the gods, and to the (Pitris) who 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಆಹಿತಾಗ್ನಿಮರಣ ಏತದಾದಿಕೇ ದ್ವೇ ಋಚಾವೌಪಾಸಸೋದ್ವಾಸನೇ ವಿನಿಯುಕ್ತೇ । ತತ್ರ
-> ಪ್ರಥಮಾಯಾಃ ಪೂರ್ವಾರ್ಧೇನ ದಕ್ಷಿಣಸ್ಯಾಂ ದಿಶಿ ಚತುಷ್ಷಥಾದಾವೌಪಾಸನಾಗ್ನಿಂ ನಿರಸ್ಯತಿ । ಉತ್ತರೇಣ ಶಾಂತಿಕರ್ಮಾರ್ಥಮಾದತ್ತೇ । ಆ. ಗೃ. ೪-೬ । ಕ್ರವ್ಯಾದಂ । ಕ್ರವ್ಯಮಾಮಿಷಂ । ತಸ್ಯಾತ್ತಾರಂ
+> ಪ್ರಥಮಾಯಾಃ ಪೂರ್ವಾರ್ಧೇನ ದಕ್ಷಿಣಸ್ಯಾಂ ದಿಶಿ ಚತುಷ್ಷಥಾದಾವೌಪಾಸನಾಗ್ನಿಂ ನಿರಸ್ಯತಿ । ಉತ್ತರೇಣ ಶಾಂತಿಕರ್ಮಾರ್ಥಮಾದತ್ತೇ । ಆ. ಗೃ. ಸೂ. ೪-೬ । ಕ್ರವ್ಯಾದಂ । ಕ್ರವ್ಯಮಾಮಿಷಂ । ತಸ್ಯಾತ್ತಾರಂ
 > ತೀವ್ರಮಗ್ನಿಂ ದೂರಂ ವಿಪ್ರಕೃಷ್ಟದೇಶೇ ಪ್ರ ಹಿಣೋಮಿ । ಪ್ರಗಮಯಾಮಿ ॥ ಹಿ ಗತ್ ಸ್ವಾದಿಃ ॥
 > ರಿಪ್ರವಾಹಃ । ರಿಪ್ರಂ ಪಾಪಂ । ತಸ್ಯ ವೋಢಾ ಸೋಽಗ್ನಿರ್ಯಮರಾಜ್ಞೋ ಯಮೋ ರಾಜಾ ಯೇಷಾಂ
 > ತಾನ್ಯಮರಾಜಕಾನನ್ಯಪ್ರದೇಶಾನ್ಗಚ್ಛತು । ಪ್ರಾಪ್ನೋತು । ಅಥ ಶಾಂತಿಕರ್ಮಾರ್ಥಮುಪಾಸನ ಇತರಃ
@@ -21225,6 +21906,8 @@ Agni, shake not this ladle, for it is dear to the gods, and to the (Pitris) who 
 *English Translation.*
 
 I send the flesh-devouring Agni to a distance : let him bearing away sin repair to (the realm of) king Yama ; but let this other Jatavedas who is known (by all) convey the oblation to the gods.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21267,6 +21950,8 @@ I send the flesh-devouring Agni to a distance : let him bearing away sin repair 
 *English Translation.*
 
 The fleeh-devouring deity Agni, who has entered your dwelling, I turn him out, for the worship of the Pitris, upon beholding this other (Agni) Jatavedas; let him celebrate the sacrifice (to the Pitris) in the most excellent assembly.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21315,6 +22000,8 @@ Let Agni the bearer of the Kavya worship the Pitris, who are magnified by truth,
 ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಯಾಜ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರಾತಸೂತ್ರದ-ಯೋ ಅಗ್ನಿಃ ಕವ್ಯವಾಹನಸ್ತ್ವಮಗ್ನ ಈಳಿತೋ ಜಾತವೇದೆ ಇತಿ ಸಂಯಾಜ್ಯೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨-೧೯) ವಿವೃತ
 ವಾಗಿರುವುದು.
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21367,6 +22054,8 @@ longing bring the longing Pitris to eat of the (sacrificial) viands.
 ಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಉಶಂತಸ್ತ್ವಾ ನಿ ಧೀಮಹೀತ್ಯೇತಾಂ ತ್ರಿರನವಾನಂ ತಾಃ ಸಾಮಿಧೇನ್ಯಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಅ. ೨.೧೯) ವಿವೃತವಾಗಿರುವುದು.
 *[॥ ಸಂಜಿತಾಶತಂ ॥]*
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಂ ತ್ವಮಗ್ನೇ ಸಮದಹಸ್ತಮು ನಿರ್ವಾಪಯಾ ಪುನಃ ॥
@@ -21407,6 +22096,8 @@ longing bring the longing Pitris to eat of the (sacrificial) viands.
 
 Cool again, Agni, the spot which you have burned, there let the water-lily grow, and the ripe Durva with its many stalks.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೀತಿಕೇ ತೀತಿಕಾವತಿ ಹ್ಲಾದಿಕೇ ಹ್ಲಾದಿಕಾವತಿ ।
@@ -21426,7 +22117,7 @@ Cool again, Agni, the spot which you have burned, there let the water-lily grow,
 
 > ಅಸ್ಥಿ ಸಂಚಯನೇ ಕ್ಷೀರೋದಕೇನ ಶಮೀಶಾಖಯಾ ತ್ರಿಃ ಪ್ರಸವ್ಯಂ ಶ್ಮಶಾನಾಯತನಂ
 > ಪ್ರೋಕ್ಷತಿ ಶೀತಿಕೇ ಶೀತಿಕಾವತೀತ್ಯನಯಾ । ಸೂತ್ರಿತಂ ಚ । ಕ್ಷೀರೋದಕೇನ ಶಮೀಶಾಖಯಾ ತ್ರಿಃ
-> ಪ್ರಸವ್ಯಂ ಪರಿವ್ರಜನ್ಪ್ರೋಕ್ಷತಿ ಶೀತಿಕೇ ಶೀತಿಕಾವತೀತಿ । ಆ. ಗೃ. ೪-೫-೩ । ಇತಿ ॥
+> ಪ್ರಸವ್ಯಂ ಪರಿವ್ರಜನ್ಪ್ರೋಕ್ಷತಿ ಶೀತಿಕೇ ಶೀತಿಕಾವತೀತಿ । ಆ. ಗೃ. ಸೂ. ೪-೫-೩ । ಇತಿ ॥
 > ಹೇ ಶೀತಿಕೇ ಶೈತ್ಯಯುಕ್ತೇ ಹೇ ಶೀತಿಕಾವತಿ । ಶೀತಿಕಾಃ ಶೈತ್ಯಯುಕ್ತಾ ಓಷಧಯಃ ।
 > ತಾಭಿಸ್ತದ್ವತಿ ಹೇ ಹ್ಲಾದಿಕ ಆಹ್ಲಾದಯಿತ್ರಿ ಹೇ ಹ್ಲಾದಿಕಾವತ್ಯಾಹ್ಲಾದಕಫಲಯುಕ್ತೈರ್ವೃಕ್ಷೈಸ್ತದ್ವತಿ
 > ಹೇ ಪೃಥಿವಿ ಮಂಡೂಕ್ಯಾ ಮಂಡೂಕಸ್ತ್ರಿಯಾ ವೃಷ್ಟಿಪ್ರಿಯೆಯಾ ಸು ಸುಷ್ಟು ಸಂ ಗಮಃ। ಸಂಗಚ್ಛಸ್ವ ॥
@@ -21460,7 +22151,7 @@ Agni.
 *[ಅ. ೭. ಅ. ೬. ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 531]*
 
 ವಾಗ ಶೀತಿಕೇ ಶೀತಿಕಾವತಿ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಕ್ಷೀರೋದಕೇನ ಶಮೀಶಾಖಯಾ ತ್ರಿಃ ಪ್ರಸವ್ಯಂ ಪರಿವ್ರಜನ್ ಪ್ರೋಕ್ಷತಿ ಶೀತಿಕೇ ಶೀತಿಕಾವತೀತಿ ಎಂಬ ಸೂತ್ರ
-ದಿಂದ (ಆ. ಗೃ. ೪-೫-೩) ವಿವೃತವಾಗಿರುವುದು.
+ದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೫-೩) ವಿವೃತವಾಗಿರುವುದು.
 ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು
 ಪೀಠಿಕೆ.
 ಸರಣ್ಯೂ ಮತ್ತು ವಿವಸ್ವಾನ್
@@ -21471,7 +22162,7 @@ Agni.
 ದೇವಿಯ ವಿಷಯವು ಶೌನಕೋಕ್ತವಾದ ಬೃಹದ್ದೇವತಾಗ್ರಂಥದಲ್ಲಿ ಹೇಳಿರುವಂತೆಯೂ ವಿವರಿಸಲಾಗಿದೆ.
 ಸರಣ್ಯೂವಿನ ವಿಷಯವನ್ನು ತಿಳಿಸತಕ್ಕ ಈ ಮಂತ್ರಗಳನ್ನು (೧೦-೧೭-೧-೨) ಬ್ರಹೋದ್ಯವೆಂದು ಪ್ರಸಿದ್ಧ
 ವಾದ ಮಂತ್ರಗಳ ಜೊತೆಯಲ್ಲಿ ಸೇರಿಸಬಹುದು. ಈ ಬ್ರಹೋದ್ಯವೆಂಬ ಗುಂಪಿಗೆ ಸೇರಿದ ಮಂತ್ರಗಳು ಸಂಹಿತಾ
-ಮತ್ತು ಬ್ರಾಹ್ಮಣಾದಿಗಳಲ್ಲಿ ಅನೇಕ ಕಡೆಗಳಲ್ಲಿವೆ. ಉದಾಹರಣೆಗೆ.—(ಋ. ಸಂ. ೧-೧೬೪ ; ಅ. ವೇ. ೯-೯,೧೦;
+ಮತ್ತು ಬ್ರಾಹ್ಮಣಾದಿಗಳಲ್ಲಿ ಅನೇಕ ಕಡೆಗಳಲ್ಲಿವೆ. ಉದಾಹರಣೆಗೆ.—(ಋ. ಸಂ. ೧-೧೬೪ ; ಅಥ. ಸಂ. ೯-೯,೧೦;
 ವಾ.ಸಂ. ೨೩-೯ ರಿಂದ ೧೨ ; ತೈ. ಸಂ. ೭-೪-೧೮ ; ಐ. ಬ್ರಾ. ೫-೨೫ ; ಶ. ಬ್ರಾ. ೧೩. ೨. ೬. ೯ ರಿಂದ ೧೭; ೫. ೨.
 ೧೧-೨೧ ಇತ್ಯಾದಿ). ರಚನೆಯಲ್ಲಿ ಒಂದಕ್ಕೊಂದಕ್ಕೆ ಸ್ವಲ್ಪ ವ್ಯತ್ಯಸ್ತವಾಗಿದೆ. ಪ್ರಕೃತದಲ್ಲಿ, ತ್ವಷ್ಟಾ ದುಹಿತ್ರೇ
 ಎಂಬ ಮಂತ್ರವು ಈ ಗುಂಪಿಗೆ ಸೇರಿದೆ ಎಂಬುದಕ್ಕೆ ಏನು ಆಧಾರವೆಂಬುದನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಪ್ರಥಮತಃ
@@ -21580,7 +22271,7 @@ Agni.
 ಹೊಂದಬೇಕೆಂಬಿಚ್ಛೆಯಿಂದ ಅದನ್ನು ಆಘ್ರಾಣಿಸಿದಳು
 ಆಘ್ರಾತಮಾತ್ರಾಚ್ಚುಕ್ರಾತ್ತು ಕುಮಾರೌ ಸಂಬಭೂವತುಃ ।
 ನಾಸತ್ಯಶ್ಚೈವ ದಸ್ರಶ್ಚ ಯೌ ಸ್ತುತಾವಶ್ವಿನಾವಿತಿ ॥
-(ಬೃ. ಪೇ. ೭-೬)
+(ಬೃ. ದೇ. ೭-೬)
 ಆ ಶುಕ್ರವನ್ನು ಆಘ್ರಾಣಿಸಿದೊಡನೆಯೇ ಅವಳಿಗೆ ಗರ್ಭೋತ್ಪತ್ತಿಯುಂಟಾಗಿ ಅದರಿಂದ ನಾಸತ್ಯ ಮತ್ತು ದಸ್ರ ಎಂಬ
 ಇಬ್ಬರು ಯುವಕರು ಉತ್ಪನ್ನರಾದರು- ಅನಂತರ ಅವರು ಅಶ್ವಿನೀದೇವತೆಗಳು ಎಂಬ ಹೆಸರಿನಿಂದ ಕರೆಯಲ್ಪಟ್ಟು
 ಇವರ ಮಹಿಮೆಯು ಲೋಕಗಳಲ್ಲೆಲ್ಲಾ ಹರಡಿತು.
@@ -21590,7 +22281,7 @@ Agni.
 
 ಇತಿಹಾಸಮಿಮಂ ಯಾಸ್ಕಃ ಸರಣ್ಯದೇವತಿ ತ್ವಜೇ !
 ವಿವಸ್ವತಶ್ಚ ತ್ವಷ್ಟುಶ್ಚ ತ್ವಷ್ಟೇತಿ ಸಹ ಮನ್ಯರೇ ॥
-(ಬೃ. ಜೇ. ೭-೭)
+(ಬೃ. ದೇ. ೭-೭)
 ಸರಣ್ಯದೇವತೆಯನ್ನುದ್ದೇಶಿಸಿ ನಿರ್ಮಿತವಾದ (೧೦-೧೭-೧) ಮತ್ತು (೧೦.೧೭-೨) ಈ ಎರಡು ಮಂತ್ರಗಳನ್ನೂ
 ಸಹ ಯಾಸ್ಕರು ವಿವಸ್ವಾನ್ ಮತ್ತು ತ್ವಷ್ಟಾ ಇವರಿಬ್ಬರ ಇತಿಹಾಸವನ್ನು ವಿವರಿಸುವ ಸನ್ನಿವೇಶವೆಂದಭಿಪ್ರಾಯ
 ಪಟ್ಟಿದ್ದಾರೆ. ಯಾಸ್ಕರ ವಿವರಣೆಯನ್ನು ಮೇಲೆ ತಿಳಿಸಿದೆ. (ನಿ ೧೨-೧೦,೧೧),
@@ -21760,7 +22451,7 @@ Agni.
 ಯಾವ ಅನೌಚಿತ್ಯವೂ ಕಾಣುವುದಿಲ್ಲ. ಈ ಅಂಶವನ್ನು ತಿಳಿಸುವ ಸನ್ನಿವೇಶಗಳು ವೈದಿಕವಾಕ್ಯಗಳಲ್ಲಿ ಅನೇಕ ಕಡೆ
 ಪ್ರಸಿದ್ಧವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ.—
 ಪ್ರಜಾಪತಿರ್ನೈ ಸೋಮಾಯ ರಾಜ್ಞೇ ದುಹಿತರಂ ಪ್ರಾಯಚ್ಛತ್ಸೂರ್ಯಾಂ ।
-(ಇ.ಬ್ರ. ೪-೭)
+(ಐ. ಬ್ರಾ. ೪-೭)
 ಪ್ರಜಾಪತಿಯು ತನ್ನ ಪುತ್ರಿಯಾದ ಸೂರೆಯನ್ನು ಸೋಮರಾಜನಿಗೆ ವಿವಾಹಾರ್ಥವಾಗಿ ಕೊಟ್ಟನು ಎಂದಿರುತ್ತದೆ. ಆದರೆ, ಈ ಪುತ್ರಿಯು ಯಾರೆಂಬ ವಿಷಯದಲ್ಲಿ ಸಂಶಯವಿರುತ್ತದೆ. ಇಲ್ಲಿ ಉದಾಹೃತವಾಗಿರುವ ವಾಕ್ಯದಲ್ಲಿ ಸೂರ್ಯಾ ಎಂದಿದ್ದರೂ ಸಹ, ಇನ್ನು ಕೆಲವೆಡೆಗಳಲ್ಲಿ ಅರ್ಥವ್ಯತ್ಯಾಸಗಳೂ ಇರುತ್ತವೆ. ಉದಾಹರಣೆಗೆ.—
 ಪ್ರಜಾಪತಿರ್ವೈ ಸ್ವಾಂ ದುಹಿತರಮಭ್ಯಧ್ಯಾಯದ್ದಿವಮಿತ್ಯನ್ಯ ಆಹುರುಷಸಮಿತ್ಯನ್ನೇ ತಾಮೃಶ್ಯೋ ಭೂತ್ವಾ ರೋಹಿತಂ ಭೂತಾಂ ।
 (ಡಿ. ಬ್ರಾ. ೩-೩೩)
@@ -21936,6 +22627,9 @@ Agni.
 ಯಾಗಿದ್ದ ಆ ಸ್ತ್ರೀಯು ತನಗೆ ಮಕ್ಕಳಾಗಬೇಕೆಂಬ ಆಸೆಯಿಂದ ಕೆಳಗೆ ಬಿದ್ದಿದ್ದ ಆ ರೇತಸ್ಸನ್ನು ಮೂಸಿನೋಡಿದಳು.
 ಅದರಿಂದ ಅವಳಲ್ಲಿ ನಾಸತ್ಯ, ದಸ್ರ ಎಂಬ ಇಬ್ಬರು ಅಶ್ವಿನೀದೇವತೆಗಳು ಉತ್ಪನ್ನರಾದರು ಎಂಬ ಕಥೆಯನ್ನು ಈ ಸಂದ
 ರ್ಭದಲ್ಲಿ ಭಾಷ್ಯಕಾರರು ಹೇಳಿದ್ದಾರೆ.
+
+## ಸೂಕ್ತ ೧೭ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ-೧೭
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨॥ ಸೂಕ್ತ—೧೭ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೨೩, ೨೫, ೨೫ ॥
@@ -21952,6 +22646,8 @@ xxvii 35
 
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
 
+#### ಋಕ್ ೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಷ್ಟಾ ದುಹಿತ್ರೇ ವಹತುಂ ಕೃಣೋತೀತೀದಂ ವಿಶ್ವಂ ಭುವನಂ ಸಮೇತಿ ।
@@ -21965,7 +22661,7 @@ xxvii 35
 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
-> ತ್ವಷ್ಟೈತನ್ನಾಮಕೋ ದೇವೋ ದುಹಿತ್ರೇ । ಷಷ್ಠ್ಯರ್ಥೇ ಚತುರ್ಥೀ । ದುಹಿತುಃ ಸರಣ್ಯೂನಾಮಿಕಾಯಾ ವಹತುಂ ವಹನಂ ವಿವಾಹಂ ॥ ಏಧಿವಹೋಶ್ಚತುಃ । ಉ. ೧-೭೯ । ಇತಿ ವಹೇಶ್ಚತುಪ್ರತ್ಯಯಃ ॥ ತಂ ಕೃಣೋತಿ । ಕರೋತಿ । ಇತ್ಯೇತೇನ ಹೇತುನೇದಂ ವಿತ್ವಂ ಸರ್ವಂ ಭುವನಂ
+> ತ್ವಷ್ಟೈತನ್ನಾಮಕೋ ದೇವೋ ದುಹಿತ್ರೇ । ಷಷ್ಠ್ಯರ್ಥೇ ಚತುರ್ಥೀ । ದುಹಿತುಃ ಸರಣ್ಯೂನಾಮಿಕಾಯಾ ವಹತುಂ ವಹನಂ ವಿವಾಹಂ ॥ ಏಧಿವಹೋಶ್ಚತುಃ । ಉ. ಸೂ. ೧-೭೯ । ಇತಿ ವಹೇಶ್ಚತುಪ್ರತ್ಯಯಃ ॥ ತಂ ಕೃಣೋತಿ । ಕರೋತಿ । ಇತ್ಯೇತೇನ ಹೇತುನೇದಂ ವಿತ್ವಂ ಸರ್ವಂ ಭುವನಂ
 > ಭೂತಜಾತಂ ಸಮೇತಿ । ತಂ ವಿವಾಹಂ ಸಮಾಗಮತ್ । ಪರ್ಯುಹ್ಯಮಾನಾ ವಿವಸ್ವತೋದ್ವೋಢವ್ಯಾ
 > ಯಮಸ್ಯ ಯಮ್ಯಾಶ್ಚ ಮಾತಾ ಮಹೋ ಮಹ 'ರೋ ವಿವಸ್ವತೋ ಜಾಯಾ ಭಾರ್ಯಾ ಸರಣೂರ್ನನಾಶ।
 > ಉತ್ತರಾನ್ಕುರೂನ್ಪ್ರತಿ ನಷ್ಟಾ । ಅಗಚ್ಛದಿತ್ಯರ್ಥಃ ॥
@@ -22042,6 +22738,8 @@ Twashtri celebrates the marriage of his daughter : therefore the whole world is 
 ಸೂರ್ಯನ ಪತ್ನಿಯೆಂದು ಹೇಳಲ್ಪಡುವಳು. ಜಾಯಾ ವಿವಸ್ವತೋ ನನಾಶ ಎಂದರೆ ರಾತ್ರಿರಾದಿತ್ಯಸ್ಯಾದಿತ್ಯೋದಯೇಽನ್ತರ್ಧೀಯತೇ ಸೂರ್ಯನ ಪತ್ನಿಯಾದ ರಾತ್ರಿ ಅಥವಾ ಉಷಸ್ಸು ಸೂರ್ಯೋದಯಾನಂತರ ನಾಶವಾಗು
 ವುದು ಎಂದರೆ ಅದೃಶ್ಯವಾಗುವುದು ಎಂದು ಆದಿತ್ಯಪಕ್ಷದ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪಾಗೂಹನ್ನಮೃತಾಂ ಮರ್ತ್ಯೇಭ್ಯಃ ಕೃತ್ವೀ ಸವರ್ಣಾಮದದುರ್ವಿವಸ್ವತೇ।
@@ -22104,7 +22802,7 @@ to two twins.
 ತತ್ರೇತಿಹಾಸಮಾಚಕ್ಷತೇ-ತ್ವಾಷ್ಟ್ರೀ ಸರಣ್ಯೂರ್ನಿವಸ್ವತ ಆದಿತ್ಯಾದ್ಯಮೌ ಮಿಥುನೌ ಜನಯಾಂಚಕಾರ । ಸಾ ಸವರ್ಣಾಮನ್ಯಾಂ ಪ್ರತಿನಿಧಾಯಾಶ್ವಂ ರೂಪಂ ಕೃತ್ವಾ ಪ್ರದುದ್ರಾವ ।
 ಸ ವಿವಸ್ವಾನಾದಿತ್ಯ ಅಶ್ವಮೇವ ರೂಪಂ ಕೃತ್ವಾ ತಾಮನುಸೃತ್ಯ ಸಂಬಭೂವ ।
 ತತೋಽಶ್ವಿನ್ ಜಜ್ಞಾತೇ ಸವರ್ಣಾಯಾಂ ಮನುಃ ॥
-(సి. ೧೨-೧೦)
+(ಸಿ. ೧೨-೧೦)
 ಚಲಿಸು ಎಂಬರ್ಥವುಳ್ಳ ಸೃ ಧಾತುವಿನಿಂದ ಸರಣ್ಯಶಬ್ದವು ನಿಷ್ಪನ್ನವಾಗಿದೆ. ಮುಂದುಮುಂದಕ್ಕೆ ಸರಿಯುವವಳು,
 ಚಲಿಸುತ್ತಿರುವವಳು ಎಂದು ಈ ಶಬ್ದದ ಅವಯವಾರ್ಥವು. ಈ ಶಬ್ದ ಪ್ರಯೋಗವಿರುವ ಅಪಾಗೂಹನ್ನೆಂಬ
 ಋಕ್ಕಿನ ನಿರ್ವಚನವು ಈ ರೀತಿ ಇದೆ—ಮರಣವಿಲ್ಲದ ಎಂದರೆ ನಾಶರಹಿತವಾದ ಆ ಸರಣ್ಯಾದೇವಿಯನ್ನು ಮನುಷ್ಯರ
@@ -22128,6 +22826,8 @@ to two twins.
 <!-- printed 551 -->
 *[ಅ. ೭ ಅ. ೬. ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 551]*
 
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22207,6 +22907,8 @@ May the discriminating Pushan, whose cattle are never lost, the protector of all
 ಯಜ್ಞದಲ್ಲಿ ಯಜ್ಞದೀಕ್ಷೆಯನ್ನು ವಹಿಸಿರುವ ಯಜಮಾನನು ಮೃತಾದಲ್ಲಿ ಪೂಷಾ ತ್ವೇತಃ ಎಂದು ಮೊದಲಾ
 ಗುವ ನಾಲ್ಕು ಋಕ್ಕುಗಳನ್ನು (ಈ ಸೂಕ್ತದ ೩-೬ ಋಕ್ಕುಗಳನ್ನು) ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದಪೂಷಾ ತ್ವೇತಶ್ಚಾವಯತು ಪ್ರ ವಿದ್ವಾನಿತಿ ಚತಸ್ರಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೧೦) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಯುರ್ವಿಶ್ವಾಯುಃ ಪರಿ ಪಾಸತಿ ತ್ವಾ ಪೂಷಾ ತ್ವಾ ಪಾತು ಪ್ರಪಥೇ ಪುರಸ್ತಾತ್ ।
@@ -22256,6 +22958,8 @@ May the all-pervading, Vayu protect you, may Pushan (preserve)
 you, (going) first on the excellent path (to heaven): may the divine Savitri
 place you, where the virtuous abide, whither they have gone.
 *[“ ಸಂಹಿತಾಪಾಠೆ ॥]*
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22313,6 +23017,8 @@ Pushan knows all these regions severally; let him conduct us by (the path) that 
 ಪೂಷೇಮಾ ಆಶಾ ಅನು ವೇದ ಸರ್ವಾಃ ಶುಕ್ರಂ ತೇ ಅನ್ಯದ್ಯಜತಂ ತೇ ಅನ್ಯತ್ ಎಂಬ ಸೂತ್ರದಿಂದ
 (ಆ ೩-೭) ವಿವೃತವಾತರುವುದು.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರಪಥೇ ಪಥಾಮಜನಿಷ್ಟ ಪೂಷಾ ಪ್ರಪಥೇ ದಿವಃ ಪ್ರಪಥೇ ಪೃಥಿವ್ಯಾಃ ।
@@ -22369,6 +23075,8 @@ Pushan has been born on the best path of paths, on the best path of heaven, on t
 ಪ್ರಪಥೇ ಪಥಾಮಜನಿಷ್ಟ ಪೂಷಾ ಪಥಸ್ಪಥಃ ಪರಿಪತಿಂ ವಚಸ್ಯಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೩-೭)
 ವಿವೃತವಾಗಿರುವುದು.
 *[೧ ಸಂಹಿತಾಪಾರಃ ೧]*
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22428,6 +23136,8 @@ The devout invoke Saraswati; they worship Saraswati at the strewn sacrifice ; th
 *[ಅ. ೭. ಅ. ೬. ವ. ೨೪. } ಋಗ್ವೇದಸಂಹಿತಾ 559]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸರಸ್ವತಿ ಯಾ ಸರಥಂ ಯಯಾಥ ಸ್ವಧಾಭಿರ್ದೇವಿ ಪಿತೃಭಿರ್ಮದಂತೀ ।
@@ -22466,6 +23176,8 @@ The devout invoke Saraswati; they worship Saraswati at the strewn sacrifice ; th
 Divine Saraswati, who rides in the same chariot with the Pitris, and is delighted (along with them) by the (sacrifieial) viands, seated on the sacred grass be gratified (by our offering), and grant us wholesome food.
 *[೧ ಸಂಹಿತಾಪಾಠ ।]*
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸರಸ್ವತೀಂ ಯಾಂ ಪಿತರೋ ಹವಂತೇ ದಕ್ಷಿಣಾ ಯಜ್ಞಮಭಿನಕ್ಷಮಾಣಾಃ।
@@ -22479,7 +23191,7 @@ Divine Saraswati, who rides in the same chariot with the Pitris, and is delighte
 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
-> ಯಾಂ ತ್ವಾಂ ಸರಸ್ವತೀಂ ಪಿತರೋ ಹವಂತೇ ಆಹ್ವಯಂತಿ । ಕೀದೃಶಾಃ । ದಕ್ಷಿಣಾ ॥ ದಕ್ಷಿಣಾದಾಜಿತ್ಯಾಚ್ ಪ್ರತ್ಯಯಃ । ಪಾ. ೫-೩-೩೬ ॥ ದಕ್ಷಿಣತ ಆಗತ್ಯ ಯಜ್ಞಮಭಿನಕ್ಷಮಾಣಾ ಅಭಿಶೋ
+> ಯಾಂ ತ್ವಾಂ ಸರಸ್ವತೀಂ ಪಿತರೋ ಹವಂತೇ ಆಹ್ವಯಂತಿ । ಕೀದೃಶಾಃ । ದಕ್ಷಿಣಾ ॥ ದಕ್ಷಿಣಾದಾಜಿತ್ಯಾಚ್ ಪ್ರತ್ಯಯಃ । ಪಾ. ಸೂ. ೫-೩-೩೬ ॥ ದಕ್ಷಿಣತ ಆಗತ್ಯ ಯಜ್ಞಮಭಿನಕ್ಷಮಾಣಾ ಅಭಿಶೋ
 > ಗಚ್ಛಂತೋ ವ್ಯಾಪ್ನುವಂತಃ । ಅತ್ರಾಸ್ಮಿನ್ಯಜ್ಞೇ ಸಹಸ್ರಾರ್ಘಂ ಬಹುಭಿಃ ಪೂಜನೀಯಮುಪಯೋಜ್ಯಮಿಲೋಽನ್ನಸ್ಯ ಭಾಗಂ ರಾಯೋ ಧನಸ್ಯ ಪೋಷಂ ಪುಷ್ಟಿಂ ಚ ಯಜಮಾನೇಷು ತ್ವಂ ಧೇಹಿ । ಸ್ಥಾಪಯ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
@@ -22503,6 +23215,8 @@ Divine Saraswati, who rides in the same chariot with the Pitris, and is delighte
 *English Translation.*
 
 Saraswati, whom the Pitris invoke when circumambulating the sacrifice on the right, bestow upon the worshippers at this sacrifice a portion of food fit for thousands, and increase of riches.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22592,6 +23306,8 @@ I come away from them purified (to heaven).
 ಇರುವುದು.
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದ್ರಪ್ಸಶ್ಚಸ್ಕಂದ ಪ್ರಥಮಾ ಅನು ದ್ಯೂನಿಮಂ ಚ ಯೋನಿಮನು ಯಶ್ಚ
@@ -22629,7 +23345,7 @@ I come away from them purified (to heaven).
 > ಯೋನಿಮನು ಯಶ್ಚ ಪೂರ್ವ ಇತೀಮಂ ಚ ಲೋಕಮಮುಂ ಚೇತ್ಯೇತತ್ ಸಮಾನಂ ಯೋನಿಮನು
 > ಪಂಚರಂತಮಿತಿ ಸಮಾನಂ ಹೇಷ ಏತಂ ಯೋನಿಮನು ಸಂಚರತಿ ದ್ರಪ್ಪಂ ಜುಹೋಮ್ಯನು ಸಪ್ತ
 > ಹೋತ್ರಾ ಇತ್ಯಸೌ ನಾ ಆದಿತ್ಯೋ ದ್ರಪ್ಪೋ ದಿಶಃ ಸಪ್ತ ಹೋತ್ರಾ ಅಮುಂ ತದಾದಿತ್ಯಂ ದಿಕ್ಷು
-> ಪ್ರತಿಷ್ಠಾಪಯತಿ । ಶತ. ೭-೪-೧-೨೮ । ಇತಿ ॥
+> ಪ್ರತಿಷ್ಠಾಪಯತಿ । ಶ. ಬ್ರಾ. ೭-೪-೧-೨೮ । ಇತಿ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
 
@@ -22686,6 +23402,8 @@ The juice of the Soma has risen to the earthly and heavenly (worlds), both this 
 ದಿಕ್ಕುಗಳಲ್ಲಿ ಸೂರ್ಯನಿರುವ ದಿಕ್ಕನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಏಳು ದಿಕ್ಕುಗಳನ್ನೂ ಉದ್ದೇಶಿಸಿ । ಜುಹೋಮಿ—ಹವಿಸ್ಸ
 ನ್ನರ್ಪಿಸುತ್ತೇನೆ (ಎಂದರೆ ಆದಿತ್ಯನನ್ನು ಅಲ್ಲಿ ಸ್ಥಾಪಿಸುತ್ತೇನೆ).
 ಈ ಅರ್ಥವನ್ನೇ ಮೇಲೆ ಉದಾಹರಿಸಿರುವ ಶತಪಥಬ್ರಾಹ್ಮಣವಾಕ್ಯದಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22989,6 +23707,8 @@ filter; I offer it all with my mind (to Agni) with the word vashat.
 ಷನೂ ಸಹ ಪೂರ್ಣಾಯುಸ್ಸನ್ನು ಪಡೆದು ಸುಖಿಸುವನು.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ತೇ ದ್ರಪ್ಸಃ ಸ್ಕನ್ನೋ ಯಸ್ಥೇ ಅಂಶುರವಶ್ಚ ಯಃ ಪರಃ ಸ್ರುಚಾ ॥
@@ -23028,6 +23748,8 @@ filter; I offer it all with my mind (to Agni) with the word vashat.
 
 Your juice and your filaments, (Soma), which escape, and which fall from the ladle on this side or on that; may this divine Brihaspati sprinkle it for our enrichment.
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23680,6 +24402,9 @@ xxvii 38
 ಗಳಿಗೆ ಪಿತೃಮೊದಲಾದವರೇ ದೇವತೆಯು ; ಕೊನೆಯ ಋಕ್ಕಿಗೆ ಯಾವ ದೇವತೆಯೆಂದು ನಿರ್ದೇಶಿಸಿಲ್ಲವಾದ್ದರಿಂದ
 ಪ್ರಜಾಪತಿಯೇ ದೇವತೆಯಾಗಬಹುದು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ— ಪರಂ ಮೃತ್ಯೋ ಸಂಕುಸುಕಶ್ಚತಸ್ರೋ
 ಮೃತ್ಯುದೇವತಾಃ ಪರಾ ಧಾತ್ರೀ ಪರಾ ತ್ವಾಷ್ಟ್ರೀ ಪರಾಃ ಪಿತೃಮೇಧಾ ಏಕಾದಶೀ ಪ್ರಸ್ತಾರಪಂಕ್ತಿರ್ಜಗತ್ಯುಪಾಂತ್ಯಾನುಷ್ಟುಪ್ ಪ್ರಾಜಾಪತ್ಯಾ ನಾ ಸಾನಿರುಕ್ತಾ ಎಂದು ಹೇಳಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೮ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೮
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨॥ ಸೂಕ್ತ—೧೮ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೨೬, ೨೭, ೨೮ ॥
@@ -23689,6 +24414,8 @@ xxvii 38
 ೧೪. ಪಿತೃಮೇಧಃ ಪ್ರಜಾಪತಿರ್ವಾ ॥
 ಚಂದಃ—೧-೧೦,೧೨. ತ್ರಿಷ್ಟುಪ್ । ೧೧. ಪ್ರಸ್ತಾರಪಂಕ್ತಿಃ । ೧೩. ಜಗತೀ ।
 ೧೪. ಅನುಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23784,6 +24511,8 @@ Depart, Mrityu, by a different path : by that which is your own, and distinct fr
 ಕೇಳಿ ತಿಳಿಯುವನು. ಎಂದರೆ ಮೃತರಾದವರ ವಿಷಯವು ತಕ್ಷಣವೇ ಇವನಿಗೆ ತಿಳಿಯುವುದು ಎಂಬರ್ಥವು ಈ ಶಬ್ದ
 ಪ್ರಯೋಗದಿಂದ ನಿವೃತವಾಗಿದೆಯೆಂದು ತಿಳಿಯಬೇಕು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮೃತ್ಯೋಃ ಪದಂ ಯೋಪಯಂತೋ ಯದೈತ ದ್ರಾಘೀಯ ಆಯುಃ
@@ -23861,6 +24590,8 @@ If, avoiding the path of death, you go (on the path of the gods), assuming a lon
 ಗಳಿಂದಲೂ, ಧನಾದಿಗಳಿಂದಲೂ ದಿನೇದಿನೇ ವೃದ್ಧಿಯನ್ನೆದುತ್ತಾ ನಿಮ್ಮ ಪಾಪಗಳನ್ನು ಕಳೆದುಕೊಂಡು ಸುಖವಾಗಿ
 ಬಾಳಿ ಬದುಕಿರಿ ಎಂದು ಈ ಋಕ್ಕಿನ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಮೇ ಜೀವಾ ವಿ ಮೃತ್ಯೈರಾವವೃತ್ರನ್ನಭೂದ್ಭದ್ರಾ ದೇವಹೂತಿರ್ನೋ ಅದ್ಯ ।
@@ -23881,7 +24612,7 @@ If, avoiding the path of death, you go (on the path of the gods), assuming a lon
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಪೈತೃಮೇಧಿಕೇ ಕರ್ಮಣ್ಯಮಾತ್ಯಾ ಇಮೇ ಜೀವಾ ವಿ ಮೃತೈರಿತಿ ಸನ್ಯಾವೃತೋ ವ್ರಜಂತಿ ।
-> ಸೂತ್ರಿತಂ ಚ । ಇಮೇ ಜೀವಾ ವಿ ಮೃತೈರಿತಿ ಸನ್ಯಾವೃತೋ ವ್ರಜಂತಿ । ಆ. ಗೃ. ೪-೪೯೯ । ಇತಿ ॥
+> ಸೂತ್ರಿತಂ ಚ । ಇಮೇ ಜೀವಾ ವಿ ಮೃತೈರಿತಿ ಸನ್ಯಾವೃತೋ ವ್ರಜಂತಿ । ಆ. ಗೃ. ಸೂ. ೪-೪೯೯ । ಇತಿ ॥
 > ಇಮೇ ಜೀವಾ ಜೀವಂತಃ ಪುರುಷಾ ಮೃತೈಃ ಪಿತ್ರಾದಿಭಿಃ । ತೇಭ್ಯ ಇತ್ಯರ್ಥಃ । ವ್ಯಾವವೃತ್ರನ್ ।
 > ವ್ಯಾವೃತ್ತಾ ಭವಂತು । ಏತೇ ನ ಮ್ರಿಯಂತಾಮಿತಿ ಭಾವಃ । ಕಿಂಚಾದ್ಯಾಸ್ಮಿನ್ನಿನೇ ನೋಽಸ್ಮಾಕಮಶೌಚೇ ವಿಸೃಷ್ಟೇ ದೇವಹೂತಿಃ ದೇವಾನಾಮಾಹ್ವಾನಂ ಯತ್ರ ಸ ದೇವಹೂತಿಃ ಪಿತೃಮೇಧಾಖ್ಯೋ
 > ಯಜ್ಞೋ ಭದ್ರಾ ಕಲ್ಯಾಣೋಽಭೂತ್ । ಭವತು । ತತ ಉತ್ತರಂ ವಯಂ ಪ್ರಾಂಚಃ ಪ್ರಾಜ್ಮುಖಾಂಚನಾ ಅಗಾಮ । ಗಚ್ಛೇಮ । ಪ್ರತ್ಯಂಚ ಇತಿ ಭಾವಃ । ನೃತಯೇ ನರ್ತನಾಯ ಕರ್ಮಣಿ ಗಾತ್ರವಿಕ್ಷೇಪಾಯ । ಸ್ವಕರ್ಮಾನುಷ್ಠಾನಾಯೇತಿ ಭಾವಃ । ಹಸಾಯ ಹಸನಾಯ ಪುತ್ರಾದಿಭಿಃ ಸಹ ಕ್ರೀಡನಾಯ ।
@@ -23931,6 +24662,8 @@ May those who are living remain separate from the dead : may our invocation of t
 ಹಿಂತಿರುಗಿ ಪೂರ್ವಾಭಿಮುಖವಾಗಿ ನಮ್ಮ ಗೃಹಾದಿಗಳಿಗೆ ಹೋಗೋಣ.
 ದ್ರಾಘೀಯಃ ಆಯುಃ ಪ್ರತರಂ ದಧಾನಾಃ—ದೀರ್ಘಾಯುಸ್ಸನ್ನು ಪಡೆದು ಬಹುಕಾಲ ಜೀವಿಸಿರುವುದ
 ಕ್ಕಾಗಿ ಈ ಪ್ರದೇಶದಿಂದ ಗೃಹಾಭಿಮುಖವಾಗಿ ಹೋಗೋಣ.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24015,6 +24748,8 @@ I erect this circle (of stones) for (the protection of) the living, that none ot
 ಕಲ್ಲುಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಮೃತ್ಯುವು ಅಲ್ಲಿಯೇ ಇದ್ದು ಹೊರಗೆ ಬರದಂತೆ ತಡೆಗಟ್ಟುವುದಕ್ಕಾಗಿ ಈ ಪರಿಧಿರೂಪ
 ವಾದ ಆವರಣವು ನಿರ್ಮಿತವಾಗಿದೆ ಎಂದಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಥಾಹಾನ್ಯನುಪೂರ್ವಂ ಭವಂತಿ ಯಥ ಋತವ ಋತುಭಿರ್ಯಂತಿ
@@ -24085,6 +24820,8 @@ support the lives of these (my kinsmen).
 ಮೃತರಾಗದಂತೆ ಜೀವಂತರಾಗಿರುವ ನಮ್ಮೆಲ್ಲರ ಆಯುಸ್ಸನ್ನು ನಮ್ಮ ವಯಸ್ಸಿಗನುಗುಣವಾಗಿ ಕಲ್ಪಿಸು ಎಂದು
 ಲೋಕನಿಯಾಮಕನಾದ ಧಾತೃವನ್ನು ಋಷಿಯು ಪ್ರಾರ್ಥಿಸಿದ್ದಾನೆ.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ರೋಹತಾಯುರ್ಜರಸಂ ವೃಣಾನಾ ಅನುಪೂರ್ವಂ ಯತಮಾನಾ ಯತಿ
@@ -24154,6 +24891,8 @@ support the lives of these (my kinsmen).
 ಬದುಕಿರಿ. ಈ ವಿಷಯದಲ್ಲಿ ತ್ವಷ್ಟದೇವನು (ಅಥವಾ ತ್ವಷ್ಟವೆಂದರೆ ಇಲ್ಲಿ ವಿಶ್ವನಿಯಾಮಕನೆಂದೇ ಭಾವಿಸಬಹುದು)
 ನಿಮ್ಮೊಂದಿಗೆ ಸಹಕರಿಸಿ ನೀವು ದೀರ್ಘಕಾಲ ಜೀವಿಸುವಂತೆ ನಿಮ್ಮ ಆಯುಃಪರಿಮಿತಿಯನ್ನು ಹೆಚ್ಚಿಸಲಿ ಎಂದು
 ಋಷಿಯು ಪ್ರಾರ್ಥಿಸಿದ್ದಾನೆ.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24226,6 +24965,8 @@ xxvii 39-
 ರಲ್ಲಿ ಮೊದಲು ಸ್ತ್ರೀಯರು ಗೃಹವನ್ನು ಪ್ರವೇಶಿಸಲಿ, ಅನಂತರ ಪುರುಷರು ಪ್ರವೇಶಿಸಲಿ ಎಂದಭಿಪ್ರಾಯವು.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉದೀರ್ಷ್ವ ನಾರ್ಯಭಿ ಜೀವಲೋಕಂ ಗತಾಸುಮೇತಮುಪ ಶೇಷ ಏಹಿ ।
@@ -24278,7 +25019,7 @@ Rise, woman, (and go) the world of living beings : come, this man near whom you 
 ಮೃತನಾದವನ ಪತ್ನಿಯ ಮೈದುನನೇ ಮೊದಲಾದವರು ಮೃತನ ಶರೀರವನ್ನು ಅಪ್ಪಿಕೊಂಡು ಸಹಗಮನ
 ಮಾಡಲುದ್ಯುಕ್ತಳಾಗಿರುವ ಅವನ ಪತ್ನಿಯನ್ನು ಉದೀರ್ಷ ನಾರಿ ಎಂಬ ಋಕ್ಕಿನಿಂದ ಆ ಮೃತಶರೀರದ ಸಮೀಪ
 ದಿಂದ ಬಿಡಿಸಿ (ಎಬ್ಬಿಸಿ) ಕರೆತರಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ತಾಮುತ್ಥಾಪಯೇದ್ದೇವರಃ ಪತಿಸ್ಥಾವೀಯೋಽನ್ತೇವಾಸೀ ಜರದ್ದಾಸೋ ಪೋದೀರ್ಷ ನಾರ್ಯಭಿ ಜೀವಲೋಕಂ ಎಂಬ ಸೂತ್ರದಿಂದ
-(ಆ. ಗೃ. ೪-೨-೧೮) ವಿವೃತವಾಗಿರುವುದು.
+(ಆ. ಗೃ. ಸೂ. ೪-೨-೧೮) ವಿವೃತವಾಗಿರುವುದು.
 ಹೇ ನಾರಿ ಜೀವಲೋಕಂ ಅಭಿ ಉತ್ ಈರ್ಷ್ವ—ಎಲೈ ಮೃತನಾದವನ ಪತ್ನಿಯೇ, ಶೋಕಿಸಬೇಡ,
 ಪದ್ದೇಳು. ಮೃತಶರೀರದಲ್ಲೇನಿದೆ ? ಅವನ ಆತ್ಮವು ಆ ಶರೀರವನ್ನು ಬಿಟ್ಟು ಪರಲೋಕಕ್ಕೆ ಹೊರಟುಹೋಗಿದೆ.
 ಆದ್ದರಿಂದ ಆ ಮೃತ ಕಳೇಬರದ ಸಂಪರ್ಕವನ್ನು ಬಿಟ್ಟು ಇತ್ತ ಬಾ. ಜೀವಂತರಾಗಿರುವ ಬಂಧುಬಾಂಧವರು ವಾಸಿಸು
@@ -24362,6 +25103,8 @@ Rise, woman, (and go) the world of living beings : come, this man near whom you 
 ಅವನ ತಮ್ಮ ಅಥವಾ ಹತ್ತಿರದ ಸಂಬಂಧಿಯೋರ್ವನು ಆ ಸ್ತ್ರೀಯನ್ನು ಮದುವೆಮಾಡಿಕೊಳ್ಳುವ ಪದ್ಧತಿಯು ಇತರ
 ಅನೇಕ ದೇಶಗಳ ಕಾಡುಜನರಲ್ಲಿ ಈಗಲೂ ಕಂಡುಬರುತ್ತದೆ.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಧನುರ್ಹಸ್ತಾದದಾದಾನೋ ಮೃತಸ್ಯಾಸ್ಮೇ ಕ್ಷತ್ರಾಯ ವರ್ಚಸೇ ಬಲಾಯ ।
@@ -24409,7 +25152,9 @@ Taking his bow from the hand of the dead man, for the sake of our vigour, energy
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಮೃತನಾದ ಪುರುಷನು ಕ್ಷತ್ರಿಯನಾಗಿದ್ದರೆ ಆಗ ಅವನ ಕೈಯಲ್ಲಿದ್ದ ಧನುಸ್ಸನ್ನು ತೆಗೆದುಕೊಳ್ಳುವಾಗ
-ಧನುರ್ಹಸ್ತಾತ್ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಧನುರ್ಹಸ್ತಾದಾದದಾನೋ ಮೃತಸ್ಯೇತಿ ಧನುಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೪-೨-೨೦) ವಿವೃತವಾಗಿರುವುದು.
+ಧನುರ್ಹಸ್ತಾತ್ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಧನುರ್ಹಸ್ತಾದಾದದಾನೋ ಮೃತಸ್ಯೇತಿ ಧನುಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೨-೨೦) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24432,7 +25177,7 @@ Taking his bow from the hand of the dead man, for the sake of our vigour, energy
 
 > ದೀಕ್ಷಿತಮರಣ ಉಪ ಸರ್ಪ ಮಾತರಮಿತ್ಯಾದ್ಯಾಶ್ಚತಸ್ರಃ ಶಂಸನೀಯಾಃ । ಸೂತ್ರಿತಂ ಚ ।
 > ಉಪ ಸರ್ಪ ಮಾತರಂ ಭೂಮಿಮೇತಾಮಿತಿ ಚತಸ್ರಃ ಸೋಮ ಏಕೇಭ್ಯಃ । ಅ. ೬-೧೦ । ಇತಿ ॥ ಉಪ
-> ಸರ್ಪೇತ್ಯನಯಾ ಸಂಚಿತಾನ್ಯಸ್ಥೀನಿ ಗರ್ತೆ ನಿದಧ್ಯುಃ । ಆ. ಗೃ. ೪-೫-೫ ॥
+> ಸರ್ಪೇತ್ಯನಯಾ ಸಂಚಿತಾನ್ಯಸ್ಥೀನಿ ಗರ್ತೆ ನಿದಧ್ಯುಃ । ಆ. ಗೃ. ಸೂ. ೪-೫-೫ ॥
 > ಮಾತರಂ ಮಾತೃಭೂತಾಂ ಭೂಮಿಮಸ್ಮಾಭಿರ್ಭೂಮೌ ನಿಧೀಯಮಾನಸ್ತೃಮುಪ ಸರ್ಪ ।
 > ಉಪಗಚ್ಛ । ಅನುಪ್ರವಿಶೇತ್ಯರ್ಥಃ । ಕೀದೃಶೀಂ । ಉರುವ್ಯಚಸಂ ಬಹುವ್ಯಾಪ್ತಿಕಾಂ ಪೃಥಿವೀಂ
 > ವಿಸ್ತೀರ್ಣಾಂ ಸುಶೇವಾಂ ಸುಸುಖಾಂ । ಸರ್ವೇಷಾಂ ಸುಖದಾತ್ರೀಮಿತ್ಯರ್ಥಃ । ತಾಮುಪಗಚ್ಛ ।
@@ -24469,13 +25214,15 @@ Go to this your mother-earth, the wide-spread, delightful earth ; this virgin (e
 ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೧೦) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಅಪರಕರ್ಮದಲ್ಲಿ ಶರೀರದ ದಹನಾನಂತರ ಅಸ್ಥಿ
 ಸಂಚಯನವನ್ನು ಮಾಡಿ ಆ ಅಸ್ಥಿಗಳನ್ನು ಒಂದು ಹಳ್ಳದಲ್ಲಿ (ಅಥವಾ ನದ್ಯಾದಿಜಲಾಶಯಗಳಲ್ಲಿ) ಹಾಕುವಾಗ ಈ
 ಮಂತ್ರವನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಉಪ ಸರ್ಪ ಇತ್ಯನಯಾ ಸಂಚಿತಾನ್ಯಸ್ಥೀನಿ
-ಗರ್ತೆ ನಿದಧ್ಯುಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೪-೫-೫) ವಿವೃತವಾಗಿರುವುದು.
+ಗರ್ತೆ ನಿದಧ್ಯುಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೫-೫) ವಿವೃತವಾಗಿರುವುದು.
 ಈ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಮುಂದಿನ ಮೂರು ಋಕ್ಕುಗಳಲ್ಲಿಯೂ ಸಾಯಣರು ಮೃತನಾದವನ ಅಸ್ಥಿಗಳನ್ನು
 ಹೇಳುವಾಗ ಪಠಿಸುವ ಮಂತ್ರಗಳು ಉಕ್ತವಾಗಿದೆಯೆಂದು ಹೇಳಿ ಅದರಂತೆ ಅರ್ಥವಿವರಣೆಮಾಡಿದ್ದಾರೆ. ಋಕ್ಕುಗಳಲ್ಲಿ
 ಅಸ್ಥಿ ಅಥವಾ ಆ ಅರ್ಥವನ್ನು ಸೂಚಿಸುವ ಯಾವ ಶಬ್ದವೂ ಇಲ್ಲದಿರುವುದರಿಂದ ಅನೇಕ ಪಾಶ್ಯಾತ್ಯಪಂಡಿತರು- ಈ
 ಋಕ್ಕುಗಳಲ್ಲಿ ಮೃತಶರೀರವನ್ನು ಭೂಮಿಯಲ್ಲಿ ಹೂಳುವ ಕ್ರಮವು ವಿವರಿಸಲ್ಪಟ್ಟಿದೆ. ಆದ್ದರಿಂದ ಆ ಕಾಲದಲ್ಲಿ ಶವ
 ವನ್ನು ಅಗ್ನಿಯಲ್ಲಿ ದಹಿಸುವ ಪದ್ಧತಿಯಲ್ಲದೆ ಭೂಮಿಯಲ್ಲಿ ಹೂಳುವುದೂ ರೂಢಿಯಲ್ಲಿತ್ತು ಎಂದು ಅಭಿಪ್ರಾಯ
 ಪಡುತ್ತಾರೆ. ಈ ಅಭಿಪ್ರಾಯವು ಸರಿಯಲ್ಲವೆಂದು ಹೇಳುವುದಕ್ಕಾಗುವುದಿಲ್ಲ.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24494,7 +25241,7 @@ Go to this your mother-earth, the wide-spread, delightful earth ; this virgin (e
 
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
-> ಉಚ್ಛ್ವಂಚಸ್ವೇತ್ಯೇತಯಾ ಪಾಂಸೂನವಕಿರೇತ್ । ಸೂತ್ರ್ಯತೇ ಹಿ । ಉತ್ತರಯಾ ಪಾಂಸೂನವಕಿರೇತ್ । ಆ. ಗೃ. ೪-೫-೬ । ಇತಿ ॥
+> ಉಚ್ಛ್ವಂಚಸ್ವೇತ್ಯೇತಯಾ ಪಾಂಸೂನವಕಿರೇತ್ । ಸೂತ್ರ್ಯತೇ ಹಿ । ಉತ್ತರಯಾ ಪಾಂಸೂನವಕಿರೇತ್ । ಆ. ಗೃ. ಸೂ. ೪-೫-೬ । ಇತಿ ॥
 > ಹೇ ಪೃಥಿವಿ ಉಚ್ಛ್ವಂಚಸ್ವ । ಊರ್ಧ್ವಂಗತೋಚ್ಛ್ವಾಸಮೇನಂ ಕುರು । ಅಧಸ್ತಾನ್ಮಾ ಕೃಥಾ
 > ಇತ್ಯರ್ಥಃ । ಕಿಂಚ ಮಾ ನಿ ಬಾಧಥಾಃ । ಮಾ ಸಂಪೀಡಯ । ತಥಾಸ್ಮೈ ಯಜಮಾನಾರ್ಥಂ ಸೂಪಾಯನಾ ಶೋಭನೋಪಗಮನಾ ಸೂಪಚಾರಿಕಾ ಭವೇತ್ಯರ್ಥಃ । ಸೂಪವಂಚನಾ । ಉಪವಂಚನಂ
 > ಪ್ರಲಂಭನಂ ಶೋಭನಪ್ರಲಂಭಾ ಸುಪ್ರತಿಷ್ಠಾ ಭವ । ಅಪಿ ಚ ಮಾತಾ ಪುತ್ರಮಾತ್ಮೀಯಂ ಬಾಲಕಂ
@@ -24522,11 +25269,13 @@ Earth, rise up above him ; oppress him not ; he attentive to him (and) comfortab
 
 ಮೃತಶರೀರವನ್ನು ಅಥವಾ ಅಸ್ಥಿಕುಂಭವನ್ನು ಭೂಮಿಯಲ್ಲಿ ಹೂಳಿ ಅದರ ಮೇಲೆ ಮಣ್ಣನ್ನು ಹಾಕಿ ಮುಚ್ಚು
 ವಾಗ ಉಚ್ಛಂಚಸ್ವ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಉತ್ತರಯಾ
-ಪಾಂಸೂನವಕಿರೇತ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೪-೫-೬) ವಿವೃತವಾಗಿರುವುದು.
+ಪಾಂಸೂನವಕಿರೇತ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೫-೬) ವಿವೃತವಾಗಿರುವುದು.
 
 <!-- printed 619 -->
 *[ಅ. ೭. ಅ. ೬. ವ. ೨೮ ] ಋಗ್ವೇದಸಂಪತಾ 619]*
 
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24575,6 +25324,8 @@ Earth, rise up above him ; oppress him not ; he attentive to him (and) comfortab
 
 May the earth heaped over him lie light : may thousands of particles (of dust) envelope him ; may these mansions distil ghee (for him); may they every day be an asylum to him in this world.
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತ್ತೇ ಸ್ತಭ್ನಾಮಿ ಪೃಥಿವೀಂ ತ್ವತ್ಪರೀಮಂ ಲೋಗಂ ನಿದಧನ್ಮೋ ಅಹಂ
@@ -24591,7 +25342,7 @@ May the earth heaped over him lie light : may thousands of particles (of dust) e
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಉತ್ತೇ ಸ್ತಭ್ನಾಮೀತಿ ಕಪಾಲೇನಾಸ್ಥೀನ್ಯಪಿದಧ್ಯಾತ್ । ಸೂತ್ರಿತಂ ಚ । ಉತ್ತೇ ಸ್ತಭ್ನಾಮೀತಿ
-> ಕಪಾಲೇನಾಪಿಧಾಯ । ಆ. ಗೃ. ೪-೫-೮ । ಇತಿ ॥
+> ಕಪಾಲೇನಾಪಿಧಾಯ । ಆ. ಗೃ. ಸೂ. ೪-೫-೮ । ಇತಿ ॥
 > ಹೇ ಅಸ್ಥಿಕುಂಭ ತ್ವತ್ಪರಿ । ಪರಿಶಬ್ದಯೋಗೇ ಪಂಚಮೀ । ತವೋಪರಿ ತೇ ತ್ವದೀಯೇನ
 > ಕಪಾಲೇನ ಪೃಥಿವೀಮುತ್ಸಭ್ಯಾಮಿ । ಪ್ರತಿಬಧ್ನಾಮಿ । ಯಥಾ ಪೃಥಿವೀ ತವೋಪರಿ ಮಾ ಗಚ್ಛತಿ
 > ತಥಾಪಿದಧಾಮಿತ್ಯರ್ಥಃ । ಇಮಂ ಲೋಗಂ ಕಪಾಲಲಕ್ಷಣಂ ಲೋಷ್ಟಂ ನಿದಧದುಪರಿ ಸ್ಥಾಪಯನ್ನಹಂ
@@ -24626,7 +25377,9 @@ ment; may Yama make you a dwelling here.
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಉತ್ತೇ ಸ್ತಭ್ನಾಮಿ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸುತ್ತಾ ಅಸ್ಥಿಗಳನ್ನು ಭೂಮಿಯಲ್ಲಿ ಹೂಳಿ ಅದರ ಮೇಲೆ
-ಕಪಾಲದಿಂದ ಮಣ್ಣನ್ನು ಹರಡಿ ಮುಚ್ಚಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಉತ್ತೇ ಸ್ತಭ್ನಾಮೀತಿ ಕಪಾಲೇನಾಪಿಧಾಯ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೪-೫-೮) ವಿವೃತವಾಗಿರುವುದು.
+ಕಪಾಲದಿಂದ ಮಣ್ಣನ್ನು ಹರಡಿ ಮುಚ್ಚಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಉತ್ತೇ ಸ್ತಭ್ನಾಮೀತಿ ಕಪಾಲೇನಾಪಿಧಾಯ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ಸೂ. ೪-೫-೮) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24732,6 +25485,9 @@ At the decline of the day they have placed me (in the grave) like the feathers o
 ಅಗ್ನಿ ಮತ್ತು ಸೋಮ ಎಂಬುವರು ದೇವತೆಗಳು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ- ನಿ ವರ್ತಧ್ವಮಷ್ಟೌ ಮಥಿತೋ ಭೃಗುರ್ವಾ
 ವಾರುಣಿರ್ಭಾರ್ಗವಶ್ಚ ವನೋ ವಾಪಂ ಗವ್ಯಂ ವಾನುಷ್ಟುಭಮಗ್ನೀಷೋಮಿಯೋ ದ್ವಿತಿಯೋಽರ್ಥರ್ಚಃ
 ಷಷ್ಠೀ ಗಾಯತ್ರಿ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೯ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೧೯
 ಸೂಕ್ತ—೧೯
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ —೧೯ ।
@@ -24742,6 +25498,8 @@ At the decline of the day they have placed me (in the grave) like the feathers o
 ದೇವತಾ—೧ರಲ್ಲಿ ಪೂರ್ವಾರ್ಧ, ೨-೮. ಆಪೋ ಗಾವೋ ವಾ । ೧ರಲ್ಲಿ ಉತ್ತರಾರ್ಧ.
 ಅಗ್ನಿಷೋಮೌ ।
 ಛಂದಃ—೧-೫, ೭-೮. ಆನುಷ್ಟುಪ್ । ೬. ಗಾಯತ್ರೀ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24785,6 +25543,8 @@ Come back : go not elsewhere; abounding in wealth, sprinkle us ;
 Agni and Soma, you who clothe (your worshippers) again, bestow upon
 us riches.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುನರೇನಾ ನಿ ವರ್ತಯ ಪುನರೇನಾ ನ್ಯಾ ಕುರು ।
@@ -24827,6 +25587,8 @@ us riches.
 Bring them back again, render them obedient: may Indra restore
 them; may Agni bring them nigh.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುನರೇತಾ ನಿ ವರ್ತಂತಾಮಸ್ಮಿನ್ಪುಷ್ಯಂತು ಗೋಪತ್ ।
@@ -24866,6 +25628,8 @@ them; may Agni bring them nigh.
 *English Translation.*
 
 May they come back to me and be fostered under this (their) protector : do you, Agni, keep them here; may whatever wealth (there is) remain here,
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24912,6 +25676,8 @@ I invoke the knowledge of the place, of their going of their coming,
 of their departure, of their wandering, of their returning : (I invoke) him
 who is their keeper.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯ ಉದಾನಡ್ವಯನಂ ಯ ಉದಾನಟ್ಪರಾಯಣಂ ।
@@ -24956,6 +25722,8 @@ May the keeper return (with them); he who reaches them when lost ;
 who reaches them when straying ; who reaches them when wandering, and
 returning.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ನಿವರ್ತ ನಿ ವರ್ತಯ ಪುನರ್ನ ಇಂದ್ರ ಗಾ ದೇಹಿ ।
@@ -24995,6 +25763,8 @@ returning.
 *English Translation.*
 
 Indra, come back and bring back (the cattle); give us our cows again, may we rejoice in our cows being alive.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25037,6 +25807,8 @@ Indra, come back and bring back (the cattle); give us our cows again, may we rej
 *English Translation.*
 
 I nourish you gods, who are everywhere present, with curds, with butter, with milk ; may all those deities who are entitled to worship reward us with riches.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25103,6 +25875,9 @@ quarters of the earth, bring them back from them,
 ಪ್ರಜಾಪತಿಪುತ್ರನಾದ ವಿಮದನೆಂಬುವನು ಅಥವಾ ವಸುಕ್ರಪುತ್ರನಾದ ವಸುಕೃತ್ ಎಂಬುವನು ಋಷಿಯು. ಈ
 ಸೂಕ್ತಕ್ಕೂ ಇದರ ಮುಂದಿನ ಸೂಕ್ತಕ್ಕೂ ಅಗ್ನಿಯು ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸಪ್ತೋತ್ತರಾಣ್ಯಂದ್ರೋ ವಿಮದಃ ಪ್ರಾಜಾಪತ್ಯೋ ವಾ ವಸುಕ್ರೋ ವಸುಕೃದ್ವಾ ಭದ್ರಂ ದಶಾಗ್ನೇಯಂ ತು ಗಾಯತ್ರಮಾದ್ಯೈಕಪದಾ ಪಾದ ಏವ ನಾಶಾಂತ್ಯರ್ಥಃ ಪರಾನುಷ್ಟುಬಂತ್ಯೇ ವಿರಾಟ್‌ತ್ರಿಷ್ಟುಭೌ ಎಂದು ಹೇಳಿರು
 ವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೦ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೦
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨॥ ಸೂಕ್ತ—೨೦ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೨, ೩ ॥
@@ -25111,6 +25886,8 @@ quarters of the earth, bring them back from them,
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ತಂದಃ—೧ ಏಕಪದಾ (ಪಾದ ಏವ ನಾ ಶಾಂತ್ಯರ್ಥಃ) । ೨. ಅನುಷ್ಟುಪ್ । ೩-೮.
 ಗಾಯತ್ರಿ ! ೯. ವಿರಾಟ್ । ೧೦. ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25143,6 +25920,8 @@ quarters of the earth, bring them back from them,
 
 (Agni), manifest towards us a favourable mind.
 *[೧ ಸಂಹಿತಾಪಾರಂ ೧]*
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25187,6 +25966,8 @@ quarters of the earth, bring them back from them,
 
 I glorify Agni, the young of the feeders (on oblations), friendly in counsel, difficult to resist, at whose rite the oblations seek heaven, as (calves) the udder of the mother cow,
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಮಾಸಾ ಕೃಪನೀಳಂ ಭಾಸಾಕೇತುಂ ವರ್ಧಯಂತಿ ।
@@ -25228,6 +26009,8 @@ He whom (the worshippers) magnify with their mouth, the sustainer
 of pious works ; whose banner is the light, he shines, bestowing upon them
 all their desires.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರ್ಯೋ ವಿಶಾಂ ಗಾತುರೇತಿ ಪ್ರ ಯದಾನಡ್ತಿವೋ ಅಂತಾನ್ ।
@@ -25264,6 +26047,8 @@ all their desires.
 *English Translation.*
 
 The refuge of the people, the mover, who when he moves, penetrates to the ends of the sky ; the sage illumining the firmament.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25305,6 +26090,8 @@ The refuge of the people, the mover, who when he moves, penetrates to the ends o
 
 Accepting the oblations (offered) at the sacrifice of the worshipper, he blazes up, with a mighty flame ; fixing his abode, he advances.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ಹಿ ಕ್ಷೇಮೋ ಹವಿರ್ಯಜ್ಞಃ ಶ್ರುಷ್ಟಿದಸ್ಯ ಗಾತುರೇತಿ ।
@@ -25342,6 +26129,8 @@ Accepting the oblations (offered) at the sacrifice of the worshipper, he blazes 
 
 Agni is capable (of protecting all men), he is himself the oblation, and the sacrifice ; rapidly indeed does his spirit move. The gods come to Agni, who bears the praises.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಜ್ಞಾಸಾಹಂ ದುವ ಇಷೇಽಗ್ನಿಂ ಪೂರ್ವಸ್ಯ ಶೇವಸ್ಯ ।
@@ -25361,7 +26150,7 @@ Agni is capable (of protecting all men), he is himself the oblation, and the sac
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಅಶ್ರೈತವಾಕ್ಯತಾಯ್ಕೆ ಯತ್ತಚ್ಛಬ್ದಾವಧ್ಯಾಹಾರ್ಯೌ । ಅಪರಾರ್ಧರ್ಚಿಃ ಪೂರ್ವಂ ವ್ಯಾಖ್ಯೇಯಃ । ಆಯುಂ ದೇವಾನಾಮಾಹ್ವಾನಾರ್ಥಂ ದೂತ್ಯೇನ ಗಂತಾರಂ ಯಮಗ್ನಿಮದ್ರೇಃ ಸೂನುಮತ್ಮನಃ
-> ಪುತ್ರಮಾಹುಃ ತ್ವಮದ್ಭ್ಯಸ್ತಮತ್ಕನಸ್ಪರಿ । ಋ. ೨-೧-೧ । ಇತ್ಯೇವವಾದಯೋ ಮಂತ್ರಾ ವದಂತಿ ।
+> ಪುತ್ರಮಾಹುಃ ತ್ವಮದ್ಭ್ಯಸ್ತಮತ್ಕನಸ್ಪರಿ । ಋ. ಸಂ. ೨-೧-೧ । ಇತ್ಯೇವವಾದಯೋ ಮಂತ್ರಾ ವದಂತಿ ।
 > ಯಜ್ಞಸಹಂ ಯಾಗಸ್ಯ ವೋಢಾರಂ । ಧಾರಯಿತಾರಮಿತ್ಯರ್ಥಃ । ತಮಗ್ನಿಮಭಿಲಕ್ಷ್ಯ ದುವಃ ಪರಿಚರಣಮಿಷೇ । ಇಚ್ಛಾಮಿ । ಕಿಮರ್ಥಂ । ಪೂರ್ವಸ್ಯ । ಆತ್ರ ಪೂರ್ವಶಬ್ದ ಉತ್ಕೃಷ್ಟವಾಚೀ । ಉತ್ಕೃಷ್ಟಸ್ಯ
 > ಶೇವಸ್ಯ ಸ್ವರ್ಗಾಪವರ್ಗಲಕ್ಷಣಸುಖಸ್ಯ ಪ್ರಾಪ್ತರ್ಥಮಿತಿ ಶೇಷಃ ॥
 
@@ -25383,6 +26172,8 @@ Agni, who goes to (summon the gods), the bearer of the oblations,
 whom men call the sow of the stone ; him I desire to worship (for the sake)
 of supreme felicity.
 *[೧ ಸಂಹರಾಪಾರಿ ೧]*
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25420,6 +26211,8 @@ of supreme felicity.
 
 May all the men who belong to us be (gratified) in all that is desi-
 rable, augmenting Agni with oblations.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25465,6 +26258,8 @@ rable, augmenting Agni with oblations.
 *English Translation.*
 
 His chariot is black, white red, tawny, dark red, crimson, and glorious; the progenitor of all has given him a chariot of Gold.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25533,6 +26328,9 @@ prosperous abode.
 ಸೂಕ್ತವನ್ನು ಆಜ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಆಗ್ನಿಂ ನ ಸ್ವವ್ಯಕ್ತಿಭಿರಿತ್ಯಾಜ್ಯಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೧೧) ವಿವೃತವಾಗಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ಆಗ್ನಿಮಾರುತಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಪಠಿಸುವಾಗ ಇಳಾಂದವೆಂಬ ಸಾಮಮಂತ್ರದಿಂದ ಸ್ತುತಿಸಬೇಕು. ಆಗ ಪ್ರಾರಂಭದಲ್ಲಿ ಈ ಸೂಕ್ತದ
 ಮಂತ್ರಗಳನ್ನು ಅನುರೂಪಮಂತ್ರಗಳನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಐತರೇಯಾರಣ್ಯಕದ—ಯದೀಳಾಂದಂ ಭೂಯಸೀಷು ಚೇತ್ ಸ್ತುವೀರನ್ನಾಗ್ನಿಂ ನ ಸ್ವವ್ಯಕ್ತಿಭಿರಿತಿ ತಾವತೀರನುರೂಪಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಅ.
 ೫-೩-೨) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೨೧ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೧
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨॥ ಸೂಕ್ತ—೨೧ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೪, ೫ ॥
@@ -25540,6 +26338,8 @@ prosperous abode.
 ಋಷಿಃ—ವಿಮದ ಐಂದ್ರಃ ಪ್ರಾಜಾಪತ್ಯೋ ವಾ ವಸುಕೃದ್ವಾ ವಾಸುಕ್ರಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಚಂದಃ—ಆಸ್ತಾರಪಂಕ್ತಿಃ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25591,6 +26391,8 @@ your exhilaration ; you are mighty.
 *[648 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೨. ಸೂ. ೨೧]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಾಮು ತೇ ಸ್ವಾಭುವಃ ಶುಂಭಂತ್ಯಶ್ವರಾಧಸಃ ।
@@ -25632,6 +26434,8 @@ exhilaration ; you are mighty.
 <!-- printed 649 -->
 *[ವ. ೭. ಅ. ೭. ವ. ೪.] ಋಗ್ವೇದಸಂಹಿತಾ 649]*
 
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25677,6 +26481,8 @@ with the oblation), like (earth) sprinkling (showers); you sustain exceedingly
 black forms and white and all beauties for your exhilaration; you are
 mighty.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಮಗ್ನೇ ಮನ್ಯಸೇ ರಯಿಂ ಸಹಸಾವನ್ನಮರ್ತ್ಯ ।
@@ -25717,6 +26523,8 @@ mighty.
 
 Powerful and immortal Agni, bring to us, for our sustenance, the precious wealth which you think best; (bring it) for your exhilaration at the sacrifices; you are mighty.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನಿರ್ಜಾತೋ ಅಥರ್ವಣಾ ವಿದದ್ವಿಶ್ವಾನಿ ಕಾವ್ಯಾ ।
@@ -25731,7 +26539,7 @@ Powerful and immortal Agni, bring to us, for our sustenance, the precious wealth
 *ಸಾಯಣಭಾಷ್ಯಂ*
 
 > ಅಥರ್ವಣೈತನ್ನಾಮ್ನರ್ಷಿಣಾ ಜಾತೋ ಜನಿತೋಽಗ್ನಿಃ । ಕಥಂ ಅವಗಮ್ಯತೇ । ತ್ವಾಮಗ್ನೇ
-> ಪುಷ್ಕರಾದಧ್ಯರ್ಥರ್ವಾ ನಿರಮಂಥತ । ಋ. ೬-೧೬-೧೩ । ಇತಿ ಮಂತ್ರಾಂತರಾತ್ । ವಿಶ್ವಾನಿ ಸಮಸ್ತಾನಿ
+> ಪುಷ್ಕರಾದಧ್ಯರ್ಥರ್ವಾ ನಿರಮಂಥತ । ಋ. ಸಂ. ೬-೧೬-೧೩ । ಇತಿ ಮಂತ್ರಾಂತರಾತ್ । ವಿಶ್ವಾನಿ ಸಮಸ್ತಾನಿ
 
 <!-- printed 652 -->
 *[652 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೨. ಸೂ. ೨೧.]*
@@ -25760,6 +26568,8 @@ Powerful and immortal Agni, bring to us, for our sustenance, the precious wealth
 *English Translation.*
 
 Agni, generated by Atharvan, is cognizant of all praises ; he is the messenger of Vivaswat, the beloved friend of Yama, for your exhilaration; you are mighty.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25803,6 +26613,8 @@ The (worshipper) glorifies you, Agni, at sacrifices, when the
 solemnity is being celebrated; you grant in your exhilaration all desirable
 treasures to the donor (of the oblation); you are mighty.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಾಂ ಯಜ್ಞೇಷ್ಟೃತ್ವಿಜಂ ಚಾರುಮಗ್ನೇ ನಿ ಷೇದಿರೇ ।
@@ -25839,6 +26651,8 @@ treasures to the donor (of the oblation); you are mighty.
 *English Translation.*
 
 The men establish you, Agni, at sacrifices, the ministrant priest, graceful, whose face shines with butter, radiant, most intelligent with your eyes, for your exhilaration ; (hence) you are mighty.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25902,6 +26716,9 @@ in your exhilaration; you are mighty.
 ಪಾದದಲ್ಲಿ ಹನ್ನೆರಡು ಅಕ್ಷರಗಳೂ ಉಳಿದ ಮೂರು ಪಾದಗಳಲ್ಲಿ ಎಂಟೆಂಟು ಅಕ್ಷರಗಳೂ ಇದ್ದರೆ, ಆ ಋಕ್ಕು ಪುರಸ್ತಾದ್ಬೃಹತೀಛಂದಸ್ಕವೆನಿಸುವುದು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಕುಹ ಪಂಚೋನಾ ಪುರಸ್ತಾದ್ಬಾರ್ಹತಂ ತ್ರಿಷ್ಟುಬಂತಂ ತ್ವಂ ತ್ಯಾ ಚಿದಾ ನಸ್ತ್ವಂ ನೋಽನುಷ್ಟುಭಃ ಎಂದು ಹೇಳಿರುವುದು. ಯಾಗದ ನಾಲ್ಕನೆಯ ದಿವಸ
 ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಕುಹ
 ಶ್ರುತ ಇಂದ್ರೋ ಯುಧ್ಮಸ್ಯ ತ ಇತಿ ನಿಷ್ಕೇವಲ್ಯಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೧೧) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೨೨ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೨
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೨೨ ॥
 ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೬, ೭, ೮ ॥
@@ -25910,6 +26727,8 @@ in your exhilaration; you are mighty.
 ದೇವತಾ—ಇಂದ್ರಃ ।
 ಛಂದಃ—೧, ೪, ೬, ೮, ೧೦-೧೪. ಪುರಸ್ತಾದ್ಬ್ರಹತೀ । ೫, ೭, ೯. ಅನುಷ್ಟುಪ್ ।
 ೧೫. ತ್ರಿಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25950,6 +26769,8 @@ in your exhilaration; you are mighty.
 
 In what place to-day is Indra renowned? In what nation is he famed like Mitra ? (Indra), who is worshipped with sacred praise at the dwelling of the rishis, or in secret.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಹ ಶ್ರುತ ಇಂದ್ರೋ ಅಸ್ಮೇ ಅದ್ಯ ಸ್ತವೇ ವಜ್ರ್ಯ ಚೇಷಮಃ ।
@@ -25970,7 +26791,7 @@ In what place to-day is Indra renowned? In what nation is he famed like Mitra ? 
 
 > ಇಹಾಸ್ಮಿನ್ಯಜ್ಞ ಇಂದ್ರಃ ಶ್ರುತಃ ಪ್ರಖ್ಯಾತಃ । ಅದ್ಯಾಸ್ಮಿನ್ದಿವಸ ಅಸ್ಮೇ ಅಸ್ಮಾಭಿಃ ಸ್ತವೇ ।
 > ಸ್ತೂಯತೇ । ಕೀದೃಶಃ । ವಜ್ರೀ ವಜ್ರವಾನ್ ಋಚೀಷಮಃ । ಯದ್ದಾವ ಇಂದ್ರ ತೇ ಶತಂ ಶತಂ
-> ಭೂಮಾರುತ ಸ್ಯುಃ ನ ತ್ವಾ ವಜ್ರಿನ್ । ಋ. ೮-೭೦-೫ । ಇತ್ಯಾದಿಕಯಾ ಸ್ತುತ್ಯಾ ಸಮಾನಗುಣ
+> ಭೂಮಾರುತ ಸ್ಯುಃ ನ ತ್ವಾ ವಜ್ರಿನ್ । ಋ. ಸಂ. ೮-೭೦-೫ । ಇತ್ಯಾದಿಕಯಾ ಸ್ತುತ್ಯಾ ಸಮಾನಗುಣ
 > ಇತ್ಯರ್ಥಃ । ಯ ಇಂದ್ರೋ ಮಿತ್ರೋ ನ ಸೂರ್ಯ ಇವ ಸ್ನಿಗ್ಧ ಇವ ವಾ ಜನೇಷು ಸ್ತೋತೃಜನೇಷು
 > ಯಶೋಽನ್ನಂ ಕೀರ್ತಿಂ ವಾ ಚಕ್ರೇ ಕರೋತಿ । ಕೀದೃಶಂ । ಅಸಾಮ್ಯಸಾಧಾರಣಂ । ಸ ಇಂದ್ರೋಽಸ್ಮಾಭಿಃ ಸ್ತೂಯತ ಇತಿ ಪೂರ್ವೇಣ ಸಂಬಂಧಃ ॥
 *[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
@@ -25992,6 +26813,8 @@ In what place to-day is Indra renowned? In what nation is he famed like Mitra ? 
 *English Translation.*
 
 Here is Indra renowned ; to-day he is praised by us, the wielder of the thunderbolt, the deserving of praise ; he who, like Mitra, bestows upon men unequalled abundance.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26036,6 +26859,8 @@ Here is Indra renowned ; to-day he is praised by us, the wielder of the thunderb
 unequalled (power), the distributor of great wealth, the cherisher of the
 dreadful thunderbolt, as a father (cherishes) a dear son.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯುಜಾನೋ ಅಶ್ವಾ ವಾತಸ್ಯ ಧುನೀ ದೇವೋ ದೇವಸ್ಯ ವಜ್ರಿವಃ ।
@@ -26076,6 +26901,8 @@ dreadful thunderbolt, as a father (cherishes) a dear son.
 Thunderer, you who are divine, yoking your horses which are
 swifter than the divine wind, and gliding along the resplendent road, you,
 opening out the way (t° battle), are glorified.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26122,6 +26949,8 @@ You have come to these two horses (which have the speed) of the wind, straight-g
 
 *[॥ ಸಂಹಾಪಾತು ॥]*
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧ ಗ್ಮಂತೋಶನಾ ಪೃಚ್ಛತೇ ವಾಂ ಕದರ್ಥಾ ನ ಆ ಗೃಹಂ ।
@@ -26163,6 +26992,8 @@ You have come to these two horses (which have the speed) of the wind, straight-g
 Ushanas inquires of you two as you pass, " (Why) have you come to
 (our dwelling) from a distance ; from heaven and earth to a mortal ? "
 *[೧ ಸಂಹಿತಾಪಾಠ ೪]*
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26208,6 +27039,8 @@ Ushanas inquires of you two as you pass, " (Why) have you come to
 Aaccpt, Indra, the oblation upraised by us ; we solicit of you that protection by which you did slay the non-human Shushna.
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಕರ್ಮಾ ದಸ್ಯುರಭಿ ನೋ ಅಮಂತುರನ್ಯವ್ರತೋ ಅಮಾನುಷಃ ।
@@ -26246,6 +27079,8 @@ Aaccpt, Indra, the oblation upraised by us ; we solicit of you that protection b
 *English Translation.*
 
 The Dasyu practising no religious rites, not knowing us thoroughly following other observances, obeying no human laws, baffle, destroyer of enemies, the wapon of that slave.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26294,6 +27129,8 @@ Hero, Indra, with the hero (Maruts defend) us; that protected by
 you (we may be able) to overcome (our enemies): your blessings are diffused
 among many (praisers), as men (repair to their lord)
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ತಾನ್ವೃತ್ತಹತ್ಯೇ ಚೋದಯೋ ನ್ಯನ್ಕಾರ್ಪಾಣೇ ಶೂರ ವಜ್ರಿವಃ ।
@@ -26334,6 +27171,8 @@ among many (praisers), as men (repair to their lord)
 *English Translation.*
 
 Hero, Indra, wielder of the thunderbolt, you have animated those chiefs (the Maruts) to the slaughter of Vritra in battle, when (you hear) the mystical (praises), of the sages, the worshippers praising the might of the constellations.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26377,6 +27216,8 @@ Hero, Indra, wielder of the thunderbolt, you have animated those chiefs (the Mar
 
 Hero, Indra, (your worshippers glorify) those prompt exploits performed by you in battle, (by you who are) ever bountiful, when with your associate (Maruts) you destroyed the whole race of Shushna.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾಕುಧ್ಯಗಿಂದ್ರ ಶೂರ ವಸ್ವೀರಸ್ಯೆ ಭೂವನ್ನಭಿಷ್ಟಯಃ ।
@@ -26417,6 +27258,8 @@ Hero, Indra, (your worshippers glorify) those prompt exploits performed by you i
 *English Translation.*
 
 Hero, Indra, let not our manifold sacrifices be unavailing, but may we all, thunderer, (through) your (favour) continue in the fruition of these (our desires).
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26463,6 +27306,8 @@ Mey these our (praises) reaching you, Indra, be successful, doing
 no detriment (to you), so that, thunderer, we may obtain the benefits
 derivable from them, as (a cowherd enjoys those) from the milk cows.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಹಸ್ತಾ ಯದಪದೀ ವರ್ಧತ ಕ್ಪಾಃ ಶಚೀಭಿರ್ವೇದ್ಯಾನಾಂ ।
@@ -26508,6 +27353,8 @@ down Shushna, circumambulating it on the right, for the sake of Vishvayu.
 <!-- printed 672 -->
 *[672 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೨. ಸೂ. ೨೨]*
 
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26568,6 +27415,9 @@ Drink, hero Indra, drink the Soma; being excellent, harm (us) not, possessor of 
 ಗಳನ್ನು ಹೊಂದಿಸಿ ಅವುಗಳನ್ನು ಹೋತೃವರ್ಗದ ಋತ್ವಿಕ್ಕುಗಳು ಆವಾಪಾರ್ಥವಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ್ನ
 ಶೌತಸೂತ್ರದ-ಯಜಾಮಹ ಇಂದ್ರಂ ವಜ್ರದಕ್ಷಿಣಮಿತಿ ದ್ವಿತೀಯಾನೇವಮೇವ ಎಂಬ ಸೂತ್ರದಿಂದ
 (ಆ. ೭-೧೧) ವಿವತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೨೩ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೩
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೨೩ ॥
 ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೯ ॥
@@ -26580,6 +27430,8 @@ xxvii 43
 <!-- printed 674 -->
 *[674 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೨ ಸೂ. ೨೩.]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26624,6 +27476,8 @@ xxvii 43
 *English Translation.*
 
 We worship Indra, bearing in his right hand the thunderbolt, the driver of the bay horses which have many functions: shaking his beard, he mounts on high, destroying (his enemies) by his armies he gives wealth (to his worshippers).
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26673,6 +27527,8 @@ We worship Indra, bearing in his right hand the thunderbolt, the driver of the b
 
 With his two bay horses which bestow riches at the sacrifice, Indra, wealthy with wealth, is the slayer of Vritra; the brilliant, powerful, mighty Indra is the lord of strength; (through him) I cut off the head of the Dasa.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯದಾ ವಜ್ರಂ ಹಿರಣ್ಯಮಿದಥಾ ರಥಂ ಹರೀ ಯಮಸ್ಯ ವಹತೋ ವಿ
@@ -26715,6 +27571,8 @@ With his two bay horses which bestow riches at the sacrifice, Indra, wealthy wit
 *English Translation.*
 
 When he grasps his golden thunderbolt, then the opulent Indra ascends with his praisers, the chariot which his two bay horses draw, (Indra) the lord of long celebrated and widely renowned food.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26774,6 +27632,8 @@ the Maruts), sprinkles their beards, with the green (Soma-juice): he
 repairs to the pleasant chamber (of sacrifice); (the Soma) being effused,
 the sweet beverage agitates (his frame), as the breeze (shakes) the forest,
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೋ ವಾಚಾ ವಿವಾಚೋ ಮೃಧ್ರವಾಚಃ ಪುರೂ ಸಹಸ್ರಾಶಿವಾ ಜಘಾನಃ
@@ -26818,6 +27678,8 @@ the sweet beverage agitates (his frame), as the breeze (shakes) the forest,
 
 We praise his manhood, who, having by his voice alone made the many-tongued speechless, has slain many thousand enemies, who supports tha strength (of the world) as a father the strength (of his son).
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26866,6 +27728,8 @@ We praise his manhood, who, having by his voice alone made the many-tongued spee
 
 We, Vimadas, have generated this your unprecedented, and most varied praise, Indra. to obtain your bounty ; as we know what the opu-lence of that lord is, (therefore) we call it (before us), as a cowherd (calls) his cattle.
 *[೧ ಸಂಹಿತಾಪಾರಃ ೧]*
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26930,6 +27794,9 @@ Never may these friendships of you, Indra, and of the Rishi Vimada be disunited:
 ವಂತೆಯೂ ಅಕ್ಷರಸಂಖ್ಯೆಯಿದ್ದರೆ ಆ ಋಕ್ಕು ಆಸ್ತಾರಪಂಕ್ತಿಚ್ಛಂದಸ್ಕವೆನಿಸುವುದು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಇಂದ್ರ
 ಸೋಮಂ ಷಳಾಸ್ತಾರಪಾಂಕ್ತಂ ತ್ವಾಶ್ವಿನ್ಯೋಽನ್ತಾಸ್ತಿ ಸ್ರೋಽನುಷ್ಟುಭಃ ಎಂದು ಹೇಳಿರುವುದು ವಿನಿಯೋ
 ಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೪ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೪
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨॥ ಸೂಕ್ತ—೨೪ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೧೦ ॥
@@ -26938,6 +27805,8 @@ Never may these friendships of you, Indra, and of the Rishi Vimada be disunited:
 ದೇವತಾ—೧-೨. ಇಂದ್ರಃ । ೪-೬. ಅಶ್ವಿನೌ
 ಛಂದಃ—೧-೩. ಆಸ್ತಾರಪಂಕ್ತಿಃ । ೪-೬. ಅನುಸ್ಟುಪ್ ॥
 *[೧ ಸಂಹಿತಾಪಾಠ ೪]*
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26988,6 +27857,8 @@ thousandfold (riches), lord of infinite wealth ; you are mighty.
 *[ಆ, ೭. ಅ. ೭. ವ. ೧೦.] ಋಗ್ವೇದಸಂಹಿತಾ 685]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಾಂ ಯಜ್ಞೇಭಿರುಕ್ಥೈರುಸ ಹವ್ಯೇಭಿರೀಮಹೇ ।
@@ -27030,6 +27901,8 @@ thousandfold (riches), lord of infinite wealth ; you are mighty.
 We solicit you with sacrifices, with prayers, with oblations ; lord
 of all pious acts, grant us in your exhilaration, excellent and desirable
 (affluence) ; you are mighty,
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27074,6 +27947,8 @@ of all pious acts, grant us in your exhilaration, excellent and desirable
 
 Indra, who are the lord of desirable (riches), the encourager of the worshipper, the protector of the eulogisıs, defend us, in your exhilaration from adversaries ; (guard us) from sin, you are mighty.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯುವಂ ಶಕ್ರಾ ಮಾಯಾವಿನಾ ಸಮೀಚೀ ನಿರಮಂಥತಂ ॥
@@ -27113,6 +27988,8 @@ Indra, who are the lord of desirable (riches), the encourager of the worshipper,
 Powerful and sagacious (Aswins) mutually associated, you have
 churned forth (the fire): when you, Nasatyas, glorified by Vimada, have
 churned it forth.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27156,6 +28033,8 @@ churned it forth.
 *English Translation.*
 
 All the gods praised you as you were mutually associated, and caused (the sparks) to fly up: the gods have said to the two Nasatyas, "let the fire again bear (us oblations)".
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27217,6 +28096,8 @@ pleasure.
 <!-- printed 691 -->
 *[ಅ. ೭. ಅ. ೭. ವ. ೧೧ ] ಋಗ್ವೇದಸಂಹಿತಾ 691]*
 
+## ಸೂಕ್ತ ೨೫ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ-೨೫
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೨೫ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ ೧೧, ೧೨ ॥
@@ -27224,6 +28105,8 @@ pleasure.
 ಋಷಿಃ—ವಿಮದ ಐಂದ್ರಃ ಪ್ರಾಜಾಪತ್ಯೋ ವಾ ವಸುಕೃದ್ವಾ ವಾಸುಕ್ರಃ ॥
 ದೇವತಾ—ಸೋಮಃ ॥
 ಛಂದಃ—ಆಸ್ತಾರಪಂಕ್ತಿಃ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27268,6 +28151,8 @@ pleasure.
 
 Sanctify (Soma) our mind, our heart, our intellect ; and may (your worshipper) delight in your friendship, like cattle in fresh pasture, in your exhilaration (produced) by tht (sacrificial) food; for you are mighty.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಹೃದಿಸ್ಪೃಶಸ್ತ ಆಸತೇ ವಿಶ್ವೇಷು ಸೋಮ ಧಾಮಸು ।
@@ -27307,6 +28192,8 @@ Sanctify (Soma) our mind, our heart, our intellect ; and may (your worshipper) d
 *English Translation.*
 
 They who seek to touch your heart, Soma, worship you in all places; and these desires for wealth rise from my heart at your exhilaration ; for you are mighty.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27356,6 +28243,8 @@ They who seek to touch your heart, Soma, worship you in all places; and these de
 
 Verily, Soma, I practice all your observances with fullness; and as a father to his son, so do you in your exhilaration make us happy; protect us from being killed (by our enemies); for you are mighty.
 *[೧ ಸಂಹಿತಾಪಾಠ ೬೧ ।]*
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27412,6 +28301,8 @@ Verily, Soma, I practice all your observances with fullness; and as a father to 
 Our praises converge (Soma) towards you, as herds towards a well; establish our pious acts, Soma, for us to live (long), as (the priest sets up) the cups for your exhilaration . for you are mighty.
 *[. Acbraba .]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತವ ತೈ ಸೋಮ ಶಕ್ತಿಭಿರ್ನಿಕಾಮಾಸೋ ವ್ಯಣ್ಣಿರೇ ॥
@@ -27459,6 +28350,8 @@ Our praises converge (Soma) towards you, as herds towards a well; establish our 
 
 The intelligent (priests), whose desires are fixed (on the fruit of good works), with sacred rites show forth (the praises) of you, Soma, who are wise and powerful; you, in your exhilaration, (grant us) pastures, abounding with cattle, and with horses; for you are mighty.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪಶುಂ ನಃ ಸೋಮ ರಕ್ಷಸಿ ಪುರುತ್ರಾ ವಿಸ್ಥಿತಂ ಜಗತ್ ।
@@ -27500,6 +28393,8 @@ The intelligent (priests), whose desires are fixed (on the fruit of good works),
 *English Translation.*
 
 You protect our cattle, Soma, and the variously occupied world contemplating all existing beings ; you prepare (the world) for them to live in for your exhilaration ; for you are mighty.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27544,6 +28439,8 @@ You protect our cattle, Soma, and the variously occupied world contemplating all
 
 Be on all sides our preserver, Soma, you, who are unassailable; drive away, monarch, our adversaries in your exhilaration, and let no columiator rule over us ; for you are mighty.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ನಃ ಸೋಮ ಸುಕ್ರತುರ್ವಯೋಧೇಯಾಯ ಜಾಗೃಹಿ ।
@@ -27586,6 +28483,8 @@ Be on all sides our preserver, Soma, you, who are unassailable; drive away, mona
 *English Translation.*
 
 Soma, author of good works, liberal granter of fields, be vigilant in supplying us with food ; and in your exhilaration preserve us from oppres- sive men, (and) from sin ; for you are mighty.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27638,6 +28537,8 @@ bat that bestows offspring ; by your exhilaration preserve us) ; for you are
 mighty.
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಂ ಘ ಸ ತುರೋ ಮದ ಇಂದ್ರಸ್ಯ ವರ್ಧತ ಪ್ರಿಯಃ ।
@@ -27678,6 +28579,8 @@ mighty.
 *English Translation.*
 
 Such is the Soma which, swiftly moving, exhilarating, acceptable to Indra, has given increase (to our understanding) ; it has increased the intelligence of the great and pious Kakshivat in your exhilaration; for you are mighty.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27738,6 +28641,8 @@ it has restored (their faculties) to the blind, and the lame.
 <!-- printed 705 -->
 *[ವ. ೭. ಅ. ೭. ವ. ೧೩.] ಋಗ್ವೇದಸಂಹಿತಾ 705]*
 
+## ಸೂಕ್ತ ೨೬ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೬
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨॥ ಸೂಕ್ತ—೨೬ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೧೩, ೧೪ ॥
@@ -27745,6 +28650,8 @@ it has restored (their faculties) to the blind, and the lame.
 ಋಷಿಃ—ವಿಮದ ಐಂದ್ರಃ ಪ್ರಾಜಾಪತ್ಯೋ ವಾ ವಸುಕೃದ್ವಾ ವಾಸುಕ್ರಃ ॥
 ದೇವತಾ—ಪೂಷಾ ॥
 ಚಂದಃ—೧-೪. ಉಷ್ಣಿಕ್ । ೨, ೩, ೫-೯. ಅನುಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27794,6 +28701,8 @@ Since, our appointed and acceptable prayers proceed to him, may
 the mighty Pushan, of pleasing aspect, whose car is ever harnessed,
 protect us.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯ ತ್ಯನ್ಮಹಿತ್ವಂ ವಾತಾಪ್ಯಮಯಂ ಜನಃ ।
@@ -27833,6 +28742,8 @@ protect us.
 (May he) whose greatness (manifested as ) the matured rain, this
 pious man celebrates with pious rites—may he be cognizant of such excel-
 lent praises.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27876,6 +28787,8 @@ lent praises.
 
 He, Pushan, is cognizant of such excellent praises; like Soma he is showerer (of benefits): the graceful deity rains down upon us, he rains upon our cow-pastures.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಂಸೀಮಹಿ ತ್ವಾ ವಯಮಸ್ಮಾಕಂ ದೇವ ಪೂಷನ್ ।
@@ -27914,6 +28827,8 @@ He, Pushan, is cognizant of such excellent praises; like Soma he is showerer (of
 
 We glorify you, divine Pushan, the accomplisher of our desires,
 who make the pious to quake
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -27954,6 +28869,8 @@ who make the pious to quake
 The sharer in sacrifices, who is drawn by chariot-horses, the rishi,
 the benefactor of men ; the friend of the devout, scattering (his foes).
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಧೀಷಮಾಣಾಯಾಃ ಪತಿಃ ಶುಚಾಯಾಶ್ಚ ಶುಚಸ್ಯ ಚ ।
@@ -27989,6 +28906,8 @@ the benefactor of men ; the friend of the devout, scattering (his foes).
 *English Translation.*
 
 Lord both of the pure desirable (she-goat) and of the pure (he-goat): weaver of the cloth (of the wool) of the sheep; he has cleansed the vestments.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28031,6 +28950,8 @@ Lord both of the pure desirable (she-goat) and of the pure (he-goat): weaver of 
 
 The ruler, the lord of viands, the sovereign, the friend of the contentment (of all); he who is unassailable, gently shakes his beard (when drinking Soma of the sacrificer), desiring (his favour).
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ತೇ ರಥಸ್ಯ ಪೂಷನ್ನಜಾ ಧುರಂ ವವೃತ್ಯುಃ ।
@@ -28065,6 +28986,8 @@ The ruler, the lord of viands, the sovereign, the friend of the contentment (of 
 *English Translation.*
 
 The goats, Pushan, bear the burden of your car, who are the friend of every suppliant, born long ago, never-failing (in your duty).
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28116,6 +29039,9 @@ May the mighty Pushan protect our chariot by his might: may he be to us the augm
 ವಸುಕ್ರಃ ಎಂದು ಹೇಳಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಪಠನಮಾಡುವಾಗ ಈ ಸೂಕ್ತದ
 ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ- ಅಸತ್ತು ಮೇ ಜರಿತಃ ಸಾಭಿವೇಗಃ
 ಪಿಬಾ ಸೋಮಮಭಿ ಯಮುಗ್ರ ತರ್ದಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೧-೧) ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೨೭ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೭
 ಮಂಡಲ—೧೦ _ ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೨೭ ॥
 ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೧೫, ೧೬, ೧೭, ೧೮, ೧೯ ॥
@@ -28127,6 +29053,8 @@ May the mighty Pushan protect our chariot by his might: may he be to us the augm
 <!-- printed 715 -->
 *[ಅ. ೭. ಆ. ೭. ವ. ೧೫] ಋಗ್ವೇದಸಂಹಿತಾ 715]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28176,6 +29104,8 @@ May the mighty Pushan protect our chariot by his might: may he be to us the augm
 
 (Indra speaks): Such is my pleasant disposition, worshipper, that I help the institutor of the rite, who offers libations; but I am the punisher of him who offers not libations, who disregards truth, the perpatrator of sin, the malignant.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯದೀದಹಂ ಯುಧಯೇ ಸಂನಯಾನ್ಯದೇವಯೂನ್ತನ್ವಾ೩ಶೂಶುಜಾನಾನ್ ।
@@ -28217,6 +29147,8 @@ May the mighty Pushan protect our chariot by his might: may he be to us the augm
 *English Translation.*
 
 If I encounter in combat the undevout, resplendent in their bodies, then will I cook a vigorous bull for them, and will sprinkle (upon the fire) the exilarating effused juice the fifteenfold (Soma).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28269,6 +29201,8 @@ commenced, then (my enemies) proclaim my prowess.
 *[ಅ. ೭. ಅ. ೬. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 719]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯದಜ್ಞಾತೇಷು ವೃಜನೇಷ್ವಾಸಂ ವಿಶ್ವೇ ಸತೋ ಮಘವಾನೋ ಮ
@@ -28319,6 +29253,8 @@ overpowring foe for the protection of the world, and, seizing him by the
 feet, throw him down from the mountain.
 *[• ಸಂಹಿತಾಪಾಠ •]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನ ವಾ ಉ ಮಾಂ ವೃಜನೇ ವಾರಯಂತೇ ನ ಪರ್ವತಾಸೋ ಯದಹಂ
@@ -28361,6 +29297,8 @@ feet, throw him down from the mountain.
 
 None resist me (engaged) in combat, not even the mountains when I am resolved : at my shout the dullest of hearing is alarmed, and so too even the bright-rayed (sun) trembles day by day.
 *[೧ ಸಂಹಿತಾಪಾಠಿ ೧]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28411,6 +29349,8 @@ them harm ; my shafts quickly fall upon them, as well as on those who
 revile (your) powerful friend.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭೂರ್ವೌ ಕ್ಷೀವ್ಯುರ್ ೧ ಆಯುರಾನಡ್ಡರ್ಷನ್ನು ಪೂರ್ವೋ ಅಪರೋ ನು
@@ -28438,7 +29378,7 @@ revile (your) powerful friend.
 > ನ ವಿದಾರಯತಿ । ಭವಾನೇವ ಸರ್ವ೦ ಶತ್ರುಜಾತಂ ಹಿನಸ್ತೀತ್ಯರ್ಥಃ । ಅಪಿ ಚ ಯೋ ಭವಾನಿಂದ್ರೋಽಸ್ಯೇದೃಶಸ್ಯ ರಜಸೋ ಲೋಕಸ್ಯ । ತ್ರೈಲೋಕ್ಯಸ್ಯೇತ್ಯರ್ಥಃ । ಸಾರೇ ಪರತಃ । ಪರಮಸೂಕ್ಷ್ಮವಾಯುರೂಪೇಣ ಸೃಷ್ಟಿಕಾರಣಾತ್ಮನಾ ಸ್ಥಿತ್ವೇತಿ ಶೇಷಃ । ವಿವೇಷ ಸರ್ವತೋ ವ್ಯಾಪ್ತ್ತಿ ತಂ ಭವಂತಮಿಂದ್ರಂ
 > ದ್ವೇ ಇತಿ ಸಾಮರ್ಥ್ಯಾದ್ಯಾವಾಪೃಥಿವ್ಯೌ ನ ಪರಿ ಭೂತಃ । ನ ಪರಿಭವತಃ । ಅಭಿಭವತುಂ ನ ಶಕ್ನುತ
 > ಇತ್ಯರ್ಥಃ । ಕೀದೃಶ್ಯೌ । ಪವಸ್ತೇ ॥ ಪವತಿರ್ಗತಿಕರ್ಮಾ । ಅಸ್ಮಾದೌಣಾದಿಕೋಽಸ್ತಪ್ರತ್ಯಯಃ ।
-> ಅತೋಽಜಾದ್ಯತಷ್ಟಾಪ್ । ಪಾ.೪-೧-೪ । ಇತಿ ಟಾಪಿಃ ಕೃತೇ ಪ್ರಥಮಾದ್ವಿವಚನೇ ಚೈತದ್ರೂಪಂ ಭವತಿ ॥
+> ಅತೋಽಜಾದ್ಯತಷ್ಟಾಪ್ । ಪಾ. ಸೂ.೪-೧-೪ । ಇತಿ ಟಾಪಿಃ ಕೃತೇ ಪ್ರಥಮಾದ್ವಿವಚನೇ ಚೈತದ್ರೂಪಂ ಭವತಿ ॥
 > ಮಹತ್ವೇನ ಸರ್ವಸ್ಯಾಭಿಭವನಾಯ ಗಚ್ಛಂತೌ ॥
 
 *ಪ್ರತಿಪದಾರ್ಥ*
@@ -28467,6 +29407,8 @@ revile (your) powerful friend.
 *English Translation.*
 
 (The Rishi speaks) : You, Indra, are manifest ; (from time to time) you water (the earth) : Indra pervades all existence : the ancient Indra verily destroys (his foe), the other does not destroy (Indra). The united two (heaven and earth) surpass not him who extends beyond the confines of the universe.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28517,6 +29459,8 @@ revile (your) powerful friend.
 
 The assembled cattle feed upon the barley ; I their master have beheld them grazing, tended by the herdsman : when called, they collect around their lord ; when they approach, how much milk does he desire (to take) ?
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28582,6 +29526,8 @@ When we, the grass-eaters of men, (are) together, I (am) among
 the barley-eaters in the wide field ; here he who is yoked would like one
 to unloose him, and the assailant would yoke him who is unyoked.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅತ್ರೇದು ಮೇ ಮಂಸಸೇ ಸತ್ಯಮುಕ್ತಂ ದ್ವಿಪಾಚ್ಚ ಯಚ್ಚತುಷ್ಪಾತ್ಸಂಸೃಜಾನಿ ।
@@ -28638,6 +29584,8 @@ tend with women.
 
 *[೧ ಸಂಹಿತಾಪಾಠ್ಯ ೧]*
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯಾನಕ್ಷಾ ದುಹಿತಾ ಜಾತ್ವಾಸ ಕಸ್ತಾಂ ವಿದ್ವಾ ಅಭಿ ಮನ್ಯಾತೇ ಅಂಧಾಂ।
@@ -28688,6 +29636,8 @@ tend with women.
 
 What (other god but me) whose eyeless daughter is ever present knows her and honours (her) the blind one : which of the two (deities) lets loose that bolt against (a foe) he who assaults, (or) he who protects him?
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಿಯತೀ ಯೋಷಾ ಮರ್ಯತೋ ವಧೂಯೋಃ ಪರಿಪ್ರೀತಾ ಪನ್ಯಸಾ
@@ -28733,6 +29683,8 @@ What (other god but me) whose eyeless daughter is ever present knows her and hon
 *English Translation.*
 
 How many a woman has been gratified by the flattering praise of man's desire, when the bride is fortunate and beautiful, she of herself chooses her husband among men.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28793,6 +29745,8 @@ wards, on the outspread earth.
 (ನಿ. ೬-೬) ಎಂದು ನಿರ್ವಚನವನ್ನು ಹೇಳಿದ್ದಾರೆ. ಎಂದರೆ, ಉಪಸಿ—ಆತ್ಮನ ಉಪಸ್ಥಾನೇ ಅಂತರಿಕ್ಷಲೋಕೇ
 ತನ್ನ ಸಮೀಪಪ್ರದೇಶವಾದ ಅಂತರಿಕ್ಷ ಪ್ರದೇಶದಲ್ಲಿ ಎಂದರ್ಥವು.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಬೃಹನ್ನಚ್ಛಾಯೋ ಅಪಲಾಶೋ ಅರ್ವಾ ತಸ್ಥೌ ಮಾತಾ ವಿಷಿತೋ ಅತ್ತಿ
@@ -28842,6 +29796,8 @@ wards, on the outspread earth.
 *English Translation.*
 
 The great (sun), shadeless, undecaying, ever-moving, abides ; the builder (of the world), who is liberated, the germ (of the three worlds), eats (the oblations), fondling the offspring of another (mother), the con- structs (the quarters of the world) : with what design has the milch cow offered her udder ?
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28898,6 +29854,8 @@ Seven sages sprang from the lower portion (of Indra as prajapati) : eight were b
 
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದಶಾನಾಮೇಕಂ ಕಪಿಲಂ ಸಮಾನಂ ತಂ ಹಿನ್ವಂತಿ ಕ್ರತವೇ ಪಾರ್ಯಾಯ।
@@ -28942,6 +29900,8 @@ Seven sages sprang from the lower portion (of Indra as prajapati) : eight were b
 (to the task) for the completion of the sacrifice; the gratified mother
 cherishes the embryo well deposited in the waters, and not desirous of an
 abiding place.
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -28993,6 +29953,8 @@ abiding place.
 The sages cooked a fat ram : they followed (Prajapati) in succession like dice thrown in gambling : two (of them), having the means of purification and becoming purified, proceed in the midst of the waters to (Pra-kriti) the augmenter, to (Kapila) the implement of destruction.
 *[, ಸಂಹಿತಾಪಾತಃ ।]*
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿ ಕ್ರೋಶನಾಸೋ ವಿಷ್ವಂಚ ಆಯನ್ಪಚಾತಿ ನೇಮೋ ನಹಿ ಪಕ್ಷದರ್ಧಃ ।
@@ -29038,6 +30000,8 @@ The sages cooked a fat ram : they followed (Prajapati) in succession like dice t
 *English Translation.*
 
 They (the Angirasas) go in all directions calling (upon Prajapati), half of them cook (their oblations), the other half cook not ; this divine Savitri has told me this—(Agni), whose food is wood and ghee, serves (Prajapati by means of oblations).
+
+#### ಋಕ್ ೧೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29088,6 +30052,8 @@ They (the Angirasas) go in all directions calling (upon Prajapati), half of them
 
 I beheld the crowd coming from afar, moving of themselves without wheels : the lord of all, (Indra), regulates the seasons (for the worship of men), younger in vigour, destroying at once the herds of evil beings.
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏತೌ ಮೇ ಗಾವೌ ಪ್ರಮರಸ್ಯ ಯುಕ್ತೌ ಮೋ ಷು ಪ್ರ ಸೇಧೀರ್ಮುಹುರಿನ್ಮಂಧಿ ।
@@ -29134,6 +30100,8 @@ I beheld the crowd coming from afar, moving of themselves without wheels : the l
 
 Turn not back, but repeatedly praise these two yoked (steeds) of me the destroyer, which advance (to the foe and to the sacrifice); the waters fulfil Indra's purpose, and (so does) the all-cleansing sun, being (swift as) a cloud.
 
+#### ಋಕ್ ೨೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಂ ಯೋ ವಜ್ರಃ ಪುರುಧಾ ವಿವೃತ್ತೋಽವಃ ಸೂರ್ಯಸ್ಯ ಬೃಹತಃ
@@ -29176,6 +30144,8 @@ Turn not back, but repeatedly praise these two yoked (steeds) of me the destroye
 *English Translation.*
 
 This is the thunderbolt which repeatedly falls (on those who are) below the orb of the vast sun; the worshippers easily cause this water (in the sun's orb) above which is different from that (in the clouds) to pass through (the firmament).
+
+#### ಋಕ್ ೨೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29388,6 +30358,8 @@ Rishi.
 
 *[ಸಂಹಿತಾಕಾರರು]*
 
+#### ಋಕ್ ೨೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದೇವಾನಾಂ ಮಾನೇ ಪ್ರಥಮಾ ಅತಿಷ್ಠನ್ತತ್ರಾದೇಷಾಮುಪರಾ
@@ -29467,6 +30439,8 @@ At the creation of the gods, the (clouds) stood first; from their division, the 
 (ವೃಷ್ಟಿರೂಪದಿಂದ) ಕೆಳಕ್ಕೆ ಬೀಳು ಎಂಬರ್ಥವುಳ್ಳ ಭ್ರಃಶ್ ಧಾತುವಿನಿಂದಾಗಲಿ ನಿಷ್ಪನ್ನವಾಗಬಹುದು. ಪುರೀಷಂ
 ಎಂದರೆ ಫಲವತ್ತಾದುದು ಎಂದರ್ಥವು. ಈ ಶಬ್ದವು ತುಂಬು ಎಂಬರ್ಥವುಳ್ಳ ಪೃ ಧಾತುವಿನಿಂದಾಗಲಿ ತುಂಬುವಂತೆ
 ಮಾಡು ಎಂಬರ್ಥವುಳ್ಳ ಪ್ಪ ಧಾತುವಿನಿಂದಾಗಲಿ ನಿಷ್ಪನ್ನವಾಗಬಹುದು, ಎಂದು ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು.
+
+#### ಋಕ್ ೨೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29565,6 +30539,9 @@ xxvii 48
 ವಸುಕ್ರಋಷಿಯ ವಾಕ್ಯಗಳಿರುವವು. ಆದ್ದರಿಂದ ಆ ಋಕ್ಕುಗಳಿಗೆ ವಸುಕ್ರನು ಋಷಿಯು, ಇಂದ್ರನು ದೇವತೆಯು,
 ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ವಿಶ್ವೋ ಹಿ ದ್ವಾದಶೇಂದ್ರವಸುಕ್ರಯೋಃ ಸಂವಾದ ಐಂದ್ರಃ ಸೂಕ್ತಸ್ಯ ಪ್ರಥಮಯೇಂದ್ರಸ್ಯ ಸ್ನುಷಾ ಪರೋಕ್ಷವದಿಂದ್ರಮಾಹೇಂದ್ರಸ್ಯ ಯುಜಃ ಶೇಷಾ ಋಷೇಶ್ಚತುರ್ಥೀ ಚ ಎಂದು
 ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೮ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೨೮
 ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೨೮ ॥
 ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೨೦, ೨೧ ॥
@@ -29574,6 +30551,8 @@ xxvii 48
 ದೇವತಾ—೨, ೬, ೮, ೧೦, ೧೨. ಐಂದ್ರೋ ವ'ಕ್ರೋ ದೇವತಾ । ೧, ೩, ೪, ೫,
 ೭, ೯, ೧೧. ಇಂದ್ರೋ ದೇವತಾ ।
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29615,6 +30594,8 @@ xxvii 48
 *English Translation.*
 
 (The wife of Vasukra speaks :) Every other (divine) lord has come, but my father-in-law has not come : may he eat the parched grain : and drink the Soma ; when he is well satisfied, may he return home.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29661,6 +30642,8 @@ xxvii 48
 rays, abides roaring in the resounding expanse of the firmament : in all
 conflicts I defend him, (Vasukra), who, having effused the libation, fills
 my flanks.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29711,6 +30694,8 @@ my flanks.
 
 (Vasukra speaks :) Your worshippers express with the stone fast flowing exhilarating Soma-juices for you, you drink them ;they roast bulls for you, you eat them, when you are invoked, Maghavan, to the sacrificial food.
 *[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29776,6 +30761,8 @@ the lion, the jackal dries the wild boar from his lair.
 ಎಂಬ ಆಚಾರ್ಯರ ಮತವು.
 *[ಕಂಠೀರವ]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಥಾ ತ ಏತದಹಮಾ ಚಿಕೇತಂ ಗೃತ್ಸಸ್ಯ ಪಾಕಸ್ತವಸೋ ಮನೀಷಾಂ ।
@@ -29833,6 +30820,8 @@ us in fit season; the portion of your (praise), O Maghavan, which (we
 offer) is a burden easy to be borne.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏವಾ ಹಿ ಮಾಂ ತವಸಂ ವರ್ಧಯಂತಿ ದಿವಶ್ಚಿನ್ನೇ ಬೃಹತ ಉತ್ತರಾ ಧೂಃ ।
@@ -29877,6 +30866,8 @@ offer) is a burden easy to be borne.
 (let) the praise of me who am mighty, (rise) even higher than the heavens.
 I destroy at once many thousands (of foes), for the generator (of all) has
 engendered me without an enemy-
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -29927,6 +30918,8 @@ engendered me without an enemy-
 
 Since, Indra, the gods have known me to be powerful, fierce in every act, the showerer (of oblations): exulting I have slain Vritra with your thunderbolt, and by my might have opened the clouds for the donor (of oblations).
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದೇವಾಸ ಆಯನ್ಪರಶೂರಭಿಭ್ರನ್ನನಾ ವೃಶ್ಚಂತೋ ಅಭಿ ವಿಡ್ಭಿರಾಯನ್ ।
@@ -29972,6 +30965,8 @@ The gods came, they bare their axes ; clearing the woods, they came
 with men in front of the waters : depositing (the tree) of good wood in the
 belly (of the river), where the underwood (is), they burnt it up.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -30022,6 +31017,8 @@ belly (of the river), where the underwood (is), they burnt it up.
 *[ಅ. ೭. ಅ. ೭. ವ ೨೧.] ಋಗ್ವೇದಸಂಹಿತಾ 767]*
 
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುಪರ್ಣ ಇತ್ಥಾ ನಖಮಾ ಸಿಷಾಯಾವರುದ್ಧಃ ಪರಿಪದಂ ನ ಸಿಂಹಃ ।
@@ -30069,6 +31066,8 @@ belly (of the river), where the underwood (is), they burnt it up.
 
 The hawk has fastened her claw in heaven : as a lion confined (in a cage) places one foot over the other. As a captivc buffalo (is) thirsty, (so) Indra thirsted for the Soma, Gayatri brought it to him easily (from heaven)
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೇಭ್ಯೋ ಗೋಧಾ ಆಯಥಂ ಕರ್ಷದೇತದ್ಯೇ ಬ್ರಹ್ಮಣಃ ಪ್ರತಿಪೀಯಂತ್ಯನ್ನೈಃ ।
@@ -30115,6 +31114,8 @@ Gayatri drew it away without difficulty, for the good of those
 the enemies of the gods): they devour all the sprinkling (Soma libations)
 left (by Indra), spontaneously destroying the armies and bodies (of the
 enemy).
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -30184,6 +31185,9 @@ They have been sanctified by holy rites, who have fostered their bodies with pra
 ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ—ಪ್ರ ವೋ ಮಹೇ ಮಂದಮಾನಾಯಾಂಧಸ
 ಇತಿ ನಿವಿದ್ದಾನಂ ವನೇ ನ ವಾ ಯೋ ನ್ಯಧಾಯಿ ಚಾಕನ್ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೩-೧)
 ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೨೯ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ-೨೯
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೨೯ ।
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ ೨೨, ೨೩ ।
@@ -30191,6 +31195,8 @@ They have been sanctified by holy rites, who have fostered their bodies with pra
 ಋಷಿಃ—ವಸುಕ್ರಃ ॥
 ದೇವತಾ—ಇದ್ರಃ ।
 ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -30285,6 +31291,8 @@ As (the bird) who deposits its young (in its nest) in the tree (is) eagerly look
 ವಾಕ್ಯದ ಅರ್ಥವು ಸಂಪೂರ್ಣವಾಗುತ್ತಿರಲಿಲ್ಲ. ಆದ್ದರಿಂದ ವಾಯಃ ಎಂಬ ಶಬ್ದವು ಒಂದೇ ಪದವೆಂದು ಭಾವಿಸು
 ವುದೇ ಪರಿಗ್ರಾಹ್ಯವು ಎಂದು ಭಾಷ್ಯಕಾರರು ನಿರುಕ್ತಕಾರರ ಅಭಿಪ್ರಾಯವನ್ನು ಸಮರ್ಥಿಸಿದ್ದಾರೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ತೇ ಅಸ್ಯಾ ಉಷಸಃ ಪ್ರಾಪರಸ್ಯಾ ನೃತೌ ಸ್ಯಾಮ ನೃತಮಸ್ಯ ನೃಣಾಂ ।
@@ -30331,6 +31339,8 @@ As (the bird) who deposits its young (in its nest) in the tree (is) eagerly look
 *English Translation.*
 
 May we be prosperous at the coming of the present or of any future dawn, (through the adoration) of you, the chief leader of men : through your favour Trishoka obtained a hundred followers; the chariot which was common to him and you was acquired by Kutsa.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -30385,6 +31395,8 @@ What sort of exhilaration, Indra, is agreeable to you? You who are powerful hast
 
 *[೧ ಸಂಹರಾಪೂಜೆ ೧]*
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕದು ದ್ಯುಮ್ನಮಿಂದ್ರ ತ್ವಾವತೋ ನ್ಯನ್ಕಯಾ ಧಿಯಾ ಕರಸೇ ಕನ್ನ ಆಗನ್।
@@ -30432,6 +31444,8 @@ What sort of exhilaration, Indra, is agreeable to you? You who are powerful hast
 When, Indra, (having partaken of) our oblation, and by what sacred rite, will you render men resembling you? when will you bring them to us? you, who are widely renowned, are to us like a true friend, (attentive) for our support, when the minds of all were (anxious) for food.
 *[೧ ಸಂಹಿತಾಪಾತಃ ೧]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರೇರಯ ಸೂರೋ ಅರ್ಥಂ ನ ಪಾರಂ ಯೇ ಅಸ್ಯ ಕಾಮಂ ಜನಿಧಾ ಇವ
@@ -30450,7 +31464,7 @@ When, Indra, (having partaken of) our oblation, and by what sacred rite, will yo
 > ಪ್ರೇರಯ । ಗಮಯ। ಯೇಽಸ್ಮದಾದಯೋ ಯಜಮಾನಾ ಅಸ್ಯ ತವೇಂದ್ರಸ್ಯ ಕಾಮಂ ಸೋಮಪಾನೇ
 > ಚ್ಛಾಂ ಗ್ಮನ । ಗಮಿರತ್ರ ವಿಪೂರ್ವೋಽಂತರ್ಭಾವಿತಣ್ಯರ್ಥಶ್ಚ ದ್ರಷ್ಟವ್ಯಃ । ವಿಗಮಯಂತಿ ಮಹತಾ
 > ಸೋಮಪಾನೇನಾಪನಯಂತಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಜನಿಧಾ ಇವ ಜನೀನಾಂ ಜಾಯಾನಾಂ ಸಂಭೋಗಕಾಲೇ ಶಯ್ಯಾಸು ಧಾರಯಿತಾರಃ ಪತಯೋ ಯಥಾ ಪ್ರಭೂತಸಂಭೋಗಪ್ರದಾನೇನ ಮೈಥುನೇಚ್ಛಾಮಪನಯಂತಿ ತದ್ವತ್ । ಕಿಂಚ ನರೋ ನೇತಾರೋಽಸ್ಮದಾದಯೋ ಯೇ ಯಜಮಾನಾ ಹೇ ತುವಿಜಾತ
-> ಬಹುರೂಪ । ರೂಪಂರೂಪಂ ಪ್ರತಿರೂಪೋ ಬಭೂವ । ಋ. ೬-೪೭-೧೮ । ಇತಿ ವಚನಾತ್ ।
+> ಬಹುರೂಪ । ರೂಪಂರೂಪಂ ಪ್ರತಿರೂಪೋ ಬಭೂವ । ಋ. ಸಂ. ೬-೪೭-೧೮ । ಇತಿ ವಚನಾತ್ ।
 > ಸರ್ವಾತ್ಮನ್ನಿಂದ್ರ ತೇ ತುಭ್ಯಂ ಪೂರ್ವೀರನಾದಿಕಾಲಪ್ರವೃತ್ತಾ ಗಿರಶ್ಚ ಸ್ತುತಿಲಕ್ಷಣಾ ವಾಚಶ್ಚಾನ್ನೆ
 > ಪುರೋಡಾಶಾದಿಹವಿಭಿಃ ಸಹ ಪ್ರತಿಶಿಕ್ಷಂತಿ ಪ್ರತಿಕಾಲಂ ಪ್ರಯಚ್ಛಂತಿ ತಾನಸ್ಮದೀಯಾನ್ಯಜಮಾನಾನ್ಸಾರಂ
 > ಗಮಯೇತಿ ಪೂರ್ವೇಣ ಸಂಬಂಧಃ ॥
@@ -30485,6 +31499,8 @@ tence) (your worshippers), who satisfy your desire (for the Soma), as
 husbands (the desire of their wives); and who (being) leaders of rites,
 multiform Indra, offer to you ancient praises with (sacrificial) viands.
 *[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -30541,6 +31557,8 @@ libations mixed wiht ghee be acceptable to (you) who are most excellent :
 (may the oblations be) sweet for your drinking.
 *[೧ ಸಂಹಿತಾಪಾಠಃ ೧]*
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಮಧ್ಯೋ ಅಸ್ಮಾ ಅಸಿಚನ್ನಮತ್ರಮಿಂದ್ರಾಯ ಪೂರ್ಣಂ ಸ ಹಿ ಸತ್ಯರಾಧಾಃ ।
@@ -30586,6 +31604,8 @@ libations mixed wiht ghee be acceptable to (you) who are most excellent :
 (Soma) (into the fire) for that Indra, for he is true (to his promises) of
 wealth : Indra, the friend of man, (distinguished) by his actions, and his
 prowess, is magnified throughout the expanse of the firmament.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -30965,6 +31985,9 @@ xxvii 50
 ಸೂಕ್ತದ ಮೊದಲಿನ ಒಂಭತ್ತು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಪ್ರ ದೇವತ್ರಾ
 ಬ್ರಹ್ಮಣೇ ಗಾತುರೇತ್ವಿತಿ ನವ ಹಿನೋತಾ ನೋ ಅಧ್ವರಂ ದೇವಯಜ್ಯೇತಿ ದಶಮೀಂ ಎಂಬ ಸೂತ್ರದಿಂದ
 (ಆ. ೫-೧) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೩೦ (ಮಂಡಲ ೧೦)
+
 ಸೂಕ್ತ—೩೦
 ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩॥ ಸೂಕ್ತ—೩೦ ॥
 ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೨೪, ೨೫, ೨೬॥
@@ -30976,6 +31999,8 @@ xxvii 50
 <!-- printed 794 -->
 *[794 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -31012,3 +32037,7600 @@ xxvii 50
 ಪ್ರಕಾಶಮಾನಗಳಾದ ವಸತೀವರ್ಯಾದ್ಯುದಕಗಳಿಗಭಿಮುಖವಾಗಿ ಹರಿದುಹೋಗಲಿ. ಮಿತ್ರನಿಗೂ ವರುಣನಿಗೂ,
 ಅಧಿಕವಾದ ವೇಗವುಳ್ಳ ಇಂದ್ರನಿಗೂ ಮಹತ್ತಾದ ಸೋಮರೂಪವಾದ ಅನ್ನವನ್ನು ಸಂಸ್ಕರಿಸಿ ಅರ್ಪಿಸು. ದೋಷ
 ರಹಿತವಾದ ಸ್ತುತಿಯನ್ನು ಅರ್ಪಿಸು.
+
+<!-- printed 795 -->
+*[ಆ. ೭. ಅ. ೭. ವ. ೨೪. ] ಋಗ್ವೇದಸಂಹಿರಾ 795]*
+
+*[English Translatian]*
+
+*English Translation.*
+
+(Honoured) by adoration, let the advancing Soma approach the
+celestial waters like the celerity of the mind : offer abundant (sacrificial)
+food, and perfect praise for the sake of Mitra and Varuna, and for (Indra)
+the rapid mover.
+*[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಧ್ವರ್ಯವೋ ಹವಿಷ್ಮಂತೋ ಹಿ ಭೂತಾಚ್ಛಾಪ ಇತೋಷತೀರುಶಂತಃ ।
+> ಅವ ಯಾಶ್ಚಷ್ಟೇ ಅರುಣಃ ಸುಪರ್ಣಸ್ತಮಾಸ್ಯಧ್ವಮೂರ್ಮಿಮದ್ವಾ
+> ಸುಹಸ್ತಾಃ ॥ ೨ ॥
+*[೧ ಪದಪಾರಂ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಅಧ್ವರ್ಯವಃ । ಹವಿಷ್ಮಂತಃ । ಹಿ । ಭೂತ । ಅಚ್ಛ । ಅಪಃ । ಇತ । ಉಶತೀಃ । ಉಶಂತಃ ।
+> ಅವ । ಯಾಃ । ಚಷ್ಟೇ । ಅರುಣಃ । ಸುಪರ್ಣಃ । ತಂ । ಆ । ಅಸ್ಯಧ್ವಂ । ಊರ್ಮಿ೦ । ಅದ್ಯ ।
+> ಸುಹಸ್ತಾಃ ॥ ೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಧ್ವರ್ಯವಃ ಯೂಯಂ ಹವಿಷ್ಮಂತೋ ಹ್ಯಭಿಷೋತವ್ಯೇನ ಸೋಮಲಕ್ಷಣೇನ ಹವಿಷಾ
+> ಯುಕ್ತಾಃ ಖಲು ಭೂತ । ಭವತ । ಕಿಂ ಚ ಹೇ ಉಶಂತಃ ಸೋಮಾಭಿಷವಂ ಕರ್ತುಂ ಕಾಮಯಮಾನಾ ಅಧ್ವರ್ಯವಃ ಯೂಯಮುಶತೀಃ ಸೋಮಾಭಿಷವಾಂಗಭಾವಮಭಿಲಷಂತೀರೇಕಧನಾಲಕ್ಷಣಾ
+> ಅಪೋಽಚ್ಛಾಭಿಮುಖ್ಯೇನೇತ । ಗಚ್ಛತ । ಅರುಣೋ ರಕ್ತವರ್ಣಃ ಸುಪರ್ಣಃ ಸುಪತನಃ ಸೋಮೋಽನಾಧಸ್ತಾದಂತರಿಕ್ಷೇ ಯಾ ಮೇಘೋದರಗತಾ ಅಪಶ್ಚಷ್ಟೇ ಪಶ್ಯತಿ ಹೇ ಸುಹಸ್ತಾಃ ಸೋಮಾಭಿಷವಾದಿಶೋಭನಕರ್ಮಕಾರಿತ್ವಾತ್ ಸುಮರ್ಣಮಯಪವಿತ್ರಾದ್ಯಲಂಕೃತಾಃ । ಯದ್ವಾ । ಶೋಭನಹಸ್ತಾಃ ।
+> ಏತೇಽಧ್ವರ್ಯವಃ ಯೂಯಮದ್ಯೇದಾನೀಂ ತಂ ತಾದೃಶಮೂರ್ಮಿಂ ಸೋಮಸಂಘಾತಂ ತಾಭಿರದ್ಧಿಃ
+> ಸಹಾಸ್ಯಧ್ವಂ । ಅಭಿಮುಖ್ಯೇನ ಸ್ಥಿತ್ವಾ ಮಹತಾದರೇಣ ದಶಾಪವಿತ್ರೆ ಶೋಧನಾರ್ಥಂ ಪ್ರಕ್ಷಿಪತ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಧ್ವರ್ಯವಃ—ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ । ಹವಿಷ್ಮಂತಃ ಹಿ—ನೀವು ಹವಿಸ್ಸುಗಳಿಂದ ಕೂಡಿದವರಾಗಿ ।
+ಭೂತ—ಆಗಿದ್ದೀರಿ । ಉಶಂತಃ—ಸೋಮವನ್ನು ಹಿಂಡಲು ಇಚ್ಛೆಯುಳ್ಳ ನೀವು । ಉಶತೀಃ—ಅದನ್ನೇ
+ಅಪೇಕ್ಷಿಸುವುದೂ ಮತ್ತು । ಅರುಣಃ—ಕೆಂಪುಬಣ್ಣವುಳ್ಳವನೂ । ಸುಪರ್ಣಃ—ಉತ್ತಮವಾದ ಪತನವುಳ್ಳವನೂ
+
+<!-- printed 796 -->
+*[796 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦.]*
+
+ಆದ ಸೋಮನು । ಅವ—ಅಂತರಿಕ್ಷದ ಅಧೋಭಾಗದಲ್ಲಿ । ಯಾಃ—ಮೇಘಸ್ಥವಾದ ಯಾವ ಉದಕಗಳನ್ನು ।
+ಚಷ್ಟೇ—ನೋಡುವನೋ ಅಂತಹುದೂ ಆದ । ಅಪಃ ಅಚ್ಛ—ಉದಕಗಳಿಗಭಿಮುಖವಾಗಿ । ಇತ—ಸರಿಯಿರಿ ।
+ಸುಹಸ್ತಾಃ—ಉತ್ತಮವಾದ ಹಸ್ತಗಳುಳ್ಳ ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ । ಆದ್ಯ—ಈಗ । ತಂ ಊರ್ಮಿಂ—
+ಅಲೆಗಳಂತಿರುವ ಆ ಸೋಮಸಂಘಾತವನ್ನು । ಅಸ್ಯಧ್ವಂ—ಉದಕಗಳೊಂದಿಗೆ ಸೇರಿಸಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ, ನೀವು ಹವಿಸ್ಸುಗಳಿಂದ ಕೂಡಿದವರಾಗಿ ಆಗಿದ್ದೀರಿ. ಸೋಮವನ್ನು ಹಿಂಡಲು
+ಇಚ್ಛೆಯುಳ್ಳ ನೀವು ಅದನ್ನೇ ಆಪೇಕ್ಷಿಸುವುದೂ, ಮತ್ತು ಕೆಂಪುಬಣ್ಣವುಳ್ಳವನೂ, ಉತ್ತಮವಾದ ಪತನವುಳ್ಳವನೂ
+ಆದ ಸೋಮನು ಅಂತರಿಕ್ಷದ ಅಧೋಭಾಗದಲ್ಲಿ ಮೇಘಸ್ಥವಾದ ಯಾವ ಉದಕಗಳನ್ನು ನೋಡುವನೋ ಅಂತಹುದೂ
+ಆದ ಉದಕಗಳಿಗಭಿಮುಖವಾಗಿ ಸರಿಯಿರಿ. ಉತ್ತಮವಾದ ಹಸ್ತಗಳುಳ್ಳ ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ, ಈಗ ಅಲೆಗಳಂತಿ
+ರುವ ಆ ಸೋಮಸಂಘಾತವನ್ನು ವಸತೀವರ್ಯಾದಿ ಉದಕಗಳೊಂದಿಗೆ ಸೇರಿಸಿರಿ.
+
+*English Translation.*
+
+Priests, since you are charged with the libation, desiring (to present it), proceed to the waters desiring (to receive it); to those (waters) which the red hawk beholds descending from the clouds: you, dextrous-handed (priests), cast to-day that flood (of Soma) into (the consecrated water).
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಧ್ವರ್ಯವೋಽಪ ಇತಾ ಸಮುದ್ರಮಪಾಂ ನಪಾತಂ ಹವಿಷಾ ಯಜಧ್ವಂ।
+> ಸ ವೋ ದದದೂರ್ಮಿಮದ್ಯಾ ಸುಪೂತಂ ತಸ್ಮೈ ಸೋಮಂ ಮಧುಮಂತಂ
+> ಸುನೋತ ॥ ೩ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಧ್ವರ್ಯವಃ । ಅಪಃ । ಇತ । ಸಮುದ್ರಂ । ಅಪಾಂ । ನಪಾತಂ । ಹವಿಷಾ । ಯಜಧ್ವಂ ।
+> ಸಃ । ವಃ । ದದತ್ । ಊರ್ಮಿಂ । ಅದ್ಯ । ಸುಪೂತಂ । ತಸ್ಮೈ । ಸೋಮಂ । ಮಧುಮಂತಂ ।
+> ಸುನೋತ ॥ ೩ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಧ್ವರ್ಯವಃ ಯೂಯಮಪ ಏಕಧನಾಲಕ್ಷಣಾನ್ಯುದಕಾನಿ । ಆಹರ್ತುಮಿತಿ ಶೇಷಃ !
+> ಸಮುದ್ರಮುದಧಿಸ್ಥಾನೀಯಂ ಜಲಾಶಯಮಿತ । ಗಚ್ಛತ । ಇದಾನೀಮುತ್ತರೋರ್ಧರ್ಚೋ
+
+<!-- printed 797 -->
+*[ಅ, ೭. ಅ. ೭. ವ. ೨೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 797]*
+
+> ವ್ಯಾಖಾಯತೇ ಪಶ್ಚಾದ್ವಿತೀಯಃ ಪಾದಃ । ಸ್ವಾರ್ಥಿಕೋಽಯಂ ಕ್ರಮಃ । ಅದ್ಯೇಽದಾನೀಂ ಸೋಽಪಾಂ
+> ನಪಾದ್ವೋ ಜಲಾಶಯಂ ಪ್ರತಿಗತೇಭ್ಯೋ ಯುಷ್ಮಭ್ಯಂ ಸುಪೂತಂ ಸುಶುದ್ಧ ಮೂರ್ಮಿಂ ಜಲಸಮೂಹಂ ದದತ್ । ದದಾತು । ಯೂಯಮಪಿ ತೇನ ಸಮೂಹೇನ ತಸ್ಮಾ ಅಪಾಂ ನಪಾತೇ ಮಧುಮಂತಂ
+> ಮಧುರಸ್ವಾದೂಪೇತಂ ಸೋಮಂ ಸುನೋತ । ಅಭಿಷುಣುತ । ಅಭಿಷುತೇನ ಸೋಮಾಖ್ಯೇನ ಹವಿಷಾಪಾಂ ನಪಾತಂ ವೃಷ್ಟಿಕರ್ಮಣ್ಯಧಿಕೃತಂ ದೇವಂ ಯಜಧ್ವಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಧ್ವರ್ಯವಃ—ಎಲೈ ಅಧ್ವರುಗಳೇ । ಅಪಃ—ಏಕಧನಾಉದಕಗಳನ್ನು ತರಲು । ಸಮುದ್ರಂ—ಸಮುದ್ರಕ್ಕೆ ।
+ಇತ—ಹೋಗಿರಿ । ಅಪಾಂ ನಪಾತಂ—ಅಪಾಂನಪಾತ್ಸಂಜ್ಞಕನಾದ ದೇವನನ್ನು । ಹವಿಷಾ—ಹವಿಸ್ಸಿನಿಂದ ।
+ಯಜಧ್ವಂ—ಪೂಜಿಸಿರಿ । ಅದ್ಯ—ಈಗ । ಸಃ—ಅಪಾಂನಪಾತ್ಸಂಜ್ಞಕನಾದ ದೇವನು । ವಃ—ನಿಮಗೆ ।
+ಸುಪ್ರೋತಂ—ಪರಿಶುದ್ಧವಾದ । ಊರ್ಮಿಂ—ಜಲಸಮೂಹವನ್ನು । ದದತ್—ಒದಗಿಸಲಿ । ತಸ್ಮೈ—
+ಅವನನ್ನುದ್ದೇಶಿಸಿ । ಮಧುಮಂತಂ—ಮಧುರರಸೋಪೇತವಾದ । ಸೋಮಂ—ಸೋಮವನ್ನು । ಸುನೋತ—
+ಹಿಂಡಿ ಅರ್ಪಿಸಿರಿ.
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ, ಏಕಧನಾಉದಕಗಳನ್ನು ತರಲು ಸಮುದ್ರಕ್ಕೆ ಹೋಗಿರಿ. ಅಪಾಂನಪಾತ್ಸಂಜ್ಞಕನಾದ
+ದೇವನನ್ನು ಹವಿಸ್ಸಿನಿಂದ ಪೂಜಿಸಿರಿ. ಆ ದೇವನು ನಿಮಗೆ ಪರಿಶುದ್ಧವಾದ ಜಲಸಮೂಹವನ್ನು ಒದಗಿಸಲಿ.
+ಅವನನ್ನುದ್ದೇಶಿಸಿ ಮಧುರರಸೋಪೇತವಾದ ಸೋಮವನ್ನು ಹಿಂಡಿ ಅರ್ಪಿಸಿರಿ.
+
+*English Translation.*
+
+Go, priests, to the reservoir ; worship the grandson of the waters with oblations : may he to-day give you the consecrated water, and you pour forth to him the sweet-flavoured Soma.
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೋ ಅನಿಧ್ಮೋ ದೀದಯದಪ್ಸ್ವಂ ತರ್ಯಂ ವಿಪ್ರಾಸ ಈಳತೇ ಅಧ್ವರೇಷು ।
+> ಅಪಾಂ ನಪಾನ್ನಧುಮತೀಠಪೋ ದಾ ಯಾಭಿರಿಂದ್ರೋ ವಾವೃಧೇ
+> ವೀರ್ಯಾಯ ॥ ೪ ॥
+
+<!-- printed 798 -->
+*[798 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩ ಸೂ. ೩೦.]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಯಃ । ಅನಿಧ್ಮಃ । ದೀದಯತ್ । ಅಪ್ಸು । ಅಂತಃ । ಯಂ । ವಿಪ್ರಾಸಃ । ಈಳತೇ । ಅಧ್ವರೇಷು ।
+> ಅಪಾಂ । ನಪಾತ್ । ಮಧುಮತೀಃ । ಅಪಃ । ದಾಃ । ಯಾಭಿಃ । ಇಂದ್ರಃ । ವವೃಧೇ । ವೀರ್ಯಾಯ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಉತ್ತರಾರ್ಧಸ್ಯ ಪ್ರತ್ಯಕ್ಷಕೃತತ್ವಾದೇಕವಾಕ್ಯತಾಯ್ಕೆ ಯುಷ್ಮಚ್ಛಬ್ದೇನ ಸಮಾನಾರ್ಥೋ ಭವಚ್ಛಬ್ದಃ ಪ್ರಥಮಾರ್ಧೇಽಧ್ಯಾಹಾರ್ಯಃ । ಯೋ ಭವಾನಪಾಂ ನಪಾದಸ್ವಂತರಪಾಂ ಮಧ್ಯೆ ಮೇಘಸ್ಥಾನೇಽನಿಧ್ಮಃ ಕಾಷ್ಠವರ್ಜಿತಃ ಸನ್ ದೀದಯತ್ ದೀವ್ಯತೇ ವಿಪ್ರಾಸೋ ಮೇಧಾವಿನ ಋತ್ವಿಗ್ಯಜಮಾನಾ ಅಧ್ವರೇಷು ಯಾಗೇಷು ಯಂ ಭವಂತಮೀಳತೇ ಸ್ತುವಂತಿ ಹೇ ಅಪಾಂ ನಪಾತ್ ಸ ತ್ವಂ
+> ಮಧುಮತಿರ್ಮಧುರರಸಯುಕ್ತಾ ಅಪೋ ವೃಷ್ಟಿಲಕ್ಷಣಾ ದಾಃ । ಅಸ್ಮಭ್ಯಂ ದೇಹಿ । ಯಾಭಿರ್ವಸತೀವರ್ಯೇಕಧನಾರೂಪಾಭಿಃ ಸೋಮೇನ ಮಿಶ್ರಿತಾಭಿರದ್ಭರಿಂದ್ರೋ ವೀರ್ಯಾಯ ವೃತ್ರವಧಾದಿಶೂರಕರ್ಮಣೇ ವವೃಧೇ ವರ್ಧತೇ ತಾ ಅಪೋ ದೇಹೀತಿ ಸಂಬಂಧಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಪಾಂ ನಪಾತ್—ಎಲೈ ಅಪಾಂ ನಪಾತ್ಸಂಜ್ಞಕನಾದ ದೇವನೇ । ಯಃ—ಯಾವ ನೀನು !
+ಅಪ್ಪು ಅಂತಃ—ಉದಕಗಳ ನಡುವೆ (ಮೇಘದಲ್ಲಿ) । ಅನಿಧ್ಮಃ—ಕಟ್ಟಿಗೆಗಳಾವುವೂ ಇಲ್ಲದೆ । ದೀದಯತ್—
+ಪ್ರಕಾಶಿಸುವೆಯೋ ಮತ್ತು । ಯಂ—ಯಾವ ನಿನ್ನನ್ನು । ವಿಪ್ರಾಸಃ—ಮೇಧಾವಿಗಳಾದ ಋತ್ವಿಕ್ಕುಗಳು ।
+ಅಧ್ವರೇಷು—ಯಜ್ಞಗಳಲ್ಲಿ । ಈಳತೇ—ಸ್ತುತಿಸುವರೋ ಅಂತಹ ನೀನು । ಯಾಭಿಃ—(ಸೋಮಮಿಶ್ರಿತವಾದ)
+ಯಾವ ಉದಕಗಳಿಂದ । ಇಂದ್ರಃ—ಇಂದ್ರನು । ವೀರ್ಯಾಯ—ವೀರ್ಯಕರ್ಮವನ್ನಾಚರಿಸಲು । ವವೃಧೇ—
+ಪುಷ್ಟನಾಗುವನೋ ಅಂತಹ । ಮಧುಮತೀಃ—ಮಾಧುರದಿಂದ ಕೂಡಿದ । ಅಪಃ—ಉದಕಗಳನ್ನು ।
+ದಾಃ—ನಮಗೆ ಕೊಡು.
+*[। ಭಾನುವಾರ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಪಾಂನಪಾತ್ಸಂಜ್ಞಕನಾದ ದೇವನೇ, ಯಾವ ನೀನು ಉದಕಗಳ ನಡುವೆ (ಮೇಘಪ್ರದೇಶದಲ್ಲಿ)
+ಕಟ್ಟಿಗೆಗಳಾವುವೂ ಇಲ್ಲದೆ ಪ್ರಕಾಶಿಸುವೆಯೋ ಮತ್ತು ಯಾವ ನಿನ್ನನ್ನು ಮೇಧಾವಿಗಳಾದ ಋತ್ವಿಕ್ಕೂಗಳು ಯಜ್ಞ
+ಗಳಲ್ಲಿ ಸ್ತುತಿಸುವರೋ ಅಂತಹ ನೀನು ಇಂದ್ರನಿಗೆ ವೀರ್ಯಕರ್ಮವನ್ನಾಚರಿಸಲು ಪುಷ್ಟಿಯನ್ನು ಕೊಡತಕ್ಕದ್ದೂ,
+ಮಾಧುರದಿಂದಕೂಡಿದ ದೂ ಸೋಮಕ್ಕೆ ಸೇರಿಸಲು ಯೋಗ್ಯವಾದುದೂ ಆದ ಉದಕಗಳನ್ನು ನಮಗೆ ಕೊಡು.
+
+*English Translation.*
+
+(He) who shines without fuel, in the midst of the waters, he whom
+the pious worship at sacrifices; grandson of the waters, give us those
+sweet waters by which (mixed with the Soma-juice), Indra is elevated to
+herosim.
+
+<!-- printed 799 -->
+*[ಆ. ೭ ಆ ೭ ವ. ೨೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 799]*
+
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಪಾಂನಪಾತ್ ಶಬ್ದದ ನಿರ್ವಚನವನ್ನು ಹೇಳುವಾಗ ಅದಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿ ಈ ಋಕ್ಕಿನ
+ನಿರುಕ್ತವನ್ನು ಹೇಳಿದ್ದಾರೆ.
+ಯೋಽನಿಧ್ಮೋ ದೀದಯದ್ದೀಪ್ಯಸೇಽಭ್ಯಂತರಮಪ್ಪು ಯಂ ಮೇಧಾವಿನಃ ಸ್ತುವಂತಿ ಯಜ್ಞೇಷು
+ಸೋಽಪಾನ್ನಪಾನ್ಮಧುಮತೀರಪೋ ದೇಹ್ಯಭಿಷವಾಯ ಯಾಭಿರಿಂದ್ರೋ ವರ್ಧತೇ
+ವೀರ್ಯಾಯ ವೀರಕರ್ಮಣೇ ॥
+(ನಿ. ೧೦-೧೯)
+ಅಪಾಂನಪಾತ್ ಎಂದರೆ ನೀರಿನ ಮಧ್ಯದಲ್ಲಿರುವ ಅಥವಾ ಉತ್ಪನ್ನವಾಗುವ ಅಗ್ನಿಯು ಅಥವಾ ಅಗ್ನಿಯ
+ರೂಪಾಂತರವು. ಈ ಅಪಾಂನಪಾತ್ ಎಂಬ ದೇವನು ನೀರಿನ ಮಧ್ಯದಲ್ಲಿ ಇದ್ಮಾದಿಗಳ (ಕಟ್ಟಿಗೆ ಅಥವಾ ಕಾಷ್ಠಗಳ)
+ಸಹಾಯವಿಲ್ಲದೆ ಬೆಳಗುತ್ತಾನೆ. ಇಂತಹ ಗುಣವಿಶಿಷ್ಟನಾದ ದೇವನನ್ನು ಮೇಧಾವಿಗಳಾದ ಋತ್ವಿಗಾದಿಜನರು
+ಯಜ್ಞಾದಿಗಳಲ್ಲಿ ಸ್ತುತಿಸುತ್ತಾರೆ. ಎಲೈ ಅಪಾಂನಪಾದ್ದೇವತೆಯೇ, ಇಂದ್ರನ ಶಕ್ತಿವೃದ್ಧಿಗಾಗಿ ನಾವು ಸೋಮರಸ
+ವನ್ನು ಹಿಂಡುವವರಾಗಿದ್ದೇವೆ. ಅದಕ್ಕಾಗಿ ನಮಗೆ ಸಿಹಿಯಾದ ಮತ್ತು ಮಧುವಿನಂತೆ ರುಚಿಕರವಾದ ಉದಕಗಳನ್ನು
+ಅನುಗ್ರಹಿಸು ಎಂದು ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು.
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯಾಭಿಃ ಸೋಮೋ ಮೋದತೇ ಹರ್ಷತೇ ಚ ಕಲ್ಯಾಣೀಭಿರ್ಯುಪತಿಭಿರ್ನ
+> ಮರ್ಯಃ ।
+> ತಾ ಅಧ್ವಯೋ ಅಪೋ ಅಚ್ಛಾ ಪರೇಹಿ ಯದಾಸಿಂಚಾ ಒಷಧೀಭಿಃ
+> ಪುನೀತಾತ್ ॥ ೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯಾಭಿಃ । ಸೋಮಃ । ಮೋದತೇ । ಹರ್ಷತೇ । ಚ । ಕಲ್ಯಾಣೀಭಿಃ । ಯುವತಿಭಿಃ । ನ । ಮರ್ಯಃ ।
+> ತಾಃ । ಅಧ್ವಯೋ ಇತಿ । ಅಪಃ । ಅಚ್ಛ । ಪರಾ । ಇಹಿ । ಯತ್ । ಆಸಿಂಚಾಃ । ಓಷಧೀಭಿಃ ।
+> ಪುನೀತಾತ್ ॥ ೫ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಭಿಷುತಃ ಸೋಮೋ ಯಾಭಿರ್ವಸತೀವರ್ಯೇಕಧನಾಖ್ಯಾಭಿರದ್ಭಿಃ ಸಹ ಮೋದತೇ ಮುದಿತೋ
+> ಭವತಿ ಹರ್ಷತೇ ಚ । ಪುನರುಕ್ತಿರಾದರಾರ್ಥಾ । ಅತ್ಯರ್ಥಂ ಹೃಷ್ಯತೀತ್ಯರ್ಥಃ । ತತ್ರ ದೃಷ್ಟಾಂತಃ ॥
+
+<!-- printed 800 -->
+*[800 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦]*
+
+> ಕಲ್ಯಾಣೀಭಿಃ ಕಮನೀಯಾಭಿರ್ಯುವತಿಭಿಸ್ತರುಣೀಭಿಃ ಸ್ತ್ರೀಭಿಃ ಸಹ ಮರ್ಯೋ ನ ಯಥಾ ಮನುಷ್ಯೋ
+> ಮೋದತೇ ತದ್ವತ್ । ಹೇ ಅಧ್ವರ್ಯೋ ತ್ವಂ ತಾಸ್ತಾದೃಶೀರಪೋಽಚ್ಛಾಭಿಪ್ರಾಪ್ತಂ ಪರೇಹಿ । ಜಲಾಶಯಂ ಪ್ರತಿಗಚ್ಛ । ಕಿಂಚ ಯದ್ಯದಾಹೃತಾಭಿಸ್ತಾಭಿರದ್ಧಿರಾಸಿಂಚಾಃ ಆ ಸಮಂತಾತ್ಸೋಮಾನಾಸಿಂಚಸಿ
+> ತದೌಷಧೀಭಿಃ ಸೋಮೈಃ ಸಹಾಪಶ್ಚ ಪುನೀತಾತ್ । ದಶಾಪವಿತ್ರೇಣ ಪುನೀಹಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಧ್ವರ್ಯೋ—ಎಲೈ ಅಧ್ವರುವೇ । ಮರ್ಯಃ—ಮಾನವನು । ಕಲ್ಯಾಣೀಭಿಃ—ಆಕರ್ಷಕವಾದ
+ರೂಪವುಳ್ಳ । ಯುವತಿಭಿಃ ನ—ಯುವತಿಯರೊಡಗೂಡಿದಾಗ ನಲಿದು ಹರ್ಷಪಡುವಂತೆ । ಸೋಮಃ—ಸೋಮ
+ದೇವನು । ಯಾಭಿಃ—ಯಾವ ಉದಕಗಳೊಡನೆ ಕೂಡಿ । ಮೋದತೇ—ಹರ್ಷಪಡುವನೋ । ಹರ್ಷತೇ ಚ—
+ನಲಿದು ಸಂತೋಷಪಡುವನೋ । ತಾಃ—ಅಂತಹ । ಅಪಃ ಅಚ್ಛ—ಉದಕಗಳಿಗಭಿಮುಖವಾಗಿ (ಅವನ್ನು
+ತರಲು) । ಪರೇಹಿ—ಸಮುದ್ರಕ್ಕೆ ಹೋಗು । ಯತ್—ಯಾವಾಗ (ಅವನ್ನು) । ಆಸಿಂಚಾಃ—ಸೋಮಗಳೊಡನೆ
+ಸೇರಿಸುವಿರೋ ಆಗ । ಓಷಧೀಭಿಃ—ಸೋಮಲತೆಗಳೊಡನೆ । ಪುನೀತಾತ್—ಅವನ್ನೂ ಶುದ್ಧಿಗೊಳಿಸು.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಧ್ವರ್ಯುವೇ, ಆಕರ್ಷಕವಾದ ರೂಪವುಳ್ಳ ಯುವತಿಯರೊಡಗೂಡಿದಾಗ ಮಾನವನು ನಲಿದು ಹರ್ಷ
+ಪಡುವಂತೆ ಸೋಮದೇವನು ಯಾವ ಉದಕಗಳೊಡನೆ ಕೂಡಿ ಹರ್ಷಪಡುವನೋ ಅಂತಹ ಉದಕಗಳಿಗಭಿಮುಖವಾಗಿ
+ಅವನ್ನು ತರಲು ಸಮುದ್ರಕ್ಕೆ ಹೋಗು. ಯಾವಾಗ ಅವನ್ನು ಸೋಮಗಳೊಡನೆ ಸೇರಿಸುವಿರೋ ಆಗ ಸೋಮಲತೆ
+ಗಳೊಡನೆ ಅವನ್ನು ಶುದ್ಧಿಗೊಳಿಸು.
+
+*English Translation.*
+
+Those waters with which Soma sports and delights as a man (sports)
+with elegant young damsels : you, priest, approach to obtain them : when
+you sprinkle them (in libation), purify (them with the filter) along with
+the plants (the Soma).
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಏವೇದ್ಯೂನೇ ಯುವತಯೋ ನಮಂತ ಯದೀಮುಶನ್ನುಶತೀರೇತ್ಯಚ್ಛ ।
+> ಸಂ ಜಾನತೇ ಮನಸಾ ಸಂ ಚಿಕಿತ್ಸೇಽಧ್ವರ್ಯವೋ ಧಿಷಣಾಪಶ್ಚ ದೇವೀಃ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಏವ । ಇತ್ । ಯೂನೇ । ಯುವತಯಃ । ನಮಂತ । ಯತ್ । ಈಂ । ಉಶನ್ । ಉಶತೀಃ । ಏತಿ ।
+> ಅಚ್ಛ ।
+> ಸಂ । ಜಾನತೇ । ಮನಸಾ । ಸಂ । ಚಿಕಿತ್ಸೇ । ಅಧ್ವರ್ಯವಃ । ಧಿಷಣಾ । ಅಪಃ । ಚ । ದೇವೀಃ ॥ ೬ ॥
+
+<!-- printed 801 -->
+*[ವ. ೭. ಆ. ೭. ವ. ೨೫.] ಋಗ್ವೇದಸಂಹಿತಾ 801]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯುವತಯಸ್ತುರುಣ್ಯಃ ಸ್ತ್ರಿಯೋ ಯೂನೇ ತರುಣಾಯ ನಮಂತ ಯಥಾ ಪ್ರಹ್ವೀಭವಂತಿ
+> ಏವೈವಂ ವಸತೀವರ್ಯೇಕಧನಾಖ್ಯಾ ಆಪಃ ಸೋಮಾಯ ಪ್ರಹ್ವೀಭವಂತಿ । ಯದ್ವಾ । ಯುವತಯಃ
+> ಸೋಮೇನ ಸಹ ಮಿಶ್ರಯಿತ್ರ್ಯ ಆಪೋ ಯೂನೇಽಭಿಷವಾದಿಕರ್ಮಣಾಮಾತ್ಮನಾ ಸಹ ಮಿಶ್ರಯಿತ್ರೆ
+> ಕರ್ತ್ರೇಽಧ್ವರ್ಯವೇ ನಮಂತ । ಪ್ರಹ್ವೀಭವಂತ್ಯೇವ । ಇದಿತಿ ಪೂರಣಃ । ಕದಾ । ಯದ್ಯದೋಶನ್ನಭಿಷವಾರ್ಥಂ ವಸತೀವರೀಃ ಕಾಮಯಮಾನಃ ಸೋಮಃ ಸೋಮಾಭಿಷವಂ ಕರ್ತುಂ ಕಾಮಯಮಾನೋಽಧ್ವರ್ಯುರ್ವೋಶತೀಃ ಸೋಮೇನ ಸಹ ಮಿಶ್ರಿಭಾವಮಭಿಷವಾದಿಕರ್ಮಾಂಗಭಾವಂ ಚ
+> ಕಾಮಯಮಾನಾ ಈಮೇನಾ ಅಪೋಽಚ್ಛ ಪ್ರಾಪ್ತುಮೇತಿ ಗಚ್ಛತಿ ತದೋಪನಮಂತೇ । ಅಧ್ವರ್ಯವೋ
+> ಧಿಷಣಾ ತದೀಯಾಸ್ತುತಿಲಕ್ಷಣಾ ವಾಕ್ಚ ದೇವೀರ್ದೇವ್ಯ ಆಪಶ್ಚ ಮನಸಾ ವಿಶಿಷ್ಟಯಾ ಬುದ್ಧ್ಯಾ ಸಂ
+> ಜಾನತೇ । ಸಮ್ಯಗ್ಜ್ಞಾನಂತಿ । ಸಂ ಚಿಕಿತ್ಸೇ । ಸ್ವಂ ಸ್ವಮಧಿಕಾರಂ ಪರಸ್ಪರೋಪಕಾರಂ ಚ ಚಕ್ಷುಷಾ
+> ಸಮ್ಯಕ್ ಪಶ್ಯಂತಿ ॥
+*[• ಪ್ರತಿಪದಾರ್ಥ •]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯುವತಯಃ—ತರುಣಿಯರು । ಯೂನೇ—ತಾವು ಇಚ್ಛಿಸಿದ ಯುವಕರಲ್ಲಿ । ನಮಂತ—ವಿಧೇಯ
+ರಾಗಿರುವಂತೆ । ಯತ್—ಯಾವಾಗ । ಉಶನ್—ವಸತೀವರಿಗಳನ್ನು ಇಚ್ಛಿಸಿದ ಸೋಮನು । ಈಂ ಉಶತೀಃ—
+ಅಚ್ಛ—ತನ್ನನ್ನಪೇಕ್ಷಿಸುವ ವಸತೀವರ್ಯಾದಿಗಳ ಹತ್ತಿರಕ್ಕೆ । ಏತಿ—ಸಮೀಪಿಸುವನೋ ಆಗ ಅವು ಅವನಿಗೆ
+ವಿಧೇಯವಾಗಿರುತ್ತವೆ । ಅಧ್ವರ್ಯವಃ—ಅಧ್ವರುಗಳೂ । ಧಿಷಣಾ—ಸ್ತುತಿರೂಪವಾದ ವಾಕ್ಕೂ । ದೇವೀಃ—
+ಪ್ರಕಾಶಮಾನಗಳಾದ । ಅಪಶ್ಚ—ಉದಕಗಳೂ । ಮನಸಾ—ಉತ್ತಮವಾದ ಬುದ್ಧಿಯೊಡನೆ ಸೇರಿ ।
+ಸಂ ಜಾನತೇ—ಒಟ್ಟಿಗೆ ತಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ಅರಿಯುತ್ತವೆ । ಸಂ ಚಿಕಿತ್ಸೇ—ಪರಸ್ಪರ ಉಪಕಾರಕತ್ವವನ್ನೂ
+ತಿಳಿಯುತ್ತವೆ.
+*[॥ ಭಾಷಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ತರುಣಿಯರು ತಾವು ಇಚ್ಛಿಸಿದ ಯುವಕರಲ್ಲಿ ವಿಧೇಯರಾಗಿರುವಂತೆ, ವಸತೀವರಿಗಳನ್ನು ಇಚ್ಛಿಸಿದ
+ಸೋಮನು ತನ್ನನ್ನಪೇಕ್ಷಿಸುವ ವಸತೀವರ್ಯಾದಿಗಳ ಹತ್ತಿರಕ್ಕೆ ಸಮೀಪಿಸುವಾಗ ಅವು ಅವನಿಗೆ ವಿಧೇಯಗಳಾಗಿರುತ್ತವೆ.
+ಅಧ್ವರುಗಳೂ, ಸ್ತುತಿರೂಪವಾದ ವಾಕ್ಕೂ ಪ್ರಕಾಶಮಾನಗಳಾದ ಉದಕಗಳೂ ಉತ್ತಮವಾದ ಬುದ್ಧಿಯೊಡನೆ ಸೇರಿ
+ಒಟ್ಟಿಗೆ ತಮ್ಮ ಕರ್ತವ್ಯವನ್ನು ಅರಿಯುತ್ತವೆ. ಪರಸ್ಪರ ಉಪಕಾರಕತ್ವವನ್ನೂ ತಿಳಿಯುತ್ತವೆ.
+
+*English Translation.*
+
+Verily as young damsels welcome a youth, when desiring (them), he comes to them desiring (him), so the priests and their praise and divine waters agree in mind and contemplate (their mutual assistance).
+xxvii 51
+
+<!-- printed 802 -->
+*[802 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂಕ್ತ. ೩೦]*
+
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೋ ವೋ ವೃತಾಭ್ಯೋ ಅಕೃಣೋದು ಲೋಕಂ ಯೋ ವೋ ಮಹ್ಯಾ
+> ಅಭಿಶಸ್ತೇರಮುಂಚತ್ ।
+> ತಸ್ಮಾ ಇಂದ್ರಾಯ ಮಧುಮಂತಮೂರ್ಮಿಂ ದೇವಮಾದನಂ ಪ್ರ ಹಿಣೋತನಾಪಃ ॥ ೭ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯಃ । ವಃ । ವೃತಾಭ್ಯಃ । ಅಕೃಣೋತ್ । ಊಂ ಇತಿ । ಲೋಕಂ । ಯಃ । ವಃ । ಮಹ್ಯಾಃ । ಅಭಿಶಸ್ತ್ರೇಃ । ಅಮುಂಚತ್ ।
+> ತಸ್ಮೈ । ಇಂದ್ರಾಯ । ಮಧುಮಂತಂ । ಊರ್ಮಿಂ । ದೇವಮಾದನಂ । ಪ್ರ । ಹಿಣೋತನ । ಆಪಃ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯ ಇಂದ್ರೋ ವೃತಾಭ್ಯೋ ಮೇಘೈರಾವೃತಾಭ್ಯಃ ಪರಿವೇಷ್ಟಿತಾಭ್ಯೋ ವೋ ಯುಷ್ಮಭ್ಯಮದ್ಭ್ಯೋ ಲೋಕಂ ಮೇಘೋದರಾನ್ನಿರ್ಗಮನಮಾರ್ಗಮಕೃಣೋತ್ ಅಕರೋತ್ । ಉ ಇತಿ
+> ಪೂರಣಃ । ಕಿಂಚ । ಯೋ ವೋ ಯುಷ್ಮಾನಪೋ ಮಹ್ಯಾ ಮಹತ್ಯಾ ಅಭಿಶಸ್ತೇರ್ಮೇಘಪರಿವೇಷ್ಟನಾಭಿಹಿಂಸನಾದಮುಂಚತ್ ಮೋಚಿತವಾನ್ । ಹೇ ಆಪಃ ಯೂಯಂ ತಸ್ಮೈ ತಾದೃಶಾಯೇಂದ್ರಾಯ
+> ಮಧುಮಂತಂ ಮಧುರಸ್ವಾದುಯುಕ್ತಂ ದೇವಮಾದನಮಿಂದ್ರಾದಿದೇವಾನಾಂ ಸೋಮೇನ ಸಹ ಮಿಶ್ರೀಭೂಯ ತರ್ಪಯಿತಾರಮೂರ್ಮಿಮಪ್ಪಂಘಾತಂ ಪ್ರ ಹಿಣೋತನ । ಅಸ್ಯದ್ಯಜ್ಞಂ ಪ್ರತಿ ಗಮಯತ ।
+> ಸೋಮಾಭಿಷವಕರ್ಮಾಂಗಭಾವಾಯ ಪ್ರಸ್ಥಾಪಯತ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಆಪಃ—ಎಲೈ ಉದಕಗಳೇ । ಯಃ—ಯಾವ ಇಂದ್ರನು । ವೃತಾಭ್ಯಃ—ಮೇಘಗಳಿಂದ ಆವರಿಸಲ್ಪಟ್ಟ ।
+ವಃ—ನಿಮಗೆ । ಲೋಕಂ—ಮೇಘಗಳ ಉದರದಿಂದ ಹೊರಕ್ಕೆ ಬರುವ ಮಾರ್ಗವನ್ನು । ಅಕೃಣೋತ್—
+ಉಂಟುಮಾಡಿದನೋ । ಯಃ—ಯಾರು । ವಃ—ನಿಮ್ಮನ್ನು । ಮಹ್ಯಾಃ—ಅತ್ಯಧಿಕವಾದ । ಅಭಿಶಸ್ತೇಃ—
+ಹಿಂಸೆಯಿಂದ । ಅಮುಂಚತ್—ಬಿಡಿಸಿದನೋ । ತಸ್ಮೈ—ಅಂತಹ । ಇಂದ್ರಾಯ—ಇಂದ್ರನಿಗೆ ।
+ಮಧುಮಂತಂ—ಮಧುರವಾದುದೂ । ದೇವಮಾದನಂ—ದೇವತೆಗಳಿಗೆ ತೃಪ್ತಿಕರವಾದುದೂ ಆದ ।
+ಊರ್ಮಿಂ—ಉದಕಸಂಘಾತವನ್ನು । ಪ್ರ ಹಿಣೋತನ—ಒದಗಿಸಿರಿ.
+
+<!-- printed 803 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 803]*
+
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಉದಕಗಳೇ, ಯಾವ ಇಂದ್ರನು ಮೇಘಗಳಿಂದ ಆವರಿಸಲ್ಪಟ್ಟ ನಿಮಗೆ ಮೇಘಗಳ ಉದರದಿಂದ
+ಹೊರಕ್ಕೆ ಬರುವ ಮಾರ್ಗವನ್ನು ಉಂಟುಮಾಡಿದನೋ, ಯಾರು ನಿಮ್ಮನ್ನು ಅತ್ಯಧಿಕವಾದ ಹಿಂಸೆಯಿಂದ
+ಬಿಡಿಸಿದನೋ ಅಂತಹ ಇಂದ್ರನಿಗೆ ಮಧುರವಾದುದೂ, ದೇವತೆಗಳಿಗೆ ತೃಪ್ತಿಕರವಾದುದೂ ಆದ ಉದಕಸಂಘಾತವನ್ನು
+ಒದಗಿಸಿರಿ.
+
+*English Translation.*
+
+Present, waters, the sweet-flavoured god-exhilarating mixture to
+that Indra who has made an issue for you when enveloped (by the clouds);
+who has liberated you from a great calamity.
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರಾಸ್ಮೈ ಹಿನೋತ್ತ ಮಧುಮಂತಮೂರ್ಮಿಂ ಗರ್ಭೋ ಯೋ ವಃ
+> ಸಿಂಧವೋ ಮಧ್ವ ಉತ್ಸಃ ।
+> ಧೃತಪೃಷ್ಠಮೀಡ್ಯಮಧ್ವರೇಷ್ವಾಪೋ ರೇವತೀಃ ಶೃಣುತಾ ಹವಂ ಮೇ ॥೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರ । ಅಸ್ಮೈ । ಹಿನೋತ । ಮಧುಮಂತಂ । ಊರ್ಮಿ೦ । ಗರ್ಭಃ । ಯಃ । ವಃ । ಸಿಂಧವಃ । ಮಧ್ವಃ ।
+> ಉತ್ಸಃ ।
+> ಘೃತಪೃಷ್ಠಂ । ಈಡ್ಯಂ । ಅಧ್ವರೇಷು । ಆಪಃ । ರೇವತೀಃ । ಶೃಣುತ । ಹವಂ । ಮೇ ॥ ೮ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅತ್ರ ಯಚ್ಛಬ್ದಸಂಬಂಧಾದ್ವಿತೀಯಃ ಪಾದಃ ಪೂರ್ವಂ ವ್ಯಾಖ್ಯೇಯಃ । ಹೇ ಸಿಂಧವಃ
+> ಸ್ಯಂದನಶೀಲಾ ಆಪಃ ವೋ ಯುಷ್ಮಾಕಂ ಯೋ ಗರ್ಭೋ ಮಧ್ವೋ ಮಧುರರಸಸ್ಯೋತ್ಸ ಉತ್ಸ್ಬಂದನಃ
+> ಪ್ರಸ್ರವಣಃ । ಯಚ್ಛಬ್ದಯೋಗಾತ್ತಚ್ಛಬ್ದೋಽಧ್ಯಾಹಾರ್ಯಃ । ತಂ ಮಧುಮಂತಂ ಮಧುರರಸೋಪೇತ.
+> ಮೂರ್ಮಿಮಪ್ಪಂಘಾತಂ । ಸಾರಮಿತ್ಯರ್ಥಃ । ಅಸ್ಮಾ ಅಸ್ಯೇಂದ್ರಸ್ಯಾರ್ಥಾಯ ಪ್ರ ಹಿನೋತ ।
+> ಪ್ರ ಹಿಣುತ ॥
+
+<!-- printed 804 -->
+*[804 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦.]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸಿಂಧವಃ—ಪ್ರವಾಹರೂಪಗಳಾದ ಎಲೈ ಉದಕಗಳೇ । ಯಃ—ಯಾರು । ವಃ—ನಿಮಗೆ । ಗರ್ಭಃ—
+ಗರ್ಭರೂಪನೋ ಮತ್ತು । ಮಧ್ವಃ—ಮಧುರವಾದ ರಸಕ್ಕೆ । ಉತ್ಸಃ—ಬುಗ್ಗೆಯಂತಿರುವನೋ । ಅಸ್ಮೈ—
+ಅಂತಹ ಇಂದ್ರನಿಗೆ । ಅಧ್ವರೇಷು—ಯಜ್ಞಗಳಲ್ಲಿ । ಘೃತಪೃಷ್ಠಂ—ಆಜ್ಯದಿಂದ ಲೇಪನಮಾಡಿದ ಪೃಷ್ಠವುಳ್ಳದ್ದೂ ।
+ಈಡ್ಯಂ—ಪ್ರಶಸ್ಯವಾದುದೂ । ಮಧುಮಂತಂ—ಮಧುರರಸಯುಕ್ತವಾದುದೂ ಆದ । ಊರ್ಮಿಂ—
+ಜಲಸಂಘಾತವನ್ನು । ಪ್ರ ಹಿನೋತ—ಅರ್ಪಿಸಿರಿ । ರೇವತೀಃ—ಧನವಂತರಾದ । ಆಪಃ—ಎಲೈ ಉದಕಗಳೇ ।
+ಮೇ—ನನ್ನ । ಹವಂ—ಆಹ್ವಾನವನ್ನು । ಶೃಣುತ—ಕೇಳಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಪ್ರವಾಹರೂಪಗಳಾದ ಎಲೈ ಉದಕಗಳೇ, ಯಾರು ನಿಮಗೆ ಗರ್ಭರೂಪನೋ ಮತ್ತು ಮಧುರವಾದ ರಸಕ್ಕೆ
+ಬುಗ್ಗೆಯಂತೆ ಇರುವನೋ ಅಂತಹ ಇಂದ್ರನಿಗೆ ಯಜ್ಞಗಳಲ್ಲಿ ಆಜ್ಯದಿಂದ ಲೇಪನಮಾಡಿದ ಪೃಷ್ಠವುಳ್ಳದ್ದೂ, ಪ್ರಶಸ್ಯ
+ವಾದುದೂ, ಮಧುರರಸಯುಕ್ತವಾದುದೂ ಆದ ಜಲಸಂಘಾತವನ್ನು ಅರ್ಪಿಸಿರಿ. ಧನವಂತರಾದ ಎಲೈ ಉದಕಗಳೇ,
+ನನ್ನ ಆಹ್ವಾನವನ್ನು ಕೇಳಿರಿ.
+
+*English Translation.*
+
+Send forth, rivers, the sweet-flavoured beverage to him who is your germ, a well of the sweet (Soma-juice), the beverage which is mixed with butter adorable at sacrifices : hear, opulent waters my invocation.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತಂ ಸಿಂಧವೋ ಮತ್ಸರಮಿಂದ್ರಪಾನಮೂರ್ಮಿಂ ಪ್ರ ಹೇತ ಯ ಉಭೇ
+> ಇಯರ್ತಿ ।
+> ಮದಚ್ಯುತಮೌಶಾನಂ ನಭೋಜಾಂ ಪರಿ ತ್ರಿತಂತು ವಿಚರಂತಮುತ್ಸಂ ॥೯॥
+
+*ಪದಪಾಠಃ*
+
+> ತಂ । ಸಿಂಧವಃ । ಮತ್ಸರಂ । ಇಂದ್ರಪಾನಂ । ಊರ್ಮಿಂ । ಪ್ರ । ಹೇತ । ಯಃ । ಉಭೇ ಇತಿ ।
+> ಇಯರ್ತಿ ।
+> ಮದ್ವಚ್ಯುತಂ । ಔಶಾನಂ । ನಭಃಜಾಂ । ಪರಿ । ತ್ರಿತಂತುಂ । ವಿಚರಂತಂ । ಉತ್ಸ೦ ॥ ೯ ॥
+
+<!-- printed 805 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೫] ಋಗ್ವೇದಸಂಹಿತಾ 805]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸಿಂಧವಃ ಸ್ಯಂದನಶೀಲಾ ಆಪಃ ಯೋ ಯುಷ್ಮದೀಯಃ ಸಾರಭೂತಃ ಸಮೂಹ ಉಭೇ
+> ಅಸ್ಮಭ್ಯಂ ದೃಷ್ಟಾದೃಷ್ಟಫಲೇ ದಾತಾ ಸನ್ನಿಯರ್ತಿ ಕರ್ಮಾಂಗಭಾವಂ ಪ್ರತಿಪದ್ಯತೇ ಮತ್ಸರಂ ಮಾದಯಿತಾರಮಿಂದ್ರಾದಿದೇವಾನಾಂ ತರ್ಪಯಿತಾರಮಿಂದ್ರಪಾನಂ ದೇವಾನಾಂ ಪ್ರಮುಖೇನೇಂದ್ರೇಣ
+> ಪಾನೀಯಂ ತಂ ತಾದೃಶಮೂರ್ಮಿಮುದಕಸಮೂಹಂ ಪ್ರ ಹೇತ । ಪ್ರಗಮಯತ । ಅಸ್ಮದ್ಯಜ್ಞಂ ಪ್ರತಿ
+> ಪ್ರೇರಯತ । ಕೀದೃಶಂ । ಮದಚ್ಯುತಂ ಮದಸ್ಯ ಚ್ಯಾವಕಮೌಶಾನಂ ಸೋಮೇನ ಸಹ ಮಿಶ್ರೀಭಾವಂ
+> ಕಾಮಯಮಾನಂ ನಭೋಜಾಂ ನಭಸ್ಯಂತರಿಕ್ಷೇ ವೃಷ್ಟಿರೂಪೇಣ ಜಾತಂ ಪರಿ ಸರ್ವತಸ್ತ್ರಿತಂತುಂ
+> ತ್ರಯಾಣಾಂ ಲೋಕಾನಾಂ ತನಿತಾರಂ ವಿಸ್ತಾರಯಿತಾರಂ ವಿಚರಂತಂ ಯಜ್ಞಪಾತ್ರೆಷು ಗಚ್ಛಂತಮುತ್ಸಮುತ್ಸ್ಯಂದನಂ । ತರ್ಪಿತಾರಂ ದೇವಾನ್ಮತ್ತೌರ್ಧಂ ಗಂತಾರಮಿತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸಿಂಧವಃ—ಪ್ರವಹಿಸುವ ಎಲೈ ಉದಕಗಳೇ । ಯಃ—ಯಾವ ನಿಮ್ಮ ಜಲಸಮೂಹವು । ಉಭೇ—
+ದೃಷ್ಟಾದೃಷ್ಟರೂಪವಾದ ಎರಡು ಫಲಗಳನ್ನು । ಇಯರ್ತಿ—ಒದಗಿಸುವುದೋ ಅಂತಹ । ಮತ್ಸರಂ—ಹರ್ಷಕಾರಕ
+ವಾದುದೂ । ಇಂದ್ರಪಾನಂ—ಇಂದ್ರನ ಪಾನಕ್ಕೆ ಯೋಗ್ಯವಾದುದೂ । ಮದಚ್ಯುತಂ—ಮದಕಾರಕವಾದುದೂ ।
+ಔಶಾನಂ—ಸೋಮನೊಡನೆ ಸಂಬಂಧವನ್ನಿಚ್ಛಿಸುವುದೂ । ನಭೋಜಾಂ—ಅಂತರಿಕ್ಷದಲ್ಲಿ ಉತ್ಪನ್ನವಾದುದೂ ।
+ಪರಿ—ಸರ್ವತ್ರ । ತ್ರಿತಂತುಂ—ಮೂರು ಲೋಕಗಳನ್ನು ವಿಸ್ತರಿಸುವಂತೆ ಮಾಡುವುದೂ । ವಿಚರಂತಂ—
+ಯಜ್ಞಪಾತ್ರೆಗಳಲ್ಲಿ ಪ್ರವೇಶಿಸುವುದೂ । ಉತ್ಸಂ—ಬುಗ್ಗೆಯಂತಿರುವುದೂ ಆದ । ತಂ ಊರ್ಮಿಂ—ಆ
+ಜಲಸಂಘಾತವನ್ನು । ಪ್ರ ಹೇತ—ಕಳುಹಿಕೊಡಿರಿ.
+*[॥ ಭಾಷಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಪ್ರವಾಹಾತ್ಮಕಗಳಾದ ಎಲೈ ಉದಕಗಳೇ, ಯಾವ ನಿಮ್ಮ ಜಲಸಮೂಹವು ದೃಷ್ಟಾದೃಷ್ಟರೂಪವಾದ ಎರಡು
+ಫಲಗಳನ್ನೂ ಒದಗಿಸುವುದೋ ಅಂತಹ ಹರ್ಷಕಾರಕವಾದುದೂ, ಇಂದ್ರನ ಪಾನಕ್ಕೆ ಯೋಗ್ಯವಾದುದೂ, ಮದಕಾರಕ
+ವಾದುದೂ, ಸೋಮನೊಡನೆ ಸಂಬಂಧವನ್ನಿಚ್ಛಿಸುವುದೂ ಅಂತರಿಕ್ಷದಲ್ಲಿ ಉತ್ಪನ್ನವಾದುದೂ ಸರ್ವತ್ರ ಮೂರು
+ಲೋಕಗಳನ್ನು ವಿಸ್ತರಿಸುವಂತೆ ಮಾಡುವುದೂ ಯಜ್ಞಪಾತ್ರೆಗಳಲ್ಲಿ ಪ್ರವೇಶಿಸುವುದೂ, ಬುಗ್ಗೆಯಂತಿರುವುದೂ ಆದ
+ಜಲಸಂಘಾತವನ್ನು ಕಳುಹಿಕೊಡಿರಿ.
+
+*English Translation.*
+
+Send, rivers, (to our sacrifice), that exilarating wave, the beverage
+of Indra, which sends us both (kinds of fruit), exciting exhilaration,
+desirous, (of mixing with the Soma), generated in the firmament ; spread-
+ing through the three (worlds), flowing (amidst the vessels of sacrifice), a
+well (of satisfaction to the gods).
+
+<!-- printed 806 -->
+*[೯೦ಗ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦]*
+
+*[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆವರ್ವೃತತೀರಧ ನು ದ್ವಿಧಾರಾ ಗೋಷುಯುಧೋ ನ ನಿಯವಂ ಚರಂತೀಃ॥
+> ಋಷೇ ಜನಿತ್ರೀರ್ಭುವನಸ್ಯ ಪತ್ನೀರಪೋ ವಂದಸ್ವ ಸವೃಧಃ ಸಯೋನೀಃ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಆವರ್ವೃತತೀಃ । ಅಧ । ನು । ದ್ವಿಧಾರಾಃ । ಗೋಷುಯುಧಃ । ನ । ನಿಯವಂ । ಚರಂತೀಃ ।
+> ಋಷೇ । ಜನಿತ್ರೀಃ । ಭುವನಸ್ಯ । ಪತ್ನಿಃ । ಅಪಃ । ವಂದಸ್ವ । ಸವೃಧಃ । ಸಯೋನೀಃ ॥ ೧೦ ॥
+*[೧ ಸಾಯುಜಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಪೋನಪ್ರೀಯ ಏಕಧನಾಸ್ವಾವೃತ್ತಾಸ್ವಾವರ್ವೃತತೀರಿತ್ಯೇಷಾ । ಸೂತ್ರಿತಂ ಚ । ಆವರ್ವೃತತೀರಧ ನು ದ್ವಿಧಾರಾ ಇತ್ಯಾವೃತ್ತಾಸ್ವೇಕಧನಾಸು । ಆ. ೫.೧ । ಇತಿ । ತತ್ರೈವ ಹಿನೋತಾ ನ ಇತ್ಯೇಷಾ।
+> ಸೂತ್ರಂ ಪೂರ್ವಮುದಾಹೃತಂ ॥
+> ಅಧಾಥಾನಂತರಂ ಗೋಷುಯುಧೋ ನ । ಗೋಷ್ಟಪ್ಪು ನಿಮಿತ್ತಭೂತಾಸು ಮೇಘೈಃ ಸಹ
+> ಯುಧ್ಯತ ಇತಿ ಗೋಷುಯುದಿಂದ್ರಃ ; ತಸ್ಯ ಯಥಾ ವೃಷ್ಟಿಲಕ್ಷಣಾ ಅಪೋ ದ್ವಿಧಾರಾಃ । ದ್ವಿಶಬ್ದೋಽತ್ರಾನೇಕತ್ರವಾಚೀ । ಅನೇಕಧಾರಾಃ । ಅಪರ್ಯಂತಧಾರಾ ಇತ್ಯರ್ಥಃ । ಅಸ್ಮಾಕಮಪ್ಯೇವಂಸ್ಥಿತಾ
+> ಆವರ್ವೃತತೀರಾವೃತ್ತಾ ನಿಯವಂ ಸೋಮಂ ಪ್ರತಿ ನಿಶ್ಚಯೇನ ಮಿಶ್ರೀಭಾವಂ ಚರಂತೀರ್ಗಚ್ಛಂತೀಭುವನಸ್ಯ ಲೋಕಸ್ಯ ಜನತ್ರೀರ್ಜನಯಿತ್ರಿಃ ಪತ್ನೀಃ ಪಾಲಯಿತ್ರಿಶ್ಚ ಸವೃಧಃ ಸಹ ಸೋಮಸ್ಯ ವರ್ಧಯಿತ್ರಿಃ ಸಯೋನೀಃ ಸೋಮೇನ ಸಹ ಸಮಾನಸ್ಥಾನಾ ಹೇ ಋಷೇ ಮದೀಯಾಂತರಾತ್ಮನ್
+> ಅಧ್ವಯೋ ವಾ ತ್ವಮೇವಂಭೂತಾ ಅಪೋ ನು ಕ್ಷಿಪ್ರಂ ವಂದಸ್ವ । ಸ್ತುಹೀತ್ಯರ್ಥಃ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಋಷೇ—ಎಲೈ ಋಷಿಯೇ । ದ್ವಿಧಾರಾಃ—ಅನೇಕ ಪ್ರವಾಹಗಳುಳ್ಳವರೂ । ಆ ವರ್ವೃತತೀಃ—
+ಪುನಃ ಹಿಂತಿರುಗುವರೂ । ನಿಯವಂ—ನಿಶ್ಚಯವಾಗಿಯೂ । ಮಿಶ್ರೀಭಾವಂ—ಸೋಮನೊಡನೆ ಒಂದಾಗುವಿಕೆ
+ಯನ್ನು । ಚರಂತೀಃ—ಹೊಂದುವವರೂ । ಭುವನಸ್ಯ—ಲೋಕಕ್ಕೆ । ಜನಿತ್ರೀಃ—ಉತ್ಪಾದಕಿಯರೂ ।
+ಪತ್ನೀಃ—ಪಾಲಕಿಯರೂ । ಸವೃಧಃ—ಸೋಮನನ್ನು ಪುಷ್ಟಿಗೊಳಿಸುವವರೂ । ಸಯೋನೀಃ—ಸೋಮನೊಡನೆ
+ಸಹೋತ್ಪನ್ನರೂ ಆದ । ಅಪಃ—ಉದಕಗಳನ್ನು । ನು—ಕ್ಷಿಪ್ರವಾಗಿ । ಗೋಷುಯುಧೋ ನ—ಗೋವುಗಳಿಗಾಗಿ
+ಯುದ್ಧಮಾಡುವ ಇಂದ್ರನಂತೆ । ವಂದಸ್ವ—ನಮಸ್ಕರಿಸು.
+
+<!-- printed 807 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೬.] ಋಗ್ವೇದಸಂಹಿತಾ 807]*
+
+*[stray line as supplied: ~~]*
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಋಷಿಯೇ, ಅನೇಕ ಪ್ರವಾಹಗಳುಳ್ಳವರೂ, ಪುನಃ ಹಿಂತಿರುಗುವವರೂ, ನಿಶ್ಚಯವಾಗಿಯೂ
+ಸೋಮನೊಡನೆ ಒಂದಾಗುವವರೂ, ಲೋಕವನ್ನು ನಿರ್ಮಿಸಿ ಪಾಲಿಸುವವರೂ, ಸೋಮನನ್ನು ಪುಷ್ಟಿಗೊಳಿಸು
+ವವರೂ, ಸೋಮನೊಡನೆ ಸಹೋತ್ಪನ್ನರೂ ಆದ ಉದಕಗಳನ್ನು ಕ್ಷಿಪ್ರವಾಗಿ ಗೋವುಗಳಿಗಾಗಿ ಯುದ್ಧ ಮಾಡುವ
+ಇಂದ್ರನಂತೆ ನಮಸ್ಕರಿಸು.
+
+*English Translation.*
+
+Praise, Rishi, the waters like (those) of the cloud-warring Indra, falling in many showers returning, flowing to mix (with the Soma), the mothers of the world and its protectresses, augmenting and combining (with the Soma).
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಪೋನಪ್ರೀಯವೆಂಬ ಯಜ್ಞಾಂಗಕರ್ಮದಲ್ಲಿ ಏಕಧನಾ ಎಂಬ ಪಾತ್ರೆಗಳಲ್ಲಿ ಉದಕಗಳನ್ನು ಜಲಾಶಯದಿಂದ
+ತರುವಾಗ ಆವರ್ವೃತತೀಃ ಎಂಬ ಈ ಋಕ್ಕಿನ ವಿನಿಯೋಗವಿರುವು ದೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ ಆವರ್ವೃತತೀರಧ ದ್ವಿಧಾರಾ ಇತ್ಯಾವೃತ್ತಾಸ್ವೇಕಧನಾಸು ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು
+ಆ ಸಂದರ್ಭದಲ್ಲಿಯೇ ಹಿನೋತಾ ನಃ ಎಂಬ ಇದರ ಮುಂದಿನ ಋಕ್ಕನ್ನೂ ಪಠಿಸಬೇಕು. ಸೂತ್ರವನ್ನು ಹಿಂದೆಯೇ
+ಉದಾಹರಿಸಲಾಗಿದೆ.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಹಿನೋತಾ ನೋ ಅಧ್ವರಂ ದೇವಯಜ್ಯಾ ಹಿನೋತ ಬ್ರಹ್ಮ ಸನಯೇ
+> ಧನಾನಾಂ ।
+> ಋತಸ್ಯ ಯೋಗೇ ವಿ ಷ್ಯಧ್ವಮೂಧಃ ಶ್ರುಷ್ಟೀವರೀರ್ಭೂತನಾಸ್ಮಭ್ಯಮಾಪಃ ॥ ೧೧ ॥
+*[೧ ಪದಪಾರಂ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಹಿನೋತ । ನಃ । ಅಧ್ವರಂ । ದೇವಯಜ್ಯಾ । ಹಿನೋತ । ಬ್ರಹ್ಮ । ಸನಯೇ । ಧನಾನಾಂ ।
+> ಯತಸ್ಯ । ಯೋಗೇ । ವಿ । ಸ್ಯಧ್ವಂ । ಊಧಃ । ಶ್ರುಷ್ಟೀಽವರಿಃ । ಭೂತನ । ಅಸ್ಮಭ್ಯಂ । ಆಪಃ ॥ ೧೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಋತ್ವಿಜಃ ಹಿನೋತ ಪ್ರಹಿಣುತ ಪ್ರಗಮಯತ ಪ್ರೋತ್ಸರ್ಪಯತೈತಮಧ್ವರಂ ಯಜ್ಞಂ
+> ದೇವಯಜ್ಯಾ ದೇವಯಜ್ಯಾಯ್ಯೈ ದೇವಯಜನಾರ್ಥಂ । ಕಿಂಚ ಪ್ರಹಿಣುತ ಬ್ರಹ್ಮ ಸ್ತುತ್ಯಾಖ್ಯಂ ಯಥಾ.
+
+<!-- printed 808 -->
+*[808 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦]*
+
+> ಶಾಸ್ತ್ರಕ್ರಮೇಣ ಸನಯೇ ಲಬ್ಧಯೇ ನೋಸ್ಮಾಕಂ ಧನಾನಾಂ । ಕಿಂಚರ್ತಸ್ಯ ಯಜ್ಞಸ್ಯ ಯೋಗೇ ಸಂಯೋಗೇ ಯದೇತದೂಧರಿವ ಸೋಮಪೂರ್ಣಮಧಿಷವಣಚರ್ಮ ವರ್ತತೇ । ಅಥವಾ ಯೋಗಸಂಬಂಧಾಚ್ಛಕಟಂ ಯೋಗಃ । ತದ್ಧಿ ತತ್ರೈವ ಯುಜ್ಯತೇ । ತೇನಾಧಿಷವಣಚರ್ಮಣ ಊಧಸೋಽಧಸ್ತಾದವಸ್ಥಿತೇನೇತಿ ಮನ್ಯಮಾನೋ ನಿರುಕ್ತಕಾರೋ ಬ್ರವೀತಿ ಯಾಜ್ಞೆ ಶಕಟ ಇತಿ ವಾ । ನಿ. ೬-೨೨ । ಇತಿ।
+> ಯದೇತದ್ಯಜ್ಞಶಕಟಸ್ಯಾಧಸ್ತಾದುಪರಿ ವಾಧಿಷವಣಚರ್ಮ ಏತದ್ವಿ ಷ್ಯಧ್ವಂ । ವಿಮುಂಚಧ್ವಂ । ಗ್ರಹಚಮಸಸ್ಥಾಲ್ಯಾದಿಷು ಯೋ ನಿಷೇಕಃ ಸೋಮಸ್ಯೈತದ್ವಿನೋಚನಮಧಿಷವಣಚರ್ಮೋಧಸಃ । ತದ್ದಿ
+> ಸೋಮ ಉತ್ಸಿಚ್ಯಮಾನೇ ಶ್ಲಥೀಭವತಿ ಯಥೇತರದ್ಯೋರೂಧೋ ದುಹ್ಯಮಾನಾಯಾಂ ಗವಿ ।
+> ಏವಮೃತ್ವಿಜ ಉಕ್ತಾಧುನೈನ ಸೋಮಸಂಮಿಶ್ರಾ ಅಪೋ ಬ್ರವೀತಿ । ಯೂಯಮಪಿ ಹೇ ಆಪಃ ಏಭಿರ್ಯುತ್ವಿಗ್ನಿರುತ್ಸಿಚ್ಯಮಾನಾಃ ಶ್ರುಷ್ಟೀವರೀಃ ಸುಖವತ್ಯೋ ಭೂತನ । ಭವತಾಸ್ಮಭ್ಯಂ । ಏವಮತ್ರ
+> ಪ್ರಶಬ್ದೇನಾರ್ಥಸ್ಯ ಸುತರಾಂ ಪ್ರಕಟತಾ ಭವತೀತಿ।ಭಾಷ್ಯಕಾರೇಣ ಪ್ರಶಬ್ದೋಽಧ್ಯಾಹ್ನತಃ ಪ್ರಹಿಣುತೇತಿ। ಆಧ್ವರಮಿತ್ಯನೇನ ಸಂಬಂಧಾದ್ದಿನೋತೇರ್ಗತ್ಯರ್ಥತ್ವಮುಪಪದ್ಯತೇ।ಏತಸ್ಯಾ ಋಚೋ ವ್ಯಾಖ್ಯಾನಂ ನಿರುಕ್ತಟೀಕಾಯಾ ಉದ್ಧೃತಂ ॥
+*[॥ ಪ್ರತಿದರ್ಶನ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಋತ್ವಿಕ್ಕುಗಳೇ) ನಃ ಅಧ್ವರಂ—ನಮ್ಮ ಯಜ್ಞವನ್ನು । ದೇವಯಜ್ಯಾ—ದೇವಪೂಜಾರ್ಥವಾಗಿ ।
+ಹಿನೋತ—ಪ್ರೇರಿಸಿರಿ । ಬ್ರಹ್ಮ—ನಮ್ಮ ಸ್ತುತಿಯನ್ನು । ನಃ—ನಮಗೆ । ಧನಾನಾಂ—ಧನಗಳ । ಸನಯೇ—
+ಲಾಭಕ್ಕಾಗಿ ಪ್ರೇರಿಸಿರಿ । ಋತಸ್ಯ—ಯಜ್ಞದ । ಯೋಗೇ—ನಿರ್ವಹಣಕಾಲದಲ್ಲಿ । ಊಧಃ—ಕೆಚ್ಚಲನ್ನು ।
+ವಿಶ್ಯಧ್ವಂ—ಬಿಡಿಸಿ ಕ್ಷೀರವನ್ನು ಸುರಿಸಿರಿ । ಆಪಃ—ಎಲೈ ಉದಕಗಳೇ । ಅಸ್ಮಭ್ಯಂ—ನಮಗೆ । ಶ್ರುಷ್ಟೀವರೀಃ—
+ಸುಖಕಾರಕಿಯರಾಗಿ । ಭೂತನ—ಆಗಿರಿ.
+*[೧ ಭಾನಾರ್ಥಿ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಋತ್ವಿಕ್ಕುಗಳೇ, ನಮ್ಮ ಯಜ್ಞವನ್ನು ದೇವಪೂಜಾರ್ಥವಾಗಿ ಪ್ರೇರಿಸಿರಿ. ನಮ್ಮ ಸ್ತುತಿಯನ್ನು ನಮಗೆ ಧನಗಳ ಲಾಭಕ್ಕಾಗಿ ಪ್ರೇರಿಸಿರಿ. ಯಜ್ಞದ ನಿರ್ವಹಣಕಾಲದಲ್ಲಿ ಕೆಚ್ಚಲನ್ನು ಬಿಡಿಸಿ ಕ್ಷೀರವನ್ನು ಸುರಿಸಿರಿ. ಎಲೈ ಉದಕಗಳೇ ನಮಗೆ ಸುಖಕಾರಕಿಯರಾಗಿ ಆಗಿರಿ.
+
+*English Translation.*
+
+Direct our sacrifice to the worship of the gods; direct our adoration
+to the acquirement of wealth; open the udder on the occasion of (this)
+rite; be to us, waters, the givers of felicity.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಈ ಋಕ್ಕಿಗೆ ಯಾಸ್ಕರು ನಿರ್ವಚನವನ್ನು ಹೇಳಿದ್ದಾರೆ. ಭಾಷ್ಯಕಾರರು ನಿರುಕ್ತಾರ್ಥವನ್ನು ಅನುಸರಿಸಿ
+ದುರ್ಗಾಚಾರ್ಯರ ವ್ಯಾಖ್ಯಾನವನ್ನೇ ಇಲ್ಲಿ ಕೊಟ್ಟಿದ್ದಾರೆ—
+ಪ್ರಹಿಣುತ ನೋಽಧ್ವರಂ ದೇವಯಜ್ಯಾಯೈ । ಪ್ರಹಿಣುತ ಬ್ರಹ್ಮ ಧನಸ್ಯ ಸವನಾಯ । ಋತಸ್ಯ
+ಯೋಗೇ ಯಜ್ಞಸ್ಯ ಯೋಗೇ ಯಾಜ್ಞೇ ಶಕಟ ಇತಿ ವಾ । ಶಕಟಂ ಶಕೃದಿತಂ ಭವತಿ
+
+<!-- printed 809 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 809]*
+
+ಶನಕೈಸ್ತಕತೀತಿ ವಾ ಶಬ್ದೇನ ತಕತೀತಿ ವಾ । ಶ್ರುಷ್ಟಿವರೀರ್ಭೂತನಾಸ್ಮಭ್ಯಮಾಪಃ ।
+ಸುಖವತ್ಯೋ ಭವತಾಸ್ಮಭ್ಯಮಾಪಃ ॥ (ನಿ. ೬-೨೨)
+ಎಲೈ ಋತ್ವಿಕ್ಕುಗಳೇ, ದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ನಾವು ನೆರವೇರಿಸುತ್ತಿರುವ ಈ ಯಜ್ಞವನ್ನು ಚೆನ್ನಾಗಿ ನೆರವೇರುವಂತೆ
+ಪ್ರೇರಿಸಿರಿ ನಾವು ಧನಲಾಭಾರ್ಥವಾಗಿ ಪಠಿಸುತ್ತಿರುವ ಸ್ತೋತ್ರಗಳು ದೇವತೆಗಳನ್ನು ಸವಿಾಪಿಸುವಂತೆ ಪ್ರೇರಿಸಿರಿ.
+ಯತಸ್ಯ ಯೋಗೇ ಎಂದರೆ, ಯಜ್ಞಕರ್ಮವು ನೆರವೇರುತ್ತಿರುವಾಗ ಎಂದರ್ಥವು. ಯೋಗೇ ಎಂದರೆ ಯಜ್ಞ ಕರ್ಮ
+ಗಳನ್ನು ಒಂದಾಗಿ ಸೇರಿಸುವ ಎಂಬರ್ಥದಲ್ಲಿ ಯೋಗೇ ಎಂದರೆ ಗಾಡಿ ಎಂದೂ ಅರ್ಥವಾಗಬಹುದು. ಗಾಡಿ ಎಂದರೆ
+ಶಕಟವು. ಈ ಶಕಟಶಬ್ದವು ಗಾಡಿಯನ್ನು ಎಳೆಯುವ ಎತ್ತುಗಳ ಸಗಣಿಯಿಂದ ಲಿಪ್ತವಾಗಿರುವುದು ಅಥವಾ ಈ
+ಗಾಡಿಯು ನಿಧಾನವಾಗಿ ಚಲಿಸುವುದು ಅಥವಾ ಕಿರೆಂದು ಶಬ್ದ ಮಾಡುತ್ತಾ ಚಲಿಸುವುದು ಎಂಬ ಅರ್ಥವನ್ನು
+ಸೂಚಿಸುವುದರಿಂದ ಇದಕ್ಕೆ ಶಕಟವೆಂದು ಹೆಸರು. ಉದಕಗಳು ನಮಗೆ ಸುಖಕಾರಕಗಳಾಗಿ ಆಗಲಿ ಎಂಬ
+ಪ್ರಾರ್ಥನೆಯು ಕೊನೆಯಪಾದದಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ.
+*[೧ ಸಂಹಿತಾಪಾತಕ ೧]*
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆಪೋ ರೇವತೀಃ ಕ್ಷಯಥಾ ಹಿ ವಸ್ಯಃ ಕ್ರತುಂ ಚ ಭದ್ರಂ ಬಿಭೃಥಾಮೃತಂ ಚ ।
+> ರಾಯಶ್ಚ ಸ್ಥ ಸ್ವಪತ್ಯಸ್ಯ ಪತ್ನಿಃ ಸರಸ್ವತೀ ತದ್ಗೃಣತೇ ವಯೋ ಧಾತ್ ॥೧೨॥
+
+*ಪದಪಾಠಃ*
+
+> ಆಪಃ । ರೇವತೀಃ । ಕ್ಷಯಥ । ಹಿ । ವಸ್ವಃ । ಕ್ರತುಂ । ಚ । ಭದ್ರಂ । ಬಿಭೃಥ । ಅಮೃತಂ । ಚ ।
+> ರಾಯಃ । ಚ । ಸ್ಥ । ಸುಽಅಪತ್ಯಸ್ಯ । ಪತ್ನಿಃ । ಸರಸ್ವತೀ । ತತ್ । ಗೃಣತೇ । ವಯಃ । ಧಾತ್ ॥ ೧೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಪ್ರಾತರನುವಾಕಸ್ಯಾಪೋ ರೇವತೀರಿತ್ಯೇಷಾ ಪ್ರತಿಪತ್ । ಸೂತ್ರಿತಂ ಚ । ಆಪೋ ರೇವತೀಃ
+> ಕ್ಷಯಥಾ ಹಿ ವಸ್ವ ಉಪಪ್ರಯಂತ ಇತಿ ಸೂಕ್ತೇ । ಆ. ೪-೧೩ । ಇತಿ ॥
+> ಹೇ ಆಪೋ ರೇವತೀ ರೇವತ್ಯೋ ಧನವತ್ಯಃ ಯೂಯಂ ವಸ್ವೋ ವಸುನೋ ಧನಸ್ಯ ಕ್ಷಯಥ
+> ಓ । ಈಶಿಧ್ವೇ ಖಲು । ಕಿಂಚ ಭದ್ರಂ ಭಜನೀಯಂ ಕ್ರತುಂ ಚ ಸೋಮಯಾಗಾದಿಲಕ್ಷಣಂ ಕರ್ಮ
+> ಚಾಮೃತಂ ಚಾಮರಣರೂಪಂ ತಜ್ಜನ್ಯಫಲಂ ಚ ಬಿಭೃಥ । ಧಾರಯಥ । ಪುಷ್ಟಿಥ ವಾ । ತಥಾ
+> ರಾಯಶ್ಚ ಧನಸ್ಯ ಚ ಸ್ವಪತ್ಯಸ್ಯ ಶೋಭನಪುತ್ರಸ್ಯ ಚ ಪತ್ನಿಃ ಪತ್ನ್ಯಃ ಪಾಲಯಿತ್ರ್ಯಃ ಸ್ಥ । ಭವಥ ।
+> ತಥಾ ಸರಸ್ವತೀ ತದಭಿಮಾನಿನೀ ದೇವತಾ ಗೃಣತೇ ಸ್ತುವತೇ ಮಹ್ಯಂ ತದಿದಂ ಸರ್ವಂ ವಯೋಽನ್ನಲಕ್ಷಣಂ ಧನಂ ಧಾತ್ । ದದಾತು ॥
+
+<!-- printed 810 -->
+*[810 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೦.]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಆಪಃ—ಎಲೈ ಉದಕಗಳೇ । ರೇವತೀಃ—ಧನಯುಕ್ತರಾದ ನೀವು । ವಸ್ವಃ—ಧನಕ್ಕೆ । ಕ್ಷಯಥ ಹಿ—
+ಪ್ರಭುಗಳಾಗಿದ್ದೀರಿ । ಭದ್ರಂ—ಮಂಗಳಕರವಾದ । ಕ್ರತುಂ ಚ—ಕರ್ಮವನ್ನೂ । ಅಮೃತಂ ಚ—ಅಮೃತತ್ವ
+ವನ್ನೂ । ಬಿಭೃಥ—ಧರಿಸಿದ್ದೀರಿ । ರಾಯಶ್ಚ—ಧನಕ್ಕೂ । ಸ್ವಪತ್ಯಸ್ಯ—ಉತ್ತಮವಾದ ಪುತ್ರಾದಿಗಳಿಗೂ ।
+ಪತ್ನೀಃ—ಪಾಲಕಿಯರಾಗಿ । ಸ್ಥ—ಆಗಿದ್ದೀರಿ । ಸರಸ್ವತೀ—ಸರಸ್ವತೀದೇವಿಯು । ಗೃಣತೇ—ಸ್ತುತಿಸತಕ್ಕ
+ನನಗೆ । ತತ್ ವಯಃ—ಸಕಲ ಅನ್ನವನ್ನು । ಧಾತ್—ಕೊಡಲಿ.
+*[। ಭಾಷಾರ್ಥ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅದ್ವೈತೆಗಳೇ, ಧನಯುಕ್ತರಾದ ನೀವು ಧನಕ್ಕೆ ಪ್ರಭುಗಳಾಗಿದ್ದೀರಿ. ಮಂಗಳಕರವಾದ ಕರ್ಮ
+ವನ್ನೂ ಅಮೃತತ್ವವನ್ನೂ ಧರಿಸಿದ್ದೀರಿ. ಧನಕ್ಕೂ ಉತ್ತಮವಾದ ಪುತ್ರಾದಿಗಳಿಗೂ ಪಾಲಕಿಯರಾಗಿ ಆಗಿದ್ದೀರಿ.
+ಸರಸ್ವತೀದೇವಿಯು ಸ್ತುತಿಸತಕ್ಕ ನನಗೆ ಸಕಲ ಅನ್ನವನ್ನು ಕೊಡಲಿ.
+
+*English Translation.*
+
+Opulent waters, you rule over riches; you support good fortune.
+pious rites, and immortality ; you are the protectresses of wealth and of
+offspring : may Saraswati bestow all this opulence on him who praises you.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಪ್ರಾತರನುವಾಕಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಆಪೋ ರೇವತೀ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪ್ರತಿಪತ್ತೃಚದಲ್ಲಿ
+(ಪ್ರಾರಂಭದಲ್ಲಿ) ಸೇರಿಸಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ ಆಪೋ ರೇವತೀಃ ಕ್ಷಯಥಾ ಹಿ ವಸ್ವ
+ಉಪ ಪ್ರಯಂತ ಇತಿ ಸೂಕ್ತೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೩) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರತಿ ಯದಾಪೋ ಅದೃಶ್ರಮಾಯತೀರ್ಘೃತಂ ಪಯಾಂಸಿ ಬಿಭ್ರತೀರ್ಮಧೂನಿ ।
+> ಅಧ್ವರ್ಯುಭಿರ್ಮನಸಾ ಸಂವಿದಾನಾ ಇಂದ್ರಾಯ ಸೋಮಂ ಸುಷುತಂ
+> ಭರಂತೀಃ ॥ ೧೩ ॥
+
+<!-- printed 811 -->
+*[ಅ. ೭ ಅ ೭. ವ. ೨೬.] ಋಗ್ವೇದಸಂಹಿತಾ 811]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರತಿ । ಯತ್ । ಆಪಃ । ಅದೃಶ್ರಂ । ಅಯತೀಃ । ಘೃತಂ । ಪಯಾಂಸಿ । ಬಿಭ್ರತೀಃ । ಮಧೂನಿ ।
+> ಅಧ್ವರ್ಯುಭಿಃ । ಮನಸಾ । ಸಂವಿದಾನಾಃ । ಇಂದ್ರಾಯ । ಸೋಮಂ । ಸುಸುತಂ । ಭರಂತೀಃ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಆಪೋನಸ್ತ್ರೀಯೇ ಪ್ರತಿ ಯದಾಪ ಇತ್ಯೇಷಾ । ಸೂತ್ರಿತಂ ಚ । ಪ್ರತಿ ಯದಾಪೋ ಅದೃಶ್ರಮಾಯತೀರಿತಿ ಪ್ರತಿದೃಶ್ಯಮಾನಾಸು । ಆ. ೫.೧ । ಇತಿ ॥
+> ಹೇ ಆಪಃ ಆಯತೀರಸ್ಮದ್ಯಜ್ಞಂ ಪ್ರತ್ಯಾಗಚ್ಛಂತೀರ್ಯತ್ ॥ ಸುಪಾಂ ಸುಲುಗಿತಿ ವಿಭಕ್ತೇರ್ಲುಕ್ ॥ ಯಾ ಯುಷ್ಮಾನ್ಪ್ರತ್ಯದೃಶಂ ಪ್ರತಿಪಶ್ಯಾಮಿ ಧೃತಂ ಸೋಮಸಂಸೃಷ್ಟಮಾಜ್ಯಂ ಮಧೂನಿ
+> ಮಧುಸದೃಶಾನಿ ಮೃಷ್ಟರಸಾನಿ ಪಯಾಂಸ್ಯುದಕಾನಿ ಚ ಸಂಭೂಯ ಬಿಭ್ರತೀಯಾರ್ಗಕಾಲೇ ಧಾರಯಂತೀಃ ತಥಾಧ್ವರ್ಯುಭಿರ್ಮನಸಾಂತಃಕರಣೇನ ಸಂವಿದಾನಾಃ ಸಂಭಾಷಮಾಣಾಃ ಕಿಂಚೇಂದ್ರಾಯೇಂದ್ರಾರ್ಥಂ ಸುಷುತಂ ಸುಷ್ಟು ಸುತಂ ಸೋಮಂ ಭರಂತೀರ್ಧಾರಯಂತೀಃ ಏವಂಭೂತಾಸ್ತಾ
+> ಯುಷ್ಮಾನ್ಸೌಮೀತಿ ಶೇಷಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಆಪಃ—ಎಲೈ ಅದ್ಭವತೆಗಳೇ । ಘೃತಂ—ಅಜ್ಯವನ್ನೂ । ಮಧೂನಿ—ಮಧುರವಾದ ರಸಗಳನ್ನು ।
+ಪಯಾಂಸಿ—ಉದಕಗಳನ್ನೂ । ಬಿಭ್ರತೀಃ—ಧರಿಸುತ್ತಲೂ। ಅಧ್ವರ್ಯುಭಿಃ—ಅಧ್ವರುಗಳೊಡನೆ। ಮನಸಾ—
+ರಹಸ್ಯವಾಗಿ । ಸಂವಿದಾನಾಃ—ಸಂಭಾಷಣೆಯನ್ನು ಮಾಡುವವರಾಗಿಯೂ । ಇಂದ್ರಾಯ—ಇಂದ್ರಾರ್ಥವಾಗಿ ।
+ಸುಸುತಂ—ಉತ್ತಮವಾಗಿ ಹಿಂಡಿದ । ಸೋಮಂ—ಸೋಮವನ್ನು । ಭರಂತೀಃ—ವಹಿಸುತ್ತಲೂ । ಯತ್—
+ಯಾವಾಗ । ಆಯತೀಃ—ನಮ್ಮ ಯಜ್ಞಕ್ಕೆ ಬರುವಿರೋ ಆಗ । ಪ್ರತಿ ಅದೃಶ್ರಂ- -ನಾನು (ನಿಮ್ಮನ್ನು)
+ನೋಡುತ್ತೇನೆ.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅದ್ವೈವತೆಗಳೇ, ಆಜ್ಯವನ್ನೂ ಮಧುರವಾದ ರಸಗಳನ್ನೂ ಉದಕಗಳನ್ನೂ ಧರಿಸುತ್ತಲೂ ಅಧ್ವರ್ಯು
+ಗಳೊಡನೆ ರಹಸ್ಯವಾಗಿ ಸಂಭಾಷಣೆಯನ್ನು ಮಾಡುವವರಾಗಿಯೂ ಇಂದ್ರಾರ್ಥವಾಗಿ ಉತ್ತಮವಾಗಿ ಹಿಂಡಿದ
+ಸೋಮವನ್ನು ವಹಿಸುತ್ತಲೂ ಯಾವಾಗ ನಮ್ಮ ಯಜ್ಞಗೃಹಕ್ಕೆ ಬರುವಿರೋ, ಆಗ ನಾನು ನಿಮ್ಮನ್ನು ನೋಡುತ್ತೇನೆ.
+
+*English Translation.*
+
+I behold you, waters, coming to (the sacrifice), conveying the butter,
+the water, the sweet (Soma-juices :) conversing mentally with the priests,
+and bringing the well-effused Soma for Indra.
+
+<!-- printed 812 -->
+*[೬೧೨ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೦.]*
+
+*[॥ ವಿಶೇಷವಿಸಯಗಳು ॥]*
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಪೋನಪ್ರೀಯಕರ್ಮದಲ್ಲಿ ಪ್ರತಿ ಯದಾಪಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತ
+ಸೂತ್ರದ-ಪ್ರತಿ ಯದಾಪೋ ಅದೃಶ್ರಮಾಯತೀರಿತಿ ಪ್ರತಿದೃಶ್ಯಮಾನಾಸು ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೬-೧)
+ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಏಮಾ ಅಗ್ನೇವತೀರ್ಜೀವಧನ್ಯಾ ಅಧ್ವರ್ಯವಃ ಸಾದಯತಾ ಸಖಾಯಃ ।
+> ನಿ ಬರ್ಹಿಷಿ ಧತ್ತನ ಸೋಮ್ಯಾಸೋಽಪಾಂ ನಪ್ತಾ ಸಂವಿದಾನಾಸ ಏನಾಃ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ಇಮಾಃ । ಅಗ್ಮನ್ । ರೇವತೀಃ । ಜೀವಧನ್ಯಾಃ । ಅಧ್ವರ್ಯವಃ । ಸಾದಯತ । ಸಖಾಯಃ ।
+> ನಿ । ಬರ್ಹಿಷಿ । ಧತ್ತನ । ಸೋಮ್ಯಾಸಃ । ಅಪಾಂ । ನಪ್ತಾ । ಸಂವಿದಾನಾಸಃ । ಏನಾಃ ॥ ೧೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಪೋನಪ್ರೀಯ ಏಮಾ ಅಗ್ನ್ನಿತಿ ದ್ವೇ । ಸೂತ್ರಿತಂ ಚ । ಏಮಾ ಅಗ್ನ್ನೇವತೀರ್ಜೀವಧನ್ಯಾ ಇತಿ ದ್ವೇ ಸನ್ನಾಸೂತ್ತರಯಾ ಪರಿಧಾಯ । ಆ. ೫-೧ । ಇತಿ ॥
+> ರೇವತೀ ರೇವತ್ಯೋ ಧನವತ್ಯೋ ಜೀವಧನ್ಯಾ ಜೀವಾನಾಂ ಪಾಲಯಿತ್ರ್ಯಃ ಪ್ರೀಣಯಿತ್ರ್ಯೋ
+> ವೇಮಾ ಈದೃಗ್ಭೂತಾ ಆಪ ಆಗ್ಮನ್ । ಅಸ್ಮದ್ಯಜ್ಞಂ ಪ್ರತ್ಯಾಗಚ್ಛನ್ । ಏತಜ್ಞಾತ್ವಾ ಹೇ ಸಖಾಯಃ
+> ಸಖಿಭೂತಾ ಹೇ ಅಧ್ವರ್ಯವಃ ಯೂಯಮಷಾಂ ನಪ್ರಾ ವೃಷ್ಟಿಕರ್ಮಸ್ವಧಿಕೃತೇನ ದೇವೇನ ಸಹ
+> ಸಂವಿದಾನಾಃ ಸಂಮಂತ್ರಯಮಾಣಾ ಏನಾ ಏತಾ ಅಪಃ ಸಾದಯತ । ಸ್ಥಾಪಯತ। ಕುತ್ರ ಸಾದಯಾಮ
+> ಇತಿ ಉಚ್ಯತೇ । ಸೋಮ್ಯಾಸಃ ಸೋಮಸಂಪಾದಿನೋಽಧ್ವರ್ಯವಃ ಯೂಯಂ ಬರ್ಹಿಷಿ ವೇದ್ಯಾಮಾಸ್ತೀರ್ಣೇ ಕುಶಮಯೇ ನಿ ಧತ್ತನ । ನಿಯಮೇನ ಸ್ಥಾಪಯತ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ರೇವತೀಃ—ಧನಯುಕ್ತರೂ । ಜೀವಧನ್ಯಾಃ—ಜೀವಗಳಿಗೆ ಪಾಲಕಿಯರೂ ಆದ । ಇಮಾಃ—ಈ
+ಅಬ್ದೇವತೆಗಳು । ಆ ಅಗ್ಮನ್—ನಮ್ಮ ಯಾಗಕ್ಕೆ ಬಂದಿದ್ದಾರೆ । ಸಖಾಯಃ—ಮಿತ್ರಭೂತರಾದ । ಅಧ್ವರವಃಎಲೈ ಅಧ್ವರುಗಳೇ । ಸಾದಯತ—ಇವರನ್ನು ಆಸನದಲ್ಲಿ ಕುಳ್ಳಿರಿಸಿರಿ । ಅಪಾಂ ನಪ್ರಾ—ಅಪಾಂನಪಾತ್
+ಸಂಜ್ಞಕನಾದ ದೇವತೆಯೊಡನೆ । ಸಂವಿದಾನಾಃ—ಸಂಭಾಷಣೆಯನ್ನು ಮಾಡುತ್ತ । ಏನಾಃ—ಈ ಅಬ್ದೇವತೆ
+ಗಳನ್ನು । ಸೋಮ್ಯಾಸಃ—ಸೋಮನಂತರಾದ ನೀವು । ಬರ್ಹಿಷಿ—ದರ್ಭಾಸನದ ಮೇಲೆ । ನಿ ಧತ್ತನ—
+ಕುಳ್ಳಿರಿಸಿರಿ.
+
+<!-- printed 813 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 813]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ಧನಯುಕ್ತರೂ, ಜೀವಿಗಳಿಗೆ ಪಾಲಕಿಯರೂ ಆದ ಈ ಅಬ್ಬೇವತೆಗಳು ನಮ್ಮ ಯಾಗಕ್ಕೆ ಬಂದಿದ್ದಾರೆ.
+ಮಿತ್ರಭೂತರಾದ ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ, ಇವರನ್ನು ಆಸನದಲ್ಲಿ ಕುಳ್ಳಿರಿಸಿರಿ. ಅಪಾಂನಪಾತ್ಸಂಜ್ಞಕನಾದ ದೇವತೆ
+ಯೊಡನೆ ಸಂಭಾಷಣೆಯನ್ನು ಮಾಡುತ್ತ ಈ ಅಬ್ಬೇವತೆಗಳನ್ನು ಸೋಮವಂತರಾದ ನೀವು ದರ್ಭಾಸನದ ಮೇಲೆ
+ಕುಳ್ಳಿರಿಸಿರಿ.
+
+*English Translation.*
+
+These opulent and life-sustaining (waters) have come (to my sacrifice): friendly priests, make them sit down ; place them on the sacred grass, you offerers of the Soma, conversing with the grandson of the waters.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಪೋನಪ್ರೀಯಕರ್ಮದಲ್ಲಿ ಏಮ ಅಗ್ಮನ್ ಎಂದು ಪ್ರಾರಂಭವಾಗುವ ಎರಡು ಖಕ್ಕುಗಳನ್ನು (೧೪, ೧೫
+ಖಕ್ಕುಗಳನ್ನು) ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ-ಏಮಾ ಅಗ್ಮನೇವತೀರ್ಜೀವಧನ್ಯಾ ಇತಿ ದ್ವೇ
+ಸನ್ನಾಸೂತ್ತರಯಾ ಪರಿಧಾಯ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆಗ್ಮನ್ನಾಪ ಉಶತೀರ್ಬರ್ಹಿರೇದಂ ನ್ಯಧ್ವರೇ ಅಸದನ್ದೇವಯಂತೀಃ ।
+> ಅಧ್ವರ್ಯವಃ ಸುನುತೇಂದ್ರಾಯ ಸೋಮಮಭೂದು ವಃ ಸುಶಕಾ
+> ದೇವಯಜ್ಯಾ ॥ ೧೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ಅಗ್ಮನ್ । ಆಪಃ । ಉಶತೀಃ । ಬರ್ಹಿಃ । ಆ । ಇದಂ । ನಿ । ಅಧ್ವರೇ । ಅಸದನ್ । ದೇವಯಂತೀಃ।
+> ಅಧ್ವಯವಃ । ಸುನುತ । ಇಂದ್ರಾಯ । ಸೋಮಂ । ಅಭೂತ್ । ಊಂ ಇತಿ । ವಃ । ಸುಶಕಾ ।
+> ದೇವಯಜ್ಯಾ ॥ ೧೫ ॥
+*[॥ ಸಾಯುಧಭಾಷ್ಯಂ ॥]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಆಪೋ ವಸತೀವರ್ಯೇಕಧನಾಖ್ಯಾ ಇದಮಾದೃಶಂ ಬರ್ಹಿರ್ವೇದಿಸ್ತರಣಮುಶತೀರುಶತ್ಯಃ
+> ಕಾಮಯಮಾನಾ ಆಗ್ಮನ್ । ಆಗಚ್ಛನ್ । ಅಸ್ಮದ್ಯಜ್ಞಂ ಪ್ರತ್ಯಾ ಅಗತ್ಯ ಚಾಧ್ವರೇಽಸ್ಮದೀಯೇ ಯಜ್ಞೇ
+> ದೇವಯಂತೀರ್ದೇವಾನ್ಯಾಮಯಮಾನಾಃ । ತರ್ಪಯಿಶುಮಿಚ್ಛಂತ್ಯ ಇತ್ಯರ್ಥಃ । ನ್ಯಸದನ್ । ನ್ಯಸೀದನ್ । ಏತಜ್ಞಾತ್ವಾ ಹೇ ಅಧ್ವರ್ಯವಃ ಯೂಯಮಿಂದ್ರಾಯೇಂದ್ರಾರ್ಥಂ ಸೋಮಂ ಸುನುತ। ಅಭಿ-
+
+<!-- printed 814 -->
+*[814 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೧]*
+
+> ಷುಣುತ । ಇದಾನೀಮಪಾಂ ಪ್ರಸಾದಾದ್ವೋ ಯುಷ್ಮಾಕಂ ದೇವಯಜ್ಯಾ ದೇವಾನಿಂದ್ರಾದೀನುದ್ದಿಶ್ಯ
+> ಶ್ರಿಯಮಾಣಾ ಯಾಗಕ್ರಿಯಾ ಸುಶಕಾ ಸುಷ್ಟು ಕರ್ತುಂ ಶಕ್ಯಾಭೂದು । ಆಸೀದೇವ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಆಪಃ—ವಸತೀವರ್ಯಾದ್ಯುದಕಗಳು । ಈಂ ಬರ್ಹಿಃ—ಈ ಯಜ್ಞಾರ್ಥವಾದ ಆಸನವನ್ನು । ಉಶತೀಃ:—
+ಅಪೇಕ್ಷಿಸುತ್ತ । ಅಗ್ಮನ್—ಬಂದಿವೆ । ಆ—ಇಲ್ಲಿಗೆ ಬಂದು । ಅಧ್ವರೇ—ಯಜ್ಞದಲ್ಲಿ । ದೇವಯಂತೀ?—
+ದೇವಪೂಜೆಗಳನ್ನುಚ್ಛಿಸುತ್ತವೆ । ಅಧ್ವರ್ಯವಃ—ಎಲೈ ಆಧ್ವರುಗಳೇ । ಇಂದ್ರಾಯ—ಇಂದ್ರಾರ್ಥವಾಗಿ ।
+ಸೋಮಂ—ಸೋಮವನ್ನು । ಸುನುತ—ಹಿಂಡಿರಿ । ವಃ—ನಿಮಗೆ । ದೇವಯಜ್ಯಾ—ದೇವಪೂಜೆಯು ।
+ಸುಶಕಾ—ಸುಲಭವಾಗಿ । ಅಭೂದು—ಆಗಿರುತ್ತದೆ
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ವಸತೀವರ್ಯಾದ್ಯುದಕಗಳು ಯಜ್ಞಾರ್ಥವಾದ ಆಸನವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತ ಬಂದಿವೆ. ಈ ಯಜ್ಞಕ್ಕೆ ಬಂದು
+ದೇವಪೂಜೆಗಳನ್ನಿಚ್ಛಿಸುತ್ತವೆ. ಎಲೈ ಅಧ್ವರ್ಯುಗಳೇ, ಇಂದ್ರಾರ್ಥವಾಗಿ ಸೋಮವನ್ನು ಹಿಂಡಿರಿ. ನಿಮಗೆ
+ದೇವಪೂಜೆಯು ಸುಲಭವಾಗಿ ಆಗಿರುತ್ತದೆ.
+
+*English Translation.*
+
+The waters desiring (it) have come to this sacred grass, and wishing
+to satisfy the gods, have sat down at our sacrifice: express, priests, the Soma
+for Indra; to you the worship of the gods is easy.
+ಮೂವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಆ ನ ಇತ್ಯೇಕಾದಶರ್ಚಂ ದ್ವಿತೀಯಂ ಸೂಕ್ತಂ ಕವಷಸ್ಯಾರ್ಷಂ ತ್ರೈಷ್ಟುಭಂ ವೈಶ್ವದೇವಂ ।
+> ಅನುಕ್ರಾಂತಂ ಚ । ಆ ನ ಏಕಾದಶ ವೈಶ್ವದೇವಮಿತಿ ॥ ಗತಃ ಸೂಕ್ತವಿನಿಯೋಗಃ ॥ ಏಕಾದಶಿನಸ್ಯ
+> ವೈಶ್ವದೇವಸ್ಯ ಪಶೋಃ ಪುರೋಡಾಶಸ್ಯಾ ನ ಇತ್ಯೇಷಾನುವಾಕ್ಯಾ । ಸೂತ್ರಿತಂ ಚ । ವಿಶ್ವೇ ಅದ್ಯ
+> ಮರುತೋ ವಿಶ್ವ ಊತ್ಯಾ ನೋ ದೇವಾನಾಮುಪ ವೇತು ಶಂಸಃ ॥ ಆ. ೩-೭ । ಇತಿ ॥
+ಅನುವಾದವು—ಆ ನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎರಡನೆಯ ಸೂಕ್ತವು.
+ಇದರಲ್ಲಿ ಹನ್ನೊಂದು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕವಷನು ಋಷಿಯು ; ವಿಶ್ವೇದೇವತೆಗಳು ದೇವತೆಯು ;
+ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ನ ಏಕಾದಶ ವೈಶ್ವದೇವಂ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತ
+ಪಿಸಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ಏಕಾದಶಿನ್ ಎಂಬ ಇಷ್ಟಿಯಲ್ಲಿ ವಿಶ್ವೇದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ಮಾಡುವ
+
+<!-- printed 815 -->
+*[ಅ, ೭. ಅ. ೭. ವ. ೨೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 815]*
+
+ಪಶುಹೋಮದ ಪುರೋಡಾಶಹೋಮದಲ್ಲಿ ಆ ನಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು
+ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ-ವಿಶ್ವೇ ಅದ್ಯ ಮರುತೋ ವಿಶ್ವ ಊತ್ಯಾ ನೋ ದೇವಾನಾಮುಪ ವೇತು ಶಂಸಃ
+ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೩-೭) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೩೧ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ—೩೧
+ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೩ । ಸೂಕ್ತ—೩೧ ॥
+ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೨೭, ೨೮ ॥
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೧ ॥
+ಋಷಿಃ—ಕವಷ ಐಲೂಷಃ ।
+ದೇವತಾ—ನಿಶ್ವೇ ದೇವಾಃ ॥
+ಛಂದಃ—ತ್ರಿಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆ ನೋ ದೇವಾನಾಮುಪ ವೇತು ಶಂಸೋ ವಿಶ್ವೇಭಿಸ್ತುರೈರವಸೇ ಯಜತ್ರಃ।
+> ತೇಭಿರ್ವಯಂ ಸುಷಖಾಯೋ ಭವೇಮ ತರಂತೋ ವಿಶ್ವಾ ದುರಿತಾ
+> ಸ್ಯಾಮ ॥ ೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ನಃ । ದೇವಾನಾಂ । ಉಪ । ವೇತು । ಶಂಸಃ । ವಿಶ್ವೇಭಿಃ । ತುರೈಃ । ಅವಸೇ । ಯಜತ್ರಃ ।
+> ತೇಭಿಃ । ವಯಂ । ಸುಸಖಾಯಃ । ಭವೇಮ । ತರಂತಃ । ವಿಶ್ವಾ । ದುಃಇತಾ । ಸ್ಯಾಮ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ದೇವಾನಾಂ ಸ್ತೋತ್ಥಾಣಾಂ ನೋಽಸ್ಮಾಕಂ ಶಂಸಃ ಸ್ತೋತವ್ಯೋ ಯಜತ್ರೋ ಯಷ್ಟವ್ಯಃ
+> ಏವಂಭೂತ ಇಂದ್ರಸ್ತುರೈಸ್ತ್ವರಣಶೀಲೈರ್ವಿಶ್ವೇಭಿಃ ಸರ್ವೈಮರುದ್ಭಿಃ ಸಹಾವಸೇಽಸ್ಮದ್ಯಜ್ಞರಕ್ಷಣಾರ್ಥಮೋಪ ವೇತು । ಉಪಾಗಚ್ಛತು। ವಯಮಪಿ ತೇಭಿಸ್ತೈಃ ಸಹ ಸುಸಖಾಯಃ ಶೋಭನಸಖಾಯೋ
+> ಭವೇಮ ಸ್ಯಾಮ । ಕಿಂಚ ವಿಶ್ವಾ ದುರಿತಾ ವಿಶ್ವಾನಿ ದುರಿತಾನಿ ಪಾಪಾನಿ ತರಂತಃ ಸ್ಯಾಮ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದೇವಾನಾಂ—ಸ್ತುತಿಕರ್ತರಾದ । ನಃ—ನಮಗೆ । ಶಂಸಃ—ಪ್ರಶಸ್ಯನೂ । ಯಜತ್ರಃ—ಪೂಜ್ಯನೂ
+ಆದ ಇಂದ್ರನು । ತುರೈಃ—ವೇಗಗಾಮಿಗಳಾದ । ವಿಶ್ವೇಭಿಃ—ಸಕಲ ಮರುತ್ತುಗಳೊಡನೆಯೂ । ಅವಸೇ—
+
+<!-- printed 816 -->
+*[816 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೮. ಅ. ೩. ಸೂ. ೩೧]*
+
+ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ । ಆ ಉಪ ವೇತು—ನಮ್ಮಲ್ಲಿಗೆ ಬರಲಿ । ವಯಂ—ನಾವು । ತೇಭಿಃ—ಅವರೊಡನೆ ।
+ಸುಸಖಾಯಃ—ಉತ್ತಮವಾದ ಮಿತ್ರರಾಗಿ । ಭವೇಮ—ಆಗಿರೋಣ । ವಿಶ್ವಾ—ಸಮಸ್ತವಾದ । ದುರಿತಾ—
+ಪಾಪಗಳನ್ನು । ತರಂತಃ—ದಾಟುವವರಾಗಿ । ಸ್ಯಾಮ—ಆಗೋಣ.
+
+*ಭಾವಾರ್ಥ*
+
+ಸ್ತುತಿಕರ್ತರಾದ ನಮಗೆ ಪ್ರಶಸ್ಯನೂ, ಪೂಜ್ಯನೂ ಆದ ಇಂದ್ರನು ವೇಗಗಾಮಿಗಳಾದ ಸಕಲ ಮರುತ್ತು
+ಗಳೊಡನೆಯೂ ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ ನಮ್ಮಲ್ಲಿಗೆ ಬರಲಿ. ನಾವು ಅವರೊಡನೆ ಉತ್ತಮವಾದ ಮಿತ್ರರಾಗಿರೋಣಸಮಸ್ತವಾದ ಪಾಪಗಳನ್ನು ನಾವು ದಾಟುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+May he, who is to be praised by us, his worshippers, and to be
+adored, (Indra), come with all his swift (Maruts), for our protection,
+may we be excellent friends with them: may we be freed from all sins.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪರಿ ಚಿನ್ಮರ್ತೋ ದ್ರವಿಣಂ ಮಮನ್ಯಾದೃತಸ್ಯ ಪಥಾ ನಮಸಾ ವಿವಾಸೇತ್ ।
+> ಉತ ಸ್ವೇನ ಕ್ರತುನಾ ಸಂ ವದೇತ ಶ್ರೇಯಾಂಸಂ ದಕ್ಷಂ ಮನಸಾ
+> ಜಗೃಭ್ಯಾತ್ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪರಿ । ಚಿತ್ । ಮರ್ತಃ । ದ್ರವಿಣಂ । ಮಮನ್ಯಾತ್ । ಋತಸ್ಯ । ಪಥಾ । ನಮಸಾ । ವಿವಾಸೇತ್ ।
+> ಉತ । ಸ್ವೇನ । ಕ್ರತುನಾ । ಸಂ । ವದೇತ । ಶ್ರೇಯಾಂಸಂ । ದಕ್ಷಂ । ಮನಸಾ । ಜಗೃಭ್ಯಾತ್ ॥೨॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಮರ್ತೋ ಮನುಷ್ಯೋ ಯಜಮಾನಃ ಪರಿ ಚಿತ್ಸರ್ವತೋ ದ್ರವಿಣಂ ವಿಶ್ವೇಷಾಂ ದೇವಾನಾಂ
+> ಯಾಗಾರ್ಥಂ ಧನಂ ಮಮನ್ಯಾತ್ । ಮನ್ಯತಿಃ ಕಾಂತಿಕರ್ಮಾ । ಕಾಮಯೇತ । ಲಬ್ಧುಮಿಚ್ಛೇತ್ ।
+> ಧನಂ ಲಬ್ಧ್ವಾ ಚರ್ತಸ್ಯ ಯಜ್ಞಸ್ಯ ಪಥಾ ಮಾರ್ಗೇಣ ನಮಸಾ ಹವಿರಾಖ್ಯೇನಾನ್ನೇನಾ ವಿವಾಸೇತ್ ।
+> ಪರಿಚರೇತ್ । ಉತಾಪಿ ಚ ಸ್ವೇನಾತ್ಮೀಯೇನ ಕ್ರತುನಾ ಪ್ರಜ್ಞಾನೇನ । ಮನಸೇತ್ಯರ್ಥಃ। ಸಂ ವದೇತ ।
+> ಸಂವಾದೋಽತ್ರ ಸಮಾಧ್ಯಾನಮುಚ್ಯತೇ । ಹವಿರ್ಗೃಹೀತ್ವಾ ವಷಟ್ಕರಿಷ್ಯನ್ವಿಶ್ವಾನೇವಾನ್ಮನಸಾಧ್ಯಾಯೇದಿತ್ಯರ್ಥಃ । ವಿಶ್ವೇಷಾಂ ದೇವಾನಾಂ ಯಾಗಾನಂತರಂ ಚ ತತ್ಪ್ರಸಾದಾಚ್ಛ್ರೇಯಾಂಸಮತಿಶಯೇನ
+> ಪ್ರಶಸ್ಯಮಾತ್ಮಾನಂ ದಕ್ಷಂ ಪ್ರವೃದ್ಧಂ ಸರ್ವವ್ಯಾಪಿನಂ ಮನಸಾ ಧ್ಯಾನಸಾಧನೇನಾಂತಃಕರಣೇನ
+> ಜಗೃಭ್ಯಾತ್ । ಗೃಹ್ಣೀಯಾತ್ ॥
+
+<!-- printed 817 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 817]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಮರ್ತಃ—ಮಾನವನಾದ ಯಜಮಾನನು । ಪರಿ ಚಿತ್—ಎಲ್ಲ ಕಡೆಗಳಿಂದಲೂ । ದ್ರವಿಣಂ—
+ಧನವನ್ನು । ಮಮನ್ಯಾತ್—ಪಡೆಯಲಿ । ಋತಸ್ಯ—ಯಜ್ಞದ । ಪಥಾ—ಮಾರ್ಗದಿಂದಲೂ । ನಮಸಾ—
+ಹವಿಸ್ಸುಗಳಿಂದಲೂ । ಆ ವಿವಾಸೇತ್—ದೇವತೆಗಳನ್ನು ಪೂಜಿಸಲಿ । ಉತ—ಮತ್ತು । ಸ್ವೇನ—ತನ್ನ ।
+ಕ್ರತುನಾ—ಉತ್ತಮಜ್ಞಾನದಿಂದ । ಸಂ ವದೇತ—ದೇವತೆಗಳನ್ನು ಧ್ಯಾನಿಸಲಿ । ಶ್ರೇಯಾಂಸಂ—ಕಲ್ಯಾಣ
+ಕಾರಕನೂ । ದಕ್ಷಂ—ಸರ್ವಸಮರ್ಥನೂ ಆದ ದೇವನನ್ನು । ಮನಸಾ—ಧ್ಯಾನರೂಪದಿಂದ । ಜಗೃಭ್ಯಾತ್—
+ಆಶ್ರಯಿಸಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಮಾನವನಾದ ಯಜಮಾನನು ಎಲ್ಲಾ ಕಡೆಗಳಿಂದಲೂ ಧನವನ್ನು ಪಡೆಯಲಿ. ಯಜ್ಞದ ಮಾರ್ಗದಿಂದಲೂ,
+ಹವಿಸ್ಸುಗಳಿಂದಲೂ ದೇವತೆಗಳನ್ನು ಪೂಜಿಸಲಿ. ತನ್ನ ಉತ್ತಮಜ್ಞಾನದಿಂದ ದೇವತೆಗಳನ್ನು ಧ್ಯಾನಿಸಲಿ. ಕಲ್ಯಾಣ
+ಕಾರಕನೂ, ಸರ್ವಸಮರ್ಥನೂ ಆದ ದೇವನನ್ನು ಧ್ಯಾನರೂಪದಿಂದ ಆಶ್ರಯಿಸಲಿ.
+
+*English Translation.*
+
+Let a mortal be ever desirous of affluence, (having acquired it), let him worship with oblations on the path of the sacrifice : and let him with his own intellect meditate upon (the gods) : let him grasp with his mind the best and most mighty (of the universal deities),
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಧಾಯಿ ಧೀತಿರಸಸೃಗ್ರಮಂಶಾಸ್ತೀರ್ಥೇ ನ ದಸ್ಮಮುಪ ಯಂತ್ಯೂಮಾಃ ।
+> ಅಭ್ಯಾನಶ್ಮ ಸುವಿತಸ್ಯ ಶೂಷಂ ನವೇದಸೋ ಅಮೃತಾನಾಮಭೂಮ ॥ ೩ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಧಾಯಿ । ಧೀತಿಃ । ಅಸಸೃಗ್ರಂ । ಅಂಶಾಃ । ತೀರ್ಥೇ । ನ । ದಸ್ಮಂ । ಉಪ । ಯಂತಿ । ಊಮಾಃ ।
+> ಅಭಿ । ಆನಶ್ಮ । ಸುವಿತಸ್ಯ । ಶೂಷಂ । ನವೇದಸಃ । ಅಮೃತಾನಾಂ । ಅಭೂಮ ॥ ೩ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಧೀತಿರ್ದೇವಯಾಗಕ್ರಿಯಾಧಾಯಿ । ನಿಹಿತಾ । ಸ್ಥಾಪಿತಾ । ಅಸ್ಮಾಭಿಃ ಪ್ರವರ್ತಿತೇತ್ಯರ್ಥಃ ।
+> ತದನಂತರಮೂನಾ ಅವಿತಾರಸ್ತರ್ಪಯಿತಾರೋಂಶಾ ಅಸ್ಮಾಭಿರ್ದತ್ತಾ ಹವಿರ್ಭಾಗಾ ದಸ್ಕಂ ದರ್ಶ-
+
+<!-- printed 818 -->
+*[818 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯.]*
+
+> ನೀಯಂ ಶತ್ರೂಣಾಮುಪಕ್ಷಪಯಿತಾರಂ ವಾಸಸೃಗ್ರಮಸಮಾನಸೃಷ್ಟಿಂ । ಉತ್ಕೃಷ್ಟಜನ್ಮಾನಮಿತ್ಯರ್ಥಃ ॥
+> ಏವಂಭೂತಂ ದೇವಸಂಘಮುಪ ಯಂತಿ । ಉಪಗಚ್ಛಂತಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ತೀರ್ಥೇ ನ ಯಥಾ
+> ಗಂಗಾದಿತೀರ್ಥೇ ತರ್ಪಣಮುಖೇ ವಿಸೃಷ್ಟಾ ಅಪಾಮಂಶಾ ದೇವಸಂಘಮುಪಗಚ್ಛಂತಿ ತದ್ವತ್ ।
+> ತದನಂತರಂ ವಯಂ ಸುವಿತಸ್ಯ ಸು ಇತಸ್ಯ ಸುಷ್ಟು ಪ್ರಾಪ್ತಸ್ಯ ಸ್ವರ್ಗಾದಿಕಸ್ಯ ಶೂಷಂ ಸುಖಮಭ್ಯಾನಶ್ಮ ।
+> ಅಭಿಪ್ರಾಪ್ನುಯಾಮ । ಕಿಂಚ । ವಯಮಮೃತಾನಾಂ ದೇವಾನಾಂ ನವೇದಸಃ ॥ ನ ವೇದೇತ್ಯೇತಸ್ಮಿನ್ನರ್ಥೇ ನವೇದಃಶಬ್ದೋ ನಭ್ರಾಣ್ಣಪಾನ್ನವೇದಾ ಇತಿ ನಿಪಾತಿತಃ ॥ ನ ನ ವೇತ್ತಾರೋ ವೇತ್ತಾರ
+> ಏವ । ಸ್ವರೂಪತೋ ಜ್ಞಾತಾರ ಏವೇತ್ಯರ್ಥಃ । ಅಭೂಮ । ಭವೇಮೇತ್ಯಶಾಸ್ಮಹೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಧೀತಿಃ—ಯಜ್ಞವು । ಅಧಾಯಿ—ಆರಂಭವಾಗಿದೆ । ತೀರ್ಥೇ ನ—ಪವಿತ್ರವಾದ ನದಿಗಳ ನೀರುಗಳು
+ದೇವತೆಗಳನ್ನು ಸಮೀಪಿಸುವಂತೆ । ಊಮಾಃ—ತೃಪ್ತಿಕಾರಕವಾದ । ಅಂಶಾಃ—ಹವಿರ್ಭಾಗಗಳು । ದಸ್ಮಂ—
+ಶತ್ರುನಾಶಕವೂ । ಅಸಸೃಗ್ರಂ—ಉತ್ಕಷ್ಟವಾದ ಉತ್ಪತ್ತಿಯುಳ್ಳದ್ದೂ ಆದ ದೇವಸಂಘವನ್ನು । ಉಪಯಂತಿ—
+ಸಮೀಪಿಸುತ್ತವೆ । ಸುವಿತಸ್ಯ—ಉತ್ತಮವಾದ ಸ್ವರ್ಗಾದಿಗಳ । ಶೂಷಂ—ಸುಖವನ್ನು । ಅಭ್ಯಾನಶ್ಯ—ನಾವು
+ಹೊಂದುವಂತಾಗಲಿ । ಅಮೃತಾನಾಂ—ದೇವತೆಗಳ ಸ್ವರೂಪವನ್ನು । ನವೇದಸಃ—ತಿಳಿದವರಾಗಿ । ಅಭೂಮ—
+ನಾವು ಆಗುವಂತಾಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಯಜ್ಞವು ಆರಂಭವಾಗಿದೆ. ಪವಿತ್ರವಾದ ನದಿಗಳ ಉದಕಗಳು ದೇವತೆಗಳನ್ನು ಸವಿಾಪಿಸುವಂತೆ ತೃಪ್ತಿಕರ
+ವಾದ ಹವಿರ್ಭಾಗಗಳು ಶತ್ರುನಾಶಕವೂ, ಉತ್ಕೃಷ್ಟವಾದ ಉತ್ಪತ್ತಿಯುಳ್ಳದ್ದೂ ಆದ ದೇವಸಂಘವನ್ನು ಸವಿಾಪಿಸು
+ತ್ತವೆ. ನಾವು ಉತ್ತಮವಾದ ಸ್ವರ್ಗಸುಖಕ್ಕೆ ಭಾಗಿಗಳಾಗೋಣ. ಉತ್ತಮವಾದ ದೇವತೆಗಳ ಮಹತ್ವವನ್ನು
+ಅರಿಯುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+The sacrifice has been prepared: the invigorating portions (of the
+oblation) approach the beautiful (god) of excellent birth, as (the waters)
+at a holy spot (approach the gods): may we obtain the happiness of
+heaven; may we have a real knowledge of the immortals.
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನಿತ್ಯಶ್ಚಾಕನ್ಯಾತ್ಸ್ವಪತಿರ್ದಮಾನಾ ಯಸ್ಮಾ ಉ ದೇವಃ ಸವಿತಾ ಜಜಾನ ।
+> ಭಗೋ ವಾ ಗೋಭಿರರ್ಯಮೇಮನಜ್ಯಾತ್ಸೋ ಅಸ್ಮೈ ಚಾರುಶ್ಚದಯದುತ
+> ಸ್ಯಾತ್ ॥ ೪ ॥
+
+<!-- printed 819 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 819]*
+
+*[॥ ಕದಪಾಂತ ॥]*
+
+*ಪದಪಾಠಃ*
+
+> ನಿತ್ಯಃ । ಚಾಕನ್ಯಾತ್ । ಸ್ವಪತಿಃ । ದಮೂನಾಃ । ಯಸ್ಮೈ । ಊಂ ಇತಿ । ದೇವಃ । ಸವಿತಾ । ಜಜಾನ ।
+> ಭಗಃ । ವಾ । ಗೋಭಿಃ । ಅರ್ಯಮಾ । ಈಂ । ಅನಜ್ಯಾತ್ । ಸಃ । ಅಸ್ಮೈ । ಚಾರುಃ । ಛದಯತ್ ।
+> ಉತ । ಸ್ಯಾತ್ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ನಿತ್ಯಃ ಕಲ್ಪಾವಸ್ಥಾಯೀ ಪ್ರಜಾಪತಿಶ್ಚಾಕನ್ಯಾತ್ । ತಸ್ಮೈ ದೃಷ್ಟಾದೃಷ್ಟಫಲಂ ದಾತುಂ
+> ಕಾಮಯತಾಂ । ಕೀದೃಶಃ । ಸ್ವಪತಿಃ । ಸ್ವೀಯಾನಾಂ ಪ್ರಜಾನಾಂ ಸ್ವಾಮೀ ಧನಪತಿರ್ವಾ ದಮೂನಾ
+> ದಾನಮನಾಃ । ಕಸ್ಯ ಕಾಮಯತಾಮಿತಿ ಉಚ್ಯತೇ । ಉ ಉತಾಪಿ ಚ ಯಸ್ಮೈ ಯಜಮಾನಾಯ
+> ಮಹ್ಯಂ ಸವಿತಾ ಸರ್ವಸ್ಯ ಪ್ರೇರಕೋ ದೇವೋ ಜಜಾನ ಜನಿತವಾನ್ ದೃಷ್ಟಾದೃಷ್ಟಫಲಂ
+> ದತ್ತವಾನಿತ್ಯರ್ಥಃ ! ವಾಶಬ್ದಃ ಸಮುಚ್ಚಯೇ । ತಥಾ ಭಗೋ ದೇವಶ್ಚ ಗೋಭಿರಸ್ಮದೀಯಾಭಿಃ
+> ಸ್ತುತಿರೂಪಾಭಿರ್ವಾಗ್ನಿರರ್ಯಮಾ ದೇವಶ್ಚೇಮಾದೃಗ್ಭೂತಂ ದೃಷ್ಟಾದೃಷ್ಟಫಲಮನಜ್ಯಾತ್ । ವ್ಯಕ್ತೀಕುರ್ಯಾತ್ । ದದ್ಯಾದಿತ್ಯರ್ಥಃ । ಉತಾಪಿ ಚ ಸ್ಯಾತ್ ಅನ್ನೋಽಪಿ ಯೋ ದೇವಗಣೋಽಸ್ತಿ ಚಾರೂ
+> ರಮಣೀಯಃ ಸೋಽಪಿ ದೇವಗಣೋಽಸ್ಮೈ ಯಜಮಾನಾಯ ಮಹ್ಯಂ ಛದಯತ್ । ದೃಷ್ಟಾದೃಷ್ಟಫಲಂ
+> ದಾತುಂ ಕಾಮಯತಾಮಿತ್ಯೇತದಾಶಾಸ್ಮಹೇ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯಸ್ಮೈ—ಯಾವ ಯಜಮಾನನಾದ ನನಗೆ । ದೇವಃ—ದೇವತಾತ್ಮನಾದ । ಸವಿತಾ—ಸವಿತೃವು ।
+ಜಜಾನ—ಸೃಷ್ಟಿಕರ್ತನಾಗಿದ್ದಾನೆಯೋ ಆ ನನಗೆ । ದಮೂನಾಃ—ಉದಾರವಾಗಿ ದಾನಮಾಡತಕ್ಕವನೂ ।
+ಸ್ವಪತಿಃ—ಧನಪತಿಯೂ । ನಿತ್ಯಃ—ಶಾಶ್ವತಸ್ಥಿತಿಯುಳ್ಳವನೂ ಆದ ಪ್ರಜಾಪತಿಯು । ಚಾಕನ್ಯಾತ್—ಅಪೇಕ್ಷಿತ
+ವಾದ ವಸ್ತುಗಳನ್ನು ಕೊಡಲಿ । ಭಗಃ—ಭಗದೇವನೂ । ಗೋಭಿಃ—ನಮ್ಮ ಸ್ತುತಿಗಳಿಂದ ಪ್ರಶಂಸಿತನಾದ ।
+ಅರಮಾ—ಅರಮನೂ । ಈಂ—ಈ ಇಷ್ಟಾರ್ಥಗಳನ್ನೆಲ್ಲ । ಅನಜ್ಯಾತ್—ಒದಗಿಸಿಕೊಡಲಿ । ಉತ—ಮತ್ತು ।
+ಚಾರುಃ—ಆಕರ್ಷಕನಾದ । ಯಃ ಸ್ಯಾತ್—ಯಾವ ಇತರ ದೇವತೆಯಿದ್ದರೆ । ಸಃ—ಅವನೂ । ಅಸ್ಮೈ—
+ನನಗೆ । ಛದಯತ್—ಇಷ್ಟಾರ್ಥಗಳನ್ನೊದಗಿಸಲಿ.
+*[೧ ಭಾನಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಯಾವ ಯಜಮಾನನಾದ ನನಗೆ ಸವಿತೃವು ಸೃಷ್ಟಿಕರ್ತನಾಗಿ ಇದ್ದಾನೆಯೋ, ಆ ನನಗೆ ಉದಾರವಾಗಿ
+ದಾನಮಾಡತಕ್ಕವನೂ ಧನಪತಿಯೂ ಶಾಶ್ವತಸ್ಥಿತಿಯುಳ್ಳವನೂ ಆದ ಪ್ರಜಾಪತಿಯು ಅಪೇಕ್ಷಿತವಾದ ವಸ್ತುಗಳನ್ನು
+ಕೊಡಲಿ. ಭಗನೂ, ನಮ್ಮ ಸ್ತುತಿಗಳಿಂದ ಪ್ರಶಂಸಿತನಾದ ಅರಮನನೂ, ಈ ಇಷ್ಟಾರ್ಥಗಳನ್ನೆಲ್ಲ ಒದಗಿಸಲಿ.
+ಆಕರ್ಷಕವಾದ ರೂಪವುಳ್ಳ ಇತರ ದೇವಸಂಘವೂ ನಮ್ಮ ಇಷ್ಟಾರ್ಥಗಳನ್ನೊದಗಿಸಲಿ.
+
+<!-- printed 820 -->
+*[820 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೧]*
+
+
+*English Translation.*
+
+May the eternal (Prajapati), the lord of wealth, of generous mind, be willing to bestow (benefits on him) to whom the divine Savitri has given birth : may Bhaga (induced) by (our) praises, and the divine Aryaman unfold (future rewards); or may some (other) gracious (divinity) be inclined to favour this (institutor of the rite).
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಇಯಂ ಸಾ ಭೂಯಾ ಉಷಸಾಮಿವ ಕ್ಷಾ ಯದ್ಧ ಕ್ಷುಮಂತಃ ಶವಸಾ
+> ಸಮಾಯನ್ ।
+> ಅಸ್ಯ ಸ್ತುತಿಂ ಜರಿತುರ್ಭಿಕ್ಷಮಾಣಾ ಆ ನಃ ಶಗ್ಮಾಸ ಉಪ ಯಂತು
+> ವಾಜಾಃ ॥ ೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಇಯಂ । ಸಾ । ಭೂಯಾಃ । ಉಷಸಾಂ ಇವ । ಕ್ಷಾಃ । ಯತ್ । ಹ । ಕ್ಷುಮಂತಃ । ಶವಸಾ । ಸಂಆಯನ್ ।
+> ಅಸ್ಯ । ಸ್ತುತಿಂ । ಜರಿತುಃ । ಭಿಕ್ಷಮಾಣಾಃ । ಆ । ನಃ । ಶಗ್ಮಾಸಃ । ಉಪ । ಯಂತು । ವಾಜಾಃ ॥ ೫ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಕ್ಷುಮಂತಃ। ಕ್ಷುಶಬ್ದೋಽನ್ನವಾಚೀ ಶಬ್ದವಾಚಿ: ವಾ। ಅನ್ನವಂತಃ ಸ್ತುತಿಮಂತಃ ಕೀರ್ತಿಮಂತೋ
+> ವೇತ್ಯರ್ಥಃ । ಏವಂಭೂತಾ ದೇವಾಃ ಶವಸಾ ಬಲೇನ ಯದ್ಯಾಮಸ್ಮದೀಯಾಂ ಸ್ತುತಿಂ ಪ್ರತಿ ಸಮಾಯನ್।
+> ಸಮಾಗಚ್ಛನ್ ಸಂಪ್ರಾಪ್ತಾಃ ಸೇಯಂ ಸ್ತುತಿರ್ದೇವಾನಾಂ ಪ್ರಾಪ್ಯಾ ಭೂಯಾಃ । ಭೂಯಾತ್ । ಭವತು ।
+> ಉಷಸಾಮಿವ ಕ್ಷಾಃ ಯಥಾ ಪೃಥಿವ್ಯುಷಸಾಂ ವ್ಯಾಪ್ಯಾ ಸರ್ವೇಷಾಂ ಪ್ರಾಪ್ಯಾ ಭವತಿ ತದ್ವತ್ ।
+> ಕಿಂಚ ಜರಿತುಃ ಸ್ತೋತುರಸ್ಯ ಮಮ ಸ್ತುತಿಂ ಭಿಕ್ಷಮಾಣಾ ಯಾಚಮಾನಾಃ ಶಗ್ಮಾಸಃ । ಶಗ್ಮಿತಿ
+> ಸುಖನಾಮ। ಸುಖಾಃ ಸುಖಕರಾ ವಾಜಾಃ ಸುಧನ್ವನಃ ಪುತ್ರಾಸ್ತ್ರಯೋಽಪ್ಯಭುರ್ವಿಭ್ವಾ ವಾಜ ಇತ್ಯೇತೇ
+> ನೋಽಸ್ಮಾನಾಭಿಮುಖ್ಯೇನೋಪ ಯಂತು । ಉಪಗಚ್ಛಂತು ॥
+
+<!-- printed 821 -->
+*[ಅ. ೭ ಅ. ೭. ವ. ೨೮.] ಋಗ್ವೇದಸಂಹಿತಾ 821]*
+
+*[೧೭. ತ್ರಿಪದಾರ್ಥ।]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಕ್ಷಾಃ—ಪೃಥ್ವಿಯು । ಉಷಸಾಂ ಇವ—ಉಷಃಕಾಲಗಳಲ್ಲಿ ಸರ್ವರಿಗೂ ಆಶ್ರಯಸ್ಥಾನವಾಗಿರುವಂತೆ ।
+ಕ್ಷುಮಂತಃ—ಅನ್ನವಂತರಾದ ದೇವತೆಗಳು । ಶವಸಾ—ತಮ್ಮ ಪ್ರಭಾವದಿಂದ । ಯತ್—ಯಾವ ನಮ್ಮ ಈ
+ಸ್ತುತಿಯನ್ನು ಆಶಿಸಿ । ಸಮಾಯನ್—ಒಟ್ಟುಗೂಡಿ ಬಂದಿರುವರೋ । ಸಾ ಇಯಂ—ನಮ್ಮ ಈ ಅದೇ
+ಸ್ತುತಿಯು । ಭೂಯಾಃ—ಅವರನ್ನು ಸೇರಲಿ । ಜರಿತುಃ—ಸ್ತುತಿಕರ್ತನಾದ । ಅಸ್ಯ—ನನ್ನ । ಸ್ತುತಿಂ—
+ಸ್ತುತಿಯನ್ನು । ಭಿಕ್ಷಮಾಣಾಃ—ಅಪೇಕ್ಷಿಸುವವರೂ । ಶಗ್ಮಾಸಃ—ಸುಖಕಾರಕರೂ ಆದ । ವಾಜಾಃ—ಸುಧನ್ವ
+ಪುತ್ರರು । ನಃ—ನಮ್ಮಲ್ಲಿಗೆ । ಉಪಯಂತು—ದಯಮಾಡಲಿ.
+*[• ಭಾವಾರ್ಥ •]*
+
+*ಭಾವಾರ್ಥ*
+
+ಉಷಃಕಾಲಗಳಲ್ಲಿ ಪೃಥ್ವಿಯು ಸರ್ವರಿಗೂ ಆಶ್ರಯಸ್ಥಾನವಾಗಿರುವಂತೆ, ಅನ್ನವಂತರಾದ ದೇವತೆಗಳು
+ತಮ್ಮ ಪ್ರಭಾವದಿಂದ ಯಾವ ನಮ್ಮ ಈ ಸ್ತುತಿಯನ್ನು ಆಶಿಸಿ ಒಟ್ಟುಗೂಡಿ ಬಂದಿರುವರೋ ನಮ್ಮ ಅದೇ ಸ್ತುತಿಯು
+ಅವರನ್ನು ಸೇರಲಿ. ಸ್ತುತಿಕರ್ತನಾದ ನನ್ನ ಸ್ತುತಿಯನ್ನು ಅಪೇಕ್ಷಿಸುವವರೂ, ಸುಖಕಾರಕರೂ ಆದ ಸುಧನ್ವಪುತ್ರರು
+ನಮ್ಮಲ್ಲಿಗೆ ದಯಮಾಡಲಿ.
+
+*English Translation.*
+
+May this (our praise) be accessible like the earth at dawn, when the glorious (gods) assemble in their might : may the Vajas, the dispensers of happiness, come to us, soliciting the laudation of this (their) adorer.
+*[೧ ಸಂಹಿತಾಪಾರ‍್ಯ 1]*
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಸ್ಯೇದೇಷಾ ಸುಮತಿಃ ಪಪ್ರಥಾನಾಭವತ್ಪೂರ್ವಾ ಭೂಮನಾ ಗೌಃ ।
+> ಅಸ್ಯ ಸನೀಳಾ ಅಸುರಸ್ಯ ಯೋನ್ ಸಮಾನ ಆ ಭರಣೇ ಬಿಭ್ರಮಾಣಾಃ ॥೬॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಸ್ಯ । ಇತ್ । ಏಷಾ । ಸುಮತಿಃ । ಪಪ್ರಥಾನಾ । ಅಭವತ್ । ಪೂರ್ವಾ । ಭೂಮನಾ । ಗೌಃ ।
+> ಅಸ್ಯ । ಸನೀಳಾಃ । ಅಸುರಸ್ಯ । ಯೋನ್ । ಸಮಾನೇ । ಆ । ಭರಣೇ । ಬಿಭ್ರಮಾಣಾಃ ॥ ೬ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಇದಿದಾನೀಮಸ್ಯ ದೇವಗಣಸಂಬಂಧಿನ್ಯೇಷಾ ಸುಮತಿಃ ಸುಷ್ಟುಸ್ತುತಿಃ ಪಪ್ರಥಾನಾಭವತ್ ।
+> ವಿಸ್ತೀರ್ಯಮಾಣಾಭೂತ್ । ಅಸ್ಮಾಭಿಃ ಕ್ರಿಯಮಾಣೇತ್ಯರ್ಥಃ । ಕೀದೃಶೀ । ಪೂರ್ವಾ ಪೂರ್ವಕಾಲೀನಾ
+
+<!-- printed 822 -->
+*[822 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಆ. ೩ ಸೂ. ೩೧.]*
+
+> ಭೂಮನಾ ಭೂಮ್ನಾ ಬಹುತ್ವೇನ ಯುಕ್ತೇತಿ ಶೇಷಃ । ಸರ್ವದೇವಸಂಬಂಧಿತ್ವಾದೃಶಂ ಜಾತೇತ್ಯರ್ಥಃ ।
+> ಗೌರ್ದೇವಾನ್ಪ್ರತಿಗಂತ್ರಿ । ಏತಜ್ಜಾತ್ವಾ ಸರ್ವೇ ದೇವಾ ಅಸುರಸ್ಯ ಪ್ರಜಾರೂಪಬಲವತೋಽಸ್ಯ
+> ಮಮ ಸಂಬಂಧಿನಿ ಸಮಾನೇ ಸರ್ವದೇವಸಾಧಾರಣೇ ಭರಣೇ ಸರ್ವೇಷಾಂ ದೇವಾನಾಂ ಪುಷ್ಟಿಕರೇ
+> ಯೋನ್ ಯಜ್ಞಾಖ್ಯೆ ಸ್ಥಾನೇ ಸನೀಳಾಃ ಸಮಾನಸ್ಥಾನಾ ಬಿಭ್ರಮಣಾ ಅಸ್ಮದರ್ಥಂ ದೃಷ್ಟಾದೃಷ್ಟಫಲಂ
+> ಧಾರಯಂತ ಆ ಗಚ್ಛಂತ್ವಿತಿ ಶೇಷಃ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇತ್—ಈಗ । ಅಸ್ಯ—ಈ ದೇವಗಣಕ್ಕೆ ಅರ್ಪಿಸಿದುದೂ । ಪೂರ್ವಾ—ಪುರಾತನವಾದದೂ ।
+ಗೌಃ—ದೇವತೆಗಳಲ್ಲಿ ಹೋಗತಕ್ಕದ್ದೂ । ಭೂಮನಾ—ಬಹುತ್ವ ಯುಕ್ತವಾದುದೂ ಆದ । ಏಷಾ ಸುಮತಿಃ—
+ಈ ಸ್ತುತಿಯು । ಪಪ್ರಥಾನಾ—ವಿಸ್ತ್ರತವಾದ ಬೆಳೆವಣಿಗೆಯುಳ್ಳದ್ದಾಗಿ । ಅಭವತ್—ಆಯಿತು । ಅಸುರಸ್ಯ—
+ಶಕ್ತಿಯುತನಾದ । ಅಸ್ಯ—ಈ ನನ್ನಿಂದ ನೆರವೇರಿಸಲ್ಪಡುವುದೂ । ಸಮಾನೇ—ಸಕಲ ದೇವತೆಗಳಿಗೂ ।
+ಸಾಧಾರಣವಾದುದೂ । ಭರಣೇ—ಸಕಲ ದೇವತೆಗಳಿಗೂ ಪುಷ್ಟಿಕರವಾದುದೂ ಆದ । ಯೋನ್ಸೌ—ಯಜ್ಞ
+ಸ್ಥಾನದಲ್ಲಿ । ಸನೀಳಾಃ—ಸಮಾನಸ್ಥಾನವುಳ್ಳವರೂ । ಬಿಭ್ರಮಾಣಾಃ—ನಮಗೆ ಫಲಗಳನ್ನು ಧರಿಸುವವರೂ
+ಆದ ದೇವತೆಗಳು । ಆ (ಗಚ್ಛಂತು) — ದಯಮಾಡಲಿ.
+*[೧ ಭಾನಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ದೇವಗಣಕ್ಕೆ ಅರ್ಪಿಸಿದುದೂ, ಪುರಾತನವಾದುದೂ, ಬಹುತ್ವಯುಕ್ತವಾದುದೂ ಆದ ಈ ಸ್ತುತಿಯು
+ವಿಸ್ತ್ರತವಾದ ಬೆಳೆವಣಿಗೆಯುಳ್ಳದ್ದಾಗಿ ಆಯಿತು. ಶಕ್ತಿಯುತನಾದ ನನ್ನಿಂದ ನೆರವೇರಿಸಲ್ಪಡುವುದೂ, ಸಕಲ
+ದೇವತೆಗಳಿಗೂ ಸಾಧಾರಣವಾದುದೂ, ಸಕಲ ದೇವತೆಗಳಿಗೂ ಪುಷ್ಟಿಕರವಾದುದೂ ಆದ ಯಜ್ಞಸ್ಥಾನದಲ್ಲಿ ಸಮಾನ
+ಸ್ಥಾನವುಳ್ಳವರೂ, ನಮಗೆ ಫಲಗಳನ್ನು ಕೊಡುವವರೂ ಆದ ದೇವತೆಗಳು ದಯಮಾಡಲಿ.
+*[English Translatian]*
+
+*English Translation.*
+
+May this glorification, of this (assembly of the gods), ancient and frequent, approaching (the deities), be widely diffused, (may the universal gods), collected together, bearing (future rewards, come) to the common place (of sacrifice) of this one who is mighty, which nourishes (them).
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಕಿಂಸ್ವಿದ್ಧ್ವನಂ ಕ ಉ ಸ ವೃಕ್ಷ ಆಸ ಯತೋ ದ್ಯಾವಾಪೃಥಿವೀ ನಿಷ್ತತಕ್ಷುಃ ।
+> ಸಂತಸ್ಥಾನೇ ಅಜರೇ ಇತಊತೀ ಅಹಾನಿ ಪೂರ್ವೀರುಷಸೋ ಜರಂತ ॥೭॥
+
+<!-- printed 823 -->
+*[ಅ. ೭ ಅ. ೭. ವ. ೨೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 823]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಕಿಂ । ಸ್ವಿತ್ । ವನಂ । ಕಃ । ಊಂ ಇತಿ । ಸಃ । ವೃಕ್ಷಃ । ಆಸ । ಯತಃ । ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ ।
+> ನಿಃತತಕ್ಷುಃ ।
+> ಸಂತಸ್ಥಾನೇ ಇತಿ ಸಂತಸ್ಥಾನೇ । ಅಜರೇ ಇತಿ । ಇತಊತೀ ಇತೀತಃಊತೀ । ಅಹಾನಿ । ಪೂರ್ವೀ೯।
+> ಉಷಸಃ । ಜರಂತ ॥ ೭ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯತೋ ಯಸ್ಮಾದ್ವೃಕ್ಷಾದ್ದ್ಯಾವಾಪೃಥಿವೀ ದ್ಯಾವಾಪೃಥಿವ್ಯ ನಿಷ್ಕೃತಕ್ಷುಃ ದೇವಾ ನಿಃಶೇಷೇಣ
+> ಕೃತವಂತಃ ಸ ತಾದೃಶೋ ವೃಕ್ಷಃ ಕ ಉ ಆಸ । ಕೀದೃಗ್ವಾ ಬಭೂವ । ತದುತ್ಪಾದಕಂ ವನಮರಣ್ಯಂ ಕಿಂ
+> ಸ್ವಿತ್ । ಸಂತಸ್ಥಾನೇ ಸಮ್ಯಕ್ತಿಷ್ಠಂತ್ಯಾವಜರೇ ಜರಾವರ್ಜಿತೇ ಇತಊತೀ ಇತ ಏತೇಭ್ಯೋ
+> ದೇವೇಭ್ಯೋ ರಕ್ಷಣಂ ಯಯೋಸ್ತೇ । ಕಿಂಚಾಹಾನಿ ಸರ್ವಾಣಿ ದಿನಾನಿ ಪೂರ್ವೀರ್ಬಹೀರುಷಸಶ್ಚ ದೇವಾ
+> ನಿಷ್ಕೃತಕ್ಷುಃ । ಏವಂಭೂತಾನ್ನೇವಾಞ್ಜರಂತ । ಸ್ತೋತಾರಃ ಸ್ತುವಂತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸಂತಸ್ಥಾನೇ—ಸ್ಥಿರವಾಗಿರತಕ್ಕವೂ । ಅಜರೇ—ಜರಾರಹಿತವೂ । ಇತಊತೀ—ದೇವತೆಗಳಿಗೆ
+ರಕ್ಷಣೆಯನ್ನು ನೀಡುವುವೂ ಆದ । ದ್ಯಾವಾಪೃಥಿವೀ—ದ್ಯಾವಾಪೃಥಿವಿಗಳನ್ನೂ । ಅಹಾನಿ—ದಿನಗಳನ್ನೂ ।
+ಪೂರ್ವೀ ಉಷಸಃ—ಅನೇಕವಾದ ಉಷಸ್ಸುಗಳನ್ನೂ । ಯತಃ—ಯಾವ ವೃಕ್ಷದಿಂದ । ನಿಷ್ಕೃತಕ್ಷುಃ—
+ದೇವತೆಗಳು ನಿರ್ಮಿಸಿದರೋ । ಸಃ ವೃಕ್ಷಃ—ಆ ವೃಕ್ಷವು । ಕ ಉ ಆಸ—ಯಾವುದಾಗಿರುತ್ತದೆ । ವನಂ—
+ಆ ವೃಕ್ಷವಿರುವ ಅರಣ್ಯವು । ಕಿಂ ಸ್ವಿತ್—ಯಾವುದಾಗಿರುತ್ತದೆ । ಜರಂತ—(ಈ ಸೃಷ್ಟಿಕಾರ್ಯವನ್ನು) ಸ್ತುತಿಕರ್ತರು ಪ್ರಶಂಸಿಸುತ್ತಾರೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಸ್ಥಿರವಾಗಿರತಕ್ಕವೂ, ಜಾರಾರಹಿತವೂ, ದೇವತೆಗಳಿಗೆ ರಕ್ಷಣೆಯನ್ನು ನೀಡುವುದೂ ಆದ ದ್ಯಾವಾಪೃಥಿವಿ
+ಗಳನ್ನೂ, ಅಹಸ್ಸುಗಳನ್ನೂ ಅನೇಕ ಉಷಃಕಾಲಗಳನ್ನೂ ಯಾವ ವೃಕ್ಷದಿಂದ ದೇವತೆಗಳು ನಿರ್ಮಿಸಿದರೋ ಆ ವೃಕ್ಷವು
+ಯಾವುದು ? ಆ ವೃಕ್ಷವಿರುವ ಅರಣ್ಯವು ಯಾವುದು ?
+
+*English Translation.*
+
+What is the forest, which is the tree, out of which (the gods) have fabricated heaven and earth, ever stationary and undecaying, giving protection to the deities; through numerous days and dawns (men) praise (the gods for this),
+
+<!-- printed 824 -->
+*[824 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ ೩೧]*
+
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನೈತಾವದೇನಾ ಪರೋ ಅನ್ಯದಸ್ತುಕ್ಷಾ ಸ ದ್ಯಾವಾಪೃಥಿವೀ ಬಿಭರ್ತಿ ।
+> ತ್ವಚಂ ಪವಿತ್ರಂ ಕೃಣುತ ಸ್ವಧಾವಾನ್ಯದೀಂ ಸೂರ್ಯಂ ನ ಹರಿತೋ
+> ವಹಂತಿ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ನ । ಏತಾವತ್ । ಏನಾ । ಪರಃ । ಅನ್ಯತ್ । ಅಸ್ತಿ । ಉಕ್ಷಾ । ಸಃ । ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ । ಬಿಭರ್ತಿ ।
+> ತ್ವಚಂ । ಪವಿತ್ರಂ । ಕೃಣುತ । ಸ್ವಧಾವಾನ್ । ಯತ್ । ಈಂ । ಸೂರ್ಯಂ । ನ । ಹರಿತಃ । ವಹಂತಿ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ದ್ಯಾವಾಪೃಥಿವ್ಯೋರ್ನಿರ್ಮಾಣರೂಪಮೇತಾವದ್ದೇವಜಾತಂ ಸಾಮರ್ಥ್ಯೇನ ಯುಕ್ತಮಿತಿ ನ ।
+> ಆಪಿ ತ್ವೇನೈತೇಭ್ಯೋ ದೇವೇಭ್ಯಃ ಪರ ಉತ್ಕೃಷ್ಟೋಽನ್ಯದನ್ನೋ ಹಿರಣ್ಯಗರ್ಭೋಽಸ್ತಿ । ಉಕ್ಷಾ ಸೇಕ್ತಾ ।
+> ಪ್ರಜಾನಾಂ ಸ್ರಷ್ಟೇತ್ಯರ್ಥಃ । ಹಿರಣ್ಯಗರ್ಭಃ ಪರಮಸೂಕ್ಷ್ಮೋ ವಾಯುರೂಪೋ ಲಿಂಗಾತ್ಮಾಪಃ ಪ್ರವಿಶ್ಯ
+> ದ್ಯಾವಾಪೃಥಿವೀ ದ್ಯಾವಾಪೃಥಿನೌ ಬಿಭರ್ತಿ । ಧಾರಯತಿ । ಕಿಂ ಚ । ಸ್ವಧಾವಾನ್ಬಲವಾನನ್ನನಾನ್ವಾಸ
+> ಹಿರಣ್ಯಗರ್ಭಃ ಪವಿತ್ರಂ ಪವಿತ್ರಮಯಂ ತ್ವಚಮಾತ್ಮೀಯಂ ಶರೀರಂ ದೀಪ್ತಂ ಮಂತ್ರಂ ವಾ ಕೃಣುತ ।
+> ಕರೋತಿ । ಕದೇತಿ ಉಚ್ಯತೇ । ಯದ್ಯದೇಮಿಮಾಂ ತ್ವಚಂ ಹರಿತೋಽಶ್ವಾಃ ಸೂರ್ಯಂ ನ ವಹಂತಿ ನ
+> ಪ್ರಾಪಯಂತಿ ತದೇತಿ । ಸೃಷ್ಟೇಃ ಪ್ರಾಗಿತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಏತಾವತ್ ನ-ದೇವತೆಗಳ ಈ ಸೃಷ್ಟಿಕಾರ್ಯವೇ ಅಷ್ಟು ಮಹತ್ವದ್ದಲ್ಲ । ಏನಾ-ಇದಕ್ಕಿಂತಲೂ ।
+ಪರಃ-ಉತ್ಕೃಷ್ಟವಾದ । ಅನ್ಯತ್-ಬೇರೊಂದು ಶಕ್ತಿಯು । ಅಸ್ತಿ-ಇರುತ್ತದೆ । ಉಕ್ಷಾ-ಸೃಷ್ಟಿಕರ್ತನಾದ ।
+ಸಃ-ಹಿರಣ್ಯಗರ್ಭರೂಪನಾದ ಪರಮಾತ್ಮನು । ದ್ಯಾವಾಪೃಥಿವೀ-ದ್ಯಾವಾಪೃಥಿವಿಗಳನ್ನು ! ಬಿಭರ್ತಿ-ಧರಿಸಿ
+ದ್ದಾನೆ । ಯತ್-ಯಾವಾಗ । ಈಂ-ಈ ಹಿರಣ್ಯಗರ್ಭನ ಶರೀರವನ್ನು । ಹರಿತಃ-ಅಶ್ವಗಳು । ಸೂರ್ಯಂಸೂರ್ಯನಲ್ಲಿಗೆ । ನ ವಹಂತಿ-ವಹಿಸುವುದಿಲ್ಲವೋ ಆಗ (ಅದಕ್ಕೆ ಪೂರ್ವಭಾವಿಯಾಗಿ) । ಸ್ವಧಾವಾನ್ಶಕ್ತಿಯುತನಾದ ಈ ಹಿರಣ್ಯಗರ್ಭನು । ಪವಿತ್ರಂ-ಪರಿಶುದ್ಧವಾದ । ತ್ವಚಂ-ತನ್ನ ಶರೀರವನ್ನು । ಕೃಣುತನಿರ್ಮಿಸುತ್ತಾನೆ.
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಹಿಂದೆ ವಿವರಿಸಿರುವ ದೇವತೆಗಳ ಸೃಷ್ಟಿಕಾರ್ಯಕ್ಕಿಂತಲೂ ಅಧಿಕವಾದ ಮಹತ್ವವುಳ್ಳ ಇನ್ನೊಂದು ಶಕ್ತಿಯು
+ಇರುತ್ತದೆ. ಸೃಷ್ಟಿಕರ್ತನೂ ಹಿರಣ್ಯಗರ್ಭರೂಪನೂ ಆದ ಪರಮಾತ್ಮನು ದ್ಯಾವಾಪೃಥಿವಿಗಳನ್ನು ಧರಿಸಿದ್ದಾನೆ.
+
+<!-- printed 825 -->
+*[ಅ. ೭. ಆ. ೭. ವ. ೨೮.] ಋಗ್ವೇದಸಂಹಿರಾ 825]*
+
+ಹಿರಣ್ಯಗರ್ಭನ ಈ ಶರೀರವನ್ನು ಅಶ್ವಗಳು ಸೂರ್ಯನಲ್ಲಿಗೆ ವಹಿಸುವುದಕ್ಕೆ ಪೂರ್ವಭಾವಿಯಾಗಿಯೇ, ಎಂದರೆ ಸೃಷ್ಟಿ
+ಕಾರ್ಯಕ್ಕೆ ಪೂರ್ವಭಾವಿಯಾಗಿಯೇ ಶಕ್ತಿಯುತನಾದ ಹಿರಣ್ಯಗರ್ಭನು ಪರಿಶುದ್ಧವಾದ ತನ್ನ ಶರೀರವನ್ನು ನಿರ್ಮಿಸು
+ತ್ತಾನೆ.
+
+*English Translation.*
+
+Not such (is their power): there is another greater than they : the creator, he sustains heaven and earth : possessed of might, he makes a pure skin, before his horses bear it to the sun.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸ್ವೇಗೋ ನ ಕ್ಷಾಮತ್ಯೇತಿ ಪೃಥ್ವೀಂ ಮಿಹಂ ನ ವಾತೋ ವಿ ಹ ವಾತಿ
+> ಭೂಮ ।
+> ಮಿತ್ರೋ ಯತ್ರ ವರುಣೋ ಅಜ್ಯಮಾನೋಽಗ್ನಿರ್ವನೇ ನ ವ್ಯಸೃಷ್ಟ
+> ಶೋಕಂ ॥ ೯ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಸ್ವೇಗಃ । ನ । ಕ್ಷಾಂ । ಅತಿ । ಏತಿ । ಪೃಥ್ವೀಂ । ಮಿಹಂ । ನ । ವಾತಃ । ವಿ । ಹ । ವಾತಿ । ಭೂಮ ।
+> ಮಿತ್ರಃ । ಯತ್ರ । ವರುಣಃ । ಅಜ್ಯಮಾನಃ । ಅಗ್ನಿಃ । ವನೇ । ನ । ವಿ । ಅಸೃಷ್ಟ । ಶೋಕಂ ॥ ೯ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಸ್ತೇಗಃ ॥ ಸ್ತೈಷ್ಠ್ಯ ಶಬ್ದ ಸಂಘಾತಯೋಃ । ರಶ್ಮಿಸಂಘಾತ್ಯಾದಿತ್ಯಃ ಪೃಥ್ವಿಂ ವಿಸ್ತೀರ್ಣಾಂ
+> ಕ್ಷಾಂ ಭೂಮಿಂ ತೇಜಸಾ ನಾತ್ಯೇತಿ । ನಾತಿಗಚ್ಛತಿ । ಮರ್ಯಾದಯಾ ತಿಷ್ಠತೀತ್ಯೇವಮಾದಿತ್ಯಃ
+> ಸೂಯತೇ । ವಾತೋ ವಾಯುರಪಿ ಖಲು ಭೂಮ ಭೂಮಿಂ ಮಿಹಂ ವೃಷ್ಟಿಂ ನ ವಿ ವಾತಿ ।
+> ಸಮರ್ಥೋಽಪಿ ಸನ್ ವಿವಿಧಂ ನ ಗಮಯತಿ । ಭೂಮಿಂ ಪ್ರತಿ ಸಾವಶೇಷಮೇವ ವರ್ಷಯತೀತಿ ವಾತಃ
+> ಸೂಯತೇ । ಯತ್ರ ಯಸ್ಮಿನ್ನಜಾಪತ್ ಮಿತ್ರೋ ದೇವೋಽಜ್ಯಮಾನೋ ವ್ಯಜ್ಯಮಾನೋ ವ್ಯಕ್ತಿಭವನ್ । ಉತ್ಪಾದ್ಯಮಾನ ಇತ್ಯರ್ಥಃ । ಶೋಕಂ ಸ್ವೀಯಾಂ ದೀಪ್ತಿಂ ವ್ಯಸೃಷ್ಟ ವಿಸೃಜತಿ ಸರ್ವತೋ
+> ವಿಕ್ಷಿಪತಿ ತಥಾ ವರುಣಶ್ಚ ವ್ಯಕ್ತಿಭವನ್ಸ್ದೀಪ್ತಿಂ ವಿಕ್ಷಿಪತಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಅಗ್ನಿರ್ದೇವೋ ವನೇ
+> ನ ಯಥಾ ವೃಕ್ಷಸಂಘಾತೇ ಸ್ವದೀಪ್ತಿಂ ಸರ್ವತೋ ವಿಸೃಜತಿ ತದ್ವತ್ । ತಾದೃಶಂ ಪ್ರಜಾಪತಿಂ ಸ್ವಾಮಾತಿ
+> ಶೇಷಃ ॥
+
+<!-- printed 826 -->
+*[826 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೧]*
+
+*[॥ ಪ್ರತಿದಾರ್ಥ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸ್ತೇಗಃ—ಆದಿತ್ಯನು । ಪೃಥ್ವಿಂ—ವಿಸ್ತೃತವಾದ । ಕ್ಷಾಂ—ಭೂಮಿಯನ್ನು । ನ ಅತ್ಯೇತಿ—
+ಮೀರುವುದಿಲ್ಲ । ವಾತಃ—ವಾಯುವೂ । ಭೂಮ—ಭೂಮಿಗಭಿಮುಖವಾಗಿ । ಮಿಹಂ—ವೃಷ್ಟಿಯನ್ನು ।
+ನ ವಿ ವಾತಿ—ಮಿತಿಮೀರಿ ಸುರಿಸುವುದಿಲ್ಲ । ಅಗ್ನಿಃ—ಅಗ್ನಿಯು । ವನೇ ನ—ವನದಲ್ಲಿ ತನ್ನ ಜ್ವಾಲೆಯನ್ನು
+ಪ್ರಸರಿಸುವಂತೆ ! ಯತ್ರ—ಯಾವ ಪ್ರಜಾಪತಿಯಲ್ಲಿ । ಮಿತ್ರಃ—ಮಿತ್ರದೇವನು । ಅಜ್ಯಮಾನಃ—ಉತ್ಪನ್ನನಾಗಿ ।
+ಶೋಕಂ—ತನ್ನ ಕಾಂತಿಯನ್ನು । ವ್ಯಸೃಷ್ಟ—ಸುತ್ತಲೂ ಹರಡುವನೋ (ಮತ್ತು) । ವರುಣಃ—ವರುಣನೂ ತನ್ನ
+ಪ್ರಕಾಶವನ್ನು ಹರಡುವನೋ (ಆ ಪ್ರಜಾಪತಿಯನ್ನು ಸ್ತುತಿಸುತ್ತೇನೆ)
+
+*ಭಾವಾರ್ಥ*
+
+ಆದಿತ್ಯನು ಪೃಥ್ವಿಗೆ ತನ್ನ ಮಯ್ಯಾದೆಯನ್ನು ಮೀರಿ ತೇಜಸ್ಸನ್ನು ಹರಡುವುದಿಲ್ಲ. ವಾಯುವೂ ಸಹ
+ಭೂಮಿಗಭಿಮುಖವಾಗಿ ಮಿತಿಮೀರಿ ವೃಷ್ಟಿಯನ್ನು ಸುರಿಸುವುದಿಲ್ಲ. ಅಗ್ನಿಯು ವನದಲ್ಲಿ ತನ್ನ ಜ್ವಾಲೆಯನ್ನು
+ಪ್ರಸರಿಸುವಂತೆ, ಯಾವ ಪ್ರಜಾಪತಿಯಲ್ಲಿ ಮಿತ್ರಾವರುಣರಿಬ್ಬರೂ ಉತ್ಪನ್ನರಾಗಿ ತಮ್ಮ ಕಾಂತಿಯನ್ನು ಹರಡುವರೋ
+ಆ ಪ್ರಜಾಪತಿಯನ್ನು ಸ್ತುತಿಸುತ್ತೇನೆ.
+
+*English Translation.*
+
+The sun does not pass beyond the broad earth, the wind does not drive the rain from off the earth : (I glorify Prajapati) in whom Mitra and Varuna being manifested, disperse their radiance, as Agni (spreads his flames) in a forest.
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸ್ತರೀರ್ಯತ್ಸೂತ ಸದ್ಯೋ ಅಜ್ಯಮಾನಾ ವ್ಯಥಿರವ್ಯಥೀಃ ಕೃಣುತ ಸ್ವಗೊಪಾ।
+> ಪುತ್ರೋ ಯತ್ಪೂರ್ವಃ ಪಿತ್ರೋರ್ಜನಿಷ್ಟ ಶಮ್ಯಾಂ ಗೌರ್ಜಗಾರ ಯದ್ಧ
+> ಪೃಚ್ಛಾನ್ ॥ ೧೦ ॥
+*[೧ ಪಡಸಾಲೆ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಸ್ವರೀಃ । ಯತ್ । ಸೂತ । ಸದ್ಯಃ । ಅಜ್ಯಮಾನಾ । ವ್ಯಥಿಃ । ಅವ್ಯಥೀಃ । ಕೃಣುತ । ಸ್ವಗೋಪಾ ।
+> ಪುತ್ರಃ । ಯತ್ । ಪೂರ್ವಃ । ಪಿತ್ರೋಃ । ಜನಿಷ್ಟ । ಶಮ್ಯಾಂ । ಗೌಃ । ಜಗಾರ । ಯತ್ । ಹ ।
+> ಪೃಚ್ಛಾನ್ ॥ ೧೮ ॥
+
+<!-- printed 827 -->
+*[ಅ. ೭. ಅ. ೭. ವ ೨೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 827]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅರಣ್ಯೋಃ ಕಾರಣಭೂತಾಂ ಶಮೀಂ ಗೋತ್ವೇನ ರೂಪಯತಿ । ಸ್ತರೀರ್ನಿವೃತ್ತಪ್ರಸವಾ ಗೌಃ
+> ಸದ್ಯಃ ಶೀಘ್ರಮಜ್ಯಮಾನಾ ನಿಷಿಚ್ಯಮಾನರೇತಸ್ಕಾ ಸತೀ ಯದ್ಯದಾ ಸೂತ ವತ್ಸಂ ಪ್ರಸೂತೇ ತದಾ
+> ವ್ಯಥಿರ್ದುಃಖಾನಾಂ ಬಾಧಯಿತ್ರಿ ಸ್ವಗೋಪಾ ಸ್ವಾಯತ್ತಗೋಪ್ತೃಕಾ ಸ್ವಭೂತರಕ್ಷಣಾ ವಾ ಸತೀ ಸಾ
+> ಗೌರವ್ಯಥೀರ್ವ್ಯಥಾರಹಿತಾಃ ಪ್ರಜಾಃ ಕೃಣುತ ಕರೋತಿ । ಯದಾ ಶಮೀ ಪುತ್ರಸ್ಥಾನೀಯಮಶ್ವತ್ಥಂ
+> ಪ್ರಸೂತೇ ತದಾನೀಮರಣ್ಯಾಹರಣಾಯ ತಾದೃಶಮಶ್ವತ್ಥಮನ್ವಿಷ್ಯತಾಮೃತ್ವಜಾಮಶ್ವತ್ಥಸ್ಯ ಜನಯಿತ್ರಿ
+> ಶಮೀ ಸುಖಹೇತುರ್ಭವತೀತ್ಯರ್ಥಃ । ಶಮೀಾಗರ್ಭಾದಶ್ವತ್ಥಾದರಣೀ ಆಹರ್ತವ್ಯೇ । ಶ್ರೂಯತೇ ಹಿ ।
+> ಶಮೀಾಗರ್ಭಾವಗ್ನಿಂ ಮಂಥಂತೀತಿ । ಅಪಿ ಚ ಪೂರ್ವಃ ಪುರಾತನಃ ಪುತ್ರಃ । ಪುನ್ನಾ ನೋ ನರಕಾತ್ಮಾತಾ ।
+> ಯದ್ವಾ । ಪುತ್ರಸ್ಥಾನೀಯೋಽಗ್ನಿಃ । ಪಿತ್ರೋರ್ಜನಯಿತ್ಯೋರರಣ್ಯೋಃ ಸಕಾಶಾದ್ಯದದಾ ಜನಿಷ್ಟ
+> ಮಥನೇನ ಪ್ರಾದುರ್ಭವತಿ ತದಾನೀಂ ಗೌಃ ಪೃಥಿವೀ ತಯೋರರಣ್ಯೋರ್ಮಾತೃಭೂತಾಂ ಶಮ್ಯಾಮಶ್ವತ್ಥಗರ್ಭಾಂ ತಾಂ ಶಮೀಂ ॥ ಸುಪಾಂ ಸುಲುಗಿತಿ ಸುಪೋ ಜ್ಞಾದೇಶಃ ॥ ಜಗಾರ ! ಉದ್ದಿರತಿ । ಯುದ್ಧ
+> ಯಾಂ ಖಲು ಶಮೀಂ ಪೃಚ್ಛಾನ್ ಋತ್ವಿಜಃ ಪೃಚ್ಛಂತಿ ನೀಪ್ಸಂತಿ ಗವೇಷಯಂತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸ್ತರೀಃ—ಬಂಜೆಯಾದ ಗೋವು । ಸದ್ಯಃ—ಶೀಘ್ರವಾಗಿ । ಅಜ್ಯಮಾನಾ—ರೇತಸ್ಸನ್ನು ಹೊಂದಿ ।
+ಯತ್—ಯಾವಾಗ । ಸೂತ—ಕರುವನ್ನು ಹಾಕುವುದೋ ಆಗ । ವ್ಯಥಿಃ—ದುಃಖನಾಶಕವೂ । ಸ್ವಗೋಪ್ತಾ—
+ತನ್ನನ್ನು ತಾನೇ ರಕ್ಷಿಸಿಕೊಳ್ಳುವುದೂ ಆದ ಗೋವು । ಅವ್ಯಥೀಃ—ದುಃಖರಹಿತವಾದ ಪ್ರಜೆಗಳನ್ನು । ಕೃಣುತ—
+ಉತ್ಪನ್ನ ಮಾಡುತ್ತದೆ । ಪೂರ್ವಃ—ಪುರಾತನನಾದವನೂ । ಪುತ್ರಃ—ಅಗ್ನಿರೂಪನೂ ಆದ ಪುತ್ರನು । ಪಿತೃಃ—
+ಅರಣಿಗಳಿಂದ । ಯತ್—ಯಾವಾಗ । ಜನಿಷ್ಟ—ಉತ್ಪನ್ನನಾಗುವನೋ ಆಗ । ಗೌಃ—ಪೃಥ್ವಿಯು । ಶಮ್ಯಾತ್—
+ಶಮಿಯನ್ನು । ಜಗಾರ—ಹೊರಪಡಿಸುತ್ತದೆ । ಯದ್ಧ—ಅದೇ ಶಮಿಯನ್ನು । ಪೃಚ್ಛಾನ್—ಋತ್ವಿಕ್ಕುಗಳು
+ಹುಡುಕುತ್ತಾರೆ.
+*[೧ ಭಾನುವಾರ ೮]*
+
+*ಭಾವಾರ್ಥ*
+
+ಬಂಜೆಯಾದ ಗೋವು ಶೀಘ್ರವಾಗಿ ರೇತಸ್ಸನ್ನು ಹೊಂದಿ ಯಾವಾಗ ಕರುವನ್ನು ಹಾಕುವುದೋ ಆಗ ದುಃಖ
+ನಾಶಕವೂ, ತನ್ನನ್ನು ತಾನೇ ರಕ್ಷಿಸಿಕೊಳ್ಳುವುದೂ ಆದ ಗೋವು ದುಃಖರಹಿತವಾದ ಪ್ರಜೆಗಳನ್ನು ಉತ್ಪನ್ನ ಮಾಡುತ್ತದೆ.
+ಪುರಾತನನೂ, ಅಗ್ನಿರೂಪನೂ ಆದ ಪುತ್ರನು ಅರಣಿಗಳಿಂದ ಯಾವಾಗ ಉತ್ಪನ್ನನಾಗುವನೋ ಆಗ ಪೃಥ್ವಿಯು
+ಶಮಿಯನ್ನು ಹೊರಪಡಿಸುತ್ತದೆ. ಅದೇ ಶಮಿಯನ್ನು ಋತ್ವಿಕ್ಕುಗಳು ಹುಡುಕುತ್ತಾರೆ.
+
+*English Translation.*
+
+When a barren cow being suddenly impregnated bears (a calf), she
+the repeller of evils, free from pain, self-protected, produces (offspring) ;
+
+<!-- printed 828 -->
+*[828 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮ. ೧೦. ಅ. ೩. ಸೂ- ೩೧]*
+
+when (Agni), the ancient son, is generated by his two parents, earth ejects
+the Shami which the priests are seeking.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಗ್ನಿಯನ್ನು ಕಡೆಯುವಾಗ ಎರಡು ಅರಣಿಗಳೆಂಬ ಮರದ ತುಂಡುಗಳನ್ನು ಒಂದರಮೇಲೊಂದನ್ನಿಟ್ಟು
+ಕಡೆಯುವರು. ಈ ಎರಡು ಅರಣಿಗಳಲ್ಲಿ ಒಂದನ್ನು ಶಮೀವೃಕ್ಷದಿಂದಲೂ ಮತ್ತೊಂದನ್ನು ಅಶ್ವತ್ಥವೃಕ್ಷದಿಂದಲೂ
+ನಿರ್ಮಿಸುವರು. ಈ ವಿಷಯವು
+ಶಮಿಗರ್ಭಾದಗ್ನಿಂ ಮಂಥತಿ । ವಿಷಾ ನಾ ಅಗ್ನೇಯ್ಯಜ್ಜಿಯಾ ತನೂಃ ।
+ತಾಮೇವಾಸ್ಮೈ ಜನಯತಿ ।
+(ತೈ. ಬ್ರಾ. ೧-೧-೯-೧)
+ಎಂದು ತೈತ್ತಿರೀಯಬ್ರಾಹ್ಮಣದಲ್ಲಿ ಹೇಳಿದೆ. ಅರಣಿರೂಪದಲ್ಲಿರುವ ಶಮೀವೃಕ್ಷದ ಮರದ ತುಂಡನ್ನು ಕಡೆದು
+ಅದರಿಂದ ಅಧ್ವರ್ಯಾದಿ ಋತ್ವಿಕ್ಕುಗಳು ಅಗ್ನಿಯನ್ನು ಉತ್ಪತ್ತಿಮಾಡುತ್ತಾರೆ. ಈ ವಿಧವಾಗಿ ಅರಣಿಗಳಲ್ಲಿ ಕಡೆದು
+ಉತ್ಪತ್ತಿಮಾಡುವ ಅಗ್ನಿಯೇ ಯಜ್ಞಯಾಗಾದಿಗಳಲ್ಲಿ ಉಪಯೋಗಿಸಲ್ಪಡಬೇಕಾಗ ಅಗ್ನಿಯ ಶರೀರವು ಎಂದರೆ
+ಯಜ್ಞಾರ್ಹವಾದ ಅಗ್ನಿಯು. ಈ ವಿಧಾನದಿಂದಲೇ ಮಂತ್ರಪೂರ್ವಕವಾಗಿ ಅಗ್ನಿಯನ್ನು ಉತ್ಪತ್ತಿಮಾಡಬೇಕು.
+ಬೇರೆ ವಿಧದಿಂದ ತಂದ ಅಗ್ನಿಯು ಯಜ್ಞಾದಿಗಳಲ್ಲಿ ಉಪಯೋಗಿಸಲ್ಪಡುವುದಿಲ್ಲ ಎಂದರೆ ಯಜ್ಞಾರ್ಹವಾಗುವುದಿಲ್ಲ
+ಎಂದಭಿಪ್ರಾಯವು.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಉತ ಕಣ್ಣಂ ನೃಷದಃ ಪುತ್ರಮಾಹುರುತ ಶ್ಯಾವೋ ಧನಮಾದತ್ತ ವಾಜೀ ।
+> ಪ್ರ ಕೃಷ್ಣಾಯ ರುಶದಪಿನ್ವತೋಧರ್ಋತಮತ್ರ ನಕಿರಸ್ಮಾ ಅಪೀಪೇತ್ ॥೧೧॥
+
+*ಪದಪಾಠಃ*
+
+> ಉತ । ಕಣ್ವಂ । ಸೃಸದಃ । ಪುತ್ರಂ । ಆಹುಃ । ಉತ । ಶ್ಯಾವಃ । ಧನಂ . ಆ । ಅದತ್ತ । ವಾಜೀ ।
+> ಪ್ರ । ಕೃಷ್ಣಾಯ । ರುಶತ್ । ಅಪಿನ್ವತ । ಊಧಃ । ಋತಂ । ಅತ್ರ । ನಕಿಃ । ಅಸ್ಮೈ । ಅಪೀಪೇತ್ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಉತಾಪಿ ಚ ಕಣ್ವಮೃಷಿಂ ನೃಷದಃ ಪುತ್ರಮಾಹುಃ । ವೇದವಾದಿನೋ ವದಂತಿ । ಉತಾಪಿ ಚ
+> ವಾಜೀ ಹವಿರ್ಲಕ್ಷಣಾನ್ನವಾನ್ಕಣ್ವಃ ಶ್ಯಾವಃ ಶ್ಯಾಮವರ್ಣಃ ಸನ್ನಸ್ಮಾದಗ್ನೇಃ ಸಕಾಶಾದ್ಧನಮಾದತ್ತ ।
+
+<!-- printed 829 -->
+*[೩. ಆ. ೬. ಪ. ೨೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 829]*
+
+> ಅಗೃಹ್ಣಾತ್ । ಕೃಷ್ಣಾಯ ಶ್ಯಾಮವರ್ಣಾಯ ನಾರ್ಷದಾಯ ಕಣ್ವಾಯಾಗ್ನೇರೂಧಾ ರುಶದ್ರೋಚಮಾನರೂಪಂ ಪ್ರಾಪಿನ್ವತ । ಪ್ರಾಸಿಂಚತ್ । ಅತ್ರೇತ್ಥಮಗ್ನಿವ್ಯತಿರಿಕ್ತಃ ಕಶ್ಚಿದಪಿ ದೇವೋಽಸ್ಮೈ
+> ಕಣ್ವಾಯರ್ತಂ ಯಜ್ಞಂ ನಕಿರಪೀಪೇತ್ । ನಾವರ್ಧಯತ್ । ಯುವಂ ಶ್ಯಾವಾಯ ರುಶತೀಮದತ್ತಂ ।
+> ಋ. ೧-೧೧೭-೮ । ಇತ್ಯುಕ್ತಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಉತ—ಮತ್ತು । ನೃಷದಃ—ನೃಪತ್ತಿನ ಪುತ್ರನಾದ । ಕಣ್ವಂ—ಕಣ್ವಋಷಿಗೆ । ಆಹುಃ—ಪ್ರಾಜ್ಞರು
+ಉಪದೇಶಮಾಡಿದರು । ಉತ—ಮತ್ತು । ಶ್ಯಾವಃ—ಕಂದುಬಣ್ಣವುಳ್ಳವನೂ । ವಾಜೀ—ಶಕ್ತಿಯುತನೂ ಆದ
+ಕಣ್ವನು । ಧನಂ—ಧನವನ್ನು । ಅದತ್ತ—ಅಗ್ನಿಯಿಂದ ಸ್ವೀಕರಿಸಿದನು । ಕೃಷ್ಣಾಯ—ಕಂದುಬಣ್ಣವುಳ್ಳ
+ಕಣ್ವನಿಗಾಗಿ । ಊಧಃ—ಅಗ್ನಿಯ ಕೆಚ್ಚಲು । ರುಶತ್—ಪ್ರಕಾಶಮಾನವಾದ ಕಾಂತಿಯನ್ನು । ಪ್ರಾಪಿನ್ವತ—
+ಚುಮುಕಿಸಿತು । ಅಸ್ಮೈ—ಈ ಕಣ್ವನ । ಋತಂ—ಯಜ್ಞವನ್ನು । ಅತ್ರ—ಈ ದೇವತೆಗಳ ನಡುವೆ । ನಕಿಃ
+ಆಸೀಪೇತ್—( =ಗ್ನಿಯಂತೆ) ಯಾರೂ ಪುಷ್ಟಿಗೊಳಿಸುವುದಿಲ್ಲ.
+
+*ಭಾವಾರ್ಥ*
+
+ನೃಷತ್ತಿನ ಪುತ್ರನಾದ ಕಣ್ವಋಷಿಗೆ ಪ್ರಾಜ್ಞರು ಉಪದೇಶಮಾಡಿದರು. ಕಂದುಬಣ್ಣವುಳ್ಳವನೂ, ಶಕ್ತಿ
+ಯುತನೂ ಆದ ಕಣ್ವನು ಧನವನ್ನು ಅಗ್ನಿಯಿಂದ ಸ್ವೀಕರಿಸಿದನು. ಕಂದುಬಣ್ಣವುಳ್ಳ ಕಣ್ವನಿಗಾಗಿ ಅಗ್ನಿಯ ಕೆಚ್ಚಲು
+ಪ್ರಕಾಶಮಾನವಾದ ಕಾಂತಿಯನ್ನು ಚುಮುಕಿಸಿತು (ಹರಡಿತು). ಈ ಕಣ್ವನ ಯಜ್ಞವನ್ನು ಈ ದೇವತೆಗಳ ನಡುವೆ
+ಅಗ್ನಿಯಂತೆ ಯಾರೂ ಪುಷ್ಟಿಗೊಳಿಸಲು ಸಮರ್ಥರಲ್ಲ.
+
+*English Translation.*
+
+(The expounders of the Vedas) spoke to Kanwa, the son of Nrishad, and he the dark-tinted, having food, acquired wealth; (Agni) sprinkled (the milk of) the brilliant udder for the dark (-complexioned sage); no other divinity so favours the sacrifice for him.
+ಮೂವತ್ತೆರಡನೆಯ ಸೂಕ್ತವು.
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಪ್ರ ಸು ಗ್ಮಂತೇತಿ ನವರ್ಚಂ ತೃತೀಯಂ ಸೂಕ್ತಂ । ಆದಿತಃ ಪಂಚ ಜಗತ್ಯಃ । ಅಥ ಚತಸ್ರ...
+> ಸ್ತ್ರಿಷ್ಟುಭಃ । ಪೂರ್ವವದೃಷಿದೇವತೇ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ । ಪ್ರ ಸು ಗ್ಮಂತಾ ನವ ಪಂಚಾದ್ಯಾ
+> ಜಗತ್ಯ ಇತಿ ॥ ಗತೋ ವಿನಿಯೋಗಃ ॥
+
+<!-- printed 830 -->
+*[830 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೨]*
+
+ಅನುವಾದವು—ಪ್ರ ಸು ಗ್ಮಂತಾ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಮೂರನೆಯ
+ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕವಷನು ಋಷಿಯು; ವಿಶ್ವೇದೇವತೆಗಳು
+ದೇವತೆಯು ; ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಐದು ಋಕ್ಕುಗಳು ಜಗತೀಛಂದಸ್ಕವು ; ಮುಂದಿನ ನಾಲ್ಕು ಋಕ್ಕುಗಳು
+ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸು ಗ್ಮಂತಾ ನವ ಪಂಚಾದ್ಯಾ ಜಗತ್ತಃ ಎಂದು ಹೇಳಿರುವುದು.
+ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೨ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ-೩೨
+ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩ ॥ ಸೂಕ್ತ—೩೨ ॥
+ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ ೨೯, ೩೦ ।
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೯ ॥
+ಋಷಿಃ—ಕವಷ ಐಲೂಷಃ ॥
+ದೇವತಾ—ವಿಶ್ವೇ ದೇವಾಃ॥
+ಛಂದಃ—೧-೫. ಜಗತೀ ॥ ೬-೯. ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರ ಸು ಗ್ಮಂತಾ ಧಿಯಸಾನಸ್ಯ ಸಕ್ಷಣಿ ವರೇಭಿರ್ವರಾ ಅಭಿ ಷು ಪ್ರಸೀದತಃ।
+> ಅಸ್ಮಾಕಮಿಂದ್ರ ಉಭಯಂ ಜುಜೋಷತಿ ಯತ್ಸೋಮ್ಯಸ್ಯಾಂಧಸೋ
+> ಬುಬೋಧತಿ ॥ ೧ ॥
+*[೧ ಪದಪಾಠಿ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರ । ಸು । ಗ್ಮಂತಾ । ಧಿಯಸಾನಸ್ಯ । ಸಕ್ಷಣಿ । ವರೇಭಿಃ । ವರಾನ್ । ಅಭಿ । ಸು । ಪ್ರಸೀದತಃ ।
+> ಅಸ್ಮಾಕಂ । ಇಂದ್ರಃ । ಉಭಯಂ । ಜುಜೋಷತಿ । ಯತ್ । ಸೋಮ್ಯಸ್ಯ । ಅಂಧಸಃ । ಬುಬೋಧತಿ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಇಂದ್ರಃ ಸ್ವಭೂತ್ ಹರೀ ಧಿಯಸಾನಸ್ಯೇಂದ್ರಾಗಮನಂ ಚಿಂತಯತೋ ಯಜಮಾನಸ್ಯ ಮಮ
+> ಸಂಬಂಧಿನಿ ಸಕ್ಷಣಿ ಸೇವಾಯಾಂ ಸದ್ಗುಣಕೇ ಸೇವ್ಯೇ ಯಜ್ಞೇ ನಿಮಿತ್ತೇ ಗ್ಮಂತಾಗಚ್ಛಂತೌ ಸು ಸುಷ್ಟು
+> ಪ್ರೇರಯತಿ । ತತಃ ಸ ಇಂದ್ರೋ ವರೇಭಿರ್ವರ್ಣನೀಯೈರ್ಮಾರ್ಗೈಃ ಪ್ರಸೀದತೋ ಹವಿರಾಸಾದಯತೋ
+> ಯಜಮಾನಸ್ಯ ವರಾನುತ್ಕೃಷ್ಟಾನ್ನಿರ್ವಿಶೇಷಾನ್ ಸ್ತುತಿವಿಶೇಷಾಂಶ್ಚಾಭಿ ಲಕ್ಷ್ಮೀಕೃತ್ಯ ಸು ಸುಷ್ಟಾಗ್ನಚ್ಛತು । ಇಂದ್ರಃ ಆಗತಸನ್ನಸ್ಮಾಕಂ ಸ್ವಭೂತಮುಭಯಂ ಹವಿಶ್ಚ ಸ್ತುತಿಶ್ವೇತ್ಯೇತದ್ವಯಂ ಜುಜೋಷತಿ।
+
+<!-- printed 831 -->
+*[೮ ೭. ೮. ೭. ಪ. ೨೯.] ಋಗ್ವೇದಸಂಹಿತಾ 831]*
+
+> ಸೇವತಾಂ । ಭಕ್ಷಯತು ಶೃಣೋತು ಚೇತ್ಯರ್ಥಃ । ಯದ್ಯದಾ ಸೋಮ್ಯಸ್ಯ ಸೋಮಸಂಪಾದಿನೋ
+> ಮಮಾಂಧಸೋಽನ್ನರೂಪಸ್ಯ ಸೋಮಸ್ಯ । ರಸಮಿತಿ ಶೇಷಃ । ಬುಬೋಧತಿ ಬುಧ್ಯತೇ ಜಿಹ್ವಯಾ
+> ವಿಜಾನಾತಿ । ಸೋಮಂ ಪಿಬತೀತ್ಯರ್ಥಃ । ತದಾ ಜುಜೋಷತೀತಿ ಪೂರ್ವೇಣ ಸಂಬಂಧಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಧಿಯಸಾನಸ್ಯ—ಇಂದ್ರನನ್ನೇ ಧ್ಯಾನಿಸುವ ಯಜಮಾನನ । ಸಕ್ಷಣಿ—ಯಜ್ಞನಿಮಿತ್ತವಾಗಿ ।
+ಗ್ಮಂತಾ—ಹೋಗತಕ್ಕ ಅಶ್ವಗಳನ್ನು । ಪ್ರ ಸು—(ಇಂದ್ರನು) ಪ್ರೇರಿಸಿ ಕಳುಹಲಿ । ವರೇಭಿಃ—ಉತ್ತಮವಾದ
+ಮಾರ್ಗಗಳಿಂದ । ಪ್ರಸೀದತಃ—ಇಂದ್ರನನ್ನು ಪೂಜಿಸುವ ಯಜಮಾನನ । ವರಾನ್ ಅಭಿ—ಉತ್ಕೃಷ್ಟವಾದ
+ಸ್ತುತಿಗಳಿಗಭಿಮುಖವಾಗಿ । ಸು—ಇಂದ್ರನು ಬರಲಿ । ಯತ್—ಯಾವಾಗ । ಸೋಮಸ್ಯ—ಸೋಮವಂತನಾದ
+ನನ್ನ । ಅಂಧಸಃ—ಹವಿಸ್ಸನ್ನು । ಬುಭೋಧತಿ—ಅರಿತು ರುಚಿನೋಡುವನೋ ಆಗ । ಇಂದ್ರಃ—ಇಂದ್ರನು ।
+ಅಸ್ಮಾಕಂ—ನಮ್ಮಿಂದ ಅರ್ಪಿತವಾದ । ಉಭಯಂ—ಹವಿಸ್ಸು ಮತ್ತು ಸ್ತುತಿಗಳೆರಡನ್ನೂ । ಜುಜೋಷತಿ—
+ಸೇವಿಸುತ್ತಾನೆ.
+*[॥ ಭಾಷಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಇಂದ್ರನನ್ನೇ ಧ್ಯಾನಿಸುವ ಯಜಮಾನನ ಯಜ್ಞನಿಮಿತ್ತವಾಗಿ ಹೋಗತಕ್ಕ ಅಶ್ವಗಳನ್ನು ಇಂದ್ರನು ಪ್ರೇರಿಸಿ
+ಕಳುಹಲಿ. ಉತ್ತಮವಾದ ಮಾರ್ಗಗಳಿಂದ ಇಂದ್ರನನ್ನು ಪೂಜಿಸುವ ಯಜಮಾನನ ಉತ್ಕೃಷ್ಟವಾದ ಸ್ತುತಿಗಳಿಗಭಿ
+ಮುಖವಾಗಿ ಇಂದ್ರನು ಬರಲಿ. ಯಾವಾಗ ಇಂದ್ರನು ಸೋಮವಂತನಾದ ನನ್ನ ಹವಿಸ್ಸನ್ನು ಅರಿತು ರುಚಿನೋಡು
+ವನೋ ಆಗ ಇಂದ್ರನು ನಮ್ಮಿಂದ ಅರ್ಪಿತವಾದ ಹವಿಸ್ಸು ಮತ್ತು ಸ್ತುತಿಗಳೆರಡನ್ನೂ ಸೇವಿಸುತ್ತಾನೆ.
+
+*English Translation.*
+
+Indra sends his quick-going horses to the service of the (worshipper) expectant (of his arrival): may he come to the excellent (adorations) of the (worshipper), propitiating him by suitable means; Indra is gratified by both our (oblations and praises), when he recognizes (the taste) of the food presented by the offerer of the Soma.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ವೀಂದ್ರ ಯಾಸಿ ದಿವ್ಯಾನಿ ರೋಚನಾ ವಿ ಪಾರ್ಥಿವಾನಿ ರಜಸಾ ಪುರುಷ್ಟುತಃ
+> ಯೇ ತ್ವಾ ವಹಂತಿ ಮುಹುರಧ್ವರಾ ಉಪ ತೇ ಸು ವನ್ವಂತು ವಗ್ವನಾ
+> ಅರಾಧಸಃ ॥ ೨ ॥
+
+<!-- printed 832 -->
+*[832 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೨.]*
+
+
+*ಪದಪಾಠಃ*
+
+> ವಿ । ಇಂದ್ರ । ಯಾಸಿ । ದಿವ್ಯಾನಿ । ರೋಚನಾ । ವಿ । ಪಾರ್ಥಿವಾನಿ । ರಜಸಾ । ಪುರುಸ್ತುತ ।
+> ಯೇ । ತ್ವಾ । ವಹಂತಿ । ಮುಹುಃ । ಅಧ್ವರಾನ್ । ಉಪ । ತೇ । ಸು । ವನ್ವಂತು । ವಗ್ವನಾನ್ ।
+> ಅರಾಧಸಃ ॥ ೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಇಂದ್ರ ದಿವ್ಯಾನಿ ದಿವಿ ಭವಾನಿ ರೋಚನಾ ರೋಚನಾನಿ ದೀಪ್ತಿಸ್ವಭಾವಕಾನಿ ಜ್ಯೋತೀಂಷಿ
+> ಯದ್ವಾ ದಿವ್ಯಾಲ್ಲೋಕಾನ್ವಿಯಾಸಿ । ವ್ಯಾಪ್ನೋಷಿ । ಹೇ ಪುರುಷ್ಟುತ ಬಹುಭಿಃ ಸ್ತುತೇಂದ್ರ ಪಾರ್ಥಿವಾನಿ
+> ಪೃಥಿವ್ಯಾಂ ಭವಾನಿ ರಜಸಾತ್ಮೀಯೇನ ಜ್ಯೋತಿಷಾ ವಿದ್ಯುಲ್ಲಕ್ಷಣೇನ । ಯದ್ವಾ !! ರಜಃಶಬ್ದಾಚ್ಛಸ
+> ಆಕಾರಃ ॥ ಪಾರ್ಥಿವಾಲ್ಲೋಕಾನ್ । ವ್ಯಾಪ್ನೋಷಿ । ಯೇ ತ್ವದೀಯಾ ಅಶ್ವಾ ಮುಹುಃ ಪುನಃಪುನರಧ್ವರಾನಸ್ಮದೀಯಾನ್ಯಜ್ಞಾನ್ರತಿ ತ್ವಾ ತ್ವಾಮುಪ ವಹಂತಿ ಸಮೀಪೇ ಪ್ರಾಪಯಂತಿ ತೇಽಶ್ವಾ ವಗ್ವನಾನ್ವಚನೇನ ಸ್ತುತ್ಯಾ ಸಂಭಕ್ತ್ಯನರಾಧಸೋ ಧನರಹಿತಾನಸ್ಮಾನ್ ಸು ಸುಷ್ಟು ವನ್ವಂತು । ಧನಪ್ರದಾನಾರ್ಥಂ
+> ಸಂಭಜತಾಂ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇಂದ್ರ—ಎಲೈ ಇಂದ್ರನೇ । ದಿವ್ಯಾನಿ—ದ್ಯುಲೋಕಸ್ಥವಾದ । ರೋಚನಾ—ತೇಜಸ್ಸುಗಳನ್ನು ।
+ವಿ ಯಾಸಿ—ನೀನು ವ್ಯಾಪಿಸುತ್ತೀಯೆ । ಪುರುಷ್ಟುತ—ಅನೇಕರಿಂದ ಸ್ತುತಿಸಲ್ಪಡುವ ಎಲೈ ಇಂದ್ರನೇ ।
+ರಜಸಾ—ನಿನ್ನ ತೇಜಸ್ಸಿನಿಂದ । ಪಾರ್ಥಿವಾನಿ—ಪೃಥ್ವೀಸ್ಥನಾದ ಜ್ಯೋತಿಗಳನ್ನೂ । ವಿ—ವ್ಯಾಪಿಸುತ್ತೀಯೆ ।
+ಯೇ—ಯಾವ ನಿನ್ನ ಅಶ್ವಗಳು । ಮುಹುಃ—ಅನೇಕ ವೇಳೆ । ಅಧ್ವರಾನ್—ನಮ್ಮ ಯಾಗಕ್ಕೆ । ತ್ವಾ—ನಿನ್ನನ್ನು ।
+ಉಪ ವಹಂತಿ—ಕರೆತರುವುವೋ । ತೇ—ಆ ಅಶ್ವಗಳು । ವಗ್ವನಾನ್—ಸ್ತುತಿಯುಕ್ತರಾದವರೂ । ಅರಾಧಸಃ—
+ಧನರಹಿತರೂ ಆದ ನಮ್ಮನ್ನು । ಸು—ಅಧಿಕವಾಗಿ । ವನ್ವಂತು—ಧನಯೋಜಿತರನ್ನಾಗಿ ಮಾಡಲಿ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಇಂದ್ರನೇ, ನೀನು ದ್ಯುಲೋಕಸ್ಥವಾದ ತೇಜಸ್ಸುಗಳನ್ನು ವ್ಯಾಪಿಸುತ್ತೀಯೆ. ಅನೇಕರಿಂದ
+ಸ್ತುತಿಸಲ್ಪಡುವ ಎಲೈ ಇಂದ್ರನೇ, ನಿನ್ನ ತೇಜಸ್ಸಿನಿಂದ ಪೃಥ್ವೀಸ್ಥವಾದ ಜ್ಯೋತಿಗಳನ್ನು ನೀನು ವ್ಯಾಪಿಸುತ್ತೀಯೆ.
+ಯಾವ ನಿನ್ನ ಅಶ್ವಗಳು ಅನೇಕವೇಳೆ ನಮ್ಮ ಯಾಗಕ್ಕೆ ನಿನ್ನನ್ನು ಕರೆತರುವುವೋ ಆ ಅಶ್ವಗಳು ಸ್ತುತಿಯುಕ್ತರಾದ
+ವರೂ ಧನರಹಿತರೂ, ಆದ ನಮ್ಮನ್ನು ಅಧಿಕವಾಗಿ ಧನವಂತರನ್ನಾಗಿ ಮಾಡಲಿ.
+
+*English Translation.*
+
+Indra, you are praised by many, you pervade the luminaries of heaven and earth with your lustre; may the horses that repeatedly bring you to our sacrifices, pleased by cur praise, bring affluence to us who are poor.
+
+<!-- printed 833 -->
+*[ಅ. ೭. ಅ. ೭. ವ. ೨೯.] ಋಗ್ವೇದಸಂಹಿತಾ 833]*
+
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತದಿನ್ನೇ ಛಂತ್ಸದ್ವಪುಷೋ ವಪುಷ್ಟರಂ ಪುತ್ರೋ ಯಜ್ಞಾನಂ ಪಿತ್ರೋರಧೀಯತಿ ।
+> ಜಾಯಾ ಪತಿಂ ವಹತಿ ವಗ್ನುನಾ ಸುಮತ್ಪುಂಸ ಇದ್ದದ್ರೋ ವಹತುಃ ಪರಿಸ್ಕೃತಃ ॥ ೩ ॥
+
+*ಪದಪಾಠಃ*
+
+> ತತ್ । ಇತ್ । ಮೇ । ಛಂತ್ಸತ್ । ವಪುಷಃ । ವಪುಃತರಂ । ಪುತ್ರಃ । ಯತ್ । ಜಾನಂ । ಪಿತ್ರೋಃ ।
+> ಅಧಿಇಯತಿ ।
+> ಜಾಯಾ । ಪತಿಂ । ವಹತಿ । ವಗ್ನುನಾ । ಸುಮತ್ । ಪುಂಸಃ । ಇತ್ । ಭದ್ರಃ । ವಹತುಃ । ಪರಿಕೃತಃ ।
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ವಪುಷಃ । ವಪೂ ರೂಪಂ । ತದ್ವಾಲ್ಲಕ್ಷ್ಯತೇ । ವಪುಷ್ಮತೋಽಪಿ ವಪುಷ್ಟರಂ ರೂಪವತ್ತರಮತ್ಯಂತಂ
+> ಸುರೂಪಂ ತದ್ಯಜ್ಞಕರ್ಮ ಮೇ ಮಹ್ಯಂ ಛಂತ್ಸತ್ । ಇಂದ್ರಃ ಕಾಮಯತಾಂ । ಯದ್ಯದಾ ಪುತ್ರೋ
+> ಜಾನಂ ಜನ್ಮಾತ್ಮನ ಉತ್ಪತ್ತಿಂ ಪಿತ್ರೋರ್ಮಾತಾಪಿತ್ರೋಃ ಸಕಾಶಾದಧೀಯತಿ ಸಂಕೀರ್ತನದ್ವಾರೇಣಾಧಿಗಚ್ಛತಿ । ಸುಬ್ರಹ್ಮಣ್ಯಾಹ್ವಾನಕಾಲೇಽಮುಕಶರ್ಮಣಃ ಪುತ್ರೋ ಯಜತ ಇತ್ಯಾತ್ಮನೋ ಜನ್ಮ
+> ಸಂಕೀರ್ತಯತಿ । ಯದ್ವಾ । ಯಜ್ಜನನಾದಾಗತಂ ಧನಂ ಪಿತ್ರೋಃ ಸಕಾಶಾತ್ಪುತ್ರೋಽಧಿಗಚ್ಛತಿ
+> ತದೇವ ಮಹ್ಯಮಿಚ್ಛತು । ಜಾಯಾ ಪತ್ನಿ ಪತಿಂ ಯಜಮಾನಂ ಸುಮತ್ಕಲ್ಯಾಣೇನ ವಗ್ನುನಾ
+> ವಾಗ್ರೂಪೇಣ ಶಬ್ದೇನ ವಹತಿ । ಆತ್ಮಸಮೀಪಂ ಪ್ರಾಪಯತಿ । ಭದ್ರೋ ಭಜನೀಯಃ ಪರಿಷ್ಕೃತಃ
+> ಸುಸಂಸ್ಕೃತಃ ಪುಂಸ ಇತ್ । ಪತ್ಯುರೇವೇತ್ಯರ್ಥಃ । ವಹತುರ್ಜಾಯಾಯ್ಕೆ ಪ್ರದಾತವ್ಯಃ । ತದುಕ್ತಂ ।
+> ಸುಭದ್ರಮರ್ಯ ಭೋಜನಂ ಬಿಭರ್ಷಿ । ಋ. ೮-೧-೩೪ । ಇತಿ । ಯದ್ವಾ । ಪುಂಸೋಽತಿಶೂರಸ್ಯೇಂದ್ರಸ್ಯಾರ್ಥಾಯ ಭದ್ರೋ ಭಜನೀಯೋ ವಹತುರ್ವಹನಶೀಲೋ ದೇವಾನ್ಪ್ರತಿ ಸ ಸೋಮಃ ಪರಿಷ್ಕೃತಃ
+> ಸಂಸ್ಕೃತೋ ಭವತಿ । ತದೇಂದ್ರಃ ಕಾಮಯತಾಮಿತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯತ್—ಯಾವಾಗ । ಪುತ್ರಃ—ಪುತ್ರನು । ಜಾನಂ—ತನ್ನ ಜನ್ಮವನ್ನು । ಪಿತ್ರೋಃ—ಮಾತಾಪಿತ
+ಗಳಿಂದ । ಅಧೀಯತಿ—ಹೊಂದಿ ತನ್ನ ಜನ್ಮವನ್ನು ಪ್ರಕಟಿಸುವನೋ ಆಗ । ವಪುಷಃ—ಅತ್ಯಂತ ಸುಂದರವಾದುದ
+xxvii 53
+xxvii 53
+
+<!-- printed 834 -->
+*[834 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೨.]*
+
+ಕ್ಕಿಂತಲೂ । ವಪುಷ್ಟರಂ—ಅಧಿಕವಾಗಿ ಸುಂದರವಾದ । ತತ್—ಯಜ್ಞಕರ್ಮವನ್ನು । ಮೇ—ನನಗಾಗಿ ।
+ಛಂತ್ಸತ್—ಇಂದ್ರನು ಅಪೇಕ್ಷಿಸಲಿ । ಜಾಯಾ—ಪತ್ನಿಯು । ಪತಿಂ—ಯಜಮಾನನನ್ನು । ಸುಮತ್—
+ಆಕರ್ಷಕವಾದ । ವಗ್ನುನಾ—ಮಾತುಗಳಿಂದ । ವಹತಿ—ತನ್ನಲ್ಲಿಗೆ ಬರಮಾಡಿಕೊಳ್ಳುತ್ತಾಳೆ । ಪುಂಸಃ—
+ಪತಿಯ । ಭದ್ರಃ—ಕಲ್ಯಾಣಾತ್ಮಕವಾದ । ಪರಿಷ್ಕೃತಃ—ಸುಸಂಸ್ಕೃತಿಯು । ವಹತುಃ—ಸತ್ರ್ಥವಾಗಿಯೇ
+ಇರುತ್ತದೆ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಯಾವಾಗ ಮಾತಾಪಿತೃಗಳಿಂದ ಪುತ್ರನು ತನ್ನ ಜನ್ಮವನ್ನು ಹೊಂದಿ ಅದನ್ನು ಪ್ರಕಾಶಪಡಿಸುವನೋ ಆಗ
+ಅತ್ಯಂತ ಸುಂದರವಾದುದಕ್ಕಿಂತಲೂ ಅಧಿಕವಾಗಿ ಸುಂದರವಾದ ಯಜ್ಞಕರ್ಮವನ್ನು ನನಗಾಗಿ ಇಂದ್ರನು ಅಪೇಕ್ಷಿಸಲಿ.
+ಪತ್ನಿಯು ಯಜಮಾನನನ್ನು ಆಕರ್ಷಕವಾದ ಮಾತುಗಳಿಂದ ತನ್ನಲ್ಲಿಗೆ ಬರಮಾಡಿಕೊಳ್ಳುತ್ತಾಳೆ. ಪತಿಯ
+ಕಲ್ಯಾಣಾತ್ಮಕವಾದ ಸುಸಂಸ್ಕೃತಿಯು ಪತ್ನ್ಯರ್ಥವಾಗಿಯೇ ಇರುತ್ತದೆ
+
+*English Translation.*
+
+May (Indra) desire for me this (act of sacrifice), the most beautiful
+of beautiful things, (as) when a son proclaims his birth from his parents.
+The wife brings her husband (to her side) with gentle words: the good
+fortune of the husband is perfected only as marriage
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತದಿತ್ಸಧಸ್ಥಮಭಿ ಚಾರು ಧೀಧಯ ಗಾವೋ ಯಚ್ಛಾಸನ್ವಹತುಂ ನ
+> ಧೇನವಃ ।
+> ಮಾತಾ ಯನ್ಮಂತುರ್ಯೂಥಸ್ಯ ಪೂರ್ವಾಭಿ ವಾಣಸ್ಯ ಸಪ್ತಧಾತುರಿಜ್ಜನಃ ॥ ೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ತತ್ । ಇತ್ । ಸಧಸ್ಥಂ । ಅಭಿ । ಚಾರು । ದೀಧಯ । ಗಾವಃ । ಯತ್ । ಶಾಸನ್ । ವಹತುಂ । ನ ।
+> ಧೇನವಃ ।
+> ಮಾತಾ । ಯತ್ । ಮಂತುಃ । ಯೂಥಸ್ಯ । ಪೂರ್ವಾ । ಅಭಿ । ವಾಣಸ್ಯ । ಸಪ್ತಧಾತುಃ । ಇತ್ ।
+> ಜನಃ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+
+<!-- printed 835 -->
+*[೪. ೭. ಆ. ೭. ವ. ೨೯ ]		ಋಗ್ರೆದಸಂಹಿತಾ		855]*
+
+> ॥ ಕರುಣಾಪರಂ ॥
+> ತದಿತ್ತದೇವ ಸಧಸ್ಥಂ । ಸಹ ತಿಷ್ಯಂತತ್ರೇತಿ ಸಧಸ್ಥಂ ಸ್ಥಾನಂ ಯಜ್ಞಾಖ್ಯಂ । ಚಾರು
+> ಶೋಭನಮಭಿ ದೀಧಯ । ಹೇ ಇಂದ್ರ ಅಭಿತೋ ದೀಪ್ಯಸ್ವ । ಯದ್ಯದಾ ಗಾವಃ ಸ್ತುತಿಲಕ್ಷಣಾ ವಾಚ
+> ಇಂದ್ರ ಆಗಚ್ಛ ಹರಿವ ಆಗಚ್ಛೇತ್ಯೇವಮಾದ್ಯಾಃ ಶಾಸನ್ ಅಸ್ಮದ್ಯಜ್ಞಂ ಪ್ರತಿ ತ್ವದಾಗಮನ.
+> ಮಾಶಾಸತೇ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ವಹತುಂ ನ ಧೇನವಃ ಯಥಾ ಧೇನವೋ ನವಪ್ರಸೂತಾ ಗಾವಃ
+> ಪ್ರಾಪಣಸಾಧನಂ ಗೃಹಮಾಶಾಸತೇ ತದ್ವತ್ । ಯತ ಅಗತ್ಯ ಪ್ರಕಾಶಸ್ತತೋಽತ್ರ ಕಾರಣಮಾಹ ।
+> ಯದ್ಯಸ್ಮಾನ್ಮಂತುಃ । ಮನ್ಯತಿರರ್ಚತಿಕರ್ಮಾ । ಅರ್ಚಕಸ್ಯ ಮಮ ಸ್ವಭೂತಾ ಮಾತಾ ದೇವತಾ.
+> ಗುಣಾನಾಂ ನಿಷ್ಪಾದಯಿತ್ರಿ ಸ್ತುತಿಯೂಥಸ್ಯ ಯಷ್ಟಸ್ತೋತೃಗಣಸ್ಯ ಪೂರ್ವಾ ಪ್ರಥಮಭಾವಿನೀ
+> ಖಲು। ಯಸ್ಮಾಚ್ಚ ಸಪ್ತಧಾತುಃ । ಧಾರ್ಯಂತೇ ಕ್ರಿಯಂತೇ ಕರ್ಮಾಣ್ಯೆಷ್ಟಿತಿ ಧಾತವಶ್ಚಂದಾಂಸ್ಕೃತವೋ
+> ನಾ । ಸಪ್ತಚ್ಛಂದಸ್ಯಃ ಸಪ್ತರ್ತುಕಃ ಸಪ್ತಹೋತ್ರಾತ್ಮಕೋ ವಾಯಂ ಜನೋ ವಾಣಸ್ಯ ಸ್ತುತಿಶಬ್ದ ಸ್ಯಾಭಿಖಲು । ತಸ್ಮಾಚ್ಛೀಘ್ರಮಾಗಚ್ಛೇತಿ ಭಾವಃ । ಯದ್ವಾ । ಯತ್ಕಲ್ಯಾಣಂ ತದೇವ ಸ್ಥಾನಮಸ್ಮಾಕಮಭಿಕರ್ತಾ ಧಾರಯ! ಪ್ರಯಚ್ಛ । ಯಸ್ಮಿನ್ಸಾನೇ ಧೇನವಃ ಪಯಃಪ್ರದಾನೇನ ಪ್ರೀಣಯಿತ್ಯೋ ಗಾವೋ
+> ವಹತುಂ। ಉಹ್ಯತೇ ಪುರುಷೋಽನೇನೇತಿ ವಹತುರನ್ನಂ। ಪಯೋಘೃತಾದ್ಯನುಶಾಸತಿ। ನ ಸಂಪ್ರತ್ಯರ್ಥೇ ।
+> ಇದಾನೀಂ ಪ್ರಯಚ್ಛಂತಿ । ತಥಾ ಯಸ್ಮಿನ್ಮಂತುರ್ಮಂತವ್ಯಾ ಪೂಜನೀಯಾ ಪುತ್ರ-ಸಮೂಹಸ್ಯ
+> ಮಾತಾಭಿಗಚ್ಛತಿ ವಾಣಸ್ಯ ವಾದ್ಯಸ್ಯ ಸಪ್ತಧಾತುರ್ನಿಷಾದಾದಿಸಪ್ತಸ್ವರೋಪೇತೋ ಜನೋಽಭಿಗಚ್ಛತಿ
+> ತದ್ವೃತ್ತದ್ದುಣೋಪೇತಂ ಪ್ರಯಚ್ಛೇತಿ ಭಾವಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಇಂದ್ರನೇ) ಯತ್-ಯಾವ ಕಾರಣದಿಂದ। ಮಂತುಃ-ದೇವಪೂಜಕನಾದ ಯಜಮಾನನ। ಮಾತಾಸ್ತುತಿಯು । ಯೂಥಸ್ಯ-ಇತರ ಸ್ತುತಿಕರ್ತರ ಸ್ತುತಿಗಿಂತಲೂ । ಪೂರ್ವಾ-ಪ್ರಥಮಭಾವಿನಿಯಾಗಿರುವುದೋ ।
+(ಯತ್-ಯಾವ ಕಾರಣದಿಂದ) । ಸಪ್ತಧಾತುಃ-ಸಪ್ತಚ್ಛಂದಸ್ಸುಗಳಿಂದ ಕೂಡಿದ । ಜನಃ-ಯಜಮಾನನು ।
+ವಾಣಸ್ಯ ಅಭಿ-ಸ್ತುತಿನಿರ್ಮಾಪಕನಾಗಿರುವನೋ ಆದುದರಿಂದಲೇ । ಧೇನವಃ-ಧೇನುಗಳು । ವಹತುಂ ನತಮ್ಮ ಕೊಟ್ಟಿಗೆಗಳನ್ನು ಸೇರಲಿಚ್ಛಿಸುವಂತೆ । ಯತ್-ಎಲ್ಲಿ (ಯಾವಾಗ) । ಗಾವಃ-ಸ್ತುತಿರೂಪವಾದ
+ವಾಕ್ಕುಗಳು । ಶಾಸನ್-ನಿನ್ನ ಆಗಮನವನ್ನು ನಿರೀಕ್ಷಿಸುವುವೋ । ತದಿತ್-ಆ ಒಡನೆಯೇ । ಸಧಸ್ಥಂ ಅಭಿನಮ್ಮ ಯಜ್ಞ ಸ್ಥಾನಾಭಿಮುಕ್ತವಾಗಿ । ಚಾರು-ಆಕರ್ಷಕವಾಗಿ । ದೀಧಯ-ಪ್ರಕಾಶಿಸು.
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಇಂದ್ರನೇ, ಯಾವ ಕಾರಣದಿಂದ ದೇವಪೂಜಕನಾದ ಯಜಮಾನನ ಸ್ತುತಿಯು ಇತರ ಪೂಜಕರ
+ಸ್ತುತಿಗಿಂತಲೂ ಪ್ರಥಮಭಾವಿನಿಯಾಗಿರುವುದೋ, ಯಾವ ಕಾರಣಗಳಿಂದ ಸಪ್ತಚ್ಛಂದಸ್ಸುಗಳಿಂದ ಕೂಡಿದ
+ಯಜಮಾನನು ಸ್ತುತಿನಿರ್ಮಾಪಕನಾಗಿರುವನೋ ಆದುದರಿಂದಲೇ, ಧೇನುಗಳು ತಮ್ಮ ಕೊಟ್ಟಿಗೆಗಳನ್ನು ಸೇರಲಿಚ್ಛಿಸು
+ವಂತೆ, ಯಾವಾಗ ಸ್ತುತಿರೂಪವಾದ ವಾಕ್ಕುಗಳು ನಿನ್ನ ಆಗಮನವನ್ನು ನಿರೀಕ್ಷಿಸುವುವೋ ಆ ಒಡನೆಯೇ, ನಮ್ಮ
+ಯಜ್ಞಸ್ಥಾನದಲ್ಲಿ ಆಕರ್ಷಕವಾಗಿ ಪ್ರಕಾಶಿಸು.
+
+<!-- printed 836 -->
+*[836 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೨]*
+
+
+*English Translation.*
+
+Shine, Indra, upon this elegant chamber of sacrifice when our praises desire (your approach) as milch cows (desire) their stalls ; since the praise of (me) the worshipper precedes (the adoration) of the company, and this person accompanied by the seven officiating priests is (the offerer) of praise.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಸಪ್ತಧಾತುಃ—ಈ ಶಬ್ದಕ್ಕೆ ಸಪ್ತಚ್ಛಂದಸ್ಸುಗಳು, ಅಧಿಕಮಾಸವೂ ಸೇರಿ ಆಗುವ ಏಳು ಋತುಗಳು ಅಥವಾ
+ಸಪ್ತಹೋತೃಗಳು ಅಥವಾ ಋತ್ವಿಕ್ಕುಗಳು ಎಂದು ಮೂರುವಿಧವಾದ ಅರ್ಥವನ್ನು ಭಾಷ್ಯಕಾರರು ಹೇಳಿದ್ದಾರೆ.
+*[೧ ಸಂಹಿತಾಪಾಠ ।]*
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರ ವೋಽಚ್ಛಾ ರಿರಿಚೇ ದೇವಯುಷ್ಪದಮೇಕೋ ರುದ್ರೇಭಿರ್ಯಾತಿ
+> ತುರ್ವಣಿಃ ।
+> ಜರಾ ವಾ ಯೇಷುಮೃತೇಷು ದಾವನೇ ಪರಿ ವ ಊಮೇಭ್ಯಃ ಸಿಂಚತಾ
+> ಮಧು ॥ ೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರ । ವಃ । ಅಚ್ಛ । ರಿರಿಚೇ । ದೇವಯುಃ । ಪದಂ । ಏಕಃ । ರುದ್ರೇಭಿಃ । ಯಾತಿ । ತುರ್ವಣಿಃ ।
+> ಜರಾ । ವಾ । ಯೇಷು । ಅಮೃತೇಷು । ದಾವನೇ । ಪರಿ । ವಃ । ಊಮೇಭ್ಯಃ । ಸಿಂಚತ । ಮಧು ॥
+*[॥ ಸಾಯುಧಭಾಷ್ಯಂ ॥]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಯಜಮಾನಾಃ ದೇವಯುರ್ದೇವಾನ್ಕಾಮಯಮಾನೋ ಹೋತಾ ವೋ ಯುಷ್ಮಾಕಂ
+> ಪದಮಚ್ಛ ಸ್ಥಾನಂ ಪ್ರತಿ ಪ್ರ ರಿರಿಚೇ । ಪರಿಕ್ಟೋಽಭೂತ್ । ಅಥ ಹೋತೃಭ್ಯಃ ಸಕಾಶಾದೇಕೋ
+> ಮುಖ್ಯ ಇಂದ್ರೋ ರುದ್ರೇಭೀ ರುದ್ರಪುತ್ರೈರ್ಮರುದ್ಭಿಃ ಸಹ ತುರ್ವಣಿಃ ಕ್ಷಿಪ್ರಗಾಮಿ ಸನ್ಯಾತಿ । ಗಚ್ಛತಿ
+> ಯುಷ್ಮದೀಯಂ ಯಜ್ಞಂ । ಜರಾ ವಾ । ವಾಶಬ್ದೋಽಪ್ಯರ್ಥೇ । ಸ್ತುತಿರಪಿ ಯೇಷ್ಟಮೃತೇಷು ಮರಣಧರ್ಮರಹಿತೇಷು ದೇವೇಷು ದಾವನೇ ಧನಪ್ರದಾನಾಯ ಸಮರ್ಥಾ ಭವತಿ । ತಸ್ಮಾದ್ವೋ ಯೂಯಂ ।
+> ಛಾಂದಸೋ ವಸಾದೇಶಃ ॥ ಊಮೇಭ್ಯೋ ರಕ್ಷಿತೃಭ್ಯೋ ದೇವೇಭ್ಯೋ ಮಧು ಮದಕರಃ ।
+> ಸೋಮಮದ್ಭಿಃ ಪರಿ ಷಿಂಚತ ॥
+
+<!-- printed 837 -->
+*[ಅ. ೭. ಆ. ೭. ವ. ೩೦.] ಋಗ್ವೇದಸಂಹಿತಾ 837]*
+
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಯಜಮಾನರೇ) ದೇವಯುಃ—ದೇವಪೂಜೆಯನ್ನಿಚ್ಛಿಸುವ ಹೋತೃವು । ವಃ—ನಿಮ್ಮ । ಪದಂ
+ಅಚ್ಛ—ಯಜ್ಞ ಸ್ಥಾನಾಭಿಮುಖವಾಗಿ । ಪ್ರ ರಿರಿಚೇ—ಅತಿಶಯವಾಗಿ ಬರುತ್ತಾನೆ । ಏಕಂ—ಹೋತೃಗಳಲ್ಲಿ
+ಶ್ರೇಷ್ಠನಾದ ಇಂದ್ರನು । ರುದ್ರೇಭಿಃ—ಮರುತ್ತುಗಳೊಡಗೂಡಿ । ತುರ್ವಣಿಃ—ಕ್ಷಿಪ್ರಗಾಮಿಯಾಗಿ । ಯಾತಿ—
+ಬರುತ್ತಾನೆ । ಜರಾ ವಾ—ಸ್ತುತಿಯೂ ಸಹ । ಯೇಷು ಅಮೃತೇಷು—ಮರಣಧರ್ಮರಹಿತರಾದ ಯಾವ
+ದೇವತೆಗಳನ್ನು ಸೇರುವುದರಿಂದ । ದಾವನೇ—ಧನದಾನಕ್ಕೆ ಸಮರ್ಥವಾಗುವುದೋ । ಊಮೇಭ್ಯಃ—ರಕ್ಷಕರಾದ
+ಅದೇ ದೇವತೆಗಳಿಗೋಸ್ಕರ । ಮಧು—ರುಚಿಕರವಾದ ಸೋಮವನ್ನು । ಪರಿ ಷಿಂಚತ—ಉದಕಗಳೊಂದಿಗೆ
+ಸೇರಿಸಿರಿ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಯಜಮಾನರೇ, ದೇವಪೂಜೆಯನ್ನಿಚ್ಛಿಸುವ ಹೋತೃವು ನಿಮ್ಮ ಯಜ್ಞಸ್ಥಾನಾಭಿಮುಖವಾಗಿ ಅತಿಶಯ
+ವಾಗಿ ಬರುತ್ತಾನೆ. ಹೋತೃಗಳಲ್ಲಿ ಶ್ರೇಷ್ಠನಾದ ಇಂದ್ರನು ಮರುತ್ತುಗಳೊಡಗೂಡಿ ಕ್ಷಿಪ್ರಗಾಮಿಯಾಗಿ ಬರುತ್ತಾನೆ.
+ಸ್ತುತಿಯೂ ಸಹ ಮರಣಧರ್ಮರಹಿತರಾದ ಯಾವ ದೇವತೆಗಳನ್ನು ಸೇರುವುದರಿಂದ ಧನಧಾನಕ್ಕೆ ಸಮರ್ಥವಾಗು
+ವುದೋ, ರಕ್ಷಕರಾದ ಅದೇ ದೇವತೆಗಳಿಗೋಸ್ಕರವಾಗಿ ರುಚಿಕರವಾದ ಸೋಮವನ್ನು ಉದಕಗಳೊಂದಿಗೆ ಸೇರಿಸಿರಿ.
+
+*English Translation.*
+
+The devout (priest) excels (going) towards your place of worship :
+the quick-moving (Indra), the chief (of the priests), proceeds with the
+Rudras, (the Maruts); sprinkle the exhilarating (Soma with water) for the
+protecting (deities), the immortals amongst whom praise is (able) to pro-
+cure wealth.
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನಿಧೀಯಮಾನಮಪಗೂಳ್ಹಮಪ್ಸು ಪ್ರ ಮೇ ದೇವಾನಾಂ ವ್ರತಪಾ ಉವಾಚ।
+> ಇಂದ್ರೋ ವಿದ್ವಾ ಅನು ಹಿತ್ವಾ ಚಚಕ್ಷ ತೇನಾಹಮಗ್ನೇ ಅನುಶಿಷ್ಟ
+> ಆಗಾಂ ॥ ೬ ॥
+*[೧ ಪದಪಾಠಿ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ನಿಧೀಯಮಾನಂ । ಅಪಗೂಳ್ಹಂ । ಅಪ್ಸು । ಪ್ರ । ಮೇ । ದೇವಾನಾಂ । ವ್ರತಪಾಃ । ಉವಾಚ ।
+> ಇಂದ್ರಃ । ವಿದ್ವಾನ್ । ಅನು । ತ್ವಾ । ಚಚಕ್ಷ । ತೇನ । ಅಹಂ । ಅಗ್ನೇ । ಅನುಶಿಷ್ಟಃ । ಆ । ಅಗಾಂ ॥
+
+<!-- printed 838 -->
+*[838 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೨.]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಕುರುಶ್ರವಣಸ್ಯ ಯಜ್ಞೇ ನಿಧೀಯಮಾನೋಽಗ್ನಿರಭಿಧೀಯತೇ । ನಿಧೀಯಮಾನಮಧ್ವರ್ಯುಣಾಹವನೀಯೇಽಗ್ನಾವಪ್ಪು ಮಾತೃಭೂತಾಸ್ವಪಗೂಳ್ಹಮಂತರ್ಹಿತಂ ದೇವಾನಾಂ ವ್ರತಪಾಃ ಕರ್ಮಣೋ
+> ರಕ್ಷಕ ಇಂದ್ರೋ ಮೇ ಮಹ್ಯಂ ಪ್ರೋವಾಚ । ಪ್ರಾವಾದೀತ್ । ಹೇ ಅಗ್ನೇ ವಿದ್ಯಾಜ್ಞಾನಾನ ಇಂದ್ರಃ
+> ಸ್ವಾಧಿಕಾರಮಸ್ಮದ್ಭಕ್ತತಾಂ ವಾ ತ್ವಾ ತ್ವಾಮನು ಹಿ ಚಚಕ್ಷ । ಅನುಗತಃ ಪಶ್ಚಾದ್ದದರ್ಶ । ತೇನೇಂದ್ರೇಣಾನುಶಿಷ್ಟೋಽಹಮನೇನ ಪಥಾ ತ್ವಯಾ ಸ್ವರ್ಗೋ ಗಂತವ್ಯ ಇತ್ಯೇವಮುಪದಿಷ್ಟಃ ಸನ್ನಾಗಾಂ
+> ಅಭಿಮುಖ್ಯೇನ ಸ್ವರ್ಗಂ ಗಚ್ಛೇಯಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಗ್ನಿಯೇ) ನಿಧೀಯಮಾನಂ—ಆಹವನೀಯಾಗ್ನಿಯಲ್ಲಿ ನಿಕ್ಷಿಪ್ತನೂ । ಅಪ್ಸು—ಉದಕಗಳಲ್ಲಿ
+ಅಪಗೂಳ್ಹಂ—ಆಡಗಿಕೊಂಡಿರುವವನೂ ಆದ ನಿನ್ನ ವಿಷಯವನ್ನು । ದೇವಾನಾಂ—ದೇವತೆಗಳ । ವ್ರತಪಾ —
+ಕರ್ಮಗಳಿಗೆ ಪಾಲಕನಾದ ಇಂದ್ರನು । ಮೇ—ನನಗೆ । ಪ್ರ ಉವಾಚ—ಹೇಳಿದನು । ಅಗ್ನೇ—ಎಲೈ ಅಗ್ನಿಯೇ ।
+ವಿದ್ವಾನ್—ಎಲ್ಲವನ್ನು ತಿಳಿದ । ಇಂದ್ರಃ—ಇಂದ್ರನು । ತ್ವಾ—ನಿನ್ನನ್ನು । ಅನು ಚಚಕ್ಷ—ಒಡನೆಯೇ
+ಪ್ರತ್ಯಕ್ಷವಾಗಿ ನೋಡಿದ್ದಾನೆ । ತೇನ—ಆ ಇಂದ್ರನಿಂದ । ಅನುಶಿಷ್ಟಃ—ಉಪದೇಶಿಸಲ್ಪಟ್ಟವನಾಗಿ । ಅಹಂ—
+ನಾನು । ಆಗಾಂ—ಸ್ವರ್ಗಾಭಿಮುಖವಾಗಿ ಹೋಗುವಂತೆ ಆಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಗ್ನಿಯೇ, ಆಹವನೀಯಾಗ್ನಿಯಲ್ಲಿ ನಿಕ್ಷಿಪ್ತನೂ ಉದಕಗಳಲ್ಲಿ ಅಡಗಿಕೊಂಡಿರುವವನೂ ಆದ ನಿನ್ನ
+ವಿಷಯವನ್ನು ದೇವತೆಗಳ ಕರ್ಮಗಳಿಗೆ ಪಾಲಕನಾದ ಇಂದ್ರನು ನನಗೆ ಹೇಳಿದನು ಎಲೈ ಅಗ್ನಿಯೇ, ಎಲ್ಲವನ್ನು
+ತಿಳಿದ ಇಂದ್ರನು ನಿನ್ನನ್ನು ಒಡನೆಯೇ ಪ್ರತ್ಯಕ್ಷವಾಗಿ ನೋಡಿದ್ದಾನೆ. ಆ ಇಂದ್ರನಿಂದ ಉಪದೇಶಿಸಲ್ಪಟ್ಟವನಾಗಿ
+ನಾನು ಸ್ವರ್ಗಾಭಿಮುಖವಾಗಿ ಹೋಗುವಂತೆ ಆಗಲಿ.
+
+*English Translation.*
+
+The guardian of the sacred rites of the gods, Indra, said to me, (Agni), who had been deposited in the waters; the sagacious Indra, following you, Agni, has discovered you, therefore admonished by him may I, Agni, proceed to heaven.
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಕ್ಷೇತ್ರವಿತ್ ಕ್ಷೇತ್ರವಿದಂ ಹ್ಯಪ್ರಾಟ್ ಸ ಪೈತಿ ಕ್ಷೇತ್ರವಿದಾನುಶಿಷ್ಟಃ ।
+> ಏತದ್ವೈ ಭದ್ರಮನುಶಾಸನಸ್ಯೋತ ಸ್ತುತಿಂ ವಿಂದತ್ಯಂಜಸೀನಾಂ ॥ ೭ ॥
+
+<!-- printed 839 -->
+*[ಅ, ೭. ಅ. ೭. ವ. ೩೦.] ಋಗ್ವೇದಸಂಹಿತಾ 830]*
+
+*[೧ ಪದಪಾಠ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಅಕ್ಷೇತ್ರವಿತ್ । ಕ್ಷೇತ್ರವಿದಂ । ಹಿ । ಅಪ್ರಾಟ್ । ಸಃ । ಪ್ರ । ಏತಿ । ಕ್ಷೇತ್ರವಿದಾ । ಅನುಶಿಷ್ಟಃ ।
+> ಏತತ್ । ವೈ । ಭದ್ರಂ । ಅನುಶಾಸನಸ್ಯ । ಉತ । ಸ್ತುತಿಂ । ವಿಂದತಿ । ಆಂಜಸೀನಾಂ ॥ ೭ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಸೇಯಮನುಶಾಸನಸ್ತುತಿಃ ಪ್ರಾಸಂಗಿಕೀ । ಅಕ್ಷೇತ್ರವಿತ್ ॥ ಕ್ಷಿ ನಿವಾಸಗತ್ಯೋಃ ॥ ಕ್ಷೀಯತೇ
+> ಗಮ್ಯತೇನೇನೇತಿ ಕ್ಷೇತ್ರಂ ಪಂಥಾಃ । ಪಂಥಾನಮಜಾನನ್ ಪುರುಷಃ ಕ್ಷೇತ್ರವಿದಂ ಕ್ಷೇತ್ರಜ್ಞಂ ಪುರುಷಮಪ್ರಾಟ್ । ಪೃಷ್ಟವಾನ್ । ಸ ಕ್ಷೇತ್ರವಿದಾ ಪಥಿಜ್ಞೇನ ತೇನಾನುಶಿಷ್ಟಃ ಪ್ರದರ್ಶಿತಮಾರ್ಗಃ ಸನ್ ಪ್ರೈತಿ ।
+> ಸ್ವಾಭಿಲಷಿತಂ ದೇಶಂ ಗಚ್ಛತಿ । ಅನುಶಾಸನಸ್ಯ ಮಾರ್ಗೋಪದೇಶರೂಪಸ್ಯತದ್ವಾ ಏತತ್ಪಲು ಭದ್ರಂ
+> ಭಜನೀಯಂ ಕಲ್ಯಾಣಕರಂ । ಕಿಂ ತತ್ । ಉತಾಪಿ ಚಾಂಜಸೀನಾಮೃಜುನಾ ಮಾರ್ಗೇಣ ಗಂತವ್ಯಾನಾಮಪಾಂ ಸ್ತುತಿಂ ಮಾರ್ಗಂ ಪಿಪಾಸಿತಃ ಸನ್ ವಿಂದತಿ । ಲಭತೇ । ಯದ್ವಾ । ಅಂಜಸೀನಾಮಿತಿ
+> ಸ್ತುತೀರ್ವಿಶೇಷಣಂ । ಋಜುಮಕುಟಿಲಮಪ್ರಯಾಸೇನ ಗಂತವ್ಯಂ ಮಾರ್ಗಂ ಲಭತೇ ಖಲು ॥
+*[" ಪ್ರತಿಪದಾರ್ಥ "]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಕ್ಷೇತ್ರವಿತ್—ಉತ್ತಮವಾದ ಮಾರ್ಗವನ್ನು ತಿಳಿಯದಿರುವವನು । ಕ್ಷೇತ್ರವಿದಂ—ಮಾರ್ಗವನ್ನು
+ತಿಳಿದ ಪುರುಷನನ್ನು । ಅಪ್ರಾಟ್—ಪ್ರಶ್ನಿಸಿ ಕೇಳುತ್ತಾನೆ । ಸಃ—ಅವನು । ಕ್ಷೇತ್ರವಿದಾ—ಮಾರ್ಗವನ್ನು
+ಅರಿತವನಿಂದ । ಅನುಶಿಷ್ಟಃ—ಉಪದೇಶಿಸಲ್ಪಟ್ಟು । ಪ್ರೈತಿ—ತಾನು ಇಷ್ಟಪಟ್ಟ ಪ್ರದೇಶಕ್ಕೆ ಹೋಗುತ್ತಾನೆ ।
+ಏತದ್ವೈ—ಈ ಗುರಿಯನ್ನು ಮುಟ್ಟುವುದೇ । ಅನುಶಾಸನಸ್ಯ—ಈ ಮಾರ್ಗೋಪದೇಶಕ್ಕೆ । ಭದ್ರಂ—
+ಕಲ್ಯಾಣಾತ್ಮಕವಾದ ಸಿದ್ಧಿಯಾಗಿರುತ್ತದೆ । ಉತ—ಮತ್ತು । ಅಂಜಸೀನಾಂ—ನೇರವಾಗಿ ಹರಿಯುವ ಉದಕಗಳ ।
+ಸ್ತುತಿಂ—ಮಾರ್ಗವನ್ನು । ವಿಂದತೇ—(ಬಳಲಿದವನು) ಪಡೆಯುತ್ತಾನೆ.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಉತ್ತಮವಾದ ಮಾರ್ಗವನ್ನು ತಿಳಿದ ಪುರುಷನನ್ನು ತಿಳಿಯದಿರುವವನು ಪ್ರಶ್ನಿಸಿ ಕೇಳುತ್ತಾನೆ.
+ಮಾರ್ಗೋಪದೇಶವಾದನಂತರ ತಾನು ಇಷ್ಟಪಟ್ಟ ಪ್ರದೇಶಕ್ಕೆ ಹೋಗುತ್ತಾನೆ. ಈ ಗುರಿಯನ್ನು ಮುಟ್ಟುವುದೇ
+ಮಾರ್ಗೋಪದೇಶದ ಕಲ್ಯಾಣಾತ್ಮಕವಾದ ಸಿದ್ಧಿಯಾಗಿರುತ್ತದೆ. ನೇರವಾಗಿ ಹರಿಯುವ ಉದಕಗಳ ಮಾರ್ಗವನ್ನು
+ಬಳಲಿದವನು ಈ ಉಪದೇಶದಿಂದ ಪಡೆಯುತ್ತಾನೆ.
+
+*English Translation.*
+
+One who knows not the road inquires it of one who knows it ; and directed by him who knows the way proceeds (to his destination): such verily is the good of instruction, and (thereby) one finds the path of the things that are to be reached by a straight path.
+
+<!-- printed 840 -->
+*[840 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂಕ್ತ. ೩೨]*
+
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅದ್ಯೇದು ಪ್ರಾಣೇದಮಮನ್ನಿಮಾಹಾಪೀವೃತೋ ಅಧಯನ್ಮಾತುರೂಧಃ ।
+> ಏಮೇನಮಾಪ ಜರಿಮಾ ಯುವಾನಮಹೇಳನ್ವಸುಃ ಸುಮನಾ ಬಭೂವ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅದ್ಯ । ಇತ್ । ಊಂ ಇತಿ । ಪ್ರ । ಆನೀತ್ । ಅಮಮನ್ । ಇಮಾ । ಅಹಾ । ಅಪಿವೃತಃ ।
+> ಅಧಯತ್ । ಮಾತುಃ । ಊಧಃ ।
+> ಆ । ಈಂ । ಏನಂ । ಆಪ । ಜರಿಮಾ । ಯುವಾನಂ । ಅಹೇಳನ್ । ವಸುಃ । ಸುಮನಾಃ । ಬಭೂವ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಯಮಗ್ನಿರದ್ಯೇದದೈವಾಸ್ಮಿನ್ನಿನೇ ಪ್ರಾಣೀತ್ । ಮಥನೇನ ಚೇಷ್ಟಿತೋಽಭವತ್ । ಶ್ವಸ
+> ಪ್ರಾಣನೇ ಅನ ಚೇತಿ ಧಾತುಃ ॥ ತದಾನೀಮೇವೇಮೇಮಾನ್ಯಹಾಹಾನಿ ಸೌಮಿಕಾನ್ಯಮಮನ್ ।
+> ನೇತುಮಮನ್ಯತ ॥ ಮನ ಜ್ಞಾನೇ । ವ್ಯತ್ಯಯೇನ ಶ್ಲುಃ । ತಿಜಿಉತ್ತರತ್ಪಾದನಿಘಾತಃ ॥ ಅಪಿ ಚಾಪೀಕೃತಸ್ತೇಜೋಭಿಃ ಪರಿವೃತಃ ಸನ್ ಮಾತುಃ ಪೃಥಿವ್ಯಾ ಊಧಃ ಸಾರಭೂತಂ ಸೋಮಾದಿಕಂ ಹವಿರಧಯತ್ । ಪಿಬತಿ ! ತಥಾ ಯುವಾನಾಂ ನಿತ್ಯತರುಣಂ ದೇವಾನಾಂ ಹವಿಷಾ ಮಿಶ್ರಯಂತಂ ವೈನಮಗ್ನಿಂ
+> ಜರಿಮಾ ॥ ಜರತಿಃ ಸ್ತುತಿಕರ್ಮಾ । ತಸ್ಮಾದೌಣಾದಿಕ ಇಮನಿಚ್ ॥ ಸ್ತೋತೃಭಿಃ ಕ್ರಿಯಮಾಣಾ ಸ್ತುತಿರಾಪ ! ಅಭಿಮುಖ್ಯೇನ ವ್ಯಾಪ್ನೋತಿ । ಈಮಿತಿ ಪೂರಣಃ । ತತೋಽಹೇಳನ್ನಕ್ರುದ್ಯನ್ ಸ್ತೋತೃನ್ಮೃತಿ
+> ವಸುರ್ವಾಸಯಿತಾ ಸರ್ವೇಷಾಂ ಧನದಾನೇನಾಚ್ಛಾದಯಿತಾ ತೇಜೋಭಿಃ ಶತ್ರೂಣಾಂ ವಾ ವಸುಮಾನ್ವಾಗ್ನಿಃ ಸುಮನಾಃ ಶೋಭನಮನಸ್ಕೋ ಬಭೂವ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅದ್ಯೇತ್—ಇದೇ ದಿನ । ಪ್ರಾಣೀತ್—ಮಥಿಸಲ್ಪಟ್ಟು ಅಗ್ನಿಯು ಚೈತನ್ಯಯುಕ್ತನಾದನು ।
+ಇಮಾ ಅಹಾ—ಈ ಸೋಮಯಾಗದ ದಿನಗಳನ್ನು । ಅಮಮನ್—ನೆರವೇರಿಸಬೇಕೆಂದು ತಿಳಿದನು ।
+ಅಪೀವೃತಃ— ತೇಜಸ್ಸುಗಳಿಂದ ಕೂಡಿದವನಾಗಿ । ಮಾತುಃ—ಪೃಥ್ವಿಗೆ ಸೇರಿದ । ಊಧಃ—ಸಾರಭೂತವಾದ
+ಹವಿಸ್ಸನ್ನು । ಅಧಯತ್—ಪಾನಮಾಡುತ್ತಾನೆ । ಯುವಾನಂ—ನಿತ್ಯತರುಣನಾದ । ಈಂ ಏನಂ—ಈ ಅಗ್ನಿ
+ಯನ್ನು । ಜರಿಮಾ—ಸ್ತುತಿಯು । ಆಪ—ವ್ಯಾಪಿಸುತ್ತದೆ । ವಸುಃ—ವಸತಿದಾಯಕನಾದ ಅಗ್ನಿಯು ।
+ಆಹೇಳನ್—ಕ್ರೋಧ ರಹಿತನಾಗಿ । ಸುಮನಾಃ—ಅನುಗ್ರಹಬುದ್ಧಿಯುಳ್ಳವನಾಗಿ । ಬಭೂವ—ಆಗಿದ್ದಾನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಇದೇ ದಿನ ಮಥಿಸಲ್ಪಟ್ಟ ಅಗ್ನಿಯು ಚೈತನ್ಯಯುಕ್ತನಾದನು. ಈ ಸೋಮಯಾಗದ ದಿನಗಳನ್ನು
+ನೆರವೇರಿಸಬೇಕೆಂದು ತಿಳಿದನು. ತೇಜಸ್ಸುಗಳಿಂದ ಕೂಡಿದವನಾಗಿ ಪೃಥ್ವಿಗೆ ಸೇರಿದ ಸಾರಭೂತವಾದ ಹವಿಸ್ಸನ್ನು
+
+<!-- printed 841 -->
+*[ಆ. ೭. ಆ. ೭. ವ. ೩೦] ಋಗ್ವೇದಸಂಹಿತಾ 841]*
+
+ಪಾನಮಾಡುತ್ತಾನೆ. ನಿತ್ಯತರುಣನಾದ ಅಗ್ನಿಯನ್ನು ಸ್ತುತಿಯು ವ್ಯಾಪಿಸುತ್ತದೆ. ವಸತಿದಾಯಕನಾದ ಅಗ್ನಿಯು
+ಕ್ರೋಧರಹಿತನಾಗಿ ಅನುಗ್ರಹಬುದ್ಧಿಯುಳ್ಳವನಾಗಿ ಆಗಿದ್ದಾನೆ.
+
+*English Translation.*
+
+To-day (Agni) breathed: he purposed (to conduct) these days surrounded (by lustre), and drank the sap of his mother (earth): the praise of his (worshippers) reaches the ever-youthful (Agni), and he has become gentle, generous, and well-disposed.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಏತಾನಿ ಭದ್ರಾ ಕಲಶ ಕ್ರಿಯಾಮ ಕುರುಶ್ರವಣ ದಧತೋ ಮಘಾನಿ ।
+> ದಾನ ಇದ್ದೋ ಮಘವಾನಃ ಸೋ ಅಸ್ತ್ವಯಂ ಚ ಸೋಮೋ ಹೃದಿಯಂ
+> ಬಿಭರ್ಮಿ ॥ ೯ ॥
+*[೧ ಪದಪಾರಃ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಏತಾನಿ । ಭದ್ರಾ । ಕಲಶ । ಕ್ರಿಯಾಮ । ಕುರುಶ್ರವಣ । ದದತಃ । ಮಘಾನಿ ।
+> ದಾನಃ । ಇತ್ । ವಃ । ಮಘ್ನವಾನಃ । ಸಃ । ಅಸ್ತು । ಅಯಂ । ಚ । ಸೋಮಃ । ಹೃದಿ । ಯಂ ।
+> ಬಿಭರ್ಮಿ ॥ ೯ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಕಲಶ ಸರ್ವಕಲಾಪರಿಪೂರ್ಣ । ಯದ್ವಾ । ಲುಪ್ತಮತ್ತ್ವರ್ಥೀಯಃ । ದ್ರೋಣಕಲಶವನ್ !
+> ಹೇ ಕುರುಶ್ರವಣ । ಕುರವ ಋತ್ವಿಜಃ । ತೇಷಾಂ ಸ್ವಭೂತಾನಾಂ ಸ್ತುತೀನಾಂ ಶ್ರೋತರ್ಹೇ ಇಂದ್ರ
+> ಮಘಾನಿ ಧನಾನಿ ಸ್ತೋತೃಭ್ಯೋ ಯಷ್ಟೃಭ್ಯಶ್ಚ ದದತಃ ಪ್ರಯಚ್ಛತಸ್ತವೇಂದ್ರಸ್ಯಾರ್ಥಮೇತಾನಿ
+> ಭದ್ರಾ ಭಜನೀಯಾನಿ ಹವೀಂಷಿ ಸ್ತೋತ್ರಾಣಿ ಚ ಕ್ರಿಯಾಮ । ವಿಧೇಯಾಸ್ಮಿ ॥ ಕರೋತೇರಾಶೀರ್ಲಿಜಿ
+> ರಿಜ್ ಶಯ್ಗ್ಲಿಂಕ್ಷು । ಪಾ ೭.೪.೨೮ । ಇತಿ ರಿಜಾದೇಶಃ ॥ ಅಥ ಸ್ತೋತೃನ್ಯತ್ಯಾಹ । ಹೇ ಮಘವಾನೋ ಮಹನೀಯಸ್ತೋತ್ರರೂಪಧನವಂತಃ ವೋ ಯುಷ್ಮಾಕಂ ಸ ಇಂದ್ರೋ ದಾನ ಇದ್ದನಾದೇರ್ದಾತೈವಾಸ್ತು । ಭವತು । ಅಯಂ ಚ ಯಜ್ಞೆ ಸ್ಥಿತಃ ಸೋಮೋ ದಾತಾಸ್ತು ಹೃದಯ ಆತ್ಮೀಯೇ
+> ಯಂ ಪೀತಂ ಸೋಮಂ ಬಿಭರ್ಮಿ ಧಾರಯಾಮಿ॥ ಡುಭೃಞ್ಛಧ: ರಣಪೂಷಣಯೋಃ। ಜೌಹೋತ್ಯಾದಿಕಃ।
+> ಭೃಞಾಮಿತಿತ್ಯಭ್ಯಾಸಸ್ಯೆತ್ವಂ । ಯದ್ಯೋಗಾವನಿಘಾತಃ ॥ ಯದ್ವಾ । ಹೇ ಕಲಶಕುಲಜಾತ ಹೇ ಕುರುಶ್ರವಣೈತನ್ನಾಮಕ ತ್ರಸದಸ್ಕೋಃ ಪುತ್ರ ರಾಜನ್ ಋತ್ವಿಗ್ಯೋ ಧನಾನಿ ಪ್ರಯಚ್ಛತಸ್ತವಾರ್ಥಂ
+> ವಯಂ ಕರ್ಮಾಣಿ ಕ್ರಿಯಾಮ । ಮಘವಾನಃ ಕುರುಶ್ರವಣಾಃ । ಪೂಜಾಯಾಂ ಬಹುವಚನಪದಂ ।
+> ಯೋಗಕರ್ಮ ಕುರ್ವಾಣಸ್ಯ ತವೇಂದ್ರೋ ದಾತಾ ಭವತು । ಅಯಂ ಸೋಮಶ್ಚ ಧನಾನಿ ಪ್ರಯಚ್ಛತು ॥
+
+<!-- printed 842 -->
+*[842 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೨.]*
+
+*[॥ ಪ್ರತಪದಾರ್ಥ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಕಲಶ—ದ್ರೋಣಕಲಶವನ್ನು ಹೊಂದಿರುವವನೂ । ಕುರುಶ್ರವಣ—ಋತ್ವಿಕ್ಕುಗಳ ಸ್ತೋತ್ರಗಳನ್ನು
+ಕೇಳುವವನೂ ಆದ ಎಲೈ ಇಂದ್ರನೇ । ಮಘಾನಿ—ದ್ರವ್ಯಗಳನ್ನು । ದದತಃ—ಕೊಡತಕ್ಕ ನಿನಗಾಗಿ । ಏತಾನಿ
+ಭದ್ರಾ—ಮಂಗಳಕರಗಳಾದ ಈ ಹವಿಸ್ಸುಗಳನ್ನು । ಕ್ರಿಯಾಮ—ಅರ್ಪಿಸುತ್ತೇವೆ । ಮಘವಾನಃ—ಪೂಜ್ಯವಾದ
+ಸ್ತುತಿಗಳುಳ್ಳ ಎಲೈ ಸ್ತುತಿಕರ್ತರೇ । ವಃ—ನಿಮಗೆ । ಸಃ—ಇಂದ್ರನು । ದಾನ ಇತ್—ದಾನದಾತನಾಗಿಯೇ ।
+ಅಸ್ತು—ಆಗಿರಲಿ । ಯಂ—ಯಾವ ಸೋಮವನ್ನು । ಹೃದಿ—ಹೃದಯದಲ್ಲಿ । ಬಿಭರ್ಮಿ—ನಾನು ಧರಿಸುವೆನೋ
+(ಎಂದರೆ ಪಾನಮಾಡುವೆನೋ) ಅಂತಹ । ಅಯಂ ಸೋಮಃ—ಈ ಸೋಮವು ಸಹ ಧನವನ್ನು ಕೊಡಲಿ.
+*[॥ ಭಾಷಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ದ್ರೋಣಕಲಶವನ್ನು ಹೊಂದಿರುವವನೂ, ಋತ್ವಿಕ್ಕುಗಳ ಸ್ತೋತ್ರಗಳನ್ನು ಕೇಳುವವನೂ ಆದ ಎಲೈ
+ಇಂದ್ರನೇ, ದ್ರವ್ಯಗಳನ್ನು ಕೊಡತಕ್ಕ ನಿನಗಾಗಿ ಮಂಗಳಕರಗಳಾದ ಈ ಹವಿಸ್ಸುಗಳನ್ನು ಅರ್ಪಿಸುತ್ತೇವೆ. ಪೂಜ್ಯ
+ವಾದ ಸ್ತುತಿಗಳುಳ್ಳ, ಎಲೈ ಸ್ತುತಿಕರ್ತರೇ, ನಿಮಗೆ ಇಂದ್ರನೂ, ನಾವು ಧ್ಯಾನಿಸತಕ್ಕ ಈ ಸೋಮವೂ ಸಹ ಧನವನ್ನು
+ಪ್ರಭೂತವಾಗಿ ಕೊಡಲಿ.
+
+*English Translation.*
+
+(Indra), the possessor of the pitchers, the bearer of the praises of the
+Kurus, let us celebrate these auspicious adorations of you, the giver of
+riches : may he, (Indra), be the donor (of affluence) to you who are opulent,
+(in pious offering), and (so may) this Soma which I cherish in my heart.
+ವೇದಾರ್ಥಸ್ಯ ಪ್ರಕಾಶೇನ ತಮೋ ಹಾರ್ದಂ ನಿವಾರಯನ್ ।
+ಪ್ರಮಥಾಂಶ್ಚ ತುರೋ ದೇಯಾದ್ವಿದ್ಯಾತೀರ್ಥಮಹೇಶ್ವರಃ ॥
+ಇತಿ ಶ್ರೀಮದ್ರಾಜಾಧಿರಾಜಪರಮೇಶ್ವರವೈದಿಕಮಾರ್ಗಪ್ರವರ್ತಕಶ್ರೀವೀರಬುಕ್ಕಭೂಪಾಲಸಾಮ್ರಾಜ್ಯಧುರಂಧರೇಣ ಸಾಯಣಾಚಾರ್ಯೇಣ ವಿರಚಿತೇ ಮಾಧವೀಯೇ ವೇದಾರ್ಥಪ್ರಕಾಶ
+ಋಕ್ಸಂಹಿತಾಭಾಷ್ಯೇ ಸಪ್ತಮಾಷ್ಟಕೇ ಸಪ್ತಮೋಽಧ್ಯಾಯಃ ಸಮಾಪ್ತಃ ॥
+ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ
+ಋಗ್ವೇದಸಂಹಿತೆಯಲ್ಲಿ ಏಳನೆಯ ಅಷ್ಟಕದಲ್ಲಿ ಏಳನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತವು.
+॥ ಓಂ ತತ್ಪತ್ ॥
+ಯದಕ್ಷರಪದಭ್ರಷ್ಟಂ ಮಾತ್ರಾಹೀನಂ ತು ಯದ್ಭವೇತ್ ।
+ತತ್ಸರ್ವಂ ಕ್ಷಮ್ಯತಾಂ ದೇವ ವಾಗೀಶ್ವರ ನಮೋಸ್ತು ತೇ ॥
+॥ ಶುಭಂ ಭವಯಾತ್ ॥
+॥ ಮಂಗಳಂ ॥
+*[stray line as supplied: ૐ]*
+*[stray line as supplied: ॥ ૐ ॥]*
+॥ ಶ್ರೀ ಮಹಾಗಣಾಧಿಪತಯೇ ನಮಃ ॥
+ವಾಗೀಶಾದ್ಯಾಃ ಸುಮನಸಃ ಸರ್ವಾರ್ಥಾನಾಮುಪಕ್ರಮೇ ।
+ಯಂ ನತ್ವಾ ಕೃತಕೃತ್ಯಾಃ ಸ್ಯುಸ್ತಂ ಸಮಾಮಿಗಜಾನನಂ ॥
+ಯಸ್ಯ ನಿಶ್ಯಸಿತಂ ವೇದಾ ಯೋ ವೇದೇಭ್ಯೋಖಿಲಂ ಜಗತ್ ।
+ನಿರ್ಮಮೇ ತಮಹಂ ವಂದೇ ವಿದ್ಯಾತೀರ್ಥಮಹೇಶ್ವರಂ ॥
+ವೇದಃ ಶಿವಃ ಶಿವೋ ವೇದೋ ವೇದಾಧ್ಯಾಯಾ ಸದಾಶಿವಃ ।
+ತಸ್ಮಾತ್ಸರ್ವಪ್ರಯತ್ನೇನ ವೇದಮೇವ ಸದಾ ಜಪೇತ್ ॥
+ಸಪ್ತಮೇ ಸಪ್ತಮಂ ತ್ವದ್ಯ ವ್ಯಾಖ್ಯಾಯ ಶ್ರುತಿಕೋವಿದಃ ।
+ಸಾಯಣಾರ್ಯಸ್ತತೋಽಧ್ಯಾಯಮಷ್ಟಮಂ ವ್ಯಾಚಿಕೀರ್ಷತಿ ।
+ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ
+ಋಗ್ವೇದಸಂಹಿತಾ
+ಅಥ ಸಪ್ತಮಾಷ್ಟಕೇಽಷ್ಟಮೋಽಧ್ಯಾಯಃ
+ಏಳನೆಯ ಅಷ್ಟಕದಲ್ಲಿ ಎಂಟನೆಯ ಅಧ್ಯಾಯವು.
+ಹತ್ತನೆಯ ಮಂಡಲದಲ್ಲಿ ಮೂವತ್ತಮೂರನೆಯ ಸೂಕ್ತವು.
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಥಾಷ್ಟಮೋಽಧ್ಯಾಯ ಆರಭ್ಯತೇ । ತತ್ರ ಪ್ರ ಮೇತಿ ನವರ್ಚಂ ಚತುರ್ಥಂ ಸೂಕ್ತಂ । ಐಲೂಷಸ್ಯ ಕವಷಸ್ಯಾರ್ಷಂ । ಆದ್ಯಾ ತ್ರಿಷ್ಟುಪ್ ಸಾ ಚ ವೈಶ್ವದೇವೀ । ದ್ವಿತೀಯಾತೃತೀಯೇ ಬೃಹತೀಸತೋಬ್ರಹತ್ಯಾವೈಂದ್ರೌ । ಪರಾಃ ಷಡ್ಗಾಯತ್ರ್ಯಃ । ಕುರುಶ್ರವಣಮಾವೃಣೀತಿ ದ್ವಾಭ್ಯಾಂ ತಸದಸ್ಯುಪುತ್ರಸ್ಯ
+> ಕುರುಶ್ರವಣನಾನ್ನೋ ರಾಜ್ಯೋ ದಾನಂ ತುಷ್ಟಾವ । ಅತಸ್ತದ್ದೇವತಾಕೇ । ಅಥ ಯಸ್ಯ ಪ್ರಸ್ವಾದಸ
+> ಇತ್ಯಾದಿಭಿಶ್ಚತಸೃಭಿರ್ಮಿತ್ರಾತಿಥಿನಾಮಿ ರಾಜಿ ಪರಲೋಕಂ ಗತೇ ಶೋಕಾಭಿಭೂತಂ ತಸ್ಯ ಪುತ್ರಮುಪಶ್ರವೋನಾಮಾನಂ ಕವಷ ಋಷಿಃ ಸ್ನೇಹವಶಾದಭಿಗತ್ಯ ವಿಗತಶೋಕಮಕರೋತ್ । ಅತಸ್ತಾಸಾಂ
+
+<!-- printed 844 -->
+*[೮೪೪ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೩]*
+
+> ತದ್ದೇವತಾತ್ವಂ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ । ಪ್ರ ಮಾದ್ಯಾ ವೈಶ್ವದೇವೈಂದ್ರಃ ಪ್ರಗಾಥಃ ಪರಾ
+> ಗಾಯತ್ರ್ಯೋ ದ್ವೇ ಕುರುಶ್ರವಣಸ್ಯ ತ್ರಾಸದಸ್ಯವಸ್ಯ ದಾನಸ್ತುತಿಃ ಪರಾಭಿರ್ಮೃತೇ ಮಿತ್ರಾತಿಥೌ ರಾಜ್ಞಿ
+> ತತ್ಸ್ನೇಹಾದೃಷಿರೂಪಮಶ್ರವಸಂ ಪುತ್ರಮಸ್ಯ ವ್ಯಶೋಕಯದಿತಿ ॥ ಗತೋ ವಿನಿಯೋಗಃ ॥
+ಅನುವಾದವು—ಈಗ ಏಳನೆಯ ಅಷ್ಟಕದಲ್ಲಿ ಎಂಟನೆಯ ಅಧ್ಯಾಯದ ವ್ಯಾಖ್ಯಾನವು ಆರಂಭಿಸಲ್ಪಡುವುದು.
+ಈ ಅಧ್ಯಾಯದ ಮೊದಲನೆಯ ಸೂಕ್ತವಾದ ಪ್ರ ಮಾ ಯುಯುಜೇ ಎಂಬ ಈ ಸೂಕ್ತವು ಹತ್ತನೆಯ ಮಂಡಲದ
+ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ನಾಲ್ಕನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ
+ಇಲೂಷಪುತ್ರನಾದ ಕವಷನೆಂಬುವನು ಋಷಿಯು. ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕು ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು.
+ಮತ್ತು ವಿಶ್ವೇದೇವತಾಕವು. ಎರಡು ಮತ್ತು ಮೂರನೆಯ ಋಕ್ಕುಗಳು ಬೃಹತೀ ಮತ್ತು ಸತೋಬೃಹತೀಛಂದಸ್ಕವು
+ಮತ್ತು ಇವುಗಳಿಗೆ ಇಂದ್ರನು ದೇವತೆಯು ; ಅಲ್ಲಿಂದ ಮುಂದಿನ ಆರು ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ಕುರುಶ್ರವಣಮಾವೃಣಿ ಎಂದು ಮೊದಲಾಗುವ ಎರಡು ಋಕ್ಕುಗಳಿಂದ (೪-೫ ಋಕ್ಕುಗಳು) ಋಷಿಯು ತ್ರಸದಸ್ಯುಪುತ್ರ
+ನಾದ ಕುರುಶ್ರವಣನೆಂಬ ರಾಜನ ದಾನವನ್ನು ಪ್ರಶಂಸೆಮಾಡಿರುವನು. ಆದ್ದರಿಂದ ಆ ಋಕ್ಕುಗಳಿಗೆ ದಾನಸ್ತುತಿಯೇ
+ದೇವತೆಯು; ಯಸ್ಯ ಪ್ರಸ್ವಾದಸಃ ಎಂದು ಮೊದಲಾಗುವ ನಾಲ್ಕು ಋಕ್ಕುಗಳಿಂದ (೬-೯ ಋಕ್ಕುಗಳು) ಋಷಿಯು,
+ಮಿತ್ರಾತಿಥಿ ಎಂಬ ರಾಜನು ಮೃತನಾದಾಗ ಅವನ ಪುತ್ರನಾದ ಉಪಶ್ರವನೆಂಬುವವನನ್ನು ತನಗೆ ಅವನಲ್ಲಿರುವ ಸ್ನೇಹ
+ಭಾವದಿಂದ ಸಮಾಧಾನಮಾಡಿ ಶೋಕಪರಿಹಾರಮಾಡಿರುವ ವಿಷಯವನ್ನು ಪ್ರಸ್ತಾಪಿಸಿರುವನು. ಆದ್ದರಿಂದ ಆ
+ಋಕ್ಕುಗಳಿಗೆ ಉಪಶ್ರವನ ಶೋಕಪರಿಹಾರವೇ ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಮಾದ್ಯಾ ವೈಶ್ವದೇವೈಂದ್ರಃ ಪ್ರಗಾಥಃ ಪರಾ ಗಾಯತ್ರೋ ದ್ವೇ ಕುರುಶ್ರವಣಸ್ಯ ತ್ರಾಸದಸ್ಯವಸ್ಯ ದಾನಸ್ತುತಿಃ ಪರಾಭಿರ್ಮಿತೇ ಮಿತ್ರಾತಿಥೌ ರಾಜ್ಜಿ ತತ್ನೇಹಾದೃಷಿರುಪಮಶ್ರವಸಂ ಪುತ್ರಮಸ್ಯ ವ್ಯಶೋಕಯತ್ ಎಂದು
+ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೩ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ—೩೩
+ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೩ । ಸೂಕ್ತ—೩೩ ॥
+ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೧, ೨ ॥
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೯ ॥
+ಋಷಿಃ—ಕವಷ ಐಲೂಷಃ ।
+ದೇವತಾ—೧. ವಿಶ್ವೇದೇವಾಃ । ೨-೩. ಇಂದ್ರಃ । ೪-೫. ಕುರುಶ್ರವಣಸ್ಯ ತ್ರಾಸದಸ್ಯವಸ್ಯದಾನಸ್ತುತಿಃ । ೬-೯. ಉಮನುಶ್ರವಾ ಮಿತ್ರಾತಿಥಿಪುತ್ರಃ ॥
+ಛಂದಃ—೧. ತ್ರಿಷ್ಟುಪ್ । ೨. ಬೃಹತೀ । ೩. ಸತೋಬೃಹತೀ । ೪-೯. ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರ ಮಾ ಯುಯುಜ್ರೇ ಪ್ರಯುಜೋ ಜನಾನಾಂ ವಹಾಮಿ ಸ್ಮ ಪೂಷಣಮಂತರೇಣ ।
+
+<!-- printed 845 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧.] ಋಗ್ವೇದಸಂಹಿತಾ 815]*
+
+> ವಿಶ್ವೇ ದೇವಾಸೋ ಅಧ ಮಾಮರಕ್ಷನ್ದುಃಶಾಸುರಾಗಾದಿತಿ ಘೋಷ
+> ಆಸೀತ್ ॥ ೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರ । ಮಾ । ಯುಯುಜೇ । ಪ್ರಯುಜಃ । ಜನಾನಾಂ । ವಹಾಮಿ । ಸ್ಮ । ಪೂಷಣಂ । ಅಂತರೇಣ ।
+> ವಿಶ್ವೇ । ದೇವಾಸಃ । ಅಧ । ಮಾಂ । ಅರಕ್ಷನ್ । ದುಃಶಾಸುಃ । ಆ । ಅಗಾತ್ । ಇತಿ । ಘೋಷಃ ।
+> ಆಸೀತ್ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಜನಾನಾಂ ಯಜಮಾನಾನಾಂ ಪ್ರಯುಜಃ ಪ್ರಯೋಕ್ತಾರೋ ದೇವಾ ಮಾ ಮಾಂ ಕವಷಮೃಷಿಂ
+> ಪ್ರ ಯುಯುಜೇ । ಕುರುಶ್ರವಣಂ ಪ್ರತಿ ಯುಕ್ತವಂತಃ । ಅಂತರೇಣ ಮಾರ್ಗೇ ಪೂಷಣಂ ದೇವಮಧ್ವನಾಂ ಪತಿಂ ಸಖಾಯಮಹಂ ವಹಾಮಿ ಸ್ಮ । ಊಢವಾನಸ್ಮಿ । ತಥಾ ಶ್ರೂಯತೇ । ಐಂದ್ರಾಗ್ನಮೇಕಾದಶಕಪಾಲಂ ನಿರ್ವಪೇಜ್ಜನತಾಮೇಷ್ಯನ್ನಿತ್ಯುಪಕ್ರಮ್ಯ ಪೌಷ್ಣಂ ಚರುಮನು ನಿರ್ವಪೇತ್ ।
+> ತೈ. ಸ. ೨.೨.೧.೪ । ಇತಿ । ಅಧಾಧ ಮಾರ್ಗೇ ವಿಶ್ವೇ ದೇವಾ ಮಾಂ ಕವಷಮರಕ್ಷಣ್ । ರಕ್ಷಿತವಂತಃ ।
+> ದುಃಶಾಸುಃ ಕೇನಾಪಿ ದುಃಶಾಸನೋಽಯಮೃಷಿರಾಗಾತ್ ಆಗಚ್ಛತೀತಿ ಘೋಷಃ ಶಬ್ದಶ್ಚ ಮಾರ್ಗ
+> ಆಸೀತ್ । ಅಭೂತ್ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಜನಾನಾಂ—ಯಜಮಾನರಿಗೆ । ಪ್ರಯುಜಃ—ಪ್ರೇರಕರಾದ ದೇವತೆಗಳು । ಮಾ—ನನ್ನನ್ನು । ಪ್ರ
+ಯುಯುಜ್ರೇ—ಕುರುಶ್ರವಣನಲ್ಲಿಗೆ ಕಾರ್ಯಾರ್ಥವಾಗಿ ನಿಯೋಜಿಸಿದರು । ಅಂತರೇಣ—ಮಧ್ಯಮಾರ್ಗದಲ್ಲಿ ।
+ಪೂಷಣಂ—ಪೂಷದೇವನನ್ನು । ವಹಾಮಿ ಸ್ಮ—ಸಹಾಯಕ್ಕಾಗಿ ವಹಿಸಿದ್ದೇನೆ । ಅಧ—ಮಾರ್ಗಪ್ರಯಾಣ
+ಕಾಲದಲ್ಲಿ । ವಿಶ್ವೇ ದೇವಾಸಃ—ಸಕಲ ದೇವತೆಗಳೂ । ಮಾಂ—ನನ್ನನ್ನು । ಅರಕ್ಷನ್—ರಕ್ಷಿಸಿದರು ।
+ದುಃಶಾಸುಃ—ಅಪ್ರತಿಹತನಾದ ಕವಷಋಷಿಯು । ಆಗಾತ್—ಬರುತ್ತಿದ್ದಾನೆ । ಇತಿ—ಎಂಬುದಾಗಿ । ಘೋಷಃ—
+ಪ್ರಕಟನಶಬ್ದವು । ಆಸೀತ್—ಕೇಳಿಬರುತ್ತಿದ್ದಿತು.
+*[॥ ಭಾಷಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಯಜ್ಞಕರ್ತರಿಗೆ ಪ್ರೇರಕರಾದ ದೇವತೆಗಳು ನನ್ನನ್ನು ಕುರುಶ್ರವಣನಲ್ಲಿಗೆ ಕಾರ್ಯಾರ್ಥವಾಗಿ ನಿಯೋಗಿಸಿದರು.
+ಮಧ್ಯಮಾರ್ಗದಲ್ಲಿ ನಾನು ಮಾರ್ಗದರ್ಶಕನಾದ ಪೂಷದೇವನನ್ನು ಸಹಾಯಕ್ಕಾಗಿ ಆಶ್ರಯಿಸಿದ್ದೇನೆ. ಪ್ರಯಾಣ
+ಕಾಲದಲ್ಲಿ ಸಕಲದೇವತೆಗಳೂ ನನ್ನನ್ನು ರಕ್ಷಿಸಿದರು. “ಅಪ್ರತಿಹತನಾದ ಕವಷಋಷಿಯು ಬರುತ್ತಿದ್ದಾನೆ” ಎಂಬ
+ಘೋಷವು ಕೇಳಿಬರುತ್ತಿತ್ತು.
+
+<!-- printed 846 -->
+*[846 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೩]*
+
+
+*English Translation.*
+
+The (divinities, the) appointees of men, have appointed me to
+Kurushravana : I have borne Pushan on the way : the universal gods are
+my protectors : the cry is " Duhshasu comes."
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸಂ ಮಾ ತಪಂತ್ಯಭಿತಃ ಸಪತ್ನೀರಿವ ಪರ್ಶವಃ ।
+> ನಿ ಬಾಧತೇ ಅಮತಿರ್ನಗ್ನತಾ ಜಸುರ್ವೇರ್ನ ವೇವೀಯತೇ ಮತಿಃ ॥೨॥
+
+*ಪದಪಾಠಃ*
+
+> ಸಂ । ಮಾ । ತಪಂತಿ । ಅಭಿತಃ । ಸಪತ್ನೀ ಇವ । ಪರ್ಶವಃ ।
+> ನಿ । ಬಾಧತೇ। ಅಮತಿಃ। ನಗ್ನತಾ । ಜಸುಃ । ವೇಃ । ನ । ವೇವೀಯತೇ । ಮತಿಃ ॥ ೨ ॥
+*[। ಸಾಯುಧಭಾಷ್ಯಂ ।]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಮಾ ಮಾಂ ದೇವತಾಪ್ರಸಾದರಹಿತಂ ಕವಷಂ ಪರ್ಶವಃ ಪಾರ್ಶ್ವಾಸ್ಥೀನ್ಯನ್ನಾಭಾವಾದೌರ್ಬಲ್ಯಾತ್ಕುಶಯನಾಚ್ಚ ಸಪತ್ನೀರಿವ ಯಥಾ ಸಪತ್ನ್ಯಸ್ತದ್ವದಭಿತ ಉಭಯತಃ ಸಂ ತಪಂತಿ । ದುಃಖಯಂತೀತ್ಯರ್ಥಃ । ಕಿಂಚಾಮತಿರ್ದಾರಿದ್ರಾದಾಗತಾ ದುರ್ಮತಿಃ ಸರ್ವಾರ್ಥವಿಷಯಾ ಸಾ ಮಾಂ ನಿ ಬಾಧತೇ ।
+> ಮಾಂ ಪೀಡಯತಿ । ವಸ್ತ್ರಾಭಾವಾದಾಗತಾ ನಗ್ನತಾ ಚ ಮಾಂ ನಿ ಬಾಧತೇ । ಜಸುರಶನಾಭಾವಾದಾಗತ
+> ಉಪಕ್ಷಯೋಽಪಿ ಮಾಂ ನಿ ಬಾಧತೇ । ಕಿಂಚ ವೇರ್ನ ಯಥಾ ಪಕ್ಷಿಣೋ ಮತಿಃ ಶಾಕುನಿಕವ್ಯಾಧಭಯಾತ್ಕಂಪಯತೇ ತಥಾ ಮೇ ಮತಿಃ ಶತ್ರೋರ್ಪೇವೀಯತೇ । ಭೃಶಂ ಕಂಪಯತೇ ॥
+*[॥ ಪ್ರತಿಸದಾರ್ಥ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಮಾ—ನನ್ನನ್ನು । ಪರ್ಶವಃ—ಎರಡುಕಡೆಯ ಎಲುಬುಗಳೂ । ಸಪತ್ನೀರಿವ—ಸವತಿಯರಂತೆ ।
+ಅಭಿತಃ—ಎರಡು ಕಡೆಗಳಲ್ಲಿಯೂ । ಸಂ ತಪಂತಿ—ಹಿಂಸೆಗೊಳಿಸುತ್ತವೆ । ಅಮತಿಃ—ದಾರಿದ್ರ್ಯದ ಫಲವಾದ
+ದುರ್ಮತಿಯು । ನಿ ಬಾಧತೇ—ಹಿಂಸೆಗೊಳಿಸುತ್ತದೆ । ನಗ್ನತಾ—ವಸ್ತ್ರರಹಿತವಾದ ನನ್ನ ಅವಸ್ಥೆಯೂ । ಜಸುಃ—
+ಹಸಿವೂ ಸಹ ನನ್ನನ್ನು ಹಿಂಸಿಸುತ್ತವೆ । ವೇಃ ನ—ಬೇಡನ ಭಯದಿಂದ ಪಕ್ಷಿಯು ನಡಗುವಂತೆ । ಮತಿಃ—ಶತ್ರು
+ಭಯದಿಂದ ಕೂಡಿದ ನನ್ನ ಮನಸ್ಸು । ವೇವೀಯತೇ—ಅಧಿಕವಾಗಿ ನಡಗುತ್ತದೆ.
+
+<!-- printed 847 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೧.] ಋಗ್ವೇದಸಂಹಿತಾ 847]*
+
+*[೧ ಭಾನುವಾರ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಸವತಿಯರು ಎರಡು ಕಡೆಗಳಿಂದಲೂ ಹಿಂಸಿಸುವಂತೆ ನನ್ನ ಎರಡು ಕಡೆಯ ಎಲುಬುಗಳೂ ನನ್ನನ್ನು ಅತಿ
+ಯಾಗಿ ಹಿಂಸಿಸುತ್ತವೆ. ದಾರಿದ್ರ್ಯದ ಫಲವಾದ ದುರ್ಬುದ್ಧಿಯೂ, ನಗ್ನತೆಯೂ, ಹಸಿವೂ ಸಹ ನನ್ನನ್ನು ಹಿಂಸಿಸುತ್ತವೆ.
+ಬೇಡನ ಭಯದಿಂದ ಪಕ್ಷಿಯು ನಡಗುವಂತೆ, ಶತ್ರುಭಯದಿಂದ ಕೂಡಿದ ನನ್ನ ಮನಸ್ಸು ಅಧಿಕವಾಗಿ ನಡೆಯುತ್ತದೆ.
+
+*English Translation.*
+
+My ribs pain me on both sides, like rival wives : disease, nakedness, hunger, afflict me : my mind flutters like a bird.
+*[। ಸಹಿತಾಪಾತೃ ।]*
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಮೂಷೋ ನ ಶಿಶ್ನಾ ವ್ಯದಂತಿ ಮಾಧ್ಯಃ ಸ್ತೋತಾರಂ ತೇ ಶತಕ್ರತೋ ।
+> ಸಕೃತ್ಸು ನೋ ಮಘವನ್ನಿಂದ್ರ ಮೃಳಯಾಧಾ ಪಿತೇವ ನೋ ಭವ ॥ ೩ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಮೂಷಃ । ನ । ಶಿಶ್ನಾ । ವಿ । ಅದಂತಿ । ಮಾ । ಆಧ್ಯಃ । ಸ್ತೋತಾರಂ । ತೇ । ಶತಕ್ರತೋ ಇತಿ
+> ಶತಕ್ರತೋ ।
+> ಸಕೃತ್ । ಸು । ನಃ । ಮಘವನ್ । ಇಂದ್ರ । ಮೃಳಯ । ಅಧ । ಪಿತಾ ಇವ । ನಃ । ಭವ ॥ ೩ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಶತಕ್ರತೋ ಬಹುಕರ್ಮನ್ ಮಘವನ್ ಧನವಂಶ್ಚೇಂದ್ರ ತೇ ತವ ಸ್ತೋತಾರಂ ಮಾ
+> ಮಾಂ ಕವಷಮಾಧ್ಯ ಆಧಯೋ ಮೂಷೋ ನ ಯಥಾ ಮೂಷಿಕಾಃ ಶಿಶ್ನಾಸ್ನಾತಾನಿ ಸೂತ್ರಾಣ್ಯಶ್ನಂತಿ
+> ತಥಾ ವ್ಯದಂತಿ । ವಿವಿಧಮದಂತಿ । ತಥಾ ಚ ಯಾಸ್ಕಃ । ಸಂತಪಂತಿ ಮಾಮಭಿತಃ ಸಪತ್ನ್ಯಃ ಇವೇಮಾಃ
+> ಪರ್ಶವಃ ಕೂಪಪರ್ಶವೋ ಮೂಷಿಕಾ ಇವಾಸ್ನಾತಾನಿ ಸೂತ್ರಾಣಿ ವ್ಯದಂತಿ ಸ್ವಾಂಗಾಭಿಧಾನಂ ವಾ
+> ಸ್ಯಾಚ್ಛಿಶ್ನಾನಿ ವ್ಯದಂತೀತಿ ಸಂತಪಂತಿ ಮಾಧ್ಯಃ ಕಾಮಾಃ । ನಿ. ೪-೬ । ಇತಿ । ತಥಾ ಚ ಸತಿ ನೋಽಸ್ಮಾನ್ಸಕೃತ್ತು ಮೃಳಯ । ಅಭೀಷ್ಟಪ್ರದಾನೇನ ಸಮ್ಯಕ್ ಸುಖಯ । ಆಧಾಧ ನೋಽಸ್ಮಾಕಂ ಪಿತೇವ
+> ಯಥಾ ಪಿತಾ ತದ್ವದ್ರಕ್ಷಿತಾ ಭವ ॥
+*[॥ ಪ್ರತಿದರ್ಶ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಶತಕ್ರತೋ—ಅನೇಕ ಕರ್ಮಕರ್ತನೂ । ಮಘವನ್—ಧನವಂತನೂ ಆದ । ಇಂದ್ರ—ಎಲೈ
+ಇಂದ್ರನೇ । ಶಿಶ್ನಾ—ಬಟ್ಟೆಯ ನೂಲುಗಳನ್ನು । ಮೂಷೋ ನ—ಇಲಿಯು ತಿಂದುಹಾಕುವಂತೆ । ತೇ—ನಿನ್ನ ।
+
+<!-- printed 848 -->
+*[848 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೩]*
+
+ಸ್ತೋತಾರಂ—ಸ್ತುತಿಕರ್ತನಾದ । ಮಾ—ನನ್ನನ್ನು । ಆಧ್ಯಃ—ವ್ಯಾಧಿಗಳು । ವ್ಯದಂತಿ—ನಾನಾವಿಧವಾಗಿ
+ತಿನ್ನುತ್ತವೆ । ನಃ—ನಮ್ಮನ್ನು । ಸಕೃತ್—ಅಧಿಕವಾಗಿ । ಸು ಮೃಳಯ—ಸುಖಪಡಿಸು । ಅಧ—ಅದುದರಿಂದ।
+ನಃ—ನಮಗೆ । ಪಿತೇವ—ತಂದೆಯಂತೆ । ಭವ—ಆಗಿರು.
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಅನೇಕ ಕರ್ಮಕರ್ತನೂ, ಧನವಂತನೂ ಆದ ಎಲೈ ಇಂದ್ರನೇ, ಇಲಿಯು ನೂತ ನೂಲುಗಳನ್ನು ತಿಂದು
+ಹಾಕುವಂತೆ, ನಿನ್ನ ಸ್ತುತಿಕರ್ತನಾದ ನನ್ನನ್ನು ವ್ಯಾಧಿಗಳು ನಾನಾವಿಧವಾಗಿ ತಿನ್ನುತ್ತವೆ. (ಹಿಂಸಿಸುತ್ತವೆ) ನೀನು ಆ
+ತೊಂದರೆಯಿಂದ ನಮ್ಮನ್ನು ತಪ್ಪಿಸಿ ನಮ್ಮನ್ನು ಸುಖಪಡಿಸು. ನಮಗೆ ತಂದೆಯಂತೆ ಆಗಿರು.
+
+*English Translation.*
+
+Afflictions consume me, your worshipper Shatakratu, as mice (eat)
+threads, for once, Indra, possessor of opulence, grant us felicity ; be to us
+as a father.
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಕುರುಶ್ರವಣಮಾವೃಣಿ ರಾಜಾನಂ ತ್ರಾಸದಸ್ಯವಂ ।
+> ಮಂಹಿಷ್ಠಂ ವಾಘಾತಾಮೃಷಿಃ ॥ ೪ ॥
+*[॥ ಪವನಾಥ ॥]*
+
+*ಪದಪಾಠಃ*
+
+> ಕುರುಶ್ರವಣಂ । ಅವೃಣಿ । ರಾಜಾನಂ । ತ್ರಾಸದಸ್ಯವಂ ।
+> ಮಂಹಿಷ್ಠಂ । ವಾಘತಾಂ । ಋಷಿಃ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಋಷಿರತೀಂದ್ರಿಯಪದಾರ್ಥದ್ರಷ್ಟಾ ಕವಷೋಽಹಂ ತ್ರಾಸದಸ್ಯವಂ ತ್ರಸದಸ್ಕೋಃ ಪುತ್ರಂ
+> ಮಂಹಿಷ್ಠಂ ಧನಾನಾಮತಿಶಯೇನ ದಾತಾರಂ ಕುರುಶ್ರವಣಂ । ಕುರವ ಋತ್ವಿಜಃ । ತದೀಯಾನಾಂ
+> ಸ್ತುತೀನಾಂ ಶ್ರೋತಾರಂ ಕುರುಶ್ರವಣಂ ತನ್ನಾಮಕಂ ರಾಜಾನಂ ವಾಘತಾಮೃತ್ವಿಜಾಮರ್ಥಾಯಾವೃಣಿ ।
+> ಧನಾನಿ ಪ್ರಾರ್ಥಯೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಋಷೀಃ—ಕವಷಸಂಜ್ಞಕನಾದ ನಾನು । ತ್ರಾಸದಸ್ಯವಃ—ತ್ರಸದಸ್ಯುಪುತ್ರನೂ । ಮಂಹಿಷ್ಠಂ—
+ಅತಿಶಯವಾಗಿ ದಾನಮಾಡುವವನೂ ಆದ । ಕುರುಶ್ರವಣಂ—ಕುರುಶ್ರವಣನೆಂಬ । ರಾಜಾನಂ—ರಾಜನಿಂದ ।
+ವಾಘತಾಂ—ಋತ್ವಿಕ್ಕುಗಳಿಗೋಸ್ಕರ । ಅವೃಣಿ—ಧನವನ್ನು ಯಾಚಿಸುತ್ತೇನೆ.
+
+<!-- printed 849 -->
+*[ವ. ೭. ಅ. ೮. ವ. ೧.] ಋಗ್ವೇದಸಂಹಿತಾ 849]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ಕವಷಸಂಜ್ಞಕನಾದ ನಾನು ತ್ರಸದಸ್ಯುಪುತ್ರನೂ, ಅತಿಶಯವಾಗಿ ದಾನಮಾಡುವವನೂ ಆದ ಕುರುಶ್ರವಣ
+ನೆಂಬ ರಾಜನಿಂದ ಋತ್ವಿಕ್ಕುಗಳಿಗೋಸ್ಕರ ಧನವನ್ನು ಯಾಚಿಸುತ್ತೇನೆ.
+
+*English Translation.*
+
+I, the Rishi, solicit (wealth) of the munificent prince Kurushravana,
+the son of Trasadasyu for the priests.
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯಸ್ಯ ಮಾ ಹರಿತೋ ರಥೇ ತಿಸ್ರೋ ವಹಂತಿ ಸಾಧುಯಾ ।
+> ಸ್ತವೈ ಸಹಸ್ರದಕ್ಷಿಣೇ ॥ ೫ ॥
+*[೧ ಪದಪಾಠ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಯಸ್ಯ । ಮಾ । ಹರಿತಃ । ರಥೇ । ತಿಸ್ರಃ । ವಹಂತಿ । ಸಾಧುಯಾ ।
+> ಸ್ತವೈ । ಸಹಸ್ರದಕ್ಷಿಣೇ ॥ ೫ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯಸ್ಯ ಕುರುಶ್ರವಣಾಖ್ಯಸ್ಯ ರಾಜ್ಯಃ ಸ್ವಭೂತಾಸ್ತಿ ಸ್ರೋ ಹರಿತಸ್ತ್ರಯೋಽಶ್ವಾ ರಥೇ ಪ್ರಸ್ಥಿತಂ
+> ಮಾ ಮಾಂ ಕವಷಂ ಸಾಧುಯಾ ಸಾಧು ವಹಂತಿ ಕುರುಶ್ರವಣಂ ರಾಜಾನಮಹಂ ಸಹಸ್ರದಕ್ಷಿಣೇಽಸ್ಮಿನ್ಯಾಗೇ ಸ್ತವೈ । ಸೌಮಿ । ಪ್ರಷ್ಟಿವಾಹಿನಂ ರಥಂ ಪರಿಗೃಹ್ಯರ್ಷಿರಾಶಾಸ್ತೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯಸ್ಯ—ಅದೇ ಕುರುಶ್ರವಣನ । ತಿಸ್ರಃ ಹರಿತಃ—ಮೂರು ಕುದುರೆಗಳೂ । ರಥೇ—ರಥದಲ್ಲಿ ಕುಳಿ
+ತಿರುವ । ಮಾ—ನನ್ನನ್ನು । ಸಾಧುಯಾ—ಸುಖಕರವಾಗಿ । ವಹಂತಿ—ವಹಿಸುತ್ತವೆ । ಸಹಸ್ರದಕ್ಷಿಣೇ—
+ಯಾಗದಲ್ಲಿ ಅಪರಿಮಿತವಾಗಿ ದಾನಮಾಡುವ ಅದೇ ರಾಜನನ್ನು । ಸ್ತವೇ—ನಾನು ಪ್ರಶಂಸಿಸುತ್ತೇನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಕುರುಶ್ರವಣನಲ್ಲಿಗೆ ನಾನು ರಥದಲ್ಲಿ ಹೋಗುವ ಕಾಲದಲ್ಲಿ ಅವನ ಮೂರು ಕುದುರೆಗಳೂ ಸಹ ನನ್ನನ್ನು
+ಸುಖಕರವಾಗುವಂತೆ ವಹಿಸುತ್ತವೆ. ಯಾಗದಲ್ಲಿ ಅಪರಿಮಿತವಾಗಿ ದಾನಮಾಡುವ ಆ ರಾಜನನ್ನು ನಾನು
+ಪ್ರಶಂಸಿಸುತ್ತೇನೆ.
+xxvii 54
+
+<!-- printed 850 -->
+*[850 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೩]*
+
+
+*English Translation.*
+
+Whose three horses bear me pleasantly in the chariot ; I praise him at the ceremony in which he presents thousands.
+*[॥ ಸಹಿತಾಪಾರಃ ॥]*
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯಸ್ಯ ಪ್ರಸ್ವಾದಸೋ ಗಿರ ಉಪಮಶ್ರವಸಃ ಪಿತುಃ ।
+> ಕ್ಷೇತ್ರಂ ನ ರಣ್ವಮೂಚುಷೇ ॥ ೬ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯಸ್ಯ । ಪ್ರಸ್ವಾದಸಃ । ಗಿರಃ । ಉಪಮಶ್ರವಸಃ । ಪಿತುಃ ।
+> ಕ್ಷೇತ್ರಂ । ನ । ರಣ್ವಂ । ಊಚುಷೇ ॥ ೬ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅತಃ ಪರಂ ಯಸ್ಯೇತ್ಯಾದಿಕೇನ ಸೂಕ್ತಶೇಷೇಣ ಮಿತ್ರಾತಿಥೌ ರಾಜ್ಞಿ ಮೃತೇ ತತ್ಪುತ್ರಸ್ಕೋಪಮಶ್ರವಸಃ ಸಮೀಪಮಾಗತ್ಯ ಕವಷಃ ಸ್ನೇಹಾಚ್ಛೋಕಂ ನಿವಾರಯತಿ ॥
+> ಹೇ ರಾಜನ್ ಉಪಮಶ್ರವಸಸ್ತವ ಪಿತುರ್ಯಸ್ಯ ಮಿತ್ರಾತಿಥೇರ್ಗಿರೋ ವಾಚಃ ಪ್ರಸ್ವಾದಸಃ
+> ಪ್ರಕರ್ಷಣ ಸ್ವಾದಯಿತ್ಕೃಃ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಊಚುಷೇ ಸೇವಮಾನಾಯ ದರಿದ್ರಾಯ ದಾನಾರ್ಥಂ
+> ಪ್ರಕಲ್ಪಿತಂ ರಣ್ವಂ ರಮಣೀಯಂ ಕ್ಷೇತ್ರಂ ನ ಯಥಾ ಕ್ಷೇತ್ರಂ ಸ್ವಾದಯಿತ್ಕೃ ತದ್ವದಿತ್ಯರ್ಥಃ । ಉತ್ತರತ್ರ
+> ಸಂಬಂಧಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ರಾಜನೇ), ಊಚುಷೇ—ದರಿದ್ರನಾದವನಿಗೆ । ರಣ್ವಂ—ರಮಣೀಯವಾದ । ಕ್ಷೇತ್ರಂ ನ—
+ಸಾಗುವಳಿಯ ನೆಲವು ಹಿತಕರವಾಗಿರುವಂತೆ । ಉಪಮಶ್ರವಸಃ—ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧನಾದ । ಯಸ್ಯ—ಯಾವ
+ನಿನ್ನ । ಪಿತುಃ—ತಂದೆಯಾದ ಮಿತ್ರಾತಿಥಿಯ । ಗಿರಃ—ವಾಕ್ಕುಗಳು । ಪ್ರಸ್ವಾದತಃ—ಅತ್ಯಂತ ಹಿತಕರವಾಗಿದ್ದವು.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ರಾಜನೇ, ದರಿದ್ರನಾದವನಿಗೆ ದಾನಮಾಡಿದ ಸಾಗುವಳಿಯ ನೆಲವು ಸಂತೋಷಜನಕವಾಗಿರುವಂತೆ,
+ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧನಾದ ನಿನ್ನ ತಂದೆಯಾದ ಮಿತ್ರಾತಿಥಿಯ ವಾಕ್ಕುಗಳು ನನಗೆ ಅತ್ಯಂತ ಹಿತಕರವಾಗಿದ್ದವು.
+
+*English Translation.*
+
+Upamashravas, the words of whose father were sweet, like a pleasant
+field given to a beggar.
+
+<!-- printed 851 -->
+*[ಆ. ೭ ಅ. ೮. ವ. ೨.] ಋಗ್ವೇದಸಂಹಿತಾ 851]*
+
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಈ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಇದರ ಮುಂದಿನ ಮೂರು ಋಕ್ಕುಗಳಲ್ಲಿಯೂ ಮಿತ್ರಾತಿಥಿ ಎಂಬ ರಾಜನು
+ಮೃತನಾದಾಗ ಅವನ ಪುತ್ರನಾದ ಉಪಮಶ್ರವಾಃ ಎಂಬುವನು ಶೋಕಸಂತಪ್ತವಾಗಿರಲು, ಋಷಿಯು ಅವನಲ್ಲಿ
+ತನಗಿದ್ದ ಸ್ನೇಹಭಾವದಿಂದ ಅವನ ಶೋಕವನ್ನು ಪರಿಹಾರಮಾಡಿ ಸಮಾಧಾನಪಡಿಸಿದನು ಎಂಬ ವಿಷಯವು
+ಉಕ್ತವಾಗಿದೆ.
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಧಿ ಪುತ್ರೋಪಮಶ್ರವೋ ನಸಾನ್ಮಿತ್ರಾತಿಥೇರಿಹಿ ।
+> ಪಿತುಷ್ಟೇ ಅಸ್ಮಿ ವಂದಿತಾ ॥ ೭ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಧಿ । ಪುತ್ರ । ಉಪಮಶ್ರವಃ । ನಪಾತ್ । ಮಿತ್ರ ಅತಿಥೇಃ । ಇಹಿ ।
+> ಪಿತುಃ । ತೇ । ಅಸ್ಮಿ । ವಂದಿತಾ ॥ ೭ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಪುತ್ರೋಪಮಶ್ರವೋ ಮಿತ್ರಾತಿಥೇರ್ನಪಾತ್ಪುತ್ರ ತ್ವಮಧೀಹಿ । ಮತ್ಸಮೀಪಮಾಗಚ್ಛ । ತೇ
+> ತವ ಪಿತುಸ್ತಸ್ಯ ಮಿತ್ರಾತಿಥೇರಹಂ ವಂದಿತಾ ಸ್ತೋತಾಸ್ಮಿ । ಏತಜ್ಞಾತ್ವಾ ಶೋಕಂ ಮಾ ಕುರು ।
+> ಯದ್ದೇಯಂ ದ್ರವ್ಯಮಸ್ತಿ ತತ್ಸರ್ವಂ ಮಹ್ಯಂ ದೇಹಿ ॥
+*[ಪ್ರತಿಪದಾರ್ಥಃ]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಪುತ್ರ—ಪುತ್ರರೂಪನೂ । ಮಿತ್ರಾತಿಥೇಃ—ಮಿತ್ರಾತಿಥಿಗೆ । ನಪಾತ್—ಪುತ್ರನೂ । ಉಪಮಶ್ರವಃ—
+ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧನೂ ಆದ ಎಲೈ ಉಪಮಶ್ರವಃ ಎಂಬ ರಾಜನೇ । ಅಧಿ ಇಹಿ—ನನ್ನಲ್ಲಿಗೆ ಬಾ । ತೇ—ನಿನ್ನ ।
+ಪಿತುಃ—ತಂದೆಯ । ವಂದಿತಾ—ಪ್ರಶಂಸಕನಾಗಿ । ಅಸ್ಮಿ—ನಾನಿದ್ದೇನೆ.
+*[। ಭಾನುವಾರ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಮಿತ್ರಾತಿಥಿಯ ಪುತ್ರನೂ, ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧನೂ ಆದ ಎಲೈ ರಾಜನೇ, ನಿನಗೆ ತಂದೆಯಂತೆ ಪೂಜ್ಯನಾದ
+ನನ್ನಲ್ಲಿಗೆ ಬಾ. ನಾನು ನಿನ್ನ ತಂದೆಯ ಗುಣಪ್ರಶಂಸೆಯನ್ನು ಮಾಡುವವನಾಗಿದ್ದೇನೆ.
+
+*English Translation.*
+
+Come to me, my son, grandson of Mitratithi; I am the eulogist of your father.
+
+<!-- printed 852 -->
+*[852 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ । ಮ. ೧೦. ಅ. ೩. ಸೂ- ೩೩]*
+
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯದೀಶೀಯಾಮೃತಾನಾಮುತ ವಾ ಮರ್ತ್ಯಾನಾಂ ।
+> ಜೀವೇದಿನ್ಮಘವಾ ಮಮ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯತ್ । ಈಶೀಯ । ಅಮೃತಾನಾಂ । ಉತ । ವಾ । ಮರ್ತ್ಯಾನಾಂ ।
+> ಜೀವೇತ್ । ಇತ್ । ಮಘವಾ । ಮಮ ॥ ೮ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಉತಾಪಿ ಚ ಯದ್ಯದ್ಯಮೃತಾನಾಂ ದೇವಾನಾಂ ಮರ್ತ್ಯಾನಾಂ ಮನುಷ್ಯಾಣಾಂ ನಾ ಮರಣಹೇತೂನಾಮೀಶೀಯ ಅಹಮೀಶ್ವರಃ ಸ್ಯಾಂ ತರ್ಹಿ ಮಮ ಕವಷಸ್ಯ ಯಾಜ್ಯೋ ಮಘವಾ ಧನವಾನ್ಮಿತ್ರಾತಿಥೀ ರಾಜಾ ಜೀವೇತ್ । ಪ್ರಾಣಾನ್ಧಾರಯೇತ್ । ತಥಾ ಚ ನಾಹಂ ಮರಣಹೇತೋರೀಶ್ವರಃ ತಸ್ಮಾದಯಂ ರಾಜಾ ಮೃತ ಇತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಉತ—ಮತ್ತು । ಯತ್—ಒಂದುವೇಳೆ । ಅಮೃತಾನಾಂ—ದೇವತೆಗಳಿಗೂ । ಮರ್ತ್ಯಾನಾಂ ವಾ—
+ಮಾನವರಿಗೂ । ಈಶೀಯ—ನಾನು ಪ್ರಭುವೇ ಆಗಿದ್ದರೆ । ಮಮ—ನನಗೆ । ಮಘವಾ—ಧನಪ್ರದನಾದ
+ರಾಜನು (ಮಿತ್ರಾತಿಥಿಯು) । ಜೀವೇತ್ ಇತ್—ಜೀವಂತನಾಗಿರಬೇಕಾಗಿದ್ದಿತು.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಒಂದು ವೇಳೆ ನಾನು ದೇವಮಾನವಾದಿಗಳಿಗೆಲ್ಲ ಪ್ರಭುವೇ ಆಗಿದ್ದರೆ, ಆಗ ನನಗೆ ಧನಪ್ರದನಾದ ರಾಜನು
+ಜೀವವಂತನೇ ಆಗಿರಬೇಕಾಗಿದ್ದಿತು.
+
+*English Translation.*
+
+If I were lord over immortals and mortals, then should my muni-
+ficent (benefactor) live.
+*[॥ ಸಂಹಿತಾಪಾರ್ಶ್ವ ॥]*
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನ ದೇವಾನಾಮತಿ ವ್ರತಂ ಶತಾತ್ಮಾ ಚನ ಜೀವತಿ ।
+> ತಥಾ ಯುಜಾ ವಿ ವಾವೃತೇ ॥
+
+<!-- printed 853 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 853]*
+
+*ಪದಪಾಠಃ*
+
+> ನ । ದೇವಾನಾಂ । ಅತಿ । ವ್ರತಂ । ಶತ್ರುಆತ್ಮಾ । ಚನ । ಜೀವತಿ ।
+> ತಥಾ । ಯುಜಾ । ವಿ । ವವೃತೇ ॥ ೯ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ದೇವಾನಾಂ ಬ್ರಹ್ಮಾದೀನಾಂ ವ್ರತಂ ಮರ್ಯಾದಾಲಕ್ಷಣಂ ಕರ್ಮಾತ್ಯತಿಕ್ರಮ್ಯ ಶತಾತ್ಮಾ ಚನ
+> ಶತಸಂವತ್ಸರಃ ಕಶ್ಚನ ಜೀವತಿ । ತಥಾ ಯುಜಾ ಸಹಾಯಾದಿನಾ ವಿ ವವೃತೇ । ವಿವರ್ತತೇ ।
+> ವಿಯುಕ್ತೋ ಭವತೀತಿ ಜ್ಞಾತ್ವಾ ಶೋಕಂ ಮಾ ಕುರ್ವಿತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದೇವಾನಾಂ—ಬ್ರಹ್ಮಾದಿದೇವತೆಗಳ । ವ್ರತಂ—ನಿಯಮನರೂಪವಾದ ಕರ್ಮವನ್ನು । ಅತಿ—
+ಉಲ್ಲಂಘಿಸಿ । ಶತಾತ್ಮಾ ಚನ—ನೂರು ವರ್ಷಗಳ ಕಾಲ । ನ ಜೀವತಿ—ಯಾರೂ ಬದುಕಲಾರರು । ತಥಾ—
+ಹಾಗೆಯೇ ! ಯುಜಾ—ಒಡನಾಡಿಗಳಿಂದ । ವಿ ವವೃತೇ—ಬೇರೆಯಾಗಲೇಬೇಕು.
+
+*ಭಾವಾರ್ಥ*
+
+ಬ್ರಹ್ಮಾದಿದೇವತೆಗಳ ನಿಯಮನರೂಪವಾದ ಕರ್ಮವನ್ನು ಉಲ್ಲಂಘಿಸಿ ನೂರು ವರ್ಷಗಳ ಕಾಲ ಯಾರೂ
+ಬದುಕಲಾರರು. ಹಾಗೆಯೇ, ಒಡನಾಡಿಗಳಿಂದಲೂ ಬೇರೆಯಾಗಲೇಬೇಕು. ಇದು ಈಶ್ವರಸಂಕಲ್ಪವು.
+
+*English Translation.*
+
+No one lives a hundred years passing the limit fixed by the gods; so he is separated from his friends.
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of swirls and loops.]*
+ಮೂವತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಪ್ರಾವೇಪಾ ಇತಿ ಚತುರ್ದಶರ್ಚಂ ಪಂಚಮಂ ಸೂಕ್ತಮೈಲೂಷಸ್ಯ ಕವಷಸ್ಯಾರ್ಷಂ ಮುಜವತಃ
+> ಪುತ್ರಸ್ಯಾಕ್ಷಾಖ್ಯಸ್ಯ ವಾ । ಸಪ್ತಮೀ ಜಗತೀ ಶಿಷ್ಟಾಸ್ತ್ರಯೋದಶ ತ್ರಿಷ್ಟುಭಃ । ಅತ್ರ ದ್ವಾದಶ್ಯಕ್ಷಾನ್ಸೌತಿ
+> ನವಮ್ಯಾದ್ಯಾ ಚ ಸಪ್ತಮೀ । ಅತಸ್ತಾಸ್ತದ್ದೇವತ್ಯಾಃ । ತ್ರಯೋದಶೀ ಕೃಷಿಂ ಸೌತಿ । ಅತಸ್ತಸ್ಯಾಃ ಸಾ
+> ದೇವತಾ । ಏವಂ ಪಂಚ ಗತಾಃ । ಶಿಷ್ಟಾಭಿರ್ನವಭಿಃ ಕಿತವೋಽಕ್ಷಾಶ್ಚ ನಿಂದ್ಯಂತೇ । ಆತಸ್ತಾ ಆಪಿ
+> ತದ್ದೇವತ್ಯಾಃ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ । ಪ್ರಾವೇಪಾಃ ಷಳೂನಾ ಮೌಜವಾನ್ವಾಕ್ಷೋಽಕ್ಷಕೃಷಿಪ್ರಶಂಸಾ
+> ಚಾಕ್ಷಕಿತವನಿಂದಾ ಚ ಸಪ್ತಮೀ ಜಗತೀತಿ ॥ ಗತೋ ವಿನಿಯೋಗಃ ॥
+
+<!-- printed 854 -->
+*[854 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩ ಸೂ. ೩೪.]*
+
+ಅನುವಾದವು—ಪ್ರಾವೇಪಾಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಐದನೆಯ ಸೂಕ್ತವು.
+ಇದರಲ್ಲಿ ಹದಿನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಇಲೂಷಪುತ್ರನಾದ ಕವಷನೆಂಬುವನು ಋಷಿಯು,
+ಅಥವಾ ಮುಜವಾನ್ ಎಂಬುವನ ಪುತ್ರನಾದ ಅಕ್ಷನೆಂಬುವನು ಋಷಿಯು. ಈ ಸೂಕ್ತದ ಏಳನೆಯ ಋಕ್ಕು
+ಜಗತೀಛಂದಸ್ಕವು. ಉಳಿದ ಹದಿಮೂರು ಋಕ್ಕುಗಳು ತ್ರಿಷ್ಟುಪ್‌ಛಂದಸ್ಕವು. ಈ ಸೂಕ್ತದಲ್ಲಿ ಒಂದು, ಏಳು,
+ಒಂಭತ್ತು ಮತ್ತು ಹನ್ನೆರಡನೆಯ ಋಕ್ಕುಗಳಲ್ಲಿ ಆಟವಾಡುವ (ಪಗಡೆ) ದಾಳಗಳ ಸ್ತುತಿಯಿರುವುದು. ಆದ್ದರಿಂದ
+ಆ ಋಕ್ಕುಗಳಿಗೆ ಅವುಗಳೇ ದೇವತೆಯು. ಹದಿಮೂರನೆಯ ಋಕ್ಕಿನಲ್ಲಿ ಭೂಮಿಯ ವ್ಯವಸಾಯವನ್ನು ಪ್ರಶಂಸೆ
+ಮಾಡಿರುವುದರಿಂದ ಆ ಋಕ್ಕಿಗೆ ಅದೇ ದೇವತೆಯು. ಈ ರೀತಿ ಐದು ಋಕ್ಕುಗಳಿಗೆ ದೇವತೆಗಳನ್ನು ಹೇಳಿದ ನಂತರ
+ಉಳಿದ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಲ್ಲಿ ಜೂಜುಗಾರರ ಮತ್ತು ಪಗಡೆ ಆಟದ ಪ್ರಸಕ್ತಿಯೂ ಅವುಗಳ ನಿಂದೆಯೂ ಇರುವುದ
+ರಿಂದ ಆ ಋಕ್ಕುಗಳಿಗೆ ಆ ವಿಷಯವೇ ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರಾವೇಪಾಃ ಷಳೂನಾ ಮೌಜವಾನ್ವಾಕ್ಷೋಽಕ್ಷಕೃಷಿಪ್ರಶಂಸಾ ಚಾಕ್ಷಕಿತವನಿಂದಾ ಚ ಸಪ್ತಮೀ ಜಗತೀ ಎಂದು ಹೇಳಿರುವುದು.
+ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+ಸೂಕ್ತ—ಶಿಳ
+
+## ಸೂಕ್ತ ೩೪ (ಮಂಡಲ ೧೦)
+
+ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೩ । ಸೂಕ್ತ—೩೪ ।
+ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೩, ೪, ೫ ॥
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೪ ॥
+ಋಷಿಃ—ಕವಷ ಐಲೂಷೋ ಅಕ್ಷೋ ವಾ ಮೌಜವಾನ್ ।
+ದೇವತಾ—೧. ೭, ೯, ೧೨, ೧೩. ಅಕ್ಷಕೃಷಿಪ್ರಶಂಸಾ । ೨-೬, ೮, ೧೦, ೧೧, ೧೪.
+ಅಕ್ಷಕಿತವನಿಂದಾ ॥
+ಛಂದಃ—೧-೬, ೮-೧೪. ತ್ರಿಷ್ಟುಪ್ । ೭. ಜಗತೀ ॥
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರಾವೇಪಾ ಮಾ ಬೃಹತೋ ಮಾದಯಂತಿ ಪ್ರವಾತೇಜಾ ಇರಿಣೇ ವರ್ವೃತಾನಾಃ ।
+> ಸೋಮಸ್ಯೇವ ಮೌಜನತಸ್ಯ ಭಕ್ಷೋ ವಿಭೀದಕೋ ಜಾಗೃವಿರ್ಮಹ್ಯಮಚ್ಛಾನ್ ॥ ೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರಾವೇಪಾಃ । ಮಾ । ಬೃಹತಃ । ಮಾದಯಂತಿ । ಪ್ರವಾತೇಽಜಾಃ । ಇರಿಣೇ । ವರ್ವೃತಾನಾಃ ।
+> ಸೋಮಸ್ಯ ಇವ । ಮೌಜವತಸ್ಯ । ಭಕ್ಷಃ । ವಿಭೀದಕಃ । ಜಾಗೃವಿಃ । ಮಹ್ಯಂ । ಅಚ್ಛಾನ್ ॥ ೧ ॥
+
+<!-- printed 855 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೩.] ಋಗ್ವೇದಸಂಹಿತಾ 855]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಬೃಹತೋ ಮಹತೋ ವಿಭೀತಕಸ್ಯ ಫಲತ್ವೇನ ಸಂಬಂಧಿನಃ ಪ್ರವಾತೇಜಾಃ ಪ್ರವಣೇ ದೇಶೇ
+> ಜಾತಾ ಇರಿಣ ಆಸ್ಫಾರೇ ವರ್ವೃತಾನಾಃ ಪ್ರವರ್ತಮಾನಾಃ ಪ್ರಾವೇಪಾಃ ಪ್ರವೇಪಿಣಃ ಕಂಪನಶೀಲಾ
+> ಅಕ್ಷಾ ಮಾ ಮಾಂ ಮಾದಯಂತಿ । ಹರ್ಷಯಂತಿ । ಕಿಂಚ ಜಾಗೃವಿರ್ಜಯಪರಾಜಯಯೋರ್ಹರ್ಷಶೋಕಾಭ್ಯಾಂ ಕಿತವಾನಾಂ ಜಾಗರಣಸ್ಯ ಕರ್ತಾ ವಿಭೀದಕೋ ವಿಭೀತಕವಿಕಾರೋಽಕ್ಷೋ ಮಹ್ಯಂ
+> ಮಾಮಚ್ಛಾನ್ । ಅಚಚ್ಛದತ್ । ಅತ್ಯರ್ಥಂ ಮಾದಯತಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಸೋಮಸ್ಯೇವ ಯಥಾ
+> ಸೋಮಸ್ಯ ಮೌಜವತಸ್ಯ । ಮುಜವತಿ ಪರ್ವತೇ ಜಾತೋ ಮೌಜವತಃ । ತಸ್ಯ । ತತ್ರ ಹ್ಯುತ್ತಮಃ
+> ಸೋಮೋ ಜಾಯತೇ । ಭಕ್ಷಃ ಪಾನಂ ಯಜಮಾನಾನ್ದೇವಾಂಶ್ಚ ಮಾದಯತಿ ತದ್ವದಿತ್ಯರ್ಥಃ । ತಥಾ
+> ಚ ಯಾಸ್ಕಃ । ಪ್ರವೇಪಿಣೋ ಮಾ ಮಹತೋ ವಿಭೀತಕಸ್ಯ ಫಲಾನಿ ಮಾದಯಂತಿ । ಪ್ರವಾತೇಜಾಃ
+> ಪ್ರವಣೇಜಾ ಇರಿಣೇ ವರ್ತಮಾನಾ ಇರಿಣಂ ನಿರ್ಋಣಮೃಣಾತೇರಪಾರ್ಣಂ ಭವತ್ಯಪರತಾ ಅಸ್ಮಾದೋಷಧಯ ಇತಿ ವಾ ಸೋಮಸ್ಯೇವ ಮೌಜವತಸ್ಯ ಭಕ್ಷೋ ಮೌಜವತೋ ಮುಜವತಿ ಜಾತೋ ಮುಜವಾನ್ಪರ್ವತೋ ಮುಂಜವಾನ್ಮುಂಜೋ ವಿಮುಚ್ಯತ ಇಷಿಕಯೇಷೀಕ್ಷತೇರ್ಗತಿಕರ್ಮಣ ಇಯಮಪೀತರೇಷೀಕೈತಸ್ಮಾದೇವ ವಿಭೇದಕೋ ವಿಭೇದನಾಜ್ಜಾಗೃವಿರ್ಜಾಗರಣಾನ್ಮಹ್ಯಮಚಚ್ಛದತ್ । ನಿ. ೯-೮ ।
+> ಇತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇರಿಣೇ—ಗುಡ್ಡದ ಪ್ರದೇಶದಲ್ಲಿ । ಬೃಹತಃ—ಮಹತ್ಪರಿಮಾಣವುಳ್ಳದ್ದೂ । ಪ್ರವಾತೇಜಾಃ—ಕಡಿದಾದ
+ಪ್ರದೇಶದಲ್ಲಿ ಹರಿಯುವುದೂ ಆದ ಝರಿಯಂತೆ । (ಇರಿಣೇ—ಹಾಸಿನ ಮೇಲೆ) । ವರ್ವೃತಾನಾಃ—ಹೊರಳಾಡು
+ವುವೂ । ಪ್ರಾವೇಪಾಃ—ಕಂಪಿಸುವುವೂ ಆದ ದಳಗಳು । ಮಾ—ನನ್ನನ್ನು । ಮಾದಯಂತಿ—ಸಂತೋಷಗೊಳಿಸು
+ತ್ತವೆ । ಮೌಜವತಃ—ಮುಜವತ್ಪರ್ವತದಲ್ಲಿ ಹುಟ್ಟಿದ । ಸೋಮಸ್ಯ—ಸೋಮದ । ಭಕ್ಷಃ ಇವ—ರಸದ
+ಪಾನವು ದೇವತೆಗಳಿಗೆ ಹರ್ಷವನ್ನುಂಟುಮಾಡುವಂತೆ । ಜಾಗೃವಿಃ—ಜೂಜುಕಾರರಿಗೆ ಯಾವಾಗಲೂ ಎಚ್ಚರಿಕೆ
+ಯನ್ನುಂಟುಮಾಡುತ್ತಿರುವ । ವಿಭೀದಕಃ—ಪಗಡೆ ದಾಳವು । ಮಹ್ಯಂ—ನನಗೆ । ಅಚ್ಛಾನ್—ಅತಿಶಯವಾದ
+ಸಂತೋಷವನ್ನು ಕೊಡುತ್ತದೆ.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಮಹತ್ಪರಿಮಾಣವುಳ್ಳದ್ದೂ, ಗುಡ್ಡದ ಕಡಿದಾದ ಪ್ರದೇಶದಲ್ಲಿ ಹರಿಯುವುದೂ ಆದ ಝರಿಯಂತೆ ಹಾಸಿನ
+ಮೇಲೆ ಹೊರಳಾಡುವುವೂ, ಕಂಪಿಸುವುವೂ ಆದ ಪಗಡೆದಾಳಗಳು ನನ್ನನ್ನು ಸಂತೋಷಗೊಳಿಸುತ್ತವೆ. ಮುಜವತ್ಪ
+ರ್ವತದಲ್ಲಿ ಹುಟ್ಟಿದ ಸೋಮದ ರಸದ ಪಾನವು ದೇವತೆಗಳಿಗೆ ಹರ್ಷವನ್ನುಂಟುಮಾಡುವಂತೆ ಜೂಜುಕಾರರಿಗೆ ಯಾವಾ
+ಗಲೂ ಎಚ್ಚರಿಕೆಯನ್ನುಂಟುಮಾಡುತ್ತಿರುವ ಪಗಡೆದಾಳವು ನನಗೆ ಅತಿಶಯವಾದ ಸಂತೋಷವನ್ನುಂಟುಮಾಡುತ್ತದೆ.
+
+*English Translation.*
+
+The large rattling dice exhilarate me a torrents borne on a precipice flowing in a desert : the exciting dice animate me as the taste of the Soma of Maujavat (delights the gods).
+
+<!-- printed 856 -->
+*[೮೫೬ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೪]*
+
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಕ್ಷಶಬ್ದದ ನಿರ್ವಚನ ಮತ್ತು ಉದಾಹರಣೆಗಾಗಿ ಯಾಸ್ಕರು ಈ ಋಕ್ಕಿಗೆ ನಿರುಕ್ತವನ್ನು ಹೇಳಿದ್ದಾರೆ—
+ಅಕ್ಷಾಃ । ಅಕ್ಷಾ ಅಶ್ನುವತ ಏನಾನಿತಿ ವಾಭ್ಯಶ್ನುವತ ಏಭಿರಿತಿ ನಾ ॥
+(ನಿ. ೯-೭)
+ಅಕ್ಷಶಬ್ದವು ಹೊಂದು, ಸಂಪಾದಿಸು ಎಂಬರ್ಥವುಳ್ಳ ಅಶ್ ಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿ ಪಗಡೆದಾಳವು ಎಂಬರ್ಥವನ್ನು
+ಸೂಚಿಸುವುದಾಗಿದೆ. ಜೂಜುಆಡುವವರಿಂದ ಈ ಪಗಡೆದಾಳವು ಹೊಂದಲ್ಪಟ್ಟಿರುತ್ತದೆ ಎಂದರೆ ಅವರ ಬಳಿಯಲ್ಲಿ ಈ
+ದಾಳಗಳು ಇರುತ್ತವೆ ಎಂದರ್ಥವು. ಅಥವಾ ಈ ದಾಳಗಳು ಜೂಜುಗಾರರಿಗೆ ಧನಾದಿಗಳನ್ನು (ಆಟಗಳಲ್ಲಿ)
+ಸಂಪಾದಿಸಿಕೊಡುವುದಾದ್ದರಿಂದ ಇವುಗಳಿಗೆ ಅಕ್ಷಾಃ ಎಂಬ ಹೆಸರು ಬಂದಿದೆಯೆಂದು ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು. ಈ
+ಅಕ್ಷಾಃ ಎಂಬ ಶಬ್ದ ಪ್ರಯೋಗವಿರುವ ಋಕ್ಕಿನ ಉದಾಹರಣೆಗಾಗಿ ಪ್ರಕೃತಋಕ್ಕನ್ನೇ ಯಾಸ್ಕರು ತೆಗೆದುಕೊಂಡು
+ಅದಕ್ಕೂ ನಿರುಕ್ತವನ್ನು ಹೇಳಿದ್ದಾರೆ—
+ತೇಷಾಮೇಷಾ ಭವತಿ । ಪ್ರಾವೇಪಾ ಮಾ ಬೃಹತೋ ಮಾದಯಂತಿ ಪ್ರವಾತೇಜಾ ಇರಿಣೇ
+ವರ್ಮೃತಾನಾಃ । ಸೋಮಸ್ಯೇವ ಮೌಜವತಸ್ಯ ಭಕ್ಷೋ ವಿಭೀದಕೋ ಜಾಗೃವಿರ್ಮಹ್ಯ
+ಮಚ್ಛಾನ್ ॥ ಪ್ರವೇಪಿಣೋ ಮಾ ಮಹತೋ ವಿಭೀದಕಸ್ಯ ಫಲಾನಿ ಮಾದಯಂತಿ ।
+ಪ್ರವಾತೇಜಾಃ ಪ್ರವಣೇಜಾಃ । ಇರಿಣೇ ವರ್ತಮಾನಾಃ । ಇರಿಣಂ ನಿರ್ಋಣಂ ಋಣಾತೇರ
+ಪಾರ್ಣಂ ಭವತಿ ಅಪರತಾ ಅಸ್ಮಾದೋಷಧಯ ಇತಿ ವಾ । ಸೋಮಸ್ಯೇವ ಮೌಜವತಸ್ಯ
+ಭಕ್ಷಃ । ಮೌಜವತೋ ಮೂಜವತಿ ಜಾತಃ । ಮೂಜವಾನ್ ಪರ್ವತೋ ಮುಂಜವಾನ್ ।
+ಮುಂಜೋ ವಿಮುಚ್ಯತ ಇಷಿಕಯಾ । ಇಷಿಕೇಷತೇರ್ಗತಿಕರ್ಮಣಃ । ಇಯಮಪೀತರೇಷಿಕೈತಸ್ಮಾದೇವ । ವಿಭೀದಕೋ ವಿಭದನಾತ್ । ಜಾಗೃವಿರ್ಜಾಗರಣಾತ್ ।
+ಮಹ್ಯಮಚಚ್ಛದತ್ ಪ್ರಶಂಸತ್ಯೇನಾನ್ ಪ್ರಥಮಯಾ ನಿಂದತ್ಯುತ್ತರಾಭಿಋಷೇರಕ್ಷಪರಿದ್ರ್ಯನಸ್ಯೆತದಾರ್ಷಂ ವೇದಯಂತೇ ॥
+(ನಿ. ೯-೮)
+ಕೌಷೀತಕೀ ಬ್ರಾಹ್ಮಣದಲ್ಲಿ ಹೇಳಿರುವಂತೆ ಈ ಸೂಕ್ತದ ಋಷಿಯಾದ ಕವಷನು ಜೂಜುಗಾರನೆಂದೂ, ಪಗಡೆ
+ಅಡುವುದರಲ್ಲಿ ಆಸಕ್ತಿಯುಳ್ಳವನೆಂದೂ ಪ್ರಸಿದ್ಧಿಯಾಗಿದ್ದಾನೆ. ಆದ್ದರಿಂದಲೇ ಪಗಡೆ ಆಟದಲ್ಲಿ ಜೂಜುಗಾರರಿಗೆ
+ಗೆದ್ದಾಗ ಉಂಟಾಗುವ ಸಂತೋಷಾತಿಶಯವನ್ನೂ, ಸೋತಾಗ ಉಂಟಾಗುವ ಹೃದಯವೇದನೆಯನ್ನೂ ಹೃದಯಂಗಮ
+ವಾಗಿಯೂ ಅನುಭವಪೂರ್ವಕವಾಗಿಯೂ ಬಹು ಚೆನ್ನಾಗಿ ವಿವರಿಸಿದ್ದಾನೆ. ಪಗಡೆದಾಳಗಳನ್ನು ಕೈಯಲ್ಲಿ ಕುಲುಕಿ
+ಎಸೆಯುವಾಗ ಅವು ನೀರಿನ ಝರಿಯಂತೆ ಉರುಳುತ್ತಾ ಕೊನೆಗೆ ನಿಲ್ಲುವಾಗ ತನಗೆ ಗೆಲ್ಲುವಂತೆ ಮಾಡುವವೋ
+ಅಥವಾ ಸೋಲುವಂತೆ ಮಾಡುವವೋ ಎಂಬ ಕಳವಳವನ್ನುಂಟುಮಾಡುತ್ತವೆ. ಇದು ಜೂಜುಗಾರರಿಗೆ ಅನುಭವ
+ವೇದ್ಯವಾಗಿರುವುದು. ಸಂತೋಷವನ್ನುಂಟುಮಾಡುವ ಸಂದರ್ಭದಲ್ಲಿ ಇಲ್ಲಿ ಒಂದು ದೃಷ್ಟಾಂತವನ್ನು ಕೊಡಲಾಗಿದೆ
+ಮೂಜವಾನ್ ಎಂಬುದು ಒಂದು ಎತ್ತರವಾದ ಪರ್ವತವು. ಎತ್ತರವಾದ ಪರ್ವತಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುವ ಸೋಮ
+ಲತೆಗಳಲ್ಲಿ ದೊರಕುವ ರಸವು ಹೆಚ್ಚಾಗಿಯೂ, ಮದಕರವಾಗಿಯೂ ಸಂತೋಷವನ್ನುಂಟುಮಾಡುವುದಾಗಿಯೂ ಇರು
+
+<!-- printed 857 -->
+*[ಆ. ೭. ಆ ೮. ವ. ೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 857]*
+
+ವುದು. ಆದ್ದರಿಂದ ಇಂತಹ ಮೂಜವತ್ಪರ್ವತದ ಮೇಲೆ ಬೆಳೆಯುವ ಸೋಮಲತೆಗಳಿಂದ ಹಿಂಡಿ ತೆಗೆದ ಸೋಮ
+ರಸವು ಅದನ್ನು ಪಾನಮಾಡುವವರಿಗೆ ಯಾವರೀತಿ ಅತ್ಯಂತ ಸಂತೋಷವನ್ನುಂಟುಮಾಡುವುದೋ ಅದರಂತೆ ಈ
+ಪಗಡೆದಾಳಗಳು ಆಟವಾಡುವ ಜೂಜುಗಾರರಿಗೆ ಗೆದ್ದಾಗ ಅತ್ಯಂತ ಸಂತೋಷವನ್ನುಂಟುಮಾಡುತ್ತವೆ ಎಂಬ ಸೋಮ
+ರಸದ ಉಪಮಾನವನ್ನು ಇಲ್ಲಿ ಕೊಟ್ಟಿದೆ.
+ಈ ಸಂಬಂಧದಲ್ಲಿ ಈ ಋಕ್ಕಿನಲ್ಲಿ ಇರುವ ಕೆಲವು ಶಬ್ದಗಳಿಗೆ ನಿರ್ವಚನವನ್ನೂ, ಅರ್ಥವಿವರಣೆಯನ್ನೂ
+ಮಾಡಿದ್ದಾರೆ. ವಿಭೀದಕ ಎಂದರೆ ಒಂದು ವಿಧವಾದ ವೃಕ್ಷವಿಶೇಷವು. ಈ ಮರದಿಂದ ಆಟವಾಡುವ ಪಗಡೆದಾಳ
+ಗಳನ್ನು ಮಾಡಿ ಉಪಯೋಗಿಸುವುದರಿಂದ ದಾಳಗಳನ್ನು ಸೂಚಿಸುವುದಕ್ಕಾಗಿ ವಿಭೀದಕಶಬ್ದವನ್ನೇ ಋಷಿಯು
+ಉಪಯೋಗಿಸಿರುವನು.
+ಇರಿಣಂ ಎಂದರೆ ಪಗಡೆ ಆಡುವ ಹಾಸು (ಬಟ್ಟೆ) ಅಥವಾ ಹಲಗೆಯು. ಇದರಲ್ಲಿ ಪಗಡೆಮನೆಗಳನ್ನು
+ಬರೆದಿರುವುದು. ಇರಿಣಂ ಎಂಬ ಶಬ್ದಕ್ಕೆ ನಿರ್ಋಣಂ ಎಂದು ಅರ್ಥವು. ಎಂದರೆ ಸಾಲವಿಲ್ಲದಿರುವ ಎಂದಭಿ
+ಪ್ರಾಯವು. ಆಟದಲ್ಲಿ ಪಣವಾಗಿಡುವ ಹಣವು ನಗದಾಗಿಯೇ ಇರಬೇಕು. ಸಾಲವಾಗಿ ಪಣವನ್ನು ಒಡ್ಡುವುದಿಲ್ಲ.
+ಆದ್ದರಿಂದ ಜೂಜು ಆಡುವಾಗ ಸಾಲದ ವಿಷಯವೇ ಇಲ್ಲದಿರುವುದರಿಂದ ಆಟಕ್ಕೆ ಮುಖ್ಯವಾದ ಹಾಸೆಂಬ ವಸ್ತುವನ್ನು
+ಇರಿಣಂ ಎಂಬ ಶಬ್ದದಿಂದ ಕರೆಯುವುದು ರೂಢಿಯಾಗಿದೆ. ಈ ಶಬ್ದವು ಹೋಗು ಎಂಬರ್ಥವುಳ್ಳ ಋ ಗತೌ ಎಂಬ
+ಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆ ಅಥವಾ ಇರಿಣಂ ಎಂದರೆ ಪರ್ವತಪ್ರದೇಶಕ್ಕೆ ಹೆಸರು. ಏಕೆಂದರೆ ಈ ಪರ್ವತಪ್ರದೇಶ
+ದಿಂದ ಓಷಧಿವನಸ್ಪತಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡುಹೋಗುವರು. ಆದ್ದರಿಂದಲೂ ಅಪಾರ್ಣ೦ ಅಥವಾ ಇರಿಣಂ
+ಎಂದು ಹೆಸರು.
+ಮೌಜವತಸ್ಯ ಭಕ್ಷಃ—ಮೂಜವಾನ್ ಎಂಬುದು ಒಂದು ಪರ್ವತದ ಹೆಸರು. ಈ ಪರ್ವತದಲ್ಲಿ ಬೆಳೆ
+ಯುವ ಓಷಧ್ಯಾದಿಗಳಿಗೆ, ವಿಶೇಷವಾಗಿ ಸೋಮಲತೆಗೆ ಮೌಜವತ (ಮೂಜವಾನ್ ಎಂಬ ಪರ್ವತದಲ್ಲಿ ಬೆಳೆದದ್ದು)
+ಎಂದು ಹೆಸರು. ಈ ಪರ್ವತಕ್ಕೆ ಈ ಹೆಸರು ಬರಲು ಕಾರಣವೇನೆಂದರೆ ಇಲ್ಲಿ ಮುಂಜ ಎಂಬ ಒಂದು ವಿಧವಾದ
+ಶರ ಅಥವಾ ದರ್ಭವಿಶೇಷವು ಬೆಳೆಯುವುದರಿಂದ ಇದಕ್ಕೆ ಮೂಜವಾನ್ (ಮುಂಜವೆಂಬ ಹುಲ್ಲು ಬೆಳೆಯುವ) ಎಂದು
+ಹೆಸರು ಬಂದಿದೆ.
+ಮುಂಜ ಎಂದರೆ ಒಂದು ವಿಧವಾದ ಹುಲ್ಲು ಅಥವಾ ದರ್ಭೆಯು. ಈ ಶಬ್ದವು ಮುಚ್ ಧಾತುವಿನಿಂದ
+ನಿಷ್ಪನ್ನವಾಗಿದೆ. ಎಂದರೆ ಇಷೀಕವೆಂಬ ಮತ್ತೊಂದು ಬಗೆಯ ಹುಲ್ಲಿನಿಂದ ಪ್ರತ್ಯೇಕಿಸಲ್ಪಟ್ಟಿರುವುದರಿಂದ
+(ಇಷೀಕಯಾ ವಿಮುಚ್ಯತ ಇತಿ ಮುಂಜಃ) ಇದಕ್ಕೆ ಮುಂಜವೆಂದು ಹೆಸರು.
+ಇಷೀಕಾ ಎಂಬ ಶಬ್ದವು ಹೋಗು ಎಂಬರ್ಥವುಳ್ಳ ಇಷತಿಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆ. ಈ ಶಬ್ದಕ್ಕೆ
+ಒಂದು ವಿಧವಾದ ಹುಲ್ಲು ಎಂತಲೂ (ಧನುಸ್ಸಿನಿಂದ ಹೊರಹೊರಡುವುದರಿಂದ) ಬಾಣವೆಂತಲೂ ಎರಡು ವಿಧವಾದ
+ಅರ್ಥಗಳಿರುವವು.
+ವಿಭೀದಕ—ಎಂದರೆ ಕೊರೆಯುವುದು ಎಂದರ್ಥವು. ಈ ಮರದಿಂದ ದಾಳಗಳನ್ನು ಕೊರೆದು (ಕೆತ್ತಿ)
+ಮಾಡುವುದರಿಂದ ದಾಳಕ್ಕೆ ವಿಭೀದಕವೆಂದು ಹೆಸರು.
+
+<!-- printed 858 -->
+*[858 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೪]*
+
+ಜಾಗೃವಿ:—ಎಂದರೆ ನಿದ್ರೆಮಾಡದೆ ಎಚ್ಚರದಿಂದಿರುವುದು. ರಾತ್ರೆಕಾಲದಲ್ಲಿ ಜೂಜಾಡುವಾಗ ನಿದ್ರೆಯನ್ನು
+ಬಿಟ್ಟು ಎಷ್ಟು ಹೊತ್ತಾದರೂ ಎಚ್ಚರವಾಗಿರುವುದು ರೂಢಿಯು.
+ಈ ಋಕ್ಕಿನಲ್ಲಿ ಋಷಿಯು ಪಗಡೆಆಟದಿಂದ ತನಗೆ (ಗೆಲ್ಲುವಾಗ) ಉಂಟಾಗುವ ಸಂತೋಷವನ್ನು ಪ್ರಶಂಸೆ
+ಮಾಡಿರುವನು. ಮುಂದಿನ ಋಕ್ಕುಗಳಲ್ಲಿ (ಪ್ರಾಯಶಃ ತನಗೆ ಸೋಲಾದ್ದರಿಂದ) ಪಗಡೆದಾಳಗಳನ್ನೂ, ಜೂಜನ್ನೂ
+ನಿಂದಿಸಿ ಅದರಿಂದ ಜೂಜಾಡುವ ಜನರಿಗೆ ಉಂಟಾಗುವ ಮನೋವ್ಯಥೆಯನ್ನೂ, ದುಃಖವನ್ನೂ, ಕಷ್ಟಗಳನ್ನೂ
+ವಿವರಿಸಿ ಜೂಜಾಡುವುದನ್ನು ಅನುಭವಪೂರ್ವಕವಾಗಿ ನಿಂದಿಸಿರುವನು.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನ ಮಾ ಮಿಮೇಥ ನ ಜಿಹೀಳ ಏಷಾ ಶಿವಾ ಸಖಿಭ್ಯ ಉತ ಮಹ್ಯಮಾಸೀತ್ ।
+> ಅಕ್ಷಸ್ಯಾಹಮೇಕಪರಸ್ಯ ಹೇತೋರನುವ್ರತಾಮಪ ಜಾಯಾಮರೋಧಂ ॥೨॥
+
+*ಪದಪಾಠಃ*
+
+> ನ । ಮಾ । ಮಿಮೇಥ । ನ । ಜಿಹೀಳೇ । ಏಷಾ । ಶಿವಾ । ಸಖಿಭ್ಯಃ । ಉತ । ಮಹ್ಯಂ । ಆಸೀತ್ :
+> ಅಕ್ಷಸ್ಯ । ಅಹಂ । ಏಕಪರಸ್ಯ । ಹೇತೋಃ । ಅನುವ್ರತಾಂ । ಆಪ । ಜಾಯಾಂ । ಆರೋಪಂ ॥ ೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಏಷಾಸ್ಮದೀಯಾ ಜಾಯಾ ಮಾ ಮಾಂ ಕಿತವಂ ನ ಮಿಮೇಥ ನ ಚ ಚುಕ್ರೋಧ ನ
+> ಜಿಹೀಳೇ ನ ಚ ಲಜ್ಜಿತವತೀ । ಸಖಿಭ್ಯೋಽಸ್ಮದೀಯೇಭ್ಯಃ ಕಿತವೇಭ್ಯಃ ಶಿವಾ ಸುಖಕರ್ಯಾಸೀತ್ ।
+> ಅಭೂತ್ । ಉತಾಪಿ ಚ ಮಹ್ಯಂ ಶಿವಾಸೀತ್ । ಇತ್ಥಮನುವ್ರತಾಮನುಕೂಲಾಂ ಜಾಯಾಮೇಕಪರ.
+> ಸೈಕಃ ಪರಃ ಪ್ರಧಾನಂ ಯಸ್ಯ ತಸ್ಯಾಕ್ಷಸ್ಯ ಹೇತೋಃ ಕಾರಣಾದಹಮಪಾರೋಧಂ । ಪರಿತ್ಯಕ್ತವಾನಸ್ಮೀತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಏಷಾ—ಈ ನನ್ನ ಪತ್ನಿಯು । ಮಾ—ನನ್ನ ಮೇಲೆ । ನ ಮಿಮೇಥ—ಕೋಪಗೊಂಡಿಲ್ಲ। ನ ಜಿಹೀಳೇನನ್ನ ಅಪರಾಧಕ್ಕಾಗಿ ನಾಚಿಕೆಯನ್ನು ತೋರಿಸಿಲ್ಲ । ಸಖಿಭ್ಯಃ—ನನ್ನ ಮಿತ್ರರಿಗೆ । ಶಿವಾ—ಆದರವನ್ನು ತೋರಿಸು
+ವವಳಾಗಿ । ಆಸೀತ್—ಇದ್ದಳು । ಉತ—ಮತ್ತು । ಮಹ್ಯಂ—ನನಗೂ ಹಿತಕರಳಾಗಿದ್ದಳು (ಆದರೂ ಸಹ) ।
+ಅನುವ್ರತಾಂ—ನನಗೆ ಉಪಕಾರಕಳಾಗಿದ್ದ । ಜಾಯಾಂ—ಆ ಪತ್ನಿಯನ್ನು । ಏಕಪರಸ್ಯ—ಜೂಜುಗಾರರಲ್ಲಿ
+ಒಬ್ಬನಿಗೆ ಮಾತ್ರ ಹಿತಕಾರಿಯಾಗಿದ್ದ । ಅಕ್ಷಸ್ಯ ಹೇತೋಃ—ಈ ಪಗಡೆಯ ಕಾರಣಕ್ಕಾಗಿ । ಅಹಂ—ನಾನು ।
+ಅಪಾರೋಧಂ—ತ್ಯಜಿಸಿಬಿಟ್ಟೆನು.
+
+<!-- printed 859 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೩.] ಋಗ್ವೇದಸಂಹಿತಾ 859]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ನಾನು ಜೂಜುಗಾರನಾಗಿದ್ದರೂ ನನ್ನ ಪತ್ನಿಯು ನನ್ನ ಮೇಲೆ ಕೋಪಗೊಂಡಿಲ್ಲ. ನನ್ನ ಚರೈಗಾಗಿ
+ನಾಚಿಕೆಯನ್ನೂ ತೋರಿಸಿಲ್ಲ. ನನ್ನ ಮಿತ್ರರಿಗೆ ಆದರವನ್ನು ತೋರಿಸಿ ನನಗೆ ಬಹಳ ಹಿತಕಾರಿಣಿಯಾಗಿದ್ದಳು. ನನಗೆ
+ಹೀಗೆ ಉಪಕಾರಿಣಿಯಾಗಿದ್ದರೂ ಸಹ ಅಂತಹ ನನ್ನ ಪತ್ನಿಯನ್ನು ಜೂಜುಗಾರರಲ್ಲಿ ಒಂದು ಪಕ್ಷಕ್ಕೆ ಜಯವನ್ನು
+ಕೊಡತಕ್ಕ ಈ ಪಗಡೆಯ ಕಾರಣಕ್ಕಾಗಿ ನಾನು ತ್ಯಜಿಸಿಬಿಟ್ಟೆನು.
+
+*English Translation.*
+
+This (my wife) has not been angry (with me), nor was she overcome
+with shame; kind was she to me and to my friends; yet for the sake of
+one or other die, I have deserted this affectionate spouse.
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ದ್ವೇಷ್ಟಿ ಶ್ವಶೂರಪ ಜಾಯಾ ರುಣದ್ಧಿ ನ ನಾಥಿತೋ ವಿಂದತೇ ಮರ್ಡಿತಾರಂ ।
+> ಅಶ್ವಸ್ಯೇವ ಜರತೋ ವಸ್ಯಸ್ಯ ನಾಹಂ ವಿಂದಾಮಿ ಕಿತವಸ್ಯ ಭೋಗಂ ॥೩॥
+
+*ಪದಪಾಠಃ*
+
+> ದ್ವೇಷ್ಟಿ । ಶ್ವಶೂಃ । ಅಪ । ಜಾಯಾ । ರುಣದ್ಧಿ । ನ । ನಾಥಿತಃ । ವಿಂದತೇ । ಮರ್ಡಿತಾರಂ ।
+> ಅಶ್ವಸ್ಯ ಇವ । ಜರತಃ । ವಸ್ಯಸ್ಯ । ನ । ಅಹಂ । ವಿಂದಾಮಿ । ಕಿತವಸ್ಯ । ಭೋಗಂ ॥ ೩ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಶ್ವಶ್ರೂರ್ಜಾಯಾಯಾ ಮಾತಾ ಗೃಹಗತಂ ಕಿತವಂ ದ್ವೇಷ್ಟಿ । ನಿಂದತೀತ್ಯರ್ಥಃ । ಕಿಂಚ ಜಾಯಾ
+> ಭಾರ್ಯಾಪ ರುಣದ್ಧಿ । ನಿರುಣದ್ಧಿ । ಅಪಿ ಚ ನಾಥಿತೋ ಯಾಚಮಾನಃ ಕಿತವೋ ಧನಂ ಮರ್ಡಿತಾರಂ
+> ಧನದಾನೇನ ಸುಖಯಿತಾರಂ ನ ವಿಂದತೇ । ನ ಲಭತೇ । ಇತ್ಥಂ ಬುದ್ಧ್ಯಾ ವಿಮೃಶನ್ನಹಂ ಜರತೋ
+> ವೃದ್ಧಸ್ಯ ವಸ್ನ್ಯಸ್ಯ । ವಸ್ನಂ ಮೂಲ್ಯಂ । ತದರ್ಹಸ್ಯಾಶ್ವಸ್ಯೇವ ಕಿತವಸ್ಯ ಭೋಗಂ ನ ವಿಂದಾಮಿ ।
+> ನ ಲಭೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಶ್ವಶ್ರೂಃ—ನನ್ನ ಪತ್ನಿಯ ತಾಯಿಯು (ಅತ್ತೆಯು) । ದ್ವೇಷ್ಟಿ—ನನ್ನನ್ನು ದೂಷಿಸುತ್ತಾಳೆ । ಜಾಯಾನನ್ನ ಪತ್ನಿಯು । ಅಪ ರುಣದ್ಧಿ-ನನ್ನನ್ನು ತಡೆಯುತ್ತಾಳೆ। ನಾಥಿತಯಾಚನೆಯನ್ನು ಮಾಡುವ ಜೂಜುಗಾರನು।
+ಮರ್ಡಿತಾರಂ—ಇವನಿಗೆ ತೃಪ್ತಿಯನ್ನುಂಟುಮಾಡುವ ದಾತೃವನ್ನು । ನ ವಿಂದತೇ—ಖಂಡಿತ ಹೊಂದುವುದಿಲ್ಲ ।
+
+<!-- printed 860 -->
+*[860 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೪]*
+
+ವಸ್ಯಸ್ಯ—ಬೆಲೆಬಾಳತಕ್ಕದ್ದಾದರೂ ಸಹ । ಜರತಃ—ಮುದಿಯಾದ । ಅಶ್ವಸ್ಯೇವ—ಕುದುರೆಯಂತೆ । ಅಹಂ—
+ನಾನು । ಕಿತವಸ್ಯ—ಜೂಜುಗಾರನ । ಭೋಗಂ—ಸುಖವನ್ನು । ನ ವಿಂದಾಮಿ—ಹೊಂದುವುದಿಲ್ಲ.
+
+*ಭಾವಾರ್ಥ*
+
+ನನ್ನ ಅತ್ತೆಯು ನನ್ನನ್ನು ನಿಂದಿಸುತ್ತಾಳೆ. ನನ್ನ ಪತ್ನಿಯು ಯಾವಾಗಲೂ ನನ್ನನ್ನು ತಡೆಯುತ್ತಾಳೆ.
+ಜೂಜುಗಾರನಾದವನು ಯಾರನ್ನು ಯಾಚಿಸಿದರೂ ಇವನಿಗೆ ತೃಪ್ತಿಯನ್ನು ಕೊಡುವ ಉದಾರಿಯೂ ಇರುವುದಿಲ್ಲ.
+ಕುದುರೆಯು ಬಹಳ ಬೆಲೆಬಾಳುವುದಾದರೂ ಸಹ ಮುದಿಯಾದಾಗ ಅದಕ್ಕೆ ಸುಖವು ಸಿಕ್ಕದಿರುವಂತೆ, ನಾನು ಯೋಗ್ಯ
+ನಾದರೂ, ಜೂಜುಗಾರನಾದುದರಿಂದ ನನಗೆ ಖಂಡಿತ ಸುಖವಿಲ್ಲ.
+
+*English Translation.*
+
+My mother-in-law reviles me, my wife opposes me; the beggar meets no compassionate (benefactor): I do not realize the enjoyment of the gamester any more than that of a valuable horse grown old.
+*[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅನ್ಯೇ ಜಾಯಾಂ ಪರಿ ಮೃಶಂತ್ಯಸ್ಯ ಯಸ್ಯಾಗೃಧದ್ವೇದನೇ ವಾಜ್ಯಂಕ್ಷಃ ।
+> ಪಿತಾ ಮಾತಾ ಭ್ರಾತರ ಏನಮಾಹುರ್ನ ಜಾನೀಮೋ ನಯತಾ ಬದ್ಧಮೇತಂ ॥೪॥
+
+*ಪದಪಾಠಃ*
+
+> ಅನ್ಯೇ । ಜಾಯಾಂ । ಪರಿ । ಮೃಶಂತಿ । ಅಸ್ಯ । ಯಸ್ಯ । ಅಗೃಧತ್ । ವೇದನೇ । ವಾಜೀ । ಅಕ್ಷಃ ।
+> ಪಿತಾ । ಮಾತಾ । ಭ್ರಾತರಃ । ಏನಂ । ಆಹುಃ । ನ । ಜಾನೀಮಃ । ನಯತ । ಬದ್ಧಂ । ಏತಂ ॥ ೪ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯಸ್ಯ ಕಿತವಸ್ಯ ವೇದನೇ ಧನೇ ವಾಜೀ ಬಲವಾನಕ್ಷೋ ದೇವೋಽಗೃಧತ್-ಅಭಿಕಾಂಕ್ಷಾಂ
+> ಕರೋತಿ ತಸ್ಯಾಸ್ಯ ಕಿತವಸ್ಯ ಜಾಯಾಂ ಭಾರ್ಯಾಮನ್ಯೇ ಪ್ರತಿಕಿತವಾಃ ಪರಿ ಮೃಶಂತಿ । ವಸ್ತ್ರಕೇಶಾದ್ಯಾಕರ್ಷಣೇನ ಸಂಸ್ಪೃಶಂತಿ । ಕಿಂಚ । ಪಿತಾ ಜನನೀ ಚ ಭ್ರಾತರಃ ಸಹೋದರಾಶ್ಚೈನಂ ಕಿತವಮಾಹುಃ ।
+> ವದಂತಿ । ನ ವಯಮಸ್ಮದೀಯಮೇನಂ ಜಾನೀಮಃ । ರಜ್ಜಾ ಬದ್ಧಮೇತಂ ಕಿತವಂ ಹೇ ಕಿತವಾಃ
+> ಯೂಯಂ ನಯತ । ಯಥೇಷ್ಟದೇಶಂ ಪ್ರಾಪಯತೇತಿ ॥
+
+<!-- printed 861 -->
+*[ಅ. ೭ ಆ. ೮ ವ. ೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 861]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯಸ್ಯ—ಯಾವ ಜೂಜುಗಾರನ । ವೇದನೇ—ಧನದಲ್ಲಿ । ವಾಜೀ—ಶಕ್ತಿಯುತವಾದ । ಅಕ್ಷಃ—
+ಪಗಡೆದಾಳವು । ಅಗೃಧತ್—ಅಪಹರಿಸುವ ಆಸೆಯನ್ನು ತೋರಿಸುವುದೋ । ಅಸ್ಯ—ಅಂತಹ ಜೂಜುಗಾರನ ।
+ಜಾಯಾಂ—ಪತ್ನಿಯನ್ನು । ಅನ್ಯೇ—ಇವನ ಪ್ರತಿಕಕ್ಷಿಗಳು । ಪರಿ ಮೃಶಂತಿ—ಹಿಡಿದೆಳೆದು ಅವಮಾನಪಡಿಸು
+ತ್ತಾರೆ । ನ ಜಾನೀಮಃ—ಇವನು ಯಾರೋ ನಮಗೆ ಗೊತ್ತಿಲ್ಲ । ಬದ್ಧಂ—ಹಗ್ಗದಿಂದ ಬಂಧಿತನಾದ । ಏತಂ—
+ಇವನನ್ನು । ನಯತ—ನಿಮ್ಮಿಷ್ಟಬಂದ ಜಾಗಕ್ಕೆ ಕರೆದೊಯ್ಯಿರಿ ಎಂಬುದಾಗಿ । ಪಿತಾ—ಇವನ ತಂದೆಯೂ ।
+ಮಾತಾ—ತಾಯಿಯೂ । ಭ್ರಾತರಃ—ಸಹೋದರರೂ । ಏನಂ—ಇವನ ವಿಷಯದಲ್ಲಿ । ಆಹುಃ—ಹೇಳುತ್ತಾರೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಯಾವ ಜೂಜುಗಾರನ ಧನವನ್ನು ಶಕ್ತಿಯುತವಾದ ಪಗಡೆದಾಳವು ಇಚ್ಛಿಸಿ ಅಪಹರಿಸುವುದೋ, ಅಂತಹ
+ಜೂಜುಗಾರನ ಪತ್ನಿಯನ್ನು ಇವನ ಪ್ರತಿಕಕ್ಷಿಗಳು ಹಿಡಿದೆಳೆದು ಅವಮಾನಪಡಿಸುತ್ತಾರೆ. “ಇವನ ವಿಷಯವು ನಮಗೆ
+ಸಂಬಂಧಿಸಿದುದಲ್ಲ. ಇವನನ್ನು ಕಟ್ಟಿ ಎಲ್ಲಿಗೆ ಬೇಕಾದರೂ ಕರೆದೊಯ್ಯಿರಿ” ಎಂಬುದಾಗಿ ಇವನ ಮಾತಾಪಿತೃಗಳೂ,
+ಸಹೋದರರೂ ಇವನ ವಿಷಯದಲ್ಲಿ ಹೇಳುತ್ತಾರೆ.
+
+*English Translation.*
+
+Others touch the wife of him whose wealth the potent dice covet : his mother, father, brothers say, "We know him not, take him away bound (wherever you will)".
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯದಾದೀಧ್ಯೇ ನ ದವಿಷಾಣ್ಯೇಭಿಃ ಪರಾಯದ್ಯೋಽವ ಹೀಯೇ ಸಖಿಭ್ಯಃ ।
+> ನ್ಯುಪ್ತಾಶ್ಚ ಬಭ್ರವೋ ವಾಚಮಕ್ರತೇ ಏಮೀದೇಷಾಂ ನಿಷ್ಕೃತಂ ಜಾರಿಣೇವ ॥ ೫ ॥
+*[೧ ಪದಪಾಠಿ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಯತ್ । ಆದೀಧ್ಯೇ । ನ । ದವಿಷಾಣಿ । ಏಭಿಃ । ಪರಾಯತ್ಽಭ್ಯಃ । ಅವ । ಹೀಯೇ । ಸಖಿಭ್ಯಃ ।
+> ನಿಉಪ್ತಾಃ । ಚ । ಬಭ್ರವಃ । ವಾಚಂ । ಅಕ್ರತ । ಏಮಿ । ಇತ್ । ಏಷಾಂ । ನಿಃಕೃತಂ । ಜಾರಿಣೀಇವ ॥ ೫ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯದ್ಯದಾಹಮಾದೀಧ್ಯೇ ಧ್ಯಾಯಾಮಿ ತದಾನೀಮೇಭಿರಕ್ಷೈರ್ನ ದವಿಷಾಣಿ । ನ ದೂಷಯೇ ।
+> ನ ಪರಿತಪಾಮಿ । ಯದ್ವಾ । ನ ದವಿಷಾಣಿ । ನ ದೇವಿಷ್ಯಾಮೀತ್ಯರ್ಥಃ । ಪರಾಯದ್ಧ್ಯಃ ಸ್ವಯಮೇವ
+
+<!-- printed 862 -->
+*[862 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೪.]*
+
+> ಪರಾಗಚ್ಛದ್ಭ್ಯಃ ಸಖಿಭ್ಯಃ ಸಖಿಭೂತೇಭ್ಯಃ ಕಿತವೇಭ್ಯೋಽವ ಹೀಯೇ । ಅವಹಿತೋ ಭವಾಮಿ । ನಾಹಂ
+> ಪ್ರಥಮಮಕ್ಷಾನ್ವಿಸೃಜಾಮೀತಿ । ಕಿಂಚ ಬಭ್ರವೋ ಬಭ್ರುವರ್ಣಾ ಅಕ್ಷಾ ನ್ಯುಪ್ತಾಃ ಕಿತವೈರವಕ್ಷಿಪ್ತಾಃ
+> ಸಂತೋ ವಾಚಮಕ್ರತ । ಶಬ್ದಂ ಕುರ್ವಂತಿ । ತದಾ ಸಂಕಲ್ಪಂ ಪರಿತ್ಯಜ್ಯಾಕ್ಷವ್ಯಸನೇನಾಭಿಭೂಯಮಾನೋಽಹಮೇಷಾಮಕ್ಷಾಣಾಂ ನಿಷ್ಕೃತಂ ಸ್ಥಾನಂ ಜಾರಿಣೀವ ಯಥಾ ಕಾಮವ್ಯಸನೇನಾಭಿಭೂಯಮಾನಾ
+> ಸ್ವೈರಿಣೀ ಸಂಕೇತಸ್ಥಾನಂ ಯಾತಿ ತದ್ವದೇಮೀತ್ । ಗಚ್ಛಾಮ್ಯೇವ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯತ್—ಯಾವಾಗ । ಆದೀಧ್ಯೆ—ನನ್ನ ಚರ್ಯೆಯ ವಿಷಯದಲ್ಲಿ ಯೋಚಿಸುವೆನೋ ಆಗ । ಏಭಿಃ—
+ಈ ದಾಳಗಳೊಂದಿಗೆ । ನ ದವಿಷಾಣಿ—ಆಡುವುದೇ ಇಲ್ಲವೆಂದು । ಪರಾಯದ್ಭ್ಯಃ—ನನ್ನನ್ನು ಬಿಟ್ಟು ಓಡುವ ।
+ಸಖಿಭ್ಯಃ—ಮಿತ್ರರೊಡನೆ । ಅವ ಹೀಯೆ—ಎಚ್ಚರಿಕೆಯಿಂದ ಪ್ರತಿಜ್ಞೆ ಮಾಡುತ್ತೇನೆ (ಆದರೆ) । ಬಭ್ರವಃ—
+ಹೊಂಬಣ್ಣದ ದಾಳಗಳು । ನ್ಯುಪ್ತಾಃ—ಜೂಜುಗಾರರಿಂದ ಎಸೆಯಲ್ಪಟ್ಟು । ವಾಜಂ ಅಕ್ರತ—ಶಬ್ದವನ್ನು ಮಾಡು
+ವುದನ್ನು ಕೇಳಿದಾಗ । ಜಾರಿಣೀವ—ಕಾಮುಕಳಾದ ಸ್ತ್ರೀಯು ಸಂಕೇತಸ್ಥಾನಕ್ಕೆ ಅವಸರದಿಂದ ಓಡುವಂತೆ ।
+ಏಷಾಂ—ಈ ದಾಳಗಳ । ನಿಷ್ಕೃತಂ—ಸ್ಥಾನಕ್ಕೆ । ಏಮೀತ್—ಖಂಡಿತ ಹೋಗಿ ಸೇರುತ್ತೇನೆ.
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ನಾನು ನನ್ನ ಚರ್ಯೆಯ ವಿಷಯದಲ್ಲಿ ಯೋಚಿಸತೊಡಗಿದಾಗ “ ಈ ದಾಳಗಳೊಂದಿಗೆ ಇನ್ನು ಆಡುವುದೇ
+ಇಲ್ಲ ” ಎಂದು ನನ್ನನ್ನೂ ತ್ಯಜಿಸಿ ಹೋಗುವ ನನ್ನ ಮಿತ್ರರ ಮುಂದೆ (ಇತರ ಜೂಜುಕಾರರೊಂದಿಗೆ) ಪ್ರತಿಜ್ಞೆಯನ್ನು
+ಮಾಡುತ್ತೇನೆ. ಆದರೆ, ಯಾವಾಗ ಹೊಂಬಣ್ಣದ ದಾಳಗಳು ಜೂಜಾಟದ ಕಾಲದಲ್ಲಿ ಎಸೆಯಲ್ಪಟ್ಟು ಆಕರ್ಷಕವಾದ
+ಶಬ್ದವನ್ನು ಮಾಡುವುವೋ, ಆ ಒಡನೆಯೇ ಕಾಮುಕಳಾದ ಸ್ತ್ರೀಯು ಸಂಕೇತಸ್ಥಾನಕ್ಕೆ ಅವಸರವಾಗಿ ಓಡಿಹೋಗಿ
+ಸೇರುವಂತೆ, ನಾನೂ ಆ ದಾಳಗಳ ಸ್ಥಾನಕ್ಕೆ ಖಂಡಿತ ಹೋಗಿ ಸೇರುತ್ತೇನೆ.
+
+*English Translation.*
+
+When I reflect, (then I say), "I will play no more with them",
+I pay attention to my friends who desert (me); and the tawny dice rattle
+as they are thrown : I hasten to their accustomed place as a harlot (to an
+assignation).
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸಭಾಮೇತಿ ಕಿತವಃ ಪೃಚ್ಛಮಾನೋ ಜೇಷ್ಯಾಮೀತಿ ತನ್ವಾ೩ಶೂಶುಜಾನಃ ।
+> ಅಕ್ಷಾಸೋ ಅಸ್ಯ ವಿ ತಿರಂತಿ ಕಾಮಂ ಪ್ರತಿದೀವ್ನೇ ದಧತ ಆ ಕೃತಾನಿ ॥೬॥
+
+<!-- printed 863 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 863]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಸಭಾಂ । ಏತಿ । ಕಿತವಃ । ಪೃಚ್ಛಮಾನಃ । ಜೇಷ್ಯಾಮಿ । ಇತಿ । ತನ್ವಾ । ಶೂಶುಜಾನಃ ।
+> ಅಕ್ಷಾಸಃ । ಅಸ್ಯ । ವಿ । ತಿರಂತಿ । ಕಾಮಂ । ಪ್ರತಿದೀವ್ನೇ । ದಧತಃ । ಆ । ಕೃತಾನಿ ॥೬॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ತನ್ವಾ ಶರೀರೇಣ ಶೂಶುಜಾನಃ ಶೋಶುಚಾನೋ ದೀಪ್ಯಮಾನಃ ಕಿತವಃ ಕೋಽತ್ರಾಸ್ತಿ
+> ಧನಿಕಸ್ತಂ ಜೇಷ್ಯಾಮಿತಿ ಪೃಚ್ಛಮಾನಃ ಪೃಚ್ಛನ್ ಸಭಾಂ ಕಿತವಸಂಬಂಧಿನೀಮೇತಿ । ಗಚ್ಛತಿ । ತತ್ರ
+> ಪ್ರತಿದೀನ್ವೇ ಪ್ರತಿದೇವಿತ್ರೇ ಕಿತವಾಯ ಕೃತಾನಿ ದೇವನೋಪಯುಕ್ತಾನಿ ಕರ್ಮಾಣ್ಯಾ ದಧತೋ
+> ಜಯಾರ್ಥಮಾಭಿಮುಖ್ಯೇನ ಮರ್ಯಾದಯಾ ವಾ ದಧತೋಽಸ್ಯ ಕಿತವಸ್ಯ ಕಾಮಮಿಚ್ಛಾಮಕ್ಷಾಸೋಽಕ್ಷಾ ವಿತರಂತಿ । ವರ್ಧಯಂತಿ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ತನ್ವಾ—ತನ್ನ ಶರೀರಕಾಂತಿಯಿಂದ । ಶೂಶುಜಾನಃ—ಪ್ರಕಾಶಿಸುವ । ಕಿತವಃ—ಜೂಜುಗಾರನು (ಇಲ್ಲಿ
+ಯಾವನಿರುವನೋ ಅವನನ್ನು) । ಜೇಷ್ಯಾಮಿ—ಜಯಿಸಬಲ್ಲೆನೇ । ಇತಿ—ಎಂಬುದಾಗಿ । ಪೃಚ್ಛಮಾನಃ—
+ತನ್ನಲ್ಲೇ ಪ್ರಶ್ನಿಸುತ್ತ । ಸಭಾಂ—ದ್ಯೋತದ ಕಟ್ಟೆಯನ್ನು । ಏತಿ—ಪ್ರವೇಶಿಸುತ್ತಾನೆ । ಪ್ರತಿದೀವ್ನೇ—ತನ್ನ ಪ್ರತಿ
+ಕಕ್ಷಿಗೆ ತೋರಿಸುವ । ಕೃತಾನಿ—ಸವಾಲಿನ ಕಾರ್ಯಗಳನ್ನು । ಆದಧತಃ—ಚಮತ್ಕಾರದಿಂದ ತೋರಿಸಿಕೊಡುವ ।
+ಅಸ್ಯ—ಈ ದ್ಯೋತಕಾರನ । ಕಾಮಂ—ಇಚ್ಛೆಯನ್ನು । ಅಕ್ಷಾಸಃ—ದಾಳಗಳು । ವಿ ತಿರಂತಿ—ಹೆಚ್ಚಾಗುವಂತೆ
+ಮಾಡುತ್ತವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ತನ್ನ ಶರೀರಕಾಂತಿಯಿಂದ ಪ್ರಕಾಶಿಸುವ ಜೂಜುಗಾರನು ಇಲ್ಲಿ ಯಾವನಿರುವನೋ ಅವನನ್ನು ಜಯಿಸ
+ಬಲ್ಲೆನೇ ಎಂಬುದಾಗಿ ತನ್ನಲ್ಲೇ ಪ್ರಶ್ನಿಸುತ್ತ ಜೂಜಿನ ಕಟ್ಟೆಯನ್ನು ಪ್ರವೇಶಿಸುತ್ತಾನೆ. ತನ್ನ ಪ್ರತಿಕಕ್ಷಿಗೆ ತನ್ನ ಸವಾ
+ಲಿನ ರೂಪದ ಚಮತ್ಕಾರಕಾರ್ಯಗಳನ್ನು ತೋರಿಸುವಾಗ ದಾಳಗಳು ಇವನ ದ್ಯೋತೇಚ್ಛೆಯನ್ನು ಇನ್ನೂ ಅಧಿಕವಾಗುವಂತೆ
+ಮಾಡುತ್ತವೆ.
+
+*English Translation.*
+
+The gamester goes to the gaming table, radiant in person, and asking himself, " Shall I win? " The dice increase his passion for play as he practises the arts of (gambling) with his adversary.
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಕ್ಷಾಸ ಇದಂಕುಶಿನೋ ನಿತೋದಿನೋ ನಿಕೃತ್ವಾನಸ್ತಪನಾಸ್ತಾಪಯಿಷ್ಣವಃ।
+> ಕುಮಾರದೇಷ್ಣಾ ಜಯತಃ ಪುನರ್ಹಣೋ ಮಧ್ವಾ ಸಂಪೃಕ್ತಾಃ ಕಿತವಸ್ಯ
+> ಬರ್ಹಣಾ ॥ ೭ ॥
+
+<!-- printed 864 -->
+*[864 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೫]*
+
+*[॥ ಪದಚಾರಿ ॥]*
+
+*ಪದಪಾಠಃ*
+
+> ಅಕ್ಷಾಸಃ । ಇತ್ । ಅಂಕುಶಿನಃ । ನಿತೋದಿನಃ । ನಿಕೃತ್ವಾನಃ । ತಪನಾಃ । ತಾಪಯಿಷ್ಣವಃ ।
+> ಕುಮಾರದೇಷ್ಣಾಃ । ಜಯತಃ । ಪುನಃಹನಃ । ಮಧ್ವಾ । ಸಂಪೃಕ್ತಾಃ । ಕಿತವಸ್ಯ । ಬರ್ಹಣಾ ॥೭॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಕ್ಷಾಸ ಇದಕ್ಷಾ ಏವಾಂಕುಶಿನೋಽಂಕುಶವಂತೋ ನಿತೋದಿನೋ ನಿತೋದಿತವಂತಶ್ಚ ನಿಕೃತ್ವಾನಃ ಪರಾಜಯೇ ನಿಕರ್ತನಶೀಲಾಶ್ವೇತ್ತಾರೋ ವಾ ತಪನಾಃ ಪರಾಜಯೇ ಕಿತವಸ್ಯ ಸಂತಾಪಕಾಸ್ತಾಪಯಿಷ್ಣವಃ ಸರ್ವಸ್ವಹಾರಕತ್ವೇನ ಕುಟುಂಬಸ್ಯ ಸಂತಾಪನಶೀಲಾಶ್ಚ ಭವಂತಿ । ಕಿಂಚ ಜಯತಃ
+> ಕಿತವಸ್ಯ ಕುಮಾರದೇಷ್ಣಾ ಧನದಾನೇನ ಧಾನ್ಯತಾಂ ಲಂಭಯಂತಃ ಕುಮಾರಾಣಾಂ ದಾತಾರೋ ಭವಂತಿ।
+> ಅಪಿ ಚ ಮಧ್ವಾ ಮಧುನಾ ಸಂಪೃಕ್ತಾಃ ಪ್ರತಿಕಿತವೇನ ಬರ್ಹಣಾ ಪರಿವೃದ್ಧೇನ ಸರ್ವಸ್ವಹರಣೇನ
+> ಕಿತವಸ್ಯ ಪುನರ್ಹಣಃ ಪುನರ್ಹಂತಾರೋ ಭವಂತಿ ॥
+*[॥ ಕೃತಿಪದಾರ್ಥ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಕ್ಷಾಸಃ ಇತ್—ಪಗಡೆದಾಳಗಳೇ । ಅಂಕುಶಿನಃ—ಅಂಕುಶವನ್ನು ಹೊಂದಿರುವವಾಗಿಯೂ । ನಿತೋ
+ದಿನಃ—ಇಕ್ಕಳಗಳನ್ನು ಹೊಂದಿರುವುದಾಗಿಯೂ । ನಿಕೃತ್ವಾನಃ—ಕತ್ತರಿಸುವ ಶಕ್ತಿಯುಳ್ಳವಾಗಿಯೂ । ತಪನಾಃ
+ದುಃಖಕಾರಕಗಳಾಗಿಯೂ । ತಾಪಯಿಷ್ಣವಃ—ಸಂಸಾರಕ್ಕೆಲ್ಲಾ ದುಃಖದಾಯಕವಾಗಿಯೂ ಇರುತ್ತವೆ ।
+ಜಯತಃ—ಜಯವನ್ನು ಹೊಂದುವ । ಕಿತವಸ್ಯ—ದ್ಯೂತಕಾರನಿಗೆ । ಕುಮಾರದೇಷ್ಣಾಃ—ಸಂತಾನವನ್ನು ಕೊಡ
+ತಕ್ಕವಾಗಿವೆ । ಮಧ್ವಾ—ಮಧುವಿನಿಂದ । ಸಂಪೃಕ್ತಾಃ—ಕೂಡಿರತಕ್ಕ ದಾಳಗಳು । ಬರ್ಹಣಾ—ಸರ್ವಸ್ವವನ್ನು
+ಅಪಹರಿಸುವುದರ ಮೂಲಕ (ಸೋತವನಿಗೆ) । ಪುನರ್ಹಣಃ—ತಿರುಗಿಯೂ ಸಾಯಿಸತಕ್ಕವಾಗಿರುತ್ತವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಪಗಡೆದಾಳಗಳು ಅಂಕುಶಗಳಂತೆಯೂ, ಇಕ್ಕಳಗಳಂತೆಯೂ ಕತ್ತರಿಸುತ್ತ ದ್ಯೋತಕಾರನಿಗೂ ಅವನ ಸಂಸಾ
+ರಕ್ಕೂ ಪೂರ್ಣವಾಗಿ ದುಃಖವನ್ನು ಕೊಡತಕ್ಕವಾಗಿರುತ್ತವೆ. ಮಧುಯುಕ್ತವಾದ ಈ ದಾಳಗಳು ಜಯವನ್ನು
+ಹೊಂದುವವನಿಗೆ ಸಂತಾನದಾಯಕಗಳಾಗಿಯೂ, ಸೋತವನಿಗೆ ಸರ್ವಸ್ವವನ್ನೂ ಅಪಹರಿಸುವುದರ ಮೂಲಕ ಹತ್ಯಾ
+ಕಾರಿಯಾಗಿಯೂ ಇರುತ್ತವೆ.
+
+*English Translation.*
+
+Dice verily are armed with hooks, with goads, pricking, paining and torturing (the gamester) : to the winning (player) they are the givers of sons, they are tipped with honey ; slaying him in return by taking away the gambler's (all).
+
+<!-- printed 865 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೪.] ಋಗ್ವೇದಸಂಹಿರಾ 865]*
+
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತ್ರಿಪಂಚಾಶಃ ಕ್ರೀಳತಿ ವ್ರಾತ ಏಷಾಂ ದೇವ ಇವ ಸವಿತಾ ಸತ್ಯಧರ್ಮಾ ।
+> ಉಗ್ರಸ್ಯ ಚಿನ್ಮನ್ಯವೇ ನಾ ನಮಂತೇ ರಾಜಾ ಚಿದೇಭ್ಯೋ ನಮ ಇತ್ಯೃಣೋತಿ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ತ್ರಿಪಂಚಾಶಃ । ಕ್ರೀಳತಿ । ವ್ರಾತಃ । ಏಷಾಂ । ದೇವಃ ಇವ । ಸವಿತಾ । ಸತ್ಯಧರ್ಮಾ ।
+> ಉಗ್ರಸ್ಯ । ಚಿತ್ । ಮನ್ಯವೇ । ನ । ನಮಂತೇ । ರಾಜಾ । ಚಿತ್ । ಏಭ್ಯಃ । ನಮಃ । ಇತ್ । ಕೃಣೋತಿ ॥೮॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಏಷಾಮಕ್ಷಾಣಾಂ ತ್ರಿಪಂಚಾಶಸ್ತ್ರ್ಯಧಿಕಪಂಚಾಶತ್ಸಂಖ್ಯಾಕೋ ವ್ರಾತಃ ಸಂಘಃ ಕ್ರೀಳತಿ ।
+> ಆಸ್ಫಾರೇ ವಿಹರತಿ । ಅಕ್ಷಿಕಾಃ ಪ್ರಾಯೇಣ ತಾವದ್ಧಿರಕ್ಷೈರ್ದಿರ್ಯ್ಯಂತಿ ಹಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಸತ್ಯಧರ್ಮಾ ಸವಿತಾ ಸರ್ವಸ್ಯ ಜಗತಃ ಪ್ರೇರಕಃ ಸೂರ್ಯೋ ದೇವ ಇವ । ಯಥಾ ಸವಿತಾ ದೇವೋ ಜಗತಿ
+> ವಿಹರತಿ ತದ್ವದಕ್ಷಾಣಾಂ ಸಂಘ ಆಸ್ಫಾರೇ ವಿಹರತೀತ್ಯರ್ಥಃ । ಕಿಂಚೋಗ್ರಸ್ಯ ಚಿತ್ ಕ್ರೂರಸ್ಯಾಪಿ
+> ಮನ್ಯವೇ ಕ್ರೋಧಾಯೈತೇಽಕ್ಷಾ ನ ನಮಂತೇ । ನ ಪ್ರಹ್ವೀಭವಂತಿ । ನ ವಶೇ ವರ್ತಂತೇ । ತಂ ನಮಯಂತೀತ್ಯರ್ಥಃ । ರಾಜಾ ಚಿಜ್ಜಗತ ಈಶ್ವರೋಽಪ್ಯೇಭ್ಯೋ ನಮ ಇನ್ನಮಸ್ಕಾರಮೇವ ದೇವನವೇಲಾಯಾಂ ಕೃಣೋತಿ । ನಾವಜ್ಞಾಂ ಕರೋತೀತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸತ್ಯಧರ್ಮಾ—ಸತ್ಯಾತ್ಮಕವಾದ ಧರ್ಮವುಳ್ಳವನೂ । ಸವಿತಾ—ಸರ್ವಜಗತ್ಪ್ರೇರಕನೂ ಆದ । ದೇವ
+ಇವ—ಸೂರ್ಯದೇವನಂತೆ । ತ್ರಿಪಂಚಾಶಃ—ಐವತ್ತುಮೂರು ಸಂಖ್ಯೆಯುಳ್ಳ । ಏಷಾಂ—ಈ ದಾಳಗಳ ।
+ವ್ರಾತಃ—ಸಂಘವು । ಕ್ರೀಳತಿ—ಆಟವಾಡುತ್ತವೆ । ಉಗ್ರಸ್ಯ ಚಿತ್—ಕ್ರೂರಸ್ವಭಾವವುಳ್ಳ ।
+ಮನ್ಯವೇ—ಯಾವನ ಕ್ರೋಧಕ್ಕೂ । ನ ನಮಂತೇ—ಇವು ಬೆದರಿ ಬಗ್ಗುವುದಿಲ್ಲ ! ರಾಜಾ ಚಿತ್—ದೊರೆಯಾ
+ದರೂ ಸಹ । ಐಭ್ಯಃ—ಇದಕ್ಕೆ । ನಮ ಇತ್—ನಮಸ್ಕಾರವನ್ನೇ । ಕೃಣೋತಿ—ಮಾಡುತ್ತಾನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಸತ್ಯಾತ್ಮಕವಾದ ಧರ್ಮವುಳ್ಳವನೂ, ಸರ್ವಜಗತ್ಪ್ರೇರಕನೂ ಆದ ಸವಿತೃವಿನಂತೆ ಐವತ್ತುಮೂರು ಸಂಖ್ಯೆ
+ಯುಳ್ಳ ಈ ದಾಳಗಳ ಸಂಘವು ಹಾಸಿನ ಮೇಲೆ ಆಟವಾಡುತ್ತದೆ. ಕ್ರೂರಸ್ವಭಾವವುಳ್ಳ ಯಾವನ ಕ್ರೋಧಕ್ಕೂ
+ಸಹ ಇವು ಬೆದರಿ ಬಗ್ಗುವುದಿಲ್ಲ. ದೊರೆಯೂ ಕೂಡ ಇವಕ್ಕೆ ನಮಸ್ಕಾರವನ್ನು ಮಾಡುತ್ತಾನೆ.
+xxvii 55
+
+<!-- printed 866 -->
+*[866 ಸಾಯಣಭಾಷ್ಯ ಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೪.]*
+
+
+*English Translation.*
+
+The aggregate fifty-three of them are played as the divine truth, observant Savitri, (travels): the dice bow not before the wrath of any, however violent ; a king himself pays them homage.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನೀಚಾ ವರ್ತಂತ ಉಪರಿ ಸ್ಪುರಂತ್ಯಹಸ್ತಾಸೋ ಹಸ್ತವಂತಂ ಸಹಂತೇ ।
+> ದಿವ್ಯಾ ಅಂಗಾರಾ ಇರಿಣೇ ನ್ಯುಪ್ತಾಃ ಶೀತಾಃ ಸಂತೋ ಹೃದಯಂ ನಿರ್ದಹಂತಿ ॥ ೯ ॥
+
+*ಪದಪಾಠಃ*
+
+> ನೀಚಾ । ವರ್ತಂತೇ । ಉಪರಿ । ಸ್ಪುರಂತಿ । ಅಹಸ್ತಾಸಃ । ಹಸ್ತವಂತಂ । ಸಹಂತೇ ।
+> ದಿವ್ಯಾಃ । ಅಂಗಾರಾಃ । ಇರಿಣೇ । ನಿಉಪ್ತಾಃ । ಶೀತಾಃ । ಸಂತಃ । ಹೃದಯಂ । ನಿಃ । ದಹಂತಿ ॥ ೯ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಪಿ ಚೈತೇಽಕ್ಷಾ ನೀಚಾ ನೀಚೀನಸ್ಥಲೇ ವರ್ತಂತೇ । ತಥಾಪ್ಯುಪರಿ ಪರಾಜಯಾದ್ಭೀತಾನಾಂ
+> ದ್ಯೋತಕರಾಣಾಂ ಕಿತವಾನಾಂ ಹೃದಯಸ್ಕೋಪರಿ ಸ್ಪುರಂತಿ । ಅಹಸ್ತಾಸೋ ಹಸ್ತರಹಿತಾ ಅಪ್ಯಕ್ಷಾ
+> ಹಸ್ತವಂತಂ ದ್ಯೂತಕರಂ ಕಿತವಂ ಸಹಂತೇ । ಪರಾಜಯಕರಣೇನಾಭಿಭವಂತಿ । ದಿವ್ಯಾ ದಿವಿ ಭವಾ
+> ಅಪಕೃತಾ ಅಂಗಾರಾ ಆಂಗಾರಸದೃಶಾ ಅಕ್ಷಾ ಇರಿಣ ಇಂಧನರಹಿತ ಆಸ್ಫಾರೇ ನ್ಯುಪ್ತಾಃ ಶೀತಾಃ ಶೀತಸ್ಪರ್ಶಾಃ ಸಂತೋಽಪಿ ಹೃದಯಂ ಕಿತವಾನಾಮಂತಃಕರಣಂ ನಿರ್ದಹಂತಿ । ಪರಾಜಯಜನಿತಸಂತಾಪೇನ
+> ಭಸ್ಮೀಕುರ್ವಂತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಅಕ್ಷಾಃ—ಈ ದಾಳಗಳು) । ನೀಚಾ—ಕೆಳಭಾಗದಲ್ಲಿಯೇ । ವರ್ತಂತೇ—ಇರುತ್ತವೆ (ಆದರೂ ಸಹ) ।
+ಉಪರಿ—ಅಪಜಯವನ್ನು ಹೊಂದಿದವನ ಮೇಲೆ ಹತ್ತಿ । ಸ್ಪುರಂತಿ—ಅವನನ್ನೂ ನಡುಗುವಂತೆ ಮಾಡುತ್ತವೆ ।
+ಅಹಸ್ತಾಸಃ—ಕೈಗಳಿಲ್ಲದಿದ್ದರೂ । ಹಸ್ತವಂತಂ—ಕೈಗಳನ್ನು ಹೊಂದಿರುವ ದ್ಯೋತಕಾರನನ್ನು । ಸಹಂತೇ—
+ಅವಮಾನಪಡಿಸುತ್ತವೆ । ದಿವ್ಯಾಃ—ದ್ಯುಲೋಕದಿಂದ ಎಸೆಯಲ್ಪಟ್ಟ । ಅಂಗಾರಾಃ—ಕೆಂಡಗಳಂತಿರುವ ಈ
+ದಾಳಗಳು । ಇರಿಣೇ—ಕಟ್ಟಿಗೆಗಳೇ ಇಲ್ಲದ ಹಾಸಿನ ಮೇಲೆ । ನ್ಯುಪ್ತಾಃ—ಎಸೆಯಲ್ಪಟ್ಟು । ಶೀತಾಃ ಸಂತಃ—
+ತಣ್ಣಗಿದ್ದರೂ । ಹೃದಯಂ—ದ್ಯೂತದಲ್ಲಿ ಸೋತವನ ಹೃದಯವನ್ನು । ನಿರ್ದಹಂತಿ—ಸುಡುತ್ತವೆ.
+
+<!-- printed 867 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 867]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ಪಗಡೆಯ ದಾಳಗಳು ಕೆಳಭಾಗದಲ್ಲಿದ್ದರೂ ಸೋತವನ ಮೇಲೆಯೇ ಇದ್ದಂತೆ ತೋರಿ ಅವನನ್ನು ನಡುಗವಂತೆ
+ತ್ತವೆ. ಅವಕ್ಕೆ ಕೈಗಳಿಲ್ಲದಿದ್ದರೂ, ಕೈಗಳನ್ನು ಹೊಂದಿರುವ ದ್ಯೂತಕಾರನನ್ನು ಅವಮಾನಗೊಳಿಸುತ್ತವೆ. ದ್ಯುಲೋಕ
+ದಿಂದ ಎಸೆಯಲ್ಪಟ್ಟ ಕೆಂಡಗಳಂತಿರುವ ಈ ದಾಳಗಳು ಕಟ್ಟಿಗೆಗಳೇ ಇಲ್ಲದ ಹಾಸಿನ ಮೇಲೆ ಎಸೆಯಲ್ಪಟ್ಟು ತಣ್ಣಗಿದ್ದರೂ
+ದ್ಯೂತದಲ್ಲಿ ಸೋತವನ ಹೃದಯವನ್ನು ಸುಡುತ್ತವೆ.
+
+*English Translation.*
+
+Now they abide below : now they palpitate on high ; handless, they overpower him who has hands : cast upon the dice-board like coals from the sky, even though cold they burn the heart.
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಜಾಯಾ ತಪ್ಯತೇ ಕಿತವಸ್ಯ ಹೀನಾ ಮಾತಾ ಪುತ್ರಸ್ಯ ಚರತಃ ಕ್ವ ಸ್ವಿತ್ ।
+> ಋಣಾವಾ ಬಿಭ್ಯದ್ಧನಮಿಚ್ಛಮಾನೋಽನ್ಯೇಷಾಮಸ್ತಮುಪ ನಕ್ತಮೇತಿ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಜಾಯಾ । ತಪ್ಯತೇ । ಕಿತವಸ್ಯ । ಹೀನಾ । ಮಾತಾ । ಪುತ್ರಸ್ಯ । ಚರತಃ । ಕ್ವ । ಸ್ವಿತ್ ।
+> ಋಣವಾ । ಬಿಭ್ಯತ್ । ಧನಂ । ಇಚ್ಛಮಾನಃ । ಅನ್ಯೇಷಾಂ । ಅಸ್ತಂ । ಉಪ । ನಕ್ತಂ । ಏತಿ ॥ ೧೦ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಕ್ವ ಸ್ವಿತ್ ಕ್ವಾಪಿ ಚರತೋ ನಿರ್ವೇದಾದ್ದಚ್ಛತಃ ಕಿತವಸ್ಯ ಜಾಯಾ ಭಾರ್ಯಾ ಹೀನಾ ಪರಿತ್ಯಕ್ತಾ
+> ಸತೀ ತಪ್ಯತೇ । ವಿಯೋಗಜಸಂತಾಪೇನ ಸಂತಪ್ತಾ ಭವತಿ । ಮಾತಾ ಜನನ್ಯಪಿ ಪುತ್ರಸ್ಯ ಕ್ವಾಪಿ ಚರತಃ
+> ಕಿತವಸ್ಯ ಸಂಬಂಧಾದ್ಧೀನಾ ತಪ್ಯತೇ । ಪುತ್ರಶೋಕೇನ ಸಂತಪ್ತಾ ಭವತಿ । ಋಣಾವಾಕ್ಷಪರಾಜಯಾದೃಣವಾನ್ ಕಿತವಃ ಸರ್ವತೋ ಬಿಭದ್ಧನಂ ಸ್ತೇಯಜನಿತಮಿಚ್ಛಮಾನಃ ಕಾಮಯಮಾನೋಽನ್ನೇಷಾಂ ಬ್ರಾಹ್ಮಣಾದೀನಾಮಸ್ತಂ ಗೃಹಂ । ಅಸ್ತಂ ಪಸ್ತ್ಯಮಿತಿ ಗೃಹನಾಮಸು ಪಾಠಾತ್ । ನಕ್ತಂ
+> ರಾತ್ರಾವಪುಪೈತಿ । ಚೌರ್ಯಾರ್ಥಮುಪಗಚ್ಛತಿ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಕ್ವಸ್ವಿತ್—ಮನಸ್ಸು ಬಂದ ಕಡೆ । ಚರತಃ—ಖಿನ್ನವಾಗಿ ಸಂಚರಿಸುವ । ಕಿತವಸ್ಯ—ದ್ಯೋತದಲ್ಲಿ
+ಸೋತವನ । ಜಾಯಾ—ಪತ್ನಿಯು । ಹೀನಾ—ಅವನಿಂದ ತ್ಯಜಿಸಲ್ಪಟ್ಟವಳಾಗಿ । ತಪ್ಯತೇ—ಪರಿತಾಪಪಡುತ್ತಾಳೆ।
+
+<!-- printed 868 -->
+*[868 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೪.]*
+
+ಮಾತಾ—ಅವನ ತಾಯಿಯೂ । ಪುತ್ರಸ್ಯ—ಗುರಿಯಿಲ್ಲದೇ ಅಲೆದಾಡುತ್ತಿರುವ ಮಗನಿಗಾಗಿ ದುಃಖಿಸುತ್ತಾಳೆ ।
+ಋಣಾವಾ—ಸಾಲದಲ್ಲಿ ಮುಳುಗಿದ ದ್ಯೋತಕಾರನು । ಬಿಭ್ಯದ್ಧನಂ—ಚೌರ್ಯದಿಂದಾದರೂ ಹಣವನ್ನು ಸಂಪಾದಿಸ
+ಬೇಕೆಂದು । ಇಚ್ಛಮಾನಃ—ತವಕದಿಂದ ಇಚ್ಛಿಸಿ । ಅನ್ಯೇಷಾಂ—ಇತರರ । ಅಸ್ತಂ—ಗೃಹಕ್ಕೆ । ನಕ್ತಂ—
+ರಾತ್ರಿಯಲ್ಲಿ । ಉಪೈತಿ—ಕದಿಯಲು ನುಗ್ಗುತ್ತಾನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ದ್ಯೋತದಲ್ಲಿ ಸೋತು ಖಿನ್ನನಾಗಿ ಮನಸ್ಸು ಬಂದಕಡೆ ಸಂಚರಿಸುವ ದ್ಯೋತಕಾರನ ಪತ್ನಿಯು ಅವನಿಂದ
+ತ್ಯಜಿಸಲ್ಪಟ್ಟವಳಾಗಿ ಪರಿತಾಪಪಡುತ್ತಾಳೆ. ಅವನ ತಾಯಿಯೂ ಗುರಿಯಿಲ್ಲದೇ ಅಲೆದಾಡುತ್ತಿರುವ ಮಗನಿಗಾಗಿ
+ದುಃಖಿಸುತ್ತಾಳೆ. ಸಾಲದಲ್ಲಿ ಮುಳುಗಿದ ದ್ಯೋತಕಾರನು ಚೌರ್ಯದಿಂದಾರೂ ಹಣವನ್ನು ಸಂಪಾದಿಸಬೇಕೆಂದು ತವಕ
+ದಿಂದ ಇಚ್ಛಿಸಿ ಇತರರ ಗೃಹಕ್ಕೆ ರಾತ್ರಿಯಲ್ಲಿ ಕದಿಯಲು ನುಗ್ಗುತ್ತಾನೆ.
+
+*English Translation.*
+
+The deserted wife of the gamester is afflicted : the mother (grieves) for the son wandering wherever he likes ; involved in debt, ever in fear, anxious for wealth, (the gambler) goes forth by night to the dwellings of others (to plunder).
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸ್ತ್ರಿಯಂ ದೃಷ್ಟ್ವಾ ಯ ಕಿತವಂ ತತಾಪಾನ್ವೇಷಾಂ ಜಾಯಾಂ ಸುಕೃತಂ ಚ
+> ಯೋನಿಂ ।
+> ಪೂರ್ವಾಹ್ನೇ ಅಶ್ವಾನ್ಯುಯುಜೇ ಹಿ ಬಭ್ರೂನ್ಸೋ ಅಗ್ನೇರಂತೇ ವೃಷಲಃ
+> ಪಪಾದ ॥ ೧೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಸ್ತ್ರಿಯಂ । ದೃಷ್ಟ್ವಾ ಯ । ಕಿತವಂ । ತತಾಪ । ಅನ್ವೇಷಾಂ । ಜಾಯಾಂ । ಸುಕೃತಂ । ಚ । ಯೋನಿಂ ।
+> ಪೂರ್ವಾಹ್ನೇ । ಅಶ್ವಾನ್ । ಯುಯುಜೇ । ಹಿ । ಬಭ್ರೂನ್ । ಸಃ । ಅಗ್ನೇಃ । ಅಂತೇ । ವೃಷಲಃ ।
+> ಪಪಾದ ॥ ೧೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಕಿತವಂ ಕಿತವಃ ॥ ವಿಭಕ್ತಿವ್ಯತ್ಯಯಃ ॥ ಅನ್ಯೇಷಾಂ ಸ್ವವ್ಯತಿರಿಕ್ತಾನಾಂ ಪುರುಷಾಣಾಂ ಜಾಯಾಂ
+> ಜಾಯಾಭೂತಾಂ ಸ್ತ್ರೀಯಂ ನಾರೀಂ ಸುಖೇನ ವರ್ತಮಾನಾಂ ಸುಕೃತಂ ಸುಷ್ಟು ಕೃತಂ ಯೋನಿಂ ಗೃಹಂ
+
+<!-- printed 869 -->
+*[ಆ, ೭. ಆ. ೮. ವ. ೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 869]*
+
+> ಚ ದೃಷ್ಟ್ವಾಯು ಮಜ್ಜಾಯಾ ದುಃಖಿತಾ ಗೃಹಂ ಚಾಸಂಸೃತಮಿತಿ ಜ್ಞಾತ್ವಾ ತತಾಪ । ತಪ್ಯತೇ । ಪುನಃ
+> ಪೂರ್ವಾಹ್ನೇ ಪ್ರಾತಃಕಾಲೇ ಬಭ್ರೂನ್ಬಭ್ರುವರ್ಣಾನಶ್ವಾನ್ವ್ಯಾಪಕಾನಕ್ಷಾನ್ಯುಯುಜೇ । ಯುನಕ್ತಿ ।
+> ಪುನಶ್ಚ ವೃಷಲೋ ವೃಷಲಕರ್ಮಾ ಸ ಕಿತವೋ ರಾತ್ರಾವಗ್ನೇರಂತೇ ಸಮೀಪೇ ಪಪಾದ । ಶೀತಾರ್ತಃ
+> ಸಇತ್ಥೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಕಿತವಂ—ಜೂಜಾಡುವವನು । ಅನ್ಯೇಷಾಂ—ದ್ಯೋತವ್ಯಸನವಿಲ್ಲದ ಇತರರ । ಜಾಯಾಂ—ಪತ್ನಿಯ
+ರಾದವರೂ । ಸ್ತ್ರಿಯಂ—ಸುಖವನ್ನನುಭವಿಸುವವರೂ ಆದ ಹೆಂಗಸರನ್ನೂ । ಸುಕೃತಂ—ಉತ್ತಮವಾಗಿ
+ಅಲಂಕರಿಸಿದ । ಯೋನಿಂ ಚ—ಗೃಹವನ್ನೂ । ದೃಷ್ಟ್ವಾಯು—ನೋಡಿದೊಡನೆಯೇ । ತತಾಪ—ದುಃಖಪಡು
+ತ್ತಾನೆ । ಪೂರ್ವಾಹ್ನೇ—ಪ್ರಾತಃಕಾಲದಲ್ಲಿ । ಬಭ್ರೂನ್—ಹೊಂಬಣ್ಣವುಳ್ಳ । ಅಶ್ವಾನ್—ಅಶ್ವಗಳನ್ನು
+(ದಾಳಗಳನ್ನು) । ಯುಯುಜೇ—ಸೇರಿಸುತ್ತಾನೆ । ವೃಷಲಃ—ಕೆಳದರ್ಜೆಯ ಕರ್ಮವುಳ್ಳ । ಸಃ—ಅದೇ
+ಪುರುಷನು । (ರಾತ್ರೌ—ರಾತ್ರಿಕಾಲದಲ್ಲಿ) । ಅಗ್ನೇಃಅಂತೇ—ಅಗ್ನಿಯ ಸಮೀಪದಲ್ಲಿ । ಪಪಾದ—ಚಳಿಯನ್ನು
+ಹೋಗಲಾಡಿಸಿಕೊಳ್ಳಲು ಮಲಗುತ್ತಾನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ದ್ಯೋತವ್ಯಸನವಿಲ್ಲದವನು ತನ್ನ ಪತ್ನಿಯನ್ನು ಸುಖವಾಗಿಟ್ಟಿರುತ್ತಾನೆ. ತನ್ನ ಗೃಹವನ್ನು ಸುಸಂಸ್ಕೃತ
+ವನ್ನಾಗಿ ಮಾಡಿ ಅಲಂಕರಿಸಿರುತ್ತಾನೆ. ಜೂಜಾಡುವವನು ಇದನ್ನೆಲ್ಲ ನೋಡಿದರೆ ತಾನು ಹೀಗೆ ಮಾಡಲಿಲ್ಲವಲ್ಲ
+ಎಂಬ ದುಃಖದಿಂದ ಕೊರಗುತ್ತಾನೆ. ಪ್ರಾತಃಕಾಲದಲ್ಲಿ ದಾಳಗಳಿಂದ ಆಟವಾಡುತ್ತಾನೆ. ರಾತ್ರಿಕಾಲದಲ್ಲಿ ಅಗ್ನಿಯ
+ಸಮೀಪದಲ್ಲಿ ಚಳಿಯನ್ನು ಹೋಗಲಾಡಿಸಿಕೊಳ್ಳಲು ಮಲಗುತ್ತಾನೆ.
+
+*English Translation.*
+
+The gamester, having observed the happy wife and well-ordered home of others, suffers regret : yet in the forenoon he puts to the tawny steeds, and at night the sinner lies down by the fire,
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೋ ವಃ ಸೇನಾನೀರ್ಮಹತೋ ಗಣಸ್ಯ ರಾಜಾ ವ್ರಾತಸ್ಯ ಪ್ರಥಮೋ
+> ಬಭೂವ ।
+> ತಸ್ಮೈ ಕೃಣೋಮಿ ನ ಧನಾ ರುಣಧ್ಮಿ ದಶಾಹಂ ಪ್ರಾಚೀಸ್ತದೃತಂ
+> ವದಾಮಿ ॥ ೧೨ ॥
+
+<!-- printed 870 -->
+*[870 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೪]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಯಃ । ವಃ । ಸೇನಾನೀಃ । ಮಹತಃ । ಗಣಸ್ಯ । ರಾಜಾ । ವ್ರಾತಸ್ಯ । ಪ್ರಥಮಃ । ಬಭೂವ ।
+> ತಸ್ಯೈ । ಕೃಣೋಮಿ । ನ । ಧನಾ । ರುಣಧ್ಮಿ । ದಶ । ಅಹಂ । ಪ್ರಾಚೀಃ । ತತ್ । ಋತಂ । ವದಾಮಿ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಕ್ಷಾ ವೋ ಯುಷ್ಮಾಕಂ ಮಹತೋ ಗಣಸ್ಯ ಸಂಘಸ್ಯ ಯೋಽಕ್ಷಃ ಸೇನಾನೀರ್ನೇತಾ
+> ಬಭೂವ ಭವತಿ ವ್ರಾತಸ್ಯ ಚ । ಗಣವ್ರಾತಯೋರಲ್ಲೋ ಭೇದಃ । ರಾಜೇಶ್ವರಃ ಪ್ರಥಮೋ ಮುಖ್ಯೋ
+> ಬಭೂವ ತಸ್ಮಾ ಅಕ್ಷಾಯ ಕೃಣೋಮ್ಯಹಂ । ಅಂಜಲಿಂ ಕರೋಮಿ । ಅತಃ ಪರಂ ಧನಾ ಧನಾನ್ಯಕ್ಷಾರ್ಥಮಹಂ ನ ರುಣಧ್ಮಿ । ನ ಸಂಪಾದಯಾಮೀತ್ಯರ್ಥಃ । ಏತದೇವ ದರ್ಶಯತಿ । ಆಹಂ ದಶ
+> ದಶಸಂಖ್ಯಾಕಾ ಅಂಗುಲೀಃ ಪ್ರಾಚೀಃ ಪ್ರಾಙ್ಮುಖಿ ಕರೋಮಿ । ತದೇತದಹಮೃತಂ ಸತ್ಯಮೇವ
+> ವದಾಮಿ । ನಾನೃತಂ ಬ್ರವೀಮೀತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ದಾಳಗಳೇ) ವಃ—ನಿಮ್ಮ । ಮಹತಃ—ಮಹತ್ತಾದ । ಗಣಸ್ಯ—ಸಂಘಕ್ಕೆ । ಯಃ—ಯಾರು ।
+ಸೇನಾನೀಃ—ಸೇನಾಪತಿಯಾಗಿ । ಬಭೂವ—ಆಗಿರುವನೋ । ವ್ರಾತಸ್ಯ—ನಿಮ್ಮ ಗಣಕ್ಕೆ । ರಾಜಾ—
+ಈಶ್ವರನಾಗಿಯೂ । ಪ್ರಥಮಃ—ಮುಖ್ಯನಾಗಿಯೂ ಇರುವನೋ । ತಸ್ಮೈ—ಆ ದಾಳರಾಜನಿಗೆ । ಕೃಣೋಮಿ—
+ನಮಸ್ಕರಿಸುತ್ತೇನೆ । ಧನಾ—ಧನಗಳನ್ನು । ನ ರುಣಧ್ಮಿ—(ಅವನಿಗೋಸ್ಕರ) ಇನ್ನು ಸಂಪಾದಿಸುವುದಿಲ್ಲ ।
+ಅಹಂ—ನಾನು । ದಶ—ಹತ್ತು ಬೆರಳುಗಳನ್ನೂ । ಪ್ರಾಚೀಃ—ಪೂರ್ವಾಭಿಮುಖವಾಗಿ ಎತ್ತುತ್ತೇನೆ । ತತ್—
+ಇದನ್ನು । ಋತಂ—ಸತ್ಯವಾಗಿಯೂ । ವದಾಮಿ—ಹೇಳುತ್ತೇನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ದಾಳಗಳೇ, ನಿಮ್ಮ ಮಹತ್ತಾದ ಸಂಘಕ್ಕೆ ಯಾರು ಸೇನಾಪತಿಯಾಗಿರುವನೋ, ನಿಮ್ಮ ಗಣಕ್ಕೆ
+ಯಾರು ಪ್ರಭುವೂ ಮುಖ್ಯನೂ ಆಗಿರುವನೋ ಆ ದಾಳರಾಜನಿಗೆ ನಮಸ್ಕಾರವು. ಇನ್ನು ಅವನಿಗಾಗಿ ಧನವನ್ನು
+ಸಂಪಾದಿಸುವುದಿಲ್ಲ. ಎರಡು ಕೈಗಳನ್ನು ಪೂರ್ವಾಭಿಮುಖವಾಗಿ ಜೋಡಿಸಿ ಅವನಿಗೆ ನಮಸ್ಕರಿಸುತ್ತೇನೆ. ಇದನ್ನು
+ಸತ್ಯವಾಗಿಯೂ ಹೇಳುತ್ತೇನೆ.
+
+*English Translation.*
+
+Dice, I offer salutation to him who has been the general of your great army, the chief lord of your host : I do not provide him with wealth : I raise my ten (fingers) to the east; that (which) I speak (is) the truth,
+
+<!-- printed 871 -->
+*[ಅ. ೭ ಆ. ೮. ವ. ೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 871]*
+
+
+#### ಋಕ್ ೧೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಕ್ಷೈರ್ಮಾ ದೀವ್ಯಃ ಕೃಷಿಮಿತ್ಕೃಷಸ್ವ ವಿತ್ತೇ ರಮಸ್ವ ಬಹು ಮನ್ಯಮಾನಃ।
+> ತತ್ರ ಗಾವಃ ಕಿತವ ತತ್ರ ಜಾಯಾ ತನ್ನೇ ವಿ ಚಷ್ಟೇ ಸವಿತಾಯಮರ್ಯಃ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಕ್ಷೈಃ । ಮಾ । ದೀವ್ಯಃ । ಕೃಷಿಂ । ಇತ್ । ಕೃಷಸ್ವ । ವಿತ್ತೇ । ರಮಸ್ವ । ಬಹು । ಮನ್ಯಮಾನಃ ।
+> ತತ್ರ । ಗಾವಃ । ಕಿತವ । ತತ್ರ । ಜಾಯಾ । ತತ್ । ಮೇ । ವಿ । ಚಷ್ಟೇ । ಸವಿತಾ । ಅಯಂ ।
+> ಆರ್ಯಃ ॥ ೧೩ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಕಿತವ ಬಹು ಮನ್ಯಮಾನೋ ಮದ್ವಚನೇ ವಿಶ್ವಾಸಂ ಕುರ್ವಂಸ್ತ್ವಮಕ್ಷೈರ್ಮಾ ದೀವ್ಯಃ ।
+> ದ್ಯೂತಂ ಮಾ ಕುರು । ಕೃಷಿಮಿತ್ಕೃಷಿಮೇವ ಕೃಷಸ್ವ । ಕುರು । ವಿತ್ತೇ ಕೃಷ್ಯಾ ಸಂಪಾದಿತೇ ಧನೇ
+> ರಮಸ್ವ । ಮತಿಂ ಕುರು । ತತ್ರ ಕೃಷೌ ಗಾವೋ ಭವಂತಿ । ತತ್ರ ಜಾಯಾ ಭವತಿ । ತದೇವ ಧರ್ಮರಹಸ್ಯಂ
+> ಪ್ರತಿಸ್ಮೃತಿಕರ್ತಾ ಸವಿತಾ ಸರ್ವಸ್ಯ ಪ್ರೇರಕೋಽಯಂ ಶ್ರು ದೃಷ್ಟಿಗೋಚರೋಽರ್ಯ ಈಶ್ವರೋ ವಿ
+> ಚಷ್ಟೇ । ವಿವಿಧಮಾಖ್ಯಾತವಾನ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಕಿತವ—ಎಲೈ ದ್ಯೂತಕಾರನೇ । ಬಹು ಮನ್ಯಮಾನಃ—ನನ್ನ ಮಾತಿಗೆ ಮರ್ಯಾದೆಯನ್ನು ತೋರಿಸಿ
+(ಅದನ್ನು ನಂಬಿ) । ಅಕ್ಷೈಃ—ದಾಳಗಳಿಂದ । ಮಾ ದೀವ್ಯಃ—ಜೂಜನ್ನಾಡಬೇಡ । ಕೃಷಿಮಿತ್—ಕೇವಲ
+ನೆಲದ ವ್ಯವಸಾಯವನ್ನೇ । ಕೃಷಸ್ವ—ಮಾಡು । ವಿತ್ತೇ—ಅದರಿಂದ ಸಂಪಾದಿತವಾದ ಧನದಿಂದ । ರಮಸ್ವ—
+ಸಂತೋಷವನ್ನನುಭವಿಸು । ತತ್ರ—ಅಲ್ಲಿ । ಗಾವಃ—ಗೋವುಗಳು ಇರುತ್ತವೆ । ತತ್ರ—ಅಲ್ಲಿ । ಜಾಯಾ—
+ಪತ್ನಿಯಿರುತ್ತಾಳೆ । ತತ್—ಈ ಉಪದೇಶವನ್ನೇ । ಸವಿತಾ—ಸರ್ವಪ್ರೇರಕನಾದವನೂ । ಅರ‍್ಯಃ—ಜಗದೀಶ್ವರನೂ
+ಆದ । ಅಯಂ—ಈ ಸೂರದೇವನು । ಮೇ—ನನಗೆ । ವಿ ಚಷ್ಟೇ—ಅನೇಕವಿಧದಲ್ಲಿ ಹೇಳಿ ತಿಳಿಸಿದ್ದಾನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ದ್ಯೋತಕಾರನೇ, ನನ್ನ ಮಾತನ್ನು ನಂಬು. ಅದಕ್ಕೆ ಮರ್ಯಾದೆಯನ್ನು ತೋರಿಸಿ ಅದರಂತೆ
+ನಡೆದುಕೊ. ದಾಳಗಳಿಂದ ದ್ಯೋತವನ್ನಾಡಬೇಡ. ಕೇವಲ ಭೂಮಿಯ ವ್ಯವಸಾಯವನ್ನೇ ಮಾಡು. ಅದರಿಂದ
+ಸಂಪಾದಿತವಾದ ಧನದಿಂದ ಸಂತೋಷವನ್ನುನುಭವಿಸು. ಅಲ್ಲಿ ಪಶುಗಳು ಇರುತ್ತವೆ. ಅಲ್ಲಿ ಪತ್ನಿಯಿರುತ್ತಾಳೆ.
+ಈ ಉಪದೇಶವನ್ನೇ ಜಗತ್ಪೇರಕನೂ ಜಗದೀಶ್ವರನೂ ಆದ ಸವಿತೃವು ನನಗೆ ಹೇಳಿದನು.
+
+<!-- printed 872 -->
+*[872 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ ] ಮ. ೧೦. ಅ. ೩. ಸೂ- ೩೪]*
+
+
+*English Translation.*
+
+Giving serious attention (to my advice), play not with dice : pursue agriculture : delight in wealth (so acquired): there, gambler, are cows ; there is a wife ; so has this (visible) sovereign Savitri declared to me.
+*[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೧೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಮಿತ್ರಂ ಕೃಣುದ್ಧಂ ಖಲು ಮೃಳತಾ ನೋ ಮಾ ನೋ ಘೋರೇಣ ಚರತಾಭಿ
+> ಧೃಷ್ಣು ।
+> ನಿ ವೋ ನು ಮನ್ಯುರ್ವಿಶತಾಮರಾತಿರನ್ನೋ ಬಭ್ರೂಣಾಂ ಪ್ರಸಿತ್ ನ್ವಸ್ತು ॥
+
+*ಪದಪಾಠಃ*
+
+> ಮಿತ್ರಂ । ಕೃಣುಧ್ವಂ ಖಲು । ಮೃಳತ । ನಃ । ಮಾ । ನಃ । ಘೋರೇಣ । ಚರತ । ಅಭಿ । ಧೃಷ್ಣು ।
+> ನಿ । ವಃ । ನು । ಮನ್ಯುಃ । ಏಶತಾಂ । ಅರಾತಿಃ । ಅನ್ಯಃ । ಬಭ್ರೂಣಾಂ । ಪ್ರಸಿತ್ । ನು । ಅಸ್ತು ॥
+*[೧ ಸಾಯಣಭಾಷ್ಪಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಕ್ಷಾಃ ಯೂಯಂ ಮಿತ್ರಂ ಕೃಣುಧ್ವಂ । ಆಸ್ಮಾಸು ಮೈತ್ರೀಂ ಕುರುತ। ಖಲ್ವಿತಿ ಪೂರಣಃ ।
+> ನೋಽಸ್ಮಾನ್ಮೃಳತ । ಸುಖಯತ ಚ । ನೋಽಸ್ಮಾನ್ದೃಷ್ಟು ಧೃಷ್ಣುನಾ । ತೃತೀಯಾರ್ಥೇ ಪ್ರಥಮಾ ।
+> ಘೋರೇಣಾಸಹ್ಯೇನ ಮಾಭಿ ಚರತ । ಮಾ ಗಚ್ಛತ, ಕಿಂಚ ವೋ ಯುಷ್ಮಾಕಂ ಮನ್ಯುಃ ಕ್ರೋಧೋಽರಾತಿರಸ್ಮಾಕಂ ಶುತ್ರುರ್ನಿ ವಿಶತಾಂ । ಅಸ್ಮಚ್ಛತುಷು ತಿಷ್ಠತು । ಅನ್ನೋಽಸ್ಮಾಕಂ ಶತ್ರುಃ ಕಶ್ಚಿದ್ಭ್ರೂಣಾಂ
+> ಬಭ್ರುವರ್ಣಾನಾಂ ಯುಷ್ಮಾಕಂ ಪ್ರಸಿತ್ ಪ್ರಬಂಧನೇ ನು ಕ್ಷಿಪ್ರಮಸ್ತು । ಭವತು ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ದಾಳಗಳೇ) ಮಿತ್ರಂ—ನಮ್ಮಲ್ಲಿ ಮಿತ್ರತ್ವವನ್ನು । ಕೃಣುಧ್ವಂ—ಬೆಳೆಸಿರಿ । ನಃ—ನಮ್ಮನ್ನು ।
+ಮೃಳತ—ಸುಖಪಡಿಸಿರಿ । ನಃ—ನಮ್ಮನ್ನು । ಘೋರೇಣ—ತೀವ್ರವಾದ । ಧ್ಯುಷ್ಣು—ಕ್ರೋಧದೊಡನೆ ।
+ಮಾ ಅಭಿ ಚರತ—ಸಮೀಪಿಸಬೇಡಿರಿ । ವಃ—ನಿಮ್ಮ । ಮನ್ಯುಃ—ಕ್ರೋಧವು। ಅರಾತಿಃ — ನಮ್ಮ ಶತ್ರುಗಳಲ್ಲಿ ।
+ನಿ ವಿಶತಾಂ—ಸ್ಥಾಪಿತವಾಗಲಿ । ಅನ್ಯಃ—ನಮ್ಮ ಶತ್ರುವಾದವನು । ಬಭ್ರೂಣಾಂ—ಹೊಂಬಣ್ಣವುಳ್ಳ ನಿಮ್ಮ ।
+ಪ್ರಸಿತಾ — ಬಂಧನದಲ್ಲಿ । ನು—ಕ್ಷಿಪ್ರವಾಗಿ । ಅಸ್ತು—ಸಿಕ್ಕಿಕೊಳ್ಳಲಿ.
+
+<!-- printed 873 -->
+*[ಅ. ೮. ಅ. ೮. ವ. ೬] ಋಗ್ವೇದಸಂಹಿತಾ 873]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ದಾಳಗಳೇ, ನಮ್ಮಲ್ಲಿ ಮಿತ್ರತ್ವವನ್ನು ಬೆಳೆಸಿರಿ. ನಮ್ಮನ್ನು ಸುಖಪಡಿಸಿರಿ. ನಮ್ಮನ್ನು ತೀವ್ರವಾದ
+ಕ್ರೋಧದೊಡನೆ ಸಮೀಪಿಸಬೇಡಿರಿ. ನಿಮ್ಮ ಕ್ರೋಧವು ನಮ್ಮ ಶತ್ರುಗಳಲ್ಲಿ ಸ್ಥಾಪಿತವಾಗಲಿ. ನಮ್ಮ ಶತ್ರುವಾದ
+ವನು ಆಕರ್ಷಕವಾದ ವರ್ಣವುಳ್ಳ ನಿಮ್ಮ ಬಂಧನದಲ್ಲಿ ಬೇಗನೆ ಸಿಕ್ಕಿಕೊಳ್ಳಲಿ.
+
+*English Translation.*
+
+Be friends with us (Dice) ; bestow upon us happiness; approach us not in terrible wrath ; let your anger light upon our enemies; let our enemy fall under the bondage of the tawny (dice).
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of swirls and curves.]*
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಮೂವತ್ತೈದನೆಯ ಸೂಕ್ತವು
+> ಅಬುದ್ಧಮಿತಿ ಚತುರ್ದಶರ್ಚಂ ಷಷ್ಠಂ ಸೂಕ್ತಂ । ಧನಾಕಪುತ್ರಸ್ಯ ಲುಶಸ್ಯಾರ್ಷಂ । ಇದಮುತ್ತರಂ ಚ ವೈಶ್ವದೇವಂ । ತ್ರಯೋದಶೀಚತುರ್ದಶ್ಯೌ ತ್ರಿಷ್ಟುಭೌ ಶಿಷ್ಟಾ ದ್ವಾದಶ ಜಗತ್ಯಃ । ತಥಾ
+> ಚಾನುಕ್ರಾಂತಂ । ಅಬುಧ್ರಂ ಲುಶೋ ಧಾನಾಕೋ ವೈಶ್ವದೇವಂ ತು ದ್ವಿತ್ರಿಷ್ಟುಬಂತಂ ತ್ವಿತಿ ॥ ಗತಃ
+> ಸೂಕ್ತವಿನಿಯೋಗಃ ॥ ಏಕಾದಶಿನಸ್ಯ ವೈಶ್ವದೇವಸ್ಯ ಪಶೋರ್ವಪಾಯಾಗಸ್ಯಾನುವಾಕ್ಯಾ ವಿಶ್ವೇ ಅದ್ಯೇತ್ಯೇಷಾ । ಸೂತ್ರಿತಂ ಚ । ವಿಶ್ವೇ ಅದ್ಯ ಮರುತೋ ವಿಶ್ವ ಊತ್ಯಾ ನೋ ದೇವಾನಾಮುಪ ವೇತು ಶಂಸಃ ।
+> ಆ. ೩-೭ । ಇತಿ ॥
+ಅನುವಾದವು—ಅಬುದ್ಧಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಆರನೆಯ ಸೂಕ್ತವು
+ಇದರಲ್ಲಿ ಹದಿನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಧನಾಕನೆಂಬುವನ ಪುತ್ರನಾದ ಲುಶನೆಂಬುವನು
+ಋಷಿಯು. ಈ ಸೂಕ್ತಕ್ಕೂ ಇದರ ಮುಂದಿನ ಸೂಕ್ತಕ್ಕೂ ವಿಶ್ವೇದೇವತೆಗಳು ದೇವತೆಯು. ಈ ಸೂಕ್ತದ
+ಹದಿಮೂರು ಮತ್ತು ಹದಿನಾಲ್ಕನೆಯ ಋಕ್ಕುಗಳು ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಉಳಿದ ಹನ್ನೆರಡು ಋಕ್ಕುಗಳು
+ಜಗತೀಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ-ಅಬುದ್ಧಂ ಲುಶೋ ಧಾನಾಕೋ ವೈಶ್ವದೇವಂ ತು ದ್ವಿತ್ರಿಷ್ಟುಬಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ ಏಕಾದಶಿನ್ ಎಂಬ ಯಾಗದಲ್ಲಿ
+ವಿಶ್ವೇದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ಮಾಡುವ ಪಶುಹೋಮದಲ್ಲಿ ವಪಾಹೋಮಮಾಡುವಾಗ ವಿಶ್ವೇ ಅದ್ಯ ಎಂಬ ಈ
+ಸೂಕ್ತದ ಹದಿಮೂರನೆಯ ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದವಿಶ್ವೇ ಅದ್ಯ ಮರುತೋ ವಿಶ್ವ ಊತ್ಯಾ ನೋ ದೇಮಾನಾಮುಪ ವೇತು ಶಂಶಃ ಎಂಬ ಸೂತ್ರದಿಂದ
+(ಆ. ೩ ೭) ವಿವೃತವಾಗಿರುವುದು
+
+<!-- printed 874 -->
+*[874 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೫]*
+
+## ಸೂಕ್ತ ೩೫ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ—೩೫
+ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩ ॥ ಸೂಕ್ತ—೩೫ ॥
+ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ ೬, ೭, ೮ ॥
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೪ ॥
+'ಋಷಿ!—ಲುಶೋ ಧಾನಾಕಃ ॥
+ದೇವತಾ—ವಿಶ್ವೇ ದೇವಾಃ॥
+ಛಂದಃ—೧-೧೨. ಜಗತೀ ॥ ೧೩-೧೪. ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಬುದ್ಧಮು ತ್ಯ ಇಂದ್ರವಂತೋ ಅಗ್ನಯೋ ಜ್ಯೋತಿರ್ಭರಂತ ಉಷಸೋ
+> ವೃಷ್ಟಿಸು ।
+> ಮಹೀ ದ್ಯಾವಾಪೃಥಿವೀ ಚೇತತಾಮಪೋಽದ್ಯಾ ದೇವಾನಾಮವ ಆ ವೃಣೇಮಹೇ ॥ ೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಬುದ್ಧಂ । ಊಂ ಇತಿ । ತ್ಯೇ । ಇಂದ್ರವಂತಃ । ಅಗ್ನಯಃ । ಜ್ಯೋತಿಃ । ಭರಂತಃ । ಉಷಸಃ ।
+> ವಿಉಷ್ಟಿಷು ।
+> ಮಹೀ ಇತಿ । ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ । ಚೇತತಾಂ । ಅಪಃ । ಅದ್ಯ । ದೇವಾನಾಂ । ಅವಃ । ಆ ।
+> ವೃಣೀಮಹೇ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಇಂದ್ರವಂತೋ ಯಷ್ಟವ್ಯತ್ವೇನೇಂದ್ರಸಂಬಂಧಿನಸ್ಯೇ ತೇಽಮೀ ಆಹವನೀಯಾದಯೋಽಗ್ನಯ
+> ಉಷಸೋ ವ್ಯುಷ್ಟಿಷು ವ್ಯುಚ್ಛನೇಷು ತಮಸಾಂ ವಿವಾಸನಕಾಲೇಷು ಜ್ಯೋತಿಸ್ತೇಜೋ ಭರಂತೋ
+> ಧಾರಯಂತೋಽಬುಧ್ರಂ । ಪ್ರಬುದ್ಧಾ ಆಸನ್ । ಮಹೀ ಮಹತ್ಯೌ ದ್ಯಾವಾಪೃಥಿವ್ಯಾವಪಃ ಕರ್ಮ ।
+> ಅಪೋಽಪ್ನ ಇತಿ ಕರ್ಮನಾಮಸು ಪಾಠಾತ್ । ಚೇತತಾಂ । ಜಾನೀತಾಂ । ಅದ್ಯಾಸ್ಮಿನ್ನಹನಿ ದೇವಾನಾಮಿಂದ್ರಾದೀನಾಮವೋ ರಕ್ಷಣಂ ವಯಮಾ ವೃಣೀಮಹೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇಂದ್ರವಂತಃ—ಇಂದ್ರನಿಗೆ ಸಂಬಂಧಿಸಿದವೂ । ತೈ—ಪ್ರಸಿದ್ಧವಾದವೂ ಆದ । ಆಗ್ನಯಃ—
+ಆಹವನೀಯಾದ್ಯಗ್ನಿಗಳು ! ಉಷಸಃ ವ್ಯುಷ್ಟಿಷು—ಉಷಸ್ಸಿನ ಆವಿರ್ಭಾವಕಾಲಗಳಲ್ಲಿ । ಜ್ಯೋತಿಃ—ತಮ್ಮ ।
+
+<!-- printed 875 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 875]*
+
+ತೇಜಸ್ಸನ್ನು । ಭರಂತಃ—ಧರಿಸಿಕೊಂಡು । ಅಬುಧ್ರಂ—ಆವಿರ್ಭವಿಸಿವೆ । ಮಹಿ—ಮಹತ್ತ್ವರೂಪವುಳ್ಳ ।
+ದ್ಯಾವಾಪೃಥಿವೀ—ದ್ಯಾವಾಪೃಥಿವಿಗಳು । ಅಪಃ—ತಮ್ಮ ಕರ್ಮಗಳನ್ನು । ಚೇತತಾಂ—ಅರಿಯಲಿ । ಅದ್ಯ—
+ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ದೇವಾನಾಂ—ದೇವತೆಗಳ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ಆ ವೃಣೇಮಹೇ—ನಾವು
+ಯಾಚಿಸುತ್ತೇವೆ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಇಂದ್ರನನ್ನು ಪೂಜಿಸತಕ್ಕವೂ, ಪ್ರಸಿದ್ಧವಾದವೂ ಆದ ಅಹವನೀಯಾದ್ಯಗ್ನಿಗಳು ಉಪಸ್ಸಿನ ಆವಿರ್ಭಾವ
+ಕಾಲದಲ್ಲಿ ತಮ್ಮ ತೇಜಸ್ಸಿನಿಂದ ಸಹಿತವಾಗಿ ಆವಿರ್ಭವಿಸಿವೆ. ಮಹತ್ಸ್ವರೂಪವುಳ್ಳ ದ್ಯಾವಾಪೃಥಿವಿಗಳು ತಮ್ಮ
+ಕರ್ತವ್ಯಗಳನ್ನು ಅರಿಯಲಿ. ಈ ಯಾಗಕಾಲದಲ್ಲಿ ನಾವು ದೇವತೆಗಳ ರಕ್ಷಣವನ್ನು ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+The fires that are connected with Indra are awake, bringing light at
+the opening of the dawn : let the great heaven and earth be cognizant of
+that office : to-day we solicit the protection of the gods.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ದಿವಸ್ಪೃಥಿವ್ಯೋರವ ಆ ವೃಣೇಮಹೇ ಮಾತ್ಸ್ಯನ್ನೂನ್ಪರ್ವತಾಞ್ರ್ಯಯಣಾವತಃ ।
+> ಅನಾಗಾಸ್ತ್ವಂ ಸೂರ್ಯಮುಷಾಸಮೀಮಹೇ ಭದ್ರಂ ಸೋಮಃ ಸುವಾನೋ
+> ಅದ್ಯಾ ಕೃಣೋತು ನಃ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ದಿವಃ ಪೃಥಿವ್ಯೋಃ । ಅವಃ । ಆ । ವೃಣೇಮಹೇ । ಮಾತ್ಸ್ಯನ್ । ಸಿಂಧೂನ್ । ಪರ್ವತಾನ್ । ಶರ್ಯಣಾವತಃ ।
+> ಅನಾಗಾಃತ್ವಂ । ಸೂರ್ಯಂ । ಉಷಸಂ । ಈಮಹೇ । ಭದ್ರಂ । ಸೋಮಃ । ಸುವಾನಃ । ಅದ್ಯ ।
+> ಕೃಣೋತು । ನಃ ॥ ೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ದಿವಃಪೃಥಿವ್ಯೋರ್ದ್ಯಾವಾಪೃಥಿವ್ಯೋಃ ಕಾರ್ಯತ್ವೇನ ಸಂಬಂಧ್ಯವೋ ರಕ್ಷಣಂ ವಯಮಾ
+> ವೃಣೀಮಹೇ । ಕಿಂಚ ಮಾತ್ಯಲ್ಲೋಕಸ್ಯ ನಿರ್ಮಾತ್ಪಾನ್ಸಿಂಧೂಞ್ರ್ಯಾರ್ಯಣಾವತಃ ಸರಸಃ ಸಂಬಂಧಿನಃ
+
+<!-- printed 876 -->
+*[876 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂಕ್ತ. ೩೫]*
+
+> ಪರ್ವತಾಇಲ್ಯೋಚ್ಚಯಾಂಶ್ಚ ತಥಾ ಸೂರ್ಯಮುಷಸಂ ಚಾನಾಗಾಸ್ತ್ವಂ ಕರ್ಮವೈಗುಣ್ಯಜನಿತಪಾಪರಾಹಿತ್ಯಮೀಮಹೇ । ವಯಂ ಯಾಚಾಮಹೇ । ಕಿಂಚಾದ್ಯಾಸ್ಮಿನ್ನಹನಿ ನೋಽಸ್ಮಾಕಂ ಸುವಾನೋಽಭಿಸೂಯಮಾಣಃ ಸೋಮೋ ಭದ್ರಂ ಕಲ್ಯಾಣಂ ಕೃಣೋತು । ಕರೋತು ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದಿವಃಪೃಥಿವ್ಯೋಃ—ದ್ಯಾವಾಪೃಥಿವಿಗಳ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ಆ ವೃಣೀಮಹೇ—ನಾವು
+ಯಾಚಿಸುತ್ತೇವೆ । ಮಾತ್ಸ್ಯನ್—ಲೋಕಕ್ಕೆ ಜನನೀರೂಪಿಣಿಗಳಾದ । ಸಿಂಧೂನ್—ನದಿಗಳನ್ನೂ । ಶರಣಾ
+ವತಃ—ಶರಣಾವತ್ತಿಗೆ ಹತ್ತಿರವಿರುವ । ಪರ್ವತಾನ್—ಪರ್ವತಗಳನ್ನೂ । ಸೂರ‍್ಯಂ—ಸೂರ‍್ಯನನ್ನು । ಉಷಸಂಉಷೋದೇವಿಯನ್ನೂ । ಅನಾಗಾಸ್ತ್ವಂ—ನಮ್ಮ ಪಾಪನಾಶಕ್ಕಾಗಿ । ಈಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ । ಅದ್ಯ—
+ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ನಃ- ನಮ್ಮಿಂದ । ಸುವಾನಃ—ಹಿಂಡಲ್ಪಡುವ । ಸೋಮಃ—ಸೋಮವು । ಭದ್ರಂ—
+ಕಲ್ಯಾಣವನ್ನು । ಕೃಣೋತು—ಮಾಡಲಿ.
+*[। ಭಾನಾರ್ಥಿ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ನಾವು ದ್ಯಾವಾಪೃಥಿವಿಗಳ ರಕ್ಷಣೆಯನ್ನು ಯಾಚಿಸುತ್ತೇವೆ. ಲೋಕಕ್ಕೆ ಜನನೀರೂಪಿಣಿಗಳಾದ ನದಿಗಳನ್ನೂ,
+ಶರಣಾವತೆಂಬ ಸರೋವರದ ಹತ್ತಿರವಿರುವ ಪರ್ವತಗಳನ್ನೂ ಸೂರ್ಯನನ್ನೂ ಉಷೋದೇವಿಯನ್ನೂ ನಮ್ಮ ಪಾಪವನ್ನು
+ಪರಿಹರಿಸಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ. ಈ ಯಾಗಕಾಲದಲ್ಲಿ ನಮ್ಮಿಂದ ಹಿಂಡಲ್ಪಡುವ ಸೋಮವು ನಮಗೆ ಕಲ್ಯಾಣ
+ವನ್ನುಂಟುಮಾಡಲಿ.
+
+*English Translation.*
+
+We solicit the protection of heaven and earth : (we solicit) the maternal rivers, the mountains with their lakes, the sun and the dawn, for freedom from sin: may the Soma that is now effused secure to us to-day good fortune.
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ದ್ಯಾವಾ ನೋ ಅದ್ಯ ಪೃಥಿವೀ ಅನಾಗಸೋ ಮಹೀ ತ್ರಾಯೇತಾಂ ಸುವಿತಾಯ ಮಾತರಾ ।
+> ಉಷಾ ಉಚ್ಛಂತ್ಯಪ ಬಾಧತಾಮಘಂ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೩ ॥
+
+<!-- printed 877 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 877]*
+
+
+*ಪದಪಾಠಃ*
+
+> ದ್ಯಾವಾ । ನಃ । ಅದ್ಯ । ಪೃಥಿವೀ ಇತಿ । ಅನಾಗಸಃ । ಮಹೀ ಇತಿ । ತ್ರಾಯೇತಾಂ । ಸುವಿತಾಯ ।
+> ಮಾತರಾ ।
+> ಉಷಾಃ । ಉಚ್ಚಂತೀ । ಅಪ । ಬಾಧತಾಂ । ಅಘಂ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಽಧಾನಂ । ಈಮಹೇ ॥೩॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಮಹೀ ಮಹತ್ಯೌ ಮಾತರಾ ಮಾತರೌ ಸರ್ವಸ್ಯ ಮಾತೃಭೂತೇ ದ್ಯಾವಾ ಪೃಥಿವೀ ದ್ಯಾವಾಪೃಥಿವ್ಯಾವದ್ಯಾಸ್ಮಿನ್ನಹನ್ಯನಾಗಸೋಽಪರಾಧರಹಿತಾನ್ನೋಽಸ್ಮಾನ್ಸುವಿತಾಯ ಸುಖಾಯ ತ್ರಾಯೇತಾಂ ।
+> ರಕ್ಷೇತಾಂ । ಕಿಂಚೋಚಚ್ಛಂತೀ ತಮಾಂಸಿ ವಿವಾಸಯಂತ್ಯುಷಾ ಅಸ್ಮಾಕಮಘಂ ಪಾಪಮಪ ಬಾಧತಾಂ ।
+> ಅಪನಯತು । ಅಪಿ ಚ ಸಮಿಧಾನಂ ಸಮ್ಯಗ್ಗೀಪ್ಯಮಾನಮಗ್ನಿಂ ಸ್ವಸ್ತಿ ಸರ್ವಪ್ರಕಾರಾವಿನಾಶಮೀಮಹೇ । ವಯಂ ಯಾಚಾಮಹೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಮಹೀ—ಮಹತ್ತ್ವರೂಪವುಳ್ಳವರೂ । ಮಾತರಾ—ಜಗನ್ನಿರ್ಮಾಪಕಿಯರೂ ಆದ । ದ್ಯಾವಾಪೃಥಿವೀ—
+ದ್ಯಾವಾಪೃಥಿವಿಗಳು । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ನಃ—ನಮ್ಮನ್ನು । ಸುವಿತಾಯ—ನಮ್ಮ ಸೌಖ್ಯಕ್ಕಾಗಿ ।
+ಅನಾಗಸಃ—ಪಾಪರಹಿತರನ್ನಾಗಿ ಮಾಡಿ । ತ್ರಾಯೇತಾಂ—ರಕ್ಷಿಸಲಿ । ಉಚ್ಛಂತೀ—ಉದಯಿಸುತ್ತಿರುವ ।
+ಉಷಾಃ—ಉಷೋದೇವಿಯು । ಅಘಂ—ನಮ್ಮ ಪಾಪವನ್ನು । ಅಪ ಬಾಧತಾಂ—ನಾಶಪಡಿಸಲಿ
+ಸಮೀಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾಗಿ ಪ್ರಕಾಶಿಸುವ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ನಮ್ಮ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ।
+ಈ ಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಮಹತ್ತ್ವರೂಪವುಳ್ಳವರೂ, ಜಗನ್ನಿರ್ಮಾಪಕಿಯರೂ ಆದ ದ್ಯಾವಾಪೃಥಿವಿಗಳು ಈ ಯಾಗಕಾಲದಲ್ಲಿ
+ನಮ್ಮನ್ನು ನಮ್ಮ ಸೌಖ್ಯಕ್ಕಾಗಿ ಪಾಪರಹಿತರನ್ನಾಗಿ ಮಾಡಲಿ. ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ. ಉದಯಿಸುತ್ತಿರುವ ಉಷೋ
+ದೇವಿಯು ನಮ್ಮ ಪಾಪವನ್ನು ನಾಶಪಡಿಸಲಿ. ಪ್ರಜ್ವಲಿತನಾಗಿ ಪ್ರಕಾಶಿಸುವ ಅಗ್ನಿಯನ್ನು ನಮ್ಮ ಕಲ್ಯಾಣಕ್ಕಾಗಿ
+ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May the vast maternal heaven and earth this day preserve us for our happiness, free from sin : may the opening dawn drive away our sin : we solicit the kindled fire for our welfare.
+
+<!-- printed 878 -->
+*[878 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೫]*
+
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಇಯಂ ನ ಉಸ್ರಾ ಪ್ರಥಮಾ ಸುದೇವ್ಯಂ ರೇವತ್ಸನಿಭ್ಯೋ ರೇವತೀ
+> ವೃಚ್ಛತು ।
+> ಆರೇ ಮನ್ಯುಂ ದುರ್ವಿದತ್ರಸ್ಯ ಧೀಮಹಿ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಇಯಂ । ನಃ । ಉಸ್ರಾ । ಪ್ರಥಮಾ । ಸುದೇವ್ಯಂ । ರೇವತ್ । ಸನಿಭ್ಯಃ । ರೇವತೀ । ವಿ । ಉಚ್ಛತು।
+> ಅರೇ । ಮನ್ಯುಂ । ದುಃವಿದತ್ರಸ್ಯ । ಧೀಮಹಿ । ಸ್ತಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ರೇವತೀ ಧನವತೀ ಪ್ರಥಮಾ ಮುಖ್ಯೇಯಮುಸ್ರಾ ಪಾಪಾನಾಮುತ್ಸಾರಿಣ್ಯುಷಾಃ ಸುದೇವ್ಯಂ
+> ಶೋಭನದೇವಾರ್ಹಂ ರೇವದ್ಧನವತ್ಪ್ರಧಾನಯಾಗಕಾಲತ್ವಂ ಸನಿಭ್ಯೋ ಭಜಮಾನೇಭ್ಯೋ ನೋಽಸ್ಮಭ್ಯಂ
+> ಪ್ರಯಚ್ಛಂತೀ ವ್ಯುಚ್ಛತು । ತಮಾಂಸಿ ವಿವಾಸಯತು । ಕಿಂಚ ದುರ್ವಿದತ್ರಸ್ಯ ದುರ್ಧನಸ್ಯ ಪುರುಷಸ್ಯ
+> ಮನ್ಯುಂ ಕ್ರೋಧಮಾರೇ ದೂರೇ ಧೀಮಹಿ । ನಿಧೀಮಹಿ । ಸಿದ್ಧಮನ್ಯತ್ ।
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ರೇವತೀ—ಧನಯುಕ್ತಳೂ । ಪ್ರಥಮಾ—ಪ್ರಧಾನಳೂ । ಉಸ್ರಾ—ಪಾಪನಾಶಕಳೂ ಆದ । ಇಯಂ—
+ಈ ಉಷೋದೇವಿಯು । ಸನಿಭ್ಯಃ—ದೇವತೆಗಳನ್ನು ಪೂಜಿಸುವ । ನಃ—ನಮಗಾಗಿ । ಸುದೇವ್ಯಂ—ಶ್ರೇಷ್ಠವಾದ
+ದೇವಪೂಜೆಗೆ ಯೋಗ್ಯವಾದುದೂ । ರೇವತ್—ಧನಯುಕ್ತವಾದುದೂ ಆದ ಯಾಗಕಾಲವನ್ನು । ವ್ಯುಚ್ಛತು—
+ಬೆಳಗಿಸಲಿ । ದುರ್ವಿದತ್ರಸ್ಯ—ದುಷ್ಟಶಕ್ತಿಯುಳ್ಳ ಪುರುಷನ । ಮನ್ಯುಂ—ಕ್ರೋಧವನ್ನು । ಆರೇ—ದೂರದಲ್ಲಿ ।
+ಧೀಮಹಿ—ನಾವು ಇಡುವಂತಾಗಲಿ । ಸ್ವಸ್ತಿ—ನಮ್ಮ ಕಲ್ಯಾಣಕ್ಕಾಗಿ । ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾಗಿ
+ಪ್ರಕಾಶಿಸುವ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಧನಯುಕ್ತಳೂ, ಯಾಗಕ್ಕೆ ಮುಖ್ಯಳೂ, ಪಾಪನಾಶಕಳೂ ಆದ ಉಷೋದೇವಿಯು ದೇವತೆಗಳನ್ನು
+ಪೂಜಿಸುವ ನಮಗಾಗಿ ಶ್ರೇಷ್ಠವಾದ ದೇವಪೂಜೆಗೆ ಯೋಗ್ಯವಾದುದೂ, ಧದಯುಕ್ತವಾದುದೂ ಆದ ಯಾಗಕಾಲವನ್ನು
+ಕತ್ತಲನ್ನು ನಾಶಮಾಡುವುದರ ಮೂಲಕ ಬೆಳಗಿಸಲಿ. ದುಷ್ಟಶಕ್ತಿಯುಳ್ಳ ಪುರುಷನ ಕ್ರೋಧವು ನಮ್ಮಿಂದ
+ದೂರವಾಗಿರಲಿ. ಪ್ರಜ್ವಲಿತನಾಗಿ ಪ್ರಕಾಶಿಸುವ ಅಗ್ನಿಯನ್ನು ನಮ್ಮ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+<!-- printed 879 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೬.] ಋಗ್ವೇದಸಂಹಿತಾ 879]*
+
+
+*English Translation.*
+
+May this first dawn, the possessor of wealth, open, bringing to us who are liberal (a season) fit for the gods, abounding with riches: we consider the anger of the malevolent (to be) remote : we solieit the kindled fire for our welfare.
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರ ಯಾಃ ಸಿಸ್ರತೇ ಸೂರ್ಯಸ್ಯ ರಶ್ಮಿಭಿರ್ಜ್ಯೋತಿರ್ಭರಂತೀರುಷಸೋ
+> ವ್ಯುಷ್ಟಿಷು ।
+> ಭದ್ರಾ ನೋ ಅದ್ಯ ಶ್ರವಸೇ ವ್ಯುಚ್ಛತ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮಾಮಹೇ ॥ ೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರ । ಯಾಃ । ಸಿಸ್ರತೇ । ಸೂರ್ಯಸ್ಯ । ರಶ್ಮಿಭಿಃ । ಜ್ಯೋತಿಃ । ಭರಂತೀಃ । ಉಷಸಃ । ವಿಉಷ್ಟಿಷು ।
+> ಭದ್ರಾ । ನಃ । ಆದ್ಯ । ಶ್ರವಸೇ । ವಿ । ಉಚ್ಛತ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥ ೫ ॥
+*[॥ ಸಾಯಣಭಾಷ್ಯ ॥]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯಾ ಉಷಸಃ ಸೂರ್ಯಸ್ಯ ರಶ್ಮಿಭಿಃ ಕಿರಣೈಃ ಪ್ರ ಸಿಸ್ರತೇ ಸಂಗಚ್ಛಂತೇ ವ್ಯುಷ್ಟಿಷು ವ್ಯುಚ್ಚನೇಷು
+> ತಮಸಾಂ ವಿವಾಸನಕಾಲೇಷು ಜ್ಯೋತಿರಾತ್ಮೀಯಂ ತೇಜೋ ಭರಂತೀಃ ಭರಂತಿ ಚ ತಾ ಯೂಯಂ
+> ನೋಽಸ್ಮಾಕಮದ್ಯಾಸ್ಮಿನ್ನಹನಿ ಶ್ರವಸೇಽನ್ನಾಯ ಭದ್ರಾ ಭಜನೀಯಾ ಭವತ । ವ್ಯುಚ್ಚತ । ತಮಾಂಸಿ
+> ವಿವಾಸಯತ ಚ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಉಷಸಃ—ಎಲೈ ಉಷಸ್ಸುಗಳೇ । ಯಾಃ—ಯಾವ ನೀವು । ಸೂರ್ಯಸ್ಯ—ಸೂರ್ಯನ । ರಶ್ಮಿಭಿಃ—
+ಕಿರಣಗಳೊಂದಿಗೆ । ಪ್ರ ಸಿಸ್ರತೇ—ಸೇರಿಕೊಂಡಿರುವರೋ ಅಂತಹ ನೀವು । ವ್ಯುಷ್ಟಿಷು—ನಿಮ್ಮ ಆವಿರ್ಭಾವಕಾಲ
+ಗಳಲ್ಲಿ । ಜ್ಯೋತಿಃ—ನಿಮ್ಮ ತೇಜಸ್ಸನ್ನು । ಭರಂತೀಃ—ಧರಿಸುತ್ತ । ನಃ—ನಮಗೆ । ಅದ್ಯ—ಇಂದು ।
+ಶ್ರವಸೇ—ನಮ್ಮ ಅನ್ನಕ್ಕಾಗಿ । ಭದ್ರಾಃ—ಪೂಜನೀಯರಾಗಿ । ವ್ಯುಚ್ಛತ—ಆವಿರ್ಭವಿಸಿರಿ । ಸಮಿಧಾನಂ—
+ಪ್ರಜ್ವಲಿತನಾಗಿರುವ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ನಮ್ಮ ಕಾಲ್ಯಾಣಕ್ಕಾಗಿ । ಈಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೆನೆ-
+
+<!-- printed 880 -->
+*[880 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೫]*
+
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಉಷಸ್ಸುಗಳೇ, ಯಾವ ನೀವು ಸೂರ್ಯನ ಕಿರಣಗಳೊಂದಿಗೆ ಸೇರಿಕೊಂಡಿರುವಿರೋ ಅಂತಹ ನೀವು
+ನಿಮ್ಮ ಅವಿರ್ಭಾವಕಾಲಗಳಲ್ಲಿ ನಿಮ್ಮ ತೇಜಸ್ಸನ್ನು ಪ್ರಸರಿಸುತ್ತ ಇಂದು ನಮ್ಮ ಅನ್ನಲಾಭಾರ್ಥವಾಗಿ ನಮಗೆ
+ಪೂಜನೀಯರಾಗಿ ಅವಿರ್ಭವಿಸಿರಿ. ಪ್ರಜ್ವಲಿತನಾಗಿರುವ ಅಗ್ನಿಯನ್ನು ನಮ್ಮ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+Dawns, you are associated with the rays of the sun, bringing light at the opening (of the day); shine upon us to-day, propitious, for our subsistence : we solicit the kindled fire for our welfare.
+*[॥ ಸಂತಾಪವಾಕ್ಯಃ ॥]*
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅನಮೀವಾ ಉಷಸ ಆ ಚರಂತು ನ ಉದಗ್ನಯೋ ಜಿಹತಾಂ ಜ್ಯೋತಿಷಾ
+> ಬೃಹತ್ ।
+> ಆಯುಕ್ಷಾತಾಮಶ್ವಿನಾ ತೂತುಜಿಂ ರಥಂ ಸ್ವಸ್ತಿಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೬ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅನಮೀವಾಃ । ಉಷಸಃ । ಆ । ಚರಂತು । ನಃ । ಉತ್ । ಅಗ್ನಯಃ । ಜಿಹತಾಂ । ಜ್ಯೋತಿಷಾ ।
+> ಬೃಹತ್ ॥
+> ಅಯುಕ್ಷಾತಾಂ । ಅಶ್ವಿನಾ । ತೂತುಜಿಂ । ರಥಂ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥ ೬ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಸಮೀನಾ ರೋಗರಹಿತಾ ಉಷಸೋ ನೋಽಸ್ಮಾನಾ ಚರಂತು । ಆಗಚ್ಛಂತು । ಬೃಹದ್ಬೃಹತಾ
+> ಮಹತಾ ಜ್ಯೋತಿಷಾ ತೇಜಸಾ ಯುಕ್ತಾ ಅಗ್ನಯೋಽಪ್ಯುಜ್ಜಿಹತಾಂ । ಉದ್ದಚ್ಛಂತು । ಅಶ್ವಿನಾಶ್ವಿನ್
+> ತೂತುಜಿಂ ಕ್ಷಿಪ್ರಗಾಮಿನಂ ರಥಮಾಯುಕ್ಷಾತಾಂ । ಆಸ್ಮಾನ್ತ್ಯಾಗಂತುಂ ರಾಸಭಾಭ್ಯಾಂ ಯುಂಕ್ತಾಂ ।
+> ಹರಿತ ಆದಿತ್ಯಸ್ಯ ರಾಸಭಾವಶ್ವಿನೋರಿತಿ ಪಾಠಾತ್ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+*[ಪ್ರತಿಪದಾರ್ಥಃ]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅನಮೀವಾಃ—ರೋಗರಹಿತವಾದ । ಉಷಸಃ—ಉಷಸ್ಸುಗಳು । ನಃ—ನಮ್ಮಲ್ಲಿಗೆ । ಆ ಚರಂತು—
+ಓದಿಬರಲಿ । ಬೃಹತ್—ಮಹದಾಕಾರವುಳ್ಳ । ಜ್ಯೋತಿಷಾ—ತೇಜಸ್ಸುಗಳಿಂದ ಕೂಡಿದ । ಆಗ್ನಯಃ—ಅಗ್ನಿ
+
+<!-- printed 881 -->
+*[ಅ. ೩. ಅ. ೮. ವ. ೭.] ಋಗ್ವೇದಸಂಹಿತಾ 881]*
+
+ಗಳೂ । ಉಜ್ಜಿಹತಾಂ—ಪ್ರಜ್ವಲಿಸಿ ಪ್ರಸರಿಸಲಿ ! ಅಶ್ವಿನಾ—ಅಶ್ವಿನೀದೇವತೆಗಳೂ । ತೂತುಜಿಂ—ಕ್ಷಿಪ್ರಗಾಮಿ
+ಯಾದ । ರಥಂ—ತಮ್ಮ ರಥವನ್ನು । ಆಯುಕ್ಷಾತಾಂ—ಅಶ್ವಗಳೊಡನೆ ಸೇರಿಸಲಿ । ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತ
+ನಾದ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಆಲಸ್ಯರಹಿತವಾದ ಉಷಸ್ಸುಗಳು ನಮ್ಮಲ್ಲಿಗೆ ಓಡಿಬರಲಿ. ಮಹದಾಕಾರವುಳ್ಳ ತೇಜಸ್ಸುಗಳಿಂದ ಕೂಡಿದ
+ಅಗ್ನಿಗಳೂ ಪ್ರಜ್ವಲಿಸಿ ಪ್ರಸರಿಸಲಿ. ಅಶ್ವಿನೀದೇವತೆಗಳೂ ಸಹ ನಮ್ಮಲ್ಲಿಗೆ ಬರಲು ತಮ್ಮ ರಥವನ್ನು ಅಶ್ವಗಳೊಡನೆ
+ಯೋಜಿಸಲಿ. ಪ್ರಜ್ವಲಿತನಾದ ಅಗ್ನಿಯನ್ನು ನಾವು ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May the salutary dawns hasten to us: may the fires blaze up with great lustre, and may the Aswins harness their quick-going chariot : we solicit the kindled fire for our welfare.
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಶ್ರೇಷ್ಠಂ ನೋ ಅದ್ಯ ಸವಿತರ್ವರೇಣ್ಯಂ ಭಾಗಮಾ ಸುವ ಸ ಹಿ ರತ್ನಧಾ ಅಸಿ।
+> ರಾಯೋ ಜನಿತ್ರೀಂ ಧಿಷಣಾಮುಪ ಬ್ರುವೇ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೭ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಶ್ರೇಷ್ಠಂ । ನಃ । ಅದ್ಯ । ಸವಿತಃ । ವರೇಣ್ಯಂ ॥ ಭಾಗಂ । ಆ । ಸುವ । ಸಃ । ಹಿ । ರತ್ನಧಾಃ । ಅಸಿ!
+> ರಾಯಃ । ಜನಿತ್ರೀಂ । ಧಿಷಣಾಂ । ಉಪ । ಬ್ರುವೇ । ಸ್ತಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸವಿತಃ ತ್ವಮದ್ಯಾಸ್ಮಿನ್ನಹನಿ ನೋಽಸ್ಮಭ್ಯಂ ವರೇಣ್ಯಂ ವರಣೀಯಂ ಶ್ರೇಷ್ಠಂ ಪ್ರಶಸ್ಯತಮಂ ಭಾಗಂ ಭಜನೀಯಂ ಧನಮಾ ಸುವ । ಪ್ರೇರಯ ! ದೇಹೀತ್ಯರ್ಥಃ । ಹಿ ಯಸ್ಮಾದಪ್ರಾರ್ಥಿತಸ್ತ್ವಂ
+> ರತ್ನಧಾಃ ಶ್ರೇಷ್ಠಾನಾಂ ಧನಾನಾಂ ಸಂವಿಭಕ್ತಾಸಿ ಭವಸಿ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ವಿಭಕ್ತಾರಂ
+> ಹವಾಮಹೇ ವಸೋಶ್ಚಿತ್ರಸ್ಯ ರಾಧಸಃ ಸವಿತಾರಂ ನೃಚಕ್ಷಸಂ । ಋ. ೧-೨೨-೭ । ಇತಿ । ರಾಯೋ
+> ಧನಸ್ಯ ಜನಿತ್ರೀಂ ಧಿಷಣಾಂ ಸರ್ವದೇವಸ್ತುತಿರೂಪಾಂ ವಾಚಮುಪ ಬ್ರುವೇ । ಅಹಮುಪಬ್ರವೀಮಿ ।
+> ಯದ್ವಾ । ಧಿಷಣಾಂ ದೇವೀಮುಪ ಬ್ರುವೇ । ಉಪಸ್ತೌಮೀತ್ಯರ್ಥಃ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+> xxvii 56
+
+<!-- printed 882 -->
+*[882 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೫]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸವಿತಃ—ಎಲೈ ಸವಿತೃದೇವನೇ । ಹಿ—ಯಾವ ನಿನ್ನ ಪ್ರಭಾವದಿಂದ । ಸಃ—ಪ್ರಸಿದ್ಧನಾದ ನೀನು ।
+ರತ್ನಧಾಃ—ಉತ್ತಮವಾದ ಧನಪ್ರದನಾಗಿ । ಅಸಿ—ಆಗಿರುವೆಯೋ ಆದುದರಿಂದಲೇ । ಅದ್ಯ—ಈ ಕಾಲದಲ್ಲಿ ।
+ನಃ—ನಮಗೆ । ವರೇಣ್ಯಂ—ಪೂಜ್ಯವೂ । ಶ್ರೇಷ್ಠಂ—ಪ್ರಶಸ್ಯವೂ ಆದ । ಭಾಗಂ—ಧನವನ್ನು । ಆ ಸುವ—
+ಒದಗಿಸು । ರಾಯಃ—ಧನಕ್ಕೆ । ಜನಿತ್ರೀಂ—ನಿರ್ಮಾಪಕಳಾದ । ಧಿಷಣಾಂ—ವಾಗ್ದೇವಿಯನ್ನು । ಉಪಬ್ರುವೇ—ಸ್ತುತಿಸುತ್ತೇನೆ । ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾದ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ।
+ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸವಿತೃದೇವನೇ, ಯಾವ ನಿನ್ನ ಪ್ರಭಾವದಿಂದ ಪ್ರಸಿದ್ಧನಾದ ನೀನು ಉತ್ತಮವಾದ ಧನಪ್ರದನಾಗಿ
+ಆಗಿರುವೆಯೋ ಆದುದರಿಂದಲೇ ಈ ಕಾಲದಲ್ಲಿ ನಮಗೆ ಪೂಜ್ಯವೂ ಪ್ರಶಸ್ಯವೂ ಆದ ಧನವನ್ನು ಒದಗಿಸು. ಧನಕ್ಕೆ
+ನಿರ್ಮಾಪಕಳಾದ ವಾಗ್ಗೇವಿಯನ್ನು ಸ್ತುತಿಸುತ್ತೇನೆ. ಪ್ರಜ್ವಲಿತನಾದ ಅಗ್ನಿಯನ್ನು ನಮ್ಮ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ
+ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+Savitri, this day bestow upon us an excellent and eligible portion, for you verily are the dispenser of wealth : I recite the praise (of the gods) which is the progenitress of riches: we solicit the kindled fire for our welfare.
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪಿಪರ್ತು ಮಾ ತದೃತಸ್ಯ ಪ್ರವಾಚನಂ ದೇವಾನಾಂ ಯನ್ಮನುಷ್ಯಾ ೩ ಅಮನ್ಮಹಿ ।
+> ವಿಶ್ವಾ ಇದುಸ್ರಾಃ ಸ್ಪಳುದೇತಿ ಸೂರ್ಯಃ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪಿಪರ್ತು । ಮಾ । ತತ್ । ಋತಸ್ಯ । ಪ್ರವಾಚನಂ । ದೇವಾನಾಂ । ಯತ್ । ಮನುಷ್ಯಾಃ ।
+> ಅಮನ್ಮಹಿ ।
+> ವಿಶ್ವಾಃ । ಇತ್ । ಉಸ್ರಾಃ । ಸ್ಪಟ್ । ಉತ್ । ಏತಿ । ಸೂರ್ಯಃ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ ।
+> ಈಮಹೇ ॥ ೮ ॥
+
+<!-- printed 883 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 883]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯದೃತಸ್ಯ ಯಜ್ಞಸ್ಯ ಸತ್ಯಸ್ಯ ವಾ ಸಂಬಂಧಿ ದೇವಾನಾಂ ಪ್ರವಾಚನಂ ಪ್ರಕರ್ಷೇಣ ಗುಣಾನಾಂ
+> ಕಥನಂ ಸ್ತೋತ್ರಂ ಮನುಷ್ಯಾ ವಯಮಮನ್ಮಹಿ ಕರ್ತುಂ ಜಾನೀಮಃ ತತ್ಪ್ರವಾಚನಂ ಮಾ ಮಾಂ
+> ಪಿಪರ್ತು । ಪಾಲಯತು । ಕಿಂಚ ಸೂರ್ಯೋ ವಿಶ್ವಾಃ ಸರ್ವಾ ಉಸ್ರಾ ಉಷಸಃ ಸ್ಪಟ್ ಸ್ಪೃಶನ್ನವಗಚ್ಛನ್ವೋದೇತಿ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯತ್—ಯಾವುದು । ಋತಸ್ಯ—ಯಜ್ಞಕ್ಕೆ ಸಂಬಂಧಿಸಿದ । ದೇವಾನಾಂ—ದೇವತೆಗಳನ್ನು ।
+ಪ್ರವಾಚನಂ—ಪ್ರಶಂಸಿಸುವುದೋ ಆ ಸ್ತೋತ್ರವನ್ನು । ಮನುಷ್ಯಾಃ—ಯಜಮಾನರಾದ ನಾವು । ಅಮನ್ಮಹಿ—
+ಅರಿತಿದ್ದೇವೆ । ತತ್—ಆ ಪ್ರಶಂಸಾವಾಕ್ಯವು । ಮಾ—ನನ್ನನ್ನು । ಪಿಪರ್ತು—ರಕ್ಷಿಸಲಿ । ಸೂರ್ಯಃ—ಸೂರ‍್ಯನು ।
+ವಿಶ್ವಾಃ—ಸಮಸ್ತವಾದ । ಉಸ್ರಾಃ—ಉಷಸ್ಸುಗಳನ್ನು । ಸ್ಪಟ್—ಸ್ಪರ್ಶಿಸುತ್ತ । ಉದೇತಿ—ಉದಯಿಸುತ್ತಾನೆ ।
+ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾದ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಈಮಹೇ—
+ಯಾಚಿಸುತ್ತೇವೆ.
+*[೧ ಭಾನಾರ್ಥಿ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಯಾವ ಸ್ತುತಿಯು ಯಜ್ಞಸಂಬಂಧಿಗಳಾದ ದೇವತೆಗಳನ್ನು ಪ್ರಶಂಸಿಸುವುದೋ ಆ ಸ್ತುತಿಯನ್ನು ಯಜಮಾನ
+ರಾದ ನಾವು ಅರಿತಿದ್ದೇವೆ. ಆ ಪ್ರಶಂಸಾವಾಕ್ಯವು ನನ್ನನ್ನು ರಕ್ಷಿಸಲಿ. ಸೂರ್ಯನು ಸಮಸ್ತವಾದ ಉಷಸ್ಸುಗಳನ್ನು
+ಸ್ಪರ್ಶಿಸುತ್ತ ಉದಯಿಸುತ್ತಾನೆ. ಪ್ರಜ್ವಲಿತನಾದ ಅಗ್ನಿಯನ್ನು ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May that glorification of the gods which men repeat in connection
+with the rite preserve me : the sun rises visiting all the lustre of the dawn :
+we solicit the kindled fire for our welfare.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅದ್ವೇಷೋ ಅದ್ಯ ಬರ್ಹಿಷಃ ಸ್ತರೀಮಣಿ ಗ್ರಾನ್ಣಾಂ ಯೋಗೇ ಮನ್ಮನಃ
+> ಸಾಧ ಈಮಹೇ ।
+> ಆದಿತ್ಯಾನಾಂ ಶರ್ಮಣಿ ಸ್ಥಾ ಭುರಣ್ಯಸಿ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅದ್ವೇಷಃ । ಅದ್ಯ । ಬರ್ಹಿಷಃ । ಸ್ತರೀಮಣಿ । ಗ್ರಾನ್ಛಾಂ । ಯೋಗೇ । ಮನ್ಮನಃ । ಸಾಧೇ । ಈಮಹೇ ।
+> ಆದಿತ್ಯಾನಾಂ । ಶರ್ಮಣಿ । ಸ್ಥಾಃ । ಭುರಣ್ಯಸಿ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥ ೯ ॥
+
+<!-- printed 884 -->
+*[884 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೫]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅದ್ಯಾಸ್ಮಿನ್ನಹನಿ ಬರ್ಹಿಷಃ ಸ್ತರೀಮಣಿ ವೇದ್ಯಾಂ ಸ್ತರಣೇ ಮನ್ಮನೋ ಮನನೀಯಸ್ಯಾಭೀಷ್ಟಸ್ಯ ಫಲಸ್ಯ ಸಾಧೇ ಸಾಧಕೇ ಗ್ರಾವ್ಣಾಮಭಿಷವಪಾಷಾಣಾನಾಂ ಯೋಗೇ ಸೋಮೇನ ಸಹ ಸಂಯೋಗೇ
+> ಚ ಸತ್ಯದ್ವೇಷೋ ದ್ವೇಷವರ್ಜಿತಾನಾದಿತ್ಯಾನೀಮಹೇ । ವಯಮಭೀಷ್ಟಂ ಯಾಚಾಮಹೇ । ಹೇ
+> ಸ್ತೋತಃ ತ್ವಂ ತೇಷಾಮಾದಿತ್ಯಾನಾಂ ದೇವಾನಾಂ ಶರ್ಮಣಿ ಸುಖೇ ಸ್ಥಾನೇ ವಾ ಸ್ಥಾಃ । ತಿಷ್ಠ ।
+> ಭುರಣ್ಯಸಿ । ಕರ್ತವ್ಯಾನಿ ಕರ್ಮಾಣಿ ಬಿಭರ್ಷಿ । ಗಚ್ಛಸಿ ನಾ । ಸಿದ್ಧಮನ್ಯತ್ ।
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ಬರ್ಹಿಷಃ—ದರ್ಭಾಸನವನ್ನು । ಸ್ತರೀಮಣಿ—ಸಿದ್ಧಪಡಿಸುವಾಗಲೂ ।
+ಮನ್ಮನಃ—ಇಷ್ಟಾರ್ಥವನ್ನು । ಸಾಧೇ—ಸಾಧಿಸಿಕೊಡುವ । ಗ್ರಾವ್ಣಾಂ—ಹಿಂಡುವ ಕಲ್ಲುಗಳೊಡನೆ ! ಯೋಗೇ—
+ಸೋಮದ ಸಂಬಂಧವಿರುವಾಗಲೂ । ಅದ್ವೇಷಃ—ದ್ವೇಷರಹಿತರಾದ ಆದಿತ್ಯರನ್ನು । ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇನೆ
+(ಎಲೈ ಸ್ತುತಿಕರ್ತನೇ) । ಆದಿತ್ಯಾನಾಂ—ಆದಿತ್ಯರ । ಶರ್ಮಣಿ—ಸುಖಸ್ಥಾನದಲ್ಲಿ । ಸ್ಥಾಃ—ಇರುವವನಾಗು !
+ಭುರಣ್ಯಸಿ—ನಿನ್ನ ಕರ್ತವ್ಯಗಳನ್ನು ನೆರವೇರಿಸು । ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾದ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು ।
+ಸ್ವಸ್ತಿ—ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಈಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಈ ಯಾಗಕಾಲದಲ್ಲಿ ದರ್ಭಾಸನವನ್ನು ಸಿದ್ಧಪಡಿಸುವಾಗಲೂ, ಇಷ್ಟಾರ್ಥವನ್ನು ಸಾಧಿಸಿಕೊಡುವ ಹಿಂಡುವ
+ಕಲ್ಲುಗಳೊಡನೆ ಸೋಮದ ಸಂಬಂಧವಿರುವಾಗಲೂ ದ್ವೇಷರಹಿತರಾದ ಆದಿತ್ಯರನ್ನು ಯಾಚಿಸುತ್ತೇವೆ. ಎಲೈ
+ಸ್ತುತಿಕರ್ತನೇ, ಆದಿತ್ಯರ ಅನುಗ್ರಹರೂಪವಾದ ಸುಖಸ್ಥಾನದಲ್ಲಿರುವವನಾಗು. ನಿನ್ನ ಕರ್ತವ್ಯಗಳನ್ನು ನೆರವೇರಿಸು.
+ಪ್ರಜ್ವಲಿತನಾದ ಅಗ್ನಿಯನ್ನು ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+On strewing the sacred grass, and bringing the stones into contact
+(with the Soma), whereby our wishes are accomplished, we solicit to-day
+the benevolent (Adityas): abiding in the happiness of those Adityas, you
+discharge, worshipper, your duties : we solicit the kindled fire for our
+welfare.
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆ ನೋ ಬರ್ಹಿಃ ಸಧಮಾದೇ ಬೃಹದ್ದಿವಿ ದೇವಾ ಈಳೇ ಸಾಧಯಾ ಸಪ್ತ
+> ಹೋತ್ಥನ್ ।
+
+<!-- printed 885 -->
+*[ಅ. ೭. ಅ. ೮. ವ ೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 885]*
+
+> ಇಂದ್ರಂ ಮಿತ್ರಂ ವರುಣಂ ಸಾತಯೇ ಭಗಂ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೧೦ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ನಃ । ಬರ್ಹಿಃ । ಸಧ್ವಮಾದೇ । ಬೃಹತ್ । ದಿವಿ । ದೇವಾನ್ । ಈಳೀ । ಸಾದಯ । ಸಪ್ತ ।
+> ಹೋತ್ಥನ್ ।
+> ಇಂದ್ರಂ । ಮಿತ್ರಂ । ವರುಣಂ । ಸಾತಯೇ । ಭಗಂ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ನೋಽಸ್ಮಾಕಂ ಬೃಹದ್ಬೃಹತಿ ಮಹತಿ ದಿವಿ ದೀಪ್ತೇ ಸಧಮಾದೇ । ಸಹ ಮಾದ್ಯಂತಿ ದೇವಾ
+> ಯತ್ರ ತಸ್ಮಿನ್ । ಬರ್ಹಿರ್ಬರ್ಹಿಷಿ ಯಜ್ಞೇ ಸಪ್ತ ಸಪ್ತ ಸಂಖ್ಯಾಕಾನ್ನೋತ್ಥಾನ್ಷಟ್ಕರ್ತ್ತ್ಯನಿಂದ್ರಂ ಮಿತ್ರಂ
+> ಚ ವರುಣಂ ಚ ಭಗಂ ಚ ದೇವಾನಿತರಾನಪಿ ಯಷ್ಟವ್ಯಾನ್ನೇವಾನ್ ಹೇ ಅಗ್ನೇ ತ್ವಮಾ ಸಾದಯ ।
+> ಅಗ್ನೇರಾಭಿಮುಖ್ಯಕರಣಂ ಇಹಾದ್ಯ ದೈವ್ಯಂ ಜನಂ ಬರ್ಹಿರಾ ಸಾದಯಾ ವಸೋ । ಋ. ೧-೪೫-೯ ।
+> ಇತ್ಯೇವಮಾದಿಮುಂತ್ರೈರವಗಮ್ಯತೇ । ತತ್ರ ತ್ವಯಾಸಾದಿತಾಂಸ್ತಾನಿಂದ್ರಾದೀನ್ದೇವಾನಹಂ ಸಾತಯೇ
+> ಧನಲಾಭಾಯೇಳೇ । ಸೌಮಿ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಗ್ನಿಯೇ) ನಃ—ನಮ್ಮ । ಬೃಹತ್—ಮಹತ್ತಾದುದೂ । ದಿವಿ—ಪ್ರಕಾಶಮಾನವಾದುದೂ ।
+ಸಧಮಾದೇ—ದೇವತೆಗಳು ಒಟ್ಟಿಗೆ ಕುಳಿತುಕೊಳ್ಳತಕ್ಕದ್ದೂ ಆದ ! ಬರ್ಹಿಃ—ಯಜ್ಞಾಸನದ ಮೇಲೆ । ಸಪ್ತ
+ಹೋತ್ಥನ್—ಏಳು ಜನ ಹೋತೃಗಳನ್ನೂ । ಇಂದ್ರಂ—ಇಂದ್ರನನ್ನೂ । ಮಿತ್ರಂ—ಮಿತ್ರನನ್ನೂ । ವರುಣಂ—
+ವರುಣನನ್ನೂ । ಭಗಂ—ಭಗನನ್ನೂ । ದೇವಾನ್—ಇತರ ದೇವತೆಗಳನ್ನೂ । ಆ ಸಾದಯ—ಕುಳ್ಳಿರಿಸು ।
+ಸಾತಯೇ—ಧನಲಾಭಾರ್ಥವಾಗಿ । ಈಳೇ—ಅವರೆಲ್ಲರನ್ನೂ ಸ್ತುತಿಸುತ್ತೇನೆ । ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾದ ।
+ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಗ್ನಿಯೇ, ನಮ್ಮ ಮಹತ್ತಾದುದೂ, ಪ್ರಕಾಶಮಾನವಾದುದೂ, ದೇವತೆಗಳು ಒಟ್ಟಿಗೆ ಕುಳಿತುಕೊಳ್ಳ
+ತಕ್ಕದ್ದೂ ಆದ ಯಜ್ಞಾಸನದ ಮೇಲೆ ಏಳು ಜನ ಹೋತೃಗಳನ್ನೂ ಇಂದ್ರನನ್ನೂ ಮಿತ್ರನನ್ನೂ, ವರುಣನನ್ನೂ,
+ಭಗನನ್ನೂ ಇತರ ದೇವತೆಗಳನ್ನೂ ಕುಳ್ಳಿರಿಸು. ಧನಲಾಭಾರ್ಥವಾಗಿ ಅವರೆಲ್ಲರನ್ನೂ ಸ್ತುತಿಸುತ್ತೇನೆ. ಪ್ರಜ್ವಲಿತ
+ನಾದ ಅಗ್ನಿಯನ್ನು ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಯಾಚಿಸುತ್ತೇವೆ.
+
+<!-- printed 886 -->
+*[8S6 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೫]*
+
+
+*English Translation.*
+
+On this our sacred grass, spacious, and bright, where the gods delight together, you (Agni) seat the seven ministrant priests, Indra, Mitra, Varuna, Bhaga, I praise the gods for their bounty : we solicit the kindled fire for our welfare.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತ ಆದಿತ್ಯಾ ಆ ಗತಾ ಸರ್ವತಾತಯೇ ವೃಧೇ ನೋ ಯಜ್ಞಮವತಾ ಸಜೋಷಸಃ ।
+> ಬೃಹಸ್ಪತಿಂ ಪೂಷಣಮಶ್ವಿನಾ ಭಗಂ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥
+*[೧ ಪದಪಾಠ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ತೇ । ಆದಿತ್ಯಾಃ । ಆ । ಗತ । ಸರ್ವತಾತಯೇ । ವೃಧೇ । ನಃ । ಯಜ್ಞಂ । ಅವತ । ಸಜೋಷಸಃ ।
+> ಬೃಹಸ್ಪತಿಂ । ಪೂಷಣಂ । ಅಶ್ವಿನಾ । ಭಗಂ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥ ೧೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+> ಹೇ ಆದಿತ್ಯಾಃ ಯೇಽಸ್ಮಾಭಿರಾಹೂತಾಸ್ತೇ ಯೂಯಂ ಸರ್ವತಾತಯೇ ಯಜ್ಞಾರ್ಥಮಾ
+> ಗತ । ಆಗಚ್ಛತ । ಆಗತ್ಯ ಚ ಹೇ ಸಜೋಷಸಃ ಸಂಗತಾಃ ಯೂಯಂ ನೋಽಸ್ಮಾಕಂ ವೃಧೇ ವರ್ಧನಾಯ ಯಜ್ಞಂ ಪ್ರತ್ಯವತ । ಗಚ್ಛತ । ವಯಂ ಚ ಬೃಹಸ್ಪತಿಂ ಪೂಷಣಂ ಚಾಶ್ವಿನಾಶ್ವಿನ್ ಚ ಭಗಂ
+> ಭಗಾಖ್ಯಂ ದೇವಂ ಚ ಸಮಿಧಾನಂ ಸಮ್ಯಗ್ದೀಪ್ತಮಗ್ನಿಂ ಚ ಸ್ವಸ್ತಿ ಸರ್ವಪ್ರಕಾರಾವಿನಾಶಮೀಮಹೇ ।
+> ಯಾಚಾಮಹೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಆದಿತ್ಯಾಃ—ಎಲೈ ಆದಿತ್ಯರೇ । ತೇ—ನೀವು । ಸರ್ವತಾತಯೇ—ನಮ್ಮ ಯಜ್ಞಕ್ಕೆ । ಆ ಗತ—
+ಬನ್ನಿರಿ । ಸಜೋಷಸಃ—ಒಟ್ಟುಗೂಡಿ ಹರ್ಷಿಸುವ ನೀವು । ನಃ— ನಮ್ಮ । ವೃಧೇ—ಪುಷ್ಟಿಗಾಗಿ । ಯಜ್ಞಂ—
+ನಮ್ಮ ಯಜ್ಞವನ್ನು । ಅವತ—ರಕ್ಷಿಸಿರಿ । ಬೃಹಸ್ಪತಿಂ—ಬೃಹಸ್ಪತಿಯನ್ನೂ । ಪೂಷಣಂ—ಪೂಷದೇವನನ್ನೂ ।
+ಅಶ್ವಿನಾ—ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನೂ । ಭಗಂ—ಭಗನನ್ನೂ । ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾದ । ಅಗ್ನಿಂ—ಅಗ್ನಿ
+ಯನ್ನೂ । ಸ್ವಸ್ತಿ—ನಮ್ಮ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+*[। ಭಾನುವಾರ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಆದಿತ್ಯರೇ, ನೀವು ನಮ್ಮ ಯಜ್ಞಕ್ಕೆ ಬನ್ನಿರಿ. ಒಟ್ಟುಗೂಡಿ ಹರ್ಷಿಸುವ ನೀವು ನಮ್ಮ ಪುಷ್ಟಿಗಾಗಿ
+ನಮ್ಮ ಯಜ್ಞವನ್ನು ರಕ್ಷಿಸಿರಿ, ಬೃಹಸ್ಪತಿಯನ್ನು ಪೂಷದೇವನನ್ನು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಭಗನನ್ನೂ, ಪ್ರಜ್ವಲಿತ
+ನಾದ ಅಗ್ನಿಯನ್ನೂ ನಮ್ಮ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಯಾಚಿಸುತ್ತೇವೆ.
+
+<!-- printed 887 -->
+*[ಅ. ೭ ಅ. ೮. ವ ೮.] ಋಗ್ವೇದಸಂಹಿತಾ 887]*
+
+
+*English Translation.*
+
+Adityas, come to our ceremony, being well-pleased protect the sacrifice for our growth : we solicit for our welfare Brihaspati, Pushan, the Aswins, Bhaga, and the kindled fire.
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತನ್ನೋ ದೇವಾ ಯಚ್ಛತ ಸುಪ್ರವಾಚನಂ ಛರ್ದಿರಾದಿತ್ಯಾಃ ಸುಭರಂ
+> ನೃಪಾಯ್ಯಂ ।
+> ಪಶ್ವೇ ತೋಕಾಯ ತನಯಾಯ ಜೀವಸೇ ಸ್ವಸ್ತ್ಯಗ್ನಿಂ ಸಮಿಧಾನಮೀಮಹೇ ॥ ೧೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ತತ್ । ನಃ । ದೇವಾಃ । ಯಚ್ಛತ । ಸುಪ್ರವಾಚನಂ । ಛರ್ದಿಃ । ಆದಿತ್ಯಾಃ । ಸುಭರಂ । ನೃಪಾಯ್ಯಂ ।
+> ಪಶ್ವೇ । ತೋಕಾಯ । ತನಯಾಯ । ಜೀವಸೇ । ಸ್ವಸ್ತಿ । ಅಗ್ನಿಂ । ಸಂಇಧಾನಂ । ಈಮಹೇ ॥೧೨।
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಆದಿತ್ಯಾ ದೇವಾಃ ಯೂಯಂ ಸುಪ್ರವಾಚನಮತ್ಯಂತಂ ಪ್ರಶಸ್ತಂ ಸುಭರಂ ಸುಸಮೃದ್ಧಂ
+> ನೃಪಾಯ್ಯಂ ನೃಣಾಂ ರಕ್ಷಕಂ ತದಸ್ಮದಭಿಲಷಿತಂ ಛರ್ದಿರ್ಗೃಹಂ ನೋಽಸ್ಮಾಕಂ ಪಶ್ವೇ ಪಶ್ವಾತ್ಮಕಾಯ
+> ತೋಕಾಯ ಪುತ್ರಾಯ ತನಯಾಯ ಪೌತ್ರಾಯ ಚ ಜೀವಸೇ ಜೀವನಾರ್ಥಂ ಯಚ್ಛತ । ದತ್ತ ।
+> ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದೇವಾಃ—ದೇವತಾತ್ಮರಾದ । ಆದಿತ್ಯಾಃ—ಎಲೈ ಆದಿತ್ಯರೇ । ಸುಪ್ರವಾಚನಂ—ಆತ್ಯಂತ ಪ್ರಶಸ್ಯ
+ವಾದುದೂ । ಸುಭರಂ—ಸುಸಮೃದ್ಧವಾದುದೂ । ನೃಪಾಯ್ಯಂ—ನಮಗೆಲ್ಲ ರಕ್ಷಕವಾದುದೂ । ತತ್—ನಮ್ಮಿಂದ
+ಇಚ್ಛಿಸಲ್ಪಟ್ಟುದೂ ಆದ । ಛರ್ದಿಃ—ಗೃಹವನ್ನು । ನಃ—ನಮ್ಮ । ಪಶ್ವೇ—ಪಶುಗಳಿಗೂ । ತೋಕಾಯ—
+ಪುತ್ರಾದಿಗಳಿಗೂ । ತನಯಾಯ—ಪೌತ್ರಾದಿಗಳಿಗೂ । ಜೀವಸೇ—ಜೀವನಾರ್ಥವಾಗಿ । ಯಚ್ಛತ—ಕೊಡಿರಿ ।
+ಸಮಿಧಾನಂ—ಪ್ರಜ್ವಲಿತನಾದ । ಅಗ್ನಿಂ—ಅಗ್ನಿಯನ್ನು । ಸ್ವಸ್ತಿ—ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಈಮಹೇ—
+ಯಾಚಿಸುತ್ತೇವೆ.
+
+<!-- printed 888 -->
+*[888 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೫.]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ದೇವತಾತ್ಮರಾದ ಎಲೈ ಆದಿತ್ಯರೇ, ಅತ್ಯಂತ ಪ್ರಶಸ್ಯವಾದುದೂ, ಸುಸಮೃದ್ಧವಾದುದೂ, ನಮಗೆಲ್ಲ
+ರಕ್ಷಕವಾದುದೂ ನಮ್ಮಿಂದ ಇಚ್ಛಿಸಲ್ಪಟ್ಟುದೂ ಆದ ಗೃಹವನ್ನು ನಮ್ಮ ಪಶುಗಳಿಗೂ ಪುತ್ರಾದಿಗಳಿಗೂ ಪೌತ್ರಾದಿ
+ಗಳಿಗೂ ಜೀವನಾರ್ಥವಾಗಿ ಕೊಡಿರಿ. ಪ್ರಜ್ವಲಿತನಾದ ಅಗ್ನಿಯನ್ನು ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+Divine Aswins, bestow upon us an excellent, spacious, man-protect-
+ing dwelling, for our cattle, our sons and our grandsons to exist : we
+solicit the kindled fire for our welfare
+
+#### ಋಕ್ ೧೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ವಿಶ್ವೇ ಅದ್ಯ ಮರುತೋ ವಿಶ್ವ ಊತೀ ವಿಶ್ವೇ ಭವಂತ್ವಗ್ನಯಃ ಸಮಿದ್ಧಾಃ ।
+> ವಿಶ್ವೇ ನೋ ದೇವಾ ಅವಸಾ ಗಮಂತು ವಿಶ್ವಮಸ್ತು ದ್ರವಿಣಂ ವಾಜೋ
+> ಅಸ್ಮೇ ॥ ೧೩ ॥
+
+*ಪದಪಾಠಃ*
+
+> ವಿಶ್ವೇ । ಅದ್ಯ । ಮರುತಃ । ವಿಶ್ವೇ । ಊತೀ । ವಿಶ್ವೇ । ಭವಂತು । ಅಗ್ನಯಃ । ಸಂಇದ್ಧಾಃ ।
+> ವಿಶ್ವೇ । ನಃ । ದೇವಾಃ । ಅವಸಾ । ಆ । ಗಮಂತು । ವಿಶ್ವಂ । ಅಸ್ತು । ದ್ರವಿಣಂ । ವಾಜಃ । ಅಸ್ಮೇ ಇತಿ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅದ್ಯಾಸ್ಮಿನ್ನಹನಿ ಪ್ರಧಾನಯಾಗದಿವಸೇ ವಿಶ್ವೇ ಸರ್ವೆ ಮರುತೋ ವಿಶ್ವೇ ಸರ್ವೆ ಮರುದ್ಧಣಸಹಚರಿತಾ ರುದ್ರಾದಯೋ ದೇವಾಶ್ಚೋತ್ಯೂತ್ಯೈ ರಕ್ಷಣಾಯ ಭವಂತು । ಅಪಿ ಚ ವಿಶ್ವೇ ಸರ್ವೆಗ್ನಯ
+> ಆಹವನೀಯಾದಯಃ ಸಮಿದ್ಧಾಃ ಸಂದೀಪ್ತಾ ಭವಂತು । ಅಪಿ ಚ ವಿಶ್ವೇ ಸರ್ವ ಇಂದ್ರಾದಯೋ
+> ದೇವಾ ನೋಽಸ್ಮಾಕಮವಸಾ ರಕ್ಷಣೇನಾ ಗಮಂತು । ಆಗಚ್ಛಂತು । ಕಿಂಚಾಸ್ಮೇ ಆಸ್ಮಾಸು ವಿಶ್ವಂ
+> ಸರ್ವಂ ದ್ರವಿಣಂ ಧನಂ ವಾಜೋಽನ್ನಂ ಚಾಸ್ತು । ಭವತು ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅದ್ಯ—ಈ ಯಾಗದ ದಿನ । ವಿಶ್ವೇ—ಸಮಸ್ತರಾದ । ಮರುತಃ—ಮರುತ್ತುಗಳೂ । ವಿಶ್ವೇ—ಉಳಿದ
+ಸಕಲ ದೇವತೆಗಳೂ । ಊತೀ—ರಕ್ಷಣಾರ್ಥವಾಗಿರಲಿ । ವಿಶ್ವೇ—ಸಕಲವಾದ । ಅಗ್ನಯಃ—ಆಹವನೀ
+
+<!-- printed 889 -->
+*[ವ. ೭. ಅ. ೮. ವ. ೮.] ಋಗ್ವೇದಸಂಹಿತಾ 889]*
+
+ಯಾದ್ಯಗ್ನಿಗಳೂ । ಸಮಿದ್ಧಾಃ—ಪ್ರಜ್ವಲಿತಗಳಾಗಿ । ಭವಂತು—ಅಗಿರಲಿ । ವಿಶ್ವೇ--ಸಕಲವಾದ । ದೇವಾಃ—
+ದೇವತೆಗಳೂ । ನಃ—ನಮ್ಮ । ಅವಸಾ—ರಕ್ಷಣಾರ್ಥವಾಗಿ । ಆ ಗಮಂತು—ಬರಲಿ । ವಿಶ್ವಂ—ಸಕಲವಾದ ।
+ದ್ರವಿಣಂ—ಧನವೂ । ವಾಜಃ—ಅನ್ನವೂ । ಅಸ್ಮೇ ಅಸ್ತು—ನಮಗಿರಲಿ.
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಈ ಯಾಗದ ದಿನ ಸಕಲ ಮರುತ್ತುಗಳೂ, ಉಳಿದ ಸಕಲ ದೇವತೆಗಳೂ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಲಿ.
+ಆಹವನೀಯಾದಿ ಸಕಲ ಅಗ್ನಿಗಳೂ ಪ್ರಜ್ವಲಿತರಾಗಲಿ. ಸಕಲ ದೇವತೆಗಳೂ ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ ಬರಲಿ.
+ನಮಗೆ ಸಕಲ ಧನವೂ ಅನ್ನವೂ ಪ್ರಾಪ್ತವಾಗಲಿ.
+
+*English Translation.*
+
+This day, may all the Maruts, all the (deities), be for our protection and may all the fires be kindled.  May all the gods come for our preser- vation, and may all wealth and food be ours.
+*[೧ ಸಂಹಿತಾಪಾಠ ॥]*
+
+#### ಋಕ್ ೧೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯಂ ದೇವಾಸೋಽವಥ ವಾಜಸಾತ್ ಯಂ ತ್ರಾಯಧ್ಯೇ ಯಂ ಪಿಪೃಥಾತ್ಯಂಹಃ ।
+> ಯೋ ವೋ ಗೋಪೀಥೇ ನ ಭಯಸ್ಯ ವೇದ ತೇ ಸ್ಯಾಮ ದೇವವೀತಯೇ
+> ತುರಾಸಃ ॥ ೧೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯಂ । ದೇವಾಸಃ । ಅವಥ । ವಾಜಸಾತ್ । ಯಂ । ತ್ರಾಯಧ್ವೇ । ಯಂ । ಪಿಪೃಥ । ಅತಿ । ಅಹಃ ।
+> ಯಃ । ವಃ । ಗೋಪೀಥೇ । ನ । ಭಯಸ್ಯ । ವೇದ । ತೇ । ಸ್ಯಾಮ । ದೇವವೀತಯೇ । ತುರಾಸಃ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ತುರಾಸೋಽಭೀಷ್ಟಪ್ರದಾನೇ ಕ್ಷಿಪ್ರಾ ದೇವಾಸೋ ದೇವಾಃ ಯೂಯಂ ವಾಜಸಾತ್
+> ಸಂಗ್ರಾಮೇ ಯಂ ಮನುಷ್ಯಮವಥ ರಕ್ಷಥ ಯಂ ಚ ತ್ರಾಯದ್ವೇ ಶತ್ರೋಃ ಪಾಲಯಥ ಯಂ ಚಾಂಹಃ
+> ಪಾಪಮತ್ಯತಿನೀಯ ಪಿಪೃಥ ಕಾಮೈಃ ಪೂರಯಥ ಯಶ್ಚಾಪಿ ಮನುಷ್ಯೋ ವೋ ಯುಷ್ಮಾಕಂ ಕಾರ್ಯತ್ವೇನ ಸಂಬಂಧಿನಿ ಗೋಪೀಥೇ ರಕ್ಷಣೇ ಭಯಸ್ಯ ಭಯಂ ನ ವೇದ ನ ಜಾನಾತಿ ತೇ ಸರ್ವೆ ವಯಂ
+> ದೇವವೀತಯೇ ಯಜ್ಞಾರ್ಥಂ ಸ್ಯಾಮ । ಭವೇಮ ॥
+
+<!-- printed 890 -->
+*[೯೨೦ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦, ಅ. ೩. ಸೂ. ೩೬]*
+
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ತುರಾಸಃ—ಶ್ರೀಘ್ರವಾಗಿ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ನೆರವೇರಿಸುವ । ದೇವಾಸಃ—ಎಲೈ ದೇವತೆಗಳೇ ।
+ವಾಜಸಾತ್—ಸಂಗ್ರಾಮದಲ್ಲಿ । ಯಂ—ಯಾವನನ್ನು । ಅವಥ—ನೀವು ರಕ್ಷಿಸುವಿರೋ । ಯಂ—ಯಾರನ್ನು ॥
+ತ್ರಾಯಧ್ವೇ—ಶತ್ರುಗಳಿಂದ ರಕ್ಷಿಸುವಿರೋ । ಯಂ—ಯಾರನ್ನು । ಅ೦ಹಃ ಅತಿ—ಪಾಪದಿಂದ ದಾಟಿಸಿ ।
+ಪಿಪೃಥ—ಅವನ ಇಷ್ಟಾರ್ಥವನ್ನು ನೆರವೇರಿಸುವಿರೋ । ಯಃ—ಯಾವ ಪುರುಷನು । ವಃ—ನಿಮ್ಮಿಂದ ದತ್ತವಾದ ।
+ಗೋಪೀಥೇ—ರಕ್ಷಣೆಯಲ್ಲಿ । ಭಯಸ್ಯ—ಭಯವನ್ನು । ನ ವೇದ—ಅರಿಯುವುದಿಲ್ಲವೋ । ತೇ—ಇಂತಹ
+ನಾವೆಲ್ಲರೂ । ದೇವವೀತಯೇ—ಯಜ್ಞಕಾರ್ಯಕ್ಕೆ । ಸ್ಯಾಮ—ಸಿದ್ಧರಾಗಿರುವಂತಾಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಶ್ರೀಘ್ರವಾಗಿ ಇಷ್ಟಾರ್ಥಗಳನ್ನು ನೆರವೇರಿಸುವ ಎಲೈ ದೇವತೆಗಳೇ, ಸಂಗ್ರಾಮದಲ್ಲಿ ನೀವು ಯಾರನ್ನು
+ರಕ್ಷಿಸುವಿರೋ, ಯಾರನ್ನು ಪಾಪದಿಂದ ದಾಟಿಸಿ ಅವನ ಇಷ್ಟಾರ್ಥವನ್ನು ನೆರವೇರಿಸುವಿರೋ, ಯಾವ ಪುರುಷನು
+ನಿಮ್ಮಿಂದ ದತ್ತವಾದ ರಕ್ಷಣೆಯಲ್ಲಿ ಭಯವನ್ನೇ ಅರಿಯುವುದಿಲ್ಲವೋ ಇಂತಹ ನಾವೆಲ್ಲರೂ ಯಜ್ಞಕಾರ್ಯಕ್ಕೆ
+ಸಿದ್ಧರಾಗಿರುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+Gods, who are prompt (to grant our desires), may he whom you guard in battle, whom you defend (from his enemies), whom having extricated from sin, you gratify (in all his wishes), who (secure) in your protection, knows not of fear, may we (who are all this) bc assiduous in offering sacrifice to the gods.
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of symmetrical swirls and lines.]*
+ಮೂವತ್ತಾರನೆಯ ಸೂಕ್ತವು.
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಉಷಾಸಾನಕ್ತೇತಿ ಚತುರ್ದಶರ್ಚಂ ಸಪ್ತಮಂ ಸೂಕ್ತಂ । ಧಾನಾಕಸ್ಯ ಲುಶಸ್ತ್ಯಾರ್ಷಂ ।
+> ಆದಿತೋ ದ್ವಾದಶ ಜಗತ್ಯಸ್ತತೋ ದ್ವೇ ತ್ರಿಷ್ಟುಭೌ । ವಿಶ್ವೇ ದೇವಾ ದೇವತಾ । ಪೂರ್ವಸೂಕ್ತೇ ವೈಶ್ವದೇವಂ ತು ದ್ವಿತ್ರಿಷ್ಟುಬಂತಂ ತ್ವಿತ್ಯುಕ್ತತ್ವಾತ್ । ಉಷಾಸಾನಕ್ತೇತ್ಯನುಕ್ರಾಂತಂ ॥ ಅಭಿಪ್ಲವಿಕೇ
+> ಷಷ್ಠೇಽಹನಿ ವೈಶ್ವದೇವ ಇದಂ ವೈಶ್ವದೇವನಿವಿದ್ಧಾನಂ । ಸೂತ್ರಿತಂ ಚ । ಕತರಾ ಪೂರ್ವೋಷಾಸಾನಕ್ತೇತಿ ವೈಶ್ವದೇವಂ । ಆ. ೭ ೭ । ಇತಿ ॥
+ಅನುವಾದವು—ಉಷಾಸಾನಕ್ತಾ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಏಳನೆಯ ಸೂಕ್ತವು.
+ಇದರಲ್ಲಿ ಹದಿನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಧನಾಕಪುತ್ರನಾದ ಲುಶನೆಂಬುವನು ಋಷಿಯು;
+
+<!-- printed 891 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೯ ] ಋಗ್ವೇದಸಂಹಿತಾ 891]*
+
+ವಿಶ್ವೇದೇವತೆಗಳು ದೇವತೆಯು ; ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಹನ್ನೆರಡು ಋಕ್ಕುಗಳು ಜಗತೀಛಂದಸ್ಕವು. ಕೊನೆಯ
+ಎರಡು ಋಕ್ಕುಗಳು ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು- ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ-ಉಷಾಸಾನಕ್ತಾ ಎಂದು ಹೇಳಿರುವುದು.
+ಅಭಿಪ್ಲವಯಾಗದಲ್ಲಿ ಆರನೆಯ ದಿವಸ ವೈಶ್ವದೇವಶಸ್ತ್ರಮಂತ್ರಗಳ ಮಧ್ಯದಲ್ಲಿ ಈ ಸೂಕ್ತವನ್ನು ವೈಶ್ವದೇವನಿವಿದ್ಧಾನ
+ಸೂಕ್ತವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ-ಕತರಾ ಪೂರ್ವೋಷಾಸಾನಕ್ತೇತಿ ವೈಶ್ವದೇವಂ
+ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೭) ವಿವೃತವಾಗಿರುವುದು.
+ಸೂಕ್ತ,—೩೬
+
+## ಸೂಕ್ತ ೩೬ (ಮಂಡಲ ೧೦)
+
+ಮಂಡಲ—೧೦ । ಅನುವಾಕ—೩ । ಸೂಕ್ತ—೩೬ ॥
+ಅಷ್ಟಕ—೭ ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೯, ೧೦, ೧೧ ॥
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೪ ॥
+ಋಷಿಃ—ಲುಶೋ ಧಾನಾಕಃ ।
+ದೇವತಾ—ವಿಶ್ವೇ ದೇವಾಃ ॥
+ಛಂದಃ—೧-೧೨. ಜಗತೀ । ೧೩-೧೪. ತ್ರಿಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಉಷಾಸಾನಕ್ತಾ ಬೃಹತೀ ಸುಪೇಶಸಾ ದ್ಯಾವಾಕ್ಷಾಮಾ ವರುಣೋ ಮಿತ್ರೋ
+> ಅರ್ಯಮಾ ।
+> ಇಂದ್ರಂ ಹುವೇ ಮರುತಃ ಪರ್ವತಾ ಅಪ ಆದಿತ್ಯಾನ್ದಾವಾಪೃಥಿವೀ
+> ಅಪಃ ಸ್ವಃ ॥ ೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಉಷಸಾನಕ್ತಾ । ಬೃಹತೀ ಇತಿ । ಸುಪೇಶಸಾ । ದ್ಯಾವಾಕ್ಷಮಾ । ವರುಣಃ । ಮಿತ್ರಃ । ಅರ್ಯಮಾ ।
+> ಇಂದ್ರಂ । ಹುವೇ । ಮರುತಃ । ಪರ್ವತಾನ್ । ಅಪಃ । ಆದಿತ್ಯಾನ್ । ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ । ಅಪಃ ।
+> ಸ್ವಗರಿತಿ ಸ್ವಃ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಬೃಹತೀ ಬೃಹತ್ಯೌ ಮಹತ್ಯೌ ಸುಪೇಶಸಾ ಸುರೂಪೇ ಉಷಾಸಾನಕ್ತಾ ರಾತ್ರ್ಯುಷಸೌ ದ್ಯಾವಾಕ್ಷಾಮಾ ದ್ಯಾವಾಪೃಥಿವ್ಯೌ ಚ ವರುಣೋ ಮಿತ್ರೋ ಮಿತ್ರಾವರುಣೌ ಚಾರ್ಯಮಾ ಚ ಯೇಽತ್ರ ವಿಹಿತಾ
+> ದೇವಾಃ ತಾನೇತಾನಿಂದ್ರಂ ಮರುತಶ್ಚ ಪರ್ವತಾಂಶ್ಚಾಪ ಉದಕಾನಿ ಚಾದಿತ್ಯಾಂಶ್ಚ ದ್ಯಾವಾಪೃಥಿವೀ
+
+<!-- printed 892 -->
+*[892 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೬]*
+
+> ದ್ಯಾವಾಪೃಥಿವ್ಯೌ ಚ । ಪುನರ್ದ್ಯಾವಾಪೃಥಿವ್ಯೋರ್ಗ್ರಹಣಮಾದರಾರ್ಥಂ । ಅಪೋಽಂತರಿಕ್ಷಂ ಚ ಸ್ವಃ
+> ಸರ್ವಂ ಚ ಯಷ್ಟವ್ಯಂ ದೇವಜಾತಂ ಹುವೇ । ದ್ವಯಾಮಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಬೃಹತೀ—ಮಹತ್ಸ್ವರೂಪವುಳ್ಳವರೂ । ಸುಪೇಶಸಾ—ಉತ್ತಮವಾದ ರೂಪವುಳ್ಳವರೂ ಆದ ।
+ಉಷಾಸಾನಕ್ತಾ—ಉಷಸ್ ಮತ್ತು ರಾತ್ರ್ಯಧಿವೇವತೆಯೂ । ದ್ಯಾವಾಕ್ಷಾಮಾ—ದ್ಯಾವಾಪೃಥಿವಿಗಳೂ ।
+ವರುಣಃ—ವರುಣನೂ । ಮಿತ್ರಃ—ಮಿತ್ರನೂ । ಅರ‍್ಯಮಾ—ಅರ‍್ಯಮನೂ ಆದಿಯಾಗಿ ಈ ಯಾಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದ
+ದೇವತೆಗಳನ್ನು । ಇಂದ್ರಂ—ಇಂದ್ರನನ್ನೂ । ಮರುತಃ—ಮರುತ್ತುಗಳನ್ನೂ । ಪರ್ವತಾನ್—ಪರ್ವತಗಳನ್ನೂ ।
+ಅಪಃ—ಉದಕಗಳನ್ನೂ । ಆದಿತ್ಯಾನ್—ಆದಿತ್ಯರನ್ನೂ । ದ್ಯಾವಾಪೃಥಿವೀ—ದ್ಯಾವಾಪೃಥಿವಿಗಳನ್ನೂ । ಅಪಃ—
+ಅಂತರಿಕ್ಷವನ್ನೂ । ಸ್ವಃ—ಸಕಲ ದ್ಯುಲೋಕದ ದೇವಸಂಘವನ್ನೂ । ಹುವೇ—ಕರೆಯುತ್ತೇನೆ.
+*[೧ ಭಾವಾರ್ಥಿ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಮಹತ್ಸ್ವರೂಪವುಳ್ಳವರೂ, ಉತ್ತಮವಾದ ಸೌಂದಯ್ಯವುಳ್ಳವರೂ ಆದ ಉಷಸ್ ಮತ್ತು ರಾತ್ರ್ಯಧಿದೇವತೆ
+ಗಳನ್ನೂ, ದ್ಯಾವಾಪೃಥಿವಿಗಳನ್ನೂ, ವರುಣ, ಮಿತ್ರ, ಅರ್ಯಮ, ಇಂದ್ರ, ಮರುತ್ತುಗಳು, ಪರ್ವತಗಳು, ಉದಕಗಳು,
+ಆದಿತ್ಯರು, ಆಂತರಿಕ್ಷ ಇತ್ಯಾದಿ ಸಕಲ ದೇವಸಂಘವನ್ನೂ ಪ್ರಾರ್ಥಿಸಿ ಕರೆಯುತ್ತೇನೆ.
+
+*English Translation.*
+
+I invoke the vast and beautiful day and night, heaven and earth,
+Mitra and Varuna with Aryaman, Indra, the Maruts, the mountains, the
+waters, the Adityas, heaven and earth, the waters (of the firmament), the
+whole (host of the gods).
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ದೌಶ್ಚ ನಃ ಪೃಥಿವೀ ಚ ಪ್ರಚೇತಸ ಋತಾವರೀ ರಕ್ಷತಾಮಂಹಸೋ ರಿಷಃ ।
+> ಮಾ ದುರ್ವಿದತ್ರಾ ನಿರ್ಋತಿರ್ನ ಈಶತ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ
+> ವೃಣೀಮಹೇ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ದ್ಯಾಃ । ಚ । ನಃ । ಪೃಥಿವೀ । ಚ । ಪ್ರಚೇತಸಾ । ಋತವರೀ ಇತ್ಯೃತವರೀ । ರಕ್ಷತಾಂ । ಅಂಹಸಃ ।
+> ರಿಷಃ ।
+> ಮಾ । ದುಃವಿದತ್ರಾ । ನಿಋತಿಃ । ನಃ । ಈಶತ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಆದ್ಯ । ವೃಣೀಮಹೇ ॥ ೨ ॥
+
+<!-- printed 893 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 893]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಪ್ರಚೇತಸಾ ಸುಬುದ್ಧೀ ಋತಾವರೀ ಯಜ್ಞವತ್ಯೌ ಸತ್ಯವತ್ಯೌ ದ್ಯೌಶ್ಚ ಪೃಥಿವೀ ಚ ದ್ಯಾವಾಪೃಥಿವ್ಯಾವುಭೇ ನೋಽಸ್ಮಾನಿಷೋ ಹಿಂಸಕಾದಂಹಸಃ ಪಾಪಾಚ್ಚ ರಕ್ಷತಾಂ । ಕಿಂಚ ದುರ್ವಿದತ್ತಾ
+> ಕುತ್ಸಿತಜ್ಞಾನಾ, ನಿರ್ಋತಿರ್ಮೃತ್ಯುದೇವತಾ ನೋಽಸ್ಮಾಕಂ ಮೇಶತ । ಈಶ್ವರೀ ಮಾ ಭೂತ್ । ಕಿಂಚ
+> ವಯಂ ದೇವಾನಾಂ ಸಂಬಂಧಿ ತದಸಾಧಾರಣಮವೋ ರಕ್ಷಣಮದ್ಯಾಸ್ಮಿನ್ನಹನಿ ಪ್ರಧಾನಯಾಗದಿವಸೇ
+> ವೃಣೀಮಹೇ । ಪ್ರಾರ್ಥಯಾಮಹೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಪ್ರಚೇತಸಾ—ಉತ್ತಮವಾದ ಪ್ರಜ್ಞೆಯುಳ್ಳವರೂ । ಋತಾವರೀ—ಸತ್ಯಪಾಲಕಿಯರೂ ಆದ ।
+ದೌಶ್ಚ ಪೃಥಿವೀ ಚ—ದ್ಯಾವಾಪೃಥಿವಿಗಳಿಬ್ಬರೂ । ನಃ—ನಮ್ಮನ್ನು । ರಿಷಃ—ಹಿಂಸಕರಿಂದಲೂ । ಅಂಹಸಃ—
+ಪಾಪಗಳಿಂದಲೂ । ರಕ್ಷತಾಂ—ರಕ್ಷಿಸಲಿ । ದುರ್ವಿದತ್ರಾ—ಕೆಡುಕು ಬುದ್ಧಿಯುಳ್ಳ । ನಿರ್ಯತಿಃ—ಮೃತ್ಯು
+ದೇವತೆಯು । ನಃ—ನಮ್ಮ ಮೇಲೆ । ಮಾ ಈಶತ—ಪ್ರಭುತ್ವವನ್ನು ಮಾಡದಿರಲಿ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ
+ಅನುಗೃಹೀತವಾಗುವ । ತತ್—ಅಸಾಧಾರಣವಾದ ! ಅವಃ—ರಕ್ಷಣವನ್ನು । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ ।
+ವೃಣೀಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಉತ್ತಮವಾದ ಪ್ರಜ್ಞೆಯುಳ್ಳವರೂ, ಸತ್ಯಪಾಲಕಿಯರೂ ಆದ ದ್ಯಾವಾಪೃಥಿವಿಗಳಿಬ್ಬರೂ ನಮ್ಮನ್ನು
+ಹಿಂಸಕರಿಂದಲೂ ಪಾಪಗಳಿಂದಲೂ ರಕ್ಷಿಸಲಿ. ಕೆಡಕುಬುದ್ಧಿಯುಳ್ಳ ಮೃತ್ಯುದೇವತೆಯು ನಮ್ಮ ಮೇಲೆ ಪ್ರಭುತ್ವವನ್ನು
+ಮಾಡದಿರಲಿ. ದೇವತೆಗಳಿಂದ ಅನುಗೃಹೀತವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣವನ್ನು ಈ ಯಾಗಕಾಲದಲ್ಲಿ
+ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May the intelligent and truthful heaven and earth defend us from sin, and from the malignant : let not the malevolent Nirriti have power over us : we solicit to-day this protection of the gods.
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ವಿಶ್ವಸ್ಮಾನ್ನೋ ಅದಿತಿಃ ಪಾತ್ವಂಹಸೋ ಮಾತಾ ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ ರೇವತಃ।
+> ಸ್ವರ್ವಜ್ಯೋತಿರವೃಕಂ ನಶೀಮಹಿ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ ವೃಣೀಮಹೇ ॥ ೩ ॥
+
+<!-- printed 894 -->
+*[894 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೬.]*
+
+
+*ಪದಪಾಠಃ*
+
+> ವಿಶ್ವಸ್ಮಾತ್ । ನಃ । ಅದಿತಿಃ । ಪಾತು । ಅಂಹಸಃ । ಮಾತಾ । ಮಿತ್ರಸ್ಯ । ವರುಣಸ್ಯ । ರೇವತಃ ।
+> ಸ್ವರ್ಽವತ್ । ಜ್ಯೋತಿಃ । ಅವೃಕಂ । ನಶೀಮಹಿ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೀಮಹೇ!!
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ರೇವತೋ ಧನವತೋ ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ ಚ ಧನವತೋರ್ಮಿತ್ರಾವರುಣಯೋರ್ಮಾತಾ
+> ಜನನ್ಯದಿತಿರ್ದೇವೀ ನೋಽಸ್ಮಾನ್ವಿಶ್ವಸ್ಮಾತ್ಸರ್ವಸ್ಮಾದಂಹಸಃ ಪಾಪಾತ್ಪಾತು । ರಕ್ಷತು । ಕಿಂಚ ವಯಮವೃಕಂ ಬಾಧಕರಹಿತಂ ಸ್ವರ್ವತ್ ಸರ್ವಂ ಜ್ಯೋತಿಸ್ತೇಜೋ ನಶೀಮಹಿ । ನಶಿಃ ಪಲಾಯನಕರ್ಮಾ ।
+> ಪಲಾಯನಂ ಚ ಶೀಘ್ರಗಮನಂ । ಶೀಘ್ರಂ ಪ್ರಾಪ್ನುಮ ಇತ್ಯರ್ಥಃ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ರೇವತಃ—ಧನವಂತನಾದ । ಮಿತ್ರಸ್ಯ—ಮಿತ್ರನಿಗೂ । ವರುಣಸ್ಯ—ವರುಣನಿಗೂ । ಮಾತಾ—
+ಜನನಿಯಾದ । ಅದಿತಿಃ—ಅದಿತಿದೇವಿಯು । ನಃ—ನಮ್ಮನ್ನು । ವಿಶ್ವಸ್ಮಾತ್—ಸಮಸ್ತವಾದ । ಅಂಹಸಃ—
+ಪಾಪದಿಂದ । ಪಾತು—ರಕ್ಷಿಸಲಿ । ಅವೃಕಂ—ಹಿಂಸಾರಹಿತವಾದ । ಸರ್ವಂ ಜ್ಯೋತಿಃ—ಸಕಲ ತೇಜಸ್ಸನ್ನೂ ।
+ನಶೀಮಹಿ—ನಾವು ಶೀಘ್ರವಾಗಿ ಹೊಂದುವಂತೆ ಆಗಲಿ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ।
+ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ವೃಣೀಮಹೇ—
+ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+*[॥ ಭಾಷಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಧನವಂತನಾದ ಮಿತ್ರನಿಗೂ ವರುಣನಿಗೂ ಜನನಿಯಾದ ಆದಿತಿದೇವಿಯು ನಮ್ಮನ್ನು ಸಮಸ್ತವಾದ
+ಪಾಪದಿಂದ ರಕ್ಷಿಸಲಿ. ಹಿಂಸಾರಹಿತವಾದ ಸಕಲ ತೇಜಸ್ಸನ್ನೂ ನಾವು ಶೀಘ್ರವಾಗಿ ಹೊಂದುವಂತಾಗಲಿ.
+ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣವನ್ನು ನಾವು ಈ ಯಾಗಕಾಲದಲ್ಲಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May Aditi, the mother of the opulent Mitra and Varuna, preserve
+us from all sin, may we hasten to celestial light, which is free from
+oppressors: we solicit to-day this protection of the gods.
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಗ್ರಾವಾ ವದನ್ನಪ ರಕ್ಷಾಂಸಿ ಸೇಧತು ದುಃಷ್ವಷ್ಟ್ಯಂ ನಿರ್ಋತಿಂ ವಿಶ್ವಮತ್ರಿಣಂ ।
+
+<!-- printed 895 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೯.] ಋಗ್ವೇದಸಂಹಿತಾ 895]*
+
+> ಆದಿತ್ಯಂ ಶರ್ಮ ಮರುತಾಮಶೀನುಹಿ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ ವೃಣೇಮಹೇ ॥ ೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಗ್ರಾವಾ । ವದನ್ । ಅಪ । ರಕ್ಷಾಂಸಿ । ಸೇಧತು । ದುಃಸ್ವಪ್ನಂ । ನಿಃಋತಿಂ । ವಿಶ್ವಂ । ಅತ್ರಿಣಂ ।
+> ಆದಿತ್ಯಂ । ಶರ್ಮ । ಮರುತಾಂ । ಅಶೀಮಹಿ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೇಮಹೇ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಗ್ರಾವಾಭಿಷವಪಾಷಾಣೋ ವದನ್ನಭಿಷವವೇಲಾಯಾಂ ಶಬ್ದಂ ಕುರ್ವನ್ರಕ್ಷಾಂಸಿ ಯಾಗವಿಘ್ನಕಾರೀಣ್ಯಪ ಸೇಧತು । ವಿನಿವಾರಯತು । ದುಃಸ್ವಪ್ನಂ ದುಃಸ್ವಪ್ನಪ್ರಭವಮಸ್ಮದೀಯಮನಿಷ್ಟಂ ಚಾಪ
+> ಸೇಧತು । ನಿರ್ಋತಿಂ ಮೃತ್ಯುದೇವತಾಂ ಚಾಪ ಸೇಧತು । ಅತ್ರಿಣಮದನಶೀಲಂ ವಿಶ್ವಂ ಸರ್ವಂ ಪಿಶಾಚಾದಿಕಂ ಚಾಪ ಸೇಧತು । ಏವಂ ನಿರ್ವಿಘ್ನತ್ವೇನ ನಿಪ್ಪನ್ನೇ ಯಾಗೇ ವಯಮಾದಿತ್ಯಮಾದಿತ್ಯಾನಾಂ
+> ಸಂಬಂಧಿ ಮರುತಾಂ ಚ ಸಂಬಂಧಿ ಶರ್ಮ ಸುಖಮಶೀಮಹಿ । ಪ್ರಾಪ್ಪುಯಾಮ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಗ್ರಾವಾ—ಹಿಂಡುವ ಕಲ್ಲು । ವದನ್—ಶಬ್ದ ಮಾಡುತ್ತ । ರಕ್ಷಾಂಸಿ—ರಾಕ್ಷಸರನ್ನು । ಅಪ ಸೇಧತುದೂರಕ್ಕೆ ಓಡಿಸಲಿ । ದುಃಸ್ವಪ್ನಂ—ಕೆಟ್ಟ ಕನಸಿನ ಫಲವನ್ನು ನಾಶಮಾಡಲಿ । ನಿರ್ಯತಿಂ—ಮೃತ್ಯುದೇವತೆ
+ಯನ್ನು ನಾಶಮಾಡಲಿ । ಅತ್ರಿಣಂ—ಸರ್ವಭಕ್ಷಕವಾದ । ವಿಶ್ವಂ—ಸಕಲ ಪಿಶಾಚಾದಿಗಳನ್ನು ಓಡಿಸಲಿ ।
+ಆದಿತ್ಯಂ—ಆದಿತ್ಯರಿಂದ ದತ್ತವಾಗುವುದೂ । ಮರುತಾಂ—ಮರುತ್ತುಗಳಿಂದ ಕೊಡಲ್ಪಡುವುದೂ ಆದ ! ಶರ್ಮಸುಖವನ್ನು । ಆಶೀಮಹಿ—ನಾವು ಹೊಂದುವಂತಾಗಲಿ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ । ತತ್—
+ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು ಆದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ವೃಣೇಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೇನೆ.
+*[೪ ಭಾನುವಾರ ೪]*
+
+*ಭಾವಾರ್ಥ*
+
+ಸೋಮವನ್ನು ಹಿಂಡುವ ಕಲ್ಲು ಶಬ್ದ ಮಾಡುತ್ತ ರಾಕ್ಷಸರನ್ನೂ ಮೃತ್ಯುದೇವತೆಯನ್ನೂ ಸರ್ವಭಕ್ಷಕರಾದ
+ಸಕಲ ಪಿಶಾಚಾದಿಗಳನ್ನೂ ದೂರಕ್ಕೆ ಓಡಿಸಲಿ. ಕೆಟ್ಟ ಕನಸಿನ ಫಲಗಳನ್ನು ನಾಶಮಾಡಿ ನಮಗಂಟದಂತೆ ಮಾಡಲಿ.
+ಆದಿತ್ಯರಿಂದಲೂ ಮರುತ್ತುಗಳಿಂದಲೂ ಸಿಕ್ಕಬೇಕಾದ ಸುಖವನ್ನು ನಾವು ಹೊಂದುವಂತಾಗಲಿ. ದೇವತೆಗಳಿಂದ
+ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣೆಯನ್ನು ನಾವು ಈ ಯಾಗಕಾಲದಲ್ಲಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May the sounding stone drive away Rakshasas, evil dreams, Nirriti, and every spirit of ill : may we obtain the happiness of the Adityas and the Maruts : we solicit to-day this protection of fhe gods.
+
+<!-- printed 896 -->
+*[896 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂಕ್ತ. ೩೬]*
+
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಏಂದ್ರೋ ಬರ್ಹಿಃ ಸೀದತು ಪಿನ್ನತಾಮಿಳಾ ಬೃಹಸ್ಪತಿಃ ಸಾಮಭಿರ್ಋಕ್ವೋ ಅರ್ಚತು ।
+> ಸುಪ್ರಕೇತಂ ಜೀವಸೇ ಮನ್ಮ ಧೀಮಹಿ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ ವೃಣೀಮಹೇ ॥ ೫ ॥
+*[೧ ಪದಪಾವತಿ ।]*
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ಇಂದ್ರಃ । ಬರ್ಹಿಃ । ಸೀದತು । ಪಿನ್ವತಾಂ । ಇಳಾ । ಬೃಹಸ್ಪತಿಃ । ಸಾಮಭಿಃ । ಯಕ್ವಃ । ಅರ್ಚತು ।
+> ಸುಪ್ರಕೇತಂ । ಜೀವಸೇ । ಮನ್ಮ । ಧೀಮಹಿ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೇಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಇಂದ್ರೋ ಬರ್ಹಿರಾ ಸೀದತು । ಇಳಾ ಮಾಧ್ಯಮಿಕಾ ಸ್ತನಯಿತ್ಸುಲಕ್ಷಣಾ ವಾಗಪಿ ಪಿನ್ನತಾಂ ।
+> ಕಿಂತು ಸಾಮಭಿರ್ಗೀಯಮಾನ ಯಕ್ವಃ ಸ್ತುತಿಮಾನ್ಬೃಹಸ್ಪತಿರಪ್ಯರ್ಚತು । ಅಸ್ಮಾನ್ಪೂಜಯತು ।
+> ಕಿಂಚ ವಯಂ ಸುಪ್ರಕೇತಂ ಸುಪ್ರಜ್ಞಾನಂ ಮನ್ಮ ಮನನೀಯಂ ಧನಂ ಸ್ತೋತ್ರಂ ವಾ ಧೀಮಹಿ
+> ನಿದಧೀಮಹಿ ಜೀವಸೇ ಜೀವನಾಯ । ಸಿದ್ಧಮನ್ಯತ್ ।
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇಂದ್ರಃ—ಇಂದ್ರನು । ಬರ್ಹಿಃ—ದಭಾಸನದ ಮೇಲೆ । ಆ ಸೀದತು—ಕುಳಿತುಕೊಳ್ಳಲಿ । ಇಳಾ—
+ಮಾಧ್ಯಮಿಕಾ ವಾಕ್ಕು । ಪಿನ್ವತಾಂ—ಅನುಗ್ರಹವನ್ನು ನೀಡಲಿ । ಸಾಮಭಿಃ—ಸಾಮಗಾನದಿಂದ ಪ್ರಶಂಸಿತನೂ ।
+ಋಕ್ವಃ—ಋಗ್ರೂಪವಾದ ಸ್ತುತಿಯುಳ್ಳವನೂ ಆದ । ಬೃಹಸ್ಪತಿಃ—ಬೃಹಸ್ಪತಿಯು । ಅರ್ಚತು—ನಮ್ಮನ್ನು
+ತೃಪ್ತಿಗೊಳಿಸಲಿ । ಸುಪ್ರಕೇತಂ—ಪ್ರಜ್ಞಾಯುತವಾದುದೂ । ಮನ್ಮ—ಧ್ಯಾನಾತ್ಮಕವೂ ಆದ ಸ್ತೋತ್ರವನ್ನು ।
+ಜೀವಸೇ—ನಮ್ಮ ಜೀವನಲಾಭಕ್ಕಾಗಿ । ಧೀಮಹಿ—ಅರ್ಪಿಸುತ್ತೇವೆ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯ
+ವಾಗೂವ । ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ವೃಣೇಮಹೇ—
+ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಇಂದ್ರನು ದರ್ಭಾಸನದ ಮೇಲೆ ಬಂದು ಕುಳಿತುಕೊಳ್ಳಲಿ. ಮಾಧ್ಯಮಿಕಾವಾಕ್ಕು ಅನುಗ್ರಹವನ್ನು ನೀಡಲಿ.
+ಸಾಮಗಾನದಿಂದ ಪ್ರಶಂಸಿತನೂ ಋಗ್ರೂಪವಾದ ಸ್ತುತಿಯುಳ್ಳವನೂ ಆದ ಬೃಹಸ್ಪತಿಯು ನಮ್ಮನ್ನು ತೃಪ್ತಿಗೊಳಿಸಲಿ.
+ಪ್ರಜ್ಞಾಯುತವಾದುದೂ, ಧ್ಯಾನಾತ್ಮಕವೂ ಆದ ಸ್ತೋತ್ರವನ್ನು ನಮ್ಮ ಜೀವನಲಾಭಕ್ಕಾಗಿ ಆರ್ಪಿಸುತ್ತೇವೆ.
+ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣೆಯನ್ನು ಈ ಯಾಗಕಾಲದಲ್ಲಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+<!-- printed 897 -->
+*[ಅ. ೭. ಅ. ೮. ವ ೧೦.] ಋಗ್ವೇದಸಂಹಿತಾ 897]*
+
+
+*English Translation.*
+
+May Indra sit down upon the sacred grass: may Ila be propitious : May Brihaspati the singer hymned with Samans honour us: we offer an intelligent prayer for life: we solicit to-day this protection of the gods.
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ದಿವಿಸ್ಪೃಶಂ ಯಜ್ಞಮಸ್ಮಾಕಮಶ್ವಿನಾ ಜೀರಾಧ್ವರಂ ಕೃಣುತಂ ಸುಮ್ಮನಿಷ್ಟಯೇ ।
+> ಪ್ರಾಚೀನರಶ್ಮಿಮಾಹುತಂ ಧೃತೇನ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ ವೃಣೀಮಹೇ ॥ ೬ ॥
+
+*ಪದಪಾಠಃ*
+
+> ದಿವಿಸ್ಪೃಶಂ । ಯಜ್ಞಂ । ಅಸ್ಮಾಕಂ । ಅಶ್ವಿನಾ । ಜೀರಅಧ್ವರಂ । ಕೃಣುತಂ ಸುಮ್ಮಂ । ಇಷ್ಟಯೇ ।
+> ಪ್ರಾಚೀನರಶ್ಮಿಂ । ಆಹುತಂ । ಧೃತೇನ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೀಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+> ಹೇ ಅಶ್ವಿನ್ ಯುವಾಂ ನೋಽಸ್ಮಾಕಂ ಯಜ್ಞಂ ದಿವಿಸ್ಪೃಶಂ ದಿವಿ ಸ್ಪಷ್ಟಾರಂ ಗಂತಾರಂ
+> ಕೃಣುತಂ । ಕುರುತಂ । ತಥಾ ಜೀರಾಧ್ವರಂ ಕ್ಷಿಪ್ರಂ ಹಿಂಸಾರಹಿತಂ ಚ ಯಜ್ಞಂ ನೋಽಸ್ಮಾಕಂ ಕೃಣುತಂ।
+> ಕುರುತಂ । ಇಪ್ಪಯೇಽಭಿಲಷಿತಸಿದ್ಧ್ಯರ್ಥಂ ಸುಮ್ಮಂ ಸುಖಂ ಚ ಕುರುತಂ । ಕಿಂಚ ಧೃತೇನಾಜ್ಯೇನಾಹುತಮಗ್ನಿಂ ಪ್ರಾಚೀನರಶ್ಮಿಂ ದೇವಾಭಿಮುಖಂ ಕುರುತಮಿತ್ಯರ್ಥಃ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಅಸ್ಮಾಕಂ—ನಮ್ಮ । ಯಜ್ಞಂ—ಯಜ್ಞವನ್ನು ।
+ಜೀರಾಧ್ವರಂ—ಹಿಂಸಾರಹಿತವನ್ನಾಗಿಯೂ । ದಿವಿಸ್ಪೃಶಂ—ದ್ಯುಲೋಕವನ್ನು ಸೇರುವಂತೆಯೂ । ಕೃಣುತಂ—
+ಮಾಡಿರಿ । ಇಷ್ಟಯೇ—ನಮ್ಮ ಇಷ್ಟಾರ್ಥಸಾಧಕವಾಗುವಂತೆಯೂ । ಸುಮ್ಮಂ—ಸುಖಕರವನ್ನಾಗಿಯೂ
+ಮಾಡಿರಿ । ಧೃತೇನ—ಆಜ್ಯದಿಂದ (ಆಹುತಿಯಿಂದ) । ಆಹುತಂ—ಪ್ರಜ್ವಲಿತನನ್ನಾಗಿ ಮಾಡಿದ ಅಗ್ನಿಯನ್ನು ।
+ಪ್ರಾಚೀನರಶ್ಮಿಂ—ದೇವತೆಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿ ಪ್ರಸರಿಸುವ ರಶ್ಮಿಯುಳ್ಳವನನ್ನಾಗಿ ಮಾಡಿರಿ । ಅದ್ಯ—ಈ
+ಯಾಗಕಾಲದಲ್ಲಿ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ । ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣ
+ವನ್ನು । ವೃಣೀಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+xxvii 57
+
+<!-- printed 898 -->
+*[898 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೬]*
+
+*[। ಭಾನಾರ್ಥಿ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಮ್ಮ ಯಜ್ಞವನ್ನು ಹಿಂಸಾರಹಿತವನ್ನಾಗಿಯೂ ದ್ಯುಲೋಕವನ್ನು ಸೇರು
+ವಂತೆಯೂ ಮಾಡಿರಿ. ನಮ್ಮ ಇಷ್ಟಾರ್ಥಸಾಧಕವಾಗುವಂತೆಯೂ ಸುಖಕರವನ್ನಾಗಿಯೂ ಮಾಡಿರಿ. ಆಜ್ಯಾಹುತಿ
+ಯಿಂದ ಪ್ರಜ್ವಲಿತನಾದ ಅಗ್ನಿಯು ತನ್ನ ಜ್ವಾಲೆಯನ್ನು ದೇವತೆಗಳಿಗೆ ಅಭಿಮುಖವಾಗಿ ಪ್ರಸರಿಸುವಂತೆ ಮಾಡಿರಿ. ಈ
+ಯಾಗಕಾಲದಲ್ಲಿ ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಆಸಾಧಾರಣವಾದ ರಕ್ಷಣವನ್ನು ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+Ashwins, make our sacrifice ascend to heaven free from injury, happy for the attainment of our desires; make the fire to which she is offered blaze up towards (the gods): we solicit to-day this protection of our gods.
+*[: ಸಂಹಿತಾಪಾಠ :]*
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಉಪ ಹ್ವಯೇ ಸುಹವಂ ಮಾರುತಂ ಗಣಂ ಪಾವಕಮೃಷ್ಟಂ ಸಖ್ಯಾಯ
+> ಶಂಭುವಂ ।
+> ರಾಯಸ್ಪೋಷಂ ಸೌಶ್ರವಸಾಯ ಧೀಮಹಿ ತದ್ದೇವಾನಾಮುವೋ ಅದ್ಯಾ
+> ವೃಣೀಮಹೇ ॥ ೭ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಉಪ । ಹ್ವಯೇ । ಸುಹವಂ । ಮಾರುತು । ಗಣಂ । ಪಾವಕಂ । ಋಷ್ವಂ । ಸಖ್ಯಾಯ । ಶಂಭುವಂ ।
+> ರಾಯಃ । ಪೋಷಂ । ಸೌಶ್ರವಸಾಯ । ಧೀಮಹಿ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೇಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಸುಹವಂ ಸ್ವಾಹ್ವಾನಂ ಪಾವಕಂ ಶೋಧಕಮೃಷ್ಟಂ ದರ್ಶನೀಯಂ ಶಂಭುವಂ ಸುಖಸ್ಯ ಭಾವಯಿತಾರಂ ರಾಯೋ ಧನಸ್ಯ ಪೋಷಂ ಪೋಷಕಂ ಮಾರುತಂ ಮರುತಾಂ ಸಂಬಂಧಿನಂ ಗಣಂ ಸಂಘಂ
+> ಸಖ್ಯಾಯ ಸಖಿಭಾವಾಯೋಪ ಹ್ವಯೇ । ಉಪಗಮ್ಯ ಹ್ವಯಾಮಿ । ಆಗತಂ ಗಣಂ ಸೌಶ್ರವಸಾಯ
+> ಶೋಭನಾನ್ನವತ್ವಾ ಯ ಸುಯಶಸ್ವಾ ಯ ವಾ ವಯಂ ಧೀಮಹಿ । ಬುದ್ಧೌ ನಿದಧೀಮಹಿ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+<!-- printed 899 -->
+*[ಅ. ೮. ಅ. ೮. ವ. ೧೦] ಋಗ್ವೇದಸಂಹಿತಾ 899]*
+
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸುಹವಂ—ಉತ್ತಮವಾದ ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರವಾದುದೂ । ಪಾವಕಂ—ಶುದ್ಧಿಕಾರಕವಾದುದೂ ।
+ಋಷ್ವಂ—ಸುಂದರವಾದ ರೂಪವುಳ್ಳದ್ದೂ । ಶಂಭುವಂ—ಸುಖಕಾರಕವಾದುದೂ । ರಾಯಃ—ಧನಕ್ಕೆ ।
+ಪೋಷಂ—ಪೋಷಕವಾದುದೂ ಆದ । ಮಾರುತಂ ಗಣಂ—ಮರುತ್ಸಂಘವನ್ನು । ಸಖ್ಯಾಯ—ನಮ್ಮ ಸಖಿತ್ವ
+ಸಂಪಾದನೆಗಾಗಿ । ಉಪ ಹ್ವಯೇ—ಕರೆಯುತ್ತೇನೆ । ಸೌಶ್ರವಸಾಯ—ಉತ್ತಮವಾದ ಅನ್ನಲಾಭಕ್ಕಾಗಿ ।
+ಧೀಮಹಿ—ಆ ಸಂಘವನ್ನು ಧ್ಯಾನಾತ್ಮಕವಾಗಿ ಸ್ತುತಿಸುತ್ತೇವೆ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ।
+ತತ್—ಪ್ರಸಿದ್ಧವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ವೃಣೀಮಹೇ- ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಉತ್ತಮವಾದ ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರವಾದುದೂ, ಶುದ್ಧಿಕಾರಕವಾದುದೂ, ಸುಂದರವಾದ ರೂಪವುಳ್ಳದ್ದೂ,
+ಸುಖಕಾರಕವಾದುದೂ, ಧನಕ್ಕೆ ಪೋಷಕವಾದುದೂ ಆದ ಮರುತ್ಸಂಘವನ್ನು ನಮ್ಮ ಸಖಿತ್ವಸಂಪಾದನೆಗಾಗಿ
+ಕರೆಯುತ್ತೇನೆ. ಉತ್ತಮವಾದ ಅನ್ನಲಾಭಕ್ಕಾಗಿ ಆ ಸಂಘವನ್ನು ಧ್ಯಾನಿಸುತ್ತೇನೆ. ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ
+ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣೆಯನ್ನು ಈ ಯಾಗಕಾಲದಲ್ಲಿ ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+I invoke for their friendship, the deservedly invoked, purifying, beautiful troops of the Maruts, the givers of felicity, the dispensers of riches : we meditate upon them for the attainment of abundant food : we solicit to-day this protection of the gods.
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಪಾಂ ಪೇರುಂ ಜೀವಧನ್ಯಂ ಭರಾಮಹೇ ದೇವಾವ್ಯಂ ಸುಹವಮಧ್ವರಶ್ರಿಯಂ ।
+> ಸುರಶ್ಮಿಂ ಸೋಮಮಿಂದ್ರಿಯಂ ಯಮೀಮಹಿ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ
+> ವೃಣೀಮಹೇ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಪಾಂ । ಪೇರುಂ । ಜೀವಧನ್ಯಂ । ಭರಾಮಹೇ । ದೇವ್ಯ ಅವ್ಯಂ । ಸುಹವಂ । ಅಧ್ವರಶ್ರಿಯಂ ।
+> ಸುರಶ್ಮಿಂ । ಸೋಮಂ । ಇಂದ್ರಿಯಂ । ಯಮೀಮಹಿ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ ।
+> ವೃಣೀಮಹೇ ॥ ೮ ॥
+
+<!-- printed 900 -->
+*[900 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೬]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಪಾಮುದಕಾನಾಂ ಪೇರುಂ ಪಾಲಕಂ ಜೀವಧನ್ಯಂ । ಧನ್ಯಾ ಜೀವಾ ಯಸ್ಮಿನ್ನಸೌ ಜೀವಧನ್ಯಃ ।
+> ತಂ ದೇವಾವ್ಯಂ ದೇವಾನಾಂ ತರ್ಪಕಂ ಸುಹವಂ ಶೋಭನಾಹ್ವಾನಂ ಶೋಭನಸ್ತುತಿಂ ನಾಧ್ವರಶ್ರಿಯಂ
+> ಸುರಶ್ಮಿಂ ಶೋಭನಾಂಶುಂ ಸೋಮಂ ಭರಾಮಹೇ । ಧಾರಯಾಮಃ । ಪತ್ನಿಶಾಲಾತೋ ಹವಿರ್ಧಾನಂ
+> ಪ್ರತಿ ಪ್ರಾಪಯಾಮೋ ವಾ । ಧೃತಂ ತಂ ಸೋಮಮಿಂದ್ರಿಯಂ ವೀರ್ಯಂ ಯಮೀಮಹಿ । ವಯಂ
+> ಯಾಚಾಮಹೇ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಪಾಂ—ಉದಕಗಳಿಗೆ । ಪೇರುಂ—ಪಾಲಕನೂ । ಜೀವಧನ್ಯಂ—ಸಾರ್ಥಕವಾದ ಜೀವವುಳ್ಳವನೂ ।
+ದೇವಾವ್ಯಂ—ದೇವತೆಗಳಿಗೆ ತೃಪ್ತಿಕಾರಕನೂ । ಸುಹವಂ—ಉತ್ತಮವಾದ ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರನೂ ।
+ಅಧ್ವರಶ್ರಿಯಂ—ಯಜ್ಞ ಸಂಪತ್ತುಳ್ಳವನೂ । ಸುರಶ್ಮಿಂ—ಉತ್ತಮವಾದ ರಶ್ಮಿಗಳುಳ್ಳವನೂ ಆದ । ಸೋಮಂ—
+ಸೋಮವನ್ನು । ಭರಾಮಹೇ—ಧರಿಸುತ್ತೇವೆ । ಇಂದ್ರಿಯಂ—ಅವನಿಂದ ಶಕ್ತಿಯನ್ನು । ಯಮೀಮಹಿ—
+ಯಾಚಿಸುತ್ತೇವೆ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ । ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣ
+ವನ್ನು । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ । ವೃಣೀಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಉದಕಗಳಿಗೆ ಪಾಲಕನೂ, ಸಾರ್ಥಕವಾದ ಜೀವವುಳ್ಳವನೂ, ದೇವತೆಗಳಿಗೆ ತೃಪ್ತಿಕಾರಕನೂ, ಉತ್ತಮವಾದ
+ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರನೂ, ಯಜ್ಞಸಂಪತ್ತುಳ್ಳವನೂ, ಉತ್ತಮವಾದ ರಶ್ಮಿಗಳುಳ್ಳವನೂ ಆದ ಸೋಮನನ್ನು ನಾವು
+ಧರಿಸಿ ಅವನಿಂದ ಶಕ್ತಿಯನ್ನು ಯಾಚಿಸುತ್ತೇವೆ. ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣವನ್ನು ಈ
+ಯಾಗಕಾಲದಲ್ಲಿ ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+We offer the Soma, the protector of the waters, affluent in life, the
+delighter of the gods, who is well praised, the glory of sacrifice, the brilliant-
+rayed, the vigour which we desire : we solicit to-day this protection of the
+gods.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸನೇಮ ತತ್ಸುಸನಿತಾ ಸನಿತ್ವಭಿರ್ವಯಂ ಜೀವಾ ಜೀವಪುತ್ರಾ ಅನಾಗಸಃ ।
+> ಬ್ರಹ್ಮದ್ವಿಸೋ ವಿಶ್ವಗೇನೋ ಭರೇರತ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ ವೃಣೇಮಹೇ ॥ ೯ ॥
+
+<!-- printed 901 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೦. ] ಋಗ್ವೇದಸಂಹಿತಾ 901]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಸನೇಮ । ತತ್ । ಸುಸನಿತಾ । ಸನಿತ್ವಭಿಃ । ವಯಂ । ಜೀವಾಃ । ಜೀವಪುತ್ರಾಃ । ಅನಾಗಸಃ ।
+> ಬ್ರಹ್ಮದ್ವಿಷಃ । ವಿಷ್ಣಕ್ । ಏನಃ । ಭರೇರತ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೇಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಜೀವಾ ಜೀವಂತೋ ಜೀವಪುತ್ರಾ ಜೀವನವತ್ಪುತ್ರಾಶ್ಚ ನಾಗಸೋಽಪರಾಧವರ್ಜಿತಾಶ್ಚ ವಯಂ
+> ಧನಾಕಾ ಲುಶಾಃ ಸನಿತ್ವಭಿಃ ಸಂಭಕ್ತೃಭಿಃ ಪುತ್ರಪೌತ್ರಾದಿಭಿಃ ಸಹ ಸುಸನಿತಾ ಶೋಭನೇನ ಭಜನೇನ
+> ತದ್ದೇವಜಾತಂ ಸನೇಮ । ಸ್ತುತ್ಯಾ ಹವಿಷ್ಣ್ರದಾನೇನ ಚ ಸಂಭಜೇಮಹಿ । ಕಿಂಚ ಬ್ರಹ್ಮದ್ವಿಷೋ ಬ್ರಾಹ್ಮಣಾನಾಮಸ್ಮಾಕಂ ದ್ವೇಷ್ಟಾರೋ ವಿಷ್ಣ್ವಾನಾಗಚ್ಛದೇನೋಽಸ್ಮದೀಯಂ ಪಾಪಂ ಭರೇರತ । ಆತ್ಮನಿ
+> ಧಾರಯಂತು । ಪೋಷಯಂತು । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಜೀವಾಃ—ಜೀವಂತರಾಗಿರುವವರೂ । ಜೀವಪುತ್ರಾಃ—ಸಜೀವರಾಗಿರುವ ಪುತ್ರವಂತರೂ । ಅನಾಗಸಃಪಾಪರಹಿತರೂ ಆದ । ವಯಂ—ನಾವು । ಸನಿತ್ವಭಿಃ—ನಮ್ಮೊಂದಿಗೆ ಭಾಗಿಗಳಾದ ಪುತ್ರಪೌತ್ರಾದಿಗಳೊಡನೆ ।
+ಸುಸನಿತಾ—ಉತ್ತಮವಾದ ಭೋಗದೊಡಗೂಡಿ । ತತ್—ದೇವತಾಕಾರ್ಯವನ್ನು । ಸನೇಮ—ಆಚರಿಸೋಣ ।
+ಬ್ರಹ್ಮದ್ವಿಷಃ—ದೇವಕಾರ್ಯವನ್ನು ಮಾಡುವ ಬ್ರಾಹ್ಮಣನನ್ನು ದ್ವೇಷಿಸುವವರು । ವಿಶ್ವಕ್—ಸರ್ವತ್ರ । ಏನಃ—
+ನಮ್ಮ ಪಾಪವನ್ನು । ಭರೇರತ—ವಹಿಸಿಕೊಳ್ಳಲಿ । ಅದ್ಯ—ಈಗ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ।
+ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ವೃಣೀಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಜೀವಂತರಾಗಿರುವವರೂ, ಸಜೀವರಾಗಿರುವ ಪುತ್ರರುಳ್ಳವರೂ, ಪಾಪರಹಿತರೂ ಆದ ನಾವು ನಮ್ಮೊಂದಿಗೆ
+ಭಾಗಿಗಳಾದ ಪುತ್ರಪೌತ್ರಾದಿಗಳೊಡನೆ ಉತ್ತಮವಾದ ಭೋಗಗಳಿಂದ ಕೂಡಿ ದೇವಕಾರ್ಯವನ್ನು ಆಚರಿಸೋಣ.
+ದೇವಕಾರ್ಯವನ್ನು ಮಾಡುವ ಬ್ರಾಹ್ಮಣರನ್ನು ದ್ವೇಷಿಸುವವರು ಸರ್ವತ್ರ ನಮ್ಮ ಪಾಪಗಳನ್ನು ವಹಿಸಿಕೊಳ್ಳಲಿ.
+ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಆಸಾಧಾರಣವಾದ ರಕ್ಷಣೆಯನ್ನು ಈಗ ನಾವು ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+Living with living offspring, and free from fault, let us make offerings (to the gods), sharing with those who share with us : may those who hate the Brahmans carry off our iniquity in different directions: we solicit to-day this protection of the gods.
+ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು, ಬೆಂಗಳೂರು
+*[stray line as supplied: This image contains no readable text. It appears to be a series of horizontal lines or noise.]*
+
+<!-- printed 902 -->
+*[902 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮ. ೧೦. ಅ. ೩. ಸೂ- ೩೬]*
+
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೇ ಸ್ಥಾ ಮನೋರ್ಯಜ್ಞಿಯಾಸ್ತೇ ಶೃಣೋತನ ಯದ್ವೋ ದೇವಾ
+> ಈಮಹೇ ತದ್ದದಾತನ ।
+> ಜೈತ್ರಂ ಕ್ರತುಂ ರಯಿಮುದ್ವೀರವದ್ಯಶಸ್ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ ವೃಣೀಮಹೇ ॥ ೧೦ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯೇ । ಸ್ಥ । ಮನೋಃ । ಯಜ್ಞಿಯಾಃ । ತೇ । ಶೃಣೋತನ । ಯತ್ । ವಃ । ದೇವಾಃ । ಈಮಹೇ ।
+> ತತ್ । ದದಾತನ ।
+> ಜೈತ್ರಂ । ಕ್ರತುಂ । ರಯಿಮತ್ । ವೀರವತ್ । ಯಶಃ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ ।
+> ವೃಣೀಮಹೇ ॥ ೧೮ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ದೇವಾಃ ಯೇ ಯೂಯಂ ಮನೋರ್ಮನುಷ್ಯಸ್ಯ ಯಜ್ಞಿಯಾ ಯಜ್ಞಾರ್ಹಾಃ ಸ್ಥ ಭವಥ
+> ತೇ ಯೂಯಂ ಶೃಣೋತನ । ಅಸ್ಮದೀಯಾಂ ಸ್ತುತಿಂ ಶೃಣುತ । ಕಿಂಚ ಹೇ ದೇವಾಃ ವೋ ಯುಷ್ಮಾನ್ಯದಭೀಷ್ಟಮೀಮಹೇ ಯಾಚಾಮಹೇ ತಜ್ಜೈತ್ರಂ ಜಯಶೀಲಂ ಕ್ರತುಂ ಪ್ರಜ್ಞಾನಂ ರಯಿಮದ್ಧನವದ್ವೀರವತ್ಪುತ್ರಾದ್ಯುಪೇತಂ ಯಶಶ್ಚ ದದಾತನ । ನೋಽಸ್ಥಭ್ಯಂ ಪ್ರಯಚ್ಛತ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದೇವಾಃ—ಎಲೈ ದೇವತೆಗಳೇ । ಯೇ—ಯಾವ ನೀವು । ಮನೋಃ—ಮಾನವನ । ಯಜ್ಞಿಯಾಃ—
+ಯಜ್ಞಾರ್ಹರಾಗಿ । ಸ್ಥ—ಇರುವಿರೋ । ತೇ—ಅಂತಹ ನೀವು । ಶೃಣೋತನ—ನಮ್ಮ ಸ್ತುತಿಗಳನ್ನು ಕೇಳಿರಿ ।
+ವಃ—ನಿಮ್ಮಿಂದ । ಯತ್—ಯಾವ ಇಷ್ಟಾರ್ಥವನ್ನು । ಈಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆಯೋ । ತತ್—ಅಂತಹ ।
+ಜೈತ್ರಂ—ಜಯಶೀಲವಾದ । ಕ್ರತುಂ—ಉತ್ತಮಜ್ಞಾನವನ್ನೂ । ರಯಿಮತ್—ಧನಯುಕ್ತವಾದುದೂ ।
+ವೀರವತ್—ವೀರಪುತ್ರಾದಿಗಳಿಂದ ಕೂಡಿದುದೂ ಆದ । ಯಶಃ—ಯಶಸ್ಸನ್ನೂ । ದದಾತನ—ಕೊಡಿರಿ ।
+ಅದ್ಯ—ಈಗ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ದತ್ತವಾಗುವ । ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣ
+ವನ್ನು । ವೃಣೀಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+*[೧ ಭಾನುವಾರ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ದೇವತೆಗಳೇ, ಮಾನವನ ಯಜ್ಞಕ್ಕೆ ಅರ್ಹರಾಗಿರತಕ್ಕ ನೀವು ನಮ್ಮ ಸ್ತುತಿಗಳನ್ನು ಕೇಳಿರಿ.
+ನಿಮ್ಮಿಂದ ಯಾವ ಇಷ್ಟಾರ್ಥವನ್ನು ಯಾಚಿಸುತ್ತೇವೆಯೋ, ಅಂತಹ ಜಯಶೀಲವಾದ ಉತ್ತಮ ಜ್ಞಾನವನ್ನೂ,
+ಅ. ೭. ಅ. ೮. ಪ. ೧೧. ] ಋಗ್ವೇದಸಂಹಿರಾ 903.
+ಧನಯುಕ್ತವಾದುದೂ, ವೀರಪುತ್ರಾದಿಗಳಿಂದ ಕೂಡಿದುದೂ ಆದ ಯಶಸ್ಸನ್ನೂ ಕೊಡಿರಿ. ನಾವು ದೇವತೆಗಳಿಂದ
+ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ಯಶಸ್ಸನ್ನು ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+Gods, who are entitled to the worship of men, hear (our prayers), and grant us that which we request : (bestow upon us) the intelligence requisite for victory, and fame with wealth, and male progeny : we solicit to-day this protection of the gods.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಮಹದದ್ಯ ಮಹತಾಮಾ ವೃಣೀಮಹೇಽವೋ ದೇವಾನಾಂ ಬೃಹತಾ
+> ಮನರ್ವಣಾಂ ।
+> ಯಥಾ ವಸು ವೀರಜಾತಂ ನಶಾಮಹೈ ತದ್ದೇವಾನಾಮವೋ ಅದ್ಯಾ
+> ವೃಣೀಮಹೇ ॥ ೧೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಮಹತ್ । ಅದ್ಯ । ಮಹತಾಂ । ಆ । ವೃಣೀಮಹೇ । ಅವಃ । ದೇವಾನಾಂ । ಬೃಹತಾಂ । ಅನವರ್ಣಾಂ ।
+> ಯಥಾ । ವಸು । ವೀರಜಾತಂ । ನಶಾಮಹೈ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೀಮಹೇ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅದ್ಯಾಸ್ಮಿನ್ನಹನಿ ಮಹತಾಂ ಶ್ರೇಷ್ಠಾನಾಂ ಬೃಹತಾಂ ವೃದ್ಧಾನಾಮನರ್ವಣಾಮಪ್ರತಿಗತಾನಾಂ
+> ದೇವಾನಾಮಿಂದ್ರಾದೀನಾಂ ಸಂಬಂಧಿ ಮಹದಧಿಕಮವೋ ರಕ್ಷಣಮಾ ವೃಣೀಮಹೇ । ಪ್ರಾರ್ಥಯಾಮಹೇ । ಕಿಂಚ ವಯಂ ಯಥಾ ವಸು ಧನಂ ವೀರಜಾತಮಪತ್ಯಜಾತಂ ಚ ನಶಾಮಹೈ ಪ್ರಾಪ್ನುಯಾಮ
+> ತಥಾ ತೇ ದೇವಾಃ ಕುರ್ವಂತ್ವಿತಿ ಶೇಷಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅದ್ಯ—ಈ ಯಾಗದಿನದಲ್ಲಿ । ಮಹತಾಂ—ಶ್ರೇಷ್ಠರೂ । ಬೃಹತಾಂ—ವೃದ್ಧರೂ । ಅನವರ್ಣಾಂ—
+ಅಪ್ರತಿಹತರೂ ಆದ । ದೇವಾನಾಂ—ದೇವತೆಗಳ । ಮಹತ್—ಅತ್ಯಧಿಕವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು ।
+
+<!-- printed 904 -->
+*[904 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೬-]*
+
+ಯಥಾ—ಯಾವ ರೀತಿ । ವಸು—ಧನವನ್ನೂ । ವೀರಜಾತಂ—ವೀರಪುತ್ರಾದಿಗಳನ್ನು ನಶಾಮಹೈ—
+ಹೊಂದುವೆವೋ ಹಾಗೆ । ಆ ವೃಣೀಮಹೇ—ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ।
+ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ಅದ್ಯ—ಈಗ । ವೃಣೀಮಹೇ—ಯಾಚಿಸುತ್ತೇವೆ.
+*[೧ ಭಾನಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ನಾವು ಯಾವ ರೀತಿ ಧನವನ್ನೂ, ವೀರಪುತ್ರಾದಿಗಳನ್ನು ಹೊಂದುವೆವೋ ಹಾಗೆ, ಈ ಯಾಗದಿನದಲ್ಲಿ
+ಶ್ರೇಷ್ಠರೂ, ವೃದ್ಧರೂ ಅಪ್ರತಿಹತರೂ ಆದ ದೇವತೆಗಳ ಅತ್ಯಧಿಕವಾದ ರಕ್ಷಣವನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ. ದೇವತೆ
+ಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣವನ್ನು ಈಗ ಯಾಚಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+We implore to-day the especial protection of the mighty, the great,
+the irresistible, gods, that we may obtain riches, and male progeny : we
+solicit to-day this protection of the gods.
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಮಹೋ ಅಗ್ನೇಃ ಸಮಿಧಾನಸ್ಯ ಶರ್ಮಣ್ಯನಾಗಾ ಮಿತ್ರೇ ವರುಣೇ
+> ಸ್ವಸ್ತಯೇ ।
+> ಶ್ರೇಷ್ಠೇ ಸ್ಯಾಮ ಸವಿತುಃ ಸವೀಮನಿ ತದ್ದೇವಾನಾಮುವೋ ಅದ್ಯಾ ವೃಣೀಮಹೇ ॥ ೧೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಮಹಃ । ಅಗ್ನೇಃ । ಸಂಇಧಾನಸ್ಯ । ಶರ್ಮಣಿ । ಅನಾಗಾಃ । ಮಿತ್ರೇ । ವರುಣೇ । ಸ್ವಸ್ತಯೇ ।
+> ಶ್ರೇಷ್ಠೇ । ಸ್ಯಾಮ । ಸವಿತುಃ । ಸವೀಮನಿ । ತತ್ । ದೇವಾನಾಂ । ಅವಃ । ಅದ್ಯ । ವೃಣೀಮಹೇ ॥೧೨॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಸಮಿಧಾನಸ್ಯ ಸಮಿಧ್ಯಮಾನಸ್ಯ ಮಹೋ ಮಹತೋಽಗ್ನೇಃ ಶರ್ಮಣಿ ಸುಖೇ ವಯಂ ಸ್ಯಾಮ ।
+> ಭವೇಮ । ಕಿಂಚ ವಯಮನಾಗಾ ಅನಾಗಸಃ ॥ ವಚನವ್ಯತ್ಯಯಃ ॥ ಸ್ಯಾಮ । ಅಪಿ ಚ ಮಿತ್ರೇ ವರುಣೇ
+> ಮಿತ್ರಾವರುಣಯೋಃ । ಷಷ್ಠ್ಯರ್ಥೇ ಸಪ್ತಮೀ । ಸವಿತುಶ್ಚ ಸವೀಮನಿ ಪ್ರಸವೇ ಸ್ವಸ್ತಯೇ ಸರ್ವಪ್ರಕಾರಾವಿನಾಶಾಯ ಸ್ಯಾಮ । ಸಿದ್ಧಮನ್ಯತ್ ॥
+
+<!-- printed 905 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೧೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 905]*
+
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸಮಿಧಾನಸ್ಯ—ಪ್ರಜ್ವಲಿತನೂ । ಮಹಃ—ಮಹಾತ್ಮನೂ ಆದ । ಅಗ್ನೇಃ—ಅಗ್ನಿಯ । ಶರ್ಮಣಿ—
+ಸುಖದಲ್ಲಿ । ಸ್ಯಾಮ—ನಾವಿರುವಂತಾಗಲಿ । ಅನಾಗಾಃ—ಪಾಪರಹಿತರೂ ಆಗಿರೋಣ । ಮಿತ್ರೇ—
+ಮಿತ್ರನಲ್ಲಿಯೂ । ವರುಣೇ—ವರುಣದಲ್ಲಿಯೂ । ಸವಿತುಃ—ಸವಿತೃವಿನ । ಸವೀಮನಿ—ಪ್ರೇರಣೆಯಲ್ಲಿಯೂ ।
+ಸ್ವಸ್ತಯೇ—ಕಲ್ಯಾಣವನ್ನು ಹೊಂದುವಂತಾಗಲಿ । ಅದ್ಯ—ಈಗ । ದೇವಾನಾಂ—ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ।
+ತತ್—ಅಸಾಧಾರಣವಾದ । ಅವಃ—ರಕ್ಷಣವನ್ನು । ವೃಣೀಮಹೇ—ಪ್ರಾರ್ಥಿಸುತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಪ್ರಜ್ವಲಿತನೂ, ಮಹಾತ್ಮನೂ ಆದ ಅಗ್ನಿಯಿಂದ ಲಭ್ಯವಾಗುವ ಸುಖದಲ್ಲಿ ಪಾಪರಹಿತರಾದ ನಾವು
+ಇರುವಂತಾಗಲಿ. ಮಿತ್ರಾವರುಣರ ಅನುಗ್ರಹವನ್ನು ಹೊಂದುವಂತಾಗಲಿ. ಸವಿತೃವಿನ ಪ್ರೇರಣಕಾರ್ಯದಲ್ಲಿ
+ನಾವು ಕಲ್ಯಾಣವನ್ನು ಹೊಂದುವಂತಾಗಲಿ. ಈಗ ದೇವತೆಗಳಿಂದ ಲಭ್ಯವಾಗುವ ಅಸಾಧಾರಣವಾದ ರಕ್ಷಣೆಯನ್ನು
+ನಾವು ಪ್ರಾರ್ಥಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+May we free from sin be in the (enjoyment of the) happiness of the mighty kindled Agni ; and in (the keeping of) Mitra and Varuna for our welfare : may we be among the excellent progeny of Savitri: we solicit to-day this protection of the gods
+*[೧ ಸಂಹಿತಾಪಾರಃ ೧]*
+
+#### ಋಕ್ ೧೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೇ ಸವಿತುಃ ಸತ್ಯಸವಸ್ಯ ವಿಶ್ವೇ ಮಿತ್ರಸ್ಯ ವ್ರತೇ ನರುಣಸ್ಯ ದೇವಾಃ ।
+> ತೇ ಸೌಭಗಂ ವೀರವದ್ದೋಮದಪ್ಪೋ ದಧಾತನ ದ್ರವಿಣಂ ಚಿತ್ರಮಸ್ಮೇ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯೇ । ಸವಿತುಃ । ಸತ್ಯಸವಸ್ಯ । ವಿಶ್ವೇ । ಮಿತ್ರಸ್ಯ । ವ್ರತೇ । ವರುಣಸ್ಯ । ದೇವಾಃ ।
+> ತೇ । ಸೌಭಗಂ । ವೀರವತ್ । ಗೋಮತ್ । ಅಪ್ನಃ । ದಧಾತನ । ದ್ರವಿಣಂ । ಚಿತ್ರಂ । ಅಸ್ಮೇ ಇತಿ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯೇ ವಿಶ್ವೇ ದೇವಾಃ ಸತ್ಯಸವಸ್ಯ ಸತ್ಯಪ್ರಸವಸ್ಯ ಸವಿತುರ್ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ ಮಿತ್ರಾವರುಣಯೋಶ್ಚ ವ್ರತೇ ಪ್ರಸವಾಖ್ಯೆ ಕರ್ಮಣಿ ಭವಂತಿ ತೇಯೂಯಂ ಸೌಭಗಂ ಸೌಭಾಗ್ಯಂ ವೀರವತ್ಪುತ್ರಾದ್ಯುಪೇತಂ ಗೋಮದ್ಗೋಯುಕ್ತಂ ಚಿತ್ರಂ ಪೂಜನೀಯಂ ಧ್ರವಿಣಂ ಧನಂ ಚಾಪ್ನಃ ಕರ್ಮ ಚಾಸ್ಮೇ
+> ಮಹ್ಯಂ ದಧಾತನ । ಪ್ರಯಚ್ಛತ ॥
+
+<!-- printed 906 -->
+*[906 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೬]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವಿಶ್ವೇ ದೇವಾಃ—ಎಲೈ ಸಕಲ ದೇವತೆಗಳೇ । ಯೇ—ಯಾವ ನೀವು । ಸತ್ಯಸವಸ್ಯ—ಸತ್ಯಪ್ರಸವ
+ನಾದ । ಸವಿತುಃ—ಸವಿತೃವಿನ । ಮಿತ್ರಸ್ಯ—ಮಿತ್ರನ । ವರುಣಸ್ಯ—ವರುಣನ । ವ್ರತೇ—ಕರ್ಮದಲ್ಲಿ
+ನಿರತರಾಗಿರುವಿರೋ । ತೇ—ಅಂತಹ ನೀವು । ಸೌಭಗಂ—ಕಲ್ಯಾಣಕಾರಕವೂ । ವೀರವತ್—ವೀರಪುತ್ರಾದಿ
+ಗಳಿಂದ ಕೂಡಿದುದೂ । ಗೋಮತ್—ಗೋಯುಕ್ತವಾದುದೂ । ಚಿತ್ರಂ—ಪೂಜ್ಯವಾದುದೂ ಆದ । ದ್ರವಿಣಂ—
+ಧನವನ್ನೂ । ಅಪ್ನಃ—ಕರ್ಮನಿರ್ವಾಹವನ್ನು । ಅಸ್ಮೇ—ನಮಗೆ । ದಧಾತನ—ಕೊಡಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸಕಲದೇವತೆಗಳೇ, ಯಾವ ನೀವು ಸತ್ಯಪ್ರಸವನಾದ ಸೂರ‍್ಯನ ಮತ್ತು ಮಿತ್ರಾವರುಣರ ಕರ್ಮದಲ್ಲಿ
+ನಿರತರಾಗಿರುವಿರೋ ಅಂತಹ ನೀವು ಕಲ್ಯಾಣಕಾರಕವೂ ವೀರಪುತ್ರಾದಿಗಳಿಂದ ಕೂಡಿದುದೂ ಗೋಯುಕ್ತವಾದುದೂ
+ಪೂಜ್ಯವಾದುದೂ ಆದ ಧನವನ್ನೂ ಮತ್ತು ಕರ್ಮಶಕ್ತಿಯನ್ನೂ ಕೊಡಿರಿ.
+
+*English Translation.*
+
+Universal gods, who (take part) in the functions of Savitri, the parent of truth, of Mitra and Varuna, confer upon us auspicious and honourable wealth, comprising male progeny, and cattle, and (pious) acts.
+
+#### ಋಕ್ ೧೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸವಿತಾ ಪಶ್ಚತಾತ್ಸವಿತಾ ಪುರಸ್ತಾತ್ಸವಿತೋತ್ತರಾತ್ತಾತ್ಸವಿತಾಧರಾತ್ತಾತ್ ।
+> ಸವಿತಾ ನಃ ಸುವತು ಸರ್ವತಾತಿಂ ಸವಿತಾ ನೋ ರಾಸತಾಂ ದೀರ್ಘಮಾಯುಃ ॥ ೧೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಸವಿತಾ । ಪಶ್ಚಾತಾತ್ । ಸವಿತಾ । ಪುರಸ್ತಾತ್ । ಸವಿತಾ । ಉತ್ತರಾತ್ತಾತ್ । ಸವಿತಾ । ಅಧರಾತ್ತಾತ್ ।
+> ಸವಿತಾ । ನಃ । ಸುವತು । ಸರ್ವತಾತಿಂ । ಸವಿತಾ । ನಃ । ರಾಸತಾಂ । ದೀರ್ಘಂ । ಆಯುಃ ॥ ೧೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಪಶ್ಚಾತ್ತಾಪಶ್ಚಿಮತಃ ಸ್ಥಿತಃ ಸವಿತಾ ಪುರಸ್ತಾತ್ಪೂರ್ವತಶ್ಚ ಸ್ಥಿತಃ ಸವಿತೋತ್ತರಾತ್ತಾದುತ್ತರತಃ
+> ಸ್ಥಿತಶ್ಚ ಸವಿತಾ ನೋಽಸ್ಮಾಕಂ ಸರ್ವತಾತಿಂ ಸರ್ವಮಭಿಲಷಿತಂ ಧನಾದಿಕಂ ಸುವತು । ಪ್ರೇರಯತು ।
+> ಕಿಂಚ ಸವಿತೈವ ನೋಽಸ್ಮಭ್ಯಂ ದೀರ್ಘಂ ಬಹುಕಾಲೀನವಾಯೂ ರಾಸತಾಂ । ದದಾತು । ಬಹುಧಾ
+> ಸವಿತೃಪದಗ್ರಹಣಮತ್ಯಂತವಾದರಾರ್ಥೇ ॥
+
+<!-- printed 907 -->
+*[ಅ, ೭. ಅ. ೮. ವ. ೧೨.] ಋಗ್ವೇದಸಂಹಿತಾ 907]*
+
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸವಿತಾ—ಸವಿತೃದೇವನು । ಪಶ್ಚಾತಾತ್—ಪಶ್ಚಿಮಭಾಗದಿಂದಲೂ । ಸವಿತಾ—ಸವಿತೃದೇವನು ।
+ಪುರಸ್ತಾತ್—ಪೂರ್ವದಿಕ್ಕಿನಿಂದಲೂ । ಸವಿತಾ—ಸವಿತೃವು । ಉತ್ತರಾತ್ತಾತ್—ಉತ್ತರದಿಕ್ಕಿನಿಂದಲೂ ।
+ಸವಿತಾ—ಸವಿತೃದೇವನು । ಸವಿತಾ—ಸವಿತೃವು । ಅಧರಾತ್ತಾತ್—ದಕ್ಷಿಣಭಾಗದಿಂದಲೂ । ನಃ—ನಮಗೆ ।
+ಸರ್ವತಾತಿಂ—ಅಪೇಕ್ಷಿತವಾದ ಸಕಲ ಧನಾದಿಗಳನ್ನು । ಸುವತು—ಒದಗಿಸಲಿ । ಸವಿತಾ—ಸವಿತೃದೇವನು ।
+ನಃ—ನಮಗೆ । ದೀರ್ಘಂ—ಬಹುದೀರ್ಘವಾದ । ಆಯುಃ—ಆಯುಸ್ಸನ್ನು । ರಾಸತಾಂ—ಕೊಡಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಸವಿತೃದೇವನು ಪಶ್ಚಿಮಭಾಗದಿಂದಲೂ, ಪೂರ್ವಭಾಗದಿಂದಲೂ ಮತ್ತು ದಕ್ಷಿಣೋತ್ತರಭಾಗಗಳಿಂದಲೂ
+ನಮಗೆ ಅಪೇಕ್ಷಿತಗಳಾದ ಸಕಲ ಧನಾದಿಗಳನ್ನು ಒದಗಿಸಲಿ. ಸವಿತೃವು ನಮಗೆ ಬಹುದೀರ್ಘವಾದ ಆಯಸ್ಸನ್ನು
+ಕೊಡಲಿ.
+
+*English Translation.*
+
+May Savitri on the west, Savitri on the east, Savitri on the north,
+Savitri on the south, may Savitri send us all desired wealth, may Savitri
+bestow upon us long life.
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of symmetrical swirls and diamond shapes.]*
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಮೂವತ್ತೇಳನೆಯ ಸೂಕ್ತವು.
+> ನಮೋ ಮಿತ್ರಸ್ಯೇತಿ ದ್ವಾದಶರ್ಚಮಷ್ಟಮಂ ಸೂಕ್ತಂ । ಅಭಿತಪಾ ನಾಮ ಸೂರ್ಯಪುತ್ರ
+> ಋಷಿಃ । ಇದಮಾದೀನಿ ಪಂಚ ಸೂಕ್ತಾನಿ ಜಾಗತಾನಿ । ಅಸ್ಯ ಸೂಕ್ತಸ್ಯ ದಶಮೀ ತ್ರಿಷ್ಟುಪ್ । ಸೂರ್ಯೋ
+> ದೇವತಾ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ । ನಮೋ ದ್ವಾದಶ ಸೌರ್ಯೋಽಭಿತಪಾಃ ಸೌರ್ಯಂ ಜಾಗತಂ ವೈ
+> ತ್ರಿಷ್ಟುಬ್ಬಶಮಾತಿ ॥ ಆಶ್ವಿನಶಸ್ತ್ರೇ ಸೂರ್ಯೋದಯಾದೂರ್ಧ್ವಂ ಸೌರ್ಯಕಾಂಡ ಏತತ್ತೂಕ್ತಂ । ಸೂತ್ರಿತಂ
+> ಚ । ಚಿತ್ರಂ ದೇವಾನಾಂ ನಮೋ ಮಿತ್ರಸ್ಯ । ಆ. ೬ ೫ । ಇತಿ ॥ ವಿಷುವತಿ ನಿಷ್ಕೇವಲ್ಯ ಆದ್ಯಸ್ತೃಚೋಽನುರೂಪಃ । ಸೂತ್ರಿತಂ ಚ । ವಿಭ್ರಾಡ್ಬೃಹತ್ಪಿಬತು ಸೋಮ್ಯಂ ಮಧು ನಮೋ ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ
+> ಚಕ್ಷಸ ಇತಿ ಸ್ತೋತ್ರಿಯಾನುರೂಪೌ । ಆ. ೮-೬ । ಇತಿ ॥ ಸ್ವಪಂತಮಭ್ಯಸ್ತಮಯೇ ಸತಿ ರಾತ್ರಿಶೇಷು
+> ಸ್ಥಿತ್ವಾ ಪ್ರಾತರ್ಯೇನ ಸೂರ್ಯೋ ಜ್ಯೋತಿಷೇತ್ಯಾದಿಭಿಃ ಪಂಚಭಿಃ ಸೂರ್ಯ ಉಪಸ್ಥೇಯಃ ।
+> ಸೂತ್ರಿತಂ ಚ । ಅವ್ಯಾಧಿತಂ ಚೇತ್ಸ್ವಪಂತಮಾದಿತ್ಯೋಽಭ್ಯಸ್ತಮಿಯಾದ್ವಾಗೃತೋಽನುಪವಿಶನ್ನಾತ್ರಿಶೇಷಂ ಭೂತ್ವಾ ಯೇನ ಸೂರ್ಯ ಜ್ಯೋತಿಷಾ ಬಾಧಸೇ ತಮ ಇತಿ ಪಂಚಭಿರಾದಿತ್ಯಮುಪತಿಷ್ಠೇತ ।
+> ಸ್ವಪಂತಮಭ್ಯುದಿತೇ ಯಸ್ಯ ತೇ ವಿಶ್ವೇತ್ಯಾದಿಭಿಶ್ಚತಸೃಭಿಃ ಸೂರ್ಯ ಉಪಸ್ಥೇಯಃ । ಸೂತ್ರಿತಂ ಚ ।
+> ಅಭ್ಯುದಿಯಾಚ್ಚೇದಕರ್ಮಶ್ರಾಂತಮನಭಿರೂಪೇಣ ಕರ್ಮಣಾ ವಾಗ್ಯತ ಇತಿ ಸಮಾನಮುತ್ತರಾಭಿಶ್ಚತ-
+
+<!-- printed 908 -->
+*[903 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೭]*
+
+> ಸೃಭಿರುಪಸ್ಥಾನಂ । ಆ.ಗೃ. ೩-೭-೧-೨ । ಇತಿ ॥ ಏಕಾದಶಿನಸ್ಯ ಸೌರ್ಯಸ್ಯ ಪಶೋರ್ಹವಿಷೋ
+> ಯಾಜ್ಯಾ । ಸೂತ್ರಿತಂ ಚ । ಶಂ ನೋ ಭವ ಚಕ್ಷಸಾ ಶಂ ನೋ ಅಹ್ನಾ ವಾಯೋ ಭೂಷ ಶುಚಿಪಾಃ ।
+> ಆ. ೩-೮ । ಇತಿ ॥ ಹೋತ್ರಕಾಣಾಂ ಶಕಲಾಧಾನೇ ಯದ್ವೋ ದೇವಾ ಇತ್ಯೇಷಾ । ಆ. ೬-೧೨ ॥
+> ವಿವಾಹೇ ಕನ್ಯಾರೋದನೀಯೇ ಜೀವಂ ರುದಂತೀತ್ಯೇಷಾ ಜಪ್ಯಾ । ಆ. ಗೃ. ೧-೮-೪ ॥
+ಅನುವಾದವು—ನಮೋ ಮಿತ್ರಸ್ಯ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎಂಟನೆಯ
+ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹನ್ನೆರಡು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಸೂರ್ಯಪುತ್ರನಾದ ಅಭಿತಪಾ ಎಂಬುವನು
+ಋಷಿಯು. ಈ ಸೂಕ್ತದಿಂದ ಮುಂದಿನ ಐದು ಸೂಕ್ತಗಳು ಜಗತೀಛಂದಸ್ಕವು. ಈ ಸೂಕ್ತದ ಹತ್ತನೆಯ ಋಕ್ಕು
+ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು ; ಸೂರ್ಯನು ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ನಮೋ ದ್ವಾದಶ ಸೌರ್ಯೋಽಭಿತಪಾಃ ಸೌರ್ಯಂ ಜಾಗತಂ ವೈ ತ್ರಿಷ್ಟುಬ್ದತಮಾ ಎಂದು ಹೇಳಿರುವುದು ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲ
+ದಲ್ಲಿ ಸೂರ್ಯೋದಯಾನಂತರ ಸೂರ್ಯಸಂಬಂಧವಾದ ಸೂಕ್ತಗಳನ್ನು ಪಠಿಸುವಾಗ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗ
+ಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಚಿತ್ರಂ ದೇವಾನಾಂ ನಮೋ ಮಿತ್ರಸ್ಯ ಎಂಬ ಸೂತ್ರದಿಂದ
+(ಆ. ೬-೫) ವಿವೃತವಾಗಿರುವುದು. ವಿಷುವದ್ಯಾಗದಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಪಠನಮಾಡುವಾಗ ಈ ಸೂಕ್ತದ
+ಮೊದಲಿನ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಅನುರೂಪತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—
+ವಿಧ್ರಾಟ್ ಬೃಹತ್ಪಿಬತು ಸೋಮ್ಯಂ ಮಧು ನಮೋ ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ ಚಕ್ಷಸ ಇತಿ ಸ್ತೋತ್ರಿಯಾನುರೂಪೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೬) ವಿವೃತವಾಗಿರುವುದು. ವ್ಯಾಧಿರಹಿತನಾಗಿದ್ದರೂ ಸೂರ್ಯಾಸ್ತಮಯ
+ಕಾಲದಲ್ಲಿ ನಿದ್ರೆಮಾಡಿದರೆ ಆಗ ಆ ರಾತ್ರಿಯನ್ನು ಕಳೆದ ಬಳಿಕ ಪ್ರಾತಃಕಾಲದಲ್ಲೆದ್ದು ಯೇನ ಸೂರ್ಯ ಜ್ಯೋತಿಷಾ
+ಎಂದು ಪ್ರಾರಂಭವಾಗುವ ಐದು ಋಕ್ಕುಗಳಿಂದ (೪-೮) ಸೂರ್ಯನನ್ನು ಪ್ರಾರ್ಥಿಸಿ ಉಪಸ್ಥಾನಮಾಡಬೇಕೆಂದು
+ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಅವ್ಯಾಧಿತಂ ಚೇತ್ಸ್ವಸಂತಮಾದಿತ್ಯೋಽಭ್ಯಸ್ತಮಿಯಾದ್ವಾಗ್ಯತೋನುಪವಿಶನ್ ರಾತ್ರಿಶೇಷಂ ಭೂತ್ವಾ ಯೇನ ಸೂರ್ಯ ಜ್ಯೋತಿಷಾ ಬಾಧಸೇ ತಮ ಇತಿ ಪಂಚಭಿರಾದಿತ್ಯಮುಪತಿಷ್ಠೇತ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೩-೭-೧) ವಿವೃತವಾಗಿರುವುದು. ಸೂರ್ಯನು ಉದಯಿಸಿರುವಾಗಲೂ
+ನಿದ್ರೆಯಿಂದ ಏಳದೆ ಮಲಗಿರುವಾಗ ಎದ್ದಮೇಲೆ ಯಸ್ಯ ತೇ ವಿಶ್ವಾ ಎಂದು ಮೊದಲಾಗುವ ನಾಲ್ಕು ಋಕ್ಕುಗಳಿಂದ
+(೯-೧೨) ಸೂರ್ಯನನ್ನು ಪ್ರಾರ್ಥಿಸಿ ಉಪಸ್ಥಾನಮಾಡಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಅಭ್ಯುದಿಯಾಚ್ಛೇದಕರ್ಮಶಾಂತಮನಭಿರೂಪೇಣ ಕರ್ಮಣಾ ವಾಗ್ಗತ ಇತಿ ಸಮಾನಮುತ್ತರಾಭಿಶ್ಚತಸೃಭಿರುಪಸ್ಥಾನಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೩-೭-೨) ವಿವೃತವಾಗಿರುವುದು. ಏಕಾದಶಿನ್ ಎಂಬ ಯಾಗದಲ್ಲಿ ಸೂರ್ಯ
+ಸಂಬಂಧವಾದ ಪಶುಹೋಮದ ಹವಿಸ್ಸನ್ನು ಹೋಮಮಾಡುವಾಗ ಈ ಸೂಕ್ತದ ಶಂ ನೋ ಭವ ಚಕ್ಷಸಾ ಎಂಬ
+ಹತ್ತನೆಯ ಋಕ್ಕನ್ನು ಯಾಜ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಶಂ ನೋ ಭವ
+ಚಕ್ಷಸಾ ಶಂ ನೋ ಅಹ್ನಾ ವಾಯೋ ಭೂಷ ಶುಚಿಪಾಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೩-೮) ವಿವೃತವಾಗಿರುವುದು.
+ಹೋತೃವರ್ಗದ ಋತ್ವಿಕ್ಕುಗಳು ಮಾಡುವ ಶಕಲಾಧಾನದಲ್ಲಿ ಯದ್ವೋ ದೇವಾಃ ಎಂಬ ಈ ಸೂಕ್ತದ ಹನ್ನೆರಡನೆಯ
+ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಯದ್ವೋ ದೇವಾಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೧೨)
+ವಿವೃತವಾಗಿರುವುದು. ವಿವಾಹಕಾಲದಲ್ಲಿ ಕನೈಯು ಅತ್ತರೆ ಆಗ ಜೀವಂ ರುದಂತೀ ಎಂಬ ಋಕ್ಕನ್ನು
+(ಋ. ಸಂ. ೧೦-೪೦.೧೦) ಎಂಬ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದಲ್ಲಿ (ಆ. ಗೃ. ೧೮-೪)
+ವಿವೃತವಾಗಿರುವುದು. [ ೪೦ನೇ ಸೂಕ್ತದಲ್ಲಿರುವ ಈ ಋಕ್ಕಿನ ವಿನಿಯೋಗವನ್ನು ಇಲ್ಲಿ ಹೇಳಲು ಕಾರಣವಿಲ್ಲ ]
+
+<!-- printed 909 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೨.] ಋಗ್ವೇದಸಂಹಿತಾ 909]*
+
+## ಸೂಕ್ತ ೩೭ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ-೩೭
+ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩ ॥ ಸೂಕ್ತ—೩೭ ।
+ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ ೧೨, ೧೩ ।
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೨ ।
+ಋಷಿಃ—ಅಭಿತಪಾಃ ಸೌರ್ಯಃ ॥
+ದೇವತಾ—ಸೂರ್ಯಃ॥
+ಛಂದಃ—೧-೯, ೧-೧೨. ಜಗತೀ ॥ ೧೦. ತ್ರಿಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನಮೋ ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ ಚಕ್ಷಸೇ ಮಹೋ ದೇವಾಯ ತದೃತಂ ಸಪರ್ಯತ ।
+> ದೂರೇದ್ಯಶೇ ದೆವಜಾತಾಯ ಕೇತವೇ ದಿವಸ್ಪುತ್ರಾಯ ಸೂರ್ಯಾಯ
+> ಶಂಸತ ॥ ೧ ॥
+*[೧ ಪದಪಾಠಿ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ನಮಃ । ಮಿತ್ರಸ್ಯ । ವರುಣಸ್ಯ । ಚಕ್ಷಸೇ । ಮಹಃ । ದೇವಾಯ । ತತ್ । ಋತಂ । ಸಪರ್ಯತ ।
+> ದೂರೇಽದೃಶೇ । ದೇವಜಾತಾಯ । ಕೇತವೇ । ದಿವಃ । ಪುತ್ರಾಯ । ಸೂರ್ಯಾಯ । ಶಂಸತ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಋತ್ವಿಜಃ ಯಯಂ ಮಿತ್ರಸ್ಯ ವರುಣಸ್ಯ ಮಿತ್ರಾವರುಣಯೋಶ್ಚಕ್ಷಸೇ ದ್ರಷ್ಟೇ ಮಹೋ
+> ಮಹತೇ ದೇವಾಯ ದ್ಯೋತಮಾನಾಯ ದೂರೇದೃಶೇ ದೂರೇ ಸಂತಮಪಿ ಪಶ್ಯತೇ ದೇವಜಾತಾಯ
+> ದೇವೇಷು ಜಾತಾಯ ದೇವಾರ್ಥಮುತ್ಪನ್ನಾಯ ಕೇತವೇ ವಿಶ್ವಸ್ಯ ಪ್ರಜ್ಞಾಪಕಾಯ ದಿವಃ ಪುತ್ರಾಯ
+> ಪುತ್ರಭೂತಾಯ । ದಿವಿ ಜಾಯಮಾನತ್ವಾತ್ತತ್ಪುತ್ರತ್ವವ್ಯಪದೇಶಃ । ಸೂರ್ಯಾಯ ಸೂರ್ಯಾರ್ಥಂ
+> ನಮಃ ಕೃತ್ವಾ ತದ್ವಿಹಿತಮೃತಂ ಯಾಗಾದಿಲಕ್ಷಣಂ ಕರ್ಮ ಸಪರ್ಯತ । ಪೂಜಯತ । ಶಂಸತ । ಸ್ತುತಿಮಪಿ ಕುರುತ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಋತ್ವಿಕ್ಕುಗಳೇ) ಮಿತ್ರಸ್ಯ—ಮಿತ್ರನನ್ನು । ವರುಣಸ್ಯ—ವರುಣನನ್ನೂ । ಚಕ್ಷಸೇ—ನೋಡತಕ್ಕ
+ವನೂ । ಮಹಃ—ಮಹಾತ್ಮನೂ । ದೇವಾಯ—ದೇವತಾತ್ಮನೂ । ದೂರೇದ್ವಶೇ—ದೂರದಲ್ಲಿರುವವನನ್ನೂ
+ನೋಡತಕ್ಕವನೂ । ದೇವಜಾತಾಯ—ದೇವತೆಗಳಲ್ಲಿ ಉತ್ಪನ್ನನೂ । ಕೇತವೇ—ಜಗತ್ತಿಗೆ ಜ್ಞಾನೋತ್ಪಾದ
+
+<!-- printed 910 -->
+*[910 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೭]*
+
+ಕನೂ । ದಿವಃ ಪುತ್ರಾಯ—ದ್ಯುಲೋಕದ ಪುತ್ರನೂ ಆದ । ಸೂರ್ಯಾಯ—ಸೂರ್ಯದೇವನಿಗೆ । ನಮಃ—
+ಮೊದಲು ನಮಸ್ಕಾರವನ್ನು ಮಾಡಿ । ತತ್ ಋತಂ—(ಅನಂತರ) ನಿಮಗೆ ವಿಹಿತವಾದ ಕರ್ಮವನ್ನು । ಸಪರ್ಯತನೆರವೇರಿಸಿರಿ । ಶಂಸತ—ಸ್ತುತಿಯನ್ನು ಅರ್ಪಿಸಿರಿ.
+*[। ಭಾಷಾರ್ಥ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಋತ್ವಿಕ್ಕುಗಳೇ, ಮಿತ್ರನನ್ನೂ, ವರುಣನನ್ನೂ, ನೋಡತಕ್ಕವನೂ, ಮಹಾತ್ಮನೂ, ದೇವತಾತ್ಮನೂ,
+ದೂರದಲ್ಲಿರುವವನನ್ನು ನೋಡತಕ್ಕವನೂ, ದೇವತೆಗಳಲ್ಲಿ ಉತ್ಪನ್ನನೂ, ಜಗತ್ತಿಗೆ ಜ್ಞಾನೋತ್ಪಾದಕನೂ, ದ್ಯುಲೋಕದ
+ಪುತ್ರನೂ ಆದ ಸೂರ್ಯದೇವನಿಗೆ ಮೊದಲು ನಮಸ್ಕಾರವನ್ನು ಅರ್ಪಿಸಿ ಅನಂತರ ನಿಮಗೆ ವಿಹಿತವಾದ ಕರ್ಮವನ್ನು
+ನೆರವೇರಿಸಿರಿ. ಸ್ತುತಿಯನ್ನು ಅರ್ಪಿಸಿರಿ.
+
+*English Translation.*
+
+(Having offered) adoration to Surya, the beholder of Mitra and Varuna, the mighty, the divine, the far-seer, the god-born, the manifester of all things), the son of heaven; celebrate the rite enjoined by him, and sing his praise.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸಾ ಮಾ ಸತ್ಯೋಕ್ತಿಃ ಪರಿ ಪಾತು ವಿಶ್ವತೋ ದ್ಯಾವಾ ಚ ಯತ್ರ ತತನನ್ನಹಾನಿ ಚ ।
+> ವಿಶ್ವಮನ್ಯನ್ನಿ ವಿಶತೇ ಯದೇಜತಿ ವಿಶ್ವಾಹಾಪೋ ವಿಶ್ವಾಹೋದೇತಿ
+> ಸೂರ್ಯಃ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಸಾ । ಮಾ । ಸತ್ಯಉಕ್ತಿಃ । ಪರಿ । ಪಾತು । ವಿಶ್ವತಃ । ದ್ಯಾವಾ । ಚ । ಯತ್ರ । ತತನನ್ । ಅಹಾನಿ । ಚ ।
+> ವಿಶ್ವಂ । ಅನ್ಯತ್ । ನಿ । ವಿಶತೇ । ಯತ್ । ಏಜತಿ । ವಿಶ್ವಾಹಾ । ಅಪಃ । ವಿಶ್ವಾಹಾ । ಉತ್ । ಏತಿ ।
+> ಸೂರ್ಯಃ ॥ ೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಸಾ ಸತ್ಯೋಕ್ತಿಸ್ತತ್ಸತ್ಯವಚನಂ ಮಾ ಮಾಂ ವಿಶ್ವತಃ ಸರ್ವತಃ ಪರಿ ಪಾತು । ಪರಿರಕ್ಷತು ।
+> ಯಯಾ ಸತ್ಯೋಕ್ತ್ವಾ ಯತ್ರ ಯಸ್ಮಿನ್ವೇಶೇ ದ್ಯಾವಾ ಚ ದ್ಯಾವಾಪೃಥಿವ್ಯಾವಹಾನಿ ರಾತ್ರಯಶ್ಚ
+
+<!-- printed 911 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೨.] ಋಗ್ವೇದಸಂಹಿತಾ 911]*
+
+> ತತನನ್ ಆತನ್ವನ್ ತತ್ರ ವಿಶ್ವಂ ಸರ್ವಮನದ್ಭೂತಜಾತಂ ನಿ ವಿಶತೇ । ವಿಶ್ರಾಮ್ಯತಿ । ಯದೇತದ್ಭೂತಜಾತಮೇಜತಿ ಕಂಪತೇ ವಿಶ್ವಾಹಾ ಸರ್ವದಾಪಶ್ಚ ಸ್ಯಂದಂತೇ ವಿಶ್ವಾಹಾ ಸರ್ವದಾ ಸೂರ್ಯಶ್ಚೋದೇತಿ ।
+> ಸಾ ಸತ್ಯೋಕ್ತಿರ್ಮಾಂ ಪರಿಪಾತ್ವಿತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಯತ್ರ—ಎಲ್ಲಿ । ದ್ಯಾವಾ ಚ—ದ್ಯಾವಾಪೃಥಿವಿಗಳೂ । ಅಹಾನಿ ಚ—ಆಹೋರಾತ್ರಗಳೂ । ತತನನ್ವಿಸ್ಮೃತಿಯನ್ನು ಹೊಂದಿದವೋ । ವಿಶ್ವಂ—ಸಕಲವಾದ । ಅನ್ಯತ್—ಉಳಿದ ಭೂತಜಾತಗಳೂ । ನಿ ವಿಶತೇ—
+ಎಲ್ಲಿ ವಿಶ್ರಾಂತಿಯನ್ನು ಪಡೆಯುವುವೋ । ಯತ್—ಎಲ್ಲಿ ಸಕಲ ಲೋಕವೂ । ವಿಜತಿ—ಕಂಪಿಸುವುದೋ ।
+ವಿಶ್ವಾಹಾ—ಸರ್ವದಾ । ಆಪಃ—ಉದಕಗಳು ಪ್ರವಹಿಸುವುವೋ । ವಿಶ್ವಾಹಾ—ಸರ್ವದಾ । ಸೂರ್ಯಃ—
+ಸೂರನೂ । ಉದೇತಿ—ಉದಯವನ್ನು ಹೊಂದುವನೋ ಅಂತಹ । ಸಾ—ಪ್ರಸಿದ್ಧವಾದ । ಸತ್ಯೋಕ್ತಿಃ—
+ಸತ್ಯಾತ್ಮಕವಾದ ವಾಕ್ಯವು । ಮಾ—ನನ್ನನ್ನು । ವಿಶ್ವತಃ—ಎಲ್ಲಕಡೆಗಳಿಂದಲೂ । ಪರಿ ಪಾತು—ರಕ್ಷಿಸಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲ್ಲಿ ದ್ಯಾವಾಪೃಥಿವಿಗಳೂ ವಿಸ್ಕೃತಿಯನ್ನು ಹೊಂದಿದವೋ, ಎಲ್ಲಿ ಸಕಲ ಭೂತಜಾತಗಳೂ ವಿಶ್ರಾಂತಿಯನ್ನು
+ಹೊಂದುವುದೋ, ಎಲ್ಲಿ ಸಕಲಲೋಕವೂ ಕಂಪಿಸುವುದೋ, ಯಾವುದರಿಂದ ಉದಕಗಳು ಸರ್ವದಾ ಪ್ರವಹಿಸುವುವೋ,
+ಯಾವುದರಿಂದ ಸರ್ವದಾ ಸೂರನೂ ಉದಯವನ್ನು ಹೊಂದುವನೋ, ಅಂತಹ ಪ್ರಸಿದ್ಧವಾದ ಸತ್ಯಾತ್ಮಕವಾದ
+ವಾಕ್ಕು ನನ್ನನ್ನು ಎಲ್ಲಾ ಕಡೆಗಳಿಂದಲೂ ರಕ್ಷಿಸಲಿ.
+
+*English Translation.*
+
+May that word of truth everywhere protect me, through which it is
+that the heaven and earth, and days and nights, all the rest of creation
+which trembles has rest (there); the waters daily (flow), the sun rises
+every day.
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನ ತೇ ಅದೇವಃ ಪ್ರದಿವೋ ನಿ ವಾಸತೇ ಯದೇತಶೇಭಿಃ ಪತರೈ ರಥರ್ಯಸಿ ।
+> ಪ್ರಾಚೀನಮನ್ಯದನು ವರ್ತತೇ ರಜ ಉದನ್ಯೇನ ಜ್ಯೋತಿಷಾ ಯಾಸಿ
+> ಸೂರ್ಯ ॥ ೩ ॥
+*[೧ ಪದಪಾರಂ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ನ । ತೇ । ಅದೇವಃ । ಪ್ರದಿವಃ । ನಿ । ವಾಸತೇ । ಯತ್ । ಏತಶೇಭಿಃ । ಪತರೈಃ । ರಥರ್ಯಸಿ ॥
+> ಪ್ರಾಚೀನಂ । ಅನ್ಯತ್ । ಅನು । ವರ್ತತೇ । ರಜಃ । ಉತ್ । ಅನ್ವೇನ । ಜ್ಯೋತಿಷಾ । ಯಾಸಿ ।
+> ಸೂರ್ಯ ॥ ೩ ॥
+
+<!-- printed 912 -->
+*[912 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೭.]*
+
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸೂರ್ಯ ತೇ ತವ ಸಮೀಪೇ ಪ್ರದಿವಃ ಪ್ರಶ್ನಃ ಪುರಾತನಃ ಕಶ್ಚಿದದೇವೋಽಸುರೋ
+> ರಾಕ್ಷಸೋ ವಾ ನ ನಿ ವಾಸತೇ । ನ ನಿವಸತಿ । ಕದೇತ್ಯತ ಆಹ । ಯದ್ಯದಾ ತ್ವಂ ಪತರೈರ್ಗಮನಶೀಲೈರೇತಶೇಭಿರಶ್ವೈ ರಥರ್ಯಸಿ ರಥಂ ಕಾಮಯಸೇ ಯೋಕ್ತುಂ । ಕಿಂಚ ಪ್ರಾಚೀನಮನ್ಯತ್ತ್ವದೀಯಂ
+> ಜ್ಯೋತಿ ರಜ ಉದಕಮನು ವರ್ತತೇ । ಅನ್ಯೇನ ತೇನ ಜ್ಯೋತಿಷೋದ್ಯಾಸಿ । ಉದೇಶಿ । ಯದ್ವಾ ।
+> ಪ್ರಾಚೀನಮನ್ಯದ್ರಜಶ್ಚಂದ್ರಾಖ್ಯಂ ಜ್ಯೋತಿಸ್ತಾಮನು ವರ್ತತೇ ಕತಸ್ತ್ವಮನ್ಯೇನ ಜ್ಯೋತಿಷಾ
+> ಸಹೋದೇಷೀತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸೂರ್ಯ—ಎಲೈ ಸೂರದೇವನೇ । ಯತ್—ಯಾವಾಗ । ಪತರೈಃ—ವೇಗಗಾಮಿಗಳಾದ । ಏತಶೇಭಿಃಅಶ್ವಗಳೊಡನೆ। ರಥರಸಿ—ರಥವನ್ನು ಹೂಡಲಿಚ್ಛಿಸುವೆಯೋ ಆಗ । ತೇ—ನಿನ್ನ ಸಮೀಪದಲ್ಲಿ । ಪ್ರದಿವಃ—
+ಪುರಾತನನಾದ॥ಅದೇವಃ—ಯಾವ ಅಸುರನೂ । ನ ನಿವಾಸತೇ—ವಾಸಮಾಡಲಾಗುವುದಿಲ್ಲ । ಪ್ರಾಚೀನಂ—
+ಪುರಾತನವಾದ । ಅನ್ಯತ್ ರಜಃ—ಬೇರೊಂದು ಜ್ಯೋತಿಯು । ಅನು ವರ್ತತೇ—ನಿನ್ನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತದೆ ।
+ಅನ್ಯೇನ ಜ್ಯೋತಿಷಾ—ಮತ್ತೊಂದು ಜ್ಯೋತಿಯಿಂದ ಕೂಡಿ । ಉತ್ ಯಾಸಿ—ನೀನು ಉದಯಿಸುತ್ತೀಯೇ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸೂರ‍್ಯದೇವನೇ, ಯಾವಾಗ ನೀನು ವೇಗಗಾಮಿಗಳಾದ ಅಶ್ವಗಳೊಡನೆ ನಿನ್ನ ರಥವನ್ನು
+ಹೂಡಲಿಚ್ಛಿಸುವೆಯೋ, ಆಗ ನಿನ್ನ ಸಮೀಪದಲ್ಲಿ ಪುರಾತನನಾದ ಯಾವ ಅಸುರನೂ ವಾಸಮಾಡಲಾಗುವುದಿಲ್ಲ.
+ಪುರಾತನವಾದ ಬೇರೊಂದು ಜ್ಯೋತಿಯು ನಿನ್ನನ್ನು ಅನುಸರಿಸಿದರೆ, ನೀನು ಬೇರೊಂದು ಜ್ಯೋತಿಯೊಡಗೂಡಿ
+ಉದಯಿಸುತ್ತೀಯೆ.
+
+*English Translation.*
+
+No ancient Rakshasa abides, Surya, near you when you desire to
+yoke to your chariot your rapid steeds: one ancient radiance follows
+(you) whilst you rise with another.
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೇನ ಸೂರ್ಯ ಜ್ಯೋತಿಷಾ ಬಾಧಸೇ ತಮೋ ಜಗಚ್ಚ ವಿಶ್ವಮುದಿರ್ಯರ್ಷಿ ಭಾನುನಾ ।
+
+<!-- printed 913 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೨.] ಋಗ್ವೇದಸಂಹಿತಾ 913]*
+
+> ತೇನಾಸ್ಮದ್ವಿಶ್ವಾಮನಿರಾಮನಾಹುತಿಮಪಾಮೀವಾಮಪ ದುಷ್ಸ್ವಪ್ನಂ
+> ಸುವ ॥ ೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯೇನ । ಸೂರ್ಯ । ಜ್ಯೋತಿಷಾ । ಬಾಧಸೇ । ತಮಃ । ಜಗತ್ । ಚ । ವಿಶ್ವಂ । ಉರ್ಇಯರ್ಷಿ ।
+> ಭಾನುನಾ ।
+> ತೇನ । ಅಸ್ಮತ್ । ವಿಶ್ವಾಂ । ಅನಿರಾಂ । ಅನಾಹುತಿಂ । ಅಪ । ಅಮೀನಾಂ । ಅಪ । ದುಃಸ್ವಪ್ನಂ ।
+> ಸುವ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸೂರ್ಯ ತ್ವಂ ಯೇನ ಜ್ಯೋತಿಷಾ ತೇಜಸಾ ತಮೋಽಂಧಕಾರಂ ಬಾಧಸೇ ನಿವಾರಯಸಿ
+> ಯೇನ ಚ ಭಾನುನಾ ತೇಜಸಾ ವಿಶ್ವಂ ಸರ್ವಂ ಜಗಜ್ಜಂಗಮಮುದಿಯರ್ಷಿ ಉದ್ಗಮಯಸಿ ತೇನ
+> ಜ್ಯೋತಿಷಾಸ್ಮದಸ್ಮತ್ತೋಽನಿರಾಮನ್ನಾಭಾವಮನಾಹುತಿಮಹೋಮಂ ಚಾಮಿನಾಂ ರೋಗಜಾತಂ
+> ಚಾಪ ಸುವ । ಅಪಗಮಯ : ದುಃಸ್ವಪ್ನಂ ದುಃಸ್ವಪ್ನಪ್ರಭವಮನಿಷ್ಟಂ ಚಾಪ ಸುವ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸೂರ್ಯ—ಎಲೈ ಸೂರ್ಯದೇವನೇ । ಯೇನ ಜ್ಯೋತಿಷಾ—ಯಾವ ತೇಜಸ್ಸಿನಿಂದ । ತಮಃ—ಅಂಧಕಾರ
+ವನ್ನು । ಬಾಧಸೇ—ನಾಶಪಡಿಸುವೆಯೋ । ಚ—ಮತ್ತು । ಭಾನುನಾ-ಯಾವ ತೇಜಸ್ಸಿನಿಂದ । ವಿಶ್ವಂ
+ಜಗತ್—ಸಕಲ ಜಗತ್ತನ್ನೂ । ಉದಿಯರ್ಷಿ—ಪ್ರೇರಿಸುವೆಯೋ । ತೇನ—ಆ ತೇಜಸ್ಸಿನಿಂದ । ಅಸ್ಮತ್—
+ನಮ್ಮಿಂದ । ಅನಿರಾಂ—ಅನ್ನಾಭಾವವನ್ನೂ । ಅನಾಹುತಿಂ—ಆಹುತಿಯ ಅಭಾವವನ್ನೂ । ಅಮೀವಾಂ—
+ರೋಗವನ್ನೂ । ಅಪ ಸುವ—ಹೋಗಲಾಡಿಸು। ದುಃಸ್ವಪ್ನಂ ಅಪ—ದುಸ್ವಪ್ನದ ಫಲವನ್ನು ಹೋಗಲಾಡಿಸು.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸೂರ‍್ಯದೇವನೇ, ಯಾವ ತೇಜಸ್ಸಿನಿಂದ ನೀನು ಅಂಧಕಾರವನ್ನು ನಾಶಪಡಿಸುವೆಯೋ, ಮತ್ತು
+ಯಾವ ತೇಜಸ್ಸಿನಿಂದ ಸಕಲ ಜಗತ್ತನ್ನು ಪ್ರೇರಿಸುವೆಯೋ, ಆ ತೇಜಸ್ಸಿನಿಂದ ನಮ್ಮಿಂದ ಅನ್ನಾಭಾವವನ್ನೂ
+ಆಹುತಿಯ ಅಭಾವವನ್ನೂ, ರೋಗವನ್ನೂ ಹೋಗಲಾಡಿಸು. ಕೆಟ್ಟ ಕನಸಿನ ಫಲವು ನಮಗಂಟದಿರುವಂತೆ ಮಾಡು.
+
+*English Translation.*
+
+With that light, Surya, with which you disperse the darkness,
+and with that radiance with which you quicken every moving thing,
+remove from us all famine, neglect of oblations, sickness, and evil dreams.
+xxvii 58
+
+<!-- printed 914 -->
+*[914 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೭]*
+
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ವಿಶ್ವಸ್ಯ ಹಿ ಪ್ರೇಷಿತೋ ರಕ್ಷಸಿ ವ್ರತಮಹೇಳಯನ್ನುಚ್ಚರಸಿ ಸ್ವಧಾ ಅನು ।
+> ಯದದ್ಯ ತ್ವಾ ಸೂರ್ಯೋಪಬ್ರವಾಮಹೈ ತಂ ನೋ ದೇವಾ ಅನು
+> ಮಂಸೀರತ ಕ್ರತುಂ ॥ ೫ ॥
+*[೧ ಪದಪಾರಂ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ವಿಶ್ವಸ್ಯ । ಹಿ । ಪ್ರಇಷಿತಃ । ರಕ್ಷಸಿ । ವ್ರತಂ । ಅಹೇಳಯನ್ । ಉತ್ಚರಸಿ । ಸ್ವಧಾಃ । ಅನು ।
+> ಯತ್ । ಅದ್ಯ । ತ್ವಾ । ಸೂರ್ಯ । ಉಪಬ್ರವಾಮಹೈ । ತಂ । ನಃ । ದೇವಾಃ । ಅನು । ಮಂಸೀರತ।
+> ಕ್ರತುಂ ॥ ೫ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸೂರ್ಯ ಪ್ರೇಷಿತಃ ಪ್ರೇರಿತಸ್ತ್ವಮಹೇಳಯನ್ನಕ್ರುದ್ಯನ್ವಿಶ್ವಸ್ಯ ಸರ್ವಸ್ಯ ಯಜಮಾನಸ್ಯ
+> ವ್ರತಂ ಕರ್ಮ ರಕ್ಷಸಿ ಹಿ । ಯಜ್ಞವಿಧ್ವಂಸಕೇಭ್ಯೋ ರಾಕ್ಷಸೇಭ್ಯಃ ಪಾಲಯಸಿ । ಸ್ವಧಾ ಹವೀಂಷ್ಯನೂಚ್ಚರಸಿ । ಉದ್ಧಚ್ಛಸಿ ಚ । ಪ್ರಾತರ್ಹೋಮೇ ನಿವೃತ್ತೇ ಸತಿ ಪಶ್ಚಾದುದ್ಧಚ್ಛಸೀತ್ಯರ್ಥಃ । ತಥಾ ಚ
+> ಯದ್ಯದಾದ್ಯಾಸ್ಮಿನ್ನಹನಿ ತ್ವಾ ತ್ವಾಮುಪಬ್ರವಾಮಹೈ ಉಪಬ್ರೂಮಃ ತದಾ ನೋಽಸ್ಮಾಕಂ ತಂ ಕ್ರತುಂ
+> ತತ್ಕರ್ಮ ದೇವಾ ಇಂದ್ರಾದಯೋಽನು ಮಂಸೀರತ ! ಅನುಮನ್ಯಂತಾಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸೂರ್ಯ—ಎಲೈ ಸೂರ್ಯದೇವನೇ । ಪ್ರೇಷಿತಃ—ಪ್ರಾರ್ಥಿತನಾದ ನೀನು । ಅಹೇಳಯನ್—ಕೋಪ
+ಗೊಳ್ಳದೆ । ವಿಶ್ವಸ್ಯ—ಸಕಲವಾದ । ವ್ರತಂ—ಕರ್ಮವನ್ನು । ರಕ್ಷಿಸಿ ಹಿ—ಖಂಡಿತ ರಕ್ಷಿಸುತ್ತೀಯೆ । ಸ್ವಧಾಃ
+ಅನು—ಸ್ವಧಾಹುತಿಯ ಅರ್ಪಣವಾದನಂತರ । ಉಚ್ಚರಿಸಿ—ಉದಯಿಸಿ ಬರುತ್ತೀಯೆ । ಅದ್ಯ-ಇಂದು । ಯದಾಯಾವಾಗ । ತ್ವಾ—ನಿನ್ನನ್ನು । ಉಪಬ್ರವಾಮಹೈ—ಪ್ರಾರ್ಥಿಸಿ ಕರೆಯುವೆವೋ ಅಗ । ನಃ—ನಮ್ಮ । ತಂ
+ಕ್ರತುಂ—ಕರ್ಮವನ್ನು । ದೇವಾಃ—ಇಂದ್ರಾದಿದೇವತೆಗಳು । ಅನು ಮಂಸೀರತ—ಅನುಮೋದಿಸಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸೂರದೇವನೇ, ಜಗತ್ತಿನಿಂದ ಪ್ರಾರ್ಥಿತನಾದ ನೀನು ಕೋಪಗೊಳ್ಳದೇ, ಸಕಲ ಕರ್ಮವನ್ನು
+ರಕ್ಷಿಸುತ್ತೀಯೆ. ಸ್ವಧಾಹುತಿಯ ಅರ್ಪಣವಾದನಂತರ ಉದಯಿಸಿ ಬರುತ್ತೀಯೆ. ನಾವು ಇಂದು ಯಾವಾಗ ನಿನ್ನನ್ನು
+ಪ್ರಾರ್ಥಿಸಿ ಕರೆಯುವೆವೋ, ಆಗ ನಮ್ಮ ಕರ್ಮವನ್ನು ಇಂದ್ರಾದಿದೇವತೆಗಳು ಅನುಮೋದಿಸಲಿ.
+
+<!-- printed 915 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೨. ] ಋಗ್ವೇದಸಂಹಿತಾ 915]*
+
+
+*English Translation.*
+
+when invoked, you who are gentle protect the rite of every (wor-
+shipper): you rise after the swadha offerings; when to-day we call upon
+you, may the gods be propitious to our sacred acts.
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತಂ ನೋ ದ್ಯಾವಾಪೃಥಿವೀ ತನ್ನ ಆಪ ಇಂದ್ರಃ ಶೃಣ್ವಂತು ಮರುತೋ ಹವಂ
+> ವಚಃ ।
+> ಮಾ ಶೂನೇ ಭೂಮ ಸೂರ್ಯಸ್ಯ ಸಂದೃಶಿ ಭದ್ರಂ ಜೀವಂತೋ ಜರಣಾಮತೀಮಹಿ ॥ ೬ ॥
+
+*ಪದಪಾಠಃ*
+
+> ತಂ । ನಃ । ದ್ಯಾವಾಪೃಥಿವೀ ಇತಿ । ತತ್ । ನಃ । ಆಪಃ । ಇಂದ್ರಃ । ಶೃಣ್ವಂತು । ಮರುತಃ । ಹವಂ
+> ವಚಃ ॥
+> ಮಾ । ಶೂನೇ । ಭೂಮ । ಸೂರ್ಯಸ್ಯ । ಸಂದೃಶಿ । ಭದ್ರಂ । ಜೀವಂತಃ । ಜರಣಾಂ । ಅಶೀಮಹಿ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ದ್ಯಾವಾಪೃಥಿವೀ ದ್ಯಾವಾಪೃಥಿವ್ಯಾವಾಪಶ್ಚೇಂದ್ರಶ್ಚ ಮರುತಶ್ಚ ನೋಽಸ್ಮಾಕಂ ತಂ ಹವಮಾಹ್ವಾನಂ ನೋಽಸ್ಮಾಕಂ ತದ್ವಚಃ ಸ್ತುತಿರೂಪಂ ವಾಕ್ಯಂ ಚ । ನ ಇತಿ ದ್ವಿರುಕ್ತಿರಾದರಾರ್ಥಾ । ಶೃಣ್ವಂತು ।
+> ಕಿಂಚ ವಯಂ ಸೂರ್ಯಸ್ಯ ಸಂದೃಶಿ ಸಂದರ್ಶನೇ ಶೂನೇ ಪ್ರವೃದ್ಧಾಯ ದುಃಖಾಯ ಮಾ ಭೂಮ ।
+> ಮೈವ ಭವೇಮ । ಕಿಂತು ಜೀವಂತಶ್ಚಿರಂ ಪ್ರಾಣಾನ್ದಾರಯಂತೋ ವಯಂ ಭದ್ರಂ ಕಲ್ಯಾಣಂ ಜರಣಾಂ
+> ವೃದ್ಧತ್ವಮಮರತ್ವಂ ಚಾಶೀಮಹಿ । ಪ್ರಾಪ್ನು ಯಾಮ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದ್ಯಾವಾಪೃಥಿವೀ—ದ್ಯಾವಾಪೃಥಿವಿಗಳೂ । ಆಪಃ—ಅಬ್ದೇವತೆಗಳೂ । ಇಂದ್ರಃ—ಇಂದ್ರನೂ ।
+ಮರುತಃ—ಮರುತ್ತುಗಳೂ । ನಃ—ನಮ್ಮ । ತಂ ಹವಂ—ಆಹ್ವಾನವನ್ನೂ । ನಃ—ನಮ್ಮ । ತತ್ ವಚಃ —
+ಪ್ರಸಿದ್ಧವಾದ ಸ್ತುತಿಯನ್ನೂ । ಶೃಣ್ವಂತು—ಕೇಳಲಿ । ಸೂರ್ಯಸ್ಯ—ಸೂರ್ಯನ । ಸಂದೃಶಿ—ದೃಷ್ಟಿಗೆ ನಾವು
+
+<!-- printed 916 -->
+*[916 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦, ಅ. ೩. ಸೂ. ೩೭]*
+
+ವಿಷಯರಾದಾಗ । ಶೂನೇ—ಅಧಿಕವಾದ ದುಃಖಕ್ಕೆ । ಮಾ ಭೂಮ—ನಾವು ಪಾತ್ರರಾಗದಂತಿರೋಣ ।
+ಜೀವಂತಃ—ನಾವು ಜೀವವಂತರಾಗಿದ್ದು । ಭದ್ರಂ—ಕಲ್ಯಾಣಾತ್ಮಕವಾದ । ಜರಣಾಂ—ಮುಪ್ಪನ್ನು ।
+ಆಶೀಮಹಿ—ಹೊಂದುವಂತಾಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ದ್ಯಾವಾಪೃಥಿವಿಗಳೂ, ಅದ್ವೈತೆಗಳೂ, ಇಂದ್ರನೂ, ಮರುತ್ತುಗಳೂ ನಮ್ಮ ಆಹ್ವಾನವನ್ನೂ, ನಮ್ಮ
+ಪ್ರಸಿದ್ಧವಾದ ಸ್ತುತಿಯನ್ನೂ ಕೇಳಲಿ. ಸೂರ‍್ಯನ ದೃಷ್ಟಿಗೆ ನಾವು ವಿಷಯರಾದಾಗ ಅಧಿಕವಾದ ದುಃಖಕ್ಕೆ ನಾವು
+ಪಾತ್ರರಾಗದಂತೆ ಇರೋಣ. ನಾವು ಜೀವಂತರಾಗಿದ್ದು ಕಲ್ಯಾಣಾತ್ಮಕವಾದ ಮುಪ್ಪನ್ನು ಹೊಂದುವಂತಾಗಲಿ.
+(ಮುಪ್ಪಿನ ವರೆಗೆ ಕಲ್ಯಾಣವನ್ನು ಹೊಂದುವಂತಾಗಲಿ.)
+
+*English Translation.*
+
+May heaven and earth, may the waters, may Indra, and the Maruts, hear this our invocation and this our praise: may we not be in sorrow at the sight of the Sun : living long, may we attain a prosperous old age.
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ವಿಶ್ವಾಹಾ ತ್ವಾ ಸುಮನಸಃ ಸುಚಕ್ಷಸಃ ಪ್ರಜಾವಂತೋ ಅನಮೀವಾ
+> ಅನಾಗಸಃ ।
+> ಉದ್ಯಂತಂ ತ್ವಾ ಮಿತ್ರಮಹೋ ದಿವೇದಿವೇ ಜ್ಯೋಜ್ಜೀವಾಃ ಪ್ರತಿ ಪಶ್ಯೇಮ
+> ಸೂರ್ಯ ॥ ೭ ॥
+
+*ಪದಪಾಠಃ*
+
+> ವಿಶ್ವಾಹಾ । ತ್ವಾ । ಸುಮನಸಃ । ಸುಚಕ್ಷಸಃ । ಪ್ರಜಾವಂತಃ । ಅನಮೀವಾಃ । ಅನಾಗಸಃ ।
+> ಉತ್ಕಯಂತಂ । ತ್ವಾ । ಮಿತ್ರಮಹಃ। ದಿವೇದಿವೇ । ಜ್ಯೋಕ್ । ಜೀವಾಃ । ಪ್ರತಿ । ಪಶ್ಯೇಮ ।
+> ಸೂರ್ಯ ॥ ೭ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸೂರ್ಯ ತ್ವಾ ತ್ವಾಂ ಸುಮನಸಃ ಪ್ರೀತಿಯುಕ್ತಮನಸ್ಕಾಃ ಸುಚಕ್ಷಸಃ ಸುದರ್ಶನಾಃ
+> ಪ್ರಜಾವಂತಃ ಪುತ್ರಾದ್ಯುಪೇತಾ ಅನಮೀವಾ ರೋಗರಹಿತಾ ಅನಾಗಸೋಽಪರಾಧವರ್ಜಿತಾಶ್ಚ ವಯು
+> ವಿಶ್ವಾಹಾ ಸರ್ವದಾ ಯಜೇಮೇತಿ ಶೇಷಃ । ಕಿಂಚ ಹೇ ಮಿತ್ರಮಹೋ ಮಿತ್ರಾಣಾಂ ಪೂಜಯಿತಃ
+
+<!-- printed 917 -->
+*[ಆ. ೭. ಅ. ೮. ವ. ೧೩.] ಋಗ್ವೇದಸಂಹಿತಾ 917]*
+
+> ಸೂರ್ಯ ದಿವೇದಿವೇ ಪ್ರತಿದಿನಮುದ್ಯಂತಮುದಯಂ ಪ್ರಾಪ್ನುವಂತಂ ತ್ವಾ ತ್ವಾಂ ಜ್ಯೋಕ್ ಚಿರಂ ಜೀವಾ
+> ಜೀವಂತೋ ವಯಂ ಪ್ರತಿ ಪಶ್ಯೇಮ !!
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸೂರ್ಯ—ಎಲೈ ಸೂರ್ಯನೇ । ಸುಮನಸಃ—ಶುದ್ಧವಾದ ಮನಸ್ಸುಳ್ಳವರೂ । ಸುಚಕ್ಷಸಃ—ಉತ್ತಮವಾದ
+ದೃಷ್ಟಿಯುಳ್ಳವರೂ । ಪ್ರಜಾವಂತಃ—ಪುತ್ರಾದಿಗಳಿಂದ ಕೂಡಿದವರೂ । ಅನಮೀವಾಃ—ರೋಗರಹಿತರೂ ।
+ಅನಾಗಸಃ—ಪಾಪರಹಿತರೂ ಆದ ನಾವು । ತ್ವಾ—ನಿನ್ನನ್ನು । ವಿಶ್ವಾಹಾ—ಸಕಲದಿನಗಳಲ್ಲಿಯೂ ಪೂಜಿಸುವೆವು ।
+ಮಿತ್ರಮಹಃ—ಮಿತ್ರರಿಗೆ ಆನುಗ್ರಹವನ್ನು ನೀಡುವ ! (ಸೂರ್ಯ)—ಎಲೈ ಸೂರ್ಯನೇ । ದಿವೇದಿವೇ—ಪ್ರತಿ
+ದಿನವೂ । ಉದ್ಯಂತಂ—ಉದಯವನ್ನು ಹೊಂದುತ್ತಿರುವ । ತ್ವಾ—ನಿನ್ನನ್ನು । ಜೀವಾಃ—ಜೀವವಂತರಾಗಿರುವ
+ನಾವು । ಜ್ಯೋಕ್—ಅನೇಕಕಾಲ । ಪ್ರತಿ ಪಶ್ಯೇಮ—ನೋಡುವಂತಾಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸೂರ್ಯನೇ, ಶುದ್ಧವಾದ ಮನಸ್ಸುಳ್ಳವರೂ, ಉತ್ತಮವಾದ ದೃಷ್ಟಿಯುಳ್ಳವರೂ, ಪುತ್ರಾದಿಗಳಿಂದ
+ಕೂಡಿದವರೂ ರೋಗರಹಿತರೂ, ಪಾಪರಹಿತರೂ ಆದ ನಾವು ನಿನ್ನನ್ನು ಸಕಲದಿನಗಳಲ್ಲಿಯೂ ಪೂಜಿಸುವೆವು.
+ಮಿತ್ರರಿಗೆ ಅನುಗ್ರಹವನ್ನು ನೀಡುವ ಎಲೈ ಸೂರ್ಯನೇ, ಪ್ರತಿದಿನವೂ ಉದಯವನ್ನು ಹೊಂದುತ್ತಿರುವ ನಿನ್ನನ್ನು
+ಜೀವವಂತರಾಗಿರುವ ನಾವು ಅನೇಕಕಾಲ ನೋಡುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+May we, constantly happy in mind, sound of sight, blessed with
+posterity, exempt from sickness, devoid of sin, daily (worship you) : may
+we, enjoying long life, behold you, Surya, who are the cherisher of your
+friends rising day by day.
+*[, ಸಂಹಿತಾಪಾರಃ ।]*
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಮಹಿ ಜ್ಯೋತಿರ್ಭಿಭ್ರತಂ ತ್ವಾ ವಿಚಕ್ಷಣ ಭಾಸ್ವಂತಂ ಚಕ್ಷುಷೇಚಕ್ಷುಷೇ
+> ಮಯಃ ।
+> ಆರೋಹಂತಂ ಬೃಹತಃ ಪಾಜಸಸ್ಪರಿ ವಯಂ ಜೀವಾಃ ಪ್ರತಿ ಪಶ್ಯೇಮ
+> ಸೂರ್ಯ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಮಹಿ । ಜ್ಯೋತಿಃ । ಬಿಭ್ರತಂ । ತ್ವಾ । ವಿಚಕ್ಷಣ । ಭಾಸ್ವಂತಂ । ಚಕ್ಷುಷೇಚಕ್ಷುಷೇ । ಮಯಃ ।
+> ಆರೋಹಂತಂ । ಬೃಹತಃ । ಪಾಜಸಃ । ಪರಿ । ವಯಂ । ಜೀವಾಃ । ಪ್ರತಿ । ಪಶ್ಯೇಮ । ಸೂರ್ಯ ॥೮॥
+
+<!-- printed 918 -->
+*[918 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೭-]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ವಿಚಕ್ಷಣ ವಿದ್ರಷ್ಟಃ ಸೂರ್ಯ ಮಹಿ ಮಹಜ್ಯೋತಿಸ್ತೇಜೋ ಬಿಭ್ರತಂ ಧಾರಯಂತಂ
+> ಭಾಸ್ವಂತಂ ದೀಪ್ತಿಮಂತಂ ಚಕ್ಷುಷೇ ಚಕ್ಷುಷೇ ಸರ್ವೇಷಾಂ ದ್ರಷ್ಟೃಣಾಂ ಚಕ್ಷುಷೇ ಮಯಃ ಸುಖಕರಂ
+> ಬೃಹತೋ ಮಹತಃ ಪಾಜಸೋ ಬಲವತಃ ಪರಿ । ಮಹತೋ ಬಲವತಃ ಸಮುದ್ರಸ್ಯೋದಕಸ್ಯೋಪರೀತ್ಯರ್ಥಃ । ಆರೋಹಂತಂ ತ್ವಾ ತ್ವಾಂ ಜೀವಾಶ್ಚಿರಂ ಜೀವಂತೋ ವಯಂ ಪ್ರತಿ ಪ್ರತಿದಿನಂ ಪಶ್ಯೇಮ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವಿಚಕ್ಷಣ—ಎಲ್ಲವನ್ನೂ ಸೂಕ್ಷ್ಮವಾಗಿ ಪರಿಶೀಲಿಸುವ । ಸೂರ್ಯ—ಎಲೈ ಸೂರ್ಯನೇ । ಮಹಿ—
+ಮಹತ್ತಾದ । ಜ್ಯೋತಿಃ—ತೇಜಸ್ಸನ್ನು । ಬಿಭ್ರತಂ—ಧರಿಸಿರುವವನೂ । ಭಾಸ್ವಂತಂ—ಪ್ರಭಾಯುತನೂ ।
+ಚಕ್ಷುಷೇ ಚಕ್ಷುಷೇ—ನಿನ್ನನ್ನು ನೋಡುವ ಸಕಲರ ಕಣ್ಣಿಗೂ । ಮಯಃ—ಸುಖಕರನೂ । ಬೃಹತಃ—
+ಮಹತ್ತಾದುದೂ । ವಾಜಸಃ ಪರಿ—ಶಕ್ತಿಯುತವಾದುದೂ ಆದ ಉದಕದ ಮೇಲ್ಬಾಗದಲ್ಲಿ । ಆರೋಹಂತಂ—
+ಹತ್ತುವವನೂ ಆದ । ತ್ವಾ—ನಿನ್ನನ್ನು । ಜೀವಾಃ—ಜೀವವಂತರಾಗಿರುವ । ವಯಂ—ನಾವು । ಪ್ರತಿ
+ಪಶ್ಯೇಮ—ಅನೇಕಕಾಲ ನೋಡುವಂತಾಗಲಿ
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲ್ಲವನ್ನೂ ಸೂಕ್ಷ್ಮವಾಗಿ ಪರಿಶೀಲಿಸುವ ದೃಷ್ಟಿಯುಳ್ಳ ಎಲೈ ಸೂರ್ಯನೇ, ಮಹತ್ತಾದ ತೇಜಸ್ಸನ್ನು
+ಧರಿಸಿರುವವನೂ, ಪ್ರಭಾಯುತನೂ, ನಿನ್ನನ್ನು ನೋಡುವ ಸಕಲರ ಕಣ್ಣಿಗೂ ಸುಖಕರನೂ, ಮಹತ್ತಾದುದೂ
+ಶಕ್ತಿಯುತವಾದುದೂ ಆದ ಉದಕದ (ಸಮುದ್ರದ) ಮೇಲ್ಬಾಗದಲ್ಲಿ ಹತ್ತುವವನೂ ಆದ ನಿನ್ನನ್ನು ಜೀವವಂತರಾಗಿರುವ
+ನಾವು ಅನೇಕಕಾಲ ನೋಡುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+May we, enjoying (long) life, day by day behold you, Surya, who glance over all things, invested with great lustre, radiant, giving joy to every eye, and rising above the vast and mighty (ocean).
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯಸ್ಯ ತೇ ವಿಶ್ವಾ ಭುವನಾನಿ ಕೇತುನಾ ಪ್ರ ಚೇರತೇ ನಿ ಚ ವಿಶಂತೇ
+> ಅಕ್ತುಭಿಃ ॥
+> ಅನಾಗಾಸ್ತೇನ ಹರಿಕೇಶ ಸೂರ್ಯಾಹ್ನಾಹ್ನಾ ನೋ ವಸ್ಯಸಾವಸ್ಯಸೋದಿಹಿ॥
+
+<!-- printed 919 -->
+*[ವ. ೭. ಅ. ೮. ವ. ೧೩.] ಋಗ್ವೇದಸಂಹಿತಾ 919]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಯಸ್ಯ ! ತೇ । ವಿಶ್ವಾ । ಭುವನಾನಿ । ಕೇತುನಾ । ಪ್ರ । ಚ । ಈರತೇ । ನಿ । ಚ । ವಿಶಂತೇ ।
+> ಆಕ್ತುಭಿಃ ।
+> ಅನಾಗಾಃತ್ವೇನ । ಹರಿಃಕೇಶ । ಸೂರ್ಯ । ಅಹ್ನಾಅಹ್ನಾ । ನಃ । ವಸ್ಯಸಾವಸ್ಯಸಾ । ಉತ್ ।
+> ಇಹಿ ॥ ೯ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಹರಿಕೇಶ ಹರಿತವರ್ಣಕೇಶ ಸೂರ್ಯ ಯಸ್ಯ ತೇ ತವ ಕೇತುನಾ ಪ್ರಜ್ಞಾನೇನ ವಿಶ್ವಾ
+> ವಿಶ್ವಾನಿ ಭುವನಾನಿ ಭೂತಜಾತಾನಿ ಪ್ರಚರೇತೇ ಪ್ರಕರ್ಷೇಣ ಗಚ್ಛಂತಿ ಅಕ್ತುಭೀ ರಾತ್ರಿಭಿರ್ನಿ ವಿಶಂತೇ
+> ಚ ವಿಶ್ರಾಮ್ಯಂತಿ ಚ । ಸ್ವಪಂತೀತ್ಯರ್ಥಃ । ಸ ತ್ವಂ ನೋಽಸ್ಮಾಕಮನಾಗಾಸ್ತ್ವೇನಾಪರಾಧವರ್ಜಿತತ್ವೇನ
+> ವಸ್ಯಸಾ ವಸ್ಯಸಾತ್ಯಂತತ್ರೇಯಸ್ಕರೇಣ ವಸುಮತ್ತರೇಣ ವಾಹ್ನಾಹ್ನಾ ತೇನ ತೇನ ದಿವಸೇನೋದಿಹಿ ।
+> ಉದ್ದಚ್ಛ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಹರಿಕೇಶ—ಕೇಶಗಳಂತಿರುವ ಹೊಂಬಣ್ಣದ ರತ್ನಿಗಳುಳ್ಳ । ಸೂರ್ಯ—ಎಲೈ ಸೂರ್ಯನೇ । ಯಸ್ಯ ತೇ—
+ಯಾವ ನಿನ್ನ । ಕೇತುನಾ—ಪ್ರಜ್ಞಾಪನದಿಂದ । ವಿಶ್ವಾ ಭುವನಾನಿ—ಸಕಲ ಭೂತಜಾತಗಳೂ ! ಪ್ರ ಚ
+ಈರತೇ—ತಮ್ಮ ವ್ಯವಹಾರಗಳಿಗಾಗಿ ಚಲಿಸುತ್ತಲೂ । ಅಕ್ತುಭಿಃ—ರಾತ್ರಿಕಾಲಗಳಲ್ಲಿ । ನಿ ವಿಶಂತೇ ಚ—
+ವಿಶ್ರಾಂತಿಗಾಗಿ ನಿದ್ರಿಸುತ್ತಲೂ ಇರುವುವೋ ಅಂತಹ ನೀನು । ನಃ—ನಮಗಾಗಿ । ಅನಾಗಸ್ತ್ಯೇನ—ಪಾಪರಾಹಿತ್ಯ
+ವನ್ನುಂಟುಮಾಡುವುದೂ । ವಸ್ಯಸಾವಸ್ಯಸಾ—ಅತ್ಯಂತ ಶ್ರೇಯಸ್ಕರವಾದ ಧನಸಂಪಾದಕವಾದುದೂ ಆದ !
+ಅಹ್ನಾಹ್ನಾ—ಪ್ರತಿದಿನದಲ್ಲಿಯೂ । ಉದಿಹಿ—ಉದಯಿಸಿ ಬಾ.
+*[೧ ಭಾನುವಾರ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಕೇಶಗಳಂತಿರುವ ಹೊಂಬಣ್ಣದ ರಶ್ಮಿಗಳುಳ್ಳ ಎಲೈ ಸೂರನೇ, ಯಾವ ನಿನ್ನ ಪ್ರಜ್ಞಾಪನದಿಂದ ಸಕಲ
+ಭೂತಜಾತಗಳೂ ತಮ್ಮ ವ್ಯವಹಾರಗಳಿಗಾಗಿ ಚಲಿಸುತ್ತಲೂ, ರಾತ್ರಿಕಾಲಗಳಲ್ಲಿ ವಿಶ್ರಾಂತಿಗಾಗಿ ನಿದ್ರಿಸುತ್ತಲೂ
+ಇರುವುವೋ ಅಂತಹ ನೀನು ನಮಗಾಗಿ ಪಾಪರಾಹಿತ್ಯವನ್ನುಂಟುಮಾಡುವುದೂ, ಅತ್ಯಂತ ಶ್ರೇಯಸ್ಕರವಾದ
+ಧನಸಂಪಾದಕವಾದುದೂ ಆದ ಎಲ್ಲಾ ದಿನಗಳಲ್ಲಿಯೂ ಉದಯಿಸಿ ಬಾ.
+
+*English Translation.*
+
+Golden-haired Surya, by whose guidance all beings move (by day) and repose by night, you come to us with freedom from sin, and more felicitous (life) every day.
+
+<!-- printed 920 -->
+*[920 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂಕ್ತ. ೩೭]*
+
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಶಂ ನೋ ಭವ ಚಕ್ಷಸಾ ಶಂ ನೋ ಅಹ್ನಾ ಶಂ ಭಾನುನಾ ಶಂ ಹಿಮಾ
+> ಶಂ ಘೃಣೇನ ।
+> ಯಥಾ ಶಮಧ್ವಞ್ಛಮಸದ್ದುರೋಣೇ ತತ್ಸೂರ್ಯ ದ್ರವಿಣಂ ಧೆ. ಹಿ ಚಿತ್ರಂ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಶಂ । ನಃ । ಭವ । ಚಕ್ಷಸಾ । ಶಂ । ನಃ । ಅಹ್ನಾ । ಶಂ । ಭಾನುನಾ । ಶಂ । ಹಿಮಾ । ಶಂ । ಫೃಣೇನ ।
+> ಯಥಾ । ಶಂ । ಅಧ್ವನ್ । ಶಂ । ಅಸತ್ । ದುರೋಣೇ । ತತ್ । ಸೂರ್ಯ । ದ್ರವಿಣಂ । ಧೇಹಿ ।
+> ಚಿತ್ರಂ ॥ ೧೦ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಸೂರ್ಯ ತ್ವಂ ಚಕ್ಷಸಾ ತೇಜಸಾ ನೋಽಸ್ಮಾಕಂ ಶಂ ಸುಖಕರೋ ಭವ । ಅಹ್ನಾ ದಿವಸೇನ
+> ಚ ಶಂ ಸುಖಕರೋ ನೋಽಸ್ಮಾಕಂ ಭವ । ಭಾನುನಾ ರಶ್ಮಿನಾ ಚ ಶಂ ಭವ । ಅಸ್ಮಾಕಂ ಸುಖಕರೋ
+> ಭವ । ಹಿಮಾ ಶೈತ್ಯೇನ ಚ ಶಂ ಭವ । ಫೃಣೇನೌಷ್ಠ್ಯೇನ ಚ ಶಂಕರೋ ಭವ । ಯಥಾ ಯಾದೃಶೇನ
+> ನೋಽಸ್ಮಾಕಮಧ್ವನ್ನಧ್ವನಿ ಮಾರ್ಗೇ ಶಂ ಭವತಿ ದುರೋಣೇ ಗೃಹೇ ಚ ಶಂ ಸುಖಮಸತ್ ಭವತಿ
+> ತಚ್ಚಿತ್ರಂ ಪೂಜನೀಯಂ ದ್ರವಿಣಂ ಧನಂ ದೇಹಿ । ಅಸ್ಮಭ್ಯಂ ಪ್ರಯಚ್ಛ ।
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಸೂರ್ಯ—ಎಲೈ ಸೂರ್ಯನೇ । ಚಕ್ಷಸಾ—ನಿನ್ನ ತೇಜಸ್ಸಿನಿಂದ । ನಃ—ನಮಗೆ । ಶಂ—ಸುಖಕರನಾಗಿ ।
+ಭವ—ಆಗು । ಅಹ್ನಾ—ಅಹಸ್ಸಿನ ಪ್ರಕಾಶದ ಮೂಲಕ । ನಃ—ನಮಗೆ । ಶಂ—ಸುಖಕರನಾಗು । ಭಾನುನಾ—
+ನಿನ್ನ ರಶ್ಮಿಯಿಂದ । ಶಂ—ನಮಗೆ ಸುಖಕರನಾಗು । ಹಿಮಾ—ಶೈತ್ಯದಿಂದಲೂ । ಶಂ—ಸುಖಕಾರಕನಾಗು ।
+ಘೃಣೇನ—ಉಷ್ಣದ ಮೂಲಕವೂ ಸುಖಪಡಿಸು । ಯಥಾ—ಯಾವ ಪ್ರಕಾರ । ನಃ—ನಮಗೆ । ಅಧ್ವನ್—
+ಮಾರ್ಗದಲ್ಲಿಯೂ । ದುರೋಣೇ—ಗೃಹದಲ್ಲಿಯೂ । ಶಂ ಅಸತ್—ಸುಖವುಂಟಾಗುವುದೋ । ತತ್—ಅಂತಹ
+ಸುಖಸಾಧಕವಾದುದೂ । ಚಿತ್ರಂ—ಅನೇಕವಿಧವಾದುದೂ ಆದ । ದ್ರವಿಣಂ—ಧನವನ್ನು । ಧೇಹಿ—ಕೊಡು.
+*[। ಭಾಷಾರ್ಥ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಸೂರ‍್ಯನೇ, ನಿನ್ನ ತೇಜಸ್ಸಿನಿಂದಲೂ, ಅಹಸ್ಸಿನ ಪ್ರಕಾಶದಿಂದಲೂ, ನಿನ್ನ ಸಕಲ ರಶ್ಮಿಗಳಿಂದಲೂ,
+ಶೀತದಿಂದಲೂ, ಉಷ್ಣದಿಂದಲೂ ನಮಗೆ ಎಲ್ಲಾ ಬಗೆಯಿಂದಲೂ ಸುಖಕಾರಕನಾಗು. ಯಾವ ಧನಗಳಿಂದ ನಮಗೆ
+ಮಾರ್ಗದಲ್ಲಿಯೂ ಗೃಹದಲ್ಲಿಯೂ ಸುಖವು ಲಭಿಸುವುದೋ ಅಂತಹ ಆಕರ್ಷಕವಾದ ಧನವನ್ನು ಕೊಡು.
+
+<!-- printed 921 -->
+*[ಅ. ೭. ಅ ೮. ವ. ೧೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 921]*
+
+
+*English Translation.*
+
+Be propitious to us with light ; be propitious to us with sushine;
+be propitious to us with warmth ; be propitious to us with frost ; and
+grant us, Surya, various wealth, whereby we may prosper on the road
+and in the house.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಸ್ಮಾಕಂ ದೇವಾ ಉಭಯಾಯ ಜನ್ಮನೇ ಶರ್ಮ ಯಚ್ಛತ ದ್ವಿಪದೇ
+> ಚತುಷ್ಪದೇ ॥
+> ಅದತ್ಪಿಬದೂರ್ಜಯಮಾನಮಾಶಿತಂ ತದಸ್ಮೇ ಶಂ ಯೋರರಪೋ ದಧಾತನ ॥ ೧೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಆಸ್ಮಾಕಂ । ದೇವಾಃ । ಉಭಯಾಯ । ಜನ್ಮನೇ । ಶರ್ಮ । ಯಚ್ಛತ । ದ್ವಿಪದೇ । ಚತುರ್ಪದೇ ।
+> ಆದತ್ । ಪಿಬತ್ । ಊರ್ಜಯಮಾನಂ । ಆಶಿತಂ । ತತ್ । ಅಸ್ಮೇ ಇತಿ । ಶಂ । ಯೋಃ । ಅರಪಃ ।
+> ದಧಃತನ ॥ ೧೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ದೇವಾಃ ಸೂರ್ಯೇಣಾಭ್ಯನುಜ್ಞಾತಾ ಯೂಯಮಸ್ಮಾಕಂ ದ್ವಿಪದೇ ಮನುಷ್ಯಾತ್ಮಕಾಯ
+> ಚತುಷ್ಪದೇ ಪಶ್ವಾತ್ಮಕಾಯ ಚೋಭಯಾಯೋಭಯವಿಧಾಯ ಜನ್ಮನೇ ಭೂತಜಾತಾಯ ಶರ್ಮ
+> ಸುಖಂ ಯಚ್ಛತ । ದತ್ತ । ಕಿಂಚ ಯಥಾಸ್ಮತ್ಪುತ್ರಾದಿಕಮದದ್ಭಕ್ಷಣೀಯಂ ಭಕ್ಷಯತ್ ಪಿಬತ್ಪಾನೀಯಂ
+> ಪಿಬಚ್ಚೋರ್ಜಯಮಾನಂ ಬಲವಂತಮಿವಾತ್ಮಾನಮಾಚರಚ್ಚಾಶಿತಂ ಸುಹಿತಂ ಚ ಭವತಿ ತಥಾ ಶಂ
+> ರೋಗಶಾಂತಿನಿಮಿತ್ತಕಂ ಸುಖಂ ಯೋರ್ವಿಷಯಯೋಗಜನಿತಂ ಸುಖಂ ಚಾರಪೋಽಪಾಪಂ ಚ ದಧಾತನ । ಪ್ರಯಚ್ಛತ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ದೇವಾಃ—ಎಲೈ ದೇವತೆಗಳೇ । ಅಸ್ಮಾಕಂ—ನಮಗೆ ಸೇರಿದ । ದ್ವಿಪದೇ—ಪುತ್ರಾದಿರೂಪವುಳ್ಳದ್ದೂ ।
+ಚತುಷ್ಪದೇ—ಪಶ್ವಾದಿರೂಪವುಳ್ಳದ್ದೂ । ಉಭಯಾಯ—ಈ ಎರಡು ವಿಧವಾದುದೂ ಆದ । ಜನ್ಮನೇ—
+ಪ್ರಾಣಿಗಳಿಗೆಲ್ಲ । ಶರ್ಮ—ಸುಖವನ್ನು । ಯಚ್ಛತ—ಕೊಡಿರಿ । ಅದತ್—ನಾವು ತಿನ್ನುತ್ತಿರುವಾಗಲೂ ।
+ಪಿಬತ್—ಪಾನಮಾಡುತ್ತಿರುವಾಗಲೂ । ಊರ್ಜಯಮಾನಂ—ಶಕ್ತಿಯನ್ನು ಹೊಂದುವಂತೆಯೂ । ಆಶಿತಂ—
+ಆರೋಗ್ಯದಿಂದಿರುವಂತೆಯೂ । ಶಂ—ಸುಖವನ್ನೂ । ಯೋಃ—ರೋಗರಾಹಿತ್ಯವನ್ನೂ । ಅರಪಃ—ಪಾಪರಹಿತ
+ವಾಗಿರುವಂತೆ । ಅಸ್ಮೇ—ನಮಗೆ । ದಧಾತನ—ಕೊಡಿರಿ.
+
+<!-- printed 922 -->
+*[922 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೭]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ದೇವತೆಗಳೇ, ನಮ್ಮ ಪುತ್ರಾದಿಗಳಿಗೂ ಪಶ್ವಾದಿಗಳಿಗೂ ಸಕಲ ಸುಖಗಳನ್ನು ಕೊಡಿರಿ. ನಾವು
+ತಿನ್ನುತ್ತಿರುವಾಗಲೂ, ಪಾನಮಾಡುತ್ತಿರುವಾಗಲೂ, ನಾವು ಶಕ್ತಿಯನ್ನು ಹೊಂದುವಂತೆಯೂ ಆರೋಗ್ಯದಿಂದಿರು
+ವಂತೆಯೂ ನಮಗೆ ಪಾಪರಹಿತವಾದ ಸುಖವನ್ನೂ ರೋಗರಾಹಿತ್ಯವನ್ನೂ ಉಂಟುಮಾಡಿರಿ.
+
+*English Translation.*
+
+Bestow, gods,'felicity upon both (classes) of our living beings, bipeds and quadrupeds, so that, whether they be eating or drinking, they may be strong and healthy : so grant to us happiness, pleasure and freedom from sin.
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯದ್ವೋ ದೇವಾಶ್ಚಕೃಮ ಜಿಹ್ವಯಾ ಗುರು ಮನಸೋ ವಾ ಪ್ರಯುತೀ
+> ದೇವಹೇಳನಂ ।
+> ಅರಾವಾ ಯೋ ನೋ ಅಭಿ ದುಚ್ಚುನಾಯತೇ ತಸ್ಮಿನ್ತದೇನೋ ವಸವೋ
+> ನಿ ಧೇತನ ॥ ೧೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯತ್ । ವಃ । ದೇವಾಃ । ಚಕೃಮ । ಜಿಹ್ವಯಾ । ಗುರು । ಮನಸಃ । ವಾ । ಪ್ರಯುತೀ । ದೇವಹೇಳನಂ ।
+> ಅರಾವಾ । ಯಃ । ನಃ । ಅಭಿ । ದುಚ್ಚುನಯತೇ । ತಸ್ಮಿನ್ । ತತ್ । ಏನಃ । ವಸವಃ । ನಿ । ಧೇತನ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ವಸವೋ ವಾಸಯಿತಾರೋ ದೇವಾಃ ವೋ ಯುಷ್ಮಾಕಂ ವಯಂ ಜಿಹ್ವಯಾ ವಾಚಾ
+> ಮನಸಃ ಪ್ರಯುತೀ ಪ್ರಯುತ್ಯಾ ಪ್ರಯೋಗೇಣ ಗುರು ಮಹದ್ದೇವಹೇಳನಂ ದೇವಕ್ರೋಧನಂ ಚ
+> ಯದೇನಶ್ಚಕ್ರಮ ಅಕಾರ್ಷ್ಮ ಯೋಽಸ್ಮಚ್ಛತುರ್ನೋಽಸ್ಮಾನಭಿ ಪ್ರತ್ಯರಾವಾ ಗಮನವಾನ್ಭೂತ್ವಾ
+> ದುಚ್ಚುನಾಯತೇ ಪಾಪಾನ್ಯಾಚರತ್ಯಸ್ಮಾನುದ್ವೇಜಯತಿ ನಾ ತಸ್ಮಿನ್ನಸ್ಮಚ್ಛತ್ರೌ ತದೇನೋಽಸ್ಮಾಭಿಃ
+> ಕೃತಂ ಪಾಪಂ ನಿ ಧೇತನ । ಸೂರ್ಯಸ್ಯಾಜ್ಞಯಾ ವಿಧತ್ತ । ಸ್ಥಾಪಯತೇತ್ಯರ್ಥಃ ॥
+
+<!-- printed 923 -->
+*[ಆ. ೭. ಅ. ೮. ವ. ೧೪.] ಋಗ್ವೇದಸಂಹಿರಾ 923]*
+
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವಸವಃ—ವಸತಿದಾಯಕರಾದ । ದೇವಾಃ—ಎಲೈ ದೇವತೆಗಳೇ । ವಃ—ನಿಮ್ಮ ವಿಷಯದಲ್ಲಿ ।
+ಜಿಹ್ವಯಾ—ವಾಕ್ಕಿನ ಮೂಲಕವಾಗಿಯಾಗಲಿ ! ಮನಸಃ—ಮನಸ್ಸಿನಿಂದಾಗಲಿ । ಪ್ರಯುತೀ—ವಾಙ್ಮನಸ್ಸುಗಳ
+ವ್ಯವಹಾರಗಳಿಂದ । ಗುರು—ಮಹತ್ತಾದುದೂ । ದೇವಹೇಳನಂ—ದೇವತೆಗಳಿಗೆ ಕ್ರೋಧವನ್ನುಂಟುಮಾಡುವುದೂ
+ತದ । ಯತ್ ಏನಃ—ಯಾವ ಪಾಪವನ್ನು । ಚಕ್ರಮ—ನಾವು ಮಾಡಿರುವೆವೋ । ತತ್ ಏನಃ—ಆ ಎಲ್ಲ ಪಾಪ
+ವನ್ನೂ । ಯಃ—ಯಾವ ನಮ್ಮ ಶತ್ರುವು । ನಃ ಅಭಿ—ನಮ್ಮ ವಿಷಯದಲ್ಲಿ । ಅರಾವಾ—ಎದುರುಬಿಳುತ್ತ ।
+ದುಚ್ಚು ನಾಯತೇ—ಪಾಪಕರ್ಮವನ್ನಾಚರಿಸುವನೋ ! ತಸ್ಮಿನ್—ಆ ಶತ್ರುವಿನಲ್ಲಿ । ನಿ ಧೇತನ—ಸ್ಥಾಪಿಸಿರಿ.
+*[೧ ಭವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ವಸತಿದಾಯಕರಾದ ಎಲೈ ದೇವತೆಗಳೇ, ನಿಮ್ಮ ವಿಷಯದಲ್ಲಿ ನಾವು ವಾಕ್ಪ್ರಯೋಗದಿಂದಾಗಲಿ ಅಥವಾ
+ಮನಸ್ಸಂಕಲ್ಪದಿಂದಾಗಲಿ, ಮಹತ್ತಾದುದೂ, ನಿಮಗೆ ಕ್ರೋಧವನ್ನುಂಟುಮಾಡುವುದೂ ಆದ ಯಾವ ಪಾಪವನ್ನು
+ಮಾಡಿರುವೆವೋ ಆ ಎಲ್ಲ ಪಾಪವನ್ನೂ ಸಹ ನಮ್ಮ ಮೇಲೆ ಎದುರುಬಿದ್ದು ನಮಗೆ ಕೇಡನ್ನು ಬಯಸುವ ಶತ್ರುವಿನ
+ಮೇಲೆ ತಿರುಗಿಸಿ ಅವನಿಗೆ ಅದರಿಂದ ಕೆಡಕುಂಟಾಗುವಂತೆ ಮಾಡಿರಿ.
+
+*English Translation.*
+
+Whatever sin, great and exciting the wrath of the gods, we have committed against you, O gods, by the tongue, or the working of the mind, you, Vasus, transfer that sin to him, who assailing terrifies us.
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of symmetrical swirls and curves.]*
+ಮೂವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಅಸ್ಮಿನ್ನ ಇತಿ ಪಂಚರ್ಚಂ ನವಮಂ ಸೂಕ್ತಂ ಜಾಗತಮೈಂದ್ರಂ । ಮುಷ್ಕವಿಶಿಷ್ಟ ಇಂದ್ರಾಖ್ಯ
+> ಋಷಿಃ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ । ಅಸ್ಮಿನ್ನಃ ಪಂಚ ಮುಷ್ಕವಾನಿಂದ್ರ ಇತಿ ॥ ಗತೋ ವಿನಿಯೋಗಃ ॥
+> ಅಪರೇ ತು ತಾಂಡವಾಃ ಶಾಟ್ಯಾಯನಕಾ ಅಸ್ಯ ಸೂಕ್ತಸ್ಯ ಮುಷ್ಕವಾನಿಂದ್ರೋ ದೇವತಾ ಲುಶ ಋಷಿರಿತಿ
+> ವರ್ಣಯಂತಿ ॥
+ಅನುವಾದವು— ಅಸ್ಮಿನ್ನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಒಂಭತ್ತನೆಯ ಸೂಕ್ತವು.
+ಇದರಲ್ಲಿ ಐದು ಋಕ್ಕುಗಳಿರುವವು ಈ ಸೂಕ್ತಕ್ಕೆ ಮುಖ್ಯವಿಶಿಷ್ಟನಾದ ಇಂದ್ರನು ಋಷಿಯು; ಇಂದ್ರನು
+ದೇವತೆಯು ; ಜಗತೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ- ಅಸ್ಮಿನ್ನಃ ಪಂಚ ಮುಷ್ಕವಾನಿಂದ್ರಃ ಎಂದು ಹೇಳಿರು
+
+<!-- printed 924 -->
+*[924 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೮]*
+
+ವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ತಾಂಡ್ಯಬ್ರಾಹ್ಮಣ ಮತ್ತು ಶಾಟ್ಯಾಯನಬ್ರಾಹ್ಮಣಾನು
+ಯಾಯಿಗಳಾದ ಮತ್ತೆ ಕೆಲವು ಸಾಮಗರು ಈ ಸೂಕ್ತಕ್ಕೆ ಮುಷ್ಕವಿಶಿಷ್ಟನಾದ ಇಂದ್ರನೇ ದೇವತೆಯೆಂದೂ ಲುಶನೆಂಬು
+ವನು ಋಷಿಯೆಂದೂ ಹೇಳುವರು.
+ಸೂಕ್ತ—ಖಿಲ
+
+## ಸೂಕ್ತ ೩೮ (ಮಂಡಲ ೧೦)
+
+ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩ ॥ ಸೂಕ್ತ—೩೮ ।
+ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ ೧೪ ॥
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೫ ॥
+ಋಷಿಃ—ಇಂದ್ರೋ ಮುಷ್ಕವಾನ್ ॥
+ದೇವತಾ—ಇಂದ್ರಃ
+ಛಂದಃ—ಜಗತೀ ॥
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಸ್ಮಿನ್ನ ಇಂದ್ರ ಪೃತ್ಸುತೌ ಯಶಸ್ವತಿ ಶಿಮೀಾವತಿ ಕ್ರಂದಸಿ ಪ್ರಾವ ಸಾತಯೇ ।
+> ಯತ್ರ ಗೋಷಾತಾ ಧೃಷಿತೇಷು ಖಾದಿಷು ವಿಶ್ವಕ್ಷತಂತಿ ದಿದ್ಯವೋ
+> ನೃಷಾಹ್ಯೇ ॥ ೧ ॥
+*[೧ ಹದಪಟ ೩ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಅಸ್ಮಿನ್ । ನಃ । ಇಂದ್ರ । ಪೃತ್ಸುತ್ । ಯಶಸ್ವತಿ । ಶಿಮೀಾವತಿ । ಕ್ರಂದಸಿ । ಪ್ರ । ಅವ । ಸಾತಯೇ ।
+> ಯತ್ರ । ಗೋಽಸಾತಾ । ಧೃಷಿತೇಷು । ಖಾದಿಷು । ವಿಶ್ವಕ್ । ಪತಂತಿ । ದಿದ್ಯವಃ । ನೃಸಹ್ಯೇ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಇಂದ್ರ ತ್ವಂ ಯಶಸ್ವತಿ ಕೀರ್ತಿಮತಿ ಶಮೀವತಿ ಪರಸ್ಪರಪ್ರಹಾರಲಕ್ಷಣಕರ್ಮವತ್ಯಸ್ಮಿನ್ನುಪಸ್ಥಿತೇ ಪೃತ್ಸುತ್ ಸಂಗ್ರಾಮೇ ಕ್ರಂದಸಿ । ಸಿಂಹನಾದಂ ಕರೋಷಿ । ಸಾತಯೇ ಧನಲಾಭಾಯ ಪ್ರಾವ
+> ನೋಽಸ್ಮಾನ್ರರಕ್ಷಸಿ ಚ । ಕಸ್ಮಿನ್ನಿತ್ಯತ್ರಾಹ । ಯತ್ರ ಯಸ್ಮಿನ್ನೋಷಾತಾ ಗೋಸಾತ್ ಲಬ್ಧಪಶುಕೇ
+> ನೃಷಾಹ್ಯೇ ನೃಣಾಮಭಿಭಾವುಕೇ ಚ ಸಂಗ್ರಾಮೇ ಖಾದಿಷು ಪರಸ್ಪರಖಾದಕೇಷು ಚ ಯೋದ್ಧೃಷು
+> ಧೃಷಿತೇಷು ದೃಢೇಷು ಸತ್ತು ದಿದ್ಯವ ಆಯುಧಾನಿ ವಿಶ್ವಕ್ ಸರ್ವತಃ ಪತಂತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇಂದ್ರ—ಎಲೈ ಇಂದ್ರನೇ । ಗೋಷಾತಾ—ಗೋವುಗಳು ಲಭಿಸತಕ್ಕವೂ । ನೃಷಾಹ್ಯೇ—ಶತ್ರುಗಳನ್ನು
+ಸೋಲಿಸತಕ್ಕವೂ ಆದ । ಯತ್ರ—ಯಾವ ಯುದ್ಧದಲ್ಲಿ । ಖಾದಿಷು—ಪರಸ್ಪರ ನಾಶಮಾಡುವ ಯೋಧರು ।
+
+<!-- printed 925 -->
+*[ಆ. ೩. ಅ. ೮. ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 925]*
+
+ಧೃಷಿತೇಷು—ಹೊಡೆದಾಡಲಾರಂಭಿಸಿದಾಗ । ದಿದ್ಯವಃ—ಪ್ರಕಾಶಮಾನವಾದ ಆಯುಧಗಳು । ವಿಷ್ವಕ್—ಸಕಲ
+ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ । ಪತಂತಿ—ಬೀಳುವುವೋ ಅಂತಹ । ಯಶಸ್ವತಿ—ಯಶೋಯುಕ್ತವಾದುದೂ । ಶಿಮೀವತಿ—
+ಹೊಡೆದಾಡುವ ಕರ್ಮವುಳ್ಳದ್ದೂ ಆದ । ಅಸ್ಮಿನ್ ಪೃತ್ಸುತಾ—ಈ ಯುದ್ಧದಲ್ಲಿ । ಕ್ರಂದಸಿ—ಸಿಂಹನಾದವನ್ನು
+ಹೂಡುತ್ತೀಯೆ । ಸಾತಯೇ—ನಮಗೆ ಧನಲಾಭಕ್ಕಾಗಿ । ನಃ—ನಮ್ಮನ್ನು । ಪ್ರಾವ—ರಕ್ಷಿಸು.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಇಂದ್ರನೇ, ಗೋವುಗಳು ಲಭಿಸತಕ್ಕವೂ, ಶತ್ರುಗಳನ್ನು ಸೋಲಿಸತಕ್ಕವೂ ಆದ ಯಾವ ಯುದ್ಧದಲ್ಲಿ
+ಪರಸ್ಪರ ನಾಶಮಾಡುವ ಯೋಧರು ಹೊಡೆದಾಡಲಾರಂಭಿಸಿದಾಗ ಪ್ರಕಾಶಮಾನವಾದ ಆಯುಧಗಳು ಸಕಲಪ್ರದೇಶ
+ಗಳಲ್ಲಿಯೂ ಬೀಳುವುವೋ ಅಂತಹ ಯಶೋಯುಕ್ತವಾದುದೂ ಹೊಡೆದಾಡುವ ಕರ್ಮವುಳ್ಳದ್ದೂ ಆದ ಈ ಯುದ್ಧದಲ್ಲಿ
+ನೀನು ಸಿಂಹನಾದವನ್ನು ಶಬ್ದ ಮಾಡುತ್ತೀಯೆ. ನಮಗೆ ಧನಲಾಭಕ್ಕಾಗಿ ನಮ್ಮನ್ನು ರಕ್ಷಿಸು.
+
+*English Translation.*
+
+You shout, Indra, in this glorious and arduous conflict, and assist us to the acquirement (of spoil), in this battle where cows are won and men overpowered, wherein the weapons descend on every side upon the fierce and courrgeous combatants.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸ ನಃ ಕ್ಷುಮಂತಂ ಸದನೇ ವ್ಯೋರ್ಣುಹಿ ಗೋಅರ್ಣಸಂ ರಯಿಮಿಂದ್ರ
+> ಶ್ರವಾಯ್ಯಂ ।
+> ಸ್ಯಾಮ ತೇ ಜಯತಃ ಶಕ್ರ ಮೇದಿನೋ ಯಥಾ ವಯಮುಶ್ಮಸಿ ತದ್ವಸೋ
+> ಕೃಧಿ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಸಃ । ನಃ । ಕ್ಷುಮಂತಂ । ಸದನೇ । ವಿ । ಊರ್ಣುಹಿ । ಗೋಅರ್ಣಸಂ । ರಯಿಂ । ಇಂದ್ರ ।
+> ಶ್ರವಾಯ್ಯಂ ।
+> ಸ್ಯಾಮ । ತೇ । ಜಯತಃ । ಶಕ್ರ । ಮೇದಿನಃ । ಯಥಾ । ವಯಂ । ಉಶ್ಮಶಿ । ತತ್ । ವಸೋ ಇತಿ ।
+> ಕೃಧಿ ॥ ೨ ॥
+
+<!-- printed 926 -->
+*[926 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೮]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಇಂದ್ರ ಸ ಸರ್ವಾನುಗ್ರಾಹಕತ್ವೇನ ಪ್ರಸಿದ್ಧಸ್ತ್ವಂ ನೋಽಸ್ಮಾಕಂ ಸದನೇ ಗೃಹೇ ಕ್ಷುಮಂತಮನ್ನವಂತಂ ಶಬ್ದವಂತಂ ವಾ ಗೋಅರ್ಣಸಂ । ಗಾವೋಽರ್ಣ ಉದಕಮಿವ ಪ್ರವೃದ್ಧಾ ಯಸ್ಮಿನ್ ।
+> ತಂ ಶ್ರವಾಯ್ಯಂ ಶ್ರವಣೀಯಂ ರಯಿಂ ಧನಂ ವ್ಯೂರ್ಣುಹಿ । ವಿವಿಧಮಾಚ್ಛಾದಯ । ಕಿಂಚ ಹೇ ವಸೋ
+> ವಾಸಕ ಶಕ್ರೇಂದ್ರ ಜಯತಃ ಶತ್ರುಂ ತೇ ತವ ಪ್ರಸಾದಾದ್ವಯಂ ಮೇದಿನೋ ಮೇದಸಾ ಯುಕ್ತಾ
+> ಬಲವಂತಃ ಸ್ಯಾಮ । ಭವೇಮ । ಕಿಂ ಬಹೂಕ್ತ್ಯಾ । ಯಥಾ ಯದ್ವಯಮುಶ್ಮಸಿ ಕಾಮಾಯಾಮಹೇ
+> ತತ್ಸರ್ವಂ ಕೃಧಿ । ಕುರು ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಇಂದ್ರ—ಎಲೈ ಇಂದ್ರನೇ । ಸಃ—ಪ್ರಸಿದ್ಧನಾದ ನೀನು । ನಃ—ನಮ್ಮ । ಸದನೇ—ಮನೆಯಲ್ಲಿ ।
+ಕ್ಷುಮಂತಂ—ಅನ್ನಯುಕ್ತವಾದುದೂ । ಗೋಆರ್ಣಸಂ—ಪುಷ್ಟಿಯುತವಾದ ಗೋವುಗಳುಳ್ಳದ್ದೂ ।
+ಶ್ರವಾಯ್ಯಂ—ಪ್ರಸಿದ್ಧವಾದುದೂ ಆದ । ರಯಿಂ—ಧನವನ್ನು । ವ್ಯೂರ್ಣುಹಿ—ಅನೇಕವಿಧದಲ್ಲಿ ತುಂಬಿಡು ।
+ವಸೋ—ವಸತಿದಾಯಕನಾದ । ಶಕ್ರ—ಎಲೈ ಇಂದ್ರನೇ । ಜಯತಃ—ಶತ್ರುಗಳನ್ನು ಜಯಿಸತಕ್ಕ । ತೇ—ನಿನ್ನ
+ಅನುಗ್ರಹದಿಂದ । ಮೇದಿನಃ—ಶಕ್ತಿಯುತರಾಗಿ । ಸ್ಯಾಮ—ನಾವು ಆಗುವೆವು । ಯಥಾ—ಯಾವುದನ್ನು ।
+ವಯಂ—ನಾವು । ಉಶ್ಮಸಿ—ಇಚ್ಛಿಸುವೆವೋ । ತತ್—ಅದೆಲ್ಲವನ್ನು । ಕೃಧಿ—ನಿರ್ಮಿಸಿಕೊಡು.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಇಂದ್ರನೇ ಪ್ರಸಿದ್ಧನಾದ ನೀನು ನಮ್ಮ ಮನೆಯಲ್ಲಿ ಅನ್ನಯುಕ್ತವಾದುದೂ, ಪುಷ್ಟಿಯುತವಾದ
+ಗೋವುಗಳುಳ್ಳದ್ದೂ ಪ್ರಸಿದ್ಧವಾದುದೂ ಧನವನ್ನು ಅನೇಕ ರೂಪದಲ್ಲಿ ತುಂಬಿಡು. ಶತ್ರುನಾಶಕನಾದ ನಿನ್ನ
+ಅನುಗ್ರಹದಿಂದ ನಾವು ಶಕ್ತಿಯುತರಾಗಿ ಆಗುವಂತಾಗಲಿ. ನಾವು ಇಚ್ಛಿಸುವುದನ್ನೆಲ್ಲಾ ನಮಗೆ ಒದಗಿಸಿಕೊಡು.
+
+*English Translation.*
+
+Do you, Indra, heap up in our dwelling famous riches, comprising food and herds of cottle: may we, Shakra, be vigorous (through the favour) of you, the victorious : grant us, Vasu, that which we desire.
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೋ ನೋ ದಾಸ ಆರ್ಯೋ ವಾ ಪುರುಷ್ಟುತಾದೇವ ಇಂದ್ರ ಯುಧಯೇ
+> ಚಿಕೇತತಿ ।
+> ಅಸ್ಮಾಭಿಷ್ಟೇ ಸುಷಹಾಃ ಸಂತು ಶತ್ರವಸ್ತ್ವಯಾ ವಯಂ ತಾನ್ವನುಯಾಮ
+> ಸಂಗಮೇ ॥ ೩ ॥
+
+<!-- printed 927 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೪.] ಋಗ್ವೇದಸಂಹಿತಾ 927]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಯಃ । ನಃ । ದಾಸಃ । ಆರ್ಯಃ । ವಾ । ಪುರುಸ್ತುತ । ಅದೇವಃ । ಇಂದ್ರ । ಯುಧಯೇ । ಚಿಕೇತತಿ ।
+> ಆಸ್ಮಾಭಿಃ । ತೇ । ಸುಸಹಾಃ । ಸಂತು । ಶತ್ರವಃ । ತ್ವಯಾ । ವಯಂ । ತಾನ್ । ವನುಯಾಮ ॥
+> ಸಂಗಮೇ !!
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಪುರುಷ್ಟುತ ಬಹುಸ್ತುತೇಂದ್ರ ಯೋ ದಾಸಃ ಕರ್ಮಕರಃ ಶೂದ್ರ ಆರ್ಯಸ್ತ್ರೈವರ್ಣಿಕೋಽದೇವೋ ದೇವಾದನ್ಯೋಽಸುರೋ ವಾ ನೋಽಸ್ಮಾನ್ಯುಧಯೇ ಯುದ್ಧಾಯ ಚಿಕೇತತಿ ಜಾನಾತಿ ತೇ
+> ಸರ್ವೆ ಶತ್ರವೋಽಸ್ಮದರಯಸ್ತೇ ತವ ಪ್ರಸಾದಾದಸ್ಮಾಭಿಃ ಸುಸಹಾಃ ಸ್ವಭಿಭವಾಃ ಸಂತು । ಭವಂತು ।
+> ಕಿಂ ಚ ವಯಂ ತ್ವಯಾ ಸಹಾಯೇನ ತಾಞ್ಯತ್ರೂನ್ಸಂಗಮೇ ಸಂಗ್ರಾಮೇ ವನುಯಾಮ । ಹನ್ಯಾಮ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಪುರುಷ್ಟುತ—ಅನೇಕರ ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರನಾದ । ಇಂದ್ರ—ಎಲೈ ಇಂದ್ರನೇ । ದಾಸಃ—ಸೇವಕರ
+ಗುಂಪಿನವರಾಗಲಿ । ಆರ್ಯಃ—ಉತ್ತಮ ಜಾತಿಗೆ ಸೇರಿದವರಾಗಲಿ । ಯಃ—ಯಾರು । ಅದೇವಃ—ದೇವಪೂಜಾ
+ರಹಿತರಾಗಿ । ನಃ—ನಮ್ಮನ್ನು । ಯುಧಯೇ—ಯುದ್ಧಕ್ಕೆ ಅರ್ಹರೆಂದು । ಚಿಕೇತತಿ—ತಿಳಿಯುವರೋ ।
+ಶತ್ರವಃ—ನಮ್ಮ ಆ ಎಲ್ಲ ಶತ್ರುಗಳೂ । ತೇ—ನಿನ್ನ ಅನುಗ್ರಹದಿಂದ । ಆಸ್ಮಾಭಿಃ—ನಮ್ಮಿಂದ । ಸುಸಹಾಃ—
+ಸುಲಭವಾಗಿ ಸೋಲಿಸಲ್ಪಡುವವರಾಗಿ । ಸಂತು—ಆಗಲಿ । ವಯಂ—ನಾವು! ತ್ವಯಾ—ನಿನ್ನ ಸಹಾಯದಿಂದ ।
+ತಾನ್—ಅವರೆಲ್ಲರನ್ನು । ಸಂಗಮೇ—ಯುದ್ಧದಲ್ಲಿ । ವನುಯಾಮ—ಕೊಲ್ಲುವಂತಾಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಅನೇಕರ ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರನಾದ ಎಲೈ ಇಂದ್ರನೇ, ಕಪ್ಪುಜನರಲ್ಲಾಗಲಿ, ಆರರ ಗುಂಪಿನವರಲ್ಲಾಗಲಿ
+ಯಾರು ದೇವಪೂಜಾರಹಿತರಾಗಿದ್ದು ನಮ್ಮನ್ನು ಯುದ್ಧಕ್ಕೆ ಕರೆಯುವರೋ, ನಮ್ಮ ಆ ಎಲ್ಲ ಶತ್ರುಗಳೂ ನಿನ್ನ
+ಅನುಗ್ರಹದಿಂದ ನಮ್ಮಿಂದ ಸುಲಭವಾಗಿ ಸೋಲಿಸಲ್ಪಡುವವರಾಗಲಿ. ನಾವು ನಿನ್ನ ಸಹಾಯದಿಂದ ಯುದ್ಧದಲ್ಲಿ
+ಅವರೆಲ್ಲರನ್ನೂ ಕೊಲ್ಲುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+Indra, the praised of many, may he who proposes to assail us, whether he be a Dasa, an Arya, or an enemy of the gods; through your aid may all (such) foes be easily overcome by us; through you may we des roy them in battle.
+
+<!-- printed 928 -->
+*[928 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩ಜ]*
+
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೋ ದಭ್ರೇಭಿರ್ಹವ್ಯೋ ಯಶ್ಚ ಭೂರಿಭಿರ್ಯೋ ಅಭೀಕೇ ವರಿವೋವಿನ್ನೃಷಾಹ್ಯೇ ।
+> ತಂ ವಿಖಾದೇ ಸಸ್ನಿಮಧ್ಯ ಶ್ರುತಂ ನರಮರ್ವಾಂಚಮಿಂದ್ರಮವಸೇ ಕರಾಮಹೇ ॥ ೪ ॥
+*[॥ ತದನಂತರ ॥]*
+
+*ಪದಪಾಠಃ*
+
+> ಯಃ । ದಭ್ರೇಭಿಃ । ಹವ್ಯಃ । ಯಃ । ಚ । ಭೂರಿಭಿಃ । ಯಃ । ಅಭೀಕೇ । ವರಿವಃವಿತ್ । ನೃಸಹ್ಯೇ ।
+> ತಂ । ವಿಖಾದೇ । ಸಸ್ನಿಂ । ಅದ್ಯ । ಶ್ರುತಂ । ನರಂ । ಅರ್ಪಾಂಚಂ । ಇಂದ್ರಂ । ಅವಸೇ । ಕರಾಮಹೇ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ನೃಸಹ್ಯೇ ನೃಣಾಮಭಿಭಾವುಕೇ ವಿಖಾದೇ ವಿಶೇಷಣ ಭಕ್ಷಕೇಽಭೀಕೇ ಸಂಗ್ರಾಮೇ ವರಿಪೋವಿದ್ದನಸ್ಯ ಲಂಭಕೋ ಯ ಇಂದ್ರೋ ದಭ್ರೇಭಿಃ ಸ್ವಲ್ಪೈರ್ಹವ್ಯೋ ಹ್ವಾತವ್ಯೋ ಯಶ್ಚ ಭೂರಿಭಿರ್ಬಹು.
+> ಭಿರ್ಹವ್ಯಃ ತಂ ಸಸ್ನಿಂ ಶುಚಿಂ ಶ್ರುತಂ ಸರ್ವತ್ರ ವಿಖ್ಯಾತಂ ನರಂ ನೇತಾರಮಿಂದ್ರಮದ್ಯಾಸ್ಮಿನ್ನಹನ್ಯವಸೇಽಸ್ಮದ್ರಕ್ಷಣಾಯಾರ್ವಾಂಚಮಸ್ಮದಭಿಮುಖಂ ಕರಾಮಹೇ । ಕುರ್ಮಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವರಿವೋವಿತ್—ಧನಪ್ರಾಪಕನಾದ । ಯಃ—ಯಾವ ಇಂದ್ರನು । ದಭ್ರೇಭಿಃ—ಸ್ವಲ್ಪ ಜನರಿಂದಲೂ ।
+ಹವ್ಯಃ—ಕರೆಯಲ್ಪಡುವನೋ । ಯಶ್ಚ—ಯಾರು । ಭೂರಿಭಿಃ—ಬಹುಜನರಿಂದಲೂ । ಹವ್ಯಃ—ಕರೆಯಲ್ಪಡು
+ವನೋ । ತಂ—ಅಂತಹ । ಸಸ್ನಿಂ—ಶುದ್ಧನೂ । ಶ್ರುತಂ—ಪ್ರಖ್ಯಾತನೂ । ನರಂ—ನೇತೃವೂ ಆದ ।
+ಇಂದ್ರಂ—ಇಂದ್ರನನ್ನು । ಅದ್ಯ—ಇಂದು । ನೃಸಹ್ಯೇ—ಶತ್ರುಗಳನ್ನು ಸೋಲಿಸತಕ್ಕದ್ದೂ । ವಿಖಾದೇ—
+ಪರಸ್ಪರ ನಾಶಮಾಡತಕ್ಕದ್ದೂ ಆದ । ಅಭೀಕೇ—ಸಂಗ್ರಾಮದಲ್ಲಿ । ಅವಸೇ—ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ ।
+ಅರ್ವಾಂಚಂ—ನಮಗಭಿಮುಖನಾಗುವಂತೆ । ಕರಾಮಹೇ—ಮಾಡುತ್ತೇವೆ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಧನಪ್ರಾಪಕನಾದ ಯಾವ ಇಂದ್ರನು ಸಕಲ ಜನರಿಂದಲೂ ಕರೆಯಲ್ಪಡುವನೋ ಅಂತಹ ಶುದ್ಧನೂ,
+ಪ್ರಖ್ಯಾತನೂ ನೇತೃವೂ ಆದ ಇಂದ್ರನನ್ನು ಇಂದು ಶತ್ರುನಾಶಕವೂ ಪರಸ್ಪರ ಹೊಡೆದಾಡತಕ್ಕದ್ದೂ ಆದ ಯುದ್ಧದಲ್ಲಿ
+ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ ನಮಗಭಿಮುಖನಾಗುವಂತೆ ಮಾಡುತ್ತೇವೆ.
+
+<!-- printed 929 -->
+*[ಅ, ೭. ಅ. ೮. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 929]*
+
+
+*English Translation.*
+
+Let us bring before us to day for our protection that Indra, the pure, the renowned, the leader of rites, who in the man-destroying, all-devouring conflict, is the winner of wealth ; who is to be invoked by few and by many,
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಸ್ವವೃಜಂ ಹಿ ತ್ವಾಮಹಮಿಂದ್ರ ಶುಶ್ರವಾನಾನುದಂ ವೃಷಭ ರಧ್ರಚೋದನಂ ।
+> ಪ್ರ ಮುಂಚಸ್ವ ಪರಿ ಕುತ್ಸಾದಿಹಾ ಗಹಿ ಕಿಮು ತ್ವಾವಾನ್ಮುಷಯೋರ್ಬದ್ಧ
+> ಆಸತೇ ॥ ೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಸ್ವವೃಜಂ । ಹಿ । ತ್ವಾಂ । ಅಹಂ । ಇಂದ್ರ । ಶುಶ್ರವ । ಅನನುದಂ । ವೃಷಭ । ರಧ್ರಚೋದನಂ !
+> ಪ್ರ । ಮುಂಚಸ್ವ । ಪರಿ । ಕುತ್ಸಾತ್ । ಇಹ । ಆ । ಗಹಿ । ಕಿಂ । ಊಂ ಇತಿ । ತ್ವಾವಾನ್ ।
+> ಮುಷ್ಕಯೋಃ । ಬದ್ಧಃ । ಆಸತೇ ॥ ೫ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+> ಹೇ ವೃಷಭ ಕಾಮಾನಾಂ ವರ್ಷಕೇಂದ್ರ ಸ್ವವೃಜಂ ಸ್ವಯಮೇವ ಚ್ಯೇತ್ತಾರಮನನುದಮನಪೇಕ್ಷಿತಬಲಾನುಪ್ರದಾನಂ ರಧ್ರಚೋದನಂ ರಾಧಕಸ್ಯ ಚೋದಕಂ ಪ್ರೇರಕಂ ತ್ವಾಮಹಂ ಲುಶಃ ಶುಶ್ರವ
+> ಅಶ್ಶೌಷಂ ಹಿ ಯಸ್ಮಾತ್ತಸ್ಮಾತ್ಪ ಮುಂಚಸ್ವ । ಕುತ್ಸೇನ ವಾರ್ಧ್ರಿಶತೇನಾಂಡಯೋರ್ಬದ್ಧಮಾತ್ಮಾನಂ
+> ಬಂಧನಾದ್ವಿಯುಂಚ । ಅಥ ಪರಿ ಸರ್ವತಃ ಪರಿವೃತಸ್ತ್ವಂ ಕುತ್ಸಾತ್ಕುತ್ಸಾಖ್ಯಾದೃಷೇರಿಹಾಸ್ಮದ್ಯಾಗ ಆ
+> ಗಹಿ । ಆಗಚ್ಛ । ಕಿಮು ತ್ವಾವಾಂಸ್ತ್ವತ್ಸದೃಶೋಽನ್ಯಃ ಕಶ್ಚಿನ್ಮುಷ್ಕಯೋರ್ಬದ್ಧ ಆಸತೇ । ನ ಕೋಽಪ್ಯೇತಾದೃಶೋ ನಿರ್ಲಜ್ಜಸ್ತ್ವತ್ತೋಽನ್ನೋಽಸ್ತೀತ್ಯಭಿಪ್ರಾಯಃ । ತತ್ರ ಶಾಟ್ಯಾಯನಕಂ । ಕುತ್ಸಶ್ಚಲುಶಶ್ಚೇಂದ್ರಂ ವ್ಯಹ್ವಯೇತಾಂ ಸ ಕುತ್ಸಸ್ಯಾಹವಮಾಗಚ್ಛತ್ ತಂ ಶತೇನ ವಾರ್ಧಿಭಿರಾಂಡಯೋರಬಧ್ನಾತ್
+> ತಂ ಲುಶೋಽಭ್ಯವದತ್ ಸ್ವವೃಜಂ ಹಿ ತ್ವಾಮಹಮಿಂದ್ರ ಶುಶ್ರುವಾನಾನುದಂ ವೃಷಭ ರಧ್ರಚೋದನಂ
+> ಪ್ರ ಮುಂಚಸ್ವ ಪರಿ ಕುತ್ಸಾದಿಹಾ ಗಹಿ ಕಿಮು ತ್ವಾವಾನ್ಮುಷ್ಕಯೋರ್ಬದ್ಧ ಆಸತ ಇತಿ ತಾಃ ಸರ್ವಾಃ
+> ಸಂಲುಪ್ಯ ಲುಶಮಭಿ ಪ್ರಾದುದ್ರುವದಿತಿ । ಛಂದೋಗಬ್ರಾಹ್ಮಣಮಪಿ । ಕುತ್ಸಶ್ಚ ಲುಶಶ್ಚ ಯುಗಪ-
+> xxvii 59
+> xxvii 59
+
+<!-- printed 930 -->
+*[930 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೯]*
+
+> ದಿಂದ್ರಮಾಹೂತವಂತೌ ಸ್ವಂ ಸ್ವಂ ಯಜ್ಞಂ ಪ್ರತ್ಯಂಗಭಾವಾಯ ಸಖಿತ್ವಾದಿಂದ್ರಃ ಕುತ್ಸಂ ಪ್ರತಿ ಜಗಾಮ
+> ತಂ ತು ಗತಂ ವಶಿತ್ವಾತ್ಕುತ್ಸೋ ವಾರ್ಧಿ೯ಶತೇನಾಂಡಯೋರಬಧ್ನಾದಿತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವೃಷಭ—ಕಾಮವರ್ಷಕನಾದ । ಇಂದ್ರ—ಎಲೈ ಇಂದ್ರನೇ । ತ್ವಾಂ—ನಿನ್ನನ್ನು । ಸ್ವವೃಜಂ—
+ಅಸಹಾಯಕನಾಗಿಯೇ ಶತ್ರುಚ್ಛೇದಕನೆಂದೂ । ಅನನುದಂ—ಅಪ್ರಾರ್ಥಿತವಾಗಿಯೇ ಶಕ್ತಿಪ್ರದಾತೃವೆಂದೂ ।
+ರಧ್ರಚೋದನಂ—ಸಂಪದ್ಯುಕ್ತನಾಗಿ ನಿನ್ನನ್ನು ಆರಾಧಿಸುವವನಿಗೆ ಪ್ರೇರಕನೆಂದೂ । ಅಹಂ—ಲುಶನೆಂಬ ನಾನು
+ಶುಶ್ರವ—ಕೇಳಿದ್ದೇನೆ । ಹಿ—ಆದುದರಿಂದಲೇ । ಪ್ರ ಮುಂಚಸ್ವ—ಕುತ್ಸನಿಂದ ಬಿಡಿಸಿಕೋ । ಪರಿ—ಬಂಧಿತ
+ನಾದ ನೀನು । ಕುತ್ಸಾತ್—ಕುತ್ಸನಿಂದ ಬಿಡಿಸಿಕೊಂಡು । ಇಹ—ಈ ನಮ್ಮ ಯಾಗಕ್ಕೆ । ಆ ಗಹಿ—
+ದಯಮಾಡು । ತ್ವಾವಾನ್ ಕಿಮು—ನಿನಗೆ ಸಮಾನನಾದ ಬೇರೆ ಯಾವಪುರುಷನು । ಮುಷ್ಕಯೋಃ—
+ರಂಧ್ರಪ್ರದೇಶಗಳಲ್ಲಿ । ಬದ್ಧಃ—ಕಟ್ಟಲ್ಪಟ್ಟವನಾಗಿ। ಆಸತೇ—ಇರುತ್ತಾನೆ ?
+*[೧ ಭಾನುವಾರ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಇಷ್ಟಾರ್ಥಪ್ರದನಾದ ಎಲೈ ಇಂದ್ರನೇ, ನಿನ್ನನ್ನು ಅಸಹಾಯಕನಾಗಿಯೇ ಶತ್ರುಚ್ಛೇದಕನೆಂದೂ,
+ಅಪ್ರಾರ್ಥಿತವಾಗಿಯೇ ಶಕ್ತಿಪ್ರದಾತೃವೆಂದೂ ತಿಳಿದಿದ್ದೇನೆ. ನೀನು ನಿನ್ನನ್ನು ಆರಾಧಿಸುವವನಿಗೆ ಪ್ರೇರಕನೆಂದೂ
+ಕೇಳಿದ್ದೇನೆ. ಆದುದರಿಂದಲೇ ಕುತ್ಸನಿಂದ ಬಿಡಿಸಿಕೋ. ಬಂಧಿತನಾದ ನೀನು ಕುತ್ಸನಿಂದ ಬಿಡಿಸಿಕೊಂಡು ಈ
+ನಮ್ಮ ಯಾಗಕ್ಕೆ ದಯಮಾಡು. ನಿನಗೆ ಸಮಾನನಾದ ಬೇರೆ ಯಾರು ತಾನೇ, ರಂಧ್ರಪ್ರದೇಶಗಳಲ್ಲಿ ಕಟ್ಟಲ್ಪಟ್ಟವ
+ನಾಗಿರುತ್ತಾನೆ?
+
+*English Translation.*
+
+Indra, showerer of benefits, I have heard of you, the self-mutilator,
+the giver of unexpected strength, encouraging the prosperous: set your
+self free from Kutsa, and come hither: how should such a one as you
+remain so bound ?
+*[stray line as supplied: This image contains no text. It is a decorative graphic design consisting of symmetrical swirls and diamond shapes.]*
+ಮೂವತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು.
+ಪಿಠಿಕೆ.
+ಈ ಸೂಕ್ತಕ್ಕೂ ಮುಂದಿನ ಸೂಕ್ತಕ್ಕೂ ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಯು ಋಷಿಯು. ಋಗ್ವೇದದ ಪ್ರಥಮ
+ಮಂಡಲದಲ್ಲಿ ೧೧೬ ರಿಂದ ೧೨೫ ರವರೆಗಿನ ಸೂಕ್ತಗಳಿಗೆ ಋಷಿಯಾದ ಕಕ್ಷೀವಾನ್ ಎಂಬ ಋಷಿಯ ಪುತ್ರಿಯೇ ಈ
+ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಯು. ಈ ಸ್ತ್ರೀಗೆ ಕಾರಣಾಂತರದಿಂದ ಕುಷ್ಠ (ತೊನ್ನು) ರೋಗಪ್ರಾಪ್ತವಾಗಿ ಇವಳನ್ನುಯಾರೂ
+ಮದುವೆಮಾಡಿಕೊಳ್ಳದೇ ಇದ್ದುದರಿಂದ ಇವಳು ಬಹುಕಾಲ ಅನಿವಾಹಿತಳಾಗಿಯೇ ತಂದೆಯ ಮನೆಯಲ್ಲಿ ವಾಸವಾಗಿರ
+
+<!-- printed 931 -->
+*[ಆ. ೭. ಆ. ೮. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿರಾ 931]*
+
+ಬೇಕಾಯಿತು. ಆದ್ದರಿಂದ ಈ ಸ್ತ್ರೀಯು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಲಾಗಿ ಅವರು ಬಂದು ಈಕೆಯ ಕುಷ್ಠ
+ರೋಗವನ್ನು ಪರಿಹಾರಮಾಡಿ ಯೋಗ್ಯನಾದ ಪತಿಯನ್ನು ದೊರಕಿಸಿ ಕೊಟ್ಟರು ಎಂದು ಪೂರ್ವೇತಿಹಾಸವಿದೆ.
+ಸಾಯಣರು ಋ. ಸಂ. ೧-೧೧೭-೭ನೇ ಋಕ್ಕಿನ ಭಾಷ್ಯದಲ್ಲಿ—
+ಘೋಷಾನಾಮ ಬ್ರಹ್ಮವಾದಿನೀ ಕಕ್ಷೀವತೋ ದುಹಿತಾ । ಸಾ ಕುಷ್ಠಿನೀ ಸತೀ ಕಸ್ಮೈಚಿದ್ವರಾಯಾದತ್ತಾ ಪಿತೃಗೃಹೇ ನಿಷಣ್ಣಾ ಜೀರ್ಣಾಸೀತ್ । ಸಾಶ್ವಿನೋರನುಗ್ರಹಾನ್ನಷ್ಟಕುಷ್ಠಾ
+ಸತೀ ಪತಿಂ ಲೇಭೇ ॥
+(ಸಾ. ಭಾ. ೧-೧೧೭-೭)
+ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಪೂರ್ವದಲ್ಲಿ ಕಕ್ಷೀವಾನ್ ಎಂಬ ಋಷಿಗೆ ಘೋಷಾ ಎಂಬ ಹೆಸರಿನ ಓರ್ವ ಪುತ್ರಿಯಿದ್ದಳು,
+ಅವಳು ಬ್ರಹ್ಮಜ್ಞಾನಿಯಾಗಿದ್ದಳು. ಆದರೆ ಅವಳಿಗೆ ಕುಷ್ಠರೋಗವಿದ್ದುದರಿಂದ ಅವಳನ್ನು ಯಾರೂ ಮದುವೆಮಾಡಿ
+ಕೊಳ್ಳಲು ಇಷ್ಟಪಡಲಿಲ್ಲ. ಆದ್ದರಿಂದ ಅವಳು ತನ್ನ ತಂದೆಯ ಮನೆಯಲ್ಲಿಯೇ ಇರಬೇಕಾಯಿತು. ವಿವಾಹದ
+ವಯಸ್ಸನ್ನು ದಾಟಿ ವೃದ್ಧಳಾಗುತ್ತಿದ್ದ ಇವಳು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಿದಳು. ಅವರು ಬಂದು ಇವಳ
+ಕುಷ್ಠರೋಗವನ್ನು ವಾಸಿಮಾಡಿ ಪತಿಯನ್ನು ಹೊಂದಿಸಿಕೊಟ್ಟರು ಎಂದಭಿಪ್ರಾಯವು. ಈ ವಿಷಯವನ್ನು ಸ್ಕಂದ
+ಸ್ವಾಮಿಗಳು ಸ್ವಲ್ಪ ವ್ಯತ್ಯಸ್ತವಾಗಿ ಹೇಳಿದ್ದಾರೆ—
+ಘೋಷಾ ನಾಮ ಕಕ್ಷೀವತೋ ದುಹಿತಾ ಸಾ ದುರ್ಭಗತ್ವಾತ್ ಪರಿತ್ಯಕ್ತಾ ಪಿತುರೇವ ಗೃಹೇ
+ಜರಾಂ ಜಗಾಮ । ಸಾ ಜೀರ್ಣಾ ಅಶ್ವಿನೌ ಶೋಭನಂ ಭಗಂ ಯಯಾಚೇ । ತಸ್ಯೈ ಅಶ್ವಿನೌ
+ಸ್ವಯಮೇವ ಭಗತಾಂ ಜಗ್ಮತುಃ ॥
+ಎಂದರೆ ಘೋಷಾ ಎಂಬ ಹೆಸರುಳ್ಳ ಕಕ್ಷೀವಂತಋಷಿಯ ಮಗಳು ವಾಸಿಯಾಗಲು ಅಸಾಧ್ಯವಾದ ವ್ಯಾಧಿಯಿಂದ
+ನರಳುತ್ತಿದ್ದಳು. ಆ ಕಾರಣದಿಂದ ಪತಿಯಿಂದ ಪರಿತ್ಯಕ್ತಳಾಗಿ ತನ್ನ ತಂದೆಯ ಮನೆಯಲ್ಲಿಯೇ ವಾಸಿಸುತ್ತಾ,
+ವಯಸ್ಕಳಾಗಿ ತನ್ನ ಪ್ರಾಯವನ್ನು ಕಳೆದುಕೊಂಡು ವೃದ್ಧೆಯಾಗುತ್ತಿರುವಾಗ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಿ
+ಸೌಭಾಗ್ಯವನ್ನು ಕೇಳಿಕೊಂಡಳು. ಅಶ್ವಿನೀದೇವತೆಗಳು ತಾವೇ ಸೌಭಾಗ್ಯರೂಪವನ್ನು ಹೊಂದಿ ಅವಳ ಇಷ್ಟವು
+ನೆರವೇರುವ ಹಾಗೆ ಮಾಡಿದರೆಂಬ ಇತಿಹಾಸವು ವರ್ಣಿತವಾಗಿದೆ.
+ಈ ಸೂಕ್ತದಲ್ಲಿಯೂ ಮುಂದಿನ ಎರಡು ಸೂಕ್ತದಲ್ಲಿಯೂ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಲಾಗಿದೆ. ಅಶ್ವಿನೀ
+ದೇವತೆಗಳ ವಿಷಯವನ್ನು ನಾವು ಹಿಂದೆ ಅನೇಕಾವರ್ತಿ ವಿವರಿಸಿದ್ದೇವೆ. ಆದರೂ ಈಗ ಇಲ್ಲಿ ಅವರ ಉತ್ಪತ್ತಿಕ್ರಮ
+ವನ್ನೂ, ಸೂಕ್ಷ್ಮಪರಿಚಯವನ್ನೂ, ಅವರು ತಮ್ಮನ್ನು ಸ್ತುತಿಸಿದವರಿಗೆ ಮಾಡಿದ ಸಹಾಯದ ವಿವರವನ್ನೂ ಸೂಕ್ಷ್ಮವಾಗಿ
+ವಿವರಿಸುತ್ತೇವೆ. ಋ. ಸಂ. ಪ್ರಥಮಮಂಡಲದ ೧೧೬, ೧೧೭, ೧೧೮, ೧೧೯, ೧೨೦ ನೇ ಸೂಕ್ತಗಳಲ್ಲಿ (ಋ. ಸಂ.
+ಭಾಗ ೯)ಯೂ, ಇತರ ಸ್ಥಳಗಳಲ್ಲಿಯೂ ನಾವು ಈ ವಿಷಯವನ್ನು ವಿಸ್ತಾರವಾಗಿ ವಿವರಿಸಿದ್ದೇವೆ.
+ಅಶ್ವಿನೀದೇವತೆಗಳ ಉತ್ಪತ್ತಿ
+ಅಶ್ವಿನೀದೇವತೆಗಳು ಇಬ್ಬರು. ಅವರಲ್ಲಿ ಒಬ್ಬನಿಗೆ ದಸ್ರಾ ಎಂತಲೂ ಇನ್ನೊಬ್ಬನಿಗೆ ನಾಸತ್ಯ ಎಂತಲೂ
+ಹೆಸರಿರುವುದಾದರೂ ಇಬ್ಬರನ್ನೂ ಅನೇಕವೇಳೆ ದಸ್ರಾ ಅಥವಾ ನಾಸತ್ಯಾ ಎಂಬ ದ್ವಿವಚನಾಂತಶಬ್ದದಿಂದಲೇ ಕರೆಯ
+
+<!-- printed 932 -->
+*[932 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೯.]*
+
+ಲಾಗಿದೆ. ಯಾಸ್ಕರು ತಮ್ಮ ನಿರುಕ್ತದಲ್ಲಿ ಅಶ್ವಿನೀದೇವತೆಗಳ ವಿಷಯವಾಗಿ ಈ ರೀತಿ ಹೇಳಿದ್ದಾರೆ. ಈ ಅಶ್ವಿನೀ
+ದೇವತೆಗಳ ವಿಷಯದಲ್ಲಿ ಇವರು ಯಾರು ಎಂಬ ವಿಚಾರದಲ್ಲಿ ಆ ಕಾಲದಲ್ಲಿಯೂ ಮತಭೇದವಿದ್ದಂತೆ ಕಾಣುತ್ತದೆ—
+ಅಶ್ವಿನೌ ಯದ್ವಶ್ಯುವಾತೇ ಸರ್ವಂ ರಸೇನಾನ್ಯೋ ಜ್ಯೋತಿಷಾನ್ಯಃ । ಅಶ್ವೈರಶ್ವಿನಾವಿತ್ಯೌರ್ಣವಾಭಃ । ಶತ್ಕಾವಶ್ವಿನೌ ದ್ಯಾವಾಪೃಥಿವ್ಯಾವಿತ್ಯೇಕೇ । ಅಹೋರಾತ್ರಾವಿತ್ಯೇಕೇ । ಸೂರ್ಯಾಚಂದ್ರಮಸಾವಿತ್ಯೇಕೇ । ರಾಜಾನೌ ಪುಣ್ಯಕೃತಾವಿತ್ಯೇಕೇ ॥
+(ನಿ. ೧೨-೧)
+ಈ ದೇವತೆಗಳಲ್ಲಿ ಒಬ್ಬನು ಉದಕದಿಂದಲೂ ಇನ್ನೊಬ್ಬನು ಪ್ರಕಾಶದಿಂದಲೂ ಸರ್ವತ್ರ ವ್ಯಾಪಿಸಿರುವುದರಿಂದ ಇವರಿಗೆ
+ಅಶ್ವಿನೀದೇವತೆಗಳೆಂದು ಹೆಸರು ಎಂದು ಒಂದು ಮತ. ಅಶ್ವಗಳಿಂದ ಯುಕ್ತರಾದುದರಿಂದ ಇವರಿಗೆ ಅಶ್ವಿನೀದೇವತೆ
+ಗಳೆಂದು ಹೆಸರು ಎಂದು ಔರ್ಣವಾಭರೆಂಬುವರ ಮತ. ಕೆಲವರ ಅಭಿಪ್ರಾಯದಂತೆ ಇವರು ದ್ಯಾವಾಪೃಥಿವಿಗಳು
+ಮತ್ತೆ ಕೆಲವರು ಇವರನ್ನು ಅಹೋರಾತ್ರೆಗಳೆಂದು ಹೇಳುವರು. ಮತ್ತೆ ಕೆಲವರ ಅಭಿಪ್ರಾಯದಂತೆ ಇವರೇ ಸೂರ್ಯ
+ಚಂದ್ರರು. ಇತಿಹಾಸಕಾರರ ಮತದಂತೆ ಪುಣ್ಯಕರ್ತರಾದ ಇಬ್ಬರು ರಾಜರುಗಳು ಈ ಪದವಿಯನ್ನು ಪಡೆದು
+ಅಶ್ವಿನೀದೇವತೆಗಳೆಂದು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಹೀಗೆ ಯಾಸ್ಕರು ಮತಭೇದಗಳನ್ನು ತಿಳಿಸಿ ಋ. ಸಂ. ೧-೧೮೧-೪
+ಮತ್ತು ಅನಿರ್ದಿಷ್ಟವಾದ ಇನ್ನೊಂದು ಮಂತ್ರವನ್ನೂ ಉದಾಹರಿಸಿ ಈ ವಿಷಯದಲ್ಲಿರುವ ಸಂಶಯವನ್ನು ವ್ಯಕ್ತ
+ಪಡಿಸಿರುವರು.
+ವಸಾತಿಸು ಸ್ಮ ಚರಥೋಽಸಿತೌ ಪೇತ್ವಾವಿವ ।
+ಕದೇದಮಶ್ವಿನಾ ಯುವಮಭಿ ದೇವಾ ಅಗಚ್ಛತಂ ॥
+ಎಂಬ ಮಂತ್ರದಲ್ಲಿ ಹೇಳಿರುವಂತೆ ಇವರಲ್ಲಿ ಒಬ್ಬನು ವಸಾತಿಪುತ್ರನು ಎಂದರೆ ರಾತ್ರಿಪುತ್ರನು, ಇನ್ನೊಬ್ಬನು ಉಷಃ
+ಪುತ್ರನು ಎಂದಾಗುತ್ತದೆ. ಋಕ್ಸಂಹಿತಾವಾಕ್ಯಗಳಲ್ಲಿರುವ ವಿವಿರಣೆಗಳಿಂದ ಅಶ್ವಿನೀದೇವತೆಗಳ ಸ್ವರೂಪವನ್ನು
+ನಿಷ್ಕರ್ಷಿಸುವುದಾದರೆ ಕೆಳಗೆ ಉದಾಹರಿಸಿರುವ ಋಕ್ಕುಗಳ ಆಧಾರಗಳನ್ನು ವಿಮರ್ಶಿಸಬಹುದು.
+ತ್ವಷ್ಟಾ ದುಹಿತ್ರೇ ವಹತುಂ ಕೃಣೋತೀತೀದಂ ವಿಶ್ವಂ ಭುವನಂ ಸಮೇತಿ ।
+ಯಮಸ್ಯ ಮಾತಾ ಪರ್ಯುಹ್ಯಮಾನಾ ಮಹೋ ಜಾಯಾ ವಿವಸ್ವತೋ ನನಾಶ ॥
+ಅಪಾಗೂಹನ್ನಮೃತಾಂ ಮರ್ತೆಭ್ಯಃ ಕೃತ್ವೀ ಸವರ್ಣಾಮದದುರ್ವಿವಸ್ವತೇ ।
+ಉತಾಶ್ವಿನಾವಭರದತ್ತದಾಸೀದಜಹಾದು ದ್ವಾ ಮಿಥುನಾ ಸರಣ್ಯೂಃ ॥
+(ಋ. ಸಂ. ೧೦-೧೭-೧, ೨)
+ತ್ವಷ್ಟವು ತನ್ನ ಮಗಳ ವಿವಾಹಕಾಲದಲ್ಲಿ ಸ್ವಯಂವರವನ್ನು ಏರ್ಪಡಿಸಿ ಸಕಲಪ್ರಪಂಚದ ಜನರನ್ನು ಅಲ್ಲಿ ಒಟ್ಟಾಗಿ
+ಸೇರುವಂತೆ ಮಾಡಿದನು. ಯಮನ ಮಾತೆಯೂ ವಿವಸ್ವಂತನ ಪತ್ನಿಯೂ ಆದ ಸರಣ್ಯಾದೇವಿಯು ವಿವಾಹವಾದ
+ನಂತರ ಅದೃಶ್ಯಳಾದಳು ಎಂದರೆ ಅಮರ್ತ್ಯರಾದ ದೇವತೆಗಳು ಈ ಸರಣ್ಯಾದೇವಿಯು ಮರ್ತ್ಯನಾದ ವಿವಸ್ವಂತನನ್ನು
+
+<!-- printed 933 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 933]*
+
+ವಿವಾಹವಾದ್ದರಿಂದ ಅದು ಅನುಚಿತವೆಂದು ಭಾವಿಸಿ ಅವಳನ್ನು ಯಾರಿಗೂ ಕಾಣದಂತೆ ಮರೆಸಿ ಇಟ್ಟರು. ಆಗ ಅವರು ಅವಳನ್ನು ಸವರ್ಣಳನ್ನಾಗಿ ಮಾಡಿ ವಿವಸ್ವಂತನಿಗೆ ಕೊಟ್ಟರು. ಅನಂತರ ಅವಳು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಹಡೆದಳು ಮತ್ತು ಪುತ್ರರಾದ ಅವರನ್ನು ಬಿಟ್ಟು ಹೋದಳು ಎಂದು ಈ ಋಕ್ಕುಗಳ ಅಭಿಪ್ರಾಯವು ಮತ್ತು
+ಯಮಾ ಚಿದತ್ರ ಯಮಸೂರಸೂತ ಜಿಹ್ವಾಯಾ ಅಗ್ರಂ ಪತದಾ ಹ್ಯಸ್ಥಾತ್ ।
+ವಪೂಂಷಿ ಜಾತಾ ಮಿಥುನಾ ಸಚೇತೇ ತಮೋಹನಾ ತಪುಷೋ ಬುಧ್ನ ಏತಾ ॥
+(ಋ ಸು. ೩-೩೯-೩)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿ ಅಶ್ವಿನೀದೇವತೆಗಳ ಮಾತೆಯು ಯಮಳರನ್ನೂ (ಅವಳೀಮಕ್ಕಳನ್ನು) ಹಡೆದಳು. ಆ ಯಮಳ
+ರಿಬ್ಬರೂ ಸಹ ಸಶರೀರಿಗಳಾಗಿ ತಮಸ್ಸನ್ನು ನಾಶಮಾಡಿದರು ಎಂದು ಹೇಳಿದೆ ಎಂದರೆ ಸಾಯಣರು ತಮ್ಮ ಭಾಷ್ಯದಲ್ಲಿ
+ಯಮಸೂಃ ಎಂಬ ಪದಕ್ಕೆ ಉಷೋಽಭಿಮಾನಿನೀ ದೇವತಾ ಅತ್ರ ಉಷಃಕಾಲೇ ಅಸೂತ ಎಂದು ಅಶ್ವಿನೀ
+ದೇವತೆಗಳ ಮಾತೆಯು ಉಷೋದೇವತೆಯು ಎಂದು ಹೇಳಿರುವುದು ಸರ್ವಸಮ್ಮತವೆಂದು ಅನೇಕರು ಒಪ್ಪುತ್ತಾರೆ.
+ಅಲ್ಲದೆ, ತ್ವಷ್ಟವು ತನ್ನ ಮಗಳಾದ ಸರಣ್ಯದೇವಿಯನ್ನು ವಿವಸ್ವಂತನಿಗೆ ಮದುವೆಮಾಡಿಕೊಟ್ಟುದೂ ಅವರಿಂದ
+ಅಶ್ವಿನೀದೇವತೆಗಳು ಉತ್ಪನ್ನರಾದುದೂ ಬೃಹದ್ದೇವತೆಯಲ್ಲಿ ಈ ರೀತಿ ಹೇಳಿದೆ—
+ಅಭವನ್ನಿಥುನಂ ತ್ವಷ್ಟುಃ ಸರಣನ್ಯಸ್ತ್ರಿಶಿರಾಃ ಸಹ ।
+ಸ ವೈ ಸರಣನ್ಯಂ ಪ್ರಾಯಚ್ಛತ್ಸ್ವಯಮೇವ ಏವಸ್ವತೇ ॥
+ತತಃ ಸರಣ್ವಾಂ ಜಜ್ಞಾತೇ ಯಮಯಮ್ಯೌ ವಿವಸ್ವತಃ ।
+ತೌ ಚಾಪ್ಯುಭೌ ಯಮಾವೇವ ಜ್ಯಾಯಾಂಸ್ತಾಭ್ಯಾಂ ತು ವೈ ಯಮಃ ॥
+ಸೃಷ್ಟ್ವಾ ಭರ್ತುಃ ಪರೋಕ್ಷಂ ತು ಸರಣ್ಯಃ ಸದೃಶೀಂ ಸ್ತ್ರಿಯಂ ।
+ನಿಕ್ಷಿಪ್ಯ ಮಿಥುನಂ ತಸ್ಯಾಮಶ್ವಾ ಭೂತ್ವಾಪಚಕ್ರಮೇ ॥
+ಅವಿಜ್ಞಾನಾದ್ವಿವಸ್ವಾಂಸ್ತು ತಸ್ಯಾಮಜನಯನ್ಮನುಂ ।
+ರಾಜರ್ಷಿರಭವತ್ಸೋಽಪಿ ವಿವಸ್ವಾನಿನಿವ ತೇಜಸಾ ॥
+ಸ ವಿಜ್ಞಾಯ ತ್ವಪಕ್ರಾಂತಾಂ ಸರಣ್ಯಮಶ್ವರೂಪಿಣೀಂ ।
+ತ್ವಾಷ್ಟ್ರೀಂ ಪ್ರತಿ ಜಗಾಮಾಶು ವಾಜೀ ಭೂತ್ವಾ ಸಲಕ್ಷಣಃ ॥
+ಸರಣ್ಯಶ್ಚ ವಿವಸ್ವಂತಂ ವಿದಿತ್ವಾ ಹಯರೂಪಿಣಂ ।
+ಮೈಥುನಾಯೋಪಚಕ್ರಾಮ ತಾಂ ಚ ತತ್ರಾರುರೋಹ ಸಃ ॥
+ತತಸ್ತಯೋಸ್ತು ವೇಗೇನ ಶುಕ್ರಂ ತದಪತದ್ಭುವಿ ।
+ಉಪಾಜಿಘ್ರಚ್ಚ ಸಾ ತ್ವಶ್ವಾ ತಚ್ಚುಕ್ರಂ ಗರ್ಭಕಾಮ್ಯಾಯಾ ॥
+ಆಘ್ರಾತಮಾತ್ರಾ ಚ್ಛುಕ್ರಾತ್ತು ಕುಮಾರೌ ಸಂಬಭೂವತುಃ ।
+ನಾಸತ್ಯಶ್ಚೈವ ದಸ್ರಶ್ಚ ಯೌ ಸ್ತುತಾವಶ್ವಿನಾವಿತಿ ॥
+
+<!-- printed 934 -->
+*[934 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೯]*
+
+ಇತಿಹಾಸಮಿಮಂ ಯಾಸ್ಕಃ ಸರಣ್ಯದೇವತೇ ದ್ವೃಚೇ ।
+ವಿವಸ್ವತಶ್ಚ ತ್ವಷ್ಟುಶ್ಚ ತ್ವಷ್ಟೇತಿ ಸಹ ಮನ್ಯತೇ ॥
+(ಬೃ. ದೇ. ೬-೧೨ ರಿಂದ ೭-೬)
+ತ್ವಷ್ಟುವಿಗೆ ಸರಣ್ಯೂ ಎಂಬ ಕನೈಯೂ ತ್ರಿಶಿರಸ್ಸೆಂಬ ಪುತ್ರನೂ ಇದ್ದರು. ಅವನು ತನ್ನ ಮಗಳಾದ ಸರಣ್ಯೂವನ್ನು
+ವಿವಸ್ವಂತನಿಗೆ ವಿವಾಹಮಾಡಿಕೊಟ್ಟನು. ಅನಂತರ ವಿವಸ್ವಂತನಿಗೆ ಪತ್ನಿಯಾದ ಸರಣ್ಯೂವಿನಲ್ಲಿ ಯಮ ಮತ್ತು
+ಯಮಾ ಎಂಬ ಇಬ್ಬರು ಮಕ್ಕಳು ಹುಟ್ಟಿದರು. ಇವರಿಬ್ಬರೂ ಒಂದಿಗೆ ಹುಟ್ಟಿದ ಅವಳಿ ಮಕ್ಕಳು. ಅವರಲ್ಲಿ
+ಯಮನೇ ಹಿರಿಯವನು. ಒಂದು ದಿನ ಪತಿಯಾದ ವಿವಸ್ವಂತನು ಇಲ್ಲದಿರುವ ವೇಳೆಯಲ್ಲಿ ಸರಣ್ಯೂವು ತನ್ನನ್ನೇ
+ಹೋಲುವ ಮತ್ತೋರ್ವ ಸ್ತ್ರೀಯನ್ನು ನಿರ್ಮಿಸಿ ತನ್ನ ಅವಳಿಮಕ್ಕಳನ್ನು ಅವಳ ವಶಕ್ಕೆ ಒಪ್ಪಿಸಿ ತಾನು ಅಶ್ವರೂಪವನ್ನು
+ಧರಿಸಿ ಆ ಸ್ಥಾನವನ್ನು ಬಿಟ್ಟು ವಿವಸ್ವಂತನಿಗೆ ತಿಳಿಯದಂತೆ ಬೇರೆ ಜಾಗಕ್ಕೆ ಹೋಗಿ ಅದೃಶ್ಯಳಾಗಿದ್ದಳು. ಆದರೆ
+ವಿವಸ್ವಂತನಿಗೆ ಇದರ ಅರಿವು ಇಲ್ಲದೆ ಸರಣ್ಯೂವಿಗೆ ಪ್ರತಿನಿಧಿಯಾಗಿದ್ದ ಆ ಸ್ತ್ರೀವ್ಯಕ್ತಿಯೊಂದಿಗೆ ಸೇರಿದನು. ಅದರ
+ಫಲವಾಗಿ ಮನುವಿನ ಉತ್ಪತ್ತಿಯಾಯಿತು. ಮನುವೂ ಸಹ ತಂದೆಯಂತೆಯೇ ತೇಜಸ್ವಿಯಾಗಿ ದೊಡ್ಡ ರಾಜರ್ಷಿ
+ಯಾದನು. ಇವನ ಕೀರ್ತಿಯು ಸಕಲ ಲೋಕಗಳಲ್ಲಿಯೂ ಹರಡಿತು. ಕೆಲವು ಕಾಲದ ಮೇಲೆ ವಿವಸ್ವಂತನಿಗೆ
+ನಿಜವಾದ ಅರಿವುಂಟಾಯಿತು. ಸರಣ್ಯೂವು ಅಶ್ವರೂಪದಲ್ಲಿ ಹೊರಟುಹೋಗಿದ್ದಾಳೆಂದು ತಿಳಿದನಂತರ ತಾನೂ ಸಹ
+ಪುರುಷಾಶ್ವರೂಪವನ್ನು ಹೊಂದಿ ತ್ವಷ್ಟವಿನ ಪುತ್ರಿಯು ಹೋದಸ್ಥಳಕ್ಕೆ ಅವಳನ್ನು ಹಿಂಬಾಲಿಸಿ ಹೊರಟು ಅವಳನ್ನು
+ಸೇರಲು ಪ್ರಯತ್ನಿಸಿದನು. ತನ್ನನ್ನು ಹಿಂಬಾಲಿಸಿ ವಿವಸ್ವಂತನೂ ಅಶ್ವರೂಪನಾಗಿ ಬಂದುದನ್ನು ತಿಳಿದ ಸರಣ್ಯೂವು
+ಅವನೊಂದಿಗೆ ಸಂಭೋಗಸುಖವನ್ನಿಚ್ಛಿಸಿದಳು. ಆಗ ವಿವಸ್ವಂತನು ಅವಳ ಇಚ್ಛೆಯನ್ನು ನೆರವೇರಿಸಿದನು. ಅವರ
+ಪರಸ್ಪರವಾದ ಉತ್ಸಾಹಕಾಲದಲ್ಲಿ ವಿವಸ್ವಂತನ ವೀರ್ಯವು ನೆಲದಮೇಲೆ ಬಿದ್ದಿತು. ಆಗ ಸರಣ್ಯೂವು ಗರ್ಭಧಾರ
+ಣೇಚ್ಛೆಯಿಂದ ಅದನ್ನು ಆಘ್ರಾಣಿಸಿದಳು. ಆ ಶುಕ್ರವನ್ನು (ರೇತಸ್ಸನು ) ಮೂಸಿ ನೋಡಿದೊಡನೆಯೇ ಅವಳಿಗೆ
+ಗರ್ಭೋತ್ಪತ್ತಿಯುಂಟಾಗಿ ಅದರಿಂದ ನಾಸತ್ಯ, ದಸ್ರ ಎಂಬ ಇಬ್ಬರು ಯುವಕರು ಉತ್ಪನ್ನರಾದರು. ಅನಂತರ
+ಅವರು ಅಶ್ವಿನೀದೇವತೆಗಳು ಎಂಬ ಹೆಸರಿನಿಂದ ಕರೆಯಲ್ಪಟ್ಟು ಇವರ ಮಹಿಮೆಯು ಲೋಕಗಳಲ್ಲೆಲ್ಲಾ ಹರಡಿತು
+ಎಂದಿದೆ.
+ಅಶ್ವಿನೀದೇವತೆಗಳ ರಥವರ್ಣನೆ ಇತ್ಯಾದಿ
+ಅಶ್ವಿನೀದೇವತೆಗಳ ರಥವು ಸುವರ್ಣಮಯವಾದುದು ಮತ್ತು ಚಕ್ರ, ಅಚ್ಚು ಮೊದಲಾದ ಭಾಗಗಳೆಲ್ಲವೂ
+ಚಿನ್ನದಿಂದ ಮಾಡಿದುದು (ಋ. ಸಂ. ೪-೪೪-೪; ೧-೧೮೦-೧, ೮-೫-೨೯, ೮-೨೨-೫ ಇತ್ಯಾದಿ) ಅದು ಒಂದು ವಿಲಕ್ಷಣ
+ವಾದ ರಥ. ಅದಕ್ಕೆ ಮೂರು ಚಕ್ರ, ಮೂರು ನೇಮಿ ಮತ್ತು ಬೇರೆ ಕೆಲವು ಭಾಗಗಳೂ ಮೂರು ಮೂರು
+ಇರುವುವು. ಅದು ಮನೋವೇಗವುಳ್ಳದ್ದು. ಮೂರು ಚಕ್ರದ ರಥವೆಂದರೆ ಅವರೊಬ್ಬರದೇ.
+ಯದಯಾಶಂ ಶುಭಸ್ಪತೀ ವರೇಯಂ ಸೂರ್ಯಾಮುಪ ।
+ಕ್ವೈಕಂ ಚಕ್ರಂ ನಾಮಾಸೀತ್ ಕ್ವ ದೇಷ್ಟ್ರಾಯ ತಸ್ಥತುಃ ॥
+(ಋ. ಸಂ. ೧೦-೮೫-೧೨)
+
+<!-- printed 935 -->
+*[ವ. ೭. ಅ. ೮. ವ. ೧೫.] ಋಗ್ವೇದಸಂಹಿತಾ 935]*
+
+ಎಂಬಲ್ಲಿ ಸೂರ‍್ಯಾದೇವಿಯ ವಿವಾಹಕ್ಕೆ ಹೋದಾಗ ರಥದ ಒಂದು ಚಕ್ರವು ಹಾಳಾಗಿ ಹೋಯಿತೆಂದು ಹೇಳಿದೆ.
+ಈ ವಿಷಯದಲ್ಲಿ ಐತರೇಯಬ್ರಾಹ್ಮಣರಲ್ಲಿ ಒಂದು ಇತಿಹಾಸವಿದೆ—
+ಪ್ರಜಾಪತಿಃ ಸವಿತುಃ ದುಹಿತರಂ ಸೂರ್ಯಂ ಸೋಮಾಯ ರಾಜ್ಞೇ ಪ್ರಾಯಚ್ಛತ್ । ಯೇ
+ತ್ವನ್ಯೇ ದೇವಾಃ ತಾಂ ವರಯಿತುಮಾಗಚ್ಛನ್ । ತೇಭ್ಯೋ ವಿವಾಹಾದನಂತರಮೃಕ್ಸಹಸ್ರಮದದಾತ್ । ಯದೇತದಾಶ್ವಿನಂ ನಾಮ ತಸ್ಮಿನ್ದೇವಾ ವಿವಾದಮಕುರ್ವನ್ । ಮಮೇದಮಸ್ತು ಮಮೇದಮಸ್ತ್ವಿತಿ । ತೇಽಬ್ರುವನ್ । ಆಜಿಂ ಧಾವಾಮ । ಯೋ ನೋ ಜೇಷ್ಯತಿ
+ತಸ್ಯೇದಂ ಭವಿಷ್ಯತೀತಿ । ತೇಽಗ್ನೇರ್ಗೃಹಪತೇರುಪರ್ಯಾದಿತ್ಯಂ ಕಾಷ್ಠಾಂ ಕೃತ್ವಾಭಿಧಾವನ್ । ಕಾಷ್ಠಾ ಆಜ್ಯಂತ ಉಚ್ಯತೇ । ಅಶ್ವತರೀರಥೇನಾಗ್ನಿರಾಜಿಮಧಾವತ್ ।
+ಗೋಭಿರರುಣೈರುಷಾಃ । ಹರಿರಥೇನೇಂದ್ರಃ । ಗರ್ದಭರಥೇನಾಶ್ವಿನ್ । ತತ್ರಾಶ್ವಿನಾವಜ
+ಯತಾಂ ॥
+ಬ್ರಹ್ಮನು ಸವಿತೃದೇವನ ಸೂರ್ಯಾ ಎಂಬ ಹೆಸರುಳ್ಳ ಮಗಳನ್ನು ರಾಜನಾದ ಸೋಮನಿಗೆ ವಿವಾಹಮಾಡಿಕೊಟ್ಟನು
+ಆಗ ಇತರ ದೇವತೆಗಳು ಅವಳನ್ನು ವರಿಸುವುದಕ್ಕಾಗಿ ಬಂದರು. ವಿವಾಹವಾದನಂತರ ಅವನು ಅವರಿಗೆ ಒಂದು
+ಸಾವಿರ ಋಕ್ಕುಗಳನ್ನು ಕೊಟ್ಟನು. ಈ ಋಕ್ಕಗಳಿಗೆ ಆಶ್ವಿನಋಕ್ಕಗಳೆಂಬ ಹೆಸರು ಪ್ರಸಿದ್ಧವಾಯಿತು. ಈ ಋಕ್ಕು
+ಗಳನ್ನು ಅಲ್ಲಿಗೆ ಬಂದಿದ್ದ ದೇವತೆಗಳು ನನಗೆ ಬೇಕು, ತನಗೆ ಬೇಕು ಎಂದು ಪರಸ್ಪರ ವಿವಾದಮಾಡಿದರು. ಅನಂತಶ
+ಅವರು ಒಂದು ಸ್ಪರ್ಧೆಯನ್ನು ಏರ್ಪಡಿಸಿ ಅದರಲ್ಲಿ ಗೆದ್ದವರು ಈ ಋಕ್ಕುಗಳನ್ನು ಪಡೆಯಬಹುದೆಂದು ತಮ್ಮಲ್ಲಿಯೇ
+ನಿರ್ಣಯಮಾಡಿಕೊಂಡರು. ಅನಂತರ ಅವರು ಗೃಹಪತಿಯಾದ ಅಗ್ನಿಯ ಬಳಿಯಿಂದ ಆದಿತ್ಯನವರೆಗೆ ಹೋಗುವುದೇ
+ಸ್ಪರ್ಧೆಯೆಂದೂ ಅದರಲ್ಲಿ ಯಾರು ಮೊದಲು ಹೋಗಿ ಸೇರುವರೋ ಅವರೇ ಗೆದ್ದವರೆಂದು ನಿಷ್ಕರ್ಷಿಸಲಾಗುವುದೆಂದೂ
+ನಿಷ್ಕರ್ಷಿಸಿದರು. ಆಗ ಅಗ್ನಿಯು ಹೇಸರಕತ್ತೆಯನ್ನು ಕಟ್ಟಿದ ರಥದಿಂದ ಓಡಲು ಸಿದ್ಧನಾದನು. ಉಷೋದೇವಿಯು
+ಕೆಂಪುಬಣ್ಣದ ಗೋವುಗಳನ್ನು ಕಟ್ಟಿದ ರಥದಲ್ಲಿ ಕುಳಿತು ಬಂದಳು. ಇಂದ್ರನು ತನ್ನ ಹರೀ ಎಂಬ ಕುದುರೆಗಳನ್ನು
+ಕಟ್ಟಿದ ರಥವನ್ನು ಹತ್ತಿ ಬಂದನು. ಅಶ್ವಿನೀದೇವತೆಗಳು ರಾಸಭಾ ಎಂಬ ಕತ್ತೆಗಳನ್ನು ಕಟ್ಟಿದ ತಮ್ಮ ರಥವನ್ನು
+ಹತ್ತಿ ಅಲ್ಲಿಗೆ ಬಂದರು. ಅನಂತರ ಅವರೆಲ್ಲರೂ ತಮ್ಮ ತಮ್ಮ ತಮ್ಮ ವಾಹನಗಳನ್ನೇರಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಳವನ್ನು
+ಸೇರುವುದಕ್ಕಾಗಿ ಓಡುವಾಗ ಅಶ್ವಿನೀದೇವತೆಗಳಿಗೆ ಜಯವು ಲಭಿಸಿತು. ಪಣವಾದ ಒಂದು ಸಾವಿರ ಋಕ್ಕಗಳು
+ಅವರಿಗೆ ದೊರೆತವು. ಆದ್ದರಿಂದಲೇ ಆ ಋಕ್ಕುಗಳಿಗೆ ಆಶ್ವಿನಋಕ್ಕುಗಳೆಂಬ ಹೆಸರು ।ಪ್ರಸಿದ್ಧವಾಯಿತು ಎಂಬ
+ಇತಿಹಾಸದಲ್ಲಿ ಅಶ್ವಿನೀದೇವತೆಗಳ ರಥದ ಶ್ರೇಷ್ಠತೆಯು ಉಕ್ತವಾಗಿದೆ.
+ಅಶ್ವಿನೌ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಅಶ್ವ (ಕುದುರೆ) ವುಳ್ಳವರು ಎಂದರ್ಥವಾದರೂ ಅವರು ಅಶ್ವಾರೋಹಿಗಳಾದುದರಿಂದ
+ಆ ಹೆಸರು ಅವರಿಗೆ ಬಂದಿದೆ ಎಂದು ಎಲ್ಲಿಯೂ ಹೇಳಿಲ್ಲ. ಅವರ ರಥವನ್ನು ಎಳೆಯುವ ಅಶ್ವಗಳು (ಋ. ಸಂ. ೧-೧೧೭-೨)
+ಪಕ್ಷಿಗಳು (೬-೬೩-೬) ಹಂಸಗಳು (೪-೪೫-೪), ಗರುಡಪಕ್ಷಿಗಳು (೧-೧೧೮-೪) ಶ್ಯೇನರೂಪವಾದ ಅಶ್ವಗಳು (೮.೫.೭)
+ಎಂದು ಹೇಳಿದೆ ಆದರೆ ಅವರ ಮುಖ್ಯವಾಹನವು ಯಾಸ್ಕರು ಹೇಳಿರುವಂತೆ ರಾಸಭಾವಶ್ವಿನೋಃ-ಅಶ್ವಿನೀದೇವತೆ
+ಗಳಿಗೆ ಕತ್ತೆಗಳೇ ವಾಹನಗಳ. (ನಿ. ೨-೨೮).
+
+<!-- printed 936 -->
+*[936 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೯]*
+
+ಕದಾ ಯೋಗೋ ವಾಜಿನೋ ರಾಸಭಸ್ಯ ಯೇನ ಯಜ್ಞಂ ನಾಸತ್ಯೋಪಯಾಥಃ ।
+(ಋ. ಸಂ. ೧-೩೪-೯)
+ತದ್ರಾಸಭೋ ನಾಸತ್ಯಾ ಸಹಸ್ರಮಾಜಾ ಯಮಸ್ಯ ಪ್ರಧನೇ ಜಿಗಾಯ ।
+(ಋ. ಸಂ. ೧-೧೧೬-೨)
+ಇತ್ಯಾದಿ ಋಕ್ಕುಗಳಲ್ಲಿ ರಾಸಭವೇ (ಕತ್ತೆ) ಅಶ್ವಿನೀದೇವತೆಗಳ ವಾಹನವೆಂದು ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಿದೆ.
+ಅವರನ್ನು ಯಾವಾಗಲೂ ಯಜ್ಞ ಮಾಡುವವರು ಪ್ರಾತಃಕಾಲಗಳಲ್ಲಿಯೇ ಆಹ್ವಾನ ಮಾಡುತ್ತಾರೆ. ಸೂರ‍್ಯ
+ಪುತ್ರಿಯೊಡನೆ ಇವರಿಗೆ ಸಂಬಂಧವಿದೆ, ಸೂರೆಯೇ ಅವರನ್ನು ವರಿಸಿದಳು (ಋ. ಸಂ. ೭-೬೯-೪) ಅವರಿಬ್ಬರೂ
+ಅವಳ ಪತಿಯರು (೪-೪೩-೬) ಸೂರೆಯು ಅವರ ರಥವನ್ನು ಏರಿದಳು (೫-೭೩-೫ ; ೮-೮-೧೦) ಸೂರ‍್ಯನ ಪುತ್ರಿಯು
+ಅವರ ರಥವನ್ನು ಏರುತ್ತಾಳೆ (ಋ. ಸಂ. ೧-೩೪-೫ ; ೧-೧೧೬-೧೭ ; ೧-೧೧೮-೫ ; ೬-೬೩-೫) ಅವರು ಸೂರ‍್ಯ
+ಯನ್ನು ತಮ್ಮವಳೆಂದು ಭಾವಿಸುತ್ತಾರೆ (೭ ೬೮-೩) ಮತ್ತು ಅವಳು ರಥದಲ್ಲಿ ಅವರ ಜೊತೆಯಲ್ಲಿ ಹೋಗುತ್ತಾಳೆ
+(೮-೨೯-೮) ಇತ್ಯಾದಿ ವರ್ಣನೆಗಳಿವೆ.
+ಅವರು ಜನರಿಗೆ ಕಷ್ಟದಲ್ಲಿ ನೆರವಾಗುತ್ತಾರೆ ಎಂಬುದಕ್ಕೆ ಅನೇಕ ಆಖ್ಯಾಯಿಕೆಗಳಿವೆ. ಇವುಗಳನ್ನು ಆಯಾ
+ಸಂದರ್ಭಗಳಲ್ಲಿ ವಿಸ್ತಾರವಾಗಿ ವಿವರಿಸಲಾಗಿದೆ. ಆದರೆ ಅವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾದ ಕೆಲವನ್ನು ಮಾತ್ರ ಇಲ್ಲಿ
+ವಿವರಿಸಿದ್ದೇವೆ.
+ಜುಜುರುಷೋ ನಾಸತ್ಯೋತ ವನ್ರಿಂ ಪ್ರಾಮುಂಚತಂ ದ್ರಾಪಿಮಿವ ಚ್ಯವಾನಾತ್ ।
+ಪ್ರಾತಿರತಂ ಜಹಿತಸ್ಯಾಯುರ್ದಸ್ರಾದಿತ್ಪತಿಮಕೃಣುತಂ ಕನೀನಾಂ ॥
+(ಋ. ಸಂ. ೧-೧೧೬-೧೦)
+ಚ್ಯವನನೆಂಬ ಋಷಿಯು ಬಹಳ ವೃದ್ಧನಾಗಿ ದೇಹವು ಶಿಥಿಲವಾಗಿ ಶಕ್ತಿಯಿಲ್ಲದಿರುವಾಗ ಅವನ ಜನರು
+ಅವನನ್ನು ತ್ಯಜಿಸಿದರು. ಈ ಋಷಿಯು ಅಶ್ವಿನೀವೇದ್ಯತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಲು ಅವರು ಬಂದು ಇವನ ಶಿಥಿಲವಾದ
+ದೇಹವನ್ನು ಕಳೆದು ಯುವಕನನ್ನಾಗಿ ಮಾಡಿ ಇವನ ಪತ್ನಿಗೆ ಪ್ರಿಯನನ್ನಾಗಿ ಮಾಡಿದರು ಮತ್ತು ಅವನ ಆಯುಸ್ಸನು
+ಹೆಚ್ಚಿಸಿದರು ಎಂದಿದೆ. ಇದೇ ವಿಷಯವು—
+ಯುವಂ ಚ್ಯವಾನಮಶ್ವಿನಾ ಜರಂತಂ ಪುನರ್ಯುವಾನಂ ಚಕ್ರಥುಃ ಶಚೀಭಿಃ ।
+(ಋ. ಸಂ. ೧-೧೧೭-೧೩)
+ನಿಷ್ಪಾಗ್ರ್ಯಂ ಸಾರಯಥಃ ಸಮುದ್ರಾತ್ಸುನಶ್ಚಾನಾಂ ಚಕ್ರಧುರ್ಯುವಾನಂ ।
+(ಋ. ಸಂ. ೧-೧೧೮-೬)
+ಪ್ರ ಚ್ಯವಾನಾಜ್ಜು ಜುರುಷೋ ವನ್ತ್ರಿಮತ್ಕಂ ನ ಮುಂಚಥಃ ।
+ಯುವಾ ಯದೀ ಕೃಥಃ ಪುನರಾ ಕಾಮಮೃಣ್ವೇ ವಧ್ವಃ ॥
+(ಋ. ಸಂ. ೫-೭೪-೫)
+
+<!-- printed 937 -->
+*[೨. ೭ ಅ. ೮. ವ. ೧೫.] ಋಗ್ವೇದಸಂಹಿತಾ 937]*
+
+ಉತ ತ್ಯದ್ವಾಂ ಜುರತೇ ಅಶ್ವಿನಾ ಭೂಚ್ಚ್ಯವಾನಾಯ ಪ್ರತೀತ್ಯಂ ಹವಿರ್ದೇ ।
+(ಋ. ಸಂ. ೭-೬೮-೬)
+ಯುವಂ ಚ್ಯವಾನಂ ಜರಸೋಽಮುಮುಕ್ತಂ ನಿ ಪೇದವ ಊಹಥುರಾಶುಮಶ್ವಂ ।
+(ಋ. ಸಂ. ೭-೨೧-೫)
+ಯುವಂ ಚ್ಯವಾನಂ ಸನಯಂ ಯಥಾ ರಥಂ ಪುನರ್ಯುವಾನಂ ಚಿರಥಾಯ ತಕ್ಷಥುಃ ।
+(ಋ. ಸಂ. ೧೦-೩೯-೪)
+ಈ ಋಕ್ಕುಗಳಲ್ಲಿಯೂ ವೃದ್ಧನಾದ ಚ್ಯವನಋಷಿಯನ್ನು ಯುವಕನನ್ನಾಗಿ ಮಾಡಿದ ವಿಷಯದ ವರ್ಣನೆಯಿದೆ. ಶತ
+ಪಥ ಬ್ರಾಹ್ಮಣದಲ್ಲಿಯೂ ಈ ವಿಷಯಕವಾದ ವಿಸ್ತಾರವಾದ ಇತಿಹಾಸವಿದೆ. ಅದರಂತೆಯೇ—
+ಯುವಂ ವಿಪ್ರಸ್ಯ ಜರಣಾಮುಪೇಯುಷಃ ಪುನಃ ಕಲೇರಕೃಣುತಂ ಯುವದ್ವಯಃ ।
+(ಋ. ಸಂ. ೧೦-೩೯-೮)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿ ಕಲಿ ಎಂಬುವನ ಮುಪ್ಪನ್ನು ಹೋಗಲಾಡಿಸಿ ಅವನನ್ನು ಯುವಕನನ್ನಾಗಿ ಮಾಡಿದ
+ವಿಷಯದ ಪ್ರಸ್ತಾಪವಿದೆ.
+ಯಾಭಿರ್ವಮ್ರಂ ವಿಪಿಪಾನಮುಪಸ್ತುತಂ ಕಲಿಂ ಯಾಭಿರ್ವಿತ್ತಜಾನಿಂ ದುವಸ್ಯಥ ।
+(ಋ. ಸಂ. ೧ ೧೧೨೫)
+ಎಂಬ ಮೇಲೆ ಹೇಳಿದ ಕಲಿ ಎಂಬುವನು ಪತ್ನಿಯನ್ನು ಪರಿಗ್ರಹಿಸಿ ಮದುವೆಯಾದಾಗ ಅವನಿಗೆ ತಮ್ಮ ನೆರವನ್ನು ನೀಡಿ
+ಅನೇಕ ಸಹಾಯಗಳನ್ನು ಮಾಡಿದರೆಂದು ಹೇಳಿದೆ.
+ಅವರು ವಿಮದನ ಪತ್ನಿಯರಾದ ಯುವತಿಯರಿಗೋಸ್ಕರ ಒಂದು ರಥವನ್ನೂ (೧-೧೧೨-೧೯) ಅಥವಾ
+ಅವನಿಗೆ ಓರ್ವ ಪತ್ನಿಯನ್ನೂ (೧-೧೧೭-೧) ಅನುಗ್ರಹಿಸಿದರು. ಅವಳು ಪುರಮಿತ್ರನ ಪತ್ನಿಯಾಗಿದ್ದಳೆಂದು
+ತೋರುತ್ತದೆ. (ಋ. ಸಂ. ೧-೧೧೭-೨೦; ೧೦-೩೯-೭) ಮತ್ತು ಅವಳ ಹೆಸರು ಕಮದ್ಯು (೧೦-೬೫-೧೨)
+ಕೃಷ್ಣ ಎಂಬುವನ ಮಗನಾದ ವಿಶ್ವಕನಿಗೆ ಕಳೆದುಹೋಗಿದ್ದ ಅವನ ಮಗನನ್ನು ತಂದು ಒಪ್ಪಿಸಿದರು
+( ಋ. ಸಂ. ೧-೧೧೬-೨೩ ; ೧-೧೧೭-೭ ; ೧೦-೬೫-೧೨) ಋ. ಸಂ. ೮-೭೫-೧ ರಿಂದ ೩ನೆಯ ಋಕ್ಕುಗಳಲ್ಲಿ ವಿಶ್ವಕ
+ಮತ್ತು ವಿಷ್ಣಾಪುಗಳ ಹೆಸರುಗಳು ಸೂಚಿತವಾಗಿವೆ.
+ಭುಜ್ಯುವಿನ ಕಥೆಯು ಪದೇ ಪದೆ ಹೇಳಲ್ಪಟ್ಟಿದೆ. ಭುಜ್ಯುವು ತುಗ್ರ ಎಂಬ ರಾಜನ ಪುತ್ರನು. ಇವನನ್ನು
+ಸಮುದ್ರಯಾನಮಾಡುತ್ತಿರುವಾಗ ಮುಳುಗಿಹೋಗುತ್ತಿರಲು, ಅಲೆಗಳ ಮಧ್ಯದಲ್ಲಿ ಭುಜ್ಯುವು ಒಂದು ಮರದ ತುಂಡನ್ನು
+ಹಿಡಿದುಕೊಂಡು ತೇಲಾಡುತ್ತಿದ್ದನು. ಆಗ ಅವನು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಮರೆಹೊಕ್ಕನು. ಅಳವೇ ತಿಳಿಯದ
+ಮಹಾಸಾಗರದಲ್ಲಿ ನೂರುಹುಟ್ಟುಗಳಿಂದ ಕೂಡಿದ ನೌಕೆಯಲ್ಲಿ ಅವನನ್ನು ಕೂಡಿಸಿಕೊಂಡು ಅಶ್ವಿನೀದೇವತೆಗಳು
+ಮನೆಗೆ ಕರೆದುಕೊಂಡು ಹೋದರು. ಆಕಾಶದಲ್ಲಿ ಹಾರುವಂತೆ ತೋರುತ್ತಿದ್ದ, ಒಡಕುಗಳಿಲ್ಲದ ಹಡಗಿನಲ್ಲಿ ಅಥವಾ
+
+<!-- printed 938 -->
+*[933 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೯]*
+
+ರೆಕ್ಕೆಗಳುಳ್ಳ ನಾಲ್ಕು ದೋಣಿಗಳಲ್ಲಿ, ಅಥವಾ ನೂರು ಪಾದಗಳು ಮತ್ತು ಆರು ಕುದುರೆಗಳುಳ್ಳ, ಹಾರುವ ಮೂರು ರಥ
+ಗಳಲ್ಲಿ ಅಥವಾ ಮನೋವೇಗವುಳ್ಳ ತಮ್ಮ ರಥದಲ್ಲಿ ವೇಗಶಾಲಿಗಳಾಗಿ ಹಾರಿಹೋಗುವ ತಮ್ಮ ಅಶ್ವಗಳ ಸಹಾಯದಿಂದ
+ಭುಜ್ಯುವನ್ನು ಕುಳ್ಳಿರಿಸಿಕೊಂಡು ಬಂದು ಅವನ ಮನೆಗೆ ಸೇರಿಸಿದರು. ೧-೧೧೬-೩, ೪, ೫ ; ೧-೧೧೭-೧೪, ೧೫ ;
+೧-೧೮೨-೫, ೬, ೭; ೭-೬೮-೭; ೧-೧೧೨-೬, ೨೦; ೧-೧೧೮-೬; ೧-೧೧೯-೪; ೧-೧೫೮-೩ ; ೬-೬೨-೬;
+೭-೬೯-೭; ೮-೫-೨೨; ೧೦-೩೯-೪; ೧೦-೪೭-೭; ೧೦-೬೫-೧೨; ೧೦-೧೪೩-೫)
+ವಿಶ್ವಾಲಾ ಎಂಬ ಸ್ತ್ರೀಯು ಯುದ್ಧದಲ್ಲಿ ಕಾಲು ಕತ್ತರಿಸಿಹೋಗಲು ಅಶ್ವನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಿದಾಗ
+ಅವರು ಬಂದು ಅವಳಿಗೆ ಕಬ್ಬಿಣದ ಕಾಲನ್ನು ಒದಗಿಸಿಕೊಟ್ಟು ಕಾಪಾಡಿದರೆಂದು ಋ. ಸಂ. ೧-೧೧೨-೧೦ ; ೧-೧೧೬-
+೧೫; ೧-೧೧೭-೧೧; ೧-೧೧೮-೮; ೧೦ ೩೯-೮ ಎಂಬ ಋಕ್ಕುಗಳಲ್ಲಿ ಹೇಳಿದೆ.
+ಅಶ್ವಿನೀದೇವತೆಗಳ ವಾಹನವಾದ ರಾಸಭವು ತೋಳನ ರೂಪದಲ್ಲಿದ್ದಾಗ ಋಜ್ರಾಶ್ವ ನೆಂಬುವನು ತಾನು
+ಕಾಯುತ್ತಿದ್ದ ಕುರಿಗಳ ಮಂದೆಯಲ್ಲಿ ಒಂದುನೂರು ಕುರಿಗಳನ್ನು ಕತ್ತರಿಸಿ ಆ ತೋಳಕ್ಕೆ ಆಹಾರವಾಗಿ ಕೊಟ್ಟನು.
+ಅದರಿಂದ ಅವನ ತಂದೆಗೆ ಕೋಪಬಂದು ಋಜ್ರಾಶ್ವನ ಕಣ್ಣನ್ನು ಕೀಳಿಸಿ ಕುರುಡನನ್ನಾಗಿ ಮಾಡಿದನು. ಆಗ
+ತೋಳವು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಿತು. ಅವರು ತುಷ್ಟರಾಗಿ ಋಜ್ರಾಶ್ವನಿಗೆ ಕಣ್ಣನ್ನು ಕೊಟ್ಟರು. (ಋ ಸಂ.
+೧-೧೧೬-೧೬: ೧-೧೧೭.೧೭, ೧೮) ಋ. ಸಂ. ೧-೧೦೦-೧೭ನೆಯ ಋಕ್ಕಿನಲ್ಲಿ ಋಜ್ರಾಶ್ವನೆಂಬುವನು
+ಇಂದ್ರನನ್ನು ಸ್ತೋತ್ರಮಾಡಿದ ವಿಷಯವಿದೆ.
+ಪಾರಾವೃಜನೆಂಬುವನು ಕುರುಡನೂ ಕುಂಟನೂ ಆಗಿದ್ದನು. ಮತ್ತು ಅವನು ಜಾತಿಯಲ್ಲಿ ಸೇರಿಸಲ್ಪಟ್ಟಿರಲಿಲ್ಲ. ಅವನಿಗೆ ಅಶ್ವಿನೀದೇವತೆಗಳು ನೋಡುವ ದೃಷ್ಟಿಯನ್ನೂ, ನಡೆಯುವ ಶಕ್ತಿಯನ್ನೂ ಕೊಟ್ಟರು. ಎಂದರೆ ಕಣ್ಣುಗಳನ್ನೂ ಕಾಲುಗಳನ್ನೂ ಅನುಗ್ರಹಿಸಿದರು (ಋ. ಸಂ. ೧-೧೧೨-೮) ಪಾರಾವೃಜನೆಂಬುವನ ಹೆಸರು ಇಂದ್ರನ ವಿಷಯದಲ್ಲಿ ಪ್ರಸ್ತಾಪ ಬಂದಾಗ ಋ. ಸ. ೨-೧೩-೧೨; ೨-೧೫-೭ ಋಕ್ಕುಗಳಲ್ಲಿ ಸೂಚಿತವಾಗಿರುವುದು.
+ರೇಭನೆಂಬ ಋಷಿಯನ್ನು ದುಷ್ಟರು ಕೈಕಾಲು ಕಟ್ಟಿಹಾಕಿ ಒಂದು ಭಾವಿಯಲ್ಲಿ ಹಾಕಿದ್ದರು ಒಂಭತ್ತು
+ಹಗಲು ಹತ್ತು ರಾತ್ರಿಗಳ ಪರ್ಯಂತರ ಅವನು ಅಲ್ಲಿಯೇ ಬಿದ್ದಿದ್ದು ಸಾಯುವ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದನು. ಅವನನ್ನು ಅಶ್ವಿನೀ
+ದೇವತೆಗಳು, ಸೋಮರಸವನ್ನು ಸೌಟಿನಿಂದ ಎತ್ತುವಂತೆ ಭಾವಿಯಿಂದ ಮೇಲಕ್ಕೆತ್ತಿ ಜೀವದಾನಮಾಡಿದರು, (ಋ. ಸಂ.
+೧-೧೧೨-೫; ೧-೧೧೬-೨೪; ೧-೧೧೭-೧೨; ೧-೧೧೭-೪; ೧-೧೧೮-೬; ೧-೧೧೯-೬; ೧೦-೩೯-೯).
+ವಂದನ ಎಂಬುವನೂ ಇದೇರೀತಿ ದುಷ್ಟರಿಂದ ಅಪಹರಿಸಲ್ಪಟ್ಟು ಕತ್ತಲೆಯ ಪ್ರದೇಶದಲ್ಲಿ (ಹಳ್ಳದಲ್ಲಿ
+ಹಾಕಿದ್ದಾಗ ಅವನನ್ನು ಅಶ್ವಿನೀದೇವತೆಗಳು ಅಪಾಯದಿಂದ ಪಾರುಮಾಡಿ ಅವನನ್ನು ಬೆಳಕಿಗೆ ತಂದರು. (ಋ ಸಂ
+೧-೧೧೨-೫; ೧-೧೧೬-೧೧; ೧-೧೧೭-೫; ೧-೧೧೮-೬; ೧೦-೩೯-೮; ೧-೧೧೯-೬, ೭).
+ಪಜ್ರವಂಶೀಯನಾದ ಕಕ್ಷೀವತನಿಗೆ ಯಥೇಚ್ಛವಾಗಿ ವರಗಳನ್ನು ಕೊಟ್ಟು ನೂರಾರುಜಾಡಿ ಸುರಾ
+(ಮದ್ಯ) ಅಥವಾ ಮಧುವನ್ನು ಜರಡಿಯಿಂದ ಸುರಿಯುವಂತೆ ಕುದುರೆಯ ಗೊರಸಿನಿಂದ ಸುರಿಸಿದರು. (ಋ. ಸಂ.
+೧-೧೧೬-೭; ೧-೧೧೭-೬).
+
+<!-- printed 939 -->
+*[ಆ ೭. ಆ ೮ ವ. ೧೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 939]*
+
+ಅತ್ರಿ ಎಂಬ ಋಷಿಯು, ದ್ವೇಷಾಸೂಯೆಯಿಂದ ಅಂಧಕಾರಾವೃತವಾದ, ಬೆಂಕಿಯಿಂದ ಉರಿಯುತ್ತಿರುವ
+ದೊಡ್ಡ ಕಮರಿಯಲ್ಲಿ ಹಾಕಲ್ಪಟ್ಟು ತೊಂದರೆಪಡುತ್ತಿರುವಾಗ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಲು ಅವರು ಬಂದು
+ಬೆಂಕಿಯನ್ನು ಹಿಮದಿಂದ ಶಮನಮಾಡಿ, ಆಹಾರಾದಿಗಳನ್ನು ಕೊಟ್ಟು ಸಂತೈಸಿ, ಅವನನ್ನು ಆ ಅವಸ್ಥೆಯಿಂದ ಪಾರು
+ಮಾಡಿದರು. (೧-೧೧೨-೩; ೧-೧೧೬-೮; ೧-೧೧೭-೩; ೧-೧೧೮-೭; ೧-೧೧೯-೬; ೫-೭೮-೪, ೫, ೬)
+೭-೭೯-೫; ೮.೬೨-೩, ೭, ೮, ೯; ೧೦-೩೯-೯) ಋ. ಸಂ. ೧೦-೮೦-೩ ನೆಯ ಋಕ್ಕಿನಲ್ಲಿ ಅತ್ರಿಯನ್ನು
+ಅಗ್ನಿಯು ರಕ್ಷಿಸಿದನೆಂದು ಸೂಚಿತವಾಗಿದೆ.
+ವಧ್ರಿಮತೀ ಎಂಬುವಳು ತನಗೆ ಮಕ್ಕಳಿಲ್ಲದೆ ಬಂಜೆಯಾಗಿದ್ದುದರಿಂದ ಆಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಲು
+ಅವಳಿಗೆ ಹಿರಣ್ಯಹಸ್ತನೆಂಬ ಪುತ್ರನನ್ನು ಅನುಗ್ರಹಿಸಿದರು. (ಋ. ಸಂ. ೧-೧೧೬-೧೩; ೧-೧೧೭-೨೪; ೬-೬೨-೭;
+೧೦-೩೯-೭).
+ಘೋಷಾ ಎಂಬುವಳು ತನ್ನ ತಂದೆಯ ಮನೆಯಲ್ಲಿಯೇ ಇದ್ದು ಮದುವೆಯಾಗದೆ ಇದ್ದುದರಿಂದ ಅವಳ
+ಪ್ರಾರ್ಥನೆಯಂತೆ ಅಶ್ವಿನೀದೇವತೆಗಳು ಅವಳಿಗೆ ಯೋಗ್ಯನಾದ ಪತಿಯನ್ನು ಅನುಗ್ರಹಿಸಿದರು. (ಋ. ಸಂ.
+೧-೧೧-೭; ೧೦-೩೯-೩,೬ ; ೧೦-೪-೫) ಋ. ಸಂ. ೧-೧೧೭-೭ನೇ ಋಕ್ಕಿನ ಭಾಷ್ಯದಲ್ಲಿ ಈ ಘೋಷಾ ಎಂಬ
+ಸ್ತ್ರೀಯು ಕುಷ್ಠರೋಗದಿಂದ ನರಳುತ್ತಿದ್ದಳೆಂದೂ, ಆ ರೋಗವನ್ನು ಅಶ್ವಿನೀದೇವತೆಗಳು ವಾಸಿಮಾಡಿದರೆಂದೂ
+ಸಾಯಣರು ಹೇಳಿದ್ದಾರೆ. ೧೦ ನೆಯ ಮಂಡಲದಲ್ಲಿ ಈ ಘೋಷಾ ಎಂಬುವಳಿಂದ ದೃಷ್ಟವಾದ ಎರಡು
+ಸೂಕ್ತಗಳಿವೆ. (೧೦-೩೯, ೪೦)
+ಶಯು ಎಂಬುವನ ಹಸುವು ಮುದಿಯಾಗಿ ಕರುವನ್ನು ಹಾಕದಿರುವಾಗ ಅದಕ್ಕೆ ಹಾಲುಕೊಡುವ ಶಕ್ತಿ
+ಯನ್ನುಂಟುಮಾಡಿದರು. ಋ. ಸಂ. ೧-೧೧೬-೨೨; ೧-೧೧೭.೨೦; ೧-೧೧೮-೮; ೧-೧೧೯-೬; ೧೦-೩೯-೧೩)
+ಪೇದುವೆಂಬ ರಾಜನಿಗೆ ಅಶ್ವಿನೀದೇವತೆಗಳು ಇಂದ್ರನಂತೆ ಅತಿ ಬಲಶಾಲಿಯಾದ ಒಂದು ಬಿಳೀ ಕುದುರೆ
+ಯನ್ನು ಕೊಟ್ಟರೆಂದೂ ಅದರಿಂದ ಅವನು ತನ್ನ ಶತ್ರುಗಳನ್ನು ಗೆದ್ದು ಬಹಳವಾದ ವಸ್ತುವಾಹನಾದಿಗಳನ್ನು ಪಡೆದ
+ನೆಂದೂ ಹೇಳಿದೆ. (ಋ. ಸಂ. ೧-೧೧೬-೬; ೧-೧೧೭-೯; ೧-೧೧೮-೯; ೧-೧೧೯-೧೦; ೭- ೭೧-೫ ; ೧೦-೩೯-೧೦)
+ಇದಲ್ಲದೆ ಒಂದನೇ ಮಂಡಲದ ೩, ೧೧೬, ೧೧೭, ೧೧೮, ೧೧೯ ನೆಯ ಸೂಕ್ತಗಳಲ್ಲಿ ಹೇಳಿರುವಂತೆ
+ಅನೇಕ ಮನುಷ್ಯರಿಗೆ ಸಹಾಯವನ್ನು ಮಾಡಿರುವುದಲ್ಲದೆ ಈ ಅಶ್ವಿನೀ ದೇವತೆಗಳು ಪಶುಪಕ್ಷ್ಯಾದಿಗಳಿಗೂ ಉಪಕಾರ
+ಮಾಡಿರುವರೆಂದು ಹೇಳಿದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ—ಒಂದು ತೋಳವು ಒಂದು ಗುಬ್ಬಚ್ಚಿಯನ್ನು ಕಚ್ಚಿಕೊಂಡು
+ಹೋಗುತ್ತಿರುವಾಗ ಆ ಗುಬ್ಬಚ್ಚಿಯ ಪ್ರಾರ್ಥನೆಯಂತೆ ಅದನ್ನು ತೋಳನ ಬಾಯಿಂದ ಬಿಡಿಸಿಕಾಪಾಡಿದರೆಂದು ಋ.ಸಂ
+೧-೧೧೬-೧೪; ೧-೧೧೭-೧೬; ೧-೧೧೮ ೮; ೧೦-೩೯-೧೩ ಎಂಬ ಋಕ್ಕುಗಳಲ್ಲಿ ಹೇಳಿದೆ. . ಈ ವಿಷಯಗಳಲ್ಲದೆ
+ಅಶ್ವಿನೀದೇವತೆಗಳ ಸಂಬಂಧವಾದ ಇನ್ನೂ ಅನೇಕ ವಿಷಯಗಳಿರುವುವು. ಅವುಗಳನ್ನು ಆಯಾ ಸಂದರ್ಧದಲ್ಲಿ
+ವಿವರಿಸಲಾಗುವುದು.
+
+<!-- printed 940 -->
+*[940 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+*[೧ ಸಾಯಣಭಾಸ್ಕ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಯೋ ವಾಮಿತಿ ಚತುರ್ದಶರ್ಚಂ ದಶಮಂ ಸೂಕ್ತಂ । ಕಕ್ಷೀವತೋ ದುಹಿತಾ ಘೋಷಾ ನಾಮ
+> ಬ್ರಹ್ಮವಾದಿ ನೃಷಿಃ । ಅಂತ್ಯಾ ತ್ರಿಷ್ಟುಪ್ । ಶಿಷ್ಟಾ ಜಗತ್ಯಃ । ಅಶ್ವಿನೌ ದೇವತಾ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ । ಯೋ ವಾಂ ಷಳೂನಾ ಕಾಕ್ಷೀವತೀ ಘೋಷಾಶ್ವಿನಂ ಹಿ ತ್ರಿಷ್ಟುಬಂತಮಿತಿ ॥ ಪ್ರಾತರನುವಾಕಾಶ್ವಿನಶಸ್ತ್ರಯೋರ್ಜಾಗತೇ ಛಂದಸೀದಮಾದೀನಿ ತ್ರೀಣಿ ಸೂಕ್ತಾನಿ । ಸೂತ್ರಿತಂ ಚ ಯೋ ವಾಂ
+> ಪರಿಜ್ಮೇತಿ ತ್ರೀಣಿ ತ್ರಿಶ್ಚಿನ್ನೋ ಆದ್ಯ । ಆ. ೪-೧೫ । ಇತಿ ।
+ಅನುವಾದವು-ಯೋ ವಾಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹತ್ತನೆಯ ಸೂಕ್ತವು.
+ಇದರಲ್ಲಿ ಹದಿನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕಕ್ಷೀವಾನ್ ಎಂಬ ಋಷಿಯ ಪುತ್ರಿಯಾದ ಘೋಷಾ
+ಎಂಬ ಬ್ರಹ್ಮವಾದಿನಿಯಾದ ಸ್ತ್ರೀಯು ಋಷಿಯು ; ಅಶ್ವಿನೀದೇವತೆಗಳು ದೇವತೆಯು ; ಈ ಸೂಕ್ತದ ಕೊನೆಯ ಋಕ್ಕು
+ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಉಳಿದ ಋಕ್ಕುಗಳು ಜಗತೀಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ ಯೋ ವಾಂ ಷಳೂನಾ
+ಕಾಕ್ಷೀವತೀ ಘೋಷಾಶ್ವಿನಂ ಹಿ ತ್ರಿಷ್ಟುಬಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕ ಮತ್ತು ಅಶ್ವಿನಶಸ್ತ್ರ
+ಮಂತ್ರಗಳಲ್ಲಿ ಜಗತೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮತ್ತು ಮುಂದಿನ ಎರಡು ಸೂಕ್ತಗಳ ವಿನಿಯೋಗ
+ವಿರುವುದೆಂದು ಅಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಯೋ ವಾಂ ಪರಿಜ್ಯೇತಿ ತ್ರೀಣಿ ತ್ರಿಶ್ಚಿನ್ನೋ ಅದ್ಯ ಎಂಬ ಸೂತ್ರ
+ದಿಂದ (ಅ. ೪-೧೫) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೩೯ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ-೩೯
+ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩ ॥ ಸೂಕ್ತ—೩೯ ॥
+ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೫, ೧೬, ೧೭ ।
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೪ ॥
+ಋಷಿಃ—ಕಾಕ್ಷೀವತಿ ಘೋಷಾ ।
+ದೇವತಾ—ಆಶ್ವಿನೌ ।
+ಛಂದಃ—೧-೧೩. ಜಗತೀ । ೧೪. ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯೋ ವಾಂ ಪರಿಜ್ಮಾ ಸುವೃದಶ್ವಿನಾ ರಥೋ ದೋಷಾಮುಷಾಸೋ ಹವ್ಯೋ
+> ಹವಿಷ್ಮತಾ ।
+> ಶಶ್ವತ್ತಮಾಸಸ್ತಮು ವಾಮಿದಂ ವಯಂ ಪಿತುರ್ನ ನಾನು ಸುಹವಂ ಹವಾಮಹೇ ॥ ೧ ॥
+
+<!-- printed 941 -->
+*[ಆ. ೬ ಆ. ೮. ಪ ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 941]*
+
+
+*ಪದಪಾಠಃ*
+
+> ಯಃ । ವಾಂ । ಪರಿಜ್ಮಾ । ಸುವೃತ್ । ಅಶ್ವಿನಾ । ರಥಃ । ದೋಷಾಂ । ಉಷಸಃ । ಹವ್ಯಃ । ಹವಿಷ್ಮತಾ ।
+> ಶಶ್ವತ್ತಮಾಸಃ । ತಂ । ಊಂ ಇತಿ । ನಾಂ । ಇದಂ । ವಯಂ । ಪಿತುಃ । ನ । ನಾಮ । ಸುಹವಂ ।
+> ಹವಾಮಹೇ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ವಾಂ ಯುವಯೋಃ ಪರಿಜ್ಮಾ ಪರಿತೋ ಗಂತಾ ಸುವೃತ್ಸುಷ್ಟು ವರ್ತಮಾನೋ
+> ಯೋ ರಥೋ ದೋಷಾಂ ರಾತ್ರಿಮುಷಸಶ್ಚ । ಅಹೋರಾತ್ರಯೋರಿತ್ಯರ್ಥಃ । ಹವಿಷ್ಮತಾ ಯಜಮಾನೇನ
+> ಹವ್ಯೋ ಹ್ವಾತವ್ಯೋ ವಾಂ ಯುವಯೋಃ ಸ್ವಭೂತಂ ಸುಹವಂ ಶೋಭನಾಹ್ವಾನಂ ತಮು ತಮೇವ
+> ರಥಂ ಶಶ್ವತ್ತಮಾಸೋಽತಿಶಯೇನ ಚಿರಂತನಾ ವಯಂ ಪಿತುರ್ನ ಯಥಾ ಪಿತುರಿದಂ ನಾಮ ತಥಾ
+> ಹವಾಮಹೇ । ಹ್ವಯಾಮಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಪರಿಜ್ಮಾ—ಸುತ್ತಲೂ ಸಂಚರಿಸತಕ್ಕದ್ದೂ । ಸುವೃತ್—
+ಉತ್ತಮವಾದ ಸ್ಥಿತಿಯುಳ್ಳದ್ದೂ । ವಾಂ—ನಿಮಗೆ ಸೇರಿದುದೂ ಆದ। ಯಃ ರಥಃ—ಯಾವ ರಥವು। ದೋಷಾಂಉಷಸಃ—ರಾತ್ರಿ ಮತ್ತು ಅಹಸ್ಸುಗಳಲ್ಲೆಲ್ಲಾ । ಹವಿಷ್ಮತಾ—ಹವಿಸ್ಸನ್ನು ಹೊಂದಿರುವ ಯಜಮಾನನಿಂದ ।
+ಹವ್ಯಃ—ಕರೆಯಲ್ಪಡುವುದೋ ಅಂತಹುದೂ । ವಾಂ—ನಿಮಗೆ ಸೇರಿದುದೂ । ಸುಹವಂ—ಉತ್ತಮವಾದ
+ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರವಾದುದೂ ಆದ । ತಮು ಇದಂ—ಅದೇ ರಥವನ್ನು । ಶಶ್ವತ್ತಮಾಸಃ—ಪುರಾತನರಾದ ನಾವು ।
+ಪಿತುಃ ನಾಮ ನ—ಪೂಜ್ಯವಾದ ಪಿತೃವಿನ ಹೆಸರನ್ನು ಆದರದಿಂದ ಕೂಗುವಂತೆ । ಹವಾಮಹೇ—ಪ್ರಾರ್ಥಿಸಿ
+ಕರೆಯುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಎಲ್ಲೆಲ್ಲೂ ಸಂಚರಿಸತಕ್ಕದ್ದೂ ಉತ್ತಮವಾದ ಸ್ಥಿತಿಯುಳ್ಳದ್ದೂ, ನಿಮಗೆ
+ಸೇರಿದುದೂ ಆದ ಯಾವ ರಥವು ಅಹೋರಾತ್ರೆಗಳಲ್ಲಿಯೂ ಯಜಮಾನನಿಂದ ಕರೆಯಲ್ಪಡುವುದೋ ಅಂತಹುದೂ,
+ನಿಮಗೆ ಸೇರಿದುದೂ ಉತ್ತಮವಾದ ಆಹ್ವಾನಕ್ಕೆ ಪಾತ್ರವಾದುದೂ ಆದ ಅದೇ ರಥವನ್ನು ಪುರಾತನರಾದ ನಾವು
+ಪೂಜ್ಯವಾದ ಪಿತೃವಿನ ಹೆಸರನ್ನು ಆದರದಿಂದ ಕೂಗುವಂತೆ ಪ್ರಾರ್ಥಿಸಿ ಕರೆಯುತ್ತೇವೆ.
+
+*English Translation.*
+
+We from very ancient times invoke, Ashwins, by a name as venerable
+as that of a father, this your glorious chariot, which travels all around,
+which turns well, and which is to be invoked morning and evening by the
+worshipper.
+
+<!-- printed 942 -->
+*[942 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+*[॥ ವಿಶೇಷವಿಸಯಗಳು ॥]*
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಶ್ವಿನೀದೇವತೆಗಳ ರಥದ ವರ್ಣನೆಯನ್ನು ನಾವು ಹಿಂದೆ ಅನೇಕ ಋಕ್ಕುಗಳಲ್ಲಿ ವಿವರಿಸಿದೇವೆ. ಅವರ
+ರಥವು ಅಲೌಕಿಕವಾದ ರಚನೆಯಿಂದಲೂ, ಸೌಂದಯ್ಯದಿಂದಲೂ ಕೂಡಿರುವುದಾಗಿ ಅನೇಕ ಕಡೆ ವರ್ಣಿತವಾಗಿದೆ.
+ಆ ನೋ ಯಾತಂ ದಿವೋ ಅಚ್ಛಾ ಪೃಥಿವ್ಯಾ ಹಿರಣ್ಯಯೇನ ಸುವೃತಾ ರಥೇನ ।
+(ಋ. ಸಂ. ೪೪-೪೪-೫)
+ಸಹಸ್ರಕೇತುಂ ವನಿನಂ ಶತದ್ವಸುಂ ಶುಷ್ಟೀವಾನಂ ವರಿವೋಧಾಮಭಿ ಪ್ರಯಃ ।
+(ಋ. ಸಂ. ೧-೧೧೯-೧)
+ತ್ರಿವಂಧುರೇಣ ತ್ರಿವೃತಾ ರಥೇನ ತ್ರಿಚಕ್ರೇಣ ಸುವೃತಾ ಯಾತಮರ್ನಾಕ್ ।
+(ಋ. ಸಂ. ೧-೧೧೮-೨)
+ಇತ್ಯಾದ್ಯನೇಕ ಋಕ್ಕುಗಳಲ್ಲಿ ಅಶ್ವಿನೀದೇವತೆಗಳ ರಥವು ಹಿರಣ್ಯನಿರ್ಮಿತವಾದುದೂ, ಸಹಸ್ರ ಧ್ವಜಗಳುಳ್ಳುದೂ
+ಮೂರು ಮೂಕೀಮರಗಳಿಂದಲೂ ಮತ್ತು ಮೂರು ಚಕ್ರಗಳಿಂದಲೂ ಅಲಂಕೃತವಾದುದೂ, ಇನ್ನೂ ನಾನಾವಿಧವಾದ
+ವೈಶಿಷ್ಟ್ಯದಿಂದ ಕೂಡಿರುವುದೂ ಆದ ಉತ್ತಮವಾದ ರಥವೆಂದು ಋಷಿಗಳು ಸ್ತೋತ್ರಮಾಡಿದ್ದಾರೆ. ಈ ಸೂಕ್ತದ
+ಪೀಠಿಕೆಯಲ್ಲಿಯೂ ಈ ರಥದ ವರ್ಣನೆ ಇರುವುದನ್ನು 934 ನೇ ಪೇಜಿನಲ್ಲಿ ನೋಡಿ.
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಚೋದಯತಂ ಸೂನೃತಾಃ ಪಿನ್ವತಂ ಧಿಯ ಉತ್ಪುರಂಧೀರೀರಯತಂ
+> ತದುಶ್ಯಸಿ ।
+> ಯಶಸಂ ಭಾಗಂ ಕೃಣುತಂ ನೋ ಅಶ್ವಿನಾ ಸೋಮಂ ನ ಚಾರುಂ ಮಘವತ್ಸು ನಸ್ಕೃತಂ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ॥ ಪವನಾಟ ॥
+> ಚೋದಯತಂ । ಸೂನೃತಾಃ । ಪಿನ್ವತಂ । ಧಿಯಃ । ಉತ್ । ಪುರಂಧೀಃ । ಈರಯತಂ । ತತ್ ।
+> ಉಶ್ಮಸಿ ।
+> ಯಶಸಂ । ಭಾಗಂ । ಕೃಣುತಂ । ನಃ । ಅಶ್ವಿನಾ । ಸೋಮಂ । ನ । ಚಾರುಂ । ಮಘವತ್ಸು । ನಃ ।
+> ಕೃತಂ ॥ ೨ ॥
+
+<!-- printed 943 -->
+*[ಆ. ೭. ಅ. ೮. ವ. (೨೫.] ಋಗ್ವೇದಸಂಹಿತಾ 943]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವಾಂ ಸೂನೃತಾ ವಾಚ ಉಷಸೋ ನಾ ಚೋದಯತಂ । ಪ್ರೇರಯತಂ
+> ಅಸ್ಮಾಕಂ ಧಿಯಃ ಕರ್ಮಾಣಿ ಚ ಪಿನ್ವತಂ । ಪೂರಯತಂ । ಪುರಂಧೀರ್ಬಹ್ವೀ ಪ್ರಜ್ಞಾಶ್ಚೋದೀರಯತಂ । ಉದ್ಗಮಯತಂ । ಪ್ರೇರಯತಂ । ಉತ್ಪಾದಯತಮಿತ್ಯರ್ಥಃ i ತದೇತತ್ರಯಮುಷ್ಮಸಿ ।
+> ವಯಂ ಕಾಮಯಾಮಹೇ । ಕಿಂಚ ನೋಽಸ್ಮಾಕಂ ಯಶಸಂ ಯಶಸ್ವಿನಂ ಭಾಗಂ ಭಜನೀಯಂ ಧನಾದಿಕಂ ಕೃಣುತಂ । ಕುರುತಂ । ಚಾರುಂ ಕಲ್ಯಾಣಂ ಸೋಮಂ ನ ಸೋಮಮಿವ ನೋಽಸ್ಮಾನ್ಮಘಘವತ್ತು
+> ಧನವತ್ಸು ಕೃತಂ । ಕುರುತಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಸೂನೃತಾಃ—ನಮ್ಮ ಸತ್ಯಾತ್ಮಕವಾದ ಸ್ತುತಿವಾಕ್ಯಗಳನ್ನು ।
+ಚೋದಯತಂ—ಪ್ರೇರಿಸಿರಿ । ಧಿಯಃ—ನಮ್ಮ ಕರ್ಮಗಳನ್ನು । ಪಿನ್ನತಂ—ಪೂರ್ಣಗೊಳಿಸಿರಿ । ಪುರಂಧೀಃ—
+ನಮ್ಮ ಅನೇಕವಿಧವಾದ ಪ್ರಜ್ಞೆಗಳನ್ನು । ಉದೀರಯತಂ—ಚೈತನ್ಯಗೊಳಿಸಿರಿ । ತತ್—ಈ ಮೂರನ್ನೂ ।
+ಉಶ್ಮಸಿ—ನಾವು ಅಪೇಕ್ಷಿಸುತ್ತೇವೆ । ನಃ—ನಮಗೆ । ಯಶಸಂ—ಯಶೋಯುಕ್ತವಾದುದೂ । ಭಾಪಂ—
+ಪೂಜ್ಯವೂ ಆದ ಧನವನ್ನು । ಕೃಣುತಂ—ಒದಗಿಸಿರಿ । ಚಾರುಂ—ಕಲ್ಯಾಣಾತ್ಮಕವಾದ । ಸೋಮಂ ನ—
+ಸೋಮದಂತೆ । ನಃ—ನಮ್ಮನ್ನು । ಮಘವತ್ತು—ಧನವಂತರ ನಡುವೆ । ಕೃತಂ—ಸ್ಥಾಪಿಸಿರಿ.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಮ್ಮ ಸತ್ಯಾತ್ಮಕವಾದ ಸ್ತುತಿವಾಕ್ಯಗಳನ್ನು ಪ್ರೇರಿಸಿರಿ. ನಮ್ಮ ಕರ್ಮಗಳನ್ನು
+ಪೂರ್ಣಗೊಳಿಸಿರಿ. ನಮ್ಮ ಅನೇಕ ವಿಧವಾದ ಪ್ರಜ್ಞೆಗಳನ್ನು ಚೈತನ್ಯಗೊಳಿಸಿರಿ. ಈ ಮೂರನ್ನೂ ನಾವು
+ಅಪೇಕ್ಷಿಸುತ್ತೇವೆ. ನಮಗೆ ಯಶೋಯುಕ್ತವಾದುದೂ, ಪೂಜ್ಯವೂ ಆದ ಧನವನ್ನು ಒದಗಿಸಿರಿ. ಕಲ್ಯಾಣಾತ್ಮಕವಾದ
+ಸೋಮದಂತೆ ನಮ್ಮನ್ನು ಧನವಂತರ ನಡುವೆ ಸ್ಥಾಪಿಸಿರಿ.
+
+*English Translation.*
+
+Stimulate, Ashwins, our words of truth, perfect (our) sacred rites,
+and inspire (our) numerous faculties; this (is what) we wish; grant us a
+glorious portion (of wealth); put us like prosperous Soma amongst the
+affluent.
+*[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಅಮಾಜುರಶ್ಚಿದ್ಭವಥೋ ಯುವಂ ಭಗೋಽನಾಶೋಶ್ವಿದವಿತಾರಾಪಮಸ್ಯ
+> ಚಿತ್ ।
+
+<!-- printed 944 -->
+*[944 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮ.ಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+> ಅಂಧಸ್ಯ ಚಿನ್ನಾಸತ್ಯಾ ಕೃಶಸ್ಯ ಚಿದ್ಯುವಾಮಿದಾಹುರ್ಭಿಷಜಾ ರುತಸ್ಯ ಚಿತ್ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಅಮಾಜುರಃ । ಚಿತ್ । ಭವಥಃ । ಯುವಂ । ಭಗಃ । ಅನಾಶೋಃ । ಚಿತ್ । ಅವಿತಾರಾ । ಅಪಮಸ್ಯ ।
+> ಚಿತ್ ।
+> ಅಂಧಸ್ಯ । ಚಿತ್ । ನಾಸತ್ಯಾ । ಕೃಶಸ್ಯ ॥ ಚಿತ್ । ಯುವಾಂ । ಇತ್ । ಆಹುಃ । ಭಿಷಜಾ । ರುತಸ್ಯ !
+> ಚಿತ್ ।
+*[। ಸಾಯಣಭಾಸ್ಕ್ಯಂ ।]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ನಾಸತ್ಯಾ ನಾಸತ್ಯೌ ಯುವಂ ಯುವಾಮಮಾಜುರಶ್ಚಿತ್ತೃಗೃಹೇ ಜೂರ್ಯಂತ್ಯಾ ಅಪಿ
+> ದುರ್ಭಗಾಯಾ ಘೋಷಾಯಾ ಭಗೋ ಭವಥಃ । ಶೋಭನರೂಪೇಣಾತ್ಮಾನಂ ಪರಿಣಮಯ್ಯ ಪತಿಂ
+> ದತ್ತವಂತೌ ಸ್ಥ ಇತ್ಯರ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಘೋಷಾಯೈ ಚಿತ್ಪಿತೃಷದೇ ದುರೋಣೇ
+> ಪತಿಂ ಜೂರ್ಯಂತ್ಯಾ ಅಶ್ವಿನಾವದತ್ತಂ । ಋ. ೧-೧೧೭-೭ । ಇತಿ । ಅನಾಶೋಶ್ಚಿದನಶನಸ್ಯಾಪ್ಯವಿತಾರಾ
+> ರಕ್ಷಿತಾರೌ ಯುವಾಂ ಭವಥಃ । ಅಪಮಸ್ಯ ಚಿಜ್ಜಾತ್ಯಾತಿನಿಕೃಷ್ಟಸ್ಯಾಪಿ ರಕ್ಷಿತಾರೌ ಭವಥಃ । ಅಂಧಸ್ಯ
+> ಚಿಚ್ಚಕ್ಷುರ್ವಿಕಲಸ್ಯಾಪಿ ರಕ್ಷಿತಾರೌ ಭವಥಃ । ಕೃಶಸ್ಯ ಚಿದ್ದುರ್ಬಲಸ್ಯಾಪಿ ರಕ್ಷಿತಾರೌ ಭವಥಃ । ಕಿಂಚ
+> ಯುವಾಮಿದ್ಯುವಾಮೇವರ್ತಸ್ಯ ಚಿದ್ಯಜ್ಞಸ್ಯಾಪಿ ಭಿಷಜೌ ವೈದ್ಯಾವಾಹುರ್ವಿದ್ವಾಂಸಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ನಾಸತ್ಯಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯುವಂ—ನೀವು । ಅಮಾಜುರಶ್ಚಿತ್—ವಿವಾಹವಿಲ್ಲದೇ
+ತಂದೆಯ ಮನೆಯಲ್ಲಿಯೇ ಬೆಳೆಯುತ್ತಿದ್ದ ಸ್ತ್ರೀಗೂ ಸಹ । ಭಗಃ—ಕಲ್ಯಾಣಾತ್ಮಕವಾದ ಪತಿಪ್ರದರಾಗಿ । ಭವತಃ—
+ಆದಿರಿ । ಅನಾಶೋಶ್ಚಿತ್—ಅನ್ನವಿಲ್ಲದವನಿಗೂ । ಅವಿತಾರಾ—ರಕ್ಷಕರಾಗಿದ್ದೀರಿ । ಅಪಮಸ್ಯ ಚಿತ್—
+ಕೆಳದರ್ಜೆಯ ಪುರುಷನನ್ನು ರಕ್ಷಿಸಿದಿರಿ । ಅಂಧಸ್ಯ ಚಿತ್—ಕುರುಡನನ್ನು ರಕ್ಷಿಸಿದಿರಿ । ಕೃಶಸ್ಯ ಚಿತ್—ದುರ್ಬಲ
+ನನ್ನು ರಕ್ಷಿಸಿದಿರಿ । ಯುವಾಂ ಇತ್—ನಿಮ್ಮನ್ನೇ । ಋತಸ್ಯ ಚಿತ್—ಯಜ್ಞಕ್ಕೂ ಸಹ । ಭಿಷಜೌ—ವೈದ್ಯರೆಂ
+ಬುದಾಗಿ । ಆಹುಃ—ತಿಳಿದವರು ಹೇಳುತ್ತಾರೆ.
+*[॥ ಧ್ಯಾನಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀವೇತೆಗಳೇ, ವಿವಾಹವಿಲ್ಲದೆ ತಂದೆಯ ಮನೆಯಲ್ಲಿಯೇ ವಾರ್ಧಕ್ಯವನ್ನು ಹೊಂದುತ್ತಿದ್ದ
+ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಗೆ ಪತಿಯನ್ನೊದಗಿಸಿದಿರಿ. ಅನ್ನವಿಲ್ಲದವನಿಗೂ, ಕೆಳಜಾತಿಗೆ ಸೇರಿದವನಿಗೂ, ಕುರುಡನಿಗೂ,
+ದುರ್ಬಲನಿಗೂ ನೀವೇ ರಕ್ಷಕರಾಗಿದ್ದೀರಿ. ಯಜ್ಞಕ್ಕೂ ನೀವೇ ವೈದ್ಯರೆಂದು ತಿಳಿದವರು ಹೇಳುತ್ತಾರೆ.
+
+<!-- printed 945 -->
+*[ಅ. ೭ ಅ. ೮. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ 945]*
+
+
+*English Translation.*
+
+You, Nasatyas, are the good fortune of a damsel growing old in
+(her father's) mansion ; the preservers of the famishing, (the protectors) of
+the abject, of the blind, of the feeble, they call you the physicians of the
+sacrifice.
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ಚ್ಯವಾನಂ ಸನಯಂ ಯಥಾ ರಥಂ ಪುನರ್ಯುವಾನಂ ಚರಥಾಯ
+> ತಕ್ಷಥುಃ ।
+> ನಿಷ್ಟೌಗ್ರಮೂಹಥುರದ್ಭ್ಯಸ್ಪರಿ ವಿಶ್ವೇತ್ತಾ ವಾಂ ಸವನೇಷು ಪ್ರವಾಚ್ಯಾ ॥ ೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ಚ್ಯವಾನಂ । ಸನಯಂ । ಯಥಾ । ರಥಂ । ಪುನಃ । ಯುವಾನಂ । ಚರಥಾಯ । ತಕ್ಷಥುಃ ।
+> ನಿಃ । ತೌಗ್ರಂ । ಊಹಥುಃ । ಅತ್ಭ್ಯಃ । ಪರಿ । ವಿಶ್ವಾ । ಇತ್ । ತಾ । ವಾಂ । ಸವನೇಷು ।
+> ಪ್ರವಾಚ್ಯಾ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ಯುವಂ ಯುವಾಂ ಸನಯಂ ಪುರಾಣಂ ಚ್ಯವಾನಮೃಷಿಂ ಯಥಾ ರಥಂ ಜೀರ್ಣ೦
+> ರಥಮಿವ ಪುನರ್ಯುವಾನಂ ತರುಣಂ ಚರಥಾಯ ಚರಣಾರ್ಥಂ ತಕ್ಷಥುಃ । ತತಕ್ಷಥುಃ । ಅಕುರುತಮಿತ್ಯರ್ಥಃ । ತಥಾ ಚ ಯಾಸ್ಕಃ । ಯುವಂ ಚ್ಯವಾನಂ ಸನಯಂ ಪುರಾಣಂ ಯಥಾ ರಥಂ ಪುನರ್ಯುವಾನಂ ಚರಣಾಯ ತತಕ್ಷಥುರ್ಯುವಾ ಪ್ರಯೌತಿ ಕರ್ಮಾಣಿ ತಕ್ಷತಿಃ ಕರೋತಿಕರ್ಮಾ । ನಿ. ೪-೧೯ ।
+> ಇತಿ । ಕಿಂಚ ಯುವಾಂ ತೌಗ್ರಂ ತುಗ್ರಪುತ್ರಂ ಭುಜ್ಯುಮದ್ಭ್ಯಃ ಪರಿ ಸಮುದ್ರಸ್ಯೋಪರಿ ನಿರೂಹಥುಃ ।
+> ಕಿಂಚ ವಾಂ ಯುವಯೋರ್ವಿಶ್ವಾ ವಿಶ್ವಾನಿ ತಾ ತಾನಿ ಕರ್ಮಾಣಿ ಸವನೇಷು ಯಜ್ಞೇಷು ಪ್ರವಾಚ್ಯಾ
+> ಪ್ರವಾಚ್ಯಾನಿ ಪ್ರಕರ್ಷೇಣ ವಕ್ತವ್ಯಾನಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ) ಯುವಂ—ನೀವು । ಯಥಾ ರಥಂ—ಜೀರ್ಣವಾದ ರಥವನ್ನು ಹೊಸದಾಗಿ
+ಮಾಡುವಂತೆ । ಸನಯಂ—ವೃದ್ಧನಾದ । ಚ್ಯವಾನಂ—ಚ್ಯವಾನನೆಂಬ ಋಷಿಯನ್ನು । ಚರಥಾಯ—ಅವನಿಗೆ
+ಸಂಚರಿಸಲು ಅನುಕೂಲವಾಗುವಂತೆ । ಪುನಃ—ತಿರುಗಿಯೂ । ಯುವಾನಂ—ಯುವಕನಾಗುವಂತೆ । ತಕ್ಷಥುಃ—
+xxvii 60
+
+<!-- printed 946 -->
+*[946 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+ಮಾಡಿದಿರಿ । ತೌಗ್ರ್ಯಂ—ತುಗ್ರಪುತ್ರನನ್ನು । ಅದ್ಭ್ಯಃ ಪರಿ—ಉದಕದಿಂದ ಹೊರಕ್ಕೆ । ನಿರೂಹಥುಃ—ತೆಗೆದಿರಿ ।
+ವಾಂ—ನಿಮ್ಮ । ತಾ ವಿಶ್ವಾ ಇತ್—ಈ ಎಲ್ಲಾ ಅಸಾಧಾರಣಕಾರ್ಯಗಳೂ । ಸವನೇಷು—ಯಜ್ಞಕಾಲಗಳಲ್ಲಿ ।
+ಪ್ರವಾಚ್ಯಾ—ಉತ್ತಮವಾಗಿ ಪ್ರಶಂಸಿಸಲ್ಪಡಬೇಕಾಗಿವೆ.
+*[॥ ಭಾನುವಾರ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಜೀರ್ಣವಾದ ರಥವನ್ನು ಹೊಸದಾಗಿ ಮಾಡುವಂತೆ ನೀವು ವೃದ್ಧನಾದ
+ಚ್ಯವಾನನೆಂಬ ಋಷಿಯನ್ನು ಅವನಿಗೆ ಸಂಚರಿಸಲು ಅನುಕೂಲವಾಗುವಂತೆ ತಿರುಗಿಯೂ ಅವನನ್ನು ಯುವಕನಾಗುವಂತೆ
+ಮಾಡಿದಿರಿ. ತುಗ್ರಪುತ್ರನನ್ನು ಉದಕದಿಂದ ಹೊರಕ್ಕೆ ತೆಗೆದಿರಿ. ನಿಮ್ಮ ಈ ಎಲ್ಲ ಅಸಾಧಾರಣಕಾರ್ಯಗಳೂ ಯಜ್ಞ
+ಕಾಲಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಪ್ರಶಂಸಿಸಲ್ಪಡಬೇಕಾಗಿವೆ.
+
+*English Translation.*
+
+You made the aged Chyavana, when like worn-out chariot, again young and able to go : you bore the son of Tugra above the waters; all these your (exploits) are to be celebrated at our sacrifices.
+*[॥ ವಿಶೇಷವಿವಯಗಳು ॥]*
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಚ್ಯವನನೆಂಬ ಋಷಿಯು ಮುದುಕನಾಗಿದ್ದನು. ಅವನ ಶರೀರವು ನರೆತಕೂದಲು ಮತ್ತು ಸುಕ್ಕುಹಿಡಿದಿರುವ
+ಶರೀರ ಇವೇ ಮೊದಲಾದ ಮುಪ್ಪಿನ ಲಕ್ಷಣದಿಂದ ತುಂಬಿತ್ತು. ಇದರಿಂದ ಈ ಋಷಿಯ ಪುತ್ರರೇ ಮೊದಲಾದವರು
+ಇವನನ್ನು ತ್ಯಾಗಮಾಡಿದ್ದರು. ಆಗ ಚ್ಯವನಋಷಿಯು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತೋತ್ರಮಾಡಿ ಅವರನ್ನು ಮೆಚ್ಚಿಸಿ
+ಅವರಿಂದ ತನ್ನ ಮುಪ್ಪನ್ನು ಕಳೆದುಕೊಂಡು ಯೌವನವನ್ನು ಹೊಂದಿದನು ಎಂದು ಇತಿಹಾಸವು ಇಲ್ಲಿ ಈ ಋಕ್ಕಿನಿಂದ
+ಹೇಳಲ್ಪಟ್ಟಿರುತ್ತದೆ. ಸ್ಕಂದಸ್ವಾಮಿಗಳು ಈ ಇತಿಹಾಸವನ್ನು ಬೇರೆಯ ವಿಧವಾಗಿ ಹೇಳಿರುವರು. ಈ ಇತಿಹಾಸವು
+ಶತಪಥಬ್ರಾಹ್ಮಣದಲ್ಲಿ ದೃಷ್ಟವಾಗಿರುವುದು.
+ಅತ್ರ ಶತಪಥೇ—(ಶ. ಬ್ರಾ. ೪-೧-೫) ಅಧೀತಮಿತಿಹಾಸಮಾಚಕ್ಷತೇ । ಶರ್ಯಾತೋ ನಾಮ
+ರಾಜಾ ಸಂಕ್ರೀಡದ್ಭಿಃ ಕೃತಾಪರಾಧಾಯ ಕುಪಿತಾಯ ಜೀರ್ಣಾಯ ಚ್ಯವನಾಯ ಪ್ರ
+ತ್ಯಾಪತ್ತ್ಯರ್ಥಂ ಸುಕನ್ಯಾಂ ನಾಮ ಕನ್ಯಕಾಂ ದುಹಿತರಂ ದದೌ । ತಾಂ ತತ್ರಾಸೀನಾಂ ದೃಷ್ಟ್ವಾ
+ಅಶ್ವಿನೌ ಪುನಃ ಪುನರೂಚತುಃ । ಕಿಂ ಕಿಂ ಜೀರ್ಣೀಕೃತರೂಪಂ ಕಾಮಯಸೇ । ಆವಾಂ
+ಸಂಭಜೇತಿ । ಸಾ ತೌ ಪ್ರತ್ಯುವಾಚ । ಯಸ್ಮೈ ಮಾಂ ಪಿತಾ ಅದಾತ್ ನಾಹಂ ತಂ ಜೀವಂತಂ
+ಹಾಸ್ಯಾಮೀತಿ । ತದೃಷಿರ್ಜ್ಞಾತ್ವಾ ಸುಕನ್ಯಾಮುವಾಚ । ಯದಿ ತ್ವಾಮೇತಾ ಪುನರೇವಂ
+ಬ್ರೂಯಾತಾಂ ತತಸ್ತ್ವಮೇನೌ ಪ್ರತಿಬ್ರೂಯಾಃ । ಅಸರ್ವೌ ವಸುಸಮೃದ್ಧೌ ಸಂತೌ ಪತಿಂ
+ಮೇ ನಿಂದಥ ಇತಿ । ತೌ ಯದಿ ತ್ವಾಂ ಪ್ರತಿ ಬ್ರೂಯಾತಾಂ ಕೇನಾಸರ್ವೌ ವಸುಸಮೃದ್ಧೌ
+ಚೇತಿ ತತ ಏನೌ ಪ್ರತಿಬ್ರೂಯಾಃ ಪತಿಂ ಮೇ ಪುನಃ ಯುವಾನಂ ಕುರುತಂ । ಅಥ ವಾ
+ವಕ್ಷ್ಯಾಮೀತಿ । ಸಾ ತೌ ತಥೋವಾ ಚ । ತಾಮಶ್ವಿನ್ ಪ್ರತ್ಯೂಚತುಃ । ಏತಂ ಹ್ರದಮವತರತು
+
+<!-- printed 947 -->
+*[ಆ. ೭. ಆ. ೮. ವ. ೧೫.] ಋಗ್ವೇದಸಂಹಿತಾ 947]*
+
+ಅತೋ ಯತ್ ಕಾಮಯತೇ ತೇನ ವಯಸಾ ಯುಕ್ತ ಉತ್ತರಿಷ್ಯತೀತಿ । ಸ ಋಷಿಸ್ತಂ
+ಹ್ರದಮವತೀಯೋತ್ತತಾರ ಯುವಾಭೂತ್ವೇತಿ । ತದೇತದಿತಿಹಾಸೇನೊಚ್ಯತೇ ಜುಜುರುಷೋ ನಾಸತ್ಯೇತ್ಯಾದಿನಾ । (ಶ. ಬ್ರಾ ೪-೧-೫)
+ಶರ್ಯಾತಿ ಎಂಬ ರಾಜನು ತನ್ನ ಪುತ್ರಿಯರು ಆಟವಾಡುತ್ತಿರುವಾಗ ಮುದಕನಾದ ಚ್ಯವನಋಷಿಗೆ ಸುಕನ್ಯಾ ಎಂಬ
+ತನ್ನ ಪುತ್ರಿಯು ಅಪರಾಧಮಾಡಿದ್ದರಿಂದ ಅವಳನ್ನು ಅವನಿಗೇ ಕೊಟ್ಟು ವಿವಾಹಮಾಡಿದನು ಆ ಸುಕನೈಯು ಚ್ಯವನ
+ಋಷಿಯ ಆಶ್ರಮದಲ್ಲಿದ್ದಾಗ ಅಲ್ಲಿಗೆ ಅಶ್ವಿನೀದೇವತೆಗಳು ಬಂದು ನೀನು (ಈ ಮದುಕನನ್ನು) ಈ ಮುದಿ
+ಗಂಡನನ್ನು ತ್ಯಜಿಸಿ ನಮ್ಮನ್ನು ವಿವಾಹಮಾಡಿಕೊ ಎಂದು ಅನೇಕಸಾರಿ ಹೇಳಲು ಅದಕ್ಕೆ ಅವಳು-ನಮ್ಮ ತಂದೆಯು
+ನನ್ನನ್ನು ಈ ಋಷಿಗೆ ದಾನಮಾಡಿದನು. ನನ್ನನ್ನು ಮದುವೆಯಾದವನು ಜೀವಂತನಾಗಿರುವವರಿಗೂ ಅವನನ್ನು
+ನಾನು ತ್ಯಾಗಮಾಡುವುದಿಲ್ಲವೆಂದು ಹೇಳಿದಳು. ಅದನ್ನು ಚ್ಯವನಋಷಿಯು ಕೇಳಿ ಇವರು ನಿನ್ನನ್ನು ಪುನಃ ಹೀಗೆ
+ಪ್ರಶ್ನೆ ಮಾಡಿದಾಗ ನೀವು ಸರ್ವಸಂಪತ್ಸಮೃದ್ಧರಾಗಿದ್ದರೂ ನನ್ನ ಪತಿಯನ್ನು ನಿಂದಿಸಲು ಕಾರಣವೇನು ಎಂದು
+ಪ್ರಶ್ನೆ ಮಾಡು ಅದಕ್ಕೆ ಅವರು ಉತ್ತರವಾಗಿ ನಾವು ಧನಸಮೃದ್ಧರಾಗಿ ಹೇಗೆ ಇದ್ದೇವೆ ಎಂದು ನಿನ್ನನ್ನು ಕೇಳುವರು.
+ಆಗ ನನ್ನ ಪತಿಗೆ ಯೌವನವನ್ನು ಕೊಡಿರಿ ಅನಂತರ ನಾನು ನಿಮಗೆ ಉತ್ತರವನ್ನು ಹೇಳುವೆನು ಎಂದು ಅವರಿಗೆ
+ಹೇಳುವಂತೆ ಚ್ಯವನ ಋಷಿಯು ಹೇಳಿಕೊಟ್ಟನು. ಸುಕನೈಯು ಅಶ್ವಿನೀದೇವತೆಗಳ ಸಂಗಡ ಚ್ಯವನಋಷಿಯು
+ಹೇಳಿದ ಹಾಗೆ ಮಾತನಾಡಿದಳು. ಅವಳ ಮಾತನ್ನು ಕೇಳಿ ನಿನ್ನ ಪತಿಯು ಈ ಮಡುವಿನಲ್ಲಿ ಇಳಿದು ಸ್ನಾನಮಾಡಿದರೆ
+ನಿನ್ನ ಇಷ್ಟವು ಸಿದ್ಧಿಸುವುದು. ನಿನ್ನ ಪತಿಯು ಯೌವನವುಳ್ಳವನಾಗುವನು ಎಂದು ಅಶ್ವಿನಿದೇವತೆಗಳು ಹೇಳಿದ
+ಮಾತನ್ನು ಕೇಳಿ ಅವರು ಹೇಳಿದ ಮಡುವಿನಲ್ಲಿ ಸ್ನಾನಮಾದಿ ಯುವಕನಾಗಿ ಮೇಲಕ್ಕೆ ಬಂದನು. ಈ ಇತಿಹಾಸವು
+ಜುಜುರುಷೋ ನಾಸತ್ಯೇತ್ಯಾದಿನಾ ಎಂಬ ಋಕ್ಕಿನಿಂದ ಉಕ್ತವಾಗಿರುವುದು. ಮುದುಕನಾಗಿದ್ದ ಚ್ಯವನಋಷಿ
+ಯನ್ನು ಅಶ್ವಿನೀದೇವತೆಗಳು ಯೌವನವಂತನನ್ನಾಗಿ ಮಾಡಿದ ವಿಷಯವು ಋಗ್ವೇದದಲ್ಲಿ ಅನೇಕ ಕಡೆ ವಿವರಿಸ
+ಲ್ಪಟ್ಟಿರುವುದು—
+ಯುವಂ ಚ್ಯವಾನಂ ಜರಸೋಽಮುಮುಕ್ತಂ ನಿ ಪೇದವ ಊಹಥುರಾಶುಮಶ್ವಂ ।
+(ಋ. ಸಂ. ೭-೩೧-೫)
+ಪ್ರ ಚ್ಯವಾನಾಜ್ಜು ಜುರುಷೋ ವತ್ರಿಮತ್ಕಂ ನ ಮುಂಚಥಃ ।
+(ಋ. ಸಂ. ೫-೨೪-೫)
+ನಿಷ್ಟೌಗ್ರಂ ಪಾರಯಥಃ ಸಮುದ್ರಾತ್ಪುನಶ್ಚವಾನಂ ಚಕ್ರಥುರ್ಯುವಾನಂ ।
+(ಋ. ಸಂ. ೧-೧೧೮-೬)
+ಯುವಂ ಚ್ಯವಾನಂ ಸನಯಂ ಯಥಾ ರಥಂ ಪುನರ್ಯುವಾನಂ ಚರಥಾಯ ತಕ್ಷಥುಃ ।
+(ಋ. ಸಂ. ೧೦-೩೯-೪)
+ಈ ಋಕ್ಕುಗಳಲ್ಲಿಯೂ, ಋ. ಸಂ. ೫-೭೪-೫; ೭-೬೨.೬ ಮೊದಲಾದ ಅನೇಕ ಋಕ್ಕುಗಳಲ್ಲಿಯೂ ಈ ವಿಷಯವು
+ಪ್ರಸ್ತಾಪಿಸಲ್ಪಟ್ಟಿರುವುದು.
+
+<!-- printed 948 -->
+*[948 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೯.]*
+
+ತೌಗ್ರ್ಯಂ—ತುಗ್ರನೆಂಬ ರಾಜನ ಪುತ್ರನನ್ನು ತೌಗ್ರ್ಯನೆಂದು ಇಲ್ಲಿ ಕರೆಯಲಾಗಿದೆ ಇವನ ಹೆಸರು ಭುಜ್ಯು
+ವೆಂದು. ಇವನು ಸಮುದ್ರಯಾನಮಾಡುತ್ತಿರುವಾಗ ಸಮುದ್ರ ಮಧ್ಯದಲ್ಲಿ ಅಲೆಗಳ ಹೊಡೆತದಿಂದ ಮುಳುಗಿ
+ಹೋಗುತ್ತಿರುವಾಗ ಇವನು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಲು ಅವರು ಇವನನ್ನು ಸಂರಕ್ಷಿಸಿದರೆಂದು ಋಗ್ವೇದದ
+ಅನೇಕ ಋಕ್ಕುಗಳಲ್ಲಿ ವರ್ಣಿತವಾಗಿದೆ.
+ತುಗ್ರಪುತ್ರನಾದ ಭುಜ್ಯುವು ಶತ್ರುಗಳಿಂದ ಹಿಂಸಿತನಾಗಿ ಸಮುದ್ರಕ್ಕೆ ಎಸೆಯಲ್ಪಟ್ಟಾಗ ನಿಮ್ಮನ್ನು ಸ್ತುತಿಸಿ
+ತೃಪ್ತಿಪಡಿಸಿ ತನ್ನ ಸಹಾಯಕ್ಕೆ ಕರೆದುಕೊಂಡಂತೆ ಎಂದು ಋ. ಸಂ. ೧-೧೮೦-೫ ರಲ್ಲಿ ಸೂಚಿಸಿದ್ದಾರೆ.
+ತೌಗ್ರ್ಯನೆಂಬ ದೊರೆಯನ್ನು ಒಂದುಸಲ ಶತ್ರುಗಳು ಸೋಲಿಸಿ ಅವನ ಕೈಕಾಲುಗಳನ್ನು ಕಟ್ಟಿ ಸಮುದ್ರ ಮಧ್ಯ
+ದಲ್ಲಿ ಎಸೆದುಬಿಟ್ಟರು. ಅವನು ಸಮುದ್ರವನ್ನು ದಾಟಲಾರದೆ ಸಹಾಯಕ್ಕಾಗಿ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಿದನು.
+ಒಡನೆಯೇ ಅವರು ತಮ್ಮ ರಥಕ್ಕೆ ಅಶ್ವಗಳನ್ನು ಕಟ್ಟಿ ಸಮುದ್ರದಲ್ಲಿಳಿಸಿ ಅವನನ್ನು ದಡಕ್ಕೆ ಸೇರಿಸಿದರು ಎಂದು
+ಸಾಯಣರು ಪೂರ್ವಕಥೆಯನ್ನು ದಾಹರಿಸಿದ್ದಾರೆ ಈ ತುಗ್ರಪುತ್ರನೇ ಭುಜ್ಯು ಎಂಬ ಹೆಸರಿನಿಂದ ಪ್ರಸಿದ್ಧನಾಗಿದ್ದಾನೆ
+ಮತ್ತು ಅನೇಕ ಕಡೆಗಳಲ್ಲಿ ಇವನ ಕಥೆಯು ವರ್ಣಿತವಾಗಿದೆ
+ಸಮುದ್ರದಲ್ಲಿ ಮುಳುಗಿದ್ದ ಇದೇ ತುಗ್ರಪುತ್ರನನ್ನು ಅಶ್ವಿನೀದೇವತೆಗಳು ರಕ್ಷಿಸಿದುದನ್ನು ದೀರ್ಘತಮಸ್ಸಿನ
+ಪುತ್ರನಾದ ಕಕ್ಷೀವಂತನು ಋ. ಸಂ. ೧-೧೧೬. ಮತ್ತು ೧-೧೧೭ನೇ ಸೂಕ್ತಗಳಲ್ಲಿಯೂ, ಅಗಸ್ತ್ಯ ಮೈತ್ರಾವರುಣಿಯು
+೧.೧೮೨ ನೇ ಸೂಕ್ತದಲ್ಲಿಯೂ, ಕಣ್ವಗೋತ್ರದ ಬ್ರಹ್ಮಾತಿಥಿಯು ೮.೫ ನೇ ಸೂಕ್ತದಲ್ಲಿಯೂ ; ಕಕ್ಷೀವಂತನ ಪುತ್ರಿಯಾದ
+ಘೋಷೆಯು ೧೦-೩೯ ರಲ್ಲೂ ವರ್ಣಿಸಿದ್ದಾರೆ. ೧-೧೮೨ನೇ ಸೂಕ್ತದಲ್ಲಿ ಇವರು ದೋಣಿಗಳನ್ನು ಕಳುಹಿಸಿದುದೂ
+ತುಗ್ರಪುತ್ರನ ಆಶಾಪೂರಿತನಾಗಿ ಆ ದೋಣಿಗಳನ್ನು ಅಪ್ಪಿಕೊಂಡು ಅವರ ಅನುಗ್ರಹದಿಂದ ರಕ್ಷಿತನಾದುದೂ ಸಹ
+ಕೆಳಗೆ ಕಂಡಂತೆ ವರ್ಣಿತವಾಗಿದೆ
+ಯುವಮೇತಂ ಚಕ್ರಥುಃ ಸಿಂಧುಷು ಪ್ಲವಮಾತ್ಮನಂತಂ ದಕ್ಷಿಣಂ ತೌಗ್ರಾಯ ಕಂ ।
+ಯೇನ ದೇವತ್ರಾ ಮನಸಾ ನಿರೂಹಥುಃ ಸುಪಪ್ತನೀ ಪೇತಥುಃ ಕ್ಷೋದಸೋ ಮಹಃ ॥
+ಅವವಿದ್ಧಂ ತೌಗ್ರಮಪ್ಪನ್ತರನಾರಂಭಣೇ ತಮಸಿ ಪ್ರವಿದ್ಧಂ ।
+ಚತಸ್ರೋ ನಾವೋ ಜಠಲಸ್ಯ ಜುಷ್ಟಾ ಉದಶ್ವಿಭ್ಯಾಮಿಷಿತಾಃ ಪಾರಯಂತಿ ।
+ಕಃ ಸ್ವಿದೃಕ್ಷೋ ನಿಷ್ಠಿತೋ ಮಧ್ಯೆ ಅರ್ಣಸೋ ಯಂ ತೌಗ್ರೋ ನಾಧಿತಃ ಪರ್ಯಷಸ್ವಜತ್ ॥
+ಪರ್ಣಾ ಮೃಗಸ್ಯ ಪತರೋರಿವಾರಭ ಉದಶ್ವಿನಾ ಊಹಥುಃ ಶ್ರೋಮತಾಯ ಕಂ ॥
+(ಮು. ಸಂ. ೧-೧೮೨-೫ರಿಂದ ೭)
+ಎಲೈ ಅಶ್ವಿನೀ ದೇವತೆಗಳೇ, ತುಗ್ರಪುತ್ರನಾದ ಭುಜ್ಯವಿಗಾಗಿ ನೀವು ಸಚೇತನವಾದುದೂ ರೆಕ್ಕೆಗಳಿಂದ
+ಕೂಡಿದುದೂ ಆದ ಈ ದೋಣಿಯನ್ನು ನಿರ್ಮಿಸಿದಿರಿ. ಅಗಾಧವಾದುದೂ, ಅಂಧಕಾರಾವೃತವಾದುದೂ, ಆದ ಸಮುದ್ರ
+ದಲ್ಲಿ ಬಿದ್ದು ಮುಳುಗುತ್ತಿದ್ದ ತುಗ್ರಪುತ್ರನಿಗಾಗಿ ನಾಲ್ಕುದೋಣಿಗಳನ್ನು ಕಳುಹಿದಿರಿ. ಹಾರುವ ಪಕ್ಷಿಗಳಿಗೆ ಅಂತರಿಕ್ಷ
+ದಲ್ಲಿ ಅವಲಂಬನವಾಗಿರುವ ರೆಕ್ಕೆಗಳಂತೆ ಸಮುದ್ರದಲ್ಲಿ ಮುಳುಗುತ್ತಿದ್ದ ಭುಜ್ಯುವಿಗೆ ಅವಲಂಬನವಾದುದೂ ಮತ್ತು
+ರಕ್ಷಕವಾದುದೂ ಆದ ದೋಣಿಯ ಅವಯವಗಳನ್ನು ಯಾವ ವೃಕ್ಷದಿಂದ ನಿರ್ಮಿಸಿದಿರಿ ಎಂದು ಶ್ಲಾಘಿಸಿದೆ. ಅದೇ
+ಅಂಶವನ್ನು ಪ್ರಕೃತವಾದ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಸೂಚಿಸಿದೆ.
+
+<!-- printed 949 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿರಾ 949]*
+
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪುರಾಣಾ ವಾಂ ವೀರ್ಯಾ ೩ ಪ್ರ ಬ್ರವಾ ಜನೇಽಥೋ ಹಾಸಥುರ್ಭಿಷಜಾ
+> ಮಯೋಭುವಾ ।
+> ತಾ ವಾಂ ನು ನವ್ಯಾವವಸೇ ಕರಾಮಹೇಯಂ ನಾಸತ್ಯಾ ಶ್ರದರಿರ್ಯಥಾ
+> ದಧತ್ ॥ ೫ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪುರಾಣಾ । ವಾಂ । ವೀರ್ಯಾ । ಪ್ರ । ಬ್ರವ । ಜನೇ । ಅಥೋ ಇತಿ । ಹ । ಆಸಥುಃ । ಭಿಷಜಾ ।
+> ಮಯಃಽಭುವಾ !
+> ತಾ । ವಾಂ । ನು । ನವೌ । ಅವಸೇ । ಕರಾಮಹೇ । ಅಯಂ । ನಾಸತ್ಯಾ । ಶ್ರತ್ । ಅರಿಃ । ಯಥಾ ।
+> ದಧತ್ ॥ ೫ ॥
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ವಾಂ ಯುವಯೋಃ ಪುರಾಣಾ ಪುರಾಣಾನಿ ವೀರ್ಯಾಣಿ ಜನೇ ಲೋಕೇ ಪ್ರ
+> ಬ್ರವ । ಪ್ರಬ್ರವೀಮಿ । ಅಥೋ ಅಪಿ ಚ ಹೇ ನಾಸತ್ಯಾ ನಾಸತ್ಯಾ ಯುವಾಂ ಮಯೋಭುವಾ ಸುಖಸ್ಯ
+> ಭಾವಯಿತಾರೌ ಭಿಷಜಾ ಭಿಷಜೌ ವೈದ್ಯಾವಾಸಥುಃ । ಬಭೂವಥುಃ । ತಾ ತೌ ಯುವಾಮವಸೇ
+> ರಕ್ಷಣಾಯ ನವ್ಯೌ ಸ್ತುತ್ಯೌ ಕರಾಮಹೇ । ಕುರ್ಮಃ । ಅಯಮರಿರ್ಗಂತಾ ಪತಿರ್ಯಜಮಾನೋ ಯಥಾ
+> ಶ್ರದ್ದಧತ್ । ಶ್ರದ್ದಧ್ಯಾದಿತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ನಾಸತ್ಯಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । (ಯುವಾಂ—ನೀವು) । ಮಯೋಭುವಾ—ಸುಖಪ್ರದರಾದ ।
+ಭಿಷಜಾ-ವೈದ್ಯರಾಗಿ । ಆಸಥುಃ—ಆಗಿದ್ದೀರಿ । ಅಥೋ—ಆದುದರಿಂದ । ವಾಂ—ನಿಮ್ಮ । ಪುರಾಣಾ ವೀರ್ಯಾಪ್ರಾಚೀನವಾದ ವೀರ್ಯಕರ್ಮಗಳನ್ನು । ಜನೇ—ಲೋಕದಲ್ಲಿ । ಪ್ರ ಬ್ರವ—ಪ್ರಶಂಸಿಸಿ ಹೊಗಳುತ್ತೇನೆ । ಯಥಾ—
+ಯಾವ ರೀತಿ । ಅಯಂ ಅರಿಃ—ಈಯಜಮಾನನು । ಶ್ರದ್ಧಧತ್—ಶ್ರದ್ಧೆಯನ್ನು ಇಡುವನೋ ಹಾಗೆ । ತಾ
+ವಾಂ—ನಿಮ್ಮಿಬ್ಬರನ್ನೂ । ಅವಸೇ—ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ । ನವ್ಯಾ—ಪ್ರಶಂಸನೀಯರನ್ನಾಗಿ । ಕರಾಮಹೇ—
+ಮಾಡುತ್ತೇವೆ.
+
+<!-- printed 950 -->
+*[950 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಾವು ಸುಖಪ್ರದರಾದ ವೈದ್ಯರಾಗಿ ಇದ್ದೀರಿ. ಆದುದರಿಂದ ನಿಮ್ಮ ಪ್ರಾಚೀನ
+ವಾದ ವೀರ್ಯಕರ್ಮಗಳನ್ನು ಲೋಕದಲ್ಲಿ ಪ್ರಶಂಸಿಸಿ ಹೊಗಳುತ್ತೇನೆ. ಯಾವ ರೀತಿ ಈ ಯಜಮಾನನು ನಿಮ್ಮಲ್ಲಿ
+ಶ್ರದ್ಧೆಯನ್ನಿಡುವನೋ ಆ ರೀತಿ ನಿಮ್ಮಿಬ್ಬರನ್ನೂ ನಮ್ಮ ರಕ್ಷಣಾರ್ಥವಾಗಿ ಪ್ರಶಂಸಾರ್ಹರನ್ನಾಗಿ ಮಾಡುತ್ತೇವೆ.
+
+*English Translation.*
+
+I proclaim, Ashwins, your ancient exploits among the people, for you were the physicians, the bestowers of felicity : we count you two worthy to be praised for (our) preservation : so that this worshipper, Nasatyas, may believe (in you).
+*[॥ ವಿಶೇಷನಿಸಯಗಳು ॥]*
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಅಶ್ವಿನೀದೇವತೆಗಳು ದೇವತೆಗಳ ವೈದ್ಯರೆಂದು ಅನೇಕಕಡೆ ವರ್ಣಿತವಾಗಿದೆ. ಇವರು ವೃದ್ಧನಾಗಿದ್ದ
+ಚ್ಯವನಋಷಿಯನ್ನು ಯುವಕನನ್ನಾಗಿ ಮಾಡಿದ ವಿಷಯವು ಹಿಂದಿನ ಋಕ್ಕಿನಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. ವಿಶ್ವಲಾ ಎಂಬ
+ಸ್ತ್ರೀಯ ಮುರಿದುಹೋಗಿದ್ದ ಕಾಲನ್ನು ಸರಿಪಡಿಸಿದ ವಿಚಾರವೂ, ಸತ್ತುಹೋಗಿದ್ದ ಗೋವನ್ನು ಬದುಕಿಸಿದ ವಿಚಾರವೂ
+ಇನ್ನೂ ಇಂತಹ ಅನೇಕ ವಿಷಯಗಳೂ ಅನೇಕ ಕಡೆ ವಿವರಿಸಲ್ಪಟ್ಟಿವೆ. ಯಜುರ್ವೇದದಲ್ಲಿ ಅಶ್ವಿನೌ ವೈ ದೇವಾನಾಂ
+ಭಿಷಜಿ ಎಂದು ಹೇಳಿದೆ.
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಇಯಂ ವಾಮಹ್ವೇ ಶೃಣುತಂ ಮೇ ಅಶ್ವಿನಾ ಪುತ್ರಾಯೇವ ಪಿತರಾ
+> ಮಹ್ಯಂ ಶಿಕ್ಷತಂ ।
+> ಅನಾಸಿರಜ್ಞಾ ಅಸಜಾತ್ಯಾಮತಿಃ ಪುರಾ ತಸ್ಯಾ ಅಭಿಶಸ್ತೇರವ ಸ್ಪೃತಂ ॥ ೬ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಇಯಂ । ವಾಂ । ಅಹ್ವೇ । ಶೃಣುತಂ । ಮೇ । ಅಶ್ವಿನಾ । ಪುತ್ರಾಯ ಇವ । ಪಿತರಾ । ಮಹ್ಯಂ ।
+> ಶಿಕ್ಷತಂ ।
+> ಅನಾಪಿ । ಅಜ್ಞಾಃ । ಅಸಜಾತ್ಯಾ । ಅಮತಿಃ । ಪುರಾ । ತಸ್ಯಾಃ । ಅಭಿಶಸ್ತೇಃ । ಅವ । ಸ್ಪೃತಂ ॥ ೬ ॥
+
+<!-- printed 951 -->
+*[ವ. ೭. ಆ. ೮. ವ. ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 951]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನೌ ನಾಂ ಯುವಾಮಿಯಂ ಘೋಷಾಹಮಹ್ವೇ । ಆಹ್ವಯಾಮಿ । ಮೇ ಮಮ
+> ಸಂಬಂಧಿನಮಿಮಮಾಹ್ವಾನಂ ಶೃಣುತಂ। ಶ್ರುತ್ವಾ ಚಾಹ್ವಾನಂ ಮಹ್ಯಂ ಪುತ್ರಾಯೇವ ಯಥಾ ಪುತ್ರಾಯ
+> ಪಿತರಾ ಮಾತಾಪಿತರೌ ತದ್ವಚ್ಛಿಕ್ಷತಂ । ಧನಂ ದತ್ತಂ । ಅನಾಪಿರಬಂಧುರಜ್ಞಾ ಆಕೃತಜ್ಞಾನಜಾತ್ಯಾಮತಿರಶ್ರದ್ಧೇಯಾ ಚಾಭಿಶಸ್ತಿರ್ಮಾನಾಗಚ್ಛತಿ । ತಸ್ಯಾ ಅಭಿಶಸ್ತೇಃ ಪುರಾ ಪ್ರಾಗೇವಾವ ಸ್ಪೃತಂ ।
+> ಮಾಮನಪಾರಯತಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ವಾಂ—ನಿಮ್ಮನ್ನು । ಇಯಂ—ಘೋಷಾಸಂಜ್ಞ ಕಳಾದ ನಾನು ।
+ಅಹ್ವೇ—ಕರೆಯುತ್ತೇನೆ । ಮೇ—ನನ್ನ ಆಹ್ವಾನವನ್ನು । ಶೃಣುತಂ—ಕೇಳಿರಿ । ಪಿತರಾ—ಮಾತಾಪಿತೃಗಳು ।
+ಪುತ್ರಾಯ ಇವ—ಪುತ್ರನಿಗೆ ಧನಾದಿಗಳನ್ನು ಕೊಡುವಂತೆ । ಮಹ್ಯಂ—ನನಗೆ । ಶಿಕ್ಷತಂ—ಧನವನ್ನು ಕೊಡಿರಿ ।
+ಅನಾಪಿಃ—ಬಂಧುರಹಿತವೂ । ಅಜ್ಞಾ—ಕೃತಜ್ಞತೆಯಿಲ್ಲದುದೂ । ಅಸಜಾತ್ಯಾ—ಶ್ರದ್ಧಾರಹಿತವೂ । ಅನುತಿಃ—
+ಪ್ರಜ್ಞಾರಹಿತವೂ ಆದ ಶಾಪವು ಸಮೀಪಿಸುತ್ತದೆ । ತಸ್ಯಾಃ ಅಭಿಶಸ್ತೇಃ ಪುರಾ—ಇಂತಹ ಶಾಪಗಳಿಂದ ಹತಳಾಗು
+ವುದಕ್ಕೆ ಮೊದಲೇ । ಅವ ಸ್ಪೃಶಂ—ನನ್ನನ್ನು ದಾಟಿಸಿ ರಕ್ಷಿಸಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಿಮ್ಮನ್ನು ಘೋಷಾಸಂಜ್ಞ ಕಳಾದ ನಾನು ಕರೆಯುತ್ತೇನೆ. ನನ್ನ ಆಹ್ವಾನ
+ವನ್ನು ಕೇಳಿರಿ. ಮಾತಾಪಿತೃಗಳು ಪುತ್ರನಿಗೆ ಧನಾದಿಗಳನ್ನು ಕೊಡುವಂತೆ ನನಗೆ ಧನವನ್ನು ಕೊಡಿರಿ. ಬಂಧು
+ರಹಿತವೂ ಕೃತಜ್ಞತೆಯಿಲ್ಲದುದೂ, ಶ್ರದ್ಧಾರಹಿತವೂ, ಪ್ರಜ್ಞಾರಹಿತವೂ ಆದ ಶಾಪವು ನನ್ನನ್ನು ಸವಿಾಪಿಸುತ್ತದೆ.
+ಇಂತಹ ಶಾಪವು ತಟ್ಟುವುದಕ್ಕೆ ಮೊದಲೇ ನನ್ನನ್ನು ರಕ್ಷಿಸಿರಿ.
+
+*English Translation.*
+
+I here, (Ghosha), invoke you. Hear my (invocation), Ashwins, give me (wealth) as parents give to a son ; before (it come) beyond the reach of (a curse) that has no relatives, ungrateful, without kinsfolk, without belief (pursues me) : save me from that curse before (it reach me).
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಈ ಸೂಕ್ತದ ಋಷಿಯಾದ ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಯು ತನಗೆ ಪ್ರಾಪ್ತವಾದ ಕುಷ್ಠರೋಗದ ನಿವಾರಣೆಗಾಗಿ
+ಪ್ರಾರ್ಥಿಸಿರುವುದನ್ನು ಈ ಋಕ್ಕಿನಲ್ಲಿ ವಿವರಿಸಿರಬಹುದು
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ರಥೇನ ವಿಮುದಾಯ ಶುಂಧ್ಯುನಂ ನ್ಯೂಹಥುಃ ಪುರುಮಿತ್ರಸ್ಯ
+> ಯೋಷಣಾಂ ।
+
+<!-- printed 952 -->
+*[952 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+> ಯುವಂ ಹವಂ ವಧ್ರಿಮತ್ಯಾ ಅಗಚ್ಛತಂ ಯುವಂ ಸುಷ್ಟುತಿಂ ಚಕ್ರಥುಃ
+> ಪುರಂಧಯೇ ॥ ೭ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ರಥೇನ । ವಿಮದಾಯ । ಶುಂಧ್ಯುವಂ । ನಿ । ಊಹಥುಃ । ಪುರುಮಿತ್ರಸ್ಯ । ಯೋಷಣಾಂ ।
+> ಯುವಂ । ಹವಂ । ವಧ್ರಿಮತ್ಯಾಃ । ಅಗಚ್ಛತಂ । ಯುವಂ । ಸುಸುತಿಂ । ಚಕ್ರಥುಃ । ಪುರಂಧಯೇ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ಯುವಂ ಯುವಾಂ ಪುರುಮಿತ್ರಸ್ಯ ಪುರುಮಿತ್ರನಾಮಧೇಯಸ್ಯ ಯೋಷಣಾಂ
+> ದುಹಿತರಂ ಶುಂಧ್ಯುವಂ ನಾಮ ಜಾಯಾಂ ವಿಮದಾಯ ವಿಮದನಾಮಧೇಯಾಯರ್ಷಯೇ ರಥೇನ
+> ಸ್ವಸೇನಾಪರಿವೃತೇನ ರಥೇನ ನ್ಯೂಹಥುಃ । ಪ್ರಾಪಯತಂ । ವಿಮದಸ್ಯ ಗೃಹಂ ನೀತವಂತೌ ಸ್ಥ
+> ಇತ್ಯರ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಯಾವರ್ಭಗಾಯ ವಿಮದಾಯ ಜಾಯಾಂ ಸೇನಾಜುವಾ
+> ನ್ಯೂಹತೂ ರಥೇನ । ಋ. ೧-೧೧೬-೧ । ಇತಿ । ಕಿಂಚ ಯುವಂ ಯುವಾಂ ವಧ್ರಿಮತ್ಯಾಃ ಸಂಗ್ರಾಮೇ
+> ಶತ್ರುಭಿಶ್ಚಿನ್ನಹಸ್ತಾಯಾ ಹವಮಾಹ್ವಾನಮಗಚ್ಛತಂ । ಅಗತ್ಯ ಚ ತಸ್ಯೈ ಹಿರಣ್ಮಯಂ ಹಸ್ತಂ ಪ್ರಾಯಚ್ಛತಂ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಅಜೋಹವೀನ್ನಾಸತ್ಯಾ ಕರಾ ನಾಂ ಮಹೇ ಯಾಮನ್ಪುರುಭುಜಾ
+> ಪುರಂಧಿಃ ಶ್ರುತಂ ತಚ್ಛಾಸುರಿವ ವಧ್ರಿಮತ್ಯಾ ಹರಣ್ಯಹಸ್ತಮಶ್ವಿನಾವದತ್ತಂ । ಋ. ೧-೧೧೬-೧೩ । ಇತಿ ॥
+> ಕಿಂಚ ಯುವಂ ಯುವಾಂ ಪುರಂಧಯೇ ಬಹುಪ್ರಜ್ಞಾಯ್ಕೆ ವಧ್ರಿಮತ್ಯೈ ಸುಷುತಿಂ ಸುಪ್ರಸವಂ ಶೋಭನಮೈಶ್ವರ್ಯಂ ವಾ ಚಕ್ರಥುಃ । ಕೃತವಂತೌ ಸ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ) ಯುವಂ—ನೀವು । ಪುರುಮಿತ್ರಸ್ಯ—ಪುರುಮಿತ್ರನ । ಯೋಷಣಾಂ—
+ಮಗಳಾದ । ಶುಂಧ್ಯುವಂ—ಶುಂಧ್ಯುವೆಂಬುವಳನ್ನು ॥ ವಿಮದಾಯ—ಅವಳ ಪತಿಯಾದ ಮಿಮದನಲ್ಲಿಗೆ ।
+ರಥೇನ—ನಿಮ್ಮ ರಥದಲ್ಲಿ । ನ್ಯೂಹಥುಃ—ಕರೆದೊಯ್ದಿರಿ । ಯುವಂ—ನೀವು । ವಧ್ರಿಮತ್ಯಾಃ—ವಧ್ರಿಮತಿಯ ।
+ಹವಂ—ಆಹ್ವಾನವನ್ನು ಕೇಳಿ । ಅಗಚ್ಛತಂ—ಅವಳಲ್ಲಿಗೆ ಹೋದಿರಿ । ಯುವಂ—ನೀವು । ಪುರಂಧಯೇ—
+ಅನೇಕವಿಧವಾದ ಪ್ರಜ್ಞೆಯುಳ್ಳ ವಧ್ರಿಮತಿಗೆ । ಸುಷುತಿಂ—ಉತ್ತಮವಾದ ಪ್ರಸವವನ್ನು (ಪುತ್ರನನ್ನು) ।
+ಚಕ್ರಥುಃ—ಒದಗಿಸಿದಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ಪುರುಮಿತ್ರನ ಮಗಳಾದ ಶುಂಧ್ಯುವೆಂಬುವಳನ್ನು ಅವಳ ಪತಿಯಾದ
+ವಿಮದನಲ್ಲಿಗೆ ನಿಮ್ಮ ರಥದಲ್ಲಿ ಕರೆದೊಯ್ದಿರಿ. ನೀವು ವಧ್ರಿಮತಿಯ ಆಹ್ವಾನವನ್ನು ಕೇಳಿ ಅವನಲ್ಲಿಗೆ ಹೋದಿರಿ.
+ಅನೇಕವಿಧವಾದ ಪ್ರಜ್ಞೆಯುಳ್ಳ ವಧ್ರಿಮತಿಗೆ ಉತ್ತಮವಾದ ಪ್ರಸವವನ್ನು (ಪುತ್ರಸಂತಾನವನ್ನು)ಒದಗಿಸಿದಿರಿ.
+
+<!-- printed 953 -->
+*[ಅ. ೭. ಅ. ೮. ವ ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 953]*
+
+
+*English Translation.*
+
+You brought, Shundhyu, the daughter of Purumitra to (her husband)
+Vimada : you came at Vadhrimati's invocation, and gave excellent offspring
+to her who was full of wisdom.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಯುವಂ ಪುರುಮಿತ್ರಸ್ಯ ಯೋಷಣಾಂ ಶುಂಧ್ಯುವಂ ವಿಮದಾಯ ರಥೇನ ನ್ಯೂಹಥುಃ—
+ವಿಮದಋಷಿಃ ಪರಿಣೀಯ ಮಹತ್ಯಾ ವಿಭೂತ್ಯಾ ಭಾರ್ಯಾಂ ಸ್ವಗೃಹಂ ನಿನೀಷನ್ ಅಶ್ವಿನೌ ತುಷ್ಟಾವ ।
+ತಸ್ಯಾಗತ್ಯಾಶ್ವಿನೌ ಭಾರ್ಯಾಂ ಸ್ವಸೇನಾಪರಿವೃತೇನ ರಥೇನ ನಿನ್ಯತುಃ । ಗಾಶ್ಚಾಸ್ಮೈ ಪ್ರಭೂತಾ
+ದದತುರಿತಿ । ವಿಮದನೆಂಬ ಋಷಿಯು ಪುರುಮಿತ್ರನ ಮಗಳಾದ ಶುಂಧ್ಯೂ ಎಂಬ ಕನೈಯನ್ನು ವಿವಾಹಮಾಡಿ
+ಕೊಂಡನಂತರ ತನ್ನ ಭಾರ್ಯೆಯನ್ನು ಅತ್ಯಂತ ವೈಭವದಿಂದ ತನ್ನ ಮನೆಗೆ ಕರೆದುಕೊಂಡುಹೋಗಬೇಕೆಂದು ಇಚ್ಛಿಸಿ
+ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಿದನು. ಅವರು ಬಂದು ತಮ್ಮ ರಥದಲ್ಲಿ ಅವನನ್ನೂ ಅವನ ಭಾರ್ಯೆಯನ್ನೂ ಕುಳ್ಳಿರಿಸಿ
+ವೈಭವದಿಂದ ಅವನ ಮನೆಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿಬಿಟ್ಟರು ಮತ್ತು ಅವನಿಗೆ ಅನೇಕ ಗೋವುಗಳನ್ನು ಕೊಟ್ಟರು
+ಎಂಬ ಕಥೆಯು ಇಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ. ಇದೇ ವಿಷಯವನ್ನು—
+ಯಾವರ್ಭಗಾಯ ವಿಮದಾಯ ಜಾಯಾಂ ಸೇನಾಜುವಾ ನ್ಯೂಹತೊ ರಥೇನ ।
+(ಋ. ಸಂ. ೧-೧೧೬-೧)
+ಎಂಬ ಮುಕ್ಕಿನಲ್ಲಿ ಕಕ್ಷೀವಂತನೂ, ಮತ್ತು
+ಯಾಭಿಃ ಪತ್ನೀರ್ವಿಮದಾಯ ನ್ಯೂಹಥುರಾ ಘ ನಾ ಯಾಭಿರರುಣೀರಶಿಕ್ಷತಂ ।
+(ಋ. ಸಂ. ೧-೧೧೨-೧೯)
+ಎಂಬ ಋಕ್ಕಿನಲ್ಲಿ ಕುತ್ಸಋಷಿಯೂ, ಪ್ರಕೃತಋಕ್ಕಿನಲ್ಲಿ ಘೋಷೆಯೂ ಹೇಳಿರುವರು. ವಿಮದನು ೧೦ನೆಯ ಮಂಡಲದ
+೨೦ನೆಯ ಸೂಕ್ತದಿಂದ ೨೭ನೆಯ ಸೂಕ್ತದವರೆಗೆ ೭ ಸೂಕ್ತಗಳ ದ್ರಷ್ಟವೆಂದು ಅನುಕ್ರಮಣಿಕೆಯಿಂದ ಗೊತ್ತಾಗುತ್ತದೆ.
+ಏವಾ ತೇ ಅಗ್ನೇ ವಿಮದೋ ಮನೀಷಾಮೂರ್ಜೋ ನಪಾದಮೃತೇಭಿಃ ಸಜೋಷಾಃ ।
+(ಋ. ಸಂ. ೧೧-೨೦-೧೦)
+ಮಾಕಿರ್ನ ಏನಾ ಸಖ್ಯಾ ವಿ ಯೌಷುಸ್ತವ ಚೇಂದ್ರ ಏಮದಸ್ಯ ಚೆ ಋಷೇಃ ।
+(ಋ. ಸಂ. ೧೦-೨೩-೭)
+ಎಂಬ ಋಕ್ಕುಗಳಲ್ಲಿ ವಿಮದಸ್ಯ ಋಷೇಃ ಮಮ ಚೆ ಎಂದು ಸೂಕ್ತದ್ರಷ್ಟವು ತನ್ನನ್ನು ತಾನೇ ನಿರ್ದೇಶಿಸಿದ್ದಾನೆ.
+ಐತರೇಯಬ್ರಾಹ್ಮಣದಲ್ಲಿ ಕುಹ ಶ್ರುತ ಇಂದ್ರಃ ಕಸ್ಮಿನ್ನದ್ಯೇತಿ ಸೂಕ್ತಂ (ಋ. ಸಂ. ೧೦-೨೨)
+ವೈಮದಂ । ಕುಹ ಶ್ರುತ ಎಂಬ ಋಕ್ಕಿನಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಸೂಕ್ತವು ವಿಮದಋಷಿಯಿಂದ ದೃಷ್ಟವಾದದ್ದು
+ಎಂದು ಅದರ ವಿನಿಯೋಗಕ್ರಮವನ್ನು ಹೇಳಿದೆ. (ಐ. ಬ್ರಾ. ೨೧-೫)
+
+<!-- printed 954 -->
+*[954 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+ಯುವಂ ವಧ್ರಿಮತ್ಯಾಃ ಹವಂ ಅಗಚ್ಛತಂ । ಪುರಂಧಯೇ ಸುಷುತಿಂ ಚಕ್ರಥು:—ಅಶ್ವಿನೀದೇವತೆಗಳು
+ವಧ್ರೀಮತೀ ಎಂಬ ಸ್ತ್ರೀಯ ಪ್ರಾರ್ಥನೆಯಂತೆ ಅವಳ ಸಮೀಪಕ್ಕೆ ಬಂದು ಅವಳಿಗೆ ಹಿರಣ್ಯಹಸ್ತನೆಂಬ ಪುತ್ರನನ್ನು
+ಅನುಗ್ರಹಿಸಿದರು ಎಂದು ಇಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ. ಈ ಮಂಡಲದ ೪೧ನೇ ಸೂಕ್ತದ ದ್ರಷ್ಟೃವಾದ ಸುಹಸ್ತ್ಯಃ ಘೌಷೇ
+ಯಃ । ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಯ ಪುತ್ರನಾದ ಸುಹಸ್ತ್ಯನೆಂಬುವನು ಈ ಹಿರಣ್ಯಹಸ್ತನೇ ಇರಬಹುದು. ಪ್ರಥಮ
+ಮಂಡಲದ ೧೧೬ನೇ ಸೂಕ್ತದ ೧೩ನೇ ಋಕ್ಕಿನ ಭಾಷ್ಯದಲ್ಲಿ ಭಾಷ್ಯಕಾರರು—
+ವಧ್ರಿಮತೀನಾಮ ಕಸ್ಯಚಿದ್ರಾಜರ್ಷೇಃ ಪುತ್ರೀ ನಪುಂಸಕಭರ್ತೃಕಾ । ಸಾ ಪುತ್ರಲಾಭಾರ್ಥಮಶ್ವಿನಾವಾಜುಹಾವ । ತದಾಹ್ವಾನಂ ಶ್ರುತ್ವಾಶ್ವಿನಾವಾಗತ್ಯ ತಸ್ಯ ಹಿರಣ್ಯಹಸ್ತಾಖ್ಯಂ ಪುತ್ರಂ
+ದದತುಃ । ತದೇತದಾಹ ॥
+ಎಂದು ಹೇಳಿದ್ದಾರೆ.
+ವಧ್ರಿಃ ಪುತ್ರೋತ್ಪಾದನಾಶಕ್ತಃ ಷಣ್ಡಕಃ । ತದ್ವತೀ ರಾಜಪುತ್ರಿ. ಪುತ್ರನನ್ನು ಉತ್ಪಾದನೆಯಾಗಲು
+ತಕ್ಕ ವೀರ್ಯದ ಶಕ್ತಿಯಿಲ್ಲದ ನಪುಂಸಕನು ವಧ್ರಿ ಎನಿಸುವನು ಎಂದು ಸಾಯಣರು ವ್ಯಾಖ್ಯಾನಮಾಡಿ ಈ ವಿಧವಾದ
+ನಪುಂಸಕನನ್ನು ಪತಿಯನ್ನಾಗಿ ಹೊಂದಿರುವವಳು ವಧ್ರಿಮತೀ ಎಂದು ಹೆಸರನ್ನು ಹೊಂದಿರುವಳು ಎಂದು ಅರ್ಥ
+ಮಾಡಿರುವರು. ಸ್ಕಂದಸ್ವಾಮಿಗಳು ವಧ್ರಿಮತೀ ನಾಮ ಯೋಧ್ರೀ ಶತ್ರುಭಿಃ ಸಂಗ್ರಾಮೇ ಭಿನ್ನಹಸ್ತಾ ।
+ವಧ್ರಿಮತೀ (ಎಂಬ ರಾಜಪುತ್ರಿಯು) ಎಂಬುವಳು ಯುದ್ಧ ಮಾಡುವ ಸ್ತ್ರೀಯು. ಯುದ್ಧದಲ್ಲಿ (ಶತ್ರುಗಳ ಸಂಗಡ
+ಯುದ್ಧ ಮಾಡಿ) ಹಸ್ತವನ್ನು ಕಳೆದುಕೊಂಡಳು ಎಂದು ವಧ್ರಿಮತೀ ಶಬ್ದಕ್ಕೆ ಅರ್ಥವನ್ನು ಹೇಳಿರುವರು. ಸ್ಕಂದ
+ಸ್ವಾಮಿಗಳು—ಸಾಯಣರೂ ಕೂಡ ಈ ಋಕ್ಕಿಗೆ ಅರ್ಥವನ್ನು ಮಾಡುವುದರಲ್ಲಿ ಬೇರೆ ಬೇರೆ ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದರೂ
+ಹಿರಣ್ಯಹಸ್ತನೆಂಬ ಪುತ್ರನನ್ನು ಅನುಗ್ರಹಿಸಿದರೆಂಬ ವಿಷಯದಲ್ಲಿ—ಇಬ್ಬರ ಅಭಿಪ್ರಾಯವೂ ಒಂದೇ ವಿಧವಾಗಿರುವುದು.
+ಸಾಯಣರು ವಧ್ರಿಮತಿವು ನಪುಂಸಕನೆಂಬ ಅರ್ಥವುಳ್ಳದ್ದಾದಕಾರಣ ಅವನನ್ನು ಪತಿಯನ್ನಾಗಿ ಹೊಂದಿರುವವಳು
+ವಧ್ರಿಮತಿಯಾಗಿರುವಳು ಎಂದು ಅರ್ಥವನ್ನು ವಿವರಿಸಿ ನಪುಂಸಕನಾದ ಪತಿಯನ್ನು ಹೊಂದಿದ ರಾಜಪುತ್ರಿಯೊಬ್ಬಳು
+ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಬಹಳವಾಗಿ ಸ್ತೋತ್ರಮಾಡಿ ಅವರನ್ನು ಮೆಚ್ಚಿಸಿದಳು. ಅವಳ ಸ್ತುತಿಗೆ ಮೆಚ್ಚಿ ಪ್ರತ್ಯಕ್ಷರಾಗಿ
+ಅಶ್ವಿನೀದೇವತೆಗಳು ಅವಳ ಇಚ್ಛೆಯಂತೆ ಹಿರಣ್ಯಹಸ್ತನೆಂಬ (ಪುತ್ರನನ್ನು) ಹೆಸರುಳ್ಳ ಪುತ್ರನು ಉತ್ಪನ್ನನಾಗುವಂತೆ
+ವರವನ್ನು ಕೊಟ್ಟರು ಎಂದು ಇತಿಹಾಸವನ್ನು ಹೇಳಿರುವರು. ಸ್ಕಂದಸ್ವಾಮಿಗಳು :—
+ವಧ್ರಿಮತೀ ನಾಮ ಯೋಧ್ರೀ ಸಂಗ್ರಾಮೇ ಶತ್ರುಭಿಶ್ಚಿನ್ನಹಸ್ತಾ ಅಶ್ವಿನೌ ತುಷ್ಟಾವ । ತಸ್ಯಾಃ
+ಅಶ್ವಿನೌ ಹಿರಣ್ಯಹಸ್ತಂ ದದತುಃ ಇತಿ ॥
+ವಧ್ರಿಮತೀ ಎಂಬ ಹೆಸರುಳ್ಳ ಯುದ್ಧ ಮಾಡುವ ವೀರಸ್ತ್ರೀಯ ಹಸ್ತವು ಯುದ್ಧದಲ್ಲಿ ಶತ್ರುಗಳಿಂದ ಕತ್ತರಿಸಿಹೋದ
+ಕಾರಣ ಅಶ್ವಿನೀವೇತೆಗಳನ್ನು ಸ್ತುತಿಸಿದಳು. ಅವರು ಅವಳ ಇಷ್ಟಾನುಸಾರವಾಗಿ ಹಸ್ತವನ್ನು ಮೊದಲು ಇರುವಂ
+ತೆಯೇ ಮಾಡಿದರು. ಆ ಹಸ್ತವೂ ಹಿರಣ್ಯಮಯವಾಗಿದ್ದಿತು ಎಂದು ಹೇಳಿ,
+ಹಿರಣ್ಯಹಸ್ತಃ—ಹಿರಣ್ಮಯೌ ಹಸ್ತೌ ಯಸ್ಮಿನ್ ಸ ಹಿರಣ್ಯಹಸ್ತಃ । ಬಾಹುಃ । ಹಿರಣ್ಯಶಬ್ದಕ್ಕೆ
+ಸುವರ್ಣ ಚಿನ್ನ ಎಂದು ಅರ್ಥವು, ಆದುದರಿಂದ ಹಿರಣ್ಮಮಯವಾದ ಬಾಹುವುಳ್ಳವಳೆಂದು ಅರ್ಥಮಾಡಿರುವರು.
+
+<!-- printed 955 -->
+*[೩. ೭. ಅ. ಲ. ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 955]*
+
+ನಾಯಣರು ಹಿರಣ್ಯಹಸ್ತಶಬ್ದದ ಅರ್ಥವನ್ನು ಹಿತರಮಣೀಯಪಾಣಿಂ (ಹಿತವಾದ) ಸುಖಕರವಾದ ಸುಂದರವಾದ
+ಹಸ್ತವುಳ್ಳ ಅಥವಾ ಹಿರಣ್ಯಹಸ್ತನೆಂದು ನಾಮವುಳ್ಳ ಎಂದು ಹೇಳಿ ಪುತ್ರನಿಗೆ ವಿಶೇಷಣವನ್ನಾಗಿ ವಿವರಿಸಿರುವರು.
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ವಿಪ್ರಸ್ಯ ಜರಣಾಮುಪೇಯುಷಃ ಪುನಃ ಕಲೇರಕೃಣುತಂ ಯುವದ್ವಯಃ ।
+> ಯುವಂ ವಂದನಮೃಶ್ಯದಾದುದೂಪಥುರ್ಯುವಂ ಸದ್ಯೋ ವಿಶ್ವಲಾಮೇತವೇ ಕೃಥಃ ॥ ೮ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ವಿಪ್ರಸ್ಯ । ಜರಣಾಂ । ಉಪಈಯುಷಃ । ಪುನರಿತಿ । ಕಲೇಃ । ಅಕೃಣುತಂ । ಯುವತ್ ।
+> ವಯಃ ।
+> ಯುವಂ । ವಂದನಂ । ಋಶ್ಯದಾತ್ । ಉತ್ । ಊಪಥುಃ । ಯುವಂ । ಸದ್ಯಃ । ವಿಶ್ವಲಾಂ । ಏತವೇ
+> ಕೃಥಃ ॥ ೮ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ಯುವಂ ಯುವಾಂ ವಿಪ್ರಸ್ಯ ಮೇಧಾವಿನೋ ಜರಣಾಂ ಜರಾಮುಪೇಯುಷ
+> ಉಪಗತವತಃ ಕಲೇಃ ಕಲಿನಾಮಧೇಯಸ್ಯರ್ಷೆರ್ವಯಃ ಪುನರಪಿ ಯವದ್ಯುವತ್ವಯುಕ್ತಮಕೃಣುತಂ ।
+> ಅಕುರುತಂ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಕಲಿಂ ಯಾಭಿರ್ವಿತ್ತಜಾನಿಂ ದುವಸ್ಯಥಃ । ಋ- ೧-೧೧೨-೧೫ ।
+> ಇತಿ । ಕಿಂಚ ಯುವಂ ಯುವಾಂ ವಂದನಂ ಜಾಯಾವಿಯೋಗಸಂತಾಪೇನ ಕೂಪಪತಿತಂ ವಂದನಾಖ್ಯಮೃಷಿಮೃಶ್ಯದಾತ್ಕೂಪಾದುದೂಪಥುಃ । ಉದೈರಯತಂ । ತಥಾ ನಿಗಮಾಂತರಂ । ಉದ್ವಂದನಮೈರಯತಂ ಸ್ವರ್ದೃಶೇ । ಋ. ೧-೧೧೨-೫ । ಇತಿ । ಕಿಂಚ ಯುವಂ ಯುವಾಂ ವಿಶ್ವಲಾಂ । ಖೀಲಸ್ಯ
+> ರಾಜ್ಯಃ ಸೇನಾಯಾಂ ಯೋದ್ಧ್ರೀ ವಿಶ್ವಲಾ ನಾಮ ಕಾಚಿತ್ ಸ್ತ್ರೀ । ತಾಂ ಸಂಗ್ರಾಮೇ ಶತ್ರುಭಿಶ್ಶಿನ್ನಜಂಘಾಂ ಸದ್ಯಸ್ತದೈವೈತವೇ ಗಮನಾಯ ಕೃಧಃ । ಅಕುರುತಂ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಚರಿತ್ರಂ
+> ಹಿ ವೇರಿವಾಚ್ಛೇದಿ ಪರ್ಣಮಾಜಾ ಖೀಲಸ್ಯ ಪರಿತಕ್ಕಾಯಾಂ । ಸದ್ಯೋ ಜಂಘಾಮಾಯಸೀಂ ವಿಶ್ವಲಾಯ್ಕೆ ಧನೇ ಹಿತೇ ಸರ್ತವೇ ಪ್ರತ್ಯಧತ್ತಂ । ಋ. ೧-೧೧೬-೧೫ । ಇತಿ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ) ಯುವಂ-ನೀವು । ವಿಪ್ರಸ್ಯ-ಮೇಧಾವಿಯೂ । ಜರಣಾಂ
+ಉಪೇಯುಷಃ-ಮುಪ್ಪನ್ನು ಸಮೀಪಿಸುತ್ತಿದ್ದವನೂ ಆದ . ಕಲೇಃ-ಕಲಿಯೆಂಬ ಋಷಿಗೆ । ವಯಃ-ಅವನ
+
+<!-- printed 956 -->
+*[956 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+ವಯಸ್ಸನ್ನು । ಪುನಃ—ತಿರುಗಿಯೂ । ಯುವತ್—ಯೌವನವನ್ನು ಹೊಂದುವಂತೆ । ಅಕೃಣುತಂ—ಮಾಡಿದಿರಿ ।
+ಯುವಂ—ನೀವು । ವಂದನಂ—ಬಾವಿಯೊಳಗೆ ಬಿದ್ದಿದ್ದ ವಂದನನನ್ನು । ಋಶ್ಯದಾತ್—ಬಾವಿಯಿಂದ ।
+ಉದೂಪಥುಃ—ಹೊರಕ್ಕೆ ಎತ್ತಿದಿರಿ । ಯುವಂ—ನೀವು । ಸದ್ಯಃ—ಒಡನೆಯೇ । ವಿಶ್ವಲಾಂ—ಕುಂಟಳಾದ
+ವಿಶ್ವಲೆಯನ್ನು । ಏತವೇ—ನಡೆಯಲು ಶಕ್ತಳನ್ನಾಗಿ । ಕೃಥಃ—ಮಾಡಿದಿರಿ.
+*[೧ ಭಾನಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಮೇಧಾವಿಯೂ, ಮುಪ್ಪನ್ನು ಸಮೀಪಿಸುತ್ತಿದ್ದವನೂ ಆದ ಕಲಿಯೆಂಬ
+ಋಷಿಗೆ ಅವನು ತಿರುಗಿಯೂ ಯೌವನವನ್ನು ಹೊಂದುವಂತೆ ಅವನ ವಯಸ್ಸನ್ನು ಹಿಂತಿರುಗಿಸಿದಿರಿ. ಬಾವಿಯಲ್ಲಿ
+ಬಿದ್ದಿದ್ದ ವಂದನನನ್ನು ಬಾವಿಯಿಂದ ಹೊರಕ್ಕೆ ಎತ್ತಿದಿರಿ. ಯುದ್ಧದಲ್ಲಿ ಕುಂಟಳಾದ ವಿಶ್ವಲೆಗೆ ಕಾಲನ್ನು ಕೊಟ್ಟು
+ಅವಳನ್ನು ನಡೆಯುವಂತೆ ಮಾಡಿದಿರಿ.
+
+*English Translation.*
+
+You made young again the life of the sage Kali, when approaching old age, you rescued Vandana from the well; you quickly enabled Vishpala to walk.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಯುವಂ ವಿಪ್ರಸ್ಯ ಜರಣಾಂ ಉಪೇಯುಷಃ ಕಲೇಃ ವಯಃ ಪುನಃ ಯುವತ್ ಅಕೃಣುತಂ—
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ವಯೋವೃದ್ಧನಾಗಿ ಜೀರ್ಣವಾದ ಶರೀರವುಳ್ಳ ಕಲಿ ಎಂಬ ಋಷಿಯನ್ನು ಪುನಃ ಯುವಕ
+ನನ್ನಾಗಿ ಮಾಡಿದಿರಿ ಎಂದು ಇಲ್ಲಿ ಸ್ತುತಿಸಲಾಗಿದೆ. ಈ ವಿಷಯವನ್ನು ಋ. ಸಂ. ೧-೧೧೨-೧೫ ನೇ ಋಕ್ಕಿನಲ್ಲಿ
+ಕುತ್ಸಋಷಿಯೂ ಸಹ,
+ಯಾಭಿರ್ನಮ್ರಂ ವಿಪಿಪಾನಮುಪಸ್ತುತಂ ಕಲಿಂ ಯಾಭಿರ್ವಿತ್ತಜಾನಿಂ ದುವಸ್ಯಥಃ ।
+(ಋ. ಸಂ. ೧-೧೧೨-೧೫)
+ವಿವರಿಸಿದ್ದಾನೆ. ಕಲಿರ್ನಾಮ ಋಷಿರ್ಜಯ್ಯಾ ತರೀತಸ್ತರುಣೀಂ ಭಾರ್ಯಾಂ ಲೇಭೇ । ಸ ತತ್ರೈತ್ಯೈ
+ಪುನರ್ಯೌವನಮಾತ್ಮನ ಇಚ್ಛನ್ ಅಶ್ವಿನೌ ತುಷ್ಟಾವ । ತಮಾಗತ್ಯಾಶ್ವಿನ್ ಪುನರ್ಯೌವನಂ ಚಕ್ರತುರಿತಿ ।
+ಕಲಿಯೆಂಬ ಋಷಿಯು ವೃದ್ಧನಾದಮೇಲೆ ತರುಣಿಯಾದ ಓರ್ವ ಕನ್ಯೆಯನ್ನು ಮದುವೆಯಾದನು. ಅವಳನ್ನು ಒಲಿಸಿ
+ಕೊಳ್ಳುವುದಕ್ಕಾಗಿ ಪುನಃ ಯೌವನವನ್ನು ಪಡೆಯಬೇಕೆಂದಪೇಕ್ಷಿಸಿ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಿದಾಗ ಅವರ
+ಇವನಿಗೆ ಪುನಃ ಯೌವನವು ಬರುವಂತೆ ಮಾಡಿದರು ಎಂಬ ಕಥೆಯಿದೆ. ಪ್ರಕೃತ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಈ ವಿಷಯದ
+ವಿವರವಿದೆ.
+ವಂದನಂ—ಅತ್ರೇದಮಾಖ್ಯಾನಂ । ವಂದನೋ ನಾಮ ಕಶ್ಚಿದೃಷಿಃ । ಸ ಚಾಸುರೈಃ ಕೂಪೇ
+ನಿಖಾತ ಉತ್ತರೀತುಮಶಕ್ನುವನ್ನಶ್ವಿನಾವಸ್ತೌತ್ । ತಮಶ್ವಿನ್ ಕೂಪಾದುನ್ನಿನ್ಯತುರಿತಿ ।
+ತದಾಹ ॥
+
+<!-- printed 957 -->
+*[ಆ. ೬. ಆ. ೮. ವ. ೧೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 857]*
+
+ವಂದನ ಎಂದು ಹೆಸರುಳ್ಳ ಒಬ್ಬ ಋಷಿಯನ್ನು ಅಸುರರು ಕಾಡಿನ ಮಧ್ಯದ ನಿರ್ಜನಪ್ರದೇಶದಲ್ಲಿ ಇರುವ
+ಬಾವಿಯಲ್ಲಿ ಹಾಕಿದ್ದರು. ಅಲ್ಲಿಂದ ಅವನು ಏಳಲಾರದೆ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಮಾಡಿದನು. ಶಿಷ್ಟರ ರಕ್ಷಣೆ
+ಯನ್ನು ಮಾಡುವ ಅಶ್ವಿನೀದೇವತೆಗಳು ಈ ಋಷಿಯ ಸ್ಥಿತಿಯನ್ನು ತಿಳಿದವರಾಗಿ ಬಾವಿಯಲ್ಲಿ ಬಚ್ಚಿಟ್ಟಿದ್ದ ಧನವನ್ನು
+ಸಂತೋಷದಿಂದ ತೆಗೆಯುವಂತೆ ಈ ಋಷಿಯನ್ನು ಬಾವಿಯಿಂದ ಮೇಲಕ್ಕೆ ತೆಗೆದು ರಕ್ಷಿಸಿದರು ಎಂಬ ಇತಿಹಾಸವು ಇಲ್ಲಿ
+ಉಕ್ತವಾಗಿರುವುದು. ಈ ಅಶ್ವಿನೀದೇವತೆಗಳು ಮಾಡಿರುವ ಋಷಿಯ ರಕ್ಷಣೆಯು ಅಭ್ಯೇಷಣಯುಕ್ತಂ—ಎದುರಿಗೆ
+ನೋಡುವವರಿಗೆಲ್ಲರಿಗೂ ಗೋಚರವಾಗತಕ್ಕದ್ದು, ಎಲ್ಲರೂ ಪ್ರಶಂಸೆಮಾಡತಕ್ಕದ್ದು, ಎಲ್ಲರಿಗೂ ಪೂಜ್ಯವಾಗಿರತಕ್ಕದು
+ಎಂದು ಪ್ರಶಂಸಿತವಾಗಿರುವುದು.
+ಯಾಭೀ ರೇಭಂ ನಿವೃತಂ ಸಿತಮದ್ಭ್ಯ ಉದ್ವಂದನಮೈರಯತಂ ಸ್ವರ್ದೃಶೇ ।
+ಯಾಭಿಃ ಕಣ್ವಂ ಪ್ರಸಿಷಾಸಂತಮಾಪತಂ ತಾಭಿರೂ ಷು ಊತಿಭಿರಶ್ವಿನಾ ಗತಂ ॥
+(ಋ. ಸಂ. ೧-೧೧೨-೫)
+ಈ ಋಕ್ಕಿನಲ್ಲಿ ಬಾವಿಯಲ್ಲಿ ಬಿದ್ದಿದ್ದ ರೇಭನನ್ನೂ ವಂದನನನ್ನೂ ಕಣ್ವನನ್ನೂ ಸಹ ರಕ್ಷಿಸಿದರೆಂದು ಹೇಳಿದೆ.
+ಸ್ಕಂದಸ್ವಾಮಿಗಳು ಈ ಋಕ್ಕನ್ನು ಉದಹರಿಸಿ
+ರೇಭಮೃಷಿಂ ಸಂಧ್ಯಾಕಾಲೇ ಸ್ನಾತ್ವಾ ಹ್ರದಾದುತ್ತೀರ್ಣಂ ಅಗ್ನಿಹೋತ್ರಂ ಹೋತುಂ ಸ್ವಾಶ್ರಮಂ
+ಗಚ್ಛಂತಂ ಅಸುರಾ ದದೃಶುಃ । ತೇ ದೇವಾನಾಮಯಂ ಯಷ್ಟಾ ಸ್ತೋತಾ ಚೇತಿ ಜ್ಞಾತ್ವಾ
+ಸಂಕ್ರುದ್ಧಾಃ ತಂ ತಾಡಯಿತ್ವಾ ಬಧ್ವಾ ಚ ತಸ್ಮಿನ್ ಹ್ರದೇ ಪ್ರಕ್ಷಿಪ್ಯ ದಶರಾತ್ರಂ ಧಾರಯಾಂ
+ಚಕ್ರುಃ
+ರೇಭನೆಂಬ ಋಷಿಯು ಸಂಧ್ಯಾಕಾಲದಲ್ಲಿ ಸ್ನಾನಮಾಡಿ ನದಿಯಿಂದ ಹೊರಟು ಅಗ್ನಿಹೋತ್ರವನ್ನು ಮಾಡುವುದಕ್ಕಾಗಿ
+ತನ್ನ ಆಶ್ರಮಕ್ಕೆ ಬರುತ್ತಿರುವಾಗ ಅವನನ್ನು ಅಸುರರು ನೋಡಿ ಈ ಋಷಿಯು ದೇವತೆಗಳನ್ನು ಕುರಿತು ಯಜ್ಞ ಮಾಡಿ
+ಪೂಜಿಸುವನು ಎಂದು ತಿಳಿದು ಅವನ ಮೇಲೆ ಕೋಪದಿಂದ ಅವನನ್ನು ಹೊಡೆದು ಹಗ್ಗದಿಂದ ಕಟ್ಟಿ ಭಾವಿಯಲ್ಲಿ ಹಾಕಿ
+ಹತ್ತು ರಾತ್ರಿಗಳವರೆಗೂ ಬಚ್ಚಿಟ್ಟಿದ್ದರು. ಅನಂತರ ಅವನ ಸ್ತುತಿಯಿಂದ ಮೆಚ್ಚಿದ ಅಶ್ವಿನೀದೇವತೆಗಳು ಆ ಋಷಿ
+ಯನ್ನು ರಕ್ಷಿಸಿದರೆಂದು ವರ್ಣಿಸಿದೆ. ಕೆಲವು ಋಕ್ಕುಗಳಲ್ಲಿ ರೇಭನನ್ನೂ ವಂದನನನ್ನೂ ಅಸುರರು ಭಾವಿಯಲ್ಲಿ
+ತಳ್ಳಿದ್ದರು. ಅವರು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಲು ಅವರ ಸಂರಕ್ಷಣೆಯಾಯಿತೆಂದು ವರ್ಣನೆ ಇರುವುದು.
+ಕೆಲವುಕಡೆ ವಂದನನ ವಿಷಯವು ಮಾತ್ರ ಉಕ್ತವಾಗಿರುವುದು.
+ಶುಭೇ ರುಕ್ಷ್ಮಂ ನ ದರ್ಶತಂ ನಿಖಾತಮುದೂಪಥುರಶ್ವಿನಾ ವಂದನಾಯ ।
+(ಋ. ಸಂ. ೧-೧೦೭-೫)
+ಯುವಂ ವಂದನಮೃಶ್ಯದಾದುದೂಪಥುರ್ಯುರ್ವಂ ಸದ್ಯೋ ವಿಶ್ವಲಾಮೇಶವೇ ಕೃಥಃ ।
+(ಋ. ಸಂ. ೧೦-೩೯-೮)
+ಇನ್ನು ಕೆಲವು ಋಕ್ಕುಗಳಲ್ಲಿ,
+
+<!-- printed 958 -->
+*[958 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂಕ್ತ. ೩೯]*
+
+ಯುವಂ ಶಯೋರವಸಂ ಪಿಪ್ಯಥುರ್ಗವಿ ಪ್ರ ದೀರ್ಘೇಣ ವಂದನಸ್ತಾರ್ಯಾಯುಷಾ
+(ಋ. ಸಂ. ೧-೧೧೯-೬)
+ಉದ್ವಂದನಮೈರತಂ ದಂಸನಾಭಿರುದ್ರೇಭಂ ದಸ್ರಾ ವೃಷಣಾ ಶಚೀಭಿಃ ।
+(ಋ. ಸಂ. ೧ ೧೧೮-೬.)
+ಯುವಂ ವಂದನಂ ನಿರ್ಋತಂ ಜರಣ್ಯಯಾ ರಥಂ ನ ದಸ್ರಾ ಕರಣಾ ಸಮಿನ್ವಥಃ ।
+(ಋ. ಸಂ. ೧-೧೧೯-೭)
+ವಂದನನ ಜೀರ್ಣವಾದ ಶರೀರವನ್ನು ಯುವಕನ ಶರೀರದಂತೆ ಮಾಡಿ ಅವನು ಬಹಳಕಾಲ ಜೀವಿಸುವಂತೆ ಮಾಡಿದ
+ರೆಂಬ ಪ್ರಶಂಸೆ ಇದೆ.
+ವಿಶ್ವಲಾಂ—ಖೇಲನೆಂಬ ರಾಜನು ಅಗಸ್ತ್ಯಋಷಿಯನ್ನು ಪುರೋಹಿತನನ್ನಾಗಿ ಮಾಡಿಕೊಂಡನು. ಅವನಿಗೆ
+ವಿಶ್ಲಾ ಎಂದು ಹೆಸರುಳ್ಳ ಹೆಂಡತಿಯೂ ಇದ್ದಳು. ಶತ್ರುಗಳ ಸಂಗಡ ಯುದ್ಧವು ನಡೆಯುತ್ತಿರುವಾಗ ವಿಶ್ಲಾ ಎಂಬ
+ಸ್ತ್ರೀಯ ಪಾದವು ಕತ್ತರಿಸಿ ಹೋಯಿತು. ಆಗ ವಿಶ್ಲೆಗೆ ಕಾಲು ಬರಬೇಕೆಂದು ಅಗಸ್ತ್ಯಋಷಿಯು ಅನ್ವಿನೀದೇವತೆ
+ಗಳನ್ನು ಸ್ತೋತ್ರಮಾಡಲಾಗಿ ಅಶ್ವಿನೀದೇವತೆಗಳು ರಾತ್ರಿಯಲ್ಲಿ ಬಂದು ಇವಳ ಕತ್ತರಿಸಿಹೋದ ಕಾಲುಗಳಿಗೆ ಬದಲಾಗಿ
+ಕಬ್ಬಿಣದ ಕಾಲುಗಳನ್ನು ಸೇರಿಸಿ ಆಸ್ತ್ರಿಗೆ ಪಾದಗಳು ಬರುವಂತೆ ಮಾಡಿದರು ಎಂಬ ಇತಿಹಾಸವು ಇಲ್ಲಿ ಉಕ್ತವಾಗಿರು
+ವುದು. ಈ ವಿಷಯವುಯಾಭಿರ್ವಿಶ್ವಲಾಂ ಧನಸಾಮಥರ್ವ್ಯಂ ಸಹಸ್ರಮೀಳ್ಹ ಆಜಾವಜಿನ್ವತಂ ।
+(ಋ. ಸಂ. ೧-೧೧೨-೧೦)
+ಅಗಸ್ತ್ಯೇ ಬ್ರಹ್ಮಣಾ ವಾವೃಧಾನಾ ಸಂ ವಿಶ್ವಾಲಾ ನಾಸತ್ಯಾ ಪರಿಣೀತಂ ।
+(ಋ. ಸಂ. ೧-೧೧೭-೧೧)
+ಅಮುಂಚತಂ ವರ್ತಿಕಾಮಂಹಸೋ ನಿಃ ಪ್ರತಿ ಜಂಘಾಂ ವಿಶ್ವಲಾಯಾ ಅಧತ್ತಂ ।
+(ಋ. ಸಂ. ೧-೧೧೮-೮)
+ಯುವಂ ವಂದನಮೃಶ್ಯದಾದುದೂಪಥುರ್ಯುವಂ ಸದ್ಯೋ ವಿಶ್ವಲಾಮೇತವೇ ಕೃಥಃ ।
+(ಋ. ಸಂ. ೧೦-೩೯-೮)
+ಎಂಬ ಋಕ್ಕುಗಳಲ್ಲಿ ವಿವರಿಸಲ್ಪಟ್ಟಿರುವುದು.
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ಹ ರೇಭಂ ವೃಷಣಾ ಗುಹಾ ಹಿತಮುದೈರಯತಂ ಮಮೃವಾಂಸಮಶ್ವಿನಾ ।
+
+<!-- printed 959 -->
+*[ಆ. ೭. ಆ. ೮. ವ. ೧೬. ] ಋಗ್ವೇದಸಂಹಿತಾ 959]*
+
+> ಯುವಮೃಬೀಸಮುತ ತಪ್ತಮತ್ರಯ ಓಮನ್ವಂತಂ ಚಕ್ರಥುಃ ಸಪ್ತವಧ್ರಯೇ ॥ ೯ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ಹ । ರೇಭಂ । ವೃಷಣಾ । ಗುಹಾ । ಹಿತಂ । ಉತ್ । ಐರಯತಂ । ಮಮೃವಾಂಸಂ।
+> ಅಶ್ವಿನಾ ।
+> ಯುವಂ । ಋಬೀಸಂ । ಉತ । ತಪ್ತಂ । ಅತ್ರಯೇ । ಓಮನ್ಸವಂತಂ । ಚಕ್ರಥುಃ । ಸಪ್ತವಧ್ರಯೇ ॥ ೯ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ವೃಷಣಾ ವರ್ಷಿತಾರಾವಶ್ವಿನಾಶ್ವಿನ್ ಯುವಂ ಯುವಾಂ ಗುಹಾ ಗುಹಾಯಾಂ ಹಿತಮಸು.
+> ರೈರ್ನಿಹಿತಂ ಮಮೃವಾಂಸಂ ಮ್ರಿಯಮಾಣಂ ರೇಭಂ ರೇಭಾಖ್ಯಮೃಷಿಮುದೈರಯತಂ । ಉತ್ತರಿತವಂತೌ
+> ಸ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ದಶ ರಾತ್ರೀರಶಿವೇನಾ ನವ ದ್ಯೋನವನದ್ಧಂ ಶೃಥಿತಮಪ್ಸ್ಯಂತಃ ।
+> ವಿಪ್ರುತಂ ರೇಭಮುದನಿ ಪ್ರವೃಕ್ತಮುನ್ನಿನ್ಯಥುಃ ಸೋಮಮಿವ ಸ್ರುವೇಣ । ಋ. ೧-೧೧೬-೨೪ । ಇತಿ ।
+> ಉತ ಕಿಂಚ ಯುವಂ ಯುವಾಂ ತಪ್ತಮೃಬೀಸಮಗ್ನಿ ಕುಂಡಮತ್ರಯೇಽತ್ರೇರರ್ಥಾಯೌಮನ್ವಂತಮವನವಂತಂ ಚಕ್ರಥುಃ । ವೃಷ್ಟಾ ನಿಶಮಯ್ಯ ಶೀತಂ ಕೃತವಂತೌ ಸ್ಥ ಇತ್ಯರ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಹಿಮೇನಾಗ್ನಿಂ ಘ್ರಂಸಮವಾರಯೇಥಾಂ ಪಿತುಮತೀಮೂರ್ಜಮಸ್ಮಾ ಅಧತ್ತಂ । ಋಬೀಸೇ
+> ಅತ್ರಿಮಶ್ವಿನಾವನೀತಮುನ್ನಿನ್ಯಥುಃ ಸರ್ವಗಣಂ ಸ್ವಸ್ತಿ । ಋ. ೧-೧೧೬-೮ । ಇತಿ । ಕಿಂಚ ಯುವಾಂ
+> ಸಪ್ತವಧ್ರಯೇಽಶ್ವಮೇಧೇನ ರಾಜ್ಯಾ ಕೇನಚಿದಪರಾಧೇನ ಕಾಷ್ಠಮಯಮಂಜೂಷಾಯಾಂ ನಿಹಿತಸ್ಯ
+> ಸಪ್ತವಧ್ರಿನಾಮಧೇಯಸ್ಯರ್ಷೇರರ್ಥಾಯ ಚಕ್ರಥುಃ । ಮಂಜೂಷೋದ್ಘಾಟನಂ ಕೃತವಂತೌ ಸ್ಥ
+> ಇತ್ಯರ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ವಿ ಜಿಹೀಷ್ಟ ವನಸ್ಪತೇ ಯೋನಿಃ ಸೂಷ್ಯಂತ್ಯಾ ಇವ । ಶ್ರುತಂ
+> ಮೇ ಅಶ್ವಿನಾ ಹವಂ ಸಪ್ತವಧ್ರಿಂ ಚ ಮುಂಚತಂ । ಋ. ೫-೭೮-೫ । ಇತಿ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವೃಷಣಾ—ವೃಷ್ಟಿಯನ್ನು ಸುರಿಸುವ । ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ ! ಯುವಂ—ನೀವು !
+ಗುಹಾ—ಗುಹೆಯಲ್ಲಿ । ಹಿತಂ—ಮುಚ್ಚಲ್ಪಟ್ಟಿದ್ದವನೂ । ಮಮೃವಾಂಸಂ—ಸಾಯುವುದರಲ್ಲಿದ್ದವನೂ ಆದ ।
+ರೇಭಂ—ರೇಭನೆಂಬ ಋಷಿಯನ್ನು । ಉದೈರಯತಂ—ಮೇಲಕ್ಕೆತ್ತಿದಿರಿ । ಉತ—ಮತ್ತು । ಯುವಂ—ನೀವು
+ತಪ್ತಂ—ದಾಹಾತ್ಮಕವಾದ । ಋಬೀಸಂ—ಅಗ್ನಿ ಕುಂಡವನ್ನು । ಅತ್ರಯೇ—ಅತ್ರಿಋಷಿಗೆ ಸಹಾಯಮಾಡಲು ।
+ಓಮನ್ವಂತಂ—ತಣ್ಣಗಾಗುವಂತೆ । ಚಕ್ರಥುಃ—ಮಾಡಿದಿರಿ । ಸಪ್ತವಧ್ರಯೇ—ಸಪ್ತವಧ್ರಿಗೆ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು
+ಕೊಟ್ಟಿರಿ.
+
+<!-- printed 960 -->
+*[960 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೩೯]*
+
+*[। ಭಾನುವಾರ ।]*
+
+*ಭಾವಾರ್ಥ*
+
+ವೃಷ್ಟಿಯನ್ನು ಸುರಿಸುವ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಗುಹೆಯಲ್ಲಿ ಮುಚ್ಚಲ್ಪಟ್ಟಿದ್ದವನೂ, ಸಾಯುವುದರಲ್ಲಿದ್ದ
+ವನೂ ಆದ ರೇಭನೆಂಬ ಋಷಿಯನ್ನು ನೀವು ಮೇಲಕ್ಕೆತ್ತಿದಿರಿ. ಮತ್ತು ನೀವು ದಾಹಾತ್ಮಕವಾದ ಅಗ್ನಿಕುಂಡವನ್ನು
+ಅತ್ರಿಋಷಿಗೆ ಸಹಾಯಮಾಡಲು ತಣ್ಣಗಾಗುವಂತೆ ಮಾಡಿದಿರಿ. ಸಪ್ತವಧ್ರಿಗೆ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಕೊಟ್ಟಿರಿ.
+
+*English Translation.*
+
+Ashwins, shedders of rain, you extricated Rebha when he was placed
+in a cave and was dying : you made the heated fire-pit cool for Atri: you
+gave (liberty) to Saptavadhri.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ರೇಭಂ—ಅಶ್ವಿನೀದೇವತೆಗಳು ರೇಭಯಷಿಯನ್ನು ಅವನಿಗೆ ಒದಗಿದ್ದ ಅಪಾಯದಿಂದ ಅಥವಾ ಬಾವಿಯಲ್ಲಿ
+ಅಸರರು ಅವನನ್ನು ಕಟ್ಟಿಹಾಕಿ ಮುಳುಗಿಸಿದ್ದ ತೊಂದರೆಯಿಂದ ರಕ್ಷಿಸಿದರು ಎಂದು ಅರ್ಥ. ಅತ್ರಿಋಷಿಯನ್ನು
+ಹಿಡಿದು ಅವನನ್ನು ತುಷಾಗ್ನಿಯಲ್ಲಿ ಅಸುರರು ಹಾಕಿದಾಗ ಅಶ್ವಿನೀದೇವತೆಗಳು ಅವನ ಸ್ತುತಿಯನ್ನು ಕೇಳಿ ಹಿತಕರ
+ವಾದ ಮತ್ತು ತಂಪಾದ ನೀರಿನಿಂದ ಬೆಂಕಿಯನ್ನು ಆರಿಸಿ ಅವನನ್ನು ರಕ್ಷಿಸಿದರು ಎಂದು ಒಂದು ವಿಧವಾದ ಅರ್ಥವನ್ನು
+ಸಾಯಣರು ಹೇಳಿರುವುದಲ್ಲದೆ, ಅತ್ರಿ ಶಬ್ದಕ್ಕೆ ಹವಿಸ್ಸುಗಳನ್ನು ಭಕ್ಷಿಸುವ ಅಗ್ನಿ ಎಂದೂ, ಈ ಅಗ್ನಿಗೆ (ಸೂರ್ಯಕಿರಣ
+ಗಳ ತಾಪದಿಂದ ವ್ರೀಹ್ಯಾದ್ಯುತ್ಪತ್ತಿಯು ಯಾವುದೂ ಆಗದಿರುವುದರಿಂದ) ಉಂಟಾಗಿರುವ ತಾಪವನ್ನು ವೃಷ್ಟುದಕ
+ಗಳ ಮೂಲಕವಾಗಿ ಪರಿಹರಿಸಿದರು ಎಂದು ಇನ್ನೊಂದು ಅರ್ಥವನ್ನೂ ವಿವರಿಸಿರುವರು. ಸ್ಕಂದಸ್ವಾಮಿಗಳು
+ಅತ್ರಿಋಷಿಯನ್ನು ರಕ್ಷಿಸಿದ ವೃತ್ತಾಂತವನ್ನು ಮಾತ್ರ ವಿವರಿಸಿ—
+ಹಿಮೇನಾಗ್ನಿಂ ಫ್ರಂಸಮವಾರಯೇಥಾಂ ಪಿತುಮತೀಮೂರ್ಜಮಸ್ಮಾ ಅಧತಂ ।
+ಯಜಬೀಸೇ ಅತ್ರಿಮಶ್ವಿನಾವನೀತಮನ್ನಿನ್ಯಥುಃ ಸರ್ವಗಣಂ ಸ್ವಸ್ತಿ ॥
+(ಯ. ಸಂ. ೧-೧೧೯-೮)
+ಈ ಯಕ್ಷನನ್ನು ಉದಹರಿಸಿರುವರು.
+ಅತ್ರಯೇ—ಅಸುರರು ಅತ್ರಿಯೆಂಬ ಋಷಿಯನ್ನು ಹಿಡಿದುಕೊಂಡು ಹೋಗಿ ತೊಂದರೆಯನ್ನುಂಟುಮಾಡು
+ವುದಕ್ಕಾಗಿ ಬಹಳ ದ್ವಾರಗಳುಳ್ಳ ಅಪಾಯಕರವಾದ ಒಂದು ಮನೆಯಲ್ಲಿ ಕೆಳಮುಖನಾಗಿ ಮಲಗಿಸಿ ಅವನನ್ನು
+ತುಷಾಗ್ನಿಯಲ್ಲಿ (ಹೊಟ್ಟುಬೆರಸಿರುವ ಬೆಂಕಿಯಲ್ಲಿ) ಹಾಕಿದರು. ಇದರಿಂದ ಅತ್ರಿಋಷಿಯು (ಅವನ ಶರೀರವು
+ಬೆಂದು) ಬೆಂಕಿಯ ತಾಪವನ್ನು ಸಹಿಸಲಾರದೆ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಮಾಡಿದಾಗ ಅವರು ಹಿಮದಂತೆ ತಣಗ್ಗಿ
+ರುವ ನೀರನ್ನು ಸುರಿಸಿ ಅತ್ರಿಋಷಿಯನ್ನು ರಕ್ಷಿಸಿದರು.
+*[೧ ಸಂಹಿತಾಪಾಠೆ ೧]*
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ಶ್ವೇತಂ ಪೇದನೇಽಶ್ವಿನಾಶ್ವಂ ನವಭಿರ್ವಾಜೈರ್ನವತೀ ಚ ವಾಜಿನಂ।
+
+<!-- printed 961 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೧೬.] ಋಗ್ವೇದಸಂಹಿರಾ 961]*
+
+> ಚರ್ಕೃತ್ಯಂ ದದಥುದ್ರ್ರಾವಯತ್ಸಖಂ ಭಗಂ ನ ನೃಭ್ಯೋ ಹವ್ಯಂ ಮಯೋಭುವಂ ॥ ೧೦ ॥
+*[॥ ಪದಪೂಜೆ ॥]*
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ಶ್ವೇತಂ । ಪೇದವೇ । ಅಶ್ವಿನಾ । ಅಶ್ವಂ । ನವಭಿಃ । ವಾಜೈಃ । ನವತೀ । ಚ । ವಾಜಿನಂ ।
+> ಚರ್ಕೃತ್ಯಂ । ದದಥುಃ । ದ್ರವಯತ್ಸಖಂ । ಭಗಂ । ನ । ನೃಭ್ಯಃ । ಹವ್ಯಂ । ಮಯಃಭುವಂ ॥
+*[೧ ಸಾಯುಧಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವಂ ಯುವಾಂ ಪೇದವೇ ಪೇದುನಾಮಧೇಯಾಯ ರಾಜ್ಞೇ ಶ್ವೇತಂ
+> ಶ್ವೇತವರ್ಣಂ ವಾಜಿನಂ ಬಲಿನಂ ನವಭಿರ್ನವತೀ ನವತ್ಯಾಶ್ವೈಃ ಸಹಿತಂ ಚರ್ಕೃತ್ಯಂ ಸಂಗ್ರಾಮಾಣಾಮತ್ಯರ್ಥಂ ಕರ್ತಾರಂ ಶತ್ರೂಣಾಂ ಜೇತಾರಂ ನಾ ದ್ರವಯತ್ಸಖಂ ಶತ್ರುಸಖೀನಾಂ ದ್ರಾವಯಿತಾರಂ
+> ಹವ್ಯಂ ಹ್ವಾತವ್ಯಂ ಮಯೋಭುವಂ ಸುಖಸ್ಯ ಭಾವಯಿತಾರಮಶ್ವಂ ನೃಭ್ಯೋ ಮನುಷ್ಯೇಭ್ಯೋ ಭಗಂ ನ
+> ಭಜನೀಯಂ ಧನಮಿವ ದದಥುಃ । ಪ್ರಾಯಚ್ಛತಂ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯುವಂ—ನೀವು । ಪೇದವೇ—ಪೇದುವೆಂಬ ರಾಜನಿಗೆ ।
+ಶ್ವೇತಂ—ಶ್ವೇತವರ್ಣವುಳ್ಳದ್ದೂ । ವಾಜಿನಂ—ಶಕ್ತಿಯುತವಾದುದೂ । ವಾಜೈಃ—ಶಕ್ತಿಯುತವಾದ । ನವಭಿಃ
+ನವತೀ ಚ—ತೊಂಭತ್ತೊಂಭತ್ತು ಇತರ ಅಶ್ವಗಳೊಂದಿಗೆ ಕೂಡಿದುದೂ । ಚರ್ಕೃತ್ಯಂ—ಸಂಗ್ರಾಮದಲ್ಲಿ
+ವೀರ್ಯಕರ್ಮವುಳ್ಳದ್ದೂ । ದ್ರವಯತ್ಸಖಂ—ಶತ್ರುವಿನ ಮಿತ್ರರನ್ನು ಓಡಿಸತಕ್ಕದ್ದೂ । ಹವ್ಯಂ—ಆಹ್ವಾನಕ್ಕೆ
+ಯೋಗ್ಯವಾದುದೂ । ಮಯೋಭುವಂ—ಸುಖಕ್ಕೆ ಸಾಧಕವಾದುದೂ ಆದ । ಅಶ್ವಂ—ಅಶ್ವವನ್ನು । ನೃಭ್ಯಃ—
+ಮಾನವರಿಗೆ ಹಿತಕರವಾದ । ಭಗಂ ನ—ಧನವನ್ನು ಕೊಡುವಂತೆ । ದದಥುಃ—ಕೊಟ್ಟಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ಪೇದುವೆಂಬ ರಾಜನಿಗೆ ಶ್ವೇತವರ್ಣವುಳ್ಳದ್ದೂ, ಶಕ್ತಿಯುತವಾದುದೂ
+ಶಕ್ತಿಯಿಂದ ಕೂಡಿದ ಬೇರೆ ತೊಂಭತ್ತೊಂಭತ್ತು ಅಶ್ವಯುತವಾದುದೂ, ಯುದ್ಧದಲ್ಲಿ ವೀರ್ಯಕರ್ಮವುಳ್ಳದ್ದೂ,
+ಶತ್ರುವಿನ ಮಿತ್ರರನ್ನು ಓಡಿಸತಕ್ಕುದೂ, ಆಹ್ವಾನಕ್ಕೆ ಯೋಗ್ಯವಾದುದೂ, ಸುಖಸಾಧಕವಾದುದೂ ಆದ ಅಶ್ವವನ್ನು
+ಮಾನವರಿಗೆ ಹಿತಕರವಾದ ಧನವನ್ನು ಕೊಡುವಂತೆ ಕೊಟ್ಟಿರಿ.
+
+*English Translation.*
+
+You gavc, Aswins, to Pedu a strong white horse with nine-and-ninety
+(other) steeds, (a horse) active (in combat), putting to flight the friends
+(of the foe), worthy to be invoked, a source of delight, like wealth to men.
+
+<!-- printed 962 -->
+*[962 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಪೇದು ಎಂಬ ರಾಜನು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಮಾಡಿದನು. ಅವರು ರಾಜನ ಸ್ತುತಿಯನ್ನು ಕೇಳಿ
+ಸಂತುಷ್ಟರಾಗಿ ಅವನಿಗೆ ಒಂದು ಕುದರೆಯನ್ನು ಉಚಿತವಾಗಿ ಅನುಗ್ರಹಮಾಡಿ ಕೊಟ್ಟರು. ಅದು ಬಿಳಿಯ ಬಣ್ಣ
+ವುಳ್ಳದ್ದಾಗಿ, ಯುದ್ಧ ಕಾಲದಲ್ಲಿ ಶತ್ರುಗಳನ್ನು ನಾಶಮಾಡುವ ಸಾಮರ್ಥ್ಯವುಳ್ಳದ್ದಾಗಿತ್ತು. ಇಂದ್ರನು ಅಶ್ವಿನೀದೇವತೆ
+ಗಳಿಗೆ ಇದನ್ನು ಹಿಂದೆ ಬಹುಮಾನವಾಗಿ ಕೊಟ್ಟಿದ್ದನು. ಅದು ಪ್ರತಿದಿನವೂ ಸಹಸ್ರ ಧನವನ್ನು ನಿಯತವಾಗಿ
+ಗೆಲ್ಲುವ ಸ್ವಭಾವವುಳ್ಳದ್ದೆಂದು ಕುದುರೆಯ ಉತ್ತಮತ್ವವು ವ್ಯಕ್ತವಾಗುವಂತೆ ವರ್ಣಿತವಾಗಿದೆ. ಸಾಯಣರು
+ಋ. ಸಂ. ೧-೧೧೬-೬ನೇ ಋಕ್ಕಿನ ಭಾಷ್ಯದಲ್ಲಿ—
+ಅತ್ರೇದಮಾಖ್ಯಾಯತೇ ! ಪೇದುರ್ನಾಮ ಕಶ್ಚಿತ್ । ಸ ಚಾಶ್ವಿನೌ ತುಷ್ಟಾವ । ತಸ್ಮೈ
+ಪ್ರೀತ್ಕಂಚಿಚ್ಛ್ವೇತವರ್ಣಮಶ್ವಂ ದತ್ತವಂತೌ । ಸ ಚಾಶ್ವಸ್ತಸ್ಯ ಜಯಂ ಚಕಾರೇತಿ ।
+ಏತದತ್ರ ಪ್ರತಿಪಾದ್ಯತೇ ।
+ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಪೇದು ಎಂಬ ಹೆಸರಿನ ಒಬ್ಬನು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸಿದನು. ಅವರು ಅವನ ಸ್ತೋತ್ರಕೆ
+ಮೆಚ್ಚಿ ಅವರು ಅವನಿಗೆ ಒಂದು ಕುದುರೆಯನ್ನು ಕೊಟ್ಟರು. ಈ ಋಕ್ಕಿನ ವಿಷಯದಲ್ಲಿ ಸ್ಕಂದಸ್ವಾಮಿಗಳು ಈ ರೀತಿ
+ಹೇಳಿದ್ದಾರೆ—
+ಅಘಾಶ್ವೋ ನಾಮ ರಾಜಾ ಯುಯುತ್ಸುರಾತ್ಮನೋ ಅಶ್ವಂ ಅಶ್ವಿನೌ ಯಯಾಚೇ ಸತತಂಚಾವಿನಾಶಂ । ತಸ್ಮೈ ಅಶ್ವಿನೌ ಬಲವಂತಂ ಅತ್ಯಂತವೇಗಿನಂ ಜಯಕರಂ ಸರ್ವತ್ರಾಪ್ರತಿಹತಗಮನಂ ಅಶ್ವಂ ಸತತಂ ಚಾವಿನಾಶಂ ದದತುರಿತಿ । ತದೇತದಿಹೋಚ್ಯತೇ ॥
+ಅಘಾಶ್ವನೆಂಬ ರಾಜನು ಯುದ್ಧ ಮಾಡಲು ಇಚ್ಛೆಯುಳ್ಳವನಾಗಿ ತನಗೆ ಬಹಳ ಶಕ್ತಿಯುಳ್ಳದ್ದಾಗಿಯೂ ವೇಗಶಾಲಿ
+ಯಾಗಿಯೂ ಎಲ್ಲಾ ಕಡೆಯಲ್ಲಿಯೂ ತಡೆಯೇ ಇಲ್ಲದಂತೆ ಸಂಚರಿಸುವುದೂ ಜಯವನ್ನು ಸಂಪಾದಿಸಿ ಕೊಡುವುದೂ
+ಯಾವಾಗಲೂ ನಾಶವನ್ನು ಹೊಂದದೆ ಇರುವುದೂ ಆದ ಒಂದು ಕುದುರೆಯನ್ನು ಕೊಡಬೇಕೆಂದು ಅಶ್ವಿನೀದೇವತೆ
+ಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಿದನು. ಅವರು ಇವನ ಪ್ರಾರ್ಥನೆಗೆ ಅನುಸಾರವಾಗಿ ಇವನ ಇಷ್ಟದಂತೆಯೇ ಇರುವ ಒಂದು ಬಿಳಿಯ
+ಕುದುರೆಯನ್ನು ಕೊಟ್ಟರು.
+ಮತ್ತು ಋ. ಸಂ. ೧-೧೧೭-೯ನೇ ಋಕ್ಕಿನ ಭಾಷ್ಯದಲ್ಲಿ—
+ಪೇದುರ್ನಾಮ ರಾಜಾ ತಸ್ಮೈ ಪರಯಾ ಭಕ್ತ್ಯಾ ಪರಿತುಷ್ಟಾವಶ್ವಿನ್ ಮಹಾವೀರ್ಯಂ
+ಶ್ವೇತಮಶ್ವಂ ದದತುಃ ಇತಿ ತತ್ಪರಸ್ತಾದ್ವಕ್ಷ್ಯತಿ । ಪೇದು ಎಂಬ ರಾಜನ ಉತ್ತಮವಾದ ಭಕ್ತಿಗೆ ಮೆಚ್ಚಿ
+ಅಶ್ವಿನೀದೇವತೆಗಳು ಉತ್ತಮವಾದ ಮತ್ತು ಬಹಳ ಶಕ್ತಿಯುಳ್ಳ ಒಂದು ಬಿಳಿಯ ಕುದುರೆಯನ್ನು ಕೊಟ್ಟರು ಎಂದು
+ಅರ್ಥವನ್ನು ಹೇಳಿ—
+ಜೋಹೂತ್ರಮರ್ಯೋ ಅಭಿಭೂತಮುಗ್ರಂ ಸಹಸ್ರಸಾಂ ವೃಷಣಂ ವೀಡ್ವಂಗಮ್ ॥
+ಯುವಂ ಶ್ವೇತಂ ಪೇದವ ಇಂದ್ರಜೂತಮಹಿಹನಮಶ್ವಿನಾ ದತ್ತಮಶ್ವಮ್ ।
+(ಋ. ಸಂ. ೧-೧೮-೯)
+
+<!-- printed 963 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 963]*
+
+ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಉದಹರಿಸಿರುವರು. ಇದಲ್ಲದೆ ಇದೇ ಅಭಿಪ್ರಾಯವುಳ್ಳ ಬೇರೆಯ ಋಕ್ಕನ್ನೂ ಇವರು ಉದಾಹರಿ
+ಸಿರುತ್ತಾರೆ.
+ಯುವಂ ಶ್ವೇತಂ ಪೇದವೇಽಶ್ವಿನಾಶ್ವಂ ನವಭಿರ್ವಾಜೈರ್ನವತೀ ಚ ವಾಜಿನಂ ।
+ಚರ್ಕೃತ್ಯಂ ದದಥುದ್ರ್ರಾವಯತ್ಸಖಂ ಭಗಂ ನ ನೃಭ್ಯೋ ಹವ್ಯಂ ಮಯೋಭುವಂ ॥
+(ಋ. ಸಂ. ೧೦-೩೯-೧೦)
+ಎಂದೂ ಹೇಳಿದ್ದಾರೆ.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನ ತಂ ರಾಜಾನಾವದಿತೇ ಕುತಶ್ಚನ ನಾಂಹೋ ಅಶ್ನೋತಿ ದುರಿತಂ
+> ನಕಿರ್ಭಯಂ ।
+> ಯಮಶ್ವಿನಾ ಸುಹವಾ ರುದ್ರವರ್ತನೀ ಪುರೋರಥಂ ಕೃಣುಥಃ ಪತ್ನ್ಯಾ
+> ಸಹ ॥ ೧೧ ॥
+
+*ಪದಪಾಠಃ*
+
+> ನ । ತಂ । ರಾಜಾನೌ । ಅದಿತೇ । ಕುತಃ । ಚನ । ನ । ಅಂಹಃ । ಅಶ್ನೋತಿ । ದುಃಇತಂ । ನಕಿಃ ।
+> ಭಯಂ ।
+> ಯಂ । ಅಶ್ವಿನಾ । ಸುಹವಾ । ರುದ್ರವರ್ತನೀ ಇತಿ ರುದ್ರವರ್ತನೀ । ಪುರಃರಥಂ । ಕೃಣುಥಃ ।
+> ಪತ್ನ್ಯಾ । ಸಹ ॥ ೧೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ರಾಜಾನಾವೀಶ್ವರಾವದಿತೇ ಆದೀನ್ಸೌ ಸುಹನ್ಸೌ ಸ್ವಾಹ್ವಾನ್ ರುದ್ರವರ್ತನೀ ಸ್ತೋತ್ರಯುಕ್ತಮಾರ್ಗೌ ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವಾಂ ಯಂ ಜನಂ ಪುರೋರಥಮಗ್ರತೋರಥಂ ಪತ್ನ್ಯಾ ಸಹ
+> ಸ್ವಯಂವರೇ ಕೃಣುಥಃ ಕುರುಥಃ ತಂ ಜನಂ ಕುತಶ್ಚನ ಕುತೋಽಪ್ಯಂಹಃ ಪಾಪಂ ನಾಶ್ನೋತಿ । ನ
+> ವ್ಯಾಪ್ನೋತಿ । ದುರಿತಂ ದುರ್ಗತಿರಪಿ ನಾಶ್ನೋತಿ । ನಕಿರ್ನ ಚ ಭಯಂ ಸಂಸಾರಭಯಂ ನ ಪ್ರಾಪ್ನೋತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅದಿತೇ—ದೈನ್ಯರಹಿತರೂ । ರಾಜಾನ್—ಪ್ರಭುಗಳೂ । ಸುಹವಾ—ಆಹ್ವಾನಕ್ಕೆ ಯೋಗ್ಯರೂ ।
+ರುದ್ರವರ್ತನೀ—ಸ್ತುತಿಯುಕ್ತವಾದ ಮಾರ್ಗವುಳ್ಳವರೂ ಆದ । ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯಂ—
+
+<!-- printed 964 -->
+*[964 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩ ಸೂ ೩೯.]*
+
+ಯಾವ ಪುರುಷನನ್ನು । ಪತ್ನ್ಯಾ ಸಹ—ಪತ್ನಿಯಿಂದೊಡಗೂಡಿ । ಪುರೋರಥಂ—ರಥದಲ್ಲಿ ಸ್ಥಾಪಿತನನ್ನಾಗಿ ।
+ಕೃಣುಥಃ—ನೀವು ಮಾಡುವಿರೋ । ತಂ—ಆ ಪುರುಷನನ್ನು । ಕುತಶ್ಚನ—ಎಲ್ಲಿಂದಲೂ ಸಹ । ಅ೦ಹಃ—
+ಪಾಪವು ! ನ ಅಶ್ನೋತಿ—ವ್ಯಾಪಿಸುವುದಿಲ್ಲ ! ದುರಿತಂ—ದುಃಖಸಾಧನವೂ ! ನಕಿಃ ಭಯಂ—ಯಾವ ಇತರ
+ಭಯವೂ ಅಂಟುವುದಿಲ್ಲ.
+
+*ಭಾವಾರ್ಥ*
+
+ದೈನ್ಯರಹಿತರೂ, ಪ್ರಭುಗಳೂ, ಆಹ್ವಾನಕ್ಕೆ ಯೋಗ್ಯರೂ, ಸ್ತುತಿಯುಕ್ತವಾದ ಮಾರ್ಗವುಳ್ಳವರೂ ಆದ
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಯಾವ ಪುರುಷನನ್ನು ನೀವು ಪತ್ನಿಯೊಡನೆ ಕೂಡಿಸಿ ರಥದಲ್ಲಿ ಸ್ಥಾಪಿಸುವಿರೋ, ಆ ಪುರುಷ
+ನನ್ನು ಪಾಪವಾಗಲಿ ಯಾವ ಭೀತಿಯಾಗಲಿ ಸಮೀಪಿಸುವುದಿಲ್ಲ.
+
+*English Translation.*
+
+Lofty sovereigns, worthy of invocation, going on roads which are praised in hymus, Aswins, the man whom with his wife you place in front of (your) car, encounters not from any quarter wickedness, difficulty, or danger.
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆ ತೇನ ಯಾತಂ ಮನಸೋ ಜವೀಯಸಾ ರಥಂ ಯಂ ವಾಮೃಭವಶ್ಚಕ್ರುರಶ್ವಿನಾ ।
+> ಯಸ್ಯ ಯೋಗೇ ದುಹಿತಾ ಜಾಯತೇ ದಿವ ಉಭೇ ಅಹನೀ ಸುದಿನೇ
+> ವಿವಸ್ವತಃ ॥ ೧೨ ॥
+*[೧ ಪದಪಾರು ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ತೇನ । ಯಾತಂ । ಮನಸಃ । ಜವೀಯಸಾ । ರಥಂ । ಯಂ । ವಾಂ । ಋಭವಃ । ಚಕ್ರುಃ ।
+> ಅಶ್ವಿನಾ ।
+> ಯಸ್ಯ । ಯೋಗೇ । ದುಹಿತಾ । ಜಾಯತೇ । ದಿವಃ । ಉಭೇ ಇತಿ । ಅಹನೀ ಇತಿ । ಸುದಿನೇ ಇತಿ
+> ಸುದಿನೇ । ವಿವಸ್ವತಃ ॥ ೧೨ ॥
+
+<!-- printed 965 -->
+*[ಆ. ೭. ಅ. ೮. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 965]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ವಾಂ ಯುವಯೋರ್ಯಂ ರಥಮೃಭವಶ್ಚಕ್ರುಃ ಅಕಾರ್ಷುಃ ಯಸ್ಯ ರಥಸ್ಯ
+> ಯೋಗೇ ಸಂಬಂಧೇ ಸತಿ ದಿವೋ ದುಹಿತೋಷಾ ಜಾಯತೇ ಪ್ರಾದುರ್ಭವತಿ ಯಸ್ಯ ಚ ಯೋಗೇ
+> ವಿವಸ್ವತೋ ಭಾಸ್ಕಸಾದುಭೇ ಅಹನೀ ಅಹೋರಾತ್ರೇ ಸುದಿನೇ ಶೋಭನೇ ಜಾಯೇತೇ ತೇನ ರಥೇನ
+> ಮನಸೋಪಿ ಜವೀಯಸಾ ವೇಗವತ್ತರೇಣಾ ಯಾತಂ । ಯುವಾಮಾಗಚ್ಛತಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ವಾಂ—ನಿಮ್ಮ । ಯಂ ರಥಂ—ಯಾವ ರಥವನ್ನು ।
+ಋಭವಃ—ಋಭುಗಳು । ಚಕ್ರುಃ—ನಿರ್ಮಿಸಿದರೋ । ಯಸ್ಯ—ಯಾವ ರಥದ । ಯೋಗೇ—ಸಂಬಂಧ
+ವುಂಟಾದಾಗ । ದಿವಃ ದುಹಿತಾ—ಉಷೋದೇವಿಯು । ಜಾಯತೇ—ಉತ್ಪನ್ನವಾಗುವಳೋ (ಯಾವ ಅದೆ
+ಕಾಲದಲ್ಲಿ) । ವಿವಸ್ವತಃ—ಆದಿತ್ಯನಿಂದ । ಉಭೇ ಅಹನೀ—ಅಹೋರಾತ್ರಗಳೆರಡೂ । ಸುದಿನೇ—ಉತ್ತಮ
+ವಾಗಿ ಉತ್ಪನ್ನವಾಗುವುವೋ । ತೇನ—ಅಂತಹ । ಮನಸಃ ಜವೀಯಸಾ—ಮನೋವೇಗಕ್ಕಿಂತಲೂ ಅಧಿಕವಾದ
+ವೇಗವುಳ್ಳ ರಥದೊಡನೆ । ಆ ಯಾತಂ—ಬನ್ನಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಿಮ್ಮ ಯಾವ ರಥವನ್ನು ಋಭುಗಳು ನಿರ್ಮಿಸಿದರೋ, ಯಾವ ರಥದ
+ಸಂಬಂಧವುಂಟಾದಾಗ ದಿವಸ್ಪುತ್ರಿಯಾದ ಉಷೋದೇವಿಯು ಉತ್ಪನ್ನಳಾಗುವಳೋ, ಯಾವ ಅದೇಕಾಲದಲ್ಲಿ ಆದಿತ್ಯ
+ನಿಂದ ಅಹೋರಾತ್ರಗಳೆರಡೂ ಉತ್ಪನ್ನವಾಗುವುವೋ ಅಂತಹ ಮನೋವೇಗಕ್ಕಿಂತಲೂ ಅಧಿಕವಾದ ವೇಗವುಳ್ಳ ರಥ
+ದೊಡನೆ ಬನ್ನಿರಿ.
+
+*English Translation.*
+
+Come, Ashwins, with the chariot that is swifter than thought, which
+the Ribhus made for yon : in connection with which the daughtcr of heaven,
+(the dawn), is born, and both the auspicious day and night from Vivaswat.
+
+#### ಋಕ್ ೧೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತಾ ವರ್ತಿರ್ಯಾತಂ ಜಯುಷಾ ವಿ ಪರ್ವತಮಪಿನ್ವತಂ ಶಯವೇ ಧೇನುಮಶ್ವಿನಾ ।
+> ವೃಕಸ್ಯ ಚಿದ್ವರ್ತಿಕಾಮಂತರಾಸ್ಯಾದ್ಯುವಂ ಶಚೀಭಿರ್ಗ್ರಸಿತಾಮಮುಂಚತಂ ॥
+
+<!-- printed 966 -->
+*[೯೬೬	ಗಾಯಣಭಾಷ್ಯಸಹಿತಾ	[ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+
+*ಪದಪಾಠಃ*
+
+> ತಾ । ವರ್ತಿಃ । ಯಾತಂ । ಜಯುಷಾ । ವಿ । ಪರ್ವತಂ । ಅಪಿನ್ವತಂ । ಶಯವೇ । ಧೇನುಂ । ಅಶ್ವಿನಾ ।
+> ವೃಕಸ್ಯ । ಚಿತ್ । ವರ್ತಿಕಾಂ । ಅಂತಃ । ಆಸ್ತ್ಯಾತ್ । ಯುವಂ । ಶಚೀಭಿಃ । ಗ್ರಸಿತಾಂ । ಅಮುಂಚತಂ ॥ ೧೩ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ತಾ ತೌ ಯುವಾಂ ಜಯುಷಾ ಜಯಶೀಲೇನ ರಥೇನ ಪರ್ವತಮದಿಂ ಪ್ರತಿ
+> ವರ್ತಿಮಾರ್ಗಂ ವಿ ಯಾತಂ । ವಿವಿಧಂ ಗಚ್ಛಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ವಿ ಜಯುಷಾ ರಥ್ಯಾ
+> ಯಾತಮದ್ರಿಂ ಶ್ರುತಂ ಹವಂ ವೃಷಣಾ ವಧ್ರಿಮತ್ಯಾಃ । ಋ. ೬ ೬೨.೭ । ಇತಿ । ಕಿಂಚ ಯುವಾಂ
+> ಶಯವೇ ಶಯೋರರ್ಥಾಯ ಧೇನುಮಪಿನ್ವತಂ । ನಿವೃತ್ತಪ್ರಸವಾಂ ವೃದ್ಧಾಂ ಗಾಂ ಪ್ರಭೂತಸ್ಯ
+> ಪಯಸೋ ದೋಗ್ಧೀಂ ಕೃತವಂತೌ ಸ್ಥ ಇತ್ಯರ್ಥಃ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಯುವಂ ಧೇನುಂ
+> ಶಯವೇ ನಾಧಿತಾಯಾಪಿನ್ವತಮಶ್ವಿನಾ ಪೂರ್ವಾಯ । ಋ. ೧-೧೧೮-೮ । ಇತಿ । ಕಿಂಚ ಯುವಂ
+> ಯುವಾಂ ವೃಕಸ್ಯಾಂತರನುಪ್ರವಿಷ್ಟಾಂ ಗ್ರಸಿತಾಂ ವೃಕೇಣ ಗ್ರಸ್ತಾಂ ವರ್ತಿಕಾಂ । ವರ್ತಿಕಾ ನಾಮ
+> ಚಟಕಾ । ತಾಮಾಸ್ಯಾದ್ವಕಸ್ಯ ಮುಖಾಚ್ಛಚೀಭಿಃ ಪ್ರಜ್ಞಾಭಿಃ ಕರ್ಮಭಿರ್ವಾಮುಂಚತಂ । ಅನೋಚಯತಂ । ತಥಾ ಚ ನಿಗಮಾಂತರಂ । ಅಜೋಹವೀದಶ್ವಿನಾ ವರ್ತಿಕಾ ನಾಮಾಸ್ನೋ ಯತ್ಸೀಮಮುಂಚತಂ ವೃಕಸ್ಯ! ಋ. ೧.೧೧೭-೧೬! ಇತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ— ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ತಾ—ನೀವು । ಜಯುಷಾ—ಜಯಶಾಲಿಯಾದ ರಥದೊಡನೆ ।
+ಪರ್ವತಂ ವರ್ತಿಃ—ಪರ್ವತಮಾರ್ಗದಲ್ಲಿ । ವಿ ಯಾತಂ—ಅನೇಕವಿಧವಾಗಿ ಸಂಚರಿಸಿ । ಶಯವೇ—ಶಯು
+ವಿಗಾಗಿ । ಧೇನುಂ ಅಪಿನ್ವತಂ—ಬಂಜೆಯಾದ ಹಸುವನ್ನು ಕರೆಯುವ ಹಸುವಾಗುವಂತೆ ಪುಷ್ಟಿಗೊಳಿಸಿದಿರಿ ।
+ಯುವಂ— ನೀವು । ವೃಕಸ್ಯ ಅಂತಃ—ತೋಳನ ಬಾಯೊಳಗೆ । ಗ್ರಸಿತಾಂ—ನುಂಗಲ್ಪಟ್ಟ । ವರ್ತಿಕಾಂ—
+ವರ್ತಿಕಾ ಎಂಬ ಹಕ್ಕಿಯನ್ನು । ಆಸ್ಯಾತ್—ಅದರ ಮುಖದಿಂದ । ಶಚೀಭಿಃ—ನಿಮ್ಮ ಕರ್ಮಗಳಿಂದ ।
+ಅಮುಂಚತಂ—ಬಿಡಿಸಿದಿರಿ.
+*[॥ ಭವಾರ್ಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ನಿಮ್ಮ ಜಯಶಾಲಿಯಾದ ರಥದೊಡನೆ ಪರ್ವತಮಾರ್ಗದಲ್ಲಿ
+ಅನೇಕವಿಧವಾಗಿ ಸಂಚರಿಸಿರಿ. ನೀವು ಶಯುವಿಗಾಗಿ ಬಂಜೆಯಾಗಿದ್ದ ಹಸುವನ್ನು ಕರೆಯುವಂತೆ ಮಾಡಿದಿರಿ.
+ತೋಳನ ಬಾಯೊಳಗೆ ನುಂಗಲ್ಪಟ್ಟ ಗುಬ್ಬಚ್ಚಿಯನ್ನು ಅದರ ಮುಖದಿಂದ ಬಿಡಿಸಿದಿರಿ.
+
+*English Translation.*
+
+Do you two, Ashwins, climb the path to the mountain with your triumphant chariot ; you have renovated for Shayu the (barren) milch cow : you liberated by your acts the quail that had becu seized from the jaws of the wolf.
+
+<!-- printed 967 -->
+*[ಆ. ೭. ಅ. ೮. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 967]*
+
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಶಯವೇ ಧೇನುಂ ಅಪಿನ್ವತಂ—ಶಯು ಎಂಬುವನ ಒಂದು ಹಸವು ಬಹಳ ಆಶಕ್ತಿಯುಳ್ಳದ್ದಾಗಿ ಸಣ್ಣ
+ನಾದ ಕೈಕಾಲುಗಳುಳ್ಳದ್ದಾಗಿತ್ತು. ಅದರ ಶರೀರಸ್ಥಿತಿಯು ಸರಿಯಾಗಿ ಇಲ್ಲದ್ದರಿಂದ ಅದು ಬಹಳ ಕೃಶವಾಗಿ ಕರು
+ವನ್ನು ಹಾಕಿ ಹಾಲನ್ನು ಕೊಡುವ ರೀತಿಯಲ್ಲಿರಲಿಲ್ಲ. ಹೀಗೆ ಇರುವ ಹಸುವಿಗೆ ಶಕ್ತಿಯು ಬರುವಂತೆ ಚಿಕಿತ್ಸೆಯನ್ನು
+ಮಾಡಿ ಅದು ಹಾಲು ಕೊಡುವಂತೆ ಅಶ್ವಿನೀದೇವತೆಗಳು ಮಾಡಿದರು ಎಂದು ಸಾಯಣರು ವಿವರಿಸಿರುವರು. ಸ್ಕಂದ
+ಸ್ವಾಮಿಗಳೂ ಹೀಗೆಯೇ ಅರ್ಥವನ್ನು ವಿವರಿಸಿ—
+ಶಯವೇ ಚಿನ್ನಾ ಸತ್ಯಾ ಶಚೀಭಿರ್ಜಸುರಯೇ ಸ್ತರ್ಯಂ ಪಿಪ್ಯಥುರ್ಗಾಂ ।
+(ಋ. ಸಂ. ೧-೧೧೯-೨೨)
+ಎಂಬ ಈ ಯಕ್ಷನ್ನು ಉದಹರಿಸಿದವರು.
+ಯುವಂ ವೃಕಸ್ಯ ಅಂತಃ ಗ್ರಸಿತಾಂ ವರ್ತಿಕಾಂ ಆಸ್ಮಾತ್ ಶಚೀಭಿಃ ಅಮುಂಚತಂ ವರ್ತಿಕಾ
+ಜಟಕಸದೃಶಸ್ಯ ಪಕ್ಷಿಣಃ ಸ್ತ್ರೀ । ತಾಮರಣ್ಯೇ ವರ್ತಮಾನೇನ ಶುನಾ (ವೃಕೇಣ) ಗ್ರಸ್ತಾಂ
+ಪುರಾ ಕಿಲಾಶ್ವಿನಾವಮೋಚಯತಾಂ । ತದೇತದಾಹ ।
+ಒಂದಾನೊಂದು ಸಮಯದಲ್ಲಿ ಒಂದು ಅರಣ್ಯದಲ್ಲಿ ಒಂದು ತೋಳವು ಒಂದು ಗುಬ್ಬಚ್ಚಿಯನ್ನು ಹಿಡಿದು ಅದನ್ನು
+ತಿನ್ನುವುದಕ್ಕಾಗಿ ಬಾಯಲ್ಲಿ ಕಚ್ಚಿಕೊಂಡು ಹೋಗುತ್ತಿದ್ದಾಗ ಅಶ್ವಿನೀದೇವತೆಗಳು ಆ ಗುಬ್ಬಚ್ಚಿಯನ್ನು ತೋಳನ
+ಬಾಯಿನಿಂದ ಬಿಡಿಸಿ ಕಾಪಾಡಿದರು.
+ವೃಕಸ್ಯ—ವಿಕರ್ತಕಸ್ಯ । ಅತಿಶಯವಾಗಿ ಹಿಂಸೆಮಾಡುವ ಎಂದು ಅರ್ಥ. ವೃಕಶಬ್ದವು ಹದಿನೆಂಟು
+ವಜ್ರನಾಮಗಳಲ್ಲಿಯೂ (ನಿ ೩-೧೧) ಹದಿನಾಲ್ಕು ಸ್ತೇನನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೧೯) ಪಠಿತವಾಗಿರುವುದು.
+ಮತ್ತೂ—
+ವೃಕಃ-ವೃಕಶ್ಚಂದ್ರಮಾ ಭವತಿ ವಿವೃತಜ್ಯೋತಿಷ್ಕೋ ವಾ ವಿಕೃತಜ್ಯೋತಿಷ್ಕೋ ನಾ ವಿಕ್ರಾಂತ
+ಜ್ಯೋತಿಷ್ಕೋ ವಾ ॥ (ನಿ. ೫-೨೧).
+ಪ್ರಕಾಶಿತವಾದ ಜ್ಯೋತಿಸ್ಸುಳ್ಳವನಾದುದರಿಂದಲೂ, ಅಥವಾ ತೀತಕರವಾದ (ತಣ್ಣಗಿರುವ) ಪ್ರಕಾಶದ ಅತಿಶಯದಿಂದ
+ಇತರರನ್ನು ವಿಕೃತಮಾಡುವ ಕಾರಣದಿಂದಲೂ ಅಥವಾ ಗ್ರಹನಕ್ಷತ್ರಾದಿಜ್ಯೋತಿಸ್ಸುಗಳಿಗಿಂತ ಹೆಚ್ಚಾದ ಪ್ರಕಾಶವುಳ್ಳ
+ಕಾರಣದಿಂದಲೂ ಚಂದ್ರನು ವೃಕಶಬ್ದವಾಚ್ಯನಾಗಿರುವನು ಎಂದು ವೃಕಶಬ್ದದ ಅರ್ಥವನ್ನು ಯಾಸ್ಕರು ವಿವರಿ
+ಸಿರುವರು.
+ಅರುಣೋ ಮಾ ಸಕೃದ್ವಕಃ ಪಥಾ ಯಂತಂ ದದರ್ಶ ಹಿ ।
+ಉಜ್ಜಿಹೀತೇ ನಿಚಾಯ್ಯಾ ತಪ್ಪೇವ ಪೃಷ್ಟಾಮಯೀ ವಿತ್ತಂ ಮೇ ಅಸ್ಯ ರೋದಸೀ ॥
+(ಋ. ಸಂ. ೧-೧೦೫-೧೮)
+ಎಂಬ ಮುಕ್ಕನ್ನು ಉದಾಹರಣೆಯಾಗಿ ಕೊಟ್ಟು—
+ಅರುಣ ಆರೋಚಮಾನೋ ಮಾಸಕೃನ್ಮಾಸಾನಾಂ ಚಾರ್ಧಮಾಸಾನಾಂ ಚ ಕರ್ತಾ ಭವತಿ
+ಚಂದ್ರಮಾ ವೃಕಃ ಪಥಾ ಯಂತಂ ದದರ್ಶ ನಕ್ಷತ್ರಗಣಮಭಿಜಿಹೀತೇ ನಿಚಾಯ್ಯ ಯೇನ
+ಯೇನ ಯೋಕ್ಷ್ಯಮಾಣೋ ಭವತಿ ಚಂದ್ರಮಾಸ್ತಕ್ಷ್ಣುವನ್ನಿವ ಪೃಷ್ಠರೋಗೀ ಜಾನೀತಂ
+ಮೇಽಸ್ಯ ದ್ಯಾವಾಪೃಧಿವ್ಯಾವಿತಿ ॥ (ನಿ. ೫-೨೧)
+
+<!-- printed 968 -->
+*[968 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೩೯]*
+
+ಈ ಋಕ್ಕಿನಲ್ಲಿರುವ ವ್ಯಕಶಬ್ದಕ್ಕೆ ಚಂದ್ರನೆಂದು ಅರ್ಥವನ್ನು ವಿವರಿಸಿರುವರು.
+ಆದಿತ್ಯೋಽಪಿ ವೃಕ ಉಚ್ಯತೇ । ಯದಾವೃಂಕ್ತೇ (ನಿ. ೫-೨೧) ಆದಿತ್ಯನಿಗೂ ವೃಕ ಎಂದು ಹೆಸರು.
+ಏತಕ್ಕೆಂದರೆ ತಮಸ್ಸನ್ನು (ಕತ್ತಲೆಯನ್ನು) ತನ್ನ ಪ್ರಕಾಶದಿಂದ (ಅಥವಾ ಕಿರಣಗಳಿಂದ) ಆವರಿಸುವನು (ಮುಚ್ಚು
+ವನು) ಎಂದು ಹೇಳಿ—
+ಅಜೋಹವೀದಶ್ವಿನಾ ವರ್ತಿಕಾ ನಾಮಾಸ್ನೋ ಯತ್ಸೀಮಮುಂಚತಂ ವೃಕಸ್ಯ ।
+ವಿ ಜಯುಷಾ ಯಯಥುಃ ಸಾನ್ವದ್ರೇರ್ಜಾತಂ ವಿಷ್ಣಾಚೋ ಅಹತಂ ವಿಷೇಣ ॥
+(ಋ. ೧-೧೧೭-೧೬)
+ಎಂಬ ಋಕ್ಕನ್ನು ಉದಾಹರಣೆಯಾಗಿ ಕೊಟ್ಟು— ಆಹ್ವಯದುಷಾ ಅಶ್ವಿನಾವಾದಿತ್ಯೇನಾಭಿಗ್ರಸ್ತಾ ತಾಮಶ್ವಿನೌ
+ಪ್ರಮುಮುಚತುರಿತ್ಯಾಖ್ಯಾನಂ । ಎಂದು ನಿರ್ವಚನವನ್ನು ಹೇಳಿ ವೃಕನೆಂದರೆ ಆದಿತ್ಯನೆಂದು ಹೇಳಿರುವರು.
+ಶ್ವಾಪಿ ವೃಕ ಉಚ್ಯತೇ ವಿಕರ್ತನಾತ್ ।
+(ನಿ. ೫-೨೦)
+ವ್ಯಕ ಎಂದರೆ ನಾಯಿಯೆಂದೂ ಅರ್ಥವಾಗುವುದು, ಉದಾಹರಣೆಗಾಗಿ—
+ವೃಕಶ್ಚಿದಸ್ಯ ವಾರಣ ಉರಾಮಥಿರಾ ವಯುನೇಷು ಭೂಷತಿ ।
+ಸೇಮಂ ನಃ ಸ್ತೋಮಂ ಜುಜುಷಾಣ ಆ ಗಹೀಂದ್ರ ಪ್ರ ಚಿತ್ರಯಾ ಧಿಯಾ ॥
+(ಋ. ಸಂ. ೮.೬೬.೮)
+ಎಂಬ ಋಕ್ಕನ್ನು ಹೇಳಿ—ವಿವಿಧಮಸೌ ಕೃಂತತಿ ತಸ್ಮಾದ್ವೃಕಃ । ಆಹಾರವನ್ನು ತಿನ್ನುವಾಗ ಅದನ್ನು ತುಂಡು
+ತುಂಡಾಗಿ ಕತ್ತರಿಸಿ ತಿನ್ನುವುದರಿಂದ ನಾಯಿಗೆ ವೃಕ ಎಂದು ಹೆಸರು. ಈ ಋಕ್ಕಿನಲ್ಲಿ ಇರುವ ವೃಕಶಬ್ದಕ್ಕೆ ದೇವತೆಗಳ
+ನಾಯಿಯಾದ ಸಾರಮೇಯವು ಎಂದು ಅರ್ಥವಿವರಣೆ ಮಾಡಿರುವರು.
+ವೃದ್ಧವಾಶಿನ್ಯಪಿ ವೃಕ್ಯುಚ್ಯತೇ । (ನಿ. ೫-೨೧) ದೊಡ್ಡದಾದ ಹೆಣ್ಣು ನರಿಗಾಗಲಿ, ತೋಳನಿಗಾಗಲಿ ವೃಕೀ
+ಎಂದು ಹೆಸರು ಎಂದು ಹೇಳಿ ಈ ಅರ್ಥಸಮರ್ಥನೆಗಾಗಿ—
+ಶತಂ ಮೇಷಾನ್ ವೃಕ್ಷೇ ಚಕ್ಷದಾನಮೃಜ್ರಾಶ್ವಂ ತಂ ಪಿತಾಂಧಂ ಚಕಾರ ।
+ತಸ್ಮಾ ಅಕ್ಷೀ ನಾಸತ್ಯಾ ವಿಚಕ್ಷ ಆಧತ್ತಂ ದಸ್ರಾ ಭಿಷಜಾವನರ್ವನ್ ॥
+(ಋ. ಸಂ. ೧-೧೧೬-೮೬)
+ಎಂಬ ಋಕ್ಕನ್ನು ಉದಾಹರಿಸಿ ಇಲ್ಲಿರುವ ವೃಕ್ಷೇ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಹೆಣ್ಣುನರಿಗೆ ಅಥವಾ ತೋಳನಿಗೆ ಎಂಬರ್ಥವನ್ನು
+ಹೇಳಿರುವರು. ಹೀಗೆ ವೃಕಶಬ್ದಕ್ಕೆ ಅನೇಕಾರ್ಥಗಳಿರುವುದನ್ನು ತೋರಿಸಿ ಆಯಾಯ ಉದಾಹರಣೆಗಳನ್ನೂ
+ಉದಾಹರಿಸಿರುವರು.
+ಸ್ಕಂದಸ್ವಾಮಿಗಳು ವೃಕೇಣ ಗ್ರಸ್ಯಮಾನಾಂ ಚಟಕಾಂ ವೃಕಸ್ಯ ಆಸ್ಮಾತ್ ಮೋಚಿತವಂತಾ ಸಾಯ
+ಣರು ಅರ್ಥಮಾಡಿರುವಂತೆಯೇ ತೋಳನ ಮುಖದಿಂದ ಗುಬ್ಬಚ್ಚಿಯನ್ನು ಅಶ್ವಿನೀದೇವತೆಗಳು ಬಿಡಿಸಿ ರಕ್ಷಿಸಿದರು
+ಎಂದು ಅರ್ಥವನ್ನು ವಿವರಿಸಿ.
+
+<!-- printed 969 -->
+*[ಆ. ೭ ಅ. ೮. ವ. ೧೭.] ಋಗ್ವೇದಸಂಹಿತಾ 969]*
+
+ಯಾಭಿರ್ವರ್ತಿಕಾಂ ಗ್ರಸಿತಾಮಮುಂಚತಂ ತಾಭಿರೂ ಷು ಊತಿಭಿರಶ್ವಿನಾಗತಮ್ ॥
+(ಋ. ಸಂ. ೧-೧೧೨-೮)
+ಉದಹರಿಸಿರುವರು.
+ಎಂದು ಉದಹರಿಸಿರುವರು.
+
+#### ಋಕ್ ೧೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಏತಂ ವಾಂ ಸ್ತೋಮಮಶ್ವಿನಾವಕರ್ಮಾತಕ್ಷಾಮ ಭೃಗವೋ ನ ರಥಂ ।
+> ನ್ಯಮೃಕ್ಷಾಮ ಯೋಷಣಾಂ ನ ಮರ್ಯೆ ನಿತ್ಯಂ ನ ಸೂನುಂ ತನಯಂ
+> ದಧಾನಾಃ ॥ ೮೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಏತಂ । ವಾಂ । ಸ್ತೋಮಂ । ಅಶ್ವಿನೌ । ಅಕರ್ಮ । ಅತಕ್ಷಾಮ । ಭೃಗವಃ । ನ । ರಥಂ ।
+> ನಿ । ಅಮೃಕ್ಷಾಮ । ಯೋಷಣಾಂ । ನ । ಮರ್ಯೆ । ನಿತ್ಯಂ । ನ । ಸೂನುಂ । ತನಯಂ । ದಧಾನಾಃ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ತತೋ ವಾಂ ಯುವಯೋರೇತಂ ಯಥೋಕ್ತಂ ಸ್ತೋಮಂ ಸ್ತೋತ್ರಮಕರ್ಮ । ಅಕುರ್ಮ । ತದೇವಾಹ । ಭೃಗವೋ ನ ಭೃಗವ ಇವ ರಥಮತಕ್ಷಾಮ । ವಯಂ ಸ್ತೋತ್ರಂ
+> ಸಂಸ್ಕೃತವಂತಃ । ಕರ್ಮಯೋಗಾದೃಭವೋ ಭೃಗವ ಉಚ್ಯಂತೇ । ಅಥವಾ ರಥಕಾರಾ ಭೃಗವಃ । ಕಿಂಚ
+> ವಯಂ ನಿತ್ಯಂ ಶಾಶ್ವತಂ ತನಯಂ ಯಾಗಾದೀನಾಂ ಕರ್ಮಣಾಂ ತನಿತಾರಂ ಸೂನುಂ ನಾರಸಂ ಪುತ್ರಮಿವ ಸ್ತೋಮಂ ದಧಾನಾ ಧಾರಯಂತೋ ಮರ್ಯೆ ಮನುಷ್ಯೇ ನ್ಯಮೃಕ್ಷಾಮ । ಯುವಯೋಃ
+> ಸ್ತುತಿಂ ನಿತರಾಂ ಸಂಸ್ಕೃತವಂತಃ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಯೋಷಣಾಂ ನ । ಯಥಾ ಜಾಯಾಂ
+> ತದ್ವದಿತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ವಾಂ—ನಿಮ್ಮನ್ನುದ್ದೇಶಿಸಿ । ಏತಂ ಸ್ತೋಮಂ—ಈ ಸ್ತೋತ್ರ
+ವನ್ನು । ಅಕರ್ಮ—ನಿರ್ಮಿಸಿದ್ದೇವೆ । ಭೃಗವಃ—ಋಭುಗಳು । ರಥಂ ನ—ನಿಮ್ಮ ರಥವನ್ನು ಸಂಸ್ಕರಿಸುವಂತೆ ।
+ಅತಕ್ಷಾಮ—ಈ ಸ್ತುತಿಯನ್ನು ಸಂಸ್ಕರಿಸುತ್ತೇವೆ । ಸೂನುಂ ನ—ಪುತ್ರನನ್ನು ಆದರಿಸುವಂತೆ । ನಿತ್ಯಂ—
+ಶಾಶ್ವತವೂ । ತನಯಂ—ಯಾಗವನ್ನು ವಿಸ್ತಾರಗೊಳಿಸುವುದೂ ಆದ ಸ್ತುತಿಯನ್ನು । ದಧಾನಾಃ—ನಿರ್ಮಿಸಿದವ
+ರಾಗಿ । ಯೋಷಣಾಂ ನ—ಪತ್ನಿಯನ್ನು ಅಲಂಕರಿಸುವಂತೆ । ಮರ್ತ್ಯೇ—ಮಾನವರ ನಡುವೆ । ನ್ಯಮೃಕ್ಷಾಮ—
+ಪೂರ್ಣವಾಗಿ ಅಲಂಕರಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಿಮ್ಮನ್ನುದ್ದೇಶಿಸಿ ಈ ಸ್ತೋತ್ರವನ್ನು ನಿರ್ಮಿಸಿದ್ದೇವೆ. ಋಭುಗಳು ನಿಮ್ಮ
+ರಥವನ್ನು ಸಂಸ್ಕರಿಸುವಂತೆ ಈ ಸ್ತುತಿಯನ್ನು ಸಂಸ್ಕರಿಸುತ್ತೇವೆ. ಪುತ್ರನನ್ನು ಆದರಿಸುವಂತೆ ಶಾಶ್ವತವೂ ಯಾಗವನ್ನು
+
+<!-- printed 970 -->
+*[970 ಸಾಯಣಭಾವ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೪೦]*
+
+ವಿಸ್ತಾರಗೊಳಿಸುವುದೂ ಆದ ಸ್ತುತಿಯನ್ನು ನಿರ್ಮಿಸಿದವರಾಗಿ ಪತ್ನಿಯನ್ನು ಅಲಂಕರಿಸುವಂತೆ ಮಾನವರ ನಡುವೆ
+ಪೂರ್ಣವಾಗಿ ಅಲಂಕರಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+For you, Ashwins, we have made, we have built this praise, as the
+Bhrigus (built) your car : cherishing (this praise) like a son, the eternal
+performer of rites, we have decked (with ornaments your laudation) amongst
+men, as if it had been a wife.
+ನಲವತ್ತನೆಯ ಸೂಕ್ತವು.
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ರಥಂ ಯಾಂತಮಿತಿ ಚತುರ್ದಶರ್ಚಮೇಕಾದಶಂ ಸೂಕ್ತಂ । ಕಾಕ್ಷೀವತ್ಯಾ ಘೋಷಾಯಾ
+> ಆರ್ಷಂ । ಜಾಗತಮಾಶ್ವಿನಂ । ರಥಂ ಯಾಂತಮಿತ್ಯನುಕ್ರಾಂತಂ ॥ ಪ್ರಾತರನುವಾಕಾಶ್ವಿನಶಸ್ತ್ರಯೋರುಕ್ತೋ ವಿನಿಯೋಗಃ ॥
+ಅನುವಾದವು—ರಥಂ ಯಾಂತಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೂರನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹನ್ನೊಂದನೆಯ
+ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹದಿನಾಲ್ಕು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕಕ್ಷೇವಾನ್ ಋಷಿಯ ಪುತ್ರಿಯಾದ ಘೋಷಾ
+ಎಂಬ ಸ್ತ್ರೀಯು ಋಷಿಯು; ಅಶ್ವಿನೀದೇವತೆಗಳು ದೇವತೆಯು; ಜಗತೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ
+ರಥಂ ಯಾಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕ ಮತ್ತು ಆಶ್ವಿನಶಸ್ತ್ರ ಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ
+ವಿನಿಯೋಗವಿರುವುದು.
+
+## ಸೂಕ್ತ ೪೦ (ಮಂಡಲ ೧೦)
+
+ಸೂಕ್ತ—೪೦
+ಮಂಡಲ—೧೦ ॥ ಅನುವಾಕ—೩ ॥ ಸೂಕ್ತ—೪೦ ।
+ಅಷ್ಟಕ—೭ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೨, ೧೯, ೨೦ ।
+ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ—೧೪ ।
+ಋಷಿ—ಘೋಷಾ ಕಾಕ್ಷೀನತೀ ।
+ದೇವತಾ—ಅಶ್ವಿನೌ ।
+ಛಂದಃ—ಜಗತೀ ॥
+*[। ಸಂಸ್ಕೃತಂ ।]*
+
+#### ಋಕ್ ೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ರಥಂ ಯಾಂತಂ ಕುಹ ಕೋ ಹ ವಾಂ ನರಾ ಪ್ರತಿ ದ್ಯುಮಂತಂ ಸುವಿತಾಯ ಭೂಷತಿ ।
+
+<!-- printed 971 -->
+*[ಆ. ೭ ಆ. ೮. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 971]*
+
+> ಪ್ರಾತರ್ಯಾವಾಣಂ ವಿಭ್ವಂ ವಿಶೇವಿಶೇ ವಸ್ತೋರ್ವಸ್ತೋರ್ವಹಮಾನಂ
+> ಧಿಯಾ ಶಮಿ ॥ ೧ ॥
+*[೧ ಪದಪಾಠಿ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ರಥಂ । ಯಾಂತಂ । ಕುಹ । ಕಃ । ಹ । ವಾಂ । ನರಾ । ಪ್ರತಿ । ದ್ಯುಮಂತಂ । ಸುವಿತಾಯ ।
+> ಭೂಷತಿ ।
+> ಪ್ರಾತ್ರಃಯಾವಾನಂ । ವಿಭ್ವಂ । ವಿಶೇವಿಶೇ । ವಸ್ತೋಽವಸ್ತೋಃ । ವಹಮಾನಂ । ಧಿಯಾ ।
+> ಶಮಿ ॥ ೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ನರಾ ಕರ್ಮಣಾಂ ನೇತಾರಾವಶ್ವಿನ್ ನಾಂ ಯುವಯೋಃ ಸಂಬಂಧಿನಂ ದ್ಯುಮಂತಂ ದೀಪ್ತಿಮಂತಂ ಪ್ರಾತರ್ಯಾವಾಣಂ ಯಜ್ಞಂ ಪ್ರತಿ ಪ್ರಾತಃಕಾಲೇ ಗಂತಾರಂ ವಿಭ್ವಂ ವಿಭುಂ ವ್ಯಾಪಿನಂ ವಿಶೇ
+> ವಿಶೇ ಸರ್ವೆಷು ಮನುಷ್ಯೇಷು ವಸ್ತೋರ್ವಸ್ತೋರನ್ವಹಂ ವಹಮಾನಂ ಧನಂ ಪ್ರಾಪಯಂತಂ ಯಾಂತಂ
+> ಗಚ್ಛಂತಂ ರಥಂ ಕುಹ ಕಸ್ಮಿನ್ದೇಶೇ ಕೋ ಹ ಕಃ ಖಲು ಯಜಮಾನಃ ಶಮಿ ಯಜ್ಞರೂಪೇ ಕರ್ಮಣಿ
+> ಧಿಯಾ ಸ್ತುತಿರೂಪೇಣ ಕರ್ಮಣಾ ಸುವಿತಾಯಾಭ್ಯುದಯಾರ್ಥಂ ಪ್ರತಿ ಭೂಷತಿ । ಆಲಂಕರೋತಿ ।
+> ಕಸ್ಮಿನ್ದೇಶೇ ಯಜ್ಞೇ ಕೋಽನ್ಯೋ ಯಜಮಾನೋ ಯುವಾಂ ಸ್ತುತಿಭಿರ್ಹವಿರ್ಭಿಶ್ಚ ಪೂಜಿತವಾನ್
+> ಯೇನಾಸ್ಮದ್ಯಜ್ಞಂ ಪ್ರತಿ ವಿಲಂಬೇನಾಗತವಂತೌ ಸ್ಥ ಇತ್ಯಭಿಪ್ರಾಯಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ನರಾ—ಕರ್ಮನೇತೃಗಳಾದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ವಾಂ—ನಿಮಗೆ ಸೇರಿದ । ದ್ಯುಮಂತಂ—
+ಪ್ರಕಾಶಮಾನವಾದುದೂ । ಪ್ರಾತರಾವಾಣಂ—ಪ್ರಾತಃಕಾಲದಲ್ಲಿಯೇ ಯಜ್ಞಕ್ಕೆ ಹೋಗತಕ್ಕದ್ದೂ । ವಿಭ್ವಂ—
+ಸರ್ವವ್ಯಾಪಕವಾದುದೂ । ವಿಶೇಷಿವಿಶೇ—ಪ್ರತಿಯೊಬ್ಬ ಯಜಮಾನನಿಗೂ । ವಸ್ತೋರ್ವಸ್ತೋಃ—ಪ್ರತಿಯೊಂದು
+ದಿವಸವೂ । ವಹಮಾನಂ—ಧನವನ್ನು ವಹಿಸಿಕೊಡತಕ್ಕದ್ದೂ । ಯಾಂತಂ—ಸಂಚಾರಶೀಲವಾದುದೂ ಆದ ।
+ರಥಂ—ರಥವನ್ನು । ಕುಹ—ಯಾವ ಪ್ರದೇಶದಲ್ಲಿ । ಕೋ ಹ—ಯಾವ ಯಜಮಾನನು ತಾನೇ । ಶಮಿ—
+ಯಜ್ಞಕರ್ಮದಲ್ಲಿ । ಧಿಯಾ—ಸ್ತುತಿರೂಪವಾದ ಕರ್ಮದಿಂದ । ಸುವಿತಾಯ—ತನ್ನ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ । ಪರಿಭೂಷತಿ—ಅಲಂಕರಿಸುತ್ತಾನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಕರ್ಮನೇತೃಗಳಾದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಿಮಗೆ ಸೇರಿದುದೂ, ಪ್ರಕಾಶಮಾನವಾದುದೂ, ಪ್ರಾತಃ
+ಕಾಲದಲ್ಲಿಯೇ ಯಜ್ಞಕ್ಕೆ ಹೋಗತಕ್ಕದ್ದೂ ಸರ್ವವ್ಯಾಪಕವಾದುದೂ, ಪ್ರತಿಯೊಬ್ಬ ಯಜಮಾನನಿಗೂ ಪ್ರತಿದಿನವೂ
+
+<!-- printed 972 -->
+*[972 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೪೦]*
+
+ಧನವನ್ನು ಒದಗಿಸುವುದೂ, ಸಂಚಾರಶೀಲವೂ ಆದ ರಥವನ್ನು ಯಾವ ಪ್ರದೇಶದಲ್ಲಿ ಯಾವ ಯಜಮಾನನು ತನ.
+ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ತನ್ನ ಸ್ತುತಿಯಿಂದ ಅಲಂಕರಿಸುತ್ತಾನೆ?
+
+*English Translation.*
+
+What (worshipper), O leaders of rites, and where (abiding) glorifies for his good, by his praise at the rite, your radiant moving chariot, going (to the sacrifice) at dawn, all-pervading, and bearing (wealth) day after day to one man after another ?
+*[" ಸಂಹಿತಾಪಾಠಃ "]*
+
+#### ಋಕ್ ೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಕುಹ ಸ್ವಿದ್ದೋಷಾ ಕುಹ ವಸ್ತೋರಶ್ವಿನಾ ಕುಹಾಭಿಪಿತ್ವಂ ಕರತಃ ಕುಹೋಷತುಃ ।
+> ಕೋ ವಾಂ ಶಯುತ್ರಾ ವಿಧವೇವ ದೇವರಂ ಮರ್ಯಂ ನ ಯೋಷಾ
+> ಕೃಣುತೇ ಸದಸ್ಯ ಆ ॥ ೨ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಕುಹ । ಸ್ವಿತ್ । ದೋಷಾ । ಕುಹ । ವಸ್ತೋಃ । ಅಶ್ವಿನಾ । ಕುಹ । ಅಭಿಪಿತ್ವಂ । ಕರತಃ । ಕುಹ ।
+> ಊಹತುಃ ।
+> ಕಃ । ವಾಂ । ಶಯುತ್ರಾ । ವಿಧವಾಇವ । ದೇವರಂ । ಮರ್ಯಂ । ನ । ಯೋಷಾ । ಕೃಣುತೇ ।
+> ಸಧಸ್ಥೇ । ಆ ॥ ೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಕುಹ ಸ್ವಿತ್ ಕ್ವ ಚಿದ್ದೋಷಾ ರಾತ್ರೌ ಭವಥ ಇತಿ ಶೇಷಃ । ಕುಹ ವಸ್ತೋಃ
+> ಕ್ವ ವಾ ದಿವಾ ಭವಥಃ। ಕುಹ ಕ್ವ ನಾಭಿಪಿತ್ವಮಭಿಪ್ರಾಪ್ತಿಂ ಕರತಃ। ಕುರುಥಃ। ಕುಹ ಕ್ವ ಪೋಷಥುಃ ।
+> ವಸಥಃ । ಕಿಂಚ ವಾಂ ಯುವಾಂ ಕೋ ಯಜಮಾನಃ ಸಧಸ್ಥೇ ಸಹಸ್ಥಾನೇ ವೇದ್ಯಾಖ್ಯ ಆ ಕೃಣುತೇ ।
+> ಆಕುರುತೇ । ಪರಿಚರಣಾರ್ಥಮಾತ್ಮಾಭಿಮುಖೀಕರೋತಿ । ತತ್ರ ದೃಷ್ಟಾಂತೌ ದರ್ಶಯತಿ । ಶಯುತ್ರಾ
+> ಶಯನೇ ವಿಧವೇವ ಯಥಾ ಮೃತಭರ್ತೃಕಾ ನಾರೀ ದೇವರಂ ಭರ್ತೃಭ್ರಾತರಮಭಿಮುಖೀಕರೋತಿ ।
+> ಮರ್ಯಂ ನ ಯಥಾ ಚ ಸರ್ವಂ ಮನುಷ್ಯಂ ಯೋಷಾ ಸರ್ವಾ ನಾರೀ ಸಂಭೋಗಕಾಲೇಽಭಿಮುಖೀ-
+
+<!-- printed 973 -->
+*[ವ. ೭. ಅ ೮. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 973]*
+
+> ಕರೋತಿ ತದ್ವದಿತ್ಯರ್ಥಃ । ತಥಾ ಚ ಯಾಸ್ಕಃ । ಕ್ವ ಸ್ವಿದ್ರಾತ್ ಭವಥಃ ಕ್ವ ದಿವಾ ಕ್ವಾಭಿಪ್ರಾಪ್ತಿಂ
+> ಕುರುಥಃ ಕ್ವ ವಸಥಃ ಕೋ ವಾಂ ಶಯನೇ ವಿಧವೇವ ದೇವರಂ ದೇವರಃ ಕಸ್ಮಾದ್ವಿತೀಯೋ ವರ
+> ಉಚ್ಯತೇ ವಿಧವಾ ವಿಧಾತೃಕಾ ಭವತಿ ವಿಧವನಾದ್ವಾ ವಿಧಾವನಾದ್ವೈತಿ ಚರ್ಮಶಿರಾ ಅಪಿ ವಾ ಧವ ಇತಿ
+> ಮನುಷ್ಯನಾಮ ತದ್ವಿಯೋಗಾದ್ವಿಧವಾ ದೇವರೋ ದೀವ್ಯತಿಕರ್ಮಾ ಮರ್ಯೋ ಮನುಷ್ಯೋ ಮರಣಧರ್ಮಾ ಯೋಷಾ ಯೌತೇರಾಕುರುತೇ ಸಧಸ್ಥಾನೇ । ನಿ. ೩-೧೫ । ಇತಿ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ದೋಷಾ—ರಾತ್ರಿಯಲ್ಲಿ । ಕುಹ ಸ್ವಿತ್—ಎಲ್ಲಿರುತ್ತೀರಿ ।
+ವಸ್ತೋಃ—ಹಗಲಿನಲ್ಲಿ । ಕುಹ—ಎಲ್ಲಿರುತ್ತೀರಿ । ಕುಹ—ಎಲ್ಲೆಲ್ಲಿ । ಅಭಿಪಿತ್ವಂ ಕರತಃ—ಸಂಚಾರವನ್ನು
+ಹೊಂದಿದ್ದೀರಿ । ಕುಹ ಊಷಥುಃ—ಎಲ್ಲಿ ವಾಸಮಾಡುತ್ತೀರಿ । ಶಯುತ್ರಾ—ತನ್ನ ಹಾಸಿಗೆಗೆ । ವಿಧವಾ—
+ವಿಧವೆಯು । ದೇವರಂ ನ—ತನ್ನ ಮೈದುನನನ್ನು ಬರಮಾಡಿಕೊಳ್ಳುವಂತೆಯೂ । ಯೋಷಾ—ಹೆಂಗಸು ।
+ಮರ್ಯಂ ನ—ಪುರುಷನನ್ನು ಎದುರುಗೊಳ್ಳುವಂತೆಯೂ । ಕಃ—ಯಾವ ಯಜಮಾನನು । ವಾಂ—ನಿಮ್ಮನ್ನು ।
+ಸಧಸ್ಥೇ—ಯಜ್ಞಸ್ಥಾನದಲ್ಲಿ । ಆ ಕೃಣುತೇ—ಎದುರಿಗೆ ಬರಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ ?
+*[॥ ಭವಾನಾಥ ॥]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ರಾತ್ರಿಯಲ್ಲಿ ಎಲ್ಲಿರುತ್ತೀರಿ ? ಹಗಲಿನಲ್ಲಿ ಎಲ್ಲಿರುತ್ತೀರಿ ? ಎಲ್ಲೆಲ್ಲಿ ಸಂಚಾರ
+ವನ್ನು ಹೊಂದುತ್ತೀರಿ ? ಎಲ್ಲಿ ವಾಸಮಾಡುತ್ತೀರಿ ? ವಿಧವೆಯು ತನ್ನ ಹಾಸಿಗೆಗೆ ಮೈದುನನನ್ನು ಬರಮಾಡಿಕೊಳ್ಳು
+ವಂತೆಯೂ, ಹೆಂಗಸು ಪುರುಷನನ್ನು ಎದುರುಗೊಳ್ಳುವಂತೆಯೂ ಯಾವ ಯಾಜಮಾನನು ನಿಮ್ಮನ್ನು ಯಜ್ಞಸ್ಥಾನ
+ದಲ್ಲಿ ಎದುರಿಗೆ ಬರಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ ?
+
+*English Translation.*
+
+Where are you, Ashwins, by night ? where are you by day ? where do you sojourn ? where do you dwell ? who brings you into his presence in the same place (of sacrifice) as on her couch a widow (brings) her husband's brother, as a woman (brings) her husband (to her).
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ದೇವರಂ ಎಂಬ ಶಬ್ದದ ಅರ್ಥವಿವರಣೆಮಾಡುವುದಕ್ಕಾಗಿ ಯಾಸ್ಕರು ಈ ಋಕ್ಕನ್ನು ಉದಾಹರಣೆಯಾಗಿ
+ತೆಗೆದುಕೊಂಡು ನಿರುಕ್ತವನ್ನು ಹೇಳಿರುತ್ತಾರೆ—
+ಕ್ವ ಸ್ವಿದ್ರಾತ್ ಭವತಃ, ಕ್ವ ದಿವಾ, ಕ್ವಾಭಿವ್ರಾಪ್ತಿಂ ಕುರುಥಃ, ಕ್ವ ವಸಥಃ, ಕೋ ವಾ ಶಯನೇ
+ವಿಧವೇವ ದೇವರಂ । ದೇವರಃ ಕಸ್ಮಾತ್ ದ್ವಿತೀಯೋ ವರ ಉಚ್ಯತೇ । ವಿಧವಾ ವಿಧಾತೃಕಾ
+ಭವತಿ । ವಿಧಾವನಾದ್ವಾ । ವಿಧವನಾದ್ವೇತಿ ಪ್ರಚರ್ಮಶಿರಾಃ ! ಅಪಿ ನಾ ಧವ ಇತಿ ಮನುಷ್ಯ-
+
+<!-- printed 974 -->
+*[974 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೪೦]*
+
+ನಾಮ ತದ್ವಿಯೋಗಾದ್ವಿಧವಾ । ದೇವರೋ ದೀವ್ಯತಿಕರ್ಮಾ । ಮರ್ಯೋ ಮನುಷ್ಯೋ
+ಮರಣಧರ್ಮಾ । ಯೋಷಾ ಯೌತೇಃ । ಆಕುರುತೇ ಸಹಸ್ಥಾನೇ ॥
+(ನಿ. ೩-೧೫)
+ಈ ಸೂಕ್ತದ ಋಷಿಯಾದ ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಯು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸುವಾಗ ಅವರನ್ನು ಈ ರೀತಿ
+ಪ್ರಶ್ನೆ ಮಾಡುತ್ತಾಳೆ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ರಾತ್ರಿ ಕಾಲದಲ್ಲಿ ಎಲ್ಲಿರುತ್ತೀರಿ ? ಹಗಲು ಎಲ್ಲಿರುತ್ತೀರಿ ?
+(ಸ್ನಾನಭೋಜನಾದಿ ನಿಮ್ಮ) ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ಎಲ್ಲಿ ಮಾಡುತ್ತೀರಿ ? ಎಲ್ಲಿ ವಾಸಮಾಡುತ್ತೀರಿ ? ಗಂಡನಿಲ್ಲದ
+ವಿಧವೆಯು ತನ್ನ ಮೈದನನ್ನು (ರಾತ್ರಿಕಾಲದಲ್ಲಿ) ತನ್ನ ಹಾಸಿಗೆಯಲ್ಲಿ ಎದುರಾಗಿ ಕೂರಿಸಿಕೊಳ್ಳುವಂತೆಯೂ, ಹೆಂಡ
+ತಿಯು ತನ್ನ ಗಂಡನನ್ನು ಏಕಾಂತದಲ್ಲಿ ಎದುರಾಗಿ ಕೂರಿಸಿಕೊಂಡು ವಿಹರಿಸುವಂತೆಯೂ ನೀವು ಯಜ್ಞ ಮಾಡುವ
+ಯಾವ ಯಜಮಾನನ ಯಜ್ಞಗೃಹದಲ್ಲಿ ಅವನಿಂದ ಸ್ಮರಿಸಲ್ಪಡುತ್ತೀರಿ ?
+ದೇವರ ಶಬ್ದವು ಹೇಗೆ ನಿಷ್ಪನ್ನವಾಗಿದೆ? ದೇವರ ಎಂದರೇನು? ದೇವರ ಎಂದರೆ ಎರಡನೇ ವರ. ಸ್ತ್ರೀಗೆ
+ಮದುವೆಯಾದ ಗಂಡನೇ ಮೊದಲನೆಯ ವರ. ಮಕ್ಕಳಾಗುವುದಕ್ಕೆ ಮುಂಚೆಯೇ ಆ ಗಂಡನು ಮೃತನಾದಲ್ಲಿ
+(ಆ ಕಾಲದಲ್ಲಿ ರೂಢಿಯಲ್ಲಿದ್ದಂತೆ) ಆ ಗಂಡನ ತಮ್ಮನು ಎಂದರೆ ಮೈದುನನು ಆ ಸ್ತ್ರೀಯಲ್ಲಿ ಪುತ್ರೋತ್ಪತ್ತಿಗಾಗಿ
+ಸಂಭೋಗಮಾಡಬಹುದಾದ್ದರಿಂದ ಆ ಮೈದನನೇ ಆ ಸ್ತ್ರೀಗೆ ದ್ವಿತೀಯ ವರ (ಎರಡನೆಯ ಗಂಡ) ಎಂದರೆ ದೇವರ
+ಶಬ್ದಕ್ಕೆ ಮೈದುನ ಎಂದರ್ಥವು.
+ವಿಧವಾ ಎಂಬ ಶಬ್ದಕ್ಕೆ (೧) ವಿಧಾತೃಕಾ ಎಂದರ್ಥವು. ಪತಿಯು ಮೃತನಾದಮೇಲೆ ಆ ಸ್ತ್ರೀಯನ್ನು
+ಧರಿಸುವವರು ಎಂದರೆ (ಅನ್ನವಸ್ತ್ರಾದಿಗಳನ್ನು ಕೊಟ್ಟು) ಪೋಷಿಸುವವರು ಯಾರೂ ಇರುವುದಿಲ್ಲವಾದ್ದರಿಂದ ಗಂಡನಿಲ್ಲದ
+ಸ್ತ್ರೀಯನ್ನು ವಿಧವಾ ಎಂದು ಕರೆಯುವರು. (೨) ಅಥವಾ ವಿಧವನಾದ್ವಾ ಪತಿಯ ಮರಣದಿಂದ ದುಃಖಿತಳಾಗಿ
+ಶೋಕದಿಂದ ನಡಗುತ್ತಿರುವವಳಾದ್ದರಿಂದ ಪತಿಯಿಲ್ಲದ ಸ್ತ್ರೀಗೆ ವಿಧವಾ ಎಂದು ಹೆಸರು. (೩) ಅಥವಾ ವಿಧವನಾದ್ವಾ
+ಪತಿಯಮರಣದಿಂದ ಶೋಕಸಂತಪ್ತಳಾಗಿ ಇಲ್ಲಿಂದಲ್ಲಿಗೆ ಯಾರ ನಿರ್ಬಂಧವೂ ಇಲ್ಲದೆ ಓಡಾಡುವವಳಾದ್ದರಿಂದ ಪತಿ
+ರಹಿತಳಾದ ಸ್ತ್ರೀಗೆ ವಿಧವಾ ಎಂದು ಹೆಸರು ಎಂದು ಚರ್ಮಶಿರಾಃ ಎಂಬ ಆಚಾರ್ಯರ ಅಭಿಪ್ರಾಯವು. (೪) ಅಥವಾ
+ಧವಶಬ್ದಕ್ಕೆ ಮನುಷ್ಯನೆಂದರ್ಥವು. ಆದ್ದರಿಂದ ತನ್ನ ಪತಿಯನ್ನು (ವಿ ಧವ) ಕಳೆದುಕೊಂಡಿರುವ ಸ್ತ್ರೀಗೆ ವಿಧವಾ
+ಎಂದು ಹೆಸರು.
+ದೇವರಃ ದೀವ್ಯತಿಕರ್ಮಾ । ದೇವರ ಶಬ್ದವು ಕ್ರೀಡಿಸು ಎಂಬರ್ಥವುಳ್ಳ ದೀವ್ಯತಿಧಾತುತನಿಂದ ನಿಷ್ಪನ್ನ
+ವಾಗಿದೆ. ಇಲ್ಲಿ ತನ್ನ ಸಹೋದರನ ಪತ್ನಿಯೊಡನೆ ರತಿಕ್ರೀಡೆಯಲ್ಲಿ ಆಸಕ್ತನಾಗಿರುವವನೆಂದಭಿಪ್ರಾಯವು.
+ಮರ್ಯಃ ಮನುಷ್ಯಃ । ಮರ್ಯಃ ಎಂದರೆ ಮನುಷ್ಯನು ಮರಣಧರ್ಮಕ್ಕೆ ಈಡಾಗುವವನು, ಎಂದಾದ
+ರೊಂದು ದಿವಸ ಮೃತನಾಗುವವನು.
+ಯೋಷಾ ಯೌತೇಃ । ಯೋಷಾ ಎಂದರೆ ಸ್ತ್ರೀಯು. ಈ ಶಬ್ದವು ಯು ಮಿಶ್ರಮಾಡು ಎಂಬ ಧಾತು
+ವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆ. ಪುರುಷನೊಡಥ ಮಿಶ್ರವಾಗಿ ಎಂದರೆ ಸಂಪರ್ಕಮಾಡಿ ಸಂಭೋಗಿಸುವವಳಾದ್ದರಿಂದ ಸ್ತ್ರೀಗೆ
+ಯೋಷಾ ಎಂದು ಹೆಸರು.
+
+<!-- printed 975 -->
+*[ಆ. ೭. ಆ. ೮. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 975]*
+
+ಆಕುರುತೇ ಸಹಸ್ಥಾನೇ-ಸಮಾನಸ್ಥಾನೇ ಅಭಿಮುಖ್ಯೇನ ಆತ್ಮನಃ ಕುರುತೇ ಪರಿಚರಣಾಯ ।
+ತೃಣುತೇ ಸಧಸ್ಥ ಆ ಎಂಬ ಶಬ್ದಗಳಿಗೆ ಸಮಾನಸ್ಥಾನದಲ್ಲಿ ಎಂದರೆ ಸ್ತ್ರೀಪುರುಷರು (ಸಂಭೋಗಕ್ಕಾಗಿ ಸೇರ ವ)
+ಇಬ್ಬರಿಗೂ ಸಾಮಾನ್ಯವಾದ ಸ್ಥಳದಲ್ಲಿ ಅಥವಾ ಗೃಹದ ರಹಸ್ಯಪ್ರದೇಶದಲ್ಲಿ ಒಬ್ಬರಿಗೊಬ್ಬರು ಎದುರುಬದರಾಗಿ
+ಕುಳಿತುಕೊಳ್ಳುವುದು ಎಂದರ್ಥ.
+
+#### ಋಕ್ ೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಪ್ರಾತರ್ಜರೇಥೇ ಜರಣೇವ ಕಾಪಯಾ ವಸ್ತೋರ್ವಸ್ತೋರ್ಯಜತಾ ಗಚ್ಛಥೋ
+> ಗೃಹಂ ।
+> ಕಸ್ಯ ಧ್ವಸ್ರಾ ಭವಥಃ ಕಸ್ಯ ವಾ ನರಾ ರಾಜಪುತ್ರೇವ ಸವನಾವ ಗಚ್ಛಥಃ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಪ್ರಾಥಃ । ಜರೇಥೇ ಇತಿ । ಜರಣಾಇವ । ಕಾಪಯಾ । ವಸ್ತೋಽವಸ್ತೋಽಃ । ಯಜತಾ । ಗಚ್ಛಥಃ ।
+> ಗೃಹಂ ।
+> ಕಸ್ಯ । ಧ್ವಸ್ರಾ । ಭವಥಃ । ಕಸ್ಯ । ವಾ । ನರಾ । ರಾಜಪುತ್ರಾ ಇವ । ಸವನಾ । ಅವ । ಗಚ್ಛಥಃ ॥ ೩ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ನರಾ ನೇತಾರಾವಶ್ವಿನೌ ಯುವಾಂ ಪ್ರಾತಃ ಪ್ರಾತಃಕಾಲೇ ಜರೇಥೇ । ಸ್ತೋತೃಭಿಃ
+> ಸ್ತೂಯೇಥೇ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ಜರಣೇವ ಯಥಾ ಜರಣಾವೈಶ್ವರ್ಯಣ ವೃದ್ಧೌ ರಾಜಾನೌ
+> ಕಾಪಯಾ । ಪ್ರಾತಃಪ್ರಬೋಧಕಸ್ಯ ವಂದಿನೋ ವಾಣೀ ಕಾಪಾ । ತಯಾ ಸ್ತೂಯೇತೇ । ತದ್ವದಿತ್ಯರ್ಥಃ ।
+> ಕಿಂಚ ವಸ್ತೋರ್ವಸ್ತೋರನ್ವಹಂ ಯಜತಾ ಯಷ್ಟವ್ಯೌ ಯುವಾಂ ಗೃಹಂ ಯಜಮಾನಸ್ಯ ಮಂದಿರಂ
+> ಗಚ್ಛಥಃ । ಪ್ರಾಪ್ನುಥಃ । ತ್ವಾ ಯುವಾಂ ಕಸ್ಯ ಯಜಮಾನಸಂಬಂಧಿನೋ ದೋಷಸ್ಯ ಧ್ವಸ್ರಾ ಧ್ವಂಸಕೌ
+> ವಿನಾಶಯಿತಾರೌ ಭವಥೆಃ । ಕಸ್ಯ ಯಜಮಾನಸ್ಯ ಸವನಾ ಸವನಾನಿ ರಾಜಪುತ್ರೇವ ರಾಜಕುಮಾರಾವಿವ
+> ಯುವಾಮವ ಗಚ್ಛಥಃ । ಪ್ರಾಪ್ನುಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ನರಾ—ಕರ್ಮನೇತೃಗಳಾದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಕಾಪಯಾ—ಹೊಗಳುಭಟ್ಟನ ಸ್ತುತಿಯಿಂದ ।
+ಚರಣೇವ—ದೊರೆಗಳು ಪ್ರಶಂಸಿಸಲ್ಪಡುವಂತೆ । ಪ್ರಾತಃ—ಪ್ರಾತಃಕಾಲದಲ್ಲಿ । ಜರೇಥೇ—ನೀವು ಸ್ತುತಿಸಲ್ಪಡು
+ತ್ತೀರಿ । ಯಜತಾ—ಪೂಜ್ಯರಾದ ನೀವು । ವಸ್ತೋರ್ವಸ್ತೋಃ—ಪ್ರತಿದಿನವೂ । ಗೃಹಂ—ಯಜಮಾನನ
+ಮನೆಗೆ । ಗಚ್ಛಥಃ—ಹೋಗುತ್ತೀರಿ । ಕಸ್ಯ—ಯಾವ ದೋಷಕ್ಕೆ । ಧ್ವಸ್ರಾ—ನಾಶಕರಾಗಿ । ಭವಥಃ—ನೀವು
+ಆಗಿರುತ್ತೀರಿ । ಕಸ್ಯ—ಯಾವ ಯಜಮಾನನ । ಸವನಾ—ಯಜ್ಞಕ್ಕೆ । ರಾಜಪುತ್ರೇವ—ರಾಜಕುಮಾರರಂತೆ ।
+ಅವ ಗಚ್ಛಥಃ—ನೀವು ಹೋಗುತ್ತೀರಿ.
+
+<!-- printed 976 -->
+*[976 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂಕ್ತ. ೪೦]*
+
+
+*ಭಾವಾರ್ಥ*
+
+ಕರ್ಮನೇತೃಗಳಾದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಹೊಗಳುಭಟ್ಟನ ಸ್ತುತಿಯಿಂದ ದೊರೆಗಳು ಪ್ರಸಂಸಿಸಲ್ಪಡು
+ವಂತೆ ಪ್ರಾತಃಕಾಲದಲ್ಲಿ ನೀವು ಸ್ತುತಿಸಲ್ಪಡುತ್ತೀರಿ. ಪೂಜ್ಯರಾದ ನೀವು ಪ್ರತಿದಿನವೂ ಯಜಮಾನನ ಮನೆಗೆ
+ಹೋಗುತ್ತೀರಿ. ನೀವು ಯಜಮಾನನ ಯಾವ ದೋಷವನ್ನು ನಾಶಮಾಡುತ್ತೀರಿ? ನೀವು ಯಾವ ಯಜಮಾನನ
+ಯಜ್ಞಕ್ಕೆ ರಾಜಕುಮಾರರಂತೆ ಹೋಗುತ್ತೀರಿ.
+
+*English Translation.*
+
+Leaders (of rites), you are glorified at dawn like two ancient
+(monarchs) by the voice (of the caller): entitled to worship, you go day by
+day to the dwelling (of the worshipper): of whose (faults) are you the
+destroyer ? to whose oblations do you repair like princes ?
+
+#### ಋಕ್ ೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಾಂ ಮೃಗೇವ ವಾರಣಾ ಮೃಗಣ್ಯವೋ ದೋಷಾ ವಸ್ತೋರ್ಹವಿಷಾ
+> ನಿ ಹ್ವಯಾಮಹೇ ।
+> ಯುವಂ ಹೋತ್ರಾಮೃತುಥಾ ಜುಹ್ವತೇ ನರೇಷಂ ಜನಾಯ ವಹಥಃ
+> ಶುಭಸ್ಪತೀ ॥ ೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಾಂ । ಮೃಗಾಇವ । ವಾರಣಾ । ಮೃಗಣ್ಯವಃ । ದೋಷಾ । ವಸ್ತೋಃ । ಹವಿಷಾ । ನಿ ।
+> ಹ್ವಯಾಮಹೇ ।
+> ಯುವಂ । ಹೋತ್ರಾಂ । ಋತುಥಾ । ಜುಹ್ವತೇ । ನರಾ । ಇಷಂ । ಜನಾಯ । ವಹಥಃ ।
+> ಶುಭಃ । ಪತೀ ಇತಿ ॥ ೪ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನ್ ಯುವಾಂ ವಾರಣಾ ವಾರಣೌ ಮೃಗೇವ ಯಥಾ ಶಾರ್ದೂಲೌ ಮೃಗಣ್ಯವೋ
+> ಮೃಗಯವಃ ತದ್ವದ್ವಯಂ ದೋಷಾ ರಾತ್ರೌ ವಸ್ತೋರಹನಿ ಚ ಹವಿಷಾ ನಿ ಹ್ವಯಾಮಹೇ । ನಿಯಮೇನ ಹ್ವಯಾಮಃ । ಕಿಂಚ ಹೇ ನರಾ ನೇತಾರಾವಶ್ವಿನ್ ಯುವಂ ಯುವಾಮೃತುಥಾ ಕಾಲೇ ಕಾಲೇ
+> ಹೋತ್ರಾಮಾಹುತಿಂ ಜುಹ್ವತೇ ! ಜುಹ್ವತಿ । ಯಜಮಾನಾ ಇತಿ ಶೇಷಃ । ಕಿಂಚ ಯುವಾಂ ಶುಭಃ
+
+<!-- printed 977 -->
+*[ಅ. ೭. ಅ. ೮. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 977]*
+
+> ಶುಭಸ್ಯ ವೃಷ್ಟ್ಯದಕಸ್ಯ ಪತೀ ಸ್ವಾಮಿನೌ ಸಂತೌ ಜನಾಯ ಜನಾರ್ಥಮಿಷಮನ್ನಂ ವಹಥಃ ।
+> ಪ್ರಾಪಯಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ) ಮೃಗಣ್ಯವಃ—ಬೇಟೆಯಾಡುವವರು । ವಾರಣಾ—ಆನೆಗಳನ್ನೂ ।
+ಮೃಗೇವ—ಹುಲಿಗಳನ್ನೂ ಕೂಗಿ ಅವನ್ನು ಸಮೀಪಿಸುವಂತೆ । ಯುವಾಂ—ನಿಮ್ಮಿಬ್ಬರನ್ನೂ । ದೋಷಾ—
+ರಾತ್ರಿಯಲ್ಲಿಯೂ । ವಸ್ತೋಃ—ಹಗಲಿನಲ್ಲಿಯೂ । ಹವಿಷಾ—ಹವಿಸ್ಸಿನಿಂದ ಕೂಡಿ । ನಿ ಹ್ವಯಾಮಹೇ—
+ನಾವು ಕರೆಯುತ್ತೇವೆ । ನರಾ—ಎಲೈ ಕರ್ಮನೇತೃಗಳೇ । ಯುವಂ—ನಿಮ್ಮನ್ನುದ್ದೇಶಿಸಿ । ಋತುಥಾ—
+ಸಕಲ ಯಜ್ಞಕಾಲಗಳಲ್ಲಿಯೂ । ಹೋತ್ರಾಂ—ಆಹುತಿಯನ್ನು । ಜುಹ್ವತೇ—ಯಜಮಾನನು ಅರ್ಪಿಸುತ್ತಾನೆ ।
+ಶುಭಃ—ವೃಷ್ಟಿಗೆ । ಪತೀ—ಒಡೆಯರಾದ ನೀವು । ಜನಾಯ—ಯಜಮಾನನಿಗೆ । ಇಸಂ—ಅನ್ನವನ್ನು ।
+ವಹಥಃ—ವಹಿಸುತ್ತೀರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಬೇಟೆಯಾಡುವವರು ಆನೆಗಳನ್ನೂ ಹುಲಿಗಳನ್ನೂ ಕೂಗಿ ಅವನ್ನು ಸಮೀಪಿಸು
+ವಂತೆ ನಿಮ್ಮಿಬ್ಬರನ್ನೂ ರಾತ್ರಿಯಲ್ಲಿಯೂ ಹಗಲಿನಲ್ಲಿಯೂ ಹವಿಸ್ಸಿನಿಂದ ಕೂಡಿದ ನಾವು ಕರೆಯುತ್ತೇವೆ. ಎಲೈ
+ಕರ್ಮನೇತೃಗಳೇ, ನಿಮ್ಮನ್ನುನ್ನುದ್ದೇಶಿಸಿ ಸಕಲ ಯಜ್ಞಕಾಲಗಳಲ್ಲಿಯೂ ಆಹುತಿಯನ್ನು ಯಜಮಾನನು ಅರ್ಪಿಸುತ್ತಾನೆ.
+ವೃಷ್ಟಿಗೆ ಒಡೆಯರಾದ ನೀವು ಯಜಮಾನನಿಗೆ ಅನ್ನವನ್ನು ವಹಿಸುತ್ತೀರಿ.
+
+*English Translation.*
+
+Like persons hunting two wild elephants, we praise you, Ashwins, with oblations night and day : at all due seasons, leaders (of rites), (the worshipper) offers you the oblation ; do you, who are rulers of the shining (rain), bring food to mankind.
+
+#### ಋಕ್ ೫
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಾಂ ಹ ಘೋಷಾ ಪರ್ಯಶ್ವಿನಾ ಯತೀ ರಾಜ್ಞ ಊಚೇ ದುಹಿತಾ
+> ಪೃಚ್ಛೇ ವಾಂ ನರಾ ।
+> ಭೂತಂ ಮೇ ಅಹ್ನ ಉತ ಭೂತಮಕ್ತವೇಽಶ್ವಾವತೇ ರಥಿನೇ ಶಕ್ತಮರ್ವತೇ॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಾಂ । ಹ । ಘೋಷಾ । ಪರಿ । ಅಶ್ವಿನಾ । ಯತೀ । ರಾಜ್ಞಃ । ಊಚೇ । ದುಹಿತಾ ।
+> ಪೃಚ್ಛೇ । ವಾಂ । ನರಾ ।
+> ಭೂತಂ । ಮೇ । ಅಹ್ನೇ । ಉತ । ಭೂತಂ । ಅಕ್ತವೇ । ಅಶ್ವವತೇ । ರಥಿನೇ । ಶಕ್ತಂ । ಅರ್ವತೇ ॥
+
+<!-- printed 978 -->
+*[978 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೪೦]*
+
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ನರಾ ನೇತಾರಾವಶ್ವಿನೌ ಯುವಾಂ ಖಲು ಪರಿ ಪರಿತೋ ಯತೀ ಗಚ್ಛಂತೀ ರಾಜ್ಯೋ
+> ದೀಪ್ತಸ್ಯ ಕಕ್ಷೀವತೋ ದುಹಿತಾ ಪುತ್ರೀ ಘೋಷಾ ಘೋಷಾಖ್ಯಾಹಮೂಚೇ । ಸಂನಿಹಿತೇಭ್ಯೋ
+> ವೃದ್ಧೇಭ್ಯ ಉಕ್ತವತ್ಯಸ್ಮಿ । ಕಿಂಚ ವಾಂ ಯುವಾಂ ಪೃಚ್ಛೇ । ವೃದ್ಧಾನ್ಸಂನಿಹಿತಾನ್ ಕೀದೃಶಾವಶ್ವಿನಾವಿತಿ ಪೃಚ್ಛಾಮಿ । ತಥಾ ಸತಿ ಮೇ ಮಮಾಹ್ನೇ ದಿವಸನಿರ್ವರ್ತ್ಯಕರ್ಮಣೇ ಭೂತಂ ।
+> ಭವತಂ । ಉತಾಪಿ ಚಾಕ್ತವೇ ರಾತ್ರಿ ರಾತ್ರಿನಿರ್ವರ್ತ್ಯಕರ್ಮಣೇ ಭೂತಂ। ಭವತಂ । ತಥಾಶ್ವವತೇಽಶ್ವಯುಕ್ತಾಯ ರಥಿನೇ ರಥವತೇ ಚಾರ್ವತೇ ಭಾತೃವ್ಯಾಯ ಶಕ್ತಂ । ನಿರಸನೇ ಶಕ್ತೌ ಭವತಂ ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ನರಾ—ನೇತೃಗಳಾದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯುವಾಂ—ನಿಮ್ಮನ್ನು । ಪರೀಯತೀ—ಆಶ್ರಯಿ
+ಸುತ್ತ । ರಾಜ್ಞಃ—ದೊರೆಯಾದ ಕಕ್ಷಿವಂತನ । ದುಹಿತಾ—ಪುತ್ರಿಯೂ । ಘೋಷಾ—ಘೋಷಾಸಂಜ್ಞಕಳೂ
+ಆದ ನಾನು । ಊಚೇ—ನಿಮ್ಮ ವಿಷಯವನ್ನು ಎಲ್ಲರಿಗೂ ತಿಳಿಸಿದ್ದೇನೆ । ವಾಂ—ನಿಮ್ಮ ವಿಷಯದಲ್ಲಿ । ಪೃಚ್ಛೇ—
+ಪ್ರಶ್ನಿಸಿದ್ದೇನೆ । ಮೇ—ನನ್ನ । ಅಹ್ನೇ—ಅಹಸ್ಸಿನ ಕಾಲದ ಕರ್ಮದಲ್ಲಿ । ಭೂತಂ—ಸನ್ನಿಹಿತರಾಗಿರಿ । ಉತ—
+ಮತ್ತು । ಅಕ್ತವೇ—ರಾತ್ರಿಯ ಕರ್ಮಕಾಲದಲ್ಲೂ । ಭೂತಂ—ಸನ್ನಿಹಿತರಾಗಿರಿ । ಅಶ್ವವತೇ—ಅಶ್ವಯುಕ್ತನೂ ।
+ರಥಿನೇ—ರಥವನ್ನು ಹೊಂದಿರುವವನೂ ಆದ । ಅರ್ವತೇ—ನನ್ನ ಶತ್ರುವಿಗೆ । ಶಕ್ತಂ—ನಾಶಮಾಡುವ
+ಶಕ್ತಿಯುಳ್ಳವರಾಗಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ನೇತೃಗಳಾದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನಿಮ್ಮನ್ನು ನಾನು ಆಶ್ರಯಿಸುತ್ತ ದೊರೆಯಾದ ಕಕ್ಷೀವಂತನ
+ಪುತ್ರಿಯೂ ಘೋಷಾಸಂಜ್ಞಕಳೂ ಆದ ನಾನು ನಿಮ್ಮ ವಿಷಯವನ್ನು ಎಲ್ಲರಿಗೂ ತಿಳಿಸಿದ್ದೇನೆ ನಿಮ್ಮ ವಿಷಯದಲ್ಲಿ
+ಪ್ರಶ್ನಿಸಿದ್ದೇನೆ. ನನ್ನ ಕರ್ಮಕಾಲಗಳಲ್ಲಿ ಅಹೋರಾತ್ರಗಳಲ್ಲಿಯೂ ಸನ್ನಿಹಿತರಾಗಿರಿ. ಅಶ್ವಯುಕ್ತನೂ, ರಥವನ್ನು
+ಹೊಂದಿರುವವನೂ ಆದ ನನ್ನ ಶತ್ರುವನ್ನು ನಾಶಮಾಡುವ ಶಕ್ತಿಯುಳ್ಳವರಾಗಿರಿ
+
+*English Translation.*
+
+Attending upon you, Ashwins, leaders (of rites), I Ghosha, the daughter of king (Kakshivat), speak to you and request you; be (present at) my (sacrifice) by day, and be (present) by night, be able (to grant favour) to the son of my brother, who has horses and a chariot
+
+#### ಋಕ್ ೬
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ಕವೀ ಷ್ಠಃ ಪರ್ಯಶ್ವಿನಾ ರಥಂ ವಿಶೋ ನ ಕುತ್ಸೋ ಜರಿತುರ್ನಶಾಯಥಃ ।
+
+<!-- printed 979 -->
+*[ಅ. ೭. ಅ. ೮. ಪ ೧೯.] ಋಗ್ವೇದಸಂಹಿತಾ. 979]*
+
+> ಯುವೋರ್ಹ ಮಕ್ಷಾ ಪರ್ಯಶ್ವಿನಾ ಮಧ್ವಾಸಾ ಭರತ ನಿಷ್ಕೃತಂ ನ
+> ಯೋಷಣಾ ॥ ೬ ॥
+*[೧ ಪದಪಾರಂ ೧]*
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ಕವೀ ಇತಿ । ಸ್ಥಃ । ಪರಿ । ಅಶ್ವಿನಾ । ರಥಂ । ವಿಶಃ । ನ । ಕುತ್ಸಃ । ಜರಿತುಃ । ನಶಾಯಥಃ ।
+> ಯುವೋಃ । ಹ । ಮಕ್ಷಾ । ಪರಿ । ಅಶ್ವಿನಾ । ಮಧು । ಆಸಾ । ಭರತ । ನಿಃಕೃಶಂ । ನ । ಯೋಷಣಾ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಕವೀ ಮೇಧಾವಿನೌ ಯುವಂ ಯುವಾಂ ರಥಂ ಪರಿ ಷ್ಠಃ । ಪರಿತೋ
+> ಭವಥಃ । ಅಥ ಜರಿತುಃ ಸ್ತೋತುರ್ಯಜ್ಞಂ ಪ್ರತಿ ಗಮನಾಯ ನಶಾಯಥಃ । ರಥಂ ಪ್ರಾಪ್ನುಥಃ । ತತ್ರ
+> ದೃಷ್ಟಾಂತಃ । ಕುತ್ಸೋ ನ ಯಥಾ ಕುತ್ಸಶ್ಚೇಂದ್ರಶ್ಚ ಸರಥಮಧಿತಿಷ್ಠತಃ । ತಥಾ ಚ ಮಂತ್ರಾಂತರಂ ।
+> ಯಾಸಿ ಕುತ್ಸೇನ ಸರಥಮವಸ್ಯುಸ್ತೋದೋ ವಾತಸ್ಯ ಹರ್ಯೋರೀಶಾನಃ । ಋ. ೪-೧೬-೧೧ । ಇತಿ ।
+> ಕಿಂಚ ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವೋರ್ಹ ಯುವಯೋಃ ಖಲು ಸ್ವಭೂತಂ ಮಧು ಮಕ್ಷಾ ಮಕ್ಷಿಕಾಸಾಸ್ಯೇನ
+> ಪರಿ ಭರತ । ಬಿಭರ್ತಿ । ತತ್ರ ದೃಷ್ಟಾಂತಃ । ನಿಷ್ಕೃತಂ ನ ಯಥಾ ನಿಷ್ಕೃತಂ ಸಂಸ್ಕೃತಂ ಮಧು
+> ಯೋಷಣಾ ನಾರೀ । ತದ್ವದಿತ್ಯರ್ಥಃ । ತಥಾ ಚ ಮಂತ್ರಾಂತರಂ। ಉತ ಸ್ಯಾ ವಾಂ ಮಧುಮನ್ಮಕ್ಷಿಕಾರಪನ್ಮದೇ ಸೋಮಸ್ಯಾಶಿಜೋ ಹುವನ್ಯತಿ । ಋ. ೧-೧೧೯-೯ । ಇತಿ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಕವೀ—ಮೇಧಾವಿಗಳಾದ । ಯುವಂ—ನೀವು । ರಥಂ ಪರಿ.
+ಷ್ಠಃ—ರಥವನ್ನು ಸುತ್ತುವರಿದು ನಿಲ್ಲಿರಿ । ಕುತ್ಸಃ ನ—ಕುತ್ಸನಂತೆ । ವಿಶಃ—ತನ್ನ ಪ್ರಜೆಗಳಲ್ಲಿಗೆ ಹೋಗಲು ।
+ಜರಿತುಃ—ಸ್ತುತಿಕರ್ತನಲ್ಲಿಗೆ ಹೋಗಲು । ನಶಾಯಥಃ—ರಥದಲ್ಲಿ ಕುಳ್ಳಿರಿ । ನಿಷ್ಕೃತಂ—ಪರಿಷ್ಕೃತವಾದ
+ಮಧುವನ್ನು । ಯೋಷಣಾ ನ—ಸ್ತ್ರೀಯು ಹೊತ್ತುಕೊಂಡು ಬರುವಂತೆ । ಯುವಯೋಃ—ನಿಮ್ಮ । ಮಧು—
+ಮಧುವನ್ನು । ಮಕ್ಷಾ—ಜೇನುನೊಣವು । ಆಸಾ—ತನ್ನ ಬಾಯಿನಿಂದ । ಪರಿ ಭರತ—ಹೊರುತ್ತದೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಮೇಧಾವಿಗಳಾದ ನೀವು ರಥವನ್ನು ಸುತ್ತುವರಿದು ನಿಲ್ಲಿರಿ. ತನ್ನ ಪ್ರಜೆಗಳಲ್ಲಿಗೆ
+ಹೋಗಲು ಕುತ್ಸನು ರಥವನ್ನು ಹತ್ತಿದಂತೆ, ನೀವು ನಿಮ್ಮ ರಥವನ್ನು ಹತ್ತಿರಿ. ಪರಿಷ್ಕೃತವಾದ ಮಧುವನ್ನು
+ಸ್ತ್ರೀಯು ಹೊತ್ತುಕೊಂಡು ಬರುವಂತೆ ನಿನ್ಮ ಮಧುವನ್ನು ಜೇನುನೊಣವು ತನ್ನ ಬಾಯಿನಿಂದ ಹೊರುತ್ತದೆ.
+
+<!-- printed 980 -->
+*[980 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೪೦]*
+
+
+*English Translation.*
+
+Sage Aswins, stand by your chariot; make it approach (the sacri-
+fice) of the worshipper, as Kutsa (made his chariot approach) men, the
+fly carries your honey, Aswins, in its mouth as a woman carries purified
+(honey).
+*[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೭
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ಹ ಭುಜ್ಯುಂ ಯುವಮಶ್ವಿನಾ ವಶಂ ಯುವಂ ಶಿಂಜಾರಮುಶನಾ
+> ಮುಪಾರಥುಃ ।
+> ಯುವೋ ರರಾವಾ ಪರಿ ಸಖ್ಯಮಾಸತೇ ಯುವೋರಹಮವಸಾ ಸುಮ್ಮನಾ
+> ಚಕೇ ॥ ೭ ।
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ಹ । ಭುಜ್ಯಂ । ಯುವಂ । ಅಶ್ವಿನಾ । ವಶಂ । ಯುವಂ । ಶಿಂಜಾರಂ । ಉಶನಾಂ । ಉಪ ।
+> ಆರಥುಃ ।
+> ಯುವೋಃ । ರರಾವಾ । ಪರಿ । ಸಖ್ಯಂ । ಆಸತೇ । ಯುವೋಃ । ಅಹಂ । ಅವಸಾ । ಸುಮ್ಮಂ । ಆ ।
+> ಚಕೇ ॥ ೭ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+*[೧ ಸಾಯಣಭಾಷ್ಯಂ ೧]*
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವಂ ಹ ಯುವಾಂ ಖಲು ಭುಜ್ಯುಂ ಸಮುದ್ರಮಧ್ಯೆ ವಿಪನ್ನನಾವಂ
+> ತುಗ್ರಪುತ್ರಂ ಭುಜ್ಯುಮುಪಾರಥುಃ । ಉತ್ತಾರಯಿತುಮುಪಗತವಂತೌ ಭವಧಃ । ಕಿಂಚ ಯುವಂ
+> ಯುವಾಂ ವಶಂ ಹಸ್ತಿಬಲೇನ ಶತ್ರುಭಿಃ ಪರಾಜಯಮಾನಂ ವಶನಾಮಧೇಯಂ ರಾಜಾನಂ ರಕ್ಷಣಾಯೋಪಾರಥುಃ । ಕಿಂಚ ಯುವಂ ಯುವಾಂ ಶಿಂಜಾರಮತ್ರಿಮಗ್ನಿ ಕೂಟಾದುತ್ತಾರಯಿತುಮುಶನಾಂ ಕಮನೀಯಾಂ ಸ್ತುತಿಂ ಚ ಶ್ರೋತುಮುಪಾರಥುಃ । ತಥಾ ಚ ಮಂತ್ರಾಂತರಂ । ಅತ್ರಿಂ ಶಿಂಜಾರಮಶ್ವಿನಾ ।
+> ಋ. ೮-೫-೨೫ । ಇತಿ । ಕಿಂಚ ಯುವೋರ್ಯುವಯೋಃ ಸಖ್ಯಂ ಮಿತ್ರತ್ವಂ ರರಾವಾ ಹವಿಷಾಂ
+> ಪ್ರದಾತಾ ಯಜಮಾನೋ ಪರ್ಯಾಸತೇ । ಪರ್ಯಾಸ್ತೆ ॥ ವಚನವ್ಯತ್ಯಯಃ ॥ ಕಿಂಚ ಯುವೋರ್ಯುವಯೋರವಸಾ ರಕ್ಷಣೇನಾಹಂ ಘೋಷಾ ಸುಮ್ಮಂ ಸುಖಮಾ ಚಕೇ । ಕಾಮಯೇ ॥
+
+<!-- printed 981 -->
+*[ಆ. ೭ ಆ. ೮. ವ. ೧೯. ] ಋಗ್ವೇದಸಂಹಿತಾ 981]*
+
+*[॥ ಪ್ರತಪದಾರ್ಥ ॥]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯುವಂ ಹ—ನೀವು । ಭುಜ್ಯುಂ—ಭುಜ್ಯವನ್ನು ।
+ಉಪಾರಥುಃ—ಸಮುದ್ರಮಧ್ಯದಿಂದ ಮೇಲಕ್ಕೆತ್ತಿದಿರಿ । ಯುವಂ—ನೀವು । ವಶಂ—ವಶನನ್ನು ಶತ್ರುಗಳಿಂದ
+ರಕ್ಷಿಸಿದಿರಿ । ಯುವಂ—ನೀವು । ಶಿಂಜಾರಂ—ಶಿಂಜಾರನಲ್ಲಿಗೆ । ಉಶನಾಂ—ಆಕರ್ಷಕವಾದ ಸ್ತುತಿಯನ್ನು
+ಕೇಳಲು ಬಂದಿರಿ । ಯುವೋಃ—ನಿಮ್ಮ । ಸಖ್ಯಂ—ಮಿತ್ರತ್ವವನ್ನು । ರರಾವಾ—ಹವಿಷ್ಪದನಾದ
+ಯಜಮಾನನು । ಪರಿ ಅಸತೇ—ಅದರಿಸುತ್ತಾನೆ । ಯುವೋಃ—ನಿಮ್ಮ । ಅವಸಾ—ರಕ್ಷಣೆಯಿಂದ । ಅಹಂ—
+ನಾನು । ಸುಮ್ಮಂ—ಸುಖವನ್ನು । ಅ ಚಕೇ—ಅಪೇಕ್ಷಿಸುತ್ತೇನೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ಭುಜ್ಯುವನ್ನು ಸಮುದ್ರಮಧ್ಯದಿಂದ ಮೇಲಕ್ಕೆತ್ತಿದಿರಿ ನೀವು ವಶನನ್ನು
+ಶತ್ರುಗಳಿಂದ ರಕ್ಷಿಸಿದಿರಿ. ಶಿಂಜಾರನಲ್ಲಿಗೆ ಅವನ ಆಕರ್ಷಕವಾದ ಸ್ತುತಿಯನ್ನು ಕೇಳಲು ಬಂದಿರಿ. ನಿಮ್ಮ ಮಿತ್ರತ್ವ
+ವನ್ನು ಹವಿಷ್ಪದನಾದ ಯಜಮಾನನು ಆದರಿಸುತ್ತಾನೆ. ನಿಮ್ಮ ರಕ್ಷಣದಿಂದ ನಾನು ಸುಖವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತೇನೆ.
+
+*English Translation.*
+
+You came, Aswins, to the rescue of Bhujyu, you came to the rescue
+of Vasha, you came to Shinjara to (hear) his desirable (praise) : the
+offerer of oblations beseiges your friendship ; and I desire happiness
+through your protection
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಭುಜ್ಯುಂ- ಭುಜ್ಯುವಿನ ವಿಷಯವನ್ನು ನಾವು ಹಿಂದೆಯೇ ವಿವರಿಸಿದೇವೆ. (ಪು ನೋಡಿ)
+ವಶಂ—ಅತ್ರಾಪೀತಿಹಾಸಮಾಚಕ್ಷತೇ । ವಶೋನಾಮ ರಾಜಾ ಅಶ್ವಪ್ರಾಯಬಲಃ ।
+ಸ ಹಸ್ತಿಬಲೈಃ ಶತ್ರುಭಿಃ ಪರಾಜೀಯಮಾನಃ ಸಾಹಾಯ್ಯಂ ಕರ್ತುಮಶ್ವಿನ್ ಸ್ತುತ್ವಾಜುಹಾವ । ತಂ
+ಪ್ರತಿ ತಸ್ಮಿನ್ನೇವಾಹನಿ ಅಶ್ವಿನಾವಾಜಗ್ಮತುರಿತಿ । ಅಶ್ವಶಕ್ತಿಯುಳ್ಳ ವಶನೆಂಬ ರಾಜನು ಆನೆಯಬಲವುಳ್ಳ ಶತ್ರು
+ಗಳಿಂದ ಪರಾಜಿತನಾದಾಗ ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಸಹಾಯಕ್ಕಾಗಿ ಸ್ತುತಿಸಿ ಕರೆದನು. ಆಗ ಒಡನೆಯೇ ಅಶ್ವಿನೀ
+ದೇವತೆಗಳು ಬಂದು ಇವನಿಗೆ ಸಹಾಯಮಾಡಿದರು ಎಂಬ ಕಥೆಯನ್ನು ಹೇಳಿ ಸ್ಕಂದಸ್ವಾಮಿಗಳು ಇದೇ ವಿಷಯವನ್ನು
+ಹೇಳಿರುವ,
+ಏಕಸ್ಯಾ ವಸ್ತೋರಾವತಂ ರಣಾಯ ವಶಮಶ್ವಿನಾ ಸನಯೇ ಸಹಸ್ರಾ ।
+(ಋ. ಸಂ. ೧-೧೧೬-೨೧)
+ಎಂಬ ಮಕ್ಕಳನ್ನೂ ಉದಹರಿಸಿದ್ದಾರೆ.
+
+<!-- printed 982 -->
+*[982 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೪೦]*
+
+
+#### ಋಕ್ ೮
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಯುವಂ ಹ ಕೃಶಂ ಯುವಮಶ್ವಿನಾ ಶಯುಂ ಯುವಂ ವಿಧಂತಂ ವಿಧವಾಮುರುಷ್ಯಥಃ ।
+> ಯುವಂ ಸನಿಭ್ಯಃ ಸ್ತನಯಂತಮಶ್ವಿನಾಪ ವ್ರಜಪೂರ್ಣುಥಃ ಸಪ್ತಾಸ್ಯಂ ॥೮॥
+
+*ಪದಪಾಠಃ*
+
+> ಯುವಂ । ಹ । ಕೃಶಂ । ಯುವಂ । ಅಶ್ವಿನಾ । ಶಯುಂ । ಯುವಂ । ವಿಧಂತಂ । ವಿಧವಾಂ ।
+> ಉರುಷ್ಯಥಃ ।
+> ಯುವಂ । ಸನಿಭ್ಯಃ । ಸ್ತನಯಂತಂ । ಅಶ್ವಿನಾ । ಅಪ । ವ್ರಜಂ । ಊರ್ಣುಥಃ । ಸಪ್ತಆಸ್ಯಂ ॥ ೮ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವಂ ಹ ಯುವಾಂ ಖಲು ಕೃಶಂ ದುರ್ಬಲಂ ಕೃಶನಾಮಧೇಯಂ
+> ವೋರುಷ್ಯಥಃ । ರಕ್ಷಥಃ । ಕಿಂಚ ಯುವಂ ಯುವಾಂ ಶಯುಂ ಶಯುನಾಮಾನಮೃಷಿಮುರುಷ್ಯಥಃ ।
+> ಕಿಂಚ ಯುವಂ ಯುವಾಂ ವಿಧಂತಂ ಪರಿಚರಂತಂ ಮನುಷ್ಯಂ ವಿಧವಾಂ ಚಾಪತಿಕಾಂ ವಧ್ರಿಮತೀಂ
+> ಯೋದ್ಧ್ರೀಂ ಸ್ತ್ರಿಯಂ ಚೋರುಷ್ಯಥಃ । ಕಿಂಚ ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಯುವಂ ಯುವಾಂ ಸ್ತನಯಂತಂ
+> ಶಬ್ದಂ ಕುರ್ವಂತಂ ಸಪ್ತಾಸ್ಯಂ ಸರ್ಪಣಶೀಲದ್ವಾರಂ ವ್ರಜಂ ಮೇಘಂ । ವ್ರಜಶ್ಚರುರಿತಿ ಮೇಘನಾಮಸು
+> ಪಾಠಾತ್ । ಸನಿಭ್ಯೋ ಹವಿಷಾಂ ದಾತೃಭ್ಯೋಽಪೋರ್ಣುಥಃ । ವಿವೃತದ್ವಾರಂ ಕೃತವಂತೌ ಸ್ಥ ಇತ್ಯರ್ಥಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯುವಂ ಹ—ನೀವು । ಕೃಶಂ—ಕೃಶನೆಂಬುವನನ್ನು ।
+ಉರುಷ್ಯಥಃ—ರಕ್ಷಿಸಿದ್ದೀರಿ । ಯುವಂ—ನೀವು । ಶಯುಂ—ಶಯುವನ್ನೂ ರಕ್ಷಿಸಿದ್ದೀರಿ । ಯುವಂ—ನೀವು ।
+ವಿಧಂತಂ—ನಿಮ್ಮನ್ನು ಸೇವಿಸುವವಳೂ । ವಿಧವಾಂ—ಗಂಡನಿಲ್ಲದವಳೂ ಆದ ವಧ್ರಮತಿಯನ್ನು ರಿಕ್ಷಿಸಿದ್ದೀರಿ ।
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ಯುವಂ—ನೀವು । ಸ್ತನಯಂತಂ—ಶಬ್ದಮಾಡುವುದೂ । ಸಪ್ತಾಸ್ಯಂ—
+ಏಳು ಮುಖಗಳುಳ್ಳದ್ದೂ ಆದ । ವ್ರಜಂ—ಮೇಘವನ್ನು । ಸನಿಭ್ಯಃ—ಯಜಮಾನರಿಗಾಗಿ । ಅಪ ಊರ್ಣುಥಃ—
+ಬಿಡಿಸಿ ಮಳೆಯನ್ನು ಸುರಿಸಿದ್ದೀರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ನೀವು ಕೃಶನೆಂಬುವನನ್ನು ರಕ್ಷಿಸಿದ್ದೀರಿ. ನೀವು ಶಯುವನ್ನೂ ರಕ್ಷಿಸಿದ್ದೀರಿ.
+ನಿಮ್ಮನ್ನು ಸೇವಿಸುವವಳೂ ಗಂಡನಿಲ್ಲದವಳೂ ಆದ ವಧ್ರಿಮತಿಯನ್ನು ರಕ್ಷಿಸಿದ್ದೀರಿ. ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ,
+ನೀವು ಶಬ್ದಮಾಡುವುದೂ, ಏಳುಮುಖಗಳುಳ್ಳದ್ದೂ ಆದ ಮೇಘವನ್ನು ಯಜಮಾನರಿಗಾಗಿ ಬಿಡಿಸಿ ಮಳೆಯನ್ನು
+ಸುರಿಸಿದ್ದೀರಿ.
+
+<!-- printed 983 -->
+*[೮. ೭. ಅ. ೮. ವ. ೧೯ ] ಋಗ್ವೇದಸಂಹಿತಾ 983]*
+
+
+*English Translation.*
+
+Verily, Aswins, you protect the feeble man:  you protected Shayu:
+you protect him who worships according to rule, and the widow, (Vadhri-
+mati); you set open, O Aswins, for the donors of oblations the seven-
+mouthed thundering cloud.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ತಯುಂ—ಶಯುವಿನ ವಿಷಯವನ್ನು ನಾವು ಹಿಂದೆಯೆ ಹೇಳಿದ್ದೇವೆ.
+*[೧ ಸಂಹಿತಾಪಾಠ ೧]*
+
+#### ಋಕ್ ೯
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಜನಿಷ್ಟ ಯೋಷಾ ಪತಯತ್ಕನೀನಕೋ ವಿ ಚಾರುಹನ್ವೀರುಧೋ ದಂಸನಾ
+> ಅನು ।
+> ಆಸ್ಮೈ ರೀಯಂತೇ ನಿವನೇವ ಸಿಂಧವೋಽಸ್ಮಾ ಅಹ್ನೇ ಭವತಿ ತತ್ಪತಿತ್ವನಂ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಜನಿಷ್ಟ । ಯೋಷಾ । ಪತಯತ್ । ಕನೀನಕಃ । ವಿ । ಚ । ಅರುಹನ್ । ವೀರುಧಃ । ದಂಸನಾಃ । ಅನು ।
+> ಆ । ಅಸ್ಮೈ । ರೀಯಂತೇ । ನಿವನಾ ಇವ ಸಿಂಧವಃ । ಅಸ್ಮೈ । ಅಹ್ನೇ । ಭವತಿ । ತತ್ । ಪತಿತ್ವನಂ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ಯುವಯೋಃ ಪ್ರಾಸಾದಾದಿಯಂ ಘೋಷಾ ಯೋಷಾ ಸ್ತ್ರೀಗುಣೋಪೇತಾ
+> ಸುಭಗಾ ಜನಿಷ್ಟ । ಜಾತಾ । ಅಸ್ಯಾಃ ಸಮೀಪೇ ಕನೀನಕಃ ಕನ್ಯಾಕಾಮಃ ಪತಿಃ ಪತಯತ್ । ಪತತು ।
+> ಅಸ್ಮೈ ಕನೀನಕಾಯ ಯುವಯೋರ್ದಂಸನಾ ಅನು ವೃಷ್ಟಿಲಕ್ಷಣಾನಿ ಕರ್ಮಾಣಿ ಲಕ್ಷ್ಮೀಕೃತ್ಯ ವೀರುಧ
+> ಓಷಧಯೋ ವಿ ಚಾರುಹನ್ । ವಿರೋಹಂತು । ಪ್ರಾದುರ್ಭವಂತು । ಅಸ್ಮೈ ಕನೀನಕಾಯ ನಿವನೇವ
+> ಪ್ರವಣೇನೇವ ಸಿಂಧವ ಉದಕಾನ್ಯಾ ರೀಯಂತೇ । ತಾ ವೀರುಧೋಽಭಿಗಚ್ಛಂತು । ಕಿಂಚಾಹ್ನೇ ಕೇನಾಪ್ಯಹಂತವ್ಯಾಯಾಸ್ಮೈ ಕನೀನಕಾಯ ತತ್ಸಂಭೋಗಸಮರ್ಥಂ ಪತಿತ್ವನಂ ಯೌವನಂ ಭವತಿ । ಭವತು ॥
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಆಶ್ವಿನೀದೇವತೆಗಳೇ) ಯೋಷಾ—ಘೋಷಾಸಂಜ್ಞ ಕಳಾದ ಈ ಸ್ತ್ರೀಯು । ಜನಿಷ್ಟ—ಉತ್ಪನ್ನಳಾ
+ಗಿದ್ದಾಳೆ । ಕನಿನಕಃ—ಕನ್ಯಾಪೇಕ್ಷಿಯಾದ ವರನು । ಪತಯತ್—ಒದಗಲಿ । ದಂಸನಾಃ ಅನು—ವೃಷ್ಟಿಪತನ
+
+<!-- printed 984 -->
+*[984 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಆ. ೩. ಸೂ. ೪೦]*
+
+ವಾದ ನಂತರ । ವೀರುಧಃ—ಓಷಧಿಗಳು । ವಿ ಚಾರುಹನ್—ಪೂರ್ಣವಾಗಿ ಬೆಳೆಯಲಿ । ಅಸ್ಮೈ—ಈ ವರನಿಗಾಗಿ
+ನಿವನೇವ—ತಗ್ಗು ಪ್ರದೇಶದಲ್ಲಿ ಹರಿಯುವಂತೆ । ಸಿಂಧವಃ—ಉದಕಗಳು । ಆ ರೀಯಂತೇ—ಸಸ್ಯಾದಿಗಳ ಮೇಲೆ
+ಹರಿದುಬರಲಿ । ಅಹ್ನೇ—ಅಹಿಂಸಿತನಾದ । ಅಸ್ಮೈ—ಈ ವರನಿಗಾಗಿ । ತತ್—ಪುರುಷಶಕ್ತಿದ್ಯೋತಕವಾದ ।
+ಪತಿತ್ವನಂ—ಯೌವನವು । ಭವತಿ—ಪ್ರಾಪ್ತವಾಗಲಿ.
+*[೧ ಭಾಷಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಘೋಷಾಸಂಜ್ಞಳಾದ ಈ ಸ್ತ್ರೀಯು ಉತ್ಪನ್ನಳಾಗಿದ್ದಾಳೆ. ಇವಳಿಗೆ ಉತ್ತಮ
+ನಾದ ವರನು ಒದಗಲಿ. ಇವನಿಗಾಗಿ ವೃಷ್ಟಿಪತನವಾದನಂತರ ಓಷಧಿಗಳು ಪೂರ್ಣವಾಗಿ ಬೆಳೆಯಲಿ. ಉದಕಗಳು
+ಹರಿದು ಸಸ್ಯಾದಿಗಳು ಬೆಳೆಯಲಿ. ಈ ವರನಿಗೆ ಪುರುಷಶಕ್ತಿದ್ಯೋತಕವಾದ ಯೌವನವು ಪ್ರಾಪ್ತವಾಗಲಿ.
+
+*English Translation.*
+
+The bride, Aswins, has been born, let the husband approach : may
+the plants spring up (for him) after the rain: for him may the streams flow
+as if from a declivity ; may he invulnerable have the power of a husband
+over her.
+
+#### ಋಕ್ ೧೦
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಜೀವಂ ರುದಂತಿ ವಿ ಮಯಂತೇ ಅಧ್ವರೇ ದೀರ್ಘಾಮನು ಪಸಿತಿಂ ದೀಧಿಯುರ್ನರಃ ।
+> ವಾಮಂ ಪಿತೃಭ್ಯೋ ಯ ಇದಂ ಸಮೇರಿರೇ ಮಯಃ ಪತಿಭ್ಯೋ ಜನಯಃ
+> ಪರಿಷ್ವಜೇ ॥ ೧೦ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಜೀವಂ । ರುದಂತಿ । ವಿ । ಮಯಂತೇ । ಅಧ್ವರೇ । ದೀರ್ಘಾಂ । ಅನು । ಪ್ರಸಿತಂ । ದೀಧಿಯುಃ ।
+> ನರಃ ।
+> ವಾಮಂ । ಪಿತೃಭ್ಯಃ । ಯೇ । ಇದಂ । ಸಂ 5ಪರಿರೇ । ಮಯಃ । ಪತಿಭ್ಯಃ । ಜನಯಃ । ಪರಿಸ್ವಜೇ ।
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ಯುವಯೋರನುಗ್ರಹಾದ್ಯೇ ನರಃ ಪತಯೋ ಜಾಯಾನಾಂ ಜೀವಂ ಜೀವನಮುದ್ದಿಶ್ಯ ರುದಂತಿ । ರೋದನೇನಾಪಿ ಜಾಯಾನಾಂ ಜೀವನಮೇವಾಶಾಸತ ಇತ್ಯರ್ಥಃ । ತಾ ಜಾಯಾ
+
+<!-- printed 985 -->
+*[ಅ. ೮. ಅ. ೮. ವ. ೨೦] ಋಗ್ವೇದಸಂಹಿತಾ 985]*
+
+> ಅಧ್ವರೇ ಯಜ್ಞೇ ವಿ ಮಯಂತೇ ನಿವೇಶಯಂತಿ ಚ ಕಿಂಚ ತಾಸು ದೀರ್ಘಾಂ ಮಹತೀಂ ಪ್ರಸಿತಿಂ
+> ಯಜಯೋಃ ಪ್ರಬಂಧನಮನು ದೀಧಿಯುಃ ಅನುದಧತಿ ಇದಂ ನಾಮಂ ವನನೀಯಮಪತ್ಯಂ ಪಿತೃಭ್ಯಃ
+> ಸಮೇರಿರೇ ಸಂಪ್ರೇರಯಂತಿ ಚ ತೇಭ್ಯಃ ಪತಿಭ್ಯೋ ಜನಯೋ ಜಾಯಾಃ ಪರಿಷ್ಟಜೇ ಪರಿಷ್ಟಂಗಾರ್ಥಂ
+> ಮಯಃ ಸುಖಂ ಕುರ್ವಂತೀತಿ ಶೇಷಃ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ) ಯೇ ನರಃ—ಯಾವ ಪತಿಗಳು । ಜೀವಂ—ಪತ್ನಿಯರ ಜೀವಕ್ಕಾಗಿ ।
+ರುದಂತಿ—ತಪಿಸುವರೋ (ಅಂತಹ ಪತಿಗಳನ್ನು) (ಅವರು ನಿಮ್ಮ ಅನುಗ್ರಹದಿಂದ) ಅಧ್ವರೇ—ಯಜ್ಞದಲ್ಲಿ ।
+ವಿ ಮಯಂತೇ—ಕುಳ್ಳಿರಿಸುತ್ತಾರೆ । ದೀರ್ಘಾಂ—ದೀರ್ಘವಾದ । ಪ್ರಸಿತಿಂ—ಆಲಿಂಗನವನ್ನು । ಅನುದೀಧಿಯುಃ—ಪಡೆಯುತ್ತಾರೆ । ಇದಂ ವಾಮಂ—ಅಪೇಕ್ಷಿತವಾದ ಪುತ್ರನನ್ನು । ಪಿತೃಭ್ಯಃ—ಪಿತೃಗಳಿಗೆ (ತಮ್ಮ
+ಪತಿಗಳಿಗೆ) । ಸಮೇರಿರೇ—ಪ್ರೇರಿಸುತ್ತಾರೆ । ಪತಿಭ್ಯಃ—ಪತಿಗಳಿಗೆ । ಜನಯಃ—ಪತ್ನಿಗಳು । ಪರಿಷ್ವಜೇ—
+ಆಲಿಂಗನರೂಪವಾದ । ಮಯಃ—ಸುಖವನ್ನು ಕೊಡುತ್ತಾರೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಪತಿಯರು ಪತ್ನಿಯರಿಗಾಗಿ ತಪಿಸುತ್ತಿರುವಾಗ ನಿಮ್ಮ ಅನುಗ್ರಹದಿಂದ ಅವರು
+ಯಜ್ಞದಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳುತ್ತಾರೆ. ದೀರ್ಘವಾದ ಆಲಿಂಗನವನ್ನು ಪಡೆದು ಪುತ್ರೋತ್ಪತ್ತಿಗಾಗಿ ಪ್ರೇರಿಸುತ್ತಾರೆ.
+ಆಲಿಂಗನರೂಪವಾದ ಸುಖವನ್ನು ಕೊಡುತ್ತಾರೆ.
+
+*English Translation.*
+
+The husbands who weep for the life (of their wives), make them sit down at the sacrifice, hold in a long embrace, (and) send the Pitris this desirable offspring, upon these husbands the wives (bestow) happiness in order to be embraced.
+
+#### ಋಕ್ ೧೧
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ನ ತಸ್ಯ ವಿದ್ಮತದು ಸು ಪ್ರ ವೋಚತ ಯುವಾ ಹ ಯದ್ಯುವತ್ಯಾಃ ಕ್ಷೇತಿ
+> ಯೋನಿಷು ।
+> ಪ್ರಿಯೋ ಸ್ರಿಯಸ್ಯ ವೃಷಭಸ್ಯ ರೇತಿನೊ, ಗೃಹಂ ಗಮೇಮಾಶ್ವಿನಾ ತದುಶ್ಮಸಿ ॥ ೧೧ ॥
+
+<!-- printed 986 -->
+*[986 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮ. ೧೦. ಅ. ೩. ಸೂ- ೪೦]*
+
+
+*ಪದಪಾಠಃ*
+
+> ನ । ತಸ್ಯ । ವಿದ್ಮ । ತತ್ । ಊಂ ಇತಿ । ಸು । ಪ್ರ । ವೋಚತ । ಯುವಾ । ಹ । ಯತ್ ।
+> ಯುವತ್ಯಾಃ । ಕ್ಷೇತಿ । ಯೋನಿಷು ।
+> ಪ್ರಿಯಉಸ್ರಿಯಸ್ಯ । ವೃಷಭಸ್ಯ । ರೇತಿನಃ । ಗೃಹಂ । ಗಮೇಮ। ಅಶ್ವಿನಾ । ತತ್ ! ಉಶ್ಮಸಿ ॥ ೧೧ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ತಸ್ಯ ತತ್ಸುಖಂ ವಯಂ ನ ವಿದ್ಮ । ನ ಜಾನೀಮಃ । ತತ್ಸುಖಂ ಯೂಯಂ
+> ಸು ಸುಷ್ಟು ಪ್ರ ವೋಚತ । ಬಹುವಚನಂ ಪೂಜಾರ್ಥಂ । ಯುನಾ ಹ ತರುಣಃ ಖಲು ಮತ್ಪತಿರ್ಯುವತ್ಯಾ ಯೌವನಾನ್ವಿತಾಯಾ ಮನು ಯೋನಿಷು ಗೃಹೇಷು ಯತ್ಕ್ಷೇತಿ ನಿವಸತೀತಿ । ಕಿಂಚ ಪ್ರಿಯೋಪ್ರಿಯಸ್ಯ ಪ್ರಿಯಯುವತೇರ್ವೃಷಭಸ್ಯ ಸೇಕ್ಕೂ ರೇತಿನೋ ರೇತಸ್ವಿನೋ ಮತ್ಪತೇರ್ಗೃಹಂ ಗಮೇಮ ।
+> ಗಚ್ಛೇಮ । ವಯಂ ತದ್ಗೃಹಮುಶ್ಮಸಿ । ಕಾಮಯಾಮಹೇ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ತಸ್ಯ ತತ್—ಇಂತಹ ಸುಖವನ್ನು । ನ ವಿದ್ಮ—ನಾವು ಅರಿತಿಲ್ಲ ।
+ಯುವಾ ಹ—ತರುಣನಾದ ಪತಿಯು । ಯುವತ್ಯಾಃ—ಯುವತಿಯಾದ ನನ್ನ । ಯೋನಿಷು—ಗೃಹಗಳಲ್ಲಿ ।
+ಯತ್ ಕ್ಷೇತಿ—ಹೇಗೆ ವಾಸಮಾಡುತ್ತಾನೆ ಎಂಬುದನ್ನು । ಸು ಪ್ರವೋಚತ—ಇದನ್ನು ವಿಶದವಾಗಿ ಹೇಳಿರಿ ।
+ಪ್ರಿಯೋಸ್ತ್ರಿಯಸ್ಯ—ಪ್ರಿಯಳಾದ ಯುವತಿಗೆ । ವೃಷಭಸ್ಯ—ಕಾಮವರ್ಷಕನಾದ । ರೇತಿನಃ—ಪತಿಯ ।
+ಗೃಹಂ—ಗೃಹಕ್ಕೆ । ಗಮೇಮ—ನಾವು ಹೋಗುವಂತಾಗಲಿ । ತತ್—ಆ ಗೃಹವನ್ನು । ಉಶ್ಮಸಿ—ನಾವು
+ಅಪೇಕ್ಷಿಸುತ್ತೇವೆ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಪತಿಸಂಗಮದ ಸುಖವನ್ನು ನಾವು ಅರಿತವರಲ್ಲ. ತರುಣನಾದ ಪತಿಯು
+ಯುವತಿಯಾದ ನನ್ನ ಗೃಹದಲ್ಲಿ ಹೇಗೆ ವಾಸಮಾಡಬಲ್ಲನೆಂಬುದನ್ನು ವಿಶದವಾಗಿ ಹೇಳಿರಿ. ಪ್ರಿಯಳಾದ ಯುವತಿಗೆ
+ಕಾಮವರ್ಷಕನಾದ ಪತಿಯ ಗೃಹಕ್ಕೆ ಹೋಗುವ ಅವಕಾಶವು ದೊರೆಯಲಿ. ನಾವು ಆ ಗೃಹವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತೇವೆ.
+
+*English Translation.*
+
+We do not know this (happiness) of his; do you, (Aswins), clearly explain how it is that the young (husbands) dwells in the bride's house; Ict us, Aswins, repair to the dwelling of (my) dear youthful, vigorous, and manly husband: this is our desire.
+
+<!-- printed 987 -->
+*[ಆ. ೭ ಆ. ೬. ವ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 987]*
+
+
+#### ಋಕ್ ೧೨
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಆ ವಾಮಗನ್ತುಮತಿರ್ವಾಜಿನೀವಸೂ ನ್ಯಶ್ವಿನಾ ಹೃತ್ಸು ಕಾಮಾ ಅಯಂಸತ ।
+> ಅಭೂತಂ ಗೋಪಾ ಮಿಥುನಾ ಶುಭಸ್ಪತೀ ಪ್ರಿಯಾ ಅರ್ಯಣ್ಣೋ ದುರ್ಯಾ
+> ಅಶೀಮಹಿ ॥ ೧೨ ॥
+*[॥ ಪಡಪಾರ ॥]*
+
+*ಪದಪಾಠಃ*
+
+> ಆ । ವಾಂ । ಅಗನ್ । ಸುಮತಿಃ । ವಾಜನೀವಸೂ ಇತಿ ವಾಜನೀಽವಸೂ । ನಿ । ಅಶ್ವಿನಾ । ಹೃತ್ಸು ।
+> ಕಾಮಾಃ । ಅಯಂಸತ ।
+> ಅಭೂತಂ । ಗೋಪಾ । ಮಿಥುನಾ । ಶುಭಃ । ಪತೀ ಇತಿ । ಪ್ರಿಯಾಃ । ಅರ್ಯ್ಯಮ್ನಃ । ದುರ್ಯಾನ್ ।
+> ಅಶೀಮಹಿ ॥ ೧೨ ॥
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ವಾಜಿನೀವಸೂ ಅನ್ನಧನೌ ಶುಭಸ್ಪತೀ ಉದಕಸ್ಯ ಸ್ವಾಮಿನೌ ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ಮಿಥುನಾ
+> ಮಿಥುನೌ ಪರಸ್ಪರಂ ಸಹಿತೌ ನಾಂ ಯುವಾಂ ಸುಮತಿರಾಗನ್ । ಆಗಚ್ಛತು । ಹೃತ್ಸ್ವಸ್ಮದೀಯೇಷು
+> ಹೃದಯೇಷು ಕಾಮಾ ಅಭಿಲಾಷಾ ನ್ಯಯಂಸತ । ನಿಯಮ್ಯಂತಾಂ । ಕಿಂಚ ಯುವಾಂ ಗೋಪಾ ಮಮ
+> ಗೋಪಾಯಿತಾರಾವಭೂತಂ । ಭವತಂ । ಅಪಿ ಚ ಪ್ರಿಯಾಃ ಸತ್ಯೋ ವಯಮರ್ಯಮ್ಮಃ ಪತ್ಯುದ್ರ್ರ್ಯಾನ್ಗೃಹಾನಶೀಮಹಿ । ಪ್ರಾಪ್ನುಯಾಮ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ವಾಜಿನೀವಸೂ—ಅನ್ನವಂತರೂ । ಶುಭಸ್ಪತೀ—ಉದಕಕ್ಕೆ ಪತಿಗಳೂ ಆದ । ಅಶ್ವಿನಾ—ಎಲೈ
+ಆಶ್ವಿನೀದೇವತೆಗಳೇ । ಮಿಥುನಾ—ಒಟ್ಟಿಗೆ ಕೂಡಿಕೊಂಡಿರುವ । ವಾಂ—ನಿಮ್ಮ । ಸುಮತಿಃ—ಅನುಗ್ರಹ
+ಬದ್ಧಿಯು । ಆಗನ್—ನನ್ನಲ್ಲಿಗೆ ಬರಲಿ । ಹೃತ್ಸು—ನನ್ನ ಹೃದಯಾಂತರ್ಗತವಾದ । ಕಾಮಾಃ—ಅಭಿಲಾಷೆಗಳನ್ನು ।
+ನ್ಯಯಂಸತ—ನಿಯಮಿಸಲಿ । ಗೋಪಾ—ನೀವು ನನಗೆ ರಕ್ಷಕರಾಗಿ । ಅಭೂತಂ—ಆಗಿರಿ । ಪ್ರಿಯಾಃ—ಪತಿಗೆ
+ಪ್ರೀತಿಪಾತ್ರರಾಗಿ । ಅರಮ್ಯಃ—ಪತಿಯ । ದುರ್ಯಾನ್—ಗೃಹಕ್ಕೆ । ಅಶೀಮಹಿ—ಹೋಗುವಂತಾಗಲಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಅನ್ನವಂತರೂ, ಉದಕಕ್ಕೆ ಒಡೆಯರೂ ಆದ ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಒಟ್ಟಿಗೆ ಕೂಡಿಕೊಂಡಿರುವ ನಿಮ್ಮ
+ಅನುಗ್ರಹಬುದ್ದಿಯು ನನ್ನನ್ನು ಸಮೀಪಿಸಲಿ. ನನ್ನ ಹೃದಯಾಂತರ್ಗತವಾದ ಅಭಿಲಾಷೆಗಳನ್ನು ನಿಯಮಿಸಲಿ.
+ನೀವು ನನಗೆ ರಕ್ಷಕರಾಗಿರಿ. ಪತಿಗೆ ಪ್ರೀತಿಪಾತ್ರರಾಗಿ ನಾವು ಪತಿಯ ಗೃಹಕ್ಕೆ ಹೋಗುವಂತಾಲಿ.
+
+<!-- printed 988 -->
+*[988 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೧೦. ಅ. ೩ ಸೂ. ೪೦]*
+
+
+*English Translation.*
+
+Aswins, rich in food, lords of water, twin (associates), may your good will devolve (upon us), may the desires (of our hearts) be attained: you have been my protecors : may we, (being) beloved, attain the habi-tation of a husband.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಈ ಸೂಕ್ತದ ಹಿಂದಿನ ಮೂರು ಋಕ್ಕುಗಳಲ್ಲಿಯೂ ಈ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಮುಂದಿನ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಸಹ
+(೯-೧೩ ಋಕ್ಕುಗಳಲ್ಲಿ) ಈ ಸೂಕ್ತದ್ರಷ್ಟವಾದ ಘೋಷಾ ಎಂಬ ಸ್ತ್ರೀಯು ತನಗೆ ಪತಿಯಿಲ್ಲದಿರುವುದನ್ನು ಅಶ್ವಿನೀ
+ದೇವತೆಗಳಿಗೆ ತಿಳಿಸಿ, ತನಗೆ ವಯಸ್ಸು ಕಳೆದು ಹೋಗುತ್ತಿರುವುದರಿಂದ ಯೋಗ್ಯನಾದ ಪತಿಯನ್ನು ಒದಗಿಸಿಕೊಟ್ಟು
+ಪುತ್ರಸಂತಾನವನ್ನೂ ಧನವನ್ನೂ ಕೊಡಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸಿದಾಳೆ. ಈ ಸ್ತ್ರೀಗೆ ಕುಷ್ಠರೋಗವಿದ್ದುದರಿಂದ ಇವಳನ್ನು
+ಮದುವೆಯಾಗಲು ಯಾರೂ ಮುಂದೆ ಬರಲಿಲ್ಲವೆಂದೂ ಆದ್ದರಿಂದ ಈ ಸ್ತ್ರೀಯು ತನ್ನ ಯೌವನಕಾಲದ ಬಹುಭಾಗ
+ವನ್ನು ತಂದೆಯ ಮನೆಯಲ್ಲಿ ಒಬ್ಬಂಟಿಗಳಾಗಿ ಕಳೆಯಬೇಕಾಯಿತೆಂದೂ ಆದ್ದರಿಂದಲೇ ತನ್ನ ರೋಗವನ್ನು ಪರಿಹಾರ
+ಮಾಡಿ ಉತ್ತಮನಾದ ಪತಿಯನ್ನೂ ತನ್ಮೂಲಕ ವೀರರಾದ ಪುತ್ರರನ್ನೂ ಧನವನ್ನೂ ಒದಗಿಸಿಕೊಟ್ಟು, ತನ್ನನ್ನು ಕಾಪಾಡ
+ಬೇಕೆಂದು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಿರುವ ವಿಷಯವನ್ನು ನಾವು ಈ ಸೂಕ್ತದ ಪೀಠಿಕೆಯಲ್ಲಿಯೇ
+ವಿವರಿಸಿದ್ದೇವೆ.
+ಸುಮತಿ:—ಸುಮತಿಶಬ್ದಕ್ಕೆ ಯಾಸ್ಕರು ಕಲ್ಯಾಣೀ ಮತಿಃ ಉತ್ತಮವಾದ, ಶುಭಪ್ರದವಾದ ಬುದ್ಧಿ
+ಎಂದರ್ಥಮಾಡಿದ್ದಾರೆ (ನಿ. ೨-೧೧; ೭-೨೨; ೧೧-೧೧; ೧೧-೧೯; ೧೨-೩೯) ಎಂದರೆ ದೇವತೆಗಳಿಗೆ ತಮ್ಮನ್ನು ಸ್ತುತಿಸುವ
+ಜನರ ವಿಷಯದಲ್ಲಿ ಅವರಿಗೆ ಉಪಕಾರಮಾಡಬೇಕೆಂಬ ಅನುಗ್ರಹಾತ್ಮಕವಾದ ಬುದ್ಧಿಯಿರುವುದೆಂದಭಿಪ್ರಾಯವು. ದೇವತೆ
+ಗಳು ಮನುಷ್ಯರ ವಿಷಯದಲ್ಲಿ ಕೆಡಕನ್ನು ಬೇಕಾದರೂ ಮಾಡಬಹುದು, ಅನುಗ್ರಹವನ್ನು ಬೇಕಾದರೂ ಮಾಡಬಹುದು.
+ಈ ಎರಡು ವಿಧವಾದ ಶಕ್ತಿಯೂ ದೇವತೆಗಳಿಗೆ ಇರುವುದು. ಆದ್ದರಿಂದ ಭಕ್ತರು ದೇವತೆಗಳನ್ನು ಸ್ತುತಿಸುವಾಗ ತಮ್ಮ
+ವಿಷಯದಲ್ಲಿ ದೇವತೆಗಳ ಅನುಗ್ರಹಾತ್ಮಕವಾದ ಬುದ್ಧಿಯೇ ತಮಗೆ ರಕ್ಷಣೆಯನ್ನು ನೀಡಲಿ ಎಂದು ಪ್ರಾರ್ಥಿಸಿದ್ದಾರೆ.
+ವಾಜನೀವಸೂ—ಅನ್ನಧನೌ । ಈ ಶಬ್ದವು ಅಶ್ವಿನೀದೇವತೆಗಳಿಗೆ ವಿಶೇಷಣವಾಗಿ ಅನ್ನರೂಪವಾದ
+ಧನವನ್ನುಳ್ಳವರು ಎಂದರೆ ಆ ವಿಧವಾದ ಧನವನ್ನು ತಮ್ಮನ್ನು ಸ್ತುತಿಸುವವರಿಗೆ ಕೊಡುವವರು ಎಂಬರ್ಥವನ್ನು
+ಸೂಚಿಸುವುದು. ವಾಜಃ ಎಂಬ ಶಬ್ದವು ಇಪ್ಪತ್ತೆಂಟು ಅನ್ನನಾಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿದೆ (ನಿ. ೩-೯) ಮತ್ತು
+ಸಂಗ್ರಾಮ (ಯುದ್ಧ) ನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೯) ಪಠಿತವಾಗಿರುವುದಲ್ಲದೆ ಸುಧನ್ವನ ಪುತ್ರರಾದ ಋಭು, ವಿಭು,
+ವಾಜ ಎಂಬ ಮೂವರು ಋಭುದೇವತೆಗಳಲ್ಲಿ ಒಬ್ಬನಾದ ವಾಜ ಎಂಬುವನ ಹೆಸರೂ ಆಗಿದೆ (ನಿ. ೧೧-೧೬). ಪ್ರಕೃತ
+ಋಕ್ಕಿನಲ್ಲಿರುವ ವಾಜನೀವಸೂ ಎಂಬ ಶಬ್ದದಲ್ಲಿ ವಾಜಃಶಬ್ದಕ್ಕೆ ಅನ್ನ (ಆಹಾರ) ವೆಂದರ್ಥವು. ವಾಜಿನೀ ಎಂದರೆ
+(ಈ ಶಬ್ದವು ಸ್ತ್ರೀಲಿಂಗವು) ಅನ್ನವನ್ನು ಹೊಂದಿರುವ ಅಥವಾ ಕೊಡುವ ಎಂಬರ್ಥದಲ್ಲಿ ಉಪಯೋಗಿಸಲ್ಪಡುವುದಲ್ಲದೆ
+ಉಷೋದೇವತೆಯ ವಿಭಾವರೀ, ಸೂನರೀ ಮೊದಲಾದ ಹದಿನಾರು ನಾಮಗಳಲ್ಲಿ ಈ ವಾಜಿನೀ ಎಂಬ ಶಬ್ದವೂ
+ಒಂದಾಗಿದೆ ಅನೇಕ ಸಂದರ್ಭಗಳಲ್ಲಿ ವಾಜಿನೀಶಬ್ದವು ಉಷೋದೇವತೆಯ ಗುಣಗಳನ್ನು ವರ್ಣಿಸುವುದಕ್ಕಾಗಿ
+
+<!-- printed 989 -->
+*[ಆ. ೭. ಆ. ೮. ವ. ೨೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 989]*
+
+ಉಪಯೋಗಿಸಲ್ಪಡುವುದು. ಅಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ವಾಜನೀ ಎಂದರೆ ತನ್ನ ಭಕ್ತರಿಗೆ ಕೊಡುವುದಕ್ಕಾಗಿ ಅನ್ನ
+ವನ್ನು ಹೊಂದಿರುವವಳು ಎಂದರ್ಥವಾಗುವುದು. ಆದರೆ ವಾಜನೀವಸೂ ಎಂಬ ಶಬ್ದದಲ್ಲಿ ವಾಜನೀ ಎಂಬ
+ಶಬ್ದಕ್ಕೆ ವಾಜಃ ಎಂಬ ಶಬ್ದದ ಅರ್ಥವಾದ ಅನ್ನವೆಂದೇ ಅರ್ಥಮಾಡಬೇಕಾಗಿರುವುದು. ವಾಜನೀ ಎಂದರೆ ಅನ್ನವು;
+ವಸು ಶಬ್ದಕ್ಕೆ ಅನೇಕ ಅರ್ಥಗಳಿದ್ದರೂ ಇಲ್ಲಿ ಧನವೆಂದೇ ಅರ್ಥವು (ನಿ ೩.೯) ಆದ್ದರಿಂದ ವಾಜನೀವಸೂ ಎಂಬ
+ದ್ವಿವಚನಾಂತ ಶಬ್ದಕ್ಕೆ ಅನ್ನವೇ ಧನವಾಗಿವುಳ್ಳ ಈ (ಇಬ್ಬರು) ಅಶ್ವಿನೀದೇವತೆಗಳು ಎಂದರ್ಥವು. ಧನವು ಅನೇಕ
+ರೂಪದಲ್ಲಿರಬಹುದು—ದ್ರವ್ಯ, ಪಶುಸಂಪತ್ತು, ಅನ್ನಾದ್ಯಾಹಾರ, ಗೃಹಾದಿಗಳು ಇತ್ಯಾದಿ. ಮನುಷ್ಯರಿಗೆ ಅವಶ್ಯಕ
+ವಾದ ಅಥವಾ ಉಪಯುಕ್ತವಾದ ಯಾವ ವಸ್ತುವನ್ನೇ ಆಗಲಿ ಅದನ್ನು ಧನವೆಂಬ ಹೆಸರಿನಿಂದ ಕರೆಯಬಹುದು.
+ಆದ್ದರಿಂದ ಇಲ್ಲಿ ಅನ್ನವೇ (ಆಹಾರವೇ) ಧನವೆಂದು ಹೇಳಲು ಅವಕಾಶವಿದೆ. ಮನುಷ್ಯರಿಗೆ ಅತ್ಯವಶ್ಯಕವಾಗಿ
+ಬೇಕಾಗುವ ಆಹಾರವು ಅಶ್ವಿನೀದೇವತೆಗಳ ಬಳಿ ಇರುವುದರಿಂದಲೂ, ಆ ಅನ್ನಾದ್ಯಾಹಾರಗಳನ್ನು ಅವರು ತಮ್ಮನ್ನು
+ಸ್ತುತಿಸುವ ಜನರಿಗೆ ಕೊಡುವುದರಿಂದಲೂ ಅವರನ್ನು ವಾಜನೀವಸೂ ಎಂಬ ಶಬ್ದದಿಂದ ಕರೆಯಲಾಗಿದೆ.
+ಮಿಥುನಾ—ಇದು ದ್ವಿವಚನಾಂತಶಬ್ದವು. ಮಿಥುನೌ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಬದಲಾಗಿ ಮಿಥುನಾ ಎಂಬ
+ಶಬ್ದದ ಪ್ರಯೋಗವಿದೆ. ಈ ವಿಧವಾದ ದ್ವಿವಚನಾಂತ ಶಬ್ದಪ್ರಯೋಗವು ಋಗ್ವೇದದಲ್ಲಿ ವಿಶೇಷವಾಗಿದೆ—ರಾಜಾನಾ,
+ಮಿತ್ರಾವರುಣಾ, ನಾಸತ್ಯಾ ಇತ್ಯಾದಿ. ಮಿಥುನಶಬ್ದದ ನಿರ್ವಚನವನ್ನು ಯಾಸ್ಕರು ಈ ರೀತಿ ಹೇಳಿದ್ದಾರೆ—
+ಮಿಥುನೌ ಕಸ್ಮಾನ್ಮಿನೋತಿಃ ಶ್ರಯತಿಕರ್ಮಾ, ಥು ಇತಿ ನಾಮಕರಣಸ್ಥಕಾರೋ ವಾ ನಯತಿಃ
+ಪರೋ ವನಿರ್ವಾ, ಸಮಾಶ್ರಿತಾವನ್ಯೋನ್ಯಂ ನಯತೋ ವನುತೋ ವಾ, ಮನುಷ್ಯಮಿಥುನಾವಪ್ಯೇತಸ್ಮಾದೇವ, ಮೇಥಂತಾವನ್ಯೋನ್ಯಂ ವನುತ ಇತಿ ವಾ ॥
+(ಸಿ-೭-೨೯)
+ಮಿಥುನೌ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಎರಡು ವಿಧವಾದ ನಿಷ್ಪತ್ತಿಯನ್ನು ಹೇಳಿದ್ದಾರೆ. ಮಿ ಎಂಬ ಧಾತುವಿಗೆ (ಮಿನೋತಿ
+ಧಾತುವಿಗೆ) ಆಶ್ರಯಿಸು ಎಂಬರ್ಥವಿರುವುದು ಥು ಎಂಬ ಅಕ್ಷರವು ನಾಮಕರಣ ಅಥವಾ ಪ್ರತ್ಯಯವು. ಈ
+ಪ್ರತ್ಯಯವನ್ನು ಮಿಧಾತುವಿಗೆ ಸೇರಿಸಿದರೆ ಮಿ+ಥು ಎಂದಾಗುವುದು. ನಯತಿಃ ಪರಃ ಎಂದರೆ ನಯತಿಧಾತುವಿನ
+ನಕಾರವು ಮಿಧಾತುವಿನ ಪರದಲ್ಲಿ ಇರಬೇಕು. ಆದ್ದರಿಂದ ಮಿ+ನ+ಥು ಎಂದಾಯಿತು. ಇಲ್ಲಿ ಮಧ್ಯಾಂತವಿಪರ್ಯ
+ದಿಂದ ಎಂದರೆ ಮಧ್ಯದ ಅಕ್ಷರವಾದ ನ ಕಾರ ಮತ್ತು ಕೊನೆಯ ಅಕ್ಷರವಾದ ಥು ಎಂಬ ಅಕ್ಷರಗಳ ವಿಪರ್ಯಾಸದಿಂದ
+ಎಂದರೆ ಸ್ಥಳಪಲ್ಲಟಮಾಡುವುದರಿಂದ ಮಿ+ಥು+ನ ಎಂದಾಗುವುದು ಎಂದು ಒಂದು ವಿಧವಾದ ರೂಪನಿಷ್ಪತ್ತಿಯು.
+ಈ ಶಬ್ದಕ್ಕೆ—ಎರಡು ವಸ್ತುಗಳಿದ್ದು ಅವುಗಳಲ್ಲಿ ಒಂದು ಮತ್ತೊಂದನ್ನು ಆಶ್ರಯಿಸಿರುತ್ತಾ ಒಂದನ್ನು ಮತ್ತೊಂದನ್ನು
+ಒಯ್ಯುವುದು ಎಂದರ್ಥವಾಗುವುದು.
+ಹಿಂದೆ ಹೇಳಿದಂತೆ ಮಿ ಧಾತುವಿಗೆ ಥು ಎಂಬ ಪ್ರತ್ಯಯಕ್ಕೆ ಬದಲಾಗಿ ಥ ಎಂಬ ಪ್ರತ್ಯಯವನ್ನು ಸೇರಿಸ
+ಬಹುದು ಮತ್ತು ಇದರ ಮುಂದೆ ವನಿಃ ಎಂದು ಸಂಪ್ರಸಾರಣ ಬರುವುದು ಎಂದರೆ ಮಿ+ಥ ಎಂಬಲ್ಲಿ ಥೆ ಎಂಬ
+ಅಕ್ಷರದ ಸ್ವರವಾದ ಅಕಾರವು ಲೋಪವಾಗಿ ಥ್ ಎಂದಾಗಿ ಅದಕ್ಕೆ ಉಕಾರವು ಬರುವುದು. ಮಿ+ಥು ಎಂದಾಗು
+ವುದು. ಅನಂತರ ಹಿಂದೆ ಹೇಳಿದಂತೆಯೇ ಮಧ್ಯಾಂತವಿಪರ್ಯಾಸದಿಂದ ಎಂದರೆ ಕೊನೆಯ ಎರಡು ಅಕ್ಷರಗಳ ಸ್ಥಾನ
+ಗಳನ್ನು ಪರಸ್ಪರ ಬದಲಾಯಿಸುವುದರಿಂದ ಮಿಥುನ ಎಂದಾಗುವುದು. ಈ ರೀತಿ ನಿಷ್ಪನ್ನವಾದ ಮಿಥುನಶಬ್ದಕ್ಕೆ
+
+<!-- printed 990 -->
+*[990 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ. ೪೦]*
+
+ಹಿಂದೆ ಹೇಳಿದಂತೆಯೇ ಅರ್ಥವು. ಎಂದರೆ ಒಂದನ್ನು ಮತ್ತೊಂದು ಆಶ್ರಯಿಸಿರುವ ಎರಡು ವಸ್ತುಗಳು ಎಂದು
+ಮಿಥುನೌ ಎಂಬ ಶಬ್ದದ ಅರ್ಥವು. ಈ ಶಬ್ದವು ಮನುಷ್ಯರ ಪರವಾಗಿ ಉಪಯೋಗಿಸಲ್ಪಟ್ಟಾಗಲೂ ಇದೇ ಅರ್ಥವನ್ನು
+ಸೂಚಿಸುವುದು ಎಂದರೆ ಗುಣರೂಪಾದಿಗಳಲ್ಲಿ ಸಮಭಾವದಿಂದಿರುವ ಇಬ್ಬರಲ್ಲಿ ಒಬ್ಬರನ್ನು ಮತ್ತೊಬ್ಬರು ಆಶ್ರಯಿಸಿ
+ಪರಸ್ಪರ ಕಾಲವನ್ನು ಕಳೆಯುತ್ತಿರುವ ಎರಡು ವ್ಯಕ್ತಿಗಳು ಎಂದಭಿಪ್ರಾಯವು. ಈ ಶಬ್ದವು ದಂಪತಿಗಳನ್ನು ಅಥವಾ
+ಅವಳೀಮಕ್ಕಳನ್ನು ಸೂಚಿಸುವುದಕ್ಕಾಗಿ ಉಪಯೋಗಿಸಬಹುದು.
+*[೧ ಸಂಹಿತಾಪಾಠ 1]*
+
+#### ಋಕ್ ೧೩
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ತಾ ಮಂದಸಾನಾ ಮನುಷೋ ದುರೋಣ ಆ ಧತ್ತಂ ರಯಿಂ ಸಹವೀರಂ
+> ವಚಸ್ಯವೇ ।
+> ಕೃತಂ ತೀರ್ಥಂ ಸುಪ್ರಪಾಣಂ ಶುಭಸ್ಪತೀ ಸ್ಥಾಣುಂ ಪಥೇಷ್ಠಾಮಸ
+> ದುರ್ಮತಿಂ ಹತಂ ॥ ೧೩ ॥
+
+*ಪದಪಾಠಃ*
+
+> ತಾ । ಮಂದಸಾನಾ । ಮನುಷಃ । ದುರೋಣೇ । ಆ । ಧತ್ತಂ । ರಯಿಂ । ಸಹವೀರಂ । ವಚಸ್ಯವೇ ।
+> ಕೃತಂ । ತೀರ್ಥಂ । ಸುಪ್ರಪಾನಂ । ಶುಭಃ । ಪತೀ ಇತಿ । ಸ್ಥಾಣುಂ । ಪಥೇಸ್ಥಾಂ । ಅಪ ।
+> ದುಃಮತಿಂ । ಹತಂ ॥ ೧೩ ।
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನೌ ಮಂದಸಾನಾ ಮಂದಸಾನ್ ತಾ ತೌ ಯುವಾಂ ಮನುಷೋ ಮನುಷ್ಯಸ್ಯ
+> ಮತ್ಪತೇರ್ದುರೋಣೇ ಗೃಹೇ ವಚಸ್ಯವೇ ಯುಷ್ಮತ್ಸುತಿಕಾಮಾಯ್ಕೆ ಮಹ್ಯಂ ಸಹವೀರಂ ಪುತ್ರಾದಿಸಹಿತಂ ರಯಿಂ ಧನಮಾ ಧತ್ತಂ! ಸ್ಥಾಪಯತಂ । ಕಿಂಚ ಹೇ ಅಶ್ವಿನೌ ಶುಭಸ್ಪತೀ ಉದಕಸ್ಯ ಸ್ವಾಮಿನ್
+> ಯುವಾಂ ಪತಿಗೃಹಂ ಗಚ್ಛಂತ್ಯಾ ಮಮ ತೀರ್ಥಂ ಪಾನಾಯ ಸುಪ್ರಪಾಣಂ ಕೃತಂ । ಕುರುತಂ । ಕಿಂಚ
+> ಯುವಾಂ ಪಥೇಷ್ಠಾಂ ಮಾರ್ಗಸ್ಥಂ ಸ್ಥಾಣುಂ ವೃಕ್ಷಂ ದುರ್ಮತಿಂ ದುರ್ಬುದ್ಧಿಂ ಪರಿಪಂಥಿನಂ ಚಾಪ
+> ಹತಂ । ಅಪಗಮಯತಂ ॥
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+(ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ), ಮಂದಸಾನಾ—ಹರ್ಷಯುಕ್ತರಾದ । ತಾ—ನೀವು । ಮನುಷಃ—
+ಮಾನವನಾದ ನನ್ನ ಪತಿಯ । ದುರೋಣೇ—ಗೃಹದಲ್ಲಿ! ವಚಸ್ಯವೇ—ನಿಮ್ಮನ್ನು ಸ್ತುತಿಸುವ ನನಗೆ! ಸಹವೀರಂ—
+ವೀರಪುತ್ರಾದಿಗಳಿಂದ ಕೂಡಿದ । ರಯಿಂ—ಧನವನ್ನು । ಆ ಧತ್ತಂ—ತಂದೊದಗಿಸಿರಿ । ಶುಭಸ್ಪತೀ—ಉದಕಕ್ಕೆ
+
+<!-- printed 991 -->
+*[ಆ. ೭. ಆ. ೮. ವ. ೨೦. ] ಋಗ್ವೇದಸಂಹಿತಾ 991]*
+
+ಒಡೆಯರಾದ ನೀವು । ತೀರ್ಥಂ—ಉದಕವನ್ನು । ಸುಪ್ರಪಾನಂ—ಕುಡಿಯಲು ಯೋಗ್ಯವಾದುದನ್ನಾಗಿ ! ಕೃತಂ—
+ಮಾಡಿರಿ ! ಪಥೇಷ್ಠಾಂ—ಮಾರ್ಗಸ್ಥವಾದ । ಸ್ಥಾಣುಂ—ನಿರೋಧಕವಾದ ವೃಕ್ಷವನ್ನೂ । ದುರ್ಮತಿಂ—ದುಷ್ಟ
+ಶಕ್ತಿಯನ್ನೂ । ಅಪಹೃತಂ—ನಾಶಪಡಿಸಿರಿ.
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಹರ್ಷಯುಕ್ತರಾದ ನೀವು ನಿಮ್ಮನ್ನು ಸ್ತುತಿಸುವ ನನಗೆ ನನ್ನ ಪತಿಯಗೃಹದಲ್ಲಿ
+ವೀರಪುತ್ರಾದಿಗಳಿಂದ ಕೂಡಿದ ಧನವನ್ನು ಒದಗಿಸಿರಿ. ಉದಕಕ್ಕೆ ಒಡೆಯರಾದ ನೀವು ಉದಕವನ್ನು ನನಗೆ ಕುಡಿಯಲು
+ಯೋಗ್ಯವಾದುದನ್ನಾಗಿ ಮಾಡಿರಿ. ನನ್ನ ಮಾರ್ಗಕ್ಕೆ ಪ್ರತಿಬಂಧಕವಾದ ಮೋಟುಮರವನ್ನೂ, ದುಷ್ಟಶಕ್ತಿಯನ್ನೂ
+ನಾಶಪಡಿಸಿರಿ.
+
+*English Translation.*
+
+Exulting, do you bestow riches, comprehending male progeny, in
+the house of my husband, on me, who desire to praise you; lords of waters
+make the sacred ford good to drink : remove the tree that stands in th^e
+road and the malevolent (enemy).
+
+#### ಋಕ್ ೧೪
+
+*ಸಂಹಿತಾಪಾಠಃ*
+
+> ಕ್ವ ಸ್ವಿದದ್ಯ ಕತಮಾಸ್ವಶ್ವಿನಾ ವಿಕ್ಷು ದಸ್ರಾ ಮಾದಯೇತೇ ಶುಭಸ್ಪತೀ ।
+> ಕ ಈಂ ನಿ ಯೇಮೇ ಕತಮಸ್ಯ ಜಗ್ಮತುರ್ವಿಪ್ರಸ್ಯ ವಾ ಯಜಮಾನಸ್ಯ ವಾ
+> ಗೃಹಂ ॥ ೧೪ ॥
+
+*ಪದಪಾಠಃ*
+
+> ಕ್ವ । ಸ್ವಿತ್ । ಅದ್ಯ । ಕತಮಾಸು । ಅಶ್ವಿನಾ । ವಿಕ್ಷು । ದಸ್ರಾ । ಮಾದಯೇತೇ ಇತಿ । ಶುಭಃ ।
+> ಪತೀ ಇತಿ ।
+> ಕಃ । ಈಂ । ನಿ । ಯೇಮೇ । ಕತಮಸ್ಯ । ಜಗ್ಮತುಃ । ವಿಪ್ರಸ್ಯ । ವಾ । ಯಜಮಾನಸ್ಯ । ವಾ । ಗೃಹಂ ॥
+*[। ಸಾಯುಭಾಷ್ಯಂ ।]*
+
+*ಸಾಯಣಭಾಷ್ಯಂ*
+
+> ಹೇ ಅಶ್ವಿನಾಶ್ವಿನ್ ದಸ್ರಾ ದರ್ಶನೀಯೌ ಶುಭಸ್ಪತೀ ಉದಕಸ್ಯ ಪತೀ ಸ್ವಾಮಿನೌ ಭವಂತೌ ಕ್ವ
+> ಸ್ವಿತ್ಕ್ವ ಸ್ಥಿತೌ ಜನಪದೇಽದ್ಯಾಸ್ಮಿನ್ನಹನಿ ಕತಮಾಸು ಕಾಸು ವಿಕ್ಷು ಪ್ರಜಾಸು ಮಾದಯೇತೇ । ಆತ್ಮಾನಂ
+> ತರ್ಪಯತಃ । ಕಿಂಚ ಕೋ ಯಜಮಾನ ಈಮೇತ್ ನಿ ಯೇಮೇ । ನಿಯಚ್ಛತಿ । ಕಿಂಚ ಭವಂತೌ
+> ಕತಮಸ್ಯ ವಿಪ್ರಸ್ಯ ಮೇಧಾವಿನಃ ಸ್ತೋತುರ್ಯಜಮಾನಸ್ಯ ಗೃಹಂ ವಾ ಜಗ್ಮತುಃ । ಗತವಂತೌ ॥
+
+<!-- printed 992 -->
+*[992 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧೦. ಅ. ೩. ಸೂ.]*
+
+*[೧ ಪ್ರತಿಪದಾರ್ಥ ೧]*
+
+*ಪ್ರತಿಪದಾರ್ಥ*
+
+ಅಶ್ವಿನಾ—ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ । ದಸ್ರಾ—ಆಕರ್ಷಕವಾದ ರೂಪವುಳ್ಳವರೂ । ಶುಭಸ್ಪತೀ—
+ಉದಕಕ್ಕೆ ಪಾಲಕರೂ ಆದ ನೀವು । ಕ್ವ ಸ್ವಿತ್—ಯಾವ ಪ್ರದೇಶದಲ್ಲಿದ್ದವರಾಗಿ । ಅದ್ಯ—ಈ ಯಾಗಕಾಲದಲ್ಲಿ ।
+ಕತಮಾಸು ವಿಕ್ಷು—ಯಾವ ದೇಶದ ಪ್ರಜೆಗಳ ನಡುವೆ । ಮಾದಯೇತೇ—ಹರ್ಷವನ್ನನುಭವಿಸುತ್ತಿರುವಿರಿ । ಕಃ—
+ಯಾವ ಯಜಮಾನನು । ಈಂ—ನಿಮ್ಮನ್ನು । ನಿ ಯೇಮೇ—ತಡೆದಿರುತ್ತಾನೆ ? । ಕತಮಸ್ಯ—ಯಾವ
+ವಿಪ್ರಸ್ಯ—ಸ್ತುತಿಕರ್ತನ । ವಾ—ಅಥವಾ । ಯಜಮಾನಸ್ಯ—ಯಜ್ಞಕರ್ತನ । ಗೃಹಂ—ಮನೆಗೆ । ಜನ್ಮತುಃ—
+ಹೋಗಿದ್ದೀರಿ ?
+*[೧ ಭಾವಾರ್ಥ ೧]*
+
+*ಭಾವಾರ್ಥ*
+
+ಎಲೈ ಅಶ್ವಿನೀದೇವತೆಗಳೇ, ಆಕರ್ಷಕವಾದ ರೂಪವುಳ್ಳವರೂ, ಉದಕಕ್ಕೆ ಪಾಲಕರೂ ಆದ ನೀವು ಈಗ
+ಯಾವ ಪ್ರದೇಶದಲ್ಲಿ ಇದ್ದುಕೊಂಡು ಈ ಯಾಗಕಾಲದಲ್ಲಿ ಯಾವ ದೇಶದ ಪ್ರಜೆಗಳ ನಡುವೆ ಹರ್ಷವನ್ನನುಭವಿಸು
+ತ್ತಿದ್ದೀರಿ ? ಯಾವ ಯಜಮಾನನು ನಿಮ್ಮನ್ನು ತಡೆದಿರುತ್ತಾನೆ? ಯಾವ ಸ್ತುತಿಕರ್ತನ ಅಥವಾ ಯಜಮಾನನ
+ಮನೆಗೆ ಹೋಗಿದ್ದೀರಿ ?
+
+*English Translation.*
+
+Aswins of goodly aspect, lords of water, in what place, among
+what people, do you to-day delight ? who now detains you ? to the house
+of what sage, or of what sacrificer, have you repaired ?
+ವೇದಾರ್ಥಸ್ಯ ಪ್ರಕಾಶೇನ ತಮೋ ಹಾರ್ದಂ ನಿವಾರಯನ್ ।
+ಪುಮರ್ಥಾಂಶ್ಚ ತುರೋ ದೇಯಾದ್ವಿದ್ಯಾತೀರ್ಥಮಹೇಶ್ವರಃ ॥
+ಇತಿ ಶ್ರೀಮದ್ರಾಜಾಧಿರಾಜಪರಮೇಶ್ವರವೈದಿಕಮಾರ್ಗಪ್ರವರ್ತಕಶ್ರೀವೀರಬುಕ್ಕಭೂಪಾಲಸಾಮ್ರಾಜ್ಯಧುರಂಧರೇಣ ಸಾಯಣಾಚಾರ್ಯೇಣ ವಿರಚಿತೇ ಮಾಧವೀಯೇ ವೇದಾರ್ಥಪ್ರಕಾಶ
+ಯುಕ್ಸಂಹಿತಾಭಾಷ್ಯೇ ದಶಮೇ ಮಂಡಲೇ ಚತ್ವಾರಿಂಶತ್ಸೂಕ್ತಂ ಸಮಾಪ್ತಂ ॥
+ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ
+ಋಗ್ವೇದಸಂಹಿತೆಯಲ್ಲಿ ಹತ್ತನೆಯ ಮಂಡಲದಲ್ಲಿ ನಲವತ್ತನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು.
+ಏಳನೆಯ ಅಷ್ಟಕದ ಎಂಟನೆಯ ಅಧ್ಯಾಯದಲ್ಲಿ ಇಪ್ಪತ್ತನೆಯ ವರ್ಗವು ಸಮಾಪ್ತವು.
+। ಓಂ ತತ್ಸ್ಯತ್ ॥
+ಯದಕ್ಷರಪದಭ್ರಷ್ಟಂ ಮಾತ್ರಾಹೀನಂ ತು ಯದ್ಭವೇತ್ ।
+ತತ್ಸರ್ವಂ ಕ್ಷಮ್ಯತಾಂ ದೇವ ವಾಗೀಶ್ವರ ನಮೋಽಸ್ತು ತೇ ॥
+॥ ಶುಭಂ ಭೂಯಾತ್ ॥
+॥ ಮಂಗಳಂ ॥
