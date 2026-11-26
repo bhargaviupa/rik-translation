@@ -11870,6 +11870,270 @@ The flowing Somas (indavaḥ) go towards the ocean, the one place where the Soma
 - इंदवः (*iṃdavaḥ*)—the flowing Somas
 - समुद्रं अच्छ (*samudraṃ accha*)—where all the juices gather together**NOTE**
 
+### Printed p. 321
+
+go and join, facing the Droṇa-vessel. (And)
+
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योनिं (*yoniṃ*)—to the place
+- आ अग्मन् (*ā agman*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+As milk-giving cows go eagerly towards their home, so the flowing Somas go and join, facing the Droṇa-vessel where all the juices gather together. And from there they go and join the place of the sacrifice.
+
+##### English translation
+The Soma-juices go to the ocean, as milch cows to their stall ; they go to the place of sacrifice.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ण॑ इंदो म॒हे रण॒ आपो॑ अर्षंति॒ सिंध॑वः ।  
+> यद्गोभि॑र्वासयि॒ष्यसे॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नः । इंदो इति । महे । रणे । आपः । अर्षंति । सिंधवः ।  
+> यत् । गोभिः । वासयिष्यसे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो क्षरन् सोम नः अस्माकं स्वभूताय रणे रणाय । रणंति स्तुवंति देवानत्रेति रणो यज्ञः । अधिकरणे अप् । ङेर्यः' (पा. सू. ७.१.१३) इति न भवति सर्वविधीनां छंदसि विकल्पितत्वात् । महे महते रणाय यज्ञाय तदर्थं सिंधवः स्यंदमानाः आपः वसतीवर्याख्याः सोमसेकार्थं तदा अर्षंति प्रगच्छंति । यत् यदा त्वं गोभिः गव्यैर्दधिक्षीरादिभिः वासयिष्यसे आच्छाद्यसे मिश्रितो भवसि तदापो गच्छंतीति ॥
+
+##### Gist of the bhāṣya
+
+O Indu, O flowing Soma, for our great rite (raṇa, the sacrifice, where they praise the gods) the flowing waters, called vasatīvarī, go forth then for the sprinkling of Soma; that is, when you are covered and mixed with the products of cows, curds, milk and the like, then the waters go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- यत् (*yat*)—when
+- गोभिः (*gobhiḥ*)—with the milk-mixtures, milk and the rest
+- वासयिष्यसे (*vāsayiṣyase*)—you join (then)
+- नः (*naḥ*)—our
+- महे (*mahe*)—great
+
+### Printed p. 322
+
+- रणे (*raṇe*)—for the sacrifice
+- सिंधवः (*siṃdhavaḥ*)—in the form of streams
+- आपः (*āpaḥ*)—the waters, the vasatīvarī and others
+- प्र अर्षंति (*pra arṣaṃti*)—flow forth and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, when you join the milk and other mixtures, then for our great sacrifice the waters, the vasatīvarī and others, in the form of streams, flow forth and come.
+
+##### English translation
+Indu, the flowing waters hasten to our great sacrifices when you are mixed with the curds and milk.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॑ ते स॒ख्ये व॒यमिय॑क्षंत॒स्त्वोत॑यः ।  
+> इंदो॑ सखि॒त्वमु॑श्मसि ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । ते । सख्ये । वयम् । इयक्षंतः । त्वाऽऊतयः ।  
+> इंदो इति । सखिऽत्वम् । उश्मसि ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो पवमान इयक्षंतः यष्टुमिच्छंतः पूजयितुमिच्छंतो वा अस्य प्रसिद्धस्य ते तव सख्ये सखिकर्मणि स्थिताः वयं त्वोतयः त्वदायत्तरक्षणाः संतः सखित्वं सखिभावमेव उश्मसि उश्मः कामयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Indu, O purifying Soma, we, desiring to sacrifice or to worship, standing in the friendship of you, the well known, dependent on you for our protection, desire (uśmasi, we long for) only friendship with you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- इयक्षंतः (*iyakṣaṃtaḥ*)—those who wish to perform the sacrifice
+- अस्य (*asya*)—well known
+- ते (*te*)—your
+- सख्ये (*sakhye*)—who are in friendship
+- वयं (*vayaṃ*)—we
+- त्वोतॆयः (*tvotèyaḥ*)**NOTE**—wishing for your protection
+- सखित्वं (*sakhitvaṃ*)—your friendship
+- उश्मसि (*uśmasi*)—we desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, we who wish to perform the sacrifice and who have your well-known friendship, wishing for your protection, desire your friendship.
+
+### Printed p. 323
+
+##### English translation
+Indu, we abiding in your friendship, desiring to sacrifice, depending on your protection, desire your friendship.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व॒ गवि॑ष्टये म॒हे सो॑म नृ॒चक्ष॑से ।  
+> एंद्र॑स्य ज॒ठरे॑ विश ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । गोऽइष्टये । महे । सोम । नृऽचक्षसे ।  
+> आ । इंद्रस्य । जठरे । विश ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमान गविष्टये अंगिरसां गवामन्वेष्ट्रे महे महते नृचक्षसे नॄणां मनुष्याणां द्रष्रेमा कर्मनेतॄणां फलं पश्यते वा इंद्राय आ पवस्व पात्रेषु दशापवित्रेण पूतो भव । ततः इंद्रस्य जठरे उदर उदरभूते द्रोणकलशे वा आ विश प्रविश ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, O purifying one, flow into the vessels, purified by the ten-fold filter, for Indra, the finder of the cows of the Aṅgirases, the great, the beholder of men (nṛcakṣas: the seer of men, or he who sees the fruit of the leaders of rites**NOTE**). Then enter Indra's belly, that is, the Droṇa-vessel which is like a belly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- गविष्टये (*gaviṣṭaye*)—for him who finds the cows
+- महे (*mahe*)—for him of great nature
+- नृचक्षसे (*nṛcakṣase*)—for him who looks at the deeds of men, you for the sake of Indra
+- आ पवस्व (*ā pavasva*)—flow
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरे (*jaṭhare*)—in the belly
+- आ विश (*ā viśa*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who find the cows, who are of great nature, who look at the deeds of men, flow for the sake of Indra. Enter also Indra's belly.
+
+##### English translation
+Flow, Soma, for the mighty cattle-seeker, the beholder of men, enter Indra's belly.
+
+### Printed p. 324
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हाँ अ॑सि सोम॒ ज्येष्ठ॑ उ॒ग्राणा॑मिंद॒ ओजि॑ष्ठः ।  
+> युध्वा॒ संछश्व॑ज्जिगेथ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । असि । सोम । ज्येष्ठः । उग्राणाम् । इंदो इति । ओजिष्ठः ।  
+> युध्वा । सन् । शश्वत् । जिगेथ ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं महान् असि यतस्त्वं देवानां प्रीणयितासि खलु। त्वं ज्येष्ठः प्रशस्यतमो भवसि । किंच हे इंदो पवमान त्वम् उग्राणाम् उद्गूर्णबलानामपि ओजिष्ठः ओजस्वितमो भवसि । त्वं युध्वा सन् शत्रुभिः सह युद्धं कुर्वन्नेव शश्वत् सर्वदा जिगेथ तांस्तेषां धनानि च जितवानसि ।' जि जये'। थलि ‘ सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कवर्गादेशः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are great, for you are the pleaser of the gods; you are eldest, the most praiseworthy. Further, O Indu, O purifying one, you are the most vigorous even among the mighty, those of uplifted strength. Being a fighter, making war with enemies, you ever conquer them and have conquered their riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- महान् असि (*mahān asi*)—you are of great nature
+- ज्येष्ठः (*jyeṣṭhaḥ*)—you are above all
+- इंदो (*iṃdo*)—O Soma, who are in the form of a stream
+- उग्राणां (*ugrāṇāṃ*)—among all those of great strength
+- ओजिष्ठः (*ojiṣṭhaḥ*)—you of the greatest vigour
+- युद्धा सन् (*yuddhā san*)**NOTE**—whenever you are fighting with enemies
+- शश्वत् (*śaśvat*)—always
+- जिगेथ (*jigetha*)—you gain victory itself
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you are of great nature, you are above all. O Soma, who are in the form of a stream, you of the greatest vigour among all those of great strength, gain victory itself at all times when you fight with enemies.
+
+##### English translation
+Soma, you are great, most worthy to be praised ; Indu, (you are) the most vigorous of the mighty ; engaged in battle you ever triumph.
+
+### Printed p. 325
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒ग्रेभ्य॑श्चि॒दोजी॑यां॒छूरे॑भ्यश्चि॒च्छूर॑तरः ।  
+> भू॒रि॒दाभ्य॑श्चि॒न्मंही॑यान् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उग्रेभ्यः । चित् । ओजीयान् । शूरेभ्यः । चित् । शूरऽतरः ।  
+> भूरिऽदाभ्यः । चित् । मंहीयान् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः उग्रेभ्यश्चित् उद्गूर्णेभ्यो बलवद्भ्योऽपि ओजीयान् ओजस्वितमः । किंच यः शूरेभ्यश्चित् वीरेभ्योऽपि शूरतरः अत्यंतसमर्थो भवति । तथा यः सोमः भूरिदाभ्यः। ‘डुदाञ् दाने' ।' आतो मनिन् इति विच् । बहुधनानां दातृभ्योऽपि मंहीयान् दातृतमो भवति । तं त्वां वृणीमह इत्युत्तरेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Soma who is more vigorous even than the mighty, those of uplifted strength; who is, further, braver and exceedingly capable even than the heroes; and who is more generous even than the givers of much wealth (bhūridā): you we choose, this connects with the following verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)(O Soma-deva)—you who
+- उग्रेभ्यश्चित् (*ugrebhyaścit*)—among all those of great strength
+- ओजीयान् (*ojīyān*)—are exceedingly vigorous
+- शूरेभ्यश्चित् (*śūrebhyaścit*)—among all the brave
+- शूरतरः (*śūrataraḥ*)—exceedingly brave
+- भूरिदाभ्यः चित् (*bhūridābhyaḥ cit*)—among all those who give much
+- मंहीयान् (*maṃhīyān*)—are exceedingly generous (such you we worship)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who among all those of great strength are exceedingly vigorous, among all the brave exceedingly brave, among all who give much exceedingly generous, such you we worship.
+
+##### English translation
+(You) who (are) mightier than the mighty, braver, more generous than generous -
+
+### Printed p. 326
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म॒ सूर॒ एष॑स्तो॒कस्य॑ सा॒ता त॒नूना॑म् ।  
+> वृ॒णी॒महे॑ स॒ख्याय॑ वृणी॒महे॒ युज्या॑य ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । सूरः । आ । इषः । तोकस्य । साता । तनूनाम् ।  
+> वृणीमहे । सख्याय । वृणीमहे । युज्याय ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सूरः सुवीर्यः । यद्वा । सर्वस्य यागादिकर्मणि प्रेरकः त्वम् इषः अन्नानि अस्माकम् आ धेहि। उपसर्गश्रुतेर्योग्यक्रियाध्याहारः। किंच त्वं तोकस्य पुत्रस्य तनूनाम् । ‘ तन्वंति विस्तारयंति कुलमिति तन्वः पौत्राः। तेषां च साता दाता भव। ‘षणु दाने'।  जनसन' इति विट्। 'जनसन °' इत्यात्वम् । वयं तं त्वां सख्याय सखिभावाय कर्मणे वा वृणीमहे संभजामहे । तथा युज्याय । युज् सहायः । तस्य भावे कर्मणि वा ष्यञ् । संज्ञापूर्वकस्य विधेत्यरनित्वादवृद्धिः । शत्रुवधादिलक्षणसाहाय्याय च वयं वृणीमहे ॥
+> अग्निहोत्रे पूर्वस्यामाहुतौ हुतायामुपस्थितेन यजमानेन प्रतिदिवसं प्रतिसंवत्सरं वानेन तृचेनाग्निरुपस्थेयः । सूत्रितं च--- आग्नेयीभिश्चाग्न आयूंषि पवस इति तिसृभिः संवत्सरे संवत्सरे ( आश्व. श्रौ. २.३-४ ) इति । चौलादिकर्मसु चतस्र आज्याहुतयो होतव्यास्तत्रैव तिस्रः । सूत्रितं च -- तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न आयूंषि पवस इति तिसृभिः' (आश्व. गृ. १.४.३-४) इति । आधाने पवमानेष्टावग्नेः पवमानस्य ' अग्न आयूंषि' इत्येषानुवाक्या। ‘अग्ने पवस्व' इत्येषा याज्या । सूत्रितं च----’ प्रथमायामग्निरग्निः पवमानोऽग्न आयूंषि पवसेऽग्ने पवस्व स्वपाः' ( आश्व. श्रौ. २.१ ) इति । पुनराधेये द्वितीयाज्यभागस्य ‘अग्न आयूंषि' इत्येषा वैकल्पिकानुवाक्या। सूत्रितं च’ नित्यं पूर्वमनुब्राह्मणिनोऽग्न आयूंषि पवस इत्युत्तरम्' (आश्व. श्रौ. २.८) इति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are a hero of good valour (or else: the impeller of all in the rites such as sacrifice), bestow on us foods (iṣaḥ); a verb of fitting meaning is supplied because of the preposition. Further, be the giver to son (toka) and to grandsons (tanūnām: those who extend the family). We choose you for friendship or for the rite of friendship, we resort to you; likewise for alliance (yujya: the state of being a helper, or the rite of helping), that is, for help consisting of the slaying of enemies and the like, we choose you.
+
+Use of the verses: in the Agnihotra, after the first oblation has been offered, the sacrificer who has taken his place near the fire is to approach Agni with this triple verse (tṛca) every day or every year. It is also laid down in the sūtra: with the three Āgneya verses beginning agna āyūṃṣi pavase, year after year (Āśva. Śrau. 2.3-4**NOTE**). In the rites such as the tonsure four oblations of ghee are to be offered, three of them with it. The sūtra says: of these, first one should offer four ghee oblations, with the three verses beginning agna āyūṃṣi pavase (Āśva. Gṛ. 1.4.3-4**NOTE**). In the Ādhāna, in the Pavamāna offering to Agni Pavamāna, agna āyūṃṣi is the anuvākyā and agne pavasva the yājyā; the sūtra: in the first, Agni, Agni Pavamāna, agna āyūṃṣi pavase, agne pavasva svapāḥ (Āśva. Śrau. 2.1). In the Punarādheya, for the second ājyabhāga, agna āyūṃṣi is the optional anuvākyā; the sūtra: the earlier is always so for one who has studied the Brāhmaṇa, agna āyūṃṣi pavase the later (Āśva. Śrau. 2.8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- सूरः (*sūraḥ*)—you, the impeller of all
+- त्वं (*tvaṃ*)—you
+- इषः (*iṣaḥ*)—foods
+- आ (देहि) (*ā (dehi)*)—provide to us
+- तोकस्य (*tokasya*)—to our sons
+- तनूनां (*tanūnāṃ*)**NOTE**—and to grandsons
+- साता (*sātā*)—be the giver of food
+- सख्याय (*sakhyāya*)—to gain your friendship
+- वृणीमहे (*vṛṇīmahe*)**NOTE**—we worship you
+- युज्याय (*yujyāya*)—to obtain your help
+- वृणीमहे (*vṛṇīmahe*)**NOTE**—we worship you
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you, the impeller of all, provide us foods; be the giver of food to our sons and grandsons. To obtain your friendship and your help we worship and choose you.
+
+##### English translation
+You, Soma, who are a hero, (bestow) upon (us) food, (be) the giver of sons (to us); we choose you for your friendship. (we choose you) for your alliance.
+
 ---
 
-**Progress note:** Done through printed p. 320. Sūkta 66 Ṛk 6 bhāṣya to Ṛk 12, pp. 315-320
+**Progress note:** Done through printed p. 326. Sūkta 66 Ṛk 12 end to Ṛk 18, pp. 321-326
