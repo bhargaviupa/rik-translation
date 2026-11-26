@@ -18383,6 +18383,279 @@ Metre: 1–14 Jagatī; 15 Triṣṭubh.
 > ये वा॑वृ॒धुः प्र॑त॒रं वि॒श्ववे॑दस॒ इंद्र॑जेष्ठासो अ॒मृता॑  ॒॑
 > ऋतावृधः ॥ १ ॥
 
+### Printed p. 536
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवान् । हुवे । बृहत्श्रवसः । स्वस्तये । ज्योतिःकृतः । अध्वरस्य । प्रचेतसः ।  
+> ये । ववृधुः । प्रततरं । विश्ववेदसः । इंद्रज्येष्णासः । अमृताः । ऋतवृधः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहच्छवसः प्रभूताना इत्योतिष्कृत आदित्याख्यस्य तेजसः कर्त्यान्प्रचेतसः
+> प्रकृष्टज्ञानांस्तान्देवानध्वरस्यास्य यज्ञस्य स्वस्तयेऽविनाशाय निर्विघ्नेन यज्ञपरिसमाप्तये हुवे । आह्वयामि । विश्ववेदसः सर्वधना इंद्रज्येष्णासः । इंद्रो
+> ज्येष्णः प्रधानो येषां । इंद्रनेतृका इत्यर्थः । अमृता मरणधर्मरहिता ऋतावृधो यज्ञेन प्रवृद्धा ये देवाः प्रतरमत्यंतं ववृधुः वर्धंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses बृहच्छवसः (*bṛhacchavasaḥ*) as "those of abundant (food or fame)", and ज्योतिष्कृतः (*jyotiṣkṛtaḥ*) as the makers of the light called Āditya, the solar brilliance. प्रचेतसः (*pracetasaḥ*) he glosses as those of excellent knowledge. The poet says: "I invoke those gods for the welfare, the indestructibility, of this sacrifice (अध्वरस्य (*adhvarasya*)), that is, for its completion free of obstacles." हुवे (*huve*) means "I call". विश्ववेदसः (*viśvavedasaḥ*) means those who have all wealth. इंद्रज्येष्णासः (*iṃdrajyeṣṇāsaḥ*) means those whose chief and foremost is Indra, that is, those led by Indra. अमृता (*amṛtā*) means free from mortality, and ऋतावृधः (*ṛtāvṛdhaḥ*) means grown strong through the sacrifice. These are the gods who grow exceedingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—those who possess all wealth
+- इंद्रज्येष्ठासः (*iṃdrajyeṣṭhāsaḥ*)—those who have Indra himself as leader
+- अमृताः (*amṛtāḥ*)—those free from mortality
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—those who obtain growth through the sacrifice
+- ये (*ye*)—which gods
+- प्रतरं (*prataraṃ*)—exceedingly
+- ववृधुः (*vavṛdhuḥ*)—who have obtained strength (such gods)
+- बृहच्च्रवसः (*bṛhaccravasaḥ*)—those possessing abundant food
+- ज्योतिष्कृतः (*jyotiṣkṛtaḥ*)—those who create and spread radiance
+- प्रचेतसः (*pracetasaḥ*)—those of excellent knowledge
+- देवान् (*devān*)—the gods
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- स्वस्तये (*svastaye*)—for a faultless completion
+- हुवे (*huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+I pray and call, that the sacrifice may be completed without obstacle, those gods who possess all wealth, have Indra himself as leader, are free from mortality, and obtain growth through the sacrifice, and who are exceedingly strong: those who possess abundant food, who create and spread radiance, and who are of excellent knowledge.
+
+##### English translation
+I invoke for the success of the sacrifice the gods who bestow abundant food, the diffusers of light, the extremely wise who flourish mightily, abounding in all riches, having Indra as their chief, immortal, augmented by sacrifice.
+
+### Printed p. 537
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑प्रसूता॒ वरु॑णप्रशिष्टा॒ ये सूर्य॑स्य॒ ज्योति॑षो भा॒गमा॑न॒शुः ।  
+> म॒रुद्ध॑णे वृ॒जने॒ मन्म॑धीमहि॒ माघो॑ने य॒ज्ञं ज॑नयंत  ॒॑
+> सूरयः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रप्रसूताः । वरुणप्रशिष्टाः । ये । सूर्यस्य । ज्योतिषः । भागं । आनशुः ।  
+> मरुत्गणे । वृजने । मन्म । धीमहि । माघोने । यज्ञं । जनयंत । सूरयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रप्रसूता इंद्रेण तत्कार्येषु प्रेरिता वरुणप्रशिष्ठा वरुणेनानुशिष्टा
+> अनुमोदिता ये मरुतो ज्योतिषो द्योतमानस्य सूर्यस्य स्वस्वकर्मणि सर्वस्य
+> प्रेरकस्यामुष्यादित्यस्य भागं भजनीयं लोकमानशुः आनशिरे व्याप्तवंतः। सूर्यमधिष्ठाय वर्तंत इत्यर्थः । वृजने शत्रूणां छेदके माघोने मघवत इंद्रस्य
+> संबंधिनि मरुद्धणे। तेषां मरुतां गणे मन्म मननीयं स्तोत्रं धीमहि। दध्मः ।
+> कुर्मः । किंच । सूरयः प्राज्ञा यजमानास्तन्निमित्तमेव यज्ञं जनयंत । जनयंति । तेषां हविष्ट्रदानाय कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are "impelled by Indra", urged by him in his tasks, and "instructed by Varuṇa", that is, approved by him. They have obtained a portion, a world fit to be shared, of the shining Sun (ज्योतिषः (*jyotiṣaḥ*)), the impeller of all in their respective works, that is, the Āditya. This means that they abide resting on the Sun. "In the company of the Maruts" (मरुद्धणे (*maruddhaṇe*)), which is cutter of enemies (वृजने (*vṛjane*)) and belongs to Maghavan, that is Indra, "we offer (धीमहि (*dhīmahi*), दध्मः (*dadhmaḥ*), "we place") a hymn (मन्म (*manma*)) worthy of reflection". Moreover, the wise (सूरयः (*sūrayaḥ*)) sacrificers produce (जनयंत (*janayaṃta*)) the sacrifice for this very purpose, in order to give oblations to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रप्रसूताः (*iṃdraprasūtāḥ*)—those impelled by Indra
+- वरुणप्रशिष्टाः (*varuṇapraśiṣṭāḥ*)—those who have obtained Varuṇa's permission
+- ये (*ye*)—which Maruts
+- ज्योतिषः (*jyotiṣaḥ*)—of the shining
+- सूर्यस्य (*sūryasya*)—of Āditya
+- भागं (*bhāgaṃ*)—the venerable portion of radiance
+- आनशुः (*ānaśuḥ*)—who obtain (such)
+- वृजने (*vṛjane*)—those who cut down enemies
+- माघोने (*māghone*)—those who are Indra's kinsmen
+- मरुद्धणे (*maruddhaṇe*)—addressing the Maruts
+- मन्मथ (*manmatha*)—a meditative hymn **NOTE**
+- धीमहि (*dhīmahi*)—I offer
+- सूरयः (*sūrayaḥ*)—the wise sacrificers
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- जनयंत (*janayaṃta*)—they procure (perform)
+
+##### भावार्थ (Bhāvārtha)
+
+We offer a meditative hymn to those Maruts who are impelled by Indra and have obtained Varuṇa's permission, and who obtain the venerable share of radiance of the shining Āditya. These Maruts are cutters of enemies and kinsmen of Indra.
+
+### Printed p. 538
+
+The wise sacrificers offer (perform) the sacrifice for this very purpose.
+
+##### English translation
+We offer praise to the company of the Maruts, the attendants upon Maghavan, who, encouraged by Indra, and instructed by Varuna, have acquired a portion of the light of the sun ; the wise worshippers beget the sacrifice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ वसु॑भिः॒ परि॑ पातु नो॒ गय॑मादि॒त्यैनर्नो॒ अदि॑तिः॒ ॑ 
+> शर्म॑ यच्छतु ।  
+> रु॒द्रो रु॒द्रेभि॑र्दे॒वो मृ॑ळयाति न॒स्तृष्टा॑ नो॒ ग्नाभिः॑ सुवि॒ताय॑ जिन्वतु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । वसुभिः । परि । पातु । नः । गयं । आदित्यैः । नः । अदितिः । शर्म । यच्छतु ।  
+> रुद्रः । रुद्रेभिः । देवः । मृळयाति । नः । त्वष्टा । नः । ग्नाभिः । सुविताय । जिन्वतु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुभिरेतन्नामकैरष्टभिर्देवैः सहित इंद्रो नोऽस्मदीयं गयं । गृहनामैतत् प्राप्तव्यं गायते शब्द्यतेऽत्रेति वा गृहं गयं । परि पातु । परिरक्षतु ।
+> तथादितिर्देवमातादित्यैर्देवैः सह नोऽस्मभ्यं शर्म सुखं प्रयच्छतु । किंच
+> देवो दीप्यमानो रुद्रो रुद्रेभिः स्वपुत्रैर्मरुद्भिः सह नोऽस्मान्मृळॆयाति ।
+> सुखयतु ॥ मृड सुखने । लेट्यडागमः । अपि च त्वष्टा प्रजापतिर्गाभिर्देवपत्निभिश्चंदोभिः सुविताय सुष्टु प्राप्तव्यायाभ्युदयाय नोऽस्माइज्वॆन्वतु । प्रीणयतु॥
+
+##### Gist of the bhāṣya
+
+Indra, together with the Vasus, that is, the eight gods of that name, is to protect all around our "gaya" (गयं (*gayaṃ*)). Sāyaṇa says that this is a name for the house; it is what is to be reached, or else the place where one sings or where sound is made. Aditi, mother of the gods, with the Ādityas, is to grant us शर्म (*śarma*), happiness. The shining Rudra, with his sons the Maruts, is to make us happy (मृळयाति (*mṛḷayāti*), "let him gladden"). Tvaṣṭṛ, that is Prajāpati, is to please us (जिन्वतु (*jinvatu*)) for our well-being (सुविताय (*suvitāya*)), a good prosperity to be attained. He is accompanied by the wives of the gods, whom Sāyaṇa names with ग्नाभिः (*gnābhiḥ*) and then चंदोभिः (*caṃdobhiḥ*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसुभिः (*vasubhiḥ*)—together with the gods called Vasus
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—our
+- गयं (*gayaṃ*)—house
+- परि पातु (*pari pātu*)—may he protect
+
+### Printed p. 539
+
+- अदितिः (*aditiḥ*)—Aditi
+- आदित्यैः (*ādityaiḥ*)—together with the Ādityas
+- नः (*naḥ*)—to us
+- शर्म (*śarma*)—happiness
+- यच्छतु (*yacchatu*)—may she give
+- देवः (*devaḥ*)—the shining
+- रुद्रः (*rudraḥ*)—Rudra
+- रुद्रेभिः (*rudrebhiḥ*)—together with the Maruts
+- नः (*naḥ*)—us
+- मृळयाति (*mṛḷayāti*)—may he make happy
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ (Prajāpati)
+- ग्नाभिः (*gnābhiḥ*)—together with the wives of the gods
+- सुविताय (*suvitāya*)—so that good fortune may come to us
+- नः (*naḥ*)—us
+- जिन्वतु (*jinvatu*)—may he gladden
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, together with the gods called Vasus, protect our house. May Aditi, together with the Ādityas, give us happiness. May the shining Rudra, together with the Maruts, make us happy. May Prajāpati, together with the wives of the gods, gladden us so that good fortune may come to us.
+
+##### English translation
+May Indra with the Vasus guard our dwelling ; may Aditi with the Adityas grant us felicity ; may the divine Rudra with the Rudras make us happy : may Twashtri with the wives of the gods be favourable to us for our prosperity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदि॑ति॒र्दार्यवा॑पृथि॒वी ऋ॒तं म॒हदिंद्रा॒विष्णू॑ म॒रुतः॒ स्व॑र्बृ॒हत् ।  
+> दे॒वा आ॑दि॒त्या अव॑से हवामहे॒ वसू॑न्द्रा॒द्रान्त्स॑वि॒तारं॑ सु॒दंस॑सं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदितिः । द्यावापृथिवी इति । ऋतं । महत् । इंद्राविष्णू इति । मरुतः । स्वः। बृहत् ।  
+> देवान् । आदित्यान् । अवसे । हवामहे । वसून् । रुद्रान् । सवितारं । सुदंससं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितिदर्त्यावापृथिवी द्यावापृथिव्यौ महद्महानृतं सत्यभूतोऽग्निरिंद्राविष्णू
+> मरुतश्च बृहत्परिवृढः स्वरादित्यः एते देवाः सर्वत्र स्वमहिम्मा वर्तंते। एतान्देवानादित्यादीन्सदंससं सुकर्माणं सवितारमेतन्नामानं चावसे रक्षणाय हनामहे।
+> वयमाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+Aditi, heaven and earth, the great ऋतं (*ṛtaṃ*) (that is, Agni, who is the embodiment of truth), Indra and Viṣṇu, the Maruts, and the vast, all-encompassing स्वः (*svaḥ*), that is, Āditya: all these gods abide everywhere by their own greatness. These gods, the Ādityas and the rest, and Savitṛ, who bears this name and is of good works (सुदंससं (*sudaṃsasaṃ*)), "we invoke (हवामहे (*havāmahe*)) for protection (अवसे (*avase*))".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदितिः (*aditiḥ*)—Aditi
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- महत् (*mahat*)—the great one
+- ऋतं (*ṛtaṃ*)—Agni, who is of the nature of truth
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—Indra and Viṣṇu
+- मरुतः (*marutaḥ*)—the Maruts
+
+### Printed p. 540
+
+- बृहत् (*bṛhat*)—of great nature
+- स्वः (*svaḥ*)—Āditya; all of them together shine, pervading
+- देवान् (*devān*)—these gods
+- वसून् (*vasūn*)—the Vasu gods
+- रुद्रान् (*rudrān*)—the Rudras
+- आदित्यान् (*ādityān*)—the Ādityas
+- सुदंससं (*sudaṃsasaṃ*)—the doer of excellent works
+- सवितारं (*savitāraṃ*)—Savitṛ
+- अवसे (*avase*)—for protection
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+Aditi, heaven and earth, Agni who is great and of the nature of truth, Indra and Viṣṇu, the Maruts, and Āditya of great nature all together pervade and shine. These gods, the Vasus, Rudras and Ādityas, and Savitṛ, the doer of excellent works, we pray and call for protection.
+
+##### English translation
+Aditi, heaven and earth, the mighty truth (Agni), Indra, Vishnu, the Maruts, the great sun—(these) we invoke for our protection, as well as the divine Adityas, the Vasus, the Rudras and Savitri, the accomplisher of good works.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वान्थी॒भिर्वरु॑णो धृ॒तव्र॑तः पू॒षा विष्णु॑र्महि॒मा वा॒युर॒श्विना॑ ।  
+> ब्र॒ह्म॒कृतो॑ अ॒मृता॑ वि॒श्ववे॑दसः॒ शर्म॑ नो यंसन् त्रि॒वरू॑थ॒मंह॑सः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वान् । धीभिः । वरुणः । धृतव्रतः । पूषा । विष्णुः । महिमा । वायुः । अश्विना ।  
+> ब्रह्मकृतः । अमृताः । विश्ववेदसः । शर्म । नः । यंसन् । त्रिवरूथं । अंहसः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीभिः प्रज्ञाभियुक्तः सरस्वानेतन्नामा धृतव्रतो धृतकर्मा वरुणश्च
+> पूषा महिमा महत्वेन युक्तो विष्णुश्च वायुरश्विनाश्विन् बृहकृतः कर्मकृतः
+> स्तोतृणामन्नदातारो ना विश्ववेदसः सर्वथना व्याप्तज्ञाना वा०हसः पापरूपाणां
+> शत्रूणां हंतारोऽमृता एते देवा नोऽस्मभ्यं त्रिवरूथं त्रिष्कंभं त्रिकक्ष्यं शर्म
+
+### Printed p. 541
+
+> गृहं । यद्वा । त्रिवरूथं । द्रोणाधवनीयपूतभृत्संज्ञकानि त्रीणि पात्राणि यत्र
+> व्रियंते संभज्यंते तद्यज्ञसाधनं गृहं । यंसन् । प्रयच्छंतु ॥ यच्छतेर्लॆटि
+> सिष्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+Sarasvān, so named, is endowed with धीभिः (*dhībhiḥ*), intelligences. Varuṇa is the upholder of vows (धृतव्रतः (*dhṛtavrataḥ*)), the bearer of rites. Then come Pūṣan, Viṣṇu who is endowed with greatness (महिमा (*mahimā*)), Vāyu, and the two Aśvins. These are ब्रह्मकृतः (*brahmakṛtaḥ*), doers of rites, givers of food to the praisers. **NOTE** They are विश्ववेदसः (*viśvavedasaḥ*), possessors of all wealth, or of pervasive knowledge. They are destroyers of the enemies that take the form of sin (अंहसः (*aṃhasaḥ*)), and they are immortal. May these gods give us त्रिवरूथं (*trivarūthaṃ*), which Sāyaṇa glosses as threefold-pillared and as three-chambered. शर्म (*śarma*) is the house. Or else त्रिवरूथं (*trivarūthaṃ*) is the house, the means of the sacrifice, where the three vessels called Droṇa, Adhavanīya and Pūtabhṛt are kept. यंसन् (*yaṃsan*) means "let them give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धीभिः (*dhībhiḥ*)—the one endowed with intelligence
+- सरस्वान् (*sarasvān*)—Sarasvān
+- धृतव्रतः (*dhṛtavrataḥ*)—the vow-bearing
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- पूषा (*pūṣā*)—the god Pūṣan
+- महिमा (*mahimā*)—the one endowed with greatness
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- वायुः (*vāyuḥ*)—Vāyu
+- अश्विना (*aśvinā*)—the Aśvin gods
+- ब्रह्मकृतः (*brahmakṛtaḥ*)—givers of food
+- विश्ववेदसः (*viśvavedasaḥ*)—the all-knowing
+- अंहसः (*aṃhasaḥ*)—destroyers of sin
+- अमृताः (*amṛtāḥ*)—all the gods, free from death
+- नः (*naḥ*)—to us
+- त्रिवरूथं (*trivarūthaṃ*)—furnished with three kinds of supporting pillars (protections)
+- शर्म (*śarma*)—the house (or the sacrificial house having the three vessels such as the Droṇa-kalaśa)
+- यंसन् (*yaṃsan*)—may they graciously give
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, Sarasvān endowed with intelligence, Varuṇa the vow-bearer, Pūṣan, Viṣṇu endowed with greatness, Vāyu, the Aśvins, who give food, are all-knowing, destroy sin and are free from death, bestow on us a house furnished with threefold protections.
+
+##### English translation
+May Saraswat, (endowed) with intelligences, Varuna the observer of oblations, Pushan, Vishnu, the mighty Vayu, the Ashwins (may these) the bestowers of food upon worshippers, immortal, the possessors of all wealth, grant us a habitation triply-guarded from evil.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ य॒ज्ञो वृष॑णः संतु य॒ज्ञिया॒ वृष॑णो दे॒वा वृष॑णो  ॒॑
+> हवि॒ष्कृतः॑ ।  
+> वृष॑णा॒ द्यावा॑पृथि॒वी ऋ॒ताव॑री॒ वृषा॑ प॒र्जन्यो॒ वृष॑णो वृष॒स्तुभः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । यज्ञः । वृषणः । संतु । यज्ञियाः । वृषणः । देवाः । वृषणः । हविःकृतः ।
+
 ---
 
-**Progress note:** Done through printed p. 535. pp. 530-535 (batch API)
+**Progress note:** Done through printed p. 541. pp. 536-541 (batch API)
