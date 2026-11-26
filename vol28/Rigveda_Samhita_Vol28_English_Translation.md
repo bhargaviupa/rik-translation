@@ -13219,6 +13219,132 @@ This matter is also treated in the Taittirīya Saṃhitā of the Kṛṣṇa Yaj
 
 In former times Manu divided his property among his sons. At that time his youngest son, Nābhānediṣṭa, was not with his father; he was with his teacher, observing the vow of brahmacarya and studying the Veda. So, whether because he was not remembered, or at the prompting of his elder brothers, or for some other reason, Manu divided and distributed all the property among the sons other than Nābhānediṣṭa. After some time Nābhānediṣṭa, who was in the teacher's house, finished his studies and came to his father. Seeing that all the property had gone to his elder brothers and that he had nothing, he asked his father: "Father, why did you not give me a share in the property?" Manu answered: "Son, I have not left you without a share in the property. I shall tell you what you have; listen. The ṛṣis called Aṅgirases, desiring to go to heaven, are now performing a sattra. But they do not know which mantra is to be recited for the attainment of heaven, or what is the means of reaching heaven, and are in perplexity
 
+### Printed p. 404
+Continuing the narrative (Manu to his son): "You go to the sacrificial ground where they are performing the sacrifice and make this mantra (the 61st and 62nd sūktas of the 10th Maṇḍala of the Ṛ. Saṃ.) known to them. Thereby they will complete the sacrifice in full, and will give you the animals left over from those gathered for the sacrifice. That is your share." So Nābhānediṣṭha went to the Aṅgirases and taught the mantra his father had told him. They were pleased, completed the sacrifice, and at the time of going to heaven gave Nābhānediṣṭha all the cows left over as the remainder of the sacrifice. While he was taking those animals, Rudra, who was moving about there on the sacrificial ground, came and stopped him: "O Nābhānediṣṭha, these animals are mine; you must not take them." Hearing this, Nābhānediṣṭha said: "O Rudra, the Aṅgirases have given these animals; therefore they must belong to me." Rudra replied: "The Aṅgirases are not the owners of the animals left over at the close of the sacrifice. They have no authority over them, and therefore no authority to give them to others. The ownership of them belongs to me." And he added: "O Nābhānediṣṭha, if you want these cows, worship me in the sacrifice, that is, offer the manthi-saṃsrāva oblation to me. Then I shall be pleased and shall consent to your taking the animals." Hearing this, Nābhānediṣṭha offered the manthi-saṃsrāva oblation and obtained the cows. Therefore, if a wise man offers the manthi-saṃsrāva oblation to Rudra, Rudra puts no obstacle in his way in the matter of obtaining animals.
+
+The account in the Aitareya Brāhmaṇa differs a little in its last part; in the main points there is no difference. The Taittirīya Brāhmaṇa describes as follows the Aṅgirases' performance of the sattra mentioned in this account:
+
+अंगिरसो वै सत्रमासत । तेषां पृश्नि र्घर्मधुगासीत् । सर्जिषेणाजीवत् । तेऽब्रुवन् । कस्यै नु सत्रमास्महे । येऽस्या ओषधीर्न जनयाम इति । ते दिवो वृष्टिमसृजंत । यावंतस्तोका अवापद्यंत । तावतीरोषधयोऽजायंत । ता जाताः पितरो विषेणालिंपन् । तासां जग्ध्वा रुष्यंत्यैत् । तेऽब्रुवन् । क इदमित्तमकरिति । वयं भागधेयमिच्छमाना इति पितरोऽब्रुवन् । किं वो भागधेयमिति । अग्निहोत्र एव नोऽप्यस्तित्यब्रुवन् । तेभ्य एतद्भागधेयं प्रायच्छन् । यद्दुत्वा निमार्ष्टि । ततो वै त ओषधीरसद्वयन् । य एवं वेद । स्वदंतेऽस्मा ओषधयः । ते वत्समुपावासृजन् । इदं नो हव्यं प्रदापयेति । सोऽब्रवीद्वरं वृणै । दश मा रात्रीर्जातं न दोहन् । आसंगवं मात्रा सह चराणीति । तस्माद्वत्सं जातं दश रात्रीर्न दुहंति । आसंगवं मात्रा सह चरति । वारे- (*aṃgiraso vai satramāsata | teṣāṃ pṛśni rgharmadhugāsīt | sarjiṣeṇājīvat | te 'bruvan | kasyai nu satramāsmahe | ye 'syā oṣadhīrna janayāma iti | te divo vṛṣṭimasṛjaṃta | yāvaṃtastokā avāpadyaṃta | tāvatīroṣadhayo 'jāyaṃta | tā jātāḥ pitaro viṣeṇāliṃpan | tāsāṃ jagdhvā ruṣyaṃtyait | te 'bruvan | ka idamittamakariti | vayaṃ bhāgadheyamicchamānā iti pitaro 'bruvan | kiṃ vo bhāgadheyamiti | agnihotra eva no 'pyastityabruvan | tebhya etadbhāgadheyaṃ prāyacchan | yaddutvā nimārṣṭi | tato vai ta oṣadhīrasadvayan | ya evaṃ veda | svadaṃte 'smā oṣadhayaḥ | te vatsamupāvāsṛjan | idaṃ no havyaṃ pradāpayeti | so 'bravīdvaraṃ vṛṇai | daśa mā rātrīrjātaṃ na dohan | āsaṃgavaṃ mātrā saha carāṇīti | tasmādvatsaṃ jātaṃ daśa rātrīrna duhaṃti | āsaṃgavaṃ mātrā saha carati | vāre-*)
+
+### Printed p. 405
+वृतग् ह्यस्य । तस्माद्वत्सग्ं सग्‌ंसृष्टधयग्ं रुद्रो घातुकः । अति हि संधां धयति ॥ (*vṛtag hyasya | tasmādvatsagṃ sagṃsṛṣṭadhayagṃ rudro ghātukaḥ | ati hi saṃdhāṃ dhayati ‖*) (Tai. Brā. 2-1-1-1, 2, 3)
+
+To explain the Agnihotra, the matter of the sattra performed by the Aṅgiras sages is introduced as a preface. When the Aṅgirases performed the sattra, a white cow named Pṛśni (renowned as the mother of the Marut deities; we have explained this at length earlier) was being milked for the Pravargya. At that time, because of drought, there was a want of grass, the food of cows; so the cow Pṛśni had to live on the husks of Soma plants from which the juice, called ṛjīṣa, had been pressed. Seeing Pṛśni in this distress for food, the Aṅgiras sages said among themselves: "For what purpose are we performing the sattra? This cow suffers for want of grass and the like; what is to be done? We must make green grass and other plants and herbs grow abundantly. For this we must bring rain from the sky." So they reflected and produced rain. As many drops as fell on the earth from that rain, so many plants and herbs came into being. Then the Pitṛ deities, wishing to have a share in the Agnihotra for themselves, and to obtain it, smeared the plants produced by the rain with poison and made them bitter. Eating the bitter grass, Pṛśni fell into a swoon. Seeing this, the Aṅgirases asked: "Who made this grass bitter?" The Pitṛs answered: "Wishing a share in the oblation, we ourselves made it bitter for that purpose." Asked again, "What is your share? What do you want?", they said: "Let us too have a share in the Agnihotra." The Aṅgirases said "So be it" and gave the Pitṛs a share (the oblation "svadhā to the Pitṛs"); the Pitṛs then removed the bitterness from the grass and made it sweet and tasty. For the man who knows this, grass, creepers and the like are always sweet (tasty).
+
+Afterwards the Aṅgirases brought the calf to the cow in order to milk her and said: "O calf, milk is needed for preparing the oblation in the sacrifice; give it to us." The calf replied: "If you want milk, you must grant me a boon: after a calf is born, the cow must not be milked for ten nights (ten days); and even after the ten days, whenever she is milked, I must, every day, drink milk along with my mother for half a prahara and move about happily." The sages agreed, "So be it," and granted the boon. Therefore even now, when a cow is milked for the sacrifice,
+
+### Printed p. 406
+a cow that has newly calved is not milked for ten days, and the calf stays by its mother drinking the milk. If, contrary to this, anyone milks for the oblation before ten days have passed, or after the ten nights milks out all the milk in the udder and leaves none for the calf, Rudra himself punishes such a man and destroys his sacrifice. Such is the explanation of this account.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाकेऽष्टौ सूक्तानि । तत्रेदमित्थेति सप्तविंशत्यचं प्रथमं
+> सूक्तं मानवस्य नाभानेदिष्टस्यार्षं त्रिष्टुभं।इदमादीनि षट् सूक्तानि वैश्वदेवानि।
+> तथा चानुक्रांतं । इदमित्था सप्ताधिका नाभानेदिष्टो मानवो वैश्वदेवं तदिति ॥
+> पृष्ठस्यषष्ठेऽहनि वैश्वदेवशस्त्र अभिप्लविकातिदेशप्राप्तस्योषासानक्केत्यस्य स्थान इदं
+> सूक्तं सूत्रितं च। उद्धृत्य चोत्तमं सूक्तं त्रीणेदमित्था रौद्रमिति। आ.८-१। इति॥
+> अत्रैतरेयब्राह्मणं । नाभानेदिष्टं वै मानवं ब्रह्मचर्यं वसंतं भ्रातरो निरभजंत्सोऽब्रवीदेत्य किं मह्यमभाक्तेत्येतमेव निष्कामवनवदितारमित्यब्रुवन्नित्यादि।
+> ऐ. ब्रा. ५-१४ ॥ तत्र नाभानेदिष्टो भ्रातृभिर्भागे निराकृतः पितृसामीप्यमागत्य किं
+> मह्यं भागं न कल्पितवानसीत्यपृच्छत् । स च किमनेन भागेन । अंगिरसः स्वर्गार्थं
+> सत्त्रमासीनाः षष्ठाहःपर्यंतमनुष्ठाय मुह्यंति । तानिदमित्थेति सूक्ते शंसय ते
+> स्वर्गं यंतो वसिष्ठा गाः सहस्रसंख्याकान्दास्यंतीति पित्रा प्रेरितोऽंगिरसां समीपमागत्य तेभ्यः सत्प्रपरिवेषणं गोसहस्रमुत्कोचं परिकल्प्य तानेते सूक्ते षष्ठेऽहन्यशंसयत् । ते च तत्तूक्तसामर्थ्याद्यज्ञं पारं प्रापय्य स्वर्जिगमिषवोऽस्मै
+> गोसहस्रं प्रादुः । शं च तद्योसहस्रं स्वीकुर्वाणं कश्चन कृष्णशवासी पुरुष
+> उत्तरत उत्थाय ब्राह्मण मदीयं यज्ञशेषभागं मा स्वीकुर्वित्यब्रवीत् । स च
+> मह्यमंगिरसः प्राद्दुरिति प्रत्यब्रवीत् । तर्हि ब्राह्मण तव पितरमेव पृच्छ कस्यॆ भागः
+> प्राप्पुयादित्युक्तः पितृसमीपनागत्य पित्रा रुद्रायायं न्याय्य इति तेनोक्तस्तवैवायं भाग इति मम पिताब्रवीदिति प्रत्युवाच । ततो यथार्थकथनेन तुष्टः
+> पुरुषो नाभानेदिष्टायैव स्वं भागं प्रादादित्युक्तं॥ तथाध्वर्युब्राह्मणेऽपि मनुः
+> पुत्रेभ्यो दायं व्यभजत् स नाभानेदिष्टं । तै. सं. ३-१-९-४ । इत्यादिनायमर्थ
+> उक्तः । तत्सर्वमत्रानुसंधेयं ॥
+
+##### Gist of the bhāṣya
+
+In the fifth anuvāka there are eight sūktas. Of these the first, इदमित्था (*idamitthā*), has twenty-seven ṛks; its seer is Nābhānediṣṭha, son of Manu, and its metre is Triṣṭubh. The six sūktas beginning with this are addressed to the Viśvedevas, as the Anukramaṇī says: इदमित्था सप्ताधिका नाभानेदिष्टो मानवो वैश्वदेवं तदिति (*idamitthā saptādhikā nābhānediṣṭo mānavo vaiśvadevaṃ taditi*). Use: on the sixth day of the Pṛṣṭhya rite, in the Vaiśvadeva śastra, this sūkta is recited in place of उषासानक्ता (*uṣāsānaktā*), which would come by extension from the Abhiplava; it is also prescribed by the sūtra: उद्धृत्य चोत्तमं सूक्तं त्रीणेदमित्था रौद्रमिति (*uddhṛtya cottamaṃ sūktaṃ trīṇedamitthā raudramiti*) (Ā. Sū. 8-1). The Aitareya Brāhmaṇa (5-14) begins: नाभानेदिष्टं वै मानवं ब्रह्मचर्यं वसंतं भ्रातरो निरभजंत्सोऽब्रवीदेत्य किं मह्यमभाक्तेत्येतमेव निष्कामवनवदितारमित्यब्रुवन्न (*nābhānediṣṭaṃ vai mānavaṃ brahmacaryaṃ vasaṃtaṃ bhrātaro nirabhajaṃtso 'bravīdetya kiṃ mahyamabhāktetyetameva niṣkāmavanavaditāramityabruvanna*) and so on. According to it, Nābhānediṣṭha, rejected by his brothers in the partition, came to his father and asked why no share had been fixed for him. The father said: what need of that share? The Aṅgirases, seated at a sattra for heaven, grow bewildered when they reach the sixth day; have them recite these two sūktas beginning इदमित्था (*idamitthā*); going to heaven they will give a thousand cows. Sent by his father, he went to the Aṅgirases, had them prepare a thousand cows, and made them recite the two sūktas on the sixth day. By the power of that recitation they carried the sacrifice to its end and, wishing to go to heaven, gave him the thousand cows. As he took them, a man in dark garments rose from the north and said: "Brahmin, do not take my share of the sacrificial remainder." He answered that the Aṅgirases had given it to him. The man said: ask your father to whom the share falls. Having gone to his father, he was told that it rightly belongs to Rudra, and so reported to the man that his father said it was his. Pleased at the truthful speech, the man gave the share to Nābhānediṣṭha himself. In the Adhvaryu Brāhmaṇa also, मनुः पुत्रेभ्यो दायं व्यभजत् स नाभानेदिष्टं (*manuḥ putrebhyo dāyaṃ vyabhajat sa nābhānediṣṭaṃ*) (Tai. Saṃ. 3-1-9-4), this matter is stated. All that is to be borne in mind here.
+
+##### Anuvāda (Kannada)
+
+In the fifth anuvāka of the tenth Maṇḍala there are eight sūktas; of them this sūkta इदमित्था (*idamitthā*) is the first, with twenty-seven ṛks. Its seer is Nābhānediṣṭha, son of Manu; the metre is Triṣṭubh. The six sūktas from this one onward are addressed to the Viśvedevas. The Anukramaṇī says: *idamitthā saptādhikā nābhānediṣṭo
+
+### Printed p. 407
+mānavo vaiśvadevaṃ tat*. The Āśvalāyana Śrauta Sūtra (8-1), उद्धृत्य चोत्तमं सूक्तं त्रीणेदमित्था रौद्रमिति (*uddhṛtya cottamaṃ sūktaṃ trīṇedamitthā raudramiti*), explains that on the sixth day of the Pṛṣṭha rite, in the Vaiśvadeva śastra mantra, this sūkta is to be recited in place of the Abhiplava-related sūkta उषासानक्ता (*uṣāsānaktā*). Regarding this sūkta the Aitareya Brāhmaṇa says: नाभानेदिष्टं वै मानवं ब्रह्मचर्यं वसंतं भ्रातरो निरभजन्सोऽब्रवीदेत्य किं मह्यमभाक्तेत्यतमेव निष्ठावनववदितारमित्यब्रुवन् (*nābhānediṣṭaṃ vai mānavaṃ brahmacaryaṃ vasaṃtaṃ bhrātaro nirabhajanso 'bravīdetya kiṃ mahyamabhāktetyatameva niṣṭhāvanavavaditāramityabruvan*) (Ai. Brā. 5-14), and so on. The commentator has stated that same matter briefly here. Manu had a son named Nābhānediṣṭha, who was studying the Veda in his teacher's house as a celibate student. Meanwhile his elder brothers divided the property of their father Manu and shared it among themselves. When Nābhānediṣṭha returned after finishing his Vedic study and saw that his brothers had shared out even his portion, he asked them where his share was; they said, "Ask your father." He asked his father, who said: "O son, if your brothers have taken all the property, let them take it; do not worry. The Aṅgiras sages are now performing a sattra. They have performed it up to the sixth day and, not knowing what to do on that day, are in doubt. Go there and recite this sūkta इदमित्था (*idamitthā*). Their sacrifice will proceed, and they will give you a thousand cows and go to heaven." As his father said, Nābhānediṣṭha went to the Aṅgirases and recited this sūkta at their sacrifice. Their sacrifice was thereby completed and they gave him a thousand cows. As he was returning with those cows, a man in soiled garments met him on the way and said: "O Nābhānediṣṭha, these thousand cows you are now taking, the remainder of the sacrifice, are mine." Nābhānediṣṭha said, "How so? The Aṅgirases themselves gave me these cows in the sacrifice." The man said, "Then ask your father about this." So Nābhānediṣṭha came to his father, told what had happened, and asked to whom the cows should belong. His father Manu said: "O son, as that man said, it is right that these cows belong to that man, who is Rudra." Hearing this, Nābhānediṣṭha went to the man and said: "As you said, these cows must belong to you; my father has said so. You may take them." Pleased at hearing Nābhānediṣṭha speak the truth, the man gave those thousand cows back to Nābhānediṣṭha. This is the main purport of the account. In the Taittirīya Saṃhitā too, by sentences such as मनुः पुत्रेभ्यो दायं व्यभजत्सनाभानेदिष्टं (*manuḥ putrebhyo dāyaṃ vyabhajatsanābhānediṣṭaṃ*) (Tai. Saṃ. 3-1-9-4), this matter is set out; one may see it there.
+
+### Printed p. 408
+Maṇḍala 10; Anuvāka 5; Sūkta 61. Aṣṭaka 8; Adhyāya 1; Vargas 26, 27, 28, 29, 30. Number of ṛks in the sūkta: 27. Seer: Nābhānediṣṭha, son of Manu. Deity: the Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दमि॒त्था रौद्रं॑ गू॒र्तव॑चा॒ ब्रह्म॒ क्रत्वा॒ शच्या॑मं॒तरा॒ज् ।  
+> क्रा॒णा यद॑स्य पि॒तरा॑ मंहने॒ष्ठाः पर्ष॑त्प॒क्षे अह॒न्ना स॒प्त  ॑
+> होत्यन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । इत्था । रौद्रं । गूर्तवचाः । ब्रह्म । क्रत्वा । शच्यां । अंतः । आजौ ।  
+> क्राणा । यत् । अस्य । पितरा । मंहनेऽस्थाः । पर्षत् । पक्षे । अहन् । आ । सप्त ।  
+> होत्र्यान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गूर्तवचा उद्यतवचनो नाभानेदिष्ट इदं ब्रह्म स्तोत्रं रौद्रं रुद्रप्रणीतमिथ्येत्थमिदानींक्रियमाणप्रकारं क्रत्वा प्रज्ञानेन निष्पाद्यं स्तोत्रं
+> शच्यामंतः कर्मणि सत्रमध्य आजावंगिरसां संघे करोतीति शेषः । यत्सोत्रं
+> क्राणा भागं कुर्वाणा भागं कुर्वाणावस्य पितरा पितरावन्ये च मंहनेष्ठा भागप्रदाने वर्तमाना भ्रातरश्च गोलाभसाधनत्वेनाकल्पयन्निति शेषः । तेन नाभानेदिष्टः पक्षे पक्तव्येऽहन्नहनि । षष्ठेऽहनीत्यर्थः । ते षष्ठं षष्ठमेवाहरागत्य
+> मुह्यंति तानेते सूक्ते षष्ठेऽहनि शंसय । ऐ.ब्रा. ५-१४ । इत्युक्तत्वात् । सप्त
+> होतृन् होतृप्रशास्त्रब्राह्मणाच्छंस्यादिकाना पर्षत् । सर्वतोऽपूरयत् ।
+> इदमिथ्येति सूक्ताभ्यां यज्ञपारं प्रापयामासेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Nābhānediṣṭha, of uplifted speech, गूर्तवचा (*gūrtavacā*), makes this hymn, ब्रह्म (*brahma*) = stotra, Rudra's, रौद्रं (*raudraṃ*) = composed by Rudra, in the manner now being done, इत्था (*itthā*); "makes" is to be supplied. Having fashioned it by his insight, क्रत्वा (*kratvā*) = प्रज्ञानेन (*prajñānena*), he makes it in the rite, शच्यामंतः (*śacyāmaṃtaḥ*), in the midst of the sattra, आजौ (*ājau*), in the assembly of the Aṅgirases. The hymn which his parents, क्राणा (*krāṇā*) = making the share, and the brothers, मंहनेष्ठा (*maṃhaneṣṭhā*) = engaged in giving the share, made the means of obtaining cows (the verb "made" is to be supplied). By it Nābhānediṣṭha, on the day to be matured, पक्षे अहन् (*pakṣe ahan*), that is the sixth day, since the Brāhmaṇa says (Ai. Brā. 5-14): "They are bewildered when they reach the sixth day; have them recite these two sūktas on the sixth day." सप्त होतृन् (*sapta hotṛn*): the seven priests, Hotṛ, Praśāstṛ, Brāhmaṇācchaṃsin and the rest, he पर्षत् (*parṣat*) filled on every side; that is, by the two sūktas इदं (*idaṃ*) and इत्था (*itthā*) he brought the sacrifice to its end.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्राणा (*krāṇā*)—those engaged in making the partition
+- अस्य पितरा (*asya pitarā*)—Nābhānediṣṭha's parents
+- मंहनेष्ठाः (*maṃhaneṣṭhāḥ*)—his brothers, engaged in giving the shares
+- यत् (*yat*)—which hymn they made the means of obtaining cows;
+
+### Printed p. 409
+- रौद्रं (*raudraṃ*)—praising Rudra
+- इदं ब्रह्म (*idaṃ brahma*)—this hymn
+- गूर्तवचाः (*gūrtavacāḥ*)—Nābhānediṣṭha of uplifted voice
+- इत्था (*itthā*)—as will be told below
+- क्रत्वा (*kratvā*)—by the power of his insight
+- शच्यां अंतः (*śacyāṃ aṃtaḥ*)—in the middle of the rite
+- आजौ (*ājau*)—among the Aṅgirases he fashioned it
+- पक्ष्ये अहन् (*pakṣye ahan*)—(with the help of this mantra) on the sixth day, when the rite reaches completion
+- सप्त होत्यन् (*sapta hotyan*)—the seven priests, Hotṛ and the rest
+- आ पर्षत् (*ā parṣat*)—he made ready so that the sacrifice became complete
+
+##### भावार्थ (Bhāvārtha)
+
+Nābhānediṣṭha's parents, engaged in making the partition, and his brothers, engaged in giving the shares, made a certain hymn the means of obtaining cows. This hymn in praise of Rudra, Nābhānediṣṭha of uplifted voice, as will be told below, fashioned by the power of his insight in the midst of the rite among the Aṅgirases. With the help of this mantra, on the sixth day, when the rite reaches completion, he prepared the sacrifice to be made complete by the seven priests, Hotṛ and the rest.
+
+##### English translation
+The fierce-voiced (Nabhanedishtha repeated) through his intelligence this praise of Rudra, in the midst of the ceremony at the assembly (of the Angirasas), which (praise)his parents, making (the partition)and his brothers engaged in giving (the shares accomplished); he perfected the seven priests (therewith) on the day on which the rite was to be matured.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इद्दा॒नाय॒ दभ्या॑य व॒न्वञ्च्या॑नः॒ सूदै॑रमिमीत॒ वेदिं॑ ।  
+> तूर्व॑याणो गू॒र्तव॑चस्तमः॒ क्षोदो॒ न रेत॑ इ॒तऊ॑ति  
+> सिंचत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स । इत् । दानाय । दभ्याय । वन्वन् । च्यवानः । सूदैः । अमिमीत । वेदिं ।  
+> तूर्वयाणः । गूर्तवचःतमः । क्षोदः । न । रेतः । इतःऊति । सिंचत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत् स कृष्णशवासी पुरुषो रुद्राख्यो दानाय स्तोत्यणां धनप्रदानाय दभ्याय शत्रूणां वधाय च वन्सन् स्तोत्यन्संभजन् सूदैः सूदकैर्हिंसकैः
+> 52
+
+##### Gist of the bhāṣya
+
+स इत् (*sa it*): that man in dark garments, called Rudra, दानाय (*dānāya*) for giving wealth to those who praise him, and दभ्याय (*dabhyāya*) for the slaying of enemies, वन्सन् (*vansan*) favouring the praisers, सूदैः (*sūdaiḥ*) with the cooks, the destroyers (the sentence is cut off here).
+
 ---
 
-**Progress note:** Done through printed p. 403. pp. 398-403 (batch API)
+**Progress note:** Done through printed p. 409. pp. 404-409 (batch API)
