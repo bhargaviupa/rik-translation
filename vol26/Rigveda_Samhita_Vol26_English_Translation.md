@@ -24206,6 +24206,271 @@ Four ghee-milking cows serve this Soma. How are they? Seated in the one supporte
 
 The four cows that milk ghee, seated in the atmosphere, the one supporter of the whole world, serve this Soma. Having attained purity, they approach this Soma with food. Numerous, they stand surrounding on all sides.
 
+### Printed p. 638
+
+##### English translation
+The four yielders of butter wait upon him, stationed in a common
+asylum; being purified they approach him with food, they surround him in
+numbers on every side.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒ष्टं॒भो दि॒वो ध॒रुणः॑ पृथि॒व्या विश्वा॑ उ॒त क्षि॒तयो॒ हस्ते॑ अस्य ।  
+> अस॑त्त॒ उत्सो॑ गृण॒ते नि॒युत्वा॒न्मध्वो॑ अं॒शुः प॑वत इंद्रि॒याय॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विष्टंभः । दिवः । धरुणः । पृथिव्याः । विश्वाः । उत । क्षितयः । हस्ते । अस्य ।  
+> असत् । ते । उत्सः । गृणते । नियुत्वान् । मध्वः । अंशुः । पवते । इंद्रियाय ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः दिवः द्युलोकस्य विष्टंभभूतः । यथा गृहस्थ स्तंभस्तद्वत्। तथा पृथिव्याः धरुणः धारकः । उत अपि च विश्वाः सर्वाः क्षितयः प्रजाः अस्य सोमस्य हस्ते भवंति । उत्सः । उत्सरंत्यस्मात् कामा इत्युत्सः सोमः। सः गृणते स्तुवते ते तुभ्यं नियुत्वान् अश्ववान् असत् भवतु । स सोमः मध्वः मधु । कर्मणि षष्ठी । मधुररसः अंशुः सोमः । ‘ अंशुः शमष्टमात्रो भवति' (निरु. २. ५) इति यास्कः । इंद्रियाय पवते पूयते अभिषूयते ॥
+
+##### Gist of the bhāṣya
+
+This Soma is the prop of heaven, the world of Dyu: as a pillar is to a house, so he is the supporter of the earth. Also all beings, the subjects, are in the hand of this Soma. Utsa: that from which desires gush forth, so Soma is Utsa. May he, possessed of horses, be so for you who praise. That Soma is sweet (madhu; the genitive is in the sense of the object), the sweet-flavoured filament, Soma. Yāska says: अंशुः शमष्टमात्रो भवति (*aṃśuḥ śamaṣṭamātro bhavati*) (Ni. 2. 5) **GLOSS** He is pressed, purified, for strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—to the world of heaven, this Soma
+- विष्टंभः (*viṣṭaṃbhaḥ*)—is the support
+- पृथिव्याः (*pṛthivyāḥ*)—to the earth
+- धरुणः (*dharuṇaḥ*)—the upholder
+- अस्य हस्ते (*asya haste*)—in the power of this Soma-deva
+- विश्वाः क्षितयः (*viśvāḥ kṣitayaḥ*)—all beings are
+- उत्सः (*utsaḥ*)—Soma, the showerer of desires
+- गृणते (*gṛṇate*)—who praise
+- ते (*te*)—to you, to give
+- नियुत्वान् (*niyutvān*)—possessed of horses
+- असत् (*asat*)—let him be
+- मध्वः (*madhvaḥ*)—of sweet juice
+- अंशुः (*aṃśuḥ*)—Soma
+- इंद्रियाय (*iṃdriyāya*)—for increase of strength
+- पवते (*pavate*)—is pressed
+
+### Printed p. 639
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva is the support of the world of heaven and the upholder of the earth. All beings are in the power of this Soma-deva. May Soma, the showerer of desires, be possessed of horses in order to give to you who praise. Soma of the sweet juice is pressed for increase of strength.
+
+##### English translation
+The prop of heaven, the support of earth—all beeings (are) in his hands may (Soma) the fountain (of desires) be possessed of horses for you (his) adorer ; the filament of the sweet-flavoured (Soma) is purified for (the sake of winning) strength. **NOTE**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒न्वन्नवा॑तो अ॒भि दे॒ववी॑ति॒मिंद्रा॑य सोम वृत्र॒हा प॑वस्व ।  
+> श॒ग्धि म॒हः पु॑रुश्चं॒द्रस्य॑ रा॒यः सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वन्वन् । अवातः । अभि । देवऽवीतिम् । इंद्राय । सोम । वृत्रऽहा । पवस्व ।  
+> शग्धि । महः । पुरुऽचंद्रस्य । रायः । सुऽवीर्यस्य । पतयः । स्याम ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वन्वन्नवातः शत्रुभिरनभिभूतः देववीतिं यज्ञमभिगच्छ। शत्रुहंता रसन् इंद्राय पवस्व । बहुभिः स्पृहणीयं धनं देहि । वयं च सुवीर्यस्य पतयः स्याम।
+
+##### Gist of the bhāṣya
+
+O Soma, unconquered by enemies, go to the sacrifice (the banquet of the gods). Slayer of enemies, flow for Indra. **NOTE** Give wealth that is desired by many. And may we be lords of excellent heroic power.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वन्वन् (*vanvan*)—O Soma-deva, conquering enemies
+- अवातः (*avātaḥ*)—not conquered by others
+- देवनीतिं अभि (*devanītiṃ abhi*)—come graciously to the sacrifice **NOTE**
+- सोम (*soma*)—O Soma
+- वृत्रहा (*vṛtrahā*)—you, the destroyer of enemies
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- पवस्व (*pavasva*)—flow
+- शग्नि (*śagni*)—give us wealth **NOTE**
+
+### Printed p. 640
+
+- महः (*mahaḥ*)—great
+- पुरुश्चंद्रस्य (*puruścaṃdrasya*)—desired by many
+- सुवीर्यस्य (*suvīryasya*)—having excellent heroic sons
+- रायः (*rāyaḥ*)—of wealth
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, conquering enemies and not conquered by others, come graciously to the sacrifice. You, the destroyer of enemies, flow for the sake of Indra. Give us wealth. May we become lords of wealth that is great, desired by many, and possessed of excellent heroic sons.
+
+##### English translation
+Conquering (and) unconquered approach the banquet of the gods ;
+Soma, who are the the slayer of Vritra, flow for Indra ; grant us abundant
+and splendid riches, may we be masters of excellent male offspring.
+
+## Sūkta 90 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र हिन्वान इति षडृचं पंचमं सूक्तं मैत्रावरुणेर्वसिष्ठस्यार्षं त्रैष्टुभं
+> पवमानसोमदेवताकं ॥ तथा चानुक्रांतं । प्र हिन्वानः षड्वसिष्ठ इति ॥ गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र हिन्वान (*pra hinvāna*) has six Ṛks and is the fifth sūkta. It is the hymn of Vasiṣṭha, of Maitrāvaruṇa descent, in the Triṣṭubh metre, with Pavamāna Soma as deity. So it is recorded in the Anukramaṇī: प्र हिन्वानः षड्वसिष्ठ (*pra hinvānaḥ ṣaḍvasiṣṭha*). The viniyoga has been stated.
+
+Anuvāda— This sūkta beginning प्र हिन्वा नः (*pra hinvā naḥ*) is the fifth sūkta in the fifth anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Pavamāna Soma is the deity; Triṣṭup is the metre. In the Anukramaṇikā it is stated as प्र हिन्वानः षड्वसिष्ठः (*pra hinvānaḥ ṣaḍvasiṣṭhaḥ*). The viniyoga has been stated before.
+
+Sūkta 90. Maṇḍala 9, Anuvāka 5, Sūkta 90. Aṣṭaka 7, Adhyāya 3, Varga 26. Number of ṛks in the sūkta: 6. Seer: Vasiṣṭha. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र हि॑न्वा॒नो ज॑नि॒ता रोद॑स्यो॒ रथो॒ न वाजं॑ सन्नि॒ष्यन्न॑यासीत् ।
+
+### Printed p. 641
+
+> इंद्रं गच्छन्नायुधा संशिशानो विश्वा वसु हस्तयोरादधानः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । हिन्वानः । जनिता । रोदस्योः । रथः । न । वाजं । सनिष्यन् । अयासीत् ।  
+> इंद्रं । गच्छन् ! आयुधा । संशिशानः । विश्वा । वसु । हस्तयोः । आदधानः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिन्वानः प्रेयमाणोऽध्वर्यादिभिर्जुनितोत्पादयिता रोदस्योर्द्यावापृथिव्योः । तयोर्जनयितृत्वं वृष्टिप्रदानहविष्ट्रापणाभ्यां । तादृक्षोमो वाजमन्नं सनिष्यन्दास्यन् प्रायासीत् । प्रयच्छति । इंद्रं गच्छन्द्राप्नुवन्नायुधायुधानि संशिशानः सम्यक् तीक्ष्णीकुर्वन्निंद्रसाहाय्यगमनार्थं तीक्ष्णायुधः सन् विश्वा
+> सर्वाणि वसु वसूनि हस्तयोरादधानोऽस्मभ्यं दानाय। एवं कुर्वन् प्रायासीत्॥
+
+##### Gist of the bhāṣya
+
+Soma, being urged by the Adhvaryu and the others, is the begetter, the producer, of the two worlds, heaven and earth; his begetting them is by the giving of rain and by conveying the offerings. Such a Soma, wishing to give vāja, food, advances, that is, gives. Going to Indra, reaching him, sharpening his weapons well, that is, becoming one of sharp weapons in order to go to Indra's help, holding all riches in his hands to give to us, so doing he advances.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोदस्योः (*rodasyoḥ*)—to heaven and earth
+- जनिता (*janitā*)—the producer
+- हिन्वानः (*hinvānaḥ*)—Soma, urged by the priests
+- इंद्रं (*iṃdraṃ*)—Indra
+- गच्छन् (*gacchan*)—approaching
+- आयुधा संशिशानः (*āyudhā saṃśiśānaḥ*)—having sharp weapons
+- हस्तयोः (*hastayoḥ*)—in the hands
+- विश्वा (*viśvā*)—all
+- वसु (*vasu*)—riches
+- आदधानः (*ādadhānaḥ*)—holding
+- वाजं (*vājaṃ*)—food
+- सनिष्यन् (*saniṣyan*)—with the wish to give to the sacrificers
+- रथः न (*rathaḥ na*)—like a chariot
+- प्रायासीत् (*prāyāsīt*)—advances
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, the producer of heaven and earth, urged by the priests, advances like a chariot, approaching Indra, sharpening his weapons, holding riches in his hands, and wishing to give food to the sacrificers.
+
+##### English translation
+Urged (by the priests) the generator of heaven and earth advances like
+a chariot, wishing to distribute food ; going to Indra, sharpening his weapons,
+holding all treasures in his hands.
+
+### Printed p. 642
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्रि॑पृ॒ष्ठं वृष॑णं वयो॒धामां॑गू॒षाणा॑मवावशंत॒  ॑
+> वाणीः ।  
+> वना॒ वसा॑नो॒ वरु॑णो॒ न सिंधू॒न्वि र॑त्न॒धा द॑यते॒ वार्या॑णि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्रिपृष्ठं । वृषणं । वयःधां । आंगूषाणां । अवावशंत । वाणीः ।  
+> वना । वसानः । वरुणः । न । सिंधून् । वि । रत्नधाः । दयते । वार्याणि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिपृष्ठं । त्रीणि पृष्टानि स्तोत्राणि द्रोणकलशादिस्थानानि वा सवनानि वा यस्य
+> स तथोक्तः । तं वृषणं वर्षकं वयोधामन्नस्य दातारं सोममांगूषाणामाघोषवतां स्तोत्यणां वाणीर्वाचोऽभ्यवावशंत । शब्दयंते । वना वनान्युदकानि
+> वसान आच्छादयन् वरुणो न वरुण इव सिंधूनाच्छादयति तद्वत् । रत्नधा रत्नानां
+> दाता सोमो वार्याणि धनानि दयते । प्रयच्छति स्तोतृभ्यः ॥
+
+##### Gist of the bhāṣya
+
+Tripṛṣṭha: he who has three pṛṣṭhas, that is, three stotras, or places such as the Droṇakalaśa, or three savanas. The voices of the praisers who make a loud sound resound around him, the showerer, the giver of food, Soma. Wearing the waters, covering them, as Varuṇa covers the rivers, so Soma, the giver of jewels, grants desirable riches to the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिपृष्ठं (*tripṛṣṭhaṃ*)—having three places such as the Droṇakalaśa
+- वृषणं (*vṛṣaṇaṃ*)—the giver of what is desired
+- वयोधां (*vayodhāṃ*)—the giver of food; Soma
+- आंगूषाणां (*āṃgūṣāṇāṃ*)—of the praisers
+- वाणीः (*vāṇīḥ*)—the voices
+- अभ्यवावशंत (*abhyavāvaśaṃta*)—surround and sound
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- सिंधून् न (*siṃdhūn na*)—as he wraps himself in the flowing waters
+- रत्नधाः (*ratnadhāḥ*)—Soma, the giver of wealth
+- वना (*vanā*)—the waters
+- वसानः (*vasānaḥ*)—having wrapped himself in
+- वार्याणि (*vāryāṇi*)—desirable riches
+- दयते (*dayate*)—gives
+
+##### भावार्थ (Bhāvārtha)
+
+The voices of the praisers surround and praise Soma, who is in three places such as the Droṇakalaśa, the giver of what is desired, and the giver of food. As the god Varuṇa joins himself to the flowing waters, so Soma, the giver of wealth, mixing himself with the waters, gives desirable riches.
+
+### Printed p. 643
+
+##### English translation
+The voices of the worshippers resound about him the triple-backed, the showerer (of benefits), the giver of food; arrayed in water as Varuna (is arrayed) in the rivers, the giver of precious wealth he bestows desirable riches.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शूर॑ग्रामः॒ सर्व॑वीरः॒ सहा॑वा॒इज्जेता॑ पवस्व॒ सनि॑ता॒ धना॑नि ।  
+> ति॒ग्मायु॑धः क्षि॒प्रध॑न्वा स॒मत्स्वषा॑ळ्हः सा॒ह्वान्पृत॑नासु॒  ॑
+> शत्रून् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शूरग्रामः । सर्ववीरः । सहावान् । जेता । पवस्व । सनिता । धनानि ।  
+> तिग्मयुधः । क्षिप्रधन्वा । समत्सु । अषाळ्हः । सह्वान् । पृतनासु । शत्रून् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवस्व त्वं । कीदृशस्त्वं । शूरग्रामः । शूराणां ग्रामः संघो
+> यस्य सः । सर्ववीरः । सर्वे वीरा यस्य स तथोक्तः । सहावान् सहनवान् जेता
+> जयशीलः सनिता संभक्ता धनानि तिग्मायुधस्तीक्ष्ण प्रहरणसाधनः क्षिप्रधन्वा क्षिप्रसहनशीलधन्वा समत्सु संग्रामेष्टषाळ्होऽसोढः साह्वानभिभवन् । कुत्र । पृतनासु
+> शत्रुसेनासु । कान् शत्र्यून् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow. What sort are you? Śūragrāma: he who has a village, that is, a host, of heroes. Sarvavīra: he who has all heroes. Sahāvān: enduring; jetā: victorious; sanitā: a distributor of riches; tigmāyudha: having sharp means of striking; kṣipradhanvā: whose bow is quick and enduring; in battles unconquered, overpowering. Where? In the pṛtanās, the enemy armies. Whom? The enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरग्रामः (*śūragrāmaḥ*)—O Soma-deva, the leader of the host of heroes
+- सर्व वीरः (*sarva vīraḥ*)—having all heroes
+- सहावान् (*sahāvān*)—having the power to withstand
+- जेता (*jetā*)—victorious
+- धनानि (*dhanāni*)—riches
+- सनिता (*sanitā*)—who distributes
+- तिग्मायुधः (*tigmāyudhaḥ*)—having sharp weapons
+- क्षिप्रधन्वा (*kṣipradhanvā*)—having a bow of swift discharge
+- समत्सु (*samatsu*)—in battles
+- आषाढः (*āṣāḍhaḥ*)—you who are unrepelled **NOTE**
+- पृतनासु (*pṛtanāsu*)—in battles
+- शत्रून् (*śatrūn*)—enemy armies
+- साह्वान् (*sāhvān*)—defeating
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are the leader of the host of heroes, have all heroes, have the power to withstand, are victorious, distribute riches, have sharp weapons, and with a swift
+
 ---
 
-**Progress note:** Done through printed p. 637. Sūkta 89 Ṛks 1-5 (to Bhāvārtha of Ṛk 5)
+**Progress note:** Done through printed p. 643. Sūkta 89 Ṛks 5-7, Sūkta 90 Ṛks 1-3 (to Bhāvārtha of Ṛk 3, cut off)
