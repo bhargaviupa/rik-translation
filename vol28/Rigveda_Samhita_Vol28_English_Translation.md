@@ -21502,6 +21502,219 @@ Because he is praised separately by all the men gathered at the sacrifice, the p
 नराशंसमिहैके तु अग्निमाहुरथेतरे । नराः शंसंति सर्वेऽस्मिन्नासीना इति नाध्वरे ॥ एतमेवाहुरन्येऽग्निं नराशंसोऽध्वरे ह्ययं । नर्मैः प्रशस्य आसीनैराहुश्चैवर्त्विजो नरः ॥ (*narāśaṃsamihaike tu agnimāhurathetare | narāḥ śaṃsaṃti sarve 'sminnāsīnā iti nādhvare ‖ etamevāhuranye 'gniṃ narāśaṃso 'dhvare hyayaṃ | narmaiḥ praśasya āsīnairāhuścaivartvijo naraḥ ‖*) (Bṛ. De. 3-2, 3)
 Some say Narāśaṃsa is Agni. Others say it is the sacrifice, because men gather at the sacrifice and praise. Because he is praised by the men gathered at the sacrifice, Narāśaṃsa means …
 
+### Printed p. 616
+Others hold that it is Agni; the third view is a reconciliation of the first and second views. Along with these two meanings Sāyaṇa has also given a third. In the bhāṣya on Ṛ. Saṃ. 1-89.9:
+
+नराशंसमेतन्नामकं देवविशेषं । यद्वा अवयवार्थव्युत्पत्ता सदसस्पतिदेवतापरोऽयं शब्दः । अत्र अग्निवत् सदसस्पतेरपि नरैः शस्यमानत्वात् नराशंसस्त्वं । एतमेवाभिप्रायं हृदि निभाय ब्राह्मणमेवमान्न्यायते प्रजा वै नरो वाक् शंसः ॥ (*narāśaṃsametannāmakaṃ devaviśeṣaṃ | yadvā avayavārthavyutpattā sadasaspatidevatāparo 'yaṃ śabdaḥ | atra agnivat sadasaspaterapi naraiḥ śasyamānatvāt narāśaṃsastvaṃ | etamevābhiprāyaṃ hṛdi nibhāya brāhmaṇamevamānnyāyate prajā vai naro vāk śaṃsaḥ ‖*)
+(Ai. Brā. 6-27)
+
+This is the explanation. Narāśaṃsa may be understood as a particular deity of this name, or as Sadasaspati. Because Sadasaspati too is praised by men, and because the sentence quoted from the Aitareya Brāhmaṇa suggests this idea, this meaning is possible too; thus the third meaning has been shown. But it may be said that this word is used of Agni throughout the Ṛksaṃhitā.
+
+नराशंसः प्रति धामान्यंजन् तिस्रो दिवः प्रति मह्ना स्वर्चिः । घृतपुषा मनसा हव्यमुंदन्मूर्धन्यज्ञस्य समनक्तु देवान् ॥ (*narāśaṃsaḥ prati dhāmānyaṃjan tisro divaḥ prati mahnā svarciḥ | ghṛtapuṣā manasā havyamuṃdanmūrdhanyajñasya samanaktu devān ‖*)
+(Ṛ. Saṃ. 2-3-2)
+
+In such Ṛks the word Narāśaṃsa is understood as Agni.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒श्व॒त्त॒ममी॑ळते दू॒त्या॑य ह॒विष्मं॑तो मनु॒ष्या॑सो अ॒ग्निं ।  
+> वहि॑ष्ठै॒रश्वैः॑ सु॒वृता॒ रथे॒ना दे॒वान्व॑क्षि॒ नि ष॑दे॒ह होता॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शश्वत्तमं । ईळते । दूत्याय । हविष्मंतः । मनुष्यासः । अग्निं ।  
+> वहिष्यैः । अश्वैः । सुवृता । रथेन । आ । देवान् । वक्षि । नि । सद । इह । होता ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शश्वत्तममत्यंतं नित्यमग्निं हविष्मंतः संभृतहविष्का मनुष्यासो मनुष्या
+> यजमाना दूत्याय ॥ दूतस्य भागकर्मणी इति यश्प्रत्ययाः ॥ दूतकर्मणे हविर्वहनलक्षणाय तन्निमित्तमीळते । स्तुवंति । स त्वमेवं स्तुतो वहिष्ठैर्वोढृतमैरश्चैः सुवृता सुवर्तनेन रथेन च सह देवानिंद्रादीना वक्षि । अस्मदीयं
+> यज्ञं प्रत्यावह । प्रापय । तस्त्वं होता भवन्नि हास्मिन्यज्ञे नि सद । निषेद ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: the sacrificers, men bearing oblations, praise Agni, who is शश्वत्तम (*śaśvattama*), that is, utterly eternal, for the office of messenger, namely carrying the oblation (to the gods); for that purpose they praise him. Praised thus, Agni is asked to bring Indra and the other gods to our sacrifice with his best draught horses and his well-rolling chariot, and, being the Hotṛ, to sit down here in this sacrifice.
+
+### Printed p. 617
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शश्वत्तमं (*śaśvattamaṃ*)—having an exceedingly eternal state
+- अग्निं (*agniṃ*)—Agni
+- हविष्मंतः (*haviṣmaṃtaḥ*)—those provided with oblations
+- मनुष्यासः (*manuṣyāsaḥ*)—the sacrificers
+- दूत्याय (*dūtyāya*)—to perform the office of messenger of the gods
+- ईळते (*īḷate*)—praise
+- *�vahiṣṭhaiḥ*—fit to draw the chariot
+- अश्वैः (*aśvaiḥ*)—with horses
+- सुवृता (*suvṛtā*)—of excellent movement
+- रथेन (*rathena*)—with the chariot
+- देवान् (*devān*)—the gods, Indra and the rest
+- आ वक्षि (*ā vakṣi*)—bring to our sacrifice
+- होता (*hotā*)—being in the form of the Hotṛ
+- इह (*iha*)—in this sacrifice
+- निषद (*niṣada*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, provided with oblations, praise Agni of eternal state, that he may discharge the office of messenger of the gods. O Agni, with a chariot drawn by horses fit to draw it and of excellent movement, bring Indra and the other gods to our sacrifice. Being in the form of the Hotṛ, sit down in this sacrifice.
+
+##### English translation
+Men offering oblations adore the eternal Agni to (induce him to perform) the duty of messenger (to the gods); do you with your stalwart draught horses and your well-turning chariots bear (our offering) to the gods, and sit down here as the ministrant priest.
+
+##### विशेषविषयगळु (Special Topics)
+
+ईळते (*īḷate*)—सर्वैः स्तुयते इळनामकः त्वं (*sarvaiḥ stuyate iḷanāmakaḥ tvaṃ*). It is explained as Agni, praised by all and well known by the name Iḍa. ईळ ईट्टेः स्तुतिकर्मणः (*īḷa īṭṭeḥ stutikarmaṇaḥ*); it may be derived either from the root īḍ meaning praise, or from the root ind meaning to blaze (Ni. 8-8). Having shown this derivation of the word, the Nirukta author quotes Ṛ. Saṃ. 10-110-3 and explains the right meaning of the word.
+
+First, like the word samidh, this word too seems to have had no separate designation as a deity, but to be used only as an epithet of Agni. Since the help and support of Agni had to be complete during the performance of the sacrifice, he was by nature worthy of praise. At the beginning Agni must be (1) kindled. Afterwards, (2) under the name Tanūnapāt or Narāśaṃsa, he must make the oblations of the sacrifice full of honey. Then he must bring the gods to the sacrifice. For this work he must needs be īḍya (praiseworthy). Therefore in this setting he is (3) īḍya (is entreated) by the sacrificers.
+
+### Printed p. 618
+In the Āprī hymns this word, derived from the root īḍ, is used of Agni in nine places in all: in eight as an epithet meaning "praised" or "worthy of praise", and in one as an epithet showing Agni's office of messenger. Only in the Ṛk seen by Viśvāmitra,
+
+प्रदीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै । अच्छा नमोभिर्वृषभं वंदध्यै स देवान्यक्षदिषितो यजीयान् ॥ (*pradīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai | acchā namobhirvṛṣabhaṃ vaṃdadhyai sa devānyakṣadiṣito yajīyān ‖*)
+(Ṛ. Saṃ. 3-4-3)
+
+does it mean food in the form of oblation; yet even so it is connected with Agni, the chief deity of that Ṛk. This meaning differs from the tradition of the Āprī hymn. In the Praiṣa hymn, however, it is only a synonym of Agni.
+
+होतायक्षदग्निमिड ईडितो देवो देवाग्ं आवक्षद्दूतो हव्यनाडमूरः । उपेमं यज्ञमुपेमां देवो देवहूतिमवतु नेत्वाज्यस्य होतर्यज ॥ (*hotāyakṣadagnimiḍa īḍito devo devāgṃ āvakṣaddūto havyanāḍamūraḥ | upemaṃ yajñamupemāṃ devo devahūtimavatu netvājyasya hotaryaja ‖*)
+(Tai. Brā. 3-6-2-1)
+
+On this sentence the commentator says इडेत्येतन्नामकमग्निं तृतीयप्रयाजदेवं (*iḍetyetannāmakamagniṃ tṛtīyaprayājadevaṃ*), taking it as a synonymous name of Agni. In the Aitareya Brāhmaṇa:
+
+इळो यजत्यन्नं ना इळोन्नमेव तत्प्रीणात्यन्नं यजमाने दधाति । (*iḷo yajatyannaṃ nā iḷonnameva tatprīṇātyannaṃ yajamāne dadhāti |*)
+(Ai. Brā. 2-4)
+
+Iḷa is said to be the food in the form of oblation to be offered in the sacrifice, and as the fruit of offering this food the sacrificer too gains food.
+
+As explained above, the connection that Yāska shows between this word and the root indh is not clearly understood. Here Yāska has not stated the view of Kātthakya. In the Bṛhaddevatā:
+
+इळस्तृषिकृतं रूपं ईडेशश्च स्तुतिकर्मणः । इळावांस्तेन वोक्तोग्निरिडिना वृद्धिकर्मणा ॥ (*iḷastṛṣikṛtaṃ rūpaṃ īḍeśaśca stutikarmaṇaḥ | iḷāvāṃstena voktogniriḍinā vṛddhikarmaṇā ‖*)
+(Bṛ. De. 3-4)
+
+By these words it is shown that this word is of seer-origin and a synonymous name of Agni, and that the word इळावान् (*iḷāvān*) is an epithet of Agni.
+
+गोमा अग्नेऽविमा अश्वी यज्ञो नृवत्सखा सदमिदप्रमृष्यः । इळावा एषो असुर प्रजावान्दीर्घो रयिः पृथुबुध्नः सभावान् ॥ (*gomā agne 'vimā aśvī yajño nṛvatsakhā sadamidapramṛṣyaḥ | iḷāvā eṣo asura prajāvāndīrgho rayiḥ pṛthubudhnaḥ sabhāvān ‖*)
+
+In this Ṛk the word इळावान् (*iḷāvān*) is an epithet of Agni, so the Bṛhaddevatā points to that.
+
+### Printed p. 619
+Although such differences of tradition appear in the explanations, it may be said on the whole that the word is a synonymous name of the deity Agni, who holds the third place in the hymn.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि प्र॑थतां दे॒वजु॑ष्टं तिर॒श्चा दी॒र्घं द्रा॒घ्मा सु॑र॒भि भू॑त्व॒स्मे ।  
+> अहे॑ळता॒ मन॑सा देव बर्हि॒रिंद्र॑ज्येष्ठा उश॒तो य॑क्षि दे॒वान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । प्रथतां । देवजुष्टं । तिरश्चा । दीर्घं । द्राघ्मा । सुरभि । भूतु । अस्मे इति ।  
+> अहेळता । मनसा । देव । बर्हिः । इंद्रज्येष्ठान् । उशतः । यक्षि । देवान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बर्हिर्नामकाग्ने देवजुष्टं देवैः सेवितं तिरश्चा तिरश्चीनं तिर्यगंचनमिदं बर्हिर्वि प्रथतां । विशेषेण विस्त्रतं भवतु । तथा दीर्घं चेदं द्राघ्मा
+> दाघिम्ना ॥ दीर्घशब्दस्यॆमनिचि प्रियस्थिरेत्यादिना द्राघिरादेशः । अकारस्यॆकारोवर्णव्यापत्ता । पश्चादल्लोपः ॥ द्राघिम्ना युक्तं भवतु । अस्मे अस्मदीयं बर्हिः सुरभि
+> सोमादिहनिर्निधानेन सुगंधं भूतु । भवतु । हे देव स्तोतमान हे बर्हिरेतन्नामकाग्ने अहेळता। हेल इति क्रोधनाम । अक्रुध्यता मनसोषतो हवींषि कामयमानानिंद्रज्येष्ठानिंद्रप्रधानान्देवान्यक्षि । यज । पूजय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa: O Agni, named Barhis, let this Barhis, cherished by the gods and lying crosswise, be spread out widely; let it be long and endowed with length (द्राघ्मा (*drāghmā*) means दाघिम्ना (*dāghimnā*)). Let our Barhis be fragrant through the placing of Soma and the oblations. O shining one, Agni named Barhis, अहेळता (*aheḷatā*): हेल (*hela*) is a name for anger, so with an unangered mind worship the gods who desire the oblations, of whom Indra is chief.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवजुष्टं (*devajuṣṭaṃ*)—cherished by the gods
+- तिरश्चा (*tiraścā*)—lying twisted in a curved form
+- बर्हिः (*barhiḥ*)—the Barhis (the excellent grass seat)
+- वि प्रथतां (*vi prathatāṃ*)—let it be spread out
+- दीर्घं (*dīrghaṃ*)—of long growth
+- द्राघ्मा (*drāghmā*)—of great extent
+- अस्मे (*asme*)—our Barhis
+- सुरभि (*surabhi*)—fragrant
+- भूतु (*bhūtu*)—let it be
+- देव (*deva*)—O shining one
+- बर्हिः (*barhiḥ*)—O Agni named Barhis
+- अहेळता (*aheḷatā*)—free from wrath
+- मनसा (*manasā*)—with a mind
+- उशतः (*uśataḥ*)—those desiring the oblation
+- इंद्रज्येष्ठान् (*iṃdrajyeṣṭhān*)—those of whom Indra is chief
+- देवान् (*devān*)—the gods
+- यक्षि (*yakṣi*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+Let the Barhis (grass seat), cherished by the gods and lying twisted in a curved form, be spread out. Let our Barhis, of long growth, be fragrant.
+
+### Printed p. 620
+O shining Agni named Barhis, with an unangered mind worship the gods who desire the oblation and of whom Indra is chief.
+
+##### English translation
+May our (sacred grass) acceptable to the gods twining crookedly be stretched out, may it be long, lengthy, and fragrant ; with mind free romf wrath, divine Barhis, offer worship to the gods desiring (the sacrifice), of whom Indra is the chief.
+
+##### विशेषविषयगळु (Special Topics)
+
+बर्हिः (*barhiḥ*)—This instrument has a more concrete form than the notions इध्मः (*idhmaḥ*) and ईळः (*īḷaḥ*). Barhis means simply the grass seat. As the doors are given a divine aspect by the words देवीः द्वारः (*devīḥ dvāraḥ*), no such thing is done for Barhis; only the sense of a seat of the gods is suggested. Moreover, the doors are entreated to open of themselves, without other help, and make a way for the gods' coming. Inanimate doors cannot open of their own accord and make a wide road unless they have divine power; but in the case of Barhis there is no attribution of this power. The priests must spread it. Not in this Ṛk alone, but in the other Ṛks of the Āprī hymns too, it is clearly said that the spreading of the Barhis must be done with the help of the priests and others. For example:
+
+प्राचीनं बर्हिरोजसा सहस्रवीरमस्त्रणन् । यत्रादित्या विराजथ । (*prācīnaṃ barhirojasā sahasravīramastraṇan | yatrādityā virājatha |*)
+(Ṛ. Saṃ. 1-188-4)
+
+In this Ṛk, and likewise in Ṛ. Saṃ. 9-5-4, बर्हिः प्राचीनमोजसा पवमानः स्तृणन् हरिः । (*barhiḥ prācīnamojasā pavamānaḥ stṛṇan hariḥ |*), there is the description that the priests spread the Barhis. Likewise in the Ṛks of the other Āprī hymns too the Barhis, though earthly and inanimate, is said to be a sacred seat for the gods. Only in the Praiṣa hymn,
+
+होतायक्षद्बर्हिः सुष्टरीमोर्णंम्रदा अस्मिन्यज्ञे विचप्रच प्रथताग्ं स्वासस्थं देवेभ्यः । एमेनदस्य वसवो रुद्रा आदित्याः सदंतु प्रियमिंद्रस्यास्तु वेत्वाज्यस्य होतर‍्यज ॥ (*hotāyakṣadbarhiḥ suṣṭarīmorṇaṃmradā asminyajñe vicapraca prathatāgṃ svāsasthaṃ devebhyaḥ | emenadasya vasavo rudrā ādityāḥ sadaṃtu priyamiṃdrasyāstu vetvājyasya hotaryaja ‖*)
+(Tai. Brā. 3-6-2-1)
+
+is it said, with बर्हिर्नामकं चतुर्थप्रयाजदेवमग्निं (*barhirnāmakaṃ caturthaprayājadevamagniṃ*), to be a seat that is a synonym of Agni and of the nature of a deity. In the Aitareya Brāhmaṇa:
+
+बर्हिर्यजति । पशवो वै बर्हिः । पशूनेव तत्प्रीणाति पशून्यजमाने धदाति । (*barhiryajati | paśavo vai barhiḥ | paśūneva tatprīṇāti paśūnyajamāne dhadāti |*)
+(Ai. Brā. 2-4.)
+
+### Printed p. 621
+it is explained as an animal that grazes on grass and is provided with grass. But it is understood that there is not the slightest room for this meaning.
+
+The Nirukta author says बर्हिः परिबर्हणात् । (*barhiḥ paribarhaṇāt |*): because it grows swiftly, the darbha grass is named Barhis (Ni. 8-8). In the Bṛhaddevatā:
+
+बर्हिरेवायमग्निस्तु सर्वं हि परिबृंहितं । अन्नेन यद्दुतो वा सन्निध्मेन परिबृंहितः ॥ (*barhirevāyamagnistu sarvaṃ hi paribṛṃhitaṃ | annena yadduto vā sannidhmena paribṛṃhitaḥ ‖*)
+(Bṛ. De. 3-5)
+
+Identity is stated thus: because all the food is pervaded by it, and because after the oblation it is filled up with fuel, Agni himself is present in the form of Barhis.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो वा॒ सानु॑ स्पृ॒शता॒ वरी॑यः पृथि॒व्या वा॒ मात्र॑या॒ वि  ॑
+> श्रयध्वं ।  
+> उ॒श॒तीर्द्वा॑रो महि॒ना म॒हध्भि॑र्दे॒वं रथं॑ रथ॒युर्धा॑रयध्वं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । वा । सानु । स्पृशत । वरीयः । पृथिव्या । वा । मात्रया । वि । श्रयध्वं ।  
+> उशतीः । द्वारः । महिना । महत्भिः । देवं । रथं । रथयुः । धारयध्वं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्वार एतन्नामधेया देव्यः यूयं दिवो वा । नाशब्दश्चार्थे । दिवश्च
+> सानु समुच्च्रितं वरीय उरुतरं स्थानं स्पृशत । उन्नता भवतेत्यर्थः ॥ चवायोगे
+> प्रथमेति न निघातः ॥ पृथिव्याश्च यावती मात्रास्ति तावत्या मात्रया वि श्रयध्वं ।
+> विस्त्रता भवत । उशतीर्देवान्कामयमाना यूयं रथयुः ॥ सुपां सुलुगिति जसः
+> सुः ॥ रथकामाः सत्यो महिना महिम्ना महद्भिर्देवैरधिष्ठितं अत एव देवं द्योतमानं रथं रमणसाधनं धारयध्वं । धारयत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa: O goddesses named Doors, touch the lofty and wider region of heaven (वा (*vā*) here has the sense of "and"); that is, become high. And spread out to the full measure of the earth; become extended. Desiring the gods, being eager for the chariot (रथयुः (*rathayuḥ*)), in your greatness occupied by the great gods, therefore hold the shining chariot, the instrument of delight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्वारः (*dvāraḥ*)—O goddesses named Doors
+- दिवः (*divaḥ*)—of the world of the gods
+- सानु (*sānu*)—situated on a high place
+- वरीयः (*varīyaḥ*)—and wide place
+- स्पृशत (*spṛśata*)—touch
+- वा (*vā*)—
+
 ---
 
-**Progress note:** Done through printed p. 615. pp. 610-615 (batch API)
+**Progress note:** Done through printed p. 621. pp. 616-621 (batch API)
