@@ -31,5 +31,6 @@
  "printed_english_label": "English translation",
  "branches": [
   "claude/wonderful-bardeen-h655ql"
- ]
+ ],
+ "scan_read": true
 }

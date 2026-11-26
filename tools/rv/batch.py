@@ -283,7 +283,10 @@ def cmd_check(a):
         if st: fail.append(f'stray letters of another script in the English text (e.g. {st[0]!r} U+{ord(st[0]):04X}): a mistyped Latin letter, fix it in en.md')
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
-    if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
+    if note_style(cfg) and cfg.d.get('scan_read'):   # a volume read from scans (Vol 25 on): each [?] of kn.md must be covered by a **NOTE** of en.md, none may stand in en.md
+        nn=len(NOTE_RE.findall(raw))
+        if len(de)>0 or len(dk)>nn: fail.append(f'[?] left: {len(dk)} in kn.md but {nn} **NOTE** in en.md, {len(de)} [?] in en.md (each [?] of kn.md needs its own **NOTE**{{question}}; none may stand in en.md)')
+    elif len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
     knr=re.sub(r'(?<=[೦-೯])[ \n]+(?=[೦-೯]{1,4}[-)])','-',knr)     # a reference whose hyphen the print lost at a space or line break (೬ ೪-೧೦೨ / ೩-೨⏎೧೦೬): the same number (Vol 11)
     pdfs=[p['pdf'] for p in pg if p.get('pdf')]; knr=kn+'\n'+knr      # both forms count as twins (the loosened form must never hide a reference that matched as printed)
