@@ -22748,6 +22748,290 @@ O Soma, you who desire the gods (देववीः (*devavīḥ*), that is, des
 
 O Soma, you who wish to serve the gods, flow with speed and so as to be pure. O flowing Soma, you who shower the desires, enter Indra.
 
+### Printed p. 587
+
+##### English translation
+Flow on, Soma, seeking the gods, hastening on in your purifying course; enter Indra, O Indu, th e showerer.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ व॑च्यस्व॒ महि॒ प्सरो॒ वृषें॑दो द्यु॒म्नव॑त्तमः ।  
+> आ योनिं॑ धर्ण॒सिः स॑दः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वच्यस्व । महि । प्सरः । वृषा । इंदो इति । द्युम्नवत्ऽतमः ।  
+> आ । योनिम् । धर्णसिः । सदः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम महि महान् वृषा कामानां वर्षक: द्युम्नवत्तमः यशस्वितमः धर्णसिः धर्ता त्वं प्सरः पानीयमंधः आ वच्यस्व अस्मान् प्रत्यागमय । योनिं स्वकीयं स्थानम् आ सदः आसीद च ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma: you who are great (महि (*mahi*), that is, महान् (*mahān*)), the showerer (वृषा (*vṛṣā*)) of desires, the most glorious (द्युम्नवत्तमः (*dyumnavattamaḥ*)), the upholder (धर्णसिः (*dharṇasiḥ*)): bring (आ वच्यस्व (*ā vacyasva*), that is, make come to us) the drinkable (पानीयमंधः (*pānīyamaṃdhaḥ*)) food (प्सरः (*psaraḥ*)). And sit (आ सदः (*ā sadaḥ*), that is, आसीद (*āsīda*)) in your own place (योनिं (*yoniṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- महि (*mahi*)—great one
+- वृषा (*vṛṣā*)—bestower of what is wished
+- द्युम्न-वत्तमः (*dyumna-vattamaḥ*)—most renowned
+- धर्णसिः (*dharṇasiḥ*)—and upholder of the world, you
+- प्सरः (*psaraḥ*)—the food fit for drinking and in the form of juice
+- आ वच्यस्व (*ā vacyasva*)—provide for us
+- योनिं (*yoniṃ*)—your place of origin
+- आ सदः (*ā sadaḥ*)—resort to and sit
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are great, the bestower of what is wished, most renowned and the upholder of the world: provide us with the food that is fit for drinking and is in the form of juice. Resort to your place of origin and sit there.
+
+##### English translation
+O Indu, you, the mighty showerer (of blessings) most glorious upholder, send us food, and sit down in your own place.
+
+### Printed p. 588
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधु॑क्षत प्रि॒यं मधु॒ धारा॑ सु॒तस्य॑ वे॒धसः॑ ।  
+> अ॒पो व॑सिष्ट सु॒क्रतुः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधुक्षत । प्रियम् । मधु । धारा । सुतस्य । वेधसः ।  
+> अपः । वसिष्ट । सुऽक्रतुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतस्य अभिषुतस्य वेधसः अभिलषितस्य विधातुर्यस्य सोमस्य धारा प्रियं प्रीतिकरं मधु अमृतम् अधुक्षत दुग्धे सः सुक्रतुः सुकर्मा सोमः अपः वसतीवरीः वसिष्ट आच्छादयति ॥
+
+##### Gist of the bhāṣya
+
+The stream of the Soma that is pressed (सुतस्य (*sutasya*)), the bestower of what is desired (वेधसः (*vedhasaḥ*)), milks out (अधुक्षत (*adhukṣata*), that is, दुग्धे (*dugdhe*)) the dear (प्रियं (*priyaṃ*), that is, pleasing) honey (मधु (*madhu*)), the nectar (अमृतम् (*amṛtam*)). That Soma of good works (सुक्रतुः (*sukratuḥ*), सुकर्मा (*sukarmā*)) covers (वसिष्ट (*vasiṣṭa*), that is, आच्छादयति (*ācchādayati*)) the waters (अपः (*apaḥ*)), the Vasatīvarī waters (वसतीवरीः (*vasatīvarīḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतस्य (*sutasya*)—of the Soma that has been pressed
+- वेधसः (*vedhasaḥ*)—and that provides what is desired
+- धारा (*dhārā*)—the stream
+- प्रियं (*priyaṃ*)—beneficial
+- मधु (*madhu*)—and delicious nectar
+- अधुक्षत (*adhukṣata*)—milks out
+- सुक्रतुः (*sukratuḥ*)—Soma, who is of excellent works
+- अपे (*ape*)—with the water called Vasatīvarī
+- वसिष्ट (*vasiṣṭa*)—has been covered
+
+##### भावार्थ (Bhāvārtha)
+
+The stream of the Soma juice that has been pressed and made ready and that provides what is desired milks out the beneficial and delicious nectar. Soma, who is of excellent works, has been covered with the water called Vasatīvarī.
+
+##### English translation
+The stream of the effused creative Soma milks out the joy-giving ambrosia; the accomplisher of holy rites veils itself in the waters.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हांतं॑ त्वा म॒हीरन्वापो॑ अर्षंति॒ सिंध॑वः ।  
+> यद्गोभि॑र्वासयि॒ष्यसे॑ ॥ ४ ॥
+
+### Printed p. 589
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महांतम् । त्वा । महीः । अनु । आपः । अर्षंति । सिंधवः ।  
+> यत् । गोभिः । वासयिष्यसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं यत् यदा यज्ञे गोभिः गोविकारैः पयोभिः वासयिष्यसे आच्छादयिष्यते तदा महांतं त्वाम् अनु प्रति सिंधवः स्यंदमानाः महीः महत्यः आपः अर्षंति गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, when (यत् (*yat*), that is, यदा (*yadā*)) in the sacrifice you will be covered (वासयिष्यसे (*vāsayiṣyase*), that is, आच्छादयिष्यते (*ācchādayiṣyate*)) with milks (पयोभिः (*payobhiḥ*)), the products of cows (गोभिः (*gobhiḥ*), गोविकारैः (*govikāraiḥ*)), then the great (महीः (*mahīḥ*), महत्यः (*mahatyaḥ*)) waters (आपः (*āpaḥ*)), flowing (सिंधवः (*siṃdhavaḥ*), स्यंदमानाः (*syaṃdamānāḥ*)), flow (अर्षंति (*arṣaṃti*), that is, गच्छंति (*gacchaṃti*)) towards you (अनु (*anu*), प्रति (*prati*)), the great one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- यत् (*yat*)—when
+- गोभिः (*gobhiḥ*)—with the milk and the like produced from cows
+- वासयिष्यसे (*vāsayiṣyase*)—you will be covered, then
+- महांतं त्वा अनु (*mahāṃtaṃ tvā anu*)—to join you, the great one
+- सिंधवः (*siṃdhavaḥ*)—flowing
+- महीः (*mahīḥ*)—and of great nature
+- अपः (*apaḥ*)—the waters
+- आर्षंति (*ārṣaṃti*)—come flowing and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, when you are covered (mingled) with the milk and the like produced from cows, then the flowing waters of great nature come flowing to join you, the great one.
+
+##### English translation
+(Soma), when you will veil yourself in the milk, the mighty streaming waters flow to you, the mighty one.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रो अ॒प्सु मा॑मृजे विष्टं॒भो ध॒रुणो॑ दि॒वः ।  
+> सोमः॑ प॒वित्रे॑ अस्म॒युः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रः । अप्ऽसु । ममृजे । विष्टंभः । धरुणः । दिवः ।  
+> सोमः । पवित्रे । अस्मऽयुः ॥ ५ ॥
+
+### Printed p. 590
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रः । समुद्द्रवंत्यस्माद्रसा इति समुद्रः । विष्टंभः दिवः स्वर्गस्य धरुणः धारकश्च अस्मयुः अस्मत्कामः सोमः अप्सु उदकेषु ममृजे मृज्यते पवित्रे अभिषिच्यत इत्यर्थः ॥ ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+Samudra: समुद्द्रवंत्यस्माद्रसा इति समुद्रः (*samuddravaṃtyasmādrasā iti samudraḥ*). Soma, the support (विष्टंभः (*viṣṭaṃbhaḥ*)) and upholder (धरुणः (*dharuṇaḥ*)) of heaven (दिवः (*divaḥ*), स्वर्गस्य (*svargasya*)), who desires us (अस्मयुः (*asmayuḥ*), अस्मत्कामः (*asmatkāmaḥ*)), is cleansed (ममृजे (*mamṛje*), मृज्यते (*mṛjyate*)) in the waters (अप्सु (*apsu*), उदकेषु (*udakeṣu*)); the meaning is that he is poured into the filter (पवित्रे (*pavitre*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रः (*samudraḥ*)—flowing in the form of juice
+- विष्टंभः (*viṣṭaṃbhaḥ*)—a support of the world
+- दिवः (*divaḥ*)—of the atmosphere
+- धरुणः (*dharuṇaḥ*)—the upholder
+- अस्मयुः (*asmayuḥ*)—and desiring to favour us
+- सोमः (*somaḥ*)—Soma
+- अप्सु (*apsu*)—in the waters
+- ममृजे (*mamṛje*)—is purified
+- पवित्रे (*pavitre*)—in the purifying ten-strand filter too it flows and is purified
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who flows in the form of juice, is a support of the world, the upholder of the atmosphere and desires to favour us; he is joined with the waters and purified. He also enters the purifying ten-strand filter and attains complete purification.
+
+##### English translation
+The juice-distilling Soma, the sustainer, the supporter of heaven, is purified in the water,—favouring us, (it is poured) into the straining cloth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अचि॑क्रद॒द्वृषा॒ हरि॑र्म॒हान्मि॒त्रो न द॑र्श॒तः ।  
+> सं सूर्ये॑ण रोचते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अचिक्रदत् । वृषा । हरिः । महान् । मित्रः । न । दर्शतः ।  
+> सम् । सूर्येण । रोचते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षकः हरिः हरितवर्णः महान् सर्वोत्तमः मित्रो न यथा सखा तद्वत् दर्शतः दर्शनीयो योऽयं सोमः अचिक्रदत् शब्दं करोति सोऽयं सोमः सूर्येण सह रोचते दिवि प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+This Soma, the showerer (वृषा (*vṛṣā*)) of desires, green (हरिः (*hariḥ*), हरितवर्णः (*haritavarṇaḥ*)), great (महान् (*mahān*), सर्वोत्तमः (*sarvottamaḥ*)), and, like (न (*na*)) a friend (मित्रः (*mitraḥ*), सखा (*sakhā*)), beautiful to see (दर्शतः (*darśataḥ*)), utters a sound (अचिक्रदत् (*acikradat*), शब्दं करोति (*śabdaṃ karoti*)). This Soma shines (रोचते (*rocate*)) with the sun (सूर्येण सह (*sūryeṇa saha*)), shines in heaven (दिवि प्रकाशते (*divi prakāśate*)).
+
+### Printed p. 591
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—bestower of what is wished
+- हरिः (*hariḥ*)—of green colour
+- महान् (*mahān*)—most excellent
+- मित्रो न (*mitro na*)—like a friend
+- दर्शतः (*darśataḥ*)—of attractive form, Soma
+- अचिक्रदत् (*acikradat*)—makes a sound
+- सूर्येण (*sūryeṇa*)—with the sun
+- संरोचते (*saṃrocate*)—shines in the atmosphere
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is the bestower of what is wished, of green colour, most excellent and of attractive form like a friend, makes a sound. He shines in the atmosphere with the sun.
+
+##### English translation
+The mighty golden-hued showerer of blessings utters a sound as it drops, beautiful as a friend; it shines (in the heavens) with the sun.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गिर॑स्त इंद॒ ओज॑सा मर्मृ॒ज्यंते॑ अप॒स्युवः॑ ।  
+> याभि॒र्मदा॑य॒ शुंभ॑से ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरः । ते । इंदो इति । ओजसा । मर्मृज्यंते । अपस्युवः ।  
+> याभिः । मदाय । शुंभसे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो ते तव ओजसा बलेन अपस्युवः कर्मेच्छासंबंधिन्यः ताः गिरः स्तुतयः मर्मृज्यंते शोध्यंते याभिः गीर्भिस्त्वं मदाय क्षरन् शुंभसे अलंक्रियसे ॥
+
+##### Gist of the bhāṣya
+
+O Indu, by your strength (ओजसा (*ojasā*), बलेन (*balena*)) those praises (गिरः (*giraḥ*), स्तुतयः (*stutayaḥ*)) that are connected with the desire for rites (अपस्युवः (*apasyuvaḥ*), कर्मेच्छासंबंधिन्यः (*karmecchāsaṃbaṃdhinyaḥ*)) are cleansed (मर्मृज्यंते (*marmṛjyaṃte*), शोध्यंते (*śodhyaṃte*)), the praises by which you, flowing (क्षरन् (*kṣaran*)) for exhilaration (मदाय (*madāya*)), are adorned (शुंभसे (*śuṃbhase*), अलंक्रियसे (*alaṃkriyase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- याभिः (*yābhiḥ*)—by which praises
+- मदाय (*madāya*)—for joy
+- शुंभसे (*śuṃbhase*)—you are adorned, such
+- अपस्युवः (*apasyuvaḥ*)—and recited at the times of rites
+- गिरः (*giraḥ*)—words of praise
+- ते (*te*)—your
+- ओजसा (*ojasā*)—by strength
+- ममृज्यंते (*mamṛjyaṃte*)—are purified
+
+### Printed p. 592
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the words of praise by which you are adorned for the gaining of joy, and which are recited at the times of rites, are purified by your strength.
+
+##### English translation
+O Indu, by your power the busy voices are hallowed which adorn you as you drop for our exhilaration.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॒ मदा॑य॒ घृष्व॑य उ लोककृ॒त्नुमी॑महे ।  
+> तव॒ प्रश॑स्तयो म॒हीः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । मदाय । घृष्वये । ऊं इति । लोकऽकृत्नुम् । ईमहे ।  
+> तव । प्रऽशस्तयः । महीः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यस्य तव प्रशस्तयः प्रशंसाः महीः महत्यः घृष्वय उ त्वत्प्रसादाच्छत्रूणां धर्षणशीलाय यजमानायैव लोककृत्नुम् उत्तमस्य लोकस्य कर्तारं तं त्वां सोमं मदाय ईमहे वयं याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your great (महीः (*mahīḥ*), महत्यः (*mahatyaḥ*)) praises (प्रशस्तयः (*praśastayaḥ*), प्रशंसाः (*praśaṃsāḥ*)): we beg (ईमहे (*īmahe*), याचामहे (*yācāmahe*)) you, Soma, for exhilaration (मदाय (*madāya*)), you who are the maker of the best world (लोककृत्नुम् (*lokakṛtnum*), उत्तमस्य लोकस्य कर्तारं (*uttamasya lokasya kartāraṃ*)), for the sacrificer (यजमानायैव (*yajamānāyaiva*)) who, by your grace, is given to overcoming (धर्षणशीलाय (*dharṣaṇaśīlāya*)) enemies (घृष्वय उ (*ghṛṣvaya u*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- तव (*tava*)—your
+- प्रशस्तयः (*praśastayaḥ*)—words of praise
+- महीः (*mahīḥ*)—are filled with greatness
+- धृष्वये उ (*dhṛṣvaye u*)—for the sacrificer who, by your favour, is able to destroy enemies
+- लोककृत्नुं (*lokakṛtnuṃ*)—who can provide the best world
+- तं त्वा (*taṃ tvā*)—you, such a one
+- मदाय (*madāya*)—for the gaining of joy
+- ईमहे (*īmahe*)—we beg
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, your words of praise are filled with greatness. We beg you, who can provide the best world to the sacrificer who by your favour is able to destroy enemies, for the gaining of joy.
+
 ---
 
-**Progress note:** Done through printed p. 586. Mandala 9 Sukta 1 Rks 5-10 and Sukta 2 Rk 1
+**Progress note:** Done through printed p. 592. Mandala 9 Sukta 2 Rks 2-8
