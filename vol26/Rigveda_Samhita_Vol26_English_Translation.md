@@ -30333,7 +30333,7 @@ O divine Soma, poured into the vessels and purified, flow for us for the accompl
 ### Printed p. 816
 
 ##### English translation
-Thus poured around (into the vessels), Soma, when purified flow for our welfare, enter with a great noise into Indra, foster our pr:aise, generate abundant knowledge in us. **NOTE**
+Thus poured around (into the vessels), Soma, when purified flow for our welfare, enter with a great noise into Indra, foster our praise, generate abundant knowledge in us. **NOTE**
 
 ##### विशेषविषयगळु (Special Topics)
 
@@ -30345,7 +30345,7 @@ In explaining the meaning of the word पुरंधिं (*puraṃdhiṃ*) in
 
 पुरंधिर्बहुधीस्तत्कः पुरंधिर्भगः पुरस्तात्तस्यान्वादेश इत्येकं । इंद्र इत्य-परं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति । (*puraṃdhirbahudhīstatkaḥ puraṃdhirbhagaḥ purastāttasyānvādeśa ityekaṃ | iṃdra itya-paraṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti |*) (Ni. 9-13) **NOTE**
 
-The meaning of the word पुरंधि (*puraṃdhi*) is: one possessed of abundant धी (*dhī*), that is, of intellect. But if the question is who such a one is, then, since in the quoted Ṛk the word भग (*bhaga*) stands before this word, some hold that it is an attribute of it. Others hold that, since the word धी (*dhī*) is also read among the names of actions, पुरंधि (*puraṃdhi*) means one of many kinds of action, or one who splits the cities of enemies, and so it is an attribute of Indra. Still others hold that, as in passages such as इमामू नु कवितमस्य मायां (*imāmū nu kavitamasya māyāṃ*) (Ṛ. Saṃ. 7-89-4) **NOTE** the supreme resolve of Varuṇa is praised, so in this Ṛk quoted by the Nirukta author also, it may be a synonym of Varuṇa, describing his wisdom. In this way the Nirukta author has stated the differences of opinion. By some further examples the Nirukta author has shown that the word is used both when showing the abundance of the generosity that the gods display towards sacrificers, and when indicating the abundance of the oblations and the like that the sacrificers offer to the gods.
+The meaning of the word पुरंधि (*puraṃdhi*) is: one possessed of abundant धी (*dhī*), that is, of intellect. But if the question is who such a one is, then, since in the quoted Ṛk the word भग (*bhaga*) stands before this word, some hold that it is an attribute of it. Others hold that, since the word धी (*dhī*) is also read among the names of actions, पुरंधि (*puraṃdhi*) means one of many kinds of action, or one who splits the cities of enemies, and so it is an attribute of Indra. Still others hold that, as in passages such as इमामू नु कवितमस्य मायां (*imāmū nu kavitamasya māyāṃ*) (Ṛ. Saṃ. 5-85-6) **NOTE** the supreme resolve of Varuṇa is praised, so in this Ṛk quoted by the Nirukta author also, it may be a synonym of Varuṇa, describing his wisdom. In this way the Nirukta author has stated the differences of opinion. By some further examples the Nirukta author has shown that the word is used both when showing the abundance of the generosity that the gods display towards sacrificers, and when indicating the abundance of the oblations and the like that the sacrificers offer to the gods.
 
 आदाय श्येनो अभरत्सोमं सहस्रं सवा अयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ savā ayutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*) **GLOSS** (Ṛ. Saṃ. 4-26-6) **NOTE**
 
@@ -30359,7 +30359,7 @@ In this Ṛk the words बहुकर्मवान् मनुष्यः (
 
 पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥ (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*) **GLOSS** (Ṛ. Saṃ. 10-65-13) **NOTE**
 
-In this Ṛk the Nirukta author (Ni. 12-30) **NOTE** explains this word as पुरंध्या स्तुत्या प्रयुक्तानि (*puraṃdhyā stutyā prayuktāni*), that is, वचांसि (*vacāṃsi*), speeches joined with many kinds of praises. Sāyaṇa has said बहुविधया प्रज्ञया सहिता सरस्वती (*bahuvidhayā prajñayā sahitā sarasvatī*), that is, Sarasvatī endowed with manifold wisdom. But from the explanation made by Durgācārya (Ni. 12-30) **NOTE**, बहुधात्र्या, माध्यमिका वाचा (*bahudhātryā, mādhyamikā vācā*), it is understood that the word पुरंधि (*puraṃdhi*) indicates a particular deity similar to Sarasvatī. Likewise—
+In this Ṛk the Nirukta author (Ni. 12-30) **NOTE** explains this word as पुरंध्या स्तुत्या प्रयुक्तानि (*puraṃdhyā stutyā prayuktāni*), that is, वचांसि (*vacāṃsi*), speeches joined with many kinds of praises. Sāyaṇa has said बहुविधया प्रज्ञया सहिता सरस्वती (*bahuvidhayā prajñayā sahitā sarasvatī*), that is, Sarasvatī endowed with manifold wisdom. But from the explanation made by Durgācārya (Ni. 12-20) **NOTE**, बहुधात्र्या, माध्यमिका वाचा (*bahudhātryā, mādhyamikā vācā*), it is understood that the word पुरंधि (*puraṃdhi*) indicates a particular deity similar to Sarasvatī. Likewise—
 
 शं नो भगः शमु नः शंसो अस्तु शं नः पुरंधिः शमु संतु रायः । शं नः सत्यस्य सुयमस्य शंसः शं नो अर्यमा पुरुजातो अस्तु ॥ (*śaṃ no bhagaḥ śamu naḥ śaṃso astu śaṃ naḥ puraṃdhiḥ śamu saṃtu rāyaḥ | śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no aryamā purujāto astu ‖*) **GLOSS** (Ṛ. Saṃ. 5-35-2) **NOTE**
 
@@ -30481,11 +30481,11 @@ The purified (Soma) approaches (Indra) as the year (approaches) the sun, he fill
 
 ### Printed p. 821
 
-with his light) : may he, the beloved (Soma), whose beloved (streams) are for (our) preservation, bestow upon us wealth like (w:ages given) to a labourer. **NOTE**
+with his light) : may he, the beloved (Soma), whose beloved (streams) are for (our) preservation, bestow upon us wealth like (wages given) to a labourer. **NOTE**
 
 ##### विशेषविषयगळु (Special Topics)
 
-धाता सूरे न (*dhātā sūre na*)—Here the commentator says that the word धातृ (*dhātṛ*) denotes the year, and in support of it he quotes the Taittirīya Brāhmaṇa sentence संवत्सरो वै धाता संवत्सरेणैवास्मै प्रजाः प्रजनयति (*saṃvatsaro vai dhātā saṃvatsareṇaivāsmai prajāḥ prajanayati*) (Tai. Brā. 1-2-1-1) **NOTE**. धाता (*dhātā*) means Prajāpati. The year is the main division of time. To measure endless time it is the custom to take a limit called the year as the measuring rod. That is, here the year is time, and Prajāpati is the one who is of the nature of such time. There is no difference between time and Prajāpati; that is, Prajāpati is of the nature of time, or of the form of time; and there is a close relation between the sun and the year, which indicates the limit of time. That is, the measure of time depends on the course of the sun; by the course of the sun the measure of time, or the year, is determined. Therefore, as the year depends on the sun, so the Soma juice too goes to the neighbourhood of Indra, who is fond of drinking Soma; that is, it is prepared for the drinking of Indra; this is the meaning.
+धाता सूरे न (*dhātā sūre na*)—Here the commentator says that the word धातृ (*dhātṛ*) denotes the year, and in support of it he quotes the Taittirīya Brāhmaṇa sentence संवत्सरो वै धाता संवत्सरेणैवास्मै प्रजाः प्रजनयति (*saṃvatsaro vai dhātā saṃvatsareṇaivāsmai prajāḥ prajanayati*) (Tai. Brā. 1-6-2-1) **NOTE**. धाता (*dhātā*) means Prajāpati. The year is the main division of time. To measure endless time it is the custom to take a limit called the year as the measuring rod. That is, here the year is time, and Prajāpati is the one who is of the nature of such time. There is no difference between time and Prajāpati; that is, Prajāpati is of the nature of time, or of the form of time; and there is a close relation between the sun and the year, which indicates the limit of time. That is, the measure of time depends on the course of the sun; by the course of the sun the measure of time, or the year, is determined. Therefore, as the year depends on the sun, so the Soma juice too goes to the neighbourhood of Indra, who is fond of drinking Soma; that is, it is prepared for the drinking of Indra; this is the meaning.
 
 It is necessary to examine closely the mutual relation of Prajāpati, the year, time and the sun.
 
@@ -30495,7 +30495,7 @@ For the metaphor that shows a like character in Āditya and the year, the philos
 
 The year is Prajāpati; the year is Āditya.
 
-त्रयोदश संपादयति । त्रयोदश वै मासाः संवत्सरस्य संवत्सर एष य एष तपत्येष उ प्रवर्ग्यः । (*trayodaśa saṃpādayati | trayodaśa vai māsāḥ saṃvatsarasya saṃvatsara eṣa ya eṣa tapatyeṣa u pravargyaḥ |*) (Śa. Brā. 14-1-2-34) **NOTE**
+त्रयोदश संपादयति । त्रयोदश वै मासाः संवत्सरस्य संवत्सर एष य एष तपत्येष उ प्रवर्ग्यः । (*trayodaśa saṃpādayati | trayodaśa vai māsāḥ saṃvatsarasya saṃvatsara eṣa ya eṣa tapatyeṣa u pravargyaḥ |*) (Śa. Brā. 14-1-3-38) **NOTE**
 
 The year of thirteen months is none other than Āditya, shining in the sky. In this way many sentences state the identity of Āditya and the year. When the seven seasons are the parts of the year, should the question arise whether those seven seasons are also the parts of Āditya, the answer to that is,
 
@@ -31090,7 +31090,7 @@ The water brought on the day before the Soma pressing is stored in the vessel ca
 
 आपो न देवीरुपयंति होत्रियमिति होतृचमसे समुवनीयमानास्वन्वाह वसतीवरीष्वेकधनासु च । (*āpo na devīrupayaṃti hotriyamiti hotṛcamase samuvanīyamānāsvanvāha vasatīvarīṣvekadhanāsu ca |*)
 
-After the two kinds of waters of the Vasatīvarī and Ekadhanā vessels have been poured into the Hotṛ's cup, the Hotṛ recites the mantra आपो न देवीरुपयंति (*āpo na devīrupayaṃti*) **NOTE**.
+After the two kinds of waters of the Vasatīvarī and Ekadhanā vessels have been poured into the Hotṛ's cup, the Hotṛ recites the mantra आपो न देवीरुपयंति (*āpo na devīrupayaṃti*) (10-83-2) **NOTE**.
 
 आवेरपोऽध्वर्यो उ इति होताध्वर्युं पृच्छति । आपो वै यज्ञोऽविदो यज्ञा उ मित्येव तदाह । उतेमनन्नमुरित्यध्वर्युः प्रत्याह उतेमाः पश्येत्येव तदाह । (*āverapo 'dhvaryo u iti hotādhvaryuṃ pṛcchati | āpo vai yajño 'vido yajñā u mityeva tadāha | utemanannamurityadhvaryuḥ pratyāha utemāḥ paśyetyeva tadāha |*)
 
@@ -31110,7 +31110,7 @@ One must stand up to show respect to these two kinds of waters. In worldly custo
 
 ईश्वरो ह यद्यप्यन्यो यजेताथ होतारं (*īśvaro ha yadyapyanyo yajetātha hotāraṃ*) **NOTE**
 
-Even if the Hotṛ does not take part in the sacrifice, if the Hotṛ who recites the mantras shows respect to these waters and follows them, fame and pre-eminence come to him. Therefore those who recite the mantras must necessarily follow those waters. While following thus, the mantra अंबयो यंति (*aṃbayo yaṃti*) (1-33-16) **NOTE**, which has not yet been recited in this rite, must be recited—
+Even if the Hotṛ does not take part in the sacrifice, if the Hotṛ who recites the mantras shows respect to these waters and follows them, fame and pre-eminence come to him. Therefore those who recite the mantras must necessarily follow those waters. While following thus, the mantra अंबयो यंति (*aṃbayo yaṃti*) (1-23-16) **NOTE**, which has not yet been recited in this rite, must be recited—
 
 अंबयो यंत्यध्वभिरित्येतामनुब्रुवन्ननु प्रपद्येत । (*aṃbayo yaṃtyadhvabhirityetāmanubruvannanu prapadyeta |*)
 
@@ -31424,16 +31424,16 @@ Bring us celestial treasures, bring us all earthly (treasures) when you are puri
 
 ##### विशेषविषयगळु (Special Topics)
 
-The great seer Jamadagni was an intimate friend of Viśvāmitra. In the Ṛk-saṃhitā, these mantras are well known as composed by Jamadagni: 3-62**NOTE**-17**NOTE** to 18 ; 8-101 ; 9-62 ; 9-65 ; 9-62**NOTE**-17**NOTE** to 18 ; 10-110 ; 10-132**NOTE**-6**NOTE** ; 10-167 **NOTE**. He is a son of Bhṛgu. Therefore he is well known as Jamadagni Bhārgava **NOTE**. In many places he has declared his own praise in express words, as गृणानो जमदग्निना (*gṛṇāno jamadagninā*) (Ṛ. Saṃ. 9-62, 34; 9-65**NOTE**-37**NOTE** etc.) **NOTE**.
+The great seer Jamadagni was an intimate friend of Viśvāmitra. In the Ṛk-saṃhitā, these mantras are well known as composed by Jamadagni: 3-62**NOTE**-17**NOTE** to 18 ; 8-101 ; 9-62 ; 9-65 ; 9-67**NOTE**-16**NOTE** to 17 ; 10-110 ; 10-132**NOTE**-6**NOTE** ; 10-167 **NOTE**. He is a son of Bhṛgu. Therefore he is well known as Jamadagni Bhārgava **NOTE**. In many places he has declared his own praise in express words, as गृणानो जमदग्निना (*gṛṇāno jamadagninā*) (Ṛ. Saṃ. 9-62, 34; 9-65**NOTE**-25**NOTE** etc.) **NOTE**.
 प्रसूतो भक्षमकरं चरावपि स्तोमुं चेमुं प्रथमः सूरिरुन्मृजे । सुते सातेन यद्यागमुं वां प्रति विश्वामित्रजमदग्नी दमे ॥ (*prasūto bhakṣamakaraṃ carāvapi stomuṃ cemuṃ prathamaḥ sūrirunmṛje | sute sātena yadyāgamuṃ vāṃ prati viśvāmitrajamadagnī dame ‖*)
 (Ṛ. Saṃ. 10-162**NOTE**-4**NOTE** **NOTE**)
 In this verse Indra addresses Viśvāmitra and Jamadagni together, and expresses his favour. This kind of companionship is described in many places. The fact that he (Jamadagni) was unable to fight with Vasiṣṭha is also well known in the Saṃhitā and other works.
 विश्वामित्रजमदग्नीवसिष्ठेनास्पर्धेताग्मुं (*viśvāmitrajamadagnīvasiṣṭhenāspardhetāgmuṃ*) स एतज्जमदग्निर्विहव्यमपश्यत्तेन वै स वसिष्ठस्येंद्रियमुं वीर्यमुवृंक्त ॥ (*sa etajjamadagnirvihavyamapaśyattena vai sa vasiṣṭhasyeṃdriyamuṃ vīryamuvṛṃkta ‖*)
-(Tai. Saṃ. 3**NOTE**-1-12**NOTE**-3**NOTE** **NOTE**)
+(Tai. Saṃ. 3**NOTE**-1-7**NOTE**-3**NOTE** **NOTE**)
 ### Printed p. 855
 When Viśvāmitra and Jamadagni were both contending with Vasiṣṭha, Jamadagni received the vision of the Vihavya sūkta that begins with the mantra ममाग्ने वर्चो विहवेष्वस्तु वयं त्वेंधानास्तन्वं पुषेम (*mamāgne varco vihaveṣvastu vayaṃ tveṃdhānāstanvaṃ puṣema*) **GLOSS** (Ṛ. Saṃ. 10-128 **NOTE**). With its help he himself took all the power of Vasiṣṭha; so it is told in story form in the Taittirīya Saṃhitā. In the Bṛhaddevatā also another historical occasion of the same kind is stated in this way.
 सुदासश्च महायज्ञे शक्तिना गाधिसूनवे । निगृहीतं बलाच्छेतः सोऽवसीदद्विचेतनः । तस्मै ब्राह्मीं तु सौरीं वा नाम्ना वाचं ससर्परीं । (*sudāsaśca mahāyajñe śaktinā gādhisūnave | nigṛhītaṃ balācchetaḥ so 'vasīdadvicetanaḥ | tasmai brāhmīṃ tu saurīṃ vā nāmnā vācaṃ sasarparīṃ |*) सूर्यक्षयोदिहाहृत्य (*sūryakṣayodihāhṛtya*) ददुस्ते (*daduste*) जमदग्नयः । कुशिकानां ततः सा वागमतिं तामपाहनत् ॥ (*jamadagnayaḥ | kuśikānāṃ tataḥ sā vāgamatiṃ tāmapāhanat ‖*)
-(Bṛ. De. 4-103 to 104 **NOTE**)
+(Bṛ. De. 4-113 to 114 **NOTE**)
 At the great sacrifice of Sudāsa, the son of Gādhi (Viśvāmitra), struck by Śakti, the son of Vasiṣṭha, fell into a swoon and, deprived of knowledge, dropped down. Then the Jamadagnis supplied the help of speech named Sasarparī, the daughter of the Sun (or the daughter of Brahmā). That goddess of speech removed the swoon of the sons of Kuśika and brought consciousness to them: so it is said. The same occasion is indicated in the Ṛk-saṃhitā in verses such as this—
 ससर्परीरमतिं बाधमाना बृहन्मिमाय जमदग्निदत्ता । आ सूर्यस्य दुहिता ततान श्रवो देवेष्वमृतमजुर्यं ॥ (*sasarparīramatiṃ bādhamānā bṛhanmimāya jamadagnidattā | ā sūryasya duhitā tatāna śravo deveṣvamṛtamajuryaṃ ‖*)
 (Ṛ. Saṃ. 3-53**NOTE**-15**NOTE** **NOTE**)
@@ -32155,7 +32155,7 @@ O Mānavī, belonging to Manu, O shining divine Rodasī, heaven and earth: in yo
 - सः इंदुः (*saḥ iṃduḥ*)—that Soma, of the nature of juice
 - जनिष्व (*janiṣva*)**NOTE**—has been born
 - तं (*taṃ*)—that born Soma
-- तुविष्णणि (*tuviṣṇaṇi*)**NOTE**—in the sacrifice that is full of sound
+- तुविष्वणि (*tuviṣvaṇi*)**NOTE**—in the sacrifice that is full of sound
 - अस्रेधन् (*asredhan*)—the priests pressed
 
 ##### भावार्थ (Bhāvārtha)
@@ -32231,7 +32231,7 @@ At the dawnings, the brightenings of the dawns, those ancient Somas flow in the 
 - हुरश्चितः (*huraścitaḥ*)—who go crookedly
 - तान् (*tān*)—those demons in the form of thieves
 - प्रातः (*prātaḥ*)—in the early morning itself
-- अपब्रोथंतः (*apabrothaṃtaḥ*)**NOTE**—driving far away
+- अपप्रोथंतः (*apaprothaṃtaḥ*)**NOTE**—driving far away
 - प्रत्नासः (*pratnāsaḥ*)—ancient
 - ते सोमः (*te somaḥ*)—those Soma juices
 - व्युष्टिषु (*vyuṣṭiṣu*)—at the very times of the appearing of the dawns
@@ -32319,7 +32319,7 @@ For the Soma who is desired by all and bold, that is, accustomed to overcome ene
 
 - हर्यताय (*haryatāya*)**NOTE**—for the juice of Soma, who has an attractive form
 - धृष्णवे (*dhṛṣṇave*)—who confronts his enemies
-- पौंस्त्यं (*pauṃstyaṃ*)**NOTE**—which displays manly power
+- पौंस्यं (*pauṃsyaṃ*)**NOTE**—which displays manly power
 - धनुः (*dhanuḥ*)—the bow
 - आ तॆन्वंति (*ā tènvaṃti*)—they string and make ready
 - महीयुवः (*mahīyuvaḥ*)—the priests who desire worship
@@ -32404,14 +32404,14 @@ We purify, or else adorn, that juice of this Soma, the exhilarating juice that i
 - मदः (*madaḥ*)—is exhilarating
 - इंद्रपातमः (*iṃdrapātamaḥ*)—and is fit for Indra's drinking
 - अस्य तं (*asya taṃ*)—that juice of this Soma
-- मर्जयोमुसि (*marjayomusi*)**NOTE**—we purify and adorn
+- मर्जयोमसि (*marjayomasi*)**NOTE**—we purify and adorn
 - यं (*yaṃ*)—which same Soma juice
 - गावः (*gāvaḥ*)—devoted to worship
 - सूरयः (*sūrayaḥ*)—the praisers
 - पुरा (*purā*)—of old
 - नूनं (*nūnaṃ*)—and now
 - आसभिः (*āsabhiḥ*)—with their mouths
-- दॆधुः (*dèdhuḥ*)**NOTE**—hold (drink)
+- दधुः (*dadhuḥ*)**NOTE**—hold (drink)
 
 ##### भावार्थ (Bhāvārtha)
 

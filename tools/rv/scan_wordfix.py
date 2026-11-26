@@ -53,7 +53,7 @@ def main():
                     if sc and sc[0][0] >= ratio and (len(sc) == 1 or sc[0][0] - sc[1][0] >= 0.08): new, how = sc[0][1], 'corrected'
                 if new is not None and how == 'corrected' and (norm(new) == n or new.replace('ೄ', 'ೃ') == w.replace('ೄ', 'ೃ')): new = None   # no visible change, or only the ṛ/ṝ sign (a Wikisource quirk)
                 if new is None: opened += 1; continue
-                changes.append((pg, li + 1, w, new, how)); pages[pg][li] = pages[pg][li][:m.start()] + new + pages[pg][li][m.end() + 3:]; line = pages[pg][li]
+                changes.append((pg, li + 1, w, new, how)); pages[pg][li] = pages[pg][li][:m.start()] + new + pages[pg][li][m.end():]   # m already ends after the [?] (Nov 26 2026: '+ 3' deleted the three characters after every settled word); line = pages[pg][li]
     from collections import Counter
     print(dict(Counter(c[4] for c in changes)), 'open (word/lone marks left):', opened)
     for c in [x for x in changes if x[4] == 'corrected'][:15]: print('  corrected p%d l%d: %s → %s' % c[:4])
