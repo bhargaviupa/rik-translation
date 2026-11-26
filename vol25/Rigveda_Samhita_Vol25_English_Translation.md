@@ -29465,6 +29465,259 @@ You, Soma and Indra, are the lords of all, the lords of cattle, --for the rulers
 > वृषा । पुनानः । आयुषु । स्तनयन् । अधि । बर्हिषि ।  
 > हरिः । सन् । योनिम् । आ । असदत् ॥ ३ ॥
 
+### Printed p. 732
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षकः सोमः आयुषु मनुष्येष्वध्वर्य्वादिषु पुनानः पूयमानः  सन् 'स्तनयन् शब्दं कुर्वन् अधि बर्हिषि । अधीति सप्तम्यर्थानुवादी । आस्तीर्णे दर्भे हरिः हरितवर्णः सन् योनिं स्वकीयं स्थानम् आसदत् आसीदति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Vṛṣā, the showerer of desires, the Soma, among the Āyus, that is, among men, the adhvaryus and the rest, being purified, makes a sound, upon the strewn kuśa grass. "Adhi" repeats the sense of the locative. Green-coloured, he sits down in his own place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the showerer of desires
+- सोमः (*somaḥ*)—the Soma-god
+- आयुषु (*āyuṣu*)—among the human priests, the adhvaryus and the rest
+- पुनानः (*punānaḥ*)—being purified
+- स्तनयन् (*stanayan*)—making a gurgling sound
+- अधि बर्हिषि (*adhi barhiṣi*)—on the kuśa grass spread out as a seat
+- हरिः सन् (*hariḥ san*)—shining with a green colour
+- योनिं (*yoniṃ*)—in his own place
+- आ असदत् (*ā asadat*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-god, the showerer of desires, purified by the human priests, the adhvaryus and the rest, making a gurgling sound, sits on the kuśa grass spread out as a seat, in his own place (in the Droṇa-kalaśa).
+
+##### English translation
+The showerer (of benefits) being purified amongst men (lies) murmuring upon the sacred grass,—greentinted he sits down in his proper place.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॑वशंत धी॒तयो॑ वृष॒भस्याधि॒ रेत॑सि ।  
+> सू॒नोर्व॒त्सस्य॑ मा॒तरः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवावशंत । धीतयः । वृषभस्य । अधि । रेतसि ।  
+> सूनोः । वत्सस्य । मातरः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीतयः धीयमानाः सोमाख्येन वत्सेन पीयमाना वसतीवर्यः । क्तिन् व्यत्ययेनांतोदात्तः । अधि रेतसि स्वकीये सारे वृषभस्य वर्षकस्य सोमस्य । सोममित्यर्थः । अवावशंत पुनः कामयंते । सोममाप्याययितुं कामयंत इत्यर्थः । तदेवाह। सूनोः स्वपुत्रस्थानीयस्य वत्सस्य सोमस्य मातरः निर्मात्र्यः प्रवृद्धिकामा मातृस्थानीया अवावशंतेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: धीतयः (*dhītayaḥ*) are the waters वसतीवर्यः (*vasatīvaryaḥ*), being placed, being drunk by the calf called Soma. अधि रेतसि (*adhi retasi*): in the own essence of the vṛṣabha, the showerer Soma, that is, of Soma. अवावशंत (*avāvaśaṃta*): they desire again, that is, they desire to nourish Soma. He says the same: the mothers of the son, the calf Soma, the makers, in the place of mothers, desiring growth, desired; this is the connection.
+
+### Printed p. 733
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धीतयः (*dhītayaḥ*)—the vasatīvarī waters, drunk by the calf called Soma
+- वृषभस्य (*vṛṣabhasya*)—of the showerer of desires, Soma **NOTE**
+- अधि रेतसि (*adhi retasi*)—in his own essence, to be mixed **NOTE**
+- अवावशंत (*avāvaśaṃta*)—desire again and again (as follows)
+- सूनोः वत्सस्य (*sūnoḥ vatsasya*)—in regard to their calf
+- मातरः (*mātaraḥ*)—as mother cows, the Soma that is the calf desires again and again its mother-like vasatīvarī waters **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+As calves desire again and again to drink the milk of their mother, the Soma juices that are the calf **NOTE** desire again and again to be mixed in the mother-like vasatīvarī waters.
+
+##### English translation
+The mothers of the male calf, which are sucked by him, wishing to cherish the bull with their strength.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विद्वृ॑ष॒ण्यंती॑भ्यः पुना॒नो गर्भ॑मा॒दध॑त् ।  
+> याः शु॒क्रं दु॑ह॒ते पयः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । वृषण्यंतीभ्यः । पुनानः । गर्भम् । आऽदधत् ।  
+> याः । शुक्रम् । दुहते । पयः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषण्यंतीभ्यः वृषणं सोममात्मन इच्छंतीभ्यो वसतीवरीभ्यः पुनानः पूयमानो मिश्रयमाणः गर्भं स्वगर्भस्थानीयं रसं कुवित् बहु प्रभूतम् आदधत् करोति । याः आपः शुक्रं दीप्तं पयः दुहते स्ववत्साय सोमाय ताभ्यो गर्भमादधत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: To the waters वसतीवरीभ्यः (*vasatīvarībhyaḥ*) that desire the showerer Soma for themselves, the purified Soma, being mixed, puts in the germ, that is, the juice that takes the place of his own germ, कुवित् (*kuvit*), abundantly, in great quantity. The waters which milk the bright milk for their own calf, Soma: to them he puts in the germ.
+
+### Printed p. 734
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्यंतीभ्यः (*vṛṣaṇyaṃtībhyaḥ*)—to the vasatīvarī waters that desire the Soma juice, in order to be mixed
+- पुनानः (*punānaḥ*)—the purified Soma
+- गर्भं (*garbhaṃ*)—the juice that takes the place of a germ
+- कुवित् (*kuvit*)—abundantly
+- आदधत् (*ādadhat*)—produces
+- याः (*yāḥ*)—which vasatīvarī waters
+- शुक्रं (*śukraṃ*)—shining, that is, clear
+- पयः (*payaḥ*)—milk
+- दुहते (*duhate*)—milk for the Soma that takes the place of a calf
+
+##### भावार्थ (Bhāvārtha)
+
+In the mother-like vasatīvarī waters that desire the Soma juice, the purified or mixed Soma mingles his essential juice and makes them bear a germ. Afterwards those waters milk pure milk for their calf-like Soma, to mix with him.
+
+##### English translation
+The purified Soma has implanted many a germ in those ( waters ) desirous of conception, which yield bright milk.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning and intention of this Ṛk and of the preceding Ṛk are not clear. The seer calls the waters in the vasatīvarī vessel cows and Soma the calf, and describes the mixing of Soma and the waters by a simile: as cows desire their calf at the time of drinking milk, so the waters desire the mixing of the Soma juice.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ शिक्षापत॒स्थुषो॑ भि॒यस॒मा धे॑हि॒ शत्रु॑षु ।  
+> पव॑मान वि॒दा र॒यिम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । शिक्ष । अपऽतस्थुषः । भियसम् । आ । धेहि । शत्रुषु ।  
+> पवमान । विदाः । रयिम् ॥ ६ ॥
+
+### Printed p. 735
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम उप शिक्ष त्वं समीपे कुरु । कान् । अपतस्थुषः अपक्रम्य स्थितान् । अस्मदभिमतानित्यर्थः। शत्रुषु अस्मद्विरोधिषु भियसं भयम् आ धेहि कुरु जनय । अस्माकं तेषां शत्रूणां रयिं धनं विदाः विंदसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O purifying Soma, उप शिक्ष (*upa śikṣa*): bring near. Whom? Those who stand withdrawn, that is, those desired by us. Among the enemies, our opponents, place, bring forth fear. You obtain the wealth of those enemies of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O flowing Soma
+- अपतस्थुषः (*apatasthuṣaḥ*)—our desires that are far away, that is, not yet fulfilled
+- उप शिक्ष (*upa śikṣa*)—make near, that is, make complete
+- शत्रुषु (*śatruṣu*)—among our enemies
+- भियसं (*bhiyasaṃ*)—fear
+- आ धेहि (*ā dhehi*)—produce
+- रयिं (*rayiṃ*)—the wealth that is with the enemies
+- विदाः (*vidāḥ*)—seize and bring to us
+
+##### भावार्थ (Bhāvārtha)
+
+O flowing Soma, make those who are far away as if near, that is, fulfil our desires that are not yet accomplished. Produce fear among our enemies, and seize the wealth that is with them and bring it to us.
+
+##### English translation
+Bring near to us those who stand aloof, strike terror into our foes ; pure-flowing one, transfer to us their riches.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि शत्रोः॑ सोम॒ वृष्ण्यं॒ नि शुष्मं॒ नि वय॑स्तिर ।  
+> दू॒रे वा॑ स॒तो अंति॑ वा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । शत्रोः । सोम । वृष्ण्यम् । नि । शुष्मम् । नि । वयः । तिर ।  
+> दूरे । वा । सतः । अंति । वा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अभिषूयमाण सोम त्वं शत्रोः वृष्ण्यं वर्षकं बलं नि तिर । निपूर्वस्तिरतिर्नाशार्थः । नाशय । तथा शत्रोः शुष्मं शोषकं तेजः नि तिर । तस्यैव वयः अन्नं च नि तिर । कीदृशस्य शत्रोः । दूरे वा सतः अस्मत्तो दूरे वर्तमानस्य अंति वा सतोऽंतिके वर्तमानस्य वा ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, being pressed, destroy the showering strength of the enemy; नि (*ni*) before तिर (*tira*) has the sense of destruction. Likewise destroy the enemy's drying heat, and his food also. Of what kind of enemy? One who is far from us, or one who is near. **NOTE**
+
+### Printed p. 736
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- शत्रो (*śatro*)—our enemy
+- दूरे वा (*dūre vā*)—whether far away
+- सतः अंति वा (*sataḥ aṃti vā*)—or near, of that enemy
+- वृष्ण्यं (*vṛṣṇyaṃ*)—the strength
+- नि तिर (*ni tira*)—destroy
+- शुष्मं (*śuṣmaṃ*)—destroy his vigour, or his firmness also
+- वयः (*vayaḥ*)—destroy the food that is with him also
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, completely destroy the strength, the firmness and the food of our enemy who is far away or who is near.
+
+##### English translation
+Destroy, Soma, the vigour, the energy, the subsistence of our enemy, whether he be far off or near.
+
+**The twentieth sūkta.**
+
+## Sūkta 20 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र कविः' इति सप्तर्चं विंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र कविः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र कविः (*pra kaviḥ*) has seven Ṛks and is the twentieth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as प्र कविः (*pra kaviḥ*). The use has been stated.
+
+This sūkta beginning प्र कविः (*pra kaviḥ*) is the twentieth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र कविः (*pra kaviḥ*). The use of the sūkta has been stated before.
+
+### Printed p. 737
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र क॒विर्दे॒ववी॑त॒येऽव्यो॒ वारे॑भिरर्षति ।  
+> सा॒ह्वान्विश्वा॑ अ॒भि स्पृधः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । कविः । देवऽवीतये । अव्यः । वारेभिः । अर्षति ।  
+> सह्वान् । विश्वाः । अभि । स्पृधः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः मेधावी सोमः देववीतये देवानां पानाय अव्यः अवेः वारेभिः वारैः दशापवित्रेण प्र अर्षति प्रकर्षेण गच्छति । साह्वान् शत्रूणां सोढा सोमः विश्वाः स्पृधः सर्वान् संग्रामान हिंसकान् वा अभि भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The kavi, the wise Soma, for the drinking of the gods, अव्यः (*avyaḥ*), of the sheep, with the hairs, that is, with the ten-thread filter, goes forth, moves onward. साह्वान् (*sāhvān*), the Soma who endures his enemies, overcomes all स्पृधः (*spṛdhaḥ*), all battles or assailants: "overcomes" is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the wise Soma
+- देववीतये (*devavītaye*)—for the drinking of the gods
+- अव्यः वारेभिः (*avyaḥ vārebhiḥ*)—purified by a cloth made of the sheep's tubaṭa **NOTE** or by the ten-thread filter
+- प्र अर्षति (*pra arṣati*)—flows towards the Droṇa-kalaśa
+- साह्वान् (*sāhvān*)—the Soma who can bear the violence of enemies
+- विश्वाः (*viśvāḥ*)—all
+- स्पृधः (*spṛdhaḥ*)—enemies who fight in battle
+- अभि (भवति) (*abhi (bhavati)*)—defeats
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Soma, purified by the ten-thread filter, flows towards the Droṇa-kalaśa for the drinking of the gods. That Soma, who can bear the violence of enemies, defeats all the enemies who fight in battle.
+
+##### English translation
+The seer passes through the woollen fleece for the beverage of the gods, triumphing over all adversaries.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि ष्मा॑ जरि॒तृभ्य॒ आ वाजं॒ गोमं॑त॒मिन्व॑ति ।  
+> पव॑मानः सह॒स्रिण॑म् ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 731. Ṛk 4-7 of sūkta 18, sūkta 19 Ṛk 1-3 (pp. 726-731)
+**Progress note:** Done through printed p. 737. Sūkta 19 Ṛk 3-7, sūkta 20 Ṛk 1-2 saṃhitā (pp. 732-737)
