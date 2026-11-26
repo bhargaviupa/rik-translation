@@ -3631,6 +3631,247 @@ Here the account of Mātariśvan's bringing Agni to the Bhṛgus is evident. But
 
 मातरि अंतरिक्षे श्वसिति प्राणिति सूर्यरूपेण चेष्टत इति मातरिश्वा अथवा मातरि अरण्यां श्वसिति निवसतीति मातरिश्वा (*mātari aṃtarikṣe śvasiti prāṇiti sūryarūpeṇa ceṣṭata iti mātariśvā athavā mātari araṇyāṃ śvasiti nivasatīti mātariśvā*) Sāyaṇa explains that Agni has this name either because he moves in the atmosphere in the form of the sun, or because he dwells in the mother-like araṇis (fire-sticks).
 
+### Printed p. 115
+
+(Ṛ. Saṃ. Bhā. 3-5-9) **NOTE** This explanation supports the etymology that the author of the Nirukta gave for this word (Ni. 7-26).
+
+2) In the same way Bṛhaspati also is well known as the one who first discovered Agni and brought him to the earth.
+
+सोषामविंदत्स स्वंःसो अग्निं सो अर्कॆण वि बबाधे तमांसि । बृहस्पतिर्गो वपुषो वलस्य निर्मज्ञानं न पर्वणो जभार ॥ (*soṣāmaviṃdatsa svaṃḥso agniṃ so arkèṇa vi babādhe tamāṃsi | bṛhaspatirgo vapuṣo valasya nirmajñānaṃ na parvaṇo jabhāra ‖*) (Ṛ. Saṃ. 10-68-9)
+
+When Bṛhaspati strove to find the cows, he obtained Uṣas. He obtained Agni and Āditya and destroyed the darkness. In this way the verse praises Bṛhaspati's effort and his success. The same Bṛhaspati is shown to be identical with both Agni and Mātariśvan. For example:
+
+अच्छा वदा तना गिरा जरायै ब्रह्मणस्पतिं । अग्निं मित्रं न दर्शतं ॥ (*acchā vadā tanā girā jarāyai brahmaṇaspatiṃ | agniṃ mitraṃ na darśataṃ ‖*) (Ṛ. Saṃ. 1-38-13)
+
+तमृत्विया उप वाचः सचंते सर्गो न यो देवयतामसर्जि । बृहस्पतिः स ह्यंजो वरांसि विभ्वाभवत्समृते मातरिश्वा ॥ (*tamṛtviyā upa vācaḥ sacaṃte sargo na yo devayatāmasarji | bṛhaspatiḥ sa hyaṃjo varāṃsi vibhvābhavatsamṛte mātariśvā ‖*) (Ṛ. Saṃ. 1-190-2)
+
+In these and similar passages identity is shown in some places with Agni and in others with Mātariśvan. Where ब्रह्मणस्पतिः अग्निः (*brahmaṇaspatiḥ agniḥ*) is said, the meaning is "lord of the mantras". Where बृहस्पतिः मातरिश्वा (*bṛhaspatiḥ mātariśvā*) is said, the meaning is "one who abides in the sacrifice, the maker of its fruit". In many other places this identity can be recognised. (2-1-3; 3-26-2, etc.)
+
+3) Aṅgiras: the matter of Aṅgiras, the relation of the sage Aṅgiras to Agni, and the statement that Agni is the first of the Aṅgirases have been explained earlier. Moreover:
+
+तव श्रिये व्यजिहीत पर्वतो गवां गोत्रमुदसृजो यदंगिरः । इंद्रेण युजा तमसा परीवृतं बृहस्पते निरपामौब्बो अर्णवं ॥ (*tava śriye vyajihīta parvato gavāṃ gotramudasṛjo yadaṃgiraḥ | iṃdreṇa yujā tamasā parīvṛtaṃ bṛhaspate nirapāmaubbo arṇavaṃ ‖*) (Ṛ. Saṃ. 2-23-18)
+
+In Ṛks like this Bṛhaspati too is addressed as Aṅgiras. That is, there are also many instances in which one word in the group Bṛhaspati, Mātariśvan, Aṅgiras, Agni and so on serves as an epithet of another. It can be said with certainty that all of them indicate an aspect of Agni.
+
+### Printed p. 116
+
+8) The Agni who was said earlier to have been produced by the sage called Atharvan, in such statements as त्वामग्ने पुष्करादथर्वा निरमंथत (*tvāmagne puṣkarādatharvā niramaṃthata*) (Ṛ. Saṃ. 6-17-13), is likewise himself denoted by "Atharvan".
+
+In statements such as अग्निर्जातो अथर्वणा विदद्विश्वासि काव्या (*agnirjāto atharvaṇā vidadviśvāsi kāvyā*) (10-21-5) too it is shown that Atharvan is the producer and that Agni is knowledge from him. **NOTE** But:
+
+आ नूनमश्विनोर्यषिः स्तोमं चिकेत नामया । आ सोमं मधुमत्तमं घर्मं सिंचादधर्वण ॥ (*ā nūnamaśvinoryaṣiḥ stomaṃ ciketa nāmayā | ā somaṃ madhumattamaṃ gharmaṃ siṃcādadharvaṇa ‖*) (Ṛ. Saṃ. 8-9-7)
+
+Here अथर्वणि (*atharvaṇi*) is a word denoting Agni; it has been explained as "the non-violent Agni". Or else the meaning "one fashioned by the sage Atharvan" is also possible. There are many more statements that show the identity of Atharvan and Agni; they are only pointed out here, and their explanation is not relevant in this place.
+
+In the present context the main point is that the Bhṛgus found Agni, who was hidden within houses, worshipped him themselves and also helped the people. This matter was explained earlier in Part 11.
+
+#### Ṛk 3
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं त्रि॒तो भूर्य॑विंददि॒च्छन्वै॑भूव॒सो मू॒र्धन्यघ्न्या॑याः ।  
+> स शेवृ॑धो जा॒त आ ह॒र्म्येषु॒ नाभि॒र्युवा॑ भवति रोच॒नस्य॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । त्रितः । भूरि । अविंदत् । इच्छन् । वैभुवसः । मूर्धनि । अघ्न्यायाः ।  
+> सः । शेवृधः । जातः । आ । हर्म्येषु । नाभिः । युवा । भवति । रोचनस्य ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमं भूरि महांतमग्निं वैभूवसो विभूवसः पुत्रस्त्रित ऋषिरिच्छल्लब्धुमिच्छन्नघ्न्यायाः । अघ्न्या भूमिः । तस्या भूम्या मूर्धनि । भूम्यामित्यर्थः ।
+
+##### Gist of the bhāṣya
+
+The seer Trita, son of Vibhūvasu, desiring to obtain this great Agni, found him अघ्न्यायाः मूर्धनि (*aghnyāyāḥ mūrdhani*). Sāyaṇa explains that अघ्न्या (*aghnyā*) is the earth, so that "on the head of the Aghnyā" means "on the earth".
+
+### Printed p. 117
+
+> तत्राविंदत् । लब्धवान् । सोग्निः शेवृधः सुखस्य वर्धयिता सन् हर्म्येषु
+> यजमानगृहेष्वा सर्वतो जातः प्रादुर्भूतः सन्नोचनस्य रोचमानस्य
+> स्वर्गाख्यस्य फलस्कोक्तलक्षणस्य यज्ञस्यादित्यस्य ना नाभिर्बंधको भवति ॥
+
+##### Gist of the bhāṣya
+
+There he found him. That Agni, increasing happiness, was born, that is, appeared, in the houses of the sacrificer on all sides; and he becomes the bond (नाभिः (*nābhiḥ*)), the binder, of the shining sacrifice that is the Āditya, called heaven, whose character is the fruit stated earlier.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमं (*imaṃ*)—the well-known
+- भूरि (*bhūri*)—Agni, of great form
+- वैभुवसः (*vaibhuvasaḥ*)—the son of Vibhūvasu
+- त्रितः (*tritaḥ*)—the sage named Trita
+- इच्छन् (*icchan*)—wishing to obtain
+- अघ्न्यायाः मूर्धनि (*aghnyāyāḥ mūrdhani*)—on the earth
+- अविंदत् (*aviṃdat*)—obtained
+- सः (*saḥ*)—that Agni
+- शेवृधः (*śevṛdhaḥ*)—as the giver of happiness
+- हर्म्येषु (*harmyeṣu*)—in the houses of the sacrificer or in the sacrificial halls
+- आ जातः (*ā jātaḥ*)—having appeared
+- रोचनस्य (*rocanasya*)—of the shining heaven
+- नाभिः (*nābhiḥ*)—as the one who brings one to it
+- भवति (*bhavati*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+Trita, the sage son of Vibhūvasu, wished to obtain this great Agni and accordingly acquired him on the earth. That Agni, who increases happiness, appears in the sacrificial halls of the sacrificer and provides heaven for those who perform sacrifice.
+
+##### English translation
+Trita, the son of Vibhuvas, searching (for him), found mighty Agni on the surface of the earth : he the augmenter of happiness manifested in the dwellings (of the pious), the youthful (connecting) bond of the resplendent (Sun).
+
+#### Ṛk 4
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रं होता॑रमु॒शिजो॒ नमो॑भिः॒ प्रांचं॑ य॒ज्ञं  
+> ने॒तार॑मध्व॒राणां॑ ।  
+> वि॒शाम॑कृण्वन्नर॒तिं पा॑व॒कं ह॑व्य॒वाहं॒ दध॑तो॒ मानु॑षेषु ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रं । होतारं । उशिजः । नमःभिः । प्रांचं । यज्ञं । नेतारं । अध्वराणां ।  
+> विशां । अकृण्वन् । अरतिं । पावकं । हव्यवाहं । दधतः । मानुषेषु ॥ ४ ॥
+
+### Printed p. 118
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उशिजः कामयमाना ऋत्विजो मंद्रं मादनीयं होतारं होमनिष्पादकं प्रांचं गार्हपत्यादाहवनीयं प्रति प्रागंचंतं यज्ञं यजनीयमध्वराणां यागानां नेतारं प्रापयितारमरतिं गंतारं सर्वदा यागगृहे वर्तमानं
+> पावकं शोधकं हव्यवाहं हविषो वोढारं मानुषेषु मनुष्येषु मध्यॆ
+> दधतो दधाना ऋत्विजो विशां यजमानानामर्थायि। यद्वा। विशां प्रजानामरतिमर्यं । स्वामिनमित्यर्थः । नमोभिर्नमस्कारैः । स्तुतिभिरित्यर्थः । अकृण्वन् ।
+> अकुर्वन् । सुप्रीतं कृतवंतः ॥
+
+##### Gist of the bhāṣya
+
+The उशिजः (*uśijaḥ*) are the priests who desire the gods. They made Agni well pleased with their adorations (नमोभिः (*namobhiḥ*)), that is, with praises. Agni is मंद्रं (*maṃdraṃ*), the delighter; होतारं (*hotāraṃ*), the accomplisher of the offering; प्रांचं (*prāṃcaṃ*), he who goes forward from the Gārhapatya towards the Āhavanīya; यज्ञं (*yajñaṃ*), the one to be worshipped; the leader of the sacrifices (अध्वराणां (*adhvarāṇāṃ*)), who brings them to completion; अरतिं (*aratiṃ*), the goer, always present in the sacrificial house; पावकं (*pāvakaṃ*), the purifier; हव्यवाहं (*havyavāhaṃ*), the bearer of the oblation. The priests establish (दधतः (*dadhataḥ*)) him among men, for the sake of the sacrificers (विशां (*viśāṃ*)). Or else *viśāṃ aratiṃ* is "the lord of the people", the master.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशिजः (*uśijaḥ*)—the priests who desire the gods
+- मंद्रं (*maṃdraṃ*)—the giver of joy
+- होतारं (*hotāraṃ*)—the accomplisher of the offering
+- प्रांचं (*prāṃcaṃ*)—he who is carried from the fire-pit called Gārhapatya to the fire-pit called Āhavanīya
+- यज्ञं (*yajñaṃ*)—the worthy of worship
+- अध्वराणां (*adhvarāṇāṃ*)—of the sacrifices
+- नेतारं (*netāraṃ*)—the leader, or the chief deity in the sacrifices
+- अरतिं (*aratiṃ*)—he who is always in the sacrificial house
+- पावकं (*pāvakaṃ*)—the purifier
+- हव्यवाहं (*havyavāhaṃ*)—he who carries the oblation to the gods
+- मानुषेषु (*mānuṣeṣu*)—among men
+- विशां (अरतिं) (*viśāṃ (aratiṃ)*)—Agni, the lord of all the people
+- दधतः (*dadhataḥ*)—the priests who perform the rite
+- नमोभिः (*namobhiḥ*)—with adorations or with praises
+- अकृण्वन् (*akṛṇvan*)—made well pleased
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, who desire the gods and perform the rites in men's sacrifices, please with adorations and praises Agni, the giver of happiness, the accomplisher of the offering, the worthy of worship, the leader of the sacrificial rites, he who always dwells in the sacrificial houses, the carrier of the oblation to the gods, the lord of the people.
+
+##### English translation
+(The priests) desirous (to propitiate him), detaining him amongst men have by their adoration made him lord over all people, him the exhilarator, the presenter of burnt offerings, the migrator, the object of sacrifice, the leader of rites, the purifier, the bearer of oblations.
+
+### Printed p. 119
+
+#### Ṛk 5
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र भू॒र्जयं॑तं म॒हां वि॑पो॒धां मू॒रा अमू॑रं पु॒रां  ॒॑
+> दर्माणं ।  
+> नयं॑तो॒ गर्भं॑ व॒नां धियं॑ धु॒र्हिरि॑श्मश्रुं॒ नार्वा॑णं॒ धन॑र्चं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । भूः । जयंतं । महां । विपःधां । मूराः । अमूरं । पुरां । दर्माणं  
+> नयंतः । गर्भं । वनां । धियं । धुः । हिरिश्मश्रुं । न । अर्वाणं । धनअर्चं ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः त्वं जयंतं जेतव्याइत्रूञयंतं महां महांतं
+> विपोधां मेधाविनो धर्तारमग्निं प्र भूः । प्रभव । समर्थो भव । स्तोतुमिति
+> शेषः । उद्दीथस्तु भूर्जयंतमित्येकपदं मत्वा भूरादील्लोकाञयंतमिति
+> व्याचकार । न केवलं त्वमेक एव आपि तु मूरा मूढाः सर्वॆऽपि पुरुषा अमूरममूढं पुरां दर्माणं दारकं ॥ औणादिको मनिः । प्रत्ययस्वरः ॥ गर्भमरण्योर्गर्भभूतं वनां वननीयं ॥ वा छंदसि । पा-६-१-१०६,१०७ । इति वचनादमि
+> पूर्वाभावः ॥ हिरिश्मश्रुं नार्वाणं । नेत्युपमार्थीयः । श्मश्रुशब्दोऽत्र रोमसामान्यवचनः । हरितरोमोपेतमर्वाणमरणशीलमश्वमिव । उक्तलक्षणाश्ववद्धरितकेशस्थानीयज्वालोपेतं धनर्चं प्रीणनस्तुतिं ॥ शकंध्वादित्वात्पररूपत्वं ॥ ईदृशमग्निं नयंतो हविर्भिः साप्रयंतो धियं कर्म स्तोत्रं ना धुः । प्रापयंति ॥
+> गातिस्थेति सिचो लुक् ॥
+
+##### Gist of the bhāṣya
+
+"O praiser, be able (प्र भूः (*pra bhūḥ*)) to praise Agni", who is victorious, conquering the enemies to be conquered, great, and the sustainer of the wise. Uddītha, taking भूर्जयंतं (*bhūrjayaṃtaṃ*) as one word, explained it as "conquering the worlds, Bhūr and the rest". Not you alone: even all foolish men (मूराः (*mūrāḥ*)) praise him who is not foolish, the one who splits cities (पुरां दर्माणं (*purāṃ darmāṇaṃ*)). He is the embryo of the two fire-sticks, to be praised (वनां (*vanāṃ*)). हिरिश्मश्रुं नार्वाणं (*hiriśmaśruṃ nārvāṇaṃ*): न (*na*) is used for comparison; श्मश्रु (*śmaśru*) here means hair in general. He is like a swift horse with green-golden hair, that is, he has flames resembling green hair, and is a lover of the pleasing praise (धनर्चं (*dhanarcaṃ*)). Leading such an Agni with oblations, the priests bring about (धुः (*dhuḥ*)) the rite or the hymn (धियं (*dhiyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser, you) जयंतं (*jayaṃtaṃ*)—him who conquers enemies
+- महां (*mahāṃ*)—the great one
+- विपोधां (*vipodhāṃ*)—Agni, the sustainer of the wise priests
+- प्रभूः (*prabhūḥ*)—be able to praise
+- मूराः (*mūrāḥ*)—even foolish men
+- अमूरं (*amūraṃ*)—the discerning one
+- पुरां (*purāṃ*)—the enemy cities
+- दर्माणं (*darmāṇaṃ*)—the splitter
+- गर्भं (*garbhaṃ*)—he who is in the fire-sticks in the form of an embryo
+- वनां (*vanāṃ*)—praised by all
+- हिरिश्मश्रुं (*hiriśmaśruṃ*)—having hair gleaming like gold
+
+### Printed p. 120
+
+- अर्वाणं न (*arvāṇaṃ na*)—like a horse, accompanied by flames of golden hue
+- धनर्चं (*dhanarcaṃ*)—Agni, the lover of praise, they praise
+- नयंतः (*nayaṃtaḥ*)—the priests who serve with oblations and the like
+- धियं (*dhiyaṃ*)—for the performance of the sacrificial rite, or for hearing the hymns
+- धुः (*dhuḥ*)—bring to the place of sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, be able to praise Agni, the great one, who sustains the wise priests. Even foolish men praise Agni, the discerning, the splitter of enemy cities, who is in the fire-sticks in the form of an embryo, praised by all, a horse-like one with a mass of hair gleaming like gold, accompanied by golden flames, a lover of praise. The priests who carry and offer oblations and the like bring Agni to the sacrificial altar for the performance of the sacrificial rite.
+
+##### English translation
+Be competent, (priest, to glorify) the victorious mighty Agni; the sustainer of the wise, (even) fools (adore) him, the exempt from folly, the demolisher of cities ; conducting the embryo of touchwood, (Agni), like a golden-haired, swift-moving (horse), loving praise and wealth, they bring him to the sacrifice.
+
+#### Ṛk 6
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि प॒स्त्या॑सु त्रि॒तः स्त॑भू॒यन्परि॑वीतो॒ योन्॑ सीददं॒तः ।  
+> अतः॑ सं॒गृभ्या॑ वि॒शां दमू॑ना॒ विध॑र्मणायं॒त्रैरी॑यते॒न्यन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । पस्त्यासु । त्रितः । स्तभुयन् । परिवीतः । योन् । सीदत् । अंतरिति ।  
+> अतः । संगृभ्य । विशां । दमूनाः । विधर्मणा । अयंत्रैः । ईयते । न्यन् ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रितस्त्रिषु स्थानेषु गार्हपत्यादिषु तायमानः स्तभूयन् यजमानगृहान्
+> स्तंभयितुमिच्छन् ॥ इच्छार्थे क्यचि तदंताच्छतरि रूपं ॥ परिवीतः परितो ज्वालाभि-
+
+##### Gist of the bhāṣya
+
+Trita, extended (तायमानः (*tāyamānaḥ*)) in the three places, the Gārhapatya and the others, is स्तभूयन् (*stabhūyan*), wishing to make the houses of the sacrificer firm; परिवीतः (*parivītaḥ*) is "surrounded on all sides by flames".
+
 ---
 
-**Progress note:** Done through printed p. 114. pp. 109-114 (batch API)
+**Progress note:** Done through printed p. 120. pp. 115-120 (batch API)
