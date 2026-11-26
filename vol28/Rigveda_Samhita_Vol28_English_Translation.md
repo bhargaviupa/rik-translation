@@ -12259,6 +12259,299 @@ Asuniti, give us back the (departed) spirit : extend our life that we may live (
 
 On this passage Yāska has given an explanation: असुनीते मनः अस्मासु धारय चिरं जीवनाय प्रवर्धय च न आयू (*asunīte manaḥ asmāsu dhāraya ciraṃ jīvanāya pravardhaya ca na āyū*)
 
+### Printed p. 380
+…and make us prosper (रंधय (*raṃdhaya*)) for the sight of the sun. The root रध्यति (*radhyati*) is also seen in the sense of coming under control. There is also a Vedic text: मा रधाम द्विषते सोम राजन् (*mā radhāma dviṣate soma rājan*). "Increase your body with ghee (dhṛta)."
+(Ni. 10-40)
+
+O goddess Asunīti, establish firmly in our bodies the mind (here "mind" signifies prāṇa, the vital breath, or the self), so that we may live long, and increase our span of life. Make it subject to our control. May we live long and keep seeing the sun. Here the root रध् (*radh*) has the sense "to bring under control". The Vedic text मा रधाम द्विषते सोम राजन् (*mā radhāma dviṣate soma rājan*) supports this. The chief purport of the nirvacana is: "O Asunīti, nourish your body with the ghee that we offer."
+
+सूर्यस्य संदृशि (*sūryasya saṃdṛśi*)—to be always seeing the sun means to live long. In this sense there are Vedic texts such as ज्योक् च सूर्यं दृशे (*jyok ca sūryaṃ dṛśe*) and others.
+
+धृतेन त्वं तन्वं वर्धयस्व (*dhṛtena tvaṃ tanvaṃ vardhayasva*)—Sāyaṇa explains this sentence as त्वं च अस्माभिर्दत्तेन धृतेन शरीरं वर्धय (*tvaṃ ca asmābhirdattena dhṛtena śarīraṃ vardhaya*), "nourish your body with the ghee that we offer you". On this point Durgācārya, the commentator on the Nirukta, says धृतेन उदकेन त्वमात्मानं यथाकालं वर्धयस्व । त्वय्यु दकं ददति सर्वमिदं भवति । अहविर्भाक्त्यादसुनीतेर्घृतमित्युदकनामेत्यत्रोपपद्यते ॥— (*dhṛtena udakena tvamātmānaṃ yathākālaṃ vardhayasva | tvayyu dakaṃ dadati sarvamidaṃ bhavati | ahavirbhāktyādasunīterghṛtamityudakanāmetyatropapadyate ‖—*). He takes the word धृत (*dhṛta*) in the sense of water. Since the goddess Asunīti does not partake of an oblation, it is proper to take the word धृत (*dhṛta*) here as meaning water, he says.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असु॑नीते॒ पुन॑र॒स्मासु॒ चक्षुः॒ पुनः॑ प्रा॒णमि॒ह नो॑ धेहि॒  ॑
+> भोगं ।  
+> ज्योक् प॑श्येम॒ सूर्य॑मु॒च्चरं॑त॒मनु॑मते मृ॒ळया॑ नः  ॒
+> स्वस्ति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असुनीते । पुनः । अस्मासु । चक्षुः । पुनरिति । प्राणं । इह । नः । धेहि । भोगं ।  
+> ज्योक् । पश्येम । सूर्यं । उत्चरंतं । अनुमते । मृळय । नः । स्वस्ति ॥ ६ ॥
+
+### Printed p. 381
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुनीते प्राणदायिनि देवि अस्मासु । अस्मदीये सुबंधावित्यर्थः ।
+> पुनश्चक्षुः प्रकाशकं नयनं । ईक्षणसामर्थ्यमित्यर्थः । किंच पुनः प्राणमस्मासु
+> धेहि । स्थापय । वयं च च्योच्चिरमुच्चरंतमुद्गच्छंतं सूर्यं पश्येम । हे
+> अनुमते देवि स्वस्तृविनाशं यथा स्यात्तथा नोऽस्मान्मृळय । सुखय ॥
+
+##### Gist of the bhāṣya
+
+O Asunīti, goddess who gives life, in us, that is, in our well-related one (Subandhu), restore again चक्षुः (*cakṣuḥ*), the illuminating eye, meaning the power of seeing. Moreover place breath again in us. May we see the sun, rising, for a long time. O goddess Anumati, so that there may be no destruction, make us happy and give us comfort.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुनीते (*asunīte*)—O goddess Asunīti
+- अस्मासु (*asmāsu*)—in us
+- पुनः (*punaḥ*)—again
+- चक्षुः (*cakṣuḥ*)—the power of sight
+- प्राणं (*prāṇaṃ*)—and the breath
+- धेहि (*dhehi*)—establish
+- नः (*naḥ*)—for us
+- भोगं (*bhogaṃ*)—comfort
+- धेहि (*dhehi*)—provide
+- उच्चरंतं (*uccaraṃtaṃ*)—rising
+- सूर्यं (*sūryaṃ*)—the sun
+- ज्योक् (*jyok*)—for a long time
+- पश्येम (*paśyema*)—may we see
+- अनुमते (*anumate*)—O goddess Anumati, of noble conduct
+- नः (*naḥ*)—for us
+- स्वस्ति (*svasti*)—so that there is welfare
+- मृळय (*mṛḷaya*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Asunīti, establish again in us the power of sight and the breath, and provide us with comfort. May we see the rising sun for a long time. O goddess Anumati, of noble conduct, bring us welfare and make us happy.
+
+##### English translation
+Restore to us, Asuniti, sight and breath, and enjoyment in this world : long may we behold the rising sun ; make us happy, gracious (goddess), with prosperity.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॑र्नो॒ असुं॑ पृथि॒वी द॑दातु॒ पुन॒र्दौर्दे॒वी पुन॑रं॒तरि॑क्षं ।  
+> पुन॑र्नः॒ सोम॑स्त॒न्वं॑ ददातु॒ पुनः॑ पू॒षा प॒थ्यां॒३॒॑शिया स्व॒स्तिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । नः । असुं । पृथिवी । ददातु । पुनः । द्यौः । देवी । पुनः । अंतरिक्षं ।  
+> पुनः । नः । सोमः । तन्वं । ददातु । पुनरिति । पूषा । पथ्यां । या । स्वस्ति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृथिवी देवी नोऽस्मभ्यमसुं प्राणं ददातु पुनः। द्यौर्देवतासुं ददातु ।
+> तथांतरिक्षमंतरिक्षदेवतासुं ददातु । तथा सोमो नस्तन्वं शरीरं पुनर्ददातु ।
+> तथा पूषा पोषाभिमानिनी देवता पथ्यां । पंथा अंतरिक्षं । नि-११-४५ । तत्र भवां
+
+##### Gist of the bhāṣya
+
+The goddess Earth is to give us the breath (असुं (*asuṃ*)) again; the goddess Heaven is to give breath; likewise the Firmament, the deity of the atmosphere, is to give breath; likewise Soma is to give back our body. Likewise Pūṣan, the deity presiding over nourishment, is to give पथ्यां (*pathyāṃ*). पंथा अंतरिक्षं (*paṃthā aṃtarikṣaṃ*) (Ni. 11-45); what is in that…
+
+### Printed p. 382
+
+> वाचं । वागात्मकः शब्दो ह्याकाशादुत्पद्यते। तां पुनर्ददातु । किंच या स्वस्तिर्या
+> लोके वेदे च स्वस्तिरुच्यते तामपि पूषा प्रयच्छतु । यद्वा । पूषा पोषं
+> प्रयच्छतु । या स्वस्तिर्वाग्नाम्नी देव्यस्ति सा पथ्यां वाचं प्रयच्छतु । वाग्वै
+> पथ्या स्वस्तिः । शत. ३-२-३-८ । इति ब्राह्मणं ॥
+
+##### Gist of the bhāṣya
+
+…speech: for the sound that is of the nature of speech arises from space (ākāśa). May he give that again. Moreover, may Pūṣan grant also the स्वस्ति (*svasti*) that is called svasti in the world and in the Veda. Or else: may Pūṣan grant nourishment; the goddess named Vāk who is स्वस्ति (*svasti*), may she grant the पथ्या (*pathyā*) speech. वाग्वै पथ्या स्वस्तिः (*vāgvai pathyā svastiḥ*) (Śa. 3-2-3-8), says the Brāhmaṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथिवी (*pṛthivī*)—the goddess Earth
+- नः (*naḥ*)—to us
+- असुं (*asuṃ*)—the breath
+- ददातु (*dadātu*)—may she give
+- द्यौः (*dyauḥ*)—the deity of the heavenly world
+- पुनः (*punaḥ*)—may she give us breath again
+- अंतरिक्षं (*aṃtarikṣaṃ*)—may the firmament make us live again
+- सोमः (*somaḥ*)—the god Soma
+- गः (*gaḥ*)—our **NOTE**
+- तन्वं (*tanvaṃ*)—body
+- पुनः (*punaḥ*)—again
+- ददातु (*dadātu*)—may he give
+- या (*yā*)—which
+- स्वस्तिः (*svastiḥ*)—the welfare that is called beneficial
+- पथ्यां (*pathyāṃ*)—and the power of speech
+- पूषा (*pūṣā*)—may the god Pūṣan provide to us
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Earth give us breath. May the deity of the heavenly world give us breath again. May the firmament make us live again. May the god Soma give our body again. May the goddess Vāk, who bestows welfare, create welfare. May the god Pūṣan produce nourishment for us.
+
+##### English translation
+May earth restore the (departed) soul to us : may the divine heaven, may the firmament (restore it) : may Soma restore the body to us : may Pushan restore to us speech, which is prosperity.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं रोद॑सी सु॒बंध॑वे य॒ह्वी ऋ॒तस्य॑ मा॒तरा॑ ।  
+> भर॑ता॒मप॒ यद्रपो॒ द्यौः पृ॑थिवि क्ष॒मा रपो॒ मो षु ते॒ किं  ॒॑
+> चनाममत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । रोदसी । इति । सुबंधवे । यह्वी इति । ऋतस्य । मातरा ।  
+> भरतां । अप । यत् । रपः । द्यौः । पृथिवि । क्षमा । रपः । मो इति । सु । ते । किं ।  
+> चन । आममत् ॥ ८ ॥
+
+### Printed p. 383
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिभिस्ति सृभिर्द्यावापृथिव्योः स्तुतिः । रोदसी द्यावापृथिव्यौ सुबंधवे
+> शं सुखं प्रयच्छतां । कीदृश्यौ ते । यह्वी महत्वा ऋतस्य यज्ञस्योदकस्य वा
+> मातरा निर्मात्र्यौ । यद्रपः पापं कृच्छ्रमस्ति तदप भरतां । अपहरतां । अपनयतां । हे द्यौः हे पृथिवि हे द्यावापृथिव्यौ क्षमा क्षमायां सत्यां । यद्वा
+> क्षमा प्वथगप्युच्यते । क्षमाप्यपहरतु । एवमुक्त्वा सुबंधुं बंध्वादयो ब्रुवते।
+> हे सुबंधो ते त्वां मो षु मैव सु सुष्टु किं चन परं रसः कृच्छ्रमाममत् ।
+> हिनस्तु ॥
+
+##### Gist of the bhāṣya
+
+With the three verses beginning with this one there is praise of Heaven and Earth. May रोदसी (*rodasī*), Heaven and Earth, give happiness to Subandhu. What are they like? यह्वी (*yahvī*), great; ऋतस्य मातरा (*ṛtasya mātarā*), the makers of the sacrifice or of water. Whatever रपः (*rapaḥ*), sin or hardship, there is, may they carry it away, remove it. O Heaven, O Earth, O Heaven and Earth, क्षमा (*kṣamā*) is said while क्षमायां (*kṣamāyāṃ*) (the earth) exists. Or else क्षमा (*kṣamā*) is also said of the earth: let the earth too carry it away. Having said this, Subandhu's kinsmen and others speak: O Subandhu, let nothing else, no hardship, afflict you; मो षु (*mo ṣu*) means "by no means, well".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यह्वी (*yahvī*)—those of great nature
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- मातरा (*mātarā*)—and makers
+- रोदसी (*rodasī*)—Heaven and Earth
+- सुबंधवे (*subaṃdhave*)—to Subandhu
+- शं (*śaṃ*)—may they provide happiness
+- यत् (*yat*)—whatever
+- रपः (*rapaḥ*)—sinful act (whatever disease) there is
+- अप भरतां (*apa bharatāṃ*)—may they destroy
+- द्यौः (*dyauḥ*)—O goddess of the heavenly world
+- पृथिवि (*pṛthivi*)—O Earth
+- क्षमा रपः (*kṣamā rapaḥ*)—destroy all diseases connected with the earth
+- ते (*te*)—(O Subandhu) you
+- किं चन (*kiṃ cana*)—no sin (no disease)
+- मो षु आममत् (*mo ṣu āmamat*)—may it not afflict
+
+##### भावार्थ (Bhāvārtha)
+
+May Heaven and Earth, of great nature and makers of the sacrifice, provide happiness to Subandhu and destroy all sins. By their grace may no sin afflict Subandhu.
+
+##### English translation
+May the great heaven and earth, the parents of sacrifice, (grant) happiness to Subandhu : heaven and earth, remove all iniquity ; let heaven (take away) iniquity : may no ill ever approach you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ द्व॒के अव॑ त्रि॒का दि॒वश्च॑रंति भेष॒जा ।  
+> क्ष॒मा च॑रि॒ष्णे॑क॒कं भर॑ता॒मप॒ यद्रपो॒ द्यौः पृ॑थिवि क्ष॒मा  
+> रसो॒ मो षु ते॒ किं च॒ नाम॑मत् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । द्वके इति । अव । त्रिका । दिवः । चरंति । भेषजा ।
+
+### Printed p. 384
+
+> क्षमा । चरिष्णु । एककं । भरतां । अप । यत् । रपः । द्यौः । पृथिवि । क्षमा । रपः ।  
+> मो इति । सु । ते । किं । चन । आममत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकाद्वेषजा भेषजानि द्वके द्विकं त्रिका त्रिकं चाव चरंति । अत्राश्विनौ द्विकमवचरतः । इळा सरस्वती भारती त्रिकमवचरंति । क्षमा क्षमायां चरिष्णु
+> चरत्येककमेकं भेषजमित्यभिप्रायमाह । तानि सर्वाणि सुबंधोः प्राणं रक्षंत्विति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+From the heavenly world, remedies come down in द्वके (*dvake*), the pair, and त्रिका (*trikā*), the triad. Here the two Aśvins descend as the pair; Iḷā, Sarasvatī and Bhāratī descend as the triad. On earth चरिष्णु (*cariṣṇu*) moves एककं (*ekakaṃ*), a single remedy: this is the purport he states. May all these protect the life of Subandhu—this is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—from the heavenly world
+- भेषजा (*bheṣajā*)—medicines that destroy disease
+- द्वके (*dvake*)—in the two forms of the Aśvin deities
+- त्रिका (*trikā*)—in the three forms Iḷā, Sarasvatī and Bhāratī
+- अव चरंति (*ava caraṃti*)—move about (come down to the earth)
+- क्षमा (*kṣamā*)—on earth
+- एककं (*ekakaṃ*)—in a single form
+- चरिष्णु (*cariṣṇu*)—it moves
+- यत् रसः (*yat rasaḥ*)—whatever (disease) sins there are
+- अप भरतां (*apa bharatāṃ*)—may they destroy
+- द्यौः (*dyauḥ*)—O goddess of the heavenly world
+- पृथिवि (*pṛthivi*)—O Earth
+- क्षमा रसः (*kṣamā rasaḥ*)—destroy all sins (diseases) connected with the earth
+- ते (*te*)—(O Subandhu) you
+- किं च न (*kiṃ ca na*)—no sin (disease)
+- मो षु आममत् (*mo ṣu āmamat*)—may it not afflict
+
+##### भावार्थ (Bhāvārtha)
+
+Medicines that destroy disease come down from the heavenly world to the earth in two forms, as the Aśvin deities, and in three forms, as Iḷā, Sarasvatī and Bhāratī; on the earth alone it has a single form. O Heaven and Earth, destroy all sins connected with the earth. O Subandhu, may no sin afflict you.
+
+##### English translation
+Remedies come down from heaven by tows and by threes : one wanders singly in heaven ; heaven and earth, remove all iniquity : let heaven (takc away) iniquity : may no ill ever approach you.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समिं॑द्रेरय॒ गाम॑न॒ड्वाहं॒ य आव॑हदुशी॒नरा॑ण्या॒ अनः॑ ।  
+> भर॑ता॒मप॒ यद्रपो॒ द्यौः पृ॑थिवि क्ष॒मा रपो॒ मो षु ते॒ किं  ॒॑
+> चनाममत् ॥ १० ॥
+
+### Printed p. 385
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । इंद्र । ईरय । गां । अनड्वाहं । यः । आ । अवहत् । उशीनराण्याः । अनः ।  
+> भरतां । अप । यत् । रपः । द्यौः । पृथिवि । क्षमा । रपः । मो इति । सु । ते । किं ।  
+> चन।आममत् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र समीरय प्रेरय । किं । गां गंतारमनड्वाहमनोवहनसमर्थं।
+> योऽनड्वानावहत् आवहत्यस्मान्प्रति । किं । अनः शकटं । कस्य । उशीनराण्या एतन्नामिकाया ओषधेः । ययार्तमनुलिंपंति सोशीनराणी । भरतामित्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, समीरय (*samīraya*), send. What? गां (*gāṃ*), the goer, the ox अनड्वाहं (*anaḍvāhaṃ*) able to draw a cart, which आवहत् (*āvahat*) brings to us. What? अनः (*anaḥ*), a cart. Of what? उशीनराण्याः (*uśīnarāṇyāḥ*), of the plant of this name, ययार्तमनुलिंपंति सोशीनराणी (*yayārtamanuliṃpaṃti sośīnarāṇī*). The words beginning भरतां (*bharatāṃ*) have been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- उशीनराण्याः (*uśīnarāṇyāḥ*)—loaded with the plant called Uśīnarāṇī
+- अनः (*anaḥ*)—the cart
+- यः (*yaḥ*)—which ox
+- आवहत् (*āvahat*)—brings
+- गां (*gāṃ*)—that moves comfortably
+- अनड्वाहं (*anaḍvāhaṃ*)—the ox
+- समीरय (*samīraya*)—send to us
+- यत् रपः (*yat rapaḥ*)—whatever sin in the form of disease there is
+- अप भरतां (*apa bharatāṃ*)—let it all be destroyed
+- द्यौः (*dyauḥ*)—O goddess of the heavenly world
+- पृथिवि (*pṛthivi*)—O Earth
+- क्षमा रपः (*kṣamā rapaḥ*)—destroy all diseases connected with the earth
+- ते (*te*)—(O Subandhu) you
+- किं चन (*kiṃ cana*)—no disease
+- मो षु आममत् (*mo ṣu āmamat*)—may it not afflict
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, send to us the ox that moves comfortably, the ox that brings the cart loaded with the plant called Uśīnarāṇī. Let all sin in the form of disease be destroyed. O goddess of the heavenly world, O Earth, destroy all diseases connected with the earth. O Subandhu, may no disease afflict you.
+
+##### English translation
+Send, Indra, the active ox, who may bring the cart (leaden with) the Ushinarani grass : heaven and earth, remove all iniquity ; let heaven (take away) iniquity ; may no ill ever approach you.
+
+## Sūkta 60 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ जनमिति द्वादशर्चमष्टादशं सूक्तं । गौपायना बंध्वादय ऋषयः ।
+> षष्ठ्यास्तगस्त्यस्य स्वसैन्यां मातर्षिका । आदितः पंच गायत्र्यः । अष्टमीनवम्या
+> 49
+
+##### Gist of the bhāṣya
+
+The sūkta beginning *ā janam* has twelve ṛks and is the eighteenth. The seers are Bandhu and others of the Gaupāyana line. Of the sixth, Agastya's sister is the mother-seer **NOTE**. The first five are in Gāyatrī; the eighth and ninth… (the text goes on).
+
 ---
 
-**Progress note:** Done through printed p. 379. pp. 374-379 (batch API)
+**Progress note:** Done through printed p. 385. pp. 380-385 (batch API)
