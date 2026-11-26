@@ -6220,6 +6220,273 @@ This is that Indra, by whom assisted by the Maruts, yonder heaven was conquered,
 
 We call with praises Indra, who is accompanied by the Maruts and has the ऋजीष (*ṛjīṣa*), the remainder of the pressed Soma, which is pressed again at the third pressing. He is endowed with strength: strength (ओजो (*ojo*)) is the name of the eighth stage of life; the meaning is that he is endowed with bodily growth. विरप्शिनम् (*virapśinam*) is a word meaning great: Indra, so great and of such majesty.
 
+### Printed p. 151
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वंतं (*marutvaṃtaṃ*)—accompanied by the Maruts
+- ऋजीषिणं (*ṛjīṣiṇaṃ*)—possessed of the Soma called ṛjīṣa
+- ओजस्वंतं (*ojasvaṃtaṃ*)—endowed with strength
+- विरप्शिनं (*virapśinaṃ*)—of great form
+- इंद्रं (*iṃdraṃ*)—Indra
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- हवामहे (*havāmahe*)—we call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+We call with praises, praying, Indra, who is accompanied by the Maruts, who has the Soma obtained from the ṛjīṣa, who is endowed with strength and of great form.
+
+##### English translation
+We invoke with our praises the mighty Indra, accompanied by the Maruts, the vigorous accepter of the residue of the oblation.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॑ प्र॒त्नेन॒ मन्म॑ना म॒रुत्वं॑तं हवामहे ।  
+> अ॒स्य सोम॑स्य पी॒तये॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रम् । प्रत्नेन । मन्मना । मरुत्वंतम् । हवामहे ।  
+> अस्य । सोमस्य । पीतये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्वंतम् इंद्रं प्रत्नेन पुराणेन मन्मना मननीयेन स्तोत्रेण हवामहे अस्य सोमस्य पीतये पानाय ॥ ॥ २७ ॥
+> पंचमेऽहनि मरुत्वतीये ‘मरुत्वाँ इंद्र मीढ्वः' इति तृचो निविद्धानीयः । सूत्रितं च- ‘ मरुत्वाँ इंद्र मीढ्वस्तमिंद्रं वाजयामसि' (आश्व. श्रौ. ८. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+We call Indra, who is accompanied by the Maruts, with an ancient and meditative hymn, to drink this Soma. On the fifth day, in the Marutvatīya, the triplet beginning मरुत्वाँ इंद्र मीढ्वः (*marutvām̐ iṃdra mīḍhvaḥ*) is to be recited among the nividdhānīya verses. It is also stated in the sūtra: मरुत्वाँ इंद्र मीढ्वस्तमिंद्रं वाजयामसि (*marutvām̐ iṃdra mīḍhvastamiṃdraṃ vājayāmasi*) (Āśv. Śrau. 8. 8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वंतं (*marutvaṃtaṃ*)—accompanied by the Maruts
+- इंद्रं (*iṃdraṃ*)—Indra
+- प्रत्नेन (*pratnena*)—with an ancient
+- मन्मना (*manmanā*)—meditative hymn
+- अस्य सोमस्य (*asya somasya*)—of this Soma
+- पीतये (*pītaye*)—for the drinking
+- हवामहे (*havāmahe*)—we call
+
+### Printed p. 152
+
+##### भावार्थ (Bhāvārtha)
+
+We call Indra, who is accompanied by the Maruts, with an ancient and meditative hymn, to drink this Soma.
+
+##### English translation
+With an ancient hymn we invoke Indra with the Maruts, to drink this Soma.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्वाँ॑ इंद्र मीढ्वः॒ पिबा॒ सोमं॑ शतक्रतो ।  
+> अ॒स्मिन्य॒ज्ञे पु॑रुष्टुत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्वान् । इंद्र । मीढ्वः । पिब । सोमम् । शतक्रतो इति शतऽक्रतो ।  
+> अस्मिन् । यज्ञे । पुरुऽस्तुत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मीढ्वः फलस्य वृष्टेर्वा सेक्तः शतक्रतो बहुकर्मन् इंद्र त्वं मरुत्वान् सोमं पिब अस्मिन् यज्ञे हे पुरुष्टुत बहुभिराहूत ॥
+
+##### Gist of the bhāṣya
+
+O showerer (mīḍhvaḥ) of fruit or of rain, O Śatakratu, of many works, Indra, accompanied by the Maruts, drink the Soma at this sacrifice. O Purustuta, invoked by many.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—worthy of the praise of many
+- मीढ्वः (*mīḍhvaḥ*)—who pours down rain
+- शतक्रतो (*śatakrato*)—doer of many works
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्वान् (*marutvān*)—you who are accompanied by the Maruts
+- अस्मिन् यज्ञे (*asmin yajñe*)—at this sacrifice
+- सोमं (*somaṃ*)—the Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the praise of many, who pours down rain, doer of many works, you who are accompanied by the Maruts, drink the Soma at this sacrifice.
+
+### Printed p. 153
+
+##### English translation
+Indra, Satakratu, showerer (of blessings), drink the Soma at this offering, accompanied by the Maruts, O invoked of many.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fifth day of the sacrifice, when the Marutvatīya śastra mantras are recited, this triplet beginning मरुत्वा इंद्र मीढ्वः (*marutvā iṃdra mīḍhvaḥ*) is to be included among the nividdhānīya mantras and recited, as is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra मरुत्वा इंद्र मीढ्वस्तमिंद्रं वाजयामसि (*marutvā iṃdra mīḍhvastamiṃdraṃ vājayāmasi*) (Ā. 8-8).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्येदिं॑द्र म॒रुत्व॑ते सु॒ताः सोमा॑सो अद्रिवः ।  
+> हृ॒दा हू॑यंत उ॒क्थिनः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । इत् । इंद्र । मरुत्वते । सुताः । सोमासः । अद्रिऽवः ।  
+> हृदा । हूयंते । उक्थिनः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः वज्रवन् इंद्र मरुत्वते तुभ्येत् तुभ्यमेव सोमासः सुताः अभिषुताः । ते च उक्थिनः शस्त्रवंतः हृदा मनसा भक्त्या हूयंते त्वदर्थम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, wielder of the thunderbolt (adrivaḥ), accompanied by the Maruts, for you alone the Soma juices are pressed. And the reciters of recitations (ukthinaḥ), possessed of śastras, call them for you with the heart, that is, with the mind, in devotion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आद्रिवः (*ādrivaḥ*)—bearer of the thunderbolt weapon
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्वते (*marutvate*)—accompanied by the Maruts
+- तुभ्येत् (*tubhyet*)—for you alone
+- सोमासः (*somāsaḥ*)—these Soma juices
+- सुताः (*sutāḥ*)—are pressed
+- उक्थिनः (*ukthinaḥ*)—these Soma juices, accompanied by praises in the form of ukthas
+- हृदा (*hṛdā*)—with a heart full of devotion
+- हूयंते (*hūyaṃte*)—are offered
+
+### Printed p. 154
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, for you who are accompanied by the Maruts these Soma juices are pressed. These Soma juices, accompanied by praises in the form of ukthas, are offered with a heart full of devotion.
+
+##### English translation
+Thunderer Indra, to you with the Maruts are these Soma-libations effused,—they are offered to you in faith, with recited hymns.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबेदिं॑द्र म॒रुत्स॑खा सु॒तं सोमं॒ दिवि॑ष्टिषु ।  
+> वज्रं॒ शिशा॑न॒ ओज॑सा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । इत् । इंद्र । मरुत्ऽसखा । सुतम् । सोमम् । दिविष्टिषु ।  
+> वज्रम् । शिशानः । ओजसा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मरुत्सखा त्वं सुतम् अभिषुतं सोमं पिब । किमर्थम् । दिविष्टिषु अस्माकमह्नामभिगमनेषु दिवः स्वर्गस्य वैषणेषु निमित्तेषु । पीत्वा च ओजसा बलेन सोमपानजनितेन वज्रं शिशानः तीक्ष्णीकुर्वन् । शत्रूंजहीति भावः ॥
+> चतुर्विंशेऽहनि प्रातःसवने ब्राह्मणाच्छंसिशस्त्रे ‘उत्तिष्ठन्' इति तृचः षळहस्तोत्रियः । सूत्रितं च - उत्तिष्ठन्नोजसा सह भिंधि विश्वा अप द्विष इति ब्राह्मणाच्छंसिनः ' (आश्व. श्रौ. ७. २) इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, friend of the Maruts, drink the Soma that is pressed. For what purpose? In the diviṣṭi, that is, on the approaches of our days of sacrifice, which are the occasions for the attainment of heaven. Having drunk, sharpen your thunderbolt with the strength produced by the drinking of Soma; the meaning is: slay the enemies. On the twenty-fourth day, at the morning pressing, in the śastra of the Brāhmaṇācchaṃsin, the triplet उत्तिष्ठन् (*uttiṣṭhan*) is the ṣaḷahastotriya. It is also stated in the sūtra: उत्तिष्ठन्नोजसा सह भिंधि विश्वा अप द्विष इति ब्राह्मणाच्छंसिनः (*uttiṣṭhannojasā saha bhiṃdhi viśvā apa dviṣa iti brāhmaṇācchaṃsinaḥ*) (Āśv. Śrau. 7. 2).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्सखा (*marutsakhā*)—you who are accompanied by the Maruts
+- दिविष्टिषु (*diviṣṭiṣu*)—on the days of our sacrifice
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—this Soma
+- दिवः (*divaḥ*)—for the sake of heaven
+- पिब (*piba*)—drink
+- ओजसा (*ojasā*)—by the strength of your Soma-drinking
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- शिशानः (*śiśānaḥ*)—having made it sharp, conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are accompanied by the Maruts, drink for the sake of heaven this Soma, pressed and made ready on the days of our sacrifice. Having made the thunderbolt weapon sharp by the strength of your Soma-drinking, conquer the enemies.
+
+### Printed p. 155
+
+##### English translation
+Drink, Indra, with your friends the Maruts, this Soma, effused on the recurring sacred days, and sharpen your thunderbolt with ( renewed ) vigour.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त्तिष्ठ॒न्नोज॑सा स॒ह पी॒त्वी शिप्रे॑ अवेपयः ।  
+> सोम॑मिंद्र च॒मू सु॒तम् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्ऽतिष्ठन् । ओजसा । सह । पीत्वी । शिप्रे इति । अवेपयः ।  
+> सोमम् । इंद्र । चमू इति । सुतम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पीत्वी पीत्वा ओजसा बलेन सह उत्तिष्ठन् शिप्रे हनू अवेपयः अकंपयः । मदावेशादिति भावः । किं पीत्वा । चमू चम्वोरधिषवणफलकयोः सुतं सोमम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, having drunk, rising up together with strength, you shook your two jaws (śipre); that is, because of the intoxication. What did you drink? The Soma pressed in the two camū, that is, on the two pressing boards.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- चमू (*camū*)—in the camū vessels
+- सुतं (*sutaṃ*)—pressed and offered
+- सोमं (*somaṃ*)—the Soma
+- पीत्वी (*pītvī*)—having drunk
+- ओजसा सह (*ojasā saha*)—together with that strength
+- उत्तिष्ठन् (*uttiṣṭhan*)—rising up
+- शिप्रे (*śipre*)—your cheeks
+- अवेपयः (*avepayaḥ*)—you shook
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, having drunk the Soma pressed and offered in the camū vessels, rising up together with that strength, you shook your cheeks.
+
+### Printed p. 156
+
+##### English translation
+Rising up in your strength, Indra, you shook your jaws, when you had quaffed the Soma pressed between the two boards.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called the twenty-fourth, at the time of the morning pressing, in the śastra mantras recited by the priest called Brāhmaṇācchaṃsin, the triplet beginning उत्तिष्ठन् (*uttiṣṭhan*) is to be recited as the ṣaḷahastotriya triplet, as is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra उत्तिष्ठन्नोजसा सह भिंधि विश्वा अप द्विष इति ब्राह्मणाच्छंसिनः (*uttiṣṭhannojasā saha bhiṃdhi viśvā apa dviṣa iti brāhmaṇācchaṃsinaḥ*) (A. 7-2).**NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ त्वा॒ रोद॑सी उ॒भे क्रक्ष॑माणमकृपेताम् ।  
+> इंद्र॒ यद्द॑स्यु॒हाभ॑वः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । त्वा । रोदसी इति । उभे इति । क्रक्षमाणम् । अकृपेताम् ।  
+> इंद्र । यत् । दस्युऽहा । अभवः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र क्रक्षमाणं शत्रून् विलिखंतं त्वा त्वाम् उभे रोदसी उभे अपि द्यावापृथिव्यौ अनु अकृपेताम् अनुकल्पयेताम् । यत् यदा दस्युहा अभवः भवसि तदा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you become the slayer of the Dasyus, both heaven and earth, both Rodasī, followed you, who were tearing the enemies apart (krakṣamāṇam), and gave their consent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- दस्युहा (*dasyuhā*)—as the destroyer of enemies
+- अभवः (*abhavaḥ*)—you become, then
+- क्रक्षमाणं (*krakṣamāṇaṃ*)—tearing the enemies apart
+- त्वा (*tvā*)—you
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- अनु अकृपेतां (*anu akṛpetāṃ*)—may they follow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you become the destroyer of enemies, then may both heaven and earth follow you, who tear the enemies apart.
+
 ---
 
-**Progress note:** Done through printed p. 150. Rk 15-16 of Sukta 75, Sukta 76 (Mandala 8) Rks 1-5, pp. 145-150
+**Progress note:** Done through printed p. 156. Sukta 76 (Mandala 8) Rks 6-11
