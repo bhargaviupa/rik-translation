@@ -3708,6 +3708,304 @@ Your juice dear (to the gods), flowing in a thousand streams, proceeds by ancien
 > चरुः । न । यः । तम् । ईंखय । इंदो इति । न । दानम् । ईंखय ।  
 > वधैः । वधस्नो इति वधऽस्नो । ईंखय ॥ ३ ॥
 
+### Printed p. 143
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम चरुर्न चरुरिव यः पूर्णोदनो भवति तमींखय अस्मान् प्रापय । अपि च हे इंदो न इदानीं दानं देयम् ईंखय । हे वधस्नो प्रहारेण प्रस्रवणशील सोम वधैः ग्राव्णां प्रहारैः ईंखय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, send to us (ईंखय (*īṃkhaya*)), that is, make us reach, the one who is like a cooked-rice offering (चरुर्न (*carurna*)), namely the one who is full of boiled rice. And further, O Indu, now send (ईंखय (*īṃkhaya*)) the gift (दानं (*dānaṃ*)), that which is fit to be given. O Soma (वधस्नो (*vadhasno*)), you who are by nature streaming forth through a blow, send it with blows (वधैः (*vadhaiḥ*)), that is, with the strokes of the pressing-stones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- चरुः न (*caruḥ na*)—like the cooked-rice offering made in the sacrifice
+- यः (*yaḥ*)—which is full of food
+- तं (*taṃ*)—that vessel of food
+- ईंखिय (*īṃkhiya*)—send to us **NOTE**
+- इंदो (*iṃdo*)—O divine Soma
+- न (*na*)—now
+- दानं (*dānaṃ*)—that which is fit to be given to us
+- ईंखिय (*īṃkhiya*)—send and give
+- वधस्नो (*vadhasno*)—O divine Soma, whose nature is to stream forth through the blows of the stones
+- वध्यैः (*vadhyaiḥ*)—that which is born of the blows of those same pressing-stones **NOTE**
+- ईंखिय (*īṃkhiya*)—send to us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, like the cooked-rice offering made in the sacrifice, send to us that vessel which is full of food. O divine Soma, send us right now that which is fit to be given to us. O divine Soma, whose nature is to stream forth as the result of the blows of the stones, send to us what is born of the blows of those same pressing-stones.
+
+##### English translation
+(Soma), send (us) him who is like a pot; Indu, send us now wealth; swift-flowing (Soma), send it with blows (of the stones).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि शुष्म॑मिंदवेषां॒ पुरु॑हूत॒ जना॑नाम् ।  
+> यो अ॒स्माँ आ॒दिदे॑शति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । शुष्मम् । इंदो इति । एषाम् । पुरुऽहूत । जनानाम् ।  
+> यः । अस्मान् । आऽदिदेशति ॥ ४ ॥
+
+### Printed p. 144
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूत इंदो सोम त्वं यः शुष्मो येषां शत्रुजनानां बलम् अस्मान् आदिदेशति बाधार्थमाह्वयति एषां शत्रुजनानां तं शुष्मं बलं नि न्यक् कुर्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, invoked of many (पुरुहूत (*puruhūta*)), that is, called by many: whatever strength (शुष्मो (*śuṣmo*)) of those enemy people summons us (आदिदेशति (*ādideśati*)) in order to harm us, that strength (शुष्मं (*śuṣmaṃ*)) of these enemy people, bring down (नि (*ni*)): the word "bring down" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- इंदो (*iṃdo*)—O divine Soma
+- यः (*yaḥ*)—whichever enemy's strength
+- अस्मान् (*asmān*)—us
+- आदिदेशति (*ādideśati*)—harms
+- एषां जनानां (*eṣāṃ janānāṃ*)—of those enemy people
+- शुष्मं (*śuṣmaṃ*)—the strength
+- नि (*ni*)—destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, worthy of the invocation of many, whichever enemy's strength harms us, destroy completely the strength of those enemy people.
+
+##### English translation
+Indu, the invoked of many, overthrow the strength of those people who challenge us.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं न॑ इंद ऊ॒तिभिः॑ स॒हस्रं॑ वा॒ शुची॑नाम् ।  
+> पव॑स्व मंह॒यद्र॑यिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतम् । नः । इंदो इति । ऊतिऽभिः । सहस्रम् । वा । शुचीनाम् ।  
+> पवस्व । मंहयत्ऽरयिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम मंहयद्रयिः प्रदीयमानधनस्त्वं नः अस्माकम् ऊतिभिः ऊतिभ्यः । विभक्तिव्यत्ययः । रक्षार्थं शुचीनां शुद्धानां तव अंशभूतानां सोमानां शतं सहस्रं वा पवस्व क्षर ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you who give wealth (मंहयद्रयिः (*maṃhayadrayiḥ*)), that is, one whose wealth is bestowed, flow (पवस्व (*pavasva*)), that is, stream forth, for our protection (ऊतिभिः (*ūtibhiḥ*): the instrumental stands for the dative), a hundred or a thousand (शतं सहस्रं वा (*śataṃ sahasraṃ vā*)) of your pure (शुचीनां (*śucīnāṃ*)), that is, clean, Somas that are parts of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- मंहयद्रयिः (*maṃhayadrayiḥ*)—you who give wealth
+- नः (*naḥ*)—our
+- ऊतिभिः (*ūtibhiḥ*)—for protection
+- शुचीनां (*śucīnāṃ*)—of the thoroughly pure juices
+- शतं सहस्रं वा (*śataṃ sahasraṃ vā*)—together with streams of many numbers
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who give wealth, for our protection make your thoroughly pure juices, of many streams, flow.
+
+##### English translation
+Indu, do you who are the distributor of riches, pour forth for our protection a hundred or a thousand of your pure (streams.)
+
+## Sūkta 53 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘उत्ते' इति चतुर्ऋचमेकोनत्रिंशं सूक्तं काश्यपस्यावत्सारस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुकांतम्-- उत्ते चतुष्कमवत्सारः' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उत्ते (*utte*) has four ṛks and is the twenty-ninth sūkta. Its seer is Avatsāra Kāśyapa, its metre is Gāyatrī, and its deity is Pavamāna Soma. So the Anukramaṇī says उत्ते चतुष्कमवत्सारः (*utte catuṣkamavatsāraḥ*). The use in the rite has been stated.
+
+This sūkta beginning उत्ते (*utte*) is the twenty-ninth sūkta in the second anuvāka. It contains four ṛks. Avatsāra, the son of the sage Kaśyapa, is the seer of this sūkta; Pavamāna Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said उत्ते चतुष्कमवत्सारः (*utte catuṣkamavatsāraḥ*). The use in the rite has been stated before.
+
+Sūkta 53. Maṇḍala 9, Anuvāka 2, Sūkta 53. Aṣṭaka 7, Adhyāya 1, Varga 10. Number of ṛks in the sūkta: 4. Seer: Avatsāra. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+### Printed p. 146
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ते॒ शुष्मा॑सो अस्थू॒ रक्षो॑ भिं॒दंतो॑ अद्रिवः ।  
+> नु॒दस्व॒ याः प॑रि॒स्पृधः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ते । शुष्मासः । अस्थुः । रक्षः । भिंदंतः । अद्रिऽवः ।  
+> नुदस्व । याः । परिऽस्पृधः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः ग्राववन् सोम ते तव शुष्मासः शुष्मा वेगाः रक्षः राक्षसान् भिंदंतः विदारयंतः उत अस्थुः उत्तिष्ठंति । याः स्पृधः स्पर्धमानाः शत्रुसेना अस्मान् प्रतिबाधंते तास्त्वं नुदस्व प्रेरय । बाधस्वेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are armed with stones (अद्रिवः (*adrivaḥ*)), your rushes (शुष्मासः (*śuṣmāsaḥ*)), that is, your impetuous movements, rise up (अस्थुः (*asthuḥ*)), splitting (भिंदंतः (*bhiṃdaṃtaḥ*)), that is, tearing apart, the Rākṣasas (रक्षः (*rakṣaḥ*)). Drive away (नुदस्व (*nudasva*)), that is, impel, crush, those contending (स्पृधः (*spṛdhaḥ*)) enemy armies that press upon us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O divine Soma, joined with the stones
+- ते (*te*)—your
+- शुष्मासः (*śuṣmāsaḥ*)—mighty powers
+- रक्षः (*rakṣaḥ*)—the Rākṣasas
+- भिंदंतः (*bhiṃdaṃtaḥ*)—destroying
+- उदस्थुः (*udasthuḥ*)—become manifest
+- परिस्पृधः (*parispṛdhaḥ*)—that fall upon us
+- याः (*yāḥ*)—whatever enemy armies there are, all of them
+- नुदस्व (*nudasva*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, joined with the stones, your mighty powers become manifest, destroying the Rākṣasas. Drive far away all the enemy armies that fall upon us.
+
+##### English translation
+(Soma) armed with the stones, your powerful ( streams ) rise up scattering the Rakshasas; drive away those who are our adversaries.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या नि॑ज॒घ्निरोज॑सा रथसं॒गे धने॑ हि॒ते ।  
+> स्तवा॒ अबि॑भ्युषा हृ॒दा ॥ २ ॥
+
+### Printed p. 147
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । निऽजघ्निः । ओजसा । रथऽसंगे । धने । हिते ।  
+> स्तवै । अबिभ्युषा । हृदा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वम् अया अनेन कृतेन ओजसा बलेन निजघ्निः शत्रून् हंतुं शीलवान् । तं त्वाम् अबिभ्युषा अभीतेन हृदा मनसा युक्तोऽहं रथसंगे अस्माकं रथानां संगे हिते शत्रुषु निहिते धने च निमित्ते स्तवै स्तौमि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are by nature a slayer (निजघ्निः (*nijaghniḥ*)) of enemies, through this (अया (*ayā*)) strength (ओजसा (*ojasā*)) that has been produced. I, joined with a fearless (अबिभ्युषा (*abibhyuṣā*)) heart (हृदा (*hṛdā*)), that is, mind, praise you (स्तवै (*stavai*)) in the meeting of our chariots (रथसंगे (*rathasaṃge*)), and for the sake of the wealth (धने (*dhane*)) that is lodged (हिते (*hite*)) among the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- आया (*āyā*)—in this way manifested **NOTE**
+- ओजसा (*ojasā*)—by strength
+- निजघ्निः (*nijaghniḥ*)—you are the destroyer of enemies
+- अभिभ्युषा (*abhibhyuṣā*)—fearless **NOTE**
+- हृदा (*hṛdā*)—I, joined with a heart (with devotion)
+- रथसंगे (*rathasaṃge*)—for the protection of the lines of our chariots
+- हिते (*hite*)—lodged among the enemies
+- धने (*dhane*)—and for the sake of wealth
+- स्तवै (*stavai*)—I praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, by the strength manifested as described above, you are the destroyer of enemies. I, joined with fearless devotion, praise you for the protection of our chariots and for the gain of the wealth lodged among the enemies.
+
+##### English translation
+(You are), by this strength the discomfiter (of foes): I praise you with a fearless heart for the sake of (our) line of chariots ranged ( against the foe ) and for the sake of wealth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॑ व्र॒तानि॒ नाधृषे॒ पव॑मानस्य दू॒ढ्या॑ ।  
+> रु॒ज यस्त्वा॑ पृत॒न्यति॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । व्रतानि । न । आऽधृषे । पवमानस्य । दुःऽध्या ।  
+> रुज । यः । त्वा । पृतन्यति ॥ ३ ॥
+
+### Printed p. 148
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानस्य क्षरतो यस्य अस्य तव व्रतानि कर्माणि दूढ्या दुर्बुद्धिना राक्षसेन नाधृषे आधर्षयितुमशक्यानि स त्वं त्वां यः दुर्बुद्धिः शत्रुः पृतन्यति योद्भुमिच्छति तं रुज बाधस्व॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who flow (पवमानस्य (*pavamānasya*)), whose works (व्रतानि (*vratāni*)) cannot be assailed (नाधृषे (*nādhṛṣe*)), that is, cannot be overpowered, by an evil-minded (दूढ्या (*dūḍhyā*)) Rākṣasa: shatter (रुज (*ruja*)), that is, crush, the evil-minded enemy who wishes to fight (पृतन्यति (*pṛtanyati*)) you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- पवमानस्य (*pavamānasya*)—of you who are of the nature of a pure current
+- अस्य (*asya*)—your
+- व्रतानि (*vratāni*)—works
+- दूढ्या (*dūḍhyā*)—by an Asura of evil mind
+- नाधृषे (*nādhṛṣe*)—are impossible to bear
+- यः (*yaḥ*)—whichever evil-minded enemy
+- त्वा (*tvā*)—with you
+- पृतन्यति (*pṛtanyati*)—wishes to fight, him
+- रुज (*ruja*)—harm and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, the works of you, who are joined with a pure current, an evil-minded Asura cannot withstand. Harm and destroy whichever evil-minded enemy wishes to fight with you.
+
+##### English translation
+The prowess of you (Soma) as you are poured forth is irresistible against the malignant (Rakshasa) : destroy him who defies you to battle.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं हि॑न्वंति मद॒च्युतं॒ हरिं॑ न॒दीषु॑ वा॒जिन॑म् ।  
+> इंदु॒मिंद्रा॑य मत्स॒रम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । हिन्वंति । मदऽच्युतम् । हरिम् । नदीषु । वाजिनम् ।  
+> इंदुम् । इंद्राय । मत्सरम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदच्युतं मदस्य च्यावयितारं हरिं हरितवर्णं वाजिनं बलिनं मत्सरं मदकरं तम् इंदुं सोमं नदीषु वसतीवरीषु इंद्राय इंद्रार्थं हिन्वंति ऋत्विजः प्रेरयंति ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+The priests (ṛtvij) impel (हिन्वंति (*hinvaṃti*)) for Indra (इंद्राय (*iṃdrāya*)) that Indu, Soma, among the rivers (नदीषु (*nadīṣu*)), that is, the waters called vasatīvarī: the one who makes the exhilaration flow (मदच्युतं (*madacyutaṃ*)), green-tinted (हरिं (*hariṃ*)), strong (वाजिनं (*vājinaṃ*)), and gladdening (मत्सरं (*matsaraṃ*)).
+
+### Printed p. 149
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदच्युतं (*madacyutaṃ*)—that which destroys the pride of enemies **NOTE**
+- हरिं (*hariṃ*)—that which is green in colour
+- वाजिनं (*vājinaṃ*)—that which is full of strength
+- मत्सरं (*matsaraṃ*)—and that which produces gladness
+- तं इंदुं (*taṃ iṃduṃ*)—that same Soma juice
+- इंद्राय (*iṃdrāya*)—for the drinking of Indra
+- नदीषु (*nadīṣu*)—in the waters called vasatīvarī
+- हिन्वंति (*hinvaṃti*)—they make it enter
+
+##### भावार्थ (Bhāvārtha)
+
+That same Soma juice, which destroys the pride of enemies, is green in colour, full of strength and produces gladness, they mix **NOTE** with the waters called vasatīvarī for the drinking of Indra.
+
+##### English translation
+( The priests ) plunge Indu, honey-dropiug, green-tinted, vigorous, exhilarating, into the waters for Indra.
+
+## Sūkta 54 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य प्रत्नाम्' इति चतुर्ऋचं त्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘ अस्य प्रत्नाम्' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अस्य प्रत्नाम् (*asya pratnām*) has four ṛks and is the thirtieth sūkta. The seer and the rest are as before. So the Anukramaṇī says अस्य प्रत्नाम् (*asya pratnām*). The use in the rite has been stated.
+
 ---
 
-**Progress note:** Done through printed p. 142. Maṇḍala 9, Sūkta 51 (Ṛk 1-5) and Sūkta 52 Ṛk 1-3 (pp. 137-142)
+**Progress note:** Done through printed p. 149. Maṇḍala 9, Sūkta 52 Ṛk 3-5, Sūkta 53, start of 54 (pp. 143-149)
