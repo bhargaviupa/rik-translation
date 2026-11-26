@@ -31369,6 +31369,280 @@ Pervading all forms, the pure, the desirable goes to the place where the immorta
 > अ॒रु॒षो ज॒नय॒न्गिरः॒ सोमः॑ पवत आयु॒षक् ।  
 > इंद्रं॒ गच्छ॑न्क॒विक्र॑तुः ॥ ५ ॥
 
+### Printed p. 774
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरुषः । जनयन् । गिरः । सोमः । पवते । आयुषक् ।  
+> इंद्रम् । गच्छन् । कविऽक्रतुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुषः आरोचमानः सोमः गिरः शब्दान् जनयन् पवते क्षरति । किं कुर्वन् । आयुषक् अनुषक्तम् इंद्रं गच्छन् व्याप्नुवन् कविक्रतुः क्रांतप्रज्ञः ॥
+
+##### Gist of the bhāṣya
+
+अरुषः (*aruṣaḥ*), the shining (आरोचमानः (*ārocamānaḥ*)) Soma, generating (जनयन् (*janayan*)) sounds (गिरः (*giraḥ*), that is, शब्दान् (*śabdān*)), flows (पवते (*pavate*), that is, streams). Doing what? Going to, that is, pervading, Indra, who is attached (आयुषक् (*āyuṣak*), that is, अनुषक्तम् (*anuṣaktam*)); he is कविक्रतुः (*kavikratuḥ*), of far-reaching wisdom (क्रांतप्रज्ञः (*krāṃtaprajñaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुषः (*aruṣaḥ*)—he who is shining
+- कविक्रतुः (*kavikratuḥ*)—he who is of far-reaching wisdom or has discriminating knowledge
+- सोमः (*somaḥ*)—the god Soma
+- आयुषक् (*āyuṣak*)—devoted to the drinking of Soma
+- इंद्रं (*iṃdraṃ*)—to Indra
+- गच्छन् (*gacchan*)—going
+- गिरः जनयन् (*giraḥ janayan*)—making a gurgling sound
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, of shining form and endowed with discriminating knowledge, flows with a gurgling sound as he goes to Indra, who is devoted to the drinking of Soma.
+
+##### English translation
+Endowed with wisdom of the past, the brilliant Soma, generating sounds, flows forth continually proceeding to Indra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व मदिंतम प॒वित्रं॒ धार॑या कवे ।  
+> अ॒र्कस्य॒ योनि॑मा॒सद॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । मदिन्ऽतम । पवित्रम् । धारया । कवे ।  
+> अर्कस्य । योनिम् । आऽसदम् ॥ ६ ॥
+
+### Printed p. 775
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदिंतम मादयितृतम कवे क्रांतप्रज्ञ सोम त्वं पवित्रम् अतिक्रम्य धारया आ पवस्व । किमर्थम् । अर्कस्य अर्चनीयस्येंद्रस्य योनिं स्थानम् आसदं प्राप्तुम् ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+O मदिंतम (*madiṃtama*), most gladdening, कवे (*kave*), of far-reaching wisdom, Soma, passing beyond the filter (पवित्रम् (*pavitram*), अतिक्रम्य (*atikramya*)), flow (आ पवस्व (*ā pavasva*)) in a stream (धारया (*dhārayā*)). For what purpose? To attain (प्राप्तुम् (*prāptum*)) the योनिं (*yoniṃ*), the place, of Indra, the worshipful (अर्कस्य अर्चनीयस्येंद्रस्य (*arkasya arcanīyasyeṃdrasya*)): the place to be reached is आसदं (*āsadaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतम (*madiṃtama*)—you who bring delight exceedingly
+- कवे (*kave*)—you, O Soma, of far-reaching wisdom
+- अर्कस्य (*arkasya*)—of the venerable Indra
+- योनिं (*yoniṃ*)—the place
+- आसदं (*āsadaṃ*)—in order to attain
+- पवित्रं (*pavitraṃ*)—passing beyond the ten-stranded filter, the means of purification
+- धारया (*dhārayā*)—in the form of a stream
+- आ पवस्व (*ā pavasva*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who bring delight exceedingly and are of far-reaching wisdom, in order to go to the place of the venerable Indra you flow in the form of a stream, bursting forth beyond the ten-stranded filter.
+
+##### English translation
+Most exhilarating and sage (Soma), flow through the filter in a stream, to attain the station of the adorable Indra.
+
+## Sūkta 26 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘तममृक्षंत' इति षडृचं द्वितीयं सूक्तं दृळ्हच्युतपुत्रस्येध्मवाहनाम्न आर्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रांतं च–' तममृक्षंतेध्मवाहो दार्ढच्युतः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta तममृक्षंत (*tamamṛkṣaṃta*) of six Ṛks is the second sūkta; its seer is the one named Idhmavāha, son of Dṛḷhacyuta; the metre is Gāyatra and the deity is Pavamāna Soma. In the Anukramaṇikā it is said तममृक्षंतेध्मवाहो दार्ढच्युतः (*tamamṛkṣaṃtedhmavāho dārḍhacyutaḥ*). The use has been stated.
+
+**NOTE**
+
+Anuvāda: This sūkta तमुमृक्षंत (*tamumṛkṣaṃta*) is the second sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is Idhmavāha, son of Dṛḷhacyuta; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said तममृक्षंतेध्मवाहो दार्थच्युतः (*tamamṛkṣaṃtedhmavāho dārthacyutaḥ*). The use in ritual has been stated before.
+
+**NOTE**
+
+### Printed p. 776
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 26. Aṣṭaka 6; Adhyāya 8; Varga 16. Number of Ṛks in the sūkta: 6.
+
+Seer: Idhmavāho Dārḍhyacyutaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑मृक्षंत वा॒जिन॑मु॒पस्थे॒ अदि॑ते॒रधि॑ ।  
+> विप्रा॑सो॒ अण्व्या॑ धि॒या ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । अमृक्षंत । वाजिनम् । उपऽस्थे । अदितेः । अधि ।  
+> विप्रासः । अण्व्या । धिया ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं वाजिनम् अश्वमश्ववदाशुम्। व्याप्तमित्यर्थः। अदितेः पृथिव्याः उपस्थे उत्संगे। अधि इति सप्तम्यर्थानुवादी । अमृक्षंत शोधितवंतः । के। विप्रासः मेधाविनोऽध्वर्य्वादयः । केन साधनेन । अण्व्या अंगुल्या धिया प्रज्ञया स्तुत्या वा अमृक्षंत । अथवाण्व्या सूक्ष्मया धियांगुल्येति विशेष्यविशेषणभावः ॥
+
+##### Gist of the bhāṣya
+
+That Soma is वाजिनम् (*vājinam*), a horse; like a horse, swift, that is, pervading. अदितेः (*aditeḥ*) means of the earth; उपस्थे (*upasthe*) means in the lap. अधि (*adhi*) restates the sense of the locative. अमृक्षंत (*amṛkṣaṃta*) means they have purified. Who? विप्रासः (*viprāsaḥ*), the wise, the Adhvaryu and the others. By what means? अण्व्या (*aṇvyā*), with the finger, with धिया (*dhiyā*), with intelligence or with praise, they have purified. Or else अण्व्या (*aṇvyā*) is with subtle (सूक्ष्मया (*sūkṣmayā*)) धिया (*dhiyā*), and अंगुल्या (*aṃgulyā*) is the finger: this is the relation of what is qualified and what qualifies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रासः (*viprāsaḥ*)—the wise priests, the Adhvaryu and others
+- वाजिनं (*vājinaṃ*)—this Soma, whose nature is to pervade swiftly like the going of a horse
+- अदितेः (*aditeḥ*)—of the earth
+- उपस्थे (*upasthe*)—in the ten-stranded filter, the place of her lap
+- अण्व्या (*aṇvyā*)—with their fingers
+- धिया (*dhiyā*)—and with praise
+- अमृक्षंत (*amṛkṣaṃta*)—have purified
+
+##### भावार्थ (Bhāvārtha)
+
+The wise priests, the Adhvaryu and the others, have placed this Soma, whose nature is to pervade everywhere swiftly, on the ten-stranded filter, which is the lap of the earth, and have purified it with their fingers and with praise (or together with ritual action).
+
+**NOTE**
+
+### Printed p. 777
+
+##### English translation
+The priests have cleansed that Soma, (swift as) a horse, on the lap of Aditi with fingers and with hymns.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं गावो॑ अ॒भ्य॑नूषत स॒हस्र॑धार॒मक्षि॑तम् ।  
+> इंदुं॑ ध॒र्तार॒मा दि॒वः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । गावः । अभि । अनूषत । सहस्रऽधारम् । अक्षितम् ।  
+> इंदुम् । धर्तारम् । आ । दिवः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं सोमं गावः गंत्र्यः स्तुतयः अभ्यनूषत अस्तुवन् । कीदृशं तम् । सहस्रधार बहुधारम् अक्षितम् अक्षीणम् इंदुं दीप्तं दिवः द्युलोकस्य आ धर्तारं सर्वतो धारकम् । सोमाधारत्वात् द्युलोकवासिनां संस्थानस्य ॥
+
+##### Gist of the bhāṣya
+
+The praises (गावः (*gāvaḥ*), that is, गंत्र्यः (*gaṃtryaḥ*), moving) praised (अभ्यनूषत (*abhyanūṣata*), that is, अस्तुवन् (*astuvan*)) that Soma. Of what kind is he? सहस्रधार (*sahasradhāra*), of many streams; अक्षितम् (*akṣitam*), inexhaustible; इंदुं (*iṃduṃ*), shining; आ धर्तारं (*ā dhartāraṃ*), the upholder on all sides of दिवः (*divaḥ*), the world of heaven, because he is the support of the dwelling of those who live in the heavenly world, for Soma.
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रधारं (*sahasradhāraṃ*)—that which trickles in countless streams
+- अक्षितं (*akṣitaṃ*)—that which does not decay, that is, is abundant
+- इंदुं (*iṃduṃ*)—that which is shining
+- दिवः (*divaḥ*)—heaven
+- आ धर्तारं (*ā dhartāraṃ*)—that which upholds and nourishes
+- तं (*taṃ*)—that Soma
+- गावः (*gāvaḥ*)—the words of praise
+- अभ्यनूषतॆ (*abhyanūṣatè*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which flows in many directions in countless streams, which is abundant and clear and upholds and nourishes the world of heaven, is praised and extolled by the words of the priests.
+
+##### English translation
+The chants celebrate that Indu flowing in a thousand streams, inexhaustible, the supporter of heaven.
+
+### Printed p. 778
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वे॒धां मे॒धया॑ह्य॒न्पव॑मान॒मधि॒ द्यवि॑ ।  
+> ध॒र्ण॒सिं भूरि॑धायसम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । वेधाम् । मेधया । अह्यन् । पवमानम् । अधि । द्यवि ।  
+> धर्णसिम् । भूरिऽधायसम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेधां विधातारं पवमानं तं मेधया प्रज्ञया अह्यन् प्रहिण्वंति । किं प्रति । अधि द्यवि द्युलोकं प्रति । पुनः कीदृशम् । धर्णसिं सर्वस्य धारकं भूरिधायसं बहूनां कर्तारम् ॥
+
+##### Gist of the bhāṣya
+
+Him, the purifying Soma, the वेधां (*vedhāṃ*), the ordainer, they send forth (अह्यन् (*ahyan*), that is, प्रहिण्वंति (*prahiṇvaṃti*)) with मेधया (*medhayā*), with intelligence. Towards what? अधि द्यवि (*adhi dyavi*), towards the world of heaven. Again, of what kind? धर्णसिं (*dharṇasiṃ*), the upholder of all; भूरिधायसं (*bhūridhāyasaṃ*), the maker of many.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधां (*vedhāṃ*)—the creator of everything
+- धर्णसिं (*dharṇasiṃ*)—the upholder of everything
+- भूरिधायसं (*bhūridhāyasaṃ*)—the doer of many acts
+- पवमानं (*pavamānaṃ*)—and purified in the ten-stranded filter
+- तं (*taṃ*)—that god Soma (the priests)
+- मेधया (*medhayā*)—with intelligence, that is, with praises
+- अधि दिवं (*adhi divaṃ*)—towards the world of heaven
+- अह्यन् (*ahyan*)—send forth
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, who brings everything into being, is the support of everything, the doer of many acts and purified in the ten-stranded filter; the priests praise him with their praises and send him forth towards the world of heaven.
+
+##### English translation
+They have elevated to heaven by their praise that creative purifying (Soma), the sustainer, the maker of many.
+
+##### विशेषविषयगळु (Special Topics)
+
+मेधया अधि दिवं अह्यन् (*medhayā adhi divaṃ ahyan*)—this Ṛk describes how the priests, by reciting mantras and the like, offer the Soma into the fire as an oblation, and how it goes through the fire to the intended gods in heaven.
+
+### Printed p. 779
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑ह्यन्भु॒रिजो॑र्धि॒या सं॒वसा॑नं वि॒वस्व॑तः ।  
+> पतिं॑ वा॒चो अदा॑भ्यम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । अह्यन् । भुरिजोः । धिया । सम्ऽवसानम् । विवस्वतः ।  
+> पतिम् । वाचः । अदाभ्यम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं सोमं विवस्वतः परिचरत ऋत्विजः भुरिजोः बाह्वोः धिया अंगुल्या अह्यन् प्राहिण्वन् । कीदृशं तम् । संवसानं वसंतं पात्रे वाचः स्तुतेः पतिं स्वामिनम् अदाभ्यम् अदंभनीयम् ॥
+
+##### Gist of the bhāṣya
+
+That Soma the priests who serve विवस्वतः (*vivasvataḥ*) sent forth (अह्यन् (*ahyan*), that is, प्राहिण्वन् (*prāhiṇvan*)) with भुरिजोः (*bhurijoḥ*), that is, with the arms; धिया (*dhiyā*) here means with the finger. Of what kind is he? संवसानं (*saṃvasānaṃ*), abiding in the vessel; पतिं (*patiṃ*), the lord, of वाचः (*vācaḥ*), praise; अदाभ्यम् (*adābhyam*), not to be injured.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संवसानं (*saṃvasānaṃ*)—that which is placed in the vessel
+- वाचः (*vācaḥ*)—of the words of praise
+- पतिं (*patiṃ*)—the lord
+- अदाभ्यं (*adābhyaṃ*)—and that which is unharmed
+- तं (*taṃ*)—that Soma
+- विवस्वतः (*vivasvataḥ*)—the priests who serve
+- भुरिजोः (*bhurijoḥ*)—of their arms
+- धिया (*dhiyā*)—with the finger
+- अह्यन् (*ahyan*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma, which is in vessels such as the Droṇa-kalaśa, which is worthy of praise and unharmed, the priests who serve it, the Adhvaryu and the others, carry with the fingers of their arms.
+
+##### English translation
+The worshippers have elevated by the fingers of their arms that unconquerable lord of praise abiding (in the vessels).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं साना॒वधि॑ जा॒मयो॒ हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
+> ह॒र्य॒तं भूरि॑चक्षसम् ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 773. Sūkta 24 Ṛk 6-7, Sūkta 25 Ṛk 1-4 (Ṛk 5 Saṃhitā)
+**Progress note:** Done through printed p. 779. Sūkta 25 Ṛk 5-6, Sūkta 26 Ṛk 1-4 (Ṛk 5 Saṃhitā)
