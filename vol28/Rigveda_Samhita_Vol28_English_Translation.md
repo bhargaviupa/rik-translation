@@ -3079,7 +3079,6 @@ Auspiciously radiant and divine Agni, youngest (of the gods), grant ample wealth
 > जन्मत्वैः ॥
 
 ### Printed p. 89
-## Sūkta 46 (Maṇḍala 10)
 
 > ॥ श्रीः ॥
 > ॥ श्री गणाधिपतये नमः ॥
@@ -3164,7 +3163,7 @@ O Agni, the sacrificers, addressing you, have held every day all the desired ric
 To you, Agni, the worshippers offer daily all desirable treasures ; (abiding) with you, desirous of wealth, the sages have set open the pasturage frequented by cattle.
 
 ### Printed p. 91
-#### Ṛk 3
+#### Ṛk 12
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -3317,6 +3316,8 @@ But here room remains for another doubt: Agni needs no other help to urge him on
 प्रजापतिरेषोऽग्निः । उभयमेतत्प्रजापतिर‍्यच्च देवा यच्च मनुष्यास्तद्यद्विष्णु क्रमवात्सप्रे भवतो यद्वेवास्य दैवग्ं रूपं तदस्य तेन संस्करोत्यथ यद्वनीवाह्यते तदेवास्य मानुषग्ं रूपं तदस्य तेन संस्करोति स ह वा एतग्ं सर्वं कृत्स्नं प्रजापतिग्ं संस्करोति य एवं विद्वान्वनीवाह्यते तस्मादु वनीवाह्यतैव ॥ (*prajāpatireṣo 'gniḥ | ubhayametatprajāpatiryacca devā yacca manuṣyāstadyadviṣṇu kramavātsapre bhavato yadvevāsya daivagṃ rūpaṃ tadasya tena saṃskarotyatha yadvanīvāhyate tadevāsya mānuṣagṃ rūpaṃ tadasya tena saṃskaroti sa ha vā etagṃ sarvaṃ kṛtsnaṃ prajāpatigṃ saṃskaroti ya evaṃ vidvānvanīvāhyate tasmādu vanīvāhyataiva ‖*) (Śa. Brā. 6-8-1-4)
 
 Prajāpati is Agni, and Agni is Prajāpati. Prajāpati, who has the form of Agni, is all the gods and men. By the performance of the Viṣṇukrama and Vatsapra he fashions the divine form. By the act that urges Agni forward he fashions the human form. Therefore, those who urge Agni forward with the help of both these acts fashion, as it were, the complete form of Prajāpati. Thus the greatness of the Vatsapra is praised.
+
+## Sūkta 46 (Maṇḍala 10)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -4756,7 +4757,9 @@ Maṇḍala 10; Anuvāka 4; Sūkta 48. Aṣṭaka 8; Adhyāya 1; Varga 5, 6. Num
 - पितरं न (*pitaraṃ na*)—as sons call their father with trust
 - हवंते (*havaṃte*)—they call
 
-#### Ṛk 2
+#### Ṛk 1
+
+**NOTE**
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -9821,20 +9824,6 @@ The twelfth sūkta, तां सु त (*tāṃ su ta*), of six Ṛks, has as 
 
 > समूढस्य दशरात्रस्य द्वितीये छंदोम एतत्तूक्तं । सूत्रितं च । अपूर्व्या पुरुतमानि तां सु ते कीर्तिं महा इंद्र । आ. ८-७ । इति ॥ महाव्रते निष्केवल्य एतत्तूक्तं । सूत्रितं च । तां सु ते कीर्तिं मघवन्महित्वा भूय इद्द्वावृधे वीर्याय।
 > ऐ. आ. ५-१-६ । इति ॥
-> आनुवादवु—तां सु ते ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि हन्नॆरडनॆय सूक्तवु.
-> इदरल्लि आरु ऋक्कुगळिरुववु. ई सूक्तक्कॆ वामदेवगोत्रद बृहदुक्थनॆंबुवनु ऋषियु, इंद्रनु
-> देवतॆयु; त्रिष्टुप्‌छंदस्सु. अनुक्रमणिकॆयल्लि—तां सु षट् बृहदुक्थो वामदेव्यः
-> ऎंदु हेळिरुवुदु. समूळ्ववॆंब दशरात्रयागद द्वितीयछंदोमदल्लि ई सूक्तवन्नु पठिस
-> बेकॆंदु आश्वलायनशौतसूत्रद—अपूर्णा पुरुतमानि तां सु ते कीर्तिं त्वं महा
-> इंद्र ऎंब सूत्रदिंद विवृतवागिरुवुदु. महाव्रतेष्टियल्लियू निष्केवल्यशस्त्रमंत्रगळल्लि ई
-> सूक्तवन्नु पठिसबेकॆंदु ऐतरेयारण्यकद तां सु ते कीर्तिं मघवन्महित्वा भूय इद्दावृधे वीर्याय ऎंब वाक्यदिंद (ऐ, आ. ५-१-६) निर्दिष्टवागिरुवुदु.
-> सूक्त—५४
-> मंडल—१० ॥ अनुवाक—४ ॥ सूक्त—५४ ॥
-> अष्टक—८ ॥ अध्याय—१ ॥ वर्ग—१५ ॥
-> सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
-> ऋषिः—बृहदुक्थो वामदेव्यः ॥
-> देवता—इंद्रः ॥
-> छंदः—त्रिष्टुप् ॥
 
 ##### Gist of the bhāṣya
 
@@ -11098,8 +11087,6 @@ As one crosses with a boat the water met on the way in going to the various quar
 ##### English translation
 As men pass over the water to the several quarters of the earth in a ship ; (as they pass over) all difficulties by the blessings (of fortune), Brihaduktha by his might has committed his own offspring to those on this side, and to those on the other side.
 
-## Sūkta 57 (Maṇḍala 10)
-
 **Introduction**
 The seers of the four sūktas from the 57th to the 60th of this Maṇḍala are the brothers beginning with Bandhu, the sons of Gopāyana. They were the family priests of a king of the Ikṣvāku line named Asamāti.
 
@@ -11126,6 +11113,8 @@ They praised Heaven and Earth for the destruction of the body's ill-health. Ill-
 Verses 98–101 follow in Sanskrit (Bṛ. De. Adhyāya 7). The Kannada explains them thus. As Agni was praised before in the Atri Maṇḍala (Maṇḍala 5, sūkta 24), so now too they praised Agni with Ṛks in the dvipadā virāṭ metre. Agni, satisfied by this, spoke thus: "O Bandhu and the others, behold, the life of your brother Subandhu and that of the king of the Ikṣvāku line (Asamāti) is right within the circle of the sacrificial fire. Until now I myself have been guarding the lives of these two." Saying this, and saying "O Subandhu, live again," he gave his life back to him. Then Agni, greatly praised by the Gaupāyanas, that is, by Bandhu and the others, the sons of Gopāyana, went off to heaven, glad. Afterwards Bandhu and the others, with satisfied minds, called back the life (the self) of Subandhu with the 7th Ṛk of this sūkta, आयं माता (*āyaṃ mātā*). They showed Subandhu's body lying there motionless, prayed that it should enter it again, and for that purpose, that is, so that life might arise in the dead body, they recited the Ṛks of this sūkta to the end. Reciting the last (12th) Ṛk, आयं मे हस्ते भगवान् (*āyaṃ me haste bhagavān*), each of the three brothers separately touched Subandhu, now alive again, with his hands.
 
 ### Printed p. 354
+
+## Sūkta 57 (Maṇḍala 10)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -11156,7 +11145,7 @@ This sūkta, मा प्र गाम (*mā pra gāma*), is the fifteenth sūk
 
 to "having recited the Gāyatra auspicious hymn of six Ṛks, मा प्र गाम (*mā pra gāma*)." The use is as follows. That a householder is to recite this sūkta when he leaves his Agnihotra and the like and goes to another place is explained by the Āśvalāyana Śrautasūtra, the sūtra प्रव्रजेदनपेक्षमाणो (*pravrajedanapekṣamāṇo*) and following words (Ā. 2-5). That the officiating priests are to recite this sūkta also in the iṣṭi called Mahāpitṛyajña is explained by the Āśvalāyana Śrautasūtra, the sūtra ending इति जपंतः (*iti japaṃtaḥ*) (Ā. 2-19). And when, in reciting the nivid sūkta, another sūkta has to be recited, this sūkta is to be recited in its place, that is, in exchange for it, and the nivid sūkta is to be inserted in the middle of the other sūkta, as the Āśvalāyana Śrautasūtra explains in the sūtra स्थानं चेन्निविदोऽतिहरेन्मा (*sthānaṃ cennivido 'tiharenmā*) and following words (Ā. 6-6).
 
-## Sūkta 57
+Sūkta 57
 Maṇḍala 10. Anuvāka 4. Sūkta 57.
 Aṣṭaka 8. Adhyāya 1. Varga 19.
 Number of Ṛks in the sūkta: 6.
@@ -19303,7 +19292,7 @@ Maṇḍala 10; Anuvāka 5; Sūkta 67. Aṣṭaka 8; Adhyāya 2; Vargas 15, 16. 
 
 ### Printed p. 560
 
-#### Ṛk
+#### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
