@@ -6487,6 +6487,247 @@ O Indra, when you become the slayer of the Dasyus, both heaven and earth, both R
 
 O Indra, when you become the destroyer of enemies, then may both heaven and earth follow you, who tear the enemies apart.
 
+### Printed p. 157
+
+##### English translation
+Let heaven and earth follow you Indra, as you smite; when you beat down the Dasyu.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाच॑म॒ष्टाप॑दीम॒हं नव॑स्रक्तिमृत॒स्पृश॑म् ।  
+> इंद्रा॒त्परि॑ त॒न्वं॑ ममे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाचम् । अष्टाऽपदीम् । अहम् । नवऽस्रक्तिम् । ऋतऽस्पृशम् ।  
+> इंद्रात् । परि । तन्वम् । ममे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अष्टापदीम् । अष्टाभिर्दिग्भिर्विदिग्भिः साष्टापदी । नवस्रक्तिम् उपरि स्थितेनादित्येन नवस्रक्तिम् । आसु दिक्षु व्याप्तमित्यर्थः । ऋतस्पृशं यज्ञस्पृशं वाचं स्तुतिम् अहं परिपूर्णत् इंद्रात् तन्वं तनुं न्यूनां सती परि ममे । अन्यूनेयत्तां करोमीत्यर्थः । कार्येस्न्  न स्वरूपं स्तुत्या विषयीकर्तुमशक्यत्वादिति भावः ॥ ॥ २८ ॥
+
+##### Gist of the bhāṣya
+
+The speech (vāc) is ashṭāpadī, "eight-footed", because it is accompanied by the eight directions and intermediate directions; it is navasrakti, "nine-edged", because it is pervaded by the sun standing above; the meaning is that it extends over these directions. I measure out this speech, which touches the sacrifice (ṛta), that is, the hymn of praise, as being less than the full Indra; the meaning is: I make it of a measure that falls short. The sense is that his own nature cannot be made the object of praise by a hymn.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अष्टापदीं (*aṣṭāpadīṃ*)—pervading the eight directions and intermediate directions
+- नवस्रक्तिं (*navasraktiṃ*)—even though it is to pervade also the ninth, the solar orb
+- ऋतस्पृशं (*ṛtaspṛśaṃ*)—connected with the sacrifice
+- वाचं (*vācaṃ*)—my hymn
+- अहं (*ahaṃ*)—I
+- इंद्रात् (*iṃdrāt*)—than the perfect Indra
+- तस्नं (*tasnaṃ*)—as lacking
+- परि ममे (*pari mame*)—I regard
+
+##### भावार्थ (Bhāvārtha)
+
+Even though this hymn of mine, connected with the sacrifice, pervades the eight directions and intermediate directions, and pervades also the ninth, the solar orb, I regard it as unable to praise fully the complete excellence of the perfect Indra.
+
+### Printed p. 158
+
+##### English translation
+I make this sacrificial hymn, reaching to the eight points (of the sky) and rising to a ninth (the sun in the zenith), though it is less than ( the dimensions of) Indra.
+
+## Sūkta 77 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘जज्ञानः' इत्येकादशर्चमष्टमं सूक्तं काण्वस्य कुरुसुतेरार्षम् । आद्या नव गायत्र्यो दशमी बृहत्येकादशी सतोबृहती । इंद्रो देवता । तथा चानुक्रांतं- जज्ञान एकादश प्रगाथांतम्' इति । महाव्रते निष्केवल्ये 'जज्ञानो नु शतक्रतुः' इत्येषा । तथैव पंचमारण्यके सूत्रितं- जज्ञानो नु शतक्रतुरित्येका' (ऐ. आ. ५. २. ३) इति
+
+##### Gist of the bhāṣya
+
+The sūkta beginning जज्ञानः (*jajñānaḥ*) has eleven verses; it is the eighth sūkta and its seer is Kurusuti of the Kaṇva line. The first nine verses are in Gāyatrī, the tenth in Bṛhatī, the eleventh in Satobṛhatī. The deity is Indra. So the Anukramaṇī says: जज्ञान एकादश प्रगाथांतम् (*jajñāna ekādaśa pragāthāṃtam*). In the Mahāvrata, in the Niṣkevalya, the verse जज्ञानो नु शतक्रतुः (*jajñāno nu śatakratuḥ*) is recited. So also it is stated in the fifth Āraṇyaka: जज्ञानो नु शतक्रतुरित्येका (*jajñāno nu śatakraturityekā*) (Ai. Ā. 5. 2. 3).**NOTE**
+
+This sūkta beginning जज्ञानः (*jajñānaḥ*) is the eighth sūkta in the eighth Anuvāka. It has eleven Ṛks. The seer of this sūkta is Kurusuti, born in the Kaṇva line. The first nine Ṛks of this sūkta are in the Gāyatrī metre, the tenth in Bṛhatī, the eleventh in Satobṛhatī. Indra is the deity; so it is said in the Anukramaṇī: जज्ञान एकादश प्रगथांतं (*jajñāna ekādaśa pragathāṃtaṃ*). At the Mahāvrata sacrifice, when reciting the Niṣkevalya śastra mantras, this Ṛk beginning जज्ञानो नु शतक्रतुः (*jajñāno nu śatakratuḥ*) is to be recited, as is explained in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence जज्ञानो नु शतक्रतुरित्येषा (*jajñāno nu śatakraturityeṣā*) (Ai. Ā. 5-2-7).
+
+Sūkta—77
+Maṇḍala—8 ‖ Anuvāka—8 ‖ Sūkta—77 ‖
+Aṣṭaka—6 ‖ Adhyāya—5 ‖ Varga—29, 30 ‖
+Number of Ṛks in the sūkta—11 ‖
+Ṛṣi—Kurusutiḥ Kāṇvaḥ ‖
+Devatā—Indraḥ ‖
+Chandas—1-9, Gāyatrī; 10, Bṛhatī; 11, Satobṛhatī ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒ज्ञा॒नो नु श॒तक्र॑तु॒र्वि पृ॑च्छ॒दिति॑ मा॒तर॑म् ।  
+> क उ॒ग्राः के ह॑ शृण्विरे ॥ १ ॥
+
+### Printed p. 159
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जज्ञानः । नु । शतऽक्रतुः । वि । पृच्छत् । इति । मातरम् ।  
+> के । उग्राः । के । ह । शृण्विरे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः जज्ञानो नु जायमान एव शतक्रतुः बहुकर्मा इति इत्थं मातरं स्वजननीं विपृच्छति । किमिति । क उग्राः उद्गूर्णबला लोके । के ह श्रृण्विरे श्रूयंते गुणैः । के विश्रुता इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, Śatakratu, of many works, as soon as he is born, asks his mother in this way: who are the fierce ones, of uplifted strength, in the world, and who are heard of for their qualities, that is, who are renowned?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्राः (*ugrāḥ*)—those possessed of exceeding strength
+- के के ह (*ke ke ha*)—who, who
+- शृण्विरे (*śṛṇvire*)—are renowned
+- इति (*iti*)—thus
+- जज्ञानो नु (*jajñāno nu*)—immediately on being born
+- शतक्रतुः (*śatakratuḥ*)—Indra, doer of many works
+- मातरं (*mātaraṃ*)—his mother
+- वि पृच्छत् (*vi pṛcchat*)—asked
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, doer of many works, immediately on being born asked his mother who are the mighty and powerful ones of exceeding strength, and who are renowned.
+
+##### English translation
+As soon as he was born Satakratu asked his mother-Who are the mighty, who are renowned ?
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदीं॑ शव॒स्य॑ब्रवीदौर्णवा॒भम॑ही॒शुव॑म् ।  
+> ते पु॑त्र संतु नि॒ष्टुरः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ईम् । शवसी । अब्रवीत् । और्णऽवाभम् । अहीशुवम् ।  
+> ते । पुत्र । संतु । निःऽतुरः ॥ २ ॥
+
+### Printed p. 160
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रेण पृष्टा शवसी माता अनंतरमेव एनमिंद्रम् अब्रवीत् । किमिति उच्यते । और्णवाभमहीशुवम् एतन्नामानावसुरौ तिष्ठतः । तावुक्तावन्ये च तादृशा हे पुत्र तव निष्टुरः निस्तारणीयाः संतु इति ॥
+
+##### Gist of the bhāṣya
+
+Questioned by Indra, his mother Śavasī at once said to him: there are two asuras named और्णवाभमहीशुवम् (*aurṇavābhamahīśuvam*), and others like them; O son, let them be ones to be overcome by you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुत्र (*putra*)—O child
+- और्णवाभं (*aurṇavābhaṃ*)—the one called Aurṇavābha
+- अहीशुवं (*ahīśuvaṃ*)—and the one called Ahīśuva, the two
+- ते (*te*)—by you
+- निष्टुरः (*niṣṭuraḥ*)—to be harshly conquered
+- संतु (*saṃtu*)—are, thus
+- आत् ईं (*āt īṃ*)—as soon as asked by Indra
+- शवसी (*śavasī*)—the mother of Indra, full of strength
+- अब्रवीत् (*abravīt*)—said to her son
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as she was asked by Indra, the mother of Indra, full of strength, said to her son: O child, the one called Aurṇavābha and the one called Ahīśuva, these two are to be conquered harshly by you.
+
+##### English translation
+His strong mother answered,—Aurnavabha and Ahishuva, be these my son, the foes whom you shall overcome.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समित्तान्वृ॑त्र॒हाखि॑द॒त्खे अ॒राँ इ॑व॒ खेद॑या ।  
+> प्रवृ॑द्धो दस्यु॒हाभ॑वत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । इत् । तान् । वृत्रऽहा । अखिदत् । खे । अरान्ऽइव । खेदया ।  
+> प्रऽवृद्धः । दस्युऽहा । अभवत् ॥ ३ ॥
+
+### Printed p. 161
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तान् जनन्योक्तान् वृत्रहा इंद्रः समित् सहैव अखिदत्। खेदनं नाम आकर्षणम् । खे रथचक्रस्य नाभौ अरान् चक्रांगभूतांछंकून् खेदया रज्ज्वा इव । तया तान् यथा संखिदंति तद्वत् । तथा कृत्वा दस्युहा शत्रुघातींद्रः प्रवृद्धः अभवत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, the slayer of Vṛtra, dragged together those spoken of by his mother. Khedana means dragging. As the spokes, the parts of a wheel, in the nave (kha) of a chariot wheel are drawn together by a rope (khedayā), so he drew them together; having done so, Indra, the slayer of Dasyus and destroyer of enemies, became greatly grown.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of Vṛtra
+- समित् (*samit*)—as soon as thus spoken to by his mother
+- खे (*khe*)—on the rim of the chariot wheel
+- अरान् (*arān*)—the spokes
+- खेदया इव (*khedayā iva*)—as one ties with a rope and drags
+- तान् (*tān*)—those enemies
+- अखिदत् (*akhidat*)—dragged along with a scraping noise
+- दस्युहा (*dasyuhā*)—the same Indra, destroyer of enemies
+- प्रवृद्धः (*pravṛddhaḥ*)—endowed with growth
+- अभवत् (*abhavat*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the slayer of Vṛtra, as soon as he was thus spoken to by his mother, dragged those enemies along with a scraping noise, as one ties the spokes with a rope on the rim of a chariot wheel and drags them. The same Indra, destroyer of enemies, then became endowed with growth.
+
+##### English translation
+The slayer of Vritra dragged them along as spokes (are tied fast) with a rope in the nave of a chariot wheel: he swelled in vigour, the slayer of enemies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एक॑या प्रति॒धापि॑बत्सा॒कं सरां॑सि त्रिं॒शत॑म् ।  
+> इंद्रः॒ सोम॑स्य काणु॒का ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकया । प्रतिऽधा । अपिबत् । साकम् । सरांसि । त्रिंशतम् ।  
+> इंद्रः । सोमस्य । काणुका ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 162
+
+> अयम् इंद्रः एकया एकेन प्रतिधा प्रतिधानेन साकम् एकधैव त्रिंशतम् अपि । उक्थपात्राणीत्यर्थः । कीदृशानि । सरांसि सोमस्य पूर्णानि सोमरसेन पूर्णानि काणुका कांतानि क्रांतानि वा सोमेन कृतानि वा सोमपूर्णानि अपिबत् पीतवान् माध्यंदिनसवने । याज्ञिकप्रसिद्ध्यैवम् । नैरुक्तप्रसिद्ध्या तु कालाभिमानींद्रः । त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत् पूर्वपक्षस्य च संति । तानेकरूपमनुभवतीति । एतत्सर्वम् ‘एकेन प्रतिधानेनापिबत्' (निरु. ५. ११) इत्यादिनिरुक्ते तद्व्याख्याने च स्पष्टमुक्तम् । तदत्र द्रष्टव्यम् ॥
+
+##### Gist of the bhāṣya
+
+This Indra drank thirty vessels at once, with one pratidhā, that is, with one drawing; the meaning is, the uktha vessels. Of what kind? Lakes (sarāṃsi) filled with Soma, that is, filled with Soma juice, kāṇukā, that is, delightful or traversed, or made by Soma, or full of Soma. He drank them at the midday pressing. So it is according to the sacrificial tradition. According to the Nairukta tradition, however, Indra is the presiding power of time: of the dark half there are thirty days and nights, and of the bright half also; he experiences them as one form. All this is clearly stated in the Nirukta passage एकेन प्रतिधानेनापिबत् (*ekena pratidhānenāpibat*) and the rest (Ni. 5. 11), and in its commentary; it is to be seen there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरांसि (*sarāṃsi*)—those that are like lakes
+- सोमस्य (*somasya*)—filled with Soma
+- काणुका (*kāṇukā*)—attractive
+- त्रिंशतं (*triṃśataṃ*)—the Soma of thirty vessels
+- इंद्रः (*iṃdraḥ*)—Indra
+- एकया प्रतिधा (*ekayā pratidhā*)—with a single draught
+- साकं (*sākaṃ*)—in one go
+- अपिबत् (*apibat*)—drank
+
+##### भावार्थ (Bhāvārtha)
+
+Indra drank in one go, with a single draught, the Soma of thirty vessels, which are like lakes, full of Soma and attractive.
+
+##### English translation
+At one draught Indra drank at once thrity lakes filled with Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Kāṇukā: to state the meaning of this word, Yāska has given an explanation of this Ṛk.
+
+एकेन प्रतिधानेनापिबत् साकं सहेत्यर्थः । इंद्रः सोमस्य काणुका कांतकानीति वा क्रांतकानीति वा कृतकानीति वा . (*ekena pratidhānenāpibat sākaṃ sahetyarthaḥ | iṃdraḥ somasya kāṇukā kāṃtakānīti vā krāṃtakānīti vā kṛtakānīti vā .*) **GLOSS**
+
+इंद्रः सोमस्य कांत इति वा कणेः घात इति वा कणेः हतः कांतियुतः ॥ (*iṃdraḥ somasya kāṃta iti vā kaṇeḥ ghāta iti vā kaṇeḥ hataḥ kāṃtiyutaḥ ‖*) **GLOSS**
+
+तत्रैतदाज्ञिका वेदयंते । त्रिंशदुष्ठपात्राणि माध्यंदिने सवन एकदेवतानि तान्येतस्मिन् काल एकेन प्रतिधानेन पिबति तान्यत्र सरांग्युच्यंते ॥ (*tatraitadājñikā vedayaṃte | triṃśaduṣṭhapātrāṇi mādhyaṃdine savana ekadevatāni tānyetasmin kāla ekena pratidhānena pibati tānyatra sarāṃgyucyaṃte ‖*) **GLOSS**
+
+त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत् पूर्वपक्षस्येति नैरुक्ताः । तस्या एता चांद्रमस्य आगामिस्य आप्यो भवंति रश्मयस्ता अपरपक्षे पिबति । तथापि (*triṃśadaparapakṣasyāhorātrāstriṃśat pūrvapakṣasyeti nairuktāḥ | tasyā etā cāṃdramasya āgāmisya āpyo bhavaṃti raśmayastā aparapakṣe pibati | tathāpi*) **GLOSS**
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 156. Sukta 76 (Mandala 8) Rks 6-11
+**Progress note:** Done through printed p. 162. Suktas 76 Rks 11-12 and 77 Rks 1-4
