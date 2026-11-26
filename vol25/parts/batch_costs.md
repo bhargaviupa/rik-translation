@@ -23,3 +23,4 @@
 | through p. 307 (three windows in one agent: pp. 290-307) | sonnet | 14 | 172364 | 4.9 |
 | through p. 325 (three windows in one agent: pp. 308-325) | sonnet | 17 | 182304 | 5.2 |
 batch 20 (pp. 326–343): 155,768 tokens
+batch 21 (pp. 344–361): 147,439 tokens
