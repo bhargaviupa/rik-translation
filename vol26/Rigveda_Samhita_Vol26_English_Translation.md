@@ -6020,6 +6020,295 @@ Flow forth with that juice of yours which is exhilarating, the best gratifying t
 > जघ्निः । वृत्रम् । अमित्रियम् । सस्निः । वाजम् । दिवेऽदिवे ।  
 > गोऽसाः । ऊं इति । अश्वऽसाः । असि ॥ २० ॥
 
+### Printed p. 194
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वम् अमित्रियम् अमित्रभवं वृत्रं शत्रुं जघ्निः हंता असि भवसि । किंच दिवेदिवे प्रतिदिनं वाजं संग्रामं सस्निः संभक्तासि । किंच गोषाः गवां दातासि । अश्वसाः अश्वानां दाता चासि ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are the slayer of the enemy Vṛtra, the one born of hostility. Further, day by day you are the partaker of the battle. Further, you are the giver of cows and also the giver of horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमित्रियं (*amitriyaṃ*)—who fosters enmity
+- वृत्रं (*vṛtraṃ*)—the demon
+- जघ्निः (*jaghniḥ*)—as the slayer
+- असि (*asi*)—you are
+- दिनेदिवे (*dinedive*)—every day **NOTE**
+- वाजं (*vājaṃ*)—the battle
+- सस्निः (*sasniḥ*)—you desire
+- गोषाः (*goṣāḥ*)—the giver of cows
+- अश्वसाः (*aśvasāḥ*)—the giver of horses
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you destroy the demon who fosters enmity. You desire battle with him every day. You are the giver of cows and the giver of horses.
+
+##### English translation
+You are the slayer of the hostile Vritra, the enjoyer of battle day by day, the giver of cows and the giver of horses.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम्मि॑श्लो अरु॒षो भ॑व सूप॒स्थाभि॒र्न धे॒नुभिः॑ ।  
+> सीदं॑छ्ये॒नो न योनि॒मा ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम्ऽमिश्लः । अरुषः । भव । सुऽउपस्थाभिः । न । धेनुऽभिः ।  
+> सीदन् । श्येनः । न । योनिम् । आ ॥ २१ ॥
+
+### Printed p. 195
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं सूपस्थाभिः शोभनोपस्थानाभिः धेनुभिः गोभिः । गोविकारैः पयोभिरित्यर्थः । संमिश्लः संमिश्रितः श्येनो न यथा श्येनः शीघ्रमागत्य स्थानमासीदति तद्वत् योनिं स्वकीयं स्थानम् आ सीदन् । न संप्रत्यर्थे । इदानीम् अरुषः आरोचमानः भव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, mixed with the milch cows of good lap, that is, with the milk, the products of cows, like a falcon that quickly arrives and settles in its place, settle in your own place. Here न (*na*) is used in the sense of "now". Now become resplendent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूपस्थाभिः (*sūpasthābhiḥ*)—having an excellent place of refuge
+- धेनुभिः (*dhenubhiḥ*)—with milk
+- संमिश्लः (*saṃmiślaḥ*)—joined
+- श्येनो न (*śyeno na*)—coming swiftly like a falcon
+- योनिं (*yoniṃ*)—in your place of sacrifice
+- आ सीदन् (*ā sīdan*)—sitting down
+- न (*na*)—now
+- अरुषः (*aruṣaḥ*)—shining
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, joined with the milk that has an excellent place of refuge, coming swiftly like a falcon and sitting down in your place of sacrifice, be now resplendent.
+
+##### English translation
+Be now resplendent, mixed with the supporting (products of the) milch cows, alighting like a falcon on your place.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑वस्व॒ य आवि॒थेंद्रं॑ वृ॒त्राय॒ हंत॑वे ।  
+> व॒व्रि॒वांसं॑ म॒हीर॒पः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवस्व । यः । आविथ । इंद्रम् । वृत्राय । हंतवे ।  
+> वव्रिऽवांसम् । महीः । अपः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यः त्वं महीः महतीः अपः महांत्युदकानि वव्रिवांसं निरुंधानं वृत्राय वृत्रं हंतवे हंतुम् इंद्रम् आविथ अरक्षः सः त्वं पवस्व धारया क्षर । सोमं पीत्वा मत्त: सन्निंद्रो महांत्युदकानि निरुंधानं वृत्रं जघानेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who helped Indra to slay Vṛtra, who was holding back the great waters, such as you flow in a stream. The meaning is that Indra, having drunk Soma and being exhilarated, slew Vṛtra who was obstructing the great waters.
+
+### Printed p. 196
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महीः (*mahīḥ*)—great
+- अपः (*apaḥ*)—waters
+- वव्रिवांसं (*vavrivāṃsaṃ*)—who had held back
+- वृत्राय (*vṛtrāya*)—the demon Vṛtra
+- हंतवे (*haṃtave*)—in order to destroy
+- इंद्रं (*iṃdraṃ*)—Indra
+- यः (*yaḥ*)—you who
+- आविथ (*āvitha*)—helped
+- सः (*saḥ*)—such you
+- पवस्व (*pavasva*)—flow in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who helped Indra to destroy the demon Vṛtra, who had held back the great waters, such as you flow in the form of a stream.
+
+##### English translation
+Flow you who helped Indra to slay Vritra, who obstructed the grea waters. **NOTE**
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वीरा॑सो व॒यं धना॒ जये॑म सोम मीढ्वः ।  
+> पु॒ना॒नो व॑र्ध नो॒ गिरः॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽवीरासः । वयम् । धना । जयेम । सोम । मीढ्वः ।  
+> पुनानः । वर्ध । नः । गिरः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवीरासः सुवीराः कल्याणपुत्राः वयम् अमहीयव आंगिरसाः धना शत्रूणां धनानि जयेम । शत्रून् जित्वा तदीयानि धनानि स्वीकुर्यामेत्यर्थः । हे मीढ्वः सेक्तः सोम पुनानः पूयमानस्त्वं नः अस्माकं गिरः स्तुतिरूपा वाचश्च वर्ध वर्धय ॥
+
+##### Gist of the bhāṣya
+
+We, the अमहीयव आंगिरसाः (*amahīyava āṃgirasāḥ*), having good sons, would conquer the wealth of our enemies; the meaning is that, having conquered the enemies, we would take possession of their wealth. O Soma, the sprinkler, being purified, increase our words of praise, our speech in the form of eulogy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीढ्वः (*mīḍhvaḥ*)—O bestower of desires
+- सोम (*soma*)—O divine Soma
+- वयं (*vayaṃ*)—we
+- सुवीरासः (*suvīrāsaḥ*)—accompanied by excellent heroic sons
+- धना (*dhanā*)—the wealth of enemies
+- जयेम (*jayema*)—may we conquer
+- पुनासः (*punāsaḥ*)—you, the purifier **NOTE**
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words of praise
+- वर्ध (*vardha*)—make thrive
+
+### Printed p. 197
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, bestower of desires, may we, accompanied by excellent heroic sons, conquer the wealth of enemies. You, the purifier, make our words of praise thrive.
+
+##### English translation
+May we, possessed of excellent male offspring, conquer the wealth (of our enemies), O Soma, the sprinkler; being purified, accept our praises.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वोता॑स॒स्तवाव॑सा॒ स्याम॑ व॒न्वंत॑ आ॒मुरः॑ ।  
+> सोम॑ व्र॒तेषु॑ जागृहि ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाऽऊतासः । तव । अवसा । स्याम । वन्वंतः । आऽमुरः ।  
+> सोम । व्रतेषु । जागृहि ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तव त्वदीयेन अवसा रक्षणेन त्वोतासः त्वया रक्षिताः संतः वन्वंतः शत्रून् भजमानाः आमुरः तेषामभिमारकाः स्याम भवेम । व्रतेषु अस्माकं कर्मसु जागृहि प्रबुद्धो भव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, protected by you, through your protection, may we become those who वन्वंतः (*vanvaṃtaḥ*), that is, who attend upon the enemies, and आमुरः (*āmuraḥ*), their destroyers. Be awake in our rites, be watchful. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- तव (*tava*)—your
+- अवसा (*avasā*)—by the protection
+- त्वोतासः (*tvotāsaḥ*)—we who are protected
+- वन्वंतः (*vanvaṃtaḥ*)—enjoying the wealth of enemies
+- आमुरः (*āmuraḥ*)—and their destroyers
+- स्याम (*syāma*)—may we become
+- व्रतेषु (*vrateṣu*)—in our sacrificial rites
+- जागृहि (*jāgṛhi*)—be watchful
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, protected by your protection, may we become enjoyers of the wealth of enemies and their destroyers. Be watchful in our sacrificial rites.
+
+##### English translation
+Protected by you, through your protection may we be victorious, slaying (our enemies); be vigilant, Soma, at our sacrificees.
+
+### Printed p. 198
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प॒घ्नन्प॑वते॒ मृधोऽप॒ सोमो॒ अरा॑व्णः ।  
+> गच्छ॒न्निंद्र॑स्य निष्कृ॒तम् ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपऽघ्नन् । पवते । मृधः । अप । सोमः । अराव्णः ।  
+> गच्छन् । इंद्रस्य । निःऽकृतम् ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः मृधः हिंसकांछत्रून् अपघ्नन् मारयन् अराव्णः शक्तौ सत्यां धनानामदातॄंश्च अप घ्नन् इंद्रस्य निष्कृतं स्थानं गच्छन् प्राप्नुवन् पवते धारया क्षरति ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+Soma, slaying the violent enemies, and slaying those who give no wealth though able to give, goes to Indra's prepared place and flows in a stream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—the divine Soma
+- मृधः (*mṛdhaḥ*)—the violent enemies
+- अपघ्नन् (*apaghnan*)—destroying
+- अराव्हः (*arāvhaḥ*)—the misers who are wealthy yet give nothing **NOTE**
+- अप (*apa*)—destroying
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- निष्कृतं (*niṣkṛtaṃ*)—the place
+- गच्छन् (*gacchan*)—in order to go and reach
+- पवते (*pavate*)—flows in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Soma, destroying the violent enemies and destroying the misers who are wealthy yet give nothing, flows in the form of a stream in order to go and reach the place of Indra.
+
+##### English translation
+The Soma flows, slaying the malignant, slaying the withholders (of wealth), proceeding to Indra's consecrated (station).
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो नो॑ रा॒य आ भ॑र॒ पव॑मान ज॒ही मृधः॑ ।  
+> रास्वें॑दो वी॒रव॒द्यशः॑ ॥ २६ ॥
+
+### Printed p. 199
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । नः । रायः । आ । भर । पवमान । जहि । मृधः ।  
+> रास्व । इंदो इति । वीरऽवत् । यशः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान इंदो सोम नः अस्माकं महः महांति रायः धनानि आ भर आहर । मृधः हिंसकांछत्रूंश्च जहि मारय । वीरवत् पुत्राद्युपेतां यशः कीर्तिं च रास्व अस्मभ्यं देहि ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Indu, Soma, bring us great riches. Slay the violent enemies. Grant us fame, together with sons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifier
+- इंदो (*iṃdo*)—O divine Soma
+- नः (*naḥ*)—to us
+- महः (*mahaḥ*)—great
+- रायः (*rāyaḥ*)—riches
+- आ भर (*ā bhara*)—bring
+- मृधः (*mṛdhaḥ*)—the violent enemies
+- जहि (*jahi*)—destroy
+- वीरवत् (*vīravat*)—accompanied by heroic sons and the like
+- यशः (*yaśaḥ*)—fame
+- रास्व (*rāsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O purifier, divine Soma, bring us great riches. Destroy the violent enemies. Give us fame accompanied by heroic sons and the like.
+
+##### English translation
+Bring us, purifier, much wealth : conquer our foes; grant us, Indu fame and male offspring.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वा॑ श॒तं च॒न ह्रुतो॒ राधो॒ दित्सं॑त॒मा मि॑नन् ।  
+> यत्पु॑ना॒नो म॑ख॒स्यसे॑ ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । त्वा । शतम् । चन । ह्रुतः । राधः । दित्संतम् । आ । मिनन् ।  
+> यत् । पुनानः । मखस्यसे ॥ २७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 193. Mandala 9 sukta 61 rks 13-20 (pp. 188-193)
+**Progress note:** Done through printed p. 199. Mandala 9 sukta 61 rks 20-27 (pp. 194-199)
