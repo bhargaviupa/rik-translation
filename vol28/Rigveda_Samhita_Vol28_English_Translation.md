@@ -368,6 +368,291 @@ As an archer (अस्ता (*astā*)) shoots very well a swifter (प्र�
 - विप्राः (*viprāḥ*)—O wise praisers
 - वाचा (*vācā*)—with your praise
 
+### Printed p. 13
+- of the enemy
+- वाचं (*vācaṃ*)—the praise-word
+- तरत (*tarata*)—surpass
+- जरितः (*jaritaḥ*)—O worshipper
+- सोमे (*some*)—in the Soma sacrifice
+- इंद्रं (*iṃdraṃ*)—Indra
+- नि रमय (*ni ramaya*)—make (him) sport
+
+##### भावार्थ (Bhāvārtha)
+
+Offer this hymn to Indra as an archer aims and looses a swift arrow that reaches its mark, and as a painter, wholly absorbed in his pictures, applies colours to them. O wise worshippers, surpass by your praise the praise-words of the enemy. O worshipper, make Indra sport at the Soma sacrifice.
+
+##### English translation
+Direct your laudation to him, (Indra), like an archer aiming a larger arrow (to its mark), like a decorator (applying his ornaments) : surpass by your praises, sages, the praises of your adversaries; delight Indra, worshipper, by the (offering of the) Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दोहे॑न॒ गामुप॑ शिक्षा॒ सखा॑यं॒ प्र बो॑धय जरितर्जा॒रमिंद्रं॑ ।  
+> कोशं॒ न पू॒र्णं वसु॑ना॒ न्यृ॑ष्ट॒मा च्या॑वय मघ॒देया॑य॒  ॑
+> शूरं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दोहेन । गां । उप । शिक्ष । सखायं । प्र । बोधय । जरितः । जारं । इंद्रं ।  
+> कोकं । न । पूर्णं । वसुना । नियष्टं । आ । च्यदय । मघदेयाय । शूरं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जरितः त्वं दोहेन कामानां दोहनार्थं गां गोरूपं सखायं
+> प्रियमिंद्रमुप शिक्ष । वशं नय । किंच जारं भूतानां जरयितारमिंद्रं प्र
+> बोधय । स्तुतिभिः प्रबुद्धं कुरु । किंच पूर्णमुदकेन पूरितं कोशं न पात्र-
+
+##### Gist of the bhāṣya
+
+"O worshipper, for the milking out of your wishes win over Indra, your dear friend, who is here as it were in the form of a cow (गां (*gāṃ*)): bring him under your control. Further, awaken Indra, the one who makes beings grow old (जारं (*jāraṃ*)), by your praises, make him fully awake. And further, like a vessel (कोशं न (*kośaṃ na*)) filled full of water, filled with wealth, gold and the like, bowed down, the hero Indra, make him come toward us for the giving of wealth."
+
+### Printed p. 14
+
+> मिव वसुना हिरण्यादिना धनेन नृष्टं नीचैर्गतं शूरं वीरमिंद्रं मघदेयाय
+> धनदानाया च्यवय । अभिमुखं कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The end of the sentence: the hero Indra, bowed down with the burden of wealth, is to be brought to face us, so that he may give wealth.
+
+**Pratipadartha**
+- जरितः (*jaritaḥ*)—O worshipper
+- दोहेन (*dohena*)—for the milking of milk
+- गां (*gāṃ*)—as one stops a cow and makes it stand
+- सखायां (*sakhāyāṃ*)—the friend
+- इंद्रं (*iṃdraṃ*)—Indra
+- उप शिक्ष (*upa śikṣa*)—stop and keep (him) with yourself
+- जारं (*jāraṃ*)—Indra, who brings old age on beings
+- प्रबोधय (*prabodhaya*)—awaken
+- पूर्णं (*pūrṇaṃ*)—full of water
+- कोशं न (*kośaṃ na*)—like a vessel
+- वसुना (*vasunā*)—by the burden of wealth
+- नृष्टं (*nṛṣṭaṃ*)—bowed down
+- शूरं (*śūraṃ*)—the hero, Indra
+- मघदेयाय (*maghadeyāya*)—for the distribution of wealth
+- आ च्यवय (*ā cyavaya*)—make (him) turn toward us
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipper, stop and keep your friend Indra with you, as one stops a cow to milk her. Awaken Indra, who brings old age on beings. Make Indra, the hero, bowed down with the burden of wealth like a vessel full of water, turn toward us for the distribution of wealth.
+
+##### English translation
+Control, worshipper, your friend(Indra), like a cow for your milking: awake, Indra, the author of decay; bring down for the distribution of wealth the hero who is pressed down with wealth like a vessel full (of water)
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमं॒ग त्वा॑ मघवन्नो॒जमा॑हुः शिती॒हि मा॑ त्रिश॒यं त्वा॑ शृ  
+> होमि ।  
+> अप्न॑स्वती॒ मम॒ धीर॑स्तु शक्र वस्तु॒विदं॒ भग॑मिं॒द्रा भ॑रा नः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कं । अंगत्वा । मघवन् । भोजं । आहुः । शिशिहि । मा । शिशयं । त्वा । शृणोमि ।  
+> अप्पसुती । मम । धीः । अस्तु । शक्त । वस्तुविदं । भगं । इंद्र । आ । भर । सः ॥ ३ ॥
+
+### Printed p. 15
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगेति सामान्याह्वानं । अंग हे मघवन्थनवञ्चक्रेंद्र त्वा त्वां किं किमर्थं
+> भोजं स्तोतृणां भोजकमभीष्टमाहुः सर्वे विद्वांसः । यदि न ददासीत्यध्याहारः । तस्माद्ददास्केव स्तोतृभ्यो धनानीत्यर्थः । तथा सति मा स्तोतारं शिशीहि ।
+> धनदानेन तीक्ष्णीकुरु । त्वा त्वां शिशयं स्तोतृणां संस्कर्तारं शृणोमि । किंच
+> मम धीर्बुद्धिरप्पस्वती कर्मवत्यस्तु । भवतु । किंच नोऽस्माकं वसुविदं धनस
+> लंबकं भगं भाग्यमा भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+अंग (*aṃga*) is a general form of address. "O Maghavan, O wealthy Indra, why do all the learned call you भोजं (*bhojaṃ*), the one who feeds the singers, the giver of what they desire?" One must supply: "if you do not give". Therefore you should give wealth to the singers. That being so, "sharpen me, the singer": make me keen by the gift of wealth. "I hear you as शिशयं (*śiśayaṃ*), the one who refines (संस्कर्तारं (*saṃskartāraṃ*)) the singers." And "let my understanding be अप्पस्वती (*appasvatī*), endowed with works." And "bring us the fortune (भगं (*bhagaṃ*)) that finds wealth."
+
+**Pratipadartha**
+- अंग (*aṃga*)—O revered one
+- मघवन् (*maghavan*)—O wealthy one
+- शक्र (*śakra*)—O Indra
+- त्वा (*tvā*)—you
+- किं (*kiṃ*)—for what reason
+- भोजं (*bhojaṃ*)—as the giver of enjoyment to the worshippers
+- आहुः (*āhuḥ*)—they have said
+- (therefore) मा (*mā*)—me
+- शिशीहि (*śiśīhi*)—invigorate by the gift of wealth
+- त्वा (*tvā*)—you
+- शिशयं (*śiśayaṃ*)—as the one who refines
+- कृणोमि (*kṛṇomi*)—I have heard
+- मम (*mama*)—my
+- धीः (*dhīḥ*)—understanding
+- अप्पस्वती (*appasvatī*)—devoted to rites
+- अस्तु (*astu*)—let it be
+- नः (*naḥ*)—to us
+- वसुविदं (*vasuvidaṃ*)—that brings wealth
+- भगं (*bhagaṃ*)—fortune
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O revered and wealthy Indra, for what reason have they called you the giver of enjoyment to the worshippers? Therefore invigorate me by the gift of wealth. I have heard of you as such a refiner. Make my understanding devoted to rites. Provide us the fortune that brings wealth.
+
+##### English translation
+Why, Maghavat, do (the wise) call you the nourisher(of worshippers)? Quicken me, (Indra), with wealth, (for) I hear that you are the quickener (of the worshippers); may my understanding, Shakra, be productive of works; grant us, Indra, a destiny that brings wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां जना॑ ममस॒त्येष्विं॑द्र संतस्था॒ना वि ह्व॑यंते समी॒के ।  
+> अत्ता॒ युजं॑ कृणुते॒ यो ह॒विष्मा॒न्नासु॑न्वता स॒ख्यं व॑ष्टि॒ शूरः॑॥
+
+### Printed p. 16
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । जनाः । ममसत्येषु । इंद्र । संतस्तानाः । दि । ह्ययंते । संईके ।  
+> अत्र । युजं । कृणुते । यः । हविष्मान् । न । अगुन्नता । सख्यं । दष्टि । तदः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वां जना ममसत्येषु संग्रामेषु वि द्वयंते ! विविधमात्रयंति
+> साहाय्यार्थं । एतदेव दर्शयति । समीके युद्धे संतस्थाः सह शिष्यतेन जना
+> वि द्वयंत इति । अश्रास्मिन्नाह्वाने स शूरो वीर इंद्रस्तं युजं सहायं कृणुंते
+> कुरुते यो हविष्मान्भवति ! असुन्वता सोमाभिसवमकुर्वता पुरुषेण सह सख्यं
+> सखित्वं न वष्टि । न कामयते ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, people call upon you in battles (ममसत्येषु (*mamasatyeṣu*), i.e. conflicts) in manifold ways, for help." This is what he shows: standing together in the fight (समीके (*samīke*)) with joint effort, people call upon you. At this call the hero Indra makes his ally (युजं (*yujaṃ*)) the one who is a bearer of oblations (हविष्मान् (*haviṣmān*)). With a man who does not press Soma (असुन्वता (*asunvatā*)) he does not desire (न वष्टि (*na vaṣṭi*)) friendship.
+
+**Pratipadartha**
+- इंद्र (*iṃdra*)—O Indra
+- त्वां (*tvāṃ*)—you
+- the people (printed जनाति (*janāti*))
+- ममसत्येषु (*mamasatyeṣu*)—in the battles
+- विह्वयंते (*vihvayaṃte*)—call in many ways
+- समीके (*samīke*)—in battle
+- युजं (*yujaṃ*)—as a friend
+- कृणुते (*kṛṇute*)—they make
+- अत्र (*atra*)—at these times
+- यः (*yaḥ*)—whichever battle **NOTE**
+- हविष्मात् (*haviṣmāt*)—the one who has the oblation
+- शूरः (*śūraḥ*)—the hero Indra
+- युजं (*yujaṃ*)—as a friend
+- कृणुते (*kṛṇute*)—I make for myself **NOTE**
+- असुन्वता (*asunvatā*)—with one who does not press the leaking things **NOTE**
+- सख्यं (*sakhyaṃ*)—friendship
+- न वष्टि (*na vaṣṭi*)—does not desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, people call you in battles in manifold ways. In battle they make you their friend. At these times, whichever sacrificer provides the oblation, the hero Indra makes him his friend. Indra does not desire friendship without drying up the Soma. **NOTE**
+
+##### English translation
+The people earnestly call upon you in battles, Indra, (they call upon you) when standing together in the conflict : at this(call) Indra makes him his friend who offers oblations; the hero desires not friendship with him who presents no libation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धन्वं॒ न स्यं॒द्रं ब॑हु॒लं यो अ॑स्मै ती॒व्रान्तोस्मा॑ आस्तु॒नोति॒  
+> प्रय॑स्वान् ।
+
+### Printed p. 17
+
+> तस्मै शत्रून्तुसतुकान्प्रातरह्नो नि सृष्टान्त्युवति हंति वृत्रं ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धनं । न । स्कंद्रं । बहुलं । यः । अस्मै । तीव्रान् । सोमान् । आऽनुनोति ।  
+> प्रयॆस्वान् ।  
+> तस्मै । शत्रुन् । स्तुतुकान् । प्रातः । अह्नः । नि । सुअष्टान् । युवति । हंति ।  
+> वृत्रं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रयस्मान् हविष्मान्यो यजमानः स्यंद्रं स्यंदनशीलं गवाश्वादिकं
+> बहुलं प्रभूतं धनं न यथा धनं दरिद्राय पात्रभूताय दातुं संस्करोति
+> तद्वदस्मा इंद्राय तीव्रांस्त्रीव्ररसान्नोमानासुनोति अभिषुगोति । अभिषवाख्येन
+> संस्कारेण संस्करोतीत्यर्थः। तस्यॆ यजमानाय प्रातरह्मः पूर्वाह्ने सुतुकान्सुप्रेरणाज्योभनपुत्रसहितान्वा स्पष्टाज्योभनायुधाण्यत्रून्नि युवति । स इंद्रः
+> पृथक्करोति । किंच वृत्रं तदीयमुपद्रवं हंति हिनस्ति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who has oblations (हविष्मान् (*haviṣmān*)) is ready, as one is ready to give abundant moving wealth (स्यंद्रं (*syaṃdraṃ*)), cattle, horses and the like, to a poor man who is a fit recipient. In the same way he presses (आसुनोति (*āsunoti*)) for this Indra strong-flavoured Soma juices; that is, he refines him with the rite called pressing. For that sacrificer, in the forenoon (प्रातरह्नः (*prātarahnaḥ*)), Indra separates off (नि युवति (*ni yuvati*)) the enemies, who are सुतुकान् (*sutukān*), "of good impulse", or "with fine sons", and *spaṣṭān*, "with fine weapons". And he destroys Vṛtra, their trouble.
+
+**Pratipadartha**
+- स्यंद्रं (*syaṃdraṃ*)—moving
+- बहुलं (*bahulaṃ*)—abundant
+- धनं न (*dhanaṃ na*)—as wealth is given to a poor man
+- प्रयस्मान् (*prayasmān*)—endowed with oblation
+- यः (*yaḥ*)—the sacrificer who
+- अस्मै (*asmai*)—for Indra
+- तीव्रान् (*tīvrān*)—intoxicating
+- सोमान् (*somān*)—Soma juices
+- आसुनोति (*āsunoti*)—presses and offers
+- तस्मै (*tasmai*)—for that sacrificer
+- प्रातरह्नः (*prātarahnaḥ*)—in the forenoon itself
+- सुतुकान् (*sutukān*)—those with good helpers **NOTE**
+- स्वष्टान् (*svaṣṭān*)—those with good weapons
+- शत्रून् (*śatrūn*)—enemies
+- नि युवति (*ni yuvati*)—drives far away
+- वृत्रं (*vṛtraṃ*)—their violence
+- हंति (*haṃti*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+As one gives abundant, moving wealth in the form of cattle and the like to a poor man, the sacrificer endowed with oblation who presses and offers intoxicating Soma juices to Indra: for that sacrificer, in the forenoon itself, Indra drives far away the enemies who have good helpers and good weapons. He destroys their violence.
+
+##### English translation
+The bearer of the oblation who offers to Indra the sharp Soma-juices, like much moveable wealth (given to the poor)—for him in the fore
+
+### Printed p. 18
+part of the day Indra scatters his eager and well-armed (enemies), and defeats his foe.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॑न्व॒यं द॑धि॒मा शंस॒मिंद्रॆ॒ यः शि॒श्राय॑ म॒घवा॒ काम॑म॒स्मे ।  
+> आ॒राच्चि॒त्सन्व॑यतामस्य॒ शत्रु॒र्न्य॑स्मै द्यु॒म्ना जन्मा॑ नमंतां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । वयं । दधिम । शंसं । इंद्रे । यः । शिश्राय । मघवा । कामं । अस्मे  
+> इति ।  
+> आरात् । चित् । सन् । भयतां । अस्य । शत्रुः । नि । अस्मै । द्युम्ना । जन्मा । नमंतां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्निंद्रे वयं घौषेयाः सुहस्ताः शंसं स्तुतिं दधिम विदध्य । यश्च
+> मघवा धनवानिंद्रोऽस्मे अस्मासु काममभिलाषं शिप्राय श्राययति । अस्येंद्रस्य
+> शत्रुराराद्दूर एव संक्षित् सन्नपि भयतां । बिभेतु । किंबास्मा इंद्रिय जन्मा
+> जन्यानि शत्रुजनपदभवानि द्युम्ना द्युम्नास्यन्नानि नि समंतां । प्रह्वीफपंतु ।
+> भोजनीयानि भवंतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"In which Indra we, the घौषेयाः सुहस्ताः (*ghauṣeyāḥ suhastāḥ*), have set (दधिम (*dadhima*)) praise (शंसं (*śaṃsaṃ*)), and who, as the wealthy one (मघवा (*maghavā*)), fulfils (शिश्राय (*śiśrāya*)) our desire: the enemy of this Indra, even though far away, let him fear. And let the enemy-country-born foods (द्युम्ना (*dyumnā*)) bow down to him, let them submit; that is, let them become fit for his enjoyment."
+
+**Pratipadartha**
+- यस्मिन् इंद्रे (*yasmin iṃdre*)—in which Indra
+- वयं (*vayaṃ*)—we
+- शंसं (*śaṃsaṃ*)—praise
+- दधिम (*dadhima*)—we offer
+- यः (*yaḥ*)—who
+- मघवा (*maghavā*)—the wealthy one, such Indra
+- अस्यॆ (*asyè*)—in us
+- कामं (*kāmaṃ*)—the desired object
+- शिश्राय (*śiśrāya*)—fulfils
+- अस्य (*asya*)—of this Indra
+- शत्रुः (*śatruḥ*)—the enemy
+- आरात् सन् चित् (*ārāt san cit*)—even while being far away
+- भयतां (*bhayatāṃ*)—let him fear
+- अस्यॆ (*asyè*)—to this Indra
+- जन्या (*janyā*)—produced in the country of the enemy people
+- द्युम्ना (*dyumnā*)—all wealth of food
+- नि नमंतां (*ni namaṃtāṃ*)—let them come under his sway
+
+The Indra in whom we have set praise, the wealthy one, fulfils our desired objects. The enemy of this Indra fears even while he is far away. May all the food-wealth produced in the country of the enemy people come under the sway of this Indra.
+
 ---
 
-**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
+**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
