@@ -9477,6 +9477,307 @@ Green-tinted (Soma) lauded by hymns, being dropped into the curds and milk and b
 > पुनानः । देवऽवीतये । इंद्रस्य । याहि । निःऽकृतम् ।  
 > द्युतानः । वाजिऽभिः । यतः ॥ १५ ॥
 
+### Printed p. 266
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम द्युतानः दीप्यमानः वाजिभिः बलिभिर्यजमानैः यतः संगृहीतः देववीतये यज्ञार्थं पुनानः पूयमानस्त्वम् इंद्रस्य निष्कृतं स्थानं याहि गच्छ॥ ॥ ३८ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, shining, held fast, that is gathered, by the strong sacrificers, and being purified for the sake of the sacrifice, go to Indra's prepared place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युतानः (*dyutānaḥ*)—you who shed light
+- वाजिभिः (*vājibhiḥ*)—by the sacrificers endowed with strength
+- यतः (*yataḥ*)—gathered
+- देववीतये (*devavītaye*)—for the sacrifice
+- पुनानः (*punānaḥ*)—purified, you
+- इंद्रस्य (*iṃdrasya*)—Indra's
+- निष्कृतं (*niṣkṛtaṃ*)—place
+- याहि (*yāhi*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who shed light, are gathered by the sacrificers endowed with strength and are purified for the sake of the sacrifice, go and reach Indra's place.
+
+##### English translation
+Purified for the banquet of the gods, go to Indra's station radian: collected together by the vigorous (worshippers).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र हि॑न्वा॒नास॒ इंद॒वोऽच्छा॑ समु॒द्रमा॒शवः॑ ।  
+> धि॒या जू॒ता अ॑सृक्षत ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । हिन्वानासः । इंदवः । अच्छ । समुद्रम् । आशवः ।  
+> धिया । जूताः । असृक्षत ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशवः वेगवंतः इंदवः सोमाः समुद्रम् अंतरिक्षम् अच्छ प्रति हिन्वानासः हिन्वानाः प्रेर्यमाणाः धिया अंगुल्या जूताः कृष्टाश्च प्र असृक्षत सृज्यंते ।
+
+##### Gist of the bhāṣya
+
+The swift Indus, the Soma juices, being urged on toward the ocean, that is, the atmosphere, and drawn out by the finger, are poured forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—the swift
+- इंदवः (*iṃdavaḥ*)—Soma juices
+- समुद्रं अच्छ (*samudraṃ accha*)—toward the atmosphere
+- हिन्वानासः (*hinvānāsaḥ*)—being sent
+- धिया (*dhiyā*)—by the fingers
+- जूताः (*jūtāḥ*)—and pressed
+- प्र असृक्षत (*pra asṛkṣata*)—are poured out
+
+### Printed p. 267
+
+##### भावार्थ (Bhāvārtha)
+
+The swift Soma juices, being sent toward the atmosphere and pressed by the fingers, are poured out.
+
+##### English translation
+The rapid Soma-juices being sent towards the firmamcnt **NOTE**, are poured forth expressed by the fingers.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒र्मृ॒जा॒नास॑ आ॒यवो॒ वृथा॑ समु॒द्रमिंद॑वः ।  
+> अग्म॑न्नृ॒तस्य॒ योनि॒मा ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मर्मृजानासः । आयवः । वृथा । समुद्रम् । इंदवः ।  
+> अग्मन् । ऋतस्य । योनिम् । आ ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्मृजानासः मर्मृज्यमानाः आयवः गंतारः इंदवः सोमाः वृथा आयासं विनैव समुद्रम् अंतरिक्षं गच्छंति । एतदेव दर्शयति । ऋतस्य उदकस्य योनिं स्थानम् अग्मन् गच्छंतीति ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices, being cleansed and swift, go to the ocean, the atmosphere, in vain, that is, without effort. He shows this very thing: they go to the seat, the place, of the water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्मृजानासः (*marmṛjānāsaḥ*)—purified
+- आयवः (*āyavaḥ*)—and swift
+- इंदवः (*iṃdavaḥ*)—Soma juices
+- वृथा (*vṛthā*)—without effort
+- समुद्रं (*samudraṃ*)—go to the atmosphere and reach it
+- ऋतस्य (*ṛtasya*)—of the water
+- योनिं (*yoniṃ*)—the place
+- आ अग्मन् (*ā agman*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, purified and swift, go and reach the atmosphere without effort. They go and reach the place of the water.
+
+##### English translation
+The swift Soma-juices being cleansed (go to) the firmament without an effort; they go to the abode of the water.
+
+### Printed p. 268
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ णो याह्यस्म॒युर्विश्वा॒ वसू॒न्योज॑सा ।  
+> पा॒हि नः॒ शर्म॑ वी॒रव॑त् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । नः । याहि । अस्मऽयुः । विश्वा । वसूनि । ओजसा ।  
+> पाहि । नः । शर्म । वीरऽवत् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अस्मयुः अस्मत्कामस्त्वं नः अस्माकं विश्वा विश्वानि वसूनि धनानि ओजसा बलेन सह परि याहि रक्षार्थं परिगच्छ । अपि च नः अस्माकं वीरवत् पुत्रवत् शर्म गृहं पाहि रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Soma, desiring us, go about with might to guard all our riches. Moreover, protect our house, rich in sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मयुः (*asmayuḥ*)—you who desire good for us
+- नः (*naḥ*)—to us
+- विश्वा (*viśvā*)—all
+- वसूनि (*vasūni*)—riches
+- ओजसा (*ojasā*)—together with powers
+- परि याहि (*pari yāhi*)—send and give
+- नः (*naḥ*)—our
+- वीरवत् (*vīravat*)—provided with sons and others
+- शर्म (*śarma*)—house
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who desire good for us, send and give us all riches together with powers. Protect our house, provided with sons and others.
+
+##### English translation
+Soma, who are devoted to us, guard all our treasures with your might, protect our home and offspring.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मिमा॑ति॒ वह्नि॒रेत॑शः प॒दं यु॑जा॒न ऋक्व॑भिः ।  
+> प्र यत्स॑मु॒द्र आहि॑तः ॥ १९ ॥
+
+### Printed p. 269
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मिमाति । वह्निः । एतशः । पदम् । युजानः । ऋक्वऽभिः ।  
+> प्र । यत् । समुद्रे । आऽहितः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यत् यदा यः वह्निः वहनशीलः एतशः अश्वः मिमाति शब्दं करोति ऋक्वभिः ऋत्विग्भिः स्तोतृभिः पदं यज्ञे युजानः निदधत् स्तोत्रश्रवणार्थमागच्छति च तदा स यज्ञवाहकाश्वात्मा त्वं समुद्रे उदके वसतीवरीषु प्र आहितः भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, when the horse Etaśa, the bearer, makes a sound, and, yoking, setting down a place at the sacrifice by the priests, the singers, comes to hear the praise, then you, who are of the nature of the horse that carries the sacrifice, are placed in the ocean, that is, in the water, the vasatīvarī waters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वह्निः (*vahniḥ*)—that carries the oblation
+- एतशः (*etaśaḥ*)—the horse
+- मिमाति (*mimāti*)—makes a sound
+- ऋक्वभिः (*ṛkvabhiḥ*)—by the priests
+- पदं (*padaṃ*)—at the place of sacrifice
+- युजानः (*yujānaḥ*)—is yoked, then (you who are of the form of the horse)
+- समुद्रे (*samudre*)—in the vasatīvarī waters and the like
+- प्र आहितः (*pra āhitaḥ*)—you are placed
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, when the horse that carries the oblation makes a sound, when it is yoked at the place of sacrifice by the priests, then you, who are of the form of the horse, are placed in the vasatīvarī waters and the like.
+
+##### English translation
+The horse of burden neighs, yoked to the sacrifice by the priests, when placed in the ocean.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्योनिं॑ हिर॒ण्यय॑मा॒शुरृ॒तस्य॒ सीद॑ति ।  
+> जहा॒त्यप्र॑चेतसः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । योनिम् । हिरण्ययम् । आशुः । ऋतस्य । सीदति ।  
+> जहाति । अप्रऽचेतसः ॥ २० ॥
+
+### Printed p. 270
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा आशुः वेगवान् सोमः ऋतस्य यज्ञस्य हिरण्ययं हिरण्मयं योनिं स्थानम् । ‘ हिरण्यपाणिरभिषुणोति' इत्युक्तम्। आ सीदति तदानीम् अप्रचेतसः जहाति विसृजति । अस्तोतॄणां यज्ञं नाभिगच्छति किंतु स्तोतॄणामेव यज्ञमभिगच्छतीत्यर्थः ॥ ॥ ३९ ॥
+
+##### Gist of the bhāṣya
+
+When the swift Soma settles on the golden seat, the place, of the sacrifice, हिरण्यपाणिरभिषुणोति (*hiraṇyapāṇirabhiṣuṇoti*) **GLOSS** this has been said, then he abandons, lets go, the unwise: he does not go to the sacrifice of those who do not praise, but goes only to the sacrifice of those who praise. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यॆत् (*yèt*)**NOTE**—when
+- आशुः (*āśuḥ*)—the swift Soma
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- योनिं (*yoniṃ*)—the place
+- आ सीदति (*ā sīdati*)—occupies and sits down, then
+- अप्रचेतसः (*apracetasaḥ*)—of the sacrificer devoid of understanding the sacrifice
+- जहाति (*jahāti*)—he abandons
+
+##### भावार्थ (Bhāvārtha)
+
+When the swift Soma occupies and sits on the gold-made place of the sacrifice, he then abandons the sacrifice of the sacrificer devoid of understanding.
+
+##### English translation
+When the swift (Soma) takes his place on the golden seat of sacrifice, he abandons (the sacrifice) of the foolish man.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वे॒ना अ॑नूष॒तेय॑क्षंति॒ प्रचे॑तसः ।  
+> मज्जं॒त्यवि॑चेतसः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वेनाः । अनूषत । इयक्षंति । प्रऽचेतसः ।  
+> मज्जंति । अविऽचेतसः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेनाः कांताः स्तोतारः अभि अनूषत सोममभिष्टुवंति । प्रचेतसः सुमतयः इयक्षंति यष्टुमिच्छंति च । अविचेतसः । विशिष्टमतयो विचेतसः । अविचेतसो विपरीतमतय इत्यर्थः । मज्जंति निमज्जंति । ये सोमं नाभिष्टुवंति न यजंति च ते नरके पतंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Venas, the loving singers, praise Soma. The pracetasaḥ, the wise, desire to sacrifice. The avicetasaḥ: those of distinguished mind are vicetasaḥ; the avicetasaḥ are those of contrary mind. They sink. Those who neither praise Soma nor sacrifice fall into hell. This is the meaning.
+
+### Printed p. 271
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेनाः (*venāḥ*)—singers endowed with devotion
+- अभ्यनूषत (*abhyanūṣata*)—praise Soma
+- प्रचेतसः (*pracetasaḥ*)—those having excellent knowledge
+- इयक्षंति (*iyakṣaṃti*)—wish to sacrifice
+- अविचेतसः (*avicetasaḥ*)—those devoid of knowledge
+- मज्जंति (*majjaṃti*)—sink in hell
+
+##### भावार्थ (Bhāvārtha)
+
+Singers endowed with devotion praise Soma. Those having excellent knowledge wish to sacrifice. Those devoid of knowledge sink in hell.
+
+##### English translation
+Devoted (worshippers) glorify Soma; the well-disposed desire to sacrifice; the perverse-minded sink into hell).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑येंदो म॒रुत्व॑ते॒ पव॑स्व॒ मधु॑मत्तमः ।  
+> ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । इंदो इति । मरुत्वते । पवस्व । मधुमत्ऽतमः ।  
+> ऋतस्य । योनिम् । आऽसदम् ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम मधुमत्तमः अतिशयेन मधुमांस्त्वम् ऋतस्य यज्ञस्य योनिं स्थानम् आसदम् उपवेष्टुं मरुत्वते इंद्राय इंद्रार्थं पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you who are exceedingly sweet, flow, stream, for Indra, accompanied by the Maruts, to sit down in the seat, the place, of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- मधुमत्तमः (*madhumattamaḥ*)—you who are provided with sweet juice
+- यतस्य (*yatasya*)**NOTE**—of the sacrifice
+- योनिं (*yoniṃ*)—the place
+- आसदं (*āsadaṃ*)—to enter
+- मरुत्वते (*marutvate*)—accompanied by the Maruts
+- इंद्राय (*iṃdrāya*)—for Indra
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are provided with sweet juice, flow for Indra, accompanied by the Maruts, so as to enter the place of the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 265. Mandala 9 sukta 64 rks 8-15 (pp. 260-265)
+**Progress note:** Done through printed p. 271. Mandala 9 sukta 64 rks 15-22 (pp. 266-271)
