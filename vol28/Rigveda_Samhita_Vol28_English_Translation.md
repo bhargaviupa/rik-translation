@@ -5861,6 +5861,180 @@ Then Indra went near the trees and said, "O trees, take one third of my guilt of
 
 Then Indra went to the company of women and said to them, "O women, take the remaining third part of my guilt of brahmin-slaying." The women replied, "Then we
 
+### Printed p. 188
+they asked for one boon: "After we have become impure (after the ritual bath following the period), children should be born to us, and until delivery (childbirth) we should obtain satisfaction of desire through intercourse wherever we wish." Indra said, "So be it." Therefore women obtain offspring after their period, and until delivery they have intercourse whenever they wish, for this is the boon they asked for. Then those women took upon themselves one third of Indra's guilt of Brahmin-slaying. The menstrual discharge that flows when women are in their period is the mark of this Brahmin-slaying. During the time the discharge flows (when they are in their period) women are impure (unclean).
+
+तस्मान्मलवद्वाससा न संवदेत न सहासीत नास्या अन्नमद्याद्ब्रह्महत्यायै हैषा वर्णं प्रतिमुच्यास्तेऽथो खल्वाहुरभ्यंजनं वाव स्त्रिया अन्नमभ्यंजनमेव न प्रतिगृह्यं काममन्यदिति ॥ (*tasmānmalavadvāsasā na saṃvadeta na sahāsīta nāsyā annamadyādbrahmahatyāyai haiṣā varṇaṃ pratimucyāste 'tho khalvāhurabhyaṃjanaṃ vāva striyā annamabhyaṃjanameva na pratigṛhyaṃ kāmamanyaditi ‖*)
+
+Therefore one should not speak with a woman in her period. One should not eat food given or touched by her. For she is discharging the unclean menstrual flow, which is the mark of the guilt of Brahmin-slaying. During the time of the period one should not apply oil and the like, or else no one should accept food and the like from her (food she has touched) during that time.
+
+यां मलववद्वाससग्ं संभवंति यस्ततो जायते सोऽभिशस्तो यामरण्ये तस्यै स्तेनो यां पराचीं तस्यै ह्रीतमुख्यपगल्भो या स्नाति तस्या अप्पु मारुको याभ्यंक्ते तस्यै दुश्चर्मा या प्रलिखते तस्यॆ खलतिरपमारी यांक्ते तस्यॆ काणो या दतो धावते तस्यै श्यावदन् या नखानि निकृंतते तस्यै कुनखी या कृणत्ति तस्यै क्लीबो या रज्जुग्‌ंसृजति तस्या उद्बंधुको या पर्णॆन पिबति तस्या उन्मादुको या खर्वॆण पिबति तस्यै खर्वस्तिस्रो रात्रिर्वृतं चरेदंजलिना वा पिबेदखर्वॆण ना पात्रेण प्रजाय्कॆ गोपीथाय ॥ (*yāṃ malavavadvāsasagṃ saṃbhavaṃti yastato jāyate so 'bhiśasto yāmaraṇye tasyai steno yāṃ parācīṃ tasyai hrītamukhyapagalbho yā snāti tasyā appu māruko yābhyaṃkte tasyai duścarmā yā pralikhate tasyè khalatirapamārī yāṃkte tasyè kāṇo yā dato dhāvate tasyai śyāvadan yā nakhāni nikṛṃtate tasyai kunakhī yā kṛṇatti tasyai klībo yā rajjugṃsṛjati tasyā udbaṃdhuko yā parṇèna pibati tasyā unmāduko yā kharvèṇa pibati tasyai kharvastisro rātrirvṛtaṃ caredaṃjalinā vā pibedakharvèṇa nā pātreṇa prajāykè gopīthāya ‖*) (Tai. Saṃ. 2-5-1-1 to 7)
+
+If one has intercourse with a woman in her period (while she is menstruating), the son born of it will be cursed. If a woman in her period has intercourse in a forest, the son born to her will be a thief. If she has intercourse with her face covered or turned away, the son born will be a bashful man who from shame cannot speak properly with anyone. The son of a woman who bathes during her period will die by drowning in water. The son of a woman who anoints herself with oil will be afflicted with a skin disease (leprosy, white patches). The son born to a woman who combs her hair will be bald, without hair on his head, and powerless. The son born to a woman who applies collyrium to her eyes will be blind. The son born to a woman who cleans her teeth at that time
+
+### Printed p. 189
+will have foul teeth. The son born to a woman who cuts her nails will have ugly, ill-formed nails. The son born to a woman who plaits (mats and the like) at that time will be impotent. The son born to a woman who twists rope will die by suicide. A woman who drinks water from leaves (lotus leaves and the like) will have a son who is deficient in limbs or deformed in limb. Therefore, while women are in their period, they should observe the vow very strictly until three nights have passed. For the obtaining of good offspring, women should at that time drink water only from the cupped palms or from a good, unbroken vessel.
+
+In the matters stated above are told Indra's slaying of Viśvarūpa, the guilt of Brahmin-slaying that came to Indra from that slaying, the acts Indra performed to remove that guilt, and, as a result, the rule that women should observe restraint while in their period. In the present context only the account of Viśvarūpa is what is to be taken, yet other matters connected with it and belonging to the same anuvāka are also mentioned here. For in the Purāṇas and elsewhere it is said that the guilt of Brahmin-slaying came to Indra through the slaying of Vṛtra and that Indra made the efforts described above to remove it; so this explanation became necessary in order to show the difference between the details of the Veda and those of the Purāṇas and the like.
+
+**Indra Vaikuṇṭha**
+
+About the seer Saptagu, the seer of the forty-seventh sūkta beginning जगृभ्मा ते (*jagṛbhmā te*), and about Indra Vaikuṇṭha, the seer of the following sūktas अहं भुवं (*ahaṃ bhuvaṃ*) (48) and अहं दां (*ahaṃ dāṃ*) (49), the work called Bṛhaddevatā says as follows:
+
+प्राजापत्यासुरी त्वासीद्वि कुंठा नाम नामतः । सेच्छंतींद्रसमं पुत्रं तेपेऽथ सुमहत्तपः ॥ सा प्रजापतितः कामांल्लेभेऽथ विविधान्वरान् । तस्यां चेंद्रः स्वयं जज्ञॆ जिघांसुर्दैत्यदानवान् ॥ (*prājāpatyāsurī tvāsīdvi kuṃṭhā nāma nāmataḥ | secchaṃtīṃdrasamaṃ putraṃ tepe 'tha sumahattapaḥ ‖ sā prajāpatitaḥ kāmāṃllebhe 'tha vividhānvarān | tasyāṃ ceṃdraḥ svayaṃ jajñè jighāṃsurdaityadānavān ‖*)
+
+Formerly there was an Asura woman, a daughter of Prajāpati. Her name was Vikuṇṭhā. At one time a desire arose in her that a son equal to Indra in valour, prowess and the like should be born in her. So she performed very fearsome austerity and obtained from Prajāpati the boons she wanted. Indra, wishing to destroy the Daityas and Dānavas, was born in that very woman Vikuṇṭhā as her son.
+
+एकदा दानवैः सार्धं समरे समसज्यत । जघान तेषां नवतीर्नव सप्त च सप्तकान् ॥ (*ekadā dānavaiḥ sārdhaṃ samare samasajyata | jaghāna teṣāṃ navatīrnava sapta ca saptakān ‖*)
+
+### Printed p. 190
+भित्वा स्वबाहुनीर्येण हैमरौप्यायसीः पुरीः । हत्वा सर्वान्यथास्थानं पृथिव्यादिव्यवस्थितान् ॥ पृथिव्यां कालकेयांश्च पौलोमांश्चैव धन्विनः । तांश्च व्युत्सादयामास प्रह्लादतनयान्दिवि ॥ (*bhitvā svabāhunīryeṇa haimaraupyāyasīḥ purīḥ | hatvā sarvānyathāsthānaṃ pṛthivyādivyavasthitān ‖ pṛthivyāṃ kālakeyāṃśca paulomāṃścaiva dhanvinaḥ | tāṃśca vyutsādayāmāsa prahlādatanayāndivi ‖*)
+
+On one occasion, while Indra was fighting the Dānavas, he destroyed ninety-nine and seventy-seven of their chiefs. They lived on the earth, in the atmosphere and in heaven, having built strong forts of gold, silver and iron. By his own strength Indra destroyed all of these, and destroyed the Kālakeyas on the earth, the Pulomas' line, the Asuras of Prahlāda's line, and others.
+
+राज्यं प्राप्य स दैत्येषु स्वेन वीर्येण दर्पितः । देवान्बाधितुमारेभे मोहितोऽसुरमायया ॥ बाध्यमानास्तु तेनापि असुरेणामिंतौजसा । उपाधावन्नृषिश्रेष्ठं तत्प्रबोधाय सप्तगुं ॥ ऋषिस्तु सप्तगुर्नाम तस्यासीत्सुप्रियः सखा । स चैनमभितुष्टाव जगृभ्येति करे स्पृशन् ॥ (*rājyaṃ prāpya sa daityeṣu svena vīryeṇa darpitaḥ | devānbādhitumārebhe mohito 'suramāyayā ‖ bādhyamānāstu tenāpi asureṇāmiṃtaujasā | upādhāvannṛṣiśreṣṭhaṃ tatprabodhāya saptaguṃ ‖ ṛṣistu saptagurnāma tasyāsītsupriyaḥ sakhā | sa cainamabhituṣṭāva jagṛbhyeti kare spṛśan ‖*)
+
+Having thus destroyed the Daityas, Indra, the son of Vikuṇṭhā, because he was born of an Asura woman, was under the sway of delusion; having won sovereignty by his own might and strength, he forgot himself, became arrogant, and began to oppress the gods. While Indra, in Daitya form, swollen with his boundless prowess, was oppressing the gods, they could not bear his oppression and came to the seer Saptagu and took refuge with him. That seer was Indra's dearest friend. Then the seer Saptagu took Indra's hand in his own and praised Indra with the sūkta जगृभ्मा ते (*jagṛbhmā te*) (sūkta 47).
+
+ततः स बुध्वा चात्मानं सप्तगुस्तुतिहर्षितः । आत्मानमेव तुष्टाव अहं भुवमिति त्रिभिः ॥ कीर्तयन् स्वानि कर्माणि यानि स्म कृतवान्पुरा । यथाकरोच्च वैदेहं व्यंसं सोमपतिं नृपं ॥ वसिष्ठशापादभवद्वैदोहो नृपतिः पुरा । इंद्रप्रसादादेजे च सत्त्रैः सारस्वतादिभिः ॥ (*tataḥ sa budhvā cātmānaṃ saptagustutiharṣitaḥ | ātmānameva tuṣṭāva ahaṃ bhuvamiti tribhiḥ ‖ kīrtayan svāni karmāṇi yāni sma kṛtavānpurā | yathākarocca vaidehaṃ vyaṃsaṃ somapatiṃ nṛpaṃ ‖ vasiṣṭhaśāpādabhavadvaidoho nṛpatiḥ purā | iṃdraprasādādeje ca sattraiḥ sārasvatādibhiḥ ‖*)
+
+### Printed p. 191
+प्रभूतां शक्तिमत्तां च शत्रूणामप्यपाक्रियां । नृषु सर्वेषु चैश्वर्यं प्रभुत्वं भुवनेषु च ॥ (*prabhūtāṃ śaktimattāṃ ca śatrūṇāmapyapākriyāṃ | nṛṣu sarveṣu caiśvaryaṃ prabhutvaṃ bhuvaneṣu ca ‖*)
+
+Indra Vaikuṇṭha, praised by the seer Saptagu, recalled his former existence and became aware of who he was. Then that Vaikuṇṭha Indra glorified himself for the many deeds of valour he had done before, in the three sūktas (48–50) beginning अहं भुवं (*ahaṃ bhuvaṃ*). It is also stated how the king of Videha, Vyaṃsa, was freed from a curse by Vasiṣṭha, and how that king, by Indra's grace, performed a sattra sacrifice on the bank of the river Sarasvatī, conquered his enemies and established universal sovereignty.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं दामित्येकादशर्चं सप्तमं सूक्तं । वैकुंठ एवर्षिदेवता च ।
+> द्वितीयैकादश्यौ त्रिष्टुभौ । शिष्टा जगत्यः । अनुक्रांतं च । अहं दामंत्योपाद्ये
+> चेति ॥ द्वितीयै रात्रिपर्याये मैत्रावरुणस्येदं सूक्तं । सूत्रितं च। अहं दां
+> पाता सुतमिंद्रो अस्तु सोमं । आ-६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अहं दां (*ahaṃ dāṃ*) has eleven ṛks and is the seventh sūkta. Vaikuṇṭha is the seer, and also the deity. The second and the eleventh ṛks are in Triṣṭubh; the rest are in Jagatī. The Anukramaṇī says: अहं दामंत्योपाद्ये च (*ahaṃ dāmaṃtyopādye ca*). In the second night-service this sūkta belongs to the Maitrāvaruṇa. It is also prescribed in the sūtra: अहं दां पाता सुतमिंद्रो अस्तु सोमं (*ahaṃ dāṃ pātā sutamiṃdro astu somaṃ*) (Ā. 6-4).
+
+##### Anuvāda
+
+This sūkta अहं दां (*ahaṃ dāṃ*) is the seventh sūkta in the fourth anuvāka. It has eleven ṛks. Indra Vaikuṇṭha himself is the seer and also the deity. The second and eleventh ṛks of this sūkta are in the Triṣṭup metre; the remaining ṛks are in the Jagatī metre. In the Anukramaṇī it is said: अहं दामंत्योपाद्ये च (*ahaṃ dāmaṃtyopādye ca*). The application of this sūkta is for the śastra mantras recited by the priest called Maitrāvaruṇa in the second night-service; this is set forth in Āśvalāyana's Śrauta Sūtra in the sūtra अहं दां पाता सुतमिंद्रो अस्तु सोमं (*ahaṃ dāṃ pātā sutamiṃdro astu somaṃ*) (Ā. 6-4).
+
+- Sūkta—48
+- Maṇḍala—10; Anuvāka—4; Sūkta—49
+- Aṣṭaka—8; Adhyāya—1; Varga—7, 8
+- Number of ṛks in the sūkta—11
+- Ṛṣi—Indra Vaikuṇṭha
+- Devatā—Indra Vaikuṇṭha
+- Chandas—1, 3–10 Jagatī; 2, 11 Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं दां॑ गृण॒ते पूर्व्यं॒ वस्व॒हं ब्रह्म॑ कृणवं॒ मह्यं॒ वर्ध॑नं।
+
+### Printed p. 192
+
+> अहं भुवं यजमानस्य चोदितायज्वनः साक्षि विश्मस्मिन्भरे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । दां । गृणते । पूर्व्यं । वसु । अहं । ब्रह्म । कृणवं । मह्यं । वर्धनं ।  
+> अहं । भुवं । यजमानस्य । चोदिता । आयज्जनः । साक्षि । विश्वस्मिन् । भरे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रो गृणते स्तुवते पूर्व्यं मुख्यं वसु धनं दां । अदां ।
+> अहमेव ब्रह्म परिवृढं कर्म स्तुतिलक्षणं मह्यं वर्धनं कृणवं । करोमि ।
+> स्तोतुः संबंधि स्तोत्रं तस्मै धनं प्रयच्छन् महम्येव वर्धनं करोमीत्यर्थः ।
+> तथाहं याजमानस्य मामुद्दिश्य यष्टुर्धनस्य चोदिता प्रेरको भुवं । भवामि ।
+> अयज्जनोऽयष्टुः । अयष्टारमित्यर्थः । तं विश्वस्मिन्भरे सर्वस्मिन्नपि संग्रामे
+> साक्षि । अभिभवामि ॥
+
+##### Gist of the bhāṣya
+
+I, Indra, give to the one who praises me the foremost wealth. I myself make the sacred prayer (the action marked by praise), the speaker's hymn, a source of increase for myself: giving wealth to him, I make myself grow. Likewise I become the impeller of the wealth of the sacrificer who sacrifices to me. As for the one who does not sacrifice, I overcome him in every battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, Indra
+- गृणते (*gṛṇate*)—to the man who praises me
+- पूर्व्यं (*pūrvyaṃ*)—abundant
+- वसु (*vasu*)—wealth
+- दां (*dāṃ*)—I give
+- अहं (*ahaṃ*)—I
+- ब्रह्म (*brahma*)—the sacrificial and other rite that praises me
+- मह्यं वर्धगः (*mahyaṃ vardhagaḥ*)—so as to bring me increase
+- कृणवं (*kṛṇavaṃ*)—I make
+- अहं (*ahaṃ*)—I
+- यजमानस्य (*yajamānasya*)—of the wealth of the sacrificer who performs a sacrifice addressed to me
+- चोदिता (*coditā*)—as impeller
+- भुवं (*bhuvaṃ*)—I have become
+- आयज्जनः (*āyajjanaḥ*)—to one who does not worship me
+- विश्वस्मिन् भरे (*viśvasmin bhare*)—in all battles
+- साक्षि (*sākṣi*)—I bring defeat
+
+##### भावार्थ (Bhāvārtha)
+
+I, Indra, give very excellent or abundant wealth to the man who praises me. I make the sacrificial and other rite that praises me bring me increase, that is, be praiseworthy. I impel the wealth of the sacrificer who sacrifices to me so that it increases. To the man who does not worship me I bring defeat in all battles.
+
+##### English translation
+I give excellent treasure to him who praise me, I render sacred prayer (a source) of greatness to myself, I am the instigator of the
+
+### Printed p. 193
+worshipper : I am the discomfiter in every battle of him who does not worship
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मां धु॒रिंद्रं॒ नाम॑ दे॒वता॑ दि॒वश्च॒ ग्मश्चा॒पां च॑ जं॒तवः॑ ।  
+> अ॒हं हरी॒ वृष॑णा॒ विव्र॑ता र॒घू अ॒हं वज्रं॒शव॑से धृ॒ष्ट्वा द॑दे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मां । धुः । इंद्रं । नाम। देवता । दिवः । च । गृः । च । अपां । च । जंतवः ॥  
+> अहं । हरी इति । वृषणा । विव्रता । रघू इति । अहं । वज्रं । शवसे । धृष्णु । आ ।  
+> ददे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रं नामंद्रनामानं मा देवता देवानां मध्ये दिवो द्युलोकस्य ।
+> ग्मा पृथिव्यापोऽंतरिक्षं । एतेषु लोकेषु जंतवो जाता मा मामेव धुः ।
+> दधुः । धारयंति । हविर्भिः स्तुतिभिश्च । अहं यज्ञगमनाय संग्रामगमनाय वा
+> हरी हरितवर्णौ वृषणा पुंस्तोपेत् विव्रता विविधकर्माण् रघू लघू शीघ्रगती
+> अश्वा नियोजयामि रथे । तथाहं धृष्णु धर्षकं वज्रमायुधं शवसे बलाया
+> ददे । स्वीकरोमि ॥
+
+##### Gist of the bhāṣya
+
+Among the gods, the creatures born in heaven, on earth and in the waters (the atmosphere), all hold me alone, the one named Indra, upholding me with oblations and praises. For going to the sacrifice or to battle, I yoke to my chariot two horses: green-hued, virile, of manifold works, swift. Likewise I take up the daring vajra, my weapon, for strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रं नाम (*iṃdraṃ nāma*)—by the name Indra
+- मां (*māṃ*)—me
+- देवता (*devatā*)—among the gods, whoever
+- दिवः च (*divaḥ ca*)—dwellers in heaven
+- गृः च (*gṛḥ ca*)—and those on earth
+- अपां (*apāṃ*)—and those who move in the atmosphere
+- जंतवः (*jaṃtavaḥ*)—who have been born, all of them
+- मां (*māṃ*)—me alone
+- धुः (*dhuḥ*)—hold and nourish with oblations and the like and with praises
+- अहं (*ahaṃ*)—I, when I go to the sacrifice or to battle
+- हरी (*harī*)—green-hued
+- वृषणा (*vṛṣaṇā*)—youthful
+- विव्रता (*vivratā*)—famed for manifold works
+- रघू (*raghū*)—swift-moving: my two horses I yoke to the chariot; likewise
+- अहं (*ahaṃ*)—I
+- धृष्णु (*dhṛṣṇu*)—daring
+- वज्रं (*vajraṃ*)—the vajra weapon
+- शवसे (*śavase*)—for the exercise of strength in battle
+- आ ददे (*ā dade*)—I take up
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gods, whoever have been born in the world of heaven, and likewise whatever gods there are on earth and in the atmosphere, all of them hold me with oblations and the like and with praises
+
 ---
 
-**Progress note:** Done through printed p. 187. pp. 182-187 (batch API)
+**Progress note:** Done through printed p. 193. pp. 188-193 (batch API)
