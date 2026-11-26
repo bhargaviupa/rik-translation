@@ -2320,7 +2320,7 @@ O Agni, you whom heaven and earth begot, you whom the waters of the atmosphere b
 
 "The plants bore this very sacrificial Agni in their womb. The waters too begot this same Agni. The trees also bore him in their womb. The plants and the rest beget Agni, who is of the nature of an embryo."
 
-"The gods begot Agni, who is like the head of the heavenly world, who moves on the earth, who is the universal sovereign, who is the navel of the sacrifices and the guide of the sacrificers. In the same way the priests too begot him." (6. 7. 1-2) Though he is praised in this manner and in other ways, he is also described as begotten by whomever begotten; and he is praised as the father-like protector of all, gods, humans and the rest.
+"The gods begot Agni, who is like the head of the heavenly world, who moves on the earth, who is the universal sovereign, who is the navel of the sacrifices and the guide of the sacrificers. In the same way the priests too begot him." (6. 7. 1-2) Though he is praised in this manner and in other ways, he is praised as the father and protector of all those, gods, men and the rest, by whom he is described as having been begotten.
 
 Ya. Saṃ. 1-69-1 **NOTE**
 
@@ -6217,7 +6217,7 @@ In many such Ṛks it is told that Indra slays the Dasyus and protects the world
 
 ##### Gist of the bhāṣya
 
-Indra says: like a father who sets up for his son the place he wants so that he can manage, so I desired (for Kutsa) the Vetasu peoples, so named; for the great seer Kutsa I brought Tugra and Smadibha under control (रंधयं (*raṃdhayaṃ*) from the root रध्यति (*radhyati*) meaning to bring under control). I have become capable, in the matter of governing, for the sacrificer, because, as a father to a son, I bring pleasing things to that sacrificer for the assailing of his enemies; therefore I have become the ruler of the sacrificer.
+Indra says: like a father who sets up for his son the place he wants so that he can manage, so for the great seer Kutsa, who desired the Vetasu peoples so named, I brought Tugra and Smadibha under control (रंधयं (*raṃdhayaṃ*) means: I brought under control). I have become capable, in the matter of governing, for the sacrificer, because, as a father to a son, I bring pleasing things to that sacrificer for the assailing of his enemies; therefore I have become the ruler of the sacrificer.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -9091,7 +9091,7 @@ The sūkta beginning यमैच्छाम (*yamaicchāma*) has eleven Ṛks 
 
 ##### Anuvāda
 
-This sūkta beginning यमैच्छाम (*yamaicchāma*) is the eleventh sūkta in the fourth anuvāka. It has eleven Ṛks. Since it contains the words of the gods, the gods themselves are the seers of this sūkta. For the two Ṛks beginning तदद्य (*tadadya*) only (Ṛks 4-5), Agni Saucīka is the seer; for the remaining Ṛks the gods are the seers. Agni is the deity. The first five Ṛks, up to the Ṛk तंतुं तन्वन् (*taṃtuṃ tanvan*), and the Ṛks other than the eighth are in the Jagatī metre; the remaining Ṛks are in the Triṣṭubh metre. The Anukramaṇī says: तंतुमाद्या जगत्योऽष्टमीवर्ज० (*taṃtumādyā jagatyo 'ṣṭamīvarja0*). The viniyoga has already been stated earlier.
+This sūkta beginning यमैच्छाम (*yamaicchāma*) is the eleventh sūkta in the fourth anuvāka. It has eleven Ṛks. Since it contains the words of the gods, the gods themselves are the seers of this sūkta. For the two Ṛks beginning तदद्य (*tadadya*) only (Ṛks 4-5), Agni Saucīka is the seer; for the remaining Ṛks the gods are the seers. Agni is the deity. Leaving out the first five Ṛks, up to the Ṛk तंतुं तन्वन् (*taṃtuṃ tanvan*), and the eighth, the remaining Ṛks are in the Jagatī metre; the others are in the Triṣṭubh metre. The Anukramaṇī says: तंतुमाद्या जगत्योऽष्टमीवर्ज० (*taṃtumādyā jagatyo 'ṣṭamīvarja0*). The viniyoga has already been stated earlier.
 
 Sūkta 53. Maṇḍala 10; Anuvāka 4; Sūkta 53. Aṣṭaka 8; Adhyāya 1; Vargas 13, 14. Number of Ṛks in the sūkta: 11.
 Seer: 1-3, 6-11, the gods; 4-5, Agni Saucīka.
@@ -14083,7 +14083,7 @@ Bharga is the well-known name of that radiance of Agni on whose triple-seated sa
 - यस्य (*yasya*)—of which Agni, endowed with radiance
 - त्रिषधस्ते (*triṣadhaste*)—on the seat of sacred grass
 - निषेदुः (*niṣeduḥ*)—they sit down
-- ह (*ha*)—to that radiance
+- (तत्) ह (*(tat) ha*)—to that radiance
 - भर्गो ह नाम (*bhargo ha nāma*)—the name may be Bharga
 - उत (*uta*)—or
 - अग्नि र्ह नाम (*agni rha nāma*)—its name may be Agni
@@ -15469,7 +15469,7 @@ Regarding Yayāti, the son of Nahuṣa, see what is written in Ṛ. Saṃ. part 
 
 ##### Gist of the bhāṣya
 
-The sūkta beginning परावतो य (*parāvato ya*) has seventeen Ṛks and is the third sūkta. It is the vision of Gaya, son of Plati. The sixteenth and seventeenth verses are in Triṣṭubh; the fifteenth is Triṣṭubh or Jagatī; the remaining fourteen are Jagatī. The two verses beginning with the words on the path (Pathyā) have Pathyāsvasti as deity; the rest are addressed to the Viśvedevas. The Anukramaṇī says the same. At the Pṛṣṭhya and Abhiplava rites, on the third day, in the Vaiśvadeva, this sūkta is the Vaiśvadeva nivid-dhāna. It is prescribed by the sūtra Ā. 7-7.
+The sūkta beginning परावतो य (*parāvato ya*) has seventeen Ṛks and is the third sūkta. It is the vision of Gaya, son of Plati. The sixteenth and seventeenth verses are in Triṣṭubh; the fifteenth is Triṣṭubh or Jagatī; the remaining fourteen are Jagatī. The two verses beginning स्वस्ति नः पथ्यासु (*svasti naḥ pathyāsu*) have Pathyāsvasti as deity; the rest are addressed to the Viśvedevas. The Anukramaṇī says the same. At the Pṛṣṭhya and Abhiplava rites, on the third day, in the Vaiśvadeva, this sūkta is the Vaiśvadeva nivid-dhāna. It is prescribed by the sūtra Ā. 7-7.
 
 ##### Anuvāda
 
@@ -20334,7 +20334,7 @@ When Brihaspati had discovered that name of the lowing cows in their place in th
 
 ##### Gist of the bhāṣya
 
-Brihaspati saw all round मधु (*madhu*), that is, the cows, covered by a pervading rock (अश्ना (*aśnā*)). The example: as one sees a fish living in a dried-up pool. Having seen it, he split Vala with a varied sound (विरवेण (*viraveṇa*)) and drew out that cow-form honey. The example: चमसं न (*camasaṃ na*); चमसः (*camasaḥ*) is the Soma vessel, in which they drink; as one takes it out of a tree.
+Bṛhaspati saw all round मधु (*madhu*), that is, the cows, covered by a pervading rock (अश्ना (*aśnā*)). The example: as one sees a fish living in a dried-up pool. Having seen it, he split Vala with a varied sound (विरवेण (*viraveṇa*)) and drew out that cow-form honey. The example: चमसं न (*camasaṃ na*); चमसः (*camasaḥ*) is the Soma vessel, in which they drink; as one takes it out of a tree.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -20344,7 +20344,7 @@ Brihaspati saw all round मधु (*madhu*), that is, the cows, covered by a pe
 - अश्ना (*aśnā*)—by the rock spread all round
 - आपिनद्धं (*āpinaddhaṃ*)—covered
 - मधु (*madhu*)—the cow
-- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspati
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
 - पर्यपश्यत् (*paryapaśyat*)—saw
 - वृक्षात् (*vṛkṣāt*)—cutting a tree, from it
 - चमसं न (*camasaṃ na*)—as one prepares a Camasa vessel
@@ -20355,14 +20355,14 @@ Brihaspati saw all round मधु (*madhu*), that is, the cows, covered by a pe
 
 ##### भावार्थ (Bhāvārtha)
 
-As one easily sees a fish living in a pool of dried-up water, Brihaspati saw the cow covered all round by rock. As one cuts a tree and prepares a Camasa vessel from it, he split Vala with his roaring sound and brought out the honey in cow-form.
+As one easily sees a fish living in a pool of dried-up water, Bṛhaspati saw the cow covered all round by rock. As one cuts a tree and prepares a Camasa vessel from it, he split Vala with his roaring sound and brought out the honey in cow-form.
 
 ##### English translation
-Brihaspati looked round upon the cows shut up in the cave like fish in a dried-up pool, he seized Vala with a shout, cutting him off like a bowl from a tree.
+Bṛhaspati looked round upon the cows shut up in the cave like fish in a dried-up pool, he seized Vala with a shout, cutting him off like a bowl from a tree.
 
 ##### विशेषविषयगळु (Special Topics)
 
-The meaning Sāyaṇa has given for this Ṛk differs from the meaning Yāska has given. Explaining the etymology of the word Brihaspati, Yāska says: बृहस्पतिर्बृहतः पाता वा पालयिता वा (*bṛhaspatirbṛhataḥ pātā vā pālayitā vā*). Of him there is this Ṛk.
+The meaning Sāyaṇa has given for this Ṛk differs from the meaning Yāska has given. Explaining the etymology of the word Bṛhaspati, Yāska says: बृहस्पतिर्बृहतः पाता वा पालयिता वा (*bṛhaspatirbṛhataḥ pātā vā pālayitā vā*). Of him there is this Ṛk. अश्नापिनद्धं मधु पर्यपश्यन्मत्स्यं न दीन उदनि क्षियंतं । निष्कज्जभार चमसं न वृक्षा (*aśnāpinaddhaṃ madhu paryapaśyanmatsyaṃ na dīna udani kṣiyaṃtaṃ | niṣkajjabhāra camasaṃ na vṛkṣā*)-
 
 ### Printed p. 584
 
@@ -21839,9 +21839,9 @@ Radiant daughters of heaven, Dawn and Night, sit down on the place of sacrifice;
 
 In this Ṛk the presiding deities of night and morning, नक्तोषासा (*naktoṣāsā*), are invoked. Yāska's explanation of the word नक्तोषासा (*naktoṣāsā*) is as follows.
 उषासानक्ता । उषासानक्कोषाश्च नक्ता चोषा व्याख्याता । नक्तेति रात्रिनामानक्ति भूतन्यवश्यायेनापि ना नक्ताव्यक्तवर्णा ॥ (*uṣāsānaktā | uṣāsānakkoṣāśca naktā coṣā vyākhyātā | nakteti rātrināmānakti bhūtanyavaśyāyenāpi nā naktāvyaktavarṇā ‖*)
-Whether read नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*), the meaning is one. The explanation of the word उषाः (*uṣāḥ*) we have given earlier. नक्ता (*naktā*) is a name of night. For नक्ता (*naktā*) means "of indistinct colour": because of the darkness, things are indistinct, that is, not seen well. So the night accompanied by darkness is called नक्ता (*naktā*), and in the night creatures are unable to do their activities. अनक्ति क्लेदयति भूतानि अवश्यायेन । (*anakti kledayati bhūtāni avaśyāyena |*) Or else अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः ॥ (*api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ ‖*) Since the darkness troubles creatures so that their activities cannot proceed properly, the night accompanied by such darkness is called नक्ता (*naktā*); or because everything is indistinct, not seen well, it is called नक्ता (*naktā*). By day the forms of all things are clearly seen; in the night they are not. Therefore the time of night is called नक्ता (*naktā*) (Ni. 8-11).
+Whether read नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*), the meaning is one. The explanation of the word उषाः (*uṣāḥ*) we have given earlier. नक्ता (*naktā*) is a name of night. For नक्ता (*naktā*) means "of indistinct colour": because of the darkness, things are indistinct, that is, not seen well. So the night accompanied by darkness is called नक्ता (*naktā*), and in the night creatures are unable to do their activities. अनक्ति क्लेदयति भूतानि अवश्यायेन । (*anakti kledayati bhūtāni avaśyāyena |*) Or else अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः ॥ (*api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ ‖*) Since the darkness troubles creatures so that their activities cannot proceed properly, the night accompanied by such darkness is called नक्ता (*naktā*); or because everything is indistinct, not seen well, it is called नक्ता (*naktā*). By day the forms of all things are clearly seen; in the night they are not. Therefore the time of night is called नक्ता (*naktā*), so he has explained (Ni. 8-11).
 
-It has been said that the explanation of the word उषाः (*uṣāḥ*) was given earlier. That explanation is as follows: sixteen words beginning with विभावरी (*vibhāvarī*), सूनरी (*sūnarī*) are names of Dawn (2-19), and उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥ (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*) Because it removes the darkness of the night-time it is called उषाः (*uṣāḥ*); that is, the latter part of the night. To support this meaning, the last part gives an example—
+It has been said that the explanation of the word उषाः (*uṣāḥ*) was given earlier. That explanation is as follows: sixteen words beginning with विभावरी (*vibhāvarī*), सूनरी (*sūnarī*) are names of Dawn (2-19), and उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥ (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*) Because it removes the darkness of the night-time it is called उषाः (*uṣāḥ*); that is, the latter part of the night. To support this meaning he (Yāska) gives an example—
 
 ### Printed p. 626
 इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सावाय एवा रात्र्युषसे योनिमारैक् ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ sāvāya evā rātryuṣase yonimāraik ‖*) (Ṛ. Saṃ. 1-113-1)
