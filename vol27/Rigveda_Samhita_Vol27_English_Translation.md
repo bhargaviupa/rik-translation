@@ -35060,6 +35060,240 @@ Come, Ashwins, with the chariot that is swifter than thought, which the Ribhus m
 > ता व॒र्तिर्या॑तं ज॒युषा॒ वि पर्व॑त॒मपि॑न्वतं श॒यवे॑ धे॒नुम॑श्विना ।  
 > वृक॑स्य चि॒द्वर्ति॑कामं॒तरा॒स्या॑द्यु॒वं शची॑भिर्ग्रसि॒ताम॑मुंचतं ॥
 
+### Printed p. 966
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वर्तिः । यातं । जयुषा । वि । पर्वतं । अपिन्वतं । शयवे । धेनुं । अश्विना ।  
+> वृकस्य । चित् । वर्तिकां । अंतः । आस्त्यात् । युवं । शचीभिः । ग्रसितां । अमुंचतं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् ता तौ युवां जयुषा जयशीलेन रथेन पर्वतमदिं प्रति
+> वर्तिमार्गं वि यातं । विविधं गच्छथः । तथा च निगमांतरं । वि जयुषा रथ्या
+> यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । ऋ. ६ ६२.७ । इति । किंच युवां
+> शयवे शयोरर्थाय धेनुमपिन्वतं । निवृत्तप्रसवां वृद्धां गां प्रभूतस्य
+> पयसो दोग्धीं कृतवंतौ स्थ इत्यर्थः । तथा च निगमांतरं । युवं धेनुं
+> शयवे नाधितायापिन्वतमश्विना पूर्वाय । ऋ. १-११८-८ । इति । किंच युवं
+> युवां वृकस्यांतरनुप्रविष्टां ग्रसितां वृकेण ग्रस्तां वर्तिकां । वर्तिका नाम
+> चटका । तामास्याद्वकस्य मुखाच्छचीभिः प्रज्ञाभिः कर्मभिर्वामुंचतं । अनोचयतं । तथा च निगमांतरं । अजोहवीदश्विना वर्तिका नामास्नो यत्सीममुंचतं वृकस्य! ऋ. १.११७-१६! इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: with a chariot that is victorious you go variously towards the mountain, along the path. As confirmation he cites another Vedic text (Ṛ. 6 62.7) **NOTE**. Further, for Śayu you made the cow, old and no longer bearing, a giver of abundant milk; he cites another text for this (Ṛ. 1-118-8). Further, the bird called vartikā, which is a sparrow, had gone into the wolf and was swallowed by the wolf; you released it from the wolf's mouth by your skills, that is, by your wisdom or by your deeds, you set it free. He cites another text for this also (Ṛ. 1.117-16).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- ता (*tā*)—you
+- जयुषा (*jayuṣā*)—with a victorious chariot
+- पर्वतं वर्तिः (*parvataṃ vartiḥ*)—on the mountain path
+- वि यातं (*vi yātaṃ*)—having travelled in many ways
+- शयवे (*śayave*)—for Śayu
+- धेनुं अपिन्वतं (*dhenuṃ apinvataṃ*)—you nourished the barren cow so that she became a milk-giving cow
+- युवं (*yuvaṃ*)—you
+- वृकस्य अंतः (*vṛkasya aṃtaḥ*)—inside the wolf's mouth
+- ग्रसितां (*grasitāṃ*)—swallowed
+- वर्तिकां (*vartikāṃ*)—the bird called vartikā
+- आस्यात् (*āsyāt*)—from its mouth
+- शचीभिः (*śacībhiḥ*)—by your deeds
+- अमुंचतं (*amuṃcataṃ*)—you released
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, with your victorious chariot you travelled in many ways along the mountain path. For Śayu you made the cow that had been barren give milk. You released from its mouth the sparrow that had been swallowed in the wolf's mouth.
+
+##### English translation
+Do you two, Ashwins, climb the path to the mountain with your triumphant chariot ; you have renovated for Shayu the (barren) milch cow : you liberated by your acts the quail that had becu seized from the jaws of the wolf.
+
+### Printed p. 967
+
+##### विशेषविषयगळु (Special Topics)
+
+Śayave dhenuṃ apinvataṃ: a cow belonging to one named Śayu was very weak and had thin limbs. Because the condition of its body was not right, it was very lean and was not in a state to calve and give milk. Sāyaṇa explains that the Aśvin gods treated such a cow so that strength came to it, and made it give milk. Skandasvāmin also explains the meaning in the same way, and has cited this Ṛk:
+
+शयवे चिन्ना सत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गां । (*śayave cinnā satyā śacībhirjasuraye staryaṃ pipyathurgāṃ |*) (Ṛ. Saṃ. 1-119-22) **NOTE**
+
+युवं वृकस्य अंतः ग्रसितां वर्तिकां आस्मात् शचीभिः अमुंचतं वर्तिका जटकसदृशस्य पक्षिणः स्त्री । तामरण्ये वर्तमानेन शुना (वृकेण) ग्रस्तां पुरा किलाश्विनावमोचयतां । तदेतदाह । (*yuvaṃ vṛkasya aṃtaḥ grasitāṃ vartikāṃ āsmāt śacībhiḥ amuṃcataṃ vartikā jaṭakasadṛśasya pakṣiṇaḥ strī | tāmaraṇye vartamānena śunā (vṛkeṇa) grastāṃ purā kilāśvināvamocayatāṃ | tadetadāha |*)
+
+Once upon a time, in a forest, a wolf seized a sparrow and was going off, holding it in its mouth in order to eat it; the Aśvin gods released that sparrow from the wolf's mouth and saved it.
+
+Vṛkasya: विकर्तकस्य (*vikartakasya*), that is, of one who injures exceedingly. The word vṛka is read among the eighteen names of the thunderbolt (Ni. 3-11) and among the fourteen names of the thief (Ni. 3-19). And further:
+
+वृकः-वृकश्चंद्रमा भवति विवृतज्योतिष्को वा विकृतज्योतिष्को ना विक्रांत ज्योतिष्को वा ॥ (*vṛkaḥ-vṛkaścaṃdramā bhavati vivṛtajyotiṣko vā vikṛtajyotiṣko nā vikrāṃta jyotiṣko vā ‖*) (Ni. 5-21)
+
+Yāska explains the word vṛka thus: the moon is denoted by the word vṛka either because it has light that is manifest, or because by the excess of its cool light it distorts others, or because it has a brightness greater than that of the planets, stars and other luminaries. Giving as an example this Ṛk:
+
+अरुणो मा सकृद्वकः पथा यंतं ददर्श हि । उज्जिहीते निचाय्या तप्पेव पृष्टामयी वित्तं मे अस्य रोदसी ॥ (*aruṇo mā sakṛdvakaḥ pathā yaṃtaṃ dadarśa hi | ujjihīte nicāyyā tappeva pṛṣṭāmayī vittaṃ me asya rodasī ‖*) (Ṛ. Saṃ. 1-105-18)
+
+he cites:
+
+अरुण आरोचमानो मासकृन्मासानां चार्धमासानां च कर्ता भवति चंद्रमा वृकः पथा यंतं ददर्श नक्षत्रगणमभिजिहीते निचाय्य येन येन योक्ष्यमाणो भवति चंद्रमास्तक्ष्णुवन्निव पृष्ठरोगी जानीतं मेऽस्य द्यावापृधिव्याविति ॥ (*aruṇa ārocamāno māsakṛnmāsānāṃ cārdhamāsānāṃ ca kartā bhavati caṃdramā vṛkaḥ pathā yaṃtaṃ dadarśa nakṣatragaṇamabhijihīte nicāyya yena yena yokṣyamāṇo bhavati caṃdramāstakṣṇuvanniva pṛṣṭharogī jānītaṃ me 'sya dyāvāpṛdhivyāviti ‖*) (Ni. 5-21)
+
+### Printed p. 968
+
+He explains that the word vṛka in this Ṛk means the moon.
+
+आदित्योऽपि वृक उच्यते । यदावृंक्ते (*ādityo 'pi vṛka ucyate | yadāvṛṃkte*) (Ni. 5-21) The sun also is called vṛka. The reason is that he covers (conceals) the darkness with his light (or with his rays). Having said this, and giving as an example this Ṛk:
+
+अजोहवीदश्विना वर्तिका नामास्नो यत्सीममुंचतं वृकस्य । वि जयुषा ययथुः सान्वद्रेर्जातं विष्णाचो अहतं विषेण ॥ (*ajohavīdaśvinā vartikā nāmāsno yatsīmamuṃcataṃ vṛkasya | vi jayuṣā yayathuḥ sānvadrerjātaṃ viṣṇāco ahataṃ viṣeṇa ‖*) (Ṛ. 1-117-16)
+
+and then, giving the etymology:
+
+आह्वयदुषा अश्विनावादित्येनाभिग्रस्ता तामश्विनौ प्रमुमुचतुरित्याख्यानं । (*āhvayaduṣā aśvināvādityenābhigrastā tāmaśvinau pramumucaturityākhyānaṃ |*)
+
+he says that vṛka means Āditya.
+
+श्वापि वृक उच्यते विकर्तनात् (*śvāpi vṛka ucyate vikartanāt*) (Ni. 5-20)
+
+The word vṛka also means a dog. As an example:
+
+वृकश्चिदस्य वारण उरामथिरा वयुनेषु भूषति । सेमं नः स्तोमं जुजुषाण आ गहींद्र प्र चित्रया धिया ॥ (*vṛkaścidasya vāraṇa urāmathirā vayuneṣu bhūṣati | semaṃ naḥ stomaṃ jujuṣāṇa ā gahīṃdra pra citrayā dhiyā ‖*) (Ṛ. Saṃ. 8.66.8)
+
+Having cited this Ṛk he says विविधमसौ कृंतति तस्माद्वृकः (*vividhamasau kṛṃtati tasmādvṛkaḥ*). Because, when it eats food, it cuts it up into pieces and eats it, the dog is called vṛka. For the word vṛka in this Ṛk he explains the meaning as Sārameya, the dog of the gods.
+
+वृद्धवाशिन्यपि वृक्युच्यते (*vṛddhavāśinyapi vṛkyucyate*) (Ni. 5-21) A big female jackal, or a wolf, is called vṛkī. In support of this meaning he cites this Ṛk:
+
+शतं मेषान् वृक्षे चक्षदानमृज्राश्वं तं पितांधं चकार । तस्मा अक्षी नासत्या विचक्ष आधत्तं दस्रा भिषजावनर्वन् ॥ (*śataṃ meṣān vṛkṣe cakṣadānamṛjrāśvaṃ taṃ pitāṃdhaṃ cakāra | tasmā akṣī nāsatyā vicakṣa ādhattaṃ dasrā bhiṣajāvanarvan ‖*) (Ṛ. Saṃ. 1-116-86) **NOTE**
+
+and for the word vṛkṣe occurring here he gives the meaning "for the female jackal or the wolf". Thus, having shown that the word vṛka has many meanings, he has cited the examples for each.
+
+Skandasvāmin, explaining वृकेण ग्रस्यमानां चटकां वृकस्य आस्मात् मोचितवंता (*vṛkeṇa grasyamānāṃ caṭakāṃ vṛkasya āsmāt mocitavaṃtā*), says in the same way as Sāyaṇa has explained that the Aśvin gods released the sparrow from the wolf's mouth and saved it, and cites:
+
+### Printed p. 969
+
+याभिर्वर्तिकां ग्रसिताममुंचतं ताभिरू षु ऊतिभिरश्विनागतम् ॥ (*yābhirvartikāṃ grasitāmamuṃcataṃ tābhirū ṣu ūtibhiraśvināgatam ‖*) (Ṛ. Saṃ. 1-112-8)
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं वां॒ स्तोम॑मश्विनावक॒र्मात॑क्षाम॒ भृग॑वो॒ न रथं॑ ।  
+> न्य॑मृक्षाम॒ योष॑णां॒ न मर्यॆ॒ नित्यं॒ न सू॒नुं तन॑यं॒  ॑
+> दधानाः ॥ ८४ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतं । वां । स्तोमं । अश्विनौ । अकर्म । अतक्षाम । भृगवः । न । रथं ।  
+> नि । अमृक्षाम । योषणां । न । मर्यॆ । नित्यं । न । सूनुं । तनयं । दधानाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् ततो वां युवयोरेतं यथोक्तं स्तोमं स्तोत्रमकर्म । अकुर्म । तदेवाह । भृगवो न भृगव इव रथमतक्षाम । वयं स्तोत्रं
+> संस्कृतवंतः । कर्मयोगादृभवो भृगव उच्यंते । अथवा रथकारा भृगवः । किंच
+> वयं नित्यं शाश्वतं तनयं यागादीनां कर्मणां तनितारं सूनुं नारसं पुत्रमिव स्तोमं दधाना धारयंतो मर्यॆ मनुष्ये न्यमृक्षाम । युवयोः
+> स्तुतिं नितरां संस्कृतवंतः । तत्र दृष्टांतः । योषणां न । यथा जायां
+> तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: we have made this praise of you, as stated. Like the Bhṛgus we have fashioned a chariot, that is, we have refined the hymn. By their work the Ṛbhus are called Bhṛgus; or else the Bhṛgus are chariot-makers. Further, holding the praise like an eternal son who extends sacrificial rites **NOTE**, we have adorned it among men, that is, we have refined your praise thoroughly. The example is: as one adorns a wife.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- वां (*vāṃ*)—addressing you
+- एतं स्तोमं (*etaṃ stomaṃ*)—this praise
+- अकर्म (*akarma*)—we have made
+- भृगवः (*bhṛgavaḥ*)—the Ṛbhus
+- रथं न (*rathaṃ na*)—as they fashion your chariot
+- अतक्षाम (*atakṣāma*)—we fashion this praise
+- सूनुं न (*sūnuṃ na*)—as one cherishes a son
+- नित्यं (*nityaṃ*)—eternal
+- तनयं (*tanayaṃ*)—and extending the sacrifice
+- दधानाः (*dadhānāḥ*)—having made the praise
+- योषणां न (*yoṣaṇāṃ na*)—as one adorns a wife
+- मर्त्ये (*martye*)—among men
+- न्यमृक्षाम (*nyamṛkṣāma*)—we adorn fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, we have made this praise addressing you. As the Ṛbhus fashion your chariot, we fashion this praise. Cherishing it as one cherishes a son, having made a praise that is eternal and that extends the sacrifice, we adorn it fully among men, as one adorns a wife.
+
+##### English translation
+For you, Ashwins, we have made, we have built this praise, as the Bhrigus (built) your car : cherishing (this praise) like a son, the eternal performer of rites, we have decked (with ornaments your laudation) amongst men, as if it had been a wife.
+
+### Printed p. 970
+
+## Sūkta 40 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथं यांतमिति चतुर्दशर्चमेकादशं सूक्तं । काक्षीवत्या घोषाया
+> आर्षं । जागतमाश्विनं । रथं यांतमित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning रथं यांतं (*rathaṃ yāṃtaṃ*) is the eleventh sūkta and has fourteen Ṛks. Its seer is Ghoṣā, the daughter of Kakṣīvat; the metre is Jagatī and the deity the Aśvins. The Anukramaṇī says रथं यांतं (*rathaṃ yāṃtaṃ*). The use of the sūkta is stated for the Prātaranuvāka and for the Āśvina-śastra.
+
+##### Anuvāda
+
+This sūkta beginning रथं यांतं (*rathaṃ yāṃtaṃ*) is the eleventh sūkta in the third anuvāka. It has fourteen Ṛks. The seer of this sūkta is the woman named Ghoṣā, daughter of the seer Kakṣīvān; the deity is the Aśvin gods; the metre is Jagatī. In the Anukramaṇī it is spoken of as रथं यांतं (*rathaṃ yāṃtaṃ*). The sūkta is used for the Prātaranuvāka and the Āśvina-śastra mantras.
+
+- Sūkta—40
+- Maṇḍala—10; Anuvāka—3; Sūkta—40
+- Aṣṭaka—7; Adhyāya—8; Varga—12, 19, 20
+- Number of Ṛks in the sūkta—14
+- Seer—Ghoṣā Kākṣīvatī **NOTE**
+- Deity—Aśvins
+- Metre—Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॒ यांतं॒ कुह॒ को ह॑ वां नरा॒ प्रति॑ द्यु॒मंतं॑ सुवि॒ताय॑ भूषति ।
+
+### Printed p. 971
+
+> प्रातर्यावाणं विभ्वं विशेविशे वस्तोर्वस्तोर्वहमानं  
+> धिया शमि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । यांतं । कुह । कः । ह । वां । नरा । प्रति । द्युमंतं । सुविताय ।  
+> भूषति ।  
+> प्रात्रःयावानं । विभ्वं । विशेविशे । वस्तोऽवस्तोः । वहमानं । धिया ।  
+> शमि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा कर्मणां नेतारावश्विन् नां युवयोः संबंधिनं द्युमंतं दीप्तिमंतं प्रातर्यावाणं यज्ञं प्रति प्रातःकाले गंतारं विभ्वं विभुं व्यापिनं विशे
+> विशे सर्वॆषु मनुष्येषु वस्तोर्वस्तोरन्वहं वहमानं धनं प्रापयंतं यांतं
+> गच्छंतं रथं कुह कस्मिन्देशे को ह कः खलु यजमानः शमि यज्ञरूपे कर्मणि
+> धिया स्तुतिरूपेण कर्मणा सुवितायाभ्युदयार्थं प्रति भूषति । आलंकरोति ।
+> कस्मिन्देशे यज्ञे कोऽन्यो यजमानो युवां स्तुतिभिर्हविर्भिश्च पूजितवान्
+> येनास्मद्यज्ञं प्रति विलंबेनागतवंतौ स्थ इत्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins as leaders of rites: where, in what place, which sacrificer indeed adorns, for prosperity, in the sacrificial act, by the act of praise, that chariot of yours, shining, going to the sacrifice at dawn, all-pervading, carrying wealth every day to every person, moving? The intent is: in what place, at what sacrifice, which other sacrificer has worshipped you with praises and oblations, so that you have come late to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin gods, leaders of rites
+- वां (*vāṃ*)—belonging to you
+- द्युमंतं (*dyumaṃtaṃ*)—resplendent
+- प्रातरावाणं (*prātarāvāṇaṃ*)—going to the sacrifice at dawn itself
+- विभ्वं (*vibhvaṃ*)—all-pervading
+- विशेषिविशे (*viśeṣiviśe*)—to every sacrificer
+- वस्तोर्वस्तोः (*vastorvastoḥ*)—every day
+- वहमानं (*vahamānaṃ*)—carrying wealth
+- यांतं (*yāṃtaṃ*)—moving
+- रथं (*rathaṃ*)—the chariot
+- कुह (*kuha*)—in what place
+- को ह (*ko ha*)—which sacrificer indeed
+- शमि (*śami*)—in the sacrificial act
+- धिया (*dhiyā*)—by the act of praise
+- सुविताय (*suvitāya*)—for his own good
+- परिभूषति (*paribhūṣati*)—adorns
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, leaders of rites, that which belongs to you, resplendent, which goes to the sacrifice at dawn itself, all-pervading, which for every sacrificer every day
+
 ---
 
-**Progress note:** Done through printed p. 965. Ṛk 9 end, Ṛk 10-12, start of Ṛk 13 (Aśvins: Pedu's horse)
+**Progress note:** Done through printed p. 971. Ṛk 13 rest, Ṛk 14 of sūkta 39, sūkta 40 Ṛk 1
