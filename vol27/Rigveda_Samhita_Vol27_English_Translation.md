@@ -32283,6 +32283,277 @@ I invoke the vast and beautiful day and night, heaven and earth, Mitra and Varun
 > रिषः ।  
 > मा । दुःविदत्रा । निऋतिः । नः । ईशत । तत् । देवानां । अवः । आद्य । वृणीमहे ॥ २ ॥
 
+### Printed p. 893
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रचेतसा सुबुद्धी ऋतावरी यज्ञवत्यौ सत्यवत्यौ द्यौश्च पृथिवी च द्यावापृथिव्यावुभे नोऽस्मानिषो हिंसकादंहसः पापाच्च रक्षतां । किंच दुर्विदत्ता
+> कुत्सितज्ञाना, निर्ऋतिर्मृत्युदेवता नोऽस्माकं मेशत । ईश्वरी मा भूत् । किंच
+> वयं देवानां संबंधि तदसाधारणमवो रक्षणमद्यास्मिन्नहनि प्रधानयागदिवसे
+> वृणीमहे । प्रार्थयामहे ॥
+
+##### Gist of the bhāṣya
+
+The two, heaven and earth, are of excellent mind and possessed of sacrifice and truth; may both of them protect us from the injuring sin. May the death-deity Nirṛti, of evil understanding, not be mistress over us. And we pray today, on the day of the principal sacrifice, for that unparalleled protection that belongs to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसा (*pracetasā*)—of excellent understanding
+- ऋतावरी (*ṛtāvarī*)—guardians of truth
+- दौश्च पृथिवी च (*dauśca pṛthivī ca*)—heaven and earth, both
+- नः (*naḥ*)—us
+- रिषः (*riṣaḥ*)—from the injurers
+- अंहसः (*aṃhasaḥ*)—from sins
+- रक्षतां (*rakṣatāṃ*)—may they protect
+- दुर्विदत्रा (*durvidatrā*)—of evil mind
+- निर्यतिः (*niryatiḥ*)—the death-deity
+- नः (*naḥ*)—over us
+- मा ईशत (*mā īśata*)—may she not exercise lordship
+- देवानां (*devānāṃ*)—granted by the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- अद्य (*adya*)—at this time of the sacrifice
+- वृणीमहे (*vṛṇīmahe*)—I pray for
+
+##### भावार्थ (Bhāvārtha)
+
+May heaven and earth, both of excellent understanding and guardians of truth, protect us from the injurers and from sins. May the death-deity of evil mind not exercise lordship over us. We pray at this time of the sacrifice for that unparalleled protection which is granted by the gods.
+
+##### English translation
+May the intelligent and truthful heaven and earth defend us from sin, and from the malignant : let not the malevolent Nirriti have power over us : we solicit to-day this protection of the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्मान्नो॒ अदि॑तिः पा॒त्वंह॑सो मा॒ता मि॒त्रस्य॒ वरु॑णस्य रे॒वतः॑।  
+> स्व॑र्व॒ज्योति॑रवृ॒कं न॑शीमहि॒ तद्दे॒वाना॒मवो॑ अ॒द्या वृ॑णीमहे ॥ ३ ॥
+
+### Printed p. 894
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्मात् । नः । अदितिः । पातु । अंहसः । माता । मित्रस्य । वरुणस्य । रेवतः ।  
+> स्वर्ऽवत् । ज्योतिः । अवृकं । नशीमहि । तत् । देवानां । अवः । अद्य । वृणीमहे!!
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रेवतो धनवतो मित्रस्य वरुणस्य च धनवतोर्मित्रावरुणयोर्माता
+> जनन्यदितिर्देवी नोऽस्मान्विश्वस्मात्सर्वस्मादंहसः पापात्पातु । रक्षतु । किंच वयमवृकं बाधकरहितं स्वर्वत् सर्वं ज्योतिस्तेजो नशीमहि । नशिः पलायनकर्मा ।
+> पलायनं च शीघ्रगमनं । शीघ्रं प्राप्नुम इत्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Aditi, the divine mother of the wealthy Mitra and of Varuṇa, the two wealthy ones, protects us from all sin. And may we obtain all light and radiance, free from obstruction. The root meaning "to be lost" here has the sense of running, and running is swift going: the meaning is that we may swiftly reach it. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेवतः (*revataḥ*)—wealthy
+- मित्रस्य (*mitrasya*)—of Mitra
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- माता (*mātā*)—the mother
+- अदितिः (*aditiḥ*)—the goddess Aditi
+- नः (*naḥ*)—us
+- विश्वस्मात् (*viśvasmāt*)—from all
+- अंहसः (*aṃhasaḥ*)—sin
+- पातु (*pātu*)—may she protect
+- अवृकं (*avṛkaṃ*)—free from injury
+- सर्वं ज्योतिः (*sarvaṃ jyotiḥ*)—all radiance
+- नशीमहि (*naśīmahi*)—may we swiftly obtain
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- अद्य (*adya*)—at this time of the sacrifice
+- वृणीमहे (*vṛṇīmahe*)—we pray for
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Aditi, the mother of the wealthy Mitra and Varuṇa, protect us from all sin. May we swiftly obtain all radiance that is free from injury. We pray at this time of the sacrifice for that unparalleled protection which is to be had from the gods.
+
+##### English translation
+May Aditi, the mother of the opulent Mitra and Varuna, preserve us from all sin, may we hasten to celestial light, which is free from oppressors: we solicit to-day this protection of the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रावा॒ वद॒न्नप॒ रक्षां॑सि सेधतु दुः॒ष्वष्ट्यं॒ निर्ऋ॑तिं॒ विश्व॑म॒त्रिणं॑ ।
+
+### Printed p. 895
+
+> आदित्यं शर्म मरुतामशीनुहि तद्देवानामवो अद्या वृणेमहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रावा । वदन् । अप । रक्षांसि । सेधतु । दुःस्वप्नं । निःऋतिं । विश्वं । अत्रिणं ।  
+> आदित्यं । शर्म । मरुतां । अशीमहि । तत् । देवानां । अवः । अद्य । वृणेमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रावाभिषवपाषाणो वदन्नभिषववेलायां शब्दं कुर्वन्रक्षांसि यागविघ्नकारीण्यप सेधतु । विनिवारयतु । दुःस्वप्नं दुःस्वप्नप्रभवमस्मदीयमनिष्टं चाप
+> सेधतु । निर्ऋतिं मृत्युदेवतां चाप सेधतु । अत्रिणमदनशीलं विश्वं सर्वं पिशाचादिकं चाप सेधतु । एवं निर्विघ्नत्वेन निप्पन्ने यागे वयमादित्यमादित्यानां
+> संबंधि मरुतां च संबंधि शर्म सुखमशीमहि । प्राप्पुयाम । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+May the pressing stone, sounding at the time of pressing, drive away the demons that obstruct the sacrifice, and drive away the bad dream and the evil that comes from a bad dream and is ours, and the death-deity Nirṛti. May it drive away everything devouring, the piśācas and the like. When the sacrifice has thus been completed without obstacle, may we obtain the happiness that belongs to the Ādityas and to the Maruts. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावा (*grāvā*)—the pressing stone
+- वदन् (*vadan*)—sounding
+- रक्षांसि (*rakṣāṃsi*)—the demons
+- अप सेधतु (*apa sedhatu*)—let it drive far away
+- दुःस्वप्नं (*duḥsvapnaṃ*)—let it destroy the fruit of the bad dream
+- निर्यतिं (*niryatiṃ*)—let it destroy the death-deity
+- अत्रिणं (*atriṇaṃ*)—all-devouring
+- विश्वं (*viśvaṃ*)—let it drive away all the piśācas and the like
+- आदित्यं (*ādityaṃ*)—given by the Ādityas
+- मरुतां (*marutāṃ*)—given by the Maruts
+- शर्म (*śarma*)—happiness
+- आशीमहि (*āśīmahi*)—may we obtain
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- आद्य (*ādya*)—at this time of the sacrifice
+- वृणेमहे (*vṛṇemahe*)—I pray for
+
+##### भावार्थ (Bhāvārtha)
+
+May the stone that presses the soma, sounding, drive far away the demons, the death-deity, and all the devouring piśācas and the like. May it destroy the fruits of the bad dream and make them not cling to us. May we obtain the happiness that is to come from the Ādityas and the Maruts. We pray at this time of the sacrifice for that unparalleled protection which is to be had from the gods.
+
+##### English translation
+May the sounding stone drive away Rakshasas, evil dreams, Nirriti, and every spirit of ill : may we obtain the happiness of the Adityas and the Maruts : we solicit to-day this protection of the gods.
+
+### Printed p. 896
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंद्रो॑ ब॒र्हिः सीद॑तु॒ पिन्न॑ता॒मिळा॒ बृह॒स्पतिः॒ साम॑भिर्ऋ॒क्वो अ॑र्चतु ।  
+> सु॒प्र॒के॒तं जी॒वसे॒ मन्म॑ धीमहि॒ तद्दे॒वाना॒मवो॑ अ॒द्या वृ॑णीमहे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्रः । बर्हिः । सीदतु । पिन्वतां । इळा । बृहस्पतिः । सामभिः । यक्वः । अर्चतु ।  
+> सुप्रकेतं । जीवसे । मन्म । धीमहि । तत् । देवानां । अवः । अद्य । वृणेमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो बर्हिरा सीदतु । इळा माध्यमिका स्तनयित्सुलक्षणा वागपि पिन्नतां ।
+> किंतु सामभिर्गीयमान यक्वः स्तुतिमान्बृहस्पतिरप्यर्चतु । अस्मान्पूजयतु ।
+> किंच वयं सुप्रकेतं सुप्रज्ञानं मन्म मननीयं धनं स्तोत्रं वा धीमहि
+> निदधीमहि जीवसे जीवनाय । सिद्धमन्यत् ।
+
+##### Gist of the bhāṣya
+
+May Indra sit down upon the sacred grass. May Iḷā, the speech of the middle region, characterised by thunder, also swell with fullness. And may Bṛhaspati, the praiser, who is sung with the Sāmans, honour us. Further, we place in our mind, for life, a well-conceived and meditable wealth or hymn of praise. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- बर्हिः (*barhiḥ*)—on the darbha seat
+- आ सीदतु (*ā sīdatu*)—let him sit down
+- इळा (*iḷā*)—the speech of the middle region
+- पिन्वतां (*pinvatāṃ*)—let her grant favour
+- सामभिः (*sāmabhiḥ*)—praised with the singing of Sāmans
+- ऋक्वः (*ṛkvaḥ*)—having praise in the form of ṛks
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- अर्चतु (*arcatu*)—let him satisfy us
+- सुप्रकेतं (*supraketaṃ*)—full of understanding
+- मन्म (*manma*)—the hymn that is meditative
+- जीवसे (*jīvase*)—for the gaining of our life
+- धीमहि (*dhīmahi*)—we offer
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- अद्य (*adya*)—at this time of the sacrifice
+- वृणेमहे (*vṛṇemahe*)—we pray for
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra come and sit upon the darbha seat. May the speech of the middle region grant favour. May Bṛhaspati, praised with the singing of Sāmans and having praise in the form of ṛks, satisfy us. We offer a hymn full of understanding and meditative, for the gaining of our life. We pray at this time of the sacrifice for that unparalleled protection which is to be had from the gods.
+
+### Printed p. 897
+
+##### English translation
+May Indra sit down upon the sacred grass: may Ila be propitious : May Brihaspati the singer hymned with Samans honour us: we offer an intelligent prayer for life: we solicit to-day this protection of the gods.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वि॒स्पृशं॑ य॒ज्ञम॒स्माक॑मश्विना जी॒राध्व॑रं कृणुतं सु॒म्मनि॒ष्टये॑ ।  
+> प्रा॒चीन॑रश्मि॒माहु॑तं धृ॒तेन॒ तद्दे॒वाना॒मवो॑ अ॒द्या वृ॑णीमहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिविस्पृशं । यज्ञं । अस्माकं । अश्विना । जीरअध्वरं । कृणुतं सुम्मं । इष्टये ।  
+> प्राचीनरश्मिं । आहुतं । धृतेन । तत् । देवानां । अवः । अद्य । वृणीमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां नोऽस्माकं यज्ञं दिविस्पृशं दिवि स्पष्टारं गंतारं
+> कृणुतं । कुरुतं । तथा जीराध्वरं क्षिप्रं हिंसारहितं च यज्ञं नोऽस्माकं कृणुतं।
+> कुरुतं । इप्पयेऽभिलषितसिद्ध्यर्थं सुम्मं सुखं च कुरुतं । किंच धृतेनाज्येनाहुतमग्निं प्राचीनरश्मिं देवाभिमुखं कुरुतमित्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, make our sacrifice one that touches heaven, that goes to heaven. Make our sacrifice also swift and free from injury **NOTE**. For the sake of what is desired, that is, for its fulfilment, make also happiness. And make the fire, offered to with ghee, one whose rays are directed eastward, that is, turned toward the gods. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- अस्माकं (*asmākaṃ*)—our
+- यज्ञं (*yajñaṃ*)—sacrifice
+- जीराध्वरं (*jīrādhvaraṃ*)—free from injury
+- दिविस्पृशं (*divispṛśaṃ*)—reaching the world of heaven
+- कृणुतं (*kṛṇutaṃ*)—make
+- इष्टये (*iṣṭaye*)—accomplishing what we desire
+- सुम्मं (*summaṃ*)—make it pleasant
+- धृतेन (*dhṛtena*)—with ghee (the oblation)
+- आहुतं (*āhutaṃ*)—the fire made to blaze up
+- प्राचीनरश्मिं (*prācīnaraśmiṃ*)—make it one whose rays spread toward the gods
+- अद्य (*adya*)—at this time of the sacrifice
+- देवानां (*devānāṃ*)—to be had from the gods
+- तत् (*tat*)—that unparalleled
+- अवः (*avaḥ*)—protection
+- वृणीमहे (*vṛṇīmahe*)—we ask for
+
+### Printed p. 898
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, make our sacrifice free from injury and make it reach the world of heaven. Make it accomplish what we desire and make it pleasant. Make the fire, kindled by the oblation of ghee, spread its flame toward the gods. We ask at this time of the sacrifice for that unparalleled protection which is to be had from the gods.
+
+##### English translation
+Ashwins, make our sacrifice ascend to heaven free from injury, happy for the attainment of our desires; make the fire to which she is offered blaze up towards (the gods): we solicit to-day this protection of our gods.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ ह्वये सु॒हवं॒ मारु॑तं ग॒णं पा॑व॒कमृ॒ष्टं स॒ख्याय॑  ॒॑
+> शंभुवं ।  
+> रा॒यस्पोषं॑ सौश्रव॒साय॑ धीमहि॒ तद्दे॒वाना॒मुवो॑ अ॒द्या  ॑
+> वृणीमहे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । ह्वये । सुहवं । मारुतु । गणं । पावकं । ऋष्वं । सख्याय । शंभुवं ।  
+> रायः । पोषं । सौश्रवसाय । धीमहि । तत् । देवानां । अवः । अद्य । वृणेमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुहवं स्वाह्वानं पावकं शोधकमृष्टं दर्शनीयं शंभुवं सुखस्य भावयितारं रायो धनस्य पोषं पोषकं मारुतं मरुतां संबंधिनं गणं संघं
+> सख्याय सखिभावायोप ह्वये । उपगम्य ह्वयामि । आगतं गणं सौश्रवसाय
+> शोभनान्नवत्वा य सुयशस्वा य वा वयं धीमहि । बुद्धौ निदधीमहि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Drawing near, I call, for friendship, the host of the Maruts, easily invoked, purifying, beautiful to see, a source of happiness, a nourisher of wealth. We place that host, once arrived, in our mind, for the sake of good fame, that is, good food. The rest is already established.
+
 ---
 
-**Progress note:** Done through printed p. 892. Vol 27 pp. 887-892: Rk 12-14 of sukta 35, sukta 36 Rk 1-2
+**Progress note:** Done through printed p. 898. Vol 27 pp. 893-898: sukta 36 Rk 2-7
