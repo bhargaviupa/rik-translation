@@ -30206,6 +30206,273 @@ Particulars: Maṇḍala 10; Anuvāka 3; Sūkta 33. Aṣṭaka 7; Adhyāya 8; Va
 
 > प्र मा॑ युयुज्रे प्र॒युजो॒ जना॑नां॒ वहा॑मि स्म पू॒षण॒मंत॑रेण ।
 
+### Printed p. 845
+
+> विश्वे देवासो अध मामरक्षन्दुःशासुरागादिति घोष
+> आसीत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मा । युयुजे । प्रयुजः । जनानां । वहामि । स्म । पूषणं । अंतरेण ।  
+> विश्वे । देवासः । अध । मां । अरक्षन् । दुःशासुः । आ । अगात् । इति । घोषः ।  
+> आसीत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनानां यजमानानां प्रयुजः प्रयोक्तारो देवा मा मां कवषमृषिं
+> प्र युयुजे । कुरुश्रवणं प्रति युक्तवंतः । अंतरेण मार्गे पूषणं देवमध्वनां पतिं सखायमहं वहामि स्म । ऊढवानस्मि । तथा श्रूयते । ऐंद्राग्नमेकादशकपालं निर्वपेज्जनतामेष्यन्नित्युपक्रम्य पौष्णं चरुमनु निर्वपेत् ।
+> तै. स. २.२.१.४ । इति । अधाध मार्गे विश्वे देवा मां कवषमरक्षण् । रक्षितवंतः ।
+> दुःशासुः केनापि दुःशासनोऽयमृषिरागात् आगच्छतीति घोषः शब्दश्च मार्ग
+> आसीत् । अभूत् ॥
+
+##### Gist of the bhāṣya
+
+The deities, who are the appointers of men, the sacrificers, have appointed me, the seer Kavaṣa, to Kuruśravaṇa. On the way I have carried Pūṣan, the god who is lord of the roads, as a friend. So it is heard: ऐंद्राग्नमेकादशकपालं निर्वपेज्जनतामेष्यन्नित्युपक्रम्य पौष्णं चरुमनु निर्वपेत् । (*aiṃdrāgnamekādaśakapālaṃ nirvapejjanatāmeṣyannityupakramya pauṣṇaṃ carumanu nirvapet |*) (Tai. Sa. 2.2.1.4) **GLOSS** **NOTE**. Then on the way the Viśvedevas protected me, Kavaṣa. The cry and the sound arose on the road: this seer, hard to rule, is coming.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनानां (*janānāṃ*)—to the sacrificers
+- प्रयुजः (*prayujaḥ*)—the deities who are the impellers
+- मा (*mā*)—me
+- प्र युयुज्रे (*pra yuyujre*)—appointed to Kuruśravaṇa for the sake of the work
+- अंतरेण (*aṃtareṇa*)—in the middle of the road
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- वहामि स्म (*vahāmi sma*)—I have taken along for help
+- अध (*adha*)—at the time of travelling the road
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- मां (*māṃ*)—me
+- अरक्षन् (*arakṣan*)—protected
+- दुःशासुः (*duḥśāsuḥ*)—the seer Kavaṣa, who is unopposed
+- आगात् (*āgāt*)—is coming
+- इति (*iti*)—thus
+- घोषः (*ghoṣaḥ*)—the sound of proclamation
+- आसीत् (*āsīt*)—was heard
+
+##### भावार्थ (Bhāvārtha)
+
+The deities, who impel the performers of the sacrifice, appointed me to Kuruśravaṇa for the sake of the work. In the middle of the road I have taken Pūṣan, the guide, along for help. During the journey all the gods protected me. The proclamation "The unopposed seer Kavaṣa is coming" was heard.
+### Printed p. 846
+
+##### English translation
+The (divinities, the) appointees of men, have appointed me to Kurushravana : I have borne Pushan on the way : the universal gods are my protectors : the cry is " Duhshasu comes."
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं मा॑ तपंत्य॒भितः॑ स॒पत्नी॑रिव॒ पर्श॑वः ।  
+> नि बाधते अमतिर्नग्नता जसुर्वेर्न वेवीयते मतिः ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । मा । तपंति । अभितः । सपत्नी इव । पर्शवः ।  
+> नि । बाधते। अमतिः। नग्नता । जसुः । वेः । न । वेवीयते । मतिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मा मां देवताप्रसादरहितं कवषं पर्शवः पार्श्वास्थीन्यन्नाभावादौर्बल्यात्कुशयनाच्च सपत्नीरिव यथा सपत्न्यस्तद्वदभित उभयतः सं तपंति । दुःखयंतीत्यर्थः । किंचामतिर्दारिद्रादागता दुर्मतिः सर्वार्थविषया सा मां नि बाधते ।
+> मां पीडयति । वस्त्राभावादागता नग्नता च मां नि बाधते । जसुरशनाभावादागत
+> उपक्षयोऽपि मां नि बाधते । किंच वेर्न यथा पक्षिणो मतिः शाकुनिकव्याधभयात्कंपयते तथा मे मतिः शत्रोर्पेवीयते । भृशं कंपयते ॥
+
+##### Gist of the bhāṣya
+
+The ribs, the bones of the sides, torment me, Kavaṣa, who lack the favour of the deities, on both sides, because of lack of food, weakness and sleeping on the ground, like co-wives; that is, they cause pain. Further, wretchedness, the bad mind that comes of poverty and is concerned with all things, oppresses me; nakedness that comes from lack of clothing oppresses me; and the wasting that comes from lack of food also oppresses me. And as the mind of a bird trembles from fear of the fowler and hunter, so my mind trembles greatly because of the enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मा (*mā*)—me
+- पर्शवः (*parśavaḥ*)—the bones of both sides
+- सपत्नीरिव (*sapatnīriva*)—like co-wives
+- अभितः (*abhitaḥ*)—on both sides
+- सं तपंति (*saṃ tapaṃti*)—torment
+- अमतिः (*amatiḥ*)—the bad mind that is the fruit of poverty
+- नि बाधते (*ni bādhate*)—torments
+- नग्नता (*nagnatā*)—and my condition of being without clothes
+- जसुः (*jasuḥ*)—hunger also torments me
+- वेः न (*veḥ na*)—as a bird trembles from fear of the hunter
+- मतिः (*matiḥ*)—my mind full of fear of the enemy
+- वेवीयते (*vevīyate*)—trembles greatly
+### Printed p. 847
+
+##### भावार्थ (Bhāvārtha)
+
+As co-wives torment from both sides, the bones of both my sides torment me exceedingly. The bad mind that is the fruit of poverty, nakedness and hunger also torment me. As a bird trembles from fear of the hunter, my mind, full of fear of the enemy, goes greatly. **NOTE**
+
+##### English translation
+My ribs pain me on both sides, like rival wives : disease, nakedness, hunger, afflict me : my mind flutters like a bird.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मूषो॒ न शि॒श्ना व्य॑दंति मा॒ध्यः॑ स्तो॒तारं॑ ते शतक्रतो ।॒ ॑ 
+> सकृत्सु नो मघवन्निंद्र मृळयाधा पितेव नो भव ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मूषः । न । शिश्ना । वि । अदंति । मा । आध्यः । स्तोतारं । ते । शतक्रतो इति  
+> शतक्रतो ।  
+> सकृत् । सु । नः । मघवन् । इंद्र । मृळय । अध । पिता इव । नः । भव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो बहुकर्मन् मघवन् धनवंश्चेंद्र ते तव स्तोतारं मा
+> मां कवषमाध्य आधयो मूषो न यथा मूषिकाः शिश्नास्नातानि सूत्राण्यश्नंति
+> तथा व्यदंति । विविधमदंति । तथा च यास्कः । संतपंति मामभितः सपत्न्यः इवेमाः
+> पर्शवः कूपपर्शवो मूषिका इवास्नातानि सूत्राणि व्यदंति स्वांगाभिधानं वा
+> स्याच्छिश्नानि व्यदंतीति संतपंति माध्यः कामाः । नि. ४-६ । इति । तथा च सति नोऽस्मान्सकृत्तु मृळय । अभीष्टप्रदानेन सम्यक् सुखय । आधाध नोऽस्माकं पितेव
+> यथा पिता तद्वद्रक्षिता भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra of a hundred acts, rich in wealth: afflictions eat me, your praiser, in various ways, as mice eat unwashed threads. And so Yāska says: संतपंति मामभितः सपत्न्यः इवेमाः पर्शवः कूपपर्शवो मूषिका इवास्नातानि सूत्राणि व्यदंति स्वांगाभिधानं वा स्याच्छिश्नानि व्यदंतीति संतपंति माध्यः कामाः । (*saṃtapaṃti māmabhitaḥ sapatnyaḥ ivemāḥ parśavaḥ kūpaparśavo mūṣikā ivāsnātāni sūtrāṇi vyadaṃti svāṃgābhidhānaṃ vā syācchiśnāni vyadaṃtīti saṃtapaṃti mādhyaḥ kāmāḥ |*) (Ni. 4-6) **GLOSS** That being so, gladden us once, bring us well-being by granting what we wish; and then be our protector, as a father is.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—doer of many acts
+- मघवन् (*maghavan*)—and rich in wealth
+- इंद्र (*iṃdra*)—O Indra
+- शिश्ना (*śiśnā*)—the threads of cloth
+- मूषो न (*mūṣo na*)—as a mouse eats them up
+- ते (*te*)—your
+### Printed p. 848
+- स्तोतारं (*stotāraṃ*)—praiser
+- मा (*mā*)—me
+- आध्यः (*ādhyaḥ*)—diseases
+- व्यदंति (*vyadaṃti*)—eat in many ways
+- नः (*naḥ*)—us
+- सकृत् (*sakṛt*)—exceedingly
+- सु मृळय (*su mṛḷaya*)—make happy
+- अध (*adha*)—therefore
+- नः (*naḥ*)—to us
+- पितेव (*piteva*)—like a father
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many acts and rich in wealth, as a mouse eats up spun threads, so diseases eat me, your praiser, in many ways (they torment me). Free us from that trouble and make us happy. Be to us like a father.
+
+##### English translation
+Afflictions consume me, your worshipper Shatakratu, as mice (eat) threads, for once, Indra, possessor of opulence, grant us felicity ; be to us as a father.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुरुश्रवणमावृणि राजानं त्रासदस्यवं ।  
+> मंहिष्ठं वाघातामृषिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुरुश्रवणं । अवृणि । राजानं । त्रासदस्यवं ।  
+> मंहिष्ठं । वाघतां । ऋषिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरतींद्रियपदार्थद्रष्टा कवषोऽहं त्रासदस्यवं त्रसदस्कोः पुत्रं
+> मंहिष्ठं धनानामतिशयेन दातारं कुरुश्रवणं । कुरव ऋत्विजः । तदीयानां
+> स्तुतीनां श्रोतारं कुरुश्रवणं तन्नामकं राजानं वाघतामृत्विजामर्थायावृणि ।
+> धनानि प्रार्थये ॥
+
+##### Gist of the bhāṣya
+
+I, Kavaṣa, the seer, who see things beyond the senses, choose Kuruśravaṇa, the king named so, son of Trasadasyu, the greatest giver of wealth (the Kurus are the priests, and he is the hearer of their praises), for the sake of the priests, the Vāghatas; I ask for wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषीः (*ṛṣīḥ*)—I, who am called Kavaṣa
+- त्रासदस्यवः (*trāsadasyavaḥ*)—the son of Trasadasyu
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—who gives most abundantly
+- कुरुश्रवणं (*kuruśravaṇaṃ*)—named Kuruśravaṇa
+- राजानं (*rājānaṃ*)—from the king
+- वाघतां (*vāghatāṃ*)—for the priests
+- अवृणि (*avṛṇi*)—I ask for wealth
+### Printed p. 849
+
+##### भावार्थ (Bhāvārtha)
+
+I, who am called Kavaṣa, ask for wealth, for the sake of the priests, from the king named Kuruśravaṇa, the son of Trasadasyu, who gives most abundantly.
+
+##### English translation
+I, the Rishi, solicit (wealth) of the munificent prince Kurushravana, the son of Trasadasyu for the priests.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य मा हरितो रथे तिस्रो वहंति साधुया ।  
+> स्तवै सहस्रदक्षिणे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । मा । हरितः । रथे । तिस्रः । वहंति । साधुया ।  
+> स्तवै । सहस्रदक्षिणे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य कुरुश्रवणाख्यस्य राज्यः स्वभूतास्ति स्रो हरितस्त्रयोऽश्वा रथे प्रस्थितं
+> मा मां कवषं साधुया साधु वहंति कुरुश्रवणं राजानमहं सहस्रदक्षिणेऽस्मिन्यागे स्तवै । सौमि । प्रष्टिवाहिनं रथं परिगृह्यर्षिराशास्ते ॥
+
+##### Gist of the bhāṣya
+
+The three horses of this king named Kuruśravaṇa, his own, bear me, Kavaṣa, who have set out in the chariot, well. I praise King Kuruśravaṇa at this sacrifice of the thousand gifts. The seer, having taken the chariot, speaks his wish. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of that same Kuruśravaṇa
+- तिस्रः हरितः (*tisraḥ haritaḥ*)—the three horses
+- रथे (*rathe*)—seated in the chariot
+- मा (*mā*)—me
+- साधुया (*sādhuyā*)—comfortably
+- वहंति (*vahaṃti*)—bear
+- सहस्रदक्षिणे (*sahasradakṣiṇe*)—that same king who gives without measure at the sacrifice
+- स्तवे (*stave*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+When I go in the chariot to Kuruśravaṇa, his three horses bear me comfortably. I praise that king who gives without measure at the sacrifice.
+### Printed p. 850
+
+##### English translation
+Whose three horses bear me pleasantly in the chariot ; I praise him at the ceremony in which he presents thousands.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य प्रस्वादसो गिर उपमश्रवसः पितुः ।  
+> क्षेत्रं न रण्वमूचुषे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । प्रस्वादसः । गिरः । उपमश्रवसः । पितुः ।  
+> क्षेत्रं । न । रण्वं । ऊचुषे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतः परं यस्येत्यादिकेन सूक्तशेषेण मित्रातिथौ राज्ञि मृते तत्पुत्रस्कोपमश्रवसः समीपमागत्य कवषः स्नेहाच्छोकं निवारयति ॥
+> हे राजन् उपमश्रवसस्तव पितुर्यस्य मित्रातिथेर्गिरो वाचः प्रस्वादसः
+> प्रकर्षण स्वादयित्कृः । तत्र दृष्टांतः । ऊचुषे सेवमानाय दरिद्राय दानार्थं
+> प्रकल्पितं रण्वं रमणीयं क्षेत्रं न यथा क्षेत्रं स्वादयित्कृ तद्वदित्यर्थः । उत्तरत्र
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+From here on, in the rest of the sūkta beginning यस्य (*yasya*), Kavaṣa, having come near the son of King Mitrātithi, Upamaśravas, after Mitrātithi had died, removes his grief out of affection. O king Upamaśravas: the words of your father Mitrātithi, whose, were प्रस्वादसः (*prasvādasaḥ*), exceedingly pleasing. The example: as a delightful field, set apart to be given to a poor man who serves, is pleasing, so are they. The construction continues in what follows. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊचुषे (*ūcuṣe*)—to the one who is poor
+- रण्वं (*raṇvaṃ*)—delightful
+- क्षेत्रं न (*kṣetraṃ na*)—as a cultivated field is agreeable
+- उपमश्रवसः (*upamaśravasaḥ*)—very famous
+- यस्य (*yasya*)—of whom, of you
+- पितुः (*pituḥ*)—of the father Mitrātithi
+- गिरः (*giraḥ*)—the words
+- प्रस्वादतः (*prasvādataḥ*)—were exceedingly agreeable
+
+##### भावार्थ (Bhāvārtha)
+
+O king, as a cultivated field given to a poor man is a source of joy, so the words of your father Mitrātithi, who is very famous, were exceedingly agreeable to me.
+
+##### English translation
+Upamashravas, the words of whose father were sweet, like a pleasant field given to a beggar.
+
 ---
 
-**Progress note:** Done through printed p. 844. Mandala 10 Sukta 32 rks 6-9, end of adhyaya 7, Sukta 33 start (pp. 838-844)
+**Progress note:** Done through printed p. 850. Mandala 10 Sukta 33 rks 1-6 (pp. 845-850)
