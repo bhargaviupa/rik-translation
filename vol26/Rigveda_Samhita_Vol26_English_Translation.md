@@ -7723,6 +7723,309 @@ Pour (upon us), Soma, thousand fold wealth, with excellent male progeny, secure 
 > इषम् । ऊर्जम् । च । पिन्वसे । इंद्राय । मत्सरिन्ऽतमः ।  
 > चमूषु । आ । नि । सीदसि ॥ २ ॥
 
+### Printed p. 230
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मत्सरिंतमः अतिशयेन मदयितृतमस्त्वम् इंद्राय इंद्रार्थम् इषम् अन्नम् ऊर्जं रसं च पिन्वसे क्षरसि । अपि च चमूषु चमसेषु आ नि षीदसि तिष्ठसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who most exhilarate, flow food and sap for Indra, that is, for Indra's sake. Moreover, you settle and stay in the ladles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मत्सरिंतमः (*matsariṃtamaḥ*)—you who are the most exceedingly gladdening (O Soma-deva)
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- इषं (*iṣaṃ*)—food
+- ऊर्जं च (*ūrjaṃ ca*)—and sap
+- पिन्वसे (*pinvase*)—you make flow
+- चमूषु (*camūṣu*)—in the ladle vessels
+- आ नि षीदसि (*ā ni ṣīdasi*)—you sit
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are the most exceedingly gladdening, cause food and sap to flow for Indra's sake. You sit also in the ladle vessels.
+
+##### English translation
+You who are most exhilarating effuse food and drink for Indra; you sit on the ladles.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒त इंद्रा॑य॒ विष्ण॑वे॒ सोमः॑ क॒लशे॑ अक्षरत् ।  
+> मधु॑माँ अस्तु वा॒यवे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतः । इंद्राय । विष्णवे । सोमः । कलशे । अक्षरत् ।  
+> मधुऽमान् । अस्तु । वायवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राय इंद्रार्थं विष्णवे विष्ण्वर्थं च वायवे वाय्वर्थं च सुतः अभिषुतः यः सोमः कलशे द्रोणकलशे अक्षरत् क्षरति सोऽयं सोमः मधुमान् मधुररसवान् अस्तु भवतु ॥
+
+##### Gist of the bhāṣya
+
+The Soma that is pressed for Indra, for Viṣṇu and for Vāyu, and that flows in the Droṇa vessel, may that Soma be full of sweet flavour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- विष्णवे (*viṣṇave*)—for Viṣṇu
+- वायवे (*vāyave*)—for Vāyu
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—which Soma
+- कलशे (*kalaśe*)—in the Droṇa vessel
+- अक्षरत् (*akṣarat*)—flows, that Soma
+- मधुमान् (*madhumān*)—most delicious
+- अस्तु (*astu*)—may it be
+
+### Printed p. 231
+
+##### भावार्थ (Bhāvārtha)
+
+May that Soma, pressed for Indra, for Viṣṇu and for Vāyu, which flows in the Droṇa vessel, be most delicious.
+
+##### English translation
+Soma effused for Indra and Vishnu and Vayu drops into the pitcher ; may he be sweet-flavonred. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते अ॑सृग्रमा॒शवोऽति॒ ह्वरां॑सि ब॒भ्रवः॑ ।  
+> सोमा॑ ऋ॒तस्य॒ धार॑या ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । असृग्रम् । आशवः । अति । ह्वरांसि । बभ्रवः ।  
+> सोमाः । ऋतस्य । धारया ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बभ्रवः बभ्रुवर्णाः आशवः शीघ्राः एते इमे सोमाः ऋतस्य उदकस्य धारया असृग्रं सृज्यंते । ह्वरांसि रक्षांस्यभिगच्छंति च ॥
+
+##### Gist of the bhāṣya
+
+These tawny and swift Somas are let loose with the stream of water, and they go towards the Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बभ्रवः (*babhravaḥ*)—those of golden-brown colour
+- आशवः (*āśavaḥ*)—and swift-going
+- एते सोमाः (*ete somāḥ*)—these Soma-juices
+- ऋतस्य (*ṛtasya*)—with water
+- धारया (*dhārayā*)—joined in the form of a stream
+- ह्वरांसि (*hvarāṃsi*)—towards the Rākṣasas
+- असृग्रं (*asṛgraṃ*)—have been let loose
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, golden-brown and swift-going, joined with water in the form of a stream, have been let loose to rush towards the Rākṣasas.
+
+##### English translation
+These swift-flowing tawny-coloured Soma-juices, with a stream of water are let loose upon the Rakshasas.
+
+### Printed p. 232
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॒ वर्धं॑तो अ॒प्तुरः॑ कृ॒ण्वंतो॒ विश्व॒मार्य॑म् ।  
+> अ॒प॒घ्नंतो॒ अरा॑व्णः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रम् । वर्धंतः । अप्ऽतुरः । कृण्वंतः । विश्वम् । आर्यम् ।  
+> अपऽघ्नंतः । अराव्णः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रं वर्धंतः वर्धयंतः अप्तुरः उदकस्य प्रेरकाः विश्वं सोममस्मदीयकर्मार्थम् आर्यं भद्रं कृण्वंतः कुर्वंतः अराव्णः अदातॄन अपघ्नंतः विनाशयंतः । अभ्यर्षंतीत्युत्तरया संबंधः ॥ ॥ ३० ॥
+
+##### Gist of the bhāṣya
+
+Increasing Indra, impelling the waters, making everything auspicious for our rites **NOTE**, and destroying the non-givers, the Somas flow. Sāyaṇa connects this with the verb अभ्यर्षंति (*abhyarṣaṃti*) of the next Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रं (*iṃdraṃ*)—Indra
+- वर्धंतः (*vardhaṃtaḥ*)—increasing
+- अपुरः (*apuraḥ*)—as impellers of the water **NOTE**
+- विश्वं (*viśvaṃ*)—all
+- आर्यं (*āryaṃ*)—auspiciousness
+- कृण्वंतः (*kṛṇvaṃtaḥ*)—bringing about
+- अराष्ट्रः (*arāṣṭraḥ*)—the misers who give no gifts **NOTE**
+- अपघ्नंतः (*apaghnaṃtaḥ*)—destroying (the Soma-juices go and join their own place)
+
+##### भावार्थ (Bhāvārtha)
+
+Fortifying Indra, impelling the water, bringing about all auspiciousness, and destroying the misers who give no gifts, the Soma-juices go and join their own place.
+
+##### English translation
+Augmenting Indra, urging thc waters. making all our acts prosperous, destroying the withholders (of oblations). **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ता अनु॒ स्वमा रजो॒ऽभ्य॑र्षंति ब॒भ्रवः॑ ।  
+> इंद्रं॒ गच्छं॑त॒ इंद॑वः ॥ ६ ॥
+
+### Printed p. 233
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुताः । अनु । स्वम् । आ । रजः । अभि । अर्षंति । बभ्रवः ।  
+> इंद्रम् । गच्छंतः । इंदवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बभ्रवः बभ्रुवर्णाः सुताः अभिषुताः इंदवः सोमाः इंद्रम् आ गच्छंतः आभिमुख्येन प्राप्नुवंतः स्वं स्वकीयं रजः स्थानम् अनु प्रति अभ्यर्षंति अभिगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The tawny pressed Indus, that is the Somas, going to Indra, that is, reaching towards him, flow towards their own place, their own region.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बभ्रवः (*babhravaḥ*)—those of golden-brown colour
+- सुताः (*sutāḥ*)—and pressed
+- इंदवः (*iṃdavaḥ*)—Soma-juices
+- इंद्रं (*iṃdraṃ*)—towards Indra
+- आ गच्छंतः (*ā gacchaṃtaḥ*)—coming swiftly
+- स्वं (*svaṃ*)—their own
+- रजः अनु (*rajaḥ anu*)—towards their own place
+- अभ्यर्षंति (*abhyarṣaṃti*)—come running
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, golden-brown and pressed, come swiftly towards Indra. They come running towards their own place.
+
+##### English translation
+The effused tawny-coloured Soma-juices going to Indra hasten to their own place.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या प॑वस्व॒ धार॑या॒ यया॒ सूर्य॒मरो॑चयः ।  
+> हि॒न्वा॒नो मानु॑षीर॒पः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । पवस्व । धारया । यया । सूर्यम् । अरोचयः ।  
+> हिन्वानः । मानुषीः । अपः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मानुषीः मनुष्याणां हितानि अपः उदकानि हिन्वानः प्रेरयंस्त्वं यया धारया सूर्यमरोचयः प्राकाशयः तया अया अनया धारया पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, urging on the waters that are beneficial to men, flow with that very stream with which you made the sun shine.
+
+### Printed p. 234
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मानुषीः (*mānuṣīḥ*)—beneficial to men (O Soma-deva)
+- अपः (*apaḥ*)—the waters
+- हिन्वानः (*hinvānaḥ*)—urging on
+- यया (*yayā*)—by which stream of yours
+- सूर्यं (*sūryaṃ*)—the sun
+- अरोचयः (*arocayaḥ*)—you made shine
+- आया धारया (*āyā dhārayā*)—by that same stream
+- पवस्व (*pavasva*)—flow (in the form of a stream)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, urging on the waters that are beneficial to men, flow with that very stream of yours with which you made the sun shine.
+
+##### English translation
+Flow with that stream with which you, Soma, light up the sun, urging on the waters beneficial to man.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अयु॑क्त॒ सूर॒ एत॑शं॒ पव॑मानो म॒नावधि॑ ।  
+> अं॒तरि॑क्षेण॒ यात॑वे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयुक्त । सूरः । एतशम् । पवमानः । मनौ । अधि ।  
+> अंतरिक्षेण । यातवे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः पूयमानः सोमः मनावधि। मनुर्मनुष्यः । तस्मिन् मनुष्य इत्यर्थः । अंतरिक्षेण यातवे गंतुं सूरः सूर्यस्य एतशम् अश्वम् । ‘एतग्वः एतशः' इत्यश्वनामसु पाठात् । अयुक्त युंक्ते ॥
+
+##### Gist of the bhāṣya
+
+The purifying Soma harnesses the horse of the sun to go through the atmosphere to Manu, that is, to man. Sāyaṇa says that the word for the horse is एतशं (*etaśaṃ*), since एतग्वः एतशः (*etagvaḥ etaśaḥ*) is read among the names of horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—Soma-deva who is in the state of being purified
+- अंतरिक्षेण (*aṃtarikṣeṇa*)—through the atmosphere
+- मनावधि (*manāvadhi*)—to man
+- यातने (*yātane*)—to go **NOTE**
+- सूरः (*sūraḥ*)—of the sun
+- एतशं (*etaśaṃ*)—the horse
+- आयुंक्त (*āyuṃkta*)—harnesses **NOTE**
+
+### Printed p. 235
+
+##### भावार्थ (Bhāvārtha)
+
+The purified Soma-deva harnesses the sun's horse to go through the atmosphere to man.
+
+##### English translation
+The purified i(Soma) harnesses the horse of the sun to travel through the firmameut to man. **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्या ह॒रितो॒ दश॒ सूरो॑ अयुक्त॒ यात॑वे ।  
+> इंदु॒रिंद्र॒ इति॑ ब्रु॒वन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्याः । हरितः । दश । सूरः । अयुक्त । यातवे ।  
+> इंदुः । इंद्रः । इति । ब्रुवन् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च इंदुः सोमः इंद्र इति ब्रुवन् त्याः ताः दश दशसंख्याका: हरितः दिशः प्रति यातवे गंतुं सूरः सूर्यस्यैतशम् अयुक्त युनक्ति ॥
+
+##### Gist of the bhāṣya
+
+Moreover, Indu, that is Soma, saying "Indra", harnesses the horse of the sun to go towards those ten quarters, ten in number.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंदुः (*iṃduḥ*)—Soma-deva
+- इंद्र इति (*iṃdra iti*)—as "Indra"
+- ब्रुवन् (*bruvan*)—uttering the name
+- त्याः (*tyāḥ*)—well known
+- दश हरितः (*daśa haritaḥ*)—in the ten directions
+- यातने (*yātane*)—to travel
+- सूरः (*sūraḥ*)—of the sun, the horse
+- आयुंक्त (*āyuṃkta*)—harnesses
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, uttering the name "Indra", harnesses the sun's horse to travel in the well-known ten directions.
+
+##### English translation
+And Indu exclaiming "Indra!" harnesses the (horse of the) sun to go towards these ten regions.
+
 ---
 
-**Progress note:** Done through printed p. 229. Ṛk 25 end to Ṛk 30 of Sūkta 62; Sūkta 63 intro; Ṛk 1-2
+**Progress note:** Done through printed p. 235. Sūkta 63 Ṛk 2-9
