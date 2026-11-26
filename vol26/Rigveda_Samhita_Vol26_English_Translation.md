@@ -19518,6 +19518,252 @@ The Soma who is great and winged, and whose father is Parjanya, has his dwelling
 ##### English translation
 The mighty winged (Soma) whose father is Parjanya has placed his dwelling on the navel of the earth among the mountains; the sisters, the waters flow to (the produce of) the cows; he meets with the stones at the beloved sacrifice.
 
+### Printed p. 522
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जा॒येव॒ पत्या॒वधि॒ शेव॑ मंहसे॒ पज्रा॑या गर्भ शृणु॒हि ब्रवी॑मि ते ।  
+> अं॒तर्वाणी॑षु॒ प्र च॑रा॒ सु जी॒वसे॑ऽनिं॒द्यो वृ॒जने॑ सोम जागृहि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जायाऽइव । पत्यौ । अधि । शेव । मंहसे । पज्रायाः । गर्भ । शृणुहि । ब्रवीमि । ते ।  
+> अंतः । वाणीषु । प्र । चर । सु । जीवसे । अनिंद्यः । वृजने । सोम । जागृहि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जायेव पत्यौ जाया यथा स्वभार्यां भर्तरि सुखं प्रयच्छति तद्वत् शेव शेवम्। द्वितीयाया अंभावाभावश्छांदसः । सुखं मंहसे प्रयच्छसि यजमाने । हे पज्राया गर्भं सोम शृणुहि शृणु स्तुतीर्याः ते तुभ्यं ब्रवीमि । पजिर्गतिकर्मा । पज्रा पृथिवीत्याहुः । अपि वा माध्यमिका वाक् पज्रा । भूमावोषधिरूपेण जातवात्तद्गर्भत्वम् । माध्यमिकाया वाचोऽपि वृष्टिसाधनत्वात् तत्पुत्रत्वम् । स त्वं वाणीषु वाक्षु स्तुतिषु अंतः मध्ये सु सुष्ठु प्र चर जीवसे अस्माकं जीवनाय ।
+
+##### Gist of the bhāṣya
+
+As a wife gives happiness to her husband, so you give happiness to the sacrificer. O Soma, son (garbha) of Pajrā, listen; I speak to you the praises. **NOTE** Sāyaṇa says that the root "paj" denotes motion; Pajrā is the earth, or else Pajrā is the speech of the middle region. Since Soma is born on the earth in the form of plants, he is her embryo; and since the speech of the middle region too is the means of rain, he is her son. You, therefore, move about well in the midst of the speeches, that is, the praises, for our living.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पत्यौ अधि (*patyau adhi*)—to the husband (addressed: O god Soma)
+- जायेव (*jāyeva*)—like a wife
+- शेव (*śeva*)—happiness
+- मंहसे (*maṃhase*)—provide
+- पज्रायाः (*pajrāyāḥ*)—of her called Pajrā (the earth)
+- गर्भ (*garbha*)—O Soma, who are her son
+- शृणुहि (*śṛṇuhi*)—listen to my praise
+- ते (*te*)—addressing you
+- ब्रवीमि (*bravīmi*)—I praise
+- जीवसे (*jīvase*)—for our living
+- वाणीषु अंतः (*vāṇīṣu aṃtaḥ*)—in the midst of our praises
+- सु प्रचर (*su pracara*)—move exceedingly
+- सोम (*soma*)—O god Soma
+- अनिंद्यः (*aniṃdyaḥ*)—you who are praiseworthy (free of fault)
+- वृजने (*vṛjane*)—in the matter of our enemies
+- जागृहि (*jāgṛhi*)—be watchful
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, provide us happiness as a wife provides it to her husband. O Soma, son of her called Padmā (the earth) **NOTE**, listen to my praise. I praise you. For our living, move exceedingly in the midst of our praises. O god Soma, you who are praiseworthy, be watchful, free of fault, in the matter of our enemies.
+
+### Printed p. 523
+
+##### English translation
+As a wife to her husband, so you (afford) delight to your worshipper ; (Soma), offspring of Pajra, listen (to the praises) I address to you ; in the midst of our adorations advance to grant us life ; Soma, who are irreproachable, be vigilant against (our) foe.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ पूर्वे॑भ्यः शत॒सा अमृ॑ध्रः सहस्र॒साः प॒र्यया॒ वाज॑मिंदो ।  
+> ए॒वा प॑वस्व सुवि॒ताय॒ नव्य॑से॒ तव॑ व्र॒तमन्वापः॑ सचंते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । पूर्वेभ्यः । शतऽसाः । अमृध्रः । सहस्रऽसाः । परिऽअयाः । वाजम् । इंदो इति ।  
+> एव । पवस्व । सुविताय । नव्यसे । तव । व्रतम् । अनु । आपः । सचंते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम त्वं यथा पूर्वेभ्यः महर्षिभ्यः स्तोतृभ्यः शतसाः शतसंख्याकस्य धनस्य दाता तथा सहस्रसाः च सन् पर्ययाः परिगच्छेः एव एवमिदानीमपि नव्यसे नवतराय सुविताय अभ्युदयाय पवस्व क्षर। तव व्रतं कर्म अन्वापः वसतीवर्यः सचंते। अतः पवस्व ॥ ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, O Soma, as you were a giver of a hundredfold wealth to the ancient great seers, the praisers, and, being also a giver of a thousandfold wealth, went about to them, so now too flow, that is, stream, for newer prosperity. The waters called वसतीवर्यः (*vasatīvaryaḥ*) serve your rite. Therefore flow. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O god Soma
+- अमृध्रः (*amṛdhraḥ*)—you who are unharmed
+- यथा (*yathā*)—in what manner
+- पूर्वेभ्यः (*pūrvebhyaḥ*)—for the earlier praisers
+- शतसाः (*śatasāḥ*)—as one who gave a gift of a hundred
+- सहस्रसाः (*sahasrasāḥ*)—and as one who gave a gift of a thousand
+- वाजं (*vājaṃ*)—and as the giver of strength
+- पर्ययाः (*paryayāḥ*)—you went about
+- एव (*eva*)—in the same manner
+- नव्यसे (*navyase*)—for us too of the present time
+- सुविताय (*suvitāya*)—for excellent wealth
+
+### Printed p. 524
+
+- पवस्व (*pavasva*)—flow
+- तव (*tava*)—your
+- व्रतं (*vrataṃ*)—rite
+- आपः (*āpaḥ*)—the waters called vasatīvarī
+- अनु सचंते (*anu sacaṃte*)—serve
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, in the manner in which you, unharmed, went about for the earlier praisers as one who gave a gift of a hundred, as one who gave a gift of a thousand, and as the giver of strength, in the same manner flow for us too of the present time for excellent wealth. The waters called vasatīvarī serve your rites.
+
+##### English translation
+As you, Indu, attained strength for the ancieut (rishis), giving them hundred-fold (wealth), invulnerable, giving them thousand-fold (wealth) ; so now flow for (our) modern prosperity ; the waters wait upon your functions. **NOTE**
+
+## Sūkta 83 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> 'पवित्रं ते ' इति पंचर्चं षोडशं सूक्तमांगिरसस्य पवित्रस्यार्षं जागतं पवमानसोमदेवताकम् । तथा चानुक्रांतं-’ पवित्रं ते पवित्रः' इति । अभिष्टव आद्ये ऋचौ वक्तव्ये । सूत्रितं च---’ पवित्रं ते विततं ब्रह्मणस्पत इति द्वे वि यत्पवित्रं धिषणा अतन्वत ' ( आश्व. श्रौ. ४, ६) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पवित्रं (*pavitraṃ*) ते (*te*) has five Ṛks and is the sixteenth sūkta. Its seer is Pavitra of the Āṅgirasa line, its metre is Jagatī and its deity is Pavamāna Soma. The Anukramaṇikā accordingly says पवित्रं (*pavitraṃ*) ते (*te*) पवित्रः (*pavitraḥ*). In the Abhiṣṭava the first two Ṛks are to be recited. It is laid down in the sūtra: पवित्रं ते विततं ब्रह्मणस्पत इति द्वे वि यत्पवित्रं धिषणा अतन्वत (*pavitraṃ te vitataṃ brahmaṇaspata iti dve vi yatpavitraṃ dhiṣaṇā atanvata*) (Āśv. Śrau. 4, 6) **NOTE**.
+
+Anuvāda: This sūkta, पवित्रं (*pavitraṃ*) ते (*te*), is the sixteenth sūkta in the fourth anuvāka. It has five Ṛks. The seer of this sūkta is Pavitra of the Aṅgirasa gotra; the deity is Pavamāna Soma; the metre is Jagatī. In the Anukramaṇikā it is stated: पवित्रं (*pavitraṃ*) ते (*te*) पवित्रः (*pavitraḥ*). That the first two Ṛks of this sūkta are to be recited in the Abhiṣṭava is explained by the sūtra of the Āśvalāyana Śrautasūtra: पवित्रं ते विततं ब्रह्मणस्पत इति द्वे वि यत्पवित्रं धिषणा आतन्वत (*pavitraṃ te vitataṃ brahmaṇaspata iti dve vi yatpavitraṃ dhiṣaṇā ātanvata*) (Ā. 4-6).
+
+- Maṇḍala 9; Anuvāka 4; Sūkta 83
+- Aṣṭaka 7; Adhyāya 3; Varga 8
+- Number of Ṛks in the sūkta: 5
+- Seer: Pavitra
+- Deity: Pavamāna Soma
+- Metre: Jagatī
+
+### Printed p. 525
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒वित्रं॑ ते॒ वित॑तं ब्रह्मणस्पते प्र॒भुर्गात्रा॑णि॒ पर्ये॑षि वि॒श्वतः॑ ।  
+> अत॑प्ततनू॒र्न तदा॒मो अ॑श्नुते शृ॒तास॒ इद्वहं॑त॒स्तत्समा॑शत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवित्रम् । ते । विऽततम् । ब्रह्मणः । पते । प्रऽभुः । गात्राणि । परि । एषि । विश्वतः ।  
+> अतप्तऽतनूः । न । तत् । आमः । अश्नुते । शृतासः । इत् । वहंतः । तत् । सम् । आशत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ब्रह्मणस्पते मंत्रस्य स्वामिन् सोम ते पवित्रं शोधकमंगं विततं सर्वत्र विस्तृतम् । स प्रभुः प्रभविता त्वं गात्राणि पातुरंगानि पर्येषि परिगच्छसि विश्वतः सर्वतः। तव तत् पवित्रम् अतप्ततनूः पयोव्रतादिना असंतप्तगात्रः आमः अपरिपक्वो न अश्नुते न व्याप्नोति । शृतास इत् शृता एवं परिपक्वा एव वहंतः यागं निर्वहंतः तत् पवित्रं समाशत व्याप्नुवंति ।
+
+##### Gist of the bhāṣya
+
+O Brahmaṇaspati, lord of the mantra, O Soma, your filter, the purifying part, is spread out everywhere. You, the mighty one, go around the limbs on every side. **NOTE** That filter of yours is not reached by one whose body is not heated by the milk-vow and the like, that is, the unripe (āma). Only those that are ripened (śṛta), carrying out the sacrifice, reach that filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मणस्पते (*brahmaṇaspate*)—O god Soma, protector of the mantras
+- ते (*te*)—your
+- पवित्रं (*pavitraṃ*)—the purifying vessel
+- विततं (*vitataṃ*)—is spread out
+- प्रभुः (*prabhuḥ*)—you who are the lord
+- गात्राणि (*gātrāṇi*)—its members
+- विश्वतः (*viśvataḥ*)—from all sides
+- परैषि (*paraiṣi*)—you enter **NOTE**
+- आतप्ततनूः (*ātaptatanūḥ*)—the portions that are not heated **NOTE**
+- आमः (*āmaḥ*)—and not ripened
+- तत् (*tat*)—that vessel
+- न अश्नुते (*na aśnute*)—do not enter
+- वहंतः (*vahaṃtaḥ*)—able to carry out the sacrifice
+- शृतास इत् (*śṛtāsa it*)—only the portions that have reached ripeness
+- तत् (*tat*)—that vessel
+- समाशत (*samāśata*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, protector of the mantras, your purifying vessel is spread out. You, the lord, enter its members from all sides. The portions that are not heated and not ripened do not enter that vessel. Only the portions that are able to carry out the sacrifice and have reached ripeness enter that vessel.
+
+##### English translation
+Lord of prayer, your filter is stretched out ; you who are the sovereign, enter its members from all sides ; the raw (liquid) whose mass is not heated
+
+### Printed p. 526
+
+attains not this (filter) ; it is the boiled (liquids) bearing (the sacrifice) which attain it.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तपो॑ष्प॒वित्रं॒ वित॑तं दि॒वस्प॒दे शोचं॑तो अस्य॒ तंत॑वो॒ व्य॑स्थिरन् ।  
+> अवं॑त्यस्य पवी॒तार॑मा॒शवो॑ दि॒वस्पृ॒ष्ठमधि॑ तिष्ठंति॒ चेत॑सा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तपोः । पवित्रम् । विऽततम् । दिवः । पदे । शोचंतः । अस्य । तंतवः । वि । अस्थिरन् ।  
+> अवंति । अस्य । पवितारम् । आशवः । दिवः । पृष्ठम् । अधि । तिष्ठंति । चेतसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तपोः शत्रूणां तापकस्य सोमस्य पवित्रं शोधकमंगं तेजो वा दिवस्पदे द्युलोकस्य उच्छ्रिते स्थाने विततं विस्तृतम् । तृतीयस्यामितो दिवि सोम आसीत्' (तै. ब्रा. ३. २. १. १) इति ब्राह्मणम् । अस्य तंतवः अंशवः शोचंतः दीप्यमानाः व्यस्थिरन् विविधं तिष्ठंति । पृथिव्यां हविर्धाने वा । अस्य सोमस्य आशवः शीघ्रगामिनो रसाः अवंति रक्षंति । कम् । पवितारं पावयितारम् । यजमानमवंति रक्षंति होमद्वारा पश्चाद्धुताः दिवः द्युलोकस्य पृष्ठं पृष्ठभागमुन्नतदेशं चेतसा बुद्ध्या देवगमनेच्छावत्या अधि तिष्ठंति आश्रयंते ॥
+> अभिष्टवे ' अरूरुचत् ' इत्येषावपनीया । सूत्रितं च-’ ईळे द्यावापृथिवी इति प्रागुत्तमाया अरूरुचदुषसः पृश्निरग्रिय इत्यावपेत' (आश्व. श्रौ. ४. ६ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The filter of Soma, the scorcher of enemies, that is, the purifying part or his splendour, is spread out at the दिवस्पदे (*divaspade*), the elevated place of the world of heaven. So says the Brāhmaṇa: तृतीयस्यामितो दिवि सोम आसीत् (*tṛtīyasyāmito divi soma āsīt*) (Tai. Brā. 3. 2. 1. 1) **GLOSS**. His fibres, that is, rays, shining, stand variously apart, on the earth or in the oblation-vessel. His swift-going juices protect. Whom? The purifier, that is, the sacrificer; they protect him by way of the oblation. Offered afterwards, they rest on the back of heaven, its elevated region, with a mind that wishes to go to the gods.
+
+In the Abhiṣṭava the Ṛk अरूरुचत् (*arūrucat*) is the Āvapanīyā. It is laid down in the sūtra: ईळे द्यावापृथिवी इति प्रागुत्तमाया अरूरुचदुषसः पृश्निरग्रिय इत्यावपेत (*īḷe dyāvāpṛthivī iti prāguttamāyā arūrucaduṣasaḥ pṛśniragriya ityāvapeta*) (Āśv. Śrau. 4. 6) **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तपोः (*tapoḥ*)—of the Soma who burns the enemy
+- पवित्रं (*pavitraṃ*)—the purifying vessel
+- दिवस्पदे (*divaspade*)—in the elevated place of the world of heaven
+- विततं (*vitataṃ*)—is spread out
+- अस्य (*asya*)—of this god Soma
+- तंतवः (*taṃtavaḥ*)—the filaments
+- शोचंतः (*śocaṃtaḥ*)—shining
+- व्यस्थिरन् (*vyasthiran*)—are separated
+- अस्य (*asya*)—of this Soma
+- आशवः (*āśavaḥ*)—the swift-going juices
+- पवितारं (*pavitāraṃ*)—the sacrificer
+- अवंति (*avaṃti*)—protect
+- चेतसा (*cetasā*)—with the wish to approach the gods
+- दिवः (*divaḥ*)—of the world of heaven
+- पृष्ठं (*pṛṣṭhaṃ*)—in the elevated region
+- अधि तिष्ठंति (*adhi tiṣṭhaṃti*)—have taken refuge and sit
+
+##### भावार्थ (Bhāvārtha)
+
+The purifying vessel of the Soma who burns the enemies is spread out in the elevated place of the world of heaven. The filaments of this god Soma are separated, shining. The swift-going juices of this god Soma
+
+### Printed p. 527
+
+protect the sacrificer. With the wish to approach the gods they have taken refuge and sit in the elevated region of the world of heaven.
+
+##### English translation
+The filter of the foe-scorching (Soma) is spread on the summit of heaven ; his shining filaments are separated ; his swift-flowing (juices) protect the purifier (the worshipper) ; they dwell upon the summit of the sky in their wish (to approach the gods).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरू॑रुचदु॒षसः॒ पृश्नि॑रग्रि॒य उ॒क्षा बि॑भर्ति॒ भुव॑नानि वाज॒युः ।  
+> मा॒या॒विनो॑ ममिरे अस्य मा॒यया॑ नृ॒चक्ष॑सः पि॒तरो॒ गर्भ॒मा द॑धुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरूरुचत् । उषसः । पृश्निः । अग्रियः । उक्षा । बिभर्ति । भुवनानि । वाजऽयुः ।  
+> मायाऽविनः । ममिरे । अस्य । मायया । नृऽचक्षसः । पितरः । गर्भम् । आ । दधुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषसः संबंधी पृश्निः आदित्यः । ‘पृश्निरादित्यो भवति प्राश्नुत एनं वर्णः' (निरु. २.१४ ) इति निरुक्तम्। अग्रियः मुख्यः सोऽयं सोमः अरूरुचत् रोचयति । सः उक्षा जलस्य सेक्ता बिभर्ति पुष्णात्युदकेन भुवनानि भूतजातानि वाजयुः तेषामन्नमिच्छन् । मायाविनः। माया प्रज्ञा । प्रज्ञावंतो देवाः अस्य सोमस्य मायया प्रज्ञया ममिरे निर्मांति । सोमस्यैकैकांशपानेन जातबला अग्न्यादयः स्वस्वव्यापारेण जगत्सृजंतीत्यर्थः । तथास्य मायया नृचक्षसः नॄणां द्रष्टारः पितरः पालका देवा अंगिरसः पितरो वा गर्भमा दधुः धारयंति । ओषधीषु वात्र सूर्यात्मा सोमः स्तूयते सूर्यरश्म्यनुगमाधीनवर्धनाच्चंद्रस्य । अयमुषसः पृश्निः सवितारूरुचत् रोचयति सर्वं रोचते वा । शिष्टं समानम्। तत्संबंधिनो नृचक्षसो नॄणां द्रष्टारः पितरो जगद्रक्षका रश्मयो गर्भमादधुर्वृष्ट्यर्थम् ॥
+> अभिष्टवे खरमवेक्षमाणः ‘ गंधर्व इत्था' इत्येतां पठेत् । सूत्रितं च-’ गंधर्व इत्था पदमस्य रक्षतीति खरमवेक्ष्य ' ( आश्व. श्रौ. ४. ७) इति ॥
+
+##### Gist of the bhāṣya
+
+The Pṛśni of Uṣas is Āditya, the Sun. So the Nirukta says: पृश्निरादित्यो भवति प्राश्नुत एनं वर्णः (*pṛśnirādityo bhavati prāśnuta enaṃ varṇaḥ*) (Ni. 2.14) **GLOSS**. Agriya means chief; this Soma makes shine (aruruchat). He, the ukṣā, the sprinkler of water, nourishes with water the beings, desiring food for them (vājayuḥ). Māyāvinaḥ: māyā is wisdom; the gods who have wisdom measure out, that is, create, by this Soma's wisdom. The meaning is that Agni and the others, who have gained strength by drinking each a portion of Soma, create the world each by his own activity. Likewise, by his wisdom the nṛcakṣasaḥ, seers of men, the pitaraḥ, who are protector gods, or the Aṅgirases, or the Fathers, bear the embryo. Alternatively, in the plants here Soma as the soul of the Sun is praised, since the growth of the moon depends on following the rays of the sun. This Pṛśni of Uṣas, Savitṛ, makes shine, or everything shines. The rest is the same. The seers of men belonging to him, the pitaraḥ, the rays that protect the world, bear the embryo for the sake of rain.
+
+In the Abhiṣṭava, looking at a donkey, one should recite the Ṛk गंधर्व इत्था (*gaṃdharva itthā*). It is laid down in the sūtra: गंधर्व इत्था पदमस्य रक्षतीति खरमवेक्ष्य (*gaṃdharva itthā padamasya rakṣatīti kharamavekṣya*) (Āśv. Śrau. 4. 7) **GLOSS**.
+
 ---
 
-**Progress note:** Done through printed p. 521. Mandala 9: Rk 4 end, Rk 5, Sukta 82 Rk 1-3 (pp. 516-521)
+**Progress note:** Done through printed p. 527. Mandala 9: Sukta 82 Rk 4-5, Sukta 83 Rk 1-3 (pp. 522-527)
