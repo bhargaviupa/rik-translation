@@ -14957,6 +14957,227 @@ Sāyaṇa addresses Soma: bestow (आ पवस्व (*ā pavasva*)), that is, 
 - सोम (*soma*)—O god Soma
 - दिवः (*divaḥ*)—of the heavenly world
 
+### Printed p. 400
+
+- मूर्धानः (*mūrdhānaḥ*)—those who are like the head
+- प्रस्थिताः (*prasthitāḥ*)—engaged in rites
+- वयस्सतः (*vayassataḥ*)—those who offer oblation **NOTE**
+- मम पितरः (*mama pitaraḥ*)—in the form of our fathers
+- यूयं हि स्थान (*yūyaṃ hi sthāna*)—you yourself are **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, provide us with wealth that is endowed with riches, filled with gold, endowed with horses, accompanied by cows, endowed with barley grain, and endowed with excellent vigour. O god Soma, you yourself are, in the form of our fathers, those who are like the head of the heavenly world, engaged in rites, offerers of oblation.
+
+##### English translation
+Pour upon us (wealth), comprising treasure, gold, horses, cattle, barley, and excellent male offspring; you Soma, are my progenitors, the chiefs of heaven, placed (for sacrifices), the offerers of oblation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमाः॒ पव॑मानास॒ इंद्रं॒ रथा॑ इव॒ प्र य॑युः सा॒तिमच्छ॑ ।  
+> सु॒ताः प॒वित्र॒मति॑ यं॒त्यव्यं॑ हि॒त्वी व॒व्रिं ह॒रितो॑ वृ॒ष्टिमच्छ॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमाः । पवमानासः । इंद्रम् । रथाःऽइव । प्र । ययुः । सातिम् । अच्छ ।  
+> सुताः । पवित्रम् । अति । यंति । अव्यम् । हित्वी । वव्रिम् । हरितः । वृष्टिम् । अच्छ ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानासः पवित्रेण पूयमानाः एते अस्मदीयाः सोमाः सातिम् । ‘षण संभक्तौ । कर्मणि क्तिन् । सर्वैः संभजनीयम् इंद्रम् अच्छ प्र ययुः प्रकर्षेण गच्छंति । तत्र दृष्टांतः । रथाइव । इंद्रस्य रथा यथा सातिम् । ‘षो अंतकर्मणि' । ऊतियूति' इत्यादिना निपातितः । सीयते म्रियतेऽस्मिन्निति सातिः संग्रामः । तमच्छ तं प्रति प्रगच्छंति तद्वत् । किंच सुताः ग्रावभिरभिषुताः सोमाः अव्यम् अविवालभवं पवित्रम् अति यंति अतीत्य गच्छंति । तेऽमी हरितः हरितवर्णा अश्वाः । यद्वा । हरितस्त आदित्यवाहनरूपा अश्वा भूत्वा । वव्रिम् । वृणोति शरीरमिति वव्रिर्जरा । ‘ आदृगमहन' इति किप्रत्ययः । सर्वांगव्यापिनीं जरां हित्वी हित्वा तरुणाः संतः वृष्टिमच्छ वृष्टिं गमयितुं गच्छंति । हित्वी। ‘जहातेश्च क्त्वि' (पा. सू. ७.४. ४३ ) इति ह्यादेशः । ‘ स्नात्व्यादयश्च' इति छंदसि निपातितम् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that these Soma-juices of ours, being purified with the filter (पवमानासः (*pavamānāsaḥ*)), go forth (प्र ययुः (*pra yayuḥ*)) with force towards Indra, who is to be shared by all (सातिम् (*sātim*)). As an illustration he gives रथाइव (*rathāiva*): as the chariots of Indra go towards the battle (सातिम् (*sātim*): the place where one is killed, a battle). Further, the Soma-juices, pressed (सुताः (*sutāḥ*)) with the stones, go beyond (अति यंति (*ati yaṃti*)) the filter (अव्यम् (*avyam*)) made of sheep's wool. They are the green-coloured horses (हरितः (*haritaḥ*)); or else, having become horses that carry the Āditya, they leave behind old age (वव्रिम् (*vavrim*) means old age, because it covers the body), which pervades all the limbs, and, having become young, go to bring about the rain (वृष्टिमच्छ (*vṛṣṭimaccha*)).
+
+### Printed p. 401
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथाः (*rathāḥ*)—the chariots of Indra
+- सातिं इव (*sātiṃ iva*)—as they go to the field of battle
+- पवमानासः (*pavamānāsaḥ*)—those fit to be purified
+- एते (*ete*)—those offered here
+- सोमाः (*somāḥ*)—the Soma-juices
+- सातिं (*sātiṃ*)—worthy of honour
+- इंद्रं अच्छ (*iṃdraṃ accha*)—towards Indra
+- प्रययुः (*prayayuḥ*)—go and reach
+- हरितः (*haritaḥ*)—the horses of the Āditya, of green colour
+- वन्रिं (*vanriṃ*)—their old age **NOTE**
+- हित्वी (*hitvī*)—having left (and attained youth)
+- वृष्टिं अच्छ (*vṛṣṭiṃ accha*)—as they go towards the rain
+- सुताः (*sutāḥ*)—the pressed Soma-juices
+- अव्यं (*avyaṃ*)—of wool
+- पवित्रं अति (*pavitraṃ ati*)—having crossed the ten-fold filter
+- यंति (*yaṃti*)—rush forward
+
+##### भावार्थ (Bhāvārtha)
+
+As the chariots of Indra rush forward to the field of battle, the Soma-juices, which are fit to be purified and are offered, go and reach Indra, who is worthy of honour. As the horses of the Āditya, of green colour, leave their old age, attain youth and go towards the rain, the pressed Soma-juices cross the ten-fold filter of wool and rush forward. [The meaning that the Soma-juices themselves go, in the form of the horses of the Āditya, towards the rain also fits.]
+
+##### English translation
+These filtered Soma-juices advance to Indra worthy of honour, as (Indra's) chariots advance to battle; expressed (with the stones) they pass through the woollen filter, casting off infirmity the horses go towards the rain.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद॒विंद्रा॑य बृह॒ते प॑वस्व सुमृळी॒को अ॑नव॒द्यो रि॒शादाः॑ ।  
+> भरा॑ चं॒द्राणि॑ गृण॒ते वसू॑नि दे॒वैर्द्या॑वापृथिवी॒ प्राव॑तं नः ॥ १० ॥
+
+### Printed p. 402
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदो इति । इंद्राय । बृहते । पवस्व । सुऽमृळीकः । अनवद्यः । रिशादाः ।  
+> भर । चंद्राणि । गृणते । वसूनि । देवैः । द्यावापृथिवी इति । प्र । अवतम् । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम त्वं बृहते महते इंद्राय तदर्थं पवस्व पात्रेषु क्षर । इंद्र प्रत्यागच्छ वा । कीदृशः । सुमृळीकः इंद्रस्य सुष्ठु सुखयिता अत एव अनवद्यः गर्हारहितः रिशादाः रिशतां बाधकानामसिता । एतादृशस्त्वमिंद्राय पवस्व । किंच गृणते स्तुवते मह्यं चंद्राणि आह्लादकानि वसूनि धनानि भर प्रयच्छ। किंच हे द्यावापृथिवी युवां च पवमानेन परिप्लुते सत्यौ देवैः सुभगैर्धनैः सह नः अस्मान् प्रावतं प्ररक्षतम् ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma: O Indu, flow (पवस्व (*pavasva*)), that is, stream into the vessels, for the sake of great Indra; or else come back to Indra **NOTE**. What are you like? One who greatly pleases Indra (सुमृळीकः (*sumṛḷīkaḥ*)), and therefore blameless (अनवद्यः (*anavadyaḥ*)), the devourer of the oppressors who injure (रिशादाः (*riśādāḥ*)). Such as you are, flow for Indra. Further, bring (भर (*bhara*)), that is, give, to me, who praise (गृणते (*gṛṇate*)), gladdening (चंद्राणि (*caṃdrāṇi*)) riches (वसूनि (*vasūni*)). Further, O Heaven and Earth, you two, being pervaded by Pavamāna, protect us (प्रावतं (*prāvataṃ*)) together with the gods, that is, with auspicious riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O god Soma
+- सुमृळीकः (*sumṛḷīkaḥ*)—you who bring excellent happiness
+- अनवद्यः (*anavadyaḥ*)—free from fault
+- रिशादाः (*riśādāḥ*)—and destroyer of enemies
+- बृहते (*bṛhate*)—of great nature
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- पवस्व (*pavasva*)—flow
+- गृणते (*gṛṇate*)—to me who praise you
+- चंद्राणि (*caṃdrāṇi*)—gladdening
+- वसूनि (*vasūni*)—riches
+- भर (*bhara*)—bring and provide
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth
+- देवैः (*devaiḥ*)—with auspicious riches
+- नः (*naḥ*)—us
+- प्रावतं (*prāvataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you who bring excellent happiness, are free from fault and are the destroyer of enemies, flow for the drinking of great Indra. Bring and provide gladdening riches to me who praise you. O Heaven and Earth, protect us with auspicious riches.
+
+##### English translation
+Indu, who makes (men) very happy, the blameless one, the destroyer of foes, flow for mighty Indra; bring to (me your worshipper gratifying riches; heaven and earth, protect us with auspicious (riches).
+
+## Sūkta 70 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ त्रिरस्मै ' इति दशर्चं तृतीयं सूक्तं वैश्वामित्रस्य रेणोरार्षम् । दशमी त्रिष्टुप् शिष्टा जगत्यः ॥ पवमानः सोमो देवता । ' त्रिरस्मै रेणुः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the third sūkta, of ten ṛks, beginning त्रिरस्मै (*trirasmai*), is the vision of Reṇu Vaiśvāmitra. The tenth ṛk is in the Triṣṭup metre and the rest are in Jagatī. The deity is Pavamāna Soma. He cites the Anukramaṇī: त्रिरस्मै रेणुः (*trirasmai reṇuḥ*). The application (viniyoga) has already been stated.
+
+### Printed p. 403
+
+Translation.—This sūkta beginning त्रिरस्मै (*trirasmai*) is the third sūkta in the fourth anuvāka. It contains ten ṛks. The seer of this sūkta is called Reṇu Vaiśvāmitra. The deity is Pavamāna Soma; the tenth ṛk of this sūkta is in the Triṣṭup metre. The remaining ṛks are in the Jagatī metre. In the Anukramaṇī it is said: त्रिरस्मै रेणुः (*trirasmai reṇuḥ*). The application has been stated earlier.
+
+Maṇḍala 9; Anuvāka 4; Sūkta 70; Aṣṭaka 7, Adhyāya 2, Varga 23, 24. Number of ṛks in the sūkta: 10. Ṛṣi: Reṇu Vaiśvāmitra. Devatā: Pavamāna Soma. Chandas: 1–9 Jagatī; 10 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिर॑स्मै स॒प्त धे॒नवो॑ दुदुह्रे स॒त्यामा॒शिरं॑ पू॒र्व्ये व्यो॑मनि ।  
+> च॒त्वार्य॒न्या भुव॑नानि नि॒र्णिजे॒ चारू॑णि चक्रे॒ यदृ॒तैरव॑र्धत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । अस्मै । सप्त । धेनवः । दुदुह्रे । सत्याम् । आऽशिरम् । पूर्व्ये । विऽओमनि ।  
+> चत्वारि । अन्या । भुवनानि । निःऽनिजे । चारूणि । चक्रे । यत् । ऋतैः । अवर्धत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मै पवमानाय पूर्व्ये पूर्वैः कृते व्योमनि । विविधमोमावनं गमनं देवानामत्रेति व्योम यज्ञः । तस्मिन् स्थिताय । यद्वा । प्रत्ने व्योमन्यंतरिक्षे वर्तमानाय । त्रिः सप्त एकविंशतिसंख्याकाः धेनवः प्रीणयित्र्यो गावः सत्यां यथार्थभूताम् आशिरम् आश्रयणसाधनं क्षीरादि दुदुहे दुहंति । यद्वा । त्रिः सप्त द्वादश मासाः पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः' (तै. सं.५.४.१२.२) इत्येतैः सर्वैः सह गोषु पय उत्पाद्यते तद्भावो दुहंत इति । किंचायं सोमः अन्या अन्यानि चत्वारि भुवनानि उदकानि वसतीवरीस्तिस्रश्चैकधना इति तानि चतुःसंख्याकानि चारूणि कल्याणान्युदकानि निर्णिजे निर्णेजनाय परिशोधनाय परिपोषणाय वा चक्रे । कदा करोति । यत् यदा अयम् ऋतैः यज्ञैः अवर्धत वर्धितवान् तदा करोति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that thrice seven (त्रिः सप्त (*triḥ sapta*)), that is, twenty-one, cows (धेनवः (*dhenavaḥ*)) that satisfy milk the true, that is, the real, mixture (आशिरम् (*āśiram*)), milk and the like, as the means of mixing, for this Pavamāna (अस्मै (*asmai*)), who stands in the ancient (पूर्व्ये (*pūrvye*)), that is, made by the predecessors, व्योमनि (*vyomani*); व्योम (*vyoma*) is the sacrifice, in which there is the various protection and going of the gods. Or else, for him who abides in the ancient atmosphere. Or else, the twenty-one are the twelve months, the five seasons, these three worlds and that Āditya as the twenty-first: त्रिः सप्त द्वादश मासाः पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः' (*triḥ sapta dvādaśa māsāḥ paṃcartavastraya ime lokā asāvāditya ekaviṃśaḥ '*) (Tai. Saṃ. 5.4.12.2); with all these, milk is produced in the cows, and this is the meaning of दुहंत इति (*duhaṃta iti*). Further, this Soma made (चक्रे (*cakre*)) four other (अन्या (*anyā*)) worlds (भुवनानि (*bhuvanāni*)), namely waters, the three Vasatīvarī and the Ekadhanā, four in number, beautiful (चारूणि (*cārūṇi*)), auspicious waters, for cleansing (निर्णिजे (*nirṇije*)), for purification or for nourishing. When does he do it? When (यत् (*yat*)) he has grown (अवर्धत (*avardhata*)) by the sacrifices (ऋतैः (*ṛtaiḥ*)), then he does it.
+
+### Printed p. 404
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मै (*asmai*)—for this Soma who is called Pavamāna
+- पूर्व्ये (*pūrvye*)—performed earlier
+- व्योमनि (*vyomani*)—in the sacrifice
+- त्रिः सप्त (*triḥ sapta*)—twenty-one in number
+- धेनवः (*dhenavaḥ*)—cows
+- सत्यां (*satyāṃ*)—of true nature
+- आशिरं (*āśiraṃ*)—the materials such as milk, used for mixing
+- दुदुहे (*duduhe*)—milked
+- यत् (*yat*)—when
+- ऋतैः (*ṛtaiḥ*)—by the sacrifices
+- अनुवर्धत (*anuvardhata*)—this Soma was nourished, then **NOTE**
+- अन्या (*anyā*)—the remaining
+- चत्वारि भुवनानि (*catvāri bhuvanāni*)—the four kinds of waters, such as the Vasatīvarī
+- निर्णिजे (*nirṇije*)—for purification
+- चारूणि (*cārūṇi*)—so as to be auspicious
+- चक्रे (*cakre*)—he made
+
+##### भावार्थ (Bhāvārtha)
+
+In the sacrifice performed earlier for this Soma, who is called Pavamāna, the cows, twenty-one in number, milked the materials such as milk, of true nature, used for mixing. When this Soma was nourished by the sacrifices, he then made the remaining four kinds of waters, such as the Vasatīvarī, auspicious for his purification. Thrice seven = 2 months + 5 seasons + 3 worlds + Āditya = 21 **NOTE**
+
+##### English translation
+For him in the ancient sacrifice thrice seven milch cows milk forthb **NOTE** the right mixture; he makes four other beautiful waters for purification when he is nourished with the sacrifices.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स भिक्ष॑माणो अ॒मृत॑स्य॒ चारु॑ण उ॒भे द्यावा॒ काव्ये॑ना॒ वि श॑श्रथे ।  
+> तेजि॑ष्ठा अ॒पो मं॒हना॒ परि॑ व्यत॒ यदी॑ दे॒वस्य॒ श्रव॑सा॒ सदो॑ वि॒दुः ॥ २ ॥
+
+### Printed p. 405
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । भिक्षमाणः । अमृतस्य । चारुणः । उभे इति । द्यावा । काव्येन । वि । शश्रथे ।  
+> तेजिष्ठाः । अपः । मंहना । परि । व्यत । यदि । देवस्य । श्रवसा । सदः । विदुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः पवमानः चारुणः कल्याणस्य अमृतस्य उदकस्य । ‘क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानसंज्ञा । चतुर्थ्यर्थे बहुलम्' (पा. सू. २.३.६२) इति षष्ठी । चारूदकं भिक्षमाणः यष्टृभिर्याच्यमानः सन् उभे । द्यावादेशस्य द्वंद्वे विहितत्वादत्रोत्तरपदाभावे द्वंद्वः प्रतीयते । उभे द्यावापृथिव्यौ काव्येन कविकर्मणा वि शश्रथे विवृते करोति । यज्ञनिमित्तेन उदकेन संपूरयतीत्यर्थः । किंच तेजिष्ठाः अतिशयेन दीप्तानि अपः उदकानि मंहना महत्त्वेन परि व्यत वरणार्थं परित आच्छादयति । यदि यदा ऋत्विजः देवस्य द्योतमानस्य सोमस्य सदः स्थानं श्रवसा हविषा युक्ताः संतः विदुः यागार्थं जानंति लभंते तदा परित आवृणोतीति । ‘ विद ज्ञाने'।' सिजभ्यस्त°' इति झेर्जुसादेशः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that that Pavamāna, being solicited (भिक्षमाणः (*bhikṣamāṇaḥ*)), that is, begged by the sacrificers, for the auspicious (चारुणः (*cāruṇaḥ*)) ambrosia (अमृतस्य (*amṛtasya*)), that is, water, opens out both (उभे (*ubhe*)) Heaven and Earth by the work of a sage (काव्येन (*kāvyena*)); that is, he fills them with water brought about by the sacrifice. Further, he covers all around (परि व्यत (*pari vyata*)), to choose them, the most brilliant (तेजिष्ठाः (*tejiṣṭhāḥ*)) waters (अपः (*apaḥ*)) with his greatness (मंहना (*maṃhanā*)). When (यदि (*yadi*)) the priests, joined with the oblation (श्रवसा (*śravasā*) means oblation), know (विदुः (*viduḥ*)) for the sacrifice the seat (सदः (*sadaḥ*)) of the shining god Soma, that is, find it, then he covers all around.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Pavamāna
+- चारुणः अमृतस्य (*cāruṇaḥ amṛtasya*)—the water that brings welfare
+- भिक्षमाणः (*bhikṣamāṇaḥ*)—being solicited
+- उभे (*ubhe*)—both Heaven and Earth
+- काव्येन (*kāvyena*)—by his work full of wisdom
+- वि शश्रथे (*vi śaśrathe*)—has separated and set apart
+- यदि (*yadi*)—when
+- देवस्य (*devasya*)—of Soma, who is the deity
+- सदः (*sadaḥ*)—the seat
+- श्रवसा (*śravasā*)—with the oblation (the priests who are joined with it)
+- विदुः (*viduḥ*)—know, then
+- तेजिष्ठाः (*tejiṣṭhāḥ*)—radiant
+- अपः (*apaḥ*)—the waters
+- मंहना (*maṃhanā*)—by his greatness
+- परि व्यत (*pari vyata*)—the god Soma pervades
+
+##### भावार्थ (Bhāvārtha)
+
+Pavamāna, being solicited for the water that brings welfare, has separated and set apart both Heaven and Earth by his work full of wisdom. When the priests, joined with the oblation, know the seat of Soma, who is the deity, then Soma pervades the radiant waters by his greatness.
+
+##### English translation
+He being solicited for auspicious ambrosia opens both heaven and earth by his intelligence ; he covers the lustrous waters with his greatness, when (the priests) with the oblation recognize the station of the radiant (Soma).
+
 ---
 
-**Progress note:** Done through printed p. 399. Sukta 69 Rks 4-8 (Rk 8 Pratipadartha begun)
+**Progress note:** Done through printed p. 405. Sukta 69 Rks 8-10, Sukta 70 Rks 1-2
