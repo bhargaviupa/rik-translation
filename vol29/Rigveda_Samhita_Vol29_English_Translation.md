@@ -5013,7 +5013,7 @@ The Ribhus have fabricated praise for Agni; we have recited pious praise to the 
 
 Sūktas 81 and 82 of the tenth maṇḍala, composed by the seer Viśvakarman, contain praise of the deity named Viśvakarman. Sāyaṇa and others have explained the mantras of these sūktas with reference to the sacrifice and also with reference to the self. The sūktas composed by seers such as Aghamarṣaṇa, Prajāpati, Parameṣṭhin, Brahmaṇaspati, Dīrghatamas and Hiraṇyagarbha all give an account of the creation, the maintenance and the rest of the world. But these sūktas do not all convey one and the same view. Concerning the maker of the world, or the nature of his resolve, or the primal cause of the world, not all the seers hold one view. In each sūkta there is a different kind of account; only in some of the main matters are they alike. The account तमिद्दर्भं प्रथमं दध्र अपः (*tamiddarbhaṃ prathamaṃ dadhra apaḥ*) (Śu. Saṃ. 10-82-6) **GLOSS** **NOTE** makes known the view of the seer Viśvakarman. The account of creation and of its order will be given in the Special Topics of the respective Ṛks. First, what the nature of Viśvakarman is, what the relation is between him and the created world, and such matters have to be examined here.
 
-विश्वकर्मा सर्वस्य कर्ता (*viśvakarmā sarvasya kartā*) (Ni. 10-25). The etymologists of the Nirukta explain that he is named Viśvakarman because he makes and perfects everything, that is, because he has created everything. Durgācārya, explaining this, says: यदिदं किंचिद्भूतं भविष्यमाणं, क्रियमाणं च तस्य सर्वस्य कर्ता । (*yadidaṃ kiṃcidbhūtaṃ bhaviṣyamāṇaṃ, kriyamāṇaṃ ca tasya sarvasya kartā |*) (Ni. Bhā. 10-25) **NOTE** That is to say, he has this name because he produces and
+विश्वकर्मा सर्वस्य कर्ता (*viśvakarmā sarvasya kartā*) (Ni. 10-25). The author of the Nirukta explains that he is named Viśvakarman because he makes and perfects everything, that is, because he has created everything. Durgācārya, explaining this, says: यदिदं किंचिद्भूतं भविष्यमाणं, क्रियमाणं च तस्य सर्वस्य कर्ता । (*yadidaṃ kiṃcidbhūtaṃ bhaviṣyamāṇaṃ, kriyamāṇaṃ ca tasya sarvasya kartā |*) (Ni. Bhā. 10-25) **NOTE** That is to say, he has this name because he produces and
 
 ### Printed p. 170
 
@@ -5586,7 +5586,7 @@ Before creation there was only a principle of the form of non-being. From this n
 
 "The sun is Brahman": this is the teaching which states the settled conclusion. Its explanation is as follows. In the beginning, from the absence of the form of non-being, existence of the form of being arose. It grew, increased and was transformed into the form of an egg. If it is said that sentences of this kind are the authority, then in the same Chāndogya this view is refuted. As the answer to the prior position stated in the sentence 6-2-1 quoted above, in the sentence that follows it the settled conclusion is stated in this way:
 
-कुतस्तु खलु सोम्येवं स्यादिति होवाच कथमसतः सज्जायेतेति । सत्त्वेव सोम्येदमग्र आसीदेकमेवाद्वितीयं ॥ ( (*kutastu khalu somyevaṃ syāditi hovāca kathamasataḥ sajjāyeteti | sattveva somyedamagra āsīdekamevādvitīyaṃ ‖ (*) (Bhā. U. 6-2-2)**NOTE**
+कुतस्तु खलु सोम्येवं स्यादिति होवाच कथमसतः सज्जायेतेति । सत्त्वेव सोम्येदमग्र आसीदेकमेवाद्वितीयं ॥ (*kutastu khalu somyevaṃ syāditi hovāca kathamasataḥ sajjāyeteti | sattveva somyedamagra āsīdekamevādvitīyaṃ ‖*) (Bhā. U. 6-2-2)**NOTE**
 
 "My child, how could this be? How could a thing of the form of being arise from non-being? What existed before was nothing other than the principle of the form of being, one, without a second." Thus the settled conclusion has been stated precisely: that only such a principle of the form of being existed.
 
@@ -6471,7 +6471,7 @@ As soon as the consent of speech was obtained, the desire arose in the sacrifice
 
 As soon as Indra learned of the union of speech and sacrifice, he thought: "As a result of their being together, a great asura power will surely be born. It will surely have the power to defeat me. Without giving it any opportunity, I myself will enter the womb of it." So he entered that couple in the form of an embryo. It is stated that this is the root of the creation of the world. How? —
 
-स प्रजापतिरिंद्रं पुत्रमब्रवीत् । अनेन त्वा कामप्रेण यज्ञेन यजयानि येन मामिदं परमेष्ठ्ययायजदिति तथेति तमयाजयित्स इष्टाकामयताहमेवेदग्ं सर्वं स्यामिति स वागभवद्वाग्वा इदग्ं सर्वं तस्मादाहुरिंद्रो वागिति ॥ ( (*sa prajāpatiriṃdraṃ putramabravīt | anena tvā kāmapreṇa yajñena yajayāni yena māmidaṃ parameṣṭhyayāyajaditi tatheti tamayājayitsa iṣṭākāmayatāhamevedagṃ sarvaṃ syāmiti sa vāgabhavadvāgvā idagṃ sarvaṃ tasmādāhuriṃdro vāgiti ‖ (*) (Śa. Brā. 11-1-6-18)
+स प्रजापतिरिंद्रं पुत्रमब्रवीत् । अनेन त्वा कामप्रेण यज्ञेन यजयानि येन मामिदं परमेष्ठ्ययायजदिति तथेति तमयाजयित्स इष्टाकामयताहमेवेदग्ं सर्वं स्यामिति स वागभवद्वाग्वा इदग्ं सर्वं तस्मादाहुरिंद्रो वागिति ॥ (*sa prajāpatiriṃdraṃ putramabravīt | anena tvā kāmapreṇa yajñena yajayāni yena māmidaṃ parameṣṭhyayāyajaditi tatheti tamayājayitsa iṣṭākāmayatāhamevedagṃ sarvaṃ syāmiti sa vāgabhavadvāgvā idagṃ sarvaṃ tasmādāhuriṃdro vāgiti ‖*) (Śa. Brā. 11-1-6-18)
 
 Prajāpati spoke thus to his son Indra. When he said, "O Indra, I wish to perform for your welfare this sacrifice, granting what is desired, which Parameṣṭhin performed with me as its object," Indra assented. As soon as that sacrifice was performed, Indra desired to become himself the soul of all and all-pervading. Immediately he attained the form of speech, all-pervading and the soul of all. It is shown that Indra is none other than speech, that is, identity.
 
@@ -7091,7 +7091,7 @@ In the sacrifice of the animal offering to Viśvakarman spoken of earlier, in th
 
 असूर्ते सूर्ते रजसि निषत्ते ये भूतानि समकृण्वन्निमानि (*asūrte sūrte rajasi niṣatte ye bhūtāni samakṛṇvannimāni*)—here the commentator has explained the words असूर्ते (*asūrte*) and सूर्ते (*sūrte*) in one way and Yāska in another. According to the commentator's explanation: असूर्ते सरणवर्जिते सूर्ते सरणसहिते स्थावरजंगमात्मक रजसि लोके । (*asūrte saraṇavarjite sūrte saraṇasahite sthāvarajaṃgamātmaka rajasi loke |*). That is, in this world, which is made up of moving and unmoving things, both together: of living beings that have the nature of moving about, and of mountains and the like that do not move (that is, are motionless).
 
-But Yāska says: असूर्ते सूर्ते । असुसमीरिताः सुसमीरिते वातसमीरिता माध्यमका देवगणास्ते रसेन पृथिवीं तर्पयंतो भूतानि च कुर्वंति त आयुजंतेत्यतिक्रांतं प्रतिवचनं ॥ ( (*asūrte sūrte | asusamīritāḥ susamīrite vātasamīritā mādhyamakā devagaṇāste rasena pṛthivīṃ tarpayaṃto bhūtāni ca kurvaṃti ta āyujaṃtetyatikrāṃtaṃ prativacanaṃ ‖ (*) (Ni. 6-15). The groups of gods of the middle region, impelled by the breath, the vital air, or impelled by the wind (the gods of the atmosphere, the Maruts and others), dwelling in the atmosphere that is stirred by the wind, wet the earth with moisture and gratify the beings upon it, that is, the living creatures. The seer addresses the sacrificers: "Worship those gods."
+But Yāska says: असूर्ते सूर्ते । असुसमीरिताः सुसमीरिते वातसमीरिता माध्यमका देवगणास्ते रसेन पृथिवीं तर्पयंतो भूतानि च कुर्वंति त आयुजंतेत्यतिक्रांतं प्रतिवचनं ॥ (*asūrte sūrte | asusamīritāḥ susamīrite vātasamīritā mādhyamakā devagaṇāste rasena pṛthivīṃ tarpayaṃto bhūtāni ca kurvaṃti ta āyujaṃtetyatikrāṃtaṃ prativacanaṃ ‖*) (Ni. 6-15). The groups of gods of the middle region, impelled by the breath, the vital air, or impelled by the wind (the gods of the atmosphere, the Maruts and others), dwelling in the atmosphere that is stirred by the wind, wet the earth with moisture and gratify the beings upon it, that is, the living creatures. The seer addresses the sacrificers: "Worship those gods."
 
 In the present reasoning there are two main points. First: (1) Viśvakarman, the cause of all origin and subsistence, the one without a second, alone is the maker of all the gods and the one who assigns their names; likewise he is the possessor of the different kinds of names. (2) Second: since he is distinct from the whole created world, his nature is beyond grasp. Because his nature surpasses even the knowledge of the gods, all ask in order to learn what his nature is, but there is none who has known him.
 
@@ -10002,7 +10002,7 @@ In this matter some ritualists say that the Āśvina-śastra mantras should be b
 
 Therefore the Hotṛ should begin the Āśvina-śastra mantras with the Ṛk अग्निर्होता गृहपतिः स राजा (*agnirhotā gṛhapatiḥ sa rājā*) itself. For at the beginning of this Ṛk there is the word gṛhapatiḥ. Therefore it is indicated that Agni is the master of the house, and likewise that by विश्वावेद जनिम (*viśvāveda janima*) in the second pāda, the statement of knowledge, which is of the nature of the birth of all beings, the sacrificer who performs the sacrifice, besides being provided with house, progeny, a peaceful environment and the like, will also live long. Therefore one who knows this matter also lives long.
 
-तासां वै देवतानामाजिं धावंतीनामभिसृष्टानामग्निर्मुखं प्रथमः प्रत्यपद्यत शमश्विनावन्वागच्छतां तमब्रूतामपोदिह्यावां वा इदं जेष्याव इति स तथेत्यब्रवीत्तस्य वै ममेहाप्यस्त्विति तथेति तस्मा अप्यत्राकुरुतां तस्मादाग्नेयमाश्विने शस्यते ॥ ( (*tāsāṃ vai devatānāmājiṃ dhāvaṃtīnāmabhisṛṣṭānāmagnirmukhaṃ prathamaḥ pratyapadyata śamaśvināvanvāgacchatāṃ tamabrūtāmapodihyāvāṃ vā idaṃ jeṣyāva iti sa tathetyabravīttasya vai mamehāpyastviti tatheti tasmā apyatrākurutāṃ tasmādāgneyamāśvine śasyate ‖ (*)
+तासां वै देवतानामाजिं धावंतीनामभिसृष्टानामग्निर्मुखं प्रथमः प्रत्यपद्यत शमश्विनावन्वागच्छतां तमब्रूतामपोदिह्यावां वा इदं जेष्याव इति स तथेत्यब्रवीत्तस्य वै ममेहाप्यस्त्विति तथेति तस्मा अप्यत्राकुरुतां तस्मादाग्नेयमाश्विने शस्यते ॥ (*tāsāṃ vai devatānāmājiṃ dhāvaṃtīnāmabhisṛṣṭānāmagnirmukhaṃ prathamaḥ pratyapadyata śamaśvināvanvāgacchatāṃ tamabrūtāmapodihyāvāṃ vā idaṃ jeṣyāva iti sa tathetyabravīttasya vai mamehāpyastviti tatheti tasmā apyatrākurutāṃ tasmādāgneyamāśvine śasyate ‖*)
 
 (Ai. Brā. 17-8)
 
@@ -16584,7 +16584,7 @@ If devayāna is thus taken as the path along which the gods come for the oblatio
 
 (Ṛ. Saṃ. 7-76.2)
 
-को मा ददर्श कतमः स देवो यो मे तन्नो बहुधा पर्यपश्यत् । क्वाह मित्रावरुणा क्षियंत्यग्निर्विश्वाः समिधो देवयानीः ॥ ( (*ko mā dadarśa katamaḥ sa devo yo me tanno bahudhā paryapaśyat | kvāha mitrāvaruṇā kṣiyaṃtyagnirviśvāḥ samidho devayānīḥ ‖ (*)
+को मा ददर्श कतमः स देवो यो मे तन्नो बहुधा पर्यपश्यत् । क्वाह मित्रावरुणा क्षियंत्यग्निर्विश्वाः समिधो देवयानीः ॥ (*ko mā dadarśa katamaḥ sa devo yo me tanno bahudhā paryapaśyat | kvāha mitrāvaruṇā kṣiyaṃtyagnirviśvāḥ samidho devayānīḥ ‖*)
 
 (Ṛ. Saṃ. 10-51-2)
 
@@ -17199,15 +17199,15 @@ The name Indrāṇī is mentioned in many places. But she is not stated directly
 
 ### Printed p. 585
 
-In these places she is praised together with Agnāyī, the wife of Agni, and Varuṇānī, the wife of Varuṇa, and she too is invited with them to the sacrifice. But in the mantras 10-86-11 and 12 there is some special explanation concerning her.
+In these places she is praised together with Agnāyī, the wife of Agni, and Varuṇānī, the wife of Varuṇa, and she too is invited with them to the sacrifice. But in the mantras 10-86-11 and 2 **NOTE** there is some special explanation concerning her.
 
 "I have heard that among all these goddesses Indrāṇī is the most fortunate, for she has no death resulting from it," it says.
 
-A passage of the Śatapatha Brāhmaṇa states explicitly that Indrāṇī is Indra's wife and that she has the most excellent adornment of hair, which takes on all forms.
+A passage of the Śatapatha Brāhmaṇa states explicitly that Indrāṇī is Indra's wife and that she has the most excellent head-ornament **NOTE**, which takes on all forms.
 
 (Pa. Ba. 14-2-1-8) **NOTE**
 
-The account describing the good fortune of Indrāṇī is as follows—
+The account describing the good fortune of Indrāṇī is as follows **NOTE**—
 
 इंद्राणी देवी सुभगा सुपत्नी । उदग्‌ंशेन पतिविद्यॆ जिगाय । त्रिग्‌ंशदस्या जघनं योजनानि । उपस्थ इंद्रग् स्थविरं बिभर्ति ॥ (*iṃdrāṇī devī subhagā supatnī | udagṃśena patividyè jigāya | trigṃśadasyā jaghanaṃ yojanāni | upastha iṃdrag sthaviraṃ bibharti ‖*)
 
@@ -20821,7 +20821,7 @@ By giving such etymologies, the sense of the word Puruṣa has been explained in
 
 Thirdly: पुर उषति प्रकाशयतीति पुरुषः! दाहप्रकाशयोरेकाधिकरणत्वात् । (*pura uṣati prakāśayatīti puruṣaḥ! dāhaprakāśayorekādhikaraṇatvāt |*). The word उषति (*uṣati*) has been explained earlier as "burns (sin)". Since the meaning "illuminates" is also possible for this word, in the present context the etymology can also be given that he is called Puruṣa because he illuminates the whole body that has the form of the world. For burning and illuminating have one and the same locus. **NOTE** For this very reason the epithet सहस्राक्षः (*sahasrākṣaḥ*) also is found. How? Thus—
 
-य एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते । तदेतदृचाभ्युक्तं । विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ ( (*ya eṣa vaiśvānaro viśvarūpaḥ prāṇo 'gnirudayate | tadetadṛcābhyuktaṃ | viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖ (*)
+य एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते । तदेतदृचाभ्युक्तं । विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ (*ya eṣa vaiśvānaro viśvarūpaḥ prāṇo 'gnirudayate | tadetadṛcābhyuktaṃ | viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖*)
 
 (Praśna. 1-8) **NOTE**
 
@@ -21296,7 +21296,7 @@ Even the year, which controls all affairs, goes on revolving, together with its 
 
 that gives radiance even to the sphere of luminaries, and as the immortal. This same matter is praised in the Śvetāśvatara Upaniṣad in this way.
 
-आदिः स संयोगनिमित्तहेतुः परस्त्रिकालादकलोऽपि दृष्टः । तं विश्वरूपं भवभूत मीड्यं देवं स्वचित्तस्थमुपास्य पूर्व० ॥ ( (*ādiḥ sa saṃyoganimittahetuḥ parastrikālādakalo 'pi dṛṣṭaḥ | taṃ viśvarūpaṃ bhavabhūta mīḍyaṃ devaṃ svacittasthamupāsya pūrva0 ‖ (*) (Kṛ. U. 6-5) **NOTE**
+आदिः स संयोगनिमित्तहेतुः परस्त्रिकालादकलोऽपि दृष्टः । तं विश्वरूपं भवभूत मीड्यं देवं स्वचित्तस्थमुपास्य पूर्व० ॥ (*ādiḥ sa saṃyoganimittahetuḥ parastrikālādakalo 'pi dṛṣṭaḥ | taṃ viśvarūpaṃ bhavabhūta mīḍyaṃ devaṃ svacittasthamupāsya pūrva0 ‖*) (Kṛ. U. 6-5) **NOTE**
 
 This Parabrahman, the one cause who brings about the relation of conjunction among all individual things, is beyond time. He is one without the divisions of present, past and future. He is without division. He is of the universal form, which shows unity in all divisions, and he is the ancient one. Since he is thus undivided among things that are divided, he is subject to time in the divided state, and beyond time in the undivided state. These two kinds of nature show the twofold state of the Parabrahman. The same is praised in the Maitrī Upaniṣad.
 
@@ -21588,7 +21588,7 @@ Whatever world exists, of the form of past, future and present, all of it, so mu
 
 ##### भावार्थ (Bhāvārtha)
 
-The whole world, of the forms of past, present and future, is only a special power of this Primal Puruṣa. Moreover, the Primal Puruṣa is greater than the whole world. All beings are only a quarter of this Īśvara. Three-quarters of this Great Puruṣa, which is beyond perception and self-luminous, remains in that world, in its true state, without undergoing any change.
+The whole world, of the forms of past, present and future, is only a special power of this Primal Puruṣa. Moreover, the Primal Puruṣa is greater than the whole world. All beings are only a quarter of this Īśvara. Three-quarters of this Great Puruṣa remain in their true state, without undergoing any change, in the world that is beyond perception and self-luminous.
 
 ##### English translation
 Such is his greatness ; and Purusha is greater even than this ; all beings are one-fourth of him : his other three-fourths, (being)immortal (abide) in heaven.
@@ -21617,7 +21617,7 @@ But the word अक्षर (*akṣara*) is used in many places as a word denot
 
 one must examine the other Upaniṣad and Bhagavad-gītā sentences, and see whether the description there agrees with what is described in the present sūkta.
 
-अथवा बहुनैतेन किं ज्ञातेन तवार्जुन । निष्पभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥ ( (*athavā bahunaitena kiṃ jñātena tavārjuna | niṣpabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ‖ (*)
+अथवा बहुनैतेन किं ज्ञातेन तवार्जुन । निष्पभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥ (*athavā bahunaitena kiṃ jñātena tavārjuna | niṣpabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ‖*)
 
 (Bha. Gī. 10-42) **NOTE**
 
@@ -23050,7 +23050,7 @@ Water also wished to increase. As a result of that wish food was made. Therefore
 
 Each principle thus produced he divided into three parts. The chief deities too are of threefold nature. Thus three kinds of principles are set forth in the Chāndogya. In the Taittirīya the order is somewhat different.
 
-तस्माद्वा एतस्मादात्मन आकाशस्संभूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः । स वा एष पुरुषोऽन्नरसमयः ॥ ( (*tasmādvā etasmādātmana ākāśassaṃbhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ | sa vā eṣa puruṣo 'nnarasamayaḥ ‖ (*)
+तस्माद्वा एतस्मादात्मन आकाशस्संभूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः । स वा एष पुरुषोऽन्नरसमयः ॥ (*tasmādvā etasmādātmana ākāśassaṃbhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ | sa vā eṣa puruṣo 'nnarasamayaḥ ‖*)
 
 (Tai. U. 2-1) **NOTE**
 
@@ -23457,7 +23457,7 @@ offered worship. Then he wished: "May I myself become all-pervading." Since wate
 
 Parameṣṭhin Prājāpatya said to the eternal Prajāpati: "I have realised a principle of sacrifice that can satisfy all desires. I shall perform that sacrifice to satisfy you." "Let it be so," Prajāpati answered. Accordingly the sacrifice was performed. As soon as the sacrifice was performed, Prajāpati wished: "May I become all-pervading." In accordance with that wish he became the all-pervading form of breath. He who blows everywhere in the form of wind is Prajāpati and no other. To know this principle is itself the power of vision of Prajāpati. Everything that has breath (wind) is a part of Prajāpati. One who knows this principle obtains that same power of vision.
 
-स प्रजापतिरिंद्रं पुत्रमब्रवीत् । अनेन त्वा कामप्रेण यज्ञेन याजयानि तेन मामिदं परमष्ठयियायजदिति तथेति तमयाजयत्स इष्ट्वाकामयताहमेवेदग्ं सर्वग्ं स्यामिति स वागभवद्वाग्वा इदग्ं सर्वं तस्मादाहुरिंद्रो वागिति । ( (*sa prajāpatiriṃdraṃ putramabravīt | anena tvā kāmapreṇa yajñena yājayāni tena māmidaṃ paramaṣṭhayiyāyajaditi tatheti tamayājayatsa iṣṭvākāmayatāhamevedagṃ sarvagṃ syāmiti sa vāgabhavadvāgvā idagṃ sarvaṃ tasmādāhuriṃdro vāgiti | (*)
+स प्रजापतिरिंद्रं पुत्रमब्रवीत् । अनेन त्वा कामप्रेण यज्ञेन याजयानि तेन मामिदं परमष्ठयियायजदिति तथेति तमयाजयत्स इष्ट्वाकामयताहमेवेदग्ं सर्वग्ं स्यामिति स वागभवद्वाग्वा इदग्ं सर्वं तस्मादाहुरिंद्रो वागिति । (*sa prajāpatiriṃdraṃ putramabravīt | anena tvā kāmapreṇa yajñena yājayāni tena māmidaṃ paramaṣṭhayiyāyajaditi tatheti tamayājayatsa iṣṭvākāmayatāhamevedagṃ sarvagṃ syāmiti sa vāgabhavadvāgvā idagṃ sarvaṃ tasmādāhuriṃdro vāgiti |*)
 
 (Pa. Brā. 11-1-6-18) **NOTE**
 
@@ -23609,7 +23609,7 @@ Māgha and Phālguna, these two, are the months of the Śiśira season. Reciting
 
 the naming तप (*tapa*), तपस्व (*tapasva*) exists. Thus the relation of Agni with the year, and the work of Agni that proceeds with the help of the bricks called Ṛtavya, is explained in this way.
 
-अग्नेरंतःश्लेषोऽसीति । सुवत्सर एषोऽग्निः स ऋतव्याभिः सगंहितः संवत्सरमेवैतदृतुभीसंतनोति संदधाति कल्पेतां द्यावापृथिवी कल्पंतामाप ओषधय इतेदमेवैतत्सर्वमृतुभिः कल्पयति कल्पांतामग्नयः पृथङ्मय जैष्ठाय सव्रता इत्यग्नयो हैते पृथग्यदेता इष्टकास्ते यथानयोर्ऋत्तोज्र्जैष्ठाय कल्पेरन्नेवमेतदाह येऽग्नयः समनसोऽंतरा द्यावापृथिवी इमे इति यथैव यजुस्तथा बंधुः शैशिरावृतू अभिकल्पमाना इंद्रमिव देवा अभिसंविशंत्विति यथेंद्रं देवा अभिसंविष्टा एवमिवावृतू जैष्ठायाभिसंविशंत्वेतद्दे इष्टके भवतो द्वा हि मासावृतुः सकृत्सादयत्येकं तदृतुं करोति ॥ ( (*agneraṃtaḥśleṣo 'sīti | suvatsara eṣo 'gniḥ sa ṛtavyābhiḥ sagaṃhitaḥ saṃvatsaramevaitadṛtubhīsaṃtanoti saṃdadhāti kalpetāṃ dyāvāpṛthivī kalpaṃtāmāpa oṣadhaya itedamevaitatsarvamṛtubhiḥ kalpayati kalpāṃtāmagnayaḥ pṛthaṅmaya jaiṣṭhāya savratā ityagnayo haite pṛthagyadetā iṣṭakāste yathānayorṛttojrjaiṣṭhāya kalperannevametadāha ye 'gnayaḥ samanaso 'ṃtarā dyāvāpṛthivī ime iti yathaiva yajustathā baṃdhuḥ śaiśirāvṛtū abhikalpamānā iṃdramiva devā abhisaṃviśaṃtviti yatheṃdraṃ devā abhisaṃviṣṭā evamivāvṛtū jaiṣṭhāyābhisaṃviśaṃtvetadde iṣṭake bhavato dvā hi māsāvṛtuḥ sakṛtsādayatyekaṃ tadṛtuṃ karoti ‖ (*)
+अग्नेरंतःश्लेषोऽसीति । सुवत्सर एषोऽग्निः स ऋतव्याभिः सगंहितः संवत्सरमेवैतदृतुभीसंतनोति संदधाति कल्पेतां द्यावापृथिवी कल्पंतामाप ओषधय इतेदमेवैतत्सर्वमृतुभिः कल्पयति कल्पांतामग्नयः पृथङ्मय जैष्ठाय सव्रता इत्यग्नयो हैते पृथग्यदेता इष्टकास्ते यथानयोर्ऋत्तोज्र्जैष्ठाय कल्पेरन्नेवमेतदाह येऽग्नयः समनसोऽंतरा द्यावापृथिवी इमे इति यथैव यजुस्तथा बंधुः शैशिरावृतू अभिकल्पमाना इंद्रमिव देवा अभिसंविशंत्विति यथेंद्रं देवा अभिसंविष्टा एवमिवावृतू जैष्ठायाभिसंविशंत्वेतद्दे इष्टके भवतो द्वा हि मासावृतुः सकृत्सादयत्येकं तदृतुं करोति ॥ (*agneraṃtaḥśleṣo 'sīti | suvatsara eṣo 'gniḥ sa ṛtavyābhiḥ sagaṃhitaḥ saṃvatsaramevaitadṛtubhīsaṃtanoti saṃdadhāti kalpetāṃ dyāvāpṛthivī kalpaṃtāmāpa oṣadhaya itedamevaitatsarvamṛtubhiḥ kalpayati kalpāṃtāmagnayaḥ pṛthaṅmaya jaiṣṭhāya savratā ityagnayo haite pṛthagyadetā iṣṭakāste yathānayorṛttojrjaiṣṭhāya kalperannevametadāha ye 'gnayaḥ samanaso 'ṃtarā dyāvāpṛthivī ime iti yathaiva yajustathā baṃdhuḥ śaiśirāvṛtū abhikalpamānā iṃdramiva devā abhisaṃviśaṃtviti yatheṃdraṃ devā abhisaṃviṣṭā evamivāvṛtū jaiṣṭhāyābhisaṃviśaṃtvetadde iṣṭake bhavato dvā hi māsāvṛtuḥ sakṛtsādayatyekaṃ tadṛtuṃ karoti ‖*)
 
 (Śa. Cā. 8-7-1-6) **NOTE**
 
@@ -23938,7 +23938,7 @@ Before creation there was nothing other than the Sādhyas. They offered Agni, wi
 
 Furthermore, it has been stated above that among the gods the Sādhyas are the best, that dwelling in the eternal world of Brahman, having attained a state full of Brahman and enjoying the experience of Brahman, they display their own nature in every state of Brahman. Among the gods who obtain this experience of Brahman there are two kinds, the कर्मदेवरु (*karmadevaru*) and the आजानदेवरु (*ājānadevaru*). The Ṛbhus and the others who performed excellent action and as its fruit obtained godhood are the कर्मदेवरु (*karmadevaru*). The gods who display godhood by excellent birth itself are the आजानदेवरु (*ājānadevaru*). The Sādhyas are better than these two groups; the chief purport of this Ṛk is that, being directly of the nature of the vital breaths of Prajāpati, they completed his sacrifice and carried on the work of creation.
 
-In this Ṛk it is stated that the gods performed the sacrifice after preparing the sacrificial victim with sprinkling and the like. It is necessary to explain the meaning of the words यज्ञं (*yajñaṃ*) and the others in the sentence तं यज्ञं बर्हिषि प्रौक्षन् पुरुषं जातमग्रतः (*taṃ yajñaṃ barhiṣi praukṣan puruṣaṃ jātamagrataḥ*) in the first half. यज्ञ—यज्ञसाधनभूतं (*yajña—yajñasādhanabhūtaṃ*): here the word यज्ञं (*yajñaṃ*) is given the meaning of the animal that is the means and material for performing the sacrifice. If it is asked which animal, it is पुरुषं (*puruṣaṃ*), that is, in the form of the Puruṣa, and जातमग्रतः (*jātamagrataḥ*), that is, the Supreme Self in the form of Puruṣa who had appeared before the creation of other things. It should be understood that since the work of creation was still at its beginning and the creation of all things was not complete, the animal needed for the sacrifice was not to be had. Therefore the gods
+The main purport: in this Ṛk it is stated that the gods performed the sacrifice after preparing the sacrificial victim with sprinkling and the like. It is necessary to explain the meaning of the words यज्ञं (*yajñaṃ*) and the others in the sentence तं यज्ञं बर्हिषि प्रौक्षन् पुरुषं जातमग्रतः (*taṃ yajñaṃ barhiṣi praukṣan puruṣaṃ jātamagrataḥ*) in the first half. यज्ञ—यज्ञसाधनभूतं (*yajña—yajñasādhanabhūtaṃ*): here the word यज्ञं (*yajñaṃ*) is given the meaning of the animal that is the means and material for performing the sacrifice. If it is asked which animal, it is पुरुषं (*puruṣaṃ*), that is, in the form of the Puruṣa, and जातमग्रतः (*jātamagrataḥ*), that is, the Supreme Self in the form of Puruṣa who had appeared before the creation of other things. It should be understood that since the work of creation was still at its beginning and the creation of all things was not complete, the animal needed for the sacrifice was not to be had. Therefore the gods
 
 ### Printed p. 869
 
@@ -25093,7 +25093,7 @@ and so if the perfection of Brahma is not possible without the Śūdra as well, 
 
 Even through these four varṇas the fullness of Brahma was not achieved. A principle that would bring harmony to all of them had to be produced. Therefore,
 
-स नैव व्यभवत्तच्छेयोरूपमत्यसृजत धर्मं तदेतत् क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान् बलीयांसमाशंस ते धर्मेण यथा राज्ञैव यो वै स धर्मः सत्यं वै तत्तस्मात्सत्यं वदंतमाहुर्धर्मं वदतीति धर्मं वा वदंतं सत्यं वदतीत्येतद्ध्येवैतदुभयं भवति ॥ ( (*sa naiva vyabhavattaccheyorūpamatyasṛjata dharmaṃ tadetat kṣatrasya kṣatraṃ yaddharmastasmāddharmātparaṃ nāstyatho abalīyān balīyāṃsamāśaṃsa te dharmeṇa yathā rājñaiva yo vai sa dharmaḥ satyaṃ vai tattasmātsatyaṃ vadaṃtamāhurdharmaṃ vadatīti dharmaṃ vā vadaṃtaṃ satyaṃ vadatītyetaddhyevaitadubhayaṃ bhavati ‖ (*) (Bṛ. U. 1-4-14)
+स नैव व्यभवत्तच्छेयोरूपमत्यसृजत धर्मं तदेतत् क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान् बलीयांसमाशंस ते धर्मेण यथा राज्ञैव यो वै स धर्मः सत्यं वै तत्तस्मात्सत्यं वदंतमाहुर्धर्मं वदतीति धर्मं वा वदंतं सत्यं वदतीत्येतद्ध्येवैतदुभयं भवति ॥ (*sa naiva vyabhavattaccheyorūpamatyasṛjata dharmaṃ tadetat kṣatrasya kṣatraṃ yaddharmastasmāddharmātparaṃ nāstyatho abalīyān balīyāṃsamāśaṃsa te dharmeṇa yathā rājñaiva yo vai sa dharmaḥ satyaṃ vai tattasmātsatyaṃ vadaṃtamāhurdharmaṃ vadatīti dharmaṃ vā vadaṃtaṃ satyaṃ vadatītyetaddhyevaitadubhayaṃ bhavati ‖*) (Bṛ. U. 1-4-14)
 
 Brahma understood that without the restraint of dharma the power of the Kṣatriya might grow violent and turn into an evil power, and so he created dharma, whose form is well-being. This dharma alone became able to keep the Kṣatriya under control. Than this dharma, which can control the Kṣatriya who is able to control everything, nothing else is greater. Just as with the help of the king a weak man overcomes a strong man (one without dharma), so with the help of dharma one without power overcomes the powerful. Dharma is truth. Therefore one who speaks truth is called a speaker of dharma, and one who speaks dharma is called a speaker of truth. Truth and dharma are not different from each other.
 
