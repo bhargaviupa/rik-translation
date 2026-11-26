@@ -10514,6 +10514,256 @@ The Indra who, endowed with inner power, is great-souled, valiant, ancient, and 
 ##### English translation
 Vigorous with (innate) vigour, (comes a) purple-coloured bird, mighty, heroic, ancient, having no nest : that which he knows is truth, and is not vain :(he is) the conqueror and distributor of desirable wealth.
 
+### Printed p. 338
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐभि॑र्ददे॒ वृष्ण्या॒ पौंस्या॑नि॒ येभि॒रौक्ष॑द्वृत्त॒हत्या॑य व॒ज्री ।  
+> ये कर्म॑णः क्रि॒यामा॑णस्य म॒ह्न ऋ॑तेक॒र्ममु॒दजा॑यंत  ॒
+> देवाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एभिः । ददे । वृष्ण्या । पौंस्यानि । येभिः । औक्षत् । वृत्रहत्याय । वज्री ।  
+> ये । कर्मणः । क्रियमाणस्य । मह्ना । ऋतेऽकर्मं । उत् अजायंत । देवाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र विभिर्मरुद्भिः सह वृष्ण्यानि वर्षकाणि पौंस्यानि बलान्याददे । आदत्ते ।
+> येभिर्मरुद्भिः सहितो वृत्रहत्याय । प्राण्युपकारकवृष्ट्यावरकत्वाद्वृत्रः पापं ।
+> तस्य हत्याय । मनुष्याणामुपद्रवशमनायेत्यर्थः । तदर्थं वज्री वज्रवानिंद्र
+> औक्षत् । वर्षति । ये च मरुतो देवा मह्ना महतेंद्रेण क्रियामाणस्य
+> कर्मणो वृष्टिप्रदानलक्षणस्य! साहायार्थमृतेकर्म मृतकर्मवृष्टिप्रदानकर्म
+> प्रत्युदजायंत उन्मुखा जायंते स्वयमेव तैरेभिर्दद इति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Indra takes up the rain-making, mighty powers together with the Maruts, in whose company he, the wielder of the thunderbolt, rained for the slaying of Vṛtra. Vṛtra is sin, because he obstructs the rain that benefits living beings; his slaying means the removal of troubles for men. For that purpose Indra rained. Those Maruts, who are gods, arose of their own accord, facing the work of giving rain that the great Indra was performing, in order to help in it. So the construction is: with them he takes up these powers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येभिः (*yebhiḥ*)—together with whichever hosts of Maruts
+- वज्री (*vajrī*)—Indra
+- वृत्रहत्याय (*vṛtrahatyāya*)—for the destruction of sin
+- औक्षत् (*aukṣat*)—poured down rain
+- देवाः (*devāḥ*)—divine
+- ये (*ye*)—which Maruts
+- मह्ना (*mahnā*)—by the great Indra
+- क्रियमाणस्य (*kriyamāṇasya*)—which is to be carried out
+- कर्मणः (*karmaṇaḥ*)—for the work
+- ऋतेकर्मं (*ṛtekarmaṃ*)—protecting the acts of giving rain and the like
+- उदजायंत (*udajāyaṃta*)—were born
+- विभीः (*vibhīḥ*)—with the Maruts
+- वृष्ण्या (*vṛṣṇyā*)—rain-causing
+- पौंस्यानि (*pauṃsyāni*)—powers
+- आ ददे (*ā dade*)—takes up
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, together with the Maruts in whose company he poured down rain for the destruction of sin, and who as divine beings were born, intent on the acts of giving rain and the like, for the work to be accomplished by the great Indra, takes up with such Maruts the rain-causing powers.
+
+### Printed p. 339
+**English Translation**
+Indra bestows fertilizing energies (accompanied by these Maruts) in whose company the thunderer sends down showers in order to destroy sin : the deities who were born for giving rain (to assist) in the act performed by great Indra.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒जा कर्मा॑णि ज॒नय॑न्वि॒श्वाजा॑ अशस्ति॒हा वि॒श्वम॑नास्तुरा॒षाट् ।  
+> पी॒त्वी सोम॑स्य दि॒व आ वृ॑धा॒नः शूरो॒ निर्यु॒धाध॑नु॒द्द स्यू॑न्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युजा । कर्माणॆ । जनयन् । विश्वओजाः । अशस्तिहा । विश्वमनाः । तुराषाट् ।  
+> पीत्वी । सोमस्य । दिवः । आ । वृधानः । शूरः । निः । युधा । अधमत् । दस्यून् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो युजा मरुतां साहाय्येन कर्माणि प्रवर्षणादीनि जनयन्नुत्पादयन् विश्वा जा व्याप्तबलोऽशस्तिहा रक्षोहा विश्वमना प्याप्तमना अत्यंतं
+> मनस्वी तुराषाट् तूर्णमभिभविता शत्रूणां । एवं महानुभाव इंद्रः सोमस्य
+> सोमं पीत्वी पीत्वा दिवो द्युलोकादागत्य सोमं पीत्वा वृधानो वर्धमानः
+> शूरः सन् युधायुधेन प्रहारेण वा दस्यूञ्चितून्निरधमत् । निर्धमति ।
+> युद्धेनासुरानपबाधत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Indra, with the help of the Maruts, brings forth works such as the pouring of rain. He is of pervading strength, a destroyer of Rākṣasas (रक्षोहा (*rakṣohā*)), all-minded, that is, exceedingly intelligent, and a swift overcomer of enemies. Such a mighty Indra comes from the heaven-world, drinks the Soma, and growing in strength, being a hero, he blows away the foes with his weapon or his stroke. The meaning is that he drives away the Asuras by battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युजा (*yujā*)—together with the Maruts
+- कर्माणि (*karmāṇi*)—works such as the sending of rain
+- जनयन् (*janayan*)—producing
+- विश्वाजाः (*viśvājāḥ*)—having strength spread everywhere
+- अशस्तिहा (*aśastihā*)—destroyer of the wicked
+- विश्वमनाः (*viśvamanāḥ*)—having a mind extended everywhere
+- तुराषाट् (*turāṣāṭ*)—one who swiftly conquers enemies
+- सोमस्य (*somasya*)—the Soma
+- पीती (*pītī*)—having drunk
+- दिवः (*divaḥ*)—having come from the heaven-world
+- वृधानः (*vṛdhānaḥ*)—one who has grown
+- शूरः (*śūraḥ*)—and valiant, Indra
+- युधा (*yudhā*)—with weapons
+- दस्यून् (*dasyūn*)—enemies
+- निः अधमत् (*niḥ adhamat*)—destroys
+
+### Printed p. 340
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who together with the Maruts produces works such as the sending of rain, who has strength spread everywhere, destroys the wicked, has a mind extended everywhere, swiftly conquers enemies, who has come from the heaven-world after drinking the Soma, grown in strength, and is valiant, destroys the enemies with weapons.
+
+**English Translation**
+Accomplishing his duty with their assistance, the all-powerful Indra, the destroyer of the wicked, the all-wise, the quick subduer of foes, descending from heaven, and quaffing the Soma, invigorated and a hero he demolishes the Dasyus with his thunderbolt.
+
+## Sūkta 56 (Maṇḍala 10)
+**Introduction**
+The seer of this sūkta, Bṛhaduktha, when his son Vāji died, was seized with grief and in this sūkta prays that the various parts of the dead son may merge into the five great elements. Accordingly: that the fire present in the body as heat may join the external fire; that the vital breath may join the external wind in the sky; and that the self may join the sun, who shines in heaven in the form of the supreme Brahman, and become one with him. These matters are set out in the Ṛks of this sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं त इति सप्तर्चं चतुर्दशं सूक्तं । वामदेवपुत्रो बृहदुक्ष ऋषिः ।
+> चतुर्थीपंचमीषष्ट्यो जगत्यः । आदितस्तिस्रः सप्तमी च त्रिष्टुभः । विश्वे देवा
+> देवता । तथा चानुक्रांतं । इदं ते सप्त वैश्वदेवं तु चतुर्थ्याद्यास्तिस्रो जगश्य
+> इति ॥ गतः सूक्तविनियोगः ॥ आहवनीये वाद्यादिकारणेनायतनान्निष्कम्य शम्यापरासादर्वाचीने देशे दीप्यमाने सति तमग्निमनया पुनरायतने संवपेत् ।
+> सूत्रितं च । आहवनीयमवदीप्यमानमर्वाक् शम्यापरासादिदं त एकं पर ऊ त
+> एकमिति संवपेत् । आ. ३-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इदं ते (*idaṃ te*) has seven Ṛks and is the fourteenth sūkta. The seer is Bṛhaduktha, son of Vāmadeva. The fourth, fifth and sixth Ṛks are Jagatī; the first three and the seventh are Triṣṭubh. The deity is the Viśve Devāḥ. The Anukramaṇī says: इदं ते सप्त वैश्वदेवं तु चतुर्थ्याद्यास्तिस्रो जगत्यः (*idaṃ te sapta vaiśvadevaṃ tu caturthyādyāstisro jagatyaḥ*). The use of the sūkta has been given. Use: when the Āhavanīya fire, having left its hearth for some reason such as a sound, blazes up in a place on this side of the Śamyā-throw, one should restore that fire to its hearth with this sūkta. It is laid down in the sūtra: आहवनीयमवदीप्यमानमर्वाक् शम्यापरासादिदं त एकं पर ऊ त एकमिति संवपेत् । (*āhavanīyamavadīpyamānamarvāk śamyāparāsādidaṃ ta ekaṃ para ū ta ekamiti saṃvapet |*) (Ā. 3-10).
+
+The Kannada Anuvāda: This sūkta beginning इदं त एकं (*idaṃ ta ekaṃ*) is the fourteenth sūkta in the fourth anuvāka. It has seven Ṛks. Its seer is Bṛhaduktha, son of Vāmadeva; its fourth, fifth and sixth Ṛks are in the Jagatī metre. The first three Ṛks of the sūkta and the seventh are in the Triṣṭubh metre. The deity is the Viśve Devāḥ; in the Anukramaṇī—
+
+### Printed p. 341
+it is said: इदं ते सप्त वैश्वदेवं तु चतुर्थ्याद्यास्तिस्रो जगत्यः (*idaṃ te sapta vaiśvadevaṃ tu caturthyādyāstisro jagatyaḥ*). The use of the sūkta has been stated earlier.
+
+##### Particulars
+
+Sūkta 56. Maṇḍala 10. Anuvāka 4. Aṣṭaka 8. Adhyāya 1. Varga 18. Number of Ṛks in the sūkta: 7.
+Seer: Bṛhaduktha Vāmadevya.
+Deity: Viśve Devāḥ.
+Metre: 1-3, 7 Triṣṭubh; 4-6 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं त॒ एकं॑ प॒र ऊ॑ त॒ एकं॑ तृ॒तीये॑न॒ ज्योति॑षा॒ सं वि॑शस्व ।  
+> सं॒वेश॑ने त॒न्नग१॒॑श्चारु॑रेधि प्रि॒यो दे॒वानां॑ पर॒मे ज॒नित्रे॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । ते । एकं । परः । ऊं इति । ते। एकं । तृतीयेन । ज्योतिषा। सं । विशस्व ।  
+> संवेशने । तन्नः । चारुः । एधि । प्रियः । देवानां । परमे । जनित्रे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदादिभिर्बृहदुक्को वाजिनं नाम स्वपुत्रं मृतं वदति । हे मृत पुत्र ते
+> तवेदं । उपरि ज्योतिषेति वक्ष्यमाणत्वादत्रेदंशब्देन ज्योतिरभिधीयते । इदं
+> ज्योतिरग्न्याख्यमेकमेकोऽ०शः । आतस्तमग्निं तव देहगताग्न्यंशेन बाह्यमग्निं
+> सं विशस्व । संगच्छस्व । तथा पर उ अन्नोऽपि ते तवैकं वाय्वाख्योऽ०शः । ते तव
+> प्राणवाय्वाख्येनांशेन संविशस्व । शरीराग्नि प्राणवाय्वर्बाह्याग्निवाय्वोश्च कत्वादंशत्वमिति भावः । तथा तृतीयेन ज्योतिषादित्याख्येन तेजसा तवात्मना संविशस्व ।
+> सूर्यगतात्मचैतन्यदेहगतात्मचैतन्ययोरभेदादंशत्वं । तद्योऽहं सोऽसौ
+> योऽसौ सोऽहं सूर्य आत्मा जगतस्तस्थु षश्चेति श्रुतेरात्मनः सूर्यप्रवेशो
+> युक्तः । तन्नस्तन्वाः संवेशने तस्मिन्सूर्यॆ संविश्य चारुरेधि । कल्याणो भव ।
+> कीदृशस्वं । प्रियस्तेन सह प्रीयमाणः । कीदृशे तस्मिन् । देवानां परम
+> उत्तमे जनित्रॆ जनके । देवानां हैतत्परमं जनित्रं यत्सूर्य इति हि श्रुतिः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk and those that follow, Bṛhaduktha addresses his dead son, named Vāji. "O dead son, this of yours": since "with light" is said further on, the word इदं (*idaṃ*) here denotes light. This light, called fire, is one portion. So join the external fire with the fire-portion present in your body. Likewise that other, wind, is one portion of yours; join with it by the portion that is the vital breath. The bodily fire and breath are portions because they are one with the external fire and wind. Likewise with the third light, the radiance called Āditya, join with your self. The self-consciousness in the sun and that in the body are not different, hence the sense of portion. The Śruti तद्योऽहं सोऽसौ योऽसौ सोऽहं सूर्य आत्मा जगतस्तस्थु षश्च (*tadyo 'haṃ so 'sau yo 'sau so 'haṃ sūrya ātmā jagatastasthu ṣaśca*) makes the self's entry into the sun fitting. "In the entering of your body": having entered that sun, become lovely, that is, auspicious, and be dear, delighted together with him. He is the supreme, the best, begetter of the gods; the Śruti says: देवानां हैतत्परमं जनित्रं यत्सूर्य (*devānāṃ haitatparamaṃ janitraṃ yatsūrya*).
+
+### Printed p. 342
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O dead son, you) ते (*te*)—your
+- इदं (*idaṃ*)—belonging to the body, that is, what has been within the body until now
+- एकं (*ekaṃ*)—with one portion of the radiance
+- सं विशस्व (*saṃ viśasva*)—enter the external fire and become one with it (likewise)
+- ते (*te*)—your
+- परः उ (*paraḥ u*)—of the vital breath within the body
+- एकं (*ekaṃ*)—with another portion
+- सं विशस्व (*saṃ viśasva*)—enter the external wind and be merged in it (and)
+- तृतीयेन ज्योतिषा (*tṛtīyena jyotiṣā*)—with the radiance of Āditya, called the third radiance
+- सं विशस्व (*saṃ viśasva*)—enter with your self and become one in it
+- देवानां (*devānāṃ*)—for the gods
+- परमे (*parame*)—supreme
+- जनित्रॆ (*janitrè*)—in Āditya, the place of origin
+- तन्नः (*tannaḥ*)—of the parts of your body
+- संवेशने (*saṃveśane*)—at the time of entering
+- प्रियः (*priyaḥ*)—becoming dear to Āditya
+- चारुः (*cāruḥ*)—joy
+- विधि (*vidhi*)—obtain **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O dead son, enter the external fire with the fire-form portion of your body and become one with it. Enter the wind in the outer sky with the wind-form radiance and become one with it. And with the third, the self-form portion, enter Āditya and become one with him. When entering Āditya, the supreme place of origin even for the gods, become dear to Āditya and obtain joy.
+
+**English Translation**
+This (light) is one (portion) of you, and this other is one (portion); with your third light enter into (outer radiance); on the entrance of the body into (the sun), the supreme birthplace of the gods, become lovely and beloved.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the bodies of all living beings the Vaiśvānara fire pervades as heat, and in the belly as the digestive fire. This was explained when Vaiśvānara fire was described. The fire on earth, or the fire in the form of Āditya, is the origin of every kind of heat. Therefore when the body perishes, it is natural to wish that the heat in it merge into the external fire that is its source. Likewise it is quite fitting to say that the vital breath should merge in the external wind in the sky, and the self in the sun, the cause of all consciousness. Moreover, that the sun or Āditya is the supreme Brahman is stated plainly in Śruti passages such as आसावादित्यो बह्मेति (*āsāvādityo bahmeti*) and सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*).
+
+### Printed p. 343
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त॒नूष्टे॑ वाजिन्त॒न्वं१॒॑१नयं॑ती वा॒मम॒स्मभ्यं॒ धातु॒ शर्म॒  ॑
+> तुभ्यं ।  
+> अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वान्दि॒वी॑व॒ ज्योतिः॒ स्वमा  ॑
+> मिमीयाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तनूः । ते । वाजिन् । तन्नं । नयंती । वामं । अस्मभ्यं । धातु । शर्म । तुभ्यं ।  
+> अहुतः । महः । धरुणाय । देवान् । दिविइव । ज्योतिः । स्वं । आ । मिमीयाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिन्नेतन्नामक पुत्र ते तव तन्नं शरीरं नयंती स्वशरीरं प्रापयंती
+> तनूरियं पृथिवी । उभयोरपि पार्थिवत्वात्तव शरीरस्य पृथिवीप्राप्तौ सत्यां तस्यास्तव शरीरनयनं युक्तं । तादृशी पृथिवी वामं वननीयं धनमस्सभ्यं धातु ।
+> दधातु । शर्म च सुखं तुभ्यं धातु । दधातु । स त्वमह्रुतोऽनवपतितः सन्
+> महो महतो देवांस्तव कारणभूतान् दिवीव ज्योतिर्द्युलोके वर्तमानं
+> सूर्यं च । इवशब्दश्चार्थे निपातानामनेकार्थत्वात् । तं च स्वं तव स्वभूतमा
+> मिमीयाः । आविश ॥
+
+##### Gist of the bhāṣya
+
+"O Vāji", son of that name, this earth, the body (तनू (*tanū*)) that carries your body to its own body: since both are earthly, it is fitting that when your body reaches the earth she should lead it. May such an earth grant us desirable wealth and grant happiness to you. Being unfallen, enter the great gods who are your cause, and the light that exists in heaven, the sun. The word इव (*iva*) is in the sense of "and", since particles have many meanings. Enter also your own self.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वार्जि (*vārji*)—O son named Vāji **NOTE**
+- ते (*te*)—your
+- तन्नं (*tannaṃ*)—body
+- नयंती (*nayaṃtī*)—carrying
+- तनूः (*tanūḥ*)—this earth
+- वामं (*vāmaṃ*)—attractive wealth
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- धातु (*dhātu*)—may she give
+- तुभ्यं (*tubhyaṃ*)—to you
+- शर्म (*śarma*)—may she give happiness
+- अह्रुतः (*ahrutaḥ*)—without stumbling anywhere
+- धरुणाय (*dharuṇāya*)—for your firm support
+- महः (*mahaḥ*)—great
+- देवान् (*devān*)—the gods
+- दिवीव (*divīva*)—in the heaven-world
+- ज्योतिः (*jyotiḥ*)—Āditya
+- स्वं (*svaṃ*)—your own form
+- आ मिमीयाः (*ā mimīyāḥ*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O son named Vāji, may this earth, which carries your body, give us attractive wealth. May she give you happiness. Without stumbling anywhere, enter, for your firm support, the great gods, Āditya who dwells in the heaven-world, and your own form.
+
 ---
 
-**Progress note:** Done through printed p. 337. pp. 332-337 (batch API)
+**Progress note:** Done through printed p. 343. pp. 338-343 (batch API)
