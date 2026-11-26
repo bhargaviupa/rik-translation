@@ -13753,6 +13753,291 @@ He, like the showerer (Indra), cast foam around in the combat, and came away fro
 > म॒क्ष्मा न वह्निः॑ प्र॒जाया॑ उप॒ब्बिर॒ग्निं न न॒ग्न उप॑ सीद॒दूधः॑ ।  
 > सनि॑ते॒ध्मं सनि॑तो॒त वाजं॒ स ध॒र्ता ज॑ज्ञे॒ सह॑सा यवी॒युत् ॥
 
+### Printed p. 422
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । न । वह्निः । प्रजायाः । उपब्धिः । अग्निं । न । नग्नः । उप । सीदत् । ऊधः॥  
+> सनिता । इध्मं । सनिता । उत । वाजं । सः । धर्ता । जज्ञे । सहसा । यवियुत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वास्तोष्पतिना रुद्रेण गोप्यमानेऽस्मिन्यज्ञे वह्निर्वह्नि वद्दाहको राक्षसादिर्मक्षु न शीघ्रं नोप सीदत् । नागच्छति । यो वह्निः प्रजाया उपब्बिरुपपीडको भवति यज्ञविघातार्थमागच्छति । ऋत्विगादिरूपायाः प्रजाया न पीडां
+> करोत्यहनि । तथोधः । रात्रिनामैतत् । रात्रावप्यग्निं ज्वलंतं नग्नो विवसनो
+> राक्षसादिर्नोप सीदत् । एवं रुद्रे रक्षितरि सति सोऽग्निरिध्मं सनिता जज्ञे । उत्पन्नः ।
+> उतापि च वाजमन्नं हविः सनिता जज्ञे । स धर्तार्यज्ञस्य फलस्य ना धारक उत्पन्नः
+> सोऽग्निः सहसा बलेन यवीयुद्यज्ञमिश्रयित्कृणां रक्षःप्रभृतीनां योद्धा जज्ञे॥
+
+##### Gist of the bhāṣya
+
+While the guardian of the dwelling, Rudra, protects this sacrifice, the "fire-bearer" (वह्निः (*vahniḥ*)), meaning a fire-like burner such as a Rākṣasa, does not approach quickly. He does not come, though he is the oppressor of the people (प्रजायाः (*prajāyāḥ*)), meaning the priests and others, and comes to wreck the sacrifice. He does not harm them by day. Likewise ऊधः (*ūdhaḥ*) is a name for night: even at night the naked one (नग्नः (*nagnaḥ*)), the unclothed Rākṣasa and the like, does not approach the blazing fire. Rudra being the protector, that Agni has been born as the giver of fuel (इध्मं (*idhmaṃ*)). Moreover he has been born as the giver of food (वाजं (*vājaṃ*)), the oblation. He has arisen as the upholder (धर्ता (*dhartā*)) of the sacrifice and its fruit. By his might (सहसा (*sahasā*)) he has become the fighter (यवीयुत् (*yavīyut*)) of the Rākṣasas and others who mix up and spoil the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (at the time when Rudra protects our sacrifice) वह्निः (*vahniḥ*)—the Rākṣasa who can burn like fire
+- मक्षु (*makṣu*)—quickly
+- न उप सीदत् (*na upa sīdat*)—cannot approach
+- प्रजायाः (*prajāyāḥ*)—to the sacrificer and the others
+- उपबिद्धिः (*upabiddhiḥ*)—the one who harms, and
+- नग्नः (*nagnaḥ*)—the Rākṣasa who stands naked
+- अग्निं (*agniṃ*)—the sacrificial fire
+- ऊधः (*ūdhaḥ*)—even at night
+- न (*na*)—cannot approach
+- इद्मं (*idmaṃ*)—the kindling-sticks and the like, the means of kindling
+- सनिता (*sanitā*)—the god who gives
+- जज्जॆ (*jajjè*)—has been born
+- उत (*uta*)—and
+- वातं (*vātaṃ*)—food
+- सनिता (*sanitā*)—one who can supply
+- यवीयुत् (*yavīyut*)—one who strikes and drives off Rākṣasas and the like
+- धर्ता (*dhartā*)—the upholder of the sacrifice
+- सः (*saḥ*)—that Agni
+- सहसा (*sahasā*)—together with his strength (has been born)
+
+##### भावार्थ (Bhāvārtha)
+
+At the time when Rudra protects our sacrifice, the Rākṣasa who can burn like fire cannot easily approach us. The Rākṣasa who harms the sacrificer and the others, and who stands naked, cannot approach the sacrificial fire even at night. Agni, who gives the kindling-sticks and the like that serve for blazing, who gives food, who drives off the Rākṣasas and the like, and who upholds the sacrifice, has been born together with his strength.
+
+##### English translation
+The fire, harming the people, does not approach qnically (by day):
+the naked (Rakshasas approach) not Agni by night;  the giver of fuel, and
+### Printed p. 423
+the giver of food, he the upholder (of the rite), is born, overcoming
+enemies by his might.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्पू क॒नायाः॑ स॒ख्यं नव॑ग्वा ऋ॒तं वदं॑त ऋ॒तयु॑क्तिमग्मन् ।  
+> द्वि॒बर्ह॑सो॒ य उप॑ गो॒पमागु॑रदक्षि॒णासो॒ अच्यु॑ता  
+> दुदुक्सन् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । कनायाः । सख्यं । नवग्वाः । ऋतं । वदंतः । ऋतयुक्तिं । अग्मन् ।  
+> द्विबर्हसः । ये । उप । गोपं । आ । आगुः । अदक्षिणासः । अच्युता । दुधुक्षन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नवग्वा अंगिरसः । गवामयनाख्यं सत्रमनुतिष्ठतामंगिरसां मध्ये ये
+> नवसु मासेषु लब्धगावः संत उत्थितास्ते नवग्वाः । त ऋतं वदंतो मक्षु शीघ्रं
+> कनायाः कमनीयायाः स्तुतेर्नाभानेदिष्टप्रेरितायाः सकाशादृतयुक्तिमग्मन् ।
+> उक्तयोगपरिसमाप्तिमग्मन् । प्राप्ताः । यद्वा । ऋतयुक्तिं यज्ञयोगोपेतमृतं शब्दं स्तुतिं वदंतोऽंगिरसः कनायाः पृश्न्याः सख्यमग्न्निति योजना ।
+> द्विबर्हसो द्वयोः स्थानयोर्द्यावापृथिव्योः परिवृढा येऽंगिरसो गोपं
+> गोपायितारं नाभानेदिष्टमिंद्रं वोपागुः उपगताः तेदक्षिणासो दक्षिणारहिताः ।
+> अदक्षिणानि सत्राणीत्याहुरिति हि वचनं ये यजमानास्त ऋत्विज इति । ते चाच्युतोदकान्यक्षीणानि फलानि वा दुधुक्सन् ॥
+
+##### Gist of the bhāṣya
+
+The Navagvas are Aṅgirases. Among the Aṅgirases performing the sacrificial session called Gavāmayana, those who rose up after obtaining cows in the nine months are the Navagvas. Speaking the truth (ऋतं (*ṛtaṃ*)), they quickly (मक्षु (*makṣu*)) attained the completion of the sacrificial connection (ऋतयुक्तिं (*ṛtayuktiṃ*)) from the lovely (कनायाः (*kanāyāḥ*)) praise sent forth by Nābhānediṣṭha. Or else: the Aṅgirases, uttering the praise (ऋतं (*ṛtaṃ*)) joined to the sacrifice, attained the friendship (सख्यं (*sakhyaṃ*)) of Pṛśni (कनायाः (*kanāyāḥ*)); so the construction runs. Those Aṅgirases who, pervading both places, heaven and earth (द्विबर्हसः (*dvibarhasaḥ*)), came to the protector (गोपं (*gopaṃ*)), that is Nābhānediṣṭha or Indra, were without sacrificial fees (अदक्षिणासः (*adakṣiṇāsaḥ*)). The saying is that sessions are said to be without fees, and that the sacrificers are themselves the priests. They milked out (दुधुक्सन् (*dudhuksan*)) the unfailing waters or the unfailing fruits.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतुयुक्तिं (*ṛtuyuktiṃ*)—useful for the sacrifice
+- ऋतं (*ṛtaṃ*)—the praise
+- वदंतः (*vadaṃtaḥ*)—those who recite
+- नवग्वाः (*navagvāḥ*)—the Aṅgirases called Navagvas
+- मक्षु (*makṣu*)—quickly
+- कनायाः (*kanāyāḥ*)—of Pṛśni
+- सख्यं (*sakhyaṃ*)—friendship
+- अग्मन् (*agman*)—attained
+- द्विबर्हसः (*dvibarhasaḥ*)—who had a place in both heaven and earth
+- ये (*ye*)—which Aṅgirases
+- गोपं (*gopaṃ*)—the protector Indra
+- उप आगुः (*upa āguḥ*)—approached, they
+- अदक्षिणासः (*adakṣiṇāsaḥ*)—without receiving a fee
+- अच्युता (*acyutā*)—the imperishable waters
+- दुधुक्सन् (*dudhuksan*)—milked
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, called Navagvas, who recite the praise useful for the sacrifice, quickly attained the friendship of the cow named Pṛśni. Those Aṅgirases who had a place in both heaven and earth approached Indra the protector. Receiving no fee, they milked out the imperishable waters.
+### Printed p. 424
+
+##### English translation
+The Angirasas, who were engaged in the nine months' ceremonial, reciting the praise suited to the rite, quickly attained the friendship of the maiden : those who seated in the two seats (heaven and earth) came to their protector, as they had no donation, milked forth the inexhaustible (waters).
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्स्य क॒नायाः॑ स॒ख्यं नवी॑यो॒ राधो॒ न रेत॑ ऋ॒तमित्तु॑  
+> रण्यन् ।  
+> शुचि॒ यत्ते॒ रेक्ष्ण॒ आय॑जंत सब॒र्दुघा॑याः॒ पय॑  
+> उ॒स्रिया॑याः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । कनायाः । सख्यं । नवीयः । राधः । नः । रेतः । ऋतं । इत् । तुरण्यन् ।  
+> शुचि । यत् । ते । रेक्ष्णः । आऽ अयजंत । सबःदुघायाः । पयः । उस्रियायाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मक्षु शीघ्रं कनायाः कमनीयाया घर्मदोग्धा ्य नवीयो नवतरं
+> सख्यं । प्राप्येति शेषः । अथवा नवीय इति राधोविशेषणं । नवतरं राधो
+> धनमिव रेतः सिच्यमानमृतमुदकं तुरण्यन् । दिवः सकाशात्प्रेरितवंतः । हे इंद्र
+> ते तुभ्यं यद्यदा रेक्ष्णः पाथोलक्षणं धनमाभिमुखमयजंत अपूजयन् ।
+> कीदृशं रेक्ष्णः । सबर्दुघायाः । सबरित्यमृतनाम । अमृतदोग्धा ्य उस्रियाया
+> गोः पयः पानयोग्यं रसं । तदोदकं तुरण्यन्निति । अत्राध्वर्युब्राह्मणं ।
+> अंगिरसो वै सत्रमासत तेषां पृश्निर्घर्मधुगासीत् सर्जिषेणाजीवत् तेऽब्रुवन्
+> कॆस्मै नु सत्रमास्महे येऽस्या ओषधीर्न जनयाम इति ते दिवो वृष्टिमसृजंत ।
+> तै. ब्रा. २-१-१-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+Quickly (मक्षु (*makṣu*)), having obtained a newer (नवीयः (*navīyaḥ*)) friendship with the lovely (कनायाः (*kanāyāḥ*)) cow that yields the hot milk-offering ("having obtained" is to be supplied). Or else नवीयः (*navīyaḥ*) qualifies राधः (*rādhaḥ*): like newer wealth they sent down, from the sky, the water (ऋतं (*ṛtaṃ*)) that falls like seed (रेतः (*retaḥ*)). "O Indra, when they offered to you (ते (*te*)) the wealth in the form of milk (रेक्ष्णः (*rekṣṇaḥ*))": what kind? सबर्दुघायाः (*sabardughāyāḥ*): सबः (*sabaḥ*) is a name for ambrosia, so the cow (उस्रियायाः (*usriyāyāḥ*)) yields ambrosia, and its milk (पयः (*payaḥ*)) is a drinkable essence; then they sent down water. Here is the Adhvaryu Brāhmaṇa: अंगिरसो वै सत्रमासत तेषां पृश्निर्घर्मधुगासीत् सर्जिषेणाजीवत् तेऽब्रुवन् कॆस्मै नु सत्रमास्महे येऽस्या ओषधीर्न जनयाम इति ते दिवो वृष्टिमसृजंत । (*aṃgiraso vai satramāsata teṣāṃ pṛśnirgharmadhugāsīt sarjiṣeṇājīvat te 'bruvan kèsmai nu satramāsmahe ye 'syā oṣadhīrna janayāma iti te divo vṛṣṭimasṛjaṃta |*) Tai. Brā. 2-1-1-1.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) शुचि (*śuci*)—pure
+- सबर्दुघायाः (*sabardughāyāḥ*)—of the one that yields ambrosia
+- उस्रियायाः (*usriyāyāḥ*)—of the cow
+- पयः (*payaḥ*)—in the form of milk
+- रेक्णः (*rekṇaḥ*)—the wealth
+- यत् (*yat*)—when
+### Printed p. 425
+- यत् (*yat*)—when
+- ते (*te*)—towards you
+- अयजंत (*ayajaṃta*)—they offered, then
+- मक्षु (*makṣu*)—quickly
+- कनायाः (*kanāyāḥ*)—of the milch cow called Pṛśni
+- नवीयः (*navīyaḥ*)—new
+- सख्यं (*sakhyaṃ*)—having obtained friendship
+- रेतः (*retaḥ*)—flowing
+- ऋतं (*ṛtaṃ*)—water
+- राधः न (*rādhaḥ na*)—as if pouring wealth
+- तुरज्यन् (*turajyan*)—they sent down from the sky
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when they offered to you the wealth in the form of milk, fit for drinking, of the cow that yields pure ambrosia, then, quickly obtaining the new friendship of the milch cow called Pṛśni, they sent down from the sky the flowing water as if pouring wealth.
+
+##### English translation
+Quickly (obtaining) the friendship of the maiden, they poured forth water like new wealth, when they offered to you (Indra) the pure riches, the milk of the cow, that yields ambrosia.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒श्वा यत्प॒श्चा वियु॑ता बु॒धंतेति॑ ब्रवीति व॒क्तरी॒ ररा॑णः ।  
+> वसो॑र्वसु॒त्वा का॒रवो॑ऽने॒हा विश्वं॑ विवेष्टि॒ द्रवि॑ण॒मुप॒ क्षु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पश्वा । यत् । पश्चा । वियुता । बुधंत । इति । ब्रवीति । वक्तरि । रराणः ।  
+> वसोः । वसुत्वा । कारवः । अनेहा । विश्वं । विवेष्टि । द्रविणं । उप । क्षु ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा स्तोतारः पश्वा पशुना । गोसमूहेनेत्यर्थः । तेन वियुता
+> वियुक्तानि स्वकीयानि गोस्थानानि पश्चा पश्चाद्बुधंत अजानन् तदानीं कारवः ।
+> कारुरित्यर्थः । इति ब्रवीति । इत्थं ब्रूते । किमिति । वक्तरि स्तोतरि रराणो रममाणो
+> वसोर्वासकाद्वसुत्वातिशयेन वासयिता । यद्वा । वसुत्वेति समूहार्थे त्वा
+> नामकरणः । गोरूपधनवतोऽतिशयेन गोसमूहवानित्यर्थः । अनेहा अपाप
+> इंद्रो विश्वं सर्वं द्रविणं गोरूपं पणिभिरपहृतं धनं क्षु । मक्ष्वित्यर्थः ।
+> शीघ्रमुप विवेष्टि । उपव्याप्नोति पुनरादातुं । आयमर्थः । यदेंद्रस्य स्तोतारोऽसुरैरपहृतमात्मीयं गोधनं जानंति ततः प्रागेवागत्येंद्रस्तं न्यरुधदिति ॥
+
+##### Gist of the bhāṣya
+
+When the worshippers afterwards (पश्चा (*paścā*)) found their own cow-stalls bereft (वियुता (*viyutā*)) of the herd of cattle (पश्वा (*paśvā*)), at that time the poet (कारवः (*kāravaḥ*)), that is the praiser, speaks (ब्रवीति (*bravīti*)) thus. What does he say? Indra, delighting (रराणः (*rarāṇaḥ*)) in the speaker, the praiser, is the one who gives dwelling more abundantly than the dweller-giver (वसोः (*vasoḥ*)) (वसुत्वा (*vasutvā*)). Or else वसुत्वा (*vasutvā*) has the affix त्वा (*tvā*) in the sense of a collection: he who has the greatest herd of cows, wealth in the form of cattle. Indra, the sinless (अनेहा (*anehā*)), quickly (क्षु (*kṣu*), that is मक्षु (*makṣu*)) approaches (उप विवेष्टि (*upa viveṣṭi*)), pervades, all (विश्वं (*viśvaṃ*)) the wealth (द्रविणं (*draviṇaṃ*)) in the form of cows carried off by the Paṇis, in order to take it back. The meaning is that when Indra's praisers learn that their cattle have been carried off by the Asuras, Indra arrives beforehand and holds the Asuras back.
+### Printed p. 426
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पश्वा (*paśvā*)—from the cattle
+- वियुता (*viyutā*)—the stalls bereft
+- पश्चा (*paścā*)—afterwards
+- बुधंत (*budhaṃta*)—they learned, then
+- कारवः (*kāravaḥ*)—the praiser
+- इति (*iti*)—in this manner
+- ब्रवीति (*bravīti*)—says
+- वक्तरि (*vaktari*)—in the praiser
+- रराणः (*rarāṇaḥ*)—one who has found delight
+- वसोः (*vasoḥ*)—than the wealthy man
+- वसुत्वा (*vasutvā*)—possessing greater wealth
+- अनेहा (*anehā*)—and sinless, Indra
+- विश्वं (*viśvaṃ*)—all
+- द्रविणं (*draviṇaṃ*)—the wealth in the form of cows
+- क्षु (*kṣu*)—quickly
+- उप विवेष्टि (*upa viveṣṭi*)—makes come back
+
+##### भावार्थ (Bhāvārtha)
+
+When the sacrificers see that the cattle have been carried off from their stalls, the praiser proclaims: "Indra, who delights in the praisers, who has more wealth than the wealthy, who is sinless, quickly makes all the wealth in the form of cows come back."
+
+##### English translation
+" When (the worshippers) find (the stalls deserted) by the cattle "
+(then the performer of the rite) exclaims, "(Indra), pleasing to his adorer,
+the affluent lord of affluence, the compassionate the sinless, quickly recovers
+all the wealth (that has been carried off )."
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिन्न॑स्य परि॒षद्वा॑नो अग्मन्नु॒रू सदं॑तो नार्ष॒दं बि॑भित्सन् ।  
+> वि शुष्ण॑स्य॒ संग्र॑थितमन॒र्वा वि॒दत्पु॑रुप्रजा॒तस्य॒ गुहा॒ यत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । नु । अस्य । परिससद्वानः । अग्मन् । पुरु । सदंतः । नार्सदं । बिभित्सन् ।  
+> वि । शुष्णस्य । संग्रथितं । अनर्वा । विदत् । पुरुप्रजातस्य । गुहा । यत् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तदित्तत्रैव नु क्षिप्रमस्येंद्रस्य परिषद्वानः परितो वर्तमानाः परिचारका
+> रश्मयोऽग्मन् । प्रकाशनार्थमगच्छन् । पुरु पुरूणि कृत्रिमाणि सदंतः सीदंतोऽसुरा नार्षदं नृषदः पुत्रं बिभित्सन् । भेत्तुमैच्छन् । किंचायं शुष्णस्यॆतन्नाम-
+
+##### Gist of the bhāṣya
+
+Right there, quickly, the attendants (परिषद्वानः (*pariṣadvānaḥ*)) of this Indra, namely the rays abiding around him, came forth (अग्मन् (*agman*)) to shine. The Asuras, sitting (सदंतः (*sadaṃtaḥ*)) in many artificial forms (पुरु (*puru*)), wished to split (बिभित्सन् (*bibhitsan*)) the son of Nṛṣad (नार्षदं (*nārṣadaṃ*)). Moreover, this Indra
+### Printed p. 427
+
+> कस्यासुरस्य पुरुप्रजातस्य बहुप्रादुर्भावस्य संग्रथितं मर्म विदत् । वेत्ति ।
+> अयमिंद्रो यदसुरस्य दुज्ञेयं मर्म गुहा गुहायां गोपितं तद्विदत् ॥
+
+##### Gist of the bhāṣya
+
+...finds (विदत् (*vidat*)) the joined-together (संग्रथितं (*saṃgrathitaṃ*)) vital spot of the Asura named Śuṣṇa, who has many manifestations (पुरुप्रजातस्य (*puruprajātasya*)). Indra learns that vital spot of the Asura, hard to know, which was hidden in a cave (गुहा (*guhā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तदित् (*tadit*)—right then
+- नु (*nu*)—quickly
+- अस्य (*asya*)—of Indra
+- परिषद्वानः (*pariṣadvānaḥ*)—the rays that are like attendants
+- अग्मन् (*agman*)—came out and shone
+- पुरु (*puru*)—exceedingly
+- सदंतः (*sadaṃtaḥ*)—the Asuras dwelling in many places
+- नार्षदं (*nārṣadaṃ*)—the son of Nṛṣada
+- बिभित्सन् (*bibhitsan*)—wished to destroy
+- (but) पुरु प्रजातस्य (*puru prajātasya*)—of the one who takes many kinds of forms
+- शुष्णस्य (*śuṣṇasya*)—of the Asura named Śuṣṇa
+- यत् गुहा (*yat guhā*)—of whatever hidden place there is
+- संग्रथितं (*saṃgrathitaṃ*)—the vital spot built up compactly
+- अनर्वा (*anarvā*)—Indra the unopposed
+- विदत् (*vidat*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+Right then, quickly, the rays that are like attendants of Indra came out and shone. The Asuras, dwelling exceedingly in many places, wished to destroy the son of Nṛṣada. But Indra the unopposed knows the compactly built vital spot, in the hidden place of the Asura named Śuṣṇa, who takes many kinds of forms.
+
+##### English translation
+Then the attendant (rays of light) quickly gathered round him, and
+(the Asuras) dwelling in many regions sought to destroy the son of Nrishad,
+but the irresistible (Indra) found the wel-knit mail of Shushna, whose
+offspring was numerous, which was hidden in the cave.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भर्गॊ॑ ह॒ नामो॒त यस्य॑ दे॒वाः स्व१॒॑र्ण ये त्रि॑षध॒स्थे  ॒॑
+> निषेदुः ।  
+> अ॒ग्निर्ह॒ नामो॒त जा॒तवे॑दाः श्रु॒धी नो॑ होतऋ॒तस्य॒  
+> होता॒ध्रुक् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भर्गः । ह । नाम । उत । यस्य । देवाः । स्वः । न । ये । त्रिसधस्थे । निसेदुः ।
+
 ---
 
-**Progress note:** Done through printed p. 421. pp. 416-421 (batch API)
+**Progress note:** Done through printed p. 427. pp. 422-427 (batch API)
