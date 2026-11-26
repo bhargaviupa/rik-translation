@@ -16958,6 +16958,165 @@ Send forth an excellent·hymn to great (Indra), the strong, mighty, and most for
 
 O praiser, in the manner in which a boatman with his boat makes travellers go and reach the bank of rivers, to Indra, who is borne by śastras and the like and is of great form, an excellent
 
+### Printed p. 440
+
+praise, offer. Make the wealth that belongs to the renowned and gracious Indra come and reach me. May Indra, pleased by the praise, quickly bring me exceedingly great wealth.
+
+##### English translation
+Send forth your praise to mighty Indra who is borne by hymns, as (a sailor sends a traveller) in a ship across the rivers ; bring to me by your rites that wealth which belongs to him renowned and beneficent ; may he speedily give much wealth.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वि॑विड्ढि॒ यत्त॒ इंद्रो॒ जुजो॑षत्स्तु॒हि सु॑ष्टु॒तिं नम॒सा वि॑वास ।  
+> उप॑ भूष जरित॒र्मा रु॑वण्यः श्रा॒वया॒ वाचं॑ कु॒विदं॒ग वेद॑त् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । विविड्ढि । यत् । ते । इंद्रः । जुजोषत् । स्तुहि । सुऽस्तुतिम् । नमसा । आ । विवास ।  
+> उप । भूष । जरितः । मा । रुवण्यः । श्रवय । वाचम् । कुवित् । अंग । वेदत् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विक् तत् सोमादिहविः स्तोत्रं वा विविड्ढि व्यापय । तानींद्रार्थं कुर्वित्यर्थः । ते तव स्वभूतं यत् हविः स्तोत्रं वा इंद्रः जुजोषत् स्वीकुर्यात् तस्कुरु । ‘जुषी प्रीतिसेवनयोः । लेटि शपः श्लुः । अडागमः । छांदसत्वात् ' नाभ्यस्तस्य' इति गुणप्रतिषेधाभावः । हे स्तोतः सुष्टुतिं सुस्तुतिम् । शोभना स्तुतिर्यस्य स तथोक्तः । तादृशमिंद्रं स्तुहि । तथा नमसा स्तोत्रेण हविषा वा आ विवास इंद्रमाभिमुख्येन परिचर । विवासतिः परिचरणकर्मा । लोटि रूपम् । हे जरितः स्तोतः उप भूष।‘भूष अलंकारे'। अलंकृतो भव। मा रुवण्यः धनाभावात् मा ध्वनयः । मा रोदीरित्यर्थः। धनागमने कारणमाह। हे स्तोतः वाचं स्तुतिमिंद्रं श्रावय ज्ञापय । ततस्त्वया स्तुत इंद्रस्तुभ्यं कुवित् बहु धनं क्षिप्रं प्रयच्छतु ॥
+> पृष्ठ्यषडहगतेषूक्थ्येषु तृतीयसवने ब्राह्मणाच्छंसिशस्त्रे ‘अव द्रप्सः' इति तृचः । सूत्रितं च -- ‘ अव द्रप्सो अंशुमतीमतिष्ठदिति तिस्रोऽच्छा म इंद्रमिति नित्यमैकाहिकम्' (आश्व. श्रौ. ८.३.३३ ) इति ॥
+
+##### Gist of the bhāṣya
+
+"O priest, extend that Soma and the other offering, or the stotra," that is, prepare them for Indra; whatever offering or stotra of yours Indra may accept, that is to be made ready. "O praiser, praise Indra, who has a fine praise" (the one whose praise is excellent is so called). Likewise "with *namas*," that is, with stotra or with offering, serve Indra, turning toward him; the root *vivāsa* has the sense of service. "O praiser (*jaritar*), adorn yourself"; "do not cry out (*mā ruvaṇyaḥ*)": do not lament for lack of wealth. He states the cause of the wealth's coming: "O praiser, make Indra hear your praise." Then Indra, praised by you, quickly gives you much wealth. The grammar of *jujoṣat* and *ruvaṇyaḥ* is carried by the Grammar section. The second part of the block gives the ritual use: in the Ukthya rites that belong to the Pṛṣṭhya-ṣaḍaha, in the Brāhmaṇācchaṃsin's śastra at the third pressing, the tṛca beginning "Ava drapsaḥ" (the three Ṛks of which this is the first) is recited. It is also laid down in the sūtra अव द्रप्सो अंशुमतीमतिष्ठदिति तिस्रोऽच्छा म इंद्रमिति नित्यमैकाहिकम् (*ava drapso aṃśumatīmatiṣṭhaditi tisro 'cchā ma iṃdramiti nityamaikāhikam*) (Āśva. Śrau. 8.3.33). **NOTE**
+
+### Printed p. 441
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—whichever stotra of yours
+- इंद्रः (*iṃdraḥ*)—Indra
+- जुजोषत् (*jujoṣat*)—accepts and enjoys
+- ते (*te*)—made by you
+- विविड्ढि (*viviḍḍhi*)—offer that stotra to Indra
+- सुष्टुतिं (*suṣṭutiṃ*)—Indra, who is worthy of the finest praise
+- स्तुहि (*stuhi*)—praise
+- नमसा (*namasā*)—together with the offering
+- आ विवास (*ā vivāsa*)—serve Indra
+- जरितः (*jaritaḥ*)—O praiser
+- उप भूष (*upa bhūṣa*)—adorn Indra
+- मा रुवण्यः (*mā ruvaṇyaḥ*)—do not grieve for lack of wealth
+- वाचं (*vācaṃ*)—your words of praise
+- श्रावय (*śrāvaya*)—make them fall on Indra's ear
+- अंग कुवित् (*aṃga kuvit*)—quickly, exceedingly great wealth
+- वेदत् (*vedat*)—may that Indra give you
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, whichever stotra of yours Indra accepts and enjoys, offer that stotra made by you to Indra. Praise Indra, who is worthy of the finest praise; serve Indra together with the offering. O praiser, adorn Indra. Do not grieve for lack of wealth. Make your words of praise fall on Indra's ear. May that Indra quickly give you exceedingly great wealth.
+
+##### English translation
+Perform those rites of yours that Indra may accept them ; praise him to whom praise belongs, worship him with your service ; O priest, adorn yourself, grieve not (for poverty) ; let Indra hear your praise, may he speedily give much wealth.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ द्र॒प्सो अं॑शु॒मती॑मतिष्ठदिया॒नः कृ॒ष्णो द॒शभिः॑ स॒हस्रैः॑ ।  
+> आव॒त्तमिंद्रः॒ शच्या॒ धमं॑त॒मप॒ स्नेहि॑तीर्नृ॒मणा॑ अधत्त ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । द्रप्सः । अंशुऽमतीम् । अतिष्ठत् । इयानः । कृष्णः । दशऽभिः । सहस्रैः ।  
+> आवत् । तम् । इंद्रः । शच्या । धमंतम् । अप । स्नेहितीः । नृऽमनाः । अधत्त ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेतिहासमाचक्षते किल । कृष्णो नामासुरो दशसहस्रसंख्यैरसुरैः परिवृतः सन्नंशुमतीनामधेयाया नद्यास्तीरेऽतिष्ठत् । तत्र तं कृष्णमुदकमध्ये स्थितमिंद्रो बृहस्पतिना सहागच्छत् । आगत्य तं कृष्णं तस्यानुचरांश्च बृहस्पतिसहायो जघानेति । केचिदन्यथा वदंति । तेषां कथा हेतुः । द्रप्स इत्युदककणोऽभिधीयते स तु सोमो ‘द्रप्सश्चस्कंद ' (ऋ. सं. १०. १७. ११ ) इत्यादिषु सोमपरत्वेनोक्तत्वात् । एतत्पदमाश्रित्याहुः- ‘ अपक्रय तु देवेभ्यः सोमो वृत्रभयार्दितः ॥ नदीमंशुमतीं नामाभ्यतिष्ठत् कुरून प्रति । तं बृहस्पतिनैकेन सोऽभ्ययाद्वृत्रहा सह ॥ योत्स्यमानः सुसंहृष्टैर्मरुद्भिर्विविधायुधैः। दृष्ट्वा तानायतः सोमः स्वबलेन व्यवस्थितः ॥ मन्वानो वृत्रमायांतं जिघांसुमरिसेनया । व्यवस्थितं धनुष्मंतं तमुवाच बृहस्पतिः ॥ मरुत्पतिरयं सोम प्रेहि देवान् पुनर्विभो । सोऽब्रवीन्नेति तं शक्रः स्वर्ग एव बलाद्बली । इयाय देवानादाय तं पपुर्विधिवत्सुराः ॥ जघ्नुः पीत्वा च दैत्यानां समरे नवतीर्नव । तदव द्रप्स इत्यस्मिन् तृचे सर्वं निगद्यते' (बृहद्दे. ६. १०९-११५ ) । एतदनार्षत्वेनानादरणीयं भवति । एषोऽर्थः क्रमेणर्क्षु वक्ष्यते । तथा चास्या ऋचोऽयमर्थः । द्रप्सः । द्रुतं सरति गच्छतीति द्रप्सः । पृषोदरादिः । द्रुतं गच्छन् दशभिः सहसैः दशसहस्रसंख्यैरसुरैः इयानः कृष्णः एतन्नामकोऽसुरः अंशुमतीं नाम नदीम् अव अतिष्ठत् अवतिष्ठते । ततः शच्या कर्मणा प्रज्ञानेन वा धमंतम् उदकस्यांतरुच्छ्वसंतं यद्वा जगद्भीतिकरं शब्दं कुर्वंतं तं कृष्णमसुरम् इंद्रः मरुद्भिः सह आवत् प्राप्नोत् । पश्चात्तं कृष्णमसुरं तस्यानुचरांश्च हतवानिति वदति । नृमणाः नृषु मनो यस्य सः । यद्वा । कर्मनेतृष्वृत्विक्ष्वेकविधं मनो यस्य स तथोक्तः । तादृशः सन् स्नेहितीः । स्नेहतिर्वधकर्मसु पठितः । सर्वस्य हिंसित्रीस्तस्य सेनाः अप अधत्त । अपधानं हननम् । अवधीदित्यर्थः ।  ‘ अप स्नीहितिं नृमणा अधद्राः' (सा. सं. १. १.४.४.१) इति छंदोगाः पठंति । तस्यानुचरान् हत्वा तं द्रुतं गच्छंतमसुरमपाधत्त । हतवान् ॥
+
+##### Gist of the bhāṣya
+
+Here they relate a story. The asura named Kṛṣṇa, surrounded by ten thousand asuras, stood on the bank of the river named Aṃśumatī. Indra came there with Bṛhaspati to that Kṛṣṇa standing in the midst of the water; having come, with Bṛhaspati's help he killed Kṛṣṇa and his followers. Some tell it otherwise. The ground of their story: the word *drapsa* denotes a drop of water, and in passages such as the Ṛk beginning with *drapsa* (Ṛ. Saṃ. 10. 17. 11) it is said to refer to Soma. Relying on this word they say, in verses (Bṛhadde. 6. 109-115): Soma, afflicted by fear of Vṛtra, went away from the gods and stayed at the river called Aṃśumatī, in the direction of the Kurus. To him came Vṛtra's slayer, Indra, with Bṛhaspati alone, and with the Maruts, who were delighted and carried various weapons, intending to fight. Soma, seeing them approach, took his stand with his own force, thinking that Vṛtra was coming with an enemy army to kill him. Bṛhaspati said to him as he stood with his bow: "This is the lord of the Maruts, O Soma; come back to the gods, O mighty one." Soma said: "No." Then Indra, mighty by force, went to heaven, took the gods, and the gods drank Soma duly; and having drunk, they slew in battle nine nineties of the Daityas. All this is stated in the tṛca "Ava drapsaḥ." **NOTE** Sāyaṇa says that this, not being the work of a seer (*anārṣa*), is not to be regarded; its sense will be told in due order in the Ṛks. The sense of this Ṛk is as follows. *Drapsa* is one who goes (*sarati*) swiftly (*druta*). The asura named Kṛṣṇa, going swiftly with ten thousand asuras, stood at (*ava-atiṣṭhat*) the river called Aṃśumatī. Then Indra, together with the Maruts, came upon that asura Kṛṣṇa, who by his power (*śacī*: rite or knowledge) was breathing heavily inside the water, or making a sound that terrified the world. Afterward Indra killed that asura Kṛṣṇa and his followers, says the Ṛk. *Nṛmaṇāḥ* means one whose mind is on men; or else, one whose mind is of one kind toward the priests who lead the rite. Such as he is, he killed (*apa-adhatta*, *apadhāna* meaning slaying) the armies (*snehitīḥ*; the root *sneh* is read among the roots of killing) of that asura, who harms everyone. The Chandogas read the Ṛk in a different form (Sā. Saṃ. 1. 1.4.4.1). Having killed his followers, Indra killed that asura going swiftly.
+
+### Printed p. 442
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दृप्सः (*dṛpsaḥ*)—the swift-moving
+- दरभिः सहस्रैः (*darabhiḥ sahasraiḥ*)—together with ten thousand asuras
+- इयानः (*iyānaḥ*)—who was accompanied
+- कृष्णः (*kṛṣṇaḥ*)—the asura named Kṛṣṇa
+- अंशुमतीं (*aṃśumatīṃ*)—in the river called Aṃśumatī
+- अवातिष्ठत् (*avātiṣṭhat*)—lay stretched out
+- धमंतं (*dhamaṃtaṃ*)—who made a sound that terrified the world
+- तं (*taṃ*)—that asura
+- इंद्रः (*iṃdraḥ*)—Indra
+- शच्या (*śacyā*)—by his own skill and with the help of the Maruts
+- आवत् (*āvat*)—approached
+- नृमणाः (*nṛmaṇāḥ*)—Indra, whose mind is bent on doing good to men
+- स्नेहितीः (*snehitīḥ*)—all his armies, which do harm
+- अपाधत्त (*apādhatta*)—destroyed
+
+### Printed p. 443
+
+##### भावार्थ (Bhāvārtha)
+
+The asura named Kṛṣṇa, swift-moving and accompanied by ten thousand asuras, lay stretched out in the river called Aṃśumatī. Indra approached that asura, who was making a sound that terrified the world, by his own skill and with the help of the Maruts. Indra, whose mind is bent on doing good to men, destroyed all his armies, which do harm to the world.
+
+##### English translation
+The swift-moving Krishna with ten thousand (demons) stood on the Amshumati; by his might Indra caught him snorting (in the water) ; he, benevolent to man, smote his malicious (bands).
+
+##### विशेषविषयगळु (Special Topics)
+
+At the third pressing in the Ukthya sacrifices belonging to the Pṛṣṭhya-ṣaḍaha, in the śastra-mantras recited by the priest called Brāhmaṇācchaṃsin, the tṛca (three Ṛks) beginning अव दृप्सः (*ava dṛpsaḥ*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra अव दृप्सो अंशुमतीमतिष्ठदिति तिस्रोऽच्छा व इंद्रमिति नित्यवैकाहिकं (*ava dṛpso aṃśumatīmatiṣṭhaditi tisro 'cchā va iṃdramiti nityavaikāhikaṃ*) (Ā. 8-3). **NOTE**
+
+In this Ṛk and the next two Ṛks the slaying of the asura named Kṛṣṇa by Indra is stated. In this connection there is an older story:
+
+अत्रेतिहासमाचक्षते । कृष्णो नामासुरो दशसहस्रसंख्यैरसुरैः परिवृतः सन्नंशुमतीनामधेयाया नद्यास्तीरेऽतिष्ठत् । तत्र तं कृष्णमुदकमध्ये स्थितमिंद्रो बृहस्पतिना सहागच्छत् । आगत्य तं कृष्णं तस्यानुचरांश्च बृहस्पतिसहायो जघानेति । (*atretihāsamācakṣate | kṛṣṇo nāmāsuro daśasahasrasaṃkhyairasuraiḥ parivṛtaḥ sannaṃśumatīnāmadheyāyā nadyāstīre 'tiṣṭhat | tatra taṃ kṛṣṇamudakamadhye sthitamiṃdro bṛhaspatinā sahāgacchat | āgatya taṃ kṛṣṇaṃ tasyānucarāṃśca bṛhaspatisahāyo jaghāneti |*)
+
+The asura named Kṛṣṇa was encamped with ten thousand soldiers on the bank of the river called Aṃśumatī. Surrounded by the river's water, the asura was invincible in the midst of the water. To slay him Indra came there with Bṛhaspati, and with Bṛhaspati's help killed that asura Kṛṣṇa and his ten thousand warriors: this account is described in this Ṛk. In this matter some tell it in another way:
+
+केचिदन्यथा वदंति । तेषां कथा हेतुः । दृप्स इत्युदककणोऽभिधीयते स तु सोमो दृप्सश्चस्कंद (ऋ. सं. १०-१२-११) इत्यादिषु सोमपरत्वेनो-क्तत्वात् । एतत्पदमाश्रित्याहुः— (*kecidanyathā vadaṃti | teṣāṃ kathā hetuḥ | dṛpsa ityudakakaṇo 'bhidhīyate sa tu somo dṛpsaścaskaṃda (ṛ. saṃ. 10-12-11) ityādiṣu somaparatveno-ktatvāt | etatpadamāśrityāhuḥ—*)
+
+### Printed p. 444
+
+अपक्रम्य तु देवेभ्यः सोमो वृत्रभयार्दितः । नदीमंशुमतीं नामाभ्यतिष्ठत् कुरून् प्रति ॥ ते बृहस्पतिनैकेन सोऽभ्ययाद्वृत्रहा सह । योत्स्यमानः सुसंहृष्टैर्मरुद्भिर्विविधायुधैः दृष्ट्वा तानायतः सोमः स्वबलेन व्यवस्थितः । मन्वानो वृत्रमायांतं जिघांसुमरिसेनया ॥ व्यवस्थितं धनुष्मंतं तमुवाच बृहस्पतिः । मरुत्पतिरयं सोम प्रेहि देवान् पुनर्विभो ॥ सोऽब्रवीन्नेति तं शक्रः स्वर्ग एव बलाद्बली । इयाय देवानादाय तं पपुर्विधिवत्सुराः ॥ जघ्नुः पीत्वा च दैत्यानां समरे नवतीर्नव । तदव दृप्स इत्यस्मिन् तृचे सर्वं निगद्यते ॥ (*apakramya tu devebhyaḥ somo vṛtrabhayārditaḥ | nadīmaṃśumatīṃ nāmābhyatiṣṭhat kurūn prati ‖ te bṛhaspatinaikena so 'bhyayādvṛtrahā saha | yotsyamānaḥ susaṃhṛṣṭairmarudbhirvividhāyudhaiḥ dṛṣṭvā tānāyataḥ somaḥ svabalena vyavasthitaḥ | manvāno vṛtramāyāṃtaṃ jighāṃsumarisenayā ‖ vyavasthitaṃ dhanuṣmaṃtaṃ tamuvāca bṛhaspatiḥ | marutpatirayaṃ soma prehi devān punarvibho ‖ so 'bravīnneti taṃ śakraḥ svarga eva balādbalī | iyāya devānādāya taṃ papurvidhivatsurāḥ ‖ jaghnuḥ pītvā ca daityānāṃ samare navatīrnava | tadava dṛpsa ityasmin tṛce sarvaṃ nigadyate ‖*)
+
+(Bṛ. De. 6-109 to 115)
+
+Some tell a different history concerning these Ṛks. The course of their story is this: the word *dṛpsa* has the meaning "drop of water," and following this meaning the word *dṛpsa* is explained in many places as Soma. In the Ṛk दृप्सश्चस्कंद (*dṛpsaścaskaṃda*) (Ṛ. Saṃ. 10-12-11) the word *dṛpsa* is explained as Soma. **NOTE** Therefore, taking the word *dṛpsa* in the sense of Soma, this history is told in the Bṛhaddevatā: Formerly, out of fear of the asura Vṛtra, Soma left the gods, went to another region, and stayed on the bank of the river called Aṃśumatī in the Kuru country. After slaying the asura Vṛtra, Indra came there with Bṛhaspati. With Indra there were also the Marut-gods, well armed with various weapons. Then the deity Soma, seeing from afar Indra and the armed Maruts with him, thought: "Vṛtra is coming with his army to kill me," made ready his bow to face him and his army, and stood ready for battle. Seeing Soma ready to fight, Bṛhaspati said: "O Soma, he who is with us is not Vṛtra; this is Indra, the protector of the Maruts. Therefore you need not fear. Come again to us, the gods." Yet Soma's doubt was not removed, and he said: "I will not come." Therefore the mighty Indra brought to that place the gods who were in heaven, and Indra and the gods, all together, drank the Soma by force, according to rule. Afterwards, in battle, they slew ninety-nine mighty Daityas. **NOTE** The purport of this history is that this very matter is told in the three Ṛks beginning with Ava drapsaḥ. That this view is not unreasonable is the opinion of the ancient seers. **NOTE**
+
+### Printed p. 445
+
+The commentator says that the view explained first, that he killed the asura Kṛṣṇa, is the proper one, and has explained the meaning of these Ṛks accordingly.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्र॒प्सम॑पश्यं॒ विषु॑णे॒ चरं॑तमुपह्व॒रे न॒द्यो॑ अंशु॒मत्याः॑ ।  
+> नभो॒ न कृ॒ष्णम॑वतस्थि॒वांस॒मिष्या॑मि वो वृषणो॒ युध्य॑ता॒जौ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्रप्सम् । अपश्यम् । विषुणे । चरंतम् । उपऽह्वरे । नद्यः । अंशुऽमत्याः ।  
+> नभः । न । कृष्णम् । अवतस्थिऽवांसम् । इष्यामि । वः । वृषणः । युध्यत । आजौ ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुरीयपादो मारुतः । मरुतः प्रति यद्वाक्यमिंद्र उवाच तदत्र कीर्त्यते । हे मरुतः द्रप्सं द्रुतगामिनं कृष्णमहम् अपश्यम् अदर्शम् । कुत्र वर्तमानम् । विषुणे विष्वगंचने सर्वतो विस्तृते देशे । यद्वा । विषुणो विषमः । विषमे परैरदृश्ये गुहारूपे देशे। चरंतं परितो गच्छंतम् । किंच अंशुमत्याः एतन्नामिकायाः नद्यः नद्याः उपह्वरे अत्यंतं गूढे स्थाने नभो न नभसि यथादित्यो दीप्यते तद्वत्तत्र दीप्यमानम् अवतस्थिवांसम् उदकस्यांतरवस्थितं कृष्णम् एतन्नामकमसुरमपश्यम् । तस्मिन् दृष्टे सति हे वृषणः कामानामुदकानां वा सेक्तारो मरुतः वः युष्मान् युद्धार्थम् इष्यामि अहमिच्छामि । ततो यूयं तमिमं कृष्णम् आजौ । अजंति गच्छंत्यत्र योद्धार आयुधानि प्रक्षेपयंतीति वाजिः संग्रामः । तस्मिन् युध्यत संहरत । वाक्यभेदादनिघातः । केचित् इष्यामि वो मरुतः इति पठंति । तत्र हे मरुतः वो युष्मानिच्छामीत्यर्थो भवति ॥
+
+##### Gist of the bhāṣya
+
+The fourth pāda is addressed to the Maruts: the words that Indra spoke to the Maruts are narrated here. "O Maruts, I saw Kṛṣṇa, who goes swiftly (*drapsa*)." Where was he? In *viṣuṇa*, a place extended on all sides; or else *viṣuṇa* means uneven: in an uneven place not seen by others, a cave-like place, moving about all around. Moreover, at the *upahvara*, the very hidden spot, of the river called Aṃśumatī, shining there as the sun shines in the sky (*nabho na*), standing (*avatasthivāṃsam*) within the water, I saw the asura named Kṛṣṇa. "When he has been seen, O Maruts, you showerers (*vṛṣaṇaḥ*, sprinklers of desires or of waters), I desire you for the battle; so you slay this Kṛṣṇa in the *ājī*": *ājī* is battle, where fighters go (*ajanti*) and hurl weapons. The accent rule connected with the break of the sentence is carried by the Grammar section. Some read इष्यामि वो मरुतः (*iṣyāmi vo marutaḥ*); in that case the sense is "O Maruts, I desire you."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणः (*vṛṣaṇaḥ*)—O Maruts, bestowers of what is wished for
+- विषुणे (*viṣuṇe*)—in a place of an extended cave
+- चरंतं (*caraṃtaṃ*)—who was moving about
+- दृप्सं (*dṛpsaṃ*)—swift-moving
+- नभो न (*nabho na*)—as the sun shines in the sky
+- अंशुमत्याः (*aṃśumatyāḥ*)—called Aṃśumatī
+- नद्याः (*nadyāḥ*)—of the river
+- अपह्वरे (*apahvare*)—in the hidden
+
 ---
 
-**Progress note:** Done through printed p. 439. Mandala 8 sukta 96 rks 8-11, Marut share, 63 Maruts
+**Progress note:** Done through printed p. 445. Mandala 8 sukta 96 rks 12-14, Krishna asura
