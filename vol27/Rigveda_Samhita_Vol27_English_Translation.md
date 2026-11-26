@@ -33400,6 +33400,282 @@ May we, constantly happy in mind, sound of sight, blessed with posterity, exempt
 > महि । ज्योतिः । बिभ्रतं । त्वा । विचक्षण । भास्वंतं । चक्षुषेचक्षुषे । मयः ।  
 > आरोहंतं । बृहतः । पाजसः । परि । वयं । जीवाः । प्रति । पश्येम । सूर्य ॥८॥
 
+### Printed p. 918
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचक्षण विद्रष्टः सूर्य महि महज्योतिस्तेजो बिभ्रतं धारयंतं
+> भास्वंतं दीप्तिमंतं चक्षुषे चक्षुषे सर्वेषां द्रष्टृणां चक्षुषे मयः सुखकरं
+> बृहतो महतः पाजसो बलवतः परि । महतो बलवतः समुद्रस्योदकस्योपरीत्यर्थः । आरोहंतं त्वा त्वां जीवाश्चिरं जीवंतो वयं प्रति प्रतिदिनं पश्येम ॥
+
+##### Gist of the bhāṣya
+
+O far-seeing Sūrya, bearing great light, radiance, shining, giver of happiness to the eye of every beholder, rising above the great and mighty waters, that is, above the great and powerful sea: we who are alive, living long, may behold you, rising, every day.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचक्षण (*vicakṣaṇa*)—O you who examine everything minutely
+- सूर्य (*sūrya*)—O Sun
+- महि (*mahi*)—great
+- ज्योतिः (*jyotiḥ*)—radiance
+- बिभ्रतं (*bibhrataṃ*)—who bear
+- भास्वंतं (*bhāsvaṃtaṃ*)—endowed with splendour
+- चक्षुषे चक्षुषे (*cakṣuṣe cakṣuṣe*)—to the eye of every one who beholds you
+- मयः (*mayaḥ*)—giver of happiness
+- बृहतः (*bṛhataḥ*)—great
+- वाजसः परि (*vājasaḥ pari*)—above the powerful water
+- आरोहंतं (*ārohaṃtaṃ*)—who ascend
+- त्वा (*tvā*)—you
+- जीवाः (*jīvāḥ*)—who are alive
+- वयं (*vayaṃ*)—we
+- प्रति पश्येम (*prati paśyema*)—may we behold for a long time
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun, whose sight examines everything minutely, you who bear great radiance, are endowed with splendour, are a giver of happiness to the eye of everyone who beholds you, and who ascend above the great and powerful water (the sea): may we who are alive behold you for a long time.
+
+##### English translation
+May we, enjoying (long) life, day by day behold you, Surya, who glance over all things, invested with great lustre, radiant, giving joy to every eye, and rising above the vast and mighty (ocean).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते॒ विश्वा॒ भुव॑नानि के॒तुना॒ प्र चेर॑ते॒ नि च॑ वि॒शंते॑  ॒॑
+> अक्तुभिः ॥  
+> अ॒ना॒गा॒स्तेन॑ हरिकेश सू॒र्याह्ना॑ह्ना नो॒ वस्य॑सावस्य॒सोदि॑हि॥
+
+### Printed p. 919
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य ! ते । विश्वा । भुवनानि । केतुना । प्र । च । ईरते । नि । च । विशंते ।  
+> आक्तुभिः ।  
+> अनागाःत्वेन । हरिःकेश । सूर्य । अह्नाअह्ना । नः । वस्यसावस्यसा । उत् ।  
+> इहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिकेश हरितवर्णकेश सूर्य यस्य ते तव केतुना प्रज्ञानेन विश्वा
+> विश्वानि भुवनानि भूतजातानि प्रचरेते प्रकर्षेण गच्छंति अक्तुभी रात्रिभिर्नि विशंते
+> च विश्राम्यंति च । स्वपंतीत्यर्थः । स त्वं नोऽस्माकमनागास्त्वेनापराधवर्जितत्वेन
+> वस्यसा वस्यसात्यंतत्रेयस्करेण वसुमत्तरेण वाह्नाह्ना तेन तेन दिवसेनोदिहि ।
+> उद्दच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, of green-hued hair, by whose ketu, that is, by whose power of making known, all the beings go forth, move on, and in the nights enter and rest, that is, sleep: you, for us, free from offence, with each most beneficial or richer day, rise up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिकेश (*harikeśa*)—you whose golden-coloured rays are like hair
+- सूर्य (*sūrya*)—O Sun
+- यस्य ते (*yasya te*)—of you whose
+- केतुना (*ketunā*)—by making known
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—all beings
+- प्र च ईरते (*pra ca īrate*)—move about for their affairs
+- अक्तुभिः (*aktubhiḥ*)—in the times of night
+- नि विशंते च (*ni viśaṃte ca*)—and sleep for rest; such as you are
+- नः (*naḥ*)—for us
+- अनागस्त्येन (*anāgastyena*)—that which brings about freedom from sin
+- वस्यसावस्यसा (*vasyasāvasyasā*)—most beneficial, that which brings wealth
+- अह्नाह्ना (*ahnāhnā*)—on every day
+- उदिहि (*udihi*)—come rising
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun, whose golden-coloured rays are like hair, you by whose making known all beings move about for their affairs and sleep for rest in the times of night, such as you are, come rising for us on all days, which bring freedom from sin and are most beneficial and bring wealth.
+
+##### English translation
+Golden-haired Surya, by whose guidance all beings move (by day) and repose by night, you come to us with freedom from sin, and more felicitous (life) every day.
+
+### Printed p. 920
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ भव॒ चक्ष॑सा॒ शं नो॒ अह्ना॒ शं भा॒नुना॒ शं हि॒मा  ॒॑
+> शं घृ॒णेन॑ ।  
+> यथा॒ शमध्व॒ञ्छमस॑द्दुरो॒णे तत्सू॑र्य॒ द्रवि॑णं धॆ. हि चि॒त्रं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । भव । चक्षसा । शं । नः । अह्ना । शं । भानुना । शं । हिमा । शं । फृणेन ।  
+> यथा । शं । अध्वन् । शं । असत् । दुरोणे । तत् । सूर्य । द्रविणं । धेहि ।  
+> चित्रं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य त्वं चक्षसा तेजसा नोऽस्माकं शं सुखकरो भव । अह्ना दिवसेन
+> च शं सुखकरो नोऽस्माकं भव । भानुना रश्मिना च शं भव । अस्माकं सुखकरो
+> भव । हिमा शैत्येन च शं भव । फृणेनौष्ठ्येन च शंकरो भव । यथा यादृशेन
+> नोऽस्माकमध्वन्नध्वनि मार्गे शं भवति दुरोणे गृहे च शं सुखमसत् भवति
+> तच्चित्रं पूजनीयं द्रविणं धनं देहि । अस्मभ्यं प्रयच्छ ।
+
+##### Gist of the bhāṣya
+
+O Sūrya, be a giver of happiness to us with your sight, your brilliance; and be a giver of happiness to us with the day. Be a giver of happiness also with the radiance, the ray; be so with cold; and be a bringer of happiness with heat. Give us that worshipful wealth by which there is happiness for us on the road and in the house. Grant it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sun
+- चक्षसा (*cakṣasā*)—with your brilliance
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—as a giver of happiness
+- भव (*bhava*)—be
+- अह्ना (*ahnā*)—through the light of the day
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—be a giver of happiness
+- भानुना (*bhānunā*)—with your ray
+- शं (*śaṃ*)—be a giver of happiness to us
+- हिमा (*himā*)—with cold
+- शं (*śaṃ*)—be a bringer of happiness
+- घृणेन (*ghṛṇena*)—give happiness through heat also
+- यथा (*yathā*)—in what manner
+- नः (*naḥ*)—to us
+- अध्वन् (*adhvan*)—on the road
+- दुरोणे (*duroṇe*)—in the house
+- शं असत् (*śaṃ asat*)—there may be happiness
+- तत् (*tat*)—such
+- चित्रं (*citraṃ*)—of many kinds
+- द्रविणं (*draviṇaṃ*)—wealth
+- धेहि (*dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun, with your brilliance, with the light of the day, with all your rays, with cold and with heat, be a bringer of happiness to us in every way. Give us attractive wealth, by which we may have happiness on the road and in the house.
+
+### Printed p. 921
+
+##### English translation
+Be propitious to us with light ; be propitious to us with sushine; be propitious to us with warmth ; be propitious to us with frost ; and grant us, Surya, various wealth, whereby we may prosper on the road and in the house.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माकं॑ देवा उ॒भया॑य॒ जन्म॑ने॒ शर्म॑ यच्छत द्वि॒पदे॒  ॑
+> चतुष्पदे ॥  
+> अ॒दत्पिब॑दू॒र्जय॑मान॒माशि॑तं॒ तद॒स्मे शं योर॑र॒पो द॑धातन ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आस्माकं । देवाः । उभयाय । जन्मने । शर्म । यच्छत । द्विपदे । चतुर्पदे ।  
+> आदत् । पिबत् । ऊर्जयमानं । आशितं । तत् । अस्मे इति । शं । योः । अरपः ।  
+> दधःतन ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः सूर्येणाभ्यनुज्ञाता यूयमस्माकं द्विपदे मनुष्यात्मकाय
+> चतुष्पदे पश्वात्मकाय चोभयायोभयविधाय जन्मने भूतजाताय शर्म
+> सुखं यच्छत । दत्त । किंच यथास्मत्पुत्रादिकमदद्भक्षणीयं भक्षयत् पिबत्पानीयं
+> पिबच्चोर्जयमानं बलवंतमिवात्मानमाचरच्चाशितं सुहितं च भवति तथा शं
+> रोगशांतिनिमित्तकं सुखं योर्विषययोगजनितं सुखं चारपोऽपापं च दधातन । प्रयच्छत ॥
+
+##### Gist of the bhāṣya
+
+O gods, authorised by Sūrya, give happiness to our two-footed, that is, human, and four-footed, that is, animal, both kinds of beings. And moreover, so that our sons and the like, eating what is to be eaten, drinking what is to be drunk, may be strong, like one who makes himself powerful, and well satisfied, give us the happiness that brings the allaying of disease, the happiness born of contact with the objects of the senses, and sinlessness. Grant it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- अस्माकं (*asmākaṃ*)—belonging to us
+- द्विपदे (*dvipade*)—having the form of sons and the like
+- चतुष्पदे (*catuṣpade*)—having the form of cattle and the like
+- उभयाय (*ubhayāya*)—of these two kinds
+- जन्मने (*janmane*)—to all living beings
+- शर्म (*śarma*)—happiness
+- यच्छत (*yacchata*)—give
+- अदत् (*adat*)—even while we eat
+- पिबत् (*pibat*)—even while we drink
+- ऊर्जयमानं (*ūrjayamānaṃ*)—so that we may gain strength
+- आशितं (*āśitaṃ*)—so that we may be healthy
+- शं (*śaṃ*)—happiness
+- योः (*yoḥ*)—freedom from disease
+- अरपः (*arapaḥ*)—so that we may be free from sin
+- अस्मे (*asme*)—to us
+- दधातन (*dadhātana*)—give
+
+### Printed p. 922
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, give all happiness to our sons and the like and to our cattle and the like. While we eat, while we drink, make us gain strength and be healthy, and bring about for us happiness free from sin and freedom from disease.
+
+##### English translation
+Bestow, gods,'felicity upon both (classes) of our living beings, bipeds and quadrupeds, so that, whether they be eating or drinking, they may be strong and healthy : so grant to us happiness, pleasure and freedom from sin.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वो॑ देवाश्चकृ॒म जि॒ह्वया॑ गु॒रु मन॑सो वा॒ प्रयु॑ती  ॒॑
+> देवहेळनं ।  
+> अरा॑वा॒ यो नो॑ अ॒भि दु॑च्चुना॒यते॒ तस्मि॒न्तदेनो॑ वसवो॒  ॑
+> नि धेतन ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वः । देवाः । चकृम । जिह्वया । गुरु । मनसः । वा । प्रयुती । देवहेळनं ।  
+> अरावा । यः । नः । अभि । दुच्चुनयते । तस्मिन् । तत् । एनः । वसवः । नि । धेतन ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसवो वासयितारो देवाः वो युष्माकं वयं जिह्वया वाचा
+> मनसः प्रयुती प्रयुत्या प्रयोगेण गुरु महद्देवहेळनं देवक्रोधनं च
+> यदेनश्चक्रम अकार्ष्म योऽस्मच्छतुर्नोऽस्मानभि प्रत्यरावा गमनवान्भूत्वा
+> दुच्चुनायते पापान्याचरत्यस्मानुद्वेजयति ना तस्मिन्नस्मच्छत्रौ तदेनोऽस्माभिः
+> कृतं पापं नि धेतन । सूर्यस्याज्ञया विधत्त । स्थापयतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Vasus, gods, who cause dwelling: whatever offence we have committed against you, grave, and even such as arouses the anger of the gods, with the tongue, that is, with speech, or by the application of the mind, on him who is an enemy to us, who, becoming hostile, practises evil against us, that is, afflicts us, on that enemy of ours place that offence committed by us. Arrange it by the command of Sūrya; the meaning is, establish it there.
+
+### Printed p. 923
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—givers of dwelling
+- देवाः (*devāḥ*)—O gods
+- वः (*vaḥ*)—in regard to you
+- जिह्वया (*jihvayā*)—through speech
+- मनसः (*manasaḥ*)—by the mind
+- प्रयुती (*prayutī*)—through the activities of speech and mind
+- गुरु (*guru*)—grave
+- देवहेळनं (*devaheḷanaṃ*)—that which causes anger to the gods
+- यत् एनः (*yat enaḥ*)—what sin
+- चक्रम (*cakrama*)—we have done
+- तत् एनः (*tat enaḥ*)—all that sin
+- यः (*yaḥ*)—whichever enemy of ours
+- नः अभि (*naḥ abhi*)—in regard to us
+- अरावा (*arāvā*)—assailing
+- दुच्चु नायते (*duccu nāyate*)—practises evil deeds
+- तस्मिन् (*tasmin*)—on that enemy
+- नि धेतन (*ni dhetana*)—place
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, givers of dwelling, whatever sin we have committed in regard to you, whether by the use of speech or by the purpose of the mind, grave and causing you anger, turn all that sin upon the enemy who assails us and desires evil for us, and cause evil to come to him from it.
+
+##### English translation
+Whatever sin, great and exciting the wrath of the gods, we have committed against you, O gods, by the tongue, or the working of the mind, you, Vasus, transfer that sin to him, who assailing terrifies us.
+
+## Sūkta 38 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन्न इति पंचर्चं नवमं सूक्तं जागतमैंद्रं । मुष्कविशिष्ट इंद्राख्य
+> ऋषिः । तथा चानुक्रांतं । अस्मिन्नः पंच मुष्कवानिंद्र इति ॥ गतो विनियोगः ॥
+> अपरे तु तांडवाः शाट्यायनका अस्य सूक्तस्य मुष्कवानिंद्रो देवता लुश ऋषिरिति
+> वर्णयंति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अस्मिन्न (*asminna*) is the ninth sūkta, of five ṛks, in jagatī, addressed to Indra. Its seer is called Indra, distinguished by Muṣka. The Anukramaṇī says: अस्मिन्नः पंच मुष्कवानिंद्र इति (*asminnaḥ paṃca muṣkavāniṃdra iti*). The application has been given. Others, however, the Tāṇḍins and the Śāṭyāyanakas, say of this sūkta that its deity is Muṣkavān Indra and that its seer is Luśa.
+
+Anuvāda: This sūkta, अस्मिन्नः (*asminnaḥ*), is the ninth sūkta in the third anuvāka. It has five ṛks. The seer of this sūkta is Indra, distinguished as Mukhya **NOTE**; the deity is Indra; the metre is jagatī. In the Anukramaṇī, अस्मिन्नः पंच मुष्कवानिंद्रः (*asminnaḥ paṃca muṣkavāniṃdraḥ*), it is stated
+
 ---
 
-**Progress note:** Done through printed p. 917. Vol 27 pp. 912-917: Sūkta 37 Ṛk 3-8
+**Progress note:** Done through printed p. 923. Vol 27 pp. 918-923: Sūkta 37 Ṛk 8-12, Sūkta 38 intro
