@@ -2372,6 +2372,269 @@ I am (in dependence), Indra, upon the acts of such as you are, upon the liberali
 > कुत्सा॑ ए॒ते हर्य॑श्वाय शू॒षमिंद्रे॒ सहो॑ दे॒वजू॑तमिया॒नाः ।  
 > स॒त्रा कृ॑धि सु॒हना॑ शूर वृ॒त्रा व॒यं तरु॑त्राः सनुयाम॒ वाजं॑ ॥
 
+### Printed p. 55
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुत्साः । एते । हरिऽअश्वाय । शूषं । इंद्रे । सहः । देवऽजूतं । इयानाः ।  
+> सत्रा । कृधि । सुऽहना । शूर । वृत्रा । वयं । तरुत्राः । सनुयाम । वाजं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते वयं वसिष्ठा हर्यश्वाय हरिनामकाश्वायेंद्राय शूषं सुखकरं स्तोत्रं कुत्साः कुर्वाणाः ॥ करोतेः कुत्सशब्दनिष्पत्तिः ॥ इंद्रे देवजूतं देवैः प्रेरितं सहो बलमियाना याचमानास्तरुत्रा दुर्गाणि तीर्णाः संतो वाजं बलं सनुयाम । लभेमहि । अपि च हे शूर वृत्रा वृत्राणि शत्रून् सुहना हंतुं सुकराणि सत्रा सर्वदा कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: We, the Vasiṣṭhas, make (कुत्साः (*kutsāḥ*), from the root करोतेः (*karoteḥ*), "to make") a pleasing hymn of praise (शूषं (*śūṣaṃ*)) for Indra, the lord of the horses called Hari (हर्यश्वाय (*haryaśvāya*)). Asking (इयानाः (*iyānāḥ*)) of Indra the strength (सहः (*sahaḥ*)) that the gods have impelled (देवजूतं (*devajūtaṃ*)), and having crossed over hard places (तरुत्राः (*tarutrāḥ*)), may we win (सनुयाम (*sanuyāma*)) strength (वाजं (*vājaṃ*)). And, O hero, make (कृधि (*kṛdhi*)) the enemies (वृत्रा (*vṛtrā*)) always (सत्रा (*satrā*)) easy to slay (सुहना (*suhanā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते वयं (*ete vayaṃ*)—we, born in the family of Vasiṣṭha
+- हर्यश्वाय (*haryaśvāya*)—for Indra, who has the horses called Hari
+- शूषं (*śūṣaṃ*)—a hymn of praise that gives happiness
+- कुत्साः (*kutsāḥ*)—making
+- इंद्रे (*iṃdre*)—of Indra
+- देवजूतं (*devajūtaṃ*)—impelled by the gods
+- सहः (*sahaḥ*)—strength
+- इयानाः (*iyānāḥ*)—asking
+- तरुत्राः (*tarutrāḥ*)—crossing over hard situations
+- वाजं (*vājaṃ*)—food
+- सनुयाम (*sanuyāma*)—may we obtain
+- शूर (*śūra*)—O Indra, the valiant
+- वृत्रा (*vṛtrā*)—the enemies
+- सुहना (*suhanā*)—the power to slay easily
+- सत्रा (*satrā*)—always
+- कृधि (*kṛdhi*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+We, born in the family of Vasiṣṭha, making a pleasing hymn of praise for Indra, who has the horses called Hari, and asking of Indra the strength impelled by the gods, and crossing over hard situations, may we obtain food. O valiant Indra, always bring about the power to slay the enemies easily.
+
+##### English translation
+These (Vasishthas) are offering grateful (adoration) to the lord of bay steeds, soliciting the strength assigned by the gods to Indra : make our enemies, Indra, easy to be overcome, and may we, safe from peril, enjoy abundance.
+
+### Printed p. 56
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा न॑ इंद्र॒ वार्य॑स्य पूर्धि॒ प्र ते॑ म॒हीं सु॑म॒तिं वे॑विदाम ।  
+> इषं॑ पिन्व म॒घव॑द्भ्यः सु॒वीरां॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । इंद्र । वार्यस्य । पूर्धि । प्र । ते । महीं । सुऽमतिं । वेविदाम ।  
+> इषं । पिन्व । मघवत्ऽभ्यः । सुऽवीरां । यूयं । पात । स्वस्तिऽभिः । सदा । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मानेवैवं वार्यस्य । तृतीयार्थे षष्ठी । वरणीयेन धनेन पूर्धि । पूरय । ते तव महीं महतीं सुमतिमनुग्रहबुद्धिं वेविदाम । भृशं लभेमहि । मघवद्भ्यो हविष्मद्भ्योऽस्मभ्यं सुवीरां शोभनपुत्रादियुतामिषमन्नं पिन्व । प्रयच्छेत्यर्थः । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, fill us in this manner (एव (*eva*)) with desirable wealth (वार्यस्य (*vāryasya*) stands in the genitive in the sense of the instrumental). May we richly obtain your great (महीं (*mahīṃ*)) favour, that is, your gracious disposition (सुमतिं (*sumatiṃ*)). To us who are rich in oblations (मघवद्भ्यः (*maghavadbhyaḥ*)) bestow food (इषं (*iṣaṃ*)) accompanied by excellent sons and the like (सुवीरां (*suvīrāṃ*)). The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us
+- एव (*eva*)—in this very manner
+- वार्यस्य (*vāryasya*)—with desired wealth
+- प्र पूर्धि (*pra pūrdhi*)—fill completely (fill for us)
+- ते (*te*)—your
+- महीं (*mahīṃ*)—great
+- सुमतिं (*sumatiṃ*)—gracious disposition
+- वेविदाम (*vevidāma*)—may we obtain abundantly
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to us who have oblations
+- सुवीरां (*suvīrāṃ*)—accompanied by heroic sons
+- इषं (*iṣaṃ*)—food
+- पिन्व (*pinva*)—provide (O Indra and the others)
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in this manner fill up for us the wealth that we desire. May we obtain abundantly your great gracious disposition. To us who have oblations, provide food accompanied by heroic sons. O Indra and the others, always protect us with blessings.
+
+##### English translation
+In this manner, Indra, satisfy us with the gift of desirable (wealth) : may we repeatedly experience your great favour : bestow upon us who are opulent in offerings food with male discendants : ever cherish us with blessings.
+
+### Printed p. 57
+
+## Sūkta 26 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न सोम इंद्रमिति पंचर्चं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं तथा चानुक्रम्यते । न सोमः पंचेति । महाव्रत उक्थ्ये विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sūkta of five Ṛks beginning न सोम इंद्रं (*na soma iṃdraṃ*) is the ninth sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra. The Anukramaṇī records it thus: न सोमः पंच (*na somaḥ paṃca*). Its application is in the Mahāvrata, at the ukthya.
+
+The sūkta न सोम इंद्रं (*na soma iṃdraṃ*) is the ninth sūkta in the second anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as न सोमः पंचे (*na somaḥ paṃce*). It has already been said earlier that this sūkta is applied in the Mahāvrata sacrifice for the mantras of the niṣkevalya recitation.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न सोम॒ इंद्र॒मसु॑तो ममाद॒ नाब्र॑ह्माणो म॒घवा॑नं सु॒तासः॑ ।  
+> तस्मा॑ उ॒क्थं ज॑नये॒ यज्जुजो॑षन्नृ॒वन्नवी॑यः शृ॒णव॒द्यथा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सोमः । इंद्रं । असुतः । ममाद । न । अब्रह्माणः । मघऽवानं । सुतासः ।  
+> तस्मै । उक्थं । जनये । यत् । जुजोषत् । नृऽवत् । नवीयः । शृणवत् । यथा । नः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघवानं धनवंतमिंद्रमसुतो नाभिषुतः सोमो न ममाद । न तर्पयति । सुतासोऽभिषुता अपि सोमा अब्रह्माणः स्तोत्रहीना न ममदुः । ममादेत्येतदाख्यातं बहुवचनांततया विपरिणतं सदत्र संबध्यते । अत एव त्रिष्टुपि सवनेषु
+> 8
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Soma that has not been pressed (असुतः (*asutaḥ*)) does not delight (ममाद (*mamāda*), that is, does not satisfy) Indra, the wealthy (मघवानं (*maghavānaṃ*)). Even the juices that have been pressed (सुतासः (*sutāsaḥ*)), if they lack prayer (अब्रह्माणः (*abrahmāṇaḥ*), devoid of praise), do not delight him. The verb ममाद (*mamāda*) is changed into the plural and construed with the latter clause as well. For this very reason, in the Triṣṭubh libations, it is only the Somas that have been praised with the Pavamāna hymns that are invoked.
+
+### Printed p. 58
+
+> पावमानैः स्तोत्रैः स्तुता एव सोमा हूयंते । अपि च नोऽस्मदीयं यदुक्थमिंद्रो जुजोषत् सेवेत यथा च नृवद्राजेवादरेण शृणवत् शृणुयात् तथा नवीयो नवतरमुक्थं शस्त्रं तस्मा इंद्राय जनये पठामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And whatever hymn (उक्थं (*ukthaṃ*)) of ours Indra enjoys (जुजोषत् (*jujoṣat*)), and in the manner in which he listens (शृणवत् (*śṛṇavat*)) with respect like a king (नृवत् (*nṛvat*)), in that manner I compose and recite (जनये (*janaye*)) for that Indra a newer (नवीयः (*navīyaḥ*)) hymn, a recitation (शस्त्रं (*śastraṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवानं (*maghavānaṃ*)—the wealthy
+- इंद्रं (*iṃdraṃ*)—Indra
+- असुतः (*asutaḥ*)—not pressed
+- सोमः (*somaḥ*)—Soma
+- न ममाद (*na mamāda*)—does not delight
+- सुतासः (*sutāsaḥ*)—even if pressed
+- अब्रह्माणः (*abrahmāṇaḥ*)—the juice that is without praise
+- न (ममदुः) (*na (mamaduḥ)*)—does not delight (therefore)
+- नः (*naḥ*)—our
+- यत् (*yat*)—which
+- उक्थं (*ukthaṃ*)—uktha mantra
+- जुजोषत् (*jujoṣat*)—he enjoys
+- यथा (*yathā*)—in the manner in which
+- नृवत् (*nṛvat*)—like a king, with respect
+- शृणवत् (*śṛṇavat*)—he listens (in that same manner)
+- नवीयः (*navīyaḥ*)—the newly composed recitation mantra
+- तस्मै (*tasmai*)—to that
+- जनये (*janaye*)—I compose and recite
+
+##### भावार्थ (Bhāvārtha)
+
+Soma that is offered without being pressed does not delight Indra, the wealthy. Even if pressed, the juice that is not joined with praises does not delight him. Therefore I compose and recite for Indra, in the same manner, such a newly composed recitation mantra as Indra will enjoy among our uktha mantras and will listen to with respect like a king.
+
+##### English translation
+The Soma uneffused delights not Indra : the effused juices please not Maghavan, unaccompanied by prayer : therefore I offer to him the praise that he may be pleased with : that, like a prince, he may listen to a novel (strain).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्थ उ॑क्थे॒ सोम॒ इंद्रं॑ ममाद नी॒थेनी॑थे म॒घवा॑नं सु॒तासः॑ ।  
+> यदीं॑ स॒बाधः॑ पि॒तरं॒ न पु॒त्राः स॑मा॒नद॑क्षा॒ अव॑से॒ हवं॑ते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्थेऽउक्थे । सोमः । इंद्रं । ममाद । नीथेऽनीथे । मघऽवानं । सुतासः ।  
+> यत् । ईं । सऽबाधः । पितरं । न । पुत्राः । समानऽदक्षाः । अवसे । हवंते ॥ २ ॥
+
+### Printed p. 59
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यस्मादुक्थ उक्थे शस्त्रे शस्त्रे क्रियमाणे सोमो मघवानमिंद्रं ममाद मादयति नीथे नीथे स्तोत्रे स्तोत्रे क्रियमाणे सुतासोऽभिषुताः सोमा मादयंति तस्मादीमेनमिंद्रं सबाधः परस्परं मिलिताः समानदक्षाः समानोत्साहा ऋत्विजः पुत्राः पितरं न पितरमिवावसे तर्पणाय स्वरक्षणाय वा हवंते शस्त्रैः स्तोत्रैश्च स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Because Soma delights (ममाद (*mamāda*)) Indra, the wealthy, as each recitation (उक्थ उक्थे (*uktha ukthe*)) is performed, and the pressed juices (सुतासः (*sutāsaḥ*)) delight him as each hymn (नीथे नीथे (*nīthe nīthe*)) is performed, therefore the priests, who are joined together (सबाधः (*sabādhaḥ*)) and of equal zeal (समानदक्षाः (*samānadakṣāḥ*)), invoke this Indra for his satisfaction or for their own protection (अवसे (*avase*)), as sons invoke a father, praising him with recitations and hymns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- उक्थेउक्थे (*uktheukthe*)—whenever each recitation mantra is recited
+- सोमः (*somaḥ*)—Soma
+- मघवानं (*maghavānaṃ*)—the wealthy
+- इंद्रं (*iṃdraṃ*)—Indra
+- ममाद (*mamāda*)—satisfies
+- नीथेनीथे (*nīthenīthe*)—whenever each hymn is recited
+- सुतासः (*sutāsaḥ*)—the pressed Soma juices satisfy him (for that very reason)
+- ईं (*īṃ*)—this Indra
+- सबाधः (*sabādhaḥ*)—those who have come together
+- समानदक्षाः (*samānadakṣāḥ*)—those who have one and the same strength, the priests
+- पुत्राः (*putrāḥ*)—sons
+- पितरं न (*pitaraṃ na*)—as they call a father for protection
+- अवसे (*avase*)—for protection
+- हवंते (*havaṃte*)—they call
+
+##### भावार्थ (Bhāvārtha)
+
+For the very reason that Soma satisfies Indra, the wealthy, whenever each recitation mantra is recited, and the pressed Somas satisfy him whenever each hymn is recited, the priests, who have come together and are of one and the same strength, call upon Indra for protection, as sons call upon a father for protection.
+
+##### English translation
+The Soma effused with reiterated prayer delights Indra : the effused juices, (offered) with repeated praise, (exhilarate) Maghavan : therofore (the priests), combining together and making like exertion, invoke Indra for protection, as sons (apply) to a father.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒कार॒ ता कृ॒णव॑न्नू॒नम॒न्या यानि॑ ब्रु॒वंति॑ वे॒धसः॑ सु॒तेषु॑ ।  
+> जनी॑इव॒ पति॒रेकः॑ समा॒नो नि म॑मृजे॒ पुर॒ इंद्रः॒ सु सर्वाः॑ ॥
+
+### Printed p. 60
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चकार । ता । कृणवत् । नूनं । अन्या । यानि । ब्रुवंति । वेधसः । सुतेषु ।  
+> जनीऽइव । पतिः । एकः । समानः । नि । ममृजे । पुरः । इंद्रः । सु । सर्वाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेधसः स्तोत्राणां विधातारः सुतेषु सोमेष्वभिषुतेषु यानि कर्माणि ब्रुवंति तानि वृत्रवधादीनि कर्माणींद्रः पूर्वस्मिन्काले चकार । नूनं संप्रत्यप्यन्यान्यानि कर्माणि कृणवत् । कुर्यात् । अपि च स इंद्रः सर्वाः पुरः शत्रुनगरीः समानः समवृत्तिरेकोऽसहायः पतिर्जनीरिव जायो इव सु नि ममृजे । सम्यक् शोधयेत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The exploits (कर्माणि (*karmāṇi*)) such as the slaying of Vṛtra that the praisers (वेधसः (*vedhasaḥ*), the composers of hymns) speak of (ब्रुवंति (*bruvaṃti*)) at the pressing of the Soma (सुतेषु (*suteṣu*)), those Indra did (चकार (*cakāra*)) in former time; may he now also perform (कृणवत् (*kṛṇavat*)) other exploits. And may that Indra, alone (एकः (*ekaḥ*)), unaided, and of equal bearing (समानः (*samānaḥ*)), cleanse thoroughly (सु नि ममृजे (*su ni mamṛje*)) all the cities (पुरः (*puraḥ*)) of the enemy, as a husband (पतिः (*patiḥ*)) his wives (जनी इव (*janī iva*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेधसः (*vedhasaḥ*)—the praisers and reciters
+- सुतेषु (*suteṣu*)—at the times of pressing the Soma
+- यानि (*yāni*)—whatever heroic deeds
+- चकार (*cakāra*)—Indra did
+- ब्रुवंति (*bruvaṃti*)—they praise, such
+- ता अन्या (*tā anyā*)—other deeds of the same kind
+- नूनं (*nūnaṃ*)—now (the same Indra)
+- कृणवत् (*kṛṇavat*)—let him accomplish
+- पतिः (*patiḥ*)—as a husband
+- जनीः इव (*janīḥ iva*)—takes his wives under his own control
+- इंद्रः (*iṃdraḥ*)—Indra
+- सर्वाः पुरः (*sarvāḥ puraḥ*)—all the enemy cities
+- समानः (*samānaḥ*)—in one and the same manner
+- एकः (*ekaḥ*)—as the unequalled one
+- सु नि ममृजे (*su ni mamṛje*)—let him defeat and take under his own control
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever heroic deeds the praisers and reciters praise at the time of pressing the Soma as having been done by Indra, other deeds of the same kind let that same Indra now accomplish. As a husband takes all his wives together under his own control, let Indra, as the unequalled one, in one and the same manner, defeat all the enemy cities and take them under his own control.
+
+##### English translation
+Such exploits as his worshippers, when the Soma is effused, proclaim that he has achieved, let him now perform : may Indra, equal (to the task) and unaided, possess all the cities (of the Asuras) as a husband his wives.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा तमा॑हुरु॒त शृ॑ण्व॒ इंद्र॒ एको॑ विभ॒क्ता त॒रणि॑र्म॒घानां॑ ।  
+> मि॒थ॒स्तुर॑ ऊ॒तयो॒ यस्य॑ पू॒र्वीर॒स्मे भ॒द्राणि॑ सश्चत प्रि॒याणि॑ ॥
+
 ---
 
-**Progress note:** Done through printed p. 54. Sūkta 24 Ṛk 6; Sūkta 25 Ṛk 1-4, Saṃhitā of Ṛk 5
+**Progress note:** Done through printed p. 60. Vii.25.5-6 end, Sukta 26 Rks 1-3 (pp. 55-60)
