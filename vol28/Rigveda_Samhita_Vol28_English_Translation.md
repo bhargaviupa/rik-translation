@@ -18111,6 +18111,278 @@ Desirous of wealth, we solicit that Soma, the friend of Indra, who for your welf
 - पृथिवीं (*pṛthivīṃ*)—the earth
 - पर्वतान् (*parvatān*)—the mountains
 
+### Printed p. 530
+**Pratipadārtha** (continued)
+- गळन्नू (*gaḷannū*)—mountains (the word continues from the previous page)
+- अपः (*apaḥ*)—waters
+- जनयंतः (*janayaṃtaḥ*)—producing
+- दिवि (*divi*)—in the heavenly world
+- सूर्यं (*sūryaṃ*)—the sun
+- रोहयंतः (*rohayaṃtaḥ*)—establishing on high
+- सुदानवः (*sudānavaḥ*)—the gods, generous givers
+- अधि क्षमि (*adhi kṣami*)—upon the earth
+- आर्य व्रता (*ārya vratā*)—auspicious rites such as sacrifices
+- विसृजंतः (*visṛjaṃtaḥ*)—they perform extensively
+
+##### भावार्थ (Bhāvārtha)
+
+The generous giver-gods, who produce nourishing food, horses, plants, trees, the earth, mountains and waters, and who establish the sun on high in the heavenly world, extensively carry out upon the earth auspicious rites such as sacrifices.
+
+##### English translation
+Generating food, cows, horses, plants, trees, the earth mountains and waters, elevating the sun in heaven, munificent, promoting sacred observances upon the earth, (they abide everywhere).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भु॒ज्युमंह॑सः पिपृथो॒ निर॑श्विना॒ श्यावं॑ पु॒त्रं व॑ध्रिम॒त्या अ॑जिन्वतं ।  
+> क॒म॒द्युवं॑ विम॒दायो॑हथुर्यु॒वं वि॑ष्णा॒ष्ट्वं१॒॑विश्व॑का॒याव॑  
+> सृजथः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुज्युं । अंहसः । पिपृथः । निः । अश्विना । श्यावं । पुत्रं । वध्रिमत्याः । अजिन्वतं ।  
+> कमद्युवं । विमदाय । ऊहथुः । युवं । विष्णाष्ट्वं । विश्वकाय । अव। सृजथः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्ववंतौ सर्वं व्याप्प्नुवंतौ वैतन्नामकौ हे देवौ अंहस उपद्रवकारिणः समुद्राद्भुज्यं तुग्रपुत्रमेतन्नामानं निः पिपृथः । निष्पारयथः । नितरां
+> रक्षथः ॥ पृ पालनपूरणयोः । जौहोत्यादिकः ॥ निष्पौग्र्यं पारयथः समुद्रात् ।
+> ऋ. १-११८-६ । इति निगमः । तथा श्यावं हिरण्यहस्तनामानं पुत्रं वध्रिमत्या एतन्ना
+> मिकाया अजिन्वतं । अप्रीणयतं । अदत्तं। हिरण्यहस्तमश्विना रराणा। ऋ. १-११७-२४।
+
+##### Gist of the bhāṣya
+
+O Aśvins, the two horse-possessing, all-pervading gods: you rescued Bhujyu, son of Tugra, from the distressing sea (अंहसः (*aṃhasaḥ*)), protecting and carrying him across. Sāyaṇa cites the Nigama Ṛ. 1-118-6 (निष्पौग्र्यं पारयथः समुद्रात् (*niṣpaugryaṃ pārayathaḥ samudrāt*)). The root पृ (*pṛ*) is in the sense of protecting and filling (Jauhotyādi class). You also gratified Vadhrimatī (so named) by giving her her son Śyāva, called Hiraṇyahasta; he cites the Nigama Ṛ. 1-117-24 (अदत्तं हिरण्यहस्तमश्विना रराणा (*adattaṃ hiraṇyahastamaśvinā rarāṇā*)).
+
+### Printed p. 531
+
+> इत्यादि निगमः । तथा कमद्युवं कामस्य दीपनीं वेनपुत्रीं जायां विमदायर्षये युवमूहथुः। प्रापयथः। युवं रथेन विमदाय । ऋ. १०-३९-७ । इति
+> निगमः। तथा विष्णाप्वमेतन्नामानं विनष्टं पुत्रं विश्वकायर्षय आनीयाव सृजथः ।
+> अदत्तं । पशुं न नष्टमिव दर्शनाय । ऋ. १-११६-२३ । इति निगमः ॥
+
+##### Gist of the bhāṣya
+
+So too you brought to the seer Vimada his wife Kamadyu, the kindler of desire, daughter of Vena (Ṛ. 10-39-7). And you restored to the seer Viśvaka his lost son Viṣṇāpu, as one restores a lost animal for sight (Ṛ. 1-116-23).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- अंहसः (*aṃhasaḥ*)—from the sea, the seat of harm
+- भुज्युवं (*bhujyuvaṃ*)—Bhujyu
+- नि पिपृथः (*ni pipṛthaḥ*)—you protected
+- वध्रिमत्याः (*vadhrimatyāḥ*)—to Vadhrimati
+- श्यावं पुत्रं (*śyāvaṃ putraṃ*)—the son named Śyāva
+- अजिन्वतं (*ajinvataṃ*)—you graciously gave
+- विमदाय (*vimadāya*)—to the seer named Vimada
+- कमद्युवं (*kamadyuvaṃ*)—the wife named Kamadyu
+- युवं (*yuvaṃ*)—you
+- ऊहथुः (*ūhathuḥ*)—you provided
+- विश्वकाय (*viśvakāya*)—to the seer named Viśvaka
+- विष्णाप्वं (*viṣṇāpvaṃ*)—the son named Viṣṇāpta
+- अव सृजथः (*ava sṛjathaḥ*)—you searched out and gave
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you protected Bhujyu from the sea, the seat of harm. You graciously gave Vadhrimati her son Śyāva. You provided the seer Vimada with the wife Kamadyu. You searched out and gave the seer Viśvaka his son Viṣṇāpta.
+
+##### English translation
+You, Ashwins, extricated Bhujyu from calamity, you gave to Vadhrimati her son Shyava ; you gave Kamadyu (as a wife) to Vimada : you restored (the lost) Vishnapu to Vishwaka.
+
+##### विशेषविषयगळु (Special Topics)
+
+For Bhujyu, see the Ṛks beginning निष्टौग्र्यं पारयथः समुद्रात् (*niṣṭaugryaṃ pārayathaḥ samudrāt*) (Ṛ. Saṃ. 1-118-6) and others; for Vadhrimati, see Bhāga 9 p. 408 and Bhāga 27 p. 954; for Viśvaka and Viṣṇāpu, see 9 p. 298; for Vimada, see the Ṛks Ṛ. Saṃ. 10-39-7 and others, where it is written.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पावी॑रवी तन्य॒तुरेक॑पाद॒जो दि॒वो ध॒र्ता सिंधु॒रासः॑ समु॒द्रियः॑ ।  
+> विश्वे॑ दे॒वासः॑ शृणव॒न्वचां॑सि मे॒ सर॑स्वती स॒ह धी॒भिः पुरं॑ध्या ॥
+
+### Printed p. 532
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पावीरवी । तन्यतुः । एकपात् । अजः । दिवः । धर्ता । सिंधुः । आपः । समुद्रियः ।  
+> विश्वे । देवासः । शृणवन् । वचांसि । मे । सरस्वती । सह । धीभिः । पुरंध्या ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पावीरव्यायुधवती तन्यतुः स्तनयित्री वाग्माध्यमिका तथा दिवो द्युलोकस्य
+> धर्ता धारयिताज एकपात् एक एव पद्यते गच्छतीति न जायत इत्येत्संज्ञको
+> देवः सिंधुश्च समुद्रियः । समुद्रमंतरिक्षं । तत्र भवा आपश्च ॥ समुद्राभ्राद्ध इति
+> भावार्थे घप्रत्ययः ॥ विश्वे देवाश्च धीभिः कर्मभिर्युक्ताः पुरंध्या बहुविधया
+> प्रज्ञया सहिता सरस्वती च मे मदीयानि वचांसि वक्तव्यानि स्तोत्राणि शृणवन् ।
+> शृण्वंतु । पविः शल्यो भवति यद्विपुनाति कायमित्यादि निरुक्तमनुसंधेयं ।
+> नि- १२-३० ॥
+
+##### Gist of the bhāṣya
+
+Pāvīravī is the weapon-bearing voice of the middle region, thundering (तन्यतुः (*tanyatuḥ*)). Aja Ekapād is the upholder of heaven, a god so named because he alone moves and is not born. Sindhu (the sea deity) and the waters of the sea, i.e. of the atmosphere, born there (the affix gha in the sense of the state, by समुद्राभ्राद्ध (*samudrābhrāddha*)). The All-gods, endowed with rites, and Sarasvatī, with manifold wisdom, are to hear my words, the praises to be uttered. Pavi is a spear, or "that which purifies the body", and so on, according to the Nirukta, Ni. 12-30.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावीरवी (*pāvīravī*)—the weapon-bearing
+- तन्यतुः (*tanyatuḥ*)—the sounding Vāg-devī of the middle region
+- दिवः (*divaḥ*)—of the heavenly world
+- धर्ता (*dhartā*)—the upholder
+- अज एकपात् (*aja ekapāt*)—the god named Aja Ekapāt
+- सिंधुः (*siṃdhuḥ*)—the sea deity
+- समुद्रियः (*samudriyaḥ*)—born of the atmosphere
+- आपः (*āpaḥ*)—the waters
+- विश्वे देवासः (*viśve devāsaḥ*)—the All-gods
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- धीभिः (*dhībhiḥ*)—endowed with rites
+- पुरंध्या सह (*puraṃdhyā saha*)—endowed with excellent knowledge
+- मे (*me*)—my
+- वचांसि (*vacāṃsi*)—words of praise
+- शृण्वन् (*śṛṇvan*)—may they hear
+
+##### भावार्थ (Bhāvārtha)
+
+May the weapon-bearing, sounding Vāg-devī of the middle region, the god Aja Ekapāt who upholds the heavenly world, the sea deity, the waters born of the atmosphere, the All-gods and Sarasvatī, all these deities, endowed with rites and excellent knowledge, hear my words of praise.
+
+##### English translation
+May the armed and thundering (voice of mid-heaven); the upholder of heaven, Aja Ekapad, the ocean, the waters of the firmament, the universal gods and Saraswati, accompanied by sacred rites and abundant wisdom, hear my words.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वाः स॒ह धी॒भिः पुरं॑ध्या॒ मनो॒र्यज॑त्रा अ॒मृता॑  ॒
+> ऋत॒ज्ञाः ।
+
+### Printed p. 533
+
+> रातिषाचो अभिषाचः स्वर्विदः स्वर्गिरो ब्रह्मसूक्तं जुषेरत ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । सह । धीभिः । पुरंध्या । मनोः । यजत्राः । अमृताः । ऋतज्ञाः ।  
+> रातिसाचः। अभिसाचः। स्वःविदः । स्वः । गिरः । ब्रह्म । सुउक्तं । जुषेरत ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीभिः कर्मभिः सहिताः पुरंध्या प्रज्ञानेन युक्ता मनोर्मनुष्यस्य यज्ञे
+> यजत्रा यष्टव्या अमृता मरणधर्मरहिता ऋतज्ञाः सत्यविदो रातिषाचो दीयमानं हविः सेवमाना अभिषाच अभिमुख्यन यज्ञं समवयंतः संगतवंतः स्वर्विधः
+> सर्वस्य लंभका विश्वे सर्व इंद्रादयो देवाः स्वः सर्वा गिरोऽस्मदीयाः स्तुतीब्रह्म महच्चान्नं सूक्तं सुष्टु वक्तव्यं स्तोमं यद्वा सुष्टु मंत्रेण सह दत्तमन्नं जुषेरत । सेवंतां ॥ जुषी प्रीतिसेवनयोः । तौदादिकः । अनुदात्तेत् ।
+> लिजि झस्य रनादेशाभावश्चांदसः । बहुलं छंदसीति रुडागमः ॥
+
+##### Gist of the bhāṣya
+
+The All-gods, Indra and the rest, accompanied by rites (धीभिः (*dhībhiḥ*)) and endowed with wisdom (पुरंध्या (*puraṃdhyā*)), are to be worshipped in the sacrifice of man (Manu); they are immortal, knowers of truth, partakers of the oblation offered, coming together facing the sacrifice, and obtainers of all. May they enjoy all our praises, and the great food (ब्रह्म (*brahma*)), the well-spoken hymn (सूक्तं (*sūktaṃ*)); or else the food given together with a well-spoken mantra. जुषेरत (*juṣerata*) means "may they enjoy".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनोः (*manoḥ*)—in man's sacrifice
+- यजत्राः (*yajatrāḥ*)—worthy of worship
+- अमृताः (*amṛtāḥ*)—free from mortality
+- ऋतज्ञाः (*ṛtajñāḥ*)—knowers of truth
+- रातिषाचः (*rātiṣācaḥ*)—partakers of the oblation
+- अभिषाचः (*abhiṣācaḥ*)—those who come together to the sacrifice
+- स्वर्विदः (*svarvidaḥ*)—omniscient
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- धीभिः (*dhībhiḥ*)—endowed with rites
+- पुरंध्या सह (*puraṃdhyā saha*)—endowed with excellent knowledge
+- सूक्तं (*sūktaṃ*)—well recited
+- स्वः गिरः (*svaḥ giraḥ*)—all our praises
+- ब्रह्म (*brahma*)—the oblation
+- जुषेरत (*juṣerata*)—may they enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, worthy of worship in man's sacrifice, immortal, knowers of truth, partakers of the oblation, coming together to the sacrifice, omniscient, endowed with rites and excellent knowledge, enjoy all our well-recited praises and the oblations.
+
+##### English translation
+May the universal gods, accompanied by sacred rites and abundant wisdom, adorable (at the sacrifice) of men, immortal, the knowers of truth,
+
+### Printed p. 534
+waiting on the oblation to be given, arriving together (at the sacrifice) omniscient, graciously accept all our praises and abuudant food with well-suug hymns.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वान्वसि॑ष्ठो अ॒मृता॑न्ववंदे॒ ये विश्वा॒ भुव॑ना॒भि प्र॑त॒स्थुः ॥  
+> ते नो॑ रासंतामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवान् । वसिष्ठः । अमृतान् । ववंदे । ये । विश्वा । भुवना । अभि । प्रतस्थुः ।  
+> ते । नः । रासंतां । उरुगायं । अद्य । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसिष्ठो वसिष्ठकुलजोऽयमृषिरमृतान्मरणरहितान्देवान्ववंदे । एवमस्तावीत् । ये देवा विश्वा विश्वानि भुवनानि लोकानभि प्रतस्थुः स्वतेजसाभिभवंति ।
+> अभितः प्रतिष्ठंतीति वा ॥ प्रपूर्वात्तिष्ठतेर्लिटि रूपं । समासस्वरः ॥ ते देवा अद्यास्मिन्निने नोऽस्मभ्यमुरुगायं प्रभूतयशस्कमन्नं रासंतां । प्रयच्छंतु । हे
+> देवाः यूयं स्वस्तिभिः कल्याणीभिरूतिभिर्नोऽस्मान्सदा सर्वदा पात । रक्षत ॥
+
+##### Gist of the bhāṣya
+
+Vasiṣṭha, this seer born in the Vasiṣṭha family, has praised the immortal gods who pervade all worlds with their own splendour, or who stand all around. प्रतस्थुः (*pratasthuḥ*) is the perfect of the root with the prefix pra. May those gods today give us widely famed food. O gods, protect us always with auspicious aids.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which gods
+- विश्वा भुवना (*viśvā bhuvanā*)—all worlds
+- अभि प्रतस्थुः (*abhi pratasthuḥ*)—those who have pervaded with their splendours
+- अमृतान् (*amṛtān*)—immortal
+- देवान् (*devān*)—gods
+- वसिष्ठः (*vasiṣṭhaḥ*)—this seer born in the Vasiṣṭha line
+- ववंदे (*vavaṃde*)—has saluted with praise
+- ते (*te*)—those same gods
+- अद्य (*adya*)—today
+- नः (*naḥ*)—to us
+- उरुगायं (*urugāyaṃ*)—highly renowned, excellent food
+- रासंतां (*rāsaṃtāṃ*)—may they give
+- यूयं (*yūyaṃ*)—you (O gods)
+- स्वस्तिभिः (*svastibhiḥ*)—with auspicious protections
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+This seer, born in the Vasiṣṭha line, has saluted with praise the immortal gods who pervade all worlds with their splendours. May those same gods today give us most excellent and renowned food. O gods, protect us always with your auspicious protections.
+
+### Printed p. 535
+
+##### English translation
+(Descendant of ) Vasishtha, I have glorified the immortal gods who preside over all worlds : may they this day bestow upon us widely-famed food ; do you always cherish us with blessings.
+
+## Sūkta 66 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवान्हुव इति पंचदशर्चं षष्ठं सूक्तं । ऋष्या द्याः पूर्ववत् । देवान्हुव इत्यनुक्रांतं ॥ पृष्ठाभिप्लवषडहयोः पंचमेऽहनीदं वैश्वदेवनिविद्धानं ।
+> सूत्रितं च । इहेह व इति चतस्रो देवान्हुव इति वैश्वदेवं । आ-७-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning देवान्हुव (*devānhuva*) has fifteen Ṛks and is the sixth hymn. The seer and the rest are as before. The Anukramaṇī says देवान्हुव (*devānhuva*). On the fifth day of the Pṛṣṭhya and Abhiplava ṣaḍahas this is the Vaiśvadeva nivid-dhāna. It is prescribed in the sūtra इहेह व इति चतस्रो देवान्हुव इति वैश्वदेवं । (*iheha va iti catasro devānhuva iti vaiśvadevaṃ |*) (Ā. 7-5).
+
+##### Anuvāda
+
+This hymn, देवान् हुवे (*devān huve*), is the sixth hymn in the fifth Anuvāka. It has fifteen Ṛks. Its seer, deity and metre are the same as for the previous hymn. The Anukramaṇī says देवान् हुवे (*devān huve*). On the fifth day of the sacrifices called Pṛṣṭha and Abhiplava-ṣaḍaha, this hymn is to be recited as the Vaiśvadeva-nivid-dhāna hymn, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra, इहेह व इति चतस्रो देवान् हुव इति वैश्वदेवं (*iheha va iti catasro devān huva iti vaiśvadevaṃ*) (Ā. 7-5).
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 5; Sūkta 66. Aṣṭaka 8; Adhyāya 2; Vargas 12, 13, 14. Number of Ṛks in the hymn: 15.
+Ṛṣi: Vasukarṇa Vāsukra.
+Deity: Viśvedevas.
+Metre: 1–14 Jagatī; 15 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वान्हु॑हे बृ॒हच्छ्र॑वसः स्व॒स्तये॑ ज्योति॒ष्कृतो॑ अध्व॒रस्य॒  ॑
+> प्रचे॑तसः ।  
+> ये वा॑वृ॒धुः प्र॑त॒रं वि॒श्ववे॑दस॒ इंद्र॑जेष्ठासो अ॒मृता॑  ॒॑
+> ऋतावृधः ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
+**Progress note:** Done through printed p. 535. pp. 530-535 (batch API)
