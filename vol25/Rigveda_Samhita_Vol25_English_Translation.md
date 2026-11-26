@@ -9283,6 +9283,205 @@ Formerly the Soma was in the world of the gods. The gods thought that it should 
 
 जगत्युदपतच्चतुर्दशाक्षरा सती साऽप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमिाये-ताग्ं सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगती छंदसां पशव्यतमा तेस्मा-त्रशुमुंतं दीक्षोपसमति त्रिष्टुगुदपतत्त्रयोदशाक्षरा सती साऽप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अनिायेताग्ं सा दक्षिणाभिश्च तपसा चागच्छत्त-स्मात्त्रिष्टुभो लोके माध्यंदिने सवने दक्षिणा नीयंत एतत्फलु वाव तप (*jagatyudapataccaturdaśākṣarā satī sā 'prāpya nyavartata tasyai dve akṣare amiāye-tāgṃ sā paśubhiśca dīkṣayā cāgacchattasmājjagatī chaṃdasāṃ paśavyatamā tesmā-traśumuṃtaṃ dīkṣopasamati triṣṭugudapatattrayodaśākṣarā satī sā 'prāpya nyavartata tasyai dve akṣare aniāyetāgṃ sā dakṣiṇābhiśca tapasā cāgacchatta-smāttriṣṭubho loke mādhyaṃdine savane dakṣiṇā nīyaṃta etatphalu vāva tapa*) **GLOSS**
 
+### Printed p. 230
+
+इत्याहुर्यः स्वं ददातीति गायत्र्युदपतच्चतुरक्षरा सत्यजया ज्योतिषा तमुस्मा अजाभ्यरुंधत तदजाया अजत्वग्ं सा सोमं चाहरच्चत्वारि चाक्षराणि साष्टाक्षरा समुपद्यत (*ityāhuryaḥ svaṃ dadātīti gāyatryudapataccaturakṣarā satyajayā jyotiṣā tamusmā ajābhyaruṃdhata tadajāyā ajatvagṃ sā somaṃ cāharaccatvāri cākṣarāṇi sāṣṭākṣarā samupadyata*) ब्रह्मवादिनो वदंति कस्मात्सत्याद्गायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्य्यैत्तस्मात्तेजस्विनीतमा पद्भ्यां द्वे सवने समुगृह्णान्मुखेनैकं यन्मुखेन समुगृह्णात्तदधयत्तस्माद्द्वेसवने शुक्रवती प्रातःसवनं च माध्यंदिनं च तस्मात्तृतीयसवनं ऋजीष-मभिषुण्वंति धीतमिव हि मन्यंते आतिरमवनयति सशुक्रत्वायाथो संभरत्येवैनत् । (*brahmavādino vadaṃti kasmātsatyādgāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryyaittasmāttejasvinītamā padbhyāṃ dve savane samugṛhṇānmukhenaikaṃ yanmukhena samugṛhṇāttadadhayattasmāddvesavane śukravatī prātaḥsavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtīyasavanaṃ ṛjīṣa-mabhiṣuṇvaṃti dhītamiva hi manyaṃte ātiramavanayati saśukratvāyātho saṃbharatyevainat |*) (Tai. Saṃ. 6-1-6-2, 3, 4, 5)
+
+At that time the Jagatī metre set out, saying that it would bring the Soma, and leapt into the atmosphere. At that time each pāda of the Jagatī metre had fourteen syllables. But it was unable to bring the Soma, and, exhausted and weary, it came back. Then it lost two of its fourteen syllables. But on its way back it brought with it the sacrificial animals that were there and the order of the dīkṣā (the rite of undertaking consecration in a sacrifice). Therefore it became known in the world that the Jagatī metre is rich in animals; and the dīkṣā always follows a sacrificer endowed with wealth of animals. After that the Triṣṭubh metre set out, saying that it would bring the Soma, and leapt into the atmosphere. At that time each pāda of the Triṣṭubh metre had thirteen syllables. The Triṣṭubh metre too could not bring the Soma; it grew weary and limp, lost two of its thirteen syllables and came back. On its way back it brought with it the sacrificial fee and austerity (tapas). Therefore, when a sacrifice is performed, the fees are brought and given (to the priests) at the Mādhyaṃdina savana. The giving away of what one has is called austerity. After that the Gāyatrī metre set out, saying that it would bring the Soma, and flew into the atmosphere in the form of a hawk. At that time each pāda of the Gāyatrī metre had four syllables. When setting out, Gāyatrī took with her, in company, for help, a shining she-goat. **NOTE** This goat helped Gāyatrī when she brought the Soma; therefore the goat became known by the name अजा (*ajā*). After that Gāyatrī brought back the Soma that was in heaven and also the four syllables that the Jagatī and Triṣṭubh metres had lost. The four syllables she had brought back and the four syllables she had before together made eight syllables in each pāda of Gāyatrī (twelve syllables for the Jagatī metre and 11 syllables for the Triṣṭubh metre). Here a doubt arises, as the expounders of the Veda say: although the Gāyatrī metre is much smaller than all the metres, how did it obtain prominence in the sacrifice? The answer is: this Gāyatrī brought the Soma. Therefore Gāyatrī has come to have precedence in sacrificial rites, and it shines with great brilliance.
+
+### Printed p. 231
+
+When this Gāyatrī brought the Soma from heaven, she took the form of the hawk and brought it holding with her two feet (of the three pādas of eight syllables of Gāyatrī, two are said to be the feet and the third the mouth) the two savanas called the Prātaḥsavana and the Mādhyaṃdina savana, and seizing with her mouth (her beak) the third, the Tṛtīyasavana. Since the Prātaḥsavana and the Mādhyaṃdina savana, which were held in the feet, remained unchanged just as they were, in both these savanas the Soma plants are crushed and the shining, pure juice is pressed out. But since it is imagined that, when she brought the Tṛtīyasavana with her beak, she bit the Soma plant a little, pressed out the juice and drank it, at the time of the Tṛtīyasavana new Soma plants are not used: after the juice has been pressed out once in the Prātaḥsavana and the Mādhyaṃdina savana, the juice that remains is pressed out well a second time from the crushed plants that are left over like husks (ṛjīṣa). Since the juice taken out in this way is not abundant, they add admixtures (āśira: milk, curds, flour) to it and make it fit for drinking.
+
+## Sūkta 83 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘देवानाम्' इति नवर्चं तृतीयं सूक्तं काण्वस्य कुसीदिन आर्षं गायत्रं वैश्वदेवम् । तथा चानुक्रम्यते - ' देवानां वैश्वदेवम् ' इति । दशरात्रेऽष्टमेऽहनि वैश्वदेवशस्त्र इदं सूक्तं वैश्वदेवनिविद्धानम् । सूत्रितं च -- देवानामिदव इति वैश्वदेवम् ' ( आश्व. श्रौ. ८. १०) इति ।
+
+##### Gist of the bhāṣya
+
+The third sūkta, of nine Ṛks, beginning देवानाम् (*devānām*), is revealed to Kusīdin of the Kaṇva family; its metre is Gāyatrī and its deity the Viśvedevas. So the Anukramaṇikā says: देवानां वैश्वदेवम् (*devānāṃ vaiśvadevam*). On the eighth day of the Daśarātra, in the Vaiśvadeva śastra, this sūkta is used as the Vaiśvadeva nivid-dhāna. It is stated in the sūtra: देवानामिदव इति वैश्वदेवम् (*devānāmidava iti vaiśvadevam*) (Āśv. Śrau. 8. 10).
+
+The Anuvāda: this sūkta beginning देवानां (*devānāṃ*) is the third sūkta in the ninth Anuvāka. It has nine Ṛks. The seer of this sūkta is the one called Kusīdī, born in the family of Kaṇva; the Viśvedevas are the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: देवानां वैश्व-देवं (*devānāṃ vaiśva-devaṃ*). On the eighth day of the sacrifice called Daśarātra, at the time of reciting the Vaiśvadeva śastra mantras, this sūkta is to be inserted and recited as the Vaiśvadeva nivid-dhāna sūkta; this is explained by the sūtra of the Āśvalāyana Śrautasūtra देवानामिदव इति वैश्वदेवं (*devānāmidava iti vaiśvadevaṃ*) (Ā. 8-10).
+
+### Printed p. 232
+
+Sūkta 83
+
+Maṇḍala 8, Anuvāka 9, Sūkta 83
+
+Aṣṭaka 6, Adhyāya 6, Varga 3, 4
+
+Number of Ṛks in the sūkta: 9
+
+Seer: Kusīdī Kāṇvaḥ
+
+Deity: Viśvedevāḥ
+
+Metre: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वाना॒मिदवो॑ म॒हत्तदा वृ॑णीमहे व॒यम् ।  
+> वृष्णा॑म॒स्मभ्य॑मू॒तये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवानाम् । इत् । अवः । महत् । तत् । आ । वृणीमहे । वयम् ।  
+> वृष्णाम् । अस्मभ्यम् । ऊतये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः देवानां स्वतेजसा सर्वतो दीप्यमानानाम् । इत् एवार्थे । युष्माकमेव महत् व्याप्तं महनीयं वा अवः पालनं यद्विद्यते तत् वृष्णां कामानां वर्षितॄणां युष्माकं स्वभूतं तत् रक्षणं यजमानाः वयम् आ वृणीमहे समंतात्संभजामहे । किमर्थम् । अस्मभ्यमूतये । पूर्वमस्मभ्यमस्मदर्थमिति साधारण्येनोक्त्वा तद्विशिनष्टि ऊतय इति । अस्माकं पालनायेति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the gods, who shine all round with their own radiance. He explains इत् (*it*) as a particle of emphasis ("only"). The great, that is, far-reaching or praiseworthy, protection that is yours alone, belonging to you who are the showerers (वृष्णां (*vṛṣṇāṃ*)) of desires, we the sacrificers solicit on all sides, that is, we seek to share in it. For what purpose? अस्मभ्यमूतये (*asmabhyamūtaye*): having first said अस्मभ्यं (*asmabhyaṃ*) in general ("for us"), he now particularises it by ऊतये (*ūtaye*): for our protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) देवानां (*devānāṃ*)—of you, the gods
+- महत् (*mahat*)—far-reaching (in respect of us)
+- अवः (*avaḥ*)—whatever protection there is
+- वृष्णां (*vṛṣṇāṃ*)—of you, who grant what is desired
+- तत् (*tat*)—that protection
+- वयं (*vayaṃ*)—we, the sacrificers
+- अस्मभ्यं (*asmabhyaṃ*)—our
+- ऊतये (*ūtaye*)—for the protection
+- आ वृणीमहे (*ā vṛṇīmahe*)—pray for
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, you who grant what is desired: we the sacrificers pray and ask of you for that protection of great nature, or protection that extends to all matters, which you wish to give us.
+
+### Printed p. 233
+
+##### English translation
+We solicit that mighty protection of the desire-raining deities in our own behalf, for our own help.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नः॑ संतु॒ युजः॒ सदा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> वृ॒धास॑श्च॒ प्रचे॑तसः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । संतु । युजः । सदा । वरुणः । मित्रः । अर्यमा ।  
+> वृधासः । च । प्रऽचेतसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते देवाः वरुणः शत्रूणां निवारकः मित्रः सर्वेषां मित्रभूतः अर्यमा[१] सततं गच्छन् एतन्नामकास्ते त्रयो देवाः सदा सर्वदा सर्वेषु कालेषु नः अस्माकं युजः सहायाः संतु भवंतु । अग्निहोत्रादिकर्मणि इंद्रादिदेवाः सहागमनादियज्ञपरिसमापनांतेषु साहाय्यं कुर्वंत्वित्यर्थः । ततः प्रचेतसः प्रकृष्टज्ञानाः । यद्वा । चेतः स्तोत्रम् । शोभनस्तुतयः। ते देवाः वृधासः वर्धकाः च अस्माकं धनादिदानेन वर्धयितारश्च संतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the gods to be three: वरुणः (*varuṇaḥ*), the repeller of enemies; मित्रः (*mitraḥ*), the friend of all; and अर्यमा (*aryamā*), "ever going". May these three gods be at all times our युजः (*yujaḥ*), our helpers. The meaning is that in the Agnihotra and other rites Indra and the other gods, from their coming together until the sacrifice is completed, are to give help. Then they are प्रचेतसः (*pracetasaḥ*), of excellent knowledge. Or else (यद्वा (*yadvā*)) चेतः (*cetaḥ*) is a stotra, and the word means "those who have beautiful praises". May those gods be वृधासः (*vṛdhāsaḥ*), increasers, that is, may they make us prosper by giving wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those gods, that is
+- वरुणः (*varuṇaḥ*)—Varuṇa, the repeller of enemies
+- मित्रः (*mitraḥ*)—Mitra, who is beneficial to all like a friend
+- अर्यमा (*aryamā*)—Aryaman, who is always on the move; these three gods
+- सदा (*sadā*)—at all times
+- नः (*naḥ*)—to us
+- युजः (*yujaḥ*)—as helpers
+- संतु (*saṃtu*)—may they be
+- प्रचेतसः (*pracetasaḥ*)—those gods who have excellent knowledge
+- वृधासः (*vṛdhāsaḥ*)—may they be those who bring us prosperity. Or [प्रचेतसः (*pracetasaḥ*)—the excellent praises that we make; वृधासः च (*vṛdhāsaḥ ca*)—may they be the cause of our increase]
+
+### Printed p. 234
+
+##### भावार्थ (Bhāvārtha)
+
+May those gods, that is, Varuṇa, the destroyer of enemies, Mitra, the friend of all, and Aryaman, who is always on the move, these three gods, always be helpers to us. May those gods, who are of excellent knowledge, bring us prosperity.
+
+##### English translation
+May those (deities) Varuna, Mitra, and Aryaman, be ever our allies and supremely wise helpers.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॑ नो विष्पि॒ता पु॒रु नौ॒भिर॒पो न प॑र्षथ ।  
+> यू॒यमृ॒तस्य॑ रथ्यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । नः । विष्पिता । पुरु । नौभिः । अपः । न । पर्षथ ।  
+> यूयम् । ऋतस्य । रथ्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य सत्यस्य यज्ञस्य वा हे रथ्यः नेतारो देवाः। यद्वा । ऋतस्येति संबंधि--- त्वात्कर्ताक्षिप्यते । यज्ञस्य साधका हे रथ्यो रथवंतो देवाः विष्पिता विष्पितानि विप्राप्तानि विततानि पुरु । सुपो लुक् । पुरूणि बहूनि शत्रुबलानि कर्माणि वा नः अस्मान् अति पर्षथ पारं समाप्तिं रक्षणैर्गमयत । तत्र दृष्टांतः। नौभिरपो न । यथा नाविकोऽप उदकानि नौभिर्जनास्तीरं प्रति प्रापयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the gods as रथ्यः (*rathyaḥ*), leaders (charioteers) of ऋतस्य (*ṛtasya*), truth or sacrifice. Or else (यद्वा (*yadvā*)), ऋतस्य (*ṛtasya*) is a word of relation, and the agent is implied: O gods who accomplish the sacrifice, you who have chariots. The विष्पिता (*viṣpitā*), the widespread and many (पुरु (*puru*)) hostile forces or actions, take us across (अति पर्षथ (*ati parṣatha*)), bring us by your protections to the other shore, to completion. **NOTE**. The illustration is नौभिरपो न (*naubhirapo na*): as a boatman brings people across the waters to the shore in boats.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of truth or of the sacrifice
+- रथ्यः (*rathyaḥ*)—O gods, who are leaders. [Or ऋतस्य (*ṛtasya*)—who are the means of the sacrifice; रथ्यः (*rathyaḥ*)—O gods, who travel in chariots]
+- यूयं (*yūyaṃ*)—you
+- अपः (*apaḥ*)—deep water
+- नौभिः न (*naubhiḥ na*)—as one crosses with boats
+- विष्पिता (*viṣpitā*)—spread all around
+- पुरु (*puru*)—from the midst of the numerous enemies, or from evil deeds
+- नः (*naḥ*)—us
+- अति पर्षथ (*ati parṣatha*)—take across
+
+### Printed p. 235
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, guides of the sacrifice and travellers in chariots: as one is taken across deep water with boats, so take us across the enemies, or the evil deeds, that surround us.
+
+##### English translation
+Charioteers of the sacrifice, you conduct us through the many wide-spread (forces of our enemies) as in ships across the waters.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒मं नो॑ अस्त्वर्यमन्वा॒मं व॑रुण॒ शंस्य॑म् ।  
+> वा॒मं ह्या॑वृणी॒महे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वामम् । नः । अस्तु । अर्यमन् । वामम् । वरुण । शंस्यम् ।  
+> वामम् । हि । आऽवृणीमहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अर्यमन् देव वामं वननीयं संभजनीयं धनं नः अस्माकम् अस्तु भवतु । हे वरुण शंस्यं सर्वं शंसनीयं स्तुत्य वामं धनमस्माकमस्तु । कुतः । हिशब्दो हेतौ । यस्मात्कारणाद्वयं वामं धनं युष्मान् आवृणीमहे याचामह इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Aryaman: may desirable wealth, वामं (*vāmaṃ*), that is, wealth fit to be shared, be ours. Addressing Varuṇa: may all praiseworthy (शंस्यं (*śaṃsyaṃ*)) desirable wealth be ours. Why? The word हि (*hi*) is used in the sense of a reason: because we solicit from you desirable wealth, that is, we ask it of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अर्यमन् (*he aryaman*)—O god Aryaman
+- वामं (*vāmaṃ*)—wealth desired by all
+- नः (*naḥ*)—to us
+- अस्तु (*astu*)—may it be
+- हे वरुण (*he varuṇa*)—O god Varuṇa
+- शंस्यं (*śaṃsyaṃ*)—excellent or praiseworthy
+- वामं (*vāmaṃ*)—may wealth be ours
+- हि (*hi*)—because (we)
+- वामं (*vāmaṃ*)—wealth
+- आवृणीमहे (*āvṛṇīmahe*)—ask of you
+
+##### भावार्थ (Bhāvārtha)
+
+O god Aryaman, may wealth that all desire be ours. O Varuṇa, may excellent wealth also be ours. For we pray to you that you give us wealth.
+
 ---
 
-**Progress note:** Done through printed p. 229. Sūkta 82 Ṛk 5-9, pp. 224-229
+**Progress note:** Done through printed p. 235. Sūkta 82 end, Sūkta 83 Ṛk 1-4, pp. 230-235
