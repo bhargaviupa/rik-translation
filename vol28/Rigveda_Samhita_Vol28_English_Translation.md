@@ -6388,6 +6388,231 @@ I travel around, as the sun, borne by the swift, Etaśa-coloured horses of the g
 - सूर्यस्य (*sūryasya*)—of the god Sūrya
 - आशुभिः (*āśubhiḥ*)—swift-going
 
+### Printed p. 206
+Pratipadārtha (continued from the previous page)
+- एतशेभिः (*etaśebhiḥ*)—by horses of the Etaśa colour
+- वहमानः (*vahamānaḥ*)—being carried
+- ओजसा (*ojasā*)—by my own power
+- परि यामि (*pari yāmi*)—I go (to the sacrificial ground) in the form of the Sun (and then)
+- कृत्त्वं (*kṛttvaṃ*)—my duty
+- दासं (*dāsaṃ*)—the work of slaying enemies
+- हथैः (*hathaiḥ*)—with weapons, the instruments of slaying
+- युद्धक् कृषे (*yuddhak kṛṣe*)—I perform separately (principally)
+
+##### भावार्थ (Bhāvārtha)
+
+When, in the sacrifice that men perform, the act of pressing the Soma juice calls me, that is, when the sacrificers who perform the sacrifice press and prepare the Soma juice and, praying to me, invoke me to drink the Soma, then, to carry out their sacrifice, I am borne by the swift horses of the Sun, of the Etaśa colour, and go to their sacrificial ground in the form of the Sun by my own strength and power. And then I principally accomplish my proper task, the slaying of enemies, with the thunderbolt and other weapons that are instruments of slaying.
+
+##### English translation
+Conveyed by the swift white horses of Surya, I hasten forth by my power; when the effused libation of a man invokes me to the brilliant form of the sacrifice, I drive off with my weapons the destroyer who is to be slain.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं स॑प्त॒हा नहु॑षो॒ नहु॑ष्टरः॒ प्राश्रा॑वयं॒ शव॑सा तु॒र्वशं॒  ॑
+> यदुं ।  
+> अ॒हं न्य१॒॑गन्यं सह॑सा॒ सह॑स्करं॒ नव॒ प्राध॑तो नव॒तिं च॑ वक्षयं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । सप्तहा । नहुषः । नहुःतरः । प्र । अश्रवयं । शवसा । तुर्वशं । यदुं ॥  
+> अहं । नि । अन्यं । सहसा । सहः । करं । नव । प्राधतः । नवतिं । च । वक्षयं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं सप्तसंख्याकानां पुरां शत्रूणां ना हंता । सप्त यत्पुरः शर्म
+> शारदीः । ऋ-१-१७४-२ । इत्युक्तं । यद्वा । सप्त नमुच्यादीन् हतवान् । किंच
+
+##### Gist of the bhāṣya
+
+"I" am the slayer of the seven enemy cities. Sāyaṇa cites सप्त यत्पुरः शर्म शारदीः (*sapta yatpuraḥ śarma śāradīḥ*) (Ṛ. Saṃ. 1-174-2) as saying this. Or else: I have slain seven, Namuci and the others. And further:
+
+### Printed p. 207
+
+> नहुषो बंधकस्यापि नहुष्टरो बंधकतरोऽहं शवसा बलेन तुर्वशं यदुं च
+> प्राश्रावयं । शत्रुसंबंधिगवादिप्रदानेन श्रावितवानस्मि । तौ यथा लोके श्रुतौ
+> भवतः तथाकार्षमित्यर्थः । किंचाहमन्यं चास्मत्सोतारं सहसा बलेन सहो
+> बलिनं करं । अकार्ष० ॥ करोतेर्लुजि कृमृद्यरुहीति चेरज् । अडभाव आर्षः ॥
+> किंच नव नवसंख्याका नवतिं च नवतिसंख्याकाश्च । नवोत्तरनवतिमित्यर्थः । कथंभूताः । व्राधतो वर्धमानाः । वक्षयं । अवहं । व्यनाशयमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+I am a binder even of the binder, a still greater binder. By my strength I made Turvaśa and Yadu renowned, by giving them the cattle and the like of their enemies; I made them as famous as men in the world are famous. Further, I made another, a worshipper who presses Soma for us, strong by my power (सहः (*sahaḥ*) meaning strong). करं (*karaṃ*) is "I made". Nine, and ninety, that is ninety-nine, growing powerful (foes), I destroyed; वक्षयं (*vakṣayaṃ*) means "I destroyed".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- सप्तहा (*saptahā*)—destroyer of seven enemy cities, or slayer of seven Asuras such as Namuci
+- नहुषः (*nahuṣaḥ*)—to binding
+- नहुष्टरः (*nahuṣṭaraḥ*)—the binder
+- शवसा (*śavasā*)—by my strength and power
+- तुर्वशं (*turvaśaṃ*)—Turvaśa
+- यदुं च (*yaduṃ ca*)—and Yadu
+- प्राश्रावयं (*prāśrāvayaṃ*)—I (we) have made famous (by giving the cattle of enemies)
+- अहं (*ahaṃ*)—I
+- अन्यं (*anyaṃ*)—another who praises me
+- सहसा (*sahasā*)—by my power
+- सहः (*sahaḥ*)—strong
+- करं (*karaṃ*)—I have made (and)
+- नव नवतिं च (*nava navatiṃ ca*)—nine and ninety
+- व्राधतः (*vrādhataḥ*)—powerful enemies
+- वक्षयं (*vakṣayaṃ*)—I have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+I am the slayer of the seven enemy cities, or of seven Asuras such as Namuci. Even for binding I am the binder. By my strength and power I have made the two, Turvaśa and Yadu, famous. I have made the one who praises me strong by my power. I have destroyed ninety-nine exceedingly powerful enemies.
+
+##### English translation
+I am the slayer of seven (Asuras) : I am the especial bond of bonds : I have made Turvasha and Yadu famous through prowess : I have strengthened another (worshipper) with strength : I have demolished ninety-and-nine powerful (foes).
+
+##### विशेषविषयगळु (Special Topics)
+
+Turvaśa and Yadu: wherever the names of these two persons occur, it is understood that both were royal sages and recipients of the favour of Indra and others.
+अग्निना तुर्वशं यदुं परावत उग्रादेवं हवामहे । (*agninā turvaśaṃ yaduṃ parāvata ugrādevaṃ havāmahe |*) (Ṛ. Saṃ. 1-36-18)
+
+### Printed p. 208
+त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो । (*tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |*) (Ṛ. Saṃ. 1-54-6)
+In these and similar Ṛks the two royal sages are said to have received the protection of Agni and Indra.
+The chief exploit of Turvaśa was the war with Sudāsa.
+पुरोळा इत्तुर्वशो यक्षुरासीद्राये मत्स्यासो निशिता अपीव । श्रुष्टिं चक्रुर्भगवो द्रुह्यवश्च सखा सखायमतरद्विषूचोः ॥ (*puroḷā itturvaśo yakṣurāsīdrāye matsyāso niśitā apīva | śruṣṭiṃ cakrurbhagavo druhyavaśca sakhā sakhāyamataradviṣūcoḥ ‖*) (Ṛ. Saṃ. 7-18-6)
+In this Ṛk there is a description of Turvaśa's war. But whether Turvaśa here received help from Indra or was defeated is not clear. Sāyaṇa has given both kinds of meaning. First: when Turvaśa went to war with Sudāsa, Indra's friend, Indra subdued Turvaśa and protected his friend; second: when war broke out between Turvaśa and his enemies, Indra helped his friend Turvaśa. Therefore the purport of this Ṛk is not clear. Similarly, that both Yadu and Turvaśa were defeated by Indra is stated in the Ṛk:
+पुरः सद्य इत्थाधिये दिवोदासाय शंबरं । अध त्यं तुर्वशं यदुं ॥ (*puraḥ sadya itthādhiye divodāsāya śaṃbaraṃ | adha tyaṃ turvaśaṃ yaduṃ ‖*) (Ṛ. Saṃ. 9-61-2)
+From this it appears that Indra subdued Yadu and Turvaśa for the sake of his friend Divodāsa. But:
+प्रयत्नमुद्रमति शूर पर्षि पारया शुर्वशं यदुं स्वस्ति । (*prayatnamudramati śūra parṣi pārayā śurvaśaṃ yaduṃ svasti |*) (Ṛ. Saṃ. 1-174-9)
+उत त्वा शुर्वशायदू अस्नातारा शचीपतिः । इंद्रो विद्वा अवारयत् ॥ (*uta tvā śurvaśāyadū asnātārā śacīpatiḥ | iṃdro vidvā avārayat ‖*) (Ṛ. Saṃ. 4-30-17)
+त्वमपो यदने तुर्वशायारमयः सुदुघाः पार इंद्र । (*tvamapo yadane turvaśāyāramayaḥ sudughāḥ pāra iṃdra |*) (Ṛ. Saṃ. 5-31-8)
+महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुं । (*mahatte vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yaduṃ |*) (Ṛ. Saṃ. 8-4-7)
+In these and many other Ṛks, the fact that Yadu and Turvaśa received help from Indra is stated.
+
+### Printed p. 209
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं स॒प्त स्र॒वतो॑ धारयं॒ वृषा॑ द्रवि॒त्त्वः॑ पृथि॒व्यां सी॒रा  ॑
+> अधि ।  
+> अ॒हमर्णां॑सि॒ वि ति॑रामि सु॒क्रतु॑र्यु॒धा वि॑दं॒ मन॑वे गा॒तुमि॒ष्टये॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । सप्त । स्रवतः । धारयं । वृषा । द्रवित्त्वः।पृथिव्यां । सीराः । अधि ।  
+> अहं । अर्णांसि । वि । तिरामि । सुक्रतुः । युधा । विदं। मनवे । गातुं । इष्टये॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा वर्षकोऽहं सप्त स्रवतः स्रवंतीर्नदीर्धारयं । आधारयं ।
+> कीदृश्यस्ताः । द्रवित्नो द्रवंतीः ॥ वा छंदसीति पूर्वसवर्णदीर्घाभावः ॥ सीराः
+> सरणशीलाः । कुत्र । पृथिव्यां । सुक्रतुः शोभनकर्माहमर्णांस्युदकानि वि तिरामि ।
+> प्रयच्छामि । किंच मनवे मनुष्यायेष्टये तस्य गमनाय गातुं मार्गं युधा
+> संप्रहारेण । निरोधपरिहारेणेत्यर्थः । विदं । अलभं । प्रायच्छमित्यर्थः ॥
+> विदेर्लाभार्थस्य पुषादित्वात् । पा । ३-१-५५ । चेरज् ॥
+
+##### Gist of the bhāṣya
+
+I, the showerer, sustain the seven flowing rivers; द्रवित्नो (*dravitno*) means "running", and the lack of lengthening is by the rule वा छंदसीति (*vā chaṃdasīti*). सीराः (*sīrāḥ*) means "moving". Where? On the earth. I, of good deeds, spread out the waters, I give them. Further, for Manu, man, for his going, I found a path युधा (*yudhā*), by battle, that is, by removing obstruction; विदं (*vidaṃ*) means "I obtained", "I gave". Pāṇini's sūtra (Pā. 3-1-55) and चेरज् (*ceraj*) are cited.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—giver of desired things
+- अहं (*ahaṃ*)—I (Indra)
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- द्रवित्त्वः (*dravittvaḥ*)—swiftly flowing
+- सीराः (*sīrāḥ*)—moving
+- स्रवतः (*sravataḥ*)—of flowing rivers
+- धारयं (*dhārayaṃ*)—I am the supporter
+- सुक्रतुः (*sukratuḥ*)—performer of excellent valorous deeds
+- अहं (*ahaṃ*)—I
+- अर्णांसि (*arṇāṃsi*)—waters of rain
+- वि तिरामि (*vi tirāmi*)—I bestow (on the people)
+- मनवे (*manave*)—for men
+- इष्टये (*iṣṭaye*)—for travelling
+- गातुं (*gātuṃ*)—the path
+- युधा (*yudhā*)—by removing obstacles
+- विदं (*vidaṃ*)—I make easy
+
+##### भावार्थ (Bhāvārtha)
+
+I, the giver of desired things (Indra), am the supporter and nourisher of the rivers that flow swiftly over the earth and move forward. I, who perform many excellent valorous deeds,
+
+### Printed p. 210
+bestow waters on the people by means of rain. I make the path for men to travel free of obstacles and the like, and easy.
+
+##### English translation
+The showerer (of rain), I supported the sevan rivers flowing and meandering over the earth : doer of good deeds, I spread out the waters : I found by war a path for man to go in.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं तदा॑सु धारयं॒ यदा॑सु॒ न दे॒वश्च॒न त्वष्टाधा॑रय॒द्रुश॑त् ।  
+> स्वा॒ह्यं गवा॒मूधः॑सु व॒क्षणा॒स्वा मधो॒र्मधु॒ श्वात्र्यं॒  
+> सोम॑मा॒शिरं॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आहं । तत् । आसु । धारयं । यत् । आसु । न । देवः । चन । त्वष्टा । आधारयत् ।  
+> रुशत् ।  
+> स्पार्हं । हवां । ऊधःसु । वक्षणासु । अ । मधोः । मधु । श्वात्र्यं । सोमं ।  
+> आशिरं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं तत्प्रसिद्धं पय आसु गोषु धारयं । धृतवानस्मि । धृञ् धारणे ।
+> ण्यंतस्य लज रूपं ॥ यत्पय आसु गोषु देवश्चन त्वष्टा देवतिल्पी सूर्यो वा
+> देवो न चनाधारयत् धर्तुं नाशक्कोत् । कीदृक् पयोऽधारयमिति चेत्
+> उच्यते 1 रुशद्दीप्तं स्वाह्यं स्पृहणीयं । केषु प्रदेशेश्विति उच्यते । गवामूधःसु उद्दततरेषु गवां पयोधारणप्रदेशेषु । किंच मधूदकं वक्षणासु
+> नदीनामैतत् । वहनशीलासु नदीषु धारयामीत्यनुषज्यते । नद्युदकधारणस्यावधिरुच्यते । आ मधोरोदकोत्पत्तेः । आगामिवर्षसमयपर्यंतमित्यर्थः । कीदृशं
+> मध्विति तदुच्यते । श्वात्रं । श्वात्रमिति क्षिप्रनाम । क्षिप्रगमनार्हं । यद्वा । श्यात्रमित्युत्तरत्र संबध्यते । श्वात्रं सुखावहं सोमं प्रत्याशिरं धारयं ॥
+
+##### Gist of the bhāṣya
+
+I have held that well-known milk in these cows. No god, not even Tvaṣṭā, the divine craftsman, or else the Sun, was able to hold the milk that is in these cows. If it is asked what kind of milk I held, it is said: रुशत् (*ruśat*), shining; स्पार्हं (*spārhaṃ*), desirable. In what places? In the udders of cows, the places that hold the cows' milk. Further, मधु (*madhu*), water, in वक्षणासु (*vakṣaṇāsu*), which is a name of rivers: I hold it in the flowing rivers, the verb being carried over. The limit of holding the river water is stated: आ मधोः (*ā madhoḥ*), until the origin of water, that is, up to the time of the coming rains. As to what kind of water: श्वात्रं (*śvātraṃ*); श्वात्र (*śvātra*) is a name for "swift", fit for swift movement. Or else श्वात्र (*śvātra*) is connected with what follows: I hold the pleasant Soma, the आशिरं (*āśiraṃ*) (mixing with milk).
+
+### Printed p. 211
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which milk
+- आसु (*āsu*)—in cows
+- देवश्चन (*devaścana*)—any other god
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭā, the divine craftsman, or the Sun
+- न चन आधारयत् (*na cana ādhārayat*)—was not able to fill; that
+- रुशत् (*ruśat*)—shining (excellent)
+- स्पार्हं (*spārhaṃ*)—desired by all
+- तत् (*tat*)—that milk
+- आसु (*āsu*)—in those cows, that is
+- गवां ऊधस्सु (*gavāṃ ūdhassu*)—in their udders
+- अहं (*ahaṃ*)—I
+- धारयं (*dhārayaṃ*)—have filled
+- वक्षणासु (*vakṣaṇāsu*)—in flowing rivers
+- आ मधोः (*ā madhoḥ*)—from the region of their origin, or until rain falls, in summer
+- श्वात्र्यं (*śvātryaṃ*)—swiftly flowing
+- मधु (*madhu*)—water, or
+- (श्वात्र्यं (*śvātryaṃ*)—giving happiness
+- सोमं (*somaṃ*)—Soma juice)
+- आशिरं (*āśiraṃ*)—I have filled
+
+##### भावार्थ (Bhāvārtha)
+
+Neither Tvaṣṭā, the divine craftsman, nor the Sun, nor any other deity could fill the udders of cows with the pure milk desired by all; I, Indra, have filled it in those cows, and in the flowing rivers I have filled sweet water even in the summer season, and in the Soma plants the Soma juice that brings happiness to people.
+
+##### English translation
+I have kept up in them that which no deity, not even Twashtri, has maintained, bright, desirable, (contained) in the udders of the cows : in the rivers (I uphold) the water up to the (source of the) water, the delightful Soma and the milk and curds.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा दे॒वा इंद्रो॑ विव्ये॒ न्हान् प्र च्यौ॒त्नेन॑ म॒घवा॑ स॒त्यरा॑धाः।  
+> विश्वेत्ता ते॑ हरिवः शचीवो॒ऽभि तु॒रासः॑ स्वयशो गृणंति ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । देवान् । इंद्रः । विव्ये । नृन् । प्र । च्यात्नेन । मघवा । सत्यराधाः ।  
+> विश्वा । इत् । ता । ते । हरिर्वः । शचीवः । अभि । तुरासः । स्वयशः । गृणंति ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 205. pp. 200-205 (batch API; answer re-sent directly)
+**Progress note:** Done through printed p. 211. pp. 206-211 (batch API)
