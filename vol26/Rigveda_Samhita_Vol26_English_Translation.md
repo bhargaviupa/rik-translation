@@ -15178,6 +15178,219 @@ Pavamāna, being solicited for the water that brings welfare, has separated and 
 ##### English translation
 He being solicited for auspicious ambrosia opens both heaven and earth by his intelligence ; he covers the lustrous waters with his greatness, when (the priests) with the oblation recognize the station of the radiant (Soma).
 
+### Printed p. 406
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते अ॑स्य संतु के॒तवोऽमृ॑त्य॒वोऽदा॑भ्यासो ज॒नुषी॑ उ॒भे अनु॑ ।  
+> येभि॑र्नृ॒म्णा च॑ दे॒व्या॑ च पुन॒त आदिद्राजा॑नं म॒नना॑ अगृभ्णत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । अस्य । संतु । केतवः । अमृत्यवः । अदाभ्यासः । जनुषी इति । उभे इति । अनु ।  
+> येभिः । नृम्णा । च । देव्या । च । पुनते । आत् । इत् । राजानम् । मननाः । अगृभ्णत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य एतादृशस्य सोमस्य केतवः प्रज्ञापकाः सर्वैश्चायनीयाः अमृत्यवः मरणधर्मरहिता अत एव अदाभ्यासः । दभेश्चेति वक्तव्यम्' (पा. सू. ३. १. १२४. ३) इति ण्यत् । परैरहिंस्याः ते तादृशाः अस्य रश्मयः उभे जनुषी जन्मनी स्थावरजंगमात्मके द्वे अनु लक्षीकृत्य संतु रक्षंतु । ओषधीनामयं सोमो रेतो निषिंचति यज्ञे मनुष्याणां च धाराः स्रवंति खलु । सोऽयं येभिः यैः केतुभिः नृम्णा नृम्णानि बलानि देव्या देवार्हाणि च अन्नानि पुनते प्रेरयति आदित् अभिषवानंतरमेव राजानं सोमं मननाः मननीयाः स्तुतयः अगृभ्णत परिगृह्णंति । प्राप्नुवंतीत्यर्थः । ‘ हृग्रहोः' इति भकारः ॥
+
+##### Gist of the bhāṣya
+
+The rays of this Soma are indicators (that make him known), to be gathered by all, free from the nature of death, and therefore not to be harmed by others. Those rays of his, looking to both births, the moving and the unmoving, are to protect them. This Soma sprinkles the seed of the plants, and at the sacrifice streams flow for men. By which rays he stimulates strengths and food fit for the gods, thereupon, immediately after the pressing, praises worthy of reflection take hold of Soma the king, that is, reach him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Soma deva
+- येभिः (*yebhiḥ*)—by which rays
+- सः (*saḥ*)—(Soma)
+- नैम्याच (*naimyāca*)—strength for men **NOTE**
+- देव्या च (*devyā ca*)—and the foods connected with the gods
+- पुनते (*punate*)—such as he stimulates
+- केतवः (*ketavaḥ*)—indicators of the world
+- अमृत्यवः (*amṛtyavaḥ*)—free from the nature of death
+- अदाभ्यासः (*adābhyāsaḥ*)—free from injury, such
+- ते (*te*)—the rays
+- उभे जनुषी अनु (*ubhe januṣī anu*)—for the protection of the two principles, the unmoving and the moving
+- संतु (*saṃtu*)—let them be
+- आदित् (*ādit*)—only after being pressed
+- राजानं (*rājānaṃ*)—this Soma deva, who is the lord
+- मननाः (*mananāḥ*)—praises of the nature of meditation
+- अगृच्छत (*agṛcchata*)—take refuge in **NOTE**
+
+### Printed p. 407
+
+##### भावार्थ (Bhāvārtha)
+
+By whichever rays Soma stimulates strength for men and the foods connected with the gods, may such rays, indicators of the world, free from the nature of death and free from injury, be for the protection of the two principles, the unmoving and the moving. Only after the pressing do the praises, of the nature of meditation, take refuge in Soma the lord.
+
+##### English translation
+May those his immortal, inviolable rays protect both classes of beings, wherewith he stimulates human (strength) and divine (food); thereupon praises reach the royal (Soma).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मृ॒ज्यमा॑नो द॒शभिः॑ सु॒कर्म॑भिः॒ प्र म॑ध्य॒मासु॑ मा॒तृषु॑ प्र॒मे सचा॑ ।  
+> व्र॒तानि॑ पा॒नो अ॒मृत॑स्य॒ चारु॑ण उ॒भे नृ॒चक्षा॒ अनु॑ पश्यते॒ विशौ॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मृज्यमानः । दशऽभिः । सुकर्मऽभिः । प्र । मध्यमासु । मातृषु । प्रऽमे । सचा ।  
+> व्रतानि । पानः । अमृतस्य । चारुणः । उभे इति । नृऽचक्षाः । अनु । पश्यते । विशौ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः पवमानः सुकर्मभिः शोभनकर्मयुक्ताभिः दशभिः दशसंख्याकाभिरंगुलीभिः मृज्यमानः सः सचा ‘अग्नौ  प्रास्ताहुतिः' इत्यादिक्रमेणापां सहायः प्रमे लोकान् प्रमातुं मध्यमासु अंतरिक्षस्थितासु अवतिष्ठते ॥ प्रमे । प्रपूर्वान्मातेः क्विपि ङयि ‘आतः' इति योगविभागादाकारलोपः ॥ किंच नृचक्षाः नृणां द्रष्टा पवमानः चारुणः कल्याणस्य अमृतस्य उदकस्य वृष्ट्यर्थं व्रतानि यागादिकर्माणि पानः रक्षन् उभे विशौ मनुष्यान् देवांश्चांतरिक्षेण गच्छन् अनु पश्यते अनुपश्यति । मनुष्यानभिमतदानेन देवान् हविष्प्रदानेनेति ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna, cleansed by the ten fingers, which are endowed with good work, and as the companion of the waters in the order that begins with the words प्रास्ताहुतिः (*prāstāhutiḥ*), stands in the middle ones, those situated in the atmosphere, in order to measure the worlds. Further, Pavamāna, the beholder of men, protecting the sacrificial rites such as the yāga for the sake of the auspicious ambrosia, that is, water (rain), goes through the atmosphere and looks after both races, men and gods: men by granting their desires, gods by giving them oblations.
+
+### Printed p. 408
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Pavamāna
+- सुकर्मभिः (*sukarmabhiḥ*)—endowed with excellent work
+- दशभिः (*daśabhiḥ*)—by the ten fingers
+- मृज्यमानः (*mṛjyamānaḥ*)—being cleansed
+- सचा (*sacā*)—joined with the Vasatīvarī waters and others
+- प्रमे (*prame*)—to know the measures of the worlds
+- मध्यमासु (*madhyamāsu*)—he stands in the atmosphere
+- नृचक्षाः (*nṛcakṣāḥ*)—Pavamāna, who observes the works of men
+- चारुणः (*cāruṇaḥ*)—of the nature of welfare
+- अमृतस्य (*amṛtasya*)—for the sake of the rain-water
+- व्रतानि (*vratāni*)—the rites such as the yāga
+- पानः (*pānaḥ*)—protecting
+- विशौ (*viśau*)—all, gods, men and the rest
+- अनु पश्यति (*anu paśyati*)—he looks upon **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Pavamāna, cleansed by the ten fingers endowed with excellent work and joined with the Vasatīvarī waters and others, stands in the atmosphere to know the measures of the worlds. Pavamāna, who observes the works of men, protecting the sacrificial rites for the sake of the auspicious rain-water, looks upon all, gods, men and the rest.
+
+##### English translation
+Cleansed by the ten well-working (fingers), the companion (of the waters) stands amongst the midmost mothers to measure (the worlds); the beholder of men protecting sacred rites (for the sake) of auspicious ambrosia looks after both races.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॑र्मृजा॒न इं॑द्रि॒याय॒ धाय॑स॒ ओभे अं॒ता रोद॑सी हर्षते हि॒तः ।  
+> वृषा॒ शुष्मे॑ण बाधते॒ वि दु॑र्म॒तीरा॒देदि॑शानः शर्य॒हेव॑ शु॒रुधः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मर्मृजानः । इंद्रियाय । धायसे । आ । उभे इति । अंतरिति । रोदसी इति । हर्षते । हितः ।  
+> वृषा । शुष्मेण । बाधते । वि । दुःऽमतीः । आदेदिशानः । शर्यहाऽइव । शुरुधः ॥ ५ ॥
+
+### Printed p. 409
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्मृजानः पवित्रेण मृज्यमानः सः पवमानः धायसे जगतो धारकाय इंद्रियाय इंद्रस्य पर्याप्ताय बलाय तदर्थम् उभे रोदसी। ‘ कालाध्वनोः' इति द्वितीया । उभयोः द्यावापृथिव्योः अंतः हितः मध्ये वर्तमानः सन् आ हर्षते सर्वतो गच्छति । इंद्रस्य हि सोमेन बलं भवति । वृषा कामानामुदकानां वा वर्षकः सोऽयं शुष्मेण शोषकेण बलेन दुर्मतीः दुष्टबुद्धीनसुरान् वि बाधते विशेषेण पीडयति । किं कुर्वन् । शुरुधः । शुचा रुंधंति परानिति । पृषोदरादिः । दुःखकारिणोऽसुरान् आदेदिशानः पुनःपुनराह्वयन् हंति । तत्र दृष्टांतः। शर्यहेव । हननसाधनैः इषुभिर्हंता वीरः प्रतिभटान् यथा हिनस्ति तद्वत् ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna, cleansed with the filter, for the sake of Indra's sufficient strength, which supports the world, goes about everywhere, stationed in the middle of both worlds, heaven and earth; for Indra's strength comes by Soma. The showerer of desires, or of waters, afflicts severely, by his parching strength, the evil-minded Asuras. Doing what? Challenging again and again the Asuras who cause grief, he slays them. The illustration is "like an archer": as a hero, with arrows, the means of slaying, strikes the opposing warriors, so he does.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्मृजानः (*marmṛjānaḥ*)—having obtained purity
+- सः (*saḥ*)—Pavamāna
+- धायसे (*dhāyase*)—who supports the world
+- इंद्रियाय (*iṃdriyāya*)—for the increase of Indra's strength
+- उभे रोदसी अंतः (*ubhe rodasī aṃtaḥ*)—in both, heaven and earth
+- हितः (*hitaḥ*)—being stationed
+- आ हर्षते (*ā harṣate*)—moves about everywhere
+- वृषा (*vṛṣā*)—Soma, the showerer of desires
+- शरृहेव (*śarṛheva*)—like a bearer of the bow **NOTE**
+- शुरुधः (*śurudhaḥ*)—the Asuras who cause grief
+- आदेदिशानः (*ādediśānaḥ*)—confronting again and again
+- शुष्मेण (*śuṣmeṇa*)—by his strength
+- दुर्मतीः (*durmatīḥ*)—the Asuras of evil mind
+- वि बाधते (*vi bādhate*)—he afflicts and destroys
+
+##### भावार्थ (Bhāvārtha)
+
+Pavamāna, having obtained purity, is stationed, for the increase of the strength of Indra who supports the world, in the region that includes both heaven and earth, and moves about everywhere. Soma, the showerer of desires, like a bearer of the bow, confronting again and again the Asuras who cause grief, afflicts and destroys those of evil mind.
+
+##### English translation
+Being filtered for Indra's world supporting strength, stationed in the midst of both worlds he goes (everywhere); the showerer destroys the evil-minded by his vigour, challenging the Asuras like an archer.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मा॒तरा॒ न ददृ॑शान उ॒स्रियो॒ नान॑ददेति म॒रुता॑मिव स्व॒नः ।  
+> जा॒नन्नृ॒तं प्र॑थ॒मं यत्स्व॑र्णरं॒ प्रश॑स्तये॒ कम॑वृणीत सु॒क्रतुः॑ ॥ ६ ॥
+
+### Printed p. 410
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मातरा । न । ददृशानः । उस्रियः । नानदत् । एति । मरुताम्ऽइव । स्वनः ।  
+> जानन् । ऋतम् । प्रथमम् । यत् । स्वःऽनरम् । प्रऽशस्तये । कम् । अवृणीत । सुऽक्रतुः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः पवमानः मातरा मातरौ द्यावापृथिव्यौ ददृशानः पुनःपुनः पश्यन् ततः नानदत् भृशं शब्दं कुर्वन् एति सर्वत्र गच्छति । तत्र दृष्टांतः । उस्रियः न । उस्रियेति गोनाम । तस्य स्वभूतो वत्सो यथा मातरं गां पश्यन् शब्दं करोति तद्वत् । किंच मरुतामिव । यथा मरुतां गणः स्वनः । पचाद्यजंतः । स्वनं कुर्वन् सर्वतो गच्छति तद्वत् । यत् उदकं स्वर्णरम् । स्वरिति सर्वपर्यायः । सर्वमनुष्यहितं भवति । सर्वे हि मनुष्या उदके संगच्छंते तत्कार्यत्वात् । तादृशं प्रथमं मुख्यम् ऋतम् उदकं जानन् विद्वान् सुक्रतुः शोभनकर्मा सुप्रज्ञो वा स पवमानः प्रशस्तये प्रशंसनायात्मस्तोत्रकरणाय कं मनुष्यम् अवृणीत समभजत । नान्यमस्मद्व्यतिरिक्तमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna, beholding again and again the two mothers, heaven and earth, goes everywhere uttering a loud sound. The illustration: उस्रियः (*usriyaḥ*) is a name of a cow; as her own calf, seeing its mother, the cow, makes a sound, so he does. Further, as the host of the Maruts goes everywhere making a sound, so he does. The water is स्वर्णरं (*svarṇaraṃ*): स्वः (*svaḥ*) is a synonym of "all", and the water is beneficial to all men, since all men are joined in water, being its effect. Knowing that first, chief water (ṛta), the wise Pavamāna, of good works or of good understanding, chose some man for his praise, for the making of his own eulogy; the meaning is that he chose none other than ourselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Pavamāna
+- मातरा (*mātarā*)—heaven and earth
+- ददृशानः (*dadṛśānaḥ*)—beholding
+- उस्रियः न (*usriyaḥ na*)—as calves make a sound on seeing their mother cows
+- नानदत् (*nānadat*)—making a sound
+- मरुतां इव (*marutāṃ iva*)—like the Maruts
+- स्वनः (*svanaḥ*)—and resounding
+- एति (*eti*)—he moves about everywhere
+- यत् (*yat*)—for which reason
+- प्रथमं (*prathamaṃ*)—excellent
+- ऋतं (*ṛtaṃ*)—water
+- स्वर्णरं (*svarṇaraṃ*)—as beneficial to men
+- जानन् (*jānan*)—knew, therefore indeed
+- सुक्रतुः (*sukratuḥ*)—Pavamāna, who has excellent works
+- प्रशस्तये (*praśastaye*)—for his own praise
+- कं (*kaṃ*)—the man
+- अवृणीत (*avṛṇīta*)—chose
+
+##### भावार्थ (Bhāvārtha)
+
+Like calves that make a sound as soon as they see their mother cows, and like the hosts of Maruts, Pavamāna, who makes a sound, moves about everywhere beholding both heaven and earth. Because he knew that excellent water alone is beneficial to men, Pavamāna, who has excellent works, chose man for his own praise.
+
+### Printed p. 411
+
+##### English translation
+He repeatedly beholding his parents (heaven and earth) proceeds with a loud noise, like cows (looking at their calves and lowing), and with a roar (like the troop) of Maruts; knowing that water to be the best which is good for all men, the intelligent (Pavamana) chose man to be the offerer of his praise.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रु॒वति॑ भी॒मो वृ॑ष॒भस्त॑वि॒ष्यया॒ शृंगे॒ शिशा॑नो॒ हरि॑णी विचक्ष॒णः ।  
+> आ योनिं॒ सोमः॒ सुकृ॑तं॒ नि षी॑दति ग॒व्ययी॒ त्वग्भ॑वति नि॒र्णिग॒व्ययी॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रुवति । भीमः । वृषभः । तविष्यया । शृंगे इति । शिशानः । हरिणी इति । विऽचक्षणः ।  
+> आ । योनिम् । सोमः । सुऽकृतम् । नि । सीदति । गव्ययी । त्वक् । भवति । निःऽनिक् । अव्ययी ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भीमः शत्रूणां भयंकरः वृषभः कामानामुदकानां वा वर्षणः विचक्षणः सर्वस्य विदर्शनशीलः स पवमानः तविष्यया । तु इति वृद्ध्यर्थः । अस्मात्  अच इः' (उ. सू. ४. १३८ ) इति इप्रत्ययः । तस्मादिच्छायामर्थे क्यच् । सर्वप्रातिपदिकेभ्यः (का. ७.१.५१.३ ) इति सुगागमः । आत्मनो बलेच्छया हरिणी हरितवर्णे द्वे शृंगे शिशानः तीक्ष्णीकुर्वन् द्रोणकलशं प्रति द्वाभ्यां धाराभ्यां स्थाल्याग्रयणं गृह्णाति । तदुच्यते । ते धारारूपशृंगे तीक्ष्णीकुर्वन् रुवति शब्दायते । ‘रु शब्दे'। ‘बहुलं छंदसि' इति शः । ततः सः सोमः सुकृतं सुष्ठु कृतं योनिं स्वस्थानं द्रोणकलशम् आ नि षीदति समंतात्तिष्ठति । तस्य सोमस्य निर्णिक् निर्नेक्त्री परिशोधयित्री गव्ययी गोमयी त्वग्भवति । आनडुहे हि चर्मणि सोमाभिषवः । एवम् अव्ययी अविमयी त्वक् च निर्नेक्त्री भवति । तद्धि दशापवित्रापेक्ष्यमभिहितम् ॥
+
+##### Gist of the bhāṣya
+
+Soma, terrible to enemies, the showerer of desires or of waters, the all-seeing, sharpens his two tawny horns, out of desire for his own strength, and roars, makes a sound. The two horns are the two streams: with two streams towards the द्रोणकलशं (*droṇakalaśaṃ*) he takes up the स्थाल्याग्रयणं (*sthālyāgrayaṇaṃ*); this is what is meant. Then that Soma settles all around in the well-made womb, his own place, the Droṇakalaśa. For that Soma the cleansing, purifying skin, made of cow (गव्ययी (*gavyayī*)), is there; for the pressing of Soma takes place on a bull's hide. Likewise the skin made of sheep (अव्ययी (*avyayī*)) becomes the cleanser; for that is said to need the ten filters.
+
 ---
 
-**Progress note:** Done through printed p. 405. Sukta 69 Rks 8-10, Sukta 70 Rks 1-2
+**Progress note:** Done through printed p. 411. Ṛk 3-7 of Soma Pavamāna sūkta, pp. 406-411
