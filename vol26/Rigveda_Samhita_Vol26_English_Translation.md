@@ -14534,6 +14534,209 @@ This Soma sends from heaven all water ; being filtered he settles in the vessels
 
 Sāyaṇa says that this ṛk is addressed directly to Soma. O Soma, giving as you are sprinkled all around (परिषिच्यमानः (*pariṣicyamānaḥ*)), that is, sprinkled with water or with milk, bestow on us the most wonderful, manifold, or most desirable food (वयः (*vayaḥ*)). Further, we invoke Heaven and Earth, free from hatred, for the offering of oblation. And you, O gods, place in us wealth together with a good son (सुवीरम् (*suvīram*): a hero, वीरः (*vīraḥ*), is a son who is capable in rites).
 
+### Printed p. 388
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- दधत् (*dadhat*)—you, who possess wealth
+- परिषिच्यमानःएव (*pariṣicyamānaḥeva*)—as soon as you are sprinkled by us
+- चित्रतमं (*citratamaṃ*)—of many kinds
+- वयः (*vayaḥ*)—food
+- नः (*naḥ*)—to us
+- पवस्व (*pavasva*)—provide
+- अद्वेषे (*adveṣe*)—that wish us no harm
+- द्यावापृथिवी (*dyāvāpṛthivī*)—both Heaven and Earth
+- हुवेम (*huvema*)—let us call, praying
+- देवाः (*devāḥ*)—O gods
+- सुवीरं (*suvīraṃ*)—accompanied by excellent heroic sons
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—in us
+- धत्त (*dhatta*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you who possess wealth, as soon as you are sprinkled by us, provide us with food of many kinds. Let us call, praying, both Heaven and Earth, who wish us no harm. O gods, establish in us wealth accompanied by excellent heroic sons.
+
+##### English translation
+Soma offering (wealth) as soon as you are sprinkled (with the water and milk), pour various kinds of food (upon us) ; let us invoke the friendly heaven and earth : do you ; O gods grant us wealth with excellent male off-spring.
+
+## Sūkta 69 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> 'इषुर्न' इति दशर्चं द्वितीयं सूक्तमांगिरसस्य हिरण्यस्तूपस्यार्षं पवमानसोमदेवताकम् । नवमीदशम्यौ त्रिष्टुभौ । शिष्टा जगत्यः । तथा चानुक्रांतम् - ' इषुर्न हिरण्यस्तूपोऽंत्ये त्रिष्टुभौ ' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the second sūkta, of ten ṛks, beginning इषुर्न (*iṣurna*), has as its seer Hiraṇyastūpa, of the Āṅgirasa family, and as its deity Pavamāna Soma. The ninth and the tenth ṛks are in the Triṣṭup metre; the rest are in Jagatī. He cites the Anukramaṇī: इषुर्न हिरण्यस्तूपोऽंत्ये त्रिष्टुभौ (*iṣurna hiraṇyastūpo 'ṃtye triṣṭubhau*). The application (viniyoga) has already been stated.
+
+Translation.—This sūkta beginning इषुर्न (*iṣurna*) is the second sūkta in the fourth anuvāka. It contains ten ṛks. The seer of this sūkta is Hiraṇyastūpa Āṅgirasa; the deity is Pavamāna Soma; the ninth and the tenth ṛks of this sūkta are in the Triṣṭup metre. The remaining ṛks are in the Jagatī metre. In the Anukramaṇī it is said: इषुर्न हिरण्यस्तूपोऽन्ये त्रिष्टुभौ (*iṣurna hiraṇyastūpo 'nye triṣṭubhau*) **NOTE**. The application has been stated earlier.
+
+### Printed p. 389
+
+Maṇḍala 9; Anuvāka 4; Sūkta 69; Aṣṭaka 7, Adhyāya 2, Varga 21, 22. Number of ṛks in the sūkta: 10. Ṛṣi: Hiraṇyastūpa. Devatā: Pavamāna Soma. Chandas: 1–8 Jagatī; 9–10 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इषु॒र्न धन्व॒न्प्रति॑ धीयते म॒तिर्व॒त्सो न मा॒तुरुप॑ स॒र्ज्यूध॑नि ।  
+> उ॒रुधा॑रेव दुहे॒ अग्र॑ आय॒त्यस्य॑ व्र॒तेष्वपि॒ सोम॑ इष्यते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषुः । न । धन्वन् । प्रति । धीयते । मतिः । वत्सः । न । मातुः । उप । सर्जि । ऊधनि ।  
+> उरुधाराऽइव । दुहे । अग्रे । आऽयती । अस्य । व्रतेषु । अपि । सोमः । इष्यते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन् पवमानरूप इंद्रे मतिः मननीयास्मदीया स्तुतिः प्रति धीयते अस्माभिर्निधीयते वा। दधाते रूपम्। तत्र दृष्टांतः । इषुर्न यथेषुः शरः धन्वन् धनुषि प्रति धीयते तद्वत् । किंच ऊधनि सर्वस्य पोषयितृत्वेनोधःस्थानीय इंद्रे सोमो मदार्थमस्माभिः उप सर्जि उपसृज्यते । कथमिव । मातुः गोः ऊधनि पयोधारके वत्सो न वत्सो यथा पयःपानार्थं सृज्यते तद्वत् । उरुधारेव बहुविधपयोधारा गौरिव अग्रे वत्सस्य पुरतः आयती गच्छंती सती पयः दुहे दुग्धे तथा सोऽयमिंद्रो वत्सभूतेभ्यः स्तोतृभ्यः पुरतो गच्छन् बहुविधान् कामान् दुग्धे। किंच अस्य एतादृशस्य व्रतेष्वपि सोम इष्यते यष्टृभिः प्रेर्यते खलु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that in this Indra in the form of Pavamāna, our reflective praise (मतिः (*matiḥ*)) is directed and placed (प्रति धीयते (*prati dhīyate*)) by us. As an illustration he gives इषुर्न (*iṣurna*): just as an arrow is fixed on the bow. Further, in Indra, who is like an udder because he nourishes all, Soma is released by us for exhilaration (उप सर्जि (*upa sarji*)). How? As a calf is released to the udder of its mother, the cow, to drink milk. Like a cow with many streams of milk, who going before the calf yields her milk (दुहे (*duhe*)), so this Indra, going before the singers, who are like calves, yields many kinds of desired things. Further, in the sacrifices (व्रतेष्वपि (*vrateṣvapi*)) of such an Indra, Soma is indeed impelled by the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धन्वन् (*dhanvan*)—in the bow
+- इषुः न (*iṣuḥ na*)—as an arrow is fixed
+- मतिः (*matiḥ*)—our praise
+- प्रति धीयते (*prati dhīyate*)—is attached to Indra
+- मातुः (*mātuḥ*)—of the cow, the mother
+- ऊधनि (*ūdhani*)—to the region of the udder
+
+### Printed p. 390
+
+- वत्सो न (*vatso na*)—as a calf is let go to drink milk
+- ऊधनि (*ūdhani*)—to Indra, who nourishes all
+- उपसर्जि (*upasarji*)—(for his satisfaction) Soma is released (offered)
+- उरुधारा (*urudhārā*)—the cow that can pour out much milk in a stream
+- अग्रे (*agre*)—before the calf
+- आयती (*āyatī*)—while going
+- दुहे इव (*duhe iva*)—as she yields milk in abundance (when Indra comes to the sacrificer, he pours out abundant wealth)
+- अस्य (*asya*)—directed to this Indra
+- व्रतेष्टपि (*vrateṣṭapi*)—in sacrifices and the like **NOTE**
+- सोमः (*somaḥ*)—Soma
+- इष्यते (*iṣyate*)—is offered
+
+##### भावार्थ (Bhāvārtha)
+
+As the arrow is fixed in the bow, our praise is attached to Indra. As the calf is let go to the region of the udder of its mother, the cow, to drink milk, so Soma is offered, for his satisfaction, to Indra, who nourishes all. As the cow that can pour out much milk in a stream yields milk in abundance while going before the calf, so Indra, when he comes to the sacrificer, pours out abundant wealth. In the sacrifices directed to this Indra, Soma is offered.
+
+##### English translation
+(Our) praise is attached (to Indra) as an arrow to the bow ; (the Soma-juice) is let loose to (Indra) the fosterer as a calf to the udder of its mother : (Indra sheds blessings) as a cow having a copious stream of milk yields it when coming into the presence (of the calf) : in Indra's sacrifices the Soma is stimulated.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उपो॑ म॒तिः पृ॒च्यते॑ सि॒च्यते॒ मधु॑ मं॒द्राज॑नी चोदते अं॒तरा॒सनि॑ ।  
+> पव॑मानः संत॒निः प्र॑घ्न॒तामि॑व॒ मधु॑मांद्र॒प्सः परि॒ वार॑मर्षति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपो इति । मतिः । पृच्यते । सिच्यते । मधु । मंद्रऽअजनी । चोदते । अंतः । आसनि ।  
+> पवमानः । सम्ऽतनिः । प्रघ्नताम्ऽइव । मधुऽमान् । द्रप्सः । परि । वारम् । अर्षति ॥ २ ॥
+
+### Printed p. 391
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन् पवमानरूप इंद्रे मतिः स्तुतिः उपो पृच्यते उपपृच्यते स्तोतृभिः संयोज्यते । ‘ पृची संपर्के'। तथा मधु मदकरः सोमः इंद्रार्थं सिच्यते अद्भिः यवसक्तुभिश्च सिक्तो भवति । ततश्च मंद्राजनी। अज गतिक्षेपणयोः' इत्यस्य ल्युटि ङीपि रूपम्। मदकरस्य रसस्य प्रेरयित्री सोमधारा तस्येंद्रस्य आसनि आस्ये अंतः मध्ये चोदते यष्टृभिः प्रेर्यते । आस्यशब्दस्य ‘ पद्दन्नोमास्°' इत्यादिना आसन्नित्यादेशः । किंच संतनिः ग्रहादिषु सम्यग्विस्तृतः मधुमान् मदकररसवान् पवमानः पूयमानः सोमः द्रप्सः द्रुतगमनशीलो यद्वा क्षिप्रंहननशीलः सन् वारम् अविवालमयं पवित्रं परितः अर्षति आगच्छति । तत्र दृष्टांतः । प्रघ्नतामिव । प्रकर्षेण हंतॄणां योद्धॄणां संतनिः सम्यग्विसृष्टः शरो यथा शीघ्रं प्राप्यमभितो गच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that in this Indra in the form of Pavamāna, praise (मतिः (*matiḥ*)) is joined (उपो पृच्यते (*upo pṛcyate*)) by the singers. Likewise मधु (*madhu*), the exhilarating Soma, is sprinkled (सिच्यते (*sicyate*)) for Indra with waters and with barley meal (यवसक्तुभिश्च (*yavasaktubhiśca*)). And then the Soma stream (मंद्राजनी (*maṃdrājanī*)), the impeller of the exhilarating juice, is driven by the sacrificers into the mouth (आसनि (*āsani*)) of that Indra, in the middle. Further, Soma, who is well spread out in the cups and the like (संतनिः (*saṃtaniḥ*)), rich in exhilarating juice (मधुमान् (*madhumān*)), being purified (पवमानः (*pavamānaḥ*)), swift-moving (द्रप्सः (*drapsaḥ*)) or else quickly smiting, goes around the filter made of sheep's wool (वारम् (*vāram*)). As an illustration he gives प्रघ्नतामिव (*praghnatāmiva*): as the arrow well discharged by warriors, who strike with force, goes swiftly all around to reach its object, so does Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतिः (*matiḥ*)—the praise
+- उपो पृच्यते (*upo pṛcyate*)—is joined with Indra
+- मधु (*madhu*)—the exhilarating Soma
+- सिच्यते (*sicyate*)—is sprinkled
+- मंद्राजनी (*maṃdrājanī*)—the stream of Soma that gives delight
+- आसनि अंतः (*āsani aṃtaḥ*)—in the middle of Indra's mouth
+- चोदते (*codate*)—is offered
+- प्रघ्नतां इव (*praghnatāṃ iva*)—as the arrow of warriors rushes swiftly forward
+- संतॆनिः (*saṃtèniḥ*)—spread out in the vessels **NOTE**
+- मधुमान् (*madhumān*)—tasty
+- पवमानः (*pavamānaḥ*)—and purified, Soma
+- द्रप्सः (*drapsaḥ*)—swift-moving
+- वारं (*vāraṃ*)—the ten-fold filter
+- परि अर्षति (*pari arṣati*)—goes around and reaches
+
+##### भावार्थ (Bhāvārtha)
+
+The praise is offered to Indra and is joined with him. The exhilarating Soma is sprinkled. The stream of Soma that gives delight is offered in the middle of Indra's mouth. As the arrow of warriors rushes swiftly forward, so Soma, spread out in the vessels and the like, tasty and purified, being swift-moving, goes around and reaches the ten-fold filter.
+
+##### English translation
+The praise is united (to Indra) ; the excellent (Soma) is sprinkled : (the Soma stream) emitting pleasant juice is driven into (Indra's) mouth : the filte-red **NOTE** diffused exhilarating swift-flowing (Soma) hastens to the fleece like the arrow of the combatants.
+
+#### Ṛk 3
+
+### Printed p. 392
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव्ये॑ वधू॒युः प॑वते॒ परि॑ त्व॒चि श्र॑थ्नी॒ते न॒प्तीरदि॑तेरृ॒तं य॒ते ।  
+> हरि॑रक्रान्यज॒तः सं॑य॒तो मदो॑ नृ॒म्णा शिशा॑नो महि॒षो न शो॑भते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्ये । वधूऽयुः । पवते । परि । त्वचि । श्रथ्नीते । नप्तीः । अदितेः । ऋतम् । यते ।  
+> हरिः । अक्रान् । यजतः । सम्ऽयतः । मदः । नृम्णा । शिशानः । महिषः । न । शोभते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वधूयुः । वधूभूता वसतीवर्य एकधनासहिता आपः । तद्वान् सोमः अव्ये अवेः स्वभूते त्वचि चर्मणि परि पवते परितो वर्तते पूतो भवति वा । किंच नप्तीः नप्त्रीः । नप्तृशब्दश्चतुर्थापत्यवाची । सोमस्य नप्त्रीः । सोमो ह्योषधीनामग्रे रेतो निषिंचति । ‘प्रजापते रेतो देवा देवानां रेतो वर्षं वर्षस्य रेत ओषधयः' (ऐ. आ. २.१.३ ) इति श्रुतेः । यद्वा । नप्तृशब्दोऽपत्यवाची । तस्यापत्यानि । सोमः सुधामयैः स्वकिरणैरोषधीर्वर्धयति । तस्मादपत्यभूताः। अदितेः। पृथिवीनामैतत् । अदीनायाः पृथिव्या उत्पन्ना ओषधीः ऋतं सत्यरूपं यज्ञं यते गच्छते यजमानाय श्रथ्नीते अग्रभागे फलिनीः कर्तुं विश्लेषयति । किंच हरिः हरितवर्णः यजतः सर्वैर्यष्टव्यः अत एव संयतः ग्रहादिषु संगृहीतः मदः। माद्यत्यनेनेति मदः सोमः । तादृशः अक्रान् क्रामति । पात्रेष्ववतिष्ठते । यद्वा । शत्रूनतिक्रामति । क्रमेर्लुङि तिपि ‘बहुलं छंदसि' इति इडागमाभावाद्वृद्धौ कृतायां सिज्लोपे सति हल्ङ्यादिना तिपो लोपे ‘मो नो धातोः' इति नत्वे कृते रूपम् । अत एव सोमः नृम्णा स्वबलानि शिशानः तीक्ष्णीकुर्वन् । अथवा शत्रुबलानि तनूकुर्वन् । महिषो न । महन्नामैतत् । महानिव सर्वत्र व्याप्त इव शोभते स्वतेजसा सर्वत्र दीप्यते । यद्वा । नः संप्रत्यर्थे । इदानीमेवंगुणयुक्तो महान् सोमः शोभत इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that वधूयुः (*vadhūyuḥ*) refers to the waters, in the form of brides, called Vasatīvarī, together with the Ekadhanā waters. Soma, who has them, is purified, or moves around, on the sheepskin (अव्ये (*avye*)), that is, on the hide (त्वचि (*tvaci*)) that belongs to the sheep. Further, नप्तीः (*naptīḥ*) means granddaughters, the Soma's granddaughters; the word नप्तृशब्दश्चतुर्थापत्यवाची (*naptṛśabdaścaturthāpatyavācī*). For Soma first sheds seed into the plants; he cites the śruti ‘प्रजापते रेतो देवा देवानां रेतो वर्षं वर्षस्य रेत ओषधयः' (*‘prajāpate reto devā devānāṃ reto varṣaṃ varṣasya reta oṣadhayaḥ '*) (Ai. Ā. 2.1.3) **GLOSS**. Or else, the word नप्तृ (*naptṛ*) denotes offspring: Soma makes the plants grow with his nectar-filled rays, and therefore they are his offspring. अदितेः (*aditeḥ*) is a name of the earth: the plants, born of the earth that is never poor, go to the sacrifice (यते (*yate*)) of truthful nature (ऋतं (*ṛtaṃ*)) for the sacrificer, and Soma loosens them (श्रथ्नीते (*śrathnīte*)) in order to make them bear fruit at the front end. Further, हरिः (*hariḥ*) is green-coloured; यजतः (*yajataḥ*) is to be worshipped by all; and therefore संयतः (*saṃyataḥ*) is held in the cups and the like; मदः (*madaḥ*) is Soma, because one is exhilarated by him. Such a Soma अक्रान् (*akrān*) steps forth, that is, stays in the vessels; or else he overcomes the enemies. Therefore Soma, sharpening (शिशानः (*śiśānaḥ*)) his own powers (नृम्णा (*nṛmṇā*)), or else weakening the powers of the enemies, shines like the great one (महिषो न (*mahiṣo na*); महिष (*mahiṣa*) is a name for the great), as if pervading everywhere, blazing everywhere with his own splendour. Or else, नः (*naḥ*) is used in the sense of "now": now the great Soma, endowed with such qualities, shines.
+
+### Printed p. 393
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वधूयुः (*vadhūyuḥ*)—Soma, who desires the bride in the form of Vasatīvarī
+- अव्ये (*avye*)—of the sheep
+- त्वचि (*tvaci*)—on the hide
+- परि पवते (*pari pavate*)—becomes purified
+- ऋतं (*ṛtaṃ*)—the sacrifice of truthful nature
+- यते (*yate*)—for the benefit of the sacrificer who performs it
+- नप्रीतिः (*naprītiḥ*)—his own daughters **NOTE**
+- अदितेः (*aditeḥ*)—the plants born on the earth
+- श्रद्धीते (*śraddhīte*)—he separates, as if to let the fruits go **NOTE**
+- हरिः (*hariḥ*)—of green colour
+- यजतः (*yajataḥ*)—worthy of worship
+- संयतः (*saṃyataḥ*)—collected
+- मदः (*madaḥ*)—the exhilarating Soma
+- अक्रान् (*akrān*)—he occupies the vessels
+- नृम्मा (*nṛmmā*)—his own powers **NOTE**
+- शिशानः (*śiśānaḥ*)—sharpening
+- महिषो न (*mahiṣo na*)—like a great one
+- शोभते (*śobhate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who desires the bride in the form of Vasatīvarī, becomes purified on the hide of the sheep. For the benefit of the sacrificer who performs the sacrifice of truthful nature, he separates the plants, his own daughters, born on the earth, as if to let the fruits go. Soma, green in colour, worthy of worship, collected and exhilarating, occupies the vessels. Sharpening his own powers, he shines like a great one.
+
+##### English translation
+(Soma) seeking his spouse is filtered in the sheepskin ; he separates his grand-daughters on the earth for the sacrificer : green-tinted, adorable, colle- cted **NOTE** (in the ladles) exhilarating, he overcomes (his foes) ; sharpening his vigour he shines like one of might.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्षा मि॑माति॒ प्रति॑ यंति धे॒नवो॑ दे॒वस्य॑ दे॒वीरुप॑ यंति निष्कृ॒तम् ।  
+> अत्य॑क्रमी॒दर्जु॑नं॒ वार॑म॒व्यय॒मत्कं॒ न नि॒क्तं परि॒ सोमो॑ अव्यत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्षा । मिमाति । प्रति । यंति । धेनवः । देवस्य । देवीः । उप । यंति । निःऽकृतम् ।  
+> अति । अक्रमीत् । अर्जुनम् । वारम् । अव्ययम् । अत्कम् । न । निक्तम् । परि । सोमः । अव्यत ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 387. Vol 26 pp. 382-387: Sukta 68 Rks 5-10
+**Progress note:** Done through printed p. 393. Sukta 69 intro and Rks 1-4 (Sayana bhashya through Rk 3)
