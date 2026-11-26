@@ -32188,6 +32188,277 @@ This showerer (of desires), expressed by the ten fingers, hastens uttering a sou
 
 This Soma makes the sun shine, सूर्यमरोचयत् (*sūryamarocayat*), by his own juice. पवमानः (*pavamānaḥ*), being purified; विचर्षणिः (*vicarṣaṇiḥ*), the seer of all; विश्ववित् (*viśvavit*), all-knowing. Not the sun only, but all the धामानि (*dhāmāni*), the places of radiance, he makes shine.
 
+### Printed p. 792
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वचर्षणिः (*viśvacarṣaṇiḥ*)—one who can behold everything **NOTE**
+- पवमानः (*pavamānaḥ*)—flowing
+- एषः (*eṣaḥ*)—this god Soma
+- सूर्यं (*sūryaṃ*)—the sun (with his own juice)
+- अरोचयत् (*arocayat*)—causes to shine
+- विश्ववित् (*viśvavit*)—this all-knowing god Soma
+- विश्वा (*viśvā*)—all
+- धामानि (*dhāmāni*)—the places of radiance, such as the sky and heaven, causes to shine
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, who beholds everything and flows, causes the sun to shine with his juice. Not only that: this all-knowing Soma makes the places of radiance, the sky and the others, shine.
+
+##### English translation
+This purified, all-contemplating, all-knowing (Soma) gives radiance to the sun and all the spheres (of light).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष शु॒ष्म्यदा॑भ्यः॒ सोमः॑ पुना॒नो अ॑र्षति ।  
+> दे॒वा॒वीर॑घशंस॒हा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । शुष्मी । अदाभ्यः । सोमः । पुनानः । अर्षति ।  
+> देवऽअवीः । अघशंसऽहा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः शुष्मी बलवान् अदाभ्यः अदंभनीयः पुनानः पूयमानः अर्षति गच्छति । देवावीः देवानामविता अघशंसहा । अघान् शंसंतीत्यघशंसाः । तेषां हंता ॥ ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+This Soma is शुष्मी (*śuṣmī*), strong, अदाभ्यः (*adābhyaḥ*), not to be deceived or injured, and पुनानः (*punānaḥ*), being purified, अर्षति (*arṣati*), goes. देवावीः (*devāvīḥ*) is the protector of the gods. अघशंसहा (*aghaśaṃsahā*): those who proclaim evils are the proclaimers of evils; he is their slayer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मी (*śuṣmī*)—the giver of strength
+- अदाभ्यः (*adābhyaḥ*)—the unharmed
+- पुनानः (*punānaḥ*)—the purifier
+- देवावीः (*devāvīḥ*)—the protector of the gods
+- अघशंसहा (*aghaśaṃsahā*)—the slayer of those who do evil
+- एषः सोमः (*eṣaḥ somaḥ*)—this god Soma
+- अर्षति (*arṣati*)—goes to the ten-stranded filter
+
+### Printed p. 793
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma is the giver of strength, unharmed, the purifier, the protector of the gods, the slayer of sinners. Such is this god Soma, who runs (to the ten-stranded filter).
+
+##### English translation
+This powerful invincible purifying Soma proceeds the protector of the gods, the destroyer of the wicked.
+
+## Sūkta 29 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्रास्य' इति षडृचं पंचमं सूक्तं नृमेधस्यांगिरसस्यार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रम्यते च -- प्रास्य नृमेधः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्रास्य (*prāsya*) of six Ṛks is the fifth sūkta; its seer is Nṛmedha, of the Aṅgirasa family; the metre is Gāyatra and the deity is Pavamāna Soma. In the Anukramaṇikā it is said प्रास्य नृमेधः (*prāsya nṛmedhaḥ*). The use has been stated.
+
+Anuvāda: This sūkta प्रास्य (*prāsya*) is the fifth sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is the one named Nṛmedha Āṅgirasa; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said प्रास्य नृमेधः (*prāsya nṛmedhaḥ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 29. Aṣṭaka 6; Adhyāya 8; Varga 19. Number of Ṛks in the sūkta: 6.
+
+Seer: Nṛmedhaḥ. **NOTE**
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रास्य॒ धारा॑ अक्षर॒न्वृष्णः॑ सु॒तस्यौज॑सा ।  
+> दे॒वाँ अनु॑ प्र॒भूष॑तः ॥ १ ॥
+
+### Printed p. 794
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अस्य । धाराः । अक्षरन् । वृष्णः । सुतस्य । ओजसा ।  
+> देवान् । अनु । प्रऽभूषतः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सोमस्य वृष्णः वर्षकस्य सुतस्य अभिषुतस्य देवाननु प्रभूषतः प्रभवितुमिच्छतः  ओजसा स्ववीर्येण धाराः प्र अक्षरन् प्रकर्षेण क्षरंति ।
+
+##### Gist of the bhāṣya
+
+Of this Soma, वृष्णः (*vṛṣṇaḥ*), the showerer, सुतस्य (*sutasya*), pressed, who देवाननु प्रभूषतः (*devānanu prabhūṣataḥ*) wishes to prevail, प्रभवितुमिच्छतः (*prabhavitumicchataḥ*), with ओजसा (*ojasā*), his own might, the streams प्र अक्षरन् (*pra akṣaran*) flow forth, that is, flow out strongly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतस्य (*sutasya*)—being pressed
+- वृष्णः (*vṛṣṇaḥ*)—the showerer of desires
+- अस्य (*asya*)—of this god Soma
+- धाराः (*dhārāḥ*)—the flowing streams
+- ओजसा (*ojasā*)—with their strength
+- देवान् असु (*devān asu*)—the gods **NOTE**
+- प्रभूषतः (*prabhūṣataḥ*)—in order to surpass in strength
+- प्र अक्षरन् (*pra akṣaran*)—flow forth
+
+##### भावार्थ (Bhāvārtha)
+
+The streams of this god Soma, the granter of what is desired, who is being pressed, flow forth, trickling, with their strength, in order to surpass even the gods in strength.
+
+##### English translation
+The streams of this effused (Soma), the showerer (of benefits), flow forth, as it seeks to surpass the gods in strength.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सप्तिं॑ मृजंति वे॒धसो॑ गृ॒णंतः॑ का॒रवो॑ गि॒रा ।  
+> ज्योति॑र्जज्ञा॒नमु॒क्थ्य॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्तिम् । मृजंति । वेधसः । गृणंतः । कारवः । गिरा ।  
+> ज्योतिः । जज्ञानम् । उक्थ्यम् ॥ २ ॥
+
+### Printed p. 795
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्तिम् अश्वस्थानीयं सर्पणस्वभावं वा सोमं मृजंति शोधयंति । के। गृणंतः स्तुवंतः वेधसः विधातारः कारवः कर्मकतारोऽध्वर्य्वादयः गिरा स्तुत्या साधनेन । कीदृशं सप्तिम् । ज्योतिः दीप्यमानं सोमं जज्ञानं जायमानम् । प्रवृद्धमित्यर्थः । अथवा ज्योतिर्जायमानम् ‘अयं वै ज्योतिर्यत् सोमः' इति श्रुतेः । उक्थ्यं स्तुत्यम् ॥
+
+##### Gist of the bhāṣya
+
+They purify, मृजंति (*mṛjaṃti*), the सप्तिं (*saptiṃ*), Soma, who stands in the place of a horse or whose nature is to move; who are they? गृणंतः (*gṛṇaṃtaḥ*), those who praise; वेधसः (*vedhasaḥ*), the ordainers; कारवः (*kāravaḥ*), the performers of rites, the Adhvaryu and the others; with गिरा (*girā*), praise as the means. Of what kind is the courser? ज्योतिः (*jyotiḥ*), the shining Soma, जज्ञानं (*jajñānaṃ*), being born, that is, grown mighty. Or else: he is light being born, because of the śruti अयं वै ज्योतिर्यत् सोमः (*ayaṃ vai jyotiryat somaḥ*). उक्थ्यं (*ukthyaṃ*) means worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृणंतः (*gṛṇaṃtaḥ*)—those who praise
+- वेधसः कारवः (*vedhasaḥ kāravaḥ*)—the Adhvaryu and the others, who perform the sacrificial rites
+- गिरा (*girā*)—with words in the form of praise
+- सप्तिं (*saptiṃ*)—that whose nature is to flow swiftly
+- ज्योतिः (*jyotiḥ*)—that which is radiant
+- जज्ञानं (*jajñānaṃ*)—that which has only just been produced
+- उक्थ्यं (*ukthyaṃ*)—and that which is worthy of praise, the Soma juice
+- मृजंति (*mṛjaṃti*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, the Adhvaryu and the others, who praise and perform the sacrificial rites, reciting mantras in the form of praise, purify the Soma juice, whose nature is to flow swiftly, which is radiant, which has only just been produced and which is worthy of praise.
+
+##### English translation
+The pious performers (of holy rites), the utterers of praise, purify by their laudation the radiant courser (the Soma) as soon as generated and meriting to be hymned.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒षहा॑ सोम॒ तानि॑ ते पुना॒नाय॑ प्रभूवसो ।  
+> वर्धा॑ समु॒द्रमु॒क्थ्य॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽसहा । सोम । तानि । ते । पुनानाय । प्रभुवसो इति प्रभुऽवसो ।  
+> वर्ध । समुद्रम् । उक्थ्यम् ॥ ३ ॥
+
+### Printed p. 796
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम प्रभूवसो प्रभूतधन पुनानाय पूयमानस्य ते तव तानि तेजांसि सुषहा शोभनाभिभावुकानि । यस्मादेवं तस्मात् समुद्रं समुद्रसदृशं द्रोणकलशम् उक्थ्यं स्तुत्यं तं वर्ध वर्धय । पूरय रसेन ॥
+
+##### Gist of the bhāṣya
+
+O Soma, प्रभूवसो (*prabhūvaso*), of abundant wealth, those splendours of yours, of you who are being purified, पुनानाय (*punānāya*), are सुषहा (*suṣahā*), well overpowering. Since it is so, therefore increase, वर्ध (*vardha*), that is, make to grow, fill with juice, the समुद्रं (*samudraṃ*), the Droṇa-kalaśa that is like an ocean, उक्थ्यं (*ukthyaṃ*), worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रभूवसो (*prabhūvaso*)—O one who is very rich
+- सोमु (*somu*)—O Soma
+- पुनानाय (*punānāya*)—who are flowing
+- ती (*tī*)—your
+- तानि (*tāni*)—those radiances
+- सुसहा (*susahā*)—overcome the enemies with splendour (therefore)
+- उक्थ्यं (*ukthyaṃ*)—worthy of praise
+- समुद्रं (*samudraṃ*)—the Droṇa-kalaśa, very wide like an ocean
+- वर्ध (*vardha*)—fill with your juice
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, possessed of abundant wealth, your radiances, as you flow, overcome the enemies most attractively; therefore fill with your juice this Droṇa-kalaśa, worthy of praise and wide like an ocean.
+
+##### English translation
+Soma, distributor of abundant wealth, those radianccs of yours when you are purified are over-powering ; fill therefore the praiseworthy ocean-like (pitcher).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॒ वसू॑नि सं॒जय॒न्पव॑स्व सोम॒ धार॑या ।  
+> इ॒नु द्वेषां॑सि स॒ध्र्य॑क् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । वसूनि । सम्ऽजयन् । पवस्व । सोम । धारया ।  
+> इनु । द्वेषांसि । सध्र्यक् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम विश्वा सर्वाणि वसूनि अस्मदर्थं संजयन् पवस्व क्षर धारया । द्वेषांसि द्वेष्याणि सर्वाणि सध्र्यक् सहैव इनु प्रेरय दूरदेशं प्रति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow, पवस्व (*pavasva*), that is, stream, with the stream, धारया (*dhārayā*), winning संजयन् (*saṃjayan*) for us all वसूनि (*vasūni*), riches. All द्वेषांसि (*dveṣāṃsi*), things hated, drive together, सध्र्यक् (*sadhryak*), इनु (*inu*), to a distant region.
+
+### Printed p. 797
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O god Soma
+- विश्वा (*viśvā*)—all
+- वसूनि (*vasūni*)—riches
+- संजयुन् (*saṃjayun*)—conquering for us
+- धारया (*dhārayā*)—in stream after stream
+- पवस्व (*pavasva*)—flow
+- द्वेषांसि (*dveṣāṃsi*)—our enemies
+- सध्र्यक् (*sadhryak*)—at once
+- इनु (*inu*)—drive to a distant region
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, flow in stream after stream, conquering all the riches (that are with the enemies) in order to give them to us. At once drive our enemies away to a distant region.
+
+##### English translation
+Flow, Soma, in a full stream, conquering for us all treasures,—drive our enemies away together-
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रक्षा॒ सु नो॒ अर॑रुषः स्व॒नात्स॑मस्य॒ कस्य॑ चित् ।  
+> नि॒दो यत्र॑ मुमु॒च्महे॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रक्ष । सु । नः । अररुषः । स्वनात् । समस्य । कस्य । चित् ।  
+> निदः । यत्र । मुमुच्महे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नः अस्मान् सु सुष्ठु रक्ष पालय । कस्मात् । अररुषः अदातुः स्वनात् शब्दात् निंदारूपात्। किमेकस्यादानशीलस्य । न । समस्य सर्वस्य योऽस्ति तस्य सर्वस्य कस्यचित् । कंचनामुंचन्नित्यर्थः । न केवलमदातुः स्वनात् । किं तर्हि । कस्य चित् कस्यापि निदः निंदकाद्रक्ष । यत्र मुमुच्महे यस्मिन्रक्षणे सति वयं मुक्ता भवेम तेन रक्षणेन रक्षेति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, protect us well, सु रक्ष (*su rakṣa*), from the sound, that is, the reproach, of the अररुषः (*araruṣaḥ*), the non-giver. Is it from that of one non-giving person only? No: of all, of anyone at all समस्य कस्यचित् (*samasya kasyacit*); the sense is that he may leave none out. Not only from the sound of the non-giver; what then? Protect us also from the reviler, निदः (*nidaḥ*), of anyone whatever. यत्र मुमुच्महे (*yatra mumucmahe*): protect us with that protection, in which protection we may be freed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O god Soma) समुस्य (*samusya*)—of him in whom everything is, though **NOTE**
+- अररुषः (*araruṣaḥ*)—of the miser who gives nothing to anyone
+- स्वनात् (*svanāt*)—from words of reproach
+- नः (*naḥ*)—us
+- सु रक्ष (*su rakṣa*)—protect
+
 ---
 
-**Progress note:** Done through printed p. 791. Vol 25 pp. 786-791: end of Sukta 27, Sukta 28 Rk 1-5
+**Progress note:** Done through printed p. 797. Vol 25 pp. 792-797: end of Sukta 28, Sukta 29 Rk 1-5 (window ends in Rk 5 Pratipadartha)
