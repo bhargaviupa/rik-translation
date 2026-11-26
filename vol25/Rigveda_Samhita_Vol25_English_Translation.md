@@ -12652,6 +12652,237 @@ Proclaim that deity as Indra, who is invoked by many, who is praised by many. wh
 
 इंद्र इत् (*iṃdra it*): Indra himself, of the stated character, नः (*naḥ*), to us, may he be the giver of great (महानां (*mahānāṃ*)) वाजानाम् (*vājānām*), foods. Or else, महानां (*mahānāṃ*) stands, by a change of letter, for मघानां (*maghānāṃ*), wealth: may he be the giver of wealth and of food. What kind? नृतुः (*nṛtuḥ*): one who makes everything dance; or else, one who leads the praisers to cows and the like. Therefore that great Indra, अभिजु (*abhiju*), with bent knee, आ यमत् (*ā yamat*), may he give to us. Or else, that Indra, coming towards us and taking wealth in his two hands, may lead us; the meaning is that, having held out the wealth, he may give it to us.
 
+### Printed p. 326
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—to us (Indra)
+- महानां (*mahānāṃ*)—of the excellent (or plentiful)
+- वाजानां (*vājānāṃ*)—foods or riches
+- दाता (*dātā*)—may he be the giver
+- सृतुः (*sṛtuḥ*)—and one who brings cows to the people who praise him
+- महान् (*mahān*)—of mighty nature
+- इंद्र इत् (*iṃdra it*)—that same Indra spoken of before
+- अभिज्ञु (*abhijñu*)—to us who pray with our knees on the ground
+- आ यमत् (*ā yamat*)—may he give wealth and the like
+
+##### भावार्थ (Bhāvārtha)
+
+May that same Indra, who provides cows and the like for the people who praise him and is mighty in nature, give wealth and the like to us who pray with our knees on the ground, and may he give us excellent foods also.
+
+##### English translation
+May Indra who causes all to rejoice, be the giver of plenteous food to us ; may he, the mighty, bring us (riches) we are praying on our knees.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपा॑दु शि॒प्र्यंध॑सः सु॒दक्ष॑स्य प्रहो॒षिणः॑ ।  
+> इंदो॒रिंद्रो॒ यवा॑शिरः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपात् । ऊं इति । शिप्री । अंधसः । सुऽदक्षस्य । प्रऽहोषिणः ।  
+> इंदोः । इंद्रः । यवऽआशिरः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शिप्री । शिप्रे हनू नासिके वा । शोभनहनुः । यद्वा । शिप्राः शीर्षण्याः । सुशिरस्त्राणः । सः इंद्रः एव प्रहोषिणः प्रकर्षेण देवान् हविर्भिर्जुह्वतः सुदक्षस्य एतन्नामकस्य ऋषेः संबंधि यवाशिरः। श्रीङ् पाके' । आङ्पूर्वस्य  ‘ अपस्पृधेथामानृचुः' इत्यादिना धातोः शिरादेशः । यवैरामिश्रितं यवैः सह पक्वम् इंदोः सर्वतः पात्रेषु क्षरत् अंधसः सोमलक्षणमन्नम् अपात् अपिबत् । यद्वा । अस्य सोमस्य भागमिंद्रार्थं परिकल्पितं सोमांशमपिबत् । उ इत्यवधारणे ॥
+
+##### Gist of the bhāṣya
+
+Shiprī means one with handsome jaws or nose; or else śiprās are the parts of the head, so he is one with a handsome helmet. That same Indra drank the food of the seer named Sudakṣa, who offers oblations to the gods in abundance: the Soma that flows into the vessels all round, cooked and mixed with barley. Or else he drank the portion of this Soma set apart for Indra. The word उ (*u*) expresses emphasis.
+
+### Printed p. 327
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिप्री (*śiprī*)—one with attractive cheeks or nose, or with a helmet
+- इंद्रः (*iṃdraḥ*)—Indra
+- प्रहोषिणः (*prahoṣiṇaḥ*)—who invites the gods with oblations and the like
+- सुदक्षस्य (*sudakṣasya*)—offered by the seer named Sudakṣa
+- यवाशिरः (*yavāśiraḥ*)—mixed with the paste of barley grain
+- इंदोः (*iṃdoḥ*)—filled in the vessels
+- अंधसः (*aṃdhasaḥ*)—the food in the form of Soma
+- अपात् (*apāt*)—drank
+- उ (*u*)—certainly
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has attractive cheeks or a helmet, drank the Soma juice mixed with barley grain, which the seer named Sudakṣa, who invites the gods with oblations and the like, filled in the vessels and offered. This is true.
+
+##### English translation
+Indra. the handsome-jawed, has drunk of the dropping Soma-beverage mixed with barley, (the offering) of Sudaksha assiduous in sacrifice.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम्व॒भि प्रार्च॒तेंद्रं॒ सोम॑स्य पी॒तये॑ ।  
+> तदिद्ध्य॑स्य॒ वर्ध॑नम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ऊं इति । अभि । प्र । अर्चत । इंद्रम् । सोमस्य । पीतये ।  
+> तत् । इत् । हि । अस्य । वर्धनम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः तमु तमेव इंद्रम् अभि आभिमुख्येन प्रार्चत प्रकर्षेण स्तुत । किमर्थम् । सोमस्य पीतये अत्रागत्य सोमपानाय । किमर्थं सोमपानायेति विशेष्यते तदाह । तदित् तत्सोमपानमेव अस्य इंद्रस्य वर्धनं वर्धकं भवति खलु । तस्मात्सोमपानजहर्षाय प्रार्चत ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+O priests, praise that very Indra with vigour, turning towards him, so that he may come here and drink the Soma. Why is the drinking of Soma specified? He answers: that very drinking of Soma is the increaser of this Indra; it makes him grow. Therefore praise him for the joy that arises from the drinking of Soma.
+
+### Printed p. 328
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- तमुद्रं (*tamudraṃ*)—that Indra himself
+- अभि (*abhi*)—towards him
+- प्रार्चत (*prārcata*)—praise abundantly
+- तदित् (*tadit*)—that very drinking of Soma
+- अस्य (*asya*)—to that Indra
+- वर्धनं (*vardhanaṃ*)—is what causes growth (that is, joy)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, praise that same Indra so that he may drink the Soma juice. For that drinking of Soma is what gives joy to Indra.
+
+##### English translation
+Loudly praise that Indra that he may drink the Soma,– it is this which gives him strength.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य पी॒त्वा मदा॑नां दे॒वो दे॒वस्यौज॑सा ।  
+> विश्वा॒भि भुव॑ना भुवत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । पीत्वा । मदानाम् । देवः । देवस्य । ओजसा ।  
+> विश्वा । अभि । भुवना । भुवत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवः द्योतमान इंद्रः अस्य अस्माभिर्दीयमानस्य सोमस्य मदानां मदकरान् रसान् पीत्वा पानं कृत्वा । यद्वा । अस्यैतं सोमं पीत्वा तथा मदानां मदसाधनादीनि भक्षयित्वा । देवस्य ग्रहेषु शोभमानस्य यद्वा देवनशीलस्य देवैः काम्यमानस्य सोमस्य पानजातेन ओजसा बलेन विश्वा भुवना सर्वाणि भुवनानि भूतजातानि अभि भुवत् अभिभवति । सोमस्य ता मद इंद्रश्चकार (ऋ. सं. २. १५. २) इत्यादिषु सोमपानमदे सर्वाणि वृत्रहननादिकर्माणि चकारेत्येवमत्रापि सर्वाणि भूताभिभवनादीनि कर्माण्यकार्षीदिति ॥
+> प्रथमे पर्याये होतुः शस्त्रे  ‘ त्यमु वः सत्रासाहम्' इत्यादिसूक्तशेषः । सूत्रितं च - ‘ त्यमु वः सत्रासाहमिति सूक्तशेषोऽभि त्यं मेषम्' (आश्व. श्रौ. ६. ४ ) इति । अप्तोर्यामेऽच्छावाकातिरिक्तोक्थे ' त्यमु वः सत्रासाहम् ' इति तृचो वैकल्पिकः स्तोत्रियः । सूत्रितं च---' त्यमु वः सत्रासाहं सत्रा ते अनु कृष्टय इति वा स्तोत्रियानुरूपौ' (आश्व. श्रौ. ९. ११) इति । व्यूळ्हस्य दशरात्रस्य चतुर्थेऽहनि निष्केवल्य एष एव तृचो निविद्धानीयः । सूत्रितं च- ‘ इमं नु मायिनं हुवे त्यमु वः सत्रासाहम् ' (आश्व. श्रौ. ८. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+The shining god Indra, having drunk the exhilarating juices of this Soma that we offer, or else having drunk this Soma and consumed also the other means of exhilaration, overcomes all beings, all creatures, by the strength born of drinking the Soma of the god, that is, the Soma that shines in the cups, or that is playful in nature and is desired by the gods. Just as in सोमस्य ता मद इंद्रश्चकार (*somasya tā mada iṃdraścakāra*) (Ṛ. Saṃ. 2. 15. 2) and the like, Indra did all his deeds, such as the slaying of Vṛtra, in the exhilaration of drinking Soma, so here too he did all the deeds of overcoming beings.
+
+Use in the ritual: in the first round, in the Hotṛ's recitation, the remainder of the hymn beginning त्यमु वः सत्रासाहम् (*tyamu vaḥ satrāsāham*) is recited. It is laid down in the sūtra त्यमु वः सत्रासाहमिति सूक्तशेषोऽभि त्यं मेषम् (*tyamu vaḥ satrāsāhamiti sūktaśeṣo 'bhi tyaṃ meṣam*) (Āśv. Śrau. 6. 4). In the Aptoryāma, in the additional uktha of the Acchāvāka, the triplet beginning त्यमु वः सत्रासाहम् (*tyamu vaḥ satrāsāham*) is an optional stotriya. It is laid down in the sūtra त्यमु वः सत्रासाहं सत्रा ते अनु कृष्टय इति वा स्तोत्रियानुरूपौ (*tyamu vaḥ satrāsāhaṃ satrā te anu kṛṣṭaya iti vā stotriyānurūpau*) (Āśv. Śrau. 9. 11). On the fourth day of the Vyūḍha Daśarātra, in the Niṣkevalya recitation, this same triplet is the nivid-dhānīya. It is laid down in the sūtra इमं नु मायिनं हुवे त्यमु वः सत्रासाहम् (*imaṃ nu māyinaṃ huve tyamu vaḥ satrāsāham*) (Āśv. Śrau. 8. 8).
+
+### Printed p. 329
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—Indra, the shining one
+- अस्य (*asya*)—of the Soma juice offered by us
+- मदानां (*madānāṃ*)—the exhilarating juices
+- पीत्वा (*pītvā*)—having drunk
+- देवस्य (*devasya*)—offered by the gods, gained from the drinking of Soma
+- ओजसा (*ojasā*)—by strength
+- विश्वा भुवना (*viśvā bhuvanā*)—all beings
+- अभि भुवत् (*abhi bhuvat*)—overcomes
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is of the nature of a god, drinks the exhilarating Soma offered by us, and by the strength gained from it overcomes all living beings.
+
+##### English translation
+The god, having quaffed its exhilarations, by the strength of the divine (Soma) has conquered all worlds.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यमु॑ वः सत्रा॒साहं॒ विश्वा॑सु गी॒र्ष्वाय॑तम् ।  
+> आ च्या॑वयस्यू॒तये॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यम् । ऊं इति । वः । सत्राऽसहम् । विश्वासु । गीर्षु । आऽयतम् ।  
+> आ । च्यवयसि । ऊतये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजमानः स्तोतारं संबोध्याह । हे स्तोतः सत्रासाहम् । सत्राशब्दो बहुवाची । बहूनामभिभवितारम् । यद्वा । शत्रून् स्वबलेन संगत्य जेतारम् । वः युष्मदीयेषु विश्वासु गीर्षु सर्वेषु स्तोत्रेषु आयतं विस्तृतम् । सर्वत्रेंद्र एव स्तूयते । तस्मात्तेषु विततं त्यम् । उ इत्यवधारणे । तमेवेंद्रम् ऊतये अस्मद्रक्षणाय आ च्यावयसि ।  ‘ च्युङ प्लुङ गतौ । त्वदीयैः स्तोत्रैर्यज्ञं प्रत्याभिमुख्येनागमय ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer addresses the praiser. O praiser, the word सत्रा (*satrā*) means many: he overcomes many; or else he meets his enemies and conquers them by his own strength. He is spread out in all your praises, in all the hymns, for in every one of them Indra alone is praised; therefore he is extended through them. The word उ (*u*) expresses emphasis: that very Indra you cause to come, for our protection. Bring him by your hymns to the sacrifice, turned towards us.
+
+### Printed p. 330
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) सत्रासाहं (*satrāsāhaṃ*)—who defeats many enemies
+- नः (*naḥ*)—your
+- विश्वासु (*viśvāsu*)—all
+- गीर्षु (*gīrṣu*)—in the words of praise
+- आयुतं (*āyutaṃ*)—who is widely extolled
+- त्वं उ (*tvaṃ u*)—that famous Indra himself
+- ऊतये (*ūtaye*)—for our protection
+- आ च्यावयसि (*ā cyāvayasi*)—urge to come towards the sacrifice
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, summon for our protection, towards the sacrifice, that famous Indra himself, who defeats many enemies and is extolled in all your hymns.
+
+##### English translation
+Bring hither for our protection Indra the conqueror of many, who pervades all your praises;
+
+##### विशेषविषयगळु (Special Topics)
+
+It is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, त्वमु वः सत्रासाहमिति सूक्तशेषोऽभि त्वं मोषं (*tvamu vaḥ satrāsāhamiti sūktaśeṣo 'bhi tvaṃ moṣaṃ*) (Ā. 6-4), that in the first round, among the śastra mantras recited by the Hotṛ, this hymn is to be recited to its end beginning with the Ṛk त्वमु वः सत्रासहं (*tvamu vaḥ satrāsahaṃ*). It is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, त्वमु वः सत्रासाहं सत्रा ते अनु कृष्टय इति वा स्तोत्रियानुरूपौ (*tvamu vaḥ satrāsāhaṃ satrā te anu kṛṣṭaya iti vā stotriyānurūpau*) (Ā. 9-10), that in the sacrifice called Aptoryāma, among the additional uktha mantras recited by the priest called Acchāvāka, the triplet (three Ṛks) त्वमु वः सत्रासाहं (*tvamu vaḥ satrāsāhaṃ*) is to be recited as the optional stotriya triplet. It is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, इमुं सु मायिनं हुवेवमु वः सत्रासाहं (*imuṃ su māyinaṃ huvevamu vaḥ satrāsāhaṃ*) (Ā. 8-8), that on the fourth day of the ten-night sacrifice called Vyuḷha, among the Niṣkevalya śastra mantras, this triplet is also to be added and recited as the nivid-dhānīya triplet.
+**NOTE**
+
+### Printed p. 331
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ध्मं संत॑मन॒र्वाणं॑ सोम॒पामन॑पच्युतम् ।  
+> नर॑मवा॒र्यक्र॑तुम् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युध्मम् । संतम् । अनर्वाणम् । सोमऽपाम् । अनपऽच्युतम् ।  
+> नरम् । अवार्यऽक्रतुम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवंगुणोपेतमिंद्रमागमयेत्याह । युध्मं शत्रूणां संप्रहारकं संतम् अत एव अनर्वाणम् अन्यैरप्रत्यृतमनभिगतं तस्मात् अनपच्युतं संग्रामेषु शत्रुभिरहिंसितं सोमपां सोमस्य पातारमस्य सोमस्य मदे सति अवार्यक्रतुं भटैरनिवारणीयकर्माणं नरं सर्वस्य नेतारम् । एतादृग्गुणोपेतमिंद्रमागमयेति पूर्वेण सह संबंधः ॥
+
+##### Gist of the bhāṣya
+
+He says: bring Indra, who has such qualities. He is युध्मं (*yudhmaṃ*), a smiter of enemies; therefore अनर्वाणम् (*anarvāṇam*), unopposed and unapproached by others; and therefore अनपच्युतं (*anapacyutaṃ*), unharmed by enemies in battles. He is सोमपां (*somapāṃ*), the drinker of Soma; when he is exhilarated by this Soma he is अवार्यक्रतुं (*avāryakratuṃ*), one whose deeds cannot be held back by warriors; and नरं (*naraṃ*), the leader of all. The verse is connected with the preceding one: bring Indra who has such qualities.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युध्मं (*yudhmaṃ*)—one who slays enemies in battle
+- संतं (*saṃtaṃ*)—one who stands firm in battle without fear
+- अनर्वाणं (*anarvāṇaṃ*)—one whom others cannot withstand
+- अनपच्युतं (*anapacyutaṃ*)—one who is not harmed by enemies in battles
+- सोमपां (*somapāṃ*)—the drinker of Soma
+- अवार्यक्रतुं (*avāryakratuṃ*)—one who cannot be held back by warriors
+- नरं (*naraṃ*)—the leader of all, Indra (summon him towards the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, summon Indra, who slays enemies in battle, who stands firm without fleeing in fear of enemies, whom others cannot withstand, who harms enemies, who drinks Soma, whom warriors cannot hold back, and who is the leader of all.
+
+##### English translation
+The warrior, whom none oppose and non can harm, the quaffer of the Soma, the leader whose deeds cannot be hindered.
+
 ---
 
-**Progress note:** Done through printed p. 325. Sūkta 91 Ṛk 5-7, Sūkta 92 introduction and Ṛk 1-3
+**Progress note:** Done through printed p. 331. Mandala 8 sukta 92 Rk 3 end to Rk 8, pp. 326-331
