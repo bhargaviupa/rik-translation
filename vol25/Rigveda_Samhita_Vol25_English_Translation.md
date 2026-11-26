@@ -26779,6 +26779,302 @@ Soma, slayer of our enemies, the wise one, the fulfiller of the desires of the g
 > इंद्राय । सोम । पातवे । मदाय । परि । सिच्यसे ।  
 > मनःऽचित् । मनसः । पतिः ॥ ८ ॥
 
+### Printed p. 671
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मनश्चित् मनसो ज्ञाता मनसस्पतिः ईश्वरस्त्वम् इंद्राय इंद्रस्य पातवे पानाय मदाय च परि षिच्यसे परितः पात्रेषु सिच्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are the knower of the mind (मनश्चित् (*manaścit*)) and lord of the mind (मनसस्पतिः (*manasaspatiḥ*)). You are poured round about into the vessels for Indra, for his drinking and for his exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- मनश्चित् (*manaścit*)—the hidden mind also
+- ज्ञाता (*jñātā*)—the knower
+- मनसस्पतिः (*manasaspatiḥ*)—you who are the lord of the mind
+- इंद्राय (*iṃdrāya*)—to Indra
+- पातवे (*pātave*)—for drinking
+- मदाय (*madāya*)—for the joy that results from it
+- परिषिच्यसे (*pariṣicyase*)—you are poured round about into the vessels
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who know even the hidden mind and are lord of the mind, are poured round about into the vessels for Indra's drinking and for the joy that results from it.
+
+##### English translation
+Soma, you are cognizant of the mind, lord of the mind, you are poured forth for Indra to drink for his exhilaration.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान सु॒वीर्यं॑ र॒यिं सो॑म रिरीहि नः ।  
+> इंद॒विंद्रे॑ण नो यु॒जा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । सुऽवीर्यम् । रयिम् । सोम । रिरीहि । नः ।  
+> इंदो इति । इंद्रेण । नः । युजा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो क्लिद्यमान पवमान सोम त्वं सुवीर्यं शोभनवीर्योपेतं रयिं धनं नः अस्माकं संबंधिना इंद्रेण युजा सहायेन नः अस्मभ्यं रिरीहि देहि ॥ ॥ ३७ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, flowing and purifying Soma, you give us wealth endowed with excellent heroism (सुवीर्यं (*suvīryaṃ*) is explained as "possessed of good valour"), to us, together with Indra, our associate and helper.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रो (*iṃdro*)—you who flow **NOTE**
+- पवमान (*pavamāna*)—you who are the purifier
+- सोम (*soma*)—O divine Soma
+- सुवीर्यं (*suvīryaṃ*)—endowed with excellent strength
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+
+### Printed p. 672
+
+- रिरीहि (*rirīhi*)—provide
+- इंद्रेण युजा (*iṃdreṇa yujā*)—with the help of Indra, our relative
+- नः (*naḥ*)—to us **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who flow and purify, provide us with wealth endowed with excellent strength. Provide it to us with the help of Indra, our relative.
+
+##### English translation
+Pure-dropping Soma, grant us wealth with excellent male offspring, - grant it to us, Indu, with Indra as our ally.
+
+## Sūkta 12 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘सोमा असृग्रम्' इति नवर्चं द्वादशं सूक्तम् । ऋष्यायाः पूर्ववत् । ‘सोमा असृग्रम्' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The nine-Ṛk hymn beginning सोमा असृग्रम् (*somā asṛgram*) is the twelfth sūkta. The seer and the rest are as before. It is recorded in the Anukramaṇikā as सोमा असृग्रम् (*somā asṛgram*). The use (viniyoga) has been stated.
+
+This sūkta beginning सोमा असृग्रं (*somā asṛgraṃ*) is the twelfth sūkta in the first anuvāka. There are nine Ṛks in it. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is said: सोमा असृग्रं (*somā asṛgraṃ*). The use of the sūkta has been stated before.
+
+Maṇḍala 9; Anuvāka 1; Sūkta 12.
+
+Aṣṭaka 6; Adhyāya 2; Varga 38, 39.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: असितः काश्यपो देवलो वा (*asitaḥ kāśyapo devalo vā*).
+
+Deity: पवमानः सोमः (*pavamānaḥ somaḥ*).
+
+Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमा॑ असृग्र॒मिंद॑वः सु॒ता ऋ॒तस्य॒ साद॑ने ।  
+> इंद्रा॑य॒ मधु॑मत्तमाः ॥ १ ॥
+
+### Printed p. 673
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमाः । असृग्रम् । इंदवः । सुताः । ऋतस्य । सदने ।  
+> इंद्राय । मधुमत्ऽतमाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुताः अभिषुताः मधुमत्तमाः अतिशयेन मधुमंतः इंदवः सोमाः ऋतस्य यज्ञस्य सादने गृहे इंद्राय इंद्रार्थम् असृग्रं सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The pressed (सुताः (*sutāḥ*)) Soma juices (इंदवः (*iṃdavaḥ*)), exceedingly sweet (मधुमत्तमाः (*madhumattamāḥ*)), are poured out (असृग्रं (*asṛgraṃ*), "are released") for Indra, that is, for Indra's sake, in the house (सादने (*sādane*)) of the sacrifice (ऋतस्य (*ṛtasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुताः (*sutāḥ*)—pressed with mantras
+- मधुमत्तमाः (*madhumattamāḥ*)—most delicious
+- इंदवः (*iṃdavaḥ*)—flowing
+- सोमाः (*somāḥ*)—Soma juices
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- सादने (*sādane*)—in the house
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- असृग्रं (*asṛgraṃ*)—have been produced
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, pressed with mantras, most delicious and flowing, have been produced for Indra's sake in the sacrificial house.
+
+##### English translation
+The most sweet-flavoured Soma-libations are poured forth to Indra in the hall of sacrifice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि विप्रा॑ अनूषत॒ गावो॑ व॒त्सं न मा॒तरः॑ ।  
+> इंद्रं॒ सोम॑स्य पी॒तये॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । विप्राः । अनूषत । गावः । वत्सम् । न । मातरः ।  
+> इंद्रम् । सोमस्य । पीतये ॥ २ ॥
+
+### Printed p. 674
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्राः मेधाविनः सोमस्य पीतये पानाय इंद्रं मातरः जनयित्र्यः गावः वत्सं न यथा वत्सं प्रति तद्वत् अभि अनूषत अभिशब्दयंति ॥
+
+##### Gist of the bhāṣya
+
+The wise (विप्राः (*viprāḥ*)), the intelligent ones, call out (अभि अनूषत (*abhi anūṣata*), "make sounds towards") to Indra for the drinking of the Soma, as mother cows, those that have borne calves, call out to their calf.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरः (*mātaraḥ*)—that have borne calves
+- गावः (*gāvaḥ*)—cows
+- वत्सं न (*vatsaṃ na*)—as they call out to their calves with lowing
+- विप्राः (*viprāḥ*)—the wise praisers
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- इंद्रं (*iṃdraṃ*)—Indra
+- आभ्यनूषत (*ābhyanūṣata*)—call, making a sound
+
+##### भावार्थ (Bhāvārtha)
+
+As cows that have borne calves call out to their calves with lowing, the wise praisers call out to Indra (praising him) for the drinking of the Soma juice.
+
+##### English translation
+The wise (priests) call upon Indra to drink the Soma as the mother cows low to their calves.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒द॒च्युत्क्षे॑ति॒ साद॑ने॒ सिंधो॑रू॒र्मा वि॑प॒श्चित् ।  
+> सोमो॑ गौ॒री अधि॑ श्रि॒तः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मदऽच्युत् । क्षेति । सदने । सिंधोः । ऊर्मा । विपःऽचित् ।  
+> सोमः । गौरी इति । अधि । श्रितः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदच्युत् मदकरस्य रसस्य च्यावयिता सोमः सादने । संहितायां दीर्घश्छांदसः । स्थाने क्षेति निवसति । एतदेव विवृणोति । सिंधाः नद्याः ऊर्मा ऊर्मौ तरंगे। वसतीवरीष्वित्यर्थः । विपश्चित् विद्वान् सोमः गौरी अधि गौर्यामधि । अधीति सप्तम्यर्थानुवादः। माध्यमिकायां वाचि । ‘गौरी गांधर्वी ' इति वाङ्नामसु पाठात् । श्रितः निवसति ॥
+
+##### Gist of the bhāṣya
+
+Soma, who makes the exhilarating juice flow (मदच्युत् (*madacyut*)), dwells (क्षेति (*kṣeti*), "abides") in the place (सादने (*sādane*)). He explains this: in the wave (ऊर्मा (*ūrmā*)) of the river, that is, in the waters called vasatīvarī **NOTE**. The learned (विपश्चित् (*vipaścit*)) Soma dwells (श्रितः (*śritaḥ*)) in Gaurī, that is, in the middle speech (mādhyamikā vāc), since गौरी गांधर्वी (*gaurī gāṃdharvī*) is read in the list of names of speech.
+
+### Printed p. 675
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदच्युत् (*madacyut*)—Soma that pours out the juice which causes joy
+- सादने (*sādane*)—in the sacrificial house
+- सिंधोः (*siṃdhoḥ*)—of the river
+- ऊर्मा (*ūrmā*)—joining in the form of a wave in the vasatīvarī
+- क्षेति (*kṣeti*)—dwells
+- विपश्चित् (*vipaścit*)—knowing all
+- सोमः (*somaḥ*)—Soma
+- गौरी अधि (*gaurī adhi*)—joining with the middle speech
+- श्रितः (*śritaḥ*)—dwells
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who pours out the juice that causes joy, dwells in the sacrificial house, joining the water called vasatīvarī, in the form of the waves of the river. Soma, who knows all, dwells joined with the middle speech.
+
+##### English translation
+The wise Soma, the bestower of exhilaration, dwells in the hall of (sacrifice), mixed with the waves of the river to a chant in the middle tone.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो नाभा॑ विचक्ष॒णोऽव्यो॒ वारे॑ महीयते ।  
+> सोमो॒ यः सु॒क्रतुः॑ क॒विः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । नाभा । विऽचक्षणः । अव्यः । वारे । महीयते ।  
+> सोमः । यः । सुऽक्रतुः । कविः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सुक्रतुः सुप्रज्ञः कविः क्रांतकर्मा विचक्षणः विद्रष्टा सः सोमः दिवः अंतरिक्षस्य नाभा नाभौ नाभिभूते अव्यः अवेः वारे वाले महीयते पूज्यते । पूयमानः स्तूयत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Soma who is of good understanding (सुक्रतुः (*sukratuḥ*)), a seer (कविः (*kaviḥ*), one whose work is accomplished), and discerning (विचक्षणः (*vicakṣaṇaḥ*), a perceiver), is honoured (महीयते (*mahīyate*)) in the navel (नाभा (*nābhā*)) of the sky (दिवः (*divaḥ*)), that is, of the atmosphere, in the fleece (वारे (*vāre*), "in the hair") of the sheep (अव्यः (*avyaḥ*)). The meaning is that, while being purified, he is praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- कविः (*kaviḥ*)—being wise
+- सुक्रतुः (*sukratuḥ*)—having excellent works
+- विचक्षणः (*vicakṣaṇaḥ*)—having discerning vision, such
+- सोमः (*somaḥ*)—Soma
+- दिवः (*divaḥ*)—of the atmosphere
+- नाभा (*nābhā*)—in the navel region (the middle part)
+- अव्यः वारे (*avyaḥ vāre*)—on the woollen filter that purifies (while being filtered)
+- महीयते (*mahīyate*)—is worshipped
+
+### Printed p. 676
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is wise, of excellent works and of discerning vision, is worshipped in the middle part of the atmosphere, on the woollen filter of the ten-fold filtering cloth (while being filtered).
+
+##### English translation
+Soma, the observant, who is the wise seer, is worshipped in the navel of the sky, the woollen filter.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः सोमः॑ क॒लशे॒ष्वाँ अं॒तः प॒वित्र॒ आहि॑तः ।  
+> तमिंदुः॒ परि॑ षस्वजे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । सोमः । कलशेषु । आ । अंतरिति । पवित्रे । आऽहितः ।  
+> तम् । इंदुः । परि । सस्वजे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः कलशेषु कुंभेषु आ आस्ते यश्च पवित्र पवित्रस्य अंतः मध्ये आहितः निहितः तं स्वांशभूतं सोमम् इंदुः सोमो देवः परि षस्वजे प्रविशति ॥ ॥ ३८ ॥
+
+##### Gist of the bhāṣya
+
+The Soma that is in the ewers (कलशेषु (*kalaśeṣu*), "jars") and that is placed (आहितः (*āhitaḥ*)) in the middle of the filter (पवित्र (*pavitra*)), that Soma, which is a part of himself, the god Indu, Soma, enters (परि षस्वजे (*pari ṣasvaje*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- सोमः (*somaḥ*)—Soma
+- कलशेषु (*kalaśeṣu*)—in the vessels called kalaśa
+- आ (*ā*)—is (and)
+- पवित्रे (*pavitre*)—of the ten-fold filtering cloth
+- अंतः (*aṃtaḥ*)—in the middle
+- आहिते (*āhite*)—is placed
+- तं (*taṃ*)—that Soma
+- इंदुः (*iṃduḥ*)—the god Soma
+- परि षस्वजे (*pari ṣasvaje*)—enters as if embracing
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma that is in the kalaśa vessels and is placed in the middle of the ten-fold filtering cloth, that Soma the god Soma enters as if embracing it.
+
+##### English translation
+Indu has embraced that Soma which is collected in the ewers and has been passed through the filter.
+
 ---
 
-**Progress note:** Done through printed p. 670. sūkta 11 Ṛk 1 bhāṣya to Ṛk 7, Ṛk 8 verse
+**Progress note:** Done through printed p. 676. Ṛk 8 end, Ṛk 9, Sūkta 12 Ṛks 1-5 (pp. 671-676)
