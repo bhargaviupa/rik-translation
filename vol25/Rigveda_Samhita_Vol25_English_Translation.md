@@ -22466,6 +22466,288 @@ O Indu, Soma who are moistened in the sacrifices: we go towards you (त्व�
 - आशसः (*āśasaḥ*)—praises also
 - त्वे (*tve*)—are offered to you
 
+### Printed p. 581
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who flow in the form of a stream in the sacrifice, we move towards you. Every day all our activities are for your worship alone. Our praises too are offered in you alone.
+
+##### English translation
+To you we come, O dropping (Soma), for you only is this our worship day by day, our prayers are to you, none other.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒नाति॑ ते परि॒स्रुतं॒ सोमं॒ सूर्य॑स्य दुहि॒ता ।  
+> वारे॑ण॒ शश्व॑ता॒ तना॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनाति । ते । परिऽस्रुतम् । सोमम् । सूर्यस्य । दुहिता ।  
+> वारेण । शश्वता । तना ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव परिस्रुतं क्षरंतं सोमं सोमरसं सूर्यस्य दुहिता श्रद्धा देवी वारेण वालेन शश्वता शाश्वतेन तना विस्तृतेन पुनाति । तथा च वाजसनेयिन आमनंति-: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति' इति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the daughter of the Sun, the goddess Śraddhā, purifies (पुनाति (*punāti*)) your streaming (परिस्रुतं (*parisrutaṃ*), that is, flowing) Soma-juice with an eternal (शश्वता (*śaśvatā*)) and extended (तना (*tanā*)) hair (वारेण (*vāreṇa*)). So the Vājasaneyins declare: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति (*śraddhā vai sūryasya duhitā śraddhā hyenaṃ punāti*) इति (*iti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- ते (*te*)—your
+- परिस्रुतं (*parisrutaṃ*)—streaming, flowing
+- सोमं (*somaṃ*)—the juice
+- सूर्यस्य (*sūryasya*)—of the Sun
+- दुहिता (*duhitā*)—the daughter, the goddess Śraddhā
+- शश्वता (*śaśvatā*)—eternal
+- तना (*tanā*)—and widely spread
+- वारेण (*vāreṇa*)—with hair
+- पुनाति (*punāti*)—purifies
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the goddess Śraddhā, the daughter of the Sun, purifies your juice, which flows in the form of a stream, with eternal and widely spread hair.
+
+### Printed p. 582
+
+##### English translation
+The daughter of the Sun purifies your gushing streams through the eternal outstretched hair.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमी॒मण्वीः॑ सम॒र्य आ गृ॒भ्णंति॒ योष॑णो॒ दश॑ ।  
+> स्वसा॑रः॒ पार्ये॑ दि॒वि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ईम् । अण्वीः । सऽमर्ये । आ । गृभ्णंति । योषणः । दश ।  
+> स्वसारः । पार्ये । दिवि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समर्ये समनुष्ये यज्ञे पार्ये दिवि सौत्येऽहनि योषणः स्त्रियः स्वसारः स्वयं सरंत्यो दशसंख्याकाः अण्वीः अण्व्योऽंगुलयः । ‘अग्रुवः अण्व्यः' इत्यंगुलिनामसु पाठात् । तमीं तमेनं सोमम् आ गृभ्णंति आगृह्णंति ॥
+
+##### Gist of the bhāṣya
+
+In the sacrifice (समर्ये (*samarye*)) attended by men (समनुष्ये (*samanuṣye*)), on the Pārya day (पार्ये दिवि (*pārye divi*)), that is, on the day of pressing (सौत्येऽहनि (*sautye 'hani*)), the women (योषणः (*yoṣaṇaḥ*)), the self-moving ones (स्वसारः (*svasāraḥ*)), ten in number, the अण्वीः (*aṇvīḥ*), that is, the fingers, seize (आ गृभ्णंति (*ā gṛbhṇaṃti*), that is, take hold of) this very (तमीं (*tamīṃ*)) Soma. For अग्रुवः अण्व्यः (*agruvaḥ aṇvyaḥ*) are read among the names of the fingers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समर्ये (*samarye*)—in the sacrifice filled with men
+- पार्ये दिवि (*pārye divi*)—on the last day
+- योषणः (*yoṣaṇaḥ*)—which are of female form
+- स्वसारः (*svasāraḥ*)—and are like sisters
+- दश अण्वीः (*daśa aṇvīḥ*)—the ten fingers
+- तमीं (*tamīṃ*)—that very Soma
+- आ गृभ्णंति (*ā gṛbhṇaṃti*)—hold
+
+##### भावार्थ (Bhāvārtha)
+
+In the sacrifice filled with men, on the last day, the ten fingers, which are of female form and like sisters, hold that very Soma.
+
+##### English translation
+The ten sister-fingers seize you in the sacrifice, on the final day (of the oblation).
+
+### Printed p. 583
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमीं॑ हिन्वंत्य॒ग्रुवो॒ धमं॑ति बाकु॒रं दृति॑म् ।  
+> त्रि॒धातु॑ वार॒णं मधु॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ईम् । हिन्वंति । अग्रुवः । धमंति । बाकुरम् । दृतिम् ।  
+> त्रिऽधातु । वारणम् । मधु ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमीम् एनं सोमम् अग्रुवः अंगुलयः हिन्वंति अभिषवदेशं प्रति प्रेरयंति । प्रेरयित्वा च बाकुरं भासमानं दृतिं दृतिसदृशांशुमेनं सोमं धमंति अभिषुण्वंति । यद्यपि धमतिरभिषवकर्मा न भवति तथाप्यौचित्यादत्राभिषवपरो भविष्यति । तदेतत् सोमात्मकं मधु वस्तु त्रिधातु त्रिस्थानम् । द्रोणकलश आधवनीयः पूतभृदिति त्रिधातवः । वारणं शत्रूणां वारकं च भवति ॥
+
+##### Gist of the bhāṣya
+
+The fingers (अग्रुवः (*agruvaḥ*)) urge (हिन्वंति (*hinvaṃti*)) this Soma towards the place of pressing. Having urged it, they press (धमंति (*dhamaṃti*), that is, अभिषुण्वंति (*abhiṣuṇvaṃti*)) this shining (बाकुरं (*bākuraṃ*)) Soma, whose shoots are like a skin (दृतिं (*dṛtiṃ*)). Although the root धमति (*dhamati*) does not mean pressing, by propriety it will have that sense here. This honey (मधु (*madhu*)), the substance that is Soma, is threefold (त्रिधातु (*tridhātu*)), having three places: the Droṇakalaśa, the Ādhavanīya and the Pūtabhṛt are the three. It is also the warder-off (वारणं (*vāraṇaṃ*)) of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं ईं (*taṃ īṃ*)—this very Soma
+- अग्रुवः (*agruvaḥ*)—the fingers
+- हिन्वंति (*hinvaṃti*)—carry to the place of pressing
+- बाकुरं (*bākuraṃ*)—shining
+- दृतिं (*dṛtiṃ*)—and glittering like a water-skin, the Soma
+- धमंति (*dhamaṃti*)—they pound and press
+- मधु (*madhu*)—(afterwards) its delicious juice
+- त्रिधातु (*tridhātu*)—is established in the vessels called Droṇakalaśa, Ādhavanīya and Pūtabhṛt
+- वारणं (*vāraṇaṃ*)—and is the one that holds back enemies
+
+##### भावार्थ (Bhāvārtha)
+
+The fingers carry this very Soma to the place of pressing. They pound and press the Soma, which is shining and glitters like a water-skin. Afterwards its delicious juice is established in the vessels called Droṇakalaśa, Ādhavanīya and Pūtabhṛt, and holds back enemies.
+
+##### English translation
+The fingers press the Soma, they squeeze it glittering like a water-skin ; its juice becomes threefold, enemy averting.
+
+### Printed p. 584
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी॒३॒॑ममघ्न्या॑ उ॒त श्री॒णंति॑ धे॒नवः॒ शिशु॑म् ।  
+> सोम॒मिंद्रा॑य॒ पात॑वे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । इमम् । अघ्न्याः । उत । श्रीणंति । धेनवः । शिशुम् ।  
+> सोमम् । इंद्राय । पातवे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च इमम् एनं शिशुं बालं सोमम् अघ्न्याः अस्तब्धाः अहंतव्याः धेनवः गावः इंद्राय   पातवे पातुम् अभि श्रीणंति । स्वकीयेन पयसा संस्कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Moreover (उत (*uta*)), the inviolable (अघ्न्याः (*aghnyāḥ*), that is, अस्तब्धाः अहंतव्याः (*astabdhāḥ ahaṃtavyāḥ*)) cows (धेनवः (*dhenavaḥ*)) mingle (अभि श्रीणंति (*abhi śrīṇaṃti*)) this child (शिशुं (*śiśuṃ*), that is, the young) Soma, for Indra to drink (पातवे (*pātave*)). The meaning is that they prepare it with their own milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतॆ (*utè*)—and
+- शिशुं (*śiśuṃ*)—newly pressed just now
+- इमं सोमं (*imaṃ somaṃ*)—this Soma
+- अघ्न्याः (*aghnyāḥ*)—which are not to be harmed
+- धेनवः (*dhenavaḥ*)—cows abounding in milk and the like
+- इंद्राय (*iṃdrāya*)—for Indra
+- पातवे (*pātave*)—for drinking
+- अभि श्रीणंति (*abhi śrīṇaṃti*)—mix with their own milk and so prepare
+
+##### भावार्थ (Bhāvārtha)
+
+The cows, which are not to be harmed and abound in milk and the like, prepare this Soma, newly pressed just now, by mixing it with their own milk, for Indra to drink.
+
+##### English translation
+The inviolable cows mingle this fresh Soma with their milk for Indra to drink.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्येदिंद्रो॒ मदे॒ष्वा विश्वा॑ वृ॒त्राणि॑ जिघ्नते ।  
+> शूरो॑ म॒घा च॑ मंहते ॥ १० ॥
+
+### Printed p. 585
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । इत् । इंद्रः । मदेषु । आ । विश्वा । वृत्राणि । जिघ्नते ।  
+> शूरः । मघा । च । मंहते ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शूरः वीरः इंद्रः अस्येत् अस्य सोमस्यैव मदेषु विश्वा विश्वानि वृत्राणि शत्रून् आ जिघ्नते आहंति । मघा मघानि धनानि च मंहते यजमानेभ्यः प्रयच्छति ॥ ॥ १७ ॥
+
+##### Gist of the bhāṣya
+
+The hero (शूरः (*śūraḥ*), that is, वीरः (*vīraḥ*)) Indra, in the exhilarations (मदेषु (*madeṣu*)) of this very Soma, smites (आ जिघ्नते (*ā jighnate*), that is, आहंति (*āhaṃti*)) all (विश्वा (*viśvā*)) enemies (वृत्राणि (*vṛtrāṇi*)). And he bestows (मंहते (*maṃhate*)) riches (मघा (*maghā*), that is, wealth) on the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरः (*śūraḥ*)—the valiant
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्येत् (*asyet*)—by drinking this very Soma
+- मदेषु (*madeṣu*)—when exhilaration arises
+- विश्वा (*viśvā*)—all
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- आ जिघ्नते (*ā jighnate*)—kills
+- मघा च (*maghā ca*)—and riches
+- मंहते (*maṃhate*)—gives to the sacrificers
+
+##### भावार्थ (Bhāvārtha)
+
+The valiant Indra, when exhilaration arises from drinking this very Soma, kills all the enemies. He provides riches to the sacrificers.
+
+##### English translation
+In the exhilaration of this draught the hero Indra smites all his enemies and bestows wealth (on his worshippers).
+
+The second sūkta.
+
+## Sūkta 2 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘पवस्व ' इति दशर्चं द्वितीयं सूक्तं काण्वस्य मेधातिथेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतं- पवस्व मेधातिथि:' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पवस्व (*pavasva*), of ten Ṛks, is the second sūkta. Its seer is Medhātithi Kāṇva; the metre is Gāyatrī; the deity is Pavamāna Soma. So the Anukramaṇikā says: पवस्व मेधातिथि (*pavasva medhātithi*). The ritual use has been stated.
+
+##### Anuvāda
+
+This sūkta beginning पवस्व (*pavasva*) is the second sūkta in the first anuvāka. There are ten Ṛks in it. The seer of this sūkta is the one named मेधातिथिः काण्वः (*medhātithiḥ kāṇvaḥ*); Pavamāna
+
+### Printed p. 586
+
+Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: पवस्व मेधातिथिः (*pavasva medhātithiḥ*). The ritual use has been stated before.
+
+##### Particulars
+
+Sūkta 2.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 2.
+
+Aṣṭaka 6. Adhyāya 7. Vargas 18, 19.
+
+Number of Ṛks in the sūkta: 10.
+
+Seer: Medhātithi.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व देव॒वीरति॑ प॒वित्रं॑ सोम॒ रंह्या॑ ।  
+> इंद्र॑मिंदो॒ वृषा वि॑श ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । देवऽवीः । अति । पवित्रम् । सोम । रंह्या ।  
+> इंद्रम् । इंदो इति । वृषा । आ । विश ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देववीः देवकामस्त्वं रंह्या वेगेन पवित्रं यथा भवति तथा अति पवस्व अतिक्षर । किंच हे इंदो वृषा सेचकस्त्वम् इंद्रम् आ विश प्रविश ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who desire the gods (देववीः (*devavīḥ*), that is, desirous of the gods), flow across (अति पवस्व (*ati pavasva*), that is, अतिक्षर (*atikṣara*)) with speed (रंह्या (*raṃhyā*), that is, वेगेन (*vegena*)) in such a way that the filter (पवित्रं (*pavitraṃ*)) is passed. Moreover, O Indu, you the showerer (वृषा (*vṛṣā*), that is, the one who sprinkles), enter (आ विश (*ā viśa*), that is, प्रविश (*praviśa*)) Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma
+- देववीः (*devavīḥ*)—you who wish to serve the gods
+- रंह्या (*raṃhyā*)—with speed
+- पवित्रं (*pavitraṃ*)—so as to be pure
+- अति पवस्व (*ati pavasva*)—flow
+- इंदो (*iṃdo*)—O flowing Soma
+- वृषा (*vṛṣā*)—you who shower the desires
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ विश (*ā viśa*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who wish to serve the gods, flow with speed and so as to be pure. O flowing Soma, you who shower the desires, enter Indra.
+
 ---
 
-**Progress note:** Done through printed p. 580. End of Mandala 8, opening of Mandala 9 Sukta 1 Rk 1-5, pp. 573-580
+**Progress note:** Done through printed p. 586. Mandala 9 Sukta 1 Rks 5-10 and Sukta 2 Rk 1
