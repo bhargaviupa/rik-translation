@@ -58,3 +58,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 50 | 137–151 | 27 | 21 | 6 questions (first try lost to the usage limit, re-run) | see git log |
 | 51 | 152–166 | 28 | 22 | 6 questions | see git log |
 | 52 | 167–184 | 24 | 18 | 6 questions; p. 180 not in the supplied text | see git log |
+| scan | 232–233 (me), 260 290 318 324 338 (A), 366 372 390 408 (B), 414 422 434 440 (C), 458 484 506 514 518 (D) | 2+17+13+13+9 | 12 (2 + 0 + 5 + 5 + 0) | the rest are number readings left as questions (scan digits are model readings); transcripts in `scan_pages/`; pp. 84, 180, 604, 626 are outside the scan | see git log |
