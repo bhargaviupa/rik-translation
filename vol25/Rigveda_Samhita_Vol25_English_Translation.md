@@ -21941,6 +21941,256 @@ Singers of hymns, sing aloud to the mighty Agni, most bounteous, observant of tr
 > आ वं॑सते म॒घवा॑ वी॒रव॒द्यशः॒ समि॑द्धो द्यु॒म्न्याहु॑तः ।  
 > कु॒विन्नो॑ अस्य सुम॒तिर्नवी॑य॒स्यच्छा॒ वाजे॑भिरा॒गम॑त् ॥ ९ ॥
 
+### Printed p. 567
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वंसते । मघऽवा । वीरऽवत् । यशः । सम्ऽइद्धः । द्युम्नी । आऽहुतः ।  
+> कुवित् । नः । अस्य । सुऽमतिः । नवीयसी । अच्छ । वाजेभिः । आऽगमत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघवा धनवान् द्युम्नी अन्नवान् यशस्वी वा । तथा च यास्कः---‘द्युम्नं द्योततेर्यशो वान्नं वा' (निरु. ५. ५) इति । यशः यशस्करमन्नम् आ वंसते यजमानेभ्य आ प्रयच्छति। अस्य अग्नेः नवीयसी नवतरा सुमतिः अनुग्रहबुद्धिः नः अस्मान् अच्छ' प्रति वाजेभिः अन्नैः सह कुवित् बहुवारम्'। 'सलिलं कुवित्' इति बहुनामसु पाठात् । आगमत् आगच्छतु॥
+
+##### Gist of the bhāṣya
+
+Maghavan is the wealthy one; dyumnin is the possessor of food, or the glorious one. So Yāska says: "dyumna is from the root dyut (to shine); it is either glory or food" (Niru. 5. 5) **NOTE**. Agni gives (आ वंसते (*ā vaṃsate*)) glory-bringing food (यशः (*yaśaḥ*)) to the sacrificers. May this Agni's ever fresher favour (सुमतिः (*sumatiḥ*), a mind of kindness) come to us together with foods (वाजेभिः (*vājebhiḥ*)) many times (कुवित् (*kuvit*)); for सलिलं कुवित् (*salilaṃ kuvit*) is read among the names for "much".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिद्धः (*samiddhaḥ*)—who is kindled
+- आहुतः (*āhutaḥ*)—to whom the oblation is offered
+- मघवा (*maghavā*)—who is wealthy
+- द्युम्नी (*dyumnī*)—and possesses food, Agni
+- यशः (*yaśaḥ*)—glory-bringing food
+- आ वंसते (*ā vaṃsate*)—fills for the sacrificers
+- अस्य (*asya*)—this Agni's
+- नवीयसी (*navīyasī*)—fresh
+- सुमतिः (*sumatiḥ*)—mind of favour
+- नः अच्छ (*naḥ accha*)—towards us
+- वाजेभिः (*vājebhiḥ*)—with foods
+- कुवित् (*kuvit*)—many times
+- आ गमत् (*ā gamat*)—may it come and join
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is kindled, to whom the oblation is offered, who is wealthy and possesses food, fills the sacrificer with glory-bringing food. May this Agni's fresh mind of favour come and join us many times with foods.
+
+##### English translation
+The wealthy and glorious (Agni), when invoked and kindled, pours forth on his votaries abundance of food with children ; may his ever fresh favour continually come to us with all kinds of food.
+
+### Printed p. 568
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेष्ठ॑मु प्रि॒याणां॑ स्तु॒ह्या॑सा॒वाति॑थिम् ।  
+> अ॒ग्निं रथा॑नां॒ यम॑म् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रेष्ठम् । ऊं इति । प्रियाणाम् । स्तुहि । आसाव । अतिथिम् ।  
+> अग्निम् । रथानाम् । यमम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आसाव स्तोतः प्रियाणां प्रेष्ठं प्रियतमम् अतिथिम् अभ्यागतं रथानां यमं यंतारम् अग्निम् एव स्तुहि ॥ ॥ १४ ॥
+
+##### Gist of the bhāṣya
+
+O praiser (आसाव (*āsāva*)), praise Agni alone, the dearest of the dear, the guest who has arrived, the controller (यमं (*yamaṃ*)) of chariots.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसाव (*āsāva*)—O praiser
+- प्रियाणां (*priyāṇāṃ*)—among all the dear ones
+- प्रेष्ठं (*preṣṭhaṃ*)—the dearest
+- अतिथिं (*atithiṃ*)—worthy of honour like a guest
+- रथानां (*rathānāṃ*)—of chariots
+- युवः (*yuvaḥ*)—the controller **NOTE**
+- अग्निं उ (*agniṃ u*)—Agni alone
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise Agni alone, the dearest of all the dear ones, worthy of honour like a guest, the controller of chariots.
+
+##### English translation
+Praise, singer of hymns, the guest, Agni the dearest of the dear, the driver of chariots.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदि॑ता॒ यो निदि॑ता॒ वेदि॑ता॒ वस्वा य॒ज्ञियो॑ व॒वर्त॑ति ।  
+> दु॒ष्टरा॒ यस्य॑ प्रव॒णे नोर्मयो॑ धि॒या वाजं॒ सिषा॑सतः ॥ ११ ॥
+
+### Printed p. 569
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्ऽइता । यः । निऽदिता । वेदिता । वसु । आ । यज्ञियः । ववर्तति ।  
+> दुस्तराः । यस्य । प्रवणे । न । ऊर्मयः । धिया । वाजम् । सिसासतः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेदिता वेत्ता यज्ञियः यज्ञार्हः यः अग्निः उदिता उदितान्युद्गतानि निदिता निदितानि श्रुतानि च वसु वसूनि धनानि आ ववर्तति आवर्तयति। धिया कर्मणा वाजं संग्राम सिषासतः संभक्तुमिच्छतः यस्य चाग्नेर्ज्वालाः प्रवणे नोर्मयः प्रवणाभिमुखाः समुद्रस्य तरंगा इव दुष्टराः तर्तुमशक्याः । तमग्निं हे स्तोतः स्तुहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Agni is the knower (वेदिता (*veditā*)) and is worthy of the sacrifice (यज्ञियः (*yajñiyaḥ*)). He brings (आ ववर्तति (*ā vavartati*)) riches that have risen up and are famous, that is, risen up and heard of. For the one who desires with his rite to win (सिषासतः (*siṣāsataḥ*)) the battle (वाजं (*vājaṃ*)), the flames of this Agni are like the waves of the sea rushing down a declivity, hard to cross, that is, impossible to cross. O praiser, praise that Agni: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वेदिता (*veditā*)—who knows all
+- यज्ञियः (*yajñiyaḥ*)—and is worthy of worship
+- यः (*yaḥ*)—which Agni
+- उदिता (*uditā*)—risen up from the store
+- निदिता (*niditā*)—and well known
+- वसु (*vasu*)—wealth
+- आ ववर्तति (*ā vavartati*)—brings to the sacrificers
+- धिया (*dhiyā*)—by the rite
+- वाजं (*vājaṃ*)—the battle
+- सिषासतः (*siṣāsataḥ*)—who wishes to carry out
+- यस्य (*yasya*)—of which Agni, the flames
+- प्रवणे (*pravaṇe*)—flowing in a low place
+- ऊर्मयो न (*ūrmayo na*)—like the waves of the sea
+- दुष्पराः (*duṣparāḥ*)—are unchecked (praise that Agni)
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Agni who knows all and is worthy of worship, who brings to the sacrificers wealth that has risen up from the store and is well known, and whose flames, as he wishes to carry out the battle by the rite, are unchecked like the waves of the sea flowing in a low place.
+
+##### English translation
+(Praise him) the knower, worthy of the sacrifice, who brings to us treasures which have come up (from the depths) and are far-renowned,— whose (flames), as he hastens to wage the battle by means of our sacred rite and hard to be passed through as waves rushing down a declivity.
+
+### Printed p. 570
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ हृणीता॒मति॑थि॒र्वसु॑र॒ग्निः पु॑रुप्रश॒स्त ए॒षः ।  
+> यः सु॒होता॑ स्वध्व॒रः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । हृणीताम् । अतिथिः । वसुः । अग्निः । पुरुऽप्रशस्तः । एषः ।  
+> यः । सुऽहोता । सुऽअध्वरः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुः वासकः अतिथिः अतिथिवत् प्रियः पुरुप्रशस्तः बहुभिः स्तुतः सुहोता सुष्ठु देवानामाह्वाता स्वध्वरः सुयज्ञश्च यः अग्निः सः एषः अग्निः नः अस्मभ्यं मा हृणीतां केनापि न रुध्यताम् । केनाप्यनवरुद्धः सन् अग्निः अस्मभ्यमभीष्टं प्रयच्छत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Agni who is the giver of dwellings (वसुः (*vasuḥ*)), dear like a guest (अतिथिः (*atithiḥ*)), praised by many (पुरुप्रशस्तः (*purupraśastaḥ*)), a good invoker (सुहोता (*suhotā*)) who calls the gods well, and one of good sacrifice (स्वध्वरः (*svadhvaraḥ*)): may that Agni not be obstructed (मा हृणीतां (*mā hṛṇītāṃ*)) by anyone for us; unobstructed by anyone, may Agni grant us what we desire: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसुः (*vasuḥ*)—giver of dwellings
+- अतिथिः (*atithiḥ*)—worthy of honour like a guest
+- पुरुप्रशस्तः (*purupraśastaḥ*)—worthy of the praise of many
+- सुहोता (*suhotā*)—an excellent invoker
+- स्वध्वरः (*svadhvaraḥ*)—a performer of excellent sacrifice
+- यः (*yaḥ*)—which
+- अग्निः (*agniḥ*)—Agni there is
+- एषः (*eṣaḥ*)—that same Agni
+- नः (*naḥ*)—in fulfilling our desire
+- मा हृणीतां (*mā hṛṇītāṃ*)—may he not be stopped by anyone
+
+##### भावार्थ (Bhāvārtha)
+
+May that Agni who is the giver of dwellings, worthy of honour like a guest, worthy of the praise of many, an excellent invoker and a performer of excellent sacrifice, not be stopped by anyone in fulfilling our desire.
+
+##### English translation
+May none hinder Agni from coming to us, our guest, the giver of of dwellings, praised by many,—(Agni) who is the excellent invoker of the gods, who offers an excellent sacrifice **NOTE**
+
+### Printed p. 571
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो ते रि॑ष॒न्ये अच्छो॑क्तिभिर्व॒सोऽग्ने॒ केभि॑श्चि॒देवैः॑ ।  
+> की॒रिश्चि॒द्धि त्वामीट्टे॑ दू॒त्या॑य रा॒तह॑व्यः स्वध्व॒रः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । ते । रिषन् । ये । अच्छोक्तिऽभिः । वसो इति । अग्ने । केभिः । चित् । एवैः ।  
+> कीरिः । चित् । हि । त्वाम् । ईट्टे । दूत्याय । रातऽहव्यः । सुऽअध्वरः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासक अग्ने त्वां ये मनुष्याःअच्छोक्तिभिः अभिष्टुतिभिः केभिः कैः सुखकरैः एवैः चित् अभिगमनैरपि ते स्तोतारः मो रिषन् मैव हिंसंताम् । रातहव्यः दत्तहविष्कः कीरिश्चित् स्तोतापि दूत्याय हविर्वहनादिलक्षणीय दूतकर्मणे त्वामी हि स्तौति खलु ॥
+
+##### Gist of the bhāṣya
+
+O Vasu (giver of dwellings), Agni: those men who with hymns of praise (अच्छोक्तिभिः (*acchoktibhiḥ*)), with whatever pleasant approaches (एवैः (*evaiḥ*), that is, comings towards you), praise you, may those worshippers not be harmed. The worshipper too, who has given his oblation (रातहव्यः (*rātahavyaḥ*)), praises you for the work of messenger, such as carrying the oblation. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwellings
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—which worshippers
+- केभिः (*kebhiḥ*)—pleasant
+- एवैश्चित् (*evaiścit*)—and which honour you
+- अच्छोक्तिभिः (*acchoktibhiḥ*)—with excellent hymns (praise you)
+- ते (*te*)—those same worshippers
+- मो रिषन् (*mo riṣan*)—may they not be harmed by anyone
+- रातहव्यः (*rātahavyaḥ*)—who offers oblation and worships
+- स्वध्वरः (*svadhvaraḥ*)—the excellent sacrificer
+- कीरिश्चित् (*kīriścit*)—the praiser also
+- दूत्याय (*dūtyāya*)—for carrying the oblation to the gods
+- त्वां हि (*tvāṃ hi*)—you alone
+- ईट्टे (*īṭṭe*)—praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwellings, those worshippers who praise you with excellent hymns, pleasant and honouring you, may those same worshippers not be harmed by anyone. The excellent sacrificer who offers oblation and worships, the praiser also, praises you alone for carrying the oblation to the gods.
+
+### Printed p. 572
+
+##### English translation
+Agni, giver of dwellings, let not those come to harm, who approach you in whatsoever manner with hymns of praise; the worshipper who offers his libation and duly performs the rite praises you that you may be the bearer of the sacrifice.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग्ने॑ याहि म॒रुत्स॑खा रु॒द्रेभिः॒ सोम॑पीतये ।  
+> सोभ॑र्या॒ उप॑ सुष्टु॒तिं मा॒दय॑स्व॒ स्व॑र्णरे ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्ने । याहि । मरुत्ऽसखा । रुद्रेभिः । सोमऽपीतये ।  
+> सोभर्याः । उप । सुऽस्तुतिम् । मादयस्व । स्वःऽनरे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मरुत्सखा मरुतां प्रियस्त्वं स्वर्णरे अस्माकं यजनलक्षणे कर्मणि सोमपीतये सोमपानाय रुद्रेभिः रुदैर्मरुद्भिः सह आ याहि आगच्छ । सोभर्याः सोभरेर्मम सुष्टुतिं शोभनां स्तुतिं चोपागच्छ । मादयस्व । स्तुतिं श्रुत्वा सोमं पीत्वात्मानं मादय च ॥ ॥ १५ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, friend of the Maruts (मरुत्सखा (*marutsakhā*)), dear to the Maruts: come to our sacrifice (स्वर्णरे (*svarṇare*)) for the drinking of Soma, together with the Rudras, that is, the Maruts. Come also to the good praise of me, of the Sobharis. Hear the praise, drink the Soma and gladden yourself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मरुत्सखा (*marutsakhā*)—you, friend of the Maruts
+- स्वर्णरे्म (*svarṇarema*)—in the excellent sacrifice **NOTE**
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- रुद्रेभिः (*rudrebhiḥ*)—with the Maruts
+- आ याहि (*ā yāhi*)—come graciously
+- सोभर्याः (*sobharyāḥ*)—of me, called Sobhari
+- सुष्टुतिं उप (*suṣṭutiṃ upa*)—attend to the good praise
+- मादयस्व (*mādayasva*)—and also gain joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, friend of the Maruts, come graciously with the Maruts to our excellent sacrifice for the drinking of Soma. Attend to the good praise of me, called Sobhari, and gain the joy that results.
+
 ---
 
-**Progress note:** Done through printed p. 566. Sukta 103 Rk 3 end to Rk 9 Samhita, pp. 561-566
+**Progress note:** Done through printed p. 572. Sukta 103 Rk 9 Pada to Rk 14, pp. 567-572
