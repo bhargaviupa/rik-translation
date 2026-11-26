@@ -22917,6 +22917,254 @@ Sing (you priests) to the intelligent Pāyamana **NOTE**; like a mighty shower h
 > अ॒ग्रे॒गो राजाप्य॑स्तविष्यते वि॒मानो॒ अह्नां॒ भुव॑ने॒ष्वर्पि॑तः ।  
 > हरि॑र्घृ॒तस्नुः॑ सु॒दृशी॑को अर्ण॒वो ज्यो॒तीर॑थः पवते रा॒य ओ॒क्यः॑ ॥ ४५ ॥
 
+### Printed p. 607
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्रेऽगः । राजा । अप्यः । तविष्यते । विऽमानः । अह्नाम् । भुवनेषु । अर्पितः ।  
+> हरिः । घृतऽस्नुः । सुऽदृशीकः । अर्णवः । ज्योतिःऽरथः । पवते । राये । ओक्यः ॥ ४५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्रेगः अग्रे गंता राजा राजमानः अप्यः अप्सु संस्कृतः सोमः तविष्यते स्तूयते । यः अह्नां दिनानां विमानः निर्माता चंद्रकलाहासवृद्ध्यधीनत्वादहर्व्यवहारस्य । भुवनेषु उदकेषु वसतीवरीसंबंधिषु अर्पितः स्थापितः स राजा तविष्यते। किंच हरिः हरितवर्णः घृतस्नुः प्रसृतोदकः सुदृशीकः शोभनदर्शनः अर्णवः उदकवान् । अर्ण इत्युदकनाम। ज्योतीरथः ज्योतिर्मयरथः राये धनस्य प्रापयिता । ओक्यः । ओक इति निवासनाम । तस्य हितः ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+Soma, going in front of all (अग्रेगः (*agregaḥ*), the one who goes ahead), shining, sanctified in the waters (अप्यः (*apyaḥ*)), is praised (तविष्यते (*taviṣyate*) is glossed as is praised). He is the measurer of the days (विमानः (*vimānaḥ*), the maker), because the reckoning of days depends on the waxing and waning of the digits of the moon. He is placed in the waters (भुवनेषु (*bhuvaneṣu*)) connected with the Vasatīvarī waters; such a king is praised. Further, he is green-coloured; घृतस्नुः (*ghṛtasnuḥ*) is one whose water streams forth; of goodly aspect; अर्णवः (*arṇavaḥ*) is one who has water, for अर्ण (*arṇa*) is a name of water; his chariot is made of light; he brings about the winning of wealth (राये (*rāye*)). ओक (*oka*) is a name of a dwelling, and he is beneficial to it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्रेगः (*agregaḥ*)—going ahead of all
+- राजा (*rājā*)—shining
+- अष्यः (*aṣyaḥ*)—sanctified by water **NOTE**
+- आह्नां (*āhnāṃ*)—for the days **NOTE**
+- विमानः (*vimānaḥ*)—the maker
+- भुवनेषु (*bhuvaneṣu*)—in the waters
+- अर्पितः (*arpitaḥ*)—and placed, Soma
+- तविष्यते (*taviṣyate*)—is praised
+- हरिः (*hariḥ*)—having a green colour
+- धृतस्नुः (*dhṛtasnuḥ*)—pouring out water **NOTE**
+- सुदृशीकः (*sudṛśīkaḥ*)—having an excellent aspect
+- अर्णवः (*arṇavaḥ*)—possessing water
+- ज्योतीरथः (*jyotīrathaḥ*)—having a chariot of the form of light; this Soma-deva
+- राये (*rāye*)—for the gaining of wealth
+- ओक्यः (*okyaḥ*)—established in the house
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who goes ahead of all, is shining, sanctified by water, the maker of the days and placed in the waters, is praised. Soma, who is green-coloured, pours out water, has an excellent aspect, possesses water and has a chariot of the form of light, flows, established in the house, for the gaining of wealth.
+
+##### English translation
+(Soma) going foremost, radiant, sanctified by water, placed in the firmament as the measurer of days is glorified ; green-tinted, shedding water. of goodly aspect, the source of moisture, borne in a chariot of light he flows giving wealth, friendly to the house.
+
+### Printed p. 608
+
+#### Ṛk 46
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑र्जि स्कं॒भो दि॒व उद्य॑तो॒ मदः॒ परि॑ त्रि॒धातु॒र्भुव॑नान्यर्षति ।  
+> अं॒शुं रि॑हंति म॒तयः॒ पनि॑प्नतं गि॒रा यदि॑ नि॒र्णिज॑मृ॒ग्मिणो॑ य॒युः ॥ ४६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असर्जि । स्कंभः । दिवः । उत्ऽयतः । मदः । परि । त्रिऽधातुः । भुवनानि । अर्षति ।  
+> अंशुम् । रिहंति । मतयः । पनिप्नतम् । गिरा । यदि । निःऽनिजम् । ऋग्मिणः । ययुः ॥ ४६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवः द्युलोकस्य स्कंभः स्कंभयिता धारकः उद्यतः सोमः असर्जि सृज्यते । अभिषूयते इत्यर्थः । किंच त्रिधातुः । द्रोणकलशाधवनीयपूतभृदाख्यास्त्रयो धातवो यस्य स तथोक्तः । तादृशो भुवनानि उदकानि अर्षति गच्छति । अंशुं सोमं पनिप्नतं शब्दायमानं मतयः पूजकाः रिहंति लिहंति आस्वादयंति । कदा। यदि निर्णिजं निर्णिक्तम् । यद्वा । निर्णिगिति रूपनाम। रूपवंतमित्यर्थः । तम् ऋग्मिणः स्तोतारः गिरा स्तुत्या ययुः गच्छंति तदा ॥
+
+##### Gist of the bhāṣya
+
+Soma, the supporter (स्कंभः (*skaṃbhaḥ*), one who props up) of heaven, the sustainer, uplifted, is let loose (असर्जि (*asarji*) means is pressed). Further, he is threefold in substance (त्रिधातुः (*tridhātuḥ*)): the three substances called Droṇa-kalaśa, Ādhavanīya and Pūtabhṛt belong to him; such as he is, he goes to the waters. The worshippers (मतयः (*matayaḥ*)) lick, that is, taste, the sounding Soma. When? When the singers of Ṛks, the praisers, approach with praise (गिरा (*girā*)) him who is purified (निर्णिजं (*nirṇijaṃ*)); or else, निर्णिक् (*nirṇik*) is a name of form, and the meaning is the one who has form. Then they go to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदः (*madaḥ*)—the giver of joy
+- दिवः (*divaḥ*)—to the world of Dyaus
+- स्कंभः (*skaṃbhaḥ*)—the supporter
+- उद्यतः (*udyataḥ*)—and restrained for the sacrifice, Soma
+- असर्जि (*asarji*)—is pressed
+- त्रिधातुः (*tridhātuḥ*)—Soma who has the three vessels, the Droṇa-kalaśa and others
+- भुवनानि (*bhuvanāni*)—the waters
+- परि अर्षति (*pari arṣati*)—enters
+- यदि (*yadi*)—when
+- निर्णिजं (*nirṇijaṃ*)—Soma who has form
+- ऋग्मिणः (*ṛgmiṇaḥ*)—the praisers
+- गिरा (*girā*)—with praise
+- ययुः (*yayuḥ*)—approach, then
+- मतयः (*matayaḥ*)—the reciters of praise
+- पनिष्कृतं (*paniṣkṛtaṃ*)—sounding **NOTE**
+- अंशुं (*aṃśuṃ*)—Soma
+- रिहंति (*rihaṃti*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the giver of joy, the supporter of the world of Dyaus, restrained for the sacrifice, is pressed. Soma, who has the three vessels, the Droṇa-kalaśa and others, enters the waters. When the praisers approach with praise the Soma who has form, then the reciters of praise drink the sounding Soma.
+
+### Printed p. 609
+
+##### English translation
+The supporter of heaven the prepared cxhilarating (Soma) is let loose, the triple (liquor) rushes to the waters ; the worshippers taste the sounding Soma juice, when the reciters of holy texts approach the embodied (beverage) with praise. **NOTE**
+
+#### Ṛk 47
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ धारा॒ अत्यण्वा॑नि मे॒ष्यः॑ पुना॒नस्य॑ सं॒यतो॑ यंति॒ रंह॑यः ।  
+> यद्गोभि॑रिंदो च॒म्वोः॑ सम॒ज्यस॒ आ सु॑वा॒नः सो॑म क॒लशे॑षु सीदसि ॥ ४७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । धाराः । अति । अण्वानि । मेष्यः । पुनानस्य । सम्ऽयतः । यंति । रंहयः ।  
+> यत् । गोभिः । इंदो इति । चम्वोः । सम्ऽअज्यसे । आ । सुवानः । सोम । कलशेषु । सीदसि ॥ ४७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानस्य पूयमानस्य संयतः संगृह्यमाणाः रंहयः रंहणस्वभावाः धाराः मेष्यः अण्वानि अणूनि लोमानि अति यंति अतिक्रम्य गच्छंति । हे इंदो सोम यत् यदा गोभिः उदकैः चम्वोः अधिषवणफलकयोरुपरि समज्यसे तदानीं हे सोम सुवानः सूयमानस्त्वं कलशेषु आ सीदसि ॥
+
+##### Gist of the bhāṣya
+
+The swift-flowing streams (रंहयः (*raṃhayaḥ*), those whose nature is to rush) of Soma who is being purified, being gathered together, pass beyond the fine hairs of the fleece (अण्वानि (*aṇvāni*) means fine hairs). O Indu, Soma, when you are mixed with the waters over the two boards (चम्वोः (*camvoḥ*), the pressing boards), then, O Soma, being pressed, you settle in the pitchers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- पुनानस्य (*punānasya*)—of you who are purified
+- संयतः (*saṃyataḥ*)—which are gathered together
+- रंहयः (*raṃhayaḥ*)—and are of the nature of a flow
+- धाराः (*dhārāḥ*)—the streams
+- मेष्यः (*meṣyaḥ*)—of the wool
+- अण्वानि (*aṇvāni*)—the threads
+- अति यंति (*ati yaṃti*)—pass beyond
+- यत् (*yat*)—when
+- गोभिः (*gobhiḥ*)—with the waters
+- चन्नोः (*cannoḥ*)—in the ladles **NOTE**
+- समज्यसे (*samajyase*)—you are mixed together, then
+- सोम (*soma*)—O Soma-deva
+- सुवानः (*suvānaḥ*)—you who are pressed
+- कलशेषु (*kalaśeṣu*)—in the pitchers
+- आ सीदसि (*ā sīdasi*)—are established
+
+### Printed p. 610
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your streams, which are purified, gathered together and of the nature of a flow, pass beyond the threads of the wool. When you are mixed together with the waters in the ladles, then you, who are pressed, are established in the pitchers.
+
+##### English translation
+The rapid streams of you when you are purified, being collected together pass through the interstices of the fleece; when yon are mixed with water in the ladles, you, Soma, on being effused alight on the pitchers. **NOTE**
+
+#### Ṛk 48
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम क्रतु॒विन्न॑ उ॒क्थ्योऽव्यो॒ वारे॒ परि॑ धाव॒ मधु॑ प्रि॒यम् ।  
+> ज॒हि विश्वा॑न्र॒क्षस॑ इंदो अ॒त्रिणो॑ बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ४८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । क्रतुऽवित् । नः । उक्थ्यः । अव्यः । वारे । परि । धाव । मधु । प्रियम् ।  
+> जहि । विश्वान् । रक्षसः । इंदो इति । अत्रिणः । बृहत् । वदेम । विदथे । सुऽवीराः ॥ ४८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नः अस्माकं ऋतुवित् कर्मज्ञः । स्तुतिज्ञ इत्यर्थः । उक्थ्यः स्तुत्यः । यतः स्तुत्योऽतः क्रतुविदित्यभिप्रायः । ईदृशस्त्वं नोऽस्माकं यागाय पवस्व स्रव रसम् । अव्यो वारे दशापवित्रे प्रियं मधु परि धाव परिक्षर । हे इंदो दीप्त सोम अत्रिणः भक्षकान् विश्वान रक्षसः जहि । सुवीराः सुपुत्रा वयं विदथे यज्ञे बृहत् महद्धनं वदेम उच्चारयेम । याचेमेत्यर्थः । यद्वा प्रभूतं स्तोत्रं वदेम ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who know the rite for us (ऋतुवित् (*ṛtuvit*) is glossed as one who knows the rite, that is, who knows praise) and are worthy of praise (उक्थ्यः (*ukthyaḥ*)): because you are praiseworthy, you are one who knows the rite, such is the intention. Such as you are, flow your juice for our sacrifice; in the woollen ten-fold filter run around the dear sweet juice. O Indu, shining Soma, slay all the devouring Rākṣasas. We, with good sons, in the sacrifice (विदथे (*vidathe*)) would utter great (बृहत् (*bṛhat*)) wealth, that is, we would ask for it; or else we would utter abundant praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- नः (*naḥ*)—our
+- क्रतुवित् (*kratuvit*)—you who know the rite
+- उक्थ्यः (*ukthyaḥ*)—and are worthy of praise
+- पवस्व (*pavasva*)—flow
+- अव्यः वारे (*avyaḥ vāre*)—in the woollen threads of the ten-fold filter
+
+### Printed p. 611
+
+- प्रियं (*priyaṃ*)—the dear
+- मधु (*madhu*)—and tasty juice
+- परि धाव (*pari dhāva*)—make flow
+- इंदो (*iṃdo*)—O Soma-deva
+- अत्रिणः (*atriṇaḥ*)—the devouring
+- विश्वान् रक्षसः (*viśvān rakṣasaḥ*)—all the Rākṣasas
+- जहि (*jahi*)—destroy
+- सुवीराः (*suvīrāḥ*)—we who have excellent heroic sons
+- विदथे (*vidathe*)—in the sacrificial house
+- बृहत् (*bṛhat*)—abundant praise
+- वदेम (*vadema*)—we recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who know our rite and are worthy of praise, flow. In the woollen threads of the ten-fold filter make the dear and tasty juice flow. O Soma-deva, destroy all the devouring Rākṣasas. We, who have excellent heroic sons, recite abundant praise in the sacrificial house.
+
+##### English translation
+Flow for us, Soma, cognizant of (our) worship and deserving praise ; pour (your) beloved sweet-flavoured (juice) upon the woollen fleece ; slay, Indu, all the voracious Rakshasas ; blessed with excellent male offspring may we offer ample (praises) at the sacrifice,
+
+## Sūkta 87 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र तु द्रव' इति नवर्चं द्वितीयं सूक्तं काव्यस्योशनस आर्षमनादेशपरिभाषया त्रैष्टुभं पवमानसोमदेवताकम् । तथा चानुक्रांतं -- प्र तु नवोशना ' इति । 'जागतमूर्ध्वं प्रागुशनसः' (अनु. ९. ६७ ) इति वचनाज्जगत्यधिकारो निवृत्तः । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, beginning प्र तु द्रव (*pra tu drava*), has nine Ṛks. Its seer is Uśanā, of the line of Kavi; by the rule that a metre not stated is understood, the metre is Triṣṭubh; the deity is Pavamāna Soma. The Anukramaṇikā is cited accordingly: प्र तु नवोशना (*pra tu navośanā*). By the statement जागतमूर्ध्वं प्रागुशनसः (*jāgatamūrdhvaṃ prāguśanasaḥ*) (Anu. 9-67) the governing rule of Jagatī ceases here. The application (viniyoga) has been stated.
+
+Anuvāda: This sūkta beginning प्र तु द्रव (*pra tu drava*) is the second sūkta in the fifth anuvāka. It has nine Ṛks. The seer of this sūkta is Uśanā, the son of Kavi; the deity is Pavamāna Soma; the metre is Triṣṭup. In the Anukramaṇikā it is said: प्र तु नवोशना (*pra tu navośanā*). Since it is said जागतमूर्ध्वं प्रागुशनसः (*jāgatamūrdhvaṃ prāguśanasaḥ*) (Anu. 9-67), from here onward there are no mantras of the Jagatī metre, only the Triṣṭup metre. The application (viniyoga) has been stated before. **NOTE**
+
+### Printed p. 612
+
+- Maṇḍala 9; Anuvāka 5; Sūkta 87
+- Aṣṭaka 7; Adhyāya 3; Varga 22, 23
+- Number of Ṛks in the sūkta: 9
+- Seer: उशनाः (*uśanāḥ*)
+- Deity: पवमानः सोमः (*pavamānaḥ somaḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तु द्र॑व॒ परि॒ कोशं॒ नि षी॑द॒ नृभिः॑ पुना॒नो अ॒भि वाज॑मर्ष ।  
+> अश्वं॒ न त्वा॑ वा॒जिनं॑ म॒र्जयं॒तोऽच्छा॑ ब॒र्ही र॑श॒नाभि॑र्नयंति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तु । द्रव । परि । कोशम् । नि । सीद । नृऽभिः । पुनानः । अभि । वाजम् । अर्ष ।  
+> अश्वम् । न । त्वा । वाजिनम् । मर्जयंतः । अच्छ । बर्हिः । रशनाभिः । नयंति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तु क्षिप्रं प्र द्रव प्रगच्छ । गत्वा च कोशं द्रोणकलशं परि नि षीद निषण्णो  भव । नृभिः नेतृभिः पुनानः पूयमानः वाजम् अन्नं यजमानार्थमुद्दिश्य अभि अर्ष अभिगच्छ । वाजिनं बलवंतम् अश्वं न अश्वमिव तं यथा मार्जयंति तद्वत् वाजिनं त्वां मार्जयंतः शोधयंतः बर्हिः यज्ञम् अच्छ प्रति रशनाभिः रशनावदायताभिरंगुलीभिः नयंति अध्वर्युप्रमुखाः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, run forth swiftly, and having gone, settle round the receptacle, the Droṇa-kalaśa. Purified by the leaders, flow towards the food intended for the sacrificer. Just as they cleanse a strong horse, so the Adhvaryu and the others, cleansing you, the strong one, lead you towards the sacrifice with the fingers, which are long like girths.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तु (*tu*)—swiftly (O Soma-deva)
+- प्र द्रव (*pra drava*)—flow
+- कोशं (*kośaṃ*)—in the Droṇa-kalaśa
+- परि नि षीद (*pari ni ṣīda*)—sit down
+- नृभिः (*nṛbhiḥ*)—by the priests
+- पुनानः (*punānaḥ*)—being purified
+- वाजं (*vājaṃ*)—food for the sacrificer
+- अभ्यर्ष (*abhyarṣa*)—procure **NOTE**
+- वाजिनं त्वा (*vājinaṃ tvā*)—you who are endowed with strength
+- अश्वं न (*aśvaṃ na*)—as one washes a horse
+- मार्जयंतः (*mārjayaṃtaḥ*)—cleansing (the priests) **NOTE**
+- रशनाभिः (*raśanābhiḥ*)—with their fingers
+- बर्हिः अच्छ (*barhiḥ accha*)—towards the sacrifice
+- नयंति (*nayaṃti*)—lead
+
 ---
 
-**Progress note:** Done through printed p. 606. Mandala 9 sukta 86 rks 40-45 (Saṃhitā of 45)
+**Progress note:** Done through printed p. 612. Rk 45 end to Sukta 87 Rk 1 start, pp. 607-612
