@@ -28192,6 +28192,246 @@ Sūkta 30. Maṇḍala 10; Anuvāka 3; Sūkta 30. Aṣṭaka 7; Adhyāya 7; Varg
 
 Let Soma, praised with praise and given to going, flow swiftly, like the activity of the mind, towards the shining waters of the vasatīvarī and other vessels. Prepare and offer the great food in the form of Soma to Mitra and Varuṇa and to Indra of great speed. Offer a praise free from faults.
 
+### Printed p. 795
+
+##### English translation
+(Honoured) by adoration, let the advancing Soma approach the celestial waters like the celerity of the mind : offer abundant (sacrificial) food, and perfect praise for the sake of Mitra and Varuna, and for (Indra) the rapid mover.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑र्यवो ह॒विष्मं॑तो॒ हि भू॒ताच्छा॒प इ॑तोष॒तीरु॑शंतः ।  
+> अव॒ याश्चष्टे॑ अरु॒णः सु॑प॒र्णस्तमास्य॑ध्वमू॒र्मिम॒द्वा  ॑
+> सुहस्ताः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वर्यवः । हविष्मंतः । हि । भूत । अच्छ । अपः । इत । उशतीः । उशंतः ।  
+> अव । याः । चष्टे । अरुणः । सुपर्णः । तं । आ । अस्यध्वं । ऊर्मि० । अद्य ।  
+> सुहस्ताः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः यूयं हविष्मंतो ह्यभिषोतव्येन सोमलक्षणेन हविषा
+> युक्ताः खलु भूत । भवत । किं च हे उशंतः सोमाभिषवं कर्तुं कामयमाना अध्वर्यवः यूयमुशतीः सोमाभिषवांगभावमभिलषंतीरेकधनालक्षणा
+> अपोऽच्छाभिमुख्येनेत । गच्छत । अरुणो रक्तवर्णः सुपर्णः सुपतनः सोमोऽनाधस्तादंतरिक्षे या मेघोदरगता अपश्चष्टे पश्यति हे सुहस्ताः सोमाभिषवादिशोभनकर्मकारित्वात् सुमर्णमयपवित्राद्यलंकृताः । यद्वा । शोभनहस्ताः ।
+> एतेऽध्वर्यवः यूयमद्येदानीं तं तादृशमूर्मिं सोमसंघातं ताभिरद्धिः
+> सहास्यध्वं । अभिमुख्येन स्थित्वा महतादरेण दशापवित्रॆ शोधनार्थं प्रक्षिपत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the adhvaryu priests. "You are indeed endowed with oblations", that is, joined with the oblation in the form of Soma that is to be pressed; "be so". Further, O adhvaryus who desire to perform the pressing of Soma, you who long for the waters that are the means of the Soma-pressing, the waters of the kind called ekadhanā, go towards those waters, facing them. The red-coloured Soma, of good flight, sees below in the atmosphere those waters that lie in the belly of the cloud. O you of good hands: either because you perform good acts such as the pressing of Soma and are adorned with golden filters and the like, or else, "of beautiful hands". Now, to-day, mingle that wave, that mass of Soma, with those waters. Standing facing them, with great regard, cast it into the ten-fibred filter for the purpose of purifying it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यवः (*adhvaryavaḥ*)—O priests
+- हविष्मंतः हि (*haviṣmaṃtaḥ hi*)—you, endowed with oblations
+- भूत (*bhūta*)—are
+- उशंतः (*uśaṃtaḥ*)—you who desire to press the Soma
+- उशतीः (*uśatīḥ*)—desiring that very thing, and
+- अरुणः (*aruṇaḥ*)—the red-coloured one
+- सुपर्णः (*suparṇaḥ*)—the one of good flight
+
+### Printed p. 796
+
+- अव (*ava*)—in the lower region of the atmosphere
+- याः (*yāḥ*)—which waters, lying in the cloud
+- चष्टे (*caṣṭe*)—he beholds; such waters
+- अपः अच्छ (*apaḥ accha*)—towards the waters
+- इत (*ita*)—move
+- सुहस्ताः (*suhastāḥ*)—O priests of good hands
+- आद्य (*ādya*)—now
+- तं ऊर्मिं (*taṃ ūrmiṃ*)—that mass of Soma, like waves
+- अस्यध्वं (*asyadhvaṃ*)—mingle with the waters
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryus, you are provided with oblations. You who desire to press Soma, move towards the waters that you long for, and which the red-coloured Soma of good flight beholds in the lower region of the atmosphere, lying in the cloud. O adhvaryus of good hands, now mingle that mass of Soma, like waves, with the waters of the vasatīvarī and others.
+
+##### English translation
+Priests, since you are charged with the libation, desiring (to present it), proceed to the waters desiring (to receive it); to those (waters) which the red hawk beholds descending from the clouds: you, dextrous-handed (priests), cast to-day that flood (of Soma) into (the consecrated water).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑र्यवो॒ऽप इ॑ता समु॒द्रम॒पां नपा॑तं ह॒विषा॑ यजध्वं।  
+> स वो॑ दददू॒र्मिम॒द्या सुपू॑तं॒ तस्मै॒ सोमं॒ मधु॑मंतं  
+> सुनोत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वर्यवः । अपः । इत । समुद्रं । अपां । नपातं । हविषा । यजध्वं ।  
+> सः । वः । ददत् । ऊर्मिं । अद्य । सुपूतं । तस्मै । सोमं । मधुमंतं ।  
+> सुनोत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः यूयमप एकधनालक्षणान्युदकानि । आहर्तुमिति शेषः !
+> समुद्रमुदधिस्थानीयं जलाशयमित । गच्छत । इदानीमुत्तरोर्धर्चो
+
+### Printed p. 797
+
+> व्याखायते पश्चाद्वितीयः पादः । स्वार्थिकोऽयं क्रमः । अद्येऽदानीं सोऽपां
+> नपाद्वो जलाशयं प्रतिगतेभ्यो युष्मभ्यं सुपूतं सुशुद्ध मूर्मिं जलसमूहं ददत् । ददातु । यूयमपि तेन समूहेन तस्मा अपां नपाते मधुमंतं
+> मधुरस्वादूपेतं सोमं सुनोत । अभिषुणुत । अभिषुतेन सोमाख्येन हविषापां नपातं वृष्टिकर्मण्यधिकृतं देवं यजध्वं ॥
+
+##### Gist of the bhāṣya
+
+O adhvaryus, go to the sea, that is, the reservoir that stands in the place of the ocean, in order to fetch the waters, the waters of the ekadhanā kind (the words "in order to fetch" are to be supplied). The latter half of the verse is now explained first; the second pāda comes afterwards, this order being intended for the sense. To-day, now, may that grandson of the waters give to you, who have gone to the reservoir, the well-purified flood, the mass of water. And you also, with that mass of water, press for that grandson of the waters the Soma that is joined with sweet flavour. With the pressed Soma-oblation worship the god Apāṃnapāt, who presides over the work of rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यवः (*adhvaryavaḥ*)—O adhvaryus
+- अपः (*apaḥ*)—to fetch the ekadhanā waters
+- समुद्रं (*samudraṃ*)—to the sea
+- इत (*ita*)—go
+- अपां नपातं (*apāṃ napātaṃ*)—the god called Apāṃnapāt
+- हविषा (*haviṣā*)—with oblation
+- यजध्वं (*yajadhvaṃ*)—worship
+- अद्य (*adya*)—now
+- सः (*saḥ*)—that god called Apāṃnapāt
+- वः (*vaḥ*)—to you
+- सुप्रोतं (*suprotaṃ*)—well-purified
+- ऊर्मिं (*ūrmiṃ*)—the mass of water
+- ददत् (*dadat*)—may he provide
+- तस्मै (*tasmai*)—addressing him
+- मधुमंतं (*madhumaṃtaṃ*)—possessing a sweet flavour
+- सोमं (*somaṃ*)—Soma
+- सुनोत (*sunota*)—press and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryus, go to the sea to fetch the ekadhanā waters. Worship the god called Apāṃnapāt with oblation. May that god provide you with a well-purified mass of water. Addressing him, press and offer Soma possessing a sweet flavour.
+
+##### English translation
+Go, priests, to the reservoir ; worship the grandson of the waters with oblations : may he to-day give you the consecrated water, and you pour forth to him the sweet-flavoured Soma.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑नि॒ध्मो दीद॑यद॒प्स्व१॒ं॑ तर्यं विप्रा॑स॒ ईळ॑ते अध्व॒रेषु॑ ।  
+> अपां॑ नपा॒न्नधु॑मतीठ॒पो दा॒ याभि॒रिंद्रो॑ वावृ॒धे  ॒॑
+> वीर्याय ॥ ४ ॥
+
+### Printed p. 798
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अनिध्मः । दीदयत् । अप्सु । अंतः । यं । विप्रासः । ईळते । अध्वरेषु ।  
+> अपां । नपात् । मधुमतीः । अपः । दाः । याभिः । इंद्रः । ववृधे । वीर्याय॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत्तरार्धस्य प्रत्यक्षकृतत्वादेकवाक्यताय्कॆ युष्मच्छब्देन समानार्थो भवच्छब्दः प्रथमार्धेऽध्याहार्यः । यो भवानपां नपादस्वंतरपां मध्यॆ मेघस्थानेऽनिध्मः काष्ठवर्जितः सन् दीदयत् दीव्यते विप्रासो मेधाविन ऋत्विग्यजमाना अध्वरेषु यागेषु यं भवंतमीळते स्तुवंति हे अपां नपात् स त्वं
+> मधुमतिर्मधुररसयुक्ता अपो वृष्टिलक्षणा दाः । अस्मभ्यं देहि । याभिर्वसतीवर्येकधनारूपाभिः सोमेन मिश्रिताभिरद्भरिंद्रो वीर्याय वृत्रवधादिशूरकर्मणे ववृधे वर्धते ता अपो देहीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Since the latter half of the verse has been made a direct address, a word for "you" that is equal in meaning to the pronoun of the second person is to be supplied in the first half so that the sentence is one. You who, O Apāṃnapāt, in the midst of the waters, in the place of the cloud, shine without fuel, free of wood; you whom the wise priests and sacrificers praise at the sacrifices: O Apāṃnapāt, you give us the sweet waters, that is, waters joined with sweet flavour and having the form of rain. Those waters, mixed with Soma, namely the vasatīvarī and ekadhanā waters, by which Indra grows for heroic deeds such as the slaying of Vṛtra: give those waters. This is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां नपात् (*apāṃ napāt*)—O god called Apāṃnapāt
+- यः (*yaḥ*)—you who
+- अप्पु अंतः (*appu aṃtaḥ*)—in the midst of the waters (in the cloud)
+- अनिध्मः (*anidhmaḥ*)—without any wood
+- दीदयत् (*dīdayat*)—shine, and
+- यं (*yaṃ*)—whom, you
+- विप्रासः (*viprāsaḥ*)—the wise priests
+- अध्वरेषु (*adhvareṣu*)—at sacrifices
+- ईळते (*īḷate*)—praise; such as you are
+- याभिः (*yābhiḥ*)—by which waters (mixed with Soma)
+- इंद्रः (*iṃdraḥ*)—Indra
+- वीर्याय (*vīryāya*)—for performing heroic deeds
+- ववृधे (*vavṛdhe*)—grows strong; such
+- मधुमतीः (*madhumatīḥ*)—sweet
+- अपः (*apaḥ*)—waters
+- दाः (*dāḥ*)—give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O god called Apāṃnapāt, you who shine in the midst of the waters (in the region of the cloud) without any wood, and whom the wise priests praise at sacrifices: give us the waters that are sweet, that are fit to be joined with the Soma, and that give strength to Indra for performing heroic deeds.
+
+##### English translation
+(He) who shines without fuel, in the midst of the waters, he whom the pious worship at sacrifices; grandson of the waters, give us those sweet waters by which (mixed with the Soma-juice), Indra is elevated to herosim.
+
+### Printed p. 799
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the derivation of the word Apāṃnapāt, the Nirukta has given the explanation of this Ṛk as an example: योऽनिध्मो दीदयद्दीप्यसेऽभ्यंतरमप्पु यं मेधाविनः स्तुवंति यज्ञेषु सोऽपान्नपान्मधुमतीरपो देह्यभिषवाय याभिरिंद्रो वर्धते वीर्याय वीरकर्मणे ॥ (*yo 'nidhmo dīdayaddīpyase 'bhyaṃtaramappu yaṃ medhāvinaḥ stuvaṃti yajñeṣu so 'pānnapānmadhumatīrapo dehyabhiṣavāya yābhiriṃdro vardhate vīryāya vīrakarmaṇe ‖*) (Ni. 10-19). Apāṃnapāt means the fire that is in the middle of the water or arises there, or a transformed form of fire. This god called Apāṃnapāt shines in the middle of the water without the help of fuel and the like (wood or timber). Such a god, distinguished by these qualities, is praised at sacrifices and the like by wise people such as the priests. O deity Apāṃnapāt, for the increase of Indra's power we are pressers of the Soma-juice. For that, graciously grant us sweet waters, tasty like honey. This is the purport of the explanation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याभिः॒ सोमो॒ मोद॑ते॒ हर्ष॑ते च कल्या॒णीभि॑र्युप॒तिभि॒र्न  ॑
+> मर्यः ।  
+> ता अ॑ध्वयो अ॒पो अच्छा॒ परे॑हि॒ यदा॑सिं॒चा ऒष॑धीभिः  
+> पुनीतात् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याभिः । सोमः । मोदते । हर्षते । च । कल्याणीभिः । युवतिभिः । न । मर्यः ।  
+> ताः । अध्वयो इति । अपः । अच्छ । परा । इहि । यत् । आसिंचाः । ओषधीभिः ।  
+> पुनीतात् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिषुतः सोमो याभिर्वसतीवर्येकधनाख्याभिरद्भिः सह मोदते मुदितो
+> भवति हर्षते च । पुनरुक्तिरादरार्था । अत्यर्थं हृष्यतीत्यर्थः । तत्र दृष्टांतः ॥
+
+### Printed p. 800
+
+> कल्याणीभिः कमनीयाभिर्युवतिभिस्तरुणीभिः स्त्रीभिः सह मर्यो न यथा मनुष्यो
+> मोदते तद्वत् । हे अध्वर्यो त्वं तास्तादृशीरपोऽच्छाभिप्राप्तं परेहि । जलाशयं प्रतिगच्छ । किंच यद्यदाहृताभिस्ताभिरद्धिरासिंचाः आ समंतात्सोमानासिंचसि
+> तदौषधीभिः सोमैः सहापश्च पुनीतात् । दशापवित्रेण पुनीहि ॥
+
+##### Gist of the bhāṣya
+
+The pressed Soma rejoices, becomes glad, with those waters, namely the vasatīvarī and ekadhanā waters, and delights; the repetition is for emphasis: he is exceedingly delighted. An illustration follows. As a man rejoices with lovely young women, with maidens, so Soma rejoices with those waters. O adhvaryu, you go towards those waters, to the reservoir. Further, when you sprinkle the Soma with those fetched waters, then purify the waters along with the plants, that is, the Soma-stalks, with the ten-fibred filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यो (*adhvaryo*)—O adhvaryu
+- मर्यः (*maryaḥ*)—a man
+- कल्याणीभिः (*kalyāṇībhiḥ*)—with attractive in form
+- युवतिभिः न (*yuvatibhiḥ na*)—as he is glad and delighted when in the company of young women
+- सोमः (*somaḥ*)—the god Soma
+- याभिः (*yābhiḥ*)—with which waters
+- मोदते (*modate*)—he rejoices
+- हर्षते च (*harṣate ca*)—and is glad and delighted
+- ताः (*tāḥ*)—such
+- अपः अच्छ (*apaḥ accha*)—towards the waters (to fetch them)
+- परेहि (*parehi*)—go to the sea
+- यत् (*yat*)—when
+- आसिंचाः (*āsiṃcāḥ*)—you mix them with the Soma, then
+- ओषधीभिः (*oṣadhībhiḥ*)—with the Soma-plants
+- पुनीतात् (*punītāt*)—purify them also
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryu, as a man is glad and delighted when in the company of young women of attractive form, so the god Soma is delighted with the waters that he joins. Go to the sea to fetch such waters, facing them. When you mix them with the Soma, then purify them along with the Soma-plants.
+
+##### English translation
+Those waters with which Soma sports and delights as a man (sports) with elegant young damsels : you, priest, approach to obtain them : when you sprinkle them (in libation), purify (them with the filter) along with the plants (the Soma).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेद्यूने॑ युव॒तयो॑ नमंत॒ यदी॑मु॒शन्नु॑श॒तीरेत्यच्छ॑ ।  
+> सं जा॑नते॒ मन॑सा॒ सं चि॑कित्सेऽध्व॒र्यवो॑ धि॒षणाप॑श्च दे॒वीः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । इत् । यूने । युवतयः । नमंत । यत् । ईं । उशन् । उशतीः । एति ।  
+> अच्छ ।  
+> सं । जानते । मनसा । सं । चिकित्से । अध्वर्यवः । धिषणा । अपः । च । देवीः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 794. pp. 789-794 (batch API)
+**Progress note:** Done through printed p. 800. Vol 27 pp. 795-800: Sūkta 30 Ṛk 2-5 with Special Topics, Ṛk 6 text
