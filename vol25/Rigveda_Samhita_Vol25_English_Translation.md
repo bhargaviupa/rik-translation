@@ -27874,6 +27874,258 @@ Descending from filters it hastens (into the vessel), and passing through the cl
 
 The Soma who (यः सोमः (*yaḥ somaḥ*)) is cleansed (मामृजे (*māmṛje*), मृज्यते (*mṛjyate*)) by the granddaughters (नप्तीभिः (*naptībhiḥ*)) of Vivasvat (विवस्वतः (*vivasvataḥ*)), that is, of the attending sacrificer: his hand is the son and the fingers are the granddaughters, this is the meaning. He is like a shining (शुभ्रः (*śubhraḥ*)) young (युवा (*yuvā*)) horse: as a full-grown horse is groomed by its own attendants, so this same young, mixing Soma. निर्णिजम् (*nirṇijam*): निर्णिक् (*nirṇik*) is a name for form. He makes his own form, and, so it is to be supplied, he also becomes one who makes the products of the cow (गाः न कृण्वानः (*gāḥ na kṛṇvānaḥ*)).
 
+### Printed p. 696
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer who attends (to the rite)
+- नप्तीभिः (*naptībhiḥ*)—by the fingers, which are like grandsons
+- युवा (*yuvā*)—well grown, full-grown
+- शुभ्रो न (*śubhro na*)—as an excellent horse is tended
+- मुमृजे (*mumṛje*)—is tended, that is
+- निर्णिजं (*nirṇijaṃ*)—its own form
+- गाः (*gāḥ*)—with milk, a product of the cow
+- कृण्वानः न (*kṛṇvānaḥ na*)—is mixed; such a Soma is joined with Indra
+
+##### भावार्थ (Bhāvārtha)
+
+As attendants tend a well-grown, full-grown horse with rubbing and similar acts, so the sacrificers who perform the sacrifice mix milk or curds, a product of the cow, with the purified Soma juice by means of their ten fingers, which are like their grandsons. Such a Soma juice becomes fit for Indra's drinking.
+
+##### English translation
+He who is rubbed down by the grandchildren of the sacrificer like a handsome young (horse), and renders his form like the produce of the cows,—
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the act of mixing milk or curds with the Soma juice is compared to the work of rubbing down a horse with the fingers of the hand. As a horse is rubbed down with affection, so milk and curds are added to the Soma juice to make it pleasant to the taste. And the fingers are here described as the grandsons of the sacrificers. In this way: since the hands of the sacrificers are a part of their body, they are the sons of the sacrificers; and since the fingers are a part of the hands, the fingers are the sons of the hands, that is, the grandsons of the sacrificers. The seer has described it here in this alternative manner.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॑ श्रि॒ती ति॑र॒श्चता॑ ग॒व्या जि॑गा॒त्यण्व्या॑ ।  
+> व॒ग्नुमि॑यर्ति॒ यं वि॒दे ॥ ६ ॥
+
+### Printed p. 697
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । श्रिती । तिरश्चता । गव्या । जिगाति । अण्व्या ।  
+> वग्नुम् । इयर्ति । यम् । विदे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अण्व्या अंगुल्याभिषूयमाणः सोमः गव्या गव्यानि श्रिती श्रित्यै श्रयणार्थं तिरश्चता तिरश्चीनम् अति जिगाति । अंशुमतिक्रम्य गच्छति । तथांगुल्याभिषूयमाणः वग्नुं शब्दम् इयर्ति प्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+The Soma, pressed by the finger (अण्व्या (*aṇvyā*)), goes (जिगाति (*jigāti*)) obliquely (तिरश्चता (*tiraścatā*), तिरश्चीनम् (*tiraścīnam*)) to the products of the cow (गव्या (*gavyā*), गव्यानि (*gavyāni*)), for the sake of resorting (श्रिती (*śritī*), श्रयणार्थं (*śrayaṇārthaṃ*)) to them; it passes beyond the Aṃśu. Likewise, pressed by the finger, it sends forth (इयर्ति (*iyarti*), प्रेरयति (*prerayati*)) a sound (वग्नुं (*vagnuṃ*), शब्दम् (*śabdam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अष्ट्या (*aṣṭyā*)—the Soma juice strained by the fingers **NOTE**
+- गव्या (*gavyā*)—together with the products of the cow, milk and curds
+- श्रिती (*śritī*)—for the sake of mixing (joining)
+- तिरश्चता (*tiraścatā*)—flowing separately
+- अति जिगाति (*ati jigāti*)—joining together as one it flows on (while flowing in that manner)
+- वग्नुं (*vagnuṃ*)—a gurgling sound
+- इयर्ति (*iyarti*)—sends forth, that is, makes
+- यं (*yaṃ*)—that sound
+- विदे (*vide*)—I know, that is, I hear
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juice strained by the fingers, in order to join the milk and curds, the products of the cow, falls separately through the gaps between the fingers, and at last, joined together as one, falls into the vessel. I hear the gurgling sound that it makes as it falls in that manner.
+
+##### English translation
+Expressed by the fingers, he proceeds obliquely to the produce of the cow to mix with it ; it utters a sound which ( the worshipper ) recognizes.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि क्षिपः॒ सम॑ग्मत म॒र्जयं॑तीरि॒षस्पति॑म् ।  
+> पृ॒ष्ठा गृ॑भ्णत वा॒जिनः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । क्षिपः । सम् । अग्मत । मर्जयंतीः । इषः । पतिम् ।  
+> पृष्ठा । गृभ्णत । वाजिनः ॥ ७ ॥
+
+### Printed p. 698
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्षिपः अंगुलयः मर्जयंतीः अभिमृशंत्यः इषस्पतिम् अन्नानां स्वामिनं सोमम् अभि समग्मत अभिसंगच्छंते । संगत्य च वाजिनः बलवतः सोमस्य पृष्ठा पृष्ठानि गृभ्णत गृह्णंत्यभिषवाङगुलयः ॥
+
+##### Gist of the bhāṣya
+
+The fingers (क्षिपः (*kṣipaḥ*)), touching (मर्जयंतीः (*marjayaṃtīḥ*), अभिमृशंत्यः (*abhimṛśaṃtyaḥ*)), come together (समग्मत (*samagmata*)) towards (अभि (*abhi*)) Soma, the lord of foods (इषस्पतिम् (*iṣaspatim*)); and having come together, the fingers of the pressing grasp (गृभ्णत (*gṛbhṇata*)) the backs (पृष्ठा (*pṛṣṭhā*)) of the powerful (वाजिनः (*vājinaḥ*)) Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्षिपः (*kṣipaḥ*)—the fingers of the hand
+- मर्जयंती (*marjayaṃtī*)—touching one another
+- इषस्पतिं (*iṣaspatiṃ*)—Soma, the lord of food
+- अभि सं अग्मत (*abhi saṃ agmata*)—come together
+- वाजिनः (*vājinaḥ*)—of the Soma juice that gives strength
+- पृष्ठानि (*pṛṣṭhāni*)—the upper parts
+- गृभ्णत (*gṛbhṇata*)—the fingers hold
+
+##### भावार्थ (Bhāvārtha)
+
+When the Soma is strained with the fingers of the hand, the fingers join one another and make room for straining, so that the Soma comes out strained through the small gaps in their middle part **NOTE**. When this powerful Soma juice is pressed from the crushed creepers, the fingers of the hand hold the crushed creepers in order to squeeze them.
+
+##### English translation
+The fingers combine expressing the lord of food. and they grasp the back of the vigorous (Soma).
+
+##### विशेषविषयगळु (Special Topics)
+
+It is here described how the fingers of the hand are joined crosswise to make something like a sieve and the Soma juice is strained through it, and how the crushed creepers are held in the hand in order to squeeze them and take out the juice that is in them.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ दि॒व्यानि॒ मर्मृ॑श॒द्विश्वा॑नि सोम॒ पार्थि॑वा ।  
+> वसू॑नि याह्यस्म॒युः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । दिव्यानि । मर्मृशत् । विश्वानि । सोम । पार्थिवा ।  
+> वसूनि । याहि । अस्मऽयुः ॥ ८ ॥
+
+### Printed p. 699
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम दिव्यानि पार्थिवानि च विश्वानि सर्वाणि वसूनि धनानि परि मर्मृशत् परिमृशन् परिगृह्णन् अस्मयुः अस्मान् कामयमानः याहि आगच्छ। एवमभिषुण्वन् रसं संबोध्य ब्रूते ॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, touching all around (परि मर्मृशत् (*pari marmṛśat*)) and taking all (विश्वानि (*viśvāni*)) treasures (वसूनि (*vasūni*)), celestial (दिव्यानि (*divyāni*)) and terrestrial (पार्थिवा (*pārthivā*)), desiring us (अस्मयुः (*asmayuḥ*)), come (याहि (*yāhi*)). Thus the speaker, pressing, addresses the juice and speaks.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma
+- अस्मयुः (*asmayuḥ*)—you who desire us
+- दिव्यानि (*divyāni*)—those in the world of the gods
+- पार्थिवा (*pārthivā*)—and those on the earth
+- विश्वानि (*viśvāni*)—all
+- वसूनि (*vasūni*)—treasures
+- परि मर्मृशत् (*pari marmṛśat*)—taking
+- याहि (*yāhi*)—come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who desire us, that is, wish us well, take all the treasures that are in the world of the gods and on the earth, and come to us.
+
+##### English translation
+Soma, you hold all the treasures of heaven and earth ; come favourably disposed to us.
+
+**The fifteenth sūkta.**
+
+## Sūkta 15 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एष धिया' इत्यष्टर्चं पंचदशं सूक्तम् । ऋष्याद्याः पूर्ववत् । एष धिया' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एष धिया (*eṣa dhiyā*) has eight Ṛks and is the fifteenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as एष धिया (*eṣa dhiyā*). The use has been stated.
+
+This sūkta beginning एष धिया (*eṣa dhiyā*) is the fifteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said एष धिया (*eṣa dhiyā*). The use has been stated before.
+
+### Printed p. 700
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष धि॒या या॒त्यण्व्या॒ शूरो॒ रथे॑भिरा॒शुभिः॑ ।  
+> गच्छ॒न्निंद्र॑स्य निष्कृ॒तम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । धिया । याति । अण्व्या । शूरः । रथेभिः । आशुऽभिः ।  
+> गच्छन् । इंद्रस्य । निःऽकृतम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः शूरः विक्रांतः हे सोम दिव्यानि पार्थिवानि च विश्वानि सर्वाणि वसूनि धनानि परि मर्मृशत् परिमृशन् परिगृह्णन् अस्मयुः अस्मान् कामयमानः याहि आगच्छ। एवमभिषुण्वन् रसं संबोध्य ब्रूते ॥ ॥ ४ ॥
+> अण्व्या अंगुल्याभिषुतः धिया कर्मणा याति गच्छति । कं देशं प्रति । उच्यते । इंद्रस्य निष्कृतं स्थानं दिवं प्रति रथेभिः रथैः आशुभिः शीघ्रगामिभिः गच्छन् इंद्रेण रथेऽवस्थाप्य स्वस्थाननयनाय । अंगुल्याभिषूयमाणः सन् होमद्वाराग्निं निष्पीडनद्वारा पात्रं वा गच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Soma is heroic (शूरः (*śūraḥ*)), valiant. The following sentence, addressed to Soma, that he should take all the celestial and terrestrial treasures and come desiring us, stands here in the same words as in the bhāṣya of the preceding Ṛk **NOTE**. Pressed by the finger (अण्व्या (*aṇvyā*)), it goes (याति (*yāti*)) by the rite (धिया (*dhiyā*), कर्मणा (*karmaṇā*)). To what place? It is said: towards Indra's abode (इंद्रस्य निष्कृतं (*iṃdrasya niṣkṛtaṃ*)), heaven, going with chariots (रथेभिः (*rathebhiḥ*)) that are swift (आशुभिः (*āśubhiḥ*)), Indra having placed it in his chariot to take it to his own place. The meaning is that, while being pressed by the finger, it goes through the offering to the fire, or through the squeezing to the vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरः (*śūraḥ*)—the valiant
+- एषः (*eṣaḥ*)—this Soma
+- अण्व्या (*aṇvyā*)—pressed with the help of the fingers
+- धिया (*dhiyā*)—together with the rite
+- इंद्रस्य निष्कृते (*iṃdrasya niṣkṛte*)—towards heaven, Indra's own place
+- आशुभिः (*āśubhiḥ*)—that move swiftly
+- रथैः (*rathaiḥ*)—with chariots
+- गच्छन् (*gacchan*)—travelling
+- याति (*yāti*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, valiant and pressed by the fingers, prepared in the sacrificial rite, goes through the offering made in the fire, in swiftly moving chariots, to heaven, Indra's own place, for Indra's pleasure.
+
+##### English translation
+This heroic Soma expressed by the fingers proceeds by the sacrifice, hastening with swift chariots to Indra's abode.
+
+### Printed p. 701
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष पु॒रू धि॑यायते बृह॒ते दे॒वता॑तये ।  
+> यत्रा॒मृता॑स॒ आस॑ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । पुरु । धियाऽयते । बृहते । देवऽतातये ।  
+> यत्र । अमृतासः । आसते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः पुरु बहुलं धियायते धियं कर्मेच्छति । धीशब्दाद्यकारोपजनः । यद्वा । द्वितीयार्थे तृतीया छांदसश्चालुक् । कस्मै । बृहते महते देवतातये यज्ञाय। यत्र यस्मिन् यज्ञे अमृतासः अमृता देवाः आसते वसंति तदर्थम् ॥
+
+##### Gist of the bhāṣya
+
+This Soma much (पुरु (*puru*)) desires the rite (धियायते (*dhiyāyate*)): the verb is formed from the word धी (*dhī*) with the addition of य (*ya*). Or else, the instrumental stands in the sense of the accusative, and the dropping of the ending is Vedic. For what? For the great (बृहते (*bṛhate*)) sacrifice (देवतातये (*devatātaye*)), in which (यत्र (*yatra*)) the immortal (अमृतासः (*amṛtāsaḥ*)) gods sit (आसते (*āsate*)), dwell; for that purpose.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः (*eṣaḥ*)—this Soma
+- यत्र (*yatra*)—in which sacrifice
+- अमृतासः (*amṛtāsaḥ*)—the gods, who are free from death
+- आसते (*āsate*)—dwell, such
+- बृहते (*bṛhate*)—great
+- देवतातये (*devatātaye*)—for the sacrifice
+- पुरु (*puru*)—much
+- धियायते (*dhiyāyate*)—desires the rite
+
+##### भावार्थ (Bhāvārtha)
+
+For such a great sacrifice, in which the immortal gods come and take their seats, this Soma greatly desires the rite.
+
+##### English translation
+This Soma engages in many holy rites for the great sacrifice where the immortals sit.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष हि॒तो वि नी॑यते॒ऽंतः शु॒भ्राव॑ता प॒था ।  
+> यदी॑ तुं॒जंति॒ भूर्ण॑यः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 695. Sūkta 13 Ṛk 9; Sūkta 14 Ṛks 1-5 (pp. 690-695)
+**Progress note:** Done through printed p. 701. Sūkta 14 Ṛks 5-8; Sūkta 15 Ṛks 1-3 (pp. 696-701)
