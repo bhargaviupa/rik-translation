@@ -9276,6 +9276,160 @@ If, while a sacrificer who performs a sacrifice is still alive, the word that he
 
 At the Darśapūrṇamāsa sacrifices, when the hotṛ has been sent out for the sāmidhenī verses, this Ṛk तदद्य वाचः (*tadadya vācaḥ*) is to be muttered; it is also to be muttered before the taking up of the ladle. The sūtra says: तदद्य वाचः प्रथमं मसीयेति समाप्य (*tadadya vācaḥ prathamaṃ masīyeti samāpya*) (Ā. 1-2). This and the following Ṛk are said to be Agni's words. अद्य (*adya*) means "now"; प्रथमं (*prathamaṃ*) is a word meaning "chief": I utter today that chief utterance of speech, by which we gods overcome the asuras. What is that first utterance? It is said: O eaters of food, and O you worthy of sacrifice, five peoples, gods, men and the rest, take delight in my offering; "serve it" is the meaning. Thus
 
+### Printed p. 308
+
+> बहूच्यमानेऽग्निमनूद्यंति सर्वॆ देवा इत्यभिप्रायः । अत्र तदद्य वाच इत्यादि
+> निरुक्तं द्रष्टव्यं । नि-३-८ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that when many (gods) speak in this way, all the gods follow Agni; this is the intention. Here the Nirukta passage beginning तदद्य वाच इत्यादि (*tadadya vāca ityādi*) is to be consulted (Ni. 3-8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which instruction in the form of speech
+- देवाः (*devāḥ*)—all the gods
+- असुरान् (*asurān*)—the Asuras
+- अभ्यसाम (*abhyasāma*)—(by which) they are able to defeat, such
+- प्रथमं (*prathamaṃ*)—the foremost
+- तद्वचः (*tadvacaḥ*)—that same instruction in speech
+- अद्य (*adya*)—today
+- मसीय (*masīya*)—I utter
+- ऊर्जादः (*ūrjādaḥ*)—you who eat the oblation
+- उत (*uta*)—and
+- यज्ञियासः (*yajñiyāsaḥ*)—who are entitled to the sacrifice
+- पंच जनाः (*paṃca janāḥ*)—O five orders of people, you who are divided into five groups, gods, men and the rest
+- मम (*mama*)—my
+- होत्रं (*hotraṃ*)—the office of the hotṛ
+- जुषध्वं (*juṣadhvaṃ*)—be pleased with (it)
+
+##### भावार्थ (Bhāvārtha)
+
+Today I utter that same best instruction in speech by which all the gods are able to defeat the Asuras. O five orders of people, gods, men and the rest, you who eat the oblation and are entitled to the sacrifice, be pleased with my office of hotṛ.
+
+##### English translation
+(Agni speaks :) I communicate to-day the best advice by which we gods may overcome the Asuras : do you who are the eaters of sacrificial food, who are entitled to worship, and you five orders of men, be pleased by my (discharge of ) the office of hotri.
+
+##### विशेषविषयगळु (Special Topics)
+
+This ṛk, तदद्य वाचः (*tadadya vācaḥ*), is to be muttered by the hotṛ as a prompting (praiṣa) at the choosing of the sāmidhenī verses in the Darśa and Pūrṇamāsa sacrifices; this is set out by the sūtra of the Āśvalāyana Śrautasūtra तदद्य वाचः प्रथमं मसीयेति समाप्य (*tadadya vācaḥ prathamaṃ masīyeti samāpya*) (Ā. 1-2).
+
+Pañca janāḥ: in the Ṛgveda the words पंच जनाः (*paṃca janāḥ*) and पंच क्षितयः (*paṃca kṣitayaḥ*) are found used here and there. Both expressions have one meaning. As to who these "five peoples" (pañca janāḥ, pañca kṣitayaḥ) are, Sāyaṇa has given two kinds of meaning. First: देवा मनुष्याः पितरः पशवः पक्षिणश्चेति पंच जनाः (*devā manuṣyāḥ pitaraḥ paśavaḥ pakṣiṇaśceti paṃca janāḥ*), that is, the five kinds: gods, men, fathers, beasts and birds. Second:
+
+### Printed p. 309
+चत्वारो वर्णाः निषादपंचमाः पंच जना इत्यन्ये (*catvāro varṇāḥ niṣādapaṃcamāḥ paṃca janā ityanye*); that is, he has explained in another way that they are the people of the four classes together with the Niṣādas. For both these meanings authorities from Śruti texts can be shown. First the derivation of the word kṣiti may be examined; afterwards it may be considered what meaning of "five kṣitis" can be stated in the present case.
+
+Kṣitīnām: क्षियंति निवसंति गच्छंति वाक्षितयो मनुष्याः (*kṣiyaṃti nivasaṃti gacchaṃti vākṣitayo manuṣyāḥ*); they dwell or they move about. Therefore Sāyaṇa explains that this epithet belongs to men. The author of the Nirukta read the word kṣiti among the twenty-five names of man beginning with नरः (*naraḥ*) (Ni. 3-7).
+
+अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋताना । स वृत्रहा सनयो विश्ववेदाः पर्षद्विश्वाति दुरिता गृणंतं ॥ (*agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtānā | sa vṛtrahā sanayo viśvavedāḥ parṣadviśvāti duritā gṛṇaṃtaṃ ‖*) (Ṛ. Saṃ. 3-20-4).
+In ṛks of this kind, where the difference between men and the people belonging to the gods is shown, the word kṣiti indicates men, the people of the earth. But in the present ṛk one cannot say definitely that only earthly men are meant. For Indra's lordship pervades earth and atmosphere alike.
+
+न यस्य देवा देवता न मर्ता आपश्चन शवसो अंतमापुः । स प्ररिक्वा त्वक्षसा क्ष्मो दिवश्च मरुत्वान्नो भवत्विंद्र ऊती ॥ ( (*na yasya devā devatā na martā āpaścana śavaso aṃtamāpuḥ | sa prarikvā tvakṣasā kṣmo divaśca marutvānno bhavatviṃdra ūtī ‖ (*) (Ṛ. Saṃ. 1-100-15).
+In ṛks of this kind Indra, divine in nature through his qualities such as generosity, is described as having a power greater than every other power in the world, whose end neither gods nor men could reach, and as one who, with his destructive and majestic power, makes earth and heaven shine together. Since in the present ṛk also Indra's lordship is described as all-pervading, पंचक्षितीनां (*paṃcakṣitīnāṃ*) cannot be said to mean only the four classes together with the Niṣādas as fifth. On this point the author of the Nirukta does not state his own view but only reports the opinions of others.
+
+जुषद्वं” गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः ॥ (*juṣadvaṃ” gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ ‖*) (Ni. 3-8).
+He has only reported the opinions of others: some hold that the five peoples are Gandharvas, fathers, gods, Asuras and Rākṣasas; Upamanyu and others hold that the four classes beginning with the Brāhmaṇas, together with a fifth group, the Niṣādas, are the five peoples.
+
+### Printed p. 310
+Formerly all the gods asked Agni to receive the oblation offered in the sacrifice for them and distribute it to all; Agni agreed and spoke the present ṛk. The author of the Bṛhaddevatā quotes this passage, in which the answer is given that the five peoples together should enjoy this oblation, and shows and discusses the differences of opinion about the five peoples.
+
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मया ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mayā ‖*) (Bṛ. De. 7-66).
+In this verse the answer Agni gave to the gods is stated, and afterwards the word pañcajana is explained.
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*) (Jṛ. De. 7-67).**NOTE**
+That is: the fire at the entrance part of the sacrificial hall, the Āhavanīya fire that has been led forward, the Gārhapatya fire that is the son of the sacrificer, and the southern and northern fires; these five fires are traditionally called the five peoples. Besides this view:
+
+मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः । गंधर्वा पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ | gaṃdharvā pitaro devā asurā yakṣarākṣasāḥ ‖*) (Bṛ. De. 7-68).
+According to the first opinion, one group is men and the others together with serpents and Rākṣasas; according to the second opinion, one group is formed by Yakṣas and Rākṣasas together.
+
+यास्येहमन्यनावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णा मन्यते शाकटायनः ॥ (*yāsyehamanyanāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇā manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 7-69).
+In this verse the author of the Bṛhaddevatā says that Yāska's view is the first. But in the Nirukta Yāska has only stated the views of others; he has not stated his own view definitely.
+
+### Printed p. 311
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate*) (Bṛ. De. 7-20).
+Śākapūṇi holds that the four priests beginning with the hotṛ, together with the sacrificer, make the five groups.
+
+चक्षुःशोत्रं मनो वाक् च प्राणश्चेत्यात्मवादिनः । गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा । सर्पाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके ॥ (*cakṣuḥśotraṃ mano vāk ca prāṇaścetyātmavādinaḥ | gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā | sarpāśca brāhmaṇe caiva śrūyaṃte haitareyake ‖*) (Bṛ. De. 7-71, 72).
+The view of those who speak of the self is that eye, ear, mind, speech and breath are the five peoples. In the Aitareya Brāhmaṇa it is explained that they are the Gandharvas and the rest (Ai. Brā. 3-31-5). In the exposition of the Bṛhaddevatā also these differences of opinion are shown: Agni answered the gods that such five peoples should enjoy the oblation.
+
+To explain who the five peoples are, Yāska has stated the derivation for this ṛk as follows:
+
+तदद्य वाचः परमं मंसीय येनासुरानभिभवेम देवाः । असुरा असुरताः स्थानेष्टस्ता स्थानेभ्य इति वा । अपि वासुरिति प्राणनामास्तः शरीरे भवति तेन तद्वंतः । सोर्धेवानसृजत तत्सुराणां सुरत्वं, असोरसुरानसृजत तदसुराणामसुरत्वमिति विज्ञायते । ऊर्जाद उत यज्ञियासः । अन्नादाश्च यज्ञियाश्च । ऊर्गित्यन्ननामोर्जयतीति सतः । पक्वं सुप्रवृक्षमिति वा । पंचजना मम होत्रं जुषध्वं । गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः । निषादः कस्मान्निषदनो भवति निषण्णमस्मिन् पापकमिति नैरुक्ताः । यत् पांचजन्यया विशा । पंचजनीनया विशा । पंचपृक्ता संख्या स्त्रीपुंनपुंसकेष्टविशिष्टा ॥ (*tadadya vācaḥ paramaṃ maṃsīya yenāsurānabhibhavema devāḥ | asurā asuratāḥ sthāneṣṭastā sthānebhya iti vā | api vāsuriti prāṇanāmāstaḥ śarīre bhavati tena tadvaṃtaḥ | sordhevānasṛjata tatsurāṇāṃ suratvaṃ, asorasurānasṛjata tadasurāṇāmasuratvamiti vijñāyate | ūrjāda uta yajñiyāsaḥ | annādāśca yajñiyāśca | ūrgityannanāmorjayatīti sataḥ | pakvaṃ supravṛkṣamiti vā | paṃcajanā mama hotraṃ juṣadhvaṃ | gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ | niṣādaḥ kasmānniṣadano bhavati niṣaṇṇamasmin pāpakamiti nairuktāḥ | yat pāṃcajanyayā viśā | paṃcajanīnayā viśā | paṃcapṛktā saṃkhyā strīpuṃnapuṃsakeṣṭaviśiṣṭā ‖*) (Sa. 5-8).**NOTE**
+
+The sense of the first half of this ṛk is: "I shall think upon and know in my mind that most excellent speech by which we shall be able to defeat the Asuras." असुराः (*asurāḥ*) means those who delight in living in bad places, or न सुष्टु स्थानेषु रताः चपला इत्यर्थः (*na suṣṭu sthāneṣu ratāḥ capalā ityarthaḥ*): those who do not like to be in good places; or *sthāneṣu
+
+### Printed p. 312
+astāḥ*, those driven out of their own places (having been defeated by the gods and others); or asu is a name for breath, that is, the vital air; it may be said that they are the creatures that live in the body in which such vital air is present. Further, su means an excellent place. According to the Brāhmaṇa sentence सोर्दॆवानसृजत (*sordèvānasṛjata*), Prajāpati created the gods from his own excellent place, that is, from his best limb; therefore the gods are called Surās. In the same way Prajāpati created the Asuras from his own inferior limb, one not excellent; therefore they are called Asuras. Ūrk is a name for food. ऊर्जयतीति सतः (*ūrjayatīti sataḥ*): strength arises in the body from food; or पक्वं सुप्रवृक्षमिति (*pakvaṃ supravṛkṣamiti*): when food is cooked it can be easily broken up or separated and eaten. The five peoples are: Gandharvas, hosts of fathers, gods and Asuras, a five-fold class; or, according to the opinion of the teacher Aupamanyava, the people of the four classes, Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra, together with the people of the Niṣāda caste, the hunters, make five groups and are named the five peoples. As to how the name Niṣāda came to the hunters: the hunter lives by killing animals, or the sin that arises from violence such as killing animals dwells in him, therefore he has come to be called Niṣāda; this is the view of the Nirukta authors. In पंचजन्यया विशा (*paṃcajanyayā viśā*) the meaning is "by the community of five kinds of people", and in this community there are all kinds of people, women, men, eunuchs and the rest.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पंच॒ जना॒ मम॑ हो॒त्रं जु॑षंतां॒ गोजा॑ता उ॒त ये  ॒॑
+> य॒ज्ञिया॑सः ।  
+> पृ॒थि॒वी नः॒ पार्थि॑वात्पा॒त्वंह॑सो॒ऽंतरि॑क्षं दि॒व्यात्पा॑त्व॒स्मान् ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पंच । जनाः । मम । होत्रं । जुषंतां । गोऽजाताः । उत । ये । यज्ञियासः।  
+> पृथिवी । नः । पार्थिवात् । पातु । अंहसः । अंतरिक्षं । दिव्यात् । पातु । अस्मान् ॥ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंच जना देवादयो मम होत्रं हवमाह्वानं जुषंतां । सेवंतां ।
+> अपि च गोजाता भूम्यामुत्पन्नाः । यद्वा । गोशब्देन तज्जं पयआदिकमुच्यते ।
+
+### Printed p. 313
+
+> हविरर्थं प्रादुर्भूता इत्यर्थः । तादृशे ये संति । उतापि च ये यज्ञियासो
+> यज्ञार्हाः संति ते मम होत्रं जुषंतां । किंच पृथिवी पृथिवीदेवता पार्थिवात्पृथिवीसंबंधान्नोऽस्मानंहसः पापात्पातु । रक्षतु । तथांतरिक्षमंतरिक्षदेवता
+> दिव्यादांतरिक्षादंहसः पापसकाशादस्मान्पातु ॥
+
+##### Gist of the bhāṣya
+
+The five peoples, gods and the rest, are to enjoy my होत्रं (*hotraṃ*), that is, my invocation (हवमाह्वानं (*havamāhvānaṃ*)). Also those who are गोजाता (*gojātā*), born on earth; or else the word गो (*go*) here denotes what is produced from the cow, milk and the like, and the meaning is that they have appeared for the sake of the oblation. Those who are such, and those who are fit for the sacrifice, are to enjoy my hotṛ-office. Further, Earth, the deity of the earth, is to protect us from sin connected with the earth; likewise Antarikṣa, the deity of the atmosphere, is to protect us from the heavenly, that is, atmospheric, sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पंचजनाः (*paṃcajanāḥ*)—the five peoples, gods, men and the rest
+- गोजाताः (*gojātāḥ*)—those born to eat ghee and the like
+- उत (*uta*)—and
+- ये (*ye*)—those who
+- यज्ञियासः (*yajñiyāsaḥ*)—are entitled to the sacrifice
+- मम (*mama*)—my
+- होत्रं (*hotraṃ*)—office of the hotṛ
+- जुषंतां (*juṣaṃtāṃ*)—let them enjoy
+- पृथिवी (*pṛthivī*)—Earth
+- नः (*naḥ*)—us
+- पार्थिवात् (*pārthivāt*)—connected with the earth
+- अंहसः (*aṃhasaḥ*)—from sin
+- पातु (*pātu*)—let her protect
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- अस्मान् (*asmān*)—us
+- दिव्यात् (*divyāt*)—from the sin connected with the atmosphere
+- पातु (*pātu*)—let it protect
+
+##### भावार्थ (Bhāvārtha)
+
+May the five peoples, gods, men and the rest, who are entitled to the sacrifice and are born to eat ghee and the like, enjoy my office of hotṛ. May Earth protect us from sin connected with the earth, and the atmosphere from sin connected with the atmosphere.
+
+##### English translation
+May the five orders of men, may those who were born for the sake of ghi, may those who are entitled to worship be pleased by my (discharge of ) the office of hotri : may earth preserve us from all earthly sin : may the firmament preserve us from heavenly.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तंतुं॑ त॒न्न्रज॑सो भा॒नुमन्वि॑हि॒ ज्योति॑ष्मतः प॒थो र॑क्ष धि॒या  ॒
+> कृतान् ।  
+> अ॒नु॒ल्ब॒णं व॑यत॒ जोगु॑वा॒मपो॒ मनु॑र्भव ज॒नया॒द्यैव्यं॒  ॑
+> जनं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तंतुं । तन्वन् । रजसः । भानुं । अनु । इहि । ज्योतिष्मतः । पथः । रक्ष । धिया ।  
+> कृतान् ।
+
 ---
 
-**Progress note:** Done through printed p. 307. pp. 302-307 (batch API)
+**Progress note:** Done through printed p. 313. pp. 308-313 (batch API)
