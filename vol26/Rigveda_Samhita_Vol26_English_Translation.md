@@ -31649,6 +31649,238 @@ You reach the three outstretched filters, you hasten to the one (filter) being p
 > ए॒ष वि॑श्व॒वित्प॑वते मनी॒षी सोमो॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ।  
 > द्र॒प्साँ ई॒रय॑न्वि॒दथे॒ष्विंदु॒र्वि वार॒मव्यं॑ स॒मयाति॑ याति ॥ ५६ ॥
 
+### Printed p. 862
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । विश्वऽवित् । पवते । मनीषी । सोमः । विश्वस्य । भुवनस्थ । राजा ।  
+> द्रप्सान् । ईरयन् । विदथेषु । इंदुः । वि । वारम् । अव्यम् । समया अर्ति । याति ॥ ५६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्ववित् सर्वस्य वेत्ता अतएव मनीषी मेधावी विश्वस्य भुवनस्य सर्वस्य लोकस्य राजा स्वामी एष सोमः पवते क्षरति । एतदेव विवृणोति । विदथेषु विंदंति जानंत्यत्र देवानिति । यद्वा विंदंति लभंते विदथा यज्ञास्तेषु द्रप्सान् रसकणान् ईरयन् प्रेरयन् । इंदुः सोमः अव्यं अविभवं वारं वालं पवित्रं समया उभयतः व्यतियाति व्यतीत्य गच्छति ॥ ५६ ॥
+
+##### Gist of the bhāṣya
+
+This Soma is the knower of all, and therefore wise; he is the king, the lord, of the whole world, of every world; he flows. Sāyaṇa explains this further: at the sacrifices (vidathas) where one finds and knows the gods, or else where one obtains (them), he sends forth the drops of juice; Indu, Soma, passes through the filter made of sheep's hair, the wool, going across it on both sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववित् (*viśvavit*)—the all-knowing
+- मनीषी (*manīṣī*)—the wise
+- विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of the whole world
+- राजा (*rājā*)—who is also the lord
+- एषः सोमः (*eṣaḥ somaḥ*)—this Soma
+- पवते (*pavate*)—flows
+- विदथेषु (*vidatheṣu*)—in the sacrifices
+- द्रप्सान् (*drapsān*)—the Soma juices
+- ईरयॆन् (*īrayèn*)—making flow **NOTE**
+- इंदुः (*iṃduḥ*)—Soma
+- अव्यं (*avyaṃ*)—of the filter with fringes
+- वारं (*vāraṃ*)—among the woollen threads
+- समया (*samayā*)—on both sides
+- व्यतियाति (*vyatiyāti*)—flows and passes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the all-knowing, the wise, the lord of the whole world, flows; making the Soma juice flow at the sacrifices, Soma flows and passes on both sides through the woollen threads of the filter with fringes.
+
+##### English translation
+This all knowing sage Soma, the sovereign of the whole world, flows forth ; distilling his drops at the sacrifices, Indu passes through the sheep's hair on both sides.
+#### Ṛk 57
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदुं॑ रिहंति महि॒षा अद॑ब्धाः प॒दे रे॑भंति क॒वयो॒ न गृध्राः॑ ।  
+> हि॒न्वंति॒ धीरा॑ द॒शभिः॒ क्षिपा॑भिः॒ समं॑जते रू॒पम॒पां रसे॑न ॥ ५७ ॥
+
+### Printed p. 863
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुम् । रिहंति । महिषाः । अदब्धाः । पदे । रेभंति । कवयः। न । गृध्राः ।  
+> हिन्वंति । धीराः । दशभिः । क्षिपाभिः । सम् । अंजते । रूपम् । अपाम् । रसेन ॥ ५७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महिषा महांतः पूज्या वा अतएवादब्धाः कैश्चिदप्यहिंसिता देवा इंदुं सोमं रिहंति लिहंत्यास्वादयंति । किंच देवाः सोममुशंतः संतः पदे तस्यास्य सोमस्य धारास्थाने रेभंति शब्दायंते । तत्र दृष्टांतः कवयो न गृध्राः धनमभिकांक्षमाणाः कवयः स्तोतारो यथा स्तुवंतः शब्दायंते तद्वत् धीराः कर्मणि कुशला ऋत्विजः दशभिः एतत्संख्याकाभिः क्षिपाभिरंगुलीभिः तमिमं सोमं हिन्वंति अभिषवार्थं प्रेरयंति । अपि च रूपं अंशु अपां वसतीवर्याख्यानां रसेन समंजते सम्यक्सेवयंति ॥ ५७ ॥
+
+##### Gist of the bhāṣya
+
+The Mahiṣas are great or worshipful, and therefore unassailed, harmed by none: they are the gods. They lick, that is, taste, Indu, Soma. Further, the gods, desiring Soma, make a sound at the place (pada) of this Soma, the place where its stream stands. An illustration is given: as poets, who are praisers greedy for wealth, make a sound while praising, so do these. The Dhīras, the priests skilled in rites, with the ten fingers (kṣipās) urge this Soma on for the pressing. And they anoint his form, the shoot, with the juice of the waters named Vasatīvarī, serving him well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिषाः (*mahiṣāḥ*)—the worshipful
+- अदॆब्धाः (*adèbdhāḥ*)—the unharmed gods **NOTE**
+- इंदुं (*iṃduṃ*)—Soma
+- रिहंति (*rihaṃti*)—they taste
+- गृध्राः (*gṛdhrāḥ*)—desirous of wealth
+- कवयो न (*kavayo na*)—like praisers
+- पदे (*pade*)—at the place where Soma flows
+- रेभंति (*rebhaṃti*)—they make a sound
+- धीराः (*dhīrāḥ*)—the wise priests
+- दशभिः क्षिपाभिः (*daśabhiḥ kṣipābhiḥ*)—with the ten fingers
+- हिन्वंति (*hinvaṃti*)—they press Soma and make him flow
+- रूपं (*rūpaṃ*)—the form of Soma
+- अपां रसेन (*apāṃ rasena*)—with the juice of the Vasatīvarī waters
+- समंजते (*samaṃjate*)—they unite and prepare
+
+##### भावार्थ (Bhāvārtha)
+
+The worshipful and unharmed gods taste Soma. Like praisers desirous of wealth, they make a sound at the place where Soma flows. The wise priests press Soma with the ten fingers and make him flow. They unite the form of Soma with the juices of the Vasatīvarī waters and prepare it.
+
+##### English translation
+The adorable, unassailable (deities) sip the Soma juice, they hail it at its station like worshippers greedy (of wealth) ; the skilful priests send forth the Soma with their ten fingers, they anoint its body with the fluid of the waters.
+### Printed p. 864
+#### Ṛk 58
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ व॒यं पव॑मानेन सोम॒ भरे॑ कृ॒तं वि चि॑नुयाम॒ शश्व॑त् ।  
+> तन्नो॑ मि॒त्रो वरु॑णो मामहंता॒मदि॑तिः॒ सिंधुः॑ पृथि॒वी उ॒त द्यौः ॥ ५८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । वयम् । पवमानेन । सोम। भरे । कृतम् । वि । चिनुयाम् । शश्वत् ।  
+> तत् । नः। मित्रः । वरुणः । ममहंताम् । अदितिः । सिंधुः । पृथिवी । उत । द्यौः ॥ ५८ ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानेन पवित्रेण पूयमानेन त्वया सहायेन भरे संग्रामनाम संग्रामे शश्वद्बहु कृतं कर्तव्यं वयं विचिनुयाम विशेषेण कुर्याम । यस्मात्तवसहायेन कर्माणि कुर्मः तत्तस्मात् नोस्मान् मित्रो वरुणः अदितिः एतन्नामका सिंधुः एतदभिधाना च पृथिवी उतापि च द्यौः एते मित्रादयो नोस्मान् मामहंतां पूजयंतु धनादिदानेन ॥ ५८ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, with you as helper, purified by the filter, may we accomplish much of what is to be done in the bhara, that is, in battle. Because we do our deeds with you as helper, therefore may Mitra, Varuṇa, Aditi (so named), the river Sindhu (so named), Earth and Heaven honour us by the gift of wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma-god **NOTE**
+- वयं (*vayaṃ*)—we
+- पवमानेन (*pavamānena*)—who have attained purity
+- त्वया (*tvayā*)—with you
+- भरे (*bhare*)—in battle **NOTE**
+- शश्वत् (*śaśvat*)—abundantly
+- कृतं (*kṛtaṃ*)—what is to be done
+- वि चिनुयामु (*vi cinuyāmu*)—may we accomplish **NOTE**
+- नः (*naḥ*)—us
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अदितिः (*aditiḥ*)—Aditi
+- सिंधुः (*siṃdhuḥ*)—the goddess Sindhu
+- पृथिवी (*pṛthivī*)—Earth
+- उत (*uta*)—and
+- द्यौः (*dyauḥ*)—the presiding deity of the heavenly world
+- मामुहंतां (*māmuhaṃtāṃ*)—may they strengthen with the gift of wealth **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, may we, with you who have attained purity, accomplish exceedingly what is to be done in battle. May Mitra, Varuṇa, Aditi, the goddess Sindhu, Earth and the presiding deity of the heavenly world strengthen us with the gift of wealth.
+### Printed p. 865
+
+##### English translation
+May we ever, Soma, with you who are purified, (as our ally) win much wealth in battle ; so may Mitra, Varuna, Aditi, Sindhu, heaven and earth enrich us.
+## Sūkta 98 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ' अभि नः' इति द्वादशर्चं द्वितीयं सूक्तम् । वृषागिरो राज्ञः पुत्रोऽंबरीषो भरद्वाजपुत्र ऋजिश्वोभौ सहितावस्यर्षी। इदमुत्तराणि च त्रीण्यानुष्टुभानि । अत्र त्वेकादशी बृहती। पवमानः सोमो देवता । तथा चानुक्रम्यते--' अभि नो द्वादशांबरीष ऋजिश्वा चानुष्टुभं ह बृहत्युपांत्या ' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अभि नः (*abhi naḥ*) has twelve Ṛks and is the second sūkta. Its seers are the two together: Ambarīṣa, the son of King Vṛṣāgira, and Ṛjiśvan, the son of Bharadvāja. This sūkta and the three that follow are in the anuṣṭubh metre; here, however, the eleventh Ṛk is in bṛhatī. The deity is Pavamāna Soma. The Anukramaṇī says accordingly: अभि नो द्वादशांबरीष ऋजिश्वा चानुष्टुभं ह बृहत्युपांत्या (*abhi no dvādaśāṃbarīṣa ṛjiśvā cānuṣṭubhaṃ ha bṛhatyupāṃtyā*). The use in the ritual has been stated.
+This sūkta, अभि नः (*abhi naḥ*), is the second sūkta in the sixth anuvāka. It has twelve Ṛks. The two seers of this sūkta are Ambarīṣa, the son of a king named Vṛṣāgira, and Ṛjiśvan, the son of Bharadvāja. This sūkta and the next three sūktas are in the anuṣṭubh metre; only the eleventh Ṛk of this sūkta is in the bṛhatī metre. The deity is Pavamāna Soma. In the Anukramaṇī it is said **NOTE**. The use in the ritual has been stated earlier.
+Sūkta 98. Maṇḍala 9. Anuvāka 6. Sūkta 98. Aṣṭaka 6 **NOTE**. Adhyāya 4. Vargas 33, 34. Number of Ṛks in the sūkta: 12. Seers: Ambarīṣa and Ṛjiśvan. Deity: Pavamāna Soma. Metre: Ṛks 1 to 10 and 12 Anuṣṭubh; Ṛk 11 Bṛhatī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि नो॑ वाज॒सात॑मं र॒यिम॑र्ष पुरु॒स्पृह॑म् ।  
+> इंदो॑ स॒हस्र॑भर्णसं तुविद्यु॒म्नं वि॑भ्वा॒सह॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 866
+
+> अभि । नः । वाजऽसातमम् । रयिम् । अर्ष । पुरुऽस्पृहम् ।  
+> इंदो इति । सहस्रऽभर्णसम् । तुविऽद्युम्नम् । विभ्वऽसहम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्त वाजसातमम् अत्यंतं बलप्रदमन्नप्रदं वा रयिं धनं पुत्रं वा नः अस्माकम् अभि ‘अर्ष अभिगमय । कीदृशम् । पुरुस्पृहं बहुभिः स्पृहणीयं सहस्रभर्णसं बहुविधभरणम् । अनेकपोषणयुक्तमित्यर्थः। तुविद्युम्नम् । ‘द्युम्नं द्योततेर्यशो वान्नं वा ' (निरु. ५.५) इति यास्कः । बह्वन्नं बहुयशोयुक्तं वा विभ्वसहम् । विभ्व इति महन्नाम । महतोऽभिभवितारम् ॥
+
+##### Gist of the bhāṣya
+
+O shining Indu, bring to us the wealth, or the son, that bestows great strength or food. Of what kind? Desired by many, supporting in many ways, that is, endowed with many kinds of nourishment; having much dyumna. Yāska says in the Nirukta (Ni. 5-5) that dyumna, from the root meaning to shine, is glory or food; so it is wealth with much food or much glory. And overcoming the great: vibhu is a name for the great, so the wealth overcomes the great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-god
+- नः (*naḥ*)—to us
+- पुरुस्पृहं (*puruspṛhaṃ*)—that which is desired by many
+- सहस्रभर्णसं (*sahasrabharṇasaṃ*)—that which has the power to support many
+- तुविद्युम्नं (*tuvidyumnaṃ*)—that which has abundant food
+- विभ्वसहं (*vibhvasahaṃ*)—that which can defeat even powerful enemies
+- वाजसातमं (*vājasātamaṃ*)—that which bestows the greatest strength
+- रयिं (*rayiṃ*)—wealth
+- अभि अर्ष (*abhi arṣa*)—supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, supply wealth that is desired by many, that has the power to support many **NOTE**, that has abundant food, that can defeat even powerful enemies, and that bestows the greatest strength.
+
+##### English translation
+Bring us, Indu, strength-bestowing riches, desired by many, supporting many, far-celebrated and overcoming mighty (foes).
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ ष्य सु॑वा॒नो अ॒व्ययं॒ रथे॒ न वर्मा॑व्यत ।  
+> इंदु॑र॒भि द्रुणा॑ हि॒तो हि॑या॒नो धारा॑भिरक्षाः ॥ २ ॥
+
+### Printed p. 867
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । स्यः । सुवानः । अव्ययम् । रथे । न । वर्म । अव्यत ।  
+> इंदुः । अभि । द्रुणा । हितः । हियानः । धाराभिः । अक्षारिति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानः सूयमानः स्यः स सोमः अव्ययम् अविमयं पवित्रं परि पवते । तत्र दृष्टांतः । रथे न यथा रथे स्थितः पुरुषः वर्म कवचम् अव्यत परिव्ययति । व्ययतेर्लुङि वर्णलोपछांदसः । अभि हितः अभितः प्रेरितः यद्वा स्तोतृभिरभिष्टुतः सः इंदुः सोमः द्रुणा द्रुममयेन द्रोणकलशेन हियानः । ‘हि गतौ वृद्धौ च'। तेन पूर्यमाणः सन् धाराभिः अक्षाः क्षरति । क्षरतेर्लुङि रूपम् ॥
+
+##### Gist of the bhāṣya
+
+That Soma, being pressed, flows round the filter, made of sheep's wool. An illustration: as a man standing in a chariot puts armour round himself. Abhihita: urged on, or else praised by the praisers; that Indu, Soma, is poured by the druṇa, the wooden vessel; the root hi means to move and to grow; so being filled by it he flows in streams.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथे (*rathe*)—the man who is in the chariot
+- वर्म (*varma*)—armour
+- अव्यते न (*avyate na*)—as he puts it on around his body **NOTE**
+- सुवानः (*suvānaḥ*)—being pressed
+- स्यः (*syaḥ*)—Soma
+- अव्ययं परि (*avyayaṃ pari*)—flows all round in the filter with fringes
+- अभि हितः (*abhi hitaḥ*)—urged on by the praisers
+- इंदुः (*iṃduḥ*)—Soma
+- द्रुणा (*druṇā*)—in the vessel made of wood
+- हियानः (*hiyānaḥ*)—being poured
+- धाराभिः (*dhārābhiḥ*)—in streams
+- अक्षाः (*akṣāḥ*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+As a man in a chariot puts armour around his body, Soma, being pressed, flows all round in the filter with fringes. Soma, urged on by the praisers, poured into the vessel made of wood (the wooden vessel), flows in streams.
+
+##### English translation
+When effused the Soma juice flows to the woollen (filter) as (a warrior) in a chariot is covered in mail ; fitted into the wooden (cask), hurrying forth, it flows in streams.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ ष्य सु॑वा॒नो अ॑क्षा॒ इंदु॒रव्ये॒ मद॑च्युतः ।  
+> धारा॒ य ऊ॒र्ध्वो अ॑ध्व॒रे भ्रा॒जा नैति॑ गव्य॒युः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 861. Vol 26 pp. 856-861
+**Progress note:** Done through printed p. 867. Vol 26 pp. 862-867
