@@ -24,9 +24,17 @@ Full plan: 163 windows, 991 pages, 3,698,515 input tokens (estimate $3.70 + outp
 ## Repairs (in `review/repair_log.md`)
 Batch API part: 14 windows stopped or failed after commit (list in the log). Agent part: garbled Pada label of p. 853 restored in both files; 'Viśpalā' → 'Viśvalā'; a doubled phrase on p. 989 and a cut Pratipadārtha entry on pp. 983/984 joined.
 
+## Finishing checklist (HANDBOOK §11), Nov 26 2026
+Done: 1 (last window p. 992, colophon and benediction), 2 (: 1947 English / 1948 Kannada blocks, 0 not matched, 0 under another section's label; : 0 lines; : 0 quotations left;  over all windows: 0 mismatches), 3 (accent report, report only, **no ** because the API budget is spent: 258 lines not matched, 13 compared; , ), 4 ( done earlier: 54 sūktas, 578 Ṛk headings), 5 (QA: two samples by Opus agents, read-only, not told what to expect: sample 1 = 24 pages, 10 ERRORs, 20 MINORs; sample 2 = 27 pages, 5 ERRORs, 13 MINORs; **51 pages, 15 ERRORs, 33 MINORs** = 0.29 ERRORs per page; the clear findings repaired by logged edits, the rest listed at the end of ), 7 (review lists:  483 rows, , , , , ;  none), 8 (metrics below), 9 (lessons: ). Not done: 6 (front matter and PDFs: needs the user's front-matter scan PDF; WeasyPrint and fonts are not installed).
+
+## Metrics
+| windows | pages | hand-fixes by kind | gate failures |  | inline mismatches | accent lines unmatched | QA samples (pages, errors, minors) | cost |
+|---|---|---|---|---|---|---|---|---|
+| 163 (130 by the Batch API in two batches, 33 by 11 agent batches) | 992 printed (975 pages in the source, 17 numbers without a head) | 14 API stops or failed verifications (page marks 2, labels/blocks 4, remarks 2, headings 3, inline 1, glued entry 1, Ṛk heading 1) + 3 repairs after the agent batches | 14 | 0 | 0 | 258 | 51 pages, 15 errors, 33 minors | API $7.57 (two batches $6.95 + $0.58, preface $0.035); agents 11 × 157–192k tokens (about 1.9M); QA agents 2 × about 220k tokens |
+
 ## Open items
 1. (user) 481 `**NOTE**` questions in `review/notes.tsv`; 36 `fix-certain` word-meaning rows left and the `near`/`absent` rows (`review/pratipada_check_source.tsv`).
 2. (user) the Saṃhitā and Pada of 10.10.4 missing in the supplied text.
 3. 17 printed numbers without a page of their own (see above).
-4. The finishing checklist (HANDBOOK §11: accent report, QA samples, review lists, front matter and PDFs, metrics, lessons) is not run yet.
-5. Merge to `main` when the user says so.
+4. Front matter and PDFs (checklist step 6) not done: needs the user's front-matter scan PDF.
+5. QA findings left for the editor: see the last line of `review/repair_log.md`.

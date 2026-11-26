@@ -2723,9 +2723,9 @@ Devouted to the gods flow with that (stream); (your) streams of exhilarating liq
 
 परीत (*parīta*) is the fourth sūkta, of twenty-six verses. The seers are the seven seers, Bharadvāja, Kaśyapa and others, as stated at त्वं सोमासि (*tvaṃ somāsi*) (Ṛ. Saṃ. 9.67). The first verse is Bṛhatī, the second Satobṛhatī; this pair is one Pragātha. The third, परि सुवान (*pari suvāna*), of twenty-one syllables, is Bhurigvirāḍ Dvipadā. The sixteenth, नृभिर्यॆमान (*nṛbhiryèmāna*), of twenty syllables, is Dvipadā Virāṭ. The fourth and following form two Pragāthas; the tenth and following three, and the seventeenth and following five, are Pragāthas. The deity is Pavamāna Soma. The Anukramaṇī says: परीतः षड्विंशतिः सप्तर्षयः प्रागाथं तृतीयाषोळश्या द्विपदे अष्टम्याद्ये बृहत्याविति ॥ (*parītaḥ ṣaḍviṃśatiḥ saptarṣayaḥ prāgāthaṃ tṛtīyāṣoḷaśyā dvipade aṣṭamyādye bṛhatyāviti ‖*) The use of the sūkta has been stated.
 
-##### विशेषविषयगळु (Special Topics)
+**Anuvāda**
 
-Translation: This sūkta परीतः (*parītaḥ*) is the fourth sūkta in the seventh Anuvāka. It has twenty-six Ṛks; the preceding statement was made at sūkta 66 of this Maṇḍala, त्वं सोमासि (*tvaṃ somāsi*).
+This sūkta परीतः (*parītaḥ*) is the fourth sūkta in the seventh Anuvāka. It has twenty-six Ṛks; the preceding statement was made at sūkta 66 of this Maṇḍala, त्वं सोमासि (*tvaṃ somāsi*).
 
 ### Printed p. 60
 The seven seers, Bharadvāja, Kaśyapa and the others, are the seers of this sūkta too. Pavamāna Soma is the deity. The first Ṛk of this sūkta is in the Bṛhatī metre and the second in the Satobṛhatī metre. Thus a Ṛk of the Bṛhatī metre together with the Ṛk of Satobṛhatī metre that follows it is called a Pragātha. The third Ṛk, परि सुवानः (*pari suvānaḥ*), is in the metre called Bhurigvirāṭ Dvipadā of twenty-one syllables; the sixteenth Ṛk, नैभिर्यॆमानः (*naibhiryèmānaḥ*), is in the metre called Dvipadā of sixteen syllables. From the fourth Ṛk onwards there are two Pragāthas. Three Ṛks from the tenth and five Ṛks from the seventeenth are Pragāthas. In the Anukramaṇikā it is stated: परीतः षड्विंशतिः सप्तर्षयः प्रागाथं तृतीयषोळश्या द्विपदे अष्टमाद्ये बृहत् (*parītaḥ ṣaḍviṃśatiḥ saptarṣayaḥ prāgāthaṃ tṛtīyaṣoḷaśyā dvipade aṣṭamādye bṛhat*). The use of the sūkta was stated earlier.
@@ -7374,7 +7374,7 @@ Where there is happiness, pleasures, joy and enjoyment, where the wishes of the 
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says: the sūkta य इंदोः (*ya iṃdoḥ*) has eleven (the printed text reads *ekāvaśaṃ*) ... it has four Ṛks; its first (seer, deity, metre) are as in the previous sūkta. The Anukramaṇī says य इंदोश्च तुष्कमिति (*ya iṃdośca tuṣkamiti*). The use of the sūkta has been stated.**NOTE**
+Sāyaṇa says: the sūkta य इंदोः (*ya iṃdoḥ*) is the eleventh sūkta; it has four Ṛks; its first (seer, deity, metre) are as in the previous sūkta. The Anukramaṇī says य इंदोश्च तुष्कमिति (*ya iṃdośca tuṣkamiti*). The use of the sūkta has been stated.**NOTE**
 
 ### Printed p. 161
 
@@ -9293,13 +9293,10 @@ The commentator has shown that the first half of this Ṛk can be explained in t
 
 ### Printed p. 232
 
-##### Gist of the bhāṣya
-
-not applicable here (no bhāṣya block on this page).
 
 ##### विशेषविषयगळु (Special Topics)
 
-(Continuing.) द्यावापृथिवी अपः यं त्वां (*dyāvāpṛthivī apaḥ yaṃ tvāṃ*) (who have generated): here the word āpaḥ denotes the atmosphere. The three worlds, earth, atmosphere and heaven, each produced Agni in its own world in various forms. This is another way of understanding it.
+द्यावापृथिवी अपः यं त्वां (*dyāvāpṛthivī apaḥ yaṃ tvāṃ*) (who have generated): here the word āpaḥ denotes the atmosphere. The three worlds, earth, atmosphere and heaven, each produced Agni in its own world in various forms. This is another way of understanding it.
 
 त्वष्टा यं त्वा सुजनिमा जजान (*tvaṣṭā yaṃ tvā sujanimā jajāna*): although it was said above that heaven and earth produced Agni, the seer speaks this sentence to show that it was Prajāpati who first created Agni. The intention of the sentence is: Prajāpati, the creator of excellent birth, produced you (Agni). Here Tvaṣṭā must be understood as Prajāpati, because the Taittirīya Brāhmaṇa says plainly: प्रजापतिरग्निमसृजत (*prajāpatiragnimasṛjata*) (Tai. Brā. 2-1-2-1), "Prajāpati created Agni."
 
@@ -10364,7 +10361,7 @@ The showerers of oblations (वृषणः (*vṛṣaṇaḥ*)), covering with 
 
 ##### Gist of the bhāṣya
 
-(Continuing.) Or else: they yoked Agni himself, so that he should come to their own sacrifice, with mares called Rohit. Likewise the sages (कवयः (*kavayaḥ*)), the wise, guard well the dwelling-place of the water (ऋतस्य (*ṛtasya*)), Agni; they worship him with oblations and praises. Then they hold the divine waters situated in the cave, that is in the atmosphere. Or else: in the hidden, covered heart they make the chief names, such as Agni, Jātavedas, Vaiśvānara; that is, they praise him.
+Or else: they yoked Agni himself, so that he should come to their own sacrifice, with mares called Rohit. Likewise the sages (कवयः (*kavayaḥ*)), the wise, guard well the dwelling-place of the water (ऋतस्य (*ṛtasya*)), Agni; they worship him with oblations and praises. Then they hold the divine waters situated in the cave, that is in the atmosphere. Or else: in the hidden, covered heart they make the chief names, such as Agni, Jātavedas, Vaiśvānara; that is, they praise him.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12237,7 +12234,7 @@ Indra, the protector of the virtuous, crushed the arrogant (foe), attaining vast
 
 ## Sūkta 9 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 The ninth sūkta. In this sūkta the presiding deities of water, the *advaitègaḷu***NOTE**, are praised. The seer of this sūkta is Triśiras, the son of Tvaṣṭṛ, called त्रिशिरास्त्वाष्ट्रः (*triśirāstvāṣṭraḥ*), or Sindhudvīpa Āmbarīṣa. The sixth Ṛk of this sūkta is read as the twentieth Ṛk of the twenty-third sūkta of the first maṇḍala. But the Ṛk there, अप्पु मे सोमः (*appu me somaḥ*), has four pādas and is in the Anuṣṭubh metre, whereas the sixth Ṛk of the present sūkta has only three pādas and is a mantra in the Gāyatrī metre: the last pāda, आपश्च विश्वभेषजीः (*āpaśca viśvabheṣajīḥ*), is not there. The seer of the twenty-third sūkta of the first maṇḍala is Medhātithi, son of Kaṇva. The seer of the present sūkta, as said above, is Triśiras Tvāṣṭra or Sindhudvīpa. Likewise the 7th, 8th and 9th Ṛks of the present sūkta are read, without any difference, as the 21st, 22nd and 23rd Ṛks of the twenty-third sūkta. For this reason, that is, because these four Ṛks, the 6th, 7th, 8th and 9th of the present sūkta, were already read earlier as the 20th, 21st, 22nd and 23rd Ṛks of the twenty-third sūkta of the first maṇḍala, the bhāṣyakāra has not written the bhāṣya of these Ṛks again nor explained their meaning. Nevertheless I have written again the bhāṣya and the explanation made earlier.
 This sūkta, which praises the presiding deities of water called आपः (*āpaḥ*), has special importance. By the waters consecrated by the recitation of this sūkta, the seer Sindhudvīpa removed the guilt of brahmin-slaying that had come upon Indra because he had killed his own priest, called Viśvarūpa, and made him pure…
@@ -15194,7 +15191,7 @@ Agni, present in the dwelling common (to the deities) hear us : harness your swi
 
 ## Sūkta 13 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 The Havirdhāna carts.
 
@@ -15806,7 +15803,6 @@ In this sūkta and in some following sūktas there are descriptions explaining t
 
 ### Printed p. 429
 
-##### विशेषविषयगळु (Special Topics)
 
 Pitṛs, Pitṛlokas and the worship of the Pitṛs.
 
@@ -18234,7 +18230,7 @@ Since the good attain the fruit of heaven and so on in the next world, there mus
 
 ### Printed p. 513
 
-…he weighs his deeds in the balance, and according to his good and evil deeds experiences happiness and sorrow (compare Śa. Brā. 11-2-7-33; 12-9-1-1). Yet the Ṛgveda too is not without a basis for the existence of such a place of suffering. (This is *gabhīraṃ padam*:) "This deep place has been created for the most sinful, the speakers of untruth and the untruthful" (4-5-5). Indra and Soma are entreated to hurl the sinful into the nether world, into bottomless darkness, so that not one of them rises up again (7-104-3). Let the rākṣasī too, who roams like an owl so that no one sees her, fall into the darkness (7-104-12). Let the hater and the robber fall beneath the three earths (7-104-11). These sentences tell only that there is, beneath the earth, a region covered in darkness. The happiness of the world of the earth is the chief aim; happiness and sorrow after death are not so important. In the Brāhmaṇas it is said that those who did good deeds and those who did evil deeds are born again in another world and experience the fruits of their respective deeds (Śa. Brā. 6-2-2-27; 10-6-3-1); but the length of time of this reward or punishment is not stated. There is also a belief that those who do not rightly know the procedure of the sacrificial rites and do not perform them depart from the world of the earth to another world before the time fixed for them (Śa. Brā. 11-2-7-33).
+…they weigh his deeds in the balance, and according to his good and evil deeds experiences happiness and sorrow (compare Śa. Brā. 11-2-7-33; 12-9-1-1). Yet the Ṛgveda too is not without a basis for the existence of such a place of suffering. (This is *gabhīraṃ padam*:) "This deep place has been created for the most sinful, the speakers of untruth and the untruthful" (4-5-5). Indra and Soma are entreated to hurl the sinful into the nether world, into bottomless darkness, so that not one of them rises up again (7-104-3). Let the rākṣasī too, who roams like an owl so that no one sees her, fall into the darkness (7-104-12). Let the hater and the robber fall beneath the three earths (7-104-11). These sentences tell only that there is, beneath the earth, a region covered in darkness. The happiness of the world of the earth is the chief aim; happiness and sorrow after death are not so important. In the Brāhmaṇas it is said that those who did good deeds and those who did evil deeds are born again in another world and experience the fruits of their respective deeds (Śa. Brā. 6-2-2-27; 10-6-3-1); but the length of time of this reward or punishment is not stated. There is also a belief that those who do not rightly know the procedure of the sacrificial rites and do not perform them depart from the world of the earth to another world before the time fixed for them (Śa. Brā. 11-2-7-33).
 
 It may be said that the Vedas give no basis for the belief that after death each person undergoes a judgement, as good or bad, according to his own deeds. The one or two sentences quoted above are not clear. In the Taittirīya Āraṇyaka (Tai. Ā. 6-5-13) it is said that Yama separates those who walk the good path from those who walk the bad path; it is not said that he is the supreme authority for making this decision.
 
@@ -18444,8 +18440,6 @@ Let the eye repair to the sun; the breath to the wind; go you to the heaven or t
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
-> 519	సకలభాష్యము	। మం. १५ २. १. ३७. ४  
-> १ चन्नबसवण्णन  
 > “जः । भागः । तपसा । तः तपस्त्युं ते शोचॆः । तपतु । तं । शे ' अर्चः ।  
 > याः । ते । शिवा । तन्न । जात्रवेदः । ताभिः । वह । एनं । सुकृतां । ऊं इति ।  
 > लोकं ॥ ४
@@ -19946,7 +19940,7 @@ On the day of pressing (sutya), the two ṛks beginning द्रप्सश्
 
 ##### Gist of the bhāṣya
 
-(Continuing.) The ṛk is used in this way: if an oblation falls outside the outer enclosing sticks (bahiṣparidhi), then the Āgnīdhra should offer with it. This is laid down in the sūtra, introduced with "one should touch what has fallen": द्रप्सश्चस्कंदेत्याहुतिश्चेद्बहिष्परिध्याग्नीध्र एनां जुहुयात् (*drapsaścaskaṃdetyāhutiścedbahiṣparidhyāgnīdhra enāṃ juhuyāt*) (A. 3-13)**NOTE**.
+The ṛk is used in this way: if an oblation falls outside the outer enclosing sticks (bahiṣparidhi), then the Āgnīdhra should offer with it. This is laid down in the sūtra, introduced with "one should touch what has fallen": द्रप्सश्चस्कंदेत्याहुतिश्चेद्बहिष्परिध्याग्नीध्र एनां जुहुयात् (*drapsaścaskaṃdetyāhutiścedbahiṣparidhyāgnīdhra enāṃ juhuyāt*) (A. 3-13)**NOTE**.
 
 Drapsa is the juice of the Soma being pressed. It has "gone" (caskanda) with regard to the first (prathamān, that is, earlier-existing) earthly worlds and the shining (dyūn) worlds of heaven. He states this same thing: it has followed this visible yoni, the world that is the place, and that which exists before it. Common (samāna, shared) yoni is the place made up of heaven and earth; the drapsa, the Soma juice that is the vipuḍ-oblation, moves well (saṃcarantam) along it. The seven hotrāḥ are the seven who perform the vipuḍ-homa, the hotṛ and the rest; "we" offer in due order; जुहोमि (*juhomi*) stands for जुहुमः (*juhumaḥ*).
 
@@ -24840,7 +24834,7 @@ This Soma bestows, upon the pious donor of the libation, food with cattle; it gi
 
 ##### Gist of the bhāṣya
 
-The ten-Ṛk... correction: the sūkta beginning प्र हि (*pra hi*) has nine Ṛks, is in Anuṣṭubh metre and has Pūṣan as deity. The first and fourth Ṛks are in Uṣṇih. The seer is as before. He cites the Anukramaṇī: प्र हि नव पौष्ण मानुष्टुभमाद्याचतुर्थ्या उष्ठिहाविति (*pra hi nava pauṣṇa mānuṣṭubhamādyācaturthyā uṣṭhihāviti*). The viniyoga has already been given.
+This is the tenth sūkta. The sūkta beginning प्र हि (*pra hi*) has nine Ṛks, is in Anuṣṭubh metre and has Pūṣan as deity. The first and fourth Ṛks are in Uṣṇih. The seer is as before. He cites the Anukramaṇī: प्र हि नव पौष्ण मानुष्टुभमाद्याचतुर्थ्या उष्ठिहाविति (*pra hi nava pauṣṇa mānuṣṭubhamādyācaturthyā uṣṭhihāviti*). The viniyoga has already been given.
 
 ##### Anuvāda
 
@@ -26716,7 +26710,7 @@ Here the inner self is praised as Indra. "O inner self, that solar divine form o
 
 ##### Gist of the bhāṣya
 
-"Know it as worthy of praise—this is to be supplied. Do not conceal it." Further, the motion of the all-cleansing Āditya, going through his rays, makes the whole three worlds manifest and makes them shine; it takes up and covers the water (बुसं (*busaṃ*)). That is: this motion for the two purposes, by Āditya's decision or by effort, is never stopped, never abandoned.
+"Know it as worthy of praise—this is to be supplied. Do not conceal it." Further, the motion of the all-cleansing Āditya**NOTE**, going through his rays, makes the whole three worlds manifest and makes them shine; it takes up and covers the water (बुसं (*busaṃ*)). That is: this motion for the two purposes, by Āditya's decision or by effort, is never stopped, never abandoned.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -27989,7 +27983,7 @@ The powerful Indra reaches the hosts (of the enemy), the mightiest (hosts) exert
 
 ## Sūkta 30 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 Introduction. For this sūkta and the next five sūktas the seer is Kavaṣa, son of Ilūṣa. Because he was born of a Śūdra serving-woman, he was a Śūdra and the son of a serving-woman, and the Brāhmaṇas, the ṛṣis and others, did not keep social dealings with him. He had no entry into the sacrificial hall. There is an old story about this in the Aitareya Brāhmaṇa and in the Kauṣītaki Brāhmaṇa. We set it out here.
 
@@ -34760,7 +34754,7 @@ A seer called Vandana had been thrown by asuras into a well in a lonely place in
 
 याभी रेभं निवृतं सितमद्भ्य उद्वंदनमैरयतं स्वर्दृशे । (*yābhī rebhaṃ nivṛtaṃ sitamadbhya udvaṃdanamairayataṃ svardṛśe |*)
 
-याभिः कण्वं प्रसिषासंतमापतं ताभिरू షు ऊतिभिरश्विना गतं ॥ (*yābhiḥ kaṇvaṃ prasiṣāsaṃtamāpataṃ tābhirū షు ūtibhiraśvinā gataṃ ‖*)
+याभिः कण्वं प्रसिषासंतमापतं ताभिरू षु ऊतिभिरश्विना गतं ॥ (*yābhiḥ kaṇvaṃ prasiṣāsaṃtamāpataṃ tābhirū ṣu ūtibhiraśvinā gataṃ ‖*)
 
 (Ṛ. Saṃ. 1-112-5)
 
@@ -36011,7 +36005,7 @@ has the same meaning as said before. That is, the meaning of the word मिथ�
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa addresses the two Aśvins, who are exhilarated. In the house of the man, that is, of my husband, he asks them to establish for me, who desire to praise them, wealth together with sons and the rest. Further, the two Aśvins, lords of water, are to make a ford, a good place for drinking, for her who is going to her husband's house. Further, they are to drive away the tree that stands in the way, and the ill-minded one, who is a highwayman.
+Sāyaṇa addresses the two Aśvins, who are exhilarated. In the house of the man, that is, of my husband,**NOTE** he asks them to establish for me, who desire to praise them, wealth together with sons and the rest. Further, the two Aśvins, lords of water, are to make a ford, a good place for drinking, for her who is going to her husband's house. Further, they are to drive away the tree that stands in the way, and the ill-minded one, who is a highwayman.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
