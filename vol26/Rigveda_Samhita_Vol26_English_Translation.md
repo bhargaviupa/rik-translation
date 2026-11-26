@@ -20477,6 +20477,254 @@ O Soma-god, you who are savoury, flow for the company of gods born in the world 
 ##### English translation
 Flow sweet for the celestial people, flow sweet for Indra, whose name is worthily invoked ; sweet for Mitra, Varuna, Vayu, Brihaspati, you who are sweet-flavoured, inviolable.
 
+### Printed p. 546
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्यं॑ मृजंति क॒लशे॒ दश॒ क्षिपः॒ प्र विप्रा॑णां म॒तयो॒ वाच॑ ईरते ।  
+> पव॑माना अ॒भ्य॑र्षंति सुष्टु॒तिमेंद्रं॑ विशंति मदि॒रास॒ इंद॑वः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्यम् । मृजंति । कलशे । दश । क्षिपः । प्र । विप्राणाम् । मतयः । वाचः । ईरते ।  
+> पवमानाः । अभि । अर्षंति । सुऽस्तुतिम् । आ । इंद्रम् । विशंति । मदिरासः । इंदवः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्यम् अतनवंतमश्वस्थानीयं वा सोमं कलशे दश क्षिपः दशांगुलयोऽध्वर्युसंबंधिन्यः मृजंति शोधयंति । तथा विप्राणां मध्ये मतयः स्तोतारः वाचः स्तुतीः ईरते प्रेरयंति । पवमानाः सोमाः अभ्यर्षंति अभिगच्छंति सुष्टुतिं शोभनस्तुतिम् । इंद्रं मदिरासः मदकराः इंदवः सोमाः आ विशंति प्रविशंति ॥
+
+##### Gist of the bhāṣya
+
+The ten fingers of the Adhvaryu, the ten क्षिपः (*kṣipaḥ*), cleanse in the vessel the Soma who is अत्यं (*atyaṃ*), ever moving, or horse-like. Among the wise, the मतयः (*matayaḥ*), the praisers, send forth praises. The flowing Somas go toward the fair praise. The exhilarating Indus, the Somas, enter Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers
+- अत्यं (*atyaṃ*)—Soma, who is ever moving
+- कलशे (*kalaśe*)—in the Droṇakalaśa
+- मृजंति (*mṛjaṃti*)—cleanse
+- विप्राणां (*viprāṇāṃ*)—among the wise
+- मतयः (*matayaḥ*)—the praisers
+- वाचः (*vācaḥ*)—praises
+- प्र ईरते (*pra īrate*)—send forth
+- पवमानाः (*pavamānāḥ*)—the Soma-juices
+- अभ्यर्षंति (*abhyarṣaṃti*)—stream and flow
+- मदिरासः (*madirāsaḥ*)—the delight-causing
+- इंदवः (*iṃdavaḥ*)—Soma-juices
+- सुष्टुतिं (*suṣṭutiṃ*)—worthy of excellent praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ विशंति (*ā viśaṃti*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers cleanse in the Droṇakalaśa the Soma who is ever moving. Among the wise, the praisers send forth praises (they recite). The Soma-juices stream and flow. The delight-causing Soma-juices enter Indra, who is worthy of excellent praise.
+
+##### English translation
+The ten fingers clean the horse in the pitcher ; among the Vipras the worshippers send forth praises ; the filtered (juices) hasten to the fair praise, the exhilarating Soma juices enter Indra.
+
+### Printed p. 547
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो अ॒भ्य॑र्षा सु॒वीर्य॑मु॒र्वीं गव्यू॑तिं॒ महि॒ शर्म॑ स॒प्रथः॑ ।  
+> माकि॑र्नो अ॒स्य परि॑षूतिरीश॒तेंदो॒ जये॑म॒ त्वया॒ धनं॑धनम् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । अभि । अर्ष । सुऽवीर्यम् । उर्वीम् । गव्यूतिम् । महि । शर्म । सऽप्रथः ।  
+> माकिः । नः । अस्य । परिऽसूतिः । ईशत । इंदो इति । जयेम । त्वया । धनम्ऽधनम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमानः पूयमानस्त्वं सुवीर्यमुर्वीं महतीं गव्यूतिं गोमार्गं च महि महत् सप्रथः सर्वतः पृथु शर्म गृहं सुखं वा अभ्यर्ष अभिगमय । नः अस्माकम् अस्य कर्मणः परिषूतिः हिंसायाः परिप्रेरको द्वेषी माकिः ईशत मेश्वरो भवतु । हे इंदो सोम त्वया साधनेन धनंधनं सर्वमपि धनं जयेम ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being purified, bring us good heroism, the broad and great गव्यूतिं (*gavyūtiṃ*), the cattle-path, and the great, on all sides wide शर्म (*śarma*), a house or happiness. May the enemy who incites harm to this rite of ours, the परिषूतिः (*pariṣūtiḥ*), not be master. O Indu, Soma, through you as the means may we win all wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god) पवमानः (*pavamānaḥ*)—you who purify
+- सुवीर्यं (*suvīryaṃ*)—heroic sons
+- उर्विीं (*urviīṃ*)—and broad
+- गव्यूतिं (*gavyūtiṃ*)—cattle-path
+- महि (*mahi*)—and great
+- सप्रथः (*saprathaḥ*)—and wide
+- शर्म (*śarma*)—house
+- अभ्यर्ष (*abhyarṣa*)—provide
+- नः (*naḥ*)—our
+- अस्य (*asya*)—for this
+- परिषूतिः (*pariṣūtiḥ*)—to cause harm
+- माकिः ईशत (*mākiḥ īśata*)—may no one be able
+- इंदो (*iṃdo*)—O Soma-god
+- त्वया (*tvayā*)—with your help
+- धनं धनं (*dhanaṃ dhanaṃ*)—all wealth
+- जयेम (*jayema*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you who purify, provide us with heroic sons, a broad cattle-path, and a house that is great and wide. May no one be able to cause harm to this rite of ours. O Soma, with your help may we obtain all wealth.
+
+### Printed p. 548
+
+##### English translation
+(Soma), when filtered, bring us male progeny, extensive pastures, a large and spacious mansion ; let no hinderer of this (rite) be lord over us ; Indu, through you may we win all wealth.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॒ द्याम॑स्थाद्वृष॒भो वि॑चक्ष॒णोऽरू॑रुच॒द्वि दि॒वो रो॑च॒ना क॒विः ।  
+> राजा॑ प॒वित्र॒मत्ये॑ति॒ रोरु॑वद्दि॒वः पी॒यूषं॑ दुहते नृ॒चक्ष॑सः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । द्याम् । अस्थात् । वृषभः । विऽचक्षणः । अरूरुचत् । वि । दिवः । रोचना । कविः ।  
+> राजा । पवित्रम् । अति । एति । रोरुवत् । दिवः । पीयूषम् । दुहते । नृऽचक्षसः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधि अस्थात् द्यां द्युलोकं वृषभः वर्षिता विचक्षणः विद्रष्टा अयं सोमः । तथा कृत्वा दिवः द्युलोकसंबंधीनि रोचना रोचमानानि नक्षत्रादीनि वि अरूरुचत् विविधं रोचयति । कविः क्रांतप्रज्ञः सन् राजा सोमः पवित्रं दशापवित्रम् अत्येति अतिक्रम्य गच्छति । रोरुवत् शब्दं कुर्वन् । दिवः द्युलोकस्य पीयूषं सारं रसं नृचक्षसः नृणां द्रष्टारः सोमाः दुहते स्रवंति । स्वकीयं रसमांतरिक्ष्यमुदकं वा दुहंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, the showerer and beholder, has taken his station upon heaven, the world of Dyaus. Having done so, he makes the luminaries of heaven, the stars and the rest, shine in various ways. The king Soma, a seer of far-reaching wisdom, passes beyond the ten-fold filter, making a sound. The Somas, नृचक्षसः (*nṛcakṣasaḥ*), the beholders of men, milk the essence of heaven, the पीयूषं (*pīyūṣaṃ*); the meaning is that they milk forth their own juice, or the water of the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—the granter of desired objects
+- विचक्षणः (*vicakṣaṇaḥ*)—and the one of subtle vision, Soma
+- द्यां (*dyāṃ*)—in the world of Dyaus
+- अध्यस्थात् (*adhyasthāt*)—is established
+- दिवः (*divaḥ*)—in the world of Dyaus
+- रोचना (*rocanā*)—the shining stars
+- व्यरूरुचत् (*vyarūrucat*)—makes brilliant
+- कविः (*kaviḥ*)—the wise
+- राजा (*rājā*)—and the lord, Soma
+- पवित्रं (*pavitraṃ*)—the ten-fold filter
+- रोरुवत् (*roruvat*)—making a sound
+- अत्येति (*atyeti*)—crosses over
+- नृचक्षसः (*nṛcakṣasaḥ*)—the Soma-juices that can behold men
+- दिवः (*divaḥ*)—of the world of Dyaus
+- पीयूषं (*pīyūṣaṃ*)—the essential ambrosia
+- दुहते (*duhate*)—milk
+
+### Printed p. 549
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the granter of desired objects and the one of subtle vision, is established in the world of Dyaus. He makes the shining stars in the world of Dyaus brilliant. Soma, the wise and the lord, crosses over the ten-fold filter, making a sound. The Soma-juices that can behold men milk the essential ambrosia of the world of Dyaus.
+
+##### English translation
+The showerer, the beholder, has taken his station upon heaven, the seer has illumined the luminaries of heaven ; the king passes through the filter with a shout ; (the Soma juices) the beholders of men milk forth the ambrosia of heaven.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो नाके॒ मधु॑जिह्वा अस॒श्चतो॑ वे॒ना दु॑हंत्यु॒क्षणं॑ गिरि॒ष्ठाम् ।  
+> अ॒प्सु द्र॒प्सं वा॑वृधा॒नं स॑मु॒द्र आ सिंधो॑रू॒र्मा मधु॑मंतं प॒वित्र॒ आ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । नाके । मधुऽजिह्वाः । असश्चतः । वेनाः । दुहंति । उक्षणम् । गिरिऽस्थाम् ।  
+> अप्ऽसु । द्रप्सम् । ववृधानम् । समुद्रे । आ । सिंधोः । ऊर्मा । मधुऽमंतम् । पवित्रे । आ ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवः द्योतमानस्य यज्ञस्य संबंधिनि नाके दुःखरहिते हविर्धानाख्ये स्थाने मधुजिह्वाः मधुरवाचः असश्चतः असंसक्ता । पृथक्पृथगित्यर्थः । यद्वा चिरमकृत्वा शीघ्रमभिषुण्वंतः वेनाः एतन्नामका महर्षयः दुहंति अभिषुण्वंति । यद्वा द्युलोक एव वेनाः कांता देवा दुहंति । तं सोमम् उक्षणं सेक्तारं गिरिष्ठां गिरावुन्नते देशे वर्तमानम् अप्सु उदकेषु वसतीवरीष्वंतः ववृधानं वर्धमानं द्रप्सं रसरूपं समुद्रे समुद्रवत् प्रवृद्धे द्रोणकलशे सिंधोः उदकस्य ऊर्मा ऊर्मौ पूरे आ सिंचंतीति शेषः । तदर्थं मधुमंतं माधुर्योपेतं रसं पवित्रे दशापवित्रे आ सिंचंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+In the नाके (*nāke*), the place free from sorrow, called the Havirdhāna, belonging to the shining sacrifice, the Venas, sweet-tongued, that is sweet-voiced, and असश्चतः (*asaścataḥ*), unattached, meaning each separately, or else pressing quickly without delay, great seers of that name, milk, that is, press out. Or else: in heaven itself the Venas, the beloved gods, milk. They milk that Soma, the sprinkler, the गिरिष्ठां (*giriṣṭhāṃ*), abiding in an elevated place, growing in the waters, within the वसतीवरीष्वंतः (*vasatīvarīṣvaṃtaḥ*) (waters), and द्रप्सं (*drapsaṃ*), of the nature of juice. In the ocean, that is, in the Droṇakalaśa swollen like an ocean, in the ऊर्मा (*ūrmā*), the flood of water, they sprinkle him: this is to be supplied. For that purpose they sprinkle the sweet juice, endowed with sweetness, in the ten-fold filter: this too is to be supplied.
+
+### Printed p. 550
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the shining sacrifice
+- नाके (*nāke*)—in the place free from sorrow
+- मधुजिह्वा (*madhujihvā*)—having sweet words of praise
+- असश्चतः (*asaścataḥ*)—and engaged in separate works
+- वेनाः (*venāḥ*)—the seers called Vena
+- उक्षणं (*ukṣaṇaṃ*)—the one who rains down desires
+- गिरिस्थां (*giristhāṃ*)—who dwells on the mountain, Soma
+- दुहंति (*duhaṃti*)—milk
+- अप्पु (*appu*)—in the waters **NOTE**
+- ववृधानं (*vavṛdhānaṃ*)—who grows
+- द्रप्पं (*drappaṃ*)—and of the nature of juice, Soma **NOTE**
+- समुद्रे (*samudre*)—in the Droṇakalaśa
+- सिंधोः (*siṃdhoḥ*)—of the water
+- ऊर्मा (*ūrmā*)—with the waves
+- आ (सिंचंति) (*ā (siṃcaṃti)*)—they cause to gather together
+- मधुमंतं (*madhumaṃtaṃ*)—the Soma that possesses sweetness
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- आ (*ā*)—they pour
+
+##### भावार्थ (Bhāvārtha)
+
+In the shining place of the sacrifice, free from sorrow, the seers called Vena, having sweet words of praise and engaged in separate works, milk Soma, the one who rains down desires and who grows on the mountain (they press and take out the juice). They cause Soma, who grows in the waters and is of the nature of juice, to gather together with the waves of the water in the Droṇakalaśa. They pour the sweet Soma into the ten-fold filter.
+
+##### English translation
+In the heaven of the bright (sacrifice) the sweet-voiced Venas severally milk forth the sprinkler, the mountain-haunting (Soma); they sprinkle him nourished in the waters, juicy, in the ocean ( like pitcher), in the wave of the river ; (they sprinkle him) sweet-flavoured, in the filter.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाके॑ सुप॒र्णमु॑पपप्ति॒वांसं॒ गिरो॑ वे॒नाना॑मकृपंत पू॒र्वीः ।  
+> शिशुं॑ रिहंति म॒तयः॒ पनि॑प्नतं हिर॒ण्ययं॑ शकु॒नं क्षाम॑णि॒ स्थाम् ॥ ११ ॥
+
+### Printed p. 551
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाके । सुऽपर्णम् । उपपप्तिऽवांसम् । गिरः । वेनानाम् । अकृपंत । पूर्वीः ।  
+> शिशुम् । रिहंति । मतयः । पनिप्नतम् । हिरण्ययम् । शकुनम् । क्षामणि । स्थाम् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नाके द्युलोके वर्तमानं पश्चादुत्पतंतं सोमं वेनानाम् अस्माकं संबंधिन्यः पूर्वीः बह्व्यः गिरः स्तुतयः उप अकृपंत उपकल्पंते । अभिष्टुवंतीत्यर्थः । तं शिशुं शिशुवत् संस्कर्तव्यं सोमं मतयः स्तुतयः रिहंति लिहंति संस्पृशंति । प्राप्नुवंतीत्यर्थः। कीदृशं शिशुम् । पनिप्नतं शब्दायंतम् । पनतेर्यङ्लुगंतात् शतरि अभ्यासस्य निगागम उपधालोपश्च । हिरण्ययं हिरण्मयं शकुनं पक्षिणं क्षामणि क्षमायां स्थां हविर्धाने स्थां वर्तमानम् ॥
+
+##### Gist of the bhāṣya
+
+The many hymns of praise, belonging to us, the Venas, wait upon, that is, praise, Soma who abides in heaven, नाके (*nāke*), and afterwards flies up. The praises, the मतयः (*matayaḥ*), lick, that is, touch, that is, reach, him, the infant, Soma, who is to be prepared as a child. What kind of infant? One that sounds, पनिप्नतं (*panipnataṃ*); golden; a bird; abiding on the earth, that is, abiding in the Havirdhāna.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नाके (*nāke*)—in the world of Dyaus
+- उपपप्ति वांसं (*upapapti vāṃsaṃ*)—who had dwelt (afterwards) **NOTE**
+- सुपर्णं (*suparṇaṃ*)—and of excellent motion, Soma
+- वेनानां (*venānāṃ*)—of us, called Vena
+- पूर्वीः (*pūrvīḥ*)—of many kinds
+- गिरः (*giraḥ*)—praises
+- अकृपंत (*akṛpaṃta*)—praise
+- पनिष्कृतं (*paniṣkṛtaṃ*)—who makes a sound **NOTE**
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- शकुनं (*śakunaṃ*)—in the form of a bird
+- क्षामणि स्थां (*kṣāmaṇi sthāṃ*)—and established on the earth
+- शिशुं (*śiśuṃ*)—Soma, in the form of an infant
+- मतॆयः (*matèyaḥ*)—the praises
+- रिहंति (*rihaṃti*)—prepare **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The many kinds of praises of us, called Vena, praise Soma, who was in the world of Dyaus and is of excellent motion. The praises prepare Soma, who makes a sound, who is made of gold, in the form of a bird, established on the earth, and in the form of an infant.
+
+##### English translation
+The many voices of the Venas praise (the Soma who dwells) in heaven, well-winged, falling (to earth); praises soothe the crying infant, the golden bird, reposing on the earth.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो गं॑ध॒र्वो अधि॒ नाके॑ अस्था॒द्विश्वा॑ रू॒पा प्र॑ति॒चक्षा॑णो अस्य ।  
+> भा॒नुः शु॒क्रेण॑ शो॒चिषा॒ व्य॑द्यौ॒त्प्रारू॑रुच॒द्रोद॑सी मा॒तरा॒ शुचिः॑ ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 545. Mandala 9 Sukta 85 Rk 1 (end) to Rk 6
+**Progress note:** Done through printed p. 551. Mandala 9 Sukta 85 Rk 7-12 (Rk 12 block only)
