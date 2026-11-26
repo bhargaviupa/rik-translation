@@ -118,6 +118,256 @@ This chariot is described in some places as one-wheeled, in others as two-wheele
 
 "O Sūryā, the skilled Brāhmaṇas can see two wheels of your chariot; but the other wheel alone is hidden." In explaining this, Sāyaṇa explains द्वे एव चंद्र सूर्यात्मके (*dve eva caṃdra sūryātmake*) as the two wheels in the form of moon and sun. And since the third wheel is hidden, he says that its nature is not accessible to ordinary awareness.
 
+### Printed p. 7
+
+##### विशेषविषयगळु (Special Topics)
+
+In the verse ज्योतिष्मंतं केतुमंतं त्रिचक्रं सुखं रथं सुषदं भूरिवारं । चित्रामघा यस्य योगेऽधिजज्ञे तं वां हुवे अति रिक्तं पिबध्यै ॥ (*jyotiṣmaṃtaṃ ketumaṃtaṃ tricakraṃ sukhaṃ rathaṃ suṣadaṃ bhūrivāraṃ | citrāmaghā yasya yoge 'dhijajñe taṃ vāṃ huve ati riktaṃ pibadhyai ‖*) (Ṛ. Saṃ. 8. 58. 3), this chariot, which belongs to all the gods, is described. The word त्रिचक्रं (*tricakraṃ*) shows the special power of this chariot: it means that it is by nature one that travels through the earth-world, the atmosphere-world and the heaven-world. Here the hidden third wheel pervades all the worlds, yet keeps its secret nature concealed. Describing the same thing in another way, the verse इदं त एकं पर ऊत एकं तृतीयेन ज्योतिषा संविकस्व । (*idaṃ ta ekaṃ para ūta ekaṃ tṛtīyena jyotiṣā saṃvikasva |*) (Ṛ. Saṃ. 10. 56. 1) and others point out three kinds of light. In sum, if the Aśvin deities are of the form of day and night, then the two wheels of their chariot are likewise of the form of the sun and the moon. The third is more secret. Ghoṣā and the son of Ghoṣā have praised most highly the Aśvin deities, who possess a chariot with wheels that are all-pervading and of the nature of light.
+
+## Sūkta 41 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समानमिति तृचं द्वादशं सूक्तं घोषायाः पुत्रस्य सुहस्त्यस्यार्षं
+> जागतमाश्विनं । अनुक्रांतं च । समानं तृचं सुहस्तो फौषेय इति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, beginning समानं (*samānaṃ*), a group of three verses, has as its seer Suhastya, son of Ghoṣā; its metre is Jagatī and its deity is the Aśvins. The Anukramaṇī says: समानं तृचं सुहस्तो फौषेय इति (*samānaṃ tṛcaṃ suhasto phauṣeya iti*). Its use (viniyoga) is in the Prātaranuvāka and the Aśvina-śastra.
+
+##### Anuvāda
+
+This sūkta, beginning *samānam*, is the twelfth sūkta in the third anuvāka of the tenth maṇḍala. It has three Ṛks. The seer of this sūkta is Suhastya, son of the woman Ghoṣā. The deities are the Aśvins; the metre is Jagatī. The Anukramaṇī says समानं तृचं सुहस्तो घौषेयः (*samānaṃ tṛcaṃ suhasto ghauṣeyaḥ*). This sūkta is used for the Prātaranuvāka and the Aśvina-śastra mantras.
+
+##### Particulars
+
+- Sūkta 72
+- Maṇḍala 10, Anuvāka 3, Sūkta 41
+- Aṣṭaka 7, Adhyāya 8, Varga 21
+- Number of Ṛks in the sūkta: 3
+- Seer: Suhastya Ghauṣeya
+- Deity: Aśvins
+- Metre: Jagatī
+
+### Printed p. 8
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नमु॒ त्यं पु॑रुहू॒तमु॒क्थं१॒॑ १ रथं॑ त्रिच॒क्रं सव॑ना॒ गनि॑ग्यतं ।  
+> परि॑ज्ञानं विद॒थ्यं॑ सुवृ॒क्तिभि॑र्व॒यं व्यु॑ष्टा उ॒षसो॑ हवामहे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानं । ऊं इति । त्यं । पुरुहूतं । उक्ष्यं । रथं । त्रिचक्रं । सवना ।  
+> गनिग्यतं ।  
+> परिज्ञानं । विदथ्यं । सुवृक्तिभिः । वयं । विउष्टौ । उषसः । हवामहे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवयोः समानमु साधारणमेव त्यं तं पुरुहूतं बहुभिराहूतमुक्थं प्रशस्यं त्रिचक्रं सवना सवनानि यज्ञान्गनिग्मतं प्रतिगच्छंतं
+> परिज्ञानं परितो गंतारं विदथ्यं यज्ञहितं रथमुषसो व्युष्टौ सुवृक्तिभिः
+> सुष्टु दोषवर्जिताभिः स्तुतिभिर्वयं हवामहे । आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, we call, at the break of dawn (*uṣaso vyuṣṭau*), with well-made, faultless praises, that chariot of yours which is common to you both (समानमु (*samānamu*)), famed, invoked by many, praiseworthy (उक्ष्यं (*ukṣyaṃ*)), three-wheeled, going to the sacrifices, going all round (परिज्ञानं (*parijñānaṃ*): one who goes about on every side) and beneficial to the sacrifice (विदथ्यं (*vidathyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) समानमु (*samānamu*)—common to you both
+- त्यं (*tyaṃ*)—famed
+- पुरुहूतं (*puruhūtaṃ*)—worthy of the invocation of many
+- उक्ष्यं (*ukṣyaṃ*)—praiseworthy
+- त्रिचक्रं (*tricakraṃ*)—having three wheels
+- सवना गनिग्मतं (*savanā ganigmataṃ*)—going to the sacrifices
+- परिज्ञानं (*parijñānaṃ*)—moving all around
+- विदथ्यं (*vidathyaṃ*)—useful for the sacrifice
+- रथं (*rathaṃ*)—the chariot
+- उषसः व्युष्टौ (*uṣasaḥ vyuṣṭau*)—at the time of the appearance of Uṣas
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- वयं (*vayaṃ*)—we
+- हवामहे (*havāmahe*)—we call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, that chariot which is common to you both, famed, worthy of the invocation of many, praiseworthy, having three wheels, going to the sacrifices, moving all around and useful for the sacrifice, we call, praying, with excellent praises at the time of the appearance of Uṣas.
+
+### Printed p. 9
+
+##### English translation
+At break of dawn, (Aswins) we invoke with pious prayers your common chariot, praised of many, adorable, three-wheeled, frequenting religious rites, traversing all space, suitable at sacrifices.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒त्॒रयुर्जं॑ नास॒त्याधि॑ तिष्मथः प्रात्॒रर्यावा॑णं मधु॒वाह॑नं॒  ॑
+> रथं ।  
+> विशो॒ येन॒ गच्छ॑थो॒ यज्व॑रीर्नरा की॒रेश्चि॑द्य॒ज्ञं होतृ॑मंतमत्विना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातःयुजं । नासत्त्या । अधि । तिष्कथः । प्रातःयावानं । मधुवाहनं । रथं ।  
+> विशः । येन । गच्छथः । यज्वरीः । नरा । कीरेः । चित् । यज्ञं । होतृमंतं ।  
+> अश्विना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या नासत्यभूतौ सत्यस्य प्रणेतारौ वा नरा नेतारावश्विनौ युवां
+> प्रातर्युजं प्रातःकालेऽश्चैर्युज्यमानं प्रातर्यावाणं प्रातर्गंतारं मधुवाहनं मधुनोऽमृतस्य वाहकं तं रथमधि शिष्ठथः । आरोहतमित्यर्थः । यज्वरीर्यजनशीला विशः प्रजा येन रथेन गच्छथः । येन च कीरेश्चित्तोतुरपि होतृमंतमृषियुक्तं यज्ञं गच्छथः ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas—either "not untrue" or "leaders of truth"—O leaders, Aśvins, mount that chariot which is yoked in the morning, goes in the morning, and carries honey (the nectar). It is the chariot by which you go to the sacrificing people (यज्वरीः (*yajvarīḥ*) = those given to sacrifice), and by which you go also to the sacrifice of the praiser (कीरेः (*kīreḥ*) = the reciter of praise), which is furnished with priests (होतृमंतं (*hotṛmaṃtaṃ*): accompanied by seers).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- नरा (*narā*)—you, who are leaders
+- येन (*yena*)—by which chariot
+- यज्वरीः (*yajvarīḥ*)—sacrificers
+- विशः (*viśaḥ*)—to the people
+- गच्छथः (*gacchathaḥ*)—you go
+- येन (*yena*)—by which
+- कीरेश्चित् (*kīreścit*)—of the praiser
+- होतृमंतं (*hotṛmaṃtaṃ*)—accompanied by priests
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- (you go: such a chariot,) प्रातर्युजं (*prātaryujaṃ*)—to be yoked in the morning
+- प्रातर्यावाणं (*prātaryāvāṇaṃ*)—to go to the sacrifice in the morning
+- मधुवाहनं (*madhuvāhanaṃ*)—to carry honey
+- रथं (*rathaṃ*)—the chariot
+- अधि तिष्ठथः (*adhi tiṣṭhathaḥ*)—mount and sit
+
+### Printed p. 10
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who are leaders, mount and sit on that chariot by which you go to the sacrificing people, and by which you go to the priest-furnished sacrifice of the praiser, which is to be yoked in the morning, goes to the sacrifice in the morning, and carries honey.
+
+##### English translation
+Ascend, Nasatyas, your nectar-bearing chariot, which is harnessed at dawn, and set in motion at dawn, with which, leaders (of rites), you go to the people who are engaged in worship, to the priest-administered sacrifice, Aswins, of (your) adorer.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ध्व॒युर्वा॒ मधु॑पाणिं सु॒हस्त॑म॒ग्निधं॑ वा धृ॒तद॑क्षं॒  
+> दमू॑नसं ।  
+> विप्र॑स्य वा॒ यत्सव॑नानि॒ गच्छ॒थोऽत॒ आ या॑तं मधु॒पेय॑मत्विनागि
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वयुं । वा । मधुपाणिं । सुहस्यं । अग्निधं । वा । धृतदक्षं । दमूनसं ।  
+> विप्रस्य । वा । यत् । सवनानि । गच्छथः । अतः । आ । यातं । मधुपेयं । अश्विना॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां मधुपाणिं सोमपाणिमध्वर्युं वा सुहस्यं सुहस्यनामानमृषिं मां धृतदक्षं धृतबलं दमूनसं दानमनसमग्निधं दर्श्विग्निशेषं
+> समायातं । तदेव दर्शयति । यद्यद्यपि विप्रस्यान्यस्य मेधाविनः सवनानि यज्ञान्नच्छथः तथाप्यतस्तेभ्यो यज्ञेभ्यो मधुपेयमस्माकं सोमात्मकं पेयमा
+> यातं । अन्वागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come together to me, Suhastya by name, the seer, whether as the adhvaryu with soma in his hand, or as the Āgnīdhra, the remainder of the fire-priests—me who hold strength (धृतदक्षं (*dhṛtadakṣaṃ*)) and am generous-minded (दमूनसं (*damūnasaṃ*)). He then shows the point: even if you go to the sacrifices (सवनानि (*savanāni*)) of another wise man, nevertheless from those sacrifices come after to our soma-drink (मधुपेयं (*madhupeyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) मधुपाणिं (*madhupāṇiṃ*)—one holding soma in his hand
+- अध्वर्युं दा— (*adhvaryuṃ dā—*)—either in the form of the adhvaryu
+- धृतदक्षं (*dhṛtadakṣaṃ*)—possessing greater strength
+- दमूनसं (*damūnasaṃ*)—possessing strength of giving
+
+### Printed p. 11
+
+- अग्निधं वा (*agnidhaṃ vā*)—or in the form of the Āgnīdhra
+- सुहस्त्यं (*suhastyaṃ*)—to me, named Suhastya
+- आ यातं (*ā yātaṃ*)—come
+- यत् (*yat*)—if perchance
+- विप्रस्य (*viprasya*)—of the wise man
+- सवनानि (*savanāni*)—to the sacrifice
+- गच्छथः (*gacchathaḥ*)—you have gone
+- अतः (*ataḥ*)—from there
+- मधुपेयं (*madhupeyaṃ*)—come to our sacrifice, which has a drink in the form of soma
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to me, named Suhastya, either in the form of the adhvaryu holding soma in his hand, or in the form of the Āgnīdhra, who is of greater strength and generous-minded. Even if you have gone to the sacrifice of another sacrificer, come from there to our sacrifice, which offers soma.
+
+##### English translation
+Come, Aswins, to Suhasya, whether as the ministrant priest bearing the Soma in his hand, or as the competent lowly-minded feeder of the sacred fire; although you go to the sacrifice (of some other) sage, (yet) come, Aswins, from them to the beverage of the Soma (which I offer).
+
+## Sūkta 42 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्तेवेत्येकादशर्चं त्रयोदशं सूक्तमांगिरसस्य कृष्णाख्यस्यार्षं
+> त्रैष्टुभमैंद्रं । अनुक्रांतं च । अस्तेवैकादश कृष्ण इति ॥ अभिप्लविकेषूक्ष्येषु
+> स्तोमवृद्धाविदं सूक्तं ब्राह्मणाच्छंसिन आवापार्थं । सूत्रितं च । यज्ञे दिव इति
+> सूक्ते अस्तेव सु प्रतरं । अ-७-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, beginning अस्तेव (*asteva*), of eleven verses, has as seer Kṛṣṇa, the Āṅgirasa; its metre is Triṣṭubh and its deity Indra. The Anukramaṇī says अस्तेवैकादश कृष्ण इति (*astevaikādaśa kṛṣṇa iti*). In the Abhiplavika ukthya rites this sūkta is used for the increase of the stoma, for the Brāhmaṇācchaṃsin's āvāpa (insertion). It is prescribed by the sūtra यज्ञे दिव इति सूक्ते अस्तेव सु प्रतरं । अ-७-९ । इति (*yajñe diva iti sūkte asteva su prataraṃ | a-7-9 | iti*).
+
+##### Anuvāda
+
+This sūkta, beginning *asteva*, is the thirteenth sūkta in the third anuvāka. It has eleven Ṛks. The seer of this sūkta is Kṛṣṇa, son of Aṅgiras; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇī says अस्तेवैकादश कृष्णः (*astevaikādaśa kṛṣṇaḥ*). The use of this sūkta is for the sūkta which the priest called Brāhmaṇācchaṃsin must recite as an āvāpa for the increase of soma in the ukthya sacrifices connected with the Abhiplava, as set out in the Āśvalāyana Śrauta Sūtra by the sūtra यज्ञे दिव इति सूक्ते अस्तेव सु प्रतरं (*yajñe diva iti sūkte asteva su prataraṃ*) (Ā. 7-9).
+
+### Printed p. 12
+
+##### Particulars
+
+- Maṇḍala 10, Anuvāka 3, Sūkta 42
+- Aṣṭaka 7, Adhyāya 8, Varga 22, 23
+- Number of Ṛks in the sūkta: 11
+- Seer: Kṛṣṇa
+- Deity: Indra
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ते॑व॒ सु प्र॑त॒रं लाय॒मस्य॒न्यूष॑न्निव॒ प्र भ॑रा॒ स्तोम॑मस्मै ।  
+> वा॒चा वि॑प्रास्तरत॒ वाच॑म॒र्यो नि रा॑मय जरितः॒ सोम॒  ॑
+> इंद्रं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्ता इव । सु । प्रतरं । लायं । अस्यन् । भूषन् इव । प्र । भर । सोमं । अस्मि ।  
+> वाचा । विप्राः । तरत । वाचं । अर्यः । नि । रमय । जरितरिति । सोमे । इंद्रं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रतरं प्रवृद्धतरं लायं संश्लेषणं हृदयवेधिनं शरं सु सुष्पस्यन्
+> क्षपन्नस्तेव यथा क्षेप्ता धानुष्टो भूषन्निव यथा जालंकारमलंकुर्वन्नलंकर्ता
+> तद्वत्सोममस्मा इंद्राय प्र भर । प्रापय । हे अंतरात्मन् त्वमिति शेषः । किंच
+> हे विप्रा मेधाविनः यूयं वाचा स्तुत्र्यार्योऽरेः शत्रोर्वाचं तरत । निशरां
+> तरत । निराकुरुतेत्यर्थः । हे जरितः स्तोतः त्वं सोमे सोमयाग इंद्रं वि
+> रमय । क्रीडय ॥
+
+##### Gist of the bhāṣya
+
+As an archer (अस्ता (*astā*)) shoots very well a swifter (प्रतरं (*prataraṃ*)) arrow (लायं (*lāyaṃ*): one that joins, piercing the heart), and as an adorner (भूषन्निव (*bhūṣanniva*)) adorns an ornament—so, O inner self (you being understood), bring forward soma to this Indra. Further, O wise ones (विप्रा (*viprā*)), with speech, that is, with praise, overcome the speech of the enemy (*areḥ*)—that is, put it down. O praiser (जरितः (*jaritaḥ*)), delight (रमय (*ramaya*): make sport) Indra at the soma sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रतरिं (*pratariṃ*)—swift-going
+- लायं (*lāyaṃ*)—the arrow that reaches the target
+- सु (*su*)—exceedingly
+- अस्यन् (*asyan*)—throwing
+- अस्तेव (*asteva*)—like a bow-bearer
+- भूषन्निव (*bhūṣanniva*)—like a painter adorning pictures
+- स्तोमं (*stomaṃ*)—this hymn
+- अस्मै (*asmai*)—addressed to Indra
+- प्र धर (*pra dhara*)—offer
+- विप्राः (*viprāḥ*)—O wise praisers
+- वाचा (*vācā*)—with your praise
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
+**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
