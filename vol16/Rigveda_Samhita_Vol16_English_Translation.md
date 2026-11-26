@@ -5403,7 +5403,7 @@ In the ṛk
 सोमं मन्यते पपिवान् यत्संपिषंत्योषधिं । (*somaṃ manyate papivān yatsaṃpiṣaṃtyoṣadhiṃ |*)
 सोमं यं ब्राह्मणो विदुर्न तस्याश्नाति कश्चन ॥ (*somaṃ yaṃ brāhmaṇo vidurna tasyāśnāti kaścana ‖*)
 
-(printed "(ಖ). ಸಂ. ೧೦-೮೫-೩)", i.e. Ṛ. Saṃ. 10-85-3 with a stray bracket and full stop) the word *soma* also means the moon. This ṛk praises both the Soma plant and the moon. But the author Yāska has described in the following way the greater importance, over the famous moon, of this Soma:
+(printed "(ಖ). ಋ. ಸಂ. ೧೦-೮೫-೩)", i.e. Ṛ. Saṃ. 10-85-3 with a stray bracket and full stop) the word *soma* also means the moon. This ṛk praises both the Soma plant and the moon. But the author Yāska has described in the following way the greater importance, over the famous moon, of this Soma:
 
 सोमं मन्यते पपिर्वा यत्संपिषंत्योषधिमिति वृथाशुतमसोम-माह सोमं यं ब्रह्माणो विदुरिति न तस्याश्नाति कश्चनायज्येत्य-धियज्ञं । अथाधिदैवतं सोमं मन्यते पपिर्वा यत्संपिषंत्यो-षधिमिति यजुस्सुतमसोममाह सोमं यं ब्रह्माणो विदुक्चंद्र-मसं न तस्याश्नाति कश्चनादेव इति । (*somaṃ manyate papirvā yatsaṃpiṣaṃtyoṣadhimiti vṛthāśutamasoma-māha somaṃ yaṃ brahmāṇo viduriti na tasyāśnāti kaścanāyajyetya-dhiyajñaṃ | athādhidaivataṃ somaṃ manyate papirvā yatsaṃpiṣaṃtyo-ṣadhimiti yajussutamasomamāha somaṃ yaṃ brahmāṇo vidukcaṃdra-masaṃ na tasyāśnāti kaścanādeva iti |*)
 

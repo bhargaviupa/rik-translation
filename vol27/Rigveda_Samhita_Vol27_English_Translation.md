@@ -106,7 +106,7 @@ Sūkta—101
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे सखायः सखिभूताः समानख्याना वा हे स्तोतारः वो यूयं पुरोजिती ॥ षष्ट्याः पूर्वसवर्णदीर्घः । पुरस्थितजयस्यांधसोऽदनीयस्य सोमस्य
-> स्वभूताय सुतायाभिषुताय मादयत्नवेऽत्यंतं मदकराय रसाय दीर्घजिह्वं दीर्घा जिह्वा यस्य सः ॥ दीर्घजिह्वी च छंदसि। पा. ४-१-५९ । इति जीषंतत्वेन
+> स्वभूताय सुतायाभिषुताय मादयत्नवेऽत्यंतं मदकराय रसाय दीर्घजिह्वं दीर्घा जिह्वा यस्य सः ॥ दीर्घजिह्वी च छंदसि। पा. सू. ४-१-५९ । इति जीषंतत्वेन
 > निपातितः ॥ तादृशं श्वानमप श्वथिष्टन । अपश्नथयत । अपबाधध्वं! यथा श्वा राक्षसा
 > ना सुतं सोमं न लिहंति तथा कुरुतेत्र्थः ॥
 
@@ -1873,7 +1873,7 @@ Hymn, friends, the Soma purified for the exhilaration (of the gods) gratify him 
 > सिक्तो भवति । तत्र दृष्टांतः । वत्स इव वत्सो यथा मातृभिगर्गोभिः समक्तो
 > भवति तद्वत् । कीदृशः । देवानीर्देवानां रक्षको मदो मदकरो मतिभिः
 > स्तुतिभिः परिष्कृतोऽलंकृतः ॥ भूषणार्थे संपर्युपेभ्य इति सुडागमः । परिनिविभ्यः ।
-> पा. ८-३-७० । इति सुटः षत्वं ॥
+> पा. सू. ८-३-७० । इति सुटः षत्वं ॥
 
 ##### Gist of the bhāṣya
 
@@ -2712,7 +2712,7 @@ Devouted to the gods flow with that (stream); (your) streams of exhilarating liq
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> परीत इति षड्विंशत्यचं चतुर्थं सूक्तं । त्वं सोमासि । ऋ. ९.६७ । इत्यत्रोक्ता भरद्वाजकश्यपाद्याः सप्तर्षयः । आद्या बृहती द्वितीया सतोबृहती ।
+> परीत इति षड्विंशत्यचं चतुर्थं सूक्तं । त्वं सोमासि । ऋ. सं. ९.६७ । इत्यत्रोक्ता भरद्वाजकश्यपाद्याः सप्तर्षयः । आद्या बृहती द्वितीया सतोबृहती ।
 > अयमेकः प्रगाथः । परि सुवान इत्येषा तृतीयैकविंशत्यक्षरा भुरिग्विराड् द्विपदा ।
 > नृभिर्यॆमान इति षोडशिविंशत्यक्षरा द्विपदा विराट् । चतुर्थ्यादिद्वौ प्रगाथौ ।
 > दशम्यादित्रयः सप्तदश्यादिपंच प्रगाथाः । पवमानः सोमो देवता । तथा
@@ -3099,7 +3099,7 @@ Soma flows forth the showerer of benefits, the best of path-finders, a Rishi, a 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > सोतृभिरभिषुण्वद्भिर्यृत्विग्निः सुवानोऽभिषूयमाणः सोमोऽवीनां
-> स्नुभिः । मांसृत्सूनामुपसंख्यानं । पा. ६-१-६३-१ । इति सानुशब्दस्य स्नुभावः ॥
+> स्नुभिः । मांसृत्सूनामुपसंख्यानं । पा. सू. ६-१-६३-१ । इति सानुशब्दस्य स्नुभावः ॥
 > समुच्छ्रितैर्वालैः पवित्रैरधि याति । अधिकं गच्छति । उ इति प्रसिद्धौ । अश्वयेव
 > बडवयेव हरिता हरितवर्णया धारया याति । मंद्रया मदकारिण्या धारया
 > द्रोणकलशमभिगच्छति ॥
@@ -6934,7 +6934,7 @@ The daughter of Surya brought the vast Soma large as a rain-cloud ; the Gandharv
 
 ##### विशेषविषयगळु (Special Topics)
 
-Gandharvāḥ pratyagṛbhan—this ṛk says that the goddess Śraddhā, daughter of Sūrya, brought Soma from the heavenly world and that the Gandharvas received it. The matter is told slightly differently in other śākhās. For example in the Taittirīya Saṃhitā of the Yajurveda: तं सोममाह्रियमाणं गंधर्वो विश्वावसुः पर्यमुष्णात्स तिस्रो रात्रिः परिमुषितोऽवसत्तस्मात्रिस्रो रात्रिः क्रीतः सोमो वसति ते देवा अब्रुवन्स्कीकामा वै गंधर्वास्त्रिया निष्क्रीणामेति ते वाचग्स् स्त्रीयमेकहायनीं कृत्वा तया निरक्रीणन्ता रोहिद्रूपं कृत्वाःगंधर्वेभ्योऽपक्रम्यातिष्ठत् ॥ (*taṃ somamāhriyamāṇaṃ gaṃdharvo viśvāvasuḥ paryamuṣṇātsa tisro rātriḥ parimuṣito 'vasattasmātrisro rātriḥ krītaḥ somo vasati te devā abruvanskīkāmā vai gaṃdharvāstriyā niṣkrīṇāmeti te vācags strīyamekahāyanīṃ kṛtvā tayā nirakrīṇantā rohidrūpaṃ kṛtvāḥgaṃdharvebhyo 'pakramyātiṣṭhat ‖*) (Kṛ. Saṃ. 6-1-6--5)
+Gandharvāḥ pratyagṛbhan—this ṛk says that the goddess Śraddhā, daughter of Sūrya, brought Soma from the heavenly world and that the Gandharvas received it. The matter is told slightly differently in other śākhās. For example in the Taittirīya Saṃhitā of the Yajurveda: तं सोममाह्रियमाणं गंधर्वो विश्वावसुः पर्यमुष्णात्स तिस्रो रात्रिः परिमुषितोऽवसत्तस्मात्रिस्रो रात्रिः क्रीतः सोमो वसति ते देवा अब्रुवन्स्कीकामा वै गंधर्वास्त्रिया निष्क्रीणामेति ते वाचग्स् स्त्रीयमेकहायनीं कृत्वा तया निरक्रीणन्ता रोहिद्रूपं कृत्वाःगंधर्वेभ्योऽपक्रम्यातिष्ठत् ॥ (*taṃ somamāhriyamāṇaṃ gaṃdharvo viśvāvasuḥ paryamuṣṇātsa tisro rātriḥ parimuṣito 'vasattasmātrisro rātriḥ krītaḥ somo vasati te devā abruvanskīkāmā vai gaṃdharvāstriyā niṣkrīṇāmeti te vācags strīyamekahāyanīṃ kṛtvā tayā nirakrīṇantā rohidrūpaṃ kṛtvāḥgaṃdharvebhyo 'pakramyātiṣṭhat ‖*) (Tai. Saṃ. 6-1-6--5)
 **NOTE**
 
 Formerly Soma was in heaven. When no one could bring it to earth, Gāyatrī went to heaven in the form of a hawk, disregarded the resistance of the guardians of Soma who watched it there—Svān, Bhrāja, Aṅghāri, Bambhāri, Hasta, Sudasta, Kṛśānu—and
@@ -7522,11 +7522,11 @@ Rishi Kashyapa, raising your voice with the praises of the hymn-makers, adore th
 > सप्त दिशः । सोमो यस्यां दिशि वर्तते तद्व्यतिरिक्ताः सप्त भवंति । ता नानासूर्या नानाविधैः सूर्यैरधिष्ठिता ऋतवो भवंति । नागलिंगत्वादृतूनां नानासूर्यत्वमित्याम्नानात् । यद्वा । नानासूर्या इति दिग्विशेषणं । तथा होतारो
 > वषट्कर्तारो होत्रादयः सप्तर्त्वजो भवंति । किंच सप्तादित्या अदितेः पुत्रा,
 > धात्रादयो मार्तंडवर्जिता ये सप्त देवाः संति । एतत्त्वष्टौ पुत्रासो आदितेः ।
-> ऋ. १०-७२-८ । इत्यत्र प्रपंचयिष्यते । हे सोम तेभिस्तैर्दिगादिभिः सर्वैर्नोऽस्मानभि रक्ष । एतत्तु त्वया विना न घटत इति तस्मादिंद्रायेंदो परि स्रव ॥
+> ऋ. सं. १०-७२-८ । इत्यत्र प्रपंचयिष्यते । हे सोम तेभिस्तैर्दिगादिभिः सर्वैर्नोऽस्मानभि रक्ष । एतत्तु त्वया विना न घटत इति तस्मादिंद्रायेंदो परि स्रव ॥
 
 ##### Gist of the bhāṣya
 
-The seven quarters: those other than the quarter in which Soma stands are seven; they are the seasons, governed by various suns, since the seasons have various forms ("because of the many genders of the seasons they have many suns", so the tradition says); or else "of various suns" qualifies the quarters. The seven priests, hotṛ and the rest, are the utterers of vaṣaṭ. The seven Ādityas, sons of Aditi, Dhātṛ and others without Mārtaṇḍa, are the seven gods; this is to be elaborated at ऋ. १०-७२-८ (*ṛ. 10-72-8*) (एतत्त्वष्टौ पुत्रासो आदितेः (*etattvaṣṭau putrāso āditeḥ*)). O Soma, protect us with all these, the quarters and the rest. This cannot happen without you; therefore flow for Indra.
+The seven quarters: those other than the quarter in which Soma stands are seven; they are the seasons, governed by various suns, since the seasons have various forms ("because of the many genders of the seasons they have many suns", so the tradition says); or else "of various suns" qualifies the quarters. The seven priests, hotṛ and the rest, are the utterers of vaṣaṭ. The seven Ādityas, sons of Aditi, Dhātṛ and others without Mārtaṇḍa, are the seven gods; this is to be elaborated at ऋ. सं. १०-७२-८ (*ṛ. saṃ. 10-72-8*) (एतत्त्वष्टौ पुत्रासो आदितेः (*etattvaṣṭau putrāso āditeḥ*)). O Soma, protect us with all these, the quarters and the rest. This cannot happen without you; therefore flow for Indra.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -7570,13 +7570,13 @@ In places such as उदगादयमादित्यः (*udagādayamādity
 
 ### Printed p. 166
 
-then, तत्सु नः सविता भगो वरुणो मित्रो अर्यमा (*tatsu naḥ savitā bhago varuṇo mitro aryamā*) (Ṛ. Saṃ. 8-18-3): here the name of Savitṛ is joined with the four Ādityas. In some places the deity Sūra or Savitṛ is assigned the seventh place among the Ādityas (Atha. Ve. 8-2-9 : 37) **NOTE**. In some places Indra, along with Varuṇa, is counted as an Āditya (Ṛ. Saṃ. 7-85-4).
+then, तत्सु नः सविता भगो वरुणो मित्रो अर्यमा (*tatsu naḥ savitā bhago varuṇo mitro aryamā*) (Ṛ. Saṃ. 8-18-3): here the name of Savitṛ is joined with the four Ādityas. In some places the deity Sūra or Savitṛ is assigned the seventh place among the Ādityas (Ath. Saṃ. 8-2-9 : 37) **NOTE**. In some places Indra, along with Varuṇa, is counted as an Āditya (Ṛ. Saṃ. 7-85-4).
 
-In places such as शत्रु त्वादित्या रक्ष्यतां सूर्याचंद्रमसावुभौ (*śatru tvādityā rakṣyatāṃ sūryācaṃdramasāvubhau*) (Atha. Ve. 8-2-15), both Sūrya and Candra are included in the group of Ādityas.
+In places such as शत्रु त्वादित्या रक्ष्यतां सूर्याचंद्रमसावुभौ (*śatru tvādityā rakṣyatāṃ sūryācaṃdramasāvubhau*) (Ath. Saṃ. 8-2-15), both Sūrya and Candra are included in the group of Ādityas.
 
-मात्यादित्यानां दुहिता वसूनां . . . हिरण्यवर्णा मधुकशा (*mātyādityānāṃ duhitā vasūnāṃ . . . hiraṇyavarṇā madhukaśā*) (Atha. Ve. 9-1-4): the golden-hued Madhukaśā is called the mother of the Ādityas and the daughter of the Vasus. Thus in each context the relation between Aditi and the Ādityas is stated in a different way. Their relation is explained in the Taittirīya Brāhmaṇa as follows.
+मात्यादित्यानां दुहिता वसूनां . . . हिरण्यवर्णा मधुकशा (*mātyādityānāṃ duhitā vasūnāṃ . . . hiraṇyavarṇā madhukaśā*) (Ath. Saṃ. 9-1-4): the golden-hued Madhukaśā is called the mother of the Ādityas and the daughter of the Vasus. Thus in each context the relation between Aditi and the Ādityas is stated in a different way. Their relation is explained in the Taittirīya Brāhmaṇa as follows.
 
-अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मादनमपचत् । तस्या उच्छे षणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्मै धाता चार्यमा चा जायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् ॥ सा रेतोऽधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या अगंंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विवस्वाग्श्चाजायेतां ॥ (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmādanamapacat | tasyā ucche ṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasmai dhātā cāryamā cā jāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt ‖ sā reto 'dhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā agaṃṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivasvāgścājāyetāṃ ‖*) (Śai. Brā. 1-1-9-1,2,3) **NOTE**.
+अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मादनमपचत् । तस्या उच्छे षणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्मै धाता चार्यमा चा जायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् ॥ सा रेतोऽधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या अगंंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विवस्वाग्श्चाजायेतां ॥ (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmādanamapacat | tasyā ucche ṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasmai dhātā cāryamā cā jāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt ‖ sā reto 'dhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā agaṃṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivasvāgścājāyetāṃ ‖*) (Tai. Brā. 1-1-9-1,2,3) **NOTE**.
 
 Aditi, desiring sons, cooked for the gods and the Sādhyas a oblation of the form of brahmaudana. They themselves ate that oblation and gave her the remainder. When she ate it, by its power two sons were born, Dhātā and Aryamā. When the same procedure was performed a second time, Mitra and Varuṇa were produced; the third time, Aṃśa and Bhaga; the fourth time, Indra and Vivasvat. The Taittirīya Brāhmaṇa describes these as the Ādityas.
 
@@ -7708,7 +7708,7 @@ For the sūktas to be recited in the unnīyamāna rite connected with this subje
 > च । यत्ते राजञ्कृतं हविरिति द्वृचाः समानी व आकूतिरित्येका : आ. गृ- ३-५-७ ।
 > इति ॥
 > हे राजन् सर्वेषां कर्मसाधनत्वेन स्वामिन् हे सोम ते त्वदर्थं
-> कृतं पक्वं यद्धविरस्ति ॥ शृतं पाके । पा. ६-१.२७ । इति निष्ठायां निसातित. ॥ तेन
+> कृतं पक्वं यद्धविरस्ति ॥ शृतं पाके । पा. सू. ६-१.२७ । इति निष्ठायां निसातित. ॥ तेन
 > हविषा नोऽस्मानभि रक्ष । अभिपालय तस्मात्त्वदभिरक्षितानस्मानरातीवारातिवाणि तु
 > र्नोऽस्मान्मा तारीत् । मा वधीत् । किं च नोस्माकं किं चन किंचदपि धनादिकं
 > शत्रुर्मो आनुमत् । मा हिंसीत् । यदेतदेत्यैः सूक्तैरुक्तं तद्यथास्माकं भवति
@@ -7717,7 +7717,7 @@ For the sūktas to be recited in the unnīyamāna rite connected with this subje
 
 ##### Gist of the bhāṣya
 
-The verse यत्ते राजन् (*yatte rājan*) is used in the concluding offering at the end of the maṇḍala, in the upākaraṇa and utsarjana rites. The sūtra says: यत्ते राजञ्कृतं हविरिति द्वृचाः समानी व आकूतिरित्येका (*yatte rājañkṛtaṃ haviriti dvṛcāḥ samānī va ākūtirityekā*) (Ā. Gṛ. 3-5-7). Sāyaṇa explains: O king, i.e. lord of all, since you are the means of all rites; O Soma, whatever oblation is cooked for you, with that oblation protect us, guard us on every side. Therefore, protected by you, let the enemy not harm us, let no enemy destroy us; and let no enemy injure anything of ours, any wealth or the like. Just as what has been said in these sūktas may come to pass for us, so, O Indu, flow for Indra. Thus, in the sūktas ending with this one, beginning with स्वादिष्टयेत्यादिभि (*svādiṣṭayetyādibhi*), the greatness of Soma has been declared in many ways. Hence it is implied that the Soma sacrifice should be performed for the accomplishment of fruits in this world and the next.
+The verse यत्ते राजन् (*yatte rājan*) is used in the concluding offering at the end of the maṇḍala, in the upākaraṇa and utsarjana rites. The sūtra says: यत्ते राजञ्कृतं हविरिति द्वृचाः समानी व आकूतिरित्येका (*yatte rājañkṛtaṃ haviriti dvṛcāḥ samānī va ākūtirityekā*) (Ā. Gṛ. Sū. 3-5-7). Sāyaṇa explains: O king, i.e. lord of all, since you are the means of all rites; O Soma, whatever oblation is cooked for you, with that oblation protect us, guard us on every side. Therefore, protected by you, let the enemy not harm us, let no enemy destroy us; and let no enemy injure anything of ours, any wealth or the like. Just as what has been said in these sūktas may come to pass for us, so, O Indu, flow for Indra. Thus, in the sūktas ending with this one, beginning with स्वादिष्टयेत्यादिभि (*svādiṣṭayetyādibhi*), the greatness of Soma has been declared in many ways. Hence it is implied that the Soma sacrifice should be performed for the accomplishment of fruits in this world and the next.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -8611,7 +8611,7 @@ Such an inquiry into Brahman, between the Hotṛ and the Brahman priest, is cust
 It was explained earlier that the word नाभि (*nābhi*) has different meanings: dwelling-place, a pervading connection, संनाहक (*saṃnāhaka*), that is, protector, binder, place of origin, and so on. If the sacrifice itself is said to be the navel in the present Ṛk, the use of this word can be shown in all these senses. This sentence stands as the answer to the question asked in the preceding Ṛk, पृच्छामि यत्र भुवनस्य नाभिः (*pṛcchāmi yatra bhuvanasya nābhiḥ*). The purport is that the sacrifice is the cause of the origin and the continuance of all the worlds and is the binding means that builds a mutual connection among all beings, gods, men and the rest; therefore it stands in the form of a navel.
 
 देवान् भावयतानेन ते देवा भावयंतु वः । परस्परं भावयंतः श्रेयः परमवाप्स्यथ ॥ (*devān bhāvayatānena te devā bhāvayaṃtu vaḥ | parasparaṃ bhāvayaṃtaḥ śreyaḥ paramavāpsyatha ‖*)
-(Bh. Gī. 3-11) **NOTE**
+(Bha. Gī. 3-11) **NOTE**
 
 देवान् इंद्रादीन् भावयत वर्धयत अनेन यज्ञेन । ते देवा भावयंतु वृष्ट्वा दिना आप्याययंतु वः युष्मान् । एवं परस्परं अनोन्यं भावयंतः श्रेयः परं ब्रह्मविज्ञानप्राप्तिं क्रमेण अनाप्स्यथ । स्वर्गं वा परं श्रेयः अनाप्स्यथ । (*devān iṃdrādīn bhāvayata vardhayata anena yajñena | te devā bhāvayaṃtu vṛṣṭvā dinā āpyāyayaṃtu vaḥ yuṣmān | evaṃ parasparaṃ anonyaṃ bhāvayaṃtaḥ śreyaḥ paraṃ brahmavijñānaprāptiṃ krameṇa anāpsyatha | svargaṃ vā paraṃ śreyaḥ anāpsyatha |*)
 (Śaṃ. Bhā.) **NOTE**
@@ -8645,12 +8645,12 @@ What is said in the Śatapatha, that whoever performs the sacrificial rite follo
 ### Printed p. 211
 
 इष्टान् भोगान् हि वो देवा दास्यंते यज्ञभाविताः । तैर्दत्तानप्रदायैभ्यो यो भुंक्ते स्तेन एव सः ॥ यज्ञशिष्टाशिनस्संतो मुच्यंते सर्वकिल्पिषैः । ते त्वघं भुंजते पापा ये पचंत्यात्मकारणात् ॥ (*iṣṭān bhogān hi vo devā dāsyaṃte yajñabhāvitāḥ | tairdattānapradāyaibhyo yo bhuṃkte stena eva saḥ ‖ yajñaśiṣṭāśinassaṃto mucyaṃte sarvakilpiṣaiḥ | te tvaghaṃ bhuṃjate pāpā ye pacaṃtyātmakāraṇāt ‖*)
-(Bh. Gī. 3-12-13)
+(Bha. Gī. 3-12-13)
 
 The gods, satisfied by the sacrifice, give men in return their desired ends. If, having received from the gods wealth such as food, one does not offer in return an oblation of sacrifice that satisfies the gods, he becomes a thief. The good men who perform the sacrificial rite are freed from sin (kilbiṣa); those who do not become sinners and experience the fruit of sin. For this sacrifice is the thread that shows one connection for the whole universe; this is also called the wheel of the universe. For example:
 
 अन्नाद्भवंति भूतानि पर्जन्यादन्न संभवः । यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥ कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवं । तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितं ॥ एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः । आघायुरिंदि.यारामो मोघं सार्थक स जीवति अघायुरिंद्रियारानो मोघं पार्थ स जीवति ॥ (*annādbhavaṃti bhūtāni parjanyādanna saṃbhavaḥ | yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ ‖ karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavaṃ | tasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitaṃ ‖ evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ | āghāyuriṃdi.yārāmo moghaṃ sārthaka sa jīvati aghāyuriṃdriyārāno moghaṃ pārtha sa jīvati ‖*)
-(Bh. Gī. 3-13 to 16) **NOTE**
+(Bha. Gī. 3-13 to 16) **NOTE**
 
 From the sacrifice, which is action, come Parjanya (rain); from Parjanya, food; from food, beings. This action in the form of sacrifice arose from Brahman. Therefore the Supreme Brahman, the root of the creation of the universe, of all kinds of dealings, and also of the universal wheel that recurs, is ever established in the sacrifice. The person who, not knowing this principle of the universe that is sacrifice, does not follow the course of this ordained wheel of the universe, and lives wilfully, is a sinner. Thus the principle of sacrifice, set forth by statements of śruti, is explained in the Gītā and elsewhere. This principle of sacrifice, described in the present Ṛk by "नाभ पृथिव्याः (*nābha pṛthivyāḥ*)", is praised in the same way in other parts of the Ṛk Saṃhitā also. For example:
 
@@ -8664,7 +8664,7 @@ The gods worshipped Prajāpati, whose form is sacrifice, with the sacrifice that
 These very dharmas of the sacrifice, established in the atmosphere, keep the gods who dwell in the heavenly world in their own places. Through the sacrifice itself, all the beings created by Prajāpati obtain food and strength, the cause of their continuance. Therefore, to show the necessity of the sacrifice, it is said in the Taittirīya Saṃhitā:
 
 प्रजापतिः प्रजा असृजत तास्सृष्टाः क्षुधं न्यायंत्स एतं नवरात्रमपश्यत्तमाहरत्तेनायजत ततो वै प्रजाभ्योकल्पत यर्हि प्रजाः क्षुधं निगच्छेयुस्तर्हि नवरात्रेण यजेतेमे हि वा एतासां लोका अक्षृप्ता ......॥ (*prajāpatiḥ prajā asṛjata tāssṛṣṭāḥ kṣudhaṃ nyāyaṃtsa etaṃ navarātramapaśyattamāharattenāyajata tato vai prajābhyokalpata yarhi prajāḥ kṣudhaṃ nigaccheyustarhi navarātreṇa yajeteme hi vā etāsāṃ lokā akṣṛptā ......‖*)
-(Kṛ. Saṃ. 7-2-4-1) **NOTE**
+(Tai. Saṃ. 7-2-4-1) **NOTE**
 
 After Prajāpati created the creatures, they were afflicted with hunger. To still their hunger he saw the sacrifice consisting of nine nights and performed the sacrifice with it. By that the hunger of those creatures was stilled. Therefore it is fixed that the sacrifice should be performed for the stilling of hunger. That sacrifice keeps the three worlds in one state and under regulation. How?
 
@@ -8832,12 +8832,12 @@ O Agni, the youngest, propitiate with oblations the gods who desire to hear prai
 > दैव्या देवेषु भवाः अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मित्र उपवक्ता । तै. आ.
 > ३-३ । इत्यत्रोक्ता य ऋत्विजः संति तेभिस्तैः सह देवान्यज । यद्वा । दैव्या
 > देवेषु भवा ऋत्विज आश्वलायनेनोकाश्चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य
-> उद्दातेति ! आ. गृ. १.१३. ८,९ । तैः सह यज ! यस्मात्त्वं होत्यणां मध्य आय.
+> उद्दातेति ! आ. गृ. सू. १.१३. ८,९ । तैः सह यज ! यस्मात्त्वं होत्यणां मध्य आय.
 > जिष्ठ अभिमुख्येन देवानां यष्टृतमोऽसि भवसि ॥
 
 ##### Gist of the bhāṣya
 
-Further, O Agni, the divine priests (दैव्या (*daivyā*)), those born among the gods, are those named in the passage अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मित्र उपवक्ता (*agnirhotāśvināvadhvaryū tvaṣṭāgnīnmitra upavaktā*) (Tai. Ā. 3-3); worship the gods together with them. Or else: the divine priests are those spoken of by Āśvalāyana: चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्दातेति (*caṃdramā brahmādityo 'dhvaryuḥ parjanya uddāteti*) (Ā. Gṛ. 1.13.8,9); worship together with them. For among the hotṛs you are the foremost, the best sacrificer to the gods. **NOTE**
+Further, O Agni, the divine priests (दैव्या (*daivyā*)), those born among the gods, are those named in the passage अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मित्र उपवक्ता (*agnirhotāśvināvadhvaryū tvaṣṭāgnīnmitra upavaktā*) (Tai. Ā. 3-3); worship the gods together with them. Or else: the divine priests are those spoken of by Āśvalāyana: चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्दातेति (*caṃdramā brahmādityo 'dhvaryuḥ parjanya uddāteti*) (Ā. Gṛ. Sū. 1.13.8,9); worship together with them. For among the hotṛs you are the foremost, the best sacrificer to the gods. **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -8885,7 +8885,7 @@ On this matter the commentator has cited the Śruti passage of the Taittirīya �
 अग्निर्होता । अश्विनाध्वयूर् । त्वष्टाग्नीत् । (*agnirhotā | aśvinādhvayūr | tvaṣṭāgnīt |*)
 (Tai. Ā. 3-3)
 
-Among the gods Agni is the priest called hotṛ, the Aśvins are the adhvaryus, Tvaṣṭṛ is the Āgnīdhra, and so on. Āśvalāyana too, in his Gṛhya Sūtra, explains: चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्गाता (*caṃdramā brahmādityo 'dhvaryuḥ parjanya udgātā*). Among the gods the moon is the priest called brahmā, the sun is the adhvaryu, and Parjanya is the priest called udgātṛ (Ā. Gṛ. 1-23-8, 9). **NOTE**
+Among the gods Agni is the priest called hotṛ, the Aśvins are the adhvaryus, Tvaṣṭṛ is the Āgnīdhra, and so on. Āśvalāyana too, in his Gṛhya Sūtra, explains: चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्गाता (*caṃdramā brahmādityo 'dhvaryuḥ parjanya udgātā*). Among the gods the moon is the priest called brahmā, the sun is the adhvaryu, and Parjanya is the priest called udgātṛ (Ā. Gṛ. Sū. 1-23-8, 9). **NOTE**
 
 #### Ṛk 2
 
@@ -9402,7 +9402,7 @@ Royal Agni, (you are) the lord (of all). He who is the conveyer of the oblation,
 ### Printed p. 236
 Since in the night there is darkness without sunlight, Agni's light is seen all the more. And Agni is the chief deity who receives oblations at night; to the sun the oblation is offered only by day. On this there is an account in the Taittirīya Brāhmaṇa of the Yajurveda:
 
-यदग्निहोत्रं । तस्मादग्निहोत्रमुच्यते । तद्दूयमानमादित्योऽब्रवीत् । मा हौषीः । उभयोर्वैनावेतदिति । सोऽग्निरब्रवीत् । कथं नौ होष्यंतीति । सायमेव तुभ्यं जुहवन् । प्रातर्मह्यमित्यब्रवीत् । तस्मादग्नये सायग्ं हूयते। सूर्याय प्रातः । अग्निया वै रात्रिः । ऐंद्रमहः। यदनुदिते सूर्ये प्रातर्जुहुयात् । उभयमेवाग्नेयग्गं स्यात् । उदिते सूर्ये प्रातर्जुहोति । तथाग्नये सायग्ं हूयते.... .... .... अग्निं नावादित्यस्सायं प्रविशति । तस्मादग्निर्दूरान्नक्तं ददृशे । उभे हि तेजसी संपद्येते । उद्यंतं नावादित्यमग्निरनु समारोहति । तस्माद्दूम एवाग्निर्दिवा ददृशे.... ........ .... अग्निर्ज्योतिर्ज्योतिस्सूर्यस्साहेत्येव सायग्ं होतव्यं । सोर्यो ज्योतिर्ज्योतिरग्निस्साहेति प्रातः । तथोभाभ्याग्ं सायग्ं हूयते । उभाभ्यां प्रातः । (*yadagnihotraṃ | tasmādagnihotramucyate | taddūyamānamādityo 'bravīt | mā hauṣīḥ | ubhayorvaināvetaditi | so 'gnirabravīt | kathaṃ nau hoṣyaṃtīti | sāyameva tubhyaṃ juhavan | prātarmahyamityabravīt | tasmādagnaye sāyagṃ hūyate| sūryāya prātaḥ | agniyā vai rātriḥ | aiṃdramahaḥ| yadanudite sūrye prātarjuhuyāt | ubhayamevāgneyaggaṃ syāt | udite sūrye prātarjuhoti | tathāgnaye sāyagṃ hūyate.... .... .... agniṃ nāvādityassāyaṃ praviśati | tasmādagnirdūrānnaktaṃ dadṛśe | ubhe hi tejasī saṃpadyete | udyaṃtaṃ nāvādityamagniranu samārohati | tasmāddūma evāgnirdivā dadṛśe.... ........ .... agnirjyotirjyotissūryassāhetyeva sāyagṃ hotavyaṃ | soryo jyotirjyotiragnissāheti prātaḥ | tathobhābhyāgṃ sāyagṃ hūyate | ubhābhyāṃ prātaḥ |*) (Śai. Brā. 2-1-2-9 to 13)
+यदग्निहोत्रं । तस्मादग्निहोत्रमुच्यते । तद्दूयमानमादित्योऽब्रवीत् । मा हौषीः । उभयोर्वैनावेतदिति । सोऽग्निरब्रवीत् । कथं नौ होष्यंतीति । सायमेव तुभ्यं जुहवन् । प्रातर्मह्यमित्यब्रवीत् । तस्मादग्नये सायग्ं हूयते। सूर्याय प्रातः । अग्निया वै रात्रिः । ऐंद्रमहः। यदनुदिते सूर्ये प्रातर्जुहुयात् । उभयमेवाग्नेयग्गं स्यात् । उदिते सूर्ये प्रातर्जुहोति । तथाग्नये सायग्ं हूयते.... .... .... अग्निं नावादित्यस्सायं प्रविशति । तस्मादग्निर्दूरान्नक्तं ददृशे । उभे हि तेजसी संपद्येते । उद्यंतं नावादित्यमग्निरनु समारोहति । तस्माद्दूम एवाग्निर्दिवा ददृशे.... ........ .... अग्निर्ज्योतिर्ज्योतिस्सूर्यस्साहेत्येव सायग्ं होतव्यं । सोर्यो ज्योतिर्ज्योतिरग्निस्साहेति प्रातः । तथोभाभ्याग्ं सायग्ं हूयते । उभाभ्यां प्रातः । (*yadagnihotraṃ | tasmādagnihotramucyate | taddūyamānamādityo 'bravīt | mā hauṣīḥ | ubhayorvaināvetaditi | so 'gnirabravīt | kathaṃ nau hoṣyaṃtīti | sāyameva tubhyaṃ juhavan | prātarmahyamityabravīt | tasmādagnaye sāyagṃ hūyate| sūryāya prātaḥ | agniyā vai rātriḥ | aiṃdramahaḥ| yadanudite sūrye prātarjuhuyāt | ubhayamevāgneyaggaṃ syāt | udite sūrye prātarjuhoti | tathāgnaye sāyagṃ hūyate.... .... .... agniṃ nāvādityassāyaṃ praviśati | tasmādagnirdūrānnaktaṃ dadṛśe | ubhe hi tejasī saṃpadyete | udyaṃtaṃ nāvādityamagniranu samārohati | tasmāddūma evāgnirdivā dadṛśe.... ........ .... agnirjyotirjyotissūryassāhetyeva sāyagṃ hotavyaṃ | soryo jyotirjyotiragnissāheti prātaḥ | tathobhābhyāgṃ sāyagṃ hūyate | ubhābhyāṃ prātaḥ |*) (Tai. Brā. 2-1-2-9 to 13)
 
 In former times in the rite called Agnihotra the sacrificer made the homa in Agni; because he made the homa in Agni the rite got the name Agnihotra. To the sacrificer thus offering into Agni with Agni as the object, the Sun said: "You are offering to Agni alone in Agni. The oblation you offer should reach both Agni and me, not Agni alone." Agni asked how it should reach both. The Sun replied: "The homa made in the evening should reach Agni (you); the homa made in the morning should reach me (the Sun)." Since Agnihotra is done in the evening and in the morning, the oblations must reach both Agni and Sun. Therefore at night they offer to Agni; to the Sun they offer in the morning. Thus Agni became the presiding deity of night; all homa made at night must go to Agni. The period between sunset and sunrise is night. Hence a homa made before sunrise (that time being counted as night) goes to Agni. In that case both evening and morning oblations would have gone to Agni.
 
@@ -10525,7 +10525,7 @@ The ancient celebrators of the rite desiring (boons) wait on (Agni) rightly born
 > ऊर्ध्वं हृतवान् । यज्ञे स्वतेजसा प्रादुर्भूत इत्यर्थः । किमर्थं कं सुखेन
 > वृशे सर्वर्षामेव पदार्थानां दर्शनार्थं ! किंच पुराजाः पुराजातः सोऽग्निर्दावापृथिव्योरंतर्मध्यॆऽंतरिक्षे स्थितस्ता जिह्वा येमे । नियमितवान् । सर्वत्र
 > तेजोयुक्तो वर्तत इत्यर्थः । अपि चेच्छन्यजमानान्कामयमानोऽग्निः पूषणस्य । पूषेति पृथिवीनाम । पार्थिवस्य लोकस्य वन्रिं रूपं पृश्निवर्णमविदत् ।
-> प्रायच्छत् । यद्वा मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ! ऋ. १-८-६ । इति मंत्रांतरे दर्शनादादित्यात्माग्निः स्तूयते । कामयमानः सूर्यात्माग्निः सप्तसंख्याकान् स्वस्व रश्मीन् मध्वः समुद्रोदकादुद्धृतवान् । प्राप्तः : अंतरिक्षे विद्युदात्मना स्थित्वा वृष्टिलक्षणं रूपं पृथिव्याः प्रयच्छति॥
+> प्रायच्छत् । यद्वा मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ! ऋ. सं. १-८-६ । इति मंत्रांतरे दर्शनादादित्यात्माग्निः स्तूयते । कामयमानः सूर्यात्माग्निः सप्तसंख्याकान् स्वस्व रश्मीन् मध्वः समुद्रोदकादुद्धृतवान् । प्राप्तः : अंतरिक्षे विद्युदात्मना स्थित्वा वृष्टिलक्षणं रूपं पृथिव्याः प्रयच्छति॥
 
 ##### Gist of the bhāṣya
 
@@ -10660,7 +10660,7 @@ They are called the seven limits. In explaining these numbers Sāyaṇa has also
 
 According to the Nirukta authors, these seven are called the limits. If a man commits only one of these sins, he is considered a great sinner.
 
-In the Chāndogya and other texts the grave sins are stated to be of five kinds. They are: स्तॆनो हिरण्यस्य सुरां पिबंश्च गुरोस्तल्पमावसन् ब्रह्महा (चैते पतंति चत्वारः) पंचमश्चाचरंस्तैः इति । (*stèno hiraṇyasya surāṃ pibaṃśca gurostalpamāvasan brahmahā (caite pataṃti catvāraḥ) paṃcamaścācaraṃstaiḥ iti |*) (Bhā. U. 5-10-9).**NOTE**
+In the Chāndogya and other texts the grave sins are stated to be of five kinds. They are: स्तॆनो हिरण्यस्य सुरां पिबंश्च गुरोस्तल्पमावसन् ब्रह्महा (चैते पतंति चत्वारः) पंचमश्चाचरंस्तैः इति । (*stèno hiraṇyasya surāṃ pibaṃśca gurostalpamāvasan brahmahā (caite pataṃti catvāraḥ) paṃcamaścācaraṃstaiḥ iti |*) (Chā. U. 5-10-9).**NOTE**
 1) stealing gold, 2) drinking surā, 3) trespassing on the bed of the teacher's wife, 4) brahmin-killing: those who do these four deeds are fallen. Fifth, 5) constantly keeping company with the fallen who do these four deeds. It is stated that these five are sinners.
 
 In general these five kinds are also the well-known ones in the Dharmaśāstras and the like. It cannot be improper in the present context to state the order of enumeration in the Dharmaśāstras and the like.
@@ -10727,15 +10727,15 @@ In the mantras mentioned above, many kinds of sin are described. No one should t
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> असदव्याकृतं सच्च व्याकृतं । असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् । छां. उ. ३-१९-१ इति श्रुतेः । सदसदात्मकं जगत्सर्वं परम उत्तमे
+> असदव्याकृतं सच्च व्याकृतं । असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् । छा. उ. ३-१९-१ इति श्रुतेः । सदसदात्मकं जगत्सर्वं परम उत्तमे
 > ज्ञानसहिते व्योमन्वोमनि कारणात्मनि जातमभूत्सदा । आदितेः पृथिव्या उपस्थ
 > उपस्थाने समापे दक्षस्य प्रजापतेः । यद्वा । दक्षस्य । स त्रेधात्मानं व्यभजतादित्यं
-> तृतीयं वायुं तृतीयमिति श्रुतेः । शत. १०-६-५-३ । तृतीयस्य द्युलोकस्याधिष्ठातृत्वादादित्यस्य : जन्मज्जन्यनि । तत एवं सति मनुष्यस्य सृष्टिक्रमात्तूर्वमग्निर्हाग्निर्वतस्य कर्मफलस्य भोक्तृणां नोऽस्माकं प्रथमजाः प्रथमजातः समुत्पन्नः । तेजो रसो निरवर्तताग्निः । शत. १०-६-५-२ । बृ. उ. १-१-२-२ । इति श्रवणात् । पश्चात्तप्प करणे ततो मनुष्या अजायंतेति प्रथमत एव मनुष्यसृष्टेरभिहितत्वात् अनंतरं पूर्वे । उत्तर सृष्टिमपेक्ष्य पूर्वत्वं । आयुनि कालेय.
+> तृतीयं वायुं तृतीयमिति श्रुतेः । श. ब्रा. १०-६-५-३ । तृतीयस्य द्युलोकस्याधिष्ठातृत्वादादित्यस्य : जन्मज्जन्यनि । तत एवं सति मनुष्यस्य सृष्टिक्रमात्तूर्वमग्निर्हाग्निर्वतस्य कर्मफलस्य भोक्तृणां नोऽस्माकं प्रथमजाः प्रथमजातः समुत्पन्नः । तेजो रसो निरवर्तताग्निः । श. ब्रा. १०-६-५-२ । बृ. उ. १-१-२-२ । इति श्रवणात् । पश्चात्तप्प करणे ततो मनुष्या अजायंतेति प्रथमत एव मनुष्यसृष्टेरभिहितत्वात् अनंतरं पूर्वे । उत्तर सृष्टिमपेक्ष्य पूर्वत्वं । आयुनि कालेय.
 > मुग्निरेव वृषभश्चासीत् । धेनुश्काभवत् । स्त्रीपुंसवत् स्त्रीपुंसात्मकोऽभवदित्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
-असत् (*asat*) is the unmanifest and सत् (*sat*) the manifest; he cites the śruti असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् (*asadevedamagra āsīt tatsadāsīt tatsamabhavat*) (Chā. U. 3-19-1). The whole world, made of sat and asat, was always born in the supreme (excellent), knowledge-endowed व्योमन् (*vyoman*), which is the causal self. It is born in the lap of Aditi, that is, the earth, near Dakṣa, that is, Prajāpati. Or else, in the जन्मन् (*janman*) of Dakṣa: he cites the śruti that Prajāpati divided himself threefold, the Āditya as one third and Vāyu as one third (Śata. 10-6-5-3) **NOTE**. Since Āditya presides over the third world, heaven, he is the जन्मन् (*janman*) (the birthplace). Therefore Agni, in the order of the creation of man, was the first-born, produced before us, the enjoyers of the fruit of the rite. He cites the śruti तेजो रसो निरवर्तताग्निः (*tejo raso niravartatāgniḥ*) (Śata. 10-6-5-2; Bṛ. U. 1-1-2-2). Then, since the creation of men is stated as having occurred first, … **NOTE** पूर्वे (*pūrve*) means "earlier" with reference to the later creation. आयुनि (*āyuni*) means in time. Agni himself was the bull and became the cow; that is, like a woman and a man, he was both female and male.
+असत् (*asat*) is the unmanifest and सत् (*sat*) the manifest; he cites the śruti असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् (*asadevedamagra āsīt tatsadāsīt tatsamabhavat*) (Chā. U. 3-19-1). The whole world, made of sat and asat, was always born in the supreme (excellent), knowledge-endowed व्योमन् (*vyoman*), which is the causal self. It is born in the lap of Aditi, that is, the earth, near Dakṣa, that is, Prajāpati. Or else, in the जन्मन् (*janman*) of Dakṣa: he cites the śruti that Prajāpati divided himself threefold, the Āditya as one third and Vāyu as one third (Śa. Brā. 10-6-5-3) **NOTE**. Since Āditya presides over the third world, heaven, he is the जन्मन् (*janman*) (the birthplace). Therefore Agni, in the order of the creation of man, was the first-born, produced before us, the enjoyers of the fruit of the rite. He cites the śruti तेजो रसो निरवर्तताग्निः (*tejo raso niravartatāgniḥ*) (Śa. Brā. 10-6-5-2; Bṛ. U. 1-1-2-2). Then, since the creation of men is stated as having occurred first, … **NOTE** पूर्वे (*pūrve*) means "earlier" with reference to the later creation. आयुनि (*āyuni*) means in time. Agni himself was the bull and became the cow; that is, like a woman and a man, he was both female and male.
 
 ### Printed p. 278
 
@@ -10769,7 +10769,7 @@ Non-existent, and existent (is Agni) in the supreme heaven, in the birth-place o
 
 In this Ṛk the seer, having declared the nature of Brahman as both sat and asat, describes the great nature of Agni in another manner.
 
-असत् च सत् च परमे व्योमन् (*asat ca sat ca parame vyoman*)—The words परमे व्योमन् (*parame vyoman*) are words that indicate the unmanifest nature of Brahman, devoid of name and form. This unmanifest nature of the Supreme Brahman is described by Upaniṣad sentences such as असद्वा इदमग्र आसीत् । ततो वै सदजायत ! (*asadvā idamagra āsīt | tato vai sadajāyata !*) (Tai. U. 1-8) **NOTE** and असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् (*asadevedamagra āsīt tatsadāsīt tatsamabhavat*) (Bhā. U. 3-19-1) **NOTE**. That is, before creation there was only Brahman without designation of name and form. It had neither shape nor form. It was purely of the nature of knowledge and infinite. This very nature is what the Upaniṣad sentence सत्यं ज्ञानमनंतं ब्रह्म (*satyaṃ jñānamanaṃtaṃ brahma*) (Tai. U. 2-1-1) declares. The unmanifest nature in this state is called असत् (*asat*) in Vedānta works and in the Upaniṣads. This word is a word indicating the negative sense of the word सत् (*sat*), which is formed from the root अस भुवि (*asa bhuvi*). सत् (*sat*) means that which is, that which is perceptible.
+असत् च सत् च परमे व्योमन् (*asat ca sat ca parame vyoman*)—The words परमे व्योमन् (*parame vyoman*) are words that indicate the unmanifest nature of Brahman, devoid of name and form. This unmanifest nature of the Supreme Brahman is described by Upaniṣad sentences such as असद्वा इदमग्र आसीत् । ततो वै सदजायत ! (*asadvā idamagra āsīt | tato vai sadajāyata !*) (Tai. U. 1-8) **NOTE** and असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् (*asadevedamagra āsīt tatsadāsīt tatsamabhavat*) (Chā. U. 3-19-1) **NOTE**. That is, before creation there was only Brahman without designation of name and form. It had neither shape nor form. It was purely of the nature of knowledge and infinite. This very nature is what the Upaniṣad sentence सत्यं ज्ञानमनंतं ब्रह्म (*satyaṃ jñānamanaṃtaṃ brahma*) (Tai. U. 2-1-1) declares. The unmanifest nature in this state is called असत् (*asat*) in Vedānta works and in the Upaniṣads. This word is a word indicating the negative sense of the word सत् (*sat*), which is formed from the root अस भुवि (*asa bhuvi*). सत् (*sat*) means that which is, that which is perceptible.
 
 ### Printed p. 279
 असत् (*asat*) means the state without name and form; its state cannot be seen, cannot be rightly known. Even so, in such a Supreme Brahman of attributeless nature there are the qualities of truth, knowledge and infinity; and from the manifestation of those qualities, that is, of the guṇas sattva, rajas and tamas, that principle at the time of creation took a manifest form and acquired the nature of being perceptible to all. This is what is called by the word सत् (*sat*). This state called सत् (*sat*) exists only during the times of creation, and at the time of dissolution, step by step, it becomes one with the Brahman-substance and remains in an unmanifest form as before creation. Since this subject belongs to the Vedānta inquiry taught in the Upaniṣads, it is not possible to explain it at length in the explanation of the present Ṛk. The main point is this: the seer has said that from the Supreme Brahman, devoid of qualities, infinite like space without name and form, this whole world made of sat and asat came into being. This matter will be explained at length elsewhere later.
@@ -12611,9 +12611,9 @@ the sentence सोऽपः प्राविशत्तं देवता�
 > हे आपो मम तन्ने शरीरार्थं वरूथं रोगनिवारकं भेषजमौषधं
 > पृणीत । पूरयत । किंच ज्योक् चिरं सूर्यं दृशे द्रष्टुं निरोगा वयं शक्कुवामेति शेषः ॥ पृणीत । प्प पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य
 > तस्थस्थ मिपामिति तादेशः । क्रादिभ्यः श्ना । प्वादीनां ह्रस्व इति ह्रस्वः । ईहल्यघोरितीत्वं । ऋवर्णाच्चेति - णत्वं । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेध्य इति तिजः
-> स्वरः शिष्यते । आप इत्यस्यामंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्वे पादादित्वान्निघाताभावः । वरूथं । वृञ् वरणे । ज्ञवृञ् भ्यामूथन् । उ. २-६ । नित्त्वादाद्युदात्तः । तन्ने । जाति ह्रस्वश्च । पा. १-४-६। इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः।
+> स्वरः शिष्यते । आप इत्यस्यामंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्वे पादादित्वान्निघाताभावः । वरूथं । वृञ् वरणे । ज्ञवृञ् भ्यामूथन् । उ. सू. २-६ । नित्त्वादाद्युदात्तः । तन्ने । जाति ह्रस्वश्च । पा. सू. १-४-६। इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः।
 > उदात्तयणो हल्कूर्वादिति विभक्तुदात्तत्वे प्राप्ते व्यत्ययेनोदात्तस्वरितयोरिति
-> स्वरितत्वं । दृशे । दृशे वृख्ये च । पा. ३-४-११ । इति तुमर्थे निपात्यते ॥
+> स्वरितत्वं । दृशे । दृशे वृख्ये च । पा. सू. ३-४-११ । इति तुमर्थे निपात्यते ॥
 
 ##### Gist of the bhāṣya
 
@@ -12636,9 +12636,9 @@ O waters, fill (पृणीत (*pṛṇīta*), make full) for my body (तन�
 ##### Grammar
 
 - पृणीत — प्प पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य तस्थस्थ मिपामिति तादेशः । क्रादिभ्यः श्ना । प्वादीनां ह्रस्व इति ह्रस्वः । ईहल्यघोरितीत्वं । ऋवर्णाच्चेति णत्वं । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेध्य इति तिजः स्वरः शिष्यते । आप इत्यस्यामंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्वे पादादित्वान्निघाताभावः ।
-- वरूथं — वृञ् वरणे । ज्ञवृञ् भ्यामूथन् । उ. २-६ । नित्त्वादाद्युदात्तः ।
-- तन्ने — जाति ह्रस्वश्च । पा. १-४-६ । इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः । उदात्तयणो हल्कूर्वादिति विभक्तुदात्तत्वे प्राप्ते व्यत्ययेनोदात्तस्वरितयोरिति स्वरितत्वं ।
-- दृशे — दृशे वृख्ये च । पा. ३-४-११ । इति तुमर्थे निपात्यते ।
+- वरूथं — वृञ् वरणे । ज्ञवृञ् भ्यामूथन् । उ. सू. २-६ । नित्त्वादाद्युदात्तः ।
+- तन्ने — जाति ह्रस्वश्च । पा. सू. १-४-६ । इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः । उदात्तयणो हल्कूर्वादिति विभक्तुदात्तत्वे प्राप्ते व्यत्ययेनोदात्तस्वरितयोरिति स्वरितत्वं ।
+- दृशे — दृशे वृख्ये च । पा. सू. ३-४-११ । इति तुमर्थे निपात्यते ।
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -12679,7 +12679,7 @@ Besides these, in the Yajurveda too there are many sentences conveying this sens
 > त्वमावेकवचन इति मादेशे कृतेऽतो गुण इति पररूपे च सति योऽचीति दकारस्य
 > यकारादेशः । एकादेशस्वरेण मकारात्परस्याकारस्योदात्तत्वं । दुद्रोह । द्रुह
 > जिघांसायां । णलि गुणे द्विर्वचनह्रस्वहलादिशेषाः । लितीति प्रत्ययात्पूर्वस्कोदात्तत्वं । यद्वृत्तयोगान्निघाताभावः । शेषे । शप आक्रोशे । लिटि व्यत्ययेन
-> तज् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्यॆ । पा. ६-४-१२० । इत्येत्वा
+> तज् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्यॆ । पा. सू. ६-४-१२० । इत्येत्वा
 > भ्यासलोपौ । प्रत्ययस्वरेणांतोदात्तत्वं । पूर्ववन्निघाताभावः ॥
 
 ##### Gist of the bhāṣya
@@ -12690,7 +12690,7 @@ Whatever sin (दुरितं (*duritaṃ*)) there is in me, the sacrificer, 
 
 - मयि — मपर्यंतस्य त्वमावेकवचन इति मादेशे कृतेऽतो गुण इति पररूपे च सति योऽचीति दकारस्य यकारादेशः । एकादेशस्वरेण मकारात्परस्याकारस्योदात्तत्वं ।
 - दुद्रोह — द्रुह जिघांसायां । णलि गुणे द्विर्वचनह्रस्वहलादिशेषाः । लितीति प्रत्ययात्पूर्वस्कोदात्तत्वं । यद्वृत्तयोगान्निघाताभावः ।
-- शेपे — शप आक्रोशे । लिटि व्यत्ययेन तज् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्यॆ । पा. ६-४-१२० । इत्येत्वाभ्यासलोपौ । प्रत्ययस्वरेणांतोदात्तत्वं । पूर्ववन्निघाताभावः ।
+- शेपे — शप आक्रोशे । लिटि व्यत्ययेन तज् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्यॆ । पा. सू. ६-४-१२० । इत्येत्वाभ्यासलोपौ । प्रत्ययस्वरेणांतोदात्तत्वं । पूर्ववन्निघाताभावः ।
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12745,10 +12745,10 @@ Abhidudroha: plotting evil in the mind is called droha. This is a mental sin.
 > अद्यास्मिन्निनेवभृथार्थमापोऽन्वचारिषं । जलान्यनुप्रविष्टोऽस्मि । प्रविश्य च
 > रसेन जलसारेण समगस्महि । संगताः स्मः । हे अग्ने पयस्वान् जले वर्तमानत्वेन
 > पयोयुकस्त्वमा गहि । अस्मिन्कर्मण्यागच्छ । तं मा तादृशं स्नातं मां वर्चसा
-> तेजसा सं सृज । संयोजय ॥ अपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । आचारिषं । चर गत्यर्थः । ! लुजि च्छेः सिच् । आर्धधातुकस्येड्वलादेः । पा. ७-२-३५ ।
-> इतीट्! नेटि। पा. ७-२-४। इति वृद्धि प्रतिषेधेप्राप्ते तदपवादतॆयातो लांतस्य; पा।
-> ७.२-२ । इत्युपधाया वृद्धिः । अगस्महि । समो गम्यच्छेत्यात्मनेपदं । पा. १-३-२९ ।
-> च्छेः सिच् । मंत्रे घसेत्यादिना ज्लेर्लुगभावश्चांदसः । एकाच उपदेशेऽनुदात्तादितीट् प्रतिषेधः । ना गमः । पा. १-२-१३ । इति सिचः कित्त्वादनुदात्तोपदेशेत्यादिदानुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्वेन जुत्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । अतो हेरिति लुग्न भवति । असिद्धवदत्राभादिति
+> तेजसा सं सृज । संयोजय ॥ अपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । आचारिषं । चर गत्यर्थः । ! लुजि च्छेः सिच् । आर्धधातुकस्येड्वलादेः । पा. सू. ७-२-३५ ।
+> इतीट्! नेटि। पा. सू. ७-२-४। इति वृद्धि प्रतिषेधेप्राप्ते तदपवादतॆयातो लांतस्य; पा।
+> ७.२-२ । इत्युपधाया वृद्धिः । अगस्महि । समो गम्यच्छेत्यात्मनेपदं । पा. सू. १-३-२९ ।
+> च्छेः सिच् । मंत्रे घसेत्यादिना ज्लेर्लुगभावश्चांदसः । एकाच उपदेशेऽनुदात्तादितीट् प्रतिषेधः । ना गमः । पा. सू. १-२-१३ । इति सिचः कित्त्वादनुदात्तोपदेशेत्यादिदानुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्वेन जुत्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । अतो हेरिति लुग्न भवति । असिद्धवदत्राभादिति
 > मलोपस्यासिद्धत्वात् ॥
 
 ##### Gist of the bhāṣya
@@ -13267,7 +13267,7 @@ Metre: Triṣṭubh.
 > मित्यर्थः । पुरु चिद्ब्रह्वपि विस्तीर्णं चार्णवं समुद्रैकदेशमनांतरद्वीपं जगन्वान्
 > गतवती यमी । चिदिति पूजार्थे । पूजितमिष्टं । श्रेष्ठमित्यर्थः । सखायं गर्भवासादारभ्य सखीभूतं यमं सख्या सख्याय स्त्रीपुरुषसंपर्कजनितमित्रत्वाय ओ
 > ववृत्यां । आवर्तयामि । अभिमुख्येन स्थित्वा लज्ञां परित्यज्य त्वत्संभोगं करोमात्यर्थः । धर्मस्य त्वरिता गतिरिति न्यायेन कामस्य त्वरितत्वात् । अपि च पितुरावयोर्भविष्यतः पुत्रस्य पितृभूतस्य तवार्थायाधि क्षम्यधि पृथिव्यां । पृथिवीस्थानीये
-> ममोदर इत्यर्थः । प्रतरं प्रकृष्टं । सर्वगुणोपेतमित्यर्थः । नपातं गर्भलक्षणमपत्यं वेधा विधाता प्रजापतिर्दिध्यान अवयोरनुरूपस्य पुत्रस्य जननार्थमावां ध्यायन्ना दधीत । प्रजापतिर्धाता गर्भं दधातु ते । ऋ. १०-१८४-१.
+> ममोदर इत्यर्थः । प्रतरं प्रकृष्टं । सर्वगुणोपेतमित्यर्थः । नपातं गर्भलक्षणमपत्यं वेधा विधाता प्रजापतिर्दिध्यान अवयोरनुरूपस्य पुत्रस्य जननार्थमावां ध्यायन्ना दधीत । प्रजापतिर्धाता गर्भं दधातु ते । ऋ. सं. १०-१८४-१.
 > इत्युक्तत्वात् ॥
 
 ##### Gist of the bhāṣya
@@ -13432,7 +13432,7 @@ Then the gods, seeing Rudra of fearsome form, entreated him: "O Rudra, Prajāpat
 
 Then Rudra fitted an arrow to his bow, drew the string to his ear, aimed at Prajāpati who was in the form of a deer, and shot. Pained by the arrow, Prajāpati leapt upward into the sky, still in the form of the deer. Seeing this, all people say that Prajāpati in the form of the deer shines in the sky as the constellation Mṛgaśīrṣā (stars in the Orion), between the stars Rohiṇī and Ārdrā. Rudra, who struck Prajāpati with the arrow, became famed by the name Mṛgavyādha. He became known as this very Mṛgavyādha (name of star), famed among the people, who is seen in the sky among the stars. The daughter of Prajāpati, who was in the form of the red doe, became the star Rohiṇī (constellation), shining in the sky with a red colour. The arrow that Rudra shot had three parts, shaft, steel and point (kāṇḍa, loha, tuḍi), and these three parts are still found together in the arrows that people use.
 
-तद्वा इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतो दुषदिति यदब्रुवन्मेदं प्रजापते रेतो दुषदिति तन्मादुषमभवत्तन्मादुषस्य मादुषत्वं माडुषं ह वै नामैतद्यन्मानुषं सन्मानुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः ॥ (*tadvā idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto duṣaditi yadabruvanmedaṃ prajāpate reto duṣaditi tanmāduṣamabhavattanmāduṣasya māduṣatvaṃ māḍuṣaṃ ha vai nāmaitadyanmānuṣaṃ sanmānuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ ‖*) (I. Bra. 13-23) **NOTE**
+तद्वा इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतो दुषदिति यदब्रुवन्मेदं प्रजापते रेतो दुषदिति तन्मादुषमभवत्तन्मादुषस्य मादुषत्वं माडुषं ह वै नामैतद्यन्मानुषं सन्मानुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः ॥ (*tadvā idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto duṣaditi yadabruvanmedaṃ prajāpate reto duṣaditi tanmāduṣamabhavattanmāduṣasya māduṣatvaṃ māḍuṣaṃ ha vai nāmaitadyanmānuṣaṃ sanmānuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ ‖*) (Ai. Brā. 13-23) **NOTE**
 
 The semen that Prajāpati, in the form of the deer, had discharged into his daughter in the form of the doe was so abundant that it fell on the earth, flowed as a stream and stood in a low-lying place. It became a great lake. The gods saw this and praised it, saying, "This semen of Prajāpati is not to be despised (dūṣya), nor is it untouchable." Because of this the semen became famed by the name Māduṣam ("not to be despised"). In truth, since this semen is free of fault, it is right to call it Māduṣa. When people speak, they change the letter du in the word Māduṣa into nu by transposition and say Mānuṣa. Therefore the bodies of Brāhmaṇas, Kṣatriyas and the rest, produced from the semen of Prajāpati, are called mānuṣa. This is the reason why human beings have the name Mānuṣa. But it is not so with the gods. They do not change the letters of the word Māduṣa and use it as Māduṣa. This word Māduṣa is not in common use. For the gods are fond of the indirect (parokṣa), and so they like to use words with a hidden meaning, not saying what is as it is, that is, not in such a way as to be clearly understood.
 
@@ -13457,16 +13457,16 @@ the Lord himself has said. That is: "I myself (the Lord), in the form of the Vai
 
 > हे अश्विनाश्विन् ता तौ युवां जयुषा जयशीलेन रथेन पर्वतमुद्रिं प्रति
 > वर्तिर्मार्गं वि यातं । विविधं गच्छथः । तथा च निगमांतरं । वि जयुषा रथ्या
-> यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । ऋ. ६ ६२.७ । इति । किंच युवां
+> यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । ऋ. सं. ६ ६२.७ । इति । किंच युवां
 > शयवे शयोरर्थाय धेनुमपिन्वतं । निवृत्तप्रसवां वृद्धां गां प्रभूतस्य
 > पयसो दोग्धीं कृतवंतौ स्थ इत्यर्थः । तथा च निगमांतरं । युवं धेनुं
-> शयवे नाधितायापिन्वतमश्विना पूर्वाय । ऋ. १-११८-८ । इति । किंच युवं
+> शयवे नाधितायापिन्वतमश्विना पूर्वाय । ऋ. सं. १-११८-८ । इति । किंच युवं
 > युवां वृकस्यांतरनुप्रविष्टां ग्रसितां वृकेण ग्रस्तां वर्तिकां । वर्तिका नाम
-> चटका । तामास्याद्वृकस्य मुखाच्छचीभिः प्रज्ञाभिः कर्मभिर्वामुंचतं । अमोचयतं । तथा च निगमांतरं । अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुंचतं वृकस्य । ऋ. १.११३-१६! इति ॥
+> चटका । तामास्याद्वृकस्य मुखाच्छचीभिः प्रज्ञाभिः कर्मभिर्वामुंचतं । अमोचयतं । तथा च निगमांतरं । अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुंचतं वृकस्य । ऋ. सं. १.११३-१६! इति ॥
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa addresses the two Aśvins: with your victorious chariot (जयुषा (*jayuṣā*), "of conquering habit") you go variously along the path (वर्तिः (*vartiḥ*)) towards the mountain (पर्वतं (*parvataṃ*), the rock). He cites another Ṛk for this: वि जयुषा रथ्या यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । (*vi jayuṣā rathyā yātamadriṃ śrutaṃ havaṃ vṛṣaṇā vadhrimatyāḥ |*) (Ṛ. 6 62.7). Further, you made the cow (धेनुं (*dhenuṃ*)) swell with milk for Śayu: you made a cow that was old and had ceased to bear a yielder of abundant milk. He cites: युवं धेनुं शयवे नाधितायापिन्वतमश्विना पूर्वाय (*yuvaṃ dhenuṃ śayave nādhitāyāpinvatamaśvinā pūrvāya*) (Ṛ. 1-118-8). Further, you released the quail (वर्तिकां (*vartikāṃ*); vartikā is the name of the caṭakā), that had been swallowed by the wolf and had gone into it, from the mouth of the wolf, by your wisdoms or by your deeds (शचीभिः (*śacībhiḥ*)). He cites: अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुंचतं वृकस्य (*ajohavīdaśvinā vartikā vāmāsno yatsīmamuṃcataṃ vṛkasya*) (Ṛ. 1.113-16).
+Sāyaṇa addresses the two Aśvins: with your victorious chariot (जयुषा (*jayuṣā*), "of conquering habit") you go variously along the path (वर्तिः (*vartiḥ*)) towards the mountain (पर्वतं (*parvataṃ*), the rock). He cites another Ṛk for this: वि जयुषा रथ्या यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । (*vi jayuṣā rathyā yātamadriṃ śrutaṃ havaṃ vṛṣaṇā vadhrimatyāḥ |*) (Ṛ. Saṃ. 6 62.7). Further, you made the cow (धेनुं (*dhenuṃ*)) swell with milk for Śayu: you made a cow that was old and had ceased to bear a yielder of abundant milk. He cites: युवं धेनुं शयवे नाधितायापिन्वतमश्विना पूर्वाय (*yuvaṃ dhenuṃ śayave nādhitāyāpinvatamaśvinā pūrvāya*) (Ṛ. Saṃ. 1-118-8). Further, you released the quail (वर्तिकां (*vartikāṃ*); vartikā is the name of the caṭakā), that had been swallowed by the wolf and had gone into it, from the mouth of the wolf, by your wisdoms or by your deeds (शचीभिः (*śacībhiḥ*)). He cites: अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुंचतं वृकस्य (*ajohavīdaśvinā vartikā vāmāsno yatsīmamuṃcataṃ vṛkasya*) (Ṛ. Saṃ. 1.113-16).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -15849,7 +15849,7 @@ The word जीव (*jīva*) is used in the same way. This word is used in many 
 
 जीवो मृतस्य चरति स्वधाभिरमर्त्यो मर्त्येना सयोनिः ॥ (*jīvo mṛtasya carati svadhābhiramartyo martyenā sayoniḥ ‖*) (Ṛ. Saṃ. 1-164-30)
 
-Only in these two passages has Sāyaṇa given the word जीव (*jīva*) the meaning "the individual self (jīvātman)". He states its nature as connected with the body that dies, and as having the same abode as the living being that is liable to death. Quoting the Upaniṣad sentence जीवापेतं वाव किलेदं म्रियते, न जीवो म्रियते (*jīvāpetaṃ vāva kiledaṃ mriyate, na jīvo mriyate*) (Bhā. U. 6-11-3) **NOTE**, he explains the difference between the self and the body. In the same way the words प्राण (*prāṇa*) and मनस् (*manas*) are also used in the sense of consciousness. Moreover,
+Only in these two passages has Sāyaṇa given the word जीव (*jīva*) the meaning "the individual self (jīvātman)". He states its nature as connected with the body that dies, and as having the same abode as the living being that is liable to death. Quoting the Upaniṣad sentence जीवापेतं वाव किलेदं म्रियते, न जीवो म्रियते (*jīvāpetaṃ vāva kiledaṃ mriyate, na jīvo mriyate*) (Chā. U. 6-11-3) **NOTE**, he explains the difference between the self and the body. In the same way the words प्राण (*prāṇa*) and मनस् (*manas*) are also used in the sense of consciousness. Moreover,
 
 द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परि षष्वजाते । (*dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pari ṣaṣvajāte |*) (1-164-20)
 
@@ -16131,7 +16131,7 @@ In Ṛks such as this, Devayāna is said to be a path free from death. It is wel
 
 In Ṛks such as these, since Savitṛ is the god who leads the doers of good along the good path, he is prayed to lead the sacrificers, the doers of good, along that same path, which is pure, free from dust and free from death. In the Upaniṣads this path is called the path beginning with the flame (arcirādi). This path is described as one on which the doers of good who have reached Brahmaloka after death do not return:
 
-तत्पुरुषोऽमानवः स एवान्यह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तंते नावर्तंते । (*tatpuruṣo 'mānavaḥ sa evānyahma gamayatyeṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavamāvartaṃ nāvartaṃte nāvartaṃte |*) (Bhā. U. 4-15-5) **NOTE**
+तत्पुरुषोऽमानवः स एवान्यह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तंते नावर्तंते । (*tatpuruṣo 'mānavaḥ sa evānyahma gamayatyeṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavamāvartaṃ nāvartaṃte nāvartaṃte |*) (Chā. U. 4-15-5) **NOTE**
 
 The person of lightning (the non-human one) leads this doer of good to Brahmaloka. This is the way to Brahmaloka. Those who have reached Brahmaloka by this path do not return. This is certain — thus it says.
 
@@ -16219,12 +16219,12 @@ O Pitṛs, sit on the right side, bending your left knees down. Partake of this 
 
 Among the dead, the meritorious dwell in the third heaven; these are called Pitṛs. They are the original ancestors who followed the ancient paths (10-15-8, 10). The dead follow the very path laid down by these seers and go to them (10-14-2, 7, 15). They are connected with the third step of Viṣṇu (10-15-3; compare 1-154-5). Two sūktas have the Pitṛs as deity (10-15; 10-16).
 
-Among the Pitṛs there are the groups Navagvas, Virūpas, Aṅgirases, Atharvans, Bhṛgus and Vasiṣṭhas (10-14-4 to 6; 10-15-8). Of these the last four names are also the names of the seers of the Atharvaveda and of the second and seventh maṇḍalas of the Ṛgveda. Among them the Aṅgirases and Yama have a special connection (10-14-3, 5). Among the Pitṛs there is also a division into avarāḥ (lower rank), parāḥ (higher rank) and madhyamāḥ (middle rank). Even though they are not all known to their descendants, Agni knows all of them (10-15-1, 2, 13). Together with the Uṣases, rivers, mountains, heaven and earth, Pūṣan and the Ṛbhus, the favour of the Pitṛs is also prayed for (6-52-4; 6-75-10; 7-35-12; 1-106-3). Those who seek their regard (10-14-6) pray that wealth, offspring and long life be given to their descendants (10-15-7, 11; Ā. Ve. 18-3-14; 18-4-62). **NOTE** The Vasiṣṭhas are prayed to help their descendants (7-33-1; compare 10-15-8);
+Among the Pitṛs there are the groups Navagvas, Virūpas, Aṅgirases, Atharvans, Bhṛgus and Vasiṣṭhas (10-14-4 to 6; 10-15-8). Of these the last four names are also the names of the seers of the Atharvaveda and of the second and seventh maṇḍalas of the Ṛgveda. Among them the Aṅgirases and Yama have a special connection (10-14-3, 5). Among the Pitṛs there is also a division into avarāḥ (lower rank), parāḥ (higher rank) and madhyamāḥ (middle rank). Even though they are not all known to their descendants, Agni knows all of them (10-15-1, 2, 13). Together with the Uṣases, rivers, mountains, heaven and earth, Pūṣan and the Ṛbhus, the favour of the Pitṛs is also prayed for (6-52-4; 6-75-10; 7-35-12; 1-106-3). Those who seek their regard (10-14-6) pray that wealth, offspring and long life be given to their descendants (10-15-7, 11; Ath. Saṃ. 18-3-14; 18-4-62). **NOTE** The Vasiṣṭhas are prayed to help their descendants (7-33-1; compare 10-15-8);
 
 ### Printed p. 452
 Śuryaśa (?), Yadu and Ugradeva are praised even individually (1-36-18). **NOTE**
 
-The Pitṛs are also immortal (Ath. Saṃ. 6-41-3); they are even called gods (10-56-4). **NOTE** Among the Aṅgirases and some groups, the status of priest (ṛtvij) is joined to divinity. Acts of creation are also ascribed to some of the Pitṛs: it was they who adorned the sky with stars; day-light and night-darkness came from them (10-68-11); they discovered the hidden light and brought about the dawn (7-26-4; compare 10-107-1); and, joined with Soma, they extended heaven and earth (8-48-13). Just as there is a difference between the Agni that carries the offering to the gods (havyavāha) and the Agni that consumes corpses (kravyāda) (10-16-9), there is also a difference between the path of the gods and the path of the Pitṛs (compare 10-2-7; 10-18-1; 10-88-15). Likewise a distinction between the world of heaven and the world of the Pitṛs is stated; the door of the world of the gods is said to lie in the north-east (Śa. Brā. 6. 6-2-9), and the door of the world of the Pitṛs in the south-east (Śa. Brā. 13. 8. 1-5). The Pitṛs and human beings are of different classes, and their creation is separate (Tai. Brā. 2. 3-8-2). The Pitṛs dwell on earth, in the atmosphere and in heaven (Ath. Saṃ. 18-2. 49; compare Ṛ. Ve. 10-152). **NOTE**
+The Pitṛs are also immortal (Ath. Saṃ. 6-41-3); they are even called gods (10-56-4). **NOTE** Among the Aṅgirases and some groups, the status of priest (ṛtvij) is joined to divinity. Acts of creation are also ascribed to some of the Pitṛs: it was they who adorned the sky with stars; day-light and night-darkness came from them (10-68-11); they discovered the hidden light and brought about the dawn (7-26-4; compare 10-107-1); and, joined with Soma, they extended heaven and earth (8-48-13). Just as there is a difference between the Agni that carries the offering to the gods (havyavāha) and the Agni that consumes corpses (kravyāda) (10-16-9), there is also a difference between the path of the gods and the path of the Pitṛs (compare 10-2-7; 10-18-1; 10-88-15). Likewise a distinction between the world of heaven and the world of the Pitṛs is stated; the door of the world of the gods is said to lie in the north-east (Śa. Brā. 6. 6-2-9), and the door of the world of the Pitṛs in the south-east (Śa. Brā. 13. 8. 1-5). The Pitṛs and human beings are of different classes, and their creation is separate (Tai. Brā. 2. 3-8-2). The Pitṛs dwell on earth, in the atmosphere and in heaven (Ath. Saṃ. 18-2. 49; compare Ṛ. Saṃ. 10-152). **NOTE**
 
 The ancient Pitṛs themselves once offered the Soma oblation (10-15-8). They pass their time happily with Yama (10-14-1; compare 10-135-1 and Ath. Saṃ. 18-4-10) and dine with the gods (7-76-4). Living as equals of the gods, they sometimes receive worship fit for the gods. They too come in the chariot of Indra and the gods (10-15-10). They too have a longing for the Soma juice (10-15-5, 6); seated on the sacred grass facing south, they drink the pressed drink (10-15-5, 6). They are eager to drink the Soma juice prepared for them; they are invited to come with Yama, his father Vivasvat and Agni, and with them to accept what has been offered (10-15-8 to 11; 10-14-4, 5). They come in thousands and sit in order on the sacred grass (10-15-10, 11). When the Pitṛs come to the sacrificial hall, certain piśācas also, in the guise of their friends, mingle with them (Ath. Saṃ. 18-2-28).
 
@@ -16807,14 +16807,14 @@ O Pitṛ, after you have gone to the world of the Pitṛs (this may be called he
 
 > पैतृमेधिके कर्मणि स्मशानायतनं प्रोक्षत्यपेत वीतेति । सूत्रितं च ।
 > गर्तोदकेन शमीशाखया त्रिः प्रसव्यमायतनं परिव्रजन् प्रोक्षत्यपेत वीत वि च
-> सर्पतातः । आ. गृ. ४-२-१८ । इति ॥
+> सर्पतातः । आ. गृ. सू. ४-२-१८ । इति ॥
 > शृशाने पूर्वं स्थिता हे पिशाचादयः अतोऽस्मादृतयजमानदहनस्थानादपेत i अपगच्छत । वीत । विशेषेण गच्छत । वि सर्पत च । इदं स्थानं परित्यज्य
 > नानाभावेन दूरतरं देशं गच्छतेत्यर्थः । पितरोऽस्मै मृतयजमानस्यार्थायैतं लोकमिदं दहनस्थानमक्रन् । यमस्याज्ञयान्नकुर्वन् । यमोऽप्यहोभिर्दिवसैरद्भिरभ्युक्षणोदकैरक्तुभी रात्रिभिर्व्यक्तं संगतं । शुद्धिनिमित्तैः कालोदकादिभिः शोधितमित्यर्थः । अवसानं दहनस्थानमस्मै मृतयजमानस्यार्थाय ददाति ।
 > दत्तवान् ॥
 
 ##### Gist of the bhāṣya
 
-In the funeral rite (Paitṛmedhika) he sprinkles the cremation ground with the verse अपेत वीत (*apeta vīta*). This is enjoined in the sūtra: going round the site three times counter-clockwise (prasavya) with a branch of the śamī and water from the pit, he sprinkles, saying *apeta vīta vi ca sarpatātaḥ* (Ā. Gṛ. 4-2-18). Piśācas and others who stood earlier in the cremation ground: depart from this place where the dead sacrificer is to be burnt; go away in particular; leave this place and disperse in various ways to a farther region. The Pitṛs have made this place, the cremation ground, for the sake of the dead sacrificer, by Yama's command. Yama too has given the cremation ground to the dead sacrificer, joined with days, with waters of sprinkling and with nights, that is, purified by purifying agents such as time and water.
+In the funeral rite (Paitṛmedhika) he sprinkles the cremation ground with the verse अपेत वीत (*apeta vīta*). This is enjoined in the sūtra: going round the site three times counter-clockwise (prasavya) with a branch of the śamī and water from the pit, he sprinkles, saying *apeta vīta vi ca sarpatātaḥ* (Ā. Gṛ. Sū. 4-2-18). Piśācas and others who stood earlier in the cremation ground: depart from this place where the dead sacrificer is to be burnt; go away in particular; leave this place and disperse in various ways to a farther region. The Pitṛs have made this place, the cremation ground, for the sake of the dead sacrificer, by Yama's command. Yama too has given the cremation ground to the dead sacrificer, joined with days, with waters of sprinkling and with nights, that is, purified by purifying agents such as time and water.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16844,7 +16844,7 @@ Depart from hence, begone, go far off, (evil spirits); the Pitris have assigned 
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the Pitṛ-rites, that is, the funeral rites, the verse अपेत वीत (*apeta vīta*) is to be recited and the appointed spot in the cremation ground sprinkled with water, as explained by the sūtra of the Āśvalāyana Gṛhya-sūtra गर्तोदकेन शमीशाखया त्रिःप्रसव्यमायतनं परिव्रजन् प्रोक्षत्यपेत वीत वि च सर्पतातः (*gartodakena śamīśākhayā triḥprasavyamāyatanaṃ parivrajan prokṣatyapeta vīta vi ca sarpatātaḥ*) (Ā. Gṛ. 4-2-10).
+In the Pitṛ-rites, that is, the funeral rites, the verse अपेत वीत (*apeta vīta*) is to be recited and the appointed spot in the cremation ground sprinkled with water, as explained by the sūtra of the Āśvalāyana Gṛhya-sūtra गर्तोदकेन शमीशाखया त्रिःप्रसव्यमायतनं परिव्रजन् प्रोक्षत्यपेत वीत वि च सर्पतातः (*gartodakena śamīśākhayā triḥprasavyamāyatanaṃ parivrajan prokṣatyapeta vīta vi ca sarpatātaḥ*) (Ā. Gṛ. Sū. 4-2-10).
 
 ### Printed p. 473
 
@@ -16867,11 +16867,11 @@ In this Ṛk the seer says that the piśācas and others who may be at the place
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> अनुस्तरण्या वृक्कौ पार्श्वयोराम्रफलाकृती । तावुद्धृत्य प्रेतस्य हस्तयोर्निदधात्यति द्रव सारमेयाविति द्वाभ्यां । सूत्रितं च । वृक्कावुद्धृत्य पाण्योरादध्यादति द्रव सारमेयौ श्वानौ । आ. गृ. ४-३-२० । इति ॥
+> अनुस्तरण्या वृक्कौ पार्श्वयोराम्रफलाकृती । तावुद्धृत्य प्रेतस्य हस्तयोर्निदधात्यति द्रव सारमेयाविति द्वाभ्यां । सूत्रितं च । वृक्कावुद्धृत्य पाण्योरादध्यादति द्रव सारमेयौ श्वानौ । आ. गृ. सू. ४-३-२० । इति ॥
 
 ##### Gist of the bhāṣya
 
-In the funeral rite, the two lumps (वृक्कौ (*vṛkkau*)) in the shape of mango fruits, taken from the *anustaraṇi* (cow) at the sides, are placed in the hands of the dead man with the two verses अति द्रव सारमेयौ (*ati drava sārameyau*). It is laid down in the sūtra: वृक्कावुद्धृत्य पाण्योरादध्यादति द्रव सारमेयौ श्वानौ (*vṛkkāvuddhṛtya pāṇyorādadhyādati drava sārameyau śvānau*) (Ā. Gṛ. 4-3-20).
+In the funeral rite, the two lumps (वृक्कौ (*vṛkkau*)) in the shape of mango fruits, taken from the *anustaraṇi* (cow) at the sides, are placed in the hands of the dead man with the two verses अति द्रव सारमेयौ (*ati drava sārameyau*). It is laid down in the sūtra: वृक्कावुद्धृत्य पाण्योरादध्यादति द्रव सारमेयौ श्वानौ (*vṛkkāvuddhṛtya pāṇyorādadhyādati drava sārameyau śvānau*) (Ā. Gṛ. Sū. 4-3-20).
 
 ### Printed p. 474
 
@@ -16911,7 +16911,7 @@ Pass by a secure path beyond the two spotted four-eyed dogs, the progeny of Sara
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the funeral rite, two flour lumps the size of a mango fruit are placed in the hands of the corpse and the two Ṛks beginning अतिद्रव सारमेयौ (*atidrava sārameyau*) are to be recited, as explained by the sūtra of the Āśvalāyana Gṛhya-sūtra अति द्रव सारमेयौ श्वानौ (*ati drava sārameyau śvānau*) (Ā. Gṛ. 4-3-20).
+In the funeral rite, two flour lumps the size of a mango fruit are placed in the hands of the corpse and the two Ṛks beginning अतिद्रव सारमेयौ (*atidrava sārameyau*) are to be recited, as explained by the sūtra of the Āśvalāyana Gṛhya-sūtra अति द्रव सारमेयौ श्वानौ (*ati drava sārameyau śvānau*) (Ā. Gṛ. Sū. 4-3-20).
 
 In this Ṛk and the next, the two dogs called Sārameyas, the pups of the divine bitch Saramā, are mentioned. How Saramā, the divine bitch, being with Indra, greatly helped the gods in searching for the cows carried off by the Paṇis
 
@@ -17288,23 +17288,23 @@ The Ṛks in उदीरतां (*udīratāṃ*) (sūkta 15) and मैनम
 
 The meaning is "eater of flesh". Does Agni eat flesh? Since the dead body is burnt in the fire, the fire consumes it. Therefore in Ṛks such as मैनमग्ने (*mainamagne*) (Ṛ. Saṃ. 10-16-1), शृतं यदा (*śṛtaṃ yadā*) (10-16-2), क्रव्यादमग्नि (*kravyādamagni*) (10-16-9), यो अग्निः क्रव्यवाहनः (*yo agniḥ kravyavāhanaḥ*) (10-16-11) and the like, Agni is praised with the epithet Kravyāda.
 
-Funeral rites: In the Vedas, passages concerning death are few. Where they occur, rarely, it is only to pray that death befall enemies and that long life be one's own. Only at the time of the corpse-rites does the thought of the other world arise. Both burning and burying of corpses were in practice. In 10-16 the rite of cremation is stated, and in another (10-18-10 to 13) burial. A house of earth is also mentioned in one place (7-89-1). Both kinds of fathers are found: those burnt by fire and those not burnt (10-15-14, Atha. Ve. 18-2-34). Cremation is the right way for the dead to go to the upper world. In the books describing the rites, it is laid down that only the ashes and bones of the cremated, infants and ascetics are to be buried (compare Ā. Gṛ. Sū. 4-1).
+Funeral rites: In the Vedas, passages concerning death are few. Where they occur, rarely, it is only to pray that death befall enemies and that long life be one's own. Only at the time of the corpse-rites does the thought of the other world arise. Both burning and burying of corpses were in practice. In 10-16 the rite of cremation is stated, and in another (10-18-10 to 13) burial. A house of earth is also mentioned in one place (7-89-1). Both kinds of fathers are found: those burnt by fire and those not burnt (10-15-14, Ath. Saṃ. 18-2-34). Cremation is the right way for the dead to go to the upper world. In the books describing the rites, it is laid down that only the ashes and bones of the cremated, infants and ascetics are to be buried (compare Ā. Gṛ. Sū. 4-1).
 
-The history of life in the other world is connected with the funeral rite itself. Agni takes the dead body to the other world, to the neighbourhood of the fathers and gods (10-16-1 to 4; 10-17-3). He places the mortal in the highest immortality (1-31-7). Men go, through Agni, the bird of the world of the gods, to the highest place of Sūra to which the ancient seers, born in the beginning, have gone, to the highest heaven, or to the world of the good (Vā. Saṃ. 18-51, 52). The Gārhapatya fire carries the dead to the world of the good (Atha. Ve. 1-120-1). Agni first burns the body of the dead and afterwards places him in the world of the living (Atha. Ve. 18-3-71). The fire that burns corpses (Kravyāda) is different from the fire that carries the oblation to the gods (10-16-9). There is a prayer to Agni to burn the goat, which is his portion, and to protect the body (10-16-4). During the rite the corpse is laid on the skin of a black goat, and an animal or a goat is offered in the sacrifice. In the rite prayer is made to Agni and Soma to heal any wounds that may have been inflicted on the body by a bird, animal, ant or snake (10-16-6).
+The history of life in the other world is connected with the funeral rite itself. Agni takes the dead body to the other world, to the neighbourhood of the fathers and gods (10-16-1 to 4; 10-17-3). He places the mortal in the highest immortality (1-31-7). Men go, through Agni, the bird of the world of the gods, to the highest place of Sūra to which the ancient seers, born in the beginning, have gone, to the highest heaven, or to the world of the good (Vā. Saṃ. 18-51, 52). The Gārhapatya fire carries the dead to the world of the good (Ath. Saṃ. 1-120-1). Agni first burns the body of the dead and afterwards places him in the world of the living (Ath. Saṃ. 18-3-71). The fire that burns corpses (Kravyāda) is different from the fire that carries the oblation to the gods (10-16-9). There is a prayer to Agni to burn the goat, which is his portion, and to protect the body (10-16-4). During the rite the corpse is laid on the skin of a black goat, and an animal or a goat is offered in the sacrifice. In the rite prayer is made to Agni and Soma to heal any wounds that may have been inflicted on the body by a bird, animal, ant or snake (10-16-6).
 
 It is believed that the dead soul goes to heaven with the smoke (Ā. Gṛ. Sū. 4.4-7). It is a very long way; there Pūṣan is the guardian and Savitṛ shows the way
 
 ### Printed p. 486
 
-(10-17-4). The offered goat goes ahead to the fathers and announces the arrival of the dead soul; going so, it must pass the black darkness on the way and then reach the third storey of heaven, the abode of the fathers (Atha. Ve. 9-5-1, 3; compare 8-1-8). For use in the other-world life, ornaments and clothes are provided for the dead person; this custom is still in practice (18-4-31). There are traces here and there that his wife and weapons were also burnt with the corpse (10-18-8, 9). A bundle of firewood was tied to the corpse; its purpose was that the departed spirit of the dead should not know the way to come back (compare Atha. Ve. 5-19-12; Ṛ. Ve. 10-18-2 and 19-97-16).
+(10-17-4). The offered goat goes ahead to the fathers and announces the arrival of the dead soul; going so, it must pass the black darkness on the way and then reach the third storey of heaven, the abode of the fathers (Ath. Saṃ. 9-5-1, 3; compare 8-1-8). For use in the other-world life, ornaments and clothes are provided for the dead person; this custom is still in practice (18-4-31). There are traces here and there that his wife and weapons were also burnt with the corpse (10-18-8, 9). A bundle of firewood was tied to the corpse; its purpose was that the departed spirit of the dead should not know the way to come back (compare Ath. Saṃ. 5-19-12; Ṛ. Saṃ. 10-18-2 and 19-97-16).
 
-The soul: Fire or the grave destroys only the body; they cannot destroy the personality of the dead. The belief is that even in a state of unconsciousness the life can be separated from the body, and that life exists even after the body is destroyed. The whole of sūkta 10-58 calls back to return the life of one lying as if dead. In the Ṛgveda there seems to be no basis for belief in the soul's obtaining another body; but in the Brāhmaṇa it is said that one who has not performed the sacrifice in the prescribed manner, having died, is born again and becomes subject to death (Śa. Bā. 10-4-3-10). Prāṇa, ātman, asu (bodily force, 1-113-16; 1-140-8), manas (the seat of thought and feeling, located in the heart; 8-89-5): all these are words for life. Many passages, especially in the Atharvaveda, say that where there is asu or manas there is life, and where there is none, death. Asunīti or asunīta is the name of the way that leads the lives of the dead from this world to the upper world (10-15-4; 10-16-2). In the mantras used in the funeral rite the words asu or manas are not used; pitṛ, mātṛ and the like are used. Hence the soul is not like a shadow; it too has a personality. Although men attain immortality only after leaving the body (Śa. Brā. 11-4-3-9), the worlds such as heaven are also material (prākṛta), so the corpse too has a principal place. The body has a share in the existence of the other worlds (10-16-5, Atha. Ve. 18-2-26). A body free from all faults (Atha. Ve. 6-120-3) cannot be called an ordinary earthly body; it may be called a body purified by the power of Agni (compare 10-16-6), or the "subtle body" of the later Vedāntins. It is said that if the fires to be collected after the cremation are destroyed, that is the severest punishment (Śa. Brā. 11-6-3-11; 14-6-9-28); from this one can see how important the position of the corpse is. In 10-16-3 it is said that the eye of the dead should go to Sūra and the breath to Vāyu. Since Agni takes the dead to the other world,
+The soul: Fire or the grave destroys only the body; they cannot destroy the personality of the dead. The belief is that even in a state of unconsciousness the life can be separated from the body, and that life exists even after the body is destroyed. The whole of sūkta 10-58 calls back to return the life of one lying as if dead. In the Ṛgveda there seems to be no basis for belief in the soul's obtaining another body; but in the Brāhmaṇa it is said that one who has not performed the sacrifice in the prescribed manner, having died, is born again and becomes subject to death (Śa. Bā. 10-4-3-10). Prāṇa, ātman, asu (bodily force, 1-113-16; 1-140-8), manas (the seat of thought and feeling, located in the heart; 8-89-5): all these are words for life. Many passages, especially in the Atharvaveda, say that where there is asu or manas there is life, and where there is none, death. Asunīti or asunīta is the name of the way that leads the lives of the dead from this world to the upper world (10-15-4; 10-16-2). In the mantras used in the funeral rite the words asu or manas are not used; pitṛ, mātṛ and the like are used. Hence the soul is not like a shadow; it too has a personality. Although men attain immortality only after leaving the body (Śa. Brā. 11-4-3-9), the worlds such as heaven are also material (prākṛta), so the corpse too has a principal place. The body has a share in the existence of the other worlds (10-16-5, Ath. Saṃ. 18-2-26). A body free from all faults (Ath. Saṃ. 6-120-3) cannot be called an ordinary earthly body; it may be called a body purified by the power of Agni (compare 10-16-6), or the "subtle body" of the later Vedāntins. It is said that if the fires to be collected after the cremation are destroyed, that is the severest punishment (Śa. Brā. 11-6-3-11; 14-6-9-28); from this one can see how important the position of the corpse is. In 10-16-3 it is said that the eye of the dead should go to Sūra and the breath to Vāyu. Since Agni takes the dead to the other world,
 
 ### Printed p. 487
 
 it does not seem fitting that each limb goes to a separate place. Perhaps it is said so in accordance with the description of Virāṭpuruṣa. In the same passage (10-16-3; also in 10-58-7) it is said that the life of the dead enters the waters or plants; perhaps this is the beginning of entry into another body.
 
-Continuing along the path followed by the fathers (10-14-7), the life of the dead goes to the world of eternal light (9-113-7); then, endowed with splendour equal to the gods (Atha. Ve. 11-1-37), he goes on a chariot, or on wings (Atha. Ve. 4.34.4), or on the wings that Agni uses when killing the evil beings (Vā. Sa. 18-52). Borne upward by the Marut, breathing the pleasant wind and cooled by raindrops, the soul regains its ancient form (Atha. Ve. 18-2-21 to 26) and, endowed with glory, together with Yama reaches the highest heaven where the fathers pass their time in joy (10-14-8, 10; 10-154-4, 5). The attainment of heaven in this way is described as returning home (अस्तं (*astaṃ*); 10-14-8). Yama, knowing him as his own (Atha. Ve. 18-2-37), gives him too a resting place (19-14-9).
+Continuing along the path followed by the fathers (10-14-7), the life of the dead goes to the world of eternal light (9-113-7); then, endowed with splendour equal to the gods (Ath. Saṃ. 11-1-37), he goes on a chariot, or on wings (Ath. Saṃ. 4.34.4), or on the wings that Agni uses when killing the evil beings (Vā. Sa. 18-52). Borne upward by the Marut, breathing the pleasant wind and cooled by raindrops, the soul regains its ancient form (Ath. Saṃ. 18-2-21 to 26) and, endowed with glory, together with Yama reaches the highest heaven where the fathers pass their time in joy (10-14-8, 10; 10-154-4, 5). The attainment of heaven in this way is described as returning home (अस्तं (*astaṃ*); 10-14-8). Yama, knowing him as his own (Ath. Saṃ. 18-2-37), gives him too a resting place (19-14-9).
 
 According to the Śatapatha Brāhmaṇa, the dead leave this world and pass between two fires; those fires burn the evil soul and let only the good go forward. The good souls that go ahead take either the path to the fathers or the path to Sūra (Śa. Brā. 1-9-3-2; etc.). In the Upaniṣads two paths are stated for those who have attained knowledge of Brahman. One (for the perfectly knowing) is going to Brahman. The second is the way to heaven; as soon as the fruit of their full works is exhausted, they come from this heaven and are born again on earth. Those who have no acquaintance with the ātman at all go to the world of evil deities or of ghosts and spirits, or, becoming wicked, are born again on earth.
 
@@ -17332,7 +17332,7 @@ In the Mahāpitṛyajña, the Ṛk उदीरतां (*udīratāṃ*) is the
 
 ##### Anuvāda
 
-This sūkta beginning उदीरतां (*udīratāṃ*) is the fifteenth in the first anuvāka. It has fourteen Ṛks. In the Anukramaṇī it is said: उदीरतां षळूना शंखः पित्र्यं जगत्येकादशी (*udīratāṃ ṣaḷūnā śaṃkhaḥ pitryaṃ jagatyekādaśī*). Since the Anukramaṇī says यामायनः परे पंच (*yāmāyanaḥ pare paṃca*) (the seer of the next five sūktas is a son of Yama), the seer of this sūkta is Śaṅkha, the son of Yama. The eleventh Ṛk, अग्निष्वात्ताः (*agniṣvāttāḥ*), is in Jagatī metre. The remaining Ṛks are in Triṣṭup metre; the deity is the Pitṛs; the use of the sūkta was stated earlier. In the rite called Aṣṭakā the first eight Ṛks of this sūkta, beginning उदीरतामवरे (*udīratāmavare*), are to be used for oblation, as explained by the Āśvalāyana Gṛhya sūtra उदीरतामवर उत्परास इत्यष्टाभिर्हुत्वा (*udīratāmavara utparāsa ityaṣṭābhirhutvā*) (Ā. Gṛ. 2-4-6). In the Mahāpitṛyajña, in the oblation made to the special group of fathers called पितरः सोमवंतः (*pitaraḥ somavaṃtaḥ*), the first Ṛk उदीरतां (*udīratāṃ*) is to be recited as anuvākyā mantra, as explained by the Āśvalāyana Śrauta sūtra पितरोग्निष्वात्ता यम उदीरतामवर उत्परासः (*pitarogniṣvāttā yama udīratāmavara utparāsaḥ*) (Ā. 2-19); and among the mantras of the Agnimāruta śastra this Ṛk उदीरतां (*udīratāṃ*) is to be recited as dhāyyā mantra, as explained by the Āśvalāyana Śrauta sūtra मातली कनैर्यमो अंगिरोभिरुदीरतामवर उत्परासः (*mātalī kanairyamo aṃgirobhirudīratāmavara utparāsaḥ*) (Ā. 5-20).
+This sūkta beginning उदीरतां (*udīratāṃ*) is the fifteenth in the first anuvāka. It has fourteen Ṛks. In the Anukramaṇī it is said: उदीरतां षळूना शंखः पित्र्यं जगत्येकादशी (*udīratāṃ ṣaḷūnā śaṃkhaḥ pitryaṃ jagatyekādaśī*). Since the Anukramaṇī says यामायनः परे पंच (*yāmāyanaḥ pare paṃca*) (the seer of the next five sūktas is a son of Yama), the seer of this sūkta is Śaṅkha, the son of Yama. The eleventh Ṛk, अग्निष्वात्ताः (*agniṣvāttāḥ*), is in Jagatī metre. The remaining Ṛks are in Triṣṭup metre; the deity is the Pitṛs; the use of the sūkta was stated earlier. In the rite called Aṣṭakā the first eight Ṛks of this sūkta, beginning उदीरतामवरे (*udīratāmavare*), are to be used for oblation, as explained by the Āśvalāyana Gṛhya sūtra उदीरतामवर उत्परास इत्यष्टाभिर्हुत्वा (*udīratāmavara utparāsa ityaṣṭābhirhutvā*) (Ā. Gṛ. Sū. 2-4-6). In the Mahāpitṛyajña, in the oblation made to the special group of fathers called पितरः सोमवंतः (*pitaraḥ somavaṃtaḥ*), the first Ṛk उदीरतां (*udīratāṃ*) is to be recited as anuvākyā mantra, as explained by the Āśvalāyana Śrauta sūtra पितरोग्निष्वात्ता यम उदीरतामवर उत्परासः (*pitarogniṣvāttā yama udīratāmavara utparāsaḥ*) (Ā. 2-19); and among the mantras of the Agnimāruta śastra this Ṛk उदीरतां (*udīratāṃ*) is to be recited as dhāyyā mantra, as explained by the Āśvalāyana Śrauta sūtra मातली कनैर्यमो अंगिरोभिरुदीरतामवर उत्परासः (*mātalī kanairyamo aṃgirobhirudīratāmavara utparāsaḥ*) (Ā. 5-20).
 
 Sūkta—15
 Maṇḍala 10; Anuvāka 1; Sūkta 15.
@@ -18615,7 +18615,7 @@ Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you,
 
 > अनुस्तरण्या वसया प्रेतस्य मुखमग्नेर्वर्मेत्यनया प्रोर्णुयात् ।
 > सूत्रितं च । अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि
-> गोभिर्व्ययस्वेति । आ-गृ. ४-३-१९ । इति ॥
+> गोभिर्व्ययस्वेति । आ. गृ. सू. ४-३-१९ । इति ॥
 > हे प्रेत अग्नेः स्वभूतं वर्म ज्वालालक्षणं कवचं गोभिरनुस्तरणीगोचर्मणा परि व्ययस्व । परितः संवृणु । किंच पीवसा स्कूलेन मेदसा मांसेन
 > सम्यक् प्रोर्णुष्ट्व । आच्छादय । एवं कृते सति हरसा तेजसा धैष्णुर्धर्षणशीलो
 > जह्र्हषाणोऽत्यर्थं हृष्यन् दधृग्धृष्टः प्रगल्भः ॥ ऋत्विगित्यादिना दधृक्‌शब्दो
@@ -18624,7 +18624,7 @@ Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you,
 
 ##### Gist of the bhāṣya
 
-With this Ṛk, with the anustaraṇī cow's fat (vasā), one should cover the face of the dead. It is stated in the sūtra: अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि गोभिर्व्ययस्वेति । (*anustaraṇyā vasāmutpidya śiromukhaṃ pracchādayedagnervarma pari gobhirvyayasveti |*) (Ā. Gṛ. 4-3-19). O dead one, wrap Agni's own armour, in the form of flames, around you with the cow-hide of the anustaraṇī. Further, cover yourself well with thick fat and flesh. When this is done, Agni, bold with heat, delighting greatly, daring, intending to burn in many ways, will not spread all round you. The word दधृक् (*dadhṛk*) is established by the rule beginning *ṛtvig*; the root अख (*akha*) has the sense of motion, and the augment aṭ comes in the leṭ.
+With this Ṛk, with the anustaraṇī cow's fat (vasā), one should cover the face of the dead. It is stated in the sūtra: अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि गोभिर्व्ययस्वेति । (*anustaraṇyā vasāmutpidya śiromukhaṃ pracchādayedagnervarma pari gobhirvyayasveti |*) (Ā. Gṛ. Sū. 4-3-19). O dead one, wrap Agni's own armour, in the form of flames, around you with the cow-hide of the anustaraṇī. Further, cover yourself well with thick fat and flesh. When this is done, Agni, bold with heat, delighting greatly, daring, intending to burn in many ways, will not spread all round you. The word दधृक् (*dadhṛk*) is established by the rule beginning *ṛtvig*; the root अख (*akha*) has the sense of motion, and the augment aṭ comes in the leṭ.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -18654,7 +18654,7 @@ Enclose the mail of Agni with the (hide of the) cow ; cover it with the fat and 
 
 ##### विशेषविषयगळु (Special Topics)
 
-When the funeral rite is performed, while reciting this Ṛk अग्नेर्वर्म (*agnervarma*), the face of the dead body is to be covered with the anustaraṇī. This is explained by the Āśvalāyana Gṛhya sūtra अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि गोभिर्वयस्व (*anustaraṇyā vasāmutpidya śiromukhaṃ pracchādayedagnervarma pari gobhirvayasva*) (Ā. Gṛ. 4-3-19).
+When the funeral rite is performed, while reciting this Ṛk अग्नेर्वर्म (*agnervarma*), the face of the dead body is to be covered with the anustaraṇī. This is explained by the Āśvalāyana Gṛhya sūtra अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि गोभिर्वयस्व (*anustaraṇyā vasāmutpidya śiromukhaṃ pracchādayedagnervarma pari gobhirvayasva*) (Ā. Gṛ. Sū. 4-3-19).
 
 #### Ṛk 8
 
@@ -18683,7 +18683,7 @@ When the funeral rite is performed, while reciting this Ṛk अग्नेर�
 
 ##### Gist of the bhāṣya
 
-With this Ṛk one addresses the Praṇītā vessel's conveyance. It is stated in the sūtra: इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते (*imamagne camasaṃ mā vi jihvara iti praṇītāpraṇayanamanumaṃtrayate*) (Ā. Gṛ. 4-3-24). O Agni, do not shake this ladle, the Praṇītā vessel. The ladle is dear to the gods, Indra and the rest, and also dear to the Pitṛs who are worthy of Soma. Further, this ladle is the gods' drinking-vessel (the gods drink in it); in that ladle the deathless gods and the Pitṛs rejoice, and are delighted with the oblations.
+With this Ṛk one addresses the Praṇītā vessel's conveyance. It is stated in the sūtra: इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते (*imamagne camasaṃ mā vi jihvara iti praṇītāpraṇayanamanumaṃtrayate*) (Ā. Gṛ. Sū. 4-3-24). O Agni, do not shake this ladle, the Praṇītā vessel. The ladle is dear to the gods, Indra and the rest, and also dear to the Pitṛs who are worthy of Soma. Further, this ladle is the gods' drinking-vessel (the gods drink in it); in that ladle the deathless gods and the Pitṛs rejoice, and are delighted with the oblations.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -18710,7 +18710,7 @@ Agni, shake not this ladle, for it is dear to the gods, and to the (Pitris) who 
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the after-rite, when the Praṇītā vessel is conveyed, the Ṛk इममग्ने चमसं (*imamagne camasaṃ*) is to be recited. This is explained by the Āśvalāyana Gṛhya sūtra इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते (*imamagne camasaṃ mā vi jihvara iti praṇītāpraṇayanamanumaṃtrayate*) (Ā. Gṛ. 4-3-24).
+In the after-rite, when the Praṇītā vessel is conveyed, the Ṛk इममग्ने चमसं (*imamagne camasaṃ*) is to be recited. This is explained by the Āśvalāyana Gṛhya sūtra इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते (*imamagne camasaṃ mā vi jihvara iti praṇītāpraṇayanamanumaṃtrayate*) (Ā. Gṛ. Sū. 4-3-24).
 
 ### Printed p. 524
 #### Ṛk 9
@@ -18728,7 +18728,7 @@ In the after-rite, when the Praṇītā vessel is conveyed, the Ṛk इमम�
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > आहिताग्निमरण एतदादिके द्वे ऋचावौपाससोद्वासने विनियुक्ते । तत्र
-> प्रथमायाः पूर्वार्धेन दक्षिणस्यां दिशि चतुष्षथादावौपासनाग्निं निरस्यति । उत्तरेण शांतिकर्मार्थमादत्ते । आ. गृ. ४-६ । क्रव्यादं । क्रव्यमामिषं । तस्यात्तारं
+> प्रथमायाः पूर्वार्धेन दक्षिणस्यां दिशि चतुष्षथादावौपासनाग्निं निरस्यति । उत्तरेण शांतिकर्मार्थमादत्ते । आ. गृ. सू. ४-६ । क्रव्यादं । क्रव्यमामिषं । तस्यात्तारं
 > तीव्रमग्निं दूरं विप्रकृष्टदेशे प्र हिणोमि । प्रगमयामि ॥ हि गत् स्वादिः ॥
 > रिप्रवाहः । रिप्रं पापं । तस्य वोढा सोऽग्निर्यमराज्ञो यमो राजा येषां
 > तान्यमराजकानन्यप्रदेशान्गच्छतु । प्राप्नोतु । अथ शांतिकर्मार्थमुपासन इतरः
@@ -18737,7 +18737,7 @@ In the after-rite, when the Praṇītā vessel is conveyed, the Ṛk इमम�
 
 ##### Gist of the bhāṣya
 
-On the death of one who keeps the sacred fire, this Ṛk and the next are applied at the dismissal of the Aupāsana fire. Of the first, with the first half he casts the Aupāsana fire out at a crossroads in the southern quarter; with the latter he takes up (another fire) for the rite of propitiation (Ā. Gṛ. 4-6). क्रव्यादं (*kravyādaṃ*): क्रव्य (*kravya*) is raw flesh; I send far away, to a distant place, the fierce fire that devours it. रिप्रवाहः (*ripravāhaḥ*): रिप्र (*ripra*) is sin; the fire that carries it away is to go to the regions of which Yama is king, that is, to places under Yama's rule. Then, for the propitiation rite, the other fire at the Upāsana, the Jātavedas (knower of what is born, or possessed of wealth that is born), known to all, is to convey here itself, to the gods, the oblation fit for offering. The root हि (*hi*) is of the svādi class, in the sense of going.
+On the death of one who keeps the sacred fire, this Ṛk and the next are applied at the dismissal of the Aupāsana fire. Of the first, with the first half he casts the Aupāsana fire out at a crossroads in the southern quarter; with the latter he takes up (another fire) for the rite of propitiation (Ā. Gṛ. Sū. 4-6). क्रव्यादं (*kravyādaṃ*): क्रव्य (*kravya*) is raw flesh; I send far away, to a distant place, the fierce fire that devours it. रिप्रवाहः (*ripravāhaḥ*): रिप्र (*ripra*) is sin; the fire that carries it away is to go to the regions of which Yama is king, that is, to places under Yama's rule. Then, for the propitiation rite, the other fire at the Upāsana, the Jātavedas (knower of what is born, or possessed of wealth that is born), known to all, is to convey here itself, to the gods, the oblation fit for offering. The root हि (*hi*) is of the svādi class, in the sense of going.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -18983,7 +18983,7 @@ Cool again, Agni, the spot which you have burned, there let the water-lily grow,
 
 > अस्थि संचयने क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं श्मशानायतनं
 > प्रोक्षति शीतिके शीतिकावतीत्यनया । सूत्रितं च । क्षीरोदकेन शमीशाखया त्रिः
-> प्रसव्यं परिव्रजन्प्रोक्षति शीतिके शीतिकावतीति । आ. गृ. ४-५-३ । इति ॥
+> प्रसव्यं परिव्रजन्प्रोक्षति शीतिके शीतिकावतीति । आ. गृ. सू. ४-५-३ । इति ॥
 > हे शीतिके शैत्ययुक्ते हे शीतिकावति । शीतिकाः शैत्ययुक्ता ओषधयः ।
 > ताभिस्तद्वति हे ह्लादिक आह्लादयित्रि हे ह्लादिकावत्याह्लादकफलयुक्तैर्वृक्षैस्तद्वति
 > हे पृथिवि मंडूक्या मंडूकस्त्रिया वृष्टिप्रियॆया सु सुष्टु सं गमः। संगच्छस्व ॥
@@ -18991,7 +18991,7 @@ Cool again, Agni, the spot which you have burned, there let the water-lily grow,
 
 ##### Gist of the bhāṣya
 
-In the collecting of the bones, one sprinkles the cremation-ground thrice, keeping it to the left, with milk and water by means of a branch of the śamī, reciting शीतिके शीतिकावती (*śītike śītikāvatī*). It is stated in the sūtra: क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं परिव्रजन्प्रोक्षति शीतिके शीतिकावतीति (*kṣīrodakena śamīśākhayā triḥ prasavyaṃ parivrajanprokṣati śītike śītikāvatīti*) (Ā. Gṛ. 4-5-3).
+In the collecting of the bones, one sprinkles the cremation-ground thrice, keeping it to the left, with milk and water by means of a branch of the śamī, reciting शीतिके शीतिकावती (*śītike śītikāvatī*). It is stated in the sūtra: क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं परिव्रजन्प्रोक्षति शीतिके शीतिकावतीति (*kṣīrodakena śamīśākhayā triḥ prasavyaṃ parivrajanprokṣati śītike śītikāvatīti*) (Ā. Gṛ. Sū. 4-5-3).
 O शीतिके (*śītike*), possessed of coolness; O शीतिकावति (*śītikāvati*): शीतिकाः (*śītikāḥ*) are cool herbs, and you possess them. O ह्लादिके (*hlādike*), gladdener; O ह्लादिकावति (*hlādikāvati*), possessed of trees with gladdening fruit. O earth, unite well (सु सं गमः (*su saṃ gamaḥ*)) with मंडूक्या (*maṃḍūkyā*), the female frog dear to rain. The Parasmaipada of *gam* is by vyatyaya. Then gladden this Agni well.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
@@ -19019,13 +19019,13 @@ O earth, possessed of coolness, of cool herbs, giver of joy, endowed with gladde
 In the rite of collecting the bones, a subsidiary part of the funeral rites, one sprinkles the cremation-ground where the dead body was burned, thrice, keeping it to the right, with milk and water by means of a branch of the śamī tree, reciting this Ṛk शीतिके शीतिकावति (*śītike śītikāvati*).
 
 ### Printed p. 531
-This is explained by the Āśvalāyana-gṛhya-sūtra: क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं परिव्रजन् प्रोक्षति शीतिके शीतिकावतीति (*kṣīrodakena śamīśākhayā triḥ prasavyaṃ parivrajan prokṣati śītike śītikāvatīti*) (Ā. Gṛ. 4-5-3).
+This is explained by the Āśvalāyana-gṛhya-sūtra: क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं परिव्रजन् प्रोक्षति शीतिके शीतिकावतीति (*kṣīrodakena śamīśākhayā triḥ prasavyaṃ parivrajan prokṣati śītike śītikāvatīti*) (Ā. Gṛ. Sū. 4-5-3).
 
 ## Sūkta 17 (Maṇḍala 10)
 **Introduction**
 Saraṇyū and Vivasvān.
 At the beginning of this sūkta, this introduction briefly sets out details such as who Saraṇyū, the daughter of Tvaṣṭṛ, was; her marriage to Vivasvān; and the birth of Yama and Yamī, Manu and the Aśvins from them. Further, under the respective Ṛks, Yāska's Nirukta relating to this matter is explained as it stands there; and in the last part of the introduction the account of the goddess Saraṇyū is also given as told in the Bṛhaddevatā attributed to Śaunaka.
-These mantras (10-17-1-2) which tell of Saraṇyū may be placed together with the mantras known as brahmodya. Mantras belonging to this group of brahmodya occur in many places in the Saṃhitās and Brāhmaṇas, for example (Ṛ. Saṃ. 1-164; Atha. Ve. 9-9, 10; Vā. Saṃ. 23-9 to 12; Tai. Saṃ. 7-4-18; Ai. Brā. 5-25; Śa. Brā. 13. 2. 6. 9 to 17; 5. 2. 11-21 etc.). They differ somewhat from one another in composition. In the present case one must examine what the basis is for the mantra त्वष्टा दुहित्रे (*tvaṣṭā duhitre*) belonging to this group. First, if one examines the composition of the mantra and its purport, they can be observed in many respects.
+These mantras (10-17-1-2) which tell of Saraṇyū may be placed together with the mantras known as brahmodya. Mantras belonging to this group of brahmodya occur in many places in the Saṃhitās and Brāhmaṇas, for example (Ṛ. Saṃ. 1-164; Ath. Saṃ. 9-9, 10; Vā. Saṃ. 23-9 to 12; Tai. Saṃ. 7-4-18; Ai. Brā. 5-25; Śa. Brā. 13. 2. 6. 9 to 17; 5. 2. 11-21 etc.). They differ somewhat from one another in composition. In the present case one must examine what the basis is for the mantra त्वष्टा दुहित्रे (*tvaṣṭā duhitre*) belonging to this group. First, if one examines the composition of the mantra and its purport, they can be observed in many respects.
 त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति । यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश । (*tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa |*) (Ṛ. Saṃ. 10-17-1)
 Tvaṣṭṛ was arranging the marriage of his daughter, and on that account the whole world (all beings) gathered together. But Yama's mother (Saraṇyū), who had just entered the state of wifehood with Vivasvān, vanished.
 अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजुहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajuhādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10-17-2)
@@ -19079,12 +19079,12 @@ Saraṇyū, knowing that Vivasvant had followed her in the form of a horse, desi
 
 In the time of their mutual ardour Vivasvant's semen fell to the ground. Then Saraṇyū, with the wish to conceive, smelled it.
 
-आघ्रातमात्राच्चुक्रात्तु कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ (*āghrātamātrāccukrāttu kumārau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*) (Bṛ. Pe. 7-6)**NOTE**
+आघ्रातमात्राच्चुक्रात्तु कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ (*āghrātamātrāccukrāttu kumārau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*) (Bṛ. De. 7-6)**NOTE**
 
 As soon as she smelled that semen, conception arose in her, and from it two youths, Nāsatya and Dasra, were born; afterwards they were called by the name Aśvin deities, and their greatness spread through all the worlds.
 
 ### Printed p. 535
-इतिहासमिमं यास्कः सरण्यदेवति त्वजे ! विवस्वतश्च त्वष्टुश्च त्वष्टेति सह मन्यरे ॥ (*itihāsamimaṃ yāskaḥ saraṇyadevati tvaje ! vivasvataśca tvaṣṭuśca tvaṣṭeti saha manyare ‖*) (Bṛ. Je. 7-7)**NOTE**
+इतिहासमिमं यास्कः सरण्यदेवति त्वजे ! विवस्वतश्च त्वष्टुश्च त्वष्टेति सह मन्यरे ॥ (*itihāsamimaṃ yāskaḥ saraṇyadevati tvaje ! vivasvataśca tvaṣṭuśca tvaṣṭeti saha manyare ‖*) (Bṛ. De. 7-7)**NOTE**
 
 Yāska has taken the two mantras composed with Saraṇyū as deity (10-17-1) and (10.17-2) as the context in which the history of these two, Vivasvant and Tvaṣṭṛ, is explained. Yāska's explanation has been given above (Ni 12-10,11).
 
@@ -19179,7 +19179,7 @@ The wife of the Āditya, lord of the heavenly world, is the sense intended here.
 
 says that the name is due to her moving nature. If this etymology and the explanation of Durgācārya above are taken as the basis, then the purport becomes that Tvaṣṭṛ wished to give this goddess Uṣas to an excellent bridegroom in marriage. No impropriety is seen in stating the purport thus. Contexts that show this point are well known in many places in Vedic passages. For example:
 
-प्रजापतिर्नै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां । (*prajāpatirnai somāya rājñe duhitaraṃ prāyacchatsūryāṃ |*) (I. Bra. 4-7) **NOTE**
+प्रजापतिर्नै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां । (*prajāpatirnai somāya rājñe duhitaraṃ prāyacchatsūryāṃ |*) (Ai. Brā. 4-7) **NOTE**
 
 It says that Prajāpati gave his daughter Sūryā to King Soma in marriage. But there is doubt as to who this daughter is. Although the passage quoted here says Sūryā, in some other places there are differences of meaning. For example:
 
@@ -19296,7 +19296,7 @@ Sūkta 17. Maṇḍala 10; Anuvāka 2; Sūkta 17. Aṣṭaka 7; Adhyāya 6; Varg
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> त्वष्टैतन्नामको देवो दुहित्रे । षष्ठ्यर्थे चतुर्थी । दुहितुः सरण्यूनामिकाया वहतुं वहनं विवाहं ॥ एधिवहोश्चतुः । उ. १-७९ । इति वहेश्चतुप्रत्ययः ॥ तं कृणोति । करोति । इत्येतेन हेतुनेदं वित्वं सर्वं भुवनं
+> त्वष्टैतन्नामको देवो दुहित्रे । षष्ठ्यर्थे चतुर्थी । दुहितुः सरण्यूनामिकाया वहतुं वहनं विवाहं ॥ एधिवहोश्चतुः । उ. सू. १-७९ । इति वहेश्चतुप्रत्ययः ॥ तं कृणोति । करोति । इत्येतेन हेतुनेदं वित्वं सर्वं भुवनं
 > भूतजातं समेति । तं विवाहं समागमत् । पर्युह्यमाना विवस्वतोद्वोढव्या
 > यमस्य यम्याश्च माता महो मह 'रो विवस्वतो जाया भार्या सरणूर्ननाश।
 > उत्तरान्कुरून्प्रति नष्टा । अगच्छदित्यर्थः ॥
@@ -19795,7 +19795,7 @@ Divine Saraswati, who rides in the same chariot with the Pitris, and is delighte
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> यां त्वां सरस्वतीं पितरो हवंते आह्वयंति । कीदृशाः । दक्षिणा ॥ दक्षिणादाजित्याच् प्रत्ययः । पा. ५-३-३६ ॥ दक्षिणत आगत्य यज्ञमभिनक्षमाणा अभिशो
+> यां त्वां सरस्वतीं पितरो हवंते आह्वयंति । कीदृशाः । दक्षिणा ॥ दक्षिणादाजित्याच् प्रत्ययः । पा. सू. ५-३-३६ ॥ दक्षिणत आगत्य यज्ञमभिनक्षमाणा अभिशो
 > गच्छंतो व्याप्नुवंतः । अत्रास्मिन्यज्ञे सहस्रार्घं बहुभिः पूजनीयमुपयोज्यमिलोऽन्नस्य भागं रायो धनस्य पोषं पुष्टिं च यजमानेषु त्वं धेहि । स्थापय ॥
 
 ##### Gist of the bhāṣya
@@ -19942,7 +19942,7 @@ On the day of pressing (sutya), the two ṛks beginning द्रप्सश्
 > योनिमनु यश्च पूर्व इतीमं च लोकममुं चेत्येतत् समानं योनिमनु
 > पंचरंतमिति समानं हेष एतं योनिमनु संचरति द्रप्पं जुहोम्यनु सप्त
 > होत्रा इत्यसौ ना आदित्यो द्रप्पो दिशः सप्त होत्रा अमुं तदादित्यं दिक्षु
-> प्रतिष्ठापयति । शत. ७-४-१-२८ । इति ॥
+> प्रतिष्ठापयति । श. ब्रा. ७-४-१-२८ । इति ॥
 
 ##### Gist of the bhāṣya
 
@@ -19952,7 +19952,7 @@ Drapsa is the juice of the Soma being pressed. It has "gone" (caskanda) with reg
 
 Or else: hotrāḥ is the sacrificial act performed by the seven hotṛs; after (anu) those, I, the adhvaryu, offer.
 
-Or else: because it moves swiftly, drapsa is said to mean Āditya. That Āditya goes to earth and to heaven, taking the intermediate space as the common yoni. Having in view that Āditya who moves well, the seven hotrāḥ are the seven directions, those other than the direction in which the Sun stands; afterwards (anu) I offer. In whichever direction he stands, I give that direction as the offering-substance; that is, I establish him there. On this the Vājasaneyaka (Brāhmaṇa) says: असौ ना आदित्यो द्रप्पः स दिवं च पृथिवीं च स्कंदतीमं च योनिमनु यश्च पूर्व इतीमं च लोकममुं चेत्येतत् समानं योनिमनु पंचरंतमिति समानं हेष एतं योनिमनु संचरति द्रप्पं जुहोम्यनु सप्त होत्रा इत्यसौ ना आदित्यो द्रप्पो दिशः सप्त होत्रा अमुं तदादित्यं दिक्षु प्रतिष्ठापयति । (*asau nā ādityo drappaḥ sa divaṃ ca pṛthivīṃ ca skaṃdatīmaṃ ca yonimanu yaśca pūrva itīmaṃ ca lokamamuṃ cetyetat samānaṃ yonimanu paṃcaraṃtamiti samānaṃ heṣa etaṃ yonimanu saṃcarati drappaṃ juhomyanu sapta hotrā ityasau nā ādityo drappo diśaḥ sapta hotrā amuṃ tadādityaṃ dikṣu pratiṣṭhāpayati |*) (Śata. 7-4-1-28).
+Or else: because it moves swiftly, drapsa is said to mean Āditya. That Āditya goes to earth and to heaven, taking the intermediate space as the common yoni. Having in view that Āditya who moves well, the seven hotrāḥ are the seven directions, those other than the direction in which the Sun stands; afterwards (anu) I offer. In whichever direction he stands, I give that direction as the offering-substance; that is, I establish him there. On this the Vājasaneyaka (Brāhmaṇa) says: असौ ना आदित्यो द्रप्पः स दिवं च पृथिवीं च स्कंदतीमं च योनिमनु यश्च पूर्व इतीमं च लोकममुं चेत्येतत् समानं योनिमनु पंचरंतमिति समानं हेष एतं योनिमनु संचरति द्रप्पं जुहोम्यनु सप्त होत्रा इत्यसौ ना आदित्यो द्रप्पो दिशः सप्त होत्रा अमुं तदादित्यं दिक्षु प्रतिष्ठापयति । (*asau nā ādityo drappaḥ sa divaṃ ca pṛthivīṃ ca skaṃdatīmaṃ ca yonimanu yaśca pūrva itīmaṃ ca lokamamuṃ cetyetat samānaṃ yonimanu paṃcaraṃtamiti samānaṃ heṣa etaṃ yonimanu saṃcarati drappaṃ juhomyanu sapta hotrā ityasau nā ādityo drappo diśaḥ sapta hotrā amuṃ tadādityaṃ dikṣu pratiṣṭhāpayati |*) (Śa. Brā. 7-4-1-28).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -20235,11 +20235,11 @@ Your juice and your filaments, (Soma), which escape, and which fall from the lad
 > इयं प्रत्यक्षकृता । हे आपः ओषधयः पयस्वतीः पयस्वत्यो वृष्टिलक्षणेनोदकेन सारवत्यो भवंति ! मामकं मदीयं वचो वचनं वृष्टिप्रार्थनवचनं पयस्वत्सारवद्भवति ! किं बहुना । यच्चेह किंचिदपामुदकानां पयः
 > क्षीरवत्सारभूतं यदस्ति तत्सर्वं पयस्वत्सारवदेव ! तेनोदकसारेण सह मा
 > मां शुंधत । यूयं शोधयत । आपो अद्यान्वहारिषं रसेन समगस्महि ।
-> ऋ. १.२३.२३ । इति निगमांतरं ॥
+> ऋ. सं. १.२३.२३ । इति निगमांतरं ॥
 
 ##### Gist of the bhāṣya
 
-This Ṛk is addressed directly. "O Waters, the plants become पयस्वतीः (*payasvatīḥ*), full of sap through water in the form of rain. My speech, the prayer for rain, becomes full of substance. Why say more? Whatever essence, like milk, there is here of the waters, all that is full of sap. With that essence of water purify me; you purify." Another Vedic passage is cited: आपो अद्यान्वहारिषं रसेन समगस्महि । (*āpo adyānvahāriṣaṃ rasena samagasmahi |*) (Ṛ. 1.23.23).
+This Ṛk is addressed directly. "O Waters, the plants become पयस्वतीः (*payasvatīḥ*), full of sap through water in the form of rain. My speech, the prayer for rain, becomes full of substance. Why say more? Whatever essence, like milk, there is here of the waters, all that is full of sap. With that essence of water purify me; you purify." Another Vedic passage is cited: आपो अद्यान्वहारिषं रसेन समगस्महि । (*āpo adyānvahāriṣaṃ rasena samagasmahi |*) (Ṛ. Saṃ. 1.23.23).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -20613,7 +20613,7 @@ Because one kinsman has died, the other relatives need not suffer long in grief.
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > पैतृमेधिके कर्मण्यमात्या इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति ।
-> सूत्रितं च । इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति । आ. गृ. ४-४९९ । इति ॥
+> सूत्रितं च । इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति । आ. गृ. सू. ४-४९९ । इति ॥
 > इमे जीवा जीवंतः पुरुषा मृतैः पित्रादिभिः । तेभ्य इत्यर्थः । व्याववृत्रन् ।
 > व्यावृत्ता भवंतु । एते न म्रियंतामिति भावः । किंचाद्यास्मिन्निने नोऽस्माकमशौचे विसृष्टे देवहूतिः देवानामाह्वानं यत्र स देवहूतिः पितृमेधाख्यो
 > यज्ञो भद्रा कल्याणोऽभूत् । भवतु । तत उत्तरं वयं प्रांचः प्राज्मुखांचना अगाम । गच्छेम । प्रत्यंच इति भावः । नृतये नर्तनाय कर्मणि गात्रविक्षेपाय । स्वकर्मानुष्ठानायेति भावः । हसाय हसनाय पुत्रादिभिः सह क्रीडनाय ।
@@ -20621,7 +20621,7 @@ Because one kinsman has died, the other relatives need not suffer long in grief.
 
 ##### Gist of the bhāṣya
 
-In the Pitṛmedha rite the attendants go back turned round (to the left), reciting *ime jīvā vi mṛtaiḥ*; and it is prescribed in a sūtra: इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति (*ime jīvā vi mṛtairiti sanyāvṛto vrajaṃti*), Ā. Gṛ. 4-499. These living men, in relation to the dead — fathers and others — should turn away from them; the sense is, let these not die. Further, today, with our impurity (of death) discharged, the sacrifice called Pitṛmedha, in which the gods are invoked (देवहूतिः (*devahūtiḥ*)), is to be auspicious. After that we go forward (प्रांचः (*prāṃcaḥ*)), facing east, that is, not backwards. नृतये (*nṛtaye*) means for dancing, for the movement of the limbs in action, that is, for performing our own rites. हसाय (*hasāya*) means for laughter, for playing with sons and others. What are we like? Possessing a longer and better life-span.
+In the Pitṛmedha rite the attendants go back turned round (to the left), reciting *ime jīvā vi mṛtaiḥ*; and it is prescribed in a sūtra: इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति (*ime jīvā vi mṛtairiti sanyāvṛto vrajaṃti*), Ā. Gṛ. Sū. 4-499. These living men, in relation to the dead — fathers and others — should turn away from them; the sense is, let these not die. Further, today, with our impurity (of death) discharged, the sacrifice called Pitṛmedha, in which the gods are invoked (देवहूतिः (*devahūtiḥ*)), is to be auspicious. After that we go forward (प्रांचः (*prāṃcaḥ*)), facing east, that is, not backwards. नृतये (*nṛtaye*) means for dancing, for the movement of the limbs in action, that is, for performing our own rites. हसाय (*hasāya*) means for laughter, for playing with sons and others. What are we like? Possessing a longer and better life-span.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -20651,7 +20651,7 @@ May those who are living remain separate from the dead : may our invocation of t
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the funeral rite called Pitṛmedha, the kinsmen return from that place reciting this Ṛk इमे जीवाः वि मृत्यैः (*ime jīvāḥ vi mṛtyaiḥ*), as is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra इमे जीवा वि मृत्यैंति सव्यावृतो व्रजंति (*ime jīvā vi mṛtyaiṃti savyāvṛto vrajaṃti*) (Ā. Gṛ. 4-4-9). **NOTE**
+In the funeral rite called Pitṛmedha, the kinsmen return from that place reciting this Ṛk इमे जीवाः वि मृत्यैः (*ime jīvāḥ vi mṛtyaiḥ*), as is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra इमे जीवा वि मृत्यैंति सव्यावृतो व्रजंति (*ime jīvā vi mṛtyaiṃti savyāvṛto vrajaṃti*) (Ā. Gṛ. Sū. 4-4-9). **NOTE**
 
 ### Printed p. 602
 In this Ṛk too the duty of the kinsmen performing the last rites for the dead man is explained.
@@ -20976,7 +20976,7 @@ Rise, woman, (and go) the world of living beings : come, this man near whom you 
 
 ##### विशेषविषयगळु (Special Topics)
 
-The Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 4-2-18) prescribes that when the wife of the dead man, clinging to his body, is set on going with him in sahagamana, she is to be raised and brought away from the body with the ṛk "udīrṣva nārī". The sūtra: तामुत्थापयेद्देवरः पतिस्थावीयोऽन्तेवासी जरद्दासो पोदीर्ष नार्यभि जीवलोकं (*tāmutthāpayeddevaraḥ patisthāvīyo 'ntevāsī jaraddāso podīrṣa nāryabhi jīvalokaṃ*).
+The Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. Sū. 4-2-18) prescribes that when the wife of the dead man, clinging to his body, is set on going with him in sahagamana, she is to be raised and brought away from the body with the ṛk "udīrṣva nārī". The sūtra: तामुत्थापयेद्देवरः पतिस्थावीयोऽन्तेवासी जरद्दासो पोदीर्ष नार्यभि जीवलोकं (*tāmutthāpayeddevaraḥ patisthāvīyo 'ntevāsī jaraddāso podīrṣa nāryabhi jīvalokaṃ*).
 "हे नारि जीवलोकं अभि उत् ईर्ष्व (*he nāri jīvalokaṃ abhi ut īrṣva*)": O wife of the dead man, do not grieve, rise. What is in the dead body? His self has left that body and gone to the other world. Therefore leave contact with the dead body and come here. Make ready to go to this world where living kinsmen dwell, that is, to your house. The living must strive to live in this world of the living as long as their life lasts; it is not proper to cherish attachment to the lifeless body left behind after departure to the other world. Therefore leave the body of your husband there and rise and come.
 "गतासुं एतं उप शेषे, एहि (*gatāsuṃ etaṃ upa śeṣe, ehi*)": O woman, the body of your husband that you embrace has no breath. It is a corpse, a mere inert thing. Why lie near it? The breath that has left the body does not return. Therefore leave that body and come.
 When the dead man's wife, unable to be apart from his body, embraces it and laments, heeds no one and is resolved to go with that body in sahagamana, her brother-in-law (devara), that is, the dead man's younger brother, should try to turn her from this and bring her back home. If the dead man has no younger brother, the purohita, a pupil, or a long-serving servant of the dead man may do this task of consoling the wife and bringing her back. In the present ṛk the brother-in-law addresses her with the words "उदीर्ष्व (*udīrṣva*)".
@@ -21056,7 +21056,7 @@ Taking his bow from the hand of the dead man, for the sake of our vigour, energy
 
 ##### विशेषविषयगळु (Special Topics)
 
-If the dead man is a Kṣatriya, this ṛk "धनुर्हस्तात् (*dhanurhastāt*)" is to be recited when the bow in his hand is taken, as shown by the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 4-2-20): धनुर्हस्तादाददानो मृतस्येति धनुः (*dhanurhastādādadāno mṛtasyeti dhanuḥ*).
+If the dead man is a Kṣatriya, this ṛk "धनुर्हस्तात् (*dhanurhastāt*)" is to be recited when the bow in his hand is taken, as shown by the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. Sū. 4-2-20): धनुर्हस्तादाददानो मृतस्येति धनुः (*dhanurhastādādadāno mṛtasyeti dhanuḥ*).
 
 #### Ṛk 10
 
@@ -21079,7 +21079,7 @@ If the dead man is a Kṣatriya, this ṛk "धनुर्हस्तात्
 
 > दीक्षितमरण उप सर्प मातरमित्याद्याश्चतस्रः शंसनीयाः । सूत्रितं च ।
 > उप सर्प मातरं भूमिमेतामिति चतस्रः सोम एकेभ्यः । अ. ६-१० । इति ॥ उप
-> सर्पेत्यनया संचितान्यस्थीनि गर्तॆ निदध्युः । आ. गृ. ४-५-५ ॥
+> सर्पेत्यनया संचितान्यस्थीनि गर्तॆ निदध्युः । आ. गृ. सू. ४-५-५ ॥
 > मातरं मातृभूतां भूमिमस्माभिर्भूमौ निधीयमानस्तृमुप सर्प ।
 > उपगच्छ । अनुप्रविशेत्यर्थः । कीदृशीं । उरुव्यचसं बहुव्याप्तिकां पृथिवीं
 > विस्तीर्णां सुशेवां सुसुखां । सर्वेषां सुखदात्रीमित्यर्थः । तामुपगच्छ ।
@@ -21088,7 +21088,7 @@ If the dead man is a Kṣatriya, this ṛk "धनुर्हस्तात्
 
 ##### Gist of the bhāṣya
 
-At the death of a dīkṣita, four ṛks beginning "उप सर्प मातरं (*upa sarpa mātaraṃ*)" are to be recited (śaṃsanīya). Sāyaṇa cites the sūtra उप सर्प मातरं भूमिमेतामुरुव्यचसं पृथिवीं सुशेवां । ऊर्णम्रदा युवतिर्दक्षिणावत एषा त्वा पातु निर्ऋतेरुपस्थात् ॥ १० ॥ उप । सर्प । मातरं । भूमिं । एतां । उरुऽव्यचसं । पृथिवीं । सुशेवां । ऊर्णम्रदाः । युवतिः । दक्षिणावते । एषा । त्वा । पातु । निःऋतेः । उप- । स्थात् ॥ १० ॥ दीक्षितमरण उप सर्प मातरमित्याद्याश्चतस्रः शंसनीयाः । सूत्रितं च । उप सर्प मातरं भूमिमेतामिति चतस्रः सोम एकेभ्यः । अ. ६-१० । इति ॥ (*upa sarpa mātaraṃ bhūmimetāmuruvyacasaṃ pṛthivīṃ suśevāṃ | ūrṇamradā yuvatirdakṣiṇāvata eṣā tvā pātu nirṛterupasthāt ‖ 10 ‖ upa | sarpa | mātaraṃ | bhūmiṃ | etāṃ | uru 'vyacasaṃ | pṛthivīṃ | suśevāṃ | ūrṇamradāḥ | yuvatiḥ | dakṣiṇāvate | eṣā | tvā | pātu | niḥṛteḥ | upa- | sthāt ‖ 10 ‖ dīkṣitamaraṇa upa sarpa mātaramityādyāścatasraḥ śaṃsanīyāḥ | sūtritaṃ ca | upa sarpa mātaraṃ bhūmimetāmiti catasraḥ soma ekebhyaḥ | a. 6-10 | iti ‖*) and another: with "upa sarpa" they should lay the gathered bones in a pit (Ā. Gṛ. 4-5-5). *Mātaram*: the Earth, who is our mother; "creep up to her" as she is placed in the earth by us, that is, enter her. What is she like? Wide-expanding (uruvyacas), pervading much; Pṛthivī, broad; suśevā, very pleasant, the giver of happiness to all. Go to her. She is a young woman (yuvati), this earth in woman's form, to the sacrificer who is rich in dakṣiṇā, a giver of fees to the priests, she is ūrṇamradā: soft like wool (ūrṇa), like a woollen thing; she is very tender; the meaning is that she does not hurt. May this Earth protect you, the sacrificer in the form of bones, from the lap, the proximity, of Nirṛti, the goddess of death.
+At the death of a dīkṣita, four ṛks beginning "उप सर्प मातरं (*upa sarpa mātaraṃ*)" are to be recited (śaṃsanīya). Sāyaṇa cites the sūtra उप सर्प मातरं भूमिमेतामुरुव्यचसं पृथिवीं सुशेवां । ऊर्णम्रदा युवतिर्दक्षिणावत एषा त्वा पातु निर्ऋतेरुपस्थात् ॥ १० ॥ उप । सर्प । मातरं । भूमिं । एतां । उरुऽव्यचसं । पृथिवीं । सुशेवां । ऊर्णम्रदाः । युवतिः । दक्षिणावते । एषा । त्वा । पातु । निःऋतेः । उप- । स्थात् ॥ १० ॥ दीक्षितमरण उप सर्प मातरमित्याद्याश्चतस्रः शंसनीयाः । सूत्रितं च । उप सर्प मातरं भूमिमेतामिति चतस्रः सोम एकेभ्यः । अ. ६-१० । इति ॥ (*upa sarpa mātaraṃ bhūmimetāmuruvyacasaṃ pṛthivīṃ suśevāṃ | ūrṇamradā yuvatirdakṣiṇāvata eṣā tvā pātu nirṛterupasthāt ‖ 10 ‖ upa | sarpa | mātaraṃ | bhūmiṃ | etāṃ | uru 'vyacasaṃ | pṛthivīṃ | suśevāṃ | ūrṇamradāḥ | yuvatiḥ | dakṣiṇāvate | eṣā | tvā | pātu | niḥṛteḥ | upa- | sthāt ‖ 10 ‖ dīkṣitamaraṇa upa sarpa mātaramityādyāścatasraḥ śaṃsanīyāḥ | sūtritaṃ ca | upa sarpa mātaraṃ bhūmimetāmiti catasraḥ soma ekebhyaḥ | a. 6-10 | iti ‖*) and another: with "upa sarpa" they should lay the gathered bones in a pit (Ā. Gṛ. Sū. 4-5-5). *Mātaram*: the Earth, who is our mother; "creep up to her" as she is placed in the earth by us, that is, enter her. What is she like? Wide-expanding (uruvyacas), pervading much; Pṛthivī, broad; suśevā, very pleasant, the giver of happiness to all. Go to her. She is a young woman (yuvati), this earth in woman's form, to the sacrificer who is rich in dakṣiṇā, a giver of fees to the priests, she is ūrṇamradā: soft like wool (ūrṇa), like a woollen thing; she is very tender; the meaning is that she does not hurt. May this Earth protect you, the sacrificer in the form of bones, from the lap, the proximity, of Nirṛti, the goddess of death.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -21119,7 +21119,7 @@ Go to this your mother-earth, the wide-spread, delightful earth ; this virgin (e
 
 ##### विशेषविषयगळु (Special Topics)
 
-If a sacrificer who has taken up the sacrificial consecration dies before the sacrifice is completed, the four Ṛks beginning उप सर्प (*upa sarpa*) (Ṛks 10–13) are to be recited. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra उप सर्प भूमिमेतामिति चतस्रः सोम एकेभ्यः (*upa sarpa bhūmimetāmiti catasraḥ soma ekebhyaḥ*) (Ā. 6-10). In the funeral rite, after the body has been burnt and the bones gathered, this mantra is to be recited when the bones are put into a pit (or into water such as a river). This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra सर्प इत्यनया संचितान्यस्थीनि गर्तॆ निदध्युः (*sarpa ityanayā saṃcitānyasthīni gartè nidadhyuḥ*) (Ā. Gṛ. 4-5-5). **NOTE**
+If a sacrificer who has taken up the sacrificial consecration dies before the sacrifice is completed, the four Ṛks beginning उप सर्प (*upa sarpa*) (Ṛks 10–13) are to be recited. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra उप सर्प भूमिमेतामिति चतस्रः सोम एकेभ्यः (*upa sarpa bhūmimetāmiti catasraḥ soma ekebhyaḥ*) (Ā. 6-10). In the funeral rite, after the body has been burnt and the bones gathered, this mantra is to be recited when the bones are put into a pit (or into water such as a river). This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra सर्प इत्यनया संचितान्यस्थीनि गर्तॆ निदध्युः (*sarpa ityanayā saṃcitānyasthīni gartè nidadhyuḥ*) (Ā. Gṛ. Sū. 4-5-5). **NOTE**
 
 For this Ṛk and the next three, Sāyaṇa says that the mantras are those recited when the bones of the dead man are laid down, and he explains the meaning accordingly. Since the Ṛks contain no word for bones or any word that conveys that sense, many Western scholars hold that these Ṛks describe the burial of the dead body in the earth, and therefore think that besides the custom of burning the corpse in fire, burial in the earth was also current at that time. It cannot be said that this opinion is wrong.
 
@@ -21140,7 +21140,7 @@ For this Ṛk and the next three, Sāyaṇa says that the mantras are those reci
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> उच्छ्वंचस्वेत्येतया पांसूनवकिरेत् । सूत्र्यते हि । उत्तरया पांसूनवकिरेत् । आ. गृ. ४-५-६ । इति ॥
+> उच्छ्वंचस्वेत्येतया पांसूनवकिरेत् । सूत्र्यते हि । उत्तरया पांसूनवकिरेत् । आ. गृ. सू. ४-५-६ । इति ॥
 > हे पृथिवि उच्छ्वंचस्व । ऊर्ध्वंगतोच्छ्वासमेनं कुरु । अधस्तान्मा कृथा
 > इत्यर्थः । किंच मा नि बाधथाः । मा संपीडय । तथास्मै यजमानार्थं सूपायना शोभनोपगमना सूपचारिका भवेत्यर्थः । सूपवंचना । उपवंचनं
 > प्रलंभनं शोभनप्रलंभा सुप्रतिष्ठा भव । अपि च माता पुत्रमात्मीयं बालकं
@@ -21148,7 +21148,7 @@ For this Ṛk and the next three, Sāyaṇa says that the mantras are those reci
 
 ##### Gist of the bhāṣya
 
-One is to scatter dust with this Ṛk उच्छ्वंचस्व (*ucchvaṃcasva*); for it is taught in the sūtra: "With the following (Ṛk) he should scatter the dust" (Ā. Gṛ. 4-5-6). "O earth, rise up", that is, make him raised up and breathing freely; do not make (the earth) sink beneath him. Further, "do not oppress" him; do not crush him. Be gracious and attentive (सूपायना (*sūpāyanā*), one of good approach, a good attendant) for this sacrificer. सूपवंचना (*sūpavaṃcanā*): उपवंचनं (*upavaṃcanaṃ*) is प्रलंभनं (*pralaṃbhanaṃ*), a good support; so be one of good support, well established. And as a mother covers her own child with the end of a garment, so, O earth, cover this (sacrificer, now in the form of bones) all over, covering him facing towards him.
+One is to scatter dust with this Ṛk उच्छ्वंचस्व (*ucchvaṃcasva*); for it is taught in the sūtra: "With the following (Ṛk) he should scatter the dust" (Ā. Gṛ. Sū. 4-5-6). "O earth, rise up", that is, make him raised up and breathing freely; do not make (the earth) sink beneath him. Further, "do not oppress" him; do not crush him. Be gracious and attentive (सूपायना (*sūpāyanā*), one of good approach, a good attendant) for this sacrificer. सूपवंचना (*sūpavaṃcanā*): उपवंचनं (*upavaṃcanaṃ*) is प्रलंभनं (*pralaṃbhanaṃ*), a good support; so be one of good support, well established. And as a mother covers her own child with the end of a garment, so, O earth, cover this (sacrificer, now in the form of bones) all over, covering him facing towards him.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -21175,7 +21175,7 @@ Earth, rise up above him ; oppress him not ; he attentive to him (and) comfortab
 
 ##### विशेषविषयगळु (Special Topics)
 
-When the dead body or the urn of bones is buried in the earth and covered by throwing earth over it, this Ṛk उच्छंचस्व (*ucchaṃcasva*) is to be recited. This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra उत्तरया पांसूनवकिरेत् (*uttarayā pāṃsūnavakiret*) (Ā. Gṛ. 4-5-6).
+When the dead body or the urn of bones is buried in the earth and covered by throwing earth over it, this Ṛk उच्छंचस्व (*ucchaṃcasva*) is to be recited. This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra उत्तरया पांसूनवकिरेत् (*uttarayā pāṃsūnavakiret*) (Ā. Gṛ. Sū. 4-5-6).
 
 ### Printed p. 619
 
@@ -21251,7 +21251,7 @@ May the earth heaped over him lie light : may thousands of particles (of dust) e
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > उत्ते स्तभ्नामीति कपालेनास्थीन्यपिदध्यात् । सूत्रितं च । उत्ते स्तभ्नामीति
-> कपालेनापिधाय । आ. गृ. ४-५-८ । इति ॥
+> कपालेनापिधाय । आ. गृ. सू. ४-५-८ । इति ॥
 > हे अस्थिकुंभ त्वत्परि । परिशब्दयोगे पंचमी । तवोपरि ते त्वदीयेन
 > कपालेन पृथिवीमुत्सभ्यामि । प्रतिबध्नामि । यथा पृथिवी तवोपरि मा गच्छति
 > तथापिदधामित्यर्थः । इमं लोगं कपाललक्षणं लोष्टं निदधदुपरि स्थापयन्नहं
@@ -21260,7 +21260,7 @@ May the earth heaped over him lie light : may thousands of particles (of dust) e
 
 ##### Gist of the bhāṣya
 
-With उत्ते स्तभ्नामि (*utte stabhnāmi*) he should cover the bones with a potsherd. It is stated in the sūtra: "Having covered with the potsherd (reciting) उत्ते स्तभ्नामि (*utte stabhnāmi*)" (Ā. Gṛ. 4-5-8). "O urn of bones, त्वत्परि (*tvatpari*)" (the fifth case is by association with परि (*pari*)), that is, above you, with your own potsherd I *utsabhyāmi*, I hold back the earth, so that the earth may not come upon you; thus I cover. Placing above (you) this clod, लोगं (*logaṃ*), which is the potsherd, may I मो रिषं (*mo riṣaṃ*), not harm (you). Further, this your स्फूणां (*sphūṇāṃ*), the potsherd that holds up the earth, placed by me, may the Pitṛs sustain, make it immovable. Then in this place of yours may Yama, lord of the Pitṛs, मिनोतु (*minotu*), fix, that is, make, dwellings.
+With उत्ते स्तभ्नामि (*utte stabhnāmi*) he should cover the bones with a potsherd. It is stated in the sūtra: "Having covered with the potsherd (reciting) उत्ते स्तभ्नामि (*utte stabhnāmi*)" (Ā. Gṛ. Sū. 4-5-8). "O urn of bones, त्वत्परि (*tvatpari*)" (the fifth case is by association with परि (*pari*)), that is, above you, with your own potsherd I *utsabhyāmi*, I hold back the earth, so that the earth may not come upon you; thus I cover. Placing above (you) this clod, लोगं (*logaṃ*), which is the potsherd, may I मो रिषं (*mo riṣaṃ*), not harm (you). Further, this your स्फूणां (*sphūṇāṃ*), the potsherd that holds up the earth, placed by me, may the Pitṛs sustain, make it immovable. Then in this place of yours may Yama, lord of the Pitṛs, मिनोतु (*minotu*), fix, that is, make, dwellings.
 
 ### Printed p. 621
 
@@ -21294,7 +21294,7 @@ I heap up the earth around you, placing (upon you) this clod of earth: may I not
 
 ##### विशेषविषयगळु (Special Topics)
 
-Reciting this Ṛk उत्ते स्तभ्नामि (*utte stabhnāmi*), one should bury the bones in the earth and cover them by spreading earth over them with a potsherd. This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra उत्ते स्तभ्नामीति कपालेनापिधाय (*utte stabhnāmīti kapālenāpidhāya*) (Ā. Gṛ. 4-5-8).
+Reciting this Ṛk उत्ते स्तभ्नामि (*utte stabhnāmi*), one should bury the bones in the earth and cover them by spreading earth over them with a potsherd. This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra उत्ते स्तभ्नामीति कपालेनापिधाय (*utte stabhnāmīti kapālenāpidhāya*) (Ā. Gṛ. Sū. 4-5-8).
 
 #### Ṛk 14
 
@@ -22088,13 +22088,13 @@ Agni is capable (of protecting all men), he is himself the oblation, and the sac
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अश्रैतवाक्यताय्कॆ यत्तच्छब्दावध्याहार्यौ । अपरार्धर्चिः पूर्वं व्याख्येयः । आयुं देवानामाह्वानार्थं दूत्येन गंतारं यमग्निमद्रेः सूनुमत्मनः
-> पुत्रमाहुः त्वमद्भ्यस्तमत्कनस्परि । ऋ. २-१-१ । इत्येववादयो मंत्रा वदंति ।
+> पुत्रमाहुः त्वमद्भ्यस्तमत्कनस्परि । ऋ. सं. २-१-१ । इत्येववादयो मंत्रा वदंति ।
 > यज्ञसहं यागस्य वोढारं । धारयितारमित्यर्थः । तमग्निमभिलक्ष्य दुवः परिचरणमिषे । इच्छामि । किमर्थं । पूर्वस्य । आत्र पूर्वशब्द उत्कृष्टवाची । उत्कृष्टस्य
 > शेवस्य स्वर्गापवर्गलक्षणसुखस्य प्राप्तर्थमिति शेषः ॥
 
 ##### Gist of the bhāṣya
 
-Since the sentence is not complete, "yat" and "tat" are to be supplied. The latter half of the verse is to be explained first. Agni, who goes as messenger to invite the gods, is called by Mantras such as त्वमद्भ्यस्तमत्कनस्परि । ऋ. २-१-१ । (*tvamadbhyastamatkanaspari | ṛ. 2-1-1 |*) "the son of the stone" (अद्रेः सूनुं (*adreḥ sūnuṃ*)), that is, of himself (?). यज्ञसहं (*yajñasahaṃ*) is the bearer of the sacrifice, the one who sustains it. Having Agni in view, I desire (इषे (*iṣe*)) the service (दुवः (*duvaḥ*)). For what? पूर्वस्य (*pūrvasya*): here *pūrva* means excellent: to obtain excellent happiness (शेवस्य (*śevasya*)), consisting of heaven and liberation (the words "for obtaining" are to be supplied). **NOTE**
+Since the sentence is not complete, "yat" and "tat" are to be supplied. The latter half of the verse is to be explained first. Agni, who goes as messenger to invite the gods, is called by Mantras such as त्वमद्भ्यस्तमत्कनस्परि । ऋ. सं. २-१-१ । (*tvamadbhyastamatkanaspari | ṛ. saṃ. 2-1-1 |*) "the son of the stone" (अद्रेः सूनुं (*adreḥ sūnuṃ*)), that is, of himself (?). यज्ञसहं (*yajñasahaṃ*) is the bearer of the sacrifice, the one who sustains it. Having Agni in view, I desire (इषे (*iṣe*)) the service (दुवः (*duvaḥ*)). For what? पूर्वस्य (*pūrvasya*): here *pūrva* means excellent: to obtain excellent happiness (शेवस्य (*śevasya*)), consisting of heaven and liberation (the words "for obtaining" are to be supplied). **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -22507,7 +22507,7 @@ Powerful and immortal Agni, bring to us, for our sustenance, the precious wealth
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अथर्वणैतन्नाम्नर्षिणा जातो जनितोऽग्निः । कथं अवगम्यते । त्वामग्ने
-> पुष्करादध्यर्थर्वा निरमंथत । ऋ. ६-१६-१३ । इति मंत्रांतरात् । विश्वानि समस्तानि
+> पुष्करादध्यर्थर्वा निरमंथत । ऋ. सं. ६-१६-१३ । इति मंत्रांतरात् । विश्वानि समस्तानि
 
 ##### Gist of the bhāṣya
 
@@ -22788,7 +22788,7 @@ In what place to-day is Indra renowned? In what nation is he famed like Mitra ? 
 
 > इहास्मिन्यज्ञ इंद्रः श्रुतः प्रख्यातः । अद्यास्मिन्दिवस अस्मे अस्माभिः स्तवे ।
 > स्तूयते । कीदृशः । वज्री वज्रवान् ऋचीषमः । यद्दाव इंद्र ते शतं शतं
-> भूमारुत स्युः न त्वा वज्रिन् । ऋ. ८-७०-५ । इत्यादिकया स्तुत्या समानगुण
+> भूमारुत स्युः न त्वा वज्रिन् । ऋ. सं. ८-७०-५ । इत्यादिकया स्तुत्या समानगुण
 > इत्यर्थः । य इंद्रो मित्रो न सूर्य इव स्निग्ध इव वा जनेषु स्तोतृजनेषु
 > यशोऽन्नं कीर्तिं वा चक्रे करोति । कीदृशं । असाम्यसाधारणं । स इंद्रोऽस्माभिः स्तूयत इति पूर्वेण संबंधः ॥
 
@@ -23850,7 +23850,7 @@ We, Vimadas, have generated this your unprecedented, and most varied praise, Ind
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हे इंद्र तव च विमदस्यर्षेर्मम च नः ॥ अस्मदो द्वयोश्च । पा. १.२-५९ ।
+> हे इंद्र तव च विमदस्यर्षेर्मम च नः ॥ अस्मदो द्वयोश्च । पा. सू. १.२-५९ ।
 > इति द्वयोर्बहुवचनं ॥ अवयोरेनैनानि सख्या सख्यानि स्तुत्यस्तोतृत्वेज्ययष्टृत्वलक्षणानि सखिकर्माणि माकिर्वि यौषुः । क्वचिदपि न विश्वथयेयुः । अपि च हि यस्मात्कारणाद्दे देव द्योतमानेंद्र ते तव प्रमतिमनुग्राहिकां बुद्धिं विद्म वयं
 > जानीमः । तत्र दृष्टांतः । जामिवद्यथा भ्राता स्वभगिन्यां स्नेहयुक्तां मतिं
 > जानाति तद्वत् । तस्मात्कारणादस्मे अस्माकं ते तव च सख्या सख्यानि शिवानि संतु ।
@@ -25637,7 +25637,7 @@ Beholding here the drinkers of the libations who serve not Indra, who cut (the w
 > न विदारयति । भवानेव सर्व० शत्रुजातं हिनस्तीत्यर्थः । अपि च यो भवानिंद्रोऽस्येदृशस्य रजसो लोकस्य । त्रैलोक्यस्येत्यर्थः । सारे परतः । परमसूक्ष्मवायुरूपेण सृष्टिकारणात्मना स्थित्वेति शेषः । विवेष सर्वतो व्याप्त्ति तं भवंतमिंद्रं
 > द्वे इति सामर्थ्याद्यावापृथिव्यौ न परि भूतः । न परिभवतः । अभिभवतुं न शक्नुत
 > इत्यर्थः । कीदृश्यौ । पवस्ते ॥ पवतिर्गतिकर्मा । अस्मादौणादिकोऽस्तप्रत्ययः ।
-> अतोऽजाद्यतष्टाप् । पा.४-१-४ । इति टापिः कृते प्रथमाद्विवचने चैतद्रूपं भवति ॥
+> अतोऽजाद्यतष्टाप् । पा. सू.४-१-४ । इति टापिः कृते प्रथमाद्विवचने चैतद्रूपं भवति ॥
 > महत्वेन सर्वस्याभिभवनाय गच्छंतौ ॥
 
 ##### Gist of the bhāṣya
@@ -25666,7 +25666,7 @@ Since Indra is spoken of in the second person, the seer Vasukra praises Indra. �
 
 ##### Grammar
 
-- पवस्ते — पवतिर्गतिकर्मा । अस्मादौणादिकोऽस्तप्रत्ययः । अतोऽजाद्यतष्टाप् । (पा. ४-१-४) इति टापि कृते प्रथमाद्विवचने चैतद्रूपं भवति ।
+- पवस्ते — पवतिर्गतिकर्मा । अस्मादौणादिकोऽस्तप्रत्ययः । अतोऽजाद्यतष्टाप् । (पा. सू. ४-१-४) इति टापि कृते प्रथमाद्विवचने चैतद्रूपं भवति ।
 
 ### Printed p. 724
 
@@ -25959,11 +25959,11 @@ What (other god but me) whose eyeless daughter is ever present knows her and hon
 > स्तोत्रेण स्तुतस्य सत इति शेषः । आपि च यद्या वधूर्भद्रा कल्याणी सुपेशाः
 > शोभनरूपा च भवति सा द्रौपदीदमयंत्यादिका वधूः स्वयमात्मनैव जने
 > चिज्जनमध्यॆऽवस्थितमिति मित्रं प्रियमर्जुननलादिकं पतिं वनुते । याचते । स्वयंवरधर्मेण प्रार्थयते । स च प्रीयमाणो वरजनोऽहमेवेत्यभिप्रायः ।
-> रूपंरूपं प्रतिरूपो बभूव । ऋ. ६.४७-१८ । इति मंत्रलिंगात्सर्वात्मकत्वादिति ॥
+> रूपंरूपं प्रतिरूपो बभूव । ऋ. सं. ६.४७-१८ । इति मंत्रलिंगात्सर्वात्मकत्वादिति ॥
 
 ##### Gist of the bhāṣya
 
-…"Devoted" means attached, under his sway. To one how characterised? To one who is praised "with a choice praise" (पन्यसा (*panyasā*) means stotra); "being praised" is to be supplied. Moreover, the bride who is "fortunate", auspicious, and "beautiful" (of fair form), such a bride, Draupadī, Damayantī and the like, "of herself", among the people, asks for the "friend", the dear husband, Arjuna, Nala and the like; she petitions by the custom of svayaṃvara. The sense is that the chosen one is I alone, who am pleased. The reason is the mantra-indication "he became a counterpart to each form" (Ṛ. 6.47-18), since he is all-formed.
+…"Devoted" means attached, under his sway. To one how characterised? To one who is praised "with a choice praise" (पन्यसा (*panyasā*) means stotra); "being praised" is to be supplied. Moreover, the bride who is "fortunate", auspicious, and "beautiful" (of fair form), such a bride, Draupadī, Damayantī and the like, "of herself", among the people, asks for the "friend", the dear husband, Arjuna, Nala and the like; she petitions by the custom of svayaṃvara. The sense is that the chosen one is I alone, who am pleased. The reason is the mantra-indication "he became a counterpart to each form" (Ṛ. Saṃ. 6.47-18), since he is all-formed.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -27610,7 +27610,7 @@ If वायः (*vāyaḥ*) is taken as a single word, "vi" means a bird, and �
 
 ##### Gist of the bhāṣya
 
-In the leading (नृतौ (*nṛtau*), from the root nṛ, "to lead", "to bring") of this present dawn, that is, at the time of its rising, we would be advanced (प्र स्याम (*pra syāma*)) through praise and sacrifice to you, Indra, the most leading of leaders (नृणां (*nṛṇāṃ*)). Likewise, O Indra, at the leading in (that is, the coming of) the future dawn too we hope to be advanced through praise and sacrifice to you. Further, the seer Triśoka, having propitiated you, through your favour brought (आवहत् (*āvahat*): obtained) a hundred, that is many, men as followers. And the chariot which is ससवान् (*sasavān*) (सनिता (*sanitā*), one who shares at once) between you and Kutsa was obtained by Kutsa (this last is supplied). That this is so is heard in another mantra: "यासि कुत्सेन सरथमवस्युः (*yāsi kutsena sarathamavasyuḥ*)" (Ṛ. 4-16-11). Since it is so, by your favour may we be advanced.
+In the leading (नृतौ (*nṛtau*), from the root nṛ, "to lead", "to bring") of this present dawn, that is, at the time of its rising, we would be advanced (प्र स्याम (*pra syāma*)) through praise and sacrifice to you, Indra, the most leading of leaders (नृणां (*nṛṇāṃ*)). Likewise, O Indra, at the leading in (that is, the coming of) the future dawn too we hope to be advanced through praise and sacrifice to you. Further, the seer Triśoka, having propitiated you, through your favour brought (आवहत् (*āvahat*): obtained) a hundred, that is many, men as followers. And the chariot which is ससवान् (*sasavān*) (सनिता (*sanitā*), one who shares at once) between you and Kutsa was obtained by Kutsa (this last is supplied). That this is so is heard in another mantra: "यासि कुत्सेन सरथमवस्युः (*yāsi kutsena sarathamavasyuḥ*)" (Ṛ. Saṃ. 4-16-11). Since it is so, by your favour may we be advanced.
 
 ### Printed p. 775
 
@@ -27780,14 +27780,14 @@ When, Indra, (having partaken of) our oblation, and by what sacred rite, will yo
 > प्रेरय । गमय। येऽस्मदादयो यजमाना अस्य तवेंद्रस्य कामं सोमपाने
 > च्छां ग्मन । गमिरत्र विपूर्वोऽंतर्भावितण्यर्थश्च द्रष्टव्यः । विगमयंति महता
 > सोमपानेनापनयंति । तत्र दृष्टांतः । जनिधा इव जनीनां जायानां संभोगकाले शय्यासु धारयितारः पतयो यथा प्रभूतसंभोगप्रदानेन मैथुनेच्छामपनयंति तद्वत् । किंच नरो नेतारोऽस्मदादयो ये यजमाना हे तुविजात
-> बहुरूप । रूपंरूपं प्रतिरूपो बभूव । ऋ. ६-४७-१८ । इति वचनात् ।
+> बहुरूप । रूपंरूपं प्रतिरूपो बभूव । ऋ. सं. ६-४७-१८ । इति वचनात् ।
 > सर्वात्मन्निंद्र ते तुभ्यं पूर्वीरनादिकालप्रवृत्ता गिरश्च स्तुतिलक्षणा वाचश्चान्नॆ
 > पुरोडाशादिहविभिः सह प्रतिशिक्षंति प्रतिकालं प्रयच्छंति तानस्मदीयान्यजमानान्सारं
 > गमयेति पूर्वेण संबंधः ॥
 
 ##### Gist of the bhāṣya
 
-As the sun (सूरः (*sūraḥ*)), favouring the traveller, the yogin, takes him across to the far shore (पारं (*pāraṃ*)), the end of saṃsāra, liberation, so, O Indra, send the sacrificers to the end of saṃsāra. Those sacrificers, we and others, who fulfil (ग्मन् (*gman*)) this Indra's desire for Soma-drinking — the verb गमि (*gami*) is to be understood here with the prefix vi and a causative sense: they remove it by great Soma-drinking. The example: like जनिधा इव (*janidhā iva*), husbands who hold their wives on the bed at the time of union and remove their desire for intercourse by giving abundant enjoyment. Further, the leaders (नरः (*naraḥ*)), we and others, the sacrificers, O तुविजात (*tuvijāta*), multiform one — by the statement रूपंरूपं प्रतिरूपो बभूव । ऋ. ६-४७-१८ । (*rūpaṃrūpaṃ pratirūpo babhūva | ṛ. 6-47-18 |*) — O Indra, soul of all, offer to you in every season the ancient (beginningless) praises, speeches of eulogy, together with food-oblations such as the cake: bring those our sacrificers across; this connects with the first part.
+As the sun (सूरः (*sūraḥ*)), favouring the traveller, the yogin, takes him across to the far shore (पारं (*pāraṃ*)), the end of saṃsāra, liberation, so, O Indra, send the sacrificers to the end of saṃsāra. Those sacrificers, we and others, who fulfil (ग्मन् (*gman*)) this Indra's desire for Soma-drinking — the verb गमि (*gami*) is to be understood here with the prefix vi and a causative sense: they remove it by great Soma-drinking. The example: like जनिधा इव (*janidhā iva*), husbands who hold their wives on the bed at the time of union and remove their desire for intercourse by giving abundant enjoyment. Further, the leaders (नरः (*naraḥ*)), we and others, the sacrificers, O तुविजात (*tuvijāta*), multiform one — by the statement रूपंरूपं प्रतिरूपो बभूव । ऋ. सं. ६-४७-१८ । (*rūpaṃrūpaṃ pratirūpo babhūva | ṛ. saṃ. 6-47-18 |*) — O Indra, soul of all, offer to you in every season the ancient (beginningless) praises, speeches of eulogy, together with food-oblations such as the cake: bring those our sacrificers across; this connects with the first part.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 

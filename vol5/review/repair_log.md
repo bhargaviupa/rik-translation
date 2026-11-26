@@ -1537,3 +1537,4 @@
 - p. 109 (L2075): `gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca` → `gatikārakopapadāt kṛt`: the longer form is not in the supplied text; the reference has the old form.
 - p. 123 (L2358): `(igantalakṣaṇa guṇa)` → `by sārvadhātukārdhadhātukayoḥ`: the label is not in the reference.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: kn kannada 162; every change is a row of review/refs_applied.tsv.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en latin 4, kn kannada 355; every change is a row of review/refs_applied.tsv.

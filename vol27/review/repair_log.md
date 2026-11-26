@@ -8,3 +8,4 @@
 - 2026-11-25: fix_split_samhita.py (windows): the second line of a Saṃhitā at the top of a window had its own Ṛk heading and Saṃhitā sub-heading; removed at: w0399, w0740 (no text changed).
 - 2026-11-25: w0752: a garbled bhāṣya label ('> ॥ ಗಾಯತ್ರಿಮಂತ್ರಂ ॥' as first line of the bhāṣya block of Ṛk 2, p. 757) replaced by the label *ಸಾಯಣಭಾಷ್ಯಂ* (kn.md; letters of the bhāṣya unchanged).
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: en latin 34, kn kannada 42; every change is a row of review/refs_applied.tsv.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 51, en latin 67, en latin-twin 3, kn kannada 69; every change is a row of review/refs_applied.tsv.
