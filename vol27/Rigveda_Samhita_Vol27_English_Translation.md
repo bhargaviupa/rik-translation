@@ -29450,6 +29450,247 @@ This creation of heaven and earth, born of the gods, is not all that is endowed 
 
 There is another power, of greater importance than the creation by the gods described before. The Supreme Self, the creator, in the form of Hiraṇyagarbha, bears heaven and earth.
 
+### Printed p. 825
+
+##### भावार्थ (Bhāvārtha)
+
+Before the horses carry this body of Hiraṇyagarbha to the sun, that is, before the work of creation, the powerful Hiraṇyagarbha makes his own pure body.
+
+##### English translation
+Not such (is their power): there is another greater than they : the creator, he sustains heaven and earth : possessed of might, he makes a pure skin, before his horses bear it to the sun.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वे॒गो न क्षामत्ये॑ति पृ॒थ्वीं मिहं॒ न वातो॒ वि ह॑ वाति॒  ॑
+> भूम ।  
+> मि॒त्रो यत्र॒ वरु॑णो अ॒ज्यमा॑नो॒ऽग्निर्वने॒ न व्यसृ॑ष्ट॒  ॑
+> शोकं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वेगः । न । क्षां । अति । एति । पृथ्वीं । मिहं । न । वातः । वि । ह । वाति । भूम ।  
+> मित्रः । यत्र । वरुणः । अज्यमानः । अग्निः । वने । न । वि । असृष्ट । शोकं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तेगः ॥ स्तैष्ठ्य शब्द संघातयोः । रश्मिसंघात्यादित्यः पृथ्विं विस्तीर्णां
+> क्षां भूमिं तेजसा नात्येति । नातिगच्छति । मर्यादया तिष्ठतीत्येवमादित्यः
+> सूयते । वातो वायुरपि खलु भूम भूमिं मिहं वृष्टिं न वि वाति ।
+> समर्थोऽपि सन् विविधं न गमयति । भूमिं प्रति सावशेषमेव वर्षयतीति वातः
+> सूयते । यत्र यस्मिन्नजापत् मित्रो देवोऽज्यमानो व्यज्यमानो व्यक्तिभवन् । उत्पाद्यमान इत्यर्थः । शोकं स्वीयां दीप्तिं व्यसृष्ट विसृजति सर्वतो
+> विक्षिपति तथा वरुणश्च व्यक्तिभवन्स्दीप्तिं विक्षिपति । तत्र दृष्टांतः । अग्निर्देवो वने
+> न यथा वृक्षसंघाते स्वदीप्तिं सर्वतो विसृजति तद्वत् । तादृशं प्रजापतिं स्वामाति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+स्तेगः (*stegaḥ*) is the sun, who has a collection of rays. He does not pass beyond the broad earth with his radiance; he stays within bounds. Thus the sun is praised. The wind too does not blow away the rain over the earth; though able, he does not disperse it in various directions, but rains upon the earth leaving a remainder. Thus the wind is praised. In whom, in Prajāpati, the god Mitra, being manifested, that is, being produced, sends forth his own radiance and scatters it on all sides, and likewise Varuṇa, becoming manifest, scatters his radiance. The example: as the god Agni in a forest, in a mass of trees, sends forth his own radiance on all sides, so do these. The words "we praise such a Prajāpati" are to be supplied. **NOTE**
+
+### Printed p. 826
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तेगः (*stegaḥ*)—the sun
+- पृथ्विं (*pṛthviṃ*)—broad
+- क्षां (*kṣāṃ*)—the earth
+- न अत्येति (*na atyeti*)—does not pass beyond
+- वातः (*vātaḥ*)—the wind
+- भूम (*bhūma*)—toward the earth
+- मिहं (*mihaṃ*)—rain
+- न वि वाति (*na vi vāti*)—does not pour beyond measure
+- अग्निः (*agniḥ*)—Agni
+- वने न (*vane na*)—as he spreads his flame in a forest
+- यत्र (*yatra*)—in which Prajāpati
+- मित्रः (*mitraḥ*)—the god Mitra
+- अज्यमानः (*ajyamānaḥ*)—being born
+- शोकं (*śokaṃ*)—his brightness
+- व्यसृष्ट (*vyasṛṣṭa*)—spreads all around, and
+- वरुणः (*varuṇaḥ*)—Varuṇa too spreads his light (I praise that Prajāpati)
+
+##### भावार्थ (Bhāvārtha)
+
+The sun does not spread his radiance over the earth beyond his bounds. The wind too does not pour rain beyond measure toward the earth. I praise that Prajāpati in whom both Mitra and Varuṇa, being born, spread their brightness, as Agni spreads his flame in a forest.
+
+##### English translation
+The sun does not pass beyond the broad earth, the wind does not drive the rain from off the earth : (I glorify Prajapati) in whom Mitra and Varuna being manifested, disperse their radiance, as Agni (spreads his flames) in a forest.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्त॒रीर्यत्सूत॑ स॒द्यो अ॒ज्यमा॑ना॒ व्यथि॑रव्य॒थीः कृ॑णुत॒ स्वगॊ॑पा।  
+> पु॒त्रो यत्पूर्वः॑ पि॒त्रोर्जनि॑ष्ट श॒म्यां गौर्ज॑गार॒ यद्ध॑  ॒
+> पृच्छान् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वरीः । यत् । सूत । सद्यः । अज्यमाना । व्यथिः । अव्यथीः । कृणुत । स्वगोपा ।  
+> पुत्रः । यत् । पूर्वः । पित्रोः । जनिष्ट । शम्यां । गौः । जगार । यत् । ह ।  
+> पृच्छान् ॥ १८ ॥
+
+**NOTE**
+
+### Printed p. 827
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरण्योः कारणभूतां शमीं गोत्वेन रूपयति । स्तरीर्निवृत्तप्रसवा गौः
+> सद्यः शीघ्रमज्यमाना निषिच्यमानरेतस्का सती यद्यदा सूत वत्सं प्रसूते तदा
+> व्यथिर्दुःखानां बाधयित्रि स्वगोपा स्वायत्तगोप्तृका स्वभूतरक्षणा वा सती सा
+> गौरव्यथीर्व्यथारहिताः प्रजाः कृणुत करोति । यदा शमी पुत्रस्थानीयमश्वत्थं
+> प्रसूते तदानीमरण्याहरणाय तादृशमश्वत्थमन्विष्यतामृत्वजामश्वत्थस्य जनयित्रि
+> शमी सुखहेतुर्भवतीत्यर्थः । शमीागर्भादश्वत्थादरणी आहर्तव्ये । श्रूयते हि ।
+> शमीागर्भावग्निं मंथंतीति । अपि च पूर्वः पुरातनः पुत्रः । पुन्ना नो नरकात्माता ।
+> यद्वा । पुत्रस्थानीयोऽग्निः । पित्रोर्जनयित्योररण्योः सकाशाद्यददा जनिष्ट
+> मथनेन प्रादुर्भवति तदानीं गौः पृथिवी तयोररण्योर्मातृभूतां शम्यामश्वत्थगर्भां तां शमीं ॥ सुपां सुलुगिति सुपो ज्ञादेशः ॥ जगार ! उद्दिरति । युद्ध
+> यां खलु शमीं पृच्छान् ऋत्विजः पृच्छंति नीप्संति गवेषयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa presents the śamī tree, the source of the two araṇis, in the form of a cow. स्तरीः (*starīḥ*) is a cow whose bearing has ceased. When she, quickly sprinkled, that is, receiving semen, bears a calf, then she, व्यथिः (*vyathiḥ*), the repeller of afflictions, स्वगोपा (*svagopā*), having her own protector or protecting what is her own, makes her offspring free from pain. When the śamī brings forth the aśvattha, which stands in the place of a son, then, to fetch the araṇi, the priests should search for such an aśvattha; the śamī, the mother of the aśvattha, becomes the cause of happiness. The araṇis are to be fetched from an aśvattha grown from the womb of the śamī; for it is heard in the śruti that they churn Agni from the womb of the śamī. And further, पूर्वः (*pūrvaḥ*) is ancient, and पुत्रः (*putraḥ*) is the son: पुन्ना नो नरकात्माता (*punnā no narakātmātā*) **NOTE**. Or else: Agni, standing in the place of the son, when he is born by churning from his two parents, the araṇis, then Gauḥ, the earth, brings out the śamī, the mother of those two araṇis, that bears the aśvattha in its womb; the very śamī which the priests seek and search for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तरीः (*starīḥ*)—a barren cow
+- सद्यः (*sadyaḥ*)—quickly
+- अज्यमाना (*ajyamānā*)—receiving semen
+- यत् (*yat*)—when
+- सूत (*sūta*)—she bears a calf, then
+- व्यथिः (*vyathiḥ*)—the remover of sorrow
+- स्वगोप्ता (*svagoptā*)—and the protector of herself, the cow
+- अव्यथीः (*avyathīḥ*)—offspring free from sorrow
+- कृणुत (*kṛṇuta*)—produces
+- पूर्वः (*pūrvaḥ*)—the ancient one
+- पुत्रः (*putraḥ*)—the son, in the form of Agni
+- पितृः (*pitṛḥ*)—from the araṇis
+- यत् (*yat*)—when
+- जनिष्ट (*janiṣṭa*)—he is born, then
+- गौः (*gauḥ*)—the earth
+- शम्यात् (*śamyāt*)—the śamī
+- जगार (*jagāra*)—brings out
+- यद्ध (*yaddha*)—that same śamī
+- पृच्छान् (*pṛcchān*)—the priests search for
+
+##### भावार्थ (Bhāvārtha)
+
+When a barren cow quickly receives semen and bears a calf, then the cow, the remover of sorrow and protector of herself, produces offspring free from sorrow. When the ancient son, in the form of Agni, is born from the araṇis, then the earth brings out the śamī. That same śamī the priests search for.
+
+##### English translation
+When a barren cow being suddenly impregnated bears (a calf), she the repeller of evils, free from pain, self-protected, produces (offspring) ;
+
+### Printed p. 828
+
+when (Agni), the ancient son, is generated by his two parents, earth ejects the Shami which the priests are seeking.
+
+##### विशेषविषयगळु (Special Topics)
+
+In kindling Agni, two pieces of wood called araṇis are placed one upon the other and churned. Of these two araṇis one is made from the śamī tree and the other from the aśvattha tree. This matter is stated in the Taittirīya Brāhmaṇa: शमिगर्भादग्निं मंथति । विषा ना अग्नेय्यज्जिया तनूः । तामेवास्मै जनयति । (*śamigarbhādagniṃ maṃthati | viṣā nā agneyyajjiyā tanūḥ | tāmevāsmai janayati |*) (Tai. Brā. 1-1-9-1) **NOTE**. The priests, the adhvaryu and others, take the piece of śamī wood in the form of the araṇi, churn it and produce Agni from it. The Agni thus produced by churning in the araṇis is the body of the Agni that is to be used in sacrifices and the like, that is, the Agni fit for sacrifice. Agni must be produced in this way, with mantras. Agni brought in any other way is not used in sacrifices, that is, it is not fit for sacrifice; this is the meaning.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त कण्णं॑ नृ॒षदः॑ पु॒त्रमा॑हुरु॒त श्या॒वो धन॒माद॑त्त वा॒जी ।  
+> प्र कृ॒ष्णाय॒ रुश॑दपिन्व॒तोध॑र्ऋ॒तमत्र॒ नकि॑रस्मा अपीपेत् ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । कण्वं । सृसदः । पुत्रं । आहुः । उत । श्यावः । धनं . आ । अदत्त । वाजी ।  
+> प्र । कृष्णाय । रुशत् । अपिन्वत । ऊधः । ऋतं । अत्र । नकिः । अस्मै । अपीपेत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च कण्वमृषिं नृषदः पुत्रमाहुः । वेदवादिनो वदंति । उतापि च
+> वाजी हविर्लक्षणान्नवान्कण्वः श्यावः श्यामवर्णः सन्नस्मादग्नेः सकाशाद्धनमादत्त ।
+
+### Printed p. 829
+
+> अगृह्णात् । कृष्णाय श्यामवर्णाय नार्षदाय कण्वायाग्नेरूधा रुशद्रोचमानरूपं प्रापिन्वत । प्रासिंचत् । अत्रेत्थमग्निव्यतिरिक्तः कश्चिदपि देवोऽस्मै
+> कण्वायर्तं यज्ञं नकिरपीपेत् । नावर्धयत् । युवं श्यावाय रुशतीमदत्तं ।
+> ऋ. १-११७-८ । इत्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+They also call the seer Kaṇva the son of Nṛṣad; the speakers of the Veda say so. And Kaṇva, श्यावः (*śyāvaḥ*), of dark hue, possessing food in the form of oblations, received wealth from this Agni, that is, took it. For the dark-hued Kaṇva, son of Nṛṣad, the udder of Agni, shining in form, sprinkled forth, poured out. Here, in this matter, no god other than Agni has made this sacrifice of Kaṇva grow. It is said: युवं श्यावाय रुशतीमदत्तं (*yuvaṃ śyāvāya ruśatīmadattaṃ*) (Ṛ. 1-117-8) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- नृषदः (*nṛṣadaḥ*)—of the son of Nṛṣad
+- कण्वं (*kaṇvaṃ*)—to the seer Kaṇva
+- आहुः (*āhuḥ*)—the wise taught
+- उत (*uta*)—and
+- श्यावः (*śyāvaḥ*)—the brown-coloured
+- वाजी (*vājī*)—and powerful Kaṇva
+- धनं (*dhanaṃ*)—wealth
+- अदत्त (*adatta*)—received from Agni
+- कृष्णाय (*kṛṣṇāya*)—for the brown-coloured Kaṇva
+- ऊधः (*ūdhaḥ*)—the udder of Agni
+- रुशत् (*ruśat*)—shining brightness
+- प्रापिन्वत (*prāpinvata*)—sprinkled forth
+- अस्मै (*asmai*)—of this Kaṇva
+- ऋतं (*ṛtaṃ*)—the sacrifice
+- अत्र (*atra*)—among these gods
+- नकिः आसीपेत् (*nakiḥ āsīpet*)—(like Agni) no one nourishes
+
+##### भावार्थ (Bhāvārtha)
+
+The wise taught the seer Kaṇva, son of Nṛṣad. Kaṇva, brown-coloured and powerful, received wealth from Agni. The udder of Agni sprinkled forth (spread) shining brightness for the brown-coloured Kaṇva. No one among these gods is able to nourish the sacrifice of this Kaṇva as Agni does.
+
+##### English translation
+(The expounders of the Vedas) spoke to Kanwa, the son of Nrishad, and he the dark-tinted, having food, acquired wealth; (Agni) sprinkled (the milk of) the brilliant udder for the dark (-complexioned sage); no other divinity so favours the sacrifice for him.
+
+## Sūkta 32 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सु ग्मंतेति नवर्चं तृतीयं सूक्तं । आदितः पंच जगत्यः । अथ चतस्र...
+> स्त्रिष्टुभः । पूर्ववदृषिदेवते । तथा चानुक्रांतं । प्र सु ग्मंता नव पंचाद्या
+> जगत्य इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र सु ग्मंतेति (*pra su gmaṃteti*) has nine Ṛks and is the third sūkta. The first five are Jagatī, then four are Triṣṭubh. The seer and deity are as before. The Anukramaṇī says: प्र सु ग्मंता नव पंचाद्या जगत्य इति (*pra su gmaṃtā nava paṃcādyā jagatya iti*). The use has been stated.
+
+### Printed p. 830
+
+##### Anuvāda
+
+This sūkta, प्र सु ग्मंता (*pra su gmaṃtā*), is the third sūkta in the third anuvāka. It has nine Ṛks. Kavaṣa is the seer of this sūkta; the Viśve Devāḥ are the deity; the first five Ṛks of this sūkta are in the Jagatī metre and the following four Ṛks are in the Triṣṭubh metre. The Anukramaṇī says प्र सु ग्मंता नव पंचाद्या जगत्तः (*pra su gmaṃtā nava paṃcādyā jagattaḥ*). The use has been stated before.
+
+- Maṇḍala 10; Anuvāka 3; Sūkta 32.
+- Aṣṭaka 7; Adhyāya 7; Vargas 29, 30.
+- Number of Ṛks in the sūkta: 9.
+- Seer: Kavaṣa Ailūṣa.
+- Deity: the Viśve Devāḥ.
+- Metre: Ṛks 1-5 Jagatī; Ṛks 6-9 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु ग्मंता॑ धियसा॒नस्य॑ स॒क्षणि॑ व॒रेभि॑र्व॒रा अ॒भि षु प्र॒सीद॑तः।  
+> अ॒स्माक॒मिंद्र॑ उ॒भयं॑ जुजोषति॒ यत्सो॒म्यस्यांध॑सो॒  ॑
+> बुबोधति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । ग्मंता । धियसानस्य । सक्षणि । वरेभिः । वरान् । अभि । सु । प्रसीदतः ।  
+> अस्माकं । इंद्रः । उभयं । जुजोषति । यत् । सोम्यस्य । अंधसः । बुबोधति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः स्वभूत् हरी धियसानस्येंद्रागमनं चिंतयतो यजमानस्य मम
+> संबंधिनि सक्षणि सेवायां सद्गुणके सेव्ये यज्ञे निमित्ते ग्मंतागच्छंतौ सु सुष्टु
+> प्रेरयति । ततः स इंद्रो वरेभिर्वर्णनीयैर्मार्गैः प्रसीदतो हविरासादयतो
+> यजमानस्य वरानुत्कृष्टान्निर्विशेषान् स्तुतिविशेषांश्चाभि लक्ष्मीकृत्य सु सुष्टाग्नच्छतु । इंद्रः आगतसन्नस्माकं स्वभूतमुभयं हविश्च स्तुतिश्वेत्येतद्वयं जुजोषति।
+
+##### Gist of the bhāṣya
+
+Indra impels well his two bay horses, the two that go, toward the service, the worthy sacrifice endowed with good qualities, of me, the sacrificer, who am धियसानस्य (*dhiyasānasya*), thinking of Indra's coming. Then that Indra, by desirable paths, bringing his attention to the excellent, matchless special praises of the sacrificer, who is setting down the oblation, may come well. Indra, having come, enjoys both of our offerings, the oblation and the praise. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 824. Sūkta 31 Ṛk 4 (Pada, bhāṣya) to Ṛk 8
+**Progress note:** Done through printed p. 830. Sūkta 31 Ṛk 8 end to Ṛk 11; Sūkta 32 intro, Ṛk 1
