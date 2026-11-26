@@ -9180,6 +9180,303 @@ O Soma-deva, of subtle sight, your streams, you who are of the nature of a strea
 ##### English translation
 All-beholding Soma, your streams as you are being purified are sent forth like the rays ot the sun at present. **NOTE**
 
+### Printed p. 260
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> के॒तुं कृ॒ण्वंदि॒वस्परि॒ विश्वा॑ रू॒पाभ्य॑र्षसि ।  
+> स॒मु॒द्रः सो॑म पिन्वसे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> केतुम् । कृण्वन् । दिवः । परि । विश्वा । रूपा । अभि । अर्षसि ।  
+> समुद्रः । सोम । पिन्वसे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम समुद्रः । समुद्द्रवंति यस्माद्रसाः स समुद्रः। स त्वं केतुं प्रज्ञानं कृण्वन् कुर्वन् अस्माकं विश्वा विश्वानि रूपा रूपाणि दिवः अंतरिक्षात् अभ्यर्षसि अभिपवसे । पिन्वसे नानाविधानि धनानि चास्मभ्यं प्रयच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are the ocean, that is, the one from whom the juices flow together. Such as you are, making knowledge for us, you flow out toward all forms from the atmosphere. You bestow on us many kinds of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- समुद्रः (*samudraḥ*)—you who are the store of juice
+- केतुं (*ketuṃ*)—excellent knowledge
+- कृण्वन् (*kṛṇvan*)—producing
+- विश्वा (*viśvā*)—all
+- रूपा (*rūpā*)—forms
+- दिवः परि (*divaḥ pari*)—from the atmosphere
+- अभ्यर्षसि (*abhyarṣasi*)—you send forth
+- पिन्वसे (*pinvase*)—you provide also to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are the store of juice, producing excellent knowledge, send forth all forms from the atmosphere. You provide them to us also.
+
+##### English translation
+Soma, you who are the ocean, bestowing knowledge, hasten from heaven to all our various forms, and bestow (various kinds of wealth on us).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒न्वा॒नो वाच॑मिष्यसि॒ पव॑मान॒ विध॑र्मणि ।  
+> अक्रां॑दे॒वो न सूर्यः॑ ॥ ९ ॥
+
+### Printed p. 261
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिन्वानः । वाचम् । इष्यसि । पवमान । विऽधर्मणि ।  
+> अक्रान् । देवः । न । सूर्यः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम हिन्वानः प्रेर्यमाणस्त्वं वाचं शब्दम् इष्यसि प्रेरयसि । कदेत्यत्राह । यदा तव रसः सूर्यः देवो न देव इव विधर्मणि विधारके पवित्रे अक्रान् अक्रमीत् तदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, being urged on, you utter a cry, a sound. When? When your juice, like the god Sun, has entered the filter that supports it: at that time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva
+- देवः (*devaḥ*)—of divine nature
+- सूर्यः न (*sūryaḥ na*)—like the sun
+- विधर्मणि (*vidharmaṇi*)—in the ten-fold filter that supports all
+- अक्रान् (*akrān*)—when you enter **NOTE**
+- हिन्वानः (*hinvānaḥ*)—you who are urged on
+- वाचं (*vācaṃ*)—a sound
+- इष्यसि (*iṣyasi*)—you make manifest
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, when you enter the ten-fold filter that supports all things, like the sun who is of divine nature, you, being urged on, make a sound manifest.
+
+##### English translation
+Purified Soma, when set forth you utter a cry; (when your juice) like the sun god passed through the supporting (filter).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदुः॑ पविष्ट॒ चेत॑नः प्रि॒यः क॑वी॒नां म॒ती ।  
+> सृ॒जदश्वं॑ र॒थीरि॑व ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । पविष्ट । चेतनः । प्रियः । कवीनाम् । मती ।  
+> सृजत् । अश्वम् । रथीःऽइव ॥ १० ॥
+
+### Printed p. 262
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चेतनः प्रज्ञापकः प्रियः देवानां प्रीतिकरः इंदुः सोमः कवीनां क्रांतकर्मणां स्तोतॄणां मती मत्या स्तुत्या पविष्ट पवते । अश्वं हयं रथीरिव रथीव ऊर्मिं सृजत् सृजति च ॥ ॥ ३७ ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is Soma, who makes people aware and is dear, a giver of joy to the gods, flows by the praise, the hymn, of the sages, the singers whose works are far-reaching. And, like a charioteer, he sends forth a wave toward the horse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चेतनः (*cetanaḥ*)—the one who makes aware
+- प्रियः (*priyaḥ*)—and the giver of joy to the gods
+- इंदुः (*iṃduḥ*)—Soma-deva
+- कवीनां (*kavīnāṃ*)—of the singers of praise
+- मती (*matī*)—urged by the praise
+- पविष्ट (*paviṣṭa*)—he flows
+- रथीरिव (*rathīriva*)—as a charioteer
+- अश्वं (*aśvaṃ*)—urges a horse
+- सृजत् (*sṛjat*)—he sends forth
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who makes aware and gives joy to the gods, urged by the praise of the singers, flows. As a charioteer urges a horse, he sends forth the juice.
+
+##### English translation
+Indu the enlightener, beloved (of the gods), flows forth at the praise of the sages ; he lets loose (his wave) as a charioteer his horse.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्मिर्यस्ते॑ प॒वित्र॒ आ दे॑वा॒वीः प॒र्यक्ष॑रत् ।  
+> सीद॑न्नृ॒तस्य॒ योनि॒मा ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्मिः । यः । ते । पवित्रे । आ । देवऽअवीः । परिऽअक्षरत् ।  
+> सीदन् । ऋतस्य । योनिम् । आ ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव यः देवावीः देवकामः ऊर्मिः तरंगः ऋतस्य यज्ञस्य योनिं स्थानम् आ सीदन् पवित्रे पर्यक्षरत् परिक्षरति तमूर्मिं सृजतीति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your wave that desires the gods flows about in the filter, settling in the place, the seat, of the sacrifice. The connection with the preceding verse is that you send forth that wave.
+
+### Printed p. 263
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your (O Soma-deva)
+- देवावीः (*devāvīḥ*)—that desires the gods
+- यः (*yaḥ*)—which
+- ऊर्मिः (*ūrmiḥ*)—mass of juice
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योनिं (*yoniṃ*)—the place
+- आ सीदन् (*ā sīdan*)—entering
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- पर्यक्षरत् (*paryakṣarat*)—flows: you send forth that wave
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you send forth that wave, the mass of your juice which desires the gods and, entering the place of the sacrifice, flows in the ten-fold filter.
+
+##### English translation
+Your wave which, devoted to the gods flows to the filter, alighting upon the place of sacrifice.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ अर्ष प॒वित्र॒ आ मदो॒ यो दे॑व॒वीत॑मः ।  
+> इंद॒विंद्रा॑य पी॒तये॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । अर्ष । पवित्रे । आ । मदः । यः । देवऽवीतमः ।  
+> इंदो इति । इंद्राय । पीतये ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो यः त्वं देववीतमः अतिशयेन देवकामः मदः मदकरश्च भवसि सः त्वं नः अस्माकं पवित्रे इंद्राय इंद्रस्य पीतये पानाय आ अर्ष आपवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indu, you who are most desirous of the gods and are an intoxicating drink, such as you are, flow to our filter for Indra to drink.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- यः (*yaḥ*)—you who
+- देववीतमः (*devavītamaḥ*)—are exceedingly desirous of the gods
+- मदः (*madaḥ*)—and are the producer of joy
+- सः (*saḥ*)—such you
+- नः (*naḥ*)—our
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for drinking
+- आ अर्ष (*ā arṣa*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are exceedingly desirous of the gods and a producer of joy, flow in our ten-fold filter for Indra to drink.
+
+### Printed p. 264
+
+##### English translation
+Indu, who are exhilarating and most devoted to the gods, hasten to the filter for Indra to drink.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒षे प॑वस्व॒ धार॑या मृ॒ज्यमा॑नो मनी॒षिभिः॑ ।  
+> इंदो॑ रु॒चाभि गा इ॑हि ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषे । पवस्व । धारया । मृज्यमानः । मनीषिऽभिः ।  
+> इंदो इति । रुचा । अभि । गाः । इहि ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम मनीषिभिः ऋत्विग्भिः मृज्यमानः शोध्यमानस्त्वम् इषे अस्माकमन्नाय धारया पवस्व क्षर । रुचा रोचमानेनांधसा गाः पशून् अभि इहि अभिगच्छ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you who are being cleansed, purified, by the thoughtful ones, the priests, flow, pour, in a stream for food for us. With the shining food approach the cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- मनीषिभिः (*manīṣibhiḥ*)—by the priests
+- मृज्यमानः (*mṛjyamānaḥ*)—being purified
+- इषे (*iṣe*)—for the gain of food for us
+- धारया (*dhārayā*)—in a flowing stream
+- पवस्व (*pavasva*)—flow
+- रुचा (*rucā*)—with attractive foods
+- गाः (*gāḥ*)—the cattle
+- अभ्येहि (*abhyehi*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, being purified by the priests, flow in a stream for our gain of food. Approach the cattle with attractive foods.
+
+##### English translation
+Cleanscd **NOTE** by the priests, Indu, flow in a stream for (our) food; approach the cattle with food.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नो वरि॑वस्कृ॒ध्यूर्जं॒ जना॑य गिर्वणः ।  
+> हरे॑ सृजा॒न आ॒शिर॑म् ॥ १४ ॥
+
+### Printed p. 265
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । वरिवः । कृधि । ऊर्जम् । जनाय । गिर्वणः ।  
+> हरे । सृजानः । आऽशिरम् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणः गीर्भिर्वननीय हरे हरितवर्ण सोम आशिरं क्षीरं प्रति सृजानः विसृज्यमानः पुनानः पूयमानस्त्वं जनाय यजमानार्थं वरिवः धनम् ऊर्जम् अन्नं च कृधि कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, to be won by songs, green-tinted, being sent forth into the milk mixture and being purified, make wealth and food for the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O one to be won by praises
+- हरे (*hare*)—O Soma-deva, who are of green hue
+- आशिरं (*āśiraṃ*)—together with milk and other mixing substances
+- सृजानः (*sṛjānaḥ*)—being poured
+- पुनानः (*punānaḥ*)—being purified
+- जनाय (*janāya*)—for the sacrificer
+- वरिवः (*varivaḥ*)—wealth
+- ऊर्जं (*ūrjaṃ*)—and food
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, who are won by praises and are of green hue, being poured with milk and other mixing substances and being purified, make wealth and food for the sacrificer.
+
+##### English translation
+Green-tinted (Soma) lauded by hymns, being dropped into the curds and milk and being purified, bestow wealth and food upon rhe **NOTE** worshipper.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नो दे॒ववी॑तय॒ इंद्र॑स्य याहि निष्कृ॒तम् ।  
+> द्यु॒ता॒नो वा॒जिभि॑र्य॒तः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । देवऽवीतये । इंद्रस्य । याहि । निःऽकृतम् ।  
+> द्युतानः । वाजिऽभिः । यतः ॥ १५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 259. Sūkta 64 Ṛk 1-7, pp. 254-259
+**Progress note:** Done through printed p. 265. Mandala 9 sukta 64 rks 8-15 (pp. 260-265)
