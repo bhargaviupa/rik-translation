@@ -18,3 +18,5 @@
 - Nov 26 2026: user's own reading of the page images: p1012 `ಶ. ಬ್ರಾ. ೧೪-೧-೩-೩೮`, p1033 `ಐ. ಬ್ರಾ. ೮. ೨೦`, p1035 `೧೦-೮೩-೨` (the text had ೧೪-೧-೨-೩೪, ೨೦ with a mark, ೧-೯೩-೨). Listed in user_decisions_applied.tsv. Left: p1045 (7 marks) and p1071 one word.
 
 - Nov 26 2026: p1045 line 9, user's reading: `೯-೬೨[?]-೧೭[?] ರಿಂದ ೧೮` → `೯-೬೭-೧೬ ರಿಂದ ೧೭` (9-67-16 to 17; the print's `ರಿಂದ ೧೮` also read ೧೭ by the user). Left on p1045: ೧೦-೧೩೨[?]-೬[?], ೯-೬೫-೩೭[?] (line 9), ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?] (line 15).
+
+- Nov 26 2026: p1045 line 9, user's reading: `೧೦-೧೩೨[?]-೬[?]` → `೧೦-೧೩೨-೬` (10-132-6). Left on p1045: ೯-೬೫-೩೭[?] (line 9), ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?] (line 15).
