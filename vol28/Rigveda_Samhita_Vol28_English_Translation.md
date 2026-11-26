@@ -23095,6 +23095,136 @@ Those illiterate men who not commingle with good Brahmins and gods, and who do n
 
 The use is in the Somapravahaṇa: this Ṛk सर्वे नंदंति (*sarve naṃdaṃti*) is used. It is also laid down in the sūtra: सोम यास्ते मयोभुव इति तिस्रः सर्वॆ नंदंति यशसागतेन (*soma yāste mayobhuva iti tisraḥ sarvè naṃdaṃti yaśasāgatena*) (Ā. Sū. 4-4). The friends, of equal repute and equal knowledge, all the members of the assembly, rejoice because of Soma, which is glorious (यशसा (*yaśasā*)), has come to the sacrifice, is able to bear the assembly (सभासहेन (*sabhāsahena*)), and is the friend and surety of the priests. That very Soma is, for these people, किल्बिषस्पृत् (*kilbiṣaspṛt*). The man other than oneself who attains pre-eminence becomes a किल्बिष (*kilbiṣa*) by being to be repelled, as sin is to be repelled by right conduct; so Soma is the repeller of the enemy that is sin. Or else, the किल्बिष (*kilbiṣa*) that arises for those who, in the sacrifice, do not perform the proper recitation after the offering, he who repels that is किल्बिषस्पृत् (*kilbiṣaspṛt*). **NOTE**
 
+### Printed p. 670
+
+> तथा त्वं पितुषणिः । पितुरित्यन्ननाम दक्षिणा वा । तमनेन सोमेन सनोति
+> यजमानः संभजत इति तादृशः । तेषामन्नदक्षिणादातेत्यर्थः । किंच । हितः । पात्रेषु
+> निहितः सोमो वाजिनाय । इंद्रियं वीर्यं वाजिनं । तेषां वीर्याय तत्कर्तुमरमलं पर्याप्तः समर्थो भवति । सर्वे नंदंति यशसागतेनेत्यन्वाह यशो वै
+> सोमो राजेत्यादिकमििंद्रियं वै वीर्यं वाजिनमाजरसं हास्यै वाजिनं नापच्छिद्यत
+> इत्यंतं ब्राह्मणमत्रानुसंधेयं । ऐ. ब्रा. १-१३ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that, in the same way, you are the giver of food: पितु (*pitu*) is a name for food or for the sacrificial fee. The sacrificer shares this with the help of this Soma, so Soma is the bestower of food and fee on them. Further, Soma placed in the vessels is fit and able to bring about their vigour; इंद्रियं वीर्यं वाजिनं (*iṃdriyaṃ vīryaṃ vājinaṃ*) (indriya, vīrya and vājina are the same). He says that all rejoice at the coming with glory. The Brāhmaṇa beginning यशो वै सोमो राज (*yaśo vai somo rāja*) and ending *ityaṃtaṃ brāhmaṇaṃ* is to be kept in mind here (Ai. Brā. 1-13).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—those of equal knowledge
+- सर्वे (*sarve*)—all the priests (the learned)
+- सभासहेन (*sabhāsahena*)—that which is able to conduct the assembly of the learned
+- सख्या (*sakhyā*)—that which is a friend to the priests
+- आगतेन (*āgatena*)—that which is turned towards the sacrifice
+- यशसा (*yaśasā*)—and that which is glorious; by the coming of such a Soma
+- नंदंति (*naṃdaṃti*)—they rejoice
+- हि (*hi*)—because
+- हितः (*hitaḥ*)—Soma, who is in the sacrificial vessels
+- एषां (*eṣāṃ*)—to these priests
+- किल्बिषस्पृत् (*kilbiṣaspṛt*)—destroyer of sin (destroyer of enemies)
+- पितुषणिः (*pituṣaṇiḥ*)—giver of food
+- वाजिनाय (*vājināya*)—for the growth of their strength
+- अरं (*araṃ*)—being able
+- भवति (*bhavati*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+All the priests, who are of equal knowledge and are friends, rejoice at the coming of Soma, who is able to conduct the assembly of the learned, is a friend to the priests, is turned towards the sacrifice and is glorious. Soma, placed in the sacrificial vessels, becomes for these priests the destroyer of the enemy in the form of sin and the giver of food, and a helper for the growth of their strength.
+
+##### English translation
+When the friend Soma, the sin-remover and food-provider is prepared and placed at the altar all the friends (priests) express great joy at Soma's triumphant coming.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk, सर्वे नंदंति (*sarve naṃdaṃti*), is to be recited in the ancillary rite called Somapravahaṇa (bringing the Soma plants to the sacrificial altar) is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, सोम यास्ते मयोभुव इति तिस्रः सर्वे नंदंति यशसागतेन (*soma yāste mayobhuva iti tisraḥ sarve naṃdaṃti yaśasāgatena*) (Ā. 4-4).
+
+### Printed p. 671
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒चां त्वः॒ पोष॑मास्ते पुपु॒ष्पान्गा॑य॒त्रं त्वो॑ गायति॒  ॑
+> शक्व॑रीषु ।  
+> ब्र॒ह्मा त्वो॒ वद॑ति जातवि॒द्यां य॒ज्ञस्य॒ मात्रां॒ वि मि॑मीत  
+> उ त्वः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋचां । त्वः । पोषं । आस्ते । पुपुष्वान् । गायत्रं । त्वः । गायति । शक्वरीषु ।  
+> ब्रह्मा । त्वः । वदति । जातऽविद्यां । यज्ञस्य । मात्रां । वि । मिमीते । ऊं इति । त्वः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया होत्रादृत्विक्कर्मणां विनियोगमाचष्टे । त्व एको होतर्चां
+> पोषं यथाविधि कर्मणि प्रयोगं पुपुष्वान् । एको धातुरनुवादार्थः । बह्नीर्युचः पुष्यञ्यंसन्नास्ते । त्व एक उद्घाता शक्वरीषु । शक्वर्य ऋचः । आभिर्यग्निर्वृत्रं हंतुमिंद्रः समर्थोऽभूदिति शक्वर्यः । तासु गायत्रं साम गायति । त्व
+> एको ब्रह्मा च जातविद्यां जाते जाते कर्तव्ये प्रायश्चित्तादौ वेदयित्रिं वाचं
+> वदति । ब्रह्मा हि सर्वं वेदितुं योगो भवति खलु ॥ चादिलोपे विभाषेति न
+> निघातः ॥ त्व एकोऽध्वर्युश्च यज्ञस्य मात्रां यज्ञो यया मीयतेऽभिषवग्रहणादिकया क्रियया तां मात्रां यज्ञशरीरं वि मिमिते । अत्यर्थं निर्मिमिते ।
+> ऋचामेकः पोषमास्ते पुपुष्मान् होतर्गर्चनी । नि. १-८ । इत्यादिनिरुक्तानुसारेणार्थोऽभ्यधायि । एवं बृहस्पतिर्निदितवेदार्थं तुष्टाव ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk Sāyaṇa states the application (viniyoga) of the priestly functions beginning with the Hotṛ. One priest, the Hotṛ, has nourished the Ṛks, that is, has made them used in the rite according to rule; the root is repeated for emphasis. He sits down nourishing many Ṛks. Another, the Udgātṛ, sings the Gāyatra Sāman on the Śakvarī verses; Śakvarī verses are so called because with them Indra became able to slay Vṛtra. Another, the Brahmā, speaks the knowledge-bearing speech at each occurrence, in expiations and the like; the Brahmā is fit to know everything. Another, the Adhvaryu, measures out the measure of the sacrifice, the body of the sacrifice, by the acts such as pressing and taking up the Soma by which the sacrifice is measured. The meaning has been given according to the Nirukta beginning ऋचामेकः पोषमास्ते पुपुष्मान् (*ṛcāmekaḥ poṣamāste pupuṣmān*) (Ni. 1-8). Thus Bṛhaspati praised, knowing the meaning of the Veda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वः (*tvaḥ*)—one among the priests (the Hotṛ)
+- ऋचां (*ṛcāṃ*)—of the Ṛk mantras
+- पोषं (*poṣaṃ*)—pointing out their use
+- पुपुष्पान् (*pupuṣpān*)—reciting the mantras
+- आस्ते (*āste*)—remains
+- त्वः (*tvaḥ*)—another (the Udgātṛ)
+- शक्वरीषु (*śakvarīṣu*)—with the verses called Śakvarī (bound in metre)
+- गायत्रं (*gāyatraṃ*)—the Gāyatra Sāman
+- गायति (*gāyati*)—recites in the form of song
+- त्वः ब्रह्मा (*tvaḥ brahmā*)—another, in the form of Brahmā
+- जातविद्यां (*jātavidyāṃ*)—sentences that instruct about the rite
+- वदति (*vadati*)—recites
+- त्वः (*tvaḥ*)—another (the Adhvaryu)
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- मात्रां (*mātrāṃ*)—the body
+- वि मिमीते (*vi mimīte*)—measures out
+
+##### भावार्थ (Bhāvārtha)
+
+The Hotṛ, one of the priests, points out and recites the Ṛk mantras useful for the rites. The Udgātṛ joins the Gāyatra Sāman to the Ṛks called Śakvarī and recites it in song. The Brahmā recites (makes known) sentences that instruct about rites such as expiations. The Adhvaryu gives the sacrifice a form and conducts it.
+
+##### English translation
+As the sacrifice proceeds, one (Hoti priest) utters Riks (verses of Rigveda) and thus helps the sacrifice; another sings Gayatra (a verse of
+
+### Printed p. 672
+Samaveda) in a loud Sakvari metre ; still another, Brahma priest looks after the sacrifice and gives instructions for rectifying defects ; the last one (Adhvaryu priest) being in charge of the sacrifice conducts it in proper form.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation of this Ṛk. In it the duties that the priests must perform in the sacrifice are indicated:
+ऋचां त्वः पोषमास्ते पुपुष्वान्गायत्रं त्वो गायति शक्वरीषु । ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां विमिमात उ त्वः ॥ (*ṛcāṃ tvaḥ poṣamāste pupuṣvāngāyatraṃ tvo gāyati śakvarīṣu | brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vimimāta u tvaḥ ‖*)
+इत्यृत्विक्कर्मणां विनियोगमाचष्टे । ऋचामेकः पोषमास्ते पुपुष्टान् होतर्गर्चनी गायत्रमेको गायति शक्वरीषूद्गाता । गायत्रं गायतेः स्तुतिकर्मणः । शक्वर्य ऋचः शक्नोतेः । तद्यदाभिर्वृत्रमशकद्धंतुं तच्छक्वरीणां शक्वरीत्वमिति विज्ञायते। ब्रह्मैको जाते जाते विद्यां वदति । ब्रह्मा सर्वविद्यः सर्वं वेदितुमर्हति । ब्रह्मा परिवृळ्ळः श्रुततो ब्रह्म वरिवृळ्ळं सर्वतः । यज्ञस्य मात्रां विमिमित एकोऽध्वर्युः । अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा । आपि नाधियाने युरुपबंधः । अध्वर इति यज्ञनाम । ध्वरतिर्हिंसाकर्मा तत्पतिषेधः ॥ (*ityṛtvikkarmaṇāṃ viniyogamācaṣṭe | ṛcāmekaḥ poṣamāste pupuṣṭān hotargarcanī gāyatrameko gāyati śakvarīṣūdgātā | gāyatraṃ gāyateḥ stutikarmaṇaḥ | śakvarya ṛcaḥ śaknoteḥ | tadyadābhirvṛtramaśakaddhaṃtuṃ tacchakvarīṇāṃ śakvarītvamiti vijñāyate| brahmaiko jāte jāte vidyāṃ vadati | brahmā sarvavidyaḥ sarvaṃ veditumarhati | brahmā parivṛḷḷaḥ śrutato brahma varivṛḷḷaṃ sarvataḥ | yajñasya mātrāṃ vimimita eko 'dhvaryuḥ | adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā | āpi nādhiyāne yurupabaṃdhaḥ | adhvara iti yajñanāma | dhvaratirhiṃsākarmā tatpatiṣedhaḥ ‖*) (Ni. 8-8)
+In this Ṛk the application of the various acts that the priests must perform in the sacrifice is stated. In the four pādas of this Ṛk the duties of four priests are indicated: in the first pāda the duty of the Hotṛ, in the second that of the Udgātṛ, in the third that of the priest called Brahmā, and in the fourth that of the priest called Adhvaryu. They will now be explained one by one.
+
+ऋचां त्वः पोषमास्ते पुपुष्वान् (*ṛcāṃ tvaḥ poṣamāste pupuṣvān*)—ऋचामेकः पोषमास्ते पुपुष्वान् होतर्गर्चनी ॥ (*ṛcāmekaḥ poṣamāste pupuṣvān hotargarcanī ‖*)
+Here त्वः (*tvaḥ*) means "one", a priest. While the sacrificial act goes on, one priest nourishes the Ṛks; that is, he recites the Ṛk mantras suited to the respective rites and keeps the sacrificial act going forward. The Ṛk mantra must be used in doing sacrifices and the like; that is, whether invoking the deities or praising them, the Ṛks of the Ṛgveda alone must always be recited. Reciting these Ṛks is the duty of the priest called Hotṛ. He must have studied the Ṛgveda with its auxiliaries (aṅgas)
+
+### Printed p. 673
+and must know well the meaning and application of those mantras, and when and how they are to be used in the various acts of the sacrifice. This is the Hotṛ's duty; this is what is said in this pāda.
+
+गायत्रं त्वो गायति शक्वरीषु (*gāyatraṃ tvo gāyati śakvarīṣu*)—गायत्रमेको गायति शक्वरीषूद्गा ता गायत्रं गायतेः स्तुतिकर्मणः । शक्वर्य ऋचः शक्नोतेः । तद्यदाभिर्वृत्रमशकद्धंतुं तच्छक्वरीणां शक्वरीत्वमिति विज्ञायते ॥ इ (*gāyatrameko gāyati śakvarīṣūdgā tā gāyatraṃ gāyateḥ stutikarmaṇaḥ | śakvarya ṛcaḥ śaknoteḥ | tadyadābhirvṛtramaśakaddhaṃtuṃ tacchakvarīṇāṃ śakvarītvamiti vijñāyate ‖ i*)
+Another priest sings the Sāman mantra called Gāyatra with the mantras of the Śakvarī metre. The priest who sings Sāman mantras in this way is called Udgātṛ. He must have studied the Sāmaveda well and know well the nature of the stomas such as the trivṛt. Singing Sāmans in the sacrifice to please the deities is the duty of this Hotṛ called Udgātṛ. Here the word गायत्रं (*gāyatraṃ*) is formed from the root गै (*gai*), meaning "praise, sing". शक्वर्यः (*śakvaryaḥ*) means the Ṛks of the Śakvarī metre. The word शक्वरी (*śakvarī*) is formed from the root शक्कोति (*śakkoti*), meaning "be able, be capable". Praised with these Ṛks of the Śakvarī metre, Indra became able to slay Vṛtra; therefore the Ṛks of this metre came to be called Śakvarī metres, and there is a Śruti sentence to this effect as well.
+
+ब्रह्मा त्वो वदति जातविद्यां (*brahmā tvo vadati jātavidyāṃ*)—ब्रह्मैको जाते जाते विद्यां वदति । ब्रह्मा सर्व विद्यः सर्वं वेदितुमर्हति । ब्रह्मापरिवृळ्पः श्रुततो ब्रह्म परिवृळ्पंसर्वतः॥ (*brahmaiko jāte jāte vidyāṃ vadati | brahmā sarva vidyaḥ sarvaṃ veditumarhati | brahmāparivṛḷpaḥ śrutato brahma parivṛḷpaṃsarvataḥ‖*)
+While the sacrifice is going on, another priest, called Brahmā, watches whether the sacrificial act is proceeding correctly, and if any deviations or defects occur in the ancillary acts, he prescribes the proper expiations and the like and brings the sacrifice to a complete conclusion. Looking after the supervision of the sacrifice is the duty of the priest called Brahmā. He must have studied the three Vedas and be master of all knowledge. Scholarship in the sciences alone is not enough for him; he must have all-round diligence in the ancillary acts of the sacrifice and in their conduct. Such a Brahmā, capable and master of all knowledge, tells the Hotṛ and the other priests on the respective occasions which mantras to recite, tells the Udgātṛ which Sāman to sing, and tells the Adhvaryu and other priests how to act in the proceedings of the sacrifice (वदति (*vadati*)).
+
+यज्ञस्य मात्रां विमिमात उ त्वः (*yajñasya mātrāṃ vimimāta u tvaḥ*)—यज्ञस्य मात्रां विमिमात एकोऽध्वर्युः। अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा । अपि वाधीयाने युरुपबंधः । अध्वर इति यज्ञनाम । ध्वरतिर्हिंसाकर्मा तत्प्रतिषेधः ॥ (*yajñasya mātrāṃ vimimāta eko 'dhvaryuḥ| adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā | api vādhīyāne yurupabaṃdhaḥ | adhvara iti yajñanāma | dhvaratirhiṃsākarmā tatpratiṣedhaḥ ‖*)
+
+### Printed p. 674
+Yet another priest, called Adhvaryu, engaged in the various proceedings of the sacrifice, gives the sacrifice a form and makes it go on in an order. That is, after one act in the sacrifice, which act must be done next, by whom, how and at what time: taking interest in all these proceedings, he must have the various priests do their respective acts, and must himself perform the acts that are his duty. All this, that is, all the duties connected with carrying out the work, belongs to the Adhvaryu. He must have studied the Yajurveda with its auxiliaries and have gained knowledge of the nature of the sacrificial acts and experience of how they are to be done. Such a priest, the Adhvaryu, making the small and the great acts to be done in the sacrifice proceed one after another in order, and having them done by the other priests, gives the sacrifice a definite form and makes it proceed in due order. This is his duty. अध्वर्युः (*adhvaryuḥ*) is अध्वरयुः (*adhvarayuḥ*): अध्वरयु (*adhvarayu*) is one who desires the sacrifice, or अध्वरस्य नेता (*adhvarasya netā*), one who directs how the sacrifice is to proceed, the guide (leader) of the sacrifice. The word अध्वर (*adhvara*) means sacrifice. ध्वरतिः हिंसाकर्मा तत्त्रितिषेधः (*dhvaratiḥ hiṃsākarmā tattritiṣedhaḥ*)—ध्वर (*dhvara*) is violence; an act without such violence is called अध्वर (*adhvara*) (sacrifice): thus the formation of the word अध्वर (*adhvara*) is stated.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+इति श्रीमद्राजाधिराजपरमेश्वर वैदिकमार्गप्रवर्तक श्रीवीरबुक्क भूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्येष्टमाष्टके द्वितीयोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvara vaidikamārgapravartaka śrīvīrabukka bhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣyeṣṭamāṣṭake dvitīyo 'dhyāyaḥ samāptaḥ ‖*)
+॥ ओं तत्स्यत् ॥ (*‖ oṃ tatsyat ‖*)
+Here ends the second chapter in the eighth Aṣṭaka of the Ṛgveda Saṃhitā, with Sāyaṇa's commentary and a Kannada translation.
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ॥ तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet ‖ tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+॥ शुभं भूयात् । । मंगळं । (*‖ śubhaṃ bhūyāt | | maṃgaḷaṃ |*)
+
 ---
 
-**Progress note:** Done through printed p. 669. pp. 664-669 (batch API)
+**Progress note:** Done through printed p. 674. pp. 670-674 (batch API)
