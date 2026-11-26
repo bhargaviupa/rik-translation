@@ -2163,6 +2163,125 @@ This sūkta, beginning दिवस्परि (*divaspari*), is the third sūk
 
 Sūkta 45. Maṇḍala 10. Anuvāka 4. Sūkta 85. Aṣṭaka 7. Adhyāya 8. Vargas 24, 29. Number of Ṛks in the sūkta: 12. Seer: Vatsapri. Deity: Agni. Metre: Triṣṭubh.
 
+### Printed p. 55
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वस्परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर॒स्मद्वि॒तीयं॒ परि॑ जा॒तवे॑दाः ।  
+> तृ॒तीय॑म॒प्पु नृ॒मणा॒ अज॑स्र॒मिंधा॑न एनं जरते स्वा॒धीः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । परि । प्रथमं । जज्ञे । अग्निः । अस्मत् । द्वितीयं । परि । ज्ञातवेदाः ।  
+> द्वितीयं । अप्सु । सृमनाः । आजस्रं । इंधानः । एनं । जरते । सुआधीः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निः प्रथमं पूर्वं दिवो द्युलोकस्य पर्युपर्यादित्यात्मना जज्ञे
+> जातः । जातवेदा जातप्रज्ञो जातधनो वाग्निर्द्वितीयमस्मदस्माकं पर्युपरि
+> पार्थिवात्मना जज्ञे । नृमणा नृषु मनुष्येष्टनुग्राहकतयासक्तचित्तोऽग्निस्तृतीयमप्संतरिक्षे वैद्युतात्मना जज्ञे । एवंविधमेनमग्निं स्वाधीः सुप्रज्ञा ताजस्रमनवरतमिंधानो दीपयञ्चरते । स्तौति । यद्दा । वाजसनेयकोक्तप्रकारेणास्म
+> मंत्रस्यार्थो द्रष्टव्यः । तद्यथा । दिवस्परि प्रथमं जज्ञे अग्निरिति प्राणो वै द्यौः
+> प्राणाद्वा एष प्रथममजायतास्मद्वितीयं परि जातवेदा इति यदेनमदो
+> द्वितीयं पुरुषविधोऽजनयत्कृतीयमप्सिति यदेनमदस्तृतीयमद्भोऽजनयन्मणा अजस्रमिति प्रजापतिर्वै नृमणा अग्निरजस्रमिंधान एनं जरते स्वाधीरिति
+> यो वा एनमिंधे स एनं जनयते स्वाधीः । शत ६-७-४.३ । इति ॥
+
+**NOTE**
+
+> विद्युदादि रूपगळल्लि अंतरिक्षदल्लि जनिसिदनु. उत्तमवाद प्रज्ञॆयुळ्ळ ऋषियु यावागलू अग्नि
+> यन्नु प्रज्वलिसुवंतॆ माडुत्त स्तुतिसुत्तानॆ.
+
+##### Gist of the bhāṣya
+
+Agni was born first, above (परि (*pari*)) the heavenly world, in the form of the Sun. Jātavedas, meaning either "one whose wisdom is born" or "one whose wealth is born", was born second, above us, in the form of the earthly fire. Nṛmaṇāḥ, "one whose mind is attached to men by way of favour towards them", was born third in the waters, that is, in the atmosphere, in the form of lightning. The Svādhīḥ, the one of good wisdom, praises this Agni, kindling him without cease.
+Or else the meaning of this mantra should be seen according to the manner stated by the Vājasaneyins. Sāyaṇa quotes the Brāhmaṇa (Śata. 6-7-4.3): breath is heaven, and from breath he was first born; "second" means that when the man-shaped one begot him, and "third in the waters" means that when the waters begot him the third time; Prajāpati is Nṛmaṇāḥ; "whoever kindles him begets him"; and so on to Svādhīḥ. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- प्रथमं (*prathamaṃ*)—first
+- दिवः परि (*divaḥ pari*)—in the upper part of the heavenly world
+- जक्ष्मी (*jakṣmī*)—was born
+- जातवेदाः (*jātavedāḥ*)—in the form of Jātavedas
+- द्वितीयं (*dvitīyaṃ*)—the second time
+- अस्मत् परि (*asmat pari*)—was born upon our world, the earth
+- तृतीयं (*tṛtīyaṃ*)—the third time
+- नृमनाः (*nṛmanāḥ*)—Agni, who is beneficial to men
+- अप्पु (*appu*)—was born in the atmosphere
+- एनं (*enaṃ*)—this Agni, who has such greatness
+- स्वाधीः (*svādhīḥ*)—the seer of excellent wisdom
+- अजस्रं (*ajasraṃ*)—always
+- इंधानः (*iṃdhānaḥ*)—causing him to blaze
+- जरते (*jarate*)—praises
+
+##### भावार्थ (Bhāvārtha)
+
+Agni was born the first time above the heavenly world; the second time he was born on the earth in the form of Jātavedas. That same Agni, beneficial to men, was born the third time in the atmosphere
+
+### Printed p. 56
+in forms such as lightning. The seer of excellent wisdom praises Agni, always making him blaze.
+
+##### English translation
+Agni was first born above the sky; as Jatavedas he was born the second time amongst us: the friend of man, he was born the third time in the waters; the sage kindling him eternally praises him.
+
+##### विशेषविषयगळु (Special Topics)
+
+The description of the greatness of Agni, who pervades the universe and sustains it, is in Sūkta 10-45 extremely poetic. The manifestations of Agni, who is without birth and immortal, in his different forms are here denoted as the varieties of his birth. The Saṃhitā and other texts declare that all the other deities are only varieties of this Agni, who is without beginning, without a second and all-pervading. Agni, the sovereign of the whole universe, shines in the three worlds in three kinds of forms and is famed by three names. Āditya in the heavenly world and Indra of the middle world are only other forms of this Agni and nothing different. There are also many subordinate varieties relating to terrestrial Agni. Thus the aim of the present sūkta is to praise the greatness of Agni, who displays his own nature in many forms and sustains and nourishes the universe.
+1) The manifestation of Agni in three forms in the three worlds.
+2) The three forms visible to the perception of the world, and the divine nature that lies hidden within.
+3) Agni's leadership of the sacrifice and, through it, his sustaining of the universe, and similar matters, are described in the present sūkta. The first Ṛk states the threefold order of Agni's birth. Although this matter was touched upon briefly earlier, when the purport of the Ṛk beginning श्रीणि जाना (*śrīṇi jānā*) was explained, here its detail is set out at length; many passages that bear on the birth of Agni are cited and the special points of the several contexts are given. **NOTE**
+The purport of the first Ṛk is: "Agni was first born in the heavenly world. Afterwards, in the form of Jātavedas, he was born on the earth. That same Agni, a friend to men, was born the third time in the atmosphere."
+द्युलोकस्य उपरि आदित्यात्मना जातः द्वितीयं पार्थिवात्मना जच्छे तृतीयं अंतरिक्षे वैद्युतात्मना जच्छे (*dyulokasya upari ādityātmanā jātaḥ dvitīyaṃ pārthivātmanā jacche tṛtīyaṃ aṃtarikṣe vaidyutātmanā jacche*) — Sāyaṇa's explanation is that the Agni who is of the nature of Āditya in the heavenly world and of the nature of lightning in the atmosphere was born also on the earth, in the form of terrestrial Agni. Such transformations of Agni will be set out in the special topics of the next Ṛk. What are the kinds of his birth? What are the sources of the birth? What are the forms of the birth? How these points are described is examined here.
+
+### Printed p. 57
+The passages that explain the birth of Agni are many, and to one who looks at them superficially they seem to contradict one another. But on close examination no contradiction remains. It is said that the first birth of Agni is in the heavenly world. How is that? The order of the birth is explained at length.
+**The birth of Agni in the heavenly world**
+स जायमानः परमे व्योमन्याविरग्नि रभवन्मातरिश्वने । अस्य क्रत्वा समिधानस्य मज्मना प्र द्यावा शोचिः पृथिवी आरोचयत् ॥ (*sa jāyamānaḥ parame vyomanyāviragni rabhavanmātariśvane | asya kratvā samidhānasya majmanā pra dyāvā śociḥ pṛthivī ārocayat ‖*) (Ṛ. Saṃ. 1-143-2)
+When the purport of this mantra was explained earlier, the account of how Agni became manifest before Mātariśvan was given. In this mantra the manifestation of Agni in the three worlds, in three different ways, is also indicated.
+First: मातरि अंतरिक्षे श्वसिति प्राणिति सूर्यरूपेण चेष्टत इति सूर (*mātari aṃtarikṣe śvasiti prāṇiti sūryarūpeṇa ceṣṭata iti sūra*) — the one who moves in the atmosphere in the form of the Sun (Sūra).
+Second: the Agni who is of the nature of wind.
+Third: the sacrificer on earth who carries out the sacrifice. This is the purport given.
+Since it is said that the Agni who is visible in these three forms made all three worlds shine, the identity of Agni and Mātariśvan is shown.
+उदु ष्टुतः समिधा यहो अद्यौद्वर्मन्बिवो अधि नाभा पृथिव्याः । मित्रो आग्निरीड्यो मातरिश्वा दूतो वक्षद्यजथाय देवान् ॥ (*udu ṣṭutaḥ samidhā yaho adyaudvarmanbivo adhi nābhā pṛthivyāḥ | mitro āgnirīḍyo mātariśvā dūto vakṣadyajathāya devān ‖*) (Ṛ. Saṃ. 3-5-9)
+In passages such as this the word Mātariśvan is explained as a word that tells a special quality of Agni. If it is asked what the original form of Agni was, before he took manifestation in these forms, the answer is as follows.
+असच्चॆ सच्च परमे व्योमन्नहस्य जन्मन्नदिशेरुपस्थे । अग्निर्ह नः प्रथमजा यतस्य पूर्व आयुनि वृशभश्च धेनुः ॥ (*asaccè sacca parame vyomannahasya janmannadiśerupasthe | agnirha naḥ prathamajā yatasya pūrva āyuni vṛśabhaśca dhenuḥ ‖*) (Ṛ. Saṃ. 10-5-7)
+
+### Printed p. 58
+In the supreme divine world, the seat of Dakṣa, Agni was first, in an unmanifest form and in a manifest form, the overseer of all the affairs of the world. Afterwards he was born before all the creatures of the world; thus both the supramundane and the mundane forms of Agni are described. His first birth in the heavenly world is in the form of Āditya, and his eternal radiance is there itself.
+स जायमानः परमे व्योमनि व्रतान्यग्निर्वतपा अरक्षत । व्यंतरिक्षममिमीत सुक्रतुर्वैश्वानरो महिना नाकमस्पृशत् ॥ (*sa jāyamānaḥ parame vyomani vratānyagnirvatapā arakṣata | vyaṃtarikṣamamimīta sukraturvaiśvānaro mahinā nākamaspṛśat ‖*) (Ṛ. Saṃ. 6-8-2)
+Agni, called Vaiśvānara, born in the highest sky in the form of the Sun, protects the sacred rites. This same Agni has built the three worlds. Established in the heavenly world by his greatness, he shines. Such descriptions are praises of Agni in the form of Āditya.
+शुचिं न यामन्निषिरं स्वर्द्भशं केतुं दिवो रोचनस्थामुषर्बुधं । अग्निं मूर्धानं दिवो अप्रतिष्टुतं तमीमहे नमसा वाजिनं बृहत् ॥ (*śuciṃ na yāmanniṣiraṃ svardbhaśaṃ ketuṃ divo rocanasthāmuṣarbudhaṃ | agniṃ mūrdhānaṃ divo apratiṣṭutaṃ tamīmahe namasā vājinaṃ bṛhat ‖*) (Ṛ. Saṃ. 3-2-14)
+This Agni is the chief of the heavenly world. He is one who shines in the heavenly world, a great one, the one who makes the heavenly world known. We worship this Agni, who is worshipful in the sacrifice. Such praises denote Agni in the form of Āditya. The greatness of this Agni in the form of Āditya is as follows:
+यो विश्वाभि विपश्यति भुवना सं च पश्यति । स नः वर्षदति द्विषः ॥ (*yo viśvābhi vipaśyati bhuvanā saṃ ca paśyati | sa naḥ varṣadati dviṣaḥ ‖*) (Ṛ. Saṃ. 10-187-4)
+यो अस्य पारे रजसः शुक्रो अग्निरजायत । स नः वर्षदति द्विषः ॥ (*yo asya pāre rajasaḥ śukro agnirajāyata | sa naḥ varṣadati dviṣaḥ ‖*) (Ṛ. Saṃ. 10-187.5)
+The Agni in the form of the Sun, who by his radiance makes all the worlds shine, who can see all the worlds, who shines with his light in a high region beyond the region of the atmosphere, that same Agni can protect us all. This Agni in the form of Āditya is born in the heavenly world.
+असौ ना आदित्य एष रुक्मस्त्वितीव वा असावादित्योऽथो, . . . दुर्मरं वा एतस्यायुः श्रियो एष रोचतेग्निरम्यतोऽभवद्वयोभिरिति सर्वैदा एष वयोभिरमृतोऽभवद्यदेनं द्यौरजनयदिति द्यौर्वा एतमजनयत्सुरेशा इति सुरेता एषा यस्या एषरेतः ॥ (*asau nā āditya eṣa rukmastvitīva vā asāvādityo 'tho, . . . durmaraṃ vā etasyāyuḥ śriyo eṣa rocategniramyato 'bhavadvayobhiriti sarvaidā eṣa vayobhiramṛto 'bhavadyadenaṃ dyaurajanayaditi dyaurvā etamajanayatsureśā iti suretā eṣā yasyā eṣaretaḥ ‖*) (Ka. Brā. 6-7.22) **NOTE**
+
+### Printed p. 59
+The golden disc of Āditya shines in the heavenly world with its immortal radiance. This is the power of Agni, who pervades all the worlds. The heavenly world bears this Agni in the form of Āditya. Because the heavenly world bore this Agni in its womb, it was as though it bore an excellent child. In this way and the like, the praise of the Agni born in the heavenly world occurs.
+**Praise of the lightning Agni born in the atmosphere**
+Agni who dwells in the atmosphere, shining in the form of lightning, is described as अपां नपात् (*apāṃ napāt*), अपां गर्बः (*apāṃ garbaḥ*) and so on.
+प्र केतुना बृहता यात्यग्निरा रोदसी वृषभो रोरवीति । दिवश्चिदंता उपमा उदानळपामुपस्थे महिषो ववर्ध ॥ (*pra ketunā bṛhatā yātyagnirā rodasī vṛṣabho roravīti | divaścidaṃtā upamā udānaḷapāmupasthe mahiṣo vavardha ‖*) (Ṛ. Saṃ. 10-8-1)
+The lightning Agni, born of the water that dwells in the atmosphere, who lies and plays on the lap of the waters, pervades heaven and earth entire. He bellows like a bull. In this way the praise of the Agni born in the atmosphere occurs. This same Agni is also designated Āpta. Although Agni is born also of the water that is on earth, the word Āpta is, in general, a qualifier only of the lightning Agni born of the water dwelling in the atmosphere. In the contexts where there is a description such as धनोरधि प्रवतः (*dhanoradhi pravataḥ*) (Ṛ. Saṃ. 1-144-5), this point is clear.
+स श्शितानस्तन्यतू रोचनस्था अजरेभिर्नानदद्भर्यविष्ठः । यः पादकः पुरुतमः पुरूणि पृथून्यग्निरनुयाति भर्वन् ॥ (*sa śśitānastanyatū rocanasthā ajarebhirnānadadbharyaviṣṭhaḥ | yaḥ pādakaḥ purutamaḥ purūṇi pṛthūnyagniranuyāti bharvan ‖*) (Ṛ. Saṃ. 6.6-2)
+In passages such as this the description of the lightning Agni is clear. This Agni in the form of lightning shines exceedingly. Shining in the atmosphere he produces a great sound. He spreads and pervades with rays that are undiminishing and sound-making. Thus he is praised. The description that Agni is born of the water of the atmosphere is very frequent in the Ṛksaṃhitā.
+वनेषु व्यंन्तरिक्षं तशान वाजमर्वत्सु पय उस्रियासु । हृत्तु क्रतुं वरुणो अप्पंग्निं दिवि सूरमदधात्सोमदौ ॥ (*vaneṣu vyaṃntarikṣaṃ taśāna vājamarvatsu paya usriyāsu | hṛttu kratuṃ varuṇo appaṃgniṃ divi sūramadadhātsomadau ‖*) (Ṛ. Saṃ. 5-85-2)
+Where it is said that the god Varuṇa placed Agni in the water just as he placed Āditya and the others in the heavenly world and the rest, the purport is that the word अप् (*ap*) means the water of the atmosphere, and that the Agni placed in it is the lightning Agni. The statement "तृतीयमप्पु (*tṛtīyamappu*)" in the present Ṛk is likewise a praise of this lightning Agni.
+
+### Printed p. 60
+**The glory of terrestrial Agni**
+**The many kinds of birth of Agni on the earth**
+This matter has been touched upon briefly in some places earlier; yet, since it is the main subject here, only some points not stated before are indicated. Agni, produced for the sacrifice by the act of churning in the aranis (fire-sticks), and so on: thus the praise of terrestrial Agni occurs. In many contexts this description is in excellent poetic form. For example:
+उत स्म यं शिशुं यथा नवं जनिष्टारणे । धर्तारं मानुषीणां विशामग्निं स्वध्वरं ॥ (*uta sma yaṃ śiśuṃ yathā navaṃ janiṣṭāraṇe | dhartāraṃ mānuṣīṇāṃ viśāmagniṃ svadhvaraṃ ‖*) (Ka. Ka. Ka. Ka.) **NOTE**
+The aranis have produced Agni, the sustainer of all men and the one with an excellent sacrifice, as one gives birth to a new child; thus the relation of mother and son between the aranis and Agni is shown. **NOTE**
+Just as the water that dwells in the atmosphere is the source of the birth of Agni, so too the water of the earth is a source of his birth. The plants and the trees bear him like a womb.
+अपां गर्भं दर्शतमोषधीनां वना जजान सुभगा विरूपं । देवासश्चिन्मनसा सं हि जग्मुः पनिष्कं जातं तवसं दुवस्मन् ॥ (*apāṃ garbhaṃ darśatamoṣadhīnāṃ vanā jajāna subhagā virūpaṃ | devāsaścinmanasā saṃ hi jagmuḥ paniṣkaṃ jātaṃ tavasaṃ duvasman ‖*) (Ṛ. Saṃ. 3-1-15)
+The attractive aranis produced Agni, who is the womb-child of the waters and the plants. The gods too approached this worshipful Agni and praised him. In this way the order of the birth of the sacrificial Agni is told. Since this point has been explained in many contexts up to here, it need not be set out here.
+Besides the threefold birth described thus in the three worlds, many other kinds of birth are also told. For example:
+एता उ त्याः प्रत्यदृश्रन्नुरस्ताज्योतिर्यच्छंतीरुषसो विभातीः । अजेजननद्स्सर्यं यज्ञमग्निमपाचीनं तमो अगाढभुत् ॥ (*etā u tyāḥ pratyadṛśrannurastājyotiryacchaṃtīruṣaso vibhātīḥ | ajejananadssaryaṃ yajñamagnimapācīnaṃ tamo agāḍhabhut ‖*) (Ṛ. Saṃ. 7.28.1)
+The shining dawns have spread their radiance. The same dawns have produced the sun and the sacrificial Agni. This Agni is the son of the three worlds. How is that?
+यं त्वा द्यावापृथिवी यं त्वापश्वस्टा यं त्वा सुजनिमा जहानः । पंथामनु प्रविद्वान्तित्रयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpaśvasṭā yaṃ tvā sujanimā jahānaḥ | paṃthāmanu pravidvāntitrayāṇaṃ dyumadagne samidhāno vi bhāhi ‖*) (Ṛ. Saṃ. 10-26)
+
 ---
 
-**Progress note:** Done through printed p. 54. pp. 49-54 (batch API), Pratipadārtha line un-quoted in kn.md
+**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
