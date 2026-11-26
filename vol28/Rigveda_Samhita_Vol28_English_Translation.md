@@ -7602,6 +7602,180 @@ Concerning sūktas 51, 52 and 53, which deal with Saucīka Agni, the great sage 
 
 Agni, famed under names such as Vaiśvānara, Gṛhapati and Pāvaka, had three brothers. Their names were Bhūpati, Bhuvanapati and Bhūtānāṃ Pati. Among these brothers Agni was the youngest. Formerly Agni's three elder brothers used to carry to the gods, and make reach them, the offerings that sacrificers make with the vaṣaṭ-call in sacrifices and the like. According to the śruti sentence वज्रो वै वषट्कारः । वज्र मेव भातृवेभ्यः प्रहरति । (*vajro vai vaṣaṭkāraḥ | vajra meva bhātṛvebhyaḥ praharati |*), if there is even a little excess or deficiency in the vaṣaṭ offerings, it strikes like a thunderbolt both those who utter the mantra and those who carry the oblation. Therefore Agni's elder brothers, who carried the vaṣaṭ offerings to the gods, met death through the blow of the vaṣaṭ-call. Seeing this, the youngest, Saucīka Agni, thinking that the same fate would befall him,
 
+### Printed p. 254
+
+…and afraid, he ran far away from the gods. This matter is stated in the Śruti passages themselves.
+
+स प्राविशदपक्रम्य ऋतूनपो वनस्पतीन् (*sa prāviśadapakramya ṛtūnapo vanaspatīn*) (62)
+ततोऽसुराः प्रादुरासन्नष्टेऽग्नौ हव्यवाहने (*tato 'surāḥ prādurāsannaṣṭe 'gnau havyavāhane*)
+तेऽग्निमेवान्ववैक्षंत देवा हत्वासुरान्युधि (*te 'gnimevānvavaikṣaṃta devā hatvāsurānyudhi*) (63)
+तं तु दूराद्यमश्चैव वरुणश्चान्वपश्यतां (*taṃ tu dūrādyamaścaiva varuṇaścānvapaśyatāṃ*)
+उभावेनं समादाय देवानेवाभिजग्मतुः (*ubhāvenaṃ samādāya devānevābhijagmatuḥ*) (64)
+
+Agni left the gods and ran away. He entered the seasons, the trees and the waters and hid himself so that no one could see him. After Agni had gone, war broke out between the gods and the asuras, and the gods killed the asuras in battle and became victorious. Afterwards, not seeing Agni, who used to carry the oblations to them, they searched for him in all places. Then Yama and Varuṇa, who were among the gods, saw the place where Agni was, took him along with them, and went to the gods.
+
+दृष्ट्वा देवास्तेनमूचुरग्ने हव्यानि नो वह (*dṛṣṭvā devāstenamūcuragne havyāni no vaha*)
+वरान् गृहाण चास्मत्तश्चित्रभानो भजस्व नः (*varān gṛhāṇa cāsmattaścitrabhāno bhajasva naḥ*)
+देवयानान् सुगान् पथः कुरुष्प सुमनाः स्वयं (*devayānān sugān pathaḥ kuruṣpa sumanāḥ svayaṃ*) (65)
+प्रत्युवाच तानग्निर्विश्वे देवा यदूच मां (*pratyuvāca tānagnirviśve devā yadūca māṃ*)
+तत्करिष्ये जुषंतां तु होत्रं पंच जना मम (*tatkariṣye juṣaṃtāṃ tu hotraṃ paṃca janā mama*) (66)
+
+The gods saw that Agni had come to them and said: "O Agni, you shine with a wondrous, manifold radiance. From now on you must bring and carry to us the oblations that the sacrificers offer in the sacrifice. Ask for whatever boons you wish; we shall give them." Agni replied: "O gods, I shall do just as you say. But the five peoples (pañcajanāḥ) must accept my office of Hotṛ, that is, my priesthood, and become my helpers."
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ*)
+उत्तरो दक्षिणश्चाग्निरेते संच जनाः स्मृताः (*uttaro dakṣiṇaścāgnirete saṃca janāḥ smṛtāḥ*) (67)
+
+An explanation is necessary on the question who the five peoples are here, so it is given. There are differences of opinion on this matter, and some of them are set out here. By difference of position Agni is known to be of five kinds: (1) the fire established near the door of the sacrificial hall; (2) the fire that is brought, according to rule and with mantras, from the place of fire-churning to the northern altar and installed on the sacrificial altar; (3) the fire called Gṛhapati (the guardian of the house), established in the house of the sacrificer or in the sacrificial house
+
+### Printed p. 255
+
+; (4) the Āhavanīya fire on the northern altar; (5) the fire called Dakṣiṇāgni. Some say that these five kinds of fire are the five peoples.
+
+मनुष्याः पितरो देवा गंधर्वोरसराक्षसाः (*manuṣyāḥ pitaro devā gaṃdharvorasarākṣasāḥ*)
+गंधर्वाः पितरो देवा असुरा यक्षराक्षसाः (*gaṃdharvāḥ pitaro devā asurā yakṣarākṣasāḥ*) (68)
+यास्येमन्यवावेतानाहतुः पंच वै जनान् (*yāsyemanyavāvetānāhatuḥ paṃca vai janān*)
+
+Men, fathers, gods, gandharvas, serpents, rākṣasas — or gandharvas, fathers, gods, asuras, yakṣas and rākṣasas: these five groups are the five peoples, according to the teachers Yāska and Aupamanyava.
+
+निषादपंचमान् वर्णान्यंते शाकटायनः (*niṣādapaṃcamān varṇānyaṃte śākaṭāyanaḥ*) (69)
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate*)
+होताध्वर्युस्तथोद्गाता ब्रह्मा चेति वदंति तान् (*hotādhvaryustathodgātā brahmā ceti vadaṃti tān*) (70)
+
+The five classes of people — Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and Niṣāda (hunters) — are called the five peoples, according to the teacher Śākaṭāyana. The four priests together with the sacrificer — Hotṛ, Adhvaryu, Udgātṛ, Brahmā and the sacrificer — are the five peoples, according to Śākapūṇi.
+
+चक्षुः श्रोत्रं मनो वाक् च प्राणश्चेत्यात्मवादिनः (*cakṣuḥ śrotraṃ mano vāk ca prāṇaścetyātmavādinaḥ*)
+गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा (*gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā*) (70)**NOTE**
+सर्पाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके (*sarpāśca brāhmaṇe caiva śrūyaṃte haitareyake*)
+ये चान्ये पृथिवीजाता देवाश्चान्येऽथ यज्जियाः (*ye cānye pṛthivījātā devāścānye 'tha yajjiyāḥ*) (72)
+
+The eye, the ear, the mind, speech and the breath — these five are the five peoples, say the ātmavādins, that is, the Vedāntins. Gandharvas and apsarases, gods, men, fathers, and serpents — these five classes are renowned as the five peoples, as stated in the Aitareya Brāhmaṇa. Besides, any five groups of people born on the earth and worthy of sacrifice, or other gods not in the list stated above, may also be reckoned as the five peoples.
+
+आयुरस्तु च मे दीर्घं हवींषि विविधानि च (*āyurastu ca me dīrghaṃ havīṃṣi vividhāni ca*)
+अरिष्टिः पूर्वजानां च भ्रातृणामध्वरेऽध्वरे (*ariṣṭiḥ pūrvajānāṃ ca bhrātṛṇāmadhvare 'dhvare*) (73)
+प्रयाजाश्चानुयाजाश्च घृतं सोमे च यः पशुः (*prayājāścānuyājāśca ghṛtaṃ some ca yaḥ paśuḥ*)
+मद्वैवत्यानि वै संतु यज्ञो मद्देवतोऽस्तु च (*madvaivatyāni vai saṃtu yajño maddevato 'stu ca*) (74)
+
+### Printed p. 256
+
+Asking for the boons he wanted, Agni went on to say: "Let me live long, that is, let long life be granted to me; and let various kinds of oblations be offered to me. Let my elder brothers be protected from harm in every sacrifice. The prayājā offerings that are made to me first when the oblations are offered, the anūyājā offerings made at the end, the ghee (ājya), and the animal offered in the Soma sacrifice — let all of these belong to me, and let me be the deity of all of them. In the sacrifice too let me be the deity and my influence be the greater." Thus he asked for the boons he wanted.
+
+तवाग्ने यज्ञ इत्येतत्प्रत्यार्थि स्विष्टकृच्च सः (*tavāgne yajña ityetatpratyārthi sviṣṭakṛcca saḥ*)
+यस्य त्रीणि सहस्राणि नव त्रीणि शतानि च (*yasya trīṇi sahasrāṇi nava trīṇi śatāni ca*) (75)
+त्रिंशश्चैव तु देवानां सर्वानेव वरान्ददुः (*triṃśaścaiva tu devānāṃ sarvāneva varāndaduḥ*)
+
+The gods agreed: "So be it." "O Agni, let this sacrifice be yours" — that is, take the principal part in it and carry it through completely; so saying, all the gods, three thousand three hundred and thirty-nine in number, together granted Agni the boon.
+
+ततोग्निः सुमनाः प्रीतो विश्वैर्देवैः पुरस्कृतः (*tatogniḥ sumanāḥ prīto viśvairdevaiḥ puraskṛtaḥ*) (76)
+विधूयांगानि यज्ञेषु चक्रे होत्रमतंद्रितः (*vidhūyāṃgāni yajñeṣu cakre hotramataṃdritaḥ*)
+भ्रातृभिः सहितः प्रीतो दिव्यात्मा हव्यवाहनः (*bhrātṛbhiḥ sahitaḥ prīto divyātmā havyavāhanaḥ*) (77)
+
+Thereafter, honoured by all the gods, Agni became calm in mind and content. Free of every anxiety, glad at heart and the bearer of the oblation, he rejoiced together with his brothers and performed the office of Hotṛ, that is, the conduct of the sacrifice, in all the ritual parts of the sacrifices.
+
+तस्यास्थि देवदार्वासीन्मेदो मांसं च गुग्गुलुः (*tasyāsthi devadārvāsīnmedo māṃsaṃ ca gugguluḥ*)
+सुगंधितेजनं स्नायु शुक्रं रजतकांचने (*sugaṃdhitejanaṃ snāyu śukraṃ rajatakāṃcane*) (78)
+रोमाणि काशाः केशास्तु कुशाः कूर्मा नखानि च (*romāṇi kāśāḥ keśāstu kuśāḥ kūrmā nakhāni ca*)
+अंत्राणि चैवाप्यवका मज्जा सिकतशर्कराः (*aṃtrāṇi caivāpyavakā majjā sikataśarkarāḥ*) (79)
+अस्यक् पित्तं च विविधा धातवो गैरिकादयः (*asyak pittaṃ ca vividhā dhātavo gairikādayaḥ*)
+एवनग्निश्च देवाश्च सूक्तैर्महदिति त्रिभिः (*evanagniśca devāśca sūktairmahaditi tribhiḥ*) (80)
+
+The bone of Agni, the conductor of the sacrificial work, became the deodar tree. His fat (medas) and flesh were transformed into guggulu (a fragrant substance). His sinews
+
+### Printed p. 257
+
+(nerves) became the fragrant reeds called tejana. His semen became silver and gold; his hairs (romāṇi) became the grass called kāśa. The hairs of his head became the darbha grass called kuśa; his nails became tortoises; his entrails became the creepers called avaka. His fat, sand and gravel became earth; his blood and bile became various minerals such as red ochre, and metals. In this way the conversation conducted by the gods and Agni together is set out in the three sūktas beginning with महत्तत् (*mahattat*) (sūktas 51–53).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महत्तदिति नवर्चं नवमं सूक्तं । वज्रभूतेन वषट्कारेण देवानां हविर्वहनेन च हतेषु भ्रातृषु कनिष्ठः सौचीको नामाग्निर्वषट्कारहनिर्वहनाभ्यां
+> भीतो देवेभ्यो निर्गत्यापः प्राविशत् । स च मत्स्यैः प्रदर्शितः सन्नन्वेषुमागतैर्देवैः सहेदमादिसूक्तत्रयेण संवादं कृतवान् । अस्य सूक्तस्य द्वितीयादियुजश्चतस्रो विश्वे देवाः शास्त्रनेति षडृचमुत्तरसूक्तं चेति दशर्चोऽग्नि वाक्यं ।
+> अयुजः प्रथमाद्याः पंचर्चो यमैच्छाम मनसेत्येकादशर्चमुत्तरसूक्तं च
+> देवानां वाक्यं । तत्र तदद्य वाचः प्रथमं मसीयेति दृचस्त्वगेर्वाक्यं ।
+> अतोऽग्नि वाक्येषु देवा देवताग्निर्ऋषिः । देवोक्तिष्टग्निर्देवता देवा ऋषयः ।
+> अनादेशपरिभाषयेदमुत्तरं च द्वे त्रैष्टुभे विशेषानभिधानात् । शथा जानुक्रांतं। वषट्कारेण वृक्षेषु भ्रातृषु सौचीकोऽग्नि रपः प्रविश्य देवैः समवददुत्तरै.
+> स्प्रिभिर्महत्तन्नव तत्र युजोऽग्नि वाक्यं विश्व इत्युत्तरं षट्कमयुजो देवानां
+> यमैच्छामेत्युत्तरं चैकादशकं तदद्येति तु दृचोऽग्निरिति ॥ गतो
+> विनियोगः ॥ सूक्तत्रयोक्तार्थे तैत्तिरीयब्राह्मणं । अग्नेस्त्रयो ज्यायांसो
+> भ्रातर आसन् ते देवेभ्यो हव्यं वहंतः प्रामीयंत सोऽग्निरबिभेदित्थं
+> नाव स्य अर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत्तं देवाःप्रैषमैच्छन्नित्यादि ।
+> तै. सं. २.६.६ । तत्राद्यया देवा अग्निमाहुः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, of nine Ṛks, beginning महत्तत् (*mahattat*). When his brothers had been killed by the vajra-like वषट्कार (*vaṣaṭkāra*) and by the carrying of the oblation for the gods, the youngest, the fire named Saucīka, was afraid of the वषट्कार (*vaṣaṭkāra*)-killing and of the carrying; he left the gods and entered the waters. Shown to the gods by fish, when they came searching, he held a conversation with them in this sūkta and the two that follow. Of this sūkta the even Ṛks (the second onward), four in number, together with the six Ṛks beginning विश्वे देवाः शास्त्रन (*viśve devāḥ śāstrana*) and the following sūkta, make ten Ṛks that are Agni's speech. The odd Ṛks, the first five, together with the eleven Ṛks of the following sūkta beginning यमैच्छाम (*yamaicchāma*), are the speech of the gods; and in that group, the Ṛks beginning तदद्य वाचः प्रथमं मसीय (*tadadya vācaḥ prathamaṃ masīya*) are Agni's speech. Hence in the Ṛks that are Agni's speech the gods are the deity and Agni the seer; in the Ṛks spoken by the gods, Agni is the deity and the gods the seers. The two Ṛks that are Agni's speech are in this follow-on; by the rule of non-specification both this and the following sūkta are in Triṣṭubh, since no special metre is stated. The Anukramaṇī is cited accordingly: वषट्कारेण वृक्षेषु भ्रातृषु सौचीकोऽग्निरपः प्रविश्य देवैः समवददुत्तरैस्त्रिभिर्महत्तन्नव तत्र युजोऽग्नि वाक्यं विश्व इत्युत्तरं षट्कमयुजो देवानां यमैच्छामेत्युत्तरं जैकादशकं तदद्येति तु द्वृचोऽग्नेः । (*vaṣaṭkāreṇa vṛkṣeṣu bhrātṛṣu saucīko 'gnirapaḥ praviśya devaiḥ samavadaduttaraistribhirmahattannava tatra yujo 'gni vākyaṃ viśva ityuttaraṃ ṣaṭkamayujo devānāṃ yamaicchāmetyuttaraṃ jaikādaśakaṃ tadadyeti tu dvṛco 'gneḥ |*). The use (viniyoga) is already stated. For the matter told in the three sūktas the Taittirīya Brāhmaṇa is cited: अग्नेस्त्रयो ज्यायांसो भ्रातर आसन् ते देवेभ्यो हव्यं वहंतः प्रामीयंत सोऽग्निरबिभेदित्थं नाव स्य अर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत्तं देवाःप्रैषमैच्छन्नित्यादि । (*agnestrayo jyāyāṃso bhrātara āsan te devebhyo havyaṃ vahaṃtaḥ prāmīyaṃta so 'gnirabibheditthaṃ nāva sya artimāriṣyatīti sa nilāyata so 'paḥ prāviśattaṃ devāḥpraiṣamaicchannityādi |*) (Tai. Saṃ. 2.6.6); in it, with the first Ṛk the gods address Agni.
+
+##### Anuvāda
+
+This sūkta beginning महत्तत् (*mahattat*) is the ninth sūkta in the fourth anuvāka. It has nine Ṛks. An episode is told in this sūkta: when the three elder brothers of Agni, who carried the oblations to the gods by means of the vajra-like वषट्कार (*vaṣaṭkāra*) offerings, had died, the youngest, the fire Saucīka, saw this and became afraid. Thinking that carrying the वषट्कार (*vaṣaṭkāra*) oblation to the gods was a very dangerous work, he ran away from the gods without telling or asking anyone, entered the water and lay hidden. While the gods were searching where Agni had gone, a fish in the water told the gods that Agni was hiding in the water. Then the gods came to the water, saw Agni, and the conversation they held is set out in this sūkta and the next two sūktas. In this sūkta the even-numbered Ṛks 2, 4, 6, 8, and the six Ṛks of the next sūkta beginning विश्वेदेवाः शास्त्रन (*viśvedevāḥ śāstrana*), ten Ṛks in all, are Agni's speech. The five odd-numbered Ṛks 1, 3, 5, 7, 9, and the nine Ṛks of the 53rd sūkta beginning यमैच्छाम (*yamaicchāma*) other than its Ṛks 4–5, fourteen Ṛks in all, are the speech of the gods. Ṛks 4–5 of the 53rd sūkta are Agni's speech.
+
+### Printed p. 258
+
+Therefore, for the Ṛks containing Agni's speech, Agni is the seer and the gods are the deity; for the Ṛks containing the speech of the gods, the gods are the seers and Agni is the deity. The Ṛks of this sūkta and the next are in the Triṣṭubh metre. In the Anukramaṇī it is said: वषट्कारेण वृक्षेषु भ्रातृषु सौचीकोऽग्निरपः प्रविश्य देवैः समवददुत्तरैस्त्रिभिर्महत्तन्नव तत्र युजोऽग्नि वाक्यं विश्व इत्युत्तरं षट्कमयुजो देवानां यमैच्छामेत्युत्तरं जैकादशकं तदद्येति तु द्वृचोऽग्नेः । (*vaṣaṭkāreṇa vṛkṣeṣu bhrātṛṣu saucīko 'gnirapaḥ praviśya devaiḥ samavadaduttaraistribhirmahattannava tatra yujo 'gni vākyaṃ viśva ityuttaraṃ ṣaṭkamayujo devānāṃ yamaicchāmetyuttaraṃ jaikādaśakaṃ tadadyeti tu dvṛco 'gneḥ |*). The use has been stated earlier. The matter stated in these three sūktas is told in the Taittirīya Saṃhitā, in the passages beginning अग्नेस्त्रयो ज्यायाग्ंसो भ्रातर आसन्ते देवेभ्यो हव्यं वहन्तः प्रामियंत सोऽग्निरबिभेदित्थं नाव स्य आर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन् । (*agnestrayo jyāyāgṃso bhrātara āsante devebhyo havyaṃ vahantaḥ prāmiyaṃta so 'gnirabibheditthaṃ nāva sya ārtimāriṣyatīti sa nilāyata so 'paḥ prāviśattaṃ devatāḥ praiṣamaicchan |*) (Tai. Saṃ. 2-6-6). In the first Ṛk of the present sūkta, महत्तत् (*mahattat*), the gods speak, addressing Agni.
+
+##### Particulars
+
+- Sūkta 51
+- Maṇḍala 10; Anuvāka 4; Sūkta 51
+- Aṣṭaka 8; Adhyāya 1; Varga 10, 11
+- Number of Ṛks in the sūkta: 9
+- Seer: Ṛks 1, 3, 5, 7, 9 — the gods; Ṛks 2, 4, 6, 8 — Agni Saucīka
+- Deity: Ṛks 1, 3, 5, 7, 9 — Agni Saucīka; Ṛks 2, 4, 6, 8 — the gods
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हत्तदुल्पं॒ स्थवि॑रं॒ तदा॑सी॒द्येनावि॑ष्टितः प्रवि॒वेशि॑था॒पः ।  
+> विश्वा॑ अपश्यद्बहु॒धा ते॑ अग्ने॒ जात॑वेदस्त॒न्वो॑ दे॒व एकः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महत् । तत् । उल्बं । स्थविरं । तत् । आसीत् । येन । आविष्टितः । प्रविवेशिथः ।  
+> अपः ॥
+
+### Printed p. 259
+
+> विश्वाः । अपश्यत् । बहुधा । ते । अग्ने । जातवेदः । तन्नः । देवः । एकः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुदुल्बं वक्ष्यमाणं प्रावरणं महत् स्थविरमत्यंतं स्कूलं च तदासीत्
+> येनोल्पेनाविष्टित आवेष्टितः सन् हे अग्ने प्रविवेशिथापः उदकानि प्रविष्टवानसि ।
+> हे अग्ने जातवेदो जातप्रज्ञान विश्वाः सर्वास्तन्वस्तनूः सर्वाण्यंगानि बहुधा
+> बहुप्रकारमेको देवोऽपश्यत् । दृष्टवान् ॥
+
+##### Gist of the bhāṣya
+
+The covering (उल्बं (*ulbaṃ*)) that will be spoken of was great and very thick (स्थविरं (*sthaviraṃ*)), and with that small (?) wrapping of which, O Agni, you entered the waters, you were enveloped. O Agni Jātavedas, endowed with knowledge, one deity saw all your bodies, that is, all your limbs, in many ways.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- येन (*yena*)—by which covering
+- आविष्टितः (*āviṣṭitaḥ*)—you, being enveloped
+- अपः (*apaḥ*)—the waters
+- प्रविवेशिथ (*praviveśitha*)—you entered
+- तत् उल्बं (*tat ulbaṃ*)—that covering
+- महत् (*mahat*)—of great extent
+- स्थविरं आसीत् (*sthaviraṃ āsīt*)—is also thick (stout)
+- जातवेदः (*jātavedaḥ*)—O Agni, who are of the nature of Jātavedas
+- ते (*te*)—your
+- विश्वाः तन्नः (*viśvāḥ tannaḥ*)—all forms
+- बहुधा (*bahudhā*)—in many ways
+- एकः देवः (*ekaḥ devaḥ*)—one deity alone
+- अपश्यत् (*apaśyat*)—has seen
+
+##### भावार्थ (Bhāvārtha)
+
+The gods: O Agni, the covering, of the nature of उल्ब (*ulba*), enveloped by which you entered the waters, is great in extent and thick. O Agni, who are of the nature of Jātavedas, one deity alone has seen all your forms in many ways.
+
+##### English translation
+(The gods speak :) Great and very dense is the covering enveloped by which, Agni, you have entered into the waters. Agni Jatavedas, one deity has beheld all your mainfold forms,
+
+##### विशेषविषयगळु (Special Topics)
+
+उल्बं (*ulbaṃ*)—Yāska has given the etymology of this word: उल्बमूर्णोतेर्वणोतेर्वा । महत्तदुल्बं स्थविरं तदासीदित्यपि निगमो भवति (*ulbamūrṇotervaṇotervā | mahattadulbaṃ sthaviraṃ tadāsīdityapi nigamo bhavati*) (Ni. 6-35); the passage quoted is *mahattadulbaṃ sthaviraṃ tadāsīd*. The word उल्ब (*ulba*) is derived either from the root ūrṇu, meaning to cover, to wrap, or from the root vṛ. It means covering, wrapping. As stated in the Śruti passage उल्बं गर्भो जरायु (*ulbaṃ garbho jarāyu*), the words ulba, garbha and jarāyu are synonyms. The layer of skin that covers (wraps) the infant is called garbha. The other words have the same meaning.
+
 ---
 
-**Progress note:** Done through printed p. 253. pp. 248-253 (batch API)
+**Progress note:** Done through printed p. 259. pp. 254-259 (batch API)
