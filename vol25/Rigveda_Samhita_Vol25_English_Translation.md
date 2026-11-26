@@ -25945,6 +25945,278 @@ The Soma who is the bearer (वह्निः (*vahniḥ*)) of the burden of th
 
 Soma, who bears the burden of the sacrifice, is free from mortality and carries satisfaction to the gods, beholds the seven rivers fully. That same Soma, who stands full in the form of a well (filled in the jar), satisfies the rivers, which are divine in nature.
 
+### Printed p. 653
+
+##### English translation
+The immoratal bearer (of the oblation), the conveyer (of content to the gods), beholds the seven rivers,—full as a well, he has satisfied the divine streams.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॒ कल्पे॑षु नः पुम॒स्तमां॑सि सोम॒ योध्या॑ ।  
+> तानि॑ पुनान जंघनः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । कल्पेषु । नः । पुमः । तमांसि । सोम । योध्या ।  
+> तानि । पुनान । जंघनः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुमः पुमन् सोम कल्पेषु कल्पनीयेष्वहःसु नः अस्मान् अव रक्ष । अपि च पुनान हे पवमान सोम त्वं योध्या योधनीयानि तमांसि रक्षांसि यानि तानि जंघनः नाशय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma as pumaḥ, "O manly one": protect us in the kalpas, that is, on the days that are to be ordained (for the sacrifice). And further, O Pavamāna (the purifying) Soma, destroy those darknesses (तमांसि (*tamāṃsi*)), that is, those rākṣasas, which are to be fought against (योध्या योधनीयानि (*yodhyā yodhanīyāni*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुमः (*pumaḥ*)—O Soma, possessed of manly power
+- कल्पेषु (*kalpeṣu*)—on our sacrificial days
+- नः (*naḥ*)—us
+- अव (*ava*)—protect
+- पुनान (*punāna*)—the purifier
+- सोमु (*somu*)—O Soma
+- योध्या (*yodhyā*)—who challenge us and call us to battle
+- तमांसि (*tamāṃsi*)—and are possessed of pitch darkness
+- तानि (*tāni*)—the rākṣasa powers
+- जंघनः (*jaṃghanaḥ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, possessed of manly power, protect us on our sacrificial days. O Soma, the purifier, destroy the rākṣasa powers, who challenge us and call us to battle and who roam in pitch darkness.
+
+##### English translation
+Protect us, manly Soma, in the days of sacrifice; purifier. destroy those powers of darkness against which we must contend.
+
+### Printed p. 654
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नव्य॑से॒ नवी॑यसे सू॒क्ताय॑ साधया प॒थः ।  
+> प्र॒त्न॒वद्रो॑चया॒ रुचः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नव्यसे । नवीयसे । सुऽउक्ताय । साधय । पथः ।  
+> प्रत्नऽवत् । रोचय । रुचः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नव्यसे नव्याय नूतनाय नवीयसे स्तुत्यायास्माकं सूक्ताय पथः मार्गान् नु क्षिप्रं साधय अभिगच्छ । अपि च प्रत्नवत् यथापूर्वं रुचः स्वदीप्तीः रोचय प्रकाशय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, for our new (नव्यसे नव्याय नूतनाय (*navyase navyāya nūtanāya*)) and praiseworthy (नवीयसे स्तुत्याय (*navīyase stutyāya*)) sūkta, quickly accomplish the paths, that is, go to them. And further, as of old (प्रत्नवत् यथापूर्वं (*pratnavat yathāpūrvaṃ*)), make your own lights (रुचः स्वदीप्तीः (*rucaḥ svadīptīḥ*)) shine, that is, illumine them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Soma)
+- नव्यसे (*navyase*)—for the new
+- नवीयसे (*navīyase*)—and praiseworthy
+- सूक्तायु (*sūktāyu*)—sūkta, in the form of our praise
+- पथः (*pathaḥ*)—the excellent path
+- नु (*nu*)—quickly
+- साधयु (*sādhayu*)—procure
+- प्रत्नवत् (*pratnavat*)—as before
+- रुचः (*rucaḥ*)—your radiances
+- रोचयु (*rocayu*)—make shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, quickly procure the excellent path for our sūkta in the form of praise, which is new and praiseworthy. As before, make your radiances shine.
+
+##### English translation
+Quickly speed on the road for our new praiseworthy hymn; as of old display your radiance.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान॒ महि॒ श्रवो॒ गामश्वं॑ रासि वी॒रव॑त् ।  
+> सना॑ मे॒धां सना॒ स्वः॑ ॥ ९ ॥
+
+### Printed p. 655
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । महि । श्रवः । गाम् । अश्वम् । रासि । वीरऽवत् ।  
+> सन । मेधाम् । सन । स्वः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम यस्त्वं वीरवत् पुत्रवत् महि महत् श्रवः अन्नं गां च अश्वं च रासि अस्मभ्यं प्रयच्छसि स त्वं मेधां सन अस्मभ्यं प्रयच्छ । अपि च स्वः यदस्मदभिलषितं तत् सर्वं सन देहि ॥ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, you who give us (रासि अस्मभ्यं प्रयच्छसि (*rāsi asmabhyaṃ prayacchasi*)) great food (महि महत् श्रवः अन्नं (*mahi mahat śravaḥ annaṃ*)) accompanied by male offspring (वीरवत् पुत्रवत् (*vīravat putravat*)), and a cow and a horse, grant us understanding (मेधां सन (*medhāṃ sana*)). And further, grant us all that we desire (स्वः यदस्मदभिलषितं तत् सर्वं सन देहि (*svaḥ yadasmadabhilaṣitaṃ tat sarvaṃ sana dehi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma, the purifier
+- वीरवत् (*vīravat*)—accompanied by heroic sons
+- महि (*mahi*)—and great
+- श्रवः (*śravaḥ*)—food
+- गां (*gāṃ*)—and cattle
+- अश्वं (*aśvaṃ*)—and horses
+- रासि (*rāsi*)—provide for us
+- मेधां (*medhāṃ*)—and excellent understanding
+- सन (*sana*)—produce
+- स्वः (*svaḥ*)—all our desired ends
+- सन (*sana*)—fulfil
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the purifier, provide for us food accompanied by heroic sons and great, and cattle and horses. Produce excellent understanding in us. Fulfil all our desired ends.
+
+##### English translation
+Purifier (Soma), grant us abundant food with male offspring, and cattle and horse ; give us understanding, give us all (we desire).
+
+## Sūkta 10 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ प्र स्वानासः' इति नवर्चं दशमं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र स्वानासः' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, of nine Ṛks, begins प्र स्वानासः (*pra svānāsaḥ*). The seer and the rest are as before. It is recorded in the Anukramaṇikā as प्र स्वानासः (*pra svānāsaḥ*). The use has been stated.
+
+This sūkta beginning प्र स्वानासः (*pra svānāsaḥ*) is the tenth sūkta in the first anuvāka. There are nine Ṛks in it. The seer, deity and metre of this sūkta are the same as in the preceding sūkta
+
+### Printed p. 656
+
+ as well. In the Anukramaṇikā it is said: प्र स्वानासः (*pra svānāsaḥ*). The use has been stated before.
+
+Maṇḍala 9; Anuvāka 1; Sūkta 10.
+
+Aṣṭaka 6; Adhyāya 7; Varga 34, 35.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: असितः काश्यपो देवलो वा (*asitaḥ kāśyapo devalo vā*).
+
+Deity: पवमानः सोमः (*pavamānaḥ somaḥ*).
+
+Metre: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स्वा॒नासो॒ रथा॑ इ॒वार्वं॑तो॒ न श्र॑व॒स्यवः॑ ।  
+> सोमा॑सो रा॒ये अ॑क्रमुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । स्वानासः । रथाःऽइव । अर्वंतः । न । श्रवस्यवः ।  
+> सोमासः । राये । अक्रमुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र स्वानासः अभिषववेलायामुपरवेषु शब्दं कुर्वंतः सोमासः सोमाः रथाइव यथा शब्दं कुर्वंतो रथा: अर्वंतो न यथा शब्दं कुर्वंतोऽश्वाः तथा श्रवस्यवः शत्रुभ्योऽन्नमिच्छंतः राये। यजमानानां धनाय अक्रमुः आगच्छन् ।
+
+##### Gist of the bhāṣya
+
+The Soma juices (सोमासः सोमाः (*somāsaḥ somāḥ*)), sounding (प्र स्वानासः (*pra svānāsaḥ*)) at the time of pressing on the pressing-stones, like chariots (रथाइव (*rathāiva*)) that make a sound, and like horses (अर्वंतो न (*arvaṃto na*)) that make a sound, desiring (श्रवस्यवः शत्रुभ्योऽन्नमिच्छंतः (*śravasyavaḥ śatrubhyo 'nnamicchaṃtaḥ*)) food from enemies, have come (अक्रमुः आगच्छन् (*akramuḥ āgacchan*)) for the wealth of the sacrificers (राये। यजमानानां धनाय (*rāye| yajamānānāṃ dhanāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथा इव (*rathā iva*)—as chariots make a sound
+- अर्वंतो न (*arvaṃto na*)—as horses make a sound
+- प्र स्वानासः (*pra svānāsaḥ*)—sounding at the time of pressing
+- सोमासः (*somāsaḥ*)—the Soma juices
+- श्रवस्यवः (*śravasyavaḥ*)—with the desire to seize the wealth of enemies **NOTE**
+- राये (*rāye*)—and with the desire to give wealth to the sacrificer
+- अक्रमुः (*akramuḥ*)—have come here
+
+### Printed p. 657
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, sounding at the time of pressing as chariots make a sound and as horses make a sound, have come here with the desire to seize the wealth of enemies and with the desire to give wealth to the sacrificer.
+
+##### English translation
+Longing for food the Soma-juices, uttering a sound like chariots or like horses, have come for the sake of riches.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒न्वा॒नासो॒ रथा॑ इव दधन्वि॒रे गभ॑स्त्योः ।  
+> भरा॑सः का॒रिणा॑मिव ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिन्वानासः । रथाःऽइव । दधन्विरे । गभस्त्योः ।  
+> भरासः । कारिणाम्ऽइव ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमाः रथाइव यथा रथास्तथा हिन्वानासः हिन्वाना यागदेशं प्रति गच्छंतः भरासः भराः कारिणामिव यथा भारवाहिनां बाह्वोर्धीयंते तथा गभस्त्योः ऋत्विजां बाह्वोः। ‘ गभस्ती बाहू' इति बाहुनामसु पाठात् । दधन्विरे धीयंते ॥
+
+##### Gist of the bhāṣya
+
+The Somas, like chariots (रथाइव (*rathāiva*)), go (हिन्वानासः हिन्वाना यागदेशं प्रति गच्छंतः (*hinvānāsaḥ hinvānā yāgadeśaṃ prati gacchaṃtaḥ*)) towards the place of sacrifice. As burdens (भरासः भराः (*bharāsaḥ bharāḥ*)) are placed on the arms of burden-carriers (कारिणामिव यथा भारवाहिनां बाह्वोर्धीयंते (*kāriṇāmiva yathā bhāravāhināṃ bāhvordhīyaṃte*)), so they are placed (दधन्विरे धीयंते (*dadhanvire dhīyaṃte*)) in the arms of the priests (गभस्त्योः ऋत्विजां बाह्वोः (*gabhastyoḥ ṛtvijāṃ bāhvoḥ*)). Sāyaṇa adds that गभस्ती बाहू (*gabhastī bāhū*) is so read among the names of the arm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथा इव (*rathā iva*)—swiftly like chariots
+- हिन्वानासः (*hinvānāsaḥ*)—the Soma juices coming to the place of sacrifice
+- कारिणामिव (*kāriṇāmiva*)—between the arms of those who carry burdens
+- भरासः (*bharāsaḥ*)—as burdens are carried
+- गभस्त्योः (*gabhastyoḥ*)—between the arms of the priests
+- दधन्विरे (*dadhanvire*)—they are held
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, coming swiftly to the place of sacrifice like chariots, are held between the arms of the priests as burdens are carried between the arms of those who carry burdens.
+
+### Printed p. 658
+
+##### English translation
+Coming like chariots (to the sacrifice), they are upheld in the arms (of the priests) as burdens (in the arms) oflabourers.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राजा॑नो॒ न प्रश॑स्तिभिः॒ सोमा॑सो॒ गोभि॑रंजते ।  
+> य॒ज्ञो न स॒प्त धा॒तृभिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राजानः । न । प्रशस्तिऽभिः । सोमासः । गोभिः । अंजते ।  
+> यज्ञः । न । सप्त । धातृऽभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमासः सोमाः प्रशस्तिभिः प्रशस्ताभिः स्तुतिरूपाभिर्वाग्भिः राजानो न यथा राजानः सप्त धातृभिः सप्त होत्राभिः यज्ञो न यथा च यज्ञस्तथा गोभिः गोविकारैः पयोभिः अंजते अज्यंते । संस्क्रियंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Somas are anointed (अंजते अज्यंते (*aṃjate ajyaṃte*)), that is, refined (संस्क्रियंत (*saṃskriyaṃta*)), with cow-products (गोभिः गोविकारैः (*gobhiḥ govikāraiḥ*)), that is, with milk (पयोभिः (*payobhiḥ*)), as kings (राजानो न (*rājāno na*)) are with praises (प्रशस्तिभिः प्रशस्ताभिः स्तुतिरूपाभिर्वाग्भिः (*praśastibhiḥ praśastābhiḥ stutirūpābhirvāgbhiḥ*)), in the form of praising words, and as a sacrifice (यज्ञो न (*yajño na*)) is with the seven dhātṛs (सप्त धातृभिः सप्त होत्राभिः (*sapta dhātṛbhiḥ sapta hotrābhiḥ*)), that is, with the seven hotrās.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजानः (*rājānaḥ*)—kings
+- प्रशस्तिभिः न (*praśastibhiḥ na*)—as they are surrounded by the said words of praise
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- सप्त धातृभिः न (*sapta dhātṛbhiḥ na*)—as it is encircled by seven hotṛs
+- सोमासः (*somāsaḥ*)—the Soma juices
+- गोभिः (*gobhiḥ*)—with milk and the other products of the cow
+- अंजते (*aṃjate*)—are covered and adorned
+
+##### भावार्थ (Bhāvārtha)
+
+As kings are surrounded by excellent words of praise, and as the sacrifice is surrounded by seven hotṛs, so the Soma juices are covered and adorned with milk and the other products of the cow. (They are mixed with milk and the like).
+
+##### English translation
+The libations are annointed with milk as kings with praises, and (tended) as a sacrifice by seven priests.
+
 ---
 
-**Progress note:** Done through printed p. 652. Mandala 9 sukta 8 Rk 9, sukta 9 Rks 1-6 (pp. 647-652)
+**Progress note:** Done through printed p. 658. Ṛk 7-9 of sūkta 9 (printed English of Ṛk 6 at start), sūkta 10 Ṛk 1-3
