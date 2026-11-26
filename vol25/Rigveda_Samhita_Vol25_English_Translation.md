@@ -19751,6 +19751,166 @@ If the goddess of speech in the present Ṛk is understood as the middle-region 
 
 Sāyaṇa says that this middle-region Vāk, present in all living beings, is the speaker of what is right, and he shows her greatness. The shining goddess, the middle-region Vāk, whom the gods of the middle region bring forth: that speech the beasts of all forms speak, those with clear speech and those with unclear speech, since the activity of speech has that as its antecedent. That Vāk, the goddess, the delighter or the one to be praised, by giving rain yields to us food and the sap in the form of milk, ghee and the like, flowing like a cow; well praised by us, may she come to us. The meaning is that she is ready to rain. Yāska (Niru. 11. 29) explains the verse in the same way: the beasts of all forms are those with clear and those with unclear speech, and Vāk is the milch cow who yields food and sap. **NOTE**
 
+### Printed p. 513
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवीं (*devīṃ*)—the shining
+- वाचं (*vācaṃ*)—the goddess of speech
+- देवाः (*devāḥ*)—the gods
+- अजनयंत (*ajanayaṃta*)—produced
+- तां (*tāṃ*)—that same goddess of speech
+- विश्वरूपाः (*viśvarūpāḥ*)—having forms of many kinds
+- पशवः (*paśavaḥ*)—the beasts
+- वदंति (*vadaṃti*)—praise
+- सा वाक् (*sā vāk*)—that same goddess of speech
+- नः (*naḥ*)—to us
+- मंद्रा (*maṃdrā*)—a giver of delight
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—saps such as milk
+- दुहाना (*duhānā*)—milking out
+- धेनुः (*dhenuḥ*)—taking the form of a cow rich in milk
+- सुष्टुता (*suṣṭutā*)—being greatly praised
+- अस्मान् (*asmān*)—to us
+- उप एतु (*upa etu*)—may she graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+The gods produced the shining goddess of speech. Beasts having forms of many kinds praise that same goddess of speech. May that same goddess of speech, a giver of delight to us, milking out food and saps such as milk, taking the form of a cow rich in milk and being greatly praised, graciously come to us.
+
+##### English translation
+The gods produced the goddess Vach ; animals of every kind utter her ; may she, Vach, the all-gladdening cow, yielding meat and drink, come to us, worthily praised.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska's Nirukta on this Ṛk is as follows:
+देवीं वाचमजनयंत देवास्तां सर्वरूपाः पशवो वदंति व्यक्तवाचश्चाव्यक्तवाचश्च सा नो मदनःस्नं च रसं च दुहाना धेनुर्वागस्मानुपैतु सुष्टुता ॥ (*devīṃ vācamajanayaṃta devāstāṃ sarvarūpāḥ paśavo vadaṃti vyaktavācaścāvyaktavācaśca sā no madanaḥsnaṃ ca rasaṃ ca duhānā dhenurvāgasmānupaitu suṣṭutā ‖*) (Ni. 11-29)
+The gods created the goddess of speech. All beings of various forms use this speech in the form of the goddess (that is, the words, the language); that is, men and others speak sentences that are made of clear words and endowed with meaning. Beasts such as cattle utter sounds and the like that are unclear, indistinct and not made of letters. These are said to be unclear utterances, that is, the intention of these unclear sounds is not understood by men. May the goddess of speech, who is of the nature of such clear and unclear sounds, like a cow yielding milk, dear to us and benevolent, yielding as she pleases wholesome food and the like, that is, milk, ghee and so on, and saps and the like, that is, nourishing foods produced from plants and the like, that is, bestowing them, come near us and be praised by us: such is the intention of the explanation.
+
+### Printed p. 514
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखे॑ विष्णो वित॒रं वि क्र॑मस्व॒ द्यौर्दे॒हि लो॒कं वज्रा॑य वि॒ष्कभे॑ ।  
+> हना॑व वृ॒त्रं रि॒णचा॑व॒ सिंधू॒निंद्र॑स्य यंतु प्रस॒वे विसृ॑ष्टाः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखे । विष्णो इति । विऽतरम् । वि । क्रमस्व । द्यौः । देहि । लोकम् । वज्राय । विऽस्कभे ।  
+> हनाव । वृत्रम् । रिणचाव । सिंधून् । इंद्रस्य । यंतु । प्रऽसवे । विऽसृष्टाः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखे विष्णो त्वं वितरम् अत्यंतं वि क्रमस्व विक्रमं कुरु । हे द्यौः त्वं वज्राय वज्रस्य विष्कभे विष्कंभनाय लोकम् अवकाशं देहि प्रयच्छ । हे विष्णो त्वं चाहं चोभौ आवां वृत्रम् असुरं हनाव हन्वः । सिंधून् वृत्रावष्टब्धा नदीश्च रिणचाव नयावः । तेऽमी विसृष्टाः सिंधवः इंद्रस्य प्रसवे यंतु प्रेरणे गच्छंतु । तमिममर्थं संगृह्य श्लोकैः शौनको दर्शयति--  ‘ त्रीँल्लोकानभिवृत्यैतान् वृत्रस्तस्थौ स्वया त्विषा ॥ तं नाशकद्धंतुमिंद्रो' विष्णुमभ्येत्य सोऽब्रवीत् । वृत्रं हनिष्ये तिष्ठस्व विक्रम्याद्य ममांतिके ॥ उद्यतस्य तु वज्रस्य द्यौर्ददातु ममांतरम् । तथेति विष्णुस्तच्चक्रे द्यौश्चास्य विवरं ददौ ॥ तदेतदखिलं प्रोक्तं सखे विष्णो इति त्वृचा' (बृहद्दे.  ६. १२१-१२४ ) इति ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+O friend Vishnu, stride out exceedingly, make your stride. O Heaven, give room, an opening, for the stretching out of the thunderbolt. O Vishnu, you and I, we two, let us slay Vṛtra the Asura, and let us lead out the rivers, the waters held back by Vṛtra. May those released rivers go at the impulsion of Indra. Śaunaka sums up this matter in verses: Vṛtra stood covering these three worlds with his own brilliance; Indra, unable to slay him, went to Vishnu and said: I shall slay Vṛtra, stand beside me now and stride; let Heaven give me room for the raised thunderbolt. Vishnu said "so be it" and did it, and Heaven gave him the opening; all this is told by the Ṛk beginning सखे विष्णो (*sakhe viṣṇo*) (Bṛ. De. 6. 121-124).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखे (*sakhe*)—who are a friend
+- विष्णो (*viṣṇo*)—O Vishnu
+- वितरं (*vitaraṃ*)—extending exceedingly
+- वि क्रमस्व (*vi kramasva*)—stride over the worlds
+- द्यौः (*dyauḥ*)—O presiding deity of the heavenly world
+- वज्रायु (*vajrāyu*)—of the thunderbolt
+- विष्कभे (*viṣkabhe*)—for the spreading out
+- लोकं (*lokaṃ*)—room
+- देहि (*dehi*)—give (O Vishnu)
+
+### Printed p. 515
+
+- वृत्रं (*vṛtraṃ*)—the Asura Vṛtra
+- हनाव (*hanāva*)—let us two slay
+- सिंधून् (*siṃdhūn*)—the rivers
+- रिणचाव (*riṇacāva*)—let us make flow
+- विसृष्टाः (*visṛṣṭāḥ*)—the rivers set free by us
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- प्रसवे (*prasave*)—obedient to the command
+- यंतु (*yaṃtu*)—may they flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Vishnu, who are a friend, extending exceedingly, stride over all the worlds. O presiding deity of the heavenly world, make room for the spreading out of the thunderbolt. O Vishnu, let us two slay the Asura Vṛtra. Let us make the rivers flow. May the rivers set free by us flow, obedient to the command of Indra.
+
+##### English translation
+O Vishnu my friend, stride forth lustily ; O heaven, give room to contain the thunderbolt ; let us smite Vritra, let us open the rivers ; let them flow, set free, at the command of Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Indra's prayer to Vishnu, that he should help him in the slaying of Vṛtra, is stated. This matter is told by the great seer Śaunaka in the Bṛhaddevatā as follows:
+त्रीन्लोकानभिवृत्यैतान् वृत्रस्तस्थौ स्वया त्विषा । तं नाशकद्धंतुमिंद्रो विष्णुमभ्येत्य सोऽब्रवीत् । वृत्रं हनिष्ये तिष्ठस्व विक्रम्याद्य ममांतिके ॥ उद्यतस्य तु वज्रस्य द्यौर्ददातु ममांतरं । तथेति विष्णुस्तच्चक्रे द्यौश्चास्य विवरं ददौ । तदेतदखिलं प्रोक्तं सखे विष्णो इति तृचा ॥ (*trīnlokānabhivṛtyaitān vṛtrastasthau svayā tviṣā | taṃ nāśakaddhaṃtumiṃdro viṣṇumabhyetya so 'bravīt | vṛtraṃ haniṣye tiṣṭhasva vikramyādya mamāṃtike ‖ udyatasya tu vajrasya dyaurdadātu mamāṃtaraṃ | tatheti viṣṇustaccakre dyauścāsya vivaraṃ dadau | tadetadakhilaṃ proktaṃ sakhe viṣṇo iti tṛcā ‖*) (Bṛ. De. 6-131 to 134) **NOTE**
+In former times the Asura Vṛtra, having grown exceedingly great, stood pervading the three worlds by his own power. Indra was not able to slay Vṛtra, who had such a huge body. Therefore Indra then went near Vishnu and prayed: O friend Vishnu, I am now ready to slay Vṛtra; you must help me in this matter. With your exceedingly wide stride (your vikrama) stay by me and be my helper. Let the heavenly world, that is, the atmosphere, make room for me, so that I may raise and strike with my thunderbolt. Vishnu agreed and did so. The atmosphere also made the space and the room. This very matter is explained in this Ṛk by the words beginning सखे विष्णो (*sakhe viṣṇo*), O Vishnu, friend, and so on: so it is said in the work Bṛhaddevatā.
+
+### Printed p. 516
+
+The hundred and first sūkta.
+
+## Sūkta 101 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ऋधक्' इति षोडशर्चमष्टमं सूक्तम् । अत्रानुक्रम्यते - ‘ ऋधक् षोडश जमदग्निर्भार्गवो मैत्रावरुणं प्रागाथं त्रित्रिष्टुबंतं तृतीयादि गायत्री सतोबृहती स्तोत्रं राजस्वृक्सपादादित्याश्विन्यौ वायव्ये सौर्यौ बृहत्युषस्या सूर्यप्रभास्तुतिर्वा पवमानी गव्ये ' इति । भृगुगोत्रो जमदग्निर्ऋषिः । चतुर्दश्याद्यास्तिस्रस्त्रिष्टुभः । त्रयोदशी बृहती शिष्टानामयुजो बृहत्यो युजः सतोबृहत्यः । तृतीया गायत्री।  ‘ स्तोत्रं राजसु गायत' इति पादेन सहिता ते हिन्विरे' इत्यादित्यदेवताका ।  ‘ आ मे वचांसि ' इति द्वे अश्विदेवताके । ‘आ नो यज्ञं दिविस्पृशम्' इति द्वे वायुदेवत्ये।  ‘ बण्महाँ असि सूर्य' इति द्वे सूर्यदेवताके । इयं या नीची' इत्येषा उषोदेवत्या । यद्वा । सूर्यप्रभानया स्तूयते । अतः सैव देवता । ‘प्रजा ह तिस्रः' इत्येषा पवमानदेवताका ।  ‘ माता रुद्राणाम्' इति द्वे गोदेवत्ये । शिष्टाः पंचर्चो मैत्रावरुण्यः । सूक्तविनियोगो लैंगिकः । संग्रामार्थं राज्ञः संनहने ‘प्र यो वां मित्रावरुणा' इति द्वे राजानं वाचयेत् । सूत्रितं च -- ‘ अभीवर्तं वाचयति प्र यो वां मित्रावरुणेति च द्वे' ( आश्व. गृ. ३. १२. १२) इति । पृष्ठ्यस्य पंचमेऽहनि प्रउगे वायव्यतृचस्य ‘आ नो यज्ञम्' इत्यादिके द्वे ऋचावाद्ये । सूत्रितं च - ‘आ नो यज्ञं दिविस्पृशमिति द्वे आ नो वायो महे तन इत्येका' (आश्व. श्रौ. ७. १२ ) इति । आश्विनं शंसिष्यन् होता ‘बण्महाँ असि सूर्य' इति द्वाभ्यामग्निं जुहुयात् । सूत्रितं च -- बण्महाँ असि सूर्येति द्वाभ्यामिंद्रं वो विश्वतस्परीति च (आश्व. श्रौ. ६. ५) इति । माध्यंदिनसवने सोमातिरेक एकं शस्त्रमुपजायते । तत्र ‘बण्महाँ असि’ इति प्रगाथः स्तोत्रियः । सूत्रितं च - बण्महाँ असि सूर्योदु त्यद्दर्शतं वपुरिति प्रगाथौ स्तोत्रियानुरूपौ' ( आश्व. श्रौ. ६. ७ ) इति । अयमेव प्रगाथश्चातुर्विशिकेऽहनि माध्यंदिने ब्राह्मणाच्छंसिनो वैकल्पिकोऽनुरूपः । सूत्रितं च --- श्रायंतइव सूर्यं बण्महाँ असि सूर्य' ( आश्व. श्रौ. ७. ४ ) इति । मधुपर्के गामुत्सृज्य ‘ माता रुद्राणाम्' इति जपेत् । सूत्रितं च - ‘ माता रुद्राणां दुहिता वसूनामिति जपित्वोमुत्सृजतेत्युत्स्रक्ष्यन्' ( आश्व. गृ. १. २४. २५ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ऋधक् (*ṛdhak*), of sixteen Ṛks, is the eighth sūkta. The Anukramaṇī says of it: sixteen Ṛks, seer Jamadagni Bhārgava, Maitrāvaruṇa and Prāgātha, triṣṭubh at the end, the third and others Gāyatrī, Satobṛhatī, a laud for the kings, the two Ṛks to the Ādityas and Aśvins, the two to Vāyu, the two to Sūrya, Bṛhatī, to Uṣas or the praise of Sūrya's radiance, Pavamānī, the two to the cow. The seer is Jamadagni of the Bhṛgu lineage. The three beginning with the fourteenth are Triṣṭubh; the thirteenth is Bṛhatī; of the rest, the odd ones are Bṛhatī and the even ones Satobṛhatī; the third is Gāyatrī. The Ṛk with the foot स्तोत्रं राजसु गायत (*stotraṃ rājasu gāyata*) together with a foot, and the Ṛk ते हिन्विरे (*te hinvire*), are addressed to the Ādityas; the two Ṛks आ मे वचांसि (*ā me vacāṃsi*) are addressed to the Aśvins; the two Ṛks आ नो यज्ञं दिविस्पृशम् (*ā no yajñaṃ divispṛśam*) to Vāyu; the two Ṛks बण्महाँ असि सूर्य (*baṇmahām̐ asi sūrya*) to Sūrya; the Ṛk इयं या नीची (*iyaṃ yā nīcī*) to Uṣas, or else Sūrya's radiance is praised by it, so that that is its deity; the Ṛk प्रजा ह तिस्रः (*prajā ha tisraḥ*) is addressed to Pavamāna; the two Ṛks माता रुद्राणाम् (*mātā rudrāṇām*) to the cow; the remaining five Ṛks are addressed to Mitra and Varuṇa. The use of the sūkta is by indication: for victory in battle, when the king arms himself, he is to be made to recite the two Ṛks प्र यो वां मित्रावरुणा (*pra yo vāṃ mitrāvaruṇā*), as the sūtra says (Āśvalāyana Gṛhya Sūtra 3. 12. 12). On the fifth day of the Pṛṣṭhya, at the Praüga, the first two Ṛks of the Vāyavya triplet are the two beginning आ नो यज्ञम् (*ā no yajñam*), as the sūtra says (Āśvalāyana Śrauta Sūtra 7. 12). The Hotṛ, about to recite the Āśvina, is to make an offering in the fire with the two Ṛks बण्महाँ असि सूर्य (*baṇmahām̐ asi sūrya*) (Āśvalāyana Śrauta Sūtra 6. 5). At the midday pressing, with a surplus of Soma, one śastra is produced there, in which the Pragātha बण्महाँ असि (*baṇmahām̐ asi*) is the stotriya (Āśvalāyana Śrauta Sūtra 6. 7). The same Pragātha is on the Cāturviṃśika day the alternative anurūpa of the Brāhmaṇācchaṃsin at the midday pressing (Āśvalāyana Śrauta Sūtra 7. 4). At the madhuparka, on releasing the cow, one is to mutter माता रुद्राणाम् (*mātā rudrāṇām*) (Āśvalāyana Gṛhya Sūtra 1. 24. 25).
+
+Anuvāda: This sūkta beginning ऋधक् (*ṛdhak*) is the eighth sūkta in the tenth Anuvāka. It has sixteen Ṛks. In the Anukramaṇī it is said that the sūkta has sixteen Ṛks, seer Jamadagni Bhārgava, Maitrāvaruṇa and Prāgātha, triṣṭubh at the end, the third and others Gāyatrī, Satobṛhatī, a laud for the kings, two Ṛks for the Ādityas and Aśvins, two Vāyavya, two Sūrya, Bṛhatī, Uṣas or the praise of Sūrya's radiance, Pavamānī, two for the cow. **NOTE** This sūkta has as seer Jamadagni, born in the lineage of Bhṛgu; in this sūkta the three Ṛks following the fourteenth (14-16) are in the Triṣṭubh metre. The thirteenth Ṛk is in the Bṛhatī metre. Of the remaining Ṛks the odd-numbered are in the Bṛhatī metre; the even-numbered are in the Satobṛhatī metre. The third Ṛk is in the Gāyatrī metre. The fourth foot of the fifth Ṛk, स्तोत्रं राजसु गायत (*stotraṃ rājasu gāyata*), and the sixth Ṛk are addressed to the Ādityas; the two Ṛks beginning आ नो वचांसि (*ā no vacāṃsi*), the 7th and 8th, are addressed to the Aśvins; the two Ṛks आ नो यज्ञं दिविस्पृशं (*ā no yajñaṃ divispṛśaṃ*) (Ṛks 9-10) are addressed to Vāyu; the two Ṛks बण्म्रहा असि सूर्य (*baṇmrahā asi sūrya*) (Ṛks 11-12) are addressed to Sūrya; the Ṛk इयं या नीची (*iyaṃ yā nīcī*) is addressed to Uṣas, or else in this Ṛk there is also praise of Sūrya's radiance; therefore it may be said that the praise of Sūrya's radiance is the deity of this Ṛk. The fourteenth Ṛk प्रजा हि तिस्रः (*prajā hi tisraḥ*) is addressed to Pavamāna. The two Ṛks माता रुद्राणां (*mātā rudrāṇāṃ*) (Ṛks 15-16) are addressed to the cow. The remaining five Ṛks of this sūkta are addressed to Mitra and Varuṇa. The use of the sūkta is by indication: that for gaining victory a king who has set out armed for battle should be made to recite the two Ṛks प्र यो वां मित्रावरुणा (*pra yo vāṃ mitrāvaruṇā*) (Ṛks 3-4) is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra अभीवर्तं वाचयति प्र यो वां मित्रावरुणेति च द्वे (*abhīvartaṃ vācayati pra yo vāṃ mitrāvaruṇeti ca dve*) (Ā. Gṛ. 3-12-12).
+
+### Printed p. 517
+
+That on the fifth day of the Pṛṣṭhya sacrifice, at the time of reciting the Praüga śastra mantras, the two Ṛks आ नो यज्ञं (*ā no yajñaṃ*) (Ṛks 9-10) are to be recited for the first two Ṛks of the Vāyavya triplet, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ नो यज्ञं दिवस्पृशमिति द्वे आ नो वायो महे तन इत्येका (*ā no yajñaṃ divaspṛśamiti dve ā no vāyo mahe tana ityekā*) (Ā. 6-12). That when reciting the Āśvina śastra mantras the Hotṛ is to recite the two Ṛks बण्म्रहा असि सूर्य (*baṇmrahā asi sūrya*) (Ṛks 11-12) and make an offering in the fire is explained by the sūtra of the Āśvalāyana Śrauta Sūtra बण्म्रहा असि सूर्येति द्वाभ्यामिंद्रं वो विश्वतस्परीति च (*baṇmrahā asi sūryeti dvābhyāmiṃdraṃ vo viśvatasparīti ca*) (Ā. 6-5). At the time of the midday pressing, with a surplus of Soma, one śastra mantra is to be recited. Then the Pragātha बण्म्रहा असि (*baṇmrahā asi*) (Ṛks 11-12) is to be recited as the stotriya Pragātha, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra बण्म्रहा असि सूर्योदु त्यद्दर्शतं वपुरिति प्रगाथौ स्तोत्रियानुरूपौ (*baṇmrahā asi sūryodu tyaddarśataṃ vapuriti pragāthau stotriyānurūpau*) (Ā. 6-7). That this same Pragātha (Ṛks 11-12), at the midday pressing on the day of the sacrifice called Cāturviṃśika, is to be recited by the priest called Brāhmaṇācchaṃsin as the alternative anurūpa Pragātha, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra श्रायंत इव सूर्यं बण्म्रहा असि सूर्य (*śrāyaṃta iva sūryaṃ baṇmrahā asi sūrya*) (Ā. 6-4). That in the domestic rite called madhuparka this Ṛk माता रुद्राणां (*mātā rudrāṇāṃ*) (the fifteenth Ṛk) is to be recited and the cow released, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra माता रुद्राणां दुहिता वसूनामिति जपित्वोवमुत्सृजते त्र्स क्ष्यन् (*mātā rudrāṇāṃ duhitā vasūnāmiti japitvovamutsṛjate trsa kṣyan*) (Ā. Gṛ. 1-24-25). **NOTE**
+
+### Printed p. 518
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 10; Sūkta 101. Aṣṭaka 6; Adhyāya 7; Varga 6, 7, 8. Number of Ṛks in the sūkta: 16.
+
+Seer: Jamadagnir Bhārgavaḥ.
+
+Deity: 1-4, and 5 (three feet), Mitrāvaruṇau; 5 (fourth foot), 6, Ādityāḥ; 7-8, Aśvinau; 9-10, Vāyuḥ; 11-12, Sūryaḥ; 13, Uṣāḥ or Sūryaprabhā; 14, Pavamānaḥ; 15-16, Gauḥ.
+
+Metre: 1, 5, 7, 9, 11, 13, Bṛhatī; 2, 4, 6, 8, 10, 12, Satobṛhatī; 3, Gāyatrī; 14-16, Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋध॑गि॒त्था स मर्त्यः॑ शश॒मे दे॒वता॑तये ।  
+> यो नू॒नं मि॒त्रावरु॑णाव॒भिष्ट॑य आच॒क्रे ह॒व्यदा॑तये ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋधक् । इत्था । सः । मर्त्यः । शशमे । देवऽतातये ।  
+> यः । नूनम् । मित्रावरुणौ । अभिष्टये । आऽचक्रे । हव्यऽदातये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः मनुष्यः नूनं क्षिप्रं हव्यदातये हविषां प्रदात्रे यजमानाय मित्रावरुणौ अभिष्टये अभिमतसिद्धयर्थम् आचक्रे अभिमुखौ करोति सः मर्त्यः मनुष्यः ऋधक् सत्यम् इत्था इत्थं देवतातये यज्ञार्थं शशमे हविः संस्करोति ॥
+
+##### Gist of the bhāṣya
+
+The man who quickly brings Mitra and Varuṇa face to face, for the fulfilment of his wish, to the sacrificer who gives the oblations, that mortal, in truth, thus prepares the oblation for the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- नूनं (*nūnaṃ*)—quickly
+- हव्यदातये (*havyadātaye*)—to the sacrificer who offers oblations
+- मित्रावरुणौ (*mitrāvaruṇau*)—Mitra and Varuṇa
+- अभिष्टये (*abhiṣṭaye*)—for the fulfilment of the wish
+- आचक्रे (*ācakre*)—brings face to face with him
+- सः मर्त्यः (*saḥ martyaḥ*)—that same man
+- ऋधक् (*ṛdhak*)—truly
+- इत्था (*itthā*)—in this manner
+- देवतातये (*devatātaye*)—for the sacrifice
+- शशमे (*śaśame*)—prepares the oblation
+
 ---
 
-**Progress note:** Done through printed p. 512. Ṛk 6 end to Ṛk 11 of Sūkta 100, pp. 507-512
+**Progress note:** Done through printed p. 518. Ṛk 11-12 of Sūkta 100, Sūkta 101 introduction and Ṛk 1, pp. 513-518
