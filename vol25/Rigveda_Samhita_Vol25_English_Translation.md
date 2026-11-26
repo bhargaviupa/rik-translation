@@ -27379,6 +27379,259 @@ O Udgātṛs and the others, who desire protection (अवस्यवः (*avas
 - अभि (*abhi*)—having in view (with reference to)
 - प्र गायतॆ (*pra gāyatè*)—praise well
 
+### Printed p. 684
+
+##### भावार्थ (Bhāvārtha)
+
+O Udgātṛ priests, you who desire protections, sing well, and chant, with reference to Soma, who is the purifier, the intelligent one or the one who gladdens the gods, and who is pressed for the drinking of the gods.
+
+##### English translation
+Sing aloud, you who are desirous of (divine) protection, to the purifying wise Soma, effused for the beverage of the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पवं॑ते॒ वाज॑सातये॒ सोमाः॑ स॒हस्र॑पाजसः ।  
+> गृ॒णा॒ना दे॒ववी॑तये ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवंते । वाजऽसातये । सोमाः । सहस्रऽपाजसः ।  
+> गृणानाः । देवऽवीतये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवंते क्षरंति सोमाः । किमर्थम् । वाजसातये अन्नस्य लाभाय । कीदृशाः । सहस्रपाजसः बहुबलाः । पातॄणां बलप्रदा इत्यर्थः । गृणानाः । कर्मणि कर्तृप्रत्ययः । स्तूयमानाः । पुनः किमर्थम् । देववीतये । देवानां वीतिर्गतिः प्राप्तिर्भक्षणं वा यस्मिन् स देववीतिर्यज्ञः । तदर्थम् । यज्ञसिद्धिः साक्षात् प्रयोजनं तद्द्वारा अन्नलाभ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices (सोमाः (*somāḥ*)) flow (पवंते (*pavaṃte*), "trickle"). For what purpose? For the winning (वाजसातये (*vājasātaye*)) of food. Of what kind are they? Of a thousand powers (सहस्रपाजसः (*sahasrapājasaḥ*)): they have much strength, that is, they give strength to those who drink them. They are praised (गृणानाः (*gṛṇānāḥ*)). For what further purpose? For देववीतये (*devavītaye*): devavīti is the sacrifice, in which there is the going, arrival or eating of the gods. For that sake. The accomplishment of the sacrifice is the direct purpose, and through it the winning of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देववीतये (*devavītaye*)—for the performance of the sacrifice (and through it)
+- वाजसातये (*vājasātaye*)—for the attainment of food
+- सहस्रपाजसः (*sahasrapājasaḥ*)—giving strength to those who drink
+- गृणानाः (*gṛṇānāḥ*)—and praised
+- सोमाः (*somāḥ*)—Soma juices
+- पवंते (*pavaṃte*)—flow, trickling
+
+##### भावार्थ (Bhāvārtha)
+
+For the performance of the sacrifice, and through it for the attainment of food, the Soma juices, which give strength to those who drink and are praised by the priests, are pressed and flow, trickling.
+
+### Printed p. 685
+
+##### English translation
+The Soma-juices flow for the attainment of food,—giving abundance of strength and hymned (to become) the beverage of the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ वाज॑सातये॒ पव॑स्व बृह॒तीरिषः॑ ।  
+> द्यु॒मदिं॑दो सु॒वीर्य॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । वाजऽसातये । पवस्व । बृहतीः । इषः ।  
+> द्युऽमत् । इंदो इति । सुऽवीर्यम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च नः अस्माकं वाजसातये अन्नलाभाय हे इंदो सोम बृहतीरिषः महतीः रसधाराः द्युमत् दीप्तिमत् सुवीर्यं शोभनसामर्थ्यं च पवस्व क्षर । शोभनसामर्थ्योपेता धाराः पवस्वेत्यर्थः । अथवा । वाजसातये संग्रामाय बृहतीरिषो द्युमत् सुवीर्यं संपादयितुं पवस्वेति योज्यम् ॥
+
+##### Gist of the bhāṣya
+
+And (उत (*uta*)) for our (नः (*naḥ*)) winning of food (वाजसातये (*vājasātaye*)), O Indu, Soma, flow (पवस्व (*pavasva*), "pour") great (बृहतीः (*bṛhatīḥ*)) streams of juice (इषः (*iṣaḥ*)), and splendid (द्युमत् (*dyumat*), "shining") good valour (सुवीर्यं (*suvīryaṃ*)), that is, good ability. The meaning is that you should flow streams endowed with good ability. Or else, वाजसातये (*vājasātaye*) means "for battle", and the construction is: flow so as to bring about for us great streams and splendid good valour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- नः (*naḥ*)—to us
+- वाजसातये (*vājasātaye*)—for the attainment of food
+- इंदो (*iṃdo*)—O divine Soma
+- बृहतीः इषः (*bṛhatīḥ iṣaḥ*)—abundant streams of juice
+- द्युमत् (*dyumat*)—shining
+- सुवीर्यं (*suvīryaṃ*)—and excellent strength and capacity, providing
+- पवस्व (*pavasva*)—flow
+- वाजसातये (*vājasātaye*)—or: for the sake of battle
+- बृहतीः इषः (*bṛhatīḥ iṣaḥ*)—or: abundant food
+- द्युमत् (*dyumat*)—or: the best **NOTE**
+- सुवीर्यं (*suvīryaṃ*)—or: for bringing about strength and capacity
+- पवस्व (*pavasva*)—or: flow, trickling (from the plants)
+
+##### भावार्थ (Bhāvārtha)
+
+And, O Soma, for the attainment of food or for battle, flow, trickling in streams from many places, so as to bring about for us abundant food and excellent strength and capacity.
+
+### Printed p. 686
+
+##### English translation
+You, Indu, for our attainment of food pour forth obundant streams, and splendid and excellent vigour.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नः॑ सह॒स्रिणं॑ र॒यिं पवं॑ता॒मा सु॒वीर्य॑म् ।  
+> सु॒वा॒ना दे॒वास॒ इंद॑वः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । सहस्रिणम् । रयिम् । पवंताम् । आ । सुऽवीर्यम् ।  
+> सुवानाः । देवासः । इंदवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते इंदवः सोमाः नः अस्माकं सहस्रिणं सहस्रसंख्योपेतं रयिं धनं सुवीर्यं च आ पवंताम् । कीदृशास्ते । सुवानाः सूयमानाः देवासः द्योतनादिगुणयुक्ताः ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+May those Soma juices (इंदवः (*iṃdavaḥ*)) flow to us (आ पवंताम् (*ā pavaṃtām*)) a thousandfold (सहस्रिणं (*sahasriṇaṃ*)) wealth (रयिं (*rayiṃ*)) and good valour (सुवीर्यं (*suvīryaṃ*)). Of what kind are they? Being pressed (सुवानाः (*suvānāḥ*)), and divine (देवासः (*devāsaḥ*)), that is, endowed with qualities such as brightness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानाः (*suvānāḥ*)—pressed and squeezed with stones
+- देवासः (*devāsaḥ*)—and shining
+- ते इंदवः (*te iṃdavaḥ*)—those Soma juices
+- नः (*naḥ*)—to us
+- सहस्रिणं (*sahasriṇaṃ*)—measureless
+- रयिं (*rayiṃ*)—wealth
+- सुवीर्यं च (*suvīryaṃ ca*)—and strength and capacity
+- आ पवंतां (*ā pavaṃtāṃ*)—may they give
+
+##### भावार्थ (Bhāvārtha)
+
+May those Soma juices, which are pressed and squeezed with stones and are shining, that is, clear, give us wealth that is a thousandfold or measureless, and strength and capacity.
+
+##### English translation
+May those divine libations, when effused, bring to us thousand-fold wealth and excellent vigour.
+
+### Printed p. 687
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्या॑ हिया॒ना न हे॒तृभि॒रसृ॑ग्रं॒ वाज॑सातये ।  
+> वि वार॒मव्य॑मा॒शवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्याः । हियानाः । न । हेतृऽभिः । असृग्रम् । वाजऽसातये ।  
+> वि । वारम् । अव्यम् । आशवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजसातये संग्रामाय हियानाः प्रेर्यमाणाः अस्याः न अश्वा इव ते यथा प्रेरकैः प्रेर्यमाणाः संग्रामाय शीघ्रं धावंति तद्वत् हेतृभिः प्रेरकैः प्रेर्यमाणाः आशवः शीघ्रगामिनः सोमाः वाजसातये अन्नलाभाय अव्यं वारं दशापवित्रं वि असृग्रं व्यतिसृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+As horses (अश्वा (*aśvā*)) urged on by their drivers run swiftly to battle (संग्रामाय (*saṃgrāmāya*)), so the swift (आशवः (*āśavaḥ*)) Soma juices, urged on by the urgers (हेतृभिः (*hetṛbhiḥ*)), are sent out through the filter (अव्यं वारं (*avyaṃ vāraṃ*)), the ten-fold filter, for the winning (वाजसातये (*vājasātaye*)) of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजसातये (*vājasātaye*)—for the sake of battle
+- हियानाः (*hiyānāḥ*)—urged
+- अत्याः न (*atyāḥ na*)—like horses
+- हेतृभिः (*hetṛbhiḥ*)—by the urgers, that is, by the Adhvaryu and the other priests, pounded with stones and ejected
+- आशवः (*āśavaḥ*)—the Soma juices flowing very swiftly
+- वाजसातये (*vājasātaye*)—(for the attainment of food)
+- अव्यं वारं (*avyaṃ vāraṃ*)—the ten-fold filter covered with the fleece of the sheep
+- वि असृग्रं (*vi asṛgraṃ*)—cross it and are ejected
+
+##### भावार्थ (Bhāvārtha)
+
+As horses urged on by riders in battle run swiftly, the Soma juices, pounded and squeezed with stones, that is, urged on, by the Adhvaryu and the other priests in the sacrifice that is performed for the attainment of food, cross the ten-fold filter (the filtering device), which is covered with the fleece of the sheep and kept there for the filtering, and are ejected.
+
+##### English translation
+Like horses urged to battle by their drivers, the swift-flowing juices hasten through the woollen fleece
+
+### Printed p. 688
+
+##### विशेषविषयगळु (Special Topics)
+
+अव्यं वारं (*avyaṃ vāraṃ*)—अवि (*avi*) means a ewe or a sheep; अव्यं (*avyaṃ*) means the wool relating to a sheep. A cloth made of this wool is spread over a vessel, and the Soma juice squeezed from the plant is poured over it. The husks and the like mixed in that juice are filtered out by it, and the clear and pure Soma juice comes and stands in the vessel. It is to be understood like the juice drawn from sugar-cane by crushing, which is filtered through a cloth.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒श्रा अ॑र्षं॒तींद॑वो॒ऽभि व॒त्सं न धे॒नवः॑ ।  
+> द॒ध॒न्वि॒रे गभ॑स्त्योः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाश्राः । अर्षंति । इंदवः । अभि । वत्सम् । न । धेनवः ।  
+> दधन्विरे । गभस्त्योः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाश्राः शब्दयंतः इंदवः सोमाः अभि अर्षंति अभिगच्छंति पात्रं प्रति वाश्राः शब्दकारिण्यः धेनवः न । ता यथा शब्दयंत्यः वत्सं प्रत्यागच्छंति तद्वत् । त एव गभस्त्योः बाह्वोः दधन्विरे ध्रियंते च ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices (इंदवः (*iṃdavaḥ*)), making sound (वाश्राः (*vāśrāḥ*)), go (अभि अर्षंति (*abhi arṣaṃti*)) towards the vessel, like sounding cows (धेनवः (*dhenavaḥ*)): as they come back to the calf with sound, so do these. The same (juices) are held (दधन्विरे (*dadhanvire*)) in the arms (गभस्त्योः (*gabhastyoḥ*)), that is, in the two arms.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवः (*dhenavaḥ*)—cows
+- वत्सं न (*vatsaṃ na*)—as they go lowing to their calves
+- इंदवः (*iṃdavaḥ*)—the Soma juices issuing from the plants
+- वाश्राः (*vāśrāḥ*)—making a gurgling sound
+- अभि अर्षंति (*abhi arṣaṃti*)—approach the Soma-pressing vessel
+- ते (*te*)—(those very Soma juices)
+- गभस्त्योः (*gabhastyoḥ*)—in the hands (of the priests)
+- दधन्विरे (*dadhanvire*)—are held
+
+##### भावार्थ (Bhāvārtha)
+
+As cows go lowing when they go near their calves, the Soma juices issuing from the plants fall gurgling into the Soma-pressing vessel. Afterwards the priests and others lift those juices in their hands and take them up.
+
+### Printed p. 689
+
+##### English translation
+Making a loud noise, the libations flow (to the vessel) like cows low-ing to their calves; they are held in the arms (of the priests).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जुष्ट॒ इंद्रा॑य मत्स॒रः पव॑मान॒ कनि॑क्रदत् ।  
+> विश्वा॒ अप॒ द्विषो॑ जहि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुष्टः । इंद्राय । मत्सरः । पवमान । कनिक्रदत् ।  
+> विश्वाः । अप । द्विषः । जहि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राय जुष्टः प्रियः पर्याप्तः मत्सरः सोमो भवतीति शेषः। 'मत्सरः सोमो मंदतेस्तृप्तिकर्मणः ' (निरु. २.५) इति निरुक्तम् । हे पवमान त्वं कनिक्रदत् शब्दयन् विश्वाः द्विषः सर्वानस्माकं द्वेष्टॄन् अप जहि ॥
+
+##### Gist of the bhāṣya
+
+Soma becomes dear (जुष्टः (*juṣṭaḥ*)), sufficient and exhilarating (मत्सरः (*matsaraḥ*)) for Indra, "being" being understood. The Nirukta (Niru. 2.5) **NOTE** says that matsara is Soma, from the root mad, which has the sense of what causes satisfaction. O purifying Soma (पवमान (*pavamāna*)), sounding (कनिक्रदत् (*kanikradat*)), smite away (अप जहि (*apa jahi*)) all (विश्वाः (*viśvāḥ*)) those who hate (द्विषः (*dviṣaḥ*)), all our haters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राय (*iṃdrāya*)—(that Soma) to Indra
+- जुष्टः (*juṣṭaḥ*)—is dear
+- मत्सरः (*matsaraḥ*)—and gives delight
+- पवमान (*pavamāna*)—you, O divine Soma, the purifier
+- कनिक्रदत् (*kanikradat*)—making a sound
+- विश्वाः द्विषः (*viśvāḥ dviṣaḥ*)—all our enemies
+- अप जहि (*apa jahi*)—conquer and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma that is pressed is dear to Indra and gives delight. O Soma, the purifier, making a sound, conquer and destroy all our enemies.
+
+##### English translation
+Acceptable and giving delight to Indra, pure (Soma). as you utter a sound, you destroy all our enemies.
+
 ---
 
-**Progress note:** Done through printed p. 683. Sūkta 12 Ṛks 6-9 with adhyāya end; Sūkta 13 Ṛks 1-2 (pp. 677-683)
+**Progress note:** Done through printed p. 689. Sūkta 13 Ṛks 2 end to 8 (pp. 684-689)
