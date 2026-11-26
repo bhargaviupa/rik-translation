@@ -9482,6 +9482,206 @@ Sāyaṇa addresses Aryaman: may desirable wealth, वामं (*vāmaṃ*), th
 
 O god Aryaman, may wealth that all desire be ours. O Varuṇa, may excellent wealth also be ours. For we pray to you that you give us wealth.
 
+### Printed p. 236
+
+##### English translation
+Be wealth ours, Aryaman,—wealth worthy to be praised, Varuna; it is wealth which we ask.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒मस्य॒ हि प्र॑चेतस॒ ईशा॑नाशो रिशादसः ।  
+> नेमा॑दित्या अ॒घस्य॒ यत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वामस्य । हि । प्रऽचेतसः । ईशानासः । रिशादसः ।  
+> न । ईम् । आदित्याः । अघस्य । यत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रचेतसः प्रकृष्टज्ञानाः शोभनस्तुतयो वा हे रिशादसः रिशतां हिंसतां शत्रूणामसितारः क्षेप्तारो देवा यूयं वामस्य वननीयस्य धनस्य ईशानासः ईशानाः। हिरवधारणे । ईशाना एव स्वामिन एव भवथ । तस्माद्युष्मान् याचामह इत्यर्थः । ईशानाः । ईश ऐश्वर्यं । अनुदात्तेत् ।  ‘ तास्यनुदात्तेत् ' इति स्वरेणाद्युदात्तता भवति । न संबुद्धिः । ततो हे आदित्याः अदितेः पुत्रा देवाः ईम् एनं याचमानं मां तद्धनं न प्राप्नोतु यत् धनम् अघस्य पापस्य संबंधि विद्यते ॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the gods: O Pracetasas, that is, those of excellent knowledge, or else those of fine praises; O Riśādasas, hurlers of enemies who injure. You are the lords of desirable wealth; the word हि (*hi*) is used for emphasis, so you are indeed its masters, and for that reason we ask you. Then, addressing the Ādityas, sons of Aditi: let not that wealth which is connected with sin reach me, who beg of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसः (*pracetasaḥ*)—those of excellent knowledge, or worthy of excellent praise
+- रिशादसः (*riśādasaḥ*)—destroyers of enemies; all you gods
+- वामस्य (*vāmasya*)—to the wealth that all desire
+- ईशानासः (*īśānāsaḥ*)—you are indeed the lords
+- आदित्यासः (*ādityāsaḥ*)—O gods, sons of Aditi
+- ईं (*īṃ*)—me, who beg of you
+- अघस्य (*aghasya*)—connected with sin
+- यत् (*yat*)—whatever wealth there is, that
+- न (*na*)—let it not come to me
+
+##### भावार्थ (Bhāvārtha)
+
+O gods of excellent knowledge, or worthy of excellent praise, destroyers of enemies, you alone are the lords of the wealth that all desire. O gods, sons of Aditi, let no wealth connected with sin (obtained by injustice) come to me, who beg of you.
+
+### Printed p. 237
+
+##### English translation
+Mighty in wisdom, repellers of enemies, you are the lords of wealth; be not mine the wealth, Adityas, which belongs to sin.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमिद्वः॑ सुदानवः क्षि॒यंतो॒ यांतो॒ अध्व॒न्ना ।  
+> देवा॑ वृ॒धाय॑ हूमहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयम् । इत् । वः । सुऽदानवः । क्षियंतः । यांतः । अध्वन् । आ ।  
+> देवाः । वृधाय । हूमहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः शोभनदाना हे देवाः क्षियंतः गृहेष्वग्निहोत्रार्थं निवसंतः अध्वन् । सुपो लुक्। अध्वनि समिदाहरणार्थं यांतः गच्छंतोऽपि वयं वः इत् युष्मानेव वृधाय हविर्भिर्वर्धनाय हूमहे आह्वयामः । यद्वा । वयं गृहेषु गृहान्निर्गमनकाले मार्गेषु च वृधायास्माकं धनादिभिर्वर्धनायाह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O bounteous gods, whether we dwell in our houses for the Agnihotra, or are going along the road to fetch fuel sticks, we invoke only you, to nourish you with oblations. Or else: we invoke you at home, at the time of leaving the house, and on the roads, for our own increase through wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—excellent givers
+- देवाः (*devāḥ*)—O gods
+- वयं (*vayaṃ*)—we
+- क्षियंतः (*kṣiyaṃtaḥ*)—even when we stay in our houses to perform the Agnihotra and other rites
+- अध्वन् (*adhvan*)—in the middle of the road, to bring fuel sticks and the like
+- यांतः (*yāṃtaḥ*)—even when going
+- वः इत् (*vaḥ it*)—you alone
+- वृधायु (*vṛdhāyu*)—to nourish with oblations and the like, or to praise with hymns and the like, or for the increase of our wealth
+- हूमहे (*hūmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, excellent givers, whether we stay at home performing the Agnihotra and other rites, or go along the road to fetch fuel sticks and the like, we pray to you and call on you alone, to praise and nourish you, or for the increase of our wealth.
+
+### Printed p. 238
+
+##### English translation
+Bounteous deities, whether we dwell at home or go abroad on the road, we invoke you only to be nourished by our oblations.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॑ न इंद्रैषां॒ विष्णो॑ सजा॒त्या॑नाम् ।  
+> इ॒ता मरु॑तो॒ अश्वि॑ना ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । नः । इंद्र । एषाम् । विष्णो इति । सऽजात्यानाम् ।  
+> इत । मरुतः । अश्विना ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र विष्णो मरुतः हे अश्विना अश्विनौ हे इंद्रादयो देवाः सजात्यानाम् । समानायां जातौ भवाः सजात्या भ्रातृमित्रादयः । तेषाम् एषां मध्ये नः अस्मान् अधि इत यूयं स्तुत्यतयाधिगच्छत ॥
+
+##### Gist of the bhāṣya
+
+O Indra, Viṣṇu, Maruts, Aśvins, and all you gods beginning with Indra: kinsmen (सजात्या (*sajātyā*)) are brothers, friends and the like, born in the same family. From among these, come to us, as those worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- मरुतः (*marutaḥ*)—O Marut gods
+- अश्विना (*aśvinā*)—O Aśvin gods, all of you
+- सजात्यानां विषां (*sajātyānāṃ viṣāṃ*)—from among kinsmen, brothers, friends and the like, born in one family
+- नः (*naḥ*)—to us
+- अधि इत (*adhi ita*)—being prayed to, be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, Viṣṇu, Maruts, and Aśvins, O gods beginning with Indra, being prayed to, be pleased to come to us who stand among kinsmen born in one family.
+
+##### English translation
+Come to us, Indra, Vishnu, Maruts, and Adityas, from the midst of these your brethren.
+
+### Printed p. 239
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र भ्रा॑तृ॒त्वं सु॑दान॒वोऽध॑ द्वि॒ता स॑मा॒न्या ।  
+> मा॒तुर्गर्भे॑ भरामहे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । भ्रातृऽत्वम् । सुऽदानवः । अध । द्विता । समान्या ।  
+> मातुः । गर्भे । भरामहे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः शोभनदाना आदित्याः अध अथ अस्मत्प्रत्यागमनानंतरं वयं समान्या सामान्येन । सुपो ड्यादेशः । पूर्वं सर्वेषां देवानां सांहत्येन ततः द्विता द्विधा द्विप्रकारेण च मातुः अदितेः गर्भे संजातं यद्युष्माकं भ्रातृत्वं विद्यते तदिदानीं वयं प्र भरामहे । प्रभरणमुच्चारणं प्रकाशनं वा । उच्चारयामः प्रकाशयामो वा । सर्वेषां देवानां द्वंद्वशो जननं तैत्तिरीयके स्पष्टमभिहितम् -- ‘ अदितिः पुत्रकामा साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत्' (तै. सं. ६. ५. ६) इत्युपक्रम्य ‘तस्यै पूषा चार्यमा चाजायेताम् ' इत्यादिना । ।
+
+##### Gist of the bhāṣya
+
+O bounteous Ādityas, now, after you have come to us, we proclaim that brotherhood of yours which arose in the womb of your mother Aditi, first commonly (that is, of all the gods together) and then in two ways (द्विता (*dvitā*) means in two kinds). To bear forth here means to utter or to make known. The birth of all the gods in pairs is stated plainly in the Taittirīya text, beginning with अदितिः पुत्रकामा साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् (*aditiḥ putrakāmā sādhyebhyo devebhyo brahmaudanamapacat*) (Tai. Saṃ. 6. 5. 6) and continuing with तस्यै पूषा चार्यमा चाजायेताम् (*tasyai pūṣā cāryamā cājāyetām*) and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—O gods, excellent givers
+- अध (*adha*)—after you have come near us, (we)
+- समान्या (*samānyā*)—common
+- द्विता (*dvitā*)—of two kinds
+- मातुः गर्भे (*mātuḥ garbhe*)—arisen from your birth in the womb of Aditi, the mother of the gods
+- भ्रातृत्वं (*bhrātṛtvaṃ*)—the brotherhood
+- प्रभरामहे (*prabharāmahe*)—(knowing it) we make known
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, excellent givers, after you have come near us, we, knowing it, proclaim the mutual bond of brotherhood that arose among you: for in the womb of Aditi, the divine mother, you were born both commonly and in two kinds.
+
+##### English translation
+Bounteous (deities), we forthwith proclaim aloud that brotherhood of yours in your mother's womb, (first) in common union, then as born in diverse manner.
+
+### Printed p. 240
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer describes the gods as having been born as sons of Aditi, both by a common birth like everyone, and by a birth of two kinds (that is, in pairs); and he says that we know the brotherly relation that those two have who were thus born together in pairs. On this matter the commentator has given a passage of the Taittirīya Saṃhitā, both as an illustration and in support of the point. But in the anuvāka beginning अदितिः पुत्रकामा (*aditiḥ putrakāmā*) which the commentator names (Trai. Saṃ. 6-5-6) **NOTE** the matters quoted do not stand in one order, since many other matters are mentioned in between; and instead of quoting the Taittirīya Brāhmaṇa passage that begins with these same words (अदितिः पुत्रकामा (*aditiḥ putrakāmā*)), the commentator has by a slip quoted the Saṃhitā passage. The sense set out in the Saṃhitā passage does not fit properly the intention indicated in the present Ṛk. It may be his wish that the Brāhmaṇa passage itself be quoted. Therefore there seems no need to explain that Śruti passage, that is, the Saṃhitā passage, here. And since this matter is stated plainly also in the Taittirīya Brāhmaṇa anuvāka beginning अदितिः पुत्रकामा (*aditiḥ putrakāmā*) (Trai. Brā. 1-1-9) **NOTE**, that is what is explained here:
+
+अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोधत्त । तस्यै धाता चार्यमा चाजायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोधत्त । तस्या अग्ंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोधत्त । तस्या इंद्रश्च विवस्वाग्श्चाजायेतां ॥ (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā retodhatta | tasyai dhātā cāryamā cājāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā retodhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā retodhatta | tasyā agṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā retodhatta | tasyā iṃdraśca vivasvāgścājāyetāṃ ‖*)
+
+(Trai. Brā. 1-1-9-1, 2, 3)
+
+In former times Aditi, the divine mother, desiring sons for herself, cooked a special kind of oblation called brahmaudana for the gods called Sādhyas, and offered it to them. Those gods ate it and gave her the remainder. Aditi ate it and conceived. From that womb two sons were born to Aditi, Dhātā and Aryamā. Afterwards Aditi, in the same way, cooked rice a second time and offered it to them; from the remainder they gave her, she ate it, conceived again, and bore two sons, Mitra and Varuṇa. Then a third time
+
+### Printed p. 241
+
+she proceeded in the same way and bore two sons, Aṃśa and Bhaga. When she cooked rice a fourth time and offered it, and conceived by eating the remainder they gave, two sons were then born to Aditi, Indra and Vivasvān. This is the meaning of the passage above. Here it is said that eight sons were born to Aditi in all. This is the common birth of these gods, that is, birth from the mother's womb in the way of the world. For this reason these eight gods stand in the relation of brotherhood to one another. This the seer has set out here by the word समाना (*samānā*). Now if we inquire what द्विता (*dvitā*) means: each time Aditi conceived, two sons were born to her. In the first womb Dhātā and Aryaman, in the second womb Mitra and Varuṇa, in the third womb Aṃśa and Bhaga, in the fourth womb Indra and Vivasvant were born. The being born two by two in one womb the seer has described as द्विता (*dvitā*). Besides the common brotherhood that exists among the eight brothers, the two born in one womb have a special kind of brotherhood called द्विता (*dvitā*). It is this meaning that the seer indicates by the word द्विता (*dvitā*). This relation called द्विता (*dvitā*) applies only to the sons of Aditi born in one womb. One son born in the first womb and another son born in the second womb cannot obtain the brotherhood relation called द्विता (*dvitā*); theirs is common brotherhood. Dhātā and Aryaman, born in one womb, have the द्विता (*dvitā*) relation of brotherhood; in the same way Mitra and Varuṇa, Aṃśa and Bhaga, and Indra and Vivasvant are to be understood as having the द्विता (*dvitā*) brotherhood. The relation that holds among all these eight together is common brotherhood.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं हि ष्ठा सु॑दानव॒ इंद्र॑ज्येष्ठा अ॒भिद्य॑वः ।  
+> अधा॑ चिद्व उ॒त ब्रु॑वे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयम् । हि । स्थ । सुऽदानवः । इंद्रऽज्येष्ठाः । अभिऽद्यवः ।  
+> अध । चित् । वः । उत । ब्रुवे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोऽर्धर्चः सिद्धः । हे सुदानवः शोभनदाना देवाः इंद्रज्येष्ठाः । इंद्रो ज्येष्ठो मुख्यो येषां ते तथोक्ताः । सर्वे देवा इंद्रनेतृका इत्यर्थः । तादृशाः अभिद्यवः अभिगतदीप्तयः यूयं हि स्थ अस्मद्यज्ञे भवथ खलु । हि प्रसिद्धौ । अध चित् अथानंतरमेव वः युष्मान् अहं ब्रुवे स्तौमि । उत अपि च पुनःपुनः स्तौमीत्यर्थः ॥ ॥ ४ ॥
+> xxv. 16
+
+##### Gist of the bhāṣya
+
+The first half-verse is already explained. O bounteous gods, you are इंद्रज्येष्ठाः (*iṃdrajyeṣṭhāḥ*), that is, those whose eldest and chief is Indra; the meaning is that all the gods have Indra as leader. Being such, and अभिद्यवः (*abhidyavaḥ*), those of approaching radiance, you indeed are present at our sacrifice; the word हि (*hi*) is used in the sense of "well known". Then, immediately after, I praise you; and the meaning of उत (*uta*) is "and moreover": I praise you again and again.
+
 ---
 
-**Progress note:** Done through printed p. 235. Sūkta 82 end, Sūkta 83 Ṛk 1-4, pp. 230-235
+**Progress note:** Done through printed p. 241. Mandala 8 sukta 83 rks 5-9, pp. 236-241
