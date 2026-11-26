@@ -2358,6 +2358,280 @@ The Soma-juices pressed (at the sacrifice) adorned like a bride who has a father
 > एते । सोमासः । इंदवः । प्रयस्वंतः । चमू इति । सुताः ।  
 > इंद्रम् । वर्धंति । कर्मऽभिः ॥ ३ ॥
 
+### Printed p. 113
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदवः दीप्ताः प्रयस्वंतः अन्नवंतः एते अस्मिन् कर्मणि वर्तमाना अमी सोमासः सोमाः चमू चम्वोरधिषवणफलकयोः सुताः अभिषुताः संतः कर्मभिः यागैः इंद्रं वर्धयंति प्रीणयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: the Soma-juices (सोमासः (*somāsaḥ*)) that are present in this rite are radiant (इंदवः (*iṃdavaḥ*)) and provided with food (प्रयस्वंतः (*prayasvaṃtaḥ*)). They are pressed on the two pressing-boards (चमू (*camū*), understood as the two boards used for pressing), and by the sacrificial rites (कर्मभिः (*karmabhiḥ*), that is, by sacrifices) they magnify Indra, that is, they gratify him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदवः (*iṃdavaḥ*)—endowed with lustre
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—endowed with food
+- एते (*ete*)—appointed in this rite
+- सोमासः (*somāsaḥ*)—the Soma-juices
+- चमू (*camū*)—by the pressing boards
+- सुताः (*sutāḥ*)—pressed
+- कर्मभिः (*karmabhiḥ*)—by the sacrificial rites
+- इंद्रं (*iṃdraṃ*)—Indra
+- वर्धंति (*vardhaṃti*)—they gratify
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, endowed with lustre, endowed with food, appointed in the present rite, are pressed on the pressing boards and gratify Indra by the sacrificial rites.
+
+##### English translation
+These brilliant Soma-Juices, bestowing pleasant food, expressed into
+the vessel, gratify Indra with the ceremonies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ धा॑वता सुहस्त्यः शु॒क्रा गृ॑भ्णीत मं॒थिना॑ ।  
+> गोभिः॑ श्रीणीत मत्स॒रम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । धावत । सुऽहस्त्यः । शुक्रा । गृभ्णीत । मंथिना ।  
+> गोभिः । श्रीणीत । मत्सरम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुहस्त्यः शोभनहस्ता ऋत्विजः आ धावत । मां संप्रति आगच्छत । मंथिना सह शुक्रा शुक्रं च गृभ्णीत गृह्णीत सोमम् । मत्सरं सोमं गोभिः गोविकारैः पयोभिः श्रीणीत संस्कुरुत च ॥
+
+##### Gist of the bhāṣya
+
+O priests of good hands (सुहस्त्यः (*suhastyaḥ*)), run hither, that is, come to me. Take up the pure Soma (शुक्रा (*śukrā*)) together with the churning-vessel (मंथिना (*maṃthinā*)). Mix and prepare the exhilarating Soma (मत्सरं (*matsaraṃ*)) with the products of the cow (गोभिः (*gobhiḥ*)), that is, with milk.
+
+### Printed p. 114
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुहस्त्यः (*suhastyaḥ*)—O priests of excellent hands
+- आ धावत (*ā dhāvata*)—run hither
+- मंथिना (*maṃthinā*)—with the ladle **NOTE**
+- शुक्रा (*śukrā*)—the radiant Soma
+- गृभ्णीत (*gṛbhṇīta*)—receive
+- मत्सरं (*matsaraṃ*)—the exhilarating Soma
+- गोभिः (*gobhiḥ*)—with milk and the other accompanying substances
+- श्रीणीत (*śrīṇīta*)—mix and prepare
+
+##### भावार्थ (Bhāvārtha)
+
+O priests of excellent hands, run hither. Receive with the ladle the radiant Soma. Mix the exhilarating Soma with milk and the other accompanying substances, and prepare it.
+
+##### English translation
+Dexterous (priests) hasten (to me), take with the ladle the pure (Soma) mix the exhilarating (Soma) with milk and curds.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑वस्व धनंजय प्रयं॒ता राध॑सो म॒हः ।  
+> अ॒स्मभ्यं॑ सोम गातु॒वित् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवस्व । धनम्ऽजय । प्रऽयंता । राधसः । महः ।  
+> अस्मभ्यम् । सोम । गातुऽवित् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धनंजय शत्रुसंबंधिनां जनानां जेतः सोम गातुवित् अभीष्टमार्गस्य लंभकः अस्मभ्यं महः महतः राधसः धनस्य प्रयंता प्रदाता च यः सः त्वं पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, conqueror (धनंजय (*dhanaṃjaya*)) of the people belonging to the enemies, finder (गातुवित् (*gātuvit*)) of the desired path, and giver (प्रयंता (*prayaṃtā*)) to us of great wealth (राधसः (*rādhasaḥ*)): you who are such, flow, that is, stream. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धनंजय (*dhanaṃjaya*)—able to win the wealth of enemies
+- सोम (*soma*)—O divine Soma
+- गातुवित् (*gātuvit*)—knower of good paths
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—of wealth
+- प्रयंता (*prayaṃtā*)—the excellent giver
+- सः (*saḥ*)—the renowned one
+- पवस्व (*pavasva*)—flow, purifying
+
+### Printed p. 115
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, able to win the wealth of enemies, knower of good paths, excellent giver to us of great wealth, renowned one, flow, purifying.
+
+##### English translation
+Soma, conqueror of wealth, who know the way (to fulfil my desires), flow forth the bestower of vast wealth upon us.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं मृ॑जंति॒ मर्ज्यं॒ पव॑मानं॒ दश॒ क्षिपः॑ ।  
+> इंद्रा॑य मत्स॒रं मद॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतम् । मृजंति । मर्ज्यम् । पवमानम् । दश । क्षिपः ।  
+> इंद्राय । मत्सरम् । मदम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्ज्यं मर्जनीयं शोध्यं पवमानं क्षरंतं मत्सरं मदकरम् एतम् इमं मदं सोमं दशसंख्याकाः क्षिपः अंगुलयः । ‘ व्रिशः क्षिपः' इत्यंगुलिनामसु पाठात् । इंद्रार्थं मृजंति पवित्रे शोधयंति ॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+This Soma (मदं (*madaṃ*)) is fit to be cleansed (मर्ज्यं (*marjyaṃ*)), that is, to be purified; it flows (पवमानं (*pavamānaṃ*)) and is exhilarating (मत्सरं (*matsaraṃ*)), that is, it produces intoxication. The ten (दश (*daśa*)) क्षिपः (*kṣipaḥ*), that is, the fingers, cleanse it for Indra in the filter. Sāyaṇa supports this with the reading व्रिशः क्षिपः (*vriśaḥ kṣipaḥ*), found among the names of the fingers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्ज्यं (*marjyaṃ*)—fit to be cleansed
+- पवमानं (*pavamānaṃ*)—flowing
+- मत्सरं (*matsaraṃ*)—intoxicating
+- एतं मदं (*etaṃ madaṃ*)—this Soma
+- दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- मृजंति (*mṛjaṃti*)—press in the ten-fold filter
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers press in the ten-fold filter, for Indra's drinking, this Soma who is fit to be cleansed, who flows and who intoxicates.
+
+### Printed p. 116
+
+##### English translation
+The ten fingers purtfy this purifiable pure flowing exhilarating juice for Indra.
+
+## Sūkta 47 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘अया सोमः' इति पंचर्चं त्रयोविंशं सूक्तं भृगुपुत्रस्य कवेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतम् -- ‘अया सोमः पंच कविर्भार्गवः' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अया सोमः (*ayā somaḥ*) has five ṛks and is the twenty-third sūkta. Its seer is Kavi, the son of Bhṛgu; its metre is Gāyatrī; its deity is Pavamāna Soma. So the Anukramaṇī says: अया सोमः पंच कविर्भार्गवः (*ayā somaḥ paṃca kavirbhārgavaḥ*). The use in the rite has been stated.
+
+Translation: This is the sūkta अया सोमः (*ayā somaḥ*). It is the twenty-third sūkta in the second anuvāka. It contains five ṛks. The seer of this sūkta is Kavi, the son of Bhṛgu; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said: Kavi Bhārgava, five. The use in the rite has been stated before.
+
+Sūkta 47. Maṇḍala 9, Anuvāka 2, Sūkta 47. Aṣṭaka 7, Adhyāya 1, Varga 4. Number of ṛks in the sūkta: 5. Seer: Kavi Bhārgava. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या सोमः॑ सुकृ॒त्यया॑ म॒हश्चि॑द॒भ्य॑वर्धत ।  
+> मं॒दा॒न उद्वृ॑षायते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । सोमः । सुऽकृत्यया । महः । चित् । अभि । अवर्धत ।  
+> मंदानः । उत् । वृषऽयते ॥ १ ॥
+
+### Printed p. 117
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः अया अनया सुकृत्यया शोभनयाभिषवादिलक्षणया क्रियया महश्चित् महतो देवान् प्रति अभ्यवर्धत प्रवृद्धोऽभूत् । मंदानः मोदमानः उद्वृषायते वृषवदाचरति । यथा मोदमानो वृषभः शब्दं करोति तथाभिषववेलायामुपरवेषु शब्दं करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma, by this good work (सुकृत्यया (*sukṛtyayā*)), that is, by an action of the kind of pressing and the like, grew mighty (महश्चित् (*mahaścit*)) in relation to the gods, that is, he became strong. Delighting (मंदानः (*maṃdānaḥ*)), he behaves like a bull (उद्वृषायते (*udvṛṣāyate*)). As a delighted bull makes a sound, so at the time of pressing he makes a sound on the pressing-stones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—the divine Soma
+- अया सुकृत्यया (*ayā sukṛtyayā*)—by these excellent pressing and other (pressing out) rites
+- महश्चित् (*mahaścit*)—even in the presence of the gods of exceedingly great power
+- अभ्यवर्धत (*abhyavardhata*)—has gained increase
+- मंदानः (*maṃdānaḥ*)—manifesting joy
+- उद्वृषायते (*udvṛṣāyate*)—makes a sound, as a satisfied bull bellows
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Soma, by these excellent pressing and other rites, has gained increase even in the presence of the gods of exceedingly great power. Manifesting joy, he makes a sound as a satisfied bull bellows.
+
+##### English translation
+By this sacred solemnity the Soma is magnified before the mighty
+(gods): exulting he moves like a bull.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒तानीद॑स्य॒ कर्त्वा॒ चेतं॑ते दस्यु॒तर्ह॑णा ।  
+> ऋ॒णा च॑ धृ॒ष्णुश्च॑यते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृतानि । इत् । अस्य । कर्त्वा । चेतंते । दस्युऽतर्हणा ।  
+> ऋणा । च । धृष्णुः । चयते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य यस्य एतस्य सोमस्य दस्युतर्हणा दस्यूनामसुराणां नाशकानि कर्त्वा कर्माणि सः इत् अस्माभिरेव सोऽयं धृष्णुः धृष्टः सोमो यजमानानाम् ऋणा च ऋणान्यपि चयते कामप्रदानेन चातयति ॥
+
+##### Gist of the bhāṣya
+
+The deeds (कर्त्वा (*kartvā*)) of this Soma that destroy the Dasyus, the Asuras, are known. This bold Soma (धृष्णुः (*dhṛṣṇuḥ*)) also discharges (चयते (*cayate*)) the debts of the sacrificers, by granting their desires. **NOTE**
+
+### Printed p. 118
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this divine Soma
+- दस्युतर्हणा (*dasyutarhaṇā*)—destroying the Asuras
+- कर्त्वा (*kartvā*)—comprising the rites
+- कृतानि इत् (*kṛtāni it*)—the heroic deeds themselves
+- चेतंते (*cetaṃte*)—they proclaim
+- धृष्णुः (*dhṛṣṇuḥ*)—Soma, the assailant of enemies
+- ऋणा च (*ṛṇā ca*)—and the debts of the sacrificers
+- चयते (*cayate*)—he discharges by granting what is desired
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers proclaim the heroic deeds of this divine Soma, which comprise his Asura-destroying deeds. Soma, the assailant of enemies, also discharges the debts of the sacrificers by granting what is desired.
+
+##### English translation
+They publish his exploits, his acts of Dasya-crushing: resolute he
+acquits the debts (of the worshipper).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आत्सोम॑ इंद्रि॒यो रसो॒ वज्रः॑ सहस्र॒सा भु॑वत् ।  
+> उ॒क्थं यद॑स्य॒ जाय॑ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । सोमः । इंद्रियः । रसः । वज्रः । सहस्रऽसाः । भुवत् ।  
+> उक्थम् । यत् । अस्य । जायते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा अस्य इंद्रस्य उक्थं शस्त्रं जायते प्रादुर्भवति तत् आत् अनंतरमेव इंद्रियः इंद्रस्य प्रियकरः रसः बलवान् वज्रः वज्रसदृशः केनाप्यहिंस्यः सोमः सहस्रसाः अस्मभ्यमपरिमितस्य धनस्य दाता भवति ॥
+
+##### Gist of the bhāṣya
+
+When (यत् (*yat*)) the uktha (उक्थं (*ukthaṃ*)), the śastra of this Indra, arises, then immediately thereafter Soma, dear to Indra (इंद्रियः (*iṃdriyaḥ*)), the strong juice (रसः (*rasaḥ*)), like a thunderbolt (वज्रः (*vajraḥ*)) and not to be harmed by anyone, becomes the giver to us of boundless wealth (सहस्रसाः (*sahasrasāḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- अस्य (*asya*)—addressed to Indra
+- उकथं (*ukathaṃ*)—the śastra-mantra
+- जायते (*jāyate*)—comes into being
+- आत् (*āt*)—immediately thereupon
+- इंद्रियः (*iṃdriyaḥ*)—dear to Indra
+- वज्रः (*vajraḥ*)—the thunderbolt
+
 ---
 
-**Progress note:** Done through printed p. 112. pp. 107-112: Sūkta 9-45 Ṛk 3-6, Sūkta 9-46 Ṛk 1-3 (blocks)
+**Progress note:** Done through printed p. 118. Sūkta 46 Ṛk 3-6 end; Sūkta 47 Ṛk 1-3 begin
