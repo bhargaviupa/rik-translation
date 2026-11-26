@@ -34,3 +34,5 @@
 
 - scan_wordfix.py --apply: 69 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'corrected': 19, 'confirmed': 50}; list: review/wordfix_applied.tsv).
 - Nov 25 2026: front matter (PDF pp. 1–12: cover, title, portrait, ಪೀಠಿಕೆ, contents) read by two agents into p0001–p0012.md and assembled before `<!-- page 1 -->` (scan_assemble.py --body-from 13). The contents agent wrote some unreadable sūkta numbers/titles of the contents 'by their position in the sequence' (its own report): to be checked.
+
+- Nov 26 2026: markdown bold markers `**` (added by transcription agents for words printed in bold; 58 pairs on 10 pages: p0187, p0188, p0189, p0190, p0736, p0737, p0738, p0739, p0740, p0741) removed; the words stay.
