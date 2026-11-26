@@ -30252,6 +30252,196 @@ The milch cows, the gratifying ones, are desirous of Soma; the wise, the intelli
 - सोमं पृच्छमानाः (*somaṃ pṛcchamānāḥ*)—they ask in order to know the place of Soma
 - सुतः (*sutaḥ*)—
 
+### Printed p. 814
+
+- pressed out
+- सोमः (*somaḥ*)—Soma
+- अज्यमानः (*ajyamānaḥ*)—being refined with milk and the like
+- पूयते (*pūyate*)—he is purified
+- त्रिष्टुभः (*triṣṭubhaḥ*)—composed in the Triṣṭup metres
+- अर्काः (*arkāḥ*)—our praises
+- सोमे (*some*)—in Soma
+- सं नवंते (*saṃ navaṃte*)—they unite and join together
+
+##### भावार्थ (Bhāvārtha)
+
+The cows that give gratifying milk wish to partake of Soma. The wise praisers ask with their praises in order to know the place of Soma. The pressed Soma, refined with milk and the like, is purified. Our praises, composed in the Triṣṭup metres, unite and join together in Soma.
+
+##### English translation
+The milch cows (are) longing for the Soma : wise men (are) inquiring for him with praises ; Soma being effused is purified blended (with the milk), our adorations in the Trishtubh metre are united in the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Nirukta Pariśiṣṭa two kinds of meaning, the adhidaivata and the ādhyātma, are explained for this Ṛk.
+
+The adhidaivata view—
+
+एत एव सोमं गावो धेनवो रश्मयो वावश्यमानाः (*eta eva somaṃ gāvo dhenavo raśmayo vāvaśyamānāḥ*) … आदित्यं यंत्येवमेव सोमं विप्रा रश्मयो मतिभिः पृच्छमानाः कामयुमाना आदित्यं यंत्येवमेव सोमः सुतः पूयते अज्यमान एतमेवार्काश्च त्रिष्टुभश्च सन्नवंते तत एतस्मान्नादित्य एकं भवंतीत्यधिदैवतं ॥ (*ādityaṃ yaṃtyevameva somaṃ viprā raśmayo matibhiḥ pṛcchamānāḥ kāmayumānā ādityaṃ yaṃtyevameva somaḥ sutaḥ pūyate ajyamāna etamevārkāśca triṣṭubhaśca sannavaṃte tata etasmānnāditya ekaṃ bhavaṃtītyadhidaivataṃ ‖*) **NOTE** (Ni. 14–15) **NOTE**
+
+Here धेनवः (*dhenavaḥ*) is explained as the rays of the sun. As cows, longing for the sun's rays (that is, the sunshine), leave their cowshed and go to graze in a meadow made pleasant by the sunshine, so the Ṛtvik priests approach Soma with praises and the like and purify him.
+
+The ādhyātma view—
+
+एत एव सोमं गावो धेनव इंद्रियाणि वावश्यमानानि कामयमानान्यात्मानं यंत्येवमेव सोमं विप्रा इंद्रियाणि मतिभिः पृच्छमानानि कामयमानान्यात्मानं यंत्येवमेव सोमः सुतः पूयते आज्यमान इममेवात्मा च सप्त ऋषयश्च सन्नवंते तानीमान्ये तस्मिन्नात्मन्येकं भवंतीत्यात्मगतिमाचष्टे ॥ ( (*eta eva somaṃ gāvo dhenava iṃdriyāṇi vāvaśyamānāni kāmayamānānyātmānaṃ yaṃtyevameva somaṃ viprā iṃdriyāṇi matibhiḥ pṛcchamānāni kāmayamānānyātmānaṃ yaṃtyevameva somaḥ sutaḥ pūyate ājyamāna imamevātmā ca sapta ṛṣayaśca sannavaṃte tānīmānye tasminnātmanyekaṃ bhavaṃtītyātmagatimācaṣṭe ‖ (*) (Ni. 14–15) **NOTE**
+
+### Printed p. 815
+
+Here धेनवः (*dhenavaḥ*) means the senses. As the senses of the body remain near the self in order to gratify it and are engaged each in its own activity, so the seven sages also approach Soma and engage in the work of purification and the like; this is the meaning intended.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नः॑ सोम परिषि॒च्यमा॑न॒ आ प॑वस्व पू॒यमा॑नः स्व॒स्ति ।  
+> इंद्र॒मा वि॑श बृह॒ता रवे॑ण व॒र्धया॒ वाचं॑ ज॒नया॒ पुरं॑धिम् ॥ ३६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । सोम । परिऽसिच्यमानः । आ । पवस्व । पूयमानः । स्वस्ति ।  
+> इंद्रम् । आ । विश । बृहता । रवेण । वर्धय । वाचम् । जनय। पुरम्ऽधिम् ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम परिषिच्यमानः परितः पात्रेषु सिच्यमानः पूयमानस्त्वं नोस्माकमेव स्वस्ति अविनाशमापवस्व आप्रापय । किंच बृहता महता रवेण शब्देन सह इंद्रमाविश प्रविश तथा वाचं स्तुतिलक्षणां वर्धय । किंच पुरंधिं बहुधियं प्रज्ञानं जनय अस्मभ्यं उत्पादय । वाक्यभेदादनिघातः ॥ ३६ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being sprinkled all around, that is, poured round into the vessels, and being purified, flow to us alone and bring us welfare, that is, freedom from destruction. Further, enter Indra with a great sound, and increase our speech, which consists of praise. Further, generate for us पुरंधिं (*puraṃdhiṃ*), that is, abundant wisdom, knowledge.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma, divine one
+- परिषिच्यमानः (*pariṣicyamānaḥ*)—poured into the vessels
+- पूयमानः (*pūyamānaḥ*)—purified
+- नः (*naḥ*)—to us
+- एव (*eva*)—as desired
+- स्वस्ति (*svasti*)—for the accomplishment of welfare
+- आ पवस्व (*ā pavasva*)—flow
+- बृहता (*bṛhatā*)—abundant
+- रवेण (*raveṇa*)—with sound
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ विश (*ā viśa*)—enter
+- वाचं (*vācaṃ*)—our speech in the form of praise
+- वर्धय (*vardhaya*)—strengthen
+- पुरंधिं (*puraṃdhiṃ*)—abundant wisdom
+- जनय (*janaya*)—produce in us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, poured into the vessels and purified, flow for us for the accomplishment of the welfare we desire. Enter Indra with abundant sound. Strengthen our speech in the form of praise. Produce in us abundant wisdom.
+
+### Printed p. 816
+
+##### English translation
+Thus poured around (into the vessels), Soma, when purified flow for our welfare, enter with a great noise into Indra, foster our pr:aise, generate abundant knowledge in us. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+पुरंधिं (*puraṃdhiṃ*)—The use of this word occurs in many contexts, so its meaning has to be explained according to each context; this is understood from the words of the Nirukta author himself.
+
+ते हि यज्ञेषु यज्ञियास ऊमाः (*te hi yajñeṣu yajñiyāsa ūmāḥ*) … विश्वे अभि संति देवाः (*viśve abhi saṃti devāḥ*) … अध्वर (*adhvara*) … यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिं (*yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhiṃ*) **GLOSS** (Ṛ. Saṃ. 7-69-4) **NOTE**
+
+In explaining the meaning of the word पुरंधिं (*puraṃdhiṃ*) in this Ṛk, there (in the Nirukta) it is said:
+
+पुरंधिर्बहुधीस्तत्कः पुरंधिर्भगः पुरस्तात्तस्यान्वादेश इत्येकं । इंद्र इत्य-परं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति । (*puraṃdhirbahudhīstatkaḥ puraṃdhirbhagaḥ purastāttasyānvādeśa ityekaṃ | iṃdra itya-paraṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti |*) (Ni. 9-13) **NOTE**
+
+The meaning of the word पुरंधि (*puraṃdhi*) is: one possessed of abundant धी (*dhī*), that is, of intellect. But if the question is who such a one is, then, since in the quoted Ṛk the word भग (*bhaga*) stands before this word, some hold that it is an attribute of it. Others hold that, since the word धी (*dhī*) is also read among the names of actions, पुरंधि (*puraṃdhi*) means one of many kinds of action, or one who splits the cities of enemies, and so it is an attribute of Indra. Still others hold that, as in passages such as इमामू नु कवितमस्य मायां (*imāmū nu kavitamasya māyāṃ*) (Ṛ. Saṃ. 7-89-4) **NOTE** the supreme resolve of Varuṇa is praised, so in this Ṛk quoted by the Nirukta author also, it may be a synonym of Varuṇa, describing his wisdom. In this way the Nirukta author has stated the differences of opinion. By some further examples the Nirukta author has shown that the word is used both when showing the abundance of the generosity that the gods display towards sacrificers, and when indicating the abundance of the oblations and the like that the sacrificers offer to the gods.
+
+आदाय श्येनो अभरत्सोमं सहस्रं सवा अयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ savā ayutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*) **GLOSS** (Ṛ. Saṃ. 4-26-6) **NOTE**
+
+### Printed p. 817
+
+For the word in this Ṛk, Durgācārya (Ni. 11-2) **NOTE** explains पुरंधिः बहुधनस्य दाता (*puraṃdhiḥ bahudhanasya dātā*), that is, one who gives wealth in great abundance, and Sāyaṇa explains बहुकर्मा (*bahukarmā*). Here this word is an attribute of Indra. The purport is that he is generous.
+
+नृधूतो अद्रिषुतो बर्हिषि प्रियः पतिर्गवां प्रदिव इंदुर्ऋत्वियः । पुरंधिवान्मनुषो यज्ञसाधनः शुचिर्धिया पवते सोमु इंद्र ते ॥ (*nṛdhūto adriṣuto barhiṣi priyaḥ patirgavāṃ pradiva iṃdurṛtviyaḥ | puraṃdhivānmanuṣo yajñasādhanaḥ śucirdhiyā pavate somu iṃdra te ‖*) **GLOSS** (Ṛ. Saṃ. 9-22-4) **NOTE**
+
+In this Ṛk the words बहुकर्मवान् मनुष्यः (*bahukarmavān manuṣyaḥ*) are explained as: a man of many kinds of actions for the gratification of the gods, that is, a man who performs actions. And further—
+
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥ (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*) **GLOSS** (Ṛ. Saṃ. 10-65-13) **NOTE**
+
+In this Ṛk the Nirukta author (Ni. 12-30) **NOTE** explains this word as पुरंध्या स्तुत्या प्रयुक्तानि (*puraṃdhyā stutyā prayuktāni*), that is, वचांसि (*vacāṃsi*), speeches joined with many kinds of praises. Sāyaṇa has said बहुविधया प्रज्ञया सहिता सरस्वती (*bahuvidhayā prajñayā sahitā sarasvatī*), that is, Sarasvatī endowed with manifold wisdom. But from the explanation made by Durgācārya (Ni. 12-30) **NOTE**, बहुधात्र्या, माध्यमिका वाचा (*bahudhātryā, mādhyamikā vācā*), it is understood that the word पुरंधि (*puraṃdhi*) indicates a particular deity similar to Sarasvatī. Likewise—
+
+शं नो भगः शमु नः शंसो अस्तु शं नः पुरंधिः शमु संतु रायः । शं नः सत्यस्य सुयमस्य शंसः शं नो अर्यमा पुरुजातो अस्तु ॥ (*śaṃ no bhagaḥ śamu naḥ śaṃso astu śaṃ naḥ puraṃdhiḥ śamu saṃtu rāyaḥ | śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no aryamā purujāto astu ‖*) **GLOSS** (Ṛ. Saṃ. 5-35-2) **NOTE**
+
+In Ṛks such as this it is understood that पुरंधि (*puraṃdhi*) is itself a separate deity. Sāyaṇa also has not made it an attribute of the words भग (*bhaga*) and the like in this Ṛk. And further,
+
+देवो भगः सविता रायो अंश इंद्रो वृत्रस्य संजितो धनानां । ऋभुक्षा वाज उत वा पुरंधिरवंतु नो अमृतासस्तुरासः ॥ (*devo bhagaḥ savitā rāyo aṃśa iṃdro vṛtrasya saṃjito dhanānāṃ | ṛbhukṣā vāja uta vā puraṃdhiravaṃtu no amṛtāsasturāsaḥ ‖*) **GLOSS** (Ṛ. Saṃ. 5-42-5) **NOTE**
+
+there this word is a synonym of विघ्न (*vighna*) **NOTE**.
+
+पुराणी देवि युवतिः पुरंधिरसु व्रतं विश्ववारे (*purāṇī devi yuvatiḥ puraṃdhirasu vrataṃ viśvavāre*) **GLOSS** (Ṛ. Saṃ. 3-61-1) **NOTE**
+
+### Printed p. 818
+
+In places such as these it is an attribute of Ushas. The meaning is: one who has many praises. Likewise in many places this word is used of the wife and of ordinary women, and gives the meaning of women who are fit to obtain offspring, not barren, and well nourished **NOTE**.
+
+अग्निः सप्तिं वाजंभरं ददात्यग्निर्वीरं श्रुत्य्यर कर्मनिष्ठां । (*agniḥ saptiṃ vājaṃbharaṃ dadātyagnirvīraṃ śrutyyara karmaniṣṭhāṃ |*) … अग्नी रोदसी (*agnī rodasī*) … वीरकुक्षिं पुरंधिं (*vīrakukṣiṃ puraṃdhiṃ*) **GLOSS** (Ṛ. Saṃ. 10-80-1) **NOTE**
+
+In Ṛks such as this (Ṛ. Saṃ. 1-166-12; 1-117-19) **NOTE** it is understood to mean a wife capable of bearing children, and—
+
+प्र बोधया पुरंधिं जार आ ससतीमिव । प्र चक्षय रोदसी वासयोषसः श्रवसे वासयोषसः ॥ (*pra bodhayā puraṃdhiṃ jāra ā sasatīmiva | pra cakṣaya rodasī vāsayoṣasaḥ śravase vāsayoṣasaḥ ‖*) **GLOSS** (Ṛ. Saṃ. 1-134-3) **NOTE**
+
+in Ṛks such as this it is understood to mean a woman fit for enjoyment. Thus Sāyaṇa's commentary has shown that it is a qualifying word describing many kinds of qualities.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ जागृ॑वि॒र्विप्र॑ ऋ॒ता म॑ती॒नां सोमः॑ पुना॒नो अ॑सदच्च॒मूषु॑ ।  
+> सपं॑ति॒ यं मि॑थु॒नासो॒ निका॑मा अध्व॒र्यवो॑ रथि॒रासः॑ सु॒हस्ताः॑ ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ। जागृविः । विप्रः । ऋता । मतीनाम् । सोमः । पुनानः। असदत् । चमूषु ।  
+> सपंति । यम् । मिथुनासः । निऽकामाः ॥ अध्वर्यवः । रथिरासः । सुऽहस्ताः ॥ ३७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जागृविर्जागरणशीलः ऋता सुपांसुलुगिति षठ्या आकारः । ऋतानां सत्यानां मतीनां स्तुतीनां विप्रो ज्ञाता स सोमः पुनानः पूयमानः सन् चमूषु चमसेष्वासदत् आसीदति । मिथुनासः परस्परं संगताः निकामाः नितरां कामयमानाः रथिरासः यज्ञस्य नेतारः सुहस्ताः कल्याणपाणयः अध्वर्यवः पवित्रे यं सोमं सपंति स्पृशंति । षष समवाये। सपतिःस्पृशतिकर्मेति नैरुक्ताः ॥ ३७ ॥
+
+##### Gist of the bhāṣya
+
+जागृविः (*jāgṛviḥ*) means of wakeful nature. ऋता (*ṛtā*) is the genitive plural, with the substitution of ā. Soma, who is the विप्रः (*vipraḥ*), the knower, of the true (ऋतानां (*ṛtānāṃ*)) praises (मतीनां (*matīnāṃ*)), being purified, sits down in the चमूषु (*camūṣu*), that is, in the cups. The Adhvaryus, who are मिथुनासः (*mithunāsaḥ*), united with one another, निकामाः (*nikāmāḥ*), intensely desiring, रथिरासः (*rathirāsaḥ*), leaders of the sacrifice, and सुहस्ताः (*suhastāḥ*), of auspicious hands, touch (सपंति (*sapaṃti*), स्पृशंति (*spṛśaṃti*)) that Soma at the filter. The word सपतिः (*sapatiḥ*) is a word for the action of touching, say the followers of the Nirukta.
+
+### Printed p. 819
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मिथुनासः (*mithunāsaḥ*)—those who have gathered together for the sacrificial work
+- निकामाः (*nikāmāḥ*)—those who are devoted to the work
+- रथिरासः (*rathirāsaḥ*)—leaders of the sacrifice
+- सुहस्ताः (*suhastāḥ*)—those who have excellent hands
+- अध्वर्यवः (*adhvaryavaḥ*)—the Adhvaryus
+- यं (*yaṃ*)—which Soma
+- सपंति (*sapaṃti*)—whom they touch
+- जागृविः (*jāgṛviḥ*)—the one who is vigilant
+- ऋता (*ṛtā*)—of truth
+- मतीनां (*matīnāṃ*)—of praises
+- विप्रः (*vipraḥ*)—the knower (the one who knows all that)
+- सोमः (*somaḥ*)—Soma
+- पुनानः (*punānaḥ*)—having obtained purification
+- चमूषु (*camūṣu*)—in the Camū vessels
+- आ असदत् (*ā asadat*)—he is installed
+
+##### भावार्थ (Bhāvārtha)
+
+The Adhvaryus, who have gathered together for the sacrificial work, who are devoted to the work, leaders of the sacrifice, and have excellent hands, touch Soma. Such a Soma, who is vigilant and knows the truth and the forms of praise **NOTE**, having obtained purification, is installed in the Camū vessels.
+
+##### English translation
+The vigilant Soma, the knower of true praises, being purified, has sat down in the vessels—(the Soma) whom the Adhwaryus touch, combined, emulous, leaders of the sacrifice, auspicious-handed.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स पु॑ना॒न उप॒ सूरे॒ न धातोभे अ॑प्रा॒ रोद॑सी॒ वि ष आ॑वः ।  
+> प्रि॒या चि॒द्यस्य॑ प्रिय॒सास॑ ऊ॒ती स तू धनं॑ का॒रिणे॒ न प्र यं॑सत् ॥ ३८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः। पुनानः । उप । सूरे । न । धाता । आ । उभे इति । अप्राः । रोदसी इति । वि । सः । आवरित्यावः ।  
+> प्रिया । चित् । यस्य । प्रियसासः । ऊती । सः । तु । धनम् । कारिणे । न । प्र ।यंसत् ॥ ३८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 813. Special Topics on arka (end), Ṛk 32-35 (pp. 810-813; p. 809 absent in supplied text)
+**Progress note:** Done through printed p. 819. Sukta 97 Rk 35 end, Rk 36, 37, 38 Samhita/Pada
