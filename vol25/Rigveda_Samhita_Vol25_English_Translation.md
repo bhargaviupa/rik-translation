@@ -4931,6 +4931,269 @@ These Adhvaryus and others, सबाधः (*sabādhaḥ*), together with obstr
 - हव्येभिः (*havyebhiḥ*)—with oblations
 - ईळते (*īḷate*)—they praise (we have approached that Agni)
 
+### Printed p. 121
+
+##### भावार्थ (Bhāvārtha)
+
+We have approached that Agni whom these Adhvaryus, who perform the sacrifice, who hold up the ladle full of ghee and who are gathered together, praise with oblations.
+
+##### English translation
+That Agni, whom these crowding worshippers honour with oblations offering to him with up-lifted ladles.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं ते॒ नव्य॑सी म॒तिरग्ने॒ अधा॑य्य॒स्मदा ।  
+> मंद्र॒ सुजा॑त॒ सुक्र॒तोऽमू॑र॒ दस्माति॑थे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयम् । ते । नव्यसी । मतिः । अग्ने । अधायि । अस्मत् । आ ।  
+> मंद्र । सुऽजात । सुक्रतो इति सुऽक्रतो । अमूर । दस्म । अतिथे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने इयम् इदानीं क्रियमाणा नव्यसी नवतरा स्तुतिः ते तव स्वभूता अस्मत् अस्मासु अधायि धृताभूत् । वयं तव स्तुतिं कुर्म इत्यर्थः । हे मंद्र मोदमान सुजात शोभनजनन सुक्रतो शोभनकर्मन् अमूर अमूढ दस्म दर्शनीय अतिथे अतिथिवत् पूज्य इत्यग्नेर्विशेषणानि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, this newest praise, now being made, belonging to you, has been set among us (अधायि (*adhāyi*)); the meaning is that we make praise of you. The words मंद्र (*maṃdra*) (rejoicing), सुजात (*sujāta*) (of good birth), सुक्रतो (*sukrato*) (of good works), अमूर (*amūra*) (not bewildered), दस्म (*dasma*) (beautiful to behold) and अतिथे (*atithe*) (to be honoured like a guest) are epithets of Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्र (*maṃdra*)—one who gives joy
+- सुजात (*sujāta*)—one of excellent birth
+- सुक्रतो (*sukrato*)—one of excellent works
+- अमूर (*amūra*)—the wise one
+- दस्म (*dasma*)—one of attractive form
+- अतिथे (*atithe*)—the one to be honoured
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—addressed to you
+- नव्यसी (*navyasī*)—new
+- इयं मतिः (*iyaṃ matiḥ*)—this praise
+- अस्मत् (*asmat*)—by us
+- आ अधायि (*ā adhāyi*)—has been set for your praise
+
+### Printed p. 122
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who give joy, are of excellent birth, are the doer of excellent works, are wise, of attractive form, and to be honoured, this new praise addressed to you has been set by us for your praise (has been made).
+
+##### English translation
+This new hymn has been made by us for you, O joyful, well-born Agni, glorious in deeds, unbewildered, beautiful, the guest (of man);
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा ते॑ अग्ने॒ शंत॑मा॒ चनि॑ष्ठा भवतु प्रि॒या ।  
+> तया॑ वर्धस्व॒ सुष्टु॑तः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । ते । अग्ने । शम्ऽतमा । चनिष्ठा । भवतु । प्रिया ।  
+> तया । वर्धस्व । सुऽस्तुतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सा अस्माभिः क्रियमाणा स्तुतिः शंतमा अत्यंतं सुखकरा चनिष्ठा अतिशयेनान्नवती ते तव प्रिया भवतु । तया स्तुत्या सुष्टुतः सुष्ठु स्तुतः सन् वर्धस्व प्रवृद्धो भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that praise made by us, most pleasant (शंतमा (*śaṃtamā*)) and most rich in food (चनिष्ठा (*caniṣṭhā*)), let it be dear to you. Being well praised by that praise, grow, become greatly increased.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सा (*sā*)—the praise made by us
+- शंतमा (*śaṃtamā*)—most productive of happiness
+- चनिष्ठा (*caniṣṭhā*)—endowed with abundant food
+- ते (*te*)—to you
+- प्रिया (*priyā*)—productive of what is dear
+- भवतु (*bhavatu*)—let it be
+- तया (*tayā*)—by that same praise
+- सुष्टुतः (*suṣṭutaḥ*)—you, well praised
+- वर्धस्व (*vardhasva*)—attain increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, let the praise made by us be most productive of happiness, endowed with abundant food and productive of what is dear to you. Well praised by that same praise, attain increase.
+
+### Printed p. 123
+
+##### English translation
+Agni, may it be dear to you, most pleasant and most agreeable—well praised by it, do you wax great.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा द्यु॒म्नैर्द्यु॒म्निनी॑ बृ॒हदुपो॑प॒ श्रव॑सि॒ श्रवः॑ ।  
+> दधी॑त वृत्र॒तूर्ये॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । द्युम्नैः । द्युम्निनी । बृहत् । उपऽउप । श्रवसि । श्रवः ।  
+> दधीत । वृत्रऽतूर्ये ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा अस्माभिः क्रियमाणा स्तुतिः द्युम्नैः द्योतमानैरन्नैः अस्मभ्यं प्रदेयैः द्युम्निनी अन्नवती श्रवसि पूर्वस्मिन् विद्यमानेऽन्ने पुनरपि बृहत् महत् श्रवः अन्नम् उपोप दधीत पुनरुपरि धारयतु । कुत्रेति उच्यते । वृत्रतूर्ये संग्रामे । शत्रोः संबंधीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+That praise made by us, with shining foods (द्युम्नैः (*dyumnaiḥ*)) to be given to us, is rich in food (द्युम्निनी (*dyumninī*)); to the food (श्रवसि (*śravasi*)) that already exists, again may it add great food (श्रवः (*śravaḥ*)), and again and again place more. Where? It is said: in the battle (वृत्रतूर्ये (*vṛtratūrye*)), that is, the one connected with the enemy. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सा (*sā*)—this praise made and recited by us
+- द्युम्नैः (*dyumnaiḥ*)—with splendid food-wealths
+- द्युम्निनी (*dyumninī*)—the one that joins new food
+- श्रवसि (*śravasi*)—with our food that is behind
+- वृत्रतूर्ये (*vṛtratūrye*)—in battle, seized from enemies
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—new food
+- उपोप (*upopa*)—in great measure
+- दधीत (*dadhīta*)—let it join and increase
+
+##### भावार्थ (Bhāvārtha)
+
+May this praise made and recited by us, which joins new food with splendid food-wealths, add abundantly and increase the new food, abundant and seized from enemies in battle, together with our food that is behind.
+
+### Printed p. 124
+
+##### English translation
+May this (hymn) the rich source of wealth, heap  abundance o nour abundance (with stores won from our enemies) in battle.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्व॒मिद्गां र॑थ॒प्रां त्वे॒षमिंद्रं॒ न सत्प॑तिम् ।  
+> यस्य॒ श्रवां॑सि॒ तूर्व॑थ॒ पन्यं॑पन्यं च कृ॒ष्टयः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वम् । इत् । गाम् । रथऽप्राम् । त्वेषम् । इंद्रम् । न । सत्ऽपतिम् ।  
+> यस्य । श्रवांसि । तूर्वथ । पन्यम्ऽपन्यम् । च । कृष्टयः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गां गंतारम् अश्वमित् । इच्छब्द इवार्थे। अश्वमिव । तं यथा स्तुवते तथेत्यर्थः। रथप्रां रथानामस्मदीयानां पूरयितारं धनैः तथा त्वेषं दीप्तमग्निं सत्पतिं सतां पालकम् इंद्रं न इंद्रमिवेमं कृष्टयः मनुष्याः परिचरतेति शेषः । यस्य अग्नेर्बलेन श्रवांसि अन्नानि शत्रुसंबंधीनि तूर्वथ तथा पन्यंपन्यं च यद्यत् स्तुत्यं धनमस्ति तदपि तूर्वथ हिंस्थ ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+गां (*gāṃ*) means the one who goes; अश्वमित् (*aśvamit*): the word इत् (*it*) is in the sense of "like", that is, like a horse; as men praise him, so. रथप्रां (*rathaprāṃ*) is the one who fills our chariots with riches; likewise the shining (त्वेषं (*tveṣaṃ*)) Agni, the protector of the good (सत्पतिं (*satpatiṃ*)), like Indra: men (कृष्टयः (*kṛṣṭayaḥ*)), serve this one, the verb being understood. By whose strength you overcome (तूर्वथ (*tūrvatha*)) the foods (श्रवांसि (*śravāṃsi*)) belonging to the enemy, and likewise whatever praiseworthy wealth (पन्यंपन्यं (*panyaṃpanyaṃ*)) there is, that too you destroy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्टयः (*kṛṣṭayaḥ*)—O men
+- यस्य (*yasya*)—by the power of which Agni
+- श्रवांसि (*śravāṃsi*)—the foods belonging to the enemy
+- तूर्वथ (*tūrvatha*)—you seize and fill yourselves
+- पन्यं पन्यं च (*panyaṃ panyaṃ ca*)—and the valuable riches too you seize and fill yourselves, such a one
+- अश्वमित् (*aśvamit*)—like a horse
+- गां (*gāṃ*)—the one who moves about
+- रथप्रां (*rathaprāṃ*)—the one who fills our chariots with enemy wealth
+- त्वेषं (*tveṣaṃ*)—the radiant one
+- सत्पतिं (*satpatiṃ*)—the protector of good men
+- इंद्रं न (*iṃdraṃ na*)—the one honoured like Indra, serve that Agni
+
+##### भावार्थ (Bhāvārtha)
+
+O men, serve that Agni, by whose power you seize and fill yourselves with the foods belonging to the enemy, and seize and fill yourselves with their valuable riches too, who moves about like a horse,
+
+### Printed p. 125
+
+who fills our chariots with the enemy's wealth, who is radiant, the protector of good men, and honoured like Indra.
+
+##### English translation
+(Worship), you men, the bright (Agni), who goes like a horse and fills our chariots (with spoil), who protects the good like Indra, and by whose might you ravage the stores ( of your enemies ) and all their wonderful (wealth).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॑ गो॒पव॑नो गि॒रा चनि॑ष्ठदग्ने अंगिरः ।  
+> स पा॑वक श्रुधी॒ हव॑म् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । त्वा । गोपवनः । गिरा । चनिष्ठत् । अग्ने । अंगिरः ।  
+> सः । पावक । श्रुधि । हवम् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यं त्वा त्वां गोपवनः ऋषिः गिरा स्तुत्या चनिष्ठत् अतिशयेनान्नप्रदातारमकरोत् सः तादृशाग्ने अंगिरः सर्वत्र गंतरंगिरसां मध्य एक वा पावक शोधक हवं गोपवनस्य श्रुधि शृणु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you whom the seer Gopavana by his praise has made the greatest giver of food, such a one, O Agni, अंगिरः (*aṃgiraḥ*), O purifier (पावक (*pāvaka*)), hear the call (हवं (*havaṃ*)) of Gopavana. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—the one famed by the name Aṅgiras
+- पावक (*pāvaka*)—the purifier
+- अग्ने (*agne*)—O Agni
+- यं (*yaṃ*)—which
+- त्वा (*tvā*)—you
+- गोपवनः (*gopavanaḥ*)—the seer named Gopavana
+- गिरा (*girā*)—by his praise
+- चनिष्ठत् (*caniṣṭhat*)—made the excellent giver of food
+- सः (*saḥ*)—such you
+- हवं (*havaṃ*)—the praise of that Gopavana
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, famed by the name Aṅgiras and the purifier, you whom the seer named Gopavana has made by his praise the excellent giver of food, such as you, hear the praise of that Gopavana.
+
+### Printed p. 126
+
+##### English translation
+Agni, Angiras, whom Gopavana by his praise has made the especial giver of food,—O purifier, hear his prayer.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॒ जना॑स॒ ईळ॑ते स॒बाधो॒ वाज॑सातये ।  
+> स बो॑धि वृत्र॒तूर्ये॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । त्वा । जनासः । ईळते । सऽबाधः । वाजऽसातये ।  
+> सः । बोधि । वृत्रऽतूर्ये ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यं त्वा त्वां जनासः जनाः स्तोतारो वा वाजसातये अन्नस्य लाभाय सबाधः निर्बंधरूपबाधोपेताः संतः ईळते स्तुवंति सः त्वं वृत्रतूर्ये वैरिनाशनाय पापक्षयाय वा बोधि बुध्यस्व । अथवा वृत्रतूर्ये संग्रामे बोधि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you whom the people, or the praisers, for the gain of food (वाजसातये (*vājasātaye*)), being (सबाधः (*sabādhaḥ*)) afflicted by the obstruction of compulsion, praise; such a one, you, in the battle (वृत्रतूर्ये (*vṛtratūrye*)), for the destruction of the foe or for the destruction of sin, be aware (बोधि (*bodhi*)). Or else, be aware in the battle. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यं (*yaṃ*)—which
+- त्वा (*tvā*)—you
+- जनासः (*janāsaḥ*)—all the praisers
+- सबाधः (*sabādhaḥ*)—gathered together
+- वाजसातये (*vājasātaye*)—for the gain of food
+- ईळते (*īḷate*)—praise
+- सः (*saḥ*)—such you
+- वृत्रतूर्ये (*vṛtratūrye*)—that in battle our enemies must be destroyed
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you whom all the praisers, gathered together, praise for the gain of food, such as you, know that you must destroy our enemies in battle.
+
+##### English translation
+O you whom the crowding worshippers praise for the obtainment of food, attend to them for the destruction of their enemies.
+
 ---
 
-**Progress note:** Done through printed p. 120. Sukta 24 (Mandala 8) rks 1-6
+**Progress note:** Done through printed p. 126. Sukta 24 rks 6-12
