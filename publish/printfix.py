@@ -95,7 +95,7 @@ def join_page_turns(doc):
         nonlocal n
         a, attrs, b = m.group(1), m.group(2), m.group(3)
         ta, tb = re.sub(r'<[^>]+>', '', a).rstrip(), re.sub(r'<[^>]+>', '', b).lstrip()
-        open_a = bool(re.search(r'(\.\.\.|…)$', ta)) or bool(re.search(r'[A-Za-zāīūṛṃḥśṣṇṭḍñ,;—-]$', ta))
+        open_a = bool(re.search(r'(\.\.\.|…)$', ta)) or bool(re.search(r'[A-Za-zāīūṛṃḥśṣṇṭḍñ,;—\])-]$', ta))
         cont_b = bool(re.match(r'(\.\.\.|…)', tb)) or bool(re.match(r'[a-zāīūṛśṣ]', tb))
         if ta and tb and re.search('[\u0c80-\u0cff,;]$', ta) and re.match('[\u0c80-\u0cff]', tb):      # Kannada book: the page ends inside a sentence
             n += 1; return f'<p>{a} <span class="pgmark"{attrs}></span>{b}</p>'
