@@ -6035,6 +6035,117 @@ Among the gods, the creatures born in heaven, on earth and in the waters (the at
 
 Among the gods, whoever have been born in the world of heaven, and likewise whatever gods there are on earth and in the atmosphere, all of them hold me with oblations and the like and with praises
 
+### Printed p. 194
+(The Bhāvārtha of the previous Ṛk continues:) They worship me with oblations and hymns and nourish me. I yoke to my chariot my two horses, which are green-hued, youthful, famed for their many deeds, and swift; and I take up my thunderbolt to conquer the enemies in battle by force.
+
+##### English translation
+Those born in heaven, in earth, aad in the firmament, support me, whose name is Indra amongst the deities (by their offerings). I (harness to my car) two bay steeds vigorous, many functioned, rapid : I wield for my strength the fearful thunder-bolt.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमत्कं॑ क॒वये॑ शिश्नथं॒ हथै॑र॒हं कुत्स॑मावमा॒भिरू॒तिभिः॑ ।  
+> अ॒हं शुष्ण॑स्य॒ श्नथि॑ता॒ वध॑र्यमं॒ न यो र॒र आर्यं॒ नाम॒  ॑
+> दस्यवे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । अत्कं । कवये । शिश्नथं । हथैः । अहं । कुत्सं । आवं । अभिः । ऊतिभिः ॥  
+> अहं । शुष्णस्य । शृथिता । वधः । यमं । न । यः । ररे । आर्यं । नाम । दस्यवे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रोऽत्कमाच्छादकं शत्रुपुत्रं कवय उशनस ऋषये तस्य सुखार्थं
+> हथैर्बहुप्रकारैः प्रहारैस्तत्साधनैरायुधैर्वा शिश्नथं । ताडितवानस्मि । श्नथतिर्वधकर्मा । किंचाहं कुत्समेतन्नामकमृषिमाभिरूतिभिर्वधादिरूपैः । कुत्साय शुष्णमशुषं नि बर्हीः । ऋ. ४-१६-१२ । इत्यादि मंत्रांतरं । रक्षणैरावं । अरक्षं ।
+> पूर्वमेव कृतान्यपि रक्षणानीदानीमिव कृतानीत्यनुवदति । कुत्सार्थं शुष्णस्यैतन्नामकस्यासुरस्य श्नथिता हिंसिता । तस्य हननायेत्यर्थः । वधर्वज्रं यमं ।
+> प्रहरणाय नियमितवानस्मि । अपि चाहमार्यमार्यसंबंधि । आर्याणां देयमित्यर्थः । तादृशं नाम । उदकनामैतत् । नामकमुदकं दस्यवे शत्रव उपक्षपयित्रे न ररे । न दत्तवानस्मि । यद्वा । आर्यं पूज्यमित्यसाधारणं नाम दस्यवे
+> न दत्तवानस्मि । अत्रेंद्रस्यात्मस्तुत् कुत्सरक्षणशुष्णवधादिकं आवः कुत्समिंद्र
+
+##### Gist of the bhāṣya
+
+I, Indra, struck अत्कं (*atkaṃ*), an enemy's son, a "covering" one, for the happiness of the seer Kavi (Uśanas), with many kinds of blows, or with weapons that are the means of them; श्नथति (*śnathati*) is a root meaning killing. Moreover I protected the seer named Kutsa with protections consisting of slaying and the like; another mantra, Ṛ. 4-16-12, says कुत्साय शुष्णमशुषं नि बर्हीः (*kutsāya śuṣṇamaśuṣaṃ ni barhīḥ*). Although those protections were made long ago, they are told as if done just now. For Kutsa's sake I am the smiter of the asura named Śuṣṇa, that is, for his killing; I have held ready the thunderbolt for striking. Further, I did not give to the enemy, the destroyer, the name (water) that belongs to the Āryas, that is, what is to be given to Āryas; नाम (*nāma*) is a word for water. Or else: I did not give to the Dasyu the unshared name आर्यं (*āryaṃ*), "worshipful". Here Indra praises himself; the protection of Kutsa, the slaying of Śuṣṇa and so on are elaborated in many places.
+
+### Printed p. 195
+
+> यस्मिञ्चाकन् । ऋ-१-३३ १४ । शुष्णं पिपुं कुयवं वृत्रमिंद्र । ऋ-१-१०३-८ ।
+> इत्यादिषु बहुधा प्रपंचितं । अतोऽत्र ग्रंथविस्तरभयान्न लिख्यते ॥
+
+##### Gist of the bhāṣya
+
+The protection of Kutsa and the slaying of Śuṣṇa are elaborated in many ways in Ṛ. 1-33-14 **NOTE** and 1-103-8 and the like; hence it is not written here, for fear of prolixity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I (Indra)
+- अत्कं (*atkaṃ*)—Atka, the enemy's son, who besieged in battle
+- कवये (*kavaye*)—for protecting the dwelling of the seer named Uśanas
+- हथैः (*hathaiḥ*)—with various weapons or blows, the means of killing
+- शिश्नथं (*śiśnathaṃ*)—I have struck or slain
+- अहं (*ahaṃ*)—I
+- आभिः ऊतिभिः (*ābhiḥ ūtibhiḥ*)—with these protections consisting of destroying enemies
+- कुत्सं (*kutsaṃ*)—the seer named Kutsa
+- आवं (*āvaṃ*)—I have protected
+- अहं (*ahaṃ*)—I
+- शुष्णस्य (*śuṣṇasya*)—of the asura named Śuṣṇa
+- श्नथिता (*śnathitā*)—I am the destroyer
+- अहं (*ahaṃ*)—I
+- वधः (*vadhaḥ*)—the thunderbolt
+- यमं (*yamaṃ*)—I have held
+- आर्यं (*āryaṃ*)—belonging to the Āryas
+- नाम (*nāma*)—the rain-water
+- दस्यवे (*dasyave*)—to enemy folk
+- न ररे (*na rare*)—I do not give
+
+##### भावार्थ (Bhāvārtha)
+
+I, Indra, struck with many kinds of weapons the enemy Atka who had besieged the dwelling of the seer Uśanas, in order to protect it; with my enemy-destroying protections I protected the seer Kutsa. We have slain the asura Śuṣṇa. I hold the thunderbolt in my hand for killing enemies. The rain-water that I graciously give to the Āryas I do not give to the Dasyu folk, the enemies.
+
+##### English translation
+I smote Atka with many weapons for the defence of the sage : with those protections I preserved Kutsa; I am the player of Shushna : I grasped the thunderbolt, I who have not given the water of the Aryas to the Dasyu.
+
+##### विशेषविषयगळु (Special Topics)
+
+कवये (*kavaye*)—Although the word kavi is used here, the matter referred to is that of his son, the seer Uśanas. The name of this seer is read in the Ṛgveda in the Ṛks 1-50-10; 1-83-5; 1-121-12; 4-16-2; 4-26-1; 6-20-11; 8-23-17; 9-87-3; 9-97-7; 10-40-7; 1-130-9; 5-31-8; 5-34-2; 8-7-26; 10-22-6. Besides, in the Taittirīya Saṃhitā: अग्निर्देवानां दूत आसीदुशना काव्योऽसुराणां तौ प्रजापतिं प्रश्नमैताग्ं स प्रजापतिरग्निं दूतं वृणीमह इत्यभिपर्यावर्तत ततो देवा अभवन्सरासुराः ॥ (*agnirdevānāṃ dūta āsīduśanā kāvyo 'surāṇāṃ tau prajāpatiṃ praśnamaitāgṃ sa prajāpatiragniṃ dūtaṃ vṛṇīmaha ityabhiparyāvartata tato devā abhavansarāsurāḥ ‖*)
+
+### Printed p. 196
+In the past Agni was the messenger of the gods, carrying to the deities addressed the oblations and the like offered by sacrificers at sacrifices. In the same way Uśanas, son of Kavi, was the messenger of the asuras. That being so, Agni and Uśanas both went to Prajāpati and asked which of the two of them was capable of bearing the office of messenger; Prajāpati said, अग्निं दूतं वृणीमहे (*agniṃ dūtaṃ vṛṇīmahe*), "we choose Agni as messenger". Therefore the gods, pleased by Agni's carrying of the oblations, became victorious in all battles, and the asuras were defeated.
+This seer is mentioned in Atharvaveda 4-29-6; Pañcaviṃśa Brāhmaṇa 7-5-20, 14-12-5; Jaiminīya Upaniṣad Brāhmaṇa 2-7-2-6; Sāṅkhyāyana Śrauta Sūtra 14-27-1, and other places.
+अत्कं (*atkaṃ*)—This word is read only in Ṛgveda Saṃhitā 10-49-3 and 10-99-9. Sāyaṇa explains it as one named Atka, an enemy's son. The Western scholars Roth, Grassmann and Ludwig support this. But Zimmer has expressed the opinion that atka is the metal armour used by warriors in battle and the like, and Pischel that it is an axe.
+कुत्सं (*kutsaṃ*)—About Kutsa, Sāyaṇa narrates a story in his commentary on Ṛ. Saṃ. 4-16-10:
+रुरुनामकः कश्चिद्राजर्षिः । तस्य पुत्रः कुत्साख्यो राजर्षिरासीत् । स च कदाचित् शत्रुभिः सह युयुत्सुः संग्रामे स्वयमशक्तः सन् शत्रूणां हननार्थमिंद्रस्य आह्वानं चकार । स चेंद्रः कुत्सस्य गृहमागत्य तस्य शत्रून् जघान । तदनंतरमतिप्रीत्या तयोः सख्यमभवत् । संख्य्यानंतरमिंद्र एनमपि स्वकीयं गृहं प्रापयामास । तस्य शची इंद्रं प्राप्तु मागता सती त्वा समानरूपौ दृष्ट्वा अयमिंद्रोऽयं कुत्स इति विवेकाभावेन संशयं चकार । अनयाख्यायिकया प्रतीयमानोऽर्थोऽत्र प्रतिपाद्यते ॥ (*rurunāmakaḥ kaścidrājarṣiḥ | tasya putraḥ kutsākhyo rājarṣirāsīt | sa ca kadācit śatrubhiḥ saha yuyutsuḥ saṃgrāme svayamaśaktaḥ san śatrūṇāṃ hananārthamiṃdrasya āhvānaṃ cakāra | sa ceṃdraḥ kutsasya gṛhamāgatya tasya śatrūn jaghāna | tadanaṃtaramatiprītyā tayoḥ sakhyamabhavat | saṃkhyyānaṃtaramiṃdra enamapi svakīyaṃ gṛhaṃ prāpayāmāsa | tasya śacī iṃdraṃ prāptu māgatā satī tvā samānarūpau dṛṣṭvā ayamiṃdro 'yaṃ kutsa iti vivekābhāvena saṃśayaṃ cakāra | anayākhyāyikayā pratīyamāno 'rtho 'tra pratipādyate ‖*) (Sā. Bhā. 4-16-10)
+Formerly there was a royal sage named Ruru. He had a son named Kutsa. At one time he had to fight enemies. Since the enemies were very strong and he alone could not face and conquer them, he sought Indra's help and invoked him. Then Indra came to Kutsa's house and slew his enemies. From this friendship arose between Kutsa and Indra.
+
+### Printed p. 197
+Afterwards Indra took Kutsa to his own house. At the door of the house Indra's wife Śacī came to welcome Indra, and seeing two men of the same form as Indra, could not tell which was Indra and which Kutsa, and expressed doubt. This matter is what is indicated in this Ṛk.
+Sāyaṇa's explanation shows that two meanings can be given to the word kutsa: first, कुत्सं कर्तनसाधनं (*kutsaṃ kartanasādhanaṃ*), an epithet of the thunderbolt, the instrument of cutting; second, कुत्सं कुत्सनामानमृषिं (*kutsaṃ kutsanāmānamṛṣiṃ*), the seer named Kutsa. If taken as the seer, Indra is praised as having helped Kutsa by slaying the asura Śuṣṇa. In the present Ṛk this is the explanation.
+The descriptions in the Ṛksaṃhitā show that the friendship between Kutsa and Indra is very close. The epithet ārjuneya is applied to Kutsa in many places. The word ārjuneya may mean son of the woman Arjunī; or, अर्जुन इतींद्रस्य नाम तस्य पुत्रः (*arjuna itīṃdrasya nāma tasya putraḥ*): Arjuna is a name of Indra, and since Kutsa is his son, the epithet ārjuneya is natural: thus the meaning can be given another way. To support that Indra has the name Arjuna, Sāyaṇa in some places cites the Vājasaneya Saṃhitā mantra एतद्वा इंद्रस्य गुह्यं नाम यदर्जुनः (*etadvā iṃdrasya guhyaṃ nāma yadarjunaḥ*). But in the Ṛks
+अहं कुत्समार्जुनेयं न्यृंजेऽहं कविरुशना पश्यता मा । (*ahaṃ kutsamārjuneyaṃ nyṛṃje 'haṃ kaviruśanā paśyatā mā |*) (Ṛ. Saṃ. 4-26-1)
+दासं यच्छुष्णं कुयवं न्यस्मा अरंधय आर्जुनेयाय शिक्षन् । (*dāsaṃ yacchuṣṇaṃ kuyavaṃ nyasmā araṃdhaya ārjuneyāya śikṣan |*) (Ṛ. Saṃ. 7-19-2)
+वहत्कुत्समार्जुनेयं शतक्रतुः त्वरद्दंधर्वमस्तृतं । (*vahatkutsamārjuneyaṃ śatakratuḥ tvaraddaṃdharvamastṛtaṃ |*) (Ṛ. Saṃ. 8-1-11)
+Sāyaṇa too explains every ārjuneya there as अर्जुन्याः पुत्रं कुत्सं (*arjunyāḥ putraṃ kutsaṃ*), Kutsa, son of the woman Arjunī. Since other śrutis say that the words Arjuna and Arjunī relate to Indra, the two explanations above may be said to give one meaning. For example:
+फल्गुनीष्वग्नी आदधीत । एता ना इंद्रनक्षत्रं यत्फलु न्नोऽप्यस्य प्रतिनाम्योऽप्यर्जुनो ह वै नामेंद्रो यदस्य गुह्यं नामार्जन्यो वै (*phalgunīṣvagnī ādadhīta | etā nā iṃdranakṣatraṃ yatphalu nno 'pyasya pratināmyo 'pyarjuno ha vai nāmeṃdro yadasya guhyaṃ nāmārjanyo vai*)
+
+### Printed p. 198
+नामैतास्ता एतत्परोक्षमाचक्षते फल्गुन्य इति को ह्येतस्यार्हति गुह्यं नाम ॥ (*nāmaitāstā etatparokṣamācakṣate phalgunya iti ko hyetasyārhati guhyaṃ nāma ‖*) (Śa. Brā. 2-1-2-11)
+इंद्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहारिष्टोऽर्जुन इति ॥ ( (*iṃdro bhavati yacca kṣatriyo yadu ca yajamānastasmādāhāriṣṭo 'rjuna iti ‖ (*) (Śa. Brā. 5-4-3-7)
+The Phalgunīs are Indra's constellations. There is agreement in the name too: Indra has the name Arjuna, and the Phalgunīs have the name Arjunīs, as the Śatapatha Brāhmaṇa and other places say; hence Kutsa may be called in two ways, son of Indra and son of Arjunī.
+In many places of the Ṛksaṃhitā the relation of Indra and Kutsa is shown: Kutsa conquers his enemies only with Indra's help.
+त्वं शुष्णं वृजने पक्ष आणौ यूने कुत्साय द्युमते सचाहन् । (*tvaṃ śuṣṇaṃ vṛjane pakṣa āṇau yūne kutsāya dyumate sacāhan |*) (Ṛ. Saṃ. 1-63-3)
+कुत्साय यत्र पुरुहूत वन्वञ्छुष्णमनंतैः परियासि वधैः । (*kutsāya yatra puruhūta vanvañchuṣṇamanaṃtaiḥ pariyāsi vadhaiḥ |*) (Ṛ. Saṃ. 1-121-9)
+In these Ṛks, and likewise in many other places, it is described that Indra slew Śuṣṇa to help Kutsa. And
+अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं । (*ahaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ |*) (Ṛ. Saṃ. 10-49-4)
+Indra himself declares: for Kutsa I defeated all enemies such as Vetasu, Tugra and Smadibha and helped my friend. But
+तस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरंधनायः । (*tasmai kutsamatithigvamāyuṃ mahe rājñe yūne araṃdhanāyaḥ |*) (Ṛ. Saṃ. 1-53-10)
+य आयुं कुत्समतिथिग्वमर्दयो नावृधानो दिवेदिने । (*ya āyuṃ kutsamatithigvamardayo nāvṛdhāno divedine |*) (Ṛ. Saṃ. 8-53-10)
+In these and other Ṛks it is also described that Indra defeated Kutsa and others. In some Ṛks it is said that Indra slew the asura Śuṣṇa to help Kutsa and scattered and put to flight in battle his soldiers, the asuras called Paṇis, in Ṛ. Saṃ. 1-174-5, 1-175-4 and other Ṛks.
+
+### Printed p. 199
+शुष्णं (*śuṣṇaṃ*)—His name is read about 40 times in the Ṛgveda. He is Kutsa's chief enemy. For Kutsa's sake or together with Kutsa, Indra uproots Śuṣṇa (Ṛ. Saṃ. 4-16-12, 5-29-9 etc.). He has horns (1-33-12); he has eggs (6-10-10, 11), that is, young born of eggs (10-12-11); from this Śuṣṇa may be called a serpent. Six times he has the epithet अशुष (*aśuṣa*) (swallowing). He has strong forts (1-51-11, 4-30-13); these are moving forts (8-1-28). Indra destroys Śuṣṇa's forts and releases the waters (1-51-11); Indra uproots Śuṣṇa's line and wins the heavenly water (8-40-10). Four times Śuṣṇa has the epithet कुयुव (*kuyuva*) (producer of bad grain). The result of the battle of Indra and Śuṣṇa may be not only the release of waters but the winning of cows or of the sun (8-85-17). When fighting Indra, Śuṣṇa moves about in darkness. From the passages above Śuṣṇa may be called a cause of drought. The word śuṣṇa is derived from the root शुष् (*śuṣ*), meaning to hiss or to dry up; hence this too supports his being a cause of drought.
+दस्युं (*dasyuṃ*)—उपक्षपयितारं (*upakṣapayitāraṃ*). Yāska comments on this word: दस्युदर्स्यतेः क्षयार्थादुपदस्यंत्यस्मिन् रसाः उपदासयति कर्माणि (*dasyudarsyateḥ kṣayārthādupadasyaṃtyasmin rasāḥ upadāsayati karmāṇi*) (Ni. 7-23). The word dasyu is derived from the root दसु (*dasu*), meaning to injure or destroy, and is used in the sense that waters are dried up and rites are destroyed. Sāyaṇa gives the meaning "destroyer".
+The word dasyu is in many contexts used together with the word अव्रतं (*avrataṃ*). For अव्रतं (*avrataṃ*) the glosses अकर्माणं (*akarmāṇaṃ*) and अननुष्ठायिनं (*ananuṣṭhāyinaṃ*) are given: let Indra destroy the one who does not perform sacrificial rites and destroys everything. There is also a description that Indra should destroy even him who, though fit to perform sacrifice, remains indifferent and does not sacrifice.
+Whatever meaning the word deva shows, expansive, illuminating and giving (Ni. 7-15), the word dasyu indicates the opposite of all that: a meaning of decay, darkness and violence. Vṛtra, Śambara and all such asuras belong to this group of dasyus. Since their deeds are to hold back the water so that it does not flow or fall, and to cover the light, Indra is prayed to destroy them and make the water flow and the light spread, and is called by the epithet दस्युहा (*dasyuhā*).
+
 ---
 
-**Progress note:** Done through printed p. 193. pp. 188-193 (batch API)
+**Progress note:** Done through printed p. 199. pp. 194-199 (batch API)
