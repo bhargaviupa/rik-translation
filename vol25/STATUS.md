@@ -15,7 +15,7 @@ Made from the page scans (no machine-read text): `vol25/scans/Rig_Vol25.pdf` (+ 
 Translation by Sonnet agents, one agent per batch of three windows (`docs/prompts/VOL24_AGENT_PROMPT.md` with 25), not by the API.
 
 ## Status
-Prepared Nov 26 2026; done through printed p. 0 (no window translated yet).
+Done through printed p. 168 of 878 (Sūkta 77 in progress), Nov 26 2026: 10 batches of three windows (one agent per batch), 1,532,289 agent tokens in all (preface included), about 8.4k per printed page; 59 `**NOTE**`, 13 `**GLOSS**`; `check_labels` 0 wrong, sūktas 68–77 in order, Ṛk headings consecutive. Hand repairs (all in `review/repair_log.md`): Maṇḍala digit of Sūktas 71 and 79, sūkta number 74 (scan misreads, unmarked), the `[?]` gate for scan-read volumes (`scan_read` in volcfg), kn2deva ಁ. The preface is translated (`review/preface_en.md`), not installed.
 
 ## Open items
 1. User: the remaining 321 `[?]` (numbers: the user's numeral list; `vol25/review/CHECK_FOR_USER.md`).
