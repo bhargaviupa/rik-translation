@@ -32736,6 +32736,275 @@ O Soma plant, you who are exceedingly sweet and green in colour: for Indra's dri
 ##### English translation
 Indu, they press you forth by the stones, most sweet-flavoured and green-tinted, into the waters for Indra to drink.
 
+### Printed p. 804
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒नोता॒ मधु॑मत्तमं॒ सोम॒मिंद्रा॑य व॒ज्रिणे॑ ।  
+> चारुं॒ शर्धा॑य मत्स॒रम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुनोत । मधुमत्ऽतमम् । सोमम् । इंद्राय । वज्रिणे ।  
+> चारुम् । शर्धाय । मत्सरम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः यूयं मधुमत्तमं मधुररसोपेतं सोममिंद्राय वज्रिणे वज्रयुक्ताय सुनोत सुनुत । पुनः कीदृशम् । चारुं चरणीयं मत्सरं मदकरं शर्धाय अस्माकं बलायेंद्रस्य पानाथ च सोमं सुनुतेति बूते यजमानः स्वीयान् ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+O priests, press सुनोत (*sunota*) for Indra, the wielder of the thunderbolt वज्रिणे (*vajriṇe*), the most sweet मधुमत्तमं (*madhumattamaṃ*) Soma, that is, one with a sweet juice. Of what further kind? चारुं (*cāruṃ*): to be moved about or enjoyed; मत्सरं (*matsaraṃ*): intoxicating. Press the Soma for our strength शर्धाय (*śardhāya*) and for Indra's drinking. Thus the sacrificer speaks to his own priests **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) you
+- मधुमत्तमं (*madhumattamaṃ*)—the most sweet (tasty)
+- चारुं (*cāruṃ*)—the charming
+- मत्सरं सोमं (*matsaraṃ somaṃ*)—the Soma that gives delight
+- वज्रिणे (*vajriṇe*)—wielding the thunderbolt
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- शर्धाय (*śardhāya*)—and for producing strength for us
+- सुनोत (*sunota*)—press (crush with stones and squeeze out the juice)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, crush with stones and press out the Soma, which is exceedingly sweet, charming and delight-giving, for the drinking of Indra, the wielder of the thunderbolt, and in order to produce strength for us.
+
+##### English translation
+(Priests) express the most sweet-flavoured beautiful exhilarating Soma for Indra the thunderer, and for our invigoration.
+
+### Printed p. 805
+
+## Sūkta 31 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र सोमासः' इति षडृचं सप्तमं सूक्तं राहूगणस्य गोतमस्यार्षं सौम्यम्। 'प्र सोमासो गोतमः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र सोमासः (*pra somāsaḥ*) of six Ṛks is the seventh sūkta; its seer is Gotama, of the Rāhūgaṇa family, and it is addressed to Soma. In the Anukramaṇikā it is said प्र सोमासो गोतमः (*pra somāso gotamaḥ*). The use has been stated.
+
+Anuvāda: This sūkta प्र सोमासः (*pra somāsaḥ*) is the seventh sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is Gotama, the son of Rahūgaṇa **NOTE**; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said प्र सोमासो गोतमः (*pra somāso gotamaḥ*). The use has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 31. Aṣṭaka 6; Adhyāya 8; Varga 21. Number of Ṛks in the sūkta: 6.
+
+Seer: Gotamaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोमा॑सः स्वा॒ध्य१॒ः॑ पव॑मानासो अक्रमुः ।  
+> र॒यिं कृ॑ण्वंति॒ चेत॑नम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमासः । सुऽआध्यः । पवमानासः । अक्रमुः ।  
+> रयिम् । कृण्वंति । चेतनम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र अक्रमुः प्रगच्छंति कलशं प्रति । के। सोमासः सोमाः । कीदृशाः। स्वाध्यः सुध्यानाः सुकर्माणो वा पवमानासः पूयमानाः । ते च चेतनं प्रज्ञापनं रयिं धनं कृण्वंति कुर्वंत्यस्माकम् ॥
+
+##### Gist of the bhāṣya
+
+The Somas go forth प्र अक्रमुः (*pra akramuḥ*) towards the vessel. Of what kind are they? स्वाध्यः (*svādhyaḥ*): of good thought, or of good works; पवमानासः (*pavamānāsaḥ*): being purified. And they make कृण्वंति (*kṛṇvaṃti*) for us understanding चेतनं (*cetanaṃ*) and wealth रयिं (*rayiṃ*).
+
+### Printed p. 806
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वाध्यः (*svādhyaḥ*)—endowed with excellent works
+- पवमानासः (*pavamānāsaḥ*)—flowing
+- सोमासः (*somāsaḥ*)—these Soma juices
+- प्र अक्रमुः (*pra akramuḥ*)—flow towards the vessel (and to those who drink them)
+- चेतनं (*cetanaṃ*)—understanding
+- रयिं (*rayiṃ*)—and wealth
+- कृण्वंति (*kṛṇvaṃti*)—they supply
+
+##### भावार्थ (Bhāvārtha)
+
+These flowing Soma juices, endowed with excellent works, that is, praised in the best sacrificial rites, run towards the Droṇa vessel. And they supply to those who drink them understanding and wealth.
+
+##### English translation
+The benevolent juices being purified flow forth, they confer intellectual wealth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वस्पृ॑थि॒व्या अधि॒ भवें॑दो द्युम्न॒वर्ध॑नः ।  
+> भवा॒ वाजा॑नां॒ पतिः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । पृथिव्याः । अधि । भव । इंदो इति । द्युम्नऽवर्धनः ।  
+> भव । वाजानाम् । पतिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो वाजानाम् अन्नानां पतिः स्वामी त्वं दिवः द्युलोकस्य पृथिव्याः भूलोकस्य द्युम्नवर्धनः द्योतमानस्य हिरण्यादिलक्षणधनस्य वर्धयिता भव । अस्माकं लोकद्वये यत् द्युम्नमस्ति तस्य वर्धयिता भवास्मभ्यमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, you who are the lord पतिः (*patiḥ*) of foods वाजानां (*vājānāṃ*), be the increaser वर्धयिता (*vardhayitā*) of the radiant wealth द्युम्नवर्धनः (*dyumnavardhanaḥ*), consisting of gold and the like, of heaven दिवः (*divaḥ*), the world of the sky, and of the earth पृथिव्याः (*pṛthivyāḥ*), the world of the earth. The sense is: be for us the increaser of whatever radiant wealth there is in the two worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma (you)
+- वाजानां (*vājānāṃ*)—of foods
+- पतिः (*patiḥ*)—the lord
+- भव (*bhava*)—be
+- दिवः (*divaḥ*)—that which is in the world of heaven
+- पृथिव्याः अधि (*pṛthivyāḥ adhi*)—and that which is in the world of the earth
+- द्युम्न वर्धनः (*dyumna vardhanaḥ*)—as the increaser of the radiant wealth, gold and the like
+- भव (*bhava*)—be
+
+### Printed p. 807
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you are the lord of food and other nourishment. Be also the increaser of the radiant, that is, excellent, wealth in heaven and on earth.
+
+##### English translation
+Indu, be (to us) the augmenter of the riches of heaven and earth, be the lord of food.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॒ वाता॑ अभि॒प्रिय॒स्तुभ्य॑मर्षंति॒ सिंध॑वः ।  
+> सोम॒ वर्धं॑ति ते॒ महः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यम् । वाताः । अभिऽप्रियः । तुभ्यम् । अर्षंति । सिंधवः ।  
+> सोम । वर्धंति । ते । महः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तुभ्यं त्वदर्थं वाताः वायवः अभिप्रियः अभितर्पयितारो भवंति । तथा सिंधवः स्यंदमाना नद्यः तुभ्यमर्षंति गच्छंति । अभिषूयमाणस्य तवाप्यायनायैवं कुर्वंतीत्यर्थः । त उभयेऽमी ते तव महः महत्त्वं वर्धंति वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, for you तुभ्यं (*tubhyaṃ*) the winds वाताः (*vātāḥ*) are refreshers अभिप्रियः (*abhipriyaḥ*), those who gratify. Likewise the flowing rivers सिंधवः (*siṃdhavaḥ*) go अर्षंति (*arṣaṃti*) to you. The sense is that they do so for the nourishing of you who are being pressed. Both of these increase वर्धंति (*vardhaṃti*) your greatness महः (*mahaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- तुभ्यं (*tubhyaṃ*)—for you, that is, for your pleasure
+- वाताः (*vātāḥ*)—the winds
+- अभिप्रियः (*abhipriyaḥ*)—are pleasing, that is, blow agreeably; likewise
+- तुभ्यं (*tubhyaṃ*)—for your pleasure alone
+- सिंधवः (*siṃdhavaḥ*)—the flowing rivers
+- अर्षंति (*arṣaṃti*)—run (these winds and rivers)
+- ते (*te*)—your
+- महः (*mahaḥ*)—greatness
+- वर्धंति (*vardhaṃti*)—make manifest **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, for your pleasure alone the winds blow agreeably. For your pleasure alone the rivers also flow. Therefore these winds and rivers make your greatness well manifest.
+
+### Printed p. 808
+
+##### English translation
+For you, Soma, the winds are gracious, for you the rivers flow, they magnify your greatness.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प्या॑यस्व॒ समे॑तु ते वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+> भवा॒ वाज॑स्य संग॒थे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । प्यायस्व । सम् । एतु । ते । विश्वतः । सोम । वृष्ण्यम् ।  
+> भव । वाजस्य । सम्ऽगथे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वायुभिरद्भिश्च आ प्यायस्व प्रवृद्धो भव । ते त्वां विश्वतः वृष्ण्यं वर्षयोग्यं , बलं समेतु संगच्छताम् । संगथे संग्रामे वाजस्य अन्नस्य प्रापकः भव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, grow आ प्यायस्व (*ā pyāyasva*) by the winds and by the waters, that is, become fully grown. May the vigour fit for showering वृष्ण्यं (*vṛṣṇyaṃ*) come to you समेतु (*sametu*) from every side विश्वतः (*viśvataḥ*). In the battle संगथे (*saṃgathe*) be the obtainer of food वाजस्य (*vājasya*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma, you
+- आ प्यायस्व (*ā pyāyasva*)—be satisfied by the winds and by the rivers
+- ते (*te*)—you
+- विश्वतः (*viśvataḥ*)—on every side
+- वृष्ण्यं (*vṛṣṇyaṃ*)—the power that showers desires
+- समेतु (*sametu*)—may it come and join
+- संगथे (*saṃgathe*)—in battle
+- वाजस्य (*vājasya*)—of food
+- भव (*bhava*)—be the obtainer
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, be satisfied, or grow, by the agreeably blowing winds and by the flowing rivers. May the power that gives to all what they desire be full in you on every side. In battle, win food for us.
+
+##### English translation
+Be well nourished, Soma; may vigour come to you from all sides, be (the giver) of strength in battle.
+
+### Printed p. 809
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॒ गावो॑ घृ॒तं पयो॒ बभ्रो॑ दुदु॒ह्रे अक्षि॑तम् ।  
+> वर्षि॑ष्ठे॒ अधि॒ सान॑वि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यम् । गावः । घृतम् । पयः । बभ्रो इति । दुदुह्रे । अक्षितम् ।  
+> वर्षिष्ठे । अधि । सानवि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बभ्रो बभ्रुवर्ण सोम तुभ्यं त्वदर्थं गावो घृतं पयः च अक्षितम् अक्षीणं दुदुहे दुहते । वर्षिष्ठे प्रवृद्धे अधि सानवि समुच्छ्रिते प्रदेशे स्थिताय तुभ्यम् ॥
+
+##### Gist of the bhāṣya
+
+O Bhabhru, tawny-coloured Soma, for you तुभ्यं (*tubhyaṃ*) the cows गावः (*gāvaḥ*) yield दुदुहे (*duduhe*) **NOTE** ghee घृतं (*ghṛtaṃ*) and milk पयः (*payaḥ*) that are inexhaustible अक्षितम् (*akṣitam*): for you who stand on the lofty वर्षिष्ठे (*varṣiṣṭhe*), grown great, high place सानवि (*sānavi*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बभ्रो (*babhro*)—O Soma of tawny colour
+- अधि सानवि (*adhi sānavi*)—in the high mountain regions
+- वर्षिष्ठे (*varṣiṣṭhe*)—growing well and increasing
+- तुभ्यं (*tubhyaṃ*)—for you
+- गावः (*gāvaḥ*)—the cows
+- घृतं (*ghṛtaṃ*)—ghee
+- पयः (*payaḥ*)—and milk
+- अक्षितं (*akṣitaṃ*)—abundantly
+- दुदुह्रे (*duduhre*)—yield
+
+##### भावार्थ (Bhāvārtha)
+
+O tawny-shining Soma, for you, who grow abundantly in the high mountain regions, the cows yield milk and ghee in plenty.
+
+##### English translation
+Tawny-tinted (Soma), the cows yield butter and milk inexhaustible for you (set) on the highest summit.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is well known that the Soma plants growing in the high mountain regions are the most excellent and yield a juice that is abundant and very tasty. It is also described here that the cows supply the milk, the curds and the ghee for the oblation that are mixed with the Soma juice.
+
 ---
 
-**Progress note:** Done through printed p. 803. Vol 25 end of Sukta 29 (Rk 5-6), Sukta 30 Rk 1-5, pp. 798-803
+**Progress note:** Done through printed p. 809. Vol 25 Sukta 30 Rk 6, Sukta 31 Rk 1-5, pp. 804-809
