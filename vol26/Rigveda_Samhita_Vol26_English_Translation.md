@@ -25434,6 +25434,153 @@ Agni is prayed to in the same way as in the present Ṛk: bring the thirty-three
 
 विश्वैर्देवैस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा । (*viśvairdevaistribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā |*) (Ṛ. Saṃ. 8-35-3) **GLOSS**
 
+### Printed p. 671
+
+तव त्ये सोम पवमान निण्ये विश्वे देवास्त्रय एकादशासः । दश स्वधाभिरधि सानो अव्ये मृजंति त्वा नद्यः सप्त यह्वीः । (*tava tye soma pavamāna niṇye viśve devāstraya ekādaśāsaḥ | daśa svadhābhiradhi sāno avye mṛjaṃti tvā nadyaḥ sapta yahvīḥ |*) (Ṛ. Saṃ. 9-92-4)
+
+In such Ṛks too it is clear that the number of the gods is thirty-three. In the Śatapatha Brāhmaṇa too,
+
+अष्टौ वसवः । एकादश रुद्राः । द्वादशादित्या' इमे एव द्यावापृथिवी त्रयस्त्रिंशद्वै देवाः प्रजापतिश्च तुस्त्रिंशः । (*aṣṭau vasavaḥ | ekādaśa rudrāḥ | dvādaśādityā ' ime eva dyāvāpṛthivī trayastriṃśadvai devāḥ prajāpatiśca tustriṃśaḥ |*) (Śa. Badra, 4-5-7-2) **NOTE**
+
+the eight Vasus, the eleven Rudras, the twelve Ādityas and Dyāvāpṛthivī together are thirty-three gods; Prajāpati, besides these, is the thirty-fourth: thus it is said in one place. But in another place, although the number is the same thirty-three, Indra and Prajāpati are included in place of Dyāvāpṛthivī.
+
+ते त्रयस्त्रिंशदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिंद्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति । (*te trayastriṃśadityaṣṭau vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadiṃdraścaiva prajāpatiśca trayastriṃśāviti |*) (Śa. Brā. 11-6-3-5)
+
+In the Aitareya Brāhmaṇa too,
+
+त्रयस्त्रिंशद्वै देवाः सोमपास्त्रयस्त्रिंशदसोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चते देवाः सोमपाः । (*trayastriṃśadvai devāḥ somapāstrayastriṃśadasomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiśca vaṣaṭkāraścate devāḥ somapāḥ |*) (Ai. Bā. 2-18) **NOTE**
+
+The gods who drink the Soma are thirty-three: they are the eight Vasus, the eleven Rudras and the twelve Ādityas; with them Prajāpati and Vaṣaṭkāra. Thus in the Saṃhitā and in the Brāhmaṇas there is one and the same opinion about this number. But,
+
+त्रीणि शता श्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् । औक्षन् धृतैरस्त्रृणन्बर्हिरस्मा आदिद्दोतारं न्यसादयंत ॥ (*trīṇi śatā śrī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan | aukṣan dhṛtairastrṛṇanbarhirasmā ādiddotāraṃ nyasādayaṃta ‖*) (Ṛ. Saṃ. 3-9-9)
+
+in this Ṛk, and likewise in the Ṛk Ṛ. Saṃ. 10-52-6, it is said that three thousand three hundred and thirty-nine gods worshipped Agni. The same order is found in the Vājasaneyi Saṃhitā too (33-7). Besides this,
+
+नमो महद्भो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः । यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवाः ॥ (*namo mahadbho namo arbhakebhyo namo yuvabhyo nama āśinebhyaḥ | yajāma devānyadi śaknavāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ ‖*) (Ṛ. Saṃ. 1-26-1)
+
+### Printed p. 672
+
+When salutation is said to all kinds of gods, those of exceeding qualities, those of lesser qualities, the young and the old, it is understood that there is variety of nature among the gods. This very mantra **NOTE** is recited in the Aitareya Brāhmaṇa too (7-16), in the Śunaḥśepa narrative, in the context of the prayer to the Viśvedevas. But,
+
+नहि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतोमहांत इत् (*nahi vo astyarbhako devāso na kumārakaḥ | viśve satomahāṃta it*) (Ṛ. Saṃ. 8-20-1) (Ṛ. Saṃ. 8-30-1) **NOTE**
+
+here there is no distinction at all of great and small among the gods; there is the praise that all the gods are great.
+
+नद्यः सप्त यह्वीः (*nadyaḥ sapta yahvīḥ*)—Here seven great rivers are mentioned. Which are these seven great rivers? What are their names? and the like: the discussion of these matters we shall make in the introduction to the 75th sūkta of the tenth maṇḍala. In the 5th Ṛk of that same sūkta the names of these principal rivers are stated in this way—
+
+इमं मे गंगे यमुने सरस्वति शुतुद्रि स्तोमं सचता परुष्णा । असिक्किया मरुद्वृधे वितस्तयार्जीकीये शृणुह्या सुषोमया ॥ (*imaṃ me gaṃge yamune sarasvati śutudri stomaṃ sacatā paruṣṇā | asikkiyā marudvṛdhe vitastayārjīkīye śṛṇuhyā suṣomayā ‖*) (Ṛ. Saṃ. 10-75-5)
+
+In this Ṛk there are the names of ten principal rivers: Gaṅgā, Yamunā, Sarasvatī, Śutudri, Paruṣṭhī, Asiknī, Marudvṛdhā, Vitastā, Ārjīkī and Suṣomā. Leaving aside the three rivers that are not much in use, Vitastā, Asiknī and Ārjīkī, the remaining seven rivers are famous as great rivers, and the matter of these seven rivers is mentioned here and there. Since in the Nirukta written by Yāska on the above Ṛk there is an explanation how these rivers came to have these names, we have explained just that here.
+
+इमं मे गंगे यमुने सरस्वति शुतुद्रि परुष्ठि स्तोममासेवध्वमसिक्ना च सह मरुद्वृधे वितस्तया चार्जिकीय आशृणुहि सुसोमया चेति समस्तार्थः ॥ (*imaṃ me gaṃge yamune sarasvati śutudri paruṣṭhi stomamāsevadhvamasiknā ca saha marudvṛdhe vitastayā cārjikīya āśṛṇuhi susomayā ceti samastārthaḥ ‖*)
+
+अथैकपदनिरुक्तं- गंगा गमनात् ॥ (*athaikapadaniruktaṃ- gaṃgā gamanāt ‖*)
+
+यमुना प्रयुवती गच्छतीति ना प्रवियुतं गच्छतीति वा ॥ (*yamunā prayuvatī gacchatīti nā praviyutaṃ gacchatīti vā ‖*)
+
+सरस्वती सॆर इत्यदकनाम सर्तॆस्तद्वती ॥ (*sarasvatī sèra ityadakanāma sartèstadvatī ‖*)
+
+शुतुद्रीशुद्राविणी क्षिप्रद्राविण्याशु तुन्नेव द्रवतीति वा ॥ (*śutudrīśudrāviṇī kṣipradrāviṇyāśu tunneva dravatīti vā ‖*)
+
+इरावतीं परुष्ठीत्याहुः—पर्ववती भास्वती कुटिलगामिनी ॥ (*irāvatīṃ paruṣṭhītyāhuḥ—parvavatī bhāsvatī kuṭilagāminī ‖*)
+
+असिक्न्यशुक्लाशिता--सितमिति वर्णनाम तत्प्रतिषेधोऽसितं ॥ (*asiknyaśuklāśitā--sitamiti varṇanāma tatpratiṣedho 'sitaṃ ‖*)
+
+### Printed p. 673
+
+मरुद्वधाः सर्वा नद्यो मरुत एना वर्धयंति वितस्ता विदग्धा विवृद्धा महाकूला ॥ (*marudvadhāḥ sarvā nadyo maruta enā vardhayaṃti vitastā vidagdhā vivṛddhā mahākūlā ‖*)
+
+आर्जीकीयां विपाडित्याहुः । ऋजीकप्रभवा वर्जुगामिनी वा विपाड्विपाटनाद्वा विप्राशनाद्वा विप्रापणाद्वा पाशा अस्यां व्यपाश्यंत वसिष्ठस्य मुमूर्षतस्तस्माद्विपाडुच्यते ॥ पूर्वमासीदुरुंजिरा ॥ (*ārjīkīyāṃ vipāḍityāhuḥ | ṛjīkaprabhavā varjugāminī vā vipāḍvipāṭanādvā viprāśanādvā viprāpaṇādvā pāśā asyāṃ vyapāśyaṃta vasiṣṭhasya mumūrṣatastasmādvipāḍucyate ‖ pūrvamāsīduruṃjirā ‖*)
+
+सुषोमा सिंधुर्यदेनामभिप्रसुवंति नद्यः ॥ (*suṣomā siṃdhuryadenāmabhiprasuvaṃti nadyaḥ ‖*)
+
+सिंधुः स्यंदनात् ॥ (*siṃdhuḥ syaṃdanāt ‖*) (Ni. 9-26)
+
+"O Gaṅgā, Yamunā, Sarasvatī, Śutudri together with Paruṣṭhī, Marudvṛdhā together with Asikkī, Ārjīkīyā together with Vitastā: all of you, listen to this hymn that I am reciting": this is the total meaning of this Ṛk. For each of these words, Gaṅgā and the rest, the nirukta, that is, the meaning of the parts, will be stated—
+
+गंगा (*gaṃgā*)—The word Gaṅgā is derived from a word expressing going, formed from the root गम्लृ (*gamlṛ*), which has the meaning "to go" (to flow).
+
+यमुना (*yamunā*)—Because it flows mixed with (joined to) other rivers, or slowly, or without sound, this river is called Yamunā.
+
+सरस्वति (*sarasvati*)—सरः (*saraḥ*) means water. "Possessing water" means that, because it has plenty of water, or because it keeps moving without stopping (flowing on), this river is called Sarasvatī.
+
+शुतुद्रि (*śutudri*)—Because it runs away swiftly, or flows swiftly, or flows swiftly like those who run when urged by others, this river is called Śutudri.
+
+परुष्टी (*paruṣṭī*)—The river Irāvatī itself is called the river Paruṣṭī. Paruṣṭī means that which has पर्व (*parva*) or joints (knots). Because this river flows in windings, this river has come to have the name Paruṣṭī.
+
+असिक्नी (*asiknī*)—It means that which is not white, that which is black. सितं (*sitaṃ*) means that which is white. असित (*asita*) means that which is not white, that which is black. Because the water of this river is not clear but has a slight dark tinge, this river has got the name Asiknī.
+
+मरुध्वधे (*marudhvadhe*)—Because this river grows through all the other rivers (its tributaries) and through the wind, and flows overflowing, it is called Marudvadhā.
+
+### Printed p. 674
+
+वितस्ता (*vitastā*)—It means a river with high banks formed of unburnt, that is, raw sticky clay.
+
+आर्जीकीया (*ārjīkīyā*)—This has also the name विपाड् (*vipāḍ*). Because this river rises and flows in the country called Ṛjuka, or because it flows straight without bends (turns), this river is called Ārjīkīyā.
+
+विपाट् (*vipāṭ*)—Because this river, when flowing, flows crossing over its banks, or flows bursting through the two banks that confine it, or flows spreading widely beyond the banks, this river is called Vipāṭ. Formerly, when the sons of the sage Vasiṣṭha had died, the sage, unable to bear the grief for his sons, wished to kill himself, tied his hands and feet with ropes and sank in this river Vipāṭ. But the river, not wishing to kill him, tore off his ropes and saved him. Because it tore off the ropes in this way, this river came to have the name Vipāṭ. Formerly this river had the name उरुंजिरा (*uruṃjirā*), a river with abundant water.
+
+सुषोमा (*suṣomā*)—This river has also the name of the river Sindhu, because all the rivers (its tributaries) flow to it in order to join it (confluence). The word सिंधु (*siṃdhu*) means flowing. Some are of the opinion that, because excellent soma creepers grew on the bank of this river, the name Suṣomā (सु+सोम (*su+soma*)) may have come to this river.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नु स॒त्यं पव॑मानस्यास्तु॒ यत्र॒ विश्वे॑ का॒रवः॑ सं॒नसं॑त ।  
+> ज्योति॒र्यदह्ने॒ अकृ॑णोदु लो॒कं प्राव॒न्मनुं॒ दस्य॑वे कर॒भीक॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नु । सत्यम् । पवमानस्य । अस्तु । यत्र । विश्वे । कारवः । सम्ऽनसंत ।  
+> ज्योतिः । यत् । अह्ने । अकृणोत् । ऊं इति । लोकम् । प्र । आवत् । मनुम् । दस्यवे । कः । अभीकम् ॥ ५ ॥
+
+### Printed p. 675
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्यं सत्यभूतं तत् प्रसिद्धं पवमानस्य सोमस्य स्थानं नु क्षिप्रमस्माकम् अस्तु । यत्र यस्मिन् स्थाने विश्वे सर्वे कारवः स्तोतारः संनसंत स्तोतुं संगच्छंते तत्स्थानमस्तु । अस्य सोमस्य यत् ज्योतिः अह्ने दिवसाय लोकम् आलोकं प्रकाशम् अकृणोत् करोति । उ इत्यवधारणे । तज्ज्योतिः मनुम् एतन्नामानं राजर्षिं प्रावत् प्रकर्षेणारक्षत् । तथा सोमः स्वयं तेजः दस्यवे सर्वस्योपक्षपयित्रेऽसुराय अभीकम् अभिगमनशीलं कः अकार्षीत् । करोतेर्लुङि  मंत्रे घस° ' इति च्लेर्लुक् ॥
+
+##### Gist of the bhāṣya
+
+That well-known place of Pavamāna, Soma, which is of the nature of truth, let it quickly be ours: the place in which all the praisers assemble to praise; let that place be ours. The light of this Soma which makes लोकम् (*lokam*), that is, brightness, light, for the day; here उ (*u*) is in the sense of emphasis. That light protected Manu, the royal sage so named, exceedingly. Likewise Soma himself made his energy such as to approach, to confront, the Dasyu, the Asura who wastes away everything: who made it? कः (*kaḥ*), he made it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in the divine place of which Soma
+- विश्वे कारवः (*viśve kāravaḥ*)—all the praisers
+- संनसंत (*saṃnasaṃta*)—are gathered together; of such
+- पवमानस्य (*pavamānasya*)—of the god Soma
+- तत् (*tat*)—well-known
+- सत्यं (*satyaṃ*)—of the nature of truth, the place
+- नु (*nu*)—quickly
+- अस्तु (*astu*)—let it be ours
+- यत् ज्योतिः (*yat jyotiḥ*)—the light of which Soma
+- अह्ने (*ahne*)—for the day
+- लोकं (*lokaṃ*)—brightness
+- अकृणोत् (*akṛṇot*)—produces, that light
+- मनुं (*manuṃ*)—Manu, the royal sage
+- प्रावत् (*prāvat*)—protected (that same energy)
+- दस्यवे (*dasyave*)—the Asura
+- अभीकं (*abhīkaṃ*)—so as to confront and defeat
+- कः (*kaḥ*)—Soma made
+
+##### भावार्थ (Bhāvārtha)
+
+Let the well-known place of the god Soma, of the nature of truth, in whose divine place all the praisers are gathered together, quickly become ours. The light of Soma which produces brightness for the day protected the royal sage called Manu; Soma made that same energy such as to confront and defeat the Asura.
+
+##### English translation
+May that place of the truthful Pavamana be quickly ours, where all the worshippers assemble (to praise him); the light (of the Soma) which gave manifestation to the day protected Manu—Soma made it triumphant over the Dasyu.
+
+##### विशेषविषयगळु (Special Topics)
+
+मनुं (*manuṃ*)—Although the name of Manu is read in many places in the Ṛgveda, no further description is found anywhere. Manu may be understood as the primal ancestor of the human race and as the guide in the method of performing sacrifices and the like. In many contexts, with the words "as Manu did" (मनुष्यत् (*manuṣyat*)) **NOTE**, the work done by Manu is also praised. When he was distributing his property among his children,
+
+### Printed p. 676
+
+his youngest son, named Nābhānediṣṭha, was studying in the guru's house in celibacy and so was not near his father. His father at that time divided his property among all the other children who were near him. Nābhānediṣṭha received no share of inheritance. He, having completed his studies, came to his father and asked about his share; then Manu told him everything that had happened, and said that he now had nothing, but taught him a device for obtaining wealth. "O son, do not think about wealth. The Āṅgirasa sages are now performing a sacrifice. If you go to that place and teach them some mantras, their sacrifice will proceed in perfect order and they will give you wealth as much as you wish," and sent him off. Nābhānediṣṭha, according to his father's word, went to the sacrificial ground of the Aṅgirasa sages, taught them the mantras and obtained wealth from them as much as he wished. This account is explained at length in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā of the Yajurveda. Chiefly because the sacrifice performed by this Manu is famous, the matter of the sacrifice performed by Manu is mentioned here and there in the Ṛgveda. The matter of this Manu is told not only in the Ṛgveda but in places such as the Atharvaveda (14-2-41) and the Taittirīya Saṃhitā (Tai. Saṃ. 3-1-9-4, 5).
+
+मनुः (*manuḥ*)—Since the usage occurs also when men in general are intended, as "Manu" or "Manus", it is difficult to know when men are intended and when the person called Manu. In the second sense, the usage occurs about twenty times in the singular as "Manu" and about as many times in the plural; Manu is called "father" five times, and in two of these still more clearly "our father" (2-33-13: and the like). (विशः (*viśaḥ*) 4-37-1;) **NOTE** Agni dwells in the progeny of Manu (1-68-4). It is Manu who began the sacrifices. Having kindled Agni, together with the seven sages, he gave the first offering to the gods (10-63-7). The very sacrifice practised by Manu is what everyone practises now. The present sacrifice is compared to the sacrifice that the Manus performed with reference to the gods (1-76-5). By the adverb मनुस्वत् (*manusvat*) (like Manu) the sacrificial acts are compared again and again. Like the Manus, the worshippers complete the sacrifice with Agni (1-44-11). Like the Manus, they kindle Agni (5-21-1 and the like). They praise Agni, kindled by Manu, just like Manu (7-2-3). Like the Manus, they offer the Soma juice (4-37-3). Soma is prayed to flow for them now, as he flowed formerly for Manu (9-96-12). Manu established Agni so that he might be a light for all people (1-36-19). With the ancient sacrificers, the Aṅgirases and the Yayātis (1-31-17), Bhṛgu and Aṅgirasa
+
 ---
 
-**Progress note:** Done through printed p. 670. Rk 3 close (Pratipadartha, Special Topics on pancajanah), Rk 4 block and Pratipadartha, Special Topics on 33 gods
+**Progress note:** Done through printed p. 676. Special Topics on 33 gods and the seven rivers (Nirukta), Rk 5 block and Pratipadartha, Special Topics on Manu
