@@ -411,6 +411,20 @@ def build_kan(cfg, html_only):
     md = (ROOT / cfg['kannada_md']).read_text(encoding='utf-8')
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
+    # each page ('*[ಪೂರ್ವಪೀಠಿಕೆ 3]*'), the '[figure]' places and the machine's remark on a picture, comments of the making.
+    md, nrh = re.subn(r'(?m)^\*\[[^\n]*\]\*[ \t]*\n', '', md)
+    md, nfig = re.subn(r'(?m)^\[figure[^\]\n]*\][ \t]*\n(?:\n?ಚಿತ್ರವು [^\n]*\n)?', '', md)
+    md = re.sub(r'(?m)^<!-- (?!printed)[^\n]*-->[ \t]*\n', '', md)
+    # chapter lines of a prose volume ('ಒಂದನೆಯ ಪ್ರಕರಣ.') become headings, so that the book has a contents page (after the first page mark only:
+    # before it the same words are entries of the original's own contents)
+    k = md.find('<!-- printed 2 -->')
+    if k > 0:
+        head, body = md[:k], md[k:]
+        body, nch = re.subn(r'(?m)^([^\s#>*|][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ)(?:ವು)?[ \t.]*\n(?=[^\n]{1,80}\n)', lambda m: '\n## ' + m.group(1) + '\n\n', body)
+        md = head + body
+    else: nch = 0
+    print(f'[kan] running heads removed: {nrh}; figure places removed: {nfig}; chapter headings made: {nch}')
     md = re.sub(r'<!-- printed (\d+) -->', r'### Printed p. \1', md)
     md = re.sub(r'\n---\n', '\n', md)
     body = pandoc_html(md)
@@ -422,14 +436,14 @@ def build_kan(cfg, html_only):
         mm = re.match(r'Printed p\.\s*(\d+)', text)
         if mm: return f'<h3 class="pg" id="p{mm.group(1)}" data-p="Kannada edition p. {mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
         if tag == 'h2':                                   # '## ಸೂಕ್ತ N (ಮಂಡಲ M)' or '## ಮಂಡಲ M' (added from the English structure by kn_headings.py)
-            cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'part'
+            cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'chapter' if 'ಪ್ರಕರಣ' in text else 'part'
             toc.append((hid, text, cls))
             return f'<h2 class="{cls}" id="{hid}" data-short="{html.escape(text)}">{inner}</h2>'
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     idx = ''
     if toc:
-        idx = '<section class="toc"><h2>ಸೂಕ್ತಸೂಚಿ</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
+        idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
     ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])

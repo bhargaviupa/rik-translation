@@ -97,6 +97,8 @@ def join_page_turns(doc):
         ta, tb = re.sub(r'<[^>]+>', '', a).rstrip(), re.sub(r'<[^>]+>', '', b).lstrip()
         open_a = bool(re.search(r'(\.\.\.|…)$', ta)) or bool(re.search(r'[A-Za-zāīūṛṃḥśṣṇṭḍñ,;—-]$', ta))
         cont_b = bool(re.match(r'(\.\.\.|…)', tb)) or bool(re.match(r'[a-zāīūṛśṣ]', tb))
+        if ta and tb and re.search('[\u0c80-\u0cff,;]$', ta) and re.match('[\u0c80-\u0cff]', tb):      # Kannada book: the page ends inside a sentence
+            n += 1; return f'<p>{a} <span class="pgmark"{attrs}></span>{b}</p>'
         if not (open_a and cont_b) or not ta or not tb: return m.group(0)
         if not (re.search(r'(\.\.\.|…)$', ta) or re.match(r'(\.\.\.|…)', tb)) and not re.match(r'[a-z]', tb): return m.group(0)
         n += 1
@@ -151,12 +153,22 @@ def plain_sentences(doc):
 
 
 def stamp(doc):
-    """Every PDF says when it was built (REQUIREMENTS H2.7; user, Nov 26 2026, after reading an old copy for a day): the footer reads
-    'REVIEW COPY · built 26 Nov 2026 03:10 UTC'.  Two copies can then be told apart at a glance."""
-    import datetime
-    when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y %H:%M')
-    css = f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY\\A built {when} UTC"; white-space: pre; }} }} @page front {{ @bottom-left {{ content: none; }} }} @page :first {{ @bottom-left {{ content: none; }} }} @page :blank {{ @bottom-left {{ content: none; }} }}</style>'
+    """Every PDF carries a build number and date in the footer of every page: "REVIEW COPY / build 03 · 26 Nov 2026" (REQUIREMENTS H2.7;
+    user, Nov 26 2026: "I prefer you give version number … like build01").  The number counts the builds of that book (volume and
+    language, read from the <title>) and is kept in publish/build_numbers.json; two copies can be told apart at a glance and a comment
+    quotes "build NN, p. X"."""
+    import datetime, json, pathlib
+    t = re.search(r'<title>([^<]*)</title>', doc); t = t.group(1) if t else ''
+    v = re.search(r'Volume (\d+)', t); key = f'vol{v.group(1) if v else "?"}_{"kan" if "Kannada" in t else "eng"}'
+    f = pathlib.Path(__file__).resolve().parent / 'build_numbers.json'
+    nums = json.loads(f.read_text(encoding='utf8')) if f.exists() else {}
+    nums[key] = nums.get(key, 0) + 1; f.write_text(json.dumps(nums, indent=1, sort_keys=True) + '\n', encoding='utf8')
+    when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y')
+    css = (f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY\\A build {nums[key]:02d}  ·  {when}"; white-space: pre; }} }} @page front {{ @bottom-left {{ content: none; }} }} '
+           '@page :first { @bottom-left { content: none; } } @page :blank { @bottom-left { content: none; } }</style>')
+    print(f'[build] {key} build {nums[key]:02d}')
     return doc.replace('</head>', css + '</head>', 1)
+
 _PGHEAD = re.compile(r'<(h[2-4])([^>]*)>\s*\[?(?:Printed )?[Pp]ages? ([0-9ivxlc]+)((?:[–-][0-9ivxlc]+)?)\]?\s*(?:(?:—|:)\s*(.*?)|<em>\([^<]*\)</em>|\([^<)]*\))?\s*</\1>', re.S)
 def page_headings(doc):
     """Safety net for every builder: a heading of the working file that is only a page of the original ("Page 221 (continued)",
@@ -249,6 +261,21 @@ def no_kannada(doc):
         elif body: parts[k] = text(t)
     return ''.join(parts), n
 
+def wide_tables(doc):
+    """A table must fit the page: one with many columns ran off the right edge and was cut (Vol 1; user, Nov 26 2026).  Every table of the
+    text gets its number of columns as a class (cols5, cols6 …); style_footer.css sets tables of 5 columns or more in smaller type with
+    fixed column widths and lets long words break."""
+    n = 0
+    def rep(m):
+        nonlocal n
+        if 'class="contents"' in m.group(1): return m.group(0)
+        rows = re.findall(r'<tr\b.*?</tr>', m.group(0), flags=re.S); cols = max((len(re.findall(r'<t[dh]\b', r)) for r in rows), default=0)
+        if cols >= 5: n += 1
+        tag = m.group(1)
+        tag = re.sub(r'class="', f'class="cols{cols} ' + ('wide ' if cols >= 5 else ''), tag, count=1) if 'class="' in tag else tag[:-1] + f' class="cols{cols}{" wide" if cols >= 5 else ""}">'
+        return tag + m.group(0)[len(m.group(1)):]
+    return re.sub(r'(<table\b[^>]*>).*?</table>', rep, doc, flags=re.S), n
+
 def fix(doc, quiet=False):
     """Every print rule that holds for all volumes (docs/REQUIREMENTS.md, A4 "Print rules"), applied to the finished HTML of any builder.
     Prints one line of counts, so that each build shows what was done."""
@@ -264,5 +291,6 @@ def fix(doc, quiet=False):
     doc = sanskrit(doc); c['transliterations on their own line'] = doc.count('<em class="iast">')
     doc, c['English of quotations not printed'] = quotations(doc)
     doc, c['Kannada-script places'] = no_kannada(doc)
+    doc, c['wide tables fitted'] = wide_tables(doc)
     if not quiet: print('[printfix] ' + '; '.join(f'{k} {v}' for k, v in c.items()))
     return doc

@@ -13,7 +13,8 @@ import re, sys, subprocess, pathlib, datetime, json
 PUB = pathlib.Path(__file__).resolve().parent; ROOT = PUB.parent
 sys.path.insert(0, str(PUB))
 def builder(n):
-    if (ROOT / f'vol{n}' / 'pubcfg.json').exists(): return ['python3', str(PUB / 'volbook.py'), str(n)], ROOT
+    cfgp = ROOT / f'vol{n}' / 'pubcfg.json'
+    if cfgp.exists() and not json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'): return ['python3', str(PUB / 'volbook.py'), str(n)], ROOT
     if n == 1: return ['python3', 'build_vol1.py', 'full'], PUB
     if n == 2: return ['python3', 'build_vol2.py', 'full'], PUB
     if n == 3: return ['python3', 'build.py', '3', 'full'], PUB
@@ -45,6 +46,9 @@ def main():
             for k, v in re.findall(r': (session|paren|ownnote|twin|leaders) (\d+)', out): cnt[k] = cnt.get(k, 0) + int(v)
             note = 'clean-up: ' + ', '.join(f'{k} {v}' for k, v in cnt.items() if v) if any(cnt.values()) else 'clean-up: nothing to remove'
         rc, out = run(cmd, cwd)
+        cfgp = ROOT / f'vol{n}' / 'pubcfg.json'
+        if not rc and cfgp.exists() and json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'):        # the Kannada book of an old volume
+            rc2, out2 = run(['python3', str(PUB / 'volbook.py'), str(n), 'kan'], ROOT); out += out2
         if rc: rows.append((n, 'BUILD FAILED: ' + out.strip().split('\n')[-1][:150], '', '', '', note)); print(f'vol{n}: build failed'); continue
         if cleanup and note.startswith('clean-up:') and 'nothing' not in note:
             after = heads(n); lost = [h for h in before if h not in after]
