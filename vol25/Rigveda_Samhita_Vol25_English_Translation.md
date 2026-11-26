@@ -35477,6 +35477,292 @@ We praise the auspicious Soma's imprisonment (of the Rakshasas) and hostile (int
 > शृ॒ण्वे वृ॒ष्टेरि॑व स्व॒नः पव॑मानस्य शु॒ष्मिणः॑ ।  
 > चरं॑ति वि॒द्युतो॑ दि॒वि ॥ ३ ॥
 
+### Printed p. 864
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृण्वे । वृष्टेःऽइव । स्वनः । पवमानस्य । शुष्मिणः ।  
+> चरंति । विऽद्युतः । दिवि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शृण्वे श्रूयते । किम् । सोमस्वनः । किमिव । वृष्टेः वर्षणस्य स्वनः इव । तस्य यथा महान् स्वनः श्रूयते तद्वत् प्रभूतरसापातसमये श्रूयते । कस्य स्वन इति तत्राह । पवमानस्य पूयमानस्य शुष्मिणः बलवतः । तस्यैव विद्युतः दीप्तयः दिवि अंतरिक्षे चरंति ।
+
+##### Gist of the bhāṣya
+
+The sound is heard. Whose? The Soma's. Like what? Like the sound of rain: as a great sound of rain is heard, so it is heard at the time of a great fall of juice. Whose sound? Of the purifying (पवमानस्य (*pavamānasya*)), the mighty (शुष्मिणः (*śuṣmiṇaḥ*)) Soma. His lightnings (विद्युतः (*vidyutaḥ*)), that is, his flashes, move (चरंति (*caraṃti*)) in the sky (दिवि (*divi*)), the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मिणः (*śuṣmiṇaḥ*)—of the strength-giving
+- पवमानस्य (*pavamānasya*)—of this Soma juice that is being pressed
+- स्वनः (*svanaḥ*)—the murmuring sound of its flowing
+- वृष्टेरिव (*vṛṣṭeriva*)—like the sound of rain that pours in torrents and with force
+- शृण्वे (*śṛṇve*)—is heard
+- दिवि (*divi*)—in the atmosphere
+- विद्युतः (*vidyutaḥ*)—the lightning-like gleams of this Soma juice
+- चरंति (*caraṃti*)—move
+
+##### भावार्थ (Bhāvārtha)
+
+The murmuring sound of this strength-giving Soma juice, as it is pressed and flows, is heard like the sound of rain pouring with force. And the lightning-like gleams of this Soma juice spread and shine throughout the atmosphere.
+
+##### English translation
+The Sound of the purified, powerful Soma is heard like that of rain ; (his) lightnings move in the sky.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व म॒हीमिषं॒ गोम॑दिंदो॒ हिर॑ण्यवत् ।  
+> अश्वा॑व॒द्वाज॑वत्सु॒तः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । महीम् । इषम् । गोऽमत् । इंदो इति । हिरण्यऽवत् ।  
+> अश्वऽवत् । वाजऽवत् । सुतः ॥ ४ ॥
+
+### Printed p. 865
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम सुतः अभिषुतस्त्वं महीमिषम् महदन्नम् आ पवस्व । कीदृशमन्नम् । गोमत् बहुगोभिरुपेतमेवं हिरण्यवत् हिरण्यैः अश्ववत् अश्वैः वाजवत् वाजैर्बलैश्चोपेतम् ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you who have been pressed, pour (आ पवस्व (*ā pavasva*)) great food (महीमिषम् (*mahīmiṣam*)). What kind of food? Endowed with cows (गोमत् (*gomat*)), with gold (हिरण्यवत् (*hiraṇyavat*)), with horses (अश्ववत् (*aśvavat*)), with strengths (वाजवत् (*vājavat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O radiant Soma
+- सुतः (*sutaḥ*)—you who have been pressed
+- गोमत् (*gomat*)—accompanied by many cows
+- हिरण्यवत् (*hiraṇyavat*)—endowed with wealth such as gold
+- अश्ववत् (*aśvavat*)—endowed with many horses
+- वाजवत् (*vājavat*)—endowed with strength
+- महीं इषं (*mahīṃ iṣaṃ*)—abundant food
+- आ पवस्व (*ā pavasva*)—bring and bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, just now pressed and shining, bring and bestow on us many cows and horses, wealth such as gold, strength and abundant food.
+
+##### English translation
+When effused, Indu, pour forth much food with cows, gold, horses, and strength,
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑वस्व विचर्षण॒ आ म॒ही रोद॑सी पृण ।  
+> उ॒षाः सूर्यो॒ न र॒श्मिभिः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवस्व । विऽचर्षणे । आ । मही इति । रोदसी इति । पृण ।  
+> उषाः । सूर्यः । न । रश्मिऽभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचर्षणे विद्रष्टः सोम सः त्वं पवस्व क्षर रसम् । तथा कृत्वा तेन रसेन मही महत्यौ रोदसी द्यावापृथिव्यौ आ पृण आपूरय। उषाः उषसः। एकदेशवाचिनोषःशब्देन तदुपलक्षितमहरुच्यते तत्प्राधान्यात् । अहानि रश्मिभिः सूर्यो न सूर्य इव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, all-seeing (विचर्षणे (*vicarṣaṇe*)), you, flow (पवस्व (*pavasva*)), pour your juice. Having done so, fill (आ पृण (*ā pṛṇa*)) with that juice the great (मही (*mahī*)) heaven and earth (रोदसी (*rodasī*)). उषाः (*uṣāḥ*): by the word usha, which names a part, the day marked by it is meant, since that part is the chief; he fills the days with his rays as the sun does.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणे (*vicarṣaṇe*)—O Soma, who can see everything
+- सः (*saḥ*)—you
+- आ पवस्व (*ā pavasva*)—flow
+- सूर्यः (*sūryaḥ*)—the sun
+- उषाः (*uṣāḥ*)—the days, at the time of dawn
+
+### Printed p. 866
+
+- रश्मिभिः (*raśmibhiḥ*)—with his rays, as he pervades them
+- मही (*mahī*)—the vast
+- रोदसी (*rodasī*)—heaven and earth (with your radiance)
+- आपृण (*āpṛṇa*)—fill
+
+##### भावार्थ (Bhāvārtha)
+
+O all-seeing Soma, flow well. As the sun, at the times of dawn, that is, in the days, pervades and shines everywhere with his rays, so fill all this wide heaven and earth with your radiance.
+
+##### English translation
+Flow, all-seeing (Soma), fill the vast heaven and earth, as the sun (fills) the days with his beams.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ णः शर्म॒यंत्या॒ धार॑या सोम वि॒श्वतः॑ ।  
+> सरा॑ र॒सेव॑ वि॒ष्टप॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । नः । शर्मऽयंत्या । धारया । सोम । विश्वतः ।  
+> सर । रसाऽइव । विष्टपम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नः अस्मभ्यं शर्मयंत्या सुखयंत्या धारया विश्वतः सर्वतः परि सर परिचर । रसेव रसेनेव विष्टपं भूलोकम् । यद्वा । रसा नदी स्थानं सा प्रवणरूपमिव ॥ ॥ ३१ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, with a stream (धारया (*dhārayā*)) that gives us happiness (शर्मयंत्या (*śarmayaṃtyā*)), flow (परि सर (*pari sara*)) round us on all sides, as a juice (रसेव (*raseva*)) flows over the earth (विष्टपं (*viṣṭapaṃ*)). Or else: रसा (*rasā*) is a river, and its place is like a slope.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- रसेव (*raseva*)—as a river rushes down to the sea, its appointed place; or
+- विष्टपं (*viṣṭapaṃ*)—[रसेव (*raseva*): as water pouring down as rain spreads over the whole earth]
+- नः (*naḥ*)—to us
+- शर्मयंत्या (*śarmayaṃtyā*)—that gives happiness
+- धारया (*dhārayā*)—with your stream or flow
+- परि सर (*pari sara*)—spread all around and serve us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, as a river rushes down a low-lying place and reaches the sea, or as rain water spreads over the whole earth, so flow, spreading all around with your happiness-giving stream, and serve us, that is, make us glad.
+
+### Printed p. 867
+
+##### English translation
+Flow round us, Soma, on all sides in a bliss-bestowing stream, like a river down a steep place.
+
+## Sūkta 42 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘जनयन्' इति षडृचमष्टादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘जनयन्' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning जनयन् (*janayan*) has six ṛks and is the eighteenth sūkta. The seer and so on are as before. The Anukramaṇī lists it by जनयन् (*janayan*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning जनयन् (*janayan*) is the eighteenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, जनयन् (*janayan*), is the ritual use, which has been stated before.
+
+Sūkta 42. Maṇḍala 9, Anuvāka 2, Sūkta 42. Aṣṭaka 6, Adhyāya 8, Varga 32. Number of ṛks in the sūkta: 6. Ṛṣi: मेधातिथिः (*medhātithiḥ*) **NOTE**. Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒नय॑न्रोच॒ना दि॒वो ज॒नय॑न्न॒प्सु सूर्य॑म् ।  
+> वसा॑नो॒ गा अ॒पो हरिः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनयन् । रोचना । दिवः । जनयन् । अप्ऽसु । सूर्यम् ।  
+> वसानः । गाः । अपः । हरिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं हरिः सोमः दिवः द्युसंबंधीनि रोचना रोचनानि नक्षत्रग्रहमंडलानि जनयन् तथा अप्सु अंतरिक्षे सूर्यं च जनयन् तथा गाः अधोगंत्रीः अपः वसानः भूमिमात्मानं वाच्छादयन् पवत इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+This green-tinted (हरिः (*hariḥ*)) Soma, generating (जनयन् (*janayan*)) the lights (रोचना (*rocanā*)) of heaven, that is, the circles of stars and planets, and likewise generating the sun in the waters (अप्सु (*apsu*)), the atmosphere, and clothing (वसानः (*vasānaḥ*)) the downward-going (गाः (*gāḥ*)) waters (अपः (*apaḥ*)), or the earth, or himself, flows; the connection is with what follows.
+
+### Printed p. 868
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिः (*hariḥ*)—this Soma, shining with a green colour
+- दिवः (*divaḥ*)—relating to the heaven-world
+- रोचना (*rocanā*)—the circles of stars and planets
+- जनयन् (*janayan*)—producing
+- अप्सु (*apsu*)—in the atmosphere
+- सूर्यं (*sūryaṃ*)—the sun
+- जनयन् (*janayan*)—bringing forth
+- गाः (*gāḥ*)—flowing downward
+- आपः (*āpaḥ*)—with the waters
+- वसानः (*vasānaḥ*)—making them cover the earth, he flows
+
+##### भावार्थ (Bhāvārtha)
+
+This green-tinted Soma-deva, producing the planets, stars and the like that shine in the heaven-world and the sun that shines in the atmosphere, and making the earth be covered with flowing waters, himself flows; or else
+
+This Soma-deva, shining with a green colour, makes the circles of planets and stars in the heaven-world and the sun in the atmosphere shine by his power, and making the earth be covered by rivers, himself flows.
+
+##### English translation
+The green-tinted (Soma) generating the luminaries of heaven, generating the sun in the firmament, clothing himself with the descending waters—
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष प्र॒त्नेन॒ मन्म॑ना दे॒वो दे॒वेभ्य॒स्परि॑ ।  
+> धार॑या पवते सु॒तः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । प्रत्नेन । मन्मना । देवः । देवेभ्यः । परि ।  
+> धारया । पवते । सुतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः प्रत्नेन पुराणेन मन्मना मननीयेन स्तोत्रेण युक्तः सुतः अभिषुतश्च सन् देवेभ्यः परि परितः धारया स्वीयया पवते ॥
+
+##### Gist of the bhāṣya
+
+This Soma, endowed with ancient (प्रत्नेन (*pratnena*)), that is, old, praise worthy of thought (मन्मना (*manmanā*)), and pressed, flows with his own stream (धारया (*dhārayā*)) round the gods (देवेभ्यः परि (*devebhyaḥ pari*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—pressed
+- एषः (*eṣaḥ*)—this Soma
+- प्रत्नेन (*pratnena*)—ancient
+
+### Printed p. 869
+
+- मन्मना (*manmanā*)—praised with the praise
+- देवेभ्यः (*devebhyaḥ*)—for the gods to drink
+- धारया (*dhārayā*)—in the form of a stream
+- परि (*pari*)—around
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+This pressed Soma, praised with ancient praise, flows around in a stream for the gods to drink.
+
+##### English translation
+He with ancient praise when effused flows in a stream, a god for the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒वृ॒धा॒नाय॒ तूर्व॑ये॒ पवं॑ते॒ वाज॑सातये ।  
+> सोमाः॑ स॒हस्र॑पाजसः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववृधानाय । तूर्वये । पवंते । वाजऽसातये ।  
+> सोमाः । सहस्रऽपाजसः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वावृधानाय वर्धसानाय तूर्वये क्षिप्राय वाजसातये संग्रामायान्नलाभाय वा पवंते  पूयंते । के । सोमाः । कीदृशाः । सहस्रपाजसः अपरिमितबलाः । असंख्यातवेगा इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+For the growing (वावृधानाय (*vāvṛdhānāya*)), the swift (तूर्वये (*tūrvaye*)), for battle or for the gain of food (वाजसातये (*vājasātaye*)), the Somas (सोमाः (*somāḥ*)) flow (पवंते (*pavaṃte*)). Of what kind? Thousandfold-mighty (सहस्रपाजसः (*sahasrapājasaḥ*)), that is, of countless speed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रपाजसः (*sahasrapājasaḥ*)—of immeasurable strength, that is, of swift movement
+- सोमाः (*somāḥ*)—these Soma juices
+- वावृधानाय (*vāvṛdhānāya*)—growing
+- तूर्वये (*tūrvaye*)—moving or reached quickly
+- वाजसातये (*vājasātaye*)—for battle or for the gain of food
+- पवंते (*pavaṃte*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices, of immeasurable strength or swift movement, flow for a battle that soon arises or for the gain of food quickly obtained.
+
 ---
 
-**Progress note:** Done through printed p. 863. Vol 25 Sūkta 40 Ṛk 2-6, Sūkta 41 Ṛk 1-3 begin (pp. 858-863)
+**Progress note:** Done through printed p. 869. Vol 25 Sūkta 41 Ṛk 3-6, Sūkta 42 Ṛk 1-3 (pp. 864-869)
