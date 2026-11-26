@@ -28828,6 +28828,318 @@ Milked forth by the stones the Soma flows through the sheep's hair coming into c
 > इंदु॒र्धर्मा॑ण्यतु॒था वसा॑नो॒ दश॒ क्षिपो॑ अव्यत॒ सानो॒  ॑
 > अव्ये ॥ १२ ॥
 
+### Printed p. 775
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रियाणि पवते । पुनः । देवः देवान् । स्वेन रसेन । त्वंचन् ।  
+> इंदु । धर्माणि । ऋतुथा । वसानः । दश । क्षिपः । अव्यक्त । सानौ । अन्ये ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रियाणि प्रीणयित्थणि धर्माणि धारकाणि तेजांस्कृतुथा काले वसान
+> अज्जादयन्निंमः सोमः पुनानः पूयमानः सन्नभि पवते । कलशानभीलक्ष्य क्षरति ।
+> कीदृशः ' देवः संक्रीडनशीलः स्वीनात्मीयेन रसेन देवानिंद्रादीन् वृंचन्
+> संपर्चयनन् संयोजजयन् । तमिमं दश दशसंख्याकाः क्षिपः । अंगुलिनामैतश् ।
+> कर्मार्थं प्रेयंत इति तत्संख्याका अंगुलयः सान् समुच्च्रतेऽव्येऽविभवे
+> हवित्रेऽव्यत । गमयंति यद्वा । तत्र पवित्रे पूयमानं सोममद्यत । गच्छंति ॥
+> वी गश्यादिशु । लज् व्यत्ययेनात्मनेपदं ॥
+> कन्नड
+> प्रियाणि-प्रीतिकांतवू धर्माणि-धारकवू आद तेजस्सुगळन्नु । ऋतुथाअया कालानुगुणवागि वसानः-हॊडॆयुव । इंदुः-सोमनु । पुनानः-शुद्धि
+> यन्नु हॊंदि देवः-प्रकाशमाननागियू स्वेन-तन्न । रसेन-रसदिंद । देवान्देवतॆगळन्नु । वृंचन्-सेरि हर्षपडिसुत्तलू । अभि पवते-प्रहरिसुत्तानॆ । दश क्षिपःहत्तु बॆरळुगळू । सासौ- ऎत्तरवाद प्रदेशदल्लिरुव । अव्ये-दशापवित्रदल्लि । अव्यतसोमनु प्रवेशिसुवंतॆ माडुत्तवॆ.
+> बसव
+> प्रीतिकारकवू, धारकवू आद शेजस्सुगळन्नु आया कालानुगुणवागि हॊंदिरुव सोमनु
+> शुद्धियन्नु हॊंदि प्रकाशमाननागियू तन्न रसवन्नु देवतॆगळॊंदिगॆ सेरिसि हर्षपडिसुत्तलू
+> प्रवहिसुत्तानॆ. हत्तु बॆरळुगळू, ऎत्तरवाद प्रदेशदल्लिरुव दशापवित्रदल्लि सोमनु प्रवेशिसु
+> वंतॆ माडुत्तवॆ.
+
+##### Gist of the bhāṣya
+
+Soma, the sportive one, flows on being purified, towards the vessels (कलशानभीलक्ष्य (*kalaśānabhīlakṣya*)). He is clothed, at the proper times, in pleasing and supporting radiances; with his own juice he unites the gods, Indra and the others, with himself. The ten क्षिपः (*kṣipaḥ*) are the ten fingers, so called because they are sent forth for the ritual work. They cause Soma, as he is being purified, to go to the filter that stands on the elevated fleece (सान् (*sān*) is the elevated place, अव्ये (*avye*) the fleece). The block then gives a Kannada rendering of the verse, which runs as the printed English below.
+
+##### English translation
+Clothed in pleasant radiance suited to the season, the sportive Indu flows purified, reaching the gods with its juice ; the ten fingers guide it to the elevated fleece.
+
+### Printed p. 776
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रियाणि धर्माणि प्रीणयित्यणि धारकाणि तेजांसि । (*priyāṇi dharmāṇi prīṇayityaṇi dhārakāṇi tejāṃsi |*) Endowed with radiances that cause delight; or, since धर्माणि (*dharmāṇi*) here may be taken to mean धारकाणि (*dhārakāṇi*) ("supporting"), it may also be understood as "together with delight-giving admixtures such as milk".
+
+ऋतुथा-काले काले । (*ṛtuthā-kāle kāle |*) At the respective times; that is, at the three times called the morning pressing, the midday pressing and the third pressing. "Clothed in धर्माणि (*dharmāṇi*)" at such times means joined with admixture substances such as milk, which are supporting or nourishing. That is, at the morning and the midday pressings the Soma juice is drunk just as it is. At the third pressing, since the Soma juice has become low in strength, some admixture such as milk, curds or flour is mixed into it. Therefore, to indicate this juice mixed with nourishing substances such as milk, it is said here धर्माणि ऋतुथा वसानः (*dharmāṇi ṛtuthā vasānaḥ*).
+
+दश क्षिपः अव्ये सानौ अव्यत (*daśa kṣipaḥ avye sānau avyata*) — दशक्षिपः (*daśakṣipaḥ*) means the ten fingers. Since all ten fingers of the officiating priests are used both when the Soma plants are crushed with stones and when they are squeezed to take out the juice, it is explained here that the ten fingers should squeeze the Soma juice into the straining vessel, covered with sheep's wool and placed on elevated ground.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ शोणो॑ अभि॒कनि॑क्रद॒द्दा न॒दय॑न्नेति पृथि॒वीमु॒त द्यां ।  
+> इंद्र॑स्येव व॒ग्नुरा शृ॑ण्व आ॒जौ प्र॑चे॒तय॑न्नर्षति॒ वाच॒मेमां ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । शोणः । अभिंकनिक्रदत् । गाः । नदयन् । एति । पृथिवीं । उत । द्यां ।  
+> इंद्रस्य इव । वग्नुः । आ । शृण्वे । आजौ । प्रचेतयन् । अर्षति । वाचं । आ ।  
+> इमां ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शोणः शोणवर्णो वृषा कश्चिद्वृषभो गाः पशूनभिकनिक्रदत् । अभिलक्ष्य
+> शब्दं करोति । एवं गाः स्तुतीर्विश्रयणार्थं पयसो दोग्ध्रीर्धेनूर्वाभिकनिक्रददभिशब्दायमानः । तदेवाह । नदयञ्चब्दमुत्पादयद् सोमः पृथिवीमुतापि च
+
+##### Gist of the bhāṣya
+
+The red bull, शोणः (*śoṇaḥ*) being red in colour, bellows towards the cattle, that is, makes a sound facing them. In the same way, the praises, or else the milk-yielding cows, are meant: Soma bellows towards them **NOTE**. Sāyaṇa then says that Soma, making a sound, moves through the earth and also through the heaven.
+
+### Printed p. 777
+
+> द्यां एतौ लोकावेति । गच्छति । किंच वग्नुः । वाज्ञामैतत् । तस्य वाक् शब्द आजौ
+> संग्राम इंद्रस्येव इंद्रस्य शब्द इवा शृण्वै । सर्वैः श्रूयते । ततः प्रचेतयन्नात्मानं सर्वेषां प्रज्ञापयन्निमां वाचमर्षति । समंताद्दमयति । उच्चैः
+> शब्दायत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma moves through these two worlds. Further, वग्नुः (*vagnuḥ*) is a word for speech; his speech is a sound. In battle, that is, in the fight, his sound is heard by all as if it were Indra's sound. Thereby making himself known to all, he sends out this voice, subduing on all sides; the meaning is that he sounds aloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शोणी (*śoṇī*)—golden-coloured
+- वृषा (*vṛṣā*)—the bull
+- गाः (*gāḥ*)—for the cattle
+- अभिकनिक्रदत् (*abhikanikradat*)—as bellowing
+- नदयन् (*nadayan*)—Soma, who makes a sound
+- पृथिवीं (*pṛthivīṃ*)—on the earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—in the heaven too
+- एति (*eti*)—moves
+- आजौ (*ājau*)—in battle
+- इंद्रस्येव (*iṃdrasyeva*)—like the sound of Indra
+- वग्नुः (*vagnuḥ*)—the sound of Soma
+- आ शृण्वे (*ā śṛṇve*)—is heard by all
+- प्रचेतयन् (*pracetayan*)—showing his own form to all
+- इमां वाचं (*imāṃ vācaṃ*)—this sound
+- अर्षति (*arṣati*)—makes it spread
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who makes a sound like a golden-coloured, sturdy bull bellowing among the cattle, moves through heaven and earth, all of it. In battle, as the sound of Indra, the sound of Soma is heard by all. Showing his own form to all, he makes this sound spread.
+
+##### English translation
+(Calling out for the praise like) a red bull bellowing after the cow, the Soma goes with a roar through heaven and earth ; (his voice) is heard as the voice of Indra, manifesting (himself) he raises this voice.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒साय्यः॒ पय॑सा॒ पिन्न॑मान ई॒रय॑न्नेषि॒ मधु॑मंतमं॒शुं ।  
+> पव॑मानः संत॒निमे॑षि कृ॒ण्वन्निंद्रा॑य सोम परिषि॒च्यमा॑नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रसाय्यः । पयसा । पिन्नमानः । ईरयन् । एषि । मधुमंतं । अंशुं ।  
+> पवमानः । संतनिं । एषि । कृण्वन् । इंद्राय । सोम । परिसिच्यमानः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम रसाय्यः ॥ रसेरौणादिक आय्यप्रत्ययः ॥ आस्वाद्यः पयसा
+> पिन्वमानः क्षरंस्त्वमीरयञ्ब्धं प्रेरयन् मधुमंतं माधुर्योपेतमंतुं
+
+##### Gist of the bhāṣya
+
+"O Soma, you are रसाय्यः (*rasāyyaḥ*)", that is, to be tasted; flowing with milk, you send forth sound and attain the sweet the अंशुं (*aṃśuṃ*), the state of juice.
+
+### Printed p. 778
+
+> रसभावमेषि । प्राप्नोषि । अंशुः शमष्टमात्रो भवतीति यास्कः । नि. २-५ । अनेन
+> सोमरसोऽभिधीयते । किंच हे सोम परिषिच्यमानोऽद्भिः परिषिक्तस्त्वं पवमानः
+> पवित्रे पूयमानः सन् संतनिं ॥ तनु विस्तारे । इप्रत्ययः ॥ संततां धारां कृण्वन्
+> कुर्वन्निंद्रायेंद्रार्थमेषि । गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa cites Yāska on अंशुः (*aṃśuḥ*) (Ni. 2-5): अंशुः शमष्टमात्रो भवतीति यास्कः । (*aṃśuḥ śamaṣṭamātro bhavatīti yāskaḥ |*) By this word the Soma juice is denoted. Further, O Soma, sprinkled with the waters and being purified in the filter, you make a continuous stream and flow for the sake of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma) रसाय्यः (*rasāyyaḥ*)—delicious
+- पयसा (*payasā*)—with milk
+- पिन्नमानः (*pinnamānaḥ*)—oozing; you, such
+- ईरयन् (*īrayan*)—making a sound
+- मधुमंतं (*madhumaṃtaṃ*)—sweet
+- अंशुं (*aṃśuṃ*)—the form of juice
+- एषि (*eṣi*)—you attain
+- सोम (*soma*)—O Soma
+- परिषिच्यमानः (*pariṣicyamānaḥ*)—prepared with the waters
+- पवमानः (*pavamānaḥ*)—purified; you, such
+- संतनिं (*saṃtaniṃ*)—the continuous stream
+- कृण्वन् (*kṛṇvan*)—producing
+- इंद्राय (*iṃdrāya*)—for Indra
+- एषि (*eṣi*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are delicious and ooze with milk, attain, making a sound, the sweet form of juice. O Soma, you who are prepared with the waters and purified, flow for the sake of Indra, producing a continuous stream.
+
+##### English translation
+Pleasant to the taste, dripping with milk, you flow pouring forth the sweet-flavoured juice. Soma, when purified and sprinkled, you flow for Indra in a continuous stream.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा प॑वस्व मदि॒रो मदा॑योदग्रा॒भस्य॑ न॒मय॑न्वध॒स्नैः ।  
+> परि॒ वर्णं॒ भर॑माणो॒ रुशं॑तं ग॒व्युनो॑ अर्ष॒ परि॑ सोमसि॒क्तः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । पवस्व । मदिरः । मदाय । उदग्राभस्य । नमयन् । वध्नस्नैः ।  
+> परि । वर्णं । भरमाणः । रुशंतं । गव्युः । नः । अर्ष । परि । सोम । सिक्तः ॥ १५ ॥
+
+### Printed p. 779
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मदिरो मदकरस्त्वमुदग्राभस्य ॥ क्रियाग्रहणं कर्तव्यमिति
+> कर्मणः संप्रदानसंज्ञा । पा. १-४-३२-१ । चतुर्थ्यर्थे बहुलं । पा. २-३-६२ । इति
+> षष्ठी ॥ उदग्राभमुदकग्राहिणं मेघं वधस्नैर्हननसाधनैरायुध्यॆर्नमयन्
+> वृष्यर्थं प्रह्वीकुर्वन् मदाय मदार्थमेव पवस्व । एवं पात्रेषु क्षर । किंच
+> रुशंतमारोचमानं श्वेतं वर्णं परि भरमाणः परितो बिभ्रत् सिक्तः पवित्रे
+> सिच्यमानस्त्वं गव्युनोर्ऽस्माकं गा इच्छन् पर्यर्ष । परिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are exhilarating, bending down with weapons, the instruments of slaying, the cloud that holds the waters, for the sake of rain, flow for exhilaration alone; so flow into the vessels. Further, assuming on every side the shining white colour, and being sprinkled in the filter, you, desiring cattle for us, flow around, that is, go around.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- मदिरः (*madiraḥ*)—you, the exhilarator
+- उदग्राभस्य (*udagrābhasya*)—the cloud that holds water
+- वधस्नैः (*vadhasnaiḥ*)—with weapons
+- नमयन् (*namayan*)—making it bow down
+- एव (*eva*)—thus
+- मदाय (*madāya*)—for the exhilaration of Indra **NOTE**
+- पवस्व (*pavasva*)—flow
+- रुशंतं (*ruśaṃtaṃ*)—shining
+- वर्णं (*varṇaṃ*)—the pure white colour
+- परि भरमाणि (*pari bharamāṇi*)—assuming all round **NOTE**
+- सिक्तः (*siktaḥ*)—being drenched in the filter
+- नः (*naḥ*)—to us
+- गव्युः (*gavyuḥ*)—with the wish to give cattle
+- पर्यर्ष (*paryarṣa*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are the exhilarator, bending down with weapons the cloud that holds the waters, flow thus for the exhilaration of Indra. Assuming all round the shining pure white colour, being drenched in the filter, flow with the wish to give us cattle.
+
+##### English translation
+Thus flow, the exhilarator, for Indra's exhilaration bowing down the
+the rain-holder with (your) weapons, assuming brilliant colour, desirous of
+our cattle, flow, Soma, sprinkled (into the filter). **NOTE**
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒ष्ट्वी न॑ इंदो सु॒पथा॑ सु॒गान्यु॒रौ प॑वस्व॒ वरि॑वांसि कृ॒ण्वन् ।  
+> घ॒नेव॒ विश्व॑गुरि॒तानि॑ वि॒घ्नन्नधि॒ ष्टुना॑ धन्व॒ सानो॒ अव्ये॑ ॥१६ ॥
+
+### Printed p. 780
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुष्ट्वी । नः । इंदो इति । सुपथा । सुगानि । उरौ । पवस्व । वरिवांसि । कृण्वन् ।  
+> घनाइव । विष्टक् । दुःइतानि । विघ्नन् । अधि । स्नुना । धन्व । सानौ । अव्ये ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्त पवमान जुष्ट्वी ॥ स्नात्वादयश्चति निपातितः ॥ स्तुतिभिः
+> प्रीतो भूत्वा नोऽस्माकं सुपथानि वैदिकमार्गान् तथा वरिवांसि वरणीयानि धनानि
+> सुगा सुगमनानि सुप्राप्तव्यानि कृण्वन्कुर्वन्नुरौ विस्तीर्णे द्रोणकलशे पवस्व । क्षर ।
+> किंच घनेव घनीभूतेन लोहमयोन्ायुधेनेव विश्वक् सर्वतो दुरितानि दुष्प्राप्तव्यानि रक्षांसि विघ्नन् हिंसन् सानौ समुच्च्रतेऽव्येऽविभवे स्नना स्रवता धारासंघेनाधि धन्व । अधिगच्छ । धनिर्गत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, shining and purifying Soma, pleased with our praises, making for us good Vedic paths and desirable, easily reached riches, flow into the broad Droṇa vessel. Further, like a solid weapon of iron, smiting on every side the evils, the Rākṣasas **NOTE**, go onward with the flowing multitude of streams to the elevated fleece. Sāyaṇa adds that the root धनिर्गत्यर्थः (*dhanirgatyarthaḥ*) has the sense of motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- जुष्ट्वि (*juṣṭvi*)—pleased with our praise
+- नः (*naḥ*)—our
+- सुपथा (*supathā*)—Vedic paths
+- वरिवांसि (*varivāṃsi*)—endowed with wealth
+- सुगानि (*sugāni*)—fit for good travelling
+- कृण्वन् (*kṛṇvan*)—making
+- उर् (*ur*)—in the broad Droṇa vessel **NOTE**
+- पवस्व (*pavasva*)—flow
+- घनेव (*ghaneva*)—as if striking with an iron weapon
+- विश्वक् (*viśvak*)—everywhere
+- दुरितानि (*duritāni*)—the wicked Rākṣasas
+- विघ्नन् (*vighnan*)—destroying
+- सान् (*sān*)—on the elevated place
+- अन्ये (*anye*)—to the dashapavitra filter
+- अधि धन्व (*adhi dhanva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, pleased with our praise, making our Vedic paths rich in wealth and fit for good travelling, flow in the broad Droṇa vessel. Destroying everywhere the wicked Rākṣasas as if striking with an iron weapon, flow to the dashapavitra filter that stands in the elevated place.
+
+##### English translation
+Gratified (with our praises). Indu, flow into the large vessel), granting us riches coming by holy paths and easily acquired; beating down the Rakshasas on every side as with a club, flow in a stream upon the elevated fleece.
+
+### Printed p. 781
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष्टिं नो॑ अर्ष दि॒व्यां जि॑ग॒त्तु मिळा॑वतीं शं॒गयीं॑ जी॒रदा॑नुं ।  
+> स्तुते॑न वी॒ता ध॑न्वा विचि॒न्वन्बंधू॑रि॒मा अव॑रा इंदो  
+> वा॒यून् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्टिं । नः । अर्ष । दिव्यां । जिगत्तुं । इळावतीं । शंगयीं । जीरदानुं ।  
+> स्तुकाइव । वीता । धन्व । विचिन्वन् । बंधून् । इमान् । अवरान् । इंदो इति ।  
+> वायून् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नोऽस्माकं वृष्टिमर्ष । गमय । कीदृशीं । दिव्यां दिवि भवां
+> जिगत्तुं गमनशीलामिळावतीमन्नवतीं शंगयां सुखस्य निवासभूतां: जीरदानुं
+> क्षिप्रदानोपेतां । किंच हे इंदो त्वं स्तुतेव वीता कांतानि । स्तु कशब्दोऽपत्यवचनः । अपत्यानि यथा विचिनोषि तद्वद्बंधून् स्तुत्यस्तोतृत्वेन बंधुभूतानवरानवरदेशे स्थितान्पार्थिवान्वायूंस्त्वामभिगच्छत इमानस्मान्विचिन्वनादिप्रदानार्थं
+> गवेषमाणः सन् धन्व । गच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, send rain to us, rain of this kind: divine, born in heaven; moving swiftly (जिगत्तुं (*jigattuṃ*)); rich in food; the abode of happiness; giving quickly. Further, O Indu, just as you gather dear offspring (the word स्तु (*stu*) is said to denote offspring), so you, seeking us who are your kin as praised and praisers and who stay in the lower region, the earthly ones who come to you, go **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- नः (*naḥ*)—to us
+- दिव्या (*divyā*)—born in the heavenly world
+- जिगत्तुं (*jigattuṃ*)—that which falls swiftly
+- इळावतीं (*iḷāvatīṃ*)—endowed with food
+- शंगयिं (*śaṃgayiṃ*)—bestowing happiness
+- जीरदानुं (*jīradānuṃ*)—quickly providing wealth
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- अर्ष (*arṣa*)—pour down
+- वीता (*vītā*)—dear
+- स्तु केव (*stu keva*)—as one cherishes children and approaches them **NOTE**
+- बंधून् (*baṃdhūn*)—those who are kin to you
+- अवरान् (*avarān*)—those who are on the earth
+- वायून् (*vāyūn*)—those who approach you
+- इमान् (*imān*)—us
+- वि चिन्वन् (*vi cinvan*)—wishing to approach
+- धन्व (*dhanva*)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, pour down the rain that is born in the heavenly world, falls swiftly, is rich in food, gives happiness and quickly provides wealth. Like dear children
+
 ---
 
-**Progress note:** Done through printed p. 774. Suk 97 Rks 9-12 (pp. 769-774)
+**Progress note:** Done through printed p. 781. Sūkta 96 Ṛk 12 to Sūkta 97 Ṛk 17 (pp. 775-780)
