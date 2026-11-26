@@ -6865,6 +6865,183 @@ vable lands, and manly vigour ?
 > भुवः । त्वं । इंद्र । ब्रह्मणा । महान् । भुवः।विश्वेषु । सवनेषु । यज्ञियः ।  
 > 28
 
+### Printed p. 218
+
+> भुवः । न्यान् । च्यौत्नः । विश्वस्मिन् । भरे । ज्येष्ठः । च । मंत्रः । विश्वचर्षणे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भुवस्त्वमिंद्रेति दर्शपूर्णमासयोर्माहेंद्रस्य हविषो याज्या ।
+> सूत्रितं च । महां इंद्रो य ओजसा भुवस्त्वमिंद्र ब्रह्मणा महान् । आ-१-६ ।
+> इति ॥ देवसुवां हविःष्विंद्रस्य ज्येष्ठस्यैषैव याज्या । भुवस्त्वमिंद्र ब्रह्मणा महाननमीवास इळया । आ-४-११ । इति हि सूत्रितं ॥ एष्यॆव भूनाम्मेकाहे निष्केवल्ये
+> सूक्तमुखीया । सूत्रितं च । शस्यमुक्तं बृहस्पतिसवेन त्वं भुवः प्रतिमानं
+> पृथिव्या भुवस्त्वमिंद्र ब्रह्मणा महान् । आ-९-५ । इति ॥
+> हे इंद्र त्वं ब्रह्मणास्मत्कृतेन परिवृढेन स्तोत्रेण महान्भुवः । अभवः ॥
+> भवतेर्लॆटि भूसुवोस्तिजेति गुणप्रतिषेध उवजादेशः ॥ तथा विश्वेषु सर्वॆषु
+> सवनेषु यज्ञियो यष्यव्यो भुवः । अभवः । तथा विश्वस्मिन्भरे संग्रामे नृन्
+> नेतृणां शत्रूणां च्यौत्नश्चावयिताभवः । हे विश्वचर्षणे सर्वस्य द्रष्टरिंद्र
+> मंत्रो मंत्रयितव्यस्त्वं ज्येष्णश्चाभवः सर्वॆषां मध्यॆ ॥
+
+##### Gist of the bhāṣya
+
+The Ṛk भुवस्त्वमिंद्र (*bhuvastvamiṃdra*) is the yājyā for the Māhendra oblation in the Darśa-pūrṇamāsa sacrifices. It is prescribed by the sūtra महां इंद्रो य ओजसा भुवस्त्वमिंद्र ब्रह्मणा महान् । (*mahāṃ iṃdro ya ojasā bhuvastvamiṃdra brahmaṇā mahān |*) (Ā. 1-6). In the oblations of the Devasū deities this same verse is the yājyā of Indra Jyeṣṭha ("the eldest/best"); so it is laid down in the sūtra भुवस्त्वमिंद्र ब्रह्मणा महाननमीवास इळया (*bhuvastvamiṃdra brahmaṇā mahānanamīvāsa iḷayā*) (Ā. 4-11). In the Ekāha called Bhū it is the sūktamukhīyā (the opening verse of the sūkta) in the Niṣkevalya recitation, as the sūtra says: शस्यमुक्तं बृहस्पतिसवेन त्वं भुवः प्रतिमानं पृथिव्या भुवस्त्वमिंद्र ब्रह्मणा महान् । (*śasyamuktaṃ bṛhaspatisavena tvaṃ bhuvaḥ pratimānaṃ pṛthivyā bhuvastvamiṃdra brahmaṇā mahān |*) (Ā. 9-5).
+
+"O Indra, you have become (भुवः (*bhuvaḥ*), 'were') great through our brahman, that is, through the encompassing praise made by us. Likewise you have become worthy of sacrifice (यज्ञियः (*yajñiyaḥ*), 'to be worshipped') at all the pressings. Likewise in every battle you are the one who makes the leaders (नृन् (*nṛn*)), the leaders of the enemies, fall (च्यौत्नः (*cyautnaḥ*), the causer of falling). O beholder of all (विश्वचर्षणे (*viśvacarṣaṇe*)), Indra, you are the one to be counselled in the mind (मंत्रः (*maṃtraḥ*)), and you are the eldest/best among all."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- ब्रह्मणा (*brahmaṇā*)—by the praise we make
+- महान् (*mahān*)—being of great nature
+- भुवः (*bhuvaḥ*)—you have become (and)
+- विश्वेषु (*viśveṣu*)—all
+- सवनेषु (*savaneṣu*)—at the morning pressing, midday pressing and third pressing, or at the sacrifices
+- यज्ञियः (*yajñiyaḥ*)—worthy of sacrifice
+- भुवः (*bhuvaḥ*)—you have become
+- विश्वस्मिन् (*viśvasmin*)—all
+- भरे (*bhare*)—in battle
+- नृन् (*nṛn*)—enemy men
+- च्यौत्नः (*cyautnaḥ*)—you are the destroyer
+- विश्वचर्षणे (*viśvacarṣaṇe*)—O Indra, who look upon all, you
+- मंत्रः (*maṃtraḥ*)—the one meditated upon in the mind
+- ज्येष्ठः च (*jyeṣṭhaḥ ca*)—and you are the foremost among all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by the praises we make you have grown and are of great nature. You are venerated and worshipped as worthy at all sacrifices. In all battles you destroy the enemy men. O Indra, who can see everything, you are meditated upon in the mind by all, and you are the foremost among all the gods.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भुवस्वमिंद्रॆति दर्शपूर्णमासयोर्माहेंद्रस्य हविषो याज्या ।
+> सूत्रितं च । महां इंद्रो य ओजसा भुवस्वमिंद्र ब्रह्मणा महान् । आ-१-६ ।
+> इति ॥ देवसुवां हविःष्विंद्रस्य ज्येष्ठस्यैषैव याज्या । भुवस्वमिंद्र ब्रह्मणा महाननमीवास इळया । आ-४-११ । इति हि सूत्रितं ॥ एष्यॆव भूनाम्न्येकाहे निष्केवल्ये
+> सूक्तमुखीया । सूत्रितं च । शस्यमुक्तं बृहस्पतिसवेन त्वं भुवः प्रतिमानं
+> पृथिव्या भुवस्वमिंद्र ब्रह्मणा महान् । आ-९-५ । इति ॥
+> हे इंद्र त्वं ब्रह्मणास्मत्कृतेन परिवृढेन स्तोत्रेण महान्भुवः । अभवः ॥
+> भवतेर्लॆटि भूसुवोस्तिजेति गुणप्रतिषेध उवजादेशः ॥ तथा विश्वेषु सर्वॆषु
+> सवनेषु यज्ञियो यष्यव्यो भुवः । अभवः । तथा विश्वस्मिन्भरे संग्रामे नृन्
+> नेत्यणां शत्रूणां च्यौत्नश्चावयिताभवः । हे विश्वचर्षणे सर्वस्य द्रष्टरिंद्र
+> मंत्रो मंत्रयितव्यस्त्वं ज्येष्णश्चाभवः सर्वॆषां मध्यॆ ॥
+
+##### Gist of the bhāṣya
+
+The same bhāṣya on Ṛk 4 as in the preceding block: the verse is the yājyā of the Māhendra oblation at Darśa-pūrṇamāsa (Ā. 1-6), of Indra Jyeṣṭha in the Devasū oblations (Ā. 4-11), and the sūktamukhīyā of the Niṣkevalya in the Ekāha called Bhū (Ā. 9-5); Indra has become great through our praise, worthy of sacrifice at all pressings, the one who makes the enemy leaders fall in battle, to be counselled in mind and the best among all. **NOTE**
+
+### Printed p. 219
+
+##### English translation
+Indra, you have become mighty through our praise : you have become adorable at all sacrifices, in every combat you are the caster down of the leaders (of hosts) : beholder of all, you are the best and most excellent.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Darśa-pūrṇamāsa sacrifices, in the oblation offered to the Māhendra deity, this Ṛk beginning भुवस्त्वमिंद्र (*bhuvastvamiṃdra*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra महा इंद्रो य ओजसा भुवस्त्वमिंद्र ब्रह्मणा महान् (*mahā iṃdro ya ojasā bhuvastvamiṃdra brahmaṇā mahān*) (Ā. 1-6). In the oblation offered to the eight deities called Devasuva, this Ṛk is to be recited as the yājyā mantra addressed to Indra Jyeṣṭha; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra भुवस्त्वमिंद्र ब्रह्मणा महाननमीवास इळया (*bhuvastvamiṃdra brahmaṇā mahānanamīvāsa iḷayā*) (Ā. 4-1-1). And in the iṣṭi lasting one day only, called Bhū, this Ṛk is to be recited at the beginning of the Niṣkevalya śastra mantras; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra शस्यमुक्तं बृहस्पतिसवेन त्वं भुवः प्रतिमानं पृथिव्या भुवस्त्वमिंद्र ब्रह्मणा महान् (*śasyamuktaṃ bṛhaspatisavena tvaṃ bhuvaḥ pratimānaṃ pṛthivyā bhuvastvamiṃdra brahmaṇā mahān*) (Ā. 9-5).
+
+It is said that this Ṛk is to be recited as the yājyā mantra of Indra in the sacrifice called Devasū. First one should know what the Devasū sacrifice is, and afterwards the explanation of the mantra can be understood.
+
+"देवसुवः (*devasuvaḥ*)" is the name by which the group of deities who give vitality to the whole world is called. The number of these deities is eight. At the time of the abhiṣecana (anointing), which is a part of the Rājasūya, the prescribed oblation is to be offered to these eight deities. Its order is as follows.
+
+(1) सवित्रे सत्यप्रसवाय । द्वादशकपालं वाष्टाकपालं ना पुरोडाशं निर्वपति शुक्लानां व्रीहीणां सविता वै देवानां प्रसविता सवितृप्रसूतः सूया इत्यथ यत्पा शुकानां व्रीहीणां क्षिप्रे मा प्रसुवानिति ॥ (*savitre satyaprasavāya | dvādaśakapālaṃ vāṣṭākapālaṃ nā puroḍāśaṃ nirvapati śuklānāṃ vrīhīṇāṃ savitā vai devānāṃ prasavitā savitṛprasūtaḥ sūyā ityatha yatpā śukānāṃ vrīhīṇāṃ kṣipre mā prasuvāniti ‖*) (Śa. Brā. 5-3-3-2).
+The grain called Plāśuka (the whitish grain) is life-giving; it is to give rain quickly. Therefore the oblation consisting of twelve or eight potsherds is to be prepared and offered to the god Savitṛ, the impeller of the gods and the impeller of truth. By thus offering, the king who is ready for the anointing gains confidence that he will acquire vigour in his duty.
+
+### Printed p. 220
+
+(2) अथाग्नये गृहपतये । अष्टाकपालं पुरोडाशं निर्वपत्याशूनां श्रीर्वै गार्हपत्यं यावतो यावत ईष्टे तदेनमग्निरेव गृहपतिगार्हपत्यमभिपरिणयत्यथ यदाशूनां क्षिप्रे मा परिणयानिति ॥ (*athāgnaye gṛhapataye | aṣṭākapālaṃ puroḍāśaṃ nirvapatyāśūnāṃ śrīrvai gārhapatyaṃ yāvato yāvata īṣṭe tadenamagnireva gṛhapatigārhapatyamabhipariṇayatyatha yadāśūnāṃ kṣipre mā pariṇayāniti ‖*)
+The grain called Āśu is to bear fruit quickly. From this grain a purodāśa on eight potsherds is to be prepared and offered to Agni, the lord of the house. The position of the lord of the house is full of prosperity. The king who has obtained lordship of the house through the grace of such an Agni becomes prosperous, and by offering a purodāśa made of Āśu grain he too gains rapid growth like it.
+
+(3) अथ सोमाय वनस्पतये । श्यामाकं चरुं निर्वपति तदेनग्ं सोम एव वनस्पतिरोषधीभ्यः सुवत्यथ यच्छ्यामाको भवत्येते वै सोमसौषधीनां प्रत्यक्षतमां यच्छ्यामाकास्तस्माच्छ्यामाको भवति ॥ (*atha somāya vanaspataye | śyāmākaṃ caruṃ nirvapati tadenagṃ soma eva vanaspatiroṣadhībhyaḥ suvatyatha yacchyāmāko bhavatyete vai somasauṣadhīnāṃ pratyakṣatamāṃ yacchyāmākāstasmācchyāmāko bhavati ‖*)
+King Soma is the lord of the plants. Among all plants this Śyāmāka is the dearest to the deity Soma. If a purodāśa is prepared of Śyāmāka and offered to Soma, the cause of peace and growth, peace and growth come to the anointed king.
+
+(4) अथ बृहस्पतये वाचे । नैवारं चरुं निर्वपति तदेनं बृहस्पतिरेव वाची सुवत्यथ यन्नैवारो भवति ब्रह्म वै बृहस्पतिरेते वै ब्रह्मणा पच्यंते यन्नीवारास्तस्मान्नैवारो भवति ॥ (*atha bṛhaspataye vāce | naivāraṃ caruṃ nirvapati tadenaṃ bṛhaspatireva vācī suvatyatha yannaivāro bhavati brahma vai bṛhaspatirete vai brahmaṇā pacyaṃte yannīvārāstasmānnaivāro bhavati ‖*)
+Bṛhaspati is the lord of speech, which is dear to brahman. Nīvāra grain is nourished by brahman. Therefore, by preparing a purodāśa of this nīvāra grain and offering it to Bṛhaspati, the king obtains the grace of Bṛhaspati, the lord of speech, and increases his own power of speech.
+
+(5) अथेंद्राय ज्येष्ठाय । हायनानां चरुं निर्वपति तदेनमिंद्र एव ज्येष्ठो ज्येष्ठमभिपरिणयत्यथ यद्धायनानां भवत्यतिष्ठा ना एता ओषधयो यद्धायना अतिष्ठो ना इंद्रस्तस्माद्धायनानां भवति ॥ (*atheṃdrāya jyeṣṭhāya | hāyanānāṃ caruṃ nirvapati tadenamiṃdra eva jyeṣṭho jyeṣṭhamabhipariṇayatyatha yaddhāyanānāṃ bhavatyatiṣṭhā nā etā oṣadhayo yaddhāyanā atiṣṭho nā iṃdrastasmāddhāyanānāṃ bhavati ‖*)
+Among all the gods Indra is the eldest and the lord. Among all plants hāyana is the eldest. Therefore a caru is to be prepared of hāyana grain and offered to Indra. Through the grace of this Indra the king attains a pre-eminent position and becomes fit to be lord over all.
+
+(6) अथ रुद्राय पशुपतये । रौद्रं गावीधुकं चरुं निर्वपति तदेनग्ं रुद्र एव पशुपतिः पशुभ्यः सुवत्यथ यद्गावीधुको भवति वास्तवो वा विष देवो वास्तव्या गावीधुकास्माद्धा वीधुको भवति ॥ (*atha rudrāya paśupataye | raudraṃ gāvīdhukaṃ caruṃ nirvapati tadenagṃ rudra eva paśupatiḥ paśubhyaḥ suvatyatha yadgāvīdhuko bhavati vāstavo vā viṣa devo vāstavyā gāvīdhukāsmāddhā vīdhuko bhavati ‖*)
+
+### Printed p. 221
+
+Rudra is the lord of animals. Gāvīdhuka belongs to Rudra. In the sacrifice the vāstavya share is to go to Rudra, and gāvīdhuka too belongs to this vāstavya group. Therefore, by offering a caru of gāvīdhuka grain to Rudra, the lord of animals, the king undoubtedly obtains wealth in cattle.
+
+(7) अथ मित्राय सत्याय । नांबानां चरुं निर्वपति तदेनं मित्र एव सत्यो ब्रह्मणे सुवत्यथ यन्नांबानां भवति वारुण्या वा एता ओषधयो याः कृष्णे जायंतेऽथैते मैत्रा यन्नांबास्तस्मान्नांबानां भवति ॥ (*atha mitrāya satyāya | nāṃbānāṃ caruṃ nirvapati tadenaṃ mitra eva satyo brahmaṇe suvatyatha yannāṃbānāṃ bhavati vāruṇyā vā etā oṣadhayo yāḥ kṛṣṇe jāyaṃte 'thaite maitrā yannāṃbāstasmānnāṃbānāṃ bhavati ‖*)
+Although nāmba seed belongs to Varuṇa, the nāmba plant belongs to Mitra. Therefore, if a caru is prepared of nāmba seed and offered to Mitra, who is of the nature of truth and the impeller of truth, the king gains Mitra's grace and obtains the radiance of brahman.
+
+(8) अथ वरुणाय धर्मपतये । वारुणं यवमयं चरुं निर्वपति तदेनं वरुण एव धर्मपतिर्धर्मस्य पतिं करोति परमता वै सा यो धर्मस्य पतिरसद्यो हि परमतां गच्छति तग्ं हि धर्म - उपयंति तस्माद्वरुणाय धर्मपतये ॥ (*atha varuṇāya dharmapataye | vāruṇaṃ yavamayaṃ caruṃ nirvapati tadenaṃ varuṇa eva dharmapatirdharmasya patiṃ karoti paramatā vai sā yo dharmasya patirasadyo hi paramatāṃ gacchati tagṃ hi dharma - upayaṃti tasmādvaruṇāya dharmapataye ‖*) (Śa. Brā. 5-3-3-9).
+Varuṇa alone is the lord of dharma and the overseer of dharma. This is the king's highest position. For him to obtain this position the grace of Varuṇa, the protector of the whole world's dharma, is indispensable. Therefore a caru is to be prepared of barley, which is dear to him, and offered to Varuṇa. Through Varuṇa's grace the king obtains the most praiseworthy office of overseer of dharma.
+
+In this way the eight deities too are worshipped, each according to his station, in the Rājasūya-part rite called Devasū. Among them Indra, of the nature of truth, is one. For his satisfaction the present mantra is recited. This same Devasū sacrifice is stated in the Taittirīya Saṃhitā too, with a slight difference; there is no difference in the explanation of the main points.
+
+अग्नये गृहपतये पुरोडाशमष्टाकपालं निर्वपति कृष्णानां व्रीहीणाग्० सोमाय वनस्पतये श्यामाकं चरुग्० सवित्रे सत्यप्रसवाय पुरोडाशं द्वादशकपालमाशूनां व्रीहीणाग्० रुद्राय पशुपतये गावीधुकं चरुं बृहस्पतये वाचस्पतये नैवारं चरुमिंद्राय जेष्ठाय पुरोडाशमेकादशकपालं महान्रिहीणां मित्राय सत्यायांबानां चरुं वरुणाय धर्मपतये यवमयं चरुग्० सविता त्वा प्रसवानाग्० सुवतां ॥ (*agnaye gṛhapataye puroḍāśamaṣṭākapālaṃ nirvapati kṛṣṇānāṃ vrīhīṇāg0 somāya vanaspataye śyāmākaṃ carug0 savitre satyaprasavāya puroḍāśaṃ dvādaśakapālamāśūnāṃ vrīhīṇāg0 rudrāya paśupataye gāvīdhukaṃ caruṃ bṛhaspataye vācaspataye naivāraṃ carumiṃdrāya jeṣṭhāya puroḍāśamekādaśakapālaṃ mahānrihīṇāṃ mitrāya satyāyāṃbānāṃ caruṃ varuṇāya dharmapataye yavamayaṃ carug0 savitā tvā prasavānāg0 suvatāṃ ‖*) (Trai. 1-8-10-1). **NOTE**
+
+### Printed p. 222
+
+In this mantra the oblations to be offered to the various deities in the homa called Devasū are described. The number and names of the deities are the same as stated in the Śatapatha Brāhmaṇa. But there is a slightly different account of the grains used for the oblations. The Śatapatha prescribes the Plāśuka grain for Savitṛ, the impeller of truth, Āśu grain for Agni, the lord of the house, and hāyana grain for Indra Jyeṣṭha. The Taittirīya Saṃhitā directs Āśu grain for Savitṛ, black rice for Agni, and great rice (mahāvrīhi) for Indra. Although the number of deities is the same, the Śatapatha explains these eight deities in one order and the Taittirīya Saṃhitā in another.
+
+Thus Indra, described as Jyeṣṭha in the Devasū sacrifice, is praised in this mantra. It is extolled that the man who worships and venerates this god becomes victorious, possessed of food and free from sin. This same mantra is recited in the Taittirīya Brāhmaṇa too.
+
+देवसुवामेतानि हवीग्ंषि भवंति । एतावंतो वै देवानाग्ं सनाः । त एवास्मै सर्वान्प्रयच्छंति । त एनग्ं सुवंते । अग्निरेवैनं गृहपतीनाग्‌ं सुवते । सोमो वनस्पतीनां । रुद्रः पशूनां । बृहस्रतिर्वाचां इंद्रो ज्येष्ठानां । मित्रस्सत्यानां । वरुणो धर्मपतीनां । ............ । सविता त्वा प्रसवानाग्ं सुवतां ॥ (*devasuvāmetāni havīgṃṣi bhavaṃti | etāvaṃto vai devānāgṃ sanāḥ | ta evāsmai sarvānprayacchaṃti | ta enagṃ suvaṃte | agnirevainaṃ gṛhapatīnāgṃ suvate | somo vanaspatīnāṃ | rudraḥ paśūnāṃ | bṛhasratirvācāṃ iṃdro jyeṣṭhānāṃ | mitrassatyānāṃ | varuṇo dharmapatīnāṃ | ............ | savitā tvā prasavānāgṃ suvatāṃ ‖*) (Tai. Brā. 1-7-4-1).
+Its meaning too is the same as the explanation given above. Sāyaṇa and Bhaṭṭabhāskara have stated the explanation found in the Taittirīya Saṃhitā.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॒ नु कं॒ ज्याया॑न् य॒ज्ञव॑नसो म॒हीं त॒ ओमा॑त्रां ॒॑ 
+> कृ॒ष्टयो॑ विदुः ।  
+> असो॒ नु क॑म॒जरो॒ वर्धा॑श्च॒ विश्वेदे॒ता सव॑ना तूतु॒मा कृ॑षे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नु । कं । ज्यायान् । यज्ञवनसः । महीं । ते । ओमात्रां । कृष्णयः । विदुः ।  
+> असः । नु । कं । अजरः । वर्धाः । च । विश्वा । इत् । एता । सवना । तूतुमा । कृषे ॥ ५ ॥
+
+### Printed p. 223
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्व ज्यायान् प्रशस्यतरस्त्वं यज्ञवनसः संभक्तयज्ञान् स्तोत्यन्
+> नु कं क्षिप्रमव । रक्ष ॥ अध्येतारो नु कमिति पदद्वयं कुर्वंति तथापि हिकं नुकमित्यादीनि नवोत्तराणि पदानीत्युक्तवान्यास्काचार्यः। नै.३-१२। अतः केवलानां हिकं
+> मित्येवमादीनां यावानर्थः स एव विशिष्टानामपि । तैत्तिरीय अष्टेकमेव पदं
+> कुर्वंति ॥ अवेत्युक्तं । इंद्रस्यावनप्रसिद्धिं दर्शयति । हे इंद्र ते तनौमात्रां
+> रक्षणं महीं महद्विदुः कृष्णयो मनुष्या ऋष्टयः॥ ओमात्रां । अम गत्यादिषु ।
+> औणादिक आत्रन्प्रत्ययः । छांदस उमादेशः ॥ किंच त्वमजरो जरारहितोऽसः ।
+> भव । नु कं क्षिप्रं वर्धाश्च । वर्धस्व च हविराज्यादिना । किंच वित्वेत् सर्वाण्यप्येतानि
+> सवना सवनानि तूतुमा तूर्णानि कृषे । करोषि ॥ कृषे । छांदसे लिटि छंदसि वेति
+> द्विर्वचनाभावः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you who are more praiseworthy (ज्यायान् (*jyāyān*)), protect quickly (नु कं (*nu kaṃ*)) the singers who are devoted to sacrifices (यज्ञवनसः (*yajñavanasaḥ*))." Reciters of the text make नु कं (*nu kaṃ*) two words; still Yāska the teacher has said that nine words beginning with हिकं (*hikaṃ*) and नुकं (*nukaṃ*) are further words (Nai. 3-12) **NOTE**. Hence the meaning that such single words as हिकं (*hikaṃ*) have is the same in the combined forms too. The Taittirīyas make it one word. अव (*ava*) is the verb 'protect'. He shows Indra's well-known protectiveness: "O Indra, men (कृष्टयः (*kṛṣṭayaḥ*)) know your ओमात्रां (*omātrāṃ*), your protection, to be great (महीं (*mahīṃ*))." Further: "You be ageless (अजरः (*ajaraḥ*)), without old age; quickly grow (वर्धाः च (*vardhāḥ ca*)) with oblations, ghee and the like. And you make all these pressings (सवना (*savanā*)) swift (तूतुमा (*tūtumā*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्यायान् (*jyāyān*)—(O Indra, you) the best of all
+- यज्ञवनसः (*yajñavanasaḥ*)—those engaged in performing sacrifice
+- नु कं (*nu kaṃ*)—quickly
+- अव (*ava*)—protect (O Indra)
+- ते (*te*)—your
+- ओमात्रां (*omātrāṃ*)—protection
+- महीं (*mahīṃ*)—as excellent
+- कृष्टयः (*kṛṣṭayaḥ*)—men
+- विदुः (*viduḥ*)—know
+- त्वं (*tvaṃ*)—you
+- अजरः (*ajaraḥ*)—ageless (without old age)
+- असः (*asaḥ*)—you are
+- नुकं (*nukaṃ*)—quickly
+- वर्धाः च (*vardhāḥ ca*)—and grow through homas of oblations, ghee and the like
+- विश्वा इत् (*viśvā it*)—all
+- एता सवनानि (*etā savanāni*)—these sacrifices
+- तूतुमा (*tūtumā*)—so that they are quickly accomplished
+- कृषे (*kṛṣe*)—you make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are greater than all, that is, the best. Protect quickly us who are engaged in performing sacrifice. All men know that your protection is much the best. You are ageless, that is, you never grow old. Growing through homas of oblations, ghee and the like, you grant that all these sacrifices be quickly accomplished.
+
+##### English translation
+Indra, you are the best of all, quickly protect those who are deligent in worship: men know that your protection is great: be undecaying, rapidly increase : you make all these sacrifices swift.
+
 ---
 
-**Progress note:** Done through printed p. 217. pp. 212-217 (batch API), Cyrillic letters in one word replaced
+**Progress note:** Done through printed p. 223. pp. 218-223 (batch API)
