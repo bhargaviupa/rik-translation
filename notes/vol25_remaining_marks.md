@@ -1,4 +1,4 @@
-# Vol 25: the 71 marks that are still open (Nov 26 2026)
+# Vol 25: the 70 marks that are still open (Nov 26 2026)
 
 PDF page = page-file number (printed page = PDF − 12). `⟦?⟧` is the place of the mark.
 
@@ -36,9 +36,6 @@ PDF page = page-file number (printed page = PDF − 12). `⟦?⟧` is the place 
 
 ## PDF p607 (printed 595)
 - line 10 #1 (number): ಸೂಕ್ತ—೩⟦?⟧
-
-## PDF p748 (printed 736)
-- line 6 #1 (word): ಸೋಮೈ⟦?⟧ ಸೋಮನೇ | ಶತ್ರೋ—ನಮ್ಮ 
 
 ## PDF p758 (printed 746)
 - line 15 #1 (word): o a car these pure juices bring ( to us ) all⟦?⟧ desirable blessings
