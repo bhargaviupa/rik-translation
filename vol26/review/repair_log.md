@@ -10,3 +10,5 @@
 - scan_heads.py --apply: 6 running heads with [?] (Maṇḍala/Adhyāya/Sūkta) settled by the unmarked heads before and after them (list: review/heads_applied.tsv); 4 heads left marked.
 
 - Nov 26 2026 (user: "derive from previous page"): p1025 running head `ವ. ೧೩[?]` replaced by `ಸೂ. ೯೭`, as on the neighbouring left-hand heads p1021, p1023, p1027 and p1029 (all `ಮಂ. ೯. ಅ. ೬. ಸೂ. ೯೭`, sūkta 9.97 runs through these pages).
+
+- Nov 26 2026: 20 marks settled by the user's decisions (list: review/user_decisions_applied.tsv). Notes: p1037 reference ೧-೩೩-೧೬ → ೧-೨೩-೧೬ (the quoted Ṛk `ಅಂಬಯೋ ಯಂತ್ಯಧ್ವಭಿಃ` is 1.23.16 in the Wikisource index; the image reads ೨೩); p1038 `(೧೧-೨೩-೧೮)` kept as printed (the image shows ೧೧; the quoted Ṛk is 1.23.18: probably a misprint in the print); `(೧-೨೩-೧೭)`, `(೧೦-೩೦-೧೪)`, `(೧೦-೩೦-೧೫)` agree with the quoted Ṛks in the index.
