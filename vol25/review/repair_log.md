@@ -26,3 +26,15 @@
 - 2026-11-25 PDF 283: the foot of the page prints the Pada and the beginning of the Sāyaṇa-bhāṣya after the Saṃhitā (checked in p-0283b.jpg); the agent marked only the Saṃhitā: labels and markers for pada and bhashya added (8.86 Ṛk 4); the bare bhashya marker at the top of the next page is the continuation.
 - 2026-11-25 PDF 453: the foot of the page prints the Pada and the beginning of the Sāyaṇa-bhāṣya after the Saṃhitā (checked in p-0453b.jpg); the agent marked only the Saṃhitā: labels and markers for pada and bhashya added (8.96 Ṛk 13); the bare bhashya marker at the top of the next page is the continuation.
 - 2026-11-25 PDF 406: a stray [[block: bhashya]] marker removed at the top of the page: the page continues the ವಿಶೇಷವಿಷಯಗಳು section (Bṛhaddevatā quotation), which has no bhāṣya block (8.93).
+
+- Nov 25 2026: printed p. 878 (the last page; user's file Rig_Veda_Samhita_Part_25.pdf, 1 page) transcribed by the dispatcher into `vol25/work/scan_pages/p0890.md` (PDF-number 890 is a counter, not a page of the first PDF). The library stamps and accession numbers on the scan are not printed text and are left out. Uncertain: head digits (Maṇḍala, Adhyāya, Sūkta), `ಷಷ್ಠಾಷ್ಟಕೇ` in the colophon.
+- Nov 25 2026: `rig_25.filled.md`: the four colophon lines (ವೇದಾರ್ಥಸ್ಯ … ಸಮಾಪ್ತಂ ಚ ಷಷ್ಠಾಷ್ಟಕಮ್) that ws_fill put at the end of the bhāṣya block of 9.43.6 were removed by hand, because the print carries the colophon after the English on p. 878 (read from the scan, now in the file). Re-running ws_fill brings them back; remove them again (or give ws_fill a flag).
+
+- scan_heads.py --apply: 6 running heads with [?] (Maṇḍala/Adhyāya/Sūkta) settled by the unmarked heads before and after them (list: review/heads_applied.tsv); 86 heads left marked.
+
+- scan_wordfix.py --apply: 69 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'corrected': 19, 'confirmed': 50}; list: review/wordfix_applied.tsv).
+- Nov 25 2026: front matter (PDF pp. 1–12: cover, title, portrait, ಪೀಠಿಕೆ, contents) read by two agents into p0001–p0012.md and assembled before `<!-- page 1 -->` (scan_assemble.py --body-from 13). The contents agent wrote some unreadable sūkta numbers/titles of the contents 'by their position in the sequence' (its own report): to be checked.
+
+- Nov 26 2026: markdown bold markers `**` (added by transcription agents for words printed in bold; 58 pairs on 10 pages: p0187, p0188, p0189, p0190, p0736, p0737, p0738, p0739, p0740, p0741) removed; the words stay.
+
+- Nov 26 2026: 9 running heads: the title words with [?] (ಋಗ್ವೇದಸಂಹಿತಾ / ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, the volume's two head titles, 415/413 clean heads) set to the clean form when ≥0.75 similar; 3-digit page numbers with [?] set to PDF page − 12. Listed in review/heads_applied.tsv.

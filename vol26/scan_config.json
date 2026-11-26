@@ -1,0 +1,12 @@
+{
+ "pdf": "vol26/scans/Rig_Vol26_part2.pdf",
+ "first": 1001,
+ "last": 1085,
+ "offset": 191,
+ "base": 1000,
+ "first_printed": 810,
+ "body_from": null,
+ "start": "9.97",
+ "tail": null,
+ "src": "vol26/html/rig_26_part2.md"
+}

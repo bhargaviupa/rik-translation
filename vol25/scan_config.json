@@ -1,0 +1,12 @@
+{
+ "pdf": "vol25/scans/Rig_Vol25.pdf",
+ "first": 1,
+ "last": 890,
+ "offset": 12,
+ "base": 0,
+ "first_printed": 1,
+ "body_from": "13",
+ "start": null,
+ "tail": "890:vol25/scans/Rig_Vol25_tail.pdf",
+ "src": null
+}

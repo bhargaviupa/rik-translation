@@ -1,0 +1,23 @@
+Q0003	೧೪	likely	first digit damaged to a tick, ೪ clear
+Q0004	೧೪-೧೫	likely	last glyph matches ೫ elsewhere
+Q0005	೧೪-೧೫	certain	
+Q0007	೭-೬೯	likely	
+Q0008	೭-೬೯-೪	likely	
+Q0009	೯	likely	
+Q0010	೯-೧೩	likely	
+Q0011	೪-೨೬	likely	
+Q0012	೪-೨೬-೭	likely	last glyph is the 2-shaped ೭ not ೬; extra hyphen in print
+Q0015	೯-೭೨	likely	first glyph after hyphen is the 2-shaped ೭
+Q0016	೯-೭೨-೪	likely	
+Q0017	೧೦-೬೫	likely	
+Q0018	೧೦-೬೫-೧೩	likely	
+Q0019	೫	likely	
+Q0020	೫-೩೫	likely	
+Q0021	೫-೩೫-೨	likely	
+Q0022	೫	likely	
+Q0023	೫-೪೨	likely	
+Q0024	೫-೪೨-೫	likely	
+Q0025	೩-೬೧	likely	
+Q0026	೩-೬೧-೧	likely	
+Q0028	೧೦-೮೦	certain	
+Q0029	೧-೧೩೪	likely	
