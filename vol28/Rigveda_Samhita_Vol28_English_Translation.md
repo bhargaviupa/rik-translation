@@ -9430,6 +9430,257 @@ May the five orders of men, may those who were born for the sake of ghi, may tho
 > तंतुं । तन्वन् । रजसः । भानुं । अनु । इहि । ज्योतिष्मतः । पथः । रक्ष । धिया ।  
 > कृतान् ।
 
+### Printed p. 314
+
+> अनुल्पणं । वयत । जोगुवां । अपः । मनुः । भव । जनय । दैव्यं । जनं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गार्हपत्यादारभ्याहवनीयाद्वेदिं वेदतृणैरास्त्रणाति तंतुमित्यनया ।
+> सूत्रितं च । अविधून्वन् संततं स्त्रणन् सव्येन गार्हपत्यादाहवनीयमेति तंतुं
+> तन्नृजसो भानुमन्विहि । आ.११-१ । इति ॥ अग्निहोत्रहोमेऽप्यनयोदकधारा
+> स्रावणीया । सूत्रितं च । गार्हपत्यादविच्छिन्नामुदकधारां हॆरेत्तंतुं तन्नृजसो
+> भानुमन्विहि । आ-२-२ । इति । अग्न्यंतराले श्वातिक्रमणेऽनया गार्हपत्याहवनीययोर्मध्य उदकेन भस्मना चापूरयेत् । सूत्रितं च । गार्हपत्याहवनीययोरंतरं भस्मराज्योदकराज्या च संतनुयात् । आ.३-१० । इति ॥ अग्निमारुतेऽ
+> प्येषा धाय्या । सूत्रितं च । तंतुं तन्नृजसो भानुमन्विहैवान इंद्रो मघवा
+> विरष्यी । आ.५-२० । इति ॥
+> हे अग्ने तंतुं यज्ञं तन्नन्विस्तारयन्नजसो रंजनात्मकस्य लोकस्य
+> भानुं भासकमादित्यमन्विहि । अनुगच्छ । रश्मिद्वारा सूर्यमंडलं प्रविशेत्यर्थः ।
+> किंच ज्योतिष्मतः । प्रकाशवतो यज्ञस्य पथो गमनमार्गान् अथवा ज्योतिष्मतो
+> दीप्तिमतः स्वर्गस्य पथो मार्गान्देवयानान् रक्ष । पालय । कीदृशान्मार्गान् ।
+> धिया कर्मणा कृतान् संपादितान् । किंच सोऽग्निर्जोगुवां स्तोत्कृणामपः ।
+> कर्मनामैतत् । क्रियया व्याप्यं कर्मानुल्बणमनतिरिक्तं वयत । करोतु ।
+> यदेव यज्ञ उल्बणं क्रियते तस्यॆवैषा शांतिः। तै. सं. ३-४-३-७॥ इति हि ब्राह्मणं।
+> स त्वं मनुर्भव ।मंतव्यो भव । स्तुत्यो भवेत्यर्थः । किंच दैव्यं जनं देवसंघं
+> जनय । उत्पा-दय । यज्ञाभिगमनवंतं कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk the sacrificer spreads darbha grass (vedatṛṇa) on the altar from the Gārhapatya to the Āhavanīya. Sāyaṇa cites the sūtra: अविधून्वन् संततं स्त्रणन् सव्येन गार्हपत्यादाहवनीयमेति तंतुं तन्नृजसो भानुमन्विहि । आ.११-१ । इति ॥ (*avidhūnvan saṃtataṃ straṇan savyena gārhapatyādāhavanīyameti taṃtuṃ tannṛjaso bhānumanvihi | ā.11-1 | iti ‖*) (Ā. 1-11). In the Agnihotra offering this Ṛk accompanies the pouring of an unbroken stream of water; the sūtra cited is गार्हपत्यादविच्छिन्नामुदकधारां हॆरेत्तंतुं तन्नृजसो भानुमन्विहि । आ-२-२ । इति । (*gārhapatyādavicchinnāmudakadhārāṃ hèrettaṃtuṃ tannṛjaso bhānumanvihi | ā-2-2 | iti |*) (Ā. 2-2). When a dog passes between the fires, the space between the Gārhapatya and Āhavanīya is filled with water and ashes with this Ṛk (Ā. 3-10). In the Agnimāruta śastra it is the dhāyyā verse (Ā. 5-20).
+"O Agni, spreading the sacrifice (tantu), follow the sun, the illuminator of the world (rajas), the radiant one." That is, enter the orb of the sun by means of rays. Protect the luminous paths of the sacrifice, the ways of going; or else the paths of the shining heaven, the paths of the gods, made by action (dhiyā). May Agni make the works (apaḥ, a name for action) of the praisers free from excess (anulbaṇa), neither deficient nor surplus. The Brāhmaṇa says: यदेव यज्ञ उल्बणं क्रियते तस्यॆवैषा शांतिः (*yadeva yajña ulbaṇaṃ kriyate tasyèvaiṣā śāṃtiḥ*) (Tai. Saṃ. 3-4-3-7). "Be Manu", that is, be worthy of thought and praise. "Generate the divine people", that is, the host of gods; make them come to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तंतुं (*taṃtuṃ*)—the sacrifice
+- तन्नन् (*tannan*)—spreading
+- रजसः (*rajasaḥ*)—of the whole world
+- भानुं (*bhānuṃ*)—the illuminating sun
+- अन्विहि (*anvihi*)—follow
+- ज्योतिष्मतः (*jyotiṣmataḥ*)—luminous, belonging to the sacrifice
+- धिया (*dhiyā*)—by excellent action
+- कृतान् (*kṛtān*)—produced
+- पथः (*pathaḥ*)—paths
+- रक्ष (*rakṣa*)—protect
+- अग्निः (*agniḥ*)—Agni
+- जोगुवां (*joguvāṃ*)—of the praisers
+- अपः (*apaḥ*)—works
+- अनुल्बणं (*anulbaṇaṃ*)—without deficiency or excess
+- वयत (*vayata*)—let him make
+- मनुः (*manuḥ*)—(O Agni, be) a revered producer
+- भव (*bhava*)—be
+- दैव्यं जनं (*daivyaṃ janaṃ*)—the divine people
+- जनय (*janaya*)—generate
+
+### Printed p. 315
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, spreading the sacrifice, follow the sun, the illuminator of the whole world. Protect the paths that are luminous, belong to the sacrifice and are obtained by excellent action. May Agni make the works of the praisers free from deficiency and excess. O Agni, be a revered producer; generate the divine people.
+
+##### English translation
+(The gods :) Spreading out the sacrifice, follow the illuminator of the world (the sun); protect the luminous paths (of the gods) constructed by sacred acts : may Agni render the pious works of the worshipper free from defect : become Manu, generate the people of heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+While darbha grass is spread over the sacrificial altar from the Gārhapatya fire-pit to the Āhavanīya fire-pit, this Ṛk तंतुं (*taṃtuṃ*) is to be recited, as explained by the Āśvalāyana Śrautasūtra: धून्वन् संततं स्तृणन् सव्येन गार्हपत्यादाहवनीयमेति तंतुं तन्न्रजसो भानुमन्विहि (*dhūnvan saṃtataṃ stṛṇan savyena gārhapatyādāhavanīyameti taṃtuṃ tannrajaso bhānumanvihi*) (Ā. 1 11). In the Agnihotra offering too this Ṛk is recited while sprinkling with a stream of water, as explained by the Āśvalāyana Śrautasūtra: गार्हपत्यादविच्छिन्नामुदकधारां हरेत्तंतु तन्नस्रजसो भानुमन्विहि (*gārhapatyādavicchinnāmudakadhārāṃ harettaṃtu tannasrajaso bhānumanvihi*) (Ā. 2-2). If a dog enters between the Gārhapatya and Āhavanīya fires, this Ṛk is recited while purifying that place with water and ashes, as explained by the sūtra गार्हपत्याहवनीययोरंतरं भस्मराज्योदकराज्या च संतनुयात् (*gārhapatyāhavanīyayoraṃtaraṃ bhasmarājyodakarājyā ca saṃtanuyāt*) (Ā. 3-10). In the Agni-Māruta śastra mantras this Ṛk is recited as a dhāyyā mantra, as explained by the sūtra तंतुं तन्न्रजसो भानुमन्विहैवा न इंद्रो मघवा विरष्टी (*taṃtuṃ tannrajaso bhānumanvihaivā na iṃdro maghavā viraṣṭī*) (Ā. 5-20).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क्षा॒नहो॑ नह्यतनो॒त सो॑म्या॒ इष्कृ॑णुद्वं रश॒ना ओत पिं॑शत।  
+> अ॒ष्टावं॑धुरं वहता॒भितो॒ रथं॒ येन॑ दे॒वासो॒ अन॑यन्न॒भिप्रि॒यं । ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षनहः । नह्यतन । उत । सोम्याः । इष्कृणुध्वं । रशनाः। आ । उत । पिंशत ।
+
+### Printed p. 316
+
+> अष्टावंधुरं । वहत । अभितः । रथं । येन । देवासः । अनयन् । अभि । प्रियं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र यज्ञजिगमिषवो देवाः परस्परं ब्रुवते । हे सोम्याः सोमार्हा
+> देवाः यूयमक्षानहोऽक्षेषु नह्यान् बंधनीयानश्वान्नह्यतन । नह्यत । बद्धीत
+> रथे । उतापि च रशना अश्वबंधनप्रग्रहानिष्कृणुध्वं । निष्टुरुत । सम्यक् संस्कुरुत ॥
+> नकारलोपश्चांदसः ॥ उतापि चापिंशत ॥ पिश अवयवे ॥ अश्वानलंकुरुतेत्यर्थः ।
+> अष्टावंधुरं । वंधुरं सारथिनिवासस्थानं । अष्टसंख्याकवंधुरोपेतं रथं सूर्यसंबंधिनमभितः सर्वतो वहत । सूर्यरथेन साकं युष्मदीयान्रथान्यज्ञं प्रति
+> गमयतेत्यर्थः । येन देवासो देवाः प्रियमस्माननयन् अभिगमयंति तं
+> रथमभितो वहतेति संबंधः । यद्वा । तं यज्ञं प्रति वहतेति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+The gods, wishing to go to the sacrifice, speak to one another. "O soma-worthy gods, yoke to the chariot the horses that are to be bound to the pole; prepare the reins, the bridles of the horses, properly; adorn the horses." Vandhura is the seat of the charioteer. "Draw on all sides the chariot of the sun with eight seats", that is, make your chariots go to the sacrifice together with the sun's chariot. The connection is: bring from all sides that chariot by which the gods bring us the dear (wealth). Or else it is to be construed: carry it to that sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम्याः (*somyāḥ*)—O gods who drink soma
+- अक्षानहः (*akṣānahaḥ*)—the horses to be fastened to the poles
+- नह्यतन (*nahyatana*)—bind them to the chariot
+- रशनाः (*raśanāḥ*)—the bridles
+- इष्टृणुद्वं (*iṣṭṛṇudvaṃ*)—prepare
+- आ पिंशत (*ā piṃśata*)—adorn the horses
+- येन (*yena*)—by which chariot
+- देवासः (*devāsaḥ*)—the gods
+- प्रियं (*priyaṃ*)—wealth dear to us
+- अभ्यनयन् (*abhyanayan*)—bring to us
+- अष्टावंधुरं (*aṣṭāvaṃdhuraṃ*)—having eight seats
+- रथं (*rathaṃ*)—mounting the chariot
+- अभितः (*abhitaḥ*)—gathering all around
+- वहत (*vahata*)—bring to the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O soma-drinking gods, yoke to the chariot the horses that are to be fastened to the poles. Prepare the bridles. Adorn the horses. Mount and sit in the chariot with eight seats, by which the gods bring us the wealth dear to us, and gathering around (from various directions) bring (the gods) to the sacrifice.
+
+##### English translation
+(The gods to one another :) Drinkers of the soma, bind (the horses) that are to be fastened to the pole; prepare reins; caparison (the steeds); accompany everywhere (in your cars) the chariot which has eight seats with which the gods bring us acceptable (wealth).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्म॑न्वती रीयते॒ सं र॑भध्व॒मुत्ति॑ष्ठत॒ प्र त॑रता सखायः ।
+
+### Printed p. 317
+
+> अत्रा जहाम ये असन्नशेवाः शिवान्वयमुत्तरेमाभि  
+> वाजान् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्मन् 5वती । रीयते । सं । रभध्वं । उत् । तिष्ठत । प्र । तरत । सखायः ।  
+> अत्र । जहाम । ये । आसन् । अशेवाः । शिवान् । वयं । उत् । तरेम । अभि ।  
+> वाजान् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैवाहिके प्रयाणे यदि नाना तार्या नदी स्यात् तदानीमश्मन्वतीत्यर्धर्चेन वधूं नावमारोहयेत् उत्तरेणार्धर्चेन नदीमुत्क्रमयेत् । सूत्रितं
+> च । अश्मन्वती रीयते सं रभध्वमित्यर्धर्चेन नावमारोहयेदुत्तरेणोत्क्रमयेत् । आ. गृ. १-८-२, ३ । इति ॥
+> अनयापि देवा यज्ञजिगमिषवः परस्परं ब्रुवते । अश्मन्वती नाम नदी
+> रीयते । गच्छति ॥ री गतिरेषणयोः ॥ तां यज्ञगमनायोत्तरीतुमुत्तिष्ठत । उद्धच्छत । तथा कृत्वा प्रतरत । तां नदीमुल्लंघयत । हे सखायो यजमानस्य सखिभूता इति देवानां संबोधनं । अत्रास्यां नद्यां जहाम । परित्यजाम । कानिति उच्यते । येऽशेवाः। शेवमिति सुखनाम । येऽसुखभूता असन् अभवन् आस्मानाश्रित्य वर्तंते ताञ्छहाम । तथा कृत्वा शिवान् सुखकराणि वाजानन्नानि हवींष्यभि
+> प्राप्तमुत्तरेम ॥
+
+##### Gist of the bhāṣya
+
+On a wedding journey, if a river must be crossed by boat, the bride is placed in the boat with the first half-verse and the river is crossed with the second. Sūtra: अश्मन्वती रीयते सं रभध्वमुत्तिष्ठत प्र तरता सखायः । अत्रा जहाम ये असन्नशेवाः शिवान्वयमुत्तरेमाभि वाजान् ॥ ८ ॥ अश्मन् 5वती । रीयते । सं । रभध्वं । उत् । तिष्ठत । प्र । तरत । सखायः । अत्र । जहाम । ये । आसन् । अशेवाः । शिवान् । वयं । उत् । तरेम । अभि । वाजान् ॥ ८ ॥ वैवाहिके प्रयाणे यदि नाना तार्या नदी स्यात् तदानीमश्मन्वतीत्यर्धर्चेन वधूं नावमारोहयेत् उत्तरेणार्धर्चेन नदीमुत्क्रमयेत् । सूत्रितं च । अश्मन्वती रीयते सं रभध्वमित्यर्धर्चेन नावमारोहयेदुत्तरेणोत्क्रमयेत् । आ. गृ. १-८-२, ३ । इति ॥ (*aśmanvatī rīyate saṃ rabhadhvamuttiṣṭhata pra taratā sakhāyaḥ | atrā jahāma ye asannaśevāḥ śivānvayamuttaremābhi vājān ‖ 8 ‖ aśman 5vatī | rīyate | saṃ | rabhadhvaṃ | ut | tiṣṭhata | pra | tarata | sakhāyaḥ | atra | jahāma | ye | āsan | aśevāḥ | śivān | vayaṃ | ut | tarema | abhi | vājān ‖ 8 ‖ vaivāhike prayāṇe yadi nānā tāryā nadī syāt tadānīmaśmanvatītyardharcena vadhūṃ nāvamārohayet uttareṇārdharcena nadīmutkramayet | sūtritaṃ ca | aśmanvatī rīyate saṃ rabhadhvamityardharcena nāvamārohayeduttareṇotkramayet | ā. gṛ. 1-8-2, 3 | iti ‖*) (Ā. Gṛ. 1-8-2, 3). With this Ṛk too the gods, wishing to go to the sacrifice, speak to one another. The river named Aśmanvatī flows (root री (*rī*), going). "Rise to cross it for going to the sacrifice. Having done so, cross over that river. O friends", that is, friends of the sacrificer, the gods being addressed. "Here, in this river, let us leave those who are aśevāḥ": śeva means happiness, so those who are unhappy and cling to us we leave. Having done so, we cross to the auspicious, pleasant foods, the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत्तिष्ठत (*uttiṣṭhata*)—rise (O gods)
+- अश्मन्वती (*aśmanvatī*)—the river Aśmanvatī
+- रीयते (*rīyate*)—flows here
+- सं रभध्वं (*saṃ rabhadhvaṃ*)—prepare to go to the sacrifice
+- प्र तरत (*pra tarata*)—cross this river
+- सखायः (*sakhāyaḥ*)—O friends
+- ये (*ye*)—whatever things
+- अशेवाः असन् (*aśevāḥ asan*)—are causes of sorrow to us, those
+- अत्र (*atra*)—in this river
+- जहाम (*jahāma*)—let us leave
+- शिवान् (*śivān*)—auspicious
+- वाजान् (*vājān*)—foods
+- अभि (*abhi*)—to obtain
+- वयं (*vayaṃ*)—we
+- उत्तरेम (*uttarema*)—let us cross the river
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, rise; the river Aśmanvatī flows here. Prepare to go to the sacrifice. Cross this river. O friends, let us leave here all things that cause us sorrow. Let us cross this river to obtain auspicious foods.
+
+### Printed p. 318
+
+##### English translation
+The Ashmanvati flows along : be alert ; rise up, cross over, my friends; here let us leave those who are unhappy, so that we may cross over to auspicious sacrificial viands.
+
+##### विशेषविषयगळु (Special Topics)
+
+When one travels for a wedding and must cross a river on the way by boat, the bride is made to board the boat with the first half of this Ṛk and the river is crossed with the second half, as explained by the Āśvalāyana Gṛhyasūtra: अश्मन्वतीरीयते संरभध्वमित्यर्धर्चेन नावमारोहयेदुत्तरेणोत्क्रमयेत् (*aśmanvatīrīyate saṃrabhadhvamityardharcena nāvamārohayeduttareṇotkramayet*) (Ā. Gṛ. 1-8-2; 3).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वष्टा॑ मा॒या वे॑द॒पसा॑म॒पस्त॑मो॒ बिभ्र॒त्पात्रा॑ देव॒पाना॑नि॒  ॑
+> शंतमा ।  
+> शिशी॑ते नू॒नं प॑र॒शुं स्वा॑य॒सं येन॑ वृ॒श्चादेत॑शो॒ ब्रह्म॑ण॒स्पतिः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वष्टा । मायाः । वेत् । अपसां । अपःतमः । बिभ्रत् । पात्रा । देवपानानि ।  
+> शंतमा ।  
+> शिशीते । नूनं । परशुं । सुआयसं । येन । वृश्चात् । एतशः । ब्रह्मणः । पतिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं त्वष्टा देवशिल्पी मायाः । कर्मनामैतत् । कर्माणि पात्रनिर्माणविषयाणि वेत् । वेत्ति । जानाति । स च त्वष्टापसां शोभनकर्मवतां मध्येऽपस्तमोऽतिशयेन शोभनकर्मा देवपानानि । देवाः पिबंति येषु तानि पात्रा
+> सोमपात्राणि बिभ्रद्दारयन्वर्तत इति शेषः । स च त्वष्टा नूनमिदानीमग्नौ हविर्वहनायांगीकृते सति स्वायसं शोभनायःसारभूतं परशुं शिशिते । तीक्ष्णयति ।
+> त्वष्टा पात्रसंपादनार्थं येन परशुनैतश एतशवर्णो ब्रह्मणस्पतिर्ब्रह्मणो
+> मंत्रस्य पाता पात्रादिसंपादनरूपस्य कर्मणः स्वामी ना वृश्चात् वृश्चति ॥
+
+##### Gist of the bhāṣya
+
+This Tvaṣṭṛ, the divine craftsman, knows the works (māyāḥ, a name for action) concerned with making vessels. Among skilled workers he is the most skilful (apastama). He goes about bearing the soma vessels, devapānāni, in which the gods drink. Now, once he has agreed to carry the oblation to the fire, he sharpens the axe of good iron (svāyasa) with which, to make vessels, Brahmaṇaspati, the white-coloured (etaśa), protector of the mantra and master of the work of making vessels and the like, cuts.
+
+### Printed p. 319
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ, the divine craftsman
+- मायाः (*māyāḥ*)—the methods of making vessels
+- वेत् (*vet*)—knows
+- अपसां (*apasāṃ*)—among works
+- अपस्तमः (*apastamaḥ*)—Tvaṣṭṛ, the doer of the best work
+- देवपानानि (*devapānāni*)—fit for the gods to drink from
+- शंतमा (*śaṃtamā*)—and auspicious
+- पात्रा (*pātrā*)—soma-drinking vessels
+- बिभ्रत् (*bibhrat*)—has
+- नूनं (*nūnaṃ*)—now
+- येन (*yena*)—by which
+- एतशः (*etaśaḥ*)—of white colour
+- ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati
+- वृश्चात् (*vṛścāt*)—cuts those vessels, that
+- स्वायसं (*svāyasaṃ*)—made of steel
+- परशुं (*paraśuṃ*)—his axe
+- शिशीते (*śiśīte*)—sharpens
+
+##### भावार्थ (Bhāvārtha)
+
+Tvaṣṭṛ, the divine craftsman, knows the methods of making vessels. Tvaṣṭṛ, the doer of the best work among works, has soma-drinking vessels fit for the gods to drink from and auspicious. For making the vessels which the white-coloured Bṛhaspati uses for carrying the oblation, Tvaṣṭṛ makes his axe sharp.**NOTE**
+
+##### English translation
+Twashtri knows the arts of fabricating (drinking vessels), the most skilful of artificers bearing the sacred drinking cups out of which the gods drink—verily he sharpens his axe of good iron, wherewith the white complexioned Brahmanaspati cuts them.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒तो नू॒नं क॑वयः॒ सं शि॑शीत॒ वाशी॑भि॒र्याभि॑र॒मृता॑य॒ तक्ष॑थ ।  
+> वि॒द्वांसः॑ प॒दा गुह्या॑नि कर्तन॒ येन॑ दे॒वासो॑ अमृत॒त्वमा॑न॒शुः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सतः । नूनं । कवयः । सं । शिशीत । वाशीभिः । याभिः । अमृताय । तक्षथ ।  
+> विद्वासः । पदा । गुह्यानि । कर्तन । येन । दॆवासः । अमृतत्सं । आनशुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवयो मेधाविनस्त्वष्टुर्मम शिष्या ऋभवः सतः । संत इत्यर्थः ।
+> प्रशस्ताः यूयं नूनमिदानीं संशिशीत। अत्यर्थं तीक्ष्णीकुरुत नाशीः । याभिर्वा-
+
+##### Gist of the bhāṣya
+
+"O kavayaḥ, wise ones, my (Tvaṣṭṛ's) pupils the Ṛbhus, being good (satah, that is, excellent), now sharpen (the tools) exceedingly".
+
 ---
 
-**Progress note:** Done through printed p. 313. pp. 308-313 (batch API)
+**Progress note:** Done through printed p. 319. pp. 314-319 (batch API), continuation block unlabelled
