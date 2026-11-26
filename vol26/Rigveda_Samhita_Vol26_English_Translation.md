@@ -28644,6 +28644,190 @@ The Vrishaganas (walking like) swans, (alarmed) at the strength (of the foe), ha
 
 That Soma runs, that is, goes very swiftly, following the course of himself, who is praised by many. As he plays in vain, that is, without effort, moving about and going, the cows, that is, the other goers, do not measure him, do not encompass him; the meaning is that they cannot follow him. Moreover he is sharp-horned: the horns (śṛṅga) are the splendours that pierce the darkness, so he is of sharp splendour.
 
+### Printed p. 769
+
+> परीणसं । बहुनामैतत् । बहुविधं तेजः कृणुते । करोति । अंतरिक्षे वर्तमानो
+> यः सोमो दिवाहनि हरिर्हरितवर्णो ददृशे दृश्यते । न प्रकाशत इत्यर्थः । नक्तं
+> रात्रौ त्वज्र ऋजुगामी विस्पष्टः प्रकाशयुक्तो दृश्यते ॥ दृशेः कर्मणि लिट रूपं ॥
+
+##### Gist of the bhāṣya
+
+Pariṇasam is a word with many meanings; he makes, that is, performs, manifold splendour. That Soma who, being in the atmosphere, is green-hued by day, is seen; the meaning is that he does not shine. And at night he is straight-going, clearly visible, seen endowed with radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the god Soma
+- उरुगायस्य (*urugāyasya*)—his own, praised by many
+- जूतिं (*jūtiṃ*)—following the course
+- रंहते (*raṃhate*)—moves swiftly
+- वृथा (*vṛthā*)—without effort
+- क्रीळंतं (*krīḷaṃtaṃ*)—this Soma who is moving
+- गावः (*gāvaḥ*)—other movers
+- न मिमते (*na mimate*)—cannot follow
+- तिग्मशृंगः (*tigmaśṛṃgaḥ*)—Soma, who is of sharp radiance
+- परीणसं (*parīṇasaṃ*)—manifold splendour
+- कृणुते (*kṛṇute*)—makes manifest
+- दिवा (*divā*)—in the days
+- हरिः (*hariḥ*)—as one of green hue
+- नक्तं (*naktaṃ*)—at night
+- ऋज्रः (*ṛjraḥ*)—as one of clearly visible radiance
+- ददृशे (*dadṛśe*)—is seen
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, following his own course, praised by many, moves swiftly. Others cannot follow this Soma who moves without effort. Soma, of sharp radiance, makes manifold splendour manifest. He is seen as green-hued by day and as of clearly visible radiance at night.
+
+##### English translation
+He moves rapidly (following) the path of (him) the much-praised, (other) goers cannot overtake him (though he is) moving easily ; sharp–horned he displays manifold (radiance); the Soma appears green–tinted by day, and clearly visible at night.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॑र्वा॒जी प॑वते॒ गोन्यो॑घा॒ इंद्रे॒ सोमः॒ सह॒ इन्व॒न्मदा॑य ।  
+> हंति॒ रक्षो॒ बाध॑ते॒ पर्यरा॑ती॒र्वरि॑वः कृ॒ण्वन्वृ॒जन॑स्य॒ राजा॑ ॥  
+> XXVI 49
+
+### Printed p. 770
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । वाजी । पवते । गोऽन्योघाः । इंद्रे । सोमः । सहः । इन्सन् । मदाय ।  
+> हंति । रक्षः । बाधते । परि । अरातीः । वरिवः । कृण्वन् । वृजनस्य । राजा ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः क्षरणशीलो वाजी बलवान् गोन्योघा गमनशीलनीचीनाग्ररससंघात
+> इंद्रे सहो बलकररसमिन्वन् प्रेरयन् सोमो मदाय तस्य मदार्थं पवते ।
+> क्षरति । किंच रक्षो रक्षःकुलं हंति । हिनस्ति । किंचारातीररातीञ्त्यत्रून्परि बाधते ।
+> परितः संहरति । कीदृशः । वरिवो वरणीयं धनं कृण्वन् स्तोत्यणां कुर्वन्
+> वृजनस्य बलस्य राजेशिता सोम इति ॥
+
+##### Gist of the bhāṣya
+
+Indu, flowing by nature, is powerful. He is a mass of juice moving with its tips downward; sending the strength-giving juice into Indra, Soma flows for his exhilaration, that is, for his delight; he streams. Moreover he slays the clan of Rakṣas. And he drives off the enemies, the hostile ones, all around, destroying them on every side. Of what kind is he? He makes choice wealth for the praisers; he is the lord of strength, Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—of flowing nature
+- वाजी (*vājī*)—endowed with strength
+- गोन्योघाः (*gonyoghāḥ*)—having juices flowing over the earth
+- सोमः (*somaḥ*)—the god Soma
+- इंद्रे (*iṃdre*)—in Indra
+- सहः (*sahaḥ*)—strength
+- इन्वन् (*invan*)—sending
+- मदाय (*madāya*)—for his delight
+- पवते (*pavate*)—flows
+- वृजनस्य (*vṛjanasya*)—of strength
+- राजा (*rājā*)—Soma, the lord
+- वरिवः (*varivaḥ*)—wealth
+- कृण्वन् (*kṛṇvan*)—providing to the praisers
+- रक्षः (*rakṣaḥ*)—the Rākṣasas
+- हंति (*haṃti*)—harms
+- अराती (*arātī*)—the enemies **NOTE**
+- परि बाधते (*pari bādhate*)—harms completely
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, of flowing nature, endowed with strength, having juices flowing over the earth, sends strength into Indra and flows for his delight. Soma, the lord of strength, provides wealth to the praisers and harms the Rākṣasas. He harms the enemies completely.
+
+##### English translation
+The powerful, flowing Soma having quantities of juice flowing down, streams forth infusing strength into Indra for his exhilaration ; conferring wealth the king of strength slays the Rakshasas and harasses the enemy.
+
+##### विशेषविषयगळु (Special Topics)
+
+गोन्योघाः (*gonyoghāḥ*)—The word go, formed from the root गम्लृ गतौ (*gamlṛ gatau*), has the meaning of movement, गंतारः (*gaṃtāraḥ*) (goers). नि (*ni*) means नीचीन (*nīcīna*), the lower part; ओघः (*oghaḥ*) means संघातः (*saṃghātaḥ*), a mass. गमनशीलनीचीनाग्ररससंघातः (*gamanaśīlanīcīnāgrarasasaṃghātaḥ*) means a stream of Soma juice trickling and flowing downward.
+
+### Printed p. 771
+
+रक्षः (*rakṣaḥ*)—Piśācas, bhūtas and other groups of spirits. Here there is a difference in some respects between Rākṣasas and the so-called rakṣas. Rākṣasas have the shape of men like us, or of other animals; they have hands and feet like ours and other ways of life like ours; only their nature is wicked. But for the group called रक्षः (*rakṣaḥ*) there is no requirement that they have a visible shape and the like. These Piśācas, bhūtas and Yātudhānas have subtle bodies not visible to the eyes of men, and it is their nature to cause trouble to men and to good rites such as sacrifices. To prevent their harm in sacrifices and to drive them far away, it is the custom to recite certain special sūktas called रक्षोघ्न (*rakṣoghna*); the deity of these रक्षोघ्न (*rakṣoghna*) sūktas is generally a special form of Agni called रक्षोहाग्नि (*rakṣohāgni*). The Soma deity too is in some places called रक्षोहा विश्वचर्षणि (*rakṣohā viśvacarṣaṇi*) (9-1-2). There are prayers to destroy these groups of rakṣas. I shall give some details about these groups.
+
+The Piśācas or bhūtas on earth are the haters of men. The class name that denotes them is रक्षः (*rakṣaḥ*). It occurs more than fifty times in the singular and the plural; generally it comes together with some deity, as a prayer to destroy the Rākṣasa, or as praise that he has been slain. In the sūktas 7-104 and 10-87 they are the very subject. Here words such as रक्षसः (*rakṣasaḥ*), यातु (*yātu*) and यातुधान (*yātudhāna*) point to them. Since रक्षसः (*rakṣasaḥ*) is the name of all evil deities and Piśācas, it may be understood as a class name, and यातु (*yātu*) as a sub-class name.
+
+These Piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In bird form they fly about at night (7-104-18). Taking the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). As a dog or in the form of a monkey, they lie in wait to fall upon women (A. Ve. 4-37 11). **NOTE** Therefore pregnant women and children are troubled by them (Ā. Ve. 8-6). At the time of a wedding it moves about around the bride. They shoot small arrows into the air to pierce the eyes of these beings (Mā. Gṛ. Sū. 1-10). **NOTE** A description of their form and the like is given in the Atharvaveda itself. They take shape especially like men. They are spoken of as having head, eyes, heart and other limbs; but there is always some deformity: three heads, two mouths, four eyes, five feet, no fingers, feet turned backwards, or horns on the hand, and so on (Ā. Ve. 8-6; Hi. Gṛ. Sū. 2-3-7). **NOTE** Blue, yellow or green Piśācas are also mentioned.
+
+### Printed p. 772
+
+(A. Ve, 19-22-4, 5). Among them too there are males and females, households and kings (A. Ve 5 22-12; Hi. Gṛ. Sū. 23-7); they too are subject to death (A. Ve. 6-32-2; and so on). The Yātudhānas eat the flesh of men and horses and drink cow's milk (10-86-16, 17). To satisfy their craving for blood and flesh the Rākṣasas attack men; this attack is generally by entering them. There is a prayer to Agni to keep the Rākṣasas from entering the worshippers (8-48-21). A Piśāca presiding over disease, flying about here and there, enters men (Ā. Ve. 7-76-4). These bhūtas and pretas generally enter us through our mouth when we eat or drink (A. Ve. 5-29-6 to 8); they also enter by other doors (A. Ve. 8-6-3). No sooner do they enter than they tear and eat the flesh of the man and cause disease (A. Ve. 5-29-5, 10); they cause madness and destroy the eloquence of speech (6-111-3; Hi. Gṛ. Sū. 1-15-5). **NOTE** They invade the dwellings of men (Kau. Sū. 135-9). Some bhūtas, at evening time, go about dancing around houses and braying like asses, or roam in the forests, or laugh loudly or drink from skulls (A. Ve. 8-6- 10-11-14; Hi. Gṛ. Sū. 2-3-3).
+
+Their time of roaming is night or evening (7-104-8). In the east their play does not go on at all; the sun rising there drives them away (Tai. Saṃ. 2-6-6-3). A falling meteor is believed to be a form of a bhūta (Kau. Sū. 129-9). As the darkness of the new-moon night is suitable for the roaming of the pretas, so it is equally favourable to the bhūtas (A. Ve. 1-16-1; 4-36-3). Nothing endangers sacrifices as these do. In sacrifices meant for the gods the Piśācas cause defects and omissions, and the Yātus scatter the offered oblations about (7-104-18, 21). They cannot bear to see praise (10-182-3). There is a prayer to Agni to burn up the bhūtas and the like so that the sacrifice may not be harmed (1-76-3). There is a mantra that, by the sorcery of the Yātudhānas and the groups of rakṣas, makes an enemy's sacrifice fail to prosper (A. Ve. 7-70-2). They come as an obstacle, in the form of pretas, to the food and water offered to the dead (A. Ve. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is common that these groups of rakṣas (called Rākṣasas) trouble yogis. Agni, who removes darkness and is the master of the sacrifice, is their sworn enemy. Agni himself is prayed to burn them, drive them off or destroy them (10-87-3-6 and so on). It is from this work that Agni and some other deities have the name रक्षोहा (*rakṣohā*).
+
+### Printed p. 773
+
+These bhūtas are not only harmful by nature; they cause harm also when impelled by others. रक्षोयुजः (*rakṣoyujaḥ*) (those who impel Rākṣasas) is found (6-62-9). And there are the bhūtas and Yātus of sorcerers here and there (7-104-23; 8-60-20). One who has fallen victim to a bhūta sent by an enemy may drive them away by making an offering to Yaviṣṭha Agni (Tai. Saṃ. 2-2-3-2). And there is a command to those bhūtas themselves to swallow the very one who sent them (Ā. Ve 2-2-4). In the sense of bhūtas the word रक्षः (*rakṣaḥ*) is used in both masculine and feminine; in the neuter it also means danger. It may be रक्षः (*rakṣaḥ*) from the root रक्ष् (*rakṣ*) (to trouble) (ऋक्षा (*ṛkṣā*), harmful); but this usage is very rare. It may also be from the ordinary रक्ष् (*rakṣ*), to protect. In this context रक्षः (*rakṣaḥ*) would mean what is to be avoided.
+
+वृजनस्य राजा (*vṛjanasya rājā*)—बलस्य ईशिता सोमः (*balasya īśitā somaḥ*), Soma, the lord of strength. Because drinking Soma increases strength and vigour in the body, Soma is said here to be the lord of strength.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ धार॑या॒ मध्वा॑ पृचा॒नस्ति॒रो रोम॑ पवते॒ अद्रि॑दुग्धः ।  
+> इंदु॒रिंद्र॑स्य स॒ख्यं जु॑षा॒णो दे॒वो दे॒वस्य॑ मत्स॒रो  ॑
+> मदाय ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । धारया । मध्वा । पृचानः । तिरः । रोम । पवते । अद्रिदुग्धः ।  
+> इंदुः । इंद्रस्य । सख्यं । जुषाणः । देवः । देवस्य । मत्सरः । मदाय ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाथानंतरमद्रिदुग्गो ग्रावभिर्दुग्गोऽभिषुतः सोमो मध्वा मदकारिण्या
+> धारया पृचानो देवान् संपर्कयन् संयोजयन् रोमाविरोमभिः कृतं
+> पवित्रं तिरस्तिरस्कृत्य व्यवधायकं कृत्वा पवते । कलशेषु क्षरति । किंचेंद्रस्य सख्यं
+> सखिभावं कर्म वा जुषाणः सेवमानो देवो द्योतमानो मत्सरो मदकर
+> इंदुः सोमो देवस्येंद्रस्य मदाय मदार्थं पवते । क्षरति ॥
+
+##### Gist of the bhāṣya
+
+Then, Soma, pressed with the stones, that is, pressed out by the pressing stones, bringing the gods into contact and union with his sweet, exhilarating stream, flows, that is, streams into the vessels, passing across the filter made of sheep's hair and the like, making it a barrier. Moreover, enjoying Indra's friendship or action, shining, exhilarating Indu, that is Soma, flows for the exhilaration of the god Indra; he streams.
+
+### Printed p. 774
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—afterwards
+- अद्रिदुग्धः (*adridugdhaḥ*)—Soma, pressed by the pressing stones
+- मध्वा (*madhvā*)—exhilarating
+- धारया (*dhārayā*)—with the stream
+- पृचानः (*pṛcānaḥ*)—in order to join the gods
+- रोम (*roma*)—the thread of the ten-fold filter
+- तिरः (*tiraḥ*)—crossing
+- पवते (*pavate*)—flows
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सख्यं (*sakhyaṃ*)—friendship
+- जुषाणः (*juṣāṇaḥ*)—enjoying
+- देवः (*devaḥ*)—shining
+- मत्सरः (*matsaraḥ*)—exhilarating
+- इंदुः (*iṃduḥ*)—Soma
+- देवस्य (*devasya*)—of Indra
+- मदाय (*madāya*)—flows for delight
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, pressed by the pressing stones, flows crossing the thread of the ten-fold filter with an exhilarating stream, in order to join the gods. Enjoying (desiring) Indra's friendship, Soma, shining and exhilarating, flows for Indra's delight.
+
+##### English translation
+Milked forth by the stones the Soma flows through the sheep's hair coming into contact (with the gods) with its sweet-flavoured stream ; the divine exhilarating Indu desiring the friendship of Indra flows for the exhila- ration of the deity.
+
+##### विशेषविषयगळु (Special Topics)
+
+अद्रिदुग्धः (*adridugdhaḥ*)—adri means the stone that crushes the Soma plants. Crushing the Soma plants with these stones and making the juice come out is explained by अद्रिदुग्धः (*adridugdhaḥ*).
+
+तिरः रोम पवते (*tiraḥ roma pavate*)—The Soma juice crosses the mesh made of the hair of sheep or goats, that is, of wool, and falls into the vessel.
+
+इंद्रस्य सख्यं जुषाणः (*iṃdrasya sakhyaṃ juṣāṇaḥ*)—Desiring Indra's friendship, and for his satisfaction; since drinking Soma is pleasing to Indra, a friendship between Soma and Indra is spoken of.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रि॒याणि॑ पवते पुना॒नो दे॒वो दे॒वान्त्सेन॒ रसे॑न  ॒
+> पैंचन् ।  
+> इंदु॒र्धर्मा॑ण्यतु॒था वसा॑नो॒ दश॒ क्षिपो॑ अव्यत॒ सानो॒  ॑
+> अव्ये ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 768. Suk 97 end of Varaha note, Rks 8-9 begin (pp. 763-768)
+**Progress note:** Done through printed p. 774. Suk 97 Rks 9-12 (pp. 769-774)
