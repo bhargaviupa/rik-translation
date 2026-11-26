@@ -46,3 +46,6 @@ span.pgmark { display: inline; }
 /* Sanskrit in quotations: smaller than the text, the transliteration smaller again and on its own line (printfix.sanskrit) */
 blockquote .dv { font-size: .88em; line-height: 1.5; }
 blockquote em.iast { font-size: .84em; line-height: 1.4; color: #333; }
+table.contents a.pgref[data-rm]::after { content: target-counter(attr(href), page, lower-roman); }
+table.contents a.sub { padding-left: 1.2em; display: block; }
+table.contents td.no { font-size: .9em; }
