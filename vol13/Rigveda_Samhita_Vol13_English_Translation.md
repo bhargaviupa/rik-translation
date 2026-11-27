@@ -2964,6 +2964,160 @@ the word वव्रि (*vavri*) is explained, with वव्रिरित�
 > नासते ।  
 > ऐषा॒मंसे॑षु रं॒भिणी॑व रारभे॒ हस्ते॑षु खा॒दिश्च॑ कृ॒तिश्च॒ सं द॑धे ॥ ३ ॥
 
+### Printed p. 121
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमासः । न । ये । सुताः तृप्तअंशवः । हृत्सु । पीतासः । दुवसः । न । आसते ।  
+> आ । एषां । अंशेषु । रंभिणीइव । ररभे । हस्तेषु । खादिः । च । कृतिः । च ।  
+> सं । दधे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतः सुता अभिषुतास्तृप्तांशवस्तर्पितावयवाः सोमासो न सोमा
+> इव यथा वल्लीरूपाः सोमा अभिषुवात्पूर्वमाप्यायनेन तृप्तावयवाः संतः
+> पश्चात्सुता अभिषुता रसभूताः पीतासः पीताः संतो हृत्तु पात्यणां हृदयेषु
+> दुवसो नासते परिचरंत इवासते तद्वत् ये मरुतो यज्ञ अहूतास्तृप्तावयवा भवंति ध्यायमानाः संतो हृत्तु हृदयेषु दुवसो न परिचरंत इवासते।
+> यद्वा । प्राणादिरूपेण शरीरे स्थिता दुवसः परिचरंत इव गमनादिचेष्टाः कुर्वंत
+> आसते । एषामंसेषु रंभिणीव युवतमांसालंबिनी योषिदिवा रारभे । आरेभे ।
+> अश्लिष्यति । अवलंबने सामर्थ्यच्छक्त्याख्यायुधविशेषो भुजलक्ष्मीर्वा । किंच
+> हस्तेषु खादिर्हस्तत्राणकश्च कृतिः कर्तनी च खड्गलताष्टिश्च सं दधे । संधीयते ।
+> सम्यग्धता भवति । परस्परसमुच्चयार्थाश्चकाराः । ये मरुत उक्तरूपस्त
+> आविर्भवंतीर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who are poured out (सुताः (*sutāḥ*)), with their limbs satisfied (तृप्तांशवः (*tṛptāṃśavaḥ*)), are like Soma plants. As the Soma creepers are first made plump and their parts satisfied, and are afterwards pressed and become juice, and, once drunk, abide in the hearts of the drinkers like attendants, so the Maruts, invoked at the sacrifice with their limbs satisfied, abide in the hearts of those who meditate on them, as if serving them. Or else: dwelling in the body in the form of breath and the rest, they abide as if serving, performing the activities of going and so on. On the shoulders of these Maruts a lance-like weapon called शक्ति (*śakti*), or else the splendour of the arms, clings, like a woman clinging to the shoulder of a young man. Further, in their hands a hand-guard and a sword (कृतिः (*kṛtiḥ*), a cutting blade) are firmly held. The च (*ca*) words are for joining the items together. The sense is that the Maruts of the stated form appear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Marut deities
+- तृप्तांशवः (*tṛptāṃśavaḥ*)—having limbs filled (satisfied) with juice
+- सोमासः (*somāsaḥ*)—Soma plants
+- सुताः (*sutāḥ*)—pressed (in the form of juice)
+- पीतासः (*pītāsaḥ*)—being drunk
+- हृत्सु (*hṛtsu*)—in the hearts (of those who drank)
+- दुवसः न (*duvasaḥ na*)—like those who serve (they produce satisfaction)
+- असते न (*asate na*)—as they abide (those invoked at sacrifices)
+- तृप्तांशवः (*tṛptāṃśavaḥ*)—having satisfied (full) limbs
+- हृत्सु (*hṛtsu*)—in the hearts (of those who meditate)
+- दुवसः न (*duvasaḥ na*)—like those who serve
+- आसते (*āsate*)—abide
+- Or else: तृप्तांशवः (*tṛptāṃśavaḥ*)—(dwelling in the body in the form of breath and the rest)
+- दुवसः न (*duvasaḥ na*)—like those who serve (as causes of going and other activities)
+- असते (*asate*)—abide
+- एषां (*eṣāṃ*)—of these Marut deities
+- अंसेषु आ (*aṃseṣu ā*)—on the shoulders
+- रंभिणी इव (*raṃbhiṇī iva*)—like a young woman (clinging to a young man's shoulder)
+- रारभे (*rārabhe*)—(the शक्ति (*śakti*) weapon) is borne
+- (किंच (*kiṃca*)—and further)
+- हस्तेषु (*hasteṣu*)—in the hands
+- खादिः च (*khādiḥ ca*)—a shield too
+- कृतिः च (*kṛtiḥ ca*)—a sword too
+- सं दधे (*saṃ dadhe*)—is held (such Maruts appear)
+
+### Printed p. 122
+
+##### भावार्थ (Bhāvārtha)
+
+Before being pressed they are satisfied in their parts (rich in juice); after being pressed, the Soma plants, which are in the form of juice, gladden the mind of those who drink the Soma juice. Like them, these Maruts, invoked at the sacrifices, with full limbs, gladden also the mind of those who meditate on them (dwelling in the body, causing activities such as going, they produce joy). As a young woman clings to a young man's shoulder, so the शक्ति (*śakti*) weapon clings to their shoulders; that is, they bear the शक्ति (*śakti*) weapon, and they also bear sword and shield. (Such Maruts appear for our sake.)
+
+##### English translation (H. H. Wilson)
+They, who are like the Soma plants, with well-nourished branches, and then poured out (in libations), are imbibed; they abide, like devoted adherents, in the hearts (of men); upon their shoulders hangs (a lance), like a youthful female, and in their hands a guard and sword are wielded.
+
+##### विशेषविषयगळु (Special Topics)
+
+The phrase सुताः तृप्तांशवः सोमासो न (*sutāḥ tṛptāṃśavaḥ somāso na*) and the phrase हृत्तु पीतासः दुवसो न (*hṛttu pītāsaḥ duvaso na*) are similes. The Soma plants are सुताः (*sutāḥ*), that is अभिषुताः (*abhiṣutāḥ*): pressed, their juice extracted; and तृप्तांशवः (*tṛptāṃśavaḥ*): having had their parts satisfied. The meaning is that, in order to refresh those who drink the Soma juice, the Soma plants are first made fresh and plump. As the Soma creepers, before the pressing, have their limbs satisfied by being refreshed, and afterwards are pressed and become juice, they bring the Soma plant, make it fresh (so that it does not wither), and then press it and squeeze out the juice. The Maruts also, like the Soma, are सुताः (*sutāḥ*), that is आहूताः (*āhūtāḥ*): invoked at the sacrifice for the drinking of Soma, and तृप्तांशवः (*tṛptāṃśavaḥ*): having limbs that are delighted. Thus the two qualities सुताः (*sutāḥ*) and तृप्तांशवः (*tṛptāṃśavaḥ*) are described as being present in both, the object of comparison and the standard of comparison.
+हृत्सु पीतासः दुवसो न आसते (*hṛtsu pītāsaḥ duvaso na āsate*): पीतास्संतः पात्यणां हृदयेषु परिचरंत इवासते (*pītāssaṃtaḥ pātyaṇāṃ hṛdayeṣu paricaraṃta ivāsate*). After the Soma juice has been drunk, it remains in the heart of the drinker as if performing services. Likewise the Maruts, too, appear as if performing actions in the heart of those who meditate on them; this is the comparison made. This sense is set out by the sentence यज्ञॆ आहूताः तृप्तावयवाः भवंति मरुतः ध्यायमानाः संतः हृत्सु हृदयेषु परिचरंत इवासते (*yajñè āhūtāḥ tṛptāvayavāḥ bhavaṃti marutaḥ dhyāyamānāḥ saṃtaḥ hṛtsu hṛdayeṣu paricaraṃta ivāsate*). This is one kind of meaning.
+
+### Printed p. 123
+In the second meaning, introduced by यद्वा प्राणादिरूपेण शरीरे स्थिताः गमनादिचेष्टाः कुर्वंत आसते (*yadvā prāṇādirūpeṇa śarīre sthitāḥ gamanādiceṣṭāḥ kurvaṃta āsate*), another sense is explained: the Maruts, dwelling in the body in forms such as the vital breath, carry on the activities of going and coming.
+एषामंसेषु रंभिणीव आ रारभे (*eṣāmaṃseṣu raṃbhiṇīva ā rārabhe*)—युवतमांसालंबिनी योषिदिव आश्लिष्यति। अवलंबने सामर्थ्य्यात् शक्त्याख्यायुधविशेषो भुजलक्ष्मीर्वा। (*yuvatamāṃsālaṃbinī yoṣidiva āśliṣyati| avalaṃbane sāmarthyyāt śaktyākhyāyudhaviśeṣo bhujalakṣmīrvā|*) The Maruts bear on their shoulders the weapon called शक्ति (*śakti*). This bearing of the weapon is described as like a beloved young woman, or a special splendour, resting on the shoulders.
+हस्तेषु खादिः कृतिश्च संदधे (*hasteṣu khādiḥ kṛtiśca saṃdadhe*)—हस्तत्राणकः कर्तनी खड्गलता च सम्यक् धृता। (*hastatrāṇakaḥ kartanī khaḍgalatā ca samyak dhṛtā|*) Having described their form thus, that the Maruts also bear a shield and a sword in their hands, it is explained that Maruts of this form appear at the sacrifice.
+
+##### Grammar
+
+- तृप्तांशवः — तृप्ताः अंशवः येषां ते तृप्तांशवः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- हृत्सु — हृदयशब्दस्य सप्तमीबहुवचने परे पद्दन्नोमास् (पा. सू. ६-१-६३) इति हृदादेशः । ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- पीतासः — पा पाने इति धातुः । कर्मणि क्तप्रत्ययः । घुमास्थागापा (पा. सू. ६-४-६६) इति धातोरीत्वम् । प्रत्ययस्वरो भवति । जसि परे तस्यासुगागमः ।
+- दुवसः — दुवस् धातुः परिचरणार्थे प्रयुक्तः । क्विप् प्रत्ययः । धातोरंतोदात्तस्वरो भवति ।
+- आसते — आस उपवेशने इति धातुः । अदादिः । लटः प्रथमपुरुषबहुवचने झ प्रत्ययस्य अतादेशः । यद्वृत्तान्नित्यं (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । धातोरनुदात्तेत्त्वात् तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वरः शिष्यते ।
+- रारभे — रभ राभस्ये इति धातुः । लिट् । सर्वे विधयः छंदसि विकल्प्यंते इति वचनादेत्वाभ्यासलोपादयो न भवंति । छांदसत्वेनाभ्यासस्य दीर्घो भवति । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+
+### Printed p. 124
+- खादिः — खादृ भक्षणे इति धातुः । बहुलग्रहणादौणादिक इ प्रत्ययः । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- दधे — डुधाञ् धारणपोषणयोः इति धातुः । लिटः प्रथमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ स्वयु॑क्ता दि॒व आ वृथा॑ ययु॒रम॑र्त्याः॒ कश॑या चोदत॒ त्मना॑ ।  
+> अ॒रे॒णव॑स्तु विजा॒ता अ॑चुच्यवुर्दृ॒ळ्हानि॑ चिन्म॒रुतो॒ भ्राज॑दृष्टयः॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्वयुक्ताः । दिवः । आ । वृथा । ययुः । अमत्यार्‍यः । कशया । चोदत । त्मना ।  
+> अरेणवः । तुविजाताः । अचुच्यवुः । दृळ्हानि । चित् । मरुतः । भ्राजत्‍यष्टयः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते मरुतः स्वयुक्ताः स्वैर्युक्ताः परस्परं संयुक्ताः स्वेन धनेन वा
+> युक्ताः संतो दिवो म्यलोकाद्वथानायासेना वा ययुः । अवाङ्मुखमागच्छंति । हे अमर्त्या मरुतः यूयं त्मनात्मना स्वयमेव कशया । वाज्ञामैतत् । वाचा स्तुतिरूपया चोदत । प्रेरयत । स्तोतुमिति शेषः । ते च मरुतोS
+> रेणवोऽपापास्तुविजाता बहुयज्ञेषु प्रादुर्भूता भ्राजदृष्टयो दीप्ता एवंभूताः संतो दृळ्हानि चिद्बृढान्यपि पर्वतान्यचुच्यवुः । च्यावयंति । चालयंति ॥
+
+##### Gist of the bhāṣya
+
+These Maruts, स्वयुक्ताः (*svayuktāḥ*), joined with one another or provided with their own wealth, come down effortlessly (वृथा (*vṛthā*)) from the heavenly world, facing downwards. O immortal Maruts, you yourselves (त्मना (*tmanā*) = आत्मना (*ātmanā*)) urge us with the कशा (*kaśā*), which is speech (कशा (*kaśā*) is a name of speech), in the form of praise, to praise you; "to praise" is the word to be supplied. And those Maruts, free of stain (अरेणवः (*areṇavaḥ*): sinless), born in many sacrifices (तुविजाताः (*tuvijātāḥ*)), brilliant-spearing (भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*): shining), being such, shake and set in motion even the firmest mountains.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (एते (*ete*)—these Marut deities)
+- स्वयुक्ताः (*svayuktāḥ*)—mutually joined (endowed with their own wealth)
+- दिवः (*divaḥ*)—from the world of the gods
+- वृथा (*vṛthā*)—effortlessly
+- अव (*ava*)—facing downwards
+- आ ययुः (*ā yayuḥ*)—come
+- (हे (*he*)) अमर्त्याः (*amartyāḥ*)—O immortal Maruts (you)
+- त्मना (*tmanā*)—yourselves
+- कशया (*kaśayā*)—with speech (in the form of praise)
+- चोदत (*codata*)—urge (us to praise)
+- (ते (*te*)) मरुतः (*marutaḥ*)—those Marut deities
+### Printed p. 125
+- अरेणवः (*areṇavaḥ*)—sinless
+- तुविजाताः (*tuvijātāḥ*)—appearing (at many sacrifices)
+- भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*)—shining (being)
+- दृळ्हानि चित् (*dṛḷhāni cit*)—even the very firm mountains and the like
+- अचुच्युवुः (*acucyuvuḥ*)—shake
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, joined with one another, come effortlessly from the world of the gods to this world. O immortal Maruts, urge us with your own speech (to praise you). Those Maruts, sinless, appearing at many sacrifices, shining, make even the very firm mountains and the like move.
+
+##### English translation (H. H. Wilson)
+Mutually supported, they descend readily form the sky: immortal Maruts, animate us by your own words (to praise you): exempt from toil, present at many (sacrifices) brilliant-eyed, the Maruts have shaken the firmest mountains.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वयुक्ताः (*svayuktāḥ*)—The Maruts are forty-nine in number (49 persons). It is described in two ways: that they live among themselves in mutual affection, or that, the word स्व (*sva*) being explained as wealth, they are endowed with wealth.
+वृथा अव आययुः (*vṛthā ava āyayuḥ*)—The manner of the Maruts' coming is described: they descend from heaven to the sacrificial hall effortlessly, head downwards.
+त्मना कशया चोदत (*tmanā kaśayā codata*)—आत्मना स्तुतिरूपया वाचा स्तोतुं प्रेरयत। (*ātmanā stutirūpayā vācā stotuṃ prerayata|*) The word त्मना (*tmanā*) is quoted by Yāska as used in the sense of आत्मना (*ātmanā*).
+तन्नस्तुरीपमद्भुतं पुरु वारं पुरु शृना । कृष्णा पोषाय वि पृथु राये नाभा नो अस्मयुः ॥ (*tannasturīpamadbhutaṃ puru vāraṃ puru śṛnā | kṛṣṇā poṣāya vi pṛthu rāye nābhā no asmayuḥ ‖*) (Ṛ. Saṃ. 1-142-10)
+Here the meaning आत्मना (*ātmanā*) for त्मना (*tmanā*) is made clear. The word कशा (*kaśā*) is stated among the names of speech (Ni. 2-13). The wish is expressed that the Maruts may bestow words in the form of praise, in order to impel those who praise them to the manner of praising.
+
+### Printed p. 126
+The words अरेणवः (*areṇavaḥ*), तुविजाताः (*tuvijātāḥ*), भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*) are epithets of the word मरुतः (*marutaḥ*): the greatness of the Maruts is described as being sinless, born (manifested) in many sacrifices, and of abundant lustre. And their power is explained: that they shake even firm mountains.
+
+##### Grammar
+
+- स्वयुक्ताः — युजिर् योगे इति धातुः । कर्मणि क्तप्रत्ययः । स्वैः युक्ताः स्वयुक्ताः । तृतीया कर्मणि (पा. सू. ६-२-४८) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- ययुः — या प्रापणे इति धातुः । छांदसत्वेन वर्तमानार्थे लिटः प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- चोदत — चुद प्रेरणे इति धातुः । चुरादिः । लोटो मध्यमपुरुषबहुवचने लङ्वद्भावात् तादेशः । व्यत्ययेन शप् विकरणः । पुगंतलघूपधस्य च इति लघूपधस्य गुणः । तिजंतनिघातस्वरो भवति । **NOTE**
+- त्मना — मंत्रेष्वाज्यादेरात्मनः (पा. सू. ६-४-१४१) इति तृतीयायां परत आत्मन्शब्दस्याकारस्य लोपः ।
+- अरेणवः — न विद्यते रेणुः येषां ते अरेणवः । नञ्सुभ्यां (पा. सू. ६-२-१७२) इत्युत्तरपदांतोदात्तस्वरो भवति ।
+- अचुच्यवुः — चुज् गतौ इति धातुः । प्रयोजकव्यापारदर्शनादंतर्भावितण्यर्थो भवति । छांदसत्वेन लज् व्यत्ययो बहुलं इति परस्मैपदी भवति । झौ परे बहुलं छंदसि इति शसि श्ल्वादेशः । धातोर्द्वित्वे सिजभ्यस्तवितिभ्यश्च (पा. सू. ३-४-१०९) इति झेर्जुसादेशः । जुसि च (पा. सू. ७-३-८३) इत्युकारस्य गुणः । अवादेशः । अंगस्याडागमः । तिजंतनिघातस्वरो भवति ।
+- दृढानि — दृह वृद्धौ इति धातुः । क्तप्रत्ययः । होढः इति सूत्रेण हकारस्य ढत्वे रुषस्तथोः इति तकारस्य धत्वम् । ष्टुत्वेन तस्य ढत्वे ढोढे लोपः इति पूर्वढकारस्य लोपः । प्रत्ययस्वरेणांतोदात्तो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 120. pp. 115-120 (batch API)
+**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
