@@ -2678,6 +2678,159 @@ It is said in the Āśvalāyana Gṛhya-sūtra that this Ṛk is to be recited a
 
 त्वः समर्ये वोचेमहि (*tvaḥ samarye vocemahi*)—"on another day, after performing the sacrifice, we shall praise Indra's greatness." Here the word समर्य (*samarya*) is explained as सह मर्याः मर्त्याः ऋत्विजः यस्मिन् स समर्यो यज्ञः तस्मिन् । संग्रामे (*saha maryāḥ martyāḥ ṛtvijaḥ yasmin sa samaryo yajñaḥ tasmin | saṃgrāme*). The word मर्य (*marya*) is listed among the names of men (Ni. 3-8). The setting in which, together with men, the priests perform the necessary duties in the sacrificial hall is the sacrifice denoted by the word समर्य (*samarya*); or it is war, the setting in which men contend in order to accomplish their aims. Thus the meaning is described: we shall praise Indra's greatness in sacrifices and in battles.
 
+### Printed p. 109
+**Special Topics** (continued)
+"पुरा महि नः (*purā mahi naḥ*)": in an earlier, past time too we proclaimed for our sake the great strength; that is, in the days before the sacrifice as well, we have been praising the greatness of the very powerful Indra who has favoured us. "नः ऋभुक्षाः अनु स्यात् (*naḥ ṛbhukṣāḥ anu syāt*)": may Indra, dwelling among ordinary men, be the fulfiller of the wishes of us, the sacrificers. The word ऋभुक्षाः (*ṛbhukṣāḥ*) is stated among the names meaning "great" (Ni. 3-13). And:
+मा नो मित्रो वरुणो अर्यमायुरिंद्र ऋभुक्षा मरुतः परि ख्यन् । यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि ॥ (*mā no mitro varuṇo aryamāyuriṃdra ṛbhukṣā marutaḥ pari khyan | yadvājino devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi ‖*) (Ṛ. Saṃ. 1-162-1).
+In this Ṛk the word ऋभुक्षाः (*ṛbhukṣāḥ*) is explained as one who dwells in the atmosphere, or, *kṣayati* having the sense of lordship, as the king of the Ṛbhus, the gods; thus the abundant greatness of Indra is set forth.
+
+##### Grammar
+
+- प्रेष्ठाः — अतिशयेन प्रियाः प्रेष्ठाः । अतिशायने तमबिष्ठन् (पा. सू. ५-३-५५) इति इष्ठन् प्रत्यये परे प्रियस्थिरस्फिरोरु— (पा. सू. ६-४-१५७) इति प्रियशब्दस्य प्रादेशः । प्रकृत्यैकाच् (पा. सू. ६-४-१६३) इति प्रकृतिभावः । गुणः । प्रत्ययस्य नित्त्वादाद्युदात्तस्वरो भवति ।
+- वोचेमहि — वच परिभाषणे धातुः । लिज् उत्तमपुरुषबहुवचने व्यत्ययेन महिज् प्रत्ययः । व्यत्ययो बहुलं इति अज् । लिजः सीयुट् । सलोपे गुणः । अज् परत्वात् वचउं (पा. सू. ७-४-२०) इति धातोरुमागमः । मित्त्वादंत्याचः परः । गुणः । अतिजंतस्य परत्वान्निघातस्वरो भवति । **NOTE**
+- समर्ये — सह मर्याः यस्मिन् तस्मिन् समर्ये । समासस्य (पा. सू. ६-१-२२३) इति अंतोदात्तस्वरो भवति ।
+- ऋभुक्षाः — उरु अथवा ऋतु शब्द उपपदे भा दीप्तौ अथवा भू सत्तायां धातोः मृगय्वादयश्च (उ. सू. १-३८) इति कु प्रत्ययः । पूर्वपदस्य ऋभावो निपातनात्सिद्ध्यति । ऋभु इत्युपपदे क्षि निवासगत्योः धातुः । अस्मात् पथेस्थ— (उ. सू. ४-४५२) इति विहित इनि प्रत्ययो बहुलवचनाद्भवति । धातोष्टेर्लोपः । सु परे पथिमथ्यृभुक्षमात् (पा. सू. ७-१-८५) इत्यात्त्वम् । प्रत्ययस्वरेणाकार उदात्तो भवति ।
+
+### Printed p. 110
+- स्यात् — अस भुवि धातुः । विधिलिज् प्रथमपुरुषैकवचने तिप् । इकारलोपः । शपो विकरणस्य लुक् । लिजो यासुटागमः । जित्त्वात् त्वसोरल्लोपः (पा. सू. ६-४-१११) इति धातोरकारलोपः । उपसर्गात् सु— (पा. सू. ८-२-६५) इति संहितायां सत्वं भवति । **NOTE**
+- नरां — नृ नये धातुः । विट् प्रत्ययः । षष्ठीबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१८) इति विभक्तेरुदात्तस्वरो भवति ।
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वः॒ स्तोमो॑ मरुत इ॒यं गीर्मां॑दा॒र्यस्य॑ मा॒न्यस्य॑ का॒रोः ।  
+> एषा या॑सीष्ट त॒न्वे॑ व॒यां वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वः । स्तोमः । मरुतः । इयं । गीः । मांदार्यस्य । मान्यस्य । कारोः ।  
+> आ । इषा । यासीष्ट । तन्वे । वयां । विद्याम । इषं । वृजनं । जीरदानुं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष एत्येकादशी व्याख्याना ॥ (69 ने पुटवन्नु नोडि)
+
+##### Gist of the bhāṣya
+
+"एष (*eṣa*)" (Ṛk 11) is explained already; see p. 69.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- मांदार्यस्य (*māṃdāryasya*)—of one who delights with praises
+- मान्यस्य (*mānyasya*)—of the venerable one
+- कारोः (*kāroḥ*)—of the praiser
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise (made so far); may it be pleasing to you
+- इयं गीः (*iyaṃ gīḥ*)—this speech (of praise) too, be for you
+- इषा (*iṣā*)—with desire
+- तन्वे (*tanve*)—for (the growth of) the body
+- यासीष्ट (*yāsīṣṭa*)—may (the praise) approach you
+- वयं (*vayaṃ*)—we
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain
+
+### Printed p. 111
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may the praise made so far and this praise-speech now made bring you satisfaction; come, at the wish of the praiser, who gives you joy and is venerable, for the nourishment of your bodies; and grant us also food, strength and long life.
+
+##### English translation (H. H. Wilson)
+This praise, Maruts, is for you; this hymn is for you. (the work) of a venerable author, capable of conferring delight (by his laudations): may the praise reach you for (the good of your) persons, so that we may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+By "एषः स्तोमः वः (*eṣaḥ stomaḥ vaḥ*)" the Maruts are addressed: may this praise, of the manner now made by us, the sacrificers, and full of glory, bring you joy.
+"इयं गीः (*iyaṃ gīḥ*)": this speech in the form of praise too be for your delight, O gods.
+*Māndāryasya*: this word is used as an epithet of कारोः (*kāroḥ*). The word कारुः (*kāruḥ*) is read among the names of praisers (Ni. 3-19). By मांदार्य (*māṃdārya*) the meaning is given: one who by his praises makes the glory of the god praised shine, and increases exhilaration; by मान्यस्य (*mānyasya*): one who, through the favour of gods pleased by his praise, obtains boons and is worthy of honour; and this is explained by स्तोतृविशेषैः मंदयितुः स्तुतिभिः मदस्य प्रेरयितुर्वा वरप्रदानादिना माननीयस्य (*stotṛviśeṣaiḥ maṃdayituḥ stutibhiḥ madasya prerayiturvā varapradānādinā mānanīyasya*).
+"Vayāṃ tanve iṣaṃ vṛjanaṃ jīradānuṃ vidyāma": वयं शरीराय तत्पोषाय अन्नं बलं जयशीलदानं युष्मास्वागतेषु यज्ञसंपूर्त्येष्ट्यादिद्वारा लभेमहि (*vayaṃ śarīrāya tatpoṣāya annaṃ balaṃ jayaśīladānaṃ yuṣmāsvāgateṣu yajñasaṃpūrtyeṣṭyādidvārā labhemahi*). Because the sacrifice is completed without obstacle through the gods' coming, and our wishes are favoured by the gods, the gods are prayed that for the growth of our bodies we may obtain food and strength, be victorious, and be of a nature to give abundant gifts.
+
+### Printed p. 112
+The word इष (*iṣa*) is stated among the names of food (Ni. 3-9). The word वृजन (*vṛjana*) is read among the names of strength (Ni. 3-9); here the meaning "strength" is given. The Nirukta-writers cite its use in another sense too:
+. महां आमत्तो वृजने विरप्यु १ ग्रं शवः पत्यते धृष्ट्वाजः । नाह विव्याच पृथिवी चनैनं यत्सोमासो हर्यश्वममंदन् ॥ (*. mahāṃ āmatto vṛjane virapyu 1 graṃ śavaḥ patyate dhṛṣṭvājaḥ | nāha vivyāca pṛthivī canainaṃ yatsomāso haryaśvamamaṃdan ‖*) (Ṛ. Saṃ. 3-36-4).
+Here व्यजने संग्रामे (*vyajane saṃgrāme*): the meaning is given as "in battle". **NOTE**
+
+##### Grammar
+
+- इदं पूर्वं ऋ. सं. १-१६६-१५ इत्यत्र व्याख्यातम् ।
+
+End of Sūkta 167.
+
+## Sūkta 168 (Maṇḍala 1)
+Sāyaṇa's introduction: this is the fourth sūkta in the twenty-third anuvāka, "यज्ञायज्ञा (*yajñāyajñā*)", of ten Ṛks, of Agastya, to the Maruts. The last three verses are Triṣṭubh; the rest, seven, are Jagatī by the rule that those ending in triṣṭubh-measure are jagatī. The Anukramaṇī says "yajñāyajñā daśa tritriṣṭubantam". The special application is by indication (liṅga).
+
+Anuvāda: the sūkta "यज्ञायज्ञा (*yajñāyajñā*)" is the fourth in the twenty-third anuvāka, with ten Ṛks. Agastya is the seer, the Maruts the deity. The last three Ṛks are in Jagatī metre. The Anukramaṇī says "Yajñāyajñā daśa tritriṣṭubantam". The special application is Laiṅgika.
+
+### Printed p. 113
+Maṇḍala 1; Anuvāka 23; Sūkta 168; Aṣṭaka 2; Adhyāya 4; Vargas 6, 7. Number of Ṛks in the sūkta: 10. Seer: Agastya. Deity: Maruts. Metre: 1-7 Jagatī; 8-10 **NOTE** Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज्ञायज्ञा वः समना तुतुर्वणिर्धियंधियं वो देवया  
+> उ दधिध्वे ।  
+> आ वोर्वाचः सुविताय रोदस्कोर्महे ववृत्यामवसे  
+> सुवृक्तिभिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञायज्ञा । वः । समना । तुतुर्वणिः । धियंधियं । वः । देवयाः । ऊं  
+> इति । दधिध्वे ।  
+> आ । वः । अर्वाचः । सुविशाय । रोदस्योः । महे । वव्नत्यां । अवसे ।  
+> सुवृक्तिभिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वः समना समीकृतिर्न्यूनाधिकाभावलक्षणा यज्ञा यज्ञा
+> सर्वेष्टपि यज्ञेषु तुर्वणिस्तूर्णवनिस्तरमाणा संभजमाना भवति । तुर्वणिस्तूर्णवनिरिति यास्कः ॥ नि. ६-१४ । तत्तद्यागावसर अगत्य हविः स्वीकृत्य वैकल्यपरिहारेण
+> सपुं कुरुथेत्यर्थः । किं च वो यूयं धियं धियं युष्मत्संबंधिवृष्टिप्रदा-
+> XIII 8
+
+### Printed p. 114
+
+> नादिरूपं सर्वं कर्म देवया देवान्प्रापयितार एव संतो दधिध्वे । धारयथ
+> धारयथै वा । देवार्थहविराद्युत्पादनाय वृष्टिं कुरुथेत्यर्थः । यस्मादेवं
+> कुरथ तस्माद्वो यष्मानर्वाचोऽस्मदभिमुखाना ववृत्यां । आवर्तयामि ।
+> किमर्थं । रोदस्योर्द्यावापृथिव्योर्महे महतेवसे रक्षणाय प्रीणनाय वा ।
+> तदपि किमर्थमिति । सुविताय सुष्टु व्याप्ताय । कैः साधनैः । सुव्यक्तिभिः शोभनावर्जनैः स्तोत्रैः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Maruts: your equal mind, free of lack or excess, in every sacrifice swiftly pervades (*turvaṇistūrṇavaniḥ*, Yāska, Ni. 6-14); come at each sacrifice, accept the oblation and remove deficiencies. Further, you, bringing the gods, bear every work of yours, such as giving rain; or: bear it. Make rain to produce oblations for the gods. Since you do so, I turn you toward us, for the great protection or satisfaction of heaven and earth; and for what purpose? for सुविताय (*suvitāya*), well-pervading, with what means? with good-turning hymns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे मरुतः (*he marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- समना (*samanā*)—equal mind, without sense of more or less
+- यज्ञायज्ञा (*yajñāyajñā*)—in every sacrifice
+- तुतुर्वणि (*tuturvaṇi*)—pervades swiftly
+- वः (*vaḥ*)—you
+- धियंधियं (*dhiyaṃdhiyaṃ*)—every work of yours, such as giving rain
+- देवया उ (*devayā u*)—as those who unite with the gods
+- दधिध्वे (*dadhidhve*)—you bear (perform)
+- वः (*vaḥ*)—you
+- रोदस्योः (*rodasyoḥ*)—of heaven and earth
+- सुविताय (*suvitāya*)—well pervaded
+- महे अवसे (*mahe avase*)—for great protection (satisfaction)
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with auspicious praises
+- अर्वाचः (*arvācaḥ*)—facing us
+- ववृत्यां (*vavṛtyāṃ*)—I turn
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your equal mind, free of lack or excess, pervades all sacrifices. And you perform all works (giving rain and so on) for the benefit of the gods, in the form of their obtaining oblations. Therefore, for your satisfaction and for the protection of earth and sky, I turn you toward us with auspicious praises.
+
+##### English translation (H. H. Wilson)
+Maruts, at every sacrifice your alacrity is uniform : you, verily, discharge your every function for the benefit of the gods : therefore, do I invite you to come hither, by sacred hymns, for (the sake of) your powerful protection of heaven and earth, and your beneficent praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+"Vaḥ samanā yajñāyajñā tuturvaṇī": addressing the Maruts: in all sacrifices, that is, at the times when each sacrifice is performed by the sacrificers, they grant their presence to receive the oblation, and the lack or excess that may occur in the sacrifice
+
 ---
 
-**Progress note:** Done through printed p. 108. pp. 103-108 (batch API)
+**Progress note:** Done through printed p. 114. pp. 109-114 (batch API)
