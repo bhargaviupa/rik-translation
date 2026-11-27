@@ -13737,6 +13737,159 @@ in these and other places it is used in the sense of supernatural and powerful s
 
 "O Aśvins, one of you, whose place is the middle region, is शरद्वान् (*śaradvān*), possessed of shattering: one who shatters clouds, tree-leaves and the like. Or else, it means one of many years, ancient, eternal." Then he begins to explain वृषभो (*vṛṣabho*).
 
+### Printed p. 577
+
+> न । वर्षितैवेंद्रः । स इव शत्रूणां निष्पाणिसारयिता सन् पूर्विर्बह्वीः पुरातनीर्वेषोऽन्नानि सस्यादीन्न्युद्दिश्य प्र चरति । प्रकर्षेण गच्छति । मध्यमस्थानश्चंद्र
+> इति पक्षे शरद्वाङ्गरत्कालवान् । तस्मिन्नृतौ हि चंद्रः संनद्दो भवति । तेन च
+> तृणगुल्मौषध्यादीनि वर्धंते । स किमिर्थमेवं करोतीति उच्यते । मध्व इष्टन्
+> मधुनो मधुसदृशस्य हविषः ॥ कर्मणि षष्ठी ॥ हविरिच्छन् । तदर्थमेवं करोति ।
+> तथान्यस्कोत्तमादित्यस्यैवैः कामैर्गमनैर्वा निमित्तभूतैः पीपयंत । आप्याययंति हविर्भिर्यजमानाः । तुष्टेन तेन प्रेरिता वेषंतीर्व्यापयंतीरूर्ध्वा
+> उन्नता उत्तीरा नद्यो न नदनशीला यथा नोऽस्मदर्थवागुः आगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his comment on the Ṛk. The first of the two Aśvins is compared to Indra, the rainer. Like him, he drives out his enemies. Aiming at the many ancient foods, such as plants and grain, he moves forward. On the alternative that he is the moon of the middle region, शरद्वान् (*śaradvān*) means "possessed of the autumn season". In that season the moon is full, and by it grasses, shrubs, herbs and the like grow. Why does he act so? He desires an oblation like honey, and for that reason he does so. Likewise, the oblation-offering sacrificers nourish the other, the highest Āditya, by his desires or goings as the cause. Impelled by him, thus pleased, the pervading, high-rising rivers, like roaring streams, come to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- शरद्वान् (*śaradvān*)—one who scatters clouds, trees, leaves and the like; or one distinguished by the autumn season
+- वृषभः न (*vṛṣabhaḥ na*)—like Indra, the shower of desires
+- निष्पाट् (*niṣpāṭ*)—one who drives away enemies
+- वां (*vāṃ*)—of you two (the moon, one of you)
+- पूर्वीः (*pūrvīḥ*)—of many kinds, or ancient
+- इषः (*iṣaḥ*)—foods in the form of plants, aiming at them
+- मध्वः (*madhvaḥ*)—the honey-like oblation
+- इष्टन् (*iṣṭan*)—desiring
+- प्र चरति (*pra carati*)—moves about abundantly
+- अन्यस्य (*anyasya*)—of the Āditya of the highest world
+- एवैः (*evaiḥ*)—by desires or by goings (with these as the aim)
+- वाजैः पीपयंत (*vājaiḥ pīpayaṃta*)—they satisfy (him) with oblations and the like (and, impelled by him thus satisfied)
+- वेषंतीः (*veṣaṃtīḥ*)—pervading (good fruits)
+- ऊर्ध्वाः (*ūrdhvāḥ*)—flowing over the bank
+- नद्यः (न) (*nadyaḥ (na)*)—like rivers
+- नः (*naḥ*)—for us
+- आ गुः (*ā guḥ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the moon of the middle world, one of you two, scatters the clouds and the like (as the autumnal one) and, like Indra, drives away enemies. Desiring oblations and the like, he moves about, favouring us with abundant food. The sacrificers satisfy the other one with oblations and the like. Through him, good fruits come to be obtained, as river water flows over its banks.
+
+##### English translation (H. H. Wilson)
+(One of you), the disperser (of the clouds), like Indra, the annihilator
+(of his foes), desirous of the oblation, proceeds, (bestowing) abundant food.
+(Devout worshippers) cherish with (sacrificial) viands, (the faculties) of the
+other, for the sake of favours, wich flow upon us like swelling rivers.
+
+### Printed p. 578
+
+##### विशेषविषयगळु (Special Topics)
+
+One of the Aśvin deities bears the epithet शरद्वान् (*śaradvān*). Sāyaṇa has given two kinds of meaning for this epithet. First, शरद्वान् (*śaradvān*) is शरणवान् (*śaraṇavān*), "one who scatters clouds, trees, leaves and the like"; that is, one who, as the time requires, brings trees and leaves to fullness and scatters them. Explaining this meaning, the Nirukta gives this etymology of the word:
+शरच्छृता अस्यामोषधयो भवंति । शीर्षा आप इति ना । (*śaracchṛtā asyāmoṣadhayo bhavaṃti | śīrṣā āpa iti nā |*) (Ni. 4-25).
+In this season herbs ripen, or river currents subside; hence the name "autumn". Since the moon is the impeller of both these processes, the epithet शरद्वान् (*śaradvān*) is used here on behalf of the deity among the Aśvins who has the moon's form. Or, according to the second meaning, बहुसंवत्सरः पूर्वतनो नित्यः (*bahusaṃvatsaraḥ pūrvatano nityaḥ*): one who has many years, that is, one who is eternal. The Ṛksaṃhitā passages themselves can be taken as the basis for stating this meaning. For example:
+तच्चक्षुदेवहितं शुक्रमुच्चरत् । पश्येम शरदः शतं जीवेम शरदः शतं ॥ (*taccakṣudevahitaṃ śukramuccarat | paśyema śaradaḥ śataṃ jīvema śaradaḥ śataṃ ‖*) (Ṛ. Saṃ. 7-66-16)
+दीर्घायुरस्या यः पतिर्जीनाति शरदः शतं (*dīrghāyurasyā yaḥ patirjīnāti śaradaḥ śataṃ*) (Ṛ. Saṃ. 10-85-39)
+In all such Ṛks, शरद् (*śarad*) means the year consisting of autumns. Likewise in the present Ṛk also, the meaning given is "one whose time takes the form of many years"; the purport is that he is eternal.
+निष्पाट् (*niṣpāṭ*) (शत्रुणां निःसारयिता (*śatruṇāṃ niḥsārayitā*)): one who beats down enemies and drives them away. The Nirukta also, quoting the Ṛk in which this word is used,
+अभी ३ दमेकमेको अस्मि निष्पाळभी द्वा किमु त्रयः करंति । खले न पर्षान् प्रति हन्नि भूरि किं मा निंदंति शत्रवोऽनिंद्राः ॥ (*abhī 3 damekameko asmi niṣpāḷabhī dvā kimu trayaḥ karaṃti | khale na parṣān prati hanni bhūri kiṃ mā niṃdaṃti śatravo 'niṃdrāḥ ‖*) (Ṛ. Saṃ. 10-48-7)
+explains: निष्पहमाणः शत्रुनभिभवामि (*niṣpahamāṇaḥ śatrunabhibhavāmi*), "crushing my enemies I overcome them". In the present Ṛk also the meaning is one who drives away enemies.
+
+### Printed p. 579
+
+एवैः (*evaiḥ*)—कामैरयनैरवनैर्वा (*kāmairayanairavanairvā*) (Ni. 12-21). Indicating free and unobstructed movement, this word is ordinarily an epithet of the Maruts, who are always of a moving nature and are friends of Indra. But in the present Ṛk it is an epithet of the horses of the deity in the form of the Āditya (one of the Aśvin deities).
+पीपयंत (*pīpayaṃta*)—This word is formed from the root प्सै (*psai*) and gives both meanings, "make grow" and "make manifest". This was explained with examples, and its particular meanings were given in the preceding Ṛk.
+वेषंतीः (*veṣaṃtīḥ*)—This word is formed from the root विष् (*viṣ*), which means pervading. Wherever this usage occurs, ordinarily only two meanings are principal.
+अव स्म यस्य वेषणे स्वेदं पथिषु जुह्वति । अभीमह स्वजेन्यं भूमा पृष्ठेव रुरुहुः ॥ (*ava sma yasya veṣaṇe svedaṃ pathiṣu juhvati | abhīmaha svajenyaṃ bhūmā pṛṣṭheva ruruhuḥ ‖*) (Ṛ. Saṃ. 5-7-5)
+In such places the meaning is service, that is, acts of worship and the like; in the present Ṛk the meaning is "pervade". But in
+नि यद्युवेथे नियुतः सुदानू उप स्वधाभिः सृजथः पुरंधिं । प्रेषद्वेषद्वातो न सूरिरा महे ददे सुव्रतो न वाजं ॥ (*ni yadyuvethe niyutaḥ sudānū upa svadhābhiḥ sṛjathaḥ puraṃdhiṃ | preṣadveṣadvāto na sūrirā mahe dade suvrato na vājaṃ ‖*) (Ṛ. Saṃ. 1-180-6)
+Sāyaṇa explains that if the word is said to be formed from the root विष् (*viṣ*), the meaning is "pervade", and if from the root इष् (*iṣ*), the meaning is "desire". In the present Ṛk alone the meaning is only "pervading everywhere": good fruits come abundantly to the sacrificer and gather there.
+
+##### Grammar
+
+- शरद्वान् — शरदः अस्य संति इति शरद्वान् । मतुप् प्रत्ययः । माडुपधायाश्च इति मकारस्य वत्वम् । प्रत्ययस्य पित्त्वात् अनुदात्तत्वं भवति ।
+- निष्पाट् — षह मर्षणे इति धातुः । छंदसि सहः (पा. सू. ३-२-६३) इति णि प्रत्ययः । आत उपधायाः (पा. सू. ७-२-११६) इति धातोरुपधाया वृद्धिः । सहेः साडः सः (पा. सू. ८-३-५६) इति धातुसकारस्य षत्वम् । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- मध्वः — जसादिषु छंदसिवा वचनं इति वचनात् गुणादयः न भवंति । कर्मार्थे षष्ठी आगता ।
+
+### Printed p. 580
+
+- इष्णन् — इषु इच्छायां धातुः । क्रादिः । लटः शत्रादेशः । क्रादिभ्यः श्ना इति श्ना विकरणम् । प्रत्ययस्य जित्वाति देशः अस्ति इति श्नाभ्यस्तयोरातः (पा. सू. ६-४-११२) इति विकरणस्य आकारस्य लोपः । षकारनिमित्तत्वात् रषाभ्यां नोनः समानपदे इति प्रत्ययनकारस्य णत्वम् । प्रत्ययस्य आद्युदात्तस्वरः भवति । **NOTE**
+- एवैः — इण् गतौ इति धातुः । इण्‌शीभ्यां वन् (उ. सू. १-१५०) इति वन् प्रत्ययः । सार्वधातुकार्थधा इति धातोः गुणः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः भवति ।
+- वेषंतीः — वी गत्यादिषु इति धातुः । लटः शत्रादेशः । सिब्बहुलं लेटि (पा. सू. ३-१-३४) इत्यत्र बहुलग्रहणस्वारस्यात् सिप् । तं निमित्तीकृत्य धातोः इकः गुणः । स्त्रीत्वे उगितश्च इति जीप् । नुमागमः । सुपां सुलुक् इति जसि परे पूर्वसवर्णदीर्घः ।
+- आगुः — इण् गतौ इति धातुः । छांदसत्वेन लुङ् । इणो गा लुजि (पा. सू. २.४-४५) इति गादेशः । च्लेः सिचि आगते गातिस्थाघुपा (पा. सू. २-४-७७) इति तस्य लुक् । आतः इति झेः जुसादेशः । पररूपम् । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑र्जि वां॒ स्थवि॑रा वेधसा॒ गीर्बा॒ळ्हे अ॑श्विना त्रे॒धा क्षरं॑ती ।  
+> उप॑स्तुताववतं॒ नाध॑मानं॒ याम॒न्नया॑मञ्छणुतं॒ हनं॑ मे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असर्जि । नां । स्थविरा । वेधसा । गीः । बाळ्हे । अश्विना । त्रेधा । क्षरंती ।  
+> उपस्तुतौ । अवतं । नाधमानं । यामन् । आयामन् । शृणुतं । हवं । मे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वेधसा विधातारावश्विन् वां युवयोर्बाळ्ही दृढे स्थैर्ये निमित्तभूते सति गीः स्तुतिरूपा वागसर्जि । सृज्यते । कीदृशी सा । स्थविरात्यंतं स्थिरा नित्या
+
+##### Gist of the bhāṣya
+
+O Aśvins, creators: when your firm steadiness is the cause, a speech in the form of praise is created for you. Of what sort is it? It is very stable and eternal.
+
+### Printed p. 581
+
+> वेदमयिा त्रेधा मंत्रादिभेदेन त्रिप्रकारा क्षरंती युवां गच्छंती । ईदृशी स्तुतिः
+> कृतेत्यर्थः । तथोपस्तुतौ संतौ नाधमानमभिमतफलं याचमानमवतं । रक्षतं
+> तर्पयतं वा । किंच यामन्गमनेयामन्नगमने च हवमाह्वानं शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+It is Veda-made, threefold by the division into mantra and so on, and going to you; such praise has been made. Likewise, being so praised, protect, or else satisfy, the one who begs for the desired fruit. Further, hear the invocation both in going and in not going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे वेधसा (*me vedhasā*)—you who are creators (makers) **NOTE**
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—of you two
+- बाळ्हे (*bāḷhe*)—with the aim of firm (steady) favour
+- स्थविरा (*sthavirā*)—very stable (eternal, or Veda-made)
+- त्रेधा (*tredhā*)—threefold by the division of mātrā and so on **NOTE**
+- क्षरंती (*kṣaraṃtī*)—going, directed to you
+- गीः (*gīḥ*)—the praise
+- असर्जि (*asarji*)—has been created (by us)
+- उपस्तुतौ (*upastutau*)—(thus) being praised
+- नाधमानं (*nādhamānaṃ*)—the one who is begging for the desired fruit
+- अवतं (*avataṃ*)—protect, or satisfy (by giving the fruit)
+- यामन् (*yāman*)—also at the time of going
+- अयामन् (*ayāman*)—also at the time of not moving about
+- मे (*me*)—my
+- हवं (*havaṃ*)—invocation with praise
+- श्रुणुतं (*śruṇutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, creators! Be pleased with this praise of ours, which is Veda-made, threefold in the form of mantra and so on, reaching you alone, and employed with the aim of your firm (steady) favour. Grant the desired gift to me, the petitioner, and protect me. Further, accept our invocation with praise, both in moving about and in resting.
+
+##### English translation (H. H. Wilson)
+Ashwins, creators, the perpetual threefold hymn, addressed to you, has been uttered, (to seeure) your steady (favour): thus glorified, protect him who solicits (your bounty), and, whether moving or resting, hear his invocation.
+
+##### विशेषविषयगळु (Special Topics)
+
+वेधसा (*vedhasā*)—विधातारौ अश्विन् (*vidhātārau aśvin*): in this Ṛk the Aśvin deities are called creators. The word वेधस् (*vedhas*) is read in the Nirukta among the names of the wise (Ni. 3-19). In many places this word is an epithet of the wise sacrificer. Even where in some places the meaning "producer" occurs, it can only mean the producer of the sacrificial fruit; the word does not seem to be used with reference to the creator of the world. But
+
+### Printed p. 582
+
+यः पूर्व्याय वेधसे नुवीयसे सुमज्ञानये विष्णवे ददाशति । यो जातमस्य महतो महि ब्रवत्सेदु श्रवोभिर्युज्यं चिदभ्यसत् ॥ (*yaḥ pūrvyāya vedhase nuvīyase sumajñānaye viṣṇave dadāśati | yo jātamasya mahato mahi bravatsedu śravobhiryujyaṃ cidabhyasat ‖*) (Ṛ. Saṃ. 1-156-2)
+Here alone, since the form of the creator of the world is described, the word वेधसे (*vedhase*) is explained as "the creator of the manifold world". In the present Ṛk also, though it is addressed to the Aśvin deities, the meaning given is विधातारौ अश्विन् (*vidhātārau aśvin*). If it is asked what connection the Aśvin deities have with the creation of the world, it can be answered, on the basis of a Śruti passage, that they are directly connected with it. How? Thus:
+एतद्वै प्रजापतिरेतस्मिन्नात्मनः प्रतिहितेऽकामयत प्रजाः सृजेय प्रजायॆयेति स ऋतुभिरद्धिः प्राणैः संवत्सरेणाश्चिभ्याग्ंसयुग् भूत्वैताः प्रजाः प्राजनयत्तथैवैतद्यजमान एताभिर्देवताभिः सयुग्यूत्वैताः प्रजाः प्रजनयति । ............. ........ अग्निर्वैश्वानरः संवत्सरेण वै सयुग्यूत्वा प्राजनयदश्विनाध्वर्यू सादयतामिह त्वेत्वश्विभ्यां वै सयुग्यूत्वा प्राजनयत् ॥ (*etadvai prajāpatiretasminnātmanaḥ pratihite 'kāmayata prajāḥ sṛjeya prajāyèyeti sa ṛtubhiraddhiḥ prāṇaiḥ saṃvatsareṇāścibhyāgṃsayug bhūtvaitāḥ prajāḥ prājanayattathaivaitadyajamāna etābhirdevatābhiḥ sayugyūtvaitāḥ prajāḥ prajanayati | ............. ........ agnirvaiśvānaraḥ saṃvatsareṇa vai sayugyūtvā prājanayadaśvinādhvaryū sādayatāmiha tvetvaśvibhyāṃ vai sayugyūtvā prājanayat ‖*) (Śa. Brā. 8-2-2-7 to 8)
+It says that Prajāpati, desiring to create creatures, created the world united with the seasons, the vital breaths, the year and the Aśvin deities. Since a direct connection between them and the creation of the world is thus stated, the word वेधसा (*vedhasā*) in the present Ṛk can be given the meaning विधातारौ (*vidhātārau*), that is, "creators".
+बाळ्ही (*bāḷhī*)—This word means firm, steady.
+स व्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः । विसृष्टरातिर्याति बाळ्ह सृत्वा विश्वासु पृत्सु सदमिच्छूरः ॥ (*sa vrādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ | visṛṣṭarātiryāti bāḷha sṛtvā viśvāsu pṛtsu sadamicchūraḥ ‖*) (Ṛ. Saṃ. 1-122-10)
+As in this verse the meaning is firm or steady, so in the present Ṛk also it means a steady speech of praise.
+त्रेधा गीः (*tredhā gīḥ*) is explained as वाग मंत्रादि भेदेन त्रिप्रकारा (*vāga maṃtrādi bhedena triprakārā*), and there is also the epithet स्थविरा (*sthavirā*). Here it can be threefold as Ṛk, Yajus and Sāman; or, because of the epithet of śastra, stoma and stotra, and also because Sāyaṇa explains the purport of this word as अत्यंतं स्थिरा नित्या वेदमयी (*atyaṃtaṃ sthirā nityā vedamayī*), here Ṛk, Yajus and Sāma
+
 ---
 
-**Progress note:** Done through printed p. 576. pp. 571-576 (batch API), quotation copied exactly from kn.md
+**Progress note:** Done through printed p. 582. pp. 577-582 (batch API)
