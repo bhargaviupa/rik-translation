@@ -8,3 +8,4 @@ batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date
 7	152	181	46	37	37	0	9	255k	750bb9d6	2026-11-27	all pages read; 21 [?] seen, 7 removed, 14 kept
 8	182	211	33	28	28	0	5	213k	649ae3f4	2026-11-27	all pages read; 7 [?] seen, 2 removed, 5 kept
 9	300	368	112	102	111	0	10	301k	(this commit)	2026-11-27	mark-only batch q1-q150 (marks of pp. 2-368 left after qmark_strip): 134 settled, 16 kept; marks 1041 -> 907
+10	350	499	160	156	137	0	4	287k	(this commit)	2026-11-27	mark-only batch pp. 350-499: 150 of 154 settled, 4 kept; marks 907 -> 757
