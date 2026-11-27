@@ -761,3 +761,95 @@
 | page | old → new | why |
 |---|---|---|
 | 508 | `read from the image; doubtful places [?].)*` → `read from the image.)*` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (the mark of q25 is this clause; the first edit settled the unmarked "[? the way]") |
+
+### 2026-11-27 second pass, batch m580-619.tsv
+| page | old → new | why |
+|---|---|---|
+| 580 | `read from the image; doubtful words marked [?].)` → `read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q25) |
+| 580 | `(Ni. 6-[?], [?])` → `(Ni. 6-13)` | SECOND-PASS Q1: Kannada p.580 (Sāyaṇa block) ನಿ. ೬-೧೩ (q26,q27) |
+| 581 | `(Ni. 2-28, as read "೨-೨೫" [?])` → `(Ni. 2-28)` | SECOND-PASS Q1: Kannada p.581 (ನಿ. ೨-೨೮) after ರೋಹಿತೋಽಗ್ನೇಃ… (q28) |
+| 582 | `(Ni. 2-[?], as read "೨-೯" [?])` → `(Ni. 3-9)` | SECOND-PASS Q1: Kannada p.582 prints ಅಜಿರ…ಕ್ಷಿಪ್ರನಾಮಗಳಲ್ಲಿ ಪಠಿತ (ನಿ. ೩-೯) (q29,q30) |
+| 582 | `(Ṛ. Saṃ. 2-31-[?]; as read "೨-೩೧-೪"; the second line is doubtful in several letters [?].)` → `(Ṛ. Saṃ. 7-39-4.)` | SECOND-PASS Q1: Kannada p.582 prints (ಋ. ಸಂ. ೭-೩೯-೪) after this very Ṛk te hi yajñeṣu; doubtful-letters clause is a meta-remark (q31,q32) |
+| 583 | `(Ni. 6-13 [as read, numerals doubtful [?]; the wording of the Sanskrit is doubtful in seve` → `(Ni. 6-13.)` | SECOND-PASS Q1: Kannada p.583 (ನಿ. ೬-೧೩); doubt clauses are meta-remarks (q33,q34) |
+| 583 | `(Ṛ. Saṃ. 7-[?]-[?], as read "೭-೬೧-೩" [?])` → `(Ṛ. Saṃ. 5-85-6)` | SECOND-PASS Q1: Kannada p.583 imā mū nu kavitamasya māyāṃ (ಋ. ಸಂ. ೫-೮೫-೬) (q35,q36,q37) |
+| 583 | `(Ṛ. Saṃ. 4-26-7, as read "೪-೨೬-೬" [?].)` → `(Ṛ. Saṃ. 4-26-7.)` | SECOND-PASS Q2: Kannada p.583 (ಋ. ಸಂ. ೪-೨೬-೭) agrees with the English (q38) |
+| 583 | `(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೨೬-೪" [?].)` → `(Ṛ. Saṃ. 9-72-4.)` | SECOND-PASS Q1: Kannada p.583 (ಋ. ಸಂ. ೯-೭೨-೪) after nṛdhūto adriṣuto (q39,q40,q41) |
+| 583 | `(Ni. 11-[?], as read "೧೧-೩೦" [?])` → `(Ni. 12-30)` | SECOND-PASS Q1: Kannada p.583 (ನಿ. ೧೨-೩೦); p.584 again ನಿ. ೧೨-೩೦ (q42,q43) |
+| 584 | `(Ni. 11-[?], as read "೧೧-೩೦" [?])` → `(Ni. 12-30)` | SECOND-PASS Q1: Kannada p.584 (ನಿ. ೧೨-೩೦) (q45,q46) |
+| 584 | `(Ṛ. Saṃ. 2-38-[?], as read "೨-೩೮-೩" [?].)` → `(Ṛ. Saṃ. 7-35-2.)` | SECOND-PASS Q1: Kannada p.584 śaṃ no bhagaḥ (ಋ. ಸಂ. ೭-೩೫-೨) (q47,q48) |
+| 584 | `(Ṛ. Saṃ. 3-[?]-[?], as read "೩-೪೯-೩" [?].)` → `(Ṛ. Saṃ. 5-42-5.)` | SECOND-PASS Q1: Kannada p.584 devo bhagaḥ savitā (ಋ. ಸಂ. ೫-೪೨-೫) (q49,q50,q51) |
+| 584 | `(Ṛ. Saṃ. 3-[?]-1 [as read "೩-೬೧-೧" [?]].)` → `(Ṛ. Saṃ. 3-61-1.)` | SECOND-PASS Q1: Kannada p.584 purāṇī devī yuvatiḥ (ಋ. ಸಂ. ೩-೬೧-೧) (q52,q53) |
+| 585 | `(2-[?]-[?], as read "೭-೩-೧೫" [?]) gives the explanation *purvāsibhidhyāyate iti purandhiḥ*` → `(7-5-18) gives the explanation *puravāsibhidhyāryata iti puraṃdhiḥ*` | SECOND-PASS Q1: Kannada p.585 ತೈತ್ತಿರೀಯಸಂಹಿತೆಯಲ್ಲಿ (೭-೫-೧೮) ಪುರವಾಸಿಭಿಧ್ಯಾರ್ಯತ ಇತಿ ಪುರಂಧಿಃ; IAST by sp_sanskrit.py (q54,q55,q56,q57) |
+| 585 | `*upapatyāgamanadhyānena [?] īṣat` → `*upapatyāgamanadhyānena īṣat` | SECOND-PASS Q2: Kannada p.585 ಉಪಪತ್ಯಾಗಮನಧ್ಯಾನೇನ ಈಷತ್ಸ್ವಪಂತೀಂ agrees (q58) |
+| 585 | `(U. Sū. 3-374, as read "೩-೯೪" [?])` → `(U. Sū. 3-374)` | SECOND-PASS Q1: Kannada p.585 (ಉ. ಸೂ-೩-೩೭೪) (q60) |
+| 586 | `and as it becomes *ṣṭu* [?], *ṣṭunā` → `and as it becomes *ṣṭu*, *ṣṭunā` | SECOND-PASS Q2: Kannada p.586 ಷ್ಟುತ್ವದಿಂದ agrees (q61) |
+| 587 | `(read from the image; doubtful words marked [?].)` → `(read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q62) |
+| 587 | `as read in the Nighaṇṭu [?]]` → `as read in the Nighaṇṭu]` | SECOND-PASS Q2: Kannada p.588 ವಕ್ಷಣಾ ರುಜಾನಾ ಇತಿ ತನ್ನಾಮಸು ಪಾಠಾತ್ agrees (q63) |
+| 589 | `(Ni. 11-48, as read "೧೧-೪೬" [?])` → `(Ni. 11-48)` | SECOND-PASS Q1: Kannada p.589 (ನಿ. ೧೧-೪೮) after ಋ. ಸಂ. ೪-೩೦-೧೧ (q64) |
+| 589 | `; the first line's wording is doubtful in several letters [?].)` → `.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (Kannada p.590 ಋ. ಸಂ. ೧-೧೨೩-೮ agrees) (q65) |
+| 590 | `(Ṛ. Saṃ. 1-48-[?], as read "೧-೪೮-೩" [?].)` → `(Ṛ. Saṃ. 7-25-29.)` | SECOND-PASS Q1: Kannada p.590 prints (ಋ. ಸಂ. ೭-೨೫-೨೯) after vājinīvatī sūryasya yoṣā citrāmaghā; applied as printed (number impossible, listed in open.tsv) (q66,q67) |
+| 590 | `*vicitraraśmyaiśvaryavatī* [?] —` → `*vicitraraśmākhyadhanā* —` | SECOND-PASS Q1: Kannada p.590 ವಿಚಿತ್ರಧನಾ । ವಿಚಿತ್ರರಶ್ಮಾಖ್ಯಧನಾ; IAST by sp_sanskrit.py (q68) |
+| 590 | `(Ṛ. 1-[?]-[?], "೧-೯೩-೪" [?]); *āhanā* (1-[?]-[?], "೧-೧೨೩-೪" [?]); *aruṣī* (3-[?]-[?], "೩-೩` → `(Ṛ. 1-92-14); *āhanā* (1-123-4); *aruṣī* (3-55-1); *aruṇapsu* (8-5-1)` | SECOND-PASS Q1: Kannada p.590 ವಿಭಾವರಿ (೧-೯೨-೧೪); ಅಹನಾ (೧-೧೨೩-೪); ಅರುಷೀ (೩-೫೫-೧); ಅರುಣಪ್ಪು (೮-೫-೧) (q69,q70,q71,q72,q73,q74,q75,q76,q77,q78,q79) |
+| 590 | `(Ṛ. Saṃ. 3-[?]-[?], as read "೩-೬೧-೪" [?]; the first line is doubtful [?].)` → `(Ṛ. Saṃ. 5-80-4.)` | SECOND-PASS Q1: Kannada p.590 eṣā vyenī bhavati dvibarhā (ಋ. ಸಂ. ೫-೮೦-೪); doubt clause is a meta-remark (q80,q81,q82,q83) |
+| 591 | ` [Ni. 3-[?]], and since` → `, and since` | SECOND-PASS S3: Kannada p.591 ನೌತಿ ಎಂಬ ಪದವು ಅರ್ಚತಿಕರ್ಮ ನಾಮಗಳಲ್ಲಿ ಪರಿತವಾಗಿ prints no number; number removed with its mark (q84) |
+| 591 | `; the quotation is partly doubtful [?].)` → `.)` | SECOND-PASS Q2: meta-remark on doubt marking; Kannada p.591 (ಋ. ಸಂ. ೧-೧೦೫-೧೫) agrees (q85) |
+| 592 | `(Bṛhaddevatā 3-85, as read "೩-೯೫" [?].)` → `(Bṛhaddevatā 3-85.)` | SECOND-PASS Q1: Kannada p.592 (ಬೃಹದ್ದೇವತಾ. ೩-೮೫) (q86) |
+| 592 | `(Ṛ. Saṃ. 10-69-8, as read "೧೦-೬೯-೭" [?].)` → `(Ṛ. Saṃ. 10-69-8.)` | SECOND-PASS Q1: Kannada p.592 (ಋ. ಸಂ. ೧೦-೬೯-೮) (q87) |
+| 593 | `(Ni. 1-[?], as read "೧-೧೩" [?])` → `(Ni. 2-24)` | SECOND-PASS Q1: Kannada p.593 (ನಿ. ೨-೨೪) after ನದೀನಾಮೈತತ್ ತಾಸಾಂ ಅರ್ಥಾಯ (q88,q89) |
+| 593 | `locative plural, a *para* [?];` → `locative plural, when [it] follows (*para*);` | SECOND-PASS Q1: Kannada p.593 ಸಪ್ತಮೀ ಬಹುವಚನ ಪರವಾದಾಗ (q90) |
+| 594 | ` (Pā. Sū. 6-4-[?]) gives the term *mit*` → ` gives the term *mit*` | SECOND-PASS S3: Kannada p.594 ಜನೀಜ್ಯಷ್…ಎಂಬುದರಿಂದ ಮಿತ್ ಸಂಜ್ಞಾ prints no sūtra number; number removed with its mark (q91) |
+| 595 | `read from the image; doubtful words marked [?].)` → `read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q92) |
+| 595 | `who obstruct the sacrifice [?] — praises` → `who obstruct the sacrifice — praises` | SECOND-PASS Q2: Kannada p.595 ತಸ್ಕರಾಣಾಂ ಯಜ್ಞವಿಘಾತಿನಾಮನ್ಯತ್ರ ಗಮನಾಯ agrees (q93) |
+| 595 | ` The reading of a phrase near "*bhūtajātāt*" is not clear to me [?].)*` → `)*` | SECOND-PASS Q2: meta-remark on doubt marking; Kannada p.595 ಭೂತಜಾತಾದ್ವಾ ಲೋಕತ್ರಯಸಂಬಂಧಿನೋ ಭಯಾತ್ agrees with the translation (q94) |
+| 596 | `*ayam apītaraḥ śucir etasmād eva niṣkrītam asmāt…* [as read; the rest of the quotation is ` → `*ayamapītaraḥ śuciretasmādeva | niṣpiktamasmātpāpakamiti nairuktāḥ*.` | SECOND-PASS Q1: Kannada p.596-597 ಅಯಮಪೀತರಃ ಶುಚಿರೇತಸ್ಮಾದೇವ । ನಿಷ್ಪಿಕ್ತಮಸ್ಮಾತ್ಪಾಪ|ಕಮಿತಿ ನೈರುಕ್ತಾಃ; IAST by sp_sanskrit.py (q95) |
+| 597 | `…*kamīti nairuktāḥ* [as read, [?]].` → `…*kamiti nairuktāḥ*.` | SECOND-PASS Q1: Kannada p.597 ಕಮಿತಿ ನೈರುಕ್ತಾಃ; IAST by sp_sanskrit.py (q96) |
+| 597 | `and the root *īḍe* is its origin too [?];` → `and this same root is its origin too;` | SECOND-PASS Q1: Kannada p.597 ಶುಚಿ ಶಬ್ದಕ್ಕೂ ಸಹ ಇದೇ ಧಾತುವೇ ಮೂಲವು (q97) |
+| 597 | `(Ni. 7-[?], as read "೭-೧೧" [?])` → `(Ni. 8-11)` | SECOND-PASS Q1: Kannada p.597 (ನಿ. ೮-೧೧) after ಶುಕ್ರಂ ಶೋಚತೇರ್ಜ್ವಲತಿಕರ್ಮಣಃ (q98,q99) |
+| 597 | `(Kaṭha [Upaniṣad], as read "೫ ೮" [?].)` → `(Kaṭha [Upaniṣad] 5-8.)` | SECOND-PASS Q1: Kannada p.597 (ಕಠ. ೫೮), hyphenless, read 5-8 (q100) |
+| 597 | `(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೮೨-೩" [?]) and *ajanayat sūrye jyotir induḥ* (Ṛ. Saṃ. 9-[?]` → `(Ṛ. Saṃ. 9-66-24) and *ajanayat sūrye jyotir induḥ* (Ṛ. Saṃ. 9-97-41)` | SECOND-PASS Q1: Kannada p.597 ಶುಕ್ರಂ ಜ್ಯೋತಿರಜೀಜನತ್ (ಋ. ಸಂ. ೯-೬೬-೨೪); ಅಜನಯ ತೂರ್ಯೇ ಜ್ಯೋತಿರಿಂದುಃ (ಋ. ಸಂ. ೯-೯೭-೪೧) (q101,q102,q103,q104,q105,q106) |
+| 598 | `*indrasya kuṣmam irāyan* [?] (Ṛ. Saṃ. 9-[?]-[?], as read "೯-೭೧-೩" [?])` → `*iṃdrasya śuṣmamīrayan* (Ṛ. Saṃ. 9-76-2)` | SECOND-PASS Q1: Kannada p.598 ಇಂದ್ರಸ್ಯ ಶುಷ್ಮಮೀರಯನ್ (ಋ. ಸಂ. ೯-೭೬-೨); IAST by sp_sanskrit.py (q107,q108,q109,q110) |
+| 598 | `(Ṛ. Saṃ. 6-[?]-[?], as read "೬-೬೧-೩೦" [?])` → `(Ṛ. Saṃ. 9-61-30)` | SECOND-PASS Q1: Kannada p.598 ಯಾ ತೇ ಭೀಮಾನ್ಯಾಯುಧಾ… (ಋ. ಸಂ. ೯-೬೧-೩೦) (q111,q112,q113) |
+| 598 | `*avājuṣṭān nyabhiti karte avratān* [?] (Ṛ. Saṃ. 9-[?]-[?], as read "೯-೭೧-೯" [?])` → `*avājuṣṭānvidhyati kartṛ avratān* (Ṛ. Saṃ. 9-73-8)` | SECOND-PASS Q1: Kannada p.598 ಅವಾಜುಷ್ಟಾನ್ವಿಧ್ಯತಿ ಕರ್ತೃ ಅವ್ರತಾನ್ (ಋ. ಸಂ. ೯-೭೩-೮); IAST by sp_sanskrit.py (q114,q115,q116,q117) |
+| 598 | `(Ṛ. Saṃ. 8-9-6; the wording is doubtful in places [?].)` → `(Ṛ. Saṃ. 8-9-6.)` | SECOND-PASS Q2: meta-remark on doubt marking; Kannada p.598 (ಋ. ಸಂ. ೮-೯-೬) agrees (q118) |
+| 598 | `(Ni. 2-[?], as read "೨-೯" [?])` → `(Ni. 3-9)` | SECOND-PASS Q1: Kannada p.598 (ನಿ. ೩-೯) ಭುರಣ್ಯುಃ, ಭುರಣ್ಯತಿ ಗತಿಕರ್ಮ (q119,q120) |
+| 598 | `(Ni. 3-[?], as read "೩-೨೨" [?])` → `(Ni. 12-22)` | SECOND-PASS Q1: Kannada p.598 (ನಿ. ೧೨ ೨೨), hyphenless, read 12-22 (q121,q122) |
+| 599 | `(Ni. 2-[?], as read "೨-೧೯")` → `(Ni. 3-6)` | SECOND-PASS Q1: Kannada p.599 ತ್ಸಾರೀಃ…(ನಿ. ೩-೬) (q123) |
+| 599 | `(Ṛ. Saṃ. 2-[?]-1, as read "೨-೩೦-೧" [?].)` → `(Ṛ. Saṃ. 7-50-1.)` | SECOND-PASS Q1: Kannada p.599 ಅಜಕಾವಂ ದುರ್ದೃಶೀಕಂ… ತ್ಸರುಃ (ಋ. ಸಂ. ೭-೫೦-೧) (q124,q125) |
+| 600 | `(Ṛ. Saṃ. 1-151-5, as read "೧-೧೫೧-೩" [?]; the quotation is doubtful in several letters [?].` → `(Ṛ. Saṃ. 1-151-5.)` | SECOND-PASS Q1: Kannada p.600 (ಋ. ಸಂ. ೧-೧೫೧ ೫), hyphenless; doubt clause is a meta-remark (q126,q127) |
+| 600 | `(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೪೯-೩" [?])` → `(Ṛ. Saṃ. 1-151-5)` | SECOND-PASS Q1: Kannada p.600 ತಸ್ಯ ವೇತಾ ಗಂತಾ ಮನುಷ್ಯಃ (ಋ. ಸಂ. ೧-೧೫೧-೫) (q128,q129,q130) |
+| 600 | `(Uṇ. 3-[?], as read "೩-೧೪೭" [?])` → `(Uṇ. 2-186)` | SECOND-PASS Q1: Kannada p.600 ಋಜೇಂದ್ರಾಗ್ರ (ಉ. ಸೂ. ೨-೧೮೬) (q131,q132) |
+| 602 | `read from the image; doubtful words marked [?].)` → `read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q133) |
+| 602 | ` Grammatical details of *vavarjuṣīṇām* and *duhre* are partly doubtful [?].)*` → `)*` | SECOND-PASS Q2: meta-remark on doubt marking; the grammar of ವವರ್ಜುಷೀಣಾಂ and ದುಹ್ರೇ on p.606 agrees with the English; clause removed (q134) |
+| 603 | `; the text of this small-type Brāhmaṇa passage is partly doubtful [?].` → `.` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q135) |
+| 604 | `(Ai. Brā. 3-[?], as read "೩-೩೧" [?].)` → `(Ai. Brā. 2-25.)` | SECOND-PASS Q1: Kannada p.604 (ಐ. ಬ್ರಾ. ೨-೨೫) after the Brāhmaṇa passage (q136,q137) |
+| 605 | `(Ni. 6-8, as read "೬-೯" [?])` → `(Ni. 6-8)` | SECOND-PASS Q1: Kannada p.605 (ನಿ. ೬-೮) after ಆಶಿರಂ—ಆಶೀರಾಶ್ರಯಣಾದ್ವಾ (q138) |
+| 606 | `read from the image; doubtful letters [?]).**` → `read from the image).**` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q139) |
+| 606 | `the deity of the first three [?] ṛks is Vāyu` → `its deity is Vāyu` | SECOND-PASS Q1: Kannada p.606 anuvāda ಹಿಂದೆಯೇ ಹೇಳಿದಂತೆ ಇದಕ್ಕೆ ವಾಯುವು ದೇವತೆಯು (no "first three") (q140) |
+| 606 | `of the *pāka* [?];` → `of the *pākṛta*;` | SECOND-PASS Q1: Kannada p.606 ಪಾಕೃತಯೋರ್ವಾಯವೈಂದ್ರವಾಯವ್ಯಯೋಃ ಸ್ಥಾನೇ; IAST by sp_sanskrit.py (q141) |
+| 606 | `(Āś. [refs] [?])` → `(Āś. 8-1)` | SECOND-PASS Q1: Kannada p.606 ಸೂತ್ರಿತಂ । ಸ್ತೀರ್ಣಂ ಬರ್ಹಿರಿತಿ ತೃಚೌ । ಆ. ೮-೧ (q142) |
+| 606 | `Varga 24, 25 [as read, [?]].` → `Varga 24, 25.` | SECOND-PASS Q2: Kannada p.607 ವರ್ಗ—೨೪, ೨೫ agrees (q143) |
+| 608 | `read from the image; doubtful words marked [?].)*` → `read from the image.)*` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q144) |
+| 608 | `(Ṛ. Saṃ. 4-46-1 [as read, [?]])` → `(Ṛ. Saṃ. 4-46-1 [as read])` | SECOND-PASS Q2: Kannada p.609 (ಋ. ೪-೪೬-೧) agrees (q145) |
+| 608 | ` The last remarks of grammar on *asthiran* are partly doubtful [?].)*` → `)*` | SECOND-PASS Q2: meta-remark on doubt marking; the grammar of ಅಸ್ಥಿರನ್ on p.612 agrees with the English; clause removed (q146) |
+| 609 | `; read from the image, partly doubtful [?].)` → `; read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; Kannada p.609 (ಐ. ಬ್ರಾ. ೩-೨) agrees (q147) |
+| 610 | `(Ai. Brā. [?]-[?], as read "೩-೩೫" [?].)` → `(Ai. Brā. 8-25.)` | SECOND-PASS Q1: Kannada p.610 (ಐ. ಬ್ರಾ. ೮-೨೫) after ವಾಯೋರಗ್ನಿರ್ಜಾಯತೇ; applied as printed (q148,q149,q150) |
+| 610 | `(Ai. Brā. 3-4, as read "೩-೩೪" [?].)` → `(Ai. Brā. 3-4.)` | SECOND-PASS Q2: Kannada p.610 (ಐ. ಬ್ರಾ. ೩-೪) agrees (q151) |
+| 610 | `(Ai. Brā. 3-[?], as read "೩-೩೪" [?]; these Brāhmaṇa passages, in small type, are read from` → `(Ai. Brā. 2-34.)` | SECOND-PASS Q1: Kannada p.610 (ಐ. ಬ್ರಾ. ೨-೩೪) after ಸೋ ಅಧ್ವರಾ ಕರತಿ ಜಾತವೇದಾ; doubt clause is a meta-remark (q152,q153,q154) |
+| 611 | `(Ni. 2-[?], as read "೨-೧" [?])` → `(Ni. 3-1)` | SECOND-PASS Q1: Kannada p.611 ಕ್ರತುಶಬ್ದವನ್ನು ಕರ್ಮನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೧) (q155,q156) |
+| 611 | `(Ni. 3-1, as read "೩-೯" [?])` → `(Ni. 3-13)` | SECOND-PASS Q1: Kannada p.611 ಪ್ರಜ್ಞಾ ನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೧೩) (q157) |
+| 612 | `(Pā. Sū. 6-1-213, as read "೬-೧-೩೫" [?])` → `(Pā. Sū. 6-1-213)` | SECOND-PASS Q2: Kannada p.612 (ಪಾ. ಸೂ. ೬-೧-೨೧೩) agrees with the first number (q158) |
+| 612 | `are optional [?];` → `are optional;` | SECOND-PASS Q2: Kannada p.612 ಜಸಾದಿಷು ಛಂದಸಿ ವಾವಚನಂ…ಗುಣಾದಿಗಳು ಬಾರದಿರುವಾಗ ಯಣಾದೇಶ agrees (q159) |
+| 613 | `read from the image; doubtful words marked [?].)` → `read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q160) |
+| 613 | `among men in the world [?],` → `among men, as that which is to be offered,` | SECOND-PASS Q1: Kannada p.613 ಆಯುಷು ಮನುಷ್ಯೇಷು ಯಷ್ಟವ್ಯತ್ವೇನ ಸ್ಥಿತೋ ಭಾಗೋ (q161) |
+| 613 | ` Several words of the commentary here are doubtful [?].)*` → `)*` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q162) |
+| 614 | `(Ṛ. Saṃ. 4-[?]-[?], as read "೪-೫೯-೨" [?]); *parvata* (1-[?]-[?]); *aśramaṇa*, *aśrathita*,` → `(Ṛ. Saṃ. 5-41-12); *parvata* (10-94-1); *aśramaṇa*, *aśrathita*, *amṛtyu*, *anātura*, *aja` | SECOND-PASS Q1: Kannada p.615 ಬಬೃಹಾಣ (ಋ. ಸಂ. ೫-೪೧-೧೨); ಪರ್ವತ (೧೦-೯೪-೧); ಅಶ್ರಮಣ… (೧೦-೯೪-೧೧); ಧ್ರುವ, ಕ್ಷೇಮಕಾಮ (೧೦-೯೪-೧೨) (q163,q164,q165,q166,q167,q168,q169,q170,q171,q172) |
+| 614 | `; the last word of the second line is doubtful: the print has "*bindanty*" [?].)` → `.)` | SECOND-PASS Q2: meta-remark on doubt marking; Kannada p.615 prints ಭಿಂದಂತ್ಯೋಜಸಾ (ಋ. ಸಂ. ೫-೫೨-೯ agrees); clause removed (q173) |
+| 615 | `(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೧೮೩-೪" [?]; the quotation is doubtful in places [?].)` → `(Ṛ. Saṃ. 1-165-4.)` | SECOND-PASS Q1: Kannada p.615 ಬ್ರಹ್ಮಾಣಿ ಮೇ ಮತಯಃ ಶಂ ಸುತಾಸಃ (ಋ. ಸಂ. ೧-೧೬೫-೪); doubt clause is a meta-remark (q174,q175,q176,q177) |
+| 615 | `(Ṛ. Saṃ. 1-[?]-1, as read "೧-೧೮೪-೧" [?]; the quotation is doubtful in several letters [?].` → `(Ṛ. Saṃ. 1-149-1.)` | SECOND-PASS Q1: Kannada p.615 ಮಹಃ ಸ ರಾಯ ಏಷತೇ (ಋ. ಸಂ. ೧-೧೪೯-೧); doubt clause is a meta-remark (q178,q179,q180) |
+| 616 | `Asura (*atṛ* [?]), devourer,` → `eater (*attāraṃ*), Asura, devourer,` | SECOND-PASS Q1: Kannada p.616 ಅತ್ತಾರಂ, ಅಸುರಂ, ಭಕ್ಷಕಂ, ಪಣಿಂ; IAST by sp_sanskrit.py (q181) |
+| 616 | `(Ṛ. Saṃ. 3-[?]-1, as read "೩-೬೪-೧" [?].)` → `(Ṛ. Saṃ. 5-39-1.)` | SECOND-PASS Q1: Kannada p.616 ಯದಿಂದ್ರ ಚಿತ್ರ ಮೇಹನಾಸ್ತಿ (ಋ. ಸಂ. ೫-೩೯-೧) (q182,q183) |
+| 616 | `(Ni. 2-[?], as read "೨-೨೬" [?])` → `(Ni. 5-26)` | SECOND-PASS Q1: Kannada p.616 (ನಿ. ೫-೨೬) after ಕೋಶಃ ಕುಷ್ಣಾತೇರ್ವಿಕುಷಿತೋ ಭವತಿ (q184,q185) |
+| 616 | `*viśām atithiḥ…* [as read: *viśām atithiś śāru rāyave* [?]] (Ṛ. Saṃ. 2-2-8; *bhṛgavo viśva` → `*viśām atithiḥ…* [as read: *viśāmatithiścārurāyane*] (Ṛ. Saṃ. 2-2-8; *bhṛgavo vikṣāyoḥ* (2` | SECOND-PASS Q1: Kannada p.616 ವಿಶಾಮತಿಥಿಶ್ಚಾರುರಾಯನೇ (ಋ. ಸಂ. ೨-೨-೮); ಭೃಗವೋ ವಿಕ್ಷಾಯೋಃ (೨-೪-೨); ಉಪರಸ್ಯಾಯೋಃ (೪-೨-೧೮); ಚಿದಾಯವೇ (೫-೭-೬); IAST by sp_sanskrit.py (q186,q187,q188,q189,q1 |
+| 618 | `read from the image; doubtful words marked [?].)` → `read from the image.)` | SECOND-PASS Q2: meta-remark on doubt marking; clause removed (q196) |
+| 618 | `for the satisfaction of your desire [?];` → `for the satisfaction of your desire;` | SECOND-PASS Q2: Kannada p.618 ತ್ವದಭಿಮತಕಾಮಾಯ ತತ್ಪೂರ್ತಯೇ agrees (q197) |
+| 618 | `(Pā. Sū. 5-1-106 [as read, [?]])` → `(Pā. Sū. 5-1-106 [as read])` | SECOND-PASS Q2: Kannada p.618 (ಪಾ. ೫-೧-೧೦೬) agrees (q198) |

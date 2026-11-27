@@ -3,9 +3,9 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 490 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 300–368, 350–499, 500–579)
-- **Findings:** 759 — applied 670, kept/not applied 89 (English kept: misprints and doubts settled by rule; see part 5); edits ok 691, failed 0
-- **Reader tokens (batches so far):** 2713k; per page 5.5k
+- **Pages read:** 530 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 300–368, 350–499, 500–579, 580–619)
+- **Findings:** 849 — applied 758, kept/not applied 91 (English kept: misprints and doubts settled by rule; see part 5); edits ok 779, failed 0
+- **Reader tokens (batches so far):** 3005k; per page 5.7k
 - **Last commit:** (this commit)
 
 ## 2. Batches
@@ -22,13 +22,14 @@
 | 9 | 300–368 | 112 | 102 | 111 / 0 | 10 | 301k | (this commit) | mark-only batch q1-q150 (marks of pp. 2-368 left after qmark_strip): 134 settled, 16 kept; marks 1041 -> 907 |
 | 10 | 350–499 | 160 | 156 | 137 / 0 | 4 | 287k | (this commit) | mark-only batch pp. 350-499: 150 of 154 settled, 4 kept; marks 907 -> 757 |
 | 11 | 500–579 | 110 | 106 | 106 / 0 | 4 | 340k | (this commit) | mark-only batch pp. 500-579: 151 of 155 settled, 4 kept; marks 757 -> 606 |
+| 12 | 580–619 | 90 | 88 | 88 / 0 | 2 | 292k | (this commit) | mark-only batch pp. 580-619: 172 marks removed, 2 kept; marks 606 -> 434 |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| Q1 | 235 | 0 | 235 |
-| Q2 | 148 | 72 | 220 |
-| S3 | 128 | 1 | 129 |
+| Q1 | 291 | 0 | 291 |
+| Q2 | 178 | 74 | 252 |
+| S3 | 130 | 1 | 131 |
 | S1 | 68 | 0 | 68 |
 | S2 | 31 | 3 | 34 |
 | S13 | 29 | 4 | 33 |
@@ -39,7 +40,7 @@
 | S15 | 2 | 0 | 2 |
 | S18 | 0 | 2 | 2 |
 
-By reader: R1 733, R3 18, R6 8
+By reader: R1 823, R3 18, R6 8
 
 ## 4. Open items (not findings)
 - **other** (pages 307): running head Varga printed ವ. ೧೭ (neighbouring heads ವ. ೧೩); applied as printed (Varga 17)
@@ -55,11 +56,17 @@ By reader: R1 733, R3 18, R6 8
 - **other** (pages 527): English Okya (Ni. 3-13); Kannada p.527 prints (ನಿ. ೩-೩) (unmarked, not edited)
 - **other** (pages 543): Kannada p.543 gives Pā. Sū. 8-3-9 for matuvasoḥ sambuddhau, English (unmarked) has 8-3-1; Uṇ. Sū. 4-530 applied as printed (impossible number? Sāyaṇa block p.541 prints Uṇ. 4-90)
 - **other** (pages 561): English (unmarked) Pā. Sū. 8-5-70 [as read] for amnarūdharavar…; Kannada p.561 prints ೮-೨-೭೦
+- **other** (pages 607): Kannada p.607 head block lists Indra for Ṛks 4-8, the anuvāda on p.606 says "(೫-೯)" for the five Ṛks beginning ಆ ವಾಂ ರಥ; English bracket "[Ṛks 4–8]" unmarked, left
+- **other** (pages 590): Kannada p.590 prints ಋ. ಸಂ. ೭-೨೫-೨೯ for the Ṛk vājinīvatī sūryasya yoṣā citrāmaghā (no such verse); applied as printed (the English first read 1-48-3)
+- **other** (pages 583): unmarked neighbour: English "(the one cited by the author of the Nirukta, 2-31-4)" but Kannada p.583 gives ೭-೩೯-೪ for that Ṛk; left
+- **other** (pages 598): unmarked neighbour: English "yo te bhīmāny āyudhā" but Kannada p.598 reads ಯಾ ತೇ ಭೀಮಾನ್ಯಾಯುಧಾ (yā te); left
+- **other** (pages 600): unmarked neighbour: English "khujendragra… [as read: śukrendraśuci…]" but Kannada p.600 reads ಋಜೇಂದ್ರಾಗ್ರ; left
+- **other** (pages 608): unmarked neighbour: English "jayi ca (Pā. Sū. 6-1-203 [as read])" but Kannada p.608 prints ಪಾ ೬-೧-೨೧೨ (p.612 ೬-೧-೨೧೩); left
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 89 Kannada misprints where the English is kept (`kn_misprints.tsv`); 35 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 91 Kannada misprints where the English is kept (`kn_misprints.tsv`); 35 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol10/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
