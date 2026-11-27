@@ -2831,6 +2831,139 @@ Maruts, at every sacrifice your alacrity is uniform : you, verily, discharge you
 
 "Vaḥ samanā yajñāyajñā tuturvaṇī": addressing the Maruts: in all sacrifices, that is, at the times when each sacrifice is performed by the sacrificers, they grant their presence to receive the oblation, and the lack or excess that may occur in the sacrifice
 
+### Printed p. 115
+
+ Having removed the possible deficiencies and excesses in the sacrifice, the Maruts bring the sacrifice to completion in the prescribed manner; thus their greatness, and their exceeding haste in the matter of the sacrifice, are described. By the word समना (*samanā*) the equality of the Maruts, consisting in the absence of deficiency or excess at every sacrifice, is made explicit. For the word used here as तुतुर्वणिः (*tuturvaṇiḥ*) the reading तुर्वणिः (*turvaṇiḥ*) is explained. The word तुर्वणिः (*turvaṇiḥ*) is used by Yāska in the Ṛk quoted:
+
+सतुर्वणिर्महा अरेणु पौंस्ये गिरेर्भृष्टिर्न भ्राजते तुजा शवः । येन शुष्णं मायिनमायसो मदे दुध्र आभूषु रामयन्नि दामनि ॥ (*saturvaṇirmahā areṇu pauṃsye girerbhṛṣṭirna bhrājate tujā śavaḥ | yena śuṣṇaṃ māyinamāyaso made dudhra ābhūṣu rāmayanni dāmani ‖*)
+(Ṛ. Saṃ. 1-54-3)
+
+and the sense is made clear that तूर्णवनिः (*tūrṇavaniḥ*) (Ni. 6-14), स्तोतारं तूर्णं भजते (*stotāraṃ tūrṇaṃ bhajate*), means "one who hastens to approach the worshipper".
+
+On धियं धियं (*dhiyaṃ dhiyaṃ*): the meaning is explained as "all your works, such as granting rain" — the works of the Maruts, such as bestowing rain; and the sense that all those works are such as bring the gods satisfaction is explained under देवयाः (*devayāḥ*); with देवार्थं हविराद्युत्पादनाय वृष्टिं कुरुथ (*devārthaṃ havirādyutpādanāya vṛṣṭiṃ kurutha*) it is described that the Maruts produce rain precisely so that the oblations and the like offered to the gods arise in the form of plants and so on.
+
+On रोदस्योः महे अवसे सुविताय (*rodasyoḥ mahe avase suvitāya*): द्यावापृथिव्योः महते रक्षणाय प्रीणनाय वा सुष्टुव्याप्ताय (*dyāvāpṛthivyoḥ mahate rakṣaṇāya prīṇanāya vā suṣṭuvyāptāya*): for the abundant protection of heaven and earth, or for the delight of heaven and earth, and also for the even pervasion of heaven and earth in all places and times, we, the sacrificing yajamānas, invite the Maruts with excellent praises (सुवृक्तिभिः (*suvṛktibhiḥ*)), so that they may turn toward us. Thus the prayer of the seer of the mantra is described here. The author of the Nirukta has cited a use of सुवृक्तिभिः (*suvṛktibhiḥ*) in this same sense:
+
+इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः । पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ॥ (*iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ | pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivāsema dhītibhiḥ ‖*)
+(Ṛ. Saṃ. 6-61-2)
+
+Here सुवृक्तिभिः सुप्रवृत्ताभिः स्वरसौष्ठवादियुक्ताभिः (*suvṛktibhiḥ supravṛttābhiḥ svarasauṣṭhavādiyuktābhiḥ*) is explained as praises furnished with excellent accents such as the udātta, with soft words, and with words that convey the right meaning.
+
+### Printed p. 116
+
+##### Grammar
+
+- यज्ञायज्ञा — नित्यवीप्सयोः (पा. सू. ८-१-४) इति द्विर्वचनं भवति । अनुदात्तं च (पा. सू. ८-१-३) इति परस्याम्रेडितस्य सर्वानुदात्तस्वरो भवति । सुपां सुलुक् इति विभक्तेराकारादेशः ।
+- समना — सम्यक् आनयित्री समना । अन प्राणने धातुः । पचादिनिमित्तः अच् प्रत्ययः । अंतोदात्तो भवति । स्त्रीत्वे टाप् । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- देवयाः — या प्रापणे धातुः । देवान् यापयंतीति देवयाः । णिजंतात् क्विप् प्रत्यये णेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- दधिध्वे — डुधाञ् धारणपोषणयोः धातुः । छांदसो लिट् । मध्यमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- सुविताय — सुष्टु इताय । इण् गत् धातुः । क्त प्रत्ययः । तन्वादीनां छंदसि बहुलमुपसंख्यानं (पा. सू. ६-४-७७-१) इत्युवजादेशः । प्रत्ययस्वरेण अंतोदात्तो भवति । चतुर्थ्येकवचनांतरूपम् ।
+- महे — मह पूजायां धातुः । क्विप् प्रत्ययः । चतुर्थ्यां सावेकाचस्तृ— (पा. सू. ६-१-१६८) इति विभक्तेरुदात्तस्वरो भवति ।
+- ववृत्यां — वृतु वर्तने धातुः । लिज् उत्तमपुरुषैकवचने व्यत्ययेन मिप् आगते अमादेशः । बहुलं छंदसि इति श्लुविकरणम् । तन्निमित्तीकृत्य धातोर्द्वित्वलिजि यासुटागमः । तिजंतनिघातस्वरो भवति ।
+- सुवृक्तिभिः — शोभना व्यक्तिः येषां ते तैः । नञ्सुभ्यां (पा. सू. ६-२-१७) इत्युत्तरपदांतोदात्तस्वरो भवति ॥ १ ॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒प्रासो॒ न ये स्व॒जाः स्वत॑वस॒ इषं॒ स्व॑रभि॒जायं॑त॒ धूत॑यः ।  
+> स॒ह॒स्रिया॑सो अ॒पां नोर्मय॑ आ॒सा गावो॒ वंद्या॑सो॒  ॑
+> नोक्षणः ॥ २ ॥
+
+### Printed p. 117
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वप्रासः । न । ये । स्वजाः । स्वतवसः । इषं । स्वः । अभिजायंत । धूतॆयः ।  
+> सहस्रियासः । अपां । न । ऊर्मयः । आसा । गावः । वंद्यासः । न । उक्षणः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो वप्रासो न । वप्रिरिति रूपनाम । रूपवंत इव । ते यथा
+> प्रकृष्टा लक्ष्यंते तद्वत् । यद्वा । अरूपा अपि सरूपा इव । स्वजाः स्वयमेव
+> स्वस्माद्वा जायमानाः । अनन्यहेतुका इत्यर्थः । धूतयः कंपनशीलाः संति त
+> इषमन्नं हविर्लक्षणमन्नसाधनं सस्यादिकं वा स्वः स्वर्गं चाभिजायंत । अभिलक्ष्य
+> प्रादुर्भवंति । ते दृष्टांतमुखेन श्रूयंते । अपां नोर्मय उदकानामूर्मय इव सहस्रियासः सहस्रसंमिताः । तथा वंद्यासो बहुक्षीरादिप्रदत्वेन स्तुत्या
+> गावो न गाव इनासा समीप एवक्षणो वृष्युदकस्य सेक्तारः । तादृशा मरुतः
+> प्रादुर्भवंतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who are "like वप्रासः (*vaprāsaḥ*)": वप्रिः (*vapriḥ*) is a name for form (rūpa); they are as if possessed of form, so that they are seen as excellent like those who have it; or else, though formless, as if having form. स्वजाः (*svajāḥ*): born of themselves, or from themselves, that is, without any other cause. Being धूतयः (*dhūtayaḥ*), given to shaking, they are born towards इषं (*iṣaṃ*), food — the oblation-food, or the plants and the like that are the means of food — and towards स्वः (*svaḥ*), heaven; they appear, aiming at these. They are now described through similes: like the waves of waters, सहस्रियासः (*sahasriyāsaḥ*), thousandfold; and being worthy of praise as givers of abundant milk and the like, like cows; आसा (*āsā*), near at hand, उक्षणः (*ukṣaṇaḥ*), sprinklers of the rain-water. Such Maruts appear: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Marut-deities
+- वव्रासः न (*vavrāsaḥ na*)—like those having form (though formless)
+- स्वजाः (*svajāḥ*)—self-born (not born of another)
+- स्वतवसः (*svatavasaḥ*)—endowed with innate strength
+- धूतयः (*dhūtayaḥ*)—given to shaking (who are)
+- ते (*te*)—such
+- अपां (*apāṃ*)—of waters
+- ऊर्मयः न (*ūrmayaḥ na*)—like waves
+- सहस्रियासः (*sahasriyāsaḥ*)—innumerable
+- तथा (*tathā*)—likewise
+- वंद्यासः (*vaṃdyāsaḥ*)—praiseworthy (as givers of milk and so on)
+- गावः न (*gāvaḥ na*)—like cows
+- आसा (*āsā*)—being near
+- उक्षणः (*ukṣaṇaḥ*)—as sprinklers of water
+- वंद्यासः (*vaṃdyāsaḥ*)—praiseworthy
+- ते (*te*)—those Maruts
+- इषं (*iṣaṃ*)—food (suited to us)
+- स्वः (*svaḥ*)—heaven (intending to give)
+- अभि जायंत (*abhi jāyaṃta*)—appear
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who though formless are like beings with form, self-born, strong by nature, given to shaking, innumerable like the waves of water, and, like milk-giving cows, praiseworthy as sprinklers of water, appear in order to grant us the food and heaven we desire.
+
+### Printed p. 118
+
+##### English translation (H. H. Wilson)
+They who are as if embodied, self-born, self-invigorated, and (ever) tremulous (in movement), are generated (to confer) abundant food and heaven : they are numerous as the undulations of the waters ; they are to be praised when present, shedding water, like cows (yielding milk).
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः वव्रासो न (*marutaḥ vavrāso na*)—न-वव्रिति रूपनाम रूपवंत इव ते यथा प्रकृष्टा लक्ष्यंते तद्वत् । यद्वा आरूपा अपि सरूपा इव (*na-vavriti rūpanāma rūpavaṃta iva te yathā prakṛṣṭā lakṣyaṃte tadvat | yadvā ārūpā api sarūpā iva*) Here the particle न (*na*) is used in the sense of comparison. The word वव्रि (*vavri*) is read among the names of form (Ni. 3-13), and in the Ṛk
+
+अयं स शिंक्ते येन गौरभीवृता मिमाति मायुं ध्वंसनावधि श्रिता । सा चित्तिभिर्नि हि चकार मर्त्यं विद्युद्भवंती प्रति वव्रिमौहत ॥ (*ayaṃ sa śiṃkte yena gaurabhīvṛtā mimāti māyuṃ dhvaṃsanāvadhi śritā | sā cittibhirni hi cakāra martyaṃ vidyudbhavaṃtī prati vavrimauhata ‖*)
+(Ṛ. Saṃ. 1-164-29)
+
+the word वव्रि (*vavri*) is explained, with वव्रिरिति रूपनाम वृणोतीति सतः (*vavririti rūpanāma vṛṇotīti sataḥ*), as a word formed from the root वृञ् (*vṛñ*) and conveying the meaning "form". Sāyaṇa, following the sense of the Śruti that the Maruts are possessed of form, and in accordance with the sense of दर्शत (*darśata*) in the Ṛk वायवा याहि दर्शतेमे सोमा आरंकृताः । (*vāyavā yāhi darśateme somā āraṃkṛtāḥ |*), explains रूपवंत इव (*rūpavaṃta iva*) as "like those having a shape", and ते यथा प्रकृष्टा लक्ष्यंते (*te yathā prakṛṣṭā lakṣyaṃte*) as "as embodied beings appear beautiful"; thus, comparing them with those who have form, he explains that the Maruts, being embodied, are possessed of form. On the strength of another Śruti statement that, though the deity Vāyu has no shape, only his agency in action is perceived, he gives a second meaning: अरूपा अपि सरूपा इव (*arūpā api sarūpā iva*), though formless, the Maruts perform their deeds as if they had form.
+
+स्वजाः—स्वयमेव स्वस्मात् जायमानाः । अनन्यहेतुकाः । (*svajāḥ—svayameva svasmāt jāyamānāḥ | ananyahetukāḥ |*) The Maruts are not born, like creatures who take births according to the cause of their respective merit and demerit in order to experience the fruit that depends on action, in the world. It is explained that they have come into being of themselves, in order to manifest their greatness to the world and to bring about the increase of the world's happiness.
+
+### Printed p. 119
+
+धूतयः इषं स्वः अभिजायंत—कंपनशीलाः संति । अन्नं हर्विक्षणमन्नसाधनं सस्यादिकं वा स्वर्गं च अभिलक्ष्य प्रादुर्भवंति । (*dhūtayaḥ iṣaṃ svaḥ abhijāyaṃta—kaṃpanaśīlāḥ saṃti | annaṃ harvikṣaṇamannasādhanaṃ sasyādikaṃ vā svargaṃ ca abhilakṣya prādurbhavaṃti |*) The Maruts, always of a moving nature, make other things (trees and the like) also shake. Taking as occasion the arising of the oblation-food and of the plants and the like that are the means of this food, they become active in their work; and they are intent also on bringing about a good state such as heaven for the yajamānas and others who offer oblations for the gods. Having so described, it is said of अपां ऊर्मयो न (*apāṃ ūrmayo na*) that just as the waves of water in the sea rise one after another and are innumerable, so the number of the Maruts is endless, or they perform innumerable benefits.
+
+सहस्रियासः वंद्यासः गावो न—सहस्रसम्मिताः बहुक्षीरादि प्रदत्वेन स्तुत्याः गाव इव । (*sahasriyāsaḥ vaṃdyāsaḥ gāvo na—sahasrasammitāḥ bahukṣīrādi pradatvena stutyāḥ gāva iva |*) Beyond counting in their great number; and just as cows, by giving much milk and the like, do good to others, are objects of praise and worthy of eulogy, so, because the work of the Maruts serves the good of others, the Maruts are described as worthy of praise. And:
+
+आसा उक्षणः—समीप एव वृष्ट्युदकस्य सेक्तारः । (*āsā ukṣaṇaḥ—samīpa eva vṛṣṭyudakasya sektāraḥ |*) The word आसात् (*āsāt*) is read among the names for "near" (Ni. 3-9). That the Maruts visibly bestow rain-water on the world, and that cows visibly give milk and the like, is here stated through the relation of the standard of comparison and the thing compared.
+
+##### Grammar
+
+- वप्रासः — वप्रिः येषामस्ति वप्रासः । आर्त आदिभ्योऽच् (पा. सू. ५-२-१२७) इति मत्त्वर्थे अच् प्रत्ययः । यस्येति च इति सूत्रेण इकारलोपः । प्रत्ययस्वरेण अंतोदात्तो भवति । जसि परे आज्जसेरसुक् (पा. सू ७-१-५०) इति तस्यासुकागमः ।
+- स्वजाः — स्वयमेव जायंते इति स्वजाः । अन्येष्वपि दृश्यते (पा. सू. ३-२-१०१) इति । जनी प्रादुर्भावे इति धातोः ड प्रत्ययः । डित्वसामर्थ्याद्धातोः टिलोपः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- स्वतवसः — स्वं तवः येषां ते । बहुव्रीहौ प्रकृत्या पूर्वपदं (पा. सू. ६-२१) इति पूर्वपदप्रकृतिस्वरो भवति । **NOTE**
+
+### Printed p. 120
+
+- अभिजायंत — जनी प्रादुर्भावे धातुः । छांदसो वर्तमानार्थे लज् । श्यन् विकरणः । ज्ञाजनोर्जा (पा. सू. ७-३-७९) इति जादेशः । छांदसत्वादडागमो न भवति । यच्छब्दसंबंधान्निघातस्वरो न भवति । श्यनो नित्त्वादाद्युदात्तस्वरो भवति । तिजिचोदात्तवति (पा सू. ८-१-७१) इति गतेः (अभि) सर्वानुदात्तस्वरो भवति ।
+- सहस्रियासः — सहस्रेण तुल्याः सहस्रियासः । सहस्रेण संमितौ घः (पा. सू. ४-४-१३५) इति घ प्रत्ययः । आयनेयानी— (पा. सू. ७-१-३) इति तस्य इयादेशः । यस्येति च सूत्रेण प्रत्ययपूर्वस्याकारस्य लोपः । जसि परे अज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्यासुकागमः । प्रत्ययस्याद्युदात्तस्वरेण इकार उदात्तो भवति ।
+- अपां — षष्ठीबहुवचनांतरूपम् । ऊडिदंपदा— (पा, सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- ऊर्मयः — ऋ गत् धातुः । आर्तेरूच्च (उ. सू. ४-४८४) इति मि प्रत्ययः । धातोरूकारादेशः । रसवागि बरुत्तदॆ । प्रत्ययस्वरो भवति । जसि परे जसि च इति गुणः । अयादेशः । **NOTE**
+- वंद्यासः — वदि अभिवादनस्तुत्योः धातुः । ऋहलोर्ण्यत् (पा. सू. ३-१-१२४) इति ण्यत् प्रत्ययः । धातोरिदित्त्वात् ण्यत् प्रत्ययः । ईडवंदवृशंसदुहांण्यते (पा. सू. ६-१-२१४) इत्याद्युदात्तस्वरो भवति । जसि परे तस्यासुकागमः ।
+- उक्षणः — श्वनुक्सन्— (उ. सू. १-१५७) इति कनि प्रत्ययांतत्वेन निपातितः । जसि परे वा षपूर्वस्य निगमे (पा. सू. ६-४-९) इत्युपधादीर्घो न भवति ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमा॑सो॒ न ये सु॒तास्तृ॒प्तांश॑वो हृ॒त्सु पी॒तासो॑ दु॒वसो॒  ॑
+> नासते ।  
+> ऐषा॒मंसे॑षु रं॒भिणी॑व रारभे॒ हस्ते॑षु खा॒दिश्च॑ कृ॒तिश्च॒ सं द॑धे ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 114. pp. 109-114 (batch API)
+**Progress note:** Done through printed p. 120. pp. 115-120 (batch API)
