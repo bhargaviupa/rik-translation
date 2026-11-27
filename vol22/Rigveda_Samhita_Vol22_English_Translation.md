@@ -18543,6 +18543,246 @@ This Sūrya, shining brilliantly, rises being gladdened with praises (रेभ�
 
 Sūrya, who does not diminish his radiance, one in kind for the whole world, who shines in a special manner and is gratified by the praisers, comes rising from the midst of the dawns. This Savitṛ, divine in nature, fills my desired objects.
 
+### Printed p. 445
+Delighted by the praises (of his worshippers), the radiant sun rises from the lap of the dawns: that divine sun gratifies my desires, who limits not the lustre that is common (to all).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो रु॒क्म उ॑रु॒चक्षा॒ उदे॑ति दू॒रेअ॑र्थस्त॒रणि॒र्भ्राज॑मानः ।  
+> नू॒नं जनाः॒ सूर्ये॑ण॒ प्रसू॑ता॒ अय॒न्नर्था॑नि कृ॒णव॒न्नपां॑सि ‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । रुक्मः । उरुचक्षाः । उत् । एति । दूरेअर्थः । तरणिः । भ्राजमानः ।  
+> नूनं । जनाः । सूर्येण । प्रसूताः । अयन् । अर्थानि । कृणवन् । अपांसि
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सूर्यो रुक्मो रोचमान उरुचक्षाः प्रभूततेजाश्च सन्दिवोऽंतरिक्षादुदेति । यद्वा । दिवोऽंतरिक्षस्य रुक्म आभरणस्थानीयः । कीदृशोऽयं । दूरेअर्थो दूरेगंता ‖ अर्थोऽर्तेः ‖ दूरे प्रार्थ्यमानो वा । तरणिस्तारको भ्राजमानो दीप्यमानः सन्नुदेति । नूनं निश्चयं जनाः सर्वे प्राणिनः सूर्येण प्रेरकेण देवेन प्रसूता अनुज्ञाताः प्रेरिताः संतोऽर्थानि गंतव्यान्यनुष्ठेयान्यपांसि कर्माणि कृणवन् । कुर्वंति ‖
+
+##### Gist of the bhāṣya
+
+This sun, shining (रुक्मो (*rukmo*)) and of abundant lustre (उरुचक्षाः (*urucakṣāḥ*)), rises from the sky, the atmosphere. Or else: he is the ornament (रुक्म (*rukma*)) of the sky. What is he like? दूरेअर्थः (*dūrearthaḥ*) means one who travels far, or one who is sought from afar. He is तरणिः (*taraṇiḥ*), the one who carries across, and rises blazing. Surely all living beings, impelled and permitted by Sūrya, the impelling god, go to and perform the works that are to be gone to and carried out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूरे अर्थः (*dūre arthaḥ*)—one who travels very far
+- तरणिः (*taraṇiḥ*)—one who crosses the atmosphere
+- भ्राजमानः (*bhrājamānaḥ*)—the shining one
+- रुक्मः (*rukmaḥ*)—the golden-hued one
+- उरुचक्षाः (*urucakṣāḥ*)—the one of exceeding lustre; the sun
+- दिवः (*divaḥ*)—from the atmosphere
+- उदेति (*udeti*)—rises
+- नूनं (*nūnaṃ*)—certainly
+- जनाः (*janāḥ*)—all living beings
+- सूर्येण (*sūryeṇa*)—by the sun
+- प्रसूताः (*prasūtāḥ*)—impelled
+- आयन् (*āyan*)—turned toward their duties
+- अर्थानि (*arthāni*)—their works to be performed
+- अपांसि (*apāṃsi*)—works
+- कृणवन् (*kṛṇavan*)—do
+
+##### भावार्थ (Bhāvārtha)
+
+The sun, who travels very far, crosses the atmosphere, shines, is golden-hued and of exceeding lustre, rises from the atmosphere. All living beings
+
+### Printed p. 446
+impelled by the sun and turned toward their duties, perform their works to be performed; that is, all, impelled by the sun, turn to their duties and do their works.
+
+##### English translation
+The bright and glorious sun rises from the firmament far-going, traversing (the heavens), diffusing light: verily all brings animated by Surya proceed and execute their assigned labours.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रा॑ च॒क्रुर॒मृता॑ गा॒तुम॑स्मै श्ये॒नो न दीय॒न्नन्वे॑ति॒ पाथः॑ ।  
+> प्रति॑ वां॒ सूर॒ उदि॑ते विधेम॒ नमो॑भिर्मित्रावरुणो॒त ह॒व्यैः ‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । चक्रुः । अमृताः । गातुं । अस्मै । श्येनः । न । दीयन् । अनु । एति । पाथः ।  
+> प्रति । वां । सूरे । उत्ऽइते । विधेम । नमःभिः । मित्रावरुणा । उत । हव्यैः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्नंतरिक्षेऽमृता अमरणधर्माणः पूर्वे देवाः अस्मै सूर्याय गातुं मार्गं चक्रुः अकुर्वन् तत्पाथोऽंतरिक्षमन्वेति । अनुगच्छति । क इव । दीयन् गच्छन् श्येनो न शंसनीयगमनो गृध्र इव । अयमर्थर्चः सौर्य इत्युक्तं । हे मित्रावरुणा मित्रावरुणौ वां युवां सूरे सूर्य उदिते सति प्रातःसवने नमोभिर्नमस्कारैः स्तुतिभिरुतापि च हव्यैर्हविर्भिश्च प्रति विधेम । परिचरेम ‖
+
+##### Gist of the bhāṣya
+
+In the atmosphere where the immortal, deathless ancient gods made a path for this Sūrya, along that path, the atmosphere, he goes, like a hawk (श्येनो (*śyeno*)) of praised flight, a vulture, darting along. This half-Ṛk, it is said, is addressed to Sūrya. "O Mitra and Varuṇa, when the sun has risen, at the morning libation, we serve you with salutations, that is, praises, and with oblations."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which atmosphere
+- अमृताः (*amṛtāḥ*)—the gods free from the nature of death
+- अस्मै (*asmai*)—for this sun
+- गातुं (*gātuṃ*)—the path of travel
+- चक्रुः (*cakruḥ*)—made
+- पाथः (*pāthaḥ*)—in that same atmospheric path
+- दीयन् (*dīyan*)—moving swiftly
+- श्येनो न (*śyeno na*)—like a hawk
+- अन्वेति (*anveti*)—the sun travels
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- वां (*vāṃ*)—you
+- सूरे उदिते (*sūre udite*)—when the sun has risen (at the time of the morning libation)
+- नमोभिः (*namobhiḥ*)—with salutations
+- उत (*uta*)—and
+- हव्यैः (*havyaiḥ*)—with oblations
+- प्रति विधेम (*prati vidhema*)—we serve
+
+### Printed p. 447
+
+##### भावार्थ (Bhāvārtha)
+
+In the atmosphere where the immortal gods made a path for this sun, in that same atmosphere the sun travels like a swiftly moving hawk. O Mitra and Varuṇa, as soon as the sun has risen (at the time of the morning libation), we serve you with salutations and with oblations.
+
+##### English translation
+He travels the path which the immortals have prepared for his course darting along like a hawk: we worship you, Mitra and Varuna, when the sun has risen, with praises and oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+पाथः (*pāthaḥ*)—For the word पाथः (*pāthaḥ*) in this Ṛk, Yāska gives the explanation पाथोऽन्तरिक्षं पथा व्याख्यातं । श्येनो न दीयन्नन्वेति पाथः इत्यपि निगमो भवति (*pātho 'ntarikṣaṃ pathā vyākhyātaṃ | śyeno na dīyannanveti pāthaḥ ityapi nigamo bhavati*) (Ni. 6-7). That is, although the word पाथः (*pāthaḥ*) means a path, here he has explained it as the atmosphere, the path on which the sun travels. And of the word पंथाः (*paṃthāḥ*) he says: पंथाः पतेर्वा पद्यतेर्वा पंथतेर्वा (*paṃthāḥ patervā padyatervā paṃthatervā*) (Ni. 2-25). That is, he indicates that the word पंथाः (*paṃthāḥ*) may be formed from the root पत् (*pat*) meaning "fall down," or from the root पद् (*pad*) meaning "go," or from the root पंथ् (*paṃth*) meaning "move." These three roots all convey the sense of motion.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मि॒त्रो वरु॑णो अर्य॒मा न॒स्त्मने॑ तो॒काय॒ वरि॑वो  
+> दधंतु ।  
+> सु॒गा नो॒ विश्वा॑ सु॒पथा॑नि संतु यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मित्रः । वरुणः । अर्यमा । नः । त्मने । तोकाय । वरिवः । दधंतु ।  
+> सुगा । नः । विश्वा । सुपथानि । संतु । यूयं । पात । स्वस्तिभिः । सदा । नः
+
+### Printed p. 448
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो वरुणोऽर्यमा चैते त्रयो देवा  नोऽस्माकं त्मन आत्मन आत्महिताय तोकाय पुत्राय च वरिवो धनं दधंतु । प्रयच्छंतु । नोऽस्माकं विश्वा सर्वाणि गंतव्यानि सुगा सुगमनानि सुपथानि च संतु । भवंतु । शिष्टं गतं ‖
+
+##### Gist of the bhāṣya
+
+Mitra, Varuṇa and Aryaman, these three gods, are to bestow wealth (वरिवः (*varivaḥ*)) on us, for ourselves (त्मने (*tmane*), that is, for our own good) and for our son. May all our paths to be travelled be easy to go and good roads. The rest is already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अर्यमा (*aryamā*)—Aryaman
+- नु (*nu*)—now
+- नः (*naḥ*)—to us
+- त्मने (*tmane*)—for ourselves
+- तोकाय (*tokāya*)—for our sons
+- वरिवः (*varivaḥ*)—wealth
+- दधंतु (*dadhaṃtu*)—let them give
+- नः (*naḥ*)—for us
+- विश्वा (*viśvā*)—all
+- सुगा (*sugā*)—paths of travel
+- सुपथानि (*supathāni*)—fit for excellent travel
+- संतु (*saṃtu*)—let them be
+- (O gods) यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May Mitra, Varuṇa and Aryaman now give wealth to us ourselves and to our sons. May they make all our paths fit for excellent travel. O gods, always protect us with blessings.
+
+##### English translation
+May Mitra, Varuna, Aryaman grant affluence to us and to our posterity: may all paths be easy of access to us, and do you ever cherish us with blessings.
+
+## Sūkta 64 (Maṇḍala 7)
+The Kannada Anuvāda: The sūkta beginning दिवि क्षयंता (*divi kṣayaṃtā*) is the ninth sūkta in the fourth anuvāka. It has five Ṛks. Its seer is Vasiṣṭha; its deity is Mitra and Varuṇa; its metre is Triṣṭubh. The Anukramaṇikā says दिवि पंच (*divi paṃca*). In the third chandoma, when the Praüga śastra mantras are recited, the first three Ṛks of this sūkta are to be recited addressed to the deities Mitra and Varuṇa, as set out by the Āśvalāyana Śrauta Sūtra: दिवि क्षयंता रजसः पृथिव्यामा विश्ववाराश्विना गतं नः (*divi kṣayaṃtā rajasaḥ pṛthivyāmā viśvavārāśvinā gataṃ naḥ*) (Ā. 8-11).
+
+### Printed p. 449
+Sūkta 64
+Maṇḍala 7; Anuvāka 4; Sūkta 64
+Aṣṭaka 5; Adhyāya 4; Varga 6
+Number of Ṛks in the sūkta: 5
+Ṛṣi: Vasiṣṭha
+Devatā: Mitra and Varuṇa
+Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वि क्षयं॑ता॒ रज॑सः पृथि॒व्यां प्र वां॑ घृ॒तस्य॑ नि॒र्णिजो॑ ददीरन् ।  
+> ह॒व्यं नो॑ मि॒त्रो अ॑र्य॒मा सुजा॑तो॒ राजा॑ सुक्ष॒त्रो वरु॑णो जुषंत ‖ १ ‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवि । क्षयंता । रजसः । पृथिव्यां । प्र । वां । घृतस्य । निःनिजः । ददीरन्  
+> हव्यं । नः । मित्रः । अर्यमा । सुजातः । राजा । सुक्षत्रः । वरुणः । जुषंत
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवि द्युलोकेऽंतरिक्षे पृथिव्यां च वर्तमानस्य रजस उदकस्य क्षयंता । क्षयतिरैश्वर्यकर्मा । स्वामिनौ भवथः । हे मित्रावरुणौ वां युवाभ्यां प्रेरिता मेघा घृतस्य निर्णिज उदकस्य रूपाणि ददीरन् । ददते । प्रयच्छंति । अथवा वां युवाभ्यां घृतस्य निर्णिजो रूपाणि । घृतानीत्यर्थः । तानि ददीरन् । दीयंते । नोऽस्माकं संबंधि हव्यं मित्रः सुजातः सुष्ठु प्रादुर्भूतोऽर्यमा राजा सर्वस्य स्वामी सुक्षत्रः शोभनबलो वरुणश्चैते जुषंत । सेवंतां ‖
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you are lords (क्षयंता (*kṣayaṃtā*); the root क्षयति (*kṣayati*) has the sense of lordship) of the water (रजसः (*rajasaḥ*)) that is in the sky, the atmosphere, and on the earth. The clouds impelled by you give the forms of water, the घृतस्य निर्णिजः (*ghṛtasya nirṇijaḥ*). Or else: the forms of ghee, that is, ghee itself, are given to you. May Mitra, well born (सुजातः (*sujātaḥ*), excellently manifested), Aryaman, the king, lord of all, and Varuṇa, of good strength (सुक्षत्रः (*sukṣatraḥ*)), accept our oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवि (*divi*)—in the atmosphere
+- पृथिव्यां (*pṛthivyāṃ*)—and on the earth
+- रजसः (*rajasaḥ*)—of the water
+- क्षयंता (*kṣayaṃtā*)—O Mitra and Varuṇa, the lords
+- वां (*vāṃ*)—the clouds impelled by you
+- घृतस्य निर्णिजः (*ghṛtasya nirṇijaḥ*)—streams of water, or rain
+- ददीरन् (*dadīran*)—give (pour down)
+- [or वां (*vāṃ*)—for you; घृतस्य निर्णिजः (*ghṛtasya nirṇijaḥ*)—oblations in the form of ghee; ददीरन् (*dadīran*)—are offered]
+- नः (*naḥ*)—our, that is, offered by us
+- हव्यं (*havyaṃ*)—this oblation
+- मित्रः (*mitraḥ*)—Mitra
+- सुजातः (*sujātaḥ*)—excellently born
+
+### Printed p. 450
+- अर्यमा (*aryamā*)—Aryaman
+- राजा (*rājā*)—the lord of all
+- सुक्षत्रः (*sukṣatraḥ*)—the one of excellent favour
+- वरुणः (*varuṇaḥ*)—Varuṇa, these three
+- जुषंत (*juṣaṃta*)—let them accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, lords of all the waters in earth and atmosphere, the clouds, impelled by you, pour rain on the earth. (Or: ghee in the form of oblation is offered to you.) May Mitra, Aryaman of excellent people, and Varuṇa, lord of all and of excellent strength, these three, accept the oblation we now offer.
+
+##### English translation
+Ruling over the waters that are in heaven and earth, impelled by you (the clouds) assume the form of rain: may the auspiciously manifested Mitra, the royal Aryaman, the powerful Varuna accept our oblation.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रा॑जाना मह ऋतस्य गोपा॒ सिंधु॑पती क्षत्रिया यातम॒र्वाक् ।  
+> इळां॑ नो मित्रावरुणो॒त वृ॒ष्टिमव॑ दि॒व इ॑न्वतं जीरदानू ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । राजाना । महः । ऋतस्य । गोपा । सिंधुपती इति सिंधु-पती । क्षत्रिया । यातं ।  
+> अर्वाक् ।  
+> इळां । नः । मित्रावरुणा । उत । वृष्टिं । अव । दिवः । इन्वतं । जीरदानू इति जीरदानू ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजाना सर्वस्य स्वामिनौ हे महो महत ऋतस्योदकस्य यज्ञस्य वा
+> गोपा गोपायितारौ ॥ सुबामंत्रिते परांगवत्स्वर इति परांगवद्भावात् षष्ठ्यामंत्रितसमुदायस्य निघातत्वं । हे सिंधुपती नद्याः पालयितारौ हे क्षत्रिया बलवंतौ युवामर्वागस्मदभिमुखमा यातं । आगच्छतं । किं च हे मित्रावरुणा
+> मित्रावरुणौ हे जीरदानू क्षिप्रदानौ युवां नोऽस्मभ्यमिळामन्नमुतापि च
+> पुष्टिं च तत्साधिकां वृष्टिं च दिवोऽंतरिक्षादवावस्तादिन्वतं । प्रेरयतं ॥
+
+##### Gist of the bhāṣya
+
+O kings, lords of all, O guardians (गोपा (*gopā*)) of the great (महः (*mahaḥ*)) water or sacrifice (ऋतस्य (*ṛtasya*)): the vocative group takes the lowered accent in the genitive because of the rule सुबामंत्रिते परांगवत्स्वर (*subāmaṃtrite parāṃgavatsvara*). O lords of the river (सिंधुपती (*siṃdhupatī*)), protectors of the stream, O mighty ones (क्षत्रिया (*kṣatriyā*)), come hither, toward us. Further, O Mitra and Varuṇa, swift givers (जीरदानू (*jīradānū*)), send down to us from the sky, the atmosphere, food (इळां (*iḷāṃ*)), nourishment, and the rain that produces it.
+
 ---
 
-**Progress note:** Done through printed p. 444. pp. 439-444 (batch API)
+**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
