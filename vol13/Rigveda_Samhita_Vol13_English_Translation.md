@@ -15218,6 +15218,182 @@ Here the word त्मनं (*tmanaṃ*) is explained as आत्मानं
 - नरा — सुपां सुलुक्—(पा. सू. ७-१-३) इति द्विवचनस्य आकारादेशः । आमंत्रित निघातस्वरो भवति । **NOTE**
 - इषयध्यै — इष गत् इति धातुः । तुमर्थे तुमर्थे सेसेनसे—(पा. सू. ३-४-९) इति अध्यै प्रत्ययः । कृन्मेजंतः इति अव्ययसंज्ञा भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
 
+### Printed p. 637
+- वर्तिः — वृतु वर्तने इति धातुः । हृपिषिरुहि वृति—(उ. सू. ४-५५८) इति इन् प्रत्ययः । पुगंतलघूपधस्य च इति लघूपधगुणः । व्यत्ययेन अंतोदात्तस्वरो भवति । वर्तते अत्र इति वर्तिः गृहम् ।
+- त्मने — आत्मने इति रूपे सति मंत्रेष्वाज्यादेरात्मनः (पा. सू. ६-४-१४१) इति आदेः आकारस्य लोपः ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा वां॒ वृको॒ मा वृ॒कीरा द॑धर्षी॒न्मा परि॑ वर्क्तमु॒त माति॑ धक्तं ।  
+> अ॒यं वां॑ भा॒गो निहि॑त इ॒यं गीर्दस्रा॑वि॒मे वां॑ नि॒धयो॒  ॑
+> मधूनां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । वां । वृकः । मा । वृकीः । आ । दधर्षित् । मा । परि । वर्क्तं । उत । मा ।  
+> अति । धक्तं ।  
+> आयं । वां । भागः । निहितः । इयं । गीः । दसौ । इमे । वां । निधयः  
+> मधूनां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्रौ शत्रूणामुपक्षपयितारावश्विन् वां युवयोरनुग्रहादिति शेषः ।
+> वृको हिंसकोऽरण्यश्चादिर्मा ददर्षीन्मां । तथा वृकीर्वृक्को हिंसका अन्या अपि
+> मा दधर्षीत् ॥ वचनव्यत्ययः ॥ धर्षणं मा कार्षुः । युवामेव वा मा दधर्षिदिति
+> योज्यं । तथा युवां मा परि वर्क्तं । परितो मा वर्दयतं मां । उशापि च
+> माति धक्तं । अस्मानतिक्रम्यान्यस्मै मा दत्तं । किमर्थमेवमिति उच्यते । वां
+> युवयोरर्थायायं भागो भजनीयो हविरंशो निहितः । तथेयं च गीः
+> स्तुतिरूपा वागपि निहितेति शेषः । हे दस्रावश्विन् वां युवाभ्यामिम इमानि
+> मधूनां सोमरसानां निधयो निधानानि स्थापितानि ॥
+
+##### Gist of the bhāṣya
+
+"O Dasras, destroyers of enemies, O Aśvins, by your favour (this is to be supplied) let no wolf, no ravening animal of the forest, assail me." Likewise the वृकीः (*vṛkīḥ*) (she-wolves), that is, other harming creatures too, must not assail me; the plural stands for the singular by change of number (the sense being "let them not do harm"). Or else the construction is: "let you two yourselves not assail me." Further: मा परि वर्क्तं (*mā pari varktaṃ*)—do not abandon me on every side; and माति धक्तं (*māti dhaktaṃ*)—do not pass us by and give us to another. Why this request? For you two this portion, the share of the oblation to be enjoyed, has been set down; and this गीः (*gīḥ*), the speech that takes the form of praise, has likewise been set down (this is to be supplied). O Dasra Aśvins, for you these treasure-stores of the Soma juices, the मधूनां (*madhūnāṃ*), have been established.
+
+> ओं
+
+### Printed p. 638
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे (*he*)—O
+- हस्तौ (*hastau*)—O Aśvin deities, destroyers of enemies **NOTE**
+- वां (*vāṃ*)—(by) your two (favour)
+- वृकः (*vṛkaḥ*)—the (harming) wolf
+- मा आ दधर्षित् (*mā ā dadharṣit*)—let it not harm (me); likewise the वृकीः (*vṛkīḥ*), she-wolves and the like, let them not harm
+- वृकीः (*vṛkīḥ*)—she-wolves and the like
+- मा परि वर्क्तं (*mā pari varktaṃ*)—do not both of you abandon me
+- उत (*uta*)—and
+- मा अति धक्तं (*mā ati dhaktaṃ*)—leaving (us) do not give (us) to others, or do not hand (us) over to others
+- वां (*vāṃ*)—for you two
+- अयं भागः (*ayaṃ bhāgaḥ*)—this share of the oblation
+- निहितः (*nihitaḥ*)—has been placed
+- इयं गीः (च) (*iyaṃ gīḥ (ca)*)—this speech in the form of praise too is made ready for you
+- इमे (*ime*)—these
+- मधूनां (*madhūnāṃ*)—of the Soma juices, which are like honey
+- निधयः (*nidhayaḥ*)—vessels that are like treasure-stores (have been placed)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, let no wolf or she-wolf harm me, who am worthy of your favour; do not abandon me, nor hand me over to anyone else; your share of the oblation is ready; this praise is addressed to you alone; these honey-like Soma juices have been set ready for you.
+
+##### English translation (H. H. Wilson)
+Let not the wolf, let not the she-wolf, harm me, safe (in your
+protcction); obandon me not, nor deliver me (to another). This your share
+of the offering is prepared ; this prayer, Dasras, (is addressed) to you; these
+treasures of Soma juice are for you.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the Aśvin deities are prayed to save the worshipper from harm by the wolf. The word वृक (*vṛka*) is ordinarily taken to mean "wolf". The story that the Aśvins freed from the wolf's mouth the bird called Vartikā, seized by a wolf, is indicated in Ṛ. Saṃ. 1-12-8. In many places too it is stated that this cruel animal used to trouble cattle and the like. But wherever the word वृक (*vṛka*) is used, the conventional meaning "cruel animal" cannot be given. For example:
+
+सुपर्णा एत आसते मध्य आराधने दिवः । ते सेधंति पथो वृकं तरंतं यह्वतीरपो वित्तं मे अस्य रोदसी ॥ (*suparṇā eta āsate madhya ārādhane divaḥ | te sedhaṃti patho vṛkaṃ taraṃtaṃ yahvatīrapo vittaṃ me asya rodasī ‖*) (Ṛ. Saṃ. 1-105-11)
+
+### Printed p. 639
+Here there is the description: "The sun's rays, of lovely descent, stay in the middle of the all-pervading atmosphere. On the way they cross the great waters and stop the wolf that is coming to eat Trita." Here Sāyaṇa shows two kinds of meaning for the word वृक (*vṛka*). First:
+
+कूपपतनात्पूर्वं त्रितं दृष्ट्वा एनं भक्षयितुं कश्चिदरण्यश्वा महतीं नदीं ति तीर्षुः आजगाम । स च सूर्यरश्मीन् दृष्ट्वा अयमवसरो न भवतीति निववृते । अतो रश्मयो वृकं निषेधंतीत्युच्यते (*kūpapatanātpūrvaṃ tritaṃ dṛṣṭvā enaṃ bhakṣayituṃ kaścidaraṇyaśvā mahatīṃ nadīṃ ti tīrṣuḥ ājagāma | sa ca sūryaraśmīn dṛṣṭvā ayamavasaro na bhavatīti nivavṛte | ato raśmayo vṛkaṃ niṣedhaṃtītyucyate*)
+
+Before Trita fell into the well, the wolf, trying to cross a great river, saw the sun's rays and turned back, thinking that this was not the time; hence the meaning is that the sun's rays stopped the wolf. After saying this first, he then says:
+
+यास्कपक्षे तु—आप इत्यंतरिक्षनाम । यह्वतीरपो महदंतरिक्षं पथः पथा द्वादशराश्यात्मना मार्गेण तरंतं वृकं चंद्रमसं सूर्यरश्मयो निषेधंति । अहनि हि सूर्यरश्मिभिः निरुद्धश्चंद्रमा निष्प्रभो दृश्यते । अतो निष्प्रभं कुर्वंतीत्यर्थः । (*yāskapakṣe tu—āpa ityaṃtarikṣanāma | yahvatīrapo mahadaṃtarikṣaṃ pathaḥ pathā dvādaśarāśyātmanā mārgeṇa taraṃtaṃ vṛkaṃ caṃdramasaṃ sūryaraśmayo niṣedhaṃti | ahani hi sūryaraśmibhiḥ niruddhaścaṃdramā niṣprabho dṛśyate | ato niṣprabhaṃ kurvaṃtītyarthaḥ |*)
+
+If, according to Yāska's view, the word अपः (*apaḥ*) means the atmosphere and the word वृक (*vṛka*) the moon, then the sun's rays prevent the moon's light from spreading through the great atmosphere in the daytime; so Sāyaṇa gives two meanings. And again:
+
+अरुणो मासकृद्वकः पथा यंतं ददर्श हि । उज्जिहीते निचाय्या तष्टेव पृष्टामयी वित्तं मे अस्य रोदसी ॥ (*aruṇo māsakṛdvakaḥ pathā yaṃtaṃ dadarśa hi | ujjihīte nicāyyā taṣṭeva pṛṣṭāmayī vittaṃ me asya rodasī ‖*) (Ṛ. Saṃ. 1-105-18)
+
+Here there is the description: "Once, as I was going along the road, a red wolf saw me; then, wishing to eat me, that wolf stretched its body upward and came chasing after me." And the Nirukta-author, explaining the word वृक (*vṛka*) in this quoted Ṛk, says:
+
+वृकश्चंद्रमा भवति । निवृतज्योतिष्कोवा विकृतण्योतिष्को वा विक्रांतजोतिष्टो वा । (*vṛkaścaṃdramā bhavati | nivṛtajyotiṣkovā vikṛtaṇyotiṣko vā vikrāṃtajotiṣṭo vā |*) (2. 5-20) **NOTE**
+
+वृक (*vṛka*) means the moon. The moon gets this name either because it makes light shine, or because it has diminished light, or because, compared with the stars, it has greater brilliance.
+
+### Printed p. 640
+Besides this, the word is used in several other senses. The Nirukta-author says आदित्योऽपि वृक उच्यते यदा वृज्क्त् (*ādityo 'pi vṛka ucyate yadā vṛjkt*) (Ni. 5-21), and, quoting the Ṛk
+
+अजोहवीदश्विना वर्तिका नामास्नो यत्सीममुंचतं वृकस्य । (*ajohavīdaśvinā vartikā nāmāsno yatsīmamuṃcataṃ vṛkasya |*) (Ṛ. Saṃ. 1-117-16)
+
+he gives the meaning "one who destroys darkness and spreads light"; so here वृक (*vṛka*) means the sun. Also श्वापि वृक उच्यते विकर्तनात् (*śvāpi vṛka ucyate vikartanāt*): because it bites, the अरण्यश्वा (*araṇyaśvā*), the forest dog (the wolf), is also called वृक (*vṛka*); he explains this by quoting the Ṛk
+
+वृकच्चिदस्य वारण उरामथिरा वयुनेषु भूपति । (*vṛkaccidasya vāraṇa urāmathirā vayuneṣu bhūpati |*) (Ṛ. Saṃ. 8-66-8)
+
+But in this Ṛk Sāyaṇa has taken the word वृक (*vṛka*) to mean "thief" (a name given because he carries off things). And in the Ṛk quoted above, अजोहवीदश्विना (*ajohavīdaśvinā*) (Ṛ. Saṃ. 1-117-16), Sāyaṇa gives this explanation:
+
+वर्तते प्रतिदिवसमावर्तते इति वर्तिका उषाः । वृक इति विवृतज्योतिष्कः सूर्यः उच्यते । तेन ग्रस्ता सती सा हे अश्विनौ युवां अजोहवीत् आह्वयत् यदा खलु युवां वृकस्य सूर्यस्य आस्नः आस्यस्थानीयान्मडलात् अमुंचतं अमोचयतं । सूर्येण एकीभूतामुषसं पृथक्कृत्य उदयात्पूर्वं रात्रेरपरभागे स्थापितवंतावित्यर्थः ॥ (*vartate pratidivasamāvartate iti vartikā uṣāḥ | vṛka iti vivṛtajyotiṣkaḥ sūryaḥ ucyate | tena grastā satī sā he aśvinau yuvāṃ ajohavīt āhvayat yadā khalu yuvāṃ vṛkasya sūryasya āsnaḥ āsyasthānīyānmaḍalāt amuṃcataṃ amocayataṃ | sūryeṇa ekībhūtāmuṣasaṃ pṛthakkṛtya udayātpūrvaṃ rātreraparabhāge sthāpitavaṃtāvityarthaḥ ‖*)
+
+That is, he takes वर्तिका (*vartikā*) to mean Uṣas and वृक (*vṛka*) to mean the sun, and cites Yāska's statement (Ni. 5-21) as the basis of this meaning; this has been explained earlier (Ṛ. Saṃ. 1-117-16). Further, the story has also been told earlier of the ass that draws the Aśvins' chariot being changed into the form of a wolf, and of Ṛjrāśva killing sheep and giving them to it as food, and being cursed by his father.
+
+In the present Ṛk, for the most part, the word वृक (*vṛka*) is understood to mean the अरण्यश्वा (*araṇyaśvā*), that is, the wolf.
+
+##### Grammar
+
+- वृकीः — वृञ् वरणे इति धातुः । सृवृभूशुषिमुषिभ्यः कक् (उ. सू. ३-३२१) इति कक् प्रत्ययः । कित्त्वात् गुणो न भवति । जातेरस्त्री विषयाद—(पा. सू. ४-१-६३) इति स्त्रीत्वे जीस् । जसि परे सुपां सुलुक् इति पूर्वसवर्णदीर्घः ।
+
+### Printed p. 641
+- पधर्षीत् — इध्यषा प्रागल्भ्ये इति धातुः । माजि लुज् (पा. सू. ३-३-१७५) इति माज् संबंधत्वात् लुज् । प्रथमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरो भवति । अत्र वृकीः इति कर्तृत्वे एकवचनं व्यत्ययेन आगतम् ।
+- वर्त्तम् — वृजी वर्जने इति धातुः । लज् मध्यमपुरुषद्विवचनस्य तस् थस् थ—(पा. सू. ३-४-१०१) इति तमादेशः । बहुलं छंदसि इति विकरणस्य लुक् । व्यत्ययेन लघूपथगुणः । चोः कुः (पा. सू. ८-२-३०) इति जकारस्य कुत्वे खरि च (पा. सू. ८-४-५५) इति चर्त्वम् । तिणंतनिघातस्वरो भवति ।
+- धक्तम् — डुधाण् धारणपोषणयोः इति धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । छांदसत्वेन वर्णविकारः आगतः । तिजंतनिघातस्वरो भवति ।
+- निहितः — पूर्वोक्तस्य धातोः कर्मणि क्त प्रत्ययः । वधातेर्हिः (पा. सू. ७-४-४२) इति धातोः हि आदेशः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (नि) उदात्तस्वरो भवति ।
+- निधयः — नि इति उपसर्गे उपपदे सति उपसर्गे घोः किः (पा. सू. ३-३-९२) इति धाञ् धातोः कि प्रत्ययः । आतोलोप इट च (पा. सू. ६-४-६४) इति धातोः आकारस्य लोपः । कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां गोत॑मः पुरुमा॒ळ्हो अत्रि॒र्दस्रा॒ हव॒तेव॑से ह॒विष्मा॑न् !  
+> दिशं॒ न दि॒ष्टामृ॑जू॒येव॒ यंता मे॒ हवं॑ नास॒त्योप॑ यातं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । गोतमः । पुरुमीळ्हः । अत्रिः । दस्रा । हवते । अवसे । हविष्मान् ।  
+> दितं । न । दिष्वां । ऋजुयाइव । यंता । आ । मे । हवं । नासत्या । उप । यातं ॥
+
+### Printed p. 642
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्रा दस्रावश्विन् युवां गोतमश्च पुरुमाळश्चात्रिश्च महर्षयश्च
+> एतेष्टेकैको हविष्मान् सन्नवसे रक्षणाय युष्मत्तर्पणाय वा हवते । आह्वयिति ।
+> एवमहमप्याह्वयामि । फलसाधनाह्वाने दृष्टांतः । यंतोपगंतोपगंतुकाम
+> ऋजूयेव ॥ द्वितीयाया आकारः ॥ ऋजुगामिनं मार्गज्ञं दिशां दिशं न
+> गंतव्यामभिमतां दिशं प्रति यथा तथा नामपि । यथाध्वगामी स्वगंतव्यस्य शीघ्रगमनाय मार्गज्ञ मृजुगामिनमाह्वयति तद्वत् । यद्वा । ऋजूयेव । इवशब्द
+> एवार्थे । गंता ऋजुनैव मार्गेणेष्टां दिशमिव तथा युष्मत्रीणनेन मार्गेण
+> स्वाभिमतं फलं प्राप्नोति । हे नासत्यावश्विन् मे मम हवमाह्वानमालक्ष्योप
+> यातं उपगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Dasras, O Aśvins: Gotama, Purumāḷha and Atri, these great seers, each of them, provided with oblation, invokes you for protection, or for your satisfaction; so I too invoke you. An illustration for invocation that yields its fruit: यंता (*yaṃtā*) means one who goes, one who wishes to go to a place. ऋजूयेव (*ṛjūyeva*): the ending of the accusative is ā. As a traveller calls a guide who goes straight and knows the road, for the quick going to the place he is to reach, towards the desired direction, so do I also. Or else: ऋजूयेव (*ṛjūyeva*)—the word इव (*iva*) is in the sense of एव (*eva*) (only). As a traveller reaches the direction he wishes only by a straight road, so by this path of pleasing you one obtains the fruit one desires. O Nāsatyas, O Aśvins, having marked my call, come near.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे दस्रा (*he dasrā*)—O Aśvin deities, worthy to be seen
+- युवां (*yuvāṃ*)—you two
+- गोतमः (*gotamaḥ*)—Gotama
+- पुरुमीळः (*purumīḷaḥ*)—Purumīḷa, and
+- अत्रिः (च) (*atriḥ (ca)*)—Atri, these three great seers (each one)
+- हविष्मान् (*haviṣmān*)—being provided with oblation and the like
+- अवसे (*avase*)—for their protection (for your satisfaction)
+- हवते (*havate*)—invoke (and in the same way)
+- यंता (*yaṃtā*)—a traveller
+- ऋजूया इव (*ṛjūyā iva*)—(having asked and learned from) one who goes straight (one who knows the road)
+- दिष्टां दिशं न (*diṣṭāṃ diśaṃ na*)—(follows) the desired road
+- ऋजूया इव (*ṛjūyā iva*)—(or else) by the straight road only
+- दिषां दिशं न (*diṣāṃ diśaṃ na*)—(as one reaches) the desired direction (I too worship you and obtain what I desire)
+- हे नासत्या (*he nāsatyā*)—O Aśvin deities
+- मे (*me*)—my
+- हवं (*havaṃ*)—call (hearing it)
+- उप यातं (*upa yātaṃ*)—come (to our sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+O Dasras, of old each of the three great seers Gotama, Purumāḷva and Atri, provided with oblation and the like, invoked you to satisfy you. I too, for the attainment of what I desire (as a traveller follows the right road and reaches the place intended; as a traveller asks and learns from those who know the way to the intended place), praise you alone, like those seers; do you also grant my call and come to our sacrificial hall.
+
+##### English translation (H. H. Wilson)
+Gotama, Purumilha, Atri (each) offering oblations, invokes you for his protection; like unto a way-farer, who (makes for his intended direction) by a straight (path), do you Dasras, come (direct) to my invocation.
+
 ---
 
-**Progress note:** Done through printed p. 636. pp. 631-636 (batch API), grammar entry split by the page break closed
+**Progress note:** Done through printed p. 642. pp. 637-642 (batch API)
