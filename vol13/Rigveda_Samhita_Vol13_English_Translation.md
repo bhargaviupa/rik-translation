@@ -5913,6 +5913,118 @@ Here वेः यथा (*veḥ yathā*) is taken to mean "in the manner of a b
 वयः सुवर्णा उप सेदुरिंद्रं प्रियमेधा ऋषयो नाथमानाः । आप ध्वांतमूर्णुहि पूर्धि चक्षुर्मुमुग्धिस्मान्निधयेव बद्धान् ॥ (*vayaḥ suvarṇā upa seduriṃdraṃ priyamedhā ṛṣayo nāthamānāḥ | āpa dhvāṃtamūrṇuhi pūrdhi cakṣurmumugdhismānnidhayeva baddhān ‖*) (Pu. Se. 10-73-11). **NOTE**
 This Ṛk too belongs among the Marutvatīya nivid mantras. Here, for the word वयः (*vayaḥ*) the Nirukta author shows the derivation, saying,
 
+### Printed p. 241
+
+In this the author of the Nirukta, showing the derivation of the word वयः (*vayaḥ*), says:
+
+वयो वेर्बहुवचनं । सुपर्णः सुपतनाः (*vayo verbahuvacanaṃ | suparṇaḥ supatanāḥ*) (Ni. 4-3).
+
+The plural of the word वि (*vi*) is वयः (*vayaḥ*). The word वि (*vi*) has been explained to mean that the sages come swiftly and join Indra, as birds with fine plumage come flying. Sāyaṇa himself has in many places explained that the epithet वयः (*vayaḥ*) belongs to the Maruts, because of their attractive manner of moving and because of their likeness to birds: गंतैत्वात्, पक्षिसादृश्याद्वा मरुतोऽत्र वय उच्यंते (*gaṃtaitvāt, pakṣisādṛśyādvā maruto 'tra vaya ucyaṃte*) (Ṛ. Saṃ. 1-155-5). In the same way here too, वेः यथा (*veḥ yathā*) can be explained as "like a bird". Then we must find out what नभन्यं (*nabhanyaṃ*) means. Earlier Sāyaṇa explained the word नभन्यः (*nabhanyaḥ*) thus: सभसि आकाशे भवो सभस्वान् वायुरिव । (*sabhasi ākāśe bhavo sabhasvān vāyuriva |*) (Ṛ. Saṃ. 1-149-3). **NOTE**
+
+The word is used there as an epithet of the wind, which stands in the sky. Since the author of the Nirukta included the word नभति (*nabhati*) among the names of killing, in नभति, आर्दति (*nabhati, ārdati*) (Ni. 2-19), Sāyaṇa, relying on this, gave another meaning in the Ṛk at hand: नभोप्यापिनं हिंसकं ना राक्षसादिकस्य (*nabhopyāpinaṃ hiṃsakaṃ nā rākṣasādikasya*); he has shown that the sense is also "of a harming demon". But in
+
+प्र ब्रह्माणो अंगिरसो नक्षंत प्र क्रंदनुर्नभन्यस्य वेतु । प्र धेनव उदपुतो नवंत युज्यातामद्री अध्वरस्य पेशः ॥ (*pra brahmāṇo aṃgiraso nakṣaṃta pra kraṃdanurnabhanyasya vetu | pra dhenava udaputo navaṃta yujyātāmadrī adhvarasya peśaḥ ‖*) (Ṛ. Saṃ. 7-421) **NOTE**
+
+he has explained the word as "praise", नभन्यस्य स्तोत्रस्य (*nabhanyasya stotrasya*). In this context, as Keith says, "Springing forth", the inner feeling shines out in the form of a poetic praise and approaches Indra as a hymn; then the likeness to a bird is fitting. The scholar Monier-Williams too, in his Sanskrit-English Dictionary, has explained this word as "Springing forth (as a hymn, horse etc)". **NOTE**
+
+Therefore, in the sentence नभन्यं साम यथा वेः (*nabhanyaṃ sāma yathā veḥ*) in the Ṛk at hand, rather than making वेः (*veḥ*) a verb as Sāyaṇa has done, it is more fitting to take वेः (*veḥ*) as the genitive of the word वि (*vi*) and explain: a Sāma-praise, swift and attractive like a bird, arises from the heart, comes and approaches Indra. The meaning of the word साम (*sāma*) also supports this.
+
+### Printed p. 242
+
+साम (*sāma*)—the author of the Nirukta, giving the derivation of this word, says:
+
+साम सम्मितमृचास्यतेर्वर्चा समंमेन इति नैदानाः । (*sāma sammitamṛcāsyatervarcā samaṃmena iti naidānāḥ |*) (Ni. 7-12).
+
+He says that it became known as साम (*sāma*) either because it shows its measure by the measure of the Ṛk, or because it is formed from the root अस् (*as*) (to throw, क्षेपणॆ (*kṣepaṇè*)). He also states the opinion of the निदान (*nidāna*) scholars: it has a measure equal to the Ṛk, therefore the name Sāma. And the relation between Ṛk and Sāma is told in the Aitareya Brāhmaṇa thus:
+
+ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा ना ऋक्सामोपावदन्निथुनं संभवाव प्रजात्या इति नेत्यब्रवीत्साम ज्यायान्वा अतो मम महिमेति ते द्वे भूत्त्वोपावदतां तेन प्रतिचन समवदत शास्तिस्रो भूत्त्वोपावदंस्तत्तिसृभिः समभवत्तस्मात्तिसृभिस्तुवंति तिसृभिरुद्गायंति तिसृभिर्हि साम संमितं तस्मादेकस्य बह्वो जाया भवंति नैकस्यै बहवः सह पतयो यद्वै तत्सा चामश्च समभवतां तत्सामाभवत्तत्साम्नः सामत्वं ॥ (*ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā nā ṛksāmopāvadannithunaṃ saṃbhavāva prajātyā iti netyabravītsāma jyāyānvā ato mama mahimeti te dve bhūttvopāvadatāṃ tena praticana samavadata śāstisro bhūttvopāvadaṃstattisṛbhiḥ samabhavattasmāttisṛbhistuvaṃti tisṛbhirudgāyaṃti tisṛbhirhi sāma saṃmitaṃ tasmādekasya bahvo jāyā bhavaṃti naikasyai bahavaḥ saha patayo yadvai tatsā cāmaśca samabhavatāṃ tatsāmābhavattatsāmnaḥ sāmatvaṃ ‖*) (Ai. Brā. 3-23).
+
+At the beginning the Ṛk and the Sāma were together; the Ṛk was in female form and the Sāma in male form. Then the Ṛk approached the Sāma and said, "Let us two form a marital union and have offspring." The Sāma replied, "No; my greatness is greater than yours." Then the Ṛk grew to twice her former size (became two forms) and asked again. Even then the Sāma did not agree. When she grew into three and asked, the Sāma agreed. Because the Sāma united with three Ṛks, they praise with three Ṛks (a तृच (*tṛca*)) and sing with three Ṛks. For this reason, in the world too, it is customary for men to have many wives; a woman cannot have many husbands. Thus, because the Ṛk and the Sāma joined together (सा (*sā*) + अम (*ama*)), the name साम (*sāma*) became established.
+
+That the relation between the Ṛk, in the form of the praise-verse, and the Sāma is a marital relation is set forth in many places. In the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads, the Ṛk is designated the wife and the Sāma the husband.
+
+तद्यथा पितुः पुत्रमेवं त्रीणि प्रथमान्याहाथ कस्मादृक्षामयोः संक्रामतीति साम वा ऋचः पतिस्तद्यत्तत्रापि यथा पितुः पुत्रमेवं ब्रूयाद्यथा (*tadyathā pituḥ putramevaṃ trīṇi prathamānyāhātha kasmādṛkṣāmayoḥ saṃkrāmatīti sāma vā ṛcaḥ patistadyattatrāpi yathā pituḥ putramevaṃ brūyādyathā*)
+
+### Printed p. 243
+
+पतिग्ंसंतं पुत्रं ब्रूयात्तादृक्तत्तस्मादृक्सामयोः संक्रामति तस्मा त्रिः संतनोतीति पितरं पुत्रं पौत्रं तांस्तत्संतनोति तस्मादु तेभ्य एक ए वधाति ॥ (*patigṃsaṃtaṃ putraṃ brūyāttādṛktattasmādṛksāmayoḥ saṃkrāmati tasmā triḥ saṃtanotīti pitaraṃ putraṃ pautraṃ tāṃstatsaṃtanoti tasmādu tebhya eka e vadhāti ‖*) (Śa. Brā. 8-1-3-5).
+
+If the question arises what propriety there is in comparing the relation of Sāma and Ṛk to that of father and son: the Sāma is the husband of the Ṛk, and accordingly it indicates the husband's position. By the three successions father, son, grandson, it also tells of the husband–wife relation between the Sāma and the Ṛk, which is threefold.
+
+Likewise, in the Chāndogya Upaniṣad, showing the relation between Ṛk and Sāma, it is described in one way in the adhidaivata view and in another way in the adhyātma view. As in the adhidaivata view (Chā. U. 1-6-1-8):
+
+इयमेवर्गग्निः साम तदेतदेतस्यामृच्यधूढं साम तस्माद्यच्यधूढ साम गीयत इयमेव साग्नि रमस्तत्साम ॥ (*iyamevargagniḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādyacyadhūḍha sāma gīyata iyameva sāgni ramastatsāma ‖*)
+
+अंतरिक्षमेवर्ग्यायुः साम तदेतदेशस्यामृच्यधूढं साम तस्मादृज धूढं साम गीयतेंतरिक्षमेव सा वायुरमस्तत्साम ॥ (*aṃtarikṣamevargyāyuḥ sāma tadetadeśasyāmṛcyadhūḍhaṃ sāma tasmādṛja dhūḍhaṃ sāma gīyateṃtarikṣameva sā vāyuramastatsāma ‖*)
+
+द्यौरेवर्गादित्यः साम तदेतदेतस्यामृच्यधूढं साम तस्माद्यच्यधूढि साम गीयते द्यौरेव सादित्योऽमस्तत्साम ॥ (*dyaurevargādityaḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādyacyadhūḍhi sāma gīyate dyaureva sādityo 'mastatsāma ‖*)
+
+नक्षत्राण्येवार्चंद्रमाः साम तदेतदेश्यामृच्यधूढं साम तस्मादृच धूढं साम गीयते नक्षत्राण्येव सा चंद्रमा अमस्तत्साम ॥ (*nakṣatrāṇyevārcaṃdramāḥ sāma tadetadeśyāmṛcyadhūḍhaṃ sāma tasmādṛca dhūḍhaṃ sāma gīyate nakṣatrāṇyeva sā caṃdramā amastatsāma ‖*)
+
+In this account, the relation of earth, atmosphere, heaven and stars to the deities fire, wind, sun and moon is declared to be the relation of Ṛk and Sāma. Identity is stated between earth and the rest and the Ṛk, and between fire and the other deities and the Sāma. As the Ṛk is the substrate of the Sāma, so earth and the rest are substrates of fire and the rest. Earth and the rest are the Ṛk; therefore these are सा (*sā*), and fire and the rest are अम (*ama*); the two together are known as साम (*sāma*). In the same way it is explained in the adhyātma view (Chā. U. 1-7-1 to 9):
+
+अथाध्यात्मं वागेवर्क्त्राणः साम तदेतदेतस्यामृच्यधूढं साम तस्मादृच धूढं साम गीयते । वागेव सा प्राणोऽमस्तत्साम ॥ (*athādhyātmaṃ vāgevarktrāṇaḥ sāma tadetadetasyāmṛcyadhūḍhaṃ sāma tasmādṛca dhūḍhaṃ sāma gīyate | vāgeva sā prāṇo 'mastatsāma ‖*)
+
+चक्षुरेवर्गात्मा साम..................चक्षुरेव सात्मामस्तत्साम ॥ (*cakṣurevargātmā sāma..................cakṣureva sātmāmastatsāma ‖*)
+
+शोत्रमेवर्ज्ञानः साम..................शोत्रमेव सा मनोऽमस्तत्साम ॥ (*śotramevarjñānaḥ sāma..................śotrameva sā mano 'mastatsāma ‖*)
+
+### Printed p. 244
+
+Thus speech, eye, ear and the like, as substrates of breath, self, mind and the like, show the relation between Ṛk and Sāma. Speech and the rest are the Ṛks (सा (*sā*)), breath and the rest are the अम (*ama*); the two together become Sāma. This is the explanation of the adhyātma view.
+
+In speaking thus of the relation between Ṛk and Sāma, the three worlds beginning with earth, and the deities fire and the rest who are the lords of these worlds, are said to be in this form; or else the Ṛk and Sāma themselves are in that form. In the adhidaivata form and in the adhyātma form the all-pervading nature of Ṛk and Sāma is described.
+
+स एष ये चैतस्मादवांचो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायंत्येतं ते गायंति तस्मात्ते धनसनयः । (*sa eṣa ye caitasmādavāṃco lokāsteṣāṃ ceṣṭe manuṣyakāmānāṃ ceti tadya ime vīṇāyāṃ gāyaṃtyetaṃ te gāyaṃti tasmātte dhanasanayaḥ |*) (Chā. U. 1-7-6)
+
+He is the lord of all the worlds belonging to the self that lie beneath this (within the eye), and of all desires. Those who sing this Sāma in the form of lute-song obtain all kinds of wealth. Not only this:
+
+अथ य एतदेवं विद्वान्ताम गायत्युभौ स गायति सोऽमुनैव स विष ये चामुष्मात्परांचो लोकास्तांश्चाप्नोति देवकामांश्च ॥ कं ते काममागायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्ताम गायति साम गायति ॥ (*atha ya etadevaṃ vidvāntāma gāyatyubhau sa gāyati so 'munaiva sa viṣa ye cāmuṣmātparāṃco lokāstāṃścāpnoti devakāmāṃśca ‖ kaṃ te kāmamāgāyānītyeṣa hyeva kāmāgānasyeṣṭe ya evaṃ vidvāntāma gāyati sāma gāyati ‖*) (Chā. U. 1-7-7 to 9)
+
+By this Sāma-singing all desires common to gods and men are obtained. Therefore the Udgātṛ may ask, "By this Sāma-singing, which wish of yours shall I make fulfilled?" For he who performs this sacred Sāma-singing becomes lord of all desires, worldly and heavenly, and is able to procure them.
+
+स य एतदेवं विद्वान्ताधु सामेत्युपास्ते अभ्याशो ह यदेवं साधवो धर्मा आ च गच्छेयुरुप च नमेयुः । ( (*sa ya etadevaṃ vidvāntādhu sāmetyupāste abhyāśo ha yadevaṃ sādhavo dharmā ā ca gaccheyurupa ca nameyuḥ | (*) (Chā. U. 2-1-4)
+
+The great soul who knows this truth meditates on the Sāma as the good (साधु (*sādhu*)). Good dharmas always come to protect him, and for the protection of his self they dwell in him and serve him. Thus the power of the Sāma is described in many ways. Besides, there are descriptions of the divisions of the Sāma, as in पंचविधं सामोपा सीत (*paṃcavidhaṃ sāmopā sīta*), and praises of its greatness are many,
+
+### Printed p. 245
+
+and it is praised in many ways as the direct means to the welfare of the self. Its account is very extensive, so those words of praise cannot be quoted here; the praise can be learned in the Chāndogya and the other texts.
+
+Therefore नभन्यं साम यथा वेः (*nabhanyaṃ sāma yathā veḥ*) can be explained as: a praise most excellent, arising from the heart, moving swiftly like a bird and approaching the deity.
+
+ववृधानं स्वर्वत् अर्चाम-वर्धमानं फलभूतेन स्वर्गेण तद्वत् शस्त्रं यथा वेः तथा पूजयाम शंसाम । (*vavṛdhānaṃ svarvat arcāma-vardhamānaṃ phalabhūtena svargeṇa tadvat śastraṃ yathā veḥ tathā pūjayāma śaṃsāma |*) स्तुतमनु शंसतीति न्यायात् (*stutamanu śaṃsatīti nyāyāt*). The priest called the Udgātṛ sings from the Sāmaveda. Since the Sāma-singing is sung in such a way that Indra understands it to pervade the sky and to harm the demons, following it we, the sacrificers, address Indra and worship him by reciting abundantly the Śastra-mantra that makes known the qualities of Indra, the giver of the fruit of heaven. By the rule that the recitation (शंस (*śaṃsa*)) follows the praise (स्तुत (*stuta*)), there is praise of the invoked deity, or praise of his qualities; and so, reciting the Śastras, we worship Indra. This is one kind of meaning given.
+
+In the second meaning: तदुक्तलक्षणं साम ववृधानं सर्वत्र यथा भवति तथा अर्चाम (*taduktalakṣaṇaṃ sāma vavṛdhānaṃ sarvatra yathā bhavati tathā arcāma*)—we praise and worship Indra with Śastra-mantras so that the Sāma recited by the priest called the Udgātṛ may grow everywhere. This is another meaning explained.
+
+धेनवः (*dhenavaḥ*)—गावः (*gāvaḥ*) (cows); अदब्धाः (*adabdhāḥ*)—दोग्धाः गावः अहिंसिताः (*dogdhāḥ gāvaḥ ahiṃsitāḥ*), milk-yielding cows, unharmed. The author of the Nirukta has read the word धेनु (*dhenu*) among the names of speech (Ni. 2-23).
+
+Forms derived from the root दभ् (*dabh*), which gives the sense "to harm, to destroy", are mostly Vedic only. The use of the word अदब्ध (*adabdha*), meaning unharmed, not destroyed, is likewise mostly Vedic. Commonly, when Agni is prayed to for protection, the epithet and the noun are used together: अदब्बेभिः पायुभिः (*adabbebhiḥ pāyubhiḥ*); अदब्बेभिः गोपाभिः (*adabbebhiḥ gopābhiḥ*).
+
+अदभेभिस्तव गोपाभिरिष्टेऽस्माकं पाहि त्रिषधस्थ सूरीन् । (*adabhebhistava gopābhiriṣṭe 'smākaṃ pāhi triṣadhastha sūrīn |*) (Ṛ. Saṃ. 6-8-7)
+
+This kind of usage is found in many Ṛks.
+
+धेनवः (*dhenavaḥ*)—धेनुर्धयतेर्वा, धिनोतेर्वा । धयतेऽसौ वत्सेनेति; तर्पय त्यसौ पयसा (*dhenurdhayatervā, dhinotervā | dhayate 'sau vatseneti; tarpaya tyasau payasā*) (Ni. 11-42). Cows are called धेनु (*dhenu*) either because the milk is sucked by the calf, or because the cow satisfies by giving milk.
+
+### Printed p. 246
+
+उप ह्वये सुदुघां धेनुमेतां सुहस्तो गोधुगुत दोहदेनां । श्रेष्ठं सवं सविता साविषन्नोऽभीद्धो घर्मस्तडु षु प्र वोचं ॥ (*upa hvaye sudughāṃ dhenumetāṃ suhasto godhuguta dohadenāṃ | śreṣṭhaṃ savaṃ savitā sāviṣanno 'bhīddho gharmastaḍu ṣu pra vocaṃ ‖*) (Ṛ. Saṃ. 1-164-26)
+
+The author of the Nirukta quotes this Ṛk and explains the word धेनु (*dhenu*) together with the epithet सुदुघां (*sudughāṃ*). And in this quoted Ṛk two kinds of meaning are given for the word धेनु (*dhenu*). One is, as explained above, a cow that is to be called and is full of milk. The second is वृष्टा प्रीणयित्रीं मेघलक्षणां धेनुं (*vṛṣṭā prīṇayitrīṃ meghalakṣaṇāṃ dhenuṃ*): as the ordinary धेनु (*dhenu*) satisfies the sacrificer with milk, so the cloud satisfies the world with rain, so the name धेनु (*dhenu*) is established for it too. The one who calls this cloud-cow is the Sun. And:
+
+धेनुं च पृश्निं वृषभं सुरेतसं विश्वाहा शुक्रं सयो अस्य मुक्षत । (*dhenuṃ ca pṛśniṃ vṛṣabhaṃ suretasaṃ viśvāhā śukraṃ sayo asya mukṣata |*) (Ṛ. Saṃ. 1-168-3)
+
+In such Ṛks the word धेनु (*dhenu*) is a synonym of earth. Because the earth satisfies the world with the wealth of plants and the like, this identity is stated.
+
+Sāyaṇa has used this word as an epithet of the word गावः (*gāvaḥ*) and explained it as "(cows) that yield milk abundantly".
+
+The word गौः (*gauḥ*) is read by the author of the Nirukta among the names of speech (Ni. 2-23). It is also said among the names of earth: गौरिति पृथिव्या नामधेयं (*gauriti pṛthivyā nāmadheyaṃ*) (Ni. 2-5). In गोभिस्सन्नद्दो आसि वीळयस्व (*gobhissannaddo āsi vīḷayasva*), चर्म च श्लेष्मा च गोशब्देनोच्यतॆ (*carma ca śleṣmā ca gośabdenocyatè*): hide and phlegm are denoted by the word गो (*go*). ज्यापि गौरुच्यते आदित्योऽपि गौरुच्यते, सुषुण्णो रश्मिरेक एव गौरिति उच्यते, सर्वॆऽपि रश्मयो गाव उच्यंते (*jyāpi gaurucyate ādityo 'pi gaurucyate, suṣuṇṇo raśmireka eva gauriti ucyate, sarvè 'pi raśmayo gāva ucyaṃte*) (Ni. 2-8): thus for the word गो (*go*) many meanings are stated: hide, phlegm, the rope tied to a bow, the Sun, the Suṣumṇā channel.
+
+Sāyaṇa has explained the word धेनु (*dhenu*) as cows, and has described the sense: बर्हिषि सद्मानं दिव्यं अविनार्सा बर्हिषि जीवंतं दिविभवं इंद्रं त्वां आगत्य परिचरंति क्षीरं दुहंति तथा अर्चाम (*barhiṣi sadmānaṃ divyaṃ avinārsā barhiṣi jīvaṃtaṃ divibhavaṃ iṃdraṃ tvāṃ āgatya paricaraṃti kṣīraṃ duhaṃti tathā arcāma*)—as cows, with their milk, serve Indra, the dweller in heaven who sits comfortably on the barhis, so we, the sacrificers, will worship Indra.
+
+स्वर्वत् (*svarvat*)—फलभूतेन स्वर्गेण तद्वच्छस्त्रं (*phalabhūtena svargeṇa tadvacchastraṃ*): a Śastra that is a means to the fruit of heaven. The word स्वर (*svara*) in the form of an affix-ending is used in hundreds of places in the Ṛgveda. The bare word स्वर (*svara*) too is well known. But its meaning cannot be known exactly. In one place
+
 ---
 
-**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
+**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
