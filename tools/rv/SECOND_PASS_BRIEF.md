@@ -1,6 +1,6 @@
 # Second pass — reader's brief (any legacy volume N; the dispatcher gives N and the page range)
 
-You read printed pages A–B of volume N. Files: base = Kannada book `volN/Rigveda_Samhita_VolN_Kannada_Text.md` (`<!-- printed P -->` marks; supplied text, numerals correct); English `volN/Rigveda_Samhita_VolN_English_Translation.md` (`### Page P`). Hints (noisy, optional): `volN/review/recheck/pPPPP.md`. Kind codes: `docs/ERROR_KINDS.md` (S1 digit, S2 number from memory, S3 printed number missing, S7 quotation misread, S13 Kannada prose/names misread, S14 wrong sense, S15 wrong attribution, S16 addition, S17 omission, S18 grammar page misstated, H29 misprint silently put right).
+You read printed pages A–B of volume N. Files: base = Kannada book `volN/Rigveda_Samhita_VolN_Kannada_Text.md` (`<!-- printed P -->` marks; supplied text, numerals correct); English `volN/Rigveda_Samhita_VolN_English_Translation.md` (`### Page P` or `### Printed p. P`). Hints (noisy, optional): `volN/review/recheck/pPPPP.md`. Kind codes: `docs/ERROR_KINDS.md` (S1 digit, S2 number from memory, S3 printed number missing, S7 quotation misread, S13 Kannada prose/names misread, S14 wrong sense, S15 wrong attribution, S16 addition, S17 omission, S18 grammar page misstated, H29 misprint silently put right).
 
 Read each page's Kannada against the English once, in this order:
 - **R1**: a number or reference missing, changed or from memory; a name or term wrong; roles reversed; an addition the Kannada does not have; an omission inside a paragraph; a misprint silently put right.

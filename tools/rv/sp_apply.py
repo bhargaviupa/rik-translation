@@ -62,7 +62,7 @@ def main():
                 fixes.append((f'p. {pg}',old,new,r['kind']+' second pass; '+note,r['basis'],'second-pass reader (Sonnet), rule: supplied text, intended reading certain'))
         else: st='bad_target'
         res.append((pg,tg,st,old[:60]))
-    out=ed.replace('.tsv','.result.tsv')
+    out=ed.replace('.tsv','.dry.result.tsv' if dry else '.result.tsv')      # a dry run never overwrites the record of a real apply
     with open(out,'w',encoding='utf8') as f:
         f.write('page\ttarget\tstatus\told\n'); [f.write('\t'.join(x)+'\n') for x in res]
     n=sum(1 for x in res if x[2]=='applied'); print(f'{len(rows)} edits: applied {n}; '+', '.join(f'{k} {sum(1 for x in res if x[2]==k)}' for k in ('not_found','ambiguous','same','bad_target','sanskrit_not_in_kannada') if any(x[2]==k for x in res)))
