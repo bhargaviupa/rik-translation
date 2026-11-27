@@ -6886,6 +6886,149 @@ In such contexts it also gives the meaning of path. In the present Ṛk it may b
 
 मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. De. 4-56)
 
+### Printed p. 283
+By sentences of this kind the fellowship of the Maruts and Indra in joy is shown. The word क्षोणीः (*kṣoṇīḥ*) is explained as "people" (निशः (*niśaḥ*)). Passages of the Śatapatha and other Brāhmaṇas, which show the relation that Indra is the lord and the Maruts are the subjects, were also cited earlier in the Special Topics on Ṛk 1-171-4.
+
+##### Grammar
+
+- सताम्—षष्ठी बहुवचनांतरूपम् । शतुरनुमोनद्यजादी (पा. सू. ६-१-१७३) इति विभक्तेः उदात्तस्वरः भवति ।
+- प्रपथिन्तमम्—अतिशायने तमबिष्ठनौ इति तमप् प्रत्ययः । पित्त्वात् अनुदात्तः भवति ।
+- परितंसयध्ये—परि उपसर्गः । तसि अलंकारे इति धातुः । चुरादिः । सत्यापपाश— (पा. सू. ३-१-२५) इति स्वार्थे णिच् । इदितो नुम् धातोः (पा. सू. ७-१-५८) इति नुमागमः । अस्मात् तुमनर्थे विवक्षिते तुमनर्थे सेसेनसे— (पा. सू. ३-४-९) इति अध्यै प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । एजंतकृदंतत्वात् अव्ययसंज्ञा भवति ।
+- सजोषसः—समानं जोषः येषां ते सजोषसः । समानस्य छंदस्य— इति समानशब्दस्य स भावः ।
+- अनुमदंति—मद तृप्तियोगे इति धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधः भवति । तिजिचोदात्तवति (पा. सू. ८-१-७१) इति गतेः (अनु) निघातस्वरः भवति । ॥ ७ ॥
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा हि ते॒ शं सव॑ना समु॒द्र आपो॒ यत्त॑ आ॒सु मदं॑ति दे॒वीः ।  
+> विश्वा॑ ते॒ अनु॒ जोष्या॑ भू॒द्गौः सू॒रींश्चि॒द्यदि॑ धि॒षा वेषि॒ जना॑न् ॥  
+> ॥ पदसात्क ॥  
+> एव । हि । ते । शं । सवना । समुद्रे । आपः । यत् । ते । आसु । मदंति । देवीः ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 284
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । ते । अनु । जोष्या । भूत् । गौः । सूरीन् । चित् । यदि । धिषा । वेषि ।  
+> जनान् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र एवा ह्येवं हि सति ते तव संबंधीनि सवनानि । सूयते
+> सोमोऽत्रेति सवनानि सोमयागाः । ते शं सुखकरा भवंति । कथं सति । यद्यदि
+> देवीर्देवो द्योतमाना आपः समुद्र उदकसमुद्रवणापादानभूतेऽंतरिक्ष
+> आसु प्रजासु निमित्त भूतासु ते त्वां मदंति मादयंति ॥ अंतर्भावितण्यर्थोऽयं ॥
+> यदा प्राण्युपकारार्थं वर्षणाय त्वां प्रेरयंति वृष्टुदकानि तदा खलु तव
+> सोमयागा। सुखकरा भवंति यज्ञसाधनवृष्टिप्रदानेन यागान्निर्वर्तयेत्यर्थः ।
+> किंच हे इंद्र विश्वा गौः सर्वापि स्तोत्रशस्त्ररूपा वाक्ते त्वामनुक्रमेण जोष्या
+> जोषणार्हा प्रीणयित्रि भूत् । भवति । कदा । यदि सूरींत्चित् स्तोत्रादिप्रेरयित्थन् स्तोतृजनानपि धिषा धिषणया प्रज्ञया वृष्टिप्रदानरूपेण कर्मणा
+> ना वेषि कामयसे तदा सर्वापि स्तुतिस्त्वदर्था भवति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this being so, your Soma sacrifices (सवनानि (*savanāni*), so called because Soma is pressed in them) become pleasant to you. How? If the divine, shining waters in the ocean—that is, in the atmosphere, the place from which water is drawn like an ocean—gladden you for the sake of these creatures. The verb here has an inner causative sense. When the rain-waters urge you to rain for the benefit of living beings, then your Soma sacrifices become pleasant: the meaning is that, by giving rain, the means of sacrifice, you should bring the sacrifices to completion. Further, O Indra, all speech, in the form of stotra and śastra, becomes in due order fit to be loved by you and pleasing to you. When? When, by understanding (धिषा (*dhiṣā*)), that is by the act of giving rain, you favour even the sages who urge on the praises, the singers; then every praise comes to be for your sake.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*) (hey)—O Indra
+- देवीः (*devīḥ*)—shining (divine)
+- आपः (*āpaḥ*)—waters
+- समुद्रे (*samudre*)—in the atmosphere
+- आसु (*āsu*)—with regard to the creatures
+- ते (*te*)—to you
+- यत् मदंति (*yat madaṃti*)—if they give delight
+- एवा हि (*evā hi*)—if so
+- ते (*te*)—your
+- सवना (*savanā*)—Soma sacrifices
+- शं (*śaṃ*)—(to you) become pleasant (and)
+- यदि (*yadi*)—when
+- सूरीन् चित् (*sūrīn cit*)—those who urge on the praises and so on
+- धिषा (*dhiṣā*)—with knowledge (by the act of giving rain)
+- वेषि (*veṣi*)—you desire
+- (तदा (*tadā*)—then)
+- विश्वा गौः (*viśvā gauḥ*)—all speech in the form of stotra and śastra
+- अनु (*anu*)—in due order
+- ते (*te*)—to you
+- जोष्या (*joṣyā*)—pleasing
+- भूत् (*bhūt*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the rain-waters urge you to rain for the benefit of living beings, the Soma sacrifices become pleasant to you; and only after the hymns have received understanding from you do all the praises, in the form of stotra and śastra, reach you.
+
+##### English translation (H. H. Wilson)
+The libations (offered) to you are, verily, the cause of happiness, since the divine waters (effused) in the firmament for the benefit of mankind
+
+### Printed p. 285
+afford you satisfaction. All praise, Indra, is acceptable to you, and you reward with understanding those who praise you.
+
+##### विशेषविषयगळु (Special Topics)
+
+सवना (*savanā*)—सूयते सोमः अत्रेति सवनानि सोमयागाः । (*sūyate somaḥ atreti savanāni somayāgāḥ |*) The word सवन (*savana*) is listed among the names of sacrifice (Ni. 3-19).
+
+एता विश्वा सवना तूतुमाकृषे स्वयं सूनो सहसो यानि दधिषे । वराय ते पात्रं धर्मणे तना यज्ञो मंत्रो ब्रह्मोद्यतं वचः । (*etā viśvā savanā tūtumākṛṣe svayaṃ sūno sahaso yāni dadhiṣe | varāya te pātraṃ dharmaṇe tanā yajño maṃtro brahmodyataṃ vacaḥ |*) (Ṛ. Saṃ. 10-50-6).
+
+In this Ṛk the word सवना (*savanā*) is explained as meaning स्थानानि (*sthānāni*). Here it is described that the word सवन (*savana*) means the Soma sacrifices, the occasions on which the Soma juice is pressed.
+
+By the word सवन (*savana*) here are indicated the pre-eminence of the sacrifice, which establishes a mutual relation between earth and atmosphere, and the relation between the sacrifice and Indra, who is the lord of this sacrifice, is satisfied by it, and therefore bestows favour on the world. It is also indicated that the savana is the chief means of the well-being and peace of both earth and atmosphere.
+
+The meaning of the word सवन (*savana*) is very deep; it reflects the principle of the universe. Just as the sacrifice has the division into the three savanas, so the Śruti passages describe that the affairs of the universe too have divisions following this one; that every individual life too has three stages corresponding to the three savanas; and that the creation of the Brāhmaṇa and the other castes also follows this division. Moreover, all the Śrutis explain that the deities Indra and the rest, who preside over the three savanas, themselves regulate the divisions of the universal principle and reflect them. Each savana too indicates its presiding deity, its metre and its act of creation. Only about the deity of the third savana is there disagreement in the Śruti itself.
+
+About the greatness of the savana the Taittirīya Saṃhitā speaks thus:
+
+प्रजापतिर्नाव ज्येष्ठस्स ह्येते नाग्रेयजत प्रजापतिरकामयत प्रजायेयेति स मुखतस्त्रिवृतं निरमिमीत तमग्निर्देवतान्नसृज्यत गायत्री छंदो रथंतरग्‌ंसाम ब्राह्मणो मनुष्याणामजः पशूनां तस्मात्ते मुख्या मुखतो ह्यसृज्यंतोरसो बाहुब्यां पंचदशं निरमिमीत तमिंद्रो देवतान्नसृज्यत त्रिष्टुप्‌ छंदो बृहत्साम राजन्यो मनुष्याणामविः पशूनां तस्मात्ते वीर्यावंतो वीर्याद्दस्यृज्यंत मध्यतस्स- (*prajāpatirnāva jyeṣṭhassa hyete nāgreyajata prajāpatirakāmayata prajāyeyeti sa mukhatastrivṛtaṃ niramimīta tamagnirdevatānnasṛjyata gāyatrī chaṃdo rathaṃtaragṃsāma brāhmaṇo manuṣyāṇāmajaḥ paśūnāṃ tasmātte mukhyā mukhato hyasṛjyaṃtoraso bāhubyāṃ paṃcadaśaṃ niramimīta tamiṃdro devatānnasṛjyata triṣṭup chaṃdo bṛhatsāma rājanyo manuṣyāṇāmaviḥ paśūnāṃ tasmātte vīryāvaṃto vīryāddasyṛjyaṃta madhyatassa-*)
+
+### Printed p. 286
+प्रदशं निरमिमित तं विश्वे देवा देवता अन्वसृज्यंत जगतीछंदो वैरूपग्ं साम वैश्यो मनुष्याणां गावः पशूनां तस्मात्त आद्या अन्नधानाद्य सृज्यंत तस्माद्भूयाग्ंसोन्येभ्यो भूयिष्ठा हि देवता अन्वसृज्यंत पत्त एकविगंशं निरमिमित ॥ (*pradaśaṃ niramimita taṃ viśve devā devatā anvasṛjyaṃta jagatīchaṃdo vairūpagṃ sāma vaiśyo manuṣyāṇāṃ gāvaḥ paśūnāṃ tasmātta ādyā annadhānādya sṛjyaṃta tasmādbhūyāgṃsonyebhyo bhūyiṣṭhā hi devatā anvasṛjyaṃta patta ekavigaṃśaṃ niramimita ‖*) (Tai. Saṃ. 7-1-14, 5).
+
+Because he performed the sacrifice at the beginning, Prajāpati is the eldest. Desiring to create, he poured forth the trivṛt stoma from his mouth. From it arose, among deities, Agni; among metres, Gāyatrī; among sāmans, Rathantara; among men, the Brāhmaṇa; among animals, the goat. When he poured forth the pañcadaśa stoma from his arm, there arose among deities Indra; among metres Triṣṭup; among sāmans Bṛhat; among men the Rājanya; among animals the sheep. When he poured forth the saptadaśa stoma from the middle, there arose among deities the Viśvedevas; among metres Jagatī; among sāmans the cow.
+
+Following this order, in the Soma sacrifice the offering of the morning savana is addressed to Agni, that of the midday savana to Indra, and that of the third savana to the Viśvedevas. As stated in the Atharvaveda, the morning savana is assigned to the Aśvins, the midday savana to Indra and Agni, and the third savana to the Ṛbhus (Atha. Ve. 9-1-2). As stated in the Aitareya Brāhmaṇa, the third savana belongs to the Ṛbhus; it is called Ārbhava Pavamāna. There is a legend about the Ṛbhus' qualification to receive the oblation in the sacrifice together with the gods. The Aitareya Brāhmaṇa narrates it thus:
+
+ऋभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातस्सवनादनुदत । (*ṛbhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātaḥsavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātassavanādanudata |*) (Ai. Brā. 13-6).
+
+By their supernatural power of action the Ṛbhus attained the place of the gods. When the gods then prepared to take them along with themselves to the drinking of Soma, Agni, joining with the Vasus, drove them away.
+
+तेभ्यो माध्यंदिने सवने वाचि कल्पयिसंस्तानिंद्रो रुद्रैर्माध्यंदिनात्सवनादनुडत । (*tebhyo mādhyaṃdine savane vāci kalpayisaṃstāniṃdro rudrairmādhyaṃdinātsavanādanuḍata |*) (Ai. Brā. 13-6).
+
+Later, when the gods prepared to make room for them at the midday savana, Indra, joining with the Rudras, drove them away.
+
+### Printed p. 287
+तेभ्यस्तृतीयसवने वाचि कल्पयिषंस्तान्विश्वेदेवाः अनोनुद्यंत नेह पास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव वा इमेऽंतेवासास्त्वमेवैभिः संपिबस्वेति स तथेत्यब्रवीत्सविता तान्वै त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् ॥ (*tebhyastṛtīyasavane vāci kalpayiṣaṃstānviśvedevāḥ anonudyaṃta neha pāsyaṃti neheti sa prajāpatirabravītsavitāraṃ tava vā ime 'ṃtevāsāstvamevaibhiḥ saṃpibasveti sa tathetyabravītsavitā tānvai tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat ‖*) (Ai. Brā. 6-13).
+
+At the time of the third savana, when the Viśvedevas did not admit them, Prajāpati said to Savitṛ, "These are your pupils; drink together with them"; and Savitṛ and Prajāpati drank along with the Ṛbhus. Thus the place of the Ṛbhus in the third savana is shown. As said in another place of the Aitareya Brāhmaṇa:
+
+प्रजापतिर्नै यज्ञं छंदांसि देवोभ्यो भागधेयानि व्यभजत्स गायत्रीमेवाग्नये वसुभ्यः प्रातःसवनेऽभजत्रिष्टुभमिंद्राय रुद्रॆभ्यो मध्यंदिने जगतीं विश्वेभ्यो देवेभ्य आदित्येभ्यस्तृतीयसवने ॥ (*prajāpatirnai yajñaṃ chaṃdāṃsi devobhyo bhāgadheyāni vyabhajatsa gāyatrīmevāgnaye vasubhyaḥ prātaḥsavane 'bhajatriṣṭubhamiṃdrāya rudrèbhyo madhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyastṛtīyasavane ‖*) (Ai. Brā. 12-2).
+
+Prajāpati divided the sacrificial shares and the metres among the gods. In the morning savana he gave Gāyatrī to Agni and the Vasus; in the midday savana Triṣṭup to Indra and the Rudras (the Maruts?); and in the third savana Jagatī to the Viśvedevas and the Ādityas.
+
+Since Agni reflects Brahmanical radiance, Indra the Kṣatriya power, and the Viśvedevas the Vaiśya activity, it is understood from the passages of the Taittirīya Saṃhitā cited above that the distinctions of caste in creation also follow these divisions of the savana. The Chāndogya Upaniṣad, explaining the same division from the spiritual point of view, says:
+
+ब्रह्मवादिनो वदंति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनं ॥ (*brahmavādino vadaṃti yadvasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanamādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanaṃ ‖*) (Bhā. U. 2-24-1).
+
+It is told that the morning savana is allotted to the Vasus, the midday savana to the Rudras, and the third savana to the Ādityas and the Viśvedevas; and the special mantras to be recited at the times of these savanas are given. From these mantras it is understood that excellent places in earth, atmosphere and heaven are obtained by the offerings made in these savanas.
+
+लोकद्वारमपावार्णा पश्येम त्वा वयं............अथ जुहोति नमोऽग्नये पृथिविक्षिते लोकक्षिते लोकं मे यजमानाय विंदैष वै यजमानस्य लोक एतास्मि ॥ (*lokadvāramapāvārṇā paśyema tvā vayaṃ............atha juhoti namo 'gnaye pṛthivikṣite lokakṣite lokaṃ me yajamānāya viṃdaiṣa vai yajamānasya loka etāsmi ‖*) (Chā. U. 2-24).
+
+### Printed p. 288
+Before the morning savana, addressing the Vasus, one prays: "Open the door to the entrance of your world; may we too obtain your sight"; and offering the oblation to Agni one becomes fit to obtain the excellent place in the world of earth. In the same way, praying to the Rudras and the Ādityas and offering oblations to them in the midday and third savanas, one becomes fit for the excellent place in the atmosphere and in heaven. Thus the greatness of the three savanas and the fruit of serving them are described. Moreover, the whole consciousness of man is described as a reflection of the Soma sacrifice, as stated below.
+
+पुरुषो वाव यज्ञस्तस्य यानि चतुर्विंशतिवर्षाणि तत्प्रातःसवनं चतुर्विंशत्यक्षरा गायत्री गायत्रं प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा नाव वसव एते हीदं सर्वं वासयंति ॥ (*puruṣo vāva yajñastasya yāni caturviṃśativarṣāṇi tatprātaḥsavanaṃ caturviṃśatyakṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ tadasya vasavo 'nvāyattāḥ prāṇā nāva vasava ete hīdaṃ sarvaṃ vāsayaṃti ‖*) (Bhā. U. 3-16-1).
+
+Man is the sacrifice. Since the Gāyatrī metre, of twenty-four syllables, is the metre of the morning savana, the first twenty-four years of man are the morning savana. The Vasus are the presiding deities of this offering; the vital breaths are the Vasus. Those breaths are the means of dwelling on earth.
+
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्माना वसव इदं मे प्रातःसवनं माध्यंदिनं सवनमनुसंतनुतेति माहं प्राणानां वसूनां मध्यॆ यज्ञो विलोप्सियेत्युद्धैव तत एत्यगदो ह भवति ॥ (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātmānā vasava idaṃ me prātaḥsavanaṃ mādhyaṃdinaṃ savanamanusaṃtanuteti māhaṃ prāṇānāṃ vasūnāṃ madhyè yajño vilopsiyetyuddhaiva tata etyagado ha bhavati ‖*) (Bhā. U. 3-16-2).
+
+If in the course of these twenty-four years the body suffers any weakness, then, if one prays to the Vasus: "O breaths (Vasus), the means of dwelling, let this morning savana of mine not be cut off in the middle, but carry me on to the midday savana; let this sacrifice of my life not be broken off", the man is freed from the weakness.
+
+अथ यानि चतुर्विंशद्वर्षाणि तन्नाध्यंदिनं सवनं चतुश्चत्वांशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा नाव रुद्रा एते हीदं सर्वं रोदयंति । (*atha yāni caturviṃśadvarṣāṇi tannādhyaṃdinaṃ savanaṃ catuścatvāṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tadasya rudrā anvāyattāḥ prāṇā nāva rudrā ete hīdaṃ sarvaṃ rodayaṃti |*) (Bhā. 3-16-3)
+
+The Triṣṭup metre has forty-four syllables; Triṣṭup is the metre of the midday savana. Therefore the next forty-four years, the second stage of man, form the midday savana in the sacrifice of life. The Rudras preside over it. Since, when the breath departs, they make everyone weep, these breaths are the Rudras.
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 282. pp. 277-282 (batch API), missing bhāṣya label inserted in kn.md
+**Progress note:** Done through printed p. 288. pp. 283-288 (batch API), missing Pada label inserted in kn.md
