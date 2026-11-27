@@ -4,3 +4,4 @@
 - 2026-11-27: Vol 13 w0205: the Pāṇini sūtra number in a grammar line written ೬-೪-೧೬ corrected to ೬-೪-೧೪ as in the Kannada file.
 - 2026-11-27: Vol 13 w0223: the sūtra number written ೬-೧-೧೮೯ (from memory) set back to ೬-೧-೧೭೯ as the Kannada file prints it.
 - 2026-11-27: Vol 13 w0277 (p. 279): the label *ಸಾಯಣಭಾಷ್ಯಂ* was missing before the bhāṣya block in the supplied text (the block count was one off); label inserted in kn.md by batch.py fix.
+- 2026-11-27: Vol 13 w0283 (p. 284): the label *ಪದಪಾಠಃ* was missing before the Pada block at the top of p. 284 (lost with the page break in the supplied text); label inserted in kn.md by batch.py fix.

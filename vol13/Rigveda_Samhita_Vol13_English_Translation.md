@@ -7029,6 +7029,134 @@ If in the course of these twenty-four years the body suffers any weakness, then,
 The Triṣṭup metre has forty-four syllables; Triṣṭup is the metre of the midday savana. Therefore the next forty-four years, the second stage of man, form the midday savana in the sacrifice of life. The Rudras preside over it. Since, when the breath departs, they make everyone weep, these breaths are the Rudras.
 **NOTE**
 
+### Printed p. 289
+If anything afflicts him at this age, let him say: "O Prāṇas, O Rudras, may this my midday pressing carry me on to the third pressing; let me, the sacrifice, not be cut off in the midst of the Prāṇas, the Rudras." He then recovers from it and becomes free of illness. तं चेहेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात् प्राणा रुद्रा इदं मे माध्यंदिनं सवनं तृतीयसवनमनुसंतनुतेति माहं प्राणानां रुद्राणां मध्यॆ यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति । (*taṃ cehetasminvayasi kiṃcidupatapetsa brūyāt prāṇā rudrā idaṃ me mādhyaṃdinaṃ savanaṃ tṛtīyasavanamanusaṃtanuteti māhaṃ prāṇānāṃ rudrāṇāṃ madhyè yajño vilopsīyetyuddhaiva tata etyagado ha bhavati |*) (Chā. U. 3-16-4)
+
+If, during these forty-four years that make up the midday pressing, any bodily weariness comes upon a man, he should then address the Rudras: "O Rudras, who are of the nature of the vital breaths, may this my midday pressing carry me on until the third pressing. May my life-sacrifice not be broken off in the middle." If he prays thus, the man is freed from the weariness.
+
+Then the forty-eight years are the third pressing. The jagatī has forty-eight syllables, and the third pressing belongs to the jagatī. The Ādityas depend upon it. The Prāṇas are the Ādityas, for they take up all this to themselves. अथ यान्यष्टाचत्वारिंशद्वर्षाणि तत्तृतीय सवनमष्टाचत्वारिंशदक्षरा जगती बागतं तृतीयसवनं तदस्यादित्या अन्वायत्ताः प्राणा नावादित्या एते हीदं सर्ववाददते । (*atha yānyaṣṭācatvāriṃśadvarṣāṇi tattṛtīya savanamaṣṭācatvāriṃśadakṣarā jagatī bāgataṃ tṛtīyasavanaṃ tadasyādityā anvāyattāḥ prāṇā nāvādityā ete hīdaṃ sarvavādadate |*) (Bhā. U. 3-16-5)**NOTE**
+
+The jagatī of forty-eight syllables is the metre of the third pressing; therefore the last forty-eight years of a man's life are of the nature of the evening pressing. Since at the time of the release of the vital breaths they draw everything into themselves, the Prāṇas are of the form of the Ādityas. And the Prāṇas, of the nature of the Ādityas, are the presiding deities of this third pressing.
+
+If at this age anything afflicts him, let him say: "O Prāṇas, O Ādityas, may this my third pressing extend my life; let me, the sacrifice, not be cut off in the midst of the Prāṇas, the Ādityas." He then recovers and becomes free of illness. तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्पाणा आदित्या इदं मे तृतीयसवनमायुरनु संतनोतीति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति. (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātpāṇā ādityā idaṃ me tṛtīyasavanamāyuranu saṃtanotīti māhaṃ prāṇānāmādityānāṃ madhye yajño vilopsīyetyuddhaiva tata etyagado haiva bhavati.*) (Bhā. U. 3-16-6)
+
+If weariness arises at this time, he should address the Ādityas: "May my sacrifice not be broken off in the middle. May my life live out in full." If he prays thus, the life-sacrifice is not broken off but is completed in all its parts.
+
+Mahidāsa Aitareya, knowing this, said: "Why do you afflict me with this, I who shall not die of it?" And he lived a hundred and sixteen years. He who knows thus lives a hundred and sixteen years. एतद्भस्म वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद । (*etadbhasma vai tadvidvānāha mahidāsa aitareyaḥ sa kiṃ ma etadupatapasi yo 'hamanena na preṣyāmīti sa ha ṣoḍaśaṃ varṣaśatamajīvatpra ha ṣoḍaśaṃ varṣaśataṃ jīvati ya evaṃ veda |*) (Bhā. U. 3-16-7)
+
+Because Mahidāsa Aitareya had this knowledge of the truth, he was not afraid of the bodily weariness and the like that did not befall him, and he lived a hundred and sixteen years so as to complete his life-sacrifice fully and in all its parts. Thus the greatness of the three pressings, which are of the nature of a man's life, is described. In the present Ṛk the relation between Indra, the presiding deity of all the means of sacrifice such as rain, and the pressing is described. And to Indra
+
+### Printed p. 290
+at the time when the Soma sacrifice that gives him satisfaction is performed, "all speech, both stotra and śastra, becomes pleasing to you". Since this is said, the stotras and śastras belonging to the Soma sacrifice are set out in order as follows.
+
+For the Prāśaṃsavana:**NOTE**
+Stotras: the बहिष्पवमान (*bahiṣpavamāna*) stotra; 4 आज्य स्तोत्रगळु (*ājya stotragaḷu*).
+Śastras: the Hotṛ's आज्य शस्त्र (*ājya śastra*); the Hotṛ's प्रलुग शस्त्र (*praluga śastra*)**NOTE**; 3 आज्यशस्त्र (*ājyaśastra*)s of the hotrakas (Maitrāvaruṇa, Brāhmaṇācchaṃsin, Acchāvāka).
+
+For the midday pressing:
+Stotras: the माध्यंदिनपवमानस्तोत्र (*mādhyaṃdinapavamānastotra*); 4 पृष्ठस्तोत्र (*pṛṣṭhastotra*)s.
+Śastras: the Hotṛ's मरुत्वतीयशस्त्र (*marutvatīyaśastra*); the Hotṛ's निष्केवल्यशस्त्र (*niṣkevalyaśastra*); 3 निष्केवल्यशस्त्र (*niṣkevalyaśastra*)s of the hotrakas.
+
+For the क्रियासवन (*kriyāsavana*):
+Stotras: the आर्भवपवमानस्तोत्र (*ārbhavapavamānastotra*); the अग्निष्टोव-साम (*agniṣṭova-sāma*).
+Śastras: the Hotṛ's वैश्वदेवशस्त्र (*vaiśvadevaśastra*); the Hotṛ's आग्निमारुतशस्त्र (*āgnimārutaśastra*).
+
+Thus the explanation of गौः (*gauḥ*) as speech consisting of stotra and śastra also indicates the close relation between Indra, the sacrifice, and the speech connected with the sacrifice. This relation is explained in the Śatapatha as follows.
+
+सोऽयं यज्ञो वाचमभिदध्यौ । मिथुनेनया स्यामिति ताग्ं संबभूव ॥ इंद्रो ह वा ईक्षां चक्रे । महद्वाइतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यॆन्मा तन्नाभिभवेदिति स इंद्र एव गर्भो भूत्वैतन्निथुनं प्रविवेश । स ह संवत्सरे जायमान ईक्षांचक्रे । महावीरा वा इयं योनिर्या मामदीधरत यद्वै मैतो महदेवाभ्वं नानुप्रजायेत यन्ना तन्नाभिभवेदिति ।............इंद्रस्य योनिरसीतींद्रस्य हैषा योनिरतो वा हैनां प्रनितन्प्रविशत्यतो वा जायमानो जायते तस्मादाहेंद्रस्य योनिरसीति ॥ (*so 'yaṃ yajño vācamabhidadhyau | mithunenayā syāmiti tāgṃ saṃbabhūva ‖ iṃdro ha vā īkṣāṃ cakre | mahadvāito 'bhvaṃ janiṣyate yajñasya ca mithunādvācaśca yènmā tannābhibhavediti sa iṃdra eva garbho bhūtvaitannithunaṃ praviveśa | sa ha saṃvatsare jāyamāna īkṣāṃcakre | mahāvīrā vā iyaṃ yoniryā māmadīdharata yadvai maito mahadevābhvaṃ nānuprajāyeta yannā tannābhibhavediti |............iṃdrasya yonirasītīṃdrasya haiṣā yonirato vā haināṃ pranitanpraviśatyato vā jāyamāno jāyate tasmādāheṃdrasya yonirasīti ‖*) (Śa. Brā. 3-2-1-25 to 29)
+
+The sacrifice desired to establish a connection with speech. Indra, knowing this, understood that a great power would certainly arise from the union of the two, and fearing that this power might become greater than his own, he himself entered them in the form of an embryo. After a year he was born in the form of a great power and himself became the sacrificer. Therefore it is well known that sacrifice and speech are pleasing to Indra.
+
+### Printed p. 291
+देवीः आपः समुद्रे ते मदंति (*devīḥ āpaḥ samudre te madaṃti*) आसु—द्योतमानाः आपः उदकसमुद्रवणापादानभूते अंतरिक्षे प्रजासु निमित्त भूतासु त्वां मादयंति । (*āsu—dyotamānāḥ āpaḥ udakasamudravaṇāpādānabhūte aṃtarikṣe prajāsu nimitta bhūtāsu tvāṃ mādayaṃti |*)—addressing Indra, the general meaning may be that the shining waters make Indra glad, for the sake of creatures, in the atmosphere, the region where waters take liquid form. But Sāyaṇa explains: यदा प्राण्युपकारार्थ० वर्षणाय त्वां प्रेरयंति वृष्ट्युदकानि तदा खलु तव सोमयागाः सुखकरा भवंति (*yadā prāṇyupakārārtha0 varṣaṇāya tvāṃ prerayaṃti vṛṣṭyudakāni tadā khalu tava somayāgāḥ sukhakarā bhavaṃti*)—when the rain-waters urge Indra to rain for the benefit of living beings, the Soma sacrifices become pleasing to Indra; therefore वृष्टिप्रदानेन यागान्निर्वर्तय (*vṛṣṭipradānena yāgānnirvartaya*)—by giving the rain that causes the sacrifice to be accomplished, may Indra accomplish the sacrifices. Thus the sacrificers' aspiration is described here.
+
+समुद्रे (*samudre*)—the word samudra is also read among the names of the atmosphere (Ni. 2-10). Here Yāska, since in common usage the word samudra denotes the mass of water on the earth, shows a doubt about the derivation of the word, and then explains it: समुद्र इत्येतत् पार्थिवेन समुद्रेण संदिह्यते (*samudra ityetat pārthivena samudreṇa saṃdihyate*).
+
+समुद्रवंत्यस्मादापः, समभिद्रवंत्येनमापः, सम्मोदंते अर्स्मि भूतानि समुदको भवति समुनत्तीति वा (*samudravaṃtyasmādāpaḥ, samabhidravaṃtyenamāpaḥ, sammodaṃte arsmi bhūtāni samudako bhavati samunattīti vā*). The waters assume different forms here as waves, billows and drops; or the waters come together and gather here, in your region; or the creatures of the water rejoice here; since water is denoted by the word udaka, the mass of water is denoted by the word samudaka; or the word samudra is used because it wets everything. So he explains the meaning of the word. And he narrates a story on this subject.
+
+देवापिश्चार्ष्टषेणः शंतनुश्च कौरव्या भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयां चक्रे । देवापिस्तपः प्रतिपेदे ततश्यंतनो राज्ये द्वादशवर्षाणि देवो न ववर्ष ॥ (*devāpiścārṣṭaṣeṇaḥ śaṃtanuśca kauravyā bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣecayāṃ cakre | devāpistapaḥ pratipede tataśyaṃtano rājye dvādaśavarṣāṇi devo na vavarṣa ‖*) (Ni. 2-11)
+
+Of the two princes of the Kuru line, Devāpi and Śantanu, the younger, Śantanu, was consecrated king. When the elder, Devāpi, undertook austerity, there was no rain for twelve years in Śantanu's kingdom.
+
+तमूचुब्रार्ह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देदापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्ते असानि याजयानि च त्वेति । (*tamūcubrārhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtanurdedāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste asāni yājayāni ca tveti |*) (Ni. 2-11)
+
+### Printed p. 292
+Then the brāhmaṇas said to King Śantanu: "You have been consecrated after passing over your elder brother, and so you practise unrighteousness; that is why there has been no rain in your kingdom." Hearing this, King Śantanu pressed his elder brother Devāpi to become king. Devāpi, unwilling to be king, said: "I shall be your priest so that rain may fall in your kingdom, and I shall perform the sacrifice for you." And so he had the sacrifice performed with the hymn for desiring rain. Having said this, Yāska cites the Ṛk of the hymn for desiring rain:
+
+अर्ष्टिषेणो होत्रमृषिर्निषीर्द देवापिर्देवसुमतिं चिकित्त्वा । स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥ (*arṣṭiṣeṇo hotramṛṣirniṣīrda devāpirdevasumatiṃ cikittvā | sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi ‖*) (Ṛ. Saṃ. 10-98-5)
+
+Here, on the sentence सः उत्तरस्मात् अधरं अपो दिव्याः अस्पृजत् (*saḥ uttarasmāt adharaṃ apo divyāḥ aspṛjat*), Yāska says: देवापिः अंतरिक्षाख्यात् समुद्रात् अधरं समुद्रं पार्थिवं प्रति प्रशस्ताः सस्यसंपत्करीः आपः अस्पृजत् (*devāpiḥ aṃtarikṣākhyāt samudrāt adharaṃ samudraṃ pārthivaṃ prati praśastāḥ sasyasaṃpatkarīḥ āpaḥ aspṛjat*)—Devāpi, by the favour of the gods pleased with his praise, created excellent waters that cause the increase of crops, beneficial even to the earthly sea, which is lower than the sea called the atmosphere. Thus he establishes the distinction between the atmospheric and the earthly seas. And the word samudra is also used in another sense:
+
+सविता यंत्रैः पृथिवीमरम्णादस्कंभने सविता द्यामद्यंहत् । अश्वमिनाधुक्षद्दुनिमंतरिक्षमतूर्ते बद्धं सविता समुद्रं ॥ (*savitā yaṃtraiḥ pṛthivīmaramṇādaskaṃbhane savitā dyāmadyaṃhat | aśvaminādhukṣaddunimaṃtarikṣamatūrte baddhaṃ savitā samudraṃ ‖*) (Ṛ. Saṃ. 10-149-1)
+
+Here समुद्रं उदकबंधितारं मेघं (*samudraṃ udakabaṃdhitāraṃ meghaṃ*)—the cloud that holds back the water; thus the word samudra is explained as meaning cloud.
+
+पवित्रवंतः परि वाचमासते पितैषां प्रत्नो अभि रक्षति व्रतं । महस्समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभं ॥ (*pavitravaṃtaḥ pari vācamāsate pitaiṣāṃ pratno abhi rakṣati vrataṃ | mahassamudraṃ varuṇastiro dadhe dhīrā icchekurdharuṇeṣvārabhaṃ ‖*) (Ṛ. Saṃ. 9-73-3)
+
+Here समुद्रं आदित्यं (*samudraṃ ādityaṃ*)—the word samudra is explained as meaning the sun.
+
+विश्वा गौः जोष्या (*viśvā gauḥ joṣyā*)—सर्वापि स्तोत्रशस्त्ररूपा वाक् जोषणार्हा प्रीणयित्रि (*sarvāpi stotraśastrarūpā vāk joṣaṇārhā prīṇayitri*). The Nirukta-writers begin with गौरिति पृथिव्या नामधेयं (*gauriti pṛthivyā nāmadheyaṃ*) (Ni. 2-5) and explain for the word go the meanings earth, phlegm, the string tied to a bow, the sun, rays, the sushumnā-nāḍī, and so on. Sāyaṇa explains the meaning as speech, and describes the sense that all the stotras and śastras addressed to Indra are such as to please Indra:
+
+### Printed p. 293
+The derivations of the word गौः (*gauḥ*) in the senses earth, animal and so on were given earlier. In the present context the word may also mean the sacrificial offering or the sun's ray that brings rain, and this meaning is fitting to the context. If the meaning is offering, then the oblations and other wealth that Indra may receive are what is intended.
+
+गा दास्यति गोदा गा मे देहित्येवं यं कामं कामयते सोऽस्मै कामः समृध्यते (*gā dāsyati godā gā me dehityevaṃ yaṃ kāmaṃ kāmayate so 'smai kāmaḥ samṛdhyate*) (Śa. Brā. 19-3. 16)
+
+Citing sentences such as this, the exact meaning of the word go was given earlier. It will be explained further later.
+
+सूरींश्चित् धिषा वेषि (*sūrīṃścit dhiṣā veṣi*)—the word sūri is stated among the names of worshippers (Ni. 3-19). Sāyaṇa explains the sense thus: Indra, favourably to the worshippers who urge him with stotras and other rites, bestows प्रज्ञया वृष्टिप्रदानरूपेण कर्मणा वा (*prajñayā vṛṣṭipradānarūpeṇa karmaṇā vā*), that is, wisdom or rain; therefore he is at all times a fit recipient of their praise.
+
+##### Grammar
+
+- एना — निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- सवना — सुञ् अभिषवे इति धातुः । अधिकरणार्थे ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू. ७-१-३९) इति अनादेशः । नपुंसकबहुवचने शेत्छंदसि बहुलं (पा. सू. ६-१-२०) इति शि इत्यस्य लोपः । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात्पूर्वमुदात्तस्वरो भवति ।
+- मदंति — मद तृप्तियोगे इति धातुः । प्रयोजकव्यापारदर्शनादंतर्भावितण्यर्थको धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । यद्योगान्निघातस्वरो न भवति । ल सार्वधातुकस्यानुदात्तत्वाद्धातुस्वरः शिष्यते ।
+- देवीः — सुपां सुलुक् (पा. सू ७-१-३९) इति जसि परे पूर्वसवर्णदीर्घो भवति ।
+- जोष्या — जुषी प्रीतिसेवनयोः इति धातुः । अर्हार्थे यत् प्रत्ययः । पुगंतलघूपधस्य च इति लघूपधगुणः । यशोनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति ।
+- भूत् — भू सत्तायां इति धातुः । छांदसत्वेन वर्तमानार्थे लुज् । गातिस्थाघु (पा. सू. २-४-७७) इति सिचो लुक् । छांदसत्वेन अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+
+### Printed p. 294
+- वेषि — वी गत्यादिषु इति धातुः । अत्र इच्छार्थे प्रयुक्तः । लट् मध्यमपुरुषएकवचनांतरूपम् । निपातैर्यद्यदि (पा. सू. ८-१-३०) इति यदि संबंधान्निघातस्वरो न भवति । सिप् पित्त्वादनुदात्तत्वाद्धातुस्वरः शिष्यते ।
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑म॒ यथा॑ सुष॒खाय॑ एन स्वभि॒ष्टयो॑ न॒रां न शंसैः॑ ।  
+> अस॒द्यथा॑ न॒ इंद्रो॑ वंदने॒ष्ठास्तु॒रो न कर्म॒ नय॑मान उ॒क्था ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असाम । यथा । सुसखायः । एन । सुअभिष्टयः । नरां । न । शंसैः ।  
+> असत् । यथा । नः । इंद्रः । वंदने ऽस्थाः । तुरः । न । कर्म । नयमानः । उक्का ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे एनेनेत्वरेंद्र यथा सुसखायः शोभनत्वद्रूपसहायवंतोऽसाम
+> भूयास्म किंच स्वभिष्टयः शोभनाभ्येषणाः शोभनाभीष्टाश्चासाम । किमिव । नरां
+> न तंसैः । नराणां राजादीनां तंसैः शंसनैरिव । स्तुतिभिर्यथा मनुष्याः शोभनाभीष्टा भवंति तद्वत् । इदानीं परोक्षेणाह । नोऽस्मभ्यमिंद्रो वंदनेष्ठा
+> अस्मत्सुतौ वर्तमानः संस्तुरो न त्वरमाण इव नोऽस्माकं कर्मोक्षोक्तैः
+> शस्त्रैनयमानः फलं प्रापयन् स्तुत्या तुष्टः सन्नस्मदीयेन कर्मणा फलप्रापयिता
+> यथासत् भवेत् । हे ऋत्विजः तथा कुरुतेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra (addressed as एनेनेत्वरेंद्र (*enenetvareṃdra*)**NOTE**): may we have good companions, that is, helpers of your auspicious form, and may we be well desired, with good aims fulfilled. How? As men become well desired through the praises of men, kings and others; as people attain their wishes through praises, so may we. Now he speaks indirectly: may Indra, abiding in our praise, hurrying as it were, leading our rite along with recited śastras and bringing its fruit, pleased by the praise, become the bringer of fruit through our rite. "O priests, so act" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे एन (*he ena*)—O Indra, the lord
+- यथा (*yathā*)—how
+- सुसखायः (*susakhāyaḥ*)—those having the help of you, the auspicious one
+- नरां (*narāṃ*)—of kings and others
+- शंसैः न (*śaṃsaiḥ na*)—as we attain the desired end through praise
+- सु अभिष्टयः (*su abhiṣṭayaḥ*)—those having auspicious desired ends
+- असाम (*asāma*)—we become (so favour us)
+- किंच हे ऋत्विजः (*kiṃca he ṛtvijaḥ*)—and, O priests
+- नः (*naḥ*)—for us
+- इंद्रः (*iṃdraḥ*)—Indra
+- वंदनेष्ठाः (*vaṃdaneṣṭhāḥ*)—being in (our) praise (pleased with our praise)
+
 ---
 
-**Progress note:** Done through printed p. 288. pp. 283-288 (batch API), missing Pada label inserted in kn.md
+**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
