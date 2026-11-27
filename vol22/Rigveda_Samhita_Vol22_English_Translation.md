@@ -13216,6 +13216,236 @@ How many Ādityas are there? The Ādityas are twelve. There are twelve months in
 आदित्याश्चांगिरसश्च सुवर्गे लोके स्पर्धंत । तेंगिरस आदित्येभ्यः । अमुमादित्यमश्वग्ं श्वेतं भूतं पक्षिणामनयत् । तेऽब्रुवन् । यन्नो वेष्ट्य । सवर्यो भूदिति । तस्मादश्वग्ं सवर्येत्याह्वयंति । तस्माद्यज्ञे वरो दीयते । यत्प्रजापतिरालब्धोऽश्वोऽभवत् । तस्मादश्वो नाम । यच्छ्वेतोऽरुरासीत् । तस्मादर्वा नाम । यत्सद्यो वाजन्समजयत् । तस्माद्वाजी नाम । यदसुराणां लोकानादत्त । तस्मादादित्यो नाम ॥ (*ādityāścāṃgirasaśca suvarge loke spardhaṃta | teṃgirasa ādityebhyaḥ | amumādityamaśvagṃ śvetaṃ bhūtaṃ pakṣiṇāmanayat | te 'bruvan | yanno veṣṭya | savaryo bhūditi | tasmādaśvagṃ savaryetyāhvayaṃti | tasmādyajñe varo dīyate | yatprajāpatirālabdho 'śvo 'bhavat | tasmādaśvo nāma | yacchveto 'rurāsīt | tasmādarvā nāma | yatsadyo vājansamajayat | tasmādvājī nāma | yadasurāṇāṃ lokānādatta | tasmādādityo nāma ‖*) (Tai. Brā. 3-9-21-1, 2)
 Formerly, in heaven, the Ādityas and the Aṅgirases competed with each other. The Aṅgirases offered to the Ādityas, as the sacrificial fee, the Āditya who had the form of a white horse. Then the Ādityas said to the Aṅgirases: the one that you have brought
 
+### Printed p. 307
+The Brāhmaṇa text goes on: "You have brought this Āditya, who is of the most excellent form," they said. Because the Ādityas said of the horse-formed Āditya "स वर्यः (*sa varyaḥ*)" (he is excellent), the horse too came to be called "सवर्यः (*savaryaḥ*)" in common usage. Therefore a boon is given in the sacrifice. The Prajāpati who was offered in the sacrifice is renowned as "अश्व (*aśva*)" because he pervades everything. He is "arva" because he underwent the suffering of the eye. He is "वाजी (*vājī*)" because he brought all riches under his control. He is "आदत्त (*ādatta*)" (Āditya) because he seized from the Asuras all their worlds. In this way the etymology of the word Āditya is given. The same etymology is given in the Taittirīya Āraṇyaka:
+योऽसौ तपन्नुदेति । स सर्वेषां भूतानां प्राणानादायोदेति । इत्यादि (*yo 'sau tapannudeti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyodeti | ityādi*) (Tai. Ā. 1-14-1).
+The sun who rises seizes (ā + dā) the vital breaths of all beings and rises. For that very reason he is called Āditya. Thus two accounts are described: that the Ādityas are so called because they are sons of Aditi, or because they are marked by the act of taking (ādāna).
+If the purport of the word Āditya were the description of one's own quality, it would apply only to the sun. If it shows being a son of Aditi, it applies also to Mitra, Varuṇa and the others. If the second meaning is intended, then it is not clearly stated how many sons of Aditi there are. Numbers such as six, seven, eight and twelve are stated. Some Vedic passages supporting these numbers were quoted above. In the Purāṇas and similar works the twelve Ādityas are named: Mitra, Ravi, Sūrya, Bhānu, Khaga, Pūṣan, Hiraṇyagarbha, Marīci, Āditya, Savitṛ, Arka, Bhāskara.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यानामिति तृचमष्टादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमादित्यदेवताकं । अनुक्रम्यते च । आदित्यानां तृचमादित्यं त्विति । गतः सूक्तविनियोगः । आदित्यदेवताके पशवादित्यानामवसेति वपाया अनुवाक्या । सूत्रितं च । आदित्यानामवसानूतनेनेमा गिर आदित्येभ्यः । आ. ३-८ । इति । आदित्यग्रहस्यैवानुवाक्या । सूत्रितं च । आदित्यानामवसा नूतनेन होता यक्षदादित्यान् । आ. ४-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आदित्यानां (*ādityānāṃ*) is the eighteenth, of three Ṛks, of Vasiṣṭha as seer, in the Triṣṭubh metre, with the Ādityas as deity. The Anukramaṇī says: आदित्यानां तृचमादित्यं तु (*ādityānāṃ tṛcamādityaṃ tu*). The use of the sūkta has already been given. In the animal sacrifice for the Ādityas, आदित्यानामवसा (*ādityānāmavasā*) is the anuvākyā for the vapā offering. It is stated in the sūtra: आदित्यानामवसानूतनेनेमा गिर आदित्येभ्यः (*ādityānāmavasānūtanenemā gira ādityebhyaḥ*) (Ā. 3-8). It is also the anuvākyā of the Āditya graha, as the sūtra states: आदित्यानामवसा नूतनेन होता यक्षदादित्यान् (*ādityānāmavasā nūtanena hotā yakṣadādityān*) (Ā. 4-17).
+
+Anuvāda: This sūkta beginning "आदित्यानां (*ādityānāṃ*)" is the eighteenth sūkta in the third anuvāka, with three Ṛks. Vasiṣṭha is the seer, the Ādityas the deity, Triṣṭup the metre. The Anukramaṇī says "आदित्यानां तृचमादित्यं तु (*ādityānāṃ tṛcamādityaṃ tu*)". The use of the sūkta was stated earlier. In the animal sacrifice connected with the Ādityas, the first Ṛk of this sūkta, "Ādityānām avasā", is to be recited as the anuvākyā mantra at the vapā offering, as is explained by the Āśvalāyana Śrauta Sūtra, "Ādityānām avasā nūtanene mā gira ādityebhyaḥ"
+
+### Printed p. 308
+(Ā. 3-8). In the Āditya-graha offering too this same Ṛk is to be recited as the anuvākyā mantra, as is explained by the Āśvalāyana Śrauta Sūtra, "आदित्यानामवसा नूतनेन होता यक्षदादित्यान् (*ādityānāmavasā nūtanena hotā yakṣadādityān*)" (Ā. 5-14).
+
+Maṇḍala 7; Anuvāka 3; Sūkta 51. Aṣṭaka 5; Adhyāya 4; Varga 14. Number of Ṛks in the sūkta: 3. Seer: Vasiṣṭha. Deity: the Ādityas. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्याना॒मव॑सा॒ नूत॑नेन सक्षी॒महि॒ शर्म॑णा॒ शंत॑मेन ।  
+> अ॒ना॒गा॒स्त्वे अ॑दिति॒त्वे तु॒रास॑ इ॒मं य॒ज्ञं द॑धतु॒ श्रोष॑माणाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्यानां । अवसा । नूतनेन । सक्षीमहि । शर्मणा । शंतमेन ।  
+> अनागाःत्वे । अदितित्वे । तुरासः । इमं । यज्ञं । दधतु । श्रोषमाणाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यानामदितेः पुत्राणामेतत्संज्ञकानां देवानामवसा रक्षणेन । तद्धेतुभूतेनेत्यर्थः । नूतनेनाद्यतनेन शंतमेन । शं सुखं । अतिशयेन तत्करणेन शर्मणा । शर्मेति गृहनामैतत् । गृहेण सक्षीमहि । वयं संगच्छेमहि । तुरासस्त्वरिता आदित्याः श्रोषमाणा अस्मदीयानि स्तोत्राणि शृण्वंतो यज्ञं यष्टारमिमं जनमनागास्त्वेनापराधत्वे चादितित्वेदीनत्वे च दधतु । स्थापयंतु ॥
+
+##### Gist of the bhāṣya
+
+"Of the Ādityas": of the sons of Aditi, the gods so named, by protection (avas), that is, by what is caused by it. By the new, that is, the present, and most comfortable (śaṃ is happiness, the maker of it in the highest degree) śarman; śarma is a name for house. With the house we would be united. The swift Ādityas, hearing our praises, would place this sacrificer in sinlessness and in being without poverty (aditi-tva, freedom from want).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यानां (*ādityānāṃ*)—of the Ādityas
+- अवसा (*avasā*)—the result of protection
+- नूतनेन (*nūtanena*)—new
+- शंतमेन (*śaṃtamena*)—most productive of happiness
+- शर्मणा (*śarmaṇā*)—with the house
+- सक्षीमहि (*sakṣīmahi*)—may we be joined
+- तुरासः (*turāsaḥ*)—swift-moving
+- श्रोषमाणाः (*śroṣamāṇāḥ*)—the Ādityas who listen to our praises
+- यज्ञं (*yajñaṃ*)—the sacrificer
+- इमं (*imaṃ*)—this patron
+- अनागास्त्वे (*anāgāstve*)—in a state free from sin
+- अदितित्वे (*adititve*)—in a state free from poverty
+- दधतु (*dadhatu*)—may they establish
+
+### Printed p. 309
+
+##### भावार्थ (Bhāvārtha)
+
+May we be united with the house that is the result of the Ādityas' protection, new and most productive of happiness. May the swift Ādityas, who hear our praises, establish this patron, the sacrificer, in a state free from sin and free from poverty.
+
+##### English translation
+May we, through the protection of the Adityas, be in the enjoyment of a new and comfortable dwelling : may the swift-moving Adityas, listening to our praises, preserve this their worshipper in sinlessness and independence.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्यासो॒ अदि॑तिर्मादयंतां मि॒त्रो अ॑र्य॒मा वरु॑णो॒ रजि॑ष्ठाः ।  
+> अ॒स्माकं॑ संतु॒ भुव॑नस्य गो॒पाः पिबं॑तु॒ सोम॒मव॑से नो अ॒द्य ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्यासः । अदितिः । मादयंतां । मित्रः । अर्यमा । वरुणः । रजिष्ठाः ।  
+> अस्माकं । संतु । भुवनस्य । गोपाः । पिबंतु । सोमं । अवसे । नः । अद्य ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यासो अदितिरित्यादित्यग्रहस्य याज्या । सूत्रितं च । आदित्यासो अदितिर्मादयंतामिति नैतं ग्रहमीक्षेते हूयमानं । आ. ५-१२ । इति ॥
+> आदित्यास आदित्या देवा अदितिस्तेषां माता च । यद्वा । अदितिरिति देवविशेषणं । अदितिरदीनो देवः । रजिष्ठा अतिशयेनर्जवो मित्रोऽर्यमा वरुणश्चैतत्संज्ञका मादयंतां । तृप्ताः संतु । भुवनस्य सर्वस्य जगतो गोपा रक्षका एवंभूता देवा अस्माकं संतु । अस्माकमेव रक्षका भवंत्वित्यर्थः । अद्यास्मिन्दिने नोऽस्माकमवसे रक्षणाय सोममस्माभिरभिषुतं पिबंतु ॥
+
+##### Gist of the bhāṣya
+
+आदित्यासो अदितिः (*ādityāso aditiḥ*) is the yājyā of the Āditya graha. The sūtra states: आदित्यासो अदितिर्मादयंतामिति नैतं ग्रहमीक्षेते हूयमानं (*ādityāso aditirmādayaṃtāmiti naitaṃ grahamīkṣete hūyamānaṃ*) (Ā. 5-12).
+Ādityāsaḥ are the Āditya gods, and Aditi is their mother. Or else: "Aditi" is an epithet of a god, the god who is not poor (adīna). Mitra, Aryaman and Varuṇa, those so named, the most upright (rajiṣṭha), are to be exhilarated, that is, be satisfied. Such gods, the guardians of the whole world, are to be ours; the meaning is: let them be our protectors only. Today, on this day, for our protection, let them drink the Soma pressed by us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—the Ādityas
+- अदितिः (*aditiḥ*)—the goddess Aditi
+- रजिष्ठाः (*rajiṣṭhāḥ*)—who follow the straightest path
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- मादयंतां (*mādayaṃtāṃ*)—may they find delight
+- भुवनस्य (*bhuvanasya*)—of the whole world
+- गोपाः (*gopāḥ*)—these gods who are protectors
+
+### Printed p. 310
+- अस्माकं (*asmākaṃ*)—as belonging to us
+- संतु (*saṃtu*)—may they be
+- अद्य (*adya*)—on this day of the sacrifice
+- नः (*naḥ*)—our
+- अवसे (*avase*)—for protection
+- सोमं (*somaṃ*)—the Soma
+- पिबंतु (*pibaṃtu*)—may they drink
+
+##### भावार्थ (Bhāvārtha)
+
+May the Ādityas, Aditi, and Mitra, Aryaman and Varuṇa, who travel most straight, find delight. May these gods, protectors of the whole world, be ours. On this day of the sacrifice, for our protection, may they drink the Soma.
+
+##### English translation
+May the Adityas and Aditi, and the upright Mitra, Aryaman, and Varuna, be exhilarated (by the libation) : may the guardians of the world be ours also : may they drink the Soma to-day for our preservation.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk, आदित्यासो अदितिः (*ādityāso aditiḥ*), is to be recited as the yājyā mantra in the Āditya-graha offering is explained by the Āśvalāyana Śrauta Sūtra: आदित्यासो अदितिर्मादयंतामिति नैतं ग्रहमीक्षेते हूयमानं (*ādityāso aditirmādayaṃtāmiti naitaṃ grahamīkṣete hūyamānaṃ*) (Ā. 5-12).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्या विश्वे॑ म॒रुत॑श्च॒ विश्वे॑ दे॒वाश्च॒ विश्व॑ ऋ॒भव॑श्च॒ विश्वे॑ ।  
+> इंद्रो॑ अ॒ग्निर॒श्विना॑ तुष्टुवा॒ना यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्याः । विश्वे । मरुतः । च । विश्वे । देवाः । च । विश्वे । ऋभवः । च । विश्वे ।  
+> इंद्रः । अग्निः । अश्विना । तुस्तुवानाः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्या अदितेः पुत्रा विश्वे सर्वे द्वादशसंख्याका अर्काः विश्वे मरुतश्च सर्व एकोनपंचाशत्संख्योपेताश्च विश्वे देवाश्च विश्व ऋभवश्चेंद्रोऽग्निरश्विनाश्विनावेतत्संज्ञका एवंभूता ये देवास्तुष्टुवाना अस्माभिः स्तुता बभूवुः सर्वे ते देवा यूयं सदा सर्वदा नोऽस्मान् स्वस्तिभिः कल्याणैः पात । रक्षत ॥
+
+##### Gist of the bhāṣya
+
+The Ādityas, sons of Aditi, all, the twelve suns; all the Maruts, those of forty-nine in number; all the gods; all the Ribhus; Indra, Agni, the Aśvins: whatever gods of this kind have been praised by us, all of you, always, protect us with blessings (svasti, welfare).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे आदित्याः (*viśve ādityāḥ*)—all the twelve Ādityas
+- विश्वे मरुतः (*viśve marutaḥ*)—all the Maruts
+- विश्वे देवाश्च (*viśve devāśca*)—the Viśvedevas
+- विश्वे ऋभवश्च (*viśve ṛbhavaśca*)—all the Ṛbhus (the three)
+- इंद्रः (*iṃdraḥ*)—Indra
+
+### Printed p. 311
+- अग्निः (*agniḥ*)—Agni
+- अश्विना (*aśvinā*)—the Aśvins
+- तुष्टुवानाः (*tuṣṭuvānāḥ*)—have been praised by us (O all you gods of such renown)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+All the Ādityas, all the Maruts, the Viśvedevas, all the Ṛbhus, Indra, Agni and the Aśvins have been praised by us. O gods of such renown, protect us always with blessings.
+
+##### English translation
+All the Adityas, all the Maruts, all the gods, all the Ribhus, Indra, Agni, and the Ashwins, (have been) glorified (by us) : do you all ever cherish us with blessings.
+
+## Sūkta 52 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यासो अदितय इति तृचात्मकमेकोनविंशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमादित्यदेवताकं । आदित्यास इत्यनुक्रमणिका ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आदित्यासो अदितयः (*ādityāso aditayaḥ*) is the nineteenth, consisting of three Ṛks, of Vasiṣṭha as seer, in Triṣṭubh metre, with the Ādityas as deity. The Anukramaṇī says आदित्यास (*ādityāsa*). The use has already been given.
+
+Anuvāda: This sūkta beginning "आदित्यासो अदितयः (*ādityāso aditayaḥ*)" is the nineteenth sūkta in the third anuvāka, with three Ṛks. Vasiṣṭha is the seer, the Ādityas the deity, Triṣṭup the metre. The Anukramaṇī says "आदित्यासः (*ādityāsaḥ*)". The use was stated earlier.
+
+Maṇḍala 7; Anuvāka 3; Sūkta 52. Aṣṭaka 5; Adhyāya 4; Varga 15. Number of Ṛks in the sūkta: 3. Seer: Vasiṣṭha. Deity: the Ādityas. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्यासो॒ अदि॑तयः स्याम॒ पूर्दे॑व॒त्रा व॑सवो मर्त्य॒त्रा ।  
+> सने॑म मित्रावरुणा॒ सनं॑तो॒ भवे॑म द्यावापृथिवी॒ भवं॑तः ॥
+
+### Printed p. 312
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्यासः । अदितयः । स्याम । पूः । देवत्रा । वसवः । मर्त्यत्रा ।  
+> सनेम । मित्रावरुणा । सनंतः । भवेम । द्यावापृथिवी इति । भवंतः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्यासो आदित्या देवाः ॥ व्यत्ययेनासाद्युदात्तत्वाभावः ॥ यद्वा ॥ आदित्यानामिम आदित्याः ॥ तस्येदमित्यर्थे प्राग्दीव्यतीयो ण्यप्रत्ययः ॥ आदित्यानां शेषभूता वयमदितयोऽखंडनीयाः स्याम । भवेम । देवत्रा देवेषु वसवो वासका देवाः युष्मदीयं पूः पालनं मर्त्यत्रा मनुष्येष्वस्मासु भवतु । हे मित्रावरुणा मित्रावरुणौ सनंतो युवां संभजंतो वयं सनेम । युवाभ्यां दत्तं धनं संभजेमहि । हे द्यावापृथिवी द्यावापृथिव्यौ युवयोः प्रसादाद्वयं भवंतो भवेम । भूतिमंतः स्याम ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, gods; the loss of the ādyudātta accent in आदित्यासो (*ādityāso*) is by vyatyaya. Or else: those belonging to the Ādityas are Ādityas (a suffix ṇya in the sense "this is his"). We, being the remainder (śeṣa) of the Ādityas, would be aditi, unbroken (akhaṇḍanīya); would be. Among the gods, O Vasus, gods who dwell (vāsaka), let your protection (pūḥ) be with us, mortals. O Mitra and Varuṇa, we, partaking of you (sanantaḥ), would partake: we would share the wealth given by you. O heaven and earth, by your favour we, being, would be: we would be possessed of prosperity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- अदितयः (*aditayaḥ*)—with a life without any deficiency (we)
+- स्याम (*syāma*)—may we be
+- देवत्रा (*devatrā*)—among all the gods
+- वसवः (*vasavaḥ*)—O revered Vasus
+- पूः (*pūḥ*)—your act of protection
+- मर्त्यत्रा (*martyatrā*)—may it relate to us, human beings
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- सनंतः (*sanaṃtaḥ*)—we who worship you
+- सनेम (*sanema*)—may we enjoy the wealth given by you
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O heaven and earth
+- भवंतः (*bhavaṃtaḥ*)—we who are worthy of your favour
+- भवेम (*bhavema*)—may we be possessed of prosperity
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, grant that we may have a life without any deficiency. O Vasus, revered among all the gods, may your act of protection relate to us human beings. O Mitra and Varuṇa, may we who worship you enjoy the wealth given by you. O heaven and earth, grant that we, worthy of your favour, may be possessed of prosperity.
+
+##### English translation
+Adityas, may we be independent : Vasus, (dwelling) among the gods, may your protection (extend) to mortals : offering (oblations to you), Mitra and Varuna, may we partake (of your bounty) : may we, heaven and earth, exist (through your favour).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रस्तन्नो॒ वरु॑णो मामहंत॒ शर्म॑ तो॒काय॒ तन॑याय गो॒पाः ।
+
 ---
 
-**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
+**Progress note:** Done through printed p. 312. pp. 307-312 (batch API)
