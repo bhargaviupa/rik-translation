@@ -12870,6 +12870,206 @@ The god Varuna, stationed in the middle world, moves as lord of those waters, wa
 ##### English translation
 Those whose sovereign, Varuna, passes in the middle sphere, discriminating the truth and falsehood of mankind : those shedding sweet showers, pure and purifying : may those divine waters protect me here (on earth).
 
+### Printed p. 295
+
+##### विशेषविषयगळु (Special Topics)
+
+यासां राजा वरुणः (*yāsāṃ rājā varuṇaḥ*)—यासां उदकानां राजा वरुणः (*yāsāṃ udakānāṃ rājā varuṇaḥ*). "Varuṇa, king of the waters" is said here; this means Varuṇa, the deity presiding over the waters. There is also a Taittirīya Śruti sentence: वरुणोऽसामधिपतिः (*varuṇo 'sāmadhipatiḥ*). Moreover Varuṇa is well known as the deity presiding over night. मैत्रं वा अहः । वारुणी रात्रिः (*maitraṃ vā ahaḥ | vāruṇī rātriḥ*): that is, the Taittirīya Śruti itself says that Mitra is the lord of day and Varuṇa of night.
+राजा वरुणः (*rājā varuṇaḥ*)—Here Varuṇa is called by the word राजा (*rājā*). In many places Varuṇa, or Mitra and Varuṇa, are also called by the word सम्राज (*samrāja*). For it is said in many places that Varuṇa watches the deeds that people do, their truth and falsehood, and that all are subject to his ordinance. In the present Ṛk it is said सत्यानृते अव पश्यन् जनानां (*satyānṛte ava paśyan janānāṃ*). On the point that all are subject to Varuṇa's ordinances, the use of the word धृतव्रत (*dhṛtavrata*) for Varuṇa supports this.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यासु॒ राजा॒ वरु॑णो॒ यासु॒ सोमो॒ विश्वे॑दे॒वा यासूर्जं॒ मदं॑ति ।  
+> वै॒श्वा॒न॒रो यास्व॒ग्निः प्रवि॑ष्ट॒स्ता आपो॑ दे॒वीरि॒ह माम॑वंतु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यासु । राजा । वरुणः । यासु । सोमः । विश्वे । देवाः । यासु । ऊर्जं । मदंति ।  
+> वैश्वानरः । यासु । अग्निः । प्रविष्टः । ताः । आपः । देवीः । इह । मां । अवंतु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपां राजा वरुणो यास्वप्सु वर्तते । सोमो यास्वप्सु वर्तते । यास्वप्सु स्थिता विश्वे सर्वे देवा ऊर्जमन्नं मदंति । वैश्वानरोऽग्निर्यासु प्रविष्टः । ता आपो देव्य इह स्थितं मामवंतु ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, king of the waters, abides in which waters; Soma abides in which waters; the All-gods, abiding in which waters, delight in food (ऊर्जं (*ūrjaṃ*)); Vaiśvānara Agni has entered which waters. May those divine waters protect me, who stand here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यासु (*yāsu*)—in which waters
+- राजा (*rājā*)—the sovereign
+- वरुणः (*varuṇaḥ*)—Varuṇa shines
+- यासु (*yāsu*)—in which waters
+- सोमः (*somaḥ*)—Soma abides
+- यासु (*yāsu*)—in which waters
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- ऊर्जं (*ūrjaṃ*)—food
+- मदंति (*madaṃti*)—relish
+- यासु (*yāsu*)—in which waters
+- वैश्वानरः (*vaiśvānaraḥ*)—leader of the whole world
+- अग्निः (*agniḥ*)—Agni
+
+### Printed p. 296
+- प्रविष्टः (*praviṣṭaḥ*)—entered and lay hidden
+- देवीः (*devīḥ*)—divine in nature
+- ताः आपः (*tāḥ āpaḥ*)—those same waters
+- इह (*iha*)—engaged in this sacrifice
+- मां (*māṃ*)—me
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+In which waters the sovereign Varuṇa shines, in which waters Soma abides, in which waters all the gods relish food, in which waters Agni in the form of Vaiśvānara entered: may those same waters, divine in nature, protect me, who am engaged in this sacrifice.
+
+##### English translation
+May they in which their king, Varuna, in which Soma, abides, in which the gods delight (to receive) the sacrificial food, into which Agni Vaishwanara entered, may those divine waters protect me here (on earth).
+
+##### विशेषविषयगळु (Special Topics)
+
+वैश्वानरो यासु अग्निः प्रविष्टः (*vaiśvānaro yāsu agniḥ praviṣṭaḥ*)—The prayer is stated here that the waters in which Agni, in the form of Vaiśvānara, entered and lay hidden may protect me. As to why Agni hid in the water, an ancient story is told in the Ṛgveda and in the Yajurveda:
+अग्नेः पूर्वे भ्रातरो अर्थमेतं रथीवाध्वानमन्वावरीवुः । तस्माद्भिया वरुण दूरमायं गौरो न क्षेप्नोरविजे ज्यायाः ॥ कुर्मस्त आयुरजरं यदग्ने यथा युक्तो जातवेदो न रिष्याः । अथा वहासि सुमनस्यमानो भागं देवेभ्यो हविषः सुजात ॥ प्रयाजान्मे अनुयाजांश्च केवलानूर्जस्वंतं हविषो दत्त भागं । घृतं चापां पुरुषं चौषधीनामग्नेश्च दीर्घमायुरस्तु देवाः । तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वंतो हविषः संतु भागाः । तवाग्ने यज्ञोऽयमस्तु सर्वस्तुभ्यं नमंतां प्रदिशश्चतस्रः ॥ (*agneḥ pūrve bhrātaro arthametaṃ rathīvādhvānamanvāvarīvuḥ | tasmādbhiyā varuṇa dūramāyaṃ gauro na kṣepnoravije jyāyāḥ ‖ kurmasta āyurajaraṃ yadagne yathā yukto jātavedo na riṣyāḥ | athā vahāsi sumanasyamāno bhāgaṃ devebhyo haviṣaḥ sujāta ‖ prayājānme anuyājāṃśca kevalānūrjasvaṃtaṃ haviṣo datta bhāgaṃ | ghṛtaṃ cāpāṃ puruṣaṃ cauṣadhīnāmagneśca dīrghamāyurastu devāḥ | tava prayājā anuyājāśca kevala ūrjasvaṃto haviṣaḥ saṃtu bhāgāḥ | tavāgne yajño 'yamastu sarvastubhyaṃ namaṃtāṃ pradiśaścatasraḥ ‖*)
+(Ṛ. Saṃ. 10-51-6 ff.)
+In this sūkta a conversation between the gods and Agni is related. The main point is this: Agni had three elder brothers named Bhūpati, Bhuvanapati and Bhūtānāṃ Pati. Like Agni they carried to the gods the offering that the sacrificer makes in the sacrifice. While matters stood so, these three brothers died through the offerings made with the vajra-like call वषट्कार (*vaṣaṭkāra*). Seeing it, Agni, the youngest, fearing the same fate for himself, went and hid in the water. While the gods searched for Agni without finding him, the fish in the water told the gods that Agni was in the water. Then the gods
+
+### Printed p. 297
+came to Agni and spoke with him thus. This conversation is what is set out in this sūkta. When the gods begged Agni to rise from the water and carry the offering to them as before, Agni said that since his brothers had died the same end would befall him, so he would not come. The gods replied that he should not fear death, and that they would see that he had no fear of death. Agni then said: very well; besides sparing me the fear of death, you must give me certain special offerings in the sacrifices: prayāja, anuyāja, ūrjasvat, sviṣṭakṛt, ājyabhāga and so on. The gods agreed, gave him the shares of the offering he asked for, granted the boons that he should play the chief part in the sacrifice, be saluted by all and be long-lived, and appointed him as before to the work of carrying the offering. This is the main purport of this sūkta. In the Taittirīya Saṃhitā of the Yajurveda it is as follows:
+अग्नेस्त्रयो ज्यायाग्ंसो भ्रातर आसंते देवेभ्यो हव्यं वहंतः प्रामीयंत सोऽग्निरबिभेदित्थं वाव स्य आर्तिमारिष्यतीति स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन्तं मत्स्यः प्राब्रवीत्तमशपद्धियाधियात्वा वध्यासुर्यो मा प्रावोच इति तस्मान्मत्स्यं धियाधिया घ्नंति शप्तो हि तमब्रुवन्नुप न आ वर्तस्व हव्यं नो वहेति सोऽब्रवीद्वरं वृणै यदेव गृहीतस्याहुतस्य बहिः परिधिस्कंदात्तन्मे भ्रातृणां भागधेयमसदिति तस्माद्यद्गृहीतस्याहुतस्य बहिः परिधि स्कंदति तेषां तद्भागधेयं तानेव तेन प्रीणाति परिधीन्परि दधाति रक्षसामसहत्यै ॥ (*agnestrayo jyāyāgṃso bhrātara āsaṃte devebhyo havyaṃ vahaṃtaḥ prāmīyaṃta so 'gnirabibheditthaṃ vāva sya ārtimāriṣyatīti sa nilāyata so 'paḥ prāviśattaṃ devatāḥ praiṣamaicchantaṃ matsyaḥ prābravīttamaśapaddhiyādhiyātvā vadhyāsuryo mā prāvoca iti tasmānmatsyaṃ dhiyādhiyā ghnaṃti śapto hi tamabruvannupa na ā vartasva havyaṃ no vaheti so 'bravīdvaraṃ vṛṇai yadeva gṛhītasyāhutasya bahiḥ paridhiskaṃdāttanme bhrātṛṇāṃ bhāgadheyamasaditi tasmādyadgṛhītasyāhutasya bahiḥ paridhi skaṃdati teṣāṃ tadbhāgadheyaṃ tāneva tena prīṇāti paridhīnpari dadhāti rakṣasāmasahatyai ‖*)
+(Tai. Saṃ. 2-6-6-1, 2)
+Formerly Agni had three elder brothers. They carried to the gods the offering that the sacrificer makes in sacrifices. When they died, Agni feared the same fate might befall him, ran away, entered the water and hid so that no one saw him. While the gods searched for where Agni had gone, a fish in the water told the gods that Agni was hiding in the water. Hearing this tale-bearing of the fish, Agni grew angry and cursed that henceforth people should catch and kill the fish in the water with nets and other means. Accordingly people even now catch, kill and eat fish. Then the gods said to Agni: "O Agni, come back and be ready for the work of carrying the offering for us." Agni said that if they granted him the boon that the portion of the offerings, such as ājya, that falls outside the paridhi (paridhi is the name of the special darbha-stalks laid on the four sides of the fire-pit so that demons may not come and obstruct the sacrifice) when the offering is made in the sacrifice, should be a share of the offering for his brothers, he would rise from the water and carry the offering as before. The gods agreed and granted him that boon. Such is the narrative.
+
+### Printed p. 298
+Sūkta 50 follows.
+
+## Sūkta 50 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ मां मित्रावरुणेति चतुर्ऋचं सप्तदशं सूक्तं वसिष्ठस्यार्षं । चतुर्थ्यतिजगती व्यूहेन शक्वरी वादितस्तिस्रो जगत्यः । प्रथमा मैत्रावरुणी द्वितीयाग्नेयी तृतीया वैश्वदेवी चतुर्थी गंगादिनदीदेवताका । तथा चानुक्रमणिका । आ मां मैत्रावरुण्याग्नेयी वैश्वदेवी नदीस्तुतिर्जागतमंत्यातिजगती शक्वरी वेति ॥ अस्य सूक्तस्य प्रत्यृचं विषादिहरणे विनियोगो लिंगादवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आ मां मित्रावरुणेति (*ā māṃ mitrāvaruṇeti*) has four Ṛks and is the seventeenth sūkta; Vasiṣṭha is the seer. The fourth Ṛk is Atijagatī, or Śakvarī by vyūha; the first three are Jagatī. The first Ṛk is addressed to Mitra and Varuṇa, the second to Agni, the third to the All-gods, the fourth to rivers such as the Gaṅgā. He cites the Anukramaṇikā: आ मां मैत्रावरुण्याग्नेयी वैश्वदेवी नदीस्तुतिर्जागतमंत्यातिजगती शक्वरी वेति (*ā māṃ maitrāvaruṇyāgneyī vaiśvadevī nadīstutirjāgatamaṃtyātijagatī śakvarī veti*). The use of each Ṛk of this sūkta, in removing dejection and the like, is to be understood from the sense (लिंग (*liṃga*)).
+
+##### Anuvāda
+
+This sūkta, आ मां मित्रावरुणा (*ā māṃ mitrāvaruṇā*), is the seventeenth sūkta in the third anuvāka. It has four Ṛks. Vasiṣṭha is the seer; the first three Ṛks are in the Jagatī metre; the fourth is Atijagatī or Śakvarī. The deity of the first Ṛk is Mitra and Varuṇa; of the second, Agni; of the third, the All-gods; of the fourth, rivers such as the Gaṅgā. It is said: आ मां मैत्रावरुण्याग्नेयी वैश्वदेवी नदीस्तुतिर्जागतमंत्यातिजगती शक्वरी वा (*ā māṃ maitrāvaruṇyāgneyī vaiśvadevī nadīstutirjāgatamaṃtyātijagatī śakvarī vā*). The use of each Ṛk of this sūkta is to be understood as applying, according to the sense, to the removal of dejection and the like.
+
+Sūkta 50
+Maṇḍala 7 ‖ Anuvāka 3 ‖ Sūkta 50 ‖
+Aṣṭaka 5 ‖ Adhyāya 4 ‖ Varga 14 ‖
+Number of Ṛks in the sūkta: 4 ‖
+Ṛṣi: Vasiṣṭha ‖
+Deity: 1. Mitra and Varuṇa. 2. Agni. 3. All-gods. 4. Rivers ‖
+Metre: 1-3 Jagatī. 4. Atijagatī or Śakvarī ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मां मि॑त्रावरुणे॒ह र॑क्षतं कुला॒यय॑द्वि॒श्वय॒न्मा न॒ आ ग॑न् ।  
+> अ॒ज॒का॒वं दु॒र्दृशी॑कं ति॒रो द॑धे॒ मा मां पद्ये॑न॒ रप॑सा विद॒त्सरुः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मां । मित्रावरुणा । इह । रक्षतं । कुलाययत् । विश्वयत् । मा । नः । आ । गन् ।  
+> अजकावं । दुःदृशीकं । तिरः । दधे । मा । मां । पद्येन । रपसा । विदत् । त्सरुः ॥ १ ॥
+
+### Printed p. 299
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा हे मित्रावरुणौ युवामिहास्मिल्लोके मामा रक्षतं । आभिमुख्येन पालयतं । कुलाययत् । कुलायं स्थानं । तत्कुर्वद्विश्वयद्विशेषेण वर्धमानं विषं नोऽस्माना आभिमुख्येन मा गन् । मा गमत् । मा गच्छतु । तथाजकावं । अजका नाम रोगविशेषः । तद्वद्दुर्दृशीकं दुर्दर्शनं विषं तिरो दधे । तिरो धत्तां । नश्यत्वित्यर्थः । तथा त्सरुश्छद्मगामी । जिह्मगः सर्प इत्यर्थः । मां पद्येन पादभवेन रपसा । रपिः शब्दकर्मा । शब्देन मा विदत् । न जानातु ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, protect me here in this world, facing me. May the poison (विषं (*viṣaṃ*)) that makes a place for itself (कुलाययत् (*kulāyayat*), कुलायं (*kulāyaṃ*) meaning "place") and grows specially (विश्वयत् (*viśvayat*)) not come to us. May the poison that is like अजका (*ajakā*) (अजका (*ajakā*) is a particular disease) and ugly to look at disappear. And may the त्सरुः (*tsaruḥ*), the crooked-going one, that is the snake, not know me by the sound (रपसा (*rapasā*); रपिः (*rapiḥ*) means sound) arising from my foot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- इह (*iha*)—in this sacrifice
+- मां (*māṃ*)—me
+- आ रक्षतं (*ā rakṣataṃ*)—protect
+- कुलाययत् (*kulāyayat*)—that which makes a place here
+- विश्वयत् (*viśvayat*)—and thrives everywhere, the poison
+- नः (*naḥ*)—to us
+- मा आ गन् (*mā ā gan*)—let it not come near
+- अजकावं (*ajakāvaṃ*)—that which causes disease
+- दुर्दृशीकं (*durdṛśīkaṃ*)—and is loathsome to see, the poison
+- तिरोदधे (*tirodadhe*)—let it vanish
+- त्सरुः (*tsaruḥ*)—the crooked-going snake
+- मां (*māṃ*)—me
+- पद्येन (*padyena*)—arising from the movement of my foot
+- रपसा (*rapasā*)—by the sound
+- मा विदत् (*mā vidat*)—let it not know (my presence)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, protect me in this sacrifice. May the poison that makes a place here and thrives everywhere not come to us and approach us. May the poison that causes disease and is loathsome to see vanish. May the crooked-going snake not know (my presence) by the sound arising from the movement of my foot.
+
+##### English translation
+Mitra and Varuna, protect me here (in this world): let not the insidious and spreading (poison) reach me : may the equally malignant and undiscernible (venom) disappear : let not the tortuous (snake) recognize me by the sound of my footsteps.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वि॒जाम॒न्परु॑षि॒ वंद॑नं॒ भुव॑दष्ठी॒वंतौ॒ परि॑ कु॒ल्फौ च॒ देह॑त् ।  
+> अ॒ग्निष्टच्छोच॒न्नप॑ बाधतामि॒तो मा मां पद्ये॑न॒ रप॑सा विद॒त्सरुः॑ ॥ २ ॥
+
+### Printed p. 300
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वि5जामन् । परुषि । वंदनं । भुवत् । अस्थीवंतौ । परि । कुल्फौ । च । देहत् ।  
+> अग्निः । तत् । शोचन् । अप । बाधतां । इतः । मां । मां । पद्येन । रपसा । विदत् । सरुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वंदनमेतत्संज्ञकं यद्विषं विजामन् विविधजन्मनि परुषि वृक्षादीनां पर्वणि भुवत् उद्भवेत् । यच्च विषमस्थीवंतौ जानुनी कुल्फौ गुल्फौ च परि देहत् ॥ दिह उपचये ॥ उपचितं कुर्यात् । अग्निर्देवः शोचन् दीप्यमानः सन्नितोऽस्माज्जनात्तद्विषमप बाधतां । अपहंतु । शिष्टं व्याख्यातं ॥
+
+##### Gist of the bhāṣya
+
+The poison called वंदन (*vaṃdana*), which arises in many births (विजामन् (*vijāman*)), in the joints (परुषि (*paruṣi*)) of trees and the like, and the poison that accumulates (देहत् (*dehat*), from दिह (*diha*) in the sense of accumulating) in the knees (अस्थीवंतौ (*asthīvaṃtau*)) and ankles (कुल्फौ (*kulphau*) = गुल्फौ (*gulphau*)): may Agni, shining, drive that poison away from this person. The rest is as explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वंदनं (*vaṃdanaṃ*)—called vandana
+- यत् (*yat*)—which poison
+- विजामन् (*vijāman*)—in many forms
+- परुषि (*paruṣi*)—in the joints of trees and the like
+- भुवत् (*bhuvat*)—arises
+- (यत् (*yat*)—which) अस्थीवंतौ (*asthīvaṃtau*)—in the knees
+- कुल्फौ च (*kulphau ca*)—and in the joints of the feet
+- परि देहत् (*pari dehat*)—fills
+- तत् (*tat*)—that poison
+- शोचन् (*śocan*)—shining
+- अग्निः (*agniḥ*)—Agni
+- इतः (*itaḥ*)—from our place
+- अप बाधतां (*apa bādhatāṃ*)—let him drive far away and destroy
+- सरुः (*saruḥ*)—the crooked-going snake
+- मां (*māṃ*)—me
+- पद्येन (*padyena*)—arising from the movement of my foot
+- रपसा (*rapasā*)—by the sound
+- मा विदत् (*mā vidat*)—let it not know (my presence)
+
+##### भावार्थ (Bhāvārtha)
+
+The poison called vandana, which arises in many forms in the joints of trees and the like, and which fills the joints of the knees and the feet: may the shining Agni drive that poison far from our place and destroy it. May the crooked-going snake not know me by the sound arising from the movement of my foot.
+
+##### English translation
+May the brilliant Agni counteract that poison which is generated in the manifold knots (of trees) and the like, or which is smeared upon the knees or ankles: let not the tortuous snake recognize me by the sound of my footsteps.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्छ॑ल्म॒लौ भव॑ति॒ यन्न॒दीषु॒ यदोष॑धीभ्यः॒ परि॒ जाय॑ते  ॒
+> विषं ।
+
 ---
 
-**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
+**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
