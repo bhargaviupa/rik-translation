@@ -13172,6 +13172,151 @@ When, beloved (Ashwins), do you bear aloft (the materials) of food and riches, t
 
 अध्वर्यंता (*adhvaryaṃtā*)—अध्वर इति यज्ञनाम । ध्वरतिः हिंसाकर्मा । तत्प्रतिषेधः । (*adhvara iti yajñanāma | dhvaratiḥ hiṃsākarmā | tatpratiṣedhaḥ |*) (Ni. 1-8). The word अध्वर (*adhvara*) indicates the negation of the root ध्वृ (*dhvṛ*), which gives the sense "kill"; it means a non-violent sacrifice. एतादृशं अध्वरं पारयितुमिच्छंतां युवां । (*etādṛśaṃ adhvaraṃ pārayitumicchaṃtāṃ yuvāṃ |*) That is: you who wish to help such a non-violent sacrifice to be carried out without interruption. This word, an epithet of the Aśvins, shows their prominence in carrying out the sacrifice. When Viṣṇu, who is the sacrifice in person, was beheaded, the Aśvins set it right and made the sacrifice complete, as
 
+### Printed p. 553
+This was stated earlier. Moreover, the fact that they appear together with the deity Uṣas at the very time of the morning pressing and help in carrying out the sacrifice was stated earlier. For all these reasons the epithet अध्वर्यंता (*adhvaryaṃtā*) is fitting for them.
+
+This epithet is used only of the Aśvin deities, and only in the present Ṛk. Even though Agni is the overseer of the sacrifice and the chief agent in the conduct of all sacrifices, this epithet is not used of him either. Therefore the epithet shows the principal role of the Aśvins in the performance and the conduct of the sacrifice. Praising this very quality of theirs, the Aitareya Brāhmaṇa states it as follows.
+
+यज्ञो वै देवेभ्य उदक्रामन्न वोऽहमन्नं भविष्यामीति नेति देवा अब्रुवन्नन्नमेव नो भविष्यसीति तं देवा विमेथिरे सहैभ्यो विहृतो न प्रबभूव ते होचुर्देवा न वै न इत्थं विहृतोऽलं भविष्यति हंतेमं यज्ञं संभरामेति तथेति तं संजभ्रुः । तं संभृत्योचुरश्विनानिमं भिषज्यतमित्यश्विनौ वै देवानां भिषजावश्विनावध्वयू तस्मादध्वयू घर्म० संभरतः ॥ (*yajño vai devebhya udakrāmanna vo 'hamannaṃ bhaviṣyāmīti neti devā abruvannannameva no bhaviṣyasīti taṃ devā vimethire sahaibhyo vihṛto na prababhūva te hocurdevā na vai na itthaṃ vihṛto 'laṃ bhaviṣyati haṃtemaṃ yajñaṃ saṃbharāmeti tatheti taṃ saṃjabhruḥ | taṃ saṃbhṛtyocuraśvinānimaṃ bhiṣajyatamityaśvinau vai devānāṃ bhiṣajāvaśvināvadhvayū tasmādadhvayū gharma0 saṃbharataḥ ‖*)
+(Ai. Brā. 4-1)
+
+Once the sacrifice went away from the gods, saying "I shall not be your food." Then the gods insisted, "You must be our food," and churned it. As they divided it and consumed it, it proved insufficient. Then they gathered it together, approached the Aśvins and prayed that they should mend it and make it whole again. They are the physicians of the gods, and because they made the injured sacrifice whole, they are the Adhvaryus: so they are praised.
+
+वसुधिती (*vasudhitī*)—From the root धि (*dhi*) in the sense of holding, the word धिति (*dhiti*) is formed, and there are usages such as नेमधिति (*nemadhiti*), मित्रधिति (*mitradhiti*), वनधिति (*vanadhiti*). It gives the sense "one who holds friends", "one who holds wealth". In some places, namely,
+
+इंद्रो अस्मे सुमना अस्तु विश्वहा राजा सोमः सुवितस्याध्येतु नः । यथायथा मित्रधितानि संदधुरा सर्वतातिमदितिं वृणीमहे । (*iṃdro asme sumanā astu viśvahā rājā somaḥ suvitasyādhyetu naḥ | yathāyathā mitradhitāni saṃdadhurā sarvatātimaditiṃ vṛṇīmahe |*)
+(Ṛ. Saṃ. 10-100-4)
+
+in this and some other places मित्रधितानि (*mitradhitāni*) is explained as मित्रनिहितानि (*mitranihitāni*). The purport, however, is just as stated above. In the present Ṛk it is explained: वसुनः धनस्य धातारौ (*vasunaḥ dhanasya dhātārau*) and so on. वसु (*vasu*) may mean wealth or a dwelling; the word gives the sense "holders of wealth" or "givers of a dwelling-house".
+
+### Printed p. 554
+
+##### Grammar
+
+- प्रेषौ — अतिशयेन प्रियौ प्रेषौ । अतिशायने तमबिष्ठनौ इति इष्टन् प्रत्यये प्रियस्थिर स्थिर (पा. सू. ६-४-१५७) इति प्रादेशः । प्रकृत्यैकाच् इति प्रकृतिभावात् गुणः । प्रत्ययनिमित्तत्वात् आद्युदात्तस्वरः भवति ।
+- इषाम् — सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६७) इति विभक्तेः उदात्तस्वरः भवति । कर्मार्थे षष्ठी आगता ।
+- अध्वर्यंता — अध्वरं आत्मनः इच्छंतौ । सुप आत्मनः क्यच् (पा सू. ३-१-८) इति अध्वर इत्यस्मात् क्यच् प्रत्ययः । कव्यध्वर पतनस्यर्चि लोपः (पा. सू. ७-४-३९) इति क्यचि परे पूर्वस्य अंत्यस्य लोपः । क्यचः परं लट् आगते तस्य शत्रादेशः । द्विवचने परे सुषां सुलुक् इति आकारादेशः । ल सार्वधातुकस्य अनुदात्तत्वात् क्यच् स्वरः अवशिष्यते ।
+- उन्निनीथः — णीञ् प्रापणे इति धातुः । लट् मध्यमपुरुषद्विवचने थस् प्रत्ययः । बहुलं छंदसि इति शपः श्लु आदेशः । श्लुनिमित्तत्वात् धातोः द्वित्वादि । यद्योगत्वात् निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । तिजिचोदात्तवति इति गतेः (उत्) अनुदात्तस्वरः भवति ।
+- अकृत — डुकृञ् करणे इति धातुः । छांदसत्वात् वर्तमानार्थे लज् । बहुलं छंदसि इति विकरणस्य लुक् । अंगस्य आडागमः । तिजंतनिघातस्वरः भवति ।
+- प्रशस्तिम् — शंसु स्तुतौ इति धातुः । स्त्रीयां क्तिन् इति क्तिन् प्रत्ययः । अनिदितां हल इति उपधानकारलोपः । तादौच निति (पा. सू. ६-२-५०) इति गतेः (प्र) उदात्तस्वरः भवति ।
+- वसुधिती — डुधाञ् धारणपोषणयोः इति धातुः । स्त्रीयां क्तिन् इति बहुलग्रहणात् कर्तरि क्तिन् प्रत्ययः । सुधितवसुधित (पा. सू. ७-४-१५) इत्यत्र क्तिन्यपिद्धृत्यते इति वचनात् धातोः इत्वं भवति । द्विवचनांतरूपम् ।
+- अवितारा — सुपां सुलुक् इति सूत्रेण प्रथमाद्विवचनस्य आकारादेशः । ॥ १ ॥
+
+### Printed p. 555
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वा॒मश्वा॑सः॒ शुच॑यः पय॒स्सा वात॑रंहसो दि॒व्यासो॒ अत्याः॑ ।  
+> म॒नो॒जुवो॒ वृष॑णो वी॒तपृ॑ष्टा॒ एह स्व॒राजो॑ अ॒श्विना॑ वहंतु ॥  
+> आ । वां । अश्वासः । शुचयः । पयःपाः । वात्सरंहसः । दिव्यासः । अत्याः ।  
+> मनःजुवः । वृषणः । वीत्यपृष्ठाः । आ । इह । स्वराजः । अश्विना । वहंतु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आश्विनौ शोभनाश्वयुक्तौ वां युवामश्वासो युष्मदीया इहास्मिन्यज्ञ
+> आ वहंतु । प्रापयंतु । अवशिष्टान्यश्वविशेषणानि । कीदृशास्ते । शुचयः शुद्धा
+> दीप्ता वा पयस्सा वृष्टु दकस्य पातारः वातरंहसो वायुवेगाः दिव्या दिवि भवाः
+> अत्या आतनशीलाः मनोजुवो मनोजवाः वृषणो वर्षकाः । युवान इत्यर्थः ।
+> वीतपृष्टाः कांतपृष्टाः । वपुष्मंत इत्यर्थः । स्वराजः स्वयमेव राजमानाः ।
+> ईदृशा भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, endowed with fine horses: let your horses come here to this sacrifice and bring you (आ वहंतु (*ā vahaṃtu*), "let them convey"). The remaining words are epithets of the horses. What are they like? शुचयः (*śucayaḥ*): pure or bright; पयस्सा (*payassā*): drinkers of the rain-water; वातरंहसः (*vātaraṃhasaḥ*): having the speed of the wind; दिव्या (*divyā*): born in heaven; अत्या (*atyā*): of constantly moving nature; मनोजुवः (*manojuvaḥ*): swift as thought; वृषणः (*vṛṣaṇaḥ*): showerers, that is, young; वीतपृष्टाः (*vītapṛṣṭāḥ*): of lovely backs, that is, handsome of body; स्वराजः (*svarājaḥ*): shining of themselves. May they be of such kind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvins, endowed with fine horses
+- शुचयः (*śucayaḥ*)—pure (bright)
+- पयस्साः (*payassāḥ*)—drinkers of rain-water
+- नातरंहसः (*nātaraṃhasaḥ*)—having the speed of the wind
+- दिव्यासः (*divyāsaḥ*)—those that dwell in the heavenly world
+- अत्याः (*atyāḥ*)—those that are brisk
+- मनोजुवः (*manojuvaḥ*)—having the speed of thought
+- वृषणः (*vṛṣaṇaḥ*)—showerers of desires (youthful)
+- वीतपृष्ठाः (*vītapṛṣṭhāḥ*)—having lovely bodies
+- स्वराजः (*svarājaḥ*)—having natural radiance
+- आश्वासः (*āśvāsaḥ*)—your horses
+- वां (*vāṃ*)—you two
+- इह (*iha*)—to this sacrifice
+- आ वहंतु (*ā vahaṃtu*)—let them carry and bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, distinguished by fine horses: may your horses, pure, protectors of the rain-water, with a speed equal to the wind, born in the heavenly world, brisk, swift as thought, granters of what is desired, lovely of body, and having a naturally given radiance of body, bring you both to our sacrificial hall.
+
+### Printed p. 556
+
+##### English translation (H. H. Wilson)
+Ashwins, may your horses, pure, rain-drinking, swift as the wind, heaven-born, quick-moving, fleet as thought, vigorous, well-packed, and self-irradiating, bring you hither.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra the words शुचयः (*śucayaḥ*), वातरंहसः (*vātaraṃhasaḥ*) and so on are epithets of the word अश्वासः (*aśvāsaḥ*). As to which are the horses of the Aśvins, no precise meaning can be given. In the Nirukta (Ni. 2-28) it is said रासभावश्विनोः (*rāsabhāvaśvinoḥ*). There is also a view that they are divine radiance. That will be discussed later, with examples, and the differences of opinion will be stated.
+
+शुचयः (*śucayaḥ*)—शुद्धा, दीप्ता वा (*śuddhā, dīptā vā*). It means either "perfectly pure" or "shining". Giving the etymology of this word, the Nirukta authors say:
+
+शोचतेज्वलतिकर्मणः । अयमपीतरः शुचिरेतस्मादेव । निष्पिक्तमस्मात् पापकमिति नैरुक्ताः ॥ (*śocatejvalatikarmaṇaḥ | ayamapītaraḥ śuciretasmādeva | niṣpiktamasmāt pāpakamiti nairuktāḥ ‖*) (Ni. 6-1)
+
+From the root शुच् (*śuc*) in the sense "shine" the noun शुचि (*śuci*) is made; this word means radiance, light. The word शुचि (*śuci*) with the sense "holy, purity" is also formed from this very root. The saying of the etymologists, that sin is driven off by him, is also well known. On these grounds शुचि (*śuci*) here should be explained as purity. Or it may also be explained as "shining horses".
+
+अत्याः (*atyāḥ*)—आतनशीलाः (*ātanaśīlāḥ*). It means of a constantly moving nature. This word need not be an epithet of the horse alone. For example—
+
+आ यः पुरं नार्मिणीमदीदेदत्यः कविर्नभन्यो ३ नार्वा । सूरो न रुरुक्वाञ्चितात्मा ॥ (*ā yaḥ puraṃ nārmiṇīmadīdedatyaḥ kavirnabhanyo 3 nārvā | sūro na rurukvāñcitātmā ‖*) (Ṛ. Saṃ. 1-149-3)
+
+here it is an epithet of Agni and describes his independent course of movement. And
+
+अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यंति चेमा बृहस्पतेरहिमाया अभि द्यून् ॥ (*asya śloko divīyate pṛthivyāmatyo na yaṃsadyakṣabhṛdvicetāḥ | mṛgāṇāṃ na hetayo yaṃti cemā bṛhaspaterahimāyā abhi dyūn ‖*)
+(Ṛ. Saṃ. 1-190-4)
+
+here the word is used so that आतनशीलः आदित्यः (*ātanaśīlaḥ ādityaḥ*) is also understood. In the present Ṛk it is an epithet of the horses of the Aśvins.
+
+### Printed p. 557
+The epithets शुचयः (*śucayaḥ*), दिव्यासः (*divyāsaḥ*), वीतपृष्ठाः (*vītapṛṣṭhāḥ*), स्वराजः (*svarājaḥ*) and so on describe qualities well known of Varuṇa's horse. Moreover, according to the Nirukta sentences रासभावश्विनोः (*rāsabhāvaśvinoḥ*) and अजाः पूष्णः (*ajāḥ pūṣṇaḥ*) (Ni. 2-28), the mounts of the Aśvins are well known as asses. The horse described in the present Ṛk also has the other names रासभ (*rāsabha*) and अज (*aja*), and there is a reason why these names came. It is this: how the horse, created by Prajāpati and pervading the universe, got the names रासभ (*rāsabha*) and अज (*aja*) is described in the Śatapatha Brāhmaṇa as follows.
+
+अथ यदश्रु संक्षरितमासीत्सोऽश्रुरभवदश्रुर्ह वै तमश्व इत्याचक्षते परोक्षं परोक्षकामा हि देवा अथ यदरसदिव स रासभोऽभवदथ यः कपाले रसो लिप्त आसित्सोऽजोऽभवदथ यत्कपालमासीत्सा पृथिव्यभवत्॥ (*atha yadaśru saṃkṣaritamāsītso 'śrurabhavadaśrurha vai tamaśva ityācakṣate parokṣaṃ parokṣakāmā hi devā atha yadarasadiva sa rāsabho 'bhavadatha yaḥ kapāle raso lipta āsitso 'jo 'bhavadatha yatkapālamāsītsā pṛthivyabhavat‖*)
+(Śa. Brā. 6-1-1-11)
+
+The gods, who love the indirect, called the tear that spread round the cosmic egg अश्व (*aśva*). The sound that arose when the egg split became known as रासभ (*rāsabha*). The fluid that was smeared on the shell of the egg became अज (*aja*). This description tells how Prajāpati created the horse from the all-pervading water.
+
+The many kinds of divine qualities attributed to the horse described in the present Ṛk are in many places attributed also to this horse created by Prajāpati. Not only that: as a relation between Prajāpati and the horse is stated, a close relation between Varuṇa and the horse is likewise stated in many places. For example—
+
+वारुणो वा अश्वः । तं देवतया व्यर्धयति । यत्प्राजापत्यं करोति । .... वारुणो वा अश्वः ॥ (*vāruṇo vā aśvaḥ | taṃ devatayā vyardhayati | yatprājāpatyaṃ karoti | .... vāruṇo vā aśvaḥ ‖*)
+(Tai. Brā. 3-9-16-1)
+
+On this sentence Sāyaṇa says: अश्वस्याब्योनित्वाद्वरुणस्य चापां पतित्पादयमश्वो वारुणः । (*aśvasyābyonitvādvaruṇasya cāpāṃ patitpādayamaśvo vāruṇaḥ |*) That is, since the horse is born of the all-pervading water and Varuṇa is lord of the waters, this horse belongs to Varuṇa. Examining the secret meaning of this Varuṇa's horse, Eggeling, the scholar who rendered the Śatapatha Brāhmaṇa into English, says as follows.
+
+Varuna's horse is none other than the fiery races who pursues his
+diurnal course across the all-encompassing arch of heaven, the
+the sphere of Varuna, the all-ruler. It is in the form of the
+horse that the Snn is thus lauded in the hymn.
+(S. B. E. Vol. XLIV. P. XIX-XX)
+
+### Printed p. 558
+He states that this horse of Varuṇa, lord of all heaven and earth, is none other than the Sun, who goes through his daily revolution. By the epithets शुचयः (*śucayaḥ*) and स्वराजः (*svarājaḥ*) it may be said that the horses described are the very radiance of the Āditya. Since in the next Ṛk, namely Ṛk 1-181-4, one of the Aśvins is described as of the form of the Sun, the description in the present Ṛk is like a description of horses that are the radiance of the Āditya.
+
+##### Grammar
+
+- अश्वासः दिव्यासः — जस् परे अज्जसेरसुक् (पा. सू. ७-१-५०) इति आत् अस्य असुकागमः ।
+- सयस्पाः — पा. पाने इति धातुः । आतोमनिन् (पा. सू. ३-२-७४) इति विच् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरः भवति । पात् च बहुलं (पा. सू. ८-३-५२) इति सत्वम् । प्रथमाबहुवचनांतरूपम् ।
+- वातरंहसः वीतपृष्ठा — बहुव्रीहिसमासे पूर्वपदप्रकृतिस्वरः भवति ।
+- स्वराजः — स्वयमेव राजंते इति स्वराजः राज्य दीप्तौ इति धातुः । क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- वहंतु — वह प्रापणे इति धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ रथो॒ऽवनि॒र्न प्र॒वत्वा॑न्नृ॒प्रवं॑धुरः सुवि॒ताय॑ गम्याः ।  
+> वृष्णः॑ स्थातारा॒ मन॑सो॒ जवी॑यानहंपू॒र्वो य॑ज॒तो धि॑ष्णा॒  
+> यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । रथः । अवनिः । न । प्रवत्वान् । सृप्रवंधुरः । सुविताय । गम्याः ।  
+> वृष्णः ! स्थातारा । मनसः । जवीयान् । अहंपूर्वः । यजतः । धिष्ण्या । यः ॥
+
 ---
 
-**Progress note:** Done through printed p. 552. pp. 547-552 (batch API)
+**Progress note:** Done through printed p. 558. pp. 553-558 (batch API)
