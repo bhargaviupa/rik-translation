@@ -18004,6 +18004,268 @@ O Mitra and Varuṇa, I honour (महयं (*mahayaṃ*)) your sacrifice with 
 
 O Mitra and Varuṇa, I offer to you the sacrifice accompanied by salutations in the form of worship. O Mitra and Varuṇa, I, beset by injury, call you. You
 
+### Printed p. 433
+Rest of the Bhāvārtha, continuing: the new hymns are composed to serve you; may these hymns composed by me gratify you.
+
+##### English translation
+I offer sacrifice to you two with praises, I invoke you, Mitra and Varuna, when in trouble : may the present hymns be capable of gratifying you : may these (my) prayers be acceptable to you both.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं दे॑व पु॒रोहि॑तिर्यु॒वभ्यां॑ य॒ज्ञेषु॑ मित्रावरुणावकारि ।  
+> विश्वा॑नि दु॒र्गा पि॑पृतं ति॒रो नो॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । देवा । पुरः-हितिः । युव-भ्यां । यज्ञेषु । मित्रावरुणौ । अकारि ।  
+> विश्वानि । दुः-गा । पिपृतं । तिरः । नः । यूयं । पात । स्वस्ति-भिः । सदा । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरति । हे देवा देवौ मित्रावरुणौ युवभ्यां युवाभ्यां यज्ञेष्वियं पुरोहितिः पुरस्क्रिया पूजा स्तुतिलक्षणाकारि । कृताभूत् ॥ तां
+> सेवित्वा विश्वानि सर्वाणि दुर्गा दुःखेन गंतव्यान्यापदस्तिरः । तिरस्कुरुतं । तथा कृत्वा
+> नोऽस्मान् पिपृतं पारयतं । शिष्टो गतः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he concludes the praise. O divine Mitra and Varuṇa, in the sacrifices this पुरोहितिः (*purohitiḥ*) has been made for you two; it means the foremost rite, worship in the form of praise. Having accepted it, set aside all difficulties, the calamities hard to pass through, and having done so carry us across. शिष्टो गतः (*śiṣṭo gataḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—O divine ones
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- युव-भ्यां (*yuva-bhyāṃ*)—addressed to you
+- इयं पुरोहितिः (*iyaṃ purohitiḥ*)—this worship, in the form of praise, offered before you
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- अकारि (*akāri*)—has been accomplished
+- विश्वानि (*viśvāni*)—all
+- दुर्गा (*durgā*)—calamities (accepting this, destroy them)
+- तिरः (*tiraḥ*)—destroy
+- नः (*naḥ*)—us
+- पिपृतं (*pipṛtaṃ*)—carry across the difficulty
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 434
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, divine ones, the worship in the form of praise offered before you has been accomplished in the sacrifices. Accepting it, destroy all calamities. Carry us across difficulty. Always protect us with blessings.
+
+##### English translation
+To you, divine Mitra and Varna, to you this adoration at sacrifice is addressed : remove from us all difficulties, and ever cherish us with blessings.
+
+## Sūkta 62 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत्सूर्य इति षडृचं सप्तमं सूक्तं । अत्रानुक्रमणिका ॥ उत्सूर्यः
+> षळाद्यास्तिस्रः सौर्य इति । वसिष्ठ ऋषिः । त्रिष्टुप् छंदः । आद्यास्तिस्रः सूर्यदेवत्याः शिष्टा मित्रावरुणदेवत्याः ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+उत्सूर्य (*utsūrya*) is a hymn of six Ṛks, the seventh hymn. The Anukramaṇikā says: उत्सूर्यः षळाद्यास्तिस्रः सौर्य (*utsūryaḥ ṣaḷādyāstisraḥ saurya*). The seer is Vasiṣṭha; the metre is Triṣṭubh. The first three Ṛks have Sūrya as deity, the rest Mitra and Varuṇa. The hymn's application is as indicated by the characteristic mark (लैंगिकः (*laiṃgikaḥ*)).
+
+##### Anuvāda
+
+This hymn beginning उत्सूर्यः (*utsūryaḥ*) is the seventh hymn in the fourth anuvāka. It has six Ṛks. The Anukramaṇikā says उत्सूर्यः षळाद्यास्तिस्रः सौर्यः (*utsūryaḥ ṣaḷādyāstisraḥ sauryaḥ*). Vasiṣṭha is the seer of this hymn; the metre is Triṣṭubh; the first three Ṛks have Sūrya as deity; the remaining Ṛks have Mitra and Varuṇa. The hymn's application is Laiṅgika.
+
+Sūkta 62. Maṇḍala 7; Anuvāka 4; Sūkta 62. Aṣṭaka 5; Adhyāya 5; Varga 4. Number of Ṛks in the hymn: 6.
+Seer: Vasiṣṭha. Deity: 1–3 Sūrya; 4–6 Mitra and Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्सूर्यो॑ बृ॒हद॒र्चिंष्य॑श्रेत् पु॒रु विश्वा॒ जनि॑म॒ मानु॑षाणां ।  
+> स॒मो दि॒वा द॑दृशे॒ रोच॑मानः॒ क्रत्वा॑ कृ॒तः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥ १ ॥
+
+### Printed p. 435
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । सूर्यः । बृहत् । अर्चींषि । अश्रेत् । पुरु । विश्वा । जनिम । मानुषाणां ।  
+> समः । दिवा । ददृशे । रोचमानः । क्रत्वा । कृतः । सुऽकृतः । कर्तृऽभिः । भूत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यः सर्वस्य प्रेरको देवो बृहदत्यधिकं पुरु पुरूणि बहून्यर्चिंषि तेजांस्युदश्रेत् । ऊर्ध्वं श्रयति । किं प्रति । मानुषाणां मनुष्याणां विश्वा सर्वाणि जनिम जनिमानि जनान् । जनशब्दः संघवचनः । तान्प्रत्युदश्रेत् । स देवो दिवाहनि रोचमानः सन् समो ददृशे । एकरूपः प्रतिनियतः सन्दृश्यते । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवतीति हि श्रुतिः । स देवः क्रत्वा सर्वस्य कर्ता कृतः संपादितः प्रजापतिना कर्तृभिः स्तुतिकर्तृभिः सुकृतः स्तुत्या तीक्ष्णीकृतो भूत् । भवति ॥
+
+##### Gist of the bhāṣya
+
+Sūrya, the god who impels all, raises up his abundant and manifold rays, his splendours, upward. Towards what? Towards all the races (जनिम (*janima*)) of men, the people; the word जन (*jana*) denotes a multitude. He, shining by day, is seen as the same, of one form, firmly fixed for each. Hence the Śruti: पुरुषं पुरुषं प्रत्यादित्यो भवतीति (*puruṣaṃ puruṣaṃ pratyādityo bhavatīti*). That god, the maker of all through his power (क्रत्वा (*kratvā*)), is made by Prajāpati; he is well made, sharpened by the praise of the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यः (*sūryaḥ*)—Sūrya, the impeller of all
+- बृहत् (*bṛhat*)—abundant
+- पुरु (*puru*)—and manifold
+- अर्चींषि (*arcīṃṣi*)—his rays
+- उदश्रेत् (*udaśret*)—spreads upward
+- मानुषाणां (*mānuṣāṇāṃ*)—of men
+- विश्वा (*viśvā*)—all
+- जनिम (*janima*)—over the crowds he spreads his rays
+- दिवा (*divā*)—in the days
+- रोचमानः (*rocamānaḥ*)—shining
+- समः (*samaḥ*)—in one manner by all
+- ददृशे (*dadṛśe*)—is seen
+- क्रत्वा (*kratvā*)—the maker of all
+- कृतः (*kṛtaḥ*)—himself made by Prajāpati, Sūrya
+- कर्तृभिः (*kartṛbhiḥ*)—by the praisers
+- सुकृतः (*sukṛtaḥ*)—well refined
+- भूत् (*bhūt*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+Sūrya, the impeller of all, spreads upward his abundant and manifold rays. He spreads his rays over all the crowds of men. Shining in those days he is seen by all in one manner. Sūrya, the maker of all and himself made by Prajāpati, becomes one well refined by the praisers.
+
+##### English translation
+Sury aspreads his vast and numerous rays over all the crowds of men; shining bright by day, he is beheld (by all) the same, the creator, the created, he is glorified by his worshippers.
+
+### Printed p. 436
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सू॑र्यं॒ प्रति॑ पु॒रो न॒ उद्गा॑ ए॒भिः स्तोमे॑भिरेत॒शेभि॒रेवैः॑ ।  
+> प्र नो॑ मि॒त्राय॒ वरु॑णाय वो॒चोऽना॑गसो अर्य॒म्णे  
+> अ॒ग्नये॑ च ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सूर्य । प्रति । पुरः । नः । उत् । गाः । एभिः । स्तोमेभिः । एतशेभिः । एवैः ।  
+> प्र । नः । मित्राय । वरुणाय । वोचः । अनागसः । अर्यम्णे । अग्नये । च ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य स प्रसिद्धस्त्वं नोऽस्मान्प्रति पुरः पुरस्तादुद्गाः । उद्गच्छ । कैः साधनैः । एभिः स्तोमेभिः स्तोत्रैः स्तुत्यैरेतशेभिरेतवर्णैः ॥ स्वार्थिकः शकारः यो जरंता युवशा ता । ऋ- १-१६१-६ । पुरुषः कृष्णशवास्येत्तरतः । ऐ. ब्रा. ५-१४. इत्यादिवत् ॥ तादृशैरेवैर्गमनशीलैरश्वैरुद्गाः । अथ तथा कृत्वास्माभिः स्तुतः सन्नोऽस्माननागसोऽपापान् प्र वोचः । केभ्यः । मित्राय वरुणायार्यम्णेऽग्नये च । अत्र सौर्य इतरेषां मित्रादीनां संकीर्तनं तेषामपि निपातभाक्त्वादविरुद्धं । एवं पूर्वत्रोत्तरत्र च मैत्रावरुणेऽर्यमादीनां संकीर्तनमपि न विरुध्यते ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, you, the renowned one, rise before us. By what means? With these praises, with एतशेभिः (*etaśebhiḥ*), horses of variegated colour (the श (*śa*) is pleonastic), as in यो जरंता युवशा ता (*yo jaraṃtā yuvaśā tā*) (Ṛ. 1-161-6) and पुरुषः कृष्णशवास्येत्तरतः (*puruṣaḥ kṛṣṇaśavāsyettarataḥ*) (Ai. Brā. 5-14). Rise with such swift-moving horses. Then, praised by us, declare us sinless to Mitra, Varuṇa, Aryaman and Agni. Here, in a hymn to Sūrya, the mention of the other deities, Mitra and the rest, is not inconsistent, since they too share in the particle; likewise, before and after, in a hymn to Mitra and Varuṇa the mention of Aryaman and others is not inconsistent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sūrya
+- सः (*saḥ*)—you, the renowned
+- स्तोमेभिः (*stomebhiḥ*)—with praiseworthy
+- एतशेभिः (*etaśebhiḥ*)—and radiant
+- एभिः एवैः (*ebhiḥ evaiḥ*)—together with these horses
+- नः प्रति (*naḥ prati*)—facing us
+- पुरः (*puraḥ*)—in front of us
+- उद्गाः (*udgāḥ*)—rise and come
+- मित्राय (*mitrāya*)—to Mitra
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- अर्यम्णे (*aryamṇe*)—to Aryaman
+- अग्नये च (*agnaye ca*)—and before Agni
+- नः (*naḥ*)—us
+- अनागसः (*anāgasaḥ*)—as sinless
+- प्र वोचः (*pra vocaḥ*)—declare openly
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Sūrya, you, the renowned, together with your praiseworthy and radiant horses, rise and come facing us, in front of us. Before Mitra, and before Aryaman and Agni, declare us sinless and make it known.
+
+### Printed p. 437
+
+##### English translation
+Rise up before us, Surya, with your glorious white horses : dcclare us free from sin to Mitra, Varuna, Aryaman and Agni.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि नः॑ स॒हस्रं॑ शु॒रुधो॑ रदंत्वृ॒तावा॑नो॒ वरु॑णो मि॒त्रो अ॒ग्निः  
+> यच्छं॑तु चं॒द्रा उ॑प॒मं नो॑ अ॒र्कमा नः॒ कामं॑ पूपुरंतु॒  
+> स्तवा॑नाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । नः । सहस्रं । शुरुधः । रदंतु । ऋतऽवानः । वरुणः । मित्रः । अग्निः ।  
+> यच्छंतु । चंद्राः । उपमं । नः । अर्कं । आ । नः । कामं । पूपुरंतु ।  
+> स्तवानाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मभ्यं शुरुधः शुचेर्दुःखस्य प्रतिरोद्धार ऋतावानः सत्यवंतो वरुणादयः सहस्रं सहस्रसंख्याकं धनं विरदंतु वितरंतु । अथवा शुरुध उक्तलक्षणाः सहस्रसंख्याका ओषधी रदंतु । किं च ते चंद्रा आह्लादकारिणोऽस्मभ्यमुपमं स्तुत्यमर्कमर्चनीयं यच्छंतु । किंच स्तवाना अस्माभिः स्तूयमाना नोऽस्माकं काममपेक्षितं पूपुरंतु । पूरयंतु । हे सूर्य त्वयानुज्ञाता इति सूर्यस्य स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+May Varuṇa and the others, the शुरुधः (*śurudhaḥ*) (warders-off of *śuci*, sorrow) and ऋतावानः (*ṛtāvānaḥ*) (possessed of truth), distribute to us a thousandfold wealth. Or else, the शुरुधः (*śurudhaḥ*) so defined are the thousand herbs; let them eat... [as given: ओषधी रदंतु (*oṣadhī radaṃtu*)]. Moreover, may those delightful ones grant us the उपमं (*upamaṃ*), the praiseworthy अर्कं (*arkaṃ*), the worshipful. And praised by us, may they fulfil our desire, what is wished for. O Sūrya, "permitted by you": thus it is praise of Sūrya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुरुधः (*śurudhaḥ*)—destroyers of sorrow
+- ऋतावानः (*ṛtāvānaḥ*)—guardians of truth
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—to us
+- सहस्रं (*sahasraṃ*)—a thousandfold wealth
+- विरदंतु (*viradaṃtu*)—let them give us
+- चंद्राः (*caṃdrāḥ*)—these delighting gods
+- उपमं (*upamaṃ*)—extraordinary
+- अर्कं (*arkaṃ*)—and worshipful food
+- नः यच्छंतु (*naḥ yacchaṃtu*)—let them give us
+- स्तवानाः (*stavānāḥ*)—these gods praised by us
+- नः (*naḥ*)—our
+- कामं (*kāmaṃ*)—desire
+- आ पूपुरंतु (*ā pūpuraṃtu*)—let them fill and give
+
+##### भावार्थ (Bhāvārtha)
+
+May Varuṇa, Mitra and Agni, destroyers of sorrow and guardians of truth, give us a thousandfold wealth. May these delighting gods give us extraordinary and worshipful food. May these gods, praised by us, fulfil our desires.
+
+### Printed p. 438
+
+##### English translation
+May Varuna, Mitra, and Agni, the alleviators of pain, the observers of truth, bestow upon us thousands (of riches) : may they, the givers of delight, grant us excellent (food) : glorified by us, may they fulfil our desires
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यावा॑भूमी अदिते॒ त्रासी॑थां नो॒ ये वां॑ ज॒ज्ञुः सु॒जनि॑मान ऋष्वे ।  
+> मा हेळे॑ भूम॒ वरु॑णस्य वा॒योर्मा मि॒त्रस्य॑ प्रि॒यत॑मस्य नृ॒णां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यावाभूमी इति । अदिते । त्रासीथां । नः । ये । वां । जज्ञुः । सुऽजनिमानः । ऋष्वे इति ।  
+> मा । हेळे । भूम । वरुणस्य । वायोः । मा । मित्रस्य । प्रियऽतमस्य । नृणां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्यावाभूमी द्यावापृथिव्यौ हे अदितेऽखंडनीये । एतद्द्यावाभूम्योरेवैकवचनेन संबोधनं । हे ऋष्वे । महन्नामैतत् । हे महत्यौ नोऽस्मांस्त्रासीथां । रक्षतं । ये वयं सुजनिमानः शोभनजन्मानो वां युवां जज्ञुः । ज्ञातवंतः स्म । किं च वयं वरुणस्य हेळे क्रोधे मा भूम । तथा वायोर्मा भूम । तथा नृणां स्तुतिनेतृणां मनुष्याणां प्रियतमस्य मित्रस्य हेळे मा भूम ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth, O Aditi, the unbreakable: this is a single-number address to Heaven and Earth alone. O ऋष्वे (*ṛṣve*)—this is a name meaning "great"—O great ones, protect us, who, well born, have known you. And may we not come under the anger (हेळे (*heḷe*)) of Varuṇa, nor of Vāyu, nor under the anger of Mitra, the dearest of men (नृणां (*nṛṇāṃ*), the leaders in praise).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदिते (*adite*)—O ones of perfect nature
+- ऋष्वे (*ṛṣve*)—and of greatness
+- द्यावाभूमी (*dyāvābhūmī*)—O Heaven and Earth
+- ये (*ye*)—we who
+- सुजनिमानः (*sujanimānaḥ*)—of excellent births
+- वां (*vāṃ*)—your greatness
+- जज्ञुः (*jajñuḥ*)—have known; such
+- नः (*naḥ*)—us
+- त्रासीथां (*trāsīthāṃ*)—protect
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- हेळे (*heḷe*)—to the anger
+- मा भूम (*mā bhūma*)—cause us not to fall subject (we)
+- वायोः (*vāyoḥ*)—do not make us objects of Vāyu's wrath either
+- नृणां (*nṛṇāṃ*)—to men
+- प्रियतमस्य (*priyatamasya*)—who does exceeding good
+- मित्रस्य (*mitrasya*)—of Mitra's wrath also
+- मा (*mā*)—may we not become subject
+
 ---
 
-**Progress note:** Done through printed p. 432. pp. 427-432 (batch API)
+**Progress note:** Done through printed p. 438. pp. 433-438 (batch API)
