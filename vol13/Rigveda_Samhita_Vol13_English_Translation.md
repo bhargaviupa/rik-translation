@@ -1149,6 +1149,144 @@ Those Maruts, in their arms that are beneficial to men, bear abundant auspicious
 
 On the arms of the Maruts, who bring benefit to men, are many auspicious things dear to men; on their chests are gleaming, clearly visible golden ornaments; on their shoulders are clean garlands, and (in their hands) sharp, vajra-like weapons. Just as birds have wings of many colours, the Maruts too are variously adorned. (Or, they spread their radiance all around.)
 
+### Printed p. 49
+
+##### English translation (H. H. Wilson)
+Maruts, in your arms, propitious to man, are many good things: on your breasts are golden (ornaments), brilliant and conspicuous : white garlands (hang) on your shoulders : sharp are (the edges of) your weapons : the Maruts have various decorations, as birds have (many coloured) wings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the ornaments and weapons that the Maruts wear on their various limbs for decoration are described.
+
+भूरीणि भद्रा नर्येषु बाहुषु (*bhūrīṇi bhadrā naryeṣu bāhuṣu*)—The Maruts carry excellent things in their strong arms (hands) in order to give them (to the sacrificer). That is, they hold in their hands many auspicious, excellent things, to be given to the sacrificers who praise them. Here the commentator explains the word नर्येषु (*naryeṣu*) as नरेभ्यो हितेषु (*narebhyo hiteṣu*), "beneficial to men", that is, "desired by men". Max Müller renders it "manly", that is, (arms) strong as men ought to have.
+
+वक्षस्सु रुक्मा (*vakṣassu rukmā*)—उरःस्थलेषु रुक्माः सुवर्णरत्नादिनिर्मितान्याभरणानि धार यंति । (*uraḥsthaleṣu rukmāḥ suvarṇaratnādinirmitānyābharaṇāni dhāra yaṃti |*) On the chest, that is, on the breast, they wear necklaces and other ornaments made of gold, jewels and the like. This matter is also described in the Ṛk वक्षःसु रुक्मा (*vakṣaḥsu rukmā*) (Ṛ. Saṃ. 1-64-4). The word रुक्मा (*rukmā*), in the nominative plural, is used to indicate the golden necklaces and other ornaments the Maruts wear on their breasts. For this very reason, in Ṛks such as Ṛ. Saṃ. 2-34-2; 5-55-1; 5-57-5 the Maruts are called रुक्मवक्षसः (*rukmavakṣasaḥ*) (wearers of gold ornaments on the breast—gold-breasted). In the Āśvalāyana Śrauta Sūtra (Ā. Śrau. Sū. 9-4)**NOTE** and in the Taittirīya Saṃhitā (Tai. Saṃ. 1-8-18-1), रुक्मं होत्रॆ (*rukmaṃ hotrè*) designates the golden ornament given in the sacrifice, as the priest's fee, to the priest called the Hotṛ. This ornament is said to be circular in shape; perhaps it was like the ornament called a necklace.
+
+रभसासः (*rabhasāsaḥ*)—राभस्ययुक्तानि कांतिमंति वा । (*rābhasyayuktāni kāṃtimaṃti vā |*) Shining brilliantly. This word is derived from the root रभ् (*rabh*), "to rush upon, to fall upon". The word always expresses strength accompanied by speed. The word रभस (*rabhasa*) is found used not only of the Maruts but also of Agni and Indra.
+
+### Printed p. 50
+पृश्नेः पुत्रा उपमासो रभिष्ठाः स्वय्या मत्या मरुतः सं मिमिक्षुः । (*pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayyā matyā marutaḥ saṃ mimikṣuḥ |*) (Ṛ. Saṃ. 5-58-5)
+In this Ṛk the word रभिष्ठाः (*rabhiṣṭhāḥ*) (most powerful) is used as an epithet of the Maruts.
+
+पृथुं तिरश्चा वयसा बृहंतं व्यचिष्ठमन्नॆ रभसं दृशानं । (*pṛthuṃ tiraścā vayasā bṛhaṃtaṃ vyaciṣṭhamannè rabhasaṃ dṛśānaṃ |*) (Ṛ. Saṃ. 2-10-4)
+Here the word रभसं (*rabhasaṃ*) is used as an epithet of Agni.
+
+विष्कभ्यंतः स्कंभनेना जनित्री आसीना ऊर्ध्वं रभसं वि मिन्वन् । (*viṣkabhyaṃtaḥ skaṃbhanenā janitrī āsīnā ūrdhvaṃ rabhasaṃ vi minvan |*) (Ṛ. Saṃ. 3-31-12)
+In this Ṛk the word रभसं (*rabhasaṃ*) is used as an epithet of Indra; and in some places this word is found used in the senses of cruel, terrible, rushing swiftly and falling upon.
+
+अधा शयीत निर्ऋतेरुपस्थेऽधैनं वृका रभसासो अद्युः । (*adhā śayīta nirṛterupasthe 'dhainaṃ vṛkā rabhasāso adyuḥ |*) (Ṛ. Saṃ. 10-95-14)
+In this Ṛk the word रभसासः (*rabhasāsaḥ*) is an epithet of वृकाः (*vṛkāḥ*) (wolves), in the sense of "rushing swiftly, terrible". In the present Ṛk the word रभस (*rabhasa*) is used in the sense of "glittering, brilliant".
+
+भद्रान्‌कृण्वन्निंद्रहवान्त्सखिभ्य आ सोमो वस्त्रा रभसानि दत्ते । (*bhadrānkṛṇvanniṃdrahavāntsakhibhya ā somo vastrā rabhasāni datte |*) (Ṛ. Saṃ. 9-96-1)
+In this Ṛk too it is used in this same sense, as an epithet of the word वस्त्रा (*vastrā*).
+
+The ornaments and weapons of the Maruts are described in detail in the Ṛks:
+
+चित्रैरंजिभिर्वपुषे व्यंजते वक्षःसु रुक्मा अधि येतिरे शुभे । अंसेष्वेषां नि मिमृक्षुर्ऋष्ययः साकं जज्जिरे स्वधया दिवो नरः ॥ (*citrairaṃjibhirvapuṣe vyaṃjate vakṣaḥsu rukmā adhi yetire śubhe | aṃseṣveṣāṃ ni mimṛkṣurṛṣyayaḥ sākaṃ jajjire svadhayā divo naraḥ ‖*) (Ṛ. Saṃ. 1-64-4)
+अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः । अग्निभ्राजसो विद्युतो गभस्त्योः शिप्राः शीर्षसु वितता हिरण्ययीः ॥ (*aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ | agnibhrājaso vidyuto gabhastyoḥ śiprāḥ śīrṣasu vitatā hiraṇyayīḥ ‖*) (Ṛ. Saṃ. 5-54-11)
+
+एताः (*etāḥ*)—शुक्लवर्णा मालाः । (*śuklavarṇā mālāḥ |*) White garlands or necklaces: this is the commentator's explanation. The word एताः (*etāḥ*) would indicate a spotted deer. For this reason
+
+### Printed p. 51
+Western scholars hold that the sense suggested here is that the Maruts wear (wrap round) on their shoulders the skin of a spotted deer. For in the Āśvalāyana Gṛhya Sūtra and in other Gṛhya Sūtras there is a rule that a Brahmin should wear a deer-skin like a garment (or in place of one). A student who studies the Veda after the initiation (upanayana) is to wear, if a Brahmin, the skin of the ऐणेय (*aiṇeya*) (deer); if a Kṣatriya, the skin of the रौरव (*raurava*) (the deer called ruru); if a Vaiśya, the skin of the अज (*aja*) (goat). And when wearing garments, the Brahmin is to wear a काषाय (*kāṣāya*) garment (dark red), the Kṣatriya a garment of मांजिष्ठ (*māṃjiṣṭha*) colour (bright red), the Vaiśya a garment of हारिद्र (*hāridra*) colour (yellow). It can therefore be said that it was the custom to use deer-skin instead of a garment. For this very reason the seer in the present Ṛk may have described the Maruts as wearing deer-skin on their shoulders. Dressed deer-skin used as a garment is called अजिन (*ajina*). It is also called कृष्णाजिन (*kṛṣṇājina*) (red deer-skin). Though the word अजिन (*ajina*) is not used in the Ṛgveda, it is especially frequent in the Yajurveda and the other Vedas.
+
+क्षुराः (*kṣurāḥ*)—Weapons with sharp edges. क्षुराः (*kṣurāḥ*) is also the name of the shaving knife (razor), because a razor has to be very sharp. In speaking of a sharp weapon it is the custom to cite the example of the razor, क्षुराः (*kṣurāḥ*). It appears that in the Ṛgveda period, and even before it, shaving with a knife was customary. On this point:
+
+यदा ते वातो अनुवाति शोचिर्वप्तेव स्मश्रु वपसि प्र भूम । (*yadā te vāto anuvāti śocirvapteva smaśru vapasi pra bhūma |*) (Ṛ. Saṃ. 10-142-4)
+केशश्मश्रु वपते नखानि निकृंतते मृता वा एषा त्वगमेध्या यत्केशश्मश्रु मृतामेव त्वचममेध्यामपहत्य यज्ञियो भूत्वा मेधमुपैति । (*keśaśmaśru vapate nakhāni nikṛṃtate mṛtā vā eṣā tvagamedhyā yatkeśaśmaśru mṛtāmeva tvacamamedhyāmapahatya yajñiyo bhūtvā medhamupaiti |*) (Tai. Saṃ. 6-1-1-2)
+These and similar mantras support the fact that shaving with a knife was customary.
+
+वयो न पक्षान् वि अनु श्रियो धिरे (*vayo na pakṣān vi anu śriyo dhire*)—Here श्रियः (*śriyaḥ*) means splendour, beauty. The meaning is that, as birds spread their wings open when they fly, so when the Maruts travel their splendour spreads all around, in every direction.
+
+### Printed p. 52
+
+##### Grammar
+
+- नर्येषु—नराय हिताः नर्याः । यत् प्रत्ययः । यस्येति च इत्यनेन अकारलोपः । यतोनावः इत्यनेन आद्युदात्तस्वरो भवति ।
+- रुक्माः—रुच दीप्तौ धातुः । युजि रुजितिजांकुश्च (उ. सू. १-१४३) इत्यनेन मक् प्रत्ययः । तत्संनियोगेन धातोरंत्यस्य कुत्वं । कित्त्वात् लघूपधगुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- रभसासः—रभ राभस्ये धातुः । अत्यःविचमित—(उ. सू. ३-३९७) इत्यनेन असच् प्रत्ययः । चितः (पा. सू. ६-१-१९३) इत्यनेन अंतोदात्तस्वरो भवति । जस् परे आज्जसेरसुक् इत्यनेन आसुक् आगमः ।
+- अंजयः—अंजू व्यक्तिम्रक्षणगतिषु । खनिकप्यंजि—(उ. सू. ४-५७९) इत्यनेन इ प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । प्रथमाबहुवचनांतरूपं ।
+- एताः—इण् गतौ धातुः । हसि मृग्रिह्वा—(उ. सू. ३-३६६) इत्यनेन तन् प्रत्ययः । तं निमित्तीकृत्य धातोरिको गुणः । इत्यादिर्नित्यं इत्यनेन आद्युदात्तस्वरो भवति ।
+- पविषु—पूञ् पवने धातुः । अच इः (उ. सू. ४-५७८) इत्यनेन इ प्रत्ययः । तन्निमित्तं धातोरिको गुणोऽवादेशः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- क्षुराः—क्षुर विलेखने धातुः । यजेंद्राग्र—(उ. सू. २-१८६) इत्यनेन रन्नंतत्वेन निपातितः । व्यत्ययेन अंतोदात्तो भवति ।
+- धिरे—धृञ् धारणे धातुः । छांदसे लिटि परे व्यत्ययेन वर्णलोपः । छंदसि द्वित्वविकल्पत्वात् न भवति । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हांतो॑ म॒ह्ना वि॒भ्वो॒३॒॑३विभू॑तयो दूरे॒दृशो॒ ये दि॒व्या ॒॑ ॑
+> इ॑व॒ स्तृभिः॑ ।  
+> मं॒द्राः सु॑जि॒ह्वाः स्वरि॑तार आ॒सभिः॒ संमि॑श्ला॒ इंद्रे॑ म॒रुतः॑  ॒॑
+> परिष्टुभः ॥ ११ ॥
+
+### Printed p. 53
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महांतः । मह्ना । विभ्वः । विभूतयः । दूरेऽदृशः । ये । दिव्या इव । स्तुभिः ।  
+> मंद्राः । सुजिह्वाः । स्वरितारः । आसभिः । संमिश्लाः । इंद्रे । मरुतः । परिस्तुभः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो महांतो महात्म्योपेताः । केन । मह्ना महत्वेन
+> प्रभावातिशयेन । तथा विभ्यो विभवो व्याप्ताः तथा विभूतयो विविधैश्वर्यवंतः
+> दूरेदृशो दूरे दृश्यमानाः प्रकाशमानाः । दूरदर्शने दृष्टांतः । दिव्याः
+> स्त्वभिरिव । स्त्व इति नक्षत्रनाम ऋक्षाः स्त्वभिरिति नक्षत्राणां । नि. ३-२० । इति निरुक्तत्वात् । दिवि भवा देवाः स्त्वभिः स्वपुष्पकभूतैस्तेजःपुंजैन्रक्षत्रैर्यथा दूरे
+> दृश्यमाना भवंति तद्वत् । किंच मंद्रा मादनाः सुजिह्वाः शोभनजिह्वाः आसभिरास्यैः
+> स्वरितारः शब्दयितारः । प्रियवचना इत्यर्थः । आत एव सुजिह्वा इत्युक्तं । किंच इंद्रे
+> संमिश्लाः सम्यग्मिश्रयितारः । इंद्रसहायिन इत्यर्थः । मरुतो हैनं नाजहुरिति
+> श्रुतेः । तथा परिष्टुभः परिसोभयुक्ताः स्तुतिभिर्युक्ताः । एवं महाभागा ये
+> मरुतः संति तेऽस्मद्यज्ञमागच्छंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who are महांतः (*mahāṃtaḥ*), endowed with greatness, by मह्ना (*mahnā*), that is, by excess of majesty; likewise विभ्वः (*vibhvaḥ*), pervading, and विभूतयः (*vibhūtayaḥ*), possessed of manifold lordship; दूरेदृशः (*dūredṛśaḥ*), seen from afar, shining. For being seen from afar there is an illustration: like the heavenly ones by the स्तृभिः (*stṛbhiḥ*). स्तृ (*stṛ*) is a name of the stars, as the Nirukta says: ऋक्षाः स्त्वभिरिति नक्षत्राणां (*ṛkṣāḥ stvabhiriti nakṣatrāṇāṃ*) (Ni. 3-20). As the gods who dwell in heaven are seen from afar by their own flower-like masses of splendour, the stars, so are the Maruts. Further, मंद्राः (*maṃdrāḥ*) are the exhilarating; सुजिह्वाः (*sujihvāḥ*) those with beautiful tongues; स्वरितारः (*svaritāraḥ*) those who sound with their mouths (आसभिः (*āsabhiḥ*) = *āsyaiḥ*), that is, speakers of pleasant words; hence "beautiful-tongued" is said. Further, संमिश्लाः (*saṃmiślāḥ*) in Indra, that is, thoroughly united with him, Indra's helpers, according to the śruti मरुतो हैनं नाजहुरिति (*maruto hainaṃ nājahuriti*). Likewise परिष्टुभः (*pariṣṭubhaḥ*), adorned all round, endowed with praises. The words to be supplied: such greatly glorious Maruts as there are, may they come to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये मरुतः (*ye marutaḥ*)—which Maruts
+- मह्ना (*mahnā*)—by excess of majesty
+- महांतः (*mahāṃtaḥ*)—distinguished by greatness
+- विभ्वः (*vibhvaḥ*)—all-pervading (pervading)
+- विभूतयः (*vibhūtayaḥ*)—possessing manifold lordship
+- स्तृभिः (*stṛbhiḥ*)—by the stars (by their splendour)
+- दिव्याः इव (*divyāḥ iva*)—like the gods dwelling in the heavenly world (who become visible from afar)
+- दूरेदृशः (*dūredṛśaḥ*)—those who are visible from afar
+- मंद्राः (*maṃdrāḥ*)—intoxicating, exhilarating
+- आसभिः (*āsabhiḥ*)—with their mouths
+- स्वरितारः (*svaritāraḥ*)—those who sound (those of pleasant speech)
+- सुजिह्वाः (*sujihvāḥ*)—those with good tongues (therefore)
+- इंद्रे (*iṃdre*)—in Indra (together with Indra)
+- संमिश्लाः (*saṃmiślāḥ*)—those who mingle well (helpers of Indra)
+- परिष्टुभः (*pariṣṭubhaḥ*)—endowed with praise (such as they are, may they come to our sacrificial hall)
+
+##### भावार्थ (Bhāvārtha)
+
+These Maruts are endowed with (natural) greatness, all-pervading, possessed of manifold lordship. As the gods are seen from afar by the radiance of the stars, so they are seen from afar; they bring delight, make (pleasant) sounds with their mouths, are fair-tongued, helpers of Indra, and praised everywhere. Such ones come to our sacrificial hall.
+
+### Printed p. 54
+
+##### English translation (H. H. Wilson)
+Maruts, mighty with mighty power, all-pervading, manifest afar off, as the gods (are made manifest) by the constellations; exhilarating, soft-tongued, speaking gently with your mouths, associated with Indra, glorified by praise; (come to our sacrifice).
+
+##### विशेषविषयगळु (Special Topics)
+
+विभूतयः (*vibhūtayaḥ*)—विविधैश्वर्यवंतः । (*vividhaiśvaryavaṃtaḥ |*) Those possessing various kinds of wealth. In some contexts this word means power and capacity. Though the word is usually in the nominative case and denotes the agent, in many contexts it is used as an adjective.
+
+एवा हि ते विभूतय ऊतॆय इंद्र मावते । (*evā hi te vibhūtaya ūtèya iṃdra māvate |*) (Ṛ. Saṃ. 1-8-9)
+Here the sense is: O Indra, your powers and capacities bring protection to a sacrificer like me; thus it is used as a substantive.
+
+स्तोत्रं राधानां पते गिर्वाहो वीर यस्य ते । विभूतिरस्तु सूनृता ॥ (*stotraṃ rādhānāṃ pate girvāho vīra yasya te | vibhūtirastu sūnṛtā ‖*) (Ṛ. Saṃ. 1-30-5)
+Here the sense is: O Indra, may the praise we make of you be very powerful; the word विभूति (*vibhūti*) is an epithet of the word सूनृता (*sūnṛtā*).
+
+महामनूनं तवसं विभूतिं मत्सरासो जह्र्ऋषंत प्रसाहं । (*mahāmanūnaṃ tavasaṃ vibhūtiṃ matsarāso jahrṛṣaṃta prasāhaṃ |*) (Ṛ. Saṃ. 6-17-4)
+Here the sense is: the sweet Soma juices delighted Indra, who is great, perfect, mighty, capable and unconquered; the word विभूति (*vibhūti*) is used as an epithet of Indra.
+
+उग्रं न वीरं नमसोप सेदिम विभूतिमक्षिशावसुं । (*ugraṃ na vīraṃ namasopa sedima vibhūtimakṣiśāvasuṃ |*) (Ṛ. Saṃ. 8-49-6)
+प्र वीरमुग्रं विविचिं धनस्पृतं विभूतिं राधसो महः । (*pra vīramugraṃ viviciṃ dhanaspṛtaṃ vibhūtiṃ rādhaso mahaḥ |*) (Ṛ. Saṃ. 8-50-6)
+In these Ṛks too the word विभूति (*vibhūti*) is used as an adjective, meaning "powerful".
+
 ---
 
-**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
+**Progress note:** Done through printed p. 54. pp. 49-54 (batch API)
