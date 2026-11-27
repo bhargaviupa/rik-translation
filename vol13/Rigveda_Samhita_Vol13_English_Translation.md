@@ -10490,6 +10490,145 @@ In the present Ṛk it may be said that the word वृषन् (*vṛṣan*) i
 - क्षितीनाम् — क्षि निवासगत्योः इति धातुः । स्त्रियां क्तिन् इति क्तिन् प्रत्ययः । षष्ठीबहुवचने नामन्यतरस्याम् (पा सू. ६-१-१७७) इति उदात्तस्वरः नामि भवति ।
 - प्रवता — उपसर्गाच्छंदसि धात्वर्थे (पा. सू. ५-१-११८) इति प्र इत्यस्मात् वतिप्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । तृतीयैकवचनांतरूपम् ।
 
+### Printed p. 439
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं य॒ज्ञो दे॑व॒या अ॒यं मि॒येध॑ इ॒मा ब्रह्मा॑ण्य॒यमिं॑द्र॒  ॑
+> सोमः ।  
+> स्त्॒रीणं ब॒र्हिरा तु श॑क्र॒ प्र या॑हि॒ पिबा॑ नि॒षद्य॒ वि मु॑चा॒ हरी॑  ॒
+> इह ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । यज्ञः । देवयाः । अयं । मियेधः । इमा । ब्रह्माणि । अयं । इंद्र ।  
+> सोमः ।  
+> स्त्रीणं । बर्हिः । आ । तु । शक्र । प्र । याहि । पिब । निसद्य । वि । मुच । हरी इति ।  
+> इह ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहर्गणेषु मध्यॆष्टहःसु हारियोजनग्रहस्य याज्या । अग्निष्टोमोऽत्यग्निष्टोम इति खंडे सूत्रितं । अयं यज्ञो देवया आयं मियेध इतीतरेषु।
+> आ ६-११। इति ॥ हे इंद्र अयं यज्ञो देवया देवान्गच्छन्भवति। तथायं यज्ञो
+> मियेधः । मेधः पतुः । पशुर्नै मेध इति हि श्रुतिः । इमेमानि ब्रह्माणि मंत्राः ।
+> अयं सुतः सोमः । स्त्रीणं बर्हिः । आसनायास्त्रृता दर्भाः । एते पदार्थास्त्वदुचिता एवं संपादिताः । हे शक्रेंद्र तु पुनः किमित्युक्ते आ प्र याहि ।
+> प्रकर्षण शीघ्रमागच्छ । आगत्य च निषद्य बर्हिष्युपविश्य पिब सोमं। तदर्थमिहास्मिन्देवयजने हरी अश्वै वि मुच । वियोज्जय ॥ छांदसो नुमभावः ॥
+
+##### Gist of the bhāṣya
+
+Use: this is the yājyā of the Hāriyojana cup in the middle days of the Ahargaṇas. It is prescribed in the section beginning अग्निष्टोमोऽत्यग्निष्टोम (*agniṣṭomo 'tyagniṣṭoma*) (Ā. Sū. 6-11): अयं यज्ञो देवया (*ayaṃ yajño devayā*) in the Agniṣṭoma and Atyagniṣṭoma, and आयं मियेध (*āyaṃ miyedha*) in the others.
+Indra is addressed: this sacrifice goes to the gods (देवयाः (*devayāḥ*) = "going to the gods"). So too this sacrifice is मियेधः (*miyedhaḥ*): मेधः (*medhaḥ*) is the animal, for the Śruti says "the animal is indeed the medha". ब्रह्माणि (*brahmāṇi*) are these mantras. This is the pressed Soma. स्त्रीणं बर्हिः (*strīṇaṃ barhiḥ*) is the darbha grass strewn for a seat. All these things have thus been prepared as befits you. O शक्र (*śakra*), Indra, "but" (तु (*tu*)) means "what, then?": come (आ प्र याहि (*ā pra yāhi*)), come forward quickly. Having come, sit down on the grass and drink the Soma. For that, here, in this place of sacrifice, unyoke (वि मुच (*vi muca*)) your two horses. The non-occurrence of num is Vedic usage.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- अयं यज्ञः (*ayaṃ yajñaḥ*)—this sacrifice
+- देवयाः (*devayāḥ*)—goes toward the gods
+- अयं (*ayaṃ*)—this
+- मियेधः (*miyedhaḥ*)—the animal sacrifice (the animal fit for sacrifice)
+- इमा (*imā*)—these
+- ब्रह्माणि (*brahmāṇi*)—mantras
+- अयं (*ayaṃ*)—this
+- सोमः (*somaḥ*)—(pressed) Soma juice
+- बर्हिः (*barhiḥ*)—the darbha grass
+- स्त्रीणं (*strīṇaṃ*)—is spread (as a seat)
+- (हे) शक्र (*(he) śakra*)—O Indra
+- तु (*tu*)—again
+- आ प्र याहि (*ā pra yāhi*)—come quickly
+- निषद्य (*niṣadya*)—having sat down (on the grass)
+- पिब (*piba*)—drink (the Soma)
+- इह (*iha*)—here, in this sacrificial hall
+- हरी (*harī*)—your two horses
+- वि मुच (*vi muca*)—unyoke (from the chariot)
+
+### Printed p. 440
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this sacrifice directed to the gods, this animal fit for sacrifice, these mantras, this pressed Soma juice, these spread darbha grasses—all of these are ready for you. Therefore, O Indra, come quickly, unyoke the horses from the chariot, sit on the grass seat, and drink the Soma juice.
+
+##### English translation (H. H. Wilson)
+This is the sacrifice offered to the gods : this is the offering of the victim : these are the prayers : this Indra, is the Soma juice : the sacred grass is ready strewn : come therefore, •Indra, quickly, sit down, drink (the liba- tion). here let loose your steeds.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa states the use of this mantra as अहर्गणेषु मध्यॆष्टहःसु हारियोजनग्रहस्य याज्या (*ahargaṇeṣu madhyèṣṭahaḥsu hāriyojanagrahasya yājyā*). The word hāriyojana can be given the general sense of Indra yoking his horses (haris) to the chariot. In the present context Indra's drinking of Soma and his yoking of horses to the chariot are both involved, so "Hāriyojana cup" is understood to include all these aspects. In the Ṛksaṃhitā the word hāriyojana is used in only two places, but the mantras belonging to this cup are different. So two matters need examination here: what the commentator has made of the word where it occurs, and what is the special sense of the Ṛks belonging to the Hāriyojana cup.
+एवा ते हारियोजना सुवृक्तींद्र ब्रह्माणि गोतमासो अक्रन् । ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ (*evā te hāriyojanā suvṛktīṃdra brahmāṇi gotamāso akran | aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātarmakṣū dhiyāvasurjagamyāt ‖*) (Ṛ. Saṃ. 1-61-16). Here the word hāriyojana is an epithet of Indra. Sāyaṇa explains: हर्योरत्वयोर्योजनं यस्मिन्प्रथे स तथोक्तः । तस्य स्वामित्वेन संबंधी हारियोजनः इंद्रः (*haryoratvayoryojanaṃ yasminprathe sa tathoktaḥ | tasya svāmitvena saṃbaṃdhī hāriyojanaḥ iṃdraḥ*)—that is, the Indra to whose chariot the two horses called Hari are yoked.
+But in स घा तं वृषणं रथमधि तिष्ठाति गोविदं । यः पात्रं हारियोजनं पूर्णमिंद्र चिकेतति योजा न्विंद्र ते हरी ॥ ( (*sa ghā taṃ vṛṣaṇaṃ rathamadhi tiṣṭhāti govidaṃ | yaḥ pātraṃ hāriyojanaṃ pūrṇamiṃdra ciketati yojā nviṃdra te harī ‖ (*) (Ṛ. Saṃ. 1-82-4), हारियोजनमेत्संज्ञकं धाना मिश्रितं सोमेन पूर्णं पात्रं ज्ञापयति । (*hāriyojanametsaṃjñakaṃ dhānā miśritaṃ somena pūrṇaṃ pātraṃ jñāpayati |*) is said; it is explained as Soma juice mixed with the grain called hāri.
+
+### Printed p. 441
+In the Kauṣītaki Brāhmaṇa, in the section on the Hāriyojana cup, two Ṛks belonging to that cup are recited. The first of them is शिष्ठा सु कं मघवन्मा परा गाः सोमस्य नु त्वा सुषुतस्य य पितुर्न पुत्रः सिचमा रभे त इंद्र स्वादिष्टया गिरा शजीवः ॥ (*śiṣṭhā su kaṃ maghavanmā parā gāḥ somasya nu tvā suṣutasya ya piturna putraḥ sicamā rabhe ta iṃdra svādiṣṭayā girā śajīvaḥ ‖*) (Ṛ. Saṃ. 3-53-2); the second is the Ṛk 1-82-4 quoted above. These are stated to be the two mantras to be recited on these occasions. The Taittirīya Saṃhitā speaks of the hariyojana thus:
+हरिरसि हारियोजनो हर्योः स्थाता वज्रस्य भर्ता पृश्नेः प्रेता तस्य ते देव सोमेष्टयजुषः स्तुतस्तोमस्य शस्तोक्तस्य हरिवंतं ग्रहं ग्रह्णामि हरीः स्थ हर्योर्धानाः सह सोमा इंद्राय स्वाहा ॥ (*harirasi hāriyojano haryoḥ sthātā vajrasya bhartā pṛśneḥ pretā tasya te deva someṣṭayajuṣaḥ stutastomasya śastoktasya harivaṃtaṃ grahaṃ grahṇāmi harīḥ stha haryordhānāḥ saha somā iṃdrāya svāhā ‖*) (Kṛ. Saṃ. 1-4-28).
+Commenting on the word hāriyojana used here, Bhaṭṭabhāskara says: हरिरसीति । सोम एवोच्यते । हरिरिंद्रः । स एव त्वमसीतींद्रात्मना सोमः स्तूयते । यद्वा हरिर्हर्ता अभिमतानां श्रेयसामाहर्ता त्वमसि । हारियोजनः हरिः अश्वविशेषः योजनो वाहनं यस्य स हरियोजनः इंद्रः तस्य स्वभूतः हारियोजनः इंद्रोऽसीत्यर्थः । (*harirasīti | soma evocyate | haririṃdraḥ | sa eva tvamasītīṃdrātmanā somaḥ stūyate | yadvā harirhartā abhimatānāṃ śreyasāmāhartā tvamasi | hāriyojanaḥ hariḥ aśvaviśeṣaḥ yojano vāhanaṃ yasya sa hariyojanaḥ iṃdraḥ tasya svabhūtaḥ hāriyojanaḥ iṃdro 'sītyarthaḥ |*). He has explained the word as referring to Soma. Haris are Indra's horses. He who has those horses as his vehicle is called Hariyojana, that is, Indra; because it belongs to that Indra, the name Hāriyojana became established.
+The Śatapatha Brāhmaṇa explains the same point: अथ हारियोजनं गृहाति । छंदांसि वै हारियोजनश्चंदाग्स्यैवैतत्संतर्पयति तस्माद्धारियोजनं गृहाति ॥ (*atha hāriyojanaṃ gṛhāti | chaṃdāṃsi vai hāriyojanaścaṃdāgsyaivaitatsaṃtarpayati tasmāddhāriyojanaṃ gṛhāti ‖*) (Śa. Brā. 4-4-3-2). Thus it describes the Hāriyojana cup. The present context does not need that detailed account; so when the need to explain it arises later, the nature of this cup and its character as a ritual part will be given. In the present mantra, belonging to such a Hāriyojana cup, "this sacrifice, this मियेधः (*miyedhaḥ*)"—this sacrifice is offered, this animal is offered—is said with reference to Indra.
+
+### Printed p. 442
+यज्ञः (*yajñaḥ*)—Sacrifice, in the coarse sense, means a worship-rite. The author of the Nirukta explains the word in detail: यज्ञः कस्मात् प्रख्यातं यजति कर्मेति नैरुक्ताः । याज्यो भवतीति वा यजुरुन्नो भवतीति वा बहुकृष्णाजिन इत्यौपमन्यवो यजूंष्येनं नयंतीति वा ॥ (*yajñaḥ kasmāt prakhyātaṃ yajati karmeti nairuktāḥ | yājyo bhavatīti vā yajurunno bhavatīti vā bahukṛṣṇājina ityaupamanyavo yajūṃṣyenaṃ nayaṃtīti vā ‖*) (Ni. 3-19). It is the view of the Nirukta-writers that yajña is well known to mean a worship-rite. Different derivations are given: some say it is a rite performed in the presence of the gods; others, that it is so named because it is to be sprinkled with Yajus mantras; others, that it is so named because the number of black-antelope skins in this rite is large; still others, that it is so named because it proceeds by Yajus mantras.
+मियेधः (*miyedhaḥ*)—The word miyedha is used here as a synonym of paśu. Miyedha means "fit for medha", used in the sense "fit for sacrifice" or "worthy of praise". In some places it is also used as a synonym of yajña. For example: आ देवानामग्रयावेह यातु नराशंसो विश्वरूपेभिरश्वैः । ऋतस्य पथा नमसा मियेधो देवेभ्यो देवतमः सुसूदत् ॥ (*ā devānāmagrayāveha yātu narāśaṃso viśvarūpebhiraśvaiḥ | ṛtasya pathā namasā miyedho devebhyo devatamaḥ susūdat ‖*) (Ṛ. Saṃ. 10-70-2). Here मियेधः मेध्यः यज्ञहितः स्तुतियोग्यो वा (*miyedhaḥ medhyaḥ yajñahitaḥ stutiyogyo vā*)—fit for medha, fit for sacrifice and worthy of praise—is an epithet of Agni. And: अग्निं होतारं प्र वृणे मीयेधे गृत्सं कविं विश्वविदममूरं । स नो यक्षद्देवताता यजीयान्राये वाजाय वनते मघानि ॥ (*agniṃ hotāraṃ pra vṛṇe mīyedhe gṛtsaṃ kaviṃ viśvavidamamūraṃ | sa no yakṣaddevatātā yajīyānrāye vājāya vanate maghāni ‖*) (Ṛ. Saṃ. 3-19-1). Here मियेधे अस्माभिः क्रियमाणेऽस्मिन् यज्ञे (*miyedhe asmābhiḥ kriyamāṇe 'smin yajñe*)—in this sacrifice performed by us—is used as a synonym of yajña.
+In the present Ṛk the commentator says मेधः पशुः (*medhaḥ paśuḥ*), that miyedha is a synonym of the animal fit for sacrifice, and to support his meaning he cites the Śruti sentence पशुर्वै मेधः (*paśurvai medhaḥ*). Likewise the Śatapatha Brāhmaṇa has कशमो यज्ञ इति पशव इति (*kaśamo yajña iti paśava iti*) (Śa. Brā. 11-6-3-9).
+
+### Printed p. 443
+By this sentence the two words are shown to be identical: the sacrifice is the animal, or the animal is the sacrifice. On that basis, in the present Ṛk too the word can be taken as "animal": "this is your animal", offered to Indra.
+शक्र (*śakra*)—सर्वकार्यसमर्थेंद्र (*sarvakāryasamartheṃdra*): one capable in all undertakings; it indicates Indra's power. In the Ṛksaṃhitā this epithet is used of other deities too, but that is rare; it is the epithet that describes chiefly Indra's surpassing power.
+
+##### Grammar
+
+- देवयाः—या प्रापणे धातुः । क्विप् प्रत्ययः । प्रथमा एकवचनांतरूपं । कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- मियेधः—मेधः इति रूपे सति छांदसवागि वर्णविकारः आगतः ।
+- इमा—शेश्छंदसि बहुलम् (पा. सू. ६-१-२०) इति नपुंसक बहुवचने शिलोपः ।
+- स्तीर्णम्—स्त्रीञ् आच्छादने धातुः । कर्मणि क्त प्रत्ययः । ऋत इद्धातोः (पा. सू. ७-१-१००) इति धातोः इत्वं । रपरं भवति । हलि च इति दीर्घः । रदाभ्यां निष्ठातो नः (पा. सू. ८-२-४२) इति क्त प्रत्ययस्य नत्वं । रषाभ्यां नो णः इति णत्वं । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- पिब—पा पाने धातुः । लोट् मध्यमपुरुष एकवचनांतरूपं । पादादित्वात् निघातस्वरः न भवति । शप् पित्त्वात् धातुस्वरः अवशिष्यते । द्व्यचोतस्तिजः (पा. सू. ६-३-१३५) इति संहितायां दीर्घः भवति ।
+- निषद्य—षद्लृ विशरणगत्यवसादनेषु धातुः । क्त्वा प्रत्यये आगते समासे नञ्पूर्वे क्त्वो ल्यप् (पा. सू. ७-१-३७) इति तस्य ल्यबादेशः । इदं पित्त्वात् अनुदात्तं भवति । उपसर्गात् सुनोति (पा. सू. ८-३-३५) इति षत्वं । कृदुत्तरपद प्रकृतिस्वरः भवति । **NOTE**
+- मुच—मुच्लृ मोक्षणे धातुः । लोट् मध्यमपुरुष एकवचनांतरूपं । शे मुचादीनाम् (पा. सू. ७-१-५९) इति आगंतव्यः नुमागमः छांदसत्वात् न भवति । पूर्ववत् द्वचोतस्तिजः इति संहितायां दीर्घः भवति ।
+
+### Printed p. 444
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ सुष्टु॑त इंद्र याह्य॒र्वाजुप॒ ब्रह्मा॑णि मा॒न्यस्य॑ का॒रोः ।  
+> वि॒द्याम॒ वस्तो॒रव॑सा गृ॒णंतो॑ वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । सुस्तुतः । इंद्र । याहि । अर्वाज् । उप । ब्रह्माणि । मान्यस्य । कारोः ।  
+> विद्याम । वस्तोः । अवसा । गृणंतः । विद्याम । इषं । वृजनं । जीरदानुं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुष्टुतोऽस्माभिः सम्यक्सुतः सन्नर्वाजस्मदभिमुखमा याहि ।
+> आगच्छैव । मा विलंबय । किमुद्दिश्य । मान्यस्य माननीयस्य कारोः स्तोतुर्होतुः कर्तुर्यजमानस्य वा ब्रह्माणि मंत्रानुपोपलक्ष्य । गृणंतः
+> स्तुवंतोऽभिमतं शब्दयंतो वा वयमवसा त्वद्रक्षणेन रक्षिताः संतो वस्तोर्वस्तुं सुखेन संस्थातुमहनि वा सर्वेष्वहःस्वन्नादिकं विद्याम । लभेमहि ।
+> विद्यामेत्यादि व्याख्यातं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, well praised (सुष्टुतः (*suṣṭutaḥ*)) by us, that is, duly praised, come (याहि (*yāhi*)) toward us (अर्वाज् (*arvāj*)). Come at once; do not delay. With what aim? Having in view (उप (*upa*)) the mantras (ब्रह्माणि (*brahmāṇi*)) of the honoured (मान्यस्य (*mānyasya*)) कारोः (*kāroḥ*), that is, the praiser, the hotṛ, or the performer, the sacrificer. We, praising (गृणंतः (*gṛṇaṃtaḥ*)), or speaking out our wish, protected by your protection (अवसा (*avasā*)), would obtain (विद्याम (*vidyāma*) = लभेमहि (*labhemahi*)) food and the like, to dwell (वस्तोः (*vastoḥ*)) in comfort or on all days. विद्यामेत्यादि व्याख्यातं (*vidyāmetyādi vyākhyātaṃ*)—the rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- सुष्टुतः (*suṣṭutaḥ*)—well praised (by us)
+- मान्यस्य (*mānyasya*)—of the honoured
+- कारोः (*kāroḥ*)—of the praiser, the hotṛ, or of the sacrificer who performs the rite
+- ब्रह्माणि (*brahmāṇi*)—mantras
+- उप (*upa*)—having in view
+- अर्वाज् (*arvāj*)—facing (us)
+- ओ याहि (*o yāhi*)—surely come
+- गृणंतः (*gṛṇaṃtaḥ*)—we, who praise or who tell you our wish
+- अवसा (*avasā*)—by your protection (protected)
+- वस्तोः (*vastoḥ*)—to dwell (in comfort), or on all days, food and the like
+- विद्याम (*vidyāma*)—may we obtain
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (by your grace)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, well praised by us, come toward the praise-mantras of the sacrificer. To us, protected by you, grant food, strength and long life, that we may dwell in comfort.
+
 ---
 
-**Progress note:** Done through printed p. 438. pp. 433-438 (batch API)
+**Progress note:** Done through printed p. 444. pp. 439-444 (batch API)
