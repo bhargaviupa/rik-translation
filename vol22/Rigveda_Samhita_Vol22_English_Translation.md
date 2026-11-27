@@ -11829,6 +11829,146 @@ May the outspread, vast, and golden arms of Savitri extend to the ends of the sk
 
 > स घा॑ नो दे॒वः स॑वि॒ता स॒हावा सा॑विष॒द्वसु॑पति॒र्वसू॑नि ।
 
+### Printed p. 265
+
+> विश्रयमाणो अमतिमुरूचीं मर्तभोजनमध रासते नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । घ । नः । देवः । सविता । सहऽवा । आ । साविषत् । वसुपतिः । वसूनि ।  
+> विश्रयमाणः । अमतिं । उरूचीं । मर्तभोजनं । अध । रासते । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सावित्रे पशौ पुरोडाशस्य हविषोः स घा न इति द्वे अनुवाक्ये । सूत्रे पूर्वमुदाहृतं ॥ आश्वमेधिकेषु सावित्रेष्विषु तृतीयस्यामिष्टाविमे एव याज्यानुवाक्ये । सूत्रितं च । स घा नो देव सविता सहावेति द्वे । आ. १०-६ । इति ॥
+> सहावा । तेजोऽंतराण्यभिभावुकं तेजो यस्य सः । वसुपतिर्धनानां पालकः स सविता देवो नोऽस्मभ्यं वसूनि धनान्या साविषत् । आ समंतात्प्रेरयति । घेति पूरणः । स सविता देव उरूचीं विस्तीर्णगमनाममतिं रूपं । दीप्तिमित्यर्थः । विश्रयमाणो निषेवमाणः सन्नधुना नोऽस्मभ्यं मर्तभोजनं मनुष्याणां भोगयोग्यं धनं रासते । ददातु ॥
+
+##### Gist of the bhāṣya
+
+In the Savitṛ animal sacrifice (the Sāvitra paśu), in the offering of the cake (puroḍāśa) and the oblation, the two verses beginning स घा न (*sa ghā na*) are the two anuvākyā verses; the sūtra was quoted earlier. In the Sāvitra offerings (iṣṭi) of the Aśvamedha, in the third iṣṭi, these same two verses are the yājyā and anuvākyā. It is also laid down in a sūtra: स घा नो देव सविता सहावेति द्वे (*sa ghā no deva savitā sahāveti dve*) (Ā. 10-6).
+
+सहावा (*sahāvā*): he whose energy overpowers other energies. The lord of treasures (वसुपतिः (*vasupatiḥ*)), that god Savitṛ, bestows (आ साविषत् (*ā sāviṣat*), "impels towards") treasures on us; घ (*gha*) is a filler particle. That same Savitṛ, resorting to (विश्रयमाणः (*viśrayamāṇaḥ*), "attending upon") the form (अमतिं (*amatiṃ*)), that is, the radiance, that is wide-reaching (उरूचीं (*urūcīṃ*)), now gives us wealth fit for the enjoyment of men (मर्तभोजनं (*martabhojanaṃ*)); may he give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहावा (*sahāvā*)—he whose radiance pervades everything
+- वसुपतिः (*vasupatiḥ*)—the guardian of wealth
+- सः (*saḥ*)—the well-known
+- सविता देवः (*savitā devaḥ*)—the god Savitṛ
+- नः (*naḥ*)—to us
+- वसूनि (*vasūni*)—treasures
+- आ साविषत् (*ā sāviṣat*)—may he provide
+- उरूचीं (*urūcīṃ*)—widely spread
+- अमतिं (*amatiṃ*)—the form
+- विश्रयमाणः (*viśrayamāṇaḥ*)—resorting to
+- अध (*adha*)—now
+- नः (*naḥ*)—to us
+- मर्तभोजनं (*martabhojanaṃ*)—wealth fit for the enjoyment of mortals
+- रासते (*rāsate*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+May the well-known god Savitṛ, whose radiance pervades everything and who is the guardian of wealth, provide us with treasures. Resorting to the widely spread form, may he now give us wealth fit for the enjoyment of mortals.
+
+##### English translation
+May the divine Savitri, who is endowed with energy, the lord of treasure, bestow treasures, upon us concentrating infinite lustre : may he bestow upon us wealth, the source of the enjoyment of mortals.
+
+##### विशेषविषयगळु (Special Topics)
+
+The sūtra which says that in the Savitṛ animal sacrifice, in the offering of the cake and of the oblation, this Ṛk beginning स घा नः (*sa ghā naḥ*) and the Ṛk after it (the 3rd Ṛk) are to be recited as anuvākyā mantras has been quoted earlier.
+
+### Printed p. 266
+It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स घा नो देवः सविता सहावेति द्वे (*sa ghā no devaḥ savitā sahāveti dve*) (Ā. 10-6), that in the third iṣṭi of the Sāvitra iṣṭis performed in the Aśvamedha sacrifice these two Ṛks are to be recited as yājyā and anuvākyā mantras.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा गिरः॑ सवि॒तारं॑ सुजि॒ह्वं पू॒र्णग॑भस्तिमीळते सुपा॒णिं ।  
+> चि॒त्रं वयो॑ बृ॒हद॒स्मे द॑धातु यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । गिरः । सवितारं । सुजिह्वं । पूर्णगभस्तिं । ईळते । सुपाणिं ।  
+> चित्रं । वयः । बृहत् । अस्मे इति । दधातु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा ईदृग्भूता गिरः । गृणंति स्तुवंतीति गिरः स्तोत्र्यः प्रजाः । यद्वा ।
+> इमाः स्तुतिरूपा वाचः । सुजिह्वं शोभनजिह्वं । शोभनवाचमित्यर्थः । पूर्णगभस्तिं संपूर्णधनहस्तं सवितारं देवमीळते । स्तुवंति । स च सविता चित्रं चायनीयं बृहन्महद्वयोऽन्नमस्मे अस्मासु दधातु । यद्वा । अस्मे अस्मभ्यं प्रयच्छतु ।
+> हे सवितृप्रमुखा देवाः यूयं नोऽस्मान् स्वस्तिभिः कल्याणैः सदा सर्वदा पात ।
+> पालयत ॥
+
+##### Gist of the bhāṣya
+
+इमाः गिरः (*imāḥ giraḥ*): these praises of such a kind. Those who praise are गिरः (*giraḥ*), that is, the praising people; or else इमाः (*imāḥ*) means these words in the form of praise. They praise the god Savitṛ, who is सुजिह्वं (*sujihvaṃ*) ("fair-tongued", that is, of fair speech) and पूर्णगभस्तिं (*pūrṇagabhastiṃ*) (whose hand is full of wealth). May that Savitṛ place in us (अस्मे (*asme*)) wonderful (चित्रं (*citraṃ*), "to be sought after"), abundant food (वयः (*vayaḥ*)); or else अस्मे (*asme*) means "to us", may he give. O gods, with Savitṛ foremost, you protect us always with blessings (स्वस्तिभिः (*svastibhiḥ*), "with auspicious things").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमाः गिरः (*imāḥ giraḥ*)—these praises of ours
+- पूर्णगभस्तिं (*pūrṇagabhastiṃ*)—him whose hand is filled with complete wealth
+- सुजिह्वं (*sujihvaṃ*)—him who has excellent speech
+- सुपाणिं (*supāṇiṃ*)—him who has an excellent hand
+- सवितारं (*savitāraṃ*)—Savitṛ, the impeller of all
+- ईळते (*īḷate*)—praise
+- चित्रं (*citraṃ*)—attractive
+- बृहत् (*bṛhat*)—great
+- वयः (*vayaḥ*)—food
+- अस्मे (*asme*)—to us
+- दधातु (*dadhātu*)—may (this Savitṛ) provide
+- यूयं (*yūyaṃ*)—you (O gods)
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+These praises of ours praise Savitṛ, whose hand is filled with complete wealth, who has excellent speech, and who is the impeller of all. May this Savitṛ provide us with attractive and great food. O gods, protect us always with blessings.
+
+### Printed p. 267
+
+##### English translation
+These praises glorify the eloquent-tongued, dextrous-handed, whose hands are full (of wealth) : may he bestow upon us manifold and abundant food : and do you, (gods), ever cherish us with blessings.
+
+## Sūkta 46 (Maṇḍala 7)
+**Introduction**
+This sūkta has Rudra as its deity. In the Ṛgveda the place of Rudra is not very prominent**NOTE**; only in the Yajurveda does Rudra have a prominent place. In the Ṛgveda three sūktas, part of one sūkta, and one sūkta in which he is with the deity Soma, only so much praises this deity. The name of Rudra is recited only seventy-five times.
+
+The description of his limbs is as follows. He has a hand (2-33-2), arms (2-33-5; Vā. Saṃ. 16-1) and firm limbs (2-33-11). His lips are beautiful. His body is brown (2-33-5). His form is so radiant that it dazzles the eyes (1-114-5), and he has many forms (2-33-9). He shines like the blazing sun and like gold (1-43-5). He wears golden ornaments (2-33-9) and a necklace of many colours that decays**NOTE** (2-33-10); he sits on the seat of a chariot (2-33-4). In the other Saṃhitās, such as the Vājasaneya, many more characteristics are stated. He is thousand-eyed (A. Ve. 11-2-2 and Vā. Saṃ. 16-7)**NOTE**. He has a belly, a mouth, a tongue and teeth (A. Ve. 11-2-6). His belly is black and his back red (A. Ve. 11-2, 7). His neck is blue (Vā. Saṃ. 16-7) and his hair also blue (A. Ve. 2-27-6). His colour is copper, red (Vā. Saṃ. 16-7). He wears a skin (Vā. Saṃ. 3-61; 16-51) and dwells on a mountain (Vā. Saṃ. 16-2, 3, 4).
+
+He has many weapons capable of attack. He holds the thunderbolt (2-33-3). His arrow passes from the sky especially over the earth (7-46-3). He commonly bears bow and arrows (2-33-10, 11; 5-42-11; 10-125-6). Those arrows are strong and swift (7-46-1). He is slender and is praised together with other bowmen (10-64-8). In the Atharvaveda also he is designated simply as a bowman (A. Ve. 1-28-1; 6-93-1; 15-5-1 to 7). In the Atharvaveda and other parts of the Veda his bow, arrow, weapon, thunderbolt and club are mentioned again and again (A. Ve. 1-28-5; Śa. Brā. 9-1-1-6, etc.).
+
+### Printed p. 268
+A point that recurs concerning Rudra is his relation with the Maruts. Rudra is the father of the Maruts (1-114-6, 9; 2-33-1), or the Maruts are said to be sons of Rudra, and they are also called Rudras and Rudriyas. Rudra created the Maruts from the shining udder of the cow Pṛśni (2-34-2). But Rudra and the Maruts nowhere join together as Indra and the Maruts do, who take part in battles and the like in friendship; for Rudra is not always engaged in sacrifice or in slaying demons. The name Tryambaka, often connected with Rudra in the Purāṇas and elsewhere, is also found in the Vedas (Vā. Saṃ. 3-58; Śa. Brā. 2-6-2-9). In the Ṛgveda too, in one place only (7-59-12), he has this name. This word means "having three mothers"; the three mothers here may be the three worlds or the three parts of the universe. In the Purāṇas and elsewhere Ambikā is the wife of Rudra; but in the Vedas she is his sister (Vā. Saṃ. 3-5). The use of the names Umā and Pārvatī, names of Rudra's wife, occurs in the Taittirīya Āraṇyaka and the Kena Upaniṣad.
+
+Rudra is one among the many deities said to be equal to Agni (2-1-6). In other places too he and Agni are one (A. Ve. 8-87-1; Tai. Saṃ. 5-4-3-1; 5-5-7-4; Śa. Brā. 6-1-3-10; 9-1-1-1). The word रुद्र (*rudra*) is often used as an epithet; many times this word is used as an epithet of Agni and of the Aśvin deities. Rudra has two names, Śarva and Bhava (Vā. Saṃ. 16-18). These two names and his destructive arrows are mentioned also in the Atharvaveda (A. Ve. 2-27-6; 6-93-1; 10-1-23; 11-2-1, 12). But here there seems to be the idea that Śarva, Bhava and Rudra are different deities. Śarva and Bhava are sons of Rudra and very fond of hunting (Sāṃ. Śrau. Sū. 4-20-1)**NOTE**. Agni, Aśani, Paśupati, Bhava, Śarva, Īśāna, Mahādeva and Ugradeva are all various forms of one deity (Vā. Saṃ. 39-8). Rudra, Śarva, Paśupati, Ugra, Aśani, Bhava, Īśāna and Mahādeva are the eight forms of Agni (Śa. Brā. 6-1-3-7; Sāṃkhyāyana Brāhmaṇa 6-1)**NOTE**; Śarva, Bhava, Paśupati and Rudra are all names of Agni (Śa. Brā. 1-7-3-8). Of the names above, Aśani is the name of lightning or of the son of Agni (Śa. Brā. 6-1-3-10), but in the Sāṃkhyāyana Brāhmaṇa it is said to be a name of Indra. Cows driven out of the house are most exposed to Rudra's blows; therefore they came under his protection. For this reason Rudra got the name Paśupati.
+
+Rudra is of terrible form (2-33-9, 11; 10-126-5) and destructive like a fierce beast (2-33-11). He is the red-tinged boar of the sky (1-114-5), a bull (2-33-7, 8, 15), of noble nature (7-10-4), mighty (1-43-13; 1-114-1), the strongest of the strong (2-33-3), unassailed (7-46-1); none surpasses him in prowess (2-33-10); he is swift (10-92-5), quick-witted (1-114-4), young (2-33-5), and he does not grow old (6-49-10),
+
+### Printed p. 269
+a lord-asura**NOTE** (5-42-11), the great asura of the heavenly world (2-1-6), self-renowned (1-129-3; 10-92-9); he rules over heroes (1-114-1, 2). He is the lord of this world (2-33-9) and its father (6-49-10); he lays down the laws (7-46-1) and by his decrees and his sovereignty over the world he knows all the deeds of gods and men (7-46-2); by his command the rivers flow and moisten the whole earth (10-92-5); he is intelligent (1-43-1), wise (1-114-4) and generous (2-33-7; 6-49-10); therefore he is often called by the name Mīḷhva (generous) (1-114-3), and in the other Vedas the use of the word Mīḷhva applies only to Rudra. He is easily praised (2-33-6) and auspicious (Śiva, 10-92-9).
+
+Doing harm seems to be his special nature. In all the sūktas that praise him, qualities such as fear of his arrow and the evil consequences of his anger are spoken of. In praising him he is entreated not to kill in anger, nor to injure, parents, children, followers, cattle, horses and the like (1-114-7, 8). The worshippers pray that he should turn aside**NOTE** their horses (2-33-1); that he should turn his arrows elsewhere and make others the object of them (2-33-11, 14); that when angry he should turn his weapon away**NOTE** and not trouble those who praise him (6-28-7; 6-46-1, 14). They pray that his weapon, which slays cows, children and men, be kept far from them (2-33-1). The worshippers have entreated that he should not show anger (2-33-4, 5, 6, 15) and should be gracious in the matter of food (10-169-1). There is the epithet "slayer of men" (nṛghna) (4-3-6); the idea is that those men are the enemies of the praisers. He desires to slay men (Ā. Gṛ. 4-8-32)**NOTE**. The matter of his anger is stated still more fully in the other Vedas. Again and again the praisers have entreated him in this matter (Vā. Saṃ. 3-61; A. Ve. 1-28-5, etc.). They beg that the heavenly fire (lightning) should not be hurled at them and that the thunderbolt should be made to fall in another place (A. Ve. 11-2-26; 10-1-23); he also injures men through fever, cough and poison (A. Ve. 11-2-22, 26). He has near him ever-barking dogs with wide mouths, which swallow without chewing the beasts killed in the hunt (A. Ve. 11-2-30; Vā. Saṃ. 16-28). The gods too are greatly afraid, on seeing his strung bow and arrows, that he may destroy them (Śa. Brā. 9-1-1-1, 6). Under the name Mahādeva he slays cows (Tāṇḍya Mahā Brāhmaṇa 6-9-7)**NOTE**. He was created from all terrible things (Ai. Brā. 3-33-1). It is said in the Brāhmaṇas and Sūtra works that it is by his terrible qualities that he stays apart from the other gods. When all the gods went to heaven Rudra stayed behind (Tai. Brā. 1-7-3-1). In Vedic rites, generally after oblations have been offered to the other deities, the remainder is offered to Rudra
+
+### Printed p. 270
+(Āśva. Dharma Sū. 2-4-23)**NOTE**. The dwelling of the other deities is in the east, but Rudra dwells in the north (Tai. Saṃ. 6-1-1-1). Because of his fierce nature he does not join particularly with the other deities, and as a paired deity he is praised with Soma in only one sūkta (6-74).
+
+Apart from these, many terrible and harmful qualities of Rudra stated in the Purāṇas and other works are supported in Vedic works such as the Vājasaneya Saṃhitā. But Rudra is not wholly a doer of harm, like the piśācas and others. He is entreated to remove the trouble that may come from other deities (1-114-1, 2; 2-33-6), and he brings welfare to men and animals (1-43-6). It is repeatedly stated that he has the power of curing diseases. He bestows medicines on men (6-46-3). In his hand are excellent medicines (1-114-5); all medicines are under his control (5-42-11), and he has thousands of medicines (7-46-3). His hand itself has the power of curing diseases (2-33-7); by his treatment he makes heroes grow. He is the best of physicians (2-33-4), and with the help of his medicines the worshipper becomes fit to live a hundred years (2-33-2). He is entreated to be auspicious to the offspring of those who worship (7-46-2), that all the villagers be healthy and free from disease, and that he be favourable to cattle and to men (1-114-1). In this connection he has two epithets, Jalāṣa and Jalāṣabheṣaja (1-43-4; A. Ve. 2-27-6). The medicines here may be rain-water. Rudra's lightning and his healing powers are spoken of together (7-46-3). This Rudra of physician's nature is entreated to be gracious along with the other Rudras (7-46-1). Together with Rudra, healing powers are stated also for his sons the Maruts (2-33-13). This description of Rudra's power is stated in the other Vedas too (Vā. Saṃ. 3-59; A. Ve. 2-27-6). But his healing power is not mentioned as often as his destructive power. Many sacrifices to be performed addressed to Rudra for the cure of disease and its removal are stated (Ā. Gṛ. 4-8-40; Kau. Sū. 51-7).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा रुद्रायेति चतुर्ऋचं त्रयोदशं सूक्तं वसिष्ठस्यार्षं रुद्रदेवताकं । अंत्या त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रमणिका । इमा रौद्रं त्रिष्टुबंतमिति ॥ शूलगवादिषु रौद्रयज्ञेष्टकेन सूक्तेनोदीची दिगुपस्थेया । सूत्र्यते हि ।
+> इमा रुद्राय स्थिरधन्वन इति सर्वरुद्रयज्ञेषु दिशामुपस्थानं । आ. गृ. ४-९-२१
+> इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इमा रुद्राय (*imā rudrāya*), of four Ṛks, is the thirteenth sūkta. It is the vision of Vasiṣṭha, with Rudra as its deity; the last verse is in triṣṭubh and the rest in jagatī. The Anukramaṇikā says accordingly: इमा रौद्रं त्रिष्टुबंतमिति (*imā raudraṃ triṣṭubaṃtamiti*). In rites such as the Śūlagava, with the Raudra yajñeṣṭaka, the northern direction is to be worshipped with this sūkta. For it is laid down in the sūtra: इमा रुद्राय स्थिरधन्वन इति सर्वरुद्रयज्ञेषु दिशामुपस्थानं (*imā rudrāya sthiradhanvana iti sarvarudrayajñeṣu diśāmupasthānaṃ*) (Ā. Gṛ. 4-9-21)**NOTE**.
+
+Anuvāda: This sūkta इमा रुद्राय (*imā rudrāya*) is the thirteenth sūkta in the third anuvāka. It has four Ṛks. Vasiṣṭha is the seer of this sūkta; Rudra is the deity;
+
 ---
 
-**Progress note:** Done through printed p. 264. pp. 259-264 (batch API)
+**Progress note:** Done through printed p. 270. pp. 265-270 (batch API)
