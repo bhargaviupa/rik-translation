@@ -4,7 +4,7 @@
   python3 tools/rv/sp_apply.py VOL EDITS.tsv [--dry]
 
 EDITS.tsv (tab separated, header line): page, target (en|kn), old, new, kind, basis
-  en: `old` must stand exactly ONCE inside the page's `### Page N` section of volN/Rigveda_Samhita_VolN_English_Translation.md; it is replaced by `new`.
+  en: `old` must stand exactly ONCE inside the page's `### Page N` or `### Printed p. N` section of volN/Rigveda_Samhita_VolN_English_Translation.md; it is replaced by `new`.
       A line of volN/review/repair_log.md is written.
   kn: `old` must stand exactly once inside the page's `<!-- printed N -->` section of the Kannada book; it is replaced.  The same text is replaced in the
       supplied file volN/html/*.md when it stands exactly once in the files (else only the book changes and the result says so).
@@ -29,7 +29,7 @@ def main():
         out=[]; nxt=re.compile(pat.replace('%s','[^\\s—:>]+'))
         for m in re.finditer(pat%re.escape(str(page)),t):
             n=nxt.search(t,m.end()); out.append((m.start(),n.start() if n else len(t)))
-        if pat.startswith('(?m)^### Page') and str(page).isdigit():      # a combined heading 'Pages 46–47' / 'Page 15–16' carries every page of its range
+        if pat.startswith('(?m)^### (?:Page') and str(page).isdigit():      # a combined heading 'Pages 46–47' / 'Page 15–16' carries every page of its range
             for m in re.finditer(r'(?m)^### Pages? (\d+)\s*[–-]\s*(\d+)\b',t):
                 if int(m.group(1))<=int(page)<=int(m.group(2)) and int(m.group(1))!=int(page):
                     n=nxt.search(t,m.end()); out.append((m.start(),n.start() if n else len(t)))
@@ -42,7 +42,7 @@ def main():
         elif tg=='en':
             hits=[]
             for ep,T in ENS.items():
-                for s0,e0 in sections(T,r'(?m)^### Page %s\b',pg):
+                for s0,e0 in sections(T,r'(?m)^### (?:Page|Printed p\.) %s\b',pg):
                     c=T[s0:e0].count(old)
                     if c: hits.append((ep,s0,e0,c))
             if not hits: st='not_found'
@@ -62,7 +62,7 @@ def main():
                 fixes.append((f'p. {pg}',old,new,r['kind']+' second pass; '+note,r['basis'],'second-pass reader (Sonnet), rule: supplied text, intended reading certain'))
         else: st='bad_target'
         res.append((pg,tg,st,old[:60]))
-    out=ed.replace('.tsv','.result.tsv')
+    out=ed.replace('.tsv','.dry.result.tsv' if dry else '.result.tsv')      # a dry run never overwrites the record of a real apply
     with open(out,'w',encoding='utf8') as f:
         f.write('page\ttarget\tstatus\told\n'); [f.write('\t'.join(x)+'\n') for x in res]
     n=sum(1 for x in res if x[2]=='applied'); print(f'{len(rows)} edits: applied {n}; '+', '.join(f'{k} {sum(1 for x in res if x[2]==k)}' for k in ('not_found','ambiguous','same','bad_target','sanskrit_not_in_kannada') if any(x[2]==k for x in res)))

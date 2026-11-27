@@ -72,6 +72,7 @@ def main():
                 cands = [c for c in extra if len(c) == len(e) and one_digit(e, c)]
                 if len(cands) == 1: todo.append((k, 'plain', e, cands[0]))
                 else: rows.append((k, 'plain', e, ','.join(cands), 'manual: ' + ('no one-digit candidate' if not cands else 'ambiguous')))
+    os.makedirs(f'{d}/review/recheck', exist_ok=True)
     out = f'{d}/review/recheck/numbers_candidates.tsv'
     with open(out, 'w', encoding='utf8') as f:
         f.write('page\tkind\tenglish\tsupplied\tstatus\n')
