@@ -9104,6 +9104,154 @@ It may be said that the word कवि (*kavi*) is useful for conveying the same
 
 समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः । ऋतस्य पदं कवयो नि पांति गुहा नामानि दधिरे पराणि । (*samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ | ṛtasya padaṃ kavayo ni pāṃti guhā nāmāni dadhire parāṇi |*)
 
+### Printed p. 379
+बृहस्पते प्रथमं वाचो अग्रं यत्प्रैरत नामधेयं दधानाः । यदेषां श्रेष्ठं यदरिप्रमासीत्प्रेणा तदेषां निहितं गुहाविः ॥ (*bṛhaspate prathamaṃ vāco agraṃ yatprairata nāmadheyaṃ dadhānāḥ | yadeṣāṃ śreṣṭhaṃ yadaripramāsītpreṇā tadeṣāṃ nihitaṃ guhāviḥ ‖*) (Ṛ. Saṃ. 10-71-1). In this and similar Ṛks this idea is expressed. The poets (kavis) enter the path of Ṛta and bear the names of the highest secret in the most hidden heart. It is described that they then make these names manifest and let the world know them. Seeing of this kind (the poet's vision) is possible only through a means whose form is the act of making manifest:
+
+यज्ञेन वाचः पदवीयमायन् तामन्वविंदन्नृषिसु प्रविष्टां । तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवंते ॥ (*yajñena vācaḥ padavīyamāyan tāmanvaviṃdannṛṣisu praviṣṭāṃ | tāmābhṛtyā vyadadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navaṃte ‖*) (Ṛ. Saṃ. 10-71-3).
+
+The poets obtained, by the means whose form is sacrifice, the Word that lay dormant in the seers, who see things beyond the senses. Afterwards, for the benefit of the people of the world, they gave instruction to them also. The metres such as Gāyatrī serve this Word, whose form is the principle of the universe. Thus in some places identity (tādātmya) is stated between creation, which is the manifestation of the Word, and the rite, whose form is sacrifice; in other places a relation of effect and cause. The same idea is stated in the Śatapatha and other Brāhmaṇas in this way:
+
+अयुरेतज्योतिः प्रविशति य एतमनु ना ब्रूते भक्षयति वा तस्य व्रतचर्या यो सृष्टौ ॥ (*ayuretajyotiḥ praviśati ya etamanu nā brūte bhakṣayati vā tasya vratacaryā yo sṛṣṭau ‖*) (Śa. Brā. 14-1-2-26).
+
+Here identity is stated between the rite performed with recitation of mantras and new creation. In the Ṛk at hand, the word is an epithet declaring the unique quality of Indra, who is endowed with knowledge of matters beyond the senses and is all-knowing. Since this epithet is used in many places, it must be understood according to each context.
+
+ईशानः सूर्यं चक्रं ओजसा मुषाय (*īśānaḥ sūryaṃ cakraṃ ojasā muṣāya*)—सवर्थः सन् सूर्यस्य एकं चक्रं सामथ्यातिशयेन अमुष्णाः (*savarthaḥ san sūryasya ekaṃ cakraṃ sāmathyātiśayena amuṣṇāḥ*). Indra, by his power, stole one of the two wheels of Sūrya's chariot. Having so explained, and describing that this meaning is well known in the Itihāsa as पूर्वं सूर्यरथस्य चक्रद्वय—मस्ति एकमिंद्रो मुमुष इतीतिहासः (*pūrvaṃ sūryarathasya cakradvaya—masti ekamiṃdro mumuṣa itītihāsaḥ*), he quotes the Ṛk
+
+प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यद्वरिवो यातवेऽकः (*prānyaccakramavṛhaḥ sūryasya kutsāyānyadvarivo yātave 'kaḥ*) (Ṛ. Saṃ. 5-29-10).
+
+शुष्णाय (*śuṣṇāya*)—एतन्नामकाय असुराय शुष्णं हंतुं (*etannāmakāya asurāya śuṣṇaṃ haṃtuṃ*): in order to destroy the asura famed by the name Śuṣṇa; वातस्य अश्वैः (*vātasya aśvaiḥ*): endowed with the speed of the wind, or with horses,
+### Printed p. 380
+Indra bears the cutting thunderbolt (कुत्सं वधं वहः (*kutsaṃ vadhaṃ vahaḥ*)). Or, having slain him, अथवा तं च हत्वा तदुपलक्षितैस्तदीयधनैः कुत्सं महर्षिमगमः (*athavā taṃ ca hatvā tadupalakṣitaistadīyadhanaiḥ kutsaṃ maharṣimagamaḥ*). In the first way the word Kutsa is used as an epithet of the thunderbolt, with the meaning "instrument of cutting". In the second sense it is explained that Indra gave Kutsa, a great seer, all the wealth of the asura Śuṣṇa after killing Śuṣṇa. And further—
+
+त्वं कुत्सं शुष्णहत्येष्वाविधारंधयोऽतिथिग्वाय शंबरं । महांतं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ॥ (*tvaṃ kutsaṃ śuṣṇahatyeṣvāvidhāraṃdhayo 'tithigvāya śaṃbaraṃ | mahāṃtaṃ cidarbudaṃ ni kramīḥ padā sanādeva dasyuhatyāya jajñiṣe ‖*) (Ṛ. Saṃ. 1-51-6)
+
+कुत्साय शुष्णमशुषं नि बर्हिः प्रपित्वे अह्नः कुयवं सहसा (*kutsāya śuṣṇamaśuṣaṃ ni barhiḥ prapitve ahnaḥ kuyavaṃ sahasā*) (Ṛ. Saṃ. 4-16-12)
+
+Sāyaṇa cites these Ṛks as stating this meaning, and explains that the same idea is stated in other mantras too. The word śuṣka is stated by Yāska among the names of strength (Ni. 3-9). And further—
+
+नियद्वृणक्षि श्वसनस्य मूर्धनि कुष्णस्य चित् व्रन्दिनो रोरुवद्वना । प्राचीनेन मनसा बर्हणावता यदद्या चित्कृणवः कस्त्वा परि ॥ (*niyadvṛṇakṣi śvasanasya mūrdhani kuṣṇasya cit vrandino roruvadvanā | prācīnena manasā barhaṇāvatā yadadyā citkṛṇavaḥ kastvā pari ‖*) (Ṛ. Saṃ. 1-54--5)
+
+In this Ṛk the meaning is explained as शुष्णस्य शोषयितुरादित्यस्य (*śuṣṇasya śoṣayiturādityasya*).
+
+न्याविध्यदिलीबिशस्य दृह्ला वि शृङ्गणमभिनच्छुष्णमिन्द्रः । यावत्तरो मघवन् यावदोजो वज्रेण शत्रुमवधीः पृतन्युं ॥ (*nyāvidhyadilībiśasya dṛhlā vi śṛṅgaṇamabhinacchuṣṇamindraḥ | yāvattaro maghavan yāvadojo vajreṇa śatrumavadhīḥ pṛtanyuṃ ‖*) (Ṛ. Saṃ. 1-33-12)
+
+Here the word śuṣka is used in the sense शुष्णं बलवंतं मेघं (*śuṣṇaṃ balavaṃtaṃ meghaṃ*).
+
+कुत्सं (*kutsaṃ*)—Sāyaṇa's explanation shows that two kinds of meaning can be given to the word Kutsa here. First, कुत्सं-कर्तन साधनं (*kutsaṃ-kartana sādhanaṃ*), "the instrument of cutting", as an epithet of the thunderbolt; second, कुत्सं कुत्सनामानं ऋषिं (*kutsaṃ kutsanāmānaṃ ṛṣiṃ*), the seer named Kutsa. If it is taken as the seer, Indra is praised as having helped Kutsa by killing the asura Śuṣṇa.
+
+From the descriptions in the Ṛksaṃhitā it is known that the relation between Kutsa and Indra is very close. The epithet Ārjuneya occurs for Kutsa in many places. The word Ārjuneya can mean "son of a woman named Arjunī"; or else अर्जुन इतींद्रस्य नाम । तस्य पुत्रः (*arjuna itīṃdrasya nāma | tasya putraḥ*): Arjuna is a name of Indra, and since Kutsa is his son the epithet Ārjuneya is natural—this is another way of explaining it. To support that Indra has the name Arjuna, Sāyaṇa in some places
+### Printed p. 381
+quotes the Vājasaneyi Saṃhitā mantra एतद्वा इंद्रस्य गुह्यं नाम यदर्जुनः (*etadvā iṃdrasya guhyaṃ nāma yadarjunaḥ*). But in the Ṛks
+
+अहं कुत्समार्जुनेयं न्यंजेऽहं कविरुशना पश्यता मा (*ahaṃ kutsamārjuneyaṃ nyaṃje 'haṃ kaviruśanā paśyatā mā*) (Ṛ. Saṃ. 4-26-1)
+
+दासं यच्चुष्णं कुयवं न्यस्मा अरंधय आर्जुनेयाय शिक्षन् (*dāsaṃ yaccuṣṇaṃ kuyavaṃ nyasmā araṃdhaya ārjuneyāya śikṣan*) (Ṛ. Saṃ. 7-19-2)
+
+वहत्कुत्समार्जुनेयं शतक्रतुः त्वरद्धंधर्वमस्तृतं (*vahatkutsamārjuneyaṃ śatakratuḥ tvaraddhaṃdharvamastṛtaṃ*) (Ṛ. Saṃ. 8-1-11)
+
+for all the Ārjuneya words occurring there Sāyaṇa too has explained अर्जुन्याः पुत्रं कुत्सं (*arjunyāḥ putraṃ kutsaṃ*), Kutsa, the son of the woman Arjunī. Since other Śrutis say that both the words Arjuna and Arjunī are related to Indra, it can be said that the two explanations above give one meaning. For example—
+
+फल्गुनीष्वग्नी आदधीत । एता ना इंद्रनक्षत्रं यत्फलुन्नोऽप्यस्य प्रतिनाम्मोऽर्जुनो ह वै नानेंद्रो यदस्य गुह्यं नाम (*phalgunīṣvagnī ādadhīta | etā nā iṃdranakṣatraṃ yatphalunno 'pyasya pratināmmo 'rjuno ha vai nāneṃdro yadasya guhyaṃ nāma*) (Śa. Brā. 2-1-2-11)
+
+इंद्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहारिष्टोर्जुन इति । (*iṃdro bhavati yacca kṣatriyo yadu ca yajamānastasmādāhāriṣṭorjuna iti |*) (Śa. Brā. 5-4-3-7)
+
+The Phalgunīs are Indra's constellations; there is agreement in the name also. Indra has the name Arjuna; the Phalgunīs also have the name Arjunīs. Since this is stated in the Śatapatha Brāhmaṇa and elsewhere, it can be said that Kutsa may be called in two ways, son of Indra and son of Arjunī. In many places in the Ṛksaṃhitā the relation of Indra and Kutsa is shown thus: Kutsa conquers his enemies only with Indra's help.
+
+त्वं शुष्णं वृजने पृक्ष अणौ यूने कुत्साय द्युमते सचाहन् (*tvaṃ śuṣṇaṃ vṛjane pṛkṣa aṇau yūne kutsāya dyumate sacāhan*) (Ṛ. Saṃ. 1-63-3)
+
+कुत्साय यत्र पुरुहूत वन्वइष्णु मनंतैः परियासि वधैः (*kutsāya yatra puruhūta vanvaiṣṇu manaṃtaiḥ pariyāsi vadhaiḥ*) (Ṛ. Saṃ. 1-121-9)
+
+In these Ṛks, and likewise in many other places, there is the description that Indra killed Śuṣṇa in order to help Kutsa. And further,
+### Printed p. 382
+अहं पितेव वेशसूरभिष्टये शुग्रं कुत्साय स्मदिभं च रंधयं (*ahaṃ piteva veśasūrabhiṣṭaye śugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ*) (Ṛ. Saṃ. 10-49-4).
+
+Indra himself declares: "For Kutsa I defeated all enemies such as Vetasu, Tugra and Smadibha, and helped my friend." But in
+
+त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरंधनायः (*tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne araṃdhanāyaḥ*) (Ṛ. Saṃ. 1-53-10)
+
+य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे (*ya āyuṃ kutsamatithigvamardayo vāvṛdhāno divedive*) (Ṛ. Saṃ. 8-53-2)
+
+and similar Ṛks it is also described that Indra defeated Kutsa and others.
+
+वधं (*vadhaṃ*)—the authors of the Nirukta have read the name vadha among the names of strength. When this word is used in the Ṛksaṃhitā, it is mostly an epithet of the thunderbolt, which is to be wielded with force and is the instrument of killing. For example,
+
+स्वयं सो अस्मदा निदो वधैरजेत दुर्मतिं (*svayaṃ so asmadā nido vadhairajeta durmatiṃ*) (Ṛ. Saṃ. 1-129-6).
+
+In such Ṛks (1-133-6; 2-28-7; 6-20-4 etc.) the words वधैः (*vadhaiḥ*), वधं (*vadhaṃ*) are used precisely in the sense of weapons such as the thunderbolt, the instruments of killing. There is no rule that this instrument of killing must be Indra's thunderbolt; it can be a synonym for any weapon wielded with force. For example,
+
+आरे गोहा नृहा वधो वो अस्तु सुम्नेभिरस्मे वसवो नमध्वं (*āre gohā nṛhā vadho vo astu sumnebhirasme vasavo namadhvaṃ*) (Ṛ. Saṃ. 7-56-17)
+
+Here, addressing the Maruts, it is prayed that their weapon may not harm the sacrificers. In the Ṛk at hand the meaning is Indra's thunderbolt.
+
+##### Grammar
+
+- मुषाय — मुष स्तेये इति धातुः । क्र्यादिः । लोट् मध्यमपुरुषैकवचने सिप् । तस्य हि आदेशः । छंदसि शायजपि (पा. सू. ३-१-८४) इति विकरणस्य शायजादेशः । सार्वधातुकमपित् इति चित्त्वात् लघूपथगुणो न भवति । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्य चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- कवे — कु शब्दे इति धातुः । अचॆइः इति इ प्रत्ययः । तं निमित्तीकृत्य गुण अवादेशः । संबुध्यंतरूपं । आमंत्रितनिघातस्वरो भवति ।**NOTE**
+### Printed p. 383
+- ईशानः — ईश ऐश्वर्ये इति धातुः । लडर्थे शानचादेशः । अनुदात्तेत्तिन परत्वात् स अनुदात्तो भवति इति धातुस्वरो अवशिष्यते ।
+- वह — वह प्रापणे इति धातुः । व्यत्ययेन लडः स्थाने लोट् । मध्यमपुरुषैकवचनांतरूपं । पादादित्वात् निघातस्वरो न भवति । शप् अनुदात्तो भवति इति धातुस्वरो अवशिष्यते ।**NOTE**
+- सूर्यम् — सृ गत् इति धातुः । राजसूय सूर्य इति क्यबंतत्वेन निपातितं । सुपां सुपो भवंति इति वचनात् षष्ठीएकवचनस्य द्वितीयाएकवचनादेशः ।
+- वधम् — हन हिंसागत्योः धातुः । हनश्च वधः (पा. सू. ३-३-७६) इति भावार्थे अप् प्रत्ययः । तेन सह अंतोदात्तस्वरविशिष्टो वधादेशः । अतो लोपः (पा. सू. ६-४-४८) इति अकारलोपः । अनुदात्तस्य च यत्रोदात्तलोपः (पा. सू. ६-१-१६१) इति अप् उदात्तो भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒ष्मिंत॑मो॒ हि ते॒ मदो॑ द्यु॒म्निंत॑म उ॒त क्रतुः॑ ।  
+> वृत्रघ्ना वरिवोविदा मंसीष्ठा अश्वसातमः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुष्मिन्तमः । हि । ते । मदः । द्युम्निन्तमः । उत । क्रतुः ।  
+> वृत्रघ्ना । वरिवःसविदा । मंसीष्ठाः । अश्वसातमः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव मदः सोमपानजनितः शुष्मिंतमो बलवत्तमः । उतापि च
+> ते क्रतुः कर्म व्यापारोऽस्मदर्थो द्युम्निंतमोऽतिशयेनान्नवान् यशोवान्वा ॥
+> उभयत्रायस्मयादीनि छंदसीति भसंज्ञाया बाधितत्वान्न लोपः ॥ हे इंद्र
+> अश्वसातमोऽश्वोपलक्षितबहुधनदास्त्वं वृत्रघ्ना वृत्रघातिनौ वरिवोविदा धनस्य
+> परिचरणस्य वा वेदयितारौ लंभयितारौ तव मदक्रतू मंसीष्ठाः । अनुज्ञातवानसि।
+> शत्रुघातिनौ धनदातारौ च स्यातामित्यनुग्रहमकरोरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your intoxication (मदः (*madaḥ*)), born of drinking Soma, is the most powerful (शुष्मिंतमः (*śuṣmiṃtamaḥ*)); and your action (क्रतुः (*kratuḥ*)), your work done for our sake, is most rich in food or in fame (द्युम्निंतमः (*dyumniṃtamaḥ*)). In both words the loss of the ending is not made, since the designation bha is set aside by the rule *āyasmayādīni chaṃdasi*. O Indra, you who are अश्वसातमः (*aśvasātamaḥ*), giver of much wealth marked by horses, you have permitted (मंसीष्ठाः (*maṃsīṣṭhāḥ*)) that your intoxication and action, the two slayers of Vṛtra (वृत्रघ्ना (*vṛtraghnā*)) and the two finders (वरिवोविदा (*varivovidā*)) of wealth or of service, be slayers of enemies and givers of wealth; the meaning is that you have shown favour.
+### Printed p. 384
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- ते (*te*)—your
+- मदः (*madaḥ*)—the joy (born of Soma-drinking)
+- शुष्मिंतमः (*śuṣmiṃtamaḥ*)—exceedingly mighty
+- उत (*uta*)—and
+- ते (*te*)—your
+- क्रतुः (*kratuḥ*)—action (done for us)
+- द्युम्निंतमः (*dyumniṃtamaḥ*)—endowed with exceeding food (strength)
+- हे इंद्र (*he iṃdra*)—O Indra
+- अश्वसातमः (*aśvasātamaḥ*)—you, the giver of much wealth marked by horses (of both your joy and your deeds)
+- वृतघ्ना (*vṛtaghnā*)—slayers of Vṛtra (enemies)
+- वरिवोविदा (*varivovidā*)—bringers of wealth (having become so)
+- मंसीष्ठाः (*maṃsīṣṭhāḥ*)—you have given permission
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your joy born of Soma-drinking is exceedingly great, and your deeds directed towards us are most beneficial. O Indra, to this joy and these deeds of yours the powers of slaying enemies and of giving wealth have been granted by you.
+
+##### English translation (H. H. Wilson)
+Your inebriety is most intense; nevertheless, Your acts (for our good) are most beneficent. You desire, bountiful giver of horses, that (both your inebriety and your beneficence should be the means of) destroying enemies and distributing riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+Addressing Indra, it is described by the sentence मदः शुष्मिंतमः बलवत्तमः (*madaḥ śuṣmiṃtamaḥ balavattamaḥ*) that the intoxication arisen in Indra is produced by Soma-drinking and that it is far more abundant than other intoxicating things.
+
+क्रतुः (*kratuḥ*)—कर्म (*karma*). Yāska has explained the word kratu as कर्म वा प्रज्ञावा (*karma vā prajñāvā*) (Ni. 2.28), "action or intelligence". And he has quoted the Ṛk of the Ṛksaṃhitā
+
+यो जात एव प्रथमो मनस्वान्देवो देवान्कतुना पर्यभूषत् । यस्य शुष्माद्रोदसी अभ्यसेतां नृण्मस्य मह्ना स जनास इंद्रः ॥ (*yo jāta eva prathamo manasvāndevo devānkatunā paryabhūṣat | yasya śuṣmādrodasī abhyasetāṃ nṛṇmasya mahnā sa janāsa iṃdraḥ ‖*) (Ṛ. Saṃ. 2-12-1)
+
+and thereby shown the special meaning of the word kratu there (Ni. 10-10). Even though the word kratu is generally given the meaning "action", wherever this word is used it is understood that this action has an exceedingly great distinctiveness. And the chief meaning of this word is a resolve that urges to action. This meaning is known from the Ṛk quoted below.
+
 ---
 
-**Progress note:** Done through printed p. 378. pp. 373-378 (batch API)
+**Progress note:** Done through printed p. 384. pp. 379-384 (batch API)
