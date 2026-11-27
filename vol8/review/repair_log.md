@@ -1414,3 +1414,149 @@
 | page | old → new | why |
 |---|---|---|
 | 569 | `Va. 25 [?]` → `Va. 25` | SECOND-PASS Q2: Kannada p. 569 running head reads ವ. ೨೫ |
+
+### 2026-11-27 second pass, batch m307-456.tsv
+| page | old → new | why |
+|---|---|---|
+| 582 | `7-1-39 as read [?]]` → `7-1-39]` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `. 5-1-122 as read [?], i` → `. 5-1-122, i` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `6-4-157 as read [?]` → `6-4-157` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `. 5-1-119 as read [?]; s` → `. 5-1-119; s` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `. Sū. 8-2-7 as read [?]; the f` → `. Sū. 8-2-7; the f` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `7-1-39 as read [?],` → `7-1-39,` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `5-2-39 as read [?]` → `5-2-39` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `6-3-91 as read [?]` → `6-3-91` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `3-4-9 as read [?];` → `3-4-9;` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `Sū. 6-1-197 as read [?]). *A` → `Sū. 6-1-197). *A` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 582 | `8-2-18 as read [?]` → `8-2-18` | SECOND-PASS Q2: Kannada p. 582 reads the same number |
+| 583 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 583` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 583` | SECOND-PASS Q2: Kannada p. 583 head reads ವ. ೨೬ |
+| 583 | `. 7-2-92 as read [?]: t` → `. 7-2-92: t` | SECOND-PASS Q2: Kannada p. 583 reads ಪಾ. ಸೂ. ೭-೨-೯೨ |
+| 583 | `6-2-90 as read [?]` → `7-2-90` | SECOND-PASS Q1: Kannada p. 583 reads ಪಾ. ಸೂ. ೭-೨-೯೦ |
+| 583 | `583–[?]` → `583–587` | SECOND-PASS Q1: Rik 108.4 begins on printed p. 587 (Kannada p. 587), where the grammar of 108.3 ends |
+| 584 | `rs [?] i` → `rs i` | SECOND-PASS Q2: Kannada p. 585 reads ಯಾಜಮಾನರಿಗೆ (to the sacrificers) |
+| 585 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 585` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 585` | SECOND-PASS Q2: Kannada p. 585 head reads ವ. ೨೬ |
+| 585 | `7-1[?]4; 10-8 as read [?]` → `7-14; 10-8` | SECOND-PASS Q1: Kannada p. 585 reads (ನಿ 7-14; 10-8) |
+| 586 | `87, noted briefly; numerals small and doubtful [?])*` → `87, noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 586 | `3-2-59 as read [?]` → `3-2-59` | SECOND-PASS Q2: Kannada p. 586 reads ಪಾ. ಸೂ. ೩-೨-೫೯ |
+| 586 | `. 6-4-54 as read [?]; b` → `. 6-4-24; b` | SECOND-PASS Q1: Kannada p. 586 reads ಪಾ. ಸೂ. ೬-೪-೨೪ |
+| 586 | `6-3-95 as read [?]` → `6-3-95` | SECOND-PASS Q2: Kannada p. 586 reads ೬-೩-೯೫ |
+| 586 | `. 8-2-30 as read [?]; t` → `. 8-2-30; t` | SECOND-PASS Q2: Kannada p. 586 reads ೮-೨-೩೦ |
+| 586 | `*adrisadhryor ad* [?]*…*, the accent of the *kṛdanta* latter member is set aside [?], by t` → `*adrisadhryor antodāttanipātanaṃ kṛtsvaranivṛttyartham*, Pā. Sū. 6-3-95-1, the accent of t` | SECOND-PASS Q1: Kannada p. 586 reads ಅದ್ರಿ ಸಧ್ರ್ಯೋರಂತೋದಾತ್ತನಿಪಾತನಂ ಕೃತ್‌ಸ್ವರನಿವೃತ್ಯರ್ಥಮ್—(ಪಾ. ಸೂ. ೬-೩-೯೫-೧); IAST made by sp_sanskrit.py from the Kannada; ಕೃತ್ಸ್ವರನಿವೃತ್ಯರ್ಥಮ್  |
+| 586 | ` 2-4 as read [?],` → ` 8-2-4,` | SECOND-PASS Q1: Kannada p. 586 reads ಪಾ. ಸೂ. ೮-೨-೪ |
+| 586 | `5-4-8 as read [?]` → `5-4-8` | SECOND-PASS Q2: Kannada p. 586 reads the same number (5-4-8) |
+| 586 | `7-1-2 as read [?];` → `7-1-2;` | SECOND-PASS Q2: Kannada p. 586 reads the same number (7-1-2) |
+| 586 | `Pā. Sū. 7-1-39 as read [?]; since i` → `Pā. Sū. 7-1-39; since i` | SECOND-PASS Q2: Kannada p. 586 reads the same number (7-1-39) |
+| 586 | `. 6-1-163 as read [?]). ` → `. 6-1-163). ` | SECOND-PASS Q2: Kannada p. 586 reads the same number (6-1-163) |
+| 586 | `3-2-87 as read [?]` → `3-2-87` | SECOND-PASS Q2: Kannada p. 586 reads the same number (3-2-87) |
+| 587 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 587` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 587` | SECOND-PASS Q2: Kannada p. 587 head reads ವ. ೨೬ |
+| 587 | ` (Pā. Sū. 6-4-13 as read [?])` → `` | SECOND-PASS S3: Kannada p. 587 has no number for this restriction statement (only ೬-೮-೧೨ after inhanpū…) |
+| 587 | `8-3-19 as read [?]` → `8-3-19` | SECOND-PASS Q2: Kannada p. 587 reads ೮-೩-೧೯ |
+| 587 | `. 6-4-111 as read [?]; *` → `. 6-4-111; *` | SECOND-PASS Q2: Kannada p. 587 reads ೬-೪-೧೧೧ |
+| 587 | `7-1-37 as read [?];` → `7-1-37;` | SECOND-PASS Q2: Kannada p. 587 reads ೭-೧೩೭ (hyphen dropped; same digits 7-1-37) |
+| 587 | `8-3-66 as read [?]` → `8-3-66` | SECOND-PASS Q2: Kannada p. 587 reads ೮-೩-೬೬ |
+| 587 | ` 1-85 as read [?],` → ` 3-1-85,` | SECOND-PASS Q1: Kannada p. 587 reads ಪಾ. ಸೂ. ೩ ೧-೮೫ |
+| 587 | `3-4-90 as read [?]` → `3-4-90` | SECOND-PASS Q2: Kannada p. 587 reads ೩-೪-೯೦ |
+| 587 | `*iy* [?]` → `*iy*` | SECOND-PASS Q2: Kannada p. 587 reads ಆಕಾರಕ್ಕೆ ಇಯಾದೇಶ (ā → iy) |
+| 587 | `. 7-2-81 as read [?]; l` → `. 7-2-81; l` | SECOND-PASS Q2: Kannada p. 587 reads ೭-೨-೮೧ |
+| 587 | `li*, Pā. Sū. 6-1-66 as read [?]; *g` → `li*; *g` | SECOND-PASS S3: Kannada p. 587 names ಲೋಪೋ ವ್ಯೋರ್ವಲಿ without a number |
+| 587 | `587–[?]` → `587–590` | SECOND-PASS Q1: Rik 108.5 begins on printed p. 590 (Kannada p. 590), where the grammar of 108.4 ends |
+| 589 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 589` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 589` | SECOND-PASS Q2: Kannada p. 589 head reads ವ. ೨೬ |
+| 589 | `u*' [as read [?]] — ` → `u*' — ` | SECOND-PASS Q2: Kannada p. 589 reads ಸರ್ವೈಃ ಯಜಮಾನೈಃ ಉದ್ಯತಾ ಸ್ರುಚೋ ಯಯೋರರ್ಥಾಯ ತೌ ಯತಸ್ರುಚೌ (same quotation) |
+| 589 | `9 onwards, noted briefly; numerals small and doubtful [?])*` → `9 onwards, noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 589 | `3-2-106 as read [?]` → `3-2-106` | SECOND-PASS Q2: Kannada p. 589 reads ೩-೨-೧೦೬ |
+| 589 | `, Pā. Sū. 6-4-24 as read [?]` → `` | SECOND-PASS S3: Kannada p. 589 gives ಅನಿದಿತಾಂ ಹಲ… without a number |
+| 589 | `7-4-60 as read [?]` → `7-4-70` | SECOND-PASS Q1: Kannada p. 589 reads ಪಾ. ಸೂ. ೭-೪-೭೦ |
+| 589 | `7-4-71 as read [?]` → `7-4-71` | SECOND-PASS Q2: Kannada p. 589 reads ೭-೪-೭೧ |
+| 589 | `71-39 as read [?]` → `7-1-39` | SECOND-PASS Q1: Kannada p. 589 reads ೭-೧-೩೯ |
+| 589 | `. 6-1-163 as read [?]) ` → `. 6-1-163) ` | SECOND-PASS Q2: Kannada p. 589 reads ೬-೧-೧೬೩ |
+| 590 | `iefly; numerals small and doubtful [?]). *Ān` → `iefly). *Ān` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 590 | `8-2-5 as read [?]` → `8-2-5` | SECOND-PASS Q2: Kannada p. 590 reads ೮-೨-೫ |
+| 590 | `7-1-100 as read [?]:` → `7-1-100:` | SECOND-PASS Q2: Kannada p. 590 reads ೭-೧-೧೦೦ |
+| 590 | `2-4-61 as read [?]` → `7-4-61` | SECOND-PASS Q1: Kannada p. 590 reads ಪಾ. ಸೂ. ೭-೪-೬೧ |
+| 590 | `coḥ kuḥ*, Pā. Sū. 8-2-30 as read [?]; since *` → `coḥ kuḥ*; since *` | SECOND-PASS S3: Kannada p. 590 gives ಚೋಃ ಕುಃ without a number |
+| 590 | `6-2-49 as read [?];` → `6-2-49;` | SECOND-PASS Q2: Kannada p. 590 reads ೬-೨-೪೯ |
+| 590 | `bahulaṃ chandasi*, Pā. Sū. 7-1-10 as read [?]; *e* for the *a* ` → `bahulaṃ chandasi*; *e* for the *a* ` | SECOND-PASS S3: Kannada p. 590 gives ಬಹುಲಂ ಛಂದಸಿ without a number |
+| 590 | `, Pā. Sū. 7-3-103 as read [?]` → `` | SECOND-PASS S3: Kannada p. 590 gives ಬಹುವಚನೇ ಝಲ್ಯೇತ್ without a number |
+| 590 | `, Pā. Sū. 7-2-117 as read [?]` → `` | SECOND-PASS S3: Kannada p. 590 gives ತದ್ಧಿತೇಷ್ಟಚಾಮಾದೇಃ without a number |
+| 590 | `590–[?]` → `590–595` | SECOND-PASS Q1: Rik 3.8 begins on printed p. 595 (Kannada p. 595), where the grammar of 108.5 ends |
+| 591 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 591` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 591` | SECOND-PASS Q2: Kannada p. 591 head reads ವ. ೨೬ |
+| 593 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 593` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 593` | SECOND-PASS Q2: Kannada p. 593 head reads ವ. ೨೬ |
+| 594 | `8.5)** *(grammar page, noted briefly; numerals small and doubtful [?])*` → `8.5)** *(grammar page, noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 594 | `8-1-66 as read [?];` → `8-1-66;` | SECOND-PASS Q2: Kannada p. 594 reads ೮-೧-೬೬ |
+| 594 | `4-4-110 as read [?];` → `4-4-110;` | SECOND-PASS Q2: Kannada p. 594 reads ೪-೪-೧೧೦ |
+| 594 | `6-4-134 as read [?];` → `6-4-134;` | SECOND-PASS Q2: Kannada p. 594 reads ೬-೪-೧೩೪ |
+| 594 | `6-1-273 as read [?]` → `6-1-213` | SECOND-PASS Q1: Kannada p. 594 reads ಪಾ. ಸೂ. ೬-೧-೨೧೩ |
+| 594 | `5-4-[?]` → `5-4-25-1` | SECOND-PASS Q1: Kannada p. 594 reads ಪಾ. ಸೂ. ೫-೪-೨೫-೧ |
+| 594 | `5-1-126 as read [?]` → `5-1-126` | SECOND-PASS Q2: Kannada p. 594 reads ೫-೧-೧೨೬ |
+| 594 | `6-1-70 as read [?],` → `6-1-70,` | SECOND-PASS Q2: Kannada p. 594 reads ೬-೧-೭೦ |
+| 594 | `7-2-102 as read [?]` → `7-2-102` | SECOND-PASS Q2: Kannada p. 594 reads ೭-೨-೧೦೨ |
+| 594 | `andasi*, Pā. Sū. 7-1-10 as read [?]; *e* for the *a*;` → `andasi*, Pā. Sū. 7-1-10; *e* for the *a*;` | SECOND-PASS Q2: Kannada p. 594 reads ೭-೧-೧೦ |
+| 594 | `6-1-168 as read [?] ` → `6-1-168 ` | SECOND-PASS Q2: Kannada p. 594 reads ೬-೧-೧೬೮ |
+| 594 | `1-182 as read [?]` → `6-1-182` | SECOND-PASS Q1: Kannada p. 594 reads ಪಾ. ಸೂ. ೬-೧-೧೮೨ |
+| 595 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 595` → `*(Running head: left "A. 1 A. 7 Va. 27"; centre "Ṛgvedasaṃhitā"; right 595` | SECOND-PASS Q1: Kannada p. 595 head reads ವ. ೨೭ |
+| 595 | `595–[?]` → `595–599` | SECOND-PASS Q1: Rik 108.7 begins on printed p. 599 (Kannada p. 599), where the grammar of 108.6 ends |
+| 595 | `m* [?]).` → `m*).` | SECOND-PASS Q2: Kannada p. 595 Sāyaṇa quotation reads ನೋದಾಸಾಥಾಂ (nodāsāthām) |
+| 596 | `* 3-[?]) —` → `* 3-8) —` | SECOND-PASS Q1: Kannada p. 596 reads (ನಿ. ೩-೮) |
+| 597 | `*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 597` → `*(Running head: left "A. 1 A. 7 Va. 26"; centre "Ṛgvedasaṃhitā"; right 597` | SECOND-PASS Q2: Kannada p. 597 head reads ವ. ೨೬ |
+| 598 | `99, noted briefly; numerals small and doubtful [?])*` → `99, noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 598 | `hasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; *luk* of *śap* by *adiprabhṛtib` → `hasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101; *luk* of *śap* by *adiprabhṛtibhyaḥ ` | SECOND-PASS Q2: Kannada p. 598 reads ೩-೪-೧೦೧ |
+| 598 | `2-4-82 as read [?];` → `2-4-82;` | SECOND-PASS Q2: Kannada p. 598 reads ೨-೪-೮೨ |
+| 598 | `3-1-81 as read [?]` → `3-1-81` | SECOND-PASS Q2: Kannada p. 598 reads ೩-೧-೮೧ |
+| 598 | `x is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]).` → `x is *cit*, the final acute by *cito 'ntodāttaḥ*).` | SECOND-PASS S3: Kannada p. 598 gives ಚಿತಃ… (final acute) without a number |
+| 599 | `. 1-42 as read [?]; t` → `. 1-42; t` | SECOND-PASS Q2: Kannada p. 599 reads ಉ. ಸೂ. ೧-೪೨ |
+| 599 | `61-197 as read [?]` → `6-1-197` | SECOND-PASS Q1: Kannada p. 599 reads ಪಾ. ಸೂ. ೬-೧-೧೯೭ |
+| 599 | `3-1-97 as read [?]` → `3-1-97` | SECOND-PASS Q2: Kannada p. 599 reads the same number (3-1-97) |
+| 599 | `7-3-84 as read [?],` → `7-3-84,` | SECOND-PASS Q2: Kannada p. 599 reads the same number (7-3-84) |
+| 599 | `6-1-80 as read [?]` → `6-1-80` | SECOND-PASS Q2: Kannada p. 599 reads the same number (6-1-80) |
+| 599 | `6-1-213 as read [?]` → `6-1-213` | SECOND-PASS Q2: Kannada p. 599 reads the same number (6-1-213) |
+| 599 | ` 6-2-139 as read [?]).` → ` 6-2-139).` | SECOND-PASS Q2: Kannada p. 599 reads the same number (6-2-139) |
+| 599 | `Atha* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?]: lengthening in the Saṃhitā). T` → `Atha* (*nipātasya ca*, Pā. Sū. 6-3-136: lengthening in the Saṃhitā). T` | SECOND-PASS Q2: Kannada p. 599 reads the same number (6-3-136) |
+| 599 | `599–[?]` → `599–602` | SECOND-PASS Q1: Rik 108.8 begins on printed p. 602 (Kannada p. 602), where the grammar of 108.7 ends |
+| 601 | `*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 601` → `*(Running head: left "A. 1 A. 7 Va. 27"; centre "Ṛgvedasaṃhitā"; right 601` | SECOND-PASS Q2: Kannada p. 601 head reads ವ. ೨೭ |
+| 601 | `.* 3-[?]), *` → `.* 3-13), *` | SECOND-PASS Q1: Kannada p. 601 reads (ನಿ. ೩-೧೩) |
+| 601 | `t [?] (` → `t (` | SECOND-PASS Q2: Kannada p. 601 reads ಆ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕೂ ಸಂತೋಷಕ್ಕೂ ತಡೆಯನ್ನು (independence and delight) |
+| 601 | `8-[?]0-[?]` → `8-70-3` | SECOND-PASS Q1: Kannada p. 601 reads (ಋ. ಸಂ. ೮-೭೦.೩) |
+| 601 | `*(Kannada; the closing clause is read with doubt [?].)*` → `*(Kannada.)*` | SECOND-PASS Q2: Kannada p. 601 ends ನಮ್ಮ ಯಜ್ಞದಲ್ಲಿ ಭಾಗವಹಿಸಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸಿದೆ, matching the English; doubt clause only |
+| 601 | `7)** *(grammar page, noted briefly; numerals small and doubtful [?])*` → `7)** *(grammar page, noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 601 | `. 3-1-85 as read [?]; t` → `. 3-1-85; t` | SECOND-PASS Q2: Kannada p. 601 reads ೩-೧-೮೫ |
+| 601 | `8-166 as read [?]` → `8-1-66` | SECOND-PASS Q1: Kannada p. 601 reads ಪಾ. ಸೂ ೮-೧-೬೬ |
+| 601 | `6-1-186 as read [?] ` → `6-1-186 ` | SECOND-PASS Q2: Kannada p. 601 reads ೬-೧-೧೮೬ |
+| 601 | `3-385 as read [?]` → `3-385` | SECOND-PASS Q2: Kannada p. 601 reads ಉ ಸೂ. ೩-೩೮೫ |
+| 601 | `l, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; vocative: *nighāta* by` → `l, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39; vocative: *nighāta* by *āmantritas` | SECOND-PASS Q2: Kannada p. 601 reads ೭-೧-೩೯ |
+| 602 | `tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; *luk* of *śap* by *adiprabhṛtib` → `tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101; *luk* of *śap* by *adiprabhṛtibhyaḥ ` | SECOND-PASS Q2: Kannada p. 602 reads ೩-೪-೧೦೧ |
+| 602 | `Pā. Sū. 2-4-72 as read [?]; since t` → `Pā. Sū. 2-4-72; since t` | SECOND-PASS Q2: Kannada p. 602 reads ೨-೪-೭೨ |
+| 602 | `. 8-1-34 as read [?], s` → `. 8-1-34, s` | SECOND-PASS Q2: Kannada p. 602 reads ೮-೧-೩೪ |
+| 602 | `602–[?]` → `602–608` | SECOND-PASS Q1: Rik 108.9 begins on printed p. 608 (Kannada p. 608), where the grammar of 108.8 ends |
+| 603 | `e] [?]; f` → `e]; f` | SECOND-PASS Q2: Kannada p. 603 Sāyaṇa text reads ಜ್ಞಾತೃಷು ... ಸಫಲೈಃ ಪ್ರಾಣೈರ್ಯುಕ್ತೇಷು (those possessed of knowledge and fruitful breaths) |
+| 606 | `7-18-[?]` → `7-18` | SECOND-PASS S3: Kannada p. 606 reads (ಋ. ಸಂ. ೭-೧೮) with no third number |
+| 607 | `*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 607` → `*(Running head: left "A. 1 A. 7 Va. 27"; centre "Ṛgvedasaṃhitā"; right 607` | SECOND-PASS Q2: Kannada p. 607 head reads ವ. ೨೭ |
+| 607 | `.* 2-[?]), t` → `.* 3-7), t` | SECOND-PASS Q1: Kannada p. 607 reads (ನಿ. ೩-೭) |
+| 607 | `8, noted briefly; numerals small and doubtful [?])*` → `8, noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 607 | `6-4-36 as read [?]` → `6-4-37` | SECOND-PASS Q1: Kannada p. 607 reads ಪಾ. ಸೂ. ೬-೪-೩೭ |
+| 607 | `3-2-130 as read [?]` → `3-2-170` | SECOND-PASS Q1: Kannada p. 607 reads ಪಾ. ಸೂ. ೩-೨-೧೭೦ |
+| 607 | `. 6-4-48 as read [?]; t` → `. 6-4-48; t` | SECOND-PASS Q2: Kannada p. 607 reads ೬-೪-೪೮ |
+| 607 | `Uṇ. 1-[?];` → `Uṇ. 1-8;` | SECOND-PASS Q1: Kannada p. 607 reads (ಉ. ಸೂ. ೧-೮) |
+| 607 | `. 6-1-197 as read [?]) ` → `. 6-1-197) ` | SECOND-PASS Q2: Kannada p. 608 reads ( ಪಾ. ೬-೧-೧೯೭ ) |
+| 608 | `. 6-4-111 as read [?]; s` → `. 6-4-111; s` | SECOND-PASS Q2: Kannada p. 608 reads ೬-೪-೧೧೧ |
+| 608 | `8-1-30 as read [?];` → `8-1-30;` | SECOND-PASS Q2: Kannada p. 608 reads ೮-೧-೩೦ |
+| 608 | `608–[?]` → `608–610` | SECOND-PASS Q1: Rik 108.10 begins on printed p. 610 (Kannada p. 610), where the grammar of 108.9 ends |
+| 609 | `*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 609` → `*(Running head: left "A. 1 A. 7 Va. 27"; centre "Ṛgvedasaṃhitā"; right 609` | SECOND-PASS Q2: Kannada p. 609 head reads ವ. ೨೭ |
+| 609 | `…' [?]. ` → `…'. ` | SECOND-PASS Q2: Kannada p. 609 Sāyaṇa text quotes ಯೋ ದ್ವಿತೀಯಸ್ಯಾಂ ತೃತೀಯಸ್ಯಾಂ ಪೃಥಿವ್ಯಾಮ್ (same quotation) |
+| 609 | `i* [?] (` → `i* (` | SECOND-PASS Q2: Kannada p. 609 reads ಈ ಶಬ್ದವು ಅಂಕಿತನಾಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿದೆ |
+| 609 | `.* 3-[?]); t` → `.* 3-9); t` | SECOND-PASS Q1: Kannada p. 609 reads (ನಿ. ೩-೯) |
+| 610 | `9)** *(noted briefly; numerals small and doubtful [?])*` → `9)** *(noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 610 | `. 3-1-85 as read [?]; *` → `. 3-1-85; *` | SECOND-PASS Q2: Kannada p. 610 reads ೩-೧ ೮೫ (hyphen dropped; same digits 3-1-85) |
+| 610 | `7-23-116 as read [?]` → `7-3-116` | SECOND-PASS Q1: Kannada p. 610 reads ಪಾ. ಸೂ. ೭-೩-೧೧೬ |
+| 610 | `āt*, Pā. Sū. 6-1-174 as read [?], the ending r` → `āt*, Pā. Sū. 6-1-174, the ending r` | SECOND-PASS Q2: Kannada p. 610 reads ೬-೧-೧೭೪ |
+| 610 | `610–[?]` → `610–612` | SECOND-PASS Q1: Rik 108.11 begins on printed p. 612 (Kannada p. 612), where the grammar of 108.10 ends |
+| 611 | `*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 611` → `*(Running head: left "A. 1 A. 7 Va. 27"; centre "Ṛgvedasaṃhitā"; right 611` | SECOND-PASS Q2: Kannada p. 611 head reads ವ. ೨೭ |
+| 612 | `612–[?]` → `612–614` | SECOND-PASS Q1: Rik 108.12 begins on printed p. 614 (Kannada p. 614), where the grammar of 108.11 ends |
+| 613 | `*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 613` → `*(Running head: left "A. 1 A. 7 Va. 27"; centre "Ṛgvedasaṃhitā"; right 613` | SECOND-PASS Q2: Kannada p. 613 head reads ವ. ೨೭ |
+| 613 | `1)** *(noted briefly; numerals small and doubtful [?])*` → `1)** *(noted briefly)*` | SECOND-PASS Q2: doubt clause only; the Kannada numerals of the page are readable and settled mark by mark |
+| 613 | `. Sū. 6-1-171 as read [?]: the l` → `. Sū. 6-1-171: the l` | SECOND-PASS Q2: Kannada p. 613 reads ೬-೧-೧೭೧ |
+| 613 | `6-1-134 as read [?]` → `6-1-174` | SECOND-PASS Q1: Kannada p. 613 reads ಪಾ. ಸೂ. ೬-೧-೧೭೪ |
+
+### 2026-11-27 second pass, batch m307-456_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 601 | `*āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]` → `*āmantritasya ca*, Pā. Sū. 8-1-19` | SECOND-PASS Q2: Kannada p. 601 reads ೮-೧-೧೯ (retry of q420: its context overlapped the preceding edit) |
