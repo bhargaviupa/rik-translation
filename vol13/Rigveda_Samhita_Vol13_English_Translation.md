@@ -8823,6 +8823,161 @@ All who perform rites on the Svarasāman days worship water, the cause and presi
 अयमेव दक्षिणो बाहुरभिजित् । इम एव दक्षिणो त्रयः प्राणाः स्वरसामानो मूर्धा विषुवानिम एवोत्तरे त्रयः प्राणाः स्वरसामानः ॥ २ ॥ (*ayameva dakṣiṇo bāhurabhijit | ima eva dakṣiṇo trayaḥ prāṇāḥ svarasāmāno mūrdhā viṣuvānima evottare trayaḥ prāṇāḥ svarasāmānaḥ ‖ 2 ‖*) (Śa. Brā. 12-1-4-2)
 The year is the Puruṣa; the Prāyaṇīya Atirātra, the opening day of the Gavāmayana, is his foot. As the foot is the means of movement, this Atirātra is the means of the movement that is the carrying out of rites ........ The Abhijit day is his right arm; the Svarasāmans of the Abhijit day are the three chief breaths of his right side. The Viṣuvat day is the head; the Svarasāmans related to it are the three chief breaths of the left side. So it is praised. Discussing the distinctive character of the Svarasāmans to be sung on these days and the manner of singing, the English scholar Eggling says as follows.
 
+### Printed p. 367
+"स्वारसामन् (*svārasāman*)" is the name of a chanted verse which has no special concluding nidhana or finale, but in which the svarita (circumflex), the first rising and then falling pitch of the final vowel, takes the place of the finale; whence svara is often explained as svaranidhana, i.e. having the svarita for its nidhana. In the Pañcaviṃśa Brāhmaṇa (IX. 3. 11) the Svārasāman is prescribed in case the Udgātṛs have previously committed an excess in their chanting............In the Lāṭyāyana Śrauta Sūtra (VI. 9. 6) Svara-sāmans thus treated are called पदानुस्वाराणि (*padānusvārāṇi*), whilst those with which the musical syllables "हा इ (*hā i*)" are used with a similar effect are called हायिकारस्वराणि (*hāyikārasvarāṇi*).................................
+(Sacred Books of the East, Vol. XLIII, pp. 6-7)
+
+Āśvalāyana, in the sūtra मत्स्यपायि ते मह एमेनं प्रत्येतन (*matsyapāyi te maha emenaṃ pratyetana*) (Āśva. Śrau. 8-5), has stated that the present sūkta, which contains the mantra "मत्स्यपायि (*matsyapāyi*)", is to be recited on the Svarasāma days belonging to the Niṣuvat day (the second part).
+
+हरिवः (*harivaḥ*)—With this word Indra is addressed. The reading हरी इंद्रस्य (*harī iṃdrasya*) (Ni. 2-28) is given: since Indra's vehicles are named हरी (*harī*), Sāyaṇa has explained it as Indra "possessing them".
+
+पात्रस्येव ते अपायि (*pātrasyeva te apāyi*)—सोमपात्रेण यथा धार्यते सोमः यद्वा पात्रस्येव ते तव स्वभूतो महान् सोम इति वा योजना (*somapātreṇa yathā dhāryate somaḥ yadvā pātrasyeva te tava svabhūto mahān soma iti vā yojanā*). For the word पात्रस्येव (*pātrasyeva*) one meaning is, in the instrumental sense, "as the Soma juice is filled and held by the Soma vessel". Just as महः (*mahaḥ*) conveys the sense "worthy of worship", so, since it is also used in the sense "abundant", the meaning "abundant" is given to महः (*mahaḥ*). For the word पात्र (*pātra*) the meaning "one who is worthy" is stated. Because the abundant Soma juice that is Indra's own, Indra being worthy to drink Soma, has been offered for drinking, the wish is expressed that Indra may drink the Soma.
+
+मत्सि (*matsi*)—माद्यसि मादयस्व ना । पात्रे यथा सोमः पूर्यते तथा अत्यधिकं पिब पीत्वा च मादयस्व । (*mādyasi mādayasva nā | pātre yathā somaḥ pūryate tathā atyadhikaṃ piba pītvā ca mādayasva |*) The wish is described that, as the Soma juice fills the vessel from which Soma is drunk, so Indra may drink it abundantly and become exhilarated.
+
+The Soma juice is मत्सरः (*matsaraḥ*)—an instrument in producing exhilaration; मदः (*madaḥ*)—a producer of delight; वर्षिता (*varṣitā*)—an increaser of strength; इंदुः (*iṃduḥ*)—an augmenter of refreshment. Thus the qualities of Soma are described.
+
+### Printed p. 368
+वाजी (*vājī*)—since food is satisfying, "possessing food"; सहस्रसातमः (*sahasrasātamaḥ*)—one who increases the power of giving without measure, or the abundant power that restrains a thousand heroes. Thus the effect of the Soma juice is explained. The wish is expressed that Indra may drink the Soma juice possessing this effect.
+
+##### Grammar
+
+- मत्सि — मद तृप्तियोगे । धातुः । लट् मध्यमपुरुषैकवचने सिप् । बहुलं छंदसि इति विकरणस्य लुक् । खरि च इति दकारस्य चर्त्वम् । पादादित्वात् निघातस्वरो न भवति । सिप् पित्त्वात् धातुस्वरः अवतिष्ठते ।
+- अपायि — पा पाने । धातुः । आशंसायां भूतवच्च (पा. सू. ३-३-१३२) इति भूतकालप्रत्ययो लुङ् आगच्छति । (कर्मणि) प्रथमपुरुषैकवचने त प्रत्ययः । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति च्लेः चिणादेशः । आतोयुक् चिण् कृतोः (पा. सू. ७-३-३३) इति धातोर्युकागमः । चिणो लुक् (पा. सू. ६-४-१०४) इति तशब्दस्य लुक् । अंगस्य अडागमः । पूर्वं तिजंतत्वात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तो भवति ।
+- पात्रस्य इव — सुपां सुपो भवंति इति वाक्येन तृतीयार्थे षष्ठी आगता ।
+- मत्सरः — मदी हर्षे । धातुः । कृधूमदिभ्यः कित् (उ. सू. ३-३५३) इति सरप्रत्ययः । खरि च सूत्रेण धातुदकारस्य तकारादेशः । चित् इति पूर्वसूत्रात् अनुवृत्तत्वात् अंतोदात्तस्वरो भवति ।
+- मदः — पूर्वोक्ताय धातवे बहुलग्रहणेन कर्तरि मदोनुपसर्गे (पा. सू. ३-३-६७) इति अप् प्रत्ययः । अयं पित्त्वात् अनुदात्तो भवति ।
+- इंदुः — उंदी क्लेदने । धातुः । उंदेरिच्चादेः (उ. सू. १-२) उन् प्रत्ययः । धातोरादेः इकारादेशः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति ।
+- सहस्रसातमः — सहस्रं सनुते ददाति इति सहस्रसाः । षणु दाने । धातुः । जनसनखनक्रमगमो विट् (पा. सू. ३-२-६७) इति विट् प्रत्ययः । निड्वनोरनुनासिकस्यात् (पा. सू. ९-४-४१) इति धातोर्नकारस्य आत्वम् । कृदुत्तरपदप्रकृतिस्वरो भवति । तदुपरि अतिशयार्थे तमस् प्रत्ययः । अयं पित्त्वात् अनुदात्तो भवति । **NOTE**
+
+### Printed p. 369
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॑स्ते गंतु मत्स॒रो वृषा॒ मदो॒ वरे॑ण्यः ।  
+> स॒हावा॑ इंद्र सान॒सिः पृ॑तना॒षाळम॑र्त्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । ते । गंतु । मत्सरः । वृषा । मदः । वरेण्यः ।  
+> सहवान् । इंद्र । सानसिः । पृतनाषाट् । अमर्त्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वां नोऽस्मदीयो मत्सरो मर्षणसाधनः सोम आ गंतु ।
+> आगच्छतु । कीदृशोऽयं । वृषा वर्षकः मदस्तर्पयिता वरेण्यो वरणेयः
+> सहावान् सहायवान् सहसा बलेन तद्वान्वा सानसिः संभजनीयः पृतनाषाट्
+> शत्रुसेनाया अभिभविता अमर्तोऽविनाशी । ईदृशः सोमस्त्वामागच्छतु । यद्वा ।
+> उत्तरार्ध इंद्रपरतया व्याख्येयः । हे इंद्र सहानानस्मद्दत्तसोमसहायवान्
+> बलवान्वा सानसिरस्माभिः संभजनीयः पृतनाषाडमर्त्यश्च भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may our Soma, the instrument of exhilaration (मत्सरः (*matsaraḥ*), from "bearing/overcoming"), come to you. What kind is it? वृषा (*vṛṣā*) a showerer; मदः (*madaḥ*) a satisfier; वरेण्यः (*vareṇyaḥ*) choice-worthy; सहावान् (*sahāvān*) helpful, or possessing strength (सहसा (*sahasā*)); सानसिः (*sānasiḥ*) to be shared in; पृतनाषाट् (*pṛtanāṣāṭ*) an overpowerer of the enemy's army; अमर्त्यः (*amartyaḥ*) imperishable. Such a Soma, may it come to you. Or else: the latter half is to be explained as referring to Indra: O Indra, you are सहावान् (*sahāvān*), helped by the Soma given by us, or strong; सानसिः (*sānasiḥ*), to be shared in by us; and पृतनाषाट् (*pṛtanāṣāṭ*) and immortal.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- नः (*naḥ*)—our
+- वृषा (*vṛṣā*)—showerer of desires
+- मदः (*madaḥ*)—satisfying
+- वरेण्यः (*vareṇyaḥ*)—desirable
+- सहावान् (*sahāvān*)—possessed of help (strength)
+- सानसिः (*sānasiḥ*)—to be enjoyed
+- पृतनाषाट् (*pṛtanāṣāṭ*)—destroyer of enemies
+- अमर्त्यः (*amartyaḥ*)—imperishable
+- मत्सरः (*matsaraḥ*)—the Soma juice that is the instrument of exhilaration
+- ते (*te*)—to you
+- आ गंतु (*ā gaṃtu*)—may it reach
+- [Or: नः वृषा, मदः, वरेण्यः (*naḥ vṛṣā, madaḥ, vareṇyaḥ*)—showerer of desires, satisfying, choice-worthy; मत्सरः (*matsaraḥ*)—the Soma juice offered by us, the instrument of exhilaration; ते आ गंतु (*te ā gaṃtu*)—may it reach you (and having drunk it you); सहावान् (*sahāvān*)—strong; सानसिः (*sānasiḥ*)—attainable by us; पृतनाषाट् (*pṛtanāṣāṭ*)—destroyer of enemies; अमर्त्यः (*amartyaḥ*)—imperishable (you become).]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Soma juice, showerer of desires, satisfying, desirable, the instrument of exhilaration, offered by us, reaches you; having drunk it, become strong, attainable by us, destroyer of enemies, imperishable.
+
+### Printed p. 370
+
+##### English translation (H. H. Wilson)
+May our Soma libation reach you, (for it is) exhilarating, invigorating, inebriating, most precious : it is companionable, Indra, enjoyable, the overthrower of hosts, immortal.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the words मत्सरः (*matsaraḥ*), वृषा (*vṛṣā*), मदः (*madaḥ*), वरेण्यः (*vareṇyaḥ*), सहावान् (*sahāvān*), सानसिः (*sānasiḥ*), पृतनाषाट् (*pṛtanāṣāṭ*), अमर्त्यः (*amartyaḥ*) are described as being used as epithets of the Soma juice. Since the meanings of these words were explained in the previous Ṛk, they are not explained again here.
+
+पृतनाषाट् (*pṛtanāṣāṭ*)—The word पृतनाः (*pṛtanāḥ*) is stated among the names of battle (Ni. 3-9). Since those who fight in battles are the people of armies, the meaning "enemy army" is explained here. The explanation शत्रुसेनायाः अभिभविता (*śatrusenāyāḥ abhibhavitā*) is given, meaning that Soma produces the ability to conquer the enemy army.
+
+By established usage this word is an epithet of Indra, describing Indra's distinction. But in the Ṛksaṃhitā it is not an epithet of Indra alone; it is an epithet also of Agni and other deities and indicates their prowess. For example—
+कृणोत धूमं वृषणं सखायोऽस्रेधंत इतन वाजमच्छ । अयमग्निः पृतनाषाट् सुवीरो येन देवासो असहंत दस्यून् ॥ (*kṛṇota dhūmaṃ vṛṣaṇaṃ sakhāyo 'sredhaṃta itana vājamaccha | ayamagniḥ pṛtanāṣāṭ suvīro yena devāso asahaṃta dasyūn ‖*)
+(Ṛ. Saṃ. 3-29 9)
+Here, with पृतनोपलक्षितं युद्धं सहमानः (*pṛtanopalakṣitaṃ yuddhaṃ sahamānaḥ*), it indicates Agni's prowess. And व्याप्रियंते अत्र योद्धारः इति पृतनाः संग्रामाः (*vyāpriyaṃte atra yoddhāraḥ iti pṛtanāḥ saṃgrāmāḥ*): since it is the place where warriors gather and form groups, battle is named पृतना (*pṛtanā*), so in one place (Ṛ. Saṃ. 3-49-2); and also in
+इमं नरो मरुतः सच्चता वृधं यस्मिन्रायः शेवृथासः । अभि ये संति पृतनासु दूढ्यो विश्वाहा शत्रुमादभुः ॥ (*imaṃ naro marutaḥ saccatā vṛdhaṃ yasminrāyaḥ śevṛthāsaḥ | abhi ye saṃti pṛtanāsu dūḍhyo viśvāhā śatrumādabhuḥ ‖*)
+(Ṛ. Saṃ. 3-16-2)
+Sāyaṇa gives, in another place, पृतनासु सेनासु तदुपलक्षितेषु संग्रामेषु (*pṛtanāsu senāsu tadupalakṣiteṣu saṃgrāmeṣu*) as the derivation of this word. The Nirukta authors have included this word among the names of battle (Ni. 3-9). Since he shows his strength in battles consisting of such enemy armies and withstands the enemy's force, it is natural for this epithet to belong either to Indra or to Agni. In the present Ṛk, however, it is an epithet of Soma.
+
+### Printed p. 371
+मत्सरः (*matsaraḥ*)—For this word one meaning is "cause of exhilaration", and another is "possessing jealousy". The Nirukta author too has given both meanings for this word.
+मत्सर सोमो मंदशेस्तृप्तिकर्मणः (*matsara somo maṃdaśestṛptikarmaṇaḥ*)
+(Ni. 9-25)
+It is formed from the root मंद् (*maṃd*), which gives the sense "produce satisfaction", and is used as a synonym of the Soma juice; and मत्सर इति लोभ नाम (*matsara iti lobha nāma*): since it shows excessive desire and self-assertion, it is named मत्सर (*matsara*); such is the Nirukta author's derivation of this word. In the present Ṛk it means either "cause of exhilaration" or "excelling, in rivalry with the Soma juices of other sacrifices".
+
+Having thus explained these words in the bhāṣya, he explains उत्तरार्धः इंद्रपरतया व्याख्येयः (*uttarārdhaḥ iṃdraparatayā vyākhyeyaḥ*): it is appropriate to interpret the latter half as referring to Indra. Hence, addressing Indra as हे इंद्र (*he iṃdra*), Indra is अस्मद्दत्तसोमसहायवान् (*asmaddattasomasahāyavān*), helped by the Soma juice offered by the sacrificers; or बलवान् (*balavān*), possessed of strength; सानसिः (*sānasiḥ*), worthy of being attained by the sacrificers; पृतनाषाधमर्त्यश्च (*pṛtanāṣādhamartyaśca*), one who has the power to carry on battles and overcome enemy armies, and one who is free of the nature of death. Thus Indra's abundant power is described here.
+
+##### Grammar
+
+- गंतु — गम्‌ल्य गतौ धातुः । लोट् प्रथमपुरुषैकवचने तिप् प्रत्ययः । एरुः इति उत्वम् । बहुलं छंदसि इति विकरणस्य लुक् । धातुमकारस्य अनुस्वारः परसवर्णः । तिजंतनिघातस्वरो भवति ।
+- वरेण्यः — वृञ् वरणे धातुः । वृञ् एण्यः (उ. सू. ३-३७८) इति एण्यप्रत्ययः । प्रत्ययनिमित्तत्वेन धातोरिको गुणः । र परत्वेन आगच्छति । वृषादौ संगृहीतत्वात् आद्युदात्तस्वरो भवति ।
+- सहवान् — मतुप् आगते माधुपधायात्थ इति मकारस्य वत्वम् । अन्येषामपि दृश्यते इति पूर्वस्य संहितायां दीर्घो भवति । अस्य इंद्र इति परतो दीर्घादट समानपादे (पा. सू. ८-३-९) इति नकारस्य रुत्वम् । आशोटिनित्यम् (पा. सू. ८-३-३) इति आकारस्य अनुनासिकभावो भवति । **NOTE**
+- सानसि — षण संभक्तौ । धातुः । अस्मात् सानसिधर्णसि (उ. सू. ४-५४७) इति असि प्रत्ययः वृद्धिः अंतोदात्तस्वरश्च निपातितः ।
+
+### Printed p. 372
+
+##### Grammar
+
+- पृतनाषाट् — षह मर्षणे । धातुः । छंदसिसहः (पा. सू. ७-२-११६) इति ण्व प्रत्ययः । आत उपधायाः (पा. सू. ८-३-५६) इति उपधावृद्धिः । सहेः साडः सः (पा. सू. ८-३-५६) इति पदांते धातुसकारस्य षत्वम् । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि शूरः॒ सनि॑ता चो॒दयो॒ मनु॑षो॒ रथं॑ ।  
+> स॒हावा॒न्दस्यु॑मव्र॒तमोषः॒ पात्रं॒ न शो॒चिषा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । शूरः । सनिता । चोदयः । मनुषः । रथं ।  
+> सह्यवान् । दस्युं । अव्रतं । ओषः । पात्रं । न । शोचिषा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं खलु शूरः शौर्योपेतः सनिता दातासि । अतो मनुषो
+> मानुष्यस्य मे रथं रंहणं स्पंदनं मनोरथं वा स्वर्गगमनसाधनं यज्ञाख्यं
+> रथं वा चोदयः । प्रेरय । किंच त्वं सहावान् सोमसहायवान् बलवान्वा
+> भूत्वा दस्युमुपक्षपयितारमव्रतमकर्माणमननुष्ठायिनमोषः । दह । किमिव ।
+> शोचिषा दीप्या ज्वालयाग्निः पात्रं न स्वाधारं पात्रविशेषमिव । यागाधिकारी
+> सन्नो न यजते तं दहेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are heroic, endowed with valour, and a giver. Therefore impel the chariot (रथं (*rathaṃ*)) of me, a man (मनुषः (*manuṣaḥ*)): the chariot meaning speed or motion, or my desire, or the chariot called sacrifice, the means of going to heaven. Further, being सहावान् (*sahāvān*), helped by Soma or strong, burn (ओषः (*oṣaḥ*)) the दस्युं (*dasyuṃ*), the destroyer, who is अव्रतं (*avrataṃ*), without rites and not performing them. Like what? As fire with its flame (शोचिषा (*śociṣā*)) burns a vessel (पात्रं न (*pātraṃ na*)), a particular vessel of its own support. The meaning is: burn him who, being qualified for the sacrifice, does not sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *(he iṃdra)*—O Indra
+- शूरः (*śūraḥ*)—heroic
+- त्वं हि (*tvaṃ hi*)—are you not
+- सनिता (*sanitā*)—the giver (to us)
+- मनुषः (*manuṣaḥ*)—of me, a man (therefore)
+- रथं (*rathaṃ*)—the desire (the chariot of sacrifice, the means of going to heaven)
+- चोदयः (*codayaḥ*)—impel
+- *(kiṃca tvaṃ)*—and further, you
+- सहावान् (*sahāvān*)—endowed with the help of Soma (strong)
+- दस्युं (*dasyuṃ*)—the destroyer
+- अव्रतं (*avrataṃ*)—one without rites
+- शोचिषा (*śociṣā*)—with the flame (as fire)
+- पात्रं न (*pātraṃ na*)—as it burns a vessel of its own support
+- ओषः (*oṣaḥ*)—burn
+
 ---
 
-**Progress note:** Done through printed p. 366. pp. 361-366 (batch API)
+**Progress note:** Done through printed p. 372. pp. 367-372 (batch API)
