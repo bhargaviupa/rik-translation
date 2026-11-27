@@ -2343,6 +2343,176 @@ Here the word दुवस्य (*duvasya*) is explained as राध्नु 
 - विदथेषु—विद ज्ञाने । धातुः । रुदिविदिभ्यां जित् (उ. सू. ३-३९५) इति अथ प्रत्ययः । जित्त्वातिदेशकरणात् लघूपधगुणो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
 - अर्कः—अर्च पूजायां धातुः । कृदाधारार्चि—(उ. सू. ३-३१०) इति क प्रत्ययः । अर्क इति मंत्रः । अत्र तद्वान् इत्यर्थत्वात् छांदसत्वेन मत्त्वर्थप्रत्ययस्य लोपः । अथवा अर्शआदिषु अंतर्भूतत्वात् मत्त्वर्थे अच् प्रत्ययः ।
 
+### Printed p. 97
+
+##### Grammar
+
+- गायत्—गै शब्दे धातुः । छांदसत्वात् वर्तमानार्थे लज् प्रथमपुरुषैकवचनांतरूपम् । बहुलं छंदस्यमाज् योगेऽपि (पा. सू ६-४-७५) इति अडागमः न भवति । यद्योगत्वात् निघातस्वरः न भवति । शप् अनुदात्तः इति धातुस्वरः अवतिष्ठते ।
+- सुतसोमः—सुतः सोमः येन सः । बहुव्रीहौ प्रकृत्यापूर्वपदं (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- मवस्यन्—दुवस् इति परिचरणार्थे अस्ति । कंड्वादिभ्यो यक् (पा. सू. ३-१-२७) इति स्वार्थे यक् । यगंतात् लटि आगते तस्य शत्रादेशः । यक् स्वरः अवतिष्ठते । ॥ ६ ॥
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तं वि॑वक्मि॒ वक्म्यो॒ य ए॑षां म॒रुतां॑ महि॒मा स॒त्यो अस्ति॑ ।  
+> सचा॒ यदीं॒ वृष॑मणा अहं॒युः स्थि॒रा चि॒ज्जनि॒र्वह॑ते सुभा॒गाः ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तं । विवक्मि । वक्म्यः । यः । एषां । मरुतां । महिमा । सत्यः । अस्ति ।  
+> सचा । यत् । ईं । वृषमनाः । अहंयुः । स्थिरा । चित् । जनीः । वहते । सुभागाः॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मरुतां यो महिमा महत्वातिशयो वक्स्यः सर्वैः स्तुत्यः
+> सत्योऽबाध्योऽमोघोऽस्ति तं प्रविवक्कि । प्रवच्चि । वर्णयामि । कथमेषां
+> महिमा प्राप्त इति उच्यते । यद्यस्मादीमेतेषां संबंधिनी रोदसी वृषामणा
+> वृष्ट्वादिवर्षणमनस्काहंयुरहंकारवती । जगदुपकारकर्त्रि न कदाचिदस्तीत्य
+> हंकारः । स्थिरा । चित् । चिदिति पूजायां । अत्यंतमविनश्वरा ईदृशी देवी सुभागाः
+> XIII 7
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the greatness of these Maruts, their surpassing majesty, which is to be praised by all and is true, that is, unobstructable and unfailing, I proclaim, I describe. How has this greatness of theirs come about? He explains: because their Rodasī (the consort), with a mind bent on raining and so on, and haughty (the haughtiness being that she is never other than a benefactor of the world), is ever-enduring; चित् (*cit*) is in the sense of honour; she is utterly imperishable, a goddess of this kind. The people endowed with good fortune, productive by nature (or the productions of rain) …
+
+### Printed p. 98
+
+> शोभनभाग्योपेताः जनीर्जननशिलाः प्रजा वृष्टुत्पत्तीर्वा वहते धारयति । वृष्टा
+> सत्यां सर्वे प्राणिन उत्पद्यंते । यस्मादेवं तस्मान्महिमास्ति । तं महिमानं
+> सौमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+… she upholds: when rain exists all beings are born. Since it is so, the greatness exists; that greatness I praise, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—by the greatness of which Maruts
+- वृषमणाः (*vṛṣamaṇāḥ*)—she who has a rain-shedding mind
+- अहंयुः (*ahaṃyuḥ*)—the haughty one
+- स्थिरा चित् (*sthirā cit*)—the eternal one
+- ईं (*īṃ*)—the lightning goddess named Rodasī, belonging to these Maruts
+- सुभागाः (*subhāgāḥ*)—those endowed with auspicious fortune
+- जनीः (*janīḥ*)—the progeny, productive by nature; [or सुभागाः (*subhāgāḥ*)—the cause of auspicious fortune; जनीः (*janīḥ*)—the rain, productive by nature]
+- सचा वहते (*sacā vahate*)—she fully upholds
+- एषां (*eṣāṃ*)—of such
+- मरुतां (*marutāṃ*)—Maruts
+- यः (*yaḥ*)—which
+- महिमा (*mahimā*)—(greatness) majesty
+- वक्म्यः (*vakmyaḥ*)—to be praised by all
+- सत्यः (*satyaḥ*)—unobstructable (unfailing)
+- अस्ति (*asti*)—is
+- तं (*taṃ*)—that majesty
+- प्र निवक्कि (*pra nivakki*)—I describe well
+
+##### भावार्थ (Bhāvārtha)
+
+I describe well the great majesty of the Maruts, which is true and praiseworthy. Rodasī, the consort of the Maruts (the lightning goddess), whose mind is bent on producing rain, who is haughty (as being a benefactor of the world) and eternal, by this very great majesty of theirs sustains, by producing rain, the fortunate and productive people.
+
+##### English translation (H. H. Wilson)
+I celebrate that greatness of the Maruts, which is true, and worthy of celebration, inasmuch as their highminded, haughty, and ever-enduring (bride), supports a flourishing progeny.
+
+##### विशेषविषयगळु (Special Topics)
+
+महिमा वक्त्यः-महत्वातिशयः सर्वैः स्तुत्यः (*mahimā vaktyaḥ-mahatvātiśayaḥ sarvaiḥ stutyaḥ*): the abundant greatness of these Maruts is to be praised by all. And since it is सत्यः-अबाध्यः अमोघः (*satyaḥ-abādhyaḥ amoghaḥ*), that is, incapable of being obstructed by anyone and not in vain, the seer of the mantra has described it, saying "I describe this greatness."
+
+ईं वृषमणाः अहंयुः जनीः वहते (*īṃ vṛṣamaṇāḥ ahaṃyuḥ janīḥ vahate*)—एतेषां संबंधिनी रोदसी वृष्ट्यादि वर्षणमनस्का अहंकारवती जगदुपकारकर्त्रि जननशीलाः प्रजाः वृष्टुत्पत्तीर्वा धारयति (*eteṣāṃ saṃbaṃdhinī rodasī vṛṣṭyādi varṣaṇamanaskā ahaṃkāravatī jagadupakārakartri jananaśīlāḥ prajāḥ vṛṣṭutpattīrvā dhārayati*). The goddess belonging to these Maruts (the goddess famed by the name Rodasī)
+
+### Printed p. 99
+has a mind attached to pouring rain; she has a sense of self-importance in doing good to the world; ever worthy of worship, she upholds the people, who are of a nature to be born. Or, since when rain occurs all beings are born, she causes rain to be produced and upholds all. Therefore, since the greatness of the Maruts is manifested through this goddess, it is said here that the greatness of these Maruts is described.
+
+स्थिराचित्—चिदिति पूजायां । अत्यंतमविनश्वरा (*sthirācit—ciditi pūjāyāṃ | atyaṃtamavinaśvarā*). Yāska, saying that the particle चित् (*cit*) is used in many kinds of meaning (चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*)), gives examples: in आचार्यश्चिदिदं ब्रूयादिति पूजायां, दधिचिदित्युपमार्थे, कुल्माषांश्चिदाहरेत्यवकुत्सिते (*ācāryaścididaṃ brūyāditi pūjāyāṃ, dadhicidityupamārthe, kulmāṣāṃścidāharetyavakutsite*) it is used in the sense of honour in the sentence "आचार्यश्चिद् (*ācāryaścid*)", in the sense of comparison in "dadhicit", and in the sense of reproach in "कुल्माषांश्चिद् (*kulmāṣāṃścid*)", and he explains the meaning. Here Sāyaṇa takes it in the sense of honour, and by describing the goddess Rodasī as venerable and imperishable, he describes the surpassing greatness of the Maruts through the greatness of that goddess.
+
+##### Grammar
+
+- विवक्कि—वच परिभाषणे धातुः । लट् उत्तमपुरुषैकवचने मिप् प्रत्ययः । बहुलं छंदसि इति श्लु विकरणम् । धातोः द्वित्वे आगते बहुलं छंदसि (पा. सू. ७-४-७८) इति अभ्यासस्य इत्वम् । छांदसत्वात् धातुचकारस्य कुत्वम् । तिजंतनिघातस्वरः भवति ।
+- महिमा—मह शब्दात् अतिशयार्थे इवनिच् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तः भवति ।
+- अस्ति—यद्योगत्वात् निघातस्वरः न भवति । तिप् पित्त्वात् धातुस्वरः अवतिष्ठते ।
+- वृषमनाः—बहुव्रीहिसमासः । पूर्वपदप्रकृतिस्वरः भवति ।
+- अहंयुः—अहं इति मांतमव्ययम् । अहंकारार्थे प्रयुक्तम् । अहं शुभमोर्युस् (पा. सू. ५_२-४०) इति मत्त्वर्थे युस् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- स्थिरा—ष्ठा गतिनिवृत्तौ धातुः । अजिर शिशिर—(उ. सू. १-५३) इति किरच् प्रत्ययांततया निपातितम् । स्त्रीत्वे आदंतत्वात् टाप् । चित्त्वात् अंतोदात्तस्वरः भवति ।
+
+### Printed p. 100
+- जनीः—जन्यंते आसु इति जनयः, स्त्रियः । जनी प्रादुर्भावे धातुः । इन् सर्वधातुभ्यः इति इन्‌प्रत्ययः । इत्यादिर्नित्यं (पा. सू. ६-१-१६९) इति आद्युदात्तस्वरः भवति । द्वितीयाबहुवचनांतरूपम् ।
+- वहते—वह प्रापणे धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । यद्योगत्वात् निघातस्वरः न भवति । तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवतिष्ठते ।
+- सुभागाः—शोभनः भागः यासां ताः । नञ् सुभ्यां (पा. सू. ६-२-१७२) इति अंतोदात्तस्वरः भवति । ॥ ७ ॥
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पांति॑ मि॒त्रावरु॑णावव॒द्याच्चय॑त ईमर्य॒मो अप्र॑शस्तान् ।  
+> उ॒त च्य॑वंते॒ अच्यु॑ता ध्रु॒वाणि॑ वावृ॒ध ईं॑ मरुतो॒ दाति॑वारः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पांति । मित्रावरुणौ । अवद्यात् । चयते । ईं । अर्यमो इति । अप्रशस्तान् ।  
+> उत । च्यवंते । अच्युता । ध्रुवाणि । ववृधे । ईं । मरुतः । दातिवारः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः युष्मत्संबंधिनो देवा मित्रावरुणावहोरात्र्यभिमानिदेवावर्यमो । अर्यमा उ इति निपातसमुदायात्मकमेकं पदं । उशब्दोऽपिशब्दार्थे । अर्यमापि । एते त्रयोऽपीममुं लोकं यज्ञं नावद्याद्गह्र्यादयथानुष्ठानात् । जगत्पक्षे व्यवहारप्रतिबंधरूपात् पांति । रक्षंति । तथैतेषामप्रशस्तान् क्षीणानामपि पदार्थांश्चयते । चातयंति । नाशयंति । उतापि चैतैः
+> प्रेरितान्यच्युताच्युतान्यस्राविणि आत एवध्रुवाण्यविचलानि मेघस्थोदकानि च्यवंते ।
+> च्यावयंति वैते । अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो
+> वर्षतीति श्रुतेः । यद्वा । अच्युतानि ध्रुवाणि धनानि च्यवंते । कदेति उच्यते ।
+
+##### Gist of the bhāṣya
+
+O Maruts, the gods connected with you, Mitra and Varuṇa, the deities presiding over day and night, and Aryaman (अर्यमो (*aryamo*) is one word made of the particles अर्यमा उ (*aryamā u*); उ (*u*) has the sense of "also") — all three protect this world, the sacrifice, from what is blameworthy, that is, from improper performance; in the case of the world, from what obstructs worldly activity. Likewise they destroy (चयते (*cayate*) = चातयंति (*cātayaṃti*), नाशयंति (*nāśayaṃti*)) even the unpraiseworthy, wasted things of these. And also, moved by them, they cause the unfallen, that is, non-flowing and therefore firm, motionless waters in the cloud to fall; or they cause them to fall. Because of the śruti अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षतीति (*ahorātre vai mitrāvaruṇāvahorātrābhyāṃ khalu vai parjanyo varṣatīti*) (Mitra and Varuṇa are day and night; through day and night Parjanya rains). Or else: the unfallen, firm riches fall. When is this said?
+
+### Printed p. 101
+
+> हे मरुतः युष्मदीय ईमयं कालो दातिवारः प्रदेयजलः खंडितमेघो
+> ना यदा ववृधे वर्धते । तदा मित्रादयो देवा युष्मदनुकूलव्यापारेण
+> जगद्रक्षंतीत्यर्थः । यद्वा । दातिवारो दत्तवरणीयहविर्लक्षणधनो यजमानो
+> हे मरुतः ईमेनान्युष्मान्ववृधे वर्धयति यदा तदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, when this time of yours, the water-giving one, with the cloud broken, increases — then Mitra and the other gods protect the world by activity favourable to you, is the meaning. Or else: when the sacrificer, दातिवारः (*dātivāraḥ*), who has given the desirable wealth in the form of oblation, increases you, O Maruts, then (the same follows), is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts
+- *(yadā)*—when
+- ईं (*īṃ*)—this time
+- दातिवारः (*dātivāraḥ*)—as one possessing water to be given, or a broken cloud
+- ववृधे (*vavṛdhe*)—grows; [or दातिवारः (*dātivāraḥ*)—the sacrificer endowed with wealth in the form of oblation, given (to you) and chosen (by you); ईं (*īṃ*)—you; ववृधे (*vavṛdhe*)—he increases]
+- (तदा (*tadā*)—then)
+- मित्रावरुणौ (*mitrāvaruṇau*)—Mitra and Varuṇa
+- अर्यमो (*aryamo*)—Aryaman also
+- ईं (*īṃ*)—this world or the sacrifice
+- अवद्यात् (*avadyāt*)—from everything blameworthy
+- पांति (*pāṃti*)—protect
+- (तथा (*tathā*)—likewise)
+- अप्रशस्तान् (*apraśastān*)—all unworthy things
+- चयते (*cayate*)—they destroy
+- उत (*uta*)—and
+- अच्युता (*acyutā*)—not raining (and therefore)
+- ध्रुवाणि (*dhruvāṇi*)—motionless waters in the clouds
+- च्यवंते (*cyavaṃte*)—they shed; [or अच्युता (*acyutā*)—without fall (and therefore); ध्रुवाणि (*dhruvāṇi*)—firm riches; च्यवंते (*cyavaṃte*)—they rain down]
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when the sacrificer, offering oblations and so on, increases you, your Mitra, Varuṇa and Aryaman protect our sacrifice from all faults, destroy everything unworthy, and bestow wealth and the like that is without fall and firm (in this world, destroying all wasted things, they shed the waters in the non-raining clouds and show favour).
+
+##### English translation (H. H. Wilson)
+Mitra, and Varuna, and Aryaman, defend (this) sacrifice from (all that is) reprehensible, and destroy (all that are) unworthy. They cause the yet unfallen and showering (rains) to descend, when, Maruts, the water-yielding (season) gives increase to this (world).
+
+##### विशेषविषयगळु (Special Topics)
+
+मित्रावरुण् आर्यनो ईं अवद्यात् पांति—अहोरात्र्यभिमानिदेवौ आर्यमापि एते त्रयः अमुं लोकं यज्ञं वा आयथानुष्ठानात् जगत्पक्षे (*mitrāvaruṇ āryano īṃ avadyāt pāṃti—ahorātryabhimānidevau āryamāpi ete trayaḥ amuṃ lokaṃ yajñaṃ vā āyathānuṣṭhānāt jagatpakṣe*)
+
+### Printed p. 102
+व्यवहारप्रतिबंधरूपात् रक्षंति (*vyavahārapratibaṃdharūpāt rakṣaṃti*). Yāska says that Mitra and Varuṇa, both together, have a joint praise (सहैव संस्तवः (*sahaiva saṃstavaḥ*)), a praise in one sentence. Here Mitra and Varuṇa are described as deities connected with the Maruts. These two together with the god Aryaman, three deities, protect this world and the sacrifice. Sāyaṇa explains that they protect so that there is no shortcoming of duty in the sacrifice, no deviation in duty, and no obstruction whatever in the world's activity. And he says that these two are the deities presiding over day and night.
+
+अप्रशस्ता चयते - क्षीणानपि पदार्थान् चातॆयंति नाशयंति (*apraśastā cayate - kṣīṇānapi padārthān cātèyaṃti nāśayaṃti*). Since Mitra and Varuṇa preside over day and night, they bring about change of form in each thing according to time, so that these things come to destruction; this is the meaning given. Thus the power of acting as creators and destroyers is set out for Mitra and Varuṇa, presiding over day and night.
+
+By the sentence अच्युता ध्रुवाणि च्यवंते (*acyutā dhruvāṇi cyavaṃte*) it is said that they also bring about maintenance. अच्युतानि (*acyutāni*) is explained as अस्रावीणि (*asrāvīṇi*): having attained a dense state and being liquid in form; being condensed they are ध्रुवाणि (*dhruvāṇi*), motionless; the waters in the cloud, these cause च्यावयंति (*cyāvayaṃti*) to fall on the earth as rain: this is one kind of meaning. यद्वा अच्युतानि ध्रुवाणि धनानि च्यवंते (*yadvā acyutāni dhruvāṇi dhanāni cyavaṃte*): they bestow imperishable wealth (on the earth) and bring about the carrying on of worldly activity; thus creation, maintenance and dissolution belong to Mitra and Varuṇa, presiding over day and night: this is another meaning described. Mitra and Varuṇa exist in the form of day and night, and rain occurs in day and night; on this point the śruti sentence “अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षति (*ahorātre vai mitrāvaruṇāvahorātrābhyāṃ khalu vai parjanyo varṣati*)” is cited.
+
+Addressing the Maruts, the time at which these Mitra and other deities perform the world's creative works is set out. The sentence ईं दातिवारः ववृधे (*īṃ dātivāraḥ vavṛdhe*) teaches the time of favour of Mitra and the others. For the particle ईं (*īṃ*) the meaning "this time" is explained here. For the word दातिवार (*dātivāra*): खंडितमेघः प्रदेयजलः (*khaṃḍitameghaḥ pradeyajalaḥ*), when the time in which the water takes on the manner of raining, with density in the clouds reduced, has increased; and दत्तवरणीयहविर्लक्षणधनो यजमानः (*dattavaraṇīyahavirlakṣaṇadhano yajamānaḥ*) (offering oblations to the gods), the sacrificer who performs the sacrifice with wealth in the form of oblation desired by the gods: in accordance with the time of his offering for the gods, Mitra and the other gods, being favourable to the works to be performed by the Maruts, accomplish and protect the activities of the world; so it is described.
+
 ---
 
-**Progress note:** Done through printed p. 96. pp. 91-96 (batch API)
+**Progress note:** Done through printed p. 102. pp. 97-102 (batch API)
