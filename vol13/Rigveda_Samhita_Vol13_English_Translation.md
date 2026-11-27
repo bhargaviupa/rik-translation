@@ -11093,6 +11093,148 @@ in Ṛks of this kind the sense is "praisers" (स्तोतारः (*stotā
 
 This Indra, with the men (नृभिः (*nṛbhiḥ*)), the sacrificers who carry out the rite, is the one who devours greatly (प्रखादः (*prakhādaḥ*)) the food in the form of oblation given by them **NOTE**; as before, so now (एव (*eva*)), he overcomes (*abhi bhūt*) the enemies even of a sacrificer who has friends (मित्रिणः (*mitriṇaḥ*)). Or else: accompanied by the Maruts, the leaders of the rain (नृभिः (*nṛbhiḥ*)), being an eater of great devouring, in just this way, for the sacrificer who has friends in the form of priests, he becomes (favourable) for his desired end; अभि (*abhi*) is without meaning of its own; or he becomes facing him: accepting his oblation he becomes favourable to his wish. Then, being such, in the *samarya* (battle, full of various mutual calls and sounds of praise and weapons; or the sacrifice attended by mortals) he, as praiser (शंसः (*śaṃsaḥ*)) of the sacrificer, the maker of true fruits (सत्राकरः (*satrākaraḥ*)), Indra, praises (स्तवते (*stavate*), स्तौति (*stauti*)) the food in the form of oblation. **NOTE**
 
+### Printed p. 463
+#### Ṛk 4 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- नृभिः (*nṛbhiḥ*)—given by the sacrificers, the performers of the rite
+- पृक्षः (*pṛkṣaḥ*)—the food in the form of the oblation
+- सुत्रवस्या (*sutravasyā*)—desiring good food, or through desire for food
+- प्रखाहः (*prakhāhaḥ*)—one who eats well (he becomes)
+- एव (*eva*)—in just this way
+- मित्रिणः (*mitriṇaḥ*)—even though (the sacrificer) is provided with helpers, (his enemies)
+- अभि भूत् (*abhi bhūt*)—he defeats; [or नृभिः (*nṛbhiḥ*)—accompanied by the Marut deities, the leaders of the rain; इंद्रः (*iṃdraḥ*)—this Indra; सुत्रवस्या (*sutravasyā*)—through desire for auspicious food; पृक्षः (*pṛkṣaḥ*)—the food in the form of the oblation; प्रखाहः (*prakhāhaḥ*)—having eaten well; एव (*eva*)—likewise; मित्रिणः (*mitriṇaḥ*)—of the sacrificer who has friends in the form of the priests (for his desired aim); अभि भूत् (*abhi bhūt*)—he becomes (thereafter)]
+- विवाचि (*vivāci*)—in the one with various mutual calls
+- समर्यॆ (*samaryè*)—in battle [or विवाचि (*vivāci*)—with the sound of various hymns and recitations; समर्यॆ (*samaryè*)—in the sacrifice accompanied by men]
+- यजमानस्य (*yajamānasya*)—of the sacrificer
+- तंसः (*taṃsaḥ*)—the praiser
+- सत्राकरः (*satrākaraḥ*)—who makes the fruits true
+- इंद्रः (*iṃdraḥ*)—Indra
+- इषः (*iṣaḥ*)—the food in the form of the oblation
+- स्तवते (*stavate*)—praises
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra, desiring good food, eats abundantly the food in the form of oblations given by the sacrificers, and becomes the giver of the desired aim to the sacrificer together with his priests and others. In the sacrifice, marked by the various sounds of hymns and the like, he praises the sacrificer and praises the food, oblations and so on given by him.
+
+##### English translation (H. H. Wilson)
+Verily, Indra, through desire of (sacrificial) food, is the devourer (of that which is presented) by (his) worshippers, and overcomes (the adversaries) of his friend : in the many-voiced assembly (of men), Indra, the faithful (performer of his promise), commeding (the piety) of his worshipper, approves of the (offered) food.
+
+##### विशेषविषयगळु (Special Topics)
+
+समर‍्य (*samarya*)—Sāyaṇa explains the word समर‍्य (*samarya*) as "in a sacrifice accompanied by mortals". Ordinarily the word समर‍्य (*samarya*) is read among the names of battle (Ni. 3.9) and so is understood as war. "मर्याः (*maryāḥ*) are men; that which exists together with them is समर‍्यः (*samaryaḥ*), battle." Because men always gather in a crowd in battle, it is called समर‍्य (*samarya*). When it stands with a word meaning victory, such as समर‍्यजित् (*samaryajit*), समर‍्य (*samarya*) necessarily means battle. But where the word समर‍्य (*samarya*) stands alone, the meaning "war" need not be fixed. Being together with mortals (men) is true not only of the battlefield; it can be true of a sacrifice too. For example—
+
+### Printed p. 464
+यो नां यज्ञो नासत्या हविष्मास्कृतब्रह्मा समर्यो ३ भवाति । (*yo nāṃ yajño nāsatyā haviṣmāskṛtabrahmā samaryo 3 bhavāti |*) (Ṛ. Saṃ. 7-20-6)
+In this Ṛk the meaning is: the sacrificer, the performer of the sacrifice, accompanied by mortals in the form of priests. In the present Ṛk also, in the same way, he has explained it as a sacrifice accompanied by mortals. In common usage, however, the word समर‍्य (*samarya*) is mostly a synonym of battle. He has shown that in the present Ṛk too there is room for that meaning. How? When one says विवाचि समरै (*vivāci samarai*), if समरै (*samarai*) is taken in the sense of battle, then the epithet विवाचि (*vivāci*) means विविधपरस्पराह्वानध्वनियुक्ते (*vividhaparasparāhvānadhvaniyukte*), that is, having the sound of calls for mutual help; and if समरै (*samarai*) is explained as यज्ञे (*yajñe*), then विवाचि (*vivāci*) means विविधस्तोत्रशस्त्रध्वनियुक्ते (*vividhastotraśastradhvaniyukte*), that is, filled with the sounds of many kinds of hymns and the like. The meaning of मित्रिणः अभिभूत् (*mitriṇaḥ abhibhūt*) must also be stated in accordance with this. In the sense of battle: मित्रिणः सहायवतः अपि (यजमानस्य) शत्रून् अभिभवति (*mitriṇaḥ sahāyavataḥ api (yajamānasya) śatrūn abhibhavati*)—he can defeat the sacrificer's enemies even though they have many friends in battle; and in the sense of sacrifice, he becomes the helper of the sacrificer who is accompanied by friends such as the priests of many kinds.
+सत्राकरः (*satrākaraḥ*)—The word सत्रा (*satrā*) is read among the names of truth (Ni. 3-13). सत्राजित् (*satrājit*) and सत्रासह (*satrāsaha*) also show the truth of the deed or of the fruit. In some places the word सत्रा (*satrā*) is also said to mean "always". For example—
+तुविग्रये वह्नये दुष्परीतवे सत्रासाहे नम इंद्राय वोचत । (*tuvigraye vahnaye duṣparītave satrāsāhe nama iṃdrāya vocata |*) (Ṛ. Saṃ. 2-21-2)
+In Ṛks like this it is explained as सर्वदा अभिभवित्रे (*sarvadā abhibhavitre*) or महतः अभिभवित्रे (*mahataḥ abhibhavitre*). Even when one says "always", since the enemy is subdued invariably and without failing even once, here too the sense is truth.
+
+##### Grammar
+
+- एवा—निपातस्यच (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- सुप्रवस्या—सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति आत्मेच्छायां क्यच् । अप्रत्ययात् (पा. सू. ३-३-१०२) इति क्यजंतात् अप्रत्ययः । कृदुत्तरपद प्रकृतिस्वरो भवति । स्त्रीत्वे अदंतत्वात् टाप् । तृतीया एकवचने परे सुपां सुलुक्— (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः ।
+
+### Printed p. 465
+- प्रखापः—खादृ भक्षणे धातुः । नंदिग्रह पचादिभ्यो— (पा. सू. ३-१-१३४) इति कर्तरि अच् प्रत्ययः । चित्त्वाद् अंतोदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपद प्रकृतिस्वरो भवति ।
+- मित्रिणः—मित्रमस्य आस्ति इति मित्री । तस्य मित्रिणः । आत इनिरनौ इति मत्वर्थे इनि प्रत्ययः । षष्ठी एकवचनांतरूपम् । प्रत्ययस्वरेण इकार उदात्तो भवति ।
+- समर्यॆ—मृज् प्राणत्यागे धातुः । छंदसिनिष्टर्क्य देवहूय— (पा: सू. ३-१-१२३) इति यदंतत्वेन निपातितम् । समासे कृदुत्तरपद प्रकृतिस्वरो भवति ।
+- स्तवते—ष्टुञ् स्तुतौ धातुः । लट् प्रथमपुरुष एकवचने त प्रत्ययः । टेः एत्वम् । छांदसत्वेन शपि लुक् न भवति । तं निमित्तीकृत्य उकारस्य गुणः । अवादेशः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- विवाचि—विविधाः वाचः यस्मिन् । तस्मिन् । बहुव्रीह प्रकृत्यापूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+- सत्राकरः—डुकृञ् करणे धातुः । पचादिनिबंधनो अच् प्रत्ययः । तं निमित्तीकृत्य ऋकारस्य गुणः । शेष षष्ठी समासः । कृदुत्तरपद प्रकृतिस्वरो भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ व॒यं म॑घवन्निंद्र॒ शत्रू॑न॒भि ष्या॑म मह॒तो मान्य॑मानान् ।  
+> त्वं त्रा॒ता त्वमु॑ नो वृ॒धे भू॑र्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । वयं । मघवन् । इंद्र । शत्रून् । अभि । स्याम । महतः । मन्यमानान् ।  
+> त्वं । त्राता । त्वं । ऊं इति । नः । वृधे । भूः । विद्याम । इषं । वृजनं । जीरदानुं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्थनवन्निंद्र त्वया सहायेन वयं यजमाना महतो मन्यमानानतिबलानवध्यान्मन्यमानाञ्छत्रूनभि ष्याम । अभिभवितारो भवेम । हे इंद्र
+> XIII 30
+
+##### Gist of the bhāṣya
+
+O Indra, possessor of wealth (मघवन् (*maghavan*)), with you as helper, we sacrificers would overcome the enemies who are thought mighty, that is, regarded as very strong and unslayable; we would become their conquerors. O Indra,
+
+### Printed p. 466
+
+> त्वं त्राता त्वमेवास्माकं रक्षकः । अतस्त्वमु त्वमेव नोऽस्माकं वृधे धनादिवर्धनाय भूः । भव । विद्यामेत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+You alone are our protector. Therefore you yourself, for our increase, that is, for the growth of wealth and the like, be (भूः (*bhūḥ*), "become"). He says विद्याम (*vidyāma*) and the rest have been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—possessor of wealth
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- त्वया (*tvayā*)—we who are joined with you, the helper
+- वयं (*vayaṃ*)—we, the performers of the sacrifice
+- महतः मन्यमानान् (*mahataḥ manyamānān*)—who are thought very mighty
+- शत्रून् (*śatrūn*)—enemies
+- अभिष्याम (*abhiṣyāma*)—we shall become the conquerors
+- हे इंद्र (*he iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- त्राता (*trātā*)—protector [of us]; [therefore] त्वं उ (*tvaṃ u*)—you yourself
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for the increase of wealth and the like
+- भूः (*bhūḥ*)—be
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—let us obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, you are our protector; by your help alone we defeated even our enemies, whom we had thought exceedingly mighty and unslayable. Grant us prosperity in wealth and the like, and food, strength and long life.
+
+##### English translation (H. H. Wilson)
+By you, opulent Indra, may we overcome our mighty and formable enemies : you are our protector : may you be propitious to our prosperity, that we may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+मघवन् (*maghavan*)—The word मघ (*magha*) is read among the names of wealth (Ni. 3-9). The etymology of this word by the Nirukta author is as follows.
+“मघमिति धननामधेयं मंहतेर्दानकर्मणः” (*“maghamiti dhananāmadheyaṃ maṃhaterdānakarmaṇaḥ”*) (Ni. 1-7)
+Explaining that the word मघ (*magha*) is formed from the root मंह् (*maṃh*), meaning giving, and gives the sense of wealth, the Nirukta author cites the Ṛk of the Ṛksaṃhitā—
+नूनं सा ते प्रति वरं जरित्रे दुहीयादिंद्र दक्षिणा मघोनी । शिक्षा स्तोतृभ्यो माति धग् भगो नो बृहद्वदेम विदथे सुवीराः । (*nūnaṃ sā te prati varaṃ jaritre duhīyādiṃdra dakṣiṇā maghonī | śikṣā stotṛbhyo māti dhag bhago no bṛhadvadema vidathe suvīrāḥ |*) (Ṛ. Saṃ. 2-11-21)
+and thereby makes known the meaning of the word मघोनी (*maghonī*). In the same way, in the present Ṛk it is an epithet of Indra. Because he possesses मघ (*magha*), मघवा (*maghavā*) is a synonym of Indra. Moreover, it would not be wrong to say that मघवा (*maghavā*) means Indra joined with Viṣṇu. Since Indra gets Viṣṇu's help when fighting the asuras and others, and since the name मख (*makha*) is well known for Viṣṇu, there is scriptural authority for stating this meaning in such contexts. How?
+
+### Printed p. 467
+स उ एव मखः स विष्णुः । तत इंद्रो मखवानभवन्मखवान्ह वै तं मघवा नित्याचक्षते परोक्षं परोक्षकामा हि देवाः । (*sa u eva makhaḥ sa viṣṇuḥ | tata iṃdro makhavānabhavanmakhavānha vai taṃ maghavā nityācakṣate parokṣaṃ parokṣakāmā hi devāḥ |*) (Śa. Brā. 14-1-1-13)
+The Śatapatha Brāhmaṇa explains the word *maghavat* thus: because Makha is Viṣṇu, and Indra became possessed of such a Makha, the gods, who love the indirect, call Indra, possessed of such a Makha, मघवा (*maghavā*). Moreover,
+इंद्राविष्णू द्यंहिताः तंबरस्य नव पुरो नवतिं च त्थधिष्टं । (*iṃdrāviṣṇū dyaṃhitāḥ taṃbarasya nava puro navatiṃ ca tthadhiṣṭaṃ |*) (Ṛ. Saṃ. 7-99-5)
+In Ṛks like this it is described that Indra, joined with Viṣṇu, slew the asuras; and because he is joined with such a Viṣṇu, the epithet मघना (*maghanā*) is applied. **NOTE**
+
+##### Grammar
+
+- स्याम—अस भुवि धातुः । लज् उत्तमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरो भवति । पूर्वस्मिन् अभि इति उपसर्गत्वात् उपसर्गप्रादुर्भ्यामस्तिर्यच् परः (पा. सू. ८-३-८६) इति आदिसकारस्य षत्वं भवति ।
+- महतः—बृहन्महतोरुपसंख्यानम् इति विभक्तेः उदात्तस्वरो भवति ।
+- मन्यमानान्—मनु अवबोधने धातुः । लटः शानचादेशः । श्यन् विकरणम् । आनेमुक् इति मुकागमः । लसार्वधातुकस्य अनुदात्तत्वात् श्यन् नित्त्वात् इत्यादिर्नित्यम् इति आद्युदात्तस्वरो भवति ।
+- त्राता—त्रैज् पालने धातुः । कर्तरि तृच् प्रत्ययः । अदे च उपदेशेशिति (पा. सू. ६-१ ४५) इति धातोरात्वम् । चितः इति अंतोदात्तस्वरो भवति ।
+- वृधे—वृधु वर्धने धातुः । क्विप् प्रत्ययः । चतुर्थी एकवचनांतरूपम् । सावेकाचस्कृतीयादिः (पा सू ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+- भूः—भू सत्तायां धातुः । छांदसत्वेन लोडर्थे लुज् । मध्यमपुरुष एकवचनांतरूपम् । छांदसत्वेन आडागमो न भवति ।
+
+### Printed p. 468
+## Sūkta 179 (Maṇḍala 1)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्वीर॒हं श॒रदः॑ शश्रमा॒णा दो॒षा वस्तो॑रु॒षसो॑ ज॒रयं॑तीः ।  
+> मि॒नाति॒ श्रियं॑ जरि॒मा त॒नूना॒मप्यू॒ नु पत्नी॒र्वृष॑णो जगम्युः ॥
+
 ---
 
-**Progress note:** Done through printed p. 462. pp. 457-462 (batch API)
+**Progress note:** Done through printed p. 468. pp. 463-468 (batch API)
