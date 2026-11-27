@@ -12582,6 +12582,154 @@ The meaning of the word पुरंधि (*puraṃdhi*) is "one possessed of a
 आदाय श्येनो अभरत्सोमं सहस्रं सना अयुकतं च साकं । अत्रा पुरंधिरजहा दरातीर्मदे सोमस्य मूरा अमूराः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ sanā ayukataṃ ca sākaṃ | atrā puraṃdhirajahā darātīrmade somasya mūrā amūrāḥ ‖*)
 (Ṛ. Saṃ. 4-26-7)
 
+### Printed p. 529
+
+##### विशेषविषयगळु (Special Topics)
+
+For the word in the Ṛk (quoted just before), Durgācārya (Ni. 11-2) gives the meaning पुरंधिः बहुधनस्य दाता (*puraṃdhiḥ bahudhanasya dātā*), that is, one who gives wealth in great abundance; Sāyaṇa explains it as बहुकर्मा (*bahukarmā*). Here the word is an epithet of Indra. The sense is "generous".
+
+नृधूतो अद्रिषुतो बर्हिषि प्रियः पतिर्गवां प्रदिव इंदुर्युत्वियः । पुरंधिवान्मनुषो यज्ञसाधनः शुचिर्थिया पवते सोम इंद्र ते ॥ (*nṛdhūto adriṣuto barhiṣi priyaḥ patirgavāṃ pradiva iṃduryutviyaḥ | puraṃdhivānmanuṣo yajñasādhanaḥ śucirthiyā pavate soma iṃdra te ‖*)
+(Ṛ. Saṃ. 9-72-4)
+In this Ṛk the word is explained as बहुकर्मवान् मनुष्यः (*bahukarmavān manuṣyaḥ*): a man with many kinds of rites for the satisfaction of the gods, that is, a man who performs rites. And further:
+
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापः समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥ (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpaḥ samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*)
+(Ṛ. Saṃ. 10-65-13)
+In this Ṛk the author of the Nirukta (Ni. 12-30) explains the word as पुरंध्या स्तुत्या प्रयुक्तानि (*puraṃdhyā stutyā prayuktāni*): "words (vacāṃsi) accompanied by manifold praises". Sāyaṇa has told us that it is an epithet of Sarasvatī: बहुविधया प्रज्ञया सहिता सरस्वती (*bahuvidhayā prajñayā sahitā sarasvatī*), Sarasvatī endowed with manifold wisdom. But from Durgācārya's explanation (Ni. 12-30) बहुधात्रा; माध्यमिकया वाचा (*bahudhātrā; mādhyamikayā vācā*) it is understood that the word पुरंधि (*puraṃdhi*) denotes a particular deity similar to Sarasvatī. In the same way,
+
+शं नो भगः शमु नः शंसो अस्तु शं नः पुरंधिः शमु संतु रायः । शं नः सत्यस्य सुयमस्य शंसः शं नो आर्यमा पुरुजातो अस्तु ॥ (*śaṃ no bhagaḥ śamu naḥ śaṃso astu śaṃ naḥ puraṃdhiḥ śamu saṃtu rāyaḥ | śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no āryamā purujāto astu ‖*)
+(Ṛ. Saṃ. 7-35-2)
+in Ṛks like this it is understood that Purandhi is a separate deity by herself. Sāyaṇa too has not made it an epithet of Bhaga and the other words in this Ṛk. And,
+
+देवो भगः सविता रायो अंश इंद्रो वृत्रस्य संजितो धनानां । ऋभुक्षा वाज उत वा पुरंधिरवंतु नो अमृतासस्तुरासः ॥ (*devo bhagaḥ savitā rāyo aṃśa iṃdro vṛtrasya saṃjito dhanānāṃ | ṛbhukṣā vāja uta vā puraṃdhiravaṃtu no amṛtāsasturāsaḥ ‖*)
+(Ṛ. Saṃ. 5-42-5)
+here the word is a synonym for Vibhvan.
+
+पुराणी देवि युवतिः पुरंधिरनु व्रतं विश्ववारे (*purāṇī devi yuvatiḥ puraṃdhiranu vrataṃ viśvavāre*)
+(Ṛ. Saṃ. 3-61-1)
+In such places it is an epithet of Uṣas; the sense is "possessed of many praises". Likewise in many places this word is used of a wife and of women in general, and gives the meaning: women who are not barren, who are fit to bear offspring and are well nourished.
+
+### Printed p. 530
+अग्निः सप्तिं वाजंभरं ददात्यग्निर्वीरं श्रुत्यं कर्मनिष्ठां । अग्नी रोदसी वि चरत्समंजन्नग्निर्नारीं वीरकुक्षिं पुरंधिं ॥ (*agniḥ saptiṃ vājaṃbharaṃ dadātyagnirvīraṃ śrutyaṃ karmaniṣṭhāṃ | agnī rodasī vi caratsamaṃjannagnirnārīṃ vīrakukṣiṃ puraṃdhiṃ ‖*)
+(Ṛ. Saṃ. 10-80-1)
+In Ṛks such as this (Ṛ. Saṃ. 1-116-17; 1-117-19) it is understood as a wife capable of bearing children, and
+
+प्र बोधया पुरंधिं जार आ ससतीमिव । प्र चक्षय तोदसी वासयोषसः श्रवसे वासयोषसः ॥ (*pra bodhayā puraṃdhiṃ jāra ā sasatīmiva | pra cakṣaya todasī vāsayoṣasaḥ śravase vāsayoṣasaḥ ‖*)
+(Ṛ. Saṃ. 1-134-3)
+in Ṛks such as this as a woman fit for enjoyment. Thus, when manifold qualities are described, the word Purandhi indicates the abundance of those qualities and their rich fullness. In the present Ṛk, Sāyaṇa's commentary tells us, it is an adjective describing the quality of the Earth, which is full of wealth and prosperity and sustains the world.
+
+Sūri: स्तोता अयं यजमानः (*stotā ayaṃ yajamānaḥ*), "the sacrificer who is the praiser", shows that the sacrificer is himself a praiser. Since it is read among the thirteen names of praisers, such as रेभः (*rebhaḥ*), जरिता (*jaritā*), कारुः (*kāruḥ*) (Ni. 3-13), सूरयः (*sūrayaḥ*) means praisers, devotees who offer praise. In many places the word sūri is used in contexts that give the meaning "wise", "discerning", "intelligent". When it is used of the ṛṣis who possess the supernatural power of vision, both of the eye and of the mind, by which they grasp the true natures of the gods and the secret principles of the universe, this epithet gives a special meaning.
+
+तद्विष्णोः परमं पदं सदा पश्यंति सूरयः । दिवीव चक्षुराततं ॥ (*tadviṣṇoḥ paramaṃ padaṃ sadā paśyaṃti sūrayaḥ | divīva cakṣurātataṃ ‖*)
+(Ṛ. Saṃ. 1-22-20)
+In such contexts it denotes not merely those who praise but the extraordinary power of vision of the ṛṣis. And this word is used as an epithet not only of ṛṣis but also of gods such as Indra. For example,
+
+मंहिष्ठमच्छोक्तिर्भिर्मतीनां सुवृक्तिभिः सूरिं वावृथध्यै । (*maṃhiṣṭhamacchoktirbhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛthadhyai |*)
+(Ṛ. Saṃ. 1-61-3)
+in Ṛks such as this, with विपश्चितमिंद्रं (*vipaścitamiṃdraṃ*), it also shows the wisdom of gods such as Indra. Besides, the word sūri is also used when the meanings "lord", "impeller" and "leader on the good path" are indicated. For example:
+
+जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः । (*jano yaḥ pajrebhyo vājinīvānaśvāvato rathino mahyaṃ sūriḥ |*)
+(Ṛ. Saṃ. 1-122-8)
+
+### Printed p. 531
+असद्यथा जरित्र उत सूरिरिंद्रो रायो विश्ववारस्य दाता । (*asadyathā jaritra uta sūririṃdro rāyo viśvavārasya dātā |*)
+(Ṛ. Saṃ. 6-23-10)
+मुह्यंत्यन्ने अभिषेक जनान इहास्याकं मघवा सूरिरस्तु । (*muhyaṃtyanne abhiṣeka janāna ihāsyākaṃ maghavā sūrirastu |*)
+(Ṛ. Saṃ. 10-81-6)
+In these and similar contexts the epithet describes the quality of Indra and other gods, who are lords and leaders on the good path.
+
+आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव श्वेषथादीषते वयः । (*ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva śveṣathādīṣate vayaḥ |*)
+(Ṛ. Saṃ. 1-141-8)
+In places like this, very rarely, it also gives the meaning "path". In the present Ṛk the word is used in the sense of "praiser".
+
+##### Grammar
+
+- युवेथे — यु मिश्रणा मिश्रणयोः धातुः । व्यत्ययो बहुलं (पा. सू. ३-१-८५) इति मध्यमपुरुषद्विवचने आथाम् प्रत्ययः । टित आत्मने पदानां टेले (पा. सू. ३-४-७९) इति टेः एत्वम् । व्यत्ययेन श विकरणम् । अतो जातः (पा. सू. ७-२-८१) इति आकारस्य इयादेशः । लोपोव्यो— इति यकारलोपः । गुणः । अचित्सु धातुभ्रुवां— (पा. सू. ६-४-७७) इति उवजादेशः । यद्योगत्वात् निघातस्वरो न भवति । विकरणस्वरः अवशिष्यते ।
+- सृजथः — स्रज विसर्गे धातुः । मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- प्रेषत् — प्रीञ् तर्पणे कांतौ च धातुः । लेट् प्रथमपुरुषैकवचने तिष् । इतश्च लोपः इति इकारलोपः । लेटोडाट् (पा. सू. ३-४-९४) इति तस्य अडागमः । सिब्बहुलं लेटि (पा. सू. ३-१-३४) इति सिप् । तं निमित्तीकृत्य धातोः इकः गुणः । आदेश प्रत्यययोः इति सिपः षत्वम् । पादादित्वात् निघातस्वरो न भवति । प्रत्ययानां पित्त्वात् अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- वेषत् — वी गत्यादिषु धातुः । लेट् प्रथमपुरुषैकवचनांतरूपम् । पूर्ववत् कार्याणि भवंति । तिजंतस्य परत्वात् निघातस्वरो न भवति । धातुस्वरः अवशिष्यते ।
+- हडे — डुहाज् धाने धातुः । आच् उपसर्गसंबंधत्वात् अजोणास्यविवरणे— (पा. सू. १-३-२०) इति आत्मनेपदी भवति । प्रथमपुरुषैकवचने
+
+### Printed p. 532
+- त प्रत्ययः । टेः एत्वम् । श्लु विकरणम् । द्वित्वादि । लोपश्च आत्मनेपदेषु इति तकारलोपः । अथवा छांदसत्वेन लिट् । तिजंतनिघातस्वरो भवति ।
+- सुव्रतः — शोभनं व्रतं यस्य सः । नञ् सुध्याम्— (पा. सू. ६-२-१७) इति उत्तरपदांतोदात्तस्वरो भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं चि॒द्दि नां॑ जरि॒तारः॑ स॒त्या वि॑प॒न्याम॑हे॒ वि प॒णिर्हि॒ताना॑न् ।  
+> अधा॑ चि॒द्दि ष्मा॑श्विनावनिंद्या पा॒थो हि ष्मा॑ वृषणा॒वंति॑देवं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । चित् । हि । वां । जरितारः । सत्याः । विपन्यामहे । वि । पणिः । हित्यवान् ।  
+> अथ । जित् । हि । स्म । अश्विनौ । अनिंद्या । पाथः । हि । स्म । वृषणौ । अंतिऽदेवं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं चिद्धि वयमपि जरितारस्तव स्तोतारः सत्याः सत्यफलाः संतो विपन्यामहे । विविधं स्तुमः । पणिः पणाधारो द्रोणकलशो वि हितवान् स्थापितरसवानासीत् । यद्वा । पणिर्वणिग्लुब्धकोऽयष्टा हितवान्नियतधनो धनाध्योऽप्ययष्टा
+> वि । वियुज्यतां ॥ उपसर्गश्रुतेयोग्यक्रियाध्याहारः ॥ अधापि च चिद्धि ष्म । एते
+> त्रयः पूरणाः । हे अश्विनावनिंद्या । प्रशस्यनामैतत् । हे प्रशस्य वृषणौ हे
+> कामानां वर्षितार् युवामंतिदेवं देवानामंतिके पाथः । सोमं पिबथः ।
+> यद्वा । अंतिके वर्तमानं देवान्प्रापुवानं सोममिति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+वयं चिद्धि (*vayaṃ ciddhi*): "we also", जरितारः (*jaritāraḥ*), your praisers, being सत्याः (*satyāḥ*), "of true fruit", विपन्यामहे (*vipanyāmahe*), "we praise in various ways". पणिः (*paṇiḥ*) is the receptacle of the offering, the Droṇa-kalaśa vessel; वि हितवान् (*vi hitavān*) means that it has been set down with the Soma juice placed in it. Or else: पणिः (*paṇiḥ*) is a trader, a greedy man, a non-sacrificer; हितवान् (*hitavān*) is one whose wealth is fixed, or one who though rich is a non-sacrificer; वि (*vi*), "let him be separated" (dismissed). Because the preposition is heard, a suitable verb has to be supplied. चित् (*cit*), हि (*hi*) and स्म (*sma*) are these three, mere fillers. अनिंद्या (*aniṃdyā*) is a name meaning "praiseworthy": O praiseworthy Aśvins, O showerers (varṣitṛ) of desires, you drink Soma अंतिदेवं (*aṃtidevaṃ*), in the presence of the gods. Or else: connect it as "Soma that is near and reaches the gods".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अश्विनौ (*(he) aśvinau*)—O Aśvin gods
+- जरितारः (*jaritāraḥ*)—your praisers
+- वयं चित् हि (*vayaṃ cit hi*)—we also
+- सत्याः (*satyāḥ*)—being of true fruit
+- वां (*vāṃ*)—you two
+- विपन्यामहे (*vipanyāmahe*)—we praise in various ways
+- पणिः (*paṇiḥ*)—the Droṇa-kalaśa vessel
+- वि हितवान् (*vi hitavān*)—has been set down (filled with Soma juice)
+- [Or पणिः (*paṇiḥ*)—the trader (greedy); हितवान् (*hitavān*)—though of fixed wealth; वि (युज्यतां) (*vi (yujyatāṃ)*)—let him be dismissed.] (चित् (*cit*), हि (*hi*), स्म (*sma*)—the three are sentence-fillers)
+- अध (*adha*)—and further
+- अनिंद्या (*aniṃdyā*)—irreproachable (praiseworthy)
+- *(he aśvinau)*—O Aśvin gods
+- वृषणौ (*vṛṣaṇau*)—you two, showerers of desires
+- अंतिदेवं (*aṃtidevaṃ*)—in the presence of (the other) gods
+- पाथः (*pāthaḥ*)—having drunk Soma
+- [Or अंतिदेवं (*aṃtidevaṃ*)—the Soma juice that reaches the gods; पाथः स्म हि (*pāthaḥ sma hi*)—you indeed drink.]
+
+### Printed p. 533
+
+##### भावार्थ (Bhāvārtha)
+
+O faultless Aśvin gods, we, your praisers, also praise you both in various ways; for you the Soma juice has been set in the Droṇa-kalaśa; you, showerers of desires, sit in the presence of the other gods and drink the Soma.
+
+##### English translation (H. H. Wilson)
+Your sincere adorers, we verily praise you in various ways, The pitcher has been placed (ready for the Soma juice). Irreproachable Ashwins, showcrer (of benefits), drink freely of the juice in the presence of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+जरितारः (*jaritāraḥ*)—The word jaritṛ is read among the names of praisers (Ni. 3-19). The author of the Nirukta cites the Ṛk beginning नूनं सा ते प्रति वरं जरित्रे (*nūnaṃ sā te prati varaṃ jaritre*) and explains jaritṛ there as garitṛ: जरिता गरिता (*jaritā garitā*) (Ni. 1-7). Since praise is song-like, the idea of this identity is that the praiser is also the singer. Besides, Jaritṛ is also a well-known proper name. For example:
+
+अयमग्ने जरिता त्वे अभूदपि सहसः सूनो नह्यंन्यदस्ताप्यं । भद्रं हि शर्म त्रिवरूथमस्ति त आरे हिंसानामप दिद्युमा कृधि ॥ ( (*ayamagne jaritā tve abhūdapi sahasaḥ sūno nahyaṃnyadastāpyaṃ | bhadraṃ hi śarma trivarūthamasti ta āre hiṃsānāmapa didyumā kṛdhi ‖ (*)
+(Ṛ. Saṃ. 10-142-1)
+A ṛṣi named Jaritṛ is the author of this Ṛk and of the Ṛk that follows it. Since the praiser himself is jaritṛ, the word jaritṛ in the quoted Ṛk may mean garitṛ, or else it may be the ṛṣi's name. The word is used in many places as a synonym for praiser. Because there is faith that all the prayer of such an excellent praiser yields only a fruit of the nature of truth, the epithet सत्याः (*satyāḥ*) is used.
+
+सत्याः (*satyāḥ*)—Its meaning is explained as सत्यफलाः संतः (*satyaphalāḥ saṃtaḥ*). The word satya is used throughout the Ṛgveda with the sense of an excellent and moral worthiness and power. The acts performed by those of such excellent worthiness are also of the nature of truth. Expressing this very sense, the author of the Nirukta too has stated the etymology of the word satya as follows.
+
+### Printed p. 534
+सत्यं कस्मात् सत्तु कायते सत्पभवं भवतीति वा । (*satyaṃ kasmāt sattu kāyate satpabhavaṃ bhavatīti vā |*)
+(2. 3-13) **NOTE**
+It spreads among good people, or it is produced among good people; therefore it is called satya: this is the Nirukta author's explanation. According to this etymology, since even a fruit of the nature of truth must come only to good people, the idea that the fruit corresponds in goodness to the true action of the virtuous is indicated by the description in this Ṛk. It shows the difference between the devotee of God who follows the path of truth and the reviler of God who follows the path of untruth: however great the reviler's strength is at the beginning, in the end it dwindles of itself, while the devotee's capacities grow, and that growth is the fruit of his life of truth. Since the word satya is thus used here also of action, it has to be explained what universal principle this idea reflects in both these contexts.
+
+ते देवा उत्सृज्यानृतं । सत्यमन्वालेभिरे । (*te devā utsṛjyānṛtaṃ | satyamanvālebhire |*)
+(Śa. Brā. 9-5-1-13)
+तद्यत्तत्सत्यं । त्रयी साविद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तनवामहा इति ॥ (*tadyattatsatyaṃ | trayī sāvidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tanavāmahā iti ‖*)
+(Śa. Brā. 9-5-1-18)
+The gods gave up untruth and held firmly to truth alone. Since the three Vedas, called Trayī, are themselves of the nature of truth, the gods desired: "Let us perform the rites enjoined by the Veda and spread truth." Besides showing in this way the essential relation between truth and conduct, it also expresses the hope that by such pure performance of rites one can obtain a welfare that is complete and endowed with all prosperity.
+
+नाभिर्यतस्य सप्रथा इति । सत्यं वा ऋतं ना ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह । (*nābhiryatasya saprathā iti | satyaṃ vā ṛtaṃ nā ṛtaṃ satyasya nābhiḥ saprathā ityevaitadāha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ityevaitadāha |*)
+(Śa. Brā. 14-3-1-18)
+By explanations such as these it shows the identity of truth with the order of the universe, and tells that by following such truth and by performing true acts a full life is obtained as the fruit, that is, the relation of cause and effect between good fruit and good action. Since for the performance of acts of the nature of truth too it is absolutely necessary to know the world-order and the nature of the gods who are its cause, it has been plainly stated in many contexts that this knowledge too is possible only through truth.
+
 ---
 
-**Progress note:** Done through printed p. 528. pp. 523-528 (batch API), one remark removed
+**Progress note:** Done through printed p. 534. pp. 529-534 (batch API)
