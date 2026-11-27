@@ -6,7 +6,7 @@
 - **Pages read:** 220 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211)
 - **Findings:** 383 — applied 318, kept/not applied 65 (English kept: misprints and doubts settled by rule; see part 5); edits ok 337, failed 0
 - **Reader tokens (batches so far):** 1785k; per page 8.1k
-- **Last commit:** (this commit)
+- **Last commit:** 649ae3f4
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
@@ -18,7 +18,7 @@
 | 5 | 92–121 | 43 | 30 | 34 / 0 | 13 | 268k | 3ef7390f | all pages read; 15 [?] seen, 8 removed, 7 kept |
 | 6 | 122–151 | 29 | 20 | 24 / 0 | 9 | 237k | 47f213ba | all pages read; 15 [?] seen, 8 removed, 7 kept |
 | 7 | 152–181 | 46 | 37 | 37 / 0 | 9 | 255k | 750bb9d6 | all pages read; 21 [?] seen, 7 removed, 14 kept |
-| 8 | 182–211 | 33 | 28 | 28 / 0 | 5 | 213k | (this commit) | all pages read; 7 [?] seen, 2 removed, 5 kept |
+| 8 | 182–211 | 33 | 28 | 28 / 0 | 5 | 213k | 649ae3f4 | all pages read; 7 [?] seen, 2 removed, 5 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
