@@ -9965,6 +9965,112 @@ O Indra-Soma (इंदो (*iṃdo*)), the sacrificer who has two-fold पर�
 - द्विबर्हसः (*dvibarhasaḥ*)—the lord of the two worlds (Heaven and Earth)
 - यस्य (*yasya*)—which Indra
 
+### Printed p. 415
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रक्षिसुत्तेयो (*rakṣisutteyo*)—(the sense continues from the previous page) "do you protect (do you satisfy)?"
+- तस्य एव (*tasya eva*)—of that very one
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- आजौ (*ājau*)—in battle
+- (हे सोम (*he soma*)—O Soma-juice)
+- वाजिनं (*vājinaṃ*)—Indra, who is endowed with food
+- वाजेषु (*vājeṣu*)—when strengths or foods are the occasion
+- प्र आवः (*pra āvaḥ*)—you have protected especially
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-juice, you protect the sacrificers who worship Indra with both praise and oblations. (When the sacrificer praises Indra, you protect, or satisfy, Indra, the lord of heaven and earth, joining him with the mantras the sacrificer utters.) To that same mighty Indra give help, in battles, to obtain food and the like.
+
+##### English translation (H. H. Wilson)
+Soma, you protect him in whose prayers, doubly devout, there is the combination (of praise and oblation) : protect, especially, Indra in war ; protect the vigorous Indra in battles.
+
+##### विशेषविषयगळु (Special Topics)
+
+पानसमये तर्पयित्वा, संग्रामसमये बलवर्धनेन जयप्राप्तशत्रुधन तर्पणेन वा अरक्षः ॥ (*pānasamaye tarpayitvā, saṃgrāmasamaye balavardhanena jayaprāptaśatrudhana tarpaṇena vā arakṣaḥ ‖*) Sāyaṇa has explained that the chief meaning of this mantra is this: describing the satisfaction that comes to Indra after drinking Soma, and, at the time of battle, the growth of strength, the victory over enemies that results from it, and the winning of the enemy's wealth as the consequence, it tells that Soma is a protector to Indra in all circumstances.
+
+द्विबर्हसः (*dvibarhasaḥ*)—स्तोत्रहवीरूपद्विविधपरिवृढकर्मवतः यजमानस्य (*stotrahavīrūpadvividhaparivṛḍhakarmavataḥ yajamānasya*): of the sacrificer who has a rite in the form of praise and oblation, which both increase and are themselves increased; thus it is in one way an epithet of the sacrificer. Or else यं द्वयोः स्थानयोः परिवृढं यं इंद्रं (*yaṃ dvayoḥ sthānayoḥ parivṛḍhaṃ yaṃ iṃdraṃ*) (genitive in the sense of the accusative): Indra, who has grown in both earth and atmosphere (the genitive stands here in the place of the object); in this other way it can be explained, Sāyaṇa says. The second meaning agrees with the explanation of the Nirukta-author. He gives the etymology of the word द्विबर्हाः (*dvibarhāḥ*) thus:
+द्विबर्हाः—द्विबर्हा द्वयोः स्थानयोः परिवृढो मध्यमे च स्थान उत्तमे च । (*dvibarhāḥ—dvibarhā dvayoḥ sthānayoḥ parivṛḍho madhyame ca sthāna uttame ca |*) (Ni. 6-17)
+The meaning is: one who has grown in the heavenly world and in the atmosphere; and then
+
+### Printed p. 416
+he cites the Ṛk
+महा इंद्रो नृवदा चर्षणिप्रा उत द्विबर्हा अमिनः सहोभिः । अस्मद्रग्वावृधे वीर्यायोरुः पृथुः सुकृतः कर्तृभिर्भूत् ॥ (*mahā iṃdro nṛvadā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ | asmadragvāvṛdhe vīryāyoruḥ pṛthuḥ sukṛtaḥ kartṛbhirbhūt ‖*) (Ṛ. Saṃ. 6-19 1)
+and shows the use of this word. Here the word द्विबर्हाः (*dvibarhāḥ*) is an epithet of Indra. Sāyaṇa states the purport of the word as द्वयोर्लोकयोः परिवृढः (*dvayorlokayoḥ parivṛḍhaḥ*). Likewise in
+आ द्विबर्हा अमिनो याश्विंद्रो वृषा हरिभ्यां परिषिक्तमंधः । गव्या सुतस्य प्रभृतस्य मध्वः सत्रा खेदामरुशहा वृषस्व ॥ (*ā dvibarhā amino yāśviṃdro vṛṣā haribhyāṃ pariṣiktamaṃdhaḥ | gavyā sutasya prabhṛtasya madhvaḥ satrā khedāmaruśahā vṛṣasva ‖*) (Ṛ. Saṃ. 10-116-4)
+it is again an epithet of Indra. Here द्वाभ्यां स्तुतिशस्त्राभ्यां वर्धनीयः । वृहेवर्धनार्थस्य कर्मण्यसुन् । (*dvābhyāṃ stutiśastrābhyāṃ vardhanīyaḥ | vṛhevardhanārthasya karmaṇyasun |*) The explanation is given that, formed from the root वृह् (*vṛh*), it gives the sense "one who has grown", and the formation of the word is shown.
+[As the usage द्विबर्हाः (*dvibarhāḥ*) occurs, so the usage अद्रिबर्हाः (*adribarhāḥ*) occurs in Ṛks such as 10-63-3: the stones that have grown.]
+
+अर्केषु (*arkeṣu*)—मंत्रेषु (*maṃtreṣu*): explained as "in the mantras that are the means of worship". The Nirukta-author's different meanings are given:
+अर्को देवो भवति यदेनमर्चंति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कुटुकिम्ना । (*arko devo bhavati yadenamarcaṃti | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kuṭukimnā |*) (Ni. 5-4)
+Since it is the object of worship, arka is a deity; since it is the means of worship, arka is a mantra; since it gives vitality to beings, arka is food; and it is a particular kind of bitter tree. Then the Ṛk
+गायंति त्वा गायत्रिणोर्चंत्यर्कमकिणः । ब्रह्माणस्त्वा शतक्रत उद्यंशमिव येमिरे ॥ (*gāyaṃti tvā gāyatriṇorcaṃtyarkamakiṇaḥ | brahmāṇastvā śatakrata udyaṃśamiva yemire ‖*) (Ṛ. Saṃ. 1-10-1)
+is cited, showing the use of the word ārka and its meaning. The power of the ārka is extremely great, and its greatness is praised in many places. In the Aitareya Āraṇyaka:
+अथातः शिरः । यद्गायत्रीषु भवत्यग्रं वै छंदसां गायत्र्यग्रमंगानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । ता नव भवंति नव कपालं शिरः ॥ (*athātaḥ śiraḥ | yadgāyatrīṣu bhavatyagraṃ vai chaṃdasāṃ gāyatryagramaṃgānāṃ śiraḥ | tadarkavatīṣu bhavatyagnirvā arkaḥ | tā nava bhavaṃti nava kapālaṃ śiraḥ ‖*) (Ai. Ā. 1-4-1)
+
+### Printed p. 417
+This passage is cited, and it is said that the next nine Ṛks, beginning with the Ṛk इंद्रमिद्दाथिनो बृहदिंद्रमर्केभिरर्किणः । (*iṃdramiddāthino bṛhadiṃdramarkebhirarkiṇaḥ |*) (Ṛ. Saṃ. 1-7-1), are the ārka mantras, that they are the mantras of the nature of the head, and that since the Gāyatra is the principal element and these mantras too are in that Gāyatra form, the ārka mantras hold the principal place above all mantras. In the Bṛhadāraṇyaka Upaniṣad, giving the etymology of the word arka:
+सोर्चन्न चरत्तस्यार्चच आपोऽजायंतार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वं कं ह वा अस्मै भवति य एवमेतदर्कस्यार्कत्वं वेद । (*sorcanna carattasyārcaca āpo 'jāyaṃtārcate vai me kamabhūditi tadevārkasyārkatvaṃ kaṃ ha vā asmai bhavati ya evametadarkasyārkatvaṃ veda |*) (Bṛ. U. 1-2-1)
+While Death, worshipping, was moving about in search of a body, water came into being; therefore water became known by the name arka. For this very reason:
+अपो वा अर्कः तद्यदपां शिर आसीत्तत्समहन्यत । (*apo vā arkaḥ tadyadapāṃ śira āsīttatsamahanyata |*) (Bṛ. U. 1-2-2)
+and so on it is described. Here arka reflects the hidden principle of the universe. The greatness of arka, which sets forth the Prajāpati principle, and the account of its nature, are explained in the Śatapatha Brāhmaṇa, in the context of Āruṇi's instruction, thus:
+श्वेतकेतुर्हारुणेयः यक्ष्यमाणा आस तग्०ह पितोवाच कानृत्विजोऽवृथा इति स होवाचायं नेव मे वैश्वावसव्यो होतेति तग्०ह प्रप्रच्छ वेत्थ ब्राह्मणा वैश्वावसव्य ॥ (*śvetaketurhāruṇeyaḥ yakṣyamāṇā āsa tag0ha pitovāca kānṛtvijo 'vṛthā iti sa hovācāyaṃ neva me vaiśvāvasavyo hoteti tag0ha prapraccha vettha brāhmaṇā vaiśvāvasavya ‖*) (Śa. Brā. 10-3-4-1)
+When Śvetaketu Āruṇi, son of Uddālaka Aruṇi, was engaged in undertaking a sacrifice, his father asked him which priests he had chosen for the rite; Śvetaketu said that Vaiśvāvasavya was his Hotṛ. Then the father said:
+चत्वारि महांतीति । वेद भो ३ इति होवाच..................वेत्थ चत्वारि क्यानीति वेद भो ३ इति होवाच वेत्थ चत्वारि क्यानां क्यानी३इति वेद भो ३ इति होवाच वेत्थ चत्वारि अर्कानिति वेद भो इति होवाच वेत्थ चतुरोऽर्काणामर्कानिति वेद भो इति होवा च ॥ (*catvāri mahāṃtīti | veda bho 3 iti hovāca..................vettha catvāri kyānīti veda bho 3 iti hovāca vettha catvāri kyānāṃ kyānī3iti veda bho 3 iti hovāca vettha catvāri arkāniti veda bho iti hovāca vettha caturo 'rkāṇāmarkāniti veda bho iti hovā ca ‖*) (Śa. Brā. 10-3-4-2)
+"Do you know the four great principles? Do you know the principle connected with Ka (Prajāpati)? And among these, the four most hidden principles — do you know them? Do you know the nature of the four universal lights?
+
+### Printed p. 418
+Have you reflected on the principle that is the light-form of the lights?" Asked thus, Śvetaketu replied that he knew all that. Again the father said:
+वेत्थार्कमिति । अथ वै नो भवान्वक्ष्यतीति वेत्थार्कपर्णो इत्यथ वै नो भवान्वक्ष्यतीति वेत्थार्कपुष्पे इत्यथ वै नो भवान्वक्ष्यतीति वेत्थार्ककोश्यावित्यथ वै नो भवान्वक्ष्यतीति वेत्थार्कसमुद्गावित्यथ वै नो भवान्वक्ष्यतीति वेत्थार्कधाना इत्यथ वै नो भवान्वक्ष्यतीति वेत्थार्काष्ठीलामित्यथ वै नो भवान्वक्ष्यतीति वेत्थार्कमूलमित्यथ वै नो भवान्वक्ष्यतीति ॥ (*vetthārkamiti | atha vai no bhavānvakṣyatīti vetthārkaparṇo ityatha vai no bhavānvakṣyatīti vetthārkapuṣpe ityatha vai no bhavānvakṣyatīti vetthārkakośyāvityatha vai no bhavānvakṣyatīti vetthārkasamudgāvityatha vai no bhavānvakṣyatīti vetthārkadhānā ityatha vai no bhavānvakṣyatīti vetthārkāṣṭhīlāmityatha vai no bhavānvakṣyatīti vetthārkamūlamityatha vai no bhavānvakṣyatīti ‖*) (Śa. Brā. 10-3-4-3)
+"Do you know the nature of arka, of the arka-leaves and arka-flowers? Do you know the nature of the arka-capsules and arka-grains? Do you know the root of arka?" Asked this, he said he knew none of these and asked that they be explained to him. Then the father, explaining arka, told also its hidden meaning.
+अथ ह वै यत्तदुवाच । वेत्थार्कमिति पुरुषग्ं हैव तदुवाच । वेत्थार्कपर्णे इति कर्णौ हैव तदुवाच वेत्थार्कपुष्टे इत्यक्षिणी हैव तदुवाच वेत्थार्ककोश्याविति नासिके हैव तदुवाच वेत्थार्कसमुद्गावित्योषौ हैव तदुवाच वेत्थार्कधाना इति दंतान्हैव तदुवाच वेत्थार्काष्ठीलामिति हॆह्वाग्ं हैव तदुवाच वेत्थार्कमूलमित्यन्नग्ं हैव तदुवाच स एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्तेयमहमग्निरर्कोऽस्मीति विद्यया हैवास्यैष आत्मन्नग्निरर्कश्चितो भवति ॥ (*atha ha vai yattaduvāca | vetthārkamiti puruṣagṃ haiva taduvāca | vetthārkaparṇe iti karṇau haiva taduvāca vetthārkapuṣṭe ityakṣiṇī haiva taduvāca vetthārkakośyāviti nāsike haiva taduvāca vetthārkasamudgāvityoṣau haiva taduvāca vetthārkadhānā iti daṃtānhaiva taduvāca vetthārkāṣṭhīlāmiti hèhvāgṃ haiva taduvāca vetthārkamūlamityannagṃ haiva taduvāca sa eṣo 'gnirarko yatpuruṣaḥ sa yo haitamevamagnimarkaṃ puruṣamupāsteyamahamagnirarko 'smīti vidyayā haivāsyaiṣa ātmannagnirarkaścito bhavati ‖*) (Śa. Brā. 10-3-4-5)
+Arka means the Puruṣa. The arka-leaves are the Puruṣa's ears; the arka-flowers are the eyes; the arka-capsules are the nostrils; the arka-receptacle means the lips; the arka-grains are the teeth; the arka-stick is the tongue; the arka-root is food; the Puruṣa set forth by this arka is the sacrificial fire. Thus, for one who knows the identity of these three, arka, fire and Puruṣa, the sacrificial fire becomes manifest on the sacrificial altar; so the hidden meaning of the word arka is told. Explaining again that this arka is the Supreme Brahman in the form of the imperishable:
+तद्ध्येतत्पश्यन्नृषिरभ्यनूवाद । भूतं भविष्यत्पस्तौमि । महद्ब्रह्मैकमक्षरं बहु ब्रह्मैकमक्षरमित्येतद्द्येवाक्षरग्ं सर्वे देवाः सर्वाणि भूतान्यभि संपद्यंते तदेतद्ब्रह्म च क्षत्रं जाग्निरेव ब्रह्मेंद्रः क्षत्रमिंद्राग्नी वै विश्वे देवा विडु विश्वे देवास्तदेतद्ब्रह्म क्षत्रं विट् ॥ (*taddhyetatpaśyannṛṣirabhyanūvāda | bhūtaṃ bhaviṣyatpastaumi | mahadbrahmaikamakṣaraṃ bahu brahmaikamakṣaramityetaddyevākṣaragṃ sarve devāḥ sarvāṇi bhūtānyabhi saṃpadyaṃte tadetadbrahma ca kṣatraṃ jāgnireva brahmeṃdraḥ kṣatramiṃdrāgnī vai viśve devā viḍu viśve devāstadetadbrahma kṣatraṃ viṭ ‖*) (Śa. Brā. 10-4-1-9)
+
+### Printed p. 419
+The Supreme Brahman, which reflects past, future and present and is all-pervading, is this arka. All the deities are contained in this Supreme Brahman, which is of the form of arka and of the imperishable. It alone reflects both Brahmanical power and Kṣatriya power. All the deities are contained in it. The principle which the seer set forth as such is this arka principle; so it is said. And:
+स एष एवार्कः । योऽयमग्निश्चितस्तस्यैतदन्नं क्यमेष सौम्योऽध्वरस्तदर्क्र्य०..................सहोदक्रामदेष चंद्रमाः ॥ (*sa eṣa evārkaḥ | yo 'yamagniścitastasyaitadannaṃ kyameṣa saumyo 'dhvarastadarkrya0..................sahodakrāmadeṣa caṃdramāḥ ‖*) (Śa. Brā. 10-4-1-21)
+Arka is this sacrificial altar. The Ka principle, that is, the Soma sacrifice, is its food. The harmony of these two becomes arkya.
+स एष एवार्को य एष तपति । तस्यैतदन्नं क्यमेष चंद्रमास्तदर्यं यजुष्ट एष एव महान्............ ॥ इत्यधिदैवतं । (*sa eṣa evārko ya eṣa tapati | tasyaitadannaṃ kyameṣa caṃdramāstadaryaṃ yajuṣṭa eṣa eva mahān............ ‖ ityadhidaivataṃ |*) (Śa. Brā. 10-4-1-22)
+The Āditya blazing in the atmosphere is arka; the moon is its food; the harmony of the two becomes arkya. This is the adhidaivata view.
+अथाध्यात्मं । प्राणो वा आर्कस्तस्यान्नमेव क्यं............ ॥ (*athādhyātmaṃ | prāṇo vā ārkastasyānnameva kyaṃ............ ‖*)
+Breath is arka; the Ka principle is its food; the harmony of this becomes arkya. Thus the arka principle is explained both in the adhidaivata and in the adhyātma view.
+
+सानुषक् (*sānuṣak*)—सानुषंगः सातत्यं । (*sānuṣaṃgaḥ sātatyaṃ |*) It means "continuously threaded"; the purport is that Indra and the mantras of the form of arka have an unbroken connection.
+
+वाजेषु (*vājeṣu*)—बलेषु; अन्नेषु वा । (*baleṣu; anneṣu vā |*) Two kinds of meaning are given: on account of strength, or on account of food. The word vāja is read among the names of food (Ni. 3-9;) and also among the names of battle (3-9). The word is also used in the sense of praise. It also means the most excellent strength. Its special meanings and particular usages have been explained earlier.
+
+### Printed p. 420
+
+##### Grammar
+
+- अवः—अव रक्षणे । धातुः । नांदसवागि लज् । मध्यमपुरुष एकवचनांतरूपं । पादादियल्लिरुवुदरिंद निघातस्वरः न भवति । आडागम उदात्तवादुरिंद आद्युदात्तः भवति ।
+- द्विबर्हसः—बृह बृहि वृद्धौ । धातुः । द्वयोः स्थानयोः बर्हते प्रवर्धते इति द्विबर्हाः । तस्य । औणादिक असुन् प्रत्ययः । गतिकारकोपपदात् कृत् (पा. सू. ६-२-४९) इति । कृदुत्तरपद प्रकृतिस्वरः भवति । कर्मार्थे षष्ठी आगता ।
+- सानुषक्—षंज संगे । धातुः । क्विप् प्रत्ययः । अनिदितां हलउ इति उपधानकारस्य लोपः । पदांत जकारस्य कुत्वं । चर्त्वं । कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- असत्—अस भुवि । धातुः । लेट् प्रथमपुरुष एकवचनांतरूपं । प्रत्ययस्य इकारस्य लोपे प्राप्ते अडागमः । यद्योगात् निघातस्वरः न भवति । प्रत्ययः पित्तात् अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- अजौ—अज गतिक्षेपणयोः धातुः । अज्यतिभ्यां चॆ (उ सू. ४-५७०) इति इण् प्रत्ययः । अतउपधायाः इति उपधावृद्धिः । प्रत्ययस्वरेण अंतोदात्तः भवति । सप्तम्येकवचनांतरूपं ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ पूर्वे॑भ्यो जरि॒तृभ्य॑ इंद्र॒ मय॑ इ॒वापो॒ न तृष्ण॑ते ब॒भूथ॑  
+> तामनु॑ त्वा नि॒विदं॑ जोहवीमि वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । पूर्वेभ्यः । जरितृभ्यः । इंद्र । मयःइव । आपः । न । तृष्यते । बभूथ ।  
+> शां । अनु । त्वा । निविदं । जोहवीमि । विद्याम । इषं । वृजनं । जीरदानुं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूर्वभ्यो जरितृभ्यः पुरातनेभ्यो गरितृभ्यः स्तोतृभ्यो मय इव
+> बभूथ । मयः सुखं । सुखस्वरूपमिवाभवः । तद्वत् स्तोतृभ्योऽस्मभ्यं सुखो
+
+##### Gist of the bhāṣya
+
+O Indra, to the ancient praisers (पूर्वभ्यो जरितृभ्यः (*pūrvabhyo jaritṛbhyaḥ*), glossed पुरातनेभ्यो गरितृभ्यः स्तोतृभ्यो (*purātanebhyo garitṛbhyaḥ stotṛbhyo*)) you were as मय इव (*maya iva*); मयः सुखं (*mayaḥ sukhaṃ*), "you became as if of the nature of happiness". Likewise to us, the praisers, you are happiness…. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 414. pp. 409-414 (batch API)
+**Progress note:** Done through printed p. 420. pp. 415-420 (batch API)
