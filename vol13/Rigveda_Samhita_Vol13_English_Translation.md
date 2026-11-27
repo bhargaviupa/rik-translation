@@ -14893,17 +14893,6 @@ The hundred and eighty-second sūkta ends here.
 ### Printed p. 624
 ## Sūkta 183 (Maṇḍala 1)
 
-#### Ṛk 1
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-> तं युं॑जाथां॒ मन॑सो॒ यो जवी॑यान् त्रिवंधु॒रो वृ॑षणा॒  ॒॑
-> यस्त्रि॑च॒क्रः ।  
-> येनो॑पया॒थः सु॒कृतो॑ दुरो॒णं त्रि॒धातु॑ना पतथो॒ विर्न  ॒
-> पर्णैः ॥ १ ॥
-
-is not the introduction; the introduction block is the Sanskrit line printed above, तं युंजाथामिति षडृचं चतुर्थं सूक्तं त्रैष्टुभमागस्य माश्विनं ॥ (*taṃ yuṃjāthāmiti ṣaḍṛcaṃ caturthaṃ sūktaṃ traiṣṭubhamāgasya māśvinaṃ ‖*)
-
 ##### Anuvāda
 
 The sūkta तं युंजाथां (*taṃ yuṃjāthāṃ*) is the fourth sūkta in the twenty-fourth anuvāka. It has six Ṛks. Its seer is Agastya; its deity is the Aśvins; its metre is Triṣṭubh. As stated for the preceding sūktas, this sūkta is employed at the time of reciting the mantras of the Prātaranuvāka, for the Triṣṭubh mantras connected with the Āśvina-śastra.
@@ -14913,6 +14902,11 @@ Sūkta 183. Maṇḍala 1; Anuvāka 24; Sūkta 183. Aṣṭaka 2; Adhyāya 4; Va
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं युं॑जाथां॒ मन॑सो॒ यो जवी॑यान् त्रिवंधु॒रो वृ॑षणा॒  ॒॑
+> यस्त्रि॑च॒क्रः ।  
+> येनो॑पया॒थः सु॒कृतो॑ दुरो॒णं त्रि॒धातु॑ना पतथो॒ विर्न  ॒
+> पर्णैः ॥ १ ॥
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
