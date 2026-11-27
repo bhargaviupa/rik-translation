@@ -8034,6 +8034,132 @@ Let (your foes, Indra,) humbled by the might of your thunderbolt, rest in their 
 इहं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक् ॥ (*ihaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātryuṣase yonimāraik ‖*)
 (Ṛ. Saṃ. 1-113-1)
 
+### Printed p. 331
+In this Ṛk the word योनि (*yoni*) is described as used in the sense of "place". And further—
+य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु तस्मात् । स मातुर्योना परिवीतो अंतर्बहुप्रजा निर्ऋतिमा विवेश ॥ (*ya īṃ cakāra na so asya veda ya īṃ dadarśa hiruginnu tasmāt | sa māturyonā parivīto aṃtarbahuprajā nirṛtimā viveśa ‖*) (Ṛ. Saṃ. 1-164-32 **NOTE**)
+Here the explanation is योनिरंतरिक्षं महानवयवः परिवीतो वायुना आयमपीतरो योनिरेतस्मादेव परियुतो भवति । (*yoniraṃtarikṣaṃ mahānavayavaḥ parivīto vāyunā āyamapītaro yoniretasmādeva pariyuto bhavati |*) (Ni. 2-8). As the embryo comes into being in the womb through the wind, so the firmament, pervaded by the wind and joined with the water-bearing cloud, is here referred to by the word योनि (*yoni*). This is how the meaning is explained.
+
+Besides being used in the senses of cause, place of origin and dwelling-place, the word योनि (*yoni*) is also read by the Nirukta-author among the names of water, अणः (*aṇaḥ*), क्षोदः (*kṣodaḥ*) and so on (Ni. 2-24).
+
+In the Ṛk
+ऋतस्य देवा अनु व्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम । वर्धंतीमापः पन्वा सुशिश्मिमृतस्य योना गर्भे सुजातं । (*ṛtasya devā anu vratā gurbhuvatpariṣṭirdyaurna bhūma | vardhaṃtīmāpaḥ panvā suśiśmimṛtasya yonā garbhe sujātaṃ |*) (Ṛ. Saṃ. 1-65-2)
+the word means "in the water that is the cause of the sacrifice or of something else", that is, in the water that is the cause of sacrifice and of food.
+
+In
+देवं वो देवयज्ययाग्निमीळीत मर्त्यः । समिद्दः शुक्र दीदिह्यृतस्य योनिमासदः (*devaṃ vo devayajyayāgnimīḷīta martyaḥ | samiddaḥ śukra dīdihyṛtasya yonimāsadaḥ*) (Ṛ. Saṃ. 5-21-4)
+योनिं कारणं स्वर्गसाधनं (*yoniṃ kāraṇaṃ svargasādhanaṃ*): the means that helps in conveying one to heaven.
+
+In
+दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । चित्रो यदभ्राट् चैतो न विक्षु रथो न रुक्मी त्वेषः समत्तु । (*durokaśociḥ kraturna nityo jāyeva yonāvaraṃ viśvasmai | citro yadabhrāṭ caito na vikṣu ratho na rukmī tveṣaḥ samattu |*) (Ṛ. Saṃ. 1-66-3)
+it means "house".
+
+In
+यमीं द्वा सवयसा सपर्यतः समाने योना मिथुना समोकसा । दिवा न नक्तं पलितो युवाजनि पुरू चरन्नजरो मानुषा युगा । (*yamīṃ dvā savayasā saparyataḥ samāne yonā mithunā samokasā | divā na naktaṃ palito yuvājani purū carannajaro mānuṣā yugā |*) (Ṛ. Saṃ. 1-144-4)
+it means the place of origin of the fruit. Likewise in
+वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये । वस्त्रेणेव वासया मन्मना शुचिं ज्योतीरथं शुक्रवर्णं तमोहनं । (*vediṣade priyadhāmāya sudyute dhāsimiva pra bharā yonimagnaye | vastreṇeva vāsayā manmanā śuciṃ jyotīrathaṃ śukravarṇaṃ tamohanaṃ |*) (Ṛ. Saṃ. 1-140-1)
+
+### Printed p. 332
+and in other such Ṛks it means the place called the altar (vedi). Thus the word has uses in various senses. In the present Ṛk the meaning "in the firmament, which is the support of all things" is stated.
+
+Addressing Indra, the meaning is explained thus: let Indra's enemies lie hidden in their own places, as they were before, or else let them lie hidden in the firmament, which is the support of all beings.
+
+पवीरवस्य मह्ना प्रकस्तये (*pavīravasya mahnā prakastaye*)—the word पविः (*paviḥ*) is stated among the names of the thunderbolt (Ni. 3-11). It is also read among the names of speech (Ni. 2-13). And Yāska, citing the Ṛk
+पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिंधुरापस्समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥ (*pāvīravī tanyaturekapādajo divo dhartā siṃdhurāpassamudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖*) (Ṛ. Saṃ. 10-65-13)
+explains: पविः शल्यो भवति यद्विपुनाति कायं, तद्वत् पवीरमायुधं तद्वानिंद्रः पवीरवान् (*paviḥ śalyo bhavati yadvipunāti kāyaṃ, tadvat pavīramāyudhaṃ tadvāniṃdraḥ pavīravān*). The word पवि (*pavi*) may mean a thorn. Because a thorn pierces the body, the weapon, being furnished with a thorn, is denoted by the word पवीर (*pavīra*); Indra, who possesses this weapon, is spoken of by the word पवीरवान् (*pavīravān*). Here Sāyaṇa explains पवीरवस्य (*pavīravasya*) as कुलिशस्य (*kuliśasya*), "of the thunderbolt", or of the word कुलिश (*kuliśa*) meaning the thunderbolt, and he describes the meaning thus: through the greatness of the thunderbolt, and त्वद्वज्रप्रहारेण हताः मेघाः शत्रवो वा तत्त्रैव शेरते निपातेन पलायंते (*tvadvajraprahāreṇa hatāḥ meghāḥ śatravo vā tattraiva śerate nipātena palāyaṃte*): struck by the blow of Indra's thunderbolt, the clouds or the enemies lie hidden there (in the firmament) or flee. This is प्रशंसनाय त्वत्तुतये त्वन्महिमज्ञापनाय (*praśaṃsanāya tvattutaye tvanmahimajñāpanāya*): for making known Indra's greatness.
+
+यत् युधा गाः अर्णांसि अवसृजत् (*yat yudhā gāḥ arṇāṃsi avasṛjat*)—यदा प्रहरणसाधनेन आयुधेन युद्धेन वा गच्छसि तदा उदकानि अवासृजः (*yadā praharaṇasādhanena āyudhena yuddhena vā gacchasi tadā udakāni avāsṛjaḥ*). The word यत् (*yat*) is used in the sense of यदा (*yadā*) ("when"). The word युधा (*yudhā*) may mean the weapon, the instrument of striking, or else battle. Thus the meaning is that whether Indra moves in battle or is with his weapon, he makes the waters fall to the earth (he sends rain). The worldly way, that a hero bearing his weapon fights with enemies and fells them to the ground face downwards, is here described of Indra, as the word अवाज्मुखमपातयः (*avājmukhamapātayaḥ*) indicates.
+
+### Printed p. 333
+हरी तिष्ठत् (*harī tiṣṭhat*)—Since the Nirukta-author says हरी इंद्रस्य (*harī iṃdrasya*) (Ni. 2-28), that the horses of Indra are known as हरी (*harī*), the meaning is explained: as soon as Indra, in order to win in battle, mounts his vehicle, the horses called हरी (*harī*), यदा हरी अधितिष्ठसि तदा अवासृजः (*yadā harī adhitiṣṭhasi tadā avāsṛjaḥ*): he sends rain. By the sentence वाजान् धृषता मृष्ट (*vājān dhṛṣatā mṛṣṭa*) Sāyaṇa explains: let Indra increase सस्यादि लक्षणानि अन्नानि (*sasyādi lakṣaṇāni annāni*), food in the form of crops, by his power that overwhelms others (धर्षकेण सामर्थ्यीन (*dharṣakeṇa sāmarthyīna*)).
+
+Although the word वाज (*vāja*) is used in many senses, here its use is fixed in the sense of food alone.
+
+##### Grammar
+
+- शेषन्—शीज् स्वप्ने धातुः । लेट् प्रथमपुरुषबहुवचने व्यत्ययो बहुलं इति झि प्रत्ययः आगच्छति । इतश्चलोपः (पा. सू. ३-४-९७) इत्यनेन अंत्यइकारस्य लोपः । झोंतः इत्यनेन अंतादेशः । लेटोडाटौ (पा. सू. ३-४-९४) इत्यनेन तस्य अडागमः । अंत्यलोपः । सिब्बहुलं लेटि (पा. सू. ३-१-३४) इत्यनेन सिप् । तं निमित्तीकृत्य धातोरिकः गुणः । पादादित्वात् निघातस्वरः न आगच्छति । धातुस्वरः अवशिष्यते ।
+- सस्मिन्—सर्वस्मिन् इति रूपे सिद्धे छांदसत्वात् वर्णलोपः आगच्छति ।
+- प्रशस्तये—शंसु स्तुतौ धातुः । भावार्थे क्तिन् प्रत्ययः । तादौ च निति (पा. सू. ६-२-५०) इत्यनेन गतेः (प्र) उदात्तस्वरः आगच्छति । चतुर्थ्येकवचनांतं रूपम् ।
+- सृजत्—सृज विसर्गे धातुः । व्यत्ययो बहुलं इत्यनेन लज् मध्यमपुरुषैकवचने तिबादेशः । इकारलोपः । श विकरणम् । तस्य चित्त्वात् लघूपधगुणः न आगच्छति । बहुलं छंदस्यमा इत्यनेन अडागमः न आगच्छति । पादादित्वात् निघातस्वरः न आगच्छति । विकरणस्वरः अवशिष्यते ।
+- युधा—युध संप्रहारे धातुः । क्विप् प्रत्ययः । तृतीयैकवचनांतं रूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इत्यनेन विभक्तेः उदात्तस्वरः आगच्छति ।
+- शिष्ठत्—स्था गतिनिवृत्तौ धातुः । पूर्ववत् पुरुषव्यत्ययः । लज् । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इत्यनेन निघातस्वरप्रतिषेधः आगच्छति । शप् अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+
+### Printed p. 334
+- धृषता—इद्धृषा प्रागल्भ्ये धातुः । लटः शत्रादेशः । नुम्रहिते शतृप्रत्यये परे तृतीयैकवचनस्य आगतत्वात् शतुरनुमोनद्य- (पा. सू. ६-१-१७३) इत्यनेन तस्य उदात्तस्वरः आगच्छति ।
+- मृष्ट—मृजू शुद्धौ धातुः । लोट् मध्यमपुरुषैकवचनस्य व्यत्ययेन तादेशः । विकरणस्य लुक् । व्रश्चभृस्थ- (पा. सू. ८-२-३६) इत्यनेन जकारस्य षत्वम् । तं निमित्तीकृत्य प्रत्ययस्य ष्टुत्वम् । तिजंतनिघातस्वरः आगच्छति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वह॒ कुत्स॑मिंद्र॒ यस्मि॑ञ्चा॒कन्तून्य॑म॒न्यू ऋ॒ज्रा वात॒स्याश्वा॑ ।  
+> प्र सूर॑श॒क्रं वृ॑हताद॒भीके॒ऽभि स्पृधो॑ यासिष॒द्वज ॑बाहुः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वह । कुत्सं । इंद्र । यस्मिन् । चाकन् । स्यूमन्यू इति । ऋज्रा । वातस्य । अश्वा ।  
+> प्र । सूरः । चक्रं । वृहतात् । अभीके । अभि । स्पृधः । यासिषत् । वज्रबाहुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कुत्समेतन्नामानमृषिं प्राप्तं स्यूमन्यू । स्यूमकमिति सुखनाम । तदिचंतौ सततगामिनौ वा ऋज्रा ऋजुगामिनौ वातस्य वायोः समानवेगावश्वा तदीयावश्च वह । प्रस्थापय । यस्मिन् हविषि निमित्तभूते सति
+> कुत्सं जाकन् कामयसे तर्पयसे वा हविरादिकं । तदर्थं सूरः प्रेरकः
+> सूर्यश्चक्रं स्वमंडलं स्वरथचक्रं वाभीक आसन्ने देशे वृहतात् । ऊर्ध्वं
+> गमयतु । प्रकाशयतु । अथ परोक्षेणाह । वज्रबाहुरयमिंद्रः स्पृधः
+> संग्रामं कुर्वतः शत्रूनभि यासिषत् । अभियातु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, convey the sage Kutsa, who has come to you, with your two horses, which are स्यूमन्यू (*syūmanyū*) (स्यूमकमिति सुखनाम (*syūmakamiti sukhanāma*): desirous of comfort, or else constantly moving), ऋज्रा (*ṛjrā*) (moving straight) and equal in speed to the wind, and also those that belong to the wind. Send them forth to the offering on account of which you desire Kutsa or gratify him. For that purpose let Sūrya, the impeller, lift his disc or the wheel of his chariot upward in the near region and make it shine. Then he speaks in the third person: let this Indra, वज्रबाहुः (*vajrabāhuḥ*) (thunderbolt-armed), advance against the enemies who wage battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- यस्मिन् (*yasmin*)—when which oblations and the like are the occasion
+- कुत्सं (*kutsaṃ*)—the sage Kutsya
+- जाकन् (*jākan*)—you desire or you satisfy
+- कुत्सं (*kutsaṃ*)—that sage Kutsa
+- स्यूमन्यू (*syūmanyū*)—desirous of comfort, or constantly moving
+- ऋज्रा (*ṛjrā*)—moving straight
+- वातस्य (*vātasya*)—of the wind (having speed equal to it)
+- अश्वा (*aśvā*)—your horses (by means of the horses)
+- वह (*vaha*)—bring together (for that same purpose)
+- सूरः (*sūraḥ*)—Sūrya, the impeller
+- चक्रं (*cakraṃ*)—his disc or his wheel
+- अभीके (*abhīke*)—in the near region
+- प्र वृहतात् (*pra vṛhatāt*)—let him lift upward (let him make shine)
+- वज्रबाहुः (*vajrabāhuḥ*)—the bearer of the thunderbolt (this Indra)
+- स्पृधः (*spṛdhaḥ*)—the enemies who fight
+- अभि यासिषत् (*abhi yāsiṣat*)—let him go against them
+
+### Printed p. 335
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to the place where are the oblations and the like that you wish to reach Kutsya, let your horses, which are desirous of comfort (constantly moving), straight-going and swift as the wind, carry that Kutsya; let Sūrya also shine for the same purpose; and you, bearing the thunderbolt, advance against them for the destruction of the enemies (for the conquest of the cloud).
+
+##### English translation (H. H. Wilson)
+Bear, Indra, with your obedient horses as swift as the wind, (the sage) Kutsa, to that ceremony (to which) you desire (to convey him) let the sun bring near the wheel of his chariot, and let the thunder-armed advance against his opponents.
+
+##### विशेषविषयगळु (Special Topics)
+
+Two points must be noted in this mantra. First, Indra goes mounted on his horses to help Kutsa; and on this occasion the sun's wheel shines and helps Indra by supporting him. Of these, if we first examine the matter of Kutsa, it is learned that on some occasions Kutsa, as Indra's friend, received help from Indra, and on other occasions he fell out with Indra and was defeated by him.
+तत्र कुत्स इत्येतत् कृंततेः । ऋषिः कुत्सो भवति कर्ता स्तोमानां इत्यौपमन्यवः । तत्सख इंद्रः तुष्णं जघान इति ॥ (*tatra kutsa ityetat kṛṃtateḥ | ṛṣiḥ kutso bhavati kartā stomānāṃ ityaupamanyavaḥ | tatsakha iṃdraḥ tuṣṇaṃ jaghāna iti ‖*) (Ni. 3-11)
+By this explanation the Nirukta-author has shown Kutsa to be Indra's friend.
+
+Examining certain contexts, there is room also for the conjecture that Kutsa may be Indra's son. How? The epithet अर्जुनेय (*arjuneya*) is applied to Kutsa in many places. And in all the places where it is said that Indra helped Kutsa Ārjuneya, it is stated clearly that the sun too helped Indra.
+
+### Printed p. 336
+In such contexts one must consider what the epithet अर्जुनेय (*arjuneya*) means.
+अहं मनुरभवं सूर्यश्चाहं कक्षीवा ऋषिरस्मि विप्रः । अहं कुत्समार्जुनेयं न्यृंजेऽहं कविरुशना पश्यता मा ॥ (*ahaṃ manurabhavaṃ sūryaścāhaṃ kakṣīvā ṛṣirasmi vipraḥ | ahaṃ kutsamārjuneyaṃ nyṛṃje 'haṃ kaviruśanā paśyatā mā ‖*) (Ṛ. Saṃ. 4-26-1)
+त्वं ह त्यदिंद्र कुत्समावः शुक्रूषमाणस्तन्वा समर्ये । दासं यच्छुष्णं कुवयं न्यस्मा आरंधय आर्जुनेयाय शिक्षन् ॥ (*tvaṃ ha tyadiṃdra kutsamāvaḥ śukrūṣamāṇastanvā samarye | dāsaṃ yacchuṣṇaṃ kuvayaṃ nyasmā āraṃdhaya ārjuneyāya śikṣan ‖*) (Ṛ. Saṃ. 7-19-2)
+यत्तुदत्तूर एतशं वज्गू वातस्य पर्णिना । वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गंधर्वमस्तृतं ॥ (*yattudattūra etaśaṃ vajgū vātasya parṇinā | vahatkutsamārjuneyaṃ śatakratuḥ tsaradgaṃdharvamastṛtaṃ ‖*) (Ṛ. Saṃ. 8-1-11)
+For the words occurring in such Ṛks Sāyaṇa in some contexts explains *arjunyāḥ putraṃ kutsaṃ*: Kutsa, the son of a woman named Arjunī; in other contexts, अर्जुन इतींद्रस्य नाम । तस्य पुत्रं (*arjuna itīṃdrasya nāma | tasya putraṃ*): Indra's name is Arjuna, and since Kutsa is his son, he has the epithet Ārjuneya. Where he speaks of him as Indra's son, he cites the Vājasaneyi-Saṃhitā mantra
+एतद्वा इंद्रस्य गुह्यं नाम यदर्जुनः । (*etadvā iṃdrasya guhyaṃ nāma yadarjunaḥ |*)
+and shows that the name Arjuna for Indra is well known in the Śruti and elsewhere. It may also be noted that other Śruti passages too say that the words Arjuna and Arjunī are connected with Indra. For example—
+फल्गुनीष्वग्नी आदधीत । एता वा इंद्रनक्षत्रं यत्फल्गुन्नोऽप्यस्य प्रतिनाम्योऽर्जुनो ह वै नामेंद्रो यदस्य गुह्यं नाम (*phalgunīṣvagnī ādadhīta | etā vā iṃdranakṣatraṃ yatphalgunno 'pyasya pratināmyo 'rjuno ha vai nāmeṃdro yadasya guhyaṃ nāma*) (Śa. Brā. 21-2-11)
+इंद्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहारिष्टोर्जुन इति । (*iṃdro bhavati yacca kṣatriyo yadu ca yajamānastasmādāhāriṣṭorjuna iti |*) (Śa. Brā. 5-4-3-7)
+The Phalgunīs are Indra's constellations, and there is agreement in the name: Indra is called Arjuna, and the Phalgunīs are called Arjunīs. Since the Śatapatha-Brāhmaṇa and other places say this, it is understood that Kutsa may be called in two ways, son of Indra or son of Arjunī.
+
 ---
 
-**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
+**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
