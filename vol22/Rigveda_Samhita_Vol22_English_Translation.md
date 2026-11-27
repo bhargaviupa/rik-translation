@@ -17206,6 +17206,280 @@ O Mitra and Varuna, for your coming he yoked to the chariot seven (सप्त 
 - वहंति (*vahaṃti*)—carry, such
 - सप्त (*sapta*)—seven
 
+### Printed p. 415
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संख्याकवू (*saṃkhyākavū*)—(continuing) of that number
+- हरितः (*haritaḥ*)—the horses of green colour
+- सधस्थात् (*sadhasthāt*)—from the firmament, the common place for all of you
+- अयुक्त (*ayukta*)—Sūrya has yoked to his chariot
+- युवाकुः (*yuvākuḥ*)—desiring your company
+- यः (*yaḥ*)—that same Sūrya who
+- यूथेव (*yūtheva*)—as a herdsman surveys all his herds of cows
+- धामानि (*dhāmāni*)—all the worlds
+- जनिमानि (*janimāni*)—all living beings
+- सं चष्टे (*saṃ caṣṭe*)—he looks at closely
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, Sūrya has yoked to his chariot, in the firmament that is the common dwelling-place of all of you, the seven green-coloured horses that, full of water, carry this god Sūrya. That same Sūrya, who desires your company, looks closely at all the worlds and all living beings, as a herdsman surveys all his herds of cows.
+
+##### English translation
+He has harnessed his seven bay steeds Mitra and Varuna, (to come from your common dwelling-place, (the firmament): the horses that, shedding water convcy that Surya who, friendly to you both, (contemplates all) regions, and looks carefully upon living creatures as (a herdsman) upon the herd.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्वां॑ पृ॒क्षासो॒ मधु॑मंतो अस्थु॒रा सूर्यो॑ अरुहच्छु॒क्रमर्णः॑ ।  
+> यस्मा॑ आदि॒त्या अध्व॑नो॒ रदं॑ति मि॒त्रो अ॑र्य॒मा वरु॑णः स॒जोषाः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । वां । पृक्षासः । मधुमंतः । अस्थुः । आ । सूर्यः । अरुहत् । शुक्रं । अर्णः ।  
+> यस्मै । आदित्याः । अध्वनः । रदंति । मित्रः । अर्यमा । वरुणः । सजोषाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवयोरर्थाय पृक्षासोऽन्नानि चरुपुरोडाशादीनि मधुमंतो माधुर्योपेतानि तेषां साधनान्योषध्यादीनि वोदस्थुः । संपादि-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Mitra and Varuṇa: for you the foods (पृक्षासः (*pṛkṣāsaḥ*)), the caru, puroḍāśa and the like, sweet and with their means, the plants and so on, have been prepared. ()
+
+### Printed p. 416
+
+> न्यासन् । सूर्यश्च शुक्रं दीप्तपुर्णोर्णवमंतरिक्षमारुहत् । आरोहति ।
+> यस्मै सूर्याय तद्गमनार्थमादित्या अदितेः पुत्रा देवा अध्वनो मार्गान्रदंति
+> विलिखंति साधयंति । के ते । मित्रोऽर्यमा वरुणश्चैते त्रयोऽपि देवाः सजोषसः समानप्रीतयः संतः । स देव आरुहदिति ॥
+
+##### Gist of the bhāṣya
+
+The sentence is completed: they have been prepared. Sūrya has mounted the shining, bright-bodied firmament. For his going the Ādityas, sons of Aditi, cut and make ready the paths. Who are they? Mitra, Aryaman and Varuṇa, these three gods, of one accord; by them that god has ascended.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—for you (O Mitra and Varuṇa)
+- पृक्षासः (*pṛkṣāsaḥ*)—foods such as caru and puroḍāśa
+- मधुमंतः (*madhumaṃtaḥ*)—endowed with sweetness
+- उपस्थाः (*upasthāḥ*)—have been prepared
+- यस्मै (*yasmai*)—for which Sūrya
+- सजोषाः (*sajoṣāḥ*)—of equal affection
+- आदित्याः (*ādityāḥ*)—sons of Aditi
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अध्वनः (*adhvanaḥ*)—the paths
+- रदंति (*radaṃti*)—open up and make ready
+- सूर्यः (*sūryaḥ*)—that Sūrya
+- शुक्रं (*śukraṃ*)—shining
+- अर्णः (*arṇaḥ*)—the firmament
+- आरुहत् (*āruhat*)—has ascended
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, foods such as caru and puroḍāśa, endowed with sweetness, have been prepared for you. Sūrya, for whom Mitra, Aryaman and Varuṇa, sons of Aditi and of equal affection, open up and make ready the paths, has ascended the shining firmament.
+
+##### English translation
+For you (Mitra and Varuna), the sweet-flavoured viands have been prepared: the sun has ascended the shining firmament, for whom the Adityas and the consentient Mitra, Varuna, Aryaman make ready the paths.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे चे॒तारो॒ अनृ॑तस्य॒ भूरे॑र्मि॒त्रो अ॑र्य॒मा वरु॑णो॒ हि संति॑ ।  
+> इ॒म ऋ॒तस्य॑ वावृधुर्दुरो॒णे श॒ग्मासः॑ पु॒त्रा अदि॑ते॒रद॑ब्धाः ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । चेतारः । अनृतस्य । भूरेः । मित्रः । अर्यमा । वरुणः । हि । संति ।  
+> इमे । ऋतस्य । ववृधुः । दुरोणे । शग्मासः । पुत्राः । अदितेः । अदब्धाः ॥५॥
+
+### Printed p. 417
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे मित्रोऽर्यमा वरुणश्च त्रयोऽप्यनृतस्य पापस्य भूरेः प्रभूतस्य चेतारो हंतारः संति । भवंति हि । इमे मित्रादय ऋतस्य यज्ञस्य दुरोणे गृहे ववृधुः । वर्धंते हविषा स्तुत्या च । कीदृशास्ते । शग्मासः सुखकरा अदितेः पुत्रा अदब्धाः अहिंसिताः ॥
+
+##### Gist of the bhāṣya
+
+These three, Mitra, Aryaman and Varuṇa, are destroyers of abundant अनृत (*anṛta*), that is, sin. These, Mitra and the others, grow in the house (दुरोणे (*duroṇe*)) of the sacrifice (ऋत (*ṛta*)), through oblation and praise. Of what kind are they? Bringers of happiness, sons of Aditi, unconquered, that is, unharmed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- इमे (*ime*)—these three deities
+- भूरेः (*bhūreḥ*)—of abundant
+- अनृतस्य (*anṛtasya*)—sin
+- चेतारः (*cetāraḥ*)—as destroyers
+- संति हि (*saṃti hi*)—they become
+- शग्मासः (*śagmāsaḥ*)—givers of happiness
+- अदितेः पुत्राः (*aditeḥ putrāḥ*)—sons of Aditi
+- अदब्धाः (*adabdhāḥ*)—unharmed
+- इमे (*ime*)—these deities
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- दुरोणे (*duroṇe*)—in the house
+- ववृधुः (*vavṛdhuḥ*)—are nourished (by the oblation)
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra, Aryaman and Varuṇa, these three deities, are destroyers of abundant sin. These deities, givers of happiness, sons of Aditi, unharmed, are nourished by the oblation in the house of sacrifice.
+
+##### English translation
+These (deities), Mitra, Aryaman, Varuna are the detecters of much untruth : these unconquered sons of Aditi, dispensers of happiness, are magnified in the hall of sacrifice.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे मि॒त्रो वरु॑णो दू॒ळभा॑सोऽचे॒तसं॑ चिच्चितयंति॒ दक्षैः॑  
+> अपि॒ क्रतुं॑ सु॒चेत॑सं॒ वतं॑तस्ति॒रश्चि॒दंहः॑ सु॒पथा॑ नयंति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । मित्रः । वरुणः । दुःऽदभासः । अचेतसं । चित् । चितयंति । दक्षैः ।  
+> अपि । क्रतुं । सुऽचेतसं । वतंतः । तिरः । चित् । अंहः । सुऽपथा । नयंति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इम आदित्या मित्रो वरुणश्च ।       ।  दूळभासो दुर्धभा अनभिभाव्या अचेतसं चिदप्रज्ञातमनुष्यानपि  ज्ञानरहितम
+> 53
+
+##### Gist of the bhāṣya
+
+These Ādityas, Mitra and Varuṇa, are दूळभासः (*dūḷabhāsaḥ*), unassailable, unconquerable. (The Sanskrit is damaged here.) Even men without understanding and devoid of knowledge … **NOTE**
+
+### Printed p. 418
+
+> दक्षैः सामर्थ्यैश्चितयंति । अपि सुचेतसं प्रकृष्टज्ञानवंतं पुरुषं क्रतुं कर्तारं कर्मानुष्ठानवंतं वतंतो गच्छंतोऽंहो दुष्कृतं तिरश्चित्तिरो नयंतोऽस्मान्सुपथा शोभनेन मार्गेण नयंति । प्रापयंत्यभिमतं यज्ञं स्वर्गादिकं वा ॥
+
+##### Gist of the bhāṣya
+
+They awaken with their powers. Moreover, going to the man of excellent understanding, the doer, who performs rites, and carrying off his sin, they lead us by a good path, they bring us to the desired sacrifice or to heaven and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa (and Aryaman)
+- इमे (*ime*)—these three deities
+- दूळभासः (*dūḷabhāsaḥ*)—possessed of unobstructed power
+- अचेतसं चित् (*acetasaṃ cit*)—even one devoid of knowledge of performing rites
+- दक्षैः (*dakṣaiḥ*)—by their powers
+- चितयंति (*citayaṃti*)—awaken
+- अपि (*api*)—and
+- सुचेतसं (*sucetasaṃ*)—one of excellent knowledge of rites
+- क्रतुं (*kratuṃ*)—to the man who performs rites
+- वतंतः (*vataṃtaḥ*)—going
+- अंहः (*aṃhaḥ*)—his sin
+- तिरश्चित् (*tiraścit*)—destroying
+- सुपथा (*supathā*)—(him) by an excellent path
+- नयंति (*nayaṃti*)—they lead
+
+##### भावार्थ (Bhāvārtha)
+
+These three deities, Mitra, Aryaman and Varuṇa, sons of Aditi, possessed of unobstructed power, awaken by their powers even the ignorant who do not know how to perform rites. And approaching the man of excellent knowledge of rites who performs them, they destroy his sin and lead him by an excellent path.
+
+##### English translation
+These, the unsubdued Mitra, Varuna, and Aryaman, animate with energies the unconseious (sleepers) : repairing to the intelligent performer (of pious acts), they lead (him), by safe paths (to heaven), removing all iniquity.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे दि॒वो अनि॑मिषा पृथि॒व्याश्चि॑कि॒त्वांसो॑ अचे॒तसं॑ नयंति ।  
+> प्र॒व्रा॒जे चि॑न्न॒द्यो॑ गा॒धम॑स्ति पा॒रं नो॑ अ॒स्य वि॑ष्पि॒तस्य॑ पर्षन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । दिवः । अनिमिषा । पृथिव्याः । चिकित्वांसः । अचेतसं । नयंति ।  
+> प्रव्राजे । चित् । नद्यः । गाधं । अस्ति । पारं । नः । अस्य । विष्पितस्य । पर्षन् ॥ ७ ॥
+
+### Printed p. 419
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे मित्रादयो दिवो द्युलोकस्य पृथिव्याश्च संबंधिनोऽनिमिषानिमिषेण सर्वदा चिकित्वांसो जानंतः । कं । अचेतसमज्ञानं । नयंति । प्रापयंति कर्माणि । प्रव्राजे चित् प्रवणेऽप्यत्यंतनिन्नेऽपि देशे नद्यो नद्या गाधमस्ति । भवति युष्मत्सामर्थ्यात् । ते महांतो नोऽस्माकमस्य विष्पितस्य व्याप्तस्य कर्मणः पारं पर्षन् । पारयंतु । नयंतु ॥
+
+##### Gist of the bhāṣya
+
+These, Mitra and the others, belonging to heaven and earth, always knowing with unwinking eye, lead the अचेतसं (*acetasaṃ*), the ignorant, to rites. Even in a stream's steep, deeply sunk place there is a ford, a bottom, through your power. May those great ones carry us across to the far shore of this extended rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमे (*ime*)—the deities Mitra, Varuṇa and Aryaman
+- दिवः (*divaḥ*)—belonging to the heavenly world
+- पृथिव्याः (*pṛthivyāḥ*)—belonging to the earth
+- अचेतसं (*acetasaṃ*)—ignorance
+- अनिमिषा (*animiṣā*)—with an unwinking gaze
+- चिकित्वांसः (*cikitvāṃsaḥ*)—knowing
+- नयंति (*nayaṃti*)—lead to the path of rites
+- नद्यः (*nadyaḥ*)—of the river
+- प्रव्राजे चित् (*pravrāje cit*)—even in the deepest place
+- गाधं अस्ति (*gādhaṃ asti*)—a bottom is found (through the greatness of these deities)
+- नः (*naḥ*)—our
+- विष्पितस्य (*viṣpitasya*)—extensive
+- अस्य (*asya*)—of this rite
+- पारं (*pāraṃ*)—to the shore
+- पर्षन् (*parṣan*)—may they carry
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra, Varuṇa and Aryaman, knowing with unwinking gaze the ignorance that belongs to heaven and to earth, lead all to the path of rites. Through the greatness of these deities a bottom is found even in the deepest place of a river. May these great deities cause this extended rite to be accomplished without hindrance. (May they carry across this river that is exceedingly extensive and of the nature of rites.)
+
+##### English translation
+(Beholding) with unclosing eyes, and cognizant (of the things) of heaven and earth, they conduct the ignorant man (to duty): in the lowest depth of the river, (through them), there is a bottom : may they lead us to the opposite shore of the vast expanse.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्गो॒पाव॒ददि॑तिः॒ शर्म॑ भ॒द्रं मि॒त्रो यच्छं॑ति॒ वरु॑णः सु॒दासे॑ ।  
+> तस्मि॒न्ना तो॒कं तन॑यं॒ दधा॑ना॒ मा क॑र्म देव॒हेळ॑नं तुरासः ॥
+
+### Printed p. 420
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । गोपावत् । अदितिः । शर्म । भद्रं । मित्रः । यच्छंति । वरुणः । सुदासे ।  
+> तस्मिन् । आ । तोकं । तनयं । दधानाः । मा । कर्म । देवहेळनं । तुरासः ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यच्छर्म सुखं गृहं वा गोपावद्रक्षणोपेतं भद्रं स्तुत्यमदितिरदीनोऽर्यमादितिर्वा मित्रो वरुणश्चैते त्रयो देवाः सुदासे सुदानाय मह्यं यच्छंति प्रयच्छंति तस्मिन् शर्मणि तोकं पुत्रं तनयं तत्पुत्रादिकं । अथवा तनयशब्दोऽपत्यसामान्यवचनः । तोकं बलवंतं पुत्रमा सर्वतो दधाना धारयंतो
+> वयं हे तुरासो गमनाय त्वरमाणाः देवहेळनं देवानां मित्रादीनां कोपनं मा कर्म । माकार्ष्म ॥
+
+##### Gist of the bhāṣya
+
+The शर्म (*śarma*), happiness or house, protected, भद्रं (*bhadraṃ*), praiseworthy, which Aditi (the undiminished Aryaman, or Aditi) and Mitra and Varuṇa, these three gods, give to me, the good giver (सुदासे (*sudāse*)): in that शर्म (*śarma*), holding on all sides sons (तोकं (*tokaṃ*)) and तनयं (*tanayaṃ*), their sons and so on (or तनय (*tanaya*) is a general word for offspring, and तोकं (*tokaṃ*) a strong son), may we, hastening to go (तुरासः (*turāsaḥ*)), not commit देवहेळनं (*devaheḷanaṃ*), the provoking of the gods, Mitra and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदितिः (*aditiḥ*)—Aryaman, of perfect form
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa (these three deities)
+- सुदासे (*sudāse*)—to me, who offer an excellent oblation
+- गोपावत् (*gopāvat*)—endowed with protection
+- भद्रं (*bhadraṃ*)—auspicious
+- यत् शर्म (*yat śarma*)—which house
+- यच्छंति (*yacchaṃti*)—they give
+- तस्मिन् (*tasmin*)—in that house
+- तोकं (*tokaṃ*)—sons
+- तनयं (*tanayaṃ*)—grandsons
+- आ दधानाः (*ā dadhānāḥ*)—I (and our people) having them everywhere
+- तुरासः (*turāsaḥ*)—being hasty
+- देवहेळनं (*devaheḷanaṃ*)—an act that provokes the anger of the gods
+- मा कर्म (*mā karma*)—may we not do
+
+##### भावार्थ (Bhāvārtha)
+
+In the house, protective and auspicious, that Aryaman, of perfect form, and Mitra and Varuṇa, these three deities, give to me who offer an excellent oblation, having sons and grandsons everywhere, may I and our people, hasty by nature, not perform any rites that provoke the anger of the gods.
+
+##### English translation
+Including our sons and grandsons in that preserving and auspicious felicity which Aditi, Mitra and Varuna confer upon the liberal donor (of the oblation), may we never, acting precipitately, incur the displeasure of the deities.
+
 ---
 
-**Progress note:** Done through printed p. 414. pp. 409-414 (batch API)
+**Progress note:** Done through printed p. 420. pp. 415-420 (batch API)
