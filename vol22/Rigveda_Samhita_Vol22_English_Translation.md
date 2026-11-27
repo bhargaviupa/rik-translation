@@ -16358,6 +16358,296 @@ O gods, by your protection, on the day dear to all gods, the day named for the p
 
 O gods, together with your protection, the sacrificer who worships you on the days of sacrifice dear to you conquers his enemies. The one who offers you very abundant oblations in order to prevent your going to another sacrificer, that same sacrificer makes his dwelling-place grow.
 
+### Printed p. 385
+
+##### English translation
+Through your protection, gods, the man who worships on an auspicious day overcomes his adversaries: he who offers abundant (sacrificial) food to you to detain you (at his rite) enlarges his habitation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि व॑श्चर॒मं च॒ न वसि॑ष्ठः परि॒मंस॑ते ।  
+> अ॒स्माक॑म॒द्य म॑रुतः सु॒ते सचा॒ विश्वे॑ पिबत का॒मिनः॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । वः । चरमं । चन । वसिष्ठः । परिंमंसते ।  
+> अस्माकं । अद्य । मरुतः । सुते । सचा । विश्वे । पिबत । कामिनः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसिष्ठ ऋषिर्वो युष्माकं मध्ये चरमं चनावरमपि नहि परिमंसते । वर्जयित्वा न स्तौति किंतु सर्वानेव युष्मान् स्तौतीत्यर्थः । अद्यास्मिन्दिनेऽस्माकमदीये सुते सोमेऽभिषुते सति हे मरुतः कामिनः सोमं कामयमाना विश्वे
+> यूयं सचा संगत्य पिबत । पानं कुरुत ॥
+
+##### Gist of the bhāṣya
+
+The seer Vasiṣṭha does not slight even the last, the lowest, among you; he does not leave anyone out in his praise but praises all of you. Today, on this day, when our Soma has been pressed, O Maruts, all of you who desire Soma, come together and drink; that is, perform the drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कामिनः (*kāminaḥ*)—those desiring Soma
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—among you
+- चरमं चन (*caramaṃ cana*)—even the very lowest
+- वसिष्ठः (*vasiṣṭhaḥ*)—Vasiṣṭha
+- नहि परिमंसते (*nahi parimaṃsate*)—does not despise
+- अद्य (*adya*)—on this sacrificial day
+- अस्माकं (*asmākaṃ*)—by us
+- सुते (*sute*)—when the Soma is pressed and offered
+- विश्वे (*viśve*)—all of you
+- सचा (*sacā*)—gathered together
+- पिबत (*pibata*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, desirous of Soma, Vasiṣṭha does not despise even the very lowest among you. On this sacrificial day, when the Soma has been pressed and offered by us, all of you come together and drink the Soma.
+
+##### English translation
+Vasishtha overlooks not the very lowest amongst you, Maruts, who are desirous (of the libation), do you all drink together to-day of our effused Soma juices.
+
+### Printed p. 386
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि व॑ ऊ॒तिः पृत॑नासु॒ मर्ध॑ति॒ यस्मा॒ अरा॑ध्वं नरः ।  
+> अ॒भि व॒ आ॑र्वत्सुम॒तिर्नवी॑यसी॒ तूयं॑ यात पिपीषवः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । वः । ऊतिः । पृतनासु । मर्धति । यस्मै । अराध्वं । नरः ।  
+> अभि । वः । आ । अर्वत् । सुमतिः । नवीयसी । तूयं । यात । पिपीषवः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्मदीयोती रक्षा पृतनासु युद्धेषु नहि मर्धति । न
+> खलु हिनस्ति । शत्रुभिः कृतां हिंसां न सहत इत्यर्थः । हे नरो नेतारो यूयं
+> यस्मै जनायाराध्वं कामानदध्वं तं जनं न हिनस्तीति संबंधः । नवीयसी नवतरा वो युष्मदीया सुमतिरनुग्रहबुद्धिरभ्यावर्त् । अस्मानभ्यावर्ततां । तथा हे
+> पिपीषवः सोमपानकामाः यूयमपि तूयं क्षिप्रं यात । आगच्छत ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, your protection does not harm in battles; that is, it does not tolerate the harm done by enemies. O leaders, the person to whom you grant desires, him it does not harm. Your newer favour, your benevolent thought, is to turn toward us. And you, eager to drink, come quickly; that is, come here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O leading Maruts
+- यस्मै (*yasmai*)—to whichever sacrificer
+- अराध्वं (*arādhvaṃ*)—you grant desired objects; him
+- वः (*vaḥ*)—your
+- ऊतिः (*ūtiḥ*)—protection
+- पृतनासु (*pṛtanāsu*)—in battles
+- नहि मर्धति (*nahi mardhati*)—does not harm
+- नवीयसी (*navīyasī*)—new
+- वः (*vaḥ*)—your
+- सुमतिः (*sumatiḥ*)—benevolent thought
+- अभ्यावर्त् (*abhyāvart*)—may it turn toward us
+- पिपीषवः (*pipīṣavaḥ*)—you who desire to drink Soma
+- तूयं (*tūyaṃ*)—quickly
+- यात (*yāta*)—come toward us
+
+##### भावार्थ (Bhāvārtha)
+
+O leading Maruts, the sacrificer to whom you grant desired objects is not harmed by your protection in times of battle. May your new (excellent) benevolent thought turn toward us. You also, who desire to drink Soma, come toward us.
+
+##### English translation
+Your protection, leaders (of rites), yields no detriment to him whom you defend in battles: may your latest favour return to us: come quickly, eager to drink the Soma.
+
+### Printed p. 387
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ षु घृ॑ष्विराधसो या॒तनांधां॑सि पी॒तये॑ ।  
+> इ॒मा वो॑ ह॒व्या म॑रुतो र॒रे हि कं॒ मो ष्व१॒॑न्यत्र॑ गंतन ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । सु । घृष्विराधसः । यातन । अंधांसि । पीतये ।  
+> इमा । वः । हव्या । मरुतः । ररे । हि । कं । मो इति । सु । अन्यत्र । गंतन ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे घृष्विराधसः परस्परघृष्टानि सुसंहतानि राधांसि येषां ते हे मरुतः
+> यूयमंधांसि सोमलक्षणानि हवींषि पीतये भक्षणार्थं सु सुष्ठु ओ यातन
+> आयात । हि यस्मात्कारणात् हे मरुतः वो युष्मभ्यमिमानि हव्या हव्यानि
+> हवींषि ररे अहं ददामि अतः कारणाद्यूयमन्यत्र मो षु गंतन । मा गच्छत ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, whose riches (राधांसि (*rādhāṃsi*)) are mutually rubbed together, i.e. well gathered: come well to the food, the Soma-oblations, for drinking, i.e. to consume them. Since I give you these oblations, therefore do not go elsewhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- घृष्विराधसः (*ghṛṣvirādhasaḥ*)—possessed of accumulated wealth
+- मरुतः (*marutaḥ*)—O Maruts
+- हि (*hi*)—for which reason
+- वः (*vaḥ*)—for you
+- इमा हव्या (*imā havyā*)—these oblations
+- ररे (*rare*)—I offer
+- अंधांसि (*aṃdhāṃsi*)—these oblations
+- पीतये (*pītaye*)—to partake of
+- सु (*su*)—exceedingly
+- ओ यातन (*o yātana*)—come here
+- अन्यत्र (*anyatra*)—elsewhere
+- मो षु गंतन (*mo ṣu gaṃtana*)—by no means go
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who have accumulated wealth, for the sake of which I offer these oblations to you, for that reason come here to partake of these offered oblations. By no means go elsewhere.
+
+##### English translation
+Do you whose riches are connected together come to partake of the (sacrificial) viands, for, Maruts, I offer to you these oblations, therefore go not away to any other (sacrifice).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ च॑ नो ब॒र्हिः सद॑तावि॒ता च॑ नः स्वाहा॒र्हाणि॒ धात॑वे॒ वसु॑ ।
+
+### Printed p. 388
+
+> अस्रेधंतो मरुतः सोम्ये मधौ स्वाहेह मादयाध्वै ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । च । नः । बर्हिः । सदत । अवित । च । नः । स्पार्हाणि । दातवे । वसु ।  
+> अस्रेधंतः । मरुतः । सोम्ये । मधौ । स्वाहा । इह । मादयाध्वै ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं नोऽस्मदीये बर्हिः कुशमये बर्हिष्या सदत च ।
+> उपविशत । स्पार्हाणि स्पृहणीयानि वसु वसूनि धनानि दातवेऽस्मभ्यं दातुं नोऽस्मानवित च । आगच्छत च । हे मरुतः अस्रेधंतो हिंसंतो यूयमिहास्मिन्नज्ञे
+> मधौ मदकरे सोम्ये सोमात्मके हविसि स्वाहा स्वाहाकारेण मादयाध्वै ।
+> मादयध्वं । माद्यत ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, sit upon our sacred grass (बर्हिः (*barhiḥ*)), made of kuśa; sit down. Come to help us, to give us desirable riches. O Maruts, doing no harm, delight here in this sacrifice, with the cry of svāhā, in the intoxicating Soma-oblation; मादयाध्वै (*mādayādhvai*) means "delight".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) नः (*naḥ*)—our
+- बर्हिः (*barhiḥ*)—on the seat of darbha grass
+- आ सदत (*ā sadata*)—sit down
+- स्पार्हाणि (*spārhāṇi*)—highly desired
+- वसु (*vasu*)—riches
+- दातवे (*dātave*)—to give
+- नः (*naḥ*)—to us
+- अवित च (*avita ca*)—come
+- मरुतः (*marutaḥ*)—O Maruts
+- अस्रेधंतः (*asredhaṃtaḥ*)—you who do no harm
+- इह (*iha*)—in this our sacrifice
+- स्वाहा (*svāhā*)—offered with the svāhā cry
+- मधौ (*madhau*)—delight-giving
+- सोम्ये (*somye*)—and consisting of Soma, in the oblation
+- मादयाध्वै (*mādayādhvai*)—enjoy satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, sit on our darbha seat. Come to us to give us the riches we greatly desire. O Maruts, you who are free from harming, in this our sacrifice enjoy the satisfaction that comes with the svāhā cry in the oblation that gives delight and consists of Soma.
+
+##### English translation
+Sit down on our sacred grass: come to bestow upon us desirable riches: doing no harm, Maruts, delight in the sweet Soma libation presented at this season.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒स्वश्चि॒द्धि त॒न्व१॒ः॑ शुंभ॑माना॒ आ हं॒सासो॒ नील॑पृष्ठा अपप्तन् ।
+
+### Printed p. 389
+
+> विश्वं शर्धो अभितो मा नि षेद नरो न रण्वाः सवने मदंतः ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सस्वः । चित् । हि । तन्वः । शुंभमानाः । आ । हंसासः । नीलपृष्ठाः । अपप्तन् ।  
+> विश्वं । शर्धः । अभितः । मा । नि । सेद । नरः । न । रण्वाः । सवने । मदंतः ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सस्वरंतर्हिता मरुतस्तन्वः स्वकीयान्यंगानि शुंभमाना अलंकरणैः शोभयंतो मरुतो नीलपृष्ठा असितवर्णा हंसासो हंसा इवापप्तन् । आपतंतु ।
+> आगच्छंतु । विश्वं शर्धो व्याप्तो मरुद्गणो वा मामभितः समंतान्नि षेद । निषीदतु । तत्र दृष्टांतः । सवनेऽस्मदीये यज्ञे मदंतो हृष्यंतो रण्वा रमणीया नरो न मनुष्या इव ऋत्विगादयो यथा निषीदंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+सस्वः (*sasvaḥ*) is a word with the svara concealed; it refers to the Maruts. Adorning their own bodies with ornaments, the dark-backed Maruts are to descend like swans; let them come. The whole, pervading company of Maruts is to sit down all around me. The illustration: as at our sacrifice, delighted and charming men such as the priests sit down, so may they.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सस्वः (*sasvaḥ*)—Maruts of hidden form
+- तन्वः (*tanvaḥ*)—their limbs
+- शुंभमानाः (*śuṃbhamānāḥ*)—adorning
+- नीलपृष्ठाः (*nīlapṛṣṭhāḥ*)—with dark-blue backs
+- हंसासः (*haṃsāsaḥ*)—like swans
+- आ अपप्तन् (*ā apaptan*)—may they descend
+- सवने (*savane*)—at our sacrifice
+- मदंतः (*madaṃtaḥ*)—who rejoice
+- रण्वाः (*raṇvāḥ*)—and have attractive form
+- नरो न (*naro na*)—like priests and the like
+- विश्वं शर्धः (*viśvaṃ śardhaḥ*)—the entire company of Maruts
+- मा अभितः (*mā abhitaḥ*)—around me
+- नि षेद (*ni ṣeda*)—may it sit
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, whose form is not revealed outwardly, adorn their limbs and descend like swans with blue-colored backs. May the whole company of Maruts also sit around me, like priests and the like who rejoice at our sacrifice and are of attractive form.
+
+##### English translation
+May the Maruts yet unrevealed, decorating their persons, descend like black-backed swans: let the entire company gather round me like happy men rejoicing together at a solemn rite.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॑ मरुतो अ॒भि दु॑र्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति ।
+
+### Printed p. 390
+
+> द्रुहः पाशान्प्रति स मुचीष्ट तपिष्ठेन हन्मना हंतना तं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । मरुतः । अभि । दुःहृणायुः । तिरः । चित्तानि । वसवः । जिघांसति ।  
+> द्रुहः । पाशान् । प्रति । सः । मुचीष्ट । तपिष्ठेन । हन्मना । हंतन । तं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साकमेधेषु मरुद्भ्यः सांतपनेभ्य इत्यस्य यो नो मरुत इति पूर्वानुवाक्या सांतपना इदमिति याज्या । तथा च सूत्रितं । सांतपना इदं हविर्यो नो मरुतो अभिदुर्हृणायुः । आ. २-१८ । इति ॥
+> हे वसवः प्रशस्या हे मरुतः नोऽस्मदीयानि चित्तानि दुर्हृणायुरशोभनं क्रुध्यंस्तिरः सर्वस्मिंस्तिरस्कृतो यो जनोऽभि जिघांसति अभिमुखेन हंतुमिच्छति स जनो द्रुहः पापानां द्रोग्धुर्वरुणस्य पाशानस्मासु प्रति स मुचीष्ट । बध्नीयात् । यूयं तं जनं तपिष्ठेन तप्तृतमेन हन्मना हननसाधनेनायुधेन हंतन । हत । हिंस्त ॥
+
+##### Gist of the bhāṣya
+
+In the Sākamedha rites, for the Sāntapana Maruts, the verse यो नो मरुत (*yo no maruta*) is the puronuvākyā and सांतपना इदं (*sāṃtapanā idaṃ*) is the yājyā. So it is stated in the sūtra: सांतपना इदं हविर्यो नो मरुतो अभिदुर्हृणायुः (*sāṃtapanā idaṃ haviryo no maruto abhidurhṛṇāyuḥ*) (Ā. 2-18).
+O Vasus, praiseworthy Maruts: the person who, angrily and ill-willed, scorned by all, wishes to kill us face to face, may he fasten on us the bonds of Varuṇa, the injurer of the wicked (द्रुहः (*druhaḥ*)); may he bind us. Do you slay that man with the most burning weapon, the instrument of killing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—O excellent
+- मरुतः (*marutaḥ*)—Maruts
+- नः (*naḥ*)—our
+- चित्तानि (*cittāni*)—minds
+- दुर्हृणायुः (*durhṛṇāyuḥ*)—one who cruelly hurts
+- यः (*yaḥ*)—whoever
+- अभि जिघांसति (*abhi jighāṃsati*)—wishes to kill us
+- सः (*saḥ*)—he
+- द्रुहः (*druhaḥ*)—of Varuṇa, the injurer of sinners
+- पाशान् (*pāśān*)—the bonds
+- प्रति स मुचीष्ट (*prati sa mucīṣṭa*)—may let loose upon us
+- तं (*taṃ*)—such a person
+- तपिष्ठेन (*tapiṣṭhena*)—with a burning
+- हन्मना (*hanmanā*)—with weapons
+- हंतन (*haṃtana*)—kill
+
+##### भावार्थ (Bhāvārtha)
+
+O excellent Maruts, those who cruelly hurt our minds and wish to kill us may loose upon us the bonds of Varuṇa, the injurer of sinners. Kill such people with your burning weapons.
+
+##### English translation
+The man, Maruts, who wounds our feelings, he who rebuked by all, yet seeks, Vasus, to kill us, he would bind us in the bonds of (Varuna), the avenger (of iniquity), such a man do you destroy with a consuming fatal weapon.
+
 ---
 
-**Progress note:** Done through printed p. 384. pp. 379-384 (batch API)
+**Progress note:** Done through printed p. 390. pp. 385-390 (batch API)
