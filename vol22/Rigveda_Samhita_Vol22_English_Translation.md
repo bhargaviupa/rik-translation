@@ -14155,6 +14155,209 @@ O Sārameya, let your mother lie down and sleep. Let your father also sleep. You
 ##### English translation
 Let the mother sleep, let the father sleep, let the dog sleep, let the lord of the house sleep, let all the kindred sleep, let the people (who are stationed) around sleep.
 
+### Printed p. 331
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आस्ते॒ यश्च॒ चर॑ति॒ यश्च॒ पश्य॑ति नो॒ जनः॑ ।  
+> तेषां॒ सं ह॑न्मो अ॒क्षाणि॒ यथे॒दं ह॒र्म्यंतथा॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । आस्ते । यः । च । चरति । यः । च । पश्यति । नः । जनः ।  
+> तेषां । सं । हन्मः । अक्षाणि । यथा । इदं । हर्म्यं । तथा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो जन आस्ते अस्मिन्प्रदेशे तिष्ठति यश्च चरति गच्छति यश्च जनो नोऽस्मान्पश्यति एवंभूतानां तेषां जनानामक्षाणींद्रियाणि सं हन्मः । संहनामु । संहतिर्निमीलनं । निमीलयामेत्यर्थः । इदं प्रत्यक्षेणोपलभ्यमानं हर्म्यं प्रासादादिस्थावरात्मकं वस्तुजातं यथा निश्चलं भवति तथेमे सर्वे जना निश्चला भवंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The person who stays (आस्ते (*āste*)) in this place, the one who moves about (चरति (*carati*)), and the person who sees us: of such people we close the senses (अक्षाणि (*akṣāṇi*), the organs of sense). सं हन्मः (*saṃ hanmaḥ*) means संहनामु (*saṃhanāmu*); संहति (*saṃhati*) is closing, so the meaning is "we shut them". As this visible mansion (हर्म्यं (*harmyaṃ*)), a fixed thing such as a palace, is motionless, so may all these people become motionless.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the people who
+- आस्ते (*āste*)—are standing here
+- यश्च (*yaśca*)—and who
+- चरति (*carati*)—move about
+- यश्च जनः (*yaśca janaḥ*)—and the people who
+- नः (*naḥ*)—us
+- पश्यति (*paśyati*)—are able to see
+- तेषां (*teṣāṃ*)—of all those people
+- अक्षाणि (*akṣāṇi*)—the eyes and other sense-organs
+- इदं हर्म्यं (*idaṃ harmyaṃ*)—this upper-storeyed house
+- यथा (*yathā*)—in the way that it is motionless
+- तथा (*tathā*)—so, that these too may be motionless
+- सं हन्मः (*saṃ hanmaḥ*)—we close the eyes
+
+##### भावार्थ (Bhāvārtha)
+
+Of all those people who are standing here, who move about, and who are able to see us, we close the eyes and other sense-organs, so that they become motionless just as this upper-storeyed house is motionless.
+
+##### English translation
+The man who sits, or he who walks, or he who sees us, of these we shut up the eyes, so that they may be as unconcious as the mansion.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑शृंगो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत् ।
+
+### Printed p. 332
+
+> तेन सहस्येन वयं नि जनान्स्वापयामसि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रशृंगः । वृषभः । यः । समुद्रात् । उत्आचरत् ।  
+> तेन । सहस्येन । वयं । नि । जनान् । स्वापयामसि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रशृंगः सहस्रकिरणो वृषभो कामानां वर्षिता यः सूर्यः समुद्रादंबुधेः सकाशादुदाचरत् उदागच्छति सहस्येनाभिभवित्रा तेन सूर्येण वयं स्तोतारो जनान् सर्वान् स्वापयामसि । नितरां स्वापयामः ॥
+
+##### Gist of the bhāṣya
+
+The bull (वृषभः (*vṛṣabhaḥ*)), the showerer of desires, with a thousand horns, that is, a thousand rays: the Sun who rises (उदाचरत् (*udācarat*) = उदागच्छति (*udāgacchati*)) from the ocean, from the water. By that Sun, the overpowering (सहस्येन (*sahasyena*) = *abhibhavitrā*), we the praisers put all people to sleep; नितरां स्वापयामः (*nitarāṃ svāpayāmaḥ*), we put them fully to sleep.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रशृंगः (*sahasraśṛṃgaḥ*)—having thousands of rays
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- यः (*yaḥ*)—the Sun who
+- समुद्रात् (*samudrāt*)—from the ocean
+- उदाचरत् (*udācarat*)—rises and comes
+- सहस्येव (*sahasyeva*)—restraining everything **NOTE**
+- तेन (*tena*)—with the help of that Sun
+- वयं (*vayaṃ*)—we, the praisers
+- जनान् (*janān*)—all these people
+- नि स्वापयामसि (*ni svāpayāmasi*)—we shall cause to sleep motionless
+
+##### भावार्थ (Bhāvārtha)
+
+With the help of that Sun, who has thousands of rays and showers desires, and who rises from the ocean, and who restrains everything, we the praisers shall hold back all these people and make them sleep motionless.
+
+##### English translation
+We put men to sleep through the irresistible might of the bull with a thousand horns, (sun) who rises out of the ocean.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो॒ष्ठे॒श॒या व॑ह्येश॒या नारी॒र्यास्त॑ल्प॒शीव॑रीः ।  
+> स्त्रियो॒ याः पुण्य॑गंधा॒स्ताः सर्वाः॑ स्वापयामसि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रोष्ठेशयाः । वह्येशयाः । नारीः । याः । तल्पशीवरीः ।  
+> स्त्रियः । याः । पुण्यगंधाः । ताः । सर्वाः । स्वापयामसि ॥ ८ ॥
+
+### Printed p. 333
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या योष्ट्यो नारीर्नार्यः स्त्रियः प्रोष्ठेशयाः प्रांगणे शयानाः । या वह्येशयाः । वह्यं वाहनं । तस्मिञ्छयानाः । यास्तल्पशीवरीस्तल्पशयाः । याः स्त्रियः पुण्यगंधाः मंगल्यगंधाः । तास्तादृशीः सर्वाः स्त्रीः स्वापयामसि । वयं निद्रां कारयामः ॥
+
+##### Gist of the bhāṣya
+
+The women (नारीः (*nārīḥ*), स्त्रियः (*striyaḥ*)) who lie in the courtyard (प्रोष्ठेशयाः (*proṣṭheśayāḥ*)); those who lie in a vehicle (वह्येशयाः (*vahyeśayāḥ*); वह्यं (*vahyaṃ*) is a conveyance, and they lie in it); those who lie on a couch (तल्पशीवरीः (*talpaśīvarīḥ*) = तल्पशयाः (*talpaśayāḥ*)); and the women who have auspicious fragrance (पुण्यगंधाः (*puṇyagaṃdhāḥ*) = मंगल्यगंधाः (*maṃgalyagaṃdhāḥ*)): all such women we put to sleep, we cause sleep.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः नारीः (*yāḥ nārīḥ*)—the women who
+- प्रोष्ठेशयाः (*proṣṭheśayāḥ*)—lie in the outer courtyard
+- या (*yā*)—and who
+- वह्येशयाः (*vahyeśayāḥ*)—lie on cots
+- तल्पशीवरीः (*talpaśīvarīḥ*)—lie on soft beds
+- याः स्त्रियः (*yāḥ striyaḥ*)—the women who
+- पुण्यगंधाः (*puṇyagaṃdhāḥ*)—have auspicious fragrance
+- ताः सर्वाः (*tāḥ sarvāḥ*)—all those women
+- स्वापयामसि (*svāpayāmasi*)—we shall cause to sleep
+
+##### भावार्थ (Bhāvārtha)
+
+We cause to sleep the women who lie in the outer courtyard, likewise those who lie on cots, those who lie on soft beds, and those who have auspicious fragrance: all these women.
+
+##### English translation
+We put to sleep all those women who are lying in the courtyard, in litter on the bed, the women who are decorated with holiday perfumes.
+
+## Sūkta 56 (Maṇḍala 7)
+**Introduction**
+In this sūkta and in the next three sūktas the Marut deities are praised. It is necessary to explain here the subject of these Marut deities.
+
+**A brief account of the Marut deities**
+In the Ṛgveda there is a custom of calling the Maruts sons of Rudra. On how they became Rudra's sons, Sāyaṇa explains as follows. In the Ṛk रुद्रो यद्वो मरुतो रुक्मवक्षसो वृषाजनि पृश्न्याः शुक्र ऊधनि ॥ (*rudro yadvo maruto rukmavakṣaso vṛṣājani pṛśnyāḥ śukra ūdhani ‖*) (Ṛ. Saṃ. 2-34-2) it is said that the Maruts were born of Rudra in Pṛśni. Since there is a well-known story that the Maruts were born as Rudra's sons in Pṛśni, this epithet is used most often whenever they are addressed. In explaining this Ṛk, Sāyaṇācārya tells another story as well:
+
+पृश्निर्नानावर्णा इयं भूमिः पुरा गोरूपधरासीत् । तस्यां महेशो वृषो भूत्वा मरुत उत्पादयामासेत्याचक्षते ॥ (*pṛśnirnānāvarṇā iyaṃ bhūmiḥ purā gorūpadharāsīt | tasyāṃ maheśo vṛṣo bhūtvā maruta utpādayāmāsetyācakṣate ‖*) (Sāyaṇa-bhāṣya, Ṛ. Saṃ. 2-34-2)
+
+### Printed p. 334
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नानावर्णवुळ्ळ पृथ्वियु हिंदॆ गोरूपवन्नु धरिसिदाग महेशनु वृषभरूपदिंद मरुत्तुगळन्नु उत्पन्नमाडिदनु ऎंब कथॆयिदॆ ऎंदु सायणरु रुद्रन मत्तु मरुत्तुगळ पितापुत्रसंबंधवन्नु तिळिसिदारॆ. मत्तु मेलिन ऋ. सं. २-३४-२ ने ऋक्किनल्लि हेळिरुव कथॆयु तैत्तिरीयसंहितॆयल्लियू उक्तवागिरुवुदरिंद अल्लिन वाक्यवन्नू उदाहरिसिदारॆ.
+> पृश्न्यै वै पयसो मरुतो जाताः ।
+> (तै. सं. २-२-११-४)
+> आदुदरिंदले अनेक कडॆगळल्लि मरुत्तुगळिगॆ रुद्रपुत्ररॆंदे संबोधनॆ इदॆ. उदाहरणॆगॆ—
+> प्र ये शुंभंते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।
+> (ऋ. सं. १-८५-१)
+> इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनं ।
+> रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ॥
+> (ऋ. सं. १-११४-६)
+> ऎंब ऋक्कुगळल्लियू, हीगॆये ऋ. सं. १-१६८-९ ; २-३३-१ मुंताद अनेक कडॆगळल्लियू मरुत्तुगळिगॆ रुद्रपुत्ररॆंब विशेषणविदॆ. मेलॆ उदाहरिसिरुव १-११४-६ ने ऋक्कन्नु विवरिसुवाग सायणरु इन्नॊंदु कथॆयन्नु हेळिद्दारॆ—
+> रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय । तदानीं दितिरसुरमाता इंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तःसन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशायोनेर्निर्गत्य अरुदन् । एतस्मिन्नवसरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यतामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान् समानरूपान् समानवयसः समानालंकारधरान् पुत्रान् कृत्वा गौर्यै प्रददौ तवेमे पुत्राः संत्विति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयंते । रौद्रेषु च मरुतां पिता रुद्र इति ॥
+
+Sāyaṇa shows the father–son relationship of Rudra and the Maruts: there is a story that when the many-coloured Earth formerly took the form of a cow, Mahēśa in the form of a bull begot the Maruts. And since the story told in the above Ṛk 2-33-2 **NOTE** is also stated in the Taittirīya Saṃhitā, he cites the sentence there as well:
+पृश्न्यै वै पयसो मरुतो जाताः (*pṛśnyai vai payaso maruto jātāḥ*) (Tai. Saṃ. 2-2-11-4)
+Therefore in many places the Maruts are addressed precisely as sons of Rudra. For example:
+प्र ये शुंभंते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः । (*pra ye śuṃbhaṃte janayo na saptayo yāmanrudrasya sūnavaḥ sudaṃsasaḥ |*) (Ṛ. Saṃ. 1-85-1)
+इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनं । रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ॥ (*idaṃ pitre marutāmucyate vacaḥ svādoḥ svādīyo rudrāya vardhanaṃ | rāsvā ca no amṛta martabhojanaṃ tmane tokāya tanayāya mṛḷa ‖*) (Ṛ. Saṃ. 1-114-6)
+In these Ṛks, and likewise in many other places such as Ṛ. Saṃ. 1-168-9; 2-33-1, the Maruts have the epithet "sons of Rudra". In explaining Ṛk 1-114-6 cited above, Sāyaṇa tells another story:
+रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय । तदानीं दितिरसुरमाता इंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तःसन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशायोनेर्निर्गत्य अरुदन् । एतस्मिन्नवसरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यतामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान् समानरूपान् समानवयसः समानालंकारधरान् पुत्रान् कृत्वा गौर्यै प्रददौ तवेमे पुत्राः संत्विति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयंते । रौद्रेषु च मरुतां पिता रुद्र इति ॥ (*rudrasya ca marutāṃ pitṛtvamevamākhyāyate | purā kadācidiṃdro 'surān jigāya | tadānīṃ ditirasuramātā iṃdrahananasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśādgarbhaṃ lebhe | imaṃ vṛttāṃtamavagacchanniṃdro vajrahastaḥsan sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṃḍamakarot | te sarve garbhaikadeśāyonernirgatya arudan | etasminnavasare līlārthaṃ gacchaṃtau pārvatīparameśvarau imān dadṛśatuḥ | maheśaṃ prati pārvatī evamavocat | ime māṃsakhaṃḍā yathā pratyekaṃ putrāḥ saṃpadyatāmevaṃ tvayā kāryaṃ mayi cetprītirastīti | sa ca maheśvarastān samānarūpān samānavayasaḥ samānālaṃkāradharān putrān kṛtvā gauryai pradadau taveme putrāḥ saṃtviti | ataḥ sarveṣu māruteṣu sūkteṣu maruto rudraputrā iti stūyaṃte | raudreṣu ca marutāṃ pitā rudra iti ‖*) (Sāyaṇa-bhāṣya, Ṛ. Saṃ. 1-114-6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 335
+
+> पूर्वदल्लि ऒंदुसल इंद्रनु असुररन्नु जयिसिदनु. आग असुरमातॆयाद दितियु इंद्रनन्नु कॊल्ललु समर्थनाद ऒब्ब पुत्रनन्नु पडॆयबेकॆंब आसॆयिंद तपस्सन्नाचरिसि तन्न पतिय अनुग्रहदिंद गर्भवन्नु धरिसिदळु. इंद्रनु ई समाचारवन्नु तिळिदु वज्रायुधवन्नु कैयल्लि हिडिदुकॊंडु सूक्ष्मरूपियागि बंदु अवळ उदरवन्नु प्रवेशिसि आ गर्भवन्नु एळुभागवागि सीळिदनु. अवुगळल्लि प्रतियॊंदन्नू पुनः एळेळु तुंडुगळन्नागि माडिदनु. आग अवॆल्लवू मातृगर्भदिंद हॊरक्कॆ बंदु अळुत्तिद्दवु. आ समयदल्लि लीलार्थवागि पार्वतीपरमेश्वररिब्बरू संचरिसुत्तिद्दाग इवन्नु नोडि पार्वतियु मरुकगॊंडु, महेश्वरनन्नु कुरितु, ऎलै प्रियने, निनगॆ नन्नल्लि प्रीतियिरुवुदादरॆ अळुत्तिरुव ई मांसखंडगळॆल्लवन्नू मक्कळन्नागि परिवर्तिसबेकॆंदु प्रार्थिसिदळु. आग परमेश्वरनु पार्वतिय प्रार्थनॆयन्नु मन्निसि अवॆल्लवन्नू ऒंदे विधवाद रूपवुळ्ळवरन्नागियू, ऒंदे वयस्सिनवरागियू, ऒंदेविध अलंकारवुळ्ळवरन्नागियू माडि पुत्ररूपराद अवरन्नु-इवु निन्न पुत्ररागलि ऎंदु गौरिगॆ कॊट्टनु. आदुदरिंद मरुत्सूक्तगळल्लॆल्ला मरुत्तुगळिगॆ रुद्रपुत्ररॆंदू, रुद्रसूक्तगळल्लि रुद्रनिगॆ मरुत्तुगळ तंदॆयॆंदू हेळुव रूढि बंदितॆंदु सायणरु ई इतिहासवन्नु हेळुत्तारॆ.
+> इंद्रनिगू मरुत्तुगळिगू इरुव साहचर्य
+> इंद्रनिगू मरुत्तुगळिगू इरुव शाश्वतवाद साहचर्यवु प्रसिद्धवादुदु. इंद्रनिगू, मरुत्तुगळिगू इरुव राजप्रजासंबंधवू, मरुत्तुगळॊडगूडिद इंद्रनिगॆ मुख्यवाद यज्ञक्रियॆगळल्लि हविस्सिन अर्पणॆयू मत्तु वृत्रासुरनॊडनॆ युद्धवन्नु माडुवाग इंद्रनिगॆ मरुत्तुगळु सहायमाडुवुदू संहितॆगळल्लियू, ब्राह्मणगळल्लियू अनेककडॆ वर्णितवागिवॆ. इंद्रनु मरुत्तुगळॊडनॆ सेरिकॊंडु उळिद देवतॆगळिंद प्रत्येकवागिद्दुदन्नु हेळुव पूर्वकथॆयु शतपथब्राह्मणदल्लिरुवुदु.
+> आतिथ्येन वै देवा इष्ट्वा । तान्नमदविंदत्ते चतुर्धा व्यद्रवन्न्योन्यस्य श्रियोतिष्ठमाना अग्निर्वसुभिस्सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्बृहस्पतिर्विश्वैर्देवैः ॥
+> (श. ब्रा. २-४-३-१)
+> हीगॆ देवतॆगळु आतिथ्यक्रियॆयन्नु नॆरवेरिसिदाग अवरवरल्ले वैमनस्यवुंटागि ऒब्बरिगॊब्बरु सेरलिष्टपडदॆ नाल्कु गुंपुमाडिकॊंडु बेरॆबेरॆयादरु. आग अग्नियु वसुगळॊंदिगू, सोमनु रुद्ररॊंदिगू, वरुणनु आदित्यरॊंदिगू, इंद्रनु मरुत्तुगळॊंदिगू, बृहस्पतियु विश्वेदेवतॆगळॊंदिगू कूडिकॊंडु प्रत्येकवागि गुंपुमाडिकॊंडरु ऎंब कथॆयल्लि इंद्रनु मरुत्तुगळॊडनॆ साहचर्यवन्नु बॆळॆसि अवरॊडनॆ इट्टुकॊंडिरुव निकटवाद संबंधवन्नु हेळिरुवुदु. इदू अल्लदॆ इंद्रने राजनॆंदू मरुत्तुगळे प्रजॆगळॆंदू अनेककडॆ हेळिदॆ. उदाहरणॆगॆ—
+
+The Kannada gives the story in its own words: Formerly Indra once conquered the Asuras. Then Diti, mother of the Asuras, desiring a son able to kill Indra, practised austerity and by the grace of her husband conceived a child. Indra learned of this, took the thunderbolt in his hand, became subtle in form, entered her womb and split the embryo into seven parts; he then made each of these into seven pieces again. They all came out of the mother's womb and wept. At that time Pārvatī and Parameśvara, walking for sport, saw them; Pārvatī, moved to pity, begged Maheśvara: "Dear one, if you love me, change all these weeping pieces of flesh into children." Parameśvara granted Pārvatī's prayer, made them all of one form, one age and one kind of adornment, and gave them to Gaurī as sons, saying "Let these be your sons." Therefore in all the Marut hymns the Maruts are called sons of Rudra, and in the Rudra hymns Rudra is called father of the Maruts; Sāyaṇa tells this history to explain that custom.
+
+**The companionship of Indra and the Maruts**
+The abiding companionship of Indra and the Maruts is well known. Their relation of king and subjects, the offering of oblations in the chief sacrificial rites to Indra together with the Maruts, and the Maruts' helping Indra when he fought the Asura Vṛtra, are described in many places in the Saṃhitās and Brāhmaṇas. The old story telling how Indra, joined with the Maruts, stood apart from the other gods is in the Śatapatha Brāhmaṇa:
+आतिथ्येन वै देवा इष्ट्वा । तान्नमदविंदत्ते चतुर्धा व्यद्रवन्न्योन्यस्य श्रियोतिष्ठमाना अग्निर्वसुभिस्सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्बृहस्पतिर्विश्वैर्देवैः ॥ (*ātithyena vai devā iṣṭvā | tānnamadaviṃdatte caturdhā vyadravannyonyasya śriyotiṣṭhamānā agnirvasubhissomo rudrairvaruṇa ādityairiṃdro marudbhirbṛhaspatirviśvairdevaiḥ ‖*) (Śa. Brā. 2-4-3-1)
+When the gods had performed the Ātithya rite, ill feeling arose among them, and, unwilling to join one another, they divided into four groups. Agni joined the Vasus, Soma the Rudras, Varuṇa the Ādityas, Indra the Maruts, and Bṛhaspati the Viśve Devāḥ, each forming a separate group. This story states the close bond Indra kept with the Maruts through his companionship with them. Besides, in many places it is said that Indra is the king and the Maruts the subjects. For example:
+
+### Printed p. 336
+
+> क्षत्रं वा इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति ॥
+> (श. ब्रा. ४-३-३-६)
+> इंद्रनु क्षात्रतेजस्सुळ्ळ राजनु, मरुत्तुगळे प्रजॆगळु. प्रजॆगळ सहकारदिंदले राजनु शक्तियुळ्ळवनागि आगुत्तानॆंदू मरुत्तुगळ साहायदिंद इंद्रन पराक्रमवु वृद्धियायितॆंदू सूचिसिदॆ. ई रीतियाद निकटवाद संबंधवू, साहचर्यवू इरुवुदरिंदले इंद्रनन्नू मरुत्तुगळन्नू ऒट्टिगॆ उद्देशिसि हविस्सन्नु अर्पिसुव क्रमवू श्रुतिगळल्लि कंडुबरुत्तदॆ.
+> अनवद्यैरभिद्युभिर्मखः सहस्वदर्चति ।
+> गणैरिंद्रस्य काम्यैः ॥
+> (ऋ. सं. १-६-८)
+> मंद्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इंद्रो मरुतः परिष्टुभः ।
+> (ऋ. सं. १-१६६-११)
+> स नो मरुद्भिर्वृषभ श्रवो धा उग्रेभिः स्थविरः सहोदाः ।
+> (ऋ. सं. १-१७१-५)
+> इत्यादि ऋक्कुगळल्लि इंद्रनिगू मरुत्तुगळिगू ऒट्टिगॆ सेरिसि आह्वानवू हविरर्पणॆयू इरुवुदु कंडुबरुत्तदॆ. ईरीतिय साहचर्यविरुवुदरिंदले इल्लियू सह मरुत्वान् ऎंब विशेषणविदॆ. मरुत्तुगळॊडगूडिरुव इंद्रनन्नु उद्देशिसिरुव संदर्भगळल्लॆल्ला इंद्रनन्नु मरुत्वान् ऎंदे करॆदिदॆयॆंदु बृहद्देवतॆयॆंब ग्रंथदल्लि ई देवतॆगळ संबंधसूचकवाद विशेषणवन्नु विवरिसिदॆ.
+> मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् ।
+> (बृ. दे. ४-५७)
+> मरुद्देवतॆगळ विशेषविवरणॆ
+> पुराणादिग्रंथगळल्लियू, आधुनिकसाहित्यदल्लियू मरुत्, वायु ऎंब शब्दगळ अर्थ विषयदल्लि विशेषव्यत्यासवु कंडुबरुवुदिल्ल. ई शब्दगळ विषयदल्लि गाळि अथवा वायुदेवतॆ ऎंदे अर्थमाडि व्यवहरिसुव रूढि इदॆ. आदरॆ ऋग्वेददल्लि ई ऎरडु शब्दगळिगू अर्थदल्लियू, प्रयोग अथवा व्यवहारदल्लियू परस्पर बहळ व्यत्यासविदॆ. वायु अथवा वात ऎंदरॆ अंतरिक्ष अथवा आकाशदल्लि व्यापिसिरुव गाळि अथवा वायुदेवतॆ. गाळि ऎंब अर्थक्किंतलू वायुदेवतॆ ऎंब व्यवहारवे हॆच्चु बळकॆयल्लिदॆ- मत्तु ई देवतॆयन्नु स्तुतिसुवागलॆल्ला एकवचनप्रयोगगळे इरुवुदु. आदरॆ मरुद्देवतॆगळन्नु यावागलू बहुवचनप्रयोगदिंदले व्यवहरिसलागिदॆ. इदल्लदॆ वायु मत्तु मरुत्तुगळ वैशिष्ट्यदल्लियू बहळ व्यत्यासविदॆ. वायुविन गुणवर्णनॆयु विशेषवागिल्ल. वायुवु अंतरिक्षदल्लि नॆलॆसिरुवुदरिंद मध्यस्थानदेवतॆयॆंदु प्रसिद्धनागिद्दानॆ. मरुत्तुगळु अनेकराद्दरिंद इवरन्नु देवगणवॆंदु करॆयुव रूढि इदॆ. सप्तगणास्वै वै मरुतः, मारुतं शर्धः; मारुतं गणं इत्यादि शब्दगळिंद अथवा इदे अर्थविरुव इतर शब्दगळिंद व्यवहरिसुवुदे रूढियु. इवरू वायुविनंतॆ मध्यमस्थान (अंतरिक्ष) देवतॆगळे आगिद्दारॆ.
+
+The Kannada continues: Indra is the king who has the brilliance of the warrior class; the Maruts are the people. It is indicated that the king becomes powerful only through the people's cooperation, and that Indra's prowess increased through the Maruts' help. Because of such a close relation and companionship, the order of offering oblations to Indra and the Maruts together is also found in the Śrutis. In the Ṛks अनवद्यैरभिद्युभिर्मखः सहस्वदर्चति । गणैरिंद्रस्य काम्यैः ॥ (*anavadyairabhidyubhirmakhaḥ sahasvadarcati | gaṇairiṃdrasya kāmyaiḥ ‖*) (Ṛ. Saṃ. 1-6-8), मंद्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इंद्रो मरुतः परिष्टुभः । (*maṃdrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā iṃdro marutaḥ pariṣṭubhaḥ |*) (Ṛ. Saṃ. 1-166-11), स नो मरुद्भिर्वृषभ श्रवो धा उग्रेभिः स्थविरः सहोदाः । (*sa no marudbhirvṛṣabha śravo dhā ugrebhiḥ sthaviraḥ sahodāḥ |*) (Ṛ. Saṃ. 1-171-5) and the like, a joint invocation and offering to Indra and the Maruts is seen. Because of such companionship, here too the epithet मरुत्वान् (*marutvān*) is used. The work called Bṛhaddevatā explains this epithet, which denotes the relation of these deities: in all contexts that address Indra together with the Maruts, Indra is called Marutvān:
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat*) (Bṛ. De. 4-57)
+
+**A further account of the Marut deities**
+In the Purāṇas and other works and in modern literature no great difference is seen in the meaning of the words मरुत् (*marut*) and वायु (*vāyu*); it is the custom to take them as wind or the wind-god. But in the Ṛgveda these two words differ greatly from each other, both in meaning and in usage. वायु (*vāyu*) or वात (*vāta*) is the wind pervading the atmosphere or sky, or the wind-god. The usage "wind-god" is commoner than the meaning "wind", and whenever this deity is praised the singular is used. But the Marut deities are always spoken of in the plural. Moreover, Vāyu and the Maruts differ greatly in their characteristics. Vāyu's qualities are not described at length; because he abides in the atmosphere he is known as a deity of the middle region. Because the Maruts are many, it is the custom to call them a troop of gods. They are usually spoken of with the words सप्तगणास्वै वै मरुतः (*saptagaṇāsvai vai marutaḥ*), मारुतं शर्धः (*mārutaṃ śardhaḥ*), मारुतं गणं (*mārutaṃ gaṇaṃ*) and the like, or with other words of the same meaning. Like Vāyu, they too are deities of the middle region (the atmosphere).
+
 ---
 
-**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
+**Progress note:** Done through printed p. 336. pp. 331-336 (batch API), one remark removed
