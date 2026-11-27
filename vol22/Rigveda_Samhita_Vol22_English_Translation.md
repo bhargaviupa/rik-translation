@@ -1435,6 +1435,8 @@ This sūkta beginning पिबा सोममिंद्र मंदतु �
 
 Sūtra, in the sūtra न ते गिरो अपि मृष्ये तुरस्य प्र वो महे महिवृधे भरध्वं (*na te giro api mṛṣye turasya pra vo mahe mahivṛdhe bharadhvaṃ*) (Ā. 7-11).
 
+Sūkta 22. Maṇḍala 7; Anuvāka 3; Sūkta 22. Aṣṭaka 5; Adhyāya 3; Varga 5, 6. Number of Ṛks in the sūkta: 9. Seer: Vasiṣṭha. Deity: Indra. Metre: Ṛks 1–8, Virāj; Ṛk 9, Triṣṭubh.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -1859,6 +1861,8 @@ Sāyaṇa says: The sūkta of six Ṛks beginning उदु ब्रह्म�
 
 The sūkta उदु ब्रह्माणि (*udu brahmāṇi*) is the sixth sūkta in the second anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as उदु षट् (*udu ṣaṭ*). It is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra उदु ब्रह्माण्यर्जेषी वज्री वृषभस्तुराषाळिति याज्या (*udu brahmāṇyarjeṣī vajrī vṛṣabhasturāṣāḷiti yājyā*) (Ā. 5-13) that this sūkta is applied for the recitation mantras to be recited, at the time of the midday pressing in the Agniṣṭoma sacrifice, by the priest called Brāhmaṇācchaṃsin. It is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra उदु ब्रह्माण्यभि तष्ट्वेवेतीतरावहरहःशस्ये (*udu brahmāṇyabhi taṣṭvevetītarāvaharahaḥśasye*) (Ā. 7-4) that on the day of the sacrifice called Chāturviṃśika, at the time of the midday pressing, when the priest called Brāhmaṇācchaṃsin recites the recitation mantras, this sūkta is to be recited as the sūkta called Śasya, to be recited every day; and in the Ahargaṇas this sūkta is to be recited from the second day onwards. It is indicated by the sentence of the Aitareya Āraṇyaka उदु ब्रह्माण्यैरत श्रवस्या ते मह इंद्रोत्युग्रेति पंच सूक्तानि (*udu brahmāṇyairata śravasyā te maha iṃdrotyugreti paṃca sūktāni*) that in the Mahāvrata sacrifice also this sūkta is applied for the Niṣkevalya recitation mantras.
 
+Sūkta 23. Maṇḍala 7; Anuvāka 3; Sūkta 23. Aṣṭaka 5; Adhyāya 3; Varga 7. Number of Ṛks in the sūkta: 6. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -2180,6 +2184,8 @@ Sāyaṇa says: The sūkta of six Ṛks beginning योनिष्ट इं�
 
 The sūkta योनिष्ट इंद्र सदने अकारि (*yoniṣṭa iṃdra sadane akāri*) is the seventh sūkta in the second anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated beginning with योनिः (*yoniḥ*). Its application is in the Mahāvrata sacrifice, for the mantras of the niṣkevalya recitation, as is indicated by the sentence of the Aitareya Āraṇyaka योनिष्ट इंद्र सदने अकारीत्येतस्य चतस्रः शस्त्वोत्तमामुपसंतन्वोत्तमया परिदधाति (*yoniṣṭa iṃdra sadane akārītyetasya catasraḥ śastvottamāmupasaṃtanvottamayā paridadhāti*) (Ai. Ā. 5-3-1).
 
+Sūkta 24. Maṇḍala 7; Anuvāka 2; Sūkta 24. Aṣṭaka 5; Adhyāya 3; Varga 8. Number of Ṛks in the sūkta: 6. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -2500,6 +2506,8 @@ Sāyaṇa says: The sūkta of six Ṛks beginning आ ते मह इंद्
 
 The sūkta आ ते मह इंद्र (*ā te maha iṃdra*) is the eighth sūkta in the second anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated beginning with आ ते (*ā te*). Its application, from this sūkta onward for the five sūktas, is in the Mahāvrata sacrifice, for the mantras of the niṣkevalya recitation, as is indicated by the sentence of the Aitareya Āraṇyaka आ ते मह इंद्रोत्युग्रेति पंच सूक्तानि (*ā te maha iṃdrotyugreti paṃca sūktāni*) (Ai. Ā. 5-2-2).
 
+Sūkta 25. Maṇḍala 7; Anuvāka 2; Sūkta 25. Aṣṭaka 5; Adhyāya 3; Varga 9. Number of Ṛks in the sūkta: 6. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -2817,6 +2825,8 @@ Sāyaṇa says: The sūkta of five Ṛks beginning न सोम इंद्र
 
 The sūkta न सोम इंद्रं (*na soma iṃdraṃ*) is the ninth sūkta in the second anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as न सोमः पंचे (*na somaḥ paṃce*). It has already been said earlier that this sūkta is applied in the Mahāvrata sacrifice for the mantras of the niṣkevalya recitation.
 
+Sūkta 26. Maṇḍala 7; Anuvāka 2; Sūkta 26. Aṣṭaka 5; Adhyāya 3; Varga 10. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -3079,6 +3089,8 @@ Thus does Vasishtha glorify Indra, the showerer (of benefits) upon the worshippe
 Sāyaṇa says: The sūkta of five Ṛks beginning इंद्रं नर (*iṃdraṃ nara*) is the tenth sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra. The Anukramaṇī records it with इंद्रं नर (*iṃdraṃ nara*). In the Mahāvrata, at the niṣkevalya recitation, this sūkta is recited as the third. In the animal sacrifice to Indra, the first three Ṛks are in order the anuvākyā verses for the vapā, the puroḍāśa and the oblation. It is laid down by the sūtra इंद्रं नरो नेमधिता हवंत इत्युरुं नो लोकमनु नेषि विद्वान् (*iṃdraṃ naro nemadhitā havaṃta ityuruṃ no lokamanu neṣi vidvān*) (Ā. Sū. 3-7).
 
 The sūkta इंद्रं नरः (*iṃdraṃ naraḥ*) is the tenth sūkta in the second anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as इंद्रं नरः (*iṃdraṃ naraḥ*). In the Mahāvrata sacrifice, when the mantras of the niṣkevalya recitation are recited, this sūkta is to be recited as the third sūkta. And in the animal oblation to Indra, when the vapā, the puroḍāśa and the oblation are offered, the first three Ṛks of this sūkta are to be recited in order as anuvākyā mantras, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्रं नरो नेमधिता हवंत इत्युरुं नो लोकमनु नेषि विद्वान् (*iṃdraṃ naro nemadhitā havaṃta ityuruṃ no lokamanu neṣi vidvān*) (Ā. Sū. 3-7).
+
+Sūkta 27. Maṇḍala 7; Anuvāka 2; Sūkta 27. Aṣṭaka 5; Adhyāya 3; Varga 11. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
 
 #### Ṛk 1
 
@@ -3344,6 +3356,8 @@ Sāyaṇa says: The sūkta of five Ṛks beginning ब्रह्माण इ�
 The sūkta ब्रह्माण इंद्र (*brahmāṇa iṃdra*) is the eleventh sūkta in the second anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as ब्रह्माणः (*brahmāṇaḥ*). Its application has been stated: at the Mahāvrata, at the time of the niṣkevalya recitation, this sūkta is to be recited as the fifth sūkta. And on the eighth day of the sacrifice, in the recitation of the Praüga-śastra mantras, the first three Ṛks of this sūkta are to be recited as the triplet addressed to Indra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra (Ā. Sū. 8-10).
 
 ### Printed p. 69
+
+Sūkta 28. Maṇḍala 7; Anuvāka 2; Sūkta 28. Aṣṭaka 5; Adhyāya 3; Varga 12. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭubh.
 
 #### Ṛk 1
 
@@ -4209,7 +4223,7 @@ Sing, friends, an exhilarating hymn to Indra, the lord of bay steeds, the drinke
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says: And, O praiser, as other men, the praisers, recite a praise that is a means of brilliance to Indra of good gifts and true wealth, so do you also recite it, utter it; the particle इत् (*it*) is a filler. And we too have made praise.
+Sāyaṇa says: And, O praiser, as other men, the praisers, recite a praise that is a means of brilliance to Indra of good gifts and true wealth, so do you also recite it, utter it; the particle इत् (*it*) is a filler. And let us too make the praise.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -6439,7 +6453,7 @@ In this Ṛk and in some of the following Ṛks the account of the birth of the 
 
 Sāyaṇa says: "And also, Vasiṣṭha, you are Maitrāvaruṇa, the son of Mitra and Varuṇa. O Brahman Vasiṣṭha, from the thought of Urvaśī the Apsaras, 'May this be my son', and from the sight of Urvaśī, the seed (द्रप्सं (*drapsaṃ*)) of Mitra and Varuṇa was spilled. From that you were born." As will be said in the Ṛk beginning *satre ha jātau*. Thus born, you, endowed with the divine Brahman (the mass of the Veda, self-existent), were held (आददंत (*ādadaṃta*), "supported") by all the gods in the lake (पुष्करे (*puṣkare*)).
 
-He then quotes, with a reference, the verses that state this about Aditi's sons Mitra and Varuṇa. At their sacrificial session they saw the Apsaras Urvaśī, and the seed fell into the jar called Vasatīvara. In that same moment the two powerful ascetic seers, Agastya and Vasiṣṭha, came into being there. The seed fell in many ways: in the jar, in the water and on the ground. On the ground the sage Vasiṣṭha, best of seers, arose; in the jar Agastya arose; in the water a great shining fish. Then Agastya, of great austerity, rose up, measuring a śamyā. Because he was measured by a measure (मानेन (*mānena*)) he is called Mānya here; or else the seer was born of the jar (कुंभ (*kuṃbha*)), and by a jar one measures, for "kumbha" is a name for a measure. Then, as the waters were being taken up, Vasiṣṭha stood on the lotus (पुष्करे (*puṣkare*)), and the Viśvedevas held him there on every side. The reference is given as बृ. ५-२८३ रिंद २८९ (*bṛ. 5-283 riṃda 289*) (Bṛ. 5-283 to 289).**NOTE**
+He then quotes, with a reference, the verses that state this about Aditi's sons Mitra and Varuṇa. At their sacrificial session they saw the Apsaras Urvaśī, and the seed fell into the jar called Vasatīvarī. In that same moment the two powerful ascetic seers, Agastya and Vasiṣṭha, came into being there. The seed fell in many ways: in the jar, in the water and on the ground. On the ground the sage Vasiṣṭha, best of seers, arose; in the jar Agastya arose; in the water a great shining fish. Then Agastya, of great austerity, rose up, measuring a śamyā. Because he was measured by a measure (मानेन (*mānena*)) he is called Mānya here; or else the seer was born of the jar (कुंभ (*kuṃbha*)), and by a jar one measures, for "kumbha" is a name for a measure. Then, as the waters were being taken up, Vasiṣṭha stood on the lotus (पुष्करे (*puṣkare*)), and the Viśvedevas held him there on every side. The reference is given as बृ. ५-२८३ रिंद २८९ (*bṛ. 5-283 riṃda 289*) (Bṛ. 5-283 to 289).**NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -6584,7 +6598,7 @@ Tvaṣṭṛ, Pūṣan, Indra and Viṣṇu: these are the twelve children. Vi�
 रेतश्चस्कंद तत्कुंभे न्यपतद्वासतीवरे ॥ (*retaścaskaṃda tatkuṃbhe nyapatadvāsatīvare ‖*)
 (Bṛ. De. 5-149)
 
-Among these twelve Ādityas, Mitra and Varuṇa both saw the divine woman Urvaśī at the time of a sacrifice of the nature of a sattra. As soon as they saw her their seed was spilled. Then it fell together into the jar called Vasatīvara.
+Among these twelve Ādityas, Mitra and Varuṇa both saw the divine woman Urvaśī at the time of a sacrifice of the nature of a sattra. As soon as they saw her their seed was spilled. Then it fell together into the jar called Vasatīvarī.
 
 तेनैव तु मुहूर्तेन वीर्यवंतौ तपस्विनौ । (*tenaiva tu muhūrtena vīryavaṃtau tapasvinau |*)
 अगस्त्यश्च वसिष्ठश्च तत्रर्षी संबभूवतुः ॥ (*agastyaśca vasiṣṭhaśca tatrarṣī saṃbabhūvatuḥ ‖*)
@@ -6661,7 +6675,7 @@ He, the sage, cognizant of both worlds, was the donor of thousands : he was veri
 
 ##### Gist of the bhāṣya
 
-सत्रे (*satre*) means in a sacrifice with many performers; ह (*ha*) is a filler. जातौ (*jātau*) means the two, Mitra and Varuṇa, consecrated. They were इषिता (*iṣitā*), urged on by the other people with नमोभिः (*namobhiḥ*), praises. In the कुंभे (*kuṃbhe*), the jar called Vasatīvara, they poured समानं (*samānaṃ*), at one and the same time, their seed. From that Vasatīvara jar, from its middle, Agastya, of the measure of a śamī (stake), arose, that is, came into being. From that very jar they say that the seer Vasiṣṭha too was born.
+सत्रे (*satre*) means in a sacrifice with many performers; ह (*ha*) is a filler. जातौ (*jātau*) means the two, Mitra and Varuṇa, consecrated. They were इषिता (*iṣitā*), urged on by the other people with नमोभिः (*namobhiḥ*), praises. In the कुंभे (*kuṃbhe*), the jar called Vasatīvarī, they poured समानं (*samānaṃ*), at one and the same time, their seed. From that Vasatīvarī jar, from its middle, Agastya, of the measure of a śamī (stake), arose, that is, came into being. From that very jar they say that the seer Vasiṣṭha too was born.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12481,7 +12495,7 @@ May your blazing (weapon). which, discharged from heaven traverses the earth, av
 ##### विशेषविषयगळु (Special Topics)
 
 In explaining the derivation and meaning of the word Rudra, Yāska takes this Ṛk as an example and gives the Nirukta for it also:
-या ते दिद्युदवसृष्टा दिवस्परि क्ष्मया चरति परि सा वृणक्तु नः । सहस्रं ते स्वपिवात भेषजा मा नस्तोकेषु तनयेषु रीरिषः ॥ (*yā te didyudavasṛṣṭā divaspari kṣmayā carati pari sā vṛṇaktu naḥ | sahasraṃ te svapivāta bheṣajā mā nastokeṣu tanayeṣu rīriṣaḥ ‖*)
+या ते दिद्युदवसृष्टा दिवस्परि दिवोऽधि । दिद्युत् द्यतेर्वा द्युतेर्वा द्योततेर्वा । क्ष्मया चरति क्षा पृथिवी तस्यां चरति तया चरति विक्षापयंती चरतीति वा, । परिवृणक्तु नः सा सहस्रं ते स्वाप्तवचनभैषज्यानि मा नस्तोकं पुत्रेषु च पौत्रेषु च रीरिषः । (*yā te didyudavasṛṣṭā divaspari divo 'dhi | didyut dyatervā dyutervā dyotatervā | kṣmayā carati kṣā pṛthivī tasyāṃ carati tayā carati vikṣāpayaṃtī caratīti vā, | parivṛṇaktu naḥ sā sahasraṃ te svāptavacanabhaiṣajyāni mā nastokaṃ putreṣu ca pautreṣu ca rīriṣaḥ |*)
 तोकं तुद्यतेः । तनयं तनोतेः ॥ (*tokaṃ tudyateḥ | tanayaṃ tanoteḥ ‖*)
 अग्निरपि रुद्र उच्यते । तस्यैषा भवति । (*agnirapi rudra ucyate | tasyaiṣā bhavati |*)
 जराबोध तद्विविड्ढि विशेविशे यज्ञियाय । स्तोमं रुद्राय दृशीकं ॥ जरा स्तुति........दर्शनीयं ॥ (*jarābodha tadviviḍḍhi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkaṃ ‖ jarā stuti........darśanīyaṃ ‖*) (Ni. 10-1)
@@ -14071,6 +14085,8 @@ The twenty-first sūkta, beginning वास्तोष्पते (*vāstoṣ
 This sūkta, वास्तोष्पते (*vāstoṣpate*), is the twenty-first sūkta in the third anuvāka. It has three Ṛks. Vasiṣṭha is the seer of this sūkta; Vāstoṣpati is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said वास्तोष्पते वास्तोष्पत्यं (*vāstoṣpate vāstoṣpatyaṃ*). In the house-building rite prescribed in the Smṛti and other works, the three Ṛks of this sūkta together with the first Ṛk of the next sūkta, four Ṛks in all, are to be used for an oblation, one offering with each Ṛk; this is explained by the Āśvalāyana Gṛhya Sūtra, वास्तोष्पते प्रति जानीह्यस्मानिति चतसृभिः प्रत्यृचं हुत्वा (*vāstoṣpate prati jānīhyasmāniti catasṛbhiḥ pratyṛcaṃ hutvā*) (Ā. Gṛ. 2-9-6).
 
 ### Printed p. 320
+Sūkta 54. Maṇḍala 7; Anuvāka 3; Sūkta 54. Aṣṭaka 5; Adhyāya 4; Varga 21. Number of Ṛks in the sūkta: 3. Seer: Vasiṣṭha. Deity: Vāstoṣpati. Metre: Triṣṭubh.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -15431,7 +15447,7 @@ The swift-moving Maruts are like rapid horses, shining like men gazing at a fest
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the optional rite (kāmyeṣṭi) offered to the Maruts, "to the playful Maruts, on seven potsherds" (Tai. Saṃ. 1-8-4-2), this Ṛk beginning अत्यासः (*atyāsaḥ*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra अत्यासो न ये मरुतः स्वंचो जुष्टो दमूनाः (*atyāso na ye marutaḥ svaṃco juṣṭo damūnāḥ*) (Ā. 2-18).
+In the optional rite (kāmyeṣṭi) offered to the Maruts, मरुद्भ्यः क्रीळिभ्यः सप्तकपालं (*marudbhyaḥ krīḷibhyaḥ saptakapālaṃ*), "to the playful Maruts, on seven potsherds" (Tai. Saṃ. 1-8-4-2), this Ṛk beginning अत्यासः (*atyāsaḥ*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra अत्यासो न ये मरुतः स्वंचो जुष्टो दमूनाः (*atyāso na ye marutaḥ svaṃco juṣṭo damūnāḥ*) (Ā. 2-18).
 
 ### Printed p. 357
 
@@ -16030,7 +16046,7 @@ These Maruts give wealth and the like in such measure that other gods, apart fro
 - एतावत् (*etāvat*)—in that same measure
 - अन्ये (*anye*)—other gods
 - न (*na*)—do not give
-- (they)
+- (ते (*te*)—they)
 - रुक्मैः (*rukmaiḥ*)—golden-hued
 - आयुधैः (*āyudhaiḥ*)—furnished with weapons
 - तनूभिः (*tanūbhiḥ*)—with bodies
