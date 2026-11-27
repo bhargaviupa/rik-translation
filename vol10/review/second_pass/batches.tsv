@@ -1,2 +1,2 @@
 batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
-1	300	309	35	30	38	0	5	180k	(this commit)	2026-11-27	pilot; 27 [?] seen, 22 resolved from the Kannada, 5 kept (inside our remarks)
+1	300	309	35	30	38	0	5	180k	e889856a	2026-11-27	pilot; 27 [?] seen, 22 resolved from the Kannada, 5 kept (inside our remarks)
