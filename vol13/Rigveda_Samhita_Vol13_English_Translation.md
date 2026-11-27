@@ -4598,6 +4598,163 @@ This is Indra's speech; others say it is Agastya's. "O priests, since Agastya ha
 - चेतनं (*cetanaṃ*)—that makes known (and)
 - ते (*te*)—your
 
+### Printed p. 187
+- ते (*te*)—(your) related
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- तनवावहै (*tanavāvahai*)—let us perform
+- [तत्र (*tatra*)—on the altar ground. अमृतस्य (*amṛtasya*)—of the oblation that brings about immortality. चेतनं (*cetanaṃ*)—having made the tasting of it (having prepared the oblation). (आवां (*āvāṃ*)—the sacrificer: I and my wife, or the two of us, priest and sacrificer.) ते (*te*)—for you. यज्ञं (*yajñaṃ*)—the sacrifice. तनवावहै (*tanavāvahai*)—we perform.]
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, adorn the altar ground and kindle the Āhavanīya and the other fires with fuel-sticks and the like. In that fire, O Agastya, let me (Indra) and you together perform the sacrifice that makes known immortality. [Or else: on that altar ground prepare also the oblations and other things that are the means of immortality. Then, O Indra, I, Agastya, or I and my wife, or I and the priests together, perform the sacrifice with you as its object.]
+
+##### English translation (H. H. Wilson)
+(Agastya),—Let the priests decorate the altar ; let them kindle the fire to the east ; and then let us both consummate the sacrifice, the inspirer of immortal (wisdom).
+
+##### विशेषविषयगळु (Special Topics)
+
+The words अरं कृण्वंतु वेदिं, समग्निमिंधतां पुरः, यज्ञं ते तनवावहै । (*araṃ kṛṇvaṃtu vediṃ, samagnimiṃdhatāṃ puraḥ, yajñaṃ te tanavāvahai |*) have been explained in one way as spoken by Indra to the sage Agastya, and in a second way as spoken by the sage Agastya to Indra.
+
+Indra addresses the priests: अगस्त्यो अंगीकृतर्वा तस्मात् वेदिं अरं कृण्वंतु (*agastyo aṃgīkṛtarvā tasmāt vediṃ araṃ kṛṇvaṃtu*)—the sage Agastya, having heard the words I spoke, has agreed to offer me the oblation; therefore adorn the sacrificial altar by sweeping and sprinkling and the like (sammārjana is sweeping, paryukṣaṇa is washing with water), and पुरस्तात् आहवनीयाग्निं इध्रप्रक्षेपेण प्रज्वालयंतु (*purastāt āhavanīyāgniṃ idhraprakṣepeṇa prajvālayaṃtu*)—make this fire blaze by offering fuel-sticks to the fire called Āhavanīya for the sake of the gods. So the meaning is explained.
+
+अमृतस्य (*amṛtasya*)—अमरणलक्षणस्य देवत्वस्य (*amaraṇalakṣaṇasya devatvasya*). The word आमृत (*āmṛta*) is stated among the names of water (Ni. 2-14), and read among the names of gold (Ni. 2-10).
+रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः । समानबंधू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥ (*ruśadvatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ | samānabaṃdhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*)
+(Ṛ. Saṃ. 1-113-2)
+
+### Printed p. 188
+Here the word अमृतॆ (*amṛtè*) is explained as "those whose nature is deathlessness", that is, those who never undergo death.
+वनस्पते रशनया नियूय पिष्टतमया वयुनानि विद्वान् । वहा देवत्रा दिधिषो हवींषि प्र च दातारममृतेषु वोचः ॥ (*vanaspate raśanayā niyūya piṣṭatamayā vayunāni vidvān | vahā devatrā didhiṣo havīṃṣi pra ca dātāramamṛteṣu vocaḥ ‖*)
+(Ni. 8-20)
+Here the meaning अमृतेषु देवेषु (*amṛteṣu deveṣu*) is explained. Having said that it means "deathless, having the nature of gods", the greatness of the sacrifice is unfolded by the sentence अमृतस्य चेतनं यज्ञं (*amṛtasya cetanaṃ yajñaṃ*).
+
+Since ते (*te*) is a pronoun, in Indra's speech the sacrifice is related to the sage Agastya, and the meaning is given that Indra and the sage Agastya together perform the sacrifice.
+
+If the verse is spoken by the sage Agastya to Indra, ते (*te*) is explained as त्वदर्थं (*tvadarthaṃ*)—for Indra. वेद्याममृतस्य तत्साधनस्य हविषो वा चेतनं प्रज्ञापनं असादनं कुरुत (*vedyāmamṛtasya tatsādhanasya haviṣo vā cetanaṃ prajñāpanaṃ asādanaṃ kuruta*)—on the sacrificial altar prepare the materials for accomplishing the sacrifice that secures deathlessness, and the oblations; and आवां पत्नि यजमानौ अध्वर्युयजमान् वा यःज्ञं तनवावहै (*āvāṃ patni yajamānau adhvaryuyajamān vā yaḥjñaṃ tanavāvahai*)—the wife and the sacrificer, or the Adhvaryu and the sacrificer, together perform the sacrifice for Indra alone. So the meaning is explained.
+
+##### Grammar
+
+- कृण्वंतु — कृवि हिंसाकरणयोश्च धातुः । लोट् प्रथमपुरुषबहुवचनस्य अंतादेशः, उत्त्वम् । धिन्विकृण्वोरच (पा. सू. ३-१-८०) इत्यनेन अकारांतादेशः उ विकरणम् । इदित्त्वात् नुमागमः । तिजंतनिघातस्वरः भवति ।
+- वेदिं — विद ज्ञाने धातुः । हृपिषिरुहिवृति— (उ. सू. ५५८) इत्यनेन इन् प्रत्ययः । पुगंतलघूपधस्यच इत्यनेन लघूपधगुणः । इत्यादिर्नित्यम् इत्यनेन आद्युदात्तस्वरः भवति । द्वितीयाएकवचनांतरूपम् ।
+- इंधतां — ञइंधी दीप्तौ धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- चेतनं — चिती संज्ञाने धातुः । ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू -१-१) इत्यनेन अनादेशः । धातुलघूपधस्य गुणः । लिति (पा. सू ६-१-१९३) इत्यनेन प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति । **NOTE**
+
+### Printed p. 189
+- तनवावहै — तनु विस्तारे धातुः । लोट् उत्तमपुरुषद्विवचने वहिज् प्रत्ययः । टेः एत्वे प्राप्ते एतऐ (पा. सू. ३-४-९३) इत्यनेन तस्य ऐकारादेशः । आडुत्तमस्यपिच्च (पा. सू. ३-४-९२) इत्यनेन आटागमः । तनादिकृञ्भ्यउः (पा. सू. ३-१-७९) इत्यनेन उ विकरणम् । पित् परत्वात् तस्य गुणः, आवादेशः । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमी॑शिषे वसुपते॒ वसू॑नां॒ त्वं मि॒त्राणां॑ मित्रपते॒ धेष्णः॑ ।  
+> इंद्र॒ त्वं म॒रुद्भिः॒ सं व॑द॒स्वाध॒ प्राशा॑न ऋतु॒था ह॒वींषि॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । ईशिषे । वसुपते । वसूनां । त्वं । मित्राणां । मित्रपते । धेषः ।  
+> इंद्र । त्वं । मरुत्भिः । सं । वदस्व । अध । प्र । आशान । ऋतुथा । हवींषि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमगस्त्यवाक्यं । हे वसूनां वसुपतेऽतिप्रभूतानां पुरोडाशाज्यादिधनानां स्वामिन् हे इंद्र त्वमीशिषे । ईश्वरो भवसि । सर्वस्य वृत्त्यवृत्तिभ्यां बहुत्वं
+> नित्यं संबंधश्च प्रतिपद्यते । यद्वा । हे वसुपते वसूनामीशिष इति योजना ।
+> द्वितीयो वसुशब्दोऽनुवादो वा । तथा हे मित्राणां मित्रपतेऽस्मदादिमित्रस्य
+> नित्यं पालकेंद्रत्वं धेष्णः । सर्वस्यातिशयेन धारकोऽसि । हे इंद्र त्वमुक्तमहिमस्त्वं मरुद्धिः सं वदस्व । तैः साकं सम्यक्कृतमिति वदस्व । अधापि च त्वमृतुथा
+> यतावृतौ । उपलक्षणमेतत्कालस्य । तत्तद्यागकाले हवींष्याज्यचरादीनि प्राशान
+> प्रकर्षण भुंक्ष्व ॥
+
+##### Gist of the bhāṣya
+
+This is Agastya's speech. "O lord of wealth (वसुपते (*vasupate*)), of the exceedingly abundant riches—oblation-cakes, ghee and the like—O Indra, you rule (ईशिषे (*īśiṣe*))": you are the master. By the plural and the constant connection, multiplicity and permanent relation are understood. Or else the construction is: "O lord of wealth, you rule over the riches"; the second word वसु (*vasu*) is a repetition. Likewise, "O lord of friends (मित्रपते (*mitrapate*)), you are always the protecting Indra of us and other friends, the supporter (धेष्णः (*dheṣṇaḥ*))": you are the supreme upholder of all. "O Indra, of such stated greatness, speak together (सं वदस्व (*saṃ vadasva*)) with the Maruts": say with them that it has been well done. "And further, ऋतुथा (*ṛtuthā*), in due season": this is indicative of time; at each time of sacrifice, partake abundantly of the oblations (हवींषि (*havīṃṣi*))—ghee, cooked offerings and the like (प्राशान (*prāśāna*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसूनां वसुपते (*vasūnāṃ vasupate*)—O Indra, lord of all riches such as oblation-cakes and ghee
+- त्वं (*tvaṃ*)—you
+- ईशिषे (*īśiṣe*)—you are lord
+- वसुपते (*vasupate*)—O Indra, lord of wealth
+- त्वं (*tvaṃ*)—you
+- वसूनां (*vasūnāṃ*)—of riches in the form of oblation-cakes, ghee and the like
+- ईशिषे (*īśiṣe*)—you are lord
+- मित्रपते (*mitrapate*)—O Indra, protector of all friends
+- मित्राणां (*mitrāṇāṃ*)—your friends, that is, of us
+
+### Printed p. 190
+- धेष्ठ (*dheṣṭha*)—you are the strong support **NOTE**
+- इंद्र (*iṃdra*)—O Indra
+- मरुद्भिः (*marudbhiḥ*)—together with the Marut gods
+- त्वं (*tvaṃ*)—you
+- सं वदस्व (*saṃ vadasva*)—say (that the rite has been well done)
+- अध (*adha*)—and
+- ऋतुथा (*ṛtuthā*)—following the season (at the respective time of sacrifice)
+- हवींषि (*havīṃṣi*)—the oblations, ghee, cooked offerings and the like
+- प्र अशान (*pra aśāna*)—eat abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the lord of all wealth in the form of oblation-cakes and the like, and a strong support to all friends like us. Such as you are, together with the Maruts praise our rite as well done, and in each season partake abundantly of the oblations and the rest (offered by us).
+
+##### English translation (H. H. Wilson)
+(Agastya),—You, Vasupati, are the lord of riches ; you, Mitrapati, are the firm stay (of us), your friends : Declare, Indra, along with the Maruts, (your approval of our acts), and partake of the oblation offered in due season.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is explained that this mantra is spoken by the sage Agastya in answer to Indra's words.
+
+वसूनां वसुपते — त्वं ईशिषे— अतिप्रभूतानां पुरोडाशाज्यादिधनानां स्वार्मि त्वं ईश्वरो भवसि सर्वस्य ! यद्वा वसूनां ईशिषे ! द्वितीय वसुशब्दो अनु वादो वा (*vasūnāṃ vasupate — tvaṃ īśiṣe— atiprabhūtānāṃ puroḍāśājyādidhanānāṃ svārmi tvaṃ īśvaro bhavasi sarvasya ! yadvā vasūnāṃ īśiṣe ! dvitīya vasuśabdo anu vādo vā*)—two kinds of meaning are given for this sentence. First, Indra is the lord of the riches—oblation-cakes, ghee and the like—that exist in exceeding abundance, and is the master of all; in this meaning the first word वसु (*vasu*) conveys excess. In the second meaning Indra is the lord of the Vasus; it is stated that the second word वसु (*vasu*) is read as a repetition.
+
+Yāska has shown by examples that the word वसु (*vasu*) is read as a repetition. Among the names of rays the word वसवः (*vasavaḥ*) is stated.
+सुगा वो देवाः सुपथा अकर्म य आजग्मुः सवनमिदं जुषाणः । जक्षिनांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसून्वि ॥ (*sugā vo devāḥ supathā akarma ya ājagmuḥ savanamidaṃ juṣāṇaḥ | jakṣināṃsaḥ papivāṃsaśca viśve 'sme dhatta vasavo vasūnvi ‖*)
+(Ni. 12-42)
+Here the gods are addressed by the word वसवः (*vasavaḥ*); the second word वसु (*vasu*) is said to mean wealth.
+
+### Printed p. 191
+ज्मया अत्र वसवो रंत देवा उरावंतरिक्षे मर्जयंत शुभ्राः । अर्वाक्थ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्यं ॥ (*jmayā atra vasavo raṃta devā urāvaṃtarikṣe marjayaṃta śubhrāḥ | arvāktha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asyaṃ ‖*)
+(Ṛ. Saṃ. 7-39-3)
+Here the meaning of the word वसवः (*vasavaḥ*) is explained as Agni.
+वसव आदित्यरत्नयः विवसनात्तस्मात् द्युस्थानाः (*vasava ādityaratnayaḥ vivasanāttasmāt dyusthānāḥ*) (Ni. 12-42): it is stated that the word वसु (*vasu*) is used of the rays of the Sun.
+सुगुरसत्सुहिरण्यः स्वस्तो बृहदस्मै वय इंद्रो दधाति । यस्त्यायंतं वसुना प्रातरित्तो मुक्तीजयेव पदिमुत्तिनाति (*sugurasatsuhiraṇyaḥ svasto bṛhadasmai vaya iṃdro dadhāti | yastyāyaṃtaṃ vasunā prātaritto muktījayeva padimuttināti*)
+(Ṛ. Saṃ. 1-125-2)
+Here वसुना (*vasunā*) is said to mean अन्नेन (*annena*) (with food). By the sentence वृत्तवृत्तिभ्यां बहुत्वं नित्यसंबंधश्च प्रतिपाद्यते (*vṛttavṛttibhyāṃ bahutvaṃ nityasaṃbaṃdhaśca pratipādyate*) the multiplicity of the riches, and the permanent connection of Indra with the riches, are established.
+
+मित्रपते (*mitrapate*)—this word is explained by अस्मदादिमित्रस्य नित्यं पालक (*asmadādimitrasya nityaṃ pālaka*): the protector of friends, beginning with Agastya; and Indra is addressed by this word. त्वं धेष्यः सर्वस्यातियेन धारकोऽसि (*tvaṃ dheṣyaḥ sarvasyātiyena dhārako 'si*)—the meaning is given that Indra upholds everything more than others uphold it.
+
+मरुद्भिः संवदस्व (*marudbhiḥ saṃvadasva*)—तैः साकं सम्यक् कृतमिति वदस्व (*taiḥ sākaṃ samyak kṛtamiti vadasva*): the wish is expressed that Indra, of abundant greatness, together with the Marut gods, may say that the sacrifice has been properly and rightly performed.
+
+ऋतुथा हवींषि प्राशान (*ṛtuthā havīṃṣi prāśāna*)—ऋतावृत् तत्तद्यागकाले अज्यचर्वादीनि प्रकर्षेण भुंक्ष्य (*ṛtāvṛt tattadyāgakāle ajyacarvādīni prakarṣeṇa bhuṃkṣya*): in each season, that is, at each time of sacrifice, may Indra come to the sacrifice and eat abundantly the oblations of ghee and the like offered in the fire. So the wish is expressed.
+
+##### Grammar
+
+- ईशिषे — ईश ऐश्वर्ये धातुः । लट् मध्यमपुरुषएकवचनस्य से आदेशः । ईशः से (पा. सू. ७-२-७७) इत्यनेन तस्य इडागमः । प्रत्ययस्य षत्वम् । तिजंतनिघातस्वरः भवति ।
+- धेष्ठः — धातृ इति तृजंतात् तुत्थंदसि (पा. सू. ५-३-५९) इत्यनेन अतिशयार्थे इष्टन् प्रत्ययः । तुरिष्येमेयः सु (पा. सू. ६-४-१५४) इत्यनेन तृचः लोपः । प्रकृत्यैकाज् सूत्रेण प्रकृतिभावस्य आगमनात् टेः लोपः न भवति । गुणः । प्रत्ययस्य नित्त्वात् अद्युदात्तस्वरः भवति ।
+
+### Printed p. 192
+- वदस्व — वद व्यक्तायां वाचि धातुः । व्यक्तवाचां समुच्चारणे (पा.सू. १-३-४८) इत्यनेन आत्मनेपदी भवति । लोट् मध्यमपुरुषएकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- अशान — अश भोजने धातुः । लोट् मध्यमपुरुषएकवचने सिपः हि आदेशः । क्र्यादिभ्यः श्ना (पा. सू. ३-१-८१) इत्यनेन श्ना विकरणम् । हलःश्नः शानज्ञौ (पा. सू. ३-१-८३) इत्यनेन विकरणस्य शानचादेशः । अतोहेः (पा. सू. ६-४-१०५) सूत्रेण हेः लुक् । तिजंतनिघातस्वरः भवति ।
+- ऋतुथा — कालार्थे आवृत्तौ प्रतीयमानायां था प्रत्ययः ।
+
+Here the one hundred and seventieth sūkta ends.
+
+## Sūkta 171 (Maṇḍala 1)
+The hundred and seventy-first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति व इति षडृचं सप्तमं सूक्तमागस्त्यं त्रैष्टुभं मारुतं । आद्ये द्वे
+> केवलमारुते । शिष्टाश्चतस्रो मरुत्वदिंद्रदेवताकाः । प्रति वः षण्मारुतं तु
+> चतस्रोऽन्ता मरुत्वतीया इत्यनुक्रमणिका । विशेषविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+प्रति व इति षडृचं सप्तमं सूक्त (*prati va iti ṣaḍṛcaṃ saptamaṃ sūkta*): this is a sūkta of six ṛks, the seventh, with Agastya as seer, in the Triṣṭubh metre, addressed to the Maruts. The first two are purely addressed to the Maruts; the remaining four have the Maruts and Indra accompanied by the Maruts as deities. So says the Anukramaṇikā. The special ritual use is by the Liṅga (indication of the text itself).
+
+##### Anuvāda
+
+This sūkta beginning प्रति व एना (*prati va enā*) is the seventh sūkta in the twenty-third anuvāka. It has six ṛks. The seer of this sūkta is Agastya; the deity is the Maruts; the metre is Triṣṭubh. The first two ṛks are addressed to the Maruts alone; the remaining four ṛks are addressed to the Maruts and Indra. In the Anukramaṇikā it is said: प्रति वः षण्मारुतं तु चतस्रोऽन्ता मरुत्वतीया (*prati vaḥ ṣaṇmārutaṃ tu catasro 'ntā marutvatīyā*). The special ritual use of this sūkta is by the Liṅga.
+
+##### Particulars
+
+Sūkta 171. Maṇḍala 1; Anuvāka 23; Sūkta 171. Aṣṭaka 2; Adhyāya 4; Varga 11. Number of ṛks in the sūkta: 6. Seer: Agastya. Deity: 1-2 **NOTE** the Maruts; 3-6 Marutvān Indra. Metre: Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 186. pp. 181-186 (batch API)
+**Progress note:** Done through printed p. 192. pp. 187-192 (batch API)
