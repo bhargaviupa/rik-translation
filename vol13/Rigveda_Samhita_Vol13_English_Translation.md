@@ -14781,6 +14781,144 @@ As leaves serve as support to a falling animal, which tree, set in the middle of
 ##### English translation (H. H. Wilson)
 What was the tree that was stationed in the midst of the ocean, to which the supplicating son of Tugra clung : as leaves (are caught hold of) for the support of a falling animal : you, Ashwins, bore him up to safety, to your great renown.
 
+### Printed p. 619
+
+##### विशेषविषयगळु (Special Topics)
+
+Śromatāya—"for being possessed of fame"; so it is explained. This word is formed from the root श्रु (*śru*) (श्रु+मत् (*śru+mat*)). Wherever it is used elsewhere, the sense "worthy of being heard" is what is given. For example:
+नृवत्त इंद्र नृतमाभिरूती वंसीमहि वामं श्रोमतेभिः । ईक्षे हि वस्व उभयस्य राजन्था रत्नं महि स्फूरं बृहंतं ॥ (*nṛvatta iṃdra nṛtamābhirūtī vaṃsīmahi vāmaṃ śromatebhiḥ | īkṣe hi vasva ubhayasya rājanthā ratnaṃ mahi sphūraṃ bṛhaṃtaṃ ‖*) (Ṛ. Saṃ. 6-19-10)
+In Ṛks of this kind, श्रोतवैः (*śrotavaiḥ*) is stated first and afterwards the meaning यशोभिः (*yaśobhiḥ*) is given. The same sense applies in the present Ṛk too.
+
+##### Grammar
+
+- निष्कृतः — निस् उपसर्गः । ष्ठागतिनिवृत्तौ धातुः । क्त प्रत्यये परे द्युतिस्यतिमास्था—(पा. सू. ७-४-४०) इति धातोराकारस्य इत्वम् । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः प्रकृतिस्वरो भवति ।
+- नाधितः — नाधृ याच्नायां धातुः । क्त प्रत्यये आगते इडागमः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- पर्यषस्वजत् — परि उपसर्गः । स्वंज परिष्वंगे धातुः । व्यत्ययेन परस्मैपदी भवति । लज् प्रथमपुरुष एकवचने तिप् । इतश्च इति इकारलोपः । शप् विकरणः । दंशसंज स्वंजांशपि (पा. सू. ६-४-२५) इति शपि परे धातो रुपधानकारस्य लोपः । अंगस्य अडागमः । यद्वृत्तान्वितम् इति निघातस्वरनिषेधे प्राप्ते अच्स्वरेण आद्युदात्तो भवति । तिजिचोदात्तवति (पा. सू. ८-१-७१) इति गतेः (परेः) सर्वानुदात्तस्वरो भवति ।
+- पतरोः — पत्‌ल्य गत् धातुः । औणादिक आरु प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति । षष्ठी एकवचनांतरूपम् ।
+- श्रोमताय — श्रु श्रवणे धातुः । पृषोदरादीनि यथोपदिष्टम् इति अभिमतप्रत्ययस्वरा भवंति । ॥ ७ ॥
+
+### Printed p. 620
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वां॑ नरा नासत्या॒वनु॑ स्या॒द्यद्वां॒ माना॑स उ॒चथ॒मवो॑चन् ।  
+> अ॒स्माद॒द्य सद॑सः सो॒म्यादा वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वां । नरा । नासत्यौ । अनु । स्यात् । यत् । वां । मानासः । उचथं । अवोचन् ।  
+> अस्मात् । अद्य । सदसः । सोम्यात् । आ । विद्याम । इषं । वृजनं । जीरदानुं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारौ कर्मणो नराकारौ ना हे नासत्यावसत्यरहितौ सत्यफलौ वा
+> वां युवां तत्तादृशं स्तोत्रमनु स्यात् । अनूकूलं भवतु । अनुभवतु वा वां ।
+> तदित्युक्तं यदित्याह । वां प्रति मानासः पूजावंतोऽस्मदीया होत्रादयो
+> यदुचथं स्तोत्रमवोचन् आकुर्वन् तद्वामनु ष्यात् । हे अश्विनौ अद्यास्मिन्प्रधानयोगदिनेऽस्मादस्माभिः क्रियमाणात्सदसः संबंधिनः सोम्यात् सोमयागसंपादकात् । आ इत्यप्यर्थे । आस्माभिर्यजमानैरद्य क्रियमाणादपि स्तोत्रात्
+> प्रीणयतमिति ।विद्यामेति गतं ॥
+
+##### Gist of the bhāṣya
+
+"O leaders (नरा (*narā*)), who lead the rite or have the form of men, O Nāsatyas (नासत्यौ (*nāsatyau*)), free of untruth or whose fruit is true: may such praise be favourable to you, or may you experience it." What is said by यत् (*yat*) is this: the revered (मानासः (*mānāsaḥ*)) Hotṛs and others of our company have uttered a praise (उचथं (*ucathaṃ*)) towards you; may that be to you अनु स्यात् (*anu syāt*). "O Aśvins, today, on this principal day of the sacrifice, be pleased also by this praise belonging to the assembly (सदसः (*sadasaḥ*)) performed by us, which accomplishes the Soma sacrifice (सोम्यात् (*somyāt*)); आ (*ā*) has the sense of "also": by the praise being performed today by us, the sacrificers." "विद्याम (*vidyāma*)" has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders of the sacrifice (or those of human form)
+- नासत्यौ (*nāsatyau*)—O Aśvins, givers of true fruit (free of untruth)
+- वां (*vāṃ*) (towards)—you two
+- मानासः (*mānāsaḥ*)—our Hotṛs and others, the worshippers
+- यत् उचथं (*yat ucathaṃ*)—which praise
+- अवोचन् (*avocan*)—recited
+- तत् (*tat*)—that praise
+- वां (*vāṃ*)—to you two
+- अनु स्यात् (*anu syāt*)—be favourable
+- तत् (*tat*)—that praise
+- वां (*vāṃ*)—you two
+- अनु स्यात् (*anu syāt*)—experience
+- अद्य (*adya*)—on this principal sacrificial day
+- अस्मात् (*asmāt*)—performed by us
+- सदसः (*sadasaḥ*)—belonging to the assembly
+- सोम्यात् (*somyāt*)—and by this praise that accomplishes the Soma sacrifice (be pleased)
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (from you, pleased)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, leaders of the sacrifice and free of untruth, may the praise made by our Hotṛ and other priests, the worshippers, and the praise made by the assembly on the principal day of the sacrifice, which accomplishes the Soma sacrifice, be pleasing to you; being thus pleased, bestow on us food, strength and long life.
+
+### Printed p. 621
+
+##### English translation (H. H. Wilson)
+May the praise which your devout adorers have uttered be acceptable to you, Nasatyas; leaders (in pious rites), be propitiated to-day by the libations of our assembly, that we may obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+Mānāsaḥ—explained as "revered, our Hotṛs and others". The meanings of the words मानासः (*mānāsaḥ*) and मान्यस्य (*mānyasya*) have been given in detail earlier. In the present Ṛk it is an epithet of the mantra-seers such as Agastya. In telling the manner of Agastya's birth the Bṛhaddevatā says:
+मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते ॥ (*mānena saṃmito yasmāttasmānmānya ihocyate | yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate ‖*) (Bṛ. De. 5-153)
+It is said that Agastya's name Mānya is well known either because he is worthy of worship, or because he was born in a pot (kumbha) that indicates a measure (māna), that is, born in a measure in the form of a pot. And the explanation by Max Müller of the word Mānya in Ṛ. Saṃ. 1-165-15 as "the son of Māna", and its propriety, were given earlier in this same part under the special topics of Ṛ. Saṃ. 1-171-5 (p. 217). English scholars hold that the proper name Māna is the name of the founder of a lineage. For example Keith also says:
+Māna is the name of the man occuring in several passages of the Rig-Veda. In one place, express mention is made of his son (sūnu) by whom Agastya must have been meant. In another passage, apparently the same meaning applies to Māna. i.e, Agastya as Māna.
+[Vedic names & Subjects. vol. II. p. 152]
+That is, in
+अवोचाम निवचनान्यस्मिन्मानस्य सूनुः सहसाने अग्नौ । वयं सहस्रमृषिभिः सनेम विद्यामेषं वृजनं जीरदानुं ॥ (*avocāma nivacanānyasminmānasya sūnuḥ sahasāne agnau | vayaṃ sahasramṛṣibhiḥ sanema vidyāmeṣaṃ vṛjanaṃ jīradānuṃ ‖*) (Ṛ. Saṃ. 1-19-8)
+
+### Printed p. 622
+the Ṛk, मान्यस्य सूनुः (*mānyasya sūnuḥ*) means Agastya, son of the seer Māna: such is the English scholars' view. But Sāyaṇa, explaining the word in this very Ṛk, comments thus:
+मानस्य सूनुः - मीयत इति मानः मंत्रः तस्य सूनुः अग्निः मंत्रेण उत्पाद्यमानत्वात् । मानस्य सूनौ अग्नौ । (*mānasya sūnuḥ - mīyata iti mānaḥ maṃtraḥ tasya sūnuḥ agniḥ maṃtreṇa utpādyamānatvāt | mānasya sūnau agnau |*) (Ma. Bhā. 18-8)
+Māna means mantra; its son is Agni; so मानस्य सूनुः (*mānasya sūnuḥ*) means Agni. Likewise in
+सत्रे ह जाताविषिता नमोभिः कुंभे रेतः सिषिचतुः समानं । ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठं ॥ (*satre ha jātāviṣitā namobhiḥ kuṃbhe retaḥ siṣicatuḥ samānaṃ | tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭhaṃ ‖*) (Ṛ. Saṃ. 7-33-13)
+too the meaning is Agastya, yet Sāyaṇa does not say that मान (*māna*) is a proper name. Hence wherever the words मानासः (*mānāsaḥ*), मान्यस्य (*mānyasya*) occur, there is always a difference between the English scholars' interpretation and Sāyaṇa's explanation. In the present Ṛk also the meaning is either "relatives of Agastya" or "honoured and revered Hotṛs".
+Sadasaḥ—means "belonging to the sacrificial house". The word सदसी (*sadasī*) is also read among the names of heaven and earth (Ni. 3-21). In some contexts it means a sacrificial house as wide as heaven and earth. The nature of the origin of the sadas and its greatness are told in the Aitareya Brāhmaṇa thus:
+देवासुरा वा एषु लोकेषु समयतंत ते वा असुरा इमानेव लोकान्पुरोऽकुर्वत यघजीयांसो बलीयांस एवं ते वा आयस्मयिमेवेमामकुर्वत रजतामंतरिक्षं हरिणीं दिवं ते तथेमाल्लोकान्नुरोऽकुर्वत ते देवा अब्रुवन् पुरो वा इमेऽसुरा इमाल्लोकानकृत पुर इमाल्लोकान्प्रतिकरवामहा इति तथेति ते सद एवास्याः प्रत्यकुर्वताग्नीध्रमंतरिक्षाद्दनिर्धाने दिवस्ते तथेमाल्लोकान् पुरः प्रत्यकुर्वत ॥ (*devāsurā vā eṣu lokeṣu samayataṃta te vā asurā imāneva lokānpuro 'kurvata yaghajīyāṃso balīyāṃsa evaṃ te vā āyasmayimevemāmakurvata rajatāmaṃtarikṣaṃ hariṇīṃ divaṃ te tathemāllokānnuro 'kurvata te devā abruvan puro vā ime 'surā imāllokānakṛta pura imāllokānpratikaravāmahā iti tatheti te sada evāsyāḥ pratyakurvatāgnīdhramaṃtarikṣāddanirdhāne divaste tathemāllokān puraḥ pratyakurvata ‖*) (Ai. Brā. 4-6)
+When rivalry arose between the gods and the asuras over taking possession of these three worlds, the asuras made these very worlds their fortresses and, displaying their power, left the gods no entry. They turned the earth into an iron fortress, the heavenly world into one of silver,
+
+### Printed p. 623
+and the atmosphere into a fortress of gold. Then the gods transformed the earth into the form of the sadas and showed their might: so the story of the origin of the sadas is told. And:
+देवासुरा ना एषु लोकेषु समयतंत ते वै देवाः सद एवायतनमकुर्वत शान्त्सदसोऽजयन् । (*devāsurā nā eṣu lokeṣu samayataṃta te vai devāḥ sada evāyatanamakurvata śāntsadaso 'jayan |*) (Ai. Brā. 10-4)
+Relying on this very sadas they fought the asuras and conquered the three worlds: thus the greatness of the sadas is told.
+
+##### Grammar
+
+- नरा — सुपां सुलुक्—(पा. सू. ७-१-३९) इति संबोधना द्विवचनस्य आकारादेशः । आमंत्रितनिघातस्वरो भवति ।
+- स्यात् — अस भवि धातुः । लिज् प्रथमपुरुष एकवचने तिप् प्रत्ययः । इकारलोपः । यासुटागमः । त्नसोरल्लोपः इति धातोरकारस्य लोपः ।
+- मानासः — मन ज्ञाने धातुः । घज् प्रत्ययः । आत उपधायाः इति उपधावृद्धिः । छांदसत्वात् मत्त्वर्थप्रत्ययस्य लुक् । प्रत्ययस्य इत्त्वात् आद्युदात्तस्वरो भवति । जसि परे आज्जसेरसुक् (पा सू. ७-१-५०) इति तस्य असुकागमः ।
+- उचथम् — वच परिभाषणे धातुः । रुविदिभ्यां कित् (उ. सू. ३-३९५) इति विधीयमानः अथ प्रत्ययः कित्त्वं च बहुलग्रहणात् अस्मादपि भवति । वचिस्वपियजादीनां किति इति वकारस्य संप्रसारणम् । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- अवोचन् — पूर्वोक्तस्य धातोः लुज् प्रथमपुरुष बहुवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तो भवति ।
+- सोम्यात् — सोममर्हति यः (पा. सू ४-४-१३७) इति य प्रत्ययः । यस्येति च (पा. सू. ६-४-१४८) इति सूत्रेण पूर्वस्य अकारस्य लोपः । प्रत्ययस्वरो भवति । पंचम्यंतरूपम् । ॥ ८ ॥
+
+The hundred and eighty-second sūkta ends here.
+
+### Printed p. 624
+## Sūkta 183 (Maṇḍala 1)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं युं॑जाथां॒ मन॑सो॒ यो जवी॑यान् त्रिवंधु॒रो वृ॑षणा॒  ॒॑
+> यस्त्रि॑च॒क्रः ।  
+> येनो॑पया॒थः सु॒कृतो॑ दुरो॒णं त्रि॒धातु॑ना पतथो॒ विर्न  ॒
+> पर्णैः ॥ १ ॥
+
+is not the introduction; the introduction block is the Sanskrit line printed above, तं युंजाथामिति षडृचं चतुर्थं सूक्तं त्रैष्टुभमागस्य माश्विनं ॥ (*taṃ yuṃjāthāmiti ṣaḍṛcaṃ caturthaṃ sūktaṃ traiṣṭubhamāgasya māśvinaṃ ‖*)
+
+##### Anuvāda
+
+The sūkta तं युंजाथां (*taṃ yuṃjāthāṃ*) is the fourth sūkta in the twenty-fourth anuvāka. It has six Ṛks. Its seer is Agastya; its deity is the Aśvins; its metre is Triṣṭubh. As stated for the preceding sūktas, this sūkta is employed at the time of reciting the mantras of the Prātaranuvāka, for the Triṣṭubh mantras connected with the Āśvina-śastra.
+
+Sūkta 183. Maṇḍala 1; Anuvāka 24; Sūkta 183. Aṣṭaka 2; Adhyāya 4; Varga 29. Number of Ṛks in the sūkta: 6. Seer: Āgastya. Deity: Aśvinā. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । युं॑जाथां॒ । मन॑सः ।॒ यः । जवी॑यान् । त्रिवंधु॒रः । वृ॑षणा॒ । यः । त्रि॑च॒क्रः ।  
+> येन । उ॑पया॒र्थः । सु॒कृतः ।॑ दुरो॒णं । त्रि॒धातु॑ना । पतथः ।॒ विः । न । प॒र्णैः ॥
+
 ---
 
-**Progress note:** Done through printed p. 618. pp. 613-618 (batch API)
+**Progress note:** Done through printed p. 624. pp. 619-624 (batch API)
