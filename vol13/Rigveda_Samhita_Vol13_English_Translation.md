@@ -13890,6 +13890,161 @@ It says that Prajāpati, desiring to create creatures, created the world united 
 As in this verse the meaning is firm or steady, so in the present Ṛk also it means a steady speech of praise.
 त्रेधा गीः (*tredhā gīḥ*) is explained as वाग मंत्रादि भेदेन त्रिप्रकारा (*vāga maṃtrādi bhedena triprakārā*), and there is also the epithet स्थविरा (*sthavirā*). Here it can be threefold as Ṛk, Yajus and Sāman; or, because of the epithet of śastra, stoma and stotra, and also because Sāyaṇa explains the purport of this word as अत्यंतं स्थिरा नित्या वेदमयी (*atyaṃtaṃ sthirā nityā vedamayī*), here Ṛk, Yajus and Sāma
 
+### Printed p. 583
+the divisions of Ṛk, Yajus and Sāman may be what is indicated here. And when the Upaniṣad explains the word udgītha, it also states this division by sentences such as वाग्गीर्वाचो ह गिर इत्याचक्षते (*vāggīrvāco ha gira ityācakṣate*) (Chā. 1-3-6). It states the threefold division of śastra and the rest, and the division of the three kinds of mantra, Ṛk and the rest. The threefold division of śastra and the rest, and the division of the mantras Ṛk and the rest, will be explained further on.
+
+For the words यामन् (*yāman*) and अयामन् (*ayāman*) he has given the meanings गमने (*gamane*) and अगमने च (*agamane ca*). The word यामन् (*yāman*) is used in many places and not in one sense only. Its meaning has to be stated according to each context. In many earlier places Skandasvāmin, explaining this word, says यांत्यस्मिन् देवता द्विजातयश्च इति यामो यज्ञः (*yāṃtyasmin devatā dvijātayaśca iti yāmo yajñaḥ*); since gods and the twice-born among men come and gather here, he has stated that the word याम (*yāma*) means sacrifice. The word is formed from the root या (*yā*) in the sense प्रापणे (*prāpaṇe*). In every context the meaning differs according to the commentator's inclination. For example, in the Ṛk
+अजोहवीन्नासत्या करा वां महे यामन्नुरुभुजा पुरंधिः । (*ajohavīnnāsatyā karā vāṃ mahe yāmannurubhujā puraṃdhiḥ |*) (Ṛ. Saṃ. 1-116-13)
+Sāyaṇa explains यामन् (*yāman*) as याति गच्छतीति याम स्तोत्रं (*yāti gacchatīti yāma stotraṃ*), while Skandasvāmin explains it as यांति योद्धारो यस्मिन् स यामः संग्राम इहाभिप्रेतः । (*yāṃti yoddhāro yasmin sa yāmaḥ saṃgrāma ihābhipretaḥ |*), that is, battle is meant here. And in
+इंद्रं नमस्यन्नुपमेभिरर्कैर्यः स्तोतृभ्यो हव्यो अस्ति यामन् । (*iṃdraṃ namasyannupamebhirarkairyaḥ stotṛbhyo havyo asti yāman |*) (Ṛ. Saṃ. 1-33-2)
+Sāyaṇa takes यामन् (*yāman*) as battle, Skandasvāmin as sacrifice. In the present Ṛk too, the words यामन् (*yāman*) and अयामन् (*ayāman*) may mean going and not going, or the time of sacrifice and the time without sacrifice, or the time of battle and the time without battle. The meaning is: at all these times listen to our praise and be pleased.
+
+##### Grammar
+
+- असर्जि — सृज विसर्गे धातुः । छांदसवागि कर्मणि लुज् । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति च्लेः चिणादेशः । तं निमित्तीकृत्य धातोः लघूपधस्य गुणः । चिणो लुक् (पा. सू. ६-४-१०४) इति परस्य त प्रत्ययस्य लोपः । अंगस्य अडागमः । पादादित्वात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तं भवति ।
+
+### Printed p. 584
+- स्थविरा — ष्ठा गतिनिवृत्तौ धातुः । अजिरशिशिर (उ. सू. १-५३) इति किरच् प्रत्ययांतं निपातितम् । प्रत्ययस्वरेण मध्योदात्तं भवति । स्त्रीत्वे अदंतत्वात् टाप् ।
+- वेधसा — सुपां सुलुक् इति सूत्रेण द्विवचनस्य आकारादेशः । आमंत्रितनिघातस्वरो भवति ।
+- त्रेधा — विधाच्च (पा. सू. ५-३-४६) इति प्रकारार्थे त्रिशब्दात् विधाच् प्रत्ययः । यस्येति च सूत्रेण इकारलोपः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- क्षरंती — क्षर संचलने धातुः । लटः शत्रादेशः । उगितश्च (पा. सू. ४-१-६) इति स्त्रीत्वे जीप् । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- उपस्तुतौ — ष्टुञ् स्तुतौ धातुः । स्त्रियांक्तिन् इति क्तिन् प्रत्ययः । तादौ च निति (पा. सू. ६-२-५०) इति गतेः (उप) प्रकृतिस्वरो भवति । **NOTE**
+- नाधमानम् — नाध्य याज्ञायां धातुः । लटः शानचादेशः । शप् विकरणम् । आनेमुक् इति मुकागमः । तास्यनुदात्तेत् इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- यामन् — या प्रापणे धातुः । मनिन् प्रत्ययः । सुपां सुलुक् (पा. सू. ७-१-३९) इति सप्तम्याः लुक् । अयामन् इत्यत्रापि एवमेव लुक् आगतः । नञ् प्रकृतिस्वरविशेषः ।
+- शृणुतम् — श्रु श्रवणे धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ॥ ७ ॥
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्या वां॒ रुश॑तो॒ वप्स॑सो॒ गीस्त्रि॑ब॒र्हिषि॒ सद॑सि पिन्नते॒ न्यून् ।  
+> वृषा॑ वां मे॒घो वृ॑षणा पीपाय॒ गोर्न सेके॒ मनु॑षो  ॒
+> दशस्यन् ॥ ८ ॥
+
+### Printed p. 585
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्या । वां । रुशतः । वप्ससः । गीः । त्रिबर्हिषि । सदसि । पिन्वते । नृन् ।  
+> वृषा । वां । मेघः । वृषणा । पीपाय । गोः । न । सेके । मनुषः । दशस्यन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवयो रुशतो दीप्तस्य वप्पसो रूपस्यॆव वपुषो वा
+> ख्यापयित्रि गीः स्तुतिवाक् त्रिबर्षिषि त्रिधात्वास्तीर्णबर्हिष्के सदसि यागसदने नृन्
+> कर्मनेत्यनस्मान्पिन्वते । आप्याययति आप्याययतु वोचितप्रदानादिना । केन प्रकारेण उच्यते । हे वृषणा वर्षितार् कामानां वां युवयोः स्वभूतो मेघः
+> सेक्ता जलदः प्रदानविशेषो ना वृषा वर्षकः सन् मनुषो मनुष्यान् प्रति
+> दशस्यन् प्रयच्छन् पीपाय । आप्याययति । आप्यायने दृष्टांतः । गोर्नसेक
+> उदकसेक इव शांतनात्सेक उदकस्येव । तद्यथाप्याययति तद्वदित्यर्थः । यद्वा ।
+> नेति संप्रत्यर्थे । गोरुदकस्य सेके निमित्तभूते सति पीपायेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, your voice of praise, which makes known your bright form (or body), nourishes us, the leaders of the rite, in the sacrificial hall where the grass is strewn threefold, by fitting gifts, or let it nourish us." How? "O showerers of desires, the cloud that is yours, the sprinkler, the giver of water, a special gift, itself a rain-giver, gives to men and nourishes." The example of the nourishing is गोर्नसेक (*gornaseka*): as in a sprinkling of water, as water nourishes, so it is. Or else न (*na*) is in the sense of "now": when the sprinkling of the water has become the occasion, it nourishes; this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin gods
+- वां (*vāṃ*)—of you two
+- रुशतः (*ruśataḥ*)—bright
+- वप्पसः (*vappasaḥ*)—of the form (making the body famous)
+- गीः (*gīḥ*)—the word in the form of praise
+- त्रिबर्हिषि (*tribarhiṣi*)—having sacred grass strewn in three layers
+- सदसि (*sadasi*)—in the sacrificial hall
+- नृन् (*nṛn*)—us, the conductors of the rite
+- पिन्वते (*pinvate*)—satisfies, or let it satisfy, with fitting gifts and the like
+- उत (*uta*)—and
+- हे वृषणा (*he vṛṣaṇā*)—O Aśvin gods, showerers of desires
+- वां (*vāṃ*)—to you two belonging
+- वृषा (*vṛṣā*)—the rain-giving
+- मेघः (*meghaḥ*)—cloud
+- मनुषः (*manuṣaḥ*)—towards men
+- दशस्यन् (*daśasyan*)—granting rain
+- गोः सेके न (*goḥ seke na*)—as joy arises from sprinkling water. [Or गोः सेके (*goḥ seke*)—the sprinkling of water being the occasion; न (*na*)—now; मनुषः (*manuṣaḥ*)—towards men; दशस्यन् (*daśasyan*)—granting rain; पीपाय (*pīpāya*)—gladdens.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, this our word of praise, which praises your bright body, gives joy to us who perform the sacrifice in this sacrificial hall strewn with sacred grass threefold. And, O Aśvin gods, showerers of desires, your own cloud, the cause of rain, when men need water, pours rain and gladdens them.
+
+### Printed p. 586
+
+##### English translation (H. H. Wilson)
+May the praise of your resplendent forms, (uttered) in the hall of sacrifice, thrice strewn with sacred grass, bring prosperity to the conductors (of the sacrifice). Showerers (of benefits), may the raining-cloud, proceeding to man, nourish him like a sprinkling of water.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the two words रुशतः (*ruśataḥ*) and वप्ससः (*vapsasaḥ*) are both adjectives of गीः (*gīḥ*), and they indicate special qualities of the word of praise.
+
+रुशतः (*ruśataḥ*)—रुशदिति वर्णनाम । रोचतेज्वलतिकर्मणः । (*ruśaditi varṇanāma | rocatejvalatikarmaṇaḥ |*) (Ni. 2-20). The Nirukta author explains that from the root रुच् (*ruc*), meaning "to shine", the word रुशत् (*ruśat*), meaning white colour, is formed.
+
+वप्पसः (*vappasaḥ*)—This word is very rarely used; it would hardly be wrong to say it occurs only here in the whole Ṛk-saṃhitā. Sāyaṇa explains it as a body of beautiful form. That is, as in this Ṛk a beautiful body displays its beauty, so also the praise displays the beauty of its skilful composition.
+
+त्रिबर्हिषि (*tribarhiṣi*)—He explains this word as त्रिधा त्वास्तीर्णबर्हिष्के (*tridhā tvāstīrṇabarhiṣke*). What is "threefold", and why that meaning arises here, will be stated in the special topics of Ṛk 1-183-1 of the Ṛ. Saṃ.
+
+By the sentence वां वृषा मेघः दशस्यन् (*vāṃ vṛṣā meghaḥ daśasyan*) a relation of cause and effect is indicated between the showering of rain and the favour of the Aśvins. As the Maruts are prayed to, so the Aśvins also are prayed to in many places for the giving of rain. But the special meanings in these prayers and in the adjectives used in these contexts must be noticed. For example:
+आ न ऊर्जं वहतमश्विना युवं मधुमत्या नः कशया मिमिक्षतं । प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा । (*ā na ūrjaṃ vahatamaśvinā yuvaṃ madhumatyā naḥ kaśayā mimikṣataṃ | prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā |*) (Ṛ. Saṃ. 1-157-4)
+Here the prayer is: "O Aśvin gods, since you two pour rain, make us full of vigour with the whip that carries a sweet sound." Likewise,
+
+### Printed p. 587
+समाने अहन् त्रिरवद्यगोहना त्रिरद्य यज्ञं मधुना मिमिक्षतं । (*samāne ahan triravadyagohanā triradya yajñaṃ madhunā mimikṣataṃ |*) (Ṛ. Saṃ. 1-34-3)
+त्रिषधस्थे बर्हिषि विश्ववेदसा मध्वा यज्ञं मिमिक्षतं ॥ (*triṣadhasthe barhiṣi viśvavedasā madhvā yajñaṃ mimikṣataṃ ‖*) (Ṛ. Saṃ. 1-47-4)
+In these Ṛks also the prayer is to satisfy the sacrificial ground with sweet juice at the three times. Although the same sense is indicated in the present Ṛk, in every context adjectives such as मधुमती (*madhumatī*) and माध्वी (*mādhvī*) are also used. Therefore a special meaning has to be stated for the showering of rain connected with these two. That matter will be explained in detail further on (in this same part), in the special topics of Ṛk 1-182-2 of the Ṛ. Saṃ.
+
+##### Grammar
+
+- रुशतः — रुश हिंसायां धातुः । तुदादिः । धातूनां अनेकार्थत्वात् अत्र दीप्यर्थे प्रयुक्तः । लटः शत्रादेशः । तास्यनुदात्तेत् इति सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते । षष्ठीएकवचनांतरूपम् ।
+- पिन्वते — पिवि सेचने धातुः । व्यत्ययो बहुलं इति आत्मनेपदी भवति । इदितो नुम् धातोः (पा. सू. ७-१-५८) इति नुमागमः । लट् प्रथमपुरुषएकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- वृषणा — वृषु सेचने धातुः । कनिन्‌युवृषि इति कनिन् प्रत्ययः । सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य आकारादेशः । वा षपूर्वस्य निगमे (पा. सू. ६-४-९) इति उपधादीर्घः न भवति । आमंत्रितनिघातस्वरो भवति ।
+- पीपाय — ओप्यायी वृद्धौ धातुः । छंदसि लुङ्लङ्लिटः (पा. सू. ३-४-६) इति वर्तमानार्थे लिट् । लिड्यजोश्च (पा. सू. ६-१-२९) इति लिटि परे धातोः पीभावः । द्वित्वादि । णल्निमित्तं ईकारस्य वृद्धिः । आयादेशः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- सेके — षिचिर् क्षरणे धातुः । घञ् प्रत्ययः । पुगंतलघूपधस्य च इति लघूपधगुणः । चजोः कुघिण्यतोः (पा. सू. ७-३-५२) इति चकारस्य कुत्वम् । प्रत्ययस्य इत्त्वात् आद्युदात्तस्वरो भवति ।
+- दशस्यन् — दशस् दाने कंड्वादिधातुः । कंड्वादिभ्यो यक् (पा. सू. ३-१-२७) इति स्वार्थे यक् । यगंतात् लटः शत्रादेशः । यक्स्वरः शिष्यते । प्रथमाएकवचनांतरूपम् ॥ ८ ॥
+
+### Printed p. 588
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां पू॒षेवा॑श्विना॒ पुरं॑धिर॒ग्नि मु॒षां न ज॑रते ह॒विष्मा॑न् ।  
+> हु॒वे यद्वां॑ वरिव॒स्या गृ॑णा॒नो वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । पूषा इव । अश्विना । पुरंधिः । अग्निं । उषां । न । जरते । हविष्मान् ।  
+> हुवे । यत् । वां । वरिवस्या । गृणानः । विद्याम । इषं । वृजनं । जीरदानुं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां पुरंधिर्बहुप्रज्ञः पूषेव पोषक इव हविष्मान् हविर्युक्तो जरते । स्तोति । यद्वा । पुरंधिर्बहुनां धारयित्री पूषेव पृथिवीव ॥
+> द्वितीयार्थे प्रथमा ॥ तां यथा स्तोति तद्वत् । किमव । अग्निमुषां न । अग्निमुषसं
+> च यथा तथा युवामपि । प्रातरनुवाकाश्विनशस्त्रयोराश्विनक्रतुवदाग्नेयोषस्ययोरपि सद्भावादिति भावः । कदेति आह । यद्यदा वरिवस्या वरिवस्यया परिचयया
+> युक्तो गृणानः स्तोता स्तोति तदा यजमानोऽपि जरत इत्यर्थः । विद्यामेत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, the wise sacrificer (पुरंधिः (*puraṃdhiḥ*), of much wisdom), bearing the oblation, praises you like a nourisher (पूषा (*pūṣā*))." Or else: पुरंधिः (*puraṃdhiḥ*) is the supporter of many, पूषा (*pūṣā*) is the earth, the nominative standing for the accusative; as one praises her, so he praises you. Why so? अग्निमुषां न (*agnimuṣāṃ na*): as one praises Agni and Uṣas, so he praises you also; for as in the Āśvina-śastra of the morning recitation (prātaranuvāka) there is the Āśvina-kratu, so the Āgneya and Auṣasya portions are also present. When? यत् (*yat*), when the praiser (गृणानः (*gṛṇānaḥ*)), endowed with वरिवस्या (*varivasyā*) (service, attendance), praises, then the sacrificer also praises: this is the meaning. विद्याम (*vidyāma*) and the rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वरिवस्या (*varivasyā*)—with attendance
+- गृणानः (*gṛṇānaḥ*)—(I) the praiser
+- हुवे (*huve*)—call (with praise); (तत् (*tat*)—then)
+- (हे (*he*)) अश्विन् (*aśvin*)—O Aśvin gods
+- पुरंधिः (*puraṃdhiḥ*)—of much wisdom
+- पूषा इव (*pūṣā iva*)—like a nourisher
+- हविष्मान् (*haviṣmān*)—the sacrificer endowed with oblations and the like. [Or पुरंधिः (*puraṃdhiḥ*)—the supporter of many; पूषा इव (*pūṣā iva*)—as one praises the earth]
+- अग्निं उषां न (*agniṃ uṣāṃ na*)—as one praises Agni and the goddess Uṣas (in the morning)
+- जरते (*jarate*)—praises; (वयं (*vayaṃ*)—we also)
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (by your favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, I, full of devotion, praise you and attend upon you; at that same time the sacrificer, of much wisdom and endowed with oblations and the like, goes round the earth, the supporter of many people,
+
 ---
 
-**Progress note:** Done through printed p. 582. pp. 577-582 (batch API)
+**Progress note:** Done through printed p. 588. pp. 583-588 (batch API)
