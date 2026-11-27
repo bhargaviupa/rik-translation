@@ -20,3 +20,4 @@ batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date
 19	645	677	154	149	131	0	5	244k	c1e9ca69	2026-11-27	marks q323-q472: 150 seen, 145 removed, 5 kept
 20	677	695	134	126	125	0	8	252k	e0215527	2026-11-27	marks q327-q476: 150 seen, 143 removed, 7 kept
 21	695	713	136	128	119	0	8	193k	82749399	2026-11-27	marks q334-q483: 150 seen, 144 removed (incl. 2 of next range), 8 kept
+22	713	732	132	130	125	0	2	203k	240cfaf7	2026-11-27	marks q342-q491: 150 seen, 148 removed, 2 kept
