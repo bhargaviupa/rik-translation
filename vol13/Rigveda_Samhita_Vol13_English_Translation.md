@@ -13317,6 +13317,159 @@ He states that this horse of Varuṇa, lord of all heaven and earth, is none oth
 > आ । वां । रथः । अवनिः । न । प्रवत्वान् । सृप्रवंधुरः । सुविताय । गम्याः ।  
 > वृष्णः ! स्थातारा । मनसः । जवीयान् । अहंपूर्वः । यजतः । धिष्ण्या । यः ॥
 
+### Printed p. 559
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रे ऽश्वव्याजेनाश्विनोरागमनमुक्तं । अनेन रथव्याजेनोच्यते ।
+> हे धिष्ठ्योन्नतस्थानार्ह् स्थापितारा स्वरथाधिष्ठान् वां युवयोर्यो रथोऽस्ति स
+> सुविताय शोभनफलाया गम्याः । अस्मद्यज्ञमागच्छतु ॥ पुरुषव्यत्ययः ॥ कीदृशो
+> रथ इति स विशेष्यते । अवनिर्न प्रवत्वान् भूमिरिवात्यंतविस्तारवान् सुप्रवंधुरो
+> विस्तीर्णपुरोभागः वृष्णो वर्षकस्याश्वस्य मनसोऽपि जवीयान् । मनोवेगवानित्यर्थः । अहंपूर्वोhंकारपूर्वो मनस्वी वात्युदारः यजतो यष्टव्यः ।
+> ईदृशो रथ आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+In the previous mantra the coming of the Aśvins was spoken of under the pretext of horses; here it is spoken of under the pretext of the chariot. Sāyaṇa addresses the two as धिष्ण्या (*dhiṣṇyā*), "worthy of an exalted place", and स्थातारा (*sthātārā*), "stationed on their own chariot". The chariot that is theirs is to come to our sacrifice for good fruit (सुविताय (*suvitāya*)); the verb is in a shifted person (पुरुषव्यत्ययः (*puruṣavyatyayaḥ*)). He then describes the chariot. It is like the earth (अवनिर्न प्रवत्वान् (*avanirna pravatvān*)), extremely wide. It has a broad front part (सुप्रवंधुरो (*supravaṃdhuro*)). It is swifter even than the mind of the showering, wish-fulfilling horse, that is, it has the speed of mind. It is अहंपूर्वः (*ahaṃpūrvaḥ*), either "preceded by self-assertion", or high-minded and noble. It is यजतः (*yajataḥ*), worthy of worship. Such a chariot is to come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धिष्ण्या (*dhiṣṇyā*)—worthy of an exalted place
+- स्थातारा (*sthātārā*)—those who stand on their own chariot; O Aśvin deities
+- अवनिः न (*avaniḥ na*)—as the earth (is vast)
+- प्रवत्वान् (*pravatvān*)—extremely vast
+- सृप्रवंधुरः (*sṛpravaṃdhuraḥ*)—having a broad front part
+- वृष्णः (*vṛṣṇaḥ*)—of the horse, the showerer of desires
+- मनसः (*manasaḥ*)—of the mind (than the speed)
+- जवीयान् (*javīyān*)—(more) swift
+- अहंपूर्वः (*ahaṃpūrvaḥ*)—high-minded (very noble)
+- यजतः (*yajataḥ*)—worthy of worship
+- वां (*vāṃ*)—of you two
+- यः रथः (*yaḥ rathaḥ*)—the chariot that there is
+- सः (*saḥ*)—that chariot
+- सुविताय (*suvitāya*)—for (our) obtaining good fruit
+- आ गम्याः (*ā gamyāḥ*)—may it come to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, excellent and steady of mind (stationed on your own chariot): may your chariot, as vast as the earth, with a broad front, swifter than the horse and than the speed of the mind, high-minded and worthy of worship, come with you to our sacrificial hall, to bestow good fruit upon us.
+
+##### English translation (H. H. Wilson)
+Ashwins, excellent and steady, may your chariot, vast as the earth, broad-fronted, rapid as the rain, (fleet) as thought, emulative and adorable, come hither for (our) good.
+
+##### विशेषविषयगळु (Special Topics)
+
+धिष्ण्या (*dhiṣṇyā*)—Sāyaṇa explains this word as उन्नतस्थानार्हौ (*unnatasthānārhau*), "those worthy of an exalted place", that is, worthy of worship. Since this synonym is also used for places such as the Āgnīdhra, it may here mean "worthy of such a place". The two words धिषणा (*dhiṣaṇā*) and धिष्ण्या (*dhiṣṇyā*) ordinarily have one meaning (a difference of meaning between the two is very rare).
+
+### Printed p. 560
+The Nirukta authors have included the word धिषणा (*dhiṣaṇā*) among the names of speech (Ni. 2-23) and among the names of heaven and earth (Ni. 3-31). Quoting the Ṛk
+मेद्यंतु ते वह्नयो येभिरीयसेऽरिषण्यन्वीळयस्वा वनस्पते । आयूया धृष्णो अभिगूर्या त्वं नेष्ट्रात्सोमं द्रविणोदः पिब ऋतुभिः ॥ (*medyaṃtu te vahnayo yebhirīyase 'riṣaṇyanvīḷayasvā vanaspate | āyūyā dhṛṣṇo abhigūryā tvaṃ neṣṭrātsomaṃ draviṇodaḥ piba ṛtubhiḥ ‖*) (Ṛ. Saṃ. 2-37-3),
+they show there the explanation धिष्ण्याद्धिष्टो धिषण्यो धिषणाभवः । धिषणा वाक् धिषेर्दधात्यर्थे । धीसादिनीति वा । धी सानिनीति वा। (*dhiṣṇyāddhiṣṭo dhiṣaṇyo dhiṣaṇābhavaḥ | dhiṣaṇā vāk dhiṣerdadhātyarthe | dhīsādinīti vā | dhī sāninīti vā|*) The meaning is that it is formed from the root धिष् (*dhiṣ*), which gives the sense "hold", and means speech; or it gives the sense "spread or produce the intellect". Hence the derivation: धिषणा (*dhiṣaṇā*) means speech. But other meanings of this word are also possible.
+आपश्च मित्रं धिषणा च साधन्देवा अग्निं धारयन्द्रविणोदां । (*āpaśca mitraṃ dhiṣaṇā ca sādhandevā agniṃ dhārayandraviṇodāṃ |*) (Ṛ. Saṃ. 1-96-1)
+इमां ते धियं प्र भरे-महो महीमस्य स्तोत्रे धिषणा यत्त आनजे । (*imāṃ te dhiyaṃ pra bhare-maho mahīmasya stotre dhiṣaṇā yatta ānaje |*) (Ṛ. Saṃ. 1-102-1)
+In such Ṛks it means speech or intellect. If speech is taken as speech in the form of praise, then धिष्ण्या (*dhiṣṇyā*) means "worthy of praise, worthy of worship", and in this sense the same word is used in many places.
+तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः । तद्गावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवं ॥ (*tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tatpitā dyauḥ | tadgāvāṇaḥ somasuto mayobhuvastadaśvinā śṛṇutaṃ dhiṣṇyā yuvaṃ ‖*) (Ṛ. Saṃ. 1-89-4)
+Here the word धिष्ण्या (*dhiṣṇyā*) is an epithet of the Aśvin deities themselves. Sāyaṇa explains it: धिषणा बुद्धिः (*dhiṣaṇā buddhiḥ*), तदार्हावश्विन् (*tadārhāvaśvin*), that is, "worthy of meditation". Likewise in
+युवं श्रीभिर्दर्शताभिराभिः शुभे पुष्टिमूहथुः सूर्यायाः । प्र नां वयो वपुषेऽनु पप्तन्नक्षद्वाणी सुष्टुता धिष्ण्या नां ॥ (*yuvaṃ śrībhirdarśatābhirābhiḥ śubhe puṣṭimūhathuḥ sūryāyāḥ | pra nāṃ vayo vapuṣe 'nu paptannakṣadvāṇī suṣṭutā dhiṣṇyā nāṃ ‖*) (Ṛ. Saṃ. 6-63-6)
+and similar contexts (Ṛ. Saṃ. 8-5-14; 8-26-12) this epithet is used of the Aśvin deities, and everywhere it is used in the sense "worthy of praise, worthy of worship".
+कद्धिष्ण्यासु वृधसानो अग्ने कद्वाताय प्रतवसे शुभंये । परिज्मने नासत्याय क्षे ब्रवः कदग्ने रुद्राय नृघ्ने ॥ (*kaddhiṣṇyāsu vṛdhasāno agne kadvātāya pratavase śubhaṃye | parijmane nāsatyāya kṣe bravaḥ kadagne rudrāya nṛghne ‖*) (Ṛ. Saṃ. 9-3-6)
+
+### Printed p. 561
+In such Ṛks, where the word धिष्ण्य (*dhiṣṇya*) is cited with the sense "place", it means आग्नीध्रीयादिस्थानेषु (*āgnīdhrīyādisthāneṣu*) (Ṛ. Saṃ. 10-114-9). Although the general sense is "worthy of worship", in some places this word has been included among the names of heaven and earth (Ni. 3-21).
+महस्करथो वरिवो यथा नोऽस्मे क्षयाय धिषणे अनेहः । (*mahaskaratho varivo yathā no 'sme kṣayāya dhiṣaṇe anehaḥ |*) (Ṛ. Saṃ. 6-50-3)
+समीचीने धिषणे वि ष्कभायति वृष्णः पीत्वा मद उक्तानि शंसति ॥ (*samīcīne dhiṣaṇe vi ṣkabhāyati vṛṣṇaḥ pītvā mada uktāni śaṃsati ‖*) (Ṛ. Saṃ. 10-44-8)
+In such Ṛks the meaning is simply heaven and earth. In some contexts the word also means a bag that holds Soma juice. In some places Sāyaṇa, without any of the above meanings, gives this word a different derivation and states a rare meaning. For example:
+अग्ने दिवो अर्णमच्छा जिगास्यच्छा देवा ऊचिषे धिष्ट्या ये । या रोचने परस्तात्सूर्यस्य याश्चावस्तादुपतिष्ठंत आपः ॥ (*agne divo arṇamacchā jigāsyacchā devā ūciṣe dhiṣṭyā ye | yā rocane parastātsūryasya yāścāvastādupatiṣṭhaṃta āpaḥ ‖*) (Ṛ. Saṃ. 3-22-3)
+There, धियं बुद्धुपहितं देहं उष्णंत्युष्टीकुर्वंति इति धिष्ण्याः (*dhiyaṃ buddhupahitaṃ dehaṃ uṣṇaṃtyuṣṭīkurvaṃti iti dhiṣṇyāḥ*): since they show self-identification with the body endowed with intellect, they are named धिष्ण्य (*dhiṣṇya*). In the cited Ṛk it is an epithet of the deities. Since the word is thus used in many senses, in the present Ṛk it means the Aśvin deities, who have occupied a place of honour.
+अवनिः (*avaniḥ*)—Here the word अवनि (*avani*) is explained as the earth. The Nirukta authors have included this word among the names of fingers and the names of rivers (Ni. 2-24) and among the names of the earth (Ni. 2-5). Moreover, formed from the root अव (*ava*) meaning protection, the word अवनिः (*avaniḥ*) also means "protectors", as an epithet of Indra and others. The Nirukta author too, explaining how the sense "finger" is possible for अवनि (*avani*), says
+अवनयोऽंगुलयो भवंत्यवंति कर्माणि । (*avanayo 'ṃgulayo bhavaṃtyavaṃti karmāṇi |*) (Ni 3-9)
+and so explains the word: fingers are called अवनि (*avani*) because they protect rites such as the sacrifice. Further,
+यः पुष्पिणीश्च प्रस्वश्च धर्मणाधि दाने व्य ० वनीरधारयः । यश्चासमा अजनो दिद्युतो दिव उरुरूर्वा अभितः सास्युक्थ्यः (*yaḥ puṣpiṇīśca prasvaśca dharmaṇādhi dāne vya 0 vanīradhārayaḥ | yaścāsamā ajano didyuto diva ururūrvā abhitaḥ sāsyukthyaḥ*) (Ṛ. Saṃ. 2-13-7)
+Here अवित्रीः (*avitrīḥ*) means ओषधीः (*oṣadhīḥ*), plants that protect life. And
+तुभ्येदमग्ने मधुमत्तमं वचस्तुभ्यं मनीषा इयमस्तु शं हृदे । श्वां गिरः सिंधुमिवावनीर्महीरा पृणंति शवसा वर्धयंति च ॥ (*tubhyedamagne madhumattamaṃ vacastubhyaṃ manīṣā iyamastu śaṃ hṛde | śvāṃ giraḥ siṃdhumivāvanīrmahīrā pṛṇaṃti śavasā vardhayaṃti ca ‖*) (Ṛ. Saṃ. 5-11-5)
+XIII 36
+
+### Printed p. 562
+In this Ṛk the word अवनि (*avani*) is used as a synonym of the rivers that join the ocean. Thus, in the sense of protection and in the sense of an extended nature, the word is an epithet of rivers, the earth and so on. In the present Ṛk it means the extensive earth.
+अहंपूर्वः (*ahaṃpūrvaḥ*)—This word is explained as "having self-regard" or "having a noble mind". Ordinarily its use in the sense अहमहमिका (*ahamahamikā*) is the more frequent. This epithet is used to show excess of speed.
+सुविताय (*suvitāya*)—This word is explained according to context. In some places it means "for good going" (सुगमनाय (*sugamanāya*)), in others "for excellent fruit", and "for a fruitful rite".
+आ रुद्रास इंद्रवंतः सजोषसो हिरण्यरथाः सुविताय गंतन । इयं वो अस्मत्पृतिहरते मतिस्त्रष्णजे न दिव उत्सा उदन्यवे ॥ (*ā rudrāsa iṃdravaṃtaḥ sajoṣaso hiraṇyarathāḥ suvitāya gaṃtana | iyaṃ vo asmatpṛtiharate matistraṣṇaje na diva utsā udanyave ‖*) (Ṛ. Saṃ. 5-57-1)
+In such places the word सुविताय (*suvitāya*) is used in the sense सुगुणाय कर्मणे (*suguṇāya karmaṇe*), "for an excellent rite".
+पुनरेहि वृषाकपे सुविता कल्पयावहै । (*punarehi vṛṣākape suvitā kalpayāvahai |*) (Mu. Saṃ. 10-86-21)
+Here the sense given is सुप्रसूतानि (*suprasūtāni*) or सुप्रवृत्तानि (*supravṛttāni*). The use of this word in still other senses was indicated earlier in the Special Topics of Ṛ. Saṃ. 1-190-10.
+सृप्रवंधुरः (*sṛpravaṃdhuraḥ*)—The word सृप्र (*sṛpra*) ordinarily means "creeping, gliding". For example:
+नपाता शवसो महः सूनू दक्षस्य सुक्रतू । सुप्रदानू इषो नास्त्वधि: क्षितः॥ (*napātā śavaso mahaḥ sūnū dakṣasya sukratū | supradānū iṣo nāstvadhi: kṣitaḥ‖*) (Ṛ. Saṃ. 8-25-5)
+In such places it means "ever flowing", that is, having uninterrupted giving. But in the present Ṛk वंधुर (*vaṃdhura*) is used in the sense of the seat at the front where the charioteer sits. There is no room here for the sense "flowing"; it may be explained as an extremely wide seat. Sāyaṇa explains it likewise. (In the 34th Sūkta of Ṛ. Saṃ. (part 4) the explanation of the words त्रिवंधुरां (*trivaṃdhurāṃ*) and त्रिचक्रः (*tricakraḥ*) has been given.)
+
+### Printed p. 563
+
+##### Grammar
+
+- अवनिः — अव रक्षणे । धातुः । आर्तिसृधृधम्य—(उ. सू. २-२५९) इति अनि प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- प्रवत्वान् — वन षण संभक्तौ । धातुः । प्र पूर्वकत्वे क्विप् प्रत्ययः । गमादीनामिति वक्तव्यम् (पा. सू. ६-४-४०-१) इति धातोः अनुनासिकनकारस्य लोपः । ह्रस्वस्य पितिकृतितुक् इति तुकागमः । कृदुत्तरपद प्रकृतिस्वरः भवति । प्रवत् अस्य अस्ति इति प्रवत्वान् । माडुपधायाश्च—इति मतुपः मकारस्य वत्वम् । मतुप् पित्त्वात् अनुदात्तः भवति । प्रथमा एकवचनांतरूपम् ।
+- गम्याः — गम्‌ल्य गत् । धातुः । व्यत्ययो बहुलं इति लिज् प्रथमपुरुष एकवचनस्य स्थाने मध्यमपुरुष एकवचन प्रत्ययः आगतः । बहुलं छंदसि इति विकरणस्य लुक् । अतः छादेशः न भवति । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- स्थातारा — ष्ठा गतिनिवृत्तौ । धातुः । कर्तरि तृच् प्रत्ययः । संबोधना द्विवचने परे तस्य सुपां सुलुक्—इति आकारादेशः । आमंत्रित निघातस्वरः भवति ।
+- यजतः — यज देवपूजासंगतिकरणदानेषु । धातुः । भ्रमृदृशियजि—(उ. सू. ३-३९०) इति अतच् प्रत्ययः । चितः इति अंतोदात्तस्वरः भवति ।
+- धिष्ण्या — इधृषा प्रागल्भ्ये । धातुः । सानसि वर्णसि पर्णसि—(उ. सू. ४-५४७) इति ण्य प्रत्ययांतः निपातितः । औकारविभक्तेः आकारादेशः । आमंत्रित निघातस्वरः भवति ॥ ३ ॥
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हेह॑ जा॒ता सम॑वावशीतामरे॒पसा॑ त॒न्वा॒३॒॑ ३ नाम॑भिः॒ स्वैः ।  
+> जि॒ष्णुर्वा॑म॒न्यः सुम॑खस्य सू॒रिर्दि॒वो अ॒न्यः सु॒भगः॑ पु॒त्र ऊ॑हे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह इह । जाता । सं । अवावशीतां । अरेपसा । तन्वा । नामभिः । स्वैः ।  
+> जिष्णुः । वां । अन्यः । सुमखस्य । सूरिः । दिवः । अन्यः । सुभगः । पुत्रः । ऊहे ॥
+
+### Printed p. 564
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां समनावशीतां । सह सम्यग्वा पुनःपुनः स्तूयेथे
+> कामयेथां वा यज्ञं ॥ पुरुषव्यत्ययः ॥ कीदृशौ युवां । इहेह जाता ।
+> उभाभ्यामिहशब्दाभ्यां मध्यमोत्तमस्थाने उच्येते । तयोः संभूतौ । चंद्रसूर्येणेति यावत् । सूर्याचंद्रमसावित्येके । नि १२.१. । इति निरुक्तं । अरेपसापापौ। आथर्वणस्य गुरोः शिरश्वेदनादिना पापलेपरहिताविति भावः । आथर्वणायाश्विना दधीचेऽश्वं शिरः प्रत्यैरयतं । ऋ. १.१७-२२ । इत्यादि मंत्रवर्णात् ।
+> केन हेतुनेति उच्यते । तन्ना शरीरेण शरीरसौंदर्येण निमित्तेन स्वैनामभिः
+> स्वीयैर्माहात्म्यविशिष्ट्यरश्विन् नासत्यावित्यादिभिरपि । रमणीयशरीरवत्वान्महिमोपेतनामवत्त्वाच्च हेतोः संस्तूयेथे इत्यर्थः। यद्वा। अरेपसा तन्नॆति योज्यं।
+> उक्तप्रकारेण गुरुशिरश्चादप्यपापेन शीर्षेण तादृङ्महत्त्वख्यापनेनेति यावत् ।
+> किंच वां युवयोरन्य एको मध्यमस्यांतरिक्षस्य पुत्रस्थानीयः सोमो जिष्णुर्जयशीलः सुमखस्य शोभनयज्ञस्य सूरिः प्रेरयिता सन्नूहे । वहति । विश्वं
+> जगद्धारयति । चंद्रात्मनस्तस्योदये सति ह्योषधिवनस्पत्यादयो वर्धंते ।
+> अन्नोऽपर उत्तमस्थानो दिवो द्युलोकस्य पुत्रः पुत्रस्थानीय आदित्यः सुभगः
+> शोभनरश्मिरूपधन ऊहे । वहति । कृत्समेवं पृथग्गगन्नि र्वाहकौ महानुभावौ
+> युवां सह स्तूयेथे । अत्र निरुक्तं । इहेह जातौ संस्तूयेथे पापेनालिप्यमानया तन्ना नामभिश्च स्वैर्जिष्णु र्वामन्यः सुमहतो बलस्येरयिता मध्यमो
+> दिवोऽन्यः सुभगः पुत्र उह्यत आदित्यः । नि. १२-३ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you are praised together, well, or again and again (समनावशीतां (*samanāvaśītāṃ*)), or you both desire the sacrifice; the verb is in a shifted person (पुरुषव्यत्ययः (*puruṣavyatyayaḥ*)). What are you like? इहेह जाता (*iheha jātā*): the two words इह (*iha*) denote the middle and the highest place; you are born in those two, that is, as the moon and the sun. The Nirukta says: सूर्याचंद्रमसावित्येके । नि १२.१. (*sūryācaṃdramasāvityeke | ni 12.1.*) अरेपसा (*arepasā*) means sinless: free from the stain of sin, as in cutting off the head of the teacher Ātharvaṇa, according to the mantra text आथर्वणायाश्विना दधीचेऽश्वं शिरः प्रत्यैरयतं । ऋ. १.१७-२२ । (*ātharvaṇāyāśvinā dadhīce 'śvaṃ śiraḥ pratyairayataṃ | ṛ. 1.17-22 |*) **NOTE**
+By what cause? तन्ना (*tannā*), by the body, by the beauty of the body as the cause, and by their own names (स्वैनामभिः (*svaināmabhiḥ*)), distinguished by greatness, such as *aśvin nāsatyāvityādibhiḥ*. They are praised because they have lovely bodies and names endowed with majesty. Alternatively, अरेपसा । तन्वा (*arepasā | tanvā*) is to be construed together: by a head that, as described, was not sinful even in the cutting of the teacher's head, that is, by proclaiming such greatness.
+Further, one of you, the son-like Soma of the middle region, the atmosphere, is victorious (जिष्णुः (*jiṣṇuḥ*)), the impeller (सूरिः (*sūriḥ*)) of the good sacrifice (सुमखस्य (*sumakhasya*)), and is borne along (ऊहे (*ūhe*)): he sustains the whole world; when he, whose self is the moon, rises, plants, trees and the like grow. The other, of the highest place, the son-like Āditya of heaven, the world of light, is सुभगः (*subhagaḥ*), possessed of the wealth of beautiful rays, and bears the world. Thus you two, great-natured, carriers of the sky, each separately, are praised together. On this the Nirukta says: इहेह जातौ संस्तूयेथे पापेनालिप्यमानया तन्ना नामभिश्च स्वैर्जिष्णु र्वामन्यः सुमहतो बलस्येरयिता मध्यमो दिवोऽन्यः सुभगः पुत्र उह्यत आदित्यः । नि. १२-३ । (*iheha jātau saṃstūyethe pāpenālipyamānayā tannā nāmabhiśca svairjiṣṇu rvāmanyaḥ sumahato balasyerayitā madhyamo divo 'nyaḥ subhagaḥ putra uhyata ādityaḥ | ni. 12-3 |*)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—here (in the middle place, the atmosphere, as the moon, and)
+- इह (*iha*)—here (in the highest place, the heaven, as the sun)
+- जाता (*jātā*)—born
+- तन्वा (*tanvā*)—by beauty of body
+- स्वैः नामभिः (*svaiḥ nāmabhiḥ*)—(and) by their own names such as Nāsatya
+- अरेपसा (*arepasā*)—faultless
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- युवां (*yuvāṃ*)—you two
+- सं अवावशीतां (*saṃ avāvaśītāṃ*)—you are praised well or together, again and again, or you become desirous of the sacrifice
+- किंच (*kiṃca*)—and
+- वां (*vāṃ*)—among you two
+- अन्यः (*anyaḥ*)—one (of the middle place, the moon)
+- जिष्णुः (*jiṣṇuḥ*)—victorious
+- सुमखस्य (*sumakhasya*)—of the auspicious sacrifice
+- सूरिः (*sūriḥ*)—the impeller (being)
+- ऊहे (*ūhe*)—bears (the world)
+- दिवः पुत्रः (*divaḥ putraḥ*)—the son-like one of the highest place, the heaven
+- अन्यः (*anyaḥ*)—the other, of the form of Āditya
+- सुभगः (*subhagaḥ*)—possessed of the auspicious wealth of rays
+- ऊहे (*ūhe*)—bears (the world)
+
 ---
 
-**Progress note:** Done through printed p. 558. pp. 553-558 (batch API)
+**Progress note:** Done through printed p. 564. pp. 559-564 (batch API)
