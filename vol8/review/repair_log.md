@@ -2362,3 +2362,143 @@
 | 758 | `1-118-7 as read [?]` → `1-118-7` | SECOND-PASS Q1: Kannada p. 758 (ಋ. ಸಂ. ೧-೧೧೮-೭) |
 | 758 | `10-80-3 as read [?]` → `10-80-3` | SECOND-PASS Q1: Kannada p. 758 (ಋ. ಸಂ. ೧೦-೮೦-೩) |
 | 758 | `13-54-5 as read [?]` → `13-5-4-5` | SECOND-PASS Q1: Kannada p. 758 (ಶ. ಬ್ರಾ. ೧೩-೫-೪-೫) |
+
+### 2026-11-27 second pass, batch m348-497.tsv
+| page | old → new | why |
+|---|---|---|
+| 759 | `Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 759.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 759.` | SECOND-PASS Q2: running head: Kannada p. 759 has Va. 34 |
+| 759 | `4-42-8 as read [?]` → `4-42-8 as read` | SECOND-PASS Q2: Kannada p. 759 has the same number in the same context |
+| 759 | `1-63-7 as read [?]` → `1-63-7 as read` | SECOND-PASS Q2: Kannada p. 759 has the same number in the same context |
+| 759 | `6-20-10 as read [?]` → `6-20-10 as read` | SECOND-PASS Q2: Kannada p. 759 has the same number in the same context |
+| 759 | `(*Ṛ.* 42-9 as read [?])` → `(*Ṛ.* 4-42-9)` | SECOND-PASS Q1: Kannada p. 759 has 4-42-9 |
+| 759 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 759 | `*jhic* [?];` → `*jhic*;` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 759 | `3-1-3 as read [?]` → `7-1-3` | SECOND-PASS Q1: Kannada p. 759 has 7-1-3 in the same context |
+| 759 | `6-1-163 as read [?]` → `6-1-163 as read` | SECOND-PASS Q2: Kannada p. 759 has the same number in the same context |
+| 759 | `3-2-67 as read [?]` → `3-2-67 as read` | SECOND-PASS Q2: Kannada p. 759 has the same number in the same context |
+| 759 | `6-4-41 as read [?]` → `6-4-41 as read` | SECOND-PASS Q2: Kannada p. 759 has the same number in the same context |
+| 759 | `*pā.* 62-139 as read [?]` → `*pā.* 6-2-139` | SECOND-PASS Q1: Kannada p. 759 has 6-2-139 |
+| 760 | `3-2-73 as read [?]` → `3-2-75` | SECOND-PASS Q1: Kannada p. 760 has 3-2-75 in the same context |
+| 760 | `6-4-20 as read [?]` → `6-4-20 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `5-1-67 as read [?]` → `5-1-67 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `6-4-144 as read [?]` → `6-4-144 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `5-2-94 as read [?]` → `5-2-94 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `8-2-9 as read [?]` → `8-2-9 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `1-2-48 as read [?]` → `1-2-48 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `1-1-48 as read [?]` → `1-1-48 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `6-2-1 as read [?]` → `6-2-1 as read` | SECOND-PASS Q2: Kannada p. 760 has the same number in the same context |
+| 760 | `*pā.* 4-164 as read [?]` → `*pā.* 6-4-164` | SECOND-PASS Q1: Kannada p. 760 has 6-4-164 (hyphen lost) |
+| 761 | `Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 761.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 761.` | SECOND-PASS Q2: running head: Kannada p. 761 has Va. 34 |
+| 763 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 763.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 763.` | SECOND-PASS Q1: running head: Kannada p. 763 has Va. 34 |
+| 764 | `the first [?] Ṛk of Sūkta 101 of this same volume (as read [?])` → `the 16th Ṛk of Sūkta 100 of this same volume` | SECOND-PASS Q1: Kannada p. 764: 100ನೇ ಸೂಕ್ತದ 16ನೇ ಋಕ್ಕಿನ |
+| 764 | `1-112-8 as read [?]` → `1-117-16` | SECOND-PASS Q1: Kannada p. 764 has 1-117-16 in the same context |
+| 764 | `1-118-8 as read [?]` → `1-118-8 as read` | SECOND-PASS Q2: Kannada p. 764 has the same number in the same context |
+| 764 | `10-39-13 as read [?]` → `10-39-13 as read` | SECOND-PASS Q2: Kannada p. 764 has the same number in the same context |
+| 765 | `Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 765.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 765.` | SECOND-PASS Q2: running head: Kannada p. 765 has Va. 34 |
+| 765 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 765 | `1-154 as read [?]` → `1-154 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | `7-1-39 as read [?]` → `7-1-39 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | `3-2-76 as read [?]` → `3-2-76 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | `6-2-139 as read [?]` → `6-2-139 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | `3-4-9 as read [?]` → `3-4-9 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | `3-4-101 as read [?]` → `3-4-101 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | `7-1-59 as read [?]` → `7-1-59 as read` | SECOND-PASS Q2: Kannada p. 765 has the same number in the same context |
+| 765 | ` (*pā.* 1-1-39 as read [?])` → `` | SECOND-PASS S3: Kannada p. 765 has no number there; number removed (no number where the print has none) |
+| 765 | ` (*pā.* 2-4-73 as read [?])` → `` | SECOND-PASS S3: Kannada p. 765 has no number there; number removed (no number where the print has none) |
+| 765 | ` (*pā.* 1-2-4 as read [?])` → `` | SECOND-PASS S3: Kannada p. 765 has no number there; number removed (no number where the print has none) |
+| 765 | `3-1-72 as read [?]` → `3-1-77` | SECOND-PASS Q1: Kannada p. 765 has 3-1-77 in the same context |
+| 766 | `sweet water [?];` → `sweet water;` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 767 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 767.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 767.` | SECOND-PASS Q1: running head: Kannada p. 767 has Va. 34 |
+| 767 | `*abhimāna*, favour] [?]` → `*abhimāna*, favour]` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 767 | `[favour] [?]` → `[favour]` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 768 | `aśvināv ayojat [?]` → `aśvināv iyāja` | SECOND-PASS Q1: Kannada p. 768 reads ಅಶ್ವಿನಾವಿಯಾಜ (IAST by sp_sanskrit.py) |
+| 768 | `7-676 as read [?]` → `7-67-6` | SECOND-PASS Q1: Kannada p. 768 has 7-67-6 in the same context (printed 7-67.6) |
+| 769 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 769.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 769.` | SECOND-PASS Q1: running head: Kannada p. 769 has Va. 34 |
+| 769 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 769 | `1-11 as read [?]` → `1-11 as read` | SECOND-PASS Q2: Kannada p. 769 has the same number in the same context |
+| 769 | `5-2-94 as read [?]` → `5-2-94 as read` | SECOND-PASS Q2: Kannada p. 769 has the same number in the same context |
+| 769 | `8-1-66 as read [?]` → `8-1-66 as read` | SECOND-PASS Q2: Kannada p. 769 has the same number in the same context |
+| 769 | `8-1-19 as read [?]` → `8-1-19 as read` | SECOND-PASS Q2: Kannada p. 769 has the same number in the same context |
+| 770 | `[favour] [?] come` → `[favour] come` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 771 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 771.` → `Va. 34"; centre "Ṛgvedasaṃhitā"; right 771.` | SECOND-PASS Q1: running head: Kannada p. 771 has Va. 34 |
+| 771 | `with favour [?].` → `with favour.` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 771 | `1-116-15 as read [?]` → `1-116-15 as read` | SECOND-PASS Q2: Kannada p. 771 has the same number in the same context |
+| 772 | `8-86-12 as read [?]` → `1-116-21` | SECOND-PASS Q1: Kannada p. 772 has 1-116-21 in the same context |
+| 772 | `6-79 as read [?]` → `6-79 as read` | SECOND-PASS Q2: Kannada p. 772 has the same number in the same context |
+| 772 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 772 | `3-2-67 as read [?]` → `3-2-67 as read` | SECOND-PASS Q2: Kannada p. 772 has the same number in the same context |
+| 772 | `6-4-41 as read [?]` → `6-4-41 as read` | SECOND-PASS Q2: Kannada p. 772 has the same number in the same context |
+| 773 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 773.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 773.` | SECOND-PASS Q2: running head: Kannada p. 773 has Va. 35 |
+| 773 | `doubtful [?].)*` → `doubtful.)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 773 | `[as printed [?]]` → `[as printed]` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 773 | ` (*pā.* 6-4-148 as read [?])` → `` | SECOND-PASS S3: Kannada p. 773 has no number there; number removed (no number where the print has none) |
+| 774 | `the failure of the rains [?],` → `the failure of the rains,` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 775 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 775.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 775.` | SECOND-PASS Q2: running head: Kannada p. 775 has Va. 35 |
+| 775 | `anāvṛṣṭyā [?]` → `anāvṛṣṭyāṃ` | SECOND-PASS Q1: Kannada p. 775 reads ಅನಾವೃಷ್ಟ್ಯಾಂ (IAST by sp_sanskrit.py) |
+| 775 | `*Ṛ.* 1-18-1 as read [?]` → `*Ṛ.* 1-18-1 as read` | SECOND-PASS Q2: Kannada p. 775 has the same number in the same context |
+| 775 | `(*Bṛ. De.* 4-[?] as read [?])` → `(*Bṛ. De.* 4-24, 25)` | SECOND-PASS Q1: Kannada p. 775 has Bṛ. De. 4-24, 25 |
+| 775 | `1-116-7 as read [?]` → `1-116-7 as read` | SECOND-PASS Q2: Kannada p. 775 has the same number in the same context |
+| 775 | `1-117-6 as read [?]` → `1-117-6 as read` | SECOND-PASS Q2: Kannada p. 775 has the same number in the same context |
+| 776 | `1-126-4 as read [?]` → `1-126-4 as read` | SECOND-PASS Q2: Kannada p. 776 has the same number in the same context |
+| 776 | `3-183 to 190 as read [?]` → `3-142-150` | SECOND-PASS Q1: Kannada p. 776 has 3-142-150 in the same context |
+| 776 | `four horses [?],` → `four horses,` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 776 | `copper [?],` → `copper,` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 777 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 777.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 777.` | SECOND-PASS Q2: running head: Kannada p. 777 has Va. 35 |
+| 777 | `1-126-1, 2 as read [?]` → `1-126-1, 2 as read` | SECOND-PASS Q2: Kannada p. 777 has the same number in the same context |
+| 777 | `4-26-1 as read [?]` → `4-26-1 as read` | SECOND-PASS Q2: Kannada p. 777 has the same number in the same context |
+| 777 | `10-25-10 as read [?]` → `10-25-10 as read` | SECOND-PASS Q2: Kannada p. 777 has the same number in the same context |
+| 777 | `1-21 as read [?]` → `1-21 as read` | SECOND-PASS Q2: Kannada p. 777 has the same number in the same context |
+| 777 | `2-3-4-35 as read [?]` → `2-3-4-35 as read` | SECOND-PASS Q2: Kannada p. 777 has the same number in the same context |
+| 777 | `up to twelve [Ṛks] [as read, doubtful [?]]` → `up to nine [Ṛks]` | SECOND-PASS Q1: Kannada p. 777: ಋ. ಸಂ. 1-120-1 ರಿಂದ 9 ವರೆಗಿನ |
+| 778 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 778 | `1-19 as read [?]` → `8-1-19` | SECOND-PASS Q1: Kannada p. 778 has 8-1-19 in the same context |
+| 778 | `4-1-92 as read [?]` → `4-1-92 as read` | SECOND-PASS Q2: Kannada p. 778 has the same number in the same context |
+| 778 | `2-117 as read [?]` → `7-2-117` | SECOND-PASS Q1: Kannada p. 778 has 7-2-117 in the same context |
+| 778 | `8-1-66 as read [?]` → `8-1-66 as read` | SECOND-PASS Q2: Kannada p. 778 has the same number in the same context |
+| 778 | `8-2-12 as read [?]` → `8-2-12 as read` | SECOND-PASS Q2: Kannada p. 778 has the same number in the same context |
+| 778 | ` (*pā.* 6-4-11 as read [?])` → `` | SECOND-PASS S3: Kannada p. 778 has no number there; number removed (no number where the print has none) |
+| 779 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 779.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 779.` | SECOND-PASS Q2: running head: Kannada p. 779 has Va. 35 |
+| 779 | `11-25 as read [?]` → `11-25 as read` | SECOND-PASS Q2: Kannada p. 779 has the same number in the same context |
+| 780 | `4-43-6 as read [?]` → `4-43-6 as read` | SECOND-PASS Q2: Kannada p. 780 has the same number in the same context |
+| 781 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 781.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 781.` | SECOND-PASS Q2: running head: Kannada p. 781 has Va. 35 |
+| 781 | `10-108-1 as read [?]` → `10-108-1 as read` | SECOND-PASS Q2: Kannada p. 781 has the same number in the same context |
+| 781 | `10-75-6 as read [?]` → `10-75-6 as read` | SECOND-PASS Q2: Kannada p. 781 has the same number in the same context |
+| 781 | `1-120-10 as read [?]` → `1-120-10 as read` | SECOND-PASS Q2: Kannada p. 781 has the same number in the same context |
+| 781 | `8-45-30 as read [?]` → `8-45-30 as read` | SECOND-PASS Q2: Kannada p. 781 has the same number in the same context |
+| 781 | `eighth Maṇḍala [as read [?]]` → `eighth Maṇḍala` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 782 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 782 | ` (*pā.* 6-1-197 as read [?])` → `` | SECOND-PASS S3: Kannada p. 782 has no number there; number removed (no number where the print has none) |
+| 782 | `[as printed [?]]` → `[as printed]` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 782 | `6-1-63 as read [?]` → `6-1-63 as read` | SECOND-PASS Q2: Kannada p. 782 has the same number in the same context |
+| 782 | `6-4-134 as read [?]` → `6-4-134 as read` | SECOND-PASS Q2: Kannada p. 782 has the same number in the same context |
+| 782 | `6-1-161 as read [?]` → `6-1-161 as read` | SECOND-PASS Q2: Kannada p. 782 has the same number in the same context |
+| 782 | `6-2-172 as read [?]` → `6-2-172 as read` | SECOND-PASS Q2: Kannada p. 782 has the same number in the same context |
+| 782 | `3-4-9 as read [?]` → `3-4-9 as read` | SECOND-PASS Q2: Kannada p. 782 has the same number in the same context |
+| 782 | `8-3-59 as read [?]` → `8-3-59 as read` | SECOND-PASS Q2: Kannada p. 782 has the same number in the same context |
+| 782 | `6-1-58 as read [?]` → `7-1-58` | SECOND-PASS Q1: Kannada p. 782 has 7-1-58 in the same context |
+| 782 | `4-82 as read [?]` → `3-4-82` | SECOND-PASS Q1: Kannada p. 782 has 3-4-82 in the same context |
+| 783 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 783.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 783.` | SECOND-PASS Q2: running head: Kannada p. 783 has Va. 35 |
+| 784 | `[hundred and] seventy-ninth [?] *sūkta* of the tenth Maṇḍala [as read, doubtful [?]]` → `134th *sūkta* of the tenth Maṇḍala` | SECOND-PASS Q1: Kannada p. 784: ಹತ್ತನೇ ಮಂಡಲದ 134ನೇ ಸೂಕ್ತ |
+| 785 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 785.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 785.` | SECOND-PASS Q2: running head: Kannada p. 785 has Va. 35 |
+| 785 | `8-39-0 as read [?]` → `8-29-2` | SECOND-PASS Q1: Kannada p. 785 has 8-29-2 in the same context |
+| 785 | `8-40-12 as read [?]` → `8-40-12 as read` | SECOND-PASS Q2: Kannada p. 785 has the same number in the same context |
+| 785 | `10-2-2 as read [?]` → `10-2-2 as read` | SECOND-PASS Q2: Kannada p. 785 has the same number in the same context |
+| 785 | `5-105, 106 as read [?]` → `5-102, 103` | SECOND-PASS Q1: Kannada p. 785 has 5-102, 103 in the same context (printed with abbreviation ಬೃ. ಹೇ.) |
+| 785 | `doubtful [?])*` → `doubtful)*` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 785 | `3-1-114 as read [?]` → `3-1-114 as read` | SECOND-PASS Q2: Kannada p. 785 has the same number in the same context |
+| 785 | `8-1-71 as read [?]` → `8-1-71 as read` | SECOND-PASS Q2: Kannada p. 785 has the same number in the same context |
+| 785 | `5-1-124 as read [?]` → `5-1-124 as read` | SECOND-PASS Q2: Kannada p. 785 has the same number in the same context |
+| 786 | `2-2-117 as read [?]` → `7-2-117` | SECOND-PASS Q1: Kannada p. 786 has 7-2-117 in the same context |
+| 786 | `6-1-193 as read [?]` → `6-1-193 as read` | SECOND-PASS Q2: Kannada p. 786 has the same number in the same context |
+| 786 | `2-57 as read [?]` → `2-57 as read` | SECOND-PASS Q2: Kannada p. 786 has the same number in the same context |
+| 786 | `(as printed, [the rule number is doubtful [?]])` → `(*Kā.* 6-3-21-5)` | SECOND-PASS Q1: Kannada p. 787 has ಕಾ. 6-3-21-5 for this place |
+| 786 | `6-2-41-1 as read [?]` → `6-2-90-1` | SECOND-PASS Q1: Kannada p. 786 has 6-2-90-1 in the same context |
+| 787 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 787.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 787.` | SECOND-PASS Q2: running head: Kannada p. 787 has Va. 35 |
+| 788 | `6-61-1 as read [?]` → `6-61-1 as read` | SECOND-PASS Q2: Kannada p. 788 has the same number in the same context |
+| 788 | `mountain regions [?],` → `mountain regions,` | SECOND-PASS Q2: doubt mark only on a note or on text the Kannada page confirms |
+| 788 | `1-130-7 as read [?]` → `1-130-7 as read` | SECOND-PASS Q2: Kannada p. 788 has the same number in the same context |
+| 788 | `1-53-10 as read [?]` → `1-53-10 as read` | SECOND-PASS Q2: Kannada p. 788 has the same number in the same context |
+| 788 | `8-103-2 as read [?]` → `8-103-2 as read` | SECOND-PASS Q2: Kannada p. 788 has the same number in the same context |
+| 789 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 789.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 789.` | SECOND-PASS Q2: running head: Kannada p. 789 has Va. 35 |
+| 789 | `(*Ṛ.* 7-[?]-[?] as read [?])` → `(*Ṛ.* 5-33-8)` | SECOND-PASS Q1: Kannada p. 789 has Ṛ. Saṃ. 5-33-8 |
+| 789 | `4-42-8 as read [?]; cited` → `4-42-8 as read; cited` | SECOND-PASS Q2: Kannada p. 789 has the same number |
