@@ -1,0 +1,179 @@
+# Vol 10: notes of tools/rv/kn_full.py
+
+Head anomalies (line, number read, number used, head):
+
+- (97, 30, 80, '30 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ[ ಮಂ. ೧. ಆ. ೧೮. ಸೂ. ೧೨೩.')
+
+Picture blocks (<figure>, OCR text of a picture) replaced by one `[figure: file]` line:
+
+- ('rig_10_1.html', 'fig_line00693.jpg')
+- ('rig_10_1.html', 'fig_line00877.jpg')
+- ('rig_10_1.html', 'fig_line00980.jpg')
+- ('rig_10_1.html', 'fig_line01370.jpg')
+- ('rig_10_1.html', 'fig_line01547.jpg')
+- ('rig_10_1.html', 'fig_line01705.jpg')
+- ('rig_10_1.html', 'fig_line01768.jpg')
+- ('rig_10_1.html', 'fig_line02976.jpg')
+- ('rig_10_1.html', 'fig_line04368.jpg')
+- ('rig_10_1.html', 'fig_line05334.jpg')
+
+Scan-page numbering (--scan-pages):
+
+
+
+Script notes:
+
+- p. 3: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಋಗ್ವೇದ ಮೊದಲನೆಯ ಅಷ್ಟಕವ…)
+- p. 4: garbled label "॥ ಪದಸಾಹೇ ।" -> ಪದಪಾಠಃ
+- p. 5: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 12: garbled label "॥ ಪ್ರತಿಪಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 15: garbled label "। ಸಂಹಿತಾಚಾರ್ಯ ।" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 21: garbled label "॥ ಪದಹಾರ ॥" -> ಪದಪಾಠಃ
+- p. 22: garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 32: garbled label "॥ ಶಾಯಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 35: garbled label "I ಸಂಹಿತಾಪಾಠ ।" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 35: garbled label "1 ಪದಪಾಠಿ 1" -> ಪದಪಾಠಃ
+- p. 35: picture line [figure: fig_line00980.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 36: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 38: garbled label "[ ಸಂಹಿತಾಪಾಠೆ ।" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 41: garbled label "೧ ಪದಪಾಠಿ ೧" -> ಪದಪಾಠಃ
+- p. 42: garbled label "॥ ಸಾಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 42: garbled label ".1 ಪ್ರತಿಪಾದ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 44: garbled label "॥ ಸಂಹಿತಾಸಾರಃ ॥’" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 49: garbled label "॥ ಪ್ರತಿಪವಾರ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 58: running head not recognised by the page splitter ("58 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ[ಮಂ ೧ ಅ. ೧೮. ಸೂ. ೧೨೨."): page marker inserted by script (add "### Printed p. 58" in en.md)
+- p. 57: garbled label "॥ ಪ್ರತಿದಾರ್ಥ “" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 62: garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 62: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 67: garbled label "॥ ಜಯಭಾಷ್ಪಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 67: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 73: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಕದಿತ್ಥಾ ಎಂದು ಪ್ರಾರಂಭವ…)
+- p. 73: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅವುಗಳಲ್ಲಿ ಪೃಥೂ ರಥಃ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 74: garbled label "2014- 2015-" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 79: garbled label "೧ ಸಂಹಿತಾಪಾರಂ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 79: garbled label "॥ ಸಾಯುಜಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 79: picture line [figure: fig_line01547.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 84: garbled label "॥ ಪವಕಾಣಿ ॥" -> ಪದಪಾಠಃ
+- p. 84: garbled label "॥ ಪ್ರತಿವದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 87: garbled label "॥ ಪವಸಾರ್ಕ ॥" -> ಪದಪಾಠಃ
+- p. 90: picture line [figure: fig_line01705.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 91: garbled label "॥ ಪ್ರತಿವದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 94: garbled label "॥ ಸ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 95: garbled label "॥ ಸಾಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 101: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 103: garbled label "ಃ ಸಂಹಿತಾಪಾಠಃ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 104: garbled label "॥ ಪದಹಾರ ॥" -> ಪದಪಾಠಃ
+- p. 109: garbled label "॥ ಸಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 113: garbled label "॥ ಪವಮಾನ ॥" -> ಪದಪಾಠಃ
+- p. 113: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 114: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 117: garbled label "॥ ಸೂರ್ಯಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 121: garbled label "॥ ಪದಶಾಖೆ ॥" -> ಪದಪಾಠಃ
+- p. 122: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 125: garbled label "॥ ಸಾಯುಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 125: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 129: garbled label "॥ ಪಹವಾಡೆ ॥" -> ಪದಪಾಠಃ
+- p. 130: garbled label "॥ ಪ್ರತಿಪಾದ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 136: garbled label ": ಹದಗೆಡಿದೆ ‘" -> ಪದಪಾಠಃ
+- p. 137: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 141: garbled label "॥ ಸಹಾಯಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 150: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 156: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 156: garbled label "English Translation-" -> English Translation.
+- p. 159: garbled label "॥ ಸಾರಸಂಗ್ರಹಸ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 165: garbled label "॥ ಸಾಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 165: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 169: garbled label "॥ ಪವಕಳ ॥" -> ಪದಪಾಠಃ
+- p. 170: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 173: garbled label "॥ ಪಹಳ ॥" -> ಪದಪಾಠಃ
+- p. 173: garbled label "॥ ಹಯಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 174: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 177: garbled label "‘ಸಂಹಿತಾ ‘" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 178: garbled label "॥ ಪ್ರತಿವಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 181: garbled label "“ಶರವಾಣಿ “" -> ಪದಪಾಠಃ
+- p. 182: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 184: picture line [figure: fig_line02976.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 188: garbled label "॥ ಪವಪಾಠಃ ॥" -> ಪದಪಾಠಃ
+- p. 189: garbled label "॥ ಸಾಮಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 190: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 195: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 195: garbled label "೧ ಜಯಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 196: garbled label "॥ ತ್ರಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 196: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 197: garbled label "॥ ಸ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 206: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 208: garbled label "೧ ಸಂಹಿತಾಪಾಠ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 209: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 211: garbled label "॥ ಸ್ವಾಕರ್ಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 212: garbled label "೩ ಪದಗಾರ್ತಿ ॥" -> ಪದಪಾಠಃ
+- p. 212: garbled label "॥ ಪ್ರತಿಪಾದ್ಯ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 213: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 215: garbled label "॥ ಪಪಹಾತ ॥" -> ಪದಪಾಠಃ
+- p. 216: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 221: garbled label "॥ ಚಪಟ ॥" -> ಪದಪಾಠಃ
+- p. 221: garbled label "“ಹರಿಹರಭಾಷ್ಯಂ “" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 221: garbled label "। ಪ್ರ.ತಿಹರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 221: garbled label "೧ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 225: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 227: Devanagari letters rewritten as Kannada in: ಶತಂ । ರಾಜ್ಞಃ । ನಾಧಮಾನಸ್ಯ । ನಿಷ್ಕಾನ್ । ಶತ
+- p. 227: garbled label "॥ ಶಾಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 227: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 230: garbled label "॥ ಪ್ರತಿಪಾದ್ಯ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 230: garbled label "‘ಭಾಷಾರ್ಥ!" -> ಭಾವಾರ್ಥ
+- p. 232: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 234: garbled label "# ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 237: garbled label "॥ ಕದಂಬ ॥" -> ಪದಪಾಠಃ
+- p. 237: garbled label "॥ ಹನುಮಧಾನ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 238: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 246: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 258: garbled label "೧ ಸಂಹಿತಾಪಾಠ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 258: garbled label "॥ ಪದಸಾಧನೆ ॥" -> ಪದಪಾಠಃ
+- p. 259: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 267: garbled label "॥ ಸಾಯಣಾಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 268: garbled label "॥ ಪ್ರ,ತಿಪವಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 268: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 272: garbled label "॥ ಸ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 274: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 275: garbled label "॥ ಪ್ರತಿವಾದ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 279: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 279: garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 280: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 285: garbled label "॥ ಕದಪಾಟ ॥" -> ಪದಪಾಠಃ
+- p. 285: garbled label "॥ ಶಾಯಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 286: garbled label "॥ ಪ್ರತಿವಾರ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 289: garbled label "॥ ಸ್ಯಾಕಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 295: garbled label "॥ ಸ್ನಾತನಪ್ರಕ್ರಿಯಾ ।" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 297: garbled label "॥ ಪವಪಾರ್ಕ ॥" -> ಪದಪಾಠಃ
+- p. 298: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 302: garbled label "॥ ಕದಂಬ ॥" -> ಪದಪಾಠಃ
+- p. 302: garbled label "‘ಶರಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 307: garbled label "॥ ಸಾಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 308: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 312: garbled label "† ಸಂಹಿತಾಪಾಠಃ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 312: garbled label "ಶ ದಪಾತುಃ ॥" -> ಪದಪಾಠಃ
+- p. 313: garbled label "॥ ಸಾಯುಧಭಾಷ್ಯಃ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 314: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 317: garbled label "॥ ಪವನಾಥ ॥" -> ಪದಪಾಠಃ
+- p. 318: garbled label "॥ ಪ್ರತಿಪಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 327: garbled label "೧ ಸಂಹಿತಾಶಾಖೆ ।" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 327: garbled label "ಹ ಪದಪಾರಃ ಹ" -> ಪದಪಾಠಃ
+- p. 327: garbled label "॥ ಸಾಯುಜಭಾಷ್ಯಂ." -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 334: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 338: garbled label "೧ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 340: garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 340: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 344: garbled label "೧ ಸಂಹಿತಾಪಾಠ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 345: garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 345: garbled label "ಃ ಪ್ರತಿಪಾರ್ಶ್ವ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 346: garbled label "೧ ಭಾನುವಾರ i" -> ಭಾವಾರ್ಥ
+- p. 350: garbled label "॥ ಹಡಪಾಠ ॥" -> ಪದಪಾಠಃ
+- p. 355: garbled label "೪ ಸಂಹಿತಾಗಳು ೪" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 358: garbled label "। ಸ್ವಾರಸ್ಯಪ್ರ.ಕ್ರಿಯಾ ।" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 360: garbled label "॥ ಸಾಯುಣಭಾಷ್ಯಂ ॥" -> ಪದಪಾಠಃ
+- p. 362: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 371: garbled label "೧ ಪದಪಾಠ ೧" -> ಪದಪಾಠಃ
+- p. 371: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 371: garbled label "೧ ಪ್ರತಿಪದಾರ್ಥ. 1" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 375: garbled label "೧ ವ್ಯಾಕರಣಕ್ರಿಯಾ ೧" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 376: garbled label "॥ ಪವನಾಥ ॥" -> ಪದಪಾಠಃ
+- p. 378: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
