@@ -17480,6 +17480,269 @@ In the house, protective and auspicious, that Aryaman, of perfect form, and Mitr
 ##### English translation
 Including our sons and grandsons in that preserving and auspicious felicity which Aditi, Mitra and Varuna confer upon the liberal donor (of the oblation), may we never, acting precipitately, incur the displeasure of the deities.
 
+### Printed p. 421
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ वेदिं॒ होत्रा॑भिर्यजेत॒ रिपः॒ काश्चि॑द्वरुण॒ध्रुतः॒ सः ।  
+> परि॒ द्वेषो॑भिरर्य॒मा वृ॑णक्तू॒रुं सु॒दासे॑ वृषणा उ लो॒कं
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । वेदिं । होत्राभिः । यजेत । रिपः । काः । चित् । वरुणध्रुतः । सः ।  
+> परि । द्वेषोभिः । अर्यमा । वृणक्तु । उरुं । सुदासे । वृषणा । ऊं इति । लोकं
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रादयः सोऽस्मद्द्वेषी वेदिं यागसाधनं होत्राभिः । वाङ्नामैतत् । वाग्रूपाभिः स्तुतिभिः सार्धमव यजेत । वेद्यां कर्माणि कुर्वन्देवान्स्तयादित्यर्थः । अवपूर्वो यजतिस्त्यागार्थः । स किं प्राप्नुयादिति तत्राह । वरुणधृतो वरुणेन क्रुद्धेन हिंसितः स काश्चिद्रिपो हिंसाः प्राप्नुयादिति शेषः । अस्मांस्त्वर्यमा देवो द्वेषोभिर्द्वेष्टृभी रक्षःप्रभृतिभिः परि वृणक्तु । वर्जयतु ।
+> उरुं विस्तीर्णं लोकं स्थानं सुदासे शोभनदानाय मह्यं प्रयच्छतं हे वृषणा वर्षकौ कामानां मित्रावरुणौ ॥
+
+##### Gist of the bhāṣya
+
+Addressing Mitra and the other deities: let that enemy of ours "sacrifice away" the altar, the means of the sacrifice, together with his होत्राभिः (*hotrābhiḥ*) (a name for speech), that is, with praises in the form of speech. The meaning is that, performing his rites at the altar, he gives up the gods. The verb यजति (*yajati*) with अव (*ava*) has the sense of giving up. What may he then obtain? Sāyaṇa answers: struck by an angry Varuna, may that enemy meet with some injuries. May Aryaman, the god, keep us away from those who hate us, the Rakṣases and the like. O showerers of desires, Mitra and Varuna, grant a wide region, a place, to me, the one who gives well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—our enemy
+- होत्राभिः (*hotrābhiḥ*)—with his (unrecited) praises
+- वेदिं (*vediṃ*)—the sacrificial altar
+- अव यजेत (*ava yajeta*)—let him lose
+- वरुणध्रुतः (*varuṇadhrutaḥ*)—he who is afflicted by Varuna
+- काश्चित् (*kāścit*)—some
+- रिपः (*ripaḥ*)—injuries, let him obtain
+- अर्यमा (*aryamā*)—the god Aryaman
+- द्वेषोभिः (*dveṣobhiḥ*)—from our enemies
+- परि वृणक्तु (*pari vṛṇaktu*)—let him separate us
+- वृषणा (*vṛṣaṇā*)—O Mitra and Varuna, showerers of desires
+- सुदासे (*sudāse*)—to me, the giver of oblations
+- उरुं (*uruṃ*)—wide
+- लोकं (*lokaṃ*)—a place; grant it
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and the other deities, let our enemy lose his sacrificial altar by not reciting praises. Afflicted by Varuna, may he also become the object of many injuries. May the god Aryaman separate us from our enemies. O Mitra and Varuna, showerers of desires, provide a wide place for me, the giver of oblations.
+
+### Printed p. 422
+
+##### English translation
+Let my adversary desecrate the altar by (ill-expressed) praises: repelled by Varuna, may he (undergo) various sufferings: may Aryaman defend us from those who hate us: confer, showerers (of benefits), a vast region upon the liberal donor (of oblations).
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒स्वश्चि॒द्धि समृ॑तिस्त्वे॒ष्ये॑षामपी॒च्ये॑न॒ सह॑सा॒ सहं॑ते ।  
+> यु॒ष्मद्भि॒या वृ॑षणो॒ रेज॑माना॒ दक्ष॑स्य चिन्महि॒ना मृ॒ळता॑ नः ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सस्वः । चित् । हि । संऋतिः । त्वेषी । एषां । अपीच्येन । सहसा । सहंते ।  
+> युष्मत् । भिया । वृषणः । रेजमानाः । दक्षस्य । चित् । महिना । मृळत । नः ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मित्रादीनां समृतिः संगतिः संहतिर्वा सस्वरंतर्हिता निगूढा त्वेषी
+> दीप्ता च भवति । तादृशा सती अपीच्येन । एतद्गुह्यांतर्हितनाम । निगूढेन सहसा बलेन सहंते । अभिभवंत्यस्मद्द्वेष्टॄन् । किं च हे वृषणोऽभिमतवर्षका मित्रादयः युष्मद्युष्मत्तो भिया भीत्या रेजमानाः कंपमाना भवंति विरोधिनः । यस्मादेवं तस्माद्दक्षस्य युष्माकं बलस्य महिना महिम्ना महत्त्वेन नोऽस्मभ्यं मृळत । उपदयां कुरुत ॥
+
+##### Gist of the bhāṣya
+
+The समृतिः (*samṛtiḥ*) of these, Mitra and the others, that is their union or combination, is सस्व (*sasva*) (hidden, concealed) and also lustrous. Being such, it overcomes our haters with अपीच्येन (*apīcyena*) (a name for "secret, hidden") power. Further: O Mitra and the others, showerers of what is desired, the opponents tremble with fear of you. Since this is so, show us mercy through the greatness of your युष्माकं बलस्य (*yuṣmākaṃ balasya*) strength (दक्ष (*dakṣa*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these three deities, Mitra and the others
+- समृतिः (*samṛtiḥ*)—companionship
+- सस्वः (*sasvaḥ*)—inexpressible
+- त्वेषी (*tveṣī*)—is radiant
+- अपीच्येन (*apīcyena*)—secret
+- सहसा (*sahasā*)—with strength
+- सहंते (*sahaṃte*)—they defeat our enemies
+- वृषणः (*vṛṣaṇaḥ*)—O Mitra and the others, showerers of desires
+- युष्मत् (*yuṣmat*)—of you
+- भिया (*bhiyā*)—through fear
+- रेजमानाः (*rejamānāḥ*)—our enemies tremble
+- दक्षस्य (*dakṣasya*)—of your power
+- महिना (*mahinā*)—through the greatness
+- नः (*naḥ*)—to us
+- मृळत (*mṛḷata*)—bring happiness
+
+##### भावार्थ (Bhāvārtha)
+
+The companionship of the three deities, Mitra and the others, is inexpressibly radiant. By their secret power they defeat all our enemies. O Mitra and the others, showerers of desires, our enemies tremble through fear of you. Through the greatness of your power, bring us happiness.
+
+### Printed p. 423
+
+##### English translation
+The association of these (three deities) is of mysterious lustre: by their secret strength they overcome (all enemies): showerers (of benefits), through fear (of you our opponents) are trembling: have mercy upon us in the mightiness of your strength.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो ब्रह्म॑णे सुम॒तिमा॒यजा॑ते॒ वाज॑स्य सा॒तौ प॑र॒मस्य॑ रा॒यः ।  
+> सीक्षं॑त म॒न्युं म॒घवा॑नो अ॒र्य उ॒रु क्षया॑य चक्रिरे सु॒धातु॑ ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ब्रह्मणे । सुमतिं । आयजाते । वाजस्य । सातौ । परमस्य । रायः ।  
+> सीक्षंत । मन्युं । मघवानः । अर्यः । उरु । क्षयाय । चक्रिरे । सुधातु ॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानो ब्रह्मणे परिवृढस्वकर्मणे युष्मत्स्तोत्ररूपाय सुमतिं शोभनां बुद्धिमायजाते आयजते । यजतिरत्र दाने । ददाति करोति । किमर्थं । वाजस्यान्नस्य सातौ दाने निमित्ते परमस्योत्कृष्टस्य रायो धनस्य च सातौ ।
+> तस्यार्थः । ईरयति स्तुतीः प्रेरयतीत्यरिः स्तोता । मन्युं स्तोत्रं मघवानो
+> दानवंतोऽर्यमादयः सीक्षंत । सचंते । सेवित्वा च तस्मै उरुक्षयाय विस्तीर्णनिवासाय सुधातु सुधाम शोभनस्थानं चक्रिरे । कुर्वते ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who offers a good mind, सुमतिं (*sumatiṃ*), to ब्रह्मणे (*brahmaṇe*), that is to the praise-making of the Parivṛḍha (your hymn-form), for the sake of वाजस्य (*vājasya*) food, to obtain it by gift, and of supreme wealth: here यजति (*yajati*) is in the sense of giving; he gives, he makes. The *ariḥ* is the praiser, one who sends forth praises. The munificent ones, Aryaman and the rest, together enjoy his मन्युं (*manyuṃ*), his hymn; having enjoyed it, they make for him a wide dwelling, a सुधातु (*sudhātu*), a good place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजस्य (*vājasya*)—of food
+- सातौ (*sātau*)—for the gaining
+- परमस्य (*paramasya*)—of excellent
+- रायः (*rāyaḥ*)—wealth, for the sake of
+- यः (*yaḥ*)—the sacrificer who
+- ब्रह्मणे (*brahmaṇe*)—for the praise addressed to Mitra and the others
+- सुमतिं (*sumatiṃ*)—his excellent mind
+- आ यजाते (*ā yajāte*)—offers
+- अर्यः (*aryaḥ*)—of such a praiser
+- मन्युं (*manyuṃ*)—the hymn
+- मघवानः (*maghavānaḥ*)—Aryaman and the others, the wealthy
+- सीक्षंत (*sīkṣaṃta*)—enjoy together
+- उरु क्षयाय (*uru kṣayāya*)—for him to dwell, wide
+- सुधातु (*sudhātu*)—an excellent place
+- चक्रिरे (*cakrire*)—they make
+
+### Printed p. 424
+
+##### भावार्थ (Bhāvārtha)
+
+The wealthy Aryaman and the others together enjoy the hymn of the praiser who, for the gaining of food and for excellent wealth, offers his excellent mind for the making of praise addressed to Aryaman and the others. They make for him an excellent place in which to dwell widely.
+
+##### English translation
+These munificent (deities) conjointly accept the praise of the worshipper, and bestow a spacious mansion for a dwelling upon him who, for the sake of food and excellent riches, devotes his mind to your glorification.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं दे॑व पु॒रोहि॑तिर्यु॒वभ्यां॑ य॒ज्ञेषु॑ मित्रावरुणावकारि ।  
+> विश्वा॑नि दु॒र्गा पि॑पृतं ति॒रो नो॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । देवा । पुरोहितिः । युवभ्यां । यज्ञेषु । मित्रावरुणौ । अकारि ।  
+> विश्वानि । दुर्गा । पिपृतं । तिरः । नः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरति । हे देवा देवौ मित्रावरुणौ युवभ्यां युवाभ्यां यज्ञेष्वियं पुरोहितिः पुरस्क्रिया पूजा स्तुतिलक्षणाकारि । कृताभूत् ।
+> तां सेवित्वा विश्वानि सर्वाणि दुर्गा दुःखेन गंतव्यान्यापदस्तिरः । तिरस्कुरुतं । तथा
+> कृत्वा नोऽस्मान् पिपृतं पारयतं । शिष्टो गतः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he concludes the praise. O divine Mitra and Varuna, this पुरोहितिः (*purohitiḥ*), a fore-placing, a worship in the form of praise, has been made for you two at the sacrifices. Having enjoyed it, put aside तिरः (*tiraḥ*) all difficulties, दुर्गा (*durgā*), the calamities hard to pass through; having done so, carry us across.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—O Mitra and Varuna, the foremost of the deities
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuna
+- युवभ्यां (*yuvabhyāṃ*)—addressed to you
+- इयं पुरोहितिः (*iyaṃ purohitiḥ*)—this worship in the form of praise, offered before you
+- यज्ञेषु (*yajñeṣu*)—at the sacrifices
+- अकारि (*akāri*)—has been procured (enjoying it)
+- विश्वानि (*viśvāni*)—all
+- दुर्गा (*durgā*)—calamities
+
+### Printed p. 425
+- तिरः (*tiraḥ*)—destroy
+- नः (*naḥ*)—us
+- पिपृतं (*pipṛtaṃ*)—carry across from hardship
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuna, foremost of the deities, this worship in the form of praise, offered before you and addressed to you, has been procured at the sacrifices. Enjoying it, destroy all calamities. Carry us across hardship. Protect us always with blessings.
+
+##### English translation
+Excellent Mitra and Varuna, to you this adoration at sacrifices is addressed: remove from us all difficulties, and ever cherish us with blessings
+## Sūkta 61 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उद्वां चक्षुरिति सप्तर्चं षष्ठं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं मैत्रावरुणं ।
+> उद्वां सप्तेत्यनुक्रमणिका । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, उद्वां चक्षुः (*udvāṃ cakṣuḥ*), of seven Ṛks, has Vasiṣṭha as seer, Mitra and Varuna as deity, and Triṣṭubh as metre. The Anukramaṇikā says उद्वां सप्त (*udvāṃ sapta*). The use in ritual is लैंगिकः (*laiṃgikaḥ*), by the indication of the text itself.
+
+##### Anuvāda
+
+This sūkta, उद्वां चक्षुः (*udvāṃ cakṣuḥ*), is the sixth sūkta in the fourth anuvāka. It has seven Ṛks. Vasiṣṭha is its seer; Mitra and Varuna are the deity; Triṣṭubh is the metre. The Anukramaṇikā says उद्वां सप्त (*udvāṃ sapta*). The use in ritual is Laiṅgika.
+
+Sūkta 61. Maṇḍala 7. Anuvāka 4. Aṣṭaka 5. Adhyāya 5. Varga 3. Number of Ṛks in the sūkta: 7. Seer: Vasiṣṭha. Deity: Mitra and Varuna. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्वां॒ चक्षु॑र्वरुण सु॒प्रती॑कं दे॒वयो॑रेति॒ सूर्य॑स्तत॒न्वान् ।  
+> अ॒भि यो विश्वा॒ भुव॑नानि॒ चष्टे॒ स म॒न्युं मर्त्ये॒ष्वा चि॑केत ॥  
+> ५४
+
+### Printed p. 426
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । वां । चक्षुः । वरुणा । सु-प्रतीकं । देवयोः । एति । सूर्यः । ततन्वान् ।  
+> अभि । यः । विश्वा । भुवनानि । चष्टे । सः । मन्युं । मर्त्येषु । आ । चिकेत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुणा मित्रावरुणौ देवयोर्द्योतमानयोर्वां युवयोश्चक्षुः
+> प्रकाशकं तेजः सुप्रतीकं शोभनरूपमेवं रूपः सूर्यस्ततन्वान्तेजो विस्तारयन्नुदेति । उद्गच्छति । अथोदितो यो देवो विश्वा सर्वाणि भुवनानि भूतजातान्यभि चष्टे अभिपश्यति स देवो मर्त्येषु प्रवृत्तं मन्युं स्तोत्रं कर्म वा
+> चिकेत । आजानाति ॥
+
+##### Gist of the bhāṣya
+
+O Varuna, that is, Mitra and Varuna: of you two, the shining divinities, the चक्षुः (*cakṣuḥ*), the illuminating radiance, of beautiful form (सुप्रतीकं (*supratīkaṃ*)), such is Sūrya, who rises spreading his radiance. The god thus risen, who looks upon विश्वा (*viśvā*) all beings, भुवनानि (*bhuvanāni*), that god चिकेत (*ciketa*) perceives the मन्युं (*manyuṃ*), the hymn or the rite, current among mortals.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणा (*varuṇā*)—O Mitra and Varuna
+- देवयोः (*devayoḥ*)—of the shining ones
+- वां (*vāṃ*)—of you
+- चक्षुः (*cakṣuḥ*)—the one of radiant form
+- सुप्रतीकं (*supratīkaṃ*)—and of attractive form
+- सूर्यः (*sūryaḥ*)—Sūrya
+- ततन्वान् (*tatanvān*)—rises, spreading his radiance
+- यः (*yaḥ*)—the Sūrya god who
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- अभि चष्टे (*abhi caṣṭe*)—beholds directly
+- सः (*saḥ*)—that same god
+- मर्त्येषु (*martyeṣu*)—among men
+- मन्युं (*manyuṃ*)—the hymn that is current
+- आ चिकेत (*ā ciketa*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuna, Sūrya, the radiant and attractive form of you who are divine, rises spreading his radiance. The god Sūrya who beholds directly all beings knows the praise current among men.
+
+##### English translation
+Spreading around the beautiful light, Mitra and Varuna, of you two divinities, Surya rises: he who beholds all existing beings apprehends the acts of mortals.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वां॒ स मि॑त्रावरुणावृ॒तावा॒ विप्रो॒ मन्मा॑नि दीर्घ॒श्रुदि॑यर्ति ।
+
 ---
 
-**Progress note:** Done through printed p. 420. pp. 415-420 (batch API)
+**Progress note:** Done through printed p. 426. pp. 421-426 (batch API)
