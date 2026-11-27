@@ -2088,3 +2088,132 @@
 | 713 | `(*Ṛ.* 10-[?]-1 as read [?])` → `(*Ṛ.* 10-32-1)` | SECOND-PASS Q1: Kannada p. 713 reads (ಋ. ಸಂ. ೧೦-೩೨-೧) |
 | 713 | `(*Ṛ.* 9-71-4 as read [?])` → `(*Ṛ.* 9-78-3)` | SECOND-PASS Q1: Kannada p. 713 reads (ಋ. ಸಂ. ೯-೭೮-೩) for samudriyā apsaraso |
 | 713 | `(*Ṛ.* 8-[?]-[?] as read [?])` → `(*Ṛ.* 8-24-26)` | SECOND-PASS Q1: Kannada p. 713 reads (ಋ. ಸಂ. ೮-೨೪-೨೬) for tam u tvā nūnam |
+
+### 2026-11-27 second pass, batch m342-491.tsv
+| page | old → new | why |
+|---|---|---|
+| 713 | `pp. 713–714, noted briefly; sūtra numbers only as read, doubtful [?]` → `pp. 713–714, noted briefly; sūtra numbers only as read, doubtful` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 713 | `9-[?]-[?] as read [?]` → `9-71-4` | SECOND-PASS Q1: Kannada p. 713 reads (ಋಂ. ಸಂ. ೯-೭೧-೪) |
+| 713 | ` ca* (*pā.* 3-3-97 as read [?])` → ` ca* (*pā.* 3-3-97)` | SECOND-PASS Q2: Kannada p. 713 has the same number |
+| 713 | `ḥ*: by *āmantritasya ca* (*pā.* 8-1-19 as read [?])` → `ḥ*: by *āmantritasya ca* (*pā.* 8-1-19)` | SECOND-PASS Q2: Kannada p. 713 has the same number |
+| 713 | `(*pā.* 3-2-75 as read [?])` → `(*pā.* 3-2-75)` | SECOND-PASS Q2: Kannada p. 713 has the same number |
+| 713 | `y *arvaṇas trasāvanañaḥ* (*pā.* 6-4-127 as read [?])` → `y *arvaṇas trasāvanañaḥ* (*pā.* 6-4-127)` | SECOND-PASS Q2: Kannada p. 713 has the same number |
+| 714 | `(*pā.* 3-4-102 as read [?])` → `(*pā.* 3-4-102)` | SECOND-PASS Q2: Kannada p. 714 has the same number |
+| 714 | `(*pā.* 3-4-107 as read [?])` → `(*pā.* 3-4-107)` | SECOND-PASS Q2: Kannada p. 714 has the same number |
+| 714 | `(*pā.* 7-2-79 as read [?])` → `(*pā.* 7-2-79)` | SECOND-PASS Q2: Kannada p. 714 has the same number |
+| 714 | `(*pā.* 8-2-31 as read [?])` → `(*pā.* 8-2-31)` | SECOND-PASS Q2: Kannada p. 714 has the same number |
+| 714 | `(*pā.* 8-2-41 as read [?])` → `(*pā.* 8-2-41)` | SECOND-PASS Q2: Kannada p. 714 has the same number |
+| 714 | `*, by *ādeśapratyayayoḥ* (*pā.* 8-3-59 as read [?])` → `*, by *ādeśapratyayayoḥ* (*pā.* 8-3-59)` | SECOND-PASS Q2: Kannada p. 714 has the same number |
+| 715 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 715.` → `Va. 32"; centre "Ṛgvedasaṃhitā"; right 715.` | SECOND-PASS Q1: Kannada p. 715 running head reads ವ. ೩೨ (Va. 32) |
+| 715 | `clotted [?]):*` → `clotted):*` | SECOND-PASS Q2: doubt note only; Kannada p. 715 has the compressed grammar |
+| 715 | `after *uru* [as read [?]], by an Uṇādi rule (*Uṇ.* 1-38 as read [?])` → `after *uru*, by an Uṇādi rule (*Uṇ.* 1-38)` | SECOND-PASS Q2: Kannada p. 715 reads ಉರುಪೂರ್ವಾದ್ಘಾತೇ … ಉ. ೧.೩೮ |
+| 715 | `substituted [?].` → `substituted.` | SECOND-PASS Q2: Kannada p. 715 reads ಪೂರ್ವಪದಸ್ಯ ಋಭಾವಶ್ಚ |
+| 715 | `*sthāgāpāpaco bhāve* (*pā.* 3-3-95 as read [?]) the suffix` → `*sthāgāpāpaco bhāve* the suffix` | SECOND-PASS S3: Kannada p. 715 has no number after sthāgāpāpaco bhāve |
+| 715 | `*ghumāsthā…* (*pā.* 6-4-66 as read [?]) the *ī*` → `*ghumāsthā…* the *ī*` | SECOND-PASS S3: Kannada p. 715 has no number after ghumāstheti |
+| 715 | `*tumarthe sesenasen…* (*pā.* 3-4-9 as read [?]).` → `*tumarthe sesenasen…*.` | SECOND-PASS S3: Kannada p. 715 has no number after tumarthe sesenasen |
+| 715 | `one' (*Ni.* 11-16 as read [?])` → `one' (*Ni.* 11-16)` | SECOND-PASS Q2: Kannada p. 715 has the same number |
+| 716 | `(*Ni.* 3-135 as read [?])` → `(*Ni.* 3-13)` | SECOND-PASS Q1: Kannada p. 716 reads (ನಿ. ೩-೧೩) |
+| 716 | `893-34 as read [?]` → `8-93-34` | SECOND-PASS Q1: Kannada p. 716 reads (ಋ. ಸಂ. ೮-೯೩-೩೪) |
+| 716 | `8-[?]-[?] as read [?]` → `8-7-12` | SECOND-PASS Q1: Kannada p. 716 reads (ಋ. ಸಂ. ೮-೭-೧೨) |
+| 716 | `1-[?]-1 as read [?]` → `1-162-1` | SECOND-PASS Q1: Kannada p. 716 reads (ಋ. ಸಂ. ೧-೧೬೨-೧) |
+| 716 | `(*Ṛ.* 1-63-3 as read [?])` → `(*Ṛ.* 1-63-3)` | SECOND-PASS Q2: Kannada p. 716 has the same number |
+| 717 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 717.` → `Va. 32"; centre "Ṛgvedasaṃhitā"; right 717.` | SECOND-PASS Q1: Kannada p. 717 running head reads ವ. ೩೨ (Va. 32) |
+| 717 | `pp. 717–718, noted briefly; sūtra numbers only as read, doubtful [?]` → `pp. 717–718, noted briefly; sūtra numbers only as read, doubtful` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 717 | `(*Uṇ.* 1-[?]2, as read [?])` → `(*Uṇ.* 1-37)` | SECOND-PASS Q1: Kannada p. 717 reads (ಉ. ಸೂ. ೧-೩೭) |
+| 717 | `the suffix *ini* [?] prescribed by an Uṇādi rule (*Uṇ.* 4-[?]7 as read [?])` → `the suffix *ini* prescribed by an Uṇādi rule (*Uṇ.* 4-452)` | SECOND-PASS Q1: Kannada p. 717 reads ಇನಿಪ್ರತ್ಯಯ … (ಉ. ಸೂ. ೪-೪೫೨) |
+| 717 | `*sarvanāmasthāna* [?] the *i* becomes *a* [?];` → `*sarvanāmasthāna* the *i* becomes *a*;` | SECOND-PASS Q2: Kannada p. 717 reads ಇತೋತ್ ಸರ್ವನಾಮಸ್ಥಾನೇ … ಇಕಾರಕ್ಕೆ ಅತ್ವ |
+| 717 | `Or, from a root *ṛbhu* [?] meaning 'to go',` → `Or, from the root *ṛ gatau* ('to go'),` | SECOND-PASS Q1: Kannada p. 717 reads ಋಗತೌ ಧಾತು (root ṛ gatau); IAST by sp_sanskrit.py |
+| 717 | `*ṭita ātmanepadānāṃ ṭer e* (*pā.* 3-4-79 as read [?]) *e*` → `*ṭita ātmanepadānāṃ ṭer e* *e*` | SECOND-PASS S3: Kannada p. 717 has no number after ṭita ātmanepadānām |
+| 717 | `ena* (*Ni.* 11-16 as read [?])` → `ena* (*Ni.* 11-16)` | SECOND-PASS Q2: Kannada p. 717 has the same number |
+| 717 | `(*pā.* 6-4-9 as read [?])` → `(*pā.* 6-4-9)` | SECOND-PASS Q2: Kannada p. 717 has the same number |
+| 717 | `: by *ūtiyūtijūti…* (*pā.* 3-3-97 as read [?])` → `: by *ūtiyūtijūti…* (*pā.* 3-3-97)` | SECOND-PASS Q2: Kannada p. 717 has the same number |
+| 718 | `(pā. sū. 6-4-66 as read [?])` → `(pā. sū. 6-4-66)` | SECOND-PASS Q2: Kannada p. 718 has (ಪಾ. ಸೂ. ೬-೪-೬೬) |
+| 718 | `[*kse* as printed [?]]` → `[*kse* as printed]` | SECOND-PASS Q2: Kannada p. 718 reads ಕ್ಸೇ ಪ್ರತ್ಯಯ |
+| 718 | `ā* by *supāṃ suluk* (*pā.* 7-1-39 as read [?])` → `ā* by *supāṃ suluk* (*pā.* 7-1-39)` | SECOND-PASS Q2: Kannada p. 718 has the same number |
+| 718 | `r the *i* by *eruḥ* (*pā.* 3-4-86 as read [?])` → `r the *i* by *eruḥ* (*pā.* 3-4-86)` | SECOND-PASS Q2: Kannada p. 718 has the same number |
+| 718 | `(*pā.* 3-1-73 as read [?])` → `(*pā.* 3-1-73)` | SECOND-PASS Q2: Kannada p. 718 has the same number |
+| 718 | `(*pā.* 6-4-87 as read [?])` → `(*pā.* 6-4-87)` | SECOND-PASS Q2: Kannada p. 718 has the same number |
+| 718 | `by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?])` → `by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168)` | SECOND-PASS Q2: Kannada p. 718 has the same number |
+| 718 | ` by *tumarthe sesenase…* (*pā.* 3-4-9 as read [?])` → ` by *tumarthe sesenase…* (*pā.* 3-4-9)` | SECOND-PASS Q2: Kannada p. 718 has the same number |
+| 719 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 719.` → `Va. 32"; centre "Ṛgvedasaṃhitā"; right 719.` | SECOND-PASS Q1: Kannada p. 719 running head reads ವ. ೩೨ (Va. 32) |
+| 719 | `*ādeca* [?];` → `*ādeca*;` | SECOND-PASS Q2: Kannada p. 719 reads ಆದೇಚ ಇತ್ಯಾತ್ವಂ |
+| 719 | `[courage] [?];` → `[courage];` | SECOND-PASS Q2: Kannada p. 719 reads (ಹುರುಪನ್ನು ಹುಟ್ಟಿಸುವಂತೆ) ದಾನಮಾಡಲಿ |
+| 720 | `noted briefly; sūtra numbers only as read, doubtful [?]` → `noted briefly; sūtra numbers only as read, doubtful` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 720 | `7-[?]-6 as read [?]` → `7-70-6` | SECOND-PASS Q1: Kannada p. 720 reads (ಋ. ಸಂ. ೭-೭೦-೬) |
+| 720 | `0-84-1 as read [?]` → `10-84-1` | SECOND-PASS Q1: Kannada p. 720 reads (ಋ. ಸಂ. ೧೦-೮೪-೧) |
+| 720 | `(*Ni.* 3-9 as read [?])` → `(*Ni.* 3-9)` | SECOND-PASS Q2: Kannada p. 720 has the same number |
+| 721 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 721.` → `Va. 33"; centre "Ṛgvedasaṃhitā"; right 721.` | SECOND-PASS Q2: Kannada p. 721 running head reads ವ. ೩೩ (Va. 33) |
+| 721 | `sūtra numbers only as read, doubtful [?].)*` → `sūtra numbers only as read, doubtful.)*` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 721 | `by *eruḥ* (*pā.* 3-4-86 as read [?]); by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *śl` → `by *eruḥ*; by *bahulaṃ chandasi* *ślu*` | SECOND-PASS S3: Kannada p. 721 has no numbers after ಏರುಃ and ಬಹುಲಂ ಛಂದಸಿ |
+| 721 | `(*pā.* 61-45 as read [?])` → `(*pā.* 6-1-45)` | SECOND-PASS Q1: Kannada p. 721 reads (ಪಾ. ಸೂ. ೬-೧-೪೫) |
+| 721 | `by *ślau* (*pā.* 6-1-10 as read [?]);` → `by *ślau*;` | SECOND-PASS S3: Kannada p. 721 has no number after ಶ್ಲೌ |
+| 721 | `(*pā.* 7-4-68 as read [?])` → `(*pā.* 7-4-78)` | SECOND-PASS Q1: Kannada p. 721 reads (ಪಾ. ಸೂ. ೭-೪-೭೮) |
+| 721 | `in place of *ti* [?]; by *sibbahulaṃ leṭi* (*pā.* 3-1-34 as read [?])` → `in place of *ti*; by *sibbahulaṃ leṭi* (*pā.* 3-1-34)` | SECOND-PASS Q2: Kannada p. 721 reads ತಿಗೆ ತು ಆದೇಶ and ಸಿಬ್ಬಹುಲಂ ಲೇಟಿ—(ಪಾ. ಸೂ. ೩-೧-೩೪) |
+| 721 | `five more than twenty [?];` → `five more than twenty;` | SECOND-PASS Q2: Kannada p. 721 reads ಈಳೇ ಪಂಚಾಧಿಕಾ… |
+| 721 | `(*pā.* 7-4-59 as read [?])` → `(*pā.* 7-4-59)` | SECOND-PASS Q2: Kannada p. 721 has the same number |
+| 721 | `ffix *kvip* by *kvip ca* (*pā.* 3-2-76 as read [?])` → `ffix *kvip* by *kvip ca* (*pā.* 3-2-76)` | SECOND-PASS Q2: Kannada p. 721 has the same number |
+| 721 | `(*pā.* 6-1-71 as read [?])` → `(*pā.* 6-1-71)` | SECOND-PASS Q2: Kannada p. 721 has the same number |
+| 721 | ` *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?])` → ` *gatikārakopapadāt kṛt* (*pā.* 6-2-139)` | SECOND-PASS Q2: Kannada p. 721 has the same number |
+| 722 | `triṣṭubhāv iti*' [as read [?]]` → `triṣṭubhāv iti*'` | SECOND-PASS Q2: Kannada p. 721–722 has the Anukramaṇī words ಈಳೇ ಪಂಚಾಧಿಕಾಶ್ವಿನಮಾದ್ಯೌ … ತ್ರಿಷ್ಟುಭಾವಿತಿ |
+| 722 | `(*Āśv.* 4-6 [?])` → `(*Āśv.* 4-6)` | SECOND-PASS Q2: Kannada p. 722 has (ಆ. ೪-೬) |
+| 722 | `(*Āśv.* 4-13 [?])` → `(*Āśv.* 4-15)` | SECOND-PASS Q1: Kannada p. 722 reads (ಆ. ೪-೧೫) |
+| 722 | `(*Āśv.* 6-5 [?])` → `(*Āśv.* 6-5)` | SECOND-PASS Q2: Kannada p. 722 has (ಆ. ೬-೫) |
+| 722 | `Varga 33, 34, 35, 36, 37 [?]` → `Varga 33, 34, 35, 36, 37` | SECOND-PASS Q2: Kannada p. 722 heading reads ವರ್ಗ—೩೩, ೩೪, ೩೫, ೩೬, ೩೭ |
+| 722 | `partly doubtful [?].)*` → `partly doubtful.)*` | SECOND-PASS Q2: doubt mark on the heading remark; Kannada heading agrees with the numerals |
+| 723 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 723.` → `Va. 33"; centre "Ṛgvedasaṃhitā"; right 723.` | SECOND-PASS Q2: Kannada p. 723 running head reads ವ. ೩೩ (Va. 33) |
+| 723 | `[— for they are near at hand? [?]]` → `[— for they are near at hand]` | SECOND-PASS Q2: Kannada p. 723 reads ತೇ ಹ್ಯಶ್ವಿನ್ ಪ್ರತ್ಯಾಸನ್ನೇ |
+| 723 | `(*Ni.* 12-1 [?])` → `(*Ni.* 12-1)` | SECOND-PASS Q2: Kannada p. 723 has ನಿ. ೧೨-೧ |
+| 723 | `*akṣādi* [?])` → `*akṣādi*)` | SECOND-PASS Q2: Kannada p. 724 reads ಈಷಾಅಕ್ಷಾದಿತ್ವಾತ್ |
+| 725 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 725.` → `Va. 33"; centre "Ṛgvedasaṃhitā"; right 725.` | SECOND-PASS Q2: Kannada p. 725 running head reads ವ. ೩೩ (Va. 33) |
+| 725 | `('Heaven and Earth, say some' [?], *Ni.* 12-1 as read [?])` → `('Heaven and Earth, say some', *Ni.* 12-1)` | SECOND-PASS Q2: Kannada p. 725 has (ನಿ. ೧೨-೧) |
+| 725 | `(*Śa. Brā.* 1-5-16 as read [?])` → `(*Śa. Brā.* 4-1-5-16)` | SECOND-PASS Q1: Kannada p. 725 reads (ಶ. ಬ್ರಾ. ೪-೧-೫-೧೬) |
+| 725 | `(*Ni.* 12-1 as read [?])` → `(*Ni.* 12-1)` | SECOND-PASS Q2: Kannada p. 725 has the same number |
+| 726 | `1-116-[?]7 as read [?]` → `1-116-13` | SECOND-PASS Q1: Kannada p. 726 reads (ಋ. ಸಂ. ೧-೧೧೬-೧೩) |
+| 726 | `1-33-2-[?] as read [?]` → `1-33-2` | SECOND-PASS Q1: Kannada p. 726 reads (ಋ. ಸಂ. ೧-೩೩-೨) |
+| 726 | `1-[?]-[?] as read [?]` → `1-180-8` | SECOND-PASS Q1: Kannada p. 726 reads (ಋ. ಸಂ. ೧-೧೮೦ ೮) |
+| 727 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 727.` → `Va. 33"; centre "Ṛgvedasaṃhitā"; right 727.` | SECOND-PASS Q2: Kannada p. 727 running head reads ವ. ೩೩ (Va. 33) |
+| 727 | `1-[?]-[?] as read [?]` → `1-131-2` | SECOND-PASS Q1: Kannada p. 727 reads (ಋ. ಸಂ. ೧-೧೩೧-೨) |
+| 727 | `(*Ni.* 2-[?]9 as read [?])` → `(*Ni.* 3-9)` | SECOND-PASS Q1: Kannada p. 727 reads (ನಿ. ೩-೯) |
+| 727 | `(*Ni.* 6-[?]2 as read [?])` → `(*Ni.* 6-22)` | SECOND-PASS Q1: Kannada p. 727 reads (ನಿ. ೬-೨೨) |
+| 727 | `(*Ni.* 2-2 as read [?])` → `(*Ni.* 2-20)` | SECOND-PASS Q1: Kannada p. 727 reads (ನಿ. ೨-೨೦) |
+| 727 | `(*Ṛ.* 4-1-14 as read [?])` → `(*Ṛ.* 4-1-14)` | SECOND-PASS Q2: Kannada p. 727 has the same number |
+| 727 | `(*Ṛ.* 1-164-51 as read [?])` → `(*Ṛ.* 1-164-51)` | SECOND-PASS Q2: Kannada p. 727 has the same number |
+| 727 | `(*Ni.* 3-19 as read [?])` → `(*Ni.* 3-19)` | SECOND-PASS Q2: Kannada p. 727 has the same number |
+| 728 | `pp. 728–729, noted briefly; sūtra numbers only as read, doubtful [?]` → `pp. 728–729, noted briefly; sūtra numbers only as read, doubtful` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 728 | `(*pā.* 61-186 as read [?])` → `(*pā.* 6-1-86)` | SECOND-PASS Q1: Kannada p. 728 reads (ಪಾ ಸೂ. ೬-೧-೮೬) |
+| 728 | `*paryudāsa* of *pṛthivī* [?],` → `*paryudāsa* of *pṛthivī*,` | SECOND-PASS Q2: Kannada p. 728 reads ಅಪೃಥಿವೀ ಎಂದು ಪರ್ಯುದಾಸ |
+| 728 | `sūtra-name is clotted [?]]` → `sūtra-name is clotted]` | SECOND-PASS Q2: Kannada p. 728 also has the sūtra name clotted (ನೋದಾತ್ತ—ಸೂತ್ರ) |
+| 728 | `by *vā chandasi* (*pā.* 6-1-106 as read [?]) the lengthening` → `by *vā chandasi* the lengthening` | SECOND-PASS S3: Kannada p. 728 has no number after ನಾ ಛಂದಸಿ |
+| 728 | `[the listing beginning *marud…* [?], *pā.* 6-2-105 as read [?]]` → `[the listing beginning *marud…*, *pā.* 6-2-103-2]` | SECOND-PASS Q1: Kannada p. 728 reads ಮರುದ್ವಧಾನೀಂ ಛಂದಸ್ಯುಪಸಂಖ್ಯಾನಮ್ (ಪಾ. ಸೂ. ೬-೨-೧೦೩-೨) |
+| 728 | `(a *vārttika*; *pā.* 3-3-108 as read [?])` → `(a *vārttika*; *nā.* 2-233)` | SECOND-PASS Q1: Kannada p. 728 reads ಸಂಪದಾದಿಭ್ಯಃ ಕ್ವಿಪ್ (ನಾ. ೨-೨೩೩) |
+| 728 | `(*pā.* 2-172 as read [?])` → `(*pā.* 6-2-172)` | SECOND-PASS Q1: Kannada p. 728 reads (ಪಾ. ಸೂ. ೬-೨-೧೭೨) |
+| 728 | `by *aco 'ñṇiti* (*pā.* 7-2-115 as read [?]);` → `by *aco 'ñṇiti*;` | SECOND-PASS S3: Kannada p. 728 has no number after ಅಚೋಞ್ಛತಿ |
+| 728 | `by *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment` → `by *idito num dhātoḥ* the augment` | SECOND-PASS S3: Kannada p. 728 has no number after ಇದಿತೋ ನುಮ್ ಧಾತೋಃ |
+| 728 | `ita ātmanepadānāṃ ṭer e* (*pā.* 3-4-79 as read [?])` → `ita ātmanepadānāṃ ṭer e* (*pā.* 3-4-79)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `(*pā.* 2-4-72 as read [?])` → `(*pā.* 2-4-72)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `(*pā.* 6-3-29 as read [?])` → `(*pā.* 6-3-29)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `(*pā.* 6-2-141 as read [?])` → `(*pā.* 6-2-141)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `ded; *striyāṃ ktin* (*pā.* 3-3-94 as read [?])` → `ded; *striyāṃ ktin* (*pā.* 3-3-94)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `(*pā.* 3-2-74 as read [?])` → `(*pā.* 3-2-74)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `(*pā.* 3-3-113 as read [?])` → `(*pā.* 3-3-113)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 728 | `(*pā.* 6-1-159 as read [?])` → `(*pā.* 6-1-159)` | SECOND-PASS Q2: Kannada p. 728 has the same number |
+| 729 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 729.` → `Va. 33"; centre "Ṛgvedasaṃhitā"; right 729.` | SECOND-PASS Q2: Kannada p. 729 running head reads ವ. ೩೩ (Va. 33) |
+| 729 | `sūtra numbers only as read, doubtful [?].)*` → `sūtra numbers only as read, doubtful.)*` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 729 | `[*pā.* 8-1-66 as read [?]]` → `[*pā.* 8-1-66]` | SECOND-PASS Q2: Kannada p. 729 has (ಪಾ. ಸೂ. ೮-೧-೬೬) |
+| 729 | `(*pā.* 3-3-97 as read [?]) the irregular` → `(*pā.* 3-3-37) the irregular` | SECOND-PASS Q1: Kannada p. 729 reads ಊತಿಯೂತಿ—(ಪಾ. ಸೂ. ೩-೩-೩೭) |
+| 729 | `sārvadhātukam anudāttam* (*pā.* 6-1-186 as read [?])` → `sārvadhātukam anudāttam* (*pā.* 6-1-186)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 729 | `(*pā.* 6-3-134 as read [?])` → `(*pā.* 6-3-134)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 729 | `(*pā.* 8-3-107 as read [?])` → `(*pā.* 8-3-107)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 729 | `ṇe*; *striyāṃ ktin* (*pā.* 3-3-94 as read [?])` → `ṇe*; *striyāṃ ktin* (*pā.* 3-3-94)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 729 | `vyavimavāṃ upadhāyāś ca* (*pā.* 6-4-20 as read [?])` → `vyavimavāṃ upadhāyāś ca* (*pā.* 6-4-20)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 729 | `hasthamipāṃ tāmtamtāmaḥ* (*pā.* 3-4-101 as read [?])` → `hasthamipāṃ tāmtamtāmaḥ* (*pā.* 3-4-101)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 729 | `(*pā.* 6-4-37 as read [?])` → `(*pā.* 6-4-37)` | SECOND-PASS Q2: Kannada p. 729 has the same number |
+| 730 | `*arśaādi* class [?].` → `*arśaādi* class.` | SECOND-PASS Q2: Kannada p. 730 reads ಅರ್ಶಆದಿತ್ವಾನ್ನತ್ವರ್ಥೀಯೋಽಚ್ |
+| 730 | `*kamimanijani…* [?].` → `*kamimanijani…*.` | SECOND-PASS Q2: Kannada p. 730 reads ಕಮಿಮನಿಜನೀತ್ಯಾದಿನಾ ತುಪ್ರತ್ಯಯಃ |
+| 730 | `*ca*-word [?].` → `*ca*-word.` | SECOND-PASS Q2: Kannada p. 730 reads ಚಶಬ್ದೇನ ದೃಶಿಗ್ರಹಣಾನುಕರ್ಷಣಾತ್ |
+| 731 | `Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 731.` → `Va. 33"; centre "Ṛgvedasaṃhitā"; right 731.` | SECOND-PASS Q2: Kannada p. 731 running head reads ವ. ೩೩ (Va. 33) |
+| 732 | `noted briefly; sūtra numbers only as read, doubtful [?]` → `noted briefly; sūtra numbers only as read, doubtful` | SECOND-PASS Q2: doubt mark only on the boilerplate remark; the Kannada page has its sūtra numbers |
+| 732 | `(*Ni.* 3-[?])` → `(*Ni.* 3-13)` | SECOND-PASS Q1: Kannada p. 732 reads (ನಿ. ೩-೧೩) |
+| 732 | `(*Ṛ.* 4-44-5 as read [?])` → `(*Ṛ.* 4-44-5)` | SECOND-PASS Q2: Kannada p. 732 has the same number |
+| 732 | `(*Ṛ.* 1-119-1 as read [?])` → `(*Ṛ.* 1-119-1)` | SECOND-PASS Q2: Kannada p. 732 has the same number |
+| 732 | `(*Ṛ.* 1-118-2 as read [?])` → `(*Ṛ.* 1-118-2)` | SECOND-PASS Q2: Kannada p. 732 has the same number |
