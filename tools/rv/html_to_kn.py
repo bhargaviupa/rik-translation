@@ -69,6 +69,7 @@ def is_latin(l):
 def stray(l):
     if re.match(r'(This|The) image (contains|is|shows)',l) or re.fullmatch(r'Pages?: ?\d+/\d+',l): return True
     if re.fullmatch(r'[\[(]?\s*\d{1,3}\s*[\])]?\s*Vol\.?\s*\d+\s*\]?|[\[(]\s*\d{1,3}\s*[\])]',l): return True
+    if re.fullmatch(r'[\[(]?\s*[ivxl]{1,5}\.?\s*\d{1,3}\s*[\])]?',l): return True   # gathering signature 'xxv. 52' / '[ xxv. 2 ]' (Vol 25, hand-removed 5 times)
     return bool(not re.search(KN+'|[A-Za-z]{2}',l) and not re.search(r'[೦-೯0-9]',l) and len(l)<=12 and not re.fullmatch(r'[॥।\s]+',l))
 _REF={}
 def ref_index(mandalas):
@@ -129,6 +130,11 @@ def kn_page(printed,head,text,section=None,st=None):
     lines=[clean_line(r) for r in text.split('\n')]; lines=[l for l in lines if l]
     for i,l in enumerate(lines):
         l,conv=deva_to_kn_line(l)
+        nacc=len(re.findall('[\u0951-\u0954\u1CD0-\u1CFF]',l))
+        if nacc:                                   # Vol 22: the supplied OCR has Vedic accent signs (U+0951/0952) on Kannada letters; the Kannada file is Kannada script only and the accented text comes later from refs/mandala. Signs only, no letter touched; one log line per page
+            l=re.sub('[\u0951-\u0954\u1CD0-\u1CFF]','',l)
+            if st.get('acc_page')==printed: st['acc_n']+=nacc; LOG[st['acc_idx']]=f"p. {printed}: {st['acc_n']} Vedic accent sign(s) removed from Kannada-script lines (signs only, letters unchanged)"
+            else: st['acc_page']=printed; st['acc_n']=nacc; st['acc_idx']=len(LOG); LOG.append(f'p. {printed}: {nacc} Vedic accent sign(s) removed from Kannada-script lines (signs only, letters unchanged)')
         if conv: out.append('*[Devanagari letters in the next line of the supplied text are rewritten letter for letter as Kannada (by script).]*'); LOG.append(f'p. {printed}: Devanagari letters rewritten as Kannada in: {l[:40]}')
         nx=st.get('page',printed)+1                 # a running head the splitter missed (misspelled title): the next printed page starts here
         if nx not in st.get('known',()) and '[' in l+']'[:0] or ']' in l:
@@ -160,7 +166,7 @@ def kn_page(printed,head,text,section=None,st=None):
             rid=verse_start(l,ref,st.get('last'),True) or verse_start(l,ref,None,True); st['fresh']=False
             if rid: st['last']=rid
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
-        if section=='bhashya' and re.match(r'ಅನುವಾದ(ವು)?\s*[—-]',l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times
+        if section=='bhashya' and (re.match(r'ಅನುವಾ[ದಕ](ವು)?(\s*[—-]|\s)',l) or 'ಎಂಬ ಈ ಸೂಕ್ತವು' in l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times; Vol 25 (Nov 26 2026): also 'ಅನುವಾಕವು—' (misprint) and 'ಅನುವಾದವು ಪರಿಪ್ರಿಯಾ ಎಂಬ' without a dash, and an Anuvāda with no heading word at all ('… ಎಂಬ ಈ ಸೂಕ್ತವು …'), hand-fixed three times (Sūktas 4, 9, 16)
         TR(st,i,'blk' if section in BLOCK and not st.get('plain') else 'txt',section)
         out.append(('> '+l) if section in BLOCK and not st.get('plain') else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]

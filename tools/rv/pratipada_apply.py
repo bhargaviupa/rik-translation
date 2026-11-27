@@ -3,6 +3,7 @@
 
   python3 tools/rv/pratipada_apply.py N [--write]            # volume N: its supplied file (volcfg `source`), report volN/review/pratipada_check_source.tsv
   python3 tools/rv/pratipada_apply.py FILE.md REPORT.tsv [--write] [--log DIR]
+  ... [--from-page N]        only rows on printed pages N and later (a volume whose first pages are already translated: Vol 22, pages 1-120 untouched)
   ... [--only WORD,WORD]     only these supplied words (the editor has read them), the one-letter test waived for them; reason in the log: 'approved by the editor'
 
 Only rows with status `fix-certain` are considered (one reference word within one edit AND the supplied Pada block of the same Ṛk already
@@ -43,6 +44,14 @@ def one_letter(a, b):
     return (not at_end) or (i > 0 and a[i - 1] == '್')
 
 
+def adapt(old, new):
+    """The replacement in the spelling of the supplied entry (Nov 27 2026, Vol 26): the Pada-pāṭha writes the compound divider `ಽ` and a final
+    `ಮ್` where the commentary's word-meaning entry writes the joined word and a final anusvāra. Only then can the one-letter test see that
+    ದ್ರಪ್ಪಂ / ದ್ರಪ್ಸಮ್ or ಧೃತಸ್ನುಃ / ಘೃತಽಸ್ನುಃ differ by one misread letter. The divider is dropped only before a consonant (before a vowel the
+    joined word has sandhi, which this function does not make)."""
+    if 'ಽ' not in old: new = re.sub('ಽ(?=[ಕ-ಹ])', '', new)
+    if old.endswith('ಂ') and new.endswith('ಮ್'): new = new[:-2] + 'ಂ'
+    return new
 def main():
     args = [x for x in sys.argv[1:] if not x.startswith('--')]
     write = '--write' in sys.argv
@@ -61,9 +70,17 @@ def main():
     orig = list(lines)
     rows = list(csv.DictReader(open(rep, encoding='utf8'), delimiter='\t'))
     cand = [r for r in rows if r['kind'] == 'prat' and r['status'] == 'fix-certain']
+    if '--from-page' in sys.argv:
+        fp = int(sys.argv[sys.argv.index('--from-page') + 1]); args = [x for x in args if x != str(fp)]
+        pg_of = {}; cur = 0
+        for i, l in enumerate(lines):
+            m = re.fullmatch(r'<!-- page (\d+) -->', l.strip())
+            if m: cur = int(m.group(1))
+            pg_of[i + 1] = cur
+        cand = [r for r in cand if pg_of.get(int(r['line']), 0) >= fp]
     done, skipped = [], {'not one letter / ending': 0, 'not found once': 0}
     for r in cand:
-        old, new = r['kannada_as_supplied'], r['kannada_replacement']
+        old, new = r['kannada_as_supplied'], adapt(r['kannada_as_supplied'], r['kannada_replacement'])
         if only is not None and old not in only: continue
         if not one_letter(old, new) and only is None: skipped['not one letter / ending'] += 1; continue
         start = int(r['line']) - 1

@@ -24,7 +24,7 @@ Translated; file closed.
 None recorded beyond `[?]` readings.
 
 ## Publication (print PDF)
-Built with `publish/build_vol45.py 4 full` (cleaner `vol45_clean.py`); `publish/out/vol4_full.pdf`.
+Built with `publish/build_vol45.py 4 full` (cleaner `vol45_clean.py`); `vol4/review/vol4_full.pdf`.
 
 ## Pointers
 `vol4/README.md`, `docs/HISTORY.md`.

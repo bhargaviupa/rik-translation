@@ -10,8 +10,8 @@ The source is the 1949–1952 Kannada edition of the Ṛgveda-saṃhitā with S�
 |---|---|---|
 | English translation (working text) | `volN/Rigveda_Samhita_VolN_English_Translation.md` | append-only, one trailing progress note; Sanskrit in three layers |
 | Kannada text | `volN/Rigveda_Samhita_VolN_Kannada_Text.md` | made by script from the supplied text, appended together with the English file; basis for later Telugu/Hindi work |
-| Print PDF, English | `publish/out/volN_full_Eng.pdf` | front matter from the volume's own scans; Vol 1 pattern |
-| Print PDF, Kannada | `publish/out/volN_full_Kan.pdf` | same front matter + the original Kannada pages' text |
+| Print PDF, English | `volN/review/volN_full_Eng.pdf` | front matter from the volume's own scans; Vol 1 pattern |
+| Print PDF, Kannada | `volN/review/volN_full_Kan.pdf` | same front matter + the original Kannada pages' text |
 | Status | `volN/STATUS.md` | the only place for volume-specific state |
 
 Not translated (user decision, Nov 7 2026): the Kannada front matter (title page, imprint, dedication, board, translator's note/preface, contents, abbreviations). It is carried as scanned pages in the PDFs.
@@ -39,7 +39,7 @@ publish/tools/translit/   kannada_to_deva.py, add_iast.py, deva_to_kannada.py (s
 publish/tools/accents/    accent_volume.py (accent marks from refs/mandala)
 publish/assets/           covers/portraits of old volumes; assets/volN/fm_NN.jpg + frontmatter.json (new volumes); guruji.jpg, maharaja.jpg
 publish/style*.css        style.css, style_vol1.css (old), style_volbook.css, style_volbook_kan.css
-publish/out/              built PDFs/HTML (see REPO_REVIEW: these should not live in git)
+publish/out/              release PDFs only (none yet); review copies are in volN/review/
 publish/build*.py, vol*_clean.py, voice.py   FROZEN: builders/cleaners of Vols 1–13 (old md formats); do not extend
 refs/mandala/             rv_mandala1..10.html: accented Ṛgveda text (all ten Maṇḍalas)
 vol1 … volN/              one folder per volume (layout below)
@@ -130,7 +130,9 @@ Review files: `doubts.tsv` (every `[?]` with the exact words), `accent_report.ts
 
 ## 8. Publication (print PDFs)
 
-One generic builder for all new volumes: **`python3 publish/volbook.py N [eng|kan]`** → `publish/out/volN_full_Eng.pdf`, `volN_full_Kan.pdf` (+ `.html`); reads `volN/pubcfg.json`; never changes the `.md` files. Needs `pip install weasyprint` and `apt-get install fonts-lohit-deva fonts-noto-core fonts-lohit-knda` (fonts are not preinstalled in cloud sessions). Lohit Devanagari is used because it draws the svarita as a vertical stroke; check no dotted circles (◌) in `pdftotext`.
+One generic builder for all new volumes: **`python3 publish/volbook.py N [eng|kan]`** → `volN/review/volN_full_Eng.pdf`, `volN_full_Kan.pdf` (+ `.html`); reads `volN/pubcfg.json`; never changes the `.md` files. Needs `pip install weasyprint` and `apt-get install fonts-lohit-deva fonts-noto-core fonts-lohit-knda` (fonts are not preinstalled in cloud sessions). Lohit Devanagari is used because it draws the svarita as a vertical stroke; check no dotted circles (◌) in `pdftotext`.
+
+**Rules of every PDF build (user, Nov 25 2026; REQUIREMENTS A4, B4.6, B2.6, D19):** review copies are written to `volN/review/` (`publish/out/` is for releases); the footer carries "REVIEW COPY", the page number and "Kannada edition p. N" (`publish/style_footer.css`, linked by `volbook.py` and by the old builders through `build.footer_marks`); the English book has no page mark of the original in the body. Before the build of a volume: `python3 tools/rv/cleanup_remarks.py N all` (look at the counts and the partly kept remarks), then `… all --write`; after the build: `python3 publish/pdf_check.py N`, compare the chapter/sūkta count with the build before, and look at pages as images. Never judge Sanskrit by text copied from the PDF (it scrambles conjuncts). **All volumes at once:** `python3 publish/build_all.py [N …] [--cleanup]` picks each volume's builder, runs the same print step and the check, and writes `publish/BUILD_STATUS.md`. A comment of the user on any PDF becomes a rule in REQUIREMENTS A4 first, then code in the shared step, then a rebuild of all volumes. Everything about the look that holds for all volumes is done on the finished HTML by `publish/printfix.py` (`fix()`: label paragraphs, joined page turns, contents tables, list numbering, two-line headings, Sanskrit sizes) and `publish/style_footer.css`; a new rule of the user about the look goes there, not into one volume's builder (REQUIREMENTS A4, print rules 1–6).
 
 Steps for a volume: (1) user's front-matter scan PDF → `python3 publish/tools/frontmatter/fm_extract.py UPLOAD.pdf --vol N --roles cover,title,portrait,permission,board,preface1,preface2,contents1,…,abbreviations` → `publish/assets/volN/`; (2) `python3 publish/tools/frontmatter/contents_parse.py volN/html/FILE.md --check` and **compare every contents number with the scan pages** (Vol 15: 159/159 equal after restoring one lost number; a number that is wrong *in the print* stays as printed and is recorded in `review/contents_check.md`); (3) fill `pubcfg.json` roles; (4) build; (5) open the first ~20 pages of both PDFs as images (cover, title page on ONE page, portrait, permission, board, contents, index), check page counts and fonts.
 Front-matter order: cover scan | title page (English typeset / Kannada scan) | credits | Maharaja portrait scan | permission page | board of scholars | preface scans (Kannada PDF) | Guruji portrait | "The Present Day" placeholders (kept by user decision) | printed contents typeset like the original with links to the "p. N" marks | abbreviations scan | English PDF also an index of sūktas | body.
@@ -158,6 +160,8 @@ In memory only (the `.md` is not changed): missing `## Sūkta` headings are supp
 | `publish/tools/translit/*` | Kannada↔Devanagari, IAST |
 | `publish/tools/accents/accent_volume.py` | Vedic accents from `refs/mandala` (`--write`; unmatched lines → `accent_report.tsv`) |
 | `publish/tools/frontmatter/*`, `publish/volbook.py` | front matter, contents, print PDFs |
+| `tools/rv/cleanup_remarks.py N all [--write]`, `… N marks` | before a PDF: generic remarks (session talk, process clauses in brackets) and doubled Devanagari lines out of all English files of a volume, logged in `review/removed_remarks.tsv`; `[?]`/`[sic]` listed in `review/open_readings.tsv` |
+| `publish/pdf_check.py N` | after a PDF: ◌, page marks left in the body, footer, counts of marks and remarks still printed |
 | `tools/rv/compare_html_scan.py`, `repair_worksheet.py`, `publish/tools/ref_check/`, `numeral_pass/` | repair/verification passes on older volumes |
 
 ## 10. Cost and speed (measured on Vol 15)
@@ -183,7 +187,7 @@ Every volume has `volN/STATUS.md` (template: `docs/STATUS_TEMPLATE.md`): scope, 
 
 ## 13. Bringing the older volumes under the same tools
 
-New volumes use the pipeline above. Vols 1–14 keep their legacy workflow (`docs/LEGACY_SCAN_WORKFLOW.md`) for repair passes; their closed `.md` files are not edited except the agreed passes recorded in each `STATUS.md`. To print Vols 4–14 with `volbook.py` we need a small *format adapter* per old format (heading layout `## Sūkta N — "…"`, `### Rik N`, inline notes) — see `docs/REPO_REVIEW.md`; do not fork `volbook.py`.
+New volumes use the pipeline above. Vols 1–14 keep their legacy workflow (`docs/LEGACY_SCAN_WORKFLOW.md`) for repair passes; their closed `.md` files are not edited except the agreed passes recorded in each `STATUS.md`. Until the adapter exists, Vols 1–10 are printed by their old builders (`build_vol1.py`, `build_vol2.py`, `build.py 3`, `build_vol45.py N`), which share the footer and the output folder with `volbook.py`; the steps before and after the build are those of §8. To print Vols 4–14 with `volbook.py` we need a small *format adapter* per old format (heading layout `## Sūkta N — "…"`, `### Rik N`, inline notes) — see `docs/REPO_REVIEW.md`; do not fork `volbook.py`.
 
 ## 14. Session hygiene (cloud sessions are ephemeral)
 

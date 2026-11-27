@@ -29,7 +29,7 @@ def deva_to_iast(s):
     s = s.replace('‌', '').replace('‍', '')
     s = re.sub('ऽ', "'", s)
     t = transliterate(s, sanscript.DEVANAGARI, sanscript.IAST)
-    t = t.replace('ḻ', 'ḷ').replace('||', '‖').replace('|', '|')
+    t = t.replace('ḻ', 'ḷ').replace('||', '‖').replace('|', '|').replace('~', 'm̐')   # candrabindu ँ (from Kannada ಁ): IAST m̐
     t = re.sub(r"(?<=\S)'", " '", t)           # kūpe 'vahitam
     t = t.translate(str.maketrans('०१२३४५६७८९', '0123456789'))
     return t

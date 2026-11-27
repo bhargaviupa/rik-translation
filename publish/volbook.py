@@ -4,7 +4,7 @@
   python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource] [--without printed_en,grammar | kan:printed_en | eng:gist]
   (content choice: elements are named in publish/tools/elements.py; pubcfg.json "without" sets the default for a volume; nothing in the .md files changes)
 
-Reads volN/pubcfg.json and writes publish/out/<out>_Eng.pdf / <out>_Kan.pdf (+ .html).  Nothing in the volume's .md files is changed.
+Reads volN/pubcfg.json and writes the review copies volN/review/<out>_Eng.pdf / <out>_Kan.pdf (publish/out/ is for releases only; the .html build step stays there, not kept).  Nothing in the volume's .md files is changed.
 
 Per-volume inputs (see vol15/pubcfg.json):
   * front-matter page images from the user's scan PDF:  publish/tools/frontmatter/fm_extract.py UPLOAD.pdf --vol N --roles cover,title,...
@@ -17,6 +17,7 @@ Front matter (the Vol 1 pattern, aligned to the volume's own scans):
                guru portrait | present-day placeholders | printed contents (typeset like the original) | sūkta index | body
   Kannada PDF: cover scan | title page scan | credits | portrait scan | permission scan | board scan | preface scans |
                guru portrait | present-day placeholders | printed contents | body (Kannada text)
+Footer of both books (style_footer.css; REQUIREMENTS A4): page number, 'Kannada edition p. N', REVIEW COPY; the English book has no page marks in the body.
 English PDF (volN/pubcfg.json: front_en, contents_en, contents_target_overrides): translated board/preface/abbreviations/contents (frontmatter_en.json, contents_en.json), remarks as footnotes, Introduction heading, Om on printed p. 1.
 Body conversions done in memory only: missing '## Sūkta N' headings are supplied (pubcfg 'missing_headings'); every leftover
 ⟦Kannada-script Sanskrit⟧ quotation (also multi-line) is converted to Devanagari + (IAST); every Saṃhitā and Pada block
@@ -124,21 +125,18 @@ def contents_html(cfg):
     for b in blocks:
         if b['t'] == 'item' and isinstance(f.get(str(b['src'])), int): b['page'] = f[str(b['src'])]
     h = c['heading']
-    out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>']
+    import printfix
+    rows = []
     for b in blocks:
         t = html.escape(b['text'])
-        if b['t'] == 'sukta':
-            out.append(f'<p class="csu"><span class="no">{b["no"]}.</span> {t}—</p>')
-        elif b['t'] == 'mandala':
-            out.append(f'<p class="cma">{t}—</p>')
-        elif b['t'] == 'center':
-            out.append(f'<p class="cce">{t}</p>')
+        if b['t'] == 'sukta': rows.append({'no': b['no'], 'html': f'<strong>{t}</strong>'})
+        elif b['t'] in ('mandala', 'center'): rows.append({'kind': 'head', 'html': f'<strong>{t}</strong>'})
         else:
             pg = b['page']
             tgt = {str(k): v for k, v in cfg.get('contents_target_overrides', {}).items()}.get(str(b['src']), pg)   # link target only; the printed number is shown
-            link = f'<a href="#p{tgt}">{pg}</a>' if pg else ''
-            out.append(f'<p class="cit"><span class="tx">{t}</span><span class="pn">{link}</span></p>')
-    out.append('</section>')
+            rows.append({'html': t, 'page': f'<a href="#p{tgt}">{pg}</a>' if pg else ''})
+    out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>',
+           printfix.contents_table(rows, note='', head=('ಸಂ.', 'ವಿಷಯ', 'ಪುಟ')), '</section>']
     return '\n'.join(out), blocks
 
 
@@ -205,8 +203,8 @@ def contents_en_html(cfg, fe, suk_ids):
         return re.sub(r'⟦([^⟧]*)⟧', lambda m: '\0' + deva_to_iast(kn2deva(m.group(1))).replace('è', 'e').replace('ò', 'o') + '\1', t)
     def esc(t):
         t = html.escape(conv(t)); return t.replace('\0', '<i>').replace('\1', '</i>')
-    out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>']
-    si = 0
+    import printfix
+    rows, si = [], 0
     first_pg, cur = {}, None                       # printed page of the first item of each sūkta (the sūkta line shows where its text begins)
     for b in blocks:
         if b['t'] == 'sukta': cur = b['src']
@@ -216,15 +214,15 @@ def contents_en_html(cfg, fe, suk_ids):
         if b['t'] == 'sukta':
             si += 1; pg = first_pg.get(b['src'])
             tgt = f'#p{pg}' if pg else (f'#{suk_ids[si-1]}' if si <= len(suk_ids) else '')
-            out.append(f'<p class="csu"><a href="{tgt}">{t}{fn}</a></p>')
-        elif b['t'] == 'mandala':
-            out.append(f'<p class="cma">{t}</p>')
-        elif b['t'] == 'center':
-            out.append(f'<p class="cce">{t}</p>')
+            mno = re.match(r'\s*(\d+)\.\s+(.*)', t, flags=re.S)                       # '29. The twenty-ninth sūkta, …' -> number column
+            rows.append({'no': mno.group(1) if mno else '', 'html': f'<strong>{mno.group(2) if mno else t}</strong>{fn}', 'href': tgt})
+        elif b['t'] in ('mandala', 'center'):
+            rows.append({'kind': 'head', 'html': f'<strong>{t}</strong>{fn}'})
         else:
             pg = ov.get(str(b['src']), b.get('page'))
-            out.append(f'<p class="cit"><a href="#p{pg}">{t}{fn}</a></p>' if pg else f'<p class="cit">{t}{fn}</p>')
-    out.append(f'<p class="cnote">{html.escape(fe["contents"]["page_note"])}</p></section>')
+            rows.append({'html': t + fn, 'href': f'#p{pg}' if pg else ''})
+    out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>',
+           printfix.contents_table(rows, note=fe["contents"]["page_note"]), '</section>']
     return '\n'.join(out)
 
 NOTE_RX = re.compile(r'^(\[|Running head|\(The supplied|\(In the supplied|\(A small stray|\(Note|Note|Stray line|\(Readings|Title page of the volume)')
@@ -363,16 +361,18 @@ def wrap(front_html, rest, kan, vol):
     css = '<link rel="stylesheet" href="../style_volbook.css">' + ('<link rel="stylesheet" href="../style_volbook_kan.css">' if kan else '')
     t = f'Ṛgveda-saṃhitā, Volume {vol} ' + ('(Kannada text)' if kan else '(English translation)')
     return (f'<!doctype html><html lang="{"kn" if kan else "en"}"><head><meta charset="utf-8"><title>{t}</title>'
-            f'<link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol1.css">{css}</head><body>\n{front_html}\n{rest}\n</body></html>')
+            f'<link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol1.css">{css}<link rel="stylesheet" href="../style_footer.css"></head><body>\n{front_html}\n{rest}\n</body></html>')
 
-def write(doc, name, html_only):
+def write(doc, name, html_only, vol):
+    import printfix; doc = printfix.fix(doc)
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'{name}.html').write_text(doc, encoding='utf-8')
     print(f'wrote out/{name}.html', len(doc) // 1024, 'KB')
     if not html_only:
         from weasyprint import HTML
-        HTML(string=doc, base_url=str(out)).write_pdf(out / f'{name}.pdf')
-        print(f'wrote out/{name}.pdf')
+        rev = ROOT / f'vol{vol}' / 'review'; rev.mkdir(exist_ok=True)          # review copies live with the volume (REQUIREMENTS A1, F16)
+        HTML(string=doc, base_url=str(out)).write_pdf(rev / f'{name}.pdf')
+        print(f'wrote vol{vol}/review/{name}.pdf')
 
 def abbreviations(cfg):
     role = cfg.get('front', {}).get('abbreviations')
@@ -426,13 +426,13 @@ def build_eng(cfg, html_only):
             return f'<h2 class="{cls}" id="{hid}" data-short="{html.escape(lab)}">{inner}</h2>'
         if tag == 'h3':
             mm = re.match(r'Printed p\.\s*(\d+)', text)
-            if mm: return f'<h3 class="pg" id="p{mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
+            if mm: return f'<h3 class="pg" id="p{mm.group(1)}" data-p="Kannada edition p. {mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     fe = load_front_en(cfg)
     body = notes_to_footnotes(body)
     body = intro_headings(body)
-    body = body.replace('<h3 class="pg" id="p1"><span>p. 1</span></h3>', '<h3 class="pg" id="p1"><span>p. 1</span></h3><div class="om">ॐ</div>', 1)
+    body = body.replace('<span>p. 1</span></h3>', '<span>p. 1</span></h3><div class="om">ॐ</div>', 1)
     suk_ids = [h for h, l, c in toc if c == 'sukta']
     if fe and cfg.get('contents_en'):
         ch = contents_en_html(cfg, fe, suk_ids); blocks = []
@@ -442,18 +442,104 @@ def build_eng(cfg, html_only):
         idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     refl = references_list_html(cfg)
-    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only)
+    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
 
 def kannada_front_matter_fallback(cfg):
     """Only used when the volume has no preface scans: the supplied text up to the Pīṭhike (the Om line that opens printed p. 1)."""
     return ''
 
+def kan_contents(md):
+    """The original's own contents pages, kept as the contents of the Kannada book and set as the one contents table, with the page numbers
+    of THIS book (user, Nov 26 2026: "we retain the content page similar to original with page numbers updated").  Works on the supplied
+    text as it is: an entry is one or more lines ending in a page number, or a row '<tr><td>text</td><td>N</td></tr>'; a chapter line
+    ('ಒಂದನೆಯ ಪ್ರಕರಣ—…') opens an entry and is set in bold; where the supplied text has lost an entry's page number, a chapter entry is
+    linked to the page on which that chapter begins in the body.  A short line without a number between entries is a centred head."""
+    import printfix
+    L = md.split('\n')
+    try: a = next(i for i, l in enumerate(L) if l.strip() == 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ' and any(x.startswith('## ') for x in L[max(0, i - 6):i]))
+    except StopIteration: return md, 0
+    lim = next((i for i, l in enumerate(L) if l.startswith('<!-- printed 2 -->')), len(L))
+    num = re.compile(r'^(.*?)[\s.]+([\d೦-೯]{1,4})\s*$'); row = re.compile(r'<td>(.*?)</td>\s*<td>\s*([\d೦-೯]{1,4})\s*</td>', re.S)
+    last = max([i for i in range(a, lim) if num.match(L[i]) and re.search('[ಀ-೿]', L[i]) or '</table>' in L[i] or '</tr>' in L[i]], default=None)
+    if last is None: return md, 0
+    # page on which each chapter begins in the body
+    chpages, pg = [], None
+    for l in L[lim:]:
+        m = re.match(r'<!-- printed (\d+) -->', l)
+        if m: pg = m.group(1)
+        elif re.match(r'^[^\s#>*|<\[][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ(?:ವು)?[ \t.]*$', l): chpages.append(pg)
+    dig = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
+    marks = {int(x) for x in re.findall(r'<!-- printed (\d+) -->', md)}
+    rows, buf, nch = [], [], 0
+    def flush(page=None):
+        nonlocal buf, nch
+        if not buf: return
+        text = ' '.join(x.strip() for x in buf); buf = []
+        ch = re.match(r'^(\S+ನೆಯ ಪ್ರಕರಣ)\s*[—-]+\s*([^\n]*?)(?=\s{2,}|$)', text)
+        r = {'html': html.escape(text)}
+        if ch:
+            nch += 1; first = buf_first_line[0]; rest = text[len(first):].strip()
+            r = {'no': str(nch), 'html': f'<strong>{html.escape(first)}</strong>' + (' ' + html.escape(rest) if rest else '')}
+            if not page and nch <= len(chpages): page = chpages[nch - 1]
+        if page:
+            n = int(str(page).translate(dig))
+            while n > 1 and n not in marks: n -= 1                                               # a page without a mark in the supplied text: the page before it
+            r['href'] = f'#p{n}'
+        elif not ch and len(text) <= 60: r = {'kind': 'head', 'html': f'<strong>{html.escape(text)}</strong>'}
+        rows.append(r)
+    buf_first_line = ['']
+    block = '\n'.join(L[a + 1:last + 1])
+    for piece in re.split(r'(<table\b.*?</table>)', block, flags=re.S):
+        if piece.startswith('<table'):
+            flush()
+            for t, n in row.findall(piece): rows.append({'html': html.escape(re.sub(r'<[^>]+>', '', t).strip()), 'href': f'#p{n.translate(dig)}'})
+            continue
+        for l in piece.split('\n'):
+            t = l.strip()
+            if not t or t.startswith(('<', '#', '*[')): flush(); continue
+            if re.fullmatch(r'[\d೦-೯ivxlc\s.]+', t): continue                                   # a page signature of the contents pages themselves
+            if not buf and len(t) <= 34 and '—' not in t and not num.match(t) and not re.match(r'^\S+ನೆಯ ಪ್ರಕರಣ', t):
+                rows.append({'kind': 'head', 'html': f'<strong>{html.escape(t)}</strong>'}); continue   # a centred line between the lists
+            if re.match(r'^\S+ನೆಯ ಪ್ರಕರಣ\s*[—-]', t): flush(); buf_first_line[0] = t if not num.match(t) else num.match(t).group(1)
+            m = num.match(t)
+            if not buf: buf_first_line[0] = buf_first_line[0] if re.match(r'^\S+ನೆಯ ಪ್ರಕರಣ\s*[—-]', t) else ''
+            if m and re.search('[ಀ-೿]', t): buf.append(m.group(1)); flush(m.group(2))
+            else: buf.append(t)
+        flush()
+    table = printfix.contents_table(rows, note='', head=('ಸಂ.', 'ವಿಷಯ', 'ಪುಟ'))
+    return '\n'.join(L[:a + 1]) + '\n\n' + table + '\n\n' + '\n'.join(L[last + 1:]), len(rows)
+
 def build_kan(cfg, html_only):
     md = (ROOT / cfg['kannada_md']).read_text(encoding='utf-8')
+    sys.path.insert(0, str(ROOT / 'tools' / 'rv')); import headings as _hd
+    md, nlev = _hd.apply_kn(md, cfg['vol']); print(f'[kan] title lines set as headings by level (volN/data/headings_kn.tsv): {nlev}')
+    md = re.sub(r'(?m)[ \t]*\{\.[\w-]+\}[ \t]*$', '', md)          # '{.headline}', '{.section-title}' left by the conversion of the supplied file
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
-    md = apply_without(md, cfg, 'kan')
-    md = re.sub(r'<!-- printed (\d+) -->', r'### Printed p. \1', md)
+    md = apply_without(md, cfg, 'kan')                      # content choice first: it needs the running-head lines after the page marks, which the cleaning below removes
+    # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
+    # each page ('*[ಪೂರ್ವಪೀಠಿಕೆ 3]*'), the '[figure]' places and the machine's remark on a picture, comments of the making.
+    md, ncont = kan_contents(md); print(f'[kan] entries of the original contents set as a table: {ncont}')
+    md, nrh = re.subn(r'(?m)^\*\[[^\n]*\]\*[ \t]*\n', '', md)
+    # front matter: a line that is only a roman page number ('iii') is the page turn of the original; it becomes a page mark like the others, so
+    # that the number leaves the text, the footer shows it and the sentence cut by it is joined again (user, Nov 26 2026, Vol 1 Kannada p. 18)
+    k0 = md.find('<!-- printed ')
+    if k0 > 0:
+        fm_, nrom = re.subn(r'(?m)^([ivxlc]{1,7})[ \t]*$', lambda m: f'<!-- printed {m.group(1).lower()} -->', md[:k0])
+        md = fm_ + md[k0:]
+    else: nrom = 0
+    md, nfig = re.subn(r'(?m)^\[figure[^\]\n]*\][ \t]*\n(?:\n?ಚಿತ್ರವು [^\n]*\n)?', '', md)
+    md = re.sub(r'(?m)^<!-- (?!printed)[^\n]*-->[ \t]*\n', '', md)
+    # chapter lines of a prose volume ('ಒಂದನೆಯ ಪ್ರಕರಣ.') become headings, so that the book has a contents page (after the first page mark only:
+    # before it the same words are entries of the original's own contents)
+    k = md.find('<!-- printed 2 -->')
+    if k > 0:
+        head, body = md[:k], md[k:]
+        body, nch = (body, 0) if nlev else re.subn(r'(?m)^([^\s#>*|][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ)(?:ವು)?[ \t.]*\n(?=[^\n]{1,80}\n)', lambda m: '\n## ' + m.group(1) + '\n\n', body)
+        md = head + body
+    else: nch = 0
+    print(f'[kan] running heads removed: {nrh}; roman page numbers turned into page marks: {nrom}; figure places removed: {nfig}; chapter headings made: {nch}')
+    md = re.sub(r'<!-- printed (\d+|[ivxlc]+) -->', r'### Printed p. \1', md)
     md = re.sub(r'\n---\n', '\n', md)
     body = pandoc_html(md)
     toc, st = [], {'n': 0}
@@ -461,22 +547,22 @@ def build_kan(cfg, html_only):
         tag, inner = m.group(1), m.group(2)
         text = re.sub(r'<[^>]+>', '', inner).strip()
         st['n'] += 1; hid = f'k{st["n"]}'
-        mm = re.match(r'Printed p\.\s*(\d+)', text)
-        if mm: return f'<h3 class="pg" id="p{mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
+        mm = re.match(r'Printed p\.\s*(\d+|[ivxlc]+)', text)
+        if mm: return f'<h3 class="pg" id="p{mm.group(1)}" data-p="Kannada edition p. {mm.group(1)}"><span>p. {mm.group(1)}</span></h3>'
         if tag == 'h2':                                   # '## ಸೂಕ್ತ N (ಮಂಡಲ M)' or '## ಮಂಡಲ M' (added from the English structure by kn_headings.py)
-            cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'part'
+            cls = 'sukta' if text.startswith('ಸೂಕ್ತ') else 'chapter' if 'ಪ್ರಕರಣ' in text else 'part'
             toc.append((hid, text, cls))
             return f'<h2 class="{cls}" id="{hid}" data-short="{html.escape(text)}">{inner}</h2>'
         return f'<{tag} id="{hid}">{inner}</{tag}>'
-    body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
+    body = re.sub(r'<(h1|h2|h3|h4)(?![^>]*class="lv)[^>]*>(.*?)</\1>', head, body, flags=re.S)        # headings with a level class keep it
     idx = ''
-    if toc:
-        idx = '<section class="toc"><h2>ಸೂಕ್ತಸೂಚಿ</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
+    if toc and not ncont:                 # the original's own contents are the contents of the book where the text has them
+        idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
     ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
     refl = references_list_html(cfg, kan=True)
-    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + refl + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
+    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + refl + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only, cfg['vol'])
 
 def main():
     argv = sys.argv[1:]; skip = {i + 1 for i, x in enumerate(argv) if x == '--without'}          # the value of --without is not a build target

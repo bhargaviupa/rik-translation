@@ -1,6 +1,6 @@
 ## Preface (Pīṭhike)
 
-**[p. 20]**
+**20**
 
 The ninth maṇḍala of the Ṛksaṃhitā has the distinction of praising, entirely, only one deity. Apart from this maṇḍala, only four sūktas praising the deity Soma are found in the remaining maṇḍalas; moreover, in certain contexts Soma is praised together with other deities as well. All those are incidental (ānuṣaṅgika); they are not addressed solely to the deity Soma.
 
@@ -16,7 +16,7 @@ The Pāvamānī sūktas, acquired by the ṛṣis who had Madhucchandas as their
 
 This maṇḍala, which praises Soma, has one hundred and fourteen sūktas and consists of seven anuvākas. Divided according to the metres, it is as follows.
 
-**[p. ii]**
+### Printed p. ii
 
 | | | | |
 |---|---|---|---|
@@ -43,7 +43,7 @@ The explanation of the Niruktakāras is that, for the word Soma, derived from th
 
 But it is not easy to state definitively whether the Soma of the nature of splendour is of the form of the Moon, is related to the Sun, is of the form of Agni or is of the form of Indra. If we first examine the statements in which identity with the Moon is shown, and which are
 
-**[p. iii]**
+### Printed p. iii
 
 described, Soma is described in just the same way as the position, held by the Moon, of lord of all the herbs (oṣadhi). The statement that the Moon is food for the gods follows the identity of Soma and the Moon, that "Soma himself is the Moon".
 
@@ -60,7 +60,7 @@ The relation of Sūrya's daughter to Soma makes still clearer the relation betwe
 
 "At the time of Sūryā's wedding, Soma himself is the bridegroom. The Aśvin deities are on the bridegroom's side. Agni is the guide in this wedding festival. At this time of rejoicing, Savitṛ gave his daughter to the bridegroom, who is of the form of Soma, and conducted the marriage. During this festival the mind is the chariot. The Sun and the Moon themselves are those who drive the chariot." Descriptions of this kind show
 
-**[p. iv]**
+### Printed p. iv
 
 Soma's supremely divine element. But in such contexts it is also indicated that Soma is a particular deity distinct from the Sun and the Moon.
 
@@ -78,7 +78,7 @@ O Soma, you are omniscient. Following your regulating law, all the worlds remain
 
 Although the lordship over all is thus described, in certain contexts there is identity with deities such as Indra and Agni. The close relation between Soma and Indra is well known. The means that gives Indra bodily and mental strength, produces genuine enthusiasm in him and makes Indra full of vigour in every way is the Soma juice. What gives strength to Indra is the vajra, the thunderbolt. What gives vigour is Soma. Therefore there is identity between Soma and the vajra.
 
-**[p. v]**
+### Printed p. v
 
 ⟦ಆತ್ಸೋಮ ಇಂದ್ರಿಯೋ ರಸೋ~~ಉಕ್ತಂ ಯದಸ್ಯ ಜಾಯತೇ⟧
 (Ṛ. Saṃ. 9-47-3)
@@ -102,7 +102,7 @@ Your three kinds of extended streams attain unity at the end. O Soma, you are th
 
 That Soma, of the form of the supreme light, descends to the earth as an embryo (garbha) in the waters, the herbs and the trees (vanaspati) is one way of saying it; or that the śyena (falcon) itself went and brought that same Soma to the earth is another. In all, it must be said that the earthly Soma juice is a part of the divine Soma. (How Gāyatrī, in the form of a falcon, brought Soma has been explained earlier in the Gāyatrī section and also in the preface of this maṇḍala.)
 
-**[p. vi]**
+### Printed p. vi
 
 "Parjanya is the father of this Soma of great form. He has his dwelling in the mountains, or in the hills (those related to mountains) of the sacrificial ground. The waters are his sisters, and he is the embryo of Pajrā" — in these words and others there is an account of the origin of Soma. But what is the meaning of the address ⟦ಪಜ್ರಾಯಾಃ ಗರ್ಭ⟧ is one question. Pajrā may be the earth, or may be Mādhyamikā Vāk (the speech of the middle region). The embryo of Mādhyamikā Vāk means one of the form of rain. The embryo of the earth means one of the form of herbs. Sāyaṇa has so explained. (⟦ಪಜ್ರಾ ಪೃಥಿವೀತ್ಯಾಹುಃ~~ಮಾಧ್ಯಮಿಕಾ ವಾಕ್ ಪಜ್ರಾ⟧) The earthly Soma is established in the mountains. Varuṇa has established Soma in the mountain. (⟦ದಿವಿ ಸೂರ್ಯಮದಧಾತ್ ಸೋಮಮದ್ರೌ⟧) He is described by epithets such as ⟦ಪರ್ವತಾವೃಧೆಃ⟧ and ⟦ಗಿರಿಷ್ಠಾಃ⟧. The Soma plant is indicated as a forest **NOTE**{ಆತಸಮಯವಾದ ವನ unclear; word ಆತಸಮಯವಾದ}. "⟦ವೃಕ್ಷಸ್ಯ ಶಾಖಾಮರುಣಸ್ಯ ಬಪ್ಸತಃ⟧" — feeding on the branches of the tree of reddish colour (aruṇa), the Soma plants flourish. There are descriptions of this kind.
 
@@ -116,7 +116,7 @@ If the plant named Śyenahṛta is not found, the plant named Ādāra may be bro
 
 If this Adāra plant is not found, then the golden-yellow plant named Dūrvā may be squeezed. **NOTE**{ಆದಾರ and ಅದಾರ both printed} This Dūrvā plant is a close relation of Soma. (⟦ಏಷ ವೈ ಸೋಮಸ್ಯ ನ್ಯಂಗಃ........ತಸ್ಮಾದರುಣದೂರ್ವಾ ಅಭಿಷುಣುಯಾತ್⟧).
 
-**[p. vii]**
+### Printed p. vii
 
 If this Dūrvā plant, which is related to Soma, is also not found, yellow kuśa may be squeezed. In this way other substitutes that have just the quality of the Soma plant are also stated. Thus, because the plants that become available according to the circumstance are used, the colour of the juice too is not of one kind. In stating the colour of the Soma juice, a different colour is specified at different times.
 
@@ -139,7 +139,7 @@ The juice produced from the pure Soma plant is compared to pure milk. But the �
 
 The Soma juice, which is of the nature of a deity, makes manifest the secret nature of the deities such as Indra and makes it perceptible to the sacrificer.
 
-**[p. viii]**
+### Printed p. viii
 
 The drinking of Soma juice is the most excellent of all other drinks. Soma juice is ⟦ವಯಸ್ಕತ್, ವಯೋಧಾಃ⟧: it should increase the life of the sacrificer. It gives vigour on the field of battle; increasing virility, it should be a means to progeny. All these belong to material nourishment. Besides these,
 
@@ -155,11 +155,11 @@ For the sacrifice, which upholds the universe, Soma is the chief means. To obtai
 
 The implements useful for the pressing of Soma (somābhiṣava) are many. All of them must be obtained in the prescribed manner. What they are — the Aitareya Brāhmaṇa, putting them together, tells the names of these implements in order in this way. All of these are to be provided by the Adhvaryu.
 
-"⟦ಅಧ್ವರ್ಯುಃ ಪುರಸ್ತಾದುಪಕಲ್ಪಯೇತಾಧಿಷವಣಂ~~ತದೇನಾನಿ ದ್ವೇಧಾ⟧ ⟦ವಿಗೃಹ್ಣೀ- ಯಾತ್ ||................⟧" (Ai. Brā. 7-32)
+"⟦ಅಧ್ವರ್ಯುಃ ಪುರಸ್ತಾದುಪಕಲ್ಪಯೇತಾಧಿಷವಣಂ~~ತದೇನಾನಿ ದ್ವೇಧಾ⟧ ⟦ವಿಗೃಹ್ಣೀಯಾತ್⟧" (Ai. Brā. 7-32)
 
 The hide needed for pressing (adhiṣavaṇa-carma), the boards needed for pressing (phalake), the droṇakalaśa, the daśāpavitra (a sieve-cloth), the adri (the pressing stone), the pūtabhṛt and the ādhavanīya (the filtering
 
-**[p. ix]**
+### Printed p. ix
 
 vessels), the sthālī, the udañcana (a pouring vessel), the camasa (a ladle for offering the oblation or for drinking the juice).
 
@@ -180,7 +180,7 @@ The great ṛṣis who have attained knowledge of Brahman ask in this way. If th
 
 ⟦ಪುರಾ ಪ್ರಾತರನುವಾಕಸ್ಯ~~ವಾಸವಂ ಸಾಮಮಭಿಗಾಯತಿ⟧
 
-**[p. x]**
+### Printed p. x
 
 ⟦ಲೋಕದ್ವಾರಮಪಾವೃಣು | ಪಶ್ಯೇಮ ತ್ವಾ ವಯಂ ರಾಜ್ಯಾಯ~~ಲೋಕ ಏತಾಸ್ಮಿ⟧
 
@@ -207,7 +207,7 @@ Before the midday savana, one should sit behind the Āgnīdhrīya fire, facing n
 
 Before the third savana, the sacrificer should sit behind the Āhavanīya fire, facing north, and recite the mantra ⟦ಲೋಕದ್ವಾರಂ⟧ so as to be pleasing to the Ādityas and the Viśvedevas. Its purport is this: "O Ādityas, O Viśvedevas, in order that sāmrājya (imperial sovereignty) may be obtained also by me, open the door of your world, so that I may attain the sight of you, which is the means of it."
 
-**[p. xi]**
+### Printed p. xi
 
 Afterwards, "O Ādityas and Viśvedevas, who dwell in the heavenly world, provide a place for me, the sacrificer, in your world too" — thus one should pray and worship.
 
@@ -241,7 +241,7 @@ O Indra and Agni, may this Soma please you, so as to suffice for your all-pervas
 
 thus it is prayed.
 
-**[p. xii]**
+### Printed p. xii
 
 Soma is the cause of wealth such as riches, which is the means of worldly happiness; of the obtaining of vigour by Indra and the other deities, who are the givers of this wealth to the sacrificer; of the obtaining of the harmony (samanvaya) of all the worlds; and of the attainment of bliss, which is of the form of liberation. Soma is the accomplisher of the success of all the dealings of gods, men and the rest, which are of the form of sacrifice; he is the support. The purport is that the sādhya (what is to be accomplished), the sādhana (the means) and the siddhi (the accomplishment) are all he himself.
 

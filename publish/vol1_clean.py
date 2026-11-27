@@ -17,9 +17,16 @@ GAP_B_NOTICE = ('<div class="edition-note">\n\n**Editorial notice.** The source 
     'available they could not be read with the certainty that a reference table requires. The cross-reference lines, printed in mirrored pairs (“A B … B A”), '
     'are compressed: each ṛṣi is listed once, with the ṛṣis paired with him or her.\n\n</div>')
 
+def _levels(text, name):
+    # title levels chapter - 1 - 2 - 3 from the original (tools/rv/headings.py; REQUIREMENTS A4 print rule 17); in memory only
+    import sys
+    sys.path.insert(0, str(ROOT / 'tools' / 'rv')); import headings
+    return headings.apply_en(text, 1, name)
+
 def load_gap(letter):
     """Blocks of one gap section of the supplementary translation, normalised for the Volume 1 build."""
     txt = GAPS.read_text(encoding='utf-8')
+    txt, _ = _levels(txt, GAPS.name)
     txt = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', txt)
     m = re.search(r'(?m)^# GAP ' + letter + r' — .*$', txt)
     nxt = re.search(r'(?m)^# GAP [A-D] — .*$', txt[m.end():])
@@ -68,6 +75,7 @@ def log(kind, lineno, text):
 
 def clean():
     text = SRC.read_text(encoding='utf-8')
+    text, nlev = _levels(text, SRC.name); print(f'title levels applied to the English (vol1/data/headings_en.tsv): {nlev}')
     text = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', text)
     text = re.sub(r'(?m)^(#{1,6} .*)\n(?!\n)', r'\1\n\n', text)   # and a blank line after
     lines = text.split('\n')
@@ -82,6 +90,7 @@ def clean():
     if cur: blocks.append((start, '\n'.join(cur)))
 
     out, skip_section, skip_rishi = [], False, False
+    skip_embedded = False
     seen_preface = False
     for ln, blk in blocks:
         first = blk.split('\n', 1)[0]
@@ -105,6 +114,14 @@ def clean():
                 log('removed (inside milestone section)', ln, blk); continue
         if blk.strip() == '---':
             continue
+        # The edition prints its own English of Sāyaṇa's preface under the Kannada ("English Translation of Sayana's Preface to the Rigveda");
+        # the file has it under '**Embedded English translation, as given in the source:**' after our translation of the same passage, so the
+        # English stood twice (user, Nov 26 2026: the English of the book comes from the translation only).  Not printed; it stays in the file.
+        if re.match(r'^\*\*Embedded English translation, as given in the source', first):
+            skip_embedded = True; log('not printed (the edition\'s own English of the passage)', ln, first); continue
+        if skip_embedded:
+            if first.startswith('>'): log('not printed (the edition\'s own English of the passage)', ln, blk); continue
+            skip_embedded = False
         # 2. progress / milestone paragraphs
         if re.match(r'\*\*(Progress|🎉|Target for next session|Recommendation for future sessions|PDF page 622|⚠ IMPORTANT STRUCTURAL FLAG)', first):
             log('removed (progress / working flag)', ln, blk); continue
@@ -153,9 +170,15 @@ def clean():
         if re.match(r'^\*Note: This is a careful first-pass', blk):
             out.append('*(' + blk.strip('*') + ')*'); log('converted to note (reading note)', ln, blk); continue
         # 5. page headings -> markers
-        m = re.match(r'^#{2,3} \[?Page ([0-9ivxlc]+)\]?(?: — (.*))?$', first)
+        # a page heading may carry a range ("Pages 46–47"), a title after a dash, or a remark of ours in parentheses ("(bibliography, continued)",
+        # "(resuming mid-paragraph)"): the remark is dropped, and so is a title that only says the text continues; otherwise the heading
+        # stood in the middle of a list or a paragraph (Vol 1 PDF p. 22: the bibliography was cut in two; user, Nov 26 2026)
+        m = re.match(r'^#{2,3} \[?Pages? ([0-9ivxlc]+(?:[–-][0-9ivxlc]+)?)\]?\s*(?:— (.*?)|\*?\(([^)]*)\)\*?)?\s*$', first)
         if m:
             pg, title = m.group(1), m.group(2)
+            if title and re.search(r'(^|[\s(—,])continued\)?$', title.strip(), flags=re.I):
+                log('removed (page-turn heading: text continues)', ln, first); title = None
+            elif m.group(3): log('removed (remark in a page heading)', ln, first)
             out.append(f'<div class="pgmark">original p. {pg}</div>')
             if title: out.append(('### ' + title))
             rest = blk.split('\n', 1)[1] if '\n' in blk else ''
@@ -176,7 +199,9 @@ def clean():
             blk = '### ' + blk[3:]
         # 7. chapter titles with uncertain numerals
         blk = re.sub(r'^## Chapter \[([\w-]+)\??\] — ', lambda m: f'## Chapter {m.group(1)} — ', blk)
-        blk = re.sub(r'^## Preface .*$', '## Preface (ಮುನ್ನುಡಿ)', blk, flags=re.M)
+        blk = re.sub(r'^## Preface .*$', '## Preface (Munnuḍi)', blk, flags=re.M)
+        # part headings show the English name; the original's name stands in the trailing parenthesis and is printed in the footer (printfix.headings)
+        blk = re.sub(r"^# PART II: Sāyaṇācārya's Ṛgveda-Bhāṣya-Bhūmikā$", "# PART II: Sāyaṇācārya's Introduction to the Ṛgveda Commentary (Ṛgveda-bhāṣya-bhūmikā)", blk)
         out.append(blk)
     SUBS = [("reproduced here in full as it appears, per the user's explicit request to retain both the Sanskrit and this English rendering together", "reproduced here in full as it appears in the source, together with the Sanskrit"),
             ("**The debate reaches its genuine resolution in this batch.**", "**The debate reaches its genuine resolution here.**"),
@@ -194,7 +219,7 @@ def clean():
         if re.match(r'^## Chapter \w+$', b) and i + 1 < len(out) and out[i + 1].startswith('### '):
             fixed.append(b + ' — ' + out[i + 1][4:].strip()); i += 2; continue
         if b.startswith('## Purva-peethike (Introduction)'):
-            fixed.append('# PART I: Pūrva-pīṭhikā — the Introduction'); fixed.append('## Introduction (Pūrva-pīṭhikā)'); i += 1; continue
+            fixed.append('# PART I: Introduction (Pūrva-pīṭhikā)'); fixed.append('## Introduction (Pūrva-pīṭhikā)'); i += 1; continue
         if b.startswith('### The First Mantra of the Rigveda'):
             fixed.append('## The First Sūkta (Ṛgveda 1.1) — agnim īḷe purohitam'); fixed.append(b); i += 1; continue
         if b.startswith('# ॥ द्वितीयं सूक्तम् ॥') and i + 1 < len(out) and out[i + 1].startswith('### The Second'):

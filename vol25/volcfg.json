@@ -1,0 +1,36 @@
+{
+ "vol": 25,
+ "mandala": 8,
+ "branch": "claude/wonderful-bardeen-h655ql",
+ "source": [
+  "vol25/html/rig_25.md@1-878"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol25/Rigveda_Samhita_Vol25_Kannada_Text.md",
+  "en": "vol25/Rigveda_Samhita_Vol25_English_Translation.md"
+ },
+ "work": "vol25/work",
+ "window": 6,
+ "mandalas": [
+  8,
+  9
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/wonderful-bardeen-h655ql"
+ ],
+ "scan_read": true
+}
