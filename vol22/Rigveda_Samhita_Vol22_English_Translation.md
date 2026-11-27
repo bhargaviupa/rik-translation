@@ -21925,6 +21925,267 @@ Come, Nasatyas, to the excellent Vasishtha, the worshipper who, accompanied by t
 > इयं । मनीषा । इयं । अश्विना । गीः । इमां । सुवृक्तिं । वृषणा । जुषेथां ।  
 > इमा । ब्रह्माणि । युवयूनि । अग्मन् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
 
+### Printed p. 529
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ इयं मनीषा स्तुतिर्युवयोः कृतेति शेषः । तदेवादरार्थं पुनरुच्यते । इयं गीः स्तुतिः कृता । हे वृषणा कामानां वर्षकौ इमामस्मत्कृतां सुवृक्तिं शोभनां स्तुतिं जुषेथां । सेवेथां । इमेमानि ब्रह्माणि कर्माणि स्तुतिरूपाणि युवयूनि युवां कामयमानानि संत्यग्मन् । गच्छंतु युवां । यूयं पातेति सिद्धं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Aśvins, this मनीषा (*manīṣā*) (praise) has been made for you (the verb "has been made" is to be supplied). The same is repeated for emphasis: this गीः (*gīḥ*) (praise) has been made. O showerers (of desires), enjoy and accept this good praise made by us. These ब्रह्माणि (*brahmāṇi*), that is, acts in the form of praise, desiring you, go to you. "You protect" is the established sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- इयं मनीषा (*iyaṃ manīṣā*)—this praise has been prepared for you
+- इयं गीः (*iyaṃ gīḥ*)—this speech of praise has been made
+- वृषणा (*vṛṣaṇā*)—O Aśvin deities, granters of desires
+- इमां सुवृक्तिं (*imāṃ suvṛktiṃ*)—this praise-speech made by us
+- जुषेथां (*juṣethāṃ*)—accept
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these our acts of praise
+- युवयूनि (*yuvayūni*)—desiring your service
+- अग्मन् (*agman*)—may they come and reach you
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, this praise has been made and made ready for you. O Aśvins, granters of desires, accept this praise-speech made by us. May these our acts of praise, desiring your service, come and reach you. Always protect us with blessings.
+
+##### English translation
+This adoration, Aswins, this praise (is for you): be gratified, showerers (of benefits), by this laudation : may these eulogies, addressed to you, reach you : and do you ever cherish us with blessings.
+
+## Sūkta 71 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाके एकोनविंशति सूक्तानि । तत्राप स्वसुरिति षडृचं प्रथमं सूक्तं त्रैष्टुभमाश्विनं । अनुक्रम्यते च । अप स्वसुः षडिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the fifth anuvāka there are nineteen sūktas. Of them the first is the six-verse sūkta अप स्वसुः (*apa svasuḥ*), in the Triṣṭubh metre, addressed to the Aśvins. The Anukramaṇī says: अप स्वसुः षट् (*apa svasuḥ ṣaṭ*). The viniyoga has been stated already.
+
+##### Anuvāda
+
+In the fifth anuvāka of the seventh maṇḍala of the Ṛgveda Saṃhitā there are nineteen sūktas; of them this sūkta beginning अप स्वसुः (*apa svasuḥ*) is the first. It has six Ṛks. The seer of this sūkta is Vasiṣṭha; the deities are the Aśvins; the metre is Triṣṭubh. In the Anukramaṇī it is said: अप स्वसुः षट् (*apa svasuḥ ṣaṭ*). The viniyoga has been stated before.
+
+### Printed p. 530
+Sūkta 71; Maṇḍala 7; Anuvāka 5; Aṣṭaka 5; Adhyāya 5; Varga 18. Number of Ṛks in the sūkta: 6. Seer: Vasiṣṭha. Deity: the Aśvins. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ स्वसु॑रु॒षसो॒ नग्जि॑हीते रि॒णक्ति॑ कृ॒ष्णीर॑रु॒षाय॒ पंथां॑ ।  
+> अश्वा॑मघा॒ गोम॑घा वां हुवेम॒ दिवा॒ नक्तं॒ शरु॑म॒स्मद्यु॑योतं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । स्वसुः । उषसः । नक् । जिहीते । रिणक्ति । कृष्णीः । अरुषाय । पंथां ।  
+> अश्वऽमघा । गोमघा । वां । हुवेम । दिवा । नक्तं । शरुं । अस्मत् । युयोतं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वसुः स्वसृस्थानीयाया उषसः सकाशान्नक्तं रात्रिरप जिहीते । अपगच्छति । तस्या अवकाशं दत्वा स्वयमपगच्छतीत्यर्थः । स्वसा स्वस्रे ज्यायस्यै योनिमारैक् । ऋ. १-१२४-८ । इत्युक्तं । कृष्णीः कृष्णवर्णा रात्रिररुषायोरोचमानायोऽह्ने सूर्याय वा पंथां पंथानं मार्गं रिणक्ति । रेचयति । यस्मादेवं तस्माद्युवयोरागमनसमयत्वात् हे अश्वामघौ अश्वधनौ हे गोमघा गोधनौ । उभयोः प्रदातारावित्यर्थः । ईदृशौ वां युवां हुवेम । स्तुमः । आह्वयामः । दिवा नक्तं सर्वदा शरुं हिंसकमस्मदस्मत्तो युयोतं । पृथक्कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+From स्वसुः (*svasuḥ*), from Uṣas who stands in the place of a sister, the night अप जिहीते (*apa jihīte*) departs: giving her room, she goes away herself. This is said elsewhere: स्वसा स्वस्रे ज्यायस्यै योनिमारैक् (*svasā svasre jyāyasyai yonimāraik*) (Ṛ. Saṃ. 1-124-8). The dark-coloured night clears the path for the shining one, either the day or the sun. Since this is so, and since it is the time of your coming, O अश्वामघौ (*aśvāmaghau*) (rich in horses) and गोमघा (*gomaghā*) (rich in cattle), that is, givers of both, we praise and call you such. Day and night, always, separate the harmful foe from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वसुः (*svasuḥ*)—of her own sister
+- उषसः (*uṣasaḥ*)—from Uṣas
+- नक् (*nak*)—the night
+- अप जिहीते (*apa jihīte*)—moves far away
+- कृष्णीः (*kṛṣṇīḥ*)—the night, full of darkness
+- अरुषाय (*aruṣāya*)—for the shining sun
+- पंथां (*paṃthāṃ*)—the path
+- रिणक्ति (*riṇakti*)—sets right
+- अश्वामघा (*aśvāmaghā*)—you who have wealth in the form of horses
+- गोमघा (*gomaghā*)—you who have wealth in the form of cattle, O Aśvin deities
+- वां (*vāṃ*)—you
+- हुवेम (*huvema*)—we praise and call
+- दिवानक्तं (*divānaktaṃ*)—throughout days and nights
+- शरुं (*śaruṃ*)—the harmful enemy
+- अस्मत् (*asmat*)—from us
+- युयोतं (*yuyotaṃ*)—separate
+
+### Printed p. 531
+
+##### भावार्थ (Bhāvārtha)
+
+The night moves away from Uṣas, her sister. The night, full of deep darkness, sets the path right for the shining sun. O Aśvins, possessors of wealth of horses and of cattle, we praise and call you. At all times keep our harmful enemy far away.
+
+##### English translation
+Night retires before the dawn, the sister (of the Ashwins) : the dark night leaves the path clear for the radiant (sun): upon you, who are affluent in horses, affluent in cattle, we call day and night : keep away from us the malevolent.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒पाया॑तं दा॒शुषे॒ मर्त्या॑य॒ रथे॑न वा॒मम॑श्विना॒ वहं॑ता ।  
+> यु॒यु॒तम॒स्मदनि॑रा॒ममी॑वां॒ दिवा॒ नक्तं॑ माध्वी॒ त्रासी॑थां  
+> नः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपऽआयातं । दाशुषे । मर्त्याय । रथेन । वामं । अश्विना । वहंता ।  
+> युयुतं । अस्मत् । अनिरां । अमीवां । दिवा । नक्तं । माध्वी इति । त्रासीथां । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवामुपायातं । उपागच्छतमस्मदाह्वानं प्रति । किमर्थं । दाशुषे हविषां दात्रे यजमानाय तदर्थं रथेन वामं वननीयं धनं वहंता वहंतौ । अस्मदस्मत्तो युयुतं । पृथक्कुरुतं । किं । अनिरां । इरान्नं । तदन्नदारिद्र्यमित्यर्थः । अमीवां रोगं च । हे माध्वी मधुमंतौ युवां नोऽस्मान् दिवा नक्तं सर्वदा त्रासीथां । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come near, to our invocation. For what? For the worshipper who gives oblations, bringing in the chariot वामं (*vāmaṃ*), desirable wealth. Separate from us अनिरां (*anirāṃ*): इरा (*irā*) is food, so this means poverty in food; and अमीवां (*amīvāṃ*), disease. O माध्वी (*mādhvī*), sweet ones, protect us day and night, always.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माध्वी (*mādhvī*)—you who are endowed with honey
+- अश्विना (*aśvinā*)—O Aśvin deities
+- दाशुषे (*dāśuṣe*)—who offers oblation
+- मर्त्याय (*martyāya*)—for the sacrificer
+- रथेन (*rathena*)—with your chariot
+- वामा (*vāmā*)—attractive
+### Printed p. 532
+- धनवन्नु (*dhanavannu*) is not Sanskrit; it continues: wealth
+- वहंता (*vahaṃtā*)—bearing
+- उपायातं (*upāyātaṃ*)—come
+- अस्मत् (*asmat*)—from us
+- अनिरां (*anirāṃ*)—poverty, lacking food
+- युयुतं (*yuyutaṃ*)—separate
+- अमीवां (*amīvāṃ*)—from disease
+- नः (*naḥ*)—us
+- दिवा नक्तं (*divā naktaṃ*)—day and night
+- त्रासीथां (*trāsīthāṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, endowed with honey, come with your chariot bringing attractive wealth for the sacrificer who offers oblations. Remove poverty from us. Protect us always, keeping us free of disease.
+
+##### English translation
+Come to the mortal, the donor (of oblations), bringing desired wealth in your chariot : keep afar from us famine and sickness : day and night, Madhwis, protect us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ रथ॑मव॒मस्यां॒ व्यु॑ष्टौ सुम्ना॒युवो॒ वृष॑णो वर्तयंतु ।  
+> स्यूम॑गभस्तिमृत॒युग्भि॒रश्वै॒राश्वि॑ना॒ वसु॑मंतं वहेथां ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । रथं । अवमस्यां । विऽउष्टौ । सुम्नऽयवः । वृषणः । वर्तयंतु ।  
+> स्यूमगभस्तिं । ऋतयुक्ऽभिः । अश्वैः । आ । अश्विना । वसुमंतं । वहेथां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अवमस्यामासन्नायां व्युष्टौव्युच्छन उषसि वां युवयो रथं सुम्नायुवः सुखेन योजयंतोऽश्वा वृषणो वर्षका युवामा वर्तयंतु । स्यूमगभस्तिं सुखरश्मिं व्यातरश्मिं वसुमंतं प्रदेयधनयुक्तं रथं हे अश्विनाश्विनावृतयुग्भिरुदकयुक्तैरश्वैरुदकप्रद्वैरश्वैरा वहेथां ॥
+
+##### Gist of the bhāṣya
+
+In the approaching dawn व्युष्टौ (*vyuṣṭau*), may the horses, showering ones, सुम्नायुवः (*sumnāyuvaḥ*) (yoking comfortably), turn your chariot hither. O Aśvins, convey with horses ऋतयुग्भिः (*ṛtayugbhiḥ*) (yoked with water, that is, water-bestowing) the chariot स्यूमगभस्तिं (*syūmagabhastiṃ*) (with comfortable reins, spread-out rays), laden with wealth to be given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अवमस्यां (*avamasyāṃ*)—manifesting and approaching
+- व्युष्टौ (*vyuṣṭau*)—at this time of dawn
+- वां (*vāṃ*)—your
+- सुम्नायुवः (*sumnāyuvaḥ*)—bringers of comfort
+- वृषणः (*vṛṣaṇaḥ*)—youthful
+### Printed p. 533
+horses
+- रथं (*rathaṃ*)—your chariot
+- आ वर्तयंतु (*ā vartayaṃtu*)—let them bring
+- स्यूमगभस्तिं (*syūmagabhastiṃ*)—having comfortable rays
+- वसुमंतं (*vasumaṃtaṃ*)—laden with wealth, your chariot
+- ऋतयुग्भिः (*ṛtayugbhiḥ*)—bearing waters
+- अश्वैः (*aśvaiḥ*)—with horses
+- आ वहेथां (*ā vahethāṃ*)—have it borne hither
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, at this time when Uṣas appears and approaches, may your comfort-bringing, youthful horses bring your chariot. Have your chariot, with comfortable rays and laden with wealth, borne hither by horses carrying waters.
+
+##### English translation
+may your docile and vigorous (horses) bring hither your chariot at the approaching dawn : conduct hither, Ashwins, your radianting, wealth-laden chariot, with your rain-bestowing steeds.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॒ रथो॑ नृपती॒ अस्ति॑ वो॒ळ्हा त्रि॑वंधु॒रो वसु॑मा उ॒स्रया॑मा ।  
+> आ न॑ ए॒ना ना॑स॒त्योप॑ यातम॒भि यद्वां॑ वि॒श्वप्स्न्यो॒ जिगा॑ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । रथः । नृपती इति नृपती । अस्ति । वोळ्हा । त्रिवंधुरः । वसुमान् ।  
+> उस्रयामा ।  
+> आ । नः । एना । नासत्या । उप । यातं । अभि । यत् । वां । विश्वप्स्न्यः । जिगाति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृपती नृणां यजमानानां पालकावश्विनौ वां युवयोर्यो रथो वोळ्हा युवयोर्वाहकोऽस्ति सर्वदा सन्निहितो वर्तते । कीदृशोऽसौ । त्रिवंधुरः सारथ्यधिष्ठानस्थानत्रयोपेतो वसुवान्धनवानुस्रयामोस्रं दिवसं प्रति गंता । एनैतेन रथेन हे नासत्याश्विनौ नोऽस्मानुपा यातं । यद्रथो यश्च रथो वां विश्वप्स्न्यो व्याप्तरूपोऽभि जिगाति अभिगच्छति । अथवाह । यद्यस्माद्विश्वप्स्न्यो वसिष्ठो वां जिगाति स्तौति अत उपायातं ॥
+
+##### Gist of the bhāṣya
+
+O lords of men, protectors of the sacrificers, the chariot that is your bearer is always present. How is it? त्रिवंधुरः (*trivaṃdhuraḥ*): having three places for the driver's seat and standing; वसुवान् (*vasuvān*): wealthy; उस्रयामा (*usrayāmā*): going towards each day. With this chariot, O Nāsatyas, come to us, the chariot which, of all-pervading form विश्वप्स्न्यः (*viśvapsnyaḥ*), approaches you. Or else he says: since विश्वप्स्न्यः (*viśvapsnyaḥ*), Vasiṣṭha, praises you, therefore come.
+
+### Printed p. 534
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृपती (*nṛpatī*)—protectors of sacrificers
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- वां (*vāṃ*)—your
+- यः रथः (*yaḥ rathaḥ*)—which chariot
+- वोळ्हा (*voḷhā*)—is the bearer of you
+- अस्ति (*asti*)—is, such a one
+- त्रिवंधुरः (*trivaṃdhuraḥ*)—having three seats
+- वसुमान् (*vasumān*)—endowed with wealth
+- उस्रयामा (*usrayāmā*)—moving towards the day (and)
+- यत् (*yat*)—which chariot
+- विश्वप्स्न्यः (*viśvapsnyaḥ*)—having many forms
+- वां (*vāṃ*)—you
+- अभि जिगाति (*abhi jigāti*)—approaches
+- एना (*enā*)—with such a chariot
+- नः (*naḥ*)—to us
+- उप आ यातं (*upa ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, protectors of sacrificers, with that chariot of yours which bears you, which approaches you with many forms, which has three seats, is laden with wealth and moves towards the day, come to us.
+
+##### English translation
+With that chariot, lords of men, which is your vehicle, which has three benches, is laden with wealth, and is the precursor of day, come, Nasatyas, to us ; with that chariot wich traverses (the sky) as your all-pervading form.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं च्यवा॑नं ज॒रसो॑ऽमुमुक्तं॒ नि पे॒दव॑ ऊहथुरा॒शुमश्वं॑ ।  
+> निरंह॑स॒स्तम॑सः स्पर्त॒मत्रिं॒ नि जा॑हु॒षं शि॑थि॒रे धा॑तमं॒तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । च्यवानं । जरसः । अमुमुक्तं । नि । पेदवे । ऊहथुः । आशुं । अश्वं ।  
+> निः । अंहसः । तमसः । स्पर्तं । अत्रिं । नि । जाहुषं । शिथिरे । धातं । अंतरिति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना युवं युवां च्यवानं जरसो जीर्णाद्रूपादमुमुक्तं । अमुंचतं । युवं च्यवानमश्विना जरंतं पुनर्युवानं । ऋ. १-११६-१० । इति ह्यन्यत्र । तथा पेदव एतन्नामकाय राज्ञ आशुं शीघ्रगामिनमश्वं निरतिहथुः । न्यवहतं युद्धे । युवं श्वेतं पेदवे । ऋ. १-११९-९ । इति निगमः । तथात्रिं
+
+##### Gist of the bhāṣya
+
+O Aśvins, you freed Cyavāna from जरसः (*jarasaḥ*), from decrepit form; elsewhere it is said: युवं च्यवानमश्विना जरंतं पुनर्युवानं (*yuvaṃ cyavānamaśvinā jaraṃtaṃ punaryuvānaṃ*) (Ṛ. Saṃ. 1-116-10). Likewise for the king named Pedu you conveyed the swift horse in battle; the Nigama is युवं श्वेतं पेदवे (*yuvaṃ śvetaṃ pedave*) (Ṛ. Saṃ. 1-119-9). And Atri …
+
 ---
 
-**Progress note:** Done through printed p. 528. pp. 523-528 (batch API)
+**Progress note:** Done through printed p. 534. pp. 529-534 (batch API)
