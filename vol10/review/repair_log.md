@@ -353,3 +353,35 @@
 | 180 | `Uṇ. 4-?]` → `U. Sū. 4-457]` | SECOND-PASS S3: Kannada p.180 ಅನಿಹೃಷಿಭ್ಯಾಂ ಕಿಚ್ಚ (ಉ. ಸೂ. ೪-೪೫೭) |
 | 180 | `(Pā. Sū. 1-3-25) [as printed]` → `(Pā. Sū. 1-3-25-1) [as printed]` | SECOND-PASS S1: Kannada p.180 ಉಪಾದ್ದೇವಪೂಜಾಸಂ (ಪಾ. ಸೂ. ೧-೩-೨೫-೧) |
 | 181 | `Varga 8.)` → `Varga 9.)` | SECOND-PASS S1: Kannada head ವ. ೯ |
+
+### 2026-11-27 second pass, batch e182-211.tsv
+| page | old → new | why |
+|---|---|---|
+| 182 | `Ṛ. Saṃ. 1-103-7, as read from the print` → `Ṛ. Saṃ. 1-123-7, as read from the print` | SECOND-PASS S1: Kannada p.182 (ಋ. ಸಂ. ೧-೧೨೩-೭) |
+| 183 | `(Ni. 3-9; print "೩-೧೩" or similar, not clear to me)` → `(Ni. 3-13)` | SECOND-PASS S1: Kannada p.183 (ನಿ. ೩-೧೩) |
+| 183 | `(Ṛ. Saṃ. 10-63-16, as read from the print "೧೦-೬೩-೧೫".)` → `(Ṛ. Saṃ. 10-63-16.)` | SECOND-PASS S1: Kannada p.183 (ಋ. ಸಂ. ೧೦-೬೩-೧೬); the English remark that the print has 15 is wrong |
+| 183 | `[as printed, Uṇ. 4-?]` → `(U. Sū. 4-500)` | SECOND-PASS S3: Kannada p.183 ವಹಿವಸ್ಯರ್ತಿಭ್ಯಶ್ಚಿತ್—(ಉ. ಸೂ. ೪-೫೦೦) |
+| 183 | `*vāter ḍit* [print: "ವಾತೇರ್ಡಿತ್"] (U. Sū. 4-573 as read)` → `*vāterḍicca* (U. Sū. 4-573)` | SECOND-PASS S13: Kannada p.183 ವಾತೇರ್ಡಿಚ್ಚ—(ಉ. ಸೂ. ೪-೫೭೩); letters via sp_sanskrit |
+| 183 | `*patapum* [print: "ಪತ ಪುಮ್", Pā. Sū. 7-4-19]` → `*pataḥ pum* (Pā. Sū. 7-4-19)` | SECOND-PASS S13: Kannada p.183 ಪತಃ ಪುಮ್—(ಪಾ. ಸೂ. ೭-೪-೧೯); letters via sp_sanskrit |
+| 186 | `(Pā. Sū. 7-4-94)` → `(Pā. Sū. 7-4-49)` | SECOND-PASS S1: Kannada p.187 ದೀರ್ಘೋಲಘೋಃ(ಪಾ. ಸೂ. ೭-೪-೪೯) |
+| 187 | `*grahijyāvayi…* (Pā. Sū. 6-1-16) gives` → `*grahijyāvayi…* gives` | SECOND-PASS S3: Kannada p.187 ಗ್ರಹಿಜ್ಯಾವಯಿ—ಎಂಬುದರಿಂದ prints no sūtra number; number the print has not is removed |
+| 192 | `The queen, being old and ugly, was ashamed to cohabit with the ṛṣi, and` → `The queen, ashamed to cohabit with the old and ugly ṛṣi, and` | SECOND-PASS S15: Kannada p.192 ವೃದ್ಧನಾಗಿಯೂ ಕುರೂಪಿಯಾಗಿಯೂ ಇದ್ದ ಋಷಿಯೊಡನೆ: old and ugly is the ṛṣi, not the queen |
+| 192 | `made her a ṛṣi's wife, purified her,` → `made her pure like a ṛṣi's daughter,` | SECOND-PASS S14: Kannada p.192 ಋಷಿಪುತ್ರಿಯಂತೆ ಶುದ್ಧಳನ್ನಾಗಿ ಮಾಡಿ |
+| 193 | `वीड्वङ्गान्नै [?] चतुर्युजः` → `वीड्वङ्गान्वै चतुर्युजः` | SECOND-PASS Q1: Kannada p.193 ವೀಡ್ವಂಗಾನ್ವೈ ಚತುರ್ಯುಜಃ: vai (letters copied from the Kannada: ವೈ) |
+| 193 | `vīḍvaṅgānnai [?] caturyujaḥ` → `vīḍvaṅgānvai caturyujaḥ` | SECOND-PASS Q1: Kannada p.193 ವೀಡ್ವಂಗಾನ್ವೈ ಚತುರ್ಯುಜಃ: vai (twin of the Devanagari edit) |
+| 193 | `U. Sū. 3-94 as read` → `U. Sū. 2-294` | SECOND-PASS S1: Kannada p.193 ರಮೇಸ್ತ ಚ—(ಉ. ಸೂ. ೨-೨೯೪) |
+| 193 | `*natn* [print: "ನಟ್"?]` → `*naj*` | SECOND-PASS S13: Kannada p.193 ನಜ್ ಪ್ರತ್ಯಯ; letters via sp_sanskrit |
+| 197 | `(Pā. Sū. 6-2-172)` → `(Pā. Sū. 6-2-122)` | SECOND-PASS S1: Kannada p.197 ನಞ್ ಸುಭ್ಯಾಮ್—(ಪಾ. ಸೂ. ೬-೨-೧೨೨) |
+| 200 | `(Ṛ. Saṃ. 1-114-1, as read from the print.)` → `(Ṛ. Saṃ. 10-92-9.)` | SECOND-PASS S1: Kannada p.201 ಸ್ತೋಮಂ ವೋ ಅದ್ಯ ರುದ್ರಾಯ… (ಋ. ಸಂ. ೧೦-೯೨-೯) as printed |
+| 202 | `(Ṛ. Saṃ. 9-80-2, as read from the print.)` → `(Ṛ. Saṃ. 9-90-5.)` | SECOND-PASS S1: Kannada p.202 ಮತ್ಸಿ ಸೋಮ ವರುಣಂ… (ಋ. ಸಂ. ೯-೯೦-೫) |
+| 203 | `(U. Sū. 4-165 as read)` → `(U. Sū. 4-604)` | SECOND-PASS S1: Kannada p.203 ಪುವೋ ಹ್ರಸ್ವಶ್ಚ—(ಉ. ಸೂ. ೪-೬೦೪) |
+| 203 | `*hetumati ca* gives *ṇic*` → `*hetumati ca* (Pā. Sū. 3-1-26) gives *ṇic*` | SECOND-PASS S3: Kannada p.203 ಹೇತುಮತಿ ಚ (ಪಾ. ಸೂ. ೩-೧-೨೬) |
+| 203 | `(Pā. Sū. 6-2-1)` → `(Pā. Sū. 6-2-2)` | SECOND-PASS S1: Kannada p.203 ಬಹುವ್ರೀಹೌ ಪ್ರಕೃತ್ಯಾ ಪೂರ್ವಪದಂ (ಪಾ. ಸೂ. ೬-೨-೨) |
+| 205 | `(Ṛ. Saṃ. 8-41-2, as read from the print.)` → `(Ṛ. Saṃ. 8-69-12.)` | SECOND-PASS S1: Kannada p.205 (ಋ. ಸಂ. ೮-೬೯-೧೨) |
+| 205 | `(Ṛ. Saṃ. 3-41-1, as read from the print.)` → `(Ṛ. Saṃ. 2-11-1.)` | SECOND-PASS S1: Kannada p.205 (ಋ. ಸಂ. ೨-೧೧-೧) |
+| 206 | `(Ni. 5-24, as printed "೩-೨೪" or similar — doubtful)` → `(Ni. 5-24)` | SECOND-PASS S1: Kannada p.206 (ನಿ. ೫-೨೪) |
+| 207 | `(Pā. Sū. 7-1-102)` → `(Pā. Sū. 3-1-102)` | SECOND-PASS S1: Kannada p.207 ಉದೋಷ್ಯಪೂರ್ವಸ್ಯ(ಪಾ. ಸೂ. ೩-೧-೧೦೨) |
+| 210 | `(Ṛ. Saṃ. 1-166-50, as read from the print.)` → `(Ṛ. Saṃ. 1-164-50.)` | SECOND-PASS S1: Kannada p.210 (ಋ. ಸಂ. ೧-೧೬೪-೫೦) |
+| 210 | `(Chā. U. 3-10-3, as read from the print "೩-೧೦-೩".)` → `(Chā. U. 2-10-5.)` | SECOND-PASS S1: Kannada p.210 (ಛಾ. ಉ. ೨-೧೦-೫) |
+| 211 | `(U. Sū. 2-50 as read)` → `(U. Sū. 2-208)` | SECOND-PASS S1: Kannada p.211 ದ್ರುದಕ್ಷಿಭ್ಯಾಮಿನನ್(ಉ. ಸೂ. ೨-೨೦೮) |
+| 211 | `(Pā. Sū. 6-1-197)` → `(Pā. Sū. 6-1-192)` | SECOND-PASS S1: Kannada p.211 ಇತ್ಯಾದಿರ್ನಿತ್ಯಮ್(ಪಾ. ಸೂ. ೬-೧-೧೯೨) |

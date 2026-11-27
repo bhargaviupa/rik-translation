@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 190 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181)
-- **Findings:** 350 — applied 290, kept/not applied 60 (English kept: misprints and doubts settled by rule; see part 5); edits ok 309, failed 0
-- **Reader tokens (batches so far):** 1572k; per page 8.3k
-- **Last commit:** 750bb9d6
+- **Pages read:** 220 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211)
+- **Findings:** 383 — applied 318, kept/not applied 65 (English kept: misprints and doubts settled by rule; see part 5); edits ok 337, failed 0
+- **Reader tokens (batches so far):** 1785k; per page 8.1k
+- **Last commit:** (this commit)
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
@@ -18,24 +18,25 @@
 | 5 | 92–121 | 43 | 30 | 34 / 0 | 13 | 268k | 3ef7390f | all pages read; 15 [?] seen, 8 removed, 7 kept |
 | 6 | 122–151 | 29 | 20 | 24 / 0 | 9 | 237k | 47f213ba | all pages read; 15 [?] seen, 8 removed, 7 kept |
 | 7 | 152–181 | 46 | 37 | 37 / 0 | 9 | 255k | 750bb9d6 | all pages read; 21 [?] seen, 7 removed, 14 kept |
+| 8 | 182–211 | 33 | 28 | 28 / 0 | 5 | 213k | (this commit) | all pages read; 7 [?] seen, 2 removed, 5 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| S3 | 118 | 1 | 119 |
-| S1 | 50 | 0 | 50 |
-| Q2 | 5 | 43 | 48 |
+| S3 | 121 | 1 | 122 |
+| S1 | 68 | 0 | 68 |
+| Q2 | 5 | 48 | 53 |
 | S2 | 31 | 3 | 34 |
-| Q1 | 31 | 0 | 31 |
-| S13 | 26 | 4 | 30 |
-| S14 | 18 | 2 | 20 |
+| Q1 | 33 | 0 | 33 |
+| S13 | 29 | 4 | 33 |
+| S14 | 19 | 2 | 21 |
 | H29 | 0 | 5 | 5 |
 | S16 | 5 | 0 | 5 |
 | S7 | 5 | 0 | 5 |
+| S15 | 2 | 0 | 2 |
 | S18 | 0 | 2 | 2 |
-| S15 | 1 | 0 | 1 |
 
-By reader: R1 327, R3 18, R6 5
+By reader: R1 357, R3 18, R6 8
 
 ## 4. Open items (not findings)
 - **other** (pages 307): running head Varga printed ವ. ೧೭ (neighbouring heads ವ. ೧೩); applied as printed (Varga 17)
@@ -49,7 +50,7 @@ By reader: R1 327, R3 18, R6 5
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 64 Kannada misprints where the English is kept (`kn_misprints.tsv`); 22 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 72 Kannada misprints where the English is kept (`kn_misprints.tsv`); 26 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol10/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
