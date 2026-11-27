@@ -11383,6 +11383,140 @@ The scholar Max Muller, examining the original meaning of ṛta and its developm
 "In the physical world there rules a regular order ऋत (*ṛta*), which is clearly an inheritance from the physical; it is an easy step to the conception of the ऋत (*ṛta*),............ in the moral world".
 " The term for Cosmic order, ऋत (*ṛta*) and and its opposite अनृत (*anṛta*) express also moral order as in the dialogue of Yama and Yami. ऋत (*ṛta*) forbids and
 
+### Printed p. 475
+(Keith:) "... ऋत (*ṛta*) forbids and doubtless also commands positive action. ऋत (*ṛta*) is more than truth, सत्य (*satya*). Law is denoted by धर्म (*dharma*), which denotes that which supports and that which is supported ; It applies like ऋत (*ṛta*) to all aspects of the world, to the sequence of of events in Nature, to the sacrifice and to man's life."
+
+Whenever the universal order in the physical world is described, that order is indicated by the word ऋत (*ṛta*) itself. In the same way, in man's moral conduct also, the words ऋत (*ṛta*) and its opposite अनृत (*anṛta*) denote man's moral law and immoral conduct. Because man's sacrificial rite is directly related to both physical and moral affairs, ऋत (*ṛta*) has also been used as a synonym of sacrifice. For that reason it is also a word equivalent to सत्य (*satya*) (truth), or rather it gives more meaning than the sense indicated by the word सत्य (*satya*). This is the gist of the sentences above.
+
+The description that all the deities, whether individually or collectively, are presiding over ऋत (*ṛta*) and are engaged in action through ऋत (*ṛta*) itself is stated again and again in the Ṛksaṃhitā. If one mantra that fully conveys this idea is taken as an example, the point becomes clear.
+
+हंसः कुचिषद्वसुरंतरिक्षसद्योता वेदिषदतिथिर्दुरोणसत् । नृषद्वरसदृतसद्योमसदब्बा गोजा ऋतजा अद्रिजा ऋतं ॥ (*haṃsaḥ kuciṣadvasuraṃtarikṣasadyotā vediṣadatithirduroṇasat | nṛṣadvarasadṛtasadyomasadabbā gojā ṛtajā adrijā ṛtaṃ ‖*) (Ṛ. Saṃ. 4-40-5)
+
+In this Ṛk the universal order is stated. In the universe every individual's own fixed place is ordained by ऋत (*ṛta*). How? The Āditya's place is in the sky, the Hotṛ's place is on the sacrificial altar, the guest's place is in the house. But the place of ऋत (*ṛta*) alone is all-pervading. The description of this mantra is that ऋत (*ṛta*) pervades the earth, the atmosphere, men, gods, sacrifices and the like, the Āditya's works and mountains and the like, and so spreads through the whole universe. This is a context that tells of the spiritual and moral principle of the universe. Describing the greatness of this ऋत (*ṛta*), the scholar Bloomfield has said as follows.
+
+"If therefore an ethics of the Rig-veda, rooted in the concept of Ritaf be at all conceded, it is not to be construed as an ethies o, naturalism with its apothesis of la bete humaine. It provides in the stricter sense, an ethics in accordance with the highest human
+
+### Printed p. 476
+idual which was destined to realise all its ethical implications in the Law of कर्म (*karma*). Of that there is surely no room for misgivings ; for accredited exponents of the philosophy and history of religion, like Pfleiderer, view the Rita and Karma of the Hindus as more or less hyphenated in their nature, and classify them on grounds of functional similarity, with the Nemesis of the Greeks, the Ashavaista of the Persians and the Tao of the Chinese"
+
+As said above, these sentences too state that ऋत (*ṛta*) is a word that expresses the principle reflecting the universal order, and say that it conveys the same idea as the words Nemesis, Tao and the like, found in the beliefs of other peoples. But another point must be noted here. The word ऋत (*ṛta*) is used in the plural in many contexts. In those contexts it is not proper to interpret it as universal order. Likewise in still other contexts another meaning has to be given, according to the context. Therefore the special meanings of this word will be examined closely along with one or two examples of such contexts.
+
+वि श्रयंतामृतावृधो द्वारो देवीरसश्चतः । अद्या नूनं च यष्टवे ॥ (*vi śrayaṃtāmṛtāvṛdho dvāro devīrasaścataḥ | adyā nūnaṃ ca yaṣṭave ‖*) (Ṛ. Saṃ. 1-13-6)
+
+Here the deities called the Devī Dvāras are addressed as ऋतावृधरु (*ṛtāvṛdharu*). Here it is understood to mean protection of the sacrifice. ऋत (*ṛta*) must here be a synonym of sacrifice. And,
+
+नमस्यत हव्यदातिं स्वध्वरं दुवस्यत दम्यं जातवेदसं । रथीर्यतस्य बृहतो विचर्षणिरग्निर्देवानामभवत्पुरोहितः ॥ (*namasyata havyadātiṃ svadhvaraṃ duvasyata damyaṃ jātavedasaṃ | rathīryatasya bṛhato vicarṣaṇiragnirdevānāmabhavatpurohitaḥ ‖*) (Ṛ. Saṃ. 3-2-8)
+
+Here Agni is described as the charioteer of ऋत (*ṛta*); here ऋत (*ṛta*) must mean sacrifice. There is no room for any other meaning. But,
+
+ससस्य यद्वियुता सस्मिन्नूधन्नृतस्य धामन्रणयंत देवाः । महा अग्निर्नमसा रातहव्यो वेरध्वराय सदमिदृतावा ॥ (*sasasya yadviyutā sasminnūdhannṛtasya dhāmanraṇayaṃta devāḥ | mahā agnirnamasā rātahavyo veradhvarāya sadamidṛtāvā ‖*) (Ṛ. Saṃ. 4-7-7)
+
+In this Ṛk it can be explained in two ways. First, there are two words, ऋतस्य धाम (*ṛtasya dhāma*) and ऋतावा (*ṛtāvā*). For the first, ऋतस्य (*ṛtasya*), Sāyaṇa gives "water", and for the second, in ऋतावा (*ṛtāvā*), he gives for the word ऋत (*ṛta*) the sense "possessor of truth" as the first meaning. As the second, he explains ऋतस्य धाम (*ṛtasya dhāma*) as सत्यस्य योनिः (*satyasya yoniḥ*), that is, the sacrifice, and ऋतावा (*ṛtāvā*) as "possessor of truth". Or else, since the sacrifice, which builds up the mutual relation between gods and men, is itself what maintains the universal order whose nature is truth,
+
+### Printed p. 477
+ऋत (*ṛta*) is a word that shows the identity of sacrifice and truth. For example—
+
+ऋतमृतेन सपंतेषिरं दक्षमाशाते । अद्रुहा देवौ वर्धेते ॥ (*ṛtamṛtena sapaṃteṣiraṃ dakṣamāśāte | adruhā devau vardhete ‖*) (Ṛ. Saṃ. 56-4) **NOTE**
+
+Here Mitra and Varuṇa are praised as those who foster ऋत (*ṛta*) by ऋत (*ṛta*). This sentence describes the sacrifice whose nature is truth and the truth whose nature is sacrifice. The idea in the sentence यज्ञेन यज्ञमयजंत देवाः (*yajñena yajñamayajaṃta devāḥ*) is the same as in this sentence. Since the sacrifice whose nature is truth maintains the universal order, it may be said that ऋत (*ṛta*) is a word reflecting both these principles. (The relation between ऋत (*ṛta*) and the deities such as Mitra and Varuṇa who protect ऋत (*ṛta*), and the point which deities are ऋतावृधरु (*ṛtāvṛdharu*), will be stated later.)
+
+In the present Ṛk, Lopāmudrā, desiring union with her husband Agastya, [states that] all the seers of former times, who were protectors of truth, protectors of sacrifice and who gained relation with the gods through sacrifice, attained the fulfilment of desire. She states that since man's desire is a natural wish of man, and failing to satisfy it would be unnatural conduct, and she desires her husband's company. From a Ṛk of the same sequence, later, at the time of the dialogue of Yama and Yamī, Yamī prays to her brother Yama. Saying that all the seers who walked following the rule of ऋतु (*ṛtu*) obtained the fulfilment of desire,
+
+ये चित्तूर्व ऋतसाप ऋतावान ऋतावृधः । पित्यून् तपस्वतो यम ताश्चिदेवापि गच्छतात् ॥ (*ye cittūrva ṛtasāpa ṛtāvāna ṛtāvṛdhaḥ | pityūn tapasvato yama tāścidevāpi gacchatāt ‖*) (Ṛ. Saṃ. 10-154-4)
+
+in this Ṛk she makes a prayer desiring Yama's company. But since the wife's prayer in the present Ṛk is just, her husband Agastya accepts it. The prayer in the Ṛk quoted, being made by the sister Yamī to her brother Yama, becomes immoral conduct.
+
+##### Grammar
+
+- ऋतसापः — आप्‌ल्य व्याप्तौ इति धातुः । क्विप् प्रत्ययः । छांदसत्वात् सकारः अधिकः आगच्छति । समासे कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- आसन् — हि च (पा. सू. ८-१-३८) इति निघातस्वर प्रतिषेधः आगच्छति । अतः अद्दुदात्तस्वरः भवति । **NOTE**
+
+### Printed p. 478
+- अवडन् — वद व्यक्तायां वाचि इति धातुः । लज् प्रथमपुरुष बहुवचनांतरूपम् । यद्योगत्वात् निघातस्वर प्रतिषेधः आगच्छति । अडागमस्वरेण आद्युदात्तः भवति ।
+- असुः — षोंतकर्मणि इति धातुः । अव इति उपसर्गसंबंधात् बिडुवुदु इत्यर्थे प्रयुक्तः । छांदसत्वात् वर्तमानार्थे लुज् । प्रथमपुरुष बहुवचनांतरूपम् । अतिहंतस्य परत्वात् निघातस्वरः आगच्छति ।
+- आपुः — आप्‌ल्य व्याप्तौ इति धातुः । लिट् प्रथमपुरुष बहुवचनांतरूपम् । हिचॆ इति निघातस्वर प्रतिषेधात् प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- पत्निः — सुपां सुलुक्- (प्रा. सू. ७-१-३९) इति जस् परे पूर्वसवर्णदीर्घः । **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न मृषा॑ श्रां॒तं यदवं॑ति दे॒वा विश्वा॒ इत्सृधो॑ अ॒भ्य॑श्चवाव ।  
+> जया॒वेदत्र॑ श॒तनी॑थमा॒जिं यत्स॒म्यंचा॑ मिथु॒नाव॒भ्यजः ॑व ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । मृषा । श्रांतं । यत् । अवंति । देवाः । विश्वाः । इत् । स्पृधः । अभि । अश्ववाव ।  
+> जयाव । इत् । अत्र । शतनीथं । अजिं । यत् । सम्यंचा । मिथुनौ । अभि । अजाव ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आगस्त्यामाह ॥
+> भोः पत्नि त्वया मया न मृषा श्रांतं । व्यर्थं नैव खिन्नमावाभ्यां ।
+> यद्यस्माद्देवा अवंति रक्षंति तपोभिः प्रीता देवाः । विश्वाः सर्वाः स्पृधोऽभ्यश्चवाव। अभितो व्याप्नुयाव । अत्रास्मिन्संसारे शतनीथमपरिमितभोगप्राप्ति साधनमाजिं
+> प्राप्तिं परस्परं जयाव । जयलक्षणं सुरतसंग्रामं वा जयाव । यद्यस्मात्सम्यंचा
+> सम्यक्परस्परं गच्छंतौ प्रजयंतौ ना मिथुना मिथुनौ स्त्रीपुरषरूपौ संतावभ्यजाव ।
+> त्वं चाहमपि परस्परमभिजयावेत्येवं तयोक्तं संभोगं संभावयामास ॥
+
+##### Gist of the bhāṣya
+
+Agastya speaks to his wife. "O wife, by you and me effort has not been spent in vain; we two have not laboured fruitlessly. Since the gods, pleased by austerities, protect us, let us two pervade, on all sides, all the longed-for desires (स्पृधः (*spṛdhaḥ*)). Here in this world let us win each other, आजिं (*ājiṃ*) being the means of attaining boundless enjoyment; or let us win the battle of love-union (सुरतसंग्रामं (*suratasaṃgrāmaṃ*)), which has conquest as its mark. Since, joining well with each other and conquering, being as man and woman a pair (मिथुनौ (*mithunau*)), we are to win—you and I conquer each other." Thus he gave his assent to the union she had proposed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भोः पत्नि (*bhoḥ patni*)—O wife, Lopāmudrā
+- यत् (*yat*)—for which reason
+- देवाः (*devāḥ*)—the gods
+- अवंति (*avaṃti*)—(pleased by our austerity) protect
+- (तत् (*tat*)—therefore)
+
+### Printed p. 479
+- मृषा (*mṛṣā*)—in vain
+- न श्रांतं (*na śrāṃtaṃ*)—(by us two) toil has not been borne
+- विश्वाः (*viśvāḥ*)—all
+- स्पृधः इत् (*spṛdhaḥ it*)—desires
+- अभि आश्वनाव (*abhi āśvanāva*)—let us obtain
+- अत्र (*atra*)—in this world
+- मिथुनौ (*mithunau*)—like man and woman
+- सम्यंचा (*samyaṃcā*)—well united with each other
+- यत् अभि अजाव (*yat abhi ajāva*)—(if we conquer each other) or if we strive well
+- शतनीथं (*śatanīthaṃ*)—the means of attaining boundless enjoyment
+- आजिं (*ājiṃ*)—mutual attainment
+- जयाव (*jayāva*)—we win
+- [or आजिं (*ājiṃ*)—the battle in the form of love-union; जयाव इत् (*jayāva it*)—(we two) shall surely win.]
+
+##### भावार्थ (Bhāvārtha)
+
+O wife, O Lopāmudrā, the gods, pleased by our austerity, protect us, and by their favour we obtain all our desires; so do not say that the toil we have borne is in vain. And in this world, if we two, husband and wife, united with each other, strive well, we can accomplish boundless enjoyments. (Let us two win the victory in the form of enjoyment in the battle of love-union.)
+
+##### English translation (H. H. Wilson)
+(Agastya)—Penance has not been practised in vain : since the gods protect us, we may indulge all our desires : in this world we may triumph in many conflicts, if we exert ourselves mutually together.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agastya gives his reply to his wife Lopāmudrā and gives his consent to union with her as she desired. But here another special point must be noted. In this conversation desire is not presented as the foremost aim of man. Only after the religious works such as sacrifices have all been performed, the gods thereby satisfied and their favour obtained, does Agastya declare this wish. In that, too, another point is to be noted. When he says न मृषा शांतं............ (*na mṛṣā śāṃtaṃ............*), that the toil we have borne to satisfy the gods does not become vain, it is well known that the gods' satisfaction is in turn for the sake of favouring man. Since worldly happiness is one of the rewards befitting this effort, Agastya desires to enjoy the worldly happiness to be acquired through the gods' favour.
+
+स्पृधः (*spṛdhaḥ*)—The authors of the Nirukta have read the word स्पृध (*spṛdha*) together with the names of battle. But in the present Ṛk Sāyaṇa has explained it as "desire". From the root स्पर्ध् (*spardh*) the formed word then also means "desire".
+
+### Printed p. 480
+Since restraint of desire is an extremely hard discipline, it is here compared to battle.
+
+आजिं (*ājiṃ*)—अजयनस्याजवनस्येति वा (*ajayanasyājavanasyeti vā*) (Ni. 9-23). Battle is called आजि (*āji*) either because it is the place of winning victory or because it is a place of speed. In explaining this word the authors of the Nirukta, citing the Ṛk in the Ṛksaṃhitā,
+
+न्यक्रंदयन्नु पयंत एनममेहयन् वृषभं मध्य आजेः । तेन सूभव० शतवत्सहस्रं गवां मुद्गलः प्रधने जिगाय ॥ (*nyakraṃdayannu payaṃta enamamehayan vṛṣabhaṃ madhya ājeḥ | tena sūbhava0 śatavatsahasraṃ gavāṃ mudgalaḥ pradhane jigāya ‖*) (Ṛ. Saṃ. 10-102-5)
+
+have given the above derivation for the word आजेः (*ājeḥ*) occurring there. In the present Ṛk also Sāyaṇa has given both meanings: first, आजिं परस्परप्राप्तिं (*ājiṃ parasparaprāptiṃ*), and second, सुरतरूपसंग्रामं वा (*suratarūpasaṃgrāmaṃ vā*).
+
+##### Grammar
+
+- श्रांतम् — श्रमु तपसि खेदे च इति धातुः । क्त प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- अवंति — अव रक्षणे इति धातुः । लट् प्रथमपुरुष बहुवचनांतरूपम् । यद्योगत्वात् निघातस्वरः न आगच्छति । शास्यदानुत्तेत्-(पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- अक्षवाव — अशू व्याप्तौ इति धातुः । स्वादिः । व्यत्ययो बहुलं (पा. सू. ३-४१-८५) इति परस्मैपदी भवति । लोट् उत्तमपुरुषः । द्विवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति । **NOTE**
+- जयाव — जि जये इति धातुः । लोट् उत्तम पुरुष द्विवचनांतरूपम् । पादादित्वात् निघातस्वरः न आगच्छति । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- शतनीथम् — णीञ् प्रापणे इति धातुः । हनिकुषिनीरमिकाशिभ्यः क्धन् (उ. सू. २-१५९) इति क्धन् प्रत्ययः । बहुव्रीहि समासे बहुव्रीहौ प्रकृत्यापूर्वपदम् इति पूर्वपदप्रकृति स्वरः आगच्छति । द्वितीया एकवचनांतरूपम् ।
+- सम्यंचा — सुपां सुलुक्-(पा. सू. ३-१-३९) इति द्विवचन ओकार विभक्तेः आकारादेशः ।
+- अजाव — अज गतिक्षेपणयोः इति धातुः । लोट् उत्तमपुरुष द्विवचनांतरूपम् । यद्योगत्वात् निघातस्वरः न आगच्छति । धातुस्वरः अवशिष्यते । ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 474. pp. 469-474 (batch API)
+**Progress note:** Done through printed p. 480. pp. 475-480 (batch API)
