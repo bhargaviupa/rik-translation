@@ -238,3 +238,45 @@
 | 89 | `(Yajus Saṃ. 8-18, as printed.)` → `(Yajus Saṃ. 8-15, as printed.)` | SECOND-PASS S1: Kannada p.89 (ಯ. ಪಾ. ಸಂ. ೮-೧೫) |
 | 89 | `*sanvallaghuni…* (Pā. Sū. 7-4-79) *i* in` → `*sanyataḥ* (Pā. Sū. 7-4-29) *i* in` | SECOND-PASS S13: Kannada p.90 ಸನ್ಯತಃ(ಪಾ. ಸೂ. ೭-೪-೨೯) (sp_sanskrit: sanyataḥ) |
 | 90 | `*śyas śyanor nityam* (Pā. Sū. 7-1-81; the first letter of each of the two words is medium)` → `*śyapśyanor nityam* (Pā. Sū. 3-1-81)` | SECOND-PASS S1: Kannada p.90 ಶ್ಯಪ್‌ಶ್ಯನೋರ್ನಿತ್ಯಂ (ಪಾ. ಸೂ. ೩-೧-೮೧) (sp_sanskrit: śyapśyanornityaṃ) |
+
+### 2026-11-27 second pass, batch e92-121.tsv
+| page | old → new | why |
+|---|---|---|
+| 93 | `Aṣṭaka 2, Adhyāya 1, Varga 5` → `Aṣṭaka 2, Adhyāya 1, Varga 4` | SECOND-PASS S1: Kannada p.93 head ವ. ೪ |
+| 94 | `the root *jani prādurbhāve*` → `the root *janī prādurbhāve*` | SECOND-PASS S13: Kannada p.94 ಜನೀ ಪ್ರಾದುರ್ಭಾವೇ |
+| 94 | `in the sense of the fifth case [*astāti*], the suffix *āti*` → `in the *astāti* [sense], the suffix *ati*` | SECOND-PASS S16: Kannada p.94 ಅಸ್ತಾತಿ ವಿಷಯದಲ್ಲಿ ಅತಿ ಪ್ರತ್ಯಯ; no fifth case |
+| 94 | `the *tip*-like singular ending` → `the second-person singular ending` | SECOND-PASS S14: Kannada p.94 ಮಧ್ಯಮಪುರುಷ ಏಕವಚನ ಪ್ರತ್ಯಯ |
+| 97 | `purandhirbahudhīstat[?]ḥ | purandhirbhagaḥ purastātsyā[?]deśa ityekam` → `purandhirbahudhīstatkaḥ | purandhirbhagaḥ purastāttasyānvādeśa ityekam` | SECOND-PASS Q1: Kannada p.97 same line; IAST twin |
+| 98 | `(Ṛ. Saṃ. 10-65-13, as printed;` → `(Ṛ. Saṃ. 10-85-13, as printed;` | SECOND-PASS S2: Kannada p.98 (ಋ. ಸಂ. ೧೦-೮೫-೧೩) |
+| 98 | `(Pā. Sū. 7-1-39 [as read: "7-3-39"])` → `(Pā. Sū. 7-3-39)` | SECOND-PASS S2: Kannada p.98 (ಪಾ. ಸೂ. ೭-೩-೩೯) |
+| 99 | `*supāṃ sulug…*, the lengthening. ‖ 6 ‖` → `*supāṃ sulug…* (Pā. Sū. 7-3-39), the lengthening. ‖ 6 ‖` | SECOND-PASS S3: Kannada p.99 (ಪಾ. ಸೂ. ೭-೩-೩೯) |
+| 101 | `the Dawn illumines them with her radiant chariot.` → `the Dawn illuminates them with her radiant chariot.` | SECOND-PASS S13: Kannada p.101 English Translation: "the Dawn illuminates them" |
+| 103 | `*halṅyābbhyo dīrghāt…* the loss of the suffix` → `*halṅyābbhyo dīrghāt…* (Pā. Sū. 6-1-68) the loss of the suffix` | SECOND-PASS S3: Kannada p.103 (ಪಾ. ಸೂ. ೬-೧-೬೮) |
+| 103 | `*ato vṛddhir luki hali* (Pā. Sū. 7-2-3 [as read]) *vṛddhi* of the *u*` → `*uto vṛddhir luki hali* (Pā. Sū. 7-3-89) *vṛddhi* of the *u*` | SECOND-PASS S2: Kannada p.103 ಉತೋ ವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ (ಪಾ. ಸೂ. ೭-೩-೮೯) |
+| 103 | `the root *dya abhigamane*` → `the root *dyu abhigamane*` | SECOND-PASS S13: Kannada p.103 ದ್ಯು ಅಭಿಗಮನೇ ಧಾತು |
+| 107 | `Aṣṭaka 2, Adhyāya 1, Varga 6` → `Aṣṭaka 2, Adhyāya 1, Varga 5` | SECOND-PASS S1: Kannada p.107 head ಅ. ೨. ಅ. ೧. ನ. ೫ (Varga 5) |
+| 107 | `(Ṛ. Saṃ. 1-50-25, as read.)` → `(Ṛ. Saṃ. 1-50-5, as read.)` | SECOND-PASS S2: Kannada p.107 (ಋ. ಸಂ. ೧-೫೦-೫) |
+| 107 | `"Varuṇa, Pāvaka, you who make the light of Jana (*janā anu bhuraṇyantam*) shine, remover o` → `"Varuṇa, Pāvaka, remover of darkness, maker of purity: you see the righteous people (*janā` | SECOND-PASS S14: Kannada p.107 ಜನಾ ಅನು ಭುರಣ್ಯಂತಂ ಪಶ್ಯಸಿ ... ನೀನು ಪುಣ್ಯವಂತರಾದ ಜನರನ್ನು ನೋಡುತ್ತೀಯೆ; no 'light of Jana' |
+| 109 | `Aṣṭaka 2, Adhyāya 1, Varga 6` → `Aṣṭaka 2, Adhyāya 1, Varga 5` | SECOND-PASS S1: Kannada p.109 head ವ. ೫ |
+| 112 | `*aharaha* — in the sense of constancy` → `*aharahaḥ* — in the sense of constancy` | SECOND-PASS S13: Kannada p.112 ಅಹರಹಃ |
+| 113 | `वंतस्थानीयानि [?] नीलपीतादीनि` → `वंतस्थानीयानि नीलपीतादीनि` | SECOND-PASS Q2: Kannada p.113 ವಂತಸ್ಥಾನೀಯಾನಿ ನೀಲಪೀತಾದೀನಿ: no word between; mark only removed |
+| 113 | `vaṃtasthānīyāni [?] nīlapītādīni` → `vaṃtasthānīyāni nīlapītādīni` | SECOND-PASS Q2: Kannada p.113 same; IAST twin |
+| 114 | `*kai netavyā*` → `*kva netavyā*` | SECOND-PASS S7: Kannada p.114 ಕ್ವ ನೇತವ್ಯಾ |
+| 115 | `Aṣṭaka 2, Adhyāya 1, Varga 6` → `Aṣṭaka 2, Adhyāya 1, Varga 5` | SECOND-PASS S1: Kannada p.115 head ನ. ೫ (Varga 5) |
+| 115 | `*ato lopaḥ* (Pā. Sū. 6-4-48)` → `*ato lopaḥ* (Pā. Sū. 6-4-49)` | SECOND-PASS S2: Kannada p.116 ಅತೋಲೋಪಃ (ಪಾ. ಸೂ. ೬-೪-೪೯) |
+| 115 | `*dīrgho 'kitaḥ* (Pā. Sū. 6-4-83)` → `*dīrgho 'kitaḥ* (Pā. Sū. 7-4-83)` | SECOND-PASS S2: Kannada p.116 ದೀರ್ಘೋಽಕಿತಃ (ಪಾ. ಸೂ. ೭-೪-೮೩) |
+| 115 | `As a young woman makes manifest the parts of her body, her bosom and so on,` → `As a young woman makes manifest the parts of her body, her teeth and so on,` | SECOND-PASS S14: Kannada p.115 ಯುವತಿಯು ತನ್ನ ದಂತಾದಿಯಾದ ಶರೀರದ ಅವಯವಗಳನ್ನು |
+| 117 | `*thāsaḥ se* (Pā. Sū. 3-4-80) gives` → `*thāsaḥ se* gives` | SECOND-PASS S16: Kannada p.117 ಧಾಸಃ ಸೇ has no sūtra number; number removed |
+| 119 | `saścidinnaro [?] bhūritokā` → `saścidinnaro bhūritokā` | SECOND-PASS Q2: Kannada p.119 same; IAST twin |
+| 121 | `दिनान्तरेष्वस्मा[?]यन्ति` → `दिनान्तरेष्वप्यायन्ति` | SECOND-PASS Q1: Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ (apy āyanti) |
+| 121 | `dināntareṣvasmā[?]yanti` → `dināntareṣvapyāyanti` | SECOND-PASS Q1: Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ; IAST twin |
+| 119 | `*kam* is also recorded among the names of happiness (Ni. 3-13)` → `*kam* is also recorded among the twenty names of happiness (Ni. 3-13)` | SECOND-PASS S3: Kannada p.119 ಇಪ್ಪತ್ತು ಸುಖನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೧೩) |
+| 121 | `come again to us on later days` → `come again even on later days` | SECOND-PASS S14: Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ (apy āyanti): no 'to us' |
+
+### 2026-11-27 second pass, batch e92-121_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 97 | `पुरन्धिर्बहुधीस्तत्[?]ः । पुरन्धिर्भगः पुरस्तात्स्या[?]देश इत्येकम्` → `पुरंधिर्बहुधीस्तत्कः । पुरंधिर्भगः पुरस्तात्तस्यान्वादेश इत्येकं` | SECOND-PASS Q1: Kannada p.97 ಪುರಂಧಿರ್ಬಹುಧೀಸ್ತತ್ಕಃ ... ತಸ್ಯಾನ್ವಾದೇಶ ... ಇತ್ಯೇಕಂ (real reading); Deva made by sp_sanskrit |
+| 114 | `| kaineyaṃ netavyeti vā |` → `| kveyaṃ netavyeti vā |` | SECOND-PASS S7: Kannada p.113/114 ಕ್ವೇಯಂ/ಕ್ವಯಂ ನೇತವ್ಯೇತಿ (kva iyam) |
+| 115 | `| vantsthānīyāni nīlapītādīni rūpāṇi` → `| dantasthānīyāni nīlapītādīni rūpāṇi` | SECOND-PASS S7: Kannada p.115 ದನ್ತಸ್ಥಾನೀಯಾನಿ ನೀಲಪೀತಾದೀನಿ ರೂಪಾಣಿ |
+| 119 | `saścidinnaro bhūritokā` → `saścidinnaro [?] bhūritokā` | SECOND-PASS Q2: mark restored: Kannada p.119 ನಿಷ್ಪಕ್ವಕ್ರಾಸಚ್ಚಿದಿನ್ನರೋ is a non-word, Devanagari mark cannot be removed; keep both |

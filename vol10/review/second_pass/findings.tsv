@@ -231,3 +231,46 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 89	Q2	R1	q57 remark mark	[?] in own remark (now stale: both [?] of the verse settled by the edit above)		remark not edited	kept	
 66	S3	R1	gamahanajana sūtra number	(Pā. Sū. -೪-೪೮)		Kannada p.66 prints the number without its first figure; not added	kept	
 69	S13	R1	Mahaśarśāra grammar: root ṛ vs ik	English: vṛddhi of the root ṛ		Kannada p.69 ಇಕ್ಕಿಗೆ (ik); different reading, English kept	kept	
+93	S1	R1	running head Varga	Varga 5	Varga 4	Kannada head ವ. ೪	applied	
+94	S13	R1	Vyākaraṇa Jāmiḥ	*jani prādurbhāve*	*janī prādurbhāve*	Kannada p.94 ಜನೀ ಪ್ರಾದುರ್ಭಾವೇ	applied	
+94	S16	R1	Paścā	in the sense of the fifth case [*astāti*], the suffix *āti*	in the *astāti* [sense], the suffix *ati*	Kannada p.94 ಅಸ್ತಾತಿ ವಿಷಯದಲ್ಲಿ ಅತಿ ಪ್ರತ್ಯಯ; no fifth case in Kannada	applied	
+94	S14	R1	Dadhyāḥ	the *tip*-like singular ending	the second-person singular ending	Kannada p.94 ಮಧ್ಯಮಪುರುಷ ಏಕವಚನ ಪ್ರತ್ಯಯ	applied	
+92	S2	R1	Ṛ. Saṃ. 7-41-2	7-41-2	(English kept)	Kannada ೭೪೧-೨ hyphen lost; English has real form	kept	
+92	H29	R3	vāmaṃ pūṣā nāmaṃ bhago	ನಾಮಂ	English kept	Kannada misprint ನ for ವ in the quotation	kept	
+93	H29	R3	jamatervā; dadhyāḥ heading	ಜಮತೀರ್ವಾ; ವಧ್ಯಾಃ	English kept	Kannada misprints ತೀ for ತೇ, ವ for ದ	kept	
+94	H29	R3	grammar names	ಅಸತ್ಯಂ, ಜ್ಯಷ್, ಶಾಸ್ಯನುದಾತ್ತೇತ್, ದ್ರುದಕ್ಷಿಭ್ಯಾಮ್, ಇತ್ಯಾದಿನಿರ್ತ್ಯಮ್	English kept	Kannada misprints; English has real forms	kept	
+94	S18	R1	Jarasva savābhyāṃ vāmau	ಸನಾಭ್ಯಾಂ ನಾಮ್ ... ಏತ್ವಕ್ಕೆ ಪತ್ತ್ವ	English kept	Kannada differs from English (am vs pattva); not decidable	kept	
+95	H29	R3	pratipadārtha sūnṛtāḥ	ಸೂನ್ಮತಾಃ	English kept	Kannada misprint	kept	
+96	S14	R1	sūnṛtā among names	ಉಷೋವಾಚಕಗಳಲ್ಲಿಯೂ	English kept (speech)	Kannada says Uṣas-names, English speech; not decidable	kept	
+97	Q1	R1	Nirukta 6-13 quotation (q58,q59)	पुरन्धिर्बहुधीस्तत्[?]ः ... पुरस्तात्स्या[?]देश	पुरन्धिर्बहुधीस्तत्कः ... पुरस्तात्तस्यान्वादेश (Deva)	Kannada p.97 ಬಹುಧೀಸ್ತತ್ಕಃ ... ತಸ್ಯಾನ್ವಾದೇಶ real words	applied	
+97	Q1	R1	Nirukta 6-13 IAST twin (q60,q61)	purandhirbahudhīstat[?]ḥ ... purastātsyā[?]deśa	purandhirbahudhīstatkaḥ ... purastāttasyānvādeśa	Kannada p.97; IAST twin of the Devanagari line	applied	
+98	S2	R1	Ṛ. Saṃ. 10-65-13	10-65-13	10-85-13	Kannada p.98 ೧೦-೮೫-೧೩	applied	
+98	S2	R1	Pā. Sū. 7-1-39 [as read 7-3-39]	7-1-39	7-3-39	Kannada p.98 ೭-೩-೩೯	applied	
+98	Q2	R1	remark mark (q62)	[?] in own remark (p.89 number)		remark not edited; p.89 is outside this batch	kept	
+99	S3	R1	Vibhātīḥ, supāṃ sulug	*supāṃ sulug…*, the lengthening	*supāṃ sulug…* (Pā. Sū. 7-3-39), the lengthening	Kannada p.99 (ಪಾ. ಸೂ. ೭-೩-೩೯)	applied	
+101	S13	R1	Printed English of Ṛk 7	the Dawn illumines them	the Dawn illuminates them	Kannada p.101 printed English "illuminates"	applied	
+101	S2	R1	Ṛ. Saṃ. 6-9-1 (Kannada prints ೩-೯-೧ and ೬-೯-೧)	6-9-1	(English kept)	Kannada prints two numbers one after the other; the second equals the English	kept	
+103	S3	R1	Akaḥ, halṅyābbhyo dīrghāt	*halṅyābbhyo dīrghāt…* the loss	... (Pā. Sū. 6-1-68) ...	Kannada p.103 (ಪಾ. ಸೂ. ೬-೧-೬೮)	applied	
+103	S2	R1	Adyaut, vṛddhi sūtra	*ato vṛddhir luki hali* (Pā. Sū. 7-2-3 [as read])	*uto vṛddhir luki hali* (Pā. Sū. 7-3-89)	Kannada p.103 ಉತೋ ವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ (ಪಾ. ಸೂ. ೭-೩-೮೯)	applied	
+103	S13	R1	Adyaut, root dyu	*dya abhigamane*	*dyu abhigamane*	Kannada p.103 ದ್ಯು ಅಭಿಗಮನೇ	applied	
+103	S18	R1	Guhā suffix	aṅ	English kept	Kannada ಅಪ್ ಪ್ರತ್ಯಯ differs from English aṅ; not decidable	kept	
+107	S1	R1	running head Varga	Varga 6	Varga 5	Kannada head ನ. ೫ (ವ. ೫)	applied	
+107	S2	R1	Ṛ. Saṃ. 1-50-25	1-50-25	1-50-5	Kannada p.107 ೧-೫೦-೫	applied	
+107	S14	R1	Sāyaṇa on mantra 1-50-5	you who make the light of Jana shine	(removed); you see the righteous people (janā anu bhuraṇyantam)	Kannada p.107 ನೀನು ಪುಣ್ಯವಂತರಾದ ಜನರನ್ನು ನೋಡುತ್ತೀಯೆ	applied	
+109	S1	R1	running head Varga	Varga 6	Varga 5	Kannada head ವ. ೫	applied	
+112	S13	R1	grammar word aharahaḥ	*aharaha*	*aharahaḥ*	Kannada p.112 ಅಹರಹಃ	applied	
+113	Q2	R1	sa[?]īṣaddhasantī (q63,q65)	sa[?]īṣaddhasantī	(mark kept)	Kannada p.113 ಸಮಾಷದ್ದಸಂತೀ is a non-word; row in kn_misprints	kept	
+113	Q2	R1	vaṃtasthānīyāni [?] (q64,q66)	vaṃtasthānīyāni [?] nīlapītādīni	vaṃtasthānīyāni nīlapītādīni	Kannada p.113 ವಂತಸ್ಥಾನೀಯಾನಿ ನೀಲಪೀತಾದೀನಿ, nothing between; mark removed unchanged	applied	
+113	Q2	R1	remark marks (q67,q68)	[?] in own remark		remarks not edited	kept	
+114	S7	R3	Yāska Ni. 4-15 quotation	kaineyaṃ netavyeti vā; kai netavyā	kveyaṃ netavyeti vā; kva netavyā	Kannada p.114 ಕ್ವ ನೇತವ್ಯಾ (kva iyam)	applied	
+115	S1	R1	running head Varga	Varga 6	Varga 5	Kannada head ನ. ೫ (ವ. ೫)	applied	
+115	S2	R1	ato lopaḥ	6-4-48	6-4-49	Kannada p.116 ೬-೪-೪೯	applied	
+115	S2	R1	dīrgho 'kitaḥ	6-4-83	7-4-83	Kannada p.116 ೭-೪-೮೩	applied	
+115	S7	R3	Sāyaṇa on vakṣāṃsi in prose	vantsthānīyāni	dantasthānīyāni	Kannada p.115 ದನ್ತಸ್ಥಾನೀಯಾನಿ (real word, fits ದಂತಾದಿಯಾದ in the Kannada comment)	applied	
+115	S14	R1	comparison of the young woman	her bosom and so on	her teeth and so on	Kannada p.115 ದಂತಾದಿಯಾದ ಶರೀರದ ಅವಯವಗಳನ್ನು	applied	
+117	S16	R1	kṛṇuṣe, thāsaḥ se	(Pā. Sū. 3-4-80)	(number removed)	Kannada p.117 gives no number after ಧಾಸಃ ಸೇ	applied	
+119	Q2	R1	niṣṭakrā saścidinnaro [?] (q69,q70)	saścidinnaro [?] bhūritokā	saścidinnaro bhūritokā	Kannada p.119 has no word between ನರೋ and ಭೂರಿತೋಕಾ; mark removed unchanged	applied	
+119	S3	R1	kam among names of happiness	names of happiness (Ni. 3-13)	twenty names of happiness (Ni. 3-13)	Kannada p.119 ಇಪ್ಪತ್ತು ಸುಖನಾಮಗಳಲ್ಲಿ	applied	
+121	Q1	R1	dināntareṣvasmā[?]yanti (q71,q72)	दिनान्तरेष्वस्मा[?]यन्ति	दिनान्तरेष्वप्यायन्ति (Deva and IAST)	Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ real reading apy āyanti	applied	
+121	S14	R1	translation of that sentence	come again to us on later days	come again even on later days	Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ: no 'to us'	applied	
+119	Q2	R1	niṣṭakrā saścidinnaro [?] (q69,q70) corrected entry	saścidinnaro [?] bhūritokā	(mark kept)	Kannada p.119 ನಿಷ್ಪಕ್ವಕ್ರಾಸಚ್ಚಿದಿನ್ನರೋ is a non-word, so the mark stays on both lines (the earlier row of this page for q69/q70 is withdrawn; the IAST mark removed first was restored)	kept	
