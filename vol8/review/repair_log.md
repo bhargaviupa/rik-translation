@@ -216,3 +216,93 @@
 | 151 | `3-1[0?]-2 as read [?]` → `5-10-2` | SECOND-PASS Q1: Kannada p. 151 reads (ಋ. ಸಂ. ೫-೧೦-೨) |
 | 151 | `1-[1?]2[2?]-3 as read [?]` → `1-127-3` | SECOND-PASS Q1: Kannada p. 151 reads (ಋ. ಸಂ. ೧-೧೨೭-೩) |
 | 151 | `1-145-1?]8 as read [?]` → `8-5-18` | SECOND-PASS Q1: Kannada p. 151 reads (ಶ. ಬತ್ರ. ೮-೫-೧೮) |
+
+### 2026-11-27 second pass, batch e152-181.tsv
+| page | old → new | why |
+|---|---|---|
+| 153 | `धनवदतिप्रियोः [?]` → `धनवदतिप्रियाः` | SECOND-PASS Q1: Kannada p. 153 reads ಧನವದತಿಪ್ರಿಯಾಃ (priyāḥ for priyoḥ) |
+| 153 | `dhanavadatipriyoḥ [?]` → `dhanavadatipriyāḥ` | SECOND-PASS Q1: Kannada p. 153 reads ಧನವದತಿಪ್ರಿಯಾಃ |
+| 153 | ` [print's wording clotted here [?]]` → `` | SECOND-PASS Q1: Kannada p. 153 reads ಧನವದತಿಪ್ರಿಯಾಃ clearly (and p. 154 glosses it) |
+| 154 | `3-13?]2 as read [?]` → `3-13` | SECOND-PASS Q1: Kannada p. 154 reads (ನಿ. ೩-೧೩) |
+| 155 | `सत्यमन्वालेभिरे [?]` → `सत्यमन्वालेभिरे` | SECOND-PASS Q2: Kannada p. 155 reads ಸತ್ಯಮನ್ವಾಲೇಭಿರೇ (agrees) |
+| 155 | `anvālebhire [?]` → `anvālebhire` | SECOND-PASS Q2: Kannada p. 155 reads ಸತ್ಯಮನ್ವಾಲೇಭಿರೇ (agrees) |
+| 155 | `9-5-1-18[3?] as read [?]` → `9-5-1-13` | SECOND-PASS Q1: Kannada p. 155 reads ಶ. ಬ್ರಾ. ೯-೫-೧-೧೩ |
+| 155 | `केनवामहा [?]` → `तनवामहा` | SECOND-PASS Q1: Kannada p. 155 reads ತನವಾಮಹಾ ಇತಿ (glossed: let us spread this truth) |
+| 155 | `kenavāmahā [?]` → `tanavāmahā` | SECOND-PASS Q1: Kannada p. 155 reads ತನವಾಮಹಾ ಇತಿ |
+| 155 | `9-5-1-18[5?] as read [?]` → `9-5-1-18` | SECOND-PASS Q1: Kannada p. 155 reads ಶ. ಬ್ರಾ. ೯-೫-೧-೧೮ |
+| 155 | `with this truth what shall we —?' [the end of the sentence, *kenavāmahā*, is doubtful [?]]` → `let us spread this truth (*tanavāmahā*)'` | SECOND-PASS Q1: Kannada p. 155: ಇದಂ ಸತ್ಯಂ ತನವಾಮಹಾ ಇತಿ, glossed ಈ ಸತ್ಯವನ್ನು ಹರಡೋಣ |
+| 155 | `1[4?]-3-1-1[8?] as read [?]` → `14-3-1-18` | SECOND-PASS Q1: Kannada p. 155 reads ಶ. ಬ್ರಾ. ೧೪-೩-೧-೧೮ |
+| 155 | `7-[7?]7-76-4 as read [?]` → `7-76-4` | SECOND-PASS Q1: Kannada p. 155 reads ಋ. ಸಂ. ೭-೭೬-೪ |
+| 155 | `3-[3?]9-[3?] as read [?]` → `3-39-5` | SECOND-PASS Q1: Kannada p. 155 reads ಋ. ಸಂ. ೩-೩೯-೫ |
+| 156 | `*dhanavatipriyoḥ* [as printed, doubtful [?]]` → `*dhanavadatipriyāḥ*` | SECOND-PASS Q1: Kannada p. 156 reads ಧನವದತಿಪ್ರಿಯಾಃ |
+| 157 | `कश्यपार्षमिति [?]` → `कश्यपार्षमिति` | SECOND-PASS Q2: Kannada p. 157 reads ಕಶ್ಯಪಾರ್ಷಮಿತಿ ॥ (agrees) |
+| 157 | `शंसनीया [?]` → `शंसनीया` | SECOND-PASS Q2: Kannada p. 157 reads ಶಂಸನೀಯಾ । (agrees) |
+| 157 | `iti [?]` → `iti` | SECOND-PASS Q2: Kannada p. 157 reads ಕಶ್ಯಪಾರ್ಷಮಿತಿ ॥ (agrees) |
+| 157 | `śaṃsanīyā [?]` → `śaṃsanīyā` | SECOND-PASS Q2: Kannada p. 157 reads ಶಂಸನೀಯಾ । (agrees) |
+| 159 | `गमेर्डः [?]` → `गमेर्डः` | SECOND-PASS Q2: Kannada p. 159 reads ಗಮೇರ್ಡಃ ॥ (agrees) |
+| 159 | `ḍaḥ [?]` → `ḍaḥ` | SECOND-PASS Q2: Kannada p. 159 reads ಗಮೇರ್ಡಃ ॥ (agrees) |
+| 160 | `*sāhasalaśakya-*, clotted [?]]` → `*sahisalaśakya-*]` | SECOND-PASS Q1: Kannada p. 160 reads ಸಹಿಸಲಶಕ್ಯವಾದ |
+| 160 | `7-19 as read [?]` → `7-19` | SECOND-PASS Q2: Kannada p. 160 reads ನಿ. ೭-೧೯ (agrees) |
+| 161 | `तथ्येते [?]` → `तथैते` | SECOND-PASS Q1: Kannada p. 160 (the text of p. 161 stands there) reads ತಥೈತೇ ಜಾತವೇದಸಿ |
+| 161 | `tathyete [?]` → `tathaite` | SECOND-PASS Q1: Kannada p. 160 reads ತಥೈತೇ ಜಾತವೇದಸಿ |
+| 161 | `यज्ञातो [?]` → `यज्ञातो` | SECOND-PASS Q2: Kannada p. 160 reads ಯಜ್ಞಾತೋ ಜಾತವೇದಾಥ (agrees) |
+| 161 | `yajjāto [?]` → `yajjāto` | SECOND-PASS Q2: Kannada p. 160 reads ಯಜ್ಞಾತೋ ಜಾತವೇದಾಥ (agrees) |
+| 161 | `9-5-1-69 [?]; print shows 9-5-168 with no hyphen after the 1;` → `9-5-168;` | SECOND-PASS Q1: Kannada p. 160 reads ಶ. ಬ್ರಾ. ೯-೫-೧೬೮ (taken as printed) |
+| 162 | `1-8 as read [?]` → `1-8` | SECOND-PASS Q2: Kannada p. 162 reads ೧-೮ (agrees) |
+| 162 | `[1?]-1-4-8 as read [?]` → `1-4-8` | SECOND-PASS Q1: Kannada p. 162 reads ಕಠೋಪನಿಷತ್. ೧-೪-೮ |
+| 162 | `3-29-2 as read [?]` → `3-29-2` | SECOND-PASS Q2: Kannada p. 162 reads ಋ. ಸಂ. ೩-೨೯-೨ (agrees) |
+| 162 | `2-[?]-[?] as read [?]` → `2-7-2` | SECOND-PASS Q1: Kannada p. 162 reads ಋ. ಸಂ. ೨-೭-೨ |
+| 162 | `3-19-1 as read [?]` → `3-18-1` | SECOND-PASS Q1: Kannada p. 162 reads ಋ. ಸಂ. ೩-೧೮-೧ |
+| 165 | `आत्रस्येऽस्य सूक्तस्य ऋषयः [?]` → `अतस्तेऽस्य सूक्तस्य ऋषयः` | SECOND-PASS Q1: Kannada p. 165 reads ಅತಸ್ತೇಽಸ್ಯ ಸೂಕ್ತಸ್ಯ ಋಷಯಃ |
+| 165 | `ātrasye 'sya sūktasya ṛṣayaḥ [?]` → `ataste 'sya sūktasya ṛṣayaḥ` | SECOND-PASS Q1: Kannada p. 165 reads ಅತಸ್ತೇಽಸ್ಯ ಸೂಕ್ತಸ್ಯ ಋಷಯಃ |
+| 166 | `small [?])` → `small)` | SECOND-PASS Q2: Kannada p. 166 reads ವರ್ಗ—೮, ೯, ೧೦, ೧೧ (agrees) |
+| 167 | `णिजादिक इनप्रत्ययः सत्कारान्तादेशश्च [?]` → `औणादिक ईनप्रत्ययस्तकारांतादेशश्च` | SECOND-PASS Q1: Kannada p. 167 reads ಔಣಾದಿಕ ಈನಪ್ರತ್ಯಯಸ್ತಕಾರಾಂತಾದೇಶಶ್ಚ (p. 174 glosses ಈನ ಪ್ರತ್ಯಯ, ದಕಾರಕ್ಕೆ ತಕಾರಾದೇಶ) |
+| 167 | `ऋुयि इति मतुवो वत्वम् [?]` → `झय इति मतुपो वत्वं` | SECOND-PASS Q1: Kannada p. 167 reads ಝಯ ಇತಿ ಮತುಪೋ ವತ್ವಂ (p. 175: ಝಯಃ ... ಮತುಪಿನ) |
+| 167 | `inapratyayaḥ satkārāntādeśaś ca [?]` → `auṇādika īnapratyayastakārāṃtādeśaśca` | SECOND-PASS Q1: Kannada p. 167 reads ಔಣಾದಿಕ ಈನಪ್ರತ್ಯಯಸ್ತಕಾರಾಂತಾದೇಶಶ್ಚ |
+| 167 | `ṛuyi iti matuvo vatvam [?]` → `jhaya iti matupo vatvaṃ` | SECOND-PASS Q1: Kannada p. 167 reads ಝಯ ಇತಿ ಮತುಪೋ ವತ್ವಂ |
+| 168 | `1-5[?]-8 as read [?]` → `1-54-8` | SECOND-PASS Q1: Kannada p. 168 reads ಋ. ಸಂ. ೧-೫೪-೮ |
+| 168 | `स्तुत [?]` → `स्तुतः` | SECOND-PASS Q1: Kannada p. 168 reads ಸ್ತುತಃ ಶ್ರವಸ್ಯನ್ನವಸೋಪ |
+| 168 | `*stuta [?]` → `stutaḥ` | SECOND-PASS Q1: Kannada p. 168 reads ಸ್ತುತಃ ಶ್ರವಸ್ಯನ್ನವಸೋಪ |
+| 168 | `1-1[7?]5-18 as read [?]; the first word and *madrig-* clotted in print, not completed from` → `1-177-1` | SECOND-PASS Q1: Kannada p. 168 reads ಋ. ಸಂ. ೧-೧೭೭-೧ and ಸ್ತುತಃ ಶ್ರವಸ್ಯನ್ನವಸೋಪ ಮದ್ರಿಗ್ಯುಕ್ತ್ವಾ |
+| 170 | `4-30-10 as read [?]` → `4-30-10` | SECOND-PASS Q2: Kannada p. 170 reads ೪-೩೦-೧೦ (agrees) |
+| 170 | `1-[3?]125-4 as read [?]` → `1-55-4` | SECOND-PASS Q1: Kannada p. 170 reads ಋ. ಸಂ. ೧-೫೫-೪ |
+| 170 | `1-61-14 as read [?]` → `1-61-14` | SECOND-PASS Q2: Kannada p. 170 reads ೧-೬೧-೧೪ (agrees) |
+| 172 | `3-48-3 as read [?]` → `3-48-3` | SECOND-PASS Q2: Kannada p. 172 reads ೩-೪೮-೩ (agrees) |
+| 172 | `4-24 as read [?]` → `4-24` | SECOND-PASS Q2: Kannada p. 172 reads ನಿ. ೪-೨೪ (agrees) |
+| 172 | `[3?]-4[9?]-3 as read [?]` → `7-98-3` | SECOND-PASS Q1: Kannada p. 172 reads ಋ. ಸಂ. ೭-೯೮-೩ |
+| 172 | `2-12-8 as read [?]` → `2-12-8` | SECOND-PASS Q2: Kannada p. 172 reads ೨-೧೨-೮ (agrees) |
+| 172 | `6-3[3?]-3 as read [?]` → `6-26-2` | SECOND-PASS Q1: Kannada p. 172 reads ಋ. ಸಂ. ೬-೨೬-೨ |
+| 173 | `तान्स्वमदेन्द्रत्ते [?]` → `तान्त्समदविंदत्ते` | SECOND-PASS Q1: Kannada p. 173 reads ತಾನ್ತ್ಸಮದವಿಂದತ್ತೇ ಚತುರ್ಧಾ |
+| 173 | `श्रिया ज्योतिष्मानाः [?]` → `श्रियातिष्ठमाना` | SECOND-PASS Q1: Kannada p. 173 reads ಶ್ರಿಯಾತಿಷ್ಠಮಾನಾ |
+| 173 | `svamadendratte [?]` → `tāntsamadaviṃdatte` | SECOND-PASS Q1: Kannada p. 173 reads ತಾನ್ತ್ಸಮದವಿಂದತ್ತೇ ಚತುರ್ಧಾ |
+| 173 | `śriyā jyotiṣmānāḥ [?]` → `śriyātiṣṭhamānā` | SECOND-PASS Q1: Kannada p. 173 reads ಶ್ರಿಯಾತಿಷ್ಠಮಾನಾ |
+| 173 | `3-4-21 as read [?]; the second sentence is clotted in print and not completed from memory` → `3-4-2-1` | SECOND-PASS Q1: Kannada p. 173 reads ಶ. ಚಾ. ೩-೪-೨-೧ and the whole sentence |
+| 173 | `2-5-2-6 as read [?]` → `4-3-3-6` | SECOND-PASS Q1: Kannada p. 173 reads ಶ. ಬ್ರಾ. ೪-೩-೩-೬ |
+| 173 | `1-6-8 as read [?]` → `1-6-8` | SECOND-PASS Q2: Kannada p. 173 reads ೧-೬-೮ (agrees) |
+| 173 | `1-1[6?]6-11 as read [?]` → `1-166-11` | SECOND-PASS Q1: Kannada p. 173 reads ಋ. ಸಂ. ೧-೧೬೬-೧೧ |
+| 173 | `1-1[7?]0-3 as read [?]` → `1-171-5` | SECOND-PASS Q1: Kannada p. 173 reads ಋ. ಸಂ. ೧-೧೭೧-೫ |
+| 173 | `4-56?]6 as read [?];` → `4-56;` | SECOND-PASS Q1: Kannada p. 173 reads ಬೃ. ದೇ. ೪-೫೬ |
+| 174 | `[5-?]-[?] as read [?]` → `5-3` | SECOND-PASS Q1: Kannada p. 174 reads ನಿ. ೫-೩ |
+| 174 | `8-68-1 as read [?]` → `8-68-1` | SECOND-PASS Q2: Kannada p. 174 reads ೮-೬೮-೧ (agrees) |
+| 177 | `8-1-24 as read [?]` → `8-1-24` | SECOND-PASS Q2: Kannada p. 177 reads ೮-೧-೨೪ (agrees) |
+| 177 | `10-112-2 as read [?]` → `10-11-2` | SECOND-PASS Q1: Kannada p. 177 reads ಋ. ಸಂ. ೧೦-೧೧-೨ |
+| 177 | `10-49-[7?] as read [?]` → `10-49-7` | SECOND-PASS Q1: Kannada p. 177 reads ಋ. ಸಂ. ೧೦-೪೯-೭ |
+| 177 | `10-22-4 as read [?]` → `10-22-4` | SECOND-PASS Q2: Kannada p. 177 reads ೧೦-೨೨-೪ (agrees) |
+| 178 | ` […]ṃ [?]` → ` त्वं` | SECOND-PASS Q1: Kannada p. 178 reads ತ್ವಂ ತ್ಯಾ ಚಿದ್ವಾತಸ್ಯಾಶ್ವಾಗಾ |
+| 178 | `चिद्वातस्याश्वागा [?]` → `चिद्वातस्याश्वागा` | SECOND-PASS Q2: Kannada p. 178 reads ಚಿದ್ವಾತಸ್ಯಾಶ್ವಾಗಾ (agrees) |
+| 178 | `त्वेना [?]` → `त्मना` | SECOND-PASS Q1: Kannada p. 178 reads ತ್ಮನಾ ವಹಧ್ಯೈ |
+| 178 | `*[…]ṃ [?]` → `tvaṃ` | SECOND-PASS Q1: Kannada p. 178 reads ತ್ವಂ ತ್ಯಾ ಚಿದ್ವಾತಸ್ಯಾಶ್ವಾಗಾ |
+| 178 | `vātasyāśvāgā [?]` → `vātasyāśvāgā` | SECOND-PASS Q2: Kannada p. 178 reads ಚಿದ್ವಾತಸ್ಯಾಶ್ವಾಗಾ (agrees) |
+| 178 | `tvenā [?]` → `tmanā` | SECOND-PASS Q1: Kannada p. 178 reads ತ್ಮನಾ ವಹಧ್ಯೈ |
+| 178 | `10-22-[?] as read [?]; the first word at the head of the page and several others are clott` → `10-22-5` | SECOND-PASS Q1: Kannada p. 178 reads ಋ. ಸಂ. ೧೦-೨೨-೫ and ತ್ವಂ ತ್ಯಾ ಚಿದ್ವಾತಸ್ಯಾಶ್ವಾಗಾ ... ತ್ಮನಾ ವಹಧ್ಯೈ |
+| 178 | `1-166-4 as read [?]` → `1-166-4` | SECOND-PASS Q2: Kannada p. 178 reads ೧-೧೬೬-೪ (agrees) |
+| 178 | `5-87-1 as read [?]` → `5-87-1` | SECOND-PASS Q2: Kannada p. 178 reads ೫-೮೭-೧ (agrees) |
+| 178 | `5-41-16 as read [?]` → `5-41-16` | SECOND-PASS Q2: Kannada p. 178 reads ೫-೪೧-೧೬ (agrees) |
+| 179 | `6-22-10 as read [?]` → `6-22-10` | SECOND-PASS Q2: Kannada p. 179 reads ೬-೨೨-೧೦ (agrees) |
+| 179 | `6-736-3 as read [?]` → `6-33-3` | SECOND-PASS Q1: Kannada p. 179 reads ೬-೩೩-೩ |
+| 179 | `6-60-6 as read [?]` → `6-60-6` | SECOND-PASS Q2: Kannada p. 179 reads ೬-೬೦-೬ (agrees) |
+| 179 | `*Ni.* 3-9 as read [?]` → `*Ni.* 3-9` | SECOND-PASS Q2: Kannada p. 179 reads ನಿ. ೩-೯ (agrees) |
+| 179 | `2-23?]3 as read [?]` → `2-23` | SECOND-PASS Q1: Kannada p. 179 reads ನಿ. ೨-೨೩ |
+| 181 | `परैरभिगताः [?]` → `परैरनभिगताः` | SECOND-PASS Q1: Kannada p. 181 reads ಪರೈರನಭಿಗತಾಃ । ದುಷ್ಪ್ರಾಪಾ |
+| 181 | `parair abhigatāḥ [?]` → `parairanabhigatāḥ` | SECOND-PASS Q1: Kannada p. 181 reads ಪರೈರನಭಿಗತಾಃ |
+| 181 | `[print: *parair abhigatāḥ*, as read, doubtful]` → `(*parair anabhigatāḥ*)` | SECOND-PASS Q1: Kannada p. 181 reads ಪರೈರನಭಿಗತಾಃ |
