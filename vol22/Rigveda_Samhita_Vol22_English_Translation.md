@@ -22412,6 +22412,245 @@ But Vivasvat, without knowing this, united with that woman who stood as a substi
 In the end true knowledge came to Vivasvat. When he learned that Saraṇyū had gone away in the form of a mare, he too took the form of a stallion, followed Tvaṣṭṛ's daughter to the place where she had gone, and tried to unite with her.
 सरण्यूश्च विवस्वंतं विदित्वा हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥ (*saraṇyūśca vivasvaṃtaṃ viditvā hayarūpiṇaṃ | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ ‖*) (Bṛ. De. 7. 4)
 
+### Printed p. 541
+Saraṇyū learned that Vivasvān, following her, had come in the form of a horse, and she desired the pleasure of union with him. Then Vivasvān fulfilled her wish.
+
+ततस्तयोस्तु वेगेन शुक्रं शेपतदद्भुवि । उपाजिघ्रच्च सा त्वाष्ट्री तच्छुक्रं गर्भकाम्यया ॥ (*tatastayostu vegena śukraṃ śepatadadbhuvi | upājighracca sā tvāṣṭrī tacchukraṃ garbhakāmyayā ‖*) (Bṛ. De. 7. 5)
+
+In the eagerness between the two, Vivasvān's seed fell to the ground. Then Saraṇyū, desiring to conceive, smelled it.
+
+आघ्राणमात्राच्छुक्रात्तु कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ (*āghrāṇamātrācchukrāttu kumārau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*) (Bṛ. De. 7-6)
+
+As soon as she smelled that seed, conception arose in her, and from it two youths, Nāsatya and Dasra, were born. They were afterwards called by the name Aśvins, and their greatness spread through all the worlds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ स्तोमा॑सो अ॒श्विनो॑रबुध्रन्जा॒मि ब्रह्मा॑ण्यु॒षस॑श्च दे॒वीः ।  
+> आ॒विवा॑स॒न्रोद॑सी॒ धिष्ण्ये॒मे अच्छा॒ विप्रो॒ नास॑त्या विवक्ति ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्तोमासः । अश्विनोः । अबुध्रन् । जामि । ब्रह्माणि । उषसः । च । देवीः ।  
+> आविवासन् । रोदसी इति । धिष्ण्ये इति । इमे इति । अच्छ । विप्रः । नासत्या । विवक्ति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तोमासः सोमाः स्तवा अश्विनावश्विनावुदबुध्रन् । उत्कृष्टं बोधयंति । उ इति पूरणः । जामि । बंधुनामैतत् । बंधुस्थानीयानि ब्रह्माणि परिवृढानि कर्माणि देवीर्द्योतमाना उषसः । चकारादश्विनौ च । अबुध्रन् । विप्रो मेधावी वसिष्ठ इमे रोदसी द्यावापृथिव्यौ धिष्ण्ये धिषणार्हे स्तुत्ये आविवासन् परिचरन् नासत्याश्विनावच्छाभिमुखं विवक्ति । स्तौति ॥
+
+##### Gist of the bhāṣya
+
+The स्तोमासः (*stomāsaḥ*), the praises, rouse the two Aśvins on high (उ (*u*) is a filler). जामि (*jāmi*) is a word for "kinsman"; the ब्रह्माणि (*brahmāṇi*), the abundant rites, which stand as kinsmen, and the shining dawns (and, by the word च (*ca*), the two Aśvins) are awakened. The sage Vasiṣṭha, the wise one, serving these two, heaven and earth, which are worthy of praise, addresses the Nāsatyas, the Aśvins, in their presence; that is, he praises them.
+
+### Printed p. 542
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोमासः (*stomāsaḥ*)—praises
+- उदु अबुध्रन् (*udu abudhran*)—awaken the Aśvins
+- जामि (*jāmi*)—kinsman-like
+- ब्रह्माणि (*brahmāṇi*)—rites
+- देवीः (*devīḥ*)—shining
+- उषसः च (*uṣasaḥ ca*)—the dawns also awaken them
+- विप्रः (*vipraḥ*)—the wise Vasiṣṭha
+- धिष्ण्ये (*dhiṣṇye*)—worthy of praise
+- इमे रोदसी (*ime rodasī*)—these heaven and earth
+- आ विवासन् (*ā vivāsan*)—worshipping
+- नासत्या अच्छ (*nāsatyā accha*)—addressing the Aśvins
+- विवक्ति (*vivakti*)—recites praise
+
+##### भावार्थ (Bhāvārtha)
+
+Praises, kinsman-like rites and the shining dawns awaken the Aśvins. The wise Vasiṣṭha, worshipping heaven and earth, which are worthy of praise, recites praise addressed to the Aśvins.
+
+##### English translation
+Praises waken up Ashwins, kindred adorations (arouse them) and the celestial dawns : the sage, addressing these laudations to the adorable heaven and earth, glorifies the Nasatyas in their presence.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि चेदु॒च्छंत्य॑श्विना उ॒षासः॒ प्र वां॒ ब्रह्मा॑णि का॒रवो॑ भरंते।  
+> ऊ॒र्ध्वं भा॒नुं स॑वि॒ता दे॒वो अ॑श्रेद्बृ॒हद॒ग्नयः॑ स॒मिधा॑ जरंते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । च । इत् । उच्छंति । अश्विनौ । उषसः । प्र । वां । ब्रह्माणि । कारवः । भरंते ।  
+> ऊर्ध्वं । भानुं । सविता । देवः । अश्रेत् । बृहत् । अग्नयः । सम्ऽइधा । जरंते ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ उषास उषसो व्युच्छंति चेत् । तमांसि विवासयंति । चेदिति पूरणार्थे वा । स च वक्ष्यमाणसूर्योद्यपेक्षकः ॥ चेद्योगादनिघातः ॥ अथो युवयोः स्तुतिसमुयत्वाद्ब्रह्माणि स्तोत्राणि कारवः स्तोतारः प्र भरंते । प्रकर्षेण संपादयंति । ऊर्ध्वमश्रेत् आश्रयति भानुं तेजः सविता देवः । अग्नयोऽपि समिधा समिंधनेन बृहदतिमहज्जरंते । स्तूयंते ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, if the dawns shine forth they drive away the darkness. Or चेत् (*cet*) is a filler; it looks to the sunrise to be mentioned. Then, since praise belongs to you, the singers (कारवः (*kāravaḥ*)) offer ब्रह्माणि (*brahmāṇi*), hymns, bringing them forth abundantly. The god Savitṛ rises up, भानुं (*bhānuṃ*), to his radiance. The fires also, by kindling with fuel, are greatly praised.
+
+### Printed p. 543
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनौ (*aśvinau*)—O Aśvins
+- उषसः वि उच्छंति चेत् (*uṣasaḥ vi ucchaṃti cet*)—as soon as the dawns appear and destroy the darkness
+- वां (*vāṃ*)—addressed to you
+- कारवः (*kāravaḥ*)—the praisers
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- प्र भरंते (*pra bharaṃte*)—provide abundantly
+- देवः (*devaḥ*)—the divine
+- सविता (*savitā*)—Savitṛ
+- ऊर्ध्वं (*ūrdhvaṃ*)—on high
+- भानुं (*bhānuṃ*)—radiance
+- अश्रेत् (*aśret*)—takes up
+- अग्नयः (*agnayaḥ*)—the fires also
+- समिधा (*samidhā*)—by being kindled
+- बृहत् (*bṛhat*)—greatly
+- जरंते (*jaraṃte*)—are praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as soon as the dawns appear and destroy the darkness, the praisers recite hymns abundantly to you. The divine Savitṛ, risen on high, spreads his radiance. The fires also, by being kindled, are greatly praised.
+
+##### English translation
+When the dawns arise, your worshippers, Ashwins, proffer you praises : the divine Savitri casts his splendours on high : the fires, with their (kindled) fuel, greatly glorify you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॒श्चाता॑न्नास॒त्या पु॒रस्ता॒दाश्वि॑ना यातमध॒रादुद॑क्तात् ।  
+> आ वि॒श्वतः॒ पांच॑जन्येन रा॒या यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पश्चातात् । नासत्या । आ । पुरस्तात् । आ । अश्विना । यातं । अधरात् । उदक्तात् ।  
+> आ । विश्वतः । पांचजन्येन । राया । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ पश्चातादिति पंचम्याश्विने पशौ वपाया अनुवाक्या । सूत्रितं च । आ पश्चातान्नासत्या पुरस्तादा गोमता नासत्या रथेन । आ-३-४ । इति ॥
+> हे नासत्याश्विनौ पश्चातात्पश्चाद्देशादा यातं । तथा पुरस्तात्पूर्वस्माद्देशात् तथाधरादधस्तनाद्देशाद्दक्षिणत उदक्तादुदग्देशात् । सर्वत्रा यातमिति संबंधः । किं बहुना विश्वतः सर्वस्माद्देशात्पांचजन्येन पंचजनहितेन रायो धनेन सहा यातं । निषादपंचमाश्चत्वारो वर्णाः पंचजनाः ॥
+
+##### Gist of the bhāṣya
+
+The verse आ पश्चातात् (*ā paścātāt*) is the anuvākyā for the vapā-offering in the animal sacrifice to the Aśvins. It is stated in the sūtra: आ पश्चातान्नासत्या पुरस्तादा गोमता नासत्या रथेन । आ-३-४ । इति ॥ (*ā paścātānnāsatyā purastādā gomatā nāsatyā rathena | ā-3-4 | iti ‖*) O Nāsatyas, Aśvins, come from the west, likewise from the east, likewise from the lower, southern region and from the northern region. "Come" is to be construed with every direction. In short, come from every region with wealth beneficial to the five peoples (पांचजन्येन (*pāṃcajanyena*)). The five peoples are the four castes with the Niṣādas as the fifth.
+
+### Printed p. 544
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—called Nāsatyas
+- अश्विना (*aśvinā*)—O Aśvins
+- पश्चातात् (*paścātāt*)—from the western region
+- आ यातं (*ā yātaṃ*)—come
+- पुरस्तात् (*purastāt*)—from the east also
+- आ (*ā*)—come
+- अधरात् (*adharāt*)—from the south also
+- उदक्तात् (*udaktāt*)—from the north also
+- आ (यातं) (*ā (yātaṃ)*)—come
+- विश्वतः (*viśvataḥ*)—from all directions
+- पांचजन्येन (*pāṃcajanyena*)—beneficial to the five kinds of people
+- राया (*rāyā*)—with wealth
+- आ (यातं) (*ā (yātaṃ)*)—come
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- नः (*naḥ*)—us
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, called Nāsatyas, come to us from the western region, from the eastern, from the southern and from the northern. Come from every side together with wealth beneficial to the five kinds of people. Protect us always with blessings.
+
+##### English translation
+Come, Nasatyas, from the west, from the east : (come), Aswins from the south, from the north, come from every quarter with riches beneficial for the five classes of men : and do you ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk आ पश्चातात् (*ā paścātāt*) is to be recited as the anuvākyā mantra in the vapā-offering of the animal sacrifice made to the Aśvins is explained by the Āśvalāyana Śrauta Sūtra in the sūtra आ पश्चातान्नासत्या पुरस्तादा गोमता नासत्या रथेन (*ā paścātānnāsatyā purastādā gomatā nāsatyā rathena*) (Ā. 3-4).
+
+## Sūkta 73 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतारिष्मेति पंचर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाश्विनं । अतारिष्मेत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, अतारिष्म (*atāriṣma*), of five Ṛks, is by the seer Vasiṣṭha, addressed to the Aśvins, in the Triṣṭubh metre. The Anukramaṇikā says अतारिष्म (*atāriṣma*). The application in the Prātaranuvāka and the Aśvina-śastra has been stated.
+
+##### Anuvāda
+
+This sūkta अतारिष्म (*atāriṣma*) is the third sūkta in the fifth anuvāka. It has five Ṛks. Its seer is Vasiṣṭha; its deity the Aśvins; its metre Triṣṭubh. The Anukramaṇikā says अतारिष्म (*atāriṣma*). It was stated earlier that the sūkta is applied in the Prātaranuvāka and the Āśvinaśastra mantras.
+
+### Printed p. 545
+Sūkta 73. Maṇḍala 7; Anuvāka 5; Sūkta 73. Aṣṭaka 5; Adhyāya 5; Varga 20. Number of Ṛks in the sūkta: 5. Ṛṣi: Vasiṣṭha. Devatā: the Aśvins. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अता॑रिष्म॒ तम॑सस्पा॒रम॒स्य प्रति॒ स्तोमं॑ देव॒यंतो॒ दधा॑नाः ।  
+> पु॒रु॒दंसा॑ पुरु॒तमा॑ पुरा॒जाम॑र्त्या हवते अ॒श्विना॒ गीः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतारिष्म । तमसः । पारं । अस्य । प्रति । स्तोमं । देवयंतः । दधानाः ।  
+> पुरुदंसा । पुरुतमा । पुराजा । अमर्त्या । हवते । अश्विना । गीः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य तमसोऽज्ञानस्य तत्कार्यस्य जननमरणवतः संसारदुःखस्य अथवा प्रकृतत्वात् प्रयोगविषयाज्ञानस्य पारमतारिष्म । तीर्णाः स्म । किं कुर्वंतः । देवयंतो देवकामाः स्तोमं स्तुतिं प्रति दधाना देवेषु कुर्वाणाः । पुरुदंसा बहुकर्माणौ पुरुतमा प्रभूततमौ पुराजा पूर्वजातावत एवामर्त्यामरणधर्माणावश्विनाश्विनौ गीर्गिरिता स्तोता वसिष्ठो हवते । स्तौति । आह्वयति वा ॥
+
+##### Gist of the bhāṣya
+
+We have crossed to the farther shore of this darkness, ignorance and its product, the suffering of saṃsāra with birth and death; or, since it is the matter in hand, the ignorance concerning the ritual. How? Desiring the gods (देवयंतः (*devayaṃtaḥ*)), holding praise (स्तोमं (*stomaṃ*)) before the gods. The Aśvins are पुरुदंसा (*purudaṃsā*) of many deeds, पुरुतमा (*purutamā*) most abundant, पुराजा (*purājā*) born first and hence अमर्त्या (*amartyā*) immortal. The praiser Vasiṣṭha (गीः (*gīḥ*)) praises or invokes them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवयंतः (*devayaṃtaḥ*)—desiring the gods
+- स्तोमं (*stomaṃ*)—praise
+- प्रति दधानाः (*prati dadhānāḥ*)—offering to the gods
+- अस्य तमसः (*asya tamasaḥ*)—of this saṃsāra with its darkness of ignorance
+- पारं (*pāraṃ*)—the shore
+- अतारिष्म (*atāriṣma*)—we have crossed
+- पुरुदंसा (*purudaṃsā*)—doers of many deeds
+- पुरुतमा (*purutamā*)—possessing abundance
+- पुराजा (*purājā*)—born before all
+- अमर्त्या (*amartyā*)—free from the nature of death
+- अश्विना (*aśvinā*)—the Aśvins
+- गीः (*gīḥ*)—the praiser Vasiṣṭha
+- हवते (*havate*)—praises and invokes
+
+### Printed p. 546
+
+##### भावार्थ (Bhāvārtha)
+
+We, engaged in rites for the gods and offering praises to them, have crossed to the shore of this saṃsāra with its darkness of ignorance. The praiser Vasiṣṭha extols the Aśvins, doers of many deeds, abounding, born before all, free from death.
+
+##### English translation
+Devoted to the gods, and hymning their praise, we have crossed to the opposite shore of this (state of) darkness : the worshipper invokes the Aswins, the doers of many deeds, the most mighty, the first-born, the immortal.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्यु॑ प्रि॒यो मनु॑षः सादि॒ होता॒ नास॑त्या॒ यो यज॑ते॒ वंद॑ते च ।  
+> अ॒श्नी॒तं मध्वो॑ अश्विना उपा॒क आ वां॑ वोचे वि॒दथे॑षु॒ प्रय॑स्वान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । ऊं इति । प्रियः । मनुषः । सादि । होता । नासत्या । यः । यजते । वंदते । च ।  
+> अश्नीतं । मध्वः । अश्विनौ । उपाके । आ । वां । वोचे । विदथेषु । प्रयस्वान् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रियो युवयोः प्रियभूतो मनुषो मानुषो मनुषः सकाशाज्जातो वा होता देवानामाह्वाता स्तोतायं निषादि । न्यसादि । निषण्णो भवति । युवयोः कर्मणि वर्तते इत्यर्थः । हे नासत्याश्विनौ यो यजते यागं करोति वंदते स्तौति च तस्य संबंधिनं मध्वो मधुरं सोमरसं हे अश्विनाश्विनौ उपाकेऽंतिके एव समीपे स्थित्वैवाश्नीतं । पिबतमित्यर्थः । विदथेषु यज्ञेषु वां युवां प्रयस्वानन्नवान्सन्ना वोचे । आह्वये ॥
+
+##### Gist of the bhāṣya
+
+This dear one, dear to you, the descendant of Manu or born from Manu, the hotṛ, the caller of the gods, the praiser, has taken his seat; that is, he is engaged in your rite. O Nāsatyas, Aśvins, whoever performs the sacrifice and praises, of him eat the sweet soma juice, O Aśvins, standing right near, that is, drink. At the sacrifices (विदथेषु (*vidatheṣu*)) I, provided with food, call you.
+
 ---
 
-**Progress note:** Done through printed p. 540. pp. 535-540 (batch API)
+**Progress note:** Done through printed p. 546. pp. 541-546 (batch API)
