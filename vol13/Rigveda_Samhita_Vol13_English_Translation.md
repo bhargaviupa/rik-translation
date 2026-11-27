@@ -4755,6 +4755,160 @@ This sūkta beginning प्रति व एना (*prati va enā*) is the sev
 
 Sūkta 171. Maṇḍala 1; Anuvāka 23; Sūkta 171. Aṣṭaka 2; Adhyāya 4; Varga 11. Number of ṛks in the sūkta: 6. Seer: Agastya. Deity: 1-2 **NOTE** the Maruts; 3-6 Marutvān Indra. Metre: Triṣṭubh.
 
+### Printed p. 193
+In the Bṛhaddevatā the last 27 sūktas of the first Maṇḍala are divided into two groups. From sūkta 165 to 170 it tells, in the form of a story, of the conversation between Indra and the Maruts. It also tells how the seer Agastya stepped in between them, praised the Maruts and Indra, and pacified them. Sūktas 171 to 191 were composed in the setting of the relation and the love between Agastya and Lopāmudrā. The nature of the conversation between Indra and the Maruts, and how it is described in the Bṛhaddevatā, has been explained earlier (Ṛgveda Saṃhitā, Part 12, p. 679).
+
+स तानभिजगामाशु निरूप्यैंद्रं हविस्तदा । मरुतश्चाभितुष्टाव सूक्तैस्तन्निविति च त्रिभिः ॥ (*sa tānabhijagāmāśu nirūpyaiṃdraṃ havistadā | marutaścābhituṣṭāva sūktaistanniviti ca tribhiḥ ‖*) (Bṛ. De. 4-48).
+
+As soon as Agastya had grasped their conversation, he too went towards them and prepared the oblation for Indra. At the same time he composed three sūktas (1-166 to 168), containing the mantras beginning वोचाम (*vocāma*) and the rest, and praised the Maruts. This is the account given. And:
+
+महच्चिदिति चैवेंद्रं सहस्रमिति चैतया । निरुप्तं तद्धहिश्चैंद्रं मरुद्भो दारुमिच्छति ॥ (*mahacciditi caiveṃdraṃ sahasramiti caitayā | niruptaṃ taddhahiścaiṃdraṃ marudbho dārumicchati ‖*) (Bṛ. De. 4-49).
+
+With the mantra महश्चित् (*mahaścit*) (1-169) he praised Indra. With the mantra सहस्रं (*sahasraṃ*) (1-167-1) he made ready to offer to the Maruts also the oblation that had been set apart for Indra. This matter is told in the Nirukta as follows:
+
+अगस्त्य इंद्राय हविर्निरुप्य मरुद्भः संप्रदिस्सितांचकार । स इंद्र एत्य परिदेवयांचक्रे (*agastya iṃdrāya havirnirupya marudbhaḥ saṃpradissitāṃcakāra | sa iṃdra etya paridevayāṃcakre*) (Ni. 1-5).
+
+Displeased at this, Indra objected to it.
+
+विज्ञायावेक्ष्य तद्भावं इंद्रो नेति तमब्रवीत् । न श्वो नाद्यतनं ह्यस्ति वेद कस्तद्यदद्भुतं ॥ (*vijñāyāvekṣya tadbhāvaṃ iṃdro neti tamabravīt | na śvo nādyatanaṃ hyasti veda kastadyadadbhutaṃ ‖*) (Bṛ. De. 4-50).
+
+Indra understood this intention and refused with न नूनमस्ति (*na nūnamasti*) (1-170). But since he refused without stating his purpose, Agastya questions him.
+
+कस्यचित्त्वर्थसंचारे चित्तमेव विनश्यति । किं न इत्यब्रवीदिंद्रं अगस्तो भ्रातरस्तव ॥ (*kasyacittvarthasaṃcāre cittameva vinaśyati | kiṃ na ityabravīdiṃdraṃ agasto bhrātarastava ‖*)
+
+### Printed p. 194
+मरुद्भिः संप्रकल्पस्व वधीर्मा नः शतक्रतो । किं नो भ्रातरिति त्वस्यां इंद्रो मान्यमुपालभत् ॥ (*marudbhiḥ saṃprakalpasva vadhīrmā naḥ śatakrato | kiṃ no bhrātariti tvasyāṃ iṃdro mānyamupālabhat ‖*)
+
+अगस्त्यस्वरमित्यस्यां क्षुब्धमिंद्रं प्रशामयत् । प्रादात्संवननं कृत्वा तेभ्य एव च तद्धविः ॥ (*agastyasvaramityasyāṃ kṣubdhamiṃdraṃ praśāmayat | prādātsaṃvananaṃ kṛtvā tebhya eva ca taddhaviḥ ‖*) (Bṛ. De. 4-51 to 53).
+
+Agastya indicates that in this refusal, not stating your purpose will serve no end. With the mantra किं नः (*kiṃ naḥ*) (1-170-2) he tells Indra that the Maruts too are his friends. Then, when he entreats Indra with the mantra किं नो भ्रातः (*kiṃ no bhrātaḥ*), Indra grows somewhat angry and reproaches him. Even so, with the mantra आरं (*āraṃ*) (1-170-4) Agastya pacified Indra and offered a share of the oblation to the Maruts as well.
+
+सुते चकार सोमेऽथ तानिंद्रः सोमपीथिनः । शस्माद्विद्यान्निपातेन ऐंद्रेषु मरुतः स्तुतान् ॥ (*sute cakāra some 'tha tāniṃdraḥ somapīthinaḥ | śasmādvidyānnipātena aiṃdreṣu marutaḥ stutān ‖*) (Bṛ. De. 4-54).
+
+As soon as the Soma was pressed, Indra divided it, gave a share also to the Maruts and made them drink it. Therefore, whatever sūkta Indra is praised in, it is to be understood that the Maruts too are praised, incidentally, together with him.
+
+प्रीतात्मा पुनरेवर्षिस्तांस्तुष्टाव पृथक् पृथक् । मरुतः प्रति सूक्ताभ्यां इंद्रं षड्भिः परैस्तु सः ॥ (*prītātmā punarevarṣistāṃstuṣṭāva pṛthak pṛthak | marutaḥ prati sūktābhyāṃ iṃdraṃ ṣaḍbhiḥ paraistu saḥ ‖*) (Bṛ. De. 4-55).
+
+By this, Agastya, satisfied, praised the Maruts separately with two sūktas (1-171 and 1-172), and praised Indra with the six sūktas from 173 to 178.
+
+स्तुतश्च तसृभिच्छेंद्र स्तुतास इति त्रैः सह । मरुद्भिः सह मरुत्वांस्तत्र सोऽभवत् ॥ (*stutaśca tasṛbhiccheṃdra stutāsa iti traiḥ saha | marudbhiḥ saha marutvāṃstatra so 'bhavat ‖*) (Bṛ. De. 4-56).
+
+In four mantras (173-3 to 6) there is praise of Indra. But since the Maruts must be present wherever Indra is, the epithet मरुत्वान् (*marutvān*) is natural to him. After telling this and more in the Bṛhaddevatā, it goes on to describe the loving conversation that took place between Agastya and Lopāmudrā.
+
+### Printed p. 195
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ व ए॒ना नम॑सा॒हमे॑मि सू॒क्तेन॑ भिक्षे सुम॒तिं तु॒राणां॑ ।  
+> र॒रा॒णता॑ मरुतो वे॒द्याभि॒र्नि हेळो॑ ध॒त्त वि मु॑चध्व॒मश्वा॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । वः । एना । नमसा । अहं । एमि । सुउक्तेन । भिक्षे । सुमतिं । तुराणां ।  
+> रराणता । मरुतः। वेद्याभिः । नि । हेळः । धत्त । वि । मुचध्वं । अश्वान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्मानहं प्रत्येमि । अभिगच्छामि । केन साधनेन । नमसा
+> नमस्कारेण हविषा वा । नम इत्यन्ननाम । तथा सूक्तेन शोभनवचनेन स्तुतिरूपेण । तुराणां त्वरमाणानां शतृणां हिंसकानां वा युष्माकं समतिं
+> शोभनमतिमनुग्रहबुद्धिं भिक्षॆ । याचे । इंद्रस्यॆव पुनर्हविष्ट्रदानादिदं
+> याच्यते । किंच हे मरुतः यूयं वेद्याभिर्वेदितव्याभिः स्तुतिभी रराणता
+> रममाणेन मनसेत्थंभूताः संतो हेळः । क्रोधनामैतत् । क्रोधं
+> युष्मदभिक्रमजनितं नि धत्त । निकृष्टं धारयत । त्यजतेत्यर्थः । तथाश्वान्विःमुचध्वं ।
+> रथेभ्यो वियोजयत । क्रोधात्पुनर्गमनं मा कुरतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, I approach you." By what means? नमसा (*namasā*) is glossed as with obeisance, or with an oblation; नम (*nama*) is a name for food. Also with a सूक्तेन (*sūktena*), that is, with fair words in the form of praise. I beg समतिं (*samatiṃ*), a good mind, a mind of favour, of you who are तुराणां (*turāṇāṃ*), that is, swift, or else destroyers of foes. This is asked as though because Indra again gave away the oblation. Further, "O Maruts, being thus delighted in mind by the praises that deserve to be known (वेद्याभिः (*vedyābhiḥ*)), set down (नि धत्त (*ni dhatta*)) your हेळः (*heḷaḥ*)." हेळ (*heḷa*) is a name for anger. The sense is: lay aside the anger born of your coming against us, cast it away. Likewise unyoke the horses (वि मुचध्वं (*vi mucadhvaṃ*)), release them from the chariots; the sense is that out of anger you should not go away again.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Marut gods
+- अहं (*ahaṃ*)—I
+- एना नमसा (*enā namasā*)—with this obeisance or oblation (accompanied)
+- वः (*vaḥ*)—you
+- प्रति एमि (*prati emi*)—come towards
+- सूक्तेन (*sūktena*)—with auspicious words (in the form of praise)
+- तुराणां (*turāṇāṃ*)—(in regard to) enemies who are in haste, or of you who are destroyers
+- सुमतिं (*sumatiṃ*)—a mind of favour (towards us)
+- भिक्षॆ (*bhikṣè*)—I beg
+- वेद्याभिः (*vedyābhiḥ*)—by (our) praises
+- रराणता (*rarāṇatā*)—with a delighted mind (being endowed)
+- हेळः (*heḷaḥ*)—your anger
+- नि धत्त (*ni dhatta*)—put down, lay aside (abandon)
+- अश्वान् (*aśvān*)—the horses (of the chariot)
+- वि मुचध्वं (*vi mucadhvaṃ*)—unyoke (from the chariot, so that you, filled with anger, do not come back)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, I approach you with obeisance; I praise you and beg that you show favour to us. O Maruts, made glad in mind by our praise, abandon your anger; and unyoke the horses of your chariots, so that you do not come to us in anger.
+
+### Printed p. 196
+
+##### English translation (H. H. Wilson)
+I approach you, Maruts, with this reverential homage, and with a hymn implore your favour against eager (foes) : with minds pacified by our praises, suppress your anger, and let loose your horses.
+
+##### विशेषविषयगळु (Special Topics)
+
+नमसा—नमस्कारेण हविषा वा (*namasā—namaskāreṇa haviṣā vā*): नमः (*namaḥ*) is read also among the names for food (Ni. 3-9). The meaning is explained that the seer Agastya will delight the Maruts by obeisance to them and by offering the oblation.
+
+सूक्तेन तुराणां सुमतिं भिक्षे (*sūktena turāṇāṃ sumatiṃ bhikṣe*)—शोभनवचनेन स्तुतिरूपेण त्वरमाणानां शत्रोणां हिंसकानां वा (*śobhanavacanena stutirūpeṇa tvaramāṇānāṃ śatroṇāṃ hiṃsakānāṃ vā*). The word तुर (*tura*) is cited by Yāska in this Ṛk:
+
+प्रातर्जितं भगमुग्रं हुवेम वयं पुत्रमदितेयो विधर्ता । आध्रश्चिद्यं मन्यमानस्तु रच्चिद्राजा चिद्यं भगं भक्षीत्याह ॥ (*prātarjitaṃ bhagamugraṃ huvema vayaṃ putramaditeyo vidhartā | ādhraścidyaṃ manyamānastu raccidrājā cidyaṃ bhagaṃ bhakṣītyāha ‖*) (Ṛ. Saṃ. 7-41-2).
+
+On it he explains: तुर इति यमनाम तरतेर्वा त्वरतेर्वा (*tura iti yamanāma taratervā tvaratervā*). The word तुर (*tura*), formed from the root तृ (*tṛ*) or the root त्वर (*tvara*), denotes Yama, who is swift in bringing living beings to their end. Sāyaṇa gives this word the sense of those who injure, or enemies. His account is this: when the seer Agastya intended to offer to the Maruts the oblation prepared for Indra, Indra took it himself; so Agastya bows to the swift Maruts, offers the oblation, praises them with excellent words, and prays that their शोभनमतिं (*śobhanamatiṃ*), the mind of favour, the mind that shows a favour expressing delight, may arise towards himself, and that the Maruts may not act towards him as enemies or injurers (that is, may not be angry). The word तुर (*tura*) is also used in the sense of power.
+
+सदिद्दि ते तुविजातस्य मन्ये सहः सहिष्ठ तुरतस्तु रस्य । उग्रमुग्रस्य तवसस्तवीयोऽरध्रस्य रध्रतुरो बभूव ॥ (*sadiddi te tuvijātasya manye sahaḥ sahiṣṭha turatastu rasya | ugramugrasya tavasastavīyo 'radhrasya radhraturo babhūva ‖*) (Ṛ. Saṃ. 6-18-4).
+
+In this Ṛk the word is used both in the sense of power and in the sense of injuring. The words तुरतः (*turataḥ*) and तुरस्य (*turasya*) are explained as अस्मान् हिंसतः; शत्रूणां हिंसितुः बलवतो वा (*asmān hiṃsataḥ; śatrūṇāṃ hiṃsituḥ balavato vā*). It is used in the first half as an epithet of Indra, "able to subdue injuring enemies"; and in the second half, रध्रतुरः—वशीकरणीयानां सपत्नानां हिंसकस्य तव बलं (*radhraturaḥ—vaśīkaraṇīyānāṃ sapatnānāṃ hiṃsakasya tava balaṃ*), "the strength of you, the destroyer of enemies". And:
+
+### Printed p. 197
+यं वर्धयंतीद्गिरः पतिं तुरस्य राधसः । तमिन्नवस्य रोदसी देवी शुष्मं सपर्यतः ॥ (*yaṃ vardhayaṃtīdgiraḥ patiṃ turasya rādhasaḥ | taminnavasya rodasī devī śuṣmaṃ saparyataḥ ‖*) (Ṛ. Saṃ. 6-44-5).
+
+Here it is explained as "the enemy of the mighty one". Moreover:
+
+ता वामेषे रथानामिंद्राग्नी हवामहे । पशी तुरस्य राधसो विद्वांसा गिर्वणस्तमा ॥ (*tā vāmeṣe rathānāmiṃdrāgnī havāmahe | paśī turasya rādhaso vidvāṃsā girvaṇastamā ‖*) (Ṛ. Saṃ. 5-86-4).
+
+In such Ṛks, तुरस्य राधसः (*turasya rādhasaḥ*) is explained as जंगमरूपस्य धनस्य (*jaṃgamarūpasya dhanasya*), "of moving, unstable wealth"; it is used as an epithet of things that are movable, fit for dealings and quick in moving about. In Ṛks such as (1-61-13) it is used precisely as a synonym of Yama. In the present place it is an epithet of the Maruts, "destroyers of foes".
+
+The word सुमति (*sumati*) is cited by Yāska in:
+
+धाता ददातु दाशुषे प्राचीं जीवातुमक्षितां । वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ॥ (*dhātā dadātu dāśuṣe prācīṃ jīvātumakṣitāṃ | vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ ‖*) (Atha. Saṃ. 7-17-2).
+
+Sāyaṇa explains that in this Ṛk, as in other places, it denotes कल्याणी मतिः (*kalyāṇī matiḥ*).
+
+But the word सुमति (*sumati*) is used not merely for a divine, favouring mind; it is also used in the sense of a man's prayer, or a man's excellent wish. For example:
+
+तुभ्यं भरंति क्षितयो यविष्ठ बलिमग्ने अंतित ओत दूरात् । आ भंदिष्ठस्य सुमतिं चिकिद्दि बृहत्ते अग्ने महि शर्म भद्रं ॥ (*tubhyaṃ bharaṃti kṣitayo yaviṣṭha balimagne aṃtita ota dūrāt | ā bhaṃdiṣṭhasya sumatiṃ cikiddi bṛhatte agne mahi śarma bhadraṃ ‖*) (Ṛ. Saṃ. 5-1-10).
+
+प्र वो महे महिवृधे भरध्वं प्रचेतसे प्र सुमतिं कृणुध्वं । विशः पूर्वीः प्र चरा चर्षणिप्राः ॥ (*pra vo mahe mahivṛdhe bharadhvaṃ pracetase pra sumatiṃ kṛṇudhvaṃ | viśaḥ pūrvīḥ pra carā carṣaṇiprāḥ ‖*) (Ṛ. Saṃ. 7-31-10).
+
+In such Ṛks it is explained as स्तोतुः स्तुतिं आ जानीहि (*stotuḥ stutiṃ ā jānīhi*), "listen to the excellent praise of the praiser", and इंद्राय सुष्टुतिं प्र कुरुत (*iṃdrāya suṣṭutiṃ pra kuruta*), "recite an excellent praise addressed to Indra". And:
+
+यूयं न उग्रा मरुतः सुचेतुनारिष्टग्रामाः सुमतिं पिपर्तन । यत्रा वो विद्युद्रदति क्रिविदर्ती रिणाति पश्वः सुधितेव बर्हणा ॥ (*yūyaṃ na ugrā marutaḥ sucetunāriṣṭagrāmāḥ sumatiṃ pipartana | yatrā vo vidyudradati krividartī riṇāti paśvaḥ sudhiteva barhaṇā ‖*) (Ṛ. Saṃ. 1-166-6).
+
+### Printed p. 198
+In this Ṛk, explained earlier, Sāyaṇa explains सुमतिं पिपर्तन (*sumatiṃ pipartana*) as शोभनबुद्धिं पूरयत (*śobhanabuddhiṃ pūrayata*). Here "good mind" cannot mean the favouring mind of the gods. Since पिपर्तन (*pipartana*) is used, the sense "fulfil our excellent desires" is natural. Giving an explanation of this same Ṛk 1-166-6, the scholar Max Müller says:
+
+In our passage the Verb पिपर्तन (*pipartana*), fill or fulfil, indicates in what sense सुमति (*sumati*) ought to be taken. सुमतिं पिपर्तन (*sumatiṃ pipartana*) is no more than कामं पिपर्तन (*kāmaṃ pipartana*). [S. B. E. XXXII. P. 221].
+
+That is, it means "fulfil our desire". This sense too is natural. But in the present Ṛk, सुमतिं भिक्षॆ (*sumatiṃ bhikṣè*) means "I desire the favouring mind of the Maruts".
+
+Addressing the Maruts with हे मरुतः (*he marutaḥ*), the explanation given is that they, वेद्याभिः रराणता (*vedyābhiḥ rarāṇatā*), knowing Agastya's wish through the praises he has recited, should be रममाणेन मनसा (*ramamāṇena manasā*), of a mind filled with delight.
+
+रराणता (*rarāṇatā*): this word is formed from the root रण शब्दे (*raṇa śabde*). Ordinarily it means a sound in the form of praise. But in some contexts the word is used also in the sense of delight. Quoting the Ṛk in which this word is used,
+
+नाहमिंद्राणि रारण सख्युर्वृषाकपेर्यते । यस्येदमप्यं हविः प्रियं देवेषु गच्छति विश्वस्मादिंद्र उत्तरः ॥ (*nāhamiṃdrāṇi rāraṇa sakhyurvṛṣākaperyate | yasyedamapyaṃ haviḥ priyaṃ deveṣu gacchati viśvasmādiṃdra uttaraḥ ‖*) (Ṛ. Saṃ. 10-86-12 **NOTE**)
+
+the author of the Nirukta gives रारण (*rāraṇa*) the sense रमे (*rame*). In some places Sāyaṇa gives only the sense of sound. For example:
+
+यः सोम सख्ये तव, कारणद्देव मर्त्यः । तं दक्षः सचले कविः ॥ (*yaḥ soma sakhye tava, kāraṇaddeva martyaḥ | taṃ dakṣaḥ sacale kaviḥ ‖*) (Ṛ. Saṃ. 1-91-14).
+
+In such Ṛks he explains रणति एतत्तूक्तरूपेण त्वां स्तौति (*raṇati etattūktarūpeṇa tvāṃ stauti*) as "they praise you with this sūkta-form (word)". For the most part, use in the sense of delight is the more frequent.
+
+हेळः निधत्त अश्वान् वि मुचध्वं (*heḷaḥ nidhatta aśvān vi mucadhvaṃ*): the word हेळस् (*heḷas*) is read among the names for anger (Ni. 3-9). The Maruts should युष्मदतिक्रमजनितं क्रोधं निकृष्टं धारयत त्यजत (*yuṣmadatikramajanitaṃ krodhaṃ nikṛṣṭaṃ dhārayata tyajata*).
+
 ---
 
-**Progress note:** Done through printed p. 192. pp. 187-192 (batch API)
+**Progress note:** Done through printed p. 198. pp. 193-198 (batch API)
