@@ -7598,6 +7598,112 @@ The meaning is explained thus: by Indra's grace we, the sacrificers, hope to obt
 - ववृत्याः — वृतु वर्तने इति धातुः । लिजि व्यत्ययो बहुलं इति परस्मैपदप्रत्ययः भवति । बहुलं छंदसि इति शपि श्लुविकरणम् । तं निमित्तीकृत्य धातोः द्वित्वादि । सिपि यासुटागमः । तस्य जित्वविधानात् लघूपधगुणः न भवति । तिङ्ङतिङः (पा. सू. ८-१-२८) इति निघातस्वरः भवति ।
 - सुविताय — इण् गत् इति धातुः । क्तप्रत्ययः । तन्वादीनां छंदसि बहुलमुपसंख्यानम् इति वचनेन उवजादेशः । गतिरनंतरः इति सूत्रेण पूर्वपदप्रकृतिस्वरे प्राप्ते सूपमानात् क्तः (पा. सू. ६-२-१४५) इति उत्तरपदांतोदात्तस्वरः भवति ।
 
+### Printed p. 313
+## Sūkta 174 (Maṇḍala 1)
+
+Introduction. The sūkta त्वं राजेति (*tvaṃ rājeti*) has ten Ṛks and is the tenth sūkta, Āgastya's, addressed to Indra, in Triṣṭubh. The Anukramaṇī says त्वं राजा दश (*tvaṃ rājā daśa*). In the Pṛṣṭha ṣaḷaha, at the increase of the stomas, the Hotṛ priests are to recite it for the sake of exceeding the stoma. The Āśvalāyana sūtra on this is: ऐंद्राणि त्रैष्टुभान्यमरुच्छज्ञान्यावसेरन् (*aiṃdrāṇi traiṣṭubhānyamarucchajñānyāvaseran*) (Ā. Sū. 7-12).
+
+Anuvāda: This sūkta, "त्वं राजा (*tvaṃ rājā*)", is the tenth sūkta in the twenty-third anuvāka. It has ten Ṛks. Agastya is the seer, Indra the deity, Triṣṭubh the metre. The Anukramaṇī says "त्वं राजा दश (*tvaṃ rājā daśa*)". At the Soma sacrifice called Pṛṣṭha, performed over six days, the mantras recited for the increase of the stomas are to be recited as this sūkta by the Ṛtvijs of the Hotṛ group, for the purpose of exceeding the stomas. On this point the Āśvalāyana Śrauta Sūtra has the sūtra ऐंद्राणि त्रैष्टुभान्यमरुच्छब्दान्यावपेरन् (*aiṃdrāṇi traiṣṭubhānyamarucchabdānyāvaperan*) (Ā. Śrau. 7-12).
+
+Maṇḍala 1; Anuvāka 23; Sūkta 174. Aṣṭaka 2; Adhyāya 4; Vargas 16, 17. Number of Ṛks in the sūkta: 10. Seer: Āgastya. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं राजें॑द्र॒ ये च॑ दे॒वा रक्षा॒ नृन्पा॒ह्य॑सुर॒ त्वम॒स्मान् ।  
+> त्वं सत्प॑तिर्म॒घवा॑ न॒स्तरु॑त्र॒स्वं स॒त्यो वस॑वानः सहो॒दाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । राजा । इंद्र । ये । च । देवाः । रक्ष । नृन् । शाहि । असुर । त्वं । अस्मान् ।  
+> त्वं । सत्पतिः । मघवा । नः । तरुत्रः । त्वं । सत्यः । वसवानः । सहदाः ॥ १ ॥
+
+### Printed p. 314
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं राजाधिपतिः सर्वस्य जगतः । किंच ये देवा मरुदादयः संति
+> तेषामपि विशेषेण । अतो हे असुर शत्रुणां निरसितः त्वं नृनस्मान् कर्मनेत्यन्य
+> जमानान्रक्ष । पालय । विशेषतोऽस्मानपि रक्ष । त्वं च सत्पतिः सतां सतः कर्मफलस्य
+> वा पाता मघवा धनवान्नोऽस्माकं तरुत्रस्तारयिशा पापात् किंच त्वं सत्योऽबाध्यः
+> सत्यफलो वा वसवानः स्वतेजसा सर्वं छादयन् वसूनि वा कुर्वन् स्तोतृभ्यः
+> सहोदाः सहसो बलस्य दाता भवेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the king, the overlord of the whole world, and especially of those gods, the Maruts and others, who exist. Therefore, O Asura, hurler-down of enemies, protect us, the sacrificers, the leaders of the rite; protect us in particular as well. You are the protector of the good (or of the fruit of the good rite), the wealthy one, our saviour from sin. You are true: unobstructable, or having true fruit. You are *vasavān*: covering all with your own radiance, or making wealth for the singers. You are the giver of might (sahas); "be" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- राजा (*rājā*)—lord (of the whole world)
+- ये देवाः (*ye devāḥ*)—the gods (the Maruts and others) who exist (and especially their sovereign)
+- असुर (*asura*)—O Indra, destroyer of enemies (therefore)
+- त्वं (*tvaṃ*)—you
+- नृन् (*nṛn*)—the sacrificers, leaders of rites
+- पाहि (*pāhi*)—protect
+- अस्मान् (*asmān*)—us also
+- रक्ष (*rakṣa*)—guard
+- त्वं (*tvaṃ*)—you
+- सत्पतिः (*satpatiḥ*)—lord of good men or of the fruit of rites
+- मघवा (*maghavā*)—the possessor of wealth
+- नः (*naḥ*)—us
+- तरुत्रः (*tarutraḥ*)—one who carries (us) across (from sins)
+- त्वं (*tvaṃ*)—you
+- सत्यः (*satyaḥ*)—one free from obstruction, or one having true fruit
+- वसवानः (*vasavānaḥ*)—one who covers everything with his own splendour, or one who provides wealth to the singers
+- सहोदाः (*sahodāḥ*)—giver of strength
+- (be)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you alone are the lord of the whole world together with the gods, the Maruts and the rest. O Indra, destroyer of enemies, protect the performers of the sacrifice and us. You are the lord of the fruit of rites, rich in wealth, remover of sin; grant (us) true fruit, wealth and strength.
+
+##### English translation (H. H. Wilson)
+You, Indra, are King: they who are gods (are subject) to you therefore, scatterer (of foes), do yau protect and cherish us men: you are the protector of the good, the possessor of wealth, the extricator of us (from sin): you are true, the invester (of all with your lustre), the giver of strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Indra's greatness is set out through a description of his qualities. त्वं राजा (*tvaṃ rājā*): Indra is addressed. Explaining that Indra is सर्वस्य जगतः अधिपतिः (*sarvasya jagataḥ adhipatiḥ*), the lord of the whole world, the text goes on, ये देवाः मरुदादयस्संति तेषामपि विशेषेण (*ye devāḥ marudādayassaṃti teṣāmapi viśeṣeṇa*): he is protector and lord even of the gods, the Maruts and the rest.
+### Printed p. 315
+*asura nṛn asmān rakṣa*: The word asura is listed among the names of cloud (Ni. 2-22), and is explained in Ni. 3-8: असुरा असुरताः स्थानेष्टस्ताः स्थानेभ्य इति वा अपि वा असुरिति प्राणनाम अस्तः शरीरे भवति तेन तद्वंतः (*asurā asuratāḥ sthāneṣṭastāḥ sthānebhya iti vā api vā asuriti prāṇanāma astaḥ śarīre bhavati tena tadvaṃtaḥ*). Sāyaṇa explains that Indra is an asura because he destroys enemies, and takes the meaning to be: may Indra protect us, the sacrificers who perform the sacrificial rites.
+
+In the Purāṇas and elsewhere the word asura is a synonym of rākṣasa. In the Ṛksaṃhitā, however, the word is used in various senses. Asu means breath, intelligence, throwing, and many other meanings; the word asura is accordingly used according to these meanings, and they are to be applied as the context requires. In the Ṛk बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः । (*bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ |*) (Ṛ. Saṃ. 1-54-3) the word asura is an epithet of Indra, just as in the present Ṛk. Here too, as stated in that Ṛk, one meaning is असुरः शत्रूणां निरसिता (*asuraḥ śatrūṇāṃ nirasitā*), "he who casts down enemies"; and, alternatively, असुः प्राणो बलं वा तद्वान् (*asuḥ prāṇo balaṃ vā tadvān*) with the affix ra in the sense of possession; or asavaḥ are breaths, and by that the waters are indicated: तान् राति ददातीति असुरः (*tān rāti dadātīti asuraḥ*), "he who gives them". (The Kannada also adds "one who looks at enemies".) Or, since asu means breath and strength, "one who has breath" or "one who has strength", or asavaḥ means waters, and so "Indra who gives them". Since Indra has such various powers, the word can be an epithet of Indra in all these meanings. Likewise in the Ṛk क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि । (*kṣayannasmabhyamasura pracetā rājannenāṃsi śiśrathaḥ kṛtāni |*) (Ṛ. Saṃ. 1-24-14) Varuṇa is called asura, as अनिष्टक्षेपणशीलः (*aniṣṭakṣepaṇaśīlaḥ*), one who destroys what is unwelcome; and in the same sense, in त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे । (*tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*) (Ṛ. Saṃ. 2-1-6) the quality of Agni is described. Likewise, in वि सुपर्णो अंतरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः । (*vi suparṇo aṃtarikṣāṇyakhyadgabhīravepā asuraḥ sunīthaḥ |*) (Ṛ. Saṃ. 1-35-7) asura means Sūrya, the giver of breath.
+### Printed p. 316
+In पृषद्योनिः पंचहोशा तृषोत्वतूर्तपंथा असुरो मयोभुः । (*pṛṣadyoniḥ paṃcahośā tṛṣotvatūrtapaṃthā asuro mayobhuḥ |*) (Ṛ. Saṃ. 5-42-1) it means Vāyu, the giver of breath. In places such as धृतप्रसत्तो असुरः सुशेवो रायो धर्ता धरुणो वस्तो आग्निः । (*dhṛtaprasatto asuraḥ suśevo rāyo dhartā dharuṇo vasto āgniḥ |*) (Ṛ. Saṃ. 5-15-1) and न्यंग्नि सीददसुरो न होता हुवानो अत्र सुभगाय देवान् । (*nyaṃgni sīdadasuro na hotā huvāno atra subhagāya devān |*) (Ṛ. Saṃ. 7-30-3) it is an epithet of Agni and others, "strong, powerful". In अस्मे वीरो मरुतः तुष्मस्य जनानां यो असुरो विधर्ता । (*asme vīro marutaḥ tuṣmasya janānāṃ yo asuro vidhartā |*) (Ṛ. Saṃ. 7-56-24) and the like it means "intelligent"; in शतं कक्षीवा असुरस्य गोनां दिवि श्रवोऽजरमा ततान । (*śataṃ kakṣīvā asurasya gonāṃ divi śravo 'jaramā tatāna |*) (Ṛ. Saṃ. 1-126-2) "munificent"; in त्रिरुत्तमा दूणशा रोचनानि त्रयो राजंत्यसुरस्य वीराः । (*triruttamā dūṇaśā rocanāni trayo rājaṃtyasurasya vīrāḥ |*) (Ṛ. Saṃ. 3-56-8), अस्यति क्षिपति सर्वमित्यसुरः कालात्मा संवत्सरः (*asyati kṣipati sarvamityasuraḥ kālātmā saṃvatsaraḥ*), that is, time. In places such as यथा रुद्रस्य सूनवो दिवो वशंत्यसुरस्य वेधसः । (*yathā rudrasya sūnavo divo vaśaṃtyasurasya vedhasaḥ |*) (Ṛ. Saṃ. 8-20-17) it has the sense of cloud; and in Ṛks such as अनायधासो असुरा अदेवाश्चक्रेण ता अप वप ऋजेषिन् । (*anāyadhāso asurā adevāścakreṇa tā apa vapa ṛjeṣin |*) (Ṛ. Saṃ. 8-96-9) the asuras are demons belonging to the company of rākṣasas. In the present Ṛk the meaning is Indra, the one who casts down such rākṣasas.
+
+सत्पतिः (*satpatiḥ*): सशां कर्मफलस्य वा पाता (*saśāṃ karmaphalasya vā pātā*). Sāyaṇa gives two meanings: Indra is the protector of good men, or of the fruit of the rites each has performed. Here *satām* may mean "of the sat", that is, of all beings whose nature is truth; or "of all good people". Explaining the special sense of this word, the scholar Max Muller says:
+### Printed p. 317
+"Satpati. Lord of men means Lord of real men, of heroes, and should not be translated as good lord (sat) by itself is frequently used in the sense of heroes, of men, physically rather than morally good." [S. B. E. XXXII]
+
+He explains that the word means not merely protector of the people, but protector of people who are powerful and who show their valour in battles, and as examples he cites two Ṛks in which the word is used. First, in त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या । (*tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ | tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā |*) (Ṛ. Saṃ. 2-1-3), सतां वृषभः असि (*satāṃ vṛṣabhaḥ asi*) means "the hero among heroes". Likewise, in समत्सु त्वा शूर सतामुराणं प्रपथिंतमं परितंसयध्यै । सजोषस इंद्रं मदे क्षोणीः सूरिं चिद्ये अनुमदंति वाजैः ॥ (*samatsu tvā śūra satāmurāṇaṃ prapathiṃtamaṃ paritaṃsayadhyai | sajoṣasa iṃdraṃ made kṣoṇīḥ sūriṃ cidye anumadaṃti vājaiḥ ‖*) (Ṛ. Saṃ. 1-173-7), समत्सु शूर सतामुराणं (*samatsu śūra satāmurāṇaṃ*) means one who protects others in battle; and in the same way in the present Ṛk too the meaning can be "protector of heroic people".
+
+मघवा तरुत्रः (*maghavā tarutraḥ*): Sāyaṇa says that Indra is wealthy and is our तारयिता पापात् (*tārayitā pāpāt*), one who protects us from sins.
+
+सत्यः वसवानः सहोदाः (*satyaḥ vasavānaḥ sahodāḥ*): For the word satya the explanation given is अबाध्यः सत्यफलो (*abādhyaḥ satyaphalo*): one not subject to trouble arising from enemies, or one who gives the sacrificers fruit that does not fail. Where the same word satya is an epithet of Indra in some other places, its sense is explained as अबाध्यः सत्सु भवो (*abādhyaḥ satsu bhavo*): beyond obstruction, or one who dwells among good men. To be beyond obstruction he must not be untrue in nature but of the nature of truth and follow the path of truth.
+
+Throughout the Ṛksaṃhitā the word satya is used with the sense of an excellent and moral worth and power. The acts performed by those who have such excellent worth are also of the nature of truth. Expressing this meaning, the Niruktakāra too gives the etymology of satya as follows:
+### Printed p. 318
+सत्यं कस्मात् सत्सु तायते सत्यभवं भवतीति वा (*satyaṃ kasmāt satsu tāyate satyabhavaṃ bhavatīti vā*) (Ni. 2-13)
+
+According to this etymology, satya is so called because it spreads among good people or because it arises from good people. Since fruit of the nature of truth too must come to the good alone, the Ṛk shows the sense that Indra is the giver of fruit that is fitting to the true acts of the virtuous and is of the nature of the good. Since the word satya is used here with reference both to act and to fruit, one must explain what universal principle this idea reflects in both these contexts.
+
+ते देवा उत्सृज्यान्यतं । सत्यमन्वालेभिरे (*te devā utsṛjyānyataṃ | satyamanvālebhire*) (Śa. Brā. 9-5-1-13)
+
+तद्यत्तत्सत्यं । त्रयीसा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तनवामहा इति । (*tadyattatsatyaṃ | trayīsā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tanavāmahā iti |*) (Śa. Brā. 9-5-1-18)
+
+The gods gave up untruth and firmly took hold of truth. Since the Vedas called the Trayī are of the nature of this truth, the gods wished: "Let us perform the rites enjoined by the Veda and spread truth." Beyond showing in this way the essential connection between truth and conduct, it is hoped that through such pure performance of rites one can obtain well-being that is complete and endowed with all prosperity.
+
+नाभिर्युतस्य सप्रथा इति । सत्यं वा ऋतं वा ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह। (*nābhiryutasya saprathā iti | satyaṃ vā ṛtaṃ vā ṛtaṃ satyasya nābhiḥ saprathā ityevaitadāha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ityevaitadāha|*) (Śa. Brā. 14-3-1-18)
+
+By such explanations the identity of truth with the order of the universe is shown, and, because by following such truth and performing true acts full life is obtained as their fruit, the relation of cause and effect between good fruit and good act is declared. Since even for the performance of acts of the nature of truth it is essential to know the order of the universe and the nature of the gods who cause it, that knowledge too, it is made clear in many contexts, is possible only through truth.
+
+सखा ह यत्र सखिभिर्नवग्वैरभिज्ञा सत्वभिर्गा अनुग्मन् । सत्यं तदिंद्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियंतं । (*sakhā ha yatra sakhibhirnavagvairabhijñā satvabhirgā anugman | satyaṃ tadiṃdro daśabhirdaśagvaiḥ sūryaṃ viveda tamasi kṣiyaṃtaṃ |*) (Ṛ. Saṃ. 3-39-5)
+
+त इद्देवानां सधमाद आसन् (*ta iddevānāṃ sadhamāda āsan*) … *uṣāsaṃ* **NOTE** (Ṛ. Saṃ. 7-76-4)
+
 ---
 
-**Progress note:** Done through printed p. 312. pp. 307-312 (batch API)
+**Progress note:** Done through printed p. 318. pp. 313-318 (batch API)
