@@ -24469,6 +24469,257 @@ The affluent daughter of heaven is perceived : all creatures behold the luminous
 > च ।  
 > ति॒ल्वि॒ला॒यध्व॑मुषसो विभा॒तीर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 
+### Printed p. 589
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । त्वा । अद्य । सुमनसः । बुधंत । अस्माकासः । मघवानः । वयं । च ।  
+> तिल्विलायध्वं । उषसः । विभातीः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः त्वा त्वामद्यास्मिन्काले सुमनसः शोभनस्तुतिका मघवानो हविर्लक्षणान्नवंतोऽस्माकासोऽस्माका अस्मदीयाः पुरुषा ऋत्विजः । यद्वा । मघवान इत्येतद्वयमित्येतस्य विशेषणं । हविष्मंतो वयं । प्रति बुधंत । प्रत्यबोधयन् स्तुतिभिः । हे उषसः यूयं च विभातीर्व्युच्छंत्यः सत्यस्तिल्विलायध्वं । जगत् स्निग्धभूमिकं कुरुत ॥ तिल स्नेहन इत्यस्मात्तिलुः ॥ तिलुरिला भूर्यस्य तत्तिल्विलं । तत्कुरुत । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+O Ushas, today at this time those who are of good mind, that is, of fair praises, and who are rich in the form of oblations (mghavān)—our own men, the priests—have awakened you with their praises. Or else मघवान (*maghavāna*) is an epithet of अस्माकासः (*asmākāsaḥ*) in the sense "we, possessed of oblations". O Dawns, you who shine forth as you dawn, make the world moist; तिल स्नेहन (*tila snehana*) gives तिलुः (*tiluḥ*), and तिल्विलं (*tilvilaṃ*) is that of which the earth is abundant in moisture; so make it. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you (O Ushas)
+- अद्य (*adya*)—at this time of the sacrifice
+- सुमनसः (*sumanasaḥ*)—those endowed with excellent praises
+- मघवानः (*maghavānaḥ*)—those furnished with oblations
+- अस्माकासः (*asmākāsaḥ*)—our priests
+- प्रतिबुधंत (*pratibudhaṃta*)—serve you
+- वयं च (*vayaṃ ca*)—we also serve
+- उषसः (*uṣasaḥ*)—O Dawns
+- विभातीः (*vibhātīḥ*)—you who are shining
+- तिल्विलायध्वं (*tilvilāyadhvaṃ*)—make the world moist with rain (O gods)
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Ushas, our priests, endowed with excellent praises and furnished with oblations, and we ourselves, awaken you at this time of the sacrifice. O Dawns, shining ones, make the world moist with rain. O gods, always protect us with blessings.
+
+##### English translation
+Affluent (in sacrificial offerings), actuated by one mind, we and ours awaken you, (Ushas), to-day : luminous dawns, soften (the earth) with unctuous (dews) : and do you, (gods), ever cherish us with blessings.
+
+### Printed p. 590
+## Sūkta 79 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्युषा आव इति पंचर्चं नवमं सूक्तं वसिष्ठस्यार्षमुषस्यं त्रैष्टुभं । व्युषा इत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The hymn व्युषा आवः (*vyuṣā āvaḥ*) is a hymn of five Ṛks, the ninth sūkta; the seer is Vasiṣṭha, the deity Ushas, the metre Triṣṭubh. The Anukramaṇikā says व्युषा (*vyuṣā*). Its use was stated earlier for the Prātaranuvāka and the Aśvina-śastra.
+
+Anuvāda: This sūkta is the ninth in the fifth anuvāka, with five Ṛks; seer Vasiṣṭha, deity Ushas, metre Triṣṭubh. As the Anukramaṇikā says व्युषाः (*vyuṣāḥ*), the use of the sūkta for the Prātaranuvāka and Aśvina-śastra mantras was stated earlier.
+
+Sūkta 79; Maṇḍala 7; Anuvāka 5; Aṣṭaka 5; Adhyāya 5; Varga 26; number of Ṛks in the sūkta: 5. Ṛṣi: Vasiṣṭha. Devatā: Ushas. Chandas: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्यु१॒॑षा आ॑वः प॒थ्या॒३॒॑ जना॑नां॒ पंच॑ क्षि॒तीर्मानु॑षीर्बो॒धयं॑ती ।  
+> सु॒सं॒दृग्भि॑रु॒क्षभि॑र्भा॒नुम॑श्रे॒द्वि सूर्यो॒ रोद॑सी॒ चक्ष॑सावः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । उषाः । आवः । पथ्या । जनानां । पंच । क्षितीः । मानुषीः । बोधयंती ।  
+> सुसंदृक्भिः । उक्षभिः । भानुं । अश्रेत् । वि । सूर्यः । रोदसी इति । चक्षसा ।  
+> आवरित्यावः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनानां सर्वप्राणिनां पथ्या पथि हितोषा व्यावः । व्यौच्छत् । यद्वा । जनानां हिताय व्यौच्छदिति योज्यं । किं कुर्वती । मानुषीर्मनुष्यरूपाः पंच
+
+##### Gist of the bhāṣya
+
+Ushas, beneficent on the path for the people, all beings, has dawned forth; or else it is to be construed "dawned for the benefit of the people". Doing what? Awakening the five human classes (मानुषीः (*mānuṣīḥ*))
+
+### Printed p. 591
+
+> क्षितीर्निषादपंचमांश्चतुरो वर्णान्बोधयंती । ईदृश्युषाः सुसंदृग्भिः । संदृश्यते संदर्शयतीति वा संदृक् तेजः । सुतेजोभिरुक्षभिर्गोभिर्भानुमश्रेत् । अरुणैरुषा आजिनुधावत् । ऐ. ब्रा. ४-९ । इति हि श्रुतिः । अरुण्यो गाव उषसामिति निरुक्तं । सूर्यश्च रोदसी द्यावापृथिव्यौ तमोयुक्ते चक्षसा प्रकाशकेन तेजसा व्यावः । विवृणोति ॥
+
+##### Gist of the bhāṣya
+
+—that is, the four castes with the Niṣāda as fifth. Such is Ushas, with सुसंदृग्भिः (*susaṃdṛgbhiḥ*), "well seen" or "causing to be seen", i.e. brilliance; with bright rays, cows, she has resorted to the sun. The Ai. Brā. 4-9 says: "Ushas ran with ruddy ones"; the Nirukta says the cows of the dawns are ruddy. And the sun uncovers heaven and earth, enveloped in darkness, with his illuminating radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनानां (*janānāṃ*)—for the beings
+- पथ्या (*pathyā*)—beneficent
+- उषाः (*uṣāḥ*)—Ushas
+- मानुषीः (*mānuṣīḥ*)—of human form
+- पंच क्षितीः (*paṃca kṣitīḥ*)—the five kinds of people, Niṣāda and the rest
+- बोधयंती (*bodhayaṃtī*)—awakening
+- व्यावः (*vyāvaḥ*)—has become manifest
+- सुसंदृग्भिः (*susaṃdṛgbhiḥ*)—lustrous
+- उक्षभिः (*ukṣabhiḥ*)—with cows
+- भानुं (*bhānuṃ*)—the sun
+- अश्रेत् (*aśret*)—has resorted to
+- सूर्यः (*sūryaḥ*)—the sun
+- रोदसी (*rodasī*)—heaven and earth
+- चक्षसा (*cakṣasā*)—with his radiance
+- वि आवः (*vi āvaḥ*)—illumines
+
+##### भावार्थ (Bhāvārtha)
+
+Ushas, who brings benefit to beings, has become manifest, awakening the five kinds of human people, Niṣāda and the rest. She has resorted to the sun with her lustrous cows. The sun too illumines heaven and earth with his radiance.
+
+##### English translation
+Ushas has dawned upon the paths of men, awaking the five classes of human beings : she has shed light with her lustrous oxen : the sun makes heaven and earth manifest with radiance
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्यं॑जते दि॒वो अंते॑ष्व॒क्तून्विशो॒ न यु॒क्ता उ॒षसो॑ यतंते ।  
+> सं ते॒ गाव॒स्तम॒ आ व॑र्तयंति॒ ज्योति॑र्युच्छंति सवि॒तेव॑  ॒
+> बाहू ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अंजते । दिवः । अंतेषु । अक्तून् । विशः । न । युक्ताः । उषसः । यतंते ।  
+> सं । ते । गावः । तमः । आ । वर्तयंति । ज्योतिः । युच्छंति । सविता इव । बाहू  
+> इति ॥ २ ॥
+
+### Printed p. 592
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषसोऽक्तूंस्तेजांसि दिवोऽंतरिक्षस्यांतेषु पर्यंतप्रदेशेषु व्यंजते । व्यक्तीकुर्वंतीत्यर्थः । युक्ताः परस्परं संयुक्ता विशो न प्रजा इव सेना इव यतंते । प्रयतंते तमोनाशनायात्र गमनाय वा । अथ प्रत्यक्षवादः । हे उषः ते तव गावो रश्मयस्तमोऽंधकारं समा वर्तयंति । नाशयंति । ज्योतिस्तेजो युच्छंति । प्रयुच्छंति । सविता सूर्यो बाहू इव ॥
+
+##### Gist of the bhāṣya
+
+The dawns make manifest their brilliances at the ends of the sky, its boundary regions. Like united peoples or armies they strive, to destroy darkness or to go forth. Now a direct address: O Ushas, your cows, the rays, drive away and destroy darkness; they spread light as Savitṛ, the sun, spreads his arms.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसः (*uṣasaḥ*)—the dawns
+- अक्तून् (*aktūn*)—brilliances
+- दिवः (*divaḥ*)—of the sky
+- अंतेषु (*aṃteṣu*)—at the farthest regions
+- व्यंजते (*vyaṃjate*)—make manifest
+- युक्ताः (*yuktāḥ*)—joined together
+- विशो न (*viśo na*)—like armies
+- यतंते (*yataṃte*)—strive to destroy darkness (O Ushas)
+- ते (*te*)—your
+- गावः (*gāvaḥ*)—rays
+- तमः (*tamaḥ*)—darkness
+- सं आवर्तयंति (*saṃ āvartayaṃti*)—destroy
+- सविता (*savitā*)—the sun
+- बाहू इव (*bāhū iva*)—as he spreads his rays
+- ज्योतिः (*jyotiḥ*)—light
+- युच्छति (*yucchati*)—spread
+
+##### भावार्थ (Bhāvārtha)
+
+The dawns make their brilliances manifest at the farthest regions of the sky. Like armies joined together they strive to destroy darkness. O Ushas, your rays destroy darkness. As the sun spreads his rays, they spread their light.
+
+##### English translation
+The dawns send their rays to the ends of the sky : they advance like people arrayed (in martial order) : your rays, Ushas, annihilate the darkness ; they diffuse light as Savitri (spread out) his arms.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॑दु॒षा इंद्र॑तमा म॒घोन्यजी॑जनत्सुवि॒ताय॒ श्रवां॑सि ।  
+> वि दि॒वो दे॒वी दु॑हि॒ता द॑धा॒त्यंगि॑रस्तमा सु॒कृते॒ वसू॑नि ॥ ३ ॥
+
+### Printed p. 593
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूत् । उषाः । इंद्रतमा । मघोनी । अजीजनत् । सुविताय । श्रवांसि ।  
+> वि । दिवः । देवी । दुहिता । दधाति । अंगिरस्तमा । सुकृते । वसूनि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रतमा सर्वस्येश्वरतमा मघोनी धनवत्युषा अभूत् । प्रादुरभूत् । सुविताय कल्याणाय श्रवांस्यन्नान्यजीजनत् । उदपादयत् । प्रकाशितवतीत्यर्थः । दिवो दुहितांगिरस्तमा गंतृतमा । यद्वा । अंगिरोगोत्रैर्भारद्वाजैः सह रात्रेरस्युत्पत्ते रात्र्यवसानस्योषोरूपत्वादंगिरस्तमेत्युच्यते । भारद्वाज्यै रात्रेः सहोत्पत्तिरनुक्रमण्यामुक्ता । रात्री कुशिकः सौभरो रात्रिर्वा भारद्वाजी । अनु ऋ. १०-१२७ । इति । तादृश्युषाः सुकृते यजमानाय वसूनि धनानि वि दधाति । करोति ॥
+
+##### Gist of the bhāṣya
+
+Ushas, supreme sovereign of all and wealthy, has appeared; for welfare she has produced foods. Daughter of heaven, अंगिरस्तमा (*aṃgirastamā*) means "most going". Or else, since this night arose together with the Bhāradvājas of the Aṅgiras gotra, and the end of night is Ushas, she is called Aṅgirastamā. The Anukramaṇī states the joint origin of night with the Bhāradvājī: रात्री कुशिकः सौभरो रात्रिर्वा भारद्वाजी (*rātrī kuśikaḥ saubharo rātrirvā bhāradvājī*) (Anu. Ṛ. 10-127). Such an Ushas bestows treasures on the good-doer, the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रतमा (*iṃdratamā*)—excellent mistress
+- मघोनी (*maghonī*)—wealthy
+- उषाः (*uṣāḥ*)—Ushas
+- अभूत् (*abhūt*)—has appeared
+- सुविताय (*suvitāya*)—for the welfare of beings
+- श्रवांसि (*śravāṃsi*)—foods
+- अजीजनत् (*ajījanat*)—has produced
+- दिवः (*divaḥ*)—of the heavenly world
+- दुहिता (*duhitā*)—daughter
+- अंगिरस्तमा (*aṃgirastamā*)—most excellent in movement
+- देवी (*devī*)—divine Ushas
+- सुकृते (*sukṛte*)—for the good sacrificer
+- वसूनि (*vasūni*)—treasures
+- वि दधाति (*vi dadhāti*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+The excellent mistress, wealthy Ushas, has appeared. For the welfare of beings she has produced foods. Ushas, daughter of heaven, most excellent in movement, divine, provides treasures to the good sacrificer.
+
+##### English translation
+The supreme sovereign, the opulent Ushas, has risen: she has engendered food for our welfare: the divine daughter of heaven, most prompt in movement, bestows treasures upon the pious worshipper.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताव॑दुषो॒ राधो॑ अ॒स्मभ्यं॑ रास्व॒ याव॑त्स्तो॒तृभ्यो॒ अर॑दो  ॒
+> गृणा॒ना ।
+
+### Printed p. 594
+
+> यां त्वा जज्ञुर्वृषभस्या रवेण वि दृळ्हस्य दुरो अद्रेरौर्णोः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तावत् । उषः । राधः । अस्मभ्यं । रास्व । यावत् । स्तोतृभ्यः । अरदः । गृणाना ।  
+> यां । त्वा । जज्ञुः । वृषभस्य । रवेण । वि । दृळ्हस्य । दुरः । अद्रेः । और्णोः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः यावद्राधो धनं स्तोतृभ्यः पूर्वमरदः दत्तवत्यसि तावद्राधो धनं गृणाना स्तूयमानास्मभ्यमपि रास्व । देहि । यां त्वा त्वां वृषभस्य रवेण । लुप्तोपमैषा ॥ वृषभस्येति कर्मणि षष्ठी ॥ वृषभं रवेणेव त्वां प्रकाशेन जज्ञुः जानंति प्राणिनः । अथवा वृषभस्य प्रवृद्धस्य स्तोत्रस्य रवेण शब्देन जज्ञुः ज्ञापयंति । दृळ्हस्य दृढस्याद्रेर्दुरो द्वाराणि पणिभिर्गाः प्रवेश्य पिहितानि व्यौर्णोः । विपृतास्यकरोः ॥
+
+##### Gist of the bhāṣya
+
+O Ushas, as much wealth as you formerly gave to the praisers, so much give also to us, praised by us. You whom (यां त्वा (*yāṃ tvā*)) living beings know by the roar of a bull—this is a lost-particle simile (लुप्तोपमैषा (*luptopamaiṣā*)); वृषभस्य (*vṛṣabhasya*) is a genitive in the sense of the object—they know you by your light as one knows a bull by its roar. Or else they make you known by the sound of the swelling hymn. You opened the doors of the firm mountain, closed after the Paṇis had driven the cows in.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O Ushas
+- यां त्वा (*yāṃ tvā*)—you whom
+- वृषभस्य रवेण (*vṛṣabhasya raveṇa*)—as a bull is known by its sound, by your light
+- जज्ञुः (*jajñuḥ*)—beings know
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to former praisers
+- यावत् (*yāvat*)—as much
+- राधः (*rādhaḥ*)—wealth
+- अरदः (*aradaḥ*)—you gave
+- तावत् (*tāvat*)—so much
+- अस्मभ्यं (*asmabhyaṃ*)—to us also
+- गृणाना (*gṛṇānā*)—praised by us
+- रास्व (*rāsva*)—give
+- दृळ्हस्य (*dṛḷhasya*)—of the hard
+- अद्रेः (*adreḥ*)—mountain
+- दुरः (*duraḥ*)—entering the doors
+- वि और्णोः (*vi aurṇoḥ*)—you released the cows
+
+##### भावार्थ (Bhāvārtha)
+
+O Ushas, as a bull is recognised by its sound, people recognise you by your light. You, so renowned, give to us, praised by us, as much wealth as you gave to former praisers. You entered the doors of the hard mountain and released the cows.
+
+##### English translation
+Grant to us, Ushas, as much wealth as you have bestowed upon your adorers when (formerly) praised by them : you whom (your wor-
+
 ---
 
-**Progress note:** Done through printed p. 588. pp. 583-588 (batch API)
+**Progress note:** Done through printed p. 594. pp. 589-594 (batch API)
