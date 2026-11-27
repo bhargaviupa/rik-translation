@@ -385,3 +385,5 @@
 | 210 | `(Chā. U. 3-10-3, as read from the print "೩-೧೦-೩".)` → `(Chā. U. 2-10-5.)` | SECOND-PASS S1: Kannada p.210 (ಛಾ. ಉ. ೨-೧೦-೫) |
 | 211 | `(U. Sū. 2-50 as read)` → `(U. Sū. 2-208)` | SECOND-PASS S1: Kannada p.211 ದ್ರುದಕ್ಷಿಭ್ಯಾಮಿನನ್(ಉ. ಸೂ. ೨-೨೦೮) |
 | 211 | `(Pā. Sū. 6-1-197)` → `(Pā. Sū. 6-1-192)` | SECOND-PASS S1: Kannada p.211 ಇತ್ಯಾದಿರ್ನಿತ್ಯಮ್(ಪಾ. ಸೂ. ೬-೧-೧೯೨) |
+
+### 2026-11-27 qmark_strip.py: BLOCK 597 marks removed from 310 Sanskrit-block lines (derived data, K9); BARE 14 boilerplate remark lines removed (15 marks); OTHER 1041 marks left
