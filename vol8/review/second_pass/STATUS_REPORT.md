@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 404 (550–559, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–312, 312–395)
-- **Findings:** 1102 — applied 722, kept/not applied 380 (English kept: misprints and doubts settled by rule; see part 5); edits ok 693, failed 0
-- **Reader tokens (batches so far):** 1976k; per page 4.9k
-- **Last commit:** 0ca158e9
+- **Pages read:** 457 (550–559, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–312, 312–395, 395–448)
+- **Findings:** 1244 — applied 849, kept/not applied 395 (English kept: misprints and doubts settled by rule; see part 5); edits ok 820, failed 0
+- **Reader tokens (batches so far):** 2219k; per page 4.9k
+- **Last commit:** e48e6dc8
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
@@ -22,28 +22,31 @@
 | 9 | 212–241 | 100 | 67 | 64 / 0 | 33 | 191k | c73d3d9c | 100 [?] seen, 67 removed (39 corrected), 33 kept |
 | 10 | 242–312 | 150 | 139 | 135 / 0 | 11 | 211k | 6ea1f23d | marks q236-q385: 150 seen, 139 removed, 11 kept |
 | 11 | 312–395 | 145 | 132 | 129 / 0 | 13 | 186k | 0ca158e9 | marks q386-q535: 150 seen, 137 removed, 13 kept |
+| 12 | 395–448 | 144 | 129 | 127 / 0 | 15 | 243k | e48e6dc8 | marks q536-q685: 150 seen, 135 removed, 15 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| Q2 | 346 | 228 | 574 |
-| Q1 | 357 | 149 | 506 |
-| S3 | 11 | 0 | 11 |
+| Q2 | 424 | 243 | 667 |
+| Q1 | 398 | 149 | 547 |
+| S3 | 19 | 0 | 19 |
 | S2 | 6 | 0 | 6 |
 | S1 | 2 | 0 | 2 |
 | S7 | 0 | 2 | 2 |
 | S13 | 0 | 1 | 1 |
 
-By reader: R1 1099, R3 2, R6 1
+By reader: R1 1241, R3 2, R6 1
 
 ## 4. Open items (not findings)
 - **other** (pages 118): Pā. Sū. 3-1-0 (Kannada p. 118 prints ೩-೧-೦, impossible sutra number); applied as printed
 - **other** (pages 204): Ni. 28 (Kannada p. 204 prints (ನಿ. ೨೮) for the names of action; not in the usual form a-b); applied as printed
+- **other** (pages 445): Ṛ. Saṃ. reference in Wilson quotation (Kannada p. 445 prints (ಸೂ. ೧೦೫.೫.೯), not the usual form a-b-c); applied as printed: 105.5.9
+- **other** (pages 414): Pā. Sū. 6-2-196, 8-2-39, 7-1-39 and U. Sū. 4-256 (Kannada p. 414 prints these numbers for ata upadhāyāḥ, vraśca-…, supāṃ suluk, nahor bhaś ca); applied as printed
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 44 Kannada misprints where the English is kept (`kn_misprints.tsv`); 69 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 55 Kannada misprints where the English is kept (`kn_misprints.tsv`); 73 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol8/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
