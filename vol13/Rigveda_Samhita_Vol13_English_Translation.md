@@ -7446,6 +7446,158 @@ In all such Ṛks, फलस्य सेक्तुः (*phalasya sektuḥ*) m
 - मीळ्हुषः—मिह सेचने धातुः । दात्वान् साह्वान् मीढ्वांश्च (पा. सू. ६-१-१२) इति क्वसुप्रत्ययांतः निपातितः । शसि जसि वा परे वसोः संप्रसारणं इति संप्रसारणं पूर्वरूपं च । प्रत्ययस्वरेण उकार उदात्तो भवति ।
 - वंदते—वदि अभिवादनस्तुत्योः धातुः । इदितो नुम् धातोः इति नुमागमः । लट् प्रथमपुरुष एकवचनांतरूपम् । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ॥ १२ ॥
 
+### Printed p. 307
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्तोम॑ इंद्र॒ तुभ्य॑म॒स्मे ए॒तेन॑ गा॒तुं ह॑रिवो विदो नः ।  
+> आ नो॑ ववृत्याः सुवि॒ताय॑ देव वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्तोमः । इंद्र । तुभ्यं । अस्मे इति । एतेन । गातुं । हरिवः । विदः । नः ।  
+> आ । नः । ववृत्याः । सुविताय । देव । विद्याम । इषं । वृजनं । जीरदानुं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ त्रयोदश्या सूक्तादिमारभ्य कृतां स्तुतिं निगमय्य फलं प्रार्थयते ॥
+> हे इंद्र एष स्तोम इदानींकारितप्रकारः स्तोत्रविशेषस्तुभ्यं त्वदर्थं ।
+> हे हरिवो हरिभ्यां तद्वन्निंद्र एतेन स्तोत्रेण गमनेन वा नोऽस्मदीयं गातुं
+> देवयजनमार्गं विदः । विदस्व । विदित्वा च हे देव सुविताय सुहिताय
+> शोभनगमनाय वा नोऽस्माना ववृत्याः । आवर्तस्व । अस्मद्यागं प्रत्यागच्छ ।
+> विद्यामेत्यादि व्याख्यातं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that, having concluded the praise begun with the first Ṛk of the sūkta, the seer now prays for the fruit. "O Indra, this stoma", that is, the particular praise just now composed, "is for you", on your account. "O Harivas", Indra, who has the two bay horses (Hari), "by this praise", or by this going, "find out for us the path (gātu) of the sacrifice", that is, the path to the place of worship of the gods. Having found it, "O god, turn towards us for our good (suvitāya)", for our welfare or for a good going: come back to our sacrifice. The words beginning with विद्याम (*vidyāma*) have been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- अस्मे (*asme*)—our
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise (made up to now)
+- तुभ्यं (*tubhyaṃ*)—for you
+- (हे) हरिवः (*(he) harivaḥ*)—O Indra, possessor of the horses named Hari
+- एतेन (*etena*)—by this praise
+- नः (*naḥ*)—our
+- गातुं (*gātuṃ*)—the path to the sacrificial hall
+- विदः (*vidaḥ*)—know (it), (then)
+- (हे) देव (*(he) deva*)—O god
+- सुविताय (*suvitāya*)—for our good (for a pleasant coming)
+- नः (*naḥ*)—us
+- आ ववृत्याः (*ā vavṛtyāḥ*)—come, turning towards us
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—let us obtain (by your grace)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the praise we have made up to now is for the sake of satisfying you. By this praise of ours, knowing the way to our sacrificial hall, come to the sacrificial hall for our good. By the grace of you who have come, may we obtain food, strength and long life.
+
+### Printed p. 308
+
+##### English translation (H. H. Wilson)
+This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to our sacrifice, and come hither for our good, that we may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+हरिवः—हरिभ्यां तद्वन्निंद्र (*harivaḥ—haribhyāṃ tadvanniṃdra*). Because the phrase "Hari of Indra" (हरी इंद्रस्य (*harī iṃdrasya*)) is used for Indra's horses, Sāyaṇa has explained the word हरिवः (*harivaḥ*) as having the sense of the possessor (tadvat). Indra is addressed by this word.
+
+एष स्तोमः (*eṣa stomaḥ*)—The seers, the seers of the mantra, express the wish that this particular praise, "of the kind just now composed" (इदानींकारितप्रकारः स्तोत्रविशेषः (*idānīṃkāritaprakāraḥ stotraviśeṣaḥ*)), spoken in this manner, may reach Indra.
+
+एतेन नः गातुं विदः (*etena naḥ gātuṃ vidaḥ*)—Since the word एतेन (*etena*) is listed among the pronouns and so conveys a meaning that refers to what is present in the mind, it is used in the sense "by the praise"; and since it is formed from the root इण् (*iṇ*) which means going, it is also used in the sense "by going". Addressing Indra, Sāyaṇa has described the meaning thus: अस्मदीयं देवयजनमार्गं स्तोत्रेण गमनेन वा विदस्व (*asmadīyaṃ devayajanamārgaṃ stotreṇa gamanena vā vidasva*)—let him know the way to the sacrificial hall where we offer oblations to the gods, either by our praise or by his own going.
+
+गातुं (*gātuṃ*)—Even when the sense "going" is taken, two kinds of meaning are possible: the path of performance of the rite, or the path of going to the world of the gods. As with the word सुगं (*sugaṃ*), this word too has a physical and a moral sense. In Ṛks such as
+
+ऊर्ध्वो नां गातुरध्वरे अकार्यूर्ध्वा शोचेंषि प्रस्थिता रजांसि । दिवो ना नाभा न्यसादि होता स्तृणीमहि देवव्यचा वि बर्हिः । (*ūrdhvo nāṃ gāturadhvare akāryūrdhvā śoceṃṣi prasthitā rajāṃsi | divo nā nābhā nyasādi hotā stṛṇīmahi devavyacā vi barhiḥ |*) (Ṛ. Saṃ. 3-4-4)
+
+it is used in the sense "path"; in places such as
+
+अरमा नो अदितिर्यज्ञॆयासोदब्धानि वरुणस्य व्रतानि । युयोत नो अनपत्यानि गंतोः, प्रजावान्नः पशुमाअस्तु गातुः ॥ (*aramā no aditiryajñèyāsodabdhāni varuṇasya vratāni | yuyota no anapatyāni gaṃtoḥ, prajāvānnaḥ paśumāastu gātuḥ ‖*) (Ṛ. Saṃ. 3-54-18)
+
+it is explained स्तुवंतींद्रादीनत्रेति गातुर्गृहं । (*stuvaṃtīṃdrādīnatreti gāturgṛhaṃ |*), "the house in which Indra and other gods are praised", that is, a house.
+
+### Printed p. 309
+In
+
+न्यस्मै देवी स्वधितिर्जिहीत इंद्राय गातुरुशतीव येमे । सं यदोजो युवते विश्वमाभिरनु स्वधान्ने क्षितयो नमंत । (*nyasmai devī svadhitirjihīta iṃdrāya gāturuśatīva yeme | saṃ yadojo yuvate viśvamābhiranu svadhānne kṣitayo namaṃta |*) (Ṛ. Saṃ. 5-32-10)
+
+it means the earth (the word गातु (*gātu*) is read among the names of the earth) (Ni. 9-5). In Ṛks such as
+
+स ते जानाति सुमतिं यविष्ठ य ईवते ब्रह्मणे गातुमैरत् । विश्वान्यस्मै सुदिनानि रायो द्युम्नान्यर्यो वि दुरो अभि द्यौत् । (*sa te jānāti sumatiṃ yaviṣṭha ya īvate brahmaṇe gātumairat | viśvānyasmai sudināni rāyo dyumnānyaryo vi duro abhi dyaut |*) (Ṛ. Saṃ. 4-4-6)
+
+the word is also used as a synonym of praise: गीयते उच्चार्यते इति गातुः स्तोत्रं (*gīyate uccāryate iti gātuḥ stotraṃ*). In the present Ṛk the meaning taken is "going" and "the place of worship of the gods".
+
+जीरदानुं (*jīradānuṃ*)—At 1-165-15 Sāyaṇa has explained this word as जयशीलदानं (*jayaśīladānaṃ*). There is also a variant reading of this, जयशीलं दानं जीवनं वा (*jayaśīlaṃ dānaṃ jīvanaṃ vā*). How the sense "victory" or "bringing victory" arises for the word जीर (*jīra*) here is a matter worth considering. जीरदानु (*jīradānu*) is made of the two words जीर (*jīra*) and दानु (*dānu*). These two words are used separately in many places and give different meanings. Moreover, with the word जीर (*jīra*) other words such as अश्व (*aśva*) and अध्वर (*adhvara*) also combine, giving usages such as जीराश्व (*jīrāśva*) and जीराध्वर (*jīrādhvara*).
+
+In the Ṛk
+
+मनुष्वद्देव धीमहि प्रचेतसं जीर दूतममर्त्यं । (*manuṣvaddeva dhīmahi pracetasaṃ jīra dūtamamartyaṃ |*) (Ṛ. Saṃ. 1-44-11)
+
+Sāyaṇa, giving the derivation of the word जीर (*jīra*), says that it is formed from the root जु (*ju*) (जोरी च (*jorī ca*), Uṇ. Sū. 2-181) and gives the meaning "(of enemies) causing loss of vigour". Here जीरं (*jīraṃ*) is an epithet of Agni. From this meaning it is understood that the derivation may also be possible from the root ज्ञ वयोहानौ (*jña vayohānau*). The author of the Nirukta has included the word जीर (*jīra*) among the names for "swift" (Ni. 3-9).
+
+In the Ṛk
+
+दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्मनिष्टये । प्राचीनरश्मिमाहुतं धृतेन तद्देवानामवो अद्या वृणीमहे ॥ (*divispṛśaṃ yajñamasmākamaśvinā jīrādhvaraṃ kṛṇutaṃ summaniṣṭaye | prācīnaraśmimāhutaṃ dhṛtena taddevānāmavo adyā vṛṇīmahe ‖*) (Ṛ. Saṃ. 10-36-6)
+
+the Aśvin gods are prayed to make our rite जीराध्वर (*jīrādhvara*). Here जीराध्वर (*jīrādhvara*) means a sacrifice that is not obstructed by hindrances, is free from violence, and is completed swiftly.
+
+### Printed p. 310
+In places such as
+
+पृषे ता निश्वा भुवना ववक्षीरे मिश्राय वा सदमा जीरदानवः । पृषदश्वासो अनवभ्रराधस ऋजिप्यासो न वयुनेषु धूर्षदः ॥ (*pṛṣe tā niśvā bhuvanā vavakṣīre miśrāya vā sadamā jīradānavaḥ | pṛṣadaśvāso anavabhrarādhasa ṛjipyāso na vayuneṣu dhūrṣadaḥ ‖*) (Ṛ. Saṃ. 2-34-4)
+
+जीरदानवः (*jīradānavaḥ*) is an epithet of the Maruts; it means those who fulfil the sacrificer's wishes very swiftly. In the same way the compounds जीरात्वः (*jīrātvaḥ*) and जीरात्वं (*jīrātvaṃ*) are also epithets of Agni and other gods. Or they are sometimes epithets of their chariot. In Ṛks such as
+
+आ वां रथं पुरुमायं मनोजुवं जीराश्वं यज्ञॆयं जीवसे हुवे । सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टिवानं वरिवोधामभि प्रयः ॥ (*ā vāṃ rathaṃ purumāyaṃ manojuvaṃ jīrāśvaṃ yajñèyaṃ jīvase huve | sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭivānaṃ varivodhāmabhi prayaḥ ‖*) (Ṛ. Saṃ. 1-119-1)
+
+the chariot of the Aśvin gods is described as having swiftly running horses.
+
+In the same way the word दानु (*dānu*) also, used separately and as a compound, सुदानवः (*sudānavaḥ*), जीरदानवः (*jīradānavaḥ*), gives a meaning according to the context. From the context in which the author of the Nirukta cites it, it is understood that the word दानु (*dānu*) gives the meaning either "giver" or "demon". In explaining the Ṛk
+
+स्टुपेय्यं पुरुवर्णसमृभ्यमिनतमपाप्त्य मास्तानां । आ दर्शते शवसा सप्त दासून् प्र साक्षते प्रतिमानानि भूरि ॥ (*sṭupeyyaṃ puruvarṇasamṛbhyaminatamapāptya māstānāṃ | ā darśate śavasā sapta dāsūn pra sākṣate pratimānāni bhūri ‖*) (Ṛ. Saṃ. 10-120-6)
+
+the author of the Nirukta has said that the phrase सप्त दासून् (*sapta dāsūn*) means सप्तदातृन् इति वा सप्त दानवान् इति वा (*saptadātṛn iti vā sapta dānavān iti vā*), either "seven givers" or "seven Dānavas". But how, in such contexts, the sense "demon" is possible for the word दानु (*dānu*), Max Müller, indicating his own doubt, has said as follows:
+
+It must be confessed that even the meaning of Danu is by no means quite clear. It is clear enough where it means Demon, II. 11. 18; II. 12 11 ; IV. 30.7 ; X. 120.6 ; The seven Demons. In I. 32.9; III. 30.8 Danu, Demon is applied to the mother of Vritra, the dark cloud; From this Danu we have the derivative Danava, meaning again Demon, why the demons conquered by Indra, were called Danu, is not clear, unless they were conceived originally as dark clouds, like Danu, the mother of Indra. Danu might mean wise or even powerful, for this meaning also is ascribed to Danu by the author of Unadi Sutras. [S. B. E. XXXII. P. 114-115]
+
+### Printed p. 311
+This scholar asks: दानु (*dānu*) is the name of an Asura woman, that is, of the mother of Vṛtra; her sons should be called दानव (*dānava*), so how did they come to be called दानु (*dānu*)? And it is understood from the Uṇādi sūtra that the meanings "power" and "wise" are also possible for this word. But the meaning "giver" is the more widely known.
+
+Thus, if the word जीर (*jīra*) means "swift" and the word दानु (*dānu*) means "gift", then in the present Ṛk the meaning would have to be "swift gift". But Sāyaṇa has explained it as "victorious gift". Since the word जीर (*jīra*) is used in many places in the sense of "impelling", here it can be explained as "a gift that impels to victory". Commonly, the word जीरदानवः (*jīradānavaḥ*) occurs mostly as an epithet of the Maruts.
+
+पृक्षे ता विश्वा भुवना ववक्षिरे मिश्राय ना सदमा जीरदानवः ॥ (*pṛkṣe tā viśvā bhuvanā vavakṣire miśrāya nā sadamā jīradānavaḥ ‖*) (Mi. Sē. 2-34-4) **NOTE**
+
+In Ṛks such as this, जीरदानवः (*jīradānavaḥ*) meaning the Maruts is well known. And in
+
+वृषा न क्रुद्धः पतॆयद्रजस्वा यो आर्यपत्नीरकृणोदिमा अपः । स सुन्वते मघवा जीरदानवेऽविंदज्योतिर्मनवे हविष्मते ॥ (*vṛṣā na kruddhaḥ patèyadrajasvā yo āryapatnīrakṛṇodimā apaḥ | sa sunvate maghavā jīradānave 'viṃdajyotirmanave haviṣmate ‖*) (Ṛ. Saṃ. 10-43-8)
+
+and similar Ṛks, this word is also an epithet of the sacrificer who offers oblations and the like.
+
+सुविताय—सुहिताय शोभनगमनाय वा (*suvitāya—suhitāya śobhanagamanāya vā*)—The wish is expressed that Indra's coming to our sacrificial hall may be for producing our welfare and for our having a good going. Yāska, in the Ṛk
+
+आ रुद्रास इंद्रवंतः सजोषसो हिरण्यरथाः सुविताय गंतन । इयं वो अस्मत्पृति हर्यते मतिस्तृष्णजे न दिव उत्सा उदन्यवे ॥ (*ā rudrāsa iṃdravaṃtaḥ sajoṣaso hiraṇyarathāḥ suvitāya gaṃtana | iyaṃ vo asmatpṛti haryate matistṛṣṇaje na diva utsā udanyave ‖*) (Ṛ. Saṃ. 5-57-1)
+
+has shown the use of the word सुविताय (*suvitāya*) in the sense सुगुणाय कर्मणे (*suguṇāya karmaṇe*), "for an excellent rite". In the Ṛk
+
+पुनरेहि वृषाकपे सुविता कल्पयावहै । य एष स्वप्ननंतनोऽस्तमेषि पथा पुनर्विश्वस्मादिंद्र उत्तरः । (*punarehi vṛṣākape suvitā kalpayāvahai | ya eṣa svapnanaṃtano 'stameṣi pathā punarviśvasmādiṃdra uttaraḥ |*) (Ṛ. Saṃ. 10-86-21)
+
+the meaning of the word सुविता (*suvitā*) is explained as सुप्रसूतानि सुप्रवृत्तानि (*suprasūtāni supravṛttāni*).
+
+### Printed p. 312
+The meaning is explained thus: by Indra's grace we, the sacrificers, hope to obtain वृजनं (*vṛjanaṃ*), strength, इषं (*iṣaṃ*), food, and जेशवानुं (*jeśavānuṃ*), abundant capacity for drinking. **NOTE**
+
+##### Grammar
+
+- अस्मे — सुपां सुलुक् (पा. सू. ७-१-३९) इति विभक्तेः (षष्ठीबहुवचनस्य) शे आदेशः ।
+- गातुम् — गै शब्दे इति धातुः । कमिमनिजनि (उ. सू. १-७२) इति तुप्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- हरिवः — छंदसीरः (पा. सू. ८-२-१५) इति मतुपः मकारस्य वत्वम् । मतोरुः संबुष्टौ (पा. सू ८-३-१) इति संबुद्धौ रुत्वम् । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+- विदः — विद ज्ञाने इति धातुः । लेट् मध्यमपुरुषैकवचने सिप् । इतश्चलोपः (पा. सू. ३-४-९७) इति इकारलोपः । लेटोडाटौ (पा. सू. ३-४ ९४) इति तस्य अडागमः । प्रत्ययसकारस्य रत्वविसर्गौ । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- ववृत्याः — वृतु वर्तने इति धातुः । लिजि व्यत्ययो बहुलं इति परस्मैपदप्रत्ययः भवति । बहुलं छंदसि इति शपि श्लुविकरणम् । तं निमित्तीकृत्य धातोः द्वित्वादि । सिपि यासुटागमः । तस्य जित्वविधानात् लघूपधगुणः न भवति । तिङ्ङतिङः (पा. सू. ८-१-२८) इति निघातस्वरः भवति ।
+- सुविताय — इण् गत् इति धातुः । क्तप्रत्ययः । तन्वादीनां छंदसि बहुलमुपसंख्यानम् इति वचनेन उवजादेशः । गतिरनंतरः इति सूत्रेण पूर्वपदप्रकृतिस्वरे प्राप्ते सूपमानात् क्तः (पा. सू. ६-२-१४५) इति उत्तरपदांतोदात्तस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
+**Progress note:** Done through printed p. 312. pp. 307-312 (batch API)
