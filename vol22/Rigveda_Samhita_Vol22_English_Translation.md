@@ -17743,6 +17743,267 @@ Spreading around the beautiful light, Mitra and Varuna, of you two divinities, S
 
 > प्र वां॒ स मि॑त्रावरुणावृ॒तावा॒ विप्रो॒ मन्मा॑नि दीर्घ॒श्रुदि॑यर्ति ।
 
+### Printed p. 427
+
+> यस्य ब्रह्माणि सुक्रतू अवाथ आ यत्क्रत्वा न शरदः पृणैथे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । सः । मित्रावरुणौ । ऋत-वा । विप्रः । मन्मानि । दीर्घ-श्रुत् । इयर्ति ।  
+> यस्य । ब्रह्माणि । सुक्रतू इति सु-क्रतू । अवाथः । आ । यत् । क्रत्वा । न । शरदः ।  
+> पृणैथे इति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवयोर्मन्मानि मननीयानि स्तोत्राणि स प्रसिद्धो
+> विप्रो मेधाव्यृतावा यज्ञवान् दीर्घश्रुत् चिरकालं श्रोता एवमुक्तलक्षणो वसिष्ठ इयर्ति । प्रेरयति ॥ यस्य ऋषेर्ब्रह्माणि परिवृढानि स्तोत्राणि हे सुक्रतू शोभनकर्माणौ अवाथः रक्षथः ॥ यत्क्रत्वा कर्मणा शरदो बहून् संवत्सराना पृणैथे अपूरयेथे स उदियर्ति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, that well-known sage Vasiṣṭha — wise (मेधावि (*medhāvi*)), possessed of sacrifice (ऋतावा (*ṛtāvā*)), a hearer for a long time (दीर्घश्रुत् (*dīrghaśrut*)), so described — sends forth (इयर्ति (*iyarti*)) to you the praises worthy of meditation (मन्मानि (*manmāni*)). He is the seer whose prayers (ब्रह्माणि (*brahmāṇi*)), that is, extensive hymns, you, O doers of good deeds (सुक्रतू (*sukratū*)), protect (अवाथः (*avāthaḥ*)). By the rite (क्रत्वा (*kratvā*)) you fill up (पृणैथे (*pṛṇaithe*)) for many years (शरदः (*śaradaḥ*)); that one sends forth the praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतू (*sukratū*)—possessed of excellent action
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa
+- यस्य (*yasya*)—of which Vasiṣṭha
+- ब्रह्माणि (*brahmāṇi*)—the hymns
+- अवाथः (*avāthaḥ*)—you protect
+- यत् क्रत्वा (*yat kratvā*)—which rite
+- शरदः (*śaradaḥ*)—for many years
+- आ पृणैथे (*ā pṛṇaithe*)—you fill with the reward
+- सः (*saḥ*)—the well-known
+- विप्रः (*vipraḥ*)—the wise
+- ऋतावा (*ṛtāvā*)—the performer of sacrifice
+- दीर्घश्रुत् (*dīrghaśrut*)—one who has perceived praise for many ages; Vasiṣṭha
+- वां (*vāṃ*)—directed to you
+- मन्मानि (*manmāni*)—the hymns
+- प्र इयर्ति (*pra iyarti*)—recites, sending forth
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, of excellent deeds, the hymns of Vasiṣṭha you protect, whose rites you honour and for many years fill with their rewards — that well-known, wise Vasiṣṭha, performer of sacrifice, who has perceived praise for many ages, composes and recites the praises directed to you.
+
+##### English translation
+The sage, the solemnizer of sacrifice, the ancient hearer (of holy prayer), earnestly repeats, Mitra and Varuna, your praises: he whose prayers, doers of good deeds, you favour, whose acts (of worship) you recompense not for years.
+
+### Printed p. 428
+
+##### विशेषविषयगळु (Special Topics)
+
+In न शरदः (*na śaradaḥ*) the bhāṣya does not state what the use of न (*na*) is meant to be. In the translation it is given a negative sense. But the same translator (Wilson) gives a fuller explanation in his Notes: Sayana passes by न (*na*) which may be conjunction 'and' as well as the negative 'not'. In either case the sense is obscure ; it may mean that the merit of the worship is so great that it cannot be adequately rewarded except after a long time.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रोरोर्मि॑त्रावरुणा पृथि॒व्याः प्र दि॒व ऋ॒ष्वाद्बृ॑ह॒तः सु॑दानू ।  
+> स्पशो॑ दधाथे॒ ओष॑धीषु वि॒श्वन्ध॑ृग्य॒तो अनि॑मिषं॒ रक्ष॑माणा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । उरोः । मित्रावरुणा । पृथिव्याः । प्र । दिवः । ऋष्वात् । बृहतः । सुदानू इति  
+> सु-दानू ।  
+> स्पशः । दधाथे इति । ओषधीषु । विश्व-धृक् । यतः । अनिमिषं । रक्षमाणा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा मित्रावरुणौ युवामुरोर्विस्तीर्णायाः पृथिव्या अपि प्र ।
+> प्ररिरिचाथे । अस्येव प्र रिरिचे । ऋ. १-६१-९ । इत्यादिषु प्रशब्दस्य रिरिच इत्यनेन
+> सह संबंधदर्शनादत्राप्युचितक्रियाध्याहारेण रिरिचाथे इति योज्यं । तथा ऋष्वात् महतो बृहतः स्वरूपतोऽतिमहतो दिवो द्युलोकादपि प्र रिरिचाथे हे सुदानू शोभनदानौ । किंच ओषधीषु विश्वासु प्रजासु निमित्तभूतासु प्रजासु चेति वा
+> स्पशो रूपं दधाथे । धारयेथे । किं कुर्वंतौ । यतो यथाक्रमेण यतो
+> विवेकात् सत्येन गच्छतो जनाननिमिषमव्यवधानेन सर्वदा रक्षमाणा पालयंतौ ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you surpass even the vast earth. Because प्र (*pra*) is seen elsewhere connected with रिरिच (*ririca*) (as in Ṛ. Saṃ. 1-61-9 अस्येव प्र रिरिचे (*asyeva pra ririce*)), here too the verb रिरिचाथे (*riricāthe*) is to be supplied. Likewise you surpass the great (ऋष्वात् (*ṛṣvāt*)), by nature exceedingly vast heaven, O good givers. Moreover you bear (दधाथे (*dadhāthe*)) beauty/form (स्पशः (*spaśaḥ*)) in the plants and in all creatures — or, as causes, in creatures. Doing what? Since, in due order, with discrimination, you protect without interval, always guarding, the people who proceed by truth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa, you
+- उरोः (*uroḥ*)—of the vast
+- पृथिव्याः (*pṛthivyāḥ*)—than the earth, more
+- प्र (*pra*)—you have grown beyond
+- सुदानू (*sudānū*)—O Mitra and Varuṇa of excellent giving
+- ऋष्वात् (*ṛṣvāt*)—of surpassing qualities
+- बृहतः (*bṛhataḥ*)—of great nature
+- दिवः (*divaḥ*)—than heaven, more
+
+### Printed p. 429
+- प्र (*pra*)—you have grown beyond it
+- ऋधक् यतः (*ṛdhak yataḥ*)—the people who conduct themselves on the path of truth
+- अनिमिषं (*animiṣaṃ*)—always
+- रक्षमाणा (*rakṣamāṇā*)—protecting
+- ओषधीषु (*oṣadhīṣu*)—in the plants
+- विक्षु (*vikṣu*)—in the people
+- स्पशः (*spaśaḥ*)—beautiful form
+- दधाथे (*dadhāthe*)—you have placed
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you have grown beyond the vast earth. O Mitra and Varuṇa of excellent giving, you have grown beyond heaven, which is full of surpassing qualities and of great nature. Always protecting the people who conduct themselves on the path of truth, you have placed beautiful form in the plants and in the people.
+
+##### English translation
+You are vaster, Mitra and Varuna, than the ample earth, vaster, bounteous donors, than the glorious and expansive heaven : you maintain beauty in plants and in people, deligent observers of truth, and vigilantly protecting (us).
+
+##### विशेषविषयगळु (Special Topics)
+
+प्र (*pra*)—प्र रिरिचाथे (*pra riricāthe*). In this Ṛk there is no verb with the preposition प्र (*pra*), so the verb रिरिचाथे (*riricāthe*) is to be supplied and joined. The bhāṣyakāra explains that, since in the earlier Ṛk Ṛ. Saṃ. 1-61-9, with the same context, अस्येदेव प्र रिरिचे (*asyedeva pra ririce*) the verb रिरिचे (*ririce*) is used with the preposition प्र (*pra*), and since generally रिरिचे (*ririce*) is seen used with the word प्र (*pra*), it is proper to supply that verb here too, and he has construed the meaning accordingly.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शंसा॑ मि॒त्रस्य॒ वरु॑णस्य॒ धाम॒ शुष्मो॒ रोद॑सी बद्बधे महि॒त्वा  
+> अय॒न्मासा॒ अय॑ज्ञनाम॒वीराः॒ प्र य॒ज्ञम॑न्मा वृ॒जनं॑ तिराते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शंस । मित्रस्य । वरुणस्य । धाम । शुष्मः । रोदसी इति । बद्बधे । महित्वा ।  
+> अयन् । मासाः । अयज्ञनां । अवीराः । प्र । यज्ञ-मन्मा । वृजनं । तिराते ॥ ४ ॥
+
+### Printed p. 430
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः मित्रस्य वरुणस्य च धाम तेजःस्थानं शंस । स्तुहि । ययोर्देवयोः शुष्मो बलं रोदसी द्यावापृथिव्यौ सह वर्तमाने महित्वा स्वमहत्त्वेन
+> बद्बधे बध्नाति पृथक्कारयति इयं पृथिवीयं द्यौरिति पृथक्करोति । द्यावापृथिवी
+> सहास्तामिति श्रुतेः ॥ अयज्ञनामननुष्ठातृणां मासाः कालावयवा अवीरा अपुत्रा
+> एवायन् । यंतु । गच्छंतु । तद्विपरीतो यज्ञमन्मा यज्ञार्थं मतिमान्यजमानो
+> वृजनं बलं प्र तिराते । प्रवर्धयतु । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥
+
+##### Gist of the bhāṣya
+
+O praiser, praise the abode (धाम (*dhāma*)), the place of radiance, of Mitra and Varuṇa, whose strength (शुष्मः (*śuṣmaḥ*)) by its own greatness (महित्वा (*mahitvā*)) binds (बद्बधे (*badbadhe*)) heaven and earth (रोदसी (*rodasī*)), which were together, and separates them: "this is earth, this is heaven", as the śruti says द्यावापृथिवी सहास्तामिति (*dyāvāpṛthivī sahāstāmiti*). For those who do not sacrifice, may the months, the parts of time, go by childless (अवीरा (*avīrā*)). Contrary to them, may the sacrificer, whose mind is on sacrifice (यज्ञमन्मा (*yajñamanmā*)), increase his strength (वृजनं (*vṛjanaṃ*)); तिरति (*tirati*) with प्र (*pra*) has the sense of increase.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मः (*śuṣmaḥ*)—whose strength, of Mitra and Varuṇa
+- रोदसी (*rodasī*)—heaven and earth that were together
+- महित्वा (*mahitvā*)—by its greatness
+- बद्बधे (*badbadhe*)—set apart
+- मित्रस्य (*mitrasya*)—of Mitra
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- धाम (*dhāma*)—the radiant abode
+- शंस (*śaṃsa*)—praise
+- अयज्ञनां (*ayajñanāṃ*)—of those without performance of sacrifice
+- मासाः (*māsāḥ*)—the times
+- अवीराः (*avīrāḥ*)—without sons and the like
+- अयन् (*ayan*)—let them pass
+- यज्ञमन्मा (*yajñamanmā*)—one whose mind is on performing sacrifice
+- वृजनं (*vṛjanaṃ*)—his own strength
+- प्र तिराते (*pra tirāte*)—let him increase
+
+##### भावार्थ (Bhāvārtha)
+
+Praise the radiant abode of those Mitra and Varuṇa whose strength by its greatness set apart heaven and earth, which were at first together. For those who do not perform sacrifice, let their life pass without wealth such as sons. Let the sacrificer, whose mind is on action, increase his own strength.
+
+##### English translation
+Praise the splendour of Mitra and Varuna, whose strength, by its mightiness, keeps heaven and earth asunder : may the days of those who offer not worship pass without male descendants : may he who delights in sacrifice increase in prosperity.
+
+##### विशेषविषयगळु (Special Topics)
+
+रोदसी (*rodasī*)—In the beginning, heaven and earth, that is, the earth and the sky, were joined together. There is an ancient story that Mitra and Varuṇa by their greatness separated them and established the atmosphere in the middle. It is said that the śruti sentence द्यावापृथिवी सहास्तां (*dyāvāpṛthivī sahāstāṃ*) (Tai. Brā. 1-1-3-2) supports this.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमू॑रा॒ विश्वा॑ वृषणावि॒मा वां॒ न यासु॑ चि॒त्रं ददृ॑शे॒ न य॒क्षं
+
+### Printed p. 431
+
+> द्रुहः सचंते अनृता जनानां न वां निण्यान्यचिते अभूवन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमूरा । विश्वा । वृषणौ । इमाः । वां । न । यासु । चित्रं । ददृशे । न । यक्षं ।  
+> द्रुहः । सचंते । अनृता । जनानां । न । वां । निण्यानि । अचिते । अभूवन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमूरामूढौ हे विश्वा व्याप्तौ हे वृषणौ वर्षितारौ वां युवाभ्यामिवा इमानि स्तुतिवचांसि क्रियंते । यासु स्तुतिषु चित्रमाश्चर्यं न ददृशे न दृश्यते न यक्षं न पूजा दृश्यते । युवाभ्यां महिम्नोऽपि महत्त्वात् प्रयत्नेन क्रियमाणमपि स्तोत्रं न चमत्करोतीत्यर्थः । जनानामनृतास्तुत्यविषयाणि स्तोत्राणि द्रुहो द्रोग्धारः सचंते । सेवंते । न महांतः वां युवाभ्यां क्रियुमाणानि निण्यान्यंतर्हितानि रहस्यान्यपि स्तोत्राण्यचितेऽज्ञानाय नाभूवन् । न भवंति ॥
+
+##### Gist of the bhāṣya
+
+O undeluded (अमूरा (*amūrā*)), all-pervading (विश्वा (*viśvā*)), showering (वृषणौ (*vṛṣaṇau*)) ones, these praise-words are made for you; in them no wonder is seen (न ददृशे (*na dadṛśe*)), no worship (न यक्षं (*na yakṣaṃ*)) is seen. Since your greatness is greater still, a hymn made even with effort does not astonish. The untruthful hymns of men, directed to unpraiseworthy ends, are attended by injurers (द्रुहः (*druhaḥ*)). But the hymns made by us for you, though hidden and secret, do not come to be unknown (अचिते (*acite*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमूरा (*amūrā*)—discriminating
+- विश्वा (*viśvā*)—all-pervading
+- वृषणौ (*vṛṣaṇau*)—givers of desired ends, O Mitra and Varuṇa
+- यासु (*yāsu*)—in which praises
+- चित्रं (*citraṃ*)—what marvels
+- न ददृशे (*na dadṛśe*)—are not seen
+- न यक्षं (*na yakṣaṃ*)—no materials of worship exist
+- इमाः (*imāḥ*)—these praise-words
+- वां (*vāṃ*)—are offered to you
+- जनानां (*janānāṃ*)—of dishonest people
+- अनृता (*anṛtā*)—false words
+- द्रुहः (*druhaḥ*)—being injurious
+- सचंते (*sacaṃte*)—are attended
+- वां (*vāṃ*)—directed to you
+- निण्यानि (*niṇyāni*)—even though the praise-words are secret
+- अचिते (*acite*)—without being attended by you
+- न अभूवन् (*na abhūvan*)—they are not
+
+##### भावार्थ (Bhāvārtha)
+
+O discriminating, all-pervading givers of desired ends, Mitra and Varuṇa, the evil words of wicked people, in whose praises there are neither marvels nor materials of worship, are offered to you. Such dishonest and injurious words make you angry. But the praises offered by us, who are honest, even though secret, do fall under your notice. You certainly attend to them.
+
+##### English translation
+Unperplexed, all-pervading showerers (of benefits), these (praises) are for you, in which nothing surprising, no adoration (worthy of you), is
+
+### Printed p. 432
+beheld : the insincere commendations of men serve as offences : eulogies of you, although offered in secret, are not unappreciated.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑ वां य॒ज्ञं म॑हयं॒ नमो॑भिर्हु॒वे वां॑ मित्रावरुणा स॒बाधः॑ ।  
+> प्र वां॒ मन्मा॑न्यृ॒चसे॒ नवा॑नि कृ॒तानि॒ ब्रह्म॑ जुजुषन्नि॒मानि॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । ऊं इति । वां । यज्ञं । महयं । नमः-भिः । हुवे । वां । मित्रावरुणा । स-बाधः ।  
+> प्र । वां । मन्मानि । ऋचसे । नवानि । कृतानि । ब्रह्म । जुजुषन् । इमानि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवयोर्यज्ञं नमोभिर्नमस्कारैः स्तुतिभिः समु
+> महयं । संपूजयाम्यहं । तदर्थं हे मित्रावरुणा मित्रावरुणौ वां सबाधो बाधायुक्तोऽहं हुवे ॥ आह्वयामि बाधापरिहाराय । वां युवामृचसे
+> सेवितुं नवानि नूतनानि स्तुत्यानि वा मन्मानि स्तोत्राणि प्र भवंत्वित्यध्याहारः । कृतानि मया समूहीकृतानीदानीं क्रियमाणानि ब्रह्म परिवृढानि स्तोत्राणि
+> इमानि वां जुजुषन् । प्रीणयंतु ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, I honour (महयं (*mahayaṃ*)) your sacrifice with salutations (नमोभिः (*namobhiḥ*)), that is, with praises. For that purpose I, afflicted (सबाधः (*sabādhaḥ*)), call (हुवे (*huve*)) you, for the removal of affliction. "May new, praiseworthy hymns come forth to serve you" — this is the supplied clause. The hymns made (कृतानि (*kṛtāni*)) by me, gathered together and now being made, these extensive praises (ब्रह्म (*brahma*)), may they please (जुजुषन् (*jujuṣan*)) you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa) वां (*vāṃ*)—directed to you
+- नमोभिः (*namobhiḥ*)—accompanied by salutations
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- समु महयं (*samu mahayaṃ*)—I offer in the form of worship
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- सबाधः (*sabādhaḥ*)—I, beset by injury
+- वां (*vāṃ*)—you
+- हुवे (*huve*)—I call
+- वां (*vāṃ*)—to serve you
+- ऋचसे (*ṛcase*)—to serve
+- नवानि (*navāni*)—new
+- मन्मानि (*manmāni*)—hymns
+- प्र (भवंति) (*pra (bhavaṃti)*)—are composed
+- कृतानि (*kṛtāni*)—made by me
+- इमानि ब्रह्म (*imāni brahma*)—these hymns
+- जुजुषन् (*jujuṣan*)—may they gladden you
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, I offer to you the sacrifice accompanied by salutations in the form of worship. O Mitra and Varuṇa, I, beset by injury, call you. You
+
 ---
 
-**Progress note:** Done through printed p. 426. pp. 421-426 (batch API)
+**Progress note:** Done through printed p. 432. pp. 427-432 (batch API)
