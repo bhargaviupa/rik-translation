@@ -5301,6 +5301,288 @@ O wealthy Indra, a man does not obtain wealth by praise joined with ill speech. 
 ##### English translation
 A man acquires not wealth by unbecoming praise : affluence devolves not upon one obstructing (sacrifice): in you, Maghavan, is the power whereby bounty (may be shown) to such as I ain on the day of the libation.
 
+### Printed p. 121
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॑ शूर नोनु॒मोऽदु॑ग्धा इव धे॒नवः॑ ।  
+> ईशा॑नम॒स्य जग॑तः स्व॒र्दृश॒मीशा॑नमिंद्र त॒स्थुषः॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । शूर । नोनुमः । अदुग्धाःइव । धेनवः ।  
+> ईशानं । अस्य । जगतः । स्वःदृशं । ईशानं । इंद्र । तस्थुषः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र अस्य जगतो जंगमस्येशानमीश्वरं तस्थुषः स्थावरस्य चेशानं । ईशानमिति पदस्यावृत्तिरादरार्था । स्वर्दृशं सर्वदृशं त्वा त्वामदुग्धा इव धेनवो यथादुग्धा धेनवः क्षीरपूर्णोधस्त्वेन वर्तंते तद्वत्सोमपूर्णचमसत्वेन वर्तमाना वयमभि नोनुमः । भृशमभिष्टुमः ॥
+
+##### Gist of the bhāṣya
+
+"O hero Indra, you are the lord (ईशानं (*īśānaṃ*)) of this moving world and also of what stands still (तस्थुषः (*tasthuṣaḥ*)). The word ईशानं (*īśānaṃ*) is repeated out of respect. स्वर्दृशं (*svardṛśaṃ*) means 'all-seeing'. As unmilked cows (अदुग्धाःइव । धेनवः (*adugdhāḥiva | dhenavaḥ*)) have udders full of milk, so we, holding cups (चमस (*camasa*)) full of Soma, praise you vehemently (अभि नोनुमः (*abhi nonumaḥ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- इंद्र (*iṃdra*)—O Indra
+- अस्य जगतः (*asya jagataḥ*)—of this moving world
+- ईशानं (*īśānaṃ*)—you who are the lord
+- तस्थुषः (*tasthuṣaḥ*)—of stationary things also
+- ईशानं (*īśānaṃ*)—you who are the lord
+- स्वर्दृशं (*svardṛśaṃ*)—who can see the whole world
+- त्वा (*tvā*)—you
+- अदुग्धा इव (*adugdhā iva*)—like cows not yet milked
+- धेनवः (*dhenavaḥ*)—cows having udders full of milk (so we also, holding cups full of Soma)
+- अभिनोनुमः (*abhinonumaḥ*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, lord of this moving world and lord of stationary things as well, who can see the whole world: as cows before milking have udders full of milk, so we also, holding cups full of Soma, praise you.
+
+##### English translation
+We glorify you, hero, (Indra) the lord of all moveable and stationary things, the beholder of the universe, (with ladles filled with Soma), like (the udders of) unmilked cows.
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वावा॑ अ॒न्यो दि॒व्यो न पार्थि॑वो॒ न जा॒तो न ज॑निष्यते ।
+
+### Printed p. 122
+
+> अश्वायंतो मघवन्निंद्र वाजिनो गव्यंतस्त्वा हवामहे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । त्वावान् । अन्यः । दिव्यः । न । पार्थिवः । न । जातः । न । जनिष्यते ।  
+> अश्वयंतः । मघवन् । इंद्र । वाजिनः । गव्यंतः । त्वा । हवामहे ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्निंद्र दिव्यो दिवि भवस्त्वावान् त्वत्सदृशोऽन्यो न जायते । पार्थिवः पृथिव्यां भवोऽपि त्वावानन्यो न जायते । दिव्यः पार्थिवो वा त्वावानन्यो न जातः । न च जनिष्यते । पृथिव्यां दिवि च त्रिष्वपि लोकेषु त्वत्सदृशः कश्चिन्नास्तीत्यर्थः । अश्वायंतोऽश्वानिच्छंतो वाजिनो वाजमिच्छंतः । इच्छायामिनिप्रत्ययः । हविष्मंतो वा गव्यंतो गा इच्छंतश्च वयं त्वा त्वां हवामहे । ह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, possessor of wealth, no other like you is born who belongs to heaven (दिव्यः (*divyaḥ*)); none belonging to the earth (पार्थिवः (*pārthivaḥ*)) is born like you either. Neither a heavenly nor an earthly one like you has been born, nor will be born. The meaning is that in all three worlds, on earth and in heaven, there is none like you. We, desiring horses (अश्वयंतः (*aśvayaṃtaḥ*)), desiring food (वाजिनः (*vājinaḥ*); the affix *ini* is used in the sense of desire), or else bearing oblations, and desiring cows (गव्यंतः (*gavyaṃtaḥ*)), invoke you (हवामहे (*havāmahe*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy
+- इंद्र (*iṃdra*)—O Indra
+- दिव्यः (*divyaḥ*)—one born in the world of the gods
+- अन्यः (*anyaḥ*)—another
+- त्वावान् (*tvāvān*)—like you
+- न जातः (*na jātaḥ*)—has not been born
+- पार्थिवः (*pārthivaḥ*)—one born on earth
+- न (*na*)—has not been born like you
+- न जनिष्यते (*na janiṣyate*)—nor will be born
+- अश्मायंतः (*aśmāyaṃtaḥ*)—those who desire horses
+- वाजिनः (*vājinaḥ*)—those who desire food
+- गव्यंतः (*gavyaṃtaḥ*)—we who wish for cows
+- त्वा (*tvā*)—you
+- हवामहे (*havāmahe*)—we pray to and call
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, none among the gods born in the world of the gods is like you. Among men too none has been born. Nor will anyone be born hereafter. We, who desire horses, food and cows, pray to you and call you.
+
+##### English translation
+No other such as you are, celestial or terrestrial, has been or will be born ; desirous of horses, of food, of cattle, affluent Indra, we invoke you.
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी ष॒तस्तदा भ॒रेंद्र॒ ज्यायः॒ कनी॑यसः ।  
+> पु॒रू॒वसु॒र्हि म॑घवन्स॒नादसि॒ भरे॑भरे च॒ हव्यः॑ ॥ २४ ॥
+
+### Printed p. 123
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सतः । तत् । आ । भर । इंद्र । ज्यायः । कनीयसः ।  
+> पुरुवसुः । हि । मघवन् । सनात् । असि । भरेभरे । च । हव्यः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ज्यायो ज्यायन्निंद्र ॥ आमंत्रितं पूर्वमविद्यमानवदितींद्रपदस्याविद्यमानवद्भावात् ज्याये इत्यस्य सर्वानुदात्तत्वाभावः । नकारस्य रुत्वं व्यत्ययान्नमभावो वा ॥ कनीयसः सतो मम तत्प्रसिद्धं धनमभ्या भर । हे मघवन् त्वं सनाच्चिरादेवारभ्य पुरूवसुर्हि बहुधनो ह्यसि । भरेभरे संग्रामे यज्ञे वा हव्यो हविष्यश्चासि ॥
+
+##### Gist of the bhāṣya
+
+"O elder Indra (ज्यायः (*jyāyaḥ*)). Because the vocative is treated as previously non-existent, the word इंद्र (*iṃdra*) counts as non-existent, and so ज्याये (*jyāye*) does not lose its accent entirely; the न (*na*) becomes रु (*ru*), or the न (*na*) is lost by variation. To me, who am the younger (कनीयसः (*kanīyasaḥ*)), bring (अभ्या भर (*abhyā bhara*)) that well-known wealth. O Maghavan, from of old (सनात् (*sanāt*)) you are possessed of much wealth (पुरुवसुः (*puruvasuḥ*)), and in every battle or sacrifice (भरेभरे (*bharebhare*)) you are one to be invoked and offered oblations (हव्यः (*havyaḥ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्यायः (*jyāyaḥ*)—O one greater than all
+- इंद्र (*iṃdra*)—O Indra
+- कनीयसः (*kanīyasaḥ*)—who am lesser than you
+- मम (*mama*)—to me
+- तत् (*tat*)—that well-known wealth
+- अभ्याभर (*abhyābhara*)—provide
+- मघवन् (*maghavan*)—O wealthy Indra
+- सनात् (*sanāt*)—from very ancient times
+- पुरूवसुर्हि (*purūvasurhi*)—you are indeed possessed of abundant wealth
+- असि (*asi*)—you are
+- भरेभरे (*bharebhare*)—in every battle
+- हव्यः च (*havyaḥ ca*)—and you are worthy of worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, greater than all, provide that well-known wealth to me, who am lesser than you. O wealthy Indra, from very ancient times you have been possessed of abundant wealth. In every battle you are also worthy of worship.
+
+##### English translation
+Elder Indra, bring that (wealth to me), being the junior, for, Maghavan, you have from the beginning been possessed of infinate treasure, and are to be adored at repeated sacrifices.
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॑ नुदस्व मघवन्न॒मित्रा॑न्त्सु॒वेदा॑ नो॒ वसू॑ कृधि ।  
+> अ॒स्माकं॑ बोध्यवि॒ता म॑हाध॒ने भवा॑ वृ॒धः सखी॑नां ॥ २५ ॥
+
+### Printed p. 124
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । नुदस्व । मघवन् । अमित्रान् । सुवेदा । नः । वसु । कृधि ।  
+> अस्माकं । बोधि । अविता । महाधने । भव । वृधः । सखीनां ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् परा पराचीनानमित्राञ्छत्रून्नुदस्व । प्रेरय । सोऽस्मभ्यं वसु वसूनि सुवेदा सुलभानि कृधि । कुरु । महाधने संग्रामे । वाजसातौ महाधने इति संग्रामनामसु पाठात् । सखीनां स्तोतॄणामस्माकं वसिष्ठानामविता रक्षिता बोधि । भव । वृधो वर्धयिता च भव ॥
+
+##### Gist of the bhāṣya
+
+"O Maghavan, drive away (परा नुदस्व (*parā nudasva*); send off) the enemies (अमित्रान् (*amitrān*)) who turn away. Make riches (वसु (*vasu*)) easy to obtain (सुवेदा (*suvedā*)) for us (कृधि (*kṛdhi*): do). महाधने (*mahādhane*) means in battle, since in the list of battle-names वाजसातौ महाधने (*vājasātau mahādhane*) is read. Be (बोधि (*bodhi*): be) the protector (अविता (*avitā*)) of us, the friends (सखीनां (*sakhīnāṃ*)) and praisers, the Vasiṣṭhas, and be the increaser (वृधः (*vṛdhaḥ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- अमित्रान् (*amitrān*)—our enemies
+- परा नुदस्व (*parā nudasva*)—drive far away
+- नः (*naḥ*)—to us
+- वसु (*vasu*)—riches
+- सुवेदा (*suvedā*)—so that they are easily obtained
+- कृधि (*kṛdhi*)—make
+- महाधने (*mahādhane*)—in battles fought for abundant wealth
+- सखीनां (*sakhīnāṃ*)—who are praisers
+- अस्माकं (*asmākaṃ*)—to us
+- अविता (*avitā*)—as protector
+- बोधि (*bodhi*)—know that you should be
+- वृधः (*vṛdhaḥ*)—as one who makes us prosper
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, drive our enemies far away. Make riches easy for us to obtain. Know that in battles fought to win abundant wealth you are to be the protector of us, the praisers. Be also the one who makes us prosper.
+
+##### English translation
+Drive away, Maghavan, our enemies : render riches easy of acquisition : be our preserver in war : be the augmenter of (the prosperity) of (your) friends.
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ क्रतुं॑ न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑ ।  
+> शिक्षा॑ णो अ॒स्मिन्पु॑रुहूत॒ याम॑नि जी॒वा ज्योति॑रशीमहि ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । क्रतुं । नः । आ । भर । पिता । पुत्रेभ्यः । यथा ।  
+> शिक्ष । नः । अस्मिन् । पुरुहूत । यामनि । जीवाः । ज्योतिः । अशीमहि ॥ २६ ॥
+
+### Printed p. 125
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मभ्यं क्रतुं कर्म प्रज्ञानं वा भर । आहर । अपि च यथा
+> पिता पुत्रेभ्यो धनं प्रयच्छति तथा नोऽस्मभ्यं शिक्ष । धनं देहि । हे पुरुहूत
+> बहुभिराहूत यामनि यज्ञे जीवा वयं ज्योतिः सूर्यमशीमहि । प्रतिदिनं
+> प्राप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, bring (भर (*bhara*): fetch) to us क्रतुं (*kratuṃ*), that is, work or knowledge. And as a father gives wealth to his sons, so give (शिक्ष (*śikṣa*): give wealth) to us. O Indra invoked by many (पुरुहूत (*puruhūta*)), in this sacrifice (यामनि (*yāmani*)) may we, living (जीवाः (*jīvāḥ*)), obtain (अशीमहि (*aśīmahi*)) the light (ज्योतिः (*jyotiḥ*)), the sun, every day."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—to us
+- क्रतुं (*kratuṃ*)—knowledge concerning ritual
+- आ भर (*ā bhara*)—provide
+- यथा (*yathā*)—in the way in which
+- पिता (*pitā*)—a father
+- पुत्रेभ्यः (*putrebhyaḥ*)—gives wealth to his sons, so
+- नः (*naḥ*)—to us
+- शिक्ष (*śikṣa*)—give wealth
+- पुरुहूत (*puruhūta*)—O Indra, worthy of the invocation of many
+- अस्मिन् यामनि (*asmin yāmani*)—in this sacrifice
+- जीवाः (*jīvāḥ*)—we who are engaged (in it)
+- ज्योतिः (*jyotiḥ*)—the light of the sun
+- अशीमहि (*aśīmahi*)—may we obtain every day
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, provide us with knowledge concerning ritual. As a father gives wealth to his sons, give us wealth. O Indra, worthy of the invocation of many, may we who are engaged in this sacrifice obtain the light of the sun every day.
+
+##### English translation
+Bring to us, Indra, wisdom, as a father (gives knowledge) to his sons ; bestow wealth upon us on this occasion, you the invoked of many, so that we, living at the solemnity, may (long) enjoy the light (of existence).
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॒ अज्ञा॑ता वृ॒जना॑ दुरा॒ध्यो॒३॒॑ माशि॑वासो॒ अव॑ क्रमुः ।  
+> त्वया॑ व॒यं प्र॒वतः॒ शश्व॑तीर॒पोऽति॑ शूर तरामसि ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । अज्ञाताः । वृजनाः । दुःआध्यः । मा । अशिवासः । अव । क्रमुः ।  
+> त्वया । वयं । प्रवतः । शश्वतीः । अपः । अति । शूर । तरामसि ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अज्ञाता अज्ञातगमना वृजना हिंसका दुराध्यो नोऽस्मान्नाव
+> क्रमुः । मावचिक्रमुः । हे शूर त्वया वयं वसिष्ठाः प्रवतः प्रवणकाः संतः शश्वतीर्बह्वीरपोऽति तरामसि । अतितराम ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, let no unknown (अज्ञाता (*ajñātā*): of unknown movement), harmful (वृजना (*vṛjanā*)) evil-minded ones (दुराध्यः (*durādhyaḥ*)) overpower us (अव क्रमुः (*ava kramuḥ*): let them not overstep). O hero, we Vasiṣṭhas, with you, being possessed of a means of crossing (प्रवतः (*pravataḥ*): प्रवणकाः (*pravaṇakāḥ*)), may cross over (अति तरामसि (*ati tarāmasi*)) many waters (शश्वतीः अपः (*śaśvatīḥ apaḥ*))."
+### Printed p. 126
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) अज्ञाताः (*ajñātāḥ*)—those who move about without our knowing
+- वृजनाः (*vṛjanāḥ*)—our harmers
+- दुराध्यः (*durādhyaḥ*)—those who wish us evil, our enemies
+- नः (*naḥ*)—us
+- मा अव क्रमुः (*mā ava kramuḥ*)—let them not assail
+- अशिवासः (*aśivāsaḥ*)—those who cause us inauspiciousness
+- मा (*mā*)—let them not assail us
+- शूर (*śūra*)—O valiant Indra
+- त्वया (*tvayā*)—protected by you
+- वयं (*vayaṃ*)—we, born in the Vasiṣṭha lineage
+- प्रवतः (*pravataḥ*)—possessing a means of crossing
+- शश्वतीः (*śaśvatīḥ*)—abundant
+- अपः (*apaḥ*)—waters
+- अति तरामसि (*ati tarāmasi*)—may we cross over
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let our enemies, who move secretly without our knowing, who harm us and wish us evil, not assail us. Let those who cause us inauspiciousness not assail us either. O valiant Indra, may we, protected by you and born in the Vasiṣṭha lineage, possessing a means of crossing, cross over abundant waters.
+
+##### English translation
+Let no unknown, wicked, malevolent, malignant (enemies) overpower us : may we, protected by you, cross over many waters.
+## Sūkta 33 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वित्यंचे इति चतुर्दशर्चं षोडशं सूक्तं । आत्रेयमनुक्रमणिका । श्वित्यंचः षळॊना संस्तवो वसिष्ठस्य सपुत्रस्येंद्रेण वा संवाद इति । आदितो नवानां वसिष्ठ ऋषिः । वसिष्ठपुत्राणां स्तूयमानत्वात्त एव देवता । विद्युतो ज्योतिरित्यादिभिर्दशम्यादिभिः स्वपुत्रैर्वसिष्ठः स्तूयते । अतो वसिष्ठो देवता । त एव ऋषयः । यो तेनोच्यते इति न्यायात् । अनुक्तत्वात्त्रिष्टुप् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning श्वित्यंचे (*śvityaṃce*) has fourteen verses and is the sixteenth sūkta. The Anukramaṇikā (आत्रेयमनुक्रमणिका (*ātreyamanukramaṇikā*)) **NOTE** says: श्वित्यंचः षळॊना संस्तवो वसिष्ठस्य सपुत्रस्येंद्रेण वा संवाद इति (*śvityaṃcaḥ ṣaḷònā saṃstavo vasiṣṭhasya saputrasyeṃdreṇa vā saṃvāda iti*). For the first nine verses Vasiṣṭha is the seer. Because the sons of Vasiṣṭha are praised in them, they themselves are the deity. In the verses from the tenth on, beginning विद्युतो ज्योतिः (*vidyuto jyotiḥ*), Vasiṣṭha is praised by his own sons; hence Vasiṣṭha is the deity, and the sons are the seers, by the maxim यो तेनोच्यते (*yo tenocyate*) **NOTE**. Since no metre is stated, it is Triṣṭubh.
+
+##### Anuvāda
+
+The thirty-third sūkta. This sūkta beginning श्वित्यंचे (*śvityaṃce*) is the sixteenth sūkta in the second anuvāka. It has fourteen Ṛks. The Anukramaṇikā says श्वित्यंचः षळॊना संस्तवो वसिष्ठस्य सपुत्रस्येंद्रेण वा संवादः (*śvityaṃcaḥ ṣaḷònā saṃstavo vasiṣṭhasya saputrasyeṃdreṇa vā saṃvādaḥ*). For the first nine Ṛks of this sūkta Vasiṣṭha is the seer. Since the matter of Vasiṣṭha's sons is stated in these nine Ṛks, the praise of Vasiṣṭha's sons is the deity of these Ṛks. In the next five Ṛks of this sūkta, beginning विद्युतो ज्योतिः (*vidyuto jyotiḥ*), the sage Vasiṣṭha is the subject, so the praise of Vasiṣṭha is the deity of those Ṛks. The sons of Vasiṣṭha are the seers. The metre is Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 120. Ṛks 15 end, 16-21 of sūkta 32 (Maṇḍala 7)
+**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
