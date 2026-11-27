@@ -1369,3 +1369,140 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 475	Q2	R1	qmarks q424 line 12851	*āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]	*āto lopa iṭi ca*, Pā. Sū. 6-4-64	Kannada p. 475 agrees with the number; "as read [?]" dropped	applied	
 451	Q2	R1	qmarks q283 line 12223	*(Running head: left "A. 1 A. 7 Va. 20 [?]"	unchanged	Kannada p. 451 head reads ಸ. 22 (neighbours 449, 453 read 20); Kannada misprint, English kept	kept	
 471	Q2	R1	qmarks q413 line 12744	as the root *dhyai* [*ṭhyai*, as printed [?]]	unchanged	Kannada p. 471 reads ಧೈಚ, not a clear word for the root; English kept	kept	
+476	Q1	R1	qmarks q284 (p. 476)	printed pp. 476–[?]	printed pp. 476–480	Kannada: this Rik's grammar ends on p. 480 (or the next Rik begins there)	applied	
+480	Q1	R1	qmarks q295 (p. 480)	printed pp. 480–[?]	printed pp. 480–484	Kannada: this Rik's grammar ends on p. 484 (or the next Rik begins there)	applied	
+484	Q1	R1	qmarks q310 (p. 484)	printed pp. 484–[?]	printed pp. 484–489	Kannada: this Rik's grammar ends on p. 489 (or the next Rik begins there)	applied	
+489	Q1	R1	qmarks q334 (p. 489)	printed pp. 489–[?]	printed pp. 489–494	Kannada: this Rik's grammar ends on p. 494 (or the next Rik begins there)	applied	
+494	Q1	R1	qmarks q365 (p. 494)	printed pp. 494–[?]	printed pp. 494–499	Kannada: this Rik's grammar ends on p. 499 (or the next Rik begins there)	applied	
+499	Q1	R1	qmarks q394 (p. 499)	printed pp. 499–[?]	printed pp. 499–503	Kannada: this Rik's grammar ends on p. 503 (or the next Rik begins there)	applied	
+503	Q1	R1	qmarks q417 (p. 503)	printed pp. 503–[?]	printed pp. 503–506	Kannada: this Rik's grammar ends on p. 506 (or the next Rik begins there)	applied	
+506	Q1	R1	qmarks q423 (p. 506)	printed pp. 506–[?]	printed pp. 506–510	Kannada: this Rik's grammar ends on p. 510 (or the next Rik begins there)	applied	
+477	Q2	R1	qmarks q285 (p. 477)	they eat the *śiśna*s [?]'	they eat the *śiśna*s'	Kannada p. 477 reads ಶಿಶ್ನಾನಿ ವ್ಯದಂತೀತಿ	applied	
+479	Q2	R1	qmarks q286 (p. 479)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+479	Q1	R1	qmarks q287 (p. 479)	*Ni.* 4-3 [?])	*Ni.* 4-5)	Kannada p. 479 reads (ನಿ. ೪-೫)	applied	
+480	Q1	R1	qmarks q288+q289 (p. 480)	Pā. Sū. 6-1-[?]-1 as read [?]	Kā. 6-1-12-1	Kannada p. 480 reads (ಕಾ. ೬-೧-೧೨-೧)	applied	
+480	Q2	R1	qmarks q290 (p. 480)	Pā. Sū. 7-4-78 as read [?]	Pā. Sū. 7-4-78	Kannada p. 480 reads ೭-೪-೭೮	applied	
+480	Q1	R1	qmarks q291 (p. 480)	Pā. Sū. 6-1-60 as read [?]	Pā. Sū. 6-1-70	Kannada p. 480 reads ೬-೧-೭೦	applied	
+480	Q2	R1	qmarks q292 (p. 480)	Pā. Sū. 6-1-166 as read [?]	Pā. Sū. 6-1-166	Kannada p. 480 reads ೬-೧-೧೬೬	applied	
+480	Q2	R1	qmarks q293 (p. 480)	Pā. Sū. 7-3-110 as read [?]	Pā. Sū. 7-3-110	Kannada p. 480 reads ೭-೩-೧೧೦	applied	
+480	Q2	R1	qmarks q294 (p. 480)	Pā. Sū. 6-4-11 as read [?]	Pā. Sū. 6-4-11	Kannada p. 480 reads ೬-೪-೧೧	applied	
+481	Q2	R1	qmarks q296 (p. 481)	"A. 1 A. 7 Va. 21 [?]"	"A. 1 A. 7 Va. 21"	Kannada p. 481 head reads ಆ. ೧. ಆ. ೭. ವ. ೨೧	applied	
+481	Q2	R1	qmarks q297 (p. 481)	[to come out of the well] [?]	[to come out of the well]	Kannada p. 481 reads ಕೂಪಾನ್ನಿರ್ಗಂತೃತ್ವಾಯ	applied	
+483	Q1	R1	qmarks q298 (p. 483)	*kūpān nirgantutvāyai |* (Sāyaṇa, read [?])	*kūpānnirgaṃtṛtvāya |* (Sāyaṇa)	Kannada p. 483 reads ಕೂಪಾನ್ನಿರ್ಗಂತೃತ್ವಾಯ; IAST made by sp_sanskrit.py	applied	
+484	Q1	R1	qmarks q299 (p. 484)	the [forty-odd [?]] names	the forty-four names	Kannada p. 484 reads ೪೪ ಅರ್ಚತಿಕರ್ಮ ನಾಮಗಳಲ್ಲಿ	applied	
+484	Q1	R1	qmarks q300+q301 (p. 484)	(*Ni.* 3-[?]9 as read [?])	(*Ni.* 3-19)	Kannada p. 484 reads (ನಿ. ೩-೧೯)	applied	
+484	Q1	R1	qmarks q302 (p. 484)	(Kannada: "praises, or sings praises" [?])	(Kannada: "worships or praises")	Kannada p. 484 reads ಪೂಜಿಸುತ್ತಾನೆ ಅಥವಾ ಸ್ತುತಿಸುತ್ತಾನೆ	applied	
+484	Q2	R1	qmarks q303 (p. 484)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+484	Q2	R1	qmarks q304 (p. 484)	Pā. Sū. 3-2-102 as read [?]	Pā. Sū. 3-2-102	Kannada p. 484 reads the same number (3-2-102)	applied	
+484	Q2	R1	qmarks q305 (p. 484)	Pā. Sū. 6-4-37 as read [?]	Pā. Sū. 6-4-37	Kannada p. 484 reads the same number (6-4-37)	applied	
+484	Q2	R1	qmarks q306 (p. 484)	Pā. Sū. 6-2-49 as read [?]	Pā. Sū. 6-2-49	Kannada p. 484 reads the same number (6-2-49)	applied	
+484	Q2	R1	qmarks q307 (p. 484)	Pā. Sū. 3-4-83 as read [?]	Pā. Sū. 3-4-83	Kannada p. 484 reads the same number (3-4-83)	applied	
+484	Q2	R1	qmarks q308 (p. 484)	Pā. Sū. 7-2-116 as read [?]	Pā. Sū. 7-2-116	Kannada p. 484 reads the same number (7-2-116)	applied	
+484	Q2	R1	qmarks q309 (p. 484)	Pā. Sū. 5-1-119 as read [?]	Pā. Sū. 5-1-119	Kannada p. 484 reads the same number (5-1-119)	applied	
+485	Q1	R1	qmarks q311 (p. 485)	half-Ṛk [?];	half-Ṛk (*Ṛ.* 1-1073);	Kannada p. 485 prints (ಋ. ೧-೧೦೭೩); applied as printed	applied	
+486	Q1	R1	qmarks q312 (p. 486)	in watchfulness [?]	quickly	Kannada p. 486 reads ನು—ಜಾಗ್ರತೆಯಾಗಿ (Sāyaṇa kṣipram)	applied	
+488	Q2	R1	qmarks q313 (p. 488)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+488	Q2	R1	qmarks q314 (p. 488)	Pā. Sū. 6-4-9 as read [?]	Pā. Sū. 6-4-9	Kannada p. 488 reads the same number (6-4-9)	applied	
+488	Q2	R1	qmarks q315 (p. 488)	Pā. Sū. 8-1-66 as read [?]	Pā. Sū. 8-1-66	Kannada p. 488 reads the same number (8-1-66)	applied	
+488	Q2	R1	qmarks q317 (p. 488)	Pā. Sū. 5-4-58 as read [?]	Pā. Sū. 5-4-58	Kannada p. 488 reads the same number (5-4-58)	applied	
+488	Q2	R1	qmarks q318 (p. 488)	Pā. Sū. 3-1-97 as read [?]	Pā. Sū. 3-1-97	Kannada p. 488 reads the same number (3-1-97)	applied	
+488	Q2	R1	qmarks q319 (p. 488)	Pā. Sū. 7-2-116 as read [?]	Pā. Sū. 7-2-116	Kannada p. 488 reads the same number (7-2-116)	applied	
+488	Q2	R1	qmarks q320 (p. 488)	Pā. Sū. 6-4-51 as read [?]	Pā. Sū. 6-4-51	Kannada p. 488 reads the same number (6-4-51)	applied	
+488	Q2	R1	qmarks q321 (p. 488)	Pā. Sū. 6-1-213 as read [?]	Pā. Sū. 6-1-213	Kannada p. 488 reads the same number (6-1-213)	applied	
+488	Q2	R1	qmarks q323 (p. 488)	Pā. Sū. 3-2-59 as read [?]	Pā. Sū. 3-2-59	Kannada p. 488 reads the same number (3-2-59)	applied	
+488	Q2	R1	qmarks q324 (p. 488)	Pā. Sū. 6-4-24 as read [?]	Pā. Sū. 6-4-24	Kannada p. 488 reads the same number (6-4-24)	applied	
+488	Q2	R1	qmarks q325 (p. 488)	Pā. Sū. 6-3-95 as read [?]	Pā. Sū. 6-3-95	Kannada p. 488 reads the same number (6-3-95)	applied	
+488	Q2	R1	qmarks q326 (p. 488)	Pā. Sū. 5-4-8 as read [?]	Pā. Sū. 5-4-8	Kannada p. 488 reads the same number (5-4-8)	applied	
+488	Q2	R1	qmarks q327 (p. 488)	Pā. Sū. 7-1-2 as read [?]	Pā. Sū. 7-1-2	Kannada p. 488 reads the same number (7-1-2)	applied	
+488	Q2	R1	qmarks q328 (p. 488)	Pā. Sū. 3-4-6 as read [?]	Pā. Sū. 3-4-6	Kannada p. 488 reads the same number (3-4-6)	applied	
+488	Q2	R1	qmarks q329 (p. 488)	Pā. Sū. 3-1-85 as read [?]	Pā. Sū. 3-1-85	Kannada p. 488 reads the same number (3-1-85)	applied	
+488	Q2	R1	qmarks q330 (p. 488)	Pā. Sū. 3-4-82 as read [?]	Pā. Sū. 3-4-82	Kannada p. 488 reads the same number (3-4-82)	applied	
+488	Q1	R1	qmarks q316 (p. 488)	Pā. Sū. 61-168 as read [?]	Pā. Sū. 6-1-168	Kannada p. 488 reads ೬-೧-೧೬೮	applied	
+488	Q1	R1	qmarks q322 (p. 488)	Pā. Sū. 6-2-139 as read [?]	Pā. Sū. 6-12-139	Kannada p. 488 prints (ಪಾ. ಸೂ. ೬-೧೨-೧೩೯); applied as printed	applied	
+489	Q2	R1	qmarks q331 (p. 489)	"A. 1 A. 7 Va. 22 [?]"	"A. 1 A. 7 Va. 22"	Kannada p. 489 head reads ಅ. ೧. ಅ. ೭. ವ. ೨೨	applied	
+489	S3	R1	qmarks q332 (p. 489)	by *uraṭ*, Pā. Sū. 7-4-66 as read [?];	by *uraṭ*;	Kannada p. 489 has no number after ಉರತ್	applied	
+489	Q2	R1	qmarks q333 (p. 489)	Pā. Sū. 6-3-137 as read [?]	Pā. Sū. 6-3-137	Kannada p. 489 reads ೬-೩-೧೩೭	applied	
+490	Q2	R1	qmarks q335 (p. 490)	'this is not [the time]' [?]	'this is not [the time]'	Kannada p. 490 reads ಯಮವಸರೋ ನ ಭವತೀತಿ (avasara, occasion)	applied	
+490	Q1	R1	qmarks q337 (p. 490)	(in the form of the twelve nights [?])	(in the form of the twelve signs)	Kannada p. 490 reads ಪಥಃ—(ದ್ವಾದಶರಾಶಿರೂಪವಾದ) ಮಾರ್ಗದಿಂದ	applied	
+491	Q2	R1	qmarks q338 (p. 491)	"A. 1 A. 7 Va. 22 [?]"	"A. 1 A. 7 Va. 22"	Kannada p. 491 head reads ಅ. ೧. ಅ. ೭. ವ. ೨೨	applied	
+491	Q1	R1	qmarks q339+q340 (p. 491)	(*Ni.* 1-[?]3 as read [?])	(*Ni.* 2-15)	Kannada p. 491 reads (ನಿ.೨-೧೫)	applied	
+491	Q1	R1	qmarks q341+q342 (p. 491)	(*Ni.* 1-[?]4 as read [?])	(*Ni.* 2-27)	Kannada p. 491 reads (ನಿ. ೨-೨೭)	applied	
+491	Q1	R1	qmarks q343+q344+q345+q346+q347 (p. 491)	Ṛks such as 1-1[?]-[?]; 3-[?]-[?] and others [as read [?]],	Ṛks such as 1-146-46; 2.4-22 and others,	Kannada p. 491 reads (೧-೧೪೬-೪೬ ; ೨.೪-೨೨ ಇತ್ಯಾದಿ); applied as printed	applied	
+491	Q1	R1	qmarks q348+q349 (p. 491)	(*Ni.* 9-[?] as read [?])	(*Ni.* 9-19)	Kannada p. 491 reads ( ೯-೧೯ )	applied	
+491	Q2	R1	qmarks q350 (p. 491)	not completed from memory [?].)*	not completed from memory.)*	doubt mark only on a note (remark); Kannada page has the text	applied	
+492	Q1	R1	qmarks q351 (p. 492)	in the first half of the day [?]	in the day	Kannada p. 492 reads ಅಹಸ್ಸಿನಲ್ಲಿ	applied	
+492	Q2	R1	qmarks q352 (p. 492)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+492	Q1	R1	qmarks q353+q354 (p. 492)	Pā. Sū. 6-2-[?]3 as read [?]	Pā. Sū. 6-2-172	Kannada p. 492 reads (ಪಾ. ಸೂ. ೬-೨-೧೭೨)	applied	
+493	Q1	R1	qmarks q356 (p. 493)	Pā. Sū. 7-1-2 as read [?]	Pā. Sū. 7-1-5	Kannada p. 493 reads ೭-೧-೫	applied	
+493	Q1	R1	qmarks q357 (p. 493)	Pā. Sū. 7-1-1 as read [?]	Pā. Sū. 7-2-1	Kannada p. 493 reads ೭-೨-೧	applied	
+493	S3	R1	qmarks q358 (p. 493)	by *liti*, Pā. Sū. 6-1-193 as read [?])	by *liti*)	Kannada p. 493 has no number after ಲಿತಿ	applied	
+493	Q2	R1	qmarks q359 (p. 493)	Pā. Sū. 7-1-88 as read [?]	Pā. Sū. 7-1-88	Kannada p. 493 reads ೭-೧-೮೮	applied	
+493	Q1	R1	qmarks q360 (p. 493)	Pā. Sū. 6-1-159 as read [?]	Pā. Sū. 6-1-161	Kannada p. 493 reads ೬-೧-೧೬೧	applied	
+493	S3	R1	qmarks q361 (p. 493)	by *sanādyantā dhātavaḥ*, Pā. Sū. 3-1-32 as read [?];	by *sanādyantā dhātavaḥ*;	Kannada p. 493 has no number after ಸನಾದ್ಯಂತಾ ಧಾತವಃ	applied	
+493	Q2	R1	qmarks q362 (p. 493)	Pā. Sū. 4-1-6 as read [?]	Pā. Sū. 4-1-6	Kannada p. 493 reads ೪-೧-೬	applied	
+493	S3	R1	qmarks q363 (p. 493)	by *śatur anumo nadyajādī*, Pā. Sū. 6-1-173 as read [?], does	by *śatur anumo nadyajādī*, does	Kannada p. 493 has no number there	applied	
+493	Q1	R1	qmarks q364 (p. 493)	Pā. Sū. 6-2-172 as read [?]	Pā. Sū. 6-1-171	Kannada p. 493 reads (ಪಾ. ಸೂ. ೬-೧-೧೭೧)	applied	
+495	Q2	R1	qmarks q366 (p. 495)	"A. 1 A. 7 Va. 22 [?]"	"A. 1 A. 7 Va. 22"	Kannada p. 495 head reads ಆ. ೧. ಆ. ೭. ವ. ೨೨	applied	
+495	Q2	R1	qmarks q367 (p. 495)	akṛtapūrvam*' [?]	akṛtapūrvam*'	Kannada p. 495 reads the same quotation	applied	
+495	Q2	R1	qmarks q368 (p. 495)	stotṛbhyaḥ*' [?]:	stotṛbhyaḥ*':	Kannada p. 495 reads the same quotation	applied	
+495	Q1	R1	qmarks q369+q370 (p. 495)	(*Ni.* 3-[?] as read [?])	(*Ni.* 3-19)	Kannada p. 495 reads (ನಿ. ೩-೧೯)	applied	
+497	Q2	R1	qmarks q371 (p. 497)	"A. 1 A. 7 Va. 22 [?]"	"A. 1 A. 7 Va. 22"	Kannada p. 497 head reads ಅ. ೧. ಅ. ೭. ವ. ೨೨	applied	
+497	Q2	R1	qmarks q372 (p. 497)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+497	S3	R1	qmarks q373 (p. 497)	by *co kuḥ*, Pā. Sū. 7-3-52 as read [?];	by *co kuḥ*;	Kannada p. 497 has no number after ಚೋಃ ಕುಃ	applied	
+497	Q2	R1	qmarks q374 (p. 497)	Pā. Sū. 6-1-185 as read [?]	Pā. Sū. 6-1-185	Kannada p. 497 reads ೬-೧-೧೮೫	applied	
+497	Q2	R1	qmarks q375 (p. 497)	Pā. Sū. 3-2-102 as read [?]	Pā. Sū. 3-2-102	Kannada p. 497 reads ೩-೨-೧೦೨	applied	
+497	Q1	R1	qmarks q376 (p. 497)	Pā. Sū. 6-2-42 as read [?]	Pā. Sū. 3-2-42	Kannada p. 497 reads ೩-೨-೪೨	applied	
+498	Q2	R1	qmarks q377 (p. 498)	Pā. Sū. 7-1-50 as read [?]	Pā. Sū. 7-1-50	Kannada p. 498 reads ೭-೧-೫೦	applied	
+498	Q2	R1	qmarks q378 (p. 498)	Pā. Sū. 3-1-26 as read [?]	Pā. Sū. 3-1-26	Kannada p. 498 reads ೩-೧-೨೬	applied	
+498	Q1	R1	qmarks q379+q380 (p. 498)	Pā. Sū. 3-2-75 [?] as read [?]	Pā. Sū. 3-3-130	Kannada p. 498 reads (ಪಾ. ಸೂ. ೩-೩-೧೩೦)	applied	
+498	Q2	R1	qmarks q381 (p. 498)	Pā. Sū. 7-2-116 as read [?]	Pā. Sū. 7-2-116	Kannada p. 498 reads the same number (7-2-116)	applied	
+498	Q2	R1	qmarks q382 (p. 498)	Pā. Sū. 6-4-51 as read [?]	Pā. Sū. 6-4-51	Kannada p. 498 reads the same number (6-4-51)	applied	
+498	Q2	R1	qmarks q383 (p. 498)	Pā. Sū. 7-2-1 as read [?]	Pā. Sū. 7-2-1	Kannada p. 498 reads the same number (7-2-1)	applied	
+498	Q2	R1	qmarks q384 (p. 498)	Pā. Sū. 6-1-163 as read [?]	Pā. Sū. 6-1-163	Kannada p. 498 reads the same number (6-1-163)	applied	
+498	Q2	R1	qmarks q385 (p. 498)	Pā. Sū. 6-1-139 as read [?]	Pā. Sū. 6-1-139	Kannada p. 498 reads the same number (6-1-139)	applied	
+498	Q2	R1	qmarks q386 (p. 498)	Pā. Sū. 7-1-3 as read [?]	Pā. Sū. 7-1-3	Kannada p. 498 reads the same number (7-1-3)	applied	
+498	Q2	R1	qmarks q387 (p. 498)	Pā. Sū. 3-1-34 as read [?]	Pā. Sū. 3-1-34	Kannada p. 498 reads the same number (3-1-34)	applied	
+498	Q2	R1	qmarks q390 (p. 498)	Pā. Sū. 3-4-6 as read [?]	Pā. Sū. 3-4-6	Kannada p. 498 reads the same number (3-4-6)	applied	
+498	Q2	R1	qmarks q391 (p. 498)	Pā. Sū. 6-3-137 as read [?]	Pā. Sū. 6-3-137	Kannada p. 498 reads the same number (6-3-137)	applied	
+498	Q2	R1	qmarks q392 (p. 498)	Pā. Sū. 3-1-114 as read [?]	Pā. Sū. 3-1-114	Kannada p. 498 reads the same number (3-1-114)	applied	
+498	Q1	R1	qmarks q388+q389 (p. 498)	Uṇ. 1-[?]1 as read [?]	Uṇ. 1-11	Kannada p. 498 reads (ಉ. ಸೂ. ೧-೧೧)	applied	
+499	Q2	R1	qmarks q393 (p. 499)	"A. 1 A. 7 Va. 22 [?]"	"A. 1 A. 7 Va. 22"	Kannada p. 499 head reads ಅ. ೧. ಅ. ೭. ವ. ೨೨	applied	
+501	Q2	R1	qmarks q395 (p. 501)	"A. 1 A. 7 Va. 22 [?]"	"A. 1 A. 7 Va. 22"	Kannada p. 501 head reads ಆ. ೧. ಆ. ೭. ನ. ೨೨ (numerals agree; ನ a misprint of ವ)	applied	
+501	Q2	R1	qmarks q397 (p. 501)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+501	Q1	R1	qmarks q398 (p. 501)	Pā. Sū. 3-17-2 as read [?]	Pā. Sū. 3-1-26	Kannada p. 501 reads (ಪಾ. ಸೂ. ೩-೧-೨೬)	applied	
+501	Q1	R1	qmarks q400 (p. 501)	U. Sū. 3-12 as read [?]	U. Sū. 4-578	Kannada p. 501 prints (ಉ. ಸೂ. ೪-೫೭೮); applied as printed	applied	
+501	Q2	R1	qmarks q401 (p. 501)	Pā. Sū. 6-4-51 as read [?]	Pā. Sū. 6-4-51	Kannada p. 501 reads ೬-೪-೫೧	applied	
+502	Q2	R1	qmarks q402 (p. 502)	Pā. Sū. 5-1-124 as read [?]	Pā. Sū. 5-1-124	Kannada p. 502 reads ೫-೧-೧೨೪	applied	
+502	Q2	R1	qmarks q403 (p. 502)	Pā. Sū. 6-1-196 as read [?]	Pā. Sū. 6-1-196	Kannada p. 502 reads ೬-೧-೧೯೬	applied	
+502	Q2	R1	qmarks q404 (p. 502)	Pā. Sū. 3-2-102 as read [?]	Pā. Sū. 3-2-102	Kannada p. 502 reads ೩-೨-೧೦೨	applied	
+502	Q2	R1	qmarks q405 (p. 502)	Pā. Sū. 8-2-61 as read [?]	Pā. Sū. 8-2-61	Kannada p. 502 reads ೮-೨-೬೧	applied	
+502	S3	R1	qmarks q406 (p. 502)	by *radābhyāṃ niṣṭhāto naḥ*, Pā. Sū. 8-2-42 as read [?];	by *radābhyāṃ niṣṭhāto naḥ*;	Kannada p. 502 has no number after ರದಾಭ್ಯಾಂ	applied	
+502	Q2	R1	qmarks q407 (p. 502)	Pā. Sū. 5-1-116 as read [?]	Pā. Sū. 5-1-116	Kannada p. 502 reads ೫-೧-೧೧೬	applied	
+502	S3	R1	qmarks q408 (p. 502)	*vraścabhrasja…*, Pā. Sū. 8-2-36 as read [?];	*vraścabhrasja…*;	Kannada p. 502 has no number after ವ್ರಶ್ಚಭ್ರಸ್ಥ	applied	
+502	S3	R1	qmarks q409 (p. 502)	*ṣaḍhoḥ kaḥ si*, Pā. Sū. 8-2-41 as read [?];	*ṣaḍhoḥ kaḥ si*;	Kannada p. 502 has no number after ಷಢೋಃ ಕಃಸಿ	applied	
+502	S3	R1	qmarks q410 (p. 502)	*ādeśapratyayayoḥ*, Pā. Sū. 8-3-59 as read [?];	*ādeśapratyayayoḥ*;	Kannada p. 502 has no number after ಆದೇಶಪ್ರತ್ಯಯಯೋಃ	applied	
+502	Q2	R1	qmarks q411 (p. 502)	Pā. Sū. 7-1-36 as read [?]	Pā. Sū. 7-1-36	Kannada p. 502 reads the same number (7-1-36)	applied	
+502	Q2	R1	qmarks q412 (p. 502)	Pā. Sū. 5-3-57 as read [?]	Pā. Sū. 5-3-57	Kannada p. 502 reads the same number (5-3-57)	applied	
+502	Q2	R1	qmarks q413 (p. 502)	Pā. Sū. 1-4-20 as read [?]	Pā. Sū. 1-4-20	Kannada p. 502 reads the same number (1-4-20)	applied	
+502	Q2	R1	qmarks q414 (p. 502)	Pā. Sū. 6-4-131 as read [?]	Pā. Sū. 6-4-131	Kannada p. 502 reads the same number (6-4-131)	applied	
+502	Q2	R1	qmarks q415 (p. 502)	Pā. Sū. 8-3-60 as read [?]	Pā. Sū. 8-3-60	Kannada p. 502 reads the same number (8-3-60)	applied	
+504	Q1	R1	qmarks q418 (p. 504)	Sū. 104 [sic: small numerals as read, the Sūkta is 105] [?]"	Sū. 105"	Kannada p. 504 head reads ಸೂ. ೧೦೫	applied	
+505	Q2	R1	qmarks q419 (p. 505)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+506	Q1	R1	qmarks q420 (p. 506)	Pā. Sū. 5-2-109 as read [?]	Pā. Sū. 5-2-109-3	Kannada p. 506 reads (ಪಾ. ಸೂ. ೫-೨-೧೦೯-೩)	applied	
+506	Q2	R1	qmarks q421 (p. 506)	Pā. Sū. 6-4-148 as read [?]	Pā. Sū. 6-4-148	Kannada p. 506 reads ೬-೪-೧೪೮	applied	
+506	Q2	R1	qmarks q422 (p. 506)	Pā. Sū. 6-1-197 as read [?]	Pā. Sū. 6-1-197	Kannada p. 506 reads ೬-೧-೧೯೭	applied	
+508	Q1	R1	qmarks q426 (p. 508)	*vyudṇotīti meghajālena*' [as read [?]]	*viyadvṛṇoti meghajālena*'	Kannada p. 508 reads ವಿಯದ್ವೃಣೋತಿ ಮೇಘಜಾಲೇನ; IAST by sp_sanskrit.py	applied	
+508	Q2	R1	qmarks q427 (p. 508)	with a mass of clouds' [?].	with a mass of clouds'.	Kannada p. 508 gives the same sense (covers the sky with a mass of clouds)	applied	
+508	Q2	R1	qmarks q428 (p. 508)	stāvayatīty arthaḥ*' [as read [?]]:	stāvayatīty arthaḥ*':	Kannada p. 508 reads the same quotation	applied	
+509	Q1	R1	qmarks q429 (p. 509)	*mama manaso jñānam utthāpayety arthaḥ*' [as read [?]]:	*mama manaso jñānamutpādayatvityarthaḥ*':	Kannada p. 509 reads ಮಮ ಮನಸೋ ಜ್ಞಾನಮುತ್ಪಾದಯತ್ವಿತ್ಯರ್ಥಃ; IAST by sp_sanskrit.py	applied	
+509	Q2	R1	qmarks q430 (p. 509)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+510	Q2	R1	qmarks q431 (p. 510)	numerals small and doubtful [?])	numerals small and doubtful)	doubt mark only on a note (numerals remark); Kannada page has the text	applied	
+510	Q2	R1	qmarks q432 (p. 510)	Pā. Sū. 3-1-80 as read [?]	Pā. Sū. 3-1-80	Kannada p. 510 reads ೩-೧-೮೦	applied	
+510	Q2	R1	qmarks q433 (p. 510)	Pā. Sū. 6-4-48 as read [?]	Pā. Sū. 6-4-48	Kannada p. 510 reads ೬-೪-೪೮	applied	
+493	Q2	R1	qmarks q355 (p. 493)	Running head left "A. 1 A. 7 Va. 22 [?]"	unchanged	Kannada p. 493 head reads ಅ. ೩ (neighbours 491, 495 read ೭); Kannada misprint, English kept	kept	
+503	Q2	R1	qmarks q416 (p. 503)	Running head left "A. 1 A. 7 Va. 22 [?]"	unchanged	Kannada p. 503 head reads ಅ. ೬ (neighbours read ೭); Kannada misprint, English kept	kept	
+490	Q2	R1	qmarks q336 (p. 490)	in the form of the twelve nights [?]	unchanged	Kannada p. 490 reads ದ್ವಾದಶರಶ್ಮಾತ್ಮನಾ, p. 492 ದ್ವಾದರಾಶ್ಯಾತ್ಮನಾ; English follows Wikisource dvādaśarātryātmanā; cannot decide, English kept	kept	
+501	Q2	R1	qmarks q399 (p. 501)	ajer iḥ [?]	unchanged	Kannada p. 501 reads ಅಚಇಃ, not a clear word; English kept	kept	
+501	Q2	R1	qmarks q396 (p. 501)	manuṣyavat nānavarat [as printed [?]]	unchanged	Kannada p. 501 has manuṣyavat followed by the Kannada gloss ಮಾನವರಂತೆ; cannot decide the Sanskrit tail; English kept	kept	
+507	Q2	R1	qmarks q424 (p. 507)	Running head left "A. 1 A. 7 Va. 22 [?]"	unchanged	page 507 is not in the supplied Kannada text; English kept	kept	
+508	Q2	R1	qmarks q425 (p. 508)	varuṇo vṛṇotīti satyaḥ [?]	unchanged	Kannada p. 508 reads ವರುಣೋ ವೃಣೋತೀತಿ ಸತಃ; reading differs, cannot decide; English kept	kept	
