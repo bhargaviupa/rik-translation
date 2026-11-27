@@ -11235,6 +11235,154 @@ In Ṛks like this it is described that Indra, joined with Viṣṇu, slew the a
 > पू॒र्वीर॒हं श॒रदः॑ शश्रमा॒णा दो॒षा वस्तो॑रु॒षसो॑ ज॒रयं॑तीः ।  
 > मि॒नाति॒ श्रियं॑ जरि॒मा त॒नूना॒मप्यू॒ नु पत्नी॒र्वृष॑णो जगम्युः ॥
 
+### Printed p. 469
+#### Ṛk 1 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्विः । अहं । शरदः । शश्रमाणा । दोषाः । वस्तोः । उषसः । जरयंतीः ।  
+> मिनाति । क्रियं । जरिमा । तनूनां । अपि । ऊं इति । नु । पत्निः । वृषणः । जगम्युः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> लोपामुद्राह ।
+> हे अगस्त्य अहं लोपामुद्रा पूर्विः शरदः पुरातनानसंख्यातान्संवत्सरान्
+> दोषा रात्रीर्वस्तोरहानि तथा देहं जरयंतीरुषस उषःकालांश्च ॥ सर्वत्रात्यंतकालसंयोगे द्वितीया ॥ आद्यतनकालपर्यंतं बहुसंवत्सरं कार्त्स्नन
+> त्वच्छुशूषया शक्रमाणा श्रांताभूवं । इदानीं तु जरिमा जरा तनूनामंगानां
+> श्रियं सौंदर्यं मिनाति । हिनस्ति । एवमपि नानुगृह्णासीत्यर्थः । अप्यू नु ।
+> अपिः संभावनायां । उ इत्यवधारणे । न्विति वितर्कॆ । इदानीमपि किं संभावनीयं।
+> लोके हि पत्निः स्त्रियो वृषणः सेक्तारः पुरुषा जगम्युः । गच्छेयुः । संभोगं
+> कुर्युः । अतो मां किमित्यवमन्यसे । इदानीमपि वा संभावयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Lopāmudrā speaks. "O Agastya, I, Lopāmudrā, for many ancient, countless years, through nights (दोषा (*doṣā*)), days (वस्तोः (*vastoḥ*)) and the dawn-times (उषसः (*uṣasaḥ*)) that bring decay to the body, have been wearied by serving you with all my effort. The accusative is used throughout because the time is continuous (*atyaṃtakālasaṃyoge dvitīyā*). Now old age (जरिमा (*jarimā*)) destroys the beauty of my limbs; even so you do not favour me." In अप्यू नु (*apyū nu*), अपि (*api*) is used in the sense of possibility, उ (*u*) in emphasis, नु (*nu*) in doubt: "even now, what is thinkable?" In the world, husbands, the sprinklers (of seed), approach their wives and enjoy them. "Why then do you slight me? Or: think of me even now."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अगस्त्य (*he agastya*)—O Agastya
+- अहं (*ahaṃ*)—I (Lopāmudrā)
+- पूर्वीः (*pūrvīḥ*)—ancient
+- शरदः (*śaradaḥ*)—of many years
+- दोषाः (*doṣāḥ*)—of nights
+- वस्तोः (*vastoḥ*)—of days
+- जरयंती (*jarayaṃtī*)—body-wasting
+- उषसः (*uṣasaḥ*)—of dawn-times (up to)
+- शत्रमाणा (*śatramāṇā*)—(serving you with toil) I am wearied
+- जरिमा (*jarimā*)—old age (now)
+- तनूनां (*tanūnāṃ*)—of the limbs
+- श्रियं (*śriyaṃ*)—the beauty
+- मिनाति (*mināti*)—injures (destroys)
+- अपि ऊ नु (*api ū nu*)—what, then, am I to do now?
+- लोके हि (*loke hi*)—in the world
+- पत्निः (*patniḥ*)—wives
+- वृषणः (*vṛṣaṇaḥ*)—husbands, the sprinklers of seed
+- जगम्युः (*jagamyuḥ*)—approach (for enjoyment)
+
+##### भावार्थ (Bhāvārtha)
+
+Lopāmudrā says: O Agastya, for many years now, by day, by night and at the dawn-times, I have worn myself out serving you without rest. Now old age is spoiling the beauty of my limbs; what shall I do? In the world, men approach their wives for enjoyment. (Only you still do not favour me.)
+
+### Printed p. 470
+
+##### English translation (H. H. Wilson)
+(Lopamudra),—Many years have I been serving you diligently, both day and night, and through mornings, bringing on old age : decay now imqairs the beauty of my limbs : what, therefore, is now (to be done) : let husbands approach their wives.
+
+##### विशेषविषयगळु (Special Topics)
+
+In Ṛ. Saṃ. 1-179 a conversation between Lopāmudrā and Agastya is described. The author of the Bṛhaddevatā presents the episode thus:
+ऋत् स्नातामृषिर्भार्यां लोपामुद्रां यशस्सिनीं । उपजल्पितुमारेभे रहःसंयोगकाम्यया ॥ द्वाभ्यां सा त्वब्रवीदृग्भ्यां पूर्विीरिति चिकीर्षितं । रिरंसुस्तामथागस्त्य उत्तराभ्यामतोषयत् ॥ विविश्वा तपसा सर्वं तयोर्भावं रिरंसतोः । श्रुत्त्वैनः कृतवानस्मि ब्रह्मचार्युत्तमे जगौ ॥ (*ṛt snātāmṛṣirbhāryāṃ lopāmudrāṃ yaśassinīṃ | upajalpitumārebhe rahaḥsaṃyogakāmyayā ‖ dvābhyāṃ sā tvabravīdṛgbhyāṃ pūrviīriti cikīrṣitaṃ | riraṃsustāmathāgastya uttarābhyāmatoṣayat ‖ viviśvā tapasā sarvaṃ tayorbhāvaṃ riraṃsatoḥ | śruttvainaḥ kṛtavānasmi brahmacāryuttame jagau ‖*) (Bṛ. De. 4-57 to 59)
+After her ritual bath the sage Agastya, desiring union with his wife Lopāmudrā, began to converse with her. She, too, made known her wish with the two Ṛks पूर्विरहं शरदः (*pūrvirahaṃ śaradaḥ*) (Ṛ. Saṃ. 1-179-1) and ये जिद्दि पूर्वे (*ye jiddi pūrve*) (1-179-2). Then Agastya made his own desire known to her with the two Ṛks न मृषा श्रांतं (*na mṛṣā śrāṃtaṃ*) (1-179-3) and नहस्य मा रुधतः (*nahasya mā rudhataḥ*) (1-179-4), and satisfied her. On this occasion Agastya's pupil came to know by his ascetic power the conversation revealing their desire for union. Realising that it was a sin to have heard and understood it, he too recited the two Ṛks इमं नु सोमं (*imaṃ nu somaṃ*) (1-179-5) and अगस्त्यः खनमानः (*agastyaḥ khanamānaḥ*) (1-169-6): so the Bṛhaddevatā relates. **NOTE**
+Of the two words दोषाः (*doṣāḥ*) and वस्तोः (*vastoḥ*), दोषाः (*doṣāḥ*) is read among the names of night (Ni. 3-9) and वस्तोः (*vastoḥ*) among the names of day. In explaining these two words the Nirukta author quotes the Ṛk of the Saṃhitā
+कुहस्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः । को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥ (*kuhasviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ | ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā ‖*) (Ṛ. Saṃ. 10-40-2)
+
+### Printed p. 471
+and explains दोषा (*doṣā*) as night and वस्तो (*vasto*) as day.
+शरदः (*śaradaḥ*)—शरच्छृता अस्यामोषधयो भवंति । शीर्षा आप इति ना । (*śaracchṛtā asyāmoṣadhayo bhavaṃti | śīrṣā āpa iti nā |*) (Ni. 4-25). The name autumn is well known either because plants ripen in this season or because the waters dry up. The word is not only a season; in many places it is used as a synonym of "year". For example, in the verse quoted by the Nirukta author (Ni. 4-25) दीर्घायुरस्या यः पतिर्जीनाति शरदः शतं । (*dīrghāyurasyā yaḥ patirjīnāti śaradaḥ śataṃ |*) (Ṛ. Saṃ. 10-85-39), शरदशतं (*śaradaśataṃ*) means a hundred years.
+वृषणः (*vṛṣaṇaḥ*)—The meanings of words formed from वृषन् (*vṛṣan*) and their occurrences in the Ṛk-Saṃhitā were given earlier (Ṛ. Saṃ. 1-77-3). Here it means a man capable of sprinkling.
+
+##### Grammar
+
+- पूर्विः — इदे मॊदलाद नाल्कु शब्देषु कालाध्वनोरत्यंतसंयोगे द्वितीया (पा. सू. २-३-५) इति प्रत्येकं संबंधात् द्वितीया आगता ।
+- कश्रमाणाः — श्रमु तपसि खेदे च धातुः । व्यत्ययेन लटः शानचादेशः । बहुलं छंदसि इति श्लुविकरणम् । तन्निमित्तं धातोर्द्वित्वादि । अट्कुप्वाङ् इति प्रत्ययनकारस्य णत्वम् । चितः (पा. सू. ६-१-१६३) इत्यनेन अंतोदात्तस्वरः आगच्छति ।
+- वस्तोः — वस निवासे धातुः । तुमर्थे तोसुन् प्रत्ययः ।
+- जरयंतीः — ज्यष् वयोहानौ धातुः । णिजंतात् शतृप्रत्यये स्त्रीत्वे उगित्त्वात् ङीप् । जनीज्यष्क्नसुरंजोमांताश्च इति मित्संज्ञा भवति, ततो मितां ह्रस्वः (पा. सू. ६-४-९२) इति धातोरुपधाया ह्रस्वः । लसार्वधातुकस्यानुदात्तत्वात् णिच्स्वरः अवशिष्यते । **NOTE**
+- मिनाति — मीञ् हिंसायां धातुः । क्र्यादिः । लट् प्रथमपुरुष एकवचनांतरूपम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोर्ह्रस्वः आगच्छति । पादादित्वात् निघातस्वरो न भवति । विकरणस्वरः अवशिष्यते ।
+
+### Printed p. 472
+- जतिमा — ज्यष् वयोहानौ धातुः । भावार्थे औणादिक इमनिच् प्रत्ययः । तन्निमित्तं धातोरिकः गुणः । चितः (पा. सू. ६-१-१६३) इत्यनेन अंतोदात्तस्वरः आगच्छति ।
+- जगम्युः — गमल्य गतौ धातुः । लिज् प्रथमपुरुषबहुवचनस्य उसादेशः । बहुलं छंदसि इति श्लुकीकरणम् । तन्निमित्तं धातोर्द्वित्वादि । तिजंतनिघातस्वरः आगच्छति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये चि॒द्भि पूर्व॑ ऋत॒साप॒ आस॑न्ता॒कं दे॒वेभि॒रव॑दन्नृ॒तानि॑ ।  
+> ते चि॒दवा॑सुर्न॒ह्यंत॑मा॒पुः समू॒ नु पत्नी॒र्वृष॑भिर्जगम्युः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । चित् । हि । पूर्वे । ऋतसापः । आसन् । साकं । देवेभिः । अवदन् । ऋतानि ।  
+> ते । चित् । अव । असुः । नहि । अंतं । आपुः । सं । ऊं इति । नु । पत्निः । वृषभिः ।  
+> जगम्युः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा तमेवा ॥
+> हे पतेऽगस्त्य ये चिद्दि येऽपि तु पूर्व पुरातना ऋतसापः सत्यस्यापयितारो व्याप्नुवाना महर्षय आसन् ते वेवेभिर्देवैः साकं सहर्तानि सत्यवाक्यान्यवदन् । वदंति । ये महत्तपो यज्ञं वानुतिष्ठंति ये च देववाक्यानि
+> देवस्कृतिरुवाणि वदंति ते चित् । चिदस्यर्थे । ते चिदवासुः । अवक्षिपंति रेतः ॥
+> स्कृतिरुवसृष्टो विमोचने वर्तते ॥ ते नह्यंतमापुः । न हि ब्रह्मचर्यादेरंतं
+> प्राप्नुवन् । ब्रह्मचर्यमनिषिद्धर्तुकालगमनमपि कुर्वंतीत्यर्थः । तथा पत्निः
+> पत्नश्च तपस्यमाना वृषभिर्भोगवर्षकैः पतिभिः सह समू न जगम्युः । उ न्विति
+> पूरणौ । संगच्छेरन् । अतस्त्वं कथं मां नानुभवसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+She says to him: "O husband Agastya, those ancient great sages (ऋतसापः (*ṛtasāpaḥ*), makers of truth pervade), who conversed truths with the gods (साकं देवेभिः (*sākaṃ devebhiḥ*))—those who practise great austerity or sacrifice and speak the words of the gods—even they discharged seed (अवासुः (*avāsuḥ*), चिद (*cida*) being in the sense of चित् (*cit*); अव (*ava*) …*askṛti* is used of discharge). They did not reach the end of their continence (न हि ब्रह्मचर्यादेरंतं प्राप्नुवन् (*na hi brahmacaryāderaṃtaṃ prāpnuvan*)): that is, they also approached their wives in the permitted season. Likewise wives practising austerity (पत्निः (*patniḥ*)) united with their husbands, the showerers of enjoyment (वृषभिः (*vṛṣabhiḥ*)). उ न्विति (*u nviti*) are expletives. So why do you not enjoy me?" **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अगस्त्य (*he agastya*)—O Agastya
+- ये चित् हि (*ye cit hi*)—which
+- पूरै (*pūrai*)—ancient
+- ऋतसापः (*ṛtasāpaḥ*)—(performers of sacrifice etc.) the great sages who cause truth to pervade
+
+### Printed p. 473
+- आसन् (*āsan*)—were
+- ये (*ye*)—who
+- देवेभिः साकं (*devebhiḥ sākaṃ*)—with the gods
+- ऋतानि (*ṛtāni*)—true words (principles)
+- अवदन् (*avadan*)—spoke (discussed)
+- ते चित् (*te cit*)—even such great sages
+- अवासुः (*avāsuḥ*)—discharged seed
+- ते (*te*)—they
+- अंतं (*aṃtaṃ*)—the end (of their continence)
+- न हि आपुः (*na hi āpuḥ*)—did not reach
+- तथा (*tathā*)—likewise
+- पत्निः (*patniḥ*)—wives (ascetic)
+- वृषभिः (*vṛṣabhiḥ*)—with husbands, showerers of enjoyment
+- सं ऊ नु जगम्युः (*saṃ ū nu jagamyuḥ*)—enjoyed union
+
+##### भावार्थ (Bhāvārtha)
+
+O Agastya, even the ancient great sages, who performed sacrifices and the like and discussed matters of truth with the gods, had union for the begetting of progeny; their continence was not lost thereby. Ascetic women, too, have had union with their husbands. (Yet you alone have not favoured me.)
+
+##### English translation (H. H. Wilson)
+The ancient sages, disseminators of truth, who, verily, conversed of truths with the gods, begot (progeny), nor thereby violated (their vow of continence), therefore should wives be approached by their husbands.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and the one before it, Lopāmudrā prays to Agastya to fulfil her wish. She tells her husband plainly of her desire, but to show that satisfying it brings no lapse in her own dharma or her husband's, she cites the example of the earlier sages: even great sages could not conquer desire; it is a natural wish of man and must be satisfied. ये चेत् ऋतसापः आसन्, ये देवेभिः साकं ऋतानि अवदन्, ते चित् अवासुः (*ye cet ṛtasāpaḥ āsan, ye devebhiḥ sākaṃ ṛtāni avadan, te cit avāsuḥ*)—those who were ऋतसापः (*ṛtasāpaḥ*), who spoke only true words with the gods, even such ancient seers joined their wives for satisfaction of desire. Thus in this Ṛk Lopāmudrā tells her husband and seeks his company. The meaning of the words ऋतसापः (*ṛtasāpaḥ*) and ऋतानि (*ṛtāni*) must be noted here especially. The word ऋत (*ṛta*) denotes the spiritual-physical principle and the moral rule. The essence of the Vedic view is that gods, men and all must understand the path of ṛta and follow its rule. That even such knowers of principle and keepers of the rule obtained satisfaction of desire is Lopāmudrā's argument—
+
+### Printed p. 474
+ऋतसापः (*ṛtasāpaḥ*), ऋतानि (*ṛtāni*)—The Nirukta author has included the word ऋत (*ṛta*) among the names of water (Ni. 3-9); yet wherever it occurs in a larger sense he explains it as सत्यं वा यज्ञं वा (*satyaṃ vā yajñaṃ vā*) (Ni. 4-19), etc. Sāyaṇa too, wherever ऋतसापः (*ṛtasāpaḥ*) occurs, explains it as यज्ञस्पृतः (*yajñaspṛtaḥ*) or सत्यज्ञाः (*satyajñāḥ*). In many places the word ṛta describes the order of the universe. "Standing, as it does inter alia, for impersonal Order or Law, pervading the physical and moral world and sustaining alike the worlds of the gods and nature, the concept of the Rita may be said to have created a land-mark in the history of Vedic thought and culture." In these words the English scholar Eggeling says that the idea denoted by the word ṛta holds a distinction in Vedic culture. It is necessary to examine closely the uses of this word and the ideas it conveys in each context.
+The word is used in the very first sūkta of the first Maṇḍala of the Ṛk-Saṃhitā, where the great qualities of Agni are described:
+राजंतमध्वराणां गोपामृतस्य दीदिविं । वर्धमानं स्वे दमे । (*rājaṃtamadhvarāṇāṃ gopāmṛtasya dīdiviṃ | vardhamānaṃ sve dame |*) (Ṛ. Saṃ. 1-1-8)
+Here Sāyaṇa explains ऋतस्य गोपां (*ṛtasya gopāṃ*) as ऋतस्य सत्यस्यावश्यंभाविनः कर्मफलस्य (*ṛtasya satyasyāvaśyaṃbhāvinaḥ karmaphalasya*). Yāska too gives the meaning "truth" and supports it.
+The scholar Max Muller, examining the original meaning of ṛta and its development, says that at first ṛta denoted the course of movement of the sun, moon and the like, and then was used as a synonym of the sacrifices performed according to the seasons and solstices that follow their revolution. By reflecting this rule, the same word finally became a synonym describing the order of nature or dharma. The scholar Keith says of it:
+"In the physical world there rules a regular order ऋत (*ṛta*), which is clearly an inheritance from the physical; it is an easy step to the conception of the ऋत (*ṛta*),............ in the moral world".
+" The term for Cosmic order, ऋत (*ṛta*) and and its opposite अनृत (*anṛta*) express also moral order as in the dialogue of Yama and Yami. ऋत (*ṛta*) forbids and
+
 ---
 
-**Progress note:** Done through printed p. 468. pp. 463-468 (batch API)
+**Progress note:** Done through printed p. 474. pp. 469-474 (batch API)
