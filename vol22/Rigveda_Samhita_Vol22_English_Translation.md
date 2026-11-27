@@ -24199,6 +24199,276 @@ Divine Ushas, illume us with your bright rays, prolonging our existence, bestowi
 
 > यां त्वा॑ दिवो दुहितर्व॒र्धयं॒त्युषः॑ सुजाते म॒तिभि॒र्वसि॑ष्ठाः ।
 
+### Printed p. 583
+
+> सास्मासु धा रयिमृष्वं बृहंतं यूयं पात स्वस्तिभिः सदा
+> नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यान् । त्वा । दिवः । दुहितः । वर्धयंति । उषः । सुजाते । मतिभिः । वसिष्ठाः ।  
+> सा । अस्मासु । धाः । रयिं । ऋष्वं । बृहंतं । यूयं । पात । स्वस्तिभिः । सदा ।  
+> नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो दुहितरुषः सुजाते शोभनजनने यां त्वा त्वां मतिभिः स्तोत्रैर्वसिष्ठा वर्धयंति सा त्वमस्मासु वसिष्ठेष्वृष्वं प्रदीप्तं बृहंतं महांतं रयिं
+> धनं धाः । धेहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Uṣas, daughter of heaven, well-born (सुजाते (*sujāte*), of beautiful birth). The Vasiṣṭhas make you grow with their hymns (मतिभिः (*matibhiḥ*), stotras). Such as you, place (धाः (*dhāḥ*) = धेहि (*dhehi*)) among us, the Vasiṣṭhas, resplendent (ऋष्वं (*ṛṣvaṃ*), blazing) and great (बृहंतं (*bṛhaṃtaṃ*)) wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुजाते (*sujāte*)—you who are of excellent birth
+- दिवः (*divaḥ*)—of the heavenly world
+- दुहितः (*duhitaḥ*)—daughter
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- यां त्वा (*yāṃ tvā*)—you whom
+- मतिभिः (*matibhiḥ*)—with praises
+- वसिष्ठाः (*vasiṣṭhāḥ*)—the ṛṣis born in the line of Vasiṣṭha
+- वर्धयंति (*vardhayaṃti*)—make strong
+- सा (*sā*)—such a you
+- अस्मासु (*asmāsu*)—in us
+- ऋष्वं (*ṛṣvaṃ*)—brilliant
+- बृहंतं (*bṛhaṃtaṃ*)—great
+- रयिं (*rayiṃ*)—wealth
+- धाः (*dhāḥ*)—establish
+- यूयं (*yūyaṃ*)—you (O gods)
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, of excellent birth, daughter of heaven, you whom the ṛṣis born in the line of Vasiṣṭha make strong with their praises: such as you, establish among us brilliant and great wealth. O gods, protect us always with blessings.
+
+##### English translation
+Well-manifested Ushas, daughter of heaven, do you, whom the Vashishthas magnify with praises, bestow upon us brilliant and infinite wealth; and do you, (gods), ever cherish us with blessings.
+
+### Printed p. 584
+## Sūkta 78 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति केतव इति पंचर्चमष्टमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमुषस्यं । प्रति पंचेत्यनुक्रमणिका । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, प्रति केतव (*prati ketava*), of five ṛks, has Vasiṣṭha as seer, Uṣas as deity and Triṣṭubh as metre. The Anukramaṇikā says प्रति पंच (*prati paṃca*). The viniyoga has already been stated.
+
+##### Anuvāda and particulars
+
+This sūkta, प्रति केतवः (*prati ketavaḥ*), is the eighth sūkta in the fifth anuvāka. It has five ṛks. Its seer is Vasiṣṭha; the deity is Uṣas; the metre is Triṣṭubh. In the Anukramaṇikā it is said प्रति पंच (*prati paṃca*). The viniyoga was stated earlier.
+
+Sūkta 78. Maṇḍala 7; Anuvāka 5; Sūkta 78. Aṣṭaka 5; Adhyāya 5; Varga 25. Number of ṛks in the sūkta: 5. Ṛṣi: Vasiṣṭha. Deity: Uṣas. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ के॒तवः॑ प्रथ॒मा अ॑दृश्रन्नू॒र्ध्वा अ॑स्या अं॒जयो॒ वि  ॑
+> श्रयंते ।  
+> उषो॑ अ॒र्वाचा॑ बृह॒ता रथे॑न॒ ज्योति॑ष्मता वा॒मम॒स्मभ्यं॑  
+> वक्षि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । केतवः । प्रथमाः । अदृश्रन् । ऊर्ध्वाः । अस्याः । अंजयः । वि । श्रयंते ।  
+> उषः । अर्वाचा । बृहता । रथेन । ज्योतिष्मता । वामं । अस्मभ्यं । वक्षि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याः प्रथमाः प्रथमोत्पन्नाः केतवः प्रज्ञापका रश्मयः प्रत्यदृश्रन् । प्रतीदृश्यंते । अस्या अंजयो व्यंजका रश्मय ऊर्ध्वा ऊर्ध्वमुखा वि श्रयंते
+
+##### Gist of the bhāṣya
+
+Her first-arisen केतवः (*ketavaḥ*) (signalling rays) have been seen. Her अंजयः (*aṃjayaḥ*) (manifesting rays) spread upward, turned upward.
+
+### Printed p. 585
+
+> विविधं सर्वत्र श्रयंति । हे उषो देवि अर्वाचास्मदभिमुखेनागच्छता बृहता महता ज्योतिष्मता तेजोवता रथेनास्मभ्यं वामं वननीयं धनं वक्षि । वहसि ॥
+
+##### Gist of the bhāṣya
+
+They spread in all directions in many ways. O goddess Uṣas, you bring to us desirable wealth in your great, brilliant (तेजोवता (*tejovatā*)) chariot, which comes facing us (अर्वाचा (*arvācā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्याः (*asyāḥ*)—of this Uṣas
+- प्रथमाः (*prathamāḥ*)—the first
+- केतवः (*ketavaḥ*)—rays like banners
+- प्रत्यदृश्रन् (*pratyadṛśran*)—become visible
+- अंजयः (*aṃjayaḥ*)—spreading rays
+- ऊर्ध्वाः (*ūrdhvāḥ*)—upward
+- विश्रयंते (*viśrayaṃte*)—spread in various ways
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- अर्वाचा (*arvācā*)—facing us
+- ज्योतिष्मता (*jyotiṣmatā*)—brilliant
+- बृहता (*bṛhatā*)—great
+- रथेन (*rathena*)—with (in) the chariot
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- वामं (*vāmaṃ*)—attractive wealth
+- वक्षि (*vakṣi*)—come bearing
+
+##### भावार्थ (Bhāvārtha)
+
+The first-arisen banner-like rays of Uṣas are becoming visible. The spreading rays extend upward in many ways. O goddess Uṣas, in your brilliant and great chariot come bearing the wealth we need.
+
+##### English translation
+The first signs of the Dawn are visible, her rays are spreading on high : you bring us, Ushas, desirable (riches) in your vast, discending and resplendent chariot.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ षीम॒ग्निर्ज॑रते॒ समि॑द्धः॒ प्रति॒ विप्रा॑सो म॒तिभि॑र्गृ॒णंतः॑ ।  
+> उ॒षा या॑ति॒ ज्योति॑षा॒ बाध॑माना॒ विश्वा॒ तमां॑सि दुरि॒ताप॑  ॒
+> देवी ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । सीं । अग्निः । जरते । संइद्धः । प्रति । विप्रासः । मतिभिः । गृणंतः ।  
+> उषाः । याति । ज्योतिषा । बाधमाना । विश्वा । तमांसि । दुःइता । अप । देवी ॥
+
+### Printed p. 586
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निः समिद्धः सन् सीं सर्वतः प्रति जरते । अभिवर्धते । विप्रासो विप्रा मेधाविन ऋत्विजश्च मतिभिः स्तुतिभिरुषसं गृणंतः स्तुवंतो जरंते । उषाश्च देवी ज्योतिषा विश्वा सर्वाणि तमांसि दुरितास्मद्दुरितान्यप बाधमाना याति । ऊर्ध्वां गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Agni, kindled, grows (जरते (*jarate*) = अभिवर्धते (*abhivardhate*)) on every side. The wise priests (विप्रासः (*viprāsaḥ*)) with hymns praise Uṣas. And the goddess Uṣas goes, driving away with her light all darknesses and our evils, going upward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- समिद्धः (*samiddhaḥ*)—blazing
+- सीं (*sīṃ*)—everywhere
+- प्रति जरते (*prati jarate*)—grows
+- विप्रासः (*viprāsaḥ*)—the wise priests
+- मतिभिः (*matibhiḥ*)—with hymns
+- प्रति गृणंतः (*prati gṛṇaṃtaḥ*)—praise
+- देवी (*devī*)—the goddess
+- उषाः (*uṣāḥ*)—Uṣas
+- ज्योतिषा (*jyotiṣā*)—with her light
+- विश्वा (*viśvā*)—all
+- दुरिता (*duritā*)—evils
+- तमांसि (*tamāṃsi*)—darknesses
+- अपबाधमाना (*apabādhamānā*)—driving away
+- याति (*yāti*)—moves (comes)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, kindled, grows everywhere. The wise priests praise with hymns. The goddess Uṣas comes, destroying with her light all evils and darknesses.
+
+##### English translation
+The kindled fire increases everywhere, (and) the priests, glorifying (the dawn) with hymns : the divine Ushas comes, driving away all the evil glooms by her lustre.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता उ॒ त्याः प्रत्य॑दृश्रन्पु॒रस्ता॒ज्ज्योति॒र्युच्छं॑तीरु॒षसो॑  ॒
+> विभातीः ।  
+> अजी॑जन॒न्सूर्यं॑ य॒ज्ञम॒ग्निम॑पा॒चीनं॒ तमो॑ अगा॒दजु॑ष्टं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एताः । ऊं इति । त्याः । प्रति । अदृश्रन् । पुरस्तात् । ज्योतिः । युच्छंतीः । उषसः ।  
+> विभातीः ।  
+> अजीजनन् । सूर्यं । यज्ञं । अग्निं । अपाचीनं । तमः । अगात् । अजुष्टं ॥ ३ ॥
+
+### Printed p. 587
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एता उ । उ इति पूरणः । त्यास्ताः प्रसिद्धा एता विभातीर्विभात्यो विभानं कुर्वत्यो ज्योतिस्तेजो युच्छंतीः प्रयुच्छंत्य उषसः पुरस्तात्पूर्वस्यां दिशि प्रत्यदृश्रन् । प्रतिदृश्यंते । ता उषसः सूर्यं यज्ञमग्निं चाजीजनन् । प्रादुरकुर्वन् । उषस उदयानंतरं तेषां संभवात्तज्जनकत्वमुपचर्यते । किंचापाचीनं नीचीनमजुष्टमप्रियं । सर्वेषां दृष्टिनिरोधकत्वादप्रियत्वं । तादृशं तमोऽगात् । अपगतमभूत् ।
+
+##### Gist of the bhāṣya
+
+उ (*u*) is an expletive. These well-known Uṣases, shining (विभातीः (*vibhātīḥ*)) and sending forth light, have been seen in the east. These Uṣases produced the sun, the sacrifice and Agni, that is, brought them to light; since these come into being after the Uṣases' rising, the producing is figurative. Moreover the downward-going, disagreeable darkness (disagreeable because it obstructs everyone's sight) has gone, departed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्याः (*tyāḥ*)—the well-known
+- विभातीः (*vibhātīḥ*)—shining
+- ज्योतिः (*jyotiḥ*)—light
+- युच्छंतीः (*yucchaṃtīḥ*)—that spread
+- एता उषसः (*etā uṣasaḥ*)—these Uṣases
+- प्रत्यदृश्रन् (*pratyadṛśran*)—become visible
+- सूर्यं (*sūryaṃ*)—the sun
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- अग्निं (*agniṃ*)—Agni
+- अजीजनन् (*ajījanan*)—have produced
+- अपाचीनं (*apācīnaṃ*)—base
+- अजुष्टं (*ajuṣṭaṃ*)—disagreeable
+- तमः (*tamaḥ*)—darkness
+- अगात् (*agāt*)—went far away
+
+##### भावार्थ (Bhāvārtha)
+
+These well-known, shining Uṣases that spread light are visible to all. They have produced the sun, the sacrifice and Agni. The base and disagreeable darkness has gone far away.
+
+##### English translation
+These luminous (beams of the) dawn are beheld in the east diffusing light : (the dawn) engendering the sun, sacrificc, fire ; the odious glooms, descendiug, disappear.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अचे॑ति दि॒वो दु॑हि॒ता म॒घोनी॒ विश्वे॑ पश्यंत्यु॒षसं॑ विभा॒तीं ।  
+> आस्था॒द्रथं॑ स्व॒धया॑ यु॒ज्यमा॑न॒मा यमश्वा॑सः सु॒युजो॒  ॑
+> वहंति ॥ ४ ॥
+
+### Printed p. 588
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अचेति । दिवः । दुहिता । मघोनी । विश्वे । पश्यंति । उषसं । विभातीं ।  
+> आ । अस्थात् । रथं । स्वधया । युज्यमानं । आ । यं । अश्वासः । सुयुजः ।  
+> वहंति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो दुहिता मघोनी धनवत्युषा अचेति । सर्वैर्ज्ञायते । विश्वे सर्वेऽपि प्राणिनो विभातीमुच्छंतीमुषसं पश्यंति । तादृशी देवी स्वधयान्नेन युज्यमानं रथमास्थात् । अतिष्ठत् । आरोहति । यं रथं सुयुजः शोभनयोजना अश्वासोऽश्वा आ वहंति अभिमतदेशं प्रापयंति तं रथमास्थादिति ॥
+
+##### Gist of the bhāṣya
+
+Uṣas, daughter of heaven, wealthy (मघोनी (*maghonī*)), is known (अचेति (*aceti*)) to all. All living beings see the shining Uṣas. Such a goddess has mounted (अस्थात् (*asthāt*)) the chariot yoked with food (स्वधया (*svadhayā*)). The well-yoked horses carry that chariot, bringing it to the desired place; she has mounted that chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the heavenly world
+- दुहिता (*duhitā*)—the daughter, Uṣas
+- मघोनी (*maghonī*)—possessed of wealth
+- अचेति (*aceti*)—is known by all
+- विश्वे (*viśve*)—all creatures
+- विभातीं (*vibhātīṃ*)—shining
+- उषसं (*uṣasaṃ*)—Uṣas
+- पश्यंति (*paśyaṃti*)—see
+- यं (*yaṃ*)—in which chariot
+- सुयुजः (*suyujaḥ*)—well yoked
+- अश्वासः (*aśvāsaḥ*)—horses
+- आ वहंति (*ā vahaṃti*)—draw
+- स्वधया (*svadhayā*)—with food
+- युज्यमानं (*yujyamānaṃ*)—filled
+- रथं (*rathaṃ*)—the chariot
+- अस्थात् (*asthāt*)—has mounted and sits
+
+##### भावार्थ (Bhāvārtha)
+
+Uṣas, daughter of heaven, possessed of wealth, is known to all. All creatures see the shining Uṣas. She has mounted and sits in the chariot drawn by well-yoked horses and filled with food.
+
+##### English translation
+The affluent daughter of heaven is perceived : all creatures behold the luminous dawn : she ascends her chariot laden with sustenance, which her easily-yoked horses draw.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ त्वा॒द्य सु॒मन॑सो बुधंता॒स्माका॑सो म॒घवा॑नो व॒यं  ॑
+> च ।  
+> ति॒ल्वि॒ला॒यध्व॑मुषसो विभा॒तीर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
 ---
 
-**Progress note:** Done through printed p. 582. pp. 577-582 (batch API)
+**Progress note:** Done through printed p. 588. pp. 583-588 (batch API)
