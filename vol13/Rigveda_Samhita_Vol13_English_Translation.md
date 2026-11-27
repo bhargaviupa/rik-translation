@@ -1758,6 +1758,168 @@ The sūkta beginning सहस्रं ते (*sahasraṃ te*), of eleven Ṛk
 
 This sūkta beginning सहस्रं ते (*sahasraṃ te*) is the third sūkta in the twenty-third anuvāka. It contains eleven Ṛks. Agastya is the seer of this sūkta. The metre is Triṣṭubh. The first Ṛk has Indra as deity. The remaining Ṛks have the Maruts as deity. The Anukramaṇikā says: सहस्रमेकादशाद्यैंद्री (*sahasramekādaśādyaiṃdrī*). The special application is by the Liṅga.
 
+### Printed p. 73
+
+Anuvāka 23, Sūkta 167. Aṣṭaka 2, Adhyāya 4, Vargas 4, 5. Number of ṛks in the sūkta: 11. Ṛṣi: Āgastya. Deity: 1, Indra; 2–11, the Maruts. Metre: 1–13 Jagatī; 14–25 Triṣṭup. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्रं॑ त इंद्रो॒तयो॑ नः स॒हस्र॒मिषो॑ हरिवो गू॒र्तत॑माः ।  
+> स॒हस्रं॒ रायो॑ माद॒यध्यै॑ सह॒स्रिण॒ उप॑ नो यंतु॒ वाजाः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रं । ते । इंद्र । ऊतयः । नः । सहस्रं । इषः । हरिवः । गूर्ततमाः ।  
+> सहस्रं । रायः । मादयध्यै । सहस्रिणः । उप । नः । यंतु । वाजाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवोतयो रक्षाप्रकाराः सहस्रं । अपरिमिता इत्यर्थः ।
+> नोऽस्मभ्यमुप यंत्विति सर्वत्र योज्यं । तथा हे हरिवः । हरी इंद्रस्याश्वा ।
+> ताभ्यां तव्वन्निंद्र गूर्ततमा अत्यंतं गूर्णानीष एषणीया अन्नानि सहस्रं बहूनि
+> त्वदीयानि । तथा सहस्रं रायोऽपरिमितानि धनानि मणिमुक्तादीनि मादयध्या
+> अस्मान्मादयितुं यानि संति तान्यस्मानुप यंतु । तथा सहस्रिणो वाजा गमनवंतश्चतुष्पाद्रूपाः पशवोऽपि नोऽस्मानुप यंतु । समीपं प्राप्नु वंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your modes of protection, are a thousand, meaning countless; "may they come to us" is to be supplied everywhere. Likewise, O Harivat: the Haris are Indra's two horses, and Indra is their owner. Your foods, most greatly desired (गूर्ततमाः (*gūrtatamāḥ*) = "most eagerly sought"; इषः (*iṣaḥ*) = what is to be sought, foods), are a thousand, that is, many. Likewise a thousand *rāyas*, that is, countless riches such as jewels and pearls, all that exist to gladden us (मादयध्यै (*mādayadhyai*) = to gladden us), may come to us. Likewise may thousands of वाजाः (*vājāḥ*), that is, moving four-footed animals, come to us, that is, reach our neighbourhood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- ऊतयः (*ūtayaḥ*)—acts of protection
+- सहस्रं (*sahasraṃ*)—by the thousand
+- नः (*naḥ*)—for us
+- उप यंतु (*upa yaṃtu*)—may they approach
+- हरिवः (*harivaḥ*)—O Indra, possessed of the horses named Hari
+- गूर्ततमाः (*gūrtatamāḥ*)—(most strengthening) most excellent
+- सहस्रं (*sahasraṃ*)—immeasurable
+- इषः (*iṣaḥ*)—(many kinds of) foods
+- (नः उप यंतु (*naḥ upa yaṃtu*)—may they approach us)
+
+### Printed p. 74
+- (likewise) सहस्रं रायः (*sahasraṃ rāyaḥ*)—countless riches, jewels, pearls and the like
+- मादयध्यॆ (*mādayadhyè*)—to gladden us
+- (नः उप यंतु (*naḥ upa yaṃtu*)—may they approach us)
+- (likewise) सहस्रिणः (*sahasriṇaḥ*)—thousands of
+- वाजाः (*vājāḥ*)—moving animals and the like
+- नः (*naḥ*)—us
+- (उप यंतु (*upa yaṃtu*)—may they approach)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protect us in thousands of ways. O Indra, possessed of the horses named Hari, bestow on us the most excellent and measureless foods of many kinds for our delight, countless riches such as jewels and pearls, and thousands of cattle.
+
+##### English translation (H. H. Wilson)
+May your thousand benefits, Indra, come to us : may a thousand kinds of abundant food come to us, lord of horses : may a thousand (sorts of) wealth come to exhilarate us : may thousands of horses be ours.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्रं ऊतयः (*sahasraṃ ūtayaḥ*)—Here Indra is addressed, and the word सहस्र (*sahasra*) is explained as अपरिमिताः (*aparimitāḥ*), "too many to count". The prayer is that Indra protect us, the sacrificers, with modes of protection beyond counting.
+
+हरिवः (*harivaḥ*)—Yāska explains हरी इंद्रस्य (*harī iṃdrasya*) (Ni. 2-28): Indra's two horses are well known as the Haris. Since Indra possesses these horses, he is addressed by the word हरिव (*hariva*).
+
+गूर्ततमाः इषः (*gūrtatamāḥ iṣaḥ*)—अत्यंतं गूर्णानि विषणीया अन्नानि (*atyaṃtaṃ gūrṇāni viṣaṇīyā annāni*). Because they are desired by living beings, the word इषः (*iṣaḥ*) is explained as food. इषं (*iṣaṃ*) is stated among the names of food (Ni. 3-9). The prayer is that Indra bestow on us foods without measure.
+
+सहस्रं रायः मादयध्यै उपयंतु (*sahasraṃ rāyaḥ mādayadhyai upayaṃtu*)—अपरिमितानि धनानि मणिमुक्तादीनि अस्मान् मादयितुं यानि संति तानि अस्मान् उपयंतु (*aparimitāni dhanāni maṇimuktādīni asmān mādayituṃ yāni saṃti tāni asmān upayaṃtu*). The word रायः (*rāyaḥ*) is read among the names of wealth (Ni. 3-9). The prayer is that, by Indra's favour, all the countless wealth in the form of gems, pearls and the like, which makes us joyful and glad of heart, may come to us.
+
+### Printed p. 75
+सहस्रिणः वाजाः (*sahasriṇaḥ vājāḥ*)—गमनवंतश्च तुष्पाद्रूपाः पशवः (*gamanavaṃtaśca tuṣpādrūpāḥ paśavaḥ*). The word वाज (*vāja*) is read among the names of food (Ni. 3-9). In the Ṛk पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः । (*pāvakā naḥ sarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ |*) (Ṛ. Saṃ. 1-3-10), the word वाजिनीवती (*vājinīvatī*) is explained as "possessed of food in the form of oblation, or of water", so the word वाज (*vāja*) conveys several meanings. Here, however, वाजाः (*vājāḥ*) is explained as गमनवंतः (*gamanavaṃtaḥ*), moving creatures. The prayer is that, by Indra's favour, animals such as cattle, two-footed and four-footed, that go about, may come to us without number.
+
+Yāska (Ni. 10-8) has given the etymology of the word इंद्र (*iṃdra*). इरां दृणाति (*irāṃ dṛṇāti*): he who causes sprouts and the like to arise from seeds moistened by rain-water; इरां ददाति (*irāṃ dadāti*): he who, making food arise through rain-water, gives it to the world; इरां दधाति (*irāṃ dadhāti*): he who holds food for the favour of the world; इरां दारयति (*irāṃ dārayati*): he who impels the seed to grow in the form of sprouts and the like; इंदवे द्रवतीति ना (*iṃdave dravatīti nā*): he who comes to the sacrificial hall for the drinking of soma; इंदौ रमते इति वा (*iṃdau ramate iti vā*): he who delights in the drinking of soma; इंथे भूतानीति वा (*iṃthe bhūtānīti vā*): he who favours living beings with food and the like and makes them prosper. Having so explained, Yāska says: इदं करणादित्याग्रयणः (*idaṃ karaṇādityāgrayaṇaḥ*), that is, in the view of Āgrayaṇa Indra himself is the doer of all acts in the world; इदं दर्शनादित्यापमन्यवः (*idaṃ darśanādityāpamanyavaḥ*), that is, in the view of the pupils of Upamanyu Indra sees all things of the world directly; इंदतेर्वैश्वर्यकर्मणः (*iṃdatervaiśvaryakarmaṇaḥ*), from the root इंद् (*iṃd*), of the sense of lordship, he is one who abides in surpassing lordship; इंदे शत्रूणां दारयिता वा द्रावयिता वा आदरयिता च यज्वनां (*iṃde śatrūṇāṃ dārayitā vā drāvayitā vā ādarayitā ca yajvanāṃ*), that is, one who destroys enemies, or who destroys the enemies' wealth and himself becomes wealthy, and who is attentive to those given to sacrifice. Thus he has explained it in many ways.
+
+##### Grammar
+
+- ऊतयः — ऊतियूतिजूति (पा. सू. ३-३-९७) इति उदात्तः किन्नंतो निपातितः । प्रथमाबहुवचनांतरूपम् ।
+- हरिवः — हरी अस्य स्तः इति हरिवान् । मतुप् आगते छंदसीरः (पा. सू. ८-२-१५) इति मकारस्य नत्वम् । संबुद्धौ उगिदचां (पा. सू. ७-१-७०) इति नुम् ।
+
+### Printed p. 76
+- संयोगांतलोपे आगते मतुवसो रु संबुद्धौ (पा. सू. ८-३-१) इति रुत्वम् । आमंत्रितनिघातस्वरः आगच्छति ।
+- गूर्ततमाः — अत्यंत्यं गूर्ताः गूर्ततमाः । अतिशायने तमबिष्ठन् (पा. सू. ५-३-५५) इति तमप् प्रत्ययः । स पित्त्वात् अनुदात्तो भवति ।
+- मादयध्यै — मद तृप्तियोगे इति धातुः । हेतुमति च इति णिच् । णिजंतात् तुमन् विवक्षायां तुमर्थे सेसेनसे (पा. सू. ३-४-९) इति अध्यै प्रत्ययः । एजंतत्वात् कृन्मेजंतः इति अव्ययसंज्ञा भवति । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- सहस्रिणः — सहस्रम् एषाम् अस्ति इति सहस्रिणः । अत इनिठनौ (पा. सू. ५-२-११५) इति मत्वर्थे इनि प्रत्ययः । प्रत्ययस्वरेण आद्युदात्तो भवति । **NOTE**
+- यंतु — इण् गतौ इति धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- वाजाः — वृषादिषु अंतर्भूतत्वात् वृषादीनां च (पा. सू. ६-१-२०३) इति आद्युदात्तस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नोऽवो॑भिर्म॒रुतो॑ यां॒त्वच्छा॒ ज्येष्ठे॑भिर्वा बृ॒हद्दि॑वैः  ॒
+> सुमायाः ।  
+> अध॒ यदे॑षां नि॒युतः॑ पर॒माः स॑मु॒द्रस्य॑ चिद्द॒नयं॑त पा॒रे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । अवःभिः । मरुतः । यांतु । अच्छ । ज्येष्ठेभिः । वा । बृहत्दिवैः ।  
+> सुमायाः ।  
+> अध । यत् । एषां । नियुतः । परमाः । समुद्रस्य । चित् । धनयंत । पारे ॥ २ ॥
+
+### Printed p. 77
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुतोऽवोभी रक्षणैः सहिता नोऽस्मानच्छाभिमुख्येना यांतु ।
+> आगच्छंतु । सुमायाः । मायेति प्रज्ञानाम । शोभनप्रज्ञा एव मरुतो
+> ज्येष्ठेभिर्बृहद्दिवैर्वा ज्येष्ठैः प्रशस्यतमैर्मणिमुक्तादिधनैश्च सहिता आ यांतु ।
+> वाशब्दः समुच्चये । आगमने कथमेषां सामर्थ्यिति अत आह । अधाथैषां
+> मरुतां यद्यस्मान्नियुत एतन्नामकाः परमा उत्कृष्टा अश्वाः समुद्रस्य चित्
+> चिच्छब्दोऽप्यर्थे । समुद्रस्यापि पारे परस्मिंस्तीरे धनयंत धनधारणं वहनं
+> कुर्वंति । तस्माद्रक्षणैर्धनैश्चायांत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May those Maruts, together with their protections (अवोभिः (*avobhiḥ*)), come to us, turned towards us (अच्छ (*accha*) = in front). सुमायाः (*sumāyāḥ*): माया (*māyā*) is a name for wisdom, so the Maruts are of excellent wisdom. May they come together with ज्येष्ठेभिः बृहद्दिवैः (*jyeṣṭhebhiḥ bṛhaddivaiḥ*), or with the most praiseworthy riches, gems, pearls and the like; the word वा (*vā*) is in the sense of "and". If asked how they are able to come, he answers: अध (*adha*) means "now"; since their excellent horses, named Niyuts, carry wealth even to the farther shore of the sea (चित् (*cit*) is used in the sense of "even"), therefore they come with protections and with riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—then
+- यत् (*yat*)—for what reason
+- एषां (*eṣāṃ*)—of these Marut deities
+- परमाः (*paramāḥ*)—most excellent
+- नियुतः (*niyutaḥ*)—the horses named Niyut
+- समुद्रस्य (*samudrasya*)—of the sea
+- पारे चित् (*pāre cit*)—even on the farther shore
+- धनयंत (*dhanayaṃta*)—bear wealth
+- (therefore)
+- (ते (*te*)) मरुतः (*marutaḥ*)—those Marut deities
+- अवोभिः (*avobhiḥ*)—(together with) (our) acts of protection
+- नः (*naḥ*)—to us
+- अच्छ (*accha*)—facing us
+- आ यांतु (*ā yāṃtu*)—may they come
+- सुमायाः (*sumāyāḥ*)—Marut deities of good wisdom
+- ज्येष्ठेभिः (*jyeṣṭhebhiḥ*)—most excellent
+- बृहद्दिवैः वा (*bṛhaddivaiḥ vā*)—and with riches, jewels, pearls and the like, worthy of great praise, (together)
+- (आ यांतु (*ā yāṃtu*)—may they come)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, possessed of excellent wisdom, your excellent horses named Niyut are able to carry and bring the wealth on the farther shore of the sea; therefore come to face us, bringing with you riches and the like that are most excellent and praiseworthy, together with acts of protection.
+
+##### English translation (H. H. Wilson)
+May the Maruts come to our presence with benefactions: may they who are possessed of knowledge (come) with most excellent and brilliant (treasures), since their glorious horses, the Niyutas, gather wealth even on the farther shore of the sea.
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः अवोभिः नः आयांतु (*marutaḥ avobhiḥ naḥ āyāṃtu*)—रक्षणैः सहिताः आर्स्मान् आगच्छंतु (*rakṣaṇaiḥ sahitāḥ ārsmān āgacchaṃtu*). The word मरुतः (*marutaḥ*) is read among the names of priests (Ni. 3-19), and मरुत् (*marut*) among the names of gold (Ni. 2-10). The word मरुत् (*marut*), explained as मितरानिणो वा, मितरोचिनो, वा महत् द्रवंतीति ना (*mitarāniṇo vā, mitarocino, vā mahat dravaṃtīti nā*),
+
+### Printed p. 78
+is read by Yāska among the groups of gods belonging to the middle region. Having explained it as the Marut deities, and having described the meaning in many ways, as those who make sound in accordance with their strength, who shine with lustre, and who give rain, the text expresses the wish that these Marut deities come to our sacrifice with the means of protecting us.
+
+सुमायाः (*sumāyāḥ*)—शोभनप्रज्ञाः (*śobhanaprajñāḥ*). The word माया (*māyā*) is stated among the names of wisdom (Ni. 3-13). It is described that the Maruts have extraordinary wisdom.
+
+ज्येष्ठेभिः बृहद्दिवैः आ यांतु (*jyeṣṭhebhiḥ bṛhaddivaiḥ ā yāṃtu*). Two meanings are given: for ज्येष्ठेभिः (*jyeṣṭhebhiḥ*), "endowed with abundant lustres"; or प्रशस्यतमैः मणिमुक्तादिधनैश्च सहिताः (*praśasyatamaiḥ maṇimuktādidhanaiśca sahitāḥ*), riches such as maṇi (gems) and muktā (pearls), worthy of praise. The wish is that the Maruts come together with these.
+
+नियुतः परमाः समुद्रस्य चित् पारे धनयंति (*niyutaḥ paramāḥ samudrasya cit pāre dhanayaṃti*)—*etannāmakāḥ utkṛṣṭāḥ aśvāḥ samudrasyāpi parasmiṃstīre dhanadhāraṇaṃ vahanaṃ kurvaṃti*. It is described that the most excellent horses called Niyuts bring wealth from the other shore of the sea; and since the Maruts have such horses in abundance, the prayer is that they come to our sacrifice with riches. The word समुद्र (*samudra*) is read among the names of the atmosphere (Ni. 2-10). On the doubt whether the word समुद्र (*samudra*) denotes the well-known earthly sea, filled with water, or the atmosphere, Yāska removes the doubt: having raised the objection तत्र समुद्र इत्येतत् पार्थिवेन समुद्रेण संदिह्यते (*tatra samudra ityetat pārthivena samudreṇa saṃdihyate*), he explains: समुद्रः कस्मात् समुद्रवंत्यस्मादापः समभिद्रवंतेनमापः संमोदंते अस्मिन् भूतानि समुदको भवति समुनत्तीति वा । (*samudraḥ kasmāt samudravaṃtyasmādāpaḥ samabhidravaṃtenamāpaḥ saṃmodaṃte asmin bhūtāni samudako bhavati samunattīti vā |*). The name "sea" has come to it because the waters move about in many ways in the form of waves and spray; because the waters run swiftly and gather in it; because, being filled with abundant waters, it gives delight to aquatic creatures; and because it wets everything with water. So Yāska explains, and he states as his conclusion that it is the atmosphere. That the Maruts possess horses is well known in the Yajurveda.
+
+##### Grammar
+
+- अवोभिः — अव रक्षणे इति धातुः । सर्वधातुभ्यो असुन् इति असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । तृतीयैकवचनांतरूपम् ।
+- यांतु — या प्रापणे इति धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 72. pp. 67-72 (batch API)
+**Progress note:** Done through printed p. 78. pp. 73-78 (batch API), Latin-typed words replaced
