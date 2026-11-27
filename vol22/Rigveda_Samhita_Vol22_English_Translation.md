@@ -10189,6 +10189,302 @@ May Mitra and Varuna, heaven and earth, Indra and Aryaman, give us that (wealth)
 
 O Maruts, sons of Rudra, whose horses (पृषदश्वाः (*pṛṣadaśvāḥ*)) are drawn from certain spotted deer (the word पृषत् (*pṛṣat*) denotes certain kinds of deer, and these are their draught animals): whatever mortal sacrificer you protect, may that very sacrificer be mighty (उग्रः (*ugraḥ*), vigorous), and may he be powerful. Likewise Agni, endowed with such qualities as his body, a god, … **NOTE**
 
+### Printed p. 229
+#### Ṛk 3 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरस्वती वाग्देवता चेत्याद्याः सर्वे देवा ईमेनं यजमानं जुनंति । प्रवर्तयंति । तस्य यजमानस्य संबंधिनो रायो धनस्य कश्चिदपि पर्येता परिगंता नास्ति
+> नाशको न भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sarasvatī, the goddess of speech, and all the other deities impel (set in motion) this sacrificer. No one at all is a "circumvent­er" of that sacrificer's wealth, that is, there is no one who destroys it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृषदश्वाः (*pṛṣadaśvāḥ*)—those having deer-formed horses
+- मरुतः (*marutaḥ*)—O Maruts
+- मर्त्यं (*martyaṃ*)—the human
+- यं (*yaṃ*)—whichever sacrificer
+- अवाथ (*avātha*)—you protect
+- सः इत् (*saḥ it*)—that very one
+- उग्रः (*ugraḥ*)—being exceedingly valorous
+- अस्तु (*astu*)—let him be
+- सः (*saḥ*)—he
+- शुष्मी (*śuṣmī*)—let him be endowed with strength
+- उत (*uta*)—and
+- अग्निः (*agniḥ*)—the god Agni
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- ईं (*īṃ*)—this sacrificer
+- जुनंति (*junaṃti*)—they stimulate
+- तस्य (*tasya*)—of this sacrificer
+- रायः (*rāyaḥ*)—to the wealth
+- पर्येता (*paryetā*)—a plunderer
+- न अस्ति (*na asti*)—there is none
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, whose horses are of deer form, whichever human sacrificer you protect, let him be exceedingly valorous and let him be endowed with strength. Agni and Sarasvatī stimulate him. No one will be a plunderer of this sacrificer's wealth.
+
+##### English translation
+Maruts, whose steeds are the spotted deer, may the mortal whom you protect be resolute, be strong, for him Agni and Saraswati also defend, and there be no despoiler of his riches.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं हि ने॒ता वरु॑ण ऋ॒तस्य॑ मि॒त्रो राजा॑नो अर्य॒मापो॒ धुः ।  
+> सु॒हवा॑ दे॒व्यदि॑तिरन॒र्वा ते नो॒ अंहो॒ अति॑ पर्ष॒न्नरि॑ष्टान् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । हि । नेता । वरुणः । ऋतस्य । मित्रः । राजानः । अर्यमा । अप । धुरिति धुः ।  
+> सुहवा । देवी । अदितिः । अनर्वा । ते । नः । अंहः । अति । पर्षन् । अरिष्टान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य यज्ञस्य सत्यस्य वा नेता प्रापयितायं ह्ययं खलु वरुणश्च मित्रश्चार्यमा चैते राजानः समर्था देवा अपोऽस्मदीयं यज्ञादिलक्षणं कर्म धुः ।
+> अधुः । धूधूति । अनर्वा केनाप्यप्रतिगता देवी द्योतमानादितिरदीना देवमाता सु-
+
+##### Gist of the bhāṣya
+
+This Varuṇa is the leader, the conveyer, of the rite or of truth. Varuṇa, Mitra and Aryaman, these sovereign, capable gods, carry on our work consisting of sacrifice and the like (धुः (*dhuḥ*) is read as अधुः (*adhuḥ*), from the root धू (*dhū*)). The goddess Aditi, shining, unopposed by anyone, not poor, mother of the gods, is of good invocation (सुहवा (*suhavā*))
+
+### Printed p. 230
+
+> हवा शोभनाह्वाना भवति । ते वरुणादयो देवा अरिष्टानबाधितान् सतो नोऽस्मानंहो दुरितादति पर्षन् । अतिपारयंतु ॥
+
+##### Gist of the bhāṣya
+
+She is of fair calling. May those gods, Varuṇa and the rest, carry us, unharmed, beyond sin (अंहः (*aṃhaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- नेता (*netā*)—the director
+- अयं हि वरुणः (*ayaṃ hi varuṇaḥ*)—this Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- राजानः (*rājānaḥ*)—all these lordly deities
+- अपः (*apaḥ*)—this our rite
+- धुः (*dhuḥ*)—they accomplish
+- अनर्वा (*anarvā*)—the unharmed
+- देवी (*devī*)—the divine
+- अदितिः (*aditiḥ*)—Aditi
+- सुहवा (*suhavā*)—is worthy of excellent invocation
+- ते (*te*)—all these gods, Varuṇa and the rest
+- अरिष्टान् (*ariṣṭān*)—unharmed
+- नः (*naḥ*)—us
+- अंहः (*aṃhaḥ*)—from sin
+- अति पर्षन् (*ati parṣan*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa, the director of the sacrifice, and Mitra and Aryaman, all these lordly deities, carry out this our sacrificial rite. Aditi, the unharmed and divine, is worthy of excellent invocation. May all these gods, Varuṇa and the rest, protect us, unharmed, from sin.
+
+##### English translation
+This Varuna, the leader of the rite, and the royal Mitra and Aryaman, uphold my acts, and the divine unopposed Aditi, earnestly invoked : may they convey us safe beyond evil.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य दे॒वस्य॑ मी॒ळ्दुषो॑ व॒या विष्णो॑रे॒षस्य॑ प्रभृ॒थे ह॒विर्भिः॑ ।  
+> वि॒दे हि रु॒द्रो रु॒द्रियं॑ महि॒त्वं या॑सि॒ष्टं व॒र्तिर॑श्विना॒ विरा॑वत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । देवस्य । मीळ्दुषः । वयाः । विष्णोः । एषस्य । प्रभृथे । हविर्भिः ।  
+> विदे । हि । रुद्रः । रुद्रियं । महित्वं । यासिष्टं । वर्तिः । अश्विना । इरावत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रभृथे हविर्भिर्हवीरूपैरन्नैरेषस्य प्रापणीयस्य मीळ्दुषः कामानां
+> सेक्तुर्विष्णोः सर्वदेवात्मकस्यास्य देवस्य । विष्णुः सर्वा देवताः । ऐ. ब्रा. १-१ ।
+> इति श्रुतेः । अस्य देवा वयाः शाखा इव भवंति । रुद्रो देवो रुद्रियं रुद्रसंबंधि सुखं महित्वं महत्त्वं च विदे हि । अस्मान् प्रापयति खलु । अपि च हे अश्विनौ
+
+##### Gist of the bhāṣya
+
+"At the offering (प्रभृथे (*prabhṛthe*)) with oblations", that is, with food in the form of oblations, of this god Viṣṇu, the one to be approached, the showerer of desires, who is the soul of all gods. By the śruti विष्णुः सर्वा देवताः (*viṣṇuḥ sarvā devatāḥ*) (Ai. Brā. 1-1), the gods are like his branches. The god Rudra procures (विदे (*vide*)) for us Rudra's happiness and greatness. And, O Aśvins, you two gods
+
+### Printed p. 231
+
+> देवौ युवामिरावद्वर्ल्क्षणान्नयुक्तं वर्तिरस्मदीयं गृहं यूसिष्टं । आयूसिष्टं आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+come to our house furnished with food (इरावत् (*irāvat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रभृथे (*prabhṛthe*)—offered
+- हविर्भिः (*havirbhiḥ*)—by means of oblations
+- एषस्य (*eṣasya*)—of the one approached
+- मीळ्हुषः (*mīḷhuṣaḥ*)—the showerer of desires
+- देवस्य (*devasya*)—of the god
+- अस्य विष्णोः (*asya viṣṇoḥ*)—to this Viṣṇu
+- वयोः (*vayoḥ*)—all the other gods are indeed in the form of branches **NOTE**
+- रुद्रः (*rudraḥ*)—the god Rudra
+- रुद्रियं (*rudriyaṃ*)—the happiness pertaining to Rudra
+- महित्वं (*mahitvaṃ*)—and the greatness
+- विदे हि (*vide hi*)—let him procure for us
+- अश्विनौ (*aśvinau*)—O Aśvins
+- इरावत् (*irāvat*)—furnished with oblation
+- वर्तिः (*vartiḥ*)—to our house
+- यासिष्टं (*yāsiṣṭaṃ*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+To this Viṣṇu, who is served by the offering of oblations, who showers desires and is divine in nature, all the other gods are as branches. May the god Rudra procure for us the happiness and the greatness that pertain to Rudra. O Aśvins, be pleased to come to our house furnished with oblations.
+
+##### English translation
+I propitiate with oblations the ramifications of that divine attainable Vishuu, the showerer of benefits : Rudra. bestow upon us the maguificence of his nature : the Aswins have come to our dwelling abounding with (sacrificial) food.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मात्र॑ पूषन्नाघृण इरस्यो॒ वरू॑त्री॒ यद्रा॑ति॒षाच॑श्च॒ रास॑न् ।  
+> म॒यो॒भुवो॑ नो॒ अर्वं॑तो॒ नि पां॑तु वृ॒ष्टिं परि॑ज्मा॒ वातो॑ ददातु ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । अत्र । पूषन् । आघृणे । इरस्यः । वरूत्री । यत् । रातिसाचः । च । रासन् ।  
+> मयःभुवः । नः । अर्वंतः । नि । पांतु । वृष्टिं । परिज्मा । वातः । ददातु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आघृणे प्राप्तदीप्ते एवंभूत हे पूषन् देव अत्रस्मिन्दाने इरस्यः । विघातं मा कृथाः । वरूत्री सर्वैर्वरणीया सरस्वती रातिषाचश्च । रातिदानं । तस्य
+
+##### Gist of the bhāṣya
+
+O Pūṣan, radiant one (आघृणे (*āghṛṇe*)), do not cause obstruction (इरस्यः (*irasyaḥ*)) in this giving. Sarasvatī, who is to be chosen by all (वरूत्री (*varūtrī*)), and the gods' wives, givers of bounty (रातिसाचः (*rātisācaḥ*)), the gift
+
+### Printed p. 232
+
+> संभक्त्र्यै देवपत्न्यैश्च यद्धनं रासन् अस्मभ्यं प्रयच्छेयुः । अत्र मा कृथा इति पूर्वेण संबंधः । किंच मयोभुवः सुखस्य भावका अर्वंतो गच्छंतो देवा नोऽस्मान्नि पांतु । नितरां पालयंतु । परिज्मा परितो गंता वातो वायुर्वृष्टिं वृष्टिलक्षणमुदकं ददातु । प्रयच्छत्वस्मभ्यं ॥
+
+##### Gist of the bhāṣya
+
+of that wealth which the goddesses' consort-companions would give us: "do not cause (obstruction) here" connects with what precedes. Moreover, may the gods, bringers of happiness (मयोभुवः (*mayobhuvaḥ*)), who go (अर्वंतः (*arvaṃtaḥ*)), protect us completely. May Vāta, the wind that moves all around (परिज्मा (*parijmā*)), give us rain, water in the form of rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणे (*āghṛṇe*)—O radiant one
+- पूषन् (*pūṣan*)—O god Pūṣan
+- वरूत्री (*varūtrī*)—Sarasvatī, worthy of the regard of all
+- रातिषाचश्च (*rātiṣācaśca*)—and the generous-giving wives of the gods
+- यत् (*yat*)—whatever wealth
+- रासन् (*rāsan*)—they give us
+- अत्र (*atra*)—to this act of giving
+- मा इरस्यः (*mā irasyaḥ*)—do not cause obstacles
+- मयोभुवः (*mayobhuvaḥ*)—the givers of happiness
+- अर्वंतः (*arvaṃtaḥ*)—who come to us, the gods
+- नः (*naḥ*)—us
+- नि पांतु (*ni pāṃtu*)—may they protect fully
+- परिज्मा (*parijmā*)—moving everywhere
+- वातः (*vātaḥ*)—the wind
+- वृष्टिं (*vṛṣṭiṃ*)—water in the form of rain
+- ददातु (*dadātu*)—may he supply
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Pūṣan, do not obstruct the act of giving by which Sarasvatī, worthy of the regard of all, and the generous wives of the gods give us wealth. May the gods, givers of happiness, who come to us, protect us fully. May the wind, which moves everywhere, supply water in the form of rain.
+
+##### English translation
+Resplendent Pushan, oppose not (hindrance)on this occasion : may the protectress, (Saraswati), and the liberal (wives of the gods), grant us wealth: may the over-moving deities, the sources of happiness, protect us : may the circumambient Vata send us rain.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू रोद॑सी अ॒भिष्टु॑ते॒ वसि॑ष्ठैर्ऋ॒तावा॑नो॒ वरु॑णो मि॒त्रो अ॒ग्निः ।  
+> यच्छं॑तु चं॒द्रा उ॑प॒मं नो॑ अ॒र्कं यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । रोदसी इति । अभिस्तुते इत्यभिस्तुते । वसिष्ठैः । ऋतऽवानः । वरुणः । मित्रः । अग्निः ।  
+> यच्छंतु । चंद्राः । उपमं । नः । अर्कं । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+### Printed p. 233
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वं व्याख्यातेयं । अक्षरार्थस्तु । द्यावापृथिव्यौ वरुणादयो देवाश्च वसिष्ठैरस्माभिरभिष्टुता भवंति । एवंभूता आह्लादका देवाः सर्वोत्कृष्टमन्नमस्मभ्यं ददतु । अस्मिन् सूक्ते प्रतिपादिताः सर्वे देवा यूयं कल्याणैरस्मान्सर्वदा पालयत ॥
+
+##### Gist of the bhāṣya
+
+This (Ṛk) was explained before. The literal sense: heaven and earth and the gods Varuṇa and the rest are praised by us, the Vasiṣṭhas. May such gods, givers of joy, give us the most excellent food. May all the gods celebrated in this sūkta, you, always protect us with blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नु (*nu*)—now
+- रोदसी (*rodasī*)—heaven and earth
+- वसिष्ठैः (*vasiṣṭhaiḥ*)—by us called Vasiṣṭhas
+- अभिष्टुते (*abhiṣṭute*)—are praised
+- ऋतावानः (*ṛtāvānaḥ*)—those possessed of sacrifice
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—and Agni are praised by us
+- चंद्राः (*caṃdrāḥ*)—all the gods, givers of delight
+- नः (*naḥ*)—to us
+- उपमं (*upamaṃ*)—most excellent
+- अर्कं (*arkaṃ*)—food
+- यच्छंतु (*yacchaṃtu*)—let them give
+- यूयं (*yūyaṃ*)—you (O gods)
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth are now praised by us, called Vasiṣṭhas. Varuṇa, Mitra and Agni, who possess the sacrifice, are praised by us. May all the gods, givers of delight, give us the most excellent food. O gods, protect us always with blessings.
+
+##### English translation
+Heaven and earth are now glorified by the Vasishthas, as are Varuna the object of worship, and Mitra and Agni : may they, the conferrers of joy, bestow upon us excellent food : an o you (all) ever cherish us with blessings.
+
+## Sūkta 41 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरग्निमिति सप्तर्चमष्टमं सूक्तं । अत्रानुक्रमणिका । प्रातर्भागं जगत्याद्या लिंगोक्तदेवतांत्योपस्येति । वसिष्ठ ऋषिः । आद्या जगती शिष्टास्त्रिष्टुभः । आद्याग्नींद्रादिदेवत्या द्वितीयाद्याः पंच भगदेवत्याः सप्तम्युषोदेवत्या । अत्र
+> केचिदाहुः ।   भगसूक्तं  ।  क्षिप्रं
+> स्तूयते । ऋग्वि. ७-४१ । इति ॥
+> 30
+
+##### Gist of the bhāṣya
+
+The sūkta प्रातरग्निं (*prātaragniṃ*) has seven Ṛks and is the eighth sūkta. The Anukramaṇikā says: प्रातर्भागं जगत्याद्या लिंगोक्तदेवतांत्योपस्येति (*prātarbhāgaṃ jagatyādyā liṃgoktadevatāṃtyopasyeti*). The seer is Vasiṣṭha. The first Ṛk is Jagatī, the rest Triṣṭubh. The first has Agni, Indra and others as deity; the five from the second have Bhaga; the seventh has Uṣas. Some say here: *bhagasūktaṃ ... kṣipraṃ stūyate* (Ṛgvi. 7-41).
+
+### Printed p. 234
+The Anuvāda: This sūkta प्रातरग्निं (*prātaragniṃ*) is the eighth sūkta in the third anuvāka. It has seven Ṛks. The Anukramaṇikā says प्रातर्भागं जगत्याद्या लिंगोक्तदेवतास्त्योषस्या (*prātarbhāgaṃ jagatyādyā liṃgoktadevatāstyoṣasyā*). Vasiṣṭha is the seer of this sūkta; its first Ṛk is in the Jagatī metre; the remaining Ṛks are in Triṣṭubh. The first Ṛk has Agni, Indra and others as deity; the five Ṛks following the second have Bhaga; the seventh Ṛk is addressed to Uṣas. As to the application (viniyoga) of this sūkta, some say:
+निवेष्टुकामो रोगार्तो भगसूक्तं जपेत्सदा । निवेशं विशति क्षिप्रं रोगैश्च परिमुच्यते ॥ (*niveṣṭukāmo rogārto bhagasūktaṃ japetsadā | niveśaṃ viśati kṣipraṃ rogaiśca parimucyate ‖*) (Ṛgvidhāna 2-25)
+One who wishes to enter a new region, or one afflicted by disease, who constantly recites this Bhaga-sūkta, will, as he wishes, be freed from disease and quickly enter the new region: thus the fruit-statement (phalaśruti) of this sūkta is given.
+Sūkta—41
+Maṇḍala—7 ‖ Anuvāka—3 ‖ Sūkta—41 ‖
+Aṣṭaka—5 ‖ Adhyāya—4 ‖ Varga—8 ‖
+Number of Ṛks in the sūkta—7 ‖
+Ṛṣi: Vasiṣṭha ‖
+Deity: 1. the deities named by gender. 2-6. Bhaga. 7. Uṣas ‖
+Metre: 1. Jagatī. 2-7. Triṣṭubh ‖
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒तर॒ग्निं प्रा॒तरिंद्रं॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑ ।  
+> प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रं हु॑वेम ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातः । अग्निं । प्रातः । इंद्रं । हवामहे । प्रतः । मित्रावरुणा । प्रातः । अश्विना ।  
+> प्रतः । भगं । पूषणं । ब्रह्मणः । पतिं । प्रतः । सोमं । उत । रुद्रं । हुवेम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरुषःकालेऽग्निं देवं हवामहे । वयं स्तोतार आह्वयामः । तथा प्रातःकाल इंद्रं हवामहे । तथा मित्रावरुणा मित्रावरुणावहोरात्राभिमानिनौ
+
+##### Gist of the bhāṣya
+
+At dawn, the time of Uṣas, we, the praisers, invoke the god Agni. Likewise at dawn we invoke Indra. Likewise Mitra and Varuṇa, Mitra and Varuṇa being the presiding deities of day and night
+
 ---
 
-**Progress note:** Done through printed p. 228. pp. 223-228 (batch API)
+**Progress note:** Done through printed p. 234. pp. 229-234 (batch API)
