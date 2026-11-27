@@ -16648,6 +16648,215 @@ O excellent Maruts, those who cruelly hurt our minds and wish to kill us may loo
 ##### English translation
 The man, Maruts, who wounds our feelings, he who rebuked by all, yet seeks, Vasus, to kill us, he would bind us in the bonds of (Varuna), the avenger (of iniquity), such a man do you destroy with a consuming fatal weapon.
 
+### Printed p. 391
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Sākamedha offerings made to the deities called Marudbhyaḥ Sāntapanebhyaḥ, this Ṛk beginning यो नो मरुतः (*yo no marutaḥ*) is to be recited as the Anuvākyā mantra, and the next Ṛk beginning सांतपना इदं (*sāṃtapanā idaṃ*) (the 9th Ṛk) as the Yājyā mantra. This is set out by the Āśvalāyana Śrauta Sūtra in the sūtra सांतपना इदं हविर्यो नो मरुतो अभि दुर्हृणायुः (*sāṃtapanā idaṃ haviryo no maruto abhi durhṛṇāyuḥ*) (Ā. 2-18).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन ।  
+> यु॒ष्माको॒ती रि॑शादसः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सांतपनाः । इदं । हविः । मरुतः । तत् । जुजुष्टन ।  
+> युष्माक । ऊती । रिशादसः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सांतपनाः शत्रूणां संतापका हे मरुतः इदं प्रत्यक्षेणोपलभ्यमानं हविर्युष्मभ्यं कल्पितमिति शेषः । हे रिशादसो रिशतां हिंसतामसितारो रिशानामुत्तारो वा यूयं युष्माक युष्माकमूत्या रक्षया तत्तादृशं हविर्जुजुष्टन । सेवध्वं ॥
+
+##### Gist of the bhāṣya
+
+*Sāntapanas* means tormentors of enemies: O Maruts, tormentors of foes, this oblation, perceived before our eyes, is prepared for you (this is the word to be supplied). O रिशादसः (*riśādasaḥ*), devourers of those who injure (रिशतां (*riśatāṃ*)), or those who bring the injurers across; you, with your protection (युष्माकमूत्या (*yuṣmākamūtyā*)), enjoy such an oblation (जुजुष्टन (*jujuṣṭana*) = serve, partake).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सांतपनाः (*sāṃtapanāḥ*)—O destroyers of enemies
+- मरुतः (*marutaḥ*)—O Maruts
+- इदं हविः (*idaṃ haviḥ*)—this oblation is offered with you in view
+- रिशादसः (*riśādasaḥ*)—you who destroy enemies
+- युष्माकं (*yuṣmākaṃ*)—your
+- ऊती (*ūtī*)—together with the protections
+- तत् (*tat*)—that oblation
+- जुजुष्टन (*jujuṣṭana*)—partake of
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, destroyers of enemies, this oblation is offered with you in view. You who destroy enemies, together with your protections, partake of it.
+
+##### English translation
+Maruts, destroyers of foes, this oblation is designed for you : do you,
+who are the devourers of enemies, (coming) with your protections, graciously
+accept it.
+
+### Printed p. 392
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृह॑मेधास॒ आ ग॑त॒ मरु॑तो॒ माप॑ भूतन ।  
+> यु॒ष्माको॒ती सु॑दानवः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृहमेधासः । आ । गत । मरुतः । मा । अप । भूतन ।  
+> युष्माक । ऊती । सुदानवः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृहमेधास इति गृहमेधीयस्य हविषोऽनुवाक्या । सूत्रितं च । गृहमेधास आ गत प्र बुध्न्या व ईरते महांसि । आ. २-१८ । इति ॥
+> गृहमेधासो गृहे क्रियमाणो यज्ञो येषां ते सुदानवः शोभनदाना हे मरुतः यूयं युष्माक युष्माकमूत्या रक्षया युक्ता आ गत । अस्मदीयं यज्ञं प्रत्यागच्छत । हे मरुतः माप भूतन । अपगता मा भवत ॥ भू प्राप्ताविति धातोः ॥
+
+##### Gist of the bhāṣya
+
+गृहमेधासः (*gṛhamedhāsaḥ*) is the Anuvākyā for the oblation of the Gṛhamedhīya offering. It is laid down in the sūtra गृहमेधास आ गत प्र बुध्न्या व ईरते महांसि (*gṛhamedhāsa ā gata pra budhnyā va īrate mahāṃsi*) (Ā. 2-18). Those whose sacrifice is performed in the house are गृहमेधासः (*gṛhamedhāsaḥ*); सुदानवः (*sudānavaḥ*) are those of good gifts. O Maruts, you, accompanied by your protection (युष्माकमूत्या रक्षया (*yuṣmākamūtyā rakṣayā*)), come (आ गत (*ā gata*)): come to our sacrifice. O Maruts, माप भूतन (*māpa bhūtana*): do not be gone away. The verb is from the root भू (*bhū*) in the sense of "to reach".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृहमेधासः (*gṛhamedhāsaḥ*)—worthy of worship in the house
+- सुदानवः (*sudānavaḥ*)—excellent givers
+- मरुतः (*marutaḥ*)—O Maruts
+- युष्माकं (*yuṣmākaṃ*)—your
+- ऊती (*ūtī*)—with protections
+- आ गत (*ā gata*)—come
+- माप भूतन (*māpa bhūtana*)—do not leave us and go elsewhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, excellent recipients of worship in the house and excellent givers, come with your protections. Do not leave us and go elsewhere.
+
+##### English translation
+Objects of domestic worship, munificent Maruts, come with your
+protections : go not away.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Gṛhamedhīya offering, this Ṛk beginning गृहमेधासः (*gṛhamedhāsaḥ*) is to be recited as the Anuvākyā mantra while the oblation is offered. It is applied by the Āśvalāyana Śrauta Sūtra in the sūtra गृहमेधास आगत प्र बुध्न्या व ईरते महांसि (*gṛhamedhāsa āgata pra budhnyā va īrate mahāṃsi*) (Ā. 2-18).
+
+### Printed p. 393
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हेह॑ वः स्वतवसः॒ कव॑यः॒ सूर्य॑त्वचः ।  
+> य॒ज्ञं म॑रुत॒ आ वृ॑णे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इहइह । वः । स्वतवसः । कवयः । सूर्यत्वचः ।  
+> यज्ञं । मरुतः । आ । वृणे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वदेवे पर्वणि मारुतस्यानुवाक्या इहेह वः इत्येषा । सूत्रितं च । इहेह वः स्वतवसः प्र चित्रमर्कं गृणते तुराय । आ. २-१९ । इति ॥
+> हे स्वतवसः स्वायत्तबलाः स्वयं प्रवृद्धा वा हे कवयः क्रांतदर्शिनः सूर्यत्वचः सूर्यवर्णा एवंभूता हे मरुतः यूयमिहेहेहैवास्मदीये यज्ञमा वृणे । अभजामि । कल्पयामि ॥
+
+##### Gist of the bhāṣya
+
+At the Vaiśvadeva parvan this Ṛk, इहेह वः (*iheha vaḥ*), is the Anuvākyā of the offering to the Maruts. It is laid down in the sūtra इहेह वः स्वतवसः प्र चित्रमर्कं गृणते तुराय (*iheha vaḥ svatavasaḥ pra citramarkaṃ gṛṇate turāya*) (Ā. 2-19). O स्वतवसः (*svatavasaḥ*), whose strength rests on themselves, or who have grown by themselves; O कवयः (*kavayaḥ*), far-seeing; सूर्यत्वचः (*sūryatvacaḥ*), of the colour of the sun; O Maruts, such as you are, इहेह (*iheha*), here and here alone, at our sacrifice, आ वृणे (*ā vṛṇe*): I choose, I arrange (the sacrifice) for you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वतवसः (*svatavasaḥ*)—possessed of strength gained by themselves
+- कवयः (*kavayaḥ*)—the wise
+- सूर्यत्वचः (*sūryatvacaḥ*)—radiant like the sun
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—performed with you in view
+- इहेह यज्ञं (*iheha yajñaṃ*)—to this our sacrifice alone
+- आ वृणे (*ā vṛṇe*)—I invoke, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, possessed of strength gained by yourselves, wise, and radiant like the sun, I invite you to this sacrifice, performed with you in view.
+
+##### English translation
+Maruts of independant strength, who are far-seeing, glorious as the
+sun, come hither, come hither, I invoke you to the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the Vaiśvadeva parvan, this Ṛk beginning इहेह वः (*iheha vaḥ*) is to be recited as the Anuvākyā mantra in the offering made to the Marut deities. The Āśvalāyana Śrauta Sūtra sets this out in the sūtra इहेह वः स्वतवसः प्र चित्रमर्कं गृणते तुराय (*iheha vaḥ svatavasaḥ pra citramarkaṃ gṛṇate turāya*) (Ā. 2-19).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्र्यं॑बकं यजामहे सु॒गंधिं॑ पुष्टि॒वर्ध॑नं ।
+
+### Printed p. 394
+
+> उर्वारुकमिव बंधनान्मृत्योर्मुक्षीय मामृतात् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिऽअंबकं । यजामहे । सुगंधिं । पुष्टिवर्धनं ।  
+> उर्वारुकम्ऽइव । बंधनात् । मृत्योः । मुक्षीय । मा । अमृतात् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र शौनकः । त्रिरात्रं नियतोऽपोष्य क्षीरेणायसं चरुं । सेचनाहुतिशतं पूर्णं जुहुयाच्छंसितव्रतः ॥ समुद्दिश्य महादेवं त्र्यंबकं त्र्यंबकेत्यृचा । एकपर्वशतं कृत्वा जीवेद्वर्षशतं सुखी ॥ ऋग्वि. २-१२ । (त्रयाणां ब्रह्मविष्णुरुद्राणामंबकं पितरं यजामह इति शिष्यसमाहितो वसिष्ठो ब्रवीति । किंविशिष्टमित्यत आह । सुगंधिं प्रसारितपुण्यकीर्तिं । पुनः किं विशिष्टं । पुष्टिवर्धनं । जगद्बीजं उरुशक्तिमित्यर्थः । उपासकस्य वर्धनं । अणिमादिशक्तिवर्धनं । अकस्मत्प्रसादादेव मृत्योर्मरणात्संसाराद्वा मुक्षीय । मोचय । यथा बंधनादुर्वारुकं कर्कटीफलं मुच्यते तद्वन्मरणात्संसाराद्वा मोचय । किं मर्यादीकृत्य । अमृतात् । सायुज्यतामोक्षपर्यंतमित्यर्थः । अथ तैत्तिरीयभाष्ये । तै. सं. १-८-६-२ । शोभनः शरीरगंधः पुण्यगंधो वा यस्यासौ सुगंधिः । यथावृक्षस्य संपुष्पितस्य दूराद्गंधो वात्येवं पुण्यस्य कर्मणो दूराद्गंधो वातीति श्रुतेः । पुष्टिं शरीरधनादिविषयां वर्धयतीति पुष्टिवर्धनः । तादृशं त्र्यंबकं यजामहे । पूजयामः । लोके यथोर्वारुकफलानि बंधनाद्वृंतात्स्वयमेव मुच्यंते तद्वदहं त्र्यंबकप्रसादेन मृत्योर्मुक्षीय । मोचनयुक्तो भूयासं । अमृताच्छरीरजीवितात्स्वर्गादेवा मा मुक्षीय । चतुर्थपादार्थेमंत्रस्य तात्पर्यातिशयं दर्शयति । त्र्यंबकं यजामह इत्याह मृत्योर्मुक्षीय मामृतादिति वावैतदाहेति ॥ )
+
+##### Gist of the bhāṣya
+
+Here Śaunaka says: having fasted for three nights, restrained, one should, observing the vow, offer a full hundred sprinkling-oblations of a caru cooked with milk (क्षीरेणायसं चरुं (*kṣīreṇāyasaṃ caruṃ*)), addressing Mahādeva with the Ṛk त्र्यंबकं (*tryaṃbakaṃ*); having done this at one hundred parvans one lives a hundred years in happiness (Ṛgvi. 2-12). **NOTE**
+In the bracketed passage Vasiṣṭha, addressed by his disciple, explains: we worship the father (अंबकं (*aṃbakaṃ*)) of the three, Brahmā, Viṣṇu and Rudra. "Of what kind?" Answer: सुगंधिं (*sugaṃdhiṃ*), one whose holy fame is spread abroad. Again, of what kind? पुष्टिवर्धनं (*puṣṭivardhanaṃ*): the seed of the world, of great power; the increaser of the worshipper, the increaser of the powers such as aṇimā. May I be released, by his grace alone, from death, that is, from dying or from saṃsāra; release me as the *urvārukaṃ*, the cucumber (कर्कटीफलं (*karkaṭīphalaṃ*)), is freed from its stalk, so free me from death or saṃsāra. Up to what limit? अमृतात् (*amṛtāt*): up to the liberation of sāyujya.
+Then, in the Taittirīya commentary (Tai. Saṃ. 1-8-6-2): सुगंधिः (*sugaṃdhiḥ*) is one who has a fine bodily fragrance or the fragrance of merit; as the scent of a flowering tree is borne from afar, so the scent of meritorious action is borne from afar, according to the Śruti. पुष्टिवर्धनः (*puṣṭivardhanaḥ*) is one who increases growth in respect of body, wealth and the like. Such a Tryambaka we worship (यजामहे (*yajāmahe*) = we honour). As in the world cucumbers are freed of themselves from the stalk, so may I, by the grace of Tryambaka, be freed from death, and not be freed from the immortal, that is, from life in the body, from heaven. He shows the special import of the fourth pāda: त्र्यंबकं यजामह इत्याह मृत्योर्मुक्षीय मामृतादिति वावैतदाहेति (*tryaṃbakaṃ yajāmaha ityāha mṛtyormukṣīya māmṛtāditi vāvaitadāheti*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुगंधिं (*sugaṃdhiṃ*)—him who has the fragrance of meritorious deeds
+- पुष्टिवर्धनं (*puṣṭivardhanaṃ*)—and who increases the nourishment of the world
+- त्र्यंबकं (*tryaṃbakaṃ*)—the Supreme Reality, father even of the three Mūrtis (the Lord of the world)
+- यजामहे (*yajāmahe*)—we worship
+- बंधनात् (*baṃdhanāt*)—from its stalk
+- उर्वारुकमिव (*urvārukamiva*)—as the urvāruka fruit drops off and falls
+- मृत्योः (*mṛtyoḥ*)—from saṃsāra, which is subject to death
+- मुक्षीय (*mukṣīya*)—may he grant that we obtain release
+- मा अमृतात् (*mā amṛtāt*)—may we not be kept far from liberation
+
+### Printed p. 395
+
+##### भावार्थ (Bhāvārtha)
+
+We worship the Supreme Lord, who has the fragrance of meritorious deeds, who increases the nourishment of the world, and who is the father even of the three Mūrtis. As the urvāruka fruit drops off and falls from its stalk, may we obtain release from saṃsāra, which is subject to death. But may we not be far from liberation.
+
+##### English translation
+We worship Tryambaka, whose fame is fragrant, the augmenter of
+increase : may I be liberated from death, and, like the Urvaruka from its
+stalk, but not to immortality : [let us worship Tryambaka, whose fame is
+fragrant, the augmrnter of increase : may I be liberated from death like the
+Urvaruka from its stalk, but not into immortality.]
+
+##### विशेषविषयगळु (Special Topics)
+
+Concerning this Ṛk the great sage Śaunaka says in his work called Ṛgvidhāna:
+त्रिरात्रं नियतोऽपोष्य क्षपयेत्पायसं चरुं । (*trirātraṃ niyato 'poṣya kṣapayetpāyasaṃ caruṃ |*)
+तेनाहुतिशतं पूर्णं जुहुयाच्छंसितव्रतः ॥ (*tenāhutiśataṃ pūrṇaṃ juhuyācchaṃsitavrataḥ ‖*)
+समुद्दिश्य महादेवं त्र्यंबकं त्र्यंबकेत्यृचा । (*samuddiśya mahādevaṃ tryaṃbakaṃ tryaṃbaketyṛcā |*)
+एतत्पर्वशतं कृत्वा जीवेद्वर्षशतं सुखी ॥ (*etatparvaśataṃ kṛtvā jīvedvarṣaśataṃ sukhī ‖*)
+(Ṛgvidhāna 3-314, 315)
+He says that one should fast completely for three nights, that is, three days, and on the third day cook rice-milk (pāyasa) and caru (cooked rice) and with those substances perform a hundred offerings according to rule. If one makes the offering, as stated above, at a hundred parvan times, addressing the Tryambaka deity, Mahādeva, with this Ṛk त्र्यंबकं यजामहे (*tryaṃbakaṃ yajāmahe*), that man will live happily for a hundred years.
+त्र्यंबकं (*tryaṃbakaṃ*)—त्रयाणां ब्रह्मविष्णुरुद्राणामंबकं पितरं । (*trayāṇāṃ brahmaviṣṇurudrāṇāmaṃbakaṃ pitaraṃ |*) Tryambaka means the Lord of all, father or protector even of the three Mūrtis, Brahmā, Viṣṇu and Maheśvara.
+सुगंधिं (*sugaṃdhiṃ*)—प्रसारितपुण्यकीर्तिं । (*prasāritapuṇyakīrtiṃ |*) The fame of this deity is spread everywhere.
+पुष्टिवर्धनं (*puṣṭivardhanaṃ*)—He is the seed-form of the world, and the power of this deity is immeasurable; or he is one who makes his worshipper prosper with wealth, grain and the like; or he is the increaser of the powers such as aṇimā.
+उर्वारुकमिव बंधनात् (*urvārukamiva baṃdhanāt*)—As the urvāruka fruit, when ripe, is quickly released from its stalk, that is, drops off, so make us free from the bond of saṃsāra.
+Since this mantra is also recited in the Taittirīya Saṃhitā of the Yajurveda (Tai. Saṃ. 1-8-6-3), the explanation of its meaning there is as follows:
+
+### Printed p. 396
+सुगंधिं (*sugaṃdhiṃ*)—शोभनः शरीरगंधः पुण्यगंधो वा यस्यासौ सुगंधिः । यथा वृक्षस्य संपुष्पितस्य दूराद्गंधो वात्येवं पुण्यस्य कर्मणो दूराद्गंधो वाति (*śobhanaḥ śarīragaṃdhaḥ puṇyagaṃdho vā yasyāsau sugaṃdhiḥ | yathā vṛkṣasya saṃpuṣpitasya dūrādgaṃdho vātyevaṃ puṇyasya karmaṇo dūrādgaṃdho vāti*) (Tai. Ā. 10-9) इति श्रुतेः ॥ (*iti śruteḥ ‖*) That is: one with an excellent bodily fragrance, that is, a scent; one filled with a fragrant perfume. Or, as a well-flowered tree spreads the scent of its flowers far through the wind, so the fame of a man who has done good deeds spreads far. Therefore the fame, or the power and capacity, of the Lord of all, ruler of the world and creator, is spread everywhere and renowned; this is the meaning.
+पुष्टिवर्धनं (*puṣṭivardhanaṃ*)—पुष्टिं शरीरधनादिविषयां वर्धयतीति पुष्टिवर्धनः । तादृशं त्र्यंबकं यजामहे पूजयामः । (*puṣṭiṃ śarīradhanādiviṣayāṃ vardhayatīti puṣṭivardhanaḥ | tādṛśaṃ tryaṃbakaṃ yajāmahe pūjayāmaḥ |*) Since he increases the nourishment of the body, such as food, and wealth, this deity has the epithet Puṣṭivardhana. Let us worship the Lord of all, named Tryambaka, who has such qualities.
+लोके यथोर्वारुकफलानि बंधनाद्वृंतात् स्वयमेव मुच्यंते तद्वदहं त्र्यंबकप्रसादेन मृत्योर्मुक्षीय मोचनयुक्तो भूयासं । अमृताच्छरीर जीवितात् स्वर्गादेवा मा मुक्षीय । (*loke yathorvārukaphalāni baṃdhanādvṛṃtāt svayameva mucyaṃte tadvadahaṃ tryaṃbakaprasādena mṛtyormukṣīya mocanayukto bhūyāsaṃ | amṛtāccharīra jīvitāt svargādevā mā mukṣīya |*) In worldly experience we see that the urvāruka fruit, as soon as it is ripe, drops off from its stalk of itself. Likewise may our bond of saṃsāra be loosed, and may we, escaped from death, remain for a long time in heaven and the like, and may we not leave it. Having said this, he cites in support the Brāhmaṇa sentences त्र्यंबकं यजामह इत्याह । मृत्योर्मुक्षीय मामृतादिति वावैतदाह । (*tryaṃbakaṃ yajāmaha ityāha | mṛtyormukṣīya māmṛtāditi vāvaitadāha |*) (Tai. Brā. 1-6-10-3).
+वेदार्थस्य प्रकाशेन तमोहार्दं निवारयन् । (*vedārthasya prakāśena tamohārdaṃ nivārayan |*)
+पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
+इति श्रीमद्राजाधिराजपरमेश्वर वैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपाल साम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये पंचमाष्टके चतुर्थोऽध्यायः ॥ (*iti śrīmadrājādhirājaparameśvara vaidikamārgapravartaka śrīvīrabukkabhūpāla sāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye paṃcamāṣṭake caturtho 'dhyāyaḥ ‖*)
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+Here ends the fourth chapter in the fifth Aṣṭaka of the Ṛgveda Saṃhitā, with Sāyaṇa's commentary and the Kannada translation.
+
 ---
 
-**Progress note:** Done through printed p. 390. pp. 385-390 (batch API)
+**Progress note:** Done through printed p. 396. pp. 391-396 (batch API)
