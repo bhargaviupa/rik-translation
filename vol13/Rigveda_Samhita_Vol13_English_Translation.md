@@ -9777,6 +9777,194 @@ Formerly, when all the gods prayed to Agni to accept the oblation offered in the
 (Ṛ. Saṃ. 10-53-4)
 "Let the five peoples together enjoy this oblation." The authors of the Bṛhaddevatā quoted this sentence containing the answer, and discussed the five peoples, showing differences of opinion.
 
+### Printed p. 409
+In the verse
+
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मम ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mama ‖*) (Bṛ. De. 7-66)
+
+the answer that Agni gave to the gods is stated, and afterwards the word *pañcajana* is explained:
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*) (Bṛ. De. 7-67)
+
+That is, the fire at the entrance of the hall, the consecrated Āhavanīya fire, the Gārhapatya fire that is the son of the sacrificer, and the southern and northern fires: these five kinds of fire are traditionally spoken of as five classes. Besides this view there is also:
+
+मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः । गंधर्वा पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ | gaṃdharvā pitaro devā asurā yakṣarākṣasāḥ ‖*) (Bṛ. De. 7-68)
+
+According to the first opinion the serpents and rākṣasas form one group; according to the second opinion the yakṣas and rākṣasas form one group.
+
+यास्कौपमन्यवावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णा मन्यते शाकटायनः ॥ (*yāskaupamanyavāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇā manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 7-69)
+
+By this sentence the author of the Bṛhaddevatā says that Yāska's view is the first. But in the Nirukta Yāska states the views of others and has not stated his own view definitively; probably he accepted that one.
+
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate*) (Bṛ. De. 7-70)
+
+It is the view of Śākapūṇi that the four priests beginning with the Hotṛ, together with the sacrificer, make a group of five.
+
+चक्षुःश्रोत्रं मनो वाक् च प्राणश्चेत्यात्मवादिनः । गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ सर्पाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके ॥ (*cakṣuḥśrotraṃ mano vāk ca prāṇaścetyātmavādinaḥ | gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā ‖ sarpāśca brāhmaṇe caiva śrūyaṃte haitareyake ‖*) (Bṛ. De. 7-71, 72)
+
+The view of the spiritualists is that the eye, ear, mind, speech and breath are the five *pañcajana*. That they are the Gandharvas and others is explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5). That such five peoples should enjoy the oblation
+
+### Printed p. 410
+is the answer Agni gave to the gods; thus the differences of opinion are shown in the Bṛhaddevatā's explanation too.
+
+In the verse under discussion it is described: पंच क्षितीनां विश्वानि वसु इंद्रस्य हस्तयोः । (*paṃca kṣitīnāṃ viśvāni vasu iṃdrasya hastayoḥ |*). Since the entire world comes under Indra's protection, all the above views fit the phrase पंच क्षितीनां (*paṃca kṣitīnāṃ*).
+
+स्पाशयस्व (*spāśayasva*)—बाधस्व (*bādhasva*): harass. स्पश—बाधनस्पर्शनयोः (*spaśa—bādhanasparśanayoḥ*): it is a verb form derived from the root *spaś*, which means touching, or perceiving by other kinds of direct perception, and also harassing. The prayer is: harass and destroy the enemies of the sacrificers. Nominal forms derived from this root are also in use; in those contexts it means hostile enemies who harass, or divine messengers who harass enemies. In the verse
+
+प्रति स्पशो वि सृज तूर्णितमो भवा पायुर्विशो अस्या आदब्धः । यो नो दूरे अघशंसो यो अंत्यग्ने माकिष्टे व्यथिरा दधर्षीत् ॥ (*prati spaśo vi sṛja tūrṇitamo bhavā pāyurviśo asyā ādabdhaḥ | yo no dūre aghaśaṃso yo aṃtyagne mākiṣṭe vyathirā dadharṣīt ‖*) (Ṛ. Saṃ. 4-4-3)
+
+the word स्पशः (*spaśaḥ*) means परबाधकान् रश्मीन् चारान् वा (*parabādhakān raśmīn cārān vā*), that is, either the rays of Agni that harass enemies or Agni's messengers who harass enemies.
+
+When it speaks of matter perceptible to the senses such as the skin, the word is used also in the first sense stated above. For example:
+
+प्रोरोर्मित्रावरुणा पृथिव्याः प्र दिव ऋष्टाद्बृहतः सुदानू । स्पतो दधाथे ओषधीषु निष्कृधग्यतो अनिमिषं रक्षमाणा ॥ (*prorormitrāvaruṇā pṛthivyāḥ pra diva ṛṣṭādbṛhataḥ sudānū | spato dadhāthe oṣadhīṣu niṣkṛdhagyato animiṣaṃ rakṣamāṇā ‖*) (Ṛ. Saṃ. 7-61-3)
+
+In such verses it means a form perceptible to the senses. In the present verse the root is used in the sense of harassing, as said above, and it means: harass, destroy the enemies.
+
+##### Grammar
+
+- क्षितीनाम् — क्षि निवासगत्योः धातुः । क्तिन् प्रत्ययः । षष्ठीबहुवचनांतरूपं । नामन्यतरस्याम् (पा. सू. ६-१-१७) इति नामिन उदात्तस्वरः भवति ।
+- स्पाशयत्व — स्पश बाधनस्पर्शनयोः धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । अत उपधायाः (पा. सू. ७-२-११६) इति उपधावृद्धिः । णिजंतात् लोट् । मध्यमपुरुषैकवचने थासः से इति से आदेशः । सवाभ्यां नामा इति एकारस्य वत्वं । शप् निमित्तं कृत्वा णिचे गुणः अयादेशः । पादादौ स्थितत्वात् निघातस्वरः न भवति । णिच् स्वरः अवशिष्यते ।
+
+### Printed p. 411
+- अस्मध्रुक् — ध्रुह जिघांसायाम् धातुः । सत्तूद्विष—(पा. सू. ३-२-६१) इति क्विप् प्रत्ययः । दादेर्धातोर्घः (पा. सू. ८-२-३२) इति सु परे हकारस्य घत्वं । एकाचो बशो—(पा. सू. ८-२-३७) इति आदेः दकारस्य धकारादेशः । पदांतस्य जस्त्वं चर्त्वं । कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- दिव्या — दिवि भवा दिव्या । दंडादिभ्यो यः (पा.सू ५-१-६६) इति य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्ता भवति । स्त्रीत्वे अदंतत्वात् टाप् ।
+- जहि — हन हिंसागत्योः धातुः । लोट् मध्यमपुरुषैकवचने सिपः हि आदेशः । हंतेर्जीः (पा.सू. ६-४-३६) इति धातोः जादेशः । असिद्धवत्राभात् (पा.सू. ६-४-२२) इति असिद्धत्वात् अतोहेः इति हेः लोपः न भवति । तिजंतनिघातस्वरः भवति । ॥ ३ ॥
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असु॑न्वंतं समं जहि दू॒णाशं॒ यो न ते॒ मयः॑ ।  
+> अ॒स्मभ्य॑मस्य॒ वेद॑नं द॒द्धि सू॒रिश्चि॑दोहते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असुन्वंतं । समं । जहि । दुःखनशं । यः । न । ते । मयः ।  
+> अस्मभ्यं । अस्य । वेदनं । दद्धि । सूरिः । चित् । ओहते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र असुन्वंतं सोमाभिषवमकुर्वाणं । त्वामयजंतमित्यर्थः ।
+> दूणाशं दुःखेन नाशनीयं समं । आयं सर्वानुदात्तः सर्वशब्द पर्यायः ।
+> अयष्टन् सर्वान् । यद्वा । सममेकोद्योगेनाविशेषेण वा जहि । तेन
+> किमपराद्धमिति आत अह । यस्ते तव मयः । मय इति सुखनाम । तव सुखहेतुर्न
+> भवति । यो होमेन स्तुत्या ना न प्रीणाति तं जहि । किंचास्य वेदनं धनमस्मभ्यं
+> दद्दि । देहि ॥ दद दान इत्यस्माद्व्यत्ययेन परस्मैपदं । छांदसः शपो लुक् ॥
+> सूरिश्चिदोहते । चिदेवार्थे । सूरिस्थव स्तोतैवौहते । वहति । पाप्नोति धनं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slay the one who does not press Soma (असुन्वंतं (*asunvaṃtaṃ*)), that is, who does not sacrifice to you. दूणाशं (*dūṇāśaṃ*) means one to be destroyed only with difficulty. समं (*samaṃ*) is आयं (*āyaṃ*), with every syllable unaccented, a synonym of the word "all"; the sense is "all who do not sacrifice". Or else: slay with a single effort, or without distinction. If asked what offence they have committed, he answers: the one who is not मयः (*mayaḥ*) to you; मय (*maya*) is a name for happiness, so he is not a cause of happiness to you. Slay the one who does not please you with offering and praise. Further, give us his wealth (वेदनं (*vedanaṃ*)); दद्दि (*daddi*) is "give", from the root दद (*dada*) in the sense of giving, with parasmaipada by irregularity and elision of शप् (*śap*) in the Veda. सूरिश्चिदोहते (*sūriścidohate*): चित् (*cit*) has the sense of "only"; the सूरिः (*sūriḥ*) is your praiser, and he alone carries off (वहति (*vahati*)), obtains, the wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- यः (*yaḥ*)—which man
+- ते (*te*)—to you
+- मयः न (*mayaḥ na*)—is not a cause of happiness (through offering and gifts)
+- असुन्वंतं (*asunvaṃtaṃ*)—one who does not press Soma (who gives you no Soma offering)
+- दूणाशं (*dūṇāśaṃ*)—though destroyable only with great difficulty
+- समं (*samaṃ*)—with a single blow (all such persons)
+- जहि (*jahi*)—slay
+- अस्य (*asya*)—his
+- वेदनं (*vedanaṃ*)—wealth
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- दद्धि (*daddhi*)—give
+- सूरिः चित् (*sūriḥ cit*)—the one who praises you alone
+- ओहते (*ohate*)—carries (obtains) the wealth
+
+### Printed p. 412
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the one who does not press Soma for you, the one who does not bring you happiness through offerings and the like: slay all of these with a single blow; and give us their wealth. For your praisers alone are worthy to obtain wealth.
+
+##### English translation (H. H. Wilson)
+Slay every one who offers not libations, however difficult to be destroyed : slay every one who is no delight to you : bestow upon us his wealth, for the pious (worshipper) deserves it.
+
+##### विशेषविषयगळु (Special Topics)
+
+दूणाशं (*dūṇāśaṃ*)—दुःखेन नाशनीयं (*duḥkhena nāśanīyaṃ*). The meaning is one who is destroyed with difficulty. The prowess of some enemies is so great that destroying them takes great effort. The word दूणाश (*dūṇāśa*) is used to convey this point.
+
+सूरिः (*sūriḥ*)—सूरिस्तव स्तोता (*sūristava stotā*). It means a praiser. Since it is read among the 13 names of praisers beginning with रेभः (*rebhaḥ*), जरिता (*jaritā*), कारुः (*kāruḥ*) (Ni. 3-19), सूरयः (*sūrayaḥ*) means praisers, devotees who recite hymns. The word सूरि (*sūri*) is also used in many places in contexts where it gives the sense of the wise, the discerning, the intelligent. When it is used of the seers, who possess the supernatural power of vision, both of the eye and of the mind, by which they grasp the true nature of the gods and the secret principles of the universe, this epithet gives a special meaning.
+
+तद्विष्णोः परमं पदं सदा पश्यंति सूरयः । दिवीव चक्षुराततं ॥ (*tadviṣṇoḥ paramaṃ padaṃ sadā paśyaṃti sūrayaḥ | divīva cakṣurātataṃ ‖*) (Ṛ. Saṃ. 1-22-20)
+
+In such contexts it denotes not merely those who praise but also the extraordinary power of vision of the seers. And it is used not only of seers but also as an epithet of gods such as Indra.
+
+##### Grammar
+
+- असुन्वंतम् — षुञ् अभिषवे धातुः । लटः शत्रादेशः । नञ् तत्पुरुषसमासे तत्पुरुषे तुल्यार्थ—सूत्रेण नञ् पूर्वपदप्रकृतिस्वरः भवति ।
+
+### Printed p. 413
+मंहिष्ठ मच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं नावृधध्यै ॥ (*maṃhiṣṭha macchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ nāvṛdhadhyai ‖*) (Ṛ. Saṃ. 1-61 3)
+
+In such verses, with विपश्चितमिंद्रं (*vipaścitamiṃdraṃ*), it also shows the wisdom of gods such as Indra. Besides this, the word सूरि (*sūri*) is also used when it denotes a lord, an impeller, one who leads along the good path. For example:
+
+जनो यः पज्रेभ्यो वाजिनीवाश्वावतो रथिनो मह्यं सूरिः । (*jano yaḥ pajrebhyo vājinīvāśvāvato rathino mahyaṃ sūriḥ |*) (Ṛ. Saṃ. 1-122-8)
+
+असद्यथा जरित्र उत सूरिरिंद्रो रायो विश्ववारस्य दाता । (*asadyathā jaritra uta sūririṃdro rāyo viśvavārasya dātā |*) (Ṛ. Saṃ. 6-23-10)
+
+मुह्यंत्वन्ने अभिषेको जनास इहास्माकं मघवा सूरिरस्तु ॥ (*muhyaṃtvanne abhiṣeko janāsa ihāsmākaṃ maghavā sūrirastu ‖*) (Ṛ. Saṃ. 10-81-6)
+
+In these and similar contexts, with reference to gods who are lords and leaders along the good path, this epithet also describes the qualities of Indra and others.
+
+आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः । (*ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathādīṣate vayaḥ |*) (Ṛ. Saṃ. 1-141-8)
+
+In such places only here and there does it mean "way".
+
+##### Grammar
+
+- असुन्वंतम् — षुञ् अभिषवे धातुः । लटः शत्रादेशः । नञ् तत्पुरुषसमासे तत्पुरुषे तुल्यार्थ—सूत्रेण नञ् पूर्वपदप्रकृतिस्वरः भवति ।
+- समम् — सर्वार्थकः अयं समशब्दः सर्वानुदात्तः भवति ।
+- वेदनम् — विद्‌ल्य लाभे धातुः । ल्युट् प्रत्ययः । युवोरनाकौ इति तस्य अनादेशः । तं निमित्तीकृत्य लघोपधगुणः । लिशि (पा. सू. ६-१-१६३) इति प्रत्ययस्य पूर्वस्य उदात्तस्वरः भवति ।
+- दद्दि — दद दाने धातुः । भ्वादिः । व्यत्ययो बहुलं इति परस्मैपदी भवति । लोट् मध्यमपुरुषैकवचने सिपः हि आदेशः । बहुलं छंदसि इति शपः लुक् । झलंतपरत्वात् हुझल्भ्यो हेर्धिः (पा सू. ६-४ १०१) इति हेः धि आदेशः । पादादौ स्थितत्वात् निघातस्वरः न भवति । हेः अपित्वविधानात् अंतोदात्तस्वरः भवति ।
+
+### Printed p. 414
+- ओहते — वह प्रापणे धातुः । लट् प्रथमपुरुषैकवचनांतरूपं । बहुलं छंदसि इति संप्रसारणं भवति । अतिजं-द परत्वात् निघातस्वरः भवति । ॥ ४ ॥ **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आवो॒ यस्य॑ द्वि॒बर्ह॑सो॒ऽर्केषु॑ सानु॒षगस॑त् ।  
+> आ॒जाविंद्र॑स्येंदो॒ प्रावो॒ वाजे॑षु वा॒जिनं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आवः । यस्य । द्विबर्हसः । अर्केषु । सानुषक् । असत् ।  
+> अजौ । इंद्रस्य । इंदो इति । प्र । आवः । वाजेषु । वाजिनं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम तव यस्य द्विबर्हसः स्तोत्रहवीरूपद्विविधपरिवृढकर्मवतो यजमानस्यार्केषु मंत्रेषु सानुषक् सानुषंगः सातत्यमसत् भवेत्
+> तमावः । तं यजमानं रक्षसि तर्पयसि वा । यद्वा ॥ कर्मणि षष्ठी ॥ यं द्वयोः
+> स्थानयोः परिवृढं यमिंद्रं हे इंदो यदार्केषु सानुषगसत् भवेः तदावः ।
+> अरक्षः । अतर्पयो वा । तस्यैवेंद्रस्याज् संग्रामे हे सोम वाजिनं तथान्नवंतं तमिंद्रं वाजेषु बलेष्वन्नेषु वा निमित्तभूतेषु प्रावः । प्रकर्षणारक्षयः।
+> पानसमये तर्पयित्वा संग्रामसमये बलवर्धनेन जयप्राप्तशत्रुधनतर्पणेन
+> वारक्ष इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra-Soma (इंदो (*iṃdo*)), the sacrificer who has two-fold परिवृढ (*parivṛḍha*) rites, namely praise and oblation (द्विबर्हसः (*dvibarhasaḥ*)), and in whose अर्केषु (*arkeṣu*) (mantras) there is सानुषक् (*sānuṣak*), continuity, असत् (*asat*) (would be): that sacrificer you protect (आवः (*āvaḥ*)) or satisfy. Or else, with the genitive in the sense of the object: यं (*yaṃ*), the Indra who is परिवृढ (*parivṛḍha*) in two places, whom you, O Soma, protected or satisfied when you were joined with the mantras. Of that same Indra, in battle (अजौ (*ajau*)), O Soma, you प्रावः (*prāvaḥ*), protected excellently, that Indra who is वाजिनं (*vājinaṃ*), possessed of food, in the वाजेषु (*vājeṣu*), in the strengths or foods that are the occasion. The sense is: having satisfied him at the time of drinking, you protect him at the time of battle by increasing his strength, or by satisfying him with the wealth of enemies obtained through victory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंदो (*(he) iṃdo*)—O Soma juice
+- द्विबर्हसः (*dvibarhasaḥ*)—twofold, in the form of praise and oblation (devoted to Indra)
+- यस्य (*yasya*)—of which sacrificer
+- अर्केषु (*arkeṣu*)—in the mantras
+- सानुषक् (*sānuṣak*)—the joining (union of praise and offering)
+- असत् (*asat*)—there is
+- आवः (*āvaḥ*)—you protect him
+- यदा (*yadā*)—when
+- अर्केषु (*arkeṣu*)—in the mantras
+- सानुषक् (*sānuṣak*)—in conjunction
+- असत् (*asat*)—you are
+- द्विबर्हसः (*dvibarhasaḥ*)—the lord of the two worlds (Heaven and Earth)
+- यस्य (*yasya*)—which Indra
+
 ---
 
-**Progress note:** Done through printed p. 408. pp. 403-408 (batch API)
+**Progress note:** Done through printed p. 414. pp. 409-414 (batch API)
