@@ -22186,6 +22186,232 @@ With that chariot, lords of men, which is your vehicle, which has three benches,
 
 O Aśvins, you freed Cyavāna from जरसः (*jarasaḥ*), from decrepit form; elsewhere it is said: युवं च्यवानमश्विना जरंतं पुनर्युवानं (*yuvaṃ cyavānamaśvinā jaraṃtaṃ punaryuvānaṃ*) (Ṛ. Saṃ. 1-116-10). Likewise for the king named Pedu you conveyed the swift horse in battle; the Nigama is युवं श्वेतं पेदवे (*yuvaṃ śvetaṃ pedave*) (Ṛ. Saṃ. 1-119-9). And Atri …
 
+### Printed p. 535
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महर्षिमंहस ऋबीसादग्नेः सकाशात्तमसश्च गुहांतःस्थिताच्च सकाशान्निस्पर्तं । न्यपारयतं । युवमृबीसमुत तप्तमत्रये ओमन्वंतं चक्रथुः । ऋ. १०-३९-९ । इति निगमः । तथा जाहुषं शिथिरे शिथिले भ्रष्टे स्वराष्ट्रेऽंतर्मध्ये पुनर्वि धातं। न्यधातं । परितिष्ठं जाहुषं विश्वतः सीं । ऋ. १-११६-२० । इति ह्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of the preceding Ṛk. The great sage (Atri) was delivered from अंहस (*aṃhasa*) (distress), from the fire ऋबीस (*ṛbīsa*) (the underground fire), and from the darkness that lay hidden in a cave. स्पर्तं (*spartaṃ*) means "you brought him safely across". He cites a Nirukta-type quotation (Ṛ. Saṃ. 10-39-9): "You made the heated Ṛbīsa pleasant for Atri". As for जाहुषं (*jāhuṣaṃ*), the Aśvins re-established him in the middle of his own kingdom, which had become loose and ruined. The phrase परितिष्ठं जाहुषं विश्वतः सीं (*paritiṣṭhaṃ jāhuṣaṃ viśvataḥ sīṃ*) (Ṛ. Saṃ. 1-116-20) is cited in support.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं (*yuvaṃ*)—you (O Aśvin deities)
+- च्यवानं (*cyavānaṃ*)—the sage named Chyavāna
+- जरसः (*jarasaḥ*)—from old age
+- अमुमुक्तं (*amumuktaṃ*)—you freed
+- पेदवे (*pedave*)—for the king named Pedu
+- आशुं (*āśuṃ*)—swift-going
+- अश्वं (*aśvaṃ*)—a horse
+- निः ऊहथुः (*niḥ ūhathuḥ*)—you provided
+- अत्रिं (*atriṃ*)—the sage named Atri
+- अंहसः (*aṃhasaḥ*)—from a harmful curse
+- तमसः (*tamasaḥ*)—from darkness
+- निः स्पर्तं (*niḥ spartaṃ*)—you released
+- जाहुषं (*jāhuṣaṃ*)—the king named Jāhuṣa
+- शिथिरे (*śithire*)—of his shattered country
+- अंतः (*aṃtaḥ*)—in the middle
+- निः धातं (*niḥ dhātaṃ*)—you re-established
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you freed the sage Chyavāna from old age. You provided the king Pedu with a swift-going horse in battle. You released the sage Atri from a harmful curse and from darkness. You re-established the king Jāhu in his shattered kingdom.
+
+##### English translation
+You exempted Chyavana from decay : you mounted Pedu upon a swift charger : you extricated Atri from torture and darkness : you replaced Jahusha in his rebellious kingdom.
+
+#### Ṛk 7
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं म॑नी॒षा इ॒यम॑श्विना॒ गीरि॒मां सु॑वृ॒क्तिं वृ॑षणा जुषेथां ।  
+> इ॒मा ब्रह्मा॑णि युव॒यून्य॑ग्मन्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । मनीषा । इयं । अश्विना । गीः । इमां । सुवृक्तिं । वृषणा । जुषेथां ।  
+> इमा । ब्रह्माणि । युवयूनि । अग्मन् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
+### Printed p. 536
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ इयं मनीषा स्तुतिर्युवयोः कृतेति शेषः । तदेवादरार्थं पुनरुच्यते । इयं गीः स्तुतिः कृता । हे वृषणा कामानां वर्षकौ इमामु  सुवृक्तिं जुषेथां । सेवेथां । इमेमानि ब्रह्माणि कर्माणि स्तुतिरूपाणि युवयूनि युवां कामयमानानि संत्यग्मन् । गच्छंतु युवां । यूयं पातेति सिद्धं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, this मनीषा (*manīṣā*), this praise, has been made for you (the verb "made" is to be supplied); it is repeated for emphasis: this गीः (*gīḥ*), this hymn, has been made. O showerers of desires, take pleasure in this fine laudation. These ब्रह्माणि (*brahmāṇi*), that is, these acts in the form of praise, desire you (युवयूनि (*yuvayūni*)) and have come to you; let them reach you. यूयं पात (*yūyaṃ pāta*) ("you protect") is regarded as established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—granters of desired objects
+- अश्विना (*aśvinā*)—O Aśvin deities
+- इयं मनीषा (*iyaṃ manīṣā*)—this praise has been composed for you
+- इयं गीः (*iyaṃ gīḥ*)—this praise is ready
+- इमां सुवृक्तिं (*imāṃ suvṛktiṃ*)—this excellent praise
+- जुषेथां (*juṣethāṃ*)—accept
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these our acts of praise
+- युवयूनि (*yuvayūni*)—desiring your service
+- अग्मन् (*agman*)—may they come and reach you
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, granters of desired objects, this praise has been composed for you and is ready to be offered to you. Accept this excellent praise. May these our acts of praise, desiring your service, come and reach you. Always protect us with blessings.
+
+##### English translation
+This adoration, Ashwins, this praise (is for you) : be gratified, showerer (of benefits), by this laudation : may these eulogies, addressed to you, reach you : and do you ever cherish us with blessings.
+
+## Sūkta 72 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ गोमतेति पंचर्चं द्वितीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाश्विनं । अनुक्रम्यते च । आ गोमता पंचेति ॥ विनियोगः प्रातरनुवाकाश्विनशस्त्रयोरुक्तः ॥ आश्विने पशावाद्यास्तिस्रो याज्यानुवाक्याः । सूत्रितं च । आ गोमता नासत्या रथेनेति चतस्रः । आ-३-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, आ गोमता (*ā gomatā*), of five Ṛks, has Vasiṣṭha as seer, the Aśvins as deity and Triṣṭubh as metre. The Anukramaṇī says आ गोमता पंच (*ā gomatā paṃca*). Its application was stated already for the Prātaranuvāka and the Āśvina-śastra. In the animal offering to the Aśvins the first three Ṛks are Yājyā and Anuvākyā verses. The sūtra is cited: आ गोमता नासत्या रथेनेति चतस्रः (*ā gomatā nāsatyā ratheneti catasraḥ*) (Ā. 3-4) — "four Ṛks beginning आ गोमता नासत्या रथेन (*ā gomatā nāsatyā rathena*)".
+**NOTE**
+
+### Printed p. 537
+
+##### Anuvāda
+
+This sūkta beginning आ गोमता (*ā gomatā*) is the second sūkta in the fifth Anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta; the Aśvin deities are the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as आ गोमता पंच (*ā gomatā paṃca*). It has already been said that this sūkta is applied to the Prātaranuvāka and the Āśvina-śastra mantras. In the animal offering made to the Aśvin deities, the first four Ṛks of this sūkta are to be recited as Yājyā and Anuvākyā mantras; this is explained by the sūtra आ गोमता नासत्या रथेनेति चतस्रः (*ā gomatā nāsatyā ratheneti catasraḥ*) of the Āśvalāyana Śrautasūtra (Ā. 3-4).
+
+Sūkta—72
+Maṇḍala—7; Anuvāka—5; Sūkta—72
+Aṣṭaka—5; Adhyāya—5; Varga—19
+Number of Ṛks in the sūkta—5
+Ṛṣi—Vasiṣṭha
+Devatā—the Aśvins
+Chandas—Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ गोम॑ता नासत्या॒ रथे॒नाश्वा॑वता पुरुश्चं॒द्रेण॑ यातं ।  
+> अ॒भि वां॒ विश्वा॑ नि॒युतः॑ सचंते स्पा॒र्हया॑ श्रि॒या त॒न्वा॑ शुभा॒ना
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । गोमता । नासत्या । रथेन । अश्ववता । पुरुऽचंद्रेण । यातं ।  
+> अभि । वां । विश्वाः । नियुतः । सचंते । स्पार्हया । श्रिया । तन्वा । शुभाना ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्याश्विनौ गोमता गोयुक्तेनाश्वावताश्वयुक्तेन । अश्वैर्वृषभैश्चोढेनेत्यर्थः । यद्वा । गोमता गोप्रदेन । पुरुश्चंद्रेण बहुधनेन । धनप्रदेनेत्यर्थः । तादृशेन रथेना यातं । आगच्छतं । वां विश्वा बह्व्यो नियुतः स्तुतयः सचंते सेवंतेऽस्मत्प्रेरिताः । हे स्पार्हया स्पृहणीयया श्रिया शोभया तन्वा शरीरेण च शुभाना दीप्यमानौ युवां ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, Aśvins, come with a chariot गोमता (*gomatā*), endowed with cattle, and अश्वावता (*aśvāvatā*), endowed with horses, that is, drawn by horses and bulls. Or else गोमता (*gomatā*) means "giving cattle"; पुरुश्चंद्रेण (*puruścaṃdreṇa*) means "of much wealth", that is, wealth-giving. Come with such a chariot. All the many नियुतः (*niyutaḥ*), praises sent forth by us, attend you, you who shine with a desirable splendour and with a body (तन्वा (*tanvā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- स्पार्हया (*spārhayā*)—attractive
+- श्रिया (*śriyā*)—endowed with brilliance
+- तन्वा (*tanvā*)—with a body
+- शुभाना (*śubhānā*)—you who shine
+- गोमता (*gomatā*)—furnished with cattle
+
+### Printed p. 538
+- अश्वावता (*aśvāvatā*)—furnished with horses
+- पुरुश्चंद्रेण (*puruścaṃdreṇa*)—and possessing abundant wealth
+- रथेन (*rathena*)—with the chariot
+- आ यातं (*ā yātaṃ*)—come
+- वां अभि (*vāṃ abhi*)—around you
+- विश्वाः (*viśvāḥ*)—many
+- नियुतः (*niyutaḥ*)—praises
+- सचंते (*sacaṃte*)—attend
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come with a chariot furnished with cattle, furnished with horses and possessing abundant wealth. You shine with a body endowed with attractive brilliance. Many praises attend you.
+
+##### English translation
+Come, Nasatyas, with your cattle-giving, horse-bestowing, wealth-yielding chariot : all praises gather round you, who are resplendent with admirable beauty of persons.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दे॒वेभि॒रुप॑ यातम॒र्वाक्स॒जोष॑सा नासत्या॒ रथे॑न ।  
+> यु॒वोर्हि नः॑ स॒ख्या पित्र्या॑णि समा॒नो बंधु॑रु॒त तस्य॑ वित्तं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । देवेभिः । उप । यातं । अर्वाक् । सजोषसा । नासत्या । रथेन ।  
+> युवोः । हि । नः । सख्या । पित्र्याणि । समानः । बंधुः । उत । तस्य । वित्तं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्याश्विनौ युवां देवेभिरितरैर्देवैः सह सजोषसा समानप्रीतौ परस्परं संतौ नोऽस्माकमर्वागभिमुखं रथेना यातं । आगच्छतं । आगमने बंधुत्वातिशयमाह । युवोर्युवयोर्नोऽस्माकं च सख्या सख्यानि पित्र्याणि पितृतः प्राप्तानि । नेदानीं स्तुत्याद्युपाधिना प्राप्तानि भवंतीत्यर्थः । तदेवाह । उतापि च युवयोर्मम च बंधुर्बंधकः पितामहः समान एक एव । तस्य वित्तं ॥ तस्येति कर्मणि षष्ठी ॥ तं बंधुं तद्बंधुत्वं वावित्तं । जानीतं ॥ विवस्वान्स्वरुणश्चोभावपि कश्यपाददितेर्जातौ विवस्वानश्विनोर्जनको वरुणो वसिष्ठस्येत्येवं समानबंधुत्वं । कथा च बृहद्देवतायामुक्तं ॥ आभवन्मिथुनं त्वष्टुः सरण्यास्त्रिशिराः
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, Aśvins, united in affection (सजोषसा (*sajoṣasā*)) with the other gods, come on your chariot toward us. Sāyaṇa states the closeness of kinship in the coming: the friendships (सख्या (*sakhyā*)) between you and us are पित्र्याणि (*pitryāṇi*), inherited from fathers; they do not arise now through praise and the like. Further, the बंधुः (*baṃdhuḥ*), the connecting forefather, of you and of me is one and the same. तस्य वित्तं (*tasya vittaṃ*): तस्य (*tasya*) is a genitive in the sense of the object; "know that kinsman, or that kinship". Vivasvat and Varuṇa were both born of Kaśyapa from Aditi; Vivasvat is the father of the Aśvins, Varuṇa of Vasiṣṭha; thus the kinship is common. The story is told in the Bṛhaddevatā, which he begins to quote: आभवन्मिथुनं त्वष्टुः सरण्यास्त्रिशिराः (*ābhavanmithunaṃ tvaṣṭuḥ saraṇyāstriśirāḥ*)
+
+### Printed p. 539
+
+> सद । स वै सरण्यूं प्रायच्छत्स्वयमेव विवस्वते ॥ ततः सरण् य्वां जाते ते यमुयम्यौ विवस्वतः । तावप्युभौ यमावेव ह्यास्तां यम्या च वै यमः ॥ सृष्ट्वा भर्तुः परोक्षं तु सरण्यूः सदृशीं स्त्रियं । निक्षिप्य मिथुनं तस्यामश्वा भूत्वा प्रचक्रमे ॥ अविज्ञानाद्विवस्वांस्तु तस्यामजनयन्मनुं । राजर्षिरासीत्स मनुर्विवस्वानिव तेजसा ॥ स विज्ञाय अपक्रांतां सरण्यूमात्मरूपिणीं । त्वाष्ट्रीं प्रतिजगामाशु वाजी भूत्वा सलक्षणः ॥ सरण्यूस्तु विवस्वंतं विज्ञाय हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥ ततस्तयोस्तु वेगेन शुक्रं शेपतदद्भुवि । उपाजिघ्रच्च सा त्वाष्ट्री तच्छुक्रं गर्भकाम्यया ॥ अघ्राणमात्राच्छुक्रं तत्कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनावपीति ॥
+
+##### Gist of the bhāṣya
+
+The quotation continues. Tvaṣṭṛ had twins, Saraṇyū and Triśiras; he gave Saraṇyū to Vivasvat. Vivasvat had by her Yama and Yamī, a pair of twins. Saraṇyū, behind her husband's back, made a similar woman, placed the twins with her and went away as a mare. Not knowing this, Vivasvat begot Manu on the substitute; Manu became a royal seer like Vivasvat in splendour. Vivasvat, learning that Saraṇyū had gone, became a horse with the same marks and followed her. Saraṇyū, recognising him as a horse, approached for union and he mounted her. Through their haste his seed fell on the ground; Saraṇyū smelled it, desiring offspring, and from the mere smelling twin boys were born: नासत्यश्चैव दस्रश्च (*nāsatyaścaiva dasraśca*), the two Aśvins who are praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- देवेभिः (*devebhiḥ*)—with the other gods
+- सजोषसा (*sajoṣasā*)—united
+- नः (*naḥ*)—our
+- अर्वाक् (*arvāk*)—toward us
+- रथेन (*rathena*)—with the chariot
+- उप आयातं (*upa āyātaṃ*)—come
+- युवोः (*yuvoḥ*)—for you
+- नः (*naḥ*)—and for us
+- सख्या (*sakhyā*)—the friendship
+- पित्र्याणि (*pitryāṇi*)—exists from our earlier generations
+- उत (*uta*)—and
+- बंधुः (*baṃdhuḥ*)—the elder who joins us in kinship
+- समानः (*samānaḥ*)—is one and the same
+- तस्य (*tasya*)—his
+- वित्तं (*vittaṃ*)—know the relationship
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to us on your chariot together with the other gods. The friendship between you and us exists from those before us. The elder who has furnished us with kinship is one and the same. Know the relationship with him.
+
+##### English translation
+Sharing in satisfaction with the gods, come to our presence, Nasatyas, with your chariot, for the friendship (that prevails) between you and us is from our forefathers ; a common ancestor (is ours) : acknowledge his affinity.
+
+##### विशेषविषयगळु (Special Topics)
+
+बंधुः समानः (*baṃdhuḥ samānaḥ*)—It is said here that the seer of this sūkta, the sage Vasiṣṭha, and the Aśvin deities are related to one another. How? Vivasvat, the father of the Aśvins, and Varuṇa, the father of the sage Vasiṣṭha, are sons born of Aditi from the sage Kaśyapa. Therefore the two are brothers. Since they are the children of brothers, Vasiṣṭha and the Aśvins are related to one another.
+
+### Printed p. 540
+To support this matter the commentator (Sāyaṇa) has cited here what is said in the Bṛhaddevatā.
+अभवन्मिथुनं त्वष्टुः सरण्यूस्त्रिशिराः सह । स वै सरण्यूं प्रायच्छत् स्वयमेव विवस्वते ॥ (*abhavanmithunaṃ tvaṣṭuḥ saraṇyūstriśirāḥ saha | sa vai saraṇyūṃ prāyacchat svayameva vivasvate ‖*) (Bṛ. De. 6. 162)
+Tvaṣṭṛ had a daughter named Saraṇyū and a son named Triśiras. He gave his daughter Saraṇyū in marriage to Vivasvat.
+ततः सरण्य्वां जज्ञाते यमुयम्यौ विवस्वतः । तौ चाप्युभौ यमावेव ज्यायांस्ताभ्यां तु वै यमः ॥ (*tataḥ saraṇyvāṃ jajñāte yamuyamyau vivasvataḥ | tau cāpyubhau yamāveva jyāyāṃstābhyāṃ tu vai yamaḥ ‖*) (Bṛ. De. 6. 163)
+Afterwards two children, Yama and Yamī, were born to Vivasvat by his wife Saraṇyū. Both were twins born together. Of the two, Yama was the first.
+सृष्ट्वा भर्तुः परोक्षं तु सरण्यूः सदृशीं स्त्रियं । निक्षिप्य मिथुनं तस्यां अश्वा भूत्वापचक्रमे ॥ (*sṛṣṭvā bhartuḥ parokṣaṃ tu saraṇyūḥ sadṛśīṃ striyaṃ | nikṣipya mithunaṃ tasyāṃ aśvā bhūtvāpacakrame ‖*) (Bṛ. De. 7-1)
+When her husband Vivasvat was absent, Saraṇyū created another woman resembling herself, committed her twin children to her charge, took the form of a mare, left that place and, unknown to Vivasvat, went elsewhere and became invisible.
+अविज्ञानाद्विवस्वांस्तु तस्यामजनयन्मनुं । राजर्षिरभवत्सोऽपि विवस्वानिव तेजसा ॥ (*avijñānādvivasvāṃstu tasyāmajanayanmanuṃ | rājarṣirabhavatso 'pi vivasvāniva tejasā ‖*) (Bṛ. De. 7. 2)
+But Vivasvat, without knowing this, united with that woman who stood as a substitute for Saraṇyū. As a result Manu was born. Manu too, like his father, became a splendid, great royal seer. His fame spread in all the worlds.
+स विज्ञाय त्वपक्रांतां सरण्यूमश्वरूपिणीं । त्वाष्ट्रीं प्रति जगामाशु वाजी भूत्वा सलक्षणः ॥ (*sa vijñāya tvapakrāṃtāṃ saraṇyūmaśvarūpiṇīṃ | tvāṣṭrīṃ prati jagāmāśu vājī bhūtvā salakṣaṇaḥ ‖*) (Bṛ. De. 7. 3)
+In the end true knowledge came to Vivasvat. When he learned that Saraṇyū had gone away in the form of a mare, he too took the form of a stallion, followed Tvaṣṭṛ's daughter to the place where she had gone, and tried to unite with her.
+सरण्यूश्च विवस्वंतं विदित्वा हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥ (*saraṇyūśca vivasvaṃtaṃ viditvā hayarūpiṇaṃ | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ ‖*) (Bṛ. De. 7. 4)
+
 ---
 
-**Progress note:** Done through printed p. 534. pp. 529-534 (batch API)
+**Progress note:** Done through printed p. 540. pp. 535-540 (batch API)
