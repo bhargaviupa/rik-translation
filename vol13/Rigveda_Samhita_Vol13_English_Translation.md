@@ -7870,6 +7870,170 @@ Here Purukutsa is said to be a king of the people called Pūru. He is also said 
 
 In this it is said that when the wife of Purukutsa satisfied Indra and Varuṇa with oblations and praises, they granted that she should bear a son named Trasadasyu. On this basis there is a story that after Purukutsa died in battle, his wife prayed to Indra and Varuṇa and bore a son named Trasadasyu.
 
+### Printed p. 325
+#### Ṛk 2 (continued)
+
+##### Grammar
+
+- दनः — दमु उपशमे इति धातुः । लज् मध्यमपुरुषैकवचने सिप् । इतश्च इति इकारलोपः । अंतर्भावितण्यर्थको धातुः । बहुलं छंदस्य (पा. सू. ६-४-७५) इति अडागमो न भवति । अथवा णद अव्यक्ते शब्दे इति धातुः । छांदसो वर्णव्यत्ययः जातः । पादादित्वात् निघातस्वरो न भवति । शप् अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- मृध्रवाचः — मृध्रा वाक् येषां ते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- दर्त् — द्य विदारणे इति धातुः । लज् । व्यत्ययो बहुलं इति सिपः तिप् भवति । बहुलं छंदसि इति विकरणस्य लुक् । सार्वधातुकार्धधातुकयोः इति धातोः इकः गुणः । र परः भवति । रात् सस्य (पा. सू. ८-२-२४) इति संयोगांतलोपो न भवति । बहुलं छंदस्यमाज्‌योगेऽपि इति अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- ऋणोः — ऋणु गतौ इति धातुः । तनादिः । लज् मध्यमपुरुषैकवचने सिप् । इकारलोपः । तनादिकृञ्भ्यउः (पा. सू. ३-१-७९) इति उ विकरणम् । सिप्निमित्तं तस्य गुणः । छांदसत्वात् अडागमो न भवति । विकरणस्वरः शिष्यते ।
+- अपः — द्वितीयाबहुवचनांतरूपम् । ऊडिदं पदादि (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरो भवति ।
+- यूने — युवन् शब्दः । चतुर्थ्येकवचने परे श्वयुवमघोनामतद्धिते (पा. सू. ६-४-१३३) इति संप्रसारणं पूर्वरूपं च ।
+- रंधीः — रध हिंसा संराद्योः इति धातुः । लुज् मध्यमपुरुषैकवचने सिप् । इकारलोपः । छ्लेः सिचादेशः । अर्धधातुक— (पा. सू. ७-२-३५) इति तस्य इडागमः । अस्तिसिचोऽपृक्ते (पा. सू. ७-३-६६) इति प्रत्ययस्य ईडागमः । इटईटि (पा. सू. ८-२-२८) इति सूत्रेण सिचो लोपः । रधिजभोरचि (पा. सू. ७-१-६१) इति धातोः नुमागमः । छांदसत्वात् अडागमो न भवति । अतिजंतपरत्वात् निघातस्वरो भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजा॒ वृत॑ इंद्र॒ शूर॑पत्नी॒र्द्यां च॒ येभिः॑ पुरुहूत नू॒नं ।  
+> रक्षो॑ अ॒ग्निम॒शुषं॒ तूर्व॑याणं सिं॒हो न दमे॒ अपां॑सि॒ वस्तोः॑ ॥
+
+### Printed p. 326
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अज । वृतः । इंद्र । शूरपत्नीः । द्यां । च । येभिः । पुरुहूत । नूनं ।  
+> रक्षो इति । अग्निं । अशुषं । तूर्वयाणं । सिंहः । न । दमे । अपांसि । वस्तोः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शूरपत्नीः शूरै रक्षोभिः पालिता वृतः । वर्तंत आस्तिति वृतोऽसुरपुरीः । यद्वा । शूरा यजमानाः । तैः पालिता वृतो वेदिभूमाः । अज ।
+> गच्छ जेतुं । तथा कृत्वा द्यां च नूनमवश्यमज । किं त्वमेक एव न । हे पुरुहूत
+> बहुभिर्बहुधा वाहूतेंद्र येभिर्मरुदादिभिरनुगतोऽसि तैः सहितः सन् । तथा
+> कृत्वाशुषमाशोषयितारमशांतं वा तूर्वयाणं तूर्णगमनमग्निं वैद्युतं
+> होमाधारं वाग्निं रक्षो । रक्षस्यॆव । किमर्थं रक्षणमिति उच्यते । दमे गृहेऽपांसि कर्माणि कुर्वन् वस्तोर्वस्तुं । यद्वा । वासयितुं स्थापयितुं ।
+> कारयितुमित्यर्थः । यज्ञद्विट्टु हतेश्वग्नौ सुस्थिरे सति यागाद्यनुष्ठानपरः
+> स्थास्सामीत्यर्थः । रक्षणे दृष्टांतः । सिंह इव । स यथा स्वात्रयभूतं वनं
+> गजाद्युपद्रवपरिहारेण रक्षति तद्वत् । असुरपुरभंगगमने वा दृष्टांतः । सिंहो
+> यथा निर्भयो विरोधिमृगान् हंतुं धावति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, go to the वृतः (*vṛtaḥ*), the शूरपत्नीः (*śūrapatnīḥ*)": that is, the cities of the Asuras, which are protected by heroic demons and in which they dwell (वर्तंत (*vartaṃta*)). Or else: शूरा (*śūrā*) are the sacrificers; the वृतः (*vṛtaḥ*) protected by them are the sacrificial altar-grounds. अज (*aja*) means "go in order to conquer", and having done so, go also to heaven without fail. Indra is not to go alone: he is पुरुहूत (*puruhūta*), called by many or in many ways, and he is to go together with the Maruts and others by whom he is followed. Having so gone, he is to protect Agni (the lightning fire, or the fire that is the support of the oblation), who is अशुषं (*aśuṣaṃ*) (a drier-up, or unappeased) and तूर्वयाणं (*tūrvayāṇaṃ*) (swift in going). दमे (*dame*) is "in the house"; अपांसि (*apāṃsi*) is "rites"; so Agni is to be protected so that, performing rites in the house, he may be वस्तोः (*vastoḥ*), to dwell; or else to be established, to be made to act. The meaning is: when the foes of the sacrifice are slain and Agni is firmly settled, the sacrificer says he will be intent on performing sacrifices and the like. The example for protecting is the lion: as he protects the forest that is his own refuge by warding off the harassment of elephants and others. Or else, for the going to break the cities of the Asuras, the example is: as a lion fearlessly runs to kill hostile beasts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- शूरपत्नीः (*śūrapatnīḥ*)—protected by heroic demons
+- वृतः (*vṛtaḥ*)—their dwelling-places, the cities of the Asuras
+- सिंहः न (*siṃhaḥ na*)—as a lion fearlessly confronts other animals
+- अज (*aja*)—set out (in order to conquer). [Or else शूरपत्नीः (*śūrapatnīḥ*)—protected by the sacrificers; वृतः (*vṛtaḥ*)—(toward) the altar-grounds; अज (*aja*)—go] (afterwards)
+- द्यां च (*dyāṃ ca*)—to the world of heaven also
+- नूनं (अज) (*nūnaṃ (aja)*)—(go) without fail
+- हे पुरुहूत (*he puruhūta*)—O Indra, called by many or in many ways
+- येभिः (*yebhiḥ*)—accompanied by those followers of yours, the Maruts and others, who are with you
+- (अज) (*(aja)*)—go to both the places mentioned above; afterwards
+- अशुषं (*aśuṣaṃ*)—the drier-up, or unappeased
+- तूर्वयाणं (*tūrvayāṇaṃ*)—swift in going
+- अग्निं (*agniṃ*)—the lightning fire or the sacrificial fire
+- दमे (*dame*)—in the house
+- अपांसि (*apāṃsi*)—performing rites
+- वस्तोः (*vastoḥ*)—in order to dwell. [Or else अपांसि (*apāṃsi*)—rites; वस्तोः (*vastoḥ*)—in order to establish]
+- सिंहः न (*siṃhaḥ na*)—as a lion protects the forest that is his own refuge by removing harassment and the like
+- रक्षो (*rakṣo*)—protect
+
+### Printed p. 327
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, called in many ways or by many, accompanied by your followers the Maruts and others, set out to conquer the cities of the Asuras protected by demons, as a lion boldly rushes in among other animals; from there go to the world of heaven also; and establish and protect the swift and unappeased sacrificial fire so that it may be favourable for the performance of rites in the houses.
+
+##### English translation (H. H. Wilson)
+Go to the cities inhabited by the Rakshasas, and thence to heaven (attended), receiver of many sacrifices, by those who (attend you). Defend, like a lion, the untamed, quick-moving Agni, that he may abide in his dwelling, fulfilling his functions.
+
+##### विशेषविषयगळु (Special Topics)
+
+शूरपत्निः (*śūrapatniḥ*)—The meaning of this word is explained as used in two senses. In the first, शूरैः रक्षोभिः पालिताः (*śūraiḥ rakṣobhiḥ pālitāḥ*): those protected by heroic demons; and वर्तंते आस्थिति वृतः (*vartaṃte āsthiti vṛtaḥ*): the Asura cities, the places where the demons dwell. In the second, शूराः यजमानाः तैः पालिताः वृतः वेदिभूमिः (*śūrāḥ yajamānāḥ taiḥ pālitāḥ vṛtaḥ vedibhūmiḥ*): शूर (*śūra*) is taken to mean the sacrificers, and the sacrificial altars protected by them are meant. It is explained that Indra should journey toward the cities protected by Asuras, or toward the altar protected by the sacrificers.
+Indra is addressed by the word पुरुहूत (*puruhūta*), explained as पुरुभिः बहुधा ना आहूत (*purubhiḥ bahudhā nā āhūta*): Indra is called in many ways by many sacrificers. येभिः द्यां च नूनं अज (*yebhiḥ dyāṃ ca nūnaṃ aja*): since Indra is always with the Maruts, the sacrificers' wish is expressed that with them he conquer the Asura cities, or come to the sacrificial hall, accept the oblation and reach द्यां (*dyāṃ*), heaven.
+अशुषं (*aśuṣaṃ*) and तूर्वयाणं (*tūrvayāṇaṃ*) are both used as epithets of the word अग्निं (*agniṃ*). With अशोषयितारं अशांतं वा (*aśoṣayitāraṃ aśāṃtaṃ vā*) the quality of Agni is described: he dries up everything completely and does not grow calm; and he is swift and pervading in his going. It is explained that अग्निं (*agniṃ*), possessed of such qualities, may be the lightning fire or the terrestrial fire that is the support of the sacrifice in which oblations are offered; and the wish is expressed that Indra protect this Agni.
+
+### Printed p. 328
+दमे अपांसि वस्तोः (*dame apāṃsi vastoḥ*)—गृहे कर्माणि कुर्वन् वस्तुं । यज्ञा वासयितुं स्थापयितुं कारयितुं (*gṛhe karmāṇi kurvan vastuṃ | yajñā vāsayituṃ sthāpayituṃ kārayituṃ*) **NOTE**. The word दमे (*dame*) is stated among the names of the house (Ni. 3-13). The word अपः (*apaḥ*) is read among the names of rites (Ni. 3-2). The word वस्तो (*vasto*) explains the sense of dwelling, of obtaining a settled state. The meaning described here is: while Agni is comfortably in the sacrificial altar, Indra's protection is indispensable so that sacrifices and other rites may be performed by the sacrificers; and the sacrificer's hope is made plain: यज्ञद्विट्टु हतेषु अग्नौ सुस्थिरे यागाद्यनुष्ठानपरः स्थास्यामि (*yajñadviṭṭu hateṣu agnau susthire yāgādyanuṣṭhānaparaḥ sthāsyāmi*).
+The sentence सिंहः इव (*siṃhaḥ iva*) is stated as the comparison for the protection given by Indra. In the protection given by the lion, the forest, the lion's dwelling, serves to ward off the harassment caused by elephants and others. Likewise the protection of the sacrifice performed by the sacrificers serves to destroy the harassment of the Asuras, the obstructers of sacrifice; this meaning is described by way of an example.
+In the second sense this sentence is, as he says, असुर भंगगमने वा दृष्टांतः (*asura bhaṃgagamane vā dṛṣṭāṃtaḥ*): an example of Indra's going in a fierce mood to destroy the Asuras; and सिंहो यथा निर्भयो विरोधिमृगान् हंतुं धावति तद्वत् (*siṃho yathā nirbhayo virodhimṛgān haṃtuṃ dhāvati tadvat*)—as a lion, without any fear, goes to destroy the beasts that are its enemies, so Indra, fearless, travels to subdue the Asuras; so the meaning is explained.
+
+##### Grammar
+
+- अजा — अज गतिक्षेपणयोः इति धातुः । लोट् मध्यमपुरुषैकवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । द्वचोतस्तिजः (पा. सू. ६-३-१३५) इति संहितायां दीर्घो भवति ।
+- वृतः — क्विप् च इति क्विप् प्रत्ययः । द्वितीयाबहुवचनांतरूपम् ।
+- येभिः — यच्छब्दः । भिस् परे बहुलं छंदसि इति ऐस्भावस्य विकल्पत्वात् एत्वम् ।
+- पुरुहूत — पुरुभिः हूतः पुरुहूतः । संबुद्धौ आमंत्रितनिघातस्वरो भवति ।
+- रक्षो — रक्ष पालने इति धातुः । लोट् मध्यमपुरुषैकवचनांतरूपम् । पादादित्वात् निघातस्वरः शिष्यते ।
+- तूर्वयाणम् — तूर्वं यानं यस्य । तम् । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 329
+- अपांसि — आषः कर्माख्यायाम् (उ सू. ४-६४७) इति असुन् प्रत्ययः । ह्रस्वः । नित्त्वात् आद्युदात्तस्वरो भवति । द्वितीयाबहुवचनांतरूपम् ।
+- वस्तोः — वस निवासे इति धातुः । बहुलग्रहणात् तुमर्थे तोसुन् प्रत्ययः । इत्यादिर्नित्यम् (पा. सू. ६-१-१६९) इति आद्युदात्तस्वरो भवति । कृन्मेजंतः इति एजंतत्वात् अव्ययसंज्ञा भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शेष॒न्नु त इं॑द्र॒ सस्मि॒न्नोनौ॒ प्रश॑स्तये॒ पवी॑रवस्य म॒ह्ना ।  
+> सृ॒जदर्णां॒स्यव॒ यद्यु॒धा गास्तिष्ठ॒द्धरी॑ धृष॒ता मृ॑ष्ट॒ वाजा॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शेषन् । नु । ते । इंद्र । सस्मिन् । योन् । प्रशस्तये । पवीरवस्य । मह्ना ।  
+> सृजन् । अर्णांसि । अव । यत् । युधा । गाः । तिष्ठत् । हरी इति । धृषता । मृष्ट ।  
+> वाजान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते शत्रवः सस्मिन् सर्वस्मिन् समाने वा योन् स्वकीये
+> स्थाने०तरिक्षे वा । योनिरंतरिक्षं । नु क्षिप्रं शेषन् । शेरतां ॥ शीजतो लेट्यडागमः।
+> व्यत्ययेन परस्मैपदं । सिब्बहुलमिति सिप् ॥ किमर्थ० । प्रशस्तये प्रशंसनाय
+> त्वत्सुतये । त्वन्महिमज्ञापनायेत्यर्थः । किं सेवनादिसाधनेनेति आह । पवीरवस्य
+> कुलिशस्य कुलिशशब्दस्य वा मह्ना महिम्ना । त्वद्वज्रप्रहारेण हता मेघाः शत्रवो
+> वा तत्रैव शेरते निपातेन पलायंत इत्यर्थः । किंच यद्यदा युधा प्रहरणसाधनेनायुधेन युद्धेन वा गाः गच्छसि तदाणांस्युदकान्यव सृजत् । अवासृजः ।
+> अवाङ्मुखमपातयः ॥ पुरुषव्यत्ययः ॥ तदर्थ० हरी अश्व तिष्ठत् । अध्यतिष्ठः ॥
+> अत्रापि पुरुषव्यत्ययः ॥ यद्वा । यदा हरी अधितिष्ठसि तदावासृजः । अथैवं कृत्वा
+> वाजानन्नानि सस्यादिलक्षणानि धृषता धर्षकेण सामर्थ्येन मृष्ट । शोधय ।
+> प्रवर्धयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, let your foes (the clouds) lie down quickly सस्मिन् योन् (*sasmin yon*), in their own place or in the sky." सस्मिन् (*sasmin*) is "in all" or "in the same"; योनि (*yoni*) is the sky. शेषन् (*śeṣan*) is "let them lie"; the imperfect-like form is a Vedic variation of person and parasmaipada, with सिप् (*sip*) by the rule on its variable occurrence. For what purpose? प्रशस्तये (*praśastaye*): for praising you, to make known your greatness; not by service and other means. पवीरवस्य (*pavīravasya*) is of the thunderbolt, or of the word कुलिश (*kuliśa*); मह्ना (*mahnā*) is "by the greatness". The clouds or foes struck down by the blow of your thunderbolt lie there, or flee at its fall. Moreover, when you go with a weapon or in battle, you send the waters down (अवासृजः (*avāsṛjaḥ*), made to fall downward; a change of person). For that purpose you mount your two bay horses (तिष्ठत् (*tiṣṭhat*) for अध्यतिष्ठः (*adhyatiṣṭhaḥ*); again a change of person). Or else: when you mount the two bays, then you send the waters down. Having done so, मृष्ट (*mṛṣṭa*): cleanse, that is, increase, the foods (वाजान् (*vājān*)), such as grain and the like, by your daring power (धृषता (*dhṛṣatā*)).
+
+### Printed p. 330
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- ते (*te*)—those foes of yours (the clouds)
+- सस्मिन् (*sasmin*)—all, or the same
+- योन् (*yon*)—in their own place, or (in the cloud) in the sky
+- पवीरवस्य (*pavīravasya*)—of the thunderbolt weapon, or of the sound of the thunderbolt weapon
+- मह्ना (*mahnā*)—by the greatness
+- प्रशस्तये (*praśastaye*)—in order to praise (your greatness)
+- नु (*nu*)—quickly
+- शेषन् (*śeṣan*)—let them fall. (Moreover)
+- यत् (*yat*)—when
+- युधा (*yudhā*)—(distinguished) by the weapon that is the means of striking, or by battle
+- गाः (*gāḥ*)—you go. (then)
+- अर्णांसि (*arṇāṃsi*)—the waters
+- अव सृजत् (*ava sṛjat*)—you make fall downward. (for that purpose)
+- हरी (*harī*)—the two horses named Hari
+- तिष्ठत् (*tiṣṭhat*)—you mount (having done so)
+- वाजान् (*vājān*)—food in the form of grain and the like
+- धृषता (*dhṛṣatā*)—by your power
+- मृष्ट (*mṛṣṭa*)—cleanse (increase)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let your foes, overcome by the power of your thunderbolt, lie in their own places, so as to proclaim your greatness (let the clouds, other than the thunderbolt, remain in their own place, the sky, proclaiming your greatness); mounting your horses named Hari, eager for battle (bearing a weapon), you go and make the waters fall downward. By this power of yours food in the form of grain and the like increases.
+
+##### English translation (H. H. Wilson)
+Let (your foes, Indra,) humbled by the might of your thunderbolt, rest in their own station, for your glory : when you move, (armed) with your weapon, you send down the waters : arresting your horses, increase, by your power, ( the abundance of ) food.
+
+##### विशेषविषयगळु (Special Topics)
+
+सस्मिन् योन् ते नु शेषन् (*sasmin yon te nu śeṣan*)—In this sentence Indra is addressed. The word ते (*te*) is explained as meaning Indra's foes. The word सस्मिन् (*sasmin*) is used as an epithet of the word योन्नौ (*yonnau*) (योन्‌नौ (*yonnau*)). The authors of the Nirukta read the word योनि (*yoni*) among the names of the house (Ni. 3-13). And—
+इहं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक् ॥ (*ihaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātryuṣase yonimāraik ‖*)
+(Ṛ. Saṃ. 1-113-1)
+
 ---
 
-**Progress note:** Done through printed p. 324. pp. 319-324 (batch API)
+**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
