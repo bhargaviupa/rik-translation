@@ -20198,6 +20198,181 @@ The sage named Cyavana had grown very old; his body was worn out and he had no s
 युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvaṃ |*)
 (Ṛ. Saṃ. 7-71-5)
 
+### Printed p. 487
+In these Ṛks too there is a description of how the aged sage Cyavana was made young. In the Śatapatha Brāhmaṇa as well there is an extended history on this subject. Likewise,
+
+(Ṛ. Saṃ. 10-39-8)
+In the Ṛk beginning thus, mention is made of how the old age of one called Kali was removed and he was made young.
+
+(Ṛ. Saṃ. 1-117-13)
+Here it is said that when the aforesaid Kali took a wife and married, they gave him their help and did many services for him.
+
+And they granted a chariot (1-117-19) for the young women who were the wives of Vimada, or one wife for him (1-117-1). She appears to have been the daughter of Purumitra (Ṛ. Saṃ. 1-117-20; 10-39-7), and her name was Kamadhyu (10-65-12).
+
+They brought back and restored his lost son to Viśvaka, the son of Kṛṣṇa (Ṛ. Saṃ. 1-116-23; 10-65-12). And in Ṛ. Saṃ. 8-85-1, 2 the names of Viśvaka and Viṣṇāpu are indicated.
+
+The story of Bhujyu is told again and again. Bhujyu was the son of a king named Tugra. While he was making a sea voyage and was sinking, Bhujyu held on to a piece of wood and floated amid the waves. Then he took refuge in the Aśvins. In the great ocean whose depth could not be known, they seated him in a ship with a hundred oars and took him to his home. In an unbroken ship that seemed to fly in the sky, or in four winged boats, or in three flying chariots with a hundred feet and six horses, or in their own chariot with the speed of mind, with the help of their swift horses that fly along, they made Bhujyu sit and brought him and set him in his home. (1-116-3, 4, 5; 1-117-14, 15; 1-182-5, 6, 7; 7-68-7; 1-117-6, 20; 1-118-6; 1-166-4; 1-148-3; 6-62-6; 7-69-7; 8-5-22; 10-39-4; 10-40-2; 10-65-12; 10-143-5)
+
+It is said in the Ṛks Ṛ. Saṃ. 1-112-10; 1-116-15; 1-117-11; 1-118-9; 10-39-9 that a woman named Viśpalā had her leg cut off in battle, and when she prayed to the Aśvins they came, provided her with an iron leg and saved her.
+
+### Printed p. 488
+When the Aśvins' mount, the ass, was in the wolf's den, one named Ṛjrāśva cut up a hundred sheep from the flock he was tending and gave them to the wolf as food. His father was angered by this and had Ṛjrāśva's eyes torn out, making him blind. Then the wolf praised the Aśvins. Pleased, they gave Ṛjrāśva eyes. (Ṛ. Saṃ. 1-116-16; 1-117-17, 18) In Ṛ. Saṃ. 1-100-17 there is mention of Ṛjrāśva praising Indra.
+
+One called Pārāvṛja was blind and lame, and was not admitted into his caste. The Aśvins gave him the power of sight and the power of walking; that is, they favoured him by giving eyes and feet (Ṛ. Saṃ. 1-112-8). The name of Pārāvṛja is indicated in Ṛ. Saṃ. 2-13-12; 2-15-7, where Indra is the subject.
+
+The sage called Rebha had been bound hand and foot by wicked men and thrown into a disused well. For nine days and ten nights he lay there, near death. The Aśvins lifted him out of the well as one lifts Soma juice with a ladle, and gave him life (Ṛ. Saṃ. 1-112-5; 1-116-24; 1-117-12; 1-117-4; 1-118-6; 1-189-6; 10-39-9).
+
+Vandana likewise was carried off by wicked men and thrown into a dark place (a pit); the Aśvins rescued him from danger and brought him to the light. (Ṛ. Saṃ. 1-112-5; 1-116-11; 1-117-5; 1-118-6; 10-39-8; 1-189-6, 7)
+
+To Kakṣīvān of the Pajra family they gave boons abundantly, and made mead or honey flow by the hundred jars from a horse's hoof, as through a sieve (Ṛ. Saṃ. 1-116-7; 1-117-6).
+
+The sage Atri, thrown out of hatred and envy into a great pit enveloped in darkness and blazing with fire, was in distress; when he prayed to the Aśvins they came, quenched the fire with frost, gave him food and so on, comforted him and delivered him from that state (Ṛ. Saṃ. 1-112-7; 1-116-8; 1-117-3; 1-118-7; 1-189-6; 5-78-4, 5, 6; 7-72-5; 8-62-3, 7, 8, 9; 10-39-9). In Ṛ. Saṃ. 10-80-3 it is indicated that Agni protected Atri.
+
+Vadhrimatī, being childless and barren, prayed to the Aśvins, and they granted her a son named Hiraṇyahasta. (Ṛ. Saṃ. 1-116-13; 1-117-24; 6-62-7; 10-39-7)
+
+### Printed p. 489
+A woman named Ghoṣā, unmarried, remained in her father's house; at her prayer the Aśvins granted her a suitable husband. (Ṛ. Saṃ. 1-117-7; 10-39-3, 6; 10-40-5). In the bhāṣya on Ṛ. Saṃ. 1-117-7 Sāyaṇa says that this Ghoṣā was suffering from leprosy and that the Aśvins cured that disease. In the tenth Maṇḍala there are two sūktas seen by this woman Ghoṣā (sūktas 39 and 40).
+
+When the cow of one called Śayu had grown old and bore no calf, the Aśvins gave her the power to give milk (Ṛ. Saṃ. 1-116-22; 1-112-10; 1-118-8; 1-189-6; 10-39-13).
+
+It is said that the Aśvins gave the king Pedu a white horse, as mighty as Indra, and that by it he conquered his enemies and obtained much wealth, conveyances and the like (Ṛ. Saṃ. 1-116-6; 1-117-9; 1-118-9; 1-189-10; 2-21-3; 10-39-10).
+
+Besides these, as stated in the sūktas 3, 116, 117, 118 and 189 of the first Maṇḍala, these Aśvins are said to have helped many human beings and also to have benefited animals, birds and others. In this connection it is said in the Ṛks Ṛ. Saṃ. 1-116-14; 1-117-16; 1-118-8; 10-39-13 that when a wolf was carrying off a quail in its jaws, at the quail's prayer they freed it from the wolf's mouth and saved it. Besides these matters there are many more concerning the Aśvins; they will be explained in their proper contexts.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति वां रथमिति दशर्चं द्वादशं सूक्तं । प्रति वां दशाश्विनं तु तदित्यनुक्रमणिका । ऋषिर्वसिष्ठः । छंदस्त्रिष्टुप् । तुह्यादिपरिभाषयैतदादीन्यष्ट सूक्तान्यश्विदेवत्यानि । प्रातरनुवाके आश्विने क्रतौ त्रैष्टुभे छंदस्येतदादिसूक्तसप्तकं द्वितीयवर्जं शंस्यं । तथा च सूत्रं । प्रति वां रथमिति सप्तानां द्वितीयमुद्धरेत् । आ-४-१५ ॥ इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रति वां रथं (*prati vāṃ rathaṃ*) has ten Ṛks and is the twelfth sūkta. The Anukramaṇikā says प्रति वां दशाश्विनं तु तत् (*prati vāṃ daśāśvinaṃ tu tat*). The seer is Vasiṣṭha, the metre Triṣṭubh. By the rule beginning तुह्यादि (*tuhyādi*) this and the following eight sūktas have the Aśvins as deity. In the Prātaranuvāka, in the Āśvina rite, in the Triṣṭubh metre, this group of seven sūktas, omitting the second, is to be recited. So the sūtra: प्रति वां रथमिति सप्तानां द्वितीयमुद्धरेत् (*prati vāṃ rathamiti saptānāṃ dvitīyamuddharet*) (Ā. 4-15).
+
+The Anuvāda: this sūkta is the twelfth sūkta in the fourth anuvāka; the Anukramaṇikā says as above. Vasiṣṭha is the seer, Triṣṭubh the metre, and the eight sūktas from this onward have the Aśvins as deity. At the time of reciting the Prātaranuvāka mantras, this and the following seven sūktas, omitting the second, are employed for the Triṣṭubh mantras relating to the Āśvina rite, as explained by the Āśvalāyana Śrauta Sūtra प्रति वां रथमिति सप्तानां द्वितीयमुद्धरेत् (*prati vāṃ rathamiti saptānāṃ dvitīyamuddharet*) (Ā. 4-15).
+
+### Printed p. 490
+
+Maṇḍala 7; Anuvāka 4; Sūkta 67.
+Aṣṭaka 5; Adhyāya 5; Varga 12, 13.
+Number of Ṛks in the sūkta: 10.
+Ṛṣi: Vasiṣṭha.
+Deity: Aśvins.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ वां॒ रथं॑ नृपती ज॒रध्यै॑ ह॒विष्म॑ता॒ मन॑सा य॒ज्ञिये॑न ।  
+> यो वां॑ दू॒तो न धि॑ष्ण्या॒वजी॑ग॒रच्छा॑ सू॒नुर्न पि॒तरा॑ विवक्मि ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । वां । रथं । नृपती इति नृपती । जरध्यै । हविष्मता । मनसा । यज्ञियेन ।  
+> यः । वां । दूतः । न । धिष्ण्यौ । अजीगः । अच्छ । सूनुः । न । पितरा । विवक्मि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृपती नृणामृत्विग्यजमानानां स्वामिनावश्विनौ वां युवयो रथं जरध्यै । जरा स्तुतिः । स्तोतुं प्रति गच्छामीति शेषः । केन साधनेनेति तदुच्यते । हविष्मता हविर्युक्तेन यज्ञियेन यज्ञार्हेण मनसा स्तोत्रेण । यो रथो वां हे धिष्ण्यौ धिषणार्हौ । धिषणा स्तुतिः । वां युवां दूतो न दूत इवाजीगः जागरयति प्रबोधयति अस्मान्प्रति गंतुं तं रथमच्छा विवक्मि । आवच्मि । प्रबोधने दृष्टांतः । सूनुर्न पितरा पुत्रो मातापितराविव । अथवात्र यो रथो युवामजीगः तेन रथेन गंतुं बुध्यमानौ युवामच्छा विवक्मीति वा योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O lords of men, that is, of the officiating priests and sacrificers, O Aśvins, I go towards your chariot to praise it; जरा (*jarā*) is praise. By what means: with हविष्मता (*haviṣmatā*), endowed with oblation, and यज्ञियेन (*yajñiyena*), fit for sacrifice, मनसा (*manasā*), that is, with praise. O धिष्ण्यौ (*dhiṣṇyau*), worthy of धिषणा (*dhiṣaṇā*) (praise): the chariot which, like a messenger, awakens you to come to us, that chariot I address. The example of awakening: as a son awakens his parents. Or else: the chariot by which you awake, I address you who are being awakened to go by that chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृपती (*nṛpatī*)—O Aśvins, lords of men such as officiating priests and sacrificers
+- वां (*vāṃ*)—your
+- रथं (*rathaṃ*)—chariot
+- यज्ञियेन (*yajñiyena*)—fit for sacrifice
+- हविष्मता (*haviṣmatā*)—endowed with oblation
+- मनसा (*manasā*)—with praise
+- जरध्यै (*jaradhyai*)—in order to praise
+- प्रति (*prati*)—I approach
+- धिष्ण्यौ (*dhiṣṇyau*)—O Aśvins, worthy of our praise
+- यः (*yaḥ*)—which chariot of yours
+- सूनुः (*sūnuḥ*)—a son
+- पितरा (*pitarā*)—as he awakens his parents with respect
+- वां (*vāṃ*)—you
+- दूतो न (*dūto na*)—like a messenger
+- अजीगः (*ajīgaḥ*)—awakens
+- अच्छा विवक्मि (*acchā vivakmi*)—I praise (that chariot of yours)
+
+### Printed p. 491
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, lords of all people beginning with officiating priests and sacrificers, having prepared the oblation, I approach to praise your chariot with praise fit to be recited in sacrifices and other rites. O Aśvins, worthy of our praise, as a son respectfully awakens his parents, so that chariot of yours awakens you like a messenger; such a chariot I praise.
+
+##### English translation
+Lords of men, (I approach) to adore your chariot with devout praise and oblation, I address it as if it were a messenger to awaken you, adorable deities, as a son (addresses) his parents.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अशो॑च्य॒ग्निः स॑मिधा॒नो अ॒स्मे उपो॑ अदृश्र॒न्तम॑सश्चि॒दंताः॑ ।  
+> अचे॑ति के॒तुरु॒षसः॑ पु॒रस्ता॑च्छ्रि॒ये दि॒वो दु॑हि॒तुर्जाय॑मानः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अशोचि । अग्निः । सम्ऽइधानः । अस्मे इति । उपो इति । अदृश्रन् । तमसः । चित् ।  
+> अंताः ।  
+> अचेति । केतुः । उषसः । पुरस्तात् । श्रिये । दिवः । दुहितुः । जायमानः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मे अस्माभिः समिधानः समिध्यमानः सन्नग्निरशोचि । दीप्यते । तमसश्चित्तमसोऽप्यंताः पर्यंताः प्रदेशा उपो अदृश्रन् । उपदृश्यंते सर्वैः । केतुः सर्वस्य प्रज्ञापकः सूर्यो दिवो दुहितुरुषसः पुरस्तात्पूर्वस्यां दिशि श्रिये शोभायै जायमानः सन्नचेति । ज्ञायते । यस्मादेवं तस्माद्युवयोरागमनसमयः । अत आगच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Agni, kindled by us, blazes. Even the extremities of the darkness are seen by all nearby. The Sun, the indicator of all, being born on the east of Dawn, daughter of heaven, for glory, is perceived. Since it is so, it is the time of your coming; hence "come" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मे (*asme*)—by us
+- समिधानः (*samidhānaḥ*)—well kindled
+- अग्निः (*agniḥ*)—Agni
+- अशोचि (*aśoci*)—is blazing
+- तमसश्चित् (*tamasaścit*)—enveloped in darkness
+- अंताः (*aṃtāḥ*)—even the edges of the sky
+
+### Printed p. 492
+- उपो अदृश्रन् (*upo adṛśran*)—are seen by people nearby
+- केतुः (*ketuḥ*)—the Sun, the indicator for the whole world
+- दिवः दुहितुः (*divaḥ duhituḥ*)—of the daughter of heaven or of the atmosphere
+- उषसः (*uṣasaḥ*)—of the goddess Dawn
+- पुरस्तात् (*purastāt*)—in the forepart, that is, in the east
+- श्रिये (*śriye*)—in order to shine
+- जायमानः (*jāyamānaḥ*)—having arisen
+- अचेति (*aceti*)—is known by all
+
+##### भावार्थ (Bhāvārtha)
+
+This morning Agni, kindled by us for the sacrifice, blazes brilliantly. Since light is spreading round the sky that till now (in the night) was enveloped in darkness, all people see the Sun, the indicator of all worlds, rising in the east following the goddess Dawn, daughter of heaven.
+
+##### English translation
+Kindled by us, Agni blazes, the extremities of the darkness are seen nigh at hand, the banner (of the sun) is perceived rising with the glory on the east of the dawn, the daughter of heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वां॑ नू॒नम॑श्विना॒ सुहो॑ता॒ स्तोमैः॑ सिषक्ति नासत्या विव॒क्वान् ।  
+> पू॒र्वीभि॑र्यातं प॒थ्या॑भिर॒र्वाक्स्व॒र्विदा॒ वसु॑मता॒ रथे॑न ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वां । नूनं । अश्विना । सुहोता । स्तोमैः । सिसक्ति । नासत्या । विवक्वान् ।  
+> पूर्वीभिः । यातं । पथ्याभिः । अर्वाक् । स्वः-विदा । वसुमता । रथेन ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना वां युवां सुहोता सुष्ठु देवानां स्तोता विवक्वान् स्तुतीनां वक्ताहं हे नासत्या सत्यभूतौ । इदमश्विनावित्यत्र योज्यं । स्तोमैः सिषक्ति । सेवते । अतोऽर्वागस्मदभिमुखं पूर्वीभिः पथ्याभिः पूर्वक्षुण्णैर्मार्गैः स्वर्विदा स्वर्गमुदकं वा जानता स्वरणवता वा वसुमता धनवता वा रथेन यातं । गच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, I, the good invoker (सुहोता (*suhotā*)), a fine praiser of the gods, and the speaker (विवक्वान् (*vivakvān*)) of praises, serve you with hymns; O नासत्या (*nāsatyā*), truthful ones. The words इदमश्विना (*idamaśvinā*) are to be supplied here. Therefore come towards us by the ancient, well-trodden paths, with a chariot that knows heaven or water (स्वर्विदा (*svarvidā*)), or is possessed of sound, and is laden with wealth.
+
 ---
 
-**Progress note:** Done through printed p. 486. pp. 481-486 (batch API)
+**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
