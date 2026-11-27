@@ -1586,6 +1586,178 @@ and other Ṛks the word शंस (*śaṃsa*) is used in the senses of slander
 > आ । यत् । ततनन् । वृजने । जनासः । एभिः । यज्ञेभिः । तत् । अभि । इष्टिं ।  
 > अश्यां ॥ १४ ॥
 
+### Printed p. 67
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुरासो वेगवंतो मरुतः युष्माकेन युष्मत्संबंधिना येन
+> परीणसा । यद्यप्येतद्बहुनामसु पठितं तथापि यद्बहु तन्महदपि भवतीत्यत्र महदित्यर्थे गृह्यते । महता युष्मदभिगमनेनैषणेन वा दीर्घमायतं सत्रादिरूपं
+> कर्म शूशवाम प्रवर्धयामः । किंच यद्येन चाभिगमनेनैषणेन वा जनासो
+> जना अस्मदीया वृजने संग्राम आ ततनन् सर्वतो विस्तारयंति । स्वसामर्थ्यैः
+> संग्रामं जयंतीत्यर्थः । तदिष्टिमेषणं गमनमेभिर्यज्ञॆभिरिदानीं क्रियमाणैः
+> स्तोत्रादिरूपैः पूजनैरभ्याभिमुख्येनाश्यां । व्याप्नुयां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the swift Maruts (तुरासः (*turāsaḥ*)): "by that परीणसा (*parīṇasā*) of yours". Although this word is read among the words for "much" (बहुनामसु (*bahunāmasu*)), whatever is much is also great, so here it is taken in the sense "great". By your great approach, or by your great desire, we make the long (दीर्घं (*dīrghaṃ*)), extended rite, such as a sattra, grow. Further, by which approach or desire our people spread out on all sides in battle (वृजने (*vṛjane*) means battle); that is, by their own strength they win the battle. May we reach (अश्यां (*aśyāṃ*), "may I obtain") that desire (इष्टिं (*iṣṭiṃ*), going or seeking), turned towards us, by these sacrifices (यज्ञेभिः (*yajñebhiḥ*)) now being performed, that is, by acts of worship consisting of hymns and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुरासः (*turāsaḥ*)—swift ones
+- मरुतः (*marutaḥ*)—O Maruts
+- युष्माकेन (*yuṣmākena*)—belonging to you
+- येन परीणसा (*yena parīṇasā*)—by which approach endowed with greatness
+- दीर्घं (*dīrghaṃ*)—extended (rite such as a sattra)
+- शूशवाम (*śūśavāma*)—we make grow
+- यत् (*yat*)—by which (approach or desire of yours)
+- जनासः (*janāsaḥ*)—(our) people
+- वृजने (*vṛjane*)—in battle
+- आ ततनन् (*ā tatanan*)—spread out on all sides (become victorious)
+- तत् (*tat*)—that
+- इष्टिं (*iṣṭiṃ*)—your (desire) approach
+- एभिः यज्ञेभिः (*ebhiḥ yajñebhiḥ*)—by these sacrifices
+- अभि अश्यां (*abhi aśyāṃ*)—may we obtain, turned towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O swift Maruts, by your approach full of greatness we augment the long rites, in the form of sattras and the like, that we are performing; and by your coming (your desire) people become victorious in battle. Such a coming of yours we desire through these sacrifices.
+
+##### English translation (H. H. Wilson)
+Quick-moving Maruts, we augment the long (offered ceremony)
+upon your mighty (approach), whereby men triumph in war.—May we
+obtain, by these our sacrifices, your wished-for (presence).
+
+##### विशेषविषयगळु (Special Topics)
+
+दीर्घं (*dīrghaṃ*)—Among sacrifices there are two kinds: those performed within a few days, and those performed over a long time, that is, throughout a year. Sacrifices such as the Darśapūrṇamāsa, the Soma sacrifices, Paśubandha, Vājapeya, Abhiplavaṣaḍaha and Aptoryāma are to be completed in a few days
+
+### Printed p. 68
+(that is, in a fixed number of days). The Sattra sacrifice is to be performed for a year or an even longer period. According to the commentator's explanation, दीर्घं (*dīrghaṃ*) here means that the Sattra sacrifice, performed over a long time, is what is meant.
+
+परीणसा (*parīṇasā*)—Since this word is read among the twelve words for "much" beginning with उरु तुवि (*uru tuvi*), it means "much" (Ni. 3-13). Here the commentator says: यद्यस्येतद्बहुनामसु पठितं तथापि यद्बहु तन्नहदपि भवतीत्यत्र महदित्यर्थे गृह्यते । महता युष्मदभिगमनेनैषणेन (*yadyasyetadbahunāmasu paṭhitaṃ tathāpi yadbahu tannahadapi bhavatītyatra mahadityarthe gṛhyate | mahatā yuṣmadabhigamanenaiṣaṇena*). That is: the word परीणसा (*parīṇasā*) is read among the words denoting "much". "Much" may also be given the meaning "great". Therefore, for this word the meaning must be stated as महता (*mahatā*), that is, "by your coming, full of greatness".
+
+##### Grammar
+
+- शूशवाम — टुओश्वि गतिवृद्ध्योः इति धातुः । अंतर्भावितण्यर्थको धातुः । उत्तमपुरुषबहुवचने मस् प्रत्ययः । लङ्वद्भावात् नित्यं जातः इति प्रत्ययसकारस्य लोपः । व्यत्ययेन शपः श्लु विकरणम् । बहुलं छंदसि इति धातोः संप्रसारणम् । यद्वा यज्लुजंतात् पूर्ववत् प्रत्यये परे विभाषाश्वेः इति संप्रसारणम् । द्वित्वम् । आडुत्तमस्य पिच्च (पा. सू. ३-४-९२) इति प्रत्ययस्य आडागमः । पित्त्वात् तं निमित्तीकृत्य धातोरिको गुणः । अवादेशः । यद्वृत्तानित्यं (पा. सू ८-१-६६) इति निघातस्वरप्रतिषेधात् धातुस्वरो शिष्यते ।
+- युष्माकेन — युष्माकं अयं युष्माकः इति संबंधार्थे अण् प्रत्ययः । तस्मिन्नणिच युष्माकास्माक् (पा सू. ४-३-२) इति प्रकृतेर्युष्माकादेशः । संज्ञापूर्वको विधिरनित्यः इति वचनात् प्रत्ययनिमित्ता वृद्धिर्न भवति । व्यत्ययेन प्रत्ययात् पूर्वमुदात्तस्वरो भवति ।
+- तुरासः — छांदसत्वात् मत्त्वर्थप्रत्ययस्य लुक् । जसः असुकागमः । आमंत्रितनिघातस्वरो भवति ।
+- ततनन् — तनु विस्तारे इति धातुः । लेट् प्रथमपुरुषबहुवचने झि प्रत्ययः । झोंतः इति अंतादेशः । इतश्च लोपः प— (पा. सू. ३-४-९४) इति इकारलोपः । बहुलं छंदसि इति विकरणस्य श्लु आदेशः । तं निमित्तीकृत्य धातोर्द्वित्वम् । यद्योगात् निघातस्वरो न भवति । धातुस्वरो शिष्यते ।
+- वृजने — वृजी वर्जने इति धातुः । कृप्यवृजि— (उ. सू. २-२३९) इति क्यु प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । युवोरनाक् (पा. सू. ७-१-१) इति तस्य अनादेशः । प्रत्ययस्य आद्युदात्तस्वरो भवति । सप्तम्यंतरूपम् ।
+
+### Printed p. 69
+- जनासः — अज्ज सेरसुक् इति जसो असुकागमः ।
+- यज्ञेभिः — बहुलं छंदसि इति भिस ऐस्‌भावविकल्पो विहितत्वात् न भवति । बहुवचने झल्येत् इति एत्वं भवति ।
+- इष्टिं — इष गतौ इति धातुः । स्त्रीयां क्तिन् इति भावार्थे क्तिन् प्रत्ययः । ष्टुत्वेन तस्य टकारादेशः । इत्यादिर्नित्यं इति अमृतात्तस्वरो भवति ।
+- अश्यां — अशू व्याप्तौ इति धातुः । लिज् उत्तमपुरुषएकवचने तस्‌थस्‌थमिपां— पा. सू. (३-४-१०१) इति मिसो अमादेशः । व्यत्ययेन परस्मैपदी भवति । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययस्य यासुटागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वः॒ स्तोमो॑ मरुत इ॒यं गीर्मां॑दा॒र्यस्य॑ मा॒न्यस्य॑ का॒रोः।  
+> एषा या॑सीष्ट त॒न्वे॑ व॒यां वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वः । स्तोमः । मरुतः । इयं । गीः । मांदार्यस्य । मान्यस्य । कारोः ।  
+> आ । इषा । यासीष्ट । तन्ने । वयां । विद्याम । इषं । वृजनं । जीरदानुं ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं मंत्रस्तृतीयाध्यायांते व्याख्यातः । सूक्तोपक्रमप्रकृति क्रियमाणां स्तुतिं मरुद्भ्यः समर्प्य स्वाभीष्टमाशास्त्रे । हे मरुतः एष स्तोम
+> इदानीं कृतं स्तोत्रं वो युष्माकं । युष्मदर्थमित्यर्थः । तथेयं गीः
+> स्तुतिरूपा वागपि वो युष्माकं । कस्य संबंधीदमिति तदुच्यते । मांदार्यस्य ॥
+> मंदतेरीयतेश्च मांदार्यः ॥ स्तुतिं प्रेरयतो मान्यस्य माननार्हस्य कारोः ।
+> स्तोतृनामैतत् । स्तोतुः संबंधि । यद्वा । एतत्पदत्रयमुत्तरत्र संबध्यते ।
+
+##### Gist of the bhāṣya
+
+This mantra has been explained at the end of the third adhyāya. Having offered to the Maruts the praise that has been offered since the beginning of the sūkta, the seer asks for what he wishes. "O Maruts, this स्तोमः (*stomaḥ*), the hymn just made, is for you (वः (*vaḥ*)), that is, for your sake. Likewise this गीः (*gīḥ*), the speech in the form of praise, is yours." Whose is it? That is told: of the मांदार्यस्य (*māṃdāryasya*), explained as मंदतेरीयतेश्च मांदार्यः (*maṃdaterīyateśca māṃdāryaḥ*), one who sends forth praise; of the मान्यस्य (*mānyasya*), the one worthy of honour; of the कारोः (*kāroḥ*) (कारु (*kāru*) is a word for a praiser), that is, belonging to the praiser. Or else, these three words are connected with what follows:
+
+### Printed p. 70
+
+> उक्तलक्षणस्तोतुरिषेच्छया कामनया तन्ने युष्मच्छरीरवृद्धि । स्तुत्या हि शरीरं
+> वर्धते । आ यासीष्ट । अभिगच्छतु स्तुतिः । वयां वयं चेषमन्नं वृजनं बलं
+> जीरदानुं चिरकालजीवनं च विद्याम । लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+by the wish, the desire, of the praiser so described, for the growth of your bodies (तन्वे (*tanve*)); for by praise the body grows. May the praise come (आ यासीष्ट (*ā yāsīṣṭa*)), approach you. And may we obtain (विद्याम (*vidyāma*)) food (इषं (*iṣaṃ*)), strength (वृजनं (*vṛjanaṃ*)) and long life (जीरदानुं (*jīradānuṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- एषः (*eṣaḥ*)—this (made up to now)
+- स्तोमः (*stomaḥ*)—hymn
+- वः (*vaḥ*)—to you (may it be pleasing)
+- इयं गीः (*iyaṃ gīḥ*)—this speech in the form of praise
+- वः (*vaḥ*)—for you (therefore)
+- मांदार्यस्य (*māṃdāryasya*)—of one who causes you delight (by praises)
+- मान्यस्य (*mānyasya*)—honourable (by you, through bestowal of boons and the like), or worthy of honour (venerable)
+- कारोः (*kāroḥ*)—of the praiser
+- इषा (*iṣā*)—by desire
+- तन्वे (*tanve*)—for the (nourishment of the) body
+- आ यासीष्ट (*ā yāsīṣṭa*)—come
+- वयां (*vayāṃ*)—we
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may the praise made up to now, and this speech (being made now), bring you satisfaction. Come, by the desire of the praiser, who gives you delight by praises and the like and is honourable, for the nourishment of your bodies; and having come, grant us also food, strength and long life.
+
+##### English translation (H. H. Wilson)
+This praise, Maruts, is for you: this hymn is for you; (the work) of a venerable author, capable of conferring delight (by his laudationi): may the praise reach you (for the good of your) persons, so that we may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, the last of the sūkta, the seer offers the praise to the gods and prays that they give the favours of food, strength, long life, victory and the like. This Ṛk is read again at the end of the preceding sūkta, that is 1-165, and also of the sūktas 1-166, 1-167 and 1-168. Moreover, the last pāda of this Ṛk, विद्यामेषं वृजनं जीरदानुं (*vidyāmeṣaṃ vṛjanaṃ jīradānuṃ*), is read again in many following sūktas seen by this seer.
+
+मांदार्यस्य (*māṃdāryasya*)—मंदतेरीयतेश्च मांदार्यः (*maṃdaterīyateśca māṃdāryaḥ*). The meaning is: of the praiser who urges you on by hymns and the like.
+
+### Printed p. 71
+मान्यस्य (*mānyasya*)—honourable (by you), through bestowal of boons and the like. The sense is that you favour those who praise you by granting them boons.
+
+कारोः (*kāroḥ*)—Since the word कारु (*kāru*) is read among the thirteen words for praiser beginning with रेभः जरिता (*rebhaḥ jaritā*) (Ni. 3-19), कारोः (*kāroḥ*) means "of the one who praises". And for the word कारू (*kārū*) the explanation given is यज्ञस्य कर्तारौ (*yajñasya kartārau*) (the two Ṛtvijs), the priests who take part in the sacrifice (Ni. 8-12).
+
+तन्वे (*tanve*)—युष्मच्चरीरवृद्धि (*yuṣmaccarīravṛddhi*): for the growth of your (bodies). It is well known that the gods grow by being praised. In many Ṛks, in place of a word meaning "praise", the word meaning "grow" is found used. For example:
+त्वां स्तोमा अवीवृधन् त्वामुक्था शतक्रतो । त्वां वर्ध० नो गिरः । (*tvāṃ stomā avīvṛdhan tvāmukthā śatakrato | tvāṃ vardha0 no giraḥ |*) (Ṛ. Saṃ. 1-5-8)
+इमा उ त्वा पुरूवसो गिरो वर्धंतु या मम । (*imā u tvā purūvaso giro vardhaṃtu yā mama |*) (Ṛ. Saṃ. 8-3-3)
+अग्निं वर्धंतु नो गिरो यतो जायत उक्तः । (*agniṃ vardhaṃtu no giro yato jāyata uktaḥ |*) (Ṛ. Saṃ. 3-10-6)
+वर्धं तु त्वा सुष्टुतयो गिरो मे यूयं पात स्वस्तिभिः सदा नः । (*vardhaṃ tu tvā suṣṭutayo giro me yūyaṃ pāta svastibhiḥ sadā naḥ |*) (Ṛ. Saṃ. 7-99-7)
+In these Ṛks and the like it is said that the gods grow by the hymns made by the priests.
+
+##### Grammar
+
+- मांदार्यास्य — मदि स्तुतिमोदमदस्वप्नकांतिगतिषु इति धातुः । ईर गतौ प्रेरणे च इति धातुः । एभ्यः पृषोदरादीनि यथोपदिष्टं इति सिद्ध्यति ।
+- कारोः — डुकृञ् करणे इति धातुः । करोतीति कारुः । कृवपाजिमि— (उ. सू. १-१) इति उण् प्रत्ययः । णित्त्वात् अचोञ्णिति इति वृद्धिः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- इषा — इषु इच्छायां इति धातुः । क्विप् च इति क्विप् प्रत्ययः । तृतीयैकवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेरुदात्तस्वरो भवति ।
+
+### Printed p. 72
+- यासीष्ट — या प्रापणे इति धातुः । व्यत्ययो बहुलं इति आत्मनेपदी भवति । लिज् प्रथमपुरुषएकवचने त प्रत्ययः । सुट् शिथोः (पा. सू. ३-४-१०७) इति सुडागमः । लिजः सीयुट् (पा. सू. ३-४-१०२) इति सीयुटागमः । यलोपः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- तन्वे — तन शब्दात् चतुर्थीएकवचने परे तन्वादीनां छंदस्युपसंख्यानं इति वचनात् यणादेशः । उदात्तस्वरितयोर्यणः स्वरितोनुदात्तस्य (पा. सू. ८-२-४) इति विभक्तेः स्वरितस्वरो भवति ।
+- वयां — अस्मद् जस् इति स्थिते जे प्रथमयोरम् इति प्रत्ययस्य अवादेशः । यूयवयौ जसि इति प्रकृतेर्वयादेशः । व्यत्ययेन आत्वं भवति ।
+- विद्याम — विद्‌ल्य लाभे इति धातुः । लिज् उत्तमपुरुषबहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- जीरदानुं — जीरः दानुः यस्य सः जीरदानुः तम् । बहुव्रीहौ प्रकृत्यापूर्वपदं इति पूर्वपदप्रकृतिस्वरो भवति ।
+
+## Sūkta 167 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रं त इत्येकादशर्चं तृतीयं सूक्तमागस्त्यं त्रैष्टुभं । आद्यैंद्री
+> शिष्टा मरुद्देवताकाः पूर्वत्र हिशब्दात् । सहस्रमेकादशाद्यैंद्रीत्यनुक्रमणिका ॥
+> विशेषविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सहस्रं ते (*sahasraṃ te*), of eleven Ṛks, is the third sūkta; its seer is Agastya, its metre Triṣṭubh. The first Ṛk is addressed to Indra; the remaining Ṛks have the Maruts as deity, because of the word हि (*hi*) in the earlier Ṛk. The Anukramaṇikā says: सहस्रमेकादशाद्यैंद्री (*sahasramekādaśādyaiṃdrī*). The special application (viniyoga) is by the Liṅga (indication in the text).
+
+##### Anuvāda
+
+This sūkta beginning सहस्रं ते (*sahasraṃ te*) is the third sūkta in the twenty-third anuvāka. It contains eleven Ṛks. Agastya is the seer of this sūkta. The metre is Triṣṭubh. The first Ṛk has Indra as deity. The remaining Ṛks have the Maruts as deity. The Anukramaṇikā says: सहस्रमेकादशाद्यैंद्री (*sahasramekādaśādyaiṃdrī*). The special application is by the Liṅga.
+
 ---
 
-**Progress note:** Done through printed p. 66. pp. 61-66 (batch API)
+**Progress note:** Done through printed p. 72. pp. 67-72 (batch API)
