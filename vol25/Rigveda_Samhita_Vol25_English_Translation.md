@@ -6364,7 +6364,7 @@ On the fifth day of the sacrifice, when the Marutvatīya śastra mantras are rec
 
 ##### Gist of the bhāṣya
 
-O Indra, wielder of the thunderbolt (adrivaḥ), accompanied by the Maruts, for you alone the Soma juices are pressed. And the reciters of recitations (ukthinaḥ), possessed of śastras, call them for you with the heart, that is, with the mind, in devotion.
+O Indra, wielder of the thunderbolt (adrivaḥ), accompanied by the Maruts, for you alone the Soma juices are pressed. And those Soma juices, which belong to the reciters of recitations (ukthinaḥ) and are accompanied by śastras, are offered for you with the heart, that is, with the mind, in devotion.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -11931,7 +11931,7 @@ By this Ṛk the seer prays that Indra may do thus. In all battles, in the wars 
 - हव्यः (*havyaḥ*)—he who is prayed to and called for protection
 - वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra, or the remover of sin
 - परमज्याः (*paramajyāḥ*)—he who has an imperishable bowstring
-- ऋचीषमः (*ṛcīṣamaḥ*)—he who becomes manifest before us through praises
+- ऋचीषमः (*ṛcīṣamaḥ*)—he who is to be turned towards us by praises
 - इंद्रः (*iṃdraḥ*)—Indra
 - नः (*naḥ*)—our
 - ब्रह्माणि (*brahmāṇi*)—hymns or oblations in the form of food
@@ -12566,7 +12566,7 @@ The Anuvāda: this sūkta, पांतमा वः (*pāṃtamā vaḥ*), is t
 
 ### Printed p. 323
 
-as it is indicated in the Fifth Āraṇyaka of the Āraṇyaka by the sentence पुरुहूतं पुरुष्टुतेति शेषः (*puruhūtaṃ puruṣṭuteti śeṣaḥ*) (Ai. Ā. 5-23) **NOTE**. And in the first rātri-paryāya, the śastra mantras recited by the Hotṛ are to be recited with two tṛcas (six Ṛks) of this sūkta as the stotriya and anurūpa tṛcas, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra: पांतमा वो अंधसोऽपादु शिप्र्यंधसः (*pāṃtamā vo aṃdhaso 'pādu śipryaṃdhasaḥ*) (Ā. Sū. 6-4).
+as it is indicated in the Fifth Āraṇyaka of the Āraṇyaka by the sentence पुरुहूतं पुरुष्टुतेति शेषः (*puruhūtaṃ puruṣṭuteti śeṣaḥ*) (Ai. Ā. 5-23) **NOTE**. And in the first rātri-paryāya, the śastra mantras recited by the Hotṛ are to be recited with two tṛcas (six Ṛks) of this sūkta as the stotriya and anurūpa tṛcas, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra: पांतमा वो अंधसोऽपादु शिप्र्यंधसः (*pāṃtamā vo aṃdhaso 'pādu śipryaṃdhasaḥ*) (Ā. 6-4).
 
 Sūkta 92.
 Maṇḍala 8; Anuvāka 9; Sūkta 92.
@@ -18163,7 +18163,7 @@ Again and again I invoke the strong Indra, Maghavan, who alone really possess mi
 
 ##### Gist of the bhāṣya
 
-O Śaviṣṭha, most mighty, and therefore O Śakra, able to slay enemies, O Indra: you are known (चिकित् (*cikit*)) to be able to destroy by your own splendour (ओजसा (*ojasā*)) these (एनाः (*enāḥ*), an anvādeśa form) cities (पुरः (*puraḥ*)) of Śambara. Again he praises Indra's power: O thunderer (वज्रिन् (*vajrin*)), all beings (भुवनानि (*bhuvanāni*)) tremble from fear of you; likewise heaven and earth (द्यावापृथिवी (*dyāvāpṛthivī*)) tremble (रेजेते (*rejete*)) with fear (भीषा (*bhīṣā*)) of you. The Nigama is अरेजेतां रोदसी (*arejetāṃ rodasī*) (Ṛ. Saṃ. 1. 31. 3). The meaning is that all depend on you.
+O Śaviṣṭha, most mighty, and therefore O Śakra, able to slay enemies, O Indra: you are the knower (चिकित् (*cikit*)), able to destroy by your own splendour (ओजसा (*ojasā*)) these (एनाः (*enāḥ*), an anvādeśa form) cities (पुरः (*puraḥ*)) of Śambara. Again he praises Indra's power: O thunderer (वज्रिन् (*vajrin*)), all beings (भुवनानि (*bhuvanāni*)) tremble from fear of you; likewise heaven and earth (द्यावापृथिवी (*dyāvāpṛthivī*)) tremble (रेजेते (*rejete*)) with fear (भीषा (*bhīṣā*)) of you. The Nigama is अरेजेतां रोदसी (*arejetāṃ rodasī*) (Ṛ. Saṃ. 1. 31. 3). The meaning is that all depend on you.
 
 ### Printed p. 472
 
@@ -19880,7 +19880,7 @@ The hundred and first sūkta.
 
 ##### Gist of the bhāṣya
 
-The sūkta beginning ऋधक् (*ṛdhak*), of sixteen Ṛks, is the eighth sūkta. The Anukramaṇī says of it: sixteen Ṛks, seer Jamadagni Bhārgava, Maitrāvaruṇa and Prāgātha, triṣṭubh at the end, the third and others Gāyatrī, Satobṛhatī, a laud for the kings, the two Ṛks to the Ādityas and Aśvins, the two to Vāyu, the two to Sūrya, Bṛhatī, to Uṣas or the praise of Sūrya's radiance, Pavamānī, the two to the cow. The seer is Jamadagni of the Bhṛgu lineage. The three beginning with the fourteenth are Triṣṭubh; the thirteenth is Bṛhatī; of the rest, the odd ones are Bṛhatī and the even ones Satobṛhatī; the third is Gāyatrī. The Ṛk with the foot स्तोत्रं राजसु गायत (*stotraṃ rājasu gāyata*) together with a foot, and the Ṛk ते हिन्विरे (*te hinvire*), are addressed to the Ādityas; the two Ṛks आ मे वचांसि (*ā me vacāṃsi*) are addressed to the Aśvins; the two Ṛks आ नो यज्ञं दिविस्पृशम् (*ā no yajñaṃ divispṛśam*) to Vāyu; the two Ṛks बण्महाँ असि सूर्य (*baṇmahām̐ asi sūrya*) to Sūrya; the Ṛk इयं या नीची (*iyaṃ yā nīcī*) to Uṣas, or else Sūrya's radiance is praised by it, so that that is its deity; the Ṛk प्रजा ह तिस्रः (*prajā ha tisraḥ*) is addressed to Pavamāna; the two Ṛks माता रुद्राणाम् (*mātā rudrāṇām*) to the cow; the remaining five Ṛks are addressed to Mitra and Varuṇa. The use of the sūkta is by indication: for victory in battle, when the king arms himself, he is to be made to recite the two Ṛks प्र यो वां मित्रावरुणा (*pra yo vāṃ mitrāvaruṇā*), as the sūtra says (Āśvalāyana Gṛhya Sūtra 3. 12. 12). On the fifth day of the Pṛṣṭhya, at the Praüga, the first two Ṛks of the Vāyavya triplet are the two beginning आ नो यज्ञम् (*ā no yajñam*), as the sūtra says (Āśvalāyana Śrauta Sūtra 7. 12). The Hotṛ, about to recite the Āśvina, is to make an offering in the fire with the two Ṛks बण्महाँ असि सूर्य (*baṇmahām̐ asi sūrya*) (Āśvalāyana Śrauta Sūtra 6. 5). At the midday pressing, with a surplus of Soma, one śastra is produced there, in which the Pragātha बण्महाँ असि (*baṇmahām̐ asi*) is the stotriya (Āśvalāyana Śrauta Sūtra 6. 7). The same Pragātha is on the Cāturviṃśika day the alternative anurūpa of the Brāhmaṇācchaṃsin at the midday pressing (Āśvalāyana Śrauta Sūtra 7. 4). At the madhuparka, on releasing the cow, one is to mutter माता रुद्राणाम् (*mātā rudrāṇām*) (Āśvalāyana Gṛhya Sūtra 1. 24. 25).
+The sūkta beginning ऋधक् (*ṛdhak*), of sixteen Ṛks, is the eighth sūkta. The Anukramaṇī says of it: sixteen Ṛks, seer Jamadagni Bhārgava, Maitrāvaruṇa and Prāgātha, triṣṭubh at the end, the third and others Gāyatrī, Satobṛhatī, a laud for the kings, the two Ṛks to the Ādityas and Aśvins, the two to Vāyu, the two to Sūrya, Bṛhatī, to Uṣas or the praise of Sūrya's radiance, Pavamānī, the two to the cow. The seer is Jamadagni of the Bhṛgu lineage. The three beginning with the fourteenth are Triṣṭubh; the thirteenth is Bṛhatī; of the rest, the odd ones are Bṛhatī and the even ones Satobṛhatī; the third is Gāyatrī. The Ṛk ते हिन्विरे (*te hinvire*), together with the foot स्तोत्रं राजसु गायत (*stotraṃ rājasu gāyata*), is addressed to the Ādityas; the two Ṛks आ मे वचांसि (*ā me vacāṃsi*) are addressed to the Aśvins; the two Ṛks आ नो यज्ञं दिविस्पृशम् (*ā no yajñaṃ divispṛśam*) to Vāyu; the two Ṛks बण्महाँ असि सूर्य (*baṇmahām̐ asi sūrya*) to Sūrya; the Ṛk इयं या नीची (*iyaṃ yā nīcī*) to Uṣas, or else Sūrya's radiance is praised by it, so that that is its deity; the Ṛk प्रजा ह तिस्रः (*prajā ha tisraḥ*) is addressed to Pavamāna; the two Ṛks माता रुद्राणाम् (*mātā rudrāṇām*) to the cow; the remaining five Ṛks are addressed to Mitra and Varuṇa. The use of the sūkta is by indication: for victory in battle, when the king arms himself, he is to be made to recite the two Ṛks प्र यो वां मित्रावरुणा (*pra yo vāṃ mitrāvaruṇā*), as the sūtra says (Āśvalāyana Gṛhya Sūtra 3. 12. 12). On the fifth day of the Pṛṣṭhya, at the Praüga, the first two Ṛks of the Vāyavya triplet are the two beginning आ नो यज्ञम् (*ā no yajñam*), as the sūtra says (Āśvalāyana Śrauta Sūtra 7. 12). The Hotṛ, about to recite the Āśvina, is to make an offering in the fire with the two Ṛks बण्महाँ असि सूर्य (*baṇmahām̐ asi sūrya*) (Āśvalāyana Śrauta Sūtra 6. 5). At the midday pressing, with a surplus of Soma, one śastra is produced there, in which the Pragātha बण्महाँ असि (*baṇmahām̐ asi*) is the stotriya (Āśvalāyana Śrauta Sūtra 6. 7). The same Pragātha is on the Cāturviṃśika day the alternative anurūpa of the Brāhmaṇācchaṃsin at the midday pressing (Āśvalāyana Śrauta Sūtra 7. 4). At the madhuparka, on releasing the cow, one is to mutter माता रुद्राणाम् (*mātā rudrāṇām*) (Āśvalāyana Gṛhya Sūtra 1. 24. 25).
 
 Anuvāda: This sūkta beginning ऋधक् (*ṛdhak*) is the eighth sūkta in the tenth Anuvāka. It has sixteen Ṛks. In the Anukramaṇī it is said that the sūkta has sixteen Ṛks, seer Jamadagni Bhārgava, Maitrāvaruṇa and Prāgātha, triṣṭubh at the end, the third and others Gāyatrī, Satobṛhatī, a laud for the kings, two Ṛks for the Ādityas and Aśvins, two Vāyavya, two Sūrya, Bṛhatī, Uṣas or the praise of Sūrya's radiance, Pavamānī, two for the cow. **NOTE** This sūkta has as seer Jamadagni, born in the lineage of Bhṛgu; in this sūkta the three Ṛks following the fourteenth (14-16) are in the Triṣṭubh metre. The thirteenth Ṛk is in the Bṛhatī metre. Of the remaining Ṛks the odd-numbered are in the Bṛhatī metre; the even-numbered are in the Satobṛhatī metre. The third Ṛk is in the Gāyatrī metre. The fourth foot of the fifth Ṛk, स्तोत्रं राजसु गायत (*stotraṃ rājasu gāyata*), and the sixth Ṛk are addressed to the Ādityas; the two Ṛks beginning आ नो वचांसि (*ā no vacāṃsi*), the 7th and 8th, are addressed to the Aśvins; the two Ṛks आ नो यज्ञं दिविस्पृशं (*ā no yajñaṃ divispṛśaṃ*) (Ṛks 9-10) are addressed to Vāyu; the two Ṛks बण्म्रहा असि सूर्य (*baṇmrahā asi sūrya*) (Ṛks 11-12) are addressed to Sūrya; the Ṛk इयं या नीची (*iyaṃ yā nīcī*) is addressed to Uṣas, or else in this Ṛk there is also praise of Sūrya's radiance; therefore it may be said that the praise of Sūrya's radiance is the deity of this Ṛk. The fourteenth Ṛk प्रजा हि तिस्रः (*prajā hi tisraḥ*) is addressed to Pavamāna. The two Ṛks माता रुद्राणां (*mātā rudrāṇāṃ*) (Ṛks 15-16) are addressed to the cow. The remaining five Ṛks of this sūkta are addressed to Mitra and Varuṇa. The use of the sūkta is by indication: that for gaining victory a king who has set out armed for battle should be made to recite the two Ṛks प्र यो वां मित्रावरुणा (*pra yo vāṃ mitrāvaruṇā*) (Ṛks 3-4) is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra अभीवर्तं वाचयति प्र यो वां मित्रावरुणेति च द्वे (*abhīvartaṃ vācayati pra yo vāṃ mitrāvaruṇeti ca dve*) (Ā. Gṛ. 3-12-12).
 
@@ -27710,6 +27710,16 @@ The sūkta beginning परि प्र (*pari pra*) has eight Ṛks and is the
 
 This sūkta beginning परि प्र (*pari pra*) is the fourteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta; in the Anukramaṇikā it is said परि प्राष्टा (*pari prāṣṭā*). The use has been stated before.
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 14. Aṣṭaka 6; Adhyāya 8; Varga 3, 4. Number of Ṛks in the sūkta: 8.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -28060,6 +28070,16 @@ The sūkta beginning एष धिया (*eṣa dhiyā*) has eight Ṛks and is
 
 This sūkta beginning एष धिया (*eṣa dhiyā*) is the fifteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said एष धिया (*eṣa dhiyā*). The use has been stated before.
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 15. Aṣṭaka 6; Adhyāya 8; Varga 5. Number of Ṛks in the sūkta: 8.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 ### Printed p. 700
 
 #### Ṛk 1
@@ -28408,6 +28428,16 @@ The sūkta beginning प्र ते सोतारः (*pra te sotāraḥ*) h
 
 This sūkta beginning प्र ते सोतारः (*pra te sotāraḥ*) is the sixteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र ते (*pra te*). The use has been stated before.
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 16. Aṣṭaka 6; Adhyāya 8; Varga 6. Number of Ṛks in the sūkta: 8.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 ### Printed p. 708
 
 #### Ṛk 1
@@ -28672,7 +28702,7 @@ Purified in his woollen robe, and attaining all honours, he stands as a hero ami
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says: As water, raised up from the heaven, from the firmament, falls down, so the stream of the pressed Soma, of the maker, the producer of strength, which refreshes, goes in vain, that is, without effort, to the filter of ten threads.
+Sāyaṇa says: As water, raised up from the heaven, from the firmament, falls down, so the stream of the pressed Soma, of the maker, the producer of strength, which refreshes, goes freely, that is, without effort, to the filter of ten threads.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -28749,6 +28779,16 @@ You, Soma, ( protect ) the worshipper amongst men, and purified by the cloth you
 The sūkta beginning प्र निम्नेनेव (*pra nimneneva*) has eight Ṛks and is the seventeenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as प्र निम्नेनेव (*pra nimneneva*). The use has been stated.
 
 This sūkta beginning प्र निम्नेनेव (*pra nimneneva*) is the seventeenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र निम्नेनेव (*pra nimneneva*). The use has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 17. Aṣṭaka 6; Adhyāya 8; Varga 7. Number of Ṛks in the sūkta: 8.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
 
 #### Ṛk 1
 
@@ -29095,6 +29135,16 @@ The sūkta beginning परि सुवानः (*pari suvānaḥ*) has seven 
 
 This sūkta beginning परि सुवानः (*pari suvānaḥ*) is the eighteenth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said परि सुवानः सप्त (*pari suvānaḥ sapta*). The use has been stated before.
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 18. Aṣṭaka 6; Adhyāya 8; Varga 8. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā **NOTE**.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -29391,6 +29441,16 @@ This vigorous Soma, while being purified, murmurs in the pitchers; you are the g
 The sūkta beginning यत् सोम (*yat soma*) has seven Ṛks and is the nineteenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as यत् सोम (*yat soma*). The use has been stated.
 
 This sūkta beginning यत्सोम (*yatsoma*) is the nineteenth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said यत्सोम (*yatsoma*). The use has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 19. Aṣṭaka 6; Adhyāya 8; Varga 9. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
 
 ### Printed p. 730
 
@@ -29694,6 +29754,16 @@ The sūkta beginning प्र कविः (*pra kaviḥ*) has seven Ṛks and 
 
 This sūkta beginning प्र कविः (*pra kaviḥ*) is the twentieth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र कविः (*pra kaviḥ*). The use of the sūkta has been stated before.
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 20. Aṣṭaka 6; Adhyāya 8; Varga 10. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 ### Printed p. 737
 
 #### Ṛk 1
@@ -29990,6 +30060,16 @@ Soma, you proceed to the straining-cloth, sportive and generous, like a gift, gi
 The sūkta beginning एते धावंति (*ete dhāvaṃti*) has seven Ṛks and is the twenty-first sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as एते धावंति (*ete dhāvaṃti*). The use has been stated.
 
 This sūkta beginning एते धावंति (*ete dhāvaṃti*) is the twenty-first sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as before. In the Anukramaṇikā it is said एते धावंति (*ete dhāvaṃti*). The use of the sūkta has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 21. Aṣṭaka 6; Adhyāya 8; Varga 11. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
 
 #### Ṛk 1
 
@@ -33364,6 +33444,16 @@ Translation of the Kannada: This sūkta beginning प्र सोमासः (
 
 Sūkta 33. Maṇḍala 9, Anuvāka 2, Sūkta 33. Aṣṭaka 6, Adhyāya 8, Varga 23. Number of ṛks in the sūkta: 6. Ṛṣi: त्रितः (*tritaḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 33. Aṣṭaka 6; Adhyāya 8; Varga 23. Number of Ṛks in the sūkta: 6.
+
+Seer: Tritaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -33617,6 +33707,16 @@ Translation of the Kannada: This sūkta beginning प्र सुवानः (
 
 Sūkta 34. Maṇḍala 9, Anuvāka 2, Sūkta 34. Aṣṭaka 6, Adhyāya 8, Varga 24. Number of ṛks in the sūkta: 6. Ṛṣi: त्रितः (*tritaḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 34. Aṣṭaka 6; Adhyāya 8; Varga 24. Number of Ṛks in the sūkta: 6.
+
+Seer: Tritaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -33869,6 +33969,16 @@ The sūkta beginning आ नः (*ā naḥ*) has six ṛks and is the eleventh s
 Translation of the Kannada: This sūkta beginning आ नः (*ā naḥ*) is the eleventh sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is Prabhūvasu Āṅgirasa; the deity is Pavamāna Soma; the metre is Gāyatrī. What the Anukramaṇī says, आ नः पवस्व प्रभूवसुः (*ā naḥ pavasva prabhūvasuḥ*), is the ritual use, which has been stated before.
 
 Sūkta 35. Maṇḍala 9, Anuvāka 2, Sūkta 35. Aṣṭaka 6, Adhyāya 8, Varga 35 **NOTE**. Number of ṛks in the sūkta: 6. Ṛṣi: प्रभूवसुः (*prabhūvasuḥ*). Devatā: पवमानः सोमुः (*pavamānaḥ somuḥ*). Chandas: गायत्री (*gāyatrī*).
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 35. Aṣṭaka 6; Adhyāya 8; Varga 35 **NOTE**. Number of Ṛks in the sūkta: 6.
+
+Seer: Prabhūvasuḥ.
+
+Deity: Pavamānaḥ Somaḥ **NOTE**.
+
+Metre: Gāyatrī.
 
 ### Printed p. 829
 
@@ -34126,6 +34236,16 @@ Translation of the Kannada: This sūkta beginning असर्जि (*asarji*) 
 
 Sūkta 36. Maṇḍala 9, Anuvāka 2, Sūkta 36. Aṣṭaka 6, Adhyāya 8, Varga 26. Number of ṛks in the sūkta: 6. Ṛṣi: प्रभूवसुः (*prabhūvasuḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 36. Aṣṭaka 6; Adhyāya 8; Varga 26. Number of Ṛks in the sūkta: 6.
+
+Seer: Prabhūvasuḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -34380,6 +34500,16 @@ The sūkta beginning स सुतः (*sa sutaḥ*) has six ṛks and is the th
 Translation of the Kannada: This sūkta beginning स सुतः (*sa sutaḥ*) is the thirteenth sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is one named Rahūgaṇa; the deity is Pavamāna Soma; the metre is Gāyatrī. What the Anukramaṇī says, स सुतो रहूगणः (*sa suto rahūgaṇaḥ*), is the ritual use, which has been stated before.
 
 Sūkta 37. Maṇḍala 9, Anuvāka 2, Sūkta 37. Aṣṭaka 6, Adhyāya 8, Varga 37 **NOTE**. Number of ṛks in the sūkta: 6. Ṛṣi: रहूगणः (*rahūgaṇaḥ*). Devatā: पवमानः सोमुः (*pavamānaḥ somuḥ*). Chandas: गायत्री (*gāyatrī*).
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 37. Aṣṭaka 6; Adhyāya 8; Varga 37 **NOTE**. Number of Ṛks in the sūkta: 6.
+
+Seer: Rahūgaṇaḥ.
+
+Deity: Pavamānaḥ Somaḥ **NOTE**.
+
+Metre: Gāyatrī.
 
 ### Printed p. 840
 
@@ -34640,6 +34770,16 @@ Translation of the Kannada: This sūkta beginning एषः (*eṣaḥ*) is the 
 
 Sūkta 38. Maṇḍala 9, Anuvāka 2, Sūkta 38. Aṣṭaka 6, Adhyāya 8, Varga 28. Number of ṛks in the sūkta: 6. Ṛṣi: रहूगणः (*rahūgaṇaḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 38. Aṣṭaka 6; Adhyāya 8; Varga 28. Number of Ṛks in the sūkta: 6.
+
+Seer: Rahūgaṇaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -34896,6 +35036,16 @@ Translation of the Kannada: This sūkta beginning आशुरर्ष (*āśur
 
 Sūkta 39. Maṇḍala 9, Anuvāka 2, Sūkta 39. Aṣṭaka 6, Adhyāya 8, Varga 29. Number of ṛks in the sūkta: 6. Ṛṣi: बृहन्मतिः (*bṛhanmatiḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 39. Aṣṭaka 6; Adhyāya 8; Varga 29. Number of Ṛks in the sūkta: 6.
+
+Seer: Bṛhanmatiḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 ### Printed p. 851
 
 #### Ṛk 1
@@ -35150,6 +35300,16 @@ The sūkta beginning पुनानः (*punānaḥ*) has six ṛks and is the 
 Translation of the Kannada: This sūkta beginning पुनानः (*punānaḥ*) is the sixteenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, पुनानः (*punānaḥ*), is the ritual use, which has been stated before.
 
 Sūkta 40. Maṇḍala 9, Anuvāka 2, Sūkta 40. Aṣṭaka 6, Adhyāya 8, Varga 30. Number of ṛks in the sūkta: 6. Ṛṣi: बृहन्मति (*bṛhanmati*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 40. Aṣṭaka 6; Adhyāya 8; Varga 30. Number of Ṛks in the sūkta: 6.
+
+Seer: Bṛhanmatiḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
 
 #### Ṛk 1
 
@@ -35411,6 +35571,16 @@ Translation of the Kannada: This sūkta beginning प्र ये गावः 
 
 Sūkta 41. Maṇḍala 9, Anuvāka 2, Sūkta 41. Aṣṭaka 6, Adhyāya 8, Varga 31. Number of ṛks in the sūkta: 6. Ṛṣi: मेध्यातिथिः (*medhyātithiḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
 
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 41. Aṣṭaka 6; Adhyāya 8; Varga 31. Number of Ṛks in the sūkta: 6.
+
+Seer: Medhyātithiḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -35667,6 +35837,16 @@ The sūkta beginning जनयन् (*janayan*) has six ṛks and is the eighte
 Translation of the Kannada: This sūkta beginning जनयन् (*janayan*) is the eighteenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, जनयन् (*janayan*), is the ritual use, which has been stated before.
 
 Sūkta 42. Maṇḍala 9, Anuvāka 2, Sūkta 42. Aṣṭaka 6, Adhyāya 8, Varga 32. Number of ṛks in the sūkta: 6. Ṛṣi: मेधातिथिः (*medhātithiḥ*) **NOTE**. Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 42. Aṣṭaka 6; Adhyāya 8; Varga 32. Number of Ṛks in the sūkta: 6.
+
+Seer: Medhātithiḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
 
 #### Ṛk 1
 
@@ -35926,6 +36106,16 @@ Translation of the Kannada: This sūkta beginning यो अत्य इव (*y
 ### Printed p. 873
 
 Sūkta 43. Maṇḍala 9, Anuvāka 2, Sūkta 43. Aṣṭaka 6, Adhyāya 8, Varga 23. Number of ṛks in the sūkta: 6. Ṛṣi: मेध्यातिथिः (*medhyātithiḥ*) **NOTE**. Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 43. Aṣṭaka 6; Adhyāya 8; Varga 23 **NOTE**. Number of Ṛks in the sūkta: 6.
+
+Seer: Medhyātithiḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
 
 #### Ṛk 1
 
