@@ -10757,6 +10757,308 @@ May Bhaga, gods, be the possessor of opulence, and through him, may we be posses
 
 शुचये (*śucaye*) means for the pure place (पदाय (*padāya*)) fit to be gone to. As the horse Dadhikrā does, so may the Uṣas deities bow (नमंत (*namaṃta*)) together to our sacrifice (अध्वराय (*adhvarāya*)); that is, may they come together.
 
+### Printed p. 241
+
+> वाजिनो वेगवंतोऽश्वा रथमिव रथं यथा तथोषसोऽर्वाचीनमस्मदभिमुखं
+> वसुविदं धनस्य प्रापकं भगं देवं नोऽस्मान्प्रत्या वहंतु । आनयंतु ॥
+
+##### Gist of the bhāṣya
+
+Just as swift horses (वाजिनः (*vājinaḥ*)) draw a chariot, so may the Dawns bring to us the god Bhaga, who is turned towards us (अर्वाचीनं (*arvācīnaṃ*)) and is the finder and bestower of wealth (वसुविदं (*vasuvidaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचये (*śucaye*)—pure
+- पदायॆ (*padāyè*)—for the obtaining of a place
+- दधिक्रावेव (*dadhikrāveva*)—like a horse
+- उषसः (*uṣasaḥ*)—the Dawn-goddesses
+- अध्वरायॆ (*adhvarāyè*)—to our sacrifice
+- सं नमंतॆ (*saṃ namaṃtè*)—let them come and join
+- वाजिनः (*vājinaḥ*)—swift-going
+- अश्वाः (*aśvāḥ*)—horses
+- रथमिव (*rathamiva*)—as they draw a chariot
+- उषसः (*uṣasaḥ*)—the Dawns
+- अर्वाचीनं (*arvācīnaṃ*)—him who is turned towards us
+- वसुविदं (*vasuvidaṃ*)—the bestower of wealth
+- भगं (*bhagaṃ*)—the god Bhaga
+- नः (*naḥ*)—to us
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+For the obtaining of a pure place, may the Dawn-goddesses, who are like a horse, come and join our sacrifice. As swift horses draw a chariot, may the Dawns bring to us the god Bhaga, who is turned towards us and is the bestower of wealth.
+
+##### English translation
+May the Dawns come to our sacrifice as a horse to a suitable station :
+as rapid steeds convey a chariot, so may the Dawns bring to us Bhaga, down-descending, charged with riches.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑वती॒र्गोम॑तीर्न उ॒षासो॑ वी॒रव॑तीः॒सद॑मुच्छंतु भ॒द्राः  
+> घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ता यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वऽवतीः । गोमतीः । नः । उषसः । वीरवतीः । सदं । उच्छंतु । भद्राः ।  
+> घृतं । दुहानाः । विश्वतः । प्रपीताः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रा भजनीया उषस उषोदेवता अश्वावतीरश्ववत्योऽश्वसहिताः सश्च्यो गोमतीर्गोमत्यश्च वीरवतीर्वीरवत्यः पुत्रादिजनोपेताश्च भवंत्यो नोऽस्मभ्यं सदं सर्वदोच्छंतु । व्युच्छंतु । नैशं तमो विवासयंतु । कीदृश्यः । घृतमुदकं दुहानाः सिंचंत्यो विश्वतः सर्वगुणैः प्रसीताः प्रवृद्धाः । एवंभूता उषसस्तमु उच्छंतु । अस्मिन् सूक्ते प्रतिपादिता हे सर्वे देवाः यूयं नोऽस्मान् सदा सर्वदा स्वस्तिभिः कल्याणैः पाते । पालयत ॥
+
+##### Gist of the bhāṣya
+
+The auspicious, adorable Dawns, possessing horses (अश्वऽवतीः (*aśva 'vatīḥ*)), cattle (गोमतीः (*gomatīḥ*)) and heroes, that is, sons and other people, are asked to dawn for us always, driving away the night's darkness. They are further described as pouring out water (घृतं (*ghṛtaṃ*) is water), and as grown full with all qualities. Then, addressing all the gods praised in this sūkta, he says: "You, protect us always with blessings."
+
+### Printed p. 242
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- घृतं (*ghṛtaṃ*)—water in the form of rain
+- दुहानाः (*duhānāḥ*)—those who milk (it) forth
+- विश्वतः (*viśvataḥ*)—with all qualities
+- प्रपीताः (*prapītāḥ*)—those who are nourished
+- भद्राः (*bhadrāḥ*)—those who bring auspiciousness
+- उषसः (*uṣasaḥ*)—the Dawn-goddesses
+- नः (*naḥ*)—to us
+- अश्ववतीः (*aśvavatīḥ*)—as givers of horses
+- गोमतीः (*gomatīḥ*)—as givers of cattle
+- वीरवतीः (*vīravatīḥ*)—as givers of heroic sons and others; being so,
+- नः (*naḥ*)—for us
+- सदं (*sadaṃ*)—always
+- उच्छंतु (*ucchaṃtu*)—let them destroy the darkness
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पातॆ (*pātè*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May the Dawn-goddesses, who milk forth water in the form of rain, who are nourished with all qualities and who bring auspiciousness, give us horses, cattle and heroic sons and others, and always destroy the darkness for us. O gods, protect us always with blessings.
+
+##### English translation
+May the auspicious Dawn ever break, bestowing horses and cattle and male descendants, shedding water, and endowed with all good things : and do you ever cherish us with blessings.
+
+## Sūkta 42 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र ब्रह्माण इति षडृचं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वदेवं । अत्रानुक्रांतं । प्र ब्रह्माणः षड्वैश्वदेवं त्विति ॥ सूक्तविनियोगो लैंगिकः ॥ तृतीये छंदोमे प्रउगशस्त्रे प्र ब्रह्माण इति वैश्वदेवस्तृचः । सूत्रितं च । प्र ब्रह्माणो अंगिरसो नक्षंत सरस्वतीं देवयंतो हवंते । आ. ८-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र ब्रह्माणः (*pra brahmāṇaḥ*) has six Ṛks and is the ninth sūkta. Its seer is Vasiṣṭha, its deity the Viśvedevas, its metre Triṣṭubh. The Anukramaṇī says: प्र ब्रह्माणः षड्वैश्वदेवं तु (*pra brahmāṇaḥ ṣaḍvaiśvadevaṃ tu*). The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). In the Prauga-śastra of the third Chandoma day, the three Ṛks beginning प्र ब्रह्माणः (*pra brahmāṇaḥ*) form the Vaiśvadeva tṛca. It is also given in the sūtra: प्र ब्रह्माणो अंगिरसो नक्षंत सरस्वतीं देवयंतो हवंते (*pra brahmāṇo aṃgiraso nakṣaṃta sarasvatīṃ devayaṃto havaṃte*) (Ā. 8-11).
+
+##### Anuvāda
+
+This sūkta beginning "प्र ब्रह्माणः (*pra brahmāṇaḥ*)" is the ninth sūkta in the third anuvāka. It has six Ṛks. Its seer is Vasiṣṭha; its deity the Viśvedevas; its metre Triṣṭup. In the Anukramaṇī it is said: प्र ब्रह्माणः षड्वैश्वदेवं तु (*pra brahmāṇaḥ ṣaḍvaiśvadevaṃ tu*). The use of the sūkta is by indication. While reciting the mantras of the Prauga-śastra in the third Chandoma, the three Ṛks beginning "प्र ब्रह्माणः (*pra brahmāṇaḥ*)" are to be recited as the Vaiśvadeva tṛca; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra प्र ब्रह्माणो अंगिरसो नक्षंत सरस्वतीं देवयंतो हवंते (*pra brahmāṇo aṃgiraso nakṣaṃta sarasvatīṃ devayaṃto havaṃte*) (Ā. 8-11).
+
+### Printed p. 243
+
+- Sūkta—42
+- Maṇḍala—7; Anuvāka—3; Sūkta—42
+- Aṣṭaka—5; Adhyāya—4; Varga—9
+- Number of Ṛks in the sūkta—6
+- Ṛṣi—Vasiṣṭha
+- Deity—Viśvedevas
+- Metre—Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ब्र॒ह्माणो॒ अंगि॑रसो नक्षंत॒ प्र क्रं॑द॒नुर्॑भ॒न्य॑स्य वेतु ।  
+> प्र धे॒नव॑ उद॒प्रुतो॑ नवंत यु॒ज्याता॒मद्री॑ अध्व॒रस्य॒ पेशः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ब्रह्माणः । अंगिरसः । नक्षंत । प्र । क्रंदनुः । नभन्यस्य । वेतु ।  
+> प्र । धेनवः । उदप्रुतः । नवंत । युज्यातां । अद्री इति । अध्वरस्य । पेशः ॥ १
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्माणोंगिरस एतन्नामका ऋषयः प्र नक्षंते । सर्वत्र व्याप्नुवंतु
+> क्रंदनुः पर्जन्यो नभन्यस्य स्तोत्रस्यास्मदीयं स्तोत्रं प्र वेतु । प्रकर्षेणेच्छतु ।
+> धेनवः प्रीणयित्र्यो नद्य उदप्रुत उदकानि सिंचंत्यः प्र नवंते । सर्पंतु । अद्री
+> आद्रियंतौ पत्नीयजमानावध्वरस्य यज्ञस्य पेशो रूपं युज्यातां । योजयेतां ॥
+
+##### Gist of the bhāṣya
+
+The seers called Brahmāṇas and Aṅgirases are to pervade everywhere. Krandanu, that is Parjanya, is to desire our praise (स्तोत्रस्य (*stotrasya*)) eagerly. The Dhenus, the nourishing rivers, pouring out waters (उदप्रुतः (*udaprutaḥ*)), are to flow forth. The two who honour the sacrifice (अद्री (*adrī*)), the wife and the sacrificer, are to be joined with the form (पेशः (*peśaḥ*)) of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्माणः (*brahmāṇaḥ*)—the Brahma-speakers
+- अंगिरसः (*aṃgirasaḥ*)—Aṅgirases
+- प्र नक्षंते (*pra nakṣaṃte*)—let them pervade everywhere
+- क्रंदनुः (*kraṃdanuḥ*)—Parjanya
+- नभन्यस्य (*nabhanyasya*)—our praise
+- प्र वेतु (*pra vetu*)—let him desire fully
+- धेनवः (*dhenavaḥ*)—the satisfying rivers
+- उदप्रुतः (*udaprutaḥ*)—pouring out full streams
+- प्र नवंते (*pra navaṃte*)—let them flow forth
+- अद्री (*adrī*)—the wife and the sacrificer, who honour the sacrifice
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- पेशः (*peśaḥ*)—the form
+- युज्यातां (*yujyātāṃ*)—(having attained it) let them serve
+
+##### भावार्थ (Bhāvārtha)
+
+May the Aṅgirases, the Brahma-speakers, pervade everywhere. May Parjanya desire our praise fully. May the satisfying rivers flow forth, pouring out full streams. May the wife and the sacrificer, who honour the sacrifice, become one with the form of the sacrifice and serve it.
+
+### Printed p. 244
+
+##### English translation
+May the Brahmanas, the Angirasas, be every-where present : may Krandanu be conscious of (our) adoration : may the rivers glide along, distributing water : may the pious couple, (the Yajamana and his wife), conjointly appreciate the beauty of the sacrifice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒गस्ते॑ अग्ने॒ सन॑वित्तो॒ अध्वा॑ यु॒क्ष्वा सु॒ते ह॒रितो॑ रो॒हित॑श्च ।  
+> ये वा॒ सद्म॑न्नरु॒षा वी॑र॒वाहो॑ हु॒वे दे॒वानां॒ जनि॑मानि स॒त्तः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुगः । ते । अग्ने । सनवित्तः । अध्वा । युंक्ष्व । सुते । हरितः । रोहितः । च ।  
+> ये । वा । सद्मन् । अरुषाः । वीरवाहः । हुवे । देवानां । जनिमानि । सत्तः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सनवित्तः सनाच्चिरकालादारभ्य लब्धस्ते त्वदीयोऽध्वा मार्गः सुगः
+> सुष्ठु गंतव्यो भवतु । किंच हरितः श्यामवर्णा रोहितश्च लोहितवर्णाश्चेत्युभयुविधा ये वा ये च ते त्वदीया अश्वाः सद्मन् सद्मनि यज्ञगृहे वीरवाहो वीरं
+> शूरं त्वां वहंतोऽरुषा आरोचमाना भवंति तांश्च त्वं सु युक्ष्व । त्वदीये
+> रथे सुष्ठु संयोजय । निसत्तो यज्ञगृहे निषण्णोऽहं होता सन् देवानामिंद्रादीनां जनिमा जनान् संघान्हुवे । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your path, obtained (सनवित्तः (*sanavittaḥ*)) from long ago, is to be easy to travel. Further, the two kinds of your horses, the dark (हरितः (*haritaḥ*)) and the red (रोहितः (*rohitaḥ*)), which shine as they carry you, the hero, in the sacrificial house: yoke them well to your chariot. Seated (निसत्तः (*nisattaḥ*)) in the sacrificial house as the Hotṛ, I call the hosts of the gods, Indra and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सनवित्तः (*sanavittaḥ*)—obtained from long ago
+- ते (*te*)—your
+- अध्वा (*adhvā*)—path
+- सुगः (*sugaḥ*)—is fit for excellent travelling
+- सुते (*sute*)—at the time of the pressing of Soma
+- हरितः (*haritaḥ*)—dark-coloured
+- रोहितश्च (*rohitaśca*)—and golden-coloured
+- ये वा (*ye vā*)—those horses which
+- सद्मन् (*sadman*)—in the sacrificial house
+- वीरवाहः (*vīravāhaḥ*)—are carriers of heroes
+- अरुषाः (*aruṣāḥ*)—and attractive; those
+- युक्ष्व (*yukṣva*)—yoke to the chariot
+- सत्तः (*sattaḥ*)—I, seated in the sacrificial house
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- जनिमानि (*janimāni*)—the host
+- हुवे (*huve*)—call to the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your path, obtained from long ago, is fit for excellent travelling. At the time of the pressing of Soma, yoke to the chariot those dark-coloured and golden-coloured horses which in the sacrificial house are carriers of heroes and attractive. I, seated in the sacrificial house, call the host of the gods, Indra and the rest, to the sacrifice.
+
+### Printed p. 245
+
+##### English translation
+Pleasant, Agni, be your long-familiar path : yoke for the libation the day, the ruddy horses, who brilliant-shining, are the conveyers of (you), the hero, to the hall of sacrifice, where seated, I invoke the companion of the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑ वो य॒ज्ञं म॑हय॒न्नमो॑भिः॒ प्र होता॑ मं॒द्रो रि॑रिच उपा॒के ।  
+> यज॑स्व॒ सु पु॑र्वणीक दे॒वाना य॒ज्ञिया॑म॒रम॑तिं ववृत्याः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । ऊं इति । वः । यज्ञं । महयन् । नमःभिः । प्र । होता । मंद्रः । रिरिचे । उपाके ।  
+> यजस्व । सु । पुरुअनीक । देवान् । आ । यज्ञियां । अरमतिं । ववृत्याः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः वो युष्माकं यज्ञं नमोभिर्नमस्कारैर्युक्ता इमे स्तोतारो वा यजमाना वा सं महयन् । सम्यक् पूजयंति । उ इति पूरकः । मंद्रः
+> स्तुतिशील उपाकेऽस्माकं समीपे स्थितोऽस्मदीयो होता प्र रिरिचे । अन्येभ्यो
+> होतृभ्योऽतिरिच्यते । हे यजमान त्वं देवान् सु सुष्ठु यजस्व । हे पुर्वणीक
+> बहुतेजस्विन्नग्ने त्वं यज्ञियां यज्ञार्हामरमतिं भूमिमा ववृत्याः । आवर्तय ।
+> तथा च निगमांतरे । आ नो महीमरमतिं सजोषाः । ऋ. ५-४३-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+O gods, these worshippers or sacrificers, bringing homage (नमोभिः (*namobhiḥ*)), honour your sacrifice well. The praise-loving Hotṛ who stands near us has surpassed (प्र रिरिचे (*pra ririce*)) the other Hotṛs. O sacrificer, worship the gods well. O Agni, of many splendours (पुर्वणीक (*purvaṇīka*)), turn hither (आ ववृत्याः (*ā vavṛtyāḥ*)) the earth (अरमतिं (*aramatiṃ*)) fit for sacrifice. So also in another text: आ नो महीमरमतिं सजोषाः (*ā no mahīmaramatiṃ sajoṣāḥ*) (Ṛ. Saṃ. 5-43-6).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods,) वः (*vaḥ*)—your
+- यज्ञं (*yajñaṃ*)—sacrifice
+- नमोभिः (*namobhiḥ*)—the praisers accompanied by homage
+- सं महयन् (*saṃ mahayan*)—worship
+- उपाके (*upāke*)—who is near us
+- मंद्रः (*maṃdraḥ*)—and is praise-loving
+- होता (*hotā*)—the Hotṛ
+- प्र रिरिचे (*pra ririce*)—is surpassing others in excellence. (O sacrificer,) देवान् (*devān*)—the gods
+- सु (*su*)—exceedingly
+
+### Printed p. 246
+
+- यजस्व (*yajasva*)—worship
+- पुर्वणीक (*purvaṇīka*)—O Agni, who has exceeding splendour
+- यज्ञियां (*yajñiyāṃ*)—fit for sacrifice
+- अरमतिं (*aramatiṃ*)—the earth
+- आ ववृत्याः (*ā vavṛtyāḥ*)—encompass
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, praisers accompanied by homage worship your sacrifice. The Hotṛ, who is near us and is praise-loving, has surpassed the others in power. O sacrificers, worship the gods exceedingly. O Agni, of exceeding splendour, encompass the earth that is fit for sacrifice.
+
+##### English translation
+The (worshippers) offer you, (gods), this sacrifice, with prostrations : the ministrant priest, who is near us repeating pious praise, excels (all others) worship well the gods : resplendent (Agni), make the venerable earth revolve
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा वी॒रस्य॑ रे॒वतो॑ दुरो॒णे स्यो॑न॒शीरति॑थिरा॒चिके॑तत् ।  
+> सुप्री॑तो अ॒ग्निः सुधि॑तो॒ दम॒ आ स वि॒शे दा॑ति॒ वार्य॒मिय॑त्यै ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । वीरस्य । रेवतः । दुरोणे । स्योनशीः । अतिथिः । आचिकेतत् ।  
+> सुप्रीतः । अग्निः । सुधितः । दमे । आ । सः । विशे । दाति । वार्यं । इयत्यै ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतिथिः सर्वेषामतिथिभूतोऽग्निर्यदा वीरस्य वीरकस्य स्तोत्राणां प्रेरयिता रेवतो हविष्मतो यजमानस्य दुरोणे गृहे स्योनशीः सुखेन शयनीये
+> आचिकेतत् प्रज्ञायते अग्निर्दमे यज्ञगृहे सुधितः । आकारश्चार्थे । सुनिहितश्च सुष्ठु
+> निहितः सन् यदा सुप्रीतो भवति तदा सोऽग्निरियत्या उपगच्छंत्यै विशे प्रजायै
+> वार्यं वरणीयं धनं दाति । ददाति । प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+Agni, the guest (अतिथिः (*atithiḥ*)) of all, becomes known (आचिकेतत् (*āciketat*)) in the house (दुरोणे (*duroṇe*)) of the sacrificer who is a hero, that is a sender-forth of praises, and who has oblations, lying comfortably in a pleasant resting place. Agni is well placed (सुधितः (*sudhitaḥ*)) in the sacrificial house; the ending (आ (*ā*)) has the sense of "and". When, well placed, he is well pleased, then Agni gives desirable wealth (वार्यं (*vāryaṃ*)) to the people who approach him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अतिथिः (*atithiḥ*)—the venerable
+- अग्निः (*agniḥ*)—Agni
+- यदा (*yadā*)—when
+- वीरस्य (*vīrasya*)—of him who is a sender-forth of praise
+- रेवतः (*revataḥ*)—and who has oblations, the sacrificer's
+- दुरोणे (*duroṇe*)—in the house
+- स्योनशीः (*syonaśīḥ*)—lying comfortably
+- आचिकेतत् (*āciketat*)—he is known; then
+- सुधितः (*sudhitaḥ*)—well established
+- सुप्रीतः (*suprītaḥ*)—and satisfied
+- सः (*saḥ*)—Agni
+- इयत्यै (*iyatyai*)—to the one who approaches him
+- विशे (*viśe*)—to the sacrificers
+- दमे (*dame*)—in the sacrificial house
+- वार्यं (*vāryaṃ*)—the desired wealth
+- दाति (*dāti*)—gives
+
 ---
 
-**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
+**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
