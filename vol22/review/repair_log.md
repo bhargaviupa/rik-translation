@@ -7,3 +7,4 @@
 - 2026-11-27: rig_22.md: 36 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
 - 2026-11-27: Vol 22: 3 doubled Ṛk headings + empty Saṃhitā heading removed from the output file (a window put the Saṃhitā label before the Ṛk heading; VERIFY FAIL).
 - 2026-11-27: Vol 22 p. 187-188 (Sūkta 33?, Ṛk 2): the Saṃhitā label and first line stand at the foot of p. 187 in the Kannada file; the English Ṛk 2 heading, Saṃhitā heading and first line moved from the top of p. 188 to the foot of p. 187 (label check).
+- 2026-11-27: Vol 22 w0403 (p. 406): the quotation 'mitraḥ sūryaḥ' typed in Latin letters replaced by the copy ⟦ಮಿತ್ರಃ ಸೂರ್ಯಃ ।⟧ from kn.md.

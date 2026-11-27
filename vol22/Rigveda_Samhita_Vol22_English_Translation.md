@@ -17032,6 +17032,180 @@ Varuṇa is the one who ordains the laws of nature. It was he who established ea
 in this Ṛk it is said that Varuṇa dwells in all the worlds and that his ordinances and the like are observed everywhere there, and
 तिस्रो द्यावो निहिता अंतरस्मिन्तिस्रो भूमीरुपराः षड्विधानाः । (*tisro dyāvo nihitā aṃtarasmintisro bhūmīruparāḥ ṣaḍvidhānāḥ |*) (Ṛ. Saṃ. 7-87-5)
 
+### Printed p. 409
+Here it is said that the three upper worlds and the three lower (earthly) worlds are under his control. Varuna and Mitra rule the whole universe (Ṛ. Saṃ. 5-63-2). They alone are the protectors of the entire world (Ṛ. 2-27-4). Varuna is the support of heaven, earth and sky (Ṛ. Saṃ. 5-69-1, 4). He has placed Agni in the water, the Sun in the sky, and Soma upon the stone. He has made a broad path for the Sun. Varuna, Mitra and Aryaman clear a path for the Sun (Ṛ. Saṃ. 7-60-4). In many such Ṛks Varuna's sovereignty is described.
+
+In the Taittirīya Saṃhitā (Tai. Saṃ. 6-4-8-3) it is said मित्रोऽहरजनयद्वरुणो रात्रिं (*mitro 'harajanayadvaruṇo rātriṃ*)—that is, Mitra created the day and Varuna the night. Therefore मैत्रं वा अहः । वारुणी रात्रिः । (*maitraṃ vā ahaḥ | vāruṇī rātriḥ |*)—that is, in many places Mitra is said to be lord of the day and Varuna lord of the night. In one place (Tai. Saṃ. 2-1-2-4) it is said that Varuna divided the seasons.
+
+वेद मासो धृतव्रतो द्वादश प्रजावतः । वेदा य उपजायते ॥ (*veda māso dhṛtavrato dvādaśa prajāvataḥ | vedā ya upajāyate ‖*) (Ṛ. Saṃ. 1-25-8): here it is said that Varuna knows the twelve months; and
+
+वि ये दधुः शरदं मासमादहर्यज्ञमक्तुं चादृचं । अनास्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशते ॥ (*vi ye dadhuḥ śaradaṃ māsamādaharyajñamaktuṃ cādṛcaṃ | anāsyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśate ‖*) (Ṛ. Saṃ. 7-66-11): in this Ṛk it is said that Mitra, Varuna and Aryaman divided autumn, the month, the day and the night.
+
+In many places it is said that it is Varuna who regulates the waters. It is he who made the rivers flow; by his command they flow ever on (Ṛ. Saṃ. 2-28-4). Though the rivers run swiftly and pour their water into the ocean, they do not fill it—this is through his hidden power (Ṛ. Saṃ. 5-85-6). Varuna and Mitra are lords of the rivers. That Varuna is lord of the oceans is an established point, yet the Ṛgveda rarely states it; perhaps it was left out because it was thought unimportant. In the Purāṇas and the like Varuna is renowned as lord of the waters, and it is said there that he is one of the eight guardians of the quarters, lord of the west. The Ṛgveda has no support for this. Generally everything connected with Varuna concerns the water in the atmosphere. Among the deities prayed to for rain, Varuna and Mitra are the chief. When the mountains are all covered with clouds, Varuna soaks heaven, earth and sky and makes the earth wet with the water that comes from the cloud above, as is said in Ṛ. Saṃ. 5-85-3, 4.
+
+### Printed p. 410
+A whole sūkta (Ṛ. Saṃ. 5-63) praises their power of sending rain. In the Taittirīya Saṃhitā (Tai. Saṃ. 5-5-4-1) आपो वरुणस्य पत्नय आसन् (*āpo varuṇasya patnaya āsan*)—the waters are said to be Varuna's wives, and (Tai. Saṃ. 6-4-3-2) मित्रावरुणौ वा अपां नेतारौ (*mitrāvaruṇau vā apāṃ netārau*)—Mitra and Varuna are the leaders of the water.
+
+It is said again and again that Varuna's decrees are firmly established. For this reason he is called Dhṛtavrata ("of firm ordinances"). Both Mitra and Varuna bear this epithet.
+
+परि धामानि मर्मृशद्वरुणस्य पुरो गये विश्वेदेवा अनु व्रतं नभंतामन्यके समे ॥ (*pari dhāmāni marmṛśadvaruṇasya puro gaye viśvedevā anu vrataṃ nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8-41-7)
+
+न वां देवा अमृता आ मिनंति व्रतानि मित्रावरुणा ध्रुवाणि ॥ (*na vāṃ devā amṛtā ā minaṃti vratāni mitrāvaruṇā dhruvāṇi ‖*) (Ṛ. Saṃ. 5-69-4)
+
+In these and other Ṛks it is said that even the gods obey the commands of Mitra, Varuna and Aryaman, and that even the primeval gods cannot transgress their firm ordinances. Mitra and Varuna are the regulators of law (ṛta) and of light. By the strength of these decrees they are able to support the laws. This quality is seen especially in these two, sometimes in the Ādityas, or in other common deities too. The epithet that they promote truth (ṛta) and justice, or are their guardians (ऋतस्य गोपाः (*ṛtasya gopāḥ*)), or make others keep the laws, is often applied to Mitra and Varuna.
+
+Varuna's power is immeasurable. Neither flying birds nor flowing rivers can reach the boundary of his realm, nor surpass his power, nor withstand his wrath. Neither the sky nor the rivers have reached the limit of the domain of Mitra and Varuna. Everything is contained in Varuna. The dwellings of all creatures, the three heavens and the three earths, are established in him. Varuna is all-knowing. The flight of birds in the sky, the course of ships on the sea, the path of the far-travelling wind—all this he knows. He sees all that is past or yet to come. He is witness of the true and false deeds of men. The actions, thoughts and devices of every man are known to Varuna. He can grasp all that is in heaven and earth and beyond them. However far beyond the sky one may run, no one can leave Varuna's path of vision.
+
+Being the regulator of right conduct, Varuna becomes very angry at sin, and also at the breach of his ordinances. For both he imposes very cruel punishment. Varuna's noose that binds sinners
+
+### Printed p. 411
+is spoken of in Ṛ. Saṃ. 1-24-15; 1-25-21; 6-74-4; 10-85-24 and other Ṛks. That noose binds the speaker of untruth and releases the speaker of truth.
+
+युवो राष्ट्रं बृहदिन्वति द्यौर्यौ सेतृभि रज्जुभिः सिनीथः । परि नो हेळो वरुणस्य वृज्या उरुं न इंद्रः कृणवदु लोकं ॥ (*yuvo rāṣṭraṃ bṛhadinvati dyauryau setṛbhi rajjubhiḥ sinīthaḥ | pari no heḷo varuṇasya vṛjyā uruṃ na iṃdraḥ kṛṇavadu lokaṃ ‖*) (Ṛ. Saṃ. 7-84-2)
+
+In this Ṛk it is said that Varuna, together with Indra, binds with bonds that are not ropes. The word pāśa ("noose") occurs in the Ṛgveda in Agni hymns only in one or two places, and that too where Agni is asked to loosen the noose that binds his devotees. Therefore the acts of binding with the noose and of releasing from it may be said to belong to Varuna alone. Varuna with Mitra drives away, hates and punishes untruth. Mitra and Varuna punish even those who do not praise them, and those who are negligent. But Varuna forgives those who repent; he looses them from the noose and removes sin. He frees a man not only from sin committed by himself but also from that committed by his forefathers. He protects those who daily break the very laws he has laid down and afterwards repent, and shows compassion to those who have transgressed his commands through forgetfulness. Varuna has hundreds and thousands of medicines. He drives death far away and removes sin. He can take away life and can also grant life. Thus Varuna's qualities are described in many Ṛks.
+
+The sixtieth sūkta
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र यदद्य सूर्येति द्वादशर्चं पंचमं सूक्तं । अत्रानुक्रमणिका । यदद्य मैत्रावरुणं तु वै सौर्याद्येति । मंडलद्रष्टा वसिष्ठ ऋषिः । अनुक्तत्वात् त्रिष्टुप्छंदः । तु वा इत्युक्तत्वादेतदादीनि सप्त सूक्तानि मित्रावरुणदेवत्यानि । आद्या सूर्यदेवत्या ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Of these, the fifth sūkta, यदद्य सूर्य (*yadadya sūrya*), has twelve Ṛks. The Anukramaṇikā says यदद्य मैत्रावरुणं तु वै सौर्याद्या (*yadadya maitrāvaruṇaṃ tu vai sauryādyā*). The seer is Vasiṣṭha, the seer of the Maṇḍala. As nothing else is stated, the metre is Triṣṭubh. Because of the words तु वै (*tu vai*), this and the following seven sūktas are addressed to Mitra and Varuna; the first Ṛk is addressed to Sūrya. The application (viniyoga) is by indication (laiṅgika).
+
+Translation: This sūkta यदद्य सूर्य (*yadadya sūrya*) is the fifth sūkta in the fourth anuvāka of the seventh maṇḍala. It has twelve Ṛks. The Anukramaṇikā says यदद्य मैत्रावरुणं तु वै सौर्याद्या (*yadadya maitrāvaruṇaṃ tu vai sauryādyā*). The seer of this sūkta is Vasiṣṭha, the seer of this Maṇḍala. In the seven sūktas from here, the first few Ṛks are addressed to Sūrya and the remaining Ṛks to Mitra and Varuna. The metre is Triṣṭubh. The application is by indication.
+
+### Printed p. 412
+## Sūkta 60 (Maṇḍala 7)
+Maṇḍala 7; Anuvāka 4; Sūkta 60. Aṣṭaka 5; Adhyāya 5; Varga 1, 2. Number of Ṛks in the sūkta: 12. Seer: Vasiṣṭha. Deity: 1. Sūrya; 2-12. Mitra and Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य सू॑र्य॒ ब्रवोऽना॑गा उ॒द्यन्मि॒त्राय॒ वरु॑णाय स॒त्यं ।  
+> व॒यं दे॑व॒त्रादि॑ते स्याम॒ तव॑ प्रि॒यासो॑ अर्यमन्गृ॒णंतः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । सूर्य । ब्रवः । अनागाः । उत्यन् । मित्राय । वरुणाय । सत्यं ।  
+> वयं । देवऽत्रा । अदिते । स्याम । तव । प्रियासः । अर्यमन् । गृणंतः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य सर्वस्य प्रेरकेत्यन्नामक देव उद्यन्नुदयं कुर्वंस्त्वं यद्यद्याद्यास्मिन्ननुष्ठानकालेऽस्मान्प्रवः ब्रूयाः । किमिति । अनागा अनागस इति । एतेऽपापा इति यदि देवेषु मध्ये ब्रूयास्तर्हि वयं हे अदिते अदीन देव देवत्रा देवेषु देवानां मध्ये मित्राय वरुणाय च सत्यमवितथं स्याम । अनागसो भवेम । किंच हे अर्यमन् दातस्त्वां गृणंतः स्तुवंतस्तव प्रियासः प्रियाः स्याम । त्वत्प्रेमविषया भवेम । यद्वा । उत्तरार्ध एकं वाक्यं । हे अदिते हे अर्यमन्नुक्तलक्षण देव वयं देवेषु मध्ये त्वां गृणंतस्तवैव प्रियाः स्याम । यदि मां देवेष्वपापं ब्रूयास्तर्हि त्वयायमनपराधीत्यनुगृहीतस्त्वां स्तुत्वा तव प्रियो भवेयमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, god, impeller of all, rising today at this time of the rite, if you declare us to be sinless (अनागा (*anāgā*) = अनागस (*anāgasa*))—"these are free of sin"—among the gods, then, O Aditi (the undiminished god), we shall be truthful (सत्यं (*satyaṃ*) = unfalsified) before Mitra and Varuna among the gods; we shall be sinless. Further, O Aryaman, giver, praising you we shall be dear to you, objects of your affection. Or else, the latter half is one sentence: O Aditi, O Aryaman, god of the stated character, praising you among the gods may we be dear to you alone. If you declare me sinless among the gods, then, favoured by you as "this man is without offence", praising you I would become dear to you. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदिते (*adite*)—O Sūrya of complete nature
+- सूर्य (*sūrya*)—O Sūrya
+- उद्यन् (*udyan*)—you who rise
+- अद्य (*adya*)—at this time of the sacrifice
+- अनागाः (*anāgāḥ*)—(these sacrificers are) sinless
+- मित्राय (*mitrāya*)—to Mitra
+- वरुणाय (*varuṇāya*)—to Varuna
+- ब्रवः (*bravaḥ*)—if you say (then)
+- वयं (*vayaṃ*)—we
+- देवत्र (*devatra*)—in the presence of the gods
+- सत्यं (*satyaṃ*)—of truthful conduct
+- स्याम (*syāma*)—we shall be reckoned
+- अर्यमन् (*aryaman*)—O god Aryaman
+- गृणंतः (*gṛṇaṃtaḥ*)—we who praise you
+- तव (*tava*)—to you
+- प्रियासः (*priyāsaḥ*)—may we be dear
+
+### Printed p. 413
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya of complete nature, if you, rising at this time of the sacrifice, tell Mitra and Varuna that "these sacrificers are free of sin", then we shall be reckoned in the presence of the gods as men of truthful conduct. O Aryaman, may we who praise you be dear to you.
+
+##### English translation
+Surya, when rising to-day, declare the truth to Mitra and Varuna, that we are void of sin : may we, Aditi, be (approved of) among the gods : praising you, Aryaman, may we be dear to you.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य मि॑त्रावरुणा नृ॒चक्षा॑ उ॒भे उदे॑ति॒ सूर्यो॑ अ॒भि ज्मन् ।  
+> विश्व॑स्य स्था॒तुर्जग॑तश्च गो॒पा ऋ॒जु मर्ते॑षु वृजि॒ना च॒ पश्य॑न् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । मित्रावरुणा । नृचक्षाः । उभे इति । उत् । एति । सूर्यः । अभि । ज्मन् ।  
+> विश्वस्य । स्थातुः । जगतः । च । गोपाः । ऋजु । मर्तेषु । वृजिना । च । पश्यन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा एष पुरतो दृश्यमानः स्यः स सर्वैः स्तुत्यत्वेन प्रसिद्धो नृचक्षा नृणां मनुष्याणां द्रष्टा सूर्य उभे द्यावापृथिव्यावभ्यभिलक्ष्योदेति ज्मन्नंतरिक्षे गच्छन् । स विशेष्यते । विश्वस्य सर्वस्य स्थातुः स्थावरस्य जगतो जंगमस्य च गोपा गोपायिता । किं कुर्वन् । मर्तेषु मनुष्येषु स्थितान्यृजूनि सुकृतानि वृजिनानि पापानि च पश्यन् ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuna, this Sūrya seen before us, known to all as worthy of praise, beholder of men, rises toward both heaven and earth, moving (ज्मन् (*jman*)) in the atmosphere. He is further described: guardian of all, of the stationary (स्थातुः (*sthātuḥ*)) and of the moving (जगतः (*jagataḥ*)). What does he do? He sees the upright (good) deeds and the sins (वृजिना (*vṛjinā*)) that exist among mortals.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuna
+- स्थातुः (*sthātuḥ*)—of the stationary
+- जगतः (*jagataḥ*)—and of the moving
+- विश्वस्य च (*viśvasya ca*)—of the entire world
+- गोपाः (*gopāḥ*)—protector
+- एषः (*eṣaḥ*)—he who is visible in front
+- स्यः (*syaḥ*)—the well known
+- नृचक्षाः (*nṛcakṣāḥ*)—who beholds all the dealings of men
+- सूर्यः (*sūryaḥ*)—Sūrya
+- मर्तेषु (*marteṣu*)—among men
+- ऋजु (*ṛju*)—the truthful life
+- वृजिना च (*vṛjinā ca*)—and the untruthful life
+- पश्यन् (*paśyan*)—seeing
+- ज्मन् (*jman*)—moving in the atmosphere
+- उभे अभि (*ubhe abhi*)—facing heaven and earth
+- उदेति (*udeti*)—rises
+
+### Printed p. 414
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuna, Sūrya, the protector of the entire world, stationary and moving, visible to all the world, beholder of all the dealings of men, rises facing heaven and earth, seeing the truthful and untruthful life among men and moving in the atmosphere.
+
+##### English translation
+This Surya, the beholder of man, rises, Mitra and Varuna, upon both (heaven and earth), moving (in the sky): he who is the preserver of all that is stationary or meveable, witnessing the upright acts or the sins of mortals.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अयु॑क्त स॒प्त ह॒रितः॑ स॒धस्था॒द्या ईं॒ वहं॑ति॒ सूर्यं॑ घृ॒ताचीः॑  
+> धामा॑नि मित्रावरुणा यु॒वाकुः॒ सं यो यू॒थेव॒ जनि॑मानि॒ चष्टे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयुक्त । सप्त । हरितः । सधस्थात् । याः । ईं । वहंति । सूर्यं । घृताचीः ।  
+> धामानि । मित्रावरुणा । युवाकुः । सं । यः । यूथाऽइव । जनिमानि । चष्टे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा मित्रावरुणौ युवयोरागमनाय सधस्थात् सहस्थानादंतरिक्षादंतरिक्षे सप्त सर्पणस्वभावानेतत्संख्याकान्हा हरितो हरिद्वर्णानश्वानयुक्त । युक्तवान्रथे । हरित आदित्यस्येति हि निरुक्तं । या हरित ईमेनं सूर्यं देवं घृताचीर्घृतांचना उदकवत्यः । उदकप्रदा इत्यर्थः । तादृश्यः सत्यो वहंति ता अयुक्त । अथोदितः सन्धामानि स्थानानि लोकांजनिमानि जन्मानि । जन्मभाजः प्राणिन इत्यर्थः । तांश्च युवाकुर्युवां कामयमानो यो देवः संचष्टे सम्यक् पश्यति यूथेव गोयूथानीव यूथपः । स यथा सर्वं यूथं तदवांतरगोव्यक्तिं च सम्यक् पश्यति तद्वल्लोकान्प्राणिनश्च पश्यति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuna, for your coming he yoked to the chariot seven (सप्त (*sapta*)) moving, green-coloured (हरितः (*haritaḥ*)) horses from the common station (सधस्थात् (*sadhasthāt*)), the atmosphere. The Nirukta says हरित आदित्यस्य (*harita ādityasya*). The mares that carry this god Sūrya are घृताचीः (*ghṛtācīḥ*), water-bearing, that is, water-giving; such as they are, he yoked them. Then, having risen, the god who, desiring you both, surveys well (संचष्टे (*saṃcaṣṭe*)) the stations (धामानि (*dhāmāni*)), the worlds, and the births (जनिमानि (*janimāni*))—that is, creatures having birth—sees them as a herd-keeper sees his herds (यूथेव (*yūtheva*)): as he sees the whole herd and each individual cow within it, so he sees the worlds and creatures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuna
+- याः (*yāḥ*)—which horses
+- घृताची (*ghṛtācī*)—filled with water
+- ईं सूर्यं (*īṃ sūryaṃ*)—this god Sūrya
+- वहंति (*vahaṃti*)—carry, such
+- सप्त (*sapta*)—seven
+
 ---
 
-**Progress note:** Done through printed p. 408. pp. 403-408 (batch API), Latin-typed quotation replaced by the Kannada copy
+**Progress note:** Done through printed p. 414. pp. 409-414 (batch API)
