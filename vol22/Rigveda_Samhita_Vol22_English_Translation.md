@@ -6089,6 +6089,175 @@ In this Ṛk and in some of the following Ṛks the account of the birth of the 
 > उत । असि । मैत्रावरुणः । वसिष्ठ । उर्वश्याः । ब्रह्मन् । मनसः । अधि । जातः ।  
 > द्रप्सं । स्कन्नं । ब्रह्मणा । दैव्येन । विश्वे । देवाः । पुष्करे । त्वा । अददंत ॥ ११ ॥
 
+### Printed p. 139
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे वसिष्ठ मैत्रावरुणो मित्रावरुणयोः पुत्रोऽसि । हे ब्रह्मन् वसिष्ठ उर्वश्या अप्सरसो मनसो ममायं पुत्रः स्यादितीदृशात्संकल्पाद्द्रप्सं रेतो मित्रावरुणयोरुर्वशीदर्शनात्स्कन्नमासीत् । तस्मादधि जातोऽसि । तथा च वक्ष्यते सत्रे ह जातावित्यृचि । एवं जातं त्वा त्वां दैव्येन देवसंबंधिना ब्रह्मणा वेदराशिनाहंभुवा युक्तं पुष्करे विश्वे देवा आददंत । अधारयंत ॥ तथा चादितेर्मित्रावरुणौ जज्ञाते इति प्रकृत्य पठ्यते । तयोरादित्ययोः सत्रे दृष्ट्वाप्सरसमुर्वशीं । रेतश्चस्कंद तत्कुंभे न्यपतद्वासतीवरे ॥ तेनैव तु मुहूर्तेन वीर्यवंतौ तपस्विनौ । अगस्त्यश्च वसिष्ठश्च तत्रर्षी संबभूवतुः ॥ बहुधा पतितं रेतः कलशे च जले स्थले । स्थले वसिष्ठस्तु मुनिः संभूत ऋषिसत्तमः । कुंभे त्वगस्त्यः संभूतो जले मत्स्यो महाद्युतिः । उदियाय ततोऽगस्त्यः शम्यामात्रो महातपाः ॥ मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते । कुंभ इत्यभिधानं च परिमाणस्य लक्ष्यते । ततोऽप्सु गृह्यमाणासु वसिष्ठः पुष्करे स्थितः । सर्वतः पुष्करे तं हि विश्वेदेवा आधारयन् ॥ बृ. ५-२८३ रिंद २८९ ॥ इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: "And also, Vasiṣṭha, you are Maitrāvaruṇa, the son of Mitra and Varuṇa. O Brahman Vasiṣṭha, from the thought of Urvaśī the Apsaras, 'May this be my son', and from the sight of Urvaśī, the seed (द्रप्सं (*drapsaṃ*)) of Mitra and Varuṇa was spilled. From that you were born." As will be said in the Ṛk beginning *satre ha jātau*. Thus born, you, endowed with the divine Brahman (the mass of the Veda, self-existent), were held (आददंत (*ādadaṃta*), "supported") by all the gods in the lake (पुष्करे (*puṣkare*)).
+
+He then quotes, with a reference, the verses that state this about Aditi's sons Mitra and Varuṇa. At their sacrificial session they saw the Apsaras Urvaśī, and the seed fell into the jar called Vasatīvara. In that same moment the two powerful ascetic seers, Agastya and Vasiṣṭha, came into being there. The seed fell in many ways: in the jar, in the water and on the ground. On the ground the sage Vasiṣṭha, best of seers, arose; in the jar Agastya arose; in the water a great shining fish. Then Agastya, of great austerity, rose up, measuring a śamyā. Because he was measured by a measure (मानेन (*mānena*)) he is called Mānya here; or else the seer was born of the jar (कुंभ (*kuṃbha*)), and by a jar one measures, for "kumbha" is a name for a measure. Then, as the waters were being taken up, Vasiṣṭha stood on the lotus (पुष्करे (*puṣkare*)), and the Viśvedevas held him there on every side. The reference is given as बृ. ५-२८३ रिंद २८९ (*bṛ. 5-283 riṃda 289*) (Bṛ. 5-283 to 289).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- वसिष्ठ (*vasiṣṭha*)—O Vasiṣṭha
+- मैत्रावरुणः (*maitrāvaruṇaḥ*)—you, as son of Mitra and Varuṇa
+- असि (*asi*)—are
+- ब्रह्मन् (*brahman*)—O Vasiṣṭha, possessed of knowledge of Brahman
+- उर्वश्याः (*urvaśyāḥ*)—of Urvaśī, the Apsaras woman
+- मनसः (*manasaḥ*)—from the will (thought)
+- द्रप्सं (*drapsaṃ*)—the seed of Mitra and Varuṇa
+- स्कन्नं (*skannaṃ*)—was spilled
+- अधि जातः (*adhi jātaḥ*)—you were born from that
+- त्वा (*tvā*)—you, thus born
+- दैव्येन (*daivyena*)—divine
+- ब्रह्मणा (*brahmaṇā*)—seeing you endowed with the mass of the Veda
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- पुष्करे (*puṣkare*)—on the lotus leaf
+- अददंत (*adadaṃta*)—established (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasiṣṭha, you are the son of Mitra and Varuṇa. O Vasiṣṭha, possessed of knowledge of Brahman, through the will of Urvaśī, the Apsaras woman, the seed of Mitra and Varuṇa was spilled. You were born from it. Seeing you, thus born, endowed with the divine mass of the Veda, all the gods established you on the lotus leaf.
+
+##### English translation
+Verily, Vasishtha, you are the son of Mitra and Varuna, born, Brahman, of the will of Urvashi, after the seminal effusion : all the gods have sustained you, (endowed) with celestial and Vaidic vigour in the lake.
+
+### Printed p. 140
+
+##### विशेषविषयगळु (Special Topics)
+
+The birth of Mitra and Varuṇa from Aditi, the mother of the gods, is stated in many places; we have explained this in the pages of the Ṛ. Saṃ. volume. Here we write down in order what Yāska says in the Nirukta, and what Śaunaka says in the Bṛhaddevatā, on how Vasiṣṭha and the seer Agastya were born of Mitra and Varuṇa. Because the story of these seers' birth is connected with the Apsaras woman Urvaśī, and because the word Urvaśī is read in this Ṛk, Yāska's explanation of the derivation of the word Urvaśī is first cited.—
+
+उर्वश्यप्सरा उर्वभ्यश्नुते उरुभ्यामश्नुत उरुर्वा वशोऽस्याः । अप्सरा अप्सारिण्यपि वाप्स इति रूपनामाप्सातेरप्सानीयं भवत्यादर्शनीयं व्यापनीयं वा स्पष्टं दर्शनायेति शाकपूणिः । यदप्स इत्यभक्षस्य अप्नो नामेति व्यापिनः । तद्वा भवति रूपवती तेदनयोत्तमिति वा तेदस्यै दत्तमिति वा । तस्या दर्शनान्मित्रावरुणयो रेतश्चस्कंद तदभिवादिन्येषर्ग्भवति ॥ (*urvaśyapsarā urvabhyaśnute urubhyāmaśnuta ururvā vaśo 'syāḥ | apsarā apsāriṇyapi vāpsa iti rūpanāmāpsāterapsānīyaṃ bhavatyādarśanīyaṃ vyāpanīyaṃ vā spaṣṭaṃ darśanāyeti śākapūṇiḥ | yadapsa ityabhakṣasya apno nāmeti vyāpinaḥ | tadvā bhavati rūpavatī tedanayottamiti vā tedasyai dattamiti vā | tasyā darśanānmitrāvaruṇayo retaścaskaṃda tadabhivādinyeṣargbhavati ‖*) (Ni. 5-13)
+
+Urvaśī is an Apsaras woman. The reason this woman has the name Urvaśī is as follows.
+
+(1) उर्वभ्यश्नुते । उरु महत् यशोऽभिव्याप्नोतीति । (*urvabhyaśnute | uru mahat yaśo 'bhivyāpnotīti |*). उरु (*uru*) means abundant fame or renown; अभ्यश्नुते (*abhyaśnute*) means she attains it. This woman is very famous for her great fame (here fame means beauty of form and the like); this is the reason she has the name Urvaśī.
+
+(2) ऊरूभ्यां मैथुने धर्मे पुरुषं अश्नुते व्याप्नोतीति उर्वाशिनी सती उर्वशीत्युच्यते (*ūrūbhyāṃ maithune dharme puruṣaṃ aśnute vyāpnotīti urvāśinī satī urvaśītyucyate*). ऊरु (*ūru*) means thighs. With her attractive thighs this woman pervades the man in the act of union with embraces and the like and gives him delight. Therefore she has the name Urvāśinī or Urvaśī.
+
+(3) Or उरुः महान् अस्याः वशः कामः सेयमुरुवशिनी सती उर्वशीत्युच्यते (*uruḥ mahān asyāḥ vaśaḥ kāmaḥ seyamuruvaśinī satī urvaśītyucyate*). उरुः (*uruḥ*) means much, great; वशः (*vaśaḥ*) means desire. Since this woman has exceedingly great desire, she has the name Uruvaśinī or Urvaśī. Thus three explanations of the word Urvaśī are given.
+
+Now he gives the explanation of the word अप्सराः (*apsarāḥ*) in order to set out its meaning. Although this word is not read in this Ṛk, it had to be mentioned by way of the context when explaining the word Urvaśī. Therefore the explanation of this word is stated here.
+
+(1) *apsarāḥ | sā hi apsāriṇī bhavati | apaḥ patati nityameva sarati | tatprabhava
+
+### Printed p. 141
+
+tvāt tadeva tasyāḥ priyamudakaṃ tasmādapsarāḥ*. अप्सराः (*apsarāḥ*) means अप्सारिणी (*apsāriṇī*). अपः (*apaḥ*) means water: one who moves over water. Therefore water is exceedingly dear to this woman, and so the name Apsarāḥ has come.
+
+(2) Or अद्भ्यः सृतेत्यप्सराः (*adbhyaḥ sṛtetyapsarāḥ*). अपि चैवमन्यथा स्यात् (*api caivamanyathā syāt*). अप्स इति एतत् रूपनाम (*apsa iti etat rūpanāma*). आप्सातेः प्रतिषेधपूर्वस्य प्सातेः भक्षणार्थस्य (*āpsāteḥ pratiṣedhapūrvasya psāteḥ bhakṣaṇārthasya*). तद्धि अप्सानीयं आदर्शनीयं भवति (*taddhi apsānīyaṃ ādarśanīyaṃ bhavati*). न हि तद्भक्ष्यते (*na hi tadbhakṣyate*). किं तर्हि (*kiṃ tarhi*). आदर्शनीयं तदाभिमुख्येन स्थित्वा द्रष्टव्यमेव भवति चक्षुषा न पुनर्मुखेन भक्षयितव्यमित्यर्थः (*ādarśanīyaṃ tadābhimukhyena sthitvā draṣṭavyameva bhavati cakṣuṣā na punarmukhena bhakṣayitavyamityarthaḥ*). अप्सः (*apsaḥ*) is a name for form. The root प्सा (*psā*) means "eat". अ + प्सा (*a + psā*) means "not fit to be eaten". So the form in this woman is not fit to be eaten, but is fit to be gazed at well with the eyes; that is, the form of this woman is very attractive.
+
+(3) व्यापनीयं वा (*vyāpanīyaṃ vā*). व्यापनमर्हति (*vyāpanamarhati*). आप्लृ व्याप्तौ तस्य वा अप्सः (*āplṛ vyāptau tasya vā apsaḥ*); तद्धि नायनेन रश्मिना आत्मनः प्रत्ययाधानार्थं व्यापयितव्यं भवति (*taddhi nāyanena raśminā ātmanaḥ pratyayādhānārthaṃ vyāpayitavyaṃ bhavati*). स्पष्टं दर्शनायेति शाकपूणिः (*spaṣṭaṃ darśanāyeti śākapūṇiḥ*). From the root आप्लृ व्याप्तौ (*āplṛ vyāptau*) the word अप्सः (*apsaḥ*) is formed, giving the meaning "pervading"; that is, the form pervades and is directly visible, so that all can see it clearly.
+
+All these differences of meaning are according to the view of the teacher Śākapūṇi.
+
+Now he gives another kind of meaning for the word Apsarā. It was said before that अप्सः (*apsaḥ*) means form. Now, as from the root रा दाने (*rā dāne*), the word रा (*rā*) has the sense "giving, given". So Apsarā means that the form this woman has is accepted by her; or, since this form (beauty) was given to her by Brahmā, the name Apsarā has come; this too is the meaning.
+
+At the sight of this Apsaras woman Urvaśī, desire arose in Mitra and Varuṇa and their seed (semen) was spilled. This Ṛk says that from that seed the seers Vasiṣṭha and Agastya were born.
+
+Having thus stated the explanations of the words Urvaśī and Apsarāḥ, he now gives the explanation of the Ṛk at hand.—
+
+अस्यसि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधिजातो द्रप्सं स्कन्नं ब्रह्मणा दैव्येन ॥ द्रप्सः संभृतः स्पानीयो भवति सर्वे देवाः पुष्करे त्वाधारयंत । पुष्करमंतरिक्षं पोषति भूतान्यत्र । पुष्करं पूजाकरं पूजयितव्यं वा । इदमपीतरत् पुष्करमेतस्मादेव पुष्करं वपुष्करं वा । पुष्पं पुष्पतेः ॥ (*asyasi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhijāto drapsaṃ skannaṃ brahmaṇā daivyena ‖ drapsaḥ saṃbhṛtaḥ spānīyo bhavati sarve devāḥ puṣkare tvādhārayaṃta | puṣkaramaṃtarikṣaṃ poṣati bhūtānyatra | puṣkaraṃ pūjākaraṃ pūjayitavyaṃ vā | idamapītarat puṣkarametasmādeva puṣkaraṃ vapuṣkaraṃ vā | puṣpaṃ puṣpateḥ ‖*) (Ni. 5-14)
+
+### Printed p. 142
+
+O Vasiṣṭha, you are certainly the son of Mitra and Varuṇa. O knower of Brahman, you were born from the mind of Urvaśī. On the sacrificial ground, from the sight of Urvaśī, desire arose in Mitra and Varuṇa and their seed was spilled. At that time all the gods, so that the spilled seed of Mitra and Varuṇa should not fall on the earth, praising with mantras made up of Ṛk, Yajus and Sāman, caused that seed to fall on the water in a jar or in the atmosphere. From it the birth of Vasiṣṭha and Agastya took place.
+
+द्रप्सः (*drapsaḥ*) means seed. द्र (*dra*) means flowing; प्सा (*psā*) means eating or bearing. This seed, or semen, flows from the man's organ and is eaten by the woman's womb, that is, absorbed or held. Therefore the seed has got the name द्रप्सः (*drapsaḥ*).
+
+The word पुष्कर (*puṣkara*) has many meanings. Puṣkara means the atmosphere: तद्धि पोषति भूतानि पुष्णात्येवकाशदानेनोपकुर्वन् (*taddhi poṣati bhūtāni puṣṇātyevakāśadānenopakurvan*). Because it gives room to beings and nourishes them, the atmosphere is called puṣkara. Puṣkara also means water. For,—
+
+तेन हि पूजा क्रियते देवादिभ्यः तत्पूजाकारकत्वात् पुष्करं (*tena hi pūjā kriyate devādibhyaḥ tatpūjākārakatvāt puṣkaraṃ*). Or पूजयितव्यं पूजनार्हमात्मन एवेति पुष्करं (*pūjayitavyaṃ pūjanārhamātmana eveti puṣkaraṃ*). With this water people perform worship and the like to the gods; that is, water is used for the rite of worship. Or this water itself is worthy of worship; that is, people worship it. Therefore water is called puṣkara.
+
+Besides this, puṣkara has another meaning, the lotus (flower). This lotus flower too is used for worship and the like; and puṣkara is also वपुष्करं (*vapuṣkaraṃ*), since it is used to adorn the body with this flower. For these reasons the lotus flower is called puṣkara.
+
+By way of the context he also gives the derivation of the word पुष्प (*puṣpa*): पुष्पं पुष्पतेः (*puṣpaṃ puṣpateḥ*). पुष्पतिः विकसनार्थः (*puṣpatiḥ vikasanārthaḥ*). Puṣpa means flower. It blossoms; that is, what was a bud opens well and gives out fragrance. Therefore the flower is called puṣpa.
+
+Having explained all that is said in the Nirukta about this Ṛk, we now explain the manner of Vasiṣṭha's origin in the Ṛgveda's sūkta at hand (Ṛ. Saṃ. 7-33-10 to 14), and afterwards the manner of Vasiṣṭha's origin in the work Bṛhaddevatā, spoken by the great sage Śaunaka.—
+
+**The manner of Vasiṣṭha's origin as stated in the Ṛgveda**
+In many places in the Ṛk Saṃhitā Vasiṣṭha is praised as born of a divine portion and possessed of personal greatness. The manner of his origin is told as follows.
+
+विद्युतो ज्योतिः परि संजिहानं मित्रावरुणा यदपश्यतां त्वा । (*vidyuto jyotiḥ pari saṃjihānaṃ mitrāvaruṇā yadapaśyatāṃ tvā |*)
+तत्ते जन्मोतैकं वसिष्ठागस्त्यो यत्त्वाविश आजभार ॥ (*tatte janmotaikaṃ vasiṣṭhāgastyo yattvāviśa ājabhāra ‖*)
+(Ṛ. Saṃ. 7-33-10)
+
+### Printed p. 143
+
+O Vasiṣṭha, when you spread your own radiance and displayed your power, Mitra and Varuṇa saw you. Immediately your birth took place on the earth. This is only one of your many manifestations.
+
+उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन् मनसोऽधि जातः । (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahman manaso 'dhi jātaḥ |*)
+द्रप्सं स्कन्नं ब्रह्मणा दैव्येन विश्वे देवाः पुष्करे त्वाददंते ॥ (*drapsaṃ skannaṃ brahmaṇā daivyena viśve devāḥ puṣkare tvādadaṃte ‖*)
+(Ṛ. Saṃ. 7-33-11)
+
+O Vasiṣṭha, as soon as Urvaśī was seen, you were born, according to her will, through the power of the seed of Mitra and Varuṇa that had been spilled. Immediately all the gods established you, born of a divine portion and endowed with the mass of the Veda, in the lotus.
+
+स प्रकेत उभयस्य प्रविद्वान्सहस्रदान उत वा सदानः । (*sa praketa ubhayasya pravidvānsahasradāna uta vā sadānaḥ |*)
+यमेन ततं परिधिं वयिष्यन्नप्सरसः परि जज्ञे वसिष्ठः ॥ (*yamena tataṃ paridhiṃ vayiṣyannapsarasaḥ pari jajñe vasiṣṭhaḥ ‖*)
+(Ṛ. Saṃ. 7-33-12)
+
+This Vasiṣṭha, fully knowing the principles of both heaven and earth, is a giver of gifts of many kinds, or is himself of the nature of a gift. Covered with the cloth of saṃsāra, spread out widely by Yama, the controller of the whole world, he was born on the earth, in the womb of Urvaśī.
+
+सत्रे ह जाताविषिता नमोभिः कुंभे रेतः सिषिचतुः समानं । (*satre ha jātāviṣitā namobhiḥ kuṃbhe retaḥ siṣicatuḥ samānaṃ |*)
+ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठं ॥ (*tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭhaṃ ‖*)
+(Ṛ. Saṃ. 7-33-13)
+
+When Mitra and Varuṇa, consecrated for the sacrifice, poured their seed together into the jar that had been set up with praises, from that jar called Vasatīvarī, first Agastya arose in the middle, and afterwards Vasiṣṭha was born from the same jar.
+
+उक्थभृतं सामभृतं बिभर्ति ग्रावाणं बिभ्रत्प्र वदात्यग्रे । (*ukthabhṛtaṃ sāmabhṛtaṃ bibharti grāvāṇaṃ bibhratpra vadātyagre |*)
+उपैनमाध्वं सुमनस्यमाना आ वो गच्छाति प्रतृदो वसिष्ठः ॥ (*upainamādhvaṃ sumanasyamānā ā vo gacchāti pratṛdo vasiṣṭhaḥ ‖*)
+(Ṛ. Saṃ. 7-33-14)
+
+O sacrificers called Pratṛd, the venerable Vasiṣṭha comes to you. Honour such a Vasiṣṭha. In your sacrifice he occupies the place of the Brahman priest and is the guide of the reciters of the śastra mantras, of the Udgātṛs, and of those engaged in the pressing rite (abhiṣava). Therefore honour and respect him: such words of praise are there. The author of the Bṛhaddevatā explains this same matter as follows.
+
+**The manner of Vasiṣṭha's origin as stated in the Bṛhaddevatā**
+
+प्राजापत्यो मरीचिर्हि मारीचः कश्यपो मुनिः । (*prājāpatyo marīcirhi mārīcaḥ kaśyapo muniḥ |*)
+तस्य देव्योऽभवज्जाया दाक्षायण्यस्त्रयोदश ॥ (*tasya devyo 'bhavajjāyā dākṣāyaṇyastrayodaśa ‖*)
+अदितिर्दितिर्दनुः काला दनायुः सिंहिका मुनिः । (*aditirditirdanuḥ kālā danāyuḥ siṃhikā muniḥ |*)
+(Bṛ. De. 5. 143, 144)
+
+### Printed p. 144
+
+Prajāpati had a son named Marīci. Marīci's son was the great sage Kaśyapa. This Kaśyapa married thirteen divine maidens, daughters of Dakṣa. Those maidens bore names such as Aditi, Diti, Danu, Kālā, Danāyu, Siṃhikā.
+
+तत्रैका त्वदितिर्देवी द्वादशाजनयत्सुतान् । (*tatraikā tvaditirdevī dvādaśājanayatsutān |*)
+भगश्चैवार्यमांशश्च मित्रो वरुण एव च । (*bhagaścaivāryamāṃśaśca mitro varuṇa eva ca |*)
+धाता चैव विधाता च विवस्वांश्च महाद्युतिः ॥ (*dhātā caiva vidhātā ca vivasvāṃśca mahādyutiḥ ‖*)
+(Bṛ. De. 5. 146,147)
+
+Among these daughters, Aditi, of divine nature, bore twelve sons: Bhaga, Aryaman, Aṃśa, Mitra, Varuṇa, Dhātṛ, Vidhātṛ, the greatly radiant Vivasvān, and
+
+त्वष्टा पूषा तथैवेंद्रो द्वादशो विष्णुरुच्यते । (*tvaṣṭā pūṣā tathaiveṃdro dvādaśo viṣṇurucyate |*)
+द्वंद्वं तस्यास्तु तज्जज्ञे मित्रश्च वरुणश्च ह ॥ (*dvaṃdvaṃ tasyāstu tajjajñe mitraśca varuṇaśca ha ‖*)
+(Bṛ. De. 5-148)
+
+Tvaṣṭṛ, Pūṣan, Indra and Viṣṇu: these are the twelve children. Viṣṇu is the twelfth. Thus from this Aditi were born the pair (twins) Mitra and Varuṇa.
+
+तयोरादित्ययोः सत्रे दृष्ट्वाप्सरसमुर्वशीं । (*tayorādityayoḥ satre dṛṣṭvāpsarasamurvaśīṃ |*)
+रेतश्चस्कंद तत्कुंभे न्यपतद्वासतीवरे ॥ (*retaścaskaṃda tatkuṃbhe nyapatadvāsatīvare ‖*)
+(Bṛ. De. 5-149)
+
+Among these twelve Ādityas, Mitra and Varuṇa both saw the divine woman Urvaśī at the time of a sacrifice of the nature of a sattra. As soon as they saw her their seed was spilled. Then it fell together into the jar called Vasatīvara.
+
+तेनैव तु मुहूर्तेन वीर्यवंतौ तपस्विनौ । (*tenaiva tu muhūrtena vīryavaṃtau tapasvinau |*)
+अगस्त्यश्च वसिष्ठश्च तत्रर्षी संबभूवतुः ॥ (*agastyaśca vasiṣṭhaśca tatrarṣī saṃbabhūvatuḥ ‖*)
+(Bṛ. De. 5-150)
+
+As soon as that seed fell in that jar, the powerful ascetic seers Agastya and Vasiṣṭha were born from it. The manner of their birth is this:
+
+बहुधा पतिते शुक्रे कलशेऽथ जले स्थले । (*bahudhā patite śukre kalaśe 'tha jale sthale |*)
+स्थले वसिष्ठस्तु मुनिः संभूत ऋषिसत्तमः ॥ (*sthale vasiṣṭhastu muniḥ saṃbhūta ṛṣisattamaḥ ‖*)
+(Bṛ. De. 5-151)
+
+That seed spilled by Mitra and Varuṇa was divided in many ways. It fell in the jar, in the water and on the earth. From the part that fell on the earth, the great sage Vasiṣṭha, the best of all seers, was born on the earth. (Agastya was born in the jar, and a fish in the water.)
+
 ---
 
-**Progress note:** Done through printed p. 138. pp. 133-138 (batch API)
+**Progress note:** Done through printed p. 144. pp. 139-144 (batch API)
