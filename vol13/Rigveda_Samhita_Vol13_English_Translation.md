@@ -2050,6 +2050,163 @@ Here the word विदथ (*vidatha*) is used in the sense of sacrifice. Sāya�
 
 The शुभ्राः (*śubhrāḥ*) are the Maruts, well adorned; *ayāsaḥ*, those who approach. With the mingling lightning (यव्या (*yavyā*)) they have sprinkled forth (परा मिमिक्षुः (*parā mimikṣuḥ*)): they pour out water abundantly. साधारण्येव (*sādhāraṇyeva*): as in the world young men who have united with a common woman discharge their seed, so
 
+### Printed p. 85
+
+> कुर्वंतो घोरा अतिवृष्टिप्रदानेन भयंकरास्ते रोदसी द्यावापृथिव्यौ नाप
+> नुदंत । अपनोदनं वर्षणरूपं तिरस्कारं न कुर्वंति । द्यावापृथिवीवचनो रोदसीशब्दः सर्वत्राद्युदात्तः । अत्र तु व्यत्ययेनांतोदात्तत्वमिति द्रष्टव्यं । यद्वा।
+> रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । अपरे
+> तु मरुतां स्त्रियो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्त
+> उत्तरत्रैवं व्यवहारात् । तत्पक्षॆ रोदसी रोदस्यां ॥ जीषंतात्सप्तम्या ईकारो
+> लुग्वा । ईदूतौ च सप्तम्यर्थ इति प्रगृह्यसंज्ञा !! तस्यां प्रियं धनं मुंचंति ।
+> किंतु. देवा मोदयितारो मादयितारो वा मरुतः सख्याय वृधं वृद्धिं
+> जुषंत । सेवंते द्यावापृथिवीपक्षे सख्याय जगतां सखिभावाय तयोर्वृद्दिं
+> कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses घोराः (*ghorāḥ*): the Maruts are terrible, fearsome through giving excessive rain. They do not अपनुदंत (*apanudaṃta*) heaven and earth (रोदसी (*rodasī*)). Here अपनोदनं (*apanodanaṃ*) means the rejection that takes the form of showering rain, and they do not practise it. The word रोदसी (*rodasī*), meaning heaven and earth, is everywhere ādyudātta, but here it should be understood as antodātta by vyatyaya.
+
+Alternatively, by the word रोदस (*rodasa*) is meant Rudra, whose nature is to weep. Some say that his wife is Rodasī. Others say that Rodasī is the name of the wives of the Maruts. This second view alone is proper, because later usage is of this kind. On that view रोदसी (*rodasī*) is रोदस्यां (*rodasyāṃ*) (locative); the ī-ending of the locative is elided or lost, and since ī and ū in the sense of the locative are pragṛhya, it receives the designation pragṛhya. In her they release their dear wealth.
+
+देवाः (*devāḥ*) are the Maruts, the delighters or the intoxicators. They जुषंत (*juṣaṃta*) (serve) वृधं (*vṛdhaṃ*), growth, सख्याय (*sakhyāya*) (for friendship). On the heaven-and-earth view the meaning is that they bring about the growth of the two, for the friendship of the worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्राः (*śubhrāḥ*)—the radiant, well adorned ones
+- अयासः (*ayāsaḥ*)—the ever-moving ones
+- मरुतः (*marutaḥ*)—the Marut deities
+- यव्या (*yavyā*)—with the mingling one (joined with the lightning)
+- साधारण्या इव (*sādhāraṇyā iva*)—like youths mingled with a common woman, who discharge their seed
+- परा मिमिक्षुः (*parā mimikṣuḥ*)—they shower water abundantly (while doing so)
+- घोराः (*ghorāḥ*)—the formidable Maruts, given to excessive rain
+- रोदसी (*rodasī*)—heaven and earth
+- न अप नुदंत (*na apa nudaṃta*)—they do not reject (but)
+- देवाः (*devāḥ*)—the Marut deities, causers of joy (intoxication)
+- सख्याय (*sakhyāya*)—for the friendship (of the worlds)
+- वृधं (*vṛdhaṃ*)—the growth (of these)
+- जुषंत (*juṣaṃta*)—they serve
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant, ever-moving Maruts, as in the world youths join with a common woman and discharge their seed, mingle with their companion, the lightning, and produce rain. Though fearsome, they do not trouble heaven and earth by excessive rain. Rather, desiring friendship with these worlds, they wish for their prosperity.
+
+##### English translation (H. H. Wilson)
+The radiant, ever-moving Maruts, have mingled with (their) associate,
+(lightning), like (youths) with common women ; the formidable divinities
+do not overwhelm heaven and earth (with rain), but promote their prosperity
+through (friendly) regard.
+
+### Printed p. 86
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः यव्या साधारण्येव परामिमिक्षुः (*marutaḥ yavyā sādhāraṇyeva parāmimikṣuḥ*)—The Maruts shower water abundantly with the mingling lightning, as in the world youths joined with a common woman discharge their seed. Lightning is always by nature given to joining with a cloud different from itself, and it is natural that rain arises from a cloud with lightning. Through contact with the wind the rain-waters fall to the earth. This is described here in poetic style. Since the word for lightning is feminine it is taken as a woman, and since the word मरुत् (*marut*) is masculine it is taken as a man, and the relation between the two is described. The Maruts are शुभ्राः (*śubhrāḥ*), "possessing fine, auspicious ornaments and the like", and अयासः (*ayāsaḥ*), "moving about". As in the world young men adorned with ornaments, roaming with women and given to sport, enjoy those women, so the Maruts too are described as pouring rain-waters together with the women who have the form of lightning.
+
+घोराः रोदसी न अपनुदंत (*ghorāḥ rodasī na apanudaṃta*)—The meaning given is that the Maruts, when they pour abundant rain from the clouds, assume a form that causes fear to others. They do not reject heaven and earth, that is, they do not show the rejection that takes the form of withholding rain. Alternatively, by the word रोदस (*rodasa*) is meant Rudra, whose nature is to weep; some say his wife is Rodasī; others say Rodasī is the name of the Maruts' wives. This view alone is proper, because later usage is of this kind. On that view रोदसी (*rodasī*) is रोदस्यां (*rodasyāṃ*); in her they release their dear wealth. The word रोदसी (*rodasī*) is listed among the names of heaven and earth (Ni. 3-22). In the verse
+
+उताभये पुरुहूत श्रवोभिरेको दृहमवदो वृत्रहा सन् । इमे चिदिंद्र रोदसी अपारे यत् संगृभ्णा मघवन् काशिरित्ते ॥ (*utābhaye puruhūta śravobhireko dṛhamavado vṛtrahā san | ime cidiṃdra rodasī apāre yat saṃgṛbhṇā maghavan kāśiritte ‖*) (Ṛ. Saṃ. 3-30-5)
+
+the meaning is explained thus: heaven and earth are denoted by the word रोधसी (*rodhasī*) because they restrain and hold within themselves many kinds of creatures (Ni. 6-1). One meaning is thus stated: though the Maruts in their fierce form give excessive rain, they do not show contempt in the form of drought towards heaven and earth. In the second meaning the word रोदसी (*rodasī*) is used in the sense "wife of Rudra, power of Rudra" (Ni. 11-50), and
+
+### Printed p. 87
+
+उत ग्ना व्यंतु देवपत्नीरिंद्राण्य १ ग्नाय्यश्विनी राट् । आ रोदसी वरुणानी शृणोतु व्यंतु देवीर्य ऋतुर्जनीनां ॥ (*uta gnā vyaṃtu devapatnīriṃdrāṇya 1 gnāyyaśvinī rāṭ | ā rodasī varuṇānī śṛṇotu vyaṃtu devīrya ṛturjanīnāṃ ‖*) (Ṛ. Saṃ. 5-46-8)
+
+in this verse the word रोदसी (*rodasī*) is explained as "wife of Rudra" (Ni. 11-49). Sāyaṇa too, after explaining that by the word रोदस् (*rodas*) Rudra, whose nature is to weep, is meant, teaches the other view that his wife is what the word रोदसी (*rodasī*) denotes. Further, by the sentence beginning अपरे तु (*apare tu*) he explains that, since the wife of the Maruts is spoken of by the word रोदसी (*rodasī*), it is the name of the Maruts' wives, and that this way of explaining accords with the sense later on. He says that in this explanation the form रोदसी (*rodasī*) ends in the seventh case-ending, and explains तस्यां प्रियं धनं मुंचंति (*tasyāṃ priyaṃ dhanaṃ muṃcaṃti*) as: in that woman they pour their dear wealth. Yāska, citing the verse
+
+रथं नु मारुतं वयं श्रवस्युमा हवामहे । आ यस्मिन्तस्थौ सुरणानि बिभ्रती सचा मरुत्सु रोदसी ॥ (*rathaṃ nu mārutaṃ vayaṃ śravasyumā havāmahe | ā yasmintasthau suraṇāni bibhratī sacā marutsu rodasī ‖*) (Ṛ. Saṃ. 5-56-8)
+
+explains it thus: we here invoke the chariot on which the Maruts are seated together with Rodasī, who bears excellent waters (Ni. 11-50).
+
+देवाः (*devāḥ*)—the Maruts, the delighters or the intoxicators. Yāska explains the meaning of the word deva: "a deva is so called from giving, or from illuminating, or from shining, or from dwelling in the heavenly region" (Ni. 7-15). That is, he is a deva because he bestows abundant wealth on the sacrificers, or makes the sacrificers radiant, or shines himself, or dwells in the excellent heaven. Here the Maruts are called देवाः (*devāḥ*), and the meaning explained is that these Maruts keep the sacrificers joyful or make them full of delight.
+
+सख्याय वृधं जुषंत (*sakhyāya vṛdhaṃ juṣaṃta*)—By this sentence it is described that the Maruts attain growth so that their friendship may come to others. Heaven and earth attain growth for the good of the world; and "for the friendship of heaven and earth" means that they attain growth in order to remain inseparable from heaven and earth. It is also described that they make heaven and earth grow by their friendship.
+
+### Printed p. 88
+
+##### Grammar
+
+- शुभ्राः—शुभ दीप्तौ धातुः । स्वायितंचि—(उ. सू. २-१७०) इति रक् प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- अयासः—अय गतौ धातुः । अयंते इति अयाः । नंदिग्रहपचादिभ्यः (पा. सू. ३-१-१३४) इति अच् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । जस् परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुक् आगमः ।
+- यव्या—यु मिश्रणामिश्रणयोः धातुः । अच इः इति इ प्रत्ययः । धातोः गुणः अवादेशः । तृतीया एकवचनांतरूपम् ।
+- साधारण्या—साधारणीशब्दः जीसंतत्वात् अंतोदात्तः । तृतीयायां यणादेशे जाते उदात्तयणोहल् पूर्वात् (पा सू. ६-१-१७४) इति विभक्तेः उदात्तस्वरो भवति ।
+- मिमिक्षुः—मिह सेचने । अस्य धातोः समानार्थकः मिमिक्ष धातुः । लिट् प्रथमपुरुष बहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- रोदसी—द्यावापृथिवीवाचकोऽयं शब्दः आद्युदात्तः अपि अत्र व्यत्ययेन अंतोदात्तो भवति । अथवा स्त्रीत्वे जीष् आगच्छति इति प्रत्ययस्वरेण अंतोदात्तो भवति । सप्तमी परे सुपां सुलुक् (पा सू. ७-१-३९) इति तस्य ईकारादेशः । अथवा लुक् । सप्तम्यर्थे ईकारत्वात् ई दूत् च सप्तम्यर्थ्ये इति प्रगृह्यसंज्ञा भवति इति अच् परे अपि संधिर्न भवति ।
+- नुदंत—णुद प्रेरणे धातुः । णोनः इति आदेः नत्वम् । छांदसत्वेन वर्तमानार्थे लज् । प्रथमपुरुष बहुवचनांतरूपम् । छांदसत्वेन अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- जुषंत—जुषी प्रीतिसेवनयोः धातुः । पूर्ववत् छांदसत्वेन लज् प्रथमपुरुष बहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । विकरणस्वरः अवतिष्ठते ।
+- वृधं—वृधु वृद्धौ धातुः । क्विप् प्रत्ययः । द्वितीया एकवचनांतरूपम् ।
+- सख्याय—सख्युर्यः इति भावार्थे य प्रत्ययः । यस्येति च इति इकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तो भवति । चतुर्थी एकवचनांतरूपम् ।
+
+### Printed p. 89
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जोष॒द्यदी॑मसु॒र्या॑ स॒चध्यै॒ विषि॑तस्तुका रोद॒सी नृ॒मणाः॑ ।  
+> आ सू॒र्येव॑ विध॒तो रथं॑ गात्त्वे॒षप्र॑तीका॒ नभ॑सो॒ नेत्या ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जोषत् । यत् । ईं । असुर्या । सचध्यै । विसितस्तुका । रोदसी । नृमनाः ।  
+> आ । सूर्याइव । विधतः । रथं । गात् । त्वेषप्रतीका । नभसः । न इत्या ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रोदसी मरुत्पत्नी विद्युद्वा एतन्नामिकेयमपीमेनं मरुत्संघं
+> जोषत् सेवते ॥ जुषेर्लेट्यडागमः ॥ किमर्थं । सचद्यै संगमनार्थं । कीदृशी
+> सा । असुर्या । असुराः क्षेप्तारो मरुतः । तेषां स्वभूता विषितस्तुका विशिष्टकेशसंघा विप्रकीर्णकेशसंघा वा संभोगवशेन तथा नृमणा नृषु नेतृषु मरुतु
+> मननवती मनुष्येषु वा वृष्टिप्रदानमनोयुक्ता त्वेषप्रतीका दीपोपक्रमा
+> दीप्तावयवा । ईदृशी देवी विधतः परिचरतो मरुत्संघस्य रथमा गात् । आगच्छति ।
+> व्याप्नोति । यागदेशं गंतुं रथमारुह्य वा यज्ञमागच्छति । केव । विधतः
+> सूर्यस्य रथं त्वेषप्रतीका सूर्येव सूर्यपत्नीव । यद्वा । सूर्यस्य दुहिताश्विनो रथमिव सा यथारोहति तद्वत् । आगमने दृष्टांतः । नभस इत्यान ।
+> अंतरिक्षादित्ययोः साधारणोऽयं नभःशब्दः नभ इति षट् साधारणानि । नै. १-४ ।
+> इत्युक्तत्वात् । अत्रादित्यवचनः । तस्य गतिरिव । सा यथा शीघ्रं तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Rodasī, the wife of the Maruts, or the lightning of that name, जोषत् (*joṣat*) (serves) this company of Maruts; जोषत् (*joṣat*) has the augment aṭ of the leṭ of the root *juṣ*. For what? सचद्यै (*sacadyai*), for union. What is she like? असुर्या (*asuryā*): the असुराः (*asurāḥ*) are the throwers, the Maruts; she is their own. विषितस्तुका (*viṣitastukā*): with a distinguished mass of hair, or with a scattered mass of hair, so by the force of union. नृमणा (*nṛmaṇā*): with her mind on the leaders, the Maruts, or intent on the giving of rain to men. त्वेषप्रतीका (*tveṣapratīkā*): brilliant in beginning, with shining limbs. Such a goddess comes (गात् (*gāt*), आगच्छति (*āgacchati*), reaches) to the chariot of the serving band of Maruts; either mounting the chariot to go to the place of sacrifice, or coming to the sacrifice. Like whom? सूर्येव (*sūryeva*), like the wife of Sūrya going to Sūrya's chariot with brilliant form; or, as the daughter of Sūrya mounts the chariot of the Aśvins, so she. An illustration of her coming: नभस इत्या न (*nabhasa ityā na*). The word नभस (*nabhasa*) is common to the atmosphere and the sun, since it is said "नभ (*nabha*) is one of six common words" (Nai. 1-4) **NOTE**. Here it denotes the sun. She comes as the course of the sun is, swift.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुर्या (*asuryā*)—belonging to the Maruts, the scatterers (of the clouds)
+- विषितस्तुका (*viṣitastukā*)—with a scattering mass of hair (and)
+- नृमणाः (*nṛmaṇāḥ*)—with her mind fixed on the Marut deities, the leaders
+- रोदसी (*rodasī*)—Rodasī, the wife of the Maruts (lightning)
+- सचध्यॆ (*sacadhyè*)—for union
+- ईं (*īṃ*)—this company of Maruts
+- यत् (*yat*)—because
+- जोषत् (*joṣat*)—she serves (desires)
+- तत् (*tat*)—therefore
+- त्वेषप्रतीका (*tveṣapratīkā*)—Rodasī, brilliant in beginning (with shining limbs)
+- सूर्या इव (*sūryā iva*)—like the wife of Sūrya (mounting the chariot of Sūrya) or like the daughter of Sūrya
+
+### Printed p. 90
+
+- (mounting) the chariot of the Aśvin deities
+- नभसः (*nabhasaḥ*)—of the sun
+- इत्या न (*ityā na*)—(as his course is swift) with swift motion
+- विधतः (*vidhataḥ*)—of the Maruts, restless by nature
+- रथं (*rathaṃ*)—the chariot
+- आ गात् (*ā gāt*)—she reaches
+
+##### भावार्थ (Bhāvārtha)
+
+Rodasī (the lightning), the companion of the Marut deities who scatter the clouds, with dishevelled mass of hair and with her mind fixed on the Maruts themselves, the wife of the Maruts, desires the company of the Maruts for union. Therefore, with shining limbs, as the wife of Sūrya mounts Sūrya's chariot, or as Sūryā, the daughter of Sūrya, mounts the chariot of the Aśvins, she mounts the chariot of the Marut deities, with a speed as swift as the sun's.
+
+##### English translation (H. H. Wilson)
+Rodasi, the associate of the scatterers(of the clouds), with dishevelled
+tresses, and mind devoted to her lords, wooes thcm to associate (with her):
+Radiant in form, she has ascended the car of the restless (Maruts) as Surya
+(ascended the car of the Ashwins), and comes hither (with the celerity) of
+the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+रोदसी ईं जोषत् (*rodasī īṃ joṣat*)—मरुत्पत्नी विद्युत् (*marutpatnī vidyut*) and so on: the lightning, who is the wife of the Maruts, serves the company of the Maruts. In poetic style a conjugal relation is described between the Maruts and the lightning. It is well known in the Purāṇas that there are seven kinds of Maruts (the names Āvaha, Udvaha, Saṃvaha, Pravaha, Parivaha and so on are well known for the seven Maruts). Following this, "company of Maruts" is said here. This is one kind of meaning. Another meaning is also understood here from the sentence एतन्नामिका मरुत्संघं एनं सेवतॆ (*etannāmikā marutsaṃghaṃ enaṃ sevatè*): a woman, seeing men roaming here and there with desire for pleasure, becomes attached also to their companies.
+
+The particle ईं (*īṃ*) is explained by Yāska: अथ ये प्रवृत्तेर्थमिताक्षरेषु ग्रंथेषु वाक्य पूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति (*atha ye pravṛtterthamitākṣareṣu graṃtheṣu vākya pūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti*). That is: in works in prose, particles (indeclinables) are used to complete the sentence; in works bound by metre they are used in the sense of completing the word (the foot). These are the particles कं (*kaṃ*), ईं (*īṃ*), इत् (*it*), उ (*u*). Of these, the particle ईं (*īṃ*) is used here. For it Sāyaṇa explains the meaning एनं मरुत्संघं (*enaṃ marutsaṃghaṃ*).
+
 ---
 
-**Progress note:** Done through printed p. 84. pp. 79-84 (batch API)
+**Progress note:** Done through printed p. 90. pp. 85-90 (batch API)
