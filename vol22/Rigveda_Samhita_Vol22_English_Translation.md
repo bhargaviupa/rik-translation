@@ -7254,6 +7254,278 @@ May Twastri be propitiated by this our praise : may he who is of comprehensive u
 - त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
 - वरूत्रीभिः (*varūtrībhiḥ*)—together with the wives of the gods who ward off calamities
 
+### Printed p. 163
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नमगॆ (*namagè*)—
+- सुशरणः (*suśaraṇaḥ*)—as a giver of refuge
+- अस्तु (*astu*)—may he be
+- रायः (*rāyaḥ*)—riches
+- वि दधातु (*vi dadhātu*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess-wives of the gods, who are bestowers of gifts, give us the riches we desire. May the wife of Varuṇa hear our praise. May heaven and earth also hear our praise. May Tvaṣṭṛ, the excellent giver, together with the goddess-wives of the gods who ward off calamities, be a giver of refuge to us. And may he provide us with riches too.
+
+##### English translation
+May they who are the givers of gifts bestow upon us the treasures (we desire): may Rodasi and Varunani hear (our supplications): may the generous Twashtri, together with these (our) protectresses, be our sure refuge: may he give us riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sudatraḥ—For this word Yāska gives the etymology: सुदत्रः कल्याणदानः । त्वष्टा सुदत्रो विदधातु रायः इत्यपि निगमो भवति (*sudatraḥ kalyāṇadānaḥ | tvaṣṭā sudatro vidadhātu rāyaḥ ityapi nigamo bhavati*) (Ni. 6-14). Sudatra means excellent giving; the sense is giving excellent things. In this matter he has cited the sentence of the present Ṛk itself, त्वष्टा सुदत्रो विदधातु रायः (*tvaṣṭā sudatro vidadhātu rāyaḥ*), as the example.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नो॒ रायः॒ पर्व॑ता॒स्तन्न॒ आप॒स्तद्रा॑ति॒षाच॒ ओष॑धीरु॒त द्यौः ।  
+> वन॒स्पति॑भिः पृथि॒वी स॒जोषा॑ उ॒भे रोद॑सी॒ परि॑ पासतो नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । रायः । पर्वताः । तत् । नः । आपः । तत् । रातिऽसाचः । ओषधीः । उत । द्यौः ।  
+> वनस्पतिभिः । पृथिवी । सजोषाः । उभे इति । रोदसी इति । परि । पासतः । नः ॥२३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं । तदित्यव्ययः । ता रायो धनानि पर्वताः परिपांतु । नोऽस्माकं तत्ता राय आपश्च परिपांतु । तद्रातिषाचो दानसहिता देवपत्न्यश्च परिपांतु । ओषधीरोषधयश्च तत्परिपांतु । उतापि च द्यौस्तत्परिपातु । वनस्पतिभिः सजोषाः सहिता पृथिव्यंतरिक्षं च तत्परिपातु । आपः पृथिवीत्यंतरिक्षनामसु पाठात् नोऽस्माकं तदुभे रोदसी द्यावापृथिव्यावपि परि पासतः । परिरक्षतां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes the verse thus: नोऽस्माकं (*no 'smākaṃ*) means "our", and तत् (*tat*) is an indeclinable. May the mountains fully protect those riches; may the waters too protect for us those riches. May the goddess-wives of the gods, the givers of gifts, protect them, and the herbs likewise. May heaven protect them as well. May the earth, which is the atmosphere, united with the forest-trees, protect them; since आपः (*āpaḥ*) and पृथिवी (*pṛthivī*) are read among the names of the atmosphere, he takes them so. May both Rodasī, heaven and earth, also protect those riches for us.
+
+### Printed p. 164
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—for us
+- तत् रायः (*tat rāyaḥ*)—that same desired wealth
+- पर्वताः (*parvatāḥ*)—the mountains (may they protect fully)
+- नः (*naḥ*)—for us
+- तत् (*tat*)—that same wealth
+- आपः (*āpaḥ*)—may the waters protect
+- रातिषाचः (*rātiṣācaḥ*)—the goddess-wives of the gods devoted to giving
+- तत् (*tat*)—may they protect it
+- उत (*uta*)—and
+- द्यौः (*dyauḥ*)—the heavenly world
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- वनस्पतिभिः सजोषाः (*vanaspatibhiḥ sajoṣāḥ*)—united with the forest-trees
+- पृथिवी (*pṛthivī*)—the atmosphere (may it protect)
+- नः (*naḥ*)—for us
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- परि पासतः (*pari pāsataḥ*)—may they protect those riches
+
+##### भावार्थ (Bhāvārtha)
+
+May the mountains and the waters protect the riches we desire. May the goddess-wives of the gods devoted to giving protect them too. May the presiding goddess of the heavenly world, the herbs, the atmosphere united with the forest-trees, (the earth) and heaven and earth as well, protect that wealth fully.
+
+##### English translation
+May the mountains, the waters, the liberal (wives of the gods), the plants, also the heaven and the earth, consentient with the forest lords and both the heaven and earth, preserve for us those (coveted) riches.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ तदु॒र्वी रोद॑सी जिहाता॒मनु॑ द्यु॒क्षो वरु॑ण॒ इंद्र॑सखा  
+> अनु॒ विश्वे॑ म॒रुतो॒ ये स॒हासो॑ रा॒यः स्या॑म ध॒रुणं॑ धि॒यध्यै॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । तत् । उर्वी इति । रोदसी इति । जिहातां । अनु । द्युक्षः । वरुणः । इंद्रसखा ।  
+> अनु । विश्वे । मरुतः । ये । सहासः । रायः । स्याम । धरुणं । धियध्यै ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तद्वक्ष्यमाणमुर्वी विस्तीर्णे रोदसी द्यावापृथिव्यावनु जिहातां । अनुगच्छतां । अनुमन्येतामित्यर्थः । द्युक्षो दीप्तेर्निवासभूत इंद्रसखेंद्रसखः ॥ इंद्रः सखा यस्येति बहुव्रीहिः ॥ वरुणश्च तदनु जिहीतां । द्विवचनांतस्यैकवचनांततया विपरिणामः । ये सहासः शत्रूणामभिभवितारस्ते मरुतोऽपि तदनु जिहतां । अत्र बहुवचनांततया विपरिणामः । यदनुमंतव्यं तदाह । धियध्यै भरणीयं धारयितुं रायो धनस्य धरुणं धाम स्थानं वयं स्याम । भवेमेति ॥
+
+##### Gist of the bhāṣya
+
+May the vast heaven and earth, Rodasī, follow, that is, assent to, what is about to be said. May Varuṇa too, the dwelling-place of brilliance, Indra's friend (a bahuvrīhi: he whose friend is Indra), assent to it; the dual is changed to the singular. May the Maruts also, who are overpowerers of enemies (सहासः (*sahāsaḥ*)), assent; here the change is to the plural. He states what is to be assented to: that we may be the abode, the resting-place, of the wealth to be borne and held, धियध्यै (*dhiyadhyai*); may we become so.
+
+### Printed p. 165
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तत् (*tat*)—our desired objects
+- उर्वी (*urvī*)—vast
+- रोदसी (*rodasī*)—heaven and earth
+- अनु जिहातां (*anu jihātāṃ*)—may they assent
+- द्युक्षः (*dyukṣaḥ*)—the support of radiance
+- इंद्रसखा (*iṃdrasakhā*)—friend of Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अनु (*anu*)—may he assent
+- ये (*ye*)—who
+- सहासः (*sahāsaḥ*)—are able to defeat enemies
+- विश्वे (*viśve*)—all such
+- मरुतः (*marutaḥ*)—Maruts
+- अनु (*anu*)—may they assent
+- (वयं (*vayaṃ*)—we)
+- धियध्यै (*dhiyadhyai*)—for our sustenance
+- रायः (*rāyaḥ*)—of wealth
+- धरुणं (*dharuṇaṃ*)—as a dwelling-place
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+May heaven and earth assent to our desired objects. May Varuṇa, the support of radiance and friend of Indra, and all the Maruts, able to defeat enemies, assent. May we become the dwelling-place of wealth for our sustenance.
+
+##### English translation
+Let the vast heaven and earth consent: let the brilliant Varuna, of whom Indra is the friend, consent: let all the victorious Maruts consent that we may be a receptacle for the retention of riches.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्न॒ इंद्रो॒ वरु॑णो मि॒त्रो अ॒ग्निराप॒ ओष॑धीर्व॒निनो॑ जुषंत  
+> शर्म॑न्स्याम म॒रुता॑मु॒पस्थे॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । इंद्रः । वरुणः । मित्रः । अग्निः । आपः । ओषधीः । वनिनः । जुषंत ।  
+> शर्मन् । स्याम । मरुतां । उपस्थे । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मभ्यं तदिदं स्तोत्रमिंद्रो वरुणश्च मित्रश्चाग्निश्चापश्चौषधीरोषधयश्च वनिनो वृक्षाश्च जुषंत । जुषंतां । सेवंतां । वयं च मरुतामुपस्थ उपस्थाने वर्तमानाः शर्मन्शर्मणि सुखे गृहे वा स्याम । भवेम । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+May Indra, Varuṇa, Mitra, Agni, the waters, the herbs and the trees accept, that is, serve, this praise of ours. And may we, abiding in the lap (उपस्थ (*upastha*)) of the Maruts, be in शर्मन् (*śarman*), that is, in happiness or in a house. The rest is established.
+
+### Printed p. 166
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—recited by us
+- तत् (*tat*)—this praise
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—Agni
+- आपः (*āpaḥ*)—the waters
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- वनिनः (*vaninaḥ*)—the trees
+- जुषंते (*juṣaṃte*)—may they accept
+- (वयं (*vayaṃ*)—we)
+- मरुतां (*marutāṃ*)—of the Maruts
+- उपस्थे (*upasthe*)—abiding in the presence
+- शर्मन् (*śarman*)—in a happy house
+- स्याम (*syāma*)—may we be
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पाते (*pāte*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, Varuṇa, Mitra, Agni, the waters, the herbs and the trees accept this praise recited by us. May we, abiding in the presence of the Maruts, be in a happy house. O gods, always protect us with blessings.
+
+##### English translation
+May Indra, Varuna, Mitra, Agni, the waters, the herbs, the trees, be pleased by our (praise): may we, (reclining) on the lap of the Maruts, enjoy felicity: and do you ever cherish us with blessings.
+
+## Sūkta 35 (Maṇḍala 7)
+The thirty-fifth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शं न इंद्राग्नी इति पंचदशर्चं द्वितीयं सूक्तं । आत्रेयमनुक्रमणिका ।
+> शं नः पंचोना शांतिरिति । वसिष्ठ ऋषिः । त्रिष्टुप् छंदः । वैश्वदेवं हेत्युक्तत्वादिदमपि वैश्वदेवं ॥ महानाम्नीव्रत एतत्सूक्तं जप्यं । तथा च सूत्रितं । भद्रं कर्णेभिः शृणुयाम देवाः शं न इंद्राग्नी भवतामवोभिः । आ. ८-१४॥ इति । एव....सु॥
+
+##### Gist of the bhāṣya
+
+The sūkta शं न इंद्राग्नी (*śaṃ na iṃdrāgnī*) of fifteen Ṛks is the second sūkta. The Anukramaṇikā says: शं नः पंचोना शांतिरिति (*śaṃ naḥ paṃconā śāṃtiriti*). Vasiṣṭha is the seer, the metre is Triṣṭubh. Since it was said that the deity is Vaiśvadeva, this too is Vaiśvadeva. In the Mahānāmnī vrata this sūkta is to be muttered (japya). So it is laid down in the sūtra: भद्रं कर्णेभिः शृणुयाम देवाः शं न इंद्राग्नी भवतामवोभिः (*bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ śaṃ na iṃdrāgnī bhavatāmavobhiḥ*) (Ā. 8-14). The quotation then ends in the abridgement एव....सु (*eva....su*).
+
+##### Anuvāda
+
+This sūkta शं न इंद्राग्नी (*śaṃ na iṃdrāgnī*) is the second sūkta in the third anuvāka. It has fifteen Ṛks. In the Anukramaṇikā it is said: शं नः पंचोना शांतिः (*śaṃ naḥ paṃconā śāṃtiḥ*). The seer of this sūkta is Vasiṣṭha, the deity the Viśvedevas, the metre Triṣṭubh. That this sūkta is to be muttered in the vrata called Mahānāmnī (a rite), one of the four vratas taught in the domestic rites, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, भद्रं कर्णेभिः शृणुयाम देवाः शं न इंद्राग्नी भवतामवोभिः (*bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ śaṃ na iṃdrāgnī bhavatāmavobhiḥ*) (Ā. 8-14).
+
+### Printed p. 167
+Sūkta 35. Maṇḍala 7. Anuvāka 3. Sūkta 35. Aṣṭaka 5. Adhyāya 3. Vargas 28, 29, 30. Number of Ṛks in the sūkta: 15. Seer: Vasiṣṭha. Deity: Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं न॑ इंद्रा॒ग्नी भ॑वता॒मवो॑भिः॒ शं न॒ इंद्रा॒वरु॑णा रा॒तह॑व्या ।  
+> शमिंद्रा॒सोमा॑ सुवि॒ताय॒ शं योः शं न॒ इंद्रा॑पू॒षणा॒ वाज॑सातौ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । इंद्राग्नी इति । भवतां । अवःऽभिः । शं । नः । इंद्रावरुणा । रातहव्या ।  
+> शं । इंद्रासोमा । सुविताय । शं । योः । शं । नः । इंद्रापूषणा । वाजसातौ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकमस्मभ्यं वेंद्राग्नी अवोभिः रक्षणैः शं शांत्यै भवतां । रातहव्या रातहव्यौ यजमानैर्दत्तहविष्काविंद्रावरुणेंद्रावरुणावपि नोऽस्मभ्यं शं शांत्यै भवतां । इंद्रासोमेंद्रासोमावपि नः शं शांत्यै सुविताय कल्याणाय च भवतां । शं शांत्यै सुखाय च । पुनरुक्तिरादरार्था । अथवा शं शमनहेतुकं सुखं योर्विषययोगनिमित्तं सुखमित्यपुनरुक्तिः । इंद्रापूषणेंद्रापूषणावपि वाजसातौ युद्धेऽन्नलाभे निमित्ते वा नः शं शांत्यै भवतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May Indra and Agni, with their protections, be for our peace (शं (*śaṃ*)). May Indra and Varuṇa, रातहव्या (*rātahavyā*), to whom the sacrificers have given oblations, also be for our peace. May Indra and Soma also be for our peace and for our welfare (सुविताय (*suvitāya*)). शं योः (*śaṃ yoḥ*): for peace and for happiness; the repetition is for emphasis. Or else शं (*śaṃ*) is happiness arising from the cessation of evil, and योः (*yoḥ*) is happiness arising from contact with what is desired, so there is no repetition. May Indra and Pūṣan also be for our peace in the वाजसातौ (*vājasātau*), in battle or in the winning of food, or on that occasion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—the deities Indra and Agni
+- अवोभिः (*avobhiḥ*)—with their protections
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- भवतां (*bhavatāṃ*)—may they be
+- रातहव्या (*rātahavyā*)—to whom oblation has been offered
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—the deities Indra and Varuṇa
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—may they be for peace
+- इंद्रासोमा (*iṃdrāsomā*)—the deities Indra and Soma
+- शं (*śaṃ*)—for our peace
+- सुविताय (*suvitāya*)—and for welfare, may they be
+- शं योः (*śaṃ yoḥ*)—may they strive for the establishment of peace and the removal of sorrow
+- इंद्रापूषणा (*iṃdrāpūṣaṇā*)—the deities Indra and Pūṣan
+- वाजसातौ (*vājasātau*)—in the battle fought for food
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—may they be givers of happiness
+
+### Printed p. 168
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra and Agni, with their protections, be givers of peace to us. May Indra and Varuṇa, to whom the oblation is offered, be givers of peace to us. May Indra and Soma bring us peace and welfare. May they bring us welfare through the removal of our sorrow. May Indra and Pūṣan be givers of happiness to us in the battle fought for food.
+
+##### English translation
+May Indra and Agni be (with us) with their protections for our happiness: may Indra and Varuna, to whom oblations are offered, (be with us) for our happiness: may Indra and Soma be (with us) for our happiness, our prosperity, our good: may Indra and Pushan be (with us) in battle for our triumph.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॒ भगः॒ शमु॑ नः॒ शंसो॑ अस्तु॒ शं नः॒ पुरं॑धिः॒ शमु॑ संतु॒ रायः॑ ।  
+> शं नः॑ स॒त्यस्य॑ सु॒यम॑स्य॒ शंसः॒ शं नो॑ अर्य॒मा पु॑रुजा॒तो अ॑स्तु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । भगः । शं । ऊं इति । नः । शंसः । अस्तु । शं । नः । पुरंधिः । शं । ऊं इति । संतु । रायः ।  
+> शं । नः । सत्यस्य । सुयमस्य । शंसः । शं । नः । अर्यमा । पुरुजातः । अस्तु ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं शं शांत्यै भगो देवोऽस्तु । भवतु । नोऽस्माकं शमु शांत्या एव शंसो नराशंसोऽस्तु । भवतु । नोऽस्माकं शं शांत्यै पुरंधिर्बहुधीरप्यस्तु । रायो धनान्यपि शमु शांत्या एव संतु । नोऽस्माकं सुयमस्य शोभनयमयुक्तस्य सत्यस्य शंसो वचनमपि शमस्तु । नोऽस्माकं शं शांत्यै पुरुजातो बहुप्रादुर्भावोऽर्यमा देवोऽप्यस्तु ॥
+
+##### Gist of the bhāṣya
+
+May the god Bhaga be for our peace. May Narāśaṃsa be for our peace alone. May Purandhi, the one of many thoughts, be for our peace. May riches too be for peace alone. May the utterance (शंसः (*śaṃsaḥ*)) of truth, which is well restrained (सुयमस्य (*suyamasya*), endowed with fair restraint), be for our peace. May the god Aryaman, पुरुजातः (*purujātaḥ*), of many manifestations, also be for our peace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भगः (*bhagaḥ*)—Bhaga
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अस्तु (*astu*)—may he be
+- नः (*naḥ*)—our
+- शमु (*śamu*)—for peace alone
+- शंसः (*śaṃsaḥ*)—Narāśaṃsa (may he be)
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- पुरंधिः (*puraṃdhiḥ*)—Purandhi
+
 ---
 
-**Progress note:** Done through printed p. 162. pp. 157-162 (batch API)
+**Progress note:** Done through printed p. 168. pp. 163-168 (batch API)
