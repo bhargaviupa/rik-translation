@@ -1158,8 +1158,8 @@ Title block:
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.6)** *(begun; breaks at the foot of p. 33)*
 
-> उभे अहश्च रात्रिश्च । यद्वा । उभे द्यावापृथिव्यौ अरणी वा । भद्रे भजनीये शोभनाङ्ग्यौ मेने स्त्रियौ जोषयेते न । सेवेते इव । यथा शोभने स्त्रियौ चामरहस्ते राजानमुभयतः सेवेते । एवं द्यावापृथिव्यावेनमग्निमुभयतः सेवेते इत्यर्थः । अपि च वाश्रा हंभारवं कुर्वत्यो गावो न गावो यथैवैः स्वकीयैश्च [?] वत्सैरादरातिशयेन [?] स्वकीयान्वत्सानुप तस्थुः संगच्छन्ते । तथेममग्निं द्यावापृथिव्यावुपस्थिते भवतः । पूर्वं सेवनमात्रमुक्तं । इदानीं पुनर्गोनिदर्शनेन तत्रैवादरातिशयो द्योत्यते । अतः सोऽग्निर्दक्षाणां सर्वेषां बलानां दक्षपतिर्बभूव आसीत् । बलानां मध्ये यदतिशयितं बलं तस्याधिपतिर्बभूवेत्यर्थः । यमग्निं दक्षिणत आहवनीयस्य दक्षिणभागेऽवस्थिता…
-> *ubhe ahaś ca rātriś ca | yadvā | ubhe dyāvāpṛthivyau araṇī vā | bhadre bhajanīye śobhanāṅgyau mene striyau joṣayete na | sevete iva | yathā śobhane striyau cāmarahaste rājānam ubhayataḥ sevete | evaṃ dyāvāpṛthivyāv enam agnim ubhayataḥ sevete ity arthaḥ | api ca vāśrā haṃbhāravaṃ kurvatyo gāvo na gāvo yathaivaiḥ svakīyaiś ca [?] vatsair ādarātiśayena [?] svakīyān vatsān upa tasthuḥ saṃgacchante | tatheimam agniṃ dyāvāpṛthivyāv upasthite bhavataḥ | pūrvaṃ sevanamātram uktaṃ | idānīṃ punar goniḍarśanena tatraivādarātiśayo dyotyate | ataḥ so 'gnir dakṣāṇāṃ sarveṣāṃ balānāṃ dakṣapatir babhūva āsīt | balānāṃ madhye yad atiśayitaṃ balaṃ tasyādhipatir babhūvety arthaḥ | yam agniṃ dakṣiṇata āhavanīyasya dakṣiṇabhāge 'vasthitā…* *(the sentence continues on p. 34)*
+> उभे अहश्च रात्रिश्च । यद्वा । उभे द्यावापृथिव्यौ अरणी वा । भद्रे भजनीये शोभनाङ्ग्यौ मेने स्त्रियौ जोषयेते न । सेवेते इव । यथा शोभने स्त्रियौ चामरहस्ते राजानमुभयतः सेवेते । एवं द्यावापृथिव्यावेनमग्निमुभयतः सेवेते इत्यर्थः । अपि च वाश्रा हंभारवं कुर्वत्यो गावो न गावो यथैवैः स्वकीयैश्चरित्रैरादरातिशयेन स्वकीयान्वत्सानुप तस्थुः संगच्छन्ते । तथेममग्निं द्यावापृथिव्यावुपस्थिते भवतः । पूर्वं सेवनमात्रमुक्तं । इदानीं पुनर्गोनिदर्शनेन तत्रैवादरातिशयो द्योत्यते । अतः सोऽग्निर्दक्षाणां सर्वेषां बलानां दक्षपतिर्बभूव आसीत् । बलानां मध्ये यदतिशयितं बलं तस्याधिपतिर्बभूवेत्यर्थः । यमग्निं दक्षिणत आहवनीयस्य दक्षिणभागेऽवस्थिता…
+> *ubhe ahaś ca rātriś ca | yadvā | ubhe dyāvāpṛthivyau araṇī vā | bhadre bhajanīye śobhanāṅgyau mene striyau joṣayete na | sevete iva | yathā śobhane striyau cāmarahaste rājānam ubhayataḥ sevete | evaṃ dyāvāpṛthivyāv enam agnim ubhayataḥ sevete ity arthaḥ | api ca vāśrā haṃbhāravaṃ kurvatyo gāvo na gāvo yathaivaiḥ svakīyaiś caritrair ādarātiśayena svakīyān vatsān upa tasthuḥ saṃgacchante | tatheimam agniṃ dyāvāpṛthivyāv upasthite bhavataḥ | pūrvaṃ sevanamātram uktaṃ | idānīṃ punar goniḍarśanena tatraivādarātiśayo dyotyate | ataḥ so 'gnir dakṣāṇāṃ sarveṣāṃ balānāṃ dakṣapatir babhūva āsīt | balānāṃ madhye yad atiśayitaṃ balaṃ tasyādhipatir babhūvety arthaḥ | yam agniṃ dakṣiṇata āhavanīyasya dakṣiṇabhāge 'vasthitā…* *(the sentence continues on p. 34)*
 
 *(Sense, mine and tentative: "The two: the day and the night; or the two: heaven and earth, or the two fire-sticks. The two, lovely (*bhadre*), fair-limbed women (*mene*), serve (*joṣayete*) — as it were serve, as two beautiful women, with fly-whisks in their hands, serve a king on both sides: so heaven and earth serve this Agni on both sides. And as cows (*gāvaḥ*), lowing, approach their own calves with the greatest regard [the print's words are clotted [?]], so heaven and earth stand near this Agni. Earlier only 'service' was said; now, by the comparison with cows, the excess of regard is signified. Therefore that Agni became lord (*dakṣapatiḥ*) of all strengths (*dakṣāṇām*): he became lord of the strength that is the most excessive among strengths. The Agni whom, on the right, to the south of the Āhavanīya, those standing…")*
 
@@ -1334,15 +1334,15 @@ Title block:
 
 ***udyaṃyamīti*** — *bhṛśam udyatān ūrdhvābhimukhāni karoti*: "'he makes them greatly lifted, turned upward' — it is said that Agni is thus compared to the sun. Skandasvāmin, however, explains this in another way:"
 
-> देवपरिवेषणवेलायां यदुद्यमनं तदिहाभिप्रेतं । देवान्परिवेष्टुं हवींष्यादाय पुनःपुनरुद्यच्छति । सवितेव । यजमाननामैतत् [?] शाकपूणिना पठितं । यजमान इव । देवान्परिवेष्टुं हस्ताभ्यां हवींष्यादाय यजमानवत् पुनःपुनरग्निरुत्क्षिपतीत्यर्थः ।
-> *devapariveṣaṇavelāyāṃ yad udyamanaṃ tad ihābhipretaṃ | devān pariveṣṭuṃ havīṃṣy ādāya punaḥ punar udyacchati | saviteva | yajamānanāmaitat [?] śākapūṇinā paṭhitaṃ | yajamāna iva | devān pariveṣṭuṃ hastābhyāṃ havīṃṣy ādāya yajamānavat punaḥ punar agnir utkṣipatīty arthaḥ |*
+> देवपरिवेषणवेलायां यदुद्यमनं तदिहाभिप्रेतं । देवान्परिवेष्टुं हवींष्यादाय पुनःपुनरुद्यच्छति । सवितेव । यजमाननामैतच्छाकपूणिना पठितं । यजमान इव । देवान्परिवेष्टुं हस्ताभ्यां हवींष्यादाय यजमानवत् पुनःपुनरग्निरुत्क्षिपतीत्यर्थः ।
+> *devapariveṣaṇavelāyāṃ yad udyamanaṃ tad ihābhipretaṃ | devān pariveṣṭuṃ havīṃṣy ādāya punaḥ punar udyacchati | saviteva | yajamānanāmaitac chākapūṇinā paṭhitaṃ | yajamāna iva | devān pariveṣṭuṃ hastābhyāṃ havīṃṣy ādāya yajamānavat punaḥ punar agnir utkṣipatīty arthaḥ |*
 
 **GLOSS** "At the time of distributing the oblations to the gods, Agni repeatedly lifts his upward-turned flames, which is likened to the arms of the sacrificer lifting up to offer the oblations. Because Śākapūṇi has read *savitṛ* among the names of the sacrificer, *savitā* means here the sacrificer who offers the oblations; or, as Skandasvāmin says — '*savitātra āditya eva vābhipretaḥ*' [as read [?]] — here by *savitṛ* the sun himself may be understood."
 
 ***ubhe sicau*** — *ubhe dyāvāpṛthivyau*: "both heaven and earth. *Añjan* — *svatejasā alaṅkurvan*: 'adorning with his own radiance': so Sāyaṇa also construes. Skandasvāmin takes it so —"
 
-> उभे सिचौ—सिचशब्दः अत्र वस्त्राञ्चलवचनः । यततिरपि सन्नहनार्थः । उभे असि वस्त्राञ्चले गाढं सन्नह्यति [?] ।
-> *ubhe sicau — sicaśabdaḥ atra vastrāñcalavacanaḥ | yatatir api sannahanārthaḥ | ubhe asi vastrāñcale gāḍhaṃ sannahyati [?] |*
+> उभे सिचौ—सिचशब्दः अत्र वस्त्राञ्चलवचनः । यततिरपि सन्नहनार्थः । उभे अपि वस्त्राञ्चले गाढं सन्नहति ।
+> *ubhe sicau — sicaśabdaḥ atra vastrāñcalavacanaḥ | yatatir api sannahanārthaḥ | ubhe api vastrāñcale gāḍhaṃ sannahati |*
 
 **GLOSS** "— *sica* here means the hem of a garment, and *yatete* means 'he fastens firmly the hems of the garment and prepares himself to receive the oblation' — so Skandasvāmin construes. This too seems quite appropriate, since in the Ṛksaṃhitā the word *sica* is used as an upapada; and, in one or two places in which it is used, it means the hem of a garment:"
 
@@ -1366,7 +1366,7 @@ Title block:
 
 ***atkaṃ*** — *sārabhūtaṃ rasam*: "'the sap, which is the essence': he draws it up. Thus, for the word *atka*, here in one place only Sāyaṇa has explained 'sap'; in all the other places he explains it, saying plainly that the word is to be read as 'form' (*rūpa*). In some places only it means a covering armour (*kavaca*); in one or two places it is used as 'weapon'; it is also the name of a demon (*rākṣasa*)."
 
-"Skandasvāmin says: '*atkaśabdo 'tra rūpavacanaḥ | añjatir api …artha [?] | śukram āgneyajvālākhyaṃ rūpam utkṣipati | ūrdhvaṃ jvalatīty arthaḥ*' — 'the word *atka* here means "form"; *añjati* too [has such a sense]; he throws up the bright form called the flame of Agni: the sense is that he blazes upward'. Explaining that *udajate* means 'he throws upward', that is, 'spreading with the face turned upward he spreads out; he throws out the flame upward', he cites, from the Ṛksaṃhitā —"
+"Skandasvāmin says: '*atkaśabdo 'tra rūpavacanaḥ | añjatir api kṣepaṇārthaḥ | śukram āgneyajvālākhyaṃ rūpam utkṣipati | ūrdhvaṃ jvalatīty arthaḥ*' — 'the word *atka* here means "form"; *añjati* too [has such a sense]; he throws up the bright form called the flame of Agni: the sense is that he blazes upward'. Explaining that *udajate* means 'he throws upward', that is, 'spreading with the face turned upward he spreads out; he throws out the flame upward', he cites, from the Ṛksaṃhitā —"
 
 > सचा यदासु जहतीष्वत्कमानुषीषु मानुषो निषेवे ।
 > *sacā yad āsu jahatīṣv atkam amānuṣīṣu mānuṣo niṣeve |*
@@ -1374,8 +1374,8 @@ Title block:
 
 **GLOSS** "— he gives to the word *atka* in this sentence the meaning 'beautiful form':"
 
-> स्तरीर्नात्कं वृतं [?] वसाना सूर्यस्य श्रिया सुदृशी हिरण्यैः ।
-> *starīr nātkaṃ vṛtaṃ [?] vasānā sūryasya śriyā sudṛśī hiraṇyaiḥ |*
+> स्तरीर्नात्कं व्युतं वसाना सूर्यस्य श्रिया सुदृशी हिरण्यैः ।
+> *starīr nātkaṃ vyutaṃ vasānā sūryasya śriyā sudṛśī hiraṇyaiḥ |*
 > (*Ṛ. Saṃ.* 1-122-2 as read)
 
 > वसानो अत्कं सुरभिं दृशे कं स्वर्ण नृतविषिरो बभूथ ।
@@ -1486,9 +1486,9 @@ Title block:
 "Secondly, in the explanation of Skandasvāmin —"
 
 > सदने—यज्ञगृहे । गोभिः अद्भिः । गो शब्दः अत्र स्तुतिवचनः ।
-> गोभिर्यदीमन्ये अस्मन्नृगं न व्रा न्यगयन्ते [?]
+> गोभिर्यदी मन्ये अस्मन्मृगं न व्रा मृगयन्ते
 > *sadane — yajñagṛhe | gobhiḥ adbhiḥ | go śabdaḥ atra stutivacanaḥ |*
-> *gobhir yad īm anye asmann ṛgaṃ na vrā ny agayante [?]*
+> *gobhir yadī manye asmanmṛgaṃ na vrā mṛgayante*
 > (*Ṛ. Saṃ.* 8-2-6)
 
 **GLOSS** "— that is, '*stutibhiḥ somarasalakṣaṇābhiś cādbhiḥ stūyamānaḥ somena ca hūyamāna ity arthaḥ*': 'praised by songs of praise, by the waters of the nature of Soma-juice, and invoked by Soma': in the sacrificial house, joined with praises and Soma-juices, he makes his own radiance blaze: so it is explained. Here, to support the sense 'praise' for the word *go*, the scriptural sentence above has been cited as an authority."
@@ -1564,8 +1564,8 @@ Title block:
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.9)** *(begun; breaks at the foot of p. 49)*
 
-> महिषस्य महतस्ते तव ज्रयो राक्षसादीनामभिभावुकं विरोचमानं विशेषेण दीप्यमानमुरु विस्तीर्णं धाम तेजो बुध्नमपां मूलभूतमन्तरिक्षं पर्येति । परितो व्याप्नोति । हे अग्ने । इद्धोऽस्माभिः प्रज्वलितः सन् विश्वेभिः सर्वैः स्वयशोभिः स्वकीयैरात्मीयैस्ते [?] तेजोभिरस्मान्पाहि । रक्ष । कीदृशैः । अदब्धेभिः राक्षसादिभि…
-> *mahiṣasya mahataste tava jrayo rākṣasādīnām abhibhāvukaṃ virocamānaṃ viśeṣeṇa dīpyamānam uru vistīrṇaṃ dhāma tejo budhnam apāṃ mūlabhūtam antarikṣaṃ pary eti | parito vyāpnoti | he agne | iddho 'smābhiḥ prajvalitaḥ san viśvebhiḥ sarvaiḥ svayaśobhiḥ svakīyair ātmīyais te [?] tejobhir asmān pāhi | rakṣa | kīdṛśaiḥ | adabdhebhiḥ rākṣasādibhi…* *(the sentence continues on p. 50)*
+> महिषस्य महतस्ते तव ज्रयो राक्षसादीनामभिभावुकं विरोचमानं विशेषेण दीप्यमानमुरु विस्तीर्णं धाम तेजो बुध्नमपां मूलभूतमन्तरिक्षं पर्येति । परितो व्याप्नोति । हे अग्ने । इद्धोऽस्माभिः प्रज्वलितः सन् विश्वेभिः सर्वैः स्वयशोभिः स्वकीयैरात्मीयैस्तेजोभिरस्मान्पाहि । रक्ष । कीदृशैः । अदब्धेभिः राक्षसादिभि…
+> *mahiṣasya mahataste tava jrayo rākṣasādīnām abhibhāvukaṃ virocamānaṃ viśeṣeṇa dīpyamānam uru vistīrṇaṃ dhāma tejo budhnam apāṃ mūlabhūtam antarikṣaṃ pary eti | parito vyāpnoti | he agne | iddho 'smābhiḥ prajvalitaḥ san viśvebhiḥ sarvaiḥ svayaśobhiḥ svakīyair ātmīyaistejobhir asmān pāhi | rakṣa | kīdṛśaiḥ | adabdhebhiḥ rākṣasādibhi…* *(the sentence continues on p. 50)*
 
 *(Sense, mine and tentative: "Of you, the great (*mahiṣa*) [Agni], the extent (*jraya*) that overpowers the demons and others, your shining, widely spread radiance (*dhāma*) pervades (*pary eti*) the atmosphere (*budhna*), the foundation of the waters. O Agni, being kindled by us, with all your own splendours (*svayaśobhiḥ*), protect us. With what kind? With those unassailable (*adabdhebhiḥ*) by demons and the like…")*
 
@@ -1618,7 +1618,7 @@ Title block:
 
 **GLOSS** "— here the sense is 'excellent', 'worshipful'. In the same way here too it is applied to Agni as an epithet: extremely powerful, strong, and extremely worshipful."
 
-***jrayaḥ*** — "*vartate, ayete, loṭate* and so on, in the list of 122 words of motion (*gatikarma*), the word *jrayati* is read (Ni. 3-9 [?]); so the meaning is 'going'. But this word is used to speak of the speed of going, which shows a certain excellence in that going. For example —"
+***jrayaḥ*** — "*vartate, ayete, loṭate* and so on, in the list of 122 words of motion (*gatikarma*), the word *jrayati* is read (Ni. 3-9); so the meaning is 'going'. But this word is used to speak of the speed of going, which shows a certain excellence in that going. For example —"
 
 > आधीवासं परि मातू रिहन्नह तुविग्रेभिः सत्वभिर्याति वि ज्रयः ।
 > *ādhīvāsaṃ pari mātū rihann aha tuvigrebhiḥ satvabhir yāti vi jrayaḥ |*
@@ -1762,7 +1762,7 @@ Title block:
 
 *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2"; centre "Ṛgvedasaṃhitā"; right 57.)*
 
-*Grammar of Rik 95.10, concluded (noted briefly):* ***prasūṣu*** — root *sūṅ*/*sūṅ prāṇiprasave* (to give birth); *divādi*; with *pra* as upapada *kvip*; the *s* of the first (reduplicate) *ṣatva*; since *kvip* is wholly elided, the root's accent stays; in the compound by *gatikārakopapadāt kṛt* the accent of the first member of the *kṛdanta* compound is retained (Pā. Sū. 6-2-139 [?]); the seventh-case plural. ‖ 10 ‖
+*Grammar of Rik 95.10, concluded (noted briefly):* ***prasūṣu*** — root *sūṅ*/*sūṅ prāṇiprasave* (to give birth); *divādi*; with *pra* as upapada *kvip*; the *s* of the first (reduplicate) *ṣatva*; since *kvip* is wholly elided, the root's accent stays; in the compound by *gatikārakopapadāt kṛt* the accent of the first member of the *kṛdanta* compound is retained; the seventh-case plural. ‖ 10 ‖
 
 ---
 
@@ -1879,7 +1879,7 @@ Title block:
 > स प्रत्नथेति नवर्चं तृतीयं सूक्तं कुत्सस्यार्षं त्रैष्टुभं । द्रविणोदस्स्थगुणविशिष्टोऽग्निः शुद्धाग्निर्वा देवता । तथा चानुक्रान्तं । स प्रत्नथा नव द्रविणोदस इति ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तः सूक्तविनियोगः ॥ व्यूढस्य दशरात्रस्य षष्ठेऽहन्याग्निमारुते इदं सूक्तं जातवेदस्यनिविद्धानं । व्यूढ… क्षेदिति खण्डे सूत्रितं । स प्रत्नथेत्याग्निमारुतं । आ. ८-८ इति । स प्रत्नथा सहसा जायमान इति जातवेदस्यं समानोदर्कमित्यादि ब्राह्मणं ॥ ऐ. ब्रा. ५-१५ ॥ महापितृयज्ञे स्विष्टकृत्स्थानीयस्य कव्यवाहनस्य स प्रत्नथेत्येषा याज्या । दक्षिणाग्नेरिति खण्डे सूत्रितं । स प्रत्नथा सहसा जायमान इत्यग्निः स्विष्टकृत् कव्यवाहनः । आ. २-१९ । इति ॥
 > *sa pratnatheti navarcaṃ tṛtīyaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubhaṃ | draviṇodassthaguṇaviśiṣṭo 'gniḥ śuddhāgnir vā devatā | tathā cānukrāntaṃ | sa pratnathā nava draviṇodasa iti ‖ prātaranuvākāśvinaśastrayoḥ pūrvasūktena sahoktaḥ sūktaviniyogaḥ ‖ vyūḍhasya daśarātrasya ṣaṣṭhe 'hany āgnimārute idaṃ sūktaṃ jātavedasyanividdhānaṃ | vyūḍha… kṣed iti khaṇḍe sūtritaṃ | sa pratnathety āgnimārutaṃ | Ā. Sū. 8-8 iti | sa pratnathā sahasā jāyamāna iti jātavedasyaṃ samānodarkam ity ādi brāhmaṇaṃ ‖ ai. brā. 5-15 ‖ mahāpitṛyajñe sviṣṭakṛtsthānīyasya kavyavāhanasya sa pratnathety eṣā yājyā | dakṣiṇāgner iti khaṇḍe sūtritaṃ | sa pratnathā sahasā jāyamāna ity agniḥ sviṣṭakṛt kavyavāhanaḥ | Ā. Sū. 2-19 | iti ‖*
 
-*Sense (mine, from the Kannada that follows):* "The third sūkta, *sa pratnathā*, of nine Ṛks, is the *ṛṣi*-composition of Kutsa, in the Triṣṭubh metre; its deity is Agni endowed with the quality of 'giver of wealth' (*draviṇodas*), or the pure Agni. And so the Anukramaṇī: '*sa pratnathā nava draviṇodasa*'. The application of the sūkta has been stated along with the preceding sūkta for the Prātaranuvāka and the Aśvina-śastra. On the sixth day of the *Vyūḍha* Daśarātra, in the Āgnimāruta [śastra], this sūkta is the *nivid*-insertion of the Jātavedas [?]; it is laid down in the section 'Vyūḍha…': '*sa pratnatheti āgnimārutam*' (Ā. Sū. 8-8); and the Brāhmaṇa — '*sa pratnathā sahasā jāyamāna iti jātavedasyaṃ samānodarkam*' and so on (Ai. Brā. 5-15). In the Mahāpitṛyajña, for Kavyavāhana in the place of the Sviṣṭakṛt, this Ṛk is the *yājyā*; it is laid down in the section 'for the Dakṣiṇāgni': '*sa pratnathā sahasā jāyamāna ity agniḥ sviṣṭakṛt kavyavāhanaḥ*' (Ā. Sū. 2-19)."
+*Sense (mine, from the Kannada that follows):* "The third sūkta, *sa pratnathā*, of nine Ṛks, is the *ṛṣi*-composition of Kutsa, in the Triṣṭubh metre; its deity is Agni endowed with the quality of 'giver of wealth' (*draviṇodas*), or the pure Agni. And so the Anukramaṇī: '*sa pratnathā nava draviṇodasa*'. The application of the sūkta has been stated along with the preceding sūkta for the Prātaranuvāka and the Aśvina-śastra. On the sixth day of the *Vyūḍha* Daśarātra, in the Āgnimāruta [śastra], this sūkta is the *nivid*-insertion of the Jātavedas; it is laid down in the section 'Vyūḍha…': '*sa pratnatheti āgnimārutam*' (Ā. Sū. 8-8); and the Brāhmaṇa — '*sa pratnathā sahasā jāyamāna iti jātavedasyaṃ samānodarkam*' and so on (Ai. Brā. 5-15). In the Mahāpitṛyajña, for Kavyavāhana in the place of the Sviṣṭakṛt, this Ṛk is the *yājyā*; it is laid down in the section 'for the Dakṣiṇāgni': '*sa pratnathā sahasā jāyamāna ity agniḥ sviṣṭakṛt kavyavāhanaḥ*' (Ā. Sū. 2-19)."
 
 **Anuvāda (Kannada):** "*Sa pratnathā* is the third sūkta in the fifteenth anuvāka. It has nine Ṛks. The ṛṣi of this sūkta is Kutsa Āṅgirasa. The metre is Triṣṭubh. The deity is the Agni who is named Draviṇodas, or Agni alone. In the Anukramaṇikā it is said '*sa pratnathā nava draviṇodasa*'. It was said earlier that the application of this sūkta is also at the time of reciting the mantras of the Prātaranuvāka. On the sixth day of the Vyūḍha *yāga* which is to be performed over ten days, when the mantras of the Agni-Marut śastra are recited, this is to be used as the *nivid* mantra of the Agni named Jātavedas: so it is explained in the Āśvalāyana Śrauta-sūtra, in the section called *Vyūḍha*, by the sūtra '*sa pratnatheti āgnimārutam*' (Ā. Sū. 8-8). In the Aitareya Brāhmaṇa also" *(continues on p. 62)*
 

@@ -165,3 +165,50 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 30	Q2	R1	qmarks q104	tre iti vāruṇe iti vāpi caite pratyakte [?] siṃhaṃ sahanaṃ prat	mark removed	Kannada agrees with the English (reference/reading as printed in the Kannada)	applied	
 30	Q2	R1	qmarks q105	t is read as printed, clotted in places [?]. The reading* praty	mark stays	own remark (or doubt about a place settled elsewhere); removed later by cleanup_remarks.py; not edited	kept	
 31	Q2	R1	qmarks q106	ed briefly; numerals small and doubtful [?])*	mark stays	own remark (or doubt about a place settled elsewhere); removed later by cleanup_remarks.py; not edited	kept	
+32	Q2	R1	qmarks q107	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+33	Q1	R1	qmarks q108	कुर्वत्यो गावो न गावो यथैवैः स्वकीयैश्च  [?]	Kannada reading put in, [?] dropped	Kannada p. 33 reads the place; see edits/e32-61.tsv	applied	
+33	Q1	R1	qmarks q109	 यथैवैः स्वकीयैश्च [?] वत्सैरादरातिशयेन  [?]	Kannada reading put in, [?] dropped	Kannada p. 33 reads the place; see edits/e32-61.tsv	applied	
+33	Q1	R1	qmarks q110	yo gāvo na gāvo yathaivaiḥ svakīyaiś ca  [?]	Kannada reading put in, [?] dropped	Kannada p. 33 reads the place; see edits/e32-61.tsv	applied	
+33	Q1	R1	qmarks q111	 svakīyaiś ca [?] vatsair ādarātiśayena  [?]	Kannada reading put in, [?] dropped	Kannada p. 33 reads the place; see edits/e32-61.tsv	applied	
+33	Q2	R1	qmarks q112	t regard [the print's words are clotted  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+34	Q2	R1	qmarks q113	ाः । वाश्र शब्दे । स्थायितेत्यादिना रक्  [?]	mark stays	Kannada p. 34 has a different non-word form; English kept	kept	
+34	Q2	R1	qmarks q114	āḥ | vāśra śabde | sthāyitety ādinā rak  [?]	mark stays	Kannada p. 34 has a different non-word form; English kept	kept	
+34	Q2	R1	qmarks q115	ing *sthāyi…* [the word read as printed  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+35	Q2	R1	qmarks q116	ānām abhidravaṇīyaṃ bhavati …* [clotted  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+37	Q2	R1	qmarks q117	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+37	Q2	R1	qmarks q118	163; the print's *ṭit* is read as *cit*  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+37	Q2	R1	qmarks q119	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+38	Q2	R1	qmarks q120	i* class. *(Numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+40	Q1	R1	qmarks q121	नःपुनरुद्यच्छति । सवितेव । यजमाननामैतत्  [?]	Kannada reading put in, [?] dropped	Kannada p. 40 reads the place; see edits/e32-61.tsv	applied	
+40	Q1	R1	qmarks q122	dyacchati | saviteva | yajamānanāmaitat  [?]	Kannada reading put in, [?] dropped	Kannada p. 40 reads the place; see edits/e32-61.tsv	applied	
+40	Q2	R1	qmarks q123	tātra āditya eva vābhipretaḥ*' [as read  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+40	Q1	R1	qmarks q124	ः । उभे असि वस्त्राञ्चले गाढं सन्नह्यति  [?]	Kannada reading put in, [?] dropped	Kannada p. 40 reads the place; see edits/e32-61.tsv	applied	
+40	Q1	R1	qmarks q125	 ubhe asi vastrāñcale gāḍhaṃ sannahyati  [?]	Kannada reading put in, [?] dropped	Kannada p. 40 reads the place; see edits/e32-61.tsv	applied	
+41	Q1	R1	qmarks q126	 'tra rūpavacanaḥ | añjatir api …artha " [?]	Kannada reading put in, [?] dropped	Kannada p. 41 reads the place; see edits/e32-61.tsv	applied	
+41	Q1	R1	qmarks q127	> स्तरीर्नात्कं वृतं  [?]	Kannada reading put in, [?] dropped	Kannada p. 41 reads the place; see edits/e32-61.tsv	applied	
+41	Q1	R1	qmarks q128	> *starīr nātkaṃ vṛtaṃ  [?]	Kannada reading put in, [?] dropped	Kannada p. 41 reads the place; see edits/e32-61.tsv	applied	
+41	Q2	R1	qmarks q129	inted, where* vyutaṃ *might be expected  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+41	Q2	R1	qmarks q130	rom small print, the first two doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+42	Q2	R1	qmarks q131	ि तमांसि दिग्भ्यः त्वाष्ट्रोऽग्निरजहात्  [?]	mark stays	Kannada p. 42 has a different non-word form; English kept	kept	
+42	Q2	R1	qmarks q132	i tamāṃsi digbhyaḥ tvāṣṭro 'gnir ajahāt  [?]	mark stays	Kannada p. 42 has a different non-word form; English kept	kept	
+42	Q2	R1	qmarks q133	*(Read from the print, doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+42	Q2	R1	qmarks q134	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+42	Q2	R1	qmarks q135	al (the print has 'accusative singular'  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+43	Q2	R1	qmarks q136	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+44	Q2	R1	qmarks q137	karmaṇi*. *(Numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+46	Q1	R1	qmarks q138	िर्यदीमन्ये अस्मन्नृगं न व्रा न्यगयन्ते  [?]	Kannada reading put in, [?] dropped	Kannada p. 46 reads the place; see edits/e32-61.tsv	applied	
+46	Q1	R1	qmarks q139	 īm anye asmann ṛgaṃ na vrā ny agayante  [?]	Kannada reading put in, [?] dropped	Kannada p. 46 reads the place; see edits/e32-61.tsv	applied	
+47	Q2	R1	qmarks q140	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+49	Q1	R1	qmarks q141	िः सर्वैः स्वयशोभिः स्वकीयैरात्मीयैस्ते  [?]	Kannada reading put in, [?] dropped	Kannada p. 49 reads the place; see edits/e32-61.tsv	applied	
+49	Q1	R1	qmarks q142	rvaiḥ svayaśobhiḥ svakīyair ātmīyais te  [?]	Kannada reading put in, [?] dropped	Kannada p. 49 reads the place; see edits/e32-61.tsv	applied	
+51	Q2	R1	qmarks q143	*), the word *jrayati* is read (Ni. 3-9  [?]	[?] removed	Kannada p. 51 agrees / has no number; see edits/e32-61.tsv	applied	
+52	Q2	R1	qmarks q144	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+53	Q2	R1	qmarks q145	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+54	Q2	R1	qmarks q146	amayam *with the stray nasal as printed  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+56	Q2	R1	qmarks q147	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+57	Q1	R1	qmarks q148	* compound is retained (Pā. Sū. 6-2-139  [?]	Kannada reading put in, [?] dropped	Kannada p. 57 reads the place; see edits/e32-61.tsv	applied	
+58	Q2	R1	qmarks q149	daḥ atra kāṣṭhair ity arthaḥ*' [as read  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+59	Q2	R1	qmarks q150	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+61	Q2	R1	qmarks q151	ed briefly; numerals small and doubtful  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+61	Q2	R1	qmarks q152	rst lines on this page; doubtful places  [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+61	Q2	R1	qmarks q153	 the *nivid*-insertion of the Jātavedas  [?]	[?] removed	Kannada p. 61 agrees / has no number; see edits/e32-61.tsv	applied	
