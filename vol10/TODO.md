@@ -15,10 +15,9 @@ Done: supplied text pp. 2–707 in `html/` (2 files); Kannada Text file pp. 2–
 8. Structure checks: sūkta list (122–136) and Ṛk counts against Wikisource index; particulars lines; labels lost at page breaks; Sanskrit in Latin letters; Cyrillic in Latin words; Kannada script inside the English (674 lines).
 9. Repairs applied (S3), checks rerun with before/after counts; `sp_report.py 10` → `STATUS_REPORT.md`.
 
-## C. Convert to NOTE style
-10. `to_note_style.py 10` trial → read report → `--easy --write`; remaining `[?]`/`[sic]` → `**NOTE**` + `review/notes.tsv`; 2 `**GLOSS**` markers stay (D9 blocks final copy).
-11. Test each NOTE's premise against the Kannada, then `notes_resolve.py 10 --write` (default rule).
-12. Accents: report only (`accent_volume.py`), no replacing without the user.
+## C. NOTE conversion — SKIPPED (user, Nov 27 2026)
+Vol 10 keeps the legacy form like Vols 2–6: `[?]` removed only where the supplied text settles it with certainty; every other `[?]`, `[sic]` and the 2 `**GLOSS**` markers stay (REQUIREMENTS M6, F7). No `to_note_style.py`, no `notes.tsv`. Accent differences are reported only.
+Saṃhitā, Pada and Sāyaṇa-bhāṣya blocks are taken from the Wikisource reference: never read, compared or edited by the second pass; the English file's Devanagari/IAST is derived from the Kannada by script.
 
 ## D. Clean-up and PDF
 13. `cleanup_remarks.py 10 all` dry run, read kept-in-part places, then `--write` (logged in `removed_remarks.tsv`).
