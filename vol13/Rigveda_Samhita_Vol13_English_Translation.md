@@ -5199,6 +5199,156 @@ The permanent companionship of Indra and the Maruts, the relation of king and su
 अतिथ्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धाव्यद्रवन्नन्योन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः सोमो रुद्रैर्वरुण आदित्यैरिंम्रो मरुद्भिर्बृहस्पतिर्विश्वेदेवै ॥ (*atithyena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhāvyadravannanyonyasya śriyā tiṣṭhamānā agnirvasubhiḥ somo rudrairvaruṇa ādityairiṃmro marudbhirbṛhaspatirviśvedevai ‖*) (Śa. Brā. 3-4-2-1).
 Formerly, when the gods performed the rite of hospitality, discord arose among them, and, each unwilling to be defeated by the other, they formed four groups and separated. Agni went with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati
 
+### Printed p. 211
+…formed a separate group together with the Viśvedevas. In this story the close relationship that Indra maintains with the Maruts, through his companionship with them, is stated. Moreover, in many places it is said that Indra is the king and the Maruts are the subjects. For example, in the same Śatapatha Brāhmaṇa:
+
+क्षत्रं ना इंद्रो विशो मरुतो विशा नै क्षत्रियो बलवान् भवति । (*kṣatraṃ nā iṃdro viśo maruto viśā nai kṣatriyo balavān bhavati |*) (Śa. Brā. 4-3-3-6)
+
+Indra is the king, endowed with kṣatriya splendour; the Maruts are the subjects. This indicates that a king becomes powerful only through the cooperation of his subjects, and that Indra's valour grew through the help of the Maruts. Because such a close relationship and companionship exists, the Śrutis show the practice of offering oblations addressed to Indra and the Maruts together. And in Ṛks such as
+
+स नो मरुद्भिवृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः (*sa no marudbhivṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ*) (Ṛ. Saṃ. 1-171-5)
+
+Indra and the Maruts are invoked together and an oblation is offered to them together. Describing this companionship, the Bṛhaddevatā explains the epithet that denotes the relation of these deities by sentences such as
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. Pē. 4-56)**NOTE**
+
+But in the present sūkta, as the result of a dispute between Indra and the Maruts, their mutual enmity and Indra's anger are indicated. The dispute between them, which was the root of this anger, was stated earlier in this way:
+
+क्वंस्यावो मरुतः स्वधासीद्यन्मामेकं समधत्ताहिहत्ये । अहं ह्युंग्रस्तविषस्तुविष्मान्विश्वस्य शत्रोरनमं वधस्नैः ॥ (*kvaṃsyāvo marutaḥ svadhāsīdyanmāmekaṃ samadhattāhihatye | ahaṃ hyuṃgrastaviṣastuviṣmānviśvasya śatroranamaṃ vadhasnaiḥ ‖*) (Ṛ. Saṃ. 1-165-6)
+
+"O Maruts, it is false to say that I killed Ahi with your help. Where indeed was that power of yours? Because my own power is extraordinary, it helped me at the time of killing Vṛtra without seeking the help of any other power. I alone am terrible, of wonderful power and endowed with greatness." Looking on the Maruts with contempt, he thus declares his anger. Here that anger is indicated. It is well known that Indra received the help of the Maruts at the time of slaying the demon Vṛtra. Yet when the Maruts mention that fact and ask that, in memory of that help, they too be given a share in the oblation that belongs to Indra, Indra declares that no help at all came from the Maruts, and that he killed all his enemies by his own power.
+
+### Printed p. 212
+The author of the Nirukta, indicating this same matter, says:
+
+अगस्त्य इंद्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सांचकार । स इंद्र एत्य परिदेवयांचक्रे । (*agastya iṃdrāya havirnirupya marudbhyaḥ saṃpraditsāṃcakāra | sa iṃdra etya paridevayāṃcakre |*) (Ni. 1-5)
+
+Having stated the occasion, namely that when the sage Agastya prepared an oblation for Indra and wished to offer a share of it to the Maruts too, Indra at once objected in the matter, the author of the Nirukta quotes the Ṛk that conveys this point:
+
+न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतं । अन्यस्य चित्तमभि संचरेण्यमुताधीतं विनश्यति ॥ (*na nūnamasti no śvaḥ kastadveda yadadbhutaṃ | anyasya cittamabhi saṃcareṇyamutādhītaṃ vinaśyati ‖*) (Ṛ. Saṃ. 1-170-1)
+
+Here prayer is addressed to the Maruts, so that the force of that anger may abate and not harm him, and with the purpose that the share of the oblation rightly due to the Maruts may reach them. After such words of conciliation, Indra's friendship grew as before, and he himself gives his share of the oblation to the Maruts. The seer in the eighth Maṇḍala praises this same matter, saying:
+
+वृत्रस्य त्वा त्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । (*vṛtrasya tvā tvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ |*)
+मरुद्भरिंद्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासि ॥ (*marudbhariṃdra sakhyaṃ te astvathemā viśvāḥ pṛtanā jayāsi ‖*) (Ṛ. Saṃ. 8-96-7)
+
+O Indra, your friendship with the Maruts is well known. The prayer is: give them too a share in your oblation, and with their help conquer all your enemies.
+
+**ईषमाणि (*īṣamāṇi*)** (īṣamāṇa): Although the root ईष (*īṣa*) is customarily used in the senses of going, injuring and not-seeing, in the Ṛgveda Saṃhitā this word is used only in the sense of going. For example:
+
+सम्यक्स्रवंति सरितो न धेना अंतर्हृदा मनसा पूयमानाः । एते अर्षन्त्युर्मयो घृतस्य मृगा इव क्षिपणोरीषमाणाः ॥ (*samyaksravaṃti sarito na dhenā aṃtarhṛdā manasā pūyamānāḥ | ete arṣantyurmayo ghṛtasya mṛgā iva kṣipaṇorīṣamāṇāḥ ‖*) (Ṛ. Saṃ. 4-58-6 **NOTE**)
+
+In this Ṛk the meaning of the word is clear. By the simile "as deer, frightened by the hunter, run far away and hide", going and not-being-seen are indicated together. Likewise in
+
+वृत्रस्य त्वा त्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । (*vṛtrasya tvā tvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ |*) (Ṛ. Saṃ. 8-96-7)
+
+### Printed p. 213
+in the Ṛk quoted above, too, the state of all the gods fleeing in fear of Vṛtra is expressed by the word ईषमाणा (*īṣamāṇā*). In the present Ṛk the seer himself describes the state of Agastya, who fled in fear of Indra's anger.
+
+**निशितानि (*niśitāni*)** (niśitāni): It is customary to use the word निशित (*niśita*) in the sense of sharp, keen. In the Kaṭha Upaniṣad, in the sentence
+
+क्षुरस्य धारा निशिता दुरत्यया दुर्गंपथस्तत्त्ववयो वदंति । (*kṣurasya dhārā niśitā duratyayā durgaṃpathastattvavayo vadaṃti |*) (Kaṭh. U. 1-3-14)**NOTE**
+
+the sharpness of a razor (a shaving knife) is described, as is well known. In the Ṛgveda Saṃhitā this word is mostly used in the sense of "well prepared". In the present Ṛk it is an epithet of हव्या (*havyā*): prepared oblations.
+
+अहं अस्मात् तविषात् इंद्रात् भिया ईषमाणः रेजमानः (*ahaṃ asmāt taviṣāt iṃdrāt bhiyā īṣamāṇaḥ rejamānaḥ*)—fleeing in fear from that famous powerful Indra, and unable to stand before him, I trembled. The meaning here is described thus: the seer Agastya, frightened by the powerful Indra, was unable even to stand before him and was trembling. That the seer Agastya, seer of the mantra, himself acted transgressively toward Indra, and his repentance for it, are stated in Ṛk 1-171-1. The conversation that Agastya held with Indra, because Indra made manifest the transgression committed against himself, is stated in Ṛk 1-171-2. Again, Indra, having heard Agastya's reply, conversed with the officiating priests and with the seer Agastya in order to obtain his share of the oblation; this is stated in Ṛk 1-171-3. In this matter, the defeat suffered at Indra's hands is told here by the seer Agastya, addressing the Maruts. Thus the context of the story is indicated here.
+
+युष्मभ्यं हव्या निशितानि तानि अरॆ चक्रम । (*yuṣmabhyaṃ havyā niśitāni tāni arè cakrama |*) Addressing the Maruts: "The oblations prepared for you, we cast away far off, from fear of Indra." Thus declaring their offence, नः मृलत (*naḥ mṛlata*): "therefore, may the Marut deities forgive our offence—the offence of having scorned you—and keep us, the offenders against you, in happiness." In this way the prayer of the seer Agastya, seer of the mantra, is set out here.
+
+### Printed p. 214
+
+##### Grammar
+
+- तविषात् — तव इति सौत्रधातुः । अस्मात् तवेर्णद्वा (उ. सू. ४८) इति टषच् प्रत्ययः । चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
+- ईषमाणि — ईष गतिहिंसादर्शनेषु । लटः शानचादेशः । शप् विकरणः । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- भिया — इभी भये । धातुः । क्विप् प्रत्ययः । तृतीयाएकवचनांतरूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरः भवति । **NOTE**
+- रेजमानः — रेजृ कंपने । धातुः । लटः शानच् । पूर्ववत् मुकागमस्वरः भवति ।
+- निशितानि — शो तनूकरणे । धातुः । कर्मणि क्तप्रत्ययः । शाच्छोरन्यतरस्याम् (पा. सू. ७-४-४१) इति धातोः इकारांतादेशः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (नि) उदात्तस्वरः भवति ।
+- चक्रम — डुकृञ् करणे । धातुः । लिट् उत्तमपुरुषबहुवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरः भवति । **NOTE**
+- मृळत — मृड सुखने । धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थकः । लोट् मध्यमपुरुषबहुवचनांतरूपं । तिजंतस्य परत्वात् निघातस्वरः न भवति । विकरणस्वरेण मध्योदात्तः भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॒ माना॑सश्चि॒तयं॑त उ॒स्रा व्यु॑ष्टिषु॒ शव॑सा॒ शश्व॑तीनां ।  
+> स नो॑ म॒रुद्भि॑र्वृषभ॒ श्रवो॑ धा उ॒ग्र उ॒ग्रेभिः॒ स्थवि॑रः सहो॒दाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । मानासः । चितयंते । उस्राः । विउष्टिषु । शवसा । शश्वतीनां ।  
+> सः । नः । मरुत्भिः । वृषभ । श्रवः । धाः । उग्रः । उग्रेभिः । स्थविरः । सहःदाः ॥
+
+### Printed p. 215
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येन शवसा बलभूतेन त्वयानुगृहीता मानासो मान्यास्तयाभिमानिता वोस्रा रत्नयः तश्वतीनां नित्यानां बह्नीनामुषसां व्युष्टिषु सतीषु
+> प्रकाशेषु सत्सु चितयंते चेतयंते प्राणिनां स्वस्वव्यवहाराय प्रज्ञापयंति ।
+> ऐंद्र्यां दिशि तेनैवानुगृहीता उषसो रत्नय उद्धच्छंतीति प्रसिद्धं । हे वृषभ
+> वर्षितरिंद्र स तादृशस्त्वं मरुद्भिः सहितः श्रवो धाः । सर्वत्र श्रूयमाणमन्नं
+> धेहि । स्थापय । देहीत्यर्थः । कीदृशस्त्वं । उग्र उद्धूर्णबलः सहोदाः । पराभि
+> भवसामर्थ्यं बलं सहः । तस्य दाता स्थविरः पुरातनः । कीदृशैर्मरुद्भिः । उग्रेभिः
+> क्रूरबलैः । एवं महानुभावोऽन्नं देहि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, by whose vigour (शवसा (*śavasā*)), as the strength-embodied one, the honoured ones (मानासः (*mānāsaḥ*))—those esteemed by you—the rays (उस्राः (*usrāḥ*)), when the eternal, many dawns shine forth (व्युष्टिषु (*vyuṣṭiṣu*)), awaken (चितयंते (*citayaṃte*)) living beings, make them aware, for their own affairs." It is well known that in the eastern, Indra's, quarter the rays of the dawns rise favoured by him alone. "O showerer (वृषभ (*vṛṣabha*)) Indra, such as you are, together with the Maruts, श्रवो धाः (*śravo dhāḥ*): set down (give) food that is heard of everywhere." What kind are you? Fierce, of surging strength; the giver of सहः (*sahaḥ*), which is the power to overcome others; स्थविरः (*sthaviraḥ*), ancient. With what kind of Maruts? With the fierce ones, of cruel strength. Being of such majesty, give us food.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra!
+- मानासः (*mānāsaḥ*)—honoured ones (those that are objects of your esteem)
+- उस्राः (*usrāḥ*)—rays
+- शश्वतीनां (*śaśvatīnāṃ*)—of the eternal dawns
+- व्युष्टिषु (*vyuṣṭiṣu*)—when the light arises
+- तवसा (*tavasā*)—by the vigour, strength-embodied**NOTE**
+- येन (*yena*)—by whom, (being favoured) by you
+- चितयंते (*citayaṃte*)—make living beings attached (to their own occupations)
+- (हे) वृषभ (*(he) vṛṣabha*)—O Indra, fulfiller of desires
+- सः (*saḥ*)—such
+- उग्रः (*ugraḥ*)—of fierce strength
+- सहोदाः (*sahodāḥ*)—giver of strength
+- स्थविरः (*sthaviraḥ*)—ancient (you who are)
+- उग्रेभिः (*ugrebhiḥ*)—of fierce nature
+- मरुद्भिः (*marudbhiḥ*)—together with the Marut deities
+- नः (*naḥ*)—for us
+- श्रवः (*śravaḥ*)—food
+- धाः (*dhāḥ*)—set down (bestow)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the morning rays, objects of your esteem, at the rising of the eternal dawn make all living beings busy with their own occupations. O Indra, giver of what is desired, you who are of fierce nature, giver of strength and ancient, together with the fierce Marut deities, bestow food on us.
+
+##### English translation (H. H. Wilson)
+The rays of the ever-recurring mornings, favoured, Indra, by your vigour, confer consciousness as they shine : showerer of benefits, ancient (of days), bestower of strength, fierce, (and attended) by the fierce Maruts, grant us (abundant) food.
+
+##### विशेषविषयगळु (Special Topics)
+
+उस्राः शवसा मानासः (*usrāḥ śavasā mānāsaḥ*)—rays (रत्मयः (*ratmayaḥ*)), बलभूतेन त्वया अनुगृहीताः (*balabhūtena tvayā anugṛhītāḥ*), मान्याः (*mānyāḥ*), त्वया अभिमानिता (*tvayā abhimānitā*).**NOTE** The word शवस् (*śavas*) is stated among the names of water (Ni. 2-24) and among the names of strength
+
+### Printed p. 216
+(Ni. 3-9). Here, addressing Indra, it is said that Indra is strength itself or the possessor of strength. This word is used as an epithet of the word उस्राः (*usrāḥ*). Two kinds of meaning are given: the rays, favoured by Indra who is strength-embodied, are worthy of honour; or, they are esteemed by Indra who is strength-embodied. The word उस्र (*usra*) is stated among the names of rays (Ni. 2-15).
+
+According to Sāyaṇa's explanation the word मानासः (*mānāsaḥ*) is an epithet of उस्राः (*usrāḥ*). But the scholar Max Müller has understood it differently. His translation is as follows:
+
+Thou, through whom the Manas see the Mornings, whenever the eternal dawns flash forth with power, O Indra, O Strong hero, grant thou glory to us with the Maruts, terrible with the terrible ones, strong and a giver of victory.
+[S. B. E. XXXII. P. 289].
+
+According to this translation the word मानासः (*mānāsaḥ*) means seers of an honoured lineage. Since Sāyaṇa himself later gives this same meaning in another context, this translation cannot be called wrong. For example:
+
+तद्वां नरा नासत्यावनु ष्याद्यद्वां मानास उचथमवोचन् । अस्मादद्य सदसः सोम्यादा विद्यामेषं वृजनं जीरदानुं ॥ (*tadvāṃ narā nāsatyāvanu ṣyādyadvāṃ mānāsa ucathamavocan | asmādadya sadasaḥ somyādā vidyāmeṣaṃ vṛjanaṃ jīradānuṃ ‖*) (Ṭi. Saṃ. 1-182-8)**NOTE**
+
+In this Ṛk Sāyaṇa has explained the word मानासः (*mānāsaḥ*) as पूजावंतोऽस्मदीया होत्रादयः (*pūjāvaṃto 'smadīyā hotrādayaḥ*). If it is said likewise here, the sense of the Ṛk becomes:
+
+"O Indra, by your favour the Mānasas, every day as soon as the dawn appears, see the morning light and become intent on their tasks."
+
+In these contexts there is always a difference between the meaning given by the English scholars to the words मानस्य (*mānasya*), मान्यस्य (*mānyasya*), मानासः (*mānāsaḥ*) and Sāyaṇa's explanation. For example:
+
+एष वः स्तोमो मरुत इयं गीर्मान्दार्यस्य मान्यस्य कारोः । (*eṣa vaḥ stomo maruta iyaṃ gīrmāndāryasya mānyasya kāroḥ |*) (Ṛ. Saṃ. 1-165-15)
+
+In this Ṛk the word मान्यस्य (*mānyasya*) is an epithet of Agastya, yet Sāyaṇa has explained वरप्रदानादिना मान्यस्य (*varapradānādinā mānyasya*), that is, "worthy of worship". The scholar Max Müller has said thus.
+
 ---
 
-**Progress note:** Done through printed p. 210. pp. 205-210 (batch API), sūtra number in grammar line corrected to the Kannada
+**Progress note:** Done through printed p. 216. pp. 211-216 (batch API)
