@@ -23934,6 +23934,271 @@ Sūkta 77. Maṇḍala 7; Anuvāka 5; Sūkta 77. Aṣṭaka 5; Adhyāya 5; Varga
 > उषो॑ रुरुचे युव॒तिर्न योषा॒ विश्वं॑ जी॒वं प्र॑सु॒वंती॑  ॒॑
 > च॒रायै॑ ।
 
+### Printed p. 577
+
+> अभूदग्निः समिधे मानुषाणामकर्ज्योतिर्बाधमाना
+> तमांसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपो इति । रुरुचे । युवतिः । न । योषा । विश्वं । जीवं । प्रसुवंती । चरायै ।  
+> अभूत् । अग्निः । सम्ऽइधे । मानुषाणां । अकः । ज्योतिः । बाधमाना । तमांसि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमुषा उषो समीप एव सूर्यस्य रुरुचे । दीप्यते । युवतिर्यौवनोपेता योषा न योषिदिव । सा यथा वस्त्राभरणादिना पत्युः समीपे प्रदीप्यते तद्वत् । किं कुर्वती । विश्वं सर्वं जीवं जीवसंघं चरायै संचाराय
+> प्रसुवंती प्रेरयंती । किंचाग्निर्मानुषाणां मनुष्याणामर्थाय समिधेऽभूत् ।
+> समिंधनीयोऽभवत् ॥ कृत्यार्थे केन् ॥ समिद्धः संस्तमांस्यंधकारान्बाधमाना
+> बाधमानं बाधकं ज्योतिस्तेजः संघमकः । अकार्षीत् । अथवा । औषसं ज्योतिस्त
+> मांसि बाधमाना बाध्यमानान्यकः । अकरोत् ॥
+
+##### Gist of the bhāṣya
+
+This Ushas shines close to the sun, like a youthful woman who shines in adornment and clothes beside her husband. She impels the whole host of living beings to move about. Agni has become fit to be kindled for the sake of men; once kindled, he made the light, a mass of radiance that repels the darkness. Or else: the light of dawn made the darkness things to be repelled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वं (*viśvaṃ*)—all
+- जीवं (*jīvaṃ*)—the host of living beings
+- चरायै (*carāyai*)—for moving about
+- प्रसुवंती (*prasuvaṃtī*)—impelling
+- युवतिः (*yuvatiḥ*)—a youthful
+- योषा न (*yoṣā na*)—wife standing beside her husband
+- (Ushas—the goddess Ushas)
+- उषो (*uṣo*)—being near the sun
+- रुरुचे (*ruruce*)—shines
+- अग्निः (*agniḥ*)—Agni
+- मानुषाणां (*mānuṣāṇāṃ*)—for the good of men
+- समिधे (*samidhe*)—to be kindled
+- अभूत् (*abhūt*)—is ready
+- ज्योतिः (*jyotiḥ*)—this radiance
+- तमांसि (*tamāṃsi*)—darkness
+- बाधमाना (*bādhamānā*)—having the power to destroy
+- अर्कः (*arkaḥ*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+Impelling the whole host of living beings to move about, the goddess Ushas shines near the sun, like a youthful wife standing beside her husband. Agni is ready to be kindled for the good of men. This radiance has become the destroyer of darkness.
+
+### Printed p. 578
+
+##### English translation
+Ushas shines radiant in the proximity (of the sun), like a youthful wife (in the presence of her husband), animating all existence to activity : Agni is to be kindled for the good of men : the light disperses the obstructing darkness.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वं॑ प्रती॒ची स॒प्रथा॒ उद॑स्था॒द्रुश॒द्वासो॒ बिभ्र॑ती शु॒क्रम॑श्वैत् ।  
+> हिर॑ण्यवर्णा सु॒दृशी॑कसंदृ॒ग्गवां॑ मा॒ता ने॒त्र्यह्ना॑मरोचि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वं । प्रतीची । सप्रथाः । उत् । अस्थात् । रुशत् । वासः । बिभ्रती । शुक्रं ।  
+> अश्वैत् ।  
+> हिरण्यवर्णा । सुदृशीकसंदृक् । गवां । माता । नेत्री । अह्नां । अरोचि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वं कृत्स्नं जगत्प्रतीच्यभिमुखी सप्रथाः सर्वतः पृथुतरोदस्थात् ।
+> उदगच्छत् । उदिता च रुशद्दीप्तं शुक्रं तेजोमयं वासो वसनीयं तेजःसमूहं बिभ्रती धारयंत्यश्रैत् । वर्धते । हिरण्यवर्णा हितरमणीयवर्णोपेता
+> सुदृशीकसंदृक् । संदर्शयतीति संदृक् तेजः । सुष्टु दर्शनीयं संदृक् तेजो
+> यस्याः सा तादृशी । गवां वाचां गवामेव वा माता निर्मात्री । उषःकाले हि
+> पक्षिमनुष्यादीनां वाचो निर्गच्छंति । गवामपि तस्मिन्काले संचारात्तन्निर्मातृत्वं ।
+> अथवा रश्मीनां निर्मात्री । आरोचि रोचतेऽस्मां नेत्री दिवसानां प्रापयित्री ॥
+
+##### Gist of the bhāṣya
+
+The whole world, Ushas facing it, has risen, spreading far and wide on every side. Having risen, she bears a shining, white, radiant garment, a mass of brilliance, and grows. She is of golden, pleasing colour. Her radiance, which makes all things seen, is beautiful to behold. She is the mother गवां (*gavāṃ*): either of voices or of cows. At dawn the voices of birds, men and others go forth, and cows too move about at that time, hence she is their maker. Or else she is the maker of rays. She shines, the leader who brings on the days.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Ushas—the goddess Ushas)
+- विश्वं प्रतीची (*viśvaṃ pratīcī*)—facing the whole world
+- सप्रथाः (*saprathāḥ*)—spreading everywhere
+- उदस्थात् (*udasthāt*)—has risen
+- रुशत् (*ruśat*)—shining
+- शुक्रं (*śukraṃ*)—pure
+- वासः (*vāsaḥ*)—enveloping the world, radiance
+- बिभ्रती (*bibhratī*)—bearing
+- अश्वैत् (*aśvait*)—
+
+### Printed p. 579
+grows
+- हिरण्यवर्णा (*hiraṇyavarṇā*)—having a golden form
+- सुदृशीक संदृक् (*sudṛśīka saṃdṛk*)—having beautiful radiance
+- गवां माता (*gavāṃ mātā*)—maker of voices
+- अह्नां नेत्री (*ahnāṃ netrī*)—one who brings forth the day, Ushas
+- आरोचि (*āroci*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Ushas has risen facing the whole world, spreading everywhere. Bearing a radiance that shines, is pure and envelops the world, she grows. Golden in form, of beautiful radiance, maker of voices, bringer forth of the day, Ushas shines.
+
+##### English translation
+Advancing towards all, and spreading widely, the Dawn has risen : clothed in pure and brilliant vesture, she expands : of golden colour and of lovely radiance, she shines the parent of sounds, the leader of days.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वानां॒ चक्षुः॑ सु॒भगा॒ वहं॑ती श्वे॒तं नयं॑ती सु॒दृशी॑क॒मश्वं॑ ।  
+> उ॒षा अ॑दर्शि र॒श्मिभि॒र्व्य॑क्ता चि॒त्राम॑घा॒ विश्व॒मनु॒ प्रभू॑ता ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवानां । चक्षुः । सुभगा । वहंती । श्वेतं । नयंती । सुदृशीकं । अश्वं ।  
+> उषाः । अदर्शि । रश्मिभिः । विऽअक्ता । चित्रऽमघा । विश्वं । अनु । प्रभूता ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां चक्षुश्चक्षुःस्थानीयं तेजो वहंती धारयंती सुभगा शोभनधना सुदृशीकं सुदर्शनमश्वं सर्वदा गंतारमादित्यं नयंती प्रापयंती । किं ।
+> श्वेतं श्वेतवर्णोपेतं सूर्यं । प्रकाशयुक्तं कुर्वतीत्यर्थः । कीदृश्युषाः ।
+> रश्मिभिः स्वकीयैर्व्यक्तादर्शि । दृश्यते च । चित्रामघा विचित्रधना विश्वमनु सर्वं
+> जगदनुलक्ष्य प्रभूता प्रवृद्धा । सर्वजगद्व्यवहारायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Bearing the light that is as the eye of the gods, auspicious (rich in fair wealth), she leads on the beautiful अश्वं (*aśvaṃ*), the ever-moving Āditya, the white one, that is, she makes the white-hued sun full of light. Ushas is seen, manifest with her own rays. Of wondrous wealth, she has grown mighty, looking to the whole world, that is, for the business of the whole world.
+
+### Printed p. 580
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभगा (*subhagā*)—possessed of excellent wealth
+- देवानां (*devānāṃ*)—for the gods
+- चक्षुः (*cakṣuḥ*)—the radiance that is like an eye
+- वहंती (*vahaṃtī*)—bearing
+- सुदृशीकं (*sudṛśīkaṃ*)—of beautiful form
+- श्वेतं (*śvetaṃ*)—of pure colour
+- अश्वं (*aśvaṃ*)—the sun, ever moving
+- नयंती (*nayaṃtī*)—making him move
+- रश्मिभिः (*raśmibhiḥ*)—with her own beams
+- व्यक्ता (*vyaktā*)—and manifest
+- उषाः (*uṣāḥ*)—the goddess Ushas
+- अदर्शि (*adarśi*)—has become visible
+- चित्रामघा (*citrāmaghā*)—Ushas, of attractive wealth
+- विश्वमनु (*viśvamanu*)—looking to the whole world
+- प्रभूता (*prabhūtā*)—has been born, extended
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Ushas, possessed of excellent wealth, bearing for the gods the radiance that is like an eye, showing to the world the sun, beautiful in form, pure in colour and ever moving, and manifest with her rays, has become visible. Ushas, of attractive wealth, looking to the whole world, has been born in an extended form.
+
+##### English translation
+The auspicious Ushas, bearing the eye of the gods (the light) leading her white and beautiful courser (the sun), is beheld, manifested by her rays, distributress of wonderful wealth, mighty over all.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंति॑वामा दू॒रे अ॒मित्र॑मुच्छो॒र्वीं गव्यू॑ति॒मभ॑यं कृधी  
+> नः ।  
+> या॒वय॒ द्वेष॒ आ भ॑रा॒ वसू॑नि चो॒दय॒ राधो॑ गृण॒ते  ॑
+> मघोनि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतिवामा । दूरे । अमित्रं । उच्छ । उर्वीं । गव्यूतिं । अभयं । कृधि । न ।  
+> यवय । द्वेषः । आ । भर । वसूनि । चोदय । राधः । गृणते । मघोनि ॥ ४ ॥
+
+### Printed p. 581
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः अंतिवामा । अंत्यस्मदंतिके वामं वननीयं धनं यस्याः सांतिवामा । त्वममित्रमस्मच्छत्रुं दूरेऽस्मत्तो विप्रकृष्टदेशे वर्तमानं कृत्वा व्युच्छ ।
+> विभाहि । यथामित्रो दूरे भवति तथा व्युच्छेत्यर्थः । तथोर्वीं गव्यूतिं भूमिमभयं नोऽस्माकं कृधि । कुरु । किंच द्वेषोऽस्मद्द्वेष्टॄन्यावय । अस्मत्तः
+> पृथक्कुरु । वसूनि शत्रूणां धनान्या भर । आहर । राधो धनं चोदय प्रेरय
+> गृणते स्तुवते मह्यं हे मघोनि धनवति ॥
+
+##### Gist of the bhāṣya
+
+O Ushas, you whose desirable wealth is near us: make our enemy dwell far from us, and shine so that the enemy is far. Likewise make the wide earth free from fear for us. Separate from us those who hate us. Bring the wealth of our enemies. Impel wealth to me who praise you, O opulent one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O goddess Ushas) अंतिवामा (*aṃtivāmā*)—you who bring wealth to us
+- अमित्रं (*amitraṃ*)—our enemy
+- दूरे (*dūre*)—driving far away
+- उच्छ (*uccha*)—shine
+- उर्वीं (*urvīṃ*)—wide
+- गव्यूतिं (*gavyūtiṃ*)—the earth
+- अभयं (*abhayaṃ*)—free from fear
+- नः (*naḥ*)—for us
+- कृधि (*kṛdhi*)—make
+- द्वेषः (*dveṣaḥ*)—those who hate us
+- यावय (*yāvaya*)—separate from us
+- वसूनि (*vasūni*)—the wealth of enemies
+- आ भर (*ā bhara*)—bring to us
+- मघोनि (*maghoni*)—O wealthy Ushas
+- गृणते (*gṛṇate*)—to me, the praiser
+- राधः (*rādhaḥ*)—wealth
+- चोदय (*codaya*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Ushas, you who bring wealth to us, drive our enemy far away and shine; make the wide earth free from fear. Separate from us those who hate us. Bring us the wealth of our enemies. O wealthy Ushas, bring wealth to me, the praiser.
+
+##### English translation
+Dawn, Ushas, who are the bearer to us of desirable (wealth), and keep our adversary from us: render the wide earth free from peril : drive away those who hate us: bring to us treasures: bestow, opulent goddess, wealth upon him who praises you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे श्रेष्ठे॑भिर्भा॒नुभि॒र्वि भा॒ह्युषो॑ देवि प्रति॒रंती॑ न॒ आयुः॑ ।  
+> इषं॑ च नो॒ दध॑ती विश्ववारे॒ गोम॒दश्वा॑व॒द्रथ॑वच्च॒ राधः॑ ॥ ५ ॥
+
+### Printed p. 582
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । श्रेष्ठेभिः । भानुभिः । वि । भाहि । उषः । देवि । प्रतिरंती । नः । आयुः ।  
+> इषं । च । नः । दधती । विश्ववारे । गोमत् । अश्ववत् । रथवत् । च । राधः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देवि अस्मे अस्मभ्यं श्रेष्ठेभिः प्रशस्यैर्भानुभिः रश्मिभिः प्रकाशैर्वि
+> भाहि । प्रकाशय । किं कुर्वती । नोऽस्माकमायुरायुष्यं प्रतिरंती वर्धयंती ।
+> हे विश्ववारे विश्वैः संभजनीये देवि नोऽस्मभ्यमिषं च गोमद्गोभिर्बहुभिरुपेतमश्वावदश्वैश्चोपेतं रथवत्प्रथैरुपेतं राधो धनं च दधती वि भाहीति ।
+
+##### Gist of the bhāṣya
+
+O goddess Ushas, shine for us with excellent, praiseworthy rays, lights, increasing our span of life. O goddess विश्ववारे (*viśvavāre*), to be shared in by all, shine, bestowing on us food and wealth accompanied by many cows, by horses, and by chariots.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवि (*devi*)—divine one
+- विश्ववारे (*viśvavāre*)—worthy of the regard of all
+- उषः (*uṣaḥ*)—O goddess Ushas
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life
+- प्र तिरंती (*pra tiraṃtī*)—increasing
+- नः (*naḥ*)—to us
+- इषं (*iṣaṃ*)—food
+- गोमत् (*gomat*)—with cattle
+- अश्ववत् (*aśvavat*)—with horses
+- रथवत् (*rathavat*)—with chariots
+- राधः (*rādhaḥ*)—wealth
+- दधती (*dadhatī*)—giving
+- अस्मे (*asme*)—for us
+- श्रेष्ठेभिः (*śreṣṭhebhiḥ*)—praiseworthy
+- भानुभिः (*bhānubhiḥ*)—with rays
+- वि भाहि (*vi bhāhi*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Ushas, worthy of the regard of all, increasing our life, and giving us food and wealth with cattle, horses and chariots, shine for us with your praiseworthy rays.
+
+##### English translation
+Divine Ushas, illume us with your bright rays, prolonging our existence, bestowing upon us food, (and granting us), you who are adored by all, affluece, comprising cattle, horses, and chariots.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यां त्वा॑ दिवो दुहितर्व॒र्धयं॒त्युषः॑ सुजाते म॒तिभि॒र्वसि॑ष्ठाः ।
+
 ---
 
-**Progress note:** Done through printed p. 576. pp. 571-576 (batch API)
+**Progress note:** Done through printed p. 582. pp. 577-582 (batch API)
