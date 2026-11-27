@@ -1,2 +1,3 @@
 batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
 1	1	75	146	94	94	0	52	243k	856b8f44	2026-11-27	marks q12-q161: 150 seen, 98 removed, 52 kept
+2	76	145	142	94	94	0	48	250k	e9bd4eef	2026-11-27	marks q64-q213: 150 seen, 102 removed, 48 kept
