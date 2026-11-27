@@ -21402,6 +21402,265 @@ The daughter of Surya made choice of your chariot at the approach of night : you
 
 ओमना (*omanā*)—Yāska, explaining this word, gives the etymology: परिघ्रंसमोमना वां वयोऽगात् । पर्यगाद्वां घ्रंसमहरवनायोन्नं । (*parighraṃsamomanā vāṃ vayo 'gāt | paryagādvāṃ ghraṃsamaharavanāyonnaṃ |*) (Ni. 6-4). ओमना (*omanā*) means "for the sake of protection", that is, with food in the form of oblation
 
+### Printed p. 517
+means: for the purpose of satisfying you. Durgācārya, the commentator on the Nirukta, says: केचिदत्र अवनेनान्नं इत्येवमधीयते भाष्यं । तेषां योजना अवनेन तर्पणेन भवतो निमित्तभूतेन पर्यगात् अन्नं इति । पुनरपि केचित्—अनेनान्नं इत्येवमधीयते भाष्यं । तेषां अनेन मंत्रेण अन्नं परिगच्छंतीति योजना स्यादिति । (*kecidatra avanenānnaṃ ityevamadhīyate bhāṣyaṃ | teṣāṃ yojanā avanena tarpaṇena bhavato nimittabhūtena paryagāt annaṃ iti | punarapi kecit—anenānnaṃ ityevamadhīyate bhāṣyaṃ | teṣāṃ anena maṃtreṇa annaṃ parigacchaṃtīti yojanā syāditi |*) That is: in the opinion of some, the meaning of the word is simply food; because food gives protection from the affliction of hunger, the word for food is indicated by the word अवन (*avana*). Moreover, others express the view that, according to the sense stated in this mantra, the meaning "food" alone is appropriate. Thus the differences of opinion on this matter are shown.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो ह॒ स्य वां॑ रथिरा॒ वस्त॑ उ॒स्रा रथो॑ युजा॒नः प॑रि॒याति॑ व॒र्तिः ।  
+> तेन॑ नः॒ शं योरु॒षसो॒ व्यु॑ष्टौ॒ न्य॑श्विना वहतं य॒ज्ञे अ॒स्मिन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ह । स्यः । वां । रथिरा । वस्ते । उस्राः । रथः । युजानः । परियाति । वर्तिः ।  
+> तेन । नः । शं । योः । उषसः । विउष्टौ । नि । अश्विना । वहतं । यज्ञे । अस्मिन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो रथः । हेति पूरणः । स्य स प्रसिद्धो रथो हे रथिरा रथिनौ ॥ मत्वर्थीयो रः ॥ उस्रास्तेजांसि वस्ते आच्छादयति । यश्च रथो युजानोऽश्वैर्युक्तः सन्वर्तिर्मार्गं यजमानगृहं वा परियाति परिगच्छति । तेन रथेन हे अश्विनाश्विनौ नोऽस्माकमस्मिन्यज्ञे उषसो व्युष्टौ प्रातःकाले शं शमनाय पापानां योर्मिश्रणाय च सुखानां नि वहतं । नितरां प्राप्नुतं ॥
+
+##### Gist of the bhāṣya
+
+The chariot (रथः (*rathaḥ*)) of you two, the well-known one, O two chariot-owners (रथिरा (*rathirā*), with the possessive affix र (*ra*)), clothes itself (वस्ते (*vaste*)) with radiances (उस्राः (*usrāḥ*) = splendours); and the chariot, yoked with horses, travels round (परियाति (*pariyāti*)) the road (वर्तिः (*vartiḥ*)) or the sacrificer's house. With that chariot, O Aśvins, at the dawning of the dawn, in the morning, at this sacrifice of ours, bring (नि वहतं (*ni vahataṃ*) = convey fully) शं (*śaṃ*), for the quieting of sins, and योः (*yoḥ*), for the mingling of pleasures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथिरा (*rathirā*)—you who occupy the chariot
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यः (*yaḥ*)—which chariot of yours
+- स्यः (*syaḥ*)—being well-known
+- उस्राः (*usrāḥ*)—radiances
+- वस्ते (*vaste*)—is clothed in
+- रथः (*rathaḥ*)—which chariot
+- युजानः (*yujānaḥ*)—yoked with horses
+- वर्तिः (*vartiḥ*)—on its own roads
+- परियाति (*pariyāti*)—travels around
+- तेन (*tena*)—with that chariot
+- नः (*naḥ*)—our
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+
+### Printed p. 518
+- उषसः व्युष्टौ (*uṣasaḥ vyuṣṭau*)—at the very time of the dawn's appearing
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for the quieting of sin
+- योः (*yoḥ*)—for the gaining of happiness
+- नि वहतं (*ni vahataṃ*)—come abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, seated on the chariot: with that chariot of yours which is well-known and covered with radiance, which, yoked with horses, travels on its own roads, come to this sacrifice of ours at the very time of the dawn's appearing (in the morning), for the quieting of our sins and the gaining of happiness.
+
+##### English translation
+Riders in the chariot, Aswins, come for our purification and welfare to this our sacrifice, at the dawn of day, with that chariot which is clothed in radiance, and which, when harnessed, traverses its (appointed) road.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नरा॑ गौ॒रेव॑ वि॒द्युतं॑ तृषा॒णास्माक॑म॒द्य सव॒नोप॑ यातं ।  
+> पु॒रु॒त्रा हि वां॑ म॒तिभि॒र्हवं॑ते॒ मा वा॑म॒न्ये नि य॑मन्देव॒यंतः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नरा । गौराइव । विद्युतं । तृषाणा । अस्माकं । अद्य । सवना । उप । यातं ।  
+> पुरुत्रा । हि । वां । मतिभिः । हवंते । मा । वां । अन्ये । नि । यमन् । देवयंतः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विनौ गौरेव गौरा मृगीव विद्युतं विशेषेण दीप्यमानं सोमं प्रति तृषाणा तृष्णायुक्तावद्यास्माकं सवना सवनान्युप यातं । उपागच्छतं । पुरुत्रा बहुषु यज्ञेषु वां युवां यजमाना मतिभिः स्तुतिभिर्हवंते हि । स्तुवंति । अतो वां युवामन्ये यष्टारो देवयंतो देवौ कामयमाना वां युवां मा नि यमन् । मा नियच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+O leaders (नरा (*narā*)), Aśvins, like a gaur (गौरा (*gaurā*), a deer) thirsting (तृषाणा (*tṛṣāṇā*)) for the brilliantly shining Soma, come to our soma-pressings today. In many sacrifices the sacrificers invoke you with praises (मतिभिः (*matibhiḥ*)). Therefore let other sacrificers, desiring the gods, not restrain (मा नि यमन् (*mā ni yaman*)) you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin deities, leaders
+- गौरेव (*gaureva*)—like a weary deer
+- तृषाणा (*tṛṣāṇā*)—you who are eager for Soma
+- विद्युतं (*vidyutaṃ*)—for the shining Soma
+- अद्य (*adya*)—now
+
+### Printed p. 519
+- अस्माकं (*asmākaṃ*)—our
+- सवना (*savanā*)—to the sacrifice
+- उपयातं (*upayātaṃ*)—come
+- पुरुत्रा (*purutrā*)—in many sacrifices
+- वां (*vāṃ*)—you
+- मतिभिः (*matibhiḥ*)—with praises
+- हवंते हि (*havaṃte hi*)—the sacrificers call
+- वां (*vāṃ*)—you
+- देवयंतः (*devayaṃtaḥ*)—those who look to the gods
+- अन्ये (*anye*)—other sacrificers
+- मा नि यमन् (*mā ni yaman*)—let them not hold you back
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders: like a gaur-deer worn out with thirst, eager for Soma, come now to our sacrifice for the drinking of the shining Soma. In many sacrifices the sacrificers call you with praises. Let other sacrificers who desire the gods not hold you back.
+
+##### English translation
+Leaders of rite, like (thirsty) cattle, thirsting for the radiant (Soma) hasten to-day to our sacrifice : in many ceremonies do the pious propitiate you with praises : let not other devout worshippers detain you.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं भु॒ज्युमव॑विद्धं समु॒द्र उदू॑हथु॒रर्ण॑सो॒ अस्रि॑धान्यैः ।  
+> प॒त॒त्रिभि॑रश्र॒मैर॑व्य॒थिभि॑र्दं॒सना॑भिरश्विना पा॒रयं॑ता ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । भुज्युं । अवविद्धं । समुद्रे । उत् । ऊहथुः । अर्णसः । अस्रिधानैः ।  
+> पतत्रिभिः । अश्रमैः । अव्यथिभिः । दंसनाभिः । अश्विना । पारयंता ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ युवं भुज्युमेतन्नामकमवविद्धं विक्षिप्तं सखिभिः समुद्रे तन्मध्ये निमग्नमर्णस उदकादुदूहथुः । किं कुर्वंताविति तदुच्यते । अस्रिधान्यै-रक्षीयमाणैरश्रमैरव्यथिभिश्च पतत्रिभिः पतनवद्भिर्गमनवद्भिः रथे नियुक्तैरश्वैर्दंसनाभिः शारीरैः कर्मभिश्च पारयंता पारयंतौ समुद्रमर्णस उदूहथुरिति । नासत्या भुज्युमूहथुः पतंगैः । ऋ. १-११६-४ । इति ह्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you lifted up Bhujyu (the one so named), who had been flung away (अवविद्धं (*avaviddhaṃ*)) by his companions into the sea and was submerged in it, out of the water (अर्णसः (*arṇasaḥ*)). How, is told: bringing him across with undecaying (अस्रिधान्यैः (*asridhānyaiḥ*)), untiring and unharassed horses yoked to the chariot, that fly (पतत्रिभिः (*patatribhiḥ*)), i.e. go swiftly, and with bodily exertions (दंसनाभिः (*daṃsanābhiḥ*)). So it is said: नासत्या भुज्युमूहथुः पतंगैः (*nāsatyā bhujyumūhathuḥ pataṃgaiḥ*) (Ṛ. Saṃ. 1-116-4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- समुद्रे अवविद्धं (*samudre avaviddhaṃ*)—flung into the sea
+- भुज्युं (*bhujyuṃ*)—Bhujyu
+- अस्रिधान्यैः (*asridhānyaiḥ*)—without decay
+- अश्रमैः (*aśramaiḥ*)—without weariness
+- अव्यथिभिः (*avyathibhiḥ*)—
+
+### Printed p. 520
+without suffering
+- पतत्रिभिः (*patatribhiḥ*)—with horses
+- दंसनाभिः (*daṃsanābhiḥ*)—with the help of your deeds
+- पारयंता (*pārayaṃtā*)—bringing to the shore
+- युवं (*yuvaṃ*)—you
+- अर्णसः (*arṇasaḥ*)—from the water
+- उदूहथुः (*udūhathuḥ*)—lifted up
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you lifted Bhujyu, who had been flung into the middle of the sea, up out of the water, bringing him to shore with your undecaying, untiring, unsuffering horses and with the help of your valorous deeds.
+
+##### English translation
+You bore up Bhujyu, Aswins, from the waters, when cast into the sea bearing him to shore by your exertions with your undecaying, uuwearied, unharassed horses.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मे॒ हव॒मा शृ॑णुतं युवाना यासि॒ष्टं व॒र्तिर॑श्विना॒विरा॑-वत् ।  
+> ध॒त्तं रत्ना॑नि॒ जर॑तं च सू॒रीन्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मे । हवं । आ । शृणुतं । युवाना । यासिष्टं । वर्तिः । अश्विनौ । इरावत् ।  
+> धत्तं । रत्नानि । जरतं । च । सूरीन् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे युवाना नित्ययौवनौ स्वद्य युवां मे हवमस्मदीयां स्तुतिमा शृणुतं । श्रुत्वा च हे अश्विनौ इरावदन्नवद्युक्तं वर्तिर्गृहं यासिष्टं । आगच्छतं । आगत्य च रत्नानि रमणीयानि धनानि धत्तं । दत्तं । सूरीन् स्तोतृन् जरतं । वर्धयतं ॥ धातूनामनेकार्थत्वात् ॥ शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+O ever-young ones (युवाना (*yuvānā*)), today hear my invocation (हवं (*havaṃ*), our praise). Having heard, O Aśvins, come to the dwelling (वर्तिः (*vartiḥ*) = house) that is supplied with food (इरावत् (*irāvat*)). Having come, bestow (धत्तं (*dhattaṃ*) = give) delightful wealth (रत्नानि (*ratnāni*)); make the praisers (सूरीन् (*sūrīn*)) thrive (जरतं (*jarataṃ*) = cause to increase), since roots have many meanings. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवाना (*yuvānā*)—ever-youthful
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नु (*nu*)—now
+- मे (*me*)—my
+- हवं (*havaṃ*)—praise
+- आ शृणुतं (*ā śṛṇutaṃ*)—listen
+- इरावत् (*irāvat*)—accompanied by oblation
+- वर्तिः (*vartiḥ*)—our house
+- यासिष्टं (*yāsiṣṭaṃ*)—enter
+- रत्नानि (*ratnāni*)—delightful wealth
+- धत्तं (*dhattaṃ*)—give
+
+### Printed p. 521
+- सूरीन् (*sūrīn*)—the praisers
+- जरतं (*jarataṃ*)—make thrive
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with auspicious gifts
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O ever-youthful Aśvin deities, hear my praise now. Enter our house, which is supplied with oblation. Give us delightful wealth. Make the praisers thrive. Do you always protect us with blessings.
+
+##### English translation
+Ever youthful Aswins, hear to-day my invocation : come Ashwins, to the dwelling where the oblation is prepared : grant wealth (to the offerer): elevate the worshipper : and do you ever cherish us with blessings.
+
+## Sūkta 70 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ विश्ववारेति सप्तर्चं पंचदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाश्विनं ।
+> अनुक्रम्यते च । आ विश्ववारा सप्तेति । प्रातरनुवाक आश्विनशस्त्रे च विनियोग उक्तः ॥ आद्यस्तृचस्तृतीये छंदोमे प्रउगशस्त्रे विनियुक्तः । आ विश्ववाराश्विना गतं नोऽयं सोम इंद्र । आ. ८-११ । इति सूत्रितत्वात् ।
+
+##### Gist of the bhāṣya
+
+The hymn आ विश्ववारा (*ā viśvavārā*) has seven Ṛks and is the fifteenth sūkta; its seer is Vasiṣṭha, its deity the Aśvins, its metre Triṣṭubh. The Anukramaṇī says: आ विश्ववारा सप्त (*ā viśvavārā sapta*). Its use in the Prātaranuvāka and the Aśvina-śastra has been stated. The first tṛca is employed in the third Chandoma day for the Praüga-śastra, since it is prescribed by the sūtra आ विश्ववाराश्विना गतं नोऽयं सोम इंद्र (*ā viśvavārāśvinā gataṃ no 'yaṃ soma iṃdra*) (Ā. Sū. 8-11).
+
+##### Anuvāda
+
+This sūkta beginning आ विश्ववारा (*ā viśvavārā*) is the fifteenth sūkta in the fourth anuvāka. It contains seven Ṛks. Its seer is Vasiṣṭha; its deity the Aśvin deities; its metre Triṣṭubh. In the Anukramaṇī it is stated as आ विश्ववारा सप्त (*ā viśvavārā sapta*). It has been said earlier that the sūkta is used in the Prātaranuvāka and in the Aśvina-śastra mantras; and that its first three Ṛks are employed in the third Chandoma for the Praüga-śastra mantras is explained by the Āśvalāyana-śrauta-sūtra, in the sūtra आ विश्ववाराश्विना गतं नोऽयं सोम इंद्र (*ā viśvavārāśvinā gataṃ no 'yaṃ soma iṃdra*) (Ā. 8-11).
+
+### Printed p. 522
+Sūkta 70
+Maṇḍala 7; Anuvāka 4; Sūkta 70.
+Aṣṭaka 5; Adhyāya 3; Varga 17.
+Number of Ṛks in the sūkta: 7.
+Seer: Vasiṣṭha.
+Deity: the Aśvins.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वि॑श्ववाराश्विना गतं नः॒ प्र तत्स्थान॑मवाचि वां पृथि॒व्यां ।  
+> अश्वो॒ न वा॒जी शु॒नपृ॑ष्ठो अस्था॒दा यत्से॒दथु॑र्ध्रु॒वसे॒ न योनिं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । विश्ववारा । अश्विना । गतं । नः । प्र । तत् । स्थानं । अवाचि । वां । पृथिव्यां ।  
+> अश्वः । न । वाजी । शुनपृष्ठः । अस्थात् । आ । यत् । सेदथुः । ध्रुवसे । न । योनिं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववारा सर्वैर्वरणीयावश्विनाश्विनौ नोऽस्माकं यज्ञं यागमा गतं आगच्छतं । वां युवयोस्तत्स्थानं पृथिव्यां वेद्यां प्रावाचि । प्रोच्यते । तदर्थं शुनपृष्ठः सुखकरपृष्ठभागः । अत्यंतविपुलत्वादारूढानां सुखकरपृष्ठभाग इत्यर्थः । वाजी वेगवानश्वोऽस्थात् । तिष्ठतु युवयोः समीपे । यत् । यमित्यर्थः ॥ यमश्वमा सेदथुः आसीदथः सोऽश्वः । यद्वा । यत्स्थानमासेदथः तत्स्थानमश्व आश्रयत्वितो गमनाय । स्थितौ दृष्टांतः । ध्रुवसे ध्रुवाय निवासाय योनिं न योनिं स्थानमिव ॥
+
+##### Gist of the bhāṣya
+
+O विश्ववारा (*viśvavārā*), Aśvins, choice of all, come to our sacrifice. Your place on the earth, the altar, is proclaimed (प्रावाचि (*prāvāci*)) for you. For it let the swift horse with a comfortable back (शुनपृष्ठः (*śunapṛṣṭhaḥ*), a back comfortable to riders because very broad) stand near you; the horse which you mount (यत् (*yat*) means "which"). Or else: let the horse resort to the place which you occupy, to go hence. For the standing there is an illustration: *dhruvase yoniṃ na*, as to a fixed abode, a home.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववारा (*viśvavārā*)—you who are worthy of everyone's regard
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नः (*naḥ*)—to our sacrificial house
+- आ गतं (*ā gataṃ*)—come
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- तत् स्थानं (*tat sthānaṃ*)—that sacrificial place
+- वां (*vāṃ*)—for you alone
+- प्र अवाचि (*pra avāci*)—is proclaimed
+- ध्रुवसे (*dhruvase*)—for permanent dwelling
+- योनिं न (*yoniṃ na*)—as one resorts to a home
+- यत् (*yat*)—which horse
+- आ सेदथुः (*ā sedathuḥ*)—you mount and sit on
+- शुनपृष्ठः (*śunapṛṣṭhaḥ*)—having a comfortable back
+- वाजी (*vājī*)—swift
+- अश्वः (*aśvaḥ*)—the horse
+- अस्थात् (*asthāt*)—let it stand near you
+
 ---
 
-**Progress note:** Done through printed p. 516. pp. 511-516 (batch API)
+**Progress note:** Done through printed p. 522. pp. 517-522 (batch API)
