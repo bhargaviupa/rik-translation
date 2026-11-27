@@ -3,6 +3,7 @@
 
   python3 tools/rv/join_pages.py prep N [--batch 20]     lists the places -> volN/review/junctions/batch_XX.json (for a reading model)
   python3 tools/rv/join_pages.py apply N [--write]       carries out volN/review/junctions/out_XX.json; dry run without --write
+  python3 tools/rv/join_pages.py reapply N [--write]     the answers refused because the text was edited afterwards: mended again at the break only
 
 A place ("junction") is: (P) a page heading of the working file with the text before it ending in "..." / "…" or the text after it beginning
 so; (M) a prose line inside a page that ends in "..." (not a quotation, not Sanskrit).  For each the file gives the last words of the line
@@ -62,6 +63,56 @@ def prep(vol, size):
         json.dump(js[k:k + size], open(os.path.join(d, f'batch_{k // size + 1:02d}.json'), 'w', encoding='utf8'), ensure_ascii=False, indent=1)
     print(f'{len(js)} junctions (P {sum(j["kind"] == "P" for j in js)}, M {sum(j["kind"] == "M" for j in js)}; with Kannada {sum("kannada_start_of_this_page" in j for j in js)}) -> {os.path.relpath(d, ROOT)}/batch_01..{(len(js) - 1) // size + 1:02d}.json')
 def tokens(s): return sorted(re.findall(r'\d+', s)), sorted(INDIC.findall(s))
+def edge(old, new, tail):
+    """the part of an answer that was really changed: at the end of a_tail (tail=True) or at the beginning of b_head"""
+    ow, nw = old.split(' '), new.split(' ')
+    if tail:
+        k = 0
+        while k < min(len(ow), len(nw)) and ow[k] == nw[k]: k += 1
+        return ' '.join(ow[k:]), ' '.join(nw[k:]), ' '.join(ow[max(0, k - 6):k])
+    k = 0
+    while k < min(len(ow), len(nw)) and ow[-1 - k] == nw[-1 - k]: k += 1
+    return ' '.join(ow[:len(ow) - k]), ' '.join(nw[:len(nw) - k]), ' '.join(ow[len(ow) - k:len(ow) - k + 6])
+def reapply(vol, write):
+    """A mended sentence whose surroundings were changed afterwards (the second pass edited words near the break) is mended again:
+    only the words the answer really changed, at the very break, are replaced, and only where they still stand in the file exactly,
+    in a line that is still the same sentence (the six words next to the change agree, or the whole end is alike >= 80 of 100)."""
+    from rapidfuzz import fuzz
+    d = os.path.join(ROOT, f'vol{vol}', 'review', 'junctions')
+    ans = {a['id']: a for f in sorted(glob.glob(os.path.join(d, 'out_*.json'))) for a in json.load(open(f, encoding='utf8'))}
+    js = {j['id']: j for b in sorted(glob.glob(os.path.join(d, 'batch_*.json'))) for j in json.load(open(b, encoding='utf8'))}
+    log = os.path.join(ROOT, f'vol{vol}', 'review', 'junction_repairs.tsv')
+    refused = [int(l.split('\t')[0]) for l in open(log, encoding='utf8').read().split('\n')[1:] if l.split('\t')[5:6] == ['refused']]
+    texts, rows, stat = {}, [], {'applied': 0, 'already whole': 0, 'still refused': 0}
+    for jid in refused:
+        j, a = js[jid], ans[jid]; an, bn = a.get('a_tail_new', j['a_tail']), a.get('b_head_new', j['b_head'])
+        p = os.path.join(ROOT, f'vol{vol}', j['file']); L = texts.setdefault(p, open(p, encoding='utf8').read().split('\n'))
+        ao, anw, actx = edge(j['a_tail'], an, True); bo, bnw, bctx = edge(j['b_head'], bn, False)
+        if tokens(ao + ' ' + bo) != tokens(anw + ' ' + bnw): stat['still refused'] += 1; rows.append((j, 'refused again', an, bn, 'a figure or an Indic letter differs')); continue
+        ia = [k for k, x in enumerate(L) if ao and x.endswith(ao) and (x[:len(x) - len(ao)].rstrip().endswith(actx.strip()) or fuzz.ratio(words(x, 45, True), j['a_tail']) >= 80)] if ao else []
+        if ao and len(ia) != 1:
+            near = [k for k, x in enumerate(L) if fuzz.ratio(words(x, 45, True), an) >= 90]
+            if len(near) == 1: stat['already whole'] += 1; rows.append((j, 'already whole', '', '', 'the sentence stands mended in the file')); continue
+            stat['still refused'] += 1; rows.append((j, 'refused again', an, bn, 'the words at the break are not in the file any more')); continue
+        ka = ia[0] if ao else next((k for k, x in enumerate(L) if fuzz.ratio(words(x, 45, True), j['a_tail']) >= 85), None)
+        kb = None
+        if bo:
+            if ka is None: stat['still refused'] += 1; rows.append((j, 'refused again', an, bn, 'the place was not found')); continue
+            kb = next((k for k in range(ka + 1, min(ka + 12, len(L))) if L[k].startswith(bo)), None)
+            if kb is None: stat['still refused'] += 1; rows.append((j, 'refused again', an, bn, 'the words after the break are not in the file any more')); continue
+        if ao: L[ka] = L[ka][:len(L[ka]) - len(ao)] + anw
+        if bo: L[kb] = bnw + L[kb][len(bo):]
+        stat['applied'] += 1; rows.append((j, 'applied (re-applied at the break)', anw, bnw, f'old: {ao!r} | {bo!r}'))
+    print(stat)
+    if write:
+        for p, L in texts.items(): open(p, 'w', encoding='utf8').write('\n'.join(L))
+        with open(log, 'a', encoding='utf8') as o:
+            for j, st, an, bn, why in rows:
+                o.write('\t'.join(str(x).replace('\t', ' ').replace('\n', ' ') for x in (j['id'], j['file'], j['page'], '', '', st, j['a_tail'], j['b_head'], an, bn, why)) + '\n')
+        print('written; log:', os.path.relpath(log, ROOT))
+    else:
+        for j, st, an, bn, why in rows:
+            if st != 'applied (re-applied at the break)': print(' ', j['id'], st, '|', why)
 def apply(vol, write):
     d = os.path.join(ROOT, f'vol{vol}', 'review', 'junctions'); ans = {}
     for f in sorted(glob.glob(os.path.join(d, 'out_*.json'))):
@@ -85,7 +136,7 @@ def apply(vol, write):
         la = L[j['a_line'] - 1]; lb = L[j['b_line'] - 1] if j['b_line'] else ''
         why = ''
         if not la.endswith(j['a_tail']) or (j['b_line'] and bn != j['b_head'] and not lb.startswith(j['b_head'])): why = 'the text is no longer as it was when listed'
-        elif tokens(j['a_tail'] + ' ' + j['b_head']) != tokens(an + ' ' + bn): why = 'a figure or an Indic letter differs'
+        elif tokens(j['a_tail'] + ' ' + j['b_head']) != tokens(an + ' ' + bn) and not a.get('dup_ok'): why = 'a figure or an Indic letter differs'     # dup_ok: the same figure stood on both sides of the break
         elif len((an + ' ' + bn).split()) > len((j['a_tail'] + ' ' + j['b_head']).split()) + 25: why = 'more than 25 words added'
         elif not an.strip() and not bn.strip(): why = 'empty answer'
         elif j['kind'] == 'M' and len(an.split()) < len(j['a_tail'].split()) - 2: why = 'words dropped from a line inside a page'
@@ -108,3 +159,4 @@ if __name__ == '__main__':
     vol = int(sys.argv[2])
     if sys.argv[1] == 'prep': prep(vol, int(sys.argv[sys.argv.index('--batch') + 1]) if '--batch' in sys.argv else 20)
     elif sys.argv[1] == 'apply': apply(vol, '--write' in sys.argv)
+    elif sys.argv[1] == 'reapply': reapply(vol, '--write' in sys.argv)

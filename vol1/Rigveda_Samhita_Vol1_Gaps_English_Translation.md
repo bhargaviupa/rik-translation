@@ -2034,11 +2034,11 @@ A branch specially connected with the Taittirīya branch is current in the Keral
 
 ## 39–40. Kauṇḍinya and Agniveśya branches
 
-Besides the branches named above, there are two more renowned branches of the Kṛṣṇa Yajurveda, Kauṇḍinya and Agniveśya. Their names are stated in the Ānanda-saṃhitā. In that work 15 sūtra… (continued on the next page)
+Besides the branches named above, there are two more renowned branches of the Kṛṣṇa Yajurveda, Kauṇḍinya and Agniveśya. Their names are stated in the Ānanda-saṃhitā. In that work 15
 
 ### Page 143
 
-...in that work are names of 15 sūtra-works. In them the sūtras of these two branches are also included. Quotations drawn from the sūtras of the Kauṇḍinya and Agniveśya branches are found in other works.
+sūtra-works are named. In them the sūtras of these two branches are also included. Quotations drawn from the sūtras of the Kauṇḍinya and Agniveśya branches are found in other works.
 
 ## 41. Hārīta branch
 
