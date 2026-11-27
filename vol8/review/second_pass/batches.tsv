@@ -3,3 +3,4 @@ batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date
 2	2	31	79	40	40	0	39	223k	eab0f49c	2026-11-27	79 [?] seen, 40 removed (26 corrected), 39 kept
 3	32	61	47	18	16	0	29	134k	337547ac	2026-11-27	47 [?] seen, 18 removed (16 corrected), 29 kept
 4	62	91	59	22	22	0	37	145k	2f3b1d92	2026-11-27	59 [?] seen, 22 removed (11 corrected), 37 kept
+5	92	121	47	23	22	0	24	118k	c2bfa8ce	2026-11-27	46 [?] seen, 22 removed (10 corrected), 24 kept
