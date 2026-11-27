@@ -15036,6 +15036,188 @@ For the word त्रिधातु (*tridhātu*) in these sentences of the Ta
 
 तिस्र एतास्त्रिधातोर्देवता लोकत्रयात्मिकाः । ततः खलु त्रिधातु देवतानां त्रित्वात्पजापतिः लोकत्रयव्यापी व्याप्तानिमान् लोकांस्त्रेधा दुहत् त्रिप्रकारमदुचत् । त्रयोद्धातवो धनान्यस्मिन्निति त्रिधातुः; त्रेधा धातव्यत्वात्पुरोडाशस्य । यद्वा सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥ (*tisra etāstridhātordevatā lokatrayātmikāḥ | tataḥ khalu tridhātu devatānāṃ tritvātpajāpatiḥ lokatrayavyāpī vyāptānimān lokāṃstredhā duhat triprakāramaducat | trayoddhātavo dhanānyasminniti tridhātuḥ; tredhā dhātavyatvātpuroḍāśasya | yadvā sarvādhāralokatrayātmakatvāt tridhātuḥ ‖*) (Tai. Saṃ. Bhāṣya)
 
+### Printed p. 631
+
+Continuing: the commentary explains that the word त्रिधातु (*tridhātu*) denotes the deities who dwell in the three worlds and have three forms. For these deities Prajāpati arranged the food in the form of the purodāśa at three times. In this way the meanings world, food, the three beings (bhūta-traya) and so on are given for the word त्रिधातु (*tridhātu*). The word is thus used in different places in different senses. In the present Ṛks, which praise the deities Agni, the Aśvins and Viṣṇu, it may be said that the word is used as a synonym denoting the three worlds: earth, atmosphere and heaven. The explanation of words such as त्रिचक्र (*tricakra*) and त्रिधातु (*tridhātu*) has been given in Ṛ. Saṃ. Part 4, in Sūkta 34.
+
+दुरोणं (*duroṇaṃ*)—The word दुरोण (*duroṇa*) is read among the names of the house (Ni. 3-13). In general it is understood to mean the sacrificial house.
+
+##### Grammar
+
+- युञ्ञाथाम् — युजिर् योगे इति धातुः । लोट् मध्यमपुरुष द्विवचने आथाम् प्रत्ययः । रुधादिभ्यः श्नम् (पा. सू. ३-१-७८) इति श्नम् विकरणम् । मित्त्वात् अंत्याचः परो भवति । श्नसोरल्लोपः (पा. सू. ६-४-१११) इति विकरणस्य अकारस्य लोपः । तिजंत निघातस्वरो भवति ।
+- जवीयान् — अतिशयार्थे ईयसुन् प्रत्ययः । इत्यादिर्नित्यम् (पा. सू. ६-१-१६८) इति आद्युदात्तस्वरो भवति ।
+- त्रिवंधुरः — त्रिचक्रादिगणे पठितत्वात् बहुव्रीहिसमासे त्रिचक्रादीनां छंदस्युपसंख्यानम् इति उत्तरपदांतोदात्तस्वरो भवति । त्रिचक्रः इत्यत्रापि एवम् अंतोदात्तस्वरो भवति ।
+- उपयाथः — या प्रापणे इति धातुः । लट् प्रथमपुरुष द्विवचनांतरूपम् । यद्योगात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । तिजुचोदात्तवति (पा सू. ८-१-७१) इति गतेः (उप) सर्वानुदात्तस्वरो भवति ।
+- पतथः — पत्ल्य गत् इति धातुः । लट् मध्यमपुरुष द्विवचनांतरूपम् । तिजंत निघातस्वरो भवति ।
+- विः — वा गतिगंधनयोः इति धातुः । वातेर्डिच्च (उ. सू. ४-५७३) इति इण् प्रत्ययः । डित्वविधानात् धातोः टेः (आ) लोपः । प्रत्ययस्वरो भवति ।
+- पर्णैः — पृ पालन पूरणयोः इति धातुः । धाप्यवस्य ज्यतिभ्योनः (उ. सू. ३-२८६) इति न प्रत्ययः । प्रत्ययनिमित्तेन धातोः इकः गुणः । र परो भवति । रषाभ्यां-
+
+### Printed p. 632
+
+सूत्रेण प्रत्ययनकारस्य णत्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति । तृतीया बहुवचनांतरूपम् । **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वृद्रथो॑ वर्तते॒ यन्न॒भि क्षां यत्तिष्ठ॑थः॒ क्रतु॑मं॒तानु॑ पृ॒क्षे ।  
+> वपु॑र्वपु॒ष्या स॑चतामि॒यं गीर्दि॒वो दु॑हि॒त्रोषसा॑ सचेथे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुवृत् । रथः । वर्तते । यन् । अभि । क्षां । यत् । तिष्ठथः । क्रतुमंता । अनु ।  
+> पृक्षे ।  
+> वपुः । वपुष्या । सचतां । इयं । गीः । दिवः । दुहित्रा । उषसा । सचेथे इति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आश्विन् युवयो रथः सुवृच्छोभनवर्तनः शोभनचक्रपरिभ्रमणो
+> यन् गच्छन् क्षामभि वर्तते । देवयजनभूमिं प्रति गच्छति । यद्यं रथं क्रतुमंता
+> संकल्पवंतौ कर्मवंतौ वापृक्षे । अन्ननामैतत् । हविषि निमित्तभूते सति । अन्वधीत्यर्थे । अधि तिष्ठथः आश्रयथः । तादृशो रथो देवयजनं प्रत्यागत इत्यर्थः ।
+> अनंतरं वपुष्या युष्मद्वपुषि हिता शरीरवर्धनीयं गीरिदानींक्रियमाणप्रकारा
+> स्तुतिरूपा वाग्वपुः सचतां । युवां च दिवो द्युलोकस्यादित्यस्य वा दुहित्रा
+> दुहितृस्थानीययोषसोषोदेवतया सचेथे । यज्ञं संगच्छेथे । उषस्याश्विनयोः समानकालत्वादिति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, your chariot, सुवृत् (*suvṛt*) (of good turning, its wheels revolving well), goes (यन् (*yan*)) and turns towards क्षां (*kṣāṃ*), that is, to the sacrificial ground of the gods. The chariot which you two, क्रतुमंता (*kratumaṃtā*) (possessed of resolve, or of rites), mount (अधि तिष्ठथः (*adhi tiṣṭhathaḥ*), resort to; अनु (*anu*) is in the sense of अधि (*adhi*)) when the oblation is the occasion; पृक्षे (*pṛkṣe*) is a name for food. The sense is that such a chariot has come to the sacrificial ground. Thereafter let the hymn now being made, वपुष्या (*vapuṣyā*) (beneficial to your body, body-nourishing), in the form of praise, attend (सचतां (*sacatāṃ*)) your body. And you two unite with Uṣas, who stands as daughter of heaven or of the sun, that is, you come together at the sacrifice. The idea is that Uṣas and the Aśvins are simultaneous.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- क्रतुमंता (*kratumaṃtā*)—you two, possessed of rites (of the resolve to accomplish the sacrifice)
+- हृक्षे (*hṛkṣe*)—for the sake of the oblation
+- यत् (*yat*)—which chariot
+- अनुतिष्ठतः (*anutiṣṭhataḥ*)—you resort to
+- सः (*saḥ*)—that
+- सुवृत् (*suvṛt*)—with good revolving of the wheels
+- रथः (*rathaḥ*)—your chariot
+- यन् (*yan*)—moving
+- क्षां (*kṣāṃ*)—to the sacrificial ground of the gods
+- अभि वर्तते (*abhi vartate*)—goes towards (it comes to our sacrificial hall; thereafter)
+- वपुष्या (*vapuṣyā*)—beneficial to your body (promoting the growth of the body)
+- इयं गीः (*iyaṃ gīḥ*)—this our hymn
+- वपुः सचतां (*vapuḥ sacatāṃ*)—may it attend your bodies
+- दिवः (*divaḥ*)—of heaven or of the sun
+- दुहित्रा (*duhitrā*)—who stands as daughter
+- उषसा (*uṣasā*)—with the deity Uṣas
+- सचेते (*sacete*)—you two unite (you come to the sacrifice)
+
+### Printed p. 633
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the wheels of the chariot which you two mount, with the resolve to accomplish the sacrifice, turn well and bring you to the sacrificial ground of the gods. May this our hymn promote the growth of your bodies. United with the goddess Uṣas, who stands as the daughter of the sun, come to our sacrificial hall.
+
+##### English translation (H. H. Wilson)
+Your easy-rolling car alights upon the earth where, favourable to the sacred rite, you stop for the sake of the (sacrificial) food : may this hymn, promotive of your personal (welfare), be associated with your forms, and do you unite with the dawn, the daughter of heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+क्रतुमंता (*kratumaṃtā*)—This word is an epithet of the Aśvin deities. The usages of the word क्रतु (*kratu*) in the senses sacrifice, water and truth were explained earlier. Sāyaṇa explains that in the present epithet they are described as presiding over the rite in the form of sacrifice. Or whatever meaning is given to this word, it fits. If ऋत (*ṛta*) is taken to mean water, the connection of the Aśvins with rain is well known. If it is taken to mean truth, it was also explained earlier that these very Aśvin deities pervade the whole universe and are themselves the form of all, the sun and the rest. If it is taken to mean sacrificial rite, it was also explained that all rites, the morning pressing and the others, are accomplished only after their manifestation. Therefore whatever meaning is given to the epithet क्रतुमंता (*kratumaṃtā*) is appropriate. **NOTE**
+दिवः दुहित्रा उषसा सचेते (*divaḥ duhitrā uṣasā sacete*)—It was explained that दिवः दुहित्रा (*divaḥ duhitrā*) means the daughter of the heaven-world or the daughter of the sun. The permanent connection of Uṣas with the Aśvin deities was also explained earlier. But in some places their relation is described as that of husband and wife, and in others as that of brothers. This matter will be explained in detail later.
+
+### Printed p. 634
+
+##### Grammar
+
+- सुवृत् — शोभनं वृत् वर्तनं यस्य सः । नञ्सुभ्याम् (पा. सू ६-२-१७२) इति उत्तरपदांतोदात्तस्वरो भवति ।
+- तिष्ठतः — ष्ठा गतिनिवृत्तौ इति धातुः । लट् मध्यमपुरुष द्विवचनांतरूपम् । यद्योगात् सर्वानुदात्तस्वरो न भवति । तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- क्रतुमंता — क्रतुः अनयोः अस्ति इति क्रतुमंतौ । मतुप् प्रत्ययः पित्त्वात् अनुदात्तो भवति । सुपां सुलुक्—सूत्रेण द्विवचनस्य अकारादेशः ।
+- वपुष्या — वपुषः हिता । हितार्थे य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति । स्त्रीत्वे अदंतत्वात् टाप् ।
+- सचताम् — षच समवाये इति धातुः । लोट् प्रथमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- दिवः — ऊडिदं पदादि—(पा. सू. ६-१-१७१) इति षष्ठीविभक्तिः उदात्ता भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ति॑ष्ठतं सु॒वृतं॒ यो रथो॑ वा॒मनु॑ व्र॒तानि॒ वर्त॑ते ह॒विष्मा॑न् ।  
+> येन॑ नरा नासत्येष॒यध्यै॑ व॒र्तिर्या॒थस्तन॑याय॒ त्मने॑ च ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तिष्ठतं । सुवृतं । यः । रथः । वां । अनु । व्रतानि । वर्तते । हविष्मान् ।  
+> येन । नरा । नासत्या । इषयध्यै । वर्तिः । याथः । तनयाय । त्मने । च ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवां सुवृतं शोभनवर्तनं रथमा तिष्ठतं । आश्रयतं ।
+> यो रथो हविष्मान् । षष्ठ्यर्थे प्रथमा । हविष्मतो यजमानस्य व्रतानि कर्मा-
+
+##### Gist of the bhāṣya
+
+O Aśvins, mount (आ तिष्ठतं (*ā tiṣṭhataṃ*), resort to) your chariot सुवृतं (*suvṛtaṃ*), of good turning. The chariot that is हविष्मान् (*haviṣmān*): the nominative stands in the sense of the genitive, so it is the chariot of the sacrificer who has the oblation, and it follows his rites.
+
+### Printed p. 635
+
+> ण्यनु वर्तते । यद्वा । यजमानाय दत्तहविषा तद्वान् । येन च रथेन हे नरा
+> नेतारौ ना हे नासत्यासत्यरहितौ युवामिषयध्यै । यज्ञं प्राप्तुमिच्छतमिति
+> शेषः । तेन रथेन वर्तिः । गृहनामैतत् । यजमानस्य यज्ञगृहं तनयाय
+> पुत्रलाभाय त्मन आत्मन आत्महिताय च याथः ॥
+
+##### Gist of the bhāṣya
+
+Or else the chariot is हविष्मान् (*haviṣmān*) because oblation has been given to the sacrificer. By the chariot by which you, O leaders, O नासत्या (*nāsatyā*) (free from untruth), desire (इषयध्यै (*iṣayadhyai*)) to reach the sacrifice (the remaining words to be supplied: *icchataṃ*), by that chariot you go to वर्तिः (*vartiḥ*), a name for house, that is, to the sacrificial house of the sacrificer, for the sake of obtaining sons (तनयाय (*tanayāya*)) and for his own (त्मने (*tmane*)) welfare.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders
+- नासत्या (*nāsatyā*)—O Aśvin deities, free from untruth
+- यः रथः (*yaḥ rathaḥ*)—the chariot which
+- हविष्मान् (*haviṣmān*)—of the sacrificer endowed with oblation
+- व्रतानि अनु (*vratāni anu*)—following the rites
+- वर्तते (*vartate*)—goes
+- येन (*yena*)—by which chariot
+- इषयध्यै (*iṣayadhyai*)—you desire to reach the sacrifice
+- and (येन (*yena*)—by which chariot)
+- वर्तिः (*vartiḥ*)—the house of the sacrificer
+- तनयाय (*tanayāya*)—(to favour him) with sons and the like
+- त्मने च (*tmane ca*)—and for (his) own welfare
+- याथः (*yāthaḥ*)—you go
+- (तं (*taṃ*)—that)
+- वां (*vāṃ*)—of you two
+- सुवृतं (*suvṛtaṃ*)—chariot of easy going
+- आ तिष्ठतं (*ā tiṣṭhataṃ*)—mount
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, free from untruth, your chariot comes (from time to time) following the rites of the sacrificer who has oblations and the like. In that very chariot you come to the sacrifices and bestow sons and the like and welfare on the sacrificers. Mount such chariot of yours that travels easily and come to our sacrificial hall.
+
+##### English translation (H. H. Wilson)
+Ascend your rolling car, which approaches the sacred rite of the oblation; the car in which, Nasatyas, leaders, you purpose to come the sacrifice, and to procceed to the dwelling (of the worshipper) for (bestowing upon him) offspring, and for his own (good).
+
+##### विशेषविषयगळु (Special Topics)
+
+वर्तिः (*vartiḥ*)—वर्तनहेतुभूतं गृहं (*vartanahetubhūtaṃ gṛhaṃ*). Wherever this word occurs, Sāyaṇa explains it as the house that is the support for dwelling. But Skandasvāmin, in general, explains it everywhere as the well-known sense, a road. For example:
+त्रिर्वर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतं । त्रिर्नांद्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतं ॥ (*trirvartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣataṃ | trirnāṃdyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvataṃ ‖*)
+(Ṛ. Saṃ. 1-34-4)
+In all such Ṛks Sāyaṇa explains वर्ति (*varti*) as house and Skandasvāmin as path. Thus all the sūktas that contain Ṛks using the word वर्ति (*varti*), such as त्रिवर्तिः (*trivartiḥ*), अश्विनावर्तिः (*aśvināvartiḥ*), 1-116-18:
+
+### Printed p. 636
+
+1-117-2; 1-119-4 and so on, are addressed to the Aśvin deities.
+
+##### विशेषविषयगळु (Special Topics)
+
+इषं दुहन्तुस्घां विश्वधायसं यज्ञप्रिये यजमानाय सुक्रतो । अग्ने धृतस्सु स्त्रीर्यतानि दीद्यद्वर्तिरज्ञं परियन्नुस्क्रतूयसे ॥ (*iṣaṃ duhantusghāṃ viśvadhāyasaṃ yajñapriye yajamānāya sukrato | agne dhṛtassu strīryatāni dīdyadvartirajñaṃ pariyannuskratūyase ‖*)
+(Ṛ. Saṃ. 10-122-6)
+Only in this Ṛk, a mantra addressed to Agni, is this word used; here it is explained as sacrificial house. Sāyaṇa too, in some places, explains the word as road. For example:
+यो ह स्य वां रथिरा वस्त उस्रा रथो युजानः परियाति वर्तिः । तेन नः तंयोरुषसो व्युष्टौ न्यश्विना वहतं यज्ञे अस्मिन् ॥ (*yo ha sya vāṃ rathirā vasta usrā ratho yujānaḥ pariyāti vartiḥ | tena naḥ taṃyoruṣaso vyuṣṭau nyaśvinā vahataṃ yajñe asmin ‖*)
+(Ṛ. Saṃ. 7-69-5)
+Here वर्तिः (*vartiḥ*) is explained as मार्गं (*mārgaṃ*) (road). This too is a mantra of prayer addressed to the Aśvin deities. In the present Ṛk the meaning is house, that is, the sacrificial house.
+त्मने च (*tmane ca*)—The word त्मन् (*tman*) is a contracted form of the word आत्मन् (*ātman*). Only in one context has Sāyaṇa explained it as life.
+त्वं त्यां न इंद्र देव चित्रामिषमापो न पीपयः परिज्मन् । यया शूर प्रत्यस्मभ्यं यंसि त्मनमूर्जं न विश्वध क्षरध्यै (*tvaṃ tyāṃ na iṃdra deva citrāmiṣamāpo na pīpayaḥ parijman | yayā śūra pratyasmabhyaṃ yaṃsi tmanamūrjaṃ na viśvadha kṣaradhyai*)
+(Ṛ. Saṃ. 1-63-8) **NOTE**
+Here the word त्मनं (*tmanaṃ*) is explained as आत्मानं जीवं (*ātmānaṃ jīvaṃ*) (the self, life).
+
+##### Grammar
+
+- तिष्ठतम् — ष्ठा गतिनिवृत्तौ इति धातुः । लोट् मध्यमपुरुष द्विवचनांतरूपम् । तिजंत निघातस्वरो भवति ।
+- वर्तते — वृतु वर्तने इति धातुः । यद्योगात् निघातस्वरो न भवति । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- नरा — सुपां सुलुक्—(पा. सू. ७-१-३) इति द्विवचनस्य आकारादेशः । आमंत्रित निघातस्वरो भवति । **NOTE**
+- इषयध्यै — इष गत् इति धातुः । तुमर्थे तुमर्थे सेसेनसे—(पा. सू. ३-४-९) इति अध्यै प्रत्ययः । कृन्मेजंतः इति अव्ययसंज्ञा भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 630. pp. 625-630 (batch API)
+**Progress note:** Done through printed p. 636. pp. 631-636 (batch API), grammar entry split by the page break closed
