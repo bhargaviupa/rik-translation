@@ -14323,6 +14323,129 @@ is quoted; as the word rathīḥ there means "leader", so in the present Ṛk to
 
 Madhvaḥ—मधु सदृशस्य उदकस्य वा (*madhu sadṛśasya udakasya vā*) (the chariot filled): the chariot filled with water like honey, or with ambrosia; thus the distinction of the Aśvins' chariot is praised. Ordinarily epithets such as मधुमान् (*madhumān*) and मधुवाहनः (*madhuvāhanaḥ*) naturally belong to the Aśvins' chariot. Not only to their chariot: they themselves are also well known as bearers of honey.
 
+### Printed p. 601
+This is that madhu which Dadhyañc Ātharvaṇa declared to the Aśvins; seeing this, the seer said: (Bṛ. U. 2-5-16).
+The story is well known that Dadhīci, the son of Atharvan, taught the Madhu-vidyā to the Aśvin deities. Since the Aśvins themselves were the teachers of this Madhu-vidyā, which is the foundation of spiritual knowledge, there is a figurative description that they come bringing this knowledge filled in their chariot. The same point is stated in
+त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्दिदुः । (*trayaḥ pavayo madhuvāhane rathe somasya venāmanu viśva iddiduḥ |*) (Ṛ. Saṃ. 1-34-2)
+अधि वां स्थाम वंधुरे रथे दस्रा हिरण्यये । (*adhi vāṃ sthāma vaṃdhure rathe dasrā hiraṇyaye |*) पथेव यं तावनुशासता रजोऽंजसा शासता रजः ॥ (*patheva yaṃ tāvanuśāsatā rajo 'ṃjasā śāsatā rajaḥ ‖*) (Ṛ. Saṃ. 1-139-4)
+and in many other Ṛks, through the epithets मधुवाहने रथे (*madhuvāhane rathe*) and हिरण्यये रथे (*hiraṇyaye rathe*). It was explained earlier that even हिरण्यये रथे (*hiraṇyaye rathe*) means मधुपूर्णे रथे (*madhupūrṇe rathe*), "in a chariot filled with madhu". Therefore a special meaning must be given here for the epithet मध्वः (*madhvaḥ*). How this Madhu-vidyā came to the Aśvins, Sāyaṇa has told along with the story while explaining the Ṛk
+दध्यज् ह यन्मध्वाथवर्णो वामश्वस्य शीष्णा प्र यदीमुवाच ॥ (*dadhyaj ha yanmadhvāthavarṇo vāmaśvasya śīṣṇā pra yadīmuvāca ‖*) (1-106-2).
+Its summary was given earlier. Without repeating it here, we state how the same story is told in the Śatapatha Brāhmaṇa and how the nature of this Madhu-vidyā is described in the Upaniṣads. The passage in the Śatapatha Brāhmaṇa (Śa. Brā. 14-1-8-18 to 25) is as follows.
+दध्यज् ह वा आथर्वणः । एकं शुक्रमेतं यज्ञं विदांचकार । यथा यथैतद्यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति । सहेंद्रेणोक्त आस । एतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्चिंद्यामिति । (*dadhyaj ha vā ātharvaṇaḥ | ekaṃ śukrametaṃ yajñaṃ vidāṃcakāra | yathā yathaitadyajñasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati | saheṃdreṇokta āsa | etaṃ cedanyasmā anubrūyāstata eva te śiraściṃdyāmiti |*)
+Dadhīci, son of Atharvan, knew this pure sacrificial doctrine. How the head of the sacrifice is set back, and how the whole sacrifice becomes complete: Indra, addressing Dadhīci, said, "If you tell this doctrine to anyone, I shall cut off your head."
+
+### Printed p. 602
+तदु हाश्विनोरनुश्रुतमास । दध्यज्जु ह वा आथर्वण एतं शुक्रमेतं यज्ञं वेद यथायथैतद्यज्जस्य शिरः प्रतिधीयते यथैष कृत्सो यज्ञो भवति । (*tadu hāśvinoranuśrutamāsa | dadhyajju ha vā ātharvaṇa etaṃ śukrametaṃ yajñaṃ veda yathāyathaitadyajjasya śiraḥ pratidhīyate yathaiṣa kṛtso yajño bhavati |*)
+Though the Aśvin deities heard this command of Indra, they wished to obtain for themselves the sacrificial doctrine known to Dadhīci.
+तौ हेत्योचतुः । उप त्वायावेति किमनुवक्ष्यमाणावित्येतं शुक्रमेतं यज्ञं यथा............कृत्सो यज्ञो भवतीति । (*tau hetyocatuḥ | upa tvāyāveti kimanuvakṣyamāṇāvityetaṃ śukrametaṃ yajñaṃ yathā............kṛtso yajño bhavatīti |*)
+Then they went to Dadhīci, asked to become his pupils so that they too might know that doctrine, and begged that he teach them as well.
+स होवाच ! इंद्रेण वा उक्तोऽस्मैतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्चिंद्यामिति तस्माद्वै बिभेमि यद्वै मे स शिरो न विंद्यान्न वामुपनेष्य इति । (*sa hovāca ! iṃdreṇa vā ukto 'smaitaṃ cedanyasmā anubrūyāstata eva te śiraściṃdyāmiti tasmādvai bibhemi yadvai me sa śiro na viṃdyānna vāmupaneṣya iti |*)
+In answer to their request he told them of the command Indra had given him, and said he could not accept them as pupils.
+तौ होचतुः । अवां त्वा तस्मात्रायस्यावह इति कथं मा श्रौस्येथे इति यदा ना उपनेष्यसेथ ते शिरश्चित्वान्यत्रापनिधास्यावोथात्वस्य शिर आहृत्य तत्ते प्रतिधास्यावस्तेन नावनुवक्ष्यसि स यदा नावनुवक्ष्यस्यथ ते तदिंद्रः शिरश्वेत्सक्यथ ते स्वं शिर आहृत्य तत्ते प्रतिधास्याव इति तथेति । (*tau hocatuḥ | avāṃ tvā tasmātrāyasyāvaha iti kathaṃ mā śrausyethe iti yadā nā upaneṣyasetha te śiraścitvānyatrāpanidhāsyāvothātvasya śira āhṛtya tatte pratidhāsyāvastena nāvanuvakṣyasi sa yadā nāvanuvakṣyasyatha te tadiṃdraḥ śiraśvetsakyatha te svaṃ śira āhṛtya tatte pratidhāsyāva iti tatheti |*)
+They replied, "We shall protect you." When he asked how, they said: "We shall remove your head and put a horse's head elsewhere. After your teaching, Indra will cut off that artificial head. Then we shall bring your natural head and set it back." On their saying this, Dadhīci agreed, "So be it."
+तौ होपनिन्ये । तौ यदोपनिन्येऽथास्य शिरश्चित्वान्यत्रापनिदधतुरथाश्वस्य शिर आहृत्य तद्दास्य प्रतिदधतुस्तेन हाभ्यामनूवाच स यदाभ्यामनूवा जाथास्य तदिंद्रः शिरश्चिच्छेदाथस्य स्वं शिर आहृत्य तद्दास्य प्रतिदधतुः । (*tau hopaninye | tau yadopaninye 'thāsya śiraścitvānyatrāpanidadhaturathāśvasya śira āhṛtya taddāsya pratidadhatustena hābhyāmanūvāca sa yadābhyāmanūvā jāthāsya tadiṃdraḥ śiraścicchedāthasya svaṃ śira āhṛtya taddāsya pratidadhatuḥ |*)
+Immediately he took the two as pupils and gave them the teaching. After he had taught, Indra came and cut off that horse's head. Straightaway the Aśvins set Dadhīci's own natural head back in place.
+
+### Printed p. 603
+तस्मादेतदृषीणामभ्यनूक्तं। दध्यज् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्रयदीमुवाचेत्यायतं तदुवाचेति हैवैतदुक्तं । (*tasmādetadṛṣīṇāmabhyanūktaṃ| dadhyaj ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā prayadīmuvācetyāyataṃ taduvāceti haivaitaduktaṃ |*) (Śa. Brā. 14-1-1-18 to 25)
+It is therefore well known that Dadhīci, son of Atharvan, taught this Madhu-vidyā through the horse's head. The same story is told in the Bṛhaddevatā also, in
+प्रादाद्ब्रह्मापि सुप्रीतः सुताय तदथर्वणः । (*prādādbrahmāpi suprītaḥ sutāya tadatharvaṇaḥ |*) स चाभवदृषिस्तेन ब्रह्मणा दीप्तिमत्तरः ॥ (*sa cābhavadṛṣistena brahmaṇā dīptimattaraḥ ‖*)
+तम्मृषिं निषिषेधेंद्रो मैवं वोचः क्वचिन्मधु ! (*tammṛṣiṃ niṣiṣedheṃdro maivaṃ vocaḥ kvacinmadhu !*) न हि प्रोक्ते मधुन्यस्मिन् जीवंतं त्वोत्सृजाम्यहं ॥ (*na hi prokte madhunyasmin jīvaṃtaṃ tvotsṛjāmyahaṃ ‖*)
+तम्मृषिं त्वश्विन् देवौ विविक्ते मध्वयाचतां । (*tammṛṣiṃ tvaśvin devau vivikte madhvayācatāṃ |*) स च ताभ्यां तदाचष्टे यदुवाच शचेपतिः ॥ (*sa ca tābhyāṃ tadācaṣṭe yaduvāca śacepatiḥ ‖*)
+तमब्रूतां तु नासत्यावाश्वेन शिरसा भवान् । (*tamabrūtāṃ tu nāsatyāvāśvena śirasā bhavān |*) मध्वाशु ग्राहयत्वावां मेंद्रश्च त्वा वधीत्ततः ॥ (*madhvāśu grāhayatvāvāṃ meṃdraśca tvā vadhīttataḥ ‖*)
+आश्वेन शिरसा तौ तु दध्यज्जाह यदश्विनौ । (*āśvena śirasā tau tu dadhyajjāha yadaśvinau |*) तदस्येंद्रोऽहरत्सं तन्न्यधत्तामस्य यच्छिरः ॥ (*tadasyeṃdro 'haratsaṃ tannyadhattāmasya yacchiraḥ ‖*)
+दधीचश्च शिरश्चाश्वं कृत्तं वज्रेण वज्रिणा । (*dadhīcaśca śiraścāśvaṃ kṛttaṃ vajreṇa vajriṇā |*) पपात सरसो मध्यॆ पर्वते शर्यणावति ॥ (*papāta saraso madhyè parvate śaryaṇāvati ‖*)
+तदद्भस्तु समुत्थाय भूतेभ्यो विविधान्सरान् । (*tadadbhastu samutthāya bhūtebhyo vividhānsarān |*) प्रादाय युगपर्यंतं तास्वॆवाप्पु निमज्जति ॥ (*prādāya yugaparyaṃtaṃ tāsvèvāppu nimajjati ‖*) (Bṛ. De. 3-18 to 24).
+In these verses the same story is told, with no difference in the account of the story. But at the end, this much is added here: the horse's head, cut off by Indra's thunderbolt, fell into a lake on the mountain called Śaryaṇāvat; it rose again and again, giving abundantly suitable boons to all creatures, and remains submerged there until the end of the yuga.
+
+##### Grammar
+
+- इंद्रतमा— अतिशायने तमबिष्ठनौ (पा. सू. ५-३-५५) इति तमप् प्रत्ययः । पित्त्वादनुदात्तः भवति । सुपां सुलुक् इति सूत्रेण प्रथमाद्विवचनस्य आकारादेशः । मरुत्तमा इत्यत्रापि एवमेव कार्याणि भवंति ।
+- दंसिष्ठा—पूर्वोक्तसूत्रेण अतिशयार्थे इष्ठन् प्रत्ययः । टेः (पा. सू. ६-४-१४३) इति पूर्वस्य टेः (अस्) लोपः । इत्यादिर्नित्यम् इति आद्युदात्तस्वरः भवति । पूर्ववत् द्विवचनस्य आकारादेशः ।
+**NOTE**
+
+### Printed p. 604
+- रथ्या—रथमहंति इति रथ्या । रथाद्यत् (पा. सू. ४-३-१२१) इति अर्हार्थे यत् प्रत्ययः । यस्येति च (पा. सू. ६-४-१४८) इति अकारलोपः । तित्स्वरितम् (पा. सू. ६-१-१८५) इति स्वरितस्वरः भवति । द्विवचनस्य आकारादेशः ।
+- रथीतमा—पूर्ववत् अतिशयार्थे तमप् प्रत्ययः । अन्येषामपि दृश्यते (पा. सू. ६-३-१७७) इति संहितायां पूर्वपदस्य दीर्घः भवति । विभक्तेः आकारादेशः ।
+- पूर्णम्—पृ पालनपूरणयोः धातुः । निष्ठा इति क्त प्रत्ययः । उदोष्ठ्यपूर्वस्य (पा. सू. ७-१-१०२) इति उत्वम् । उरण्रपरः इति र परे सति हलि च इति सूत्रेण दीर्घः । रदाभ्यां निष्ठातो (पा. सू. ८-२-४२) इति रेफात् परस्य क्त प्रत्ययस्य नत्वम् । रषाभ्यां नो णः इति णत्वम् । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+**NOTE**
+- वहेथे—वह प्रापणे धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- अचितम्—चिञ् चयने धातुः । निष्ठा क्त प्रत्ययः । कित्त्वात् गुणः न भवति । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (आज्) निघातस्वरः भवति ।
+- दाश्वांसम्—दाश्य दाने धातुः । दाश्वान् साह्वान् मीढ्वांश्च (पा. सू. ६-१-१२) इति क्वसु प्रत्ययांतत्वेन निपातितम् । द्वितीयाएकवचने उगित्त्वात् नुमागमः । प्रत्ययस्वरः भवति ।
+**NOTE**
+- याथः—या प्रापणे धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति । ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमत्र॑ दस्रा कृणुथः॒ किमा॑साथे॒ जनो॒ यः कश्चि॒दह॑विर्मही॒यते॑ ।  
+> अति॑ क्रमिष्टं जु॒रतं॑ प॒णेरसुं॒ ज्योति॒र्विप्रा॑य कृणुतं वच॒स्यवे॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । अत्र । दस्रा । कृणुथः । किं । आसाथे इति । जनः । यः । कः । चित् । अहविः ।  
+> महीयते ।  
+> अति । क्रमिष्टं । जुरतं । पणेः । असुं । ज्योतिः । विप्राय । कृणुतं । वचस्यवे ॥
+
+### Printed p. 605
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्रोपक्षपयितारौ युवामत्रास्मिन्मनुष्ये किं कृणुथः । कुरुथः ।
+> हविषोऽभावादितिभावः । तत्रैव किमसाथे । किं तिष्ठथः । अत्रेत्युक्तं कुत्रेत्याह ।
+> यः कश्चिज्जनो जन्मवानहविर्यज्ञार्थहवीरहितो महीयते पूज्यते स्वयं
+> न युष्मान् पूजयति । तं जनमति क्रमिष्टं । पराभूय तिष्ठतं । न केवलमतिक्रममात्रं किंतु पणेर्वणिग्यूतस्य लुब्बकस्यायष्टुस्तस्यासुं प्राणं जुरतं ।
+> अहिंसिष्टं। अनीनशतं। विप्राय मेधाविने वचस्यवे वचसः स्तोत्ररूपस्य युवाभ्यामिच्छते मह्यं ज्योतिः कृणुतं । युष्मदृजनविषयज्ञानं कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+O Dasras, destroyers, what do you two do here, in this man? Since there is no oblation, the sense is "nothing". What do you stay there for? Where is "here"? Any man, any person born, who is without oblation, without offerings for the sacrifice, is honoured, i.e. is worshipped himself, and does not worship you: pass beyond that man, overcome him and stay. Not mere passing beyond, but destroy the life of the pani, the trader or gambler, the miser who does not sacrifice. For me, the wise one who desires a speech of praise for you, make light: produce knowledge concerning worship of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे दस्रा (*he dasrā*)—O Aśvin deities, destroyers of enemies
+- यः कः चित् जनः (*yaḥ kaḥ cit janaḥ*)—whichever man
+- अहविः (*ahaviḥ*)—being without oblations and the like for the sacrifice
+- महीयते (*mahīyate*)—is himself honoured (without worshipping you)
+- अत्र (*atra*)—in the matter of such a man
+- किं कृणुथः (*kiṃ kṛṇuthaḥ*)—what do you do
+- किं आसाथे (*kiṃ āsāthe*)—why do you stay (there)
+- अति क्रमिष्ठं (*ati kramiṣṭhaṃ*)—pass beyond (such a man)
+- पणेः (*paṇeḥ*)—(of him) who, being greedy, is like a trader
+- असुं (*asuṃ*)—the life
+- जुरतं (*jurataṃ*)—injure (destroy)
+- विप्राय (*viprāya*)—to the wise one (and)
+- वचस्यवे (*vacasyave*)—(to me) who desires for you a word of praise
+- ज्योतिः (*jyotiḥ*)—light (the light of knowledge, that one should worship you)
+- कृणुतं (*kṛṇutaṃ*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, destroyers of enemies, what business have you with a man who, without oblations for the sacrifice, does not worship you and is himself worshipped? What do you do to such a man? O Aśvins, overcome such a man; destroy him, the greedy one; and grant to me, who am wise and desire to praise you, the knowledge that I should worship you.
+
+##### English translation (H. H. Wilson)
+What make you here, Ashwins : why do you tarry, (where) any man who makes no oblation is respected : humble him ; take away the life of the niggard ; grant light to the pious man striving to speak your praise,
+
+##### विशेषविषयगळु (Special Topics)
+
+For the word दस्रा (*dasrā*), it was explained earlier that one meaning is "of attractive form" and another is "causing destruction"; here it is taken as "causing destruction".
+
+### Printed p. 606
+There is also a reason for stating that meaning. The sacrificer, being poor, is unable to give oblations in full and expresses his fear. Because of sheer poverty, हविसः अभावात् (*havisaḥ abhāvāt*), he was unable to offer an oblation to them; yet his devotion and faith are boundless, and therefore he prays that they should not cause him trouble; and he prays that they destroy completely those panis who, though they have full wealth, are without faith and devotion and offer no oblation.
+The explanation of the word पणॆ (*paṇè*) by the Nirukta authors, and the meaning Sāyaṇa gave for it, were stated earlier in the Special Topics of Ṛ. Saṃ. 1-180-7. Sāyaṇa has described the nature of the panis as लुब्बकाः (*lubbakāḥ*), अबुध्यमानाः (*abudhyamānāḥ*), यागादीनकुर्वाणाः (*yāgādīnakurvāṇāḥ*), अदानशीलाः (*adānaśīlāḥ*), अस्मच्छत्रवः (*asmacchatravaḥ*) and so on.
+Because they are thus harmers of sacrificers, the sacrificer prays to the Aśvin deities there to destroy them.
+जुरतं (*jurataṃ*)—this word means "injure" or "destroy". Ordinarily the word is used with reference to harming enemies. For example:
+चित्रं तद्वो मरुतो याम चेकिते पृश्न्या यदूधरप्यापयो दुहुः । यद्वा निदे नवमानस्य रुद्रियास्त्रितं जराय जरतामदाभ्याः ॥ (*citraṃ tadvo maruto yāma cekite pṛśnyā yadūdharapyāpayo duhuḥ | yadvā nide navamānasya rudriyāstritaṃ jarāya jaratāmadābhyāḥ ‖*) (Ṛ. Saṃ. 2-34-10)
+In such Ṛks जुरतां (*juratāṃ*) is explained as हिंसकानां शत्रुणां (*hiṃsakānāṃ śatruṇāṃ*). In the present Ṛk the prayer is to injure enemies.
+ज्योतिः (*jyotiḥ*)—this word does not mean merely physical radiance or light. It is explained as युष्मद्यजनविषयज्ञानं (*yuṣmadyajanaviṣayajñānaṃ*): the light in the form of knowledge, by which one should perform sacrifice directed to you.
+
+##### Grammar
+
+- कृणुथः— कृवि हिंसाकरणयोश्च धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- आसाथे—आस उपवेशने धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- अहविः—न विद्यते हविः यस्य सः । व्यत्ययेन नञ् निमित्तस्वरः न भवति । बहुव्रीहौ इति आद्युदात्तस्वरः भवति । अथवा हविः शब्दः लुप्तमत्त्वर्थकप्रत्ययांतत्वात् तत्पुरुषसमासे तत्पुरुषे इति अव्ययपूर्वपदप्रकृतिस्वरः भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 600. pp. 595-600 (batch API)
+**Progress note:** Done through printed p. 606. pp. 601-606 (batch API)
