@@ -756,3 +756,134 @@
 | 394 | `The print's first words are read* yonir ity *and the numeral-word as* anarcam *[for* navar` → `The first words are read* yonir ity*, the numeral-word* navarcam *('of nine Ṛks') and the ` | SECOND-PASS Q1: Kannada p. 394 reads ಯೋನಿರಿತಿ ನವರ್ಚಮ್ … ಯೋನಿರ್ನವೇತ್ಯನುಕ್ರಾಂತಂ |
 | 395 | `*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 395.)*` → `*(Running head: left "A. 1 A. 7 Va. 18"; centre "Ṛgvedasaṃhitā"; right 395.)*` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
 | 395 | `- अष्टक १ · अध्याय ७ · वर्ग १८, १९ — *Aṣṭaka 1, Adhyāya 7, Vargas 18, 19* (numerals as rea` → `- अष्टक १ · अध्याय ७ · वर्ग १८, १९ — *Aṣṭaka 1, Adhyāya 7, Vargas 18, 19* (numerals as rea` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+
+### 2026-11-27 second pass, batch m536-685.tsv
+| page | old → new | why |
+|---|---|---|
+| 395 | `## Rik 104.1 — printed pp. 395–[?]` → `## Rik 104.1 — printed pp. 395–400` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 400) in the file |
+| 400 | `## Rik 104.2 — printed pp. 400–[?]` → `## Rik 104.2 — printed pp. 400–406` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 406) in the file |
+| 409 | `## Rik 104.4 — printed pp. 409–[?]` → `## Rik 104.4 — printed pp. 409–416` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 416) in the file |
+| 415 | `## Rik 104.5 — printed pp. 416–[?]` → `## Rik 104.5 — printed pp. 416–421` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 421) in the file |
+| 420 | `## Rik 104.6 — printed pp. 421–[?]` → `## Rik 104.6 — printed pp. 421–426` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 426) in the file |
+| 429 | `## Rik 104.8 — printed pp. 429–[?]` → `## Rik 104.8 — printed pp. 429–433` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 433) in the file |
+| 441 | `## Rik 105.1 — printed pp. 441–[?]` → `## Rik 105.1 — printed pp. 441–449` | SECOND-PASS Q1: end page = start page of the next Rik heading (p. 449) in the file |
+| 433 | `## Rik 104.9 — printed pp. 433–[?]` → `## Rik 104.9 — printed pp. 433–439 *(the last Ṛk of the Sūkta)*` | SECOND-PASS Q1: Kannada p. 439 closes Sūkta 104 and begins the introduction to 105 |
+| 396 | `are read as given [?];` → `are read as given;` | SECOND-PASS Q2: Kannada p. 396 reads Ni. 1-17 and Ni. 3-20 as the English has them; mark removed |
+| 398 | `the first word clotted in print [?])` → `the first word clotted in print)` | SECOND-PASS Q2: Kannada page agrees with the English; mark removed |
+| 399 | `pp. 399–400, noted briefly; numerals small and doubtful [?])` → `pp. 399–400, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 401 | `"A. 1 A. 7 Va. 18 [?]"` → `"A. 1 A. 7 Va. 18"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 401 | `read as given [?]; the print joins` → `read as given; the print joins` | SECOND-PASS Q2: Kannada page has the Sanskrit; mark removed |
+| 404 | `(*Ṛ. Saṃ.* 0-8-2 as read [?])` → `(*Ṛ. Saṃ.* 1-6-7)` | SECOND-PASS Q1: Kannada p. 404 reads (ಋ. ಸಂ. ೧-೬-೭) |
+| 404 | `pp. 404–405, noted briefly; numerals small and doubtful [?])` → `pp. 404–405, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 405 | `"A. 1 A. 7 Va. 18 [?]"` → `"A. 1 A. 7 Va. 18"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 408 | `pp. 408–409, noted briefly; numerals small and doubtful [?])` → `pp. 408–409, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 410 | `"Maṃ. 1 A. 7 Sū. 104" with small numerals [?]` → `"Maṃ. 1 A. 15 Sū. 104"` | SECOND-PASS Q1: Kannada p. 410 head reads ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೧೦೪ |
+| 410 | `likely *apahṛtābhiḥ* [?];` → `likely *apahṛtābhiḥ*;` | SECOND-PASS Q2: Kannada p. 410 reads ಆತ್ಮನಾಪಹೃತಾಭಿಃ; mark removed |
+| 410 | `(which makes the family decay [?])` → `(which makes the family decay)` | SECOND-PASS Q2: Kannada p. 410 reads ಕುಲಂ ಶಾತಯಂತೀ; mark removed |
+| 410 | `The sūtra numerals are doubtful [?].` → `The sūtra numerals are doubtful.` | SECOND-PASS Q2: Kannada p. 410 reads ಉ. ೪-೧೨೫ as the English has it; mark removed |
+| 412 | `1-253-10; 8-15-5; 8-53-2; 1-104-4; 2-322-2` → `1-53-10; 8-15-5; 8-53-2; 1-104-4; 2-32-2` | SECOND-PASS Q1: Kannada p. 412 reads ೧-೫೩-೧೦ ; ೮-೧೫-೫ ; ೮-೫೩-೨ ; ೧-೧೦೪-೪ ; ೨-೩೨-೨ |
+| 412 | `small and doubtful [?].)` → `small and doubtful.)` | SECOND-PASS Q2: Kannada p. 412 has the references; mark removed |
+| 412 | `(the print is clotted here [?])` → `(the print is clotted here)` | SECOND-PASS Q2: Kannada p. 412 has the clause; mark removed |
+| 412 | `the clotted clause is tentative [?].)` → `the clotted clause is tentative.)` | SECOND-PASS Q2: Kannada p. 412 has the Sanskrit; mark removed |
+| 414 | `pp. 414–415, noted briefly; numerals small and doubtful [?])` → `pp. 414–415, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 414 | `accent by a *lit* rule [?])` → `accent by *liti*, Pā. Sū. 6-1-193)` | SECOND-PASS Q1: Kannada p. 414 reads ಲಿತಿ (ಪಾ. ಸೂ. ೬-೧-೧೯೩) |
+| 414 | `U. Sū. 4-1[?]3 as read [?]` → `U. Sū. 4-256` | SECOND-PASS Q1: Kannada p. 414 reads (ಉ. ಸೂ. ೪-೨೫೬) |
+| 414 | `Pā. Sū. 7-2-116 as read [?]` → `Pā. Sū. 6-2-196` | SECOND-PASS Q1: Kannada p. 414 reads (ಪಾ. ಸೂ. ೬-೨-೧೯೬); applied as printed |
+| 414 | `-type rule [?])` → `-type rule)` | SECOND-PASS Q2: Kannada p. 414 reads ಇತ್ಯಾದಿರ್ನಿತ್ಯಮ್; mark removed |
+| 414 | `Pā. Sū. 8-2-36 as read [?]` → `Pā. Sū. 8-2-39` | SECOND-PASS Q1: Kannada p. 414 reads (ಪಾ. ಸೂ. ೮-೨-೩೯); applied as printed |
+| 414 | `Pā. Sū. 7-1-59 as read [?]` → `Pā. Sū. 7-1-39` | SECOND-PASS Q1: Kannada p. 414 reads (ಪಾ. ಸೂ. ೭-೧-೩೯); applied as printed |
+| 414 | `Pā. Sū. 3-2-129 as read [?]` → `Pā. Sū. 3-2-129 as read` | SECOND-PASS Q2: Kannada p. 414 reads (ಪಾ. ಸೂ. ೩-೨-೧೨೯); mark removed |
+| 414 | `*idito num dhātoḥ*, Pā. Sū. 7-1-58 as read [?]` → `*idito num dhātoḥ*` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 414 | `Pā. Sū. 6-1-63 as read [?]` → `Pā. Sū. 6-1-63 as read` | SECOND-PASS Q2: Kannada p. 414 reads (ಪಾ. ಸೂ. ೬-೧-೬೩); mark removed |
+| 414 | `, Pā. Sū. 8-2-7 as read [?])` → `)` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 416 | `reads *maghā-iva* [?].)` → `reads *maghā-iva*.)` | SECOND-PASS Q2: Kannada p. 417 Pada reads ಮಘಾಇವ; mark removed |
+| 417 | `mine and tentative where clotted [?].)` → `mine and tentative where clotted.)` | SECOND-PASS Q2: Kannada page has the Nirukta text; mark removed |
+| 417 | `*varṇavyatyayena* [?])` → `*varṇavyatyayena*)` | SECOND-PASS Q2: Kannada p. 420 reads ವರ್ಣವ್ಯತ್ಯಯದಿಂದ; mark removed |
+| 417 | `the libertine, bereft of virility (the Kannada word is read doubtfully; p. 419 explains *n` → `the libertine, devoid of morals (p. 419 explains *niṣṣapī* as one lacking virility);` | SECOND-PASS Q1: Kannada p. 417 reads ನಿಷ್ಪಪೀ—ನೀತಿರಹಿತನಾದ ವಿಷಯಲಂಪಟನು |
+| 418 | `(Sanskrit as read [?])` → `(Sanskrit as read)` | SECOND-PASS Q2: Kannada p. 418 has ಅಸ್ಮಾಭಿಃ ಚರ್ಕೃತಾತ್—ಅತ್ಯರ್ಥಂ ಕೃತಾತ್ । ಸಾಮರ್ಥ್ಯಾದಪರಾಧಾತ್; mark removed |
+| 419 | `pp. 419–420, noted briefly; numerals small and doubtful [?])` → `pp. 419–420, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 419 | `Uṇ. [?]-159 as read [?]` → `Uṇ. 2-157` | SECOND-PASS Q1: Kannada p. 419 reads (ಉ. ಸೂ. ೨-೧೫೭) |
+| 420 | `*itaś ca*, Pā. Sū. 3-4-100 as read [?]` → `*itaś ca*` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 420 | `Pā. Sū. 2-4-4 as read [?]` → `Pā. Sū. 2-4-45` | SECOND-PASS Q1: Kannada p. 420 reads (ಪಾ. ಸೂ. ೨-೪-೪೫) |
+| 420 | `Pā. Sū. 2-4-77 as read [?]` → `Pā. Sū. 2-4-77 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 6-4-75 as read [?]` → `Pā. Sū. 6-4-75 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 2-4-74 as read [?]` → `Pā. Sū. 2-4-74 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 3-2-102 as read [?]` → `Pā. Sū. 3-2-102 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 6-1-70 as read [?]` → `Pā. Sū. 6-1-70 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 3-1-134 as read [?]` → `Pā. Sū. 3-1-134 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 6-4-74 as read [?]` → `Pā. Sū. 6-4-74 as read` | SECOND-PASS Q2: Kannada p. 420 reads the same number; mark removed |
+| 420 | `Pā. Sū. 62-139 as read [?]` → `Pā. Sū. 6-2-139` | SECOND-PASS Q1: Kannada p. 420 reads (ಪಾ. ಸೂ. ೬-೨-೧೩೯) |
+| 421 | `"A. 1 A. 7 Va. 19 [?]"` → `"A. 1 A. 7 Va. 19"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 422 | `"Maṃ. 1 A. 7 Sū. 104" [?]` → `"Maṃ. 1 A. 15 Sū. 104"` | SECOND-PASS Q1: Kannada p. 422 head reads ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೧೦೪ |
+| 422 | `(Pā. Sū. 1-4-61 as read [?])` → `(Pā. Sū. 1-4-61 as read)` | SECOND-PASS Q2: Kannada p. 422 reads ಪಾ. ೧-೪-೬೧; mark removed |
+| 422 | `first Ṛk of Sūkta [?] of this same volume` → `first Ṛk of Sūkta 103 of this same volume` | SECOND-PASS Q1: Kannada p. 422 reads ೧೦೩ನೇ ಸೂಕ್ತದ ಮೊದಲನೇ ಋಕ್ಕಿನ |
+| 423 | `small and doubtful [?]; the readings` → `small and doubtful; the readings` | SECOND-PASS Q2: Kannada p. 423 reads ೧-೫೫-೨, ೧-೧೦೨-೨, ೧-೧೦೩-೫ as the English has them; mark removed |
+| 424 | `(as read [?]). Since` → `(as read). Since` | SECOND-PASS Q2: Kannada p. 424 has the Sanskrit; mark removed |
+| 424 | `pp. 424–425, noted briefly; numerals small and doubtful [?])` → `pp. 424–425, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 425 | `"A. 1 A. 7 Va. 19 [?]"` → `"A. 1 A. 7 Va. 19"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 425 | `Pā. Sū. 6-2-144 as read [?]` → `Pā. Sū. 6-2-144 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 3-2-36 as read [?]` → `Pā. Sū. 3-2-36 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 3-1-48 as read [?]` → `Pā. Sū. 3-1-48 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 6-1-11 as read [?]` → `Pā. Sū. 6-1-11 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 6-4-51 as read [?]` → `Pā. Sū. 6-4-51 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 7-4-1 as read [?]` → `Pā. Sū. 7-4-1 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 1-4-61 as read [?]` → `Pā. Sū. 1-4-61 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 7-4-42 as read [?]` → `Pā. Sū. 7-4-42 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 6-2-49 as read [?]` → `Pā. Sū. 6-2-49 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `Pā. Sū. 5-2-93 as read [?]` → `Pā. Sū. 5-2-93 as read` | SECOND-PASS Q2: Kannada p. 425 reads the same number; mark removed |
+| 425 | `*sanvallaghuni…*, 7-493, and *dīrgho laghoḥ*, 7-4-94, as read [?]` → `*sanvallaghuni…*, and *dīrgho laghoḥ*, 7-4-94` | SECOND-PASS S3: Kannada p. 425 gives only ದೀರ್ಘೋಽಲಘೋಃ (ಪಾ. ಸೂ. ೭-೪-೯೪); the other number is removed with the mark |
+| 426 | `"Maṃ. 1 A. 7 Sū. 104" [?]` → `"Maṃ. 1 A. 15 Sū. 104"` | SECOND-PASS Q1: Kannada p. 426 head reads ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೧೦೪ |
+| 427 | `"A. 1 A. 7 Va. 19 [?]"` → `"A. 1 A. 7 Va. 19"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 427 | `at the line end [?].` → `at the line end.` | SECOND-PASS Q2: Kannada p. 427 English translation reads "showerer"; mark removed |
+| 428 | `the one Ṛk of this very Sūkta [?]` → `the first Ṛk of this very Sūkta` | SECOND-PASS Q1: Kannada p. 428 reads ಈ ಸೂಕ್ತದ ಒಂದನೇ ಋಕ್ಕಿನ |
+| 428 | `pp. 428–429, noted briefly; numerals small and doubtful [?])` → `pp. 428–429, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 429 | `Pada on p. 430 [?])` → `Pada on p. 430)` | SECOND-PASS Q2: Kannada page has the Pada; mark removed |
+| 430 | `"Maṃ. 1 A. 7 Sū. 104" [?]` → `"Maṃ. 1 A. 15 Sū. 104"` | SECOND-PASS Q1: Kannada p. 430 head reads ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೧೦೪ |
+| 430 | `along with them [?]."` → `along with them."` | SECOND-PASS Q2: Kannada p. 431 has ಸಹಜಾನುಷಾಣಿ explained; mark removed |
+| 432 | `pp. 432–433, noted briefly; numerals small and doubtful [?])` → `pp. 432–433, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 433 | `Pā. Sū. 7-2-4 as read [?]` → `Pā. Sū. 3-2-4` | SECOND-PASS Q1: Kannada p. 433 reads ನೇಟಿ (ಪಾ. ಸೂ. ೩-೨-೪); applied as printed |
+| 433 | `*tasyedam*, Pā. Sū. 4-3-120 as read [?]` → `*tasyedam*` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 433 | `*taddhiteṣv acām ādeḥ*, Pā. Sū. 7-2-117 as read [?]` → `*taddhiteṣv acām ādeḥ*` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 433 | `Pā. Sū. 6-1-60 as read [?]` → `Pā. Sū. 6-1-70` | SECOND-PASS Q1: Kannada p. 433 reads (ಪಾ. ಸೂ. ೬-೧-೭೦) |
+| 433 | `Pā. Sū. 3-3-86 as read [?]` → `Pā. Sū. 7-3-86` | SECOND-PASS Q1: Kannada p. 433 reads (ಪಾ. ಸೂ. ೭-೩-೮೬) |
+| 433 | `*hal-ṅyābbhyo…*, Pā. Sū. 6-1-68 as read [?]` → `*hal-ṅyābbhyo…*` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 433 | `*vāvasāne*, Pā. Sū. 8-4-56 as read [?]` → `*vāvasāne*` | SECOND-PASS S3: Kannada has no number here; number and mark removed |
+| 433 | `Pā. Sū. 6-4-42 as read [?]` → `Pā. Sū. 6-4-42 as read` | SECOND-PASS Q2: Kannada p. 433 reads (ಪಾ. ಸೂ. ೬-೪-೪೨); mark removed |
+| 433 | `Pā. Sū. 6-2-2 as read [?]` → `Pā. Sū. 6-2-2 as read` | SECOND-PASS Q2: Kannada p. 433 reads (ಪಾ. ಸೂ. ೬-೨-೨); mark removed |
+| 434 | `Sūtra numerals mostly unread [?]; part of the tail is clotted in the scan [?].)*` → `Sūtra numerals mostly unread; part of the tail is clotted in the scan.)*` | SECOND-PASS Q2: doubt mark only on a numerals/clotting remark; Kannada p. 434 has the text and numerals |
+| 435 | `(Pā. Sū. 3-3-67 as read [?])` → `(Pā. Sū. 3-3-67 as read)` | SECOND-PASS Q2: Kannada p. 435 reads (ಪಾ. ಸೂ. ೩-೩-೬೭); mark removed |
+| 436 | `[as read [?]]` → `[as read]` | SECOND-PASS Q2: Kannada p. 436 has the sūtra text and (ಆ. ೬-೫); mark removed |
+| 438 | `"Maṃ. 1 A. 7 Sū. 10[?]"` → `"Maṃ. 1 A. 15 Sū. 104"` | SECOND-PASS Q1: Kannada p. 438 head reads ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೧೦೪ |
+| 438 | `pp. 438–439, noted briefly; numerals small and doubtful [?])` → `pp. 438–439, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 438 | `Pā. Sū. 6-2-1 as read [?]` → `Pā. Sū. 6-2-1` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 3-4-84 as read [?]; *us*` → `Pā. Sū. 3-4-84; *us*` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `for the ending [?]` → `for the ending` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 6-1-96 as read [?]` → `Pā. Sū. 6-1-96` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 1-2-1 as read [?]` → `Pā. Sū. 1-2-1` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 6-2-199 as read [?]` → `Pā. Sū. 6-2-199` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 6-2-139 as read [?]` → `Pā. Sū. 6-2-139` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 3-1-85 as read [?]` → `Pā. Sū. 3-1-85` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 3-4-80 as read [?]` → `Pā. Sū. 3-4-80` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 3-4-91 as read [?]` → `Pā. Sū. 3-4-91` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 3-1-74 as read [?]` → `Pā. Sū. 3-1-74` | SECOND-PASS Q2: Kannada p. 438 reads the same number/word; mark removed |
+| 438 | `Pā. Sū. 7-3-68 as read [?]` → `Pā. Sū. 7-3-78` | SECOND-PASS Q1: Kannada p. 438 reads (ಪಾ. ಸೂ. ೭-೩-೭೮) |
+| 439 | `doubtful places [?]):` → `doubtful places):` | SECOND-PASS Q2: Kannada p. 439-440 has the Sanskrit introduction; mark removed |
+| 440 | `he goes to [calls on] these [?].` → `he was greatly distressed.` | SECOND-PASS Q1: Kannada p. 441 ends ...ತ್ರಿತನಿಗೆ ಬಹುದುಃಖವಾಯಿತು ಎಂದು |
+| 440 | `eighteenth [?] anuvāka [the printed numerals: "eighteenth anuvāka, twelfth sūkta"; the hea` → `fifteenth anuvāka` | SECOND-PASS Q1: Kannada p. 440 reads ಹದಿನೈದನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹನ್ನೆರಡನೆಯ ಸೂಕ್ತ; Kannada p. 441 heading ಅನುವಾಕ-೧೫ |
+| 440 | `in the fourth eight [?];` → `in the fourth eight;` | SECOND-PASS Q2: Kannada p. 440 reads the same metre; mark removed |
+| 440 | `(Anu. 9-10 as read [?])` → `(Anu. 9-10 as read)` | SECOND-PASS Q2: Kannada p. 440 reads (ಅನು. ೯-೧೦); mark removed |
+| 443 | `"A. 1 A. 7 Va. 20 [?]"` → `"A. 1 A. 7 Va. 20"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 445 | `*padhīr iva tritaḥ* [as read [?]] —` → `*paridhīriva tritaḥ* —` | SECOND-PASS Q1: Kannada p. 445 reads ಪರಿಧೀರಿವ ತ್ರಿತಃ (IAST by sp_sanskrit.py) |
+| 445 | `[*padhīr iva tritaḥ*] [?] and` → `[*paridhīriva tritaḥ*] and` | SECOND-PASS Q1: Kannada p. 445 reads ಪರಿಧೀರಿವ ತ್ರಿತಃ |
+| 445 | `1-[?]-[?] as read [?]` → `105.5.9` | SECOND-PASS Q1: Kannada p. 445 reads (ಸೂ. ೧೦೫.೫.೯); applied as printed |
+| 445 | `[*padhi* [?]]` → `[*paridhi*]` | SECOND-PASS Q1: Kannada p. 445 reads ಪರಿಧಿ |
+| 446 | `read as printed [?].)` → `read as printed.)` | SECOND-PASS Q2: Kannada p. 446 has the text; mark removed |
+| 447 | `"A. 1 A. 7 Va. 20 [?]"` → `"A. 1 A. 7 Va. 20"` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 447 | `(*Ni.* 3-[?]3 as read [?])` → `(*Ni.* 2-15)` | SECOND-PASS Q1: Kannada p. 447 reads (ನಿ. ೨-೧೫) |
+| 447 | `pp. 447–448, noted briefly; numerals small and doubtful [?])` → `pp. 447–448, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (heading, running head or numerals remark); Kannada page has the text |
+| 447 | `Uṇ. 4-[?]62 as read [?]` → `Uṇ. 4-667` | SECOND-PASS Q1: Kannada p. 447 reads (ಉ. ಸೂ. ೪-೬೬೭) |
+| 448 | `Pā. Sū. 6-1-161 as read [?]` → `Pā. Sū. 6-1-171` | SECOND-PASS Q1: Kannada p. 448 reads (ಪಾ. ಸೂ. ೬-೧-೧೭೧) |
+| 448 | `Pā. Sū. 6-2-[?] as read [?]` → `Pā. Sū. 6-2-17` | SECOND-PASS Q1: Kannada p. 448 reads (ಪಾ. ಸೂ. ೬-೨-೧೭) |
+| 448 | `Pā. Sū. 7-3-78 as read [?]` → `Pā. Sū. 7-3-78 as read` | SECOND-PASS Q2: Kannada p. 448 reads (ಪಾ. ಸೂ. ೭-೩-೭೮); mark removed |
+| 448 | `Pā. Sū. 3-1-85 as read [?]` → `Pā. Sū. 3-1-85 as read` | SECOND-PASS Q2: Kannada p. 448 reads (ಪಾ. ಸೂ. ೩-೧-೮೫); mark removed |
+| 448 | `Pā. Sū. 6-1-59 as read [?]` → `Pā. Sū. 7-1-59` | SECOND-PASS Q1: Kannada p. 448 reads (ಪಾ. ಸೂ. ೭-೧-೫೯) |
