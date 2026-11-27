@@ -8978,6 +8978,132 @@ O Indra, you are heroic, endowed with valour, and a giver. Therefore impel the c
 - पात्रं न (*pātraṃ na*)—as it burns a vessel of its own support
 - ओषः (*oṣaḥ*)—burn
 
+### Printed p. 373
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are a hero and a giver to us. Impel the chariot of me, a mortal, that is, my heart's desire or my sacrifice, so that it prospers. And you, the mighty one (as the one empowered for the rite), burn the man who performs no rites and is a destroyer, as fire with its flame burns the vessel that is its own support.
+
+##### English translation (H. H. Wilson)
+You are a hero, a benefactor, accelerate the vehicle of man (that bears him to heaven); consume, mighty one, the irreligious Dasyu, as a (wooden) vessel is burnt by fire.
+
+##### विशेषविषयगळु (Special Topics)
+
+सनिता (*sanitā*)—giver. The word is explained as used in the sense of "one who is given to giving". Indra is asked to impel the chariot of the sacrificing sacrificer, taken as रथं (*rathaṃ*) ("speed", "motion"), or the heart's desire, or else the chariot called sacrifice, which is the means of going to heaven. The meaning given is: may he impel it so that wishes are fulfilled, or so that the chariot of sacrifice, the sacrificer's means of reaching heaven, is brought to completion.
+
+रथः (*rathaḥ*): this word is derived from the root रंह् (*raṃh*), which means going: रथो रंहतेर्गतिकर्मणः (*ratho raṃhatergatikarmaṇaḥ*). Or: स्थिरतेर्वा स्याद्विपरीतस्य (*sthiratervā syādviparītasya*), that is, the word स्थिर (*sthira*) used inverted yields the word रथ (*ratha*). Or: रममाणोऽस्मिंस्तिष्ठतीति वा रपतेर्वा रसतेर्वा (*ramamāṇo 'smiṃstiṣṭhatīti vā rapatervā rasatervā*) (Ni. 9-12): the means of a situation in which the fighter stands in comfort, and it is derived from the root रप (*rapa*) or from the root रस (*rasa*).
+
+The author of the Nirukta shows the nature of the chariot by citing the Ṛk वनस्पते वीड्वंगो हि भूया अस्मत्सखा प्रतरणः सुवीरः । गोभिः संनद्धो असि वीळयस्वास्थाता ते जयतु जेत्वानि ॥ (*vanaspate vīḍvaṃgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ | gobhiḥ saṃnaddho asi vīḷayasvāsthātā te jayatu jetvāni ‖*) (Ṛ. Saṃ. 6-47-26). But because the word रथ (*ratha*) is derived from the root रंड् (*raṃḍ*) in the sense of motion, in some places it is also used as an epithet of sons who move about. In the present Ṛk Sāyaṇa explains the word रथ (*ratha*) in two ways: as the heart's desire in the form of motion, and as the chariot that is the means of going to heaven and has the form of sacrifice.
+
+### Printed p. 374
+
+##### Gist of the bhāṣya
+
+(Not applicable; no Sanskrit block on this page.)
+
+##### विशेषविषयगळु (Special Topics)
+
+सहावान् (*sahāvān*)—सोमसहायवान् बलवान् वा (*somasahāyavān balavān vā*). The word सहः (*sahaḥ*) is read among the names of strength (Ni. 3-9). The author of the Nirukta explains the word सहवान् (*sahavān*) in the Ṛk त्यमू षु वाजिनं देवजूतं सहावानं तरुतारं रथानाम् । अरिष्टनेमिं पृतनाजमाशुं स्वस्तये तार्क्ष्यमिहा हुवेम ॥ (*tyamū ṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānām | ariṣṭanemiṃ pṛtanājamāśuṃ svastaye tārkṣyamihā huvema ‖*) (Ṛ. Saṃ. 10-178-1) as सहस्वंतं (*sahasvaṃtaṃ*). Durgācārya explains the meaning as: सहावानं सहः बलं तेन तद्वंतं (*sahāvānaṃ sahaḥ balaṃ tena tadvaṃtaṃ*), that is, the word सह (*saha*) means strength and the word means one who possesses it. Here Sāyaṇa describes Indra as one who has the help of Soma, or one who has strength.
+
+दस्युं (*dasyuṃ*)—उपक्षपयितारं (*upakṣapayitāraṃ*). Yāska says दस्युदर्स्यतेः क्षयार्थादुपदस्यंत्यस्मिन् रसाः उपदासॆयति कर्माणि (*dasyudarsyateḥ kṣayārthādupadasyaṃtyasmin rasāḥ upadāsèyati karmāṇi*) (Ni. 7-23). He explains that the word दस्यु (*dasyu*) is derived from the root दसु (*dasu*), meaning to injure or destroy, and is used in the sense that waters are dried up and rites are destroyed. Sāyaṇa describes the meaning as "the destroyer".
+
+The word दस्युं (*dasyuṃ*) is used as an epithet of the word अव्रतं (*avrataṃ*). For अव्रतं (*avrataṃ*) the gloss is अकर्माणं अननुष्ठायिनं (*akarmāṇaṃ ananuṣṭhāyinaṃ*): one who performs none of the sacrificial rites and destroys everything. The injunction here is that Indra should दह (*daha*) (destroy) such a man. Further, in this matter, शोचिषा पात्रंन ज्वालया अग्निः स्वाधारं पात्रविशेषमिव (*śociṣā pātraṃna jvālayā agniḥ svādhāraṃ pātraviśeṣamiva*): as fire burns with its flame the fuel and the like that are its own support, so यागाधिकारी यो न यजते तं दह (*yāgādhikārī yo na yajate taṃ daha*): if a man is qualified to perform the sacrifice yet remains indifferent and does not perform it, Indra should destroy him too. This is explained with the simile stated.
+
+The meaning that the word देव (*deva*) shows (Ni. 7-15), whether expansion, shining or giving, is opposed throughout by the meaning that the word दस्यु (*dasyu*) shows: decay, darkness and violence. Vṛtra and the other asuras all belong to the class of dasyus. Their deeds are to hold back the waters, as if stopping a flow, and to cover the light. Since Indra destroyed them, made the waters flow and spread the light, the epithet दस्युहा (*dasyuhā*) is applied to him in many places.
+
+Although the word दस्यु (*dasyu*) is used in many places as a synonym of rākṣasas and the like, in some places it is also used of human beings who neglect rites. For example:
+
+### Printed p. 375
+त्वं ह नु त्यवदमायो दस्यू रेकः कृष्णीरवनोरार्याय । (*tvaṃ ha nu tyavadamāyo dasyū rekaḥ kṛṣṇīravanorāryāya |*) (Ṛ. Saṃ. 6-18-3)
+
+In Ṛks such as this, दस्यून् (*dasyūn*) is explained as कर्महीनान् जनान् (*karmahīnān janān*). Since Indra destroyed both dasyus of the form of Vṛtra and the rest, and dasyus of human form who neglect rites, the epithet दस्युहा (*dasyuhā*) is natural for him.
+
+कुवित्सस्य प्र हि व्रजं गोमंतं दस्युहा गमत् । (*kuvitsasya pra hi vrajaṃ gomaṃtaṃ dasyuhā gamat |*) (Ṛ. Saṃ. 6-45-24)
+
+In this and many other Ṛks the epithet shows Indra's extreme power and the protection of the world brought about by slaying dasyus. And:
+
+It is the opinion of some that the two words ārya and dasyu are conventional terms pointing to two different groups of people. Historians have discussed the difference between the two groups, showing the āryas as cultured and the dasyus as uncultured people with a change of complexion. This subject will be dealt with later, with examples.
+
+##### Grammar
+
+- सनिता—षणु दाने इति धातुः । धात्वादेः षः सः इति आदेः सत्वम् । कर्तरि तृन् प्रत्ययः । अर्धधातुकस्येड्वलादेः इति तस्य इडागमः । इत्यादिर्नित्यम् (पा. सू. ६-१-१९) इति आद्युदात्तस्वरः भवति ।
+- चोडॆयुः—चुद प्रेरणे इति धातुः । छंदसि लुज्— (पा. सू. ३-४-६) इति लोडर्थे लज् । सत्यापपाक— (पा. सू. ३-१-२५) इति स्वार्थे णिच् । सिप् शप् निमित्तं णिचः गुणः अयादेशः । णिच् निमित्तं धातोः लघोपधस्य गुणः । पादादित्वात् निघातस्वरः न भवति । णिच्स्वरः अवशिष्यते ।
+- दस्युम्—दसु उपक्षये इति धातुः । यजिमनि शुंधि— (उ. सू. ३-३००) इति युच् प्रत्ययः । वृषादिषु अंतर्भूतत्वात् आद्युदात्तस्वरः भवति । उकारः इत् यस्य युवः तस्य अनादेशविधानात् अत्र अनादेशः न भवति ।
+- अप्रतम्—न विद्यते व्रतम् यस्य सः तम् । नञ्सुभ्याम् (पा. सू: ६-२-१७२) इति उत्तरपदांतोदात्तस्वरः भवति ।
+- ओषः—उष दाहे इति धातुः । भ्वादिः । लोट् अर्थे प्रतीयमाने छांदसः लज् । मध्यम पुरुषः एकवचनांतरूपम् । छांदसत्वात् अहागमः न भवति । पादादित्वात् निघातस्वरः न भवति । शप् अनुदात्तः भवति इति धातुस्वरः अवशिष्यते ।
+
+### Printed p. 376
+- शोचिषा—शुच शोके इति धातुः । अर्चिशुचिहु— (उ. सू. २१-२६-५) इति इसि प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । तृतीया एकवचनांतरूपम् ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मु॒षा॒य सूर्यं॑ कवे च॒क्रमीशा॑न॒ ओज॑सा ।  
+> वह॒ शुष्णा॑य व॒धं कुत्सं॒ वात॒स्याश्वैः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुषाय । सूर्यं । कवे । चक्रं । ईशानः । ओजसा ।  
+> वह । शुष्णाय । वधं । कुत्सं । वातस्य । अश्वैः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतदर्शिन्निंद्र ईशानः समर्थः सन् सूर्यं सूर्यस्य ॥
+> सुपां सुपो भवंतीति षष्ठैकवचनस्य द्वितीयैकवचनादेशः ॥ तत्संबंधि
+> चक्रमेकमोजसा बलेन सामर्थातिशयेन मुषाय । अमुष्णाः ॥ छंदसि
+> शायजपीति शायजादेशः ॥ पूर्व० सूर्यरथस्य चक्रद्वयमस्ति एकमिंद्रो
+> मुमुष इतीतिहासः । तथा च मंत्रांतरं : प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यत् । ऋ. ५. २९. १०. । इति । किंच शुष्टायैतन्नामकायासुराय तद्वधार्थं।
+> द्वितीयार्थे वा चतुर्थी । शुष्न हंतुमित्यर्थः । कुत्सं कर्तनसाधनं वधं
+> वज्रं वातस्य वायोरश्चैर्वायुवेगैर्वाश्चैर्युक्तः सन् वह । अवहः । शुष्न
+> हंतुं वज्रमधारयः । यद्वा । शुष्नवधाय वज्रमवहः । तं च हत्वा तदीयैर्वायुर्वेगैरश्चैस्तमपलक्षितैस्तदीयैर्धनैः कुत्सं महर्षिमगमः । शुष्टासुरधनं
+> कुत्सायादा इत्यर्थः । तथा चान्यत्र त्वं कुत्सं शुष्नहत्येष्याविथ । ऋ. १ ५१. ६ ।
+> शुत्साय शुष्नमशुषं । ऋ. ४-१६-१२ । इत्यादीति ॥
+
+##### Gist of the bhāṣya
+
+"O wise Indra, far-seeing, being able, you robbed by your might one wheel belonging to the sun." Sāyaṇa takes सूर्यं (*sūryaṃ*) as the genitive सूर्यस्य (*sūryasya*), the accusative ending being substituted for the genitive singular by the rule सुपां सुपो भवंतीति (*supāṃ supo bhavaṃtīti*). मुषाय (*muṣāya*) is अमुष्णाः (*amuṣṇāḥ*) ("you stole"), the form *śāyaj* being substituted in the Veda. The sun's chariot formerly had two wheels, and Indra stole one; so the itihāsa says. He cites another mantra: प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यत् (*prānyaccakramavṛhaḥ sūryasya kutsāyānyat*) (Ṛ. 5. 29. 10).
+
+Further, शुष्णाय (*śuṣṇāya*) means for the asura of that name, for his slaying; or the dative stands for the accusative, meaning "to slay Śuṣṇa". कुत्सं (*kutsaṃ*) is the cutting instrument, वधं (*vadhaṃ*) is the thunderbolt. वह (*vaha*) is अवहः (*avahaḥ*): yoked with the horses of the wind, that is, with horses of the wind's speed, you bore the thunderbolt to slay Śuṣṇa. Or else: you bore the thunderbolt for Śuṣṇa's slaying; and having slain him, you went to the great seer Kutsa with Śuṣṇa's horses of wind-like speed, which stand here for his wealth marked by horses. The meaning is that you gave the asura Śuṣṇa's wealth to Kutsa. He cites elsewhere: त्वं कुत्सं शुष्नहत्येष्याविथ (*tvaṃ kutsaṃ śuṣnahatyeṣyāvitha*) (Ṛ. 1. 51. 6) and शुत्साय शुष्नमशुषं (*śutsāya śuṣnamaśuṣaṃ*) (Ṛ. 4-16-12), and so on.
+
+### Printed p. 377
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O Indra, the wise one
+- ईशानः (*īśānaḥ*)—you, who are able
+- सूर्यं (*sūryaṃ*)—of the sun
+- चक्रं (*cakraṃ*)—one wheel of the chariot
+- ओजसा (*ojasā*)—by excess of might
+- मुषाय (*muṣāya*)—you carried off
+- शुष्णाय (*śuṣṇāya*)—for the slaying of the asura named Śuṣṇa
+- कुत्सं (*kutsaṃ*)—the cutting instrument
+- वधं (*vadhaṃ*)—the thunderbolt
+- वातस्य (*vātasya*)—having the speed of the wind
+- अश्वैः (*aśvaiḥ*)—yoked with horses
+- वह (*vaha*)—you bore
+- (Alternatively) शुष्णाय (*śuṣṇāya*)—for the slaying of the asura named Śuṣṇa; वधं (*vadhaṃ*)—the thunderbolt; वह (*vaha*)—you bore (having slain him); वातस्य (*vātasya*)—having speed equal to the wind; अश्वैः (*aśvaiḥ*)—yoked with the horses of that Śuṣṇa (with wealth marked by horses); कुत्सं (*kutsaṃ*)—the seer named Kutsa (you reached).
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are able, by your excess of might you carried off one wheel of the sun's chariot; and, bearing the thunderbolt, you slew the asura Śuṣṇa, reached the seer Kutsa together with the wind-swift horses and wealth of that asura, and gave that wealth to the seer.
+
+##### English translation (H. H. Wilson)
+Sage Indra, who are the lord, you have carried off by your strength one wheel of (the chariot of) the sun. Take up your bolt for the death of Shushna, and proceed with your horses, swift as the wind, to Kutsa.
+
+##### विशेषविषयगळु (Special Topics)
+
+कवे (*kave*)—Sāyaṇa gives the meaning of this word as क्रांतदर्शिन्निंद्र (*krāṃtadarśinniṃdra*). In some other places Sāyaṇa explains the word in two ways. First, following the śruti sentence “ये वा अनूचानास्ते कवयः (*ye vā anūcānāste kavayaḥ*)”, as scholars of the śāstras who have studied the Veda together with the Vedāṅgas. Second, following the Nirukta sentence कविः, मनीषी (*kaviḥ, manīṣī*) (Ni. 3-15), as one endowed with intelligence.
+
+The author of the Nirukta gives the derivation of the word कवि (*kavi*) thus: मेधावी कविः क्रांतदर्शनो भवति कवतेर्वा (*medhāvī kaviḥ krāṃtadarśano bhavati kavatervā*) (Ni. 12-13). The derivation shows that, formed from the root क्रम् (*kram*), it can mean one whose vision is far-reaching; or, formed from the root कम् (*kam*), it can mean a praiser who offers praise. What is the nature of the kavi? What is his power? It is necessary to know what nature and power the use of the word कवि (*kavi*) in the Ṛksaṃhitā is meant to convey.
+
+### Printed p. 378
+It may be said that the word कवि (*kavi*) is useful for conveying the same particular nature that the words ऋषि (*ṛṣi*), सुमेध (*sumedha*), धीर (*dhīra*) and रेभ (*rebha*) show. He who has the extraordinary, supernatural power of knowing all the affairs of past, future and present times is the dhīra; he is the ṛṣi, and he is the kavi. One who has this power is also fit for the creation of poetry in the form of hymns of praise. Therefore the praiser too has such names as kavi and rebha. In worldly literature and in treatises on poetics also, the words कवि (*kavi*) and काव्य (*kāvya*) are terms indicating a similar extraordinary power, though their derivation there differs somewhat from this; that point will be explained later as occasion arises. To show the true nature of the kavi the author of the Nirukta cites the Ṛk विश्वा रूपाणि प्रति मुंचते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे । नि नाकमख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति ॥ (*viśvā rūpāṇi prati muṃcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade | ni nākamakhyatsavitā vareṇyo 'nu prayāṇamuṣaso vi rājati ‖*) (Ṛ. Saṃ. 5-81-2), and explains what nature of Savitṛ the word कवि (*kavi*), an epithet of Savitṛ here, shows. It is understood that Savitṛ has this epithet because he makes all the forms of the universe shine. That is, he has the power by his might to make visible to the world those matters that lie hidden and do not meet its sight. In this same sense the name kavi is well known also for the praiser who offers praise. This idea is suggested in the Ṛk of the Ṛksaṃhitā ब्रह्मा कृशोति वरुणो गातुविदं तमीमहे । व्यूर्णोति हृदा मतिं नव्यो जायतामृतं नित्तं मे अस्य रोदसी ॥ (*brahmā kṛśoti varuṇo gātuvidaṃ tamīmahe | vyūrṇoti hṛdā matiṃ navyo jāyatāmṛtaṃ nittaṃ me asya rodasī ‖*) (Ṛ. Saṃ. 1-105-15), and likewise in other Ṛks. In this cited Ṛk Sāyaṇa explains the word वॊर्णोति (*vòrṇoti*) as उच्चारयति (*uccārayati*), प्रकाशयति (*prakāśayati*).**NOTE**
+
+ऊर्णुञ् (*ūrṇuñ*)—अच्छादने (*acchādane*). The root ऊर्णु (*ūrṇu*), meaning to hide or cover, becomes ऊर्णोति (*ūrṇoti*). Joined here with the prefix वि (*vi*) it gives the sense of removed covering, that is, removal of concealment; the purport is to make manifest. From this it is understood that the power of creation, in the form of making manifest a feeling hidden in the mind, and the power of making manifest and showing what is hidden, are the special quality of the kavi or praiser. Therefore the word कवि (*kavi*) is an epithet that shows to both Savitṛ and the praiser their common property. Describing this same characteristic and the kavi's work, the Ṛksaṃhitā says:
+
+समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः । ऋतस्य पदं कवयो नि पांति गुहा नामानि दधिरे पराणि । (*samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ | ṛtasya padaṃ kavayo ni pāṃti guhā nāmāni dadhire parāṇi |*)
+
 ---
 
-**Progress note:** Done through printed p. 372. pp. 367-372 (batch API)
+**Progress note:** Done through printed p. 378. pp. 373-378 (batch API)
