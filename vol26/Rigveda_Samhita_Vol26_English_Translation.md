@@ -10,7 +10,7 @@ All the ṛks of the ninth maṇḍala, which praise Soma, who is self-purified 
 
 सावमानीर्यो अध्येत्यृषिभिः संभृतं रसं । तस्मै सरस्वती दुहे क्षीरं सर्पिर्मधूदकं ॥ (*sāvamānīryo adhyetyṛṣibhiḥ saṃbhṛtaṃ rasaṃ | tasmai sarasvatī duhe kṣīraṃ sarpirmadhūdakaṃ ‖*)
 
-(Ma. Saṃ. 9-67-32) **NOTE**
+(Ṛ. Saṃ. 9-67-32) **NOTE**
 
 The Pāvamānī sūktas, acquired by the ṛṣis who had Madhucchandas as their origin, are the essence of all the Vedas. It is in praise of the greatness of all these sūktas that it is said that Sarasvatī provides the utmost happiness to those who recite and study these Pāvamānī sūktas, the essence of all the Vedas.
 
@@ -91,7 +91,7 @@ In such contexts Soma cannot be said to be an earthly juice. It is divine splend
 
 सोमं यं ब्रह्माणो विदुर्न तस्याश्नाति कश्चन | (*somaṃ yaṃ brahmāṇo vidurna tasyāśnāti kaścana |*)
 
-(Ma. Saṃ. 10-85-3) **NOTE**
+(Ṛ. Saṃ. 10-85-3) **NOTE**
 
 This Soma, full of divine splendour, flows through the three worlds in three kinds of streams.
 
@@ -147,7 +147,7 @@ The drinking of Soma juice is the most excellent of all other drinks. Soma juice
 
 त्वं सोम प्र चिकितो मनीषा त्वं रजिष्ठमनुनेषि पंथां । तव प्रणीती पितरो न इंदो देवेषु रत्नमभजंत धीराः ॥ (*tvaṃ soma pra cikito manīṣā tvaṃ rajiṣṭhamanuneṣi paṃthāṃ | tava praṇītī pitaro na iṃdo deveṣu ratnamabhajaṃta dhīrāḥ ‖*)
 
-(Ma. Saṃ. 7-91-1) **NOTE**
+(Ṛ. Saṃ. 7-91-1) **NOTE**
 
 O divine Soma, you alone are our guide. By our understanding (prajñā) we have known your nature. You have made the whole world drenched with amṛta. You have established our forefathers, who were of excellent action, among the gods. Be a guide on the good path for us — in this way, and so on, besides praising his being a guide, it is also praised in many places that by this drinking of Soma juice spiritual discernment and supersensory knowledge are obtained. भद्रं नो अपि वातय मनो दक्षमुत क्रतुं (*bhadraṃ no api vātaya mano dakṣamuta kratuṃ*) **GLOSS** It was by this very drinking of Soma juice that the praiser became able to compose praise. (इत्था हि सोम इन्मदे बह्मा चकार वर्धनं (*itthā hi soma inmade bahmā cakāra vardhanaṃ*)) Praises of this kind are there as well.
 
@@ -186,7 +186,7 @@ The great ṛṣis who have attained knowledge of Brahman ask in this way. If th
 
 ि । लोकद्वारमपावृणु । पश्येम त्वा वयं राज्याय इति । अथ जुहोति नमोऽग्नये पृथिवीक्षिते लोकक्षिते लोकं मे यजमानाय विंदैष वै यजमानस्य लोक एतास्मि ॥ (*i | lokadvāramapāvṛṇu | paśyema tvā vayaṃ rājyāya iti | atha juhoti namo 'gnaye pṛthivīkṣite lokakṣite lokaṃ me yajamānāya viṃdaiṣa vai yajamānasya loka etāsmi ‖*)
 
-(Bhā. U. 2-24-3 to 5) **NOTE**
+(Chā. U. 2-24-3 to 5) **NOTE**
 
 Before the recitation of the prātaranuvāka, one should sit behind the Gārhapatya fire, facing north, and recite the mantra लोकद्वारं (*lokadvāraṃ*), which is pleasing to the Vasus. Its purport is this: "O Vasus, open the door for us, for the sight of you, which is the means of obtaining kingship (rājya)." Then, "Homage to Agni, who dwells on the earth. O Agni, provide a place in this world for me, the sacrificer" — thus one should worship Agni and pray.
 
@@ -224,7 +224,7 @@ Those which are the supports in all the worlds are stated in many places. The wo
 तपोष्पवित्रं विततं दिवस्पदे शोचंतो अस्य तंतवो व्यस्थिरन् । अवंत्यस्य पनीतारमाशवो दिवस्पृष्ठमधि तिष्ठंति चेतसा ॥ (*tapoṣpavitraṃ vitataṃ divaspade śocaṃto asya taṃtavo vyasthiran | avaṃtyasya panītāramāśavo divaspṛṣṭhamadhi tiṣṭhaṃti cetasā ‖*)
 (Ṛ. Saṃ. 9-83-2)
 
-(Ma. Saṃ. 9-83-2) **NOTE**
+(Ṛ. Saṃ. 9-83-2) **NOTE**
 
 The purifying splendour of Soma, the destroyer of enemies, is spread widely in the elevated place of the heavenly world. His portions are spread everywhere, shining. His juices protect the sacrificer, who performs the sacrifice with excellent meditation. In these words and others the all-pervasiveness and power of the deity Soma are praised.
 
@@ -855,7 +855,7 @@ If, not acting according to the rule stated above, they unyoke both the oxen of 
 
 If Soma is brought down and carried off while both oxen are left yoked to the cart, then the yoga (good fortune) of acquiring wealth and the yoga of preserving what has been acquired, so that it is not lost, are both destroyed; moreover there is the danger that the sacrificer's sons and others will go away in various directions. Of the two oxen yoked to the cart, the one that has been unyoked from the cart is the form of the sons and others who are in the sacrificial hall and the house. The ox that has not been unyoked from the cart is the form of the worldly and Vedic rites that go on in the sacrificial hall. Here the word चक्रि (*cakri*) means the cart that has wheels. The sons, grandsons and others, who are the progeny of the sacrificer travelling in that cart, are called चक्रियाः (*cakriyāḥ*). The wise among the sacrificers unyoke one ox at the time of the lowering of Soma, leave the other as it is, and perform the lowering of Soma; thereby they obtain both the acquisition of wealth and its safekeeping, as said before. What the Taittirīya Saṃhitā says on this very matter deserves notice.
 
-यदुभौ विमुच्यातिथ्यं गृह्णीयाद्यज्ञं विच्छिंद्याद्यदुभावविमुच्य यथानाग ताय तिथ्यं क्रियते तादृगेव तद्विमुक्तोऽन्योऽनड्वान्भवत्यविमुक्तोऽ न्यूऽथातिथ्यं गृह्णाति यज्ञस्य संतत्यै । (*yadubhau vimucyātithyaṃ gṛhṇīyādyajñaṃ vicchiṃdyādyadubhāvavimucya yathānāga tāya tithyaṃ kriyate tādṛgeva tadvimukto 'nyo 'naḍvānbhavatyavimukto ' nyū 'thātithyaṃ gṛhṇāti yajñasya saṃtatyai |*) (Kṛ. Saṃ. 6-2-1-1) **NOTE**
+यदुभौ विमुच्यातिथ्यं गृह्णीयाद्यज्ञं विच्छिंद्याद्यदुभावविमुच्य यथानाग ताय तिथ्यं क्रियते तादृगेव तद्विमुक्तोऽन्योऽनड्वान्भवत्यविमुक्तोऽ न्यूऽथातिथ्यं गृह्णाति यज्ञस्य संतत्यै । (*yadubhau vimucyātithyaṃ gṛhṇīyādyajñaṃ vicchiṃdyādyadubhāvavimucya yathānāga tāya tithyaṃ kriyate tādṛgeva tadvimukto 'nyo 'naḍvānbhavatyavimukto ' nyū 'thātithyaṃ gṛhṇāti yajñasya saṃtatyai |*) (Tai. Saṃ. 6-2-1-1) **NOTE**
 
 If one unyokes both the oxen of the cart that has brought the Soma and lowers the Soma, King Soma does not accept the hospitality; and by doing so the sacrifice is cut off and is not completed, but stops in the middle. If both oxen are left yoked to the cart and made to stand so, it is
 
@@ -909,7 +909,7 @@ The meaning of the word savana is very profound. It mirrors the principle of the
 
 Prajāpati is the eldest, since he performed the sacrifice at the beginning. Wishing to carry out creation, he poured forth the Trivṛt stoma from his mouth. From it arose, among the gods, Agni; among the metres, Gāyatrī; among the Sāmans, Rathantara; among men, the Brāhmaṇa; among animals, the goat. When he poured forth the Pañcadaśa stoma from his arms, there arose, among the gods, Indra; among the metres, Triṣṭup; among the Sāmans, the Bṛhat Sāman; among men, the king; among animals, the sheep. When he poured forth the Saptadaśa stoma from his middle part, there arose, among the gods, the Viśvedevas; among the metres, Jagatī; among the Sāmans, the cow.
 
-Following this order, in the Soma sacrifice the offering of the morning savana is directed to Agni, the offering of the midday savana to Indra, and the offering of the third savana to the Viśvedevas. As said in the Atharvaveda, the morning savana is assigned to the Aśvins, the midday savana to Indra and Agni, and the third savana to the Ṛbhus (Ā. Ve. 9-1-2) **NOTE**. As said in the Aitareya Brāhmaṇa, the third savana belongs to the Ṛbhus. It is called the Ārbhava Pavamāna. But there is a legend about what right the Ṛbhus have to receive the oblation in the sacrifice along with the gods. The Aitareya Brāhmaṇa describes it thus:
+Following this order, in the Soma sacrifice the offering of the morning savana is directed to Agni, the offering of the midday savana to Indra, and the offering of the third savana to the Viśvedevas. As said in the Atharvaveda, the morning savana is assigned to the Aśvins, the midday savana to Indra and Agni, and the third savana to the Ṛbhus (Ath. Saṃ. 9-1-2) **NOTE**. As said in the Aitareya Brāhmaṇa, the third savana belongs to the Ṛbhus. It is called the Ārbhava Pavamāna. But there is a legend about what right the Ṛbhus have to receive the oblation in the sacrifice along with the gods. The Aitareya Brāhmaṇa describes it thus:
 
 ऋभवो नै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातस्सवनादनुदत । (*ṛbhavo nai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātaḥsavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātassavanādanudata |*) (Ai. Brā. 13-6)
 
@@ -931,7 +931,7 @@ Prajāpati divided the shares of the sacrifice and the metres among the gods. In
 
 Since Agni mirrors Brahmanical brilliance, Indra Kṣatriya power, and the Viśvedevas the Vaiśya's way of life, it is understood from the Taittirīya Saṃhitā passages cited above that the differences of the classes in creation also follow these divisions of the savanas. The Chāndogya Upaniṣad explains this same division from the spiritual point of view and says as follows:
 
-ब्रह्मवादिनो वदंति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनं ॥ (*brahmavādino vadaṃti yadvasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanamādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanaṃ ‖*) (Bhā. U. 2-24-1) **NOTE**
+ब्रह्मवादिनो वदंति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनं ॥ (*brahmavādino vadaṃti yadvasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanamādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanaṃ ‖*) (Chā. U. 2-24-1) **NOTE**
 
 It states that the morning savana is allotted to the Vasus, the midday savana to the Rudras, and the third savana to the Ādityas and the Viśvedevas, and it tells the special mantras to be uttered at the time of these savanas.
 
@@ -951,7 +951,7 @@ The Puruṣa is the sacrifice. Because the Gāyatrī metre, consisting of twenty
 
 If during this period of twenty-four years sluggishness comes upon the body, then, if he prays, addressing the Vasus: "O you vital breaths (Vasus), the means of dwelling, may this morning savana of mine not be broken off in the middle, but carry me on to the midday savana as well; may this sacrifice of my life not be cut off", the man is freed from the sluggishness.
 
-अथ यानि चतुर्विंशद्वर्षाणि तन्माध्यंदिनं सवनं चतुश्चत्वारिंशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा वाव रुद्रा एते हीदं सर्वं रोदयंति । (*atha yāni caturviṃśadvarṣāṇi tanmādhyaṃdinaṃ savanaṃ catuścatvāriṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tadasya rudrā anvāyattāḥ prāṇā vāva rudrā ete hīdaṃ sarvaṃ rodayaṃti |*) (Chā. 3-16-3) **NOTE**
+अथ यानि चतुर्विंशद्वर्षाणि तन्माध्यंदिनं सवनं चतुश्चत्वारिंशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा वाव रुद्रा एते हीदं सर्वं रोदयंति । (*atha yāni caturviṃśadvarṣāṇi tanmādhyaṃdinaṃ savanaṃ catuścatvāriṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tadasya rudrā anvāyattāḥ prāṇā vāva rudrā ete hīdaṃ sarvaṃ rodayaṃti |*) (Chā. U. 3-16-3) **NOTE**
 
 ### Printed p. 44
 
@@ -965,11 +965,11 @@ If during these forty-four years, which are of the nature of the midday savana, 
 
 The Jagatī, which consists of forty-eight syllables, is the metre of the third savana; therefore the last forty-eight years of man are also of the nature of the evening savana. Because at the time of the departure of the breath they draw everything into themselves, the breaths are of the form of the Ādityas **NOTE**. And the breaths, being of the nature of the Ādityas, are the presiding deities of this third savana.
 
-तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनु संतनोतीति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति. (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātprāṇā ādityā idaṃ me tṛtīyasavanamāyuranu saṃtanotīti māhaṃ prāṇānāmādityānāṃ madhye yajño vilopsīyetyuddhaiva tata etyagado haiva bhavati.*) (Bhā. U. 3-16-6) **NOTE**
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनु संतनोतीति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति. (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātprāṇā ādityā idaṃ me tṛtīyasavanamāyuranu saṃtanotīti māhaṃ prāṇānāmādityānāṃ madhye yajño vilopsīyetyuddhaiva tata etyagado haiva bhavati.*) (Chā. U. 3-16-6) **NOTE**
 
 If sluggishness comes at this time, then, addressing the Ādityas: "May my sacrifice not be cut off in the middle. May my span of life be lived out in full", if one prays thus, the sacrifice of life is not cut off but is carried out completely.
 
-एतद्दस्मै वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद । (*etaddasmai vai tadvidvānāha mahidāsa aitareyaḥ sa kiṃ ma etadupatapasi yo 'hamanena na preṣyāmīti sa ha ṣoḍaśaṃ varṣaśatamajīvatpra ha ṣoḍaśaṃ varṣaśataṃ jīvati ya evaṃ veda |*) (Bhā. U. 2-16-2) **NOTE**
+एतद्दस्मै वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद । (*etaddasmai vai tadvidvānāha mahidāsa aitareyaḥ sa kiṃ ma etadupatapasi yo 'hamanena na preṣyāmīti sa ha ṣoḍaśaṃ varṣaśatamajīvatpra ha ṣoḍaśaṃ varṣaśataṃ jīvati ya evaṃ veda |*) (Chā. U. 2-16-2) **NOTE**
 
 ### Printed p. 45
 
@@ -1141,7 +1141,7 @@ As soon as the Adhvaryu directs Maitrāvaruṇa, by means of the Praiṣa mantra
 
 Maitrāvaruṇa recites the above sūkta in this way. For what purpose this sūkta is to be used at the time of the Prātaḥsavana, and what special feature this sūkta has with regard to the savana, will now be explained.
 
-आ त्वा वहंतु हरय इति प्रातःसवन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धाः । (*ā tvā vahaṃtu haraya iti prātaḥsavana unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatī rūpasamṛddhāḥ |*) (I. Brā. 25-9) **NOTE**
+आ त्वा वहंतु हरय इति प्रातःसवन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धाः । (*ā tvā vahaṃtu haraya iti prātaḥsavana unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatī rūpasamṛddhāḥ |*) (Ai. Brā. 25-9) **NOTE**
 
 All nine Ṛks in this sūkta are in the Gāyatrī metre. And in the Ṛks of this sūkta there is use of words such as वृष (*vṛṣa*), सुत (*suta*) and मद (*mada*), which are used in connection with the drinking of Soma. In the second pāda of the first Ṛk, in वृषणं सोमपीतॆये (*vṛṣaṇaṃ somapītèye*), there is use of the words वृष (*vṛṣa*) and पीत (*pīta*). In the sentence सुते हि त्वा हवामहे (*sute hi tvā havāmahe*) **NOTE** in the fourth Ṛk, the word सुत (*suta*) is read. In the sentence इंद्रो मदाय गच्छति (*iṃdro madāya gacchati*) in the eighth Ṛk, the word मद (*mada*) is found. If all these words are not in every Ṛk, they are read many times here and there in the whole sūkta. The idea that Indra, the giver of rain, drinks the Soma juice and rains is expressed by the four words वृषण (*vṛṣaṇa*), सुत (*suta*), सोम (*soma*) and मदाय (*madāya*). Therefore this sūkta is abundant in form (रूपसमृद्धाः (*rūpasamṛddhāḥ*)) with regard to Indra's drinking of Soma. Abundance of form means this: when one speaks with reference to a particular matter, the mantras used there must contain the meaning that explains that matter. Thus, to use on the proper occasion, in the respective rites, mantras that contain words indicating the explanation and meaning of the respective rites is what is called abundance of form.
 
@@ -1639,7 +1639,7 @@ The same procedure, with some variation, is stated in the Śatapatha Brāhmaṇa
 
 The authors of the Nirukta have given different meanings of this word. But to show that the purpose is one, having explained that it is called pavitra because it purifies, पवित्रं पुनातेः (*pavitraṃ punāteḥ*) (Ni. 5-6),
 
-1. मंत्रः पवित्रमुच्यते (*maṃtraḥ pavitramucyate*): the mantra is called pavitra; quoting the sentence येन देवाः पवित्रेणात्मानं पुनते सदा (*yena devāḥ pavitreṇātmānaṃ punate sadā*) (Sā. Ve. 5-2-8-5; 2-652) they take the meaning there to be mantra,**NOTE**
+1. मंत्रः पवित्रमुच्यते (*maṃtraḥ pavitramucyate*): the mantra is called pavitra; quoting the sentence येन देवाः पवित्रेणात्मानं पुनते सदा (*yena devāḥ pavitreṇātmānaṃ punate sadā*) (Sā. Saṃ. 5-2-8-5; 2-652) they take the meaning there to be mantra,**NOTE**
 
 2. रश्मयः पवित्रमुच्यते (*raśmayaḥ pavitramucyate*): the rays also are called pavitra.
 
@@ -4984,7 +4984,7 @@ Sūkta 58. Maṇḍala 9. Anuvāka 2. Sūkta 58. Aṣṭaka 7. Adhyāya 1. Varga
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> मंदी देवानां हर्षकरः सः सोमः तरत् स्तोतॄन् पाप्मनः सकाशात् तारयन् धावति पवते । तदेव दर्शयति । सुतस्य अभिषुतस्य अंधसः देवानामन्नात्मकस्य सोमस्य धारा धावतीति । पुनरपि तदेवाह अत्यंतादरार्थं तरत्स मंदी धावति इति । यद्वा । अस्या ऋचो यास्केनोक्तोऽर्थो द्रष्टव्यः । तद्यथा-‘तरति स पापं सर्वं मंदी यः स्तौति धावति गच्छत्यूर्ध्वाँ गतिम् । धारा सुतस्यांधसो धारयाभिषुतस्य सोमस्य मंत्रपूतस्य वाचा स्तुतस्य ' (निरु. १३.६ ) इति ॥
+> मंदी देवानां हर्षकरः सः सोमः तरत् स्तोतॄन् पाप्मनः सकाशात् तारयन् धावति पवते । तदेव दर्शयति । सुतस्य अभिषुतस्य अंधसः देवानामन्नात्मकस्य सोमस्य धारा धावतीति । पुनरपि तदेवाह अत्यंतादरार्थं तरत्स मंदी धावति इति । यद्वा । अस्या ऋचो यास्केनोक्तोऽर्थो द्रष्टव्यः । तद्यथा-‘तरति स पापं सर्वं मंदी यः स्तौति धावति गच्छत्यूर्ध्वाँ गतिम् । धारा सुतस्यांधसो धारयाभिषुतस्य सोमस्य मंत्रपूतस्य वाचा स्तुतस्य ' (नि. १३.६ ) इति ॥
 
 ##### Gist of the bhāṣya
 
@@ -12439,7 +12439,7 @@ Agni, you support our lives, send us nutriment and food. drive far off the Raksh
 
 ##### विशेषविषयगळु (Special Topics)
 
-In the Agnihotra offering, after the sacrificer has offered the first oblation, he is to attend upon Agni, every day or every year, with the three Ṛks beginning agna āyūṃṣi (19-21); this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, आग्नेयाभिश्चाग्न आयूंषि पवस इति तिसृभिः संवत्सरे संवत्सरे (*āgneyābhiścāgna āyūṃṣi pavasa iti tisṛbhiḥ saṃvatsare saṃvatsare*) (Ā. Sū. 2-3, 4)**NOTE**. In domestic rites such as the tonsure, four oblations of ghee are to be offered. Of these, three oblations are to be made with these three Ṛks beginning agna āyūṃṣi (19-21); this is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न आयूंषि पवस इति तिसृभिः (*teṣāṃ purastāccatasra ājyāhutīrjuhuyādagna āyūṃṣi pavasa iti tisṛbhiḥ*) (Ā. Gṛ. 1-4-3-4**NOTE**). In the Ādhāneṣṭi, at the time of the Pavamāneṣṭi, when the offering is made to Pavamāna Agni, this Ṛk beginning agna āyūṃṣi is to be recited as the anuvākyā mantra, and the Ṛk agne pavasva (the 21st Ṛk) as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, प्रथमायामग्निरग्निः पवमानोऽग्न आयूंषि पवसेऽग्ने पवस्व स्वपाः (*prathamāyāmagniragniḥ pavamāno 'gna āyūṃṣi pavase 'gne pavasva svapāḥ*) (Ā. 2-1)**NOTE**. In the Punarādheya offering, when the second ājyabhāga is offered, this Ṛk beginning agna āyūṃṣi is to be recited, optionally, as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, नित्यं पूर्वमनुब्राह्मणिनोऽग्न आयूंषि पवस इत्युत्तरं (*nityaṃ pūrvamanubrāhmaṇino 'gna āyūṃṣi pavasa ityuttaraṃ*) (Ā. 2-8).
+In the Agnihotra offering, after the sacrificer has offered the first oblation, he is to attend upon Agni, every day or every year, with the three Ṛks beginning agna āyūṃṣi (19-21); this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, आग्नेयाभिश्चाग्न आयूंषि पवस इति तिसृभिः संवत्सरे संवत्सरे (*āgneyābhiścāgna āyūṃṣi pavasa iti tisṛbhiḥ saṃvatsare saṃvatsare*) (Ā. Sū. 2-3, 4)**NOTE**. In domestic rites such as the tonsure, four oblations of ghee are to be offered. Of these, three oblations are to be made with these three Ṛks beginning agna āyūṃṣi (19-21); this is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न आयूंषि पवस इति तिसृभिः (*teṣāṃ purastāccatasra ājyāhutīrjuhuyādagna āyūṃṣi pavasa iti tisṛbhiḥ*) (Ā. Gṛ. Sū. 1-4-3-4**NOTE**). In the Ādhāneṣṭi, at the time of the Pavamāneṣṭi, when the offering is made to Pavamāna Agni, this Ṛk beginning agna āyūṃṣi is to be recited as the anuvākyā mantra, and the Ṛk agne pavasva (the 21st Ṛk) as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, प्रथमायामग्निरग्निः पवमानोऽग्न आयूंषि पवसेऽग्ने पवस्व स्वपाः (*prathamāyāmagniragniḥ pavamāno 'gna āyūṃṣi pavase 'gne pavasva svapāḥ*) (Ā. 2-1)**NOTE**. In the Punarādheya offering, when the second ājyabhāga is offered, this Ṛk beginning agna āyūṃṣi is to be recited, optionally, as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, नित्यं पूर्वमनुब्राह्मणिनोऽग्न आयूंषि पवस इत्युत्तरं (*nityaṃ pūrvamanubrāhmaṇino 'gna āyūṃṣi pavasa ityuttaraṃ*) (Ā. 2-8).
 
 #### Ṛk 20
 
@@ -16332,7 +16332,7 @@ Maṇḍala 9; Anuvāka 4; Sūkta 72; Aṣṭaka 7; Adhyāya 2; Varga 2, 88. Num
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हरिं हरितवर्णं सोममृत्विजो मृजंति मार्जयंति । ‘मृजेरजादौ संक्रमे विभाषा वृद्धिरिष्यते' (पा. म. १.१.३.१०, का. १.१.५ ) इति तत्र वृद्धेरभावः । सोऽयम् अरुषः । अर्तेरुषच्प्रत्ययः ॥ गमनशीलोऽश्व इव युज्यते इंद्रादिभिः संयुज्यते । किंच कलश द्रोणाभिधाने स्थितः सोमः धेनुभिः गोविकारैः दध्यादिभिः सम् अज्यते समक्तः सिक्तो भवति । अपि च सोमो यदा वाचं शब्दम् उत् ईरयति उद्गमयति । शब्दं करोतीत्यर्थः । तदा स्तोतारश्च मती । ‘ सुपां सुलुक्' इति द्वितीयायाः पूर्वसवर्णदीर्घः । स्तुतिं हिन्वते प्रेरयंति । ‘हि गतौ वृद्धौ च' इति स्वादिः आत्मनेपदी । ततः स्तोत्राभिष्टुतः सः पुरुष्टुतस्य बहुस्तोत्रयुक्तस्य स्तोतुः परिप्रियः । ‘ प्रीङ् तर्पणे'। क्विप् । शसि इयङादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । परितः प्रीणयितॄणि कति चित् क्रियंति धनानि प्रयच्छति ॥
+> हरिं हरितवर्णं सोममृत्विजो मृजंति मार्जयंति । ‘मृजेरजादौ संक्रमे विभाषा वृद्धिरिष्यते' (म. १.१.३.१०, का. १.१.५ ) इति तत्र वृद्धेरभावः । सोऽयम् अरुषः । अर्तेरुषच्प्रत्ययः ॥ गमनशीलोऽश्व इव युज्यते इंद्रादिभिः संयुज्यते । किंच कलश द्रोणाभिधाने स्थितः सोमः धेनुभिः गोविकारैः दध्यादिभिः सम् अज्यते समक्तः सिक्तो भवति । अपि च सोमो यदा वाचं शब्दम् उत् ईरयति उद्गमयति । शब्दं करोतीत्यर्थः । तदा स्तोतारश्च मती । ‘ सुपां सुलुक्' इति द्वितीयायाः पूर्वसवर्णदीर्घः । स्तुतिं हिन्वते प्रेरयंति । ‘हि गतौ वृद्धौ च' इति स्वादिः आत्मनेपदी । ततः स्तोत्राभिष्टुतः सः पुरुष्टुतस्य बहुस्तोत्रयुक्तस्य स्तोतुः परिप्रियः । ‘ प्रीङ् तर्पणे'। क्विप् । शसि इयङादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । परितः प्रीणयितॄणि कति चित् क्रियंति धनानि प्रयच्छति ॥
 
 ##### Gist of the bhāṣya
 
@@ -20014,7 +20014,7 @@ The filter of the foe-scorching (Soma) is spread on the summit of heaven ; his s
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> उषसः संबंधी पृश्निः आदित्यः । ‘पृश्निरादित्यो भवति प्राश्नुत एनं वर्णः' (निरु. २.१४ ) इति निरुक्तम्। अग्रियः मुख्यः सोऽयं सोमः अरूरुचत् रोचयति । सः उक्षा जलस्य सेक्ता बिभर्ति पुष्णात्युदकेन भुवनानि भूतजातानि वाजयुः तेषामन्नमिच्छन् । मायाविनः। माया प्रज्ञा । प्रज्ञावंतो देवाः अस्य सोमस्य मायया प्रज्ञया ममिरे निर्मांति । सोमस्यैकैकांशपानेन जातबला अग्न्यादयः स्वस्वव्यापारेण जगत्सृजंतीत्यर्थः । तथास्य मायया नृचक्षसः नॄणां द्रष्टारः पितरः पालका देवा अंगिरसः पितरो वा गर्भमा दधुः धारयंति । ओषधीषु वात्र सूर्यात्मा सोमः स्तूयते सूर्यरश्म्यनुगमाधीनवर्धनाच्चंद्रस्य । अयमुषसः पृश्निः सवितारूरुचत् रोचयति सर्वं रोचते वा । शिष्टं समानम्। तत्संबंधिनो नृचक्षसो नॄणां द्रष्टारः पितरो जगद्रक्षका रश्मयो गर्भमादधुर्वृष्ट्यर्थम् ॥
+> उषसः संबंधी पृश्निः आदित्यः । ‘पृश्निरादित्यो भवति प्राश्नुत एनं वर्णः' (नि. २.१४ ) इति निरुक्तम्। अग्रियः मुख्यः सोऽयं सोमः अरूरुचत् रोचयति । सः उक्षा जलस्य सेक्ता बिभर्ति पुष्णात्युदकेन भुवनानि भूतजातानि वाजयुः तेषामन्नमिच्छन् । मायाविनः। माया प्रज्ञा । प्रज्ञावंतो देवाः अस्य सोमस्य मायया प्रज्ञया ममिरे निर्मांति । सोमस्यैकैकांशपानेन जातबला अग्न्यादयः स्वस्वव्यापारेण जगत्सृजंतीत्यर्थः । तथास्य मायया नृचक्षसः नॄणां द्रष्टारः पितरः पालका देवा अंगिरसः पितरो वा गर्भमा दधुः धारयंति । ओषधीषु वात्र सूर्यात्मा सोमः स्तूयते सूर्यरश्म्यनुगमाधीनवर्धनाच्चंद्रस्य । अयमुषसः पृश्निः सवितारूरुचत् रोचयति सर्वं रोचते वा । शिष्टं समानम्। तत्संबंधिनो नृचक्षसो नॄणां द्रष्टारः पितरो जगद्रक्षका रश्मयो गर्भमादधुर्वृष्ट्यर्थम् ॥
 > अभिष्टवे खरमवेक्षमाणः ‘ गंधर्व इत्था' इत्येतां पठेत् । सूत्रितं च-’ गंधर्व इत्था पदमस्य रक्षतीति खरमवेक्ष्य ' ( आश्व. श्रौ. ४. ७) इति ॥
 
 ##### Gist of the bhāṣya
@@ -23089,11 +23089,11 @@ At the beginning of the day the green-tinted delightful exhilarating (Soma) is r
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> सोममृत्विजः अंजते गोभिः । तथा व्यंजते विविधमंजंति । समंजते सम्यगंजंति । स्तुत्यर्थत्वादपुनरुक्तिः । तथा क्रतुं बलकर्तारं रिहंति लिहंति । आस्वादयंति देवाः । तथा पुनः मधुना गव्येन अभ्यंजते । तमेव सोमं सिंधोः उदकस्य रसस्याधारभूते उच्छ्वासे उच्छ्रिते देशे पतयंतं गच्छंतम् ॥ ‘पत्लृ गतौ ' इत्यस्मात्स्वार्थे णिचि वृद्ध्यभावश्छांदसः ॥ उक्षणं सेक्तारं हिरण्यपावाः हिरण्येन पुनंतः पशुं द्रष्टारम् । ‘पशुः पश्यतेः ' (निरु. ३.१६) इति निरुक्तम् । आसु वसतीवरीषु गृभ्णते गृह्णंति ॥
+> सोममृत्विजः अंजते गोभिः । तथा व्यंजते विविधमंजंति । समंजते सम्यगंजंति । स्तुत्यर्थत्वादपुनरुक्तिः । तथा क्रतुं बलकर्तारं रिहंति लिहंति । आस्वादयंति देवाः । तथा पुनः मधुना गव्येन अभ्यंजते । तमेव सोमं सिंधोः उदकस्य रसस्याधारभूते उच्छ्वासे उच्छ्रिते देशे पतयंतं गच्छंतम् ॥ ‘पत्लृ गतौ ' इत्यस्मात्स्वार्थे णिचि वृद्ध्यभावश्छांदसः ॥ उक्षणं सेक्तारं हिरण्यपावाः हिरण्येन पुनंतः पशुं द्रष्टारम् । ‘पशुः पश्यतेः ' (नि. ३.१६) इति निरुक्तम् । आसु वसतीवरीषु गृभ्णते गृह्णंति ॥
 
 ##### Gist of the bhāṣya
 
-The priests anoint Soma with milk; likewise they anoint him variously, and anoint him well; there is no repetition, since the purpose is praise. Likewise they lick, that is, the gods taste, the maker of strength. Again they anoint him with honey, that is, with what comes from cows. That same Soma goes, falling, in the high place that is the basis of the water, the juice. He is the sprinkler. Those who purify with gold take the seer, the पशुं (*paśuṃ*); the Nirukta says "the paśu from the root paśyati" (Niru. 3.16) **NOTE**. They take him in these waters, the vasatīvarī.
+The priests anoint Soma with milk; likewise they anoint him variously, and anoint him well; there is no repetition, since the purpose is praise. Likewise they lick, that is, the gods taste, the maker of strength. Again they anoint him with honey, that is, with what comes from cows. That same Soma goes, falling, in the high place that is the basis of the water, the juice. He is the sprinkler. Those who purify with gold take the seer, the पशुं (*paśuṃ*); the Nirukta says "the paśu from the root paśyati" (Ni. 3.16) **NOTE**. They take him in these waters, the vasatīvarī.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -25230,7 +25230,7 @@ Demolish the strong dwellings of the Rakshasa ; Indu, when purified put on his s
 > हे विश्ववार विश्वै सर्वैर्वर्णेय हे सोम स तादृशस्त्वं प्रत्नवत् पुराण
 > इव स्थितस्त्वं नव्यसे नवीयसे नवतराय ॥ नवशब्दादीयसुनीकारलोपश्रांदसः ॥
 > तस्यॆ सूक्ताय शोभनस्तुतिकाय मह्यं पथो मार्गान् प्राचः प्राचीनान्
-> कृणुहि । कुरु । सर्वत्र गमनं प्रयच्छेत्यर्थः ॥ कृवि हिंसाकरणयोः । धिन्विकृण्वोरच्चेत्युप्रत्ययः ॥ हे पुरुकृद्बहुकर्मन् हे पुरुषो ॥ टुक्षु शब्दे । मितद्वादिश्वाद्दु प्रत्ययः । पा. ३-२-१४०-१ ॥ बहुविधॆं शब्दायमान हे सोम दुःसहासो
+> कृणुहि । कुरु । सर्वत्र गमनं प्रयच्छेत्यर्थः ॥ कृवि हिंसाकरणयोः । धिन्विकृण्वोरच्चेत्युप्रत्ययः ॥ हे पुरुकृद्बहुकर्मन् हे पुरुषो ॥ टुक्षु शब्दे । मितद्वादिश्वाद्दु प्रत्ययः । पा. सू. ३-२-१४०-१ ॥ बहुविधॆं शब्दायमान हे सोम दुःसहासो
 > रक्षोभिः सोधुमशक्याः अत एव वनुषा । वनतिर्हिंसार्थः । हिंसया युक्ता
 > बृहंतो महांतो ये त्वदीयाः अंताः संति तांस्ते तव स्वभूतानंशान्वयं
 > यष्टेऽत्याम ! प्राप्युयाम ॥
@@ -25846,9 +25846,9 @@ Bhṛgus and Aṅgirases (8-43-13), with Atharvan and Dadhyañc (1-80-16), and w
 
 Indra drank Soma together with Manu, the son of Vivasvant (Vā. 4-1) **NOTE**, or with Manu Sāṃvaraṇi (Vā. 3-1). To obtain the strength needed for fighting with the Asura Vṛtra, Indra drank the soma juice belonging to the Manus, as much as three lakes (5-29-7). A bird brought the soma juice to Manu (4-26-4). In the Taittirīya Saṃhitā and the Śatapatha Brāhmaṇas Manu is described as the patron of religious rites.
 
-Manu is conceived as the son of Vivasvant; he has the name Vaivasvata Manu (4-1; compare 3-1). In the Atharvaveda (A. Ve. 8-10-24) **NOTE**, the Śatapatha Brāhmaṇa (Śa. Brā. 13-4-3-3) and the Purāṇas and the like, the name Vaivasvata has become customary for Manu. Among the children of Vivasvant Yama is one, and he is the first among men. That is, Manu and Yama may be called the two primal progenitors of men. But while Manu is the first among the living, Yama became the first among the dead and the lord of the world of the dead. In the Śatapatha Brāhmaṇa, Vaivasvata Manu is called the king of men and Yama the king of the dead (Śa. Brā. 13-4-3-3 5) **NOTE**. In the Nirukta (Ni. 12-10), Manu is explained as the son of the Āditya called Vivasvant and of the woman called Savarṇā (which may have been used in the place of Saraṇyu) (compare 10-17-2), and he is indicated as one of the deities of the heavenly world (Ni. 5-6) (Ni. 12-34).
+Manu is conceived as the son of Vivasvant; he has the name Vaivasvata Manu (4-1; compare 3-1). In the Atharvaveda (Ath. Saṃ. 8-10-24) **NOTE**, the Śatapatha Brāhmaṇa (Śa. Brā. 13-4-3-3) and the Purāṇas and the like, the name Vaivasvata has become customary for Manu. Among the children of Vivasvant Yama is one, and he is the first among men. That is, Manu and Yama may be called the two primal progenitors of men. But while Manu is the first among the living, Yama became the first among the dead and the lord of the world of the dead. In the Śatapatha Brāhmaṇa, Vaivasvata Manu is called the king of men and Yama the king of the dead (Śa. Brā. 13-4-3-3 5) **NOTE**. In the Nirukta (Ni. 12-10), Manu is explained as the son of the Āditya called Vivasvant and of the woman called Savarṇā (which may have been used in the place of Saraṇyu) (compare 10-17-2), and he is indicated as one of the deities of the heavenly world (Ni. 5-6) (Ni. 12-34).
 
-There is a story in the Śatapatha Brāhmaṇa (Śa. Brā. 1-8-1-1 to 10) that at the time of the deluge, although all other creatures were drowned, Manu alone was saved in a ship by a fish (an incarnation of Viṣṇu). It was then that Manu became the cause of the human race through his daughter named Iḍā (Iḷā), born of oblations. This story of the deluge is found in the Atharvaveda too (A. Ve. 19-39-8).
+There is a story in the Śatapatha Brāhmaṇa (Śa. Brā. 1-8-1-1 to 10) that at the time of the deluge, although all other creatures were drowned, Manu alone was saved in a ship by a fish (an incarnation of Viṣṇu). It was then that Manu became the cause of the human race through his daughter named Iḍā (Iḷā), born of oblations. This story of the deluge is found in the Atharvaveda too (Ath. Saṃ. 19-39-8).
 
 #### Ṛk 6
 
@@ -26821,12 +26821,12 @@ The priests express his green-tinted (juice); he mounts the chariot unyoked by t
 
 > हे देव द्योतमान हे सोम स तादृश इंद्रपान इंद्रेण पातव्यस्त्वं
 > नोऽस्माकं स्वभूते देवताते देवैस्तते वितते यज्ञे महे महते प्सरसे भक्षणायेंद्रस्य पानाय पवस्व । ग्रहादिषु क्षर । किंचाप उदकानि कृण्वन् कुर्वन् उतापि
-> च द्यामिमां द्यावापृथिव्यौ वर्षयन् । भूमिं पर्जन्यरूपेण तर्पयति द्युलोकमग्नि रूपेणेति । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ॥ ऋ. १-१६४-५१ । इति
+> च द्यामिमां द्यावापृथिव्यौ वर्षयन् । भूमिं पर्जन्यरूपेण तर्पयति द्युलोकमग्नि रूपेणेति । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ॥ ऋ. सं. १-१६४-५१ । इति
 > श्रवणात् । उरोर्विस्तीर्णादंतरिक्षादागच्छंस्त्वं पुनानः पूयमानः सन्नोऽस्मान्वरिवस्य । धनादिप्रदानेन परिचरेति ॥
 
 ##### Gist of the bhāṣya
 
-O shining (देव (*deva*)) Soma, such as you are, the drink of Indra (इंद्रपानः (*iṃdrapānaḥ*)), to be drunk by Indra, flow (पवस्व (*pavasva*)), that is, run into the Graha cups and the rest, at our sacrifice (देवताते (*devatāte*)), which is spread out by the gods, for the great (महे (*mahe*)) food (प्सरसे (*psarase*)), that is, for Indra's drinking. Further, making waters (अपः (*apaḥ*)) and also causing rain to fall (वर्षयन् (*varṣayan*)) on this heaven and earth: he gratifies the earth in the form of Parjanya and the heavenly world in the form of Agni, for it is heard भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः (*bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ*) (Ṛ. 1-164-51) **GLOSS**. Coming from the wide (उरोः (*uroḥ*)) firmament, and being purified (पुनानः (*punānaḥ*)), serve us (वरिवस्य (*varivasya*)) by giving wealth and the like.
+O shining (देव (*deva*)) Soma, such as you are, the drink of Indra (इंद्रपानः (*iṃdrapānaḥ*)), to be drunk by Indra, flow (पवस्व (*pavasva*)), that is, run into the Graha cups and the rest, at our sacrifice (देवताते (*devatāte*)), which is spread out by the gods, for the great (महे (*mahe*)) food (प्सरसे (*psarase*)), that is, for Indra's drinking. Further, making waters (अपः (*apaḥ*)) and also causing rain to fall (वर्षयन् (*varṣayan*)) on this heaven and earth: he gratifies the earth in the form of Parjanya and the heavenly world in the form of Agni, for it is heard भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः (*bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ*) (Ṛ. Saṃ. 1-164-51) **GLOSS**. Coming from the wide (उरोः (*uroḥ*)) firmament, and being purified (पुनानः (*punānaḥ*)), serve us (वरिवस्य (*varivasya*)) by giving wealth and the like.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -26927,7 +26927,7 @@ Flow for our immunity from defeat and slaughter, flow for our welfare, for the g
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > सोमोऽभिषूयमाणः पवते । पात्रेषु क्षरति । कीदृशः । मतीनां बुद्धीनां
-> यद्वा मननीयानां स्तुतीनां जनिता जनयिता ॥ जनिता मंत्रे । सा. ६-४-५३ । इति
+> यद्वा मननीयानां स्तुतीनां जनिता जनयिता ॥ जनिता मंत्रे । पा. सू. ६-४-५३ । इति
 > निपातनाण्णिलोपः ॥ किंच दिवो द्युलोकस्य जनिता प्रादुर्भावयिता तथा पृथिव्या
 
 ##### Gist of the bhāṣya
@@ -27321,7 +27321,7 @@ enemies, Soma is called अभिशस्तिपाः (*abhiśastipāḥ*). 
 
 Nirukta authorities have shown the derivations by which the word अद्रि (*adri*) comes to mean the vajra weapon, a demon, a stone, a mountain, a cloud and so on, as follows.
 
-अद्रिरादृणाक्येकेन । अपि वा अत्तेः स्यात् । (*adrirādṛṇākyekena | api vā atteḥ syāt |*) (Si. 4-4) **NOTE**
+अद्रिरादृणाक्येकेन । अपि वा अत्तेः स्यात् । (*adrirādṛṇākyekena | api vā atteḥ syāt |*) (Ni. 4-4) **NOTE**
 
 The word अद्रि (*adri*) is formed either from the root धृ (*dhṛ*) **NOTE**, which gives the sense "split", or from the root अद् (*ad*), which gives the sense "eat". Because it splits mountains and the like, the vajra weapon has that name. In the same way the explanation of the word अद्रि (*adri*) is given in Ṛks such as 1-161-4 as भक्षकः वज्रः (*bhakṣakaḥ vajraḥ*), and it is also explained as अत्तारं, असुरं, भक्षकं पणिं (*attāraṃ, asuraṃ, bhakṣakaṃ paṇiṃ*). In giving this explanation, the Nirukta authorities have quoted the Ṛk
 
@@ -27873,7 +27873,7 @@ Thinking as a rishi, acting as a rishi, gaining heaven, praised by thousands, th
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > चमूषत् । चमंति भक्षयंत्यत्रेति चम्वश्चमसाः । तेषु सीदन् । यद्वा ।
-> चम्वावधिषवणफलके । तयोर्वर्तमानः । श्येनः शंसनीयः शकुनः शक्तः सामर्थ्यकारी विभृत्वा ॥ हरतेरातो मुनिन्नित्यादिना क्वनिप् ॥ पात्रेषु विहरणशीलः गोविंदुर्यजमानानां गनां लंभकः ॥ विंदुरिच्चुः । पा. ३-२-१६९ । इत्युप्रत्ययांतत्वेन
+> चम्वावधिषवणफलके । तयोर्वर्तमानः । श्येनः शंसनीयः शकुनः शक्तः सामर्थ्यकारी विभृत्वा ॥ हरतेरातो मुनिन्नित्यादिना क्वनिप् ॥ पात्रेषु विहरणशीलः गोविंदुर्यजमानानां गनां लंभकः ॥ विंदुरिच्चुः । पा. सू. ३-२-१६९ । इत्युप्रत्ययांतत्वेन
 > निपातितः ॥ द्रप्पो द्रवणशीलः आयुधानि स्प्यकपालादीनि बिभ्रद्धारयन् अपामुदकानामूर्मिं प्रेरकं समुद्रं । अंतरिक्षनामैतत् । अंतरिक्षलोकं सचमानः
 > सेवमानः महिषो महान् य एवंविधः सोमः स सोमस्तुरीयं चतुर्थं धाम
 > चांद्रमसं स्थानं विवक्ति । सेवते । सूर्यलोकस्कोपरि चंद्रमसो लोको
@@ -29003,13 +29003,13 @@ The powerful, flowing Soma having quantities of juice flowing down, streams fort
 
 The Piśācas or bhūtas on earth are the haters of men. The class name that denotes them is रक्षः (*rakṣaḥ*). It occurs more than fifty times in the singular and the plural; generally it comes together with some deity, as a prayer to destroy the Rākṣasa, or as praise that he has been slain. In the sūktas 7-104 and 10-87 they are the very subject. Here words such as रक्षसः (*rakṣasaḥ*), यातु (*yātu*) and यातुधान (*yātudhāna*) point to them. Since रक्षसः (*rakṣasaḥ*) is the name of all evil deities and Piśācas, it may be understood as a class name, and यातु (*yātu*) as a sub-class name.
 
-These Piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In bird form they fly about at night (7-104-18). Taking the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). As a dog or in the form of a monkey, they lie in wait to fall upon women (A. Ve. 4-37 11). **NOTE** Therefore pregnant women and children are troubled by them (Ā. Ve. 8-6). At the time of a wedding it moves about around the bride. They shoot small arrows into the air to pierce the eyes of these beings (Mā. Gṛ. Sū. 1-10). **NOTE** A description of their form and the like is given in the Atharvaveda itself. They take shape especially like men. They are spoken of as having head, eyes, heart and other limbs; but there is always some deformity: three heads, two mouths, four eyes, five feet, no fingers, feet turned backwards, or horns on the hand, and so on (Ā. Ve. 8-6; Hi. Gṛ. Sū. 2-3-7). **NOTE** Blue, yellow or green Piśācas are also mentioned.
+These Piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In bird form they fly about at night (7-104-18). Taking the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). As a dog or in the form of a monkey, they lie in wait to fall upon women (Ath. Saṃ. 4-37 11). **NOTE** Therefore pregnant women and children are troubled by them (Ath. Saṃ. 8-6). At the time of a wedding it moves about around the bride. They shoot small arrows into the air to pierce the eyes of these beings (Mā. Gṛ. Sū. 1-10). **NOTE** A description of their form and the like is given in the Atharvaveda itself. They take shape especially like men. They are spoken of as having head, eyes, heart and other limbs; but there is always some deformity: three heads, two mouths, four eyes, five feet, no fingers, feet turned backwards, or horns on the hand, and so on (Ath. Saṃ. 8-6; Hi. Gṛ. Sū. 2-3-7). **NOTE** Blue, yellow or green Piśācas are also mentioned.
 
 ### Printed p. 772
 
-(A. Ve, 19-22-4, 5). Among them too there are males and females, households and kings (A. Ve 5 22-12; Hi. Gṛ. Sū. 23-7); they too are subject to death (A. Ve. 6-32-2; and so on). The Yātudhānas eat the flesh of men and horses and drink cow's milk (10-86-16, 17). To satisfy their craving for blood and flesh the Rākṣasas attack men; this attack is generally by entering them. There is a prayer to Agni to keep the Rākṣasas from entering the worshippers (8-48-21). A Piśāca presiding over disease, flying about here and there, enters men (Ā. Ve. 7-76-4). These bhūtas and pretas generally enter us through our mouth when we eat or drink (A. Ve. 5-29-6 to 8); they also enter by other doors (A. Ve. 8-6-3). No sooner do they enter than they tear and eat the flesh of the man and cause disease (A. Ve. 5-29-5, 10); they cause madness and destroy the eloquence of speech (6-111-3; Hi. Gṛ. Sū. 1-15-5). **NOTE** They invade the dwellings of men (Kau. Sū. 135-9). Some bhūtas, at evening time, go about dancing around houses and braying like asses, or roam in the forests, or laugh loudly or drink from skulls (A. Ve. 8-6- 10-11-14; Hi. Gṛ. Sū. 2-3-3).
+(A. Ve, 19-22-4, 5). Among them too there are males and females, households and kings (A. Ve 5 22-12; Hi. Gṛ. Sū. 23-7); they too are subject to death (Ath. Saṃ. 6-32-2; and so on). The Yātudhānas eat the flesh of men and horses and drink cow's milk (10-86-16, 17). To satisfy their craving for blood and flesh the Rākṣasas attack men; this attack is generally by entering them. There is a prayer to Agni to keep the Rākṣasas from entering the worshippers (8-48-21). A Piśāca presiding over disease, flying about here and there, enters men (Ath. Saṃ. 7-76-4). These bhūtas and pretas generally enter us through our mouth when we eat or drink (Ath. Saṃ. 5-29-6 to 8); they also enter by other doors (Ath. Saṃ. 8-6-3). No sooner do they enter than they tear and eat the flesh of the man and cause disease (Ath. Saṃ. 5-29-5, 10); they cause madness and destroy the eloquence of speech (6-111-3; Hi. Gṛ. Sū. 1-15-5). **NOTE** They invade the dwellings of men (Kau. Sū. 135-9). Some bhūtas, at evening time, go about dancing around houses and braying like asses, or roam in the forests, or laugh loudly or drink from skulls (Ath. Saṃ. 8-6- 10-11-14; Hi. Gṛ. Sū. 2-3-3).
 
-Their time of roaming is night or evening (7-104-8). In the east their play does not go on at all; the sun rising there drives them away (Tai. Saṃ. 2-6-6-3). A falling meteor is believed to be a form of a bhūta (Kau. Sū. 129-9). As the darkness of the new-moon night is suitable for the roaming of the pretas, so it is equally favourable to the bhūtas (A. Ve. 1-16-1; 4-36-3). Nothing endangers sacrifices as these do. In sacrifices meant for the gods the Piśācas cause defects and omissions, and the Yātus scatter the offered oblations about (7-104-18, 21). They cannot bear to see praise (10-182-3). There is a prayer to Agni to burn up the bhūtas and the like so that the sacrifice may not be harmed (1-76-3). There is a mantra that, by the sorcery of the Yātudhānas and the groups of rakṣas, makes an enemy's sacrifice fail to prosper (A. Ve. 7-70-2). They come as an obstacle, in the form of pretas, to the food and water offered to the dead (A. Ve. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is common that these groups of rakṣas (called Rākṣasas) trouble yogis. Agni, who removes darkness and is the master of the sacrifice, is their sworn enemy. Agni himself is prayed to burn them, drive them off or destroy them (10-87-3-6 and so on). It is from this work that Agni and some other deities have the name रक्षोहा (*rakṣohā*).
+Their time of roaming is night or evening (7-104-8). In the east their play does not go on at all; the sun rising there drives them away (Tai. Saṃ. 2-6-6-3). A falling meteor is believed to be a form of a bhūta (Kau. Sū. 129-9). As the darkness of the new-moon night is suitable for the roaming of the pretas, so it is equally favourable to the bhūtas (Ath. Saṃ. 1-16-1; 4-36-3). Nothing endangers sacrifices as these do. In sacrifices meant for the gods the Piśācas cause defects and omissions, and the Yātus scatter the offered oblations about (7-104-18, 21). They cannot bear to see praise (10-182-3). There is a prayer to Agni to burn up the bhūtas and the like so that the sacrifice may not be harmed (1-76-3). There is a mantra that, by the sorcery of the Yātudhānas and the groups of rakṣas, makes an enemy's sacrifice fail to prosper (Ath. Saṃ. 7-70-2). They come as an obstacle, in the form of pretas, to the food and water offered to the dead (Ath. Saṃ. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is common that these groups of rakṣas (called Rākṣasas) trouble yogis. Agni, who removes darkness and is the master of the sacrifice, is their sworn enemy. Agni himself is prayed to burn them, drive them off or destroy them (10-87-3-6 and so on). It is from this work that Agni and some other deities have the name रक्षोहा (*rakṣohā*).
 
 ### Printed p. 773
 
@@ -29260,7 +29260,7 @@ Pleasant to the taste, dripping with milk, you flow pouring forth the sweet-flav
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे सोम मदिरो मदकरस्त्वमुदग्राभस्य ॥ क्रियाग्रहणं कर्तव्यमिति
-> कर्मणः संप्रदानसंज्ञा । पा. १-४-३२-१ । चतुर्थ्यर्थे बहुलं । पा. २-३-६२ । इति
+> कर्मणः संप्रदानसंज्ञा । पा. सू. १-४-३२-१ । चतुर्थ्यर्थे बहुलं । पा. सू. २-३-६२ । इति
 > षष्ठी ॥ उदग्राभमुदकग्राहिणं मेघं वधस्नैर्हननसाधनैरायुध्यॆर्नमयन्
 > वृष्यर्थं प्रह्वीकुर्वन् मदाय मदार्थमेव पवस्व । एवं पात्रेषु क्षर । किंच
 > रुशंतमारोचमानं श्वेतं वर्णं परि भरमाणः परितो बिभ्रत् सिक्तः पवित्रे
@@ -29695,7 +29695,7 @@ went and brought them to the earth. In the sacrifice the officiating priests cru
 
 > वेनतः । वेनो वेनतेः कांतिकर्मण इति यास्कः । नि. १०-३८ । कामयमानस्य मनसः । मन्यतेः स्तुतिकर्मणः । स्तोतुर्वाक् स्तुतिलक्षणा यद्येनं तक्षत्
 > संस्करोति । वाशब्द उपमार्थे । यथा धर्मणि ॥ निमित्तात्कर्मसंयोगे ।
-> पा. २-३-३६-६ । इति सप्तमी ॥ धारकं योगक्षेमविषयं कर्मोद्दिश्य क्षोः
+> पा. सू. २-३-३६-६ । इति सप्तमी ॥ धारकं योगक्षेमविषयं कर्मोद्दिश्य क्षोः
 > शब्दायमानस्यानीके मुखे तत्र स्थितस्य जानपदिकस्य वाग्जेष्ठस्य । द्वितीयार्थे
 > षष्ट् । प्रशस्यतमं राजानं यथा स्तौति तथा स्तोतुर्वाक् सोमं स्तौतीत्यर्थः ।
 > आदनंतरमेव वरं वरणेयं जुष्टं देवानां मदाय पर्याप्तं पतिं सर्वस्य
@@ -29757,7 +29757,7 @@ As the bards praise with their words of praise the king who is the leader of the
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > दिव्यो दिवि भवो दानुदो दातृभ्यो धनादीनां दाता। तदेवाह! दानुपिन्वः॥
-> पिवि सेचने । कर्मण्यण् । पा. ३-२-१ । इत्यण् ॥ दातृभ्यः कामानां क्षारयिता
+> पिवि सेचने । कर्मण्यण् । पा. सू. ३-२-१ । इत्यण् ॥ दातृभ्यः कामानां क्षारयिता
 > सुमेधाः शोभनप्रज्ञः सोम ऋताय सत्यभूतायेंद्रायर्तं सत्यभूतमात्मीयं रसं पवते । प्रकर्षेण क्षरति । राजा दीप्यमानः सोमो वृजन्यस्य साधुबलस्य धर्मा धारयिता भुवत् । भवति । किंच दशभिरेतत्संख्याकाभी रश्मिभिः कर्मकरणार्थमश्नुवानाभिरंगुलिभिर्भूम प्रभूतं प्र भारि । प्रधार्यते ॥ चिणि रूपं ॥
 
 ##### Gist of the bhāṣya
@@ -29991,7 +29991,7 @@ May the Soma juices which are gratifying to the gods when poured around (into th
 
 The word सुमति (*sumati*) is, by Yāska,
 
-धाता ददातु दाशुषे प्राचीं जीनातुमक्षितां । वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ॥ (*dhātā dadātu dāśuṣe prācīṃ jīnātumakṣitāṃ | vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ ‖*) (Atha. Saṃ. 7-2-2) **GLOSS**
+धाता ददातु दाशुषे प्राचीं जीनातुमक्षितां । वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ॥ (*dhātā dadātu dāśuṣe prācīṃ jīnātumakṣitāṃ | vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ ‖*) (Ath. Saṃ. 7-2-2) **GLOSS**
 
 In this quoted Ṛk and in still other places, Sāyaṇa has explained that the word सुमति (*sumati*) conveys the meaning "auspicious understanding". But the word सुमति (*sumati*) is used not only for the divine, gracious understanding, but also in the sense of a prayer made by man, or the excellent desire of man. For example,
 
@@ -30840,11 +30840,11 @@ Some poets call this great root nature, and others call it time. Even so, it is 
 
 This Self is the lord of all beings. As the spokes are all contained in the nave and the rim of a chariot wheel and have fixed positions, so all beings are contained in this Self and subject to his control. All beings, all gods, all worlds, all breaths, everything is subject to the control of this Self and dependent on him; thus a likeness is stated between this Self of the world and a chariot wheel. In the same way, in the Muṇḍaka Upaniṣad and in the Praśna Upaniṣad also.
 
-अरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽंतश्चरते बहुधा जायमानः । (*arā iva rathanābhau saṃhatā yatra nāḍyaḥ sa eṣo 'ṃtaścarate bahudhā jāyamānaḥ |*) (Mu. 2-2-6)
+अरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽंतश्चरते बहुधा जायमानः । (*arā iva rathanābhau saṃhatā yatra nāḍyaḥ sa eṣo 'ṃtaścarate bahudhā jāyamānaḥ |*) (Mu. U. 2-2-6)
 
-अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । ऋचो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ (*arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | ṛco yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ‖*) (Praśna. 2-6)
+अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । ऋचो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ (*arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | ṛco yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ‖*) (Pra. U. 2-6)
 
-अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद.यथा मा वो मृत्युः परिव्यथा इति ॥ (*arā iva rathanābhau kalā yasminpratiṣṭhitāḥ | taṃ vedyaṃ puruṣaṃ veda.yathā mā vo mṛtyuḥ parivyathā iti ‖*) (Praśna. 6-6)
+अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद.यथा मा वो मृत्युः परिव्यथा इति ॥ (*arā iva rathanābhau kalā yasminpratiṣṭhitāḥ | taṃ vedyaṃ puruṣaṃ veda.yathā mā vo mṛtyuḥ parivyathā iti ‖*) (Pra. U. 6-6)
 
 ### Printed p. 827
 
@@ -32066,7 +32066,7 @@ Sūkta 98. Maṇḍala 9. Anuvāka 6. Sūkta 98. Aṣṭaka 6 **NOTE**. Adhyāya
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हे इंदो दीप्त वाजसातमम् अत्यंतं बलप्रदमन्नप्रदं वा रयिं धनं पुत्रं वा नः अस्माकम् अभि ‘अर्ष अभिगमय । कीदृशम् । पुरुस्पृहं बहुभिः स्पृहणीयं सहस्रभर्णसं बहुविधभरणम् । अनेकपोषणयुक्तमित्यर्थः। तुविद्युम्नम् । ‘द्युम्नं द्योततेर्यशो वान्नं वा ' (निरु. ५.५) इति यास्कः । बह्वन्नं बहुयशोयुक्तं वा विभ्वसहम् । विभ्व इति महन्नाम । महतोऽभिभवितारम् ॥
+> हे इंदो दीप्त वाजसातमम् अत्यंतं बलप्रदमन्नप्रदं वा रयिं धनं पुत्रं वा नः अस्माकम् अभि ‘अर्ष अभिगमय । कीदृशम् । पुरुस्पृहं बहुभिः स्पृहणीयं सहस्रभर्णसं बहुविधभरणम् । अनेकपोषणयुक्तमित्यर्थः। तुविद्युम्नम् । ‘द्युम्नं द्योततेर्यशो वान्नं वा ' (नि. ५.५) इति यास्कः । बह्वन्नं बहुयशोयुक्तं वा विभ्वसहम् । विभ्व इति महन्नाम । महतोऽभिभवितारम् ॥
 
 ##### Gist of the bhāṣya
 
