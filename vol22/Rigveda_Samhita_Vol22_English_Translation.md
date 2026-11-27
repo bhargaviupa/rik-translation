@@ -13918,6 +13918,243 @@ One night the sage Vasiṣṭha, walking in his sleep (in the state of sleep its
 (Anu. Bhā. 2-55)
 Once upon a time Vasiṣṭha, having got no food for three days, weary and spent with fasting and thirst, resolved on the night of the fourth day to go to the house of his father Varuṇa and eat food, even by stealing, and entered Varuṇa's house. Then the dog that lay near the cowshed came at him to bite; Vasiṣṭha, afraid, pacified that dog with the seven Ṛks of this sūkta beginning यदर्जुन सारमेय (*yadarjuna sārameya*) (Ṛks 2-8), made it sleep, recited those Ṛks and also became the seer who beheld them as mantras. So it is said in the Anuśāsana Parva of the Mahābhārata.**NOTE**
 
+### Printed p. 325
+Maṇḍala 7; Anuvāka 3; Sūkta 55. Aṣṭaka 5; Adhyāya 4; Varga 22. Number of Ṛks in the sūkta: 8.
+Ṛṣi: Vasiṣṭha. Deity: 1. Vāstoṣpati; 2–8 Indra. Metre: 1. Gāyatrī; 2–4 Upariṣṭādbṛhatī; 5–8 Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒मी॒व॒हा वा॑स्तोष्पते॒ विश्वा॑ रू॒पाण्या॑वि॒शन् ।  
+> सखा॑ सु॒शेव॑ एधि नः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमीवऽहा । वास्तोः । पते । विश्वा । रूपाणि । आऽविशन् ।  
+> सखा । सुऽशेवः । एधि । नः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वास्तोष्पते गृहस्य पालकैतत्संज्ञक देव अमीवहामीवानां रोगाणां नाशकस्त्वं विश्वा विश्वानि बहूनि रूपाण्याविशन् प्रविशन् । यद्यद्रूपं कामयंते तत्तद्देवा विशंति । नि. १०-१७ । इति यास्कः । नोस्माकं सखा मित्रभूतः सुशेवः सुष्ठु सुखकर एधि । भव ॥
+
+##### Gist of the bhāṣya
+
+O Vāstoṣpati, god bearing this name, protector of the house, you are the destroyer of *amīvānāṃ*, that is, of diseases. You enter all (many) forms: Yāska says (Ni. 10-17) that the gods enter whatever form they desire. Be to us a friend, one who gives good happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वास्तोष्पते (*vāstoṣpate*)—O Vāstoṣpati, god
+- अमीवहा (*amīvahā*)—you, destroyer of disease
+- विश्वा (*viśvā*)—of many kinds
+- रूपाणि (*rūpāṇi*)—forms
+- आविशन् (*āviśan*)—assuming
+- नः (*naḥ*)—to us
+- सखा (*sakhā*)—a friend
+- सुशेवः (*suśevaḥ*)—a giver of happiness
+- एधि (*edhi*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāstoṣpati, destroyer of disease, assuming forms of many kinds, be to us a friend and a giver of happiness.
+
+##### English translation
+Protector of the dwelling, remover of disease, assuming all (kinds of) forms, be to us a friend the granter of happiness.
+
+### Printed p. 326
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the derivation of the word Vāstoṣpati, Yāska has given a Nirukta on this Ṛk.
+वास्तोष्पतिः । वास्तु वसतेर्निवासकर्मणस्तस्य पाता वा पालयिता वा ॥ तस्यैषा भवति ॥ अमीवहा वास्तोष्पते विश्वा रूपाण्याविशन् । सखा सुशेव एधि नः ॥ अभ्यमीवहा वास्तोष्पते सर्वाणि रूपाण्याविशन् सखा नः सुशेवो भव । शेव इति सुखनाम शिष्यतेर्वकारो नामकरणोन्तस्थान्तरोपलिंगी । विभाषितगुणः शिवमित्यप्यस्य भवति । यद्रूपं कामयते तत्तद्देवता भवति । रूपं रूपं मघवा बोभवीति इत्यपि निगमो भवति ॥ (*vāstoṣpatiḥ | vāstu vasaternivāsakarmaṇastasya pātā vā pālayitā vā ‖ tasyaiṣā bhavati ‖ amīvahā vāstoṣpate viśvā rūpāṇyāviśan | sakhā suśeva edhi naḥ ‖ abhyamīvahā vāstoṣpate sarvāṇi rūpāṇyāviśan sakhā naḥ suśevo bhava | śeva iti sukhanāma śiṣyatervakāro nāmakaraṇontasthāntaropaliṃgī | vibhāṣitaguṇaḥ śivamityapyasya bhavati | yadrūpaṃ kāmayate tattaddevatā bhavati | rūpaṃ rūpaṃ maghavā bobhavīti ityapi nigamo bhavati ‖*) (Ni. 10-17)
+The word वास्तु (*vāstu*) is derived from the root वस् (*vas*) (to dwell) and means a house to live in. पतिः (*patiḥ*) means lord or protector. Hence Vāstoṣpati means the lord of the dwelling house, or its protector. To explain the use of this word, they have taken the present Ṛk as the example and given its meaning.
+O lord of the house, you are the destroyer of diseases. You are able to assume many forms. Be to us always a pleasing, that is, beneficial, friend: this is the meaning of the mantra. The word शेवः (*śevaḥ*) means happiness. This word arises when the affix व (*va*) is added to the root शिष् (*śiṣ*), giving शिव (*śiva*), then guṇa comes to the शि (*śi*) and it becomes शे (*śe*); that is, the form शेव (*śeva*) is established. The word शिव (*śiva*) too is derived from the same root.
+Who is this Vāstoṣpati? Some say that since this god has the power to cure diseases and ailments, Vāstoṣpati is Rudra. The gods can assume whatever forms they wish. In this matter the Vedic text रूपंरूपं मघवा बोभवीति (*rūpaṃrūpaṃ maghavā bobhavīti*) is the example.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑र्जुन सारमेय द॒तः पि॑शंग॒ यच्छ॑से ।  
+> वी॑व भ्राजंत ऋ॒ष्टय॒ उप॒ स्रक्वे॑षु॒ बप्स॑तो॒ नि षु स्व॑प ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अर्जुन । सारमेय । दतः । पिशंग । यच्छसे ।  
+> विऽइव । भ्राजंते । ऋष्टयः । उप । स्रक्वेषु । बप्सतः । नि । सु । स्वप ॥ २ ॥
+
+### Printed p. 327
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अर्जुन श्वेत हे सारमेय । सरमा नाम देवशुनी । तस्याः कुलोद्भव हे पिशंग केषुचिदंगेषु पिंगलवर्णैवंभूत हे शुनक त्वं दतो दंतान्यद्यदा यच्छसे विवृणोषि । अस्मान्दष्टुमित्यर्थः । तदानीं वीव भ्राजंते ऋष्टयो यथायुधानि विशेषेण भासंते तथोपास्मत्समीपे बप्सतो भक्षयतस्तव दंताः स्रक्वेषु स्रक्वासु भासंते । स्रक्वाशब्द ओष्ठप्रदेशविशेषवाचीत्यर्थः । तथाभूतस्त्वमिदानीं सुष्ठु नि स्वप । नितरां निद्रां कुरु ॥
+
+##### Gist of the bhāṣya
+
+O white one, O Sārameya: Saramā is the name of the divine bitch, and you are born of her line. O tawny one (reddish-brown in some limbs), O dog: when you bare your teeth to bite us, then, as lances shine brilliantly, so near us your teeth, as you snap, shine in the स्रक्वेषु (*srakveṣu*); the word स्रक्वा (*srakvā*) denotes a particular part of the lips. Being such, now sleep well; sleep deeply.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्जुन (*arjuna*)—O white-coloured one
+- पिशंग (*piśaṃga*)—and golden-hued in some limbs
+- सारमेय (*sārameya*)—O Sārameya, son of Saramā
+- यत् (*yat*)—when
+- दतः (*dataḥ*)—teeth
+- यच्छसे (*yacchase*)—you open and show, then
+- वि भ्राजंते (*vi bhrājaṃte*)—shine brilliantly
+- ऋष्टय इव (*ṛṣṭaya iva*)—like weapons
+- उप बप्सतः (*upa bapsataḥ*)—the teeth brought near me, the mouth opened to bite
+- स्रक्वेषु (*srakveṣu*)—shine along with their gums. (Even so)
+- सु (*su*)—exceedingly
+- नि स्वप (*ni svapa*)—close your mouth and sleep
+
+##### भावार्थ (Bhāvārtha)
+
+O white one, tawny in some limbs, son of Saramā, O Sārameya (dog): when you open your mouth to bite me and bare your teeth wide, those teeth of yours, together with the gum regions, shine like brilliantly gleaming weapons. Even so, sleep without a sound.
+
+##### English translation
+White offspring of Sarama, with tawny limbs, although barking you display your teeth against me, bristling like lances in your gums, nevertheless, go quietly to sleep,
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Vasiṣṭha addresses as Sārameya the dog at the door of Varuṇa's house. Saramā is the divine bitch, that is, the female dog of the world of the gods. Because he is that dog's pup, he is called Sārameya. In the 108th sūkta of the tenth maṇḍala it is described how Saramā, at Indra's command, sought out the asuras called Paṇis who had stolen the cows of the gods and hidden them in a cave, conversed with them, told them the power of the gods, and so helped to bring back the stolen cows. We shall explain this matter of Saramā at length elsewhere.
+
+### Printed p. 328
+There is an earlier story about the dog described in the present Ṛk, told in the Bṛhaddevatā:
+वरुणस्य गृहान्रात्रौ वसिष्ठः स्वप्न आचरत् । प्रविवेशाथ तं तत्र श्वा नदन्नभ्यधावत ॥ क्रंदंतं सारमेयं स धावंतं दष्टुमुद्यतं । यदर्जुनेति च द्वाभ्यां सांत्वयित्वा व्यसुषुपत् । स तं प्रस्वापयामास जनमन्यं च वारुणं ॥ (*varuṇasya gṛhānrātrau vasiṣṭhaḥ svapna ācarat | praviveśātha taṃ tatra śvā nadannabhyadhāvata ‖ kraṃdaṃtaṃ sārameyaṃ sa dhāvaṃtaṃ daṣṭumudyataṃ | yadarjuneti ca dvābhyāṃ sāṃtvayitvā vyasuṣupat | sa taṃ prasvāpayāmāsa janamanyaṃ ca vāruṇaṃ ‖*) (Bṛ. De. 6-13)
+One night, walking in a dream, that is, asleep and without awareness, he entered the house of his father Varuṇa. At that time a dog lying there ran after him barking to bite him. To pacify it, with the Ṛks 2–8 of the present sūkta beginning यदर्जुन (*yadarjuna*) he calmed the dog and made it, and the people of Varuṇa's household lying there, fall asleep. So runs the story. The matter of calming this dog and the servants and others and making them sleep is what this sūkta describes.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्ते॒नं रा॑य सारमेय॒ तस्क॑रं वा पुनःसर ।  
+> स्तो॒तॄनिंद्र॑स्य रायसि॒ किम॒स्मान्दु॑च्छुनायसे॒ नि षु स्व॑प ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तेनं । राय । सारमेय । तस्करं । वा । पुनःऽसर ।  
+> स्तोतॄन् । इंद्रस्य । रायसि । किं । अस्मान् । दुच्छुनऽयसे । नि । सु । स्वप ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुनःसर । गतमेव देशं पुनः सरतीति पुनःसरः । तादृग्भूत हे सारमेय त्वं स्तेनं । प्रच्छन्नधनापहारी स्तेनः । तं तस्करं । प्रत्यक्षधनापहारी तस्करः । तं वा राय । गच्छ । इंद्रस्य स्तोतॄनस्मान् किं रायसि । गच्छसि । अस्मान्दुच्छुनायसे । किं बाधसे । नि षु स्वप । अत्यंतं निद्रां कुरु ॥
+
+##### Gist of the bhāṣya
+
+O पुनःसर (*punaḥsara*), one who goes again to a place already gone to, O Sārameya: go after the स्तेन (*stena*), the one who steals wealth secretly, or the तस्कर (*taskara*), the one who takes wealth openly. Why do you go after us, the praisers of Indra? Why do you trouble us? Sleep soundly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनःसर (*punaḥsara*)—you who come chasing again and again
+- सारमेय (*sārameya*)—O Sārameya
+- स्तेनं (*stenaṃ*)—the one who steals
+- तस्करं वा (*taskaraṃ vā*)—only the thief
+- राय (*rāya*)—chase after
+- इंद्रस्य (*iṃdrasya*)—
+
+### Printed p. 329
+- (इंद्रस्य (*iṃdrasya*) continued) of Indra
+- स्तोतॄन् (*stotṝn*)—us, the praisers
+- किं रायुसि (*kiṃ rāyusi*)—why do you come chasing?
+- अस्मान् (*asmān*)—us
+- दुच्छुनायसे (*ducchunāyase*)—why do you trouble?
+- नि सु स्वप (*ni su svapa*)—sleep without a sound
+
+##### भावार्थ (Bhāvārtha)
+
+O Sārameya, who come chasing again and again, chase only the thief who steals wealth. Why do you come chasing us, the praisers of Indra? Why do you harass us? Sleep without a sound.
+
+##### English translation
+Offspring of Sarama, returning (to the charge), attack the pilferer or the thief : why do you assail the worshippers of Indra? why do you intimidate us? go quietly to sleep.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सू॑क॒रस्य॑ दर्दृहि॒ तव॑ दर्दर्तु सूक॒रः ।  
+> स्तो॒तॄनिंद्र॑स्य रायुसि॒ किम॒स्मान्दु॑च्छुनायसे॒ नि षु स्व॑प ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । सूकरस्य । दर्दृहि । तव । दर्दर्तु । सूकरः ।  
+> स्तोतॄन् । इंद्रस्य । रायसि । किं । अस्मान् । दुच्छुनऽयसे । नि । सु । स्वप ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सारमेयि त्वं सूकरस्य वराहस्य ॥ द्वितीयार्थे षष्ठी ॥ दर्दृहि । विदारय । सूकरोऽपि तव दर्दर्तु । विदारयतु । युवयोर्नित्यवैरित्वात् । अस्मान्मा दशेत्यर्थः ॥ स्तोतॄनित्यर्धर्चः पूर्वस्यामृचि व्याख्यातः ॥
+
+##### Gist of the bhāṣya
+
+O Sārameyī, tear the सूकर (*sūkara*), the boar (the genitive stands in the sense of the accusative). Let the boar too tear you, since you two are constant enemies; the meaning is: do not bite us. The half-verse स्तोतॄन् (*stotṝn*) was explained in the previous Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Sārameyī) त्वं (*tvaṃ*)—you
+- सूकरस्य (*sūkarasya*)—the pig
+- दर्दृहि (*dardṛhi*)—bite
+- सूकरः (*sūkaraḥ*)—let the boar
+- तव (*tava*)—you
+- दर्दर्तु (*dardartu*)—bite
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- स्तोतॄन् (*stotṝn*)—us, the praisers
+- किं रायसि (*kiṃ rāyasi*)—why do you come chasing?
+- अस्मान् (*asmān*)—us
+- (किं (*kiṃ*)) दुच्छुनयसे (*ducchunayase*)—why do you harass?
+- नि सु स्वप (*ni su svapa*)—sleep without a sound
+
+##### भावार्थ (Bhāvārtha)
+
+O Sārameyī, bite the pig. Let the pig bite you. Let the quarrel be only between yourselves. Why do you come chasing us, the praisers of Indra? Why do you harass us? Sleep without a sound.
+
+### Printed p. 330
+
+##### English translation
+Do you rend the hog : let the hog rend you : why do you assail the worshippers of Indra ? why do you intimidate us ? go quietly to sleep.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सस्तु॑ मा॒ता सस्तु॑ पि॒ता सस्तु॒ श्वा सस्तु॑ वि॒श्पतिः॑ ।  
+> स॒संतु॒ सर्वे॑ ज्ञा॒तयः॒ सस्त्व॒यम॒भितो॒ जनः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सस्तु । माता । सस्तु । पिता । सस्तु । श्वा । सस्तु । विश्पतिः ।  
+> ससंतु । सर्वे । ज्ञातयः । सस्तु । अयं । अभितः । जनः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सारमेय माता त्वदीया जननी सस्तु । स्वपतु । पिता च सस्तु । श्वा सार-मेयो भवान् सस्तु । विश्पतिर्जामाता यद्वा विशां जनानां पालको गृही सस्तु । सर्वे ज्ञातयो बंधवोऽपि ससंतु । स्वपंतु । अभितः परितः स्थितोऽयमपि सर्वो जनः सस्तु । स्वपतु ॥
+
+##### Gist of the bhāṣya
+
+O Sārameya, let your mother sleep, and your father. Let you, the dog, sleep. Let the विश्पति (*viśpati*), the son-in-law, or else the householder who protects the people (विशां (*viśāṃ*)), sleep. Let all kinsmen sleep. Let all these people standing round about sleep.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Sārameya,) माता (*mātā*)—your mother
+- सस्तु (*sastu*)—let her lie down and sleep
+- पिता (*pitā*)—your father too
+- सस्तु (*sastu*)—let him sleep
+- श्वा (*śvā*)—you, son of Saramā
+- सस्तु (*sastu*)—sleep
+- विश्पतिः (*viśpatiḥ*)—the master, protector of the people of the house
+- सस्तु (*sastu*)—let him sleep
+- सर्वे ज्ञातयः (*sarve jñātayaḥ*)—all kinsfolk
+- ससंतु (*sasaṃtu*)—let them sleep
+- अभितः (*abhitaḥ*)—standing around
+- अयं जनः (*ayaṃ janaḥ*)—all these household people
+- सस्तु (*sastu*)—let them sleep
+
+##### भावार्थ (Bhāvārtha)
+
+O Sārameya, let your mother lie down and sleep. Let your father also sleep. You, son of Saramā, sleep. Let the master, protector of the people of the house, sleep. Let all the kinsfolk sleep. Let all these household people around sleep.
+
+##### English translation
+Let the mother sleep, let the father sleep, let the dog sleep, let the lord of the house sleep, let all the kindred sleep, let the people (who are stationed) around sleep.
+
 ---
 
-**Progress note:** Done through printed p. 324. pp. 319-324 (batch API)
+**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
