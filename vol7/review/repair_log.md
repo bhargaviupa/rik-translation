@@ -354,3 +354,164 @@
 | page | old → new | why |
 |---|---|---|
 | 203 | `(Pā. Sū. 6-3-88) no ` → `(Pā. Sū. 7-3-88) no ` | SECOND-PASS Q1: Kannada p.203 has 7-3-88 (भूसुवोस्तिङि) |
+
+### 2026-11-27 second pass, batch m123-272.tsv
+| page | old → new | why |
+|---|---|---|
+| 215 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 215.` → `Va. 12"; centre: "Ṛgvedasaṃhitā"; right: 215.` | SECOND-PASS Q1: running head of Kannada p.215 reads ವ. 12 (Varga 12) |
+| 216 | `(as printed; numerals [?])` → `(as printed)` | SECOND-PASS Q2: the numeral of the note (Ā. 5-20) is the same in the Kannada p.216; clause dropped |
+| 216 | `१३ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 13 [?]*` → `१३ — *Aṣṭaka 1 · Adhyāya 6 · Varga 13*` | SECOND-PASS Q2: Kannada p.216 prints ವರ್ಗ—೧೩ for sūkta 87; Devanagari line and its IAST twin settled together |
+| 217 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 217.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 217.` | SECOND-PASS Q2: running head of Kannada p.217 reads ವ. 13 (Varga 13) |
+| 217 | `abhyāsasyātvam [?] |` → `abhyāsasyātvam |` | SECOND-PASS Q2: Kannada p.217 has the same words (āta aderityabhyāsasyātvaṃ; a/ā only) |
+| 219 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 219.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 219.` | SECOND-PASS Q2: running head of Kannada p.219 reads ವ. 13 (Varga 13) |
+| 219 | `tenarjīṣī somaḥ ‖* (Ni. [?] [?]) — **GLOSS**` → `tenarjīṣī somaḥ ‖* — **GLOSS**` | SECOND-PASS S3: Kannada p.219 has the quotation ... tenarjiṣī somaḥ with no reference number after it |
+| 220 | `7.1)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `7.1)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: only numeral of the section (Uṇ. Sū. 4-666) is the same on Kannada p.220 |
+| 222 | `ratheṣv āsaktā [?] meghāḥ` → `ratheṣv āsaktā meghāḥ` | SECOND-PASS Q2: Kannada p.222 reads ratheṣvāsaktā meghāḥ |
+| 222 | `(Pā. Sū. 3-2-171 [?])` → `(Pā. Sū. 3-2-171)` | SECOND-PASS Q2: Kannada p.224 gives Pā. Sū. 3-2-171 for yayim (āṅgamahanajana…), same word |
+| 223 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 223.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 223.` | SECOND-PASS Q2: running head of Kannada p.223 reads ವ. 13 (Varga 13) |
+| 223 | ` *(printed Sanskrit of Skandasvāmin in the text, partly clotted [?])*` → `` | SECOND-PASS Q2: Kannada p.223 has the Skandasvāmin Sanskrit clear (upahvareṣu gahvareṣu parvatapradeśeṣu antarikṣapradeśeṣu) |
+| 224 | `*yatra pradeśe yuṣmadīyā rathā vayaṃ tiṣṭhanti* [as read] *tatra rathacakradhārābhir vidya` → `*yatra pradeśe yuṣmadīyā rathā vyavatiṣṭhante tatra rathacakradhārābhiḥ vidyamānā meghāḥ p` | SECOND-PASS Q1: Kannada p.224 reads yatra pradeśe yuṣmadīyā rathā vyavatiṣṭhante tatra rathacakradhārābhiḥ vidyamānā meghāḥ prakṣarantīty arthaḥ (IAST made by sp_sanskrit.py) |
+| 224 | ` *(The Skandasvāmin Sanskrit is clotted in the print and read with doubt [?].)*` → `` | SECOND-PASS Q2: quotation now follows the Kannada p.224 reading; doubt remark dropped |
+| 224 | `7.2)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `7.2)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 3-3-118, 3-2-171 and Ni. 2-21, 2-24 of the section are all on Kannada p.224 in the same places (brackets of 118 and 171 removed) |
+| 224 | `(Pā. Sū. 3-3-[118]` → `(Pā. Sū. 3-3-118` | SECOND-PASS Q2: Kannada pp.223-226 has the same sūtra number in the same place; brackets of the older reading removed |
+| 224 | `" (Pā. Sū. 3-2-[171]) the affix *kin*; s` → `" (Pā. Sū. 3-2-171) the affix *kin*; s` | SECOND-PASS Q2: Kannada pp.223-226 has the same sūtra number in the same place; brackets of the older reading removed |
+| 225 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 225.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 225.` | SECOND-PASS Q2: running head of Kannada p.225 reads ವ. 13 (Varga 13) |
+| 227 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 227.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 227.` | SECOND-PASS Q2: running head of Kannada p.227 reads ವ. 13 (Varga 13) |
+| 228 | `7.3)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `7.3)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: all numerals of the section are now those of Kannada pp.228-229 (Uṇ. 1-137, Pā. 2-4-56, 6-1-203, Kā. 2-4-56, Ni. 2-21, 3-21); brackets removed |
+| 228 | `(Uṇ. Sū. 1-127)` → `(Uṇ. Sū. 1-137)` | SECOND-PASS Q1: Kannada p.228 reads ಉ. ಸೂ. 1-137 for arti-stu-su… man |
+| 228 | `(Pā. Sū. 2-4-[56]` → `(Pā. Sū. 2-4-56` | SECOND-PASS Q2: Kannada pp.227-230 has the same sūtra number in the same place; brackets of the older reading removed |
+| 228 | `(Ni. 2-4-562, Yāska` → `(Ni. 3-21, Yāska` | SECOND-PASS Q1: Kannada p.228 reads (ನಿರು. 3-21) for bhyasate rejate iti bhayavepanayoḥ |
+| 228 | `" (Pā. Sū. 6-1-[203]) a` → `" (Pā. Sū. 6-1-203) a` | SECOND-PASS Q2: Kannada pp.227-230 has the same sūtra number in the same place; brackets of the older reading removed |
+| 229 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 229.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 229.` | SECOND-PASS Q2: running head of Kannada p.229 reads ವ. 13 (Varga 13) |
+| 231 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 231.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 231.` | SECOND-PASS Q2: running head of Kannada p.231 reads ವ. 13 (Varga 13) |
+| 232 | `7.4)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `7.4)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: numerals of the section settled from Kannada pp.232-233: 3-1-124, 3-2-129, 7-2-113, 7-4-50 confirmed; 3-685 applied as printed; 6-2-[2] removed (print has none) |
+| 232 | `" (Pā. Sū. 7-2-[113]) the loss of the *id* of *idam*; b` → `" (Pā. Sū. 7-2-113) the loss of the *id* of *idam*; b` | SECOND-PASS Q2: Kannada pp.231-234 has the same sūtra number in the same place; brackets of the older reading removed |
+| 232 | `(Pā. Sū. 6-1-[128] vārttika)` → `(Pā. 3-685 vārttika)` | SECOND-PASS Q1: Kannada p.232 reads (ಪಾ. 3-685) for īṣākṣādīnāṃ chandasi prakṛtibhāvo vaktavyaḥ; applied as printed, listed in open.tsv |
+| 232 | `(Pā. Sū. 3-2-[129]` → `(Pā. Sū. 3-2-129` | SECOND-PASS Q2: Kannada pp.231-234 has the same sūtra number in the same place; brackets of the older reading removed |
+| 232 | `(Pā. Sū. 7-4-[50]` → `(Pā. Sū. 7-4-50` | SECOND-PASS Q2: Kannada pp.231-234 has the same sūtra number in the same place; brackets of the older reading removed |
+| 232 | `"न नेद्यः" [?] and` → `"न नेद्यः" and` | SECOND-PASS Q2: Kannada p.232 reads ನ ನೇದ್ಯಃ ಅನೇದ್ಯಃ (na nedyaḥ anedyaḥ) |
+| 232 | `(Pā. Sū. 6-2-[2]) the accent` → `the accent` | SECOND-PASS S3: Kannada p.232 has no sūtra number after ಶತ್ಪುರುಷೇ ತುಲ್ಯಾರ್ಥ— |
+| 232 | `" (Pā. Sū. 3-1-[124]) the affix *ṇyat*; since it is *i` → `" (Pā. Sū. 3-1-124) the affix *ṇyat*; since it is *i` | SECOND-PASS Q2: Kannada pp.231-234 has the same sūtra number in the same place; brackets of the older reading removed |
+| 233 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 233.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 233.` | SECOND-PASS Q2: running head of Kannada p.233 reads ವ. 13 (Varga 13) |
+| 234 | `worthy of sacrifice [?], *dadhire*` → `worthy of sacrifice, *dadhire*` | SECOND-PASS Q2: Kannada p.234 reads yajñiyāni yajñārhāṇi |
+| 235 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 235.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 235.` | SECOND-PASS Q2: running head of Kannada p.235 reads ವ. 13 (Varga 13) |
+| 235 | `7.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `7.5)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: the section holds no numerals at all (sūtra names only) |
+| 237 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 237.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 237.` | SECOND-PASS Q2: running head of Kannada p.237 reads ವ. 13 (Varga 13) |
+| 238 | ` *(the Skandasvāmin phrase is partly clotted [?])*` → `` | SECOND-PASS Q2: Kannada p.238 has satyasaṃpattilakṣaṇāyai śriyai, same as the English |
+| 239 | `Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 239.` → `Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 239.` | SECOND-PASS Q2: running head of Kannada p.239 reads ವ. 13 (Varga 13) |
+| 239 | `(Ṛ. Saṃ. 5-58-2-[?] [?])` → `(Ṛ. Saṃ. 5-58-2)` | SECOND-PASS Q1: Kannada p.239 reads (ಋ. ಸಂ. 5-58-2) after tveṣaṃ gaṇaṃ tavasaṃ… |
+| 239 | ` *(Both reference numerals are small and doubtful [?].)*` → `` | SECOND-PASS Q2: both numbers (5-58-2, 5-54-11) are those of Kannada p.239 |
+| 240 | `39 (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*` → `39 (grammar, noted briefly; sūtras read in three layers):*` | SECOND-PASS Q2: Pā. Sū. 3-1-7 confirmed on Kannada p.240; 3-1-[35] removed (print has none); Uṇ. 1-142 and Pā. 6-4-76 now as printed |
+| 240 | `(Pā. Sū. 3-1-[35]) forbids` → `forbids` | SECOND-PASS S3: Kannada p.240 has no sūtra number after अमन्त्रे |
+| 240 | `(Uṇ. Sū. 1-[147] [?])` → `(Uṇ. Sū. 1-142)` | SECOND-PASS Q1: Kannada p.240 reads ಇಷಿಯುಧೀಂಧಿ—(ಉ. ಸೂ. 1-142) |
+| 240 | `" (Pā. Sū. 6-4-66) ` → `" (Pā. Sū. 6-4-76) ` | SECOND-PASS Q1: Kannada p.240 reads ಇರಯೋರೇ (ಪಾ. ಸೂ. 6-4-76) |
+| 241 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 241.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 241.` | SECOND-PASS Q2: running head of Kannada p.241 reads ವ. 14 (Varga 14) |
+| 242 | `१४ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 14 [?]*` → `१४ — *Aṣṭaka 1 · Adhyāya 6 · Varga 14*` | SECOND-PASS Q2: Kannada p.242 prints ವರ್ಗ-೧೪ for sūkta 88; Devanagari line and its IAST twin settled together |
+| 242 | ` *(as printed on the heading line; the digits "३-४०" for the Triṣṭubh Ṛks are read as "2–4` → `` | SECOND-PASS Q2: Kannada p.242 heading line reads ೨-೪. ತ್ರಿಷ್ಟುಪ್, as the English already has (2–4) |
+| 243 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 243.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 243.` | SECOND-PASS Q2: running head of Kannada p.243 reads ವ. 14 (Varga 14) |
+| 243 | `Ni. 11-13, 14 [?] |` → `Ni. 11-13, 14 |` | SECOND-PASS Q2: Kannada p.243 reads ನಿ. 11-13, 14 after the same quotation |
+| 243 | `(Ni. [11-13, 14] [?])` → `(Ni. 11-13, 14)` | SECOND-PASS Q1: Kannada p.243 reads ನಿ. 11-13, 14 after the same quotation |
+| 245 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 245.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 245.` | SECOND-PASS Q2: running head of Kannada p.245 reads ವ. 14 (Varga 14) |
+| 245 | `(Ni. [11-13] [?])` → `(Ni. 11-13)` | SECOND-PASS Q1: Kannada p.245 reads (ನಿ- 11-13) after maruto mitarāviṇo vā … |
+| 245 | ` *(as read, partly clotted [?])*` → `` | SECOND-PASS Q2: Kannada p.245 reads ವರ್ಷಿಷ್ಠಯಾ—ವೃಷ್ಟಿಪ್ರದಾನದಿಂದ ಆಹಾರೋತ್ಪತ್ತಿಗೆ ಸಾಧನಭೂತವಾದ, clear |
+| 245 | `(Ni. 11-132 ff.] [?])` → `(Ni. 11-13-14)` | SECOND-PASS Q1: Kannada p.246 reads (ನಿ. 11-13-14) after the quotation |
+| 246 | `8.1)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `8.1)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: sūtra numbers of the section (Pā. 8-2-10, 6-1-176, 6-4-157, 3-1-55, 7-4-19 and Uṇ. 1-149) are those of Kannada pp.246-247; brackets removed |
+| 246 | `(Pā. Sū. 8-2-[10]` → `(Pā. Sū. 8-2-10` | SECOND-PASS Q2: Kannada pp.245-248 has the same sūtra number in the same place; brackets of the older reading removed |
+| 246 | `(Pā. Sū. 6-1-[176]` → `(Pā. Sū. 6-1-176` | SECOND-PASS Q2: Kannada pp.245-248 has the same sūtra number in the same place; brackets of the older reading removed |
+| 246 | `(Pā. Sū. 6-4-[157]` → `(Pā. Sū. 6-4-157` | SECOND-PASS Q2: Kannada pp.245-248 has the same sūtra number in the same place; brackets of the older reading removed |
+| 246 | ` Pā. Sū. 3-1-[55]` → ` Pā. Sū. 3-1-55` | SECOND-PASS Q2: Kannada pp.245-248 has the same sūtra number in the same place; brackets of the older reading removed |
+| 246 | `(Pā. Sū. 7-4-[19]` → `(Pā. Sū. 7-4-19` | SECOND-PASS Q2: Kannada pp.245-248 has the same sūtra number in the same place; brackets of the older reading removed |
+| 247 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 247.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 247.` | SECOND-PASS Q2: running head of Kannada p.247 reads ವ. 14 (Varga 14) |
+| 249 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 249.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 249.` | SECOND-PASS Q2: running head of Kannada p.249 reads ವ. 14 (Varga 14) |
+| 250 | `d (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*` → `d (grammar, noted briefly; sūtras read in three layers):*` | SECOND-PASS Q2: sūtra numbers of the section (Pā. 8-2-77, 6-1-174, 7-4-85 …) are those of Kannada p.250; brackets removed |
+| 250 | `(Pā. Sū. 8-2-[77]` → `(Pā. Sū. 8-2-77` | SECOND-PASS Q2: Kannada pp.249-252 has the same sūtra number in the same place; brackets of the older reading removed |
+| 250 | `" (Pā. Sū. 6-1-[174]) t` → `" (Pā. Sū. 6-1-174) t` | SECOND-PASS Q2: Kannada pp.249-252 has the same sūtra number in the same place; brackets of the older reading removed |
+| 250 | `(Pā. Sū. 7-4-[85]` → `(Pā. Sū. 7-4-85` | SECOND-PASS Q2: Kannada pp.249-252 has the same sūtra number in the same place; brackets of the older reading removed |
+| 251 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 251.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 251.` | SECOND-PASS Q2: running head of Kannada p.251 reads ವ. 14 (Varga 14) |
+| 253 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 253.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 253.` | SECOND-PASS Q2: running head of Kannada p.253 reads ವ. 14 (Varga 14) |
+| 253 | `(Ni. [1-4] [?])` → `(Ni. 1-9)` | SECOND-PASS Q1: Kannada p.253 reads (ನಿ.1-9) after ಆಥಾಪಿ ಪಾದಪೂರಣಾ ಕಮಿಮಿದ್ |
+| 253 | `8.3)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `8.3)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 3-1-80 and 3-4-117 are on Kannada pp.253-254 in the same places; brackets removed |
+| 253 | `(Pā. Sū. 3-1-[80]` → `(Pā. Sū. 3-1-80` | SECOND-PASS Q2: Kannada pp.252-255 has the same sūtra number in the same place; brackets of the older reading removed |
+| 253 | `(Pā. Sū. 3-4-[117]` → `(Pā. Sū. 3-4-117` | SECOND-PASS Q2: Kannada pp.252-255 has the same sūtra number in the same place; brackets of the older reading removed |
+| 255 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 255.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 255.` | SECOND-PASS Q2: running head of Kannada p.255 reads ವ. 14 (Varga 14) |
+| 256 | `(Ni. [2-1] [?])` → `(Ni. 3-1)` | SECOND-PASS Q1: Kannada p.256 reads (ನಿ-3-1) after ಧಿಯಂ—ಕರ್ಮವನ್ನು … |
+| 257 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 257.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 257.` | SECOND-PASS Q2: running head of Kannada p.257 reads ವ. 14 (Varga 14) |
+| 257 | `8.4)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `8.4)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: numerals of the section now as in Kannada pp.257-258: 3-4-110, 6-4-76, 6-1-49 (as printed); other brackets confirmed |
+| 257 | `(Pā. Sū. 6-1-[96])` → `(Pā. Sū. 6-1-49)` | SECOND-PASS Q1: Kannada p.257 reads ಉಸ್ಯಪದಾಂತಾತ್ (ಪಾ. ಸೂ. 6-1-49); applied as printed, listed in open.tsv |
+| 257 | `(Pā. Sū. 2-4-[45]` → `(Pā. Sū. 2-4-45` | SECOND-PASS Q2: Kannada pp.256-259 has the same sūtra number in the same place; brackets of the older reading removed |
+| 257 | `(Pā. Sū. 3-4-[110]` → `(Pā. Sū. 3-4-110` | SECOND-PASS Q2: Kannada pp.256-259 has the same sūtra number in the same place; brackets of the older reading removed |
+| 257 | `" (Pā. Sū. 3-1-[124]) the affix *ṇyat*; since it is *ṇ` → `" (Pā. Sū. 3-1-124) the affix *ṇyat*; since it is *ṇ` | SECOND-PASS Q2: Kannada pp.256-259 has the same sūtra number in the same place; brackets of the older reading removed |
+| 257 | `(Pā. Sū. 6-476)` → `(Pā. Sū. 6-4-76)` | SECOND-PASS Q1: Kannada p.257 reads ಇರಯೋರೇ (ಪಾ. ಸೂ. 6-4-76) |
+| 259 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 259.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 259.` | SECOND-PASS Q2: running head of Kannada p.259 reads ವ. 14 (Varga 14) |
+| 261 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 261.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 261.` | SECOND-PASS Q2: running head of Kannada p.261 reads ವ. 14 (Varga 14) |
+| 261 | `8.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `8.5)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 3-1-66 and 6-4-104 are on Kannada p.261 in the same places; brackets removed |
+| 261 | `(Pā. Sū. 3-1-[66]` → `(Pā. Sū. 3-1-66` | SECOND-PASS Q2: Kannada pp.260-263 has the same sūtra number in the same place; brackets of the older reading removed |
+| 261 | `(Pā. Sū. 6-4-[104]` → `(Pā. Sū. 6-4-104` | SECOND-PASS Q2: Kannada pp.260-263 has the same sūtra number in the same place; brackets of the older reading removed |
+| 263 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 263.` → `Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 263.` | SECOND-PASS Q2: running head of Kannada p.263 reads ವ. 14 (Varga 14) |
+| 264 | `e, noted briefly; sūtras read in three layers, numerals as read [?]):*` → `e, noted briefly; sūtras read in three layers):*` | SECOND-PASS Q2: Pā. Sū. 7-2-106, 4-1-5, 6-1-174 are on Kannada p.264 in the same places; brackets removed |
+| 264 | `(Pā. Sū. 7-2-[106]` → `(Pā. Sū. 7-2-106` | SECOND-PASS Q2: Kannada pp.263-266 has the same sūtra number in the same place; brackets of the older reading removed |
+| 264 | `(Pā. Sū. 4-1-[5]` → `(Pā. Sū. 4-1-5` | SECOND-PASS Q2: Kannada pp.263-266 has the same sūtra number in the same place; brackets of the older reading removed |
+| 264 | `" (Pā. Sū. 6-1-[174]) s` → `" (Pā. Sū. 6-1-174) s` | SECOND-PASS Q2: Kannada pp.263-266 has the same sūtra number in the same place; brackets of the older reading removed |
+| 264 | `[*anu*-5] [?]` → `*anu* 9-5` | SECOND-PASS Q1: Kannada p.264 reads ಅನು 9-5 in the same place |
+| 265 | `Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 265.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 265.` | SECOND-PASS Q1: running head of Kannada p.265 reads ವ. 15 (Varga 15) |
+| 265 | `(Ai. Brā. [3-10] [?])` → `(Ai. Brā. 3-31)` | SECOND-PASS Q1: Kannada p.265 reads (ಐ. ಬ್ರಾ. 3-31) after ಸದೈವ ಪಂಚಜನೀಯಯಾ ಪರಿದಧ್ಯಾತ್ |
+| 265 | `५-१८ — *Aṣṭaka 1 · Adhyāya 6 · Varga 5-18* (the numerals are small and read with doubt [?]` → `१५, १६ — *Aṣṭaka 1 · Adhyāya 6 · Varga 15, 16*` | SECOND-PASS Q1: Kannada p.265 reads ವರ್ಗ- 15, 16 for sūkta 89 |
+| 267 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 267.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 267.` | SECOND-PASS Q2: running head of Kannada p.267 reads ವ. 15 (Varga 15) |
+| 267 | `(Ni. [12-?] [?])` → `(Ni. 12-39)` | SECOND-PASS Q1: Kannada p.268 reads (ನಿ. 12-39) after ವಿಶ್ವೇ ದೇವಾಃ ಸರ್ವೇ ದೇವಾಃ |
+| 268 | `a number of whole sūktas with the Viśvedevas as their deity: in the first maṇḍala, the sūk` → `58 whole sūktas with the Viśvedevas as their deity: in the first maṇḍala, the sūktas 14, 8` | SECOND-PASS Q1: Kannada p.268 prints the whole list (58 sūktas; maṇḍala 1: 14, 89, 90, 105-107, 121, 122; 2: 29, 31; 3: 54; 4: 55; 5: 41-45, 47-51; 6: 49-52; 7: 35-37, 39, 40,  |
+| 268 | `9.1)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `9.1)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 6-4-81 and 7-2-15 are on Kannada p.268 in the same places; brackets removed |
+| 268 | `(Pā. Sū. 6-4-[81]` → `(Pā. Sū. 6-4-81` | SECOND-PASS Q2: Kannada pp.267-270 has the same sūtra number in the same place; brackets of the older reading removed |
+| 268 | `(Pā. Sū. 7-2-[15]` → `(Pā. Sū. 7-2-15` | SECOND-PASS Q2: Kannada pp.267-270 has the same sūtra number in the same place; brackets of the older reading removed |
+| 269 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 269.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 269.` | SECOND-PASS Q2: running head of Kannada p.269 reads ವ. 15 (Varga 15) |
+| 271 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 271.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 271.` | SECOND-PASS Q2: running head of Kannada p.271 reads ವ. 15 (Varga 15) |
+| 272 | `; numerals as read [?]` → `` | SECOND-PASS Q2: Pā. Sū. 3-1-8 and 5-1-176, 6-1 and 6-4 numerals confirmed on Kannada p.272; 7-4-25 and 3-4-[90] removed (print has none); brackets removed |
+| 272 | `" (Pā. Sū. 7-4-25) t` → `" t` | SECOND-PASS S3: Kannada p.272 has no sūtra number after अकृत्सार्वधातुकयोर्दीर्घः |
+| 272 | `" (Pā. Sū. 6-1-[173]) the case-ending *` → `" (Pā. Sū. 6-1-173) the case-ending *` | SECOND-PASS Q2: Kannada pp.271-274 has the same sūtra number in the same place; brackets of the older reading removed |
+| 272 | `(Pā. Sū. 3-3-[96]` → `(Pā. Sū. 3-3-96` | SECOND-PASS Q2: Kannada pp.271-274 has the same sūtra number in the same place; brackets of the older reading removed |
+| 272 | `(Pā. Sū. 3-4-[90]) ` → `` | SECOND-PASS S3: Kannada p.272 has no sūtra number after ಆಮೇತಃ— |
+| 272 | `(Pā. Sū. 6-4-[120]` → `(Pā. Sū. 6-4-120` | SECOND-PASS Q2: Kannada pp.271-274 has the same sūtra number in the same place; brackets of the older reading removed |
+| 273 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 273.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 273.` | SECOND-PASS Q2: running head of Kannada p.273 reads ವ. 15 (Varga 15) |
+| 273 | `; the Taittirīya numerals [?].)*` → `.)*` | SECOND-PASS Q2: Tai. Brā. 1-7-10-1 (twice) is on Kannada pp.273-274 in the same places |
+| 275 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 275.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 275.` | SECOND-PASS Q2: running head of Kannada p.275 reads ವ. 15 (Varga 15) |
+| 275 | ` (Ni. [?-?] [?]);` → ` (Ni. 2-23);` | SECOND-PASS Q1: Kannada p.275 reads (ನಿ. 2-23) after ನಿವಿದಾ ... ಎಂದರ್ಥವು |
+| 275 | `adīnā devamātā ‖* (Ni. [?-?] [?]) — **GLOSS**` → `adīnā devamātā ‖* — **GLOSS**` | SECOND-PASS S3: Kannada p.275 has no reference number after this Yāska quotation |
+| 276 | `(Tai. Brā. [1-2-10-1] [?])` → `(Tai. Brā. 1-7-10-1)` | SECOND-PASS Q1: Kannada p.274 reads ತೈ. ಬ್ರಾ. 1-7-10-1 after ವಾರುಣೀ ರಾತ್ರಿಃ |
+| 276 | `9.3)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `9.3)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 6-4-… numerals confirmed on Kannada p.276-277; 6-1-[32] removed (print has none) |
+| 276 | `(Pā. Sū. 6-1-[32]) ` → `` | SECOND-PASS S3: Kannada p.277 has no sūtra number after ಹ್ವಃ ಸಂಪ್ರಸಾರಣಮ್— |
+| 276 | `(Pā. Sū. 6-4-[2]` → `(Pā. Sū. 6-4-2` | SECOND-PASS Q2: Kannada pp.275-278 has the same sūtra number in the same place; brackets of the older reading removed |
+| 277 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 277.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 277.` | SECOND-PASS Q2: running head of Kannada p.277 reads ವ. 15 (Varga 15) |
+| 279 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 279.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 279.` | SECOND-PASS Q2: running head of Kannada p.279 reads ವ. 15 (Varga 15) |
+| 280 | `9.4)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `9.4)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 1-2-47, 3-2-90 (and bracketed numerals) are those of Kannada p.280; 6-4-[51] removed (print has none) |
+| 280 | `(Pā. Sū. 6-4-[51]) ` → `` | SECOND-PASS S3: Kannada p.280 has no sūtra number after ಣೇರನಿಟಿ- |
+| 280 | `(Pā. Sū. 1-2-[47]` → `(Pā. Sū. 1-2-47` | SECOND-PASS Q2: Kannada pp.279-282 has the same sūtra number in the same place; brackets of the older reading removed |
+| 280 | `(Pā. Sū. 3-2-70)` → `(Pā. Sū. 3-2-90)` | SECOND-PASS Q1: Kannada p.280 reads ಸೋಮೇ ಸುಞ್ (ಪಾ. ಸೂ. 3-2-90) |
+| 280 | `" (Pā. Sū. 3-1-[74]) the *śnu* *vikaraṇa* and *` → `" (Pā. Sū. 3-1-74) the *śnu* *vikaraṇa* and *` | SECOND-PASS Q2: Kannada pp.279-282 has the same sūtra number in the same place; brackets of the older reading removed |
+| 281 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 281.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 281.` | SECOND-PASS Q2: running head of Kannada p.281 reads ವ. 15 (Varga 15) |
+| 283 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 283.` → `Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 283.` | SECOND-PASS Q2: running head of Kannada p.283 reads ವ. 15 (Varga 15) |
+| 283 | `9.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `9.5)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 6-4-131, 8-3-60, 8-3-53, 3-3-113 are on Kannada p.283 in the same places; brackets removed |
+| 283 | `(Pā. Sū. 6-4-[131]` → `(Pā. Sū. 6-4-131` | SECOND-PASS Q2: Kannada pp.282-285 has the same sūtra number in the same place; brackets of the older reading removed |
+| 283 | `" (Pā. Sū. 8-3-[60]) the *ṣatva* for the *s* of *vas*; *` → `" (Pā. Sū. 8-3-60) the *ṣatva* for the *s* of *vas*; *` | SECOND-PASS Q2: Kannada pp.282-285 has the same sūtra number in the same place; brackets of the older reading removed |
+| 283 | `(Pā. Sū. 8-3-[53]` → `(Pā. Sū. 8-3-53` | SECOND-PASS Q2: Kannada pp.282-285 has the same sūtra number in the same place; brackets of the older reading removed |
+| 283 | `(Pā. Sū. 3-3-[113]` → `(Pā. Sū. 3-3-113` | SECOND-PASS Q2: Kannada pp.282-285 has the same sūtra number in the same place; brackets of the older reading removed |
+| 285 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 285.` → `Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 285.` | SECOND-PASS Q1: running head of Kannada p.285 reads ವ. 16 (Varga 16) |
+| 286 | `(Ṛ. Saṃ. [?]; Āśvalāyana Śrauta-sūtra [?])` → `(Ṛ. Saṃ. 2-4-1; Āśvalāyana Śrauta-sūtra 10-7)` | SECOND-PASS Q1: Kannada p.286 reads ಖಿಲಮಂತ್ರಗಳಲ್ಲಿಯೂ (2-4-1) ಆಶ್ವಲಾಯನ ಶೌತಸೂತ್ರದಲ್ಲಿಯೂ (ಆ. 10-7) |
+| 286 | `Sūkta 10-7 of the Ṛg. Saṃ. is addressed to Tārkṣya." *(numerals read with doubt [?])*` → `Sūkta 10-174 of the Ṛg. Saṃ. is addressed to Tārkṣya."` | SECOND-PASS Q1: Kannada p.286 reads ಋ. ಸಂ. 10-174 ನೇ ಸೂಕ್ತವು ತಾರ್ಕ್ಷ್ಯ ದೇವತಾಕವಾಗಿದೆ |
+| 287 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 287.` → `Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 287.` | SECOND-PASS Q1: running head of Kannada p.287 reads ವ. 16 (Varga 16) |
+| 287 | `9.6)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*` → `9.6)** *(grammar page, noted briefly; sūtras read in three layers)*` | SECOND-PASS Q2: Pā. Sū. 1-105, 6-1-157 (from 6-1-156), 6-1-2 … confirmed on Kannada p.287; brackets removed |
+| 287 | `(Pā. Sū. 6-2-[106]` → `(Pā. Sū. 6-2-106` | SECOND-PASS Q2: Kannada pp.286-289 has the same sūtra number in the same place; brackets of the older reading removed |
+| 287 | `(Pā. Sū. 6-1-156)` → `(Pā. Sū. 6-1-157)` | SECOND-PASS Q1: Kannada p.287 reads ತದ್ಬೃಹತೋಃ ಕರಪತ್ಯೋಃ (ಪಾ. ಸೂ. 6-1-157) |
+| 287 | `" (Pā. Sū. 6-2-[140]) t` → `" (Pā. Sū. 6-2-140) t` | SECOND-PASS Q2: Kannada pp.286-289 has the same sūtra number in the same place; brackets of the older reading removed |
+| 289 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 289.` → `Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 289.` | SECOND-PASS Q1: running head of Kannada p.289 reads ವ. 16 (Varga 16) |
+| 289 | `'*pṛṣatyo marutām*' (Ni. [?-?] [?]) — so the Nirukta says."` → `'*pṛṣatyo marutām*' — so the Nirukta says."` | SECOND-PASS S3: Kannada p.289 has pṛṣatyo marutāṃ èṃdu niruktavacanaviruvudu with no reference number |
+| 290 | `(Ṛ. Saṃ. [1-?-?] [?])` → `(Ṛ. Saṃ. 1-44-14)` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 1-44-14) after the same quotation |
+| 290 | `n agnijihvāḥ ‖* (Ṛ. Saṃ. [?-?-?] [?]) — **GLOSS**` → `n agnijihvāḥ ‖* (Ṛ. Saṃ. 3-54-10) — **GLOSS**` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 3-54-10) after the same quotation |
+| 290 | `(Ṛ. Saṃ. [6-?-?] [?]) — **GLOSS** *(the second half is read with doubt [?])*` → `(Ṛ. Saṃ. 6-21-11) — **GLOSS**` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 6-21-11) after ಯೆಃ ಅಗ್ನಿಜಿಹ್ವಾ ಋತಸಾಪ ಆಸುರ್ಯೇ ಮನುಂ ಚಕ್ರುರುಪರಂ ದಸಾಯ; second half agrees |
+| 290 | `ā agnijihvāḥ ‖* (Ṛ. Saṃ. [?-?-?] [?]) — **GLOSS**` → `ā agnijihvāḥ ‖* (Ṛ. Saṃ. 6-50-2) — **GLOSS**` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 6-50-2) after the same quotation |
+| 290 | `m ‖* (Ṛ. Saṃ. [?-?-?] [?]) — *` → `m ‖* (Ṛ. Saṃ. 6-52-13) — *` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 6-52-13) after the same quotation |
+| 290 | `aḥ ‖* (Ṛ. Saṃ. [?-?-?] [?]) — **` → `aḥ ‖* (Ṛ. Saṃ. 7-66-10) — **` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 7-66-10) after the same quotation |
+| 290 | `(Ṛ. Saṃ. [10-?-?] [?])` → `(Ṛ. Saṃ. 10-65-7)` | SECOND-PASS Q1: Kannada p.290 reads (ಋ. ಸಂ. 10-65-7) after the same quotation |
+| 290 | ` *(The seven citations are given as read; all Ṛgveda reference numerals here are small and` → `` | SECOND-PASS Q2: all seven Ṛgveda references of the list are now those of Kannada p.290 |
+| 291 | `Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 291.` → `Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 291.` | SECOND-PASS Q1: running head of Kannada p.291 reads ವ. 16 (Varga 16) |
+| 291 | `0 (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*` → `0 (grammar, noted briefly; sūtras read in three layers):*` | SECOND-PASS Q2: Pā. Sū. 3-2-74, 3-2-171 and Ṛ. Saṃ. 1-44-14 are on Kannada p.291/290 in the same places; brackets removed |
+| 291 | `(Pā. Sū. 3-2-[74]` → `(Pā. Sū. 3-2-74` | SECOND-PASS Q2: Kannada pp.290-293 has the same sūtra number in the same place; brackets of the older reading removed |
+| 291 | `" (Pā. Sū. 3-2-[171]) the affix *kin*; b` → `" (Pā. Sū. 3-2-171) the affix *kin*; b` | SECOND-PASS Q2: Kannada pp.290-293 has the same sūtra number in the same place; brackets of the older reading removed |

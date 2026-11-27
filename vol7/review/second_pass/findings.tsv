@@ -437,3 +437,196 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 179	Q2	R1	line 5006 q204	sukṛtaṃ samyag[…] [?] hiraṇyayaṃ (Devanagari twin: सम्यग्[ज्ञप्पादितं?])	mark kept	Kannada p.179 reads ಸಮ್ಯಙ್ಷ್ಣಾದಿತಂ (non-word)	kept	kn_misprints.tsv
 179	Q2	R1	line 5008 q206	(… the word printed after samyag in sukṛtaṃ samyag… is not clear [?]; …)	mark kept	same place as q204: Kannada p.179 has a non-word ಸಮ್ಯಙ್ಷ್ಣಾದಿತಂ	kept	kn_misprints.tsv
 181	Q2	R1	line 5059 q209	(Kā. 5-2-[109] [?])	mark kept	Kannada p.181 reads (ಕಾ. ೨೫-೨೧೦೯-೨), garbled numerals; the English reference cannot be confirmed	kept	kn_misprints.tsv
+215	Q1	R1	line 6062 q123	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 215.	Va. 12"; centre: "Ṛgvedasaṃhitā"; right: 215.	running head of Kannada p.215 has Varga 12	applied	edits/m123-272.tsv
+217	Q2	R1	line 6128 q127	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 217.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 217.	running head of Kannada p.217 has Varga 13	applied	edits/m123-272.tsv
+219	Q2	R1	line 6176 q133	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 219.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 219.	running head of Kannada p.219 has Varga 13	applied	edits/m123-272.tsv
+223	Q2	R1	line 6274 q142	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 223.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 223.	running head of Kannada p.223 has Varga 13	applied	edits/m123-272.tsv
+225	Q2	R1	line 6327 q147	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 225.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 225.	running head of Kannada p.225 has Varga 13	applied	edits/m123-272.tsv
+227	Q2	R1	line 6374 q151	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 227.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 227.	running head of Kannada p.227 has Varga 13	applied	edits/m123-272.tsv
+229	Q2	R1	line 6422 q153	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 229.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 229.	running head of Kannada p.229 has Varga 13	applied	edits/m123-272.tsv
+231	Q2	R1	line 6472 q156	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 231.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 231.	running head of Kannada p.231 has Varga 13	applied	edits/m123-272.tsv
+233	Q2	R1	line 6517 q159	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 233.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 233.	running head of Kannada p.233 has Varga 13	applied	edits/m123-272.tsv
+235	Q2	R1	line 6574 q165	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 235.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 235.	running head of Kannada p.235 has Varga 13	applied	edits/m123-272.tsv
+237	Q2	R1	line 6614 q167	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 237.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 237.	running head of Kannada p.237 has Varga 13	applied	edits/m123-272.tsv
+239	Q2	R1	line 6675 q170	Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 239.	Va. 13"; centre: "Ṛgvedasaṃhitā"; right: 239.	running head of Kannada p.239 has Varga 13	applied	edits/m123-272.tsv
+241	Q2	R1	line 6729 q176	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 241.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 241.	running head of Kannada p.241 has Varga 14	applied	edits/m123-272.tsv
+243	Q2	R1	line 6784 q180	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 243.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 243.	running head of Kannada p.243 has Varga 14	applied	edits/m123-272.tsv
+245	Q2	R1	line 6828 q186	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 245.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 245.	running head of Kannada p.245 has Varga 14	applied	edits/m123-272.tsv
+247	Q2	R1	line 6879 q191	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 247.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 247.	running head of Kannada p.247 has Varga 14	applied	edits/m123-272.tsv
+249	Q2	R1	line 6923 q193	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 249.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 249.	running head of Kannada p.249 has Varga 14	applied	edits/m123-272.tsv
+251	Q2	R1	line 6974 q195	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 251.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 251.	running head of Kannada p.251 has Varga 14	applied	edits/m123-272.tsv
+253	Q2	R1	line 7034 q197	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 253.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 253.	running head of Kannada p.253 has Varga 14	applied	edits/m123-272.tsv
+255	Q2	R1	line 7085 q201	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 255.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 255.	running head of Kannada p.255 has Varga 14	applied	edits/m123-272.tsv
+257	Q2	R1	line 7130 q204	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 257.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 257.	running head of Kannada p.257 has Varga 14	applied	edits/m123-272.tsv
+259	Q2	R1	line 7183 q206	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 259.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 259.	running head of Kannada p.259 has Varga 14	applied	edits/m123-272.tsv
+261	Q2	R1	line 7228 q208	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 261.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 261.	running head of Kannada p.261 has Varga 14	applied	edits/m123-272.tsv
+263	Q2	R1	line 7290 q212	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 263.	Va. 14"; centre: "Ṛgvedasaṃhitā"; right: 263.	running head of Kannada p.263 has Varga 14	applied	edits/m123-272.tsv
+265	Q1	R1	line 7346 q217	Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 265.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 265.	running head of Kannada p.265 has Varga 15	applied	edits/m123-272.tsv
+267	Q2	R1	line 7399 q220	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 267.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 267.	running head of Kannada p.267 has Varga 15	applied	edits/m123-272.tsv
+269	Q2	R1	line 7450 q234	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 269.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 269.	running head of Kannada p.269 has Varga 15	applied	edits/m123-272.tsv
+271	Q2	R1	line 7501 q236	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 271.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 271.	running head of Kannada p.271 has Varga 15	applied	edits/m123-272.tsv
+273	Q2	R1	line 7549 q238	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 273.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 273.	running head of Kannada p.273 has Varga 15	applied	edits/m123-272.tsv
+275	Q2	R1	line 7602 q241	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 275.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 275.	running head of Kannada p.275 has Varga 15	applied	edits/m123-272.tsv
+277	Q2	R1	line 7670 q246	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 277.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 277.	running head of Kannada p.277 has Varga 15	applied	edits/m123-272.tsv
+279	Q2	R1	line 7716 q247	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 279.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 279.	running head of Kannada p.279 has Varga 15	applied	edits/m123-272.tsv
+281	Q2	R1	line 7766 q249	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 281.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 281.	running head of Kannada p.281 has Varga 15	applied	edits/m123-272.tsv
+283	Q2	R1	line 7822 q251	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 283.	Va. 15"; centre: "Ṛgvedasaṃhitā"; right: 283.	running head of Kannada p.283 has Varga 15	applied	edits/m123-272.tsv
+285	Q1	R1	line 7871 q253	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 285.	Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 285.	running head of Kannada p.285 has Varga 16	applied	edits/m123-272.tsv
+287	Q1	R1	line 7931 q258	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 287.	Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 287.	running head of Kannada p.287 has Varga 16	applied	edits/m123-272.tsv
+289	Q1	R1	line 7982 q260	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 289.	Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 289.	running head of Kannada p.289 has Varga 16	applied	edits/m123-272.tsv
+291	Q1	R1	line 8055 q271	Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 291.	Va. 16"; centre: "Ṛgvedasaṃhitā"; right: 291.	running head of Kannada p.291 has Varga 16	applied	edits/m123-272.tsv
+216	Q2	R1	line 6101 q124	(as printed; numerals [?])	(as printed)	only numeral of the note, Ā. 5-20, is on Kannada p.216 in the same place	applied	edits/m123-272.tsv
+216	Q2	R1	line 6118 q125+q126	१३ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 13 [?]*	१३ — *Aṣṭaka 1 · Adhyāya 6 · Varga 13*	Kannada p.216 has Varga 13	applied	edits/m123-272.tsv
+217	Q2	R1	line 6150 q130	abhyāsasyātvam [?]	abhyāsasyātvam	Kannada p.217 has āta aderityabhyāsasyātvaṃ (a/ā only)	applied	edits/m123-272.tsv
+219	S3	R1	line 6195 q134+q135	(Ni. [?] [?])	removed	Kannada p.219 has no number after the quotation	applied	edits/m123-272.tsv
+220	Q2	R1	line 6214 q136	numerals as read [?]	clause dropped	only numeral of the section (Uṇ. Sū. 4-666) is the same on Kannada p.220	applied	edits/m123-272.tsv
+222	Q2	R1	line 6264 q139	ratheṣv āsaktā [?]	ratheṣv āsaktā	Kannada p.222 agrees	applied	edits/m123-272.tsv
+222	Q2	R1	line 6264 q140	(Pā. Sū. 3-2-171 [?])	(Pā. Sū. 3-2-171)	Kannada p.224 has ಪಾ. ಸೂ. 3-2-171 for the same sūtra and word	applied	edits/m123-272.tsv
+223	Q2	R1	line 6298 q144	(printed Sanskrit of Skandasvāmin … clotted [?])	remark removed	Kannada p.223 reads the quotation clearly	applied	edits/m123-272.tsv
+224	Q1	R1	line 6311 (Skandasvāmin quotation, q145)	*yatra pradeśe yuṣmadīyā rathā vayaṃ tiṣṭhanti* [as read] *tatra rathacakradhārābhir vidyamāno meghāḥ prakṣarantīty arthaḥ*	*yatra pradeśe yuṣmadīyā rathā vyavatiṣṭhante tatra rathacakradhārābhiḥ vidyamānā meghāḥ prakṣarantīty arthaḥ*	Kannada p.224 has a clear quotation	applied	edits/m123-272.tsv
+224	Q2	R1	line 6311 q145	(The Skandasvāmin Sanskrit is clotted … [?].)	remark removed	quotation corrected from Kannada p.224	applied	edits/m123-272.tsv
+224	Q2	R1	line 6317 q146	numerals as read [?]	clause dropped	Pā. Sū. 3-3-118, 3-2-171 and Ni. 2-21, 2-24 of the section are all on Kannada p.224 in the same places (brackets of 118 and 171 removed)	applied	edits/m123-272.tsv
+224	Q2	R1	line 6319 (bracketed numeral)	(Pā. Sū. 3-3-[118]	(Pā. Sū. 3-3-118	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+224	Q2	R1	line 6321 (bracketed numeral)	(Pā. Sū. 3-2-[171]	(Pā. Sū. 3-2-171	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+228	Q1	R1	line 6413	(Uṇ. Sū. 1-127)	(Uṇ. Sū. 1-137)	Kannada p.228 has ಉ. ಸೂ. 1-137 for the same sūtra	applied	edits/m123-272.tsv
+228	Q1	R1	line 6415	(Ni. 2-4-562, Yāska	(Ni. 3-21, Yāska	Kannada p.228 reads ನಿರು. 3-21	applied	edits/m123-272.tsv
+228	Q2	R1	line 6411 q152	numerals as read [?]	clause dropped	all numerals of the section are now those of Kannada pp.228-229 (Uṇ. 1-137, Pā. 2-4-56, 6-1-203, Kā. 2-4-56, Ni. 2-21, 3-21); brackets removed	applied	edits/m123-272.tsv
+228	Q2	R1	line 6413 (bracketed numeral)	(Pā. Sū. 2-4-[56]	(Pā. Sū. 2-4-56	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+228	Q2	R1	line 6416 (bracketed numeral)	(Pā. Sū. 6-1-[203]	(Pā. Sū. 6-1-203	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+232	Q2	R1	line 6510 q158	"न नेद्यः" [?]	"न नेद्यः"	Kannada p.232 agrees	applied	edits/m123-272.tsv
+232	Q1	R1	line 6507	(Pā. Sū. 6-1-[128] vārttika)	(Pā. 3-685 vārttika)	Kannada p.232 reads ಪಾ. 3-685 (impossible number applied as printed; open.tsv)	applied	edits/m123-272.tsv
+232	S3	R1	line 6510	(Pā. Sū. 6-2-[2])	removed	Kannada p.232 has no number there	applied	edits/m123-272.tsv
+232	Q2	R1	line 6503 q157	numerals as read [?]	clause dropped	numerals of the section settled from Kannada pp.232-233: 3-1-124, 3-2-129, 7-2-113, 7-4-50 confirmed; 3-685 applied as printed; 6-2-[2] removed (print has none)	applied	edits/m123-272.tsv
+232	Q2	R1	line 6506 (bracketed numeral)	(Pā. Sū. 7-2-[113]	(Pā. Sū. 7-2-113	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+232	Q2	R1	line 6507 (bracketed numeral)	(Pā. Sū. 3-2-[129]	(Pā. Sū. 3-2-129	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+232	Q2	R1	line 6508 (bracketed numeral)	(Pā. Sū. 7-4-[50]	(Pā. Sū. 7-4-50	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+232	Q2	R1	line 6510 (bracketed numeral)	(Pā. Sū. 3-1-[124]	(Pā. Sū. 3-1-124	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+234	Q2	R1	line 6560 q164	worthy of sacrifice [?]	worthy of sacrifice	Kannada p.234 agrees	applied	edits/m123-272.tsv
+235	Q2	R1	line 6590 q166	numerals as read [?]	clause dropped	the section holds no numerals at all (sūtra names only)	applied	edits/m123-272.tsv
+238	Q2	R1	line 6668 q169	(the Skandasvāmin phrase is partly clotted [?])	remark removed	Kannada p.238 agrees	applied	edits/m123-272.tsv
+239	Q1	R1	line 6685 q171+q172	(Ṛ. Saṃ. 5-58-2-[?] [?])	(Ṛ. Saṃ. 5-58-2)	Kannada p.239 has 5-58-2	applied	edits/m123-272.tsv
+239	Q2	R1	line 6689 q173	(Both reference numerals … doubtful [?].)	remark removed	5-58-2 and 5-54-11 both on Kannada p.239	applied	edits/m123-272.tsv
+240	Q1	R1	line 6718 q175	(Uṇ. Sū. 1-[147] [?])	(Uṇ. Sū. 1-142)	Kannada p.240 has 1-142	applied	edits/m123-272.tsv
+240	Q1	R1	line 6719	(Pā. Sū. 6-4-66)	(Pā. Sū. 6-4-76)	Kannada p.240 has 6-4-76	applied	edits/m123-272.tsv
+240	S3	R1	line 6715	(Pā. Sū. 3-1-[35])	removed	Kannada p.240 has no number there	applied	edits/m123-272.tsv
+240	Q2	R1	line 6712 q174	numerals as read [?]	clause dropped	Pā. Sū. 3-1-7 confirmed on Kannada p.240; 3-1-[35] removed (print has none); Uṇ. 1-142 and Pā. 6-4-76 now as printed	applied	edits/m123-272.tsv
+242	Q2	R1	line 6760 q179	(… "२–४" read with doubt [?])	remark removed	Kannada p.242 prints ೨-೪	applied	edits/m123-272.tsv
+243	Q2	R1	line 6790 q182	Ni. 11-13, 14 [?]	Ni. 11-13, 14	Kannada p.243 same number, same quotation	applied	edits/m123-272.tsv
+243	Q1	R1	line 6794 q185	(Ni. [11-13, 14] [?])	(Ni. 11-13, 14)	Kannada p.243	applied	edits/m123-272.tsv
+245	Q1	R1	line 6836 q187	(Ni. [11-13] [?])	(Ni. 11-13)	Kannada p.245	applied	edits/m123-272.tsv
+245	Q2	R1	line 6843 q188	(as read, partly clotted [?])	remark removed	Kannada p.245 clear	applied	edits/m123-272.tsv
+245	Q1	R1	line 6849 q189	(Ni. 11-132 ff.] [?])	(Ni. 11-13-14)	Kannada p.246	applied	edits/m123-272.tsv
+246	Q2	R1	line 6867 (bracketed numeral)	(Pā. Sū. 8-2-[10]	(Pā. Sū. 8-2-10	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+246	Q2	R1	line 6870 (bracketed numeral)	(Pā. Sū. 6-1-[176]	(Pā. Sū. 6-1-176	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+246	Q2	R1	line 6872 (bracketed numeral)	(Pā. Sū. 6-4-[157]	(Pā. Sū. 6-4-157	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+246	Q2	R1	line 6873 (bracketed numeral)	 Pā. Sū. 3-1-[55]	 Pā. Sū. 3-1-55	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+246	Q2	R1	line 6873 (bracketed numeral)	(Pā. Sū. 7-4-[19]	(Pā. Sū. 7-4-19	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+246	Q2	R1	line 6865 q190	numerals as read [?]	clause dropped	sūtra numbers of the section (Pā. 8-2-10, 6-1-176, 6-4-157, 3-1-55, 7-4-19 and Uṇ. 1-149) are those of Kannada pp.246-247; brackets removed	applied	edits/m123-272.tsv
+250	Q2	R1	line 6958 q194	numerals as read [?]	clause dropped	sūtra numbers of the section (Pā. 8-2-77, 6-1-174, 7-4-85 …) are those of Kannada p.250; brackets removed	applied	edits/m123-272.tsv
+250	Q2	R1	line 6963 (bracketed numeral)	(Pā. Sū. 8-2-[77]	(Pā. Sū. 8-2-77	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+250	Q2	R1	line 6964 (bracketed numeral)	(Pā. Sū. 6-1-[174]	(Pā. Sū. 6-1-174	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+250	Q2	R1	line 6965 (bracketed numeral)	(Pā. Sū. 7-4-[85]	(Pā. Sū. 7-4-85	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+253	Q1	R1	line 7040 q198	(Ni. [1-4] [?])	(Ni. 1-9)	Kannada p.253	applied	edits/m123-272.tsv
+253	Q2	R1	line 7042 q199	numerals as read [?]	clause dropped	Pā. Sū. 3-1-80 and 3-4-117 are on Kannada pp.253-254 in the same places; brackets removed	applied	edits/m123-272.tsv
+253	Q2	R1	line 7048 (bracketed numeral)	(Pā. Sū. 3-1-[80]	(Pā. Sū. 3-1-80	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+253	Q2	R1	line 7048 (bracketed numeral)	(Pā. Sū. 3-4-[117]	(Pā. Sū. 3-4-117	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+256	Q1	R1	line 7124 q203	(Ni. [2-1] [?])	(Ni. 3-1)	Kannada p.256	applied	edits/m123-272.tsv
+257	Q1	R1	line 7147	(Pā. Sū. 6-476)	(Pā. Sū. 6-4-76)	Kannada p.257	applied	edits/m123-272.tsv
+257	Q1	R1	line 7143	(Pā. Sū. 6-1-[96])	(Pā. Sū. 6-1-49)	Kannada p.257 prints 6-1-49 (applied as printed; open.tsv)	applied	edits/m123-272.tsv
+257	Q2	R1	line 7140 q205	numerals as read [?]	clause dropped	numerals of the section now as in Kannada pp.257-258: 3-4-110, 6-4-76, 6-1-49 (as printed); other brackets confirmed	applied	edits/m123-272.tsv
+257	Q2	R1	line 7143 (bracketed numeral)	(Pā. Sū. 2-4-[45]	(Pā. Sū. 2-4-45	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+257	Q2	R1	line 7143 (bracketed numeral)	(Pā. Sū. 3-4-[110]	(Pā. Sū. 3-4-110	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+257	Q2	R1	line 7145 (bracketed numeral)	(Pā. Sū. 3-1-[124]	(Pā. Sū. 3-1-124	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+261	Q2	R1	line 7238 q209	numerals as read [?]	clause dropped	Pā. Sū. 3-1-66 and 6-4-104 are on Kannada p.261 in the same places; brackets removed	applied	edits/m123-272.tsv
+261	Q2	R1	line 7240 (bracketed numeral)	(Pā. Sū. 3-1-[66]	(Pā. Sū. 3-1-66	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+261	Q2	R1	line 7240 (bracketed numeral)	(Pā. Sū. 6-4-[104]	(Pā. Sū. 6-4-104	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+264	Q2	R1	line 7319 q213	numerals as read [?]	clause dropped	Pā. Sū. 7-2-106, 4-1-5, 6-1-174 are on Kannada p.264 in the same places; brackets removed	applied	edits/m123-272.tsv
+264	Q2	R1	line 7321 (bracketed numeral)	(Pā. Sū. 7-2-[106]	(Pā. Sū. 7-2-106	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+264	Q2	R1	line 7322 (bracketed numeral)	(Pā. Sū. 4-1-[5]	(Pā. Sū. 4-1-5	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+264	Q2	R1	line 7322 (bracketed numeral)	(Pā. Sū. 6-1-[174]	(Pā. Sū. 6-1-174	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+264	Q1	R1	line 7340 q216	[*anu*-5] [?]	*anu* 9-5	Kannada p.264	applied	edits/m123-272.tsv
+265	Q1	R1	line 7350 q218	(Ai. Brā. [3-10] [?])	(Ai. Brā. 3-31)	Kannada p.265	applied	edits/m123-272.tsv
+265	Q1	R1	line 7359 q219	५-१८ — *Aṣṭaka 1 · Adhyāya 6 · Varga 5-18* (the numerals are small and read with doubt [?])	१५, १६ — *Aṣṭaka 1 · Adhyāya 6 · Varga 15, 16*	Kannada p.265 has Varga 15, 16	applied	edits/m123-272.tsv
+267	Q1	R1	line 7423 q222	(Ni. [12-?] [?])	(Ni. 12-39)	Kannada p.268	applied	edits/m123-272.tsv
+268	Q1	R1	line 7433 q223-q231	a number of whole sūktas with the Viśvedevas as their deity: in the fi…	58 sūktas, full list from Kannada p.268	Kannada p.268 prints the whole list	applied	edits/m123-272.tsv
+268	Q2	R1	line 7441 q233	numerals as read [?]	clause dropped	Pā. Sū. 6-4-81 and 7-2-15 are on Kannada p.268 in the same places; brackets removed	applied	edits/m123-272.tsv
+268	Q2	R1	line 7443 (bracketed numeral)	(Pā. Sū. 6-4-[81]	(Pā. Sū. 6-4-81	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+268	Q2	R1	line 7444 (bracketed numeral)	(Pā. Sū. 7-2-[15]	(Pā. Sū. 7-2-15	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+272	S3	R1	line 7535	(Pā. Sū. 7-4-25)	removed	Kannada p.272 has no number there	applied	edits/m123-272.tsv
+272	S3	R1	line 7537	(Pā. Sū. 3-4-[90])	removed	Kannada p.272 has no number there	applied	edits/m123-272.tsv
+272	Q2	R1	line 7533 q237	numerals as read [?]	clause dropped	Pā. Sū. 3-1-8 and 5-1-176, 6-1 and 6-4 numerals confirmed on Kannada p.272; 7-4-25 and 3-4-[90] removed (print has none); brackets removed	applied	edits/m123-272.tsv
+272	Q2	R1	line 7535 (bracketed numeral)	(Pā. Sū. 6-1-[173]	(Pā. Sū. 6-1-173	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+272	Q2	R1	line 7536 (bracketed numeral)	(Pā. Sū. 3-3-[96]	(Pā. Sū. 3-3-96	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+272	Q2	R1	line 7539 (bracketed numeral)	(Pā. Sū. 6-4-[120]	(Pā. Sū. 6-4-120	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+273	Q2	R1	line 7574 q240	the Taittirīya numerals [?]	dropped	Tai. Brā. 1-7-10-1 same on Kannada p.273-274	applied	edits/m123-272.tsv
+275	Q1	R1	line 7606 q242	(Ni. [?-?] [?])	(Ni. 2-23)	Kannada p.275	applied	edits/m123-272.tsv
+275	S3	R1	line 7617 q243	(Ni. [?-?] [?])	removed	Kannada p.275 has no number there	applied	edits/m123-272.tsv
+276	Q1	R1	line 7650 q244	(Tai. Brā. [1-2-10-1] [?])	(Tai. Brā. 1-7-10-1)	Kannada p.274	applied	edits/m123-272.tsv
+276	S3	R1	line 7664	(Pā. Sū. 6-1-[32])	removed	Kannada p.277 has no number there	applied	edits/m123-272.tsv
+276	Q2	R1	line 7662 q245	numerals as read [?]	clause dropped	Pā. Sū. 6-4-… numerals confirmed on Kannada p.276-277; 6-1-[32] removed (print has none)	applied	edits/m123-272.tsv
+276	Q2	R1	line 7664 (bracketed numeral)	(Pā. Sū. 6-4-[2]	(Pā. Sū. 6-4-2	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+280	S3	R1	line 7756	(Pā. Sū. 6-4-[51])	removed	Kannada p.280 has no number there	applied	edits/m123-272.tsv
+280	Q1	R1	line 7758	(Pā. Sū. 3-2-70)	(Pā. Sū. 3-2-90)	Kannada p.280	applied	edits/m123-272.tsv
+280	Q2	R1	line 7754 q248	numerals as read [?]	clause dropped	Pā. Sū. 1-2-47, 3-2-90 (and bracketed numerals) are those of Kannada p.280; 6-4-[51] removed (print has none)	applied	edits/m123-272.tsv
+280	Q2	R1	line 7756 (bracketed numeral)	(Pā. Sū. 1-2-[47]	(Pā. Sū. 1-2-47	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+280	Q2	R1	line 7760 (bracketed numeral)	(Pā. Sū. 3-1-[74]	(Pā. Sū. 3-1-74	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+283	Q2	R1	line 7837 q252	numerals as read [?]	clause dropped	Pā. Sū. 6-4-131, 8-3-60, 8-3-53, 3-3-113 are on Kannada p.283 in the same places; brackets removed	applied	edits/m123-272.tsv
+283	Q2	R1	line 7839 (bracketed numeral)	(Pā. Sū. 6-4-[131]	(Pā. Sū. 6-4-131	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+283	Q2	R1	line 7839 (bracketed numeral)	(Pā. Sū. 8-3-[60]	(Pā. Sū. 8-3-60	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+283	Q2	R1	line 7839 (bracketed numeral)	(Pā. Sū. 8-3-[53]	(Pā. Sū. 8-3-53	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+283	Q2	R1	line 7840 (bracketed numeral)	(Pā. Sū. 3-3-[113]	(Pā. Sū. 3-3-113	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+286	Q1	R1	line 7924 q255+q256	(Ṛ. Saṃ. [?]; Āśvalāyana Śrauta-sūtra [?])	(Ṛ. Saṃ. 2-4-1; Āśvalāyana Śrauta-sūtra 10-7)	Kannada p.286	applied	edits/m123-272.tsv
+286	Q1	R1	line 7924 q257	Sūkta 10-7 … (numerals read with doubt [?])	Sūkta 10-174	Kannada p.286	applied	edits/m123-272.tsv
+287	Q2	R1	line 7937 q259	numerals as read [?]	clause dropped	Pā. Sū. 1-105, 6-1-157 (from 6-1-156), 6-1-2 … confirmed on Kannada p.287; brackets removed	applied	edits/m123-272.tsv
+287	Q1	R1	line 7943	(Pā. Sū. 6-1-156)	(Pā. Sū. 6-1-157)	Kannada p.287	applied	edits/m123-272.tsv
+287	Q2	R1	line 7940 (bracketed numeral)	(Pā. Sū. 6-2-[106]	(Pā. Sū. 6-2-106	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+287	Q2	R1	line 7943 (bracketed numeral)	(Pā. Sū. 6-2-[140]	(Pā. Sū. 6-2-140	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+289	S3	R1	line 7998 q261	(Ni. [?-?] [?])	removed	Kannada p.289 has no number there	applied	edits/m123-272.tsv
+290	Q1	R1	line 8014 q262	(Ṛ. Saṃ. [1-?-?] [?])	(Ṛ. Saṃ. 1-44-14)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q1	R1	line 8018 q263	(Ṛ. Saṃ. [?-?-?] [?])	(Ṛ. Saṃ. 3-54-10)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q1	R1	line 8026 q266	(Ṛ. Saṃ. [?-?-?] [?])	(Ṛ. Saṃ. 6-50-2)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q1	R1	line 8030 q267	(Ṛ. Saṃ. [?-?-?] [?])	(Ṛ. Saṃ. 6-52-13)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q1	R1	line 8034 q268	(Ṛ. Saṃ. [?-?-?] [?])	(Ṛ. Saṃ. 7-66-10)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q1	R1	line 8038 q269	(Ṛ. Saṃ. [10-?-?] [?])	(Ṛ. Saṃ. 10-65-7)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q1	R1	line 8022 q264+q265	(Ṛ. Saṃ. [6-?-?] [?]) … (the second half is read with doubt [?])	(Ṛ. Saṃ. 6-21-11)	Kannada p.290	applied	edits/m123-272.tsv
+290	Q2	R1	line 8040 q270	(The seven citations … doubtful [?].)	remark removed	all seven references settled from Kannada p.290	applied	edits/m123-272.tsv
+291	Q2	R1	line 8057 q272	numerals as read [?]	clause dropped	Pā. Sū. 3-2-74, 3-2-171 and Ṛ. Saṃ. 1-44-14 are on Kannada p.291/290 in the same places; brackets removed	applied	edits/m123-272.tsv
+291	Q2	R1	line 8059 (bracketed numeral)	(Pā. Sū. 3-2-[74]	(Pā. Sū. 3-2-74	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+291	Q2	R1	line 8060 (bracketed numeral)	(Pā. Sū. 3-2-[171]	(Pā. Sū. 3-2-171	Kannada has the same number in the same place	applied	edits/m123-272.tsv
+242	Q2	R1	line 6756 q177+q178	१४ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 14 [?]*	१४ — *Aṣṭaka 1 · Adhyāya 6 · Varga 14*	Kannada p.242 has Varga 14	applied	edits/m123-272.tsv
+221	Q2	R1	line 6224 q137	"*(Running head left: ""A. 1 A. 6 Va. 13 "[?]"""; centre: ""Ṛgvedasaṃhitā""; right: 2	mark kept	running head of Kannada p.221 reads ಪ. ೨ (a non-number for Varga); neighbours pp.219 and 223 read 13; English 13 kept	kept	kn_misprints.tsv
+217	Q2	R1	line 6150 q128	avasaḥ prakṛṣṭabalopetā ata eva virapśino vividhaśabdopetāḥ [?] | yadvā | mahannāmaitat | mahānto hi vi	mark kept	Kannada p.217 reads vividhena jayaghoṣeṇopetāḥ (and viraṣyino) where the English has vividhaśabdopetāḥ; the base text is not edited	kept	decided_by_default.tsv
+217	Q2	R1	line 6150 q129	aktāyāṃ vāci | virapaṇaṃ virapśaḥ | ṇinādikaḥ śak-pratyayaḥ [?] | tadvanto virapśinaḥ | anānatāḥ | ānat	mark kept	Kannada p.217 reads auṇādikaḥ śaktyayaḥ and virapyanaḥ where the English has ṇinādikaḥ śak-pratyayaḥ; different words	kept	decided_by_default.tsv
+217	Q2	R1	line 6154 q131	and several sūtra wordings and numerals are read with doubt [?]; the first alternative on* virapśinaḥ *	mark kept	sūtra numerals on p.217 differ: English Pā. Sū. 3-4-711 (user numeral file) against Kannada p.218 pā. 7-4-21; wording of tail also doubtful; clause not cleared	kept	decided_by_default.tsv
+217	Q2	R1	line 6156 q132	efore *virapśinaḥ* — endowed with various cries [of praise] [?]. Or: this is a name for 'great': the gr	mark kept	translation of vividhaśabdopetāḥ; same place as q128 (Kannada reads jayaghoṣeṇa)	kept	decided_by_default.tsv
+222	Q2	R1	line 6264 q138	*he maruta upahvareṣūpagantavyeṣv asmākaṃ sannikṛṣṭeṣu [?] nabhasaḥ pradeśeṣu yad yadā yūyaṃ yayiṃ	mark kept	Kannada p.222 reads sannikṛpeṣu (non-word) where the English has sannikṛṣṭeṣu	kept	kn_misprints.tsv
+222	Q2	R1	line 6266 q141	 and the word before* meghāḥ ścotanti *are read with doubt "[?]; the tail runs on to p. 223.)*	mark kept	Kannada p.222 has non-words upahvartanyeṣu gaṃtavyeṣṭasmākaṃ sannikṛpeṣu for the clause the doubt is about	kept	kn_misprints.tsv
+223	Q2	R1	line 6282 q143	" wording and the sūtra after* ñittve *are read with doubt "[?]. The printed numeral at the end of this	mark kept	Kannada p.223 reads ṛci tunughetyādinā and has no sūtra number after jittve; the English "tuna…" wording and the end numeral "॥೩॥" cannot be confirmed	kept	kn_misprints.tsv
+225	Q2	R1	line 6334 q148	 not *pit* [as printed ""sārvadhātukam apit""], *jit*-ness "[?]"; in the Saṃhitā text, by ""ऋचि तुनुघमक	mark kept	Kannada p.225 reads ಜತ್ವ (jatva), a non-word, where the English has jit-ness (ṅit-ness)	kept	kn_misprints.tsv
+226	Q2	R1	line 6364 q149	 ity ādinā vidhīyamāno man bahulavacanād asmād api pravṛtti [?] … valādāv ārdhadhātuke vikalpa iṣyate |	mark kept	Kannada p.226 reads praṣṭavyaḥ (non-word in this place) where the English has pravṛtti; the Uṇādi number is not on the page either	kept	kn_misprints.tsv
+226	Q2	R1	line 6366 q150	ā reference and the clause on* vībhāva *are read with doubt [?].)*	mark kept	Kāśikā and vībhāva clause and Uṇ. Sū. number: Kannada p.226 has no number for the Uṇādi sūtra and the page numbers 1-28 differ; doubt not cleared	kept	decided_by_default.tsv
+230	Q2	R1	line 6458 q154	ṇāntodāttatvam | ayā īśāna ity eṣām adāditvāt prakṛtibhāvaḥ [?] | asi | puruṣavyatyayaḥ | ṛṇayāvā | yā 	mark kept	Kannada p.230 reads ayā īśāna ityatreṣā akṣāditvāt, different wording from the English (eṣām adāditvāt); the base text is not edited	kept	decided_by_default.tsv
+230	Q2	R1	line 6460 q155	āna *and the* anedyaḥ *rule are cramped and read with doubt [?].)*	mark kept	sūtra wording after ayā īśāna and the anedyaḥ rule: Kannada p.230 reads differently (eṣā akṣāditvāt); not cleared	kept	decided_by_default.tsv
+233	Q2	R1	line 6546 q160	pitur asmākaṃ janakasya rahūgaṇasya sakāśād yajjanmanā tena [?] vayaṃ vadāmasi | brūmaḥ | vakṣyamāṇaṃ v	mark kept	Kannada p.233 reads yajjanma tena (no nā) where the English has yajjanmanā tena	kept	kn_misprints.tsv
+234	Q2	R1	line 6554 q161	uns on; several clauses are compressed and read with doubt "[?]):*	mark kept	several clauses of the tail: Kannada p.234 reads na paryatyākṣu 8 and īdṛj cānyādṛj ca where the English has lacunae; omissions are not added	kept	decided_by_default.tsv
+234	Q2	R1	line 6558 q162	ūpayā stutyā yuktāḥ santa āśata prāpnuvan | [clause cramped [?]] ād it idam indraprāptyanantaram eva ya	mark kept	Kannada p.234 has a non-word (na paryatyākṣu 8) at the cramped clause; the English wording cannot be confirmed	kept	decided_by_default.tsv
+234	Q2	R1	line 6558 q163	]] ād it idam indraprāptyanantaram eva yajñiyāni yajñārhāṇi [?] cety evamādīni nāmānīndrasakāśāl labdhv	mark kept	Kannada p.234 adds īdṛj cānyādṛj ca after yajñārhāṇi (īdṛj a non-word); the English has no such words and the base text is not edited	kept	decided_by_default.tsv
+237	Q2	R1	line 6638 q168	 run to p. 238; the ""irayor…"" wording is read with doubt "[?].)*	mark kept	Kannada p.238 reads irayo ra itīrayo rebhāvaḥ; the English "irayor a iti … rebhāvaḥ" differs; not cleared	kept	decided_by_default.tsv
+243	Q2	R1	line 6786 q181	and the grammatical tail are compressed and read with doubt [?])*	mark kept	Nirukta citation is clean on Kannada p.243 (Ni. 11-13, 14) but the tail has Pā. 8-2-10 where the Sanskrit twin has Pā. Sū. 8-2; Sanskrit is derived data and is not hand-edited; clause not cleared	kept	decided_by_default.tsv
+243	Q2	R1	line 6792 q183	kti*)' and, after ""anye"", a second word read as* sphūjā *"[?]"; the clause ""tais tsvabhāvanīra…"" is	mark kept	Kannada p.243 reads ಸ್ಕೂಣಾ ಇತ್ಯನ್ಯೇ (skūṇā), the English has sphūjā; different word, not decidable	kept	decided_by_default.tsv
+243	Q2	R1	line 6792 q184	 the clause ""tais tsvabhāvanīra…"" is clotted and omitted "[?]"; ""rathebhir ātmīyai"" corrected on No	mark kept	Kannada p.243 has the clause as ತತ್ತ್ವಭಾವನೀರಯುಕ್ತೈಃ (tattvabhāvanīrayuktaiḥ), the English omits it; omissions are not added	kept	decided_by_default.tsv
+248	Q2	R1	line 6915 q192	the clause on* jaṅghananta *are cramped and read with doubt [?]"; ""ubhayavarṇopetai"" is read thus.)*"	mark kept	sūtra after varam and clause on jaṅghananta: Kannada p.248 reads grahavṛdanicitīti karaṇe 'p and has the clause differently; not cleared	kept	decided_by_default.tsv
+252	Q2	R1	line 7010 q196	ted in the print; read in part, the doubtful words left out [?]. Noted briefly: *vanā* — loss of *śi*; 	mark kept	Kannada p.252 has the middle of the tail (kṛṇavante … chandasyubhayathetyārdhadhātukatvena …) which the English leaves out; omissions are not added	kept	decided_by_default.tsv
+253	Q2	R1	line 7048 q200	यस्य"" … the *a* in place of the *v* [as read]; *kṛṇu + a* "[?]"; by ""अतो लोपः"" the loss of the *a*; 	mark kept	kṛṇu + a: Kannada pp.252-254 do not have the step; the place cannot be checked	kept	decided_by_default.tsv
+255	Q2	R1	line 7087 q202	 dense; the grammatical tail is compressed and read in part [?])*	mark kept	generic doubt on a compressed tail; Kannada p.255 tail present but the English tail is partial; omissions are not added	kept	decided_by_default.tsv
+259	Q2	R1	line 7191 q207	 few grammatical phrases are compressed and read with doubt [?].)*	mark kept	generic doubt on unnamed grammatical phrases; no place to check against Kannada p.259; omissions are not added	kept	decided_by_default.tsv
+261	Q2	R1	line 7241 q210	al acute. *(The reasoning on the augment is read with doubt [?].)*	mark kept	reasoning on the augment: the Kannada p.261 tail differs in wording; not decidable	kept	decided_by_default.tsv
+262	Q2	R1	line 7278 q211	dānīm ṛtvik ko kadety āha"" is clotted and read with doubt "[?].)*	mark kept	clause idānīm ṛtvik ko kadety āha: Kannada p.262/263 does not show it; omissions are not added	kept	decided_by_default.tsv
+264	Q2	R1	line 7334 q214	rinted; Kannada script converted letter by letter; numerals [?])**	mark kept	numerals of the Sanskrit note differ from the Kannada: Ai. Brā. 3-311 against Kannada p.265 3-31, anu-5 against p.264 anu 9-5; the Sanskrit is derived data and not hand-edited	kept	decided_by_default.tsv
+264	Q2	R1	line 7340 q215	his introduction is compressed and some wording is doubtful [?]"):* ""The fifth sūkta, *ā no bhadrāḥ*, 	mark kept	wording of the introduction: Kannada p.264 reads navakau vairājasraiṣṭubhaś ca where the English has navakā vairājas triṣṭubhaś; different wording, not decidable	kept	decided_by_default.tsv
+267	Q2	R1	line 7407 q221	*(compressed; sūtra and numeral partly clotted [?]).* *Noted briefly:* *vṛdhe* — *kvip* in	mark kept	U. Sū. 12-39 of the tail is not in the Kannada Sāyaṇa text p.267 and the Prakriyā p.269 has Uṇ. Sū. 1-3 for the same sūtra; Sanskrit twin is derived data; not cleared	kept	decided_by_default.tsv
+268	Q2	R1	line 7437 q232	cts'."" *(Sanskrit of Skandasvāmin as read, partly clotted "[?].)*	mark kept	Skandasvāmin Sanskrit: Kannada p.268 reads udbhinnāmaikāhaḥ | tatpṛtayaḥ where the English has a clotted ending; not decidable	kept	decided_by_default.tsv
+270	Q2	R1	line 7489 q235	edima *and the Uṇādi number are cramped and read with doubt [?].)*	mark kept	Kannada p.270 has the clause on sedima longer and reads liṭ where the English has liṅ [as printed]; omissions are not added; Uṇ. 2-28 and anuṣṭhātāraṃ confirmed but the clause is not cleared	kept	decided_by_default.tsv
+273	Q2	R1	line 7574 q239	""āgrāyaṇavābhastrātmāv"") are clotted and read with doubt "[?]; the Taittirīya numerals [?].)*	mark kept	āgrāyaṇavābhastrātmāv: Kannada p.274 reads ārṇavābhastatkāvaśvinau, a different wording; the Yāska passage is not cleared	kept	decided_by_default.tsv
+282	Q2	R1	line 7798 q250	 dense; the grammatical tail is compressed and read in part [?])*	mark kept	generic doubt on a compressed Sāyaṇa tail (Rik 89.5); omissions are not added	kept	decided_by_default.tsv
+285	Q2	R1	line 7895 q254	to"" and the sūtra numbers are cramped and read with doubt "[?].)*	mark kept	asun-nutpattyayānto and the sūtra numbers: Kannada p.285 wording not confirmable; not cleared	kept	decided_by_default.tsv
