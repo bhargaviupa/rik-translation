@@ -285,6 +285,9 @@ def cmd_check(a):
     dk,de=doubts(kn),doubts(enf)
     if cfg.d.get('doubt_check')=='kn_only':        # Vol 26 pp. 810-894: the supplied text itself carries [?] (scan reading); the Kannada file keeps them, the English has **NOTE** instead
         if de: fail.append(f'[?] in the English text ({len(de)}): write **NOTE**{{question}} instead')
+    elif note_style(cfg) and cfg.d.get('scan_read'):   # a volume read from scans (Vol 25 on): each [?] of kn.md must be covered by a **NOTE** of en.md, none may stand in en.md
+        nn=len(NOTE_RE.findall(raw))
+        if len(de)>0 or len(dk)>nn: fail.append(f'[?] left: {len(dk)} in kn.md but {nn} **NOTE** in en.md, {len(de)} [?] in en.md (each [?] of kn.md needs its own **NOTE**{{question}}; none may stand in en.md)')
     elif len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
     knr=re.sub(r'(?<=[೦-೯])[ \n]+(?=[೦-೯]{1,4}[-)])','-',knr)     # a reference whose hyphen the print lost at a space or line break (೬ ೪-೧೦೨ / ೩-೨⏎೧೦೬): the same number (Vol 11)
@@ -403,6 +406,9 @@ def audit(cfg,expect_clean=True):
         if q(kn)>q(en): pr.append(f"more [?] in the Kannada file than in the English: English {q(en)}, Kannada {q(kn)}")
     elif cfg.d.get('doubt_check')=='kn_only':
         if q(en): pr.append(f"[?] in the English file ({q(en)}): the English carries **NOTE** instead")
+    elif cfg.d.get('scan_read'):                      # scan-read volume: the English carries a **NOTE** for each [?] of the Kannada (none may stand in the English)
+        nn=len(re.findall(r'\*\*NOTE\*\*',en))
+        if q(en)>0: pr.append(f"[?] in the English file: {q(en)}")
     elif q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
     if note_style(cfg):
         nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0

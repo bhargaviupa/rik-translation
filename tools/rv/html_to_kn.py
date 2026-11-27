@@ -69,6 +69,7 @@ def is_latin(l):
 def stray(l):
     if re.match(r'(This|The) image (contains|is|shows)',l) or re.fullmatch(r'Pages?: ?\d+/\d+',l): return True
     if re.fullmatch(r'[\[(]?\s*\d{1,3}\s*[\])]?\s*Vol\.?\s*\d+\s*\]?|[\[(]\s*\d{1,3}\s*[\])]',l): return True
+    if re.fullmatch(r'[\[(]?\s*[ivxl]{1,5}\.?\s*\d{1,3}\s*[\])]?',l): return True   # gathering signature 'xxv. 52' / '[ xxv. 2 ]' (Vol 25, hand-removed 5 times)
     return bool(not re.search(KN+'|[A-Za-z]{2}',l) and not re.search(r'[೦-೯0-9]',l) and len(l)<=12 and not re.fullmatch(r'[॥।\s]+',l))
 _REF={}
 def ref_index(mandalas):
@@ -160,7 +161,7 @@ def kn_page(printed,head,text,section=None,st=None):
             rid=verse_start(l,ref,st.get('last'),True) or verse_start(l,ref,None,True); st['fresh']=False
             if rid: st['last']=rid
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
-        if section=='bhashya' and re.match(r'ಅನುವಾದ(ವು)?\s*[—-]',l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times
+        if section=='bhashya' and (re.match(r'ಅನುವಾ[ದಕ](ವು)?(\s*[—-]|\s)',l) or 'ಎಂಬ ಈ ಸೂಕ್ತವು' in l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times; Vol 25 (Nov 26 2026): also 'ಅನುವಾಕವು—' (misprint) and 'ಅನುವಾದವು ಪರಿಪ್ರಿಯಾ ಎಂಬ' without a dash, and an Anuvāda with no heading word at all ('… ಎಂಬ ಈ ಸೂಕ್ತವು …'), hand-fixed three times (Sūktas 4, 9, 16)
         TR(st,i,'blk' if section in BLOCK and not st.get('plain') else 'txt',section)
         out.append(('> '+l) if section in BLOCK and not st.get('plain') else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]
