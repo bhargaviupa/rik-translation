@@ -130,7 +130,21 @@ def kind_asprinted2(L):
         n = ASP.sub(lambda m: m.group(0) if re.search('[\u0900-\u097f*]|sic|^\\s?\\[\\?', m.group(0)) else '', l)
         if n != l: rm[i] = n
     return rm
-KINDS = {'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+
+READING = re.compile(r"^(?:Reading notes?\b|Re-?read\b|The (?:print|better scan|IAST acutes|heading block|Saṃhitā prints|Pada (?:prints|is|reads)|second pāda)|Pass:|\[accent \?\]|Printing marks|Varga numerals|Sūkta numbers were read|The abbreviation letters|[^ ]+ is clear|The words )")
+def kind_reading(L):
+    """whole-line remarks about how the print was read (Vol 5, Nov 27 2026): *( Reading note: ... )*, *(Re-read at 330 dpi ...)*, *(The print reads ...)* ...
+    NOT the grammatical tails (*(The tail ...)*, *(The grammatical tail ...)*), which hold the grammar, nor labels like *(continuing Varuṇa)*."""
+    rm = {}
+    for i, l in enumerate(L):
+        m = re.fullmatch(r'\s*>?\s*\*[(\[](.*)[)\]]\*\s*', l)
+        if not m: continue
+        body = m.group(1).strip()
+        if re.match(r'(?:The (?:grammatical )?tail|The Vyākaraṇa|The grammar of|The rest of|The Special Topics|The Pratipadārtha|The bhāṣya of)', body): continue
+        if READING.match(body): rm[i] = None
+    return rm
+
+KINDS = {'reading': kind_reading, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
