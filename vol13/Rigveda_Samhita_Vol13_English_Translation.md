@@ -3716,6 +3716,156 @@ By the sentence तव हि प्रेष्ठा (*tava hi preṣṭhā*) 
 > अयुज्रन् । ते । इंद्र । विश्वकृष्टीः । विदानासः । निःसिधः । मर्त्यत्रा ।  
 > मरुतां । पृत्सुतिः । हासमाना । स्वमीळहस्य । प्रधनस्य । सातौ ॥ २ ॥
 
+### Printed p. 151
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रे मरुतामिंद्रसाहाय्यमुक्तं । अत्रेंद्रस्य मरुत्साहाय्यमुच्यते । हे इंद्र ते मरुतोऽयुजन् । युज्यंते । त्वया युक्ता भवंतीत्यर्थः ।
+> कीदृशास्ते । विश्वकृष्णीर्विश्वकृष्टयो राज्यत्वेन सर्वजनवंतः । किंच मर्त्यत्रा
+> मर्त्येषु मर्त्यार्थं निष्पिधो निःशेषेणोदकस्य सेत्यन्नेघान्विदानासो
+> जानानाः । किंच येषां मरुतां पृत्सुतिः सेना स्वर्माळस्य प्रधनस्य सुखसेक्तुः
+> प्रकृष्णधनवतो वृत्रादिसंग्रामस्य सातौ लाभे जये निमित्तभूते सति सेना हासमाना हासं कुर्वती हर्षयुक्ता भवति । यद्वा । सुखेन मिह्यते जलं यस्मिन्
+> तादृशस्य प्रधानस्य प्रकृष्टोदकाख्यधनसाधनस्य संग्रामस्य सातौ । मेघभेदनायेति
+> यावत् । येषामिवृशी सेनास्ति ते मरुतोऽयुजन्निति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+In the previous mantra the Maruts' help to Indra was stated; here Indra's help from the Maruts is stated. "O Indra, the Maruts are yoked (अयुज्रन् (*ayujran*)), that is, they become joined with you." What are they like? विश्वकृष्टीः (*viśvakṛṣṭīḥ*) is explained as विश्वकृस्टयः (*viśvakṛsṭayaḥ*): by way of sovereignty they have all people. Further, मर्त्यत्रा (*martyatrā*) means among mortals, for the sake of mortals; they are विदानासः (*vidānāsaḥ*), knowing the clouds that pour out water without remainder. Further, the Maruts' host (पृत्सुतिः (*pṛtsutiḥ*), the army) becomes joyful, laughing, when victory is to be won in the battle against Vṛtra and others, which is स्वर्माळस्य (*svarmāḷasya*), a giver of happiness, and प्रधनस्य (*pradhanasya*), one with excellent wealth. Alternatively: a battle in which water is sprinkled easily, a means of winning the excellent wealth called water; that is, for the splitting of the cloud. The connection is: those whose army is such, those Maruts are joined (with you).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- मरुतां (*marutāṃ*)—of which Marut deities
+- पृत्सुतिः (*pṛtsutiḥ*)—the army
+- स्वर्मिळस्य (*svarmiḷasya*)—heaven-bestowing (happiness-bestowing)
+- प्रधनस्य (*pradhanasya*)—of one with excellent wealth (in the battle with Vṛtra and others)
+- सातौ (*sātau*)—in the matter of gain (victory) obtained by you
+- [or स्वर्मिळस्य (*svarmiḷasya*)—having water easily obtained; प्रधनस्य (*pradhanasya*)—of the cloud possessing the excellent wealth in the form of water; सातौ (*sātau*)—in the matter of the victory you win]
+- हासमाना (*hāsamānā*)—is laughing
+- ते (*te*)—such
+- विश्वकृष्टीः (*viśvakṛṣṭīḥ*)—possessing all people
+- मर्त्यत्रा (*martyatrā*)—for men
+- निष्विधः (*niṣvidhaḥ*)—the clouds that pour out much water
+- विदानासः (*vidānāsaḥ*)—the Marut deities who know
+- अयुज्रन् (*ayujran*)—join (with you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Marut deities, who are lords over all people (masters of all men) and who impel the rain-making clouds for the sake of men, remain with you alone; through the victory over Vṛtra and others that you accomplish, or through the splitting of the cloud, these Maruts become delighted.
+
+##### English translation (H. H. Wilson)
+Rulers over all men, and impelling towards man the water-shedding clouds, they are united, Indra, (with you) : the host of Maruts is delighted by (your) acquisition of heaven-bestowing wealth.
+
+### Printed p. 152
+
+##### विशेषविषयगळु (Special Topics)
+
+Since the help Indra gave the Maruts was stated in the previous mantra, the help Indra receives from the Maruts is stated in this mantra.
+
+विश्वकृष्टीः (*viśvakṛṣṭīḥ*)—Sāyaṇa changes this word into विश्वकृस्टयः (*viśvakṛsṭayaḥ*), a word ending in the nominative plural, and explains राज्यत्वेन सर्वजनवंतः (*rājyatvena sarvajanavaṃtaḥ*): the Marut deities regard everything as their kingdom, and with the thought that everything is the object of their protection, they stay with a uniform affection toward all creatures.
+
+मर्त्यत्रा निष्पिधः विदानासः (*martyatrā niṣpidhaḥ vidānāsaḥ*)—he also describes the meaning as मर्त्यार्थं निश्येषेण उदकस्य सेक्त्र्यन् मेघान् विदानासः जानानाः (*martyārthaṃ niśyeṣeṇa udakasya sektryan meghān vidānāsaḥ jānānāḥ*): they remain knowing that the clouds pour down waters for the prosperity of men.
+
+मरुतां पृत्सुतिः प्रधनस्य सात् हासमाना (*marutāṃ pṛtsutiḥ pradhanasya sāt hāsamānā*)—for the word पृत्सुति (*pṛtsuti*) the meaning "army" is given; the word प्रधन (*pradhana*) has been explained by the Nirukta-author:
+न्यक्रंदयन्नु पयंत एनममेहयन्वृषभं मध्य आजेः । तेन सूभव० शतवत्सहस्रं गवां मुद्गलः प्रधने जगाय । (*nyakraṃdayannu payaṃta enamamehayanvṛṣabhaṃ madhya ājeḥ | tena sūbhava0 śatavatsahasraṃ gavāṃ mudgalaḥ pradhane jagāya |*)
+(Ṛ. Saṃ. 10-12-5)
+Here "प्रधन (*pradhana*) is a name of battle; in it wealth is scattered about"; because wealth is spent here in great measure, battle is the meaning of the word प्रधन (*pradhana*). Following the meaning of the Nirukta-author, Sāyaṇa describes it as "battle", and takes it as productive of happiness: सुखसेकुः प्रकृष्टधनवतो वृत्रादिसंग्रामस्य लाभे जये निमित्तभूते सति सेना हर्षयुक्ता भवति (*sukhasekuḥ prakṛṣṭadhanavato vṛtrādisaṃgrāmasya lābhe jaye nimittabhūte sati senā harṣayuktā bhavati*). He explains the meaning thus: the army of the Marut deities is joyful because victory is to be gained in the battle to be fought with Vṛtra and other asuras, rich in abundant wealth, a producer of happiness.
+
+In the second meaning, since the word स्वर्मिक्षस्य (*svarmikṣasya*) is an adjective of the word प्रधनस्य (*pradhanasya*), [Sāyaṇa says] सुखेन मिह्यते जलं यस्मिन् तादृशस्य प्रधनस्य प्रकृष्टोदकाख्यधनसाधनस्य संग्रामस्य सात् मेघभेदनाय (*sukhena mihyate jalaṃ yasmin tādṛśasya pradhanasya prakṛṣṭodakākhyadhanasādhanasya saṃgrāmasya sāt meghabhedanāya*). The meaning is laid out: the army of the Marut deities stands ready to help Indra for the battle in the form of the splitting of the cloud, which is the cause of obtaining the wealth called water, a setting in which water is obtained easily.
+
+### Printed p. 153
+
+##### Grammar
+
+- आयुज्रन्—युजिर् योगे धातुः । छांदसत्वाद् वर्तमानार्थे लज् । कर्मणि व्यत्ययेन विकरणस्य लुक् । प्रथमपुरुषबहुवचने झेरंतादेशः । इकारलोपः । बहुलं छंदसि इति तस्य रुट् आगमः । अंगस्य अडागमः । पादादित्वान्निघातस्वरो न भवति । आद्युदात्तं भवति ।
+- विश्वकृष्टीः—विश्वे सर्वे कृष्टयो जना यस्य सः । बहुव्रीहौ प्रकृत्या पूर्वपदं इति पूर्वपदप्रकृतिस्वरो भवति । जसि परे सुपां सुलुक् (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घो भवति ।
+- विदानासः—विद ज्ञाने धातुः । लटः शानचादेशः । विकरणस्य लुक् । प्रत्ययस्य जित्त्वातिदेशात् लघूपधगुणो न भवति । चितः (पा. सू. ६-१-१६३) इत्यंतोदात्तस्वरो भवति । जसि परे आज्जसेरसुक् (पा. सू. ७-१-५०) इत्यसुक् आगमः ।
+- निष्षिधः—षिध गत्यां धातुः । क्विप् प्रत्ययः । प्रादिसमासे कृन्मत्तरपदप्रकृतिस्वरो भवति । द्वितीयाबहुवचनांतरूपं ।
+- मर्त्यत्रा—देवमनुष्यपुरुषपुरुमर्त्येभ्यो द्वितीयासप्तम्योर्बहुलं त्रल् (पा. सू. ५-४-५६) इति सप्तम्यंतात् त्रा प्रत्ययः । प्रत्ययस्वरेणांतोदात्तं भवति । **NOTE**
+- हासमाना—हसे हसने धातुः । लटः शानचादेशः । प्रत्ययादुपधावृद्धिः । लसार्वधातुकं तास्यनुदात्तेत् इति सूत्रेणानुदात्तत्वाद् धातुस्वरः शिष्यते ।
+- स्वर्मिळस्य—मिह सेचने धातुः । निष्ठा इति क्तप्रत्ययः । होढः (पा. सू. ८-२-३१) इति हकारस्य ढत्वं । झुषस्तथोः इति तकारस्य धत्वं । तस्य ष्टुत्वे जाते ढोढे लोपः (पा. सू. ८-३-१३) इति पूर्वढकारस्य लोपः । ढ्रलोपे पूर्वस्य (पा. सू. ६-३-१११) इति पूर्वस्य दीर्घः । न्यङ्स्वरौ स्वरितौ इति स्वर् इति स्वरितो भवति । बहुव्रीहिसमासे पूर्वपदप्रकृतिस्वरो भवति । षष्ठ्येकवचनांतरूपं ।
+- सातौ—षणु दाने । ऊतियूति (पा. सू. ३-३-९७) इति क्तिन् उदात्तो निपातितः । सप्तम्येकवचनांतरूपं ॥ २ ॥
+
+### Printed p. 154
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमृ॒क्सा त॑ इंद्र ऋ॒ष्टिर॒स्मे सने॒म्यभ्वं॑ म॒रुतो॑ जनंति ।  
+> अ॒ग्निश्चि॒द्धि स्मा॑त॒से शु॑शु॒क्वानापो॒ न द्वी॒पं दध॑ति॒ प्रयां॑सि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अम्यक् । सा । ते । इंद्र । ऋष्टिः । अस्मे इति । सनेमि । अभ्वं । मरुतः । जुनंति ।  
+> अग्निः । चित् । हि । स्म । अतसे । शुशुक्वान् । अपः । न । द्वीपं । दधति । प्रयांसि ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रते तव सा प्रसिद्धा ऋष्टिर्वज्राख्यायुधविशेषोऽस्मे अस्मद्वृष्ट्यर्थमम्यक् । प्राप्नोति मेघसमीपे । एवं च सति मरुतोऽपि सनेमि । आह्न्यायेति
+> षट् पुराणनामानीत्युक्तत्वात्सनेमाति पुराणनाम । पुराणं चिरकालं संगृहीतमभ्वमुदकं जुनंति । क्षिपंति । वर्षंतीत्यर्थः । वृष्ट्या सस्यादिसमृद्धौ सत्यामग्निश्चिद्दि
+> ष्म । हि स्मेति पूरणे । अग्निरप्यतसे संतते कर्मणि निमित्तभूते सति शुशुक्वान्दीप्यमानो वर्तते । पश्चा प्रयांसि चरुपुरोडाशादिहवींषि दधति । धारयंति ददति वा
+> यजमानाः । किमिव आपो न द्वीपं । द्विपार्श्वस्थोदकवान्सर्वतादिर्द्वीपः । तं
+> यथापो धारयंति तद्वत् । यद्वा। आयुधमेवोच्यते। वज्राख्यायुधविशेषोतसे
+> काष्ठसमूहे शुशुक्वान्दीपयन्नग्निश्चित् । चिच्छब्द उपमार्थे वधि चिदित्युपमार्थे ।
+> नि. १-४ । इति यास्केनोपमार्थस्योक्तत्वात् ॥ काष्ठे ज्वलन्नग्निरिव । तद्दद्दीप्तो
+> वर्तते । एतदेव दीप्तत्वमपेक्ष्य सेत्युक्तं । एवं च सत्यापो द्वीपमिव वृष्टुदकानि प्रयांसि सस्याद्यन्नानि दधति । धारयंति । एतत्सर्वं महानुभावस्येंद्रस्यर्प्पेः
+> सामर्थ्यमितींद्रस्य स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, that well-known ऋष्टि (*ṛṣṭi*) of yours, the special weapon called vajra, reaches (अम्यक् (*amyak*)) the neighbourhood of the cloud for the sake of our rain. This being so, the Maruts too cast down (जुनंति (*junaṃti*), that is, rain) the अभ्वं (*abhvaṃ*), water, long since collected (सनेमि (*sanemi*))." He supports this by the statement that "सनेमि (*sanemi*) is a name for 'ancient'", since the six ancient names beginning with अह्नाय (*ahnāya*) are listed. When crops and the like flourish through the rain, even Agni (हि स्म (*hi sma*) being expletive) blazes (शुशुक्वान् (*śuśukvān*)) for the continuous rite (अतसे (*atase*)); afterwards the sacrificers hold or give the oblations (प्रयांसि (*prayāṃsi*)), such as cooked rice and cakes. Like what? आपो न द्वीपं (*āpo na dvīpaṃ*): द्वीप (*dvīpa*) is a mountain or the like with water on both sides; as waters hold it, so.
+
+Alternatively, the weapon itself is meant: the special weapon called vajra, like fire blazing in a heap of wood (अतसे (*atase*)). The word चित् (*cit*) is used in the sense of comparison, since Yāska has said so: चिदित्युपमार्थे (*cidityupamārthe*) (Ni. 1-4). As fire burning in wood, so it is blazing. Having regard to this very brilliance, सा (*sā*) is said. This being so, the waters, like an island, bear the foods, the crops and so on, that is, the rain-waters hold them. All this is the power of the greatly glorious Indra's ऋष्टि (*ṛṣṭi*); thus it is praise of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- ते (*te*)—your
+- सा (*sā*)—that well-known
+- ऋष्टिः (*ṛṣṭiḥ*)—vajra weapon
+- अस्मे (*asme*)—for us (to produce rain)
+- अम्यक् (*amyak*)—approaches (the clouds)
+- मरुतः (*marutaḥ*)—the Marut deities
+- सनेमि (*sanemi*)—long since (collected)
+- अभ्वं (*abhvaṃ*)—water
+- जुनंति (*junaṃti*)—cast down (pour down)
+- अग्निः चित् हि स्म (*agniḥ cit hi sma*)—Agni also
+
+### Printed p. 155
+- अतसे (*atase*)—for the continuous (sacrificial rite)
+- शुशुक्वान् (*śuśukvān*)—blazing (he is)
+- आपः (*āpaḥ*)—waters
+- द्वीपं न (*dvīpaṃ na*)—as if holding an island (that is, encircling)
+- प्रयांसि (*prayāṃsi*)—oblations (cooked rice, cakes and the like)
+- दधति (*dadhati*)—hold (offer)
+- [or (ऋष्टिः (*ṛṣṭiḥ*)—the vajra weapon) अतसे (*atase*)—in a heap of wood; शुशुक्वान् (*śuśukvān*)—blazing; अग्निः चित् (*agniḥ cit*)—like fire (it blazes); आपः (*āpaḥ*)—waters; दीपं न (*dīpaṃ na*)—as if covering an island; प्रयांसि (*prayāṃsi*)—food in the form of crops and the like; दधति (*dadhati*)—hold (cover)]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your weapon called vajra approaches (the clouds) for us (in order to shed rain); Agni too is blazing for the sacrificial rite; (the sacrificers) stand round Agni with oblations of cooked rice, cakes and the like, as waters surround an island.
+
+##### English translation (H. H. Wilson)
+Your weapon, Indra, is at hand for our (good); the Maruts send down the long-accumulated rain; Agni is blazing for the ceremony; the oblations encompass him as the waters (surround) an island.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋष्टिः अस्मे अम्यक् (*ṛṣṭiḥ asme amyak*)—here Indra is addressed. For the word ऋष्टि (*ṛṣṭi*) he gives the meaning वज्राख्यायुधविशेषः (*vajrākhyāyudhaviśeṣaḥ*), Indra's weapon famed under the name of the vajra weapon, and describes the meaning of अस्मद्वृष्ट्यर्थं मेघसमीपे प्राप्नोति (*asmadvṛṣṭyarthaṃ meghasamīpe prāpnoti*): that weapon is employed near the clouds, so that for us the sacrificers the waters of rain may be poured down. The Nirukta-author, explaining the word अम्यक् (*amyak*), quotes this very Ṛk अम्यक् सा त इंद्र ऋष्टिरस्मे सनेम्यभ्वं (*amyak sā ta iṃdra ṛṣṭirasme sanemyabhvaṃ*) and comments अमाक्तेशि वा अभ्युक्तेशि वा (*amākteśi vā abhyukteśi vā*). Durgācārya explains the sense: ऋष्टिरभिधेया मां एषा प्रत्यंचि तामामेषाप्रत्यंचितेति क्षिप्तेशि शत्रवः मन्यंते (*ṛṣṭirabhidheyā māṃ eṣā pratyaṃci tāmāmeṣāpratyaṃciteti kṣipteśi śatravaḥ manyaṃte*): enemies think that Indra's weapon called ऋष्टि (*ṛṣṭi*) is directed against them; and नित्यकालं शत्रून् प्रति अभिगतैव-भवतीशि अम्यगित्युच्यते (*nityakālaṃ śatrūn prati abhigataiva-bhavatīśi amyagityucyate*): because it is always used against enemies it is known as अम्यक् (*amyak*).
+
+मरुतः सनेमि अभ्वं जुनंति (*marutaḥ sanemi abhvaṃ junaṃti*)—चिरकालं संगृहीतं उदकं वर्षंति (*cirakālaṃ saṃgṛhītaṃ udakaṃ varṣaṃti*). When Indra's weapon called ऋष्टि (*ṛṣṭi*) is applied near the cloud, the waters the clouds have long collected are made to fall out and rain is produced. This is the meaning given.
+
+### Printed p. 156
+The word अभ्व (*abhva*) is read both among the names of water (Ni. 2-24) and among the names of "great" (Ni. 3-13); here the meaning "water" is given.
+
+The word सनेमि (*sanemi*), though listed among the names for "ancient" (Ni. 3-20), is shown in the sense क्षिप्रं (*kṣipraṃ*) in the Ṛk
+शं नो भवंतु वाजिनो हवेषु देवताता मितद्रवः स्वर्काः । जंभयंतोऽहिं वृकं रक्षांसि सनेम्यस्मद्युयुवन्न मीवाः ॥ (*śaṃ no bhavaṃtu vājino haveṣu devatātā mitadravaḥ svarkāḥ | jaṃbhayaṃto 'hiṃ vṛkaṃ rakṣāṃsi sanemyasmadyuyuvanna mīvāḥ ‖*)
+(Ṛ. Saṃ. 7-38-7)
+Of the two meanings the Nirukta-author gives for सनेमि (*sanemi*), "ancient, of very early time" and क्षिप्र (*kṣipra*) (swift), Sāyaṇa accepts "ancient" alone. In his commentary he says सनेमि अह्नाय इति षट् पुराणनामानि इत्युक्तत्वात् सनेमि इति पुराणनाम पुराणं चिरकालं संगृहीतं (*sanemi ahnāya iti ṣaṭ purāṇanāmāni ityuktatvāt sanemi iti purāṇanāma purāṇaṃ cirakālaṃ saṃgṛhītaṃ*): because it is read in the Nirukta among the six names for "ancient", he justifies the meaning "ancient (old)" for सनेमि (*sanemi*) and explains that the waters were accumulated for a very long time.
+
+Two kinds of meaning are given for the second half of this Ṛk. Both arise from the expletive and comparative senses of the word चित् (*cit*) in अग्निश्चिद्भिष्ट (*agniścidbhiṣṭa*). **NOTE** In the first meaning the word Agni is the subject. *atase saṃtate karmaṇi nimittabhūte sati śuśukvān*: after the crops have arisen through rain and the like, Agni shines brilliantly on account of rites such as sacrifice; and to satisfy the Agni thus shining, प्रयांसि दधति चरुपुरोडाशादिहवींषि धारयंति ददति वा यजमानाः (*prayāṃsi dadhati carupuroḍāśādihavīṃṣi dhārayaṃti dadati vā yajamānāḥ*): the sacrificers hold the oblations, or offer them in the fire. The oblations held by the sacrificers are compared आपो न द्वीपं (*āpo na dvīpaṃ*), as waters hold an island. The meaning of the word द्वीप (*dvīpa*) is made plain as द्विपार्श्वस्थोदकवान् पर्वतादिः (*dvipārśvasthodakavān parvatādiḥ*), a tract of land surrounded by water on both sides; and the mode of comparison is described: तं यथा अपो धारयंति (*taṃ yathā apo dhārayaṃti*), as waters hold an island, so the oblation is held between Agni and the sacrificers.
+
+The Nirukta-author, explaining the particle चित् (*cit*), says चिदित्येषो अनेककर्मा (*cidityeṣo anekakarmā*): the particle चित् (*cit*) is used in many senses; and then explains them
+
 ---
 
-**Progress note:** Done through printed p. 150. pp. 145-150 (batch API)
+**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
