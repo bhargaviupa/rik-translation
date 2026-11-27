@@ -6,7 +6,7 @@
 - **Pages read:** 100 (300–309, 2–31, 32–61, 62–91)
 - **Findings:** 232 — applied 203, kept/not applied 29 (English kept: misprints and doubts settled by rule; see part 5); edits ok 214, failed 0
 - **Reader tokens (batches so far):** 812k; per page 8.1k
-- **Last commit:** (this commit)
+- **Last commit:** 9d18ba97
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
@@ -14,7 +14,7 @@
 | 1 | 300–309 | 35 | 30 | 38 / 0 | 5 | 180k | e889856a | pilot; 27 [?] seen, 22 resolved from the Kannada, 5 kept (inside our remarks) |
 | 2 | 2–31 | 24 | 14 | 17 / 0 | 10 | 157k | 1119c0fb | pp. 2-3 read in full; pp. 4-31 script-assisted (numbers, refs, all 19 [?]) not read as prose: re-read later; 19 [?] seen, 6 removed, 13 kept |
 | 3 | 32–61 | 96 | 87 | 87 / 0 | 9 | 251k | c53f4019 | all pages read; 68 of 87 edits add sutra numbers the Kannada prints; 17 [?] seen, 0 removed (Kannada non-words), 17 kept |
-| 4 | 62–91 | 77 | 72 | 72 / 0 | 5 | 224k | (this commit) | all pages read; 41 edits add sutra numbers; 8 [?] seen, 5 removed, 3 kept (in remarks) |
+| 4 | 62–91 | 77 | 72 | 72 / 0 | 5 | 224k | 9d18ba97 | all pages read; 41 edits add sutra numbers; 8 [?] seen, 5 removed, 3 kept (in remarks) |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
