@@ -6175,6 +6175,121 @@ here व्यसना (*vyasanā*) is explained as युवासा (*yuvās
 
 वृषणः (*vṛṣaṇaḥ*) is explained as सेक्तारः पुरुषाः (*sektāraḥ puruṣāḥ*), and in many other places likewise the word is used in senses that indicate the masculine and show the power of the male creature. And further—
 
+### Printed p. 253
+In verses such as वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन् । (*vṛṣā vāṃ megho vṛṣaṇā pīpāya gorna seke manuṣo daśasyan |*) (Ṛ. Saṃ. 1-181-8), दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीरररुं शूर मर्त्यं (*dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cidyāvīrararuṃ śūra martyaṃ*) (Ṛ. Saṃ. 1-129-3) and ता तू ते सत्या तुविन्नम्म विश्वा प्र धेनवः सिस्रते वृष्ण ऊध्नः । (*tā tū te satyā tuvinnamma viśvā pra dhenavaḥ sisrate vṛṣṇa ūdhnaḥ |*) (Ṛ. Saṃ. 4-22-6), the word is used in the sense of sprinkling: "one who rains", "one who showers the desired objects", that is, वर्षकः, वर्षणपरमनस्कः (*varṣakaḥ, varṣaṇaparamanaskaḥ*). Other meanings do appear here and there, but throughout, the principal sense of the word वृष्ण (*vṛṣṇa*) is extraordinary strength and virility.
+
+In many verses, such as आ ह्यायस्व समेतु ते विश्वतः सोम वृष्ट्यं (*ā hyāyasva sametu te viśvataḥ soma vṛṣṭyaṃ*) (Ṛ. Saṃ. 1. 91. 16), महा असि महिष वृष्ट्येभिर्धनस्पृदुग्र सहमानो अन्यान् (*mahā asi mahiṣa vṛṣṭyebhirdhanaspṛdugra sahamāno anyān*) (Ṛ. Saṃ. 3. 46. 2) and वि चर्मणेव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ट्यं (*vi carmaṇeva dhiṣaṇe avartayadvaiśvānaro viśvamadhatta vṛṣṭyaṃ*) (Ṛ. Saṃ. 6. 8. 3), the word वृष्ण (*vṛṣṇa*) commonly means virility and valour. Further, since the word वृषन् (*vṛṣan*) is in many contexts used as a synonym of Indra and other deities, in such places one must infer from the context which deity is meant.
+
+In अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वृषा (*apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī | ni yatsīṃ śiśnathadvṛṣā*) (Ṛ. Saṃ. 4-30-10) one may infer that it is a synonym of Indra. But in many places it raises doubt as to which deity is meant. Sometimes even Sāyaṇācārya shows doubt in the present verse, and his explanation when interpreting this epithet is not so precise.
+
+In वृषा छंदुर्भवति हठ्यतो वृषा क्षेमेण थेसां मघवा यदिन्वति (*vṛṣā chaṃdurbhavati haṭhyato vṛṣā kṣemeṇa thesāṃ maghavā yadinvati*) (Ṛ. Saṃ. 1-55-4)
+### Printed p. 254
+and in the present verse, as he explains the word वृषा (*vṛṣā*) he first says वृषाहविषां वर्षयिता यजमानः (*vṛṣāhaviṣāṃ varṣayitā yajamānaḥ*) and then यद्वा वृषा-इंद्रः (*yadvā vṛṣā-iṃdraḥ*), thus giving room for doubt. Since the word is used in many senses, in each context one must understand the sense suited to it. In explaining this word, full of nuance, the English commentator Max Muller describes the depth of the ideas expressed by it as follows.
+
+##### English translation (H. H. Wilson)
+In वृषन् (*vṛṣan*) we have one of those words which it is almost impossible to transalate accurately. It oceurs over and over again in the Vedic hymns and if we once know the various ideas which it either expresses or implies we have little difficulty in understanding its import in a vague and general way though we look in vain for corresponding terms in any modern language and we shall see how difficult it would be to translate such terms without losing either the key-note that was still sounding, or the harmonies which were set vibrating by it in the minds of the poets and their listeners [S B.E. vol. XXXII, P. 138-139]
+
+In the present verse it is understood either of the officiating priests who bear the oblations, or of Indra and others, who are endowed with virility and shower the desired objects.
+
+अश्वः मृगो न अतिजुगुर्यात्—व्यापकः पानाद्यर्थं धावन् हरिणादिरिव अयमिंद्रः अशनशीलस्सर् अत्यर्थमुद्युज्यो हविर्भक्षणाय (*aśvaḥ mṛgo na atijuguryāt—vyāpakaḥ pānādyarthaṃ dhāvan hariṇādiriva ayamiṃdraḥ aśanaśīlassar atyarthamudyujyo havirbhakṣaṇāya*). The word अश्वः (*aśvaḥ*) is stated among the names of cloud (Ni. 2-21). Here, as व्यापकः (*vyāpakaḥ*) it refers to the deer, and as अशनशीलः (*aśanaśīlaḥ*) to Indra, both senses being conveyed. Since the word न (*na*) is used with a twofold construction, one meaning is described by comparison with a deer and similar animals: like a deer running to drink water and the like, Indra comes quickly and is eager to accept our oblations.
+
+मृगः (*mṛgaḥ*)—मृगो मार्ष्टेर्गतिकर्मणः (*mṛgo mārṣṭergatikarmaṇaḥ*) (Ni. 1-20): formed from the root मृज् (*mṛj*) meaning motion, and with नित्यं ह्यसौ गच्छति (*nityaṃ hyasau gacchati*) it gives the sense "one who is always moving". अन्वेषणशीलो ना (*anveṣaṇaśīlo nā*): the purport is also "one who is always searching for his food".
+
+यथा क्षुत्पिपासार्दितः मृगः शीघ्रमुद्युज्ज्वले तधायमिंद्रोऽपि (*yathā kṣutpipāsārditaḥ mṛgaḥ śīghramudyujjvale tadhāyamiṃdro 'pi*): as a deer afflicted by hunger and thirst runs quickly for its food and drink, so Indra comes quickly to accept the oblation; this is the second meaning described.
+### Printed p. 255
+यद्वा अयमिंद्रः अश्नो मृग इव अतिजुगुर्यात् भक्षयेत् तथा अर्चति (*yadvā ayamiṃdraḥ aśno mṛga iva atijuguryāt bhakṣayet tathā arcati*). A deer wearied by hunger and thirst eats abundantly, destroys its hunger and is satisfied; likewise the sacrificer worships Indra so that his hunger subsides and he is satisfied. This meaning is also described.
+
+जुगुर्यात् (*juguryāt*)—जुगुर्यात्, जुगुरुः जुगुर्वणिः (*juguryāt, juguruḥ jugurvaṇiḥ*) and such words are all to be understood as formed from the root जृ (*jṛ*). The Nirukta authors included the word जठे (*jaṭhe*) among the names of the act of worship (अर्चति (*arcati*)). It is used often with the prefixes अभि (*abhi*), अति (*ati*) and so on. For example, in अभी नो अग्न उक्कमिज्जुगुर्या द्यावाक्षामा सिंधवश्च स्वगूर्ताः (*abhī no agna ukkamijjuguryā dyāvākṣāmā siṃdhavaśca svagūrtāḥ*) (Ṛ. Saṃ. 1-140-13), अभिमुख्येन स्तुहि (*abhimukhyena stuhi*) means: pronounce the word of assent, "I have praised in a special manner".
+
+In verses such as प्रस्तोषदुप गासिषच्छ्रवत्साम गीयमानं । अभि राधसा जुगुरत् (*prastoṣadupa gāsiṣacchravatsāma gīyamānaṃ | abhi rādhasā jugurat*) (Ṛ. Saṃ. 8-81-5), अभिगृणातु (*abhigṛṇātu*) means "let him accept". That is, the word is understood to be used where a special degree of respect is shown, whether in the act of worship or in acceptance. In the present verse too it is used in the sense of respectful acceptance.
+
+मनां मंडयुः मर्यः होता यजत्रः (*manāṃ maṃḍayuḥ maryaḥ hotā yajatraḥ*): addressing Indra, one meaning is described thus: the Hotṛ priest, a human being who recites the praises of the gods who desire to hear the hymn, is the performer of the sacrifice; and this Hotṛ recites together the mantras called Yājyā and Purone-vākyā. In the second meaning, this priest called Hotṛ, being in the form of a couple (husband and wife), performs the sacrifice without interruption, and therefore the sacrificer worships Indra; this is the meaning described.
+
+गूर्त (*gūrta*)—Here the word गूर्त (*gūrta*) means "powerful". It also means "praised", "worthy of praise".
+
+In शं वः सखायो मदाय पुनानमभि गायत । शिशुं न यज्ञैः स्वदयंत गूर्तिभिः (*śaṃ vaḥ sakhāyo madāya punānamabhi gāyata | śiśuṃ na yajñaiḥ svadayaṃta gūrtibhiḥ*) (Ṛ. Saṃ. 9-105-1), गूर्तिभिः (*gūrtibhiḥ*) means स्तुतिभिः (*stutibhiḥ*), "by hymns"; and in
+तं गूर्तयो नेमन्निषः परीणसः समुद्रं न संचरणे सनिष्यवः । पतिं दक्षस्य विदथस्य नू सहो गिरिं न वेना अधि रोह तेजसा ॥ (*taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ | patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhi roha tejasā ‖*) (Ṛ. Saṃ. 1-56-2)
+### Printed p. 256
+and similar places it also means स्तोकारः (*stokāraḥ*). In the present verse it means the praiseworthy valour of Indra.
+
+मर्यः (*maryaḥ*)—मर्यो मनुष्यो मरणधर्मा (*maryo manuṣyo maraṇadharmā*). Because he is subject to death, man is called मर्य (*marya*) (Ni. 3-15).
+
+##### Grammar
+
+- अर्जिश्—अर्च पूजायां शातु । छांदसवागि लज् ।
+- स्वेदु हव्यैः—स्वयं इत् प्राप्तं हव्यं येषां ते स्वे दुहव्याः । तैः । बहुव्रीह् प्रकृत्या पूर्वपदम् इति पूर्वपद प्रकृतिस्वरो भवति ।
+- जुगुर्यात्—गृ शब्दे धातुः । लिजि बहुलं छंदसि इति विकरणस्य श्लु आदेशः । बहुलं छंदसि इति धातोरुत्वं रपरत्वं च भवति । श्लुनिमित्तं धातोर्द्वित्वम् । कुहोश्चुः (पा. सू. ७-४-६२) इति चुत्वम् । यद्योगान्निघातस्वरो न भवति । यासुट् उदात्त इति अंतोदात्तं भवति ।
+- मंदयुः—मंदमात्मनः इच्छति । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् । क्याच्छंदसि (पा. सू. ३-२-१७०) इति उ प्रत्ययः । अशो लोपः (पा. सू. ६-४-४८) इति क्यचोऽकारलोपः । प्रत्ययस्वरो अवशिष्यते ।
+- मनाम्—मन ज्ञाने धातुः । कर्तरि क्विप् प्रत्ययः । षष्ठीबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६) इति विभक्तेरुदात्तस्वरो भवति ।
+- भरते—भृञ् भरणे धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । पादादित्वान्निघातस्वरो न भवति । लः सार्वधातुकः । शप् अनुदात्तत्वाद्धातुस्वरो अवशिष्यते ।
+- मर्यः—मृज् प्राणत्यागे धातुः अंतर्भावितण्यर्थकः । छंदसि निष्कर्ष्य- (पा. सू. ३-१-१२३) इति निपातनाद्यत् प्रत्ययः । बहुलग्रहणात् कर्तरि भवति । यतोनावः (पा. सू ६-१-२१३) इति सूत्राद् आद्युदात्तस्वरो भवति ।
+- मिथुना—मिथ इति सौत्रो धातुः । क्षुधिपिशि—(उ. सू ३३५) इति उनन् प्रत्ययः । कित् भवति । अत एव लघूपधगुणो न भवति । नपुंसके शेच्छंदसि बहुलम् इति शेर्लोपः ।
+- यजत्रः—यज देवपूजासंगतिकरणदानेषु धातुः । अमिनक्षि यजिवधि— (उ. सू. ३८५) इति अत्रस् प्रत्ययः । नित्त्वाद् आद्युदात्तस्वरो भवति ।
+
+### Printed p. 257
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नक्ष॒द्दोता॒ परि॒ सद्म॑ मि॒ता यन्भर॒द्गर्भ॒मा श॒रदः॑ पृथि॒व्याः ।  
+> क्रंद॒दश्वो॒ नय॑मानो रु॒वद्गौरं॒तर्दू॒तो न रोद॑सी  ॒
+> चरद्वाक् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नक्षत् । होता । परि । सद्म । मिता । यन् । भरत् । गर्भं । आ । शरदः । पृथिव्याः ।  
+> क्रंदत् । अश्वः । नयमानः । रुवत् । गौः । अंतः । दूतः । न । रोदसी इति । चरत् ।  
+> वाक् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> होता होमनिष्पादकोऽयमुग्निर्मिता परिमिता सद्म सदनानि गार्हपत्यादिस्थानानि परि यन् परितो गच्छन्नक्षत् । व्याप्ोति । व्याप्य च शरदः संवत्सरसंबंधिनं
+> पृथिव्या भूम्याश्च संबंधिनं गर्भं गर्भस्थानीयमन्नं हविर्लक्षणमा भरत् । आहरति ।
+> स्वीकरोति । संभरति वा। संवत्सरपर्यंतं. वर्धितं भूम्यामुत्पन्नमित्यर्थः । यद्वा।
+> संवत्सरसंबंधिनं वसंतादिकाले ज्योतिष्टोमादिषु दीयमानं पार्थिवं हविर्भरत् । वसंते वसंते ज्योतिषा यजेतेति श्रुतेः । तथा कृत्वा क्रंददत्वः । लुप्तोपममेतत् । अश्व इव क्रंदति हर्षातिशयात् । किं कुर्वन् । नयमानो नयदिंद्राय हविर्भारं । किंच गौर्गंतोद्वृत्तो वृष इव रुवत् । रौति । शब्दायते ।
+> किं कुर्वन् । दूतो न वार्ताहरो दूत इव रोदसी रोदस्योर्द्यावापृथिव्योरंतर्मध्यॆ रोदस्कोरंतरा-वाक् स्तूयमानः स्तुवन् वा देवांश्चरत् । चरति ।
+> गच्छति । हविःस्वीकाराय पृथिवीं तत्पापणाय द्युलोकं च परिभ्रमतीत्यर्थः ॥
+> वक्तेः कर्तरि कर्मणि वा क्विब्बचीत्यादिना क्विब्बिर्घौ संप्रसारणाभावश्च ॥
+
+##### Gist of the bhāṣya
+
+होता (*hotā*) is this Agni, who accomplishes the offering. Going around (परि यन् (*pari yan*)) the measured stations (सद्म (*sadma*)), the Gārhapatya and the other hearths, he pervades them (नक्षत् (*nakṣat*) = व्याप्ोति (*vyāpoti*)). Having pervaded them, he takes up (आ भरत् (*ā bharat*) = आहरति (*āharati*), accepts, or collects) the "germ" (गर्भं (*garbhaṃ*)), the food in the form of oblation, which stands in the place of a germ, belonging to the year (शरदः (*śaradaḥ*)) and to the earth (पृथिव्याः (*pṛthivyāḥ*)): that is, what has grown for a year and been produced on the earth. Or else: the earthly oblation belonging to the year, given in the spring and other seasons in the Jyotiṣṭoma and other rites, he bears; for the śruti says वसंते वसंते ज्योतिषा यजेत (*vasaṃte vasaṃte jyotiṣā yajeta*). Having done so, he क्रंदत् (*kraṃdat*), "neighs like a horse", the simile being left unexpressed, from excess of joy. Doing what? नयमानः (*nayamānaḥ*), bearing the burden of oblation to Indra. Moreover he रुवत् (*ruvat*) (रौति (*rauti*), makes sound) like a गौः (*gauḥ*), a bull that has gone off, grown wild. Doing what? Like a messenger (दूतो न (*dūto na*)), a bearer of tidings, रोदसी अंतः (*rodasī aṃtaḥ*), between heaven and earth, being praised or praising the gods, he चरत् (*carat*) (चरति (*carati*), goes): he roams the earth to receive the oblation and the heavenly world to convey it. Then the closing note on the word वाक् (*vāk*), formed from वक्तेः (*vakteḥ*) with क्विप् (*kvip*) in the active or passive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—Agni, who accomplishes the offering
+- मिता (*mitā*)—measured
+- सद्म (*sadma*)—the stations, Gārhapatya and the rest
+- परि यन् (*pari yan*)—going around on all sides
+- नक्षत् (*nakṣat*)—pervades (then)
+- शरदः (*śaradaḥ*)—belonging to the year (up to the year's end)
+- पृथिव्याः (*pṛthivyāḥ*)—belonging to the earth (being on the earth, of it)
+- गर्भं (*garbhaṃ*)—the oblation that stands in the place of the (earth's) germ
+- आ भरत् (*ā bharat*)—
+### Printed p. 258
+- accepts (obtains) it; [or शरदः (*śaradaḥ*)—belonging to the year, in the spring and other seasons; offered in the Jyotiṣṭoma and other rites; पृथिव्याः गर्भं (*pṛthivyāḥ garbhaṃ*)—the oblation that is the earth's germ; आ भरत् (*ā bharat*)—accepts] (having accepted)
+- नयमानः (*nayamānaḥ*)—bearing (the oblation for Indra)
+- अश्वः क्रंदत् (*aśvaḥ kraṃdat*)—neighs (with joy) like a horse (and)
+- दूतः न (*dūtaḥ na*)—like a messenger who brings tidings
+- रोदसी अंतः (*rodasī aṃtaḥ*)—between heaven and earth
+- वाक् (*vāk*)—being praised (praising the gods)
+- चरत् (*carat*)—roaming
+- गौः (*gauḥ*)—like a bull
+- रुवत् (*ruvat*)—makes sound
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the accomplisher of the offering, pervades the measured stations, Gārhapatya and the rest, and accepts the food in the form of oblation, offered in the Jyotiṣṭoma and other rites, which stands in the place of the earth's germ. Then, bearing it for Indra and the others, he neighs with joy like a horse; and as a messenger who furnishes news to the gods, roaming between heaven and earth, he bellows like a bull.
+
+##### English translation (H. H. Wilson)
+The invoker (of the gods, Agni), pervades the measured stations (of the altars), and accepts that (oblation), which is the germ of the year and of the earth ; as a horse neighs when bringing (the offering to Indra), as a bull bellows like a messenger proclaiming (his message) between and earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+होता (*hotā*)—होमनिष्पादको आयमग्निः (*homaniṣpādako āyamagniḥ*). Although the word होतृ (*hotṛ*) denotes the priest who invites the gods to accept the oblation, here the meaning is explained as Agni, who, in order that the oblations offered by the sacrificers reach the gods, brings the gods, offers the oblation to them and carries the sacrifice through. This sense is used especially with regard to Agni.
+
+Further, होमनिष्पादकं आह्वातारं वा (*homaniṣpādakaṃ āhvātāraṃ vā*): the accomplisher of the offering by oblations and other offerings, or the one who gives the invitation to the gods. Thus the meanings of the word होतृ (*hotṛ*) are given, since the Hotṛ has two kinds of function. The same view is explained in the Aitareya Brāhmaṇa in the form of a discussion, as follows. It shows the place of the Hotṛ in the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
+**Progress note:** Done through printed p. 258. pp. 253-258 (batch API)
