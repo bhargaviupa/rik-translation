@@ -20373,6 +20373,255 @@ Kindled by us, Agni blazes, the extremities of the darkness are seen nigh at han
 
 O Aśvins, I, the good invoker (सुहोता (*suhotā*)), a fine praiser of the gods, and the speaker (विवक्वान् (*vivakvān*)) of praises, serve you with hymns; O नासत्या (*nāsatyā*), truthful ones. The words इदमश्विना (*idamaśvinā*) are to be supplied here. Therefore come towards us by the ancient, well-trodden paths, with a chariot that knows heaven or water (स्वर्विदा (*svarvidā*)), or is possessed of sound, and is laden with wealth.
 
+### Printed p. 493
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—you who are of the nature of truth
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—you
+- सुहोता (*suhotā*)—I who invoke and praise the gods
+- विवक्वान् (*vivakvān*)—and who recite the hymns
+- स्तोमैः (*stomaiḥ*)—with hymns
+- सिषक्ति (*siṣakti*)—I serve (therefore you)
+- अर्वाक् (*arvāk*)—toward us
+- पूर्वीभिः (*pūrvībhiḥ*)—famed from former times
+- पथ्याभिः (*pathyābhiḥ*)—setting out by the paths
+- स्वर्विदा (*svarvidā*)—that which gives rain
+- वसुमता (*vasumatā*)—and is laden with wealth
+- रथेन (*rathena*)—with the chariot
+- यातं (*yātaṃ*)—set out and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, of the nature of truth, I who invoke you, the gods, praise and serve you with hymns. Therefore come toward us, that is, toward our sacrificial ground, setting out by the ancient paths, seated in your chariot, which gives rain and is laden with wealth.
+
+##### English translation
+Verily, Aswins, the pious priest repeating (your praises) glorifies you, Nasatyas, with hymns: come therefore by formerly-trodden paths to our presence with your chariot, familiar with heaven, laden with treasure.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वोर्वां॑ नू॒नम॑श्विना यु॒वाकु॑र्हु॒वे यद्वां॑ सु॒ते मा॑ध्वी वसू॒युः ।  
+> आ वां॑ वहंतु॒ स्थवि॑रासो॒ अश्वाः॒ पिबा॑थो अ॒स्मे सुषु॑ता॒ मधू॑नि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवोः । वां । नूनं । अश्विना । युवाकुः । हुवे । यत् । वां । सुते । माध्वी इति । वसुयुः ।  
+> आ । वां । वहंतु । स्थविरासः । अश्वाः । पिबाथः । अस्मे इति । सुसुता । मधूनि ॥ ४ ॥
+
+### Printed p. 494
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनावश्विनौ अवो रक्षित्रोर्युवाभ्यां युवाकुर्युवां कामयमानोऽहं नूनमद्य स्वभूतो भवामीति शेषः । यद्यस्माद् हे माध्वी मधुरस्य सोमस्यार्हौ मधुविद्यासंबंधिनौ वा वां युवां सुतेऽभिषुते सोमे वसूयुर्वसुकामो हुवे स्तौमि अतो वां स्वभूतः । वां युवामा वहंतु । के । स्थविरासः स्थूलाः प्रवृद्धा अश्वाः । एतयोरतिशयस्थवृद्धत्वाच्छीघ्रगतेरपेक्षितत्वाच्च स्थविरैरेव भाव्यं । आगमनानंतरमस्मे अस्माभिः सुषुता सुष्ठ्वभिषुतानि मधूनि मधुररसान् पिबाथः । पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, protectors: I, desiring you, am now truly your own (this must be supplied). Since, O Mādhvīs, you who are worthy of the sweet Soma or connected with the Madhu-vidyā, I, wishing for wealth, invoke (praise) you when the Soma is pressed, therefore I am yours. Let your stout, grown horses bring you; since the two of you are exceedingly stout and old, and swift going is wanted, it must be stout horses. After coming, drink the sweet juices well pressed by us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अवोः (*avoḥ*)—of you who give protection
+- युवाकुः (*yuvākuḥ*)—I who desire protection
+- नूनं (*nūnaṃ*)—am now yours
+- यत् (*yat*)—because
+- माध्वी (*mādhvī*)—O Aśvins, worthy of the sweet Soma-drink or knowing the Madhu-vidyā
+- वां (*vāṃ*)—you
+- सुते (*sute*)—at this time when Soma is pressed
+- वसूयुः (*vasūyuḥ*)—I who desire wealth
+- हुवे (*huve*)—pray to and call
+- स्थविरासः (*sthavirāsaḥ*)—of stout form (well-fed)
+- अश्वाः (*aśvāḥ*)—your horses
+- वां (*vāṃ*)—you
+- आवहंतु (*āvahaṃtu*)—let them bring (to us); (afterwards you)
+- अस्मे (*asme*)—by us
+- सुषुता (*suṣutā*)—well pressed
+- मधूनि (*madhūni*)—sweet Soma juices
+- पिबाथः (*pibāthaḥ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, I, desiring your protection, am yours, who give protection to all. Therefore, O Aśvins, worthy of the sweet Soma-drink or knowing the Madhu-vidyā, I, desiring wealth, pray to and call you at this time when the Soma is pressed. May your stout and swift horses bring you to this our sacrificial ground. Then drink this sweet Soma juice pressed by us according to rule.
+
+##### English translation
+Relying on you, Aswins, as protectors, desirous of wealth, Madhwas, I invoke you when the Soma is effused: may your stout horse bring you (hither): drink the sweet juice poured out by us.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राची॑मु देवाश्विना॒ धियं॒ मेऽमृ॑ध्रां सा॒तये॑ कृतं वसू॒युं ।
+
+### Printed p. 495
+
+> विश्वा अविष्टं वाज आ पुरंधीस्ता नः शक्तं शचीपती शचीभिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्राचीं । ऊं इति । देवा । अश्विना । धियं । मे । अमृध्रां । सातये । कृतं । वसुयुं ।  
+> विश्वाः । अविष्टं । वाजे । आ । पुरंधीः । ता । नः । शक्तं । शचीपती इति शचीपती ।  
+> शचीभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ देवा देवौ युवां प्राचीमृज्वीममृध्रामहिंसितां वसूयुं धनमिच्छंतीं मे मम धियं बुद्धिं स्तुतिं कर्म वा सातये लाभायोचितां कृतं । कुरुतं । किंच वाज आ संग्रामेऽपि विश्वाः पुरंधीरस्मदीया बुद्धीरविष्टं । रक्षतं । हे शचीपती । शचीति कर्मनाम । कर्मणां पालकौ ता तौ युवां शचीभिरस्मदीयैः स्तुत्यादिरूपैः कर्मभिर्नोऽस्माञ्छक्तं । प्रयच्छतं धनमिति शेषः॥
+
+##### Gist of the bhāṣya
+
+O divine Aśvins, make my adoration (thought, praise or rite), which is straight (sincere), unharmed and desirous of wealth, fit for the winning of gain. Further, in battle too protect all our intelligences. O lords of Śacī (Śacī is a name for rite), protectors of rites, you, by our rites in the form of praise and the like, bestow (wealth, to be supplied) on us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- देवा (*devā*)—you who are divine
+- प्राचीं (*prācīṃ*)—that which is of the nature of truth, that is, offered with devotion
+- अमृध्रां (*amṛdhrāṃ*)—unharmed
+- वसूयुं (*vasūyuṃ*)—and desiring wealth
+- मे धियं (*me dhiyaṃ*)—this hymn or rite of mine
+- सातये (*sātaye*)—as fruitful
+- कृतं (*kṛtaṃ*)—make (and)
+- वाजे आ (*vāje ā*)—even in battle
+- विश्वा (*viśvā*)—all
+- पुरंधीः (*puraṃdhīḥ*)—our intelligences
+- अविष्टं (*aviṣṭaṃ*)—protect
+- शचीपती (*śacīpatī*)—protectors of rites such as sacrifice
+- ता (*tā*)—you
+- शचीभिः (*śacībhiḥ*)—by the rites of praise and the like that we perform
+- नः (*naḥ*)—us
+- शक्तं (*śaktaṃ*)—make endowed with wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who are divine, make this hymn of ours, which is of the nature of truth, free from obstacle and desirous of wealth, fruitful; and protect us, so that even in battle our intelligence may be a help to us. You who protect rites such as sacrifice, be pleased with our rites of praise and give us wealth and the like.
+
+##### English translation
+Divine Ashwins, render my sincere and undisturbed adoration, offered for the sake of riches, (efficacious) for their acquisition: preserve all my
+
+### Printed p. 496
+faculties in (the time of) battle: protectors of pious acts, (influenced) by our acts, bestow upon us (wealth).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वि॒ष्टं धी॒ष्व॑श्विना न आ॒सु प्र॒जाव॒द्रेतो॒ अह्र॑यं नो अस्तु ।  
+> आ वां॑ तो॒के तन॑ये॒ तूतु॑जानाः सु॒रत्ना॑सो दे॒ववी॑तिं गमेम ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविष्टं । धीषु । अश्विना । नः । आसु । प्रजावत् । रेतः । अह्रयं । नः । अस्तु ।  
+> आ । वां । तोके । तनये । तूतुजानाः । सुरत्नासः । देववीतिं । गमेम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ नोऽस्मानासु धीष्वेषु कर्मस्वविष्टं । रक्षतं । नोऽस्मभ्यमह्रयमक्षीणं प्रजावत्पुत्राद्युपेतं पुत्रोत्पादनसमर्थं रेतोऽस्तु । वां युवयोरनुग्रहाल्लब्धे तोके पुत्रे तनये तत्पुत्रादौ च तूतुजाना अभिमतं धनं प्रयच्छंतः सुरत्नासः शोभनधनाश्च संतो देववीतिं देवानां वीतिः प्राप्तिर्यस्मिंस्तादृशं यज्ञमा गमेम । आगच्छेम ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, protect us in these rites. May there be for us imperishable procreative power (रेतः (*retaḥ*)), endowed with offspring, able to beget sons. By your favour, having obtained a son and a grandson and the like, distributing to them the desired wealth, and being possessed of fine wealth, may we come to the sacrifice in which the gods' arrival takes place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नः (*naḥ*)—us
+- आसु धीषु (*āsu dhīṣu*)—in these times of rites
+- अविष्टं (*aviṣṭaṃ*)—protect
+- नः (*naḥ*)—for us
+- अह्रयं (*ahrayaṃ*)—imperishable
+- प्रजावत् (*prajāvat*)—endowed with sons and the like
+- रेतः (*retaḥ*)—wealth
+- अस्तु (*astu*)—let it be granted
+- वां (*vāṃ*)—obtained by your favour
+- तोके (*toke*)—to sons
+- तनये (*tanaye*)—and to grandsons
+- तूतुजानाः (*tūtujānāḥ*)—distributing the desired wealth
+- सुरत्नासः (*suratnāsaḥ*)—and possessing excellent wealth
+- देववीतिं (*devavītiṃ*)—the sacrifice, the act of worship of the gods
+- आ गमेम (*ā gamema*)—may we perform
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, protect us at this time of the rite. May there be for us imperishable wealth, endowed with sons and the like. Distributing wealth to our sons and grandsons obtained by your favour, and possessing excellent wealth, may we perform the sacrifice, the act of worship of the gods.
+
+### Printed p. 497
+
+##### English translation
+Protect us, Aswins, in these pious acts, may our procreative power fail not: but (through your favour) possessing sons and grandsons, distributing desired riches and enjoying ample wealth, may we accomplish the worship of the gods.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य वां॑ पूर्व॒गत्वे॑व॒ सख्ये॑ नि॒धिर्हि॒तो मा॑ध्वी रा॒तो अ॒स्मे ।  
+> अहे॑ळता॒ मन॒सा या॑तम॒र्वाग॒श्नंता॑ ह॒व्यं मानु॑षीषु वि॒क्षु॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । वां । पूर्वगत्वाऽइव । सख्ये । निधिः । हितः । माध्वी इति । रातः ।  
+> अस्मे इति ।  
+> अहेळता । मनसा । आ । यातं । अर्वाक् । अश्नंता । हव्यं । मानुषीषु । विक्षु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष पुरतो दीयमानः स्य स युवयोः प्रियत्वेन प्रसिद्धः सोमो हे माध्वी मधुप्रियावश्विनौ वां युवयोः पुरतो निधिर्निधिस्थानीयो हितः स्थापितोऽस्मे अस्माभी रातो दत्तः संकल्पितः संनिहितः । किमिव । सख्ये सख्यार्थं पूर्वगत्वेव पुरतो गंता दूत इव । स यथा प्रियं जनयन् स्वामिनः पुरतो वर्तते कॆद्वदित्यर्थः । यस्मादेवं तस्मादहेळेताक्रुध्यता मनसानुग्रहयुक्तेन चेतसार्वागस्मदभिमुखमा यातं । आगच्छतं । अश्नंता हव्यं हविः सोमादिकमश्नंतावभ्यवहरंतौ । कुत्र । मानुषीषु विक्षु मनुष्यरूपासु प्रजासु वर्तमानं ॥
+
+##### Gist of the bhāṣya
+
+This Soma, offered before you and known as dear to you, O Mādhvīs, lovers of sweet drink, has been placed before you like a treasure; it has been given, appointed and set by us. Like what? Like a forerunner, a messenger, going before for the sake of friendship: as he stands before his master producing what is dear, so (is the Soma). Since this is so, come toward us with a mind not angry, full of favour, both of you eating the oblation, Soma and the rest, that is present among the human peoples.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माध्वी (*mādhvī*)—O Aśvin deities who desire the sweet Soma
+- स्यः (*syaḥ*)—the famed
+- एषः (*eṣaḥ*)—this Soma
+- अस्मे (*asme*)—by us
+- रातः (*rātaḥ*)—offered
+- सख्ये (*sakhye*)—to win friendship
+- पूर्वगत्वेव (*pūrvagatveva*)—like the treasure that a messenger presents before a king
+- वां (*vāṃ*)—before you
+- निधिः (*nidhiḥ*)—in the form of a treasure
+- हितः (*hitaḥ*)—is offered
+- मानुषीषु (*mānuṣīṣu*)—human
+- विक्षु (*vikṣu*)—among the sacrificers
+
+### Printed p. 498
+- हव्यं (*havyaṃ*)—the oblation
+- अश्नंता (*aśnaṃtā*)—accepting
+- अहेळता (*aheḷatā*)—not angry
+- मनसा (*manasā*)—with a mind
+- अर्वाक् (*arvāk*)—toward us
+- आ यातं (*ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities who desire the sweet Soma, this famed Soma, offered by us, has been presented before you in the form of an oblation, like the treasure a messenger presents before a king to win friendship. Accepting the oblation of the human sacrificers, come toward us with a mind free from anger.
+
+##### English translation
+This treasure given by us has been placed, Madhwis, before you, like (an envoy) who has come to the presence (of a prince) for (acquiring his) friendship: come to our presence with benevolent thoughts, accepting the oblations offered amongst human beings.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एक॑स्मि॒न्योगे॑ भुरणा समा॒ने परि॑ वां स॒प्त स्र॒वतो॒ रथो॑ गात् ।  
+> न वा॑युंति सु॒भ्वो॑ दे॒वयु॑क्ता॒ ये वां॑ धू॒र्षु त॒रण॑यो॒ वहं॑ति ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकस्मिन् । योगे । भुरणा । समाने । परि । वां । सप्त । स्रवतः । रथः । गात् ।  
+> न । वायंति । सुभ्वः । देवयुक्ताः । ये । वां । धूःसु । तरणयः । वहंति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भुरणा सर्वस्य भर्तारौ युवयोरेकस्मिन् समान उभयसाधारणे योगेऽस्मद्विषये सति वां युवयो रथः सप्त स्रवतः सर्पणस्वभावाः सप्तसंख्याका वा गंगाद्याः परि गात् । परिगच्छति । शीघ्रमागच्छतीत्यर्थः । तद्रथानुकूलाः सुभ्वः सुभवना देवयुक्ता देवाभ्यां युवाभ्यां युक्ता अश्वाः शीघ्रगमने न वायंति। न शुष्यंति । न श्राम्यंते । येऽश्वा वां धूर्षु रथस्य तरणयस्तारकाः शीघ्रगंतारो वहंति युवां ते न वायंतीति॥
+
+##### Gist of the bhāṣya
+
+O Bhuraṇās, supporters of all: when there is one common yoke for you both with regard to us, your chariot goes around the seven streams, of gliding nature, or the seven rivers such as the Gaṅgā; that is, it comes swiftly. The horses favourable to that chariot, of good being, yoked by you two gods, do not dry up in swift going, are not wearied; the horses which, at the poles of your chariot, are bearers, swift-going, and carry you: they do not tire.
+
 ---
 
-**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
+**Progress note:** Done through printed p. 498. pp. 493-498 (batch API)
