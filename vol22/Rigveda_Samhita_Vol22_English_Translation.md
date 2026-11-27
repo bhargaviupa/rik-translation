@@ -9892,6 +9892,303 @@ These universal adorable guardian deities occupy a common station at sacrifices 
 > अग्ने॒ गिरो॑ दि॒व आ पृ॑थि॒व्या मि॒त्रं व॑ह॒ वरु॑ण॒मिंद्र॑म॒ग्निं ।  
 > आर्य॒मण॒मदि॑तिं॒ विष्णु॑मेषां॒ सर॑स्वती म॒रुतो॑ मादयंतां ॥ ५ ॥
 
+### Printed p. 223
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्ने । गिरः । दिवः । आ । पृथिव्याः । मित्रं । वह । वरुणं । इंद्रं । अग्निं ।  
+> आ । आर्यमणं । अदितिं । विष्णुं । एषां । सरस्वती । मरुतः । मादयंतां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं दिवो द्युलोकात्सकाशाद्गिरो गरणीयान् स्तुत्यान्देवानस्मदीयं यज्ञं प्रत्या वह । आह्वानं कुरु । पृथिव्या अंतरिक्षाच्चा वह । कान्देवानिति
+> तदुच्यते । मित्रमेतन्नामकं वरुणं चेंद्रं च देवेषु देवतारूपेणावस्थितं
+> चाग्निमर्यमणमेतन्नामकं अदितिमदीनां पृथिवीं च विष्णुं च । एवंभूतान्देवानेषामस्माकं यजमानानामर्थाया वह । सरस्वती वाग्देवता च मरुतश्च मादयंतां । अस्मदीयैः स्तोत्रैर्हविर्भिश्च माद्यंतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, from the world of heaven bring to our sacrifice the praiseworthy gods; bring them also from the earth and the atmosphere. Which gods? Mitra and Varuna, Indra, and Agni who abides among the gods in the form of a deity, Aryaman, Aditi (the earth, according to the gloss) and Viṣṇu. Bring such gods for us, the sacrificers. Let Sarasvatī, the goddess of speech, and the Maruts be delighted with our praises and oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दिवः (*divaḥ*)—from the world of heaven
+- गिरः (*giraḥ*)—the gods worthy of praise
+- आ वह (*ā vaha*)—bring to our sacrifice
+- पृथिव्याः (*pṛthivyāḥ*)—from the earth also
+- आ (*ā*)—bring
+- मित्रं (*mitraṃ*)—Mitra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- इंद्रं (*iṃdraṃ*)—Indra
+- अग्निं (*agniṃ*)—the god Agni
+- आर्यमणं (*āryamaṇaṃ*)—Aryaman
+- अदितिं (*aditiṃ*)—the earth
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- एषां (*eṣāṃ*)—for us the sacrificers
+- आ (*ā*)—bring
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- मरुतः (*marutaḥ*)—the Marut deities
+- मादयंतां (*mādayaṃtāṃ*)—let them be satisfied with our sacrificial oblations
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bring to our sacrifice the gods worthy of praise from the world of heaven. Bring them from the earth too. Bring Mitra, Varuṇa, Indra, the god Agni, Aryaman, the earth and Viṣṇu for us the sacrificers. May the goddess Sarasvatī and the Marut deities be satisfied with our oblations.
+
+##### English translation
+Bring, Agni, whether from heaven or earth, the adorable deities, Mitra, Varuna, Indra and Agni, Aryaman, Aditi and Vishnu, (for the good) of these (worshippers) : and may Saraswati and Maruts be delighted (by our offerings).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒रे ह॒व्यं म॒तिभि॑र्य॒ज्ञिया॑नां॒ नक्ष॒त्कामं॒ मर्त्या॑ना॒मसि॑न्वन् ।  
+> धाता॑ र॒यिम॑विद॒स्यं स॑दा॒सां स॑क्षी॒महि॒ युज्ये॑भि॒र्नु दे॒वैः ॥
+
+### Printed p. 224
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ररे । हव्यं । मतिऽभिः । यज्ञियानां । नक्षत् । कामं । मर्त्यानां । असिन्वन् ।  
+> धात । रयिं । अविदस्यं । सदासां । सक्षीमहि । युज्येभिः । नु । देवैः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियानां । चतुर्थ्यर्थे षष्ठी । यज्ञार्हेभ्यो देवेभ्यो मतिभिरस्मदीयाभिः स्तुतिभिः सह हव्यं हवी ररे । अस्माभिर्दीयते । मर्त्यानां मनुष्याणामस्माकं काममभिलाषमसिन्वन्नप्रतिबद्धन्नग्निर्नक्षत् । अस्मदीयं यज्ञं व्याप्नोतु ॥ हे देवाः यूयमविदस्यं अनुपक्षयणीयं सदासां सर्वदा संभजनीयं
+> रयिं धनं धात । अस्मभ्यं दत्त । न्वद्य वयं युज्येभिः सहायभूतैरिह यज्ञे
+> समागतैर्देवैः सक्षीमहि । यद्वा । न्वित्युपमार्थे । युज्येभिर्नु बंधुभिरिव देवैः
+> सक्षीमहि ॥
+
+##### Gist of the bhāṣya
+
+यज्ञियानां (*yajñiyānāṃ*) stands in the genitive in the sense of the dative: to the gods worthy of sacrifice the oblation is given by us together with our praises. Agni, not obstructing the desire of us mortals, is to reach (pervade) our sacrifice. O gods, give us wealth that does not waste away and is always to be shared; today may we be united with the gods who have assembled here at the sacrifice as helpers. Or else: नु (*nu*) is in the sense of comparison, so "may we be united with the gods as with kinsmen."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियानां (*yajñiyānāṃ*)—to the gods worthy of worship
+- मतिभिः (*matibhiḥ*)—accompanied by our praises
+- हव्यं (*havyaṃ*)—the oblation
+- ररे (*rare*)—is offered
+- मर्त्यानां (*martyānāṃ*)—of us the sacrificers
+- कामं (*kāmaṃ*)—the desired object
+- असिन्वन् (*asinvan*)—Agni, who does not obstruct
+- नक्षत् (*nakṣat*)—let him be united with our sacrifice
+- (O gods,) अविदस्यं (*avidasyaṃ*)—imperishable
+- सदासां (*sadāsāṃ*)—always worshipful
+- रयिं (*rayiṃ*)—wealth
+- धात (*dhāta*)—give us
+- नु (*nu*)—now
+- युज्येभिः (*yujyebhiḥ*)—assembled at the sacrifice
+- देवैः (*devaiḥ*)—with the gods
+- सक्षीमहि (*sakṣīmahi*)—we shall be united
+
+##### भावार्थ (Bhāvārtha)
+
+To the gods worthy of worship an oblation accompanied by our praises is offered. May Agni, who does not obstruct the desire of us the sacrificers, be united with the sacrifice. O gods, give us wealth that is imperishable and always worshipful. We shall now be united with the gods assembled at the sacrifice.
+
+##### English translation
+The oblation is offered together with praises to the adorable deities : may (Agni), unaverse to the desire of mortals, be present : bestow (upon us, gods), unwasting, all-benefiting riches ; and may we to-day be associated with the assembled deities.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू रोद॑सी अ॒भिष्टु॑ते॒ वसि॑ष्ठैरृ॒तावा॑नो॒ वरु॑णो मि॒त्रो  ॒
+> अ॒ग्निः ।
+
+### Printed p. 225
+
+> यच्छंतु चंद्रा उपमं नो अर्कं यूयं पात स्वस्तिभिः  
+> सदा नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । रोदसी इति । अभिष्टुते इत्यभिस्तुते । वसिष्ठैः । ऋतावानः । वरुणः । मित्रः ।  
+> अग्निः ।  
+> यच्छंतु । चंद्राः । उपमं । नः । अर्कं । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न्वद्य रोदसी द्यावापृथिव्यौ वसिष्ठैरस्माभिः । पूजार्थं बहुवचनं । अभिष्टुते अभितः सर्वतः स्तुते अभूतां । तथा ऋतावानोऽस्माभिः क्रियमाणैर्यज्ञैरुपेता वरुणो मित्रोऽग्निश्चैवंभूता देवा अस्माभिरभिष्टुता आसन् । चंद्रा आह्लादका देवा नोऽस्मभ्यमर्कमर्चनीयमन्नमुपमं सर्वोत्कृष्टं यच्छंतु ।
+> ददतु । सूक्ते प्रतिपादिता ये देवास्ते सर्वे यूयं नोऽस्मान् स्वस्तिभिरविनाशैः
+> सदा सर्वदा पात । पालयत ॥
+
+##### Gist of the bhāṣya
+
+Now heaven and earth are praised on all sides by us the Vasiṣṭhas (the plural is for honour). Likewise Varuṇa, Mitra and Agni, endowed with the sacrifices performed by us, have been praised by us. May the gladdening gods give us excellent, most exalted food worthy of worship. All you gods celebrated in the sūkta, protect us always with blessings that do not perish.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नु (*nu*)—now
+- रोदसी (*rodasī*)—heaven and earth
+- वसिष्ठैः (*vasiṣṭhaiḥ*)—by us who bear the name Vasiṣṭha
+- अभिष्टुते (*abhiṣṭute*)—are praised
+- ऋतावानः (*ṛtāvānaḥ*)—endowed with sacrifice
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—and Agni are praised by us
+- चंद्राः (*caṃdrāḥ*)—all the gladdening gods
+- नः (*naḥ*)—to us
+- उपमं (*upamaṃ*)—most excellent
+- अर्कं (*arkaṃ*)—food
+- यच्छंतु (*yacchaṃtu*)—let them give
+- (All gods,) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth are praised by us who bear the name Vasiṣṭha. Varuṇa, Mitra and Agni, endowed with sacrifice, are praised by us. May all the gladdening gods give us most excellent food. O all gods, protect us always with blessings.
+
+##### English translation
+Heaven and earth are now glorified by the Vashithas, as are Varuna, the object of worship, and Mitra and Agni : may they, the conferrers of joy, bestow upon us excellent food : and do you (all) ever cherish us with blessings.
+
+### Printed p. 226
+## Sūkta 40 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ओ श्रुष्टिरिति सप्तर्चं सप्तमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वदेवं । ओ
+> श्रुष्टिरित्यनुक्रांतं । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, ओ श्रुष्टिः (*o śruṣṭiḥ*), of seven Ṛks, has Vasiṣṭha as seer, the Viśvedevas as deity, and Triṣṭubh as metre. It is so listed in the Anukramaṇī as ओ श्रुष्टिः (*o śruṣṭiḥ*). The application (viniyoga) is by the indication of the text (लैंगिकः (*laiṃgikaḥ*)).
+
+##### Anuvāda
+
+This sūkta ओ श्रुष्टिः (*o śruṣṭiḥ*) is the seventh sūkta in the third anuvāka. It has seven Ṛks. Vasiṣṭha is its seer; the Viśvedevas are the deity; Triṣṭubh is the metre. In the Anukramaṇī it is given as ओ श्रुष्टिः (*o śruṣṭiḥ*). The application is by indication.
+
+Sūkta 40. Maṇḍala 7; Anuvāka 3; Sūkta 40. Aṣṭaka 5; Adhyāya 4; Varga 6. Number of Ṛks in the sūkta: 7. Seer: Vasiṣṭha. Deity: Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ श्रु॒ष्टिर्वि॑द॒थ्या॒३॒॑ ४ समे॑तु॒ प्रति॒ स्तोमं॑ दधीमहि तु॒राणां॑ ।  
+> यद॒द्य दे॒वः स॑वि॒ता सु॒वाति॒ स्यामा॑स्य र॒त्निनो॑ विभा॒गे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । श्रुष्टिः । विदथ्या । सं । एतु । प्रति । स्तोमं । दधीमहि । तुराणां ।  
+> यत् । अद्य । देवः । सविता । सुवाति । स्याम । अस्य । रत्निनः । विभागे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः विदथ्या विदथेन त्वदीयेन चित्रेण संपाद्या श्रुष्टिः सुखमस्मानो
+> आ समेतु । आगच्छतु । अथवा श्रुष्टिर्वेगवती विदथ्या विदथे यज्ञे क्रियमाणास्मदीया स्तुतिर्युष्मानागच्छतु । वयं तुराणां वेगवतां देवानां स्तोमं स्तोत्रं
+> प्रति दधीमहि । कुर्वीमहि । अद्येदानीं सविता देवो यद्धनं सुवाति अस्मभ्यं प्रेरयेत् रत्निनो रमणीयधनवतोऽस्य सवितुस्तस्य धनस्य विभागे दाने स्याम
+> वयं भवेम ॥
+
+##### Gist of the bhāṣya
+
+O gods, may the satisfaction (श्रुष्टिः (*śruṣṭiḥ*)) brought about by your wondrous rite come to us easily. Or else: may our swift praise, made at the sacrifice, come to you. We offer praise to the swift gods. May we have a share in the distribution of the delightful wealth that the god Savitṛ today sends to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) विदथ्या (*vidathyā*)—our praise composed at the time of sacrifice
+- श्रुष्टिः (*śruṣṭiḥ*)—swiftly
+- ओ समेतु (*o sametu*)—let it reach you (or: let the pleasures given by you come to us)
+- तुराणां (*turāṇāṃ*)—of the mighty gods, praising them
+- स्तोमं (*stomaṃ*)—the hymn
+- प्रति दधीमहि (*prati dadhīmahi*)—we perform
+- अद्य (*adya*)—now
+- देवः (*devaḥ*)—the divine
+- सविता (*savitā*)—Savitṛ
+- यत् (*yat*)—whatever wealth
+- सुवाति (*suvāti*)—he provides for us
+- रत्निनः (*ratninaḥ*)—attractive
+- अस्य (*asya*)—of that same wealth
+- विभागे (*vibhāge*)—in the giving
+- स्याम (*syāma*)—may we be worthy
+
+### Printed p. 227
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may our praise composed at the time of sacrifice swiftly reach you. We compose a hymn praising the mighty gods. Whatever wealth the divine Savitṛ provides for us, may we be worthy of the giving of that same attractive wealth.
+
+##### English translation
+May the satisfaction derived from pious rites come to us as we contemplate the glorification of the swift-moving (divinities): may we be included in the apportionment by that wealth-bestowing deity (of the riches) which the divine Savitri to-day distributes.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रस्तन्नो॒ वरु॑णो॒ रोद॑सी च॒ द्युभ॑क्त॒मिंद्रो॑ अर्य॒मा  ॑
+> ददातु ।  
+> दिदे॑ष्टु दे॒व्यदि॑ती॒ रेक्णो॑ वा॒युश्च॒ यन्नि॑यु॒वैते॒ भग॑श्च ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । तत् । नः । वरुणः । रोदसी इति । च । द्युभक्तं । इंद्रः । अर्यमा ।  
+> ददातु ।  
+> दिदेष्टु । देवी । अदितिः । रेक्णः । वायुः । च । यत् । नियुवैते इति नियुवैते ।  
+> भगः । च ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो देवो नोऽस्मभ्यं तत्प्रसिद्धं धनं ददातु । प्रयच्छतु । तथा वरुणो ददातु । रोदसी च द्यावापृथिव्यौ च दत्तां । तथेंद्रो द्युभक्तं दैवैर्मोदमानैः स्तोतृभिः सेवितं तद्धनं ददातु । अर्यमा च ददातु । तथादितिर्देवी
+> रेक्णो धनं दिदेष्टु । तत् अस्मभ्यं दिशतु । वायुश्च भगश्चेत्युभौ देवौ यद्धनं
+> नियुवैते अस्मान्नितरां योजयेतां तद्धनमिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+May the god Mitra give us that well-known wealth; so may Varuṇa; so may heaven and earth. Likewise may Indra give that wealth which is द्युभक्तं (*dyubhaktaṃ*), enjoyed by praisers who rejoice with the gods; and may Aryaman give it. So may the goddess Aditi bestow that wealth, दिदेष्टु (*dideṣṭu*), direct it to us. The wealth which both gods, Vāyu and Bhaga, would join to us firmly: that wealth is connected with what precedes.
+
+### Printed p. 228
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—the god Mitra
+- नः (*naḥ*)—to us
+- तत् (*tat*)—the well-known wealth
+- ददातु (*dadātu*)—let him give
+- वरुणः (*varuṇaḥ*)—let Varuṇa also give
+- रोदसी च (*rodasī ca*)—let heaven and earth also give
+- इंद्रः (*iṃdraḥ*)—Indra
+- द्युभक्तं (*dyubhaktaṃ*)—let him give wealth enjoyed by brilliant praisers
+- अर्यमा (*aryamā*)—let Aryaman also provide
+- वायुश्च (*vāyuśca*)—Vāyu
+- भगश्च (*bhagaśca*)—and the god Bhaga
+- यत् (*yat*)—whatever wealth
+- नियुवैते (*niyuvaite*)—they provide to us
+- रेक्णः (*rekṇaḥ*)—that same wealth
+- देवी (*devī*)—the divine
+- अदितिः (*aditiḥ*)—Aditi
+- दिदेष्टु (*dideṣṭu*)—let her provide
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Mitra give us the well-known wealth. May Varuṇa, heaven and earth, Indra and Aryaman also give us wealth fit to be enjoyed by the praisers. The wealth which Vāyu and the god Bhaga provide for us, that same wealth may the divine Aditi provide.
+
+##### English translation
+May Mitra and Varuna, heaven and earth, Indra and Aryaman, give us that (wealth) which is merited by brilliant (laudations) : may the divine Aditi be disposed to give us riches, which Vayu and Bhaga may preserve ever in our keeping.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सेदु॒ग्रो अ॑स्तु मरुतः॒ स शु॒ष्मी यं मर्त्यं॑ पृषदश्वा॒ अवा॑थ ।  
+> उ॒तेम॒ग्निः सर॑स्वती जु॒नंति॒ न तस्य॑ रा॒यः प॑र्ये॒तास्ति॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । उग्रः । अस्तु । मरुतः । सः । शुष्मी । यं । मर्त्यं । पृषत्अश्वाः ।  
+> अवाथ ।  
+> उत् । ईं । अग्निः । सरस्वती । जुनंति । न । तस्य । रायः । परिएता । अस्ति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पृषदश्वाः । पृषच्छब्देन केचिन्मृगविशेषा उच्यंते । त एवाश्वा वाहा
+> येषां ते । एवंभूता हे मरुतो रुद्रपुत्रा देवा यूयं मर्त्यं मरणधर्माणं यं यजमानमवाथ पालयथ स एव यजमान उग्रोऽस्तु । ओजस्वी
+> भवतु । तथा स शुष्मी बलवान् भवतु । तथोतापि चाग्निरंगनादिगुणयुक्तो देवो
+
+##### Gist of the bhāṣya
+
+O Maruts, sons of Rudra, whose horses (पृषदश्वाः (*pṛṣadaśvāḥ*)) are drawn from certain spotted deer (the word पृषत् (*pṛṣat*) denotes certain kinds of deer, and these are their draught animals): whatever mortal sacrificer you protect, may that very sacrificer be mighty (उग्रः (*ugraḥ*), vigorous), and may he be powerful. Likewise Agni, endowed with such qualities as his body, a god, … **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 222. pp. 217-222 (batch API)
+**Progress note:** Done through printed p. 228. pp. 223-228 (batch API)
