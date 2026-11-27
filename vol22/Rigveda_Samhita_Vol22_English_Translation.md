@@ -18783,6 +18783,278 @@ Ruling over the waters that are in heaven and earth, impelled by you (the clouds
 
 O kings, lords of all, O guardians (गोपा (*gopā*)) of the great (महः (*mahaḥ*)) water or sacrifice (ऋतस्य (*ṛtasya*)): the vocative group takes the lowered accent in the genitive because of the rule सुबामंत्रिते परांगवत्स्वर (*subāmaṃtrite parāṃgavatsvara*). O lords of the river (सिंधुपती (*siṃdhupatī*)), protectors of the stream, O mighty ones (क्षत्रिया (*kṣatriyā*)), come hither, toward us. Further, O Mitra and Varuṇa, swift givers (जीरदानू (*jīradānū*)), send down to us from the sky, the atmosphere, food (इळां (*iḷāṃ*)), nourishment, and the rain that produces it.
 
+### Printed p. 451
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजाना (*rājānā*)—you who are lords of all
+- महः (*mahaḥ*)—you who possess greatness
+- ऋतस्य (*ṛtasya*)—of water or of the sacrifice
+- गोपा (*gopā*)—you who are protectors
+- सिंधुपती (*siṃdhupatī*)—guardians of the rivers
+- क्षत्रिया (*kṣatriyā*)—possessors of strength; O Mitra and Varuṇa, you
+- अर्वाक् (*arvāk*)—facing us
+- आ यातं (*ā yātaṃ*)—come
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- जीरदानू (*jīradānū*)—you who quickly give what is desired
+- नः (*naḥ*)—to us
+- इळां (*iḷāṃ*)—food
+- उत (*uta*)—and
+- पुष्टिं (*puṣṭiṃ*)—rain that gives nourishment
+- दिवः (*divaḥ*)—from the firmament
+- अव (*ava*)—downward
+- इन्वतं (*invataṃ*)—impel so that it falls
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, lords of all, exalted, protectors of water or of the sacrifice, guardians of the rivers, and powerful: come facing us. O Mitra and Varuṇa, you who quickly fulfil our wishes, impel food for us, and nourishing rain, to fall downward from the firmament.
+
+##### English translation
+Sovereigns, mighty preservers of water, powerful lords of rivers, come to our presence : send down to us, munificent Mitra and Varuna, from the firmament, sustenance and rain.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रस्तन्नो॒ वरु॑णो दे॒वो अ॒र्यः प्र साधि॑ष्ठेभिः प॒थिभि॑र्नयंतु ।  
+> ब्रव॒द्यथा॑ न॒ आद॒रिः सु॒दास॑ इ॒षा म॑देम स॒ह दे॒वगो॑पाः ‖३‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । तत् । नः । वरुणः । देवः । अर्यः । प्र । साधिष्ठेभिः । पथिभिः । नयंतु ।  
+> ब्रवत् । यथा । नः । आत् । अरिः । सुदासे । इषा । मदेम । सह । देवगोपाः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो वरुणो देवोऽर्योऽर्यमा चैते त्रयोऽपि नोऽस्मांस्तत्तदा यदास्माकमपेक्षितं तदा साधिष्ठेभिः साधकतमैः पथिभिर्मार्गैर्नयंतु । प्राप-
+
+##### Gist of the bhāṣya
+
+Mitra, Varuṇa and the divine Aryaman, these three, are asked to lead us at the time of our need, whenever we require it, by the most effective paths, that is, to bring us to our goal.
+
+### Printed p. 452
+
+> यंतु । किंच नोऽस्मान् सुदासे शोभनदानाय जनायारिरर्यमा यथा ब्रवत्
+> असावनुकंप्य इति ब्रूयात् तथा कुर्वंतु । आर्यम्णः पुनरभिधानमादरार्थं ।
+> देवगोपा देवा यूयं गोपायितारो येषामस्माकं ते वयमिषा
+> युष्माभिर्दातव्येनान्नेन सह पुत्रादिसहिता मदेम । हृष्येम ।
+
+##### Gist of the bhāṣya
+
+Further, may they act so that Aryaman speaks of us to the generous giver (सुदासे (*sudāse*)), saying "this one deserves compassion"; Aryaman is named again for the sake of respect. O gods, you who are our protectors, may we, with the food to be given by you, together with sons and the rest, rejoice (मदेम (*madema*), "be glad").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अर्यमा (*aryamā*)—Aryaman, these three
+- नः (*naḥ*)—us
+- यत् (*yat*)—when we desire
+- साधिष्ठेभिः (*sādhiṣṭhebhiḥ*)—that are effective means
+- पथिभिः (*pathibhiḥ*)—by paths
+- नयंतु (*nayaṃtu*)—let them lead to the appointed place; and
+- नः (*naḥ*)—us, that is, our concern
+- सुदासे (*sudāse*)—to good people, excellent givers
+- अरिः (*ariḥ*)—Aryaman
+- यथा ब्रवत् (*yathā bravat*)—let him declare
+- देवगोपाः (*devagopāḥ*)—we who are protected by you, the gods
+- इषा (*iṣā*)—with the food you give us
+- सह (*saha*)—together with sons and the rest
+- मदेम (*madema*)—may we be happy
+
+##### भावार्थ (Bhāvārtha)
+
+May these three gods, Mitra, Varuṇa and Aryaman, together lead us by suitable paths to the appointed place when we desire it. May Aryaman inform good people that we are worthy of excellent favour. Protected by you, the gods, may we be happy with sons and the rest, through the food and other provisions you give.
+
+##### English translation
+May Mitra, Varuna, the divine Aryaman, conduct us by the most practicable paths, then, (when we desire their guidance), accordingly as Aryaman promises to the liberal donor (of oblations), may we, enjoying the protection of the gods, rejoice in abundance, together with posterity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॒ गर्तं॒ मन॑सा॒ तक्ष॑दे॒तमू॒र्ध्वां धी॒तिं कृ॒णव॑द्धा॒रय॑च्च ।  
+> उ॒क्षेथां॑ मित्रावरुणा घृ॒तेन॒ ता रा॑जाना सुक्षि॒तीस्त॑र्पयेथां ॥ ४ ॥
+
+### Printed p. 453
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । गर्तं । मनसा । तक्षत् । एतं । ऊर्ध्वां । धीतिं । कृणवत् । धारयत् ।  
+> च ।  
+> उक्षेथां । मित्रावरुणा । घृतेन । ता । राजाना । सु-क्षितीः । तर्पयेथां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ यो वां युवयोरेतं गर्तं रथं मनसा तक्षत् स्तोमेन संकल्पयेत् तथा कृत्वोर्ध्वामुन्नतां धीतिं कर्म स्तुतिरूपं कृणवत्
+> कुर्यात् उच्चैः स्तुयात् एवं कृत्वा धारयच्च यागे धारयेत् हे राजाना
+> स्वामिनौ मित्रावरुणा मित्रावरुणौ ता तौ युवां जनं घृतेनोदकेनोक्षेथां
+> सिंचतं । तस्मै सुक्षितीः शोभननिवासाः प्रजाः तर्पयेथां । यथा सुक्षितयो
+> भवंति तथा तर्पयेथामिति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, whoever fashions this chariot (गर्तं (*gartaṃ*)) of yours in his mind, that is, conceives it through praise, and so makes a lofty (ऊर्ध्वां (*ūrdhvāṃ*)) धीतिं (*dhītiṃ*), a rite in the form of praise, praising aloud, and upholds it in the sacrifice: O sovereign lords Mitra and Varuṇa, you two sprinkle that man with घृतेन (*ghṛtena*), that is, water. For him satisfy the subjects who have good dwellings (सुक्षितीः (*sukṣitīḥ*)); satisfy them so that they have good dwellings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—whichever man
+- वां (*vāṃ*)—your
+- एतं गर्तं (*etaṃ gartaṃ*)—this chariot
+- मनसा (*manasā*)—with the mind, that is, with praise
+- तक्षत् (*takṣat*)—praises and extols; and
+- ऊर्ध्वां (*ūrdhvāṃ*)—exalted, that is, excellent
+- धीतिं (*dhītiṃ*)—the rite in the form of praise
+- कृणवत् (*kṛṇavat*)—makes with a loud voice (praises)
+- धारयत् च (*dhārayat ca*)—and offers in the sacrifice; that man
+- राजाना (*rājānā*)—you who are lords of all
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- ता (*tā*)—you
+- घृतेन (*ghṛtena*)—with water in the form of rain
+- उक्षेथां (*ukṣethāṃ*)—sprinkle (him)
+- सुक्षितीः (*sukṣitīḥ*)—giving excellent dwelling-places
+- तर्पयेथां (*tarpayethāṃ*)—bring satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, whichever man praises and extols your chariot in his own mind, and in the sacrifice recites that praise aloud and offers it: him, O Mitra and Varuṇa, lords of all, sprinkle with rain-water, that is, pour rain for him, and give him excellent dwelling-places and make him happy.
+
+##### English translation
+Mitra and Varuna, bedew with water him who fabricates your chariot in his mind, offering high praise, and confirming it (by sacrifice) : render, sovereign (deities), the people well affected towards him.
+
+### Printed p. 454
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्तोमो॑ वरुण मित्र॒ तुभ्यं॒ सोमः॑ शु॒क्रो न वा॒यवे॑यामि ।  
+> अ॒वि॒ष्टं धियो॑ जिगृ॒तं पुरं॑धीर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्तोमः । वरुण । मित्र । तुभ्यं । सोमः । शुक्रः । न । वायवे । अयामि ।  
+> अविष्टं । धियः । जिगृतं । पुरं-धीः । यूयं । पात । स्वस्ति-भिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरति । हे वरुण हे मित्र तुभ्यं युवयोर्वायवे
+> वायुर्गंतादित्यः । स एवार्यमा । कस्मै चैष स्तोम आयामि । अकारि ।
+> किमिव । शुक्रो दीप्तः सोमो न युष्मभ्यं प्रीतिकरः सोमो यथा दीयते
+> तद्वत् । धियः कर्माण्यस्मदीयान्यविष्टं । रक्षतं । पुरंधीः स्तुतीर्जिगृतं । प्रबुद्धृतं । अन्यदृतं ॥
+
+##### Gist of the bhāṣya
+
+With this verse he concludes the praise. O Varuṇa, O Mitra, this स्तोम (*stoma*) has been made (आयामि (*āyāmi*), "has been done") for you, and for वायवे (*vāyave*): वायुर्गंतादित्यः (*vāyurgaṃtādityaḥ*), the going Āditya, who is Aryaman himself. It is like bright (शुक्रः (*śukraḥ*)) Soma, as Soma is offered to you, pleasing. Protect (अविष्टं (*aviṣṭaṃ*)) our rites (धियः (*dhiyaḥ*)). Wake up (जिगृतं (*jigṛtaṃ*)) to our praises (पुरंधीः (*puraṃdhīḥ*)), that is, attend to them. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- तुभ्यं (*tubhyaṃ*)—for you, that is, addressed to you
+- वायवे (*vāyave*)—and addressed to Aryaman, who moves about
+- शुक्रः (*śukraḥ*)—pure
+- सोमः न (*somaḥ na*)—like Soma-juice, pleasing to you
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise
+- अयामि (*ayāmi*)—has been made
+- धियः (*dhiyaḥ*)—the sacrifices and other rites we are performing
+- अविष्टं (*aviṣṭaṃ*)—protect (so that they are free of obstacles)
+- पुरंधीः (*puraṃdhīḥ*)—our praises
+- जिगृतं (*jigṛtaṃ*)—(hear and) understand; O Mitra, Varuṇa and the other gods
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, O Aryaman, this praise, pure like Soma-juice and pleasing to you, has been made for you. Make the sacrifices and other rites we are now performing free of obstacles, and protect them. Hear and understand our praise. O gods, protect us always with blessings.
+
+### Printed p. 455
+
+##### English translation
+Varuna and Mitra, this praise, pure as the Soma libation, has been offered to you, and also Aryaman, (to you) : protect our rites : be awake to our praises : and do you ever cherish us with blessings.
+
+## Sūkta 65 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति वां सूर इति पंचर्चं दशमं सूक्तं वसिष्ठस्यार्षं मैत्रावरुणं ।
+> प्रति वामित्यनुक्रांतं । द्वितीये छंदोमे प्रउगशस्त्रेऽप्येषस्तृचः । सूत्रितं च ।
+> प्रति वां सूर उदिते सूक्तैर्धेनुः प्रश्नस्य । आ. ८-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The ten-verse… rather, the five-verse sūkta प्रति वां सूर (*prati vāṃ sūra*) is the tenth sūkta; its seer is Vasiṣṭha and its deity Mitra and Varuṇa. The Anukramaṇī says प्रति वां (*prati vāṃ*). In the second Chandoma, in the Praüga-śastra, the first three verses are used as well. It is prescribed in the sūtra: प्रति वां सूर उदिते सूक्तैर्धेनुः प्रश्नस्य । आ. ८-१० । इति (*prati vāṃ sūra udite sūktairdhenuḥ praśnasya | ā. 8-10 | iti*).
+
+##### Anuvāda
+
+This sūkta beginning प्रति वां सूरे (*prati vāṃ sūre*) is the tenth sūkta in the fourth anuvāka. It has five Ṛks. Its seer is Vasiṣṭha; its deity is Mitra and Varuṇa. In the Anukramaṇī it is stated as प्रति वां (*prati vāṃ*). It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra (Ā. 8-10), प्रति वां सूर उदिते सूक्तैर्धेनुः प्रश्नस्य (*prati vāṃ sūra udite sūktairdhenuḥ praśnasya*), that the first three Ṛks of this sūkta, beginning प्रति वां (*prati vāṃ*), are used for the Praüga-śastra mantras in the second Chandoma.
+
+Sūkta 65. Maṇḍala 7. Anuvāka 4. Sūkta 65. Aṣṭaka 5. Adhyāya 5. Varga 7. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Mitra and Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ वां॒ सूर॒ उदि॑ते सू॒क्तैर्मि॒त्रं हु॑वे॒ वरु॑णं पू॒तद॑क्षं ।  
+> ययो॑रसु॒र्य१॒॑मक्षि॑तं॒ ज्येष्ठं॒ विश्व॑स्य॒ याम॑न्ना॒चिता॑ जिग॒त्नु
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । वां । सूरे । उत्-इते । सु-उक्तैः । मित्रं । हुवे । वरुणं । पूत-दक्षं ।  
+> ययोः । असुर्यं । अक्षितं । ज्येष्ठं । विश्वस्य । यामन् । आ-चिता । जिगत्नु ।
+
+### Printed p. 456
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरे सूर्ये उदिते प्रातःसवने मित्रं पूतदक्षं शुद्धबलं वरुणं वां
+> सूक्तैर्हुवे । आह्वये । ययोर्मित्रावरुणयोरक्षितमक्षीणमत एव ज्येष्ठमसुर्यं बलमाचिता चिते उपचिते शूरसंघैरुपेते यामन् यामनि संग्रामे
+> विश्वस्य शत्रुसंघस्य जिगत्नु जेतृ भवति ॥
+
+##### Gist of the bhāṣya
+
+At sunrise, at the morning libation, I invoke with praises (सूक्तैः (*sūktaiḥ*)) Mitra, and Varuṇa of pure strength (पूतदक्षं (*pūtadakṣaṃ*)), you two. The strength (असुर्यं (*asuryaṃ*)) of these two, Mitra and Varuṇa, is imperishable (अक्षितं (*akṣitaṃ*)) and therefore supreme; in battle (यामन् (*yāman*)), crowded (आचिता (*ācitā*)) with throngs of heroes, it is the conqueror (जिगत्नु (*jigatnu*)) of the whole host of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरे (*sūre*)—when the sun
+- उदिते (*udite*)—has risen, at the morning libation
+- मित्रं (*mitraṃ*)—Mitra
+- पूतदक्षं (*pūtadakṣaṃ*)—of pure strength
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- वां (*vāṃ*)—you both
+- सूक्तैः (*sūktaiḥ*)—with words of praise
+- हुवे (*huve*)—I pray and call
+- ययोः (*yayoḥ*)—of whichever Mitra and Varuṇa
+- अक्षितं (*akṣitaṃ*)—the imperishable
+- ज्येष्ठं (*jyeṣṭhaṃ*)—and supreme
+- असुर्यं (*asuryaṃ*)—strength
+- आचिता (*ācitā*)—gathered together, enemy heroes assembled for battle
+- यामन् (*yāman*)—in battle
+- विश्वस्य (*viśvasya*)—the whole host of enemies
+- जिगत्नु (*jigatnu*)—is conquering
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra and Varuṇa, whose imperishable and supreme strength is able to conquer the host of enemies gathered together in battle: you two, Mitra and Varuṇa of pure strength, I pray and call with words of praise at the morning libation, as soon as the sun has risen.
+
+##### English translation
+When the sun has risen, I invoke Mitra and you, Varuna, of pure vigour, whose imperishable and superior might is triumphant in the crowded conflict over all enemies.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि दे॒वाना॒मसु॑रा॒ ताव॒र्या ता नः॑ क्षि॒तीः क॑रतमू॒र्जयं॑तीः ।  
+> अ॒श्याम॑ मित्रावरुणा व॒यं वां॒ द्यावा॑ च॒ यत्र॑ पी॒पय॒न्नहा॑ च ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हि । देवानां । असुरा । ता । अर्या । ता । नः । क्षितीः । करतं । ऊर्जयंतीः ।  
+> अश्याम । मित्रावरुणा । वयं । वां । द्यावा । च । यत्र । पीपयन् । अहा । च ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
+**Progress note:** Done through printed p. 456. pp. 451-456 (batch API)
