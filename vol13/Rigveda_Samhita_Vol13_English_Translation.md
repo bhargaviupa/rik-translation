@@ -10928,6 +10928,171 @@ By this sacrifice, which has the form of nine nights, life was obtained for the 
 (Śa. Brā. 14-3-2-1)
 The sacrifice is praised as being the very self of all men and all gods. Thus, in the principle of the universe, if every individual is to obtain an existence filled with his own power, the sacrifice is the thread that relates these generals and particulars. This sacrifice, which is the thread, together with the expansion and contraction of the universe, at one time grows and at another time contracts
 
+### Printed p. 457
+
+##### विशेषविषयगळु (Special Topics)
+
+…the vessel of the sacrifice keeps its own movement in step with the movement of the universe. Explaining this point, the Śatapatha Brāhmaṇa gives the following etymology of the word *yajña*:
+
+अथ यस्माद्यज्ञो नाम । घ्नंति वा एनमेतद्यदभिषुण्वंति तद्यदेनं तन्नते तदेनं जनयंत स तायमानो जायते स यज्ञायते तस्माद्यज्ञो यञ्ज्यो ह वै नामृतद्यज्ञ इति............ ॥ (*atha yasmādyajño nāma | ghnaṃti vā enametadyadabhiṣuṇvaṃti tadyadenaṃ tannate tadenaṃ janayaṃta sa tāyamāno jāyate sa yajñāyate tasmādyajño yañjyo ha vai nāmṛtadyajña iti............ ‖*) (Śa. Brā. 3-9-4-23)
+
+At the time of pressing (the soma) they kill it; they then cause it to be born again. Because it is born with a movement of expansion, the name *yajña* became established. Because this yajña accords with the states and movements of the universe, it is a benefit to the universe. How so:
+
+भुज्युः सुपर्ण इति । यज्ञो वै भ्यज्युः यज्ञो हि सर्वाणि भुनक्ति यज्ञो गंधर्वः............ ........!! (*bhujyuḥ suparṇa iti | yajño vai bhyajyuḥ yajño hi sarvāṇi bhunakti yajño gaṃdharvaḥ............ ........!!*) (Śa. Brā. 9-4-1-11)
+
+The yajña desires all beings for its oblation, and again spreads forth for the benefit of all beings. Thus, stating the identity-relation that holds between the universal principle and the yajña, the text declares that the yajña is the cause of all the transactions of the world, that it is the connecting relation in the form of a thread, and that it is the navel of the universe. That is what the word *yonī* indicates in the present Ṛk. The Ṛk says that in this womb of the universe the *svasarāḥ* are busy performing rites so that the world's affairs may go on without hindrance. These *svasarāḥ* may be:
+1. in the form of day and night; or
+2. in the form of the sacrificer and the Adhvaryu; or
+3. in the form of the fingers, the instruments of the sacrifice. (The Nirukta-writers have included the word *svasṛ* among the names of the fingers, Ni. 3-8.)
+Indra is prayed to make the rites performed in such a womb of the universe bear fruit without obstruction.
+
+*Sutukā?*—Sāyaṇa explains this word as "possessed of excellent strength". The author of the Nirukta explains the word *sutuka* as "having an excellent going", and cites the Ṛk of the Ṛgveda describing the spreading of Agni:
+
+स आ वक्षिमहि न आ च सत्सि दिवस्पृथिव्योररतिरुवत्योः । अग्निः सुतुकः सुतुकेभिरश्चै रभस्वद्भि रभस्वा एह गम्याः ॥ (*sa ā vakṣimahi na ā ca satsi divaspṛthivyoraratiruvatyoḥ | agniḥ sutukaḥ sutukebhiraścai rabhasvadbhi rabhasvā eha gamyāḥ ‖*) (Ṛ. Saṃ. 10-3-7)
+
+### Printed p. 458
+and explains *sutuka* accordingly. In this Ṛk that is cited, Sāyaṇa too explains: तुकिर्गत्यर्थः । सुगमः स्तोतृभिः यष्टृभिश्च सुखेन प्राप्तव्यः (*tukirgatyarthaḥ | sugamaḥ stotṛbhiḥ yaṣṭṛbhiśca sukhena prāptavyaḥ*), "one to be approached easily by praisers and by sacrificers". But according to the etymology of the author of the Nirukta, it appears that the excellent going or spreading of Agni is described here. In the present Ṛk, being an adjective of the word *āpaḥ*, the sense can be "quickly productive of results".
+
+*Rājā indraḥ*—राजमानः ईश्वरो वा (*rājamānaḥ īśvaro vā*): the word *rājā* is an epithet of Indra meaning "shining" or "sovereign". Epithets such as *samrāṭ* and *svarāṭ* are found for Indra in many places. For example, in the Ṛk of the Ṛgveda
+
+अवास्यजंत जिव्रयो न देवा भुवः सम्राळिंद्र सत्ययोनिः । (*avāsyajaṃta jivrayo na devā bhuvaḥ samrāḷiṃdra satyayoniḥ |*) (Ṛ. Saṃ. 4-19-2)
+
+*samrāṭ* is described as one who is the protector of all worlds and the dwelling-place of truth. And likewise:
+
+सम्राकन्यः स्वराळन्य उच्यते वां महांताविंद्रावरुणा महावसू । विश्वे देवासः परमे व्योमनि सं वामोजो वृषणा सं बलं दधुः ॥ (*samrākanyaḥ svarāḷanya ucyate vāṃ mahāṃtāviṃdrāvaruṇā mahāvasū | viśve devāsaḥ parame vyomani saṃ vāmojo vṛṣaṇā saṃ balaṃ dadhuḥ ‖*) (Ṛ. Saṃ. 7-82-2)
+
+In such Ṛks Indra and Varuṇa, who are dependent on no other, are described by the epithets *samrāṭ* and *svarāṭ*. The greatness of these epithets in Indra and Varuṇa, and the distinctive character of these epithets in the Ṛgveda, will be explained later. In the present Ṛk also, the same idea is shown by the same epithet *rājā*.
+
+##### Grammar
+
+- घा — ऋचितुनुघ — (पा. सू. ६-३-१३३) इति संहितायां दीर्घो भवति ।
+- दभत् — दंभु दंभे धातुः । लोडर्थे छांदसो लज् । बहुलं छंदसि इति विकरणस्य लुक् । बहुलं छंदस्यमाज्‌योगेपि इति अडागमो न भवति । तिजिंतनिघातस्वरो भवति ।
+- या — शेच्छंडसि बहुलं (पा. सू. ६-१-७०) इति शेर्लुक् ।
+- स्वसारा — सुषां सुलक् — इति द्विवचनस्य आकारादेशः ।
+
+### Printed p. 459
+- कृणवंत — कृवि हिंसाकरणयोश्च इति धातुः । छांदसो वर्तमानार्थे लज् । व्यत्ययो बहुलं इति आत्मनेपदं द्विवचनस्य बहुवचनप्रत्ययश्च भवतः । झ प्रत्ययस्य अंतादेशः । धिन्विकृन्नोरच (पा. सू. ३-१-८०) इति उ प्रत्ययः । आकारः अंतादेशः । अतो लोपः इति तस्य लोपः । छांदसः शप् । तं निमित्तीकृत्य उ प्रत्ययस्य गुणः । अवादेशः । छांदस आडागमो भवति । यद्योगत्वात् निघातस्वरो न भवति । लसार्वधातुकस्य अनुदात्तत्वात् उ विकरणस्वरो शिष्यते ।
+- सुतुकाः — बहुप्रीहौ सुस्वरस्य बाधकत्वेन द्व्यचोतस्तिजः (पा. सू. ६-३-१३५) इति उत्तरपदस्य आद्युदात्तस्वरो भवति ।
+- अवेशन् — विष्‌ल्य व्याप्तौ इति धातुः । छांदसो लज् बहुवचने छांदसः शप् । पुगंतलघूपधस्यच इति लघूपधगुणः । अंगस्य आडागमः । तिजंतनिघातस्वरो भवति ।
+- गमत् — गम्‌ल्य गतौ इति धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थः । छांदसो लोडर्थे लुज् । तिपि परे पुषादिद्युतादि— (पा. सू. ३-१-५५) इति च्लेः अजादेशः । छांदस आडागमो न भवति । तिजंतपदे स्थितत्वात् निघातस्वरो न भवति । प्रत्ययस्य पित्त्वात् धातुस्वरः शिष्यते ।
+- सख्या — सख्युर्भावः सख्यम् । सख्युर्यः इति य प्रत्ययः । यस्येतिच इति इकारलोपः । प्रत्ययस्वरेण अंतोदात्तं भवति । नपुंसकबहुवचने शेश्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेर्लोपः ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जेता॒ नृभि॒रिंद्रः॑ पृ॒त्सु शूरः॒ श्रोता॒ हवं॒ नाध॑मानस्य का॒रोः ।  
+> प्रभ॑र्ता॒ रथं॑ दा॒शुष॑ उपा॒क उद्यं॑ता॒ गिरो॒ यदि॑ च॒ त्मना॒ भूत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जेता । नृभिः । इंद्रः । पृत्सु । शूरः । श्रोता । हवं । नाधमानस्य । कारोः ।  
+> प्रभर्ता । रथं । दाशुषः । उपाके । उत्यंता । गिरः । यदि । च । त्मना । भूत् ॥
+
+### Printed p. 460
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंप्रः शूरोविक्रांतः सन्नृभिः संग्रामनेतृभिर्मरुद्भिः सहितः सन्पृत्सु
+> संग्रामेषु जेता जयशीलः शत्रूणां तथा नाधमानस्य त्वदनुग्रहं याचमानस्य कारोः स्तोतुर्हवमाह्वानं श्रोता भवति । किंच यदि च यदा च
+> त्मनात्मनानन्यप्रेरित एव गिरः स्तुतिरूपाणि वजांसि स्तोत्थनोद्यंतोच्छयिता
+> भूत् भवेत् तदा दाशुषो हविर्दत्तवतो यजमानस्कोपाके समीपनामैतत् ।
+> समीप एव यागदेशे रथं प्रभर्ता । सम्यक्प्रभरन्भवति ॥ जेतेत्यादिसु तृनंतेषु
+> न लोकाव्ययेत्यादिना कर्मणि षष्ठिप्रतिषेधः ॥ यदा स्तुतिं श्रोतुमिच्छति तदा
+> स्वयमेव शीघ्रं रथं धावयित्वा यागं प्राप्नोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, heroic and valiant, accompanied by the Maruts, the leaders of the battle (नृभिः (*nṛbhiḥ*)), is the victor over enemies in battles (पृत्सु (*pṛtsu*)). Likewise he becomes the hearer of the call of the praiser (कारोः (*kāroḥ*)) who petitions (नाधमानस्य (*nādhamānasya*)) for his favour. Moreover, when of his own accord, not impelled by another, he becomes the one who raises up (उद्यंता (*udyaṃtā*)) the words of praise (गिरः (*giraḥ*)), then, close by (उपाके (*upāke*), a name for "near") the sacrificer who has given the oblation (दाशुषः (*dāśuṣaḥ*)), at the very place of the sacrifice, he brings forward his chariot well (प्रभर्ता (*prabhartā*)). The meaning: when he wishes to hear the praise, he himself quickly speeds his chariot and reaches the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरः (*śūraḥ*)—the hero
+- इंद्रः (*iṃdraḥ*)—Indra
+- नृभिः (*nṛbhiḥ*)—together with the Maruts, the leaders of battle
+- पृत्सु (*pṛtsu*)—in battles
+- जेता (*jetā*)—is victorious (becomes the victor)
+- (तथा (*tathā*)—likewise)
+- नाधमानस्य (*nādhamānasya*)—of one who petitions (for his favour)
+- कारोः (*kāroḥ*)—of the praiser
+- हवं (*havaṃ*)—the call
+- श्रोता (*śrotā*)—(becomes also the hearer)
+- यदि च (*yadi ca*)—when
+- त्मना (*tmanā*)—of himself (not impelled by another)
+- गिरः (*giraḥ*)—the words in the form of praise (the praises)
+- उद्यंता भूत् (*udyaṃtā bhūt*)—becomes one who lifts up
+- (तदा (*tadā*)—then)
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer, the giver of oblation
+- उपाके (*upāke*)—close by
+- रथं (*rathaṃ*)—the chariot
+- प्रभर्ता (*prabhartā*)—becomes the one who brings quickly
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the hero, victorious in battles together with the Maruts, who heeds the call of the sacrificer seeking his favour, when the wish comes to him to hear the praises of the praiser, drives his chariot swiftly right up to the sacrificer.
+
+##### English translation (H. H. Wilson)
+Indra, the hero, the victor in battles, along with the leaders (of his hosts, the Maruts), will hear the invocation of his supplicating worshipper, and when disposed to accept his praises, will, of his own accord, drive his chariot close to the donor (of the oblation).
+
+##### विशेषविषयगळु (Special Topics)
+
+*Kāroḥ*—this word is explained as the sacrificer who recites the praise. The Nirukta-writers have read the word *kāru* among the names of the praiser (Ni. 3-9); explaining that *rebha*, *jaritā* and the like are to be understood as synonyms, they explain, in the Ṛk of the Ṛgveda
+
+### Printed p. 461
+दैव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै । प्रचोदयंता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता ॥ (*daivyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai | pracodayaṃtā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā ‖*) (Ṛ. Saṃ. 10-100-7) (Ṛ. Saṃ. 10-110-7) **NOTE**
+
+the words कर्तारौ ऋत्विजौ (*kartārau ṛtvijau*) — two priests who are the doers of the sacrificial act. The authors of the Bṛhaddevatā use this word in the sense of poets, the seers who see the hymn, showing the meaning "makers of praise":
+
+अग्नेसु यानि सूक्तानि पंचनामानि कारवः । षड्विंशतिस्तथेंद्रस्य प्राहुः सूर्यस्य सप्त च ॥ (*agnesu yāni sūktāni paṃcanāmāni kāravaḥ | ṣaḍviṃśatistatheṃdrasya prāhuḥ sūryasya sapta ca ‖*) (Bṛ. De. 2-22) **NOTE**
+
+पृथक्त्वेन समासैस्तु यज्ञे यच्छस्यते नृभिः । स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः ॥ (*pṛthaktvena samāsaistu yajñe yacchasyate nṛbhiḥ | stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*) (Bṛ. De. 2-28)
+
+In such passages they say that the *kāru*s praised, and so show that this is a synonym of *kavi*. In the Ṛgveda also,
+
+प्रदक्षिणिदभि गृणंति कारवो वयो वदंत ऋतुथा शकुंतयः । उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति ॥ (*pradakṣiṇidabhi gṛṇaṃti kāravo vayo vadaṃta ṛtuthā śakuṃtayaḥ | ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati ‖*) (Ṛ. Saṃ. 2-43-1)
+
+in Ṛks of this kind the sense is "praisers" (स्तोतारः (*stotāraḥ*)). In the present Ṛk also the meaning is the poets (seers), the makers of praise.
+
+##### Grammar
+
+- जेता — जि जये इति धातुः । कर्तरि तृन् प्रत्ययः । तं निमित्तीकृत्य धातोः इकः गुणः । इत्यादिनिर्त्यम् इति आद्युदात्तस्वरो भवति । अत आरभ्य त्रिषु तृन्नंतशब्देषु योगे सति कर्तृ कर्मणो॥ कृति इति कर्मणि षष्ठी प्राप्तापि नलोकाव्यय — (पा. सू. २-३-६९) इति निषेधात् षष्ठी न भवति ।
+- पृत्सु — पृतनाशब्दः । तस्य सप्तमीबहुवचने परे मांसपृतनासानूनां मांस्‌पृत्सवो शसादौ ना वाच्याः इति वचनेन पृदादेशः । ऊडिदंपदादि — (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरो भवति ।
+- नाधमानस्य — नाधृ याच्नायां इति धातुः । लटः शानचादेशः । शप् विकरणम् । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । तास्यनुदात्तेत् — (पा.सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+
+### Printed p. 462
+- दातुषः — दाश्य दाने इति धातुः । दाश्वान् साह्वान् — (पा. सू. ६-१-१२) इति क्वसुप्रत्ययांतं निपातितम् । षष्ठ्येकवचने परे भसंज्ञत्वात् संप्रसारणम् । पूर्वरूपम् । प्रत्ययस्वरेण मध्योदात्तं भवति ।
+- प्रभर्ता — भृञ् भरणे इति धातुः । कर्तरि तृन् प्रत्ययः । धातोः इकः गुणः । रपरत्वेन भवति । तादौ च नितिकृत्यत् (पा. सू. ६-२-५०) इति गतेः (प्र) प्रकृतिस्वरो भवति ।
+- त्मना — आत्मना इति रूपे मंत्रेष्वाज्यादेरात्मनः (पा. सू. ६-४-१४१) इति आदेः अकारस्य लोपः ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नृभि॒रिंद्रः॑ सुश्रव॒स्या प्र॑खा॒दः पृ॒क्षो अ॒भि मि॒त्रिणो॑ भूत् ।  
+> स॒म॒र्य इ॒षः स्त॑वते॒ विवा॑चि सत्राक॒रो यज॑मानस्य॒ शंसः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नृभिः । इंद्रः । सुश्रवस्या । प्रखादः । पृक्षः । अभि । मित्रिणः । भूत् ।  
+> समर्ये । इषः । स्तवते । विवाचि । सत्राकरः । यजमानस्य । शंसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो नृभिः करनिर्वाहकैर्यजमानैर्दत्तं वृक्षो हविर्लक्षणमन्नं
+> सुत्रवस्या शोभनान्नेच्छयान्नेच्छुर्वा प्रखादः प्रकर्षण खादिता एवैवं एवमेव
+> पूर्वं यथा तथैव मित्रिणः सहायवतोऽपि यजमानस्य शत्रुनभि भूत् ।
+> अभिभवति । यद्वा । नृभिवृष्टिनेतृभिर्मरुद्भिः सहितोऽयमिंद्रः सुत्रवस्या प्रखादः
+> सन्नेवमेव मित्रिण ऋत्विग्रूपमित्रवतो यजमानस्यार्थे तदभिमतायाभि भूत् ।
+> अभीत्यनर्थकः । भवति । अभिमुख्येन वा भवति । तस्य हविः स्वीकृत्य तदभिमताय
+> भवतीत्यर्थः । अथ तथाभूः सन् विवाचि विविधपरस्पराह्वानध्वनियुक्ते समर्यॆ
+> संग्रामे विविधस्तोत्र शस्त्रध्वनियुक्ते समर्यॆ मर्त्ययुक्ते यज्ञे वा तन्निमित्तं
+> यजमानस्य तंसः शंसकः सन् सत्राकरः फलानां सत्यकार्ययिंद्र इषो
+> हविर्लक्षणमन्नं स्तवते । स्तौति ॥
+
+##### Gist of the bhāṣya
+
+This Indra, with the men (नृभिः (*nṛbhiḥ*)), the sacrificers who carry out the rite, is the one who devours greatly (प्रखादः (*prakhādaḥ*)) the food in the form of oblation given by them **NOTE**; as before, so now (एव (*eva*)), he overcomes (*abhi bhūt*) the enemies even of a sacrificer who has friends (मित्रिणः (*mitriṇaḥ*)). Or else: accompanied by the Maruts, the leaders of the rain (नृभिः (*nṛbhiḥ*)), being an eater of great devouring, in just this way, for the sacrificer who has friends in the form of priests, he becomes (favourable) for his desired end; अभि (*abhi*) is without meaning of its own; or he becomes facing him: accepting his oblation he becomes favourable to his wish. Then, being such, in the *samarya* (battle, full of various mutual calls and sounds of praise and weapons; or the sacrifice attended by mortals) he, as praiser (शंसः (*śaṃsaḥ*)) of the sacrificer, the maker of true fruits (सत्राकरः (*satrākaraḥ*)), Indra, praises (स्तवते (*stavate*), स्तौति (*stauti*)) the food in the form of oblation. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 456. pp. 451-456 (batch API)
+**Progress note:** Done through printed p. 462. pp. 457-462 (batch API)
