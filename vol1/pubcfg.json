@@ -1,0 +1,13 @@
+{
+ "vol": 1,
+ "range_line": "Pūrva-pīṭhikā · Sāyaṇa's Bhāṣya-bhūmikā · Maṇḍala 1 · Sūktas 1–2",
+ "adhyaya_line": "First Adhyāya of the First Aṣṭaka (beginning)",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Śrī Cāmuṇḍeśvarī Electric Press, Mysore, 1947",
+ "year": "1947",
+ "press": "Śrī Cāmuṇḍeśvarī Electric Press, Mysore",
+ "english_md": "vol1/Rigveda_Samhita_Vol1_English_Translation.md",
+ "kannada_md": "vol1/Rigveda_Samhita_Vol1_Kannada_Text.md",
+ "out": "vol1_full",
+ "kannada_only": true,
+ "_note": "Only the Kannada book of Vol 1 is built by publish/volbook.py (python3 publish/volbook.py 1 kan); the English is built by publish/build_vol1.py. Year and press from the colophon of the supplied text (24-10-1947, Chamundeshwari Electric Press): to be confirmed by the user."
+}

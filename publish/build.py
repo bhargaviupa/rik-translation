@@ -126,6 +126,17 @@ def resolve_refs(htm):
         return f'<span class="fn">{inner}</span>'
     return re.sub(r'QQFN(\d+)QQ', one, htm)
 
+def footer_marks(doc):
+    """'original p. N' marks leave the body: the div stays as an invisible carrier of the footer text 'Kannada edition p. N' (style_footer.css)"""
+    seen = set()
+    def mark(m):
+        first = re.match(r'pp?\. ?([0-9ivxlc]+)', m.group(1)); pid = 'p' + first.group(1) if first else ''
+        idattr = f' id="{pid}"' if pid and pid not in seen else ''; seen.add(pid)          # link target of the contents table (first mark of a page)
+        return f'<div class="pgmark"{idattr} data-p="Kannada edition {m.group(1)}"></div>'
+    doc = re.sub(r'<div class="pgmark">\s*(?:<p>)?\s*original (pp?\. [^<]+?)\s*(?:</p>)?\s*</div>', mark, doc)
+    import printfix
+    return printfix.fix(doc.replace('</head>', '<link rel="stylesheet" href="style_footer.css"></head>', 1))    # the stylesheet first: printfix adds the build stamp after it
+
 def pandoc_html(md):
     return pypandoc.convert_text(md, 'html', format='markdown-smart+raw_html',
                                  extra_args=['--lua-filter', str(PUB / 'notes.lua'), '--wrap=none'])
@@ -206,8 +217,8 @@ def build(vol, mode):
 </body></html>'''
     out = PUB / "out"; out.mkdir(exist_ok=True)
     (out / f"vol{vol}_{mode}.html").write_text(doc, encoding='utf-8')
-    HTML(string=doc, base_url=str(PUB)).write_pdf(out / f"vol{vol}_{mode}.pdf")
-    print(f"notes: {len(notes)}; sūktas: {len(suktas)}; wrote out/vol{vol}_{mode}.pdf")
+    HTML(string=footer_marks(doc), base_url=str(PUB)).write_pdf(PUB.parent / f'vol{vol}' / 'review' / f"vol{vol}_{mode}.pdf")
+    print(f"notes: {len(notes)}; sūktas: {len(suktas)}; wrote vol{vol}/review/vol{vol}_{mode}.pdf")
 
 if __name__ == '__main__':
     build(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else 'full')

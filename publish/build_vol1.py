@@ -71,13 +71,22 @@ def build(mode='full'):
     k = body_html.index('<h1 class="part first"')
     body_html = '<div class="roman-body">' + body_html[:k] + '</div>' + body_html[k:]
 
-    toc = ['<section class="toc"><h2>Contents</h2><ul class="chap">']
-    for pid, plabel, chs in parts_list:
-        if pid:
-            toc.append(f'<li class="su"><a href="#{pid}">{html.escape(plabel)}</a></li>')
-        for cid, cl in chs:
-            toc.append(f'<li class="ch{" rm" if not pid else ""}"><a href="#{cid}">{html.escape(cl)}</a></li>')
-    toc.append('<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>')
+    # Contents of this book: the one table format of every volume (printfix.contents_table); parts, chapters and the headings inside the
+    # chapters, each linked to its place with the page of this book (user, Nov 26 2026: "headers like this in contents page should be linked")
+    import printfix
+    rows, roman, chno = [], True, 0
+    for m in re.finditer(r'<(h1|h2|h3)[^>]*\bid="([^"]+)"[^>]*>(.*?)</\1>', body_html, flags=re.S):
+        tg, hid, text = m.group(1), m.group(2), re.sub(r'<[^>]+>', '', m.group(3)).strip()
+        if not text: continue
+        if tg == 'h1': roman = False; rows.append({'kind': 'head', 'html': f'<a href="#{hid}"><strong>{html.escape(text)}</strong></a>'}); continue
+        ref = f'#{hid}' + ('" data-rm="1' if roman else '')
+        if tg == 'h2':
+            cm = re.match(r'Chapter ([\w-]+)\s*(?:—|\.)\s*(.*)', text, flags=re.S)
+            rows.append({'no': html.escape(cm.group(1)) if cm else '', 'html': f'<a href="#{hid}"><strong>{html.escape(cm.group(2) if cm else text)}</strong></a>', 'href': ref})
+        else:
+            rows.append({'html': f'<a class="sub" href="#{hid}">{html.escape(text)}</a>', 'href': ref})
+    rows.append({'kind': 'head', 'html': '<a href="#notes"><strong>Collected Notes</strong></a>'})
+    toc = []      # user, Nov 26 2026: the contents page stays the original's own (translated, with the pages of this book: printfix.contents_sections); no generated list
     toc_html = '\n'.join(toc)
 
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
@@ -88,8 +97,8 @@ def build(mode='full'):
 </body></html>'''
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'vol1_{mode}.html').write_text(doc, encoding='utf-8')
-    HTML(string=doc, base_url=str(PUB)).write_pdf(out / f'vol1_{mode}.pdf')
-    print(f'notes: {len(notes)}; parts: {n["h1"]}; chapters: {n["h2"]}; wrote out/vol1_{mode}.pdf')
+    HTML(string=B.footer_marks(doc), base_url=str(PUB)).write_pdf(PUB.parent / 'vol1' / 'review' / f'vol1_{mode}.pdf')
+    print(f'notes: {len(notes)}; parts: {n["h1"]}; chapters: {n["h2"]}; wrote vol1/review/vol1_{mode}.pdf')
 
 if __name__ == '__main__':
     build(sys.argv[1] if len(sys.argv) > 1 else 'full')

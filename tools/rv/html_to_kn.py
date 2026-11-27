@@ -29,7 +29,7 @@ BLOCK={'samhita','pada','bhashya'}
 DROP=()   # nothing is dropped any more: stray lines are kept as notes (CLAUDE.md rule)
 def clean_line(l):
     if re.match(r':::',l.strip()): return ''                                       # pandoc div fences of some converted files (Vol 1, file 3): markup, not text
-    l=re.sub(r'\s*\{#[^}]*\}\s*$','',l); l=re.sub(r'\\([!-/:-@\[-`{-~])',r'\1',l); l=re.sub(r'\\$','',l)   # '{#id .section-title}', '\|', '\[', and the trailing '\' of a hard line break
+    l=re.sub(r'\s*\{[#.][^}]*\}\s*$','',l); l=re.sub(r'\\([!-/:-@\[-`{-~])',r'\1',l); l=re.sub(r'\\$','',l)   # '{#id .section-title}', '{.headline}', '\|', '\[', and the trailing '\' of a hard line break
     l=l.replace('||','॥').replace('|','।').translate(TELUGU_DIGITS)     # Telugu digits (౧౦-౧೨೦) are Kannada digits misread (Vol 16 lesson 38)
     l=re.sub('(?<='+KN+')[sS](?=-?'+KN+')','ಽ',l)   # also before a line-end hyphen (ತೇs-ಸ್ಮಿನ್), recurring in Vol 12
     l=refs_fix.fix_kn(l.strip().strip('*').strip())      # ಸಿ.→ನಿ., ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ., ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. before a number (the user's reading of the print, Nov 9 2026)
@@ -69,6 +69,7 @@ def is_latin(l):
 def stray(l):
     if re.match(r'(This|The) image (contains|is|shows)',l) or re.fullmatch(r'Pages?: ?\d+/\d+',l): return True
     if re.fullmatch(r'[\[(]?\s*\d{1,3}\s*[\])]?\s*Vol\.?\s*\d+\s*\]?|[\[(]\s*\d{1,3}\s*[\])]',l): return True
+    if re.fullmatch(r'[\[(]?\s*[ivxl]{1,5}\.?\s*\d{1,3}\s*[\])]?',l): return True   # gathering signature 'xxv. 52' / '[ xxv. 2 ]' (Vol 25, hand-removed 5 times)
     return bool(not re.search(KN+'|[A-Za-z]{2}',l) and not re.search(r'[೦-೯0-9]',l) and len(l)<=12 and not re.fullmatch(r'[॥।\s]+',l))
 _REF={}
 def ref_index(mandalas):
@@ -152,7 +153,7 @@ def kn_page(printed,head,text,section=None,st=None):
             if fz==force or (len(c)<=14 and len(c.split())<=3 and not ENDNUM.search(l)): TR(st,i,'lab',force); setlabel(force,l,f'garbled label "{l}" -> {CANON[force]}'); continue
             setlabel(force,None,f'label {CANON[force]} missing in the supplied text: inserted')
         elif fz: TR(st,i,'lab',fz); setlabel(fz,l,f'garbled label "{l}" -> {CANON[fz]}'); continue
-        if section!='samhita':
+        if section not in ('samhita','pada'):           # not inside a Pada block: its words resemble the next Saṃhitā verse (Vol 3: spurious label inserted); the Pada's end number forces the next label anyway
             rid=verse_start(l,ref,st.get('last'))
             if rid and quote_follows(lines,i): LOG.append(f'p. {printed}: verse-like lines {l[:30]}… followed by a printed reference: a quotation in the commentary, no label inserted'); rid=None
             if rid:
@@ -165,7 +166,7 @@ def kn_page(printed,head,text,section=None,st=None):
             rid=verse_start(l,ref,st.get('last'),True) or verse_start(l,ref,None,True); st['fresh']=False
             if rid: st['last']=rid
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
-        if section=='bhashya' and re.match(r'ಅನುವಾದ(ವು)?\s*[—-]',l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times
+        if section=='bhashya' and (re.match(r'ಅನುವಾ[ದಕ](ವು)?(\s*[—-]|\s)',l) or 'ಎಂಬ ಈ ಸೂಕ್ತವು' in l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times; Vol 25 (Nov 26 2026): also 'ಅನುವಾಕವು—' (misprint) and 'ಅನುವಾದವು ಪರಿಪ್ರಿಯಾ ಎಂಬ' without a dash, and an Anuvāda with no heading word at all ('… ಎಂಬ ಈ ಸೂಕ್ತವು …'), hand-fixed three times (Sūktas 4, 9, 16)
         TR(st,i,'blk' if section in BLOCK and not st.get('plain') else 'txt',section)
         out.append(('> '+l) if section in BLOCK and not st.get('plain') else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]

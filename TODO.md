@@ -33,5 +33,5 @@
 
 14. Opus as second reader: measure on the 72 pages of `vol12/review/reader_test/`.
 15. Steps B, D, E, F, G of the design: translation in the new form, editor's decisions and the release gate, the older volumes, the scan-based volumes (need the user's machine-read text for Vols 1–4, 6–10, 13), tidy-up (`OPERATING.md`, short `CLAUDE.md`).
-16. Move the review PDFs that still sit in `publish/out/` to their volume folders; `publish/out/` is for final copies only.
+16. ~~Move the review PDFs that still sit in `publish/out/` to their volume folders~~ **Done Nov 25 2026:** all 28 PDFs moved to `volN/review/` (Vol 13's two old builds to `vol13/legacy/`); every builder now writes its PDF there; `publish/out/` is for final copies only.
 17. Branch `claude/dreamy-cerf-z4h3f4`: kept unmerged; consult when the printer takes over all volumes, then delete.

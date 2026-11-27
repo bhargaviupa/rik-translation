@@ -21,7 +21,7 @@ Translated. **May be edited only for numeral corrections.**
 Numerals of Sūktas 98–112 only partly re-read (~280 flagged pages remain); 14 first-person phrases for `voice.EXACT`.
 
 ## Publication (print PDF)
-Built with `build_vol45.py 8 full`; `publish/out/vol8_full.pdf`.
+Built with `build_vol45.py 8 full`; `vol8/review/vol8_full.pdf`.
 
 ## Pointers
 `vol8/numerals/`, `publish/tools/numeral_pass/METHOD.md`.

@@ -43,6 +43,14 @@ def one_letter(a, b):
     return (not at_end) or (i > 0 and a[i - 1] == '್')
 
 
+def adapt(old, new):
+    """The replacement in the spelling of the supplied entry (Nov 27 2026, Vol 26): the Pada-pāṭha writes the compound divider `ಽ` and a final
+    `ಮ್` where the commentary's word-meaning entry writes the joined word and a final anusvāra. Only then can the one-letter test see that
+    ದ್ರಪ್ಪಂ / ದ್ರಪ್ಸಮ್ or ಧೃತಸ್ನುಃ / ಘೃತಽಸ್ನುಃ differ by one misread letter. The divider is dropped only before a consonant (before a vowel the
+    joined word has sandhi, which this function does not make)."""
+    if 'ಽ' not in old: new = re.sub('ಽ(?=[ಕ-ಹ])', '', new)
+    if old.endswith('ಂ') and new.endswith('ಮ್'): new = new[:-2] + 'ಂ'
+    return new
 def main():
     args = [x for x in sys.argv[1:] if not x.startswith('--')]
     write = '--write' in sys.argv
@@ -63,7 +71,7 @@ def main():
     cand = [r for r in rows if r['kind'] == 'prat' and r['status'] == 'fix-certain']
     done, skipped = [], {'not one letter / ending': 0, 'not found once': 0}
     for r in cand:
-        old, new = r['kannada_as_supplied'], r['kannada_replacement']
+        old, new = r['kannada_as_supplied'], adapt(r['kannada_as_supplied'], r['kannada_replacement'])
         if only is not None and old not in only: continue
         if not one_letter(old, new) and only is None: skipped['not one letter / ending'] += 1; continue
         start = int(r['line']) - 1

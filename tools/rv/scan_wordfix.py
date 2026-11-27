@@ -7,11 +7,34 @@ For every `[?]` after a Kannada word in volN/work/scan_pages/pNNNN.md (user, Nov
   * the word is a headword of a word-meaning entry (followed by `—`) or ends in ಃ, is not in the lexicon, and ONE lexicon word is at least --ratio similar
     (the next best at least 0.08 lower, same first letter) → `corrected`: the word is replaced by the lexicon word (without ಽ) and the mark removed;
   * otherwise it stays (`open`). Prose words of the Kannada commentary are never replaced, only confirmed.
-Preview by default; --apply edits the page files and logs every change in volN/review/wordfix_applied.tsv (+ a line in repair_log.md)."""
+`--fixed-only` does only the fixed-word step (running-head titles and block labels completed from CANON). Preview by default; --apply edits the page files and logs every change in volN/review/wordfix_applied.tsv (+ a line in repair_log.md)."""
 import os, re, sys, glob, sqlite3, difflib
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')); sys.path.insert(0, os.path.dirname(__file__))
 import ws_fill
 KD = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789'); WORD = re.compile(r'[\u0C80-\u0CE5\u0CF0-\u0CFF]+')
+CANON = ['ಋಗ್ವೇದಸಂಹಿತಾ', 'ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation']   # fixed words of every page: running-head titles, block labels
+ANY = r'[\u0C80-\u0CE5\u0CF0-\u0CFFA-Za-z ]'
+def canon_fix(line):
+    """A `[?]` inside or next to a fixed word (running-head title, block label): the letters around the mark, joined, are matched to the canonical word (≥0.8 similar, or a piece ≥5 letters of it) and replaced by it."""
+    out = []; n = 0
+    for m in reversed(list(re.finditer(r'\[\?\]', line))):
+        a = m.start(); b = m.end()
+        i = a
+        while i > 0 and re.match(r'[\u0C80-\u0CE5\u0CF0-\u0CFFA-Za-z]', line[i - 1]): i -= 1
+        j = b
+        while j < len(line) and re.match(r'[\u0C80-\u0CE5\u0CF0-\u0CFFA-Za-z]', line[j]): j += 1
+        w = line[i:a] + line[b:j]
+        if len(w) < 4: continue
+        # English Translation has a space
+        cands = [c for c in CANON]
+        best = max(cands, key=lambda c: difflib.SequenceMatcher(None, w, c).ratio())
+        r = difflib.SequenceMatcher(None, w, best).ratio()
+        piece = [c for c in CANON if len(w) >= 5 and (c.endswith(w) or c.startswith(w))]
+        if r >= 0.8 and best.find(' ') < 0: new = best
+        elif len(piece) == 1: new = piece[0]
+        else: continue
+        line = line[:i] + new + line[j:]; n += 1
+    return line, n
 def norm(w): return w.replace('ಽ', '').replace('‌', '').replace('‍', '')
 def main():
     a = sys.argv[1:]; vol = a[0]; apply = '--apply' in a; ratio = float(a[a.index('--ratio') + 1]) if '--ratio' in a else 0.85
@@ -38,6 +61,12 @@ def main():
         cache[sk] = W; return W
     changes = []; opened = 0
     for pg in sorted(pages):
+        for li, line in enumerate(pages[pg]):
+            if '[?]' in line:
+                nl, k = canon_fix(line)
+                if k: changes.append((pg, li + 1, line[:40], nl[:40], 'fixed word')); pages[pg][li] = nl
+    for pg in sorted(pages):
+        if '--fixed-only' in a: break
         sks = set()
         for sk in on[pg]:
             if sk in allsk:
@@ -53,7 +82,7 @@ def main():
                     if sc and sc[0][0] >= ratio and (len(sc) == 1 or sc[0][0] - sc[1][0] >= 0.08): new, how = sc[0][1], 'corrected'
                 if new is not None and how == 'corrected' and (norm(new) == n or new.replace('ೄ', 'ೃ') == w.replace('ೄ', 'ೃ')): new = None   # no visible change, or only the ṛ/ṝ sign (a Wikisource quirk)
                 if new is None: opened += 1; continue
-                changes.append((pg, li + 1, w, new, how)); pages[pg][li] = pages[pg][li][:m.start()] + new + pages[pg][li][m.end() + 3:]; line = pages[pg][li]
+                changes.append((pg, li + 1, w, new, how)); pages[pg][li] = pages[pg][li][:m.start()] + new + pages[pg][li][m.end():]   # m already ends after the [?] (Nov 26 2026: '+ 3' deleted the three characters after every settled word); line = pages[pg][li]
     from collections import Counter
     print(dict(Counter(c[4] for c in changes)), 'open (word/lone marks left):', opened)
     for c in [x for x in changes if x[4] == 'corrected'][:15]: print('  corrected p%d l%d: %s → %s' % c[:4])

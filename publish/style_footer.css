@@ -1,0 +1,73 @@
+/* Footer of every builder (build.py, build_vol1/2/45.py, volbook.py), Nov 25 2026 (user; REQUIREMENTS A4, A1):
+   the page number of this book stands in the footer, not in the top corners; the page of the Kannada original is no longer printed in
+   the body ("original p. N") but in the footer; every page says REVIEW COPY.  Linked last, so it overrides style.css.
+   Also linked by volbook.py, whose page marks are h3.pg: hidden in the English book only (the Kannada book is the original page by page
+   and keeps the mark where the page begins, REQUIREMENTS A5). */
+h3.pg { string-set: kp attr(data-p); }
+h3.pg {   /* both books (user, Nov 26 2026): the page of the original stands in the footer only */
+ height: 0; margin: 0; padding: 0; font-size: 0; line-height: 0; visibility: hidden; break-after: avoid; }
+.pgmark { string-set: kp attr(data-p); height: 0; margin: 0; padding: 0; font-size: 0; line-height: 0; visibility: hidden; break-after: avoid; }
+@page { @bottom-center { content: counter(page); font: 9pt "Noto Serif"; vertical-align: top; }
+        @bottom-left   { content: "REVIEW COPY"; font: 7.5pt "Noto Serif"; color: #777; letter-spacing: .08em; white-space: nowrap; vertical-align: top; }
+        @bottom-right  { content: string(kp, first) "\A" string(orig); font: 7.5pt "Noto Serif"; color: #555; white-space: pre; text-align: right; vertical-align: top; } }
+@page :left  { @top-left  { content: none; } }
+@page :right { @top-right { content: none; } }
+@page roman, roman:left, roman:right { @bottom-center { content: counter(page, lower-roman); font: 9pt "Noto Serif"; } }
+@page front { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+@page :first { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+@page :blank { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+ol.cont { margin-top: 0; }
+
+/* Contents pages: one table in every volume (printfix.contents_table).  Borders are on for now (user, Nov 26 2026: "we can print it borderless
+   later": set the two border lines below to none). */
+table.contents { width: 100%; border-collapse: collapse; font-size: 9.3pt; line-height: 1.4; margin: .15in 0 .1in; text-align: left; }
+table.contents th, table.contents td { border: .4pt solid #999; padding: 3pt 5pt; vertical-align: top; }
+table.contents th { font-weight: 700; text-align: left; background: #f3f3f3; }
+table.contents .no { width: 2.4em; text-align: right; white-space: nowrap; }
+table.contents .pg { width: 3em; text-align: right; white-space: nowrap; font-family: "Noto Serif", serif; }
+table.contents tr { page-break-inside: avoid; }
+table.contents tr.hd td { text-align: center; padding: 5pt; }
+table.contents td p, table.contents td ul, table.contents td ol { margin: 0; }
+table.contents a { color: inherit; text-decoration: none; }
+table.contents a.pgref::after { content: target-counter(attr(href), page); }
+p.cnote { text-align: center; font-size: 8pt; color: #666; margin-top: .1in; }
+
+/* headings: no word is broken with a hyphen; a part title is cut by the builder into number and title (printfix.part_titles) */
+h1, h2, h3, h4, h5 { hyphens: manual; }
+h1 .ht1 { display: block; font-size: 13pt; letter-spacing: .25em; margin-bottom: .25in; }
+h1 .ht2 { display: block; font-size: 19pt; line-height: 1.35; }
+h2.chapter .ht1 { display: block; font-size: 10pt; letter-spacing: .2em; text-transform: uppercase; font-weight: 400; margin-bottom: .12in; }
+h2.chapter .ht2 { display: block; font-size: 14pt; line-height: 1.35; }
+/* the original's name of the part ("Pūrva-pīṭhikā") stands in the footer, on a second line under the page of the Kannada edition */
+h1[data-orig] { string-set: sukhead attr(id), orig attr(data-orig); }
+h2.chapter[data-orig] { string-set: sukhead attr(data-short), orig attr(data-orig); }
+ol.cont { margin-top: -.6em; }
+span.pgmark { display: inline; }
+
+/* Sanskrit in quotations: smaller than the text, the transliteration smaller again and on its own line (printfix.sanskrit) */
+blockquote .dv { font-size: .88em; line-height: 1.5; }
+blockquote em.iast { font-size: .84em; line-height: 1.4; color: #333; }
+table.contents a.pgref[data-rm]::after { content: target-counter(attr(href), page, lower-roman); }
+table.contents a.sub { padding-left: 1.2em; display: block; }
+table.contents td.no { font-size: .9em; }
+p.qen { margin: .1em 0 .7em 1.2em; }
+
+/* tables of the text fit the page (printfix.wide_tables) */
+table { max-width: 100%; }
+td, th { overflow-wrap: break-word; }
+table.wide { table-layout: fixed; width: 100%; font-size: 7.4pt; line-height: 1.3; }
+table.wide td, table.wide th { padding: 1.5pt 2pt; overflow-wrap: anywhere; word-break: break-word; }
+table.wide .dv, table.wide em { font-size: 1em; }
+table.cols7, table.cols8, table.cols9 { font-size: 6.8pt; }
+
+/* Lines of even length: words may be broken at the line end (user, Nov 26 2026: "use word breakers to get better line alignment").
+   Kannada: at a syllable boundary, without a hyphen sign (as the printed original does); English: with a hyphen, never fewer than
+   3 letters on either side.  Headings, tables of contents and Sanskrit quotations are not broken. */
+html[lang="kn"] body { hyphens: auto; hyphenate-character: ""; hyphenate-limit-chars: 5 2 2; text-align: justify; }
+html[lang="en"] body { hyphens: auto; hyphenate-limit-chars: 6 3 3; }
+h1, h2, h3, h4, h5, table.contents, blockquote .dv, blockquote em.iast, .titlepage, .cover, .copyright { hyphens: manual; }
+
+/* Title levels (pilot, user Nov 26 2026): chapter (two lines, centred, new page) > level 1 > level 2 > level 3 */
+.lv1 { font-size: 12.5pt; font-weight: 700; font-style: normal; letter-spacing: .02em; text-align: left; margin: 1.5em 0 .5em; border-bottom: .5pt solid #999; padding-bottom: 2pt; page-break-after: avoid; }
+.lv2 { font-size: 11pt; font-weight: 700; font-style: normal; text-align: left; margin: 1.2em 0 .35em; border: 0; page-break-after: avoid; }
+.lv3 { font-size: 10pt; font-weight: 400; font-style: italic; text-align: left; margin: .9em 0 .25em; border: 0; page-break-after: avoid; }
