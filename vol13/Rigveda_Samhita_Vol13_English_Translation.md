@@ -4909,6 +4909,166 @@ In such Ṛks he explains रणति एतत्तूक्तरूपे�
 
 हेळः निधत्त अश्वान् वि मुचध्वं (*heḷaḥ nidhatta aśvān vi mucadhvaṃ*): the word हेळस् (*heḷas*) is read among the names for anger (Ni. 3-9). The Maruts should युष्मदतिक्रमजनितं क्रोधं निकृष्टं धारयत त्यजत (*yuṣmadatikramajanitaṃ krodhaṃ nikṛṣṭaṃ dhārayata tyajata*).
 
+### Printed p. 199
+…the Maruts are prayed to give up the anger that has arisen in them because they were transgressed against. And "do not go back in anger": let the horses be unyoked from the chariots made ready to come to the sacrifice, and let them not turn back in anger. This is the prayer of the sage Agastya stated here; so the meaning has been described.
+
+##### Grammar
+
+- नमसा—णमु प्रह्वत्वे शब्दे च धातुः । औणादिकः असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- एमि—इण् गत्. धातुः । लट् उत्तमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- सूक्तेन—वच परिभाषणे. धातुः । क्तप्रत्ययः । वचिस्वपियजादीनां किति (पा. सू. ६-१-१५) इति संप्रसारणं पूर्वरूपं च । नञ्सुभ्याम् (पा.सू. ६-२-१७२) इति अंतोदात्तस्वरः भवति ।
+- भिक्षे—भिक्ष याज्ञायां. धातुः । लट् उत्तमपुरुष एकवचनांतरूपम्, तिजंत निघात स्वरः भवति ।
+- सुमतिम्—मन ज्ञाने. मंत्रे वृषेषपच—(पा. सू. ३-३-९६) इति क्तिन् उदात्तः भवति । कृदुत्तरपद प्रकृतिस्वरः भवति ।
+- तुराणां—तुर त्वर्णे, धातुः, इगुपधज्ञा प्रीकिरः कः (पा. सू. ३-१-१५५) इति क प्रत्ययः । कित्त्वात् लघोपधगुणः न भवति । अथवा तुर्वी हिंसायां धातुः । पचादिषु अंतर्भूतत्वात् अट् प्रत्ययः । छांदसः वकारलोपः । प्रत्यय स्वरेण अंतोदात्तः भवति । षष्ठि बहुवचनांतरूपम् ।
+- रराणता—रमु क्रीडायां धातुः । अस्मात् लडर्थे शानच् । बहुलं छंदसि इति श्लु निमित्तेन धातोः द्वित्वे प्राप्ते व्यत्ययेन धातु मकारस्य अत्वम् । तृतीया टा परे तकारः अधिकः आगच्छति ।
+- धत्त—डुधाञ् धारणपोषणयोः धातुः । लोट् मध्यमपुरुष बहुवचनांतरूपम्, पादादौ स्थितत्वात् निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- मुचध्वं—मुच्‌ल्य मोक्षणे. धातुः । तुदादिः । लोट् मध्यमपुरुष बहुवचने ध्वम् प्रत्ययः । टेः एत्वे प्राप्ते सवाभ्यांवाम् (पा. सू. ३-४-९१) इति अमादेशः । तिजंतनिघातस्वरः भवति । ॥ १ ॥
+
+### Printed p. 200
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वः॒ स्तोमो॑ मरुतो॒ नम॑स्वान्हृ॒दा त॒ष्टो मन॑सा धायि  
+> देवाः ।  
+> उपे॒मा या॑त॒ मन॑सा जुषा॒णा यू॒यं हि ष्ठा नम॑स॒  ॒॑
+> इद्वधासः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वः । स्तोमः । मरुतः । नमस्वान् । हृदा । तष्टः । मनसा । धायि. । देवाः ।  
+> उप । ईं । आ । यात । मनसा । जुषाणाः । यूयं । हि । स्थ । नमसः । इत् । वृधासः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः एष वः स्तोम इदानीं क्रियमाणप्रकारो वो युष्माकं ।
+> युष्मदर्थ इत्यर्थः । कीदृशोऽयं । नमस्वान् । नम इत्यन्ननाम । हविर्लक्षणान्नवान् । न केवलं स्तुतिमात्रं भक्षणाय हविरपि युष्माकमित्यर्थः । किंच हृदा तप्पो
+> युष्मन्निवेदनबुद्ध्या संपादितः । तादृशः स्तोमो हे देवा देवनशीलाः
+> मनसास्मदनुग्रहवता चित्तेन धायि । धार्यतां । तदर्थं मनसादरया बुद्ध्या
+> जुषाणा ईमेनां स्तुतिं तद्धविश्च सेवमाना उपा यात । उपागच्छतैव । मा
+> विलंबं कुरुत । यूयं नमसोऽन्नस्य हवीरूपस्य वृधासः स्थ ह । वर्धयितारो
+> भवथ खलु । अतो गंतव्यमेव । इत्तूरणः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, this praise of yours", the kind now being performed, is "for you", that is, made for your sake. What kind is it? नमस्वान् (*namasvān*): नम (*nama*) is a name for food, so it is accompanied by food in the form of oblations. Not praise alone: there are also oblations of yours for eating. Moreover it is "wrought by the heart", brought about with the intent of offering it to you. Let such praise, O divine ones, be held with a mind favourable to us. For that, receiving this praise and its oblation with a respectful mind, come near; do not delay. You are the increasers of food in the form of oblations; therefore you must come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts
+- नमस्वान् (*namasvān*)—accompanied by homage (oblations)
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise
+- वः (*vaḥ*)—for you
+- हृदा (*hṛdā*)—wholeheartedly
+- तप्पः (*tappaḥ*)—has been prepared (such a praise)
+- (हे) देवाः (*(he) devāḥ*)—O shining Maruts
+- मनसा (*manasā*)—with a respectful mind
+- धायि (*dhāyi*)—let it be held (accepted)
+- यूयं (*yūyaṃ*)—you
+- नमसः (*namasaḥ*)—of the food in the form of oblations
+- वृधासः स्थ हि इत् (*vṛdhāsaḥ stha hi it*)—you are indeed the increasers (therefore)
+- मनसा (*manasā*)—with a respectful mind
+- ईं (*īṃ*)—this (offered by us: homage or praise)
+- जुषाणाः (*juṣāṇāḥ*)—receiving
+- उप आयात (*upa āyāta*)—come
+
+### Printed p. 201
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, this praise, accompanied by homage (oblations), has been prepared for you wholeheartedly. Accept this praise of ours respectfully; since you are the increasers of the oblation, come with gracious hearts to accept our oblation.
+
+##### English translation (H. H. Wilson)
+This praise, accompanied by offerings, Maruts, ir for you, offered from the heart : accept it, divinities, with favour, and come with willing minds (to receive) these (laudations), for you are the augmenters of sacrificial food. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+वः स्तोमः नमस्मान् हृदा तष्टः (*vaḥ stomaḥ namasmān hṛdā taṣṭaḥ*)—इदानीं क्रियामाणप्रकारः हविर्लक्षणान्नर्वा युष्मनिवेदनबुद्ध्या संपादितः । (*idānīṃ kriyāmāṇaprakāraḥ havirlakṣaṇānnarvā yuṣmanivedanabuddhyā saṃpāditaḥ |*). Our intellect, which recites addressing the Maruts and prepares and offers the oblation for them, exists only to win their favour. Hence मनसा धायि अस्मदनुग्रहवता चित्तेन धार्यतां (*manasā dhāyi asmadanugrahavatā cittena dhāryatāṃ*): the prayer is that the shining Maruts, with a mind that shows favour to us, listen to our praises and accept our oblations. Here the words हृदा तप्पः (*hṛdā tappaḥ*) and मनसा धायि (*manasā dhāyi*) make clear the intent of the composition; they indicate its skill and its power to delight.
+तष्टः (*taṣṭaḥ*)—तक्षतिः करोतिकर्मा (*takṣatiḥ karotikarmā*) (Ni. 4-19). Whenever skill in making is indicated, this word is used.
+आ शे अग्न ऋचा हविर्हृदा तप्पं भरामसि (*ā śe agna ṛcā havirhṛdā tappaṃ bharāmasi*) (Ṛ. Saṃ. 6-16-47)
+हृदिस्पृशो मनसा वच्यमाना अस्मभ्यं चित्रं वृषणं रयिं दाः । (*hṛdispṛśo manasā vacyamānā asmabhyaṃ citraṃ vṛṣaṇaṃ rayiṃ dāḥ |*) (Ṛ. Saṃ. 10-47-7)
+In such places, as described there, the meaning is that a quality delighting the mind and a devout skill are joined together.
+मनसा जुषाणाः ईं उपा यात (*manasā juṣāṇāḥ īṃ upā yāta*)—आदरया बुद्ध्या एनां स्तुतिं तद्धविश्चसेवमानाः मा विलंबं कुरुत । (*ādarayā buddhyā enāṃ stutiṃ taddhaviścasevamānāḥ mā vilaṃbaṃ kuruta |*). The prayer is that the Maruts, with a mind full of affection toward us who praise them, come quickly to our sacrifice in order to hear our praise and to partake of our oblation.
+
+### Printed p. 202
+Here the particle ईं (*īṃ*) is spoken of by the Nirukta authors thus: अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति, पदपूरणास्ते मिताक्षरेष्टनर्थकाः कमीमिद्विति । (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti, padapūraṇāste mitākṣareṣṭanarthakāḥ kamīmidviti |*) (Ni. 1-9). The particles कं (*kaṃ*), ईं (*īṃ*), इत् (*it*), उ (*u*) are used in sentences to fill out the sentence, and in the metres to fill out the line. But since it is also said एवमुच्चावचेष्टर्थेषु निपतंति त उपेक्षितव्याः बहुप्रकारेषु समाहृताश्चान्येप्येवं बहुप्रकारा प्रयुज्यमाना अर्थनिर्वचनशास्त्रमुपगम्य ईक्षितव्याः (*evamuccāvaceṣṭartheṣu nipataṃti ta upekṣitavyāḥ bahuprakāreṣu samāhṛtāścānyepyevaṃ bahuprakārā prayujyamānā arthanirvacanaśāstramupagamya īkṣitavyāḥ*), that is, the use in each text according to its own meaning is to be understood following the rule of the respective śāstra, the meaning एनां स्तुतिं (*enāṃ stutiṃ*), "this praise", has been given here for the particle ईं (*īṃ*). The word इत् (*it*) is described as used for filling out the line, and then: यूयं नमसः वृधासः स्थ हि (*yūyaṃ namasaḥ vṛdhāsaḥ stha hi*), हवीरूपस्य अन्नस्य वर्धयितारो भवथ खलु (*havīrūpasya annasya vardhayitāro bhavatha khalu*). That the Maruts are increasers even of the food that takes the form of the oblation is a well-known matter.
+रोदसी हि मरुतश्च क्रिरे वृधे मदंति वीरा विदथेषु फृष्टयः । (*rodasī hi marutaśca krire vṛdhe madaṃti vīrā vidatheṣu phṛṣṭayaḥ |*) (Ṛ. Saṃ. 1-85-1)
+Because the Maruts are the cause of the growth of heaven and earth and the means of the increase of food, it is described in many places that through their favour sacrificers obtain comfort and joy in carrying out sacrifices and other rites and in enjoying the wealth of life. But one more point must be noticed here. In one or two places it is stated that the Maruts procure the food useful for the oblation, but do not themselves consume the oblation as the other gods do. For example:
+अहुतादौ ना देवानां मरुतः (*ahutādau nā devānāṃ marutaḥ*) (Śa. Brā. 4-5-2-16)
+Although it is stated emphatically that the Maruts do not eat offered food, it should be noticed that in those places "unoffered food" does not mean the oblation that is ordinarily offered. Therefore, in the present Ṛk, the meaning of वः स्तोमः नमस्वान् हृदा तष्टः (*vaḥ stomaḥ namasvān hṛdā taṣṭaḥ*) is naturally that the praise has been made together with the oblation-food.
+सीदता बर्हिरुरु वः सदस्यृतं मादयध्वं मरुतो मध्वो अंधसः । (*sīdatā barhiruru vaḥ sadasyṛtaṃ mādayadhvaṃ maruto madhvo aṃdhasaḥ |*) (Ṛ. Saṃ. 1-85-6)
+In such places the prayer "be gratified by drinking the sweet Soma juice" is clear.
+
+### Printed p. 203
+
+##### Grammar
+
+- नमस्वान्—नमः अन्नं अस्य अस्ति इति नमस्वान् । मतुप् प्रत्ययः । माडुपधायाश्च—इति मकारस्य वत्वम् । प्रत्ययः पित्त्वात् अनुदात्तः भवति ।
+- हृदा—हृदयशब्दात् तृतीया एकवचने परे पद्दन्नोमास्—(पा. सू. ६-१-६३) इति हृदादेशः । ऊडिदंपदादि—(पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरः भवति ।
+- तष्टः—तक्षू तनूकरणे. धातुः । कर्मणि क्त प्रत्ययः । स्कोः संयोगा—इति तकारस्य लोपः । प्रत्यय स्वरेण अंतोदात्तः भवति ।
+- धायि—डुधाञ् धारणपोषणयोः धातुः । कर्मणि छांदसः लुज् । चिळ्गॆ चिण् । चिणो लुक् (पा. सू. ६-४-१०४) इति त शब्दस्य लुक् । आतो युक् चिण् कृतोः (पा. सू. ७-३-३३) इति युकागमः । छांदसत्वात् अडगमः न भवति । तिजंत निघातस्वरः भवति ।
+- यात—या प्रापणे, धातुः । लोट् मध्यमपुरुष बहुवचनांतरूपम् । तिजंतनिघात स्वरः भवति ।
+- जुषाणाः—जुषीप्रीति सेवनयोः धातुः । लटः शानचादेशः । अट् कुप्वाज्—सूत्रेण तस्य नकारस्य णत्वम् । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
+- स्थॆ—आस भुनि धातुः । लट् मध्यमपुरुष बहुवचनांतरूपम् । निघातस्वरः भवति ।
+- वृधासः—वृधु वृद्धौ धातुः । इगुपधज्ञाप्रीकिरः कः (पा. सू. ३-१-१३५) इति त प्रत्ययः । वृध इत्यस्मात् जस् परे आज्जसेरसुक् (पा. सू. ७.१-५०) इति तस्य असुकागमः । क प्रत्ययस्वरः भवति । ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒तासो॑ नो म॒रुतो॑ मृळयंतू॒त स्तु॒तो म॒घवा॒ शंभ॑विष्ठः ।  
+> ऊ॒र्ध्वान् नः॑ संतु को॒म्या वना॒न्यहा॑नि॒ विश्वा॑ मरुतो जिगी॒षा ॥ ३ ॥
+
+### Printed p. 204
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुतासः । नः । मरुतः । मृळयंतु । उत । स्तुतः । मघवा । शंभविष्यः ।  
+> ऊर्ध्वा । नः । संतु । कोम्या । वनानि । अहानि । विश्वा । मरुतः । जिगीषा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुतः स्तुतासः स्तुताः संतो नोऽस्मान्मृळयंतु सुखयंतु ।
+> उतापि च मघवा । मघमिति धननाम । अस्मद्दातव्यबहुधनेन तद्वानिंद्रः स्तुतः
+> शंभविष्ठः सुखस्य भावियितृतमः सन्नस्मान्मृळयतु । किंच हे मरुतः नोऽस्माकं
+> जिगीषा ॥ जिगातेर्गतिकर्मणो जिगीषा ॥ जिगीषितव्यानि प्राप्तव्यान्युत्तरत्रानुभूयमानानि विश्वा सर्वाण्यहानि दिवसानूर्ध्वोन्नतान्युपर्युपरि श्रिया यशसा
+> वोत्कृष्टानि कोम्या काम्यानि स्पृहणीयानि वनानि सर्वैः संभजनीयानि संतु ।
+> जिगीषा जेतुमिष्टानि जेतव्यानि च संत्विति वा योज्यं । एवं कृत्वा मरुत इंद्रश्च
+> सुखयंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts, being praised, make us happy. And Maghavan, Indra: *maghaṃ* is a name for wealth; he is possessed of the abundant wealth to be given to us. Praised, as the greatest bringer of happiness, let him make us happy. Further, O Maruts, जिगीषा (*jigīṣā*): from *jigāti*, a verb of motion, meaning things to be attained and later experienced. May all the days be ऊर्ध्वा (*ūrdhvā*), raised up, excelling more and more in splendour or fame, कोम्या (*komyā*), desirable and coveted, and वनानि (*vanāni*), to be shared by all. Or it is to be construed: जिगीषा (*jigīṣā*), may they be wished to be won and fit to be won. Having done so, may the Maruts and Indra make us happy: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ते) मरुतः (*(te) marutaḥ*)—those Maruts
+- स्तुतासः (*stutāsaḥ*)—praised (by us)
+- नः (*naḥ*)—us
+- मृळयंतु (*mṛḷayaṃtu*)—let them make happy
+- उत (*uta*)—and
+- स्तुतः (*stutaḥ*)—praised
+- मघवा (*maghavā*)—Indra, endowed with wealth (to be given to us)
+- शंभविष्यः (*śaṃbhaviṣyaḥ*)—as the greatest bringer of happiness
+- *(mṛḷayatu)*—let him grant us happiness
+- *(kiṃca)*—and
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts
+- नः (*naḥ*)—to us
+- जिगीषा (*jigīṣā*)—to be attained
+- विश्वा अहानि (*viśvā ahāni*)—all days
+- ऊर्ध्वा (*ūrdhvā*)—excellent
+- कोम्या (*komyā*)—desirable
+- वनानि (*vanāni*)—causes of happiness (for all), and
+- *(jigīṣā)*—worthy of being won
+- संतु (*saṃtu*)—let them be (by your favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, praised by us, give us happiness; let Indra, lord of wealth, also being praised, bring happiness; and O Maruts, let it be so, as all wish; may we henceforth (by your favour) live happily and in the best manner.
+
+##### English translation (H. H. Wilson)
+May the Maruts, now hymned, bestow happiness upon us : may Maghavan, now glorified, be propitious to us : Maruts, may all the
+
 ---
 
-**Progress note:** Done through printed p. 198. pp. 193-198 (batch API)
+**Progress note:** Done through printed p. 204. pp. 199-204 (batch API)
