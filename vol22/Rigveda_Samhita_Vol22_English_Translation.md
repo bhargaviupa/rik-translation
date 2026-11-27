@@ -5821,6 +5821,274 @@ The Vasiṣṭhas, thirsting (तृष्णजः (*tṛṣṇajaḥ*)), surro
 - लोकं (*lokaṃ*)—a kingdom
 - अकृणोत् (*akṛṇot*)—made and gave
 
+### Printed p. 133
+
+##### भावार्थ (Bhāvārtha)
+
+Vasiṣṭha, who was parched with thirst, surrounded by the kings called Tritsus, and begging for rain, made Indra shine like the sun in the battle fought against the ten kings. Indra heard Vasiṣṭha's praise. He fashioned a very spacious kingdom for the kings called Tritsus.
+
+##### English translation
+Suffering from thirst, soliciting (rain), supported (by the Tritsus in the war with the ten Rajas, (the Vasishthas) made Indra radiant as the sun: Indra heard (the praises) of Vasishtha glorifying him, and bestowed a spacious region on the Tritsus.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दं॒डा इ॒वेद्गो॒ऽअज॑नास आस॒न्परि॑च्छिन्ना भर॒ता अ॑र्भ॒कासः॑ ।  
+> अभ॑वच्च पुरए॒ता वसि॑ष्ठ॒ आदित्तृत्सू॑नां॒ विशो॑ अप्रथंत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दंडाःऽइव । इत् । गोऽअजनासः । आसन् । परिऽछिन्नाः । भरताः । अर्भकासः ।  
+> अभवत् । च । पुरःऽएता । वसिष्ठः । आत् । इत् । तृत्सूनां । विशः । अप्रथंत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोऽअजनासो गवां प्रेरका दंडा इव यथा दंडाः परिच्छिन्नपत्रोपशाखा भवंति तद्वद्भरताः । तृत्सूनामेव राज्ञां भरता इति नामांतरेणोपादानं । शत्रुभिः परिच्छिन्ना एवासन् । अर्भकासोऽर्भका अल्पाश्चासन् । आदित्परिच्छिन्नत्वादनंतरमेव तेषां तृत्सूनां वसिष्ठः पुरएता पुरोहितोऽभवच्च । तत्पुरोहित्यसामर्थ्यात्तृत्सूनां विशः प्रजाः अप्रथंत । आवर्धंत ॥
+
+##### Gist of the bhāṣya
+
+The Bharatas are like staves for driving cattle (गोऽअजनासः (*go 'ajanāsaḥ*), those who drive cows). Just as staves have their leaves and twigs stripped off all round, so the Bharatas were stripped all round by their enemies. "Bharatas" is another name used for the very kings who are the Tritsus. They were hemmed in by their enemies and they were few (अर्भकासः (*arbhakāsaḥ*)). Immediately after being thus stripped, Vasiṣṭha became their leader in front (पुरएता (*puraetā*)), their family priest. Through the power of his priesthood the subjects (विशः (*viśaḥ*)) of the Tritsus prospered; अप्रथंत (*aprathaṃta*) means "they grew".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोअजनासः (*goajanāsaḥ*)—those who prepare to drive cattle
+- दंडा इव (*daṃḍā iva*)—to staves: just as they have all leaves and the like stripped off and become bare
+- भरताः (*bharatāḥ*)—these Bharatas (the Tritsus)
+- परिच्छिन्ना इत् (*paricchinnā it*)—having their wealth completely carried off by enemies
+- आसन् (*āsan*)—became; they also became very few
+- अर्भकासः (*arbhakāsaḥ*)—very few
+- आदित् (*ādit*)—immediately thereafter
+- तृत्सूनां (*tṛtsūnāṃ*)—for these Tritsus
+- वसिष्ठः (*vasiṣṭhaḥ*)—Vasiṣṭha
+- पुरएता (*puraetā*)—as family priest
+- अभवच्च (*abhavacca*)—became
+- विशः (*viśaḥ*)—(as a result) all their subjects
+- अप्रथंत (*aprathaṃta*)—attained growth
+
+### Printed p. 134
+
+##### भावार्थ (Bhāvārtha)
+
+Just as staves prepared for driving cattle have all their leaves and the like stripped off and are made bare, the Tritsus, their wealth completely carried off by enemies, became destitute. They also became very few. Immediately after that, Vasiṣṭha became family priest to these Tritsus. As a result all their subjects prospered.
+
+##### English translation
+The Bharatas, inferior (to their foes), were shorn (of their positions), like the staves for driving cattle, (stripped of their leaves and branches): but Vashistha became their family priest, and the people of the Tritsus prospered,
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रयः॑ कृण्वंति॒ भुव॑नेषु॒ रेत॑स्ति॒स्रः प्र॒जा आर्या॒ ज्योति॑रग्राः ।  
+> त्रयो॑ घ॒र्मास॑ उ॒षसं॑ सचंते॒ सर्वा॒ इत्ता अनु॑ विदु॒र्वसि॑ष्ठाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रयः । कृण्वंति । भुवनेषु । रेतः । तिस्रः । प्रजाः । आर्याः । ज्योतिःऽअग्राः ।  
+> त्रयः । घर्मासः । उषसं । सचंते । सर्वान् । इत् । तान् । अनु । विदुः । वसिष्ठाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भुवनेषु पृथिव्यंतरिक्षद्युषु त्रयोऽग्निवायुसूर्या यथाक्रमेण रेतो विश्वस्य धारकमुदकं कृण्वंति । कुर्वंति । तेषां त्रयाणां ज्योतिरग्रा आदित्यप्रमुखा आर्याः श्रेष्ठास्तिस्रः प्रजा भवंति । ते च त्रयोऽग्निवायुसूर्या घर्मासो दीप्यमाना उषसं सचंते । समवयंति । दुर्ज्ञानात्सर्वानित्सर्वानेव तान्वसिष्ठा अनु विदुः । अभिजानंति । तेषां रहस्यविज्ञानादियमपि वसिष्ठानामेव स्तुतिः । तथा च शाट्यायनकं । त्रयः कृण्वंति भुवनेषु रेत इत्यग्निः पृथिव्यां रेतः कृणोति वायुरंतरिक्ष आदित्यो दिवि तिस्रः प्रजा आर्या ज्योतिरग्रा इति वसवो रुद्रा आदित्यास्तासां ज्योतिर्यदसावादित्यस्त्रयो घर्मास उषसं सचंत इत्यग्निरुषसं सचते वायुरुषसं सचत आदित्य उषसं सचत इति ॥
+
+##### Gist of the bhāṣya
+
+In the worlds, that is earth, atmosphere and heaven, the three, Agni, Vāyu and Sūrya respectively, produce रेतः (*retaḥ*), water, which sustains the universe. Of these three, the noble (आर्याः (*āryāḥ*)), excellent three classes of beings (प्रजाः (*prajāḥ*)), headed by the Āditya, who is their light, come into being. And those three, Agni, Vāyu and Sūrya, shining (घर्मासः (*gharmāsaḥ*)), attend upon Uṣas. Because this is hard to know, the Vasiṣṭhas know all of them; hence this Ṛk is also a praise of the Vasiṣṭhas, who know their secret. Śāṭyāyanaka accordingly says: त्रयः कृण्वंति भुवनेषु रेतस्तिस्रः प्रजा आर्या ज्योतिरग्राः । त्रयो घर्मास उषसं सचंते सर्वा इत्ता अनु विदुर्वसिष्ठाः ॥ ७ ॥ त्रयः । कृण्वंति । भुवनेषु । रेतः । तिस्रः । प्रजाः । आर्याः । ज्योतिःऽअग्राः । त्रयः । घर्मासः । उषसं । सचंते । सर्वान् । इत् । तान् । अनु । विदुः । वसिष्ठाः ॥ भुवनेषु पृथिव्यंतरिक्षद्युषु त्रयोऽग्निवायुसूर्या यथाक्रमेण रेतो विश्वस्य धारकमुदकं कृण्वंति । कुर्वंति । तेषां त्रयाणां ज्योतिरग्रा आदित्यप्रमुखा आर्याः श्रेष्ठास्तिस्रः प्रजा भवंति । ते च त्रयोऽग्निवायुसूर्या घर्मासो दीप्यमाना उषसं सचंते । समवयंति । दुर्ज्ञानात्सर्वानित्सर्वानेव तान्वसिष्ठा अनु विदुः । अभिजानंति । तेषां रहस्यविज्ञानादियमपि वसिष्ठानामेव स्तुतिः । तथा च शाट्यायनकं । त्रयः कृण्वंति भुवनेषु रेत इत्यग्निः पृथिव्यां रेतः कृणोति वायुरंतरिक्ष आदित्यो दिवि तिस्रः प्रजा आर्या ज्योतिरग्रा इति वसवो रुद्रा आदित्यास्तासां ज्योतिर्यदसावादित्यस्त्रयो घर्मास उषसं सचंत इत्यग्निरुषसं सचते वायुरुषसं सचत आदित्य उषसं सचत इति ॥ (*trayaḥ kṛṇvaṃti bhuvaneṣu retastisraḥ prajā āryā jyotiragrāḥ | trayo gharmāsa uṣasaṃ sacaṃte sarvā ittā anu vidurvasiṣṭhāḥ ‖ 7 ‖ trayaḥ | kṛṇvaṃti | bhuvaneṣu | retaḥ | tisraḥ | prajāḥ | āryāḥ | jyotiḥ 'agrāḥ | trayaḥ | gharmāsaḥ | uṣasaṃ | sacaṃte | sarvān | it | tān | anu | viduḥ | vasiṣṭhāḥ ‖ bhuvaneṣu pṛthivyaṃtarikṣadyuṣu trayo 'gnivāyusūryā yathākrameṇa reto viśvasya dhārakamudakaṃ kṛṇvaṃti | kurvaṃti | teṣāṃ trayāṇāṃ jyotiragrā ādityapramukhā āryāḥ śreṣṭhāstisraḥ prajā bhavaṃti | te ca trayo 'gnivāyusūryā gharmāso dīpyamānā uṣasaṃ sacaṃte | samavayaṃti | durjñānātsarvānitsarvāneva tānvasiṣṭhā anu viduḥ | abhijānaṃti | teṣāṃ rahasyavijñānādiyamapi vasiṣṭhānāmeva stutiḥ | tathā ca śāṭyāyanakaṃ | trayaḥ kṛṇvaṃti bhuvaneṣu reta ityagniḥ pṛthivyāṃ retaḥ kṛṇoti vāyuraṃtarikṣa ādityo divi tisraḥ prajā āryā jyotiragrā iti vasavo rudrā ādityāstāsāṃ jyotiryadasāvādityastrayo gharmāsa uṣasaṃ sacaṃta ityagniruṣasaṃ sacate vāyuruṣasaṃ sacata āditya uṣasaṃ sacata iti ‖*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुवनेषु (*bhuvaneṣu*)—in the three worlds, earth and the rest
+- त्रयः (*trayaḥ*)—the three, Agni, Vāyu and Āditya
+- रेतः (*retaḥ*)—water
+- कृण्वंति (*kṛṇvaṃti*)—produce. (Among these three also)
+
+### Printed p. 135
+
+- ज्योतिरग्राः (*jyotiragrāḥ*)—those headed by the Āditya
+- आर्याः (*āryāḥ*)—and excellent
+- तिस्रः प्रजाः (*tisraḥ prajāḥ*)—the three, Vasus, Rudras and Ādityas, become manifest
+- त्रयः (*trayaḥ*)—these three
+- घर्मासः (*gharmāsaḥ*)—shining
+- उषसं (*uṣasaṃ*)—the goddess Uṣas
+- सचंते (*sacaṃte*)—attend upon
+- तान् सर्वान् इत् (*tān sarvān it*)—all those
+- वसिष्ठाः (*vasiṣṭhāḥ*)—the Vasiṣṭha family
+- अनु विदुः (*anu viduḥ*)—have known as they truly are
+
+##### भावार्थ (Bhāvārtha)
+
+In the three worlds, earth and the rest, the three, Agni, Vāyu and Āditya, produce water. Among these three, the three classes of beings, the Vasus, Rudras and Ādityas, headed by the Āditya and excellent, become manifest. These three, shining, attend upon the goddess Uṣas. The Vasiṣṭhas have known all of them as they truly are.
+
+##### English translation
+Three shed moisture upon the regions, three are their glorious progeny, of which the chief is night : three communicators of warmth accompany the dawn : verily the Vashisthas understand all these.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर्य॑स्येव व॒क्षथो॒ ज्योति॑रेषां समु॒द्रस्ये॑व महि॒मा ग॑भी॒रः ।  
+> वात॑स्येव प्रज॒वो नान्येन॒ स्तोमो॑ वसिष्ठा॒ अन्वे॑तवे वः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यस्यऽइव । वक्षथः । ज्योतिः । एषां । समुद्रस्यऽइव । महिमा । गभीरः ।  
+> वातस्यऽइव । प्रजवः । न । अन्येन । स्तोमः । वसिष्ठाः । अनुऽएतवे । वः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसिष्ठाः एषां वो युष्माकं स्तोमो महिमापि वा सूर्यस्य ज्योतिरिव वक्षथः प्रकाशोऽस्ति । हे वसिष्ठाः वो युष्माकं महिमा स्तोमोऽपि वा समुद्रस्येव गभीरो गंभीरोऽस्ति । तथा हे वसिष्ठाः एषां वो युष्माकं स्तोम ऋक्समूहो महिमापि वा वातस्येव प्रजवो यथा वातस्य प्रवेगोऽन्येनान्वेतुं न शक्यस्तद्वदन्येनान्वेतवेऽन्वेतुं न शक्यः ॥
+
+##### Gist of the bhāṣya
+
+O Vasiṣṭhas, the praise (स्तोमः (*stomaḥ*)) of you, or your greatness (महिमा (*mahimā*)), shines like the light of the sun (वक्षथः (*vakṣathaḥ*), brightness). O Vasiṣṭhas, your greatness, or your praise, is deep (गभीरः (*gabhīraḥ*)) like the ocean. And your praise, the collection of Ṛks, or your greatness, has the swiftness (प्रजवः (*prajavaḥ*)) of the wind: as the rush of the wind cannot be followed by another, so this cannot be followed, that is, matched, by any other.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठाः (*vasiṣṭhāḥ*)—O Vasiṣṭhas
+- एषां वः (*eṣāṃ vaḥ*)—of you, the renowned
+- महिमा (*mahimā*)—greatness
+- सूर्यस्य (*sūryasya*)—of the sun
+- ज्योतिःइव (*jyotiḥiva*)—like the radiance
+- वक्षथः (*vakṣathaḥ*)—shines
+- समुद्रस्येव (*samudrasyeva*)—like the ocean
+- गभीरः (*gabhīraḥ*)—is profound
+- स्तोमः (*stomaḥ*)—your praise
+- वातस्येव (*vātasyeva*)—
+
+### Printed p. 136
+
+- like the wind
+- प्रजवः (*prajavaḥ*)—is swift
+- अन्येन (*anyena*)—by any others (by other praises)
+- अन्वेतवे (*anvetave*)—to surpass it
+- न (*na*)—is not possible
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasiṣṭhas, the greatness of you, the renowned, shines like the radiance of the sun. It is profound like the ocean. Your praise is swift like the wind. It cannot be surpassed by the praises of others.
+
+##### English translation
+The glory of these Vashisthas is like the splendour of the sun : their greatness as profound as (the depth of) the ocean : your praise, Vashisthas has the velocity of the wind : by no other can it be surpassed.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska says that in the Ṛgveda mantras not only deities but also Pitṛs and Ṛṣis are praised, and he gives this Ṛk, which describes the praise of the Ṛṣis, as an example (Ni. 11-20). In this Ṛk there is a description of the greatness of the sage Vasiṣṭha and of the Vasiṣṭha family, the sons of Vasiṣṭha and others.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त इन्नि॒ण्यं हृद॑यस्य प्रके॒तैः स॒हस्र॑वल्यम॒भि सं च॑रंति ।  
+> य॒मेन॑ त॒तं प॑रि॒धिं वयं॑तोऽप्स॒रस॒ उप॑ सेदु॒र्वसि॑ष्ठाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । इत् । निण्यं । हृदयस्य । प्रकेतैः । सहस्रऽवल्शं । अभि । सं । चरंति ।  
+> यमेन । ततं । परिधिं । वयंतः । अप्सरसः । उप । सेदुः । वसिष्ठाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त इत्त एव वसिष्ठा निण्यं तिरोहितं दुर्ज्ञानं । निण्यं सस्वरित्यंतर्हितनामसु पाठात् । सहस्रवल्यं सहस्रशाखं संसारं हृदयस्य प्रकेतैः प्रज्ञानैरभि सं चरंति । एवं स्वाच्छंद्येनाभिसंचरंतस्ते वसिष्ठा यमेन कारणात्मना सर्वनियंत्रा ततं विस्तृतं परिधिं वस्त्रं । परिधिरित्यनेन जन्मादिप्रवाहो विवक्षितः । तं वयंतोऽप्सरसो जननीत्वेनोप सेदुः । अत्र वसिष्ठा इति बहुवचनं पूजायां । वसिष्ठः पूर्वं प्रजापतेरुत्पन्नं देहमुत्सृज्याप्सरःसु जायेयेति बुद्धिमकरोदिति भावः ॥
+
+##### Gist of the bhāṣya
+
+Those very Vasiṣṭhas move about, with the insights (प्रकेतैः (*praketaiḥ*)) of the heart, in the hidden (निण्यं (*niṇyaṃ*), concealed, hard to know) thousand-branched saṃsāra; he notes that निण्यं (*niṇyaṃ*) is read among the names meaning "hidden". Thus roaming at will, those Vasiṣṭhas, weaving the garment (परिधिं (*paridhiṃ*)) spread out by Yama, who as the causal self controls all, approached the Apsarases as mothers. By "garment" the stream of birth and the rest is meant. The plural *Vasiṣṭhas* is used in honour. The sense is that Vasiṣṭha, formerly born of Prajāpati, gave up that body and conceived the thought "may I be born among the Apsarases".
+
+### Printed p. 137
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते इत् वसिष्ठाः (*te it vasiṣṭhāḥ*)—those very Vasiṣṭhas
+- निण्यं (*niṇyaṃ*)—the saṃsāra that is secret, beyond the knowledge of others
+- सहस्रवल्शं (*sahasravalśaṃ*)—and has thousands of branches
+- हृदयस्य (*hṛdayasya*)—of their heart
+- प्रकेतैः (*praketaiḥ*)—with insights
+- अभि सं चरंति (*abhi saṃ caraṃti*)—enter and move about everywhere
+- यमेन (*yamena*)—by Yama, the controller of the world
+- ततं (*tataṃ*)—spread out widely
+- परिधिं (*paridhiṃ*)—the garment (the stream of birth and the rest)
+- वयंतः (*vayaṃtaḥ*)—taking on
+- अप्सरसः (*apsarasaḥ*)—in the womb of an Apsaras
+- उपसेदुः (*upaseduḥ*)—have been born
+
+##### भावार्थ (Bhāvārtha)
+
+Those very Vasiṣṭhas, of great glory, with the insights of their heart enter and move about everywhere in the saṃsāra, which is secret, beyond the knowledge of others, and has thousands of branches. They entered the stream of birth and the rest, spread out widely by Yama, the controller of the world, and were born in the womb of an Apsaras.
+
+##### English translation
+By the wisdom seated in the heart the Vashisthas traverse the hidden thonsand-branched world, and the Apsaras sit down, wearing the vesture spread out by Yama.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्युतो॒ ज्योतिः॒ परि॑ सं॒जिहा॑नं मि॒त्रावरु॑णा॒ यदप॑श्यतां त्वा  
+> तत्ते॒ जन्मो॒तैकं॑ वसिष्ठा॒गस्त्यो॒ यत्त्वा॑वि॒श आ॑ज॒भार॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्युतः । ज्योतिः । परि । संजिहानं । मित्रावरुणा । यत् । अपश्यतां । त्वा ।  
+> तत् । ते । जन्म । उत । एकं । वसिष्ठ । अगस्त्यः । यत् । त्वा । विशः । आजभार ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतास्वृक्षु वसिष्ठस्यैव देहपरिग्रहः प्रतिपाद्यते । एताश्चेंद्रस्य वाक्यमित्येके वर्णयंत्यपरे वसिष्ठपुत्राणामिति । हे वसिष्ठ यद्यदा विद्युतो विद्युत इव स्वीयं ज्योतिर्देहांतरपरिग्रहार्थं परि संजिहानं परित्यजंतं त्वा त्वां ॥ छांदसमात्मनेपदं ॥ यद्वा । जिघृक्षितदेहार्थं स्वीयं ज्योतिः परि संजिहानं । परिजिघृक्षंत-मित्यर्थः ॥ अस्मिन्पक्षे जहातेर्गर्त्यर्थत्वादात्मनेपदं छांदसं न भवति ॥ मित्रावरुणा मित्रावरुणावपश्यतां । आवाभ्यामयं जायेतेति समकल्पयतामित्यर्थः । तत्तदा ते
+
+##### Gist of the bhāṣya
+
+In these Ṛks the taking of a body by Vasiṣṭha himself is set forth. Some explain these Ṛks as the words of Indra; others, as of Vasiṣṭha's sons. O Vasiṣṭha, when Mitra and Varuṇa saw you, giving up (परि संजिहानं (*pari saṃjihānaṃ*)) your own light like lightning in order to take another body, the middle voice being Vedic; or alternatively, your own light desiring to take the body, meaning "wishing to take"; on this view the middle voice is not Vedic, since the root *jahāti* has the sense of motion. Mitra and Varuṇa saw you: that is, they resolved "may he be born from us two". Then that was your one birth **NOTE**.
+
+### Printed p. 138
+
+> केवैकं जन्म । उतापि च यद्यदागस्त्यो विशो निवेशनान्मित्रावरुणावावां जनयिष्याव इत्येतस्मात्पूर्वावस्थानात्त्वामाजभार आजहार ॥
+
+##### Gist of the bhāṣya
+
+And also, when Agastya, from the settling (विशः (*viśaḥ*), from entering) in the earlier state, "we two, Mitra and Varuṇa, shall beget you", brought you here (आजभार (*ājabhāra*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठ (*vasiṣṭha*)—O Vasiṣṭha
+- यत् (*yat*)—when
+- विद्युतः (*vidyutaḥ*)—of your own radiance
+- ज्योतिः (*jyotiḥ*)—the light
+- परि संजिहानं (*pari saṃjihānaṃ*)—that was given up
+- त्वा (*tvā*)—you
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- अपश्यतां (*apaśyatāṃ*)—saw
+- उत (*uta*)—and
+- यत् (*yat*)—when
+- अगस्त्यः (*agastyaḥ*)—Agastya
+- विशः (*viśaḥ*)—from your former dwelling
+- त्वा (*tvā*)—you
+- आ जभार (*ā jabhāra*)—brought
+- तत् (*tat*)—then
+- ते (*te*)—your
+- एकं जन्म (*ekaṃ janma*)—one birth came about
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasiṣṭha, when, for another birth, you gave up your former radiance and Mitra and Varuṇa saw you, and when Agastya brought you from your former dwelling place, to be born of Mitra and Varuṇa along with himself, then one birth of yours came about.
+
+##### English translation
+When Mitra and Varuna beheld you, Vasistha, quitting the lustre of the lightning (for the different form), then one of your births (took place), in as much as Agastya bore you from your (former) abode.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in some of the following Ṛks the account of the birth of the sage Vasiṣṭha is told. In this Ṛk there is mention of the question of the births of the sages Vasiṣṭha and Agastya. Some maintain that the words in these Ṛks were spoken by Indra himself, and others that they were spoken by the sons of Vasiṣṭha. The details of the birth of the sage Vasiṣṭha we have explained at length in the Special Topics of the next Ṛk.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तासि॑ मैत्रावरु॒णो व॑सिष्ठो॒र्वश्या॑ ब्रह्म॒न्मन॒सोऽधि॑ जा॒तः  
+> द्र॒प्सं स्क॒न्नं ब्रह्म॑णा॒ दैव्ये॑न॒ विश्वे॑ दे॒वाः पुष्क॑रे त्वाददंत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । असि । मैत्रावरुणः । वसिष्ठ । उर्वश्याः । ब्रह्मन् । मनसः । अधि । जातः ।  
+> द्रप्सं । स्कन्नं । ब्रह्मणा । दैव्येन । विश्वे । देवाः । पुष्करे । त्वा । अददंत ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
+**Progress note:** Done through printed p. 138. pp. 133-138 (batch API)
