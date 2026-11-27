@@ -19545,6 +19545,282 @@ And who are sovereign over all, and, with Aditi, preside over this unobstructed 
 > प्रति । वां । सूरे । उत्इते । मित्रं । गृणीषे । वरुणं ।  
 > अर्यमणं । रिशादसं ॥ ७ ॥
 
+### Printed p. 469
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति वामित्येष तृचश्चातुर्विंशिकेऽहनि प्रातःसवने मैत्रावरुणस्य पर्यासार्थः । सूत्रितं च । प्रति वां सूर उदिते व्यंतरिक्षमतिरत् । आ. ७-२ । इति ॥
+> हे मित्रावरुणौ मित्रं त्वां वरुणं च युवां रिशादसं शत्रूणामत्तारमर्यमणं च प्रति प्रत्येकं गृणीषे । स्तुवे । कदेति उच्यते । सूरे सूर्ये देव उदिते सति । प्रातःकाल इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This triplet beginning प्रति वां (*prati vāṃ*) is the paryāsa recitation of the Maitrāvaruṇa priest at the morning pressing on the Cāturviṃśika day. He cites the sūtra प्रति वां सूर उदिते व्यंतरिक्षमतिरत् (*prati vāṃ sūra udite vyaṃtarikṣamatirat*) (Ā. 7-2). Addressing Mitra and Varuna, the poet says: "I praise each of you, Mitra and Varuna, and Aryaman, the devourer of enemies." When? When the sun, the god, has risen, that is, in the morning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरे (*sūre*)—the sun
+- उदिते (*udite*)—when he rises, that is, in the morning
+- मित्रं (*mitraṃ*)—Mitra
+- वरुणं (*varuṇaṃ*)—Varuna
+- वां (*vāṃ*)—both of you
+- रिशादसं (*riśādasaṃ*)—the destroyer of enemies
+- अर्यमणं (*aryamaṇaṃ*)—the god Aryaman
+- प्रति (*prati*)—addressing
+- गृणीषे (*gṛṇīṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuna, as the sun rises, this morning I praise you separately, addressing Mitra, Varuna, and Aryaman, the destroyer of enemies.
+
+##### English translation
+I glorify you, Mitra and Varuna, and Aryaman, the consumer of enemies when the sun has risen.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the morning pressing on the day of the sacrifice called Cāturviṃśika, this triplet (three Ṛks) beginning प्रति वां (*prati vāṃ*) is to be recited by the priest called Maitrāvaruṇa as a paryāsa. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra प्रति वां सूर उदिते व्यंतरिक्षमतिरत् (*prati vāṃ sūra udite vyaṃtarikṣamatirat*) (Ā. 7-2).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒या हि॑रण्य॒या म॒तिरि॒यम॑वृ॒काय॒ शव॑से ।  
+> इ॒यं विप्रा॑ मे॒धसा॑तये ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राया । हिरण्यया । मतिः । इयं । अवृकाय । शवसे ।  
+> इयं । विप्रा । मेधसातये ॥ ८ ॥
+
+### Printed p. 470
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यया हितरमणीयेन राया धनेन सहितायावृकायाहिंस्याय शवसेऽस्माकं बलायेयमिदानीं क्रियमाणा मतिः स्तुतिर्भवत्विति शेषः ॥ हिरण्ययेत्यत्र सुपां सुलुगिति तृतीयैकवचनस्य याचादेशः ॥ किंच हे विप्राः प्राज्ञाः इयं मे च स्तुतिर्मेधसातये यज्ञलाभाय च भवतु ॥
+
+##### Gist of the bhāṣya
+
+"May this praise (मतिः (*matiḥ*)) now being made be for our strength (शवसे (*śavase*)), unharmed (अवृकाय (*avṛkāya*)), together with golden, that is, most delightful, wealth (राया (*rāyā*))." "May be" is to be supplied. Further: "O wise ones (विप्राः (*viprāḥ*)), may this praise of mine also be for the gaining of the sacrifice (मेधसातये (*medhasātaye*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरण्यया (*hiraṇyayā*)—beneficial and delightful
+- राया (*rāyā*)—with wealth
+- अवृकाय (*avṛkāya*)—free from harm
+- शवसे (*śavase*)—for the increase of our strength
+- इयं (*iyaṃ*)—this which we now recite
+- मतिः (*matiḥ*)—may the praise be the means
+- विप्राः (*viprāḥ*)—O wise gods
+- इयं (*iyaṃ*)—this praise of ours
+- मेधसातये (*medhasātaye*)—may it also be for the gaining of the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O wise gods, may the praise we now recite to you be the means of obtaining wealth, strength and the gain of the sacrifice for us.
+
+##### English translation
+May this praise (be effective) for unimpeached strength, along with golden treasure: may it (be effective), sages, for the fulfilment of (the objects of) the sacrifice.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते स्या॑म देव वरुण॒ ते मि॑त्र सू॒रिभिः॑ स॒ह ।  
+> इषं॒ स्व॑श्च धीमहि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । स्याम । देव । वरुण । ते । मित्र । सूरिभिः । सह ।  
+> इषं । स्वरिति स्वः । च । धीमहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव वरुण ते वयं तव स्तोतारः स्याम । समृद्धा भवेम । न केवलं वयमेव यजमानाः किंतु सूरिभिः स्तोतृभिर्ऋत्विग्भिः सह । तथा हे मित्र देव ते वयं सूरिभिः सह स्याम । भवेम । किंचेषमन्नं स्वरुदकं च धीमहि । धारयामहे ॥
+
+##### Gist of the bhāṣya
+
+"O divine Varuna, may we be yours, your praisers; may we prosper. Not we alone, the sacrificers, but together with the wise (सूरिभिः (*sūribhiḥ*)), the praising priests. Likewise, O divine Mitra, may we be yours together with the wise. Further, may we obtain (धीमहि (*dhīmahi*), we hold) food (इषं (*iṣaṃ*)) and water (स्वः (*svaḥ*))."
+
+### Printed p. 471
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining one
+- वरुण (*varuṇa*)—O Varuna
+- मित्र (*mitra*)—O Mitra
+- ते (*te*)—we who praise you
+- सूरिभिः (*sūribhiḥ*)—with the praising priests
+- सह (*saha*)—together
+- स्याम (*syāma*)—may we be prosperous
+- ते (*te*)—we
+- इषं (*iṣaṃ*)—food
+- स्वः (*svaḥ*)—water
+- धीमहि (*dhīmahi*)—we ask and pray for
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Varuna, O Mitra, together with the praising priests may we be prosperous. We who praise you ask and pray that you give us food and other nourishment, and water in the form of rain.
+
+##### English translation
+May we be yours, divine Varuna: may we, along with pious worshippers, be, Mitra, yours: may we obtain food and water.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒हवः॒ सूर॑चक्षसोऽग्निजि॒ह्वा ऋ॑ता॒वृधः॑ ।  
+> त्रीणि॒ ये ये॒मुर्वि॒दथा॑नि धी॒तिभि॒र्विश्वा॑नि॒ परि॑भूतिभिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बहवः । सूरचक्षसः । अग्निजिह्वाः । ऋतावृधः ।  
+> त्रीणि । ये । येमुः । विदथानि । धीतिभिः । विश्वानि । परिभूतिभिः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आश्विनशस्त्रे बहवः सूरचक्षस इति प्रगाथः । सूत्रितं च । बहवः सूरचक्षस इति प्रगाथाः । आ. ६-५ । इति ॥ दशरात्रे पंचमेऽहनि प्रउगशस्त्रे स्त्रिहैयं प्रगाथः । सूत्रितं च । बहवः सूरचक्षस इमा उ वां दिदिष्टयः । आ. ७-१२ । इति ॥
+> बहवो महांतः सूरचक्षसः सूर्यसदृशप्रकाशाः । सूरः प्रकाशको येषामिति वा । अग्निजिह्वाः । अग्निरेव जिह्वादानसाधनो येषां तादृशाः । ऋतावृधो यज्ञस्य वर्धयितारो मित्रादयः । किंच ये त्रीणि विश्वानि व्याप्तानि विदथानि त्रित्वादिस्थानानि त्रित्वादीनि परिभूतिभिः परिभावुकैर्धीतिभिः कर्मभिर्येमुः प्रयच्छंति ते
+
+##### Gist of the bhāṣya
+
+In the Āśvina śastra, बहवः सूरचक्षसः (*bahavaḥ sūracakṣasaḥ*) is a pragātha; the sūtra is बहवः सूरचक्षस इति प्रगाथाः (*bahavaḥ sūracakṣasa iti pragāthāḥ*) (Ā. 6-5). On the fifth day of the Daśarātra, in the Praüga śastra, it is a pragātha of three verses; the sūtra is बहवः सूरचक्षस इमा उ वां दिदिष्टयः (*bahavaḥ sūracakṣasa imā u vāṃ didiṣṭayaḥ*) (Ā. 7-12).
+बहवः (*bahavaḥ*) are the many, the great; सूरचक्षसः (*sūracakṣasaḥ*) are those of radiance like the sun's, or those whose illuminator is the sun. अग्निजिह्वाः (*agnijihvāḥ*) are those whose tongue, the means of receiving offerings, is Agni himself. ऋतावृधः (*ṛtāvṛdhaḥ*) are Mitra and the others, who augment the sacrifice. Further, those who with comprehensive (परिभूतिभिः (*paribhūtibhiḥ*)) rites (धीतिभिः (*dhītibhiḥ*)) have given (येमुः (*yemuḥ*)) the three all-pervading places (विदथानि (*vidathāni*)), the triple stations and so on, they have attained (आशत (*āśata*)) the ruling power (क्षत्रं (*kṣatraṃ*)); this is to be connected in the next verse.
+
+### Printed p. 472
+
+> क्षत्रमाशतेत्येतत्तत्र संबंधनीयं । अथवात्रैव ये त्रीणि स्थानानि प्रयच्छंति ते बहुत्वादिगुणोपेता आगच्छंत्वित्यध्याहार्यं ‖
+
+##### Gist of the bhāṣya
+
+Alternatively, here itself, those who give the three stations, endowed with the qualities of multitude and the rest, are to be asked to come; "may they come" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बहवः (*bahavaḥ*)—those of great nature
+- सूरचक्षसः (*sūracakṣasaḥ*)—those shining with radiance equal to the sun, or those illumined by the sun
+- अग्निजिह्वाः (*agnijihvāḥ*)—those who, in sacrifices, take Agni as their tongue, that is, their means of receiving oblations
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—those who cause the sacrifice to prosper without obstruction
+- ये (*ye*)—those Mitra, Varuna and others who
+- विश्वानि (*viśvāni*)—all-pervading
+- त्रीणि विदथानि (*trīṇi vidathāni*)—the three stations, earth and the rest
+- परिभूतिभिः (*paribhūtibhiḥ*)—with your powerful
+- धीतिभिः (*dhītibhiḥ*)—with rites
+- येमुः (*yemuḥ*)—those who give, may those Mitra, Varuna and others come here
+
+##### भावार्थ (Bhāvārtha)
+
+May those deities, Mitra, Varuna and the rest, come to this sacrificial ground: the venerable ones, shining with sun-like radiance or making the sun shine, who receive the oblations through the tongue of Agni, that is, the flame, who augment the sacrifice, and who by their powerful rites give the three all-pervading stations, earth and the rest.
+
+##### English translation
+Manifold, radiant as the sun, Agni-tongued augmenters of sacrifice, you who have limited the three universal sacrifices with comprehensive rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Āśvina śastra mantras this Ṛk beginning बहवः सूरचक्षसः (*bahavaḥ sūracakṣasaḥ*) is to be recited as a pragātha mantra, as set out in the Āśvalāyana Śrauta Sūtra by the sūtra बहवः सूरचक्षसः इति प्रगाथाः (*bahavaḥ sūracakṣasaḥ iti pragāthāḥ*) (Ā. 6-5). And on the fifth day of the sacrifice called Daśarātra, when the Praüga śastra mantras are recited, this Ṛk is likewise to be recited as a pragātha, as set out by the sūtra बहवः सूरचक्षस इमा उ वां दिविष्टयः (*bahavaḥ sūracakṣasa imā u vāṃ diviṣṭayaḥ*) (Ā. 7-12).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि ये द॒धुः श॒रदं॒ मास॒मादह॑र्य॒ज्ञम॒क्तुं चादृचं॑ ।  
+> अ॒ना॒प्यं वरु॑णो मि॒त्रो अ॑र्य॒मा क्ष॒त्रं राजा॑न आशत ‖११‖
+
+### Printed p. 473
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । ये । दधुः । शरदं । मासं । आत् । अहः । यज्ञं । अक्तुं । च । आत् । ऋचं ।  
+> अनाप्यं । वरुणः । मित्रः । अर्यमा । क्षत्रं । राजानः । आशत  ११
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मित्रादयः शरदं संवत्सरं वि दधुः अकुर्वन् अदनंतरमेव मासमनंतरमहरनंतरमहःसाध्यं यज्ञं अदनंतरमक्तुं रात्रिं च ऋचं मंत्रांश्च । यद्वा । सर्वत्रादित्यमुपीत्यर्थे वर्तते । तथा सति क्रमोऽविवक्षितः । ते वरुणो मित्रोऽर्यमा च त्रयोऽनाप्यमन्यैरप्राप्तं क्षत्रं बलं राजानो राजमाना आशत । व्याप्तवंतः ‖
+
+##### Gist of the bhāṣya
+
+Those Mitra and the others who established (वि दधुः (*vi dadhuḥ*)) the year (शरदं (*śaradaṃ*)), and next the month, next the day, the sacrifice to be accomplished by day, next the night (अक्तुं (*aktuṃ*)), and the Ṛk, the mantras. Or else, आत् (*āt*) has everywhere the sense "and"; then the order is not intended. Those three, Varuna, Mitra and Aryaman, shining as kings, have attained (आशत (*āśata*)) unattainable (अनाप्यं (*anāpyaṃ*)) power (क्षत्रं (*kṣatraṃ*)), not reached by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those Mitra and other deities who
+- शरदं (*śaradaṃ*)—the measure of time called the year
+- आत् (*āt*)—and (or, afterwards)
+- मासं (*māsaṃ*)—the month, that is, the measure of a month
+- अहः (*ahaḥ*)—the day
+- यज्ञं (*yajñaṃ*)—the sacrificial rite
+- अक्तुं (*aktuṃ*)—the night
+- ऋचं (*ṛcaṃ*)—the mantras
+- विदधुः (*vidadhuḥ*)—who made, that is, created
+- राजानः (*rājānaḥ*)—shining, or lords of all
+- वरुणः (*varuṇaḥ*)—Varuna
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—the god Aryaman, these three
+- अनाप्यं (*anāpyaṃ*)—unattainable by others
+- क्षत्रं (*kṣatraṃ*)—strength and capacity
+- आशत (*āśata*)—have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+These deities, Mitra and the others, have made the measures of time, year, month, day and night, the sacrificial rites, and the mantras needed for them. These three shining deities, Mitra, Varuna and Aryaman, have obtained strength and capacity that others cannot attain.
+
+##### English translation
+Who have established the year, and then the month and the day, the sacrifice, the night, and the holy text, they the royal deities, Varuna, Mitra Aryaman, enjoy unrivalled might.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वो॑ अ॒द्य म॑नामहे सू॒क्तैः सूर॒ उदि॑ते ।  
+> यदोह॑ते॒ वरु॑णो मि॒त्र अ॑र्य॒मा यू॒यमृ॒तस्य॑ रथ्यः ‖  
+> 60
+
+### Printed p. 474
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । अद्य । मनामहे । सुउक्तैः । सूरे । उत्ऽइते ।  
+> यत् । ओहते । वरुणः । मित्रः । अर्यमा । यूयं । ऋतस्य । रथ्यः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्प्रसिद्धमद्यास्मिन्यागकाले वो युष्मान्मनामहे । याचामहे । कैः साधनैः । सूक्तैः । कस्मिन्काले । सूर उदिते । प्रातःकाल इत्यर्थः । यद्धनं हे ऋतस्योदकस्य रथ्यो नेतारः यूयं वरुणादय ओहते । यूयमित्यनेन सामानाधिकरण्यादोहत इत्यत्र पुरुषव्यत्ययः । ओहध्व इत्यर्थः । तद्धनं मनामह इति ‖
+
+##### Gist of the bhāṣya
+
+"That well-known (wealth), today, at this time of the sacrifice, we beg (मनामहे (*manāmahe*)) of you." By what means? By well-spoken hymns (सूक्तैः (*sūktaiḥ*)). At what time? When the sun has risen, that is, in the morning. "The wealth which you, O Varuna and the rest, leaders (रथ्यः (*rathyaḥ*)) of the water (ऋतस्य (*ṛtasya*)), convey (ओहते (*ohate*))." Because of agreement with यूयं (*yūyaṃ*), in ओहते (*ohate*) there is a change of person; the sense is ओहध्व (*ohadhva*) ("you convey"). "That wealth we ask for."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of water
+- रथ्यः (*rathyaḥ*)—O Mitra and the rest, leaders
+- यूयं (*yūyaṃ*)—you
+- सूरे उदिते (*sūre udite*)—when the sun rises, that is, in the morning
+- यत् (*yat*)—which wealth
+- ओहते (*ohate*)—you carry for the praisers
+- तत् (*tat*)—that well-known wealth (that you give us)
+- वः (*vaḥ*)—of you
+- अद्य (*adya*)—at this time of the sacrifice
+- सूक्तैः (*sūktaiḥ*)—with hymns and the like
+- मनामहे (*manāmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and the other deities who provide rain and water to people, as the sun rises we praise you with hymns at this time of the sacrifice and ask that you give us the wealth which you carry for your devotees.
+
+##### English translation
+Therefore to-day at sunrise we solicit you with hymns for (wealth) Varuna, Mitra, Aryaman, bearers of water, you convey.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तावा॑न ऋ॒तजा॑ता ऋता॒वृधो॑ घो॒रासो॑ अनृत॒द्विषः॑ ।  
+> तेषां॑ वः सु॒म्ने सु॑च्छ॒र्दिष्ट॑मे नरः॒ स्याम॒ ये च॑ सू॒रयः॑ ‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतवानः । ऋतजाताः । ऋतवृधः । घोरासः । अनृतद्विषः ।  
+> तेषां । वः । सुम्ने । सुच्छर्दिःतमे । नरः । स्याम । ये । च । सूरयः
+
 ---
 
-**Progress note:** Done through printed p. 468. pp. 463-468 (batch API)
+**Progress note:** Done through printed p. 474. pp. 469-474 (batch API)
