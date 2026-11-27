@@ -271,3 +271,50 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 90	Q2	R1	qmarks q210	astriyāme* in the bhāṣya's first line is clotted "[?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
 90	Q2	R1	qmarks q211	-substitution. *(Sūtra numbers small and doubtful [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
 90	Q2	R1	qmarks q212	d doubtful [?]; several words of the tail clotted [?]	mark stays	own remark (class remark/doubt note); removed later by cleanup_remarks.py; not edited	kept	
+93	Q2	R1	qmarks q214	6-4-138 [?]	mark removed	Kannada p. 94 agrees	applied	
+93	Q1	R1	qmarks q215	6-3-138 [?]	6-4-138	Kannada p. 94 reads ೬-೪-೧೩೮	applied	
+93	Q2	R1	qmarks q216	6-1-106 [?]	mark removed	Kannada p. 94 agrees	applied	
+96	Q2	R1	qmarks q219	3-55-7 as read [?]	mark removed	Kannada p. 96 agrees	applied	
+97	Q1	R1	qmarks q220	1-26-2-[?]	1-26-2	Kannada p. 97 reads ೧-೨೬-೨	applied	
+97	Q1	R1	qmarks q221	1-127-2-[?]	1-127-2	Kannada p. 97 reads ೧-೧೨೭-೨	applied	
+101	Q1	R1	qmarks q225	1-96-2-[?]	1-96-2	Kannada p. 101 reads ೧-೯೬-೨	applied	
+101	Q1	R1	qmarks q226	1-104-2-[?]	1-104-2	Kannada p. 101 reads ೧-೧೦೪-೨	applied	
+105	Q2	R1	qmarks q229	Bṛ. De. 2-25 as read [?]	mark removed	Kannada p. 105 agrees	applied	
+105	Q2	R1	qmarks q230	5-86-4 as read [?]	mark removed	Kannada p. 105 agrees	applied	
+105	Q2	R1	qmarks q231	6-18-4 as read [?]	mark removed	Kannada p. 105 agrees	applied	
+105	Q2	R1	qmarks q232	6-44-5 as read [?]	mark removed	Kannada p. 105 agrees	applied	
+106	Q2	R1	qmarks q233	6-5-5 as read [?]	mark removed	Kannada p. 106 prints ೬೫೫, same digits	applied	
+108	Q2	R1	qmarks q236	drinking [?] our food	mark removed	Kannada p. 108 reads ಅನ್ನಪಾನಕ್ಕಾಗಿ	applied	
+111	Q1	R1	qmarks q238	eighth [?] day	tenth day	Kannada p. 111 reads ಹತ್ತನೆಯ ದಿವಸ	applied	
+114	Q2	R1	qmarks q243	the print's word as read [?]	bracket remark removed	Kannada p. 114 reads ಕಶೆಗಳಿಂದ	applied	
+117	Q1	R1	qmarks q247	६-१-१३[?]	७-१-३९-१	Kannada p. 117 reads ೭-೧-೩೯-೧; digits only	applied	
+118	Q1	R1	qmarks q250	1-93-4 [?]	1-96-4	Kannada p. 118 reads ೧-೯೬-೪	applied	
+118	Q2	R1	qmarks q252	3-1-0 as printed [?]	mark removed	Kannada p. 118 prints ೩-೧-೦; applied as printed, listed in open.tsv	applied	
+119	Q1	R1	qmarks q253	दृप्वृक्शब्दके [?]	दृष्टत्वात्स ...	Kannada p. 119 reads ದೃಷ್ಟತ್ವಾತ್ಸ ಏವಾಚಾರ್ಯೇಣಾತಿಶ್ಯತೇ	applied	
+119	Q1	R1	qmarks q254	dṛpvṛkśabdake [?]	dṛṣṭatvātsa ...	same, IAST twin	applied	
+120	Q2	R1	qmarks q257	forty-four [?] names	mark removed	Kannada p. 120 reads ೪೪	applied	
+118	S2	R1	Pā. Sū. 7-4-35 (not a [?] mark)	7-4-35	7-4-25	Kannada p. 118 reads ೭-೪-೨೫	applied	
+92	Q2	R1	qmarks q213	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+94	Q2	R1	qmarks q217	[?]	mark stays	Kannada pp. 93-94 gives no sutra number for this vartika; English kept, mark stays	kept	
+95	Q2	R1	qmarks q218	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+98	Q2	R1	qmarks q222	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+98	Q2	R1	qmarks q223	[?]	mark stays	Kannada p. 98 has no such bracketed reading; English kept, mark stays	kept	
+99	Q2	R1	qmarks q224	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+101	Q2	R1	qmarks q227	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+102	Q2	R1	qmarks q228	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+106	Q2	R1	qmarks q234	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+108	Q2	R1	qmarks q235	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+110	Q2	R1	qmarks q237	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+111	Q2	R1	qmarks q239	[?]	mark stays	Kannada p. 111 prints the devata line as ಅಗ್ನಿರೆಗ್ನಿ ಶುಚಿರ್ವಾ; the English gloss is the old reader's; English kept, mark stays	kept	
+113	Q2	R1	qmarks q240	[?]	mark stays	Kannada p. 113 reads the Nirukta quotation differently (ನಿಷಿಕ್ತಮಸ್ಮಾತ್ಪಾಪಕಮ್); Sanskrit is derived data; English kept, mark stays	kept	
+113	Q2	R1	qmarks q241	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+113	Q2	R1	qmarks q242	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+114	Q2	R1	qmarks q244	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+115	Q2	R1	qmarks q245	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+115	Q2	R1	qmarks q246	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+117	Q2	R1	qmarks q248	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+117	Q2	R1	qmarks q249	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+118	Q2	R1	qmarks q251	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+119	Q2	R1	qmarks q255	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+119	Q2	R1	qmarks q256	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	
+121	Q2	R1	qmarks q258	[?]	mark stays	our own remark (class remark/latin): not edited, mark stays	kept	

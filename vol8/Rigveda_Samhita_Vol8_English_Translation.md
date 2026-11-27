@@ -2777,7 +2777,7 @@ Title block:
 
 *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3"; centre "Ṛgvedasaṃhitā"; right 93.)*
 
-*Grammar of Rik 96.5, continued (noted briefly):* ***naktoṣasā***, concluded: by *devatādvandve ca* (Pā. Sū. 6-2-141) both the first and second members keep their natural accent at once. — ***āmemyāne*** — root *mīñ* (to injure); since the sense of repetition is shown, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* [here the print: *dhātor ekāco…*]; *yajoś ca* (Pā. Sū. 2-4-74) elides it; because the suffix is elided, its *lakṣaṇa* remains: *sanyaṅoḥ* doubles the root; the reduplicate shortened (*hrasvaḥ*); *guṇo yaṅluk[oḥ]* (Pā. Sū. 4-82) gives it guṇa; *mem* [*memī*] takes the designation 'root' by *sanādyantā dhātavaḥ*; by *vyatyayo bahulam* (Pā. Sū. 3-1-85) *śānac* in the sense of the present; since *carkarītaṃ ca* is read in the *adādi* class, the *śap* is elided; *īr anekāco 'saṃyogapūrvasya* (Pā. Sū. 6-4-82) turns the *ī* of the root to *y*; *memyāna*; the initial acute of the reduplicate by *abhyastānām ādiḥ* (Pā. Sū. 6-1-189); *ā* is the preposition and, in a compound of that kind, *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-19) gives the *kṛt*-compound first-member accent. — ***dhāpayete*** — root *dheṭ* (to drink); since the causer's action is shown, *ṇic* by *hetumati ca*; *ā* for the root's vowel by *ādeca upadeśe 'śiti* (Pā. Sū. 6-1-45); then *puk* by *arti-hrī-…* (Pā. Sū. 7-3-36); the form *dhāpi*; although the *ṇic*-ending root would take both voices by *ṇicaś ca* (Pā. Sū. 1-3-78), here, since the action's fruit goes to another, the *parasmaipada* arises; by *nigaraṇacalanārthebhyaś ca* (Pā. Sū. 1-3-87) the *parasmaipada* is stated; by *na pād-am-āṅyama…* (Pā. Sū. 1-3-89) this is prohibited, but on the strength of the *upasaṃkhyāna* 'for *dheṭ* in the *pādādi*…' it is settled that this root is taken in this case; *laṭ*, third person dual; by *ṭita ātmanepadānāṃ ṭere*, *e*; *śap*; guṇa for *ṇic* and *ay*-substitution; since *tāsyanudāttet* (Pā. Sū. 6-1-186) makes the *laśarvataddhita* unaccented, the *ṇic* retains its accent; the verb begins a pāda, so there is no *nighāta*. — ***samīcī*** — *sam* the preposition; the root *añcu* (to go, to worship); *kvin* by *ṛtvigdadhṛk…* (Pā. Sū. 3-2-59); since it is *kit*, the nasal elided by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24); *samaḥ sami* (Pā. Sū. 6-3-93) turns *sam* to *sami*; for the feminine sense, *ṅīp* by the *upasaṃkhyāna* *añcateś ca*; then, since the *ṅīp* follows, the *a* of the root is elided by *acaḥ* [*aco 'ñcatiḥ*] (Pā. Sū. 6-4-138 [?]), *cau* lengthens the preceding vowel (Pā. Sū. 6-3-138 [?]); the dual ending *au*, and by *vā chandasi* (Pā. Sū. 6-1-106 [?]) the homogeneous lengthening.
+*Grammar of Rik 96.5, continued (noted briefly):* ***naktoṣasā***, concluded: by *devatādvandve ca* (Pā. Sū. 6-2-141) both the first and second members keep their natural accent at once. — ***āmemyāne*** — root *mīñ* (to injure); since the sense of repetition is shown, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* [here the print: *dhātor ekāco…*]; *yajoś ca* (Pā. Sū. 2-4-74) elides it; because the suffix is elided, its *lakṣaṇa* remains: *sanyaṅoḥ* doubles the root; the reduplicate shortened (*hrasvaḥ*); *guṇo yaṅluk[oḥ]* (Pā. Sū. 4-82) gives it guṇa; *mem* [*memī*] takes the designation 'root' by *sanādyantā dhātavaḥ*; by *vyatyayo bahulam* (Pā. Sū. 3-1-85) *śānac* in the sense of the present; since *carkarītaṃ ca* is read in the *adādi* class, the *śap* is elided; *īr anekāco 'saṃyogapūrvasya* (Pā. Sū. 6-4-82) turns the *ī* of the root to *y*; *memyāna*; the initial acute of the reduplicate by *abhyastānām ādiḥ* (Pā. Sū. 6-1-189); *ā* is the preposition and, in a compound of that kind, *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-19) gives the *kṛt*-compound first-member accent. — ***dhāpayete*** — root *dheṭ* (to drink); since the causer's action is shown, *ṇic* by *hetumati ca*; *ā* for the root's vowel by *ādeca upadeśe 'śiti* (Pā. Sū. 6-1-45); then *puk* by *arti-hrī-…* (Pā. Sū. 7-3-36); the form *dhāpi*; although the *ṇic*-ending root would take both voices by *ṇicaś ca* (Pā. Sū. 1-3-78), here, since the action's fruit goes to another, the *parasmaipada* arises; by *nigaraṇacalanārthebhyaś ca* (Pā. Sū. 1-3-87) the *parasmaipada* is stated; by *na pād-am-āṅyama…* (Pā. Sū. 1-3-89) this is prohibited, but on the strength of the *upasaṃkhyāna* 'for *dheṭ* in the *pādādi*…' it is settled that this root is taken in this case; *laṭ*, third person dual; by *ṭita ātmanepadānāṃ ṭere*, *e*; *śap*; guṇa for *ṇic* and *ay*-substitution; since *tāsyanudāttet* (Pā. Sū. 6-1-186) makes the *laśarvataddhita* unaccented, the *ṇic* retains its accent; the verb begins a pāda, so there is no *nighāta*. — ***samīcī*** — *sam* the preposition; the root *añcu* (to go, to worship); *kvin* by *ṛtvigdadhṛk…* (Pā. Sū. 3-2-59); since it is *kit*, the nasal elided by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24); *samaḥ sami* (Pā. Sū. 6-3-93) turns *sam* to *sami*; for the feminine sense, *ṅīp* by the *upasaṃkhyāna* *añcateś ca*; then, since the *ṅīp* follows, the *a* of the root is elided by *acaḥ* [*aco 'ñcatiḥ*] (Pā. Sū. 6-4-138), *cau* lengthens the preceding vowel (Pā. Sū. 6-4-138); the dual ending *au*, and by *vā chandasi* (Pā. Sū. 6-1-106) the homogeneous lengthening.
 
 ---
 
@@ -2848,7 +2848,7 @@ Title block:
 
 > द्विमाता होता विदथेषु सम्राळन्वग्रं चरति क्षेति बुध्नः ।
 > *dvimātā hotā vidatheṣu samrāḍ anv agraṃ carati kṣeti budhnaḥ |*
-> (*Ṛ. Saṃ.* 3-55-7 as read [?])
+> (*Ṛ. Saṃ.* 3-55-7 as read)
 
 "— in this Ṛk, *budhnaḥ* means 'the root of all works'."
 
@@ -2896,7 +2896,7 @@ Title block:
 
 ***veḥ*** — "the genitive singular of the root *vī*, of the sense 'to go': of the sacrificer who approaches Agni with worship and the like."
 
-***manmasādhanaḥ*** — *mananīyasya abhilaṣitasya sādhayitā*: "'one who accomplishes the desired goals that are to be thought upon'; though the derivation of the word *manma* as 'the wish of the mind' is a derived sense, the use of this word in the passages of the Ṛksaṃhitā gives somewhat more meaning than merely the ordinary wish of the mind: in the many contexts of Ṛ. Saṃ. 1-26-2-[?]; 1-127-2-[?]; 1-140-1; 1-151-8 and others" *(continues on p. 98)*
+***manmasādhanaḥ*** — *mananīyasya abhilaṣitasya sādhayitā*: "'one who accomplishes the desired goals that are to be thought upon'; though the derivation of the word *manma* as 'the wish of the mind' is a derived sense, the use of this word in the passages of the Ṛksaṃhitā gives somewhat more meaning than merely the ordinary wish of the mind: in the many contexts of Ṛ. Saṃ. 1-26-2; 1-127-2; 1-140-1; 1-151-8 and others" *(continues on p. 98)*
 
 ---
 
@@ -2977,13 +2977,13 @@ Title block:
 > *adyā cin nū cit tad apo nadīnāṃ yad ābhyo arado gātum indra |*
 > (*Ṛ. Saṃ.* 6-30-3)
 
-"In this Ṛk *nū cit* means 'as before': the flow of the rivers even now, and in the past, is of one kind, since Indra has regulated it: thus the might of Indra is praised. The Nirukta-author, quoting also the Ṛk 1-96-2-[?] of the present context, gives the meaning of *nū ca* used in it as 'now', for *adya ca*: so both senses 'previously' and 'now' are given in the explanation. In many places the word is used also in the sense of 'quickly' (*śīghra*) —"
+"In this Ṛk *nū cit* means 'as before': the flow of the rivers even now, and in the past, is of one kind, since Indra has regulated it: thus the might of Indra is praised. The Nirukta-author, quoting also the Ṛk 1-96-2 of the present context, gives the meaning of *nū ca* used in it as 'now', for *adya ca*: so both senses 'previously' and 'now' are given in the explanation. In many places the word is used also in the sense of 'quickly' (*śīghra*) —"
 
 > नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् ।
 > *nū marto dayate saniṣyan yo viṣṇava urugāyāya dāśat |*
 > (*Ṛ. Saṃ.* 7-100-1)
 
-"Here *nu* means 'quickly'. In the same way in Ṛks 1-41-1; 1-58-1; 1-104-2-[?] and others the word is used in this sense. And also, in the sense of prohibition, the word *nū* is used —"
+"Here *nu* means 'quickly'. In the same way in Ṛks 1-41-1; 1-58-1; 1-104-2 and others the word is used in this sense. And also, in the sense of prohibition, the word *nū* is used —"
 
 > नू चित्स भ्रेषते जनो न रेषन्मनो यो अस्य घोरमाविवासात् ।
 > *nū cit sa bhreṣate jano na reṣan mano yo asya ghoram āvivāsāt |*
@@ -3080,7 +3080,7 @@ Title block:
 > तत्कर्म दृष्ट्वा कुत्सस्तु प्राह्यैनं द्रविणोदसम् ॥
 > *draviṇaṃ dhanaṃ balaṃ vāpi prāyacchad yena karmaṇā |*
 > *tat karma dṛṣṭvā kutsas tu prāhyainaṃ draviṇodasam ‖*
-> (*Bṛ. De.* 2-25 as read [?])
+> (*Bṛ. De.* 2-25 as read)
 
 "Kutsa, grasping the deeds of Agni who gives wealth and strength liberally, praised Agni as *draviṇodāḥ*, the giver of wealth or of strength. Since there are many kinds of *draviṇa*, in this Ṛk the prayer is made that Agni should favour us with all varieties of wealth."
 
@@ -3088,17 +3088,17 @@ Title block:
 
 > पती तुरस्य राधसो विद्वांसा तर्वणस्तमा ।
 > *patī turasya rādhaso vidvāṃsā tarvaṇastamā |*
-> (*Ṛ. Saṃ.* 5-86-4 as read [?])
+> (*Ṛ. Saṃ.* 5-86-4 as read)
 
 "In Ṛks such as this too, *turasya rādhasaḥ* is used in the sense of *jaṅgamarūpasya dhanasya*, 'of moving wealth', meaning 'unstable, moving'. Besides this, in many places this word is used in the senses of 'speed', 'power', 'capacity'."
 
 > सदिद्धि ते तुविजातस्य मन्ये सहः सहिष्ठ तुरतस्तुरस्य ।
 > *sad id dhi te tuvijātasya manye sahaḥ sahiṣṭha turatas turasya |*
-> (*Ṛ. Saṃ.* 6-18-4 as read [?])
+> (*Ṛ. Saṃ.* 6-18-4 as read)
 
 > यं वर्धयन्तीद्गिरः पतिं तुरस्य राधसः ।
 > *yaṃ vardhayantīd giraḥ patiṃ turasya rādhasaḥ |*
-> (*Ṛ. Saṃ.* 6-44-5 as read [?])
+> (*Ṛ. Saṃ.* 6-44-5 as read)
 
 **GLOSS** "In all these, *turasya* gives the sense 'of the harmful one' or 'of the strong, the mighty' — 'of the foe'. In passages such as 1-61-13; 7-41-2 it is a synonym of Yama. Since Yama goes with great speed, Yama has the name *tura* (Ni. 12-14); it may also mean 'one of great power'. For the word *turasya* used in these various senses, the sense in the present context is 'of wealth in a mobile form'."
 
@@ -3122,7 +3122,7 @@ Title block:
 > स मर्त्येष्वमृत प्रचेता राया द्युम्नेन श्रवसा वि भाति ॥
 > *yas te yajñena samidhā ya ukthair arkebhiḥ sūno sahaso dadāśat |*
 > *sa martyeṣv amṛta pracetā rāyā dyumnena śravasā vi bhāti ‖*
-> (*Ṛ. Saṃ.* 6-5-5 as read [?])
+> (*Ṛ. Saṃ.* 6-5-5 as read)
 
 **GLOSS**
 
@@ -3175,7 +3175,7 @@ Title block:
 
 **॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
 
-"O Agni, purifier who destroys sins: growing with vigour by the fuel offered by us, shine exceedingly for the sake of drinking [?] our food, which is endowed with wealth. May Mitra, Varuṇa, Aditi, the ocean, the earth and the heavenly world protect that food of ours."
+"O Agni, purifier who destroys sins: growing with vigour by the fuel offered by us, shine exceedingly for the sake of drinking our food, which is endowed with wealth. May Mitra, Varuṇa, Aditi, the ocean, the earth and the heavenly world protect that food of ours."
 
 **English Translation (as printed)**
 
@@ -3232,7 +3232,7 @@ Title block:
 
 *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5"; centre "Ṛgvedasaṃhitā"; right 111.)*
 
-"…*abravīt*' (Tā. 13-6-97) is said. Therefore this sūkta must chiefly be used in rites of appeasement performed to remove grief. For this very reason the sage Bhāradvāja, in the rite of appeasement to be performed on the eighth [?] day in the *āpara-karma*, applies this mantra, which is found in the Yajurveda, with the sūkta '*nava ca sravāhutīr api naḥ śośucad agham*'. In the Yajurveda this mantra is in the Taittirīya Āraṇyaka, in the eleventh anuvāka of the sixth prapāṭhaka (Tai. Ā. 6-11)."
+"…*abravīt*' (Tā. 13-6-97) is said. Therefore this sūkta must chiefly be used in rites of appeasement performed to remove grief. For this very reason the sage Bhāradvāja, in the rite of appeasement to be performed on the tenth day in the *āpara-karma*, applies this mantra, which is found in the Yajurveda, with the sūkta '*nava ca sravāhutīr api naḥ śośucad agham*'. In the Yajurveda this mantra is in the Taittirīya Āraṇyaka, in the eleventh anuvāka of the sixth prapāṭhaka (Tai. Ā. 6-11)."
 
 *(A printer's ornament follows.)*
 
@@ -3324,7 +3324,7 @@ Title block:
 
 **GLOSS**
 
-"The story that is the source of this context has been told in the Chāndogya [or Chandoga] Brāhmaṇa as follows: Formerly, when Kutsa and Luśa both invited Indra, Indra came to Kutsa. Then Kutsa, making Indra stay, bound his testicles with a hundred straps (*kaśa*) [the print's word as read [?]]. At that time Luśa, reciting the mantra [*pra muñcasva pari kutsād ihā gahi kimu tvāvān muṣkayor baddha āsate* (Ṛ. Saṃ. 10-38-5)], 'Free yourself from Kutsa and come to me', prayed to him. Then Kutsa, thinking that his disrespect to Indra was a sin, composed this sūkta to Agni for the removal of that sin. This same story Sāyaṇa has also explained, in commenting on the Ṛk Ṛ. Saṃ. 10-38-5, with citations from the Śāṭyāyana Brāhmaṇa and the Chāndogya Brāhmaṇa suited to the context. But here alone he says that another story, that of Dīrghajihvī, is the source of this praise of Agni. In both places, whichever may be the source, the purpose of both is one and the same: it is the prayer that Kutsa composed to Agni for the removal of his sin."
+"The story that is the source of this context has been told in the Chāndogya [or Chandoga] Brāhmaṇa as follows: Formerly, when Kutsa and Luśa both invited Indra, Indra came to Kutsa. Then Kutsa, making Indra stay, bound his testicles with a hundred straps (*kaśa*). At that time Luśa, reciting the mantra [*pra muñcasva pari kutsād ihā gahi kimu tvāvān muṣkayor baddha āsate* (Ṛ. Saṃ. 10-38-5)], 'Free yourself from Kutsa and come to me', prayed to him. Then Kutsa, thinking that his disrespect to Indra was a sin, composed this sūkta to Agni for the removal of that sin. This same story Sāyaṇa has also explained, in commenting on the Ṛk Ṛ. Saṃ. 10-38-5, with citations from the Śāṭyāyana Brāhmaṇa and the Chāndogya Brāhmaṇa suited to the context. But here alone he says that another story, that of Dīrghajihvī, is the source of this praise of Agni. In both places, whichever may be the source, the purpose of both is one and the same: it is the prayer that Kutsa composed to Agni for the removal of his sin."
 
 *(The reading of the Kannada in the story of Kutsa and Luśa is partly clotted; the correction that the "hundred" is of straps (*kaśa*) rests on a word read with doubt [?]. The tentative gloss given on p. 113 for Skandasvāmin's Sanskrit is to be read together with this account.)*
 
@@ -3393,7 +3393,7 @@ Title block:
 
 **Sāyaṇa-bhāṣya of Rik 97.2, continued from p. 116 (the grammatical tail)**
 
-> …सुक्षेत्रिया । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येतीत्वदीर्घयोर्निषेधः । व्यत्ययेन ईत्वदीर्घे । क्यजन्ताद्अ प्रत्ययादिति भावेऽकारप्रत्ययः । टाप् । सुपां सुलुगिति तृतीयाया लुक् । एवमुत्तरत्रापि । यद्वा । शोभनं क्षेत्रमस्येति सुक्षेत्रं । इयोडियाजीकाराणामुपसंख्यानं । पा. सू. ६-१-१३[?] इति तृतीयाया डियाजादेशः ॥
+> …सुक्षेत्रिया । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येतीत्वदीर्घयोर्निषेधः । व्यत्ययेन ईत्वदीर्घे । क्यजन्ताद्अ प्रत्ययादिति भावेऽकारप्रत्ययः । टाप् । सुपां सुलुगिति तृतीयाया लुक् । एवमुत्तरत्रापि । यद्वा । शोभनं क्षेत्रमस्येति सुक्षेत्रं । इयोडियाजीकाराणामुपसंख्यानं । पा. सू. ७-१-३९-१ इति तृतीयाया डियाजादेशः ॥
 > *…sukṣetriyā | sup ātmanaḥ kyac | na chandasy aputrasyety ītvadīrghayor niṣedhaḥ | vyatyayena ītvadīrghe | kyajantād a pratyayād iti bhāve 'kārapratyayaḥ | ṭāp | supāṃ suluk iti tṛtīyāyā luk | evam uttaratrāpi | yadvā | śobhanaṃ kṣetram asyeti sukṣetraṃ | iyoḍiyājīkārāṇām upasaṃkhyānaṃ | pā. sū. 7-1-39-1 iti tṛtīyāyā ḍiyājādeśaḥ ‖*
 
 *(The word* kyajantād a pratyayāt *is read as given, clotted [?]. Tail (characterized): *sukṣetriyā* — from the nominal stem the suffix *kyac* in the sense of 'desiring for oneself'; the prohibition of *ī* and lengthening in the Veda by the rule 'for one who has no son', and their occurrence by *vyatyaya*; the suffix *a* in the sense of the action after the *kyac*-ending; *ṭāp*; the instrumental ending elided by *supāṃ suluk*; and similarly in what follows; or the instrumental ending replaced by *ḍiyā*… numerals small and doubtful [?].)*
@@ -3434,11 +3434,11 @@ Title block:
 
 **GLOSS** "In this passage the word *kṣetra* is a synonym of 'sacrifice'; but in the present context the meaning is 'the excellent earth' (*bhūsvatva*). *Sukṣetriyā* — 'through the wish to obtain it'."
 
-***sugātuyā*** — *śobhanamārgecchayā*: "'by wishing for the excellent path': one must take hold of the excellent path, with the wish that one should follow it. The word *gātu* has already been shown, as said earlier, to be of the sense 'path of the performance of sacrifice' (*anuṣṭhānamārga*), 'path of going to the world of the gods' (*devalokagamanamārga*), and so, like the word *sugam*, to be of the sense 'the right path' (*sanmārga*) (Ṛ. Saṃ. 1-93-4 [?]). *Iha tāvaj loke śobhanakṣetrecchayā paraloke sugātuyā*: 'here, in this world, through the desire for excellent fields; in the other world, through the desire for a good path': so the purpose of the worship of Agni is made known — 'we worship you [*tvāṃ yajāmahe*] out of the desire to obtain prosperity in this world, and out of the desire to follow the right path that is the means of enjoying the happiness of heaven in the world beyond.' Because the sinner is not qualified to obtain either of these two kinds of favour of Agni, the prayer *apa naḥ śośucad agham* — 'destroy this sin and make me worthy [pure] to obtain your favour' — is made."
+***sugātuyā*** — *śobhanamārgecchayā*: "'by wishing for the excellent path': one must take hold of the excellent path, with the wish that one should follow it. The word *gātu* has already been shown, as said earlier, to be of the sense 'path of the performance of sacrifice' (*anuṣṭhānamārga*), 'path of going to the world of the gods' (*devalokagamanamārga*), and so, like the word *sugam*, to be of the sense 'the right path' (*sanmārga*) (Ṛ. Saṃ. 1-96-4). *Iha tāvaj loke śobhanakṣetrecchayā paraloke sugātuyā*: 'here, in this world, through the desire for excellent fields; in the other world, through the desire for a good path': so the purpose of the worship of Agni is made known — 'we worship you [*tvāṃ yajāmahe*] out of the desire to obtain prosperity in this world, and out of the desire to follow the right path that is the means of enjoying the happiness of heaven in the world beyond.' Because the sinner is not qualified to obtain either of these two kinds of favour of Agni, the prayer *apa naḥ śośucad agham* — 'destroy this sin and make me worthy [pure] to obtain your favour' — is made."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.2)** *(grammar pages, pp. 118–119, noted briefly; numerals small and doubtful [?])*
 
-***sukṣetriyā*** — *śobhanaṃ kṣetraṃ sukṣetram*: when 'he wishes it for himself' is intended, the suffix *kyac* by *supa ātmanaḥ kyac* (Pā. Sū. 3-1-0 as printed [?]); *kyac*'s *ī*-elision and lengthening are blocked in the Veda, by *na chandasy aputrasya* (Pā. Sū. 7-4-35); by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the *ī*, etc. arise; by *sanādyantā dhātavaḥ* it takes the designation 'root' (*sukṣetriya*); since it ends in a suffix, the suffix *a* (*aṅ*) in the sense of the action by *aprī-… ṭ* (Pā. Sū. 3-3-102); *ato lopaḥ* elides the *a* of *kyac*; for the feminine, *ajādyatas ṭāp* gives *ṭāp*; through the accent of *kyac*, the end is acute, and when *ṭāp* [and the *a*] combine in one substitute, it too is acute; the instrumental singular follows: *supāṃ suluk* (Pā. Sū. 7-1-39) gives *ā* for the ending, and similarly in *sugātuyā* and *vasūyā*. Or: *śobhanaṃ kṣetram asyāsti*, 'he has an excellent field': with the instrumental singular, *iyoḍiyājīkārāṇām upasaṃkhyānam* (Vārttika on Pā. Sū. 7-1-39-1): *ḍiyā* for the instrumental ending; since it is *ḍit*, the earlier *ṭi* is elided; since it is *cit* [? as read], the final acute.
+***sukṣetriyā*** — *śobhanaṃ kṣetraṃ sukṣetram*: when 'he wishes it for himself' is intended, the suffix *kyac* by *supa ātmanaḥ kyac* (Pā. Sū. 3-1-0 as printed); *kyac*'s *ī*-elision and lengthening are blocked in the Veda, by *na chandasy aputrasya* (Pā. Sū. 7-4-25); by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the *ī*, etc. arise; by *sanādyantā dhātavaḥ* it takes the designation 'root' (*sukṣetriya*); since it ends in a suffix, the suffix *a* (*aṅ*) in the sense of the action by *aprī-… ṭ* (Pā. Sū. 3-3-102); *ato lopaḥ* elides the *a* of *kyac*; for the feminine, *ajādyatas ṭāp* gives *ṭāp*; through the accent of *kyac*, the end is acute, and when *ṭāp* [and the *a*] combine in one substitute, it too is acute; the instrumental singular follows: *supāṃ suluk* (Pā. Sū. 7-1-39) gives *ā* for the ending, and similarly in *sugātuyā* and *vasūyā*. Or: *śobhanaṃ kṣetram asyāsti*, 'he has an excellent field': with the instrumental singular, *iyoḍiyājīkārāṇām upasaṃkhyānam* (Vārttika on Pā. Sū. 7-1-39-1): *ḍiyā* for the instrumental ending; since it is *ḍit*, the earlier *ṭi* is elided; since it is *cit* [? as read], the final acute.
 
 ### Page 119 (PDF 139)
 
@@ -3468,8 +3468,8 @@ Title block:
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.3)**
 
-> यद्यथैषां स्तोतॄणां मध्येऽयं कुत्सः प्र भन्दिष्ठः । प्रकर्षेण स्तोतृतमः । एवमस्माकासस्तदीया अस्माकीनाः सूरयः स्तोतारश्च प्रकर्षेण स्तोतृतमा भवन्ति । अन्यत्समानं ॥ भन्दिष्ठः । भदि कल्याणे सुखे चेति तु धातुः । अस्मात्तृजन्तात्तृश्छन्दसीष्ठन् । तुरिष्ठेमेयस्सु इति तृलोपः । अस्माकासः । अस्माकं सम्बन्धिनोऽस्माकाः । तस्मिन्नणि च युष्माकास्माकौ । पा. सू. ४-३-२ । इत्यस्माकादेशः । छान्दसोऽत्र प्रत्ययस्य लोपः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्वृद्धिभावः । आजस्सेरसुक् । स्थानिवदादेशेऽपि मकाराऽत्परस्याकारस्योदात्तत्वं । यद्वा । षष्ठीबहुवचनेऽस्माकंशब्दस्य मध्योदात्तस्य दृप्वृक्शब्दके [?] एवाचार्येणातिदिष्कृते ॥
-> *yad yathaiṣāṃ stotṝṇāṃ madhye 'yaṃ kutsaḥ pra bhandiṣṭhaḥ | prakarṣeṇa stotṛtamaḥ | evam asmākāsas tadīyā asmākīnāḥ sūrayaḥ stotāraś ca prakarṣeṇa stotṛtamā bhavanti | anyat samānaṃ ‖ bhandiṣṭhaḥ | bhadi kalyāṇe sukhe ceti tu dhātuḥ | asmāt tṛjantāt tṛś chandasīṣṭhan | turiṣṭhemeyassu iti tṛlopaḥ | asmākāsaḥ | asmākaṃ sambandhino 'smākāḥ | tasminn aṇi ca yuṣmākāsmākau | pā. sū. 4-3-2 | ity asmākādeśaḥ | chāndaso 'tra pratyayasya lopaḥ | saṃjñāpūrvakasya vidher anityatvād vṛddhibhāvaḥ | ājjaser asuk | sthānivad ādeśe 'pi makārāt parasyākārasyodāttatvaṃ | yadvā | ṣaṣṭhībahuvacane 'smākaṃśabdasya madhyodāttasya dṛpvṛkśabdake [?] evācāryeṇātidiṣkṛte ‖*
+> यद्यथैषां स्तोतॄणां मध्येऽयं कुत्सः प्र भन्दिष्ठः । प्रकर्षेण स्तोतृतमः । एवमस्माकासस्तदीया अस्माकीनाः सूरयः स्तोतारश्च प्रकर्षेण स्तोतृतमा भवन्ति । अन्यत्समानं ॥ भन्दिष्ठः । भदि कल्याणे सुखे चेति तु धातुः । अस्मात्तृजन्तात्तृश्छन्दसीष्ठन् । तुरिष्ठेमेयस्सु इति तृलोपः । अस्माकासः । अस्माकं सम्बन्धिनोऽस्माकाः । तस्मिन्नणि च युष्माकास्माकौ । पा. सू. ४-३-२ । इत्यस्माकादेशः । छान्दसोऽत्र प्रत्ययस्य लोपः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्वृद्धिभावः । आजस्सेरसुक् । स्थानिवदादेशेऽपि मकाराऽत्परस्याकारस्योदात्तत्वं । यद्वा । षष्ठीबहुवचनेऽस्माकंशब्दस्य मध्योदात्तस्य दृष्टत्वात्स एवाचार्येणातिश्यते ॥
+> *yad yathaiṣāṃ stotṝṇāṃ madhye 'yaṃ kutsaḥ pra bhandiṣṭhaḥ | prakarṣeṇa stotṛtamaḥ | evam asmākāsas tadīyā asmākīnāḥ sūrayaḥ stotāraś ca prakarṣeṇa stotṛtamā bhavanti | anyat samānaṃ ‖ bhandiṣṭhaḥ | bhadi kalyāṇe sukhe ceti tu dhātuḥ | asmāt tṛjantāt tṛś chandasīṣṭhan | turiṣṭhemeyassu iti tṛlopaḥ | asmākāsaḥ | asmākaṃ sambandhino 'smākāḥ | tasminn aṇi ca yuṣmākāsmākau | pā. sū. 4-3-2 | ity asmākādeśaḥ | chāndaso 'tra pratyayasya lopaḥ | saṃjñāpūrvakasya vidher anityatvād vṛddhibhāvaḥ | ājjaser asuk | sthānivad ādeśe 'pi makārāt parasyākārasyodāttatvaṃ | yadvā | ṣaṣṭhībahuvacane 'smākaṃśabdasya madhyodāttasya dṛṣṭatvātsa evācāryeṇātiśyate ‖*
 
 *Sense (mine, from the Kannada that follows):* "Just as among these praisers this Kutsa is *prabhandiṣṭha* — pre-eminently the best praiser — so our own praisers (*asmākāsaḥ sūrayaḥ*) too are pre-eminently excellent praisers. The rest as before." Tail (characterized): *bhandiṣṭhaḥ* — the root *bhadi* (in the sense of welfare, happiness), the agent suffix *tṛc*, and *iṣṭhan* in the Veda, the elision of *tṛ* by *tuṛiṣṭhemeyassu*; *asmākāsaḥ* — 'belonging to us', formed with the replacement *asmāka* by the rule on *yuṣmākāsmākau* in the sense of 'belonging to' (Pā. Sū. 4-3-2), the suffix elided in the Veda, no vṛddhi, the augment *asuk* for the nominative plural; the accent of the *a* after the *m*; or on another view, in the genitive plural the middle-acute *asmāka* of the word *asmākam*. *(The last clause of the tail is clotted [?]; numerals small and doubtful [?].)*
 
@@ -3491,7 +3491,7 @@ Title block:
 
 **॥ विशेषविषयाः ॥ — Special Topics of Rik 97.3 (Kannada)**
 
-***prabhandiṣṭhaḥ*** — "*arcati*, *gāyati* and so on are read among the forty-four [?] names of 'worship' (Ni. 3-19), so *bhandate* means 'worships, praises'. *Prabhandiṣṭhaḥ* — *prakarṣeṇa stotṛtamaḥ*: 'the one who praises in the highest degree': the best praiser of all. On this matter —"
+***prabhandiṣṭhaḥ*** — "*arcati*, *gāyati* and so on are read among the forty-four names of 'worship' (Ni. 3-19), so *bhandate* means 'worships, praises'. *Prabhandiṣṭhaḥ* — *prakarṣeṇa stotṛtamaḥ*: 'the one who praises in the highest degree': the best praiser of all. On this matter —"
 
 > आ विवेश रोदसी भूरिवर्पसा पुरुप्रियो भन्दते धामभिः कविः ।
 > *ā viveśa rodasī bhūrivarpasā purupriyo bhandate dhāmabhiḥ kaviḥ |*
