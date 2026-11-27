@@ -7598,7 +7598,7 @@ May Twastri be propitiated by this our praise : may he who is of comprehensive u
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- नमगॆ (*namagè*)—
+- नः (*naḥ*)—to us
 - सुशरणः (*suśaraṇaḥ*)—as a giver of refuge
 - अस्तु (*astu*)—may he be
 - रायः (*rāyaḥ*)—riches
@@ -10067,7 +10067,7 @@ The grass (बर्हिः (*barhiḥ*)), the heap of kuśa belonging to thes
 
 ##### Gist of the bhāṣya
 
-Vāyu, who has them, and Pūṣan, for the welfare (स्वस्तये (*svastaye*)) of the people (विशां (*viśāṃ*)), when the earlier invocation (पूर्वहूतौ (*pūrvahūtau*)) takes place in advance of Uṣas, who belongs to the night (अक्तोः (*aktoḥ*)), let them come (इयाते (*iyāte*)) to the firmament (बीरिटे (*bīriṭe*)). Alternatively, विश्पतीव (*viśpatīva*) is a comparison: as two kings go in a host (बीरिटे गणे (*bīriṭe gaṇe*)) of men, so let they come. In this view विशां (*viśāṃ*) is connected with both places.
+Vāyu, who has them, and Pūṣan, for the welfare (स्वस्तये (*svastaye*)) of the people (विशां (*viśāṃ*)), when the earlier invocation (पूर्वहूतौ (*pūrvahūtau*)) takes place in advance of Uṣas, who belongs to the night (अक्तोः (*aktoḥ*)), let them come (इयाते (*iyāte*)) to the firmament (बीरिटे (*bīriṭe*)). Alternatively, विश्पतीव (*viśpatīva*) is a comparison: as two kings go in a host (बीरिटे गणे (*bīriṭe gaṇe*)) of men, so let them come. In this view विशां (*viśāṃ*) is connected with both places.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12395,7 +12395,7 @@ The word तिग्म (*tigma*) is formed from the root तीज् (*tīj*)
 
 ##### Gist of the bhāṣya
 
-That Rudra is क्षम्यस्य (*kṣamyasya*), "born on earth (क्षमा (*kṣamā*))"; he is known by his lordship (क्षयेण (*kṣayeṇa*)) over the people of earth, and by his sovereignty (साम्राज्येन (*sāmrājyena*)) over the people of heaven (दिव्यस्य (*divyasya*)). The rest is to be supplied. O Rudra, protecting (अवन् (*avan*)) our people who propitiate you with hymns, visit our homes (दुरः (*duraḥ*)). And be अनमीवः (*anamīvaḥ*), making no अमीवा (*amīvā*) (disease) among our offspring.
+That Rudra is क्षम्यस्य (*kṣamyasya*), "born on earth (क्षमा (*kṣamā*))"; he is known by his lordship (क्षयेण (*kṣayeṇa*)) over the people of earth, and by his sovereignty (साम्राज्येन (*sāmrājyena*)) over the people of heaven (दिव्यस्य (*divyasya*)). The rest is in direct address (to Rudra). O Rudra, protecting (अवन् (*avan*)) our people who propitiate you with hymns, visit our homes (दुरः (*duraḥ*)). And be अनमीवः (*anamīvaḥ*), making no अमीवा (*amīvā*) (disease) among our offspring.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -18487,7 +18487,7 @@ Sury aspreads his vast and numerous rays over all the crowds of men; shining bri
 
 ##### Gist of the bhāṣya
 
-O Sūrya, you, the renowned one, rise before us. By what means? With these praises, with एतशेभिः (*etaśebhiḥ*), horses of variegated colour (the श (*śa*) is pleonastic), as in यो जरंता युवशा ता (*yo jaraṃtā yuvaśā tā*) (Ṛ. 1-161-6) and पुरुषः कृष्णशवास्येत्तरतः (*puruṣaḥ kṛṣṇaśavāsyettarataḥ*) (Ai. Brā. 5-14). Rise with such swift-moving horses. Then, praised by us, declare us sinless to Mitra, Varuṇa, Aryaman and Agni. Here, in a hymn to Sūrya, the mention of the other deities, Mitra and the rest, is not inconsistent, since they too share in the particle; likewise, before and after, in a hymn to Mitra and Varuṇa the mention of Aryaman and others is not inconsistent.
+O Sūrya, you, the renowned one, rise before us. By what means? With these praises, with एतशेभिः (*etaśebhiḥ*), horses of variegated colour (the श (*śa*) is pleonastic), as in यो जरंता युवशा ता (*yo jaraṃtā yuvaśā tā*) (Ṛ. 1-161-6) and पुरुषः कृष्णशवास्येत्तरतः (*puruṣaḥ kṛṣṇaśavāsyettarataḥ*) (Ai. Brā. 5-14). Rise with such swift-moving horses. Then, praised by us, declare us sinless to Mitra, Varuṇa, Aryaman and Agni. Here, in a hymn to Sūrya, the mention of the other deities, Mitra and the rest, is not inconsistent, since they too have an incidental share (in the hymn); likewise, before and after, in a hymn to Mitra and Varuṇa the mention of Aryaman and others is not inconsistent.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -21716,7 +21716,7 @@ Well-horsed and celebrated, come Aswins, to our presence : drink, Dasras, the sw
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- युवोः (*yuvoḥ*)—your
+- युवोः (*yuvoḥ*)—(O Aśvins) your
 - श्रियं (*śriyaṃ*)—chariot
 - योषा (*yoṣā*)—who is always with you
 - सूरः दुहिता (*sūraḥ duhitā*)—the daughter of Sūrya
@@ -25287,13 +25287,19 @@ May the dawns, possessing horses to bestow on us, possessing cattle, fit to best
 ##### English translation
 May the auspicious dawns ever break upon us redolent of horses, of cattle, of male posterity, shedding moisture, yielding everywhere abundance : and do you, (gods), ever cherish us with blessings.
 
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
 May Vidyātīrtha Maheśvara, dispelling the darkness of the heart by the light of the meaning of the Veda, bestow the four human aims.
 
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये पंचमाष्टके पंचमोऽध्यायः समाप्तः ॥ ॥ ओं तत्सत् ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣye paṃcamāṣṭake paṃcamo 'dhyāyaḥ samāptaḥ ‖ ‖ oṃ tatsat ‖*)
 Thus ends the fifth adhyāya of the fifth aṣṭaka in the Ṛksaṃhitā-bhāṣya, the Mādhavīya Vedārthaprakāśa, composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka, king of kings, supreme lord, promoter of the Vedic path. Om, That is the Real.
 
 Here ends the fifth adhyāya of the fifth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
 
-Whatever has fallen from syllable or word, or whatever may be lacking in measure, may all that be forgiven, O God, Lord of Speech; salutation to you. May there be auspiciousness. Blessing.
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+Whatever has fallen from syllable or word, or whatever may be lacking in measure, may all that be forgiven, O God, Lord of Speech; salutation to you.
+
+॥ शुभं भूयात् ॥ ॥ मंगळं ॥ (*‖ śubhaṃ bhūyāt ‖ ‖ maṃgaḷaṃ ‖*)
+May there be auspiciousness. Blessing.
 
 ---
 
