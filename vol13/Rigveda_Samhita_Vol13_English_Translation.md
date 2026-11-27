@@ -14446,6 +14446,184 @@ In such Ṛks जुरतां (*juratāṃ*) is explained as हिंसक�
 - आसाथे—आस उपवेशने धातुः । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
 - अहविः—न विद्यते हविः यस्य सः । व्यत्ययेन नञ् निमित्तस्वरः न भवति । बहुव्रीहौ इति आद्युदात्तस्वरः भवति । अथवा हविः शब्दः लुप्तमत्त्वर्थकप्रत्ययांतत्वात् तत्पुरुषसमासे तत्पुरुषे इति अव्ययपूर्वपदप्रकृतिस्वरः भवति ।
 
+### Printed p. 607
+
+- महीयते—मह पूजायाम् इति धातुः । कर्मणि यक् । लडंतरूपम् । निषातैर्यद्यदि—(पा. सू. ८-१-३०) इति चेत्संबंधान्निघातस्वरो न भवति । यक्स्वरो अवशिष्यते ।
+- क्रमिष्टम्—क्रमु पादविक्षेपे इति धातुः । छंदसि लुज् लज् लिटः इति लोडर्थे लुज् । मध्यमपुरुषद्विवचनस्य तमादेशः । सिट इडागमः । ह्म्यंतक्षत्वस—(पा. सू. ७-२-५) इति वृद्धिनिषेधः । बहुलं छंदस्यमा—(पा. सू. ६-४-७५) इति अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- जुरतम्—ज्ञ वयोहानौ इति धातुः । लोट् मध्यमपुरुषद्विवचनस्य तमादेशः । व्यत्ययेन श विकरणम् । बहुलं छंदसि (पा. सू. ७-१-१०३) इति उत्वम् । र परो भवति । तिजंतस्य परत्वान्निघातस्वरो न भवति । विकरणस्वरेण मध्योदात्तो भवति ।
+- वचस्यवे—वचः आत्मन इच्छति वचस्यति । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् । क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतादुः प्रत्ययः । अतोलोपः इति अकारलोपः । प्रत्ययस्वरो भवति । चतुर्थ्येकवचनांतरूपम् ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जं॒भय॑तम॒भितो॒ राय॑तः॒ शुनो॑ ह॒तं मृधो॑ वि॒दथु॒स्तान्य॑श्विना ।  
+> वाचं॑वाचं जरि॒तू र॒त्निनीं॑ कृतमु॒भा शंसं॑ नासत्यावतं॒ मम॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जंभयतं । अभितः । रायतः । तुनः । हतं । मृधः । विदथुः । तानि । अश्विना ।  
+> वाचं वाचं । जरितुः । रत्निनीं । कृतं । उभा । शंसं । नासत्या । अवतं । मम ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ रायतो निंदितं शब्दयतोऽस्मान्हंतुमागच्छतो वा तुनः
+> त्वसदृशानभितो जंभयतं । नाशयतं । तथा मृधस्तेषां संग्रामान् संग्रामं
+> कुर्वतो वा हतं । मारयतं । तानि हननोपायान्विपथुः । जानीथः । किंच
+
+##### Gist of the bhāṣya
+
+"O Aśvins, destroy (जंभयतं (*jaṃbhayataṃ*): make perish) on every side those who are like dogs (तुनः (*tunaḥ*)) and who bark reproachfully (रायतः (*rāyataḥ*)) or who come to kill us." **NOTE** "Likewise slay the मृधः (*mṛdhaḥ*), that is, their battles, or those who wage battle. You know (विदथुः (*vidathuḥ*): you know) the means of killing them. And, further,"
+
+### Printed p. 608
+
+> जरितुर्युष्मान् स्तोतुर्वाचं वाचं तां तां स्तुतिलक्षणां वाचं रत्निनीं कृतं ।
+> सर्वामपि स्तुतिं रमणीयफलवशीं कुरुतं । हे नासत्या सत्यभूतौ युवामुभोभौ मम मदीयां शंसं स्तुतिमवतं । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+"…of the praiser, of you who are praised: make every word of praise (वाचंवाचं (*vācaṃvācaṃ*)) rich in treasure (रत्निनीं (*ratninīṃ*)), that is, make all the praise yield delightful fruit. O Nāsatyas, who are true beings, both of you protect (अवतं (*avataṃ*)) my praise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अश्विना (*(he) aśvinā*)—O Aśvin gods
+- रायतः (*rāyataḥ*)—those who make a sound of reproach (who bark), or who come to kill us
+- शुनः (*śunaḥ*)—men who are like dogs
+- अभितः जंभयतं (*abhitaḥ jaṃbhayataṃ*)—destroy completely
+- मृधः (*mṛdhaḥ*)—those who make war (against us)
+- हतं (*hataṃ*)—slay
+- तानि (*tāni*)—the means of killing them, or the means of killing that they use
+- विदधुः (*vidadhuḥ*)—you know **NOTE**
+- किंच (*kiṃca*)—and further
+- जरितुः (*jarituḥ*)—of those who praise you
+- वाचंवाचं (*vācaṃvācaṃ*)—every single word of the nature of praise
+- रत्निनीं (*ratninīṃ*)—as possessed of delightful fruit
+- कृतं (*kṛtaṃ*)—make
+- हे नासत्या (*he nāsatyā*)—O Aśvin gods, who are true beings
+- उभा (*ubhā*)—both of you
+- मम (*mama*)—my
+- शंसं (*śaṃsaṃ*)—praise
+- आवतं (*āvataṃ*)—protect (accept)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, destroy those who revile you or who come to kill us; destroy those who come to fight against us; you know the means of killing them. Being pleased with my praise of you, make every word of praise carry excellent fruit.
+
+##### English translation (H. H. Wilson)
+Annihilate, Ashwins, the dogs who bark at us : slay them warring (against us) : you know their (means of harm) : render every word of him who praises you affluent in precious (rewards) : accept. Nasatyas, both of you, my praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+रायतः (*rāyataḥ*)—निंदितं शब्दयतः आस्मान् हंतुमागच्छतो वा (*niṃditaṃ śabdayataḥ āsmān haṃtumāgacchato vā*): the meaning is enemies who are slandering us or who are coming to harm us.
+मृधः (*mṛdhaḥ*)—तेषां संग्रामान् संग्रामं कुर्वशो वा (*teṣāṃ saṃgrāmān saṃgrāmaṃ kurvaśo vā*). This word means either battle or the enemies who make battle. The Nirukta authors have read this word in the list of names of battle (Ni. 3-9); the meaning is battle. In some places it also means the enemy who is the cause of battle.
+
+### Printed p. 609
+
+वि न इंद्र मृधो जहि नीचा यच्छ पृतन्यतः । (*vi na iṃdra mṛdho jahi nīcā yaccha pṛtanyataḥ |*)
+(Ṛ. Saṃ. 10-152-4)
+Quoting this Ṛk, the Nirukta shows that there the meaning is संग्रामकारिणः शत्रून् (*saṃgrāmakāriṇaḥ śatrūn*) (Ni. 7-2). In the present Ṛk both meanings fit.
+जंभयतं (*jaṃbhayataṃ*)—the word is explained as नाशयतं (*nāśayataṃ*), "destroy (the enemies)". The word जंभ (*jaṃbha*) means tooth; in particular, the tusk-like fangs are what is current usage. Even where the word जंभ (*jaṃbha*) is used, this is the intention. For example—
+न यो वराय मरुतामिव स्वनः सेनेव सृष्टा दिव्या यथाशनिः । अग्निर्जंभैस्तिगितैरत्ति भर्वति योधो न शत्रून्त्स वना न्यृंजते ॥ (*na yo varāya marutāmiva svanaḥ seneva sṛṣṭā divyā yathāśaniḥ | agnirjaṃbhaistigitairatti bharvati yodho na śatrūntsa vanā nyṛṃjate ‖*)
+(Ṛ. Saṃ. 1-143-5)
+In Ṛks such as this the word जंभैः (*jaṃbhaiḥ*) is used as a synonym for the flame of fire. With जंभैर्दंतैर्दंतस्थानीयाभिः ज्वालाभिः अत्ति (*jaṃbhairdaṃtairdaṃtasthānīyābhiḥ jvālābhiḥ atti*) the fire's flames are compared to cruel fangs. In the same way Ṛ. Saṃ. 1-148-4 and other Ṛks have a description of this kind.
+असौ य एषि वीरको गृहंगृहं विचाकशत् । इमं जंभसुतं पिब धानावंतं करंभिणमपूपवंतमुक्थिनं ॥ (*asau ya eṣi vīrako gṛhaṃgṛhaṃ vicākaśat | imaṃ jaṃbhasutaṃ piba dhānāvaṃtaṃ karaṃbhiṇamapūpavaṃtamukthinaṃ ‖*)
+(Ṛ. Saṃ. 8-91-2)
+Just as जंभसुतं (*jaṃbhasutaṃ*) there means मम दंतैरभिषुतं (*mama daṃtairabhiṣutaṃ*), "pressed out by biting with my jaws", so in the present Ṛk too the verb जंभयतं (*jaṃbhayataṃ*) means: crush the enemies as forest beasts and the like chew up and destroy other creatures with their fangs.
+शुनः (*śunaḥ*)—From the comparison श्व सदृशान् (*śva sadṛśān*), "like dogs", it is understood with what great contempt and hatred people such as the Paṇis were regarded.
+रत्निनीं (*ratninīṃ*)—रमणीयफलवतीं (*ramaṇīyaphalavatīṃ*). The prayer is: make (our praises) yield delightful fruit. The word रत्न (*ratna*) is said in many places to mean delightful. The Nirukta authors too give this same meaning for रत्न (*ratna*) in the sentence होतारं रत्नधातमं (*hotāraṃ ratnadhātamaṃ*) (Ni. 7-15). The word is used wherever a priceless thing is described, with its excellence and beauty. For example—
+यस्ते स्तनः शशयो यो मयोभूर्येन विश्वा पुष्यसि वार्याणि । यो रत्नधा वसुविद्यः सुदत्रः सरस्वति तमिह धातवे कः ॥ (*yaste stanaḥ śaśayo yo mayobhūryena viśvā puṣyasi vāryāṇi | yo ratnadhā vasuvidyaḥ sudatraḥ sarasvati tamiha dhātave kaḥ ‖*)
+(Ṛ. Saṃ. 1-164-49)
+
+### Printed p. 610
+
+Here a juice in the form of bliss is indicated. Since it has the epithet रत्नधा (*ratnadhā*), the explanation given is बहुविधरमणीयरसानां धारयिता (*bahuvidharamaṇīyarasānāṃ dhārayitā*). Likewise in the present Ṛk too an excellent and delightful fruit is indicated.
+
+##### Grammar
+
+- जंभयतम्—जभि नाशने इति धातुः । चुरादिः । सत्यापषात—(पा. सू. ३-१-२५) इति स्वार्थे णिच् । इदित्त्वान्नुमागमः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । पादादित्वान्निघातस्वरो न भवति । णिच्स्वरो अवशिष्यते ।
+- रायतः—रै शब्दे इति धातुः । भ्वादिः । लटः शत्रादेशः । शप् विकरणम् । आयादेशः । शास्यनुदात्तेत्--(पा. सू. ६-१-१८६) इति ल सार्वधातुकस्यानुदात्तत्वाद्धातुस्वरो अवशिष्यते । द्वितीयाबहुवचनांतरूपम् ।
+- हतम्—हन हिंसागत्योः इति धातुः । लोट् मध्यमपुरुषद्विवचने लज्वद्भावात् तमादेशः । अदिप्रभृतिभ्यः तपः इति शपो लुक् । अनुदात्तोपदेश वनति—(पा. सू. ६-४-३७) इति धातोर्नकारस्य लोपः । पादादित्वान्निघातस्वरो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- विदथुः—विद ज्ञाने इति धातुः । लट् मध्यमपुरुषद्विवचनस्य विदोलटो ना (पा. सू. ३-४-८३) इति अथुसादेशः । प्रत्ययस्य जित्वातिदेशाद्गुणो न भवति । व्यत्ययेन प्रत्ययाद्युदात्तस्वरो भवति ।
+- वाचंवाचम्—नित्यवीप्सयोः इति द्विर्वचनम् । अनुदात्तं च (पा. सू. ८-१-३) इति परस्याम्रेडितस्य सर्वानुदात्तत्वं भवति ।
+- कृतम्—डुकृञ् करणे इति धातुः । लोट् मध्यमपुरुषद्विवचनस्य तमादेशः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययस्य जित्वाद्गुणो न भवति । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- लुभा—सुपां सुलुक्-(पा. सू. ७-१-३९) इति द्विवचनस्याकारादेशः । **NOTE**
+- अवतम्—आव रक्षणे इति धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । तिजिंतनिघातस्वरो भवति ।
+
+### Printed p. 611
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वमे॒तं च॑क्रथुः॒ सिंधु॑षु प्ल॒वमा॑त्म॒न्यंतं॑ प॒क्षिणं॑ तौ॒ग्राय॒  
+> कं ।  
+> येन॑ देव॒त्रा मन॑सा निरू॒हथुः॑ सुपप्त॒नी पे॑तथुः॒ क्षोद॑सो  ॒
+> महः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । एतं । चक्रथुः । सिंधुषु । प्लवं । आत्मन्वंतं । पक्षिणं । तौग्राय । कं ।  
+> येन । देवत्रा । मनसा । निःऊहथुः । सुपप्तनि । पेतथुः । क्षोदसः । महः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां सिंधुषु समुद्रोदकेष्टेतं प्लवं प्रसिद्धं
+> प्लुतिसाधनं प्लवं नावमात्मनंतं दार्ढ्यवंतं पक्षीणं पक्षवद्धतिसाधनरथवंतं
+> तौग्राय तुग्रनाम्मो राज्ञः पुत्राय भुज्युनाम्मे राजे कं सुखकरं चक्रथुः ।
+> तौग्रो भुज्यू राजा समुद्रवर्ति ससेनः परचक्रं प्रमथितुं प्रस्थितः । तं
+> प्रतीपबलान्यागत्यापातयन् । स च प्रसादफलकराश्विन् स्तुत्वा स्वात्मानं ररक्षेत्यय.
+> मितिहासो बहुधा पूर्वं प्रपंचितः । यद्वा । कमिति पूरणः । तस्य जलसंचारिरथस्य
+> सहायभूतान्नहूनथादीनकुरतमित्यर्थः । आयमर्थस्तु तमूहथुर्नभिः ।
+> ऋ. १-११६-३ । चतुस्रो नावः । ऋ. १-१८२-६ । त्रिभी रथैः । ऋ. १-११६-४ । इत्यादिमंत्रांतरेषु प्रसिद्धः । येन युष्मद्दत्तेन प्लवेन देवत्रा देवेषु मध्यॆ
+> मनसानुग्रहयुक्तया बुद्ध्या । येन मनसेति वा योज्यं । निरूहथुः निर्गमनं
+> कुरुथः । तथा सुपप्तनि शोभनपतनं यथा भवति सुपतनौ वा युवां महो
+> महतः क्षोहसः । उदकनामैतत् । उदकात्पेतथुः । तदधः पतथ उत्तरीतुं ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, you made in the ocean waters this famous float (प्लवं (*plavaṃ*)), a boat, sturdy (आत्मन्वंतं (*ātmanvaṃtaṃ*)) and winged (पक्षिणं (*pakṣiṇaṃ*)), that is, possessing a chariot as a means of motion like wings, pleasant (कं (*kaṃ*): bringing happiness) for Bhujyu, the king, the son of the king named Tugra." The story: Bhujyu, son of Tugra, a king living by the sea, set out with his army to crush an enemy host; hostile forces came and cast him down; he praised the Aśvins, who give the fruit of favour, and saved himself. This account has been expanded in many ways before (पूर्वं प्रपंचितः (*pūrvaṃ prapaṃcitaḥ*)).
+Alternatively, कं (*kaṃ*) is a filler word (पूरणः (*pūraṇaḥ*)); the meaning is that you made boats, chariots and the like helpers of that water-going chariot. **NOTE** This meaning is known from other mantras: तमूहथुर्नभिः (*tamūhathurnabhiḥ*) (Ṛ. 1-116-3), चतुस्रो नावः (*catusro nāvaḥ*) (Ṛ. 1-182-6), त्रिभी रथैः (*tribhī rathaiḥ*) (Ṛ. 1-116-4).
+"By which float given by you, among the gods (देवत्रा (*devatrā*)), with a mind full of favour, or else *yena manasā* may be construed together, you made your way out (निरूहथुः (*nirūhathuḥ*)). And in such a way that there is a good alighting (सुपप्तनि (*supaptani*)), or you two as good alighters, fell from the great क्षोहसः (*kṣohasaḥ*), which is a name of water: you fell down below it in order to cross over." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अश्विनौ (*(he) aśvinau*)—O Aśvin gods
+- येन (*yena*)—by which float
+- देवत्रा (*devatrā*)—among all the gods (you two alone)
+- मनसा (*manasā*)—with a mind of favour
+- निरूहथुः (*nirūhathuḥ*)—you carried (Bhujyu to the shore)
+- एतं (*etaṃ*)—that famous
+- आत्मन्वंतं (*ātmanvaṃtaṃ*)—endowed with strength
+- दक्षिणं (*dakṣiṇaṃ*)—endowed with a chariot that is a means of motion like wings **NOTE**
+- प्लवं (*plavaṃ*)—the boat
+- सिंधुषु (*siṃdhuṣu*)—in the ocean waters
+- शौग्राय (*śaugrāya*) **NOTE**
+
+### Printed p. 612
+
+—for Bhujyu, the son of one named Tugra
+- कं (*kaṃ*)—so as to bring happiness
+- युवं (*yuvaṃ*)—you two
+- चक्रथुः (*cakrathuḥ*)—made (likewise)
+- सुपप्तनि (*supaptani*)—so that falling into the sea is pleasant (or: you two who are accustomed to falling into the sea)
+- महः क्षोदसः (*mahaḥ kṣodasaḥ*)—from the unfathomable water of the sea (to lift that Bhujyu)
+- पेतथुः (*petathuḥ*)—you plunged (into the water)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, you two alone among all the gods, with a mind of favour toward Bhujyu, son of Tugra, provided for him in the ocean waters a float, strong and furnished with a chariot that helps in going over the earth, so that he might be comfortable; and, in order to lift him up out of the unfathomable water of the ocean, you two, skilled in such daring deeds, plunged into the sea.
+
+##### English translation (H. H. Wilson)
+You constructed a pleasant, substantial, winged bark, borne on the ocean waters for the son of Tugra, by which, with mind devoted to the gods, you bore him up, and, quickly descending (from the sky), you made a path for him across the great waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too the rescue of Bhujyu, spoken of earlier, is the subject. With पूर्वं प्रपंचितः (*pūrvaṃ prapaṃcitaḥ*) Sāyaṇa tells the same story again in this way:
+तौग्रो भुज्यू राजा समुद्रवर्ति ससेनः (*taugro bhujyū rājā samudravarti sasenaḥ*) परचक्रं प्रमथितुं प्रस्थितः । (*paracakraṃ pramathituṃ prasthitaḥ |*)
+प्रतीपबलानि आगत्यापातयन् स च प्रसादफलकराश्विनौ स्तुत्वा स्वात्मानं ररक्ष इत्ययमितिहासः (*pratīpabalāni āgatyāpātayan sa ca prasādaphalakarāśvinau stutvā svātmānaṃ rarakṣa ityayamitihāsaḥ*)
+The enemy armies thrust Bhujyu, who had gone down into the sea to destroy the enemy force, into the sea. Then he prayed to the protecting Aśvin gods, and they saved him with the help of a ship. This matter is told in Ṛ. Saṃ. 1-116-3 and 1-116-4 and in many other places. The matter of Bhujyu was told before; but before it was said that he was afflicted by a storm, while in the present explanation it is said that he was caught in distress by enemies. That is the difference.
+For the word सिंधुषु (*siṃdhuṣu*) the meaning given is समुद्रोदकेषु (*samudrodakeṣu*). The word सिंधु (*siṃdhu*) is read among the names of rivers (Ni. 2-24). सिंधुः स्रवणात् (*siṃdhuḥ sravaṇāt*) (Ni. 5 27): because it flows, the word सिंधु (*siṃdhu*) has the name "river". Because it is in the form of a flow, in some places the meaning "rays" also becomes possible; in that sense this word is also used. For example—
+
 ---
 
-**Progress note:** Done through printed p. 606. pp. 601-606 (batch API)
+**Progress note:** Done through printed p. 612. pp. 607-612 (batch API)
