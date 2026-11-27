@@ -795,6 +795,198 @@ Deity: तावत्सर्व एवार्क इत्युच्य�
 - अर्चंति—अर्च पूजायां धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । तास्यनुदात्तेत्-सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरो अवशिष्यते ।
 - मदिरस्य—मदी हर्षे धातुः । इषि मदि मुदि—(उ. सू. १-५१) इति किरच् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तो भवति । षष्ठीएकवचनांतरूपम् ।
 
+### Printed p. 37
+
+##### Grammar
+
+- पीतये — पा पाने धातुः । स्थागा पापचोभावे (पा. सू. ३-३-९५) इति क्तिन् प्रत्ययः । घुमास्थागा— (पा. सू. ६-४-६६) इति धातोः ईत्वं । व्यत्ययेन आद्युदात्तं भवति । चतुर्थी एकवचनांतरूपं ।
+- विदुः — विद ज्ञाने धातुः । लट् प्रथमपुरुष बहुवचने विदो लटो ना (पा. सू. ३-४-८३) इति जुसादेशः । शपः लुक् । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- वीरस्य — अज गतिक्षेपणयोः धातुः । स्थायितंचि-- (उ. सू. २-१७०) इति रक् प्रत्ययः । अजेर्व्यघ-- (पा. सू. २-४-५६) इति धातोः वी भावः । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- पौंस्या — पुंसः इमानि पौंस्यानि । ष्यञ् प्रत्ययः । ञित्त्वात् आद्युदात्तस्वरो भवति । शेश्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेः लोपः । **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तभु॑जिभि॒स्तम॒भिह्रु॑तेर॒घात्पू॒र्भी र॑क्षता मरुतो॒ यमाव॑त ।  
+> जनं॒ यमु॑ग्रास्तवसो विरप्यनः पा॒थना॒ शंसा॒त्तन॑यस्य  ॒॑
+> पुष्टिषु ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतभुजिभिः । तं । अभिह्रुतेः । अघात् । पूभिः । रक्षत । मरुतः । यं । आवत ।  
+> जनं । यं । उग्राः । तवसः । विरप्सिनः । पाथन । शंसात् । तनयस्य । पुष्टिषु ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं शतभुजिभिः । शतमित्यपरिमितनाम । असंख्यातभोगवद्भिः
+> पूर्भिः पालनैर्जेतव्यैः शत्रूणां नगरैर्वा तं रक्षथ । पालयत । तमित्युक्तं ।
+
+##### Gist of the bhāṣya
+
+"O Maruts, you protect him with the शतभुजिभिः (*śatabhujibhiḥ*) पूर्भिः (*pūrbhiḥ*)." "Hundred" (शतं (*śataṃ*)) here is a name for the unlimited: the forts are those with countless enjoyments; पूर्भिः (*pūrbhiḥ*) means "with protections" or "with enemy cities that are to be conquered". तं रक्षथ (*taṃ rakṣatha*): "you protect him", that is, "him of whom it is said".
+
+### Printed p. 38
+
+> कमित्याह । यं जनमभिह्रुतेरभिभवकारणात्कुटिलस्वभावादघात्पापादवत अरक्षत ।
+> किंच हे उग्रा उद्धूर्णतेजसो हे तवसो बलवंतो वेगवंतो ना हे विरप्पिनः ।
+> महन्नामैतत् । महांतः । रपणीयाः शब्दा रपाः । ते येषां ते रप्पिनः ।
+> विविधा रप्पिनः स्तोतारो येषां ते तथोक्ता हे तादृशाः यूयं यं च
+> जनं पाथन पाथ रक्षथ । कस्मान्निमित्तादिति उच्यते । तनयस्य । उपलक्षणमेतत् ।
+> पुत्रादीनां पुष्टिसु निमित्तभूतेषु शंसादभिशंसनात् । यमेवं कुरुथ तं रक्षतेति
+> शेषः । पापक्षयाद्यनिष्पपरिहारेण पुत्रादिपोषरूपेष्टप्राप्ता च रक्षतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: whom? The man whom you protect from अभिह्रुतेः (*abhihruteḥ*), a cause of overpowering, from crooked-natured sin (अघात् (*aghāt*)). Further, O fierce ones (उग्रा (*ugrā*), of surging splendour), तवसः (*tavasaḥ*), mighty and swift; विरप्पिनः (*virappinaḥ*): this (रप्पिनः (*rappinaḥ*)) is a name for "great", the great ones. Words worth uttering are रपाः (*rapāḥ*); those who have them are रप्पिनः (*rappinaḥ*); those who have various रप्पिनः (*rappinaḥ*), that is, praisers, are so called. Such as you, whomever you protect (पाथन (*pāthana*) = पाथ रक्षथ (*pātha rakṣatha*)). On what ground is it said? तनयस्य (*tanayasya*) is only illustrative: because of calumny (शंसात् (*śaṃsāt*)) in the matters that cause the nourishment of sons and the rest. "Him who does so, protect" is the remainder. The meaning: protect him by averting what is undesired, such as the destruction through sin, and in the attainment of the desired, in the form of nourishment of sons and others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यं (*yaṃ*)—whom (which man)
+- अभिह्रुतेः (*abhihruteḥ*)—from what causes overpowering (of crooked nature)
+- अघात् (*aghāt*)—from sin
+- आवत (*āvata*)—you protect
+- उग्राः (*ugrāḥ*)—fierce ones
+- तवसः (*tavasaḥ*)—mighty ones
+- विरप्पिनः (*virappinaḥ*)—endowed with greatness (having various praisers)
+- यं जनं (*yaṃ janaṃ*)—whichever man
+- तनयस्य (*tanayasya*)—of a son (of sons and the rest)
+- पुष्टिषु (*puṣṭiṣu*)—in the matter of nourishments
+- शंसात् (*śaṃsāt*)—from calumny
+- पाथन (*pāthana*)—you protect
+- तं (*taṃ*)—that man
+- शतभुजिभिः (*śatabhujibhiḥ*)—endowed with countless enjoyments
+- पूर्भिः (*pūrbhiḥ*)—with protective acts, or with enemy cities to be conquered
+- रक्षत (*rakṣata*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, fierce, exceedingly mighty, and praised by various praisers: some you protect from sin that brings about overpowering; others you protect by the nourishment of sons and the rest; for all of them, having conquered the enemy cities that give unlimited enjoyment, be their protectors.
+
+##### English translation (H. H. Wilson)
+Maruts, gratify, with infinite and complete enjoyments, him, whom you protect from degrading sin: that man whom, fierce and mighty, and glorified (as you are), you defend from calumny, by (providing for) the nourishment of his descendants.
+
+##### विशेषविषयगळु (Special Topics)
+
+अभिह्रुतेः (*abhihruteḥ*)—अभिभवकारणात्कुटिलस्वभावात् (*abhibhavakāraṇātkuṭilasvabhāvāt*): from an evil nature that brings about harm. This word is formed from the root ह्रु (*hru*). The root ह्रु (*hru*) is not stated in the Dhātupāṭha. When explaining the word ह्रुणाति (*hruṇāti*), formed from this root, in the 12th Ṛk of this same sūkta, the commentator explained its meaning through another root with the same meaning, ह्वरति (*hvarati*).
+
+### Printed p. 39
+
+In the Ṛk
+
+स नस्त्रासते दुरितादभिह्रुतः शंसादघावभिह्रुतः (*sa nastrāsate duritādabhihrutaḥ śaṃsādaghāvabhihrutaḥ*) (Ṛ. Saṃ. 1-128-5)
+
+for the word अभिह्रुतः (*abhihrutaḥ*) the commentator explained: आभिमुख्येन पापैः ह्रियमाणान् नोऽस्मान् दुरितात्पापात्रासते त्रायते (*ābhimukhyena pāpaiḥ hriyamāṇān no 'smān duritātpāpātrāsate trāyate*). That is: he protects us from sin, from assault, from evil speech and from violence. (He protects us from evil, from assault, from evil-speaking, from assault).
+
+In the Ṛk
+
+विश्वाद्रिरिक्षोरुत ना निनित्सोरभिह्रुतामसि हि देव विष्पट् (*viśvādririkṣoruta nā ninitsorabhihrutāmasi hi deva viṣpaṭ*) (Ṛ. Saṃ. 1-189-6)
+
+for the word अभिह्रुतां (*abhihrutāṃ*) Sāyaṇa explained: अभिह्रुतामाभिमुख्येन कुटिलं कुर्वतां द्विषां (*abhihrutāmābhimukhyena kuṭilaṃ kurvatāṃ dviṣāṃ*)—"of the enemies who especially cause us trouble". Besides, the word विह्रुत (*vihruta*), formed with the prefix वि (*vi*) added to this root, occurs only in the two Ṛks
+
+संधाता संधिं मघवा पुरूवसुरिष्कर्ता विह्रुतं पुनः (*saṃdhātā saṃdhiṃ maghavā purūvasuriṣkartā vihrutaṃ punaḥ*) (Ṛ. Saṃ. 8-1-12)
+
+क्षमा रपो मरुत आतुरस्य न इष्कर्ता विह्रुतं पुनः (*kṣamā rapo maruta āturasya na iṣkartā vihrutaṃ punaḥ*) (Ṛ. Saṃ. 8-20-26)
+
+The word suggests the meaning "(already) injured". Further, in
+
+ता हि क्षत्रमविह्रुतं सम्यगसुर्य १ माशाते (*tā hi kṣatramavihrutaṃ samyagasurya 1 māśāte*) (Ṛ. Saṃ. 5-66-2)
+
+विभ्राड् बृहत्पिबतु सोम्यं मध्वायुर्दधद्यज्ञ पतावविह्रुतं (*vibhrāḍ bṛhatpibatu somyaṃ madhvāyurdadhadyajña patāvavihrutaṃ*) (Ṛ. Saṃ. 10-170-1)
+
+the word अविह्रुतं (*avihrutaṃ*) indicates negation; that is, it says that निह्रुत (*nihruta*) has the sense of obstruction. The meaning: free of any kind of trouble or injury.
+
+पूर्भिः (*pūrbhiḥ*)—पालनैर्जेतवैः शत्रुणां नगरैर्वा (*pālanairjetavaiḥ śatruṇāṃ nagarairvā*): with protections, or with the enemy cities (that you conquer and give).
+
+तवसः (*tavasaḥ*)—बलवंतो वेगवंतो वा (*balavaṃto vegavaṃto vā*): possessing strength, or swift of motion. The word तवसः (*tavasaḥ*) is read among the twenty-five names of strength beginning with महत् ब्रह्मः (*mahat brahmaḥ*) (Ni. 3-13).
+
+विरप्यनः (*virapyanaḥ*)—महन्नामैतत् । महांतः । रपणीयाः शब्दा रपाः । ते येषां ते रप्यनः । विविधा रप्यनः स्तोतारो येषां ते (*mahannāmaitat | mahāṃtaḥ | rapaṇīyāḥ śabdā rapāḥ | te yeṣāṃ te rapyanaḥ | vividhā rapyanaḥ stotāro yeṣāṃ te*). The word विरप्य (*virapya*) is read among the twenty-five names of "great" beginning with महत् ब्रथ्नः (*mahat brathnaḥ*)
+
+### Printed p. 40
+
+(Ni. 3-13); so विरप्सिनः (*virapsinaḥ*) means the great, the excellent. Moreover, explaining the parts of the word, the commentator says: distinctly uttered words are called रपाः (*rapāḥ*); hymns that contain those words, or the praisers, are called रप्सिनः (*rapsinaḥ*); those (the Maruts) who are praised by such manifold hymns (or by praisers) are called विरप्सिनः (*virapsinaḥ*).
+
+##### Grammar
+
+- शतभुजिभिः — शतं भुजयः येषां ते, तैः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरं भवति ।
+- अभिह्रुतेः — तादौ च निति (पा. सू. ६-२-५०) इति गतेः (अभि) प्रकृतिस्वरं भवति । पंचमी एकवचनांतरूपं ।
+- पूर्भिः — स्य पालनपूरणयोः धातुः । क्विप् च इति क्विप् प्रत्ययः । उदोष्य पूर्वस्य (पा. सू. ७-१-१०२) इति उत् । रपरत्वं भवति । भिस् परे हलि च इति उपधादीर्घः । **NOTE**
+- रक्षत — रक्ष पालने धातुः । लोट् मध्यमपुरुष बहुवचनांतरूपं । तिजंतनिघातस्वरं भवति ।
+- आवत — अव रक्षणे धातुः । लज् मध्यमपुरुष बहुवचनांतरूपं । यद्वृत्तान्वितं (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । तास्यनुदात्तेत्—सूत्रेण लसार्वधातुकानुदात्तत्वात् आद्युदात्तं भवति ।
+- तवसः — छांदसत्वेन मतुपः लोपो भवति । आमंत्रितस्य च—(पा. सू. ८-१-१९) इति निघातस्वरं भवति ।
+- विरिष्यिनः — रस व्यक्तायां वाचि धातुः । उणादिषु बहुलवचनसामर्थ्यात् विपूर्वस्य अस्य शक् प्रत्ययः । विविधं शब्दं रसंति इति विरप्याः—स्तोतारः ते येषां संति इति विरप्पिनः । मत्त्वर्थे इनि प्रत्ययः । आमंत्रितनिघातस्वरं भवति ।
+- पाथन — पा रक्षणे धातुः । अदादौ लोट् प्रथमपुरुष बहुवचनस्य तप्तनप्तनथनाश्च (पा. सू. ७-१-४५) इति थनादेशः । यद्योगत्वात् निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरेण मध्योदात्तस्वरो भवति ।
+- शंसात् — शंसु स्तुतौ धातुः । भावार्थे घञ् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति ।
+
+### Printed p. 41
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑नि भ॒द्रा म॑रुतो॒ रथे॑षु वो मिथ॒स्पृध्ये॑व तवि॒षाण्याहि॑ता ।  
+> अंसे॒ष्वा वः॒ प्रप॑थेषु खा॒दयोऽक्पो॑ नश्च॒क्रा स॒मया॒ वि  ॑
+> वावृते ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वानि । भद्रा । मरुतः । रथेषु । वः । मिथस्पृध्या इव । तविषाणि । आहिता ।  
+> अंसेषु । आ । वः । प्रपथेषु । खादयः । अक्षः । वः । चक्रा । समया । वि ।  
+> ववृते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो रथेषु युष्मत्संबंधिरथेषु रंहणसाधनेषु विश्वानि भद्रा
+> सर्वाणि कल्याणानि भोगयोग्यानि द्रव्याण्यस्मभ्यं प्रदेयानि फलानि वाहितानि ।
+> तथा वोंसेष्टा तदुपलक्षितभुजेष्टपि । आकारोऽप्यर्थे । मिथस्पृध्येव बलाधिक्यात्परस्परस्पर्धाविषयाणि तविषाणि बलानि अंसेषूक्तलक्षणान्यायुधानि वाहितानि ।
+> किंच वः प्रपथेषु । प्रगताः पंथानो येषु विश्रामस्थानेषु तानि प्रपथानि । तेषु
+> खादयः खाद्यानि भक्ष्याण्याहितानि । यद्वा । प्रगतः पंथा यैस्तेषु पादाग्रेषुखादयः स्थिरा आभरणविशेषा आहिताः । किंचाक्षो वो युष्मत्संबंधी रथ्योऽक्षश्चक्रा तत्रोपनिबद्धानि चक्राणि समया समीपे तेषां परिसरे वि ववृते । विशेषेण
+> वर्तते । न कदाचिदपि चक्रेषु संलग्नो भवतीत्यर्थः । यस्मादेवं देवयजनगमनसाधनानि संति तस्माच्छीघ्रमागच्छध्वमित्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, in your cars" (वो रथेषु (*vo ratheṣu*)), in the cars that belong to you, the instruments of swift going, "all good things" (विश्वानि भद्रा (*viśvāni bhadrā*)): all auspicious things, substances fit for enjoyment, or fruits to be given to us, "have been placed" (आहिता (*āhitā*)). Likewise अंसेषु (*aṃseṣu*), on your shoulders, that is, on the arms indicated by them; the particle आ (*ā*) has the sense of "also". "As if vying with one another" (मिथस्पृध्येव (*mithaspṛdhyeva*)): from excess of strength, the तविषाणि (*taviṣāṇi*), the strengths, which are matters of mutual rivalry, namely the weapons of the kind stated, are placed on the shoulders. Further, वः प्रपथेषु (*vaḥ prapatheṣu*): प्रपथानि (*prapathāni*) are resting places on which the paths go forward; in them खादयः (*khādayaḥ*), edibles and foods, have been placed. Or else: प्रपथेषु (*prapatheṣu*) means "at the tips of the feet", where the paths go forward, and खादयः (*khādayaḥ*) are firm special ornaments, placed there. Further, अक्षः (*akṣaḥ*), your chariot's axle, and the wheels fixed on it (चक्रा (*cakrā*)): समया (*samayā*), near them, in their vicinity, वि ववृते (*vi vavṛte*), it turns specially; the meaning is that it never becomes stuck to the wheels. His purport: since such means for going to the place of divine sacrifice are ready, therefore come quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- रथेषु (*ratheṣu*)—in the cars
+- विश्वानि भद्रा (*viśvāni bhadrā*)—all things that serve enjoyment, or things to be given to us
+- आ हिता (*ā hitā*)—have been placed
+- अंसेषु आ (*aṃseṣu ā*)—on your shoulders too
+- मिथस्पृध्या इव (*mithaspṛdhyā iva*)—as if from mutual rivalry
+- तविषाणि (*taviṣāṇi*)—strengths (weapons that display strength)
+- वः (*vaḥ*)—your
+- प्रपथेषु (*prapatheṣu*)—in the resting places on the road
+- खादयः (*khādayaḥ*)—edible things (have been placed)
+
+### Printed p. 42
+
+(Continuing the list:) [or प्रपथेषु (*prapatheṣu*)—at the tips of the feet; खादयः (*khādayaḥ*)—firm special ornaments (have been worn)]
+
+- किंच (*kiṃca*)—and further
+- वः अक्षः (*vaḥ akṣaḥ*)—your (chariot's) axle
+- चक्रा (*cakrā*)—of the wheels (fixed to it)
+- समया (*samayā*)—near
+- वि ववृते (*vi vavṛte*)—are specially present
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, in your cars all things that serve enjoyment, or things to be given to us, are made ready; the weapons that are the means of our protection are carried on your shoulders; in the resting houses on your road, edibles are made ready (the special ornaments that should be on the tips of your feet are also worn); the wheels of your car are fitted correctly to the axle of the car. (Thus, when everything is ready for your journey, set out quickly for our sacrificial hall.)
+
+##### English translation (H. H. Wilson)
+Maruts, all good things are in your cars : on your shoulders abides emulous strength: at your resting-places on the road refreshments (are ready): the axle of your (chariot) wheels holds them firmly together.
+
+##### विशेषविषयगळु (Special Topics)
+
+विश्वानि भद्रा महतो रथेषु वः (*viśvāni bhadrā mahato ratheṣu vaḥ*)—In this Ṛk the seer, desiring the coming of the Maruts, describes everything as ready for their coming. O Maruts, in your car all excellent or choice things have been made ready. These things are fit for enjoyment; the main purport of this sentence is that these substances have been prepared and placed in your car in order to be given to us, who praise.
+
+रथेषु (*ratheṣu*)—Yāska in his Nirukta says of the word रथ (*ratha*): रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा रपतेर्वा रसतेर्वा (*ratho raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā rapatervā rasatervā*) (Ni. 9-11). That is, it may be formed from the root रंह् (*raṃh*) denoting the action of going, or from the root स्थिरति (*sthirati*) meaning "be firm". Because this car is always going (moving about), it is called रथ (*ratha*). Or else, the warrior who sits in it remains steady: whereas the body shakes when one sits on horses and the like, one can sit steadily without shaking in a car, so it is called रथ (*ratha*). Or else, because one sits in this car and moves about happily, it is called रथ (*ratha*); thus he has explained the parts of the word. **NOTE**
+
+मिथस्पृधैव (*mithaspṛdhaiva*)—बलाधिक्यात्परस्परस्पर्धाविषयाणि (*balādhikyātparasparaspardhāviṣayāṇi*): from excess of strength, touching one another (striking against) and rubbing, clashing against each other, metal and the like **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
+**Progress note:** Done through printed p. 42. pp. 37-42 (batch API)
