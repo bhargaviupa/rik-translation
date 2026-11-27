@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 501 (1–75, 76–145, 145–213, 215–291, 292–342, 343–385, 387–430, 431–463, 464–503)
-- **Findings:** 1294 — applied 1063, kept/not applied 231 (English kept: misprints and doubts settled by rule; see part 5); edits ok 1072, failed 0
-- **Reader tokens (batches so far):** 2521k; per page 5.0k
-- **Last commit:** 9c2e7161
+- **Pages read:** 534 (1–75, 76–145, 145–213, 215–291, 292–342, 343–385, 387–430, 431–463, 464–503, 505–537)
+- **Findings:** 1394 — applied 1153, kept/not applied 241 (English kept: misprints and doubts settled by rule; see part 5); edits ok 1162, failed 0
+- **Reader tokens (batches so far):** 2762k; per page 5.2k
+- **Last commit:** ebf8eac1
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
@@ -20,15 +20,16 @@
 | 7 | 387–430 | 129 | 105 | 116 / 0 | 24 | 265k | cc1e92c6 | marks q197-q346: 150 seen, 126 removed, 24 kept |
 | 8 | 431–463 | 112 | 99 | 99 / 0 | 13 | 250k | 36149988 | marks q227-q376: 150 seen, 137 removed, 13 kept |
 | 9 | 464–503 | 135 | 120 | 119 / 0 | 15 | 310k | 9c2e7161 | marks q246-q395: 150 seen, 135 removed, 15 kept |
+| 10 | 505–537 | 100 | 90 | 90 / 0 | 10 | 241k | ebf8eac1 | marks q261-q410: 150 seen, 140 removed, 11 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| Q2 | 384 | 231 | 615 |
-| Q1 | 521 | 0 | 521 |
-| S3 | 158 | 0 | 158 |
+| Q2 | 410 | 241 | 651 |
+| Q1 | 573 | 0 | 573 |
+| S3 | 170 | 0 | 170 |
 
-By reader: R1 1294
+By reader: R1 1394
 
 ## 4. Open items (not findings)
 - **other** (pages 232): Kannada p.232 prints Pā. 3-685 (īṣākṣādīnāṃ chandasi prakṛtibhāvo vaktavyaḥ); applied as printed in the English (was Pā. Sū. 6-1-[128] vārttika)
@@ -39,7 +40,7 @@ By reader: R1 1294
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 67 Kannada misprints where the English is kept (`kn_misprints.tsv`); 166 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 67 Kannada misprints where the English is kept (`kn_misprints.tsv`); 176 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol7/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
