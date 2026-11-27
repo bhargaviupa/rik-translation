@@ -5349,6 +5349,138 @@ In these contexts there is always a difference between the meaning given by the 
 
 In this Ṛk the word मान्यस्य (*mānyasya*) is an epithet of Agastya, yet Sāyaṇa has explained वरप्रदानादिना मान्यस्य (*varapradānādinā mānyasya*), that is, "worthy of worship". The scholar Max Müller has said thus.
 
+### Printed p. 217
+"I translate मान्य (*mānya*), the son of मान (*māna*), because, the poet so called in I. 189-8 is in all probability, the same as our मांदार्य मान्य (*māṃdārya mānya*). But it may also be Manya the descendant of मांदारि (*māṃdāri*). [S. B. E. XXXII. P. 206]."
+
+Having said this, he explains the word मानासः (*mānāsaḥ*) in the present Ṛk also, and states his opinion thus: "The मानासः (*mānāsaḥ*) are the people of मान्य (*mānya*) and there is no necessity for taking मान (*māna*) with Grassmann as a general name for poet. [S. B. E. XXXII. P. 291]."
+
+If, as Sāyaṇa explains, the word मानासः (*mānāsaḥ*) is made an adjective of उस्राः (*usrāḥ*), the sense is that, by Indra's favour, the rays, as soon as Uṣas appears, make living beings busy in their respective activities. There is no reason to ask what connection the sun's rays have with Indra. It is well known that Indra is the presiding deity of the eastern quarter. Moreover, in the Bṛhaddevatā Indra is counted as one of the twelve Ādityas:
+
+भगत्क्रिवायमांशश्च मित्रो वरुण एव च । धाता चैव विधाता च विवस्वांश्च महाद्व्यतिः ॥ कृष्णा पूषा शथ्यवॆंद्रो द्वादशो विष्णु रुच्यते । (*bhagatkrivāyamāṃśaśca mitro varuṇa eva ca | dhātā caiva vidhātā ca vivasvāṃśca mahādvyatiḥ ‖ kṛṣṇā pūṣā śathyavèṃdro dvādaśo viṣṇu rucyate |*) (Bṛ. De. 5-146-147).
+
+Further, the Śatapatha Brāhmaṇa states the identity of Indra with the blazing Āditya: तद्वा एष एनेंद्रः । य एष तपति (*tadvā eṣa eneṃdraḥ | ya eṣa tapati*) (Śa. Brā. 1-6-4-18). And in describing Indra's greatness it is said: युंजंति ब्रध्नमरुषं चरंतं परि तस्थुषः । रोचंते रोचना दिवि । (*yuṃjaṃti bradhnamaruṣaṃ caraṃtaṃ pari tasthuṣaḥ | rocaṃte rocanā divi |*) (Ṛ. Saṃ. 1-6-1). Here Indra is praised as being himself in the forms of all the deities, Agni, Vāyu, Āditya and the rest, and accomplishing the business of all. Therefore the sense is that both the appearance of Uṣas and, after it, the shining of the sun's rays are possible only by Indra's favour.
+
+The words तश्वतीनां व्युष्टिषु चेतॆयंते—नित्यानां बह्नीनामुषसां प्रकाशेषु सत्सु प्राणिनां स्वस्वव्यवहाराय प्रज्ञापयंति । (*taśvatīnāṃ vyuṣṭiṣu cetèyaṃte—nityānāṃ bahnīnāmuṣasāṃ prakāśeṣu satsu prāṇināṃ svasvavyavahārāya prajñāpayaṃti |*) are explained thus: when the dawns, which are many and eternal, shine, the rays make living beings aware, each for his own business. Taking the difference of the several days as the cause, the dawns too are said to be many. When the shining of each dawn takes place, the rays, favoured by Indra, produce in each being the vitality suited to the activity he pursues.
+
+### Printed p. 218
+Having explained the sense in this way, the commentary describes the rising of Uṣas: ऐंद्रां दिशि तेनैवानुगृहीताः उषसो रत्मयः उद्दच्छंतीति प्रसिद्धं । (*aiṃdrāṃ diśi tenaivānugṛhītāḥ uṣaso ratmayaḥ uddacchaṃtīti prasiddhaṃ |*)—that is, in the eastern quarter the rays of Uṣas, favoured by Indra, rise. And as soon as Uṣas has risen, these rays produce in beings the power of obtaining knowledge suited to their respective activities.
+
+The beginningless Uṣas rises every day and wakes the world according to her rule. This idea is praised in many places:
+
+पुराणी देवि युवतिः पुरंधिरनु व्रतं चरसि विश्ववारे । (*purāṇī devi yuvatiḥ puraṃdhiranu vrataṃ carasi viśvavāre |*) (Ṛ. Saṃ. 3-81-1).
+
+ईयुषीणामुपमा शश्वतीनां विभातीनां प्रथमोषा व्यश्वैत् । (*īyuṣīṇāmupamā śaśvatīnāṃ vibhātīnāṃ prathamoṣā vyaśvait |*) (Ṛ. Saṃ. 1-113-15).
+
+Uṣas, beginningless and eternal, is praised as radiant and as the means of light. And further:
+
+वाजिनीवती सूरस्य योषा चित्रामघा राय ईशे वसूनां । (*vājinīvatī sūrasya yoṣā citrāmaghā rāya īśe vasūnāṃ |*) (Ṛ. Saṃ. 7-75-5).
+
+In such Ṛks the relation of husband and wife between Indra, who is of the nature of the Āditya, and Uṣas is also described. The sense is that, as soon as such an Uṣas appears, the sun's rays spread, rouse all the living beings that lie as if dead, and give them vitality.
+
+व्युंषा अवः पथ्याजनानां पंच क्षितीर्मानुषीर्बोधयंती । (*vyuṃṣā avaḥ pathyājanānāṃ paṃca kṣitīrmānuṣīrbodhayaṃtī |*) (Ṛ. Saṃ. 7-79-1).
+
+In this and many other places the benefit that comes to the world from the goddess Uṣas is described. The purport of the present Ṛk is that all this benefit is possible only through the favour of Indra, the lord of the whole world. For that very reason it is said शवसा येन चितयंते (*śavasā yena citayaṃte*).
+
+वृषभ (*vṛṣabha*)—"one who rains": Indra is addressed by the word वृषभ (*vṛṣabha*) as the one who pours down rain. Further, Indra is described as उग्रः (*ugraḥ*)—full of overwhelming strength; as सहोदाः (*sahodāḥ*)—सहः (*sahaḥ*) is the well-known name for the power of overcoming others, so he is the giver of that power of overcoming (the ability to put others down); and as स्थविरः (*sthaviraḥ*)—ancient, one who has existed for a long time.
+
+### Printed p. 219
+सः (*saḥ*)—such an Indra, filled with greatness of this kind, together with the उग्रेभिः (*ugrebhiḥ*) Maruts, the deities of fierce power, श्रवो धाः (*śravo dhāḥ*): may he grant us the food that is renowned everywhere and needed by all.
+
+सहोदाः पराभिभवसामर्थ्यं सहः । तस्य दाता (*sahodāḥ parābhibhavasāmarthyaṃ sahaḥ | tasya dātā*): the word सहः (*sahaḥ*) is listed among the names of strength; but here सहः (*sahaḥ*) is explained as the power of putting others down, and Indra is described as the one who bestows it.
+
+वृषभ (*vṛṣabha*)—Sāyaṇa explains it as "one who rains". The Nirukta authors say: प्रजां वर्षतीति वा अतिबृहतिरेत इति वा, तत् वृषकर्मा, वर्षणात् वृषभः (*prajāṃ varṣatīti vā atibṛhatireta iti vā, tat vṛṣakarmā, varṣaṇāt vṛṣabhaḥ*). Durgācārya explains that the word वृषभ (*vṛṣabha*) is used either because he pours out semen, the cause of the birth of offspring, प्रजोत्पत्तिकारणं रेतस्सिंचति (*prajotpattikāraṇaṃ retassiṃcati*); or because he greatly exerts his own body for the pouring of semen, रेतस्सेकुमतिशयेनात्मानमसावुद्यच्छति (*retassekumatiśayenātmānamasāvudyacchati*).
+
+मरुत्वा इंद्र वृषभो रणाय पिजा सोम मनुष्वधं मदाय । आ सिच्चस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानां ॥ (*marutvā iṃdra vṛṣabho raṇāya pijā soma manuṣvadhaṃ madāya | ā siccasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānāṃ ‖*) (Ṛ. Saṃ. 3-47-1). Here the meaning of वृषभ (*vṛṣabha*) is explained as व्यसभः वर्षितुरपां (*vyasabhaḥ varṣiturapāṃ*).**NOTE**
+
+प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचंते । वैश्वानरो दस्युमग्निर्जघन्वा अधूनोत्काष्ठा अव तंबरं भेत् ॥ (*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacaṃte | vaiśvānaro dasyumagnirjaghanvā adhūnotkāṣṭhā ava taṃbaraṃ bhet ‖*) (Ṛ. Saṃ. 1-59-6). In this Ṛk too the meaning is explained as वृषभस्य वर्षितुरपां (*vṛṣabhasya varṣiturapāṃ*).
+
+##### Grammar
+
+- मानासः—मन ज्ञाने इति धातुः । बहुलग्रहणात् कर्तरि घञ् प्रत्ययः । आत उपधायाः (पा. सू. ७-२-११६) इति आदिवृद्धिः । ज्ञातात् आद्युदात्तस्वरः भवति । जस् परे आज्जसेरसुक् इति तस्य असुक् आगमः ।**NOTE**
+- चितयंते—चिती संज्ञाने इति धातुः । हेतुमति च इति णिच् । संज्ञापूर्वको विधिरनित्यः इति वचनात् लघोपधगुणः न भवति । णिजंतात् लट् प्रथमपुरुषबहुवचनांतरूपम् । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधः भवति तस्मात् णिच्स्वरः अवशिष्यते ।
+
+### Printed p. 220
+- व्युष्टिषु—वश कांतौ इति धातुः । भावार्थे क्तिन् प्रत्ययः । ग्रहिज्यावयि—(पा. सू. ६-१-१६) इति संप्रसारणं पूर्वरूपं च । व्रश्चभृस्थ—इति शकारस्य षत्वम् । तादौ च निति (पा. सू. ६-२-५०) इति गतेः (वि) उदात्तस्वरः भवति । उदात्तस्य यणादेशः आगत्य तत्परे अनुदात्ते आगते उदात्तस्वरितयोर्यणः—(पा. सू. ८-२-४) इति तस्य स्वरितस्वरः भवति ।
+- वृषभ—वृषु सेचने इति धातुः । ऋषिवृषिभ्यां कित् (उ. सू. ४०३) इति अभच् प्रत्ययः । तस्य कित्वातिदेशात् लघूपधगुणः न भवति । संबुद्धौ आमंत्रितस्य च (पा सू. ८-१-१९) इति निघातस्वरः भवति ।
+- धाः—डुधाञ् धारणपोषणयोः इति धातुः । छांदसत्वात् लोडर्थे लुज् । सिप् परे गातिस्थाघु—(पा, सू. २-४-७७) इति सिचो लुक् । छांदसत्वात् अडागमः न भवति । तिजंतनिघातस्वरः भवति ।
+- उग्रेभिः—उच समवाये इति धातुः । ऋज्रेंद्र—(उ. सू. १८६) इति रगंतत्वेन निपातितः । भिसि परे ऐस्भावः विकल्पितः तस्मात् एत्त्वम् ।
+- स्थविरः—ष्ठा गतिनिवृत्तौ इति धातुः । अजिरशिशिर-(उ. सू. १-५३) इति किरच् प्रत्ययांतत्वेन निपातितः ।
+- सहोदाः—डुदाञ् दाने इति धातुः । सहः बलं ददातीति सहोदाः क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरः भवति । ॥ ५ ॥
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं पा॑हींद्र॒ सही॑यसो॒ नृन्भवा॑ म॒रुद्भि॒रव॑यातहेळाः ।  
+> सु॒प्र॒के॒तेभिः॑ सास॒हिर्दधा॑नो वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥  
+> त्वं । पाहि । इंद्र । सहीयसः । नृन् । भव । मरुत्भिः । अवयातहेळाः ।  
+> सु॒प्र॒के॒तेभिः॑ । सस॒हिः । दधा॑नः । वि॒द्याम । इ॒षं । वृ॒जनं॑ । जी॒रदा॑नुं ॥ ६ ॥
+
+### Printed p. 221
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पाहि ! रक्ष । कान् । सहीयसो नृन् सहस्वितमांस्त्वदनुग्रहेणातिप्रवृद्धबलान्नेत्स्यानुष्यानस्मान् मरुतो वा । किंच मरुद्भिः साकमस्मास्ववयातहेळा भव । अपगतमन्युर्भव । मरुत्सु वा तथा भव । किंच सुप्रकेतेभिः
+> शोभनप्रज्ञानैर्मरुद्धिः सह सासहिः शत्कृणामभिभविता संदधानोऽस्मदभिमतस्य
+> धारयिता भवेति शेषः । शिष्टो व्याख्यातः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, protect." Whom? सहीयसो नृन् (*sahīyaso nṛn*): the men, exceedingly strong, whose strength has greatly increased through your favour, that is, either us, the men who are leaders, or the Maruts. Further, be अवयातहेळाः (*avayātaheḷāḥ*), free from wrath, together with the Maruts towards us; or be so towards the Maruts. Further, together with the Maruts, who are of good understanding (सुप्रकेतेभिः (*supraketebhiḥ*)), be सासहिः (*sāsahiḥ*), the overcomer of enemies, and दधानः (*dadhānaḥ*), the upholder of what we desire; "be" is to be supplied. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सहीयसः (*sahīyasaḥ*)—(by your favour) exceedingly strong
+- नृन् (*nṛn*)—us men, or the Maruts who are leaders
+- पाहि (*pāhi*)—protect
+- किंच (*kiṃca*)—and
+- मरुद्भिः (*marudbhiḥ*)—united with the Maruts
+- अवयातहेळाः (*avayātaheḷāḥ*)—one without anger (towards us)
+- मरुद्भिः (*marudbhiḥ*)—towards the Maruts
+- अवयातहेळाः (*avayātaheḷāḥ*)—free from anger
+- भव (*bhava*)—be
+- सुप्रकेतेभिः (*supraketebhiḥ*)—together with the Maruts endowed with auspicious knowledge
+- सासहिः (*sāsahiḥ*)—overcoming (enemies)
+- दधानः (भव) (*dadhānaḥ (bhava)*)—be the one who holds (grants) what is desired by us
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (we too, by your favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your favour protect us, who are very strong; accompanied by the Maruts, give up your anger against us; united with the Maruts, who are good knowers, overcome our enemies, and grant us food, strength and long life.
+
+##### English translation (H. H. Wilson)
+Do you, Indra, cherish the vigorous leaders (of the rains), be free from displeasure against the Maruts: overcoming (our) enemies along with the intelligent (Muruts), support us (so that) we may obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहीयसो र्नृ (*sahīyaso rnṛ*)—here Indra is addressed. The word सहः (*sahaḥ*) is listed among the names of strength by the Nirukta author (Ni. 3-9). From this, सहस्वितर्मा त्वदनुग्रहेण अतिप्रवृद्धबर्ला (*sahasvitarmā tvadanugraheṇa atipravṛddhabarlā*)**NOTE**: the prayer is that Indra be the protector of us, the sacrificers, who have strength greatly increased by Indra's favour.
+
+### Printed p. 222
+For the word नृन् (*nṛn*) Sāyaṇa gives two meanings: नेत्यन् मनुष्यानस्मान् मरुतो वा (*netyan manuṣyānasmān maruto vā*)—us, the men who are leaders, or the Maruts.**NOTE** The adjective सहीयसः (*sahīyasaḥ*), "exceedingly strong", fits both meanings. If the seer speaks of himself and his family, the sense is that by Indra's favour a mighty strength came to them. Or, if it is an adjective of मरुतः (*marutaḥ*), the natural power of the Maruts is described. The natural power of the Maruts, which belongs to them as a host, and the heroic deeds accomplished by that power, are indicated by many adjectives such as युज्येभिः पौंस्येभिः (*yujyebhiḥ pauṃsyebhiḥ*).
+
+सप्त सप्त हि मरुतो गणस्तस्मान्मारुतः सप्तकपालः । (*sapta sapta hi maruto gaṇastasmānmārutaḥ saptakapālaḥ |*) (Śa. Brā. 2-5-1-13).
+
+सप्त सप्त हि मारुतो गणः सर्वमेवैतेन रथं प्रीणाति । (*sapta sapta hi māruto gaṇaḥ sarvamevaitena rathaṃ prīṇāti |*) (Śa. Brā. 5-4-3-17).
+
+From such sentences it is understood that the Maruts always keep in troops, and that in such a troop a certain vitality and strength is natural. Therefore the adjective सहीयसः (*sahīyasaḥ*) is fitting in the present Ṛk.
+
+न्यन् (*nyan*)**NOTE** is also explained as the Maruts, who are leaders and who are of the nature of subjects; the Maruts are known as the subjects of the gods.
+
+स एतामैंद्रीं मरुत्वतीमज्ञपत् । क्षत्रं वा इंद्रो ः शो मरुतः क्षत्रं नै विशो निषेद्धा ॥ (*sa etāmaiṃdrīṃ marutvatīmajñapat | kṣatraṃ vā iṃdro ḥ śo marutaḥ kṣatraṃ nai viśo niṣeddhā ‖*) (Śa. Brā. 2-5-2-27).
+
+This meaning is shown in such sentences. Therefore it is proper to give the other meaning, मरुतः (*marutaḥ*), for the word नृन् (*nṛn*). The word नरः (*naraḥ*) can be seen used as an adjective of the Maruts in many places in the Ṛgveda Saṃhitā itself. For example:
+
+चित्रैरंजिभिर्वपुषे व्यंजते वक्षःसु रुक्मा अधि येतिरे शुभे । अंसेष्वेषां नि मिमृक्षुर्यष्टयः साकं जज्ञिरे स्वधया दिवो नरः ॥ (*citrairaṃjibhirvapuṣe vyaṃjate vakṣaḥsu rukmā adhi yetire śubhe | aṃseṣveṣāṃ ni mimṛkṣuryaṣṭayaḥ sākaṃ jajñire svadhayā divo naraḥ ‖*) (Ṛ. Saṃ. 1-64-4).
+
+विश्ववेदसो रयिभिः समोकसः संमिश्ला सस्तविषीभिर्विरप्यनः । अस्तार इषुं दधिरे गभस्तोरनंतशुष्मा वृषखादयो नरः ॥ (*viśvavedaso rayibhiḥ samokasaḥ saṃmiślā sastaviṣībhirvirapyanaḥ | astāra iṣuṃ dadhire gabhastoranaṃtaśuṣmā vṛṣakhādayo naraḥ ‖*) (Ṛ. Saṃ. 1-64-10)
+
+In these and many other Ṛks the word नरः (*naraḥ*) shows the nature of the Maruts; likewise in the present Ṛk also न्वन् (*nvan*)**NOTE** may mean the Maruts.
+
 ---
 
-**Progress note:** Done through printed p. 216. pp. 211-216 (batch API)
+**Progress note:** Done through printed p. 222. pp. 217-222 (batch API)
