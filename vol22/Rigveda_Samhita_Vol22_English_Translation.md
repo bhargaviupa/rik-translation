@@ -20884,6 +20884,265 @@ This Ṛk प्र वामंधांसि (*pra vāmaṃdhāṃsi*) is to 
 
 O Sūryāvasū, who dwell in one chariot together with Sūryā, your chariot, being asked for our sake, comes to our sacrifice. Or else, of you…
 
+### Printed p. 505
+
+> प्रेरयति गमनाय । कीदृशो रथः । मनोजवा मनोवेगः शतोतिरपरिमितास्मद्विषयरक्षणः । किं कुर्वन् । रजांसि लोकांस्तिरस्कृत्यातिक्रम्येयर्तीति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his gloss of the verse. The chariot is set in motion for going. It is described as swift as the mind, and as having countless protections that guard what concerns us. What does it do? Passing beyond the worlds, it comes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यावसू (*sūryāvasū*)—seated in the chariot together with Sūryā
+- अश्विना (*aśvinā*)—O Aśvins
+- वां (*vāṃ*)—your
+- मनोजवाः (*manojavāḥ*)—possessing the speed of the mind
+- शतोतिः (*śatotiḥ*)—possessing many kinds of protection
+- रथः (*rathaḥ*)—the chariot
+- रजांसि (*rajāṃsi*)—all the worlds
+- तिरः (*tiraḥ*)—crossing over
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- इयानः (*iyānaḥ*)—being entreated
+- प्र इयर्ति (*pra iyarti*)—comes (brings you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, seated in the chariot together with Sūryā, your chariot, swift as the mind and possessing many kinds of protection, crosses all the worlds and comes for us, being entreated. It brings you.
+
+##### English translation
+Your chariot, Ashwins, in which you ride with Surya, hastens towards us at our solicitation, traversing the regions as swift as thought, and laden with a hundred blessings.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं ह॒ यद्वां॑ देव॒या उ॒ अद्रि॑रू॒र्ध्वो विव॑क्ति सोम॒सुद्यु॒वभ्यां॑ ।  
+> आ व॒ल्गू विप्रो॑ ववृतीत ह॒व्यैः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ह । यत् । वां । देवयाः । ऊं । इति । अद्रिः । ऊर्ध्वः । विवक्ति । सोमसुत् ।  
+> युवभ्यां ।  
+> आ । वल्गू इति । विप्रः । ववृतीत । हव्यैः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 506
+
+> यद्यदा वां युवां प्रति देवया देवौ युवां कामयमानः । उ इति पूरणः । अयमद्रिरभिषवग्रावा सोमसुत् सोममभिषुण्वन् युवभ्यां । युवाभ्यामर्थायाभिषुण्वन्निति संबंधः । एवं कुर्वन्नूर्ध्व उन्नतः सन् विवक्ति उच्चैः शब्दयति तदानीं वल्गू सुंदरौ युवां विप्रो मेधावी यजमानो हव्यैर्हविर्भिरा ववृतीते । आवर्तयति ॥
+
+##### Gist of the bhāṣya
+
+When this pressing-stone, desiring you two gods, is raised aloft and presses out Soma for you, it sounds loudly. Then the wise sacrificer, the vipra, turns you, the beautiful ones, towards himself with oblations. उ (*u*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वां (*vāṃ*)—addressing you
+- देवयाः (*devayāḥ*)—desiring you who are gods
+- अयं अद्रिः (*ayaṃ adriḥ*)—this pressing-stone
+- युवभ्यां (*yuvabhyāṃ*)—for you
+- सोमसुत् (*somasut*)—pressing Soma
+- ऊर्ध्वः (*ūrdhvaḥ*)—raised aloft
+- विवक्ति (*vivakti*)—sounds; then
+- वल्गू (*valgū*)—you of beautiful form
+- विप्रः (*vipraḥ*)—the wise sacrificer
+- हव्यैः (*havyaiḥ*)—with oblations
+- आ ववृतीते (*ā vavṛtīte*)—makes you turn back
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, when this pressing-stone, desiring you who are gods, is raised aloft and sounds as it presses Soma for you, then the wise sacrificer makes you of beautiful form turn back with oblations.
+
+##### English translation
+When the stone, seeking to propitiate you two divinities, is raised aloft and loudly sounds, expressing for you the Soma juice, then the pious worshipper brings you back, beautiful divinities, by his oblations.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒त्रं ह॒ यद्वां॒ भोज॑नं॒ न्वस्ति॒ न्यत्र॑ये॒ महि॑ष्वंतं युयोतं ।  
+> यो वा॑मो॒मानं॒ दध॑ते प्रि॒यः सन् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्रं । ह । यत् । वां । भोजनं । नु । अस्ति । नि । अत्रये । महिष्वंतं । युयोतं ।
+
+### Printed p. 507
+
+> यः । वां । ओमानं । दधते । प्रियः । सन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवयोश्चित्रं चायनीयं यद्भोजनं धनमस्ति ह अस्ति खलु । न्विति पूरणः । तदस्मभ्यं दत्तमित्यर्थः । अथ शयोः स्तुतिः । अत्रये एतन्नामकादृषेः । पंचम्यर्थे चतुर्थी । तस्मान्महिष्वंतम्बीसं नि युयोतं । पृथक्कृतवंतौ । योऽत्रिः प्रियः सन् स्तोत्रैरात्मानं वाभ्यां प्रियभूतः सन् युवाभ्यामेव कृतोमानं रक्षणं सुखं दधते धारयति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the wondrous, desirable wealth that is yours indeed exists; नु (*nu*) is an expletive. The sense: it is given to us. Then there is praise of the two: from the sage named Atri (the fourth case in the sense of the fifth) you separated the confinement महिष्वंतं (*mahiṣvaṃtaṃ*). Atri, being dear and having made himself dear to you through praises, holds protection and happiness made by you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—belonging to you
+- चित्रं (*citraṃ*)—attractive
+- यत् भोजनं (*yat bhojanaṃ*)—whatever wealth fit for enjoyment
+- अस्ति ह (*asti ha*)—exists, give it to us
+- यः (*yaḥ*)—which Atri
+- प्रियः सन् (*priyaḥ san*)—being worthy of your affection
+- वां ओमानं (*vāṃ omānaṃ*)—your protection
+- दधते (*dadhate*)—holds
+- अत्रये (*atraye*)—from such an Atri
+- महिष्वंतं (*mahiṣvaṃtaṃ*)—the exceedingly great bondage
+- नि युयोतं (*ni yuyotaṃ*)—you separated
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, give us whatever attractive wealth fit for enjoyment belongs to you. You freed from bondage that Atri who, being worthy of your affection, had obtained your protection.
+
+##### English translation
+Wonderful, verily, is the wealth that is yours : you have liberated from the cave Atri, who is dear to you, and enjoys your protection.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्यद्वां॑ जुर॒ते अ॑श्विना भू॒च्च्यवा॑नाय प्र॒तीत्यं॑ हवि॒र्दे ।  
+> अधि॒ यद्वर्प॑ इ॒तऊ॑ति ध॒त्थः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्यत् । वां । जुरते । अश्विना । भूत् । च्यवानाय । प्रतीत्यं । हविःदे ।  
+> अधि । यत् । वर्पः । इतःऊति । धत्थः ॥ ६ ॥
+
+### Printed p. 508
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अश्विनावश्विनौ वां युवयोः कर्म कुर्वते जुरते जूर्णाय हविर्दे हविर्दात्रे च्यवानायर्षये महर्षये त्यत्तत्प्रतीत्यं प्रतिगमनं तस्य रूपस्य प्रत्याप्त्यै भूत् । अभूत् । किं तदिति । यद्वर्पो रूपमितऊतीतोगमनाख्यं मृत्योः सकाशादितःप्राप्तिरूपमधि धत्थः अध्यधत्तं । युवं च्यवानमश्विना जरंतं पुनर्युवानं चक्रथुः शचीभिः । ऋ. १-११७-१३ । इत्यादिषु च्यवानस्य युवयोर्नवीकरणं प्रसिद्धं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, for the aged Cyavāna, the sage who performs rites for you and gives oblations, that return to his former form came about, to regain it. What is it? The form, the appearance, that you established, the going back from death, the attainment of coming back from it. Sāyaṇa cites युवं च्यवानमश्विना जरंतं पुनर्युवानं चक्रथुः शचीभिः । (*yuvaṃ cyavānamaśvinā jaraṃtaṃ punaryuvānaṃ cakrathuḥ śacībhiḥ |*) (Ṛ. Saṃ. 1-117-13) and says that in such passages the renewal of Cyavāna by the two is well known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अश्विना (*aśvinā*)—O Aśvins
+- वां (*vāṃ*)—your
+- त्यत् (*tyat*)—the famous deed
+- जुरते (*jurate*)—who praises
+- हविर्दे (*havirde*)—who offers oblation
+- च्यवानाय (*cyavānāya*)—to the great sage named Cyavāna
+- प्रतीत्यं (*pratītyaṃ*)—possessing the power to give back his youth
+- भूत् (*bhūt*)—became
+- यद्वर्पः (*yadvarpaḥ*)—that same beauty of his
+- इतऊति (*itaūti*)—the return from death
+- अधि धत्थः (*adhi dhatthaḥ*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, your famous deed became, for the great sage Cyavāna, who praises and offers oblations, one with the power to restore his youth. That same beauty of his escaped from the mouth of death.
+
+##### English translation
+Such was your benevolence, Ashwins, to Chyavana, praising and offering oblations, that you in requital rescued his body from departure.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्यं भु॒ज्युम॑श्विना॒ सखा॑यो॒ मध्ये॑ जहुर्दु॒रेवा॑सः समु॒द्रे ।  
+> निरीं॑ पर्ष॒दरा॑वा॒ यो यु॒वाकुः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्यं । भुज्युं । अश्विना । सखायः । मध्ये । जहुः । दुःएवासः । समुद्रे ।  
+> निः । ईं । पर्षत् । अरावा । यः । युवाकुः ॥ ७ ॥
+
+### Printed p. 509
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च त्यं तं भुज्युमेतन्नामानं समुद्रे मध्ये समुद्रोदकस्य मध्ये सखायो भुज्युसखिभूता दुरेवासो दुष्टगमना जहुः । त्यक्तवंतः । ईमेनं समुद्रमध्ये क्षिप्तं निः पर्षत् । निरपारयतं । यो भुज्युर्युवाकुर्युवां कामयितारावारणपानभिगंता च तमेनं निरपारयतं । अत्राश्विनेषु सूक्तेषु कथाः सूच्यंते । अत्रिभुज्य्वादीनामग्निजलादिभ्यो रक्षणरूपास्ताः सर्वा महता प्रपंचेनास्माभिर्नासत्याभ्यां बर्हिरिव । ऋ. १-११६-१ । इत्यत्र प्रपंचिताः । तास्तत्र द्रष्टव्याः ॥
+
+##### Gist of the bhāṣya
+
+That Bhujyu, in the midst of the sea-water, was abandoned by those who had been his friends, ill-going. You brought out this one who had been cast into mid-ocean. Bhujyu, desiring you and approaching you with devotion, was rescued by you. Sāyaṇa says that the stories of the Aśvins' rescues of Atri, Bhujyu and others from fire, water and so on are indicated in these sūktas. They were set out at great length by him at नासत्याभ्यां बर्हिरिव (*nāsatyābhyāṃ barhiriva*) (Ṛ. 1-116-1) and are to be seen there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अश्विना (*aśvinā*)—O Aśvins
+- यः (*yaḥ*)—which Bhujyu
+- युवाकुः (*yuvākuḥ*)—desired your service
+- अरावा (*arāvā*)—was devoted to you alone
+- त्यं भुज्युं (*tyaṃ bhujyuṃ*)—that Bhujyu
+- समुद्रे मध्ये (*samudre madhye*)—in the middle of the sea
+- सखायः (*sakhāyaḥ*)—those who were like his friends
+- दुरेवासः (*durevāsaḥ*)—those who wished him harm
+- जहुः (*jahuḥ*)—threw (him) away; then
+- ईं (*īṃ*)—him
+- निः पर्षत् (*niḥ parṣat*)—protect completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, when enemies who were like friends threw into the middle of the sea that Bhujyu who desired your service and was devoted to you, you protected him completely.
+
+##### English translation
+When faithless friends had abandoned Bhujyu in the midst of the ocean, you brought him to shore, devoted to and relying upon you.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृका॑य चि॒ज्जस॑मानाय शक्तमु॒त श्रु॑तं श॒यवे॑ हू॒यमा॑ना ।  
+> याव॒घ्न्यामपि॑न्वतम॒पो न स्त॒र्यं॑ चिच्छ॒क्र्य॑श्विना॒ शची॑भिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृकाय । चित् । जसमानाय । शक्तं । उत । श्रुतं । शयवे । हूयमाना ।  
+> यौ । अघ्न्यां । अपिन्वतं । अपः । न । स्तर्यं । चित् । शक्ती । अश्विना । शचीभिः ॥ ८ ॥
+
+### Printed p. 510
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृकाय धनादात्रे । अभिलषत इत्यर्थः । चिदिति पूरणः । अथवा परेभ्यो धनानि प्रयच्छते । यद्वा । वृकाय वृकवद्धिंसकाय । एतन्नामकाय जसमानाय कर्मभिरुपक्षीयमाणायर्षये शक्तं । अभिमतं धनमदत्तं ॥ शकेर्दानार्थस्य लुज्येतद्रूपं । अडभावश्छांदसः ॥ उतापि च शयव एतन्नामकायर्षये हूय-मानाहूयमानौ युवां श्रुतं । अशृणुतं । यौ युवामघ्न्यां गामपिन्वतं अपूरयतं क्षीरेण अपो नाद्धिरिव नदीं । तां यथोदकेन पूरयतस्तद्वत् । कीदृशीमघ्न्यां । स्तर्यं चित् स्तरीमपि निवृत्तप्रसवां वृद्धामपि शक्ती शक्त्या सामर्थ्येन दोहनलक्षणेन युक्तां कृत्वा शचीभिर्युष्मदीयैः कर्मभिर्हे अश्विनाविति । शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गां । ऋ. १-११६-२२ । इत्यादि ह्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+वृकाय (*vṛkāya*) means for one who gives wealth, desiring; चित् (*cit*) is an expletive. Or: for one who gives wealth to others. Or else: for Vṛka, hurtful like a wolf, the sage of that name, जसमानाय (*jasamānāya*), exhausted by rites, you gave शक्तं (*śaktaṃ*), the desired wealth. (शक्तं (*śaktaṃ*) is a form of the root शक् (*śak*) in the sense of giving, in the aorist; the absence of the augment is Vedic.) Also, being called upon for the sage Śayu, you two heard. You two filled the barren cow with milk, as one fills a river with water, स्तर्यं चित् (*staryaṃ cit*), even an old cow that had ceased to bear, making her endowed with the power of yielding milk, by your deeds, O Aśvins. He cites शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गां । (*śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgāṃ |*) (Ṛ. 1-116-22) as having said the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- जसमानाय (*jasamānāya*)—exhausted by rites
+- वृकाय चित् (*vṛkāya cit*)—even to the sage named Vṛka
+- शक्तं (*śaktaṃ*)—you gave the wealth he desired
+- उत (*uta*)—and
+- शयवे (*śayave*)—for Śayu
+- हूयमाना (*hūyamānā*)—when entreated
+- श्रुतं (*śrutaṃ*)—you heard that call
+- अपो न (*apo na*)—as one fills a river with water
+- यौ (*yau*)—you
+- स्तर्यं चित् (*staryaṃ cit*)—even though aged
+- शक्ती (*śaktī*)—making her capable of yielding
+- शचीभिः (*śacībhiḥ*)—by your deeds
+- अघ्न्यां (*aghnyāṃ*)—the cow
+- अपिन्वतं (*apinvataṃ*)—you filled with milk
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you gave the wealth he desired even to the sage Vṛka, who was weary from his rites. When entreated for Śayu you heard that call. As one fills a river with water, you made even an aged cow capable of yielding and by your deeds filled her with milk.
+
+##### English translation
+You have granted (his desires) to Vrika, exhausted by his devotions : when called upon you have listened to Sayu ; you have filled the barren cow (with milk) as (a river) with water : you have (endowed her) with strength, Ashwins, by your deeds.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य का॒रुर्ज॑रते सू॒क्तैरग्रे॑ बुधा॒न उ॒षसां॑ सु॒मन्मा॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
+**Progress note:** Done through printed p. 510. pp. 505-510 (batch API)
