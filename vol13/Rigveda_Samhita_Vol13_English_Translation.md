@@ -7310,6 +7310,142 @@ Sāyaṇa explains: a certain man who sacrifices, performing the sacrifice, is "
 - मनसा (*manasā*)—in the mind alone
 - परि यन् (*pari yan*)—he goes around (thinking of worldly objects and the like); that is, he does not worship Indra at all
 
+### Printed p. 301
+
+##### भावार्थ (Bhāvārtha)
+
+Just as the water of a sacred place quenches the thirst of a man who stands near some holy site, the performer of the sacrifice gratifies Indra with sacrifices and the like. Just as a long road keeps a man who seeks a result away from that result, a crooked man wanders about without worshipping Indra, thinking in his mind of worldly matters.
+
+##### English translation (H. H. Wilson)
+Oue man propitiates Indra, augmenting (his vigour) by sacrifice; another, who is insincere, worships (him), with mind averted, (to worldly thoughts): (to the first he is) like a lake to a thirsty (pilgrim) near a sacred spot: (to the other) like a long road, which retards the end (of the journey).
+
+##### विशेषविषयगळु (Special Topics)
+
+कश्चित् यज्ञः ऋंधर् (*kaścit yajñaḥ ṛṃdhar*)—Here the word यज्ञ (*yajña*) is used in the sense of the yajamāna, the householder who performs the sacrifice. By यज्ञर्वा यज्ञानुष्ठाया इंद्रं यज्ञेन वर्धयति (*yajñarvā yajñānuṣṭhāyā iṃdraṃ yajñena vardhayati*) the meaning is explained: the yajamāna who performs the sacrifice gratifies Indra by sacrificing.
+
+जुहुराणश्चित् मनसा परि र्य (*juhurāṇaścit manasā pari rya*) (one who goes astray): one who moves along a crooked path, परिशो गच्छन् लौकिक विषयादिकं धार्य वर्तते (*pariśo gacchan laukika viṣayādikaṃ dhārya vartate*): he goes on meditating with his mind only on the enjoyable things of the world. Or else, यद्वा वर्जयित्वा गच्छन्नेदं प्राप्नोति (*yadvā varjayitvā gacchannedaṃ prāpnoti*): he abandons the path of performing sacrifices and the like and winning the favour of Indra and the other deities. Thus the meaning is explained by taking the prefix परि (*pari*) in the sense of avoidance, following usage.
+
+तीर्थे अच्छ ओकः ततृषाणं (*tīrthe accha okaḥ tatṛṣāṇaṃ*)—The Nirukta authors explain the word ओकस् (*okas*) as meaning a dwelling-place (Ni. 3-3).
+
+To show that a man has complete attachment to his own house, the Nirukta authors gave a charming example:
+
+नहि ग्रधायारणः सुशेवोऽन्योदरो मनसा मंतवा उ । अधा चिदोकः पुनरित्स एत्या नो वाज्येभीषाळेतु नव्यः ॥ (*nahi gradhāyāraṇaḥ suśevo 'nyodaro manasā maṃtavā u | adhā cidokaḥ punaritsa etyā no vājyebhīṣāḷetu navyaḥ ‖*)
+(Ṛ. Saṃ. 7-4-8).
+
+### Printed p. 302
+They cite and explain the above Ṛk to show that the word ओक (*oka*) suggests that one's own house is the object of complete attachment: an adopted son, whatever happens, has his attachment in his own house and returns there.
+
+As a house that has prepared drink along a well-known road (a water-shed) quickly delights a thirsty man, so a man who performs the sacrificial rites famed in the Śruti delights Indra; thus it is explained.
+
+दीर्घो न अध्वा सिद्धं आकृणोति (*dīrgho na adhvā siddhaṃ ākṛṇoti*)—वक्रत्वेन अतिदूरः मार्ग इव (*vakratvena atidūraḥ mārga iva*). The Nirukta authors explain the word सिद्ध (*siddha*) as meaning a means (Ni. 9-39). Sāyaṇa explains it as the result, and पानीयादिरूपं फलार्थिनं वा पुरुषं (*pānīyādirūpaṃ phalārthinaṃ vā puruṣaṃ*): a thirsty man, travelling by a crooked or very long road, forsakes the place where the drink-like result beneficial to him is to be had. Thus the course of the crooked man who goes by the crooked path is described.
+
+तस्माद्यज्ञमार्गमजानानो वक्रो दूरे परिभ्रमति नेंद्रं तर्पयति तद्विलक्षणस्तु वर्जयत्येव । (*tasmādyajñamārgamajānāno vakro dūre paribhramati neṃdraṃ tarpayati tadvilakṣaṇastu varjayatyeva |*) The crooked man, not knowing the way of performing sacrifice and delighting Indra, goes on circling in the ordinary worldly course and does not bring about Indra's delight. The performer of sacrifice, performing it in the order stated in the Śruti and delighting Indra, abandons the crooked path of worldly conduct. Thus, showing the fruit arising from following the worldly and the Vedic paths, the difference between the crooked man who follows worldly practice and the Vedic man who performs sacrifice is explained.
+
+##### Grammar
+
+- यज्ञः—यज्ञः अस्य अस्ति इति यज्ञः । आर्तआदिभ्योच् (पा. सू. ५-२-१२७) इति मत्त्वर्थे अच् प्रत्ययः । यस्येति च (पा. सू. ६-४-१४८) इति पूर्वस्य आकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- ऋंधन्—ऋधु वृद्धौ धातुः । दिवादिः । लटि शत्रादेशः । व्यत्ययेन श्नम् विकरणम् । मित्त्वात् अंत्याचः परः आगच्छति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- जुहुराणः—हुर्छा कौटिल्ये धातुः । हुर्छेःसनो लुक् छलोपश्च (उ. सू. २-२४८) इति सन्नंतात् आनट् प्रत्ययः । सनो लोपः । धातोः छकारस्य लोपः । प्रत्ययलोपे (सन्) अपि प्रत्ययलक्षणेन धातो र्द्वित्वम् । रेफनिमित्तं प्रत्ययनकारस्य णत्वम् । चित्त्वात् चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+
+### Printed p. 303
+- परियन्—इण् गतौ धातुः । लटि शत्रादेशः । इषोयण् (पा. सू. ६-४-८१) इति यणादेशः । गतिकारकोपपदात् कृत् (पा. सू. ६-२-१३९) इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- तीर्थे—त्य प्लवनतरणयोः धातुः । पात्यतुदि—(उ. सू. २-१६४) इति थक् प्रत्ययः । यूत इद्दातोः (पा. सू. ७-१-१००) इति इत्वे जाते हलिच इति दीर्घः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- अच्छ—निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- तातृषाणम्—इा तृषा पिपासायाम् धातुः । अस्मात् लिटि जाते लिटः कानज्ञा (पा. सू. ३-२-१०६) इति कानचादेशः । तं निमित्तीकृत्य धातोर्द्वित्वम् । अट् कुप्वा५-सूत्रेण प्रत्ययनकारस्य णत्वम् । संहितायां छांदसत्वेन अभ्यासस्य दीर्घो भवति । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । **NOTE**
+- सिध्रम्—षिध गत्याम् धातुः । स्थायितंचि वंचि—(उ. सू. १-१७०) इति रक् प्रत्ययः । कित्त्वात् लघोपधगुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- कृणोति—कृवि हिंसाकरणयोश्च धातुः । लट् प्रथमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ॥ ११ ॥
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो पू ण॑ इं॒द्रात्र॑ पृ॒त्सु दे॒वैरस्ति॒ हि ष्मा॑ ते शुष्मिन्नव॒याः ।  
+> म॒हश्चि॒द्यस्य॑ मा॒ळुषो॑ य॒व्या ह॒विष्म॑तो म॒रुतो॒ वंद॑ते॒ गीः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । नः । इंद्र । अत्र । पृत्सु । देवैः । अस्ति । हि । स्म । ते । शुष्मिन् ।  
+> अव्ययाः ।  
+> महः । चित् । यस्य । माळ्हुषः । यव्या । हविष्मतः । मरुशः । वंदते । गीः ॥ १२ ॥
+
+### Printed p. 304
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अत्र पृत्वेषूपस्थितेषु संग्रामेषु वृष्टर्थं मेघजयेषु
+> देवैर्मरुदादिभिः सह नोऽस्मान् मो षु मैव त्याक्षीरिति शेषः । मरुत्सहितो
+> युध्यस्वत्यर्थः । हे शुष्मिन् बलवन्निंद्र अस्ति हि स्म ते । अस्ति हि स्म तव खलु । तव
+> किमस्तीति उच्यते। अवया अवयजनं अवयुज्य पृथक्कृत्य यजनं हविर्भागोऽस्ति ।
+> मरुद्भ्यः पृथगप्यस्ति हविर्भागः । केवलं मरुद्भ्य एव दीयते नास्मभ्यं अतः कथं
+> योत्स्यामिति न मंतव्यमित्यर्थः । यद्वा । अवयाः शत्रूणां वर्जनाय गंता
+> वज्रोऽस्ति ते । किंच हविष्मतः प्रदेयहविर्युक्तस्य माळ्हुषो हविष्मदातुः ।
+> यष्टा । एतत्वदद्वयं मरुतां विशेषणं । यस्य मम यव्या फलेनेंद्रेण वा
+> सह मिश्रयंती गीः स्तुतिशस्त्रादिरूपा वाङ्महश्चिन्महतोऽपि माळ्षुषः सेक्त्यन्
+> हविष्मतो दत्तहविषा तद्वतो मरुतो वंदते स्तौति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in these battles now at hand, battles for rain, that is, victories over the clouds, do not abandon us, together with the gods, the Maruts and others; this is the understood supplement. The meaning: fight together with the Maruts. O mighty Indra, there is for you अवयाः (*avayāḥ*), that is, a separate sacrifice, a share of the oblation apart. A separate share of oblation exists also for the Maruts. One should not think, "The oblation is given only to the Maruts, not to us; how then shall I fight?" Or else अवयाः (*avayāḥ*) is the thunderbolt that goes to ward off enemies; it is yours. Further, the two words हविष्मतः (*haviṣmataḥ*) and माळ्हुषः (*māḷhuṣaḥ*) (the giver of oblations, the sprinkler) are epithets of the Maruts, possessed of the oblation to be offered. The speech of the praise and recitation kind, mingling with the fruit or with Indra, of me, the worshipper, praises the Maruts, great as they are, who shed rain and possess the oblation given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविष्मतः (*haviṣmataḥ*)—endowed with the oblation (to be offered to you)
+- मीळ्हुषः (*mīḷhuṣaḥ*)—the giver of the oblation (to you)
+- यस्य (*yasya*)—of whom, of me (us)
+- यव्या (*yavyā*)—accompanied by the fruit
+- गाः (*gāḥ*)—the speech in the form of praise
+- महः चित् (*mahaḥ cit*)—though very great. [Or हविष्मतः (*haviṣmataḥ*)—possessed of the oblation (given by us); मीळ्हुषः (*mīḷhuṣaḥ*)—showerers (rain-shedders).]
+- मरुतः (*marutaḥ*)—the Maruts
+- वंदते (*vaṃdate*)—praises
+- नः (*naḥ*)—us (such)
+- (हे (*he*)) इंद्र (*iṃdra*)—O Indra
+- अत्र पृत्सु (*atra pṛtsu*)—in the battles now present (the means of conquering the clouds)
+- देवैः (*devaiḥ*)—with the Maruts (accompanied by them, you)
+- मो षु (*mo ṣu*)—do not abandon at all
+- (हे (*he*)) शुष्मि ९ (*śuṣmi 9*)—O mighty Indra
+- ते (*te*)—your
+- अवयाः (*avayāḥ*)—share of the sacrifice, or the thunderbolt that destroys enemies
+- अस्ति हि स्म (*asti hi sma*)—it is indeed there.
+
+##### भावार्थ (Bhāvārtha)
+
+My praise, I who am the giver of oblations and am now furnished with the oblation to be offered, gratifies the Maruts, the very great gods. The share of the sacrifice due to you is ready. Therefore, O mighty Indra, in the battles that are the means of conquering the clouds, do not leave our hand, you who are accompanied by the Maruts.
+
+##### English translation (H. H. Wilson)
+Indra, associated with the Maruts in battles (with the clouds), abandon us not; for a share of tLe offering is set apart, mighty one, tor you, for whom, the shedder of rain and accepter of oblations, the worship is offered with oblations, whilst the hymn glorifies the Maruts.
+
+### Printed p. 305
+
+##### विशेषविषयगळु (Special Topics)
+
+पृत्सु देवैः नः मो षु (*pṛtsu devaiḥ naḥ mo ṣu*)—The word पृत्सु (*pṛtsu*) is read among the names of battle (Ni. 3-9). Here, addressing Indra, संग्रामेषु उपस्थितेषु (*saṃgrāmeṣu upasthiteṣu*), when the circumstances for fighting have arisen, or वृष्ट्यर्थं मेघजयेषु (*vṛṣṭyarthaṃ meghajayeṣu*), at the time of conquering the clouds in order to pour out rain-water, may Indra fight मरुदादिभिस्सह (*marudādibhissaha*), being together with the Maruts; so the wish is expressed.
+
+Since he fights united with the Maruts, this mantra suggests that Indra and the Maruts each have a separate share of the oblation.
+
+अवयाः—अवयजनं अवकृत्य पृथक्कृत्य यजनं । हे शुष्मिन् बलवन् (*avayāḥ—avayajanaṃ avakṛtya pṛthakkṛtya yajanaṃ | he śuṣmin balavan*). In this sentence addressed to the mighty Indra: मरुद्भ्यः पृथगप्यस्ति हविर्भागः (*marudbhyaḥ pṛthagapyasti havirbhāgaḥ*); since the Maruts have a separate share of oblation, केवलं मरुद्भ्य एव दीयतॆ नास्मभ्यं अतः कथं न योत्स्वामीति न मंतव्यं (*kevalaṃ marudbhya eva dīyatè nāsmabhyaṃ ataḥ kathaṃ na yotsvāmīti na maṃtavyaṃ*). One meaning, in the form of a doubt, is explained: because the oblation is offered to the Maruts, Indra has no share and will not fight. In answer to this, by the sentence अस्ति हि स्म ते (*asti hi sma te*), अस्ति हि स्म तव खलु (*asti hi sma tava khalu*), it is explained that Indra too has a share in the oblation.
+
+In the second meaning: यद्वा अवयाः शत्रूणां वर्जनाय गंता वज्रोस्ति । (*yadvā avayāḥ śatrūṇāṃ varjanāya gaṃtā vajrosti |*) The word अवयाः (*avayāḥ*) is taken to mean one who goes to destroy enemies. The meaning described is that Indra has the thunderbolt that destroys enemies and also natural strength.
+
+यव्या गीः महश्चित् मरुतः वंदते (*yavyā gīḥ mahaścit marutaḥ vaṃdate*)—The word यव्या (*yavyā*) (फलेनेंद्रेण वा मिश्रयंती (*phaleneṃdreṇa vā miśrayaṃtī*)) is used as an epithet of the speech that sets forth the fruit or sets forth Indra's greatness. For the word गीः (*gīḥ*) the meaning given is स्तुतिशस्त्रादिरूपा वाक् (*stutiśastrādirūpā vāk*): speech in the form of a śastra that praises the gods or invokes them. The words हविष्मतः (*haviṣmataḥ*) and माळ्हुषः (*māḷhuṣaḥ*) are used as epithets of the Maruts and of Indra. For these words the meaning given is: on Indra's behalf, one possessed of a share of the oblation offered by the yajamāna to the Maruts, and a giver of food to the worlds. On behalf of the Maruts, the meaning is: those who shower rain abundantly, more plentifully than other gods, and who obtain shares of oblation through Indra from the oblation offered. The speech in the form of praise and śastra, recited by the yajamānas and adhvaryus together, is to be employed in the worship (as praise) of Indra or the Maruts, who possess oblations and bestow rain; thus the yajamāna prays.
+
+### Printed p. 306
+The word मीळ्हुषः (*mīḷhuṣaḥ*) is derived from the root मिह् (*mih*), meaning sprinkling. From the sentence यन्मेहति तत्वर्षति (*yanmehati tatvarṣati*) (Bṛ. U. 1-1-1) the meaning of its basic form can be seen.
+
+वाजयन्निव नू रथान्योगा अग्नेरुव स्तुहि । यशस्तमस्य माळ्हुषः ॥ (*vājayanniva nū rathānyogā agneruva stuhi | yaśastamasya māḷhuṣaḥ ‖*)
+(Ṛ. Saṃ. 2-8-1)
+
+In all such Ṛks, फलस्य सेक्तुः (*phalasya sektuḥ*) means one who pours out and gives desired objects. In the present Ṛk it means those who shed rain. The word माळ्हुं (*māḷhuṃ*), formed from this same root, the Nirukta authors read among the names of wealth (Ni. 3-9), and the word माळ्ही (*māḷhī*) among the names of battle (Ni. 3-9). Their special meanings will be explained in their respective contexts.
+
+##### Grammar
+
+- सु—सुणाः (पा. सू. ८-३-१०७) इति सत्वम् । निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति । **NOTE**
+- पृत्सु—पृतना शब्दः । सप्तमीबहुवचने परे मांसपृत्कनासानूनां मान्स् पृत्स्नवः शसादौ वा वाच्याः इति वचनेन पृतादेशः । ऊडिदं पदादि—(पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- स्म—निपातस्य चॆ (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- शुष्मिन्—शुष्म बलं अस्य अस्ति इति । शुष्मी । इतनितनौ इति मत्त्वर्थे इनि प्रत्ययः । संबुद्धौ आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+- अवयाः—अव पृथक्कृत्य याति इति अवयाः । या प्रापणे धातुः । क्विड् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- मीळ्हुषः—मिह सेचने धातुः । दात्वान् साह्वान् मीढ्वांश्च (पा. सू. ६-१-१२) इति क्वसुप्रत्ययांतः निपातितः । शसि जसि वा परे वसोः संप्रसारणं इति संप्रसारणं पूर्वरूपं च । प्रत्ययस्वरेण उकार उदात्तो भवति ।
+- वंदते—वदि अभिवादनस्तुत्योः धातुः । इदितो नुम् धातोः इति नुमागमः । लट् प्रथमपुरुष एकवचनांतरूपम् । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
+**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
