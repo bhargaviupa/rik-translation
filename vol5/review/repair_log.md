@@ -1583,3 +1583,18 @@
 - English line 4292: `4-20 [?]` → `4-21` — p. 234: the supplied text prints ಉ. ಸೂ. 4-21 (the scan reader also read ೪-೨೧)
 - English line 8202: `१९-६३, ६२ [?]` → `१९-६३, ६७` — p. 443: the supplied text prints ಧಾ. ೧೯-೬೩,೬೭
 - English line 8204: `19-63, 62 [?]` → `19-63, 67` — p. 443: the supplied text prints ಧಾ. ೧೯-೬೩,೬೭
+
+## `[?]` removed after words that the supplied Kannada text prints the same (2026-11-27; tools/rv/qword_check.py, user: the supplied text is a good source for words)
+- English line 2838: `रोगाय [?]` → mark removed; the supplied text of the page has the letters of *rogāya* (alignment 100 %).
+- English line 2840: `rogāya [?]` → mark removed; the supplied text of the page has the letters of *rogāya* (alignment 100 %).
+- English line 3719: `सती सैव [?]` → mark removed; the supplied text of the page has the letters of *satī saiva* (alignment 100 %).
+- English line 3721: `satī saiva [?]` → mark removed; the supplied text of the page has the letters of *satī saiva* (alignment 100 %).
+- English line 4212: `हविर्लेपनिघर्षणायाग्नेः [?]` → mark removed; the supplied text of the page has the letters of *havirlepanigharṣaṇāyāgneḥ* (alignment 100 %).
+- English line 4214: `havirlepanigharṣaṇāyāgneḥ [?]` → mark removed; the supplied text of the page has the letters of *havirlepanigharṣaṇāyāgneḥ* (alignment 100 %).
+- English line 4461: `prāparya [?]` → mark removed; the supplied text of the page has the letters of *prāparya* (alignment 100 %).
+- English line 5213: `प्रापर्य [?]` → mark removed; the supplied text of the page has the letters of *prāparya* (alignment 100 %).
+- English line 5215: `prāparya [?]` → mark removed; the supplied text of the page has the letters of *prāparya* (alignment 100 %).
+- English line 5118: `यान्सोमान् [?]` → mark removed; the supplied text of the page has the letters of *yān somān* (alignment 100 %).
+- English line 5120: `yān somān [?]` → mark removed; the supplied text of the page has the letters of *yān somān* (alignment 100 %).
+- English line 5698: `समासयता [?]` → mark removed; the supplied text of the page has the letters of *samāsayatā* (alignment 100 %).
+- English line 5700: `samāsayatā [?]` → mark removed; the supplied text of the page has the letters of *samāsayatā* (alignment 100 %).
