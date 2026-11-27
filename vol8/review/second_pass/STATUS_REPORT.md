@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 731 (550–559, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–312, 312–395, 395–448, 448–475, 476–510, 510–544, 544–582, 582–613, 613–645, 645–677, 677–695, 695–713, 713–732)
-- **Findings:** 2594 — applied 2144, kept/not applied 450 (English kept: misprints and doubts settled by rule; see part 5); edits ok 2098, failed 0
-- **Reader tokens (batches so far):** 4292k; per page 5.9k
-- **Last commit:** 240cfaf7
+- **Pages read:** 757 (550–559, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–312, 312–395, 395–448, 448–475, 476–510, 510–544, 544–582, 582–613, 613–645, 645–677, 677–695, 695–713, 713–732, 732–758)
+- **Findings:** 2739 — applied 2285, kept/not applied 454 (English kept: misprints and doubts settled by rule; see part 5); edits ok 2239, failed 0
+- **Reader tokens (batches so far):** 4501k; per page 5.9k
+- **Last commit:** d8276bf5
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
@@ -33,19 +33,20 @@
 | 20 | 677–695 | 134 | 126 | 125 / 0 | 8 | 252k | e0215527 | marks q327-q476: 150 seen, 143 removed, 7 kept |
 | 21 | 695–713 | 136 | 128 | 119 / 0 | 8 | 193k | 82749399 | marks q334-q483: 150 seen, 144 removed (incl. 2 of next range), 8 kept |
 | 22 | 713–732 | 132 | 130 | 125 / 0 | 2 | 203k | 240cfaf7 | marks q342-q491: 150 seen, 148 removed, 2 kept |
+| 23 | 732–758 | 150 | 146 | 141 / 0 | 4 | 209k | d8276bf5 | marks q344-q493: 150 seen, 146 removed, 4 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| Q2 | 1216 | 298 | 1514 |
-| Q1 | 799 | 149 | 948 |
-| S3 | 121 | 0 | 121 |
+| Q2 | 1246 | 302 | 1548 |
+| Q1 | 905 | 149 | 1054 |
+| S3 | 126 | 0 | 126 |
 | S2 | 6 | 0 | 6 |
 | S1 | 2 | 0 | 2 |
 | S7 | 0 | 2 | 2 |
 | S13 | 0 | 1 | 1 |
 
-By reader: R1 2591, R3 2, R6 1
+By reader: R1 2736, R3 2, R6 1
 
 ## 4. Open items (not findings)
 - **other** (pages 118): Pā. Sū. 3-1-0 (Kannada p. 118 prints ೩-೧-೦, impossible sutra number); applied as printed
@@ -63,11 +64,12 @@ By reader: R1 2591, R3 2, R6 1
 - **other** (pages 682): Pā. Sū. 6-249 (Kannada p. 682 prints (ಪಾ. ಸೂ ೬-೨೪೯) for gatir anantaraḥ, not in the usual form a-b-c); applied as printed
 - **other** (pages 694): Ṛ. Saṃ. 0-168-9 (Kannada p. 694 prints (ಋ. ಸಂ. ೦-೧೬೮.-೯), impossible mandala number); applied as printed
 - **other** (pages 694): Ṛ. Saṃ. 3-69-2 (Kannada p. 694 prints (ಋ. ಸಂ. ೩-೬೯-೨), no such hymn in mandala 3); applied as printed
+- **other** (pages 754): Pā. Sū. 9-1-193 (Kannada p. 754 prints ೯-೧-೧೯೩, impossible adhyāya; p. 749 prints ೬-೧-೧೯೩); applied as printed
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 93 Kannada misprints where the English is kept (`kn_misprints.tsv`); 97 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 96 Kannada misprints where the English is kept (`kn_misprints.tsv`); 99 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol8/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
