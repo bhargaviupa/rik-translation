@@ -8155,6 +8155,156 @@ May the god named Aja Ekapāt be a bringer of peace to us. May the god Ahirbudhn
 ##### English translation
 May the divine Aja-ekapad be (fevourable to) our happiness : May Ahirbudhnya, may the firmament, be (promotive of) our happiness : may the
 
+### Printed p. 181
+grandson of the waters, the protector, be (the securer of) our felicity : may Prishni, of whom the gods are the guardians, be to us (granter of) happiness.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्या रु॒द्रा वस॑वो जुषंते॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः ।  
+> शृ॒ण्वंतु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्याः । रुद्राः । वसवः । जुषंत । इदं । ब्रह्म । क्रियमाणं । नवीयः ।  
+> शृण्वंतु । नः । दिव्याः । पार्थिवासः । गोऽजाताः । उत । ये । यज्ञियासः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नवीयो नवतरमस्माभिः क्रियमाणमिदं ब्रह्म स्तोत्रमादित्या दिव्याः । अदितिर्द्यौः । ऋ. १-८९-१० । इति श्रुतेः । रुद्रा अंतरिक्षा वसवः पार्थिवाश्च जुषंते । जुषंतां । सेवंतां । अन्ये दिव्या दिवि भवाः पार्थिवासः पार्थिवा गोजाता गोः पृश्नेर्जाताः । नाको गौरिति साधारणनामसु पाठात् । उतापि च ये यज्ञियासो यज्ञार्हाः ते सर्वेऽपि नोऽस्माकं हवं शृण्वंतु ॥
+
+##### Gist of the bhāṣya
+
+The new praise (brahma) now being made by us is to be enjoyed by the Ādityas, the celestial ones; the Śruti says "Aditi is the sky" (Ṛ. Saṃ. 1-89-10). The Rudras, of the atmosphere, and the Vasus, of the earth, are to enjoy and serve it. The others, the celestial and the terrestrial, and those "born of the cow", that is, of Pṛśni (since *nāko gauḥ* is read among the common names), and all who are worthy of sacrifice (yajñiya), are to hear our invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्रियमाणं (*kriyamāṇaṃ*)—made by us
+- नवीयः (*navīyaḥ*)—and new
+- इदं ब्रह्म (*idaṃ brahma*)—this praise
+- आदित्याः (*ādityāḥ*)—the Ādityas, born in the heavenly world
+- रुद्राः (*rudrāḥ*)—the Rudras, dwelling in the atmosphere
+- वसवः (*vasavaḥ*)—the Vasus, dwelling on the earth
+- जुषंत (*juṣaṃta*)—may they enjoy
+- दिव्याः (*divyāḥ*)—those born in the heavenly world
+- पार्थिवासः (*pārthivāsaḥ*)—those dwelling on the earth
+- गोजाताः (*gojātāḥ*)—the sons of Pṛśni
+- उत (*uta*)—and
+- ये (*ye*)—who
+- यज्ञियासः (*yajñiyāsaḥ*)—those worthy of sacrifice, all of them
+- नः (*naḥ*)—our praise
+- शृण्वंतु (*śṛṇvaṃtu*)—may they hear
+
+##### भावार्थ (Bhāvārtha)
+
+May the Ādityas born in the heavenly world, the Rudras of the atmosphere and the Vasus of the earth enjoy this new praise made by us. May those born in the heavenly world, those of the earth, the sons of Pṛśni, and all who are worthy of sacrifice hear our praise.
+
+### Printed p. 182
+
+##### English translation
+May the Adityas, the Rudras, the Vasus, be gratified by this new and now repeated praise : may celestial and terrestrial (beings), the progeny of the cow, (Prishni), and those who were entitled to worship, hear our (invocations).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये दे॒वानां॑ य॒ज्ञिया॑ य॒ज्ञिया॑नां॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः ।  
+> ते नो॑ रासंतामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । देवानां । यज्ञियाः । यज्ञियानां । मनोः । यजत्राः । अमृताः । ऋतऽज्ञाः ।  
+> ते । नः । रासंतां । उरुऽगायं । अद्य । यूयं । पात । स्वस्तिऽभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियानां यजनीयानां देवानामपि यज्ञिया यजनीया मनोः प्रजापतेश्च यजत्रा यजनीया अमृता मरणरहिता ऋतज्ञाः सत्यज्ञा ये देवाः संति ते सर्व उरुगायं बहुकीर्तिं पुत्रमद्य नोऽस्मभ्यं रासंतां । प्रयच्छंतु । सिद्ध एवोत्तमः पादः ॥
+
+##### Gist of the bhāṣya
+
+Those gods who are worthy of worship even among the worshipful gods, who are worthy of worship also for Manu, that is Prajāpati, who are immortal and know the truth (ṛta), let all of them give us today a son of wide fame. रासंतां (*rāsaṃtāṃ*) means "let them give". The last pāda is self-evident.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियानां (*yajñiyānāṃ*)—of those worthy of sacrifice
+- देवानां (*devānāṃ*)—among the gods
+- यज्ञियो (*yajñiyo*)—those who are worthy of worship
+- मनोः (*manoḥ*)—for Prajāpati
+- यजत्राः (*yajatrāḥ*)—the worshipful
+- अमृताः (*amṛtāḥ*)—those free from the nature of death
+- ऋतज्ञाः (*ṛtajñāḥ*)—knowers of truth
+- ये (*ye*)—whatever gods there are
+- ते (*te*)—all those gods
+- उरुगायं (*urugāyaṃ*)—a son of great fame
+- अद्य (*adya*)—now
+- नः (*naḥ*)—to us
+- रासंतां (*rāsaṃtāṃ*)—may they give
+- यूयं (*yūyaṃ*)—you (all the gods)
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 183
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever gods there are who are worthy of worship even for the gods worthy of sacrifice, worthy of worship for Prajāpati, free from mortality and knowers of truth, may all those gods now give us a son worthy of great fame. O all you gods, always protect us with blessings.
+
+##### English translation
+May those who are the most adorable of the adorable divinitievs, those who were the adored of Manu, those who are immortal, the observers of truth, bestow upon us this day (a son) of widely-spread renown : and do you ever cherish us with blessings.
+
+Closing verses: वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*) Thus, in the Mādhavīya Vedārthaprakāśa, the commentary on the Ṛk-Saṃhitā composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious Vīra Bukka Bhūpāla, promoter of the Vedic path, supreme lord over kings, the third chapter of the fifth Aṣṭaka is concluded. ओं तत्सत् (*oṃ tatsat*). Here ends the third chapter in the fifth Aṣṭaka of the Ṛgveda Saṃhitā, with Sāyaṇa's commentary and Kannada translation.
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*) May it be auspicious. Blessings.
+
+### Printed p. 184
+
+### Printed p. 185
+Invocatory verses: वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda Saṃhitā with Sāyaṇa's commentary (with Kannada translation and explanation). The fourth chapter in the fifth Aṣṭaka. Seventh Maṇḍala. The hymns of the seventh Maṇḍala. The thirty-sixth hymn.
+
+## Sūkta 36 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पंचमाष्टके चतुर्थोऽध्याय आरभ्यते । तत्र षडनुवाकात्मकस्य वासिष्ठस्य सप्तमस्य मंडलस्य तृतीयेऽनुवाके द्वाविंशति सूक्तानि । तत्र प्र ब्रह्मेति नवर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं पूर्ववद्वैश्वदेवं । अनुक्रांतं
+> च । प्र ब्रह्म नवेति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The fourth chapter of the fifth Aṣṭaka now begins. In the seventh, Vāsiṣṭha Maṇḍala, which consists of six anuvākas, the third anuvāka has twenty-two hymns. Among them the third hymn, प्र ब्रह्म (*pra brahma*), of nine Ṛks, has Vasiṣṭha as seer, the Viśvedevas as deity, and the Triṣṭubh metre, as before. The Anukramaṇī says प्र ब्रह्म नव (*pra brahma nava*). The use (viniyoga) is according to the linga.
+
+##### Anuvāda
+
+The explanation of the fourth chapter of the fifth Aṣṭaka is now begun. The seventh Maṇḍala of the Ṛgveda Saṃhitā has Vasiṣṭha as seer. This Maṇḍala has six anuvākas. Of these, the first two anuvākas, and the first two hymns of the third anuvāka, which has twenty-two hymns, have been explained in the previous chapter. Now this hymn beginning प्र ब्रह्म (*pra brahma*)
+
+### Printed p. 186
+is the third hymn in the third anuvāka. It has nine Ṛks. Its seer is Vasiṣṭha himself, the seer of the Maṇḍala; the deity is the Viśvedevas; the metre is Triṣṭubh. In the Anukramaṇī it is stated as प्र ब्रह्म नव (*pra brahma nava*). The use is according to the linga.
+
+Hymn 36. Maṇḍala 7, Anuvāka 3, Sūkta 36. Aṣṭaka 5, Adhyāya 4, Varga 1, 2. Number of Ṛks in the hymn: 9. Seer: Vasiṣṭha. Deity: Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ब्रह्मै॑तु॒ सद॑नादृ॒तस्य॒ वि र॒श्मिभिः॑ ससृजे॒ सूर्यो॒ गाः ।  
+> वि सानु॑ना पृथि॒वी स॑स्र उ॒र्वी पृ॒थु प्रती॑क॒मध्येधे॑ अ॒ग्निः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ब्रह्म । एतु । सदनात् । ऋतस्य । वि । रश्मिऽभिः । ससृजे । सूर्यः । गाः ।  
+> वि । सानुना । पृथिवी । सस्रे । उर्वी । पृथु । प्रतीकं । अधि । आ । ईधे । अग्निः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य यज्ञस्य सदनात् स्थानाद्देवयजनदेशाद्ब्रह्म स्तोत्रं स्तुत्यान् सूर्यादीन्प्रैतु । प्रकर्षेण गच्छतु । किं तद्ब्रह्मेति तदाह । सूर्यः सर्वस्य प्रेरकः शोभनवीर्यो वा देवो रश्मिभिरात्मीयैः किरणैर्गा अपो वृष्ट्युदकानि वि ससृजे । विसृजति । विमुंचति । प्रवर्षति । श्रूयते हि । याभिरादित्यस्तपति रश्मिभिस्ताभिः पर्जन्यो वर्षतीति । स्मृतिश्च भवति । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजा इति । अत ईदृशं माहात्म्यं सूर्यस्यैव विद्यते नान्यस्य चिदित्यनेन पादेन सूर्यः स्तूयते । अपि च पृथिवी प्रथिता भूमिः सानुना समुच्छ्रितेन पर्वतादिनोर्वी विस्तीर्णा सती वि सस्रे । विसरति । व्याप्नोति । तथाग्निः पृथु विस्तीर्णं प्रतीकं पृथिव्या अवयवं देवयजनलक्षणं स्थानमधि ॥ अधिपरी अनर्थकावित्यधेः कर्मप्रवचनीयसंज्ञायां कर्मप्रवचनीययुक्त इति सप्तम्यर्थे द्वितीया ॥ ईदृशे स्थान ईधे । आदीप्यते ॥
+
+##### Gist of the bhāṣya
+
+From the seat of ṛta, the sacrifice, that is the place of the gods' sacrifice, let the praise (brahma) go forth to the praiseworthy Sūrya and the others. What is that praise? Sūrya, the impeller of all, or the god of fair vigour, sends out with his own rays the "cows", that is the waters, the rain-waters; he lets them loose, he rains. It is heard: "By the rays with which Āditya heats, by those Parjanya rains." And a Smṛti says: "From Āditya arises rain, from rain food, from that creatures." Such greatness belongs to Sūrya alone, to no other; with this pāda Sūrya is praised. Moreover, Pṛthivī, the broad earth, spreads wide with her uplifted ridge, the mountain and the like, pervading. So Agni, on the broad "front" of the earth, a part of it, the place marked as the site of divine worship, is kindled there. अधि (*adhi*) is a karmapravacanīya, and the second case stands in the sense of the seventh. In such a place he is kindled, blazes up.
+
 ---
 
-**Progress note:** Done through printed p. 180. pp. 175-180 (batch API)
+**Progress note:** Done through printed p. 186. pp. 181-186 (batch API)
