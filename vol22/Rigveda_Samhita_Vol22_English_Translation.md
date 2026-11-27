@@ -6545,6 +6545,369 @@ The vast waters offer nurishment to Indra : fierce warriors, (combating) with fo
 
 > आ । धूःऽसु । अस्मै । दधात । अश्वान् । इंद्रः । न । वज्री । हिरण्यबाहुः ॥ ४ ॥
 
+### Printed p. 151
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मै । षष्ठ्यर्थे चतुर्थी । अस्येंद्रस्यागमनायाश्वान् धूर्षु रथस्या दधात । इंद्रो न । नेति चार्थे । इंद्रो वज्री वज्रवान् हिरण्यबाहुर्हिरण्यहस्तश्च भवति ॥ षोडशिनि शस्यमानत्वादस्या ऐंद्रत्वं गम्यते । आ धूर्ष्वस्मा इत्येत्रास्मा इत्यस्य पदस्यानुदात्तत्वं पूर्वस्यामिंद्रस्य प्रकृतत्वात् अत एव पूर्वास्यैंद्रीति विज्ञायते । पूर्वस्यामुस्मै चैस्मा इत्येत्रानुदात्तत्वमल्पीयोऽर्थतरमनुदात्तमिति । तथा च यास्कः । अस्येति चोदात्तं प्रथमादेशेऽनुदात्तमन्यादेशे तीव्रार्थतरमनुदात्तमल्पीयोऽर्थतरमनुदात्तं । नि. ४-२५ । इति । अल्पीयस्त्वं चेदंशब्दप्रवृत्तिनिमित्तस्य संनिधानस्य दूरस्थत्वेनेत्यवगंतव्यं ॥
+
+##### Gist of the bhāṣya
+
+अस्मै (*asmai*) is a dative used in the sense of the genitive. Horses are to be yoked to the yoke-poles of the chariot for the coming of this Indra. Indra is the wielder of the thunderbolt and golden-armed. Because this Ṛk is recited in the Ṣoḍaśin, its Indra-deity is understood. In आ धूर्ष्वस्मा (*ā dhūrṣvasmā*) the word अस्मै (*asmai*) is unaccented, because Indra was the subject of the preceding Ṛk; hence the preceding Ṛk is known to be addressed to Indra. Sāyaṇa quotes Yāska (Ni. 4-25): अस्येति चोदात्तं प्रथमादेशेऽनुदात्तमन्यादेशे तीव्रार्थतरमनुदात्तमल्पीयोऽर्थतरमनुदात्तं । न (*asyeti codāttaṃ prathamādeśe 'nudāttamanyādeśe tīvrārthataramanudāttamalpīyo 'rthataramanudāttaṃ | na*) The "lesser" sense is to be understood from the remoteness of the proximity that is the cause of the use of the word *idaṃ*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रो न (*iṃdro na*)—this Indra also
+- वज्री (*vajrī*)—the bearer of the thunderbolt weapon
+- हिरण्यबाहुः (*hiraṇyabāhuḥ*)—one with golden arms
+- अस्मै (*asmai*)—for the coming of this Indra
+- धूर्षु (*dhūrṣu*)—in the yoke-poles of the chariot
+- अश्वान् (*aśvān*)—the horses
+- आ दधात (*ā dadhāta*)—join and yoke
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra also is the bearer of the thunderbolt weapon and has golden arms. For the coming of this Indra, yoke the horses to the yoke-poles of the chariot.
+
+##### English translation
+Yoke for him the horses of his chariot, for Indra is the wielder of the thunderbolt, the golden-armed.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्र स्था॒ताहे॑व य॒ज्ञं याते॑व॒ पत्म॒न्त्मना॑ हिनोते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्र । स्थात । अहऽइव । यज्ञं । याताऽइव । पत्मन् । त्मना । हिनोत ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्तुतिरियं । हे जनाः यज्ञमभि प्र स्थात । अभिक्रमत । अहेवेति पूरणौ । अपि च पत्मन् पत्मनि यज्ञमार्गे त्मना स्वयमेव यातेव गंतेव हिनोते गच्छत ॥ हि गताविति धातुः ॥
+
+##### Gist of the bhāṣya
+
+This is a praise of the sacrifice. "O people, set out towards the sacrifice, advance." अहेव (*aheva*) is an expletive (pūraṇa). Further, on the path (पत्मन् (*patman*)) of the sacrifice go of your own accord (त्मना (*tmanā*)), as one who goes (यातेव (*yāteva*)). हिनोते (*hinote*) means "go"; the root is हि (*hi*) in the sense of going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञं अभि (*yajñaṃ abhi*)—towards the sacrifice (O sacrificers and the rest)
+- प्र स्थात (*pra sthāta*)—set out
+- पत्मन् (*patman*)—on the path of the sacrifice
+- त्मना (*tmanā*)—by one's own impulse
+- यातेव (*yāteva*)—like a traveller
+- हिनोते (*hinote*)—go
+
+### Printed p. 152
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and the rest, set out towards the sacrifice. As a traveller on the road goes by his own impulse, without the constraint of others, so set out following the path of the sacrifice.
+
+##### English translation
+Proceed to the sacrifice like one who goes along the road ; proceed of your own accord.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्मना॑ स॒मत्सु॑ हि॒नोत॑ य॒ज्ञं दधा॑त के॒तुं जना॑य वी॒रं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्मना । समत्सु । हिनोत । यज्ञं । दधात । केतुं । जनाय । वीरं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तस्यैव विवरणमत्र । हे मदीया जनाः समत्सु संग्रामेषु त्मना स्वयमेव हिनोत । गच्छत । अपि च केतुं प्रज्ञापकं वीरं पापानां वारयितारं । नाशकमित्यर्थः । यज्ञं जनाय लोकाय । तद्रक्षणार्थमित्यर्थः । दधात । विधत्त ॥
+
+##### Gist of the bhāṣya
+
+This is an elaboration of what was said. "O people who are mine, go of your own accord (त्मना (*tmanā*)) into the battles (समत्सु (*samatsu*))." Further, perform (दधात (*dadhāta*), "ordain") for the people, that is, for their protection, the sacrifice, which is केतुं (*ketuṃ*), the making known, and वीरं (*vīraṃ*), the warder-off, that is the destroyer, of sins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समत्सु (*samatsu*)—to the battles (O sacrificers and the rest)
+- त्मना (*tmanā*)—of your own impulse
+- हिनोत (*hinota*)—go
+- केतुं (*ketuṃ*)—that which makes known
+- वीरं (*vīraṃ*)—that which destroys sin
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- जनाय (*janāya*)—for the good of the world
+- दधात (*dadhāta*)—perform
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and the rest, go of your own impulse to the battles. Perform the sacrifice, which makes known and destroys sin, for the good of the world.
+
+##### English translation
+Go of your own accord to battle : celebrate the significant and expiatory sacrifice for (the good of) mankind.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑स्य॒ शुष्मा॑द्भा॒नुर्नार्त॒ बिभ॑र्ति भा॒रं पृ॑थि॒वी न भूम॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अस्य । शुष्मात् । भानुः । न । आर्त । बिभर्ति । भारं । पृथिवी । न । भूम ॥ ७ ॥
+
+### Printed p. 153
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य यज्ञस्य शुष्माद्बलाद्भानुः सूर्य उदार्त । उद्गच्छति । भूम भूतानि पृथिवीव भारं लोकस्यायं यज्ञो बिभर्ति च ॥
+
+##### Gist of the bhāṣya
+
+From the strength (शुष्मात् (*śuṣmāt*)) of this sacrifice the sun (भानुः (*bhānuḥ*)) rises (उदार्त (*udārta*): goes up). This sacrifice also bears the burden of the world, as the earth bears (all) beings (भूम (*bhūma*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this sacrifice
+- शुष्मात् (*śuṣmāt*)—by the strength
+- भानुः (*bhānuḥ*)—the sun
+- उदार्त (*udārta*)—rises and comes
+- भूम (*bhūma*)—all beings
+- पृथिवी न (*pṛthivī na*)—as the earth bears
+- भारं (*bhāraṃ*)—the burden of this world
+- बिभर्ति (*bibharti*)—this sacrifice bears
+
+##### भावार्थ (Bhāvārtha)
+
+By the power of this sacrifice the sun rises. As the earth bears all beings, this sacrifice bears the burden of this world.
+
+##### English translation
+From the force of this (sacrifice) the sun rises : it sustains the burden (of the world) as (earth) supports many (beings).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह्वया॑मि दे॒वा अया॑तुरग्ने॒ साध॑न्नृ॒तेन॒ धियं॑ दधामि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ह्वयामि । देवान् । अयातुः । अग्ने । साधन् । ऋतेन । धियं । दधामि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन्नृचे देवाः स्तूयंते । हे अग्ने अयातुरहिंसादिनियमयुक्तेनर्तेन यज्ञेन साधन्कामान्साधयन् देवान् ह्वयामि । अपि च धियं देवानां परिचरणात्मकं कर्म दधामि । करोमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In this Ṛk the gods are praised. "O Agni, accomplishing (साधन् (*sādhan*)) desires by the sacrifice (ऋतेन (*ṛtena*)) that is endowed with the rule of non-injury and the like (अयातुः (*ayātuḥ*)), I invoke the gods. Further, I perform (दधामि (*dadhāmi*): I do) धियं (*dhiyaṃ*), the work consisting of serving the gods."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अयातुः (*ayātuḥ*)—endowed with the rule of non-injury and the like
+- ऋतेन (*ṛtena*)—by the sacrifice
+- साधन् (*sādhan*)—worshipping
+- देवान् (*devān*)—the gods
+- ह्वयामि (*hvayāmi*)—I pray and call
+- धियं (*dhiyaṃ*)—the work of worship of the gods
+- दधामि (*dadhāmi*)—I accomplish
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, worshipping with a sacrifice endowed with the rule of non-injury and the like, I pray to and call the gods. I accomplish the work of worship of the gods.
+
+##### English translation
+I invoke the gods, Agni, propitiating them by an inoffensive rite, I celebrate a pious act.
+
+### Printed p. 154
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वो॑ दे॒वीं धियं॑ दधिध्वं॒ प्र वो॑ देव॒त्रा वाचं॑ कृणुध्वं
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वः । देवीं । धियं । दधिध्वं । प्र । वः । देवत्रा । वाचं । कृणुध्वं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जनाः वो यूयमभि देवानुद्दिश्य देवीं दीप्तां धियं कर्म दधिध्वं । विधत्त । अपि च वो यूयं देवत्रा देवेषु वाचं स्तुतिरूपां प्र कृणुध्वं । प्रकर्षेण कुरुध्वं ॥
+
+##### Gist of the bhāṣya
+
+"O people, you, directing yourselves to the gods, perform (दधिध्वं (*dadhidhvaṃ*): ordain) the shining (देवीं (*devīṃ*)) work (धियं (*dhiyaṃ*)). Further, you, among the gods (देवत्रा (*devatrā*)), utter (प्र कृणुध्वं (*pra kṛṇudhvaṃ*): make forth, that is, make excellently) speech (वाचं (*vācaṃ*)) in the form of praise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O sacrificers and the rest)
+- अभि (*abhi*)—directed to the gods
+- देवीं (*devīṃ*)—shining
+- धियं (*dhiyaṃ*)—the work
+- दधिध्वं (*dadhidhvaṃ*)—accomplish
+- वः (*vaḥ*)—you
+- देवत्रा (*devatrā*)—in the presence of the gods
+- वाचं (*vācaṃ*)—speech in the form of praise
+- प्र कृणुध्वं (*pra kṛṇudhvaṃ*)—recite abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and the rest, directing yourselves to the gods, accomplish the shining work. In the presence of the gods recite in the best manner speech in the form of praise.
+
+##### English translation
+Offer, (worshippers), your heavenly worship : earnestly address your praises to the gods.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ च॑ष्ट आसां॒ पाथो॑ न॒दीनां॒ वरु॑ण उ॒ग्रः स॒हस्र॑चक्षाः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । चष्टे । आसां । पाथः । नदीनां । वरुणः । उग्रः । सहस्रचक्षाः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रचक्षा बहुचक्षुर्वरुण आसां नदीनां पाथो जलमा चष्टे । अभिपश्यति । कीदृशो वरुणः । उग्र उद्गूर्ण ओजस्वी वा ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, thousand-eyed (many-eyed), looks upon (आ चष्टे (*ā caṣṭe*): surveys) the water (पाथः (*pāthaḥ*)) of these rivers. What is Varuṇa like? He is उग्र (*ugra*): mighty, or full of vigour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रः (*ugraḥ*)—one of exceeding strength
+- सहस्रचक्षाः (*sahasracakṣāḥ*)—one with many eyes
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- आसां नदीनां (*āsāṃ nadīnāṃ*)—of these flowing rivers
+- पाथः (*pāthaḥ*)—the water
+- आ चष्टे (*ā caṣṭe*)—looks upon
+
+### Printed p. 155
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa, of exceeding strength and with many eyes, looks upon the water of these flowing rivers.
+
+##### English translation
+The fierce Varuna, the thousand eyed, contemplates the water of these rivers.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राजा॑ रा॒ष्ट्रानां॒ पेशो॑ न॒दीना॒मनु॑त्तमस्मै क्ष॒त्रं वि॒श्वायु॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राजा । राष्ट्रानां । पेशः । नदीनां । अनुत्तं । अस्मै । क्षत्रं । विश्वआयु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राष्ट्रानां राष्ट्राणां ॥ णत्वाभावश्छांदसः । ईश्वराणामपि वरुणो राजेश्वरो
+> भवति । नदीनां पेशो रूपं रूपकृदसि भवतीत्यर्थः । अस्मै । षष्ठ्यर्थे चतुर्थी ।
+> अस्य वरुणस्य क्षत्रं बलमनुत्तमन्यैरबाधितं विश्वायु सर्वतो गंतृ भवतीति ॥
+
+##### Gist of the bhāṣya
+
+राष्ट्रानां (*rāṣṭrānāṃ*) stands for राष्ट्राणां (*rāṣṭrāṇāṃ*); the absence of the change to ṇa is Vedic usage. Varuṇa is the king, the lord, even of lords. पेशः (*peśaḥ*) is the form of the rivers: he is the maker of their form. अस्मै (*asmai*) is a dative in the sense of the genitive: of this Varuṇa the क्षत्रं (*kṣatraṃ*), strength, is अनुत्तं (*anuttaṃ*), unimpeded by others, and विश्वायु (*viśvāyu*), going everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- राष्ट्रानां (*rāṣṭrānāṃ*)—of all rulers of realms
+- राजा (*rājā*)—is the lord
+- नदीनां (*nadīnāṃ*)—for the rivers
+- पेशः (*peśaḥ*)—is the giver of an attractive form
+- अस्मै (*asmai*)—of this Varuṇa
+- क्षत्रं (*kṣatraṃ*)—the strength
+- अनुत्तमं (*anuttamaṃ*)—is without a second
+- विश्वायु (*viśvāyu*)—is all-pervading
+
+##### भावार्थ (Bhāvārtha)
+
+This god Varuṇa is the lord of all rulers of realms. He is the giver of an attractive form to the rivers. The strength of this Varuṇa is without a second and all-pervading.
+
+##### English translation
+He is the king of kings : the beauty of the rivers : his all-pervading strength is irresistible.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवि॑ष्टो अ॒स्मान्विश्वा॑सु वि॒क्ष्वद्युं॑ कृणोत॒ु शंसं॑ निनि॒त्सोः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविष्टो इति । अस्मान् । विश्वासु । विक्षु । अद्युं । कृणोतु । शंसं । निनित्सोः ॥
+
+### Printed p. 156
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयं वैश्वानरो दैवः । हे देवाः अस्मान् विश्वासु सर्वासु विशु प्रजासु ।
+> अविष्ट उ इति समुदितमविष्टो इति । अविष्ट । रक्षत । शंसं निनित्सोर्निंदितुमिच्छते
+> शत्रोरद्युमदीप्तिं कृणोत । कुरुत च ॥
+
+##### Gist of the bhāṣya
+
+This (Ṛk) is addressed to Vaiśvānara, a divine being. "O gods, protect (अविष्ट (*aviṣṭa*)) us among all (विश्वासु (*viśvāsu*)) peoples (विक्षु (*vikṣu*)). अविष्ट उ (*aviṣṭa u*) combined is अविष्टो (*aviṣṭo*)." Make (कृणोत (*kṛṇota*)) the शंसं (*śaṃsaṃ*) of the enemy who wishes to revile (निनित्सोः (*ninitsoḥ*)) अद्युं (*adyuṃ*), without lustre; and do so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मान् (*asmān*)—us (O gods)
+- विश्वासु (*viśvāsu*)—all
+- विशु (*viśu*)—among the peoples
+- अविष्ट (*aviṣṭa*)—protect
+- निनित्सोः (*ninitsoḥ*)—of the enemy who is a reviler
+- शंसं (*śaṃsaṃ*)—the evil intent
+- आद्युमं (*ādyumaṃ*)—as without power
+- कृणोत (*kṛṇota*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, protect us among all the peoples. Make the evil intent of the reviling enemy powerless.
+
+##### English translation
+Protect us, gods, among all people ; render extinct the calumny of the malevolent.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्ये॑तु दि॒द्युद्द्वि॒षामशे॑वा यु॒योत॒ विष्व॒ग्रप॑स्त॒नूनां॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । एतु । दिद्युत् । द्विषां । अशेवा । युयोत । विष्वक् । रपः । तनूनां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विषां शत्रूणां दिद्युदायुधमशेवासुखकरी विष्वक् सर्वतो व्येतु । अपगच्छतु । तनूनामंगानां रपः पापं देवा युयोत । अस्मत्तः पृथक्कुरुत ॥
+
+##### Gist of the bhāṣya
+
+Let the दिद्युत् (*didyut*), the weapon, of the foes (द्विषां (*dviṣāṃ*): enemies), unauspicious (अशेवा (*aśevā*): giving no comfort), go away (व्येतु (*vyetu*)) on every side (विष्वक् (*viṣvak*)). O gods, युयोत (*yuyota*): separate from us रपः (*rapaḥ*), the sin of our bodies (तनूनां (*tanūnāṃ*): limbs).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विषां (*dviṣāṃ*)—of our enemies
+- अशेवा (*aśevā*)—inauspicious
+- दिद्युत् (*didyut*)—weapons
+- विष्वक् (*viṣvak*)—everywhere
+- व्येतु (*vyetu*)—let them move far away (O gods)
+- तनूनां (*tanūnāṃ*)—of our bodies
+- रपः (*rapaḥ*)—the sin
+- युयोत (*yuyota*)—separate from us
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, let the inauspicious weapons of our enemies move far away from us in every direction. Separate from us the sin committed by our bodies.
+
+##### English translation
+May the blazing (weapons) of foes pass by innocuous ; separate, (gods) universally (from us) the sin of our bodies.
+
 ---
 
-**Progress note:** Done through printed p. 150. pp. 145-150 (batch API)
+**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
