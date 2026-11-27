@@ -6290,6 +6290,152 @@ The invoker (of the gods, Agni), pervades the measured stations (of the altars),
 
 Further, होमनिष्पादकं आह्वातारं वा (*homaniṣpādakaṃ āhvātāraṃ vā*): the accomplisher of the offering by oblations and other offerings, or the one who gives the invitation to the gods. Thus the meanings of the word होतृ (*hotṛ*) are given, since the Hotṛ has two kinds of function. The same view is explained in the Aitareya Brāhmaṇa in the form of a discussion, as follows. It shows the place of the Hotṛ in the sacrifice.
 
+### Printed p. 259
+
+यज्ञो वै देवेभ्य उदक्रामत्तमिष्टिभिः प्रैषमैच्छन्यदिष्टिभिः प्रैषमैच्छंस्तदिष्टीनामिष्टित्वं तमन्विंदन् । अनुवित्तयज्ञो राध्योति य एवं वेद । आहूतयो वै नामैता यदाहुतय एताभिर्वै देवान्यजमानो ह्वयति तदाहुतीनामाहूतित्वं । ऊतयः खलु वै ता नाम याभिर्देना यजमानस्य हवमायंति ये वै पंथानो याः स्रुतयस्टा वा ऊतयस्त उ एवैतत्स्वर्गयाणा यजमानस्य भवंति ॥ (*yajño vai devebhya udakrāmattamiṣṭibhiḥ praiṣamaicchanyadiṣṭibhiḥ praiṣamaicchaṃstadiṣṭīnāmiṣṭitvaṃ tamanviṃdan | anuvittayajño rādhyoti ya evaṃ veda | āhūtayo vai nāmaitā yadāhutaya etābhirvai devānyajamāno hvayati tadāhutīnāmāhūtitvaṃ | ūtayaḥ khalu vai tā nāma yābhirdenā yajamānasya havamāyaṃti ye vai paṃthāno yāḥ srutayasṭā vā ūtayasta u evaitatsvargayāṇā yajamānasya bhavaṃti ‖*) (Ai. Brā. 1-2).
+
+Once the sacrifice went away from the gods. They then recovered it by offering oblations. An āhuti (oblation) is an offering made by calling on the name of a deity. If it is said that the one who offers such oblations is called the Hotṛ, another question arises:
+
+तदाहुर्यदन्यो जुहोत्यथ योऽनु चाह यजति च कस्मात्तं होतेत्याचक्षत इति । यद्वाव स तत्र यथाभाजनं देवता अमुमावहामुमावहेत्यावाहयति तदेव होतुर्होतृत्वं होता भवति । होतेत्येनमाचक्षते य एवं वेद ॥ (*tadāhuryadanyo juhotyatha yo 'nu cāha yajati ca kasmāttaṃ hotetyācakṣata iti | yadvāva sa tatra yathābhājanaṃ devatā amumāvahāmumāvahetyāvāhayati tadeva hoturhotṛtvaṃ hotā bhavati | hotetyenamācakṣate ya evaṃ veda ‖*) (Ai. Brā. 1-2).
+
+Even though the one who makes the offering is one person and the one who gives the invitation to the offering and utters the mantra is another, the question is how the name Hotṛ can be fitting for the one who utters the offering mantra. The answer given is that the reciter of this mantra calls the respective deities in keeping with the measure of each offering, and so the name Hotṛ is right for him also. Then:
+
+मनो नै यज्ञस्य मैत्रावरुणो वाग्यज्ञस्य होता । (*mano nai yajñasya maitrāvaruṇo vāgyajñasya hotā |*) (Ai. Brā. 6-5).
+
+By this sentence the identity of speech, which recites the mantra, with the Hotṛ is stated. And:
+
+सीद होतः स्व उ लोके चिकित्वानित्यग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदीनाभिः.................. (*sīda hotaḥ sva u loke cikitvānityagnirvai devānāṃ hotā tasyaiṣa svo loko yaduttaravedīnābhiḥ..................*) (Ai. Brā. 5-2).
+
+Such sentences address Agni, the accomplisher of the homa, as the Hotṛ of the gods. Therefore in the present Ṛk the word होतारं (*hotāraṃ*) can be explained as होमनिष्पादकं आह्वातारं ना (*homaniṣpādakaṃ āhvātāraṃ nā*). With the words क्रंददश्वः (*kraṃdadaśvaḥ*) and so on, Agni's function as Hotṛ is described.
+
+### Printed p. 260
+
+नक्षत् (*nakṣat*)—व्याप्नोति । (*vyāpnoti |*) (he pervades). Since इन्वति, नक्षति, आक्षाणाः (*invati, nakṣati, ākṣāṇāḥ*) and so on are read among the 10 names of the action of pervading (Ni. 3-10), the word अभिनक्षति (*abhinakṣati*) means: pervade all around, surround.
+
+प्र पर्वता अनवंत प्र गावः प्र ब्रह्माणो अभिनक्षंत इंद्रं । (*pra parvatā anavaṃta pra gāvaḥ pra brahmāṇo abhinakṣaṃta iṃdraṃ |*) (Ṛ. Saṃ. 8-96-5).
+
+सरस्वतीं यां पितरो हवंते दक्षिणा यज्ञमभिनक्षमाणाः ॥ (*sarasvatīṃ yāṃ pitaro havaṃte dakṣiṇā yajñamabhinakṣamāṇāḥ ‖*) (Ṛ. Saṃ. 10-17-9).
+
+In such Ṛks, अभिनक्षंतः (*abhinakṣaṃtaḥ*) and अभिनक्षमाणाः (*abhinakṣamāṇāḥ*) mean: they stood surrounding. Here the meaning is that the sacrificial fire stands pervading the sacrificial dwelling, the Gārhapatya and the rest.
+
+मिता सद्म परियन् नक्षत् (*mitā sadma pariyan nakṣat*)—the word सद्म (*sadma*) is stated among the names of water (Ni. 2-24), among the names of battle (Ni. 3-9), among the names of house (Ni. 3-13), and as सद्मनी (*sadmanī*) among the names of heaven and earth (Ni. 3-22). Here it is used in the sense of a house, a dwelling-place. The meaning described here is that Agni fully pervades his own dwelling-place, called Āhavanīya and Gārhapatya in accordance with his name, constructed according to the order stated in the śāstra.
+
+शरदः पृथिव्याः गर्भमाभरत् (*śaradaḥ pṛthivyāḥ garbhamābharat*)—संवत्सरसंबंधिनं भूम्याश्च संबंधिनं हविर्लक्षणं गर्भस्थानीयमन्नं स्वीकरोति संभरति वा । (*saṃvatsarasaṃbaṃdhinaṃ bhūmyāśca saṃbaṃdhinaṃ havirlakṣaṇaṃ garbhasthānīyamannaṃ svīkaroti saṃbharati vā |*) The word शरत् (*śarat*) means the autumn season: the time in which the herbs (trees, roots and so on) become dry, शरच्छृता आस्यामोषधयो भवंति (*śaracchṛtā āsyāmoṣadhayo bhavaṃti*); or the time in which waters are dried up, शीर्षा आप इति वा (*śīrṣā āpa iti vā*) (Ni. 4 26). The meaning explained is that Agni makes the food, in the form of oblation, which is produced on earth up to the end of the year and dried up in autumn, to be produced, or he receives it.
+
+In the second meaning, वसंते वसंते ज्योतिषा यजेत (*vasaṃte vasaṃte jyotiṣā yajeta*) इति श्रुतेः । (*iti śruteḥ |*) वसंतादिकाले ज्योतिष्टोमादिषु संवत्सरसंबंधिनं दीप्यमानं पार्थिवं हविः भरत् (*vasaṃtādikāle jyotiṣṭomādiṣu saṃvatsarasaṃbaṃdhinaṃ dīpyamānaṃ pārthivaṃ haviḥ bharat*). Since the śruti says that the Jyotiṣṭoma sacrifice is to be performed in the spring season, the meaning described is that, for the performance of the respective sacrifices such as the Jyotiṣṭoma, Agni receives, in the respective seasons stated in the śāstra, such as spring, the radiant oblations produced on earth until the year is complete.
+
+Further, showing the relation of Agni, spring and oblation, the Śatapatha Brāhmaṇa states thus:
+
+तद्यदेतेऽत्रोपदधाति। संवत्सर एषोऽग्निरिमऽउ लोकाः संवत्सरस्त्यस्यायमेव लोकः प्रथमा चितिरयमस्य लोको वसंत ऋतुस्तद्यदेतेऽत्रोपदधाति यदेवास्यैते आत्मनस्तदस्मिन्नेतत्पतिदधाति तस्मादेतेऽत्रोप दधाति ॥ (*tadyadete 'tropadadhāti| saṃvatsara eṣo 'gnirima 'u lokāḥ saṃvatsarastyasyāyameva lokaḥ prathamā citirayamasya loko vasaṃta ṛtustadyadete 'tropadadhāti yadevāsyaite ātmanastadasminnetatpatidadhāti tasmādete 'tropa dadhāti ‖*) (Śa. Brā. 7-4-2-30).
+
+### Printed p. 261
+
+In these sentences the identity of Agni with the year is stated first, and then the identity of the first layer (citi) with spring. And:
+
+यद्वैवैतेऽत्रोपदधाति । प्रजापतिरेषोऽग्निः संवत्सर उ प्रजापतिस्तस्य प्रतिष्ठैव प्रथमा चितिः प्रतिष्ठोऽस्य वसंत ऋतुस्तद्यदेतेऽत्रोपदधाति .........तेऽनंतरहिते विश्वज्योतिष उपदधाति प्रजा वै विश्वज्योतिः........ ... ऋतुभिर्हैव गर्भे संतं संपश्यन्मृतुभिर्जातं ॥ (*yadvaivaite 'tropadadhāti | prajāpatireṣo 'gniḥ saṃvatsara u prajāpatistasya pratiṣṭhaiva prathamā citiḥ pratiṣṭho 'sya vasaṃta ṛtustadyadete 'tropadadhāti .........te 'naṃtarahite viśvajyotiṣa upadadhāti prajā vai viśvajyotiḥ........ ... ṛtubhirhaiva garbhe saṃtaṃ saṃpaśyanmṛtubhirjātaṃ ‖*) (Śa. Brā. 7-4-2-31).
+
+By such sentences the identity of the earth with the year is shown, and it is explained that the oblation and other food produced in the womb of the year is like what is produced in the womb of the earth.
+
+क्रंददश्वः (*kraṃdadaśvaḥ*)—अश्व इव क्रंदति हर्षातिशयात् । (*aśva iva kraṃdati harṣātiśayāt |*) Although the word इव (*iva*), which denotes comparison, is not used in this sentence, it is described that Agni, having received the oblation, makes a sound as a joyful horse neighs.
+
+नयमानः गौः रुवत् (*nayamānaḥ gauḥ ruvat*)—नयन्निंद्राय हनिर्भारं । (*nayanniṃdrāya hanirbhāraṃ |*) It is explained that Agni carries oblations in heaps for Indra. The word गौः (*gauḥ*) is explained as a bull that bears a load, and Agni's sound is compared to that of a rutting bull carrying a burden.
+
+दूतो न रोदसी अंतः वाक् चरन् (*dūto na rodasī aṃtaḥ vāk caran*)—Like a messenger who conveys news to the persons concerned, Agni moves between heaven and earth, either praised by the Ṛtvijs or himself praising the gods; this is explained, and then: हविस्वीकाराय पृथिवीं तत्पाप णाय द्युलोकं च परिभ्रमति (*havisvīkārāya pṛthivīṃ tatpāpa ṇāya dyulokaṃ ca paribhramati*). That is, Agni comes to the earth to receive the oblations and goes to heaven to convey the received oblations to the gods; thus the order of Agni's movement is described. In this movement of Agni the comparison with a news-bearing messenger is expressed.
+
+##### Grammar
+
+- नक्षत् — नक्ष व्याप्तौ धातुः । छांदसं वर्तमानार्थे लज् । प्रथमपुरुषैकवचनांतरूपं । छांदसत्वादडागमो न भवति । पादादित्वान्निघातस्वरो न भवति । लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वरः शिष्यते ।
+- सद्म — षड्ल्य विशरणगत्यवसादनेतु धातुः । औणादिको मसिन् प्रत्ययः । नित्त्वादाद्युदात्तो भवति ।
+
+### Printed p. 262
+
+- यस् — इण् गतौ धातुः । लटः शत्रादेशः । इगो यस् (ष. सू. ६-४-८१) इति यणादेशः । प्रत्ययस्याद्युदात्तस्वरो भवति ।
+- भरत् — हृञ् हरणे धातुः । छांदसं वर्तमानार्थे लज् । प्रथमपुरुषैकवचनांतरूपं । छांदसत्वादडागमो न भवति । हृग्ग्रहोर्भश्चंदसि इति वचनाद्धकारस्य भकारादेशः । पादादित्वान्निघातस्वरो न भवति । शप् पित्त्वाद्धातुस्वरः शिष्यते ।
+- क्रंदत् — क्रदि आह्वाने रोदने च धातुः । लटः शत्रादेशः । इदितोनुम् धातोति इति धातोर्नुमागमः । अथवा पूर्ववच्छांदसं लज् । धातुस्वरः शिष्यते ।
+- नयमानः — णीञ् प्रापणे धातुः । लटः शानचादेशः । शप् विकरणः । धातोर्गुणोऽयादेशः । आनेमुक् (पा. सू. ७-२-८२) इति मुकागमः । ऐ-सार्वधातुकस्य शास्यनुदात्तेत्—सूत्रेणानुदात्तत्वाद्धातुस्वरः शिष्यते ।
+- रुवत् — रु शब्दे धातुः । लटः शत्रादेशः । अचिश्नुधातुभ्रुवां- इत्यनेनोपजादेशः । प्रत्ययस्याद्युदात्तस्वरो भवति ।
+- चरत् — चर गतिभक्षणयोः धातुः । छंदसं वर्तमानार्थे लज् । प्रथमपुरुषैकवचनांतरूपं । बहुलं छंदस्यमाज्‌योगेऽपि इत्यनेनाडागमो न भवति । निघातस्वरो भवति ।
+- वाक् — वच परिभाषणे धातुः । क्विब्वचॆप्रच्छ— (उ. सू. २-२१५) इत्यनेन कर्तरि कर्मणि वा क्विप् प्रत्ययः । दीर्घः । संप्रसारणाभावः । पदांशे कुत्थ ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता क॒र्माष॑तरास्मै॒ प्र च्यौ॒त्नानि॑ देव॒यंतो॑ भरंते ।  
+> जुजो॑ष॒दिंद्रो॑ द॒स्यव॑र्चा॒ नास॑त्येव॒ सुग्मो॑ रथे॒ष्णाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । कर्म । अषतरा । आस्मै । प्र । ज्यौत्नानि । देवयंतः । भरंते ।  
+> जुजोषत् । इंद्रः । दस्यवर्चाः । नासत्याइव । सुग्म्यः । रथेऽस्थाः ॥ ४ ॥
+
+### Printed p. 263
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता शास्त्रषतरार्षतराणि व्याप्ततराणि वा हवींष्यस्मा इंद्राय तदर्थं कर्म।
+> कुर्मः । संपादयामः। कृइश्कांदसे वर्तमानार्थे लुजि मंत्रे घसेति चेर्लुक्। छंदस्युभयथेत्यार्धधातुकत्वेन जित्वाभानाद्गुणः ॥ च्यौत्नानि च्यावयित्रीणि
+> दृढानि स्तोत्राणि कर्माणि स्वकीयानि सामर्थ्य्यानि ना देवयंतो देवानात्मन
+> इच्छंतो यजमानाः प्र भरंते । प्रकर्षण संपादयंति । तद्वद्वयमपि संपाद
+> याम इत्यर्थः । दस्मवर्चा दर्शनीयतेजाः शत्रुपक्षयणबलो ना नासत्येव
+> नासत्याविवाश्विनाविव । तौ हि द्यावापृथिव्यात्मानौ ! ताविव सुग्म्यः सुगम्यः सुखेन
+> गंतुं शक्यो रथेष्णा रथे वर्तमान एवंभूतः सङ्जु जोषत् । अस्मत्कृतं
+> स्तोत्रादि कर्म सेवतां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that those oblations, which are most pervading, we offer to this Indra and for his sake: कर्म (*karma*) means "we do, we accomplish". **NOTE**. च्यौत्नानि (*cyautnāni*) means things that make fall or drive away, firm hymns, deeds, or one's own powers. Worshippers who desire the gods for themselves offer these forth (प्र भरंते (*pra bharaṃte*), "they accomplish in abundance"); in the same way we too accomplish them. दस्मवर्चा (*dasmavarcā*) is one of beautiful radiance, or one whose strength destroys the party of enemies. He is like the Nāsatyas, that is, like the Aśvins, who are of the nature of heaven and earth; like them he is सुग्म्यः (*sugmyaḥ*), easy to approach, one who can be reached with ease, and रथेष्णा (*ratheṣṇā*), standing in his chariot. Being such, may he accept (जुजोषत् (*jujoṣat*)) the hymns and other acts done by us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अषतरा (*aṣatarā*)—flowing abundantly (pervading)
+- ता (*tā*)—those oblations
+- अस्मै (*asmai*)—for this Indra
+- कर्म (*karma*)—let us do (accomplish)
+- देवयंतः (*devayaṃtaḥ*)—the worshippers who desire the gods (their favour)
+- च्यौत्नानि (*cyautnāni*)—firm acts in the form of praise
+- प्र भरंते (*pra bharaṃte*)—(the worshippers) accomplish abundantly
+- दस्यवर्चाः (*dasyavarcāḥ*)—he who is endowed with beautiful radiance, or with strength that destroys enemies
+- नासत्या इव (*nāsatyā iva*)—like the Aśvin deities
+- सुग्म्यः इंद्रः (*sugmyaḥ iṃdraḥ*)—Indra, who is easy to approach
+- रथेष्णाः (*ratheṣṇāḥ*)—seated in the chariot
+- जुजोषत् (*jujoṣat*)—may he accept (our praises and the like)
+
+##### भावार्थ (Bhāvārtha)
+
+Worshippers who long for the favour of the gods perform in abundance such acts as praise. We too, like them, accomplish oblations and the like that are abundant in flow. May Indra, who is beautiful to behold, who like the Aśvin deities goes with ease, and who stands in his chariot, accept our praises and the rest.
+
+##### English translation (H. H. Wilson)
+We offer to him (Indra), the most pious (oblations): the worshippers of the gods present to him substantial (adorations): may he, of conspicuous lustre, standing in his car, and light-moving like the Ashwins, be gratified (by our worship).
+
+##### विशेषविषयगळु (Special Topics)
+
+अषतरा अस्मै कर्म (*aṣatarā asmai karma*)—अर्षतराणि व्याप्ततराणि वा हवींषि इंद्राय सम्यादयामः (*arṣatarāṇi vyāptatarāṇi vā havīṃṣi iṃdrāya samyādayāmaḥ*). The meaning explained is that the sacrificers, in the sacrifice directed to Indra, for obtaining the satisfaction of Indra,
+
+### Printed p. 264
+
+prepare oblations that are abundant, or that pervade for a long time.
+
+चौत्मानि देवयंतः प्रभरंते (*cautmāni devayaṃtaḥ prabharaṃte*)—दृढानि स्तोत्राणि कर्माणि सामर्थ्यानि वा देवानात्मन इच्छंतो यजमानाः प्रकर्षण सम्यादयंति । (*dṛḍhāni stotrāṇi karmāṇi sāmarthyāni vā devānātmana icchaṃto yajamānāḥ prakarṣaṇa samyādayaṃti |*) **NOTE** The word चौत्न (*cautna*) is stated among the names of strength (Ni. 3-9). They may be acts that make enemies leave (drive them away) from their places. Or, because they call the gods, who have heard the hymns recited by the sacrificers, to the neighbourhood of the sacrificers, Sāyaṇa has explained the word चौत्मानि (*cautmāni*) in two ways, as acts or as hymns. The meaning explained is that the sacrificers, who offer oblations in sacrifices directed to the gods and wish to attain the state of gods, perform acts according to their capacity and please the gods with praises.
+
+The author of the Nirukta has read the word चौत्थ (*cauttha*) among the names of strength such as ओजः, पाजः (*ojaḥ, pājaḥ*) (Ni. 3-9).
+
+शव च्यात्मानि वज्रहस्त शानि नव यत्पुरो नवतिं च सद्यः । (*śava cyātmāni vajrahasta śāni nava yatpuro navatiṃ ca sadyaḥ |*) (Ṛ. Saṃ. 7-19-5).
+
+In such Ṛks this word is used as a synonym of strength. And:
+
+तमिच्छात्नैरार्यंति तं कृतेभिश्चर्षणीयः । एष इंद्रो वरिवस्कृत् । (*tamicchātnairāryaṃti taṃ kṛtebhiścarṣaṇīyaḥ | eṣa iṃdro varivaskṛt |*) (Ṛ. Saṃ. 8-16-6).
+
+In such places it is explained as a praise endowed with strength; and:
+
+स यो न मुहे न मिथू जनो भूत्सुमंतु नामा चुमुरिं धुनिं च । वृणक्षिपुं शंबरं शुष्णमिंद्रः पुरां ज्योतिश्चाय तयथाय नू चित् ॥ (*sa yo na muhe na mithū jano bhūtsumaṃtu nāmā cumuriṃ dhuniṃ ca | vṛṇakṣipuṃ śaṃbaraṃ śuṣṇamiṃdraḥ purāṃ jyotiścāya tayathāya nū cit ‖*) (Ṛ. Saṃ. 6-18-8).
+
+In such Ṛks it is explained as a means of destruction endowed with strength; thus the word is to be explained according to the respective contexts. This word is formed from the root च्यु (*cyu*), which has the meaning "shake, make tremble", and so means "possessing a strength that shakes".
+
+दस्यवर्चाः (*dasyavarcāḥ*)—दर्शनीयतेजाः, शत्रूपक्षयणबलो वा। (*darśanīyatejāḥ, śatrūpakṣayaṇabalo vā|*) The word वर्चस् (*varcas*) is stated among the names of food (Ni. 3-9). Sāyaṇa has explained that it is used in the sense of radiance or strength. The meaning described is that Indra has a radiance fit to be seen by all, and has a strength that destroys enemies.
+
+The word दस्म (*dasma*) has two meanings: one, destroyer of enemies; the other, one of beautiful form. If it is formed from the root हसि दर्शनवंशनयोः (*hasi darśanavaṃśanayoḥ*), it means दर्शनीयः (*darśanīyaḥ*), the delightful one; if formed from the root वसु-उपक्षये (*vasu-upakṣaye*), it means the destroyer of enemies, and
+
 ---
 
-**Progress note:** Done through printed p. 258. pp. 253-258 (batch API)
+**Progress note:** Done through printed p. 264. pp. 259-264 (batch API)
