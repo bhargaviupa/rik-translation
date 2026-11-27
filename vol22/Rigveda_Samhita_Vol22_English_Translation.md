@@ -11059,6 +11059,292 @@ Agni, the guest (अतिथिः (*atithiḥ*)) of all, becomes known (आच
 - वार्यं (*vāryaṃ*)—the desired wealth
 - दाति (*dāti*)—gives
 
+### Printed p. 247
+
+##### भावार्थ (Bhāvārtha)
+
+When the venerable Agni is known to be lying at ease in the house of the worshipper who sends forth praise and has oblations, then Agni, well established and well pleased, gives the desired wealth in the sacrificial house to the worshippers who approach him.
+
+##### English translation
+When Agni, reposing at his ease in the dwelling of the liberal worshipper, is welcomed as a guest, thus suitably placed in the hall of sacrifice, he gives well-pleased, desirable (wealth) to the people who approach him.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं नो॑ अग्ने अध्व॒रं जु॑षस्व म॒रुत्स्विंद्रे॑ य॒शसं॑ कृधी नः ।  
+> आ नक्ता॑ ब॒र्हिः स॑दतामु॒षासो॒शंता॑ मि॒त्रावरु॑णा यजे॒ह ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । नः । अग्ने । अध्वरं । जुषस्व । मरुत्सु । इंद्रे । यशसं । कृधि । नः ।  
+> आ । नक्ता । बर्हिः । सदतां । उषसा । उशंता । मित्रावरुणा । यज । इह ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नोऽस्मदीयमिममध्वरं यज्ञं जुषस्व । सेवस्व । किंच
+> मरुत्स्विंद्रस्य सखिभूतेषु देवेष्विंद्रे च यशसं यशोयुक्तं हविर्लक्षणान्नवंतं नोऽस्मदीयं यज्ञं हे अग्ने त्वं कृधि । कुरु । स्थापयेत्यर्थः । तथा
+> नक्ता रात्रिश्चोषसा दिवसश्च । अहर्निशे इत्यर्थः । बर्हिर्बर्हिषि कुशमये आ सदतां ।
+> उपविशतां । अपि च हे अग्ने उशंतोशंतौ यज्ञमिच्छंतौ मित्रावरुणा मित्रावरुणौ देवाविहास्मिन्यज्ञे यज पूजय ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, accept this sacrifice of ours." Further, he asks Agni to make our sacrifice, which has oblation and food, renowned among the Maruts, the friends of Indra, and in Indra: कृधि (*kṛdhi*) means "make, establish". Likewise let Night and Dawn, that is, night and day, sit on the sacred grass made of kuśa. And, O Agni, worship in this sacrifice Mitra and Varuṇa, the two gods who desire the sacrifice (उशंता (*uśaṃtā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- इमं अध्वरं (*imaṃ adhvaraṃ*)—this sacrifice
+- जुषस्व (*juṣasva*)—accept
+- मरुत्सु (*marutsu*)—among the Maruts
+- इंद्रे (*iṃdre*)—and in Indra
+- यशसं (*yaśasaṃ*)—endowed with oblation
+- नः (*naḥ*)—our sacrifice
+- कृधि (*kṛdhi*)—establish
+- नक्ता (*naktā*)—the goddess of night
+- उषसा (*uṣasā*)—the goddess of day
+- बर्हिः (*barhiḥ*)—upon our grass seat
+- आ सदतां (*ā sadatāṃ*)—let them sit
+- उशंता (*uśaṃtā*)—desiring a share of the sacrifice
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- इह (*iha*)—in this sacrifice
+- यज (*yaja*)—worship
+
+### Printed p. 248
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, accept this sacrifice of ours. Establish our sacrifice, with its oblation, among the Maruts and in Indra. Let the goddess of night and the goddess of day sit on our grass seat. O Agni, worship in this sacrifice Mitra and Varuṇa, who desire a share of the sacrifice.
+
+##### English translation
+Be gratified, Agni, by this our sacrifice : render our (worship) renowned among Indra and the Maruts : let the days and nights sit down on the sacred grass : worship (Agni), at this rite, Mitra and Varuna, desiring (the oblation).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वाग्निं स॑ह॒स्यं१॒॑ वसि॑ष्ठो रा॒यस्का॑मो वि॒श्वप्स्न्य॑स्य स्तौत् ।  
+> इषं॑ र॒यिं प॑प्रथ॒द्वाज॑म॒स्मे यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । अग्निं । सहस्यं । वसिष्ठः । रायःकामः । विश्वप्स्न्यस्य । स्तौत् ।  
+> इषं । रयिं । पप्रथत् । वाजं । अस्मे इति । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसिष्ठ एतदाख्य ऋषी रायस्कामः पश्वादिधनानीच्छन्नेवमुक्तप्रकारेण
+> सहस्यं । सहो बलं । तस्य पुत्रं । तद्वंतमिति वा । अग्निं देवं विश्वप्स्न्यस्य पुरुरूपस्य धनस्य लाभाय स्तौत् । एवंभूतोऽग्निरस्मे अस्मभ्यमिषमन्नं रयिं धनं
+> वाजं बलं च पप्रथत् । प्रथयतु । विस्तारयतु । ददात्वित्यर्थः । अस्मिन्सूक्ते प्रतिपादिताः सर्वे देवाः यूयमस्मान्कल्याणैः सर्वदा पालयत ॥
+
+##### Gist of the bhāṣya
+
+The seer Vasiṣṭha, desiring wealth (रायस्कामः (*rāyaskāmaḥ*)), that is, cattle and other riches, praised in the manner stated the god Agni, सहस्यं (*sahasyaṃ*) ("son of strength", *sahaḥ* being strength; or "possessed of strength"), for the gaining of manifold wealth (विश्वप्स्न्यस्य (*viśvapsnyasya*)). May Agni, thus praised, spread out and give us food, wealth and strength (पप्रथत् (*paprathat*) = let him extend, let him give). And all the gods who are set forth in this sūkta: "Protect us always with blessings."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठः (*vasiṣṭhaḥ*)—the seer Vasiṣṭha
+- रायस्कामः (*rāyaskāmaḥ*)—desiring wealth
+- एव (*eva*)—in this manner
+- सहस्यं (*sahasyaṃ*)—the son of strength
+- अग्निं (*agniṃ*)—Agni
+- विश्वप्स्न्यस्य (*viśvapsnyasya*)—for the gaining of manifold wealth
+- स्तौत् (*staut*)—praised
+- (such Agni) अस्मे (*asme*)—to us
+- इषं (*iṣaṃ*)—food
+- रयिं (*rayiṃ*)—wealth
+- वाजं (*vājaṃ*)—strength
+- पप्रथत् (*paprathat*)—let him give abundantly
+- (O gods) यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 249
+
+##### भावार्थ (Bhāvārtha)
+
+The seer Vasiṣṭha, desiring wealth, praised as described above Agni, the son of strength, for the gaining of wealth of many forms. May Agni, thus praised, extend to us and give abundant wealth, food and strength. O gods, protect us always with blessings.
+
+##### English translation
+Thus has Vasishtha, wishing for riches, glorified the vigorous Agni for the sake of every sort of wealth : may he bestow upon us food, riches, strength : and do you, (gods), ever cherish us with blessings.
+
+## Sūkta 43 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वो यज्ञेष्विति पंचर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वदेवं । प्र वः पंचेत्यनुक्रांतं ॥ सूक्तविनियोगो लैंगिकः ॥ प्रथमे छंदोमे प्रउगशस्त्रे प्र वो यज्ञेष्विति वैश्वदेवस्यृचः । सूत्रितं च । प्र वो यज्ञेषु देवयंतो अर्चन् प्र क्षोदसा धायसा सस्र एषेति प्रउगं । आ. ८-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+This tenth sūkta, "प्र वो यज्ञेषु (*pra vo yajñeṣu*)", of five verses, has Vasiṣṭha as seer, the Viśvedevas as deity and Triṣṭubh as metre; the Anukramaṇī says "pra vaḥ pañca". Its use in the ritual (viniyoga) is Laiṅgika (by indication). In the first chandoma, in the Prauga-śastra, the verse beginning "प्र वो यज्ञेषु (*pra vo yajñeṣu*)" is a Vaiśvadeva verse. This is stated in the sūtra beginning प्र वो यज्ञेषु देवयंतो (*pra vo yajñeṣu devayaṃto*) (Ā. 8-9).
+
+##### Anuvāda
+
+This sūkta beginning "प्र वो यज्ञेषु (*pra vo yajñeṣu*)" is the tenth sūkta in the third anuvāka. It has five ṛks. Its seer is Vasiṣṭha, its deity the Viśvedevas, its metre Triṣṭubh. In the Anukramaṇī it is said "pra vaḥ pañca". The use of the sūkta is Laiṅgika. In the first chandoma, when the mantras of the Prauga-śastra are recited, the three verses beginning "प्र वो यज्ञेषु (*pra vo yajñeṣu*)" are to be recited as the Vaiśvadeva ṛc; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra (Ā. 8-9) beginning "pra vo yajñeṣu devayanto arcan pra kṣodasā dhāyasā sasra eṣā iti prauga".
+
+##### Particulars
+
+- Sūkta—43
+- Maṇḍala 7; Anuvāka 3; Sūkta 43
+- Aṣṭaka 5; Adhyāya 4; Varga 10
+- Number of ṛks in the sūkta—5
+- Ṛṣi—Vasiṣṭha
+- Devatā—Viśve Devāḥ
+- Chandas—Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ य॒ज्ञेषु॑ देव॒यंतो॑ अर्च॒न्द्यावा॒ नमो॑भिः पृथि॒वी इ॒षध्यै॑ ।
+
+### Printed p. 250
+
+> येषां ब्रह्माण्यसमानि विप्रा विष्वग्वियंति वनिनो न शाखाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । यज्ञेषु । देवयंतः । अर्चन् । द्यावा । नमःभिः । पृथिवी इति । इषध्यै ।  
+> येषां । ब्रह्माणि । असमानि । विप्राः । विष्वक् । वियंति । वनिनः । न । शाखाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवयंतो देवान्कामयमाना विप्रा यज्ञेषु नमोभिः स्तुतिभिर्हविर्भिर्वा वो युष्मानिषध्यै अभिप्राप्तुं प्रार्चन् । प्रार्चयंति । प्रकर्षेण स्तुवंति । द्यावा दिवं च पृथिवी भूमिं च प्रस्तुवंति । येषां विप्राणां मेधाविनां ब्रह्माणि
+> स्तोत्राणि वनिनो न शाखा वृक्षस्य शाखा इव विष्वग्श्वतो वियंति । गच्छंति । ते
+> विप्राः प्रार्चन्निति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The sages (विप्रा (*viprā*)), desiring the gods (देवयंतः (*devayaṃtaḥ*)), at sacrifices praise you intensely with नमोभिः (*namobhiḥ*), that is, with praises or with oblations, in order to reach you (इषध्यै (*iṣadhyai*)). They also praise heaven and earth. These are the wise sages whose ब्रह्माणि (*brahmāṇi*), that is, hymns of praise, go forth in every direction like the branches of a tree. The connection is with the earlier part: "those sages praised".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) येषां (*yeṣāṃ*)—of whichever praiser
+- असमानि (*asamāni*)—extraordinary
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- वनिनः (*vaninaḥ*)—of a tree
+- शाखाः न (*śākhāḥ na*)—like branches
+- विष्वक् (*viṣvak*)—everywhere
+- वियंति (*viyaṃti*)—spread
+- देवयंतः (*devayaṃtaḥ*)—those who seek the favour of the gods
+- विप्राः (*viprāḥ*)—the wise worshippers (praisers)
+- यज्ञेषु (*yajñeṣu*)—at sacrifices
+- नमोभिः (*namobhiḥ*)—together with oblations
+- वः (*vaḥ*)—you
+- इषध्यै (*iṣadhyai*)—in order to approach
+- प्रार्चन् (*prārcan*)—praise exceedingly
+- द्यावा (*dyāvā*)—the heavenly world
+- पृथिवीं (*pṛthivīṃ*)—the earth, they praise
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, those praisers whose extraordinary hymns spread everywhere like the branches of a tree, who seek the favour of the gods and are wise, praise you exceedingly at sacrifices, with oblations, in order to approach you. They praise heaven and earth also.
+
+##### English translation
+Devout worshippers seek to attain you, gods, by praises at sacrifices : they (worship) the heaven and earth, they of whom the diversified adorations spread everywhere like the branches of trees.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र य॒ज्ञ ए॑तु॒ हेत्वो॒ न सप्ति॒रुद्य॑च्छध्वं॒ सम॑नसो घृ॒ताचीः॑ ॥
+
+### Printed p. 251
+
+> स्तृणीत बर्हिरध्वराय साधूर्ध्वा शोचींषि देवयून्यस्थुः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यज्ञः । एतु । हेत्वः । न । सप्तिः । उत् । यच्छध्वं । समनसः । घृताचीः ।  
+> स्तृणीत । बर्हिः । अध्वराय । साधु । ऊर्ध्वा । शोचींषि । देवयूनि । अस्थुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमस्मदीयो यज्ञः प्रैतु । देवान्प्रति गच्छतु । तत्र दृष्टांतः । हेत्वो न सप्तिः शीघ्रगाम्यश्वो यथा तद्वत् । हे ऋत्विजः सर्वे यूयं समनसः
+> सदृशमनस्काः संतो घृताचीः स्रुच उद्यच्छध्वं । हस्त उद्यम्य धारयत । तथाध्वराय योगं कर्तुं साधु साधकं बर्हिः कुशमयं स्तृणीत । वेद्यां छादयत । हे अग्ने देवयूनि देवान्कामयमानानि त्वदीयानि शोचींष्यर्चींष्यूर्ध्वोर्ध्वमुखान्यस्थुः । तिष्ठंतु ॥
+
+##### Gist of the bhāṣya
+
+Let this sacrifice of ours go forth, go towards the gods. An illustration: like a swift-going horse (हेत्वो न सप्तिः (*hetvo na saptiḥ*)). O priests, all of you, being of one mind, lift up the ladles (घृताचीः (*ghṛtācīḥ*)) and hold them raised in the hand. Likewise, to perform the sacrifice (अध्वराय (*adhvarāya*)), spread the effective grass made of kuśa, cover the altar. O Agni, let your flames (शोचींषि (*śocīṃṣi*)), which desire the gods (देवयूनि (*devayūni*)), stand upward-facing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञः (*yajñaḥ*)—our sacrifice
+- हेत्वः (*hetvaḥ*)—swift-going
+- सप्तिः न (*saptiḥ na*)—like a horse
+- प्र एतु (*pra etu*)—let it quickly go and reach the gods
+- (O priests) समनसः (*samanasaḥ*)—all of you, being of one mind
+- घृताचीः (*ghṛtācīḥ*)—the ladle-vessel
+- उद्यच्छध्वं (*udyacchadhvaṃ*)—lift up
+- अध्वराय (*adhvarāya*)—for the performance of the sacrifice
+- साधु (*sādhu*)—effective for it
+- बर्हिः (*barhiḥ*)—the grass seat
+- स्तृणीत (*stṛṇīta*)—spread on the altar
+- (O Agni) देवयूनि (*devayūni*)—desiring the gods
+- शोचींषि (*śocīṃṣi*)—your flames
+- ऊर्ध्वा (*ūrdhvā*)—upward-facing
+- अस्थुः (*asthuḥ*)—let them rise and stand
+
+##### भावार्थ (Bhāvārtha)
+
+Let our sacrifice go quickly and reach the gods, like a swift-going horse. O priests, all of you, being of one mind, lift up and hold the ladle-vessel. For the performance of the sacrifice, spread the effective grass seat on the altar. O Agni, let your flames, which desire the gods, rise and stand upward-facing.
+
+##### English translation
+Let the sacrifice proceed like a swift courser (to the gods) : elevate, (priests), with one accord, your ladles, charged with butter : spread for the solemnity the sacred grass : let the flames (of the burnt-offering) to the gods ascend on high.
+
+### Printed p. 252
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ पु॒त्रासो॒ न मा॒तरं॒ विभृ॑त्राः॒ सानौ॑ दे॒वासो॑ ब॒र्हिषः॑ सदंतु ।  
+> आ वि॒श्वाची॑ विद॒थ्या॑मन॒क्त्वग्ने॒ मा नो॑ दे॒वता॑ता॒ मृध॑स्कः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पुत्रासः । न । मातरं । विभृत्राः । सानौ । देवासः । बर्हिषः । सदंतु ।  
+> आ । विश्वाची । विदथ्यां । अनक्तु । अग्ने । मा । नः । देवताता । मृधः । करिति कः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मातरं जननीं विभृत्रा विशेषेण भर्तव्याः पुत्रासो न पुत्रा इव तद्वदस्माकं भरणीया देवासो देवा बर्हिषः कुशमयस्य वेद्यामास्तीर्णस्य सानावुन्नते
+> देश आ सदंतु । उपविशंतु । हे अग्ने विदथ्यां यज्ञयोग्यां त्वदीयां ज्वालां
+> विश्वाची । विश्वं सर्वं हविरंचति गच्छतीति विश्वाची जुहूः । अनक्तु । आ समंतात्सिंचतु । देवताता देवतातौ युद्धे नोऽस्माकं मृधो हिंसकान् हे अग्ने त्वं
+> मा कः । मा कार्षीः । यज्ञवाचको देवतातिशब्दोऽत्र संग्रामे वर्तते ॥
+
+##### Gist of the bhāṣya
+
+Like sons who are specially borne (विभृत्रा (*vibhṛtrā*)) by the mother, so let the gods, who are to be borne by us, sit down on the elevated place (सानौ (*sānau*)) of the altar spread with grass made of kuśa. O Agni, let the विश्वाची (*viśvācī*), which goes (*aṃcati*) to all (विश्वं (*viśvaṃ*)) oblation, that is, the Juhū ladle, pour on every side your flame (विदथ्यां (*vidathyāṃ*)), which is fit for the sacrifice. O Agni, in the देवताता (*devatātā*), in battle, do not bring (मा कः (*mā kaḥ*)) upon us मृधः (*mṛdhaḥ*), harmers. The word देवताति (*devatāti*), which denotes sacrifice, here stands for battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरं (*mātaraṃ*)—on the lap of the mother who bore them
+- विभृत्राः (*vibhṛtrāḥ*)—exceedingly borne
+- पुत्रासो न (*putrāso na*)—like sons
+- देवासः (*devāsaḥ*)—the gods who are borne by us
+- बर्हिषः (*barhiṣaḥ*)—of the grass seat
+- सानौ (*sānau*)—on the elevated place
+- आ सदंतु (*ā sadaṃtu*)—let them sit
+- अग्ने (*agne*)—O Agni
+- विदथ्यां (*vidathyāṃ*)—in your flame, fit for worship
+- विश्वाची (*viśvācī*)—the Juhū vessel that pours all oblations
+- आ अनक्तु (*ā anaktu*)—let it pour the oblation
+- (O Agni) देवताता (*devatātā*)—in battle
+- नः (*naḥ*)—to us
+- मृधः (*mṛdhaḥ*)—harmers
+- मा कः (*mā kaḥ*)—do not produce
+
+##### भावार्थ (Bhāvārtha)
+
+Like sons exceedingly borne on the lap of the mother who bore them, let the gods, who are borne by us, sit on the elevated part of the grass seat. O Agni, let the Juhū vessel, which pours all oblations, pour the oblation into your flame, which is fit for worship. O Agni, do not produce harmers for us in battle.
+
+##### English translation
+Let the gods sit down on the summit of the sacred grass, like the children nursed on the (lap of the) mother : let the full ladle, Agni, pour
+
 ---
 
-**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
+**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
