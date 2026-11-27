@@ -9419,6 +9419,271 @@ Whom the divine Aditi, delighting at the birth of the divine Savitri, glorifies,
 
 The sacrificers who are rātiṣāc, devoted to giving, vanuṣaḥ, sharers (worshippers), gathered together (mithaḥ, with one another), direct themselves to Savitṛ and serve him (सपंते (*sapaṃte*)). What is he like? A friend to the gift (rāti) of heaven and of earth. And also Ahirbudhnya: budhna is the atmosphere, one who is in the budhna is budhnya; एतीत्यहिः (*etītyahiḥ*). The deity of the middle region, Agni, denoted by these two words, is called Ahirbudhnya.
 
+### Printed p. 211
+
+> सवितुर्मित्रभूतः सोऽपि तेषां नोऽस्माकं सवितृविषयं स्तोत्रं शृणोतु । तथा वरूत्री वाग्देवी च सवितृसहिता सत्येकधेनुभिर्मुख्याभिर्गोभिर्नि पातु । नितरामस्मान्पालयतु ॥
+
+##### Gist of the bhāṣya
+
+The one who is a friend of Savitṛ (Ahirbudhnya) also hears our praise addressed to Savitṛ. Likewise Varūtrī, the goddess of speech, together with Savitṛ, protects us with the principal cows; let her guard us completely.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the heaven-world
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- रातिं (*rātiṃ*)—Savitṛ, the friend
+- रातिषाचः (*rātiṣācaḥ*)—those who attend to giving
+- वनुषः (*vanuṣaḥ*)—those who enjoy what he has given
+- ये (*ye*)—which sacrificers
+- मिथः (*mithaḥ*)—gathering together
+- अभि सपंते (*abhi sapaṃte*)—serve
+- नः (*naḥ*)—such praise of ours
+- शृणोतु (*śṛṇotu*)—may Savitṛ hear
+- उत (*uta*)—and
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—may the god Ahirbudhnya also hear
+- वरूत्री (*varūtrī*)—the protecting goddess of speech
+- एकधेनुभिः (*ekadhenubhiḥ*)—together with the principal cows
+- नि पातु (*ni pātu*)—may she protect us
+
+##### भावार्थ (Bhāvārtha)
+
+May Savitṛ hear the praise of us sacrificers who, enjoying the wealth given by Savitṛ, gather together and serve Savitṛ, the friend of heaven and earth. May the god Ahirbudhnya also hear it. And may the protecting goddess of speech, with the principal cows, protect us.
+
+##### English translation
+Whom those solicitous for wealth, those enjoying (it), mutually worship, the benefactor of heaven and earth : may Ahirbhudhnya hear us : may the protectress, (the goddess of speech), cherish us with excellent cattle.
+
+#### Ṛk 6
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ तन्नो॒ जास्पति॑र्मंसीष्ट॒ रत्नं॑ दे॒वस्य॑ सवि॒तुरि॑या॒नः ।  
+> भग॑मु॒ग्रोऽव॑से॒ जोह॑वीति॒ भग॒मनु॑ग्रो॒ अध॑ याति॒ रत्नं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । तत् । नः । जाःपतिः । मंसीष्ट । रत्नं । देवस्य । सवितुः । इयानः ।  
+> भगं । उग्रः । अवसे । जोहवीति । भगं । अनुग्रः । अध । याति । रत्नं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयानोऽस्माभिर्याच्यमानो जास्पतिः प्रजानां पालकः सविता देवः सवितुर्देवस्य स्वस्य संबंधि रत्नं रमणीयं तत्प्रसिद्धं धनं नोऽस्माकमनु मंसीष्ट । अनुमन्यतां । उग्र ओजस्वी स्तोता भगं भजनीयं सवितारं भगसंज्ञकं देवं वा-
+
+### Printed p. 212
+
+> वसे नोऽस्माकं रक्षणाय जोहवीति । भृशं ह्वयति । अथापि चानुग्रोऽसमर्थः स्तोता भगमेतत्संज्ञकं सवितारं वा रत्नं रमणीयं तत्प्रसिद्धं धनं याति । याचते ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the protector of progeny, being besought by us, is to grant us the desirable wealth that belongs to himself, the god Savitṛ; अनु मंसीष्ट (*anu maṃsīṣṭa*) means "let him consent". The mighty (energetic) praiser repeatedly and intensely calls on Bhaga, the adorable Savitṛ, or the god named Bhaga, for our protection. And the incapable praiser too begs for that desirable wealth from Bhaga or Savitṛ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयानः (*iyānaḥ*)—the one besought by us
+- जास्पतिः (*jāspatiḥ*)—Savitṛ, protector of progeny
+- देवस्य सवितुः (*devasya savituḥ*)—of himself, the divine one
+- रत्नं (*ratnaṃ*)—attractive
+- तत् (*tat*)—well-known wealth
+- नः (*naḥ*)—to us
+- अनु मंसीष्ट (*anu maṃsīṣṭa*)—may he provide
+- उग्रः (*ugraḥ*)—the brilliant praiser
+- भगं (*bhagaṃ*)—the venerable god Bhaga
+- अवसे (*avase*)—for our protection
+- जोहवीति (*johavīti*)—calls many times
+- अथ (*atha*)—and
+- अनुग्रः (*anugraḥ*)—the incapable praiser
+- भगं (*bhagaṃ*)—Bhaga
+- रत्नं (*ratnaṃ*)—wealth
+- याति (*yāti*)—begs
+
+##### भावार्थ (Bhāvārtha)
+
+May Savitṛ, besought by us and the protector of progeny, provide us with his own attractive wealth, he being of divine nature. The brilliant praiser calls the venerable god Bhaga many times for our protection. The incapable praiser begs wealth from the god Bhaga.
+
+##### English translation
+May the protector of progeny, when solicited, consent to bestow upon us the precious (wealth) of the divine Savitri : the ardent (adorer) invokes repeatedly Bhaga for protection ; the less ardent solicits Bhaga for wealth.
+
+#### Ṛk 7
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ भवंतु वा॒जिनो॒ हवे॑षु दे॒वता॑ता मि॒तद्र॑वः स्व॒र्काः ।  
+> जं॒भयं॒तोऽहिं॒ वृकं॒ रक्षां॑सि॒ सने॑म्य॒स्मद्यु॑यव॒न्नमी॑वाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । भवंतु । वाजिनः । हवेषु । देवताता । मितद्रवः । सुअर्काः ।  
+> जंभयंतः । अहिं । वृकं । रक्षांसि । सनेमि । अस्मत् । युयवन् । अमीवाः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वदेवे पर्वणि वाजिनस्य हविषः शं नो भवंत्वित्यादिके द्वे याज्यानुवाक्ये । सूत्रितं च । शं नो भवंतु वाजिनो हवेषु वाजेवाजेऽवत वाजिनो न इत्यूर्ध्वज्ञुरनवासं याज्यां । आ. २-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+At the Vaiśvadeva parvan, for the offering to Vājin, these two verses beginning शं नो भवंतु (*śaṃ no bhavaṃtu*) are the yājyā and anuvākyā. It is prescribed by the sūtra: शं नो भवंतु वाजिनो हवेषु वाजेवाजेऽवत वाजिनो न इत्यूर्ध्वज्ञुरनवासं याज्यां (*śaṃ no bhavaṃtu vājino haveṣu vājevāje 'vata vājino na ityūrdhvajñuranavāsaṃ yājyāṃ*) (Ā. 2-17).
+
+### Printed p. 213
+
+> देवताता देवतातौ यज्ञे हवेष्वस्मदीयेषु स्तोत्रेषु मितद्रवो मितद्रवणा मितमार्गाः स्वर्काः शोभनान्ना वाजिन एतदभिधायका देवा नोऽस्माकं शं सुखाय भवंतु । अपि चाहिमार्गस्य हंतारं वृकं वसूनामादातारं । चोरमिति शेषः । रक्षांसि च जंभयंतो हिंसंतो वाजिनो देवाः सनेमि । पुराणनाम्नैतत् । पुरातना अमीवा रोगानस्मदस्मत्तो युयवन् । पृथक्कुर्वंतु ॥
+
+##### Gist of the bhāṣya
+
+In the sacrifice, at our invocations (praises), the gods called Vājins, of restrained paths, bringing good food, are to be for our happiness. Destroying the serpent-like path-obstructor, the wolf (a thief, taking away riches) and the Rākṣasas, may the Vājins keep the ancient diseases away from us; सनेमि (*sanemi*) is an old word meaning "ancient".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवताता (*devatātā*)—in the sacrifice
+- हवेषु (*haveṣu*)—while our praise is being recited
+- मितद्रवः (*mitadravaḥ*)—those with regulated paths
+- स्वर्काः (*svarkāḥ*)—those with excellent food
+- वाजिनः (*vājinaḥ*)—the powerful gods
+- नः (*naḥ*)—of us
+- शं (*śaṃ*)—for happiness
+- भवंतु (*bhavaṃtu*)—may they be
+- अहिं (*ahiṃ*)—the path-obstructor
+- वृकं (*vṛkaṃ*)—the greedy thief
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- जंभयंतः (*jaṃbhayaṃtaḥ*)—the gods who destroy
+- सनेमि (*sanemi*)—ancient
+- अमीवाः (*amīvāḥ*)—diseases
+- अस्मत् (*asmat*)—from us
+- युयवन् (*yuyavan*)—may they separate
+
+##### भावार्थ (Bhāvārtha)
+
+May the gods, of regulated paths, possessing excellent food and powerful, be for our happiness while praise is being recited in the sacrifice. May the gods who destroy the path-obstructing, greedy thief and the Rākṣasas separate the ancient diseases from us.
+
+##### English translation
+May the Vajins, with slackened speed, bringing excellent food, be (disposed) for our happiness, upon our invocations at the worship of the gods: destroying the murderer, the robber, the Rakshas and keeping from us ancient maladies.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Vaiśvadeva parvan, in the offering of oblation made to the deity called Vāji, this Ṛk शं नो भवंतु (*śaṃ no bhavaṃtu*) and the Ṛk following it are to be recited as yājyā and anuvākyā respectively, as elaborated by the sūtra of the Āśvalāyana Śrauta Sūtra शं नो भवंतु वाजिनो हवेषु वाजेवाजेऽवत वाजिनो न इत्यूर्ध्वज्ञुरनवासं याज्यां (*śaṃ no bhavaṃtu vājino haveṣu vājevāje 'vata vājino na ityūrdhvajñuranavāsaṃ yājyāṃ*) (Ā. 2-17).
+वाजिनः (*vājinaḥ*)—For the word वाजिन् (*vājin*) Yāska gives the meaning वाजी वेजनवान् (*vājī vejanavān*) (Ni. 2-28), a horse with swift motion. In the present Ṛk the word वाजिनः (*vājinaḥ*) is nominative plural and indicates gods named Vājis. This word has another meaning also, "rays". To explain the word वाजिनः (*vājinaḥ*) Yāska takes this very Ṛk as an example and gives its Nirukta:
+
+### Printed p. 214
+शं नो भवंतु ऎंब ई ऋक्कन्नू इदर मुंदिन ऋक्कन्नू क्रमवागि याज्या मत्तु अनुवाक्यामंत्रगळन्नागि पठिसबेकॆंदु आश्वलायनश्रौतसूत्रद शं नो भवंतु वाजिनो हवेषु वाजेवाजेऽवत वाजिनो न इत्यूर्ध्वज्ञुरनवासं याज्यां ऎंब सूत्रदिंद (आ. २-१७) विस्तृतवागिरुवुदु. वाजिनः—वाजिन् शब्दक्कॆ यास्करु वाजी वेजनवान् (नि. २-२८) वेगमनवुळ्ळ अश्ववु ऎंदु अर्थविवरणॆमाडिद्दारॆ. प्रकृत ऋक्किनल्लि वाजिनः ऎंब शब्दवु प्रथमाबहुवचनांतवागिद्दु वाजिगळॆंब हॆसरिन देवतॆगळन्नु सूचिसुवुदु. ई शब्दक्कॆ रश्मिगळु ऎंब इन्नॊंदु अर्थवू इरुवुदु. वाजिनः ऎंब शब्दद अर्थवन्नु विवरिसुवुदक्कागि यास्करु प्रकृत ऋक्कन्ने उदाहरणॆयागि तॆगॆदुकॊंडु अदक्कॆ निरुक्तवन्नु हेळिद्दारॆ.— शं नो भवंतु वाजिनो ह्वानेषु देवतातौ यज्ञे मितद्रवः सुमितद्रवः । स्वर्काः स्वंचना इति वा स्वर्चना इति वा स्वर्चिष इति वा । जंभयंतोऽहिं च वृकं च रक्षांसि च क्षिप्रमस्मद्यावयंत्वमीवा देवाश्वा इति वा ॥ (*śaṃ no bhavaṃtu èṃba ī ṛkkannū idara muṃdina ṛkkannū kramavāgi yājyā mattu anuvākyāmaṃtragaḷannāgi paṭhisabekèṃdu āśvalāyanaśrautasūtrada śaṃ no bhavaṃtu vājino haveṣu vājevāje 'vata vājino na ityūrdhvajñuranavāsaṃ yājyāṃ èṃba sūtradiṃda (ā. 2-17) vistṛtavāgiruvudu. vājinaḥ—vājin śabdakkè yāskaru vājī vejanavān (ni. 2-28) vegamanavuḷḷa aśvavu èṃdu arthavivaraṇèmāḍiddārè. prakṛta ṛkkinalli vājinaḥ èṃba śabdavu prathamābahuvacanāṃtavāgiddu vājigaḷèṃba hèsarina devatègaḷannu sūcisuvudu. ī śabdakkè raśmigaḷu èṃba innòṃdu arthavū iruvudu. vājinaḥ èṃba śabdada arthavannu vivarisuvudakkāgi yāskaru prakṛta ṛkkanne udāharaṇèyāgi tègèdukòṃḍu adakkè niruktavannu heḷiddārè.— śaṃ no bhavaṃtu vājino hvāneṣu devatātau yajñe mitadravaḥ sumitadravaḥ | svarkāḥ svaṃcanā iti vā svarcanā iti vā svarciṣa iti vā | jaṃbhayaṃto 'hiṃ ca vṛkaṃ ca rakṣāṃsi ca kṣipramasmadyāvayaṃtvamīvā devāśvā iti vā ‖*) (Ni. 12-44)
+The word वाजिन् (*vājin*) means a horse of swift motion or a divine horse. Since the word वाजिनः (*vājinaḥ*) is plural here, it means extremely swift divine horses or gods. देवतातौ (*devatātau*) means in the sacrifice.
+मितद्रवः (*mitadravaḥ*), सुमितद्रवः (*sumitadravaḥ*), मितद्रवणा (*mitadravaṇā*), मितमार्गाः (*mitamārgāḥ*): ordinarily a horse is under the charge of the charioteer, so its speed has a limit according to the charioteer's wish; it must go slowly or quickly as he likes. So its speed is limited, that is, subject to regulation. Or, as the Bhāṣyakāra says, मितमार्गाः (*mitamārgāḥ*): it must go only on a fixed path, that is, the path the charioteer likes. So the word मितमार्ग (*mitamārga*) or मितद्रवः (*mitadravaḥ*) indicates this meaning too.
+स्वर्काः (*svarkāḥ*)—For the word स्वर्क (*svarka*) Yāska says स्वंचना इति वा । शोभनं अंचंति गच्छंति । (*svaṃcanā iti vā | śobhanaṃ aṃcaṃti gacchaṃti |*) They go with a beautiful or excellent step, hence the name स्वर्काः (*svarkāḥ*); or स्वर्चनाः शोभनं वा अर्चनं येषां (*svarcanāḥ śobhanaṃ vā arcanaṃ yeṣāṃ*): their praise is well extolled, that is, their qualities are lauded, hence स्वर्चनाः (*svarcanāḥ*) or स्वर्काः (*svarkāḥ*); or स्वर्चिषः वा येषां शोभना अर्चिषो दीप्तयः ते आगच्छंतु । (*svarciṣaḥ vā yeṣāṃ śobhanā arciṣo dīptayaḥ te āgacchaṃtu |*) Their bodily lustre is very radiant. Because they are well grown, fat and full of enthusiasm with a sturdy body, and have glittering bodily splendour, they are called स्वर्चिषः (*svarciṣaḥ*) or स्वर्काः (*svarkāḥ*). Thus three kinds of meaning are given for स्वर्काः (*svarkāḥ*). The two words मितद्रवः स्वर्काः (*mitadravaḥ svarkāḥ*) are adjectives of वाजिनः (*vājinaḥ*).
+अहिं च वृकं च रक्षांसि (*ahiṃ ca vṛkaṃ ca rakṣāṃsi*)—अहिं आगत्य हंतारं । (*ahiṃ āgatya haṃtāraṃ |*) The enemy who chases and kills is called अहि (*ahi*); वृकं वसूनामादातारं अथवा यश्च पृकस्तस्करो मुष्णाति । (*vṛkaṃ vasūnāmādātāraṃ athavā yaśca pṛkastaskaro muṣṇāti |*) A thief who steals riches is called वृक (*vṛka*); रक्षांसि येऽस्मान् रहसि क्षिण्वंति । (*rakṣāṃsi ye 'smān rahasi kṣiṇvaṃti |*) The host of Rākṣasas who, hidden or in a secret place, harm us without our knowing, are called रक्षांसि (*rakṣāṃsi*). The main purport of the nirvacana is that the prayer here is that these gods destroy these three kinds of enemies and protect us.
+
+#### Ṛk 8
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाजे॑वाजेवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः ।  
+> अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ॥
+
+### Printed p. 215
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाजेऽवाजे । अवत । वाजिनः । नः । धनेषु । विप्राः । अमृताः । ऋतज्ञाः ।  
+> अस्य । मध्वः । पिबत । मादयध्वं । तृप्ताः । यात । पथिऽभिः । देवऽयानैः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिन एतन्नामका देवा विप्रा मेधाविनोऽमृता अमरणधर्माण ऋतज्ञाः सत्यं जानंतः एवंभूताः संतो यूयं वाजे वाजे सर्वेषु युद्धेषु
+> नोऽस्माननेषु धननिमित्तेष्ववत । पालयत । ततो यूयमस्य मध्वो मधुरोपेतमिमं सोमं पिबत । सोमपानानंतरं मादयध्वं । यूयं तृप्ता भवत । ततस्तृप्ता यूयं देवयानैर्देवगमनसाधनैः पथिभिर्मार्गैर्यात । गच्छत ॥
+
+##### Gist of the bhāṣya
+
+O gods named Vājins, being wise, immortal and knowing the truth, protect us in every battle, in those fought for wealth. Then drink this sweet Soma, and after drinking be exhilarated and satisfied. Then, satisfied, go by the paths that are the means of going to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनः (*vājinaḥ*)—O gods named Vāji
+- विप्राः (*viprāḥ*)—wise
+- अमृताः (*amṛtāḥ*)—free of mortality
+- ऋतज्ञाः (*ṛtajñāḥ*)—knowers of truth, you
+- वाजेवाजे (*vājevāje*)—in every battle
+- नः (*naḥ*)—us
+- धनेषु (*dhaneṣu*)—for the sake of wealth
+- अवत (*avata*)—protect
+- मध्वः (*madhvaḥ*)—sweet
+- अस्य (*asya*)—this Soma
+- पिबत (*pibata*)—drink
+- मादयध्वं (*mādayadhvaṃ*)—be satisfied
+- तृप्ताः (*tṛptāḥ*)—satisfied you
+- देवयानैः (*devayānaiḥ*)—on which gods travel
+- पथिभिः (*pathibhiḥ*)—by paths
+- यात (*yāta*)—depart
+
+##### भावार्थ (Bhāvārtha)
+
+O gods named Vājis, you who are wise, immortal and knowers of truth, protect us in every battle for the sake of wealth. Drink this sweet Soma, be satisfied. Satisfied, travel by the paths of the gods.
+
+##### English translation
+Wise, immortal Vajins, observers of truth defend us in every conflict, and for the sake of wealth ; drink of this sweet (Soma beverage), be exhilarated (thereby) and satisfied ; proceed by the paths traversed by the gods.
+
+##### English translation
+Thirty-ninth Sūkta
+
+## Sūkta 39 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्ध्वो अग्निरिति सप्तर्चं षष्ठं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वदेवं ।
+> ऊर्ध्वः सप्त वैश्वदेवं त्वित्यनुक्रमणिका । सूक्तविनियोगो लैंगिकः ॥ द्वितीये
+> छंदोमे प्रउगशस्त्रे ऊर्ध्वो अग्निरिति वैश्वदेवस्य तृचः । सूत्रितं च । ऊर्ध्वो
+> अग्निः सुमतिं वस्वो अश्रेदुषस्या नः सरस्वती जुषाणेति प्रउगं । आ. ८-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, ऊर्ध्वो अग्निः (*ūrdhvo agniḥ*), of seven Ṛks, has Vasiṣṭha as seer, the Viśvedevas as deity and Triṣṭubh as metre. The Anukramaṇikā says ऊर्ध्वः सप्त वैश्वदेवं तु (*ūrdhvaḥ sapta vaiśvadevaṃ tu*). The use of the sūkta is by indication (laiṅgika). In the second chandoma, in the prauga-śastra, the three Ṛks beginning ऊर्ध्वो अग्निः (*ūrdhvo agniḥ*) are the Vaiśvadeva tṛca. It is prescribed by the sūtra: ऊर्ध्वो अग्निः सुमतिं वस्वो अश्रेदुषस्या नः सरस्वती जुषाणेति प्रउगं (*ūrdhvo agniḥ sumatiṃ vasvo aśreduṣasyā naḥ sarasvatī juṣāṇeti praugaṃ*) (Ā. 8-10).
+
+### Printed p. 216
+
+##### Anuvāda
+
+This sūkta beginning ऊर्ध्वो अग्निः (*ūrdhvo agniḥ*) is the sixth sūkta in the third anuvāka. It has seven Ṛks. Vasiṣṭha is its seer; the Viśvedevas are the deity; Triṣṭubh is the metre. In the Anukramaṇikā it is said: ऊर्ध्वः सप्त वैश्वदेवं तु (*ūrdhvaḥ sapta vaiśvadevaṃ tu*). The use of the sūkta is by indication. When the prauga-śastra mantras are recited in the second chandoma, the three Ṛks beginning ऊर्ध्वो अग्निः (*ūrdhvo agniḥ*) are to be recited as the Vaiśvadeva tṛca, as elaborated by the sūtra of the Āśvalāyana Śrauta Sūtra ऊर्ध्वो अग्निः सुमतिं वस्वो अश्रेदुषस्या नः सरस्वती जुषाणेति प्रउगं (*ūrdhvo agniḥ sumatiṃ vasvo aśreduṣasyā naḥ sarasvatī juṣāṇeti praugaṃ*) (Ā. 8-10).
+
+Sūkta 39
+Maṇḍala 7 · Anuvāka 3 · Sūkta 39 · Aṣṭaka 5 · Adhyāya 4 · Varga 6
+Number of Ṛks in the sūkta: 7
+Seer: Vasiṣṭha. Deity: Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो अ॒ग्निः सु॑म॒तिं वस्वो॑ अश्रेत्प्रती॒ची जू॒र्णिर्दे॒वता॑तिमेति ।  
+> भे॒जाते॒ अद्री॑ र॒थ्ये॑व॒ पंथा॑मृ॒तं होता॑ न इषि॒तो य॑जाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । अग्निः । सुऽमतिं । वस्वः । अश्रेत् । प्रतीची । जूर्णिः । देवऽतातिं । एति ।  
+> भेजाते इति । अद्री इति । रथ्याऽइव । पंथां । ऋतं । होता । नः । इषितः । यजाति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निरंगनादिगुणविशिष्ट ऊर्ध्व उद्गमनः सन् वस्वो वासकस्य स्तोतुः सुमतिमस्मदीयां शोभनां स्तुतिमश्रेत् । श्रयतु । सेवतां । प्रतीच्यभिमुखी जूर्णिः सर्वासां प्रजानां जरयित्र्योदेवतातिं देवतातिं यज्ञमेति । गच्छति । अद्री
+> आद्रियंतौ श्रद्धावंतौ पत्नीयजमानौ पंथां पंथानं यज्ञमार्गं रथ्येव कन्येव भेजाते । सेवेते । तथेषितः संप्रेषितो नोऽस्मदीयो होता ऋतं
+> यज्ञं यजाति । यजतु । करोत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Agni, endowed with qualities such as the leading (aṅgana), rising upward, resorts to the good praise of us, the praiser who is the dweller (vasu); let him attend to it. Facing west, the one who ages all creatures goes to the sacrifice (देवतातिं (*devatātiṃ*)). The two revering, faithful ones, the wife and the sacrificer, resort to the path of the sacrifice like a maiden (रथ्येव (*rathyeva*)). Likewise our Hotṛ, sent forth, performs the sacrifice; the meaning is "let him do it".
+
 ---
 
-**Progress note:** Done through printed p. 210. pp. 205-210 (batch API)
+**Progress note:** Done through printed p. 216. pp. 211-216 (batch API)
