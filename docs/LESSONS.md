@@ -227,3 +227,4 @@ The branch numbered these 33-43; main already uses those numbers for other lesso
 - `recheck_numbers.py` did not create `review/recheck/`; `pratipada_check.py` works for a legacy volume only with a file path and `--mandala 1`; `pratipada_apply.py` still needs `volcfg.json` (legacy volumes have none).
 - The Vol 10 tools (`qmark_strip.py`, `QMARK_READER_BRIEF.md`) were on another branch, not on `main`: copied file by file, never merged.
 - Rate: 4 reader batches, ~1.24M subagent tokens for 515 marks (~2.4k per mark); every batch settled more than 85 % of its marks.
+- (Vol 9) `recheck_fix.py` (used by `recheck_numbers.py --apply`) looked only for `### Page N`; now also `### Printed p. N`. `pratipada_apply.py` works on a legacy volume in its two-file form (`FILE.md REPORT.tsv --log volN`): 56 certain fixes. `recheck_numbers.py --apply`: 68 of 70 proposals applied.

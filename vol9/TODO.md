@@ -8,7 +8,7 @@ Records in `review/second_pass/` (`findings.tsv`, `batches.tsv`, `kn_misprints.t
 ## B. Open
 1. 40 `[?]` left (Kannada non-words, front matter/progress note, sūtras the Kannada lacks): see `kn_misprints.tsv`, `decided_by_default.tsv`.
 2. `open.tsv`: unmarked places where the English disagrees with the Kannada, and impossible printed numbers applied as printed. Not edited.
-3. `recheck_numbers.py 9`: 70 one-digit reference corrections proposed (`review/recheck/numbers_candidates.tsv`), not applied (dry run only); `pratipada_check.py` ran on the Kannada file (fix 66, fix-certain 84); `pratipada_apply.py` needs a `volcfg.json` that legacy volumes lack: shared tool to be adapted first.
+3. Done (Nov 27 2026): `pratipada_apply.py` on the Kannada Text file: 56 certain word fixes (`data/source_fixes.tsv`; 28 skipped: not one letter / not found once); `recheck_numbers.py 9 --apply`: 68 reference corrections from the Kannada (`repair_log.md`, tag NUMBER); 3 further proposals and 626 manual cases remain in `review/recheck/numbers_candidates.tsv`.
 4. Optional full page-by-page reading (`SECOND_PASS_BRIEF.md`, about 8k tokens per page).
 
 ## C. Not now

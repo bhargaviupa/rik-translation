@@ -20,9 +20,9 @@ def locate(vol, page):
     for p in (f'vol{vol}/Rigveda_Samhita_Vol{vol}_English_Translation.md', f'vol{vol}/Rigveda_Samhita_Vol{vol}_Gaps_English_Translation.md'):
         if not os.path.exists(p): continue
         t = open(p, encoding='utf8').read()
-        m = re.search(r'(?m)^### Page %s(?=[\s—:]|$)[^\n]*\n' % re.escape(str(page)), t)
+        m = re.search(r'(?m)^### (?:Page|Printed p\.) %s(?=[\s—:]|$)[^\n]*\n' % re.escape(str(page)), t)
         if m:
-            n = re.search(r'(?m)^### Page ', t[m.end():]); e = m.end() + n.start() if n else len(t)
+            n = re.search(r'(?m)^### (?:Page|Printed p\.) ', t[m.end():]); e = m.end() + n.start() if n else len(t)
             return p, t, m.end(), e
     sys.exit(f'REFUSED: no "### Page {page}" in the English files of Vol {vol}')
 
