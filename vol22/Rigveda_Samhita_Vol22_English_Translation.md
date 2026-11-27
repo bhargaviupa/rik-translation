@@ -18266,6 +18266,283 @@ O Heaven and Earth, O Aditi, the unbreakable: this is a single-number address to
 - मित्रस्य (*mitrasya*)—of Mitra's wrath also
 - मा (*mā*)—may we not become subject
 
+### Printed p. 439
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, whose nature is whole and undivided and who are possessed of majesty: protect us who, being of good birth, have come to know your greatness. Let us not fall under the wrath of Varuna. Let us not become objects of the anger of Vayu, nor of the anger of Mitra, who is beneficial to men.
+
+##### English translation
+Indivisible and mighty heaven and earth protect us who, of fortunate birth, have knowledge of you both : let us not incur the displeasure of Varuna, or of Vayu, or of Mitra, the best beloved of men.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र बा॒हवा॑ सिसृतं जी॒वसे॑ न॒ आ नो॒ गव्यू॑तिमुक्षतं घृ॒तेन॑ ।  
+> आ नो॒ जने॑ श्रवयतं युवाना श्रु॒तं मे॑ मित्रावरुणा॒ हवे॒मा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । बाहवा । सिसृतं । जीवसे । नः । आ । नः । गव्यूतिं । उक्षतं । घृतेन ।  
+> आ । नः । जने । श्रवयतं । युवाना । श्रुतं । मे । मित्रावरुणा । हवा । इमा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र बाहवेति पंचमी मैत्रावरुणे पशौ पशुपुरोडाशस्य याज्या । सूत्रितं च । प्र बाहवा सिसृतं जीवसे नो यद्वंहिष्ठं नातिविधे सुदानू । आ. ३-८ । इति ॥
+> हे मित्रावरुणा मित्रावरुणौ देवौ बाहवा युवाभ्यां बाहू प्र सिसृतं ।
+> प्रसारयतं हविःस्वीकाराय धनप्रदानाय वा । किमर्थमिति । नो जीवसेऽस्माकं
+> जीवनाय । किंच नोऽस्माकं गव्यूतिं गावो यंति गच्छंत्यत्रेति गव्यूतिर्गोमार्गभूमिः । तां तृणादिप्ररोहाय घृतेनोदकेन समंतादुक्षतं । सिंचतं ।
+> किंच नोऽस्माकं जनेऽस्मत्समाने मनुष्यसमूहे वा नोऽस्मान् श्रवयतं । विश्रुतं
+> कुरुतं । हे युवाना नित्ययौवनौ सर्वत्र व्याप्तौ वा युवां मे ममेमानि
+> हवाह्वानानि श्रुतं । शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+The fifth Ṛk, प्र बाहवेति (*pra bāhaveti*), is the yājyā for the animal's cake-offering (paśupuroḍāśa) in the animal sacrifice to Mitra and Varuna. It is stated in the sūtra: प्र बाहवा सिसृतं जीवसे न आ नो गव्यूतिमुक्षतं घृतेन । आ नो जने श्रवयतं युवाना श्रुतं मे मित्रावरुणा हवेमा ॥ ५ ॥ प्र । बाहवा । सिसृतं । जीवसे । नः । आ । नः । गव्यूतिं । उक्षतं । घृतेन । आ । नः । जने । श्रवयतं । युवाना । श्रुतं । मे । मित्रावरुणा । हवा । इमा ॥ ५ ॥ प्र बाहवेति पंचमी मैत्रावरुणे पशौ पशुपुरोडाशस्य याज्या । सूत्रितं च । प्र बाहवा सिसृतं जीवसे नो यद्वंहिष्ठं नातिविधे सुदानू । (*pra bāhavā sisṛtaṃ jīvase na ā no gavyūtimukṣataṃ ghṛtena | ā no jane śravayataṃ yuvānā śrutaṃ me mitrāvaruṇā havemā ‖ 5 ‖ pra | bāhavā | sisṛtaṃ | jīvase | naḥ | ā | naḥ | gavyūtiṃ | ukṣataṃ | ghṛtena | ā | naḥ | jane | śravayataṃ | yuvānā | śrutaṃ | me | mitrāvaruṇā | havā | imā ‖ 5 ‖ pra bāhaveti paṃcamī maitrāvaruṇe paśau paśupuroḍāśasya yājyā | sūtritaṃ ca | pra bāhavā sisṛtaṃ jīvase no yadvaṃhiṣṭhaṃ nātividhe sudānū |*) (Ā. 3-8). O Mitra and Varuna, stretch forth your arms to accept the oblation or to bestow wealth. Why? For our life. Further, the गव्यूति (*gavyūti*) is the land where cows walk (गावो यंति (*gāvo yaṃti*)); sprinkle it all round with घृत (*ghṛta*), meaning water, so that grass and the like may grow. Further, make us heard of, famous, among our own people or among the multitude of men. O ever-youthful, or all-pervading, ones, hear these my invocations.
+
+### Printed p. 440
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuna
+- नः (*naḥ*)—our
+- जीवसे (*jīvase*)—for a good life
+- बाहवा (*bāhavā*)—stretch out your two arms at length
+- नः (*naḥ*)—our
+- गव्यूतिं (*gavyūtiṃ*)—the land where cows roam
+- घृतेन (*ghṛtena*)—with water
+- आ उक्षतं (*ā ukṣataṃ*)—drench everywhere
+- नः (*naḥ*)—us
+- जने (*jane*)—before good people
+- आ श्रवयतं (*ā śravayataṃ*)—make renowned
+- युवाना (*yuvānā*)—you who are ever young
+- मे (*me*)—my
+- इमा हवा (*imā havā*)—this invocation
+- श्रुतं (*śrutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuna, stretch out both your arms at length for our good life. Drench with water, everywhere, the land where our cows roam. Make us renowned before good people. You who are ever young, hear this invocation of mine.
+
+##### English translation
+Stretch forth your arms for the prolongation of our existence, bedew with water the pastures of our cattle, render us honoured amongst men ; ever youthful Mitra and Varuna, hear these my invocations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal offering made to Mitra and Varuna, at the offering of the cake (puroḍāśa), this Ṛk प्र बाहवा (*pra bāhavā*) is to be recited as the yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra प्र बाहवा सिसृतं जीवसे नो यद्वंहिष्ठं नातिविधे सुदानू (*pra bāhavā sisṛtaṃ jīvase no yadvaṃhiṣṭhaṃ nātividhe sudānū*) (Ā. 3-8).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मि॒त्रो वरु॑णो अर्य॒मा न॒स्त्मने॑ तो॒काय॒ वरि॑वो दधंतु ।  
+> सु॒गा नो॒ विश्वा॑ सु॒पथा॑नि संतु यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मित्रः । वरुणः । अर्यमा । नः । त्मने । तोकाय । वरिवः । दधंतु ।  
+> सुऽगा । नः । विश्वा । सुऽपथानि । संतु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ६ ॥
+
+### Printed p. 441
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो वरुणोऽर्यमा चैते त्रयो देवा न्नद्य नोऽस्माकं त्मन आत्मन आत्महिताय तोकाय पुत्राय च वरिवो धनं दधंतु । प्रयच्छंतु । नोऽस्माकं विश्वा सर्वाणि गंतव्यानि सुगा सुगमनानि सुपथानि च संतु । भवंतु । शिष्पं गतं ॥
+
+##### Gist of the bhāṣya
+
+May these three gods, Mitra, Varuna and Aryaman, now give wealth for ourselves (त्मने (*tmane*), for our own good) and for our son. May all the places to be travelled by us be easy to go along and have good roads. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuna
+- अर्यमा (*aryamā*)—Aryaman
+- नु (*nu*)—now
+- नः (*naḥ*)—to us
+- त्मने (*tmane*)—for ourselves
+- तोकाय (*tokāya*)—for our sons
+- वरिवः (*varivaḥ*)—wealth
+- दधंतु (*dadhaṃtu*)—let them give
+- नः (*naḥ*)—our
+- विश्वा (*viśvā*)—all
+- सुगा (*sugā*)—good paths
+- सुपथानि (*supathāni*)—fit for good travelling
+- संतु (*saṃtu*)—let them be
+- यूयं (*yūyaṃ*)—you (O gods)
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May Mitra, Varuna and Aryaman now give wealth for our own use and for our sons and others. May all our good paths be fit for excellent travelling. O gods, protect us always with blessings.
+
+##### English translation
+May Mitra, Varuna, Aryaman grant afflunce to us and to our prosterity : may all paths be easy of access unto us : and do you ever cherish us with blessings.
+
+## Sūkta 63 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उद्वेतीति षडृचमष्टमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं । आद्याश्चतस्रः पंचम्याः पूर्वार्धश्च सूर्यदेवत्या अवशिष्टास्त्रयोऽर्धर्चा मित्रावरुणदेवत्याः । तथा चानुक्रांतं । उद्वेतीति चार्धपंचम्या इति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta उद्वेतीति (*udvetīti*) has six Ṛks and is the eighth sūkta. Its seer is Vasiṣṭha and its metre is Triṣṭubh. The first four Ṛks and the first half of the fifth have Sūrya as deity; the remaining three half-verses (one and a half Ṛks) have Mitra and Varuna. So the Anukramaṇī: उद्वेतीति चार्धपंचम्या इति (*udvetīti cārdhapaṃcamyā iti*). The application (viniyoga) is by indication (लैंगिकः (*laiṃgikaḥ*)).
+
+##### Anuvāda
+
+This sūkta उद्वेति (*udveti*) is the eighth sūkta in the fourth anuvāka. It has six Ṛks. Its seer is Vasiṣṭha; its metre is Triṣṭubh. In this sūkta the first four Ṛks and the first half of the fifth have Sūrya as deity. The remaining three half-Ṛks, that is, one and a half Ṛks, have Mitra and Varuna as deity. In the Anukramaṇī it is said: उद्वेतीति चार्धपंचम्याः (*udvetīti cārdhapaṃcamyāḥ*). The application is by indication.
+
+### Printed p. 442
+
+##### Particulars
+
+- Sūkta—63
+- Maṇḍala—7; Anuvāka—4; Sūkta—63
+- Aṣṭaka—5; Adhyāya—4; Varga—5
+- Number of Ṛks in the sūkta—6
+- Seer: Vasiṣṭha
+- Deity: 1–4 and the first half of 5: Sūrya; the second half of 5 and 6: Mitra and Varuna
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्वे॑ति सु॒भगो॑ वि॒श्वच॑क्षाः॒ साधा॑रणः॒ सूर्यो॒ मानु॑षाणां ।  
+> चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्य दे॒वश्चर्मे॑व॒ यः स॒मुवि॑व्य॒क्तमां॑सि ‖१‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । एति । सुभगः । विश्वचक्षाः । साधारणः । सूर्यः । मानुषाणां ।  
+> चक्षुः । मित्रस्य । वरुणस्य । देवः । चर्मऽइव । यः । सम्ऽअविव्यक् । तमांसि
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उद्वेति उद्गच्छत्ययं सूर्यः सुभगः शोभनभाग्यः सुषु भजनीयो वा विश्वचक्षाः सर्वस्य द्रष्टा मानुषाणां सर्वेषां मनुष्याणां साधारणः । साधारणत्वप्रतिपादकश्रुतिः पूर्वमुदाहृता । मित्रस्य वरुणस्य च चक्षुः प्रकाशको देवो द्योतमानः । यो देवश्चर्मेव चर्मणेव तमांसि समुविव्यक् सह विचति संवेष्टयति स महानुभावो देव उद्वेति ‖
+
+##### Gist of the bhāṣya
+
+This Sūrya rises: auspicious (सुभगः (*subhagaḥ*)), of good fortune or well worth worshipping; विश्वचक्षाः (*viśvacakṣāḥ*), the seer of all; साधारणः (*sādhāraṇaḥ*), common to all men. The Śruti that teaches his commonness has been cited earlier. He is the eye, the illuminator, of Mitra and Varuna, a shining god. The god who envelops (संवेष्टयति (*saṃveṣṭayati*)) the darknesses as a skin does (चर्मेव (*carmeva*); समुविव्यक् (*samuvivyak*) means "he covers all round"), that god of great power rises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- चर्मेव (*carmeva*)—spread like a skin
+- तमांसि (*tamāṃsi*)—the black darkness
+- समुविव्यक् (*samuvivyak*)—who completely disperses, such a one
+- मित्रस्य (*mitrasya*)—for Mitra
+- वरुणस्य (*varuṇasya*)—for Varuna
+- चक्षुः (*cakṣuḥ*)—who is like an eye
+- देवः (*devaḥ*)—divine in nature
+- मानुषाणां (*mānuṣāṇāṃ*)—for all men
+- साधारणः (*sādhāraṇaḥ*)—who appears alike to all
+- विश्वचक्षाः (*viśvacakṣāḥ*)—who can see everything
+- सुभगः (*subhagaḥ*)—auspicious
+- सूर्यः (*sūryaḥ*)—Sūrya
+- उद्वेति (*udveti*)—rises
+
+##### भावार्थ (Bhāvārtha)
+
+Sūrya rises: he who completely disperses the black darkness spread like a skin, who is like an eye to Mitra and Varuna, divine in nature, appearing alike to all men, able to see everything, and auspicious.
+
+### Printed p. 443
+
+##### English translation
+The auspicious Surya rises, the eye of all, the common (parent) of men : the divine eye of Mitra and of Varuna, who breaks through the glooms as through (investing) skin.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्वे॑ति प्रसवी॒ता जना॑नां म॒हान्के॒तुर॑र्ण॒वः सूर्य॑स्य ।  
+> स॒मा॒नं च॒क्रं प॑र्या॒विवृ॑त्स॒न्यदे॑त॒शो वह॑ति धू॒र्षु यु॒क्तः ‖२‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । एति । प्रसविता । जनानां । महान् । केतुः । अर्णवः । सूर्यस्य ।  
+> समानं । चक्रं । परिऽआविवृत्सन् । यत् । एतशः । वहति । धूःसु । युक्तः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सूर्यस्य सूर्यः ‖ विभक्तिव्यत्ययः ‖ उद्वेति । उद्गच्छति । कीदृशोऽयं । जनानां सर्वेषां प्रसविता सर्वेषु कर्मस्वनुज्ञाता महान् पूज्यः केतुः सर्वस्य प्रज्ञापकोऽर्णव उदकप्रदः । किं कुर्वन्नुदेतीति उच्यते । समानं सर्वेषामेकरूपमेकमेव चक्रं रथांगं चरणशीलं रथं वा पर्याविवृत्सन् पर्यावर्तयितुमिच्छन् । यद्रथचक्रं धूर्षु रथस्य युक्तः एतश एतशवर्णो हरितवर्णोऽश्वो वहति । एको अश्वो वहति सप्तनामा । ऋ. १-१६४-२ । इत्युक्तं ‖
+
+##### Gist of the bhāṣya
+
+सूर्यस्य (*sūryasya*) here stands for सूर्यः (*sūryaḥ*) (a change of case ending). He rises. What is he like? प्रसविता (*prasavitā*) of all people, the one who gives permission in all rites; great, worthy of worship; केतुः (*ketuḥ*), the one who makes everything known; अर्णवः (*arṇavaḥ*), the giver of water. What does he do as he rises? He wishes to turn round the one wheel (the chariot's wheel, or the moving chariot itself), alike for all, which the एतशः (*etaśaḥ*) (a horse of हरित (*harita*), green-tawny, colour), yoked at the chariot's poles, draws. It is said: एको अश्वो वहति सप्तनामा (*eko aśvo vahati saptanāmā*) (Ṛ. Saṃ. 1-164-2).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which chariot wheel
+- धूर्षु (*dhūrṣu*)—at the yoke of the chariot
+- युक्तः (*yuktaḥ*)—that which is yoked
+- एतशः (*etaśaḥ*)—the green-coloured horse
+- वहति (*vahati*)—draws; such a one
+- समानं (*samānaṃ*)—the one common to the whole universe
+- चक्रं (*cakraṃ*)—chariot wheel
+- पर्याविवृत्सन् (*paryāvivṛtsan*)—wishing to turn
+- महान् (*mahān*)—the worshipful
+- केतुः (*ketuḥ*)—the one who makes known
+- अर्णवः (*arṇavaḥ*)—the giver of water
+- जनानां (*janānāṃ*)—of all men
+- प्रसविता (*prasavitā*)—the impeller of rites
+- सूर्यस्य (*sūryasya*)—Sūrya
+- उद्वेति (*udveti*)—rises
+
+##### भावार्थ (Bhāvārtha)
+
+Sūrya rises, turning that chariot wheel, one for the whole universe, which the green-coloured horse yoked at the yoke of the chariot draws; he is worshipful, the one who makes known, the giver of water, and the impeller of rites for all men.
+
+### Printed p. 444
+
+##### English translation
+The animator of men arises, the great rain-shedding banner of Surya rolling on the universal wheel, which the white steeds yoked to his car drag along.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भ्राज॑मान उ॒षसा॑मु॒पस्था॑द्रे॒भैरुदे॑त्यनुम॒द्यमा॑न�ः ।  
+> ए॒ष मे॑ दे॒वः स॑वि॒ता च॑च्छंद॒ यः स॑मा॒नं न प्र॑मि॒नाति॒ धाम॑ ‖
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभ्राजमानः । उषसां । उपस्थात् । रेभैः । उत् । एति । अनुमद्यमानः ।  
+> एषः । मे । देवः । सविता । चच्छंद । यः । समानं । न । प्रमिनाति । धाम
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सूर्यो विभ्राजमानो विशेषेण दीप्यमान उषसामुपस्थादुपस्थे मध्ये रेभैः स्तोत्रैरनुमद्यमानः सन्नुदेति । किंचैष देवो द्योतमानः सविता मे मह्यं चच्छंद । उपच्छंदयति कामान् । एष इत्युक्तं क इति । यो देवः समानं सर्वेषां प्राणिनामेकरूपं धाम स्वीयं तेजःस्थानं न प्रमिनाति न हिनस्ति न संकोचयति स देव उदेतीति ‖
+
+##### Gist of the bhāṣya
+
+This Sūrya, shining brilliantly, rises being gladdened with praises (रेभैः (*rebhaiḥ*) means *stotraiḥ*) from the lap, the midst, of the dawns. Further, this shining god Savitṛ has fulfilled (चच्छंद (*cacchaṃda*), "he gratifies desires") my wishes. "This one" is said: who? The god who does not impair, harm or contract his own place of radiance (धाम (*dhāma*)), one in form for all beings, that god rises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which god
+- समानं (*samānaṃ*)—of one kind for the whole world
+- धाम (*dhāma*)—his own radiance
+- न प्रमिनाति (*na pramināti*)—does not diminish; such a one
+- विभ्राजमानः (*vibhrājamānaḥ*)—who shines in a special manner
+- रेभैः (*rebhaiḥ*)—by the praisers
+- अनुमद्यमानः (*anumadyamānaḥ*)—who is gratified
+- उषसां (*uṣasāṃ*)—of the dawns
+- उपस्थात् (*upasthāt*)—from the midst
+- उदेति (*udeti*)—comes rising
+- देवः (*devaḥ*)—divine in nature
+- एषः सविता (*eṣaḥ savitā*)—this Savitṛ
+- मे (*me*)—to me
+- चच्छंद (*cacchaṃda*)—fills with desired objects
+
+##### भावार्थ (Bhāvārtha)
+
+Sūrya, who does not diminish his radiance, one in kind for the whole world, who shines in a special manner and is gratified by the praisers, comes rising from the midst of the dawns. This Savitṛ, divine in nature, fills my desired objects.
+
 ---
 
-**Progress note:** Done through printed p. 438. pp. 433-438 (batch API)
+**Progress note:** Done through printed p. 444. pp. 439-444 (batch API)
