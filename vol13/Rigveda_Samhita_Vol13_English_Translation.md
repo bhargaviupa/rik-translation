@@ -3118,6 +3118,166 @@ The words अरेणवः (*areṇavaḥ*), तुविजाताः (*tuv
 - अचुच्यवुः — चुज् गतौ इति धातुः । प्रयोजकव्यापारदर्शनादंतर्भावितण्यर्थो भवति । छांदसत्वेन लज् व्यत्ययो बहुलं इति परस्मैपदी भवति । झौ परे बहुलं छंदसि इति शसि श्ल्वादेशः । धातोर्द्वित्वे सिजभ्यस्तवितिभ्यश्च (पा. सू. ३-४-१०९) इति झेर्जुसादेशः । जुसि च (पा. सू. ७-३-८३) इत्युकारस्य गुणः । अवादेशः । अंगस्याडागमः । तिजंतनिघातस्वरो भवति ।
 - दृढानि — दृह वृद्धौ इति धातुः । क्तप्रत्ययः । होढः इति सूत्रेण हकारस्य ढत्वे रुषस्तथोः इति तकारस्य धत्वम् । ष्टुत्वेन तस्य ढत्वे ढोढे लोपः इति पूर्वढकारस्य लोपः । प्रत्ययस्वरेणांतोदात्तो भवति ।
 
+### Printed p. 127
+
+##### Grammar
+
+- भ्राजदृष्टयः — भ्राज्य दीप्तौ धातुः । व्यत्ययेन लटः शत्रादेशः । तास्यनुदात्तेत् इति सूत्रेण लसार्वधातुकस्यानुदात्तत्वात् धातुस्वरः शिष्यते । ऋषी गतौ धातुः । क्तिच्क्तौचसंज्ञायां (पा. सू. ३-३-१७४) इति क्तिच्प्रत्यये सति ऋष्टि इति रूपं भवति । बहुव्रीहिसमासे पूर्वपदप्रकृतिस्वरो भवति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को वो॒ऽंतर्म॑रुत ऋष्टिविद्युतो॒ रेज॑ति॒ त्मना॒ हन्वे॑व जि॒ह्वया॑ ।  
+> ध॒न्व॒च्युत॑ इ॒षां न याम॑नि पुरु॒प्रैषा॑ अह॒न्यो॒३॒॑ऽनैत॑शः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वः । अंतः । मरुतः । ऋष्टिविद्युतः । रेजति । त्मना । हन्वाइव । जिह्वया ।  
+> धन्वच्युतः । इषां । न । यामनि । पुरुप्रैषाः । अहन्यः । न । एतशः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो हे ऋष्टिविद्युतो मेघभेदनायुधविशेषेण विद्योतमानाः
+> युष्माकमंतर्युष्मासु मध्यॆ स्थित्वा कः पुमान्रेजति । चालयति । प्रेरयति ।
+> तर्हि कथं चालनमिति उच्यते । त्मनात्मनैव । चालने दृष्टांतः । जिह्वया हन्वेव ॥
+> द्विवचनस्याकारः ॥ हनू इव । तौ यथा रसनया चाल्येते तद्वत् । यद्यप्येवं
+> तथापीषामन्नानां तस्साधनानां सस्यानां यामनि प्राप्तौ समृद्ध्यर्थं धन्वच्युतो
+> न । धन्वङ्बो०तरिक्षस्य वचनः । तेन तत्स्थमुदकं लक्ष्यते । उदकस्राविणो मेघा
+> इव । ते यथाकांक्ष्यंते तथा युष्मानन्नादिप्राप्तये पुरुप्रैषा बहुविधं फलिमिच्छन् यजमानः स्तोत्रैर्बहुप्रकारमाकारयतीत्यर्थः । तत्र दृष्टांतः
+> अहन्योऽहि भव एतशो नाश्व इव । स यथा शिक्षकेण नानाप्रकारं प्राप्यते तद्वत् ।
+
+##### Gist of the bhāṣya
+
+"O Maruts, O ऋष्टिविद्युतः (*ṛṣṭividyutaḥ*), shining with the special cloud-splitting weapon: who, standing among you, sets you in motion (रेजति (*rejati*): moves, impels)?" The answer is त्मना (*tmanā*), by yourselves alone. An illustration of the moving is given: जिह्वया हन्वेव (*jihvayā hanveva*), like the two jaws (the dual ending is replaced by ā), which are moved by the tongue. Even so, in the arrival (यामनि (*yāmani*)) of foods (इषां (*iṣāṃ*)), that is, of the plants that are their means, for abundance, you are desired like धन्वच्युतः (*dhanvacyutaḥ*) clouds that shed water. धन्व (*dhanva*) is a word for the atmosphere, and by it the water standing there is meant. In the same way the sacrificer, wishing for many kinds of fruit (पुरुप्रैषाः (*purupraiṣāḥ*)), calls you in many ways with hymns to obtain food and the like. The illustration: अहन्यः (*ahanyaḥ*), "born of the day", is एतशः (*etaśaḥ*), a horse; as it is made to go in various ways by its trainer, so are you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋष्टिविद्युतः (*ṛṣṭividyutaḥ*)—shining with the cloud-splitting weapon
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- अंतः (*aṃtaḥ*)—in the midst (standing)
+- कः (*kaḥ*)—who
+
+### Printed p. 128
+
+- हन्वा (*hanvā*)—the two jaws
+- जिह्वया इव (*jihvayā iva*)—as (moved) by the tongue
+- त्मना (*tmanā*)—by yourselves
+- रेजति (*rejati*)—makes you move?
+- *(tathāpi)*—even so
+- इषां (*iṣāṃ*)—of foods (of the plants that are the means of food)
+- यामनि (*yāmani*)—in the matter of obtaining (for abundance)
+- धन्वच्युतः न (*dhanvacyutaḥ na*)—like clouds that shed the water of the sky
+- *(vaḥ)*—you
+- अहन्यः (*ahanyaḥ*)—on every day
+- एतशः न (*etaśaḥ na*)—like a horse trained in many ways by the trainer
+- पुरुप्रैषाः (*purupraiṣāḥ*)—(the sacrificer desiring many fruits) impels you in many ways by hymns
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, armed with the cloud-splitting weapon! Who indeed could make you move, while remaining in your very midst, as the tongue moves the two jaws? Yet, as at exercise-time a trainer turns a horse about in many ways, and as clouds are necessary for plants, so the sacrificer, for whom you are necessary for the many kinds of fruit of the sacrifice, makes you favourable to himself with his hymns.
+
+##### English translation (H. H. Wilson)
+Maruts, lightning-armed, who, (standing) amongst you, sets you of yourselves in motion, as the jaws are (set in moticn) by the tongue : as falling rains (are essential) for the obtaining of food, so (those, desirous of sustenance), excite you in various ways, like a horse in (his) daily (training).
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋष्टि विद्युतः (*ṛṣṭi vidyutaḥ*): the meaning is explained thus: the word ṛṣṭi denotes a special weapon. Who is it that impels the Maruts, shining with this weapon, in the act of splitting the cloud? This question is asked by the sentence को रेजति (*ko rejati*), and in reply, to remove the impossibility of the act of moving, the solution त्मना (*tmanā*) is given. Rain does not come merely because the Maruts shine bearing the weapon, with the splitting of the cloud following. Since there is no one else to impel the Maruts to be ready for action, so that the act of splitting the cloud takes place, the meaning described is that they themselves split the cloud with their weapon.
+जिह्वया हन्वेव (*jihvayā hanveva*): the comparison is: as the tongue impels the jaws. When the Maruts, self-impelled, split the cloud, the impelling arises in the Maruts themselves; as an illustration it is said that from the moving of the tongue the moving of the jaw arises by itself.
+
+### Printed p. 129
+
+इषां यामनि धन्वच्युतो न (*iṣāṃ yāmani dhanvacyuto na*): अन्नानां तत्साधनानां सस्यानां प्राप्तौ समृद्ध्यर्थं उदकस्राविणो मेघा इव (*annānāṃ tatsādhanānāṃ sasyānāṃ prāptau samṛddhyarthaṃ udakasrāviṇo meghā iva*). The word धन्वन् (*dhanvan*) is listed among the names of the atmosphere (Ni. 2-10). And Yāska, quoting the Ṛk यः परस्याः परावशस्तिरो धन्वाति रोचते । स नः पर्षदति द्विषः । (*yaḥ parasyāḥ parāvaśastiro dhanvāti rocate | sa naḥ parṣadati dviṣaḥ |*) (Ṛ. Saṃ. 10-187-2), has explained the word धन्वन् (*dhanvan*) as धन्वांतरिक्षं धन्वंतस्यादापः (*dhanvāṃtarikṣaṃ dhanvaṃtasyādāpaḥ*). Sāyaṇa explains: the word धन्वन् (*dhanvan*) denotes the atmosphere, but here by the word the water that is in the atmosphere is meant. As people wish for clouds that pour water for the production of food and so on, or of the plants that are the cause of food, so the sacrificer, with abundant hymns, wishes for the coming of the Maruts.
+By the sentence अहन्यः एतशो न (*ahanyaḥ etaśo na*) the comparison is made: as a horse every day, subject to the trainer's command, learns many kinds of gaits, so the coming of the Maruts is of many kinds.
+The word एतशः (*etaśaḥ*) is read among the names of the horse (Ni. 2-27).
+पुरुप्रैषाः (*purupraiṣāḥ*): for this word the meaning given is बहुविधं फलमिच्छन् (*bahuvidhaṃ phalamicchan*), the sacrificer who desires many kinds of benefits. The analysis of the compound is stated as पुरुप्रैषः स्तोत्रं यस्य (*purupraiṣaḥ stotraṃ yasya*). The sacrificer praises with many kinds of hymns and wishes to obtain food and the like through the many kinds of comings of the Maruts.
+
+##### Grammar
+
+- ऋष्टिविद्युतः — ऋष्ट्या विद्योतंते इति ऋष्टिविद्युतः । संबोधनाबहुवचनांतरूपम् । आमंत्रितस्य च इति निघातस्वरो भवति ।
+- रेजति — रेज्य कंपने धातुः । अंतर्भावितण्यर्थः । लट् प्रथमपुरुषएकवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । लसार्वधातुकस्यानुदात्तत्वात् धातुस्वरः शिष्यते ।
+- हन्वा — हनुशब्दः । तस्मात् द्विवचने (औ) परे सुपां सुलुक् (पा. सू. ७-१-३९) इति तस्य आकारादेशः । यणादेशः ।
+- धन्वच्युतः — च्युतिर् क्षरणे धातुः । क्विप् प्रत्ययः । धन्वानं ज्योतयंति इति धन्वच्युतः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 130
+
+- इषां — षष्ठीबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१८) इति विभक्तेरुदात्तस्वरो भवति ।
+- अहन्यः — अह्नि भवः अहन्यः । भवे छंदसि (पा. सू. ४-४-११०) इति यत्प्रत्ययः । तित्स्वरितं (पा. सू. ६-१-१८५) इति स्वरितस्वरो भवति ।
+- एतशः — इण् गतौ धातुः । इणस्तशन् तशुनसौ (उ. सू. ४-४२९) इति तशन्प्रत्ययः । तं निमित्तीकृत्य धातोर्गुणः । इत्यादिर्नित्यं (पा. सू. ६-१-१६९) इति आद्युदात्तस्वरो भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व॑ स्विद॒स्य रज॑सो म॒हस्परं॒ क्वाव॑रं मरुतो॒ यस्मि॑नाय॒य ।  
+> यच्चा॒वय॑थ विधु॒रेव॒ संहि॑तं॒ व्यद्रि॑णा पतथ त्वे॒षम॑र्ण॒वं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । स्वित् । अस्य । रजसः । महः । परं । क्व । अवरं । मरुतः । यस्मिन् । आयय ।  
+> यत् । च्यवयथ । विधुराइव । संहितं । वि । अद्रिणा । पतथ । त्वेषं । अर्णवं ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं यस्मिन्नुदकनिमित्तभूते सत्यायय आगच्छत अस्य
+> रजसो वृष्टु्यदकस्य लोकस्य वा महो महतः परं पारमंतं क्व स्वित् । कुत्रास्तीति । नास्तीत्यर्थः । तथावरमवाज्ञाग आदिश्च क्व स्वित् । कुत्रास्ति । आद्यंतं न कोऽपि
+> जानातीत्यर्थः । यद्यदा यूयं विधुरेव विधुराणि शिथिलानि तृणानीव संहितमेकभूतमुदकं च्यावयथ स्वस्थानाच्चालयथ तदाद्रिणा वज्रेण त्वेषं दीप्तमर्णवमुदकवंतं मेघं वि पतथ । विशीर्णं पातयथ ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, on account of which water you come (आयय (*āyaya*)), where is the far end (परं (*paraṃ*)) of this great रजसः (*rajasaḥ*), that is, of the rain-water or of the world?" The meaning is that there is none. Likewise, where is its अवरं (*avaraṃ*), the lower part or the beginning? No one knows its beginning or end. When you shake loose from its place the massed water, like loose, slack blades of grass (विधुरेव (*vidhureva*)), then with the अद्रिणा (*adriṇā*), the thunderbolt, you make the brilliant (त्वेषं (*tveṣaṃ*)) cloud full of water (अर्णवं (*arṇavaṃ*)) fall scattered (वि पतथ (*vi patatha*)).
+
+### Printed p. 131
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts (you)
+- यस्मिन् (*yasmin*)—on account of which water
+- आयय (*āyaya*)—you come
+- अस्य (*asya*)—of that
+- महः (*mahaḥ*)—immense
+- रजसः (*rajasaḥ*)—water (world)
+- परं (*paraṃ*)—the end
+- क्व स्वित् (*kva svit*)—where is it?
+- (तथा (*(tathā*)—likewise
+- अवरं (*avaraṃ*)—its beginning part
+- क्व (*kva*)—where is it?
+- यत् (*yat*)—when (you)
+- संहितं (*saṃhitaṃ*)—the water gathered together
+- विधुरा इव (*vidhurā iva*)—(as one scatters) slack (light) grass
+- च्यावयथ (*cyāvayatha*)—scatter
+- *(tat)*—then
+- अद्रिणा (*adriṇā*)—with the thunderbolt weapon
+- त्वेषं (*tveṣaṃ*)—brilliant
+- अर्णवं (*arṇavaṃ*)—the cloud that carries water
+- वि पतथ (*vi patatha*)—you (split and) make fall
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, for the sake of which water do you come: what are its beginning and end? And you split with the thunderbolt the water that has gathered in one place, and the water-bearing clouds, and make them fall down.
+
+##### English translation (H. H. Wilson)
+Where, Maruts, is the limit of the vast region (whenee you eome) : where is the beginning of that to which you proceed : when you scatter the dense vapour like light grass, and hurl down the brilliant rain-cloud by the thunderbolt.
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्य रजसः महः परं क्व स्वित् (*asya rajasaḥ mahaḥ paraṃ kva svit*): *vṛṣṭuyadakasya lokasya vā mahataḥ pāraṃ aṃtaṃ kutrāsti*. The word रजः (*rajaḥ*) is stated among the names of night (Ni. 2-18). Yāska explains the derivation: the word रजः (*rajaḥ*), denoting colouring, is formed from the root रज (*raja*). He says रजो रजतेर्जोती रज उच्यते (*rajo rajaterjotī raja ucyate*): light is called रजः (*rajaḥ*) because it pervades all things with its radiance; and उदकं रज उच्यते लोका रजांस्युच्यंते (*udakaṃ raja ucyate lokā rajāṃsyucyaṃte*): waters and worlds are denoted by the word रजः (*rajaḥ*) (Ni. 4-19). He cites usages (examples) for each meaning.
+अज्जामुक्थैरहिं गृणीषे बुद्धे नदीनां रजस्सु सीदन् (*ajjāmukthairahiṃ gṛṇīṣe buddhe nadīnāṃ rajassu sīdan*) (Ṛ. Saṃ. 7-34-16). Here the word रजस्सु (*rajassu*) is explained as उदकेषु (*udakeṣu*).
+
+### Printed p. 132
+
+एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate*) (Ṛ. Saṃ. 1-92-1). Here the meaning given is रजसः अंतरिक्षलोकस्य (*rajasaḥ aṃtarikṣalokasya*). Sāyaṇa explains that, addressing the Maruts, they come in order to bestow waters on the world. Asking where the end that completes the greatness of the waters and the worlds is, he describes that, because it is visible, it is boundless. Likewise, asking by way of a question अवरं अवाज् भागः आदिश्च क्व स्वित् (*avaraṃ avāj bhāgaḥ ādiśca kva svit*), where is the beginning of the waters, he explains न कोपि जानाति (*na kopi jānāti*): no one knows even the beginning and end of the waters.
+विधुरेव संहितं च्यावयथ (*vidhureva saṃhitaṃ cyāvayatha*): शिथिलानि तृणानीव एकभूतं उदकं स्वस्थानात् चालयथ (*śithilāni tṛṇānīva ekabhūtaṃ udakaṃ svasthānāt cālayatha*). When the Maruts move the condensed waters from their places as one moves loose blades of grass, अर्णवं वि पतथ (*arṇavaṃ vi patatha*), उदकवंतं मेघं विशीर्णं पातॆयथ (*udakavaṃtaṃ meghaṃ viśīrṇaṃ pātèyatha*): you strike and split with the thunderbolt the cloud full of water and make the rain-water pour down. Thus the extraordinary power of the Maruts is described here.
+अद्रिणा (*adriṇā*): the word अद्रि (*adri*) is read among the names of the thunderbolt (Ni. 3-11). The meaning given is the thunderbolt weapon.
+श्वेषं (*śveṣaṃ*)—दीप्तं (*dīptaṃ*): this word is explained as used by Yāska in the sense of "having radiance"
+तैषमित्था समरणं शिमीवतोरिंद्राविष्णू सुशपा वामुरुष्यति (*taiṣamitthā samaraṇaṃ śimīvatoriṃdrāviṣṇū suśapā vāmuruṣyati*) (Ṛ. Saṃ. 1-155-2). Here the word श्वेषं (*śveṣaṃ*) is explained as "having radiance".
+
+##### Grammar
+
+- आयय — या प्रापणे धातुः । छांदसत्वेन लिट् । मध्यमपुरुषबहुवचने अ आदेशः । द्वित्वम् । असंयोगाल्लिट् कित् इति प्रत्ययस्य कित्त्वात् आतो लोप इटि च (पा. सू. ६-४-६४) इति धातोराकारस्य लोपः । यद्योगत्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । शिजिचोदात्तवति (पा. सू. ८-१-७१) इति आजेर्निघातस्वरो भवति ।
+- च्यावयथ — च्युज् गतौ धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । अचोञ्णिति इति वृद्धिः । आवादेशः । लट् मध्यमपुरुषबहुवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । णिच्स्वरः शिष्यते ।
+
 ---
 
-**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
+**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
