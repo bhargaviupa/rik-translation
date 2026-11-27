@@ -178,3 +178,74 @@ page	place	as_found	question	why_not_settled	decision
 545	line 15617 q311	the print's word before tiṣṭhate read atiseṣu [?]	[?] kept	Kannada p.545 has ಅಶಸೇಷು (aśaseṣu), a different reading from the English atiseṣu / atasesu; cannot be decided	kept
 560	line 16017 q409	varṇavyāpattyātvaṃ [?]	[?] kept	Kannada p.560 has ವರ್ಣವ್ಯಾಪತ್ಯಾತ್ವಂ (vyāpatyā) where the English has vyāpatti; cannot be decided	kept
 562	line 16073 q419-421	1-[?]-[?]; 2-[?]-[?]	settled	Kannada p.562 prints "6-15-18 ; 7-18 19" (no hyphen between 18 and 19); the English has 7-18-19 (hyphen restored, intended reading certain)	applied
+front	q1	Pīṭhike/front matter convention line 5	[?] kept	Kannada book starts at printed p.2; line 5 is before any page section; a convention statement	kept
+front	q2	contents table row Sūkta 82 "upo ṣu [?]"	[?] kept	Kannada p.33 does carry upo ṣu (ಉಪೋ ಷು, Sūkta 82) so the mark would be removable, but the line lies before every ### Page heading and sp_apply cannot address it	kept
+front	q3	Pīṭhike intro note "marked [?] where uncertain"	[?] kept	Kannada has no front matter pages; before any ### Page heading; convention statement	kept
+iv	q4	[23 [?]] syllables	[?] kept	Kannada book has no folio iv (starts at p.2); cannot be checked	kept
+iv	q5	[38 [?]] syllables	[?] kept	Kannada has no folio iv; cannot be checked	kept
+iv	q6	[42 [?]] syllables	[?] kept	Kannada has no folio iv; cannot be checked	kept
+iv	q7	[twelfth [?]] chapter	[?] kept	Kannada has no folio iv; cannot be checked	kept
+iv	q8	Part [1 [?]]	[?] kept	Kannada has no folio iv; cannot be checked	kept
+iv	q9	[4253 [?]] Ṛks	[?] kept	Kannada has no folio iv (4253 not found anywhere in the Kannada book); cannot be checked	kept
+v	q10	Ṛ. Saṃ. 10-14-16 as read ೧೦-೧೪-೧೬ [?]	[?] kept	Kannada has no folio v; cannot be checked	kept
+vi	q11	Ṛ. Saṃ. 7-33-5 / 10-71-11 numerals doubtful [?]	[?] kept	Kannada has no folio vi (line 103 sits in the Pīṭhike section); cannot be checked	kept
+563	q292	(Grammar page, noted briefly; sūtra numerals small and doubtful [?].)	[?] kept	generic doubt clause kept: the page still carries unmarked sūtra numbers I did not settle (Pā. Sū. 7-93-7 for pugantalaghūpadhasya and 4-12-4 for bahuvrīhau prakṛtyā are not in the Kannada page; not touched, outside the marks)	kept
+564	q294	IAST bhāṣya line: avakāśātmā [?]	[?] kept	Sanskrit block derived from Wikisource (avakāśātmā); Kannada reads ಸ್ಯಂದನಶೀಲೋದಕಾತ್ಮಾ (udakātmā), a different real word; cannot be decided; Sanskrit lines not hand-edited	kept
+564	q295	subhagān mantra [?] ity ādi [?] tvātrādiṣu pāṭhād ve 'ik [?] (IAST)	[?] kept	Sanskrit block derived from Wikisource; Kannada reads ಸುಭಗಾನ್ನಂತ್ರ ಇತ್ಯುದ್ಧಾತ್ರಾದಿಷು ಪಾಠಾದ್ಭಾವೇಽಞ್ (differs; garbled); cannot be decided	kept
+564	q296	same place as q295	[?] kept	same place as q295	kept
+564	q297	same place as q295	[?] kept	same place as q295	kept
+564	q298	Gloss: of the nature of open space [?]	[?] kept	Kannada ಸ್ಯಂದನಶೀಲೋದಕಾತ್ಮಾ (water) differs from the Sanskrit block avakāśātmā that the gloss follows; cannot be decided (same place as q294)	kept
+564	q299	the printed derivation is clotted and not reproduced [?]	[?] kept	Kannada tail on saubhagatvasya is readable but differs from the Sanskrit block (see q295); omission not added	kept
+564	q300	tail of the bhāṣya clotted at several words, marked [?]	[?] kept	same place as q295 and q299	kept
+566	q307	stanzas transcribed from clotted print, doubtful [?]: ṣoḷaśarcam, sto 'rdham, vātra ṣaḍbhiḥ prakṛtābhyaḥ, nodhasy agastye, nodarkā	[?] kept	Kannada p.566 agrees on ṣoḷaśarcam, nodhasy agastye, nodarkā but reads ಸ್ತತೋಽರ್ಧಂ (stato 'rdham) for sto 'rdham and ಷಡ್ಭಃ for ṣaḍbhiḥ (also ನಾ for vā, ದ್ರಿಭಿಃ for dvibhiḥ in the stanza): a mixed case, cannot be decided	kept
+567	q311	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q312	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q313	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q314	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q315	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q316	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q317	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q318	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q319	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q320	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q321	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q322	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q323	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q324	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q325	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q326	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q327	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q328	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q329	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q330	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q331	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q332	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q333	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q334	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q335	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q336	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q337	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q338	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q339	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q340	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q341	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q342	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q343	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q344	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q345	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q346	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q347	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q348	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q349	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q350	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q351	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q352	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q353	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q354	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q355	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q356	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q357	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q358	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q359	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q360	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept
+567	q361	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept

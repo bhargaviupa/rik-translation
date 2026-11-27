@@ -16094,17 +16094,17 @@ Citations of the Ṛgveda (Kannada script, read letter by letter):
 
 ### Page 563 (PDF 578)
 
-*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 563.)*
+*(Running head left: "A. 1 A. 6 Va. 32"; centre: "Ṛgvedasaṃhitā"; right: 563.)*
 
 **Vyākaraṇa-prakriyā of Rik 94.15, continued from p. 562** *(grammar, noted briefly)*
 
-*sudraviṇaḥ*, concluded: guṇa and *av*-substitution of the root's vowel through the suffix; since there is an *r* as cause, the *n* of the suffix becomes *ṇ* by *aṭkupvāṅ…* (Pā. Sū. 8-4-2 [?], the sūtra's end clotted); the form *draviṇa*. In the Saṃhitā an *s*-augment arises at the end of the word *draviṇa* in the Vedic manner (so the Kannada page, as read; the bhāṣya says *makāropajana*, see p. 560 [?]). In the vocative, because of the designation *āmantrita*, the *nighāta* accent arises by *āmantritasya ca* (Pā. Sū. 8-1-19). — ***dadāśaḥ*** — root *dāśṛ* (giving); *leṭ*, second person singular, *sip*; the *i* is elided by *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-97 [?]); the augment *aṭ* by *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94 [?]); *ślu* for *śap* by *bahulaṃ chandasi* (Pā. Sū. 2-4-76 [?]); reduplication of the root by *ślau* (Pā. Sū. 6-1-10 [?]); the reduplicate shortened and beginning with the single consonant by *halādiḥ śeṣaḥ*; in *dadāśas* the *s* becomes *ru* and *visarga*; initial acute by *abhyastānām ādiḥ* (Pā. Sū. 6-1-189 [?]); because the word is connected with *yat*, no *nighāta*. — ***sarvatātā*** — after the word *sarva* the suffix *tātil* by *sarvadevāt tātil* (Pā. Sū. 4-4-142 [?]); by *liti* (Pā. Sū. 6-1-193) the syllable before the suffix is acute. On Yāska's view, the bahuvrīhi *sarvāḥ stutayaḥ yeṣu yāgeṣu*, 'in which all praises are', *sarvatātā*; the *ā* comes by the Vedic substitution of letters, and by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 4-12-4) the first member keeps its natural accent. On both views *ḍā* replaces the seventh-case ending by *supāṃ suluk…* — ***codayāsi*** — root *cud* (urging); *leṭ* second person singular *sip*; since it belongs to the *curādi* class, *ṇic* in the sense of the root itself by *satyāpapāśa…* (Pā. Sū. 3-1-25); guṇa of the light penultimate vowel by *pugantalaghūpadhasya ca* (Pā. Sū. 7-93-7); the augment *aṭ* by *leṭo 'ḍāṭau*; guṇa of the *ṇic*'s *i*, then *ay*; because *yat* stood earlier and is connected with it, the *nighāta* does not arise; by the suffix accent the *ā* after the *d* is acute. — ***prajāvatā*** — "they have progeny": *prajāvān*; the suffix *matup* by *tad asyāsty asminn iti matup* (as read), added after a stem ending in *a* [as read]; *m* turns to *v* by *mādupadhāyāś ca…* (Pā. Sū. 8-2-9 [?]); the instrumental singular form. ‖ 15 ‖ *(Grammar page, noted briefly; sūtra numerals small and doubtful [?].)*
+*sudraviṇaḥ*, concluded: guṇa and *av*-substitution of the root's vowel through the suffix; since there is an *r* as cause, the *n* of the suffix becomes *ṇ* by *aṭkupvāṅ…* (the sūtra's end clotted); the form *draviṇa*. In the Saṃhitā an *s*-augment arises at the end of the word *draviṇa* in the Vedic manner (so the Kannada page, as read; the bhāṣya says *makāropajana*, see p. 560). In the vocative, because of the designation *āmantrita*, the *nighāta* accent arises by *āmantritasya ca* (Pā. Sū. 8-1-19). — ***dadāśaḥ*** — root *dāśṛ* (giving); *leṭ*, second person singular, *sip*; the *i* is elided by *itaś ca lopaḥ parasmaipadeṣu*; the augment *aṭ* by *leṭo 'ḍāṭau*; *ślu* for *śap* by *bahulaṃ chandasi*; reduplication of the root by *ślau*; the reduplicate shortened and beginning with the single consonant by *halādiḥ śeṣaḥ*; in *dadāśas* the *s* becomes *ru* and *visarga*; initial acute by *abhyastānām ādiḥ* (Pā. Sū. 6-1-189); because the word is connected with *yat*, no *nighāta*. — ***sarvatātā*** — after the word *sarva* the suffix *tātil* by *sarvadevāt tātil* (Pā. Sū. 4-4-142); by *liti* (Pā. Sū. 6-1-193) the syllable before the suffix is acute. On Yāska's view, the bahuvrīhi *sarvāḥ stutayaḥ yeṣu yāgeṣu*, 'in which all praises are', *sarvatātā*; the *ā* comes by the Vedic substitution of letters, and by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 4-12-4) the first member keeps its natural accent. On both views *ḍā* replaces the seventh-case ending by *supāṃ suluk…* — ***codayāsi*** — root *cud* (urging); *leṭ* second person singular *sip*; since it belongs to the *curādi* class, *ṇic* in the sense of the root itself by *satyāpapāśa…* (Pā. Sū. 3-1-25); guṇa of the light penultimate vowel by *pugantalaghūpadhasya ca* (Pā. Sū. 7-93-7); the augment *aṭ* by *leṭo 'ḍāṭau*; guṇa of the *ṇic*'s *i*, then *ay*; because *yat* stood earlier and is connected with it, the *nighāta* does not arise; by the suffix accent the *ā* after the *d* is acute. — ***prajāvatā*** — "they have progeny": *prajāvān*; the suffix *matup* by *tad asyāsty asminn iti matup* (as read), added after a stem ending in *a* [as read]; *m* turns to *v* by *mādupadhāyāś ca…*; the instrumental singular form. ‖ 15 ‖ *(Grammar page, noted briefly; sūtra numerals small and doubtful [?].)*
 
 ---
 
 ### Page 564 (PDF 579)
 
-*(Running head left: 564; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15 [?], Sūkta 94".)*
+*(Running head left: 564; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15, Sūkta 94".)*
 
 ### Sūkta 94, Rik 16 (printed pp. 564–?)
 
@@ -16134,7 +16134,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter):
 
 ### Page 565 (PDF 580)
 
-*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 565.)*
+*(Running head left: "A. 1 A. 6 Va. 32"; centre: "Ṛgvedasaṃhitā"; right: 565.)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
 
@@ -16154,13 +16154,13 @@ Citations of the Ṛgveda (Kannada script, read letter by letter):
 
 > देवो देवानामसि मित्रो अद्भुतो वसुर्वसूनामसि चारुरध्वरे ।
 > *devo devānām asi mitro adbhuto vasur vasūnām asi cārur adhvare |*
-> (*Ṛ. Saṃ.* 1-94-13 as read [?])
+> (*Ṛ. Saṃ.* 1-94-13)
 
 > तत्ते भद्रं यत्समिद्धः स्वे दमे सोमाहुतो जरसे मृळयत्तमः ।
 > दधासि रत्नं द्रविणं च दाशुषेऽग्ने सख्ये मा रिषामा वयं तव ॥
 > *tat te bhadraṃ yat samiddhaḥ sve dame somāhuto jarase mṛḷayattamaḥ |*
 > *dadhāsi ratnaṃ draviṇaṃ ca dāśuṣe 'gne sakhye mā riṣāmā vayaṃ tava ‖*
-> (*Ṛ. Saṃ.* 1-94-14 as read [?])
+> (*Ṛ. Saṃ.* 1-94-14)
 
 "— and so on: Agni is addressed as the cause of all good fortune, of both the gods and of men." *(continues on p. 566)*
 
@@ -16168,7 +16168,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter):
 
 ### Page 566 (PDF 581)
 
-*(Running head left: 566; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15 [?], Sūkta 94".)*
+*(Running head left: 566; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15, Sūkta 94".)*
 
 **Special Topics of Rik 94.16, continued from p. 565 (Kannada)**
 
@@ -16178,11 +16178,11 @@ Citations of the Ṛgveda (Kannada script, read letter by letter):
 
 > असुनीते मनो अस्मासु धारय जीवातवे सु प्र तिरा न आयुः ।
 > *asunīte mano asmāsu dhāraya jīvātave su pra tirā na āyuḥ |*
-> (*Ṛ. Saṃ.* 10-59-5 as read [?])
+> (*Ṛ. Saṃ.* 10-59-5)
 
 **GLOSS** "— and so shows it. In many contexts like these the meaning 'increase our life; may we live long' is given. In the same way here, *asmākam āyuḥ pra tira* means 'make our life grow', that is the sense."
 
-***tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ*** — "In these deities also, by Agni's grace, may they increase our good fortune and possessions, and make [us] honoured [the Kannada word read as *pūjyāmānasa*, doubtful [?]]; may they make them beneficial to our share. This is the last prayer of this Sūkta. From the beginning of the Sūkta up to here it has had Agni as its deity; but in the last half of the last Ṛk this prayer, addressed to all the gods, in this way, is the peculiarity of the composition of the seer Kutsa. This peculiarity is found also in the compositions of the seers Bharadvāja, Gṛtsamada and the rest. For this there is a well-known technical word, *udarka* ('closing', 'sequel'). The Bṛhaddevatā describes the *udarka* of the seer Kutsa in this way:"
+***tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ*** — "In these deities also, by Agni's grace, may they increase our good fortune and possessions, and make [it] worthy of honour; may they make them beneficial to our share. This is the last prayer of this Sūkta. From the beginning of the Sūkta up to here it has had Agni as its deity; but in the last half of the last Ṛk this prayer, addressed to all the gods, in this way, is the peculiarity of the composition of the seer Kutsa. This peculiarity is found also in the compositions of the seers Bharadvāja, Gṛtsamada and the rest. For this there is a well-known technical word, *udarka* ('closing', 'sequel'). The Bṛhaddevatā describes the *udarka* of the seer Kutsa in this way:"
 
 > इमं कुत्स आङ्गिरसो ददर्श जातवेदस्यं जगाद षोळशर्चम् ।
 > पूर्वो देवा इत्यृचो देवदेवास्त्रयः पादा उत्तमायाः स्तोऽर्धम् ॥
@@ -16204,15 +16204,15 @@ Citations of the Ṛgveda (Kannada script, read letter by letter):
 
 ### Page 567 (PDF 582)
 
-*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 567. This is the last page of the volume's scan: the PDF ends here, 582 pages.)*
+*(Running head left: "A. 1 A. 6 Va. 32"; centre: "Ṛgvedasaṃhitā"; right: 567. This is the last page of the volume's scan: the PDF ends here, 582 pages.)*
 
 "The seer Kutsa Āṅgirasa received the vision of this Sūkta (1-94) and hymned it, sixteen Ṛks, as concerned with Jātavedas. The first three pādas of the 8th Ṛk, which begins *pūrvo devāḥ*, and the latter half of the last Ṛk are addressed to many deities. In the Sūktas of Bharadvāja, Gṛtsamada, Vasiṣṭha, Nodhas, Agastya, Vimada and Nabhāka also, although there are such *udarka*s, whether they are of many deities or of two deities, they do not have the same characteristic as the refrain (*pallavi*) in the *udarka* of the seer Kutsa; thus the peculiarity in the composition of the seer Kutsa is shown."
 
-"Altogether, in the compositions of eight seers such *udarka*s are found at the ends of Sūktas. In none of them is the last half of the Sūkta addressed to many deities [as read, doubtful [?]]. This matter will be considered in detail, with examples, in the exposition of the next Sūkta."
+"Altogether, in the compositions of eight seers such *udarka*s are found at the ends of Sūktas. In none of them is the last half of the Sūkta addressed to many deities. This matter will be considered in detail, with examples, in the exposition of the next Sūkta."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā of Rik 94.16** *(grammar page, noted briefly)*
 
-*saubhagatvasya* — *subhagasya bhāvaḥ saubhagam*; because *subhagān mantre* is read as such in the *udgātrādi* group (as read), a suffix (the Kannada print gives *phiñ* [?]) arises in the sense of 'state'; being *ñit*, it gives *vṛddhi* of the first vowel. *saubhaga* itself means 'state' [of being *subhaga*]; where the sense of 'state' is to be shown again, the suffix *tva* has to be added to the word *saubhaga*, in the Vedic manner; by the suffix accent the word is final-acute. — ***tira*** — the root *tir* with the prefix *pra*, in the sense of increase; *loṭ*, second person singular; *tiṅanta*, *nighāta* accent. — ***mamahantām*** [Saṃhitā *māmahantām*] — root *maha* (honouring), *bhvādi*; *loṭ*, third person plural, *jha* → *anta* by *jho 'ntaḥ* (as read); *āmetaḥ* (Pā. Sū. 3-4-90) turns the *e* produced in the *loṭ* into *ām*; *śap* gets *ślu* by *bahulaṃ chandasi*; reduplication of the root by *ślau*; the reduplicate keeps the first consonant by *halādiśeṣa*; since the root belongs to the *tuj*-type group, the reduplicate's vowel is lengthened by *tujādīnāṃ dīrgho 'bhyāsasya* (Pā. Sū. 6-1-7); *nighāta* accent, since it follows a tiṅanta. ‖ 16 ‖ *(Grammar page, noted briefly.)*
+*saubhagatvasya* — *subhagasya bhāvaḥ saubhagam*; because *subhagān mantre* is read as such in the *udgātrādi* group (as read), a suffix (the Kannada print gives *ghañ*) arises in the sense of 'state'; being *ñit*, it gives *vṛddhi* of the first vowel. *saubhaga* itself means 'state' [of being *subhaga*]; where the sense of 'state' is to be shown again, the suffix *tva* has to be added to the word *saubhaga*, in the Vedic manner; by the suffix accent the word is final-acute. — ***tira*** — the root *tir* with the prefix *pra*, in the sense of increase; *loṭ*, second person singular; *tiṅanta*, *nighāta* accent. — ***mamahantām*** [Saṃhitā *māmahantām*] — root *maha* (honouring), *bhvādi*; *loṭ*, third person plural, *jha* → *anta* by *jho 'ntaḥ* (as read); *āmetaḥ* (Pā. Sū. 3-4-90) turns the *e* produced in the *loṭ* into *ām*; *śap* gets *ślu* by *bahulaṃ chandasi*; reduplication of the root by *ślau*; the reduplicate keeps the first consonant by *halādiśeṣa*; since the root belongs to the *tuj*-type group, the reduplicate's vowel is lengthened by *tujādīnāṃ dīrgho 'bhyāsasya* (Pā. Sū. 6-1-7); *nighāta* accent, since it follows a tiṅanta. ‖ 16 ‖ *(Grammar page, noted briefly.)*
 
 **Closing line of the print:** "*94ne sūktavu samāptavāgide*" — "The 94th Sūkta is complete." *(Printed in Kannada after the grammar page of Rik 94.16; a printer's ornament follows. No further colophon, and no closing line for the Sixth Adhyāya, appears in the scan.)*
 

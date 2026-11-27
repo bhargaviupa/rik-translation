@@ -1536,3 +1536,94 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 545	Q2	R1	q311	*(The print's word before* tiṣṭhate *is read* atiseṣu … doubtful [?]	[?] kept	Kannada p.545 has ಅಶಸೇಷು (aśaseṣu), a different reading from the English atiseṣu / atasesu; cannot be decided	kept	decided_by_default.tsv
 556	Q2	R1	q380	kiṃ punas tat [?] |	[?] kept	Kannada ಕಿಂ ಪುನಸ್ಥತ್ (non-word sthat) where the English has punas tat	kept	kn_misprints.tsv
 560	Q2	R1	q409	varṇavyāpattyātvaṃ [?]	[?] kept	Kannada ವರ್ಣವ್ಯಾಪತ್ಯಾತ್ವಂ (vyāpatyā) differs from the English vyāpatti; cannot be decided	kept	decided_by_default.tsv
+563	Q2	R1	q282	Va. 32 [?]"; centre	Va. 32"; centre	Kannada p.563 head ಅ. ೧. ಅ. ೬. ವ. ೩೨ = Va. 32 (q282)	applied	edits/m1-11_282-361.tsv
+563	S3	R1	q283	(Pā. Sū. 8-4-2 [?], the sūtra's end clotted)	(the sūtra's end clotted)	Kannada p.563 cites ಅಟ್ ಕುಪ್ವಾಜ್ without a number (q283)	applied	edits/m1-11_282-361.tsv
+563	Q2	R1	q284	see p. 560 [?])	see p. 560)	Kannada p.560 has ಮಕಾರೋಪಜನಶ್ಚಾಂದಸಃ (q284)	applied	edits/m1-11_282-361.tsv
+563	S3	R1	q285	 (Pā. Sū. 3-4-97 [?])		Kannada p.563 cites ಇತಶ್ಚಲೋಪಃ… without a number (q285)	applied	edits/m1-11_282-361.tsv
+563	S3	R1	q286	 (Pā. Sū. 3-4-94 [?])		Kannada p.563 cites ಲೇಟೋಽಡಾಟೌ without a number (q286)	applied	edits/m1-11_282-361.tsv
+563	S3	R1	q287	 (Pā. Sū. 2-4-76 [?])		Kannada p.563 cites ಬಹುಲಂ ಛಂದಸಿ without a number (q287)	applied	edits/m1-11_282-361.tsv
+563	S3	R1	q288	 (Pā. Sū. 6-1-10 [?])		Kannada p.563 cites ಶ್ಲೌ/ಶ್ಲಾ without a number (q288)	applied	edits/m1-11_282-361.tsv
+563	Q2	R1	q289	(Pā. Sū. 6-1-189 [?])	(Pā. Sū. 6-1-189)	Kannada p.563 ಅಭ್ಯಸ್ತಾನಾಮಾದಿಃ (ಪಾ. ಸೂ. ೬-೧-೧೮೯) (q289)	applied	edits/m1-11_282-361.tsv
+563	Q2	R1	q290	(Pā. Sū. 4-4-142 [?])	(Pā. Sū. 4-4-142)	Kannada p.563 ಸರ್ವದೇವಾತ್ತಾತಿಲ್ (ಪಾ. ಸೂ. ೪-೪-೧೪೨) (q290)	applied	edits/m1-11_282-361.tsv
+563	S3	R1	q291	 (Pā. Sū. 8-2-9 [?])		Kannada p.563 cites ಮಾದುಪಧಾಯಾಶ್ಚ without a number (q291)	applied	edits/m1-11_282-361.tsv
+564	Q2	R1	q293	Anuvāka 15 [?], Sūkta 94	Anuvāka 15, Sūkta 94	Kannada p.564 head ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೯೪ (q293)	applied	edits/m1-11_282-361.tsv
+565	Q2	R1	q301	Va. 32 [?]"; centre	Va. 32"; centre	Kannada p.565 head ವ. ೩೨ (q301)	applied	edits/m1-11_282-361.tsv
+565	Q1	R1	q302	1-94-13 as read [?])	1-94-13)	Kannada p.565 ( ಋ. ಸಂ. ೧-೯೪-೧೩ ) (q302)	applied	edits/m1-11_282-361.tsv
+565	Q1	R1	q303	1-94-14 as read [?])	1-94-14)	Kannada p.565 ( ಋ. ಸಂ. ೧-೯೪-೧೪ ) (q303)	applied	edits/m1-11_282-361.tsv
+566	Q2	R1	q304	Anuvāka 15 [?], Sūkta 94	Anuvāka 15, Sūkta 94	Kannada p.566 head ಮ. ೧. ಆ. ೧೫. ಸೂ. ೯೪ (q304)	applied	edits/m1-11_282-361.tsv
+566	Q1	R1	q305	10-59-5 as read [?])	10-59-5)	Kannada p.566 ( ಋ. ಸಂ. ೧೦-೫೯-೫ ) (q305)	applied	edits/m1-11_282-361.tsv
+566	Q1	R1	q306	make [us] honoured [the Kannada word read as *pūjyāmānasa*, doubtful [?]]	make [it] worthy of honour	Kannada p.566 ಪೂಜ್ಯವಾದುದನ್ನಾಗಿ ಮಾಡಲಿ (q306)	applied	edits/m1-11_282-361.tsv
+567	Q2	R1	q308	Va. 32 [?]"; centre	Va. 32"; centre	Kannada p.567 head ವ. ೩೨ (q308)	applied	edits/m1-11_282-361.tsv
+567	Q2	R1	q309	 [as read, doubtful [?]]		Kannada p.567 ಯಾವ ಋಷಿಯ ಸೂಕ್ತದ ಕೊನೆಯ ಅರ್ಧವೂ ಬಹುದೇವತಾಕವಾಗಿಲ್ಲ agrees (q309)	applied	edits/m1-11_282-361.tsv
+567	Q1	R1	q310	*phiñ* [?])	*ghañ*)	Kannada p.567 ಭಾವಾರ್ಥದಲ್ಲಿ ಘಞ್ ಪ್ರತ್ಯಯ; IAST by sp_sanskrit.py (q310)	applied	edits/m1-11_282-361.tsv
+front	Q2	R1	q1	Pīṭhike/front matter convention line 5	[?] kept	Kannada book starts at printed p.2; line 5 is before any page section; a convention statement	kept	decided_by_default.tsv
+front	Q2	R1	q2	contents table row Sūkta 82 "upo ṣu [?]"	[?] kept	Kannada p.33 does carry upo ṣu (ಉಪೋ ಷು, Sūkta 82) so the mark would be removable, but the line lies before every ### Page heading and sp_apply cannot address it	kept	decided_by_default.tsv
+front	Q2	R1	q3	Pīṭhike intro note "marked [?] where uncertain"	[?] kept	Kannada has no front matter pages; before any ### Page heading; convention statement	kept	decided_by_default.tsv
+iv	Q2	R1	q4	[23 [?]] syllables	[?] kept	Kannada book has no folio iv (starts at p.2); cannot be checked	kept	decided_by_default.tsv
+iv	Q2	R1	q5	[38 [?]] syllables	[?] kept	Kannada has no folio iv; cannot be checked	kept	decided_by_default.tsv
+iv	Q2	R1	q6	[42 [?]] syllables	[?] kept	Kannada has no folio iv; cannot be checked	kept	decided_by_default.tsv
+iv	Q2	R1	q7	[twelfth [?]] chapter	[?] kept	Kannada has no folio iv; cannot be checked	kept	decided_by_default.tsv
+iv	Q2	R1	q8	Part [1 [?]]	[?] kept	Kannada has no folio iv; cannot be checked	kept	decided_by_default.tsv
+iv	Q2	R1	q9	[4253 [?]] Ṛks	[?] kept	Kannada has no folio iv (4253 not found anywhere in the Kannada book); cannot be checked	kept	decided_by_default.tsv
+v	Q2	R1	q10	Ṛ. Saṃ. 10-14-16 as read ೧೦-೧೪-೧೬ [?]	[?] kept	Kannada has no folio v; cannot be checked	kept	decided_by_default.tsv
+vi	Q2	R1	q11	Ṛ. Saṃ. 7-33-5 / 10-71-11 numerals doubtful [?]	[?] kept	Kannada has no folio vi (line 103 sits in the Pīṭhike section); cannot be checked	kept	decided_by_default.tsv
+563	Q2	R1	q292	(Grammar page, noted briefly; sūtra numerals small and doubtful [?].)	[?] kept	generic doubt clause kept: the page still carries unmarked sūtra numbers I did not settle (Pā. Sū. 7-93-7 for pugantalaghūpadhasya and 4-12-4 for bahuvrīhau prakṛtyā are not in the Kannada page; not touched, outside the marks)	kept	decided_by_default.tsv
+564	Q2	R1	q294	IAST bhāṣya line: avakāśātmā [?]	[?] kept	Sanskrit block derived from Wikisource (avakāśātmā); Kannada reads ಸ್ಯಂದನಶೀಲೋದಕಾತ್ಮಾ (udakātmā), a different real word; cannot be decided; Sanskrit lines not hand-edited	kept	decided_by_default.tsv
+564	Q2	R1	q295	subhagān mantra [?] ity ādi [?] tvātrādiṣu pāṭhād ve 'ik [?] (IAST)	[?] kept	Sanskrit block derived from Wikisource; Kannada reads ಸುಭಗಾನ್ನಂತ್ರ ಇತ್ಯುದ್ಧಾತ್ರಾದಿಷು ಪಾಠಾದ್ಭಾವೇಽಞ್ (differs; garbled); cannot be decided	kept	decided_by_default.tsv
+564	Q2	R1	q296	same place as q295	[?] kept	same place as q295	kept	decided_by_default.tsv
+564	Q2	R1	q297	same place as q295	[?] kept	same place as q295	kept	decided_by_default.tsv
+564	Q2	R1	q298	Gloss: of the nature of open space [?]	[?] kept	Kannada ಸ್ಯಂದನಶೀಲೋದಕಾತ್ಮಾ (water) differs from the Sanskrit block avakāśātmā that the gloss follows; cannot be decided (same place as q294)	kept	decided_by_default.tsv
+564	Q2	R1	q299	the printed derivation is clotted and not reproduced [?]	[?] kept	Kannada tail on saubhagatvasya is readable but differs from the Sanskrit block (see q295); omission not added	kept	decided_by_default.tsv
+564	Q2	R1	q300	tail of the bhāṣya clotted at several words, marked [?]	[?] kept	same place as q295 and q299	kept	decided_by_default.tsv
+566	Q2	R1	q307	stanzas transcribed from clotted print, doubtful [?]: ṣoḷaśarcam, sto 'rdham, vātra ṣaḍbhiḥ prakṛtābhyaḥ, nodhasy agastye, nodarkā	[?] kept	Kannada p.566 agrees on ṣoḷaśarcam, nodhasy agastye, nodarkā but reads ಸ್ತತೋಽರ್ಧಂ (stato 'rdham) for sto 'rdham and ಷಡ್ಭಃ for ṣaḍbhiḥ (also ನಾ for vā, ದ್ರಿಭಿಃ for dvibhiḥ in the stanza): a mixed case, cannot be decided	kept	decided_by_default.tsv
+567	Q2	R1	q311	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q312	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q313	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q314	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q315	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q316	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q317	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q318	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q319	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q320	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q321	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q322	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q323	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q324	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q325	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q326	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q327	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q328	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q329	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q330	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q331	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q332	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q333	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q334	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q335	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q336	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q337	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q338	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q339	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q340	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q341	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q342	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q343	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q344	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q345	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q346	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q347	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q348	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q349	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q350	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q351	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q352	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q353	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q354	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q355	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q356	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q357	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q358	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q359	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q360	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv
+567	Q2	R1	q361	inside the trailing Progress note (lines 16221-16222 of the English file)	[?] kept	the final Progress note is never edited (CLAUDE.md rule 3); the flags it lists belong to other pages	kept	decided_by_default.tsv

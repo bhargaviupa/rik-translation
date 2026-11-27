@@ -1366,3 +1366,27 @@
 | 562 | `शतेतेमं वेश्यं` → `शततमं वेश्यं` | SECOND-PASS Q1: Kannada p.562 ಶತತಮಂ ವೇಶ್ಯಂ (sp_sanskrit: शततमं वेश्यं); the clotted middle quotation of q418 (q418) |
 | 562 | `śatetemaṃ veśyaṃ` → `śatatamaṃ veśyaṃ` | SECOND-PASS Q1: twin of the Devanagari edit; Kannada p.562 ಶತತಮಂ ವೇಶ್ಯಂ (q418) |
 | 562 | `*(The middle quotation is clotted in the print and the words are read as given, doubtful [` → `*(**GLOSS**.)* "In Ṛks like these also, and in 6-15-18; 7-18-19 and many other Ṛks` | SECOND-PASS Q1: Kannada p.562 ಹೀಗೆಯೇ 6-15-18 ; 7-18 19 (hyphen restored between 18 and 19); the middle quotation is read from the Kannada (q418 q419 q420 q421) |
+
+### 2026-11-27 second pass, batch m1-11_282-361.tsv
+| page | old → new | why |
+|---|---|---|
+| 563 | `Va. 32 [?]"; centre` → `Va. 32"; centre` | SECOND-PASS Q2: Kannada p.563 head ಅ. ೧. ಅ. ೬. ವ. ೩೨ = Va. 32 (q282) |
+| 563 | `(Pā. Sū. 8-4-2 [?], the sūtra's end clotted)` → `(the sūtra's end clotted)` | SECOND-PASS S3: Kannada p.563 cites ಅಟ್ ಕುಪ್ವಾಜ್ without a number (q283) |
+| 563 | `see p. 560 [?])` → `see p. 560)` | SECOND-PASS Q2: Kannada p.560 has ಮಕಾರೋಪಜನಶ್ಚಾಂದಸಃ (q284) |
+| 563 | ` (Pā. Sū. 3-4-97 [?])` → `` | SECOND-PASS S3: Kannada p.563 cites ಇತಶ್ಚಲೋಪಃ… without a number (q285) |
+| 563 | ` (Pā. Sū. 3-4-94 [?])` → `` | SECOND-PASS S3: Kannada p.563 cites ಲೇಟೋಽಡಾಟೌ without a number (q286) |
+| 563 | ` (Pā. Sū. 2-4-76 [?])` → `` | SECOND-PASS S3: Kannada p.563 cites ಬಹುಲಂ ಛಂದಸಿ without a number (q287) |
+| 563 | ` (Pā. Sū. 6-1-10 [?])` → `` | SECOND-PASS S3: Kannada p.563 cites ಶ್ಲೌ/ಶ್ಲಾ without a number (q288) |
+| 563 | `(Pā. Sū. 6-1-189 [?])` → `(Pā. Sū. 6-1-189)` | SECOND-PASS Q2: Kannada p.563 ಅಭ್ಯಸ್ತಾನಾಮಾದಿಃ (ಪಾ. ಸೂ. ೬-೧-೧೮೯) (q289) |
+| 563 | `(Pā. Sū. 4-4-142 [?])` → `(Pā. Sū. 4-4-142)` | SECOND-PASS Q2: Kannada p.563 ಸರ್ವದೇವಾತ್ತಾತಿಲ್ (ಪಾ. ಸೂ. ೪-೪-೧೪೨) (q290) |
+| 563 | ` (Pā. Sū. 8-2-9 [?])` → `` | SECOND-PASS S3: Kannada p.563 cites ಮಾದುಪಧಾಯಾಶ್ಚ without a number (q291) |
+| 564 | `Anuvāka 15 [?], Sūkta 94` → `Anuvāka 15, Sūkta 94` | SECOND-PASS Q2: Kannada p.564 head ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೯೪ (q293) |
+| 565 | `Va. 32 [?]"; centre` → `Va. 32"; centre` | SECOND-PASS Q2: Kannada p.565 head ವ. ೩೨ (q301) |
+| 565 | `1-94-13 as read [?])` → `1-94-13)` | SECOND-PASS Q1: Kannada p.565 ( ಋ. ಸಂ. ೧-೯೪-೧೩ ) (q302) |
+| 565 | `1-94-14 as read [?])` → `1-94-14)` | SECOND-PASS Q1: Kannada p.565 ( ಋ. ಸಂ. ೧-೯೪-೧೪ ) (q303) |
+| 566 | `Anuvāka 15 [?], Sūkta 94` → `Anuvāka 15, Sūkta 94` | SECOND-PASS Q2: Kannada p.566 head ಮ. ೧. ಆ. ೧೫. ಸೂ. ೯೪ (q304) |
+| 566 | `10-59-5 as read [?])` → `10-59-5)` | SECOND-PASS Q1: Kannada p.566 ( ಋ. ಸಂ. ೧೦-೫೯-೫ ) (q305) |
+| 566 | `make [us] honoured [the Kannada word read as *pūjyāmānasa*, doubtful [?]]` → `make [it] worthy of honour` | SECOND-PASS Q1: Kannada p.566 ಪೂಜ್ಯವಾದುದನ್ನಾಗಿ ಮಾಡಲಿ (q306) |
+| 567 | `Va. 32 [?]"; centre` → `Va. 32"; centre` | SECOND-PASS Q2: Kannada p.567 head ವ. ೩೨ (q308) |
+| 567 | ` [as read, doubtful [?]]` → `` | SECOND-PASS Q2: Kannada p.567 ಯಾವ ಋಷಿಯ ಸೂಕ್ತದ ಕೊನೆಯ ಅರ್ಧವೂ ಬಹುದೇವತಾಕವಾಗಿಲ್ಲ agrees (q309) |
+| 567 | `*phiñ* [?])` → `*ghañ*)` | SECOND-PASS Q1: Kannada p.567 ಭಾವಾರ್ಥದಲ್ಲಿ ಘಞ್ ಪ್ರತ್ಯಯ; IAST by sp_sanskrit.py (q310) |
