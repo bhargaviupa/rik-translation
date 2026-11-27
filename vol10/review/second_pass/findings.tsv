@@ -58,3 +58,99 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 24	Q2	R1	q26/q27 rathāñchyāvān…nai	रथाञ्छ्यावान्स्नीड्वङ्गान्नै [?]		Kannada p.24 ರಥಾಞ್ಭಾವಾನ್ವೀಡ್ವಂಗಾನ್ವೈ has a non-word; mark stays	kept	
 30	Q2	R1	q32 remark mark	[?] in own remark		remark not edited	kept	
 27	S2	R1	Pā. Sū. 3-4-9	3-4-9	(English kept)	Kannada ೩೪-೯ hyphen lost; English has real form	kept	
+33	S2	R1	Ṛ. Saṃ. reference sīm quotation	Ṛ. Saṃ. 2-28-4, as read	Ṛ. Saṃ. 2-25-4, as read	Kannada p.33 (ಋ. ಸಂ. ೨-೨೫-೪)	applied	
+34	S3	R1	mitrāvaruṇā grammar, supāṃ sulug number	in the vocative dual, by *supāṃ sulug…* (Pā. Sū. 7-1-39) the *ā*	in the vocative dual, by *supāṃ sulug…* the *ā*	Kannada p.34 gives no sūtra number there (number removed)	applied	
+37	S14	R1	Svanaya gift	the cows and chariots given in great numbers	the horses and chariots given in great numbers	Kannada p.37 ಅಶ್ವಗಳೂ, ರಥಗಳೂ (horses and chariots)	applied	
+37	S2	R1	juhotyādibhyaḥ śluḥ sūtra	(Pā. Sū. 2-4-75) *śluḥ*	(Pā. Sū. 2-4-226) *śluḥ*	Kannada p.37 (ಪಾ. ಸೂ. ೨-೪-೨೨೬) applied as printed; listed in open.tsv	applied	
+41	S13	R6	grammar, root form	*Sanemu* — the root	*Sanema* — the root	Kannada p.41 ಸನೇಮ	applied	
+41	S3	R1	suvīrāḥ sūtra number and accent	*suvīraḥ …vīravīryau ca*, the final-first-member accent	*suvīraḥ …vīravīryau ca* (Pā. Sū. 6-2-120), the acute on the first syllable of the latter member	Kannada p.41 (ಪಾ. ಸೂ. ೬-೨-೧೨೦) ಉತ್ತರಪದ ಆದ್ಯುದಾತ್ತ	applied	
+41	S3	R1	chandasīraḥ number	in the Chandas by *chandasīraḥ…* the *m*	in the Chandas by *chandasīraḥ…* (Pā. Sū. 8-2-15) the *m*	Kannada p.41 (ಪಾ. ಸೂ. ೮-೨-೧೫)	applied	
+41	S15	R1	accent of ini ī, roles reversed	since *matup* is *pit*, the *ī* of the *ini*-suffix is unaccented	since *matup* and *ṅīp* are *pit* (unaccented), the *i* of the *ini*-suffix is acute	Kannada p.41 ಮತುಪ್ ಜೀಪ್ ಪಿತ್ತಾದುದರಿಂದ ಅನುದಾತ್ತವಾಗುವುದರಿಂದ ಇನಿ ಪ್ರತ್ಯಯದ ಇಕಾರವು ಉದಾತ್ತವಾಗುತ್ತದೆ	applied	
+41	S3	R1	aśvāvataḥ matup number	*aśvāḥ asya santi* — *matup*;	*aśvāḥ asya santi* — *matup* (Pā. Sū. 5-2-98);	Kannada p.41 (ಪಾ. ಸೂ. ೫-೨-೯೮)	applied	
+41	S3	R1	mādupadhāyāś ca number	*mādupadhāyāś ca matorvo 'yavādibhyaḥ*;	*mādupadhāyāś ca matorvo 'yavādibhyaḥ* (Pā. Sū. 8-2-9);	Kannada p.41 (ಪಾ. ಸೂ. ೮-೨-೯)	applied	
+41	S3	R1	somāśvendriya number	by *mantre somāśvendriya…* the	by *mantre somāśvendriya…* (Pā. Sū. 6-3-131) the	Kannada p.41 (ಪಾ. ಸೂ. ೬-೩-೧೩೧)	applied	
+43	S3	R1	devatādvandve number	by *devatādvandve ca* the *ānaṅ*	by *devatādvandve ca* (Pā. Sū. 6-3-26) the *ānaṅ*	Kannada p.43 (ಪಾ. ಸೂ. ೬-೩-೨೬)	applied	
+43	S3	R1	āmantritasya number	by *āmantritasya ca* the *nighāta*	by *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*	Kannada p.43 (ಪಾ. ಸೂ. ೮-೧-೧೯)	applied	
+43	S3	R1	satsūdviṣa number	*satsūdviṣadruhaduha…* the suffix	*satsūdviṣadruhaduha…* (Pā. Sū. 3-2-61) the suffix	Kannada p.43 (ಪಾ. ಸೂ. ೩-೨-೬೧)	applied	
+43	S3	R1	vā druhamuha number	by *vā druhamuha…* the	by *vā druhamuha…* (Pā. Sū. 3-2-61, as printed) the	Kannada p.43 prints ೩-೨-೬೧ here too, applied as printed	applied	
+43	S3	R1	ekāco baśo bhaṣ number	by *ekāco baśo bhaṣ…* the	by *ekāco baśo bhaṣ…* (Pā. Sū. 8-2-32) the	Kannada p.43 (ಪಾ. ಸೂ. ೮-೨-೩೨)	applied	
+43	S3	R1	gatikārakopapadāt number	*gatikārakopapadāt kṛt* the accent	*gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the accent	Kannada p.43 (ಪಾ. ಸೂ. ೬-೨-೧೩೯)	applied	
+44	S3	R1	Apaḥ ūḍidaṃpadādi number	*Apaḥ* — *ūḍidaṃpadādi…*:	*Apaḥ* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171):	Kannada p.44 (ಪಾ.ಸೂ. ೬-೧-೧೭೧)	applied	
+44	S13	R1	sunoti, word in connection	since the word *yajña* [or *yat*] stands in connection	since the word *yat* stands in connection	Kannada p.44 ಯಚ್ಛಬ್ದ ಸಂಬಂಧವಿರುವುದರಿಂದ	applied	
+44	S3	R1	chandasi luṅlaṅliṭaḥ number	*chandasi luṅlaṅliṭaḥ* the *liṭ*	*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) the *liṭ*	Kannada p.44 (ಪಾ. ಸೂ. ೩-೪-೬)	applied	
+44	S3	R1	liti number	by *liti* the acute for the vowel	by *liti* (Pā. Sū. 6-1-193) the acute for the vowel	Kannada p.44 (ಪಾ. ಸೂ. ೬-೧-೧೯೩)	applied	
+44	S3	R1	vyatyayo bahulam number	*vyatyayo bahulam*: the neuter	*vyatyayo bahulam* (Pā. Sū. 3-1-84): the neuter	Kannada p.44 (ಪಾ. ಸೂ. ೩-೧-೮೪)	applied	
+44	S3	R1	anyeṣām api dṛśyate number	*anyeṣām api dṛśyate* the lengthening	*anyeṣām api dṛśyate* (Pā. Sū. 6-3-137) the lengthening	Kannada p.44 (ಪಾ ಸೂ. ೬-೩-೧೩೭)	applied	
+46	S2	R1	Ṛ. Saṃ. reference vrādhataḥ quotation	(Ṛ. Saṃ. 1-150-4, as printed	(Ṛ. Saṃ. 1-150-3, as printed	Kannada p.46 (ಋ. ಸಂ. ೧-೧೫೦-೩)	applied	
+46	S14	R1	bāḷha meaning	*bāḷha* means *vṛddha* ("strong")	*bāḷha* means *dṛḍha* ("firm")	Kannada p.46 ಬಾಳ್ಹೆನೆಂದರೆ ದೃಢವೆಂದರ್ಥ	applied	
+46	S14	R1	vrādhataḥ epithet of gods	This epithet is also found for gods.	This epithet is rarely found for gods.	Kannada p.46 ದೇವತೆಗಳ ಪರವಾಗಿ ಈ ವಿಶೇಷಣವಿರುವುದು ಅಪರೂಪ	applied	
+46	S13	R3	dhṛḍhe sthirakarme gloss	dhṛḍhe, sthirakarme* ("firm, of steady action")	dhṛḍhe, sthairye* ("firm, steadiness")	Kannada p.46 ಧೃಢೇ, ಸ್ಥೈರ್ಯೇ ಎಂದು ಅರ್ಥ (IAST by sp_sanskrit)	applied	
+47	S3	R1	vṛṣādīnāṃ ca number	*vṛṣādīnāṃ ca* — the initial acute	*vṛṣādīnāṃ ca* (Pā. Sū. 6-1-203) — the initial acute	Kannada p.47 (ಪಾ. ಸೂ. ೬-೧-೨೦೩)	applied	
+47	S3	R1	anyebhyo 'pi dṛśyate number (vic)	*anyebhyo 'pi dṛśyate* the suffix *vic*	*anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75) the suffix *vic*	Kannada p.47 (ಪಾ. ಸೂ. ೩-೨-೭೫)	applied	
+47	S3	R1	niṣṭhā, tṛtīyā karmaṇi numbers	by *niṣṭhā*; *tṛtīyā karmaṇi* —	by *niṣṭhā* (Pā. Sū. 3-2-102); *tṛtīyā karmaṇi* (Pā. Sū. 6-2-48) —	Kannada p.47 (ಪಾ. ಸೂ. ೩-೨-೧೦೨), (ಪಾ. ಸೂ. ೬-೨-೪೮)	applied	
+47	S3	R1	sāvekācas number	*sāvekācas tṛtīyādiḥ…* — the ending takes the acute. *Gūrtaśravāḥ*	*sāvekācas tṛtīyādiḥ…* (Pā. Sū. 6-1-168) — the ending takes the acute. *Gūrtaśravāḥ*	Kannada p.47 (ಪಾ. ಸೂ. ೬-೧-೧೬೮)	applied	
+47	S3	R1	bahuvrīhau number (gūrtaśravāḥ)	*bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Visṛṣṭarātiḥ*	*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) — the accent of the first member. *Visṛṣṭarātiḥ*	Kannada p.47 (ಪಾ. ಸೂ. ೬-೨-೧)	applied	
+47	S3	R1	vraścabhrasja number	*vraścabhrasja…* — *ṣatva*	*vraścabhrasja…* (Pā. Sū. 8-2-36) — *ṣatva*	Kannada p.47 (ಪಾ. ಸೂ. ೮-೨-೩೬)	applied	
+47	S3	R1	gatir anantaraḥ number	*gatir anantaraḥ* — the prefix	*gatir anantaraḥ* (Pā. Sū. 6-2-49) — the prefix	Kannada p.47 (ಪಾ. ಸೂ. ೬-೨-೪೯)	applied	
+48	S3	R1	bahuvrīhau number (visṛṣṭarātiḥ)	*bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member. *Yāti*	*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the accent of the first member. *Yāti*	Kannada p.48 (ಪಾ. ಸೂ. ೬-೨-೧)	applied	
+48	S3	R1	anyebhyo 'pi dṛśyate number (kvanip)	*anyebhyo 'pi dṛśyate* the suffix *kvanip*	*anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75) the suffix *kvanip*	Kannada p.48 (ಪಾ. ಸೂ. ೩-೨-೭೫)	applied	
+48	S3	R1	hrasvasya piti kṛti tuk number	by *hrasvasya piti kṛti tuk* the	by *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) the	Kannada p.48 (ಪಾ. ಸೂ. ೬-೧-೭೧)	applied	
+48	S3	R1	gatikārakopapadāt number	*gatikārakopapadāt kṛt*: the accent	*gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the accent	Kannada p.48 (ಪಾ. ಸೂ. ೬-೨-೧೩೯)	applied	
+48	S3	R1	khari ca number	*khari ca* the *d*	*khari ca* (Pā. Sū. 8-4-55) the *d*	Kannada p.48 (ಪಾ. ಸೂ. ೮-೪-೫೫)	applied	
+48	S3	R1	sāvekācas number (pṛtsu)	because it has one syllable, *sāvekācas tṛtīyādiḥ…* the ending	because it has one syllable, *sāvekācas tṛtīyādiḥ…* (Pā. Sū. 6-1-168) the ending	Kannada p.48 (ಪಾ ಸೂ. ೬-೧-೧೬೮)	applied	
+51	S14	R1	rathavate use, sense reversed/added	cannot be explained as it ought to be, as the sacrificing *yajamāna* who is said to be fed	cannot be said with certainty to refer to the sacrificing *yajamāna*	Kannada p.51 ಯಜ್ಞ ಮಾಡುವ ಯಜಮಾನನಿಗೆ ಅನ್ವಯಿಸುವುದೆಂದು ನಿಷ್ಕೃಷ್ಟವಾಗಿ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ	applied	
+51	S3	R1	luṅlaṅliṭaḥ number	*chandasi luṅlaṅliṭaḥ* — *laṅ*	*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — *laṅ*	Kannada p.51 (ಪಾ. ಸೂ. ೩-೪-೬)	applied	
+51	S3	R1	vyatyayo bahulam number	by *vyatyayo bahulam* the suffix *jhi*	by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the suffix *jhi*	Kannada p.51 (ಪಾ. ಸೂ. ೩-೧-೮೫)	applied	
+51	S3	R1	sārvadhātukam apit number	*sārvadhātukam apit* — since	*sārvadhātukam apit* (Pā. Sū. 1-2-4) — since	Kannada p.51 (ಪಾ. ಸೂ. ೧-೨-೪)	applied	
+51	S3	R1	gamahana number	*gamahanajana…* the loss	*gamahanajana…* (Pā. Sū. 6-4-98) the loss	Kannada p.51 (ಪಾ ಸೂ. ೬-೪-೯೮)	applied	
+51	S3	R1	jhoṃtaḥ number	*jhoṃtaḥ* — the *ant*	*jhoṃtaḥ* (Pā. Sū. 7-1-3) — the *ant*	Kannada p.51 (ಪಾ. ಸೂ. ೭-೧-೩)	applied	
+51	S3	R1	amāṅyoge number	*bahulaṃ chandasy amāṅyoge 'pi* — the augment	*bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75) — the augment	Kannada p.51 (ಪಾ. ಸೂ. ೬-೪-೭೫)	applied	
+51	S3	R1	nipātair yad number	*nipātair yad yady…* the *nighāta*	*nipātair yad yady…* (Pā. Sū. 8-1-30) the *nighāta*	Kannada p.51 (ಪಾ. ಸೂ. ೮-೧-೩೦)	applied	
+51	S3	R1	bhāve 'nupasargasya number	*bhāve 'nupasargasya* the suffix *ap*	*bhāve 'nupasargasya* (Pā. Sū. 3-3-75) the suffix *ap*	Kannada p.51 (ಪಾ. ಸೂ. ೩-೩-೭೫)	applied	
+51	S3	R1	dvyaco 'tastiṅaḥ number	*dvyaco 'tastiṅaḥ* — in the Saṃhitā	*dvyaco 'tastiṅaḥ* (Pā. Sū. 6-3-135) — in the Saṃhitā	Kannada p.51 (ಪಾ. ಸೂ. ೬-೩-೧೩೫)	applied	
+51	S3	R1	āmantritasya number	*āmantritasya ca* the *nighāta*	*āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*	Kannada p.51 (ಪಾ. ಸೂ. ೮-೧-೧೯)	applied	
+52	S13	R3	naño jaramara… sūtra name and number	*ñño jaramarami…* — the initial acute	*naño jaramaramitramṛtāḥ* (Pā. Sū. 6-2-116) — the initial acute	Kannada p.52 ನಞೋ ಜರಮರಮಿತ್ರಮೃತಾಃ (ಪಾ. ಸೂ. ೬-೨-೧೧೬); IAST by sp_sanskrit	applied	
+52	S3	R1	striyāṃ ktin number	by *striyāṃ ktin* the suffix	by *striyāṃ ktin* (Pā. Sū. 3-3-94) the suffix	Kannada p.52 (ಪಾ. ಸೂ. ೩-೩-೯೪)	applied	
+52	S3	R1	tādau ca niti number	*tādau ca niti* the prefix	*tādau ca niti* (Pā. Sū. 6-2-50) the prefix	Kannada p.52 (ಪಾ. ಸೂ. ೬-೨-೫೦)	applied	
+54	S14	R1	rāran in second pratipadārtha	*rāran* — delighting; (*teṣu* — in those)	*rāran* — offer; (*teṣu* — in those)	Kannada p.54 ರಾರನ್—ಅರ್ಪಿಸುತ್ತಾರೋ	applied	
+55	S14	R1	daśataya gloss in Ṛ. Saṃ. 1-158-4	as "*daśayaḥ* — dwelling [in the ten]"	as "*daśavāraḥ* — ten times"	Kannada p.55 ದಶತಯೋ ದಶವಾರಃ ಹತ್ತಾವರ್ತಿ	applied	
+55	S13	R3	maghaṃ rekṇaḥ	*mahaṃ rekṇaḥ*	*maghaṃ rekṇaḥ*	Kannada p.55 ಮಘಂ ರೇಕ್ಣಃ	applied	
+55	S13	R3	daśendriya quotation	*daśatayasya dhāseḥ dāśendriyatṛptisādhanatvena	*daśatayasya dhāseḥ daśendriyatṛptisādhanatvena	Kannada p.55 ದಶೇಂದ್ರಿಯತೃಪ್ತಿಸಾಧನತ್ವೇನ	applied	
+56	S3	R1	luṅlaṅliṭaḥ number (dhāma)	*chandasi luṅlaṅliṭaḥ* — *loṭ*-sense	*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — *loṭ*-sense	Kannada p.56 (ಪಾ. ಸೂ. ೩-೪-೬)	applied	
+56	S3	R1	gātisthā number	*gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — its	*gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. Sū. 2-4-77) — its	Kannada p.56 (ಪಾ. ಸೂ. ೨-೪-೭೭)	applied	
+56	S3	R1	amāṅyoge number	*bahulaṃ chandasy amāṅyoge 'pi* — the *aṭ*	*bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75) — the *aṭ*	Kannada p.56 (ಪಾ. ಸೂ. ೬-೪-೭೫)	applied	
+56	S3	R1	asyativakti number	*asyativakti khyātibhyo 'ṅ* — the *aṅ*	*asyativakti khyātibhyo 'ṅ* (Pā. Sū. 3-1-52) — the *aṅ*	Kannada p.56 (ಪಾ. ಸೂ. ೩-೧-೫೨)	applied	
+56	S3	R1	vaca um number	*vaca um* — …	*vaca um* (Pā. Sū. 7-4-20) — …	Kannada p.56 end (ಪಾ. ಸೂ. ೭-೪-೨೦)	applied	
+57	S13	R3	mid aco 'ntyāt paraḥ misread as mider guṇaḥ	by *mider guṇaḥ* [as printed in part] guṇa	by *midacoṃtyātparaḥ* it comes after the last vowel; guṇa	Kannada p.57 ಮಿದಚೋಂತ್ಯಾತ್ಪರಃ—ಅಂತ್ಯಾಚಿನ ಪರವಾಗಿ ಬರುತ್ತದೆ. ಗುಣ (IAST by sp_sanskrit)	applied	
+57	S16	R1	tayap accent, addition ini-like	since it is *pit*, the suffix *ini*-like is unaccented	since it is *pit*, it is unaccented	Kannada p.57 ಪಿತ್ತಾದುದರಿಂದ ಇದು ಅನುದಾತ್ತವಾಗುತ್ತದೆ	applied	
+57	S3	R1	saṅkhyāyā avayave tayap number	*saṅkhyāyā avayave tayap* the suffix	*saṅkhyāyā avayave tayap* (Pā. Sū. 5-2-42) the suffix	Kannada p.57 (ಪಾ. ಸೂ. ೫-೨-೪೨)	applied	
+57	S3	R1	striyāṃ ktin number	by *striyāṃ ktin* the suffix *ktin*; by *vyatyaya*	by *striyāṃ ktin* (Pā. Sū. 3-3-94) the suffix *ktin*; by *vyatyaya*	Kannada p.57 (ಪಾ. ಸೂ. ೩-೩-೯೪)	applied	
+57	S3	R1	marutvṛdhādīnām number	*marutvṛdhādīnāṃ chandasy upasaṅkhyānam* —	*marutvṛdhādīnāṃ chandasy upasaṅkhyānam* (Pā. Sū. 6-2-102-2) —	Kannada p.57 (ಪಾ. ಸೂ. ೬-೨-೧೦೨-೨)	applied	
+57	S3	R1	liti number	by *liti* the first-member acute	by *liti* (Pā. Sū. 6-1-193) the first-member acute	Kannada p.57 (ಪಾ. ಸೂ. ೬-೧-೧೯೩)	applied	
+57	S3	R1	dhātor ekāco number	*dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* the suffix	*dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. Sū. 3-1-22) the suffix	Kannada p.57 (ಪಾ. ಸೂ. ೩-೧-೨೨)	applied	
+57	S3	R1	yaṅo 'ci ca number	*yaṅo 'ci ca* the *luk*	*yaṅo 'ci ca* (Pā. Sū. 2-4-74) the *luk*	Kannada p.57 (ಪಾ. ಸೂ. ೨-೪-೭೪)	applied	
+57	S3	R1	dīrgha iṇkitaḥ number	*dīrgha iṇkitaḥ* — the lengthening	*dīrgha iṇkitaḥ* (Pā. Sū. 7-4-83) — the lengthening	Kannada p.57 (ಪಾ. ಸೂ. ೭-೪-೮೩)	applied	
+57	S3	R1	yadvṛttānnityam number	*yadvṛttānnityam* — the *nighāta*	*yadvṛttānnityam* (Pā. Sū. 8-1-66) — the *nighāta*	Kannada p.57 (ಪಾ. ಸೂ. ೮-೧-೬೬)	applied	
+57	S3	R1	chandasy ubhayathā number	*chandasy ubhayathā* — since	*chandasy ubhayathā* (Pā. Sū. 3-4-117) — since	Kannada p.57 (ಪಾ. ಸೂ. ೩-೪-೧೧೭)	applied	
+57	S3	R1	ato lopa iṭi ca number	*ato lopa iṭi ca* the loss	*ato lopa iṭi ca* (Pā. Sū. 6-4-64) the loss	Kannada p.57 (ಪಾ. ಸೂ. ೬-೪-೬೪)	applied	
+57	S3	R1	abhyastānām ādiḥ number	*abhyastānām ādiḥ* the first-syllable acute does not arise	*abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute does not arise	Kannada p.57 (ಪಾ. ಸೂ. ೬-೧-೧೮೯)	applied	
+60	S3	R1	idito num dhātoḥ number	*idito num dhātoḥ* the *num*	*idito num dhātoḥ* (Pā. Sū. 7-1-58) the *num*	Kannada p.60 (ಪಾ. ಸೂ. ೭-೧-೫೮)	applied	
+60	S3	R1	ato dīrgho yañi number	*ato dīrgho yañi* — lengthening	*ato dīrgho yañi* (Pā. Sū. 7-3-101) — lengthening	Kannada p.60 (ಪಾ. ಸೂ. ೭-೩-೧೦೧)	applied	
+60	S3	R1	tāsyanudāttet number	by *tāsyanudāttet…* the	by *tāsyanudāttet…* (Pā. Sū. 6-1-186) the	Kannada p.60 (ಪಾ. ಸೂ. ೬-೧-೧೮೬)	applied	
+60	S3	R1	bhṛñām it number	*bhṛñām it* — *i* in	*bhṛñām it* (Pā. Sū. 7-4-76) — *i* in	Kannada p.60 (ಪಾ. ಸೂ. ೭-೪-೭೬)	applied	
+60	S3	R1	abhyastānām ādiḥ number	*abhyastānām ādiḥ* — the first-syllable acute.	*abhyastānām ādiḥ* (Pā. Sū. 6-1-189) — the first-syllable acute.	Kannada p.60 (ಪಾ. ಸೂ. ೬-೧-೧೮೯)	applied	
+60	S3	R1	iṇo yaṇ number	*iṇo yaṇ* — *yaṇ* for the root	*iṇo yaṇ* (Pā. Sū. 6-4-81) — *yaṇ* for the root	Kannada p.60 (ಪಾ. ಸೂ. ೬-೪-೮೧)	applied	
+60	S13	R1	yad-yoga, misread as yvoḥ	since *yvoḥ…* the *nighāta* does not arise	since there is connection with *yat*, the *nighāta* does not arise	Kannada p.60 ಯದ್ಯೋಗವಿರುವುದರಿಂದ ನಿಘಾತಸ್ವರ ಬರುವುದಿಲ್ಲ	applied	
+60	S3	R1	śeś chandasi number	*śeś chandasi bahulam* the *śi* is dropped	*śeś chandasi bahulam* (Pā. Sū. 6-1-70) the *śi* is dropped	Kannada p.60 (ಪಾ. ಸೂ. ೬-೧-೭೦)	applied	
+61	S3	R1	bahuvrīhau number	*bahuvrīhau prakṛtyā pūrvapadam*: the accent	*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the accent	Kannada p.61 (ಪಾ. ಸೂ. ೬-೨-೧)	applied	
+61	S3	R1	ājjaser asuk number	*ājjaser asuk* the augment	*ājjaser asuk* (Pā. Sū. 7-1-50) the augment	Kannada p.61 (ಪಾ. ಸೂ. ೭-೧-೫೦)	applied	
+61	S3	R1	ñnityādir nityam number	*ñnityādir nityam* — the initial	*ñnityādir nityam* (Pā. Sū. 6-1-197) — the initial	Kannada p.61 (ಪಾ. ಸೂ. ೬-೧-೧೯೭)	applied	
+42	Q2	R1	q34/q37 anuṣṭhā[?]ṃ (Deva+IAST)	anuṣṭhā[?]ṃ		Kannada p.42 ಅನುಷ್ಠಾತ್ಕೃಣಾಂ is a non-word; mark stays	kept	
+42	Q2	R1	q35/q38 bhogān[?]ito (Deva+IAST)	bhogān[?]ito		Kannada p.42 ಭೋಗಾನ್ಪಶ್ಯನ್ವಥಿತೋ has a non-word; mark stays	kept	
+42	Q2	R1	q36/q39 vā[?]yaitat (Deva+IAST)	vā[?]yaitat		Kannada p.42 ವಾಜ್ನಾಮೈತತ್ is a non-word; mark stays	kept	
+42	Q2	R1	q33 remark mark	[?] in own remark		remark not edited	kept	
+55	Q2	R1	q43 (p53) remark mark	[?] in own remark		remark not edited (page 53)	kept	
+58	Q2	R1	q44/q47 anihāya [?] (Deva+IAST)	apyanihāya [?] kasmād…		Kannada p.58 ಯಷ್ಟ್ವಾನ್ನಿಹಾಯ is a non-word; mark stays	kept	
+58	Q2	R1	q45/q48 netṛkarmāṇām [?] (Deva+IAST)	netṛkarmāṇām [?]		Kannada p.58 ನೇತನ್ಕರ್ಮಣಾಂ is a non-word; mark stays	kept	
+58	Q2	R1	q46/q49 tatheṣ[?]raśmiśca (Deva+IAST)	tatheṣ[?]raśmiśca		Kannada p.58 ತಥೇಶ್ವರಶ್ಮಿಶ್ಚ differs (iṣṭaraśmi in English); mark stays	kept	
+46	Q2	R1	q40-q42 remark marks	[?] in own remarks		remarks not edited; the numbers they speak of settled above (1-150-3 from Kannada)	kept	

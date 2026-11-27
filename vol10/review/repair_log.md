@@ -71,3 +71,94 @@
 | 30 | `atasthī [?] mahatīṃ` → `atasthe mahatīṃ` | SECOND-PASS Q1: Kannada p.30 reads ಅತಸ್ಥೇ ಮಹತೀಂ ಚಿಂತಾಂ |
 | 30 | `प्राप्स्या [?] मुधा` → `प्राप्ता मुधा` | SECOND-PASS Q1: Kannada p.30 reads ಜರಾಂ ಪ್ರಾಪ್ತಾ ಮುಧಾ |
 | 30 | `prāpsyā [?] mudhā` → `prāptā mudhā` | SECOND-PASS Q1: Kannada p.30 reads ಜರಾಂ ಪ್ರಾಪ್ತಾ ಮುಧಾ |
+
+### 2026-11-27 second pass, batch e32-61.tsv
+| page | old → new | why |
+|---|---|---|
+| 33 | `Ṛ. Saṃ. 2-28-4, as read` → `Ṛ. Saṃ. 2-25-4, as read` | SECOND-PASS S2: Kannada p.33 (ಋ. ಸಂ. ೨-೨೫-೪) |
+| 34 | `in the vocative dual, by *supāṃ sulug…* (Pā. Sū. 7-1-39) the *ā*` → `in the vocative dual, by *supāṃ sulug…* the *ā*` | SECOND-PASS S3: Kannada p.34 gives no sūtra number there (number removed) |
+| 37 | `the cows and chariots given in great numbers` → `the horses and chariots given in great numbers` | SECOND-PASS S14: Kannada p.37 ಅಶ್ವಗಳೂ, ರಥಗಳೂ (horses and chariots) |
+| 37 | `(Pā. Sū. 2-4-75) *śluḥ*` → `(Pā. Sū. 2-4-226) *śluḥ*` | SECOND-PASS S2: Kannada p.37 (ಪಾ. ಸೂ. ೨-೪-೨೨೬) applied as printed; listed in open.tsv |
+| 41 | `*Sanemu* — the root` → `*Sanema* — the root` | SECOND-PASS S13: Kannada p.41 ಸನೇಮ |
+| 41 | `*suvīraḥ …vīravīryau ca*, the final-first-member accent` → `*suvīraḥ …vīravīryau ca* (Pā. Sū. 6-2-120), the acute on the first syllable of the latter ` | SECOND-PASS S3: Kannada p.41 (ಪಾ. ಸೂ. ೬-೨-೧೨೦) ಉತ್ತರಪದ ಆದ್ಯುದಾತ್ತ |
+| 41 | `in the Chandas by *chandasīraḥ…* the *m*` → `in the Chandas by *chandasīraḥ…* (Pā. Sū. 8-2-15) the *m*` | SECOND-PASS S3: Kannada p.41 (ಪಾ. ಸೂ. ೮-೨-೧೫) |
+| 41 | `since *matup* is *pit*, the *ī* of the *ini*-suffix is unaccented` → `since *matup* and *ṅīp* are *pit* (unaccented), the *i* of the *ini*-suffix is acute` | SECOND-PASS S15: Kannada p.41 ಮತುಪ್ ಜೀಪ್ ಪಿತ್ತಾದುದರಿಂದ ಅನುದಾತ್ತವಾಗುವುದರಿಂದ ಇನಿ ಪ್ರತ್ಯಯದ ಇಕಾರವು ಉದಾತ್ತವಾಗುತ್ತದೆ |
+| 41 | `*aśvāḥ asya santi* — *matup*;` → `*aśvāḥ asya santi* — *matup* (Pā. Sū. 5-2-98);` | SECOND-PASS S3: Kannada p.41 (ಪಾ. ಸೂ. ೫-೨-೯೮) |
+| 41 | `*mādupadhāyāś ca matorvo 'yavādibhyaḥ*;` → `*mādupadhāyāś ca matorvo 'yavādibhyaḥ* (Pā. Sū. 8-2-9);` | SECOND-PASS S3: Kannada p.41 (ಪಾ. ಸೂ. ೮-೨-೯) |
+| 41 | `by *mantre somāśvendriya…* the` → `by *mantre somāśvendriya…* (Pā. Sū. 6-3-131) the` | SECOND-PASS S3: Kannada p.41 (ಪಾ. ಸೂ. ೬-೩-೧೩೧) |
+| 43 | `by *devatādvandve ca* the *ānaṅ*` → `by *devatādvandve ca* (Pā. Sū. 6-3-26) the *ānaṅ*` | SECOND-PASS S3: Kannada p.43 (ಪಾ. ಸೂ. ೬-೩-೨೬) |
+| 43 | `by *āmantritasya ca* the *nighāta*` → `by *āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*` | SECOND-PASS S3: Kannada p.43 (ಪಾ. ಸೂ. ೮-೧-೧೯) |
+| 43 | `*satsūdviṣadruhaduha…* the suffix` → `*satsūdviṣadruhaduha…* (Pā. Sū. 3-2-61) the suffix` | SECOND-PASS S3: Kannada p.43 (ಪಾ. ಸೂ. ೩-೨-೬೧) |
+| 43 | `by *vā druhamuha…* the` → `by *vā druhamuha…* (Pā. Sū. 3-2-61, as printed) the` | SECOND-PASS S3: Kannada p.43 prints ೩-೨-೬೧ here too, applied as printed |
+| 43 | `by *ekāco baśo bhaṣ…* the` → `by *ekāco baśo bhaṣ…* (Pā. Sū. 8-2-32) the` | SECOND-PASS S3: Kannada p.43 (ಪಾ. ಸೂ. ೮-೨-೩೨) |
+| 43 | `*gatikārakopapadāt kṛt* the accent` → `*gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) the accent` | SECOND-PASS S3: Kannada p.43 (ಪಾ. ಸೂ. ೬-೨-೧೩೯) |
+| 44 | `*Apaḥ* — *ūḍidaṃpadādi…*:` → `*Apaḥ* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171):` | SECOND-PASS S3: Kannada p.44 (ಪಾ.ಸೂ. ೬-೧-೧೭೧) |
+| 44 | `since the word *yajña* [or *yat*] stands in connection` → `since the word *yat* stands in connection` | SECOND-PASS S13: Kannada p.44 ಯಚ್ಛಬ್ದ ಸಂಬಂಧವಿರುವುದರಿಂದ |
+| 44 | `*chandasi luṅlaṅliṭaḥ* the *liṭ*` → `*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) the *liṭ*` | SECOND-PASS S3: Kannada p.44 (ಪಾ. ಸೂ. ೩-೪-೬) |
+| 44 | `by *liti* the acute for the vowel` → `by *liti* (Pā. Sū. 6-1-193) the acute for the vowel` | SECOND-PASS S3: Kannada p.44 (ಪಾ. ಸೂ. ೬-೧-೧೯೩) |
+| 44 | `*vyatyayo bahulam*: the neuter` → `*vyatyayo bahulam* (Pā. Sū. 3-1-84): the neuter` | SECOND-PASS S3: Kannada p.44 (ಪಾ. ಸೂ. ೩-೧-೮೪) |
+| 44 | `*anyeṣām api dṛśyate* the lengthening` → `*anyeṣām api dṛśyate* (Pā. Sū. 6-3-137) the lengthening` | SECOND-PASS S3: Kannada p.44 (ಪಾ ಸೂ. ೬-೩-೧೩೭) |
+| 46 | `(Ṛ. Saṃ. 1-150-4, as printed` → `(Ṛ. Saṃ. 1-150-3, as printed` | SECOND-PASS S2: Kannada p.46 (ಋ. ಸಂ. ೧-೧೫೦-೩) |
+| 46 | `*bāḷha* means *vṛddha* ("strong")` → `*bāḷha* means *dṛḍha* ("firm")` | SECOND-PASS S14: Kannada p.46 ಬಾಳ್ಹೆನೆಂದರೆ ದೃಢವೆಂದರ್ಥ |
+| 46 | `This epithet is also found for gods.` → `This epithet is rarely found for gods.` | SECOND-PASS S14: Kannada p.46 ದೇವತೆಗಳ ಪರವಾಗಿ ಈ ವಿಶೇಷಣವಿರುವುದು ಅಪರೂಪ |
+| 46 | `dhṛḍhe, sthirakarme* ("firm, of steady action")` → `dhṛḍhe, sthairye* ("firm, steadiness")` | SECOND-PASS S13: Kannada p.46 ಧೃಢೇ, ಸ್ಥೈರ್ಯೇ ಎಂದು ಅರ್ಥ (IAST by sp_sanskrit) |
+| 47 | `*vṛṣādīnāṃ ca* — the initial acute` → `*vṛṣādīnāṃ ca* (Pā. Sū. 6-1-203) — the initial acute` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೬-೧-೨೦೩) |
+| 47 | `*anyebhyo 'pi dṛśyate* the suffix *vic*` → `*anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75) the suffix *vic*` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೩-೨-೭೫) |
+| 47 | `by *niṣṭhā*; *tṛtīyā karmaṇi* —` → `by *niṣṭhā* (Pā. Sū. 3-2-102); *tṛtīyā karmaṇi* (Pā. Sū. 6-2-48) —` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೩-೨-೧೦೨), (ಪಾ. ಸೂ. ೬-೨-೪೮) |
+| 47 | `*sāvekācas tṛtīyādiḥ…* — the ending takes the acute. *Gūrtaśravāḥ*` → `*sāvekācas tṛtīyādiḥ…* (Pā. Sū. 6-1-168) — the ending takes the acute. *Gūrtaśravāḥ*` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೬-೧-೧೬೮) |
+| 47 | `*bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Visṛṣṭarātiḥ*` → `*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) — the accent of the first member. *Visṛṣṭ` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೬-೨-೧) |
+| 47 | `*vraścabhrasja…* — *ṣatva*` → `*vraścabhrasja…* (Pā. Sū. 8-2-36) — *ṣatva*` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೮-೨-೩೬) |
+| 47 | `*gatir anantaraḥ* — the prefix` → `*gatir anantaraḥ* (Pā. Sū. 6-2-49) — the prefix` | SECOND-PASS S3: Kannada p.47 (ಪಾ. ಸೂ. ೬-೨-೪೯) |
+| 48 | `*bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member. *Yāti*` → `*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the accent of the first member. *Yāti*` | SECOND-PASS S3: Kannada p.48 (ಪಾ. ಸೂ. ೬-೨-೧) |
+| 48 | `*anyebhyo 'pi dṛśyate* the suffix *kvanip*` → `*anyebhyo 'pi dṛśyate* (Pā. Sū. 3-2-75) the suffix *kvanip*` | SECOND-PASS S3: Kannada p.48 (ಪಾ. ಸೂ. ೩-೨-೭೫) |
+| 48 | `by *hrasvasya piti kṛti tuk* the` → `by *hrasvasya piti kṛti tuk* (Pā. Sū. 6-1-71) the` | SECOND-PASS S3: Kannada p.48 (ಪಾ. ಸೂ. ೬-೧-೭೧) |
+| 48 | `*gatikārakopapadāt kṛt*: the accent` → `*gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139): the accent` | SECOND-PASS S3: Kannada p.48 (ಪಾ. ಸೂ. ೬-೨-೧೩೯) |
+| 48 | `*khari ca* the *d*` → `*khari ca* (Pā. Sū. 8-4-55) the *d*` | SECOND-PASS S3: Kannada p.48 (ಪಾ. ಸೂ. ೮-೪-೫೫) |
+| 48 | `because it has one syllable, *sāvekācas tṛtīyādiḥ…* the ending` → `because it has one syllable, *sāvekācas tṛtīyādiḥ…* (Pā. Sū. 6-1-168) the ending` | SECOND-PASS S3: Kannada p.48 (ಪಾ ಸೂ. ೬-೧-೧೬೮) |
+| 51 | `cannot be explained as it ought to be, as the sacrificing *yajamāna* who is said to be fed` → `cannot be said with certainty to refer to the sacrificing *yajamāna*` | SECOND-PASS S14: Kannada p.51 ಯಜ್ಞ ಮಾಡುವ ಯಜಮಾನನಿಗೆ ಅನ್ವಯಿಸುವುದೆಂದು ನಿಷ್ಕೃಷ್ಟವಾಗಿ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ |
+| 51 | `*chandasi luṅlaṅliṭaḥ* — *laṅ*` → `*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — *laṅ*` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೩-೪-೬) |
+| 51 | `by *vyatyayo bahulam* the suffix *jhi*` → `by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the suffix *jhi*` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೩-೧-೮೫) |
+| 51 | `*sārvadhātukam apit* — since` → `*sārvadhātukam apit* (Pā. Sū. 1-2-4) — since` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೧-೨-೪) |
+| 51 | `*gamahanajana…* the loss` → `*gamahanajana…* (Pā. Sū. 6-4-98) the loss` | SECOND-PASS S3: Kannada p.51 (ಪಾ ಸೂ. ೬-೪-೯೮) |
+| 51 | `*jhoṃtaḥ* — the *ant*` → `*jhoṃtaḥ* (Pā. Sū. 7-1-3) — the *ant*` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೭-೧-೩) |
+| 51 | `*bahulaṃ chandasy amāṅyoge 'pi* — the augment` → `*bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75) — the augment` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೬-೪-೭೫) |
+| 51 | `*nipātair yad yady…* the *nighāta*` → `*nipātair yad yady…* (Pā. Sū. 8-1-30) the *nighāta*` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೮-೧-೩೦) |
+| 51 | `*bhāve 'nupasargasya* the suffix *ap*` → `*bhāve 'nupasargasya* (Pā. Sū. 3-3-75) the suffix *ap*` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೩-೩-೭೫) |
+| 51 | `*dvyaco 'tastiṅaḥ* — in the Saṃhitā` → `*dvyaco 'tastiṅaḥ* (Pā. Sū. 6-3-135) — in the Saṃhitā` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೬-೩-೧೩೫) |
+| 51 | `*āmantritasya ca* the *nighāta*` → `*āmantritasya ca* (Pā. Sū. 8-1-19) the *nighāta*` | SECOND-PASS S3: Kannada p.51 (ಪಾ. ಸೂ. ೮-೧-೧೯) |
+| 52 | `*ñño jaramarami…* — the initial acute` → `*naño jaramaramitramṛtāḥ* (Pā. Sū. 6-2-116) — the initial acute` | SECOND-PASS S13: Kannada p.52 ನಞೋ ಜರಮರಮಿತ್ರಮೃತಾಃ (ಪಾ. ಸೂ. ೬-೨-೧೧೬); IAST by sp_sanskrit |
+| 52 | `by *striyāṃ ktin* the suffix` → `by *striyāṃ ktin* (Pā. Sū. 3-3-94) the suffix` | SECOND-PASS S3: Kannada p.52 (ಪಾ. ಸೂ. ೩-೩-೯೪) |
+| 52 | `*tādau ca niti* the prefix` → `*tādau ca niti* (Pā. Sū. 6-2-50) the prefix` | SECOND-PASS S3: Kannada p.52 (ಪಾ. ಸೂ. ೬-೨-೫೦) |
+| 54 | `*rāran* — delighting; (*teṣu* — in those)` → `*rāran* — offer; (*teṣu* — in those)` | SECOND-PASS S14: Kannada p.54 ರಾರನ್—ಅರ್ಪಿಸುತ್ತಾರೋ |
+| 55 | `as "*daśayaḥ* — dwelling [in the ten]"` → `as "*daśavāraḥ* — ten times"` | SECOND-PASS S14: Kannada p.55 ದಶತಯೋ ದಶವಾರಃ ಹತ್ತಾವರ್ತಿ |
+| 55 | `*mahaṃ rekṇaḥ*` → `*maghaṃ rekṇaḥ*` | SECOND-PASS S13: Kannada p.55 ಮಘಂ ರೇಕ್ಣಃ |
+| 55 | `*daśatayasya dhāseḥ dāśendriyatṛptisādhanatvena` → `*daśatayasya dhāseḥ daśendriyatṛptisādhanatvena` | SECOND-PASS S13: Kannada p.55 ದಶೇಂದ್ರಿಯತೃಪ್ತಿಸಾಧನತ್ವೇನ |
+| 56 | `*chandasi luṅlaṅliṭaḥ* — *loṭ*-sense` → `*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — *loṭ*-sense` | SECOND-PASS S3: Kannada p.56 (ಪಾ. ಸೂ. ೩-೪-೬) |
+| 56 | `*gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — its` → `*gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. Sū. 2-4-77) — its` | SECOND-PASS S3: Kannada p.56 (ಪಾ. ಸೂ. ೨-೪-೭೭) |
+| 56 | `*bahulaṃ chandasy amāṅyoge 'pi* — the *aṭ*` → `*bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75) — the *aṭ*` | SECOND-PASS S3: Kannada p.56 (ಪಾ. ಸೂ. ೬-೪-೭೫) |
+| 56 | `*asyativakti khyātibhyo 'ṅ* — the *aṅ*` → `*asyativakti khyātibhyo 'ṅ* (Pā. Sū. 3-1-52) — the *aṅ*` | SECOND-PASS S3: Kannada p.56 (ಪಾ. ಸೂ. ೩-೧-೫೨) |
+| 56 | `*vaca um* — …` → `*vaca um* (Pā. Sū. 7-4-20) — …` | SECOND-PASS S3: Kannada p.56 end (ಪಾ. ಸೂ. ೭-೪-೨೦) |
+| 57 | `by *mider guṇaḥ* [as printed in part] guṇa` → `by *midacoṃtyātparaḥ* it comes after the last vowel; guṇa` | SECOND-PASS S13: Kannada p.57 ಮಿದಚೋಂತ್ಯಾತ್ಪರಃ—ಅಂತ್ಯಾಚಿನ ಪರವಾಗಿ ಬರುತ್ತದೆ. ಗುಣ (IAST by sp_sanskrit) |
+| 57 | `since it is *pit*, the suffix *ini*-like is unaccented` → `since it is *pit*, it is unaccented` | SECOND-PASS S16: Kannada p.57 ಪಿತ್ತಾದುದರಿಂದ ಇದು ಅನುದಾತ್ತವಾಗುತ್ತದೆ |
+| 57 | `*saṅkhyāyā avayave tayap* the suffix` → `*saṅkhyāyā avayave tayap* (Pā. Sū. 5-2-42) the suffix` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೫-೨-೪೨) |
+| 57 | `by *striyāṃ ktin* the suffix *ktin*; by *vyatyaya*` → `by *striyāṃ ktin* (Pā. Sū. 3-3-94) the suffix *ktin*; by *vyatyaya*` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೩-೩-೯೪) |
+| 57 | `*marutvṛdhādīnāṃ chandasy upasaṅkhyānam* —` → `*marutvṛdhādīnāṃ chandasy upasaṅkhyānam* (Pā. Sū. 6-2-102-2) —` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೬-೨-೧೦೨-೨) |
+| 57 | `by *liti* the first-member acute` → `by *liti* (Pā. Sū. 6-1-193) the first-member acute` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೬-೧-೧೯೩) |
+| 57 | `*dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* the suffix` → `*dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. Sū. 3-1-22) the suffix` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೩-೧-೨೨) |
+| 57 | `*yaṅo 'ci ca* the *luk*` → `*yaṅo 'ci ca* (Pā. Sū. 2-4-74) the *luk*` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೨-೪-೭೪) |
+| 57 | `*dīrgha iṇkitaḥ* — the lengthening` → `*dīrgha iṇkitaḥ* (Pā. Sū. 7-4-83) — the lengthening` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೭-೪-೮೩) |
+| 57 | `*yadvṛttānnityam* — the *nighāta*` → `*yadvṛttānnityam* (Pā. Sū. 8-1-66) — the *nighāta*` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೮-೧-೬೬) |
+| 57 | `*chandasy ubhayathā* — since` → `*chandasy ubhayathā* (Pā. Sū. 3-4-117) — since` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೩-೪-೧೧೭) |
+| 57 | `*ato lopa iṭi ca* the loss` → `*ato lopa iṭi ca* (Pā. Sū. 6-4-64) the loss` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೬-೪-೬೪) |
+| 57 | `*abhyastānām ādiḥ* the first-syllable acute does not arise` → `*abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute does not arise` | SECOND-PASS S3: Kannada p.57 (ಪಾ. ಸೂ. ೬-೧-೧೮೯) |
+| 60 | `*idito num dhātoḥ* the *num*` → `*idito num dhātoḥ* (Pā. Sū. 7-1-58) the *num*` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೭-೧-೫೮) |
+| 60 | `*ato dīrgho yañi* — lengthening` → `*ato dīrgho yañi* (Pā. Sū. 7-3-101) — lengthening` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೭-೩-೧೦೧) |
+| 60 | `by *tāsyanudāttet…* the` → `by *tāsyanudāttet…* (Pā. Sū. 6-1-186) the` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೬-೧-೧೮೬) |
+| 60 | `*bhṛñām it* — *i* in` → `*bhṛñām it* (Pā. Sū. 7-4-76) — *i* in` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೭-೪-೭೬) |
+| 60 | `*abhyastānām ādiḥ* — the first-syllable acute.` → `*abhyastānām ādiḥ* (Pā. Sū. 6-1-189) — the first-syllable acute.` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೬-೧-೧೮೯) |
+| 60 | `*iṇo yaṇ* — *yaṇ* for the root` → `*iṇo yaṇ* (Pā. Sū. 6-4-81) — *yaṇ* for the root` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೬-೪-೮೧) |
+| 60 | `since *yvoḥ…* the *nighāta* does not arise` → `since there is connection with *yat*, the *nighāta* does not arise` | SECOND-PASS S13: Kannada p.60 ಯದ್ಯೋಗವಿರುವುದರಿಂದ ನಿಘಾತಸ್ವರ ಬರುವುದಿಲ್ಲ |
+| 60 | `*śeś chandasi bahulam* the *śi* is dropped` → `*śeś chandasi bahulam* (Pā. Sū. 6-1-70) the *śi* is dropped` | SECOND-PASS S3: Kannada p.60 (ಪಾ. ಸೂ. ೬-೧-೭೦) |
+| 61 | `*bahuvrīhau prakṛtyā pūrvapadam*: the accent` → `*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the accent` | SECOND-PASS S3: Kannada p.61 (ಪಾ. ಸೂ. ೬-೨-೧) |
+| 61 | `*ājjaser asuk* the augment` → `*ājjaser asuk* (Pā. Sū. 7-1-50) the augment` | SECOND-PASS S3: Kannada p.61 (ಪಾ. ಸೂ. ೭-೧-೫೦) |
+| 61 | `*ñnityādir nityam* — the initial` → `*ñnityādir nityam* (Pā. Sū. 6-1-197) — the initial` | SECOND-PASS S3: Kannada p.61 (ಪಾ. ಸೂ. ೬-೧-೧೯೭) |
