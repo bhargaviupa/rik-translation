@@ -26,7 +26,7 @@ Translated. The file is closed except for that agreed pass.
 Old mid-file progress notes and a stray Cyrillic string in the file; varga numerals unreconciled with colophons; expert review wanted; `[?]` (see Vol 1).
 
 ## Publication (print PDF)
-Built with `publish/build_vol2.py` + `vol2_clean.py`; `publish/out/vol2_full.pdf` (and `.html`).
+Built with `publish/build_vol2.py` + `vol2_clean.py`; `vol2/review/vol2_full.pdf` (and `.html`).
 
 ## Pointers
 `vol2/README.md`, `vol2/vol2_runbook.md`, `docs/HISTORY.md`.

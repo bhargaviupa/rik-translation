@@ -21,7 +21,7 @@ Fully translated.
 The user's numeral files (`vol10/numerals/*.xlsx`, see its README) are available for the numeral pass (`publish/tools/numeral_pass/METHOD.md`). Open flags are in the progress note at the end of the English file.
 
 ## Publication (print PDF)
-Built (`build_vol45.py 10 full`); `publish/out/vol10_full.pdf`.
+Built (`build_vol45.py 10 full`); `vol10/review/vol10_full.pdf`.
 
 ## Pointers
 `vol10/README.md`, `vol10/PHASE2_WORKER.md`.

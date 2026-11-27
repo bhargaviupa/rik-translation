@@ -29,6 +29,8 @@
 
 - Nov 26 2026: p1071 line 17, user's reading: `ಮರ್ಜಯೋಮುಸಿ[?]` → `ಮರ್ಜಯೋಮಸಿ`. Vol 26 part 2 has no [?] left.
 
+- 2026-11-26: `tools/rv/kn_full.py 26` made a script-only Kannada Text file from vol26/html/rig_26.md; NOT USED: on merging into main (Nov 26 2026) main's curated `vol26/Rigveda_Samhita_Vol26_Kannada_Text.md` (settled readings, 30388 lines) was kept from vol26/html/rig_26.md (user named it as base, Nov 26): pages 1–894, 874 (873 + p. 617 found inside 616 by the script) with text, gaps: 20 (list in vol26/review/kn_gaps.md; 809 and 812 exist in rig_26_part2.md, not used); picture blocks collapsed: none. Gates passed (page markers complete/in order; digit multiset per page equal to the supplied page; no Kannada letter lost apart from normalised label wording). Details: `vol26/review/kn_full_notes.md`. No English file touched; reference names not yet unified in this file (`refs_apply.py 26 --scripts kannada` preview only).
+
 - 2026-11-26 w0100 (p. 100, Sūkta 44 Ṛk 1, Gist): the agent's remark "(… is not quoted; …)" removed from the English file and `work/w0100/en.md` (reported by the agent itself); the glosses kept. Dispatcher.
 - 2026-11-26 w0725 (Sūkta 96 Ṛk 16, 17): the translator had put the Saṃhitā label before the `#### Ṛk N` heading; the build left two stray headings and one stray label per verse (Ṛk 17/18 and 18/19/label); removed by hand so that each verse has its heading and one Saṃhitā label. No other text changed. Translator (w0725).
 - 2026-11-26 w0775 (Sūkta 97 Ṛk 14, Gist): a doubled article ("attain the sweet the …") reported by the agent itself; the second "the" removed in the English file and `work/w0775/en.md`. Dispatcher.

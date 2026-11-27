@@ -39,6 +39,8 @@
 
 - Nov 26 2026: 9 running heads: the title words with [?] (ಋಗ್ವೇದಸಂಹಿತಾ / ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ, the volume's two head titles, 415/413 clean heads) set to the clean form when ≥0.75 similar; 3-digit page numbers with [?] set to PDF page − 12. Listed in review/heads_applied.tsv.
 
+- 2026-11-26: `tools/rv/kn_full.py 25` made `vol25/Rigveda_Samhita_Vol25_Kannada_Text.md` from vol25/html/rig_25.md (user named it as base, Nov 26): pages 1–878, 873 with text, gaps: 5 (217, 475, 574, 575, 681); picture blocks collapsed: none. Gates passed (page markers complete/in order; digit multiset per page equal to the supplied page; no Kannada letter lost apart from normalised label wording). Details: `vol25/review/kn_full_notes.md`. No English file touched; reference names not yet unified in this file (`refs_apply.py 25 --scripts kannada` preview only).
+
 - Nov 26 2026 (user: derive the head digits from the neighbours): 8 running heads set from the unmarked heads before and after them (p709 label, p743 odd-page head, p774 sūkta ೨೩, p796 ೨೭, p817 stray mark, p887/888/889 `ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩`). Not derivable and left marked: p883 and p885 (Varga: 32 at p879, 33–35 after; p881 reads `ವ. ೨` without a mark, probably ೩೨/೩೩). List: review/heads_applied.tsv.
 
 - Nov 26 2026 (user: correct the clear ones): 25 unmarked running-head digits corrected where they broke the page-to-page sequence and a single look-alike swap (೨↔೩, ೬↔೭, ೮↔೯) gave the one value inside the bracket of the neighbouring heads (Varga must not fall; Adhyāya agrees with both neighbours). Found by the neighbour check (review/head_anomalies.tsv); list in review/heads_applied.tsv. Not changed (ambiguous): p71, p169, p185, p335–339, p371, p383, p493, p601, p785, p803, p845, p881.

@@ -7,7 +7,7 @@ h1.book { display: none; }
 h2.part { page-break-before: right; text-align: center; font-size: 17pt; font-weight: 400; margin: 2in 0 .3in; }
 h3.pg { border: 0; margin: 1em 0 .3em; padding: 0; text-align: right; font-weight: 400; font-style: italic; font-size: 8pt; color: #777; letter-spacing: .05em; }
 h4 { font-size: 10.5pt; margin: 1.2em 0 .4em; letter-spacing: .03em; page-break-after: avoid; }
-p > em:only-child { font-size: 8.8pt; color: #555; }
+p.only-em > em { font-size: 8.8pt; color: #555; }
 p { overflow-wrap: break-word; }
 .toc li.ch { padding-left: 1em; }
 .copyright { padding-top: 3in; }

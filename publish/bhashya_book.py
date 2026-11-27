@@ -25,7 +25,7 @@ Gist): ⟦…⟧ becomes Devanagari + transliteration, **NOTE**{question} become
 A bare sūkta number that occurs in two Maṇḍalas of the volume is refused: give
 Maṇḍala.Sūkta. Reads volumes in the labelled layout (`## Sūkta`, `#### Ṛk`,
 `##### ॥ संहितापाठः ॥ …`); an older layout is refused with a message.
-Writes DIR/Rigveda_Bhashya_Reader_VolN_<sel>.md (default DIR = publish/out) and
+Writes DIR/Rigveda_Bhashya_Reader_VolN_<sel>.md (default DIR = volN/review) and
 prints a report; exits 1 if the built-in check fails.
 """
 import argparse, json, pathlib, re, subprocess, sys
@@ -262,7 +262,7 @@ def main():
     ap.add_argument('vol', type=int)
     ap.add_argument('--sukta', action='append', default=[], help='N or Maṇḍala.N; repeatable')
     ap.add_argument('--all', action='store_true')
-    ap.add_argument('--out', default=str(ROOT / 'publish' / 'out'))
+    ap.add_argument('--out', default=None, help='default: volN/review (publish/out is for releases only)')
     ap.add_argument('--html', action='store_true')
     ap.add_argument('--pdf', action='store_true', help='reading copy (needs weasyprint and the fonts of HANDBOOK §8)')
     ap.add_argument('--task', metavar='M.S', help='write the translator task file for one sūkta')
@@ -331,7 +331,7 @@ def main():
         return 1 if errs else 0
     title = f"Sāyaṇa's Ṛgveda-bhāṣya in English: reader (Vol {a.vol}, {what})"
     md = f'# {title}\n\n' + '\n'.join(body).strip() + '\n'
-    out = pathlib.Path(a.out); out.mkdir(parents=True, exist_ok=True)
+    out = pathlib.Path(a.out) if a.out else ROOT / f'vol{a.vol}' / 'review'; out.mkdir(parents=True, exist_ok=True)
     f = out / f'Rigveda_Bhashya_Reader_Vol{a.vol}_{sel}.md'
     f.write_text(md, encoding='utf-8')
     print(f'wrote {f}')

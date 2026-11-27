@@ -21,7 +21,7 @@ Translated; reopened for the pilots above.
 Still to check: p. 198 `व्यत्ययेन मध्यमः [?]`. See `docs/LEGACY_SCAN_WORKFLOW.md` (reference-text pilot, numeral files).
 
 ## Publication (print PDF)
-Built with `build_vol45.py 7 full` (cleaner `vol67_clean.py`); `publish/out/vol7_full.pdf`.
+Built with `build_vol45.py 7 full` (cleaner `vol67_clean.py`); `vol7/review/vol7_full.pdf`.
 
 ## Pointers
 `vol7/numerals/README.md`.

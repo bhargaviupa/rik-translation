@@ -17,7 +17,7 @@ The user asked whether a proper English translation of Sāyaṇa's bhāṣya exi
 | `vol11/…`, `vol16/…`, `vol17/…` `bhashya_en/` | One English file per sūkta, `M<maṇḍala>_S<sūkta>.md`. |
 | `volN/review/bhashya_notes.tsv`, `bhashya_readings.tsv` | Questions for the editor; every misread word and the reading translated, with its basis. |
 | `volN/parts/bhashya_costs.md` | Tokens per batch, model named. |
-| `publish/out/Rigveda_Bhashya_Reader_Vol11_all.pdf` (and `.md`) | Vol 11 reading copy, 166 pages. Also a one-sūkta sample, Vol 17 3.40. |
+| `vol11/review/Rigveda_Bhashya_Reader_Vol11_all.pdf` (and `.md`; the Vol 17 sample in `vol17/review/`) | Vol 11 reading copy, 166 pages. Also a one-sūkta sample, Vol 17 3.40. |
 
 Environment: the `rik` environment's network was widened with the user's approval to `vishvasa.github.io`, `gretil.sub.uni-goettingen.de`, `sanskritdocuments.org`, `ashtadhyayi.com` (the second and third were not needed; `sanskritdocuments.org` refuses automated requests). Pages open with `curl` from the shell; the WebFetch tool did not work on them.
 

@@ -1,0 +1,3 @@
+# Vol 22 — repair log
+
+- 2026-11-26: `tools/rv/kn_full.py 22` made `vol22/Rigveda_Samhita_Vol22_Kannada_Text.md` from vol22/html/rig_22_merged.md (--scan-pages; printed number = scan page − 21, repaired by local median): pages 1–601 (plus 22 scan pages of front matter), 221 with text, gaps: 380 printed pages not in the supplied text, list in vol22/review/kn_gaps.md; picture blocks collapsed: none. Gates passed (page markers complete/in order; digit multiset per page equal to the supplied page; no Kannada letter lost apart from normalised label wording). Details: `vol22/review/kn_full_notes.md`. No English file touched; reference names not yet unified in this file (`refs_apply.py 22 --scripts kannada` preview only).
