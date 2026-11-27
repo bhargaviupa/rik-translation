@@ -19055,6 +19055,245 @@ When the sun has risen, I invoke Mitra and you, Varuna, of pure vigour, whose im
 > ता । हि । देवानां । असुरा । ता । अर्या । ता । नः । क्षितीः । करतं । ऊर्जयंतीः ।  
 > अश्याम । मित्रावरुणा । वयं । वां । द्यावा । च । यत्र । पीपयन् । अहा । च ॥ २ ॥
 
+### Printed p. 457
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता हि तौ खलु देवौ देवानां मध्येऽसुरा बलवंतौ । अर्या अर्यौ
+> सर्वस्येश्वरौ । ता तौ नोऽस्माकं क्षितीः पुत्रादिरूपाः प्रजा ऊर्जयंतीः प्रवृद्धाः
+> करतं । कुरुतं । हे मित्रावरुणा मित्रावरुणौ वयं वां युवामश्याम । व्याप्नुयाम । यत्र यस्यां युवयोर्व्याप्तौ द्यावा द्यावापृथिव्यौ । सर्वदा
+> तयोः सहभावादयमर्थो लभ्यते । अहा च । एतद्रात्रेरुपलक्षणं । अहोरात्राणि च पीपयन् अस्मान् प्याययेयुः ॥
+
+##### Gist of the bhāṣya
+
+Those two gods, among the gods, are असुरा (*asurā*), that is, mighty; they are अर्या (*aryā*), lords of all. May they make our offspring, sons and the rest, grow strong. O Mitra and Varuṇa, may we reach you, in whose pervasion the heaven and earth stand; since the two are always together this sense is obtained. अहा च (*ahā ca*) ("and the days") also implies the night: may days and nights nourish us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता हि (*tā hi*)—those Mitra and Varuṇa
+- देवानां (*devānāṃ*)—among the gods
+- असुरा (*asurā*)—they are powerful
+- अर्या ता (*aryā tā*)—who are lords of all
+- ता (*tā*)—those Mitra and Varuṇa
+- नः (*naḥ*)—our
+- क्षितीः (*kṣitīḥ*)—offspring, sons and the rest
+- ऊर्जयंतीः (*ūrjayaṃtīḥ*)—so that they grow strong
+- करतं (*karataṃ*)—may they make
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- वयं (*vayaṃ*)—we
+- वां (*vāṃ*)—both of you
+- अश्याम (*aśyāma*)—may we attain
+- यत्र द्यावा (*yatra dyāvā*)—(which) heaven and earth that you pervade
+- अहा च (*ahā ca*)—day and night also
+- पीपयन् (*pīpayan*)—may they satisfy us
+
+##### भावार्थ (Bhāvārtha)
+
+Those gods Mitra and Varuṇa are endowed with power and strength even among all the gods. May those two, lords of all, make our offspring, sons and the rest, prosper. O Mitra and Varuṇa, may we be near you both. May this heaven and earth that you pervade, and day and night as well, bring us satisfaction.
+
+##### English translation
+They verily are mighty among the gods : they are rulers : they bestow upon us a numerous posterity : may we obtain you, Mitra and Varuna, whether on earth or in heaven, and wherever the (passing) days may preserve us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता भूरि॑पाशा॒वनृ॑तस्य॒ सेतू॑ दुर॒त्येतू॑ रि॒पवे॒ मर्त्या॑य ।  
+> ऋ॒तस्य॑ मित्रावरुणा प॒था वा॑म॒पो न ना॒वा दु॑रि॒ता त॑रेम ॥ ३ ॥
+
+### Printed p. 458
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । भूरिपाशौ । अनृतस्य । सेतू इति । दुरत्येतू इति दुःअत्येतू । रिपवे । मर्त्याय ।  
+> ऋतस्य । मित्रावरुणा । पथा । वां । अपः । न । नावा । दुःइता । तरेम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तौ मित्रावरुणौ भूरिपाशौ प्रभूतबंधनसाधनपाशोपेतौ अनृतस्य यागरहितस्य सेतू सेतुवद्बंधकौ रिपवे मर्त्याय वैरिजनाय दुरत्येतू दुरतिक्रमौ भवतः । हे मित्रावरुणा तादृशौ मित्रावरुणौ वां युवयोर्यज्ञस्य युवयोरर्थायानुष्ठीयमानस्य यागस्य पथा मार्गेण दुरिता दुःखानि तरेम नावापो न प्रभूतान्युदकानीव ॥
+
+##### Gist of the bhāṣya
+
+Those Mitra and Varuṇa have many fetters, instruments of binding; they are bridges, binders, for the man without sacrifice, and are hard to overcome for the hostile mortal, the enemy. O Mitra and Varuṇa, such as you are, by the path of your sacrifice, the rite performed for you, may we cross over sorrows as one crosses abundant waters by a boat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तौ (*tau*)—those Mitra and Varuṇa
+- भूरिपाशौ (*bhūripāśau*)—having fetters as instruments of binding
+- अनृतस्य (*anṛtasya*)—for those who do not perform sacrifices
+- सेतू (*setū*)—who bind like a bridge
+- रिपवे (*ripave*)—the enemy
+- मर्त्याय (*martyāya*)—by the man
+- दुरत्येतू (*duratyetū*)—who cannot be brought to an end
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa, possessed of such qualities
+- वां (*vāṃ*)—your
+- ऋतस्य (*ṛtasya*)—of the sacrifice we perform desiring wealth
+- पथा (*pathā*)—by the path
+- नावा (*nāvā*)—by a boat
+- अपो न (*apo na*)—as one crosses (deep) water
+- दुरिता (*duritā*)—sorrows
+- तरेम (*tarema*)—may we cross
+
+##### भावार्थ (Bhāvārtha)
+
+The fetters of those Mitra and Varuṇa are able to bind, like a bridge, those who do not perform sacrifices and the like. No enemy can withstand you. O Mitra and Varuṇa, endowed with such qualities, by this guidance of yours in the sacrifice we perform desiring wealth, may we cross sorrows as one crosses deep water by a boat.
+
+##### English translation
+Holders are you of many fetters, barriers against the irreligious, invincible by hostile mortals: may we cross over all the danger, Mitra and Varuna, by the path of sacrifice, to you, as (we cross over) water by a boat.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ मित्रावरुणा ह॒व्यजु॑ष्टिं घृ॒तैर्गव्यू॑तिमुक्षत॒मिळा॑भिः ।
+
+### Printed p. 459
+
+> प्रति वामत्र वरमा जनाय पृणीतमुद्नो दिव्यस्य चारोः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । मित्रावरुणा । हव्यजुष्टिं । घृतैः । गव्यूतिं । उक्षतं । इळाभिः ।  
+> प्रति । वां । अत्र । वरं । आ । जनाय । पृणीतं । उद्नः । दिव्यस्य । चारोः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मैत्रावरुणे पशावा नो मित्रावरुणेत्येषा चतुर्थ्यनुवाक्या । सूत्रितं च ।
+> आ नो मित्रावरुणा हव्यजुष्टिं युवं वस्त्राणि पीवसा वसाथे । आ. ३-८ । इति ।
+> हे मित्रावरुणा मित्रावरुणौ नोऽस्माकं हव्यजुष्टिं हविःसेवनवंतं यज्ञमा गच्छतमिति शेषः । आगत्य इळाभिरन्नैः सह घृतैरुदकैर्गव्यूतिमस्मदीयां भूमिमुक्षतं सिंचतं । वां युवां प्रत्यत्रास्मिल्लोके वरमुत्कृष्टं हविः स्तोत्रं वा क आ यच्छेदिति शेषः । अतः केवलं कृपयैव दिव्यस्य दिवि भवस्य चारोश्चरणीयस्योद्न उदकस्य । कर्मणि षष्ठी । उक्तलक्षणमुदकं प्रणीतं प्रयच्छतं ॥
+
+##### Gist of the bhāṣya
+
+In the Maitrāvaruṇa animal offering, the verse आ नो मित्रावरुणा (*ā no mitrāvaruṇā*) is the fourth anuvākyā. It is so stated in the sūtra: आ नो मित्रावरुणा हव्यजुष्टिं युवं वस्त्राणि पीवसा वसाथे (*ā no mitrāvaruṇā havyajuṣṭiṃ yuvaṃ vastrāṇi pīvasā vasāthe*) (Ā. 3-8). O Mitra and Varuṇa, come to our sacrifice, the partaking of the oblation (the verb "come" is supplied). Having come, sprinkle our land with waters together with food. Who in this world could offer you an excellent oblation or hymn? Therefore, out of mere kindness, grant the celestial, desirable water; the genitive is in the sense of the object.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- नः (*naḥ*)—our
+- हव्यजुष्टिं (*havyajuṣṭiṃ*)—to the sacrifice of partaking of the oblation
+- आ (गच्छतं) (*ā (gacchataṃ)*)—be pleased to come (then)
+- इळाभिः (*iḷābhiḥ*)—with foods
+- घृतैः (*ghṛtaiḥ*)—with waters
+- गव्यूतिं (*gavyūtiṃ*)—this region where we dwell
+- उक्षतं (*ukṣataṃ*)—sprinkle
+- वां प्रति (*vāṃ prati*)—towards you
+- अत्र (*atra*)—in this world
+- वरं (*varaṃ*)—excellent oblation or hymn
+- आ (*ā*)—who indeed could offer? (therefore)
+- दिव्यस्य (*divyasya*)—that is in the sky in the form of cloud
+- चारोः (*cāroḥ*)—excellent
+- उद्नः (*udnaḥ*)—the rain water
+- जनाय (*janāya*)—for the people
+- प्रणीतं (*praṇītaṃ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, come to this sacrifice in which the oblation is offered to you. Then, with food and rain waters, sprinkle and satisfy this region where we dwell. Which man is capable of offering you an excellent oblation or hymn? (Therefore, with a gracious mind) provide the excellent water in the sky to the people in the form of rain.
+
+##### English translation
+Come, Mitra and Varuna, to our offered oblation: sprinkle our place of sacrifice with water and viands: (who) in this world (may) present to you
+
+### Printed p. 460
+such) excellant (donations) that you may (thereby be induced to) gratify mankind with celestial and beautiful water.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal offering made to Mitra and Varuṇa, the verse आ नो मित्रावरुणा (*ā no mitrāvaruṇā*) is to be recited as the fourth anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ नो मित्रावरुणा हव्यजुष्टिं युवं वस्त्राणि पीवसा वसाथे (*ā no mitrāvaruṇā havyajuṣṭiṃ yuvaṃ vastrāṇi pīvasā vasāthe*) (Ā. 3-8).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्तोमो॑ वरुण मित्र॒ तुभ्यं॒ सोमः॑ शु॒क्रो न वा॒यु-वे॑यामि ।  
+> अ॒वि॒ष्टं धियो॑ जिगृ॒तं पुरं॑धीर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्तोमः । वरुण । मित्र । तुभ्यं । सोमः । शुक्रः । न । वायवे । अयामि ।  
+> अविष्टं । धियः । जिगृतं । पुरंधीः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरति । हे वरुण हे मित्र तुभ्यं युवयोर्वायवे । वायुर्गंतादित्यः । स एवार्यमा । तस्मै चैष स्तोमोऽयामि । अकारि । किमिव । शुक्रो दीप्तः सोमो न युष्मभ्यं प्रीतिकरः सोमो यथा दीयते तद्वत् । धियः कर्माण्यस्मदीयान्यविष्टं । रक्षतं । पुरंधीः स्तुतीर्जिगृतं । प्रबुद्ध्येशं । अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+With this verse he concludes the praise. O Varuṇa, O Mitra, this hymn has been made for you; वायवे (*vāyave*): Vāyu is the "goer", the Āditya, who is Aryaman, and for him too. How? As the bright, shining Soma is given, pleasing to you, so is this praise. Protect our rites; awaken to our praises. The rest is already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- तुभ्यं (*tubhyaṃ*)—for you, that is, addressed to you
+- वायवे (*vāyave*)—addressed also to Aryaman, the ever-moving
+- शुक्रः (*śukraḥ*)—pure
+- सोमः न (*somaḥ na*)—like Soma juice, pleasing to you
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise
+- अयामि (*ayāmi*)—has been fashioned
+- धियः (*dhiyaḥ*)—the sacrifices and the like that we perform
+- अविष्टं (*aviṣṭaṃ*)—protect (so that there are no obstacles)
+- पुरंधीः (*puraṃdhīḥ*)—our praises
+- जिगृतं (*jigṛtaṃ*)—hear and understand; O gods Mitra, Varuṇa and the rest
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 461
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, O Aryaman, this praise, pleasing to you like pure Soma juice, has been fashioned for you. Protect the sacrifices and rites we are now performing, making them free of obstacles; and hear and understand our praise. O gods, always protect us with blessings.
+
+##### English translation
+Varuna and Mitra, this praise, pure as the Soma libation, has been offered to you, and also Aryaman, (to you): protect our rites: be awake to our praises: and do you ever cherish us with blessings.
+
+## Sūkta 66 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र मित्रयोरित्येकोनविंशत्यृचमेकादशं सूक्तं वसिष्ठस्यार्षं । आत्रेय-मनुक्रमणिका । प्र मित्रयोरेकोना गायत्रं दशम्याद्यास्त्रयः प्रगाथाः पुरउष्णिक् चतुर्थ्याद्या दशादित्यास्तिस्रः सौर्य इति । दशमी बृहती एकादशी सतोबृहती द्वादशी बृहती त्रयोदशी सतोबृहती चतुर्दशी बृहती पंचदशी सतोबृहती षोडशी पुरउष्णिक् शिष्टा गायत्र्यः । चतुर्थ्याद्यास्त्रयोदशांता आदित्यदेवताश्चतुर्दश्यास्तिस्रः सूर्यदेवत्याः । आद्यौ तृचौ पूर्ववन्मैत्रावरुणौ ॥ अग्निष्टोमे माध्यंदिनसवने मैत्रावरुणशस्त्रे आनिष्टो नवर्चः शस्याः । प्र मित्रयोर्वरुणयोरिति नव । आ. ५-१० । इति सूत्रितत्वात् ॥ पृष्ठ्याभिप्लवषडहयोः स्तोमवृद्धिनिमित्तमाद्या षडृचः । सूत्रितं च । प्र मित्रयोर्वरुणयोरिति षट् । आ. ७-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र मित्रयोः (*pra mitrayoḥ*), of nineteen verses, is the eleventh sūkta; its seer is Vasiṣṭha. The Ātreya Anukramaṇikā says: प्र मित्रयोरेकोना गायत्रं दशम्याद्यास्त्रयः प्रगाथाः पुरउष्णिक् चतुर्थ्याद्या दशादित्यास्तिस्रः सौर्यः (*pra mitrayorekonā gāyatraṃ daśamyādyāstrayaḥ pragāthāḥ purauṣṇik caturthyādyā daśādityāstisraḥ sauryaḥ*). Verse 10 is Bṛhatī, 11 Satobṛhatī, 12 Bṛhatī, 13 Satobṛhatī, 14 Bṛhatī, 15 Satobṛhatī, 16 Puraūṣṇih; the rest are Gāyatrī. Verses 4 to 13 have the Ādityas as deity, the three from 14 Sūrya; the first and last triads are, as before, Maitrāvaruṇa. In the Agniṣṭoma, at the midday pressing, in the Maitrāvaruṇa śastra, nine verses are to be recited, since the sūtra says प्र मित्रयोर्वरुणयोरिति नव (*pra mitrayorvaruṇayoriti nava*) (Ā. 5-10). In the Pṛṣṭhya and Abhiplava ṣaḍahas the first six verses are used to increase the stoma; the sūtra says प्र मित्रयोर्वरुणयोरिति षट् (*pra mitrayorvaruṇayoriti ṣaṭ*) (Ā. 7-5).
+
+##### Anuvāda
+
+This sūkta प्र मित्रयोः (*pra mitrayoḥ*) is the eleventh sūkta in the fourth anuvāka. It has nineteen ṛks. Vasiṣṭha is its seer; the Anukramaṇikā says प्र मित्रयोरेकोना गायत्रं दशम्याद्यास्त्रयः प्रगाथाः पुरउष्णिक् चतुर्थ्याद्या दशादित्यास्तिस्रः सौर्यः (*pra mitrayorekonā gāyatraṃ daśamyādyāstrayaḥ pragāthāḥ purauṣṇik caturthyādyā daśādityāstisraḥ sauryaḥ*). The tenth ṛk of this sūkta is in the Bṛhatī metre, the eleventh Satobṛhatī, the twelfth Bṛhatī, the thirteenth Satobṛhatī, the fourteenth Bṛhatī, the fifteenth Satobṛhatī, the sixteenth Puraūṣṇih; the remaining ṛks are Gāyatrī. For the ṛks from the fourth to the thirteenth (4-13) the Ādityas are the deity; for the three following from the fourteenth (14-16)
+
+### Printed p. 462
+Sūrya is the deity; for the first and last ṛks of this sūkta Mitra and Varuṇa are the deities, as before. The first nine ṛks of this sūkta are used for the śastra mantras recited by the priest called Maitrāvaruṇa at the midday pressing of the Agniṣṭoma sacrifice, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra प्र मित्रयोर्वरुणयोरिति नव (*pra mitrayorvaruṇayoriti nava*) (Ā. 5-10). In the Pṛṣṭhya and Abhiplava ṣaḍaha sacrifices, the first six ṛks of this sūkta are to be recited for the mantras recited as āvāpa to increase the stoma, as explained by the sūtra प्र मित्रयोर्वरुणयोरिति षट् (*pra mitrayorvaruṇayoriti ṣaṭ*) (Ā. 7-5).
+
+Sūkta—66
+Maṇḍala—7 ‖ Anuvāka—4 ‖ Sūkta—66 ‖
+Aṣṭaka—5 ‖ Adhyāya—5 ‖ Varga—8, 9, 10, 11 ‖
+Number of ṛks in the sūkta—19 ‖
+Seer—Vasiṣṭha ‖
+Deity—1-3, 17-19. Mitra and Varuṇa. 4-13. Ādityas. 14-16. Sūrya.
+Metre—1-9, 17-19. Gāyatrī. 10, 12, 14. Bṛhatī. 11, 13, 15. Satobṛhatī. 16. Puraūṣṇih ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मि॒त्रयो॒र्वरु॑णयोः॒ स्तोमो॑ न एतु शू॒ष्यः॑ ।  
+> नम॑स्वान्तुविजा॒तयोः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मित्रयोः । वरुणयोः । स्तोमः । नः । एतु । शूष्यः ।  
+> नमस्वान् । तुविजातयोः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रयोर्वरुणयोः । मित्रावरुणयोरित्यर्थः । उभयत्र प्रतियोगापेक्षया द्विवचनत्वं । तुविजातयोर्बहुषु प्रादुर्भावयोर्देवयोर्योऽस्मदीयः शूष्यः सुखकरो नमस्वानन्नवान् हविर्भिर्युक्तः स्तोमः स्तोत्रं प्रैतु । गच्छतु । अहोरात्रे वै मित्रावरुणाविति श्रुतिः । अनयोरहोरात्रापेक्षया पुनःपुनरागमनादनयोस्तुविजातत्वं । अथवा बहूनामुपकारायानयोः प्रादुर्भावात्तुविजातत्वं ॥
+
+##### Gist of the bhāṣya
+
+मित्रयोर्वरुणयोः (*mitrayorvaruṇayoḥ*) means of Mitra and Varuṇa; the dual is used in both words with regard to their mutual relation. Of the two gods तुविजातयोः (*tuvijātayoḥ*), who have manifestations in many places, may our praise, which is शूष्यः (*śūṣyaḥ*) (pleasant), नमस्वान् (*namasvān*) (endowed with food and oblations), go forth. The śruti says *ahorātre vai mitrāvaruṇau*. Since they come again and again in relation to day and night, they are तुविजात (*tuvijāta*); or else, because they appeared for the benefit of many.
+
 ---
 
-**Progress note:** Done through printed p. 456. pp. 451-456 (batch API)
+**Progress note:** Done through printed p. 462. pp. 457-462 (batch API)
