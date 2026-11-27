@@ -671,6 +671,130 @@ here too it is used of Heaven and Earth.
 शा बाहवा सुचेतुना प्रयंतमस्मा अर्चते । (*śā bāhavā sucetunā prayaṃtamasmā arcate |*)
 (Ṛ. Saṃ. 5-64-2 **NOTE**) **NOTE**
 
+### Printed p. 31
+In the Ṛk beginning "O Mitra and Varuṇa, give your gracious arms (hands) to us who worship you", these words are used with reference to Mitra and Varuṇa.
+In the Ṛk
+आ रयिमा सुचेतुनमा सुक्रतो तनूष्वा । पांतमा पुरुस्पृहं (*ā rayimā sucetunamā sukrato tanūṣvā | pāṃtamā puruspṛhaṃ*) ॥
+(Ṛ. Saṃ. 9-65-30)
+alone, instead of the instrumental सुचेतुना (*sucetunā*), the accusative form सुचेतुनं (*sucetunaṃ*) is used. But for this the sense of the instrumental has to be given.
+
+##### Grammar
+
+- सुचेतुना—शोभनं चेतुः तेन । चिती संज्ञाने धातुः । औणादिक उ प्रत्ययः । तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । कृदुत्तरपदप्रकृतिस्वरो भवति । तृतीयाएकवचनांतरूपम् ।
+- अरिष्टग्रामाः—रिष्ट हिंसायां धातुः । कर्मणि क्त प्रत्ययः । न रिष्टः अरिष्टः । अरिष्टः ग्रामः यैस्ते अरिष्टग्रामाः । अव्ययपूर्वपदप्रकृतिस्वरो भवति ।
+- सुमतिं—मन ज्ञाने धातुः । क्किन् प्रत्ययः । मंत्रेवृषेष-(पा. सू. ३-३-९६) इति क्किन् उदात्तो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- पिपर्तन—पृ पूरणे । धातुः जुहोत्यादिः । लोट् मध्यमपुरुषबहुवचने लज्वद्भावत्वात् तादेशः । तस्य तप्तनप्तनथनाश्च (पा. सू. ३-१-४५) इति तनबादेशः । पित्त्वात् तं निमित्तीकृत्य धातोर्लघूपधस्य गुणः । अर्तिपिपर्त्योश्च (पा. सू. ७-४-२७) इति अभ्यासस्य इत्वम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- यत्र—निपातस्यचॆ (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- रदति—रद विलेखने धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । शप् तिप् अनुदात्तौ भवतः इति धातुस्वरः अवशिष्यते ।
+- रिणाति—री गतिरेषणयोः धातुः । क्र्यादिः । लट् प्रथमपुरुषैकवचनांतरूपम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोर्ह्रस्वः । पादादित्वात् निघातस्वरो न भवति । तिप् पित्त्वात् विकरणस्वरो अवशिष्यते ।
+- पश्वः—पशुशब्दात् शस् परे जसादिषु छंदसि वावचनं इति वचनात् पूर्वसवर्णदीर्घाभावात् यणादेशः ।
+
+### Printed p. 32
+- सुधिता—डुधाञ् धारणपोषणयोः धातुः । अस्मात् निष्ठायां परतः दधातेर्हिः इति धातोर्हि आदेशः । स्त्रीत्वे टाप् । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः प्रकृतिस्वरो भवति ।
+
+*(Ṛk 7)*
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स्कं॒भदे॑ष्णा अनव॒भ्ररा॑धसोऽलातृ॒णासो॑ वि॒धथे॑षु॒  ॑
+> सुष्टु॑ताः ।  
+> अर्चं॑त्य॒र्कं म॑दि॒रस्य॑ पी॒तये॑ वि॒दुर्वी॒रस्य॑ प्रथ॒मानि॒  ॑
+> पौंस्या ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । स्कंभदेष्णाः । अनवभ्रराधसः । अलातृणासः । विदथेषु । सुस्तुताः ।  
+> अर्चंति । अर्कं । मदिरस्य । पीतये । विदुः । वीरस्य । प्रथमानि । पौंस्या ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र स्कंभदेष्णाः प्रकर्षेण स्तंभितदानाः । अविरतदाना इत्यर्थः । अनवभ्ररा
+> धसोऽभ्रष्टहविरादिधनाः । राध इति धननाम । अलातृणासः ॥ नकारस्य स्थाने लकारः ॥
+> अनातृणास आतर्दनरहिताः । अथवा । अलं पर्याप्तमातर्दनाः शत्रूणां । यद्वा ।
+> अलमत्यर्थ० दातारः फलानां । एवंरूपा मरुतो विदथेषु यागेश्वर्कर्मर्चनीयमिंद्रं स्वसखीभूतमर्चंति । पूजयंति । स्तुत्यादिना संभावयंतीत्यर्थः ।
+> किमर्थ० मदिरस्य मावनसाधनस्य सोमस्य पीतये पानाय । तस्येंद्रस्य महत्त्वं
+> कथं जानंतीत्यत आह । ते मरुतो वीरस्य विविधं शत्रूणामीरकस्येंद्रस्य प्रथमानि
+> प्रतमानि मुख्यानि पौंस्या पुंस्तानि वृत्रवधादिरूपाणि विदुः । जानंति ॥
+
+##### Gist of the bhāṣya
+
+प्र स्कंभदेष्णाः (*pra skaṃbhadeṣṇāḥ*): those whose gifts are firmly established, i.e. whose giving never ceases. अनवभ्रराधसः (*anavabhrarādhasaḥ*): those whose wealth, such as oblations, is unfailing; राधः (*rādhaḥ*) is a name for wealth. अलातृणासः (*alātṛṇāsaḥ*): the letter l stands in the place of n; it is अनातृणास (*anātṛṇāsa*), "free from oppression". Or else: those who sufficiently oppress enemies. Or else: those who give fruits in great measure. Such Maruts worship (honour, esteem with praise and the like) in the sacrifices Indra, the adorable, who is their friend. For what purpose? For the drinking of the exhilarating Soma, the means of joy. How do they know Indra's greatness? He answers: the Maruts know the first (chief) manly deeds of the hero Indra, who drives his enemies about in many ways, deeds such as the slaying of Vṛtra.
+
+### Printed p. 33
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—the Marut deities
+- वीरस्य (*vīrasya*)—of the hero Indra
+- प्रथमानि (*prathamāni*)—chief (first)
+- पौंस्या (*pauṃsyā*)—exploits such as the slaying of Vṛtra
+- विदुः (*viduḥ*)—have known
+- प्र स्कंभदेष्णाः (*pra skaṃbhadeṣṇāḥ*)—possessing excellent support (unceasing) in giving
+- अनवभ्रराधसः (*anavabhrarādhasaḥ*)—endowed with unfailing wealth, oblations and the like
+- अलातृणासः (*alātṛṇāsaḥ*)—those without a mind to harm, or those with a mind to harm toward enemies, or givers of abundant fruit
+- विदथेषु (*vidatheṣu*)—in the sacrifices
+- सुष्टुताः (*suṣṭutāḥ*)—well praised (the Maruts)
+- मदिरस्य (*madirasya*)—of the Soma juice, the means of exhilaration
+- पीतये (*pītaye*)—for drinking
+- अर्कं (*arkaṃ*)—Indra, the worthy of worship
+- अर्चंति (*arcaṃti*)—worship with praise and the like
+
+##### भावार्थ (Bhāvārtha)
+
+These Marut deities, unceasing givers, endowed with immense wealth such as oblations, givers of abundant fruit, especially praised in the sacrifices, knowing the chief exploits of the hero Indra such as the slaying of Vṛtra, worship and invoke the venerable Indra with praise and the like, in order that he may drink the Soma juice, the means of exhilaration.
+
+##### English translation (H. H. Wilson)
+Givers without stint, possessors of inexhaustible riches, devoid of malevolence, ever glorified at sacrifices. they worship the adorable (indra), for (the sake of) drinking the (Soma) wine; for they know the first manly exploits of the hero.
+
+##### विशेषविषयगळु (Special Topics)
+
+प्र स्कंभदेष्णाः (*pra skaṃbhadeṣṇāḥ*)—प्रकर्षेण स्तंभितदानाः । अविरतदाना इत्यर्थः । (*prakarṣeṇa staṃbhitadānāḥ | aviratadānā ityarthaḥ |*) The desired objects the Marut deities give are firm: they do not last a short time and perish but remain for ever. This is the intention.
+
+अनवभ्रराधसः (*anavabhrarādhasaḥ*)—अभ्रष्टहविरादिधनाः । (*abhraṣṭahavirādidhanāḥ |*) Since the word राधः (*rādhaḥ*) is read among the twenty-eight names of wealth, beginning with मघं (*maghaṃ*) and रेक्लः (*reklaḥ*) (Ni. 3-9), राधः (*rādhaḥ*) means wealth. अनवभ्र (*anavabhra*) means not fallen, that is, not wasted. The oblations and the like offered to the Maruts are not wasted: they accept them and bestow on the sacrificers a fitting reward, so the wealth in the form of oblations offered to the Maruts is not in vain. This is the main intention.
+
+### Printed p. 34
+आलातृणासः (*ālātṛṇāsaḥ*)—This word is used in this Ṛk and also in the Ṛk
+अलातृणो वल इंद्र व्रजो गोः पुरा हंतोर्भयमानो व्यार (*alātṛṇo vala iṃdra vrajo goḥ purā haṃtorbhayamāno vyāra*) ।
+सुगान्सथो अकृणोन्निरजे गाः प्रावन्वाणीः पुरुहूतं धमंतीः (*sugānsatho akṛṇonniraje gāḥ prāvanvāṇīḥ puruhūtaṃ dhamaṃtīḥ*) ॥
+(Ṛ. Saṃ. 3-30-12)
+and nowhere else. For this word Sāyaṇa, in his explanation of the present Ṛk, says अनातृणास आतर्दनरहिताः अथवा अलं पर्याप्तमातर्दनाः शत्रूणां यद्वा अलमत्यर्थं दातारः फलानां। (*anātṛṇāsa ātardanarahitāḥ athavā alaṃ paryāptamātardanāḥ śatrūṇāṃ yadvā alamatyarthaṃ dātāraḥ phalānāṃ|*) and in explaining the Ṛk given as example, अलातृणो वल इंद्र व्रजः (*alātṛṇo vala iṃdra vrajaḥ*), he says बहुदकतयालमत्यर्थमातृद्यते हिंस्यत इत्यलातृणः (*bahudakatayālamatyarthamātṛdyate hiṃsyata ityalātṛṇaḥ*). The author of the Nirukta, explaining this Ṛk, says अलातृणोऽलमातर्दनो मेघः (*alātṛṇo 'lamātardano meghaḥ*) (Ni. 6-2). That is: clouds that are oppressed for the water in them, that is, forced to pour rain. The mere presence of water in clouds does not allow one to say that they pour rain; the main intention is that they are driven by the Maruts, that is, by the blow of the swiftly blowing wind, and then pour rain, thus oppressing the clouds. Or the meaning may be: oppressing enemies, or giving fruits abundantly to those who praise them. Such is Sāyaṇa's explanation.
+
+Max Müller has cited the opinions of some Western scholars on the meaning of this word and criticised them. He gives the Nirukta's अलमतर्दनो मेघः (*alamatardano meghaḥ*) the sense "the cloud which opens easily", the cloud that easily pours water; in his view the word अतर्वन (*atarvana*) is derived from the root तृप् (*tṛp*). Sāyaṇa, on the contrary, says the word is derived from the root तृः (*tṛḥ*) meaning "kill, injure", and explains accordingly. Professor Roth holds that this word is derived from the root रा दाने (*rā dāne*) combined with the prefix तृण (*tṛṇa*), and, since अतर्वन (*atarvana*) implies negation, that it must mean one who does not give or yield anything. If this meaning is accepted, would not the generosity of the Maruts, stated in this very Ṛk in words such as स्कंभदेष्टाः (*skaṃbhadeṣṭāḥ*), be made vain? Wilson's translation, "Devoid of malevolence", does not seem very fitting either. Therefore, to explain it so that a right sense fits both this Ṛk, where it qualifies the Maruts, and Ṛ. Saṃ. 3-30-10, where it qualifies the asura Vala, one must say that the word अलातृण (*alātṛṇa*) is derived from लातृन् (*lātṛn*). This लातृन् (*lātṛn*) or लात्र (*lātra*) is
+
+### Printed p. 35
+a variant form of the word रात्र (*rātra*). Since r and l are not distinguished, one may say रात्र (*rātra*) instead of लात्र (*lātra*). If this word रात्र (*rātra*) is derived from the root रै (*rai*) or रा शब्दे (*rā śabde*) (to bark), then for the Maruts the word अलातृण (*alātṛṇa*) (अरातृण (*arātṛṇa*)) can mean "not abusing, not wishing evil", and for Vala "without making a sound" (without braking). So he has examined the meaning of the word.
+
+विदथेषु (*vidatheṣu*)—in sacrifices and the like. For the detailed explanation we have given of the meaning of this word, see pages 9-13.
+
+अर्कं (*arkaṃ*)—अर्चनीयमिंद्रं । (*arcanīyamiṃdraṃ |*) Indra, worthy of worship. The word अर्क (*arka*) has various meanings: food (Ni. 3-9), the thunderbolt (Ni. 3-11), deity, mantra (Ni. 5-4). Yāska says of अर्क (*arka*):
+अर्कः । अर्को देवो भवति यदेनमर्चति (*arkaḥ | arko devo bhavati yadenamarcati*) ।
+अर्को मंत्रो भवति यदनेनार्चंति (*arko maṃtro bhavati yadanenārcaṃti*) ।
+अर्कमन्नं भवत्यर्चति भूतानि (*arkamannaṃ bhavatyarcati bhūtāni*) ।
+अर्को वृक्षो भवति संवृत्तः कटुकिम्ना (*arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā*) ॥
+(Ni. 3-4-2 **NOTE**) **NOTE**
+Thus he gives four kinds of meaning. Their explanation can be made as follows.
+Deity: तावत्सर्व एवार्क इत्युच्यते यद्यस्मादेनं देवं अर्चंति स्तोतारः (*tāvatsarva evārka ityucyate yadyasmādenaṃ devaṃ arcaṃti stotāraḥ*)—अर्क (*arka*) means a deity, because the devotees worship by means of him the person or god whom they worship; the object (deity) the devotees worship is called अर्क (*arka*).
+अर्को मंत्रो भवति। यद्यस्मादनेन मंत्रेणार्चंति स्तोतारस्तस्मादर्कः— (*arko maṃtro bhavati| yadyasmādanena maṃtreṇārcaṃti stotārastasmādarkaḥ—*) अर्क (*arka*) also means mantra, because those who praise worship the deity by this (by अर्क (*arka*) or the mantra); hence the word अर्क (*arka*) is also a name of the mantra.
+अर्कमन्नं भवति—तद्धि अर्चति भूतानि यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते, पूज्यं च सर्वस्यॆवान्नं— (*arkamannaṃ bhavati—taddhi arcati bhūtāni yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate, pūjyaṃ ca sarvasyèvānnaṃ—*) अर्क (*arka*) also means food. Since food is necessary to all creatures, everyone honours and desires it; because all, with love and respect, honour and wish for it, the word अर्क (*arka*) also means food.
+
+### Printed p. 36
+अर्को वृक्षो भवति य एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्त कटुकिम्मा कटुकभावेन भवति— (*arko vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāpta kaṭukimmā kaṭukabhāvena bhavati—*) The name of a particular tree is well known for the word अर्क (*arka*). The अर्क (*arka*) tree is called ऎक्क (*èkka*) in the Karnataka language. Because its twigs are used in the homas and it is customarily used in medicines and the like, the अर्क (*arka*) tree is known to all. Because it is bitter it is said कटुकिम्मा (*kaṭukimmā*). In the present Ṛk the commentator explains the word अर्क (*arka*) as अर्चनीयं (*arcanīyaṃ*), that is, worthy of worship.
+
+प्रथमानि—प्रथमानि प्रतमानि मुख्यानि । (*prathamāni—prathamāni pratamāni mukhyāni |*) प्रथम (*prathama*) means chief. Yāska gives the explanation प्रथम इति मुख्यनाम प्रतमो भवति (*prathama iti mukhyanāma pratamo bhavati*) (Ni. 2-22).
+
+पौंस्या—पुंस्तानि वृत्रवधादिरूपाणि । (*pauṃsyā—puṃstāni vṛtravadhādirūpāṇi |*) Daring acts and deeds of valour that men and heroes can perform; here he explains them as daring acts such as the slaying of Vṛtra.
+
+##### Grammar
+
+- स्कंभदेष्णाः—स्कभि गतिप्रतिबंधे धातुः । सचादिषु अंतर्भूतत्वात् अच् प्रत्ययः । स्कंभः देष्णः येषां ते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- अनवभ्रराधसः—अनवभ्रं राधः येषां ते । पूर्ववत् पूर्वपदप्रकृतिस्वरो भवति ।
+- अलातृणासः—न विद्यते आतृणं येषां ते । अलातृणासः । नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांतोदात्तस्वरो भवति । नलोपोऽनञ् इति नञ्नकारस्य लोपे प्राप्ते तस्मान्नुडचि इति परस्य अजादेः नुडागमः । छंदसि नकारस्य लकारादेशः । आज्जसेरसुक् (पा. सू. ७-१-५०) इति जसः असुक् आगमः ।
+- सुस्तुताः—ष्टुञ् स्तुतौ धातुः । कर्मणि क्त प्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (सु) प्रकृतिस्वरो भवति ।
+- अर्चंति—अर्च पूजायां धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । तास्यनुदात्तेत्-सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरो अवशिष्यते ।
+- मदिरस्य—मदी हर्षे धातुः । इषि मदि मुदि—(उ. सू. १-५१) इति किरच् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तो भवति । षष्ठीएकवचनांतरूपम् ।
+
 ---
 
-**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
+**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
