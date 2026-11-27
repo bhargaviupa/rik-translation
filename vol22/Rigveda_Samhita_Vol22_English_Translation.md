@@ -7847,6 +7847,314 @@ May the Soma be (offered for) our happiness: may the prayer be (uttered for) our
 > शं नः॒ सूर्य॑ उरु॒चक्षा॒ उदे॑तु॒ शं न॒श्चत॑स्रः प्र॒दिशो॑ भवंतु ।  
 > शं नः॒ पर्व॑ता ध्रु॒वयो॑ भवंतु॒ शं नः॒ सिंध॑वः॒ शमु॑ सं॒त्वापः॑ ॥
 
+### Printed p. 175
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । सूर्यः । उरुऽचक्षाः । उत् । एतु । शं । नः । चतस्रः । प्रदिशः । भवंतु ।  
+> शं । नः । पर्वताः । ध्रुवयः । भवंतु । शं । नः । सिंधवः । शं । ऊं इति । संतु ।  
+> आपः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं शं शांत्यै सूर्य उरुचक्षा विस्तीर्णतेजाः सन्नुदेतु । उदयं प्राप्नोतु । चतस्रः प्रदिशो महादिशोऽपि नोऽस्माकं शं शांत्यै भवंतु । नोऽस्माकं शं शांत्यै पर्वता ध्रुवयो ध्रुवा भवंतु । नोऽस्माकं शं शांत्यै सिंधवो नद्योऽपि भवंतु । आपश्च नः शमु शांत्या एव संतु ॥
+
+##### Gist of the bhāṣya
+
+For our peace (शं (*śaṃ*)) may the Sun rise, his radiance spread wide, that is, may he attain his rising. May the four directions, the great quarters, also be for our peace. May the mountains be firm for our peace. May the rivers also be for our peace. May the waters also be for our peace alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- सूर्यः (*sūryaḥ*)—the Sun
+- उरुचक्षाः (*urucakṣāḥ*)—having radiance spread wide
+- उदेतु (*udetu*)—may he rise
+- चतस्रः (*catasraḥ*)—four in number
+- प्रदिशः (*pradiśaḥ*)—the great quarters
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—as bringers of peace
+- भवंतु (*bhavaṃtu*)—may they be
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- पर्वताः (*parvatāḥ*)—the mountains
+- ध्रुवयः (*dhruvayaḥ*)—as enduring
+- भवंतु (*bhavaṃtu*)—may they be
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—as bringing peace
+- सिंधवः (*siṃdhavaḥ*)—the rivers (may they flow)
+- आपः (*āpaḥ*)—the waters
+- शमु (*śamu*)—for our peace alone
+- संतु (*saṃtu*)—may they flow
+
+##### भावार्थ (Bhāvārtha)
+
+For the gaining of our peace, may the Sun rise with his radiance spread wide. May all the great quarters be bringers of our peace. May the mountains also attain a lasting state that gives us peace. May the rivers and the waters flow so as to give us peace.
+
+##### English translation
+May the wide-seeing sun rise (for) our happiness : may the four quarters of the horizon (exist for) our felicity : may the firm-set mountains be (for) our happiness : may the rivers, may the waters, be (diffused) for our happiness.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॒ अदि॑तिर्भवतु व्र॒तेभिः॒ शं नो॑ भवंतु म॒रुतः॑ स्व॒र्काः ।  
+> शं नो॒ विष्णुः॒ शमु॑ पू॒षा नो॑ अस्तु॒ शं नो॑ भ॒वित्रं॒ शम्व॑स्तु वा॒युः ॥ ९ ॥
+
+### Printed p. 176
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । अदितिः । भवतु । व्रतेभिः । शं । नः । भवंतु । मरुतः । सुऽअर्काः ।  
+> शं । नः । विष्णुः । शं । ऊं इति । पूषा । नः । अस्तु । शं । नः । भवित्रं । शं । ऊं इति । अस्तु । वायुः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितिर्देवी व्रतेभिर्व्रतैः कर्मभिः सार्धं नोऽस्माकं शं शांत्यै भवतु । स्वर्काः शोभनस्तुतयो मरुतोऽपि नोऽस्माकं शं शांत्यै संतु । विष्णुर्व्यापको नोऽस्माकं शं शांत्या अस्तु । पूषा देवोऽपि नोऽस्माकं शमु शांत्या एवास्तु । भवित्रं भुवनमंतरिक्षमुदकं वा नोऽस्माकं शं शांत्या अस्तु । वायुरपि नः शमु शांत्या एवास्तु ॥
+
+##### Gist of the bhāṣya
+
+The goddess Aditi, together with her observances (व्रतेभिः (*vratebhiḥ*)), that is, her rites, be for our peace. The Maruts, of fair praise (स्वर्काः (*svarkāḥ*)), be also for our peace. Viṣṇu, the all-pervading, be for our peace. The god Pūṣan be for our peace alone. भवित्रं (*bhavitraṃ*) is the world, the atmosphere or water; may it be for our peace. Vāyu too be for our peace alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदितिः (*aditiḥ*)—Aditi, who is of divine nature
+- व्रतेभिः (*vratebhiḥ*)—with her own rites
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—as bringer of peace
+- भवतु (*bhavatu*)—may she be
+- स्वर्काः (*svarkāḥ*)—the Maruts, worthy of excellent praise
+- मरुतः (*marutaḥ*)—the Maruts
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—may they be bringers of peace
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—may he be a giver of peace
+- पूषा (*pūṣā*)—the god Pūṣan
+- नः (*naḥ*)—to us
+- शमु (*śamu*)—as a giver of peace alone
+- अस्तु (*astu*)—may he be
+- भवित्रं (*bhavitraṃ*)—the primal principle of beings
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—may it be a bringer of peace
+- वायुः (*vāyuḥ*)—Vāyu also
+- शमु (*śamu*)—for peace alone
+- अस्तु (*astu*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+May Aditi, of divine nature, with her rites bring us peace. May the Maruts, worthy of excellent praise, be bringers of our peace. May Viṣṇu be a giver of peace to us. May the god Pūṣan be a bringer of peace to us. May the primal principle of beings produce our peace. May Vāyu be for our peace.
+
+##### English translation
+May Aditi, with holy observances, be (for) our happiness : may the glorified Maruts be (friendly to) our felicity ; may Vishnu, may Pushan, be (promoters of) our happiness : may the firmament be propitious to us ; may Vayu (blow for) our happiness.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ दे॒वः स॑वि॒ता त्राय॑माणः॒ शं नो॑ भवंत्वू॒षसो॑ विभा॒तीः ।
+
+### Printed p. 177
+
+> शं नः पर्जन्यो भवतु प्रजाभ्यः शं नः क्षेत्रस्य पतिरस्तु शंभुः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । देवः । सविता । त्रायमाणः । शं । नः । भवंतु । उषसः । विऽभातीः ।  
+> शं । नः । पर्जन्यः । भवतु । प्रऽजाभ्यः । शं । नः । क्षेत्रस्य । पतिः । अस्तु । शंऽभुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवः क्रीडनादिगुणयुक्तः सविता त्रायमाणो रक्षन्नोऽस्माकं शं शांत्यै भवतु । विभातीर्व्यच्छंत्य उषसोऽपि नोऽस्माकं शं शांत्यै भवंतु । नोऽस्माकं प्रजाभ्यः पर्जन्योऽपि शं भवतु । शंभुः सुखस्य भावयिता क्षेत्रस्य पतिर्नोऽस्माकं शं शांत्या अस्तु ॥
+
+##### Gist of the bhāṣya
+
+The god Savitṛ, endowed with qualities such as playfulness, protecting (त्रायमाणः (*trāyamāṇaḥ*)) us, be for our peace. The shining (विभातीः (*vibhātīḥ*)) Dawns, as they break forth, be also for our peace. Parjanya also be peace for our offspring. Śaṃbhu, the producer of happiness, the lord of the field, be for our peace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—of divine nature
+- सविता (*savitā*)—Savitṛ
+- त्रायमाणः (*trāyamāṇaḥ*)—protecting
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—may he be a bringer of peace
+- विभातीः (*vibhātīḥ*)—radiant
+- उषसः (*uṣasaḥ*)—the Dawns also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- भवंतु (*bhavaṃtu*)—may they be
+- नः (*naḥ*)—our
+- प्रजाभ्यः (*prajābhyaḥ*)—for the offspring
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- शं भवतु (*śaṃ bhavatu*)—may he be a giver of peace
+- शंभुः (*śaṃbhuḥ*)—the producer of happiness
+- क्षेत्रस्य पतिः (*kṣetrasya patiḥ*)—the lord of the field
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अस्तु (*astu*)—may he be
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ, protecting us, be a bringer of our peace. May the radiant Dawns also be for our peace. May Parjanya be a giver of peace to our offspring. May the lord of the field, the producer of happiness, be for our peace.
+
+##### English translation
+May the divine preserving Savitri be (radiant for) our happiness : may the opening dawns (break for) our happiness : may Parjanya be (the granter of happiness) to our posterity : may Shambhu, the lord of strength, be (the conferrer of) happiness upon us.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ दे॒वा वि॒श्वदे॑वा भवंतु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु ।
+
+### Printed p. 178
+
+> शमुभिषाचः शमु रातिषाचः शं नो दिव्याः पार्थिवाः शं नो अप्याः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । देवाः । विश्वऽदेवाः । भवंतु । शं । सरस्वती । सह । धीभिः । अस्तु ।  
+> शं । अभिऽसाचः । शं । ऊं इति । रातिऽसाचः । शं । नः । दिव्याः । पार्थिवाः । शं । नः । अप्याः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वदेवा बहुस्तोत्रका देवा नोऽस्माकं शं शांत्यै भवंतु । सरस्वती च धीभिः स्तुतिभिः कर्मभिर्वा सह नोऽस्माकं शं शांत्या अस्तु । अभिषाचो यज्ञमभितः सेवमानाश्च नः शं शांत्यै भवंतु । रातिषाचो दानं सेवमाना अपि शमु शांत्या एव भवंतु । दिव्या दिवि भवाश्च नोऽस्माकं शं शांत्यै भवंतु । पार्थिवाः पृथिव्यां संभूताश्च नः शं भवंतु । अप्या अप्स्वंतरिक्षे भवाश्च । आकाशमाप इत्यंतरिक्षनामसु पाठात् । नोऽस्माकं शं शांत्यै भवंतु ॥
+
+##### Gist of the bhāṣya
+
+The Viśvedevas, the gods of many praisers, be for our peace. Sarasvatī, with the thoughts (धीभिः (*dhībhiḥ*)), that is, praises or rites, be for our peace. The अभिषाचो (*abhiṣāco*), who attend the sacrifice on every side, be for our peace. The रातिषाचः (*rātiṣācaḥ*), who attend upon giving, be for our peace alone. The celestial ones, those born in heaven, be for our peace. The terrestrial ones, born on the earth, be for our peace. The अप्याः (*apyāḥ*), those of the waters in the atmosphere, be for our peace; आकाशमाप इत्यंतरिक्षनामसु पाठात् (*ākāśamāpa ityaṃtarikṣanāmasu pāṭhāt*) (since आपः (*āpaḥ*) is read among the names of the atmosphere).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वदेवाः (*viśvadevāḥ*)—worthy of many praises
+- देवाः (*devāḥ*)—the gods
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—as bringers of peace
+- भवंतु (*bhavaṃtu*)—may they be
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- धीभिः सह (*dhībhiḥ saha*)—with her own rites
+- शं (*śaṃ*)—for our peace
+- अस्तु (*astu*)—may she favour
+- अभिसाचः (*abhisācaḥ*)—the helpers in the sacrifice
+- शं (*śaṃ*)—may they be for our peace
+- रातिषाचः (*rātiṣācaḥ*)—those worthy of giving
+- शमु (*śamu*)—may they be for our happiness
+- दिव्याः (*divyāḥ*)—those born in the heavenly world
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—may they be for peace
+- पार्थिवाः (*pārthivāḥ*)—those born of the earth, may they be bringers of happiness to us
+- अप्याः (*apyāḥ*)—the gods of the atmosphere
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—may they produce happiness
+
+##### भावार्थ (Bhāvārtha)
+
+May the gods, worthy of many praises, be bringers of our peace. May Sarasvatī with her rites show favour for our peace. May the helpers in the sacrifice be for our peace. May those worthy of giving be bringers of our happiness. May the gods born in heaven, on the earth and in the atmosphere produce happiness for us.
+
+##### English translation
+May the devine universal gods be (favourable) to our felicity : may Saraswati, with holy rites, be happiness : may those who assist at sacrifices, those who are liberal of gifts, be (conducive to) our happiness : may celestial, terrestrial, and acquatic things be (subservient to) our happiness.
+
+### Printed p. 179
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नः॑ स॒त्यस्य॒ पत॑यो भवंतु॒ शं नो॒ अर्वं॑तः॒ शमु॑ संतु॒ गावः॑ ।  
+> शं न॑ ऋ॒भवः॑ सु॒कृतः॑ सु॒हस्ताः॒ शं नो॑ भवंतु पि॒तरो॒ हवे॑षु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । सत्यस्य । पतयः । भवंतु । शं । नः । अर्वंतः । शं । ऊं इति । संतु । गावः ।  
+> शं । नः । ऋभवः । सुऽकृतः । सुऽहस्ताः । शं । नः । भवंतु । पितरः । हवेषु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्यस्य पतयः पालकाः सत्यशीला देवा नोऽस्माकं शं शांत्यै भवंतु । अर्वंतोऽश्वाश्च नोऽस्माकं शं शांत्यै भवंतु । गावोऽपि नः शं शांत्यै भवंतु । सुकृतः सुकर्माणः सुहस्ताः शोभनहस्ता ऋभवोऽपि नोऽस्माकं शं शांत्यै संतु । हवेषु स्तोत्रेषु सत्सु पितरोऽपि नोऽस्माकं शं शांत्यै भवंतु ॥
+
+##### Gist of the bhāṣya
+
+The lords of truth, the gods who guard truth and are true in character, be for our peace. The horses (अर्वंतः (*arvaṃtaḥ*)) be for our peace. The cattle also be for our peace. The Ṛbhus, of good works (सुकृतः (*sukṛtaḥ*)) and fair hands (सुहस्ताः (*suhastāḥ*)), be for our peace. At the invocations (हवेषु (*haveṣu*)), that is, when praises are being offered, the Fathers also be for our peace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्यस्य पतयः (*satyasya patayaḥ*)—the gods who guard truth
+- नः (*naḥ*)—our
+- शं भवंतु (*śaṃ bhavaṃtu*)—may they be for peace
+- अर्वंतः (*arvaṃtaḥ*)—the horses
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—may they be for peace
+- गावः (*gāvaḥ*)—the cattle
+- शं (*śaṃ*)—may they be for our peace
+- सुकृतः (*sukṛtaḥ*)—those of good works
+- सुहस्ताः (*suhastāḥ*)—and of fair hands
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—may they be for peace
+- हवेषु (*haveṣu*)—at the time of our praise
+- पितरः (*pitaraḥ*)—the Fathers
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- भवंतु (*bhavaṃtu*)—may they be
+
+##### भावार्थ (Bhāvārtha)
+
+May the gods who guard truth be bringers of our peace. May the horses and the cattle be for our peace. May the Ṛbhus, of good works and fair hands, be for our peace. At the time of our praise may the Fathers be for our peace.
+
+##### English translation
+May the lords of truth be (propitious to) our happiness : may horses, may cattle, (contribute to) our happiness : may the virtuous, the dexterous Ribhus, be to us (for) felicity : may the Progenitors be (promoters of) our happiness at the seasons of worship.
+
+### Printed p. 180
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ अ॒ज एक॑पाद्दे॒वो अ॑स्तु॒ शं नोऽहि॑र्बु॒ध्न्य१॒ः॑ शं स॑मु॒द्रः ।  
+> शं नो॑ अ॒पां नपा॑त्पे॒रुर॑स्तु॒ शं नः॒ पृश्नि॑र्भवतु दे॒वगो॑पाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । अजः । एकऽपात् । देवः । अस्तु । शं । नः । अहिः । बुध्न्यः । शं । समुद्रः ।  
+> शं । नः । अपां । नपात् । पेरुः । अस्तु । शं । नः । पृश्निः । भवतु । देवऽगोपाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अज एकपादज एकपान्नामधेयो देवो नोऽस्माकं शं शांत्या अस्तु । अहिर्बुध्न्यश्च नोऽस्माकं शं शांत्या अस्तु । समुद्रोऽपि नः शं शांत्या अस्तु । पेरुरुपद्रवेभ्यः पारयितापां नपादपांनपान्नामधेयोऽपि देवो नोऽस्माकं शं शांत्या अस्तु । देवगोपा देवा गोपयितारो यस्यां सा पृश्निर्मरुतां माता नोऽस्माकं शं शांत्यै भवतु ॥
+
+##### Gist of the bhāṣya
+
+The god named Aja Ekapād be for our peace. Ahirbudhnya also be for our peace. The ocean also be for our peace. पेरुः (*peruḥ*) is the one who carries across from calamities; the god named Apāṃ Napāt also be for our peace. Pṛśni, the mother of the Maruts, in whom the gods are the protectors (देवगोपाः (*devagopāḥ*)), be for our peace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अज एकपात् (*aja ekapāt*)—named Aja Ekapāt
+- देवः (*devaḥ*)—the god
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—as bringer of peace
+- अस्तु (*astu*)—may he be
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—the god Ahirbudhnya
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—may he be a bringer of peace
+- समुद्रः (*samudraḥ*)—the ocean
+- शं (*śaṃ*)—may it be a bringer of peace
+- पेरुः (*peruḥ*)—who rescues from calamities
+- अपां नपात् (*apāṃ napāt*)—the god named Apāṃ Napāt
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अस्तु (*astu*)—may he be
+- देवगोपाः (*devagopāḥ*)—who protects the gods
+- पृश्निः (*pṛśniḥ*)—Pṛśni
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—as a giver of happiness
+- भवतु (*bhavatu*)—may she be
+
+##### भावार्थ (Bhāvārtha)
+
+May the god named Aja Ekapāt be a bringer of peace to us. May the god Ahirbudhnya be a bringer of peace to us. May the ocean also be a bringer of peace to us. May the god named Apāṃ Napāt, who rescues from calamities, be for our peace. May Pṛśni, who protects the gods, be a giver of happiness to us.
+
+##### English translation
+May the divine Aja-ekapad be (fevourable to) our happiness : May Ahirbudhnya, may the firmament, be (promotive of) our happiness : may the
+
 ---
 
-**Progress note:** Done through printed p. 174. pp. 169-174 (batch API)
+**Progress note:** Done through printed p. 180. pp. 175-180 (batch API)
