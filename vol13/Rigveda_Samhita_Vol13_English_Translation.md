@@ -241,6 +241,141 @@ In the interpretation of a term that figures prominently in the mystic—hierati
 Now विदथ (*vidatha*) here, can but have one meaning, household or something very like it. It certainly cannot refer to anything in the nature of public gathering similar to the सभा (*sabhā*). In the phrase बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*) (R. V. 2-1-I6), the word सुवीराः (*suvīrāḥ*) refers to family relations, not to public life.
 Thus far, it may not be doubted, the word appears in the language of ordinary life. But it is found to a very much greater extent in the sacredotal sphere; indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice' itself. This is as it should be in as much as the sacrifice is a private, home affair, it is very natural विदथ (*vidatha*) the house, the premises, the establishment, should figure
 
+### Printed p. 13
+prominently in connection with the sacrifice. The substance of this note is that it is not correct when some say that the word विदथ (*vidatha*) means "assembly" (सभा (*sabhā*)); the word means a private house of one's own. One can observe the word used in this sense in many places. For example:
+
+पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्रवहतां रथेन । गृहान् गच्छ गृहपत्नि यथासो वशिनी त्वं विदथवा वदासि ॥ (*pūṣā tveto nayatu hastagṛhyāśvinā tvā pravahatāṃ rathena | gṛhān gaccha gṛhapatni yathāso vaśinī tvaṃ vidathavā vadāsi ‖*) (Ṛ. Saṃ. 10-85-26) **NOTE**
+
+In this Ṛk the meaning is plainly that Pūṣan and the Aśvin deities should lead you safely to your husband's house. Further:
+
+ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः । अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः (*ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ | asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ*) (Ṛ. Saṃ. 2-1-16)
+
+Here too, since सुवीराः (*suvīrāḥ*) is explained as शोभनपुत्रादिसहिताः (*śobhanaputrādisahitāḥ*) ("accompanied by fine sons and the like"), the meaning is "house". But since sacrificial work is carried out in the house, in the present context it becomes "sacrificial house". The same meaning lies in Yāska and others giving it as a synonym of "sacrifice". Many Western scholars have given their own individual opinions to this effect.
+
+Since the different meanings — house, sacrifice, assembly — all fit, none of them can be called wrong. All these meanings occur in Sāyaṇa's own commentary. For example, in the Ṛks 10-85-26 and 27, 7-84-3 and so on he explains it as "house"; in 10-100-6, 10-100-7 and many other Ṛks as "sacrifice". It is also understood as "sacrificial house" and as "sacrificial assembly".
+
+फृष्टयः (*phṛṣṭayaḥ*)—रक्षःप्रभृतीनां घर्षकाः (*rakṣaḥprabhṛtīnāṃ gharṣakāḥ*): those who rub down (crush) Rākṣasas and the like, that is, those who remove the troubles they cause to the sacrifice; the sense is that they inflict harm on Rākṣasas and the like.
+
+रुद्राः (*rudrāḥ*)—रुद्रपुत्राः । मरुतोऽपि रुद्रा उच्यंते जन्यजनकयोरभेदात् (*rudraputrāḥ | maruto 'pi rudrā ucyaṃte janyajanakayorabhedāt*). Here रुद्राः (*rudrāḥ*) means sons of Rudra. Because it is the custom to call sons by the father's name, and because in usage the begotten and the begetter are not counted as different, the Marut deities, the sons of Rudra, are here described by the word रुद्र (*rudra*) itself. As to how the Maruts became sons of Rudra, Sāyaṇa tells an old story in his commentary on Ṛk 1-114-6.
+
+### Printed p. 14
+रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय । तदानीं दितिरसुरमातेंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वॆ गर्भैकदेशा योनेर्निगत्यारुदन् । एतस्मिन्नवसरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वराविमान् ददृशुः । महेशं प्रति पार्वत्येवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यंतामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान्समानरूपान् समानवयसः समानालंकारान्पुत्रान्कृत्वा गौर्यै प्रददौ तवेमे पुत्राः संत्विति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयंते । रौद्रेषु च मरुतां पिता रुद्र इति ॥ (*rudrasya ca marutāṃ pitṛtvamevamākhyāyate | purā kadācidiṃdro 'surān jigāya | tadānīṃ ditirasuramāteṃdrahananasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśādgarbhaṃ lebhe | imaṃ vṛttāṃtamavagacchanniṃdro vajrahastaḥ san sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṃḍamakarot | te sarvè garbhaikadeśā yonernigatyārudan | etasminnavasare līlārthaṃ gacchaṃtau pārvatīparameśvarāvimān dadṛśuḥ | maheśaṃ prati pārvatyevamavocat | ime māṃsakhaṃḍā yathā pratyekaṃ putrāḥ saṃpadyaṃtāmevaṃ tvayā kāryaṃ mayi cetprītirastīti | sa ca maheśvarastānsamānarūpān samānavayasaḥ samānālaṃkārānputrānkṛtvā gauryai pradadau taveme putrāḥ saṃtviti | ataḥ sarveṣu māruteṣu sūkteṣu maruto rudraputrā iti stūyaṃte | raudreṣu ca marutāṃ pitā rudra iti ‖*)
+
+That is: Once, long ago, when Indra had conquered the Asuras, Diti, the mother of the Asuras, desiring a son able to subdue Indra, performed austerity and became pregnant through the service of her husband. Indra, learning of this, under the pretext of serving his mother stayed near Diti, took a subtle form, entered Diti's womb together with his thunderbolt, and split that embryo first into seven parts and then each of those again into seven pieces, that is, into forty-nine pieces. The pieces of the embryo slipped out of the womb and fell on the ground weeping. Pārvatī and Parameśvara, who were wandering for the welfare of the world, saw them. Then Pārvatī, moved with pity for those pieces of flesh, begged her husband to make them all live, endowed with life-breath. Parameśvara made those forty-nine pieces of flesh into sons of one and the same form, ornament and age, and said to Pārvatī, "These are your children." By this story the Maruts are said in the respective hymns to be sons of Rudra, and Rudra is said to be the father of the Maruts.
+
+नित्यं (*nityaṃ*)—Although in modern Sanskrit this word always denotes "eternal, everlasting", in the Ṛgveda it is used mostly in the sense of "one's own". Moreover this word is used in many contexts, namely:
+
+रयिर्न चित्रा सूरो न संदृगायुर्न प्राणो नित्सो न सूनुः । (*rayirna citrā sūro na saṃdṛgāyurna prāṇo nitso na sūnuḥ |*) (Ṛ. Saṃ. 1-66-1)
+
+### Printed p. 15
+नित्यं न सूनुं पित्रोरुपस्थे द्यावा रक्षतं पृथिवी नो अभ्वात् । (*nityaṃ na sūnuṃ pitrorupasthe dyāvā rakṣataṃ pṛthivī no abhvāt |*) (Ṛ. Saṃ. 1-185-2)
+
+In these and similar Ṛks it is used with the word सूनु (*sūnu*); in
+
+जन्मेव नित्यं तनयं जुषस्व स्तोमं मे अग्ने तन्ना सुजात । (*janmeva nityaṃ tanayaṃ juṣasva stomaṃ me agne tannā sujāta |*) (Ṛ. Saṃ. 3-15-2)
+
+न्यमृक्षाम योषणां न मर्यॆ नित्यं न सूनुं तनयं दधानाः (*nyamṛkṣāma yoṣaṇāṃ na maryè nityaṃ na sūnuṃ tanayaṃ dadhānāḥ*) (Ṛ. Saṃ. 10-39-14)
+
+and similar Ṛks with the word तनय (*tanaya*); and in Ṛ. Saṃ. 2-2-11 with the word तोक (*toka*), in Ṛ. Saṃ. 7-88-6 with the word आपि (*āpi*), in Ṛ. Saṃ. 1-31-1 with the word पति (*pati*). In all these places नित्य (*nitya*) means "one's own, belonging to oneself".
+
+हविष्कृतं (*haviṣkṛtaṃ*)—हविषः कर्तारं, प्रदातारं यजमानं (*haviṣaḥ kartāraṃ, pradātāraṃ yajamānaṃ*): the sacrificer who offers the oblation to the gods in sacrifices and the like.
+
+##### Grammar
+
+- नित्यं—त्यप् नेध्रुव इति वक्तव्यं इति नि इत्यस्मात् त्यप् प्रत्ययः । पित्त्वात् अनुदात्तः भवति ।
+- बिभृतः—डुभृञ् भरणे । धातुः । लडर्थे शतृ प्रत्ययः । श्लु विकरणः । धातोः द्वित्वं । भृञामित् (पा. सू. ७-४-७६) इति अभ्यासस्य इत्त्वं । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरः आगच्छति । नाभ्यस्ताच्छतुः इति नुमागमः न भवति । प्रथमा बहुवचनांतरूपं ।
+- क्रीळंति—क्रीडृ विहारे धातुः । लट् प्रथमपुरुष बहुवचनांतरूपं । पादादित्वात् निघातस्वरः न भवति । उपदेशस्य परत्र लसार्वधातुकस्य आगमनात् तास्यनुदात्तेत् इति सूत्रेण अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- क्रीळाः—पूर्वोक्तात् धातोः कर्तरि नंदिग्रहपचादिभ्यः (पा. सू. ३-१-१३४) इति अच् प्रत्ययः । चित्त्वात् अंतोदात्तः भवति ।
+- विदथेषु—विद ज्ञाने धातुः । रुदिविदिभ्यां जित् (उ. सू. ३-३९५) इति अथ प्रत्ययः । जित्त्वातिदेशात् लघूपधगुणः न भवति । प्रत्ययस्य आद्युदात्तस्वरः आगच्छति । सप्तमी बहुवचनांतरूपं ।
+
+### Printed p. 16
+- फृष्टयः—फृष संघर्षे । धातुः । तृविघृष्टि (उ. सू. ४-४९९) इति क्विप् प्रत्ययांतत्वेन निपातितः । प्रथमा बहुवचनांतरूपं ।
+- नक्षंति—नक्ष व्याप्तौ । अयं सौत्रधातुः । लट् प्रथमपुरुष बहुवचनांतरूपं । क्रीळंति इत्यत्र आगतवत् एव धातुस्वरः अवशिष्यते ।
+- रुद्राः—रुदिर् अश्रुविमोचने । धातुः । स्फायितंचि (उ. सू. २-१७९) इति रक् प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- नमस्विनं—नमः अस्य अस्ति इति नमस्वी । अस्माया (पा. सू. ५-२-१२१) इति मत्वर्थे विनि प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः आगच्छति । द्वितीया एकवचनांतरूपं ।
+- मर्धंति—मृधु क्लेदने धातुः । लट् प्रथमपुरुष बहुवचनांतरूपं । तिजंतनिघातस्वरः आगच्छति ।
+- स्वतवसः—स्वं तवः येषां ते स्वतवसः । बहुव्रीहौ प्रकृत्या पूर्वपदं इति पूर्वपदप्रकृतिस्वरः आगच्छति ।
+- हविष्कृतं—हविः करोति इति हविष्कृत् । डुकृञ् करणे । धातुः । क्विप् प्रत्ययः । ह्रस्वस्यपितिकृतितुक् (पा. सू. ६-१-७१) इति तुक् आगमः । कृदुत्तरपदप्रकृतिस्वरः आगच्छति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मा॒ ऊमा॑सो अ॒मृता॒ अरा॑सत रा॒यस्पोषं॑ च ह॒विषा॑  ॒॑
+> ददाशुषे ।  
+> उ॒क्षंत्य॑स्मै म॒रुतो॑ हि॒ता इ॑व पु॒रू रजां॑सि॒ पय॑सा मयो॒भुवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्यै । ऊमासः । अमृताः । अरासत । रायः । पोषं । च । हविषा । ददाशुषे ।  
+> उक्षंति । अस्मै । मरुतः । हिताः इव । पुरु । रजांसि । पयसा । मयः भुवः ॥ ३ ॥
+
+### Printed p. 17
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मै यजमानाय हविषा ददाशुषे सोमादिहनिर्दत्तवते हविषा प्रीता
+> ऊमासोऽवितारोऽमृता अमरणधर्माणो मरुतो रायस्पोषं धनस्य पुष्टिं ।
+> चशब्दात्पश्वादिपुष्टिं । अरासत प्रायच्छन् ; रासतिर्दानार्थः । अस्मै यजमानाय
+> हिता इव हिताचरणाः सखाय इव संतो मयोभुवः सुखस्य भावयितारो
+> मरुतो रजांसि लोकान् पुरु प्रभूतं यथा भवति तथा पयसोदकेन
+> सस्याद्युत्पत्यर्थमुक्षंति । सिंचंति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who has given an oblation (soma and the like) — to that sacrificer the Maruts, who are pleased by the oblation, who are protectors (ऊमासः (*ūmāsaḥ*)) and immortal, i.e. not subject to death, have given रायस्पोषं (*rāyaspoṣaṃ*), an increase of wealth; the word च (*ca*) adds an increase of cattle and the like. अरासत (*arāsata*) means "they gave"; the root रा (*rā*) has the sense of giving. To this sacrificer the Maruts, who are as it were हिताः (*hitāḥ*), acting for his good, like friends, and who are मयोभुवः (*mayobhuvaḥ*), producers of happiness, sprinkle (उक्षंति (*ukṣaṃti*), सिंचंति (*siṃcaṃti*)) the रजांसि (*rajāṃsi*), the worlds, plentifully (पुरु (*puru*) is "abundantly") with water (पयसा (*payasā*)), for the production of plants and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविषा (*haviṣā*)—the oblation of soma and the like
+- ददाशुषे (*dadāśuṣe*)—who offers
+- यस्मै (*yasmai*)—to which sacrificer
+- ऊमासः (*ūmāsaḥ*)—protectors
+- अमृताः (*amṛtāḥ*)—deathless Marut deities
+- रायः पोषं (*rāyaḥ poṣaṃ*)—increase of wealth
+- च (*ca*)—and increase of cattle and the like
+- अरासत (*arāsata*)—give
+- अस्मै (*asmai*)—to that sacrificer
+- हिताः इव (*hitāḥ iva*)—those who are like well-wishing friends
+- मयोभुवः (*mayobhuvaḥ*)—givers of happiness
+- मरुतः (*marutaḥ*)—the Marut deities
+- रजांसि (*rajāṃsi*)—the worlds
+- पुरु (*puru*)—so that they flourish
+- पयसा (*payasā*)—with water (for the production of plants and the like)
+- उक्षंति (*ukṣaṃti*)—sprinkle
+
+##### भावार्थ (Bhāvārtha)
+
+The Marut deities, protectors and immortals, bring about for the sacrificer who gives oblations and the like an increase of wealth such as cattle; and these Marut deities, who are like well-wishing friends, being givers of happiness, supply water and thereby, through the growth of plants and the like, make all the worlds flourish.
+
+##### English translation (H. H. Wilson)
+To him, the presenter (of offerings), the protecting and immortal Maruts, (gratified) by the oblation, have given abundance of riches : they, the bestowers of happiness, becoming, as it were, the friends (of the worshipper), sprinkle the regions plentifully with water.
+
+##### विशेषविषयगळु (Special Topics)
+
+The main purport: to the sacrificers who offer oblations addressed to the Marut deities, the deathless Maruts give wealth and the riches of cattle, sons and the like, and protect them. And, always working for the sacrificers' good, for their benefit, for the protection of the world and for the growth of plants, they bring about rain and make the whole earth soaked with water.
+
+### Printed p. 18
+रायः पोषं (*rāyaḥ poṣaṃ*)—रायः (*rāyaḥ*) means wealth, पोषं (*poṣaṃ*) means increase. The meaning is the wealth of cattle such as cows, which is the means of these.
+
+हविषा ददाशुषे (*haviṣā dadāśuṣe*)—सोमादिहनिर्दत्तवते (*somādihanirdattavate*): for the sacrificer who offers an oblation of soma and the like.
+
+हिता इव (*hitā iva*)—हिताचरणाः सखाय इव (*hitācaraṇāḥ sakhāya iva*): like friends who always bring about one's good, the Marut deities desire only the good of the sacrificer.
+
+पुरु (*puru*)—प्रभूतं (*prabhūtaṃ*). Since the word पुरु (*puru*) is read among the twelve words for "much" beginning with उरु (*uru*) and तुनि (*tuni*), पुरु (*puru*) means "abundantly". (Ni. 3-13)
+
+रजांसि (*rajāṃsi*)—The word जस् (*jas*) has many meanings. रजः (*rajaḥ*) has various meanings: night (Ni. 2-18), light, water (Ni. 4-19), world (Ni. 4-19). Here the meaning is "worlds".
+
+मयोभुवः (*mayobhuvaḥ*)—मयः (*mayaḥ*) means happiness (Ni. 3-13). Since they produce happiness for the sacrificers, the Marut deities are indicated by the epithet मयोभुवः (*mayobhuvaḥ*); in general this word is used of all the deities.
+
+##### Grammar
+
+- ऊमासः—अव रक्षणे । धातुः । अविसिविशुषिभ्यः कित् (उ. सू. १-१४१) इति मन् प्रत्ययः । कित्त्वविधानात् उपधावकारयोः ज्वरत्वर (पा. सू. ६-४-२०) इति ऊठ् आदेशः । इत्यादिर्नित्यं इति आद्युदात्तस्वरः आगच्छति । जस् परे अज्जसेरसुक् (पा. सू. ७-१-५०) इति असुक् आगमः ।
+- अमृताः—नञ्स्वरस्य बाधकत्वेन नञ्तोजर (पा. सू. ६-२-११६) इति उत्तरपदाद्युदात्तस्वरः आगच्छति ।
+- अरासत—रास्य शब्दे । धातुः । अत्र दानार्थे प्रयुक्तः । व्यत्ययेन झस्य आतादेशः । लज् प्रथमपुरुष बहुवचनांतरूपं । यच्छब्दसंबंधत्वात् निघातस्वरः न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तः भवति ।
+- रायः—ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरः आगच्छति ।
+- ददाशुषे—दाश्य दाने । धातुः । अस्मात् लिट् आगते क्वसुश्च (पा. सू. ३-२-१०७) इति तस्य क्वसुः आदेशः । तं निमित्तीकृत्य धातोः द्वित्वादि । चतुर्थी एकवचन**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
+**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
