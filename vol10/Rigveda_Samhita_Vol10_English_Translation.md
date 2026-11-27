@@ -14844,21 +14844,21 @@ The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of ho
 
 > *taṃ vā etam adhvaravantaṃ tṛcam anvāha | devān ha vai yajñena yajamānāṃs tasmā asurā dudūrṣāṃ cakruste dudhūrṣanta iva na śekur hartuṃ te parābabhūvus tasmād yajño 'dhvaro nāma madhūrṣann a vā … parā bhavati yasyaivaṃ vimukho 'dhvaravantaṃ tṛcam anvāha yāvad eva saumyenādhvareṇeṣṭvā jayati tāvaj jayati ‖*
 
-(Ai. Brā. 1-4-1-40; this small-type passage is read from the image and is badly doubtful in several places [?].) Sense, as the Kannada gives it: Once, when the gods began to perform a sacrifice, their enemies the Asuras wished to harm them; but their wish [to harm] was not fulfilled, they failed. Therefore the sacrifice, which prevents harm, acquired the name *adhvara*. Knowing this secret, if one recites the *tṛca* that contains *adhvara*, the efforts of his enemy to harm him fail; whatever benefit is obtained by performing a Soma-sacrifice, the same benefit he obtains. Because of this meaning, the sacrifice has the name [*adhvara*]. Ordinarily this word is used independently as a synonym of *yajña*. Thus:
+(Ai. Brā. 1-4-1-40.) Sense, as the Kannada gives it: Once, when the gods began to perform a sacrifice, their enemies the Asuras wished to harm them; but their wish [to harm] was not fulfilled, they failed. Therefore the sacrifice, which prevents harm, acquired the name *adhvara*. Knowing this secret, if one recites the *tṛca* that contains *adhvara*, the efforts of his enemy to harm him fail; whatever benefit is obtained by performing a Soma-sacrifice, the same benefit he obtains. Because of this meaning, the sacrifice has the name [*adhvara*]. Ordinarily this word is used independently as a synonym of *yajña*. Thus:
 
 > अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥
 
 > *agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi | sa id deveṣu gacchati ‖*
 
-(Ṛ. Saṃ. 1-1-4 [as read].) Here the word *adhvara* is an epithet of the word *yajña*: it is clear that it means "a sacrifice that is without violence, and prevents violence". [In the Nirukta the word *adhvara* is also found among the names of *antarikṣa* (Ni. 3-[?], as read "೩-೧೦" [?]).]
+(Ṛ. Saṃ. 1-1-4 [as read].) Here the word *adhvara* is an epithet of the word *yajña*: it is clear that it means "a sacrifice that is without violence, and prevents violence". [In the Nirukta the word *adhvara* is also found among the names of *antarikṣa* (Ni. 2-10).]
 
 > यस्य त्वमग्ने अध्वरं जुजोषो देवो मर्तस्य सुधितं रराणः ।
 
 > *yasya tvam agne adhvaraṃ jujoṣo devo martasya sudhitaṃ rarāṇaḥ |*
 
-(Ṛ. Saṃ. 4-[?]-[?], as read "೪-२-೧೦" [?].) In some such Ṛks, for the word *adhvara*, "*anusahakam annam*" is explained — "unharmed food": it means food that has not been violated (*ahiṃsita*). In the present Ṛk it means *yāga*, "sacrifice"; Vāyu is prayed to come to that sacrifice to drink the Soma.
+(Ṛ. Saṃ. 4-2-10.) In some such Ṛks, for the word *adhvara*, "*anusahakam annam*" is explained — "unharmed food": it means food that has not been violated (*ahiṃsita*). In the present Ṛk it means *yāga*, "sacrifice"; Vāyu is prayed to come to that sacrifice to drink the Soma.
 
-***śatinībhiḥ sahasriṇībhiḥ niyudbhiḥ*** — "with your horses that are hundreds in number and thousands in number", so the very large number of Vāyu's horses is shown. As in *sahasriṇo rathāsaḥ* (Ṛ. Saṃ. 2-41-1 and *vahantu tvā manoyujo yuktāso navatir nava* (4-[?]-[?], as read "೪-೪೮-೪, ೫" [?]) and the like, in many places the great number of the chariots and horses of Vāyu is told, so it is in the present Ṛk too.
+***śatinībhiḥ sahasriṇībhiḥ niyudbhiḥ*** — "with your horses that are hundreds in number and thousands in number", so the very large number of Vāyu's horses is shown. As in *sahasriṇo rathāsaḥ* (Ṛ. Saṃ. 2-41-1 and *vahantu tvā manoyujo yuktāso navatir nava* (4-48-4, 5) and the like, in many places the great number of the chariots and horses of Vāyu is told, so it is in the present Ṛk too.
 
 ***adhvaryubhiḥ*** — *adhvaryur adhvarayur adhvaraṃ yunakty adhvarasya netādhvaraṃ kāmayata iti vā* (Ni. 1-8: "he who carries out the sacrifice, or who leads the sacrifice, or who is anxious for the sacrifice", or
 
@@ -14872,9 +14872,9 @@ The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of ho
 
 > *te dvo viṣyatīti sa yad agniṃ juṣante tad enān navaty atha yadyaḥ somaṃ bibhrata uparyupari cariṣyanti … te dvo viṣyatīti sa yad enān somaṃ bibhrate uparyupari caranti tad enān navati tasmād adhvaryuḥ samayātiṣṭhyān nātīyād adhvaryur hi somaṃ bibharti |*
 
-(Śa. Brā. [?]-[?]-[?]-[?], as read "೩-೯-೨-೧೦" [?]; the passage is read with great doubt: only its sense is reliable [?].) *Sense:* while the *adhvaryu* carries the Soma and moves round near the *vedi*, the gods, eager for it, sit around; for their satisfaction the Soma-juice has to be carried by the *adhvaryu* — so the duties and the nature of the *camasa*-adhvaryus are shown. The same idea is also told in the present Ṛk: *adhvaryubhiḥ bharamāṇāḥ somāḥ* — "the Soma-juices carried by the adhvaryus (are ready)".
+(Śa. Brā. 3-6-2-20.) *Sense:* while the *adhvaryu* carries the Soma and moves round near the *vedi*, the gods, eager for it, sit around; for their satisfaction the Soma-juice has to be carried by the *adhvaryu* — so the duties and the nature of the *camasa*-adhvaryus are shown. The same idea is also told in the present Ṛk: *adhvaryubhiḥ bharamāṇāḥ somāḥ* — "the Soma-juices carried by the adhvaryus (are ready)".
 
-***śukrāḥ*** — *śukraṃ śocater jvalatikarmaṇaḥ* (Ni. 5-[?], as read "೫-೧೧" [?]) — from the root *śuc*, giving the sense "to shine"; an epithet describing the Soma in this context: the purified Soma, extremely radiant, shines.
+***śukrāḥ*** — *śukraṃ śocater jvalatikarmaṇaḥ* (Ni. 8-11) — from the root *śuc*, giving the sense "to shine"; an epithet describing the Soma in this context: the purified Soma, extremely radiant, shines.
 
 ***ṛtviyaḥ*** — *prāptakālaḥ pradānāvasaraṃ prāptaḥ | ṛtuśabdena pradānakālo lakṣyate* — *ṛtu* has the meaning "time", so here *ṛtviyaḥ* means "the time when Soma is offered". The author of the Nirukta:
 
@@ -14892,7 +14892,7 @@ The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of ho
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly; numbers as printed).** *adhvaram* — *na vidyate dhvaraḥ hiṃsā yatra*; *dhvara* from the root *dhvṛ*; *ñañ-tatpuruṣa*; *nañsubhyām* (Pā. Sū. 6-2-172 [as read]) gives the final udātta. *vītaye* — root *vī gatyādiṣu*; *mantre vṛṣeṣa…* (Pā. Sū. 3-3-96 [as read]) gives *ktin* with the udātta. *ṛtviyaḥ* — by the word *ṛtu*, by *lakṣaṇā*, the associated time is understood; *chandasi ghas* (Pā. Sū. 5-1-106 [as read]) gives the suffix *ghas*; *āyaneyīnīyiyaḥ…* (Pā. Sū. 7-1-2 [as read]) gives *iya* for it; *siti ca* (Pā. Sū. 1-4-16 [as read]) gives the *pada*-term because the suffix is *sit*; as there is no *bha*-term, *guṇa* by *oro guṇaḥ* does not occur, so *yaṇ*-substitution; the suffix's ādyudātta. *sacā* — root *ṣaca samavāye*; *sa* for the first letter; *saṃpadādibhyaḥ kvip* in the sense of state; instrumental singular; *sarve vidhayaś chandasi vikalpyante* — by this statement, *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168 [as read]) does not give the udātta to the case-ending; when it is taken as an *nipāta*, the ādyudātta. *bharamāṇāḥ* — root *bhṛñ bharaṇe*; in the passive [?], *śānac*; *vyatyaya* gives *śap*; after the *sārvadhātuka* the *guṇa* of the root's *ṛ*; *tāsyanudāttenṅidvidupadeśāt…* (Pā. Sū. 6-1-186 [as read]) — as the *lasārvadhātuka* is *anudātta*, the accent of the root remains. *ayaṃsata* — root *yamu uparame*; *laṅ*, third person plural, the suffix *jha*; *luṅ* with *sic*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5 [as read]) gives *at* for the suffix; the *m* of the root becomes anusvāra by *naś ca padāntasya jhali* [as read] — *am* gets the *āgama*; *nighāta* after a *tiṅanta*. ‖ 3 ‖
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar page, noted briefly; numbers as printed).** *adhvaram* — *na vidyate dhvaraḥ hiṃsā yatra*; *dhvara* from the root *dhvṛ*; *ñañ-tatpuruṣa*; *nañsubhyām* (Pā. Sū. 6-2-172 [as read]) gives the final udātta. *vītaye* — root *vī gatyādiṣu*; *mantre vṛṣeṣa…* (Pā. Sū. 3-3-96 [as read]) gives *ktin* with the udātta. *ṛtviyaḥ* — by the word *ṛtu*, by *lakṣaṇā*, the associated time is understood; *chandasi ghas* (Pā. Sū. 5-1-106 [as read]) gives the suffix *ghas*; *āyaneyīnīyiyaḥ…* (Pā. Sū. 7-1-2 [as read]) gives *iya* for it; *siti ca* (Pā. Sū. 1-4-16 [as read]) gives the *pada*-term because the suffix is *sit*; as there is no *bha*-term, *guṇa* by *oro guṇaḥ* does not occur, so *yaṇ*-substitution; the suffix's ādyudātta. *sacā* — root *ṣaca samavāye*; *sa* for the first letter; *saṃpadādibhyaḥ kvip* in the sense of state; instrumental singular; *sarve vidhayaś chandasi vikalpyante* — by this statement, *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168 [as read]) does not give the udātta to the case-ending; when it is taken as an *nipāta*, the ādyudātta. *bharamāṇāḥ* — root *bhṛñ bharaṇe*; in the passive, *śānac*; *vyatyaya* gives *śap*; after the *sārvadhātuka* the *guṇa* of the root's *ṛ*; *tāsyanudāttenṅidvidupadeśāt…* (Pā. Sū. 6-1-186 [as read]) — as the *lasārvadhātuka* is *anudātta*, the accent of the root remains. *ayaṃsata* — root *yamu uparame*; *laṅ*, third person plural, the suffix *jha*; *luṅ* with *sic*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5 [as read]) gives *at* for the suffix; the *m* of the root becomes anusvāra by *naś ca padāntasya jhali* [as read] — *am* gets the *āgama*; *nighāta* after a *tiṅanta*. ‖ 3 ‖
 
 #### Ṛk 4
 
@@ -14922,13 +14922,13 @@ The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of ho
 > *pibatam | madhvaḥ | andhasaḥ | pūrva 'peyam | hi | vām | hitam |*
 > *vāyo iti | ā | candreṇa | rādhasā | ā | gatam | indraḥ | ca | rādhasā | ā | gatam ‖ 4 ‖*
 
-**॥ सायणभाष्यम् ॥** *(Ṛk 4; read from the image; doubtful words marked [?].)*
+**॥ सायणभाष्यम् ॥** *(Ṛk 4; read from the image.)*
 
 > केवलं वायुं स्तुत्वा व्यासक्तयेन्द्रवायू स्तौति । हे वायो त्वामिन्द्रं च वां युष्मान् रथो युवयोः संबन्धी रथो नियुत्वान् नियुद्भिरश्वैरुपेतः सन् वक्षत् । देवयजनं प्रति युष्मानावहतु ॥ वहेर्लेट्यडागमः । सिब्बहुलमिति सिप् ॥ यद्यपि नियुतो वायोरेव रथस्योपेताः तथापि व्यासक्तदेवताबाहुल्यात् सहैवागमनादिन्द्रार्थमपि वहन्ति । किमर्थम् । अवसे गमनाय रक्षणाय वा । पुनश्च किमर्थम् । प्रयांस्यन्नानि सोमलक्षणानि सुधितानि सुष्ठु गृहीतानि वीतये । तेषां भक्षणाय । तथा हव्यानि वीतये इतरेषां सवनीयपुरोडाशादीनां खादनाय ॥ वेतेः क्तिन् । मन्त्रे वृषेत्यादिना तस्योदात्तत्वम् ॥ किंच मध्वो मधुरस्यान्धसः सोमरूपस्य ॥ कर्मणि षष्ठी ॥ मधुरं सोमं पिबतम् । यतः पूर्वपेयमितरदेवेभ्यः पूर्वपानं वां युवयोर्हितं । पात्रेरचो यदिति यत् । ऋदुपधात्वेनाकार ॥ अभिमतं । अतः प्रथमं पिबतमित्यर्थः । यद्वेन्द्रादपि वायोः पूर्वपानं त्वं हि पूर्वपा असि । ऋ. सं. ४-४६-१ । देव वधीहे पूर्वपेयम् । ऋ. सं. ८-१-१ । इत्यादिषु सर्वत्र प्रसिद्धम् । तथाहीन्द्रस्येतरदेवेभ्यः पूर्वं वायुना सह पानं चेन्द्रतुरीयार्थवादनब्राह्मणे देवा वै सोमस्य राज्ञोऽग्रपेयेन समपादयन्नित्यत्र प्रतिपादितं । ऐ. ब्रा. ३-३९ ॥ किंचागमनसमये हे वायो त्वमिन्द्रश्च चन्द्रेणाह्लादकेन हिरण्येन राधसा गवादिरूपेण धनेन च सहा गतं । आगच्छतं । राधसा रत्नेन धनेन सहा गतम् ॥ गमेर्लोटि छान्दसः शपो लुक् । अनुदात्तोपदेशेत्यनुनासिकलोपः ॥ लुङ् च मन्त्रे घसेति च्लेर्लुक् ॥
 
 > *kevalaṃ vāyuṃ stutvā vyāsaktayendravāyū stauti | he vāyo tvāmindraṃ ca vāṃ yuṣmān ratho yuvayoḥ saṃbandhī ratho niyutvān niyudbhiraśvairupetaḥ san vakṣat | devayajanaṃ prati yuṣmānāvahatu ‖ vaherleṭyaḍāgamaḥ | sibbahulamiti sip ‖ yadyapi niyuto vāyoreva rathasyopetāḥ tathāpi vyāsaktadevatābāhulyāt sahaivāgamanādindrārthamapi vahanti | kimartham | avase gamanāya rakṣaṇāya vā | punaśca kimartham | prayāṃsyannāni somalakṣaṇāni sudhitāni suṣṭhu gṛhītāni vītaye | teṣāṃ bhakṣaṇāya | tathā havyāni vītaye itareṣāṃ savanīyapuroḍāśādīnāṃ khādanāya ‖ veteḥ ktin | mantre vṛṣetyādinā tasyodāttatvam ‖ kiṃca madhvo madhurasyāndhasaḥ somarūpasya ‖ karmaṇi ṣaṣṭhī ‖ madhuraṃ somaṃ pibatam | yataḥ pūrvapeyamitaradevebhyaḥ pūrvapānaṃ vāṃ yuvayorhitaṃ | pātreraco yaditi yat | ṛdupadhātvenākāra ‖ abhimataṃ | ataḥ prathamaṃ pibatamityarthaḥ | yadvendrādapi vāyoḥ pūrvapānaṃ tvaṃ hi pūrvapā asi | ṛ. saṃ. 4-46-1 | deva vadhīhe pūrvapeyam | ṛ. saṃ. 8-1-1 | ityādiṣu sarvatra prasiddham | tathāhīndrasyetaradevebhyaḥ pūrvaṃ vāyunā saha pānaṃ cendraturīyārthavādanabrāhmaṇe devā vai somasya rājño 'grapeyena samapādayannityatra pratipāditaṃ | ai. brā. 3-39 ‖ kiṃcāgamanasamaye he vāyo tvamindraśca candreṇāhlādakena hiraṇyena rādhasā gavādirūpeṇa dhanena ca sahā gataṃ | āgacchataṃ | rādhasā ratnena dhanena sahā gatam ‖ gamerloṭi chāndasaḥ śapo luk | anudāttopadeśetyanunāsikalopaḥ ‖ luṅ ca mantre ghaseti clerluk ‖*
 
-*(Sense: "Having praised Vāyu alone, [the ṛṣi] now praises both Indra and Vāyu together. O Vāyu, and Indra: your chariot, which belongs to you two and has the horses called *niyut*, shall bring (*vakṣat*) you both to the place of sacrifice [*vaha* in *leṭ*, *aṭ* augment, *sip* by *bahulam*]. Although the *niyut* horses belong to Vāyu's chariot, as both deities are going together they carry Indra also. For what? *avase* — for coming, or for protecting. And again for what? *prayāṃsi* — the food (the Soma), well-placed (*sudhitāni*), for *vīti* — for the eating of them; and the *havyāni* — other oblations, the *puroḍāśa* and the like of the pressing [*savanīya*], for eating. [*Vīti* from *vī* with *ktin*; udātta by *mantre vṛṣa…*] Further, *madhvaḥ* — of the sweet *andhas* — the Soma: *pibatam* — drink the sweet Soma. Because *pūrvapeyam* — the drinking before the other gods — is *hitam* — fixed [?] for you two. [*yat* from *pātaḥ* …] Hence drink first. Or: Vāyu has the first drinking even before Indra: *tvaṃ hi pūrvapā asi* (Ṛ. Saṃ. 4-46-1 [as read, [?]]), *deva vadhīhe pūrvapeyam* [?] (Ṛ. Saṃ. 8-1-1 [as read]) and other such passages are well known; and the Brāhmaṇa on *indra-turīya*, [in Ai. Brā. 3-39 [?]], ... the passage *devā vai somasya rājño 'grapeyena samapādayan* shows that Indra drinks, with Vāyu, before other gods. And further, at the time of coming, O Vāyu and Indra, come with *candreṇa rādhasā* — a delightful wealth, gold, wealth of cows and so on: come with *rādhas*, jewels, riches." Details of the grammar of *gatam* are partly doubtful [?].)*
+*(Sense: "Having praised Vāyu alone, [the ṛṣi] now praises both Indra and Vāyu together. O Vāyu, and Indra: your chariot, which belongs to you two and has the horses called *niyut*, shall bring (*vakṣat*) you both to the place of sacrifice [*vaha* in *leṭ*, *aṭ* augment, *sip* by *bahulam*]. Although the *niyut* horses belong to Vāyu's chariot, as both deities are going together they carry Indra also. For what? *avase* — for coming, or for protecting. And again for what? *prayāṃsi* — the food (the Soma), well-placed (*sudhitāni*), for *vīti* — for the eating of them; and the *havyāni* — other oblations, the *puroḍāśa* and the like of the pressing [*savanīya*], for eating. [*Vīti* from *vī* with *ktin*; udātta by *mantre vṛṣa…*] Further, *madhvaḥ* — of the sweet *andhas* — the Soma: *pibatam* — drink the sweet Soma. Because *pūrvapeyam* — the drinking before the other gods — is *hitam* — desired for you two. [*yat* from *pātaḥ* …] Hence drink first. Or: Vāyu has the first drinking even before Indra: *tvaṃ hi pūrvapā asi* (Ṛ. Saṃ. 4-46-1), *deva dadhīṣe pūrvapeyam* (Ṛ. Saṃ. 8-1-1 [as read]) and other such passages are well known; and the Brāhmaṇa on *indra-turīya*, [in Ai. Brā. 2-25], ... the passage *devā vai somasya rājño 'grapeyena samapādayan* shows that Indra drinks, with Vāyu, before other gods. And further, at the time of coming, O Vāyu and Indra, come with *candreṇa rādhasā* — a delightful wealth, gold, wealth of cows and so on: come with *rādhas*, jewels, riches.")*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he vāyo — O Vāyu)*; *vām* — both of you (you and Indra); *niyutvān* — accompanied by horses called *niyut*; *rathaḥ* — (your) chariot; *avase* — (our) protection
 
@@ -14946,7 +14946,7 @@ The ṛṣi prays Vāyu to be merciful to the sacrifice with his thousands of ho
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Ṛk 4).**
 
-Among the gods, there was a discussion as to who should have the first place in drinking Soma; finally, a contest of running was set up; in it Vāyu won and gained the first place. This is known from the story told in the Aitareya Brāhmaṇa, "*devā vai somasya rājño 'grapeyena na samapādayan*" (Ai. Brā. 3-[?], as read "೩-೩೫" [?]), which has been quoted above. Therefore the first place is secure for Vāyu among all the gods.
+Among the gods, there was a discussion as to who should have the first place in drinking Soma; finally, a contest of running was set up; in it Vāyu won and gained the first place. This is known from the story told in the Aitareya Brāhmaṇa, "*devā vai somasya rājño 'grapeyena na samapādayan*" (Ai. Brā. 2-24), which has been quoted above. Therefore the first place is secure for Vāyu among all the gods.
 
 ### Printed p. 625  (PDF 646)
 
@@ -14970,13 +14970,13 @@ Among the gods, there was a discussion as to who should have the first place in 
 
 > *so 'ved indro vāyum upaiva jayatīti tam anvaparāptat tam āha nāvabhojjayāveti sa nety abravīd aham evojjeṣyāmīti tṛtīyaṃ me 'bhojjayāveti neti haivābravīd aham evojjeṣyāmīti turīyaṃ me 'bhojjayāveti tatheti taṃ turīye tyārjata tat turīyabhāgīndro bhavatribhāgvāyuḥ ‖*
 
-(Ai. Brā. 3-[?], as read "೩-೩೫" [?]; read from the image, with the doubts noted above [?].) In this contest, Indra, who knew that he would fall behind Vāyu, ran at Vāyu's speed and, reaching the goal, fell at Vāyu's side. When therefore he asked Vāyu, "We two have reached together, let us both share in the victory", Vāyu replied, "I alone won in the contest" [and refused]. Indra obtained the third share, but at last the fourth share was gained.
+(Ai. Brā. 2-25.) In this contest, Indra, who knew that he would fall behind Vāyu, ran at Vāyu's speed and, reaching the goal, fell at Vāyu's side. When therefore he asked Vāyu, "We two have reached together, let us both share in the victory", Vāyu replied, "I alone won in the contest" [and refused]. Indra obtained the third share, but at last the fourth share was gained.
 
 > स एष इन्द्रतुरीयो ग्रहो गृह्यते यदैन्द्रवायवः । तदेतदृषिः पश्यन्नभ्यनूवाच नियुत्वा इन्द्रसारथिरिति । तस्माद्धैतर्हि भरताः सत्वनां वित्तं प्रयन्ति तुरीये हैव संगृहीतारो वदन्तेऽमुन्वैवानुकाशेन यदद इन्द्रः सारथिरिव भूत्वोदजयत् ॥
 
 > *sa eṣa indraturīyo graho gṛhyate yad aindravāyavaḥ | tad etad ṛṣiḥ paśyann abhyanūvāca niyutvā indrasārathir iti | tasmād dhaitarhi bharatāḥ satvanāṃ vittaṃ prayanti turīye haiva saṃgṛhītāro vadante 'munvaivānukāśena yad ada indraḥ sārathir iva bhūtvodajayat ‖*
 
-(Ai. Brā. 3-[?], as read "೩-೩೫" [?]; doubtful in the second half [?].) Therefore in the *aindravāya* cup the fixed quarter portion belongs to Indra, and the sage saw this: for that reason he used the mantra "*niyutvān indrasārathiḥ*" ("Vāyu, with Indra as charioteer") [as printed]. Even now …
+(Ai. Brā. 2-25.) Therefore in the *aindravāya* cup the fixed quarter portion belongs to Indra, and the sage saw this: for that reason he used the mantra "*niyutvān indrasārathiḥ*" ("Vāyu, with Indra as charioteer") [as printed]. Even now …
 
 ---
 
@@ -14984,9 +14984,9 @@ Among the gods, there was a discussion as to who should have the first place in 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-*(Continuing the Aitareya Brāhmaṇa passage, which this Kannada paragraph explains:)* …"Even now the Bharata kings, having taken the spoils, give the fourth portion to their charioteer, who is Indra's likeness [?], and so, in their own charioteer's case, give him the fourth part": thus it is said that Indra holds a secondary place in the drinking together with Vāyu.
+*(Continuing the Aitareya Brāhmaṇa passage, which this Kannada paragraph explains:)* …"Even now the Bharata kings, having taken the spoils, give the fourth portion to their own charioteer, in imitation of Vāyu, who gave the fourth portion to his charioteer Indra": thus it is said that Indra holds a secondary place in the drinking together with Vāyu.
 
-***andhasaḥ*** — this word is read among the names of food (Ni. 2-[?], as read "೨-೭" [?]): *andha ity annanāmādhyanīyaṃ bhavati; ādhyānīyaṃ prārthanīyam* — "*andhas* is a name for food; it is called *ādhyānīya* [to be thought of], *prārthanīya*, 'to be prayed for'": since it is [a thing] absolutely necessary, and since it is prayed for with great desire, food is given the name *andhas* — so he explains. In support of this derivation the author of the Nirukta (Ni. 5-1 takes the Ṛk —
+***andhasaḥ*** — this word is read among the names of food (Ni. 3-9): *andha ity annanāmādhyanīyaṃ bhavati; ādhyānīyaṃ prārthanīyam* — "*andhas* is a name for food; it is called *ādhyānīya* [to be thought of], *prārthanīya*, 'to be prayed for'": since it is [a thing] absolutely necessary, and since it is prayed for with great desire, food is given the name *andhas* — so he explains. In support of this derivation the author of the Nirukta (Ni. 5-1 takes the Ṛk —
 
 > अध्वर्यवो भरतेन्द्राय सोममामत्रेभिः सिञ्चता मद्यमन्धः ।
 > कामी हि वीरः सदमस्य पीतिं जुहोत वृष्णे तदिदेष वष्टि ॥
@@ -15008,9 +15008,9 @@ Among the gods, there was a discussion as to who should have the first place in 
 > *sa hi dvaro dvariṣu vavra ūdhani candrabudhno madavṛddho manīṣibhiḥ |*
 > *indraṃ tam ahve svapasyayā dhiyā maṃhiṣṭharātiṃ sa hi paprir andhasaḥ ‖*
 
-(Ṛ. Saṃ. 1-[?]-[?], as read "೧-೫೫-೩" [?]; the quotation is doubtful in places [?].) — in this Ṛk addressed to Indra the word *andhas* occurs, but here it is not for the drinking of Indra; it is used in many ways to be enjoyed by men; hence in such contexts it does not mean Soma. In general it means the food used by the sacrificers.
+(Ṛ. Saṃ. 1-52-3.) — in this Ṛk addressed to Indra the word *andhas* occurs, but here it is not for the drinking of Indra; it is used in many ways to be enjoyed by men; hence in such contexts it does not mean Soma. In general it means the food used by the sacrificers.
 
-The author of the Nirukta, giving other meanings of this word, also states *tamo 'ndha ucyate nāsmin dhyānaṃ bhavati* (Ni. 5-[?], as read "೫-೭" [?]) — "darkness is called *andha*, because in it there is no [steady] vision (*dhyāna*)": that in darkness it is not possible to be one-pointed in mind; so the name *andhas* is given for darkness; and,
+The author of the Nirukta, giving other meanings of this word, also states *tamo 'ndha ucyate nāsmin dhyānaṃ bhavati* (Ni. 3-9) — "darkness is called *andha*, because in it there is no [steady] vision (*dhyāna*)": that in darkness it is not possible to be one-pointed in mind; so the name *andhas* is given for darkness; and,
 
 ### Printed p. 627  (PDF 648)
 
@@ -15026,7 +15026,7 @@ The author of the Nirukta, giving other meanings of this word, also states *tamo
 
 ***prayāṃsi*** — derived from the root *prī* with the meaning "to please"; it means "food that gives satisfaction": food in the form of milk, or in the form of *puroḍāśa* and the like.
 
-***candreṇa*** — this word is found among the names of gold (Ni. 1-[?], as read "೧-೧೦" [?]). *Candram iti hiraṇyanāma candater kāntikarmaṇaḥ* (Ni. 11-[?], as read "೧೧-೨" [?]): because it causes delight, gold gets the name *candra*. To show that the name *candra* is given to things having an attractive lustre, the author of the Nirukta has shown other meanings of this word:
+***candreṇa*** — this word is found among the names of gold (Ni. 2-10). *Candram iti hiraṇyanāma candater kāntikarmaṇaḥ* (Ni. 11-5): because it causes delight, gold gets the name *candra*. To show that the name *candra* is given to things having an attractive lustre, the author of the Nirukta has shown other meanings of this word:
 
 > चन्द्रमाश्चायन् द्रमति । चन्द्रो माता । चान्द्रमानमस्येति वा ।
 
@@ -15064,7 +15064,7 @@ The author of the Nirukta, giving other meanings of this word, also states *tamo
 
 ***rādhasā*** — this word is repeated. The first time it is explained as *gavādirūpeṇa dhanena* ("with wealth in the form of cows and so on"); the second time, *ratnena dhanena* ("with the wealth of jewels"). *Rādha* is among the names of wealth (Ni. 2-10, in the form *rādhnuvanti*: because by it people accomplish their objects, or because with the help of others they settle matters and agree with each other, wealth has the name *rādhaḥ* well known.
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as printed).** *vakṣat* — root *vaha prāpaṇe*; *leṭ*, third person singular, *tip*; *iṭo 'ṭ* (Pā. Sū. 3-4-106 [as read]) drops the *i*; *leṭo 'ṭāṭau* (Pā. Sū. 3-4-94 [as read]) gives the *aṭ* augment; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-34 [as read]) gives *sip*; *hoḍhaḥ* gives *ḍha* for *ha*; *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41 [as read]) gives *ka* to it, and because of it the *s* becomes *ṣa*; as it follows a *tiṅanta* [?], *nighāta*. *sudhitāni* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive; since *kta* is the *para* [?], *hi* for the root in the sense of *dhā*; by *vyatyaya*, *dha* becomes *dhi* [as read]; *gatir anantaraḥ* gives the *gati* its own accent. *vītaye* — explained in a former mantra. *pibatam* — root *pā pāne*; *loṭ* second person dual; *tam* [as the ending] because of *luk* [?]; *śap* *para*; *pāghrādhmā…* (Pā. Sū. 7-3-78 [as read]) gives *piba* for the root; as it is at the beginning of a pāda, the *nighāta* accent does not occur; as the *lasārvadhātuka* [is *anudātta* because of *ādyupadeśa*, *tāsyanudāttenṅidvidupadeśāt*…], the accent of the root remains. *madhvaḥ* — *jasādiṣu chandasi vāvacanam*: the genitive singular; since it is *para*, *guṇa* and the like are optional, therefore *yaṇ*; the genitive is in the sense of the object. *pūrvapeyam* — root *pā pāne*; *aco yat* (Pā. Sū. 3-1-97 [as read]) gives *yat*; *īdyati* (Pā. Sū. 6-4-65 [as read]) gives *ī* to the root before *yat* [?]; because the suffix is *yat*, there is *guṇa*; *yato nāvaḥ* (Pā. Sū. 6-1-213 [as read]) gives the ādyudātta.
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar pages, noted briefly; numbers as printed).** *vakṣat* — root *vaha prāpaṇe*; *leṭ*, third person singular, *tip*; *iṭo 'ṭ* (Pā. Sū. 3-4-106 [as read]) drops the *i*; *leṭo 'ṭāṭau* (Pā. Sū. 3-4-94 [as read]) gives the *aṭ* augment; *sibbahulaṃ leṭi* (Pā. Sū. 3-1-34 [as read]) gives *sip*; *hoḍhaḥ* gives *ḍha* for *ha*; *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41 [as read]) gives *ka* to it, and because of it the *s* becomes *ṣa*; as it follows a *tiṅanta* [?], *nighāta*. *sudhitāni* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive; since *kta* is the *para*, *hi* for the root in the sense of *dhā*; by *vyatyaya*, *dha* becomes *dhi* [as read]; *gatir anantaraḥ* gives the *gati* its own accent. *vītaye* — explained in a former mantra. *pibatam* — root *pā pāne*; *loṭ* second person dual; *tam* [as the ending] because of *laṅvadbhāva*; *śap* *para*; *pāghrādhmā…* (Pā. Sū. 7-3-78 [as read]) gives *piba* for the root; as it is at the beginning of a pāda, the *nighāta* accent does not occur; as the *lasārvadhātuka* [is *anudātta* because of *ādyupadeśa*, *tāsyanudāttenṅidvidupadeśāt*…], the accent of the root remains. *madhvaḥ* — *jasādiṣu chandasi vāvacanam*: the genitive singular; since it is *para*, *guṇa* and the like are optional, therefore *yaṇ*; the genitive is in the sense of the object. *pūrvapeyam* — root *pā pāne*; *aco yat* (Pā. Sū. 3-1-97 [as read]) gives *yat*; *īdyati* (Pā. Sū. 6-4-65 [as read]) gives *ī* to the root before *yat*; because the suffix is *yat*, there is *guṇa*; *yato nāvaḥ* (Pā. Sū. 6-1-213 [as read]) gives the ādyudātta.
 
 ### Printed p. 629  (PDF 650)
 
@@ -15102,13 +15102,13 @@ The author of the Nirukta, giving other meanings of this word, also states *tamo
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-**॥ सायणभाष्यम् ॥** *(Ṛk 5; read from the image; doubtful words marked [?].)*
+**॥ सायणभाष्यम् ॥** *(Ṛk 5; read from the image.)*
 
 > हे इन्द्रवायू वां युवां धियः कर्माणि स्तोत्रादिलक्षणान्यध्वरानुपास्मदीयान् यज्ञान् लक्ष्मीकृत्य ववृत्युः । अतिशयेन वर्तयन्ति प्रवर्तयन्ति । किंच युष्मदर्थं वाजिनं ग्रहणाय द्रोणकलशाद्ग्रहान्प्रति गमनवन्तम् इमम् इन्दुं पुरतो वर्तमानं सोमं मर्मृजन्त । अध्वर्यवो दशापवित्रेण संमार्जयन्ति । मार्जने दृष्टान्तः । आशुमतिशीघ्रगामिनमत्यं न सततं गन्तारं वाजिनं वेजनवन्तमश्वमिव तं यथा स्वेदाद्यपनयनेन संमार्जयन्ति तद्वत् । किंच हे इन्द्रवायू तेषामध्वर्यूणां संबन्धिनः शोधितान् सोमान् पिबतम् । पानं कुरुतम् । तदर्थं नोऽस्माकं यज्ञं प्रतीहेदानीमूत्यास्मद्रक्षणेन सहा गतम् । आगच्छतम् । किंच हे इन्द्रवायू अस्मयू अस्मद्यज्ञमिच्छन्तौ युवं युवाम् अद्रिभिर्ग्रावभिः सुतानामभिषुतानां ॥ पूर्ववत्कर्मणि षष्ठी ॥ तान् पिबतमिति शेषः । किमर्थम् । मदाय तृप्तये मोदाय वा । यतो युवं युवां वाजदा वाजस्यान्नस्य दातारौ । अतः पिबतमित्यन्वयः ॥
 
 > *he indravāyū vāṃ yuvāṃ dhiyaḥ karmāṇi stotrādilakṣaṇānyadhvarānupāsmadīyān yajñān lakṣmīkṛtya vavṛtyuḥ | atiśayena vartayanti pravartayanti | kiṃca yuṣmadarthaṃ vājinaṃ grahaṇāya droṇakalaśādgrahānprati gamanavantam imam induṃ purato vartamānaṃ somaṃ marmṛjanta | adhvaryavo daśāpavitreṇa saṃmārjayanti | mārjane dṛṣṭāntaḥ | āśumatiśīghragāminamatyaṃ na satataṃ gantāraṃ vājinaṃ vejanavantamaśvamiva taṃ yathā svedādyapanayanena saṃmārjayanti tadvat | kiṃca he indravāyū teṣāmadhvaryūṇāṃ saṃbandhinaḥ śodhitān somān pibatam | pānaṃ kurutam | tadarthaṃ no 'smākaṃ yajñaṃ pratīhedānīmūtyāsmadrakṣaṇena sahā gatam | āgacchatam | kiṃca he indravāyū asmayū asmadyajñamicchantau yuvaṃ yuvām adribhirgrāvabhiḥ sutānāmabhiṣutānāṃ ‖ pūrvavatkarmaṇi ṣaṣṭhī ‖ tān pibatamiti śeṣaḥ | kimartham | madāya tṛptaye modāya vā | yato yuvaṃ yuvāṃ vājadā vājasyānnasya dātārau | ataḥ pibatamityanvayaḥ ‖*
 
-*(Sense: "O Indra and Vāyu, the *dhiyaḥ* — the rites such as praise — have turned (*vavṛtyuḥ*), have been performed with great intensity, towards our sacrifices (*adhvarān*) — for you two. Further, for you the *adhvaryus* purify (*marmṛjanta*) with the woollen strainer this Soma, *vājinam* — going to the cups from the *droṇakalaśa* [?], the *indu* that is before [them]; the simile for the cleansing: like a swift horse, *āśuṃ atyaṃ na vājinam*, a fleet runner, that has strength (*vājin*), whom they rub clean by removing sweat and the like; so [the Soma]. Further, O Indra and Vāyu, drink the Soma-juices of those adhvaryus, purified; do the drinking; for that come here to our sacrifice with *ūti* — with our protection. Further, O Indra-Vāyu, desiring (*asmayū*) our sacrifice, drink [the juices] pressed (*sutānām*) by the stones — the genitive in the object-sense as before: the purpose, *madāya* — satisfaction, joy; since you are *vājadā* — givers of food. Therefore drink.")*
+*(Sense: "O Indra and Vāyu, the *dhiyaḥ* — the rites such as praise — have turned (*vavṛtyuḥ*), have been performed with great intensity, towards our sacrifices (*adhvarān*) — for you two. Further, for you the *adhvaryus* purify (*marmṛjanta*) with the woollen strainer this Soma, *vājinam* — going to the cups from the *droṇakalaśa*, the *indu* that is before [them]; the simile for the cleansing: like a swift horse, *āśuṃ atyaṃ na vājinam*, a fleet runner, that has strength (*vājin*), whom they rub clean by removing sweat and the like; so [the Soma]. Further, O Indra and Vāyu, drink the Soma-juices of those adhvaryus, purified; do the drinking; for that come here to our sacrifice with *ūti* — with our protection. Further, O Indra-Vāyu, desiring (*asmayū*) our sacrifice, drink [the juices] pressed (*sutānām*) by the stones — the genitive in the object-sense as before: the purpose, *madāya* — satisfaction, joy; since you are *vājadā* — givers of food. Therefore drink.")*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indra vāyū — O Indra and Vāyu)*; *vām* — to you both; *dhiyaḥ* — the rites in the form of praise; *adhvarān upa* — towards (our) sacrifices; *ā vavṛtyuḥ* — are performed with great intensity; *(and)* *vājinam* — [the Soma, for you] going to the cups from the *droṇakalaśa*; *imam indum* — this Soma-juice; *āśum* — swiftly-going; *atyam* — the always-moving; *vājinam na* — as [grooms clean] a horse; *marmṛjante* — [the adhvaryus with the strainer] purify; *(kiṃca — and)* *he indra vāyū* — O Indra and Vāyu; *teṣām* — those adhvaryus' [Soma-juices]; *pibatam* — drink; *(tadartham — for that)*; *naḥ* — our; *ūtyā* — with protection; *iha* — here; *ā gatam* — come; *yuvam* — both of you; *vājadā* — givers of food; *(ataḥ — therefore)*; *asmayū* — desirous of our sacrifice; *yuvam* — you both; *adribhiḥ* — with stones; *sutānām* — [of the Soma-juices] pressed; *madāya* — for satisfaction (joy); *(pibatam)* — drink.
 
@@ -15130,7 +15130,7 @@ In this Ṛk the ṛṣi describes the process of pressing the Soma-juice at the
 
 > *etāny asya purastād upakalpyāni bhavanty atha somaṃ rājānaṃ krīṇanti … purastād upakalpye 'dhiṣavaṇaṃ carmādhiṣavaṇe phalake droṇakalaśaṃ daśāpavitram adrīn pūtabhṛtaṃ cādhavanīyaṃ ca sthālīm udañcanaṃ camasaṃ ca tad yed etrājānaṃ prātar abhiṣuṇvanti tad enāni dvedhā vigṛhṇīyād abhy anyāni sunuyān nādbhyaṃ dināyānyāni pariśiṃṣyāt ‖*
 
-(Ai. Brā. [?]-[?], as read "೭-೩೧" [?]; this small-type passage is read from the image and is badly doubtful throughout [?]; the sense is as the Kannada gives it.) On the first day of the rite, the *adhvaryu*, for pressing, must have ready all the implements needed for pressing — the pressing-board (*adhiṣavaṇa*), the skin, the plank, the *droṇakalaśa*, the strainer with ten fringes (*daśāpavitra*), the stones, the *pūtabhṛt* and *ādhavanīya* vessels, the dish, the ladle, the *camasa* — [and he arranges them for] the pressing before the morning and the others.
+(Ai. Brā. 7-32; the sense is as the Kannada gives it.) On the first day of the rite, the *adhvaryu*, for pressing, must have ready all the implements needed for pressing — the pressing-board (*adhiṣavaṇa*), the skin, the plank, the *droṇakalaśa*, the strainer with ten fringes (*daśāpavitra*), the stones, the *pūtabhṛt* and *ādhavanīya* vessels, the dish, the ladle, the *camasa* — [and he arranges them for] the pressing before the morning and the others.
 
 ---
 
@@ -15148,7 +15148,7 @@ In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇ
 
 > *ā dade grāvāsy adhvarakṛd devebhyo gambhīram imam adhvaraṃ kṛdhīndrāya somaguṃ suṣutaṃ madhumantaṃ payasvantaṃ vṛṣṭivanim |*
 
-(The middle of this quotation is garbled in the print — "*kṛdhyatrena savi* …" — and is doubtful [?].) "O *grāvan* (the *upāṃśugraha*-pressing-stone), who makes the sacrifice for the gods, [I take hold of] you, to press the Soma-plant; make with your sweet [?] shape the sacrifice deep, [pressing] the Soma that is sweet, rich in essence, and that brings rain, for Indra. [With this mantra the *grāvan* is taken.]"
+(The middle of this quotation is garbled in the print — "*kṛdhyatrena savi* …".) "O *grāvan* (the *upāṃśugraha*-pressing-stone), who makes the sacrifice for the gods, [I take hold of] you, to press the Soma-plant; make with your sharp point the sacrifice deep, [pressing] the Soma that is sweet, rich in essence, and that brings rain, for Indra. [With this mantra the *grāvan* is taken.]"
 
 ### Printed p. 633  (PDF 654)
 
@@ -15182,7 +15182,7 @@ In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇ
 
 > *prāg apāg udag adharāktvā diśa ā dhāvantv amba ni ṣvara |*
 
-"Let the east, the west, the north and the south, and the quarters between, rush towards you; O mother, come out swiftly. [This mantra belongs to the *nigrāha* procedure; the *unnetṛ* pours the water into the vessel of his *hotṛ*, and the Soma is thereby pressed.]" (These small-type Yajus mantras of the Taittirīya Saṃhitā, 1-4-1 [as read], are read from the image and are doubtful in a number of letters [?]; the Kannada gloss in the print is what I have followed for the sense.)
+"Let the east, the west, the north and the south, and the quarters between, rush towards you; O mother, come out swiftly. [This mantra belongs to the *nigrāha* procedure; the *unnetṛ* pours the water into the vessel of his *hotṛ*, and the Soma is thereby pressed.]" (These small-type Yajus mantras of the Taittirīya Saṃhitā, 1-4-1 [as read], are read from the image; the Kannada gloss in the print is what I have followed for the sense.)
 
 ---
 
@@ -15218,7 +15218,7 @@ In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇ
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
 
-*(Grammar, continued.)* *marmṛjanta* — root *mṛjū śuddhau*; as before the *yaṅ* is *luk*-ed; after *yaṅluganta*, by Vedic usage *laṅ*; *vyatyayo bahulam* gives the Ātmanepada suffix; *jha* → *ata* [as printed]; *guṇo yaṅluk…* (Pā. Sū. 7-4-82 [as read]) gives *guṇa* to the reduplicate; as it follows a *tiṅanta*, *nighāta*. *asmayū* — after the word *asmad*, in the sense of *iccha*, *kyac*; after it the suffix *u*; vocative dual; *āmantritasya* gives *nighāta*. *gatam* — root *gam̐lṛ gatau*; *loṭ*, second person dual, *tam*; *chandasy ubhayathā* (Pā. Sū. 3-4-117 [as read]) gives the *ārdhadhātuka* term; the suffix is *ṅit* [?], so *anudāttopadeśa…* does not drop the *m* of the root [?]; *anusvāra* with *paravarṇa*; *nighāta* after a *tiṅanta*. *indravāyū* — as *indra* and *vāyu* are well-known deities, *ānaṅ* [before the earlier member] is not ordained here; *devatādvandve ca* (Pā. Sū. 6-2-141 [as read]) gives both members their own accent. *vājadā* — *vājaṃ dadāti iti vājadāḥ*; root *ḍudāñ dāne*; *ato 'nupasarge kaḥ* (Pā. Sū. 3-2-3 [as read]) gives the suffix *ka*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64 [as read]) drops the *ā* of the root; *supāṃ sulug…* (Pā. Sū. 6-1-39 [as read]) gives *ā* for the dual ending; *āmantrita-nighāta*. *sutānām* — root *ṣuñ abhiṣave*; *kta* in the passive; by the suffix accent, final udātta; genitive in the object-sense. ‖ 5 ‖
+*(Grammar, continued.)* *marmṛjanta* — root *mṛjū śuddhau*; as before the *yaṅ* is *luk*-ed; after *yaṅluganta*, by Vedic usage *laṅ*; *vyatyayo bahulam* gives the Ātmanepada suffix; *jha* → *ata* [as printed]; *guṇo yaṅluk…* (Pā. Sū. 7-4-82 [as read]) gives *guṇa* to the reduplicate; as it follows a *tiṅanta*, *nighāta*. *asmayū* — after the word *asmad*, in the sense of *iccha*, *kyac*; after it the suffix *u*; vocative dual; *āmantritasya* gives *nighāta*. *gatam* — root *gam̐lṛ gatau*; *loṭ*, second person dual, *tam*; *chandasy ubhayathā* (Pā. Sū. 3-4-117 [as read]) gives the *ārdhadhātuka* term; the suffix is *ṅit* [?], so *anudāttopadeśa…* does not drop the *m* of the root; *anusvāra* with *paravarṇa*; *nighāta* after a *tiṅanta*. *indravāyū* — as *indra* and *vāyu* are well-known deities, *ānaṅ* [before the earlier member] is not ordained here; *devatādvandve ca* (Pā. Sū. 6-2-141 [as read]) gives both members their own accent. *vājadā* — *vājaṃ dadāti iti vājadāḥ*; root *ḍudāñ dāne*; *ato 'nupasarge kaḥ* (Pā. Sū. 3-2-3 [as read]) gives the suffix *ka*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64 [as read]) drops the *ā* of the root; *supāṃ sulug…* (Pā. Sū. 6-1-39 [as read]) gives *ā* for the dual ending; *āmantrita-nighāta*. *sutānām* — root *ṣuñ abhiṣave*; *kta* in the passive; by the suffix accent, final udātta; genitive in the object-sense. ‖ 5 ‖
 
 #### Ṛk 6
 
@@ -15251,13 +15251,13 @@ In the Ṛk before us, for the word *marmṛjanta*, *adhvaryavo daśāpavitreṇ
 > *yuva 'vāyavaḥ | ati | romāṇi | avyayā | somāsaḥ | ati | avyayā ‖ 6 ‖*
 
 
-**॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image; doubtful words marked [?].)*
+**॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image.)*
 
 > हे वायो वां युवयोस्तव चेन्द्रस्य च स्वभूता इमे सोमा अप्स्वप्सु ऋत्विजां कर्मसु ॥ ऊडिदमित्यादिना विभक्त्युदात्तत्वम् ॥ इहास्मिन्नभिषवस्थाने सुता अभिषुता अध्वर्युभिर्भरमाणास्तैर्भ्रियमाणा गृहीता होतुं वा ह्रियमाणाः ॥ कर्मणि कर्तृप्रत्ययः ॥ सन्त अयंसते आगच्छन्ति । युवयोर्नियता भवन्ति । किंचेत एव सोमाः शुक्राः शुभ्रा दीप्ता अयंसन्त नियता भवन्ति । किंचैते आशवो व्यापकाः सोमा वां युवां प्रीणयितुमिति शेषः । तिरः पवित्रं तिर्यग्गतं सोमान्तर्धायकं वोर्णामयं पवित्रमभ्यसृक्षत । अभिलक्ष्य सृज्यन्ते । सृष्टा भवन्ति । सृजेः कर्मणि लुङ् । … किंच युवायवो युवां कामयमानाः सोमासः सोमा अव्यया अव्ययानि सूक्ष्माण्यव्यानि रोमाणि पवित्रसंबन्धीनि वारोमाणि । यद्वा । अव्यया अविमयानि ॥ मकारो लुप्यते ॥ तादृशानि रोमाण्यतिक्रम्य पात्रादुद्गच्छन्तीति शेषः । पुनस्त एव विशेष्यन्ते । अत्यतिशयेनाव्यया व्ययरहिताः सोमासः सोमा अस्पृक्षतेति शेषः ॥
 
 > *he vāyo vāṃ yuvayostava cendrasya ca svabhūtā ime somā apsvapsu ṛtvijāṃ karmasu ‖ ūḍidamityādinā vibhaktyudāttatvam ‖ ihāsminnabhiṣavasthāne sutā abhiṣutā adhvaryubhirbharamāṇāstairbhriyamāṇā gṛhītā hotuṃ vā hriyamāṇāḥ ‖ karmaṇi kartṛpratyayaḥ ‖ santa ayaṃsate āgacchanti | yuvayorniyatā bhavanti | kiṃceta eva somāḥ śukrāḥ śubhrā dīptā ayaṃsanta niyatā bhavanti | kiṃcaite āśavo vyāpakāḥ somā vāṃ yuvāṃ prīṇayitumiti śeṣaḥ | tiraḥ pavitraṃ tiryaggataṃ somāntardhāyakaṃ vorṇāmayaṃ pavitramabhyasṛkṣata | abhilakṣya sṛjyante | sṛṣṭā bhavanti | sṛjeḥ karmaṇi luṅ | … kiṃca yuvāyavo yuvāṃ kāmayamānāḥ somāsaḥ somā avyayā avyayāni sūkṣmāṇyavyāni romāṇi pavitrasaṃbandhīni vāromāṇi | yadvā | avyayā avimayāni ‖ makāro lupyate ‖ tādṛśāni romāṇyatikramya pātrādudgacchantīti śeṣaḥ | punasta eva viśeṣyante | atyatiśayenāvyayā vyayarahitāḥ somāsaḥ somā aspṛkṣateti śeṣaḥ ‖*
 
-*(Sense: "O Vāyu, these Soma-juices, belonging to you, and to Indra, in the rites of the priests, are pressed here, at the place of pressing, being carried (*bharamāṇāḥ*) — held by the adhvaryus, taken, or about to be offered — *ayaṃsata*: they come, they are fixed for you two. Further, these very Soma-juices, *śukrāḥ* — clear, shining — *ayaṃsata*: they are fixed. And *āśavaḥ* — pervading — to please you. *Tiraḥ pavitram* — across the crosswise strainer, the woollen strainer that hides the Soma within, they are poured (*abhyasṛkṣata*). Further, *yuvāyavaḥ* — desiring you two — the Soma-juices, *avyayā*: [pass through] the fine hairs (*romāṇi*) of the sheep-wool strainer; or *avyayā* = made of wool [?], [the *m* elided]; having passed such hairs they go out of the vessel; and again they are specially described, *ati avyayā* — exceedingly inexhaustible, the Soma-juices.")*
+*(Sense: "O Vāyu, these Soma-juices, belonging to you, and to Indra, in the rites of the priests, are pressed here, at the place of pressing, being carried (*bharamāṇāḥ*) — held by the adhvaryus, taken, or about to be offered — *ayaṃsata*: they come, they are fixed for you two. Further, these very Soma-juices, *śukrāḥ* — clear, shining — *ayaṃsata*: they are fixed. And *āśavaḥ* — pervading — to please you. *Tiraḥ pavitram* — across the crosswise strainer, the woollen strainer that hides the Soma within, they are poured (*abhyasṛkṣata*). Further, *yuvāyavaḥ* — desiring you two — the Soma-juices, *avyayā*: [pass through] the fine hairs (*romāṇi*) of the sheep-wool strainer; or *avyayā* = made of wool, [the *m* elided]; having passed such hairs they go out of the vessel; and again they are specially described, *ati avyayā* — exceedingly inexhaustible, the Soma-juices.")*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *he vāyo* — O Vāyu; *vām* — for you and for Indra (to both); *ime somāḥ* — these Soma-juices (in the various vessels); *apsu* — in (our) rites; *iha* — here, in this place of pressing; *sutāḥ* — pressed; *adhvaryubhiḥ* — by the adhvaryus; *bharamāṇāḥ* — carried; *ā ayaṃsata* — come (fixed for you); *(kiṃca — and)*; *(te eva somāḥ — those same Soma-juices)*; *śukrāḥ* — shining; *ayaṃsata* — are fixed for you; *(kiṃca — and)*; *āśavaḥ* — pervading ones; *ete* — these Soma-juices; *vām* — to please you two; *tiraḥ* — across; *pavitram* — the strainer (made of wool, which has to be placed on the Soma-juice); *abhi asṛkṣata* — are poured (made use of); *yuvāyavaḥ* — desiring you; *ati avyayāḥ* — extremely indestructible (inexhaustible); *somāsaḥ* — Soma-juices; *avyayā* — [and] fine; *romāṇi* — the hairs of the wool; *ati* — pass over (they go out of the vessel).
 
@@ -15279,7 +15279,7 @@ The nature of the Soma-juice is described: [it is] pressed with the specified ri
 
    > *vācaspataye pavasva vājinn vṛṣā vṛṣṇo aṃśubhyāṃ gabhastipūto devo devānāṃ pavitram asi yeṣāṃ bhāgo 'si tebhyas tvā (gṛhṇāmi) ‖*
 
-   "O Soma, who gives food, flow for the lord of speech, [Vācaspati]: hear — the Soma-god, purified by the fingers, you are the strainer of the gods; I take you for those whose portion you are." The Kannada explains: "O Soma, the giver of food, flow [for Vācaspati], the protecting deity, by the mantra related to speech; be the strengthener for the protecting deities..." (read partly [?]).
+   "O Soma, who gives food, flow for the lord of speech, [Vācaspati]: hear — the Soma-god, purified by the fingers, you are the strainer of the gods; I take you for those whose portion you are." The Kannada explains: "O Soma, the giver of food, flow [for Vācaspati], the protecting deity, by the mantra related to speech; be the strengthener for the protecting deities...".
 
 ---
 
@@ -15293,7 +15293,7 @@ The nature of the Soma-juice is described: [it is] pressed with the specified ri
 
    > *svāṃ kṛto 'si madhumatīr na iṣas kṛdhi viśvebhyas tvendriyebhyo divyebhyaḥ pārthivebhyaḥ |*
 
-   (Read from the image; the first word is doubtful [?].) "O *upāṃśugraha*, you have been accepted by us; make our food sweet. For all your powers — heavenly and earthly — I accept you." [With this mantra the vessel is taken and, looking at it, [the *adhvaryu*] pours it out in a *homa* [?].]
+   "O *upāṃśugraha*, you have been accepted by us; make our food sweet. For all your powers — heavenly and earthly — I accept you." [With this mantra the vessel is taken and, looking at it, [the *adhvaryu*] rubs it with the left hand.]
 
 3. > मनस्त्वाष्टु ।
 
@@ -15311,7 +15311,7 @@ The nature of the Soma-juice is described: [it is] pressed with the specified ri
 
    > *svāhā tvā subhavaḥ sūryāya |*
 
-   "*Svāhā* — to the Sun, easy to reach [?]." [With this mantra the juice is poured into the fire.]
+   "*Svāhā* — to the Sun." [With this mantra the juice is poured into the fire.]
 
 6. > (स्वाहा) देवेभ्यस्त्वा मरीचिपेभ्यः ।
 
@@ -15325,7 +15325,7 @@ The nature of the Soma-juice is described: [it is] pressed with the specified ri
 
    "This is your birth-place; [I take you] for the breath." [Reciting this mantra, a vine is to be put into the vessel in which the remainder is poured, the *agrayaṇa* vessel.]
 
-The same procedure with slight differences is described in the Śatapatha Brāhmaṇa in sentences like *atha rājānam upāvaharati | iyaṃ vai pratiṣṭhā* (Śa. Brā. [?]-[?]-[?]-[?] to [?], as read "೪-೯-೩-೨ ರಿಂದ ೩೩" [?]), which tell the duties of the *adhvaryu* and that he takes the prepared Soma for the offering.
+The same procedure with slight differences is described in the Śatapatha Brāhmaṇa in sentences like *atha rājānam upāvaharati | iyaṃ vai pratiṣṭhā* (Śa. Brā. 3-9-3-2 to 33), which tell the duties of the *adhvaryu* and that he takes the prepared Soma for the offering.
 
 ***śukrāḥ*** — *śubhrāḥ dīptāḥ*: "pure, shining" is the meaning.
 
@@ -15337,19 +15337,19 @@ The same procedure with slight differences is described in the Śatapatha Brāhm
 
 *(Continuing:)* …it is one method that the juice is purified when placed within the woollen cloth; or this person [the adhvaryu], having made [the cloth] an instrument that cleans like a sieve, pours the juice on it and purifies it — there is also this way. Probably something like that is suggested here.
 
-The author of the Nirukta has given different meanings of this word, but to show that the purpose is the same: *pavitraṃ punāteḥ* (Ni. 5-6, as read "೫-೭" [?]) — "since it purifies, it is called *pavitra*"; and he takes sentences such as
+The author of the Nirukta has given different meanings of this word, but to show that the purpose is the same: *pavitraṃ punāteḥ* (Ni. 5-6) — "since it purifies, it is called *pavitra*"; and he takes sentences such as
 
 1. > मन्त्रः पवित्रमुच्यते ।
 
    > *mantraḥ pavitram ucyate |*
 
-   "the mantra is called *pavitra*": *yena devāḥ pavitreṇātmānaṃ punate sadā* (Sāmaveda [?]-[?]-[?]-[?], as read "೩-೨-೪-೩; ೨-೮೯೩" [?]) — taking this sentence, [Yāska] shows there the meaning "mantra"; 2. *raśmayaḥ pavitram ucyante* — "the rays are also called *pavitra*"; 3. *āpaḥ pavitram ucyante* — "the waters are called *pavitra*", and
+   "the mantra is called *pavitra*": *yena devāḥ pavitreṇātmānaṃ punate sadā* (Sāmaveda 5-2-8-5; 2-652) — taking this sentence, [Yāska] shows there the meaning "mantra"; 2. *raśmayaḥ pavitram ucyante* — "the rays are also called *pavitra*"; 3. *āpaḥ pavitram ucyante* — "the waters are called *pavitra*", and
 
 > शतपवित्राः स्वधया मदन्तीर्देवीर्देवानामपि यन्ति पाथः ।
 
 > *śatapavitrāḥ svadhayā madantīr devīr devānām api yanti pāthaḥ |*
 
-(Ṛ. Saṃ. 2-[?]-[?], as read "೨-೪೨-೩" [?].) — taking this Ṛk, he shows there the meaning "water". But in the present Ṛk, "to purify" is the meaning only; none of the meanings given by the author of the Nirukta — water, rays, mantra — applies. It means only an instrument of filtering. Sometimes one puts a mass of *darbha*-grass on the vessel and purifies the juice above it. Here, as explained as *ūrṇāmayam*, [the strainer] is made of a cloth of wool:
+(Ṛ. Saṃ. 7-47-3.) — taking this Ṛk, he shows there the meaning "water". But in the present Ṛk, "to purify" is the meaning only; none of the meanings given by the author of the Nirukta — water, rays, mantra — applies. It means only an instrument of filtering. Sometimes one puts a mass of *darbha*-grass on the vessel and purifies the juice above it. Here, as explained as *ūrṇāmayam*, [the strainer] is made of a cloth of wool:
 
 > उच्छ्वञ्चस्व चन्वोर्भर सोमं पवित्र आ सृज । नि धेहि गोरधि त्वचि ॥
 
@@ -15363,7 +15363,7 @@ The author of the Nirukta has given different meanings of this word, but to show
 > *avye vadhūyuḥ pavate pari tvaci śrathnīte naptīr aditer ṛtaṃ yate |*
 > *harir akrān yajataḥ saṃyato mado nṛmṇā śiśāno mahiṣo na śobhate ‖*
 
-(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೯೬-೧೩" [?]; the quotation is partly doubtful [?].) As in Ṛks like this, where *avye tvaci* means "in the woollen skin", so here too the word *avya*, in the sense of "belonging to sheep", is connected [and explained] for *avyayaḥ somāsaḥ*…
+(Ṛ. Saṃ. 9-69-3.) As in Ṛks like this, where *avye tvaci* means "in the woollen skin", so here too the word *avya*, in the sense of "belonging to sheep", is connected [and explained] for *avyayaḥ somāsaḥ*…
 
 ---
 
@@ -15379,7 +15379,7 @@ The author of the Nirukta has given different meanings of this word, but to show
 > *pra te dhārā atyaṇvāni meṣyaḥ punānasya saṃyato yanti raṃhayaḥ |*
 > *yad gobhir indo camvoḥ samajyasa ā suvānaḥ soma kalaśeṣu sīdasi ‖*
 
-(Ṛ. Saṃ. 9-[?]-[?], as read "೯-೧೩-೧" [?]; the quotation's wording is partly doubtful [?].) — in this, too, the order in which the Soma-juice is cleansed is described in the same way. *Raṃhayaḥ dhārāḥ meṣyaḥ aṇvāni aṇūni lomāni atiyanti* — "the streams, the quick flows, pass over the fine hairs of the woollen cloth": it is explained [by Sāyaṇa] as the streams, though fine, passing through the woollen strainer, [as described here].
+(Ṛ. Saṃ. 9-86-47.) — in this, too, the order in which the Soma-juice is cleansed is described in the same way. *Raṃhayaḥ dhārāḥ meṣyaḥ aṇvāni aṇūni lomāni atiyanti* — "the streams, the quick flows, pass over the fine hairs of the woollen cloth": it is explained [by Sāyaṇa] as the streams, though fine, passing through the woollen strainer, [as described here].
 
 ***avyayāḥ*** — the word *avyayā* is repeated; the second time it is an epithet of *somāsaḥ*. There it means "that which has no decay (*vyaya*)": "imperishable".
 
@@ -15421,13 +15421,13 @@ The author of the Nirukta has given different meanings of this word, but to show
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-*(Bhāṣya of Ṛk 7, continued from p. 641; read from the image; doubtful words marked [?].)*
+*(Bhāṣya of Ṛk 7, continued from p. 641; read from the image.)*
 
 > यस्मिन्देशेऽभिषवार्थः पाषाणध्वनिः श्रूयते तत्र गच्छतं तं देशं प्रत्यागच्छतम् । गृहं यज्ञगृहं गच्छतं । पुनः स्थानमेव विशेष्यते । सूनृता प्रियतथ्यात्मिका स्तुतिरूपा वाङ्मात्रं वि ददृशे विशेषेण दृश्यते श्रूयते इत्यर्थः । तत्र गच्छतं । यत्र च घृतमुत्कृष्टमाज्यं होमार्थं गृहीतं रीयते गच्छति आहवनीयं प्रति नीयते ॥ रीङ् स्रवणे । दिवादित्वात् श्यन् ॥ तत्र गच्छतम् । गमनप्रकार एव विशेष्यते । पूर्णया संपूर्णया पुष्टाङ्गया नियुता ॥ जातावेकवचनम् । नियुद्भिस्त्वदध्वरमस्मदीयं यज्ञमा याथः । अभिमुख्येन प्रयाथः । किंच हे वायो त्वमिन्द्रश्च युवामध्वरमस्मदीयं यागमा याथः । सहैवागच्छतं तथास्माभिरपि सहैव गच्छतमित्यर्थः ॥
 
 > *yasmindeśe 'bhiṣavārthaḥ pāṣāṇadhvaniḥ śrūyate tatra gacchataṃ taṃ deśaṃ pratyāgacchatam | gṛhaṃ yajñagṛhaṃ gacchataṃ | punaḥ sthānameva viśeṣyate | sūnṛtā priyatathyātmikā stutirūpā vāṅmātraṃ vi dadṛśe viśeṣeṇa dṛśyate śrūyate ityarthaḥ | tatra gacchataṃ | yatra ca ghṛtamutkṛṣṭamājyaṃ homārthaṃ gṛhītaṃ rīyate gacchati āhavanīyaṃ prati nīyate ‖ rīṅ sravaṇe | divāditvāt śyan ‖ tatra gacchatam | gamanaprakāra eva viśeṣyate | pūrṇayā saṃpūrṇayā puṣṭāṅgayā niyutā ‖ jātāvekavacanam | niyudbhistvadadhvaramasmadīyaṃ yajñamā yāthaḥ | abhimukhyena prayāthaḥ | kiṃca he vāyo tvamindraśca yuvāmadhvaramasmadīyaṃ yāgamā yāthaḥ | sahaivāgacchataṃ tathāsmābhirapi sahaiva gacchatamityarthaḥ ‖*
 
-*(Sense: "To the place where the sound of the pressing-stones is heard for the pressing, go — come back to that place; go to the house — the sacrificial house; and again the place itself is described: where *sūnṛtā* — speech in the form of praise, of the nature of what is dear and true — *vi dadṛśe* is specially seen and heard; go there; and where *ghṛtam* — excellent ghee taken for the oblation — *rīyate*, flows, is carried to the *āhavanīya* [*rīṅ sravaṇe*, *śyan* of the *divādi* class]; go there; the manner of going is further described: with *pūrṇayā* — full, with well-nourished limbs [?] — *niyutā* [the generic singular], you come to our sacrifice with your horses; go straight towards it. And further, O Vāyu, you and Indra, come to our sacrifice; going together, you two go with us as well.")*
+*(Sense: "To the place where the sound of the pressing-stones is heard for the pressing, go — come back to that place; go to the house — the sacrificial house; and again the place itself is described: where *sūnṛtā* — speech in the form of praise, of the nature of what is dear and true — *vi dadṛśe* is specially seen and heard; go there; and where *ghṛtam* — excellent ghee taken for the oblation — *rīyate*, flows, is carried to the *āhavanīya* [*rīṅ sravaṇe*, *śyan* of the *divādi* class]; go there; the manner of going is further described: with *pūrṇayā* — full, with well-nourished limbs — *niyutā* [the generic singular], you come to our sacrifice with your horses; go straight towards it. And further, O Vāyu, you and Indra, come to our sacrifice; going together, you two go with us as well.")*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he) vāyo* — O Vāyu; *(tvam)* — you; *sasataḥ* — [those who are] sleeping out of laziness; *śaśvataḥ* — many persons (sacrificers); *ati yāhi* — pass over (go to our sacrificial hall); *indraḥ ca* — and Indra too (may he do likewise); *yatra* — in which place; *grāvā* — the stones (that press the Soma-juice); *vadati* — make sound; *tatra* — to that place; *gacchatam* — [you two] go; *gṛham* — to the sacrificial house; *gacchatam* — go; *sūnṛtā* — (in which place) true and praise-form speech; *vi dadṛśe* — is seen specially (go there); *ghṛtam* — (where) ghee; *rīyate* — is brought for the oblation (go there); *pūrṇayā* — with well-nourished; *niyutā* — [with] the horses called *niyut*; *adhvaram* — to our sacrificial hall; *ā yāthaḥ* — come face-to-face; *(kiṃca — and)* *(he vāyo)* — O Vāyu; *indraḥ ca* — and Indra too; *adhvaram* — to our sacrifice; *(ā)* *yāthaḥ* — come together.
 
@@ -15443,7 +15443,7 @@ The author of the Nirukta has given different meanings of this word, but to show
 
 Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinking occurs, with their attractive circumstances, are described by *yatra grāvā vadati*, *yatra sūnṛtā vi dadṛśe*, *ghṛtaṃ rīyate* and the like.
 
-***yatra grāvā vadati*** — "where the stones that press the Soma give a sound that follows the praise-words of men": the attractive sound of the *grāvan* stones that press Soma is described. To the question whether such circumstances as "the *grāvan* sounds" are not impossible, Sāyaṇa has given his reply in the introduction to his commentary, which may be seen in the first part of the Ṛgveda Saṃhitā. The speech-like sound of the stones is described in the Ṛks of the Ṛgveda Saṃhitā thus (Ṛ. Saṃ. 10-94, the verses as numbered 1–4 in the print [?]):
+***yatra grāvā vadati*** — "where the stones that press the Soma give a sound that follows the praise-words of men": the attractive sound of the *grāvan* stones that press Soma is described. To the question whether such circumstances as "the *grāvan* sounds" are not impossible, Sāyaṇa has given his reply in the introduction to his commentary, which may be seen in the first part of the Ṛgveda Saṃhitā. The speech-like sound of the stones is described in the Ṛks of the Ṛgveda Saṃhitā thus (Ṛ. Saṃ. 10-94, the verses as numbered 1–4 in the print):
 
 > प्रैते वदन्तु प्र वयं वदाम ग्रावभ्यो वाचं वदता वदद्भ्यः ।
 > यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेन्द्राय सोमिनः ॥ १ ॥
@@ -15459,7 +15459,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 > *ete vadanti śatavat sahasravad abhi krandanti haritebhir āsabhiḥ |*
 > *viṣṭvī grāvāṇaḥ sukṛtaḥ sukṛtyayā hotuś cit pūrve haviradyam āśata ‖ 2 ‖*
 
-"As men speak in hundreds and thousands, so these stones make sounds, and call to the gods, in the Soma-giving [?], with green mouths" (the Kannada gloss).
+"As men speak in hundreds and thousands, so these stones make sounds, and call to the gods, directing them to the Soma, with green mouths" (the Kannada gloss).
 
 > एते वदन्ति विदन्ना मधु न्योखयन्ते अधि पक्व आमिषि ।
 > वृक्षस्य शाखामरुणस्य बप्सतस्ते सूभर्वा वृषभाः प्रेमराविषुः ॥ ३ ॥
@@ -15467,7 +15467,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 > *ete vadanti vidannā madhu nyokhayante adhi pakva āmiṣi |*
 > *vṛkṣasya śākhām aruṇasya bapsatas te sūbharvā vṛṣabhāḥ premarāviṣuḥ ‖ 3 ‖*
 
-"As the strong bulls make noise when they eat the branch of a red tree, and as beings eating cooked flesh make sounds, so these stones make sound." (The quotation is read with doubt in several letters [?].)
+"As the strong bulls make noise when they eat the branch of a red tree, and as beings eating cooked flesh make sounds, so these stones make sound."
 
 > बृहद्वदन्ति मदिरेण मन्दिनेन्द्रं क्रोशन्तोऽविदन्ना मधु ।
 > संरभ्या धीराः स्वसृभिरर्चिषुराघोषयन्तः पृथिवीमुपब्दिभिः ॥ ४ ॥
@@ -15482,7 +15482,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-*(Special Topics of Ṛk 7, continued; the Kannada gloss of Ṛk 4 of the *grāvan* hymn, begun on p. 643:)* …"the stones make a loud noise with the delightful Soma-juice, calling Indra; the sound of the stones that fill the earth with their sound, and press with the fingers". The next verses of the same hymn are quoted (the verse numbers as printed, uncertain [?]):
+*(Special Topics of Ṛk 7, continued; the Kannada gloss of Ṛk 4 of the *grāvan* hymn, begun on p. 643:)* …"the stones make a loud noise with the delightful Soma-juice, calling Indra; the sound of the stones that fill the earth with their sound, and press with the fingers". The next verses of the same hymn are quoted (the verse numbers as printed):
 
 > उग्रा इव प्रवहन्तः समायमुः साकं युक्ता वृषणो बिभ्रतो धुरः ।
 > यच्छ्वसन्तो जग्रसाना अराविषुः शृण्व इषां प्रोथथो अर्वतामिव ॥
@@ -15490,7 +15490,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 > *ugrā iva pravahantaḥ samāyamuḥ sākaṃ yuktā vṛṣaṇo bibhrato dhuraḥ |*
 > *yac chvasanto jagrasānā arāviṣuḥ śṛṇva iṣāṃ prothatho arvatām iva ‖*
 
-(Ṛ. Saṃ. 10-94-[?], as read "೬" in the print [?].) "These stones, carrying the burden of the pressing of Soma, make a sound like fierce horses drawing a chariot and neighing with their mouths."
+(Ṛ. Saṃ. 10-94-6.) "These stones, carrying the burden of the pressing of Soma, make a sound like fierce horses drawing a chariot and neighing with their mouths."
 
 > ध्रुवा एव वः पितरो युगेयुगे क्षेमकामासः सदसो न युञ्जते ।
 > अजुर्यासो हरिषाचो हरिद्रव आ द्यां रवेण पृथिवीमशुश्रवुः ॥
@@ -15498,7 +15498,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 > *dhruvā eva vaḥ pitaro yuge-yuge kṣemakāmāsaḥ sadaso na yuñjate |*
 > *ajuryāso hariṣāco haridrava ā dyāṃ raveṇa pṛthivīm aśuśravuḥ ‖*
 
-(Ṛ. Saṃ. 10-94-[?], as read "೧೧" [?].) "O stones, though the ages change, your fathers, the mountains, stand firm; they fill heaven and earth with the sound of your pressing."
+(Ṛ. Saṃ. 10-94-12.) "O stones, though the ages change, your fathers, the mountains, stand firm; they fill heaven and earth with the sound of your pressing."
 
 > सुते अध्वरे अधि वाचमक्रत क्रीळयो न मातरं तुदन्तः ।
 > वि षू मुञ्चा सुषुवुषो मनीषां वि वर्तन्तामद्रयश्चायमानाः ॥
@@ -15506,7 +15506,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 > *sute adhvare adhi vācam akrata krīḷayo na mātaraṃ tudantaḥ |*
 > *vi ṣū muñcā suṣuvuṣo manīṣāṃ vi vartantām adrayaś cāyamānāḥ ‖*
 
-(Ṛ. Saṃ. 10-94-[?], as read "೧೪" [?]; the last words of the quotation are doubtful [?].) "As children playing, pressing the mother's breast, make sounds, so the stones make a delightful sound at the sacrifice." Thus even the *grāvan*s, following the praise of the sacrificers, make the Soma ready for Indra and the others and, with their attractive sound, call the gods with their own voice: so the purport is. Therefore the prayer is "go where the stones sound".
+(Ṛ. Saṃ. 10-94-14.) "As children playing, pressing the mother's breast, make sounds, so the stones make a delightful sound at the sacrifice." Thus even the *grāvan*s, following the praise of the sacrificers, make the Soma ready for Indra and the others and, with their attractive sound, call the gods with their own voice: so the purport is. Therefore the prayer is "go where the stones sound".
 
 ***sūnṛtā vi dadṛśe*** — the word *sūnṛtā* is explained by Sāyaṇa as *priyatathyātmikā stutirūpā vāk* — "speech of the nature of the pleasing and the true, in the form of praise". There are three kinds of praise: first, the praise of the *grāvan*; second, the praise of Soma; third, the praise of Indra and the other deities.
 
@@ -15514,7 +15514,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 > *ā va ṛñjasa ūrjāṃ vṛṣṭiṃ sunvata indraṃ maruto rodasī anaktana |*
 
-(Ṛ. Saṃ. 10-[?]-1, as read "೧೦-೬೬-೧" [?]; the wording is doubtful [?].) In the hymn that begins with this Ṛk,
+(Ṛ. Saṃ. 10-76-1.) In the hymn that begins with this Ṛk,
 
 > प्र वो ग्रावाणः सविता देवः सुवतु धर्मणा । धूर्षु युज्यध्वं सुनुत ॥
 
@@ -15552,7 +15552,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 > *mo ṣu brahmeva tandrayur bhuvo vājānāṃ pate | matsvā sutasya gomataḥ ‖*
 
-(Ṛ. Saṃ. 8-[?]-[?], as read "೮-೩೩-೩೦" [?].) "Do not be lazy like a [lazy] priest in the performance of rites such as sacrifices," [says the ṛṣi] to Indra. In the present Ṛk the same contempt is shown: *sasataḥ śaśvataḥ ati yāhi* — "pass the many who are sleeping lazily and neglecting their duties; come to our sacrifice", the ṛṣi prays Vāyu, showing contempt to the sacrificers who perform no rites.
+(Ṛ. Saṃ. 8-92-30.) "Do not be lazy like a [lazy] priest in the performance of rites such as sacrifices," [says the ṛṣi] to Indra. In the present Ṛk the same contempt is shown: *sasataḥ śaśvataḥ ati yāhi* — "pass the many who are sleeping lazily and neglecting their duties; come to our sacrifice", the ṛṣi prays Vāyu, showing contempt to the sacrificers who perform no rites.
 
 ---
 
@@ -15560,7 +15560,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; numbers as printed).** *sasataḥ* — root *sasa svapne*; *adādi*; *śatṛ* for *laṭ*; accusative plural; since it lacks *num*, *śaturanumo nadyajādī* (Pā. Sū. 6-1-173 [as read]) gives the udātta to the case-ending placed after the *śatṛ*-final. *vadati* — root *vada vyaktāyāṃ vāci*; *laṭ*, third person singular; because it is connected with *yatra*, the *nighāta* accent does not occur; the accent of the root remains. *gacchatam* — *loṭ*, second person dual, *tam*; *iṣugamiyamāṃ chaḥ* (Pā. Sū. 7-3-77 [as read]) gives *cha* for the *m* of the root; as it follows a *tiṅanta*, *nighāta*. *dadṛśe* — root *dṛśir prekṣaṇe*; by Vedic usage *liṭ* in the passive; third person singular; the suffix's ādyudātta [as read]. *rīyate* — root *rīṅ sravaṇe*; *divādi*; *laṭ*, third person singular; since it is connected with *yatra* [sic: since it follows a *tiṅanta*], there is no *nighāta*; as *śyan* is *śit* [?], by *ñitādir nityam* (Pā. Sū. 6-1-197 [as read]) the ādyudātta. *niyutā* — though the horses of Vāyu are many, since it is a generic word, it is used in the singular. *yāthaḥ* — root *yā prāpaṇe*; *loṭ*, second person dual; as it follows a *tiṅanta*, *nighāta*. ‖ 7 ‖
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; numbers as printed).** *sasataḥ* — root *sasa svapne*; *adādi*; *śatṛ* for *laṭ*; accusative plural; since it lacks *num*, *śaturanumo nadyajādī* (Pā. Sū. 6-1-173 [as read]) gives the udātta to the case-ending placed after the *śatṛ*-final. *vadati* — root *vada vyaktāyāṃ vāci*; *laṭ*, third person singular; because it is connected with *yatra*, the *nighāta* accent does not occur; the accent of the root remains. *gacchatam* — *loṭ*, second person dual, *tam*; *iṣugamiyamāṃ chaḥ* (Pā. Sū. 7-3-77 [as read]) gives *cha* for the *m* of the root; as it follows a *tiṅanta*, *nighāta*. *dadṛśe* — root *dṛśir prekṣaṇe*; by Vedic usage *liṭ* in the passive; third person singular; the suffix's ādyudātta [as read]. *rīyate* — root *rīṅ sravaṇe*; *divādi*; *laṭ*, third person singular; since it is connected with *yatra* [sic: since it follows a *tiṅanta*], there is no *nighāta*; as *śyan* is *nit*, by *ñitādir nityam* (Pā. Sū. 6-1-197 [as read]) the ādyudātta. *niyutā* — though the horses of Vāyu are many, since it is a generic word, it is used in the singular. *yāthaḥ* — root *yā prāpaṇe*; *loṭ*, second person dual; as it follows a *tiṅanta*, *nighāta*. ‖ 7 ‖
 
 #### Ṛk 8
 
@@ -15584,13 +15584,13 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 > *atra | aha | tat | vahethe iti | madhvaḥ | ā 'hutim | yam | aśvattham | upa 'tiṣṭhanta | jāyavaḥ | asme iti | te | santu | jāyavaḥ |*
 > *sākam | gāvaḥ | suvate | pacyate | yavaḥ | na | te | vāyo iti | upa | dasyanti | dhenavaḥ | na | apa | dasyanti | dhenavaḥ ‖ 8 ‖*
 
-**॥ सायणभाष्यम् ॥** *(Ṛk 8; read from the image; doubtful words marked [?].)*
+**॥ सायणभाष्यम् ॥** *(Ṛk 8; read from the image.)*
 
 > हे इन्द्रवायू अत्राह अस्मिन्नेव यज्ञे । अहेति निग्रहार्थीयः ॥ मध्वो मधुरस्य मधुसदृशस्य वा तत् तस्याहुतिं प्रदेयद्रव्यं वहेथे । धारयतम् । यं सोममश्वत्थं पर्वतादिव्याप्तिप्रदेशे स्थितं जायवो जेतारो यजमाना उपतिष्ठन्त उपेत्य तिष्ठन्ति क्रयार्थम् । किंचास्मे अस्माकं संबन्धिनो जायवो जेतारः कर्मनिर्वाहितारस्ते ऋत्विजः सन्तु । समर्था भवन्तु । यज्ञं निर्वहन्तित्यर्थः । यद्वा । ते प्रसिद्धाः प्रयोगकुशला जायवो जेतार ऋत्विजोऽस्मे सन्तु नान्यस्य । अत्र वहेथ इत्यत्कृतं कोऽत्र निशेष इति तत्राह । हे इन्द्रवायू अस्मिन्यज्ञे गावो धेनवः साकं सह्यैव सुवते । युष्मदर्थमेव क्षीरमुत्पादयन्ति । दोग्ध्र्यो भवन्तीत्यर्थः । यद्वा । गावः साकं सह्यैव सुवते । आपत्यमुत्पादयन्ति त्वद्दोग्धॄणामर्थम् ॥ आदादिकः । जोत्तात्पास्यानुदात्तेदिति लसार्वधातुकानुदात्तत्वे धातुस्वरः ॥ किंच यवः । जातावेकवचनम् । उपलक्षणमेतत् । यवादिभिः पुरोडाशादिकं पच्यते इत्यर्थः । किंच हे वायो इन्द्र च यतो गाव एवं सुवते अतस्ते त्वदर्था धेनवो नोप दस्यन्ति । नोपक्षीणा भवन्ति । रोगादिना कृशा न भवन्ति । न केवलमुपक्षीणाः । किंतु धेनवो युष्मत्प्रीणयित्र्यो गावो नाप दस्यन्ति । चौर्याद्युपहार्यैरुपक्षीणा नष्टा न भवन्ति ॥
 
 > *he indravāyū atrāha asminneva yajñe | aheti nigrahārthīyaḥ ‖ madhvo madhurasya madhusadṛśasya vā tat tasyāhutiṃ pradeyadravyaṃ vahethe | dhārayatam | yaṃ somamaśvatthaṃ parvatādivyāptipradeśe sthitaṃ jāyavo jetāro yajamānā upatiṣṭhanta upetya tiṣṭhanti krayārtham | kiṃcāsme asmākaṃ saṃbandhino jāyavo jetāraḥ karmanirvāhitāraste ṛtvijaḥ santu | samarthā bhavantu | yajñaṃ nirvahantityarthaḥ | yadvā | te prasiddhāḥ prayogakuśalā jāyavo jetāra ṛtvijo 'sme santu nānyasya | atra vahetha ityatkṛtaṃ ko 'tra niśeṣa iti tatrāha | he indravāyū asminyajñe gāvo dhenavaḥ sākaṃ sahyaiva suvate | yuṣmadarthameva kṣīramutpādayanti | dogdhryo bhavantītyarthaḥ | yadvā | gāvaḥ sākaṃ sahyaiva suvate | āpatyamutpādayanti tvaddogdhṝṇāmartham ‖ ādādikaḥ | jottātpāsyānudāttediti lasārvadhātukānudāttatve dhātusvaraḥ ‖ kiṃca yavaḥ | jātāvekavacanam | upalakṣaṇametat | yavādibhiḥ puroḍāśādikaṃ pacyate ityarthaḥ | kiṃca he vāyo indra ca yato gāva evaṃ suvate ataste tvadarthā dhenavo nopa dasyanti | nopakṣīṇā bhavanti | rogādinā kṛśā na bhavanti | na kevalamupakṣīṇāḥ | kiṃtu dhenavo yuṣmatprīṇayitryo gāvo nāpa dasyanti | cauryādyupahāryairupakṣīṇā naṣṭā na bhavanti ‖*
 
-*(Sense: "O Indra and Vāyu, here — in this very sacrifice — *aha* [the particle of emphasis]: that *āhuti* — the thing to be offered — of the *madhu* (sweet, or sweet-like) you bear (*vahethe*, you take up), the Soma, the *aśvattha* [a kind of fig-tree — i.e. the Soma-plant growing on mountains and the like [?]], which the *jāyavaḥ* — the victors, the sacrificers — approach (*upatiṣṭhanta*) to buy [?]. Further, for us (*asme*) may those *jāyavaḥ* — victors, sacrifice-accomplishers — the priests, be: let them be capable; they carry out the sacrifice; or, the well-known skilful priests, the victors, be for us and for no one else. Now, "*vahethe*" here — what is special? He says: O Indra and Vāyu, in this sacrifice the cows, the *dhenus*, *sākaṃ suvate* — together bring forth, produce milk only for you; they become milkers [i.e. yield milk] — or the cows together bear offspring for the milkers who serve you. [*suvate* is of the *adādi* class: *jottāt pāsyānudātted* — by the rule that the *lasārvadhātuka* is *anudātta*, the root's accent.] Further *yavaḥ* — barley, generic singular, indicating grains: *puroḍāśa* etc. are cooked with barley and so on. And further, O Vāyu and Indra, since the cows so bear, those cows of yours do not *upadasyanti* — are not wasted: not become emaciated by disease and the like; and not merely not wasted — the *dhenus*, cows pleasing you, *nāpa dasyanti* — are not lost by theft and the like, [by] things to be borne away, nor destroyed." The grammatical remarks are only partly legible [?].)*
+*(Sense: "O Indra and Vāyu, here — in this very sacrifice — *aha* [the particle of emphasis]: that *āhuti* — the thing to be offered — of the *madhu* (sweet, or sweet-like) you bear (*vahethe*, you take up), the Soma, the *aśvattha* [a kind of fig-tree — i.e. the Soma-plant growing on mountains and the like], which the *jāyavaḥ* — the victors, the sacrificers — approach and stand near (*upatiṣṭhanta*). Further, for us (*asme*) may those *jāyavaḥ* — victors, sacrifice-accomplishers — the priests, be: let them be capable; they carry out the sacrifice; or, the well-known skilful priests, the victors, be for us and for no one else. Now, "*vahethe*" here — what is special? He says: O Indra and Vāyu, in this sacrifice the cows, the *dhenus*, *sākaṃ suvate* — together bring forth, produce milk only for you; they become milkers [i.e. yield milk] — or the cows together bear offspring for the milkers who serve you. [*suvate* is of the *adādi* class: *jottāt pāsyānudātted* — by the rule that the *lasārvadhātuka* is *anudātta*, the root's accent.] Further *yavaḥ* — barley, generic singular, indicating grains: *puroḍāśa* etc. are cooked with barley and so on. And further, O Vāyu and Indra, since the cows so bear, those cows of yours do not *upadasyanti* — are not wasted: not become emaciated by disease and the like; and not merely not wasted — the *dhenus*, cows pleasing you, *nāpa dasyanti* — are not lost by theft and the like, [by] things to be borne away, nor destroyed.")*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *(he indravāyū)* — O Indra and Vāyu; *(yuvām)* — you two; *atra aha* — in this very sacrificial hall; *madhvaḥ* — sweet; *tat* — that (Soma-juice); *āhutim* — the offering; *vahethe* — accept; *yam aśvattham* — [the Soma] which, standing on the mountain and the like; *jāyavaḥ* — the victorious sacrificers; *upatiṣṭhanta* — approach [to obtain]; *(kiṃca — and)*; *asme* — [for] us; *jāyavaḥ* — capable ones (accomplishers of the work); *te* — those priests; *santu* — let them be (capable) [or: *jāyavaḥ* — capable; *te* — those priests; *asme* — for us; *santu* — let them be];
 
@@ -15614,7 +15614,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 > *atha yad āśvatthāni tejaso vā eṣa vanaspatir ajāyata yad aśvatthaḥ sāmrājyaṃ vā etad vanaspatīnāṃ teja evāsmin tat sāmrājyaṃ ca vanaspatīnāṃ kṣatre dadhāti |*
 
-(Ai. Brā. 2-[?], as read "೭-೩೧" [?]; read from the image, doubtful in the middle [?].) "The *aśvattha* arose from [the *tejas* — splendour]; it is the sovereign of the trees": it is the chief of all trees, and is the basis of the *kṣatriya* energy.
+(Ai. Brā. 7-32.) "The *aśvattha* arose from [the *tejas* — splendour]; it is the sovereign of the trees": it is the chief of all trees, and is the basis of the *kṣatriya* energy.
 
 ### Printed p. 649  (PDF 670)
 
@@ -15624,13 +15624,13 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 > *etāny asya purastād upakalpyāni bhavanty atha somaṃ rājānaṃ krīṇanti |*
 
-(Ai. Brā. 2-[?], as read "೭-೩೧" [?].) "When the parts of the *aśvattha* etc. [for the vessel] have been made ready, then the adhvaryu buys the Soma from the *kṣatriya*", is explained in this way: the *kṣatriya* energy and the *aśvattha* are connected. And also:
+(Ai. Brā. 7-32.) "When the parts of the *aśvattha* etc. [for the vessel] have been made ready, then the adhvaryu buys the Soma from the *kṣatriya*", is explained in this way: the *kṣatriya* energy and the *aśvattha* are connected. And also:
 
 > ब्रह्मलोके तृतीयस्यामितो दिवि तद्यैरं मदीयं सरस्तदश्वत्थः सोमसवनस्तदपराजिता पूर्ब्रह्मणः प्रभुविमितं हिरण्मयम् ।
 
 > *brahmaloke tṛtīyasyām ito divi tad airaṃ madīyaṃ saras tad aśvatthaḥ somasavanas tad aparājitā pūr brahmaṇaḥ prabhuvimitaṃ hiraṇmayam |*
 
-(Chāndogya Upaniṣad 8-5-3; this small-type Sanskrit is read from the image and is doubtful throughout [?].) In the *brahmaloka*, an *aśvattha* tree that gives Soma-juice is described in the Chāndogya and other Upaniṣads. Therefore, it appears that the meaning here may be: "the Soma-creepers' juices, which resort to the *aśvattha* trees well known on the mountains and so on". The sacrificer, who desires victory, must press this Soma-juice, perform the sacrifice, and himself drink the juice also.
+(Chāndogya Upaniṣad 8-5-3.) In the *brahmaloka*, an *aśvattha* tree that gives Soma-juice is described in the Chāndogya and other Upaniṣads. Therefore, it appears that the meaning here may be: "the Soma-creepers' juices, which resort to the *aśvattha* trees well known on the mountains and so on". The sacrificer, who desires victory, must press this Soma-juice, perform the sacrifice, and himself drink the juice also.
 
 ***jāyavaḥ*** — the word is repeated. For the first, "the sacrificers who desire victory"; for the second, "the priests who have the strength to carry out the sacrifice and to gain victory": it is explained.
 
@@ -15640,13 +15640,13 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 > *yad āha niyudbhir vāyav iha tā vimuñceti paśavo vai niyutas tat paśubhir evaitat svātrāṇi vimuñcante |*
 
-(Śa. Brā. 4-4-1-17; read from the image, partly doubtful [?].) In such sentences, the *niyut*s that are always connected with Vāyu are said to be animals (*paśu*), and Vāyu is said to be the protector and lord of all animals.
+(Śa. Brā. 4-4-1-17.) In such sentences, the *niyut*s that are always connected with Vāyu are said to be animals (*paśu*), and Vāyu is said to be the protector and lord of all animals.
 
 > दोहाशं सख्यं तव गौरसि वीर गव्यते । अश्वो अश्वायते भव ॥
 
 > *dohāśaṃ sakhyaṃ tava gaur asi vīra gavyate | aśvo aśvāyate bhava ‖*
 
-(Ṛ. Saṃ. 6-[?]-[?], as read "೬-೪೫-೩೩" [?]; the first word is doubtful [?].) "For the sacrificer who wants a cow, Indra becomes a cow; for him who wants a horse, he is the horse, and helps him": thus described, one may expect to get wealth of cattle protected by the help of Indra and Vāyu.
+(Ṛ. Saṃ. 6-45-26.) "For the sacrificer who wants a cow, Indra becomes a cow; for him who wants a horse, he is the horse, and helps him": thus described, one may expect to get wealth of cattle protected by the help of Indra and Vāyu.
 
 ---
 
@@ -15656,7 +15656,7 @@ Here Vāyu and Indra are invited to drink Soma; and the places where Soma-drinki
 
 ***indravāyustavopasaṃhāraḥ*** *(Kannada heading: "ಇಂದ್ರವಾಯುಸ್ತವದ ಉಪಸಂಹಾರ" — "Conclusion of the praise of Indra and Vāyu").*
 
-In this Sūkta, Indra and Vāyu are together invoked to accept the offering of Soma-juice. In this context the matters of the carrying of Soma, the pressing of the juice, the placing of the juice, as prescribed in the Śāstra, in the proper vessels, and the offering as oblation have been described in due course. In making ready and offering the Soma-juice, three portions are made, called the *upāṃśugraha*, *antaryāmagraha* and *aindravāyavagraha*. The *upāṃśu*-pressing is the earlier part of the *mahābhiṣava*; with this the Soma-juice is placed in the *upāṃśugraha*. The juice pressed by the *adhvaryu*, the *pratiprasthātṛ* and the *unnetṛ* is poured into the *ādhavanīya* vessel; mixed with the water there, it is then poured through the *daśāpavitra* into the vessel called *pūtabhṛt*: this was explained before. In the present [Sūkta], the power and greatness of the *upāṃśugraha*, *antaryāmagraha* and *aindravāyavagraha* may be understood. In the sentence *adribhiḥ sutānām* of the first Ṛk [as printed: "೧-೧೩೫" [?]], the order in which the juice is pressed, by the rule *upāṃśusavana*, is shown; this order is described in seven parts. [The Taittirīya Saṃhitā 1-4-1 [as read, [?]], where their power and greatness are stated in the sentences of Tai. Saṃ. 6-4-4 to 6-4-6 [?], is to be understood here at length.]
+In this Sūkta, Indra and Vāyu are together invoked to accept the offering of Soma-juice. In this context the matters of the carrying of Soma, the pressing of the juice, the placing of the juice, as prescribed in the Śāstra, in the proper vessels, and the offering as oblation have been described in due course. In making ready and offering the Soma-juice, three portions are made, called the *upāṃśugraha*, *antaryāmagraha* and *aindravāyavagraha*. The *upāṃśu*-pressing is the earlier part of the *mahābhiṣava*; with this the Soma-juice is placed in the *upāṃśugraha*. The juice pressed by the *adhvaryu*, the *pratiprasthātṛ* and the *unnetṛ* is poured into the *ādhavanīya* vessel; mixed with the water there, it is then poured through the *daśāpavitra* into the vessel called *pūtabhṛt*: this was explained before. In the present [Sūkta], the power and greatness of the *upāṃśugraha*, *antaryāmagraha* and *aindravāyavagraha* may be understood. In the sentence *adribhiḥ sutānām* of the first Ṛk [Ṛ. Saṃ. 1-135], the order in which the juice is pressed, by the rule *upāṃśusavana*, is shown; this order is described in seven parts. [The Taittirīya Saṃhitā 1-4-1, where their power and greatness are stated in the sentences of Tai. Saṃ. 6-4-4 to 6-4-6, is to be understood here at length.]
 
 1. By the mantra *ā dade grāvāsy adhvarakṛt* (Tai. Saṃ. 1-4-1 [as read]) when the *grāvan* is taken the divine power enters the priest — this explanation is given in the Āraṇeya section at length.
 
@@ -15664,7 +15664,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *devasya tvā savituḥ prasava iti grāvāṇam ādatte prasūtyā aśvinor bāhubhyāṃ pūṣṇo hastābhyām ity āhāśvinau hi devānām adhvaryū āstāṃ pūṣṇo hastābhyām ity āha yatyai ‖*
 
-(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೧" [?]; the words *grāṇāvana* and *yatyai* are as printed [?].) The Aśvins were the *adhvaryus* of the gods; therefore, by the help of the arms of the Aśvins, and for support, by the help of Pūṣan, saying "at the impulse of Savitṛ", the *adhvaryu* takes the *grāvan* in his hand.
+(Tai. Saṃ. 6-4-4-1.) The Aśvins were the *adhvaryus* of the gods; therefore, by the help of the arms of the Aśvins, and for support, by the help of Pūṣan, saying "at the impulse of Savitṛ", the *adhvaryu* takes the *grāvan* in his hand.
 
 2. By the mantra *indrāya tvā* the Soma is sprinkled [as read: "is made wet"].
 
@@ -15672,7 +15672,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *paśavo vai somo vyāna upāṃśusavano yad upāṃśusavanam abhimimīte vyānam eva paśuṣu dadhāti indrāya tvendrāya tveti mimīta indrāya hi soma ā hriyate pañcakṛtvo yajuṣā mimīte pañcākṣarā paṅktiḥ pāṅkto yajño yajñam evāvarundhe pañcakṛtvas tūṣṇīṃ daśa saṃpadyante daśākṣarā virāḍ annaṃ virāḍ virājaivānnādyam avarundhe |*
 
-(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೨" [?]; read from the image; doubtful in details [?].) Soma is animal (*paśu*); the *upāṃśu* pressing is *vyāna* [the breath that pervades]. By beating and offering [Soma] he gives *vyāna* to the animals. As Soma is offered to Indra, he beats it five times with the mantra *indrāya tvā*; five-syllabled is the *paṅkti*; the sacrifice is *pāṅkta*; thus he obtains the sacrifice. Further, [he does] five times silently; in all, ten is the number; the *virāj* has ten syllables; *virāj* is food; with the *virāj* he gets food.
+(Tai. Saṃ. 6-4-4-1, 2.) Soma is animal (*paśu*); the *upāṃśu* pressing is *vyāna* [the breath that pervades]. By beating and offering [Soma] he gives *vyāna* to the animals. As Soma is offered to Indra, he beats it five times with the mantra *indrāya tvā*; five-syllabled is the *paṅkti*; the sacrifice is *pāṅkta*; thus he obtains the sacrifice. Further, [he does] five times silently; in all, ten is the number; the *virāj* has ten syllables; *virāj* is food; with the *virāj* he gets food.
 
 ### Printed p. 651  (PDF 672)
 
@@ -15686,7 +15686,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *śvātrāḥ stha vṛtratura ity āhaiṣa vā apāṃ somapītho ya evaṃ veda nāpsv ārtim ārcchati ‖*
 
-(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?].) This is the Soma-drinking of the waters; he who knows this does not meet with destruction in [water].
+This is the Soma-drinking of the waters; he who knows this does not meet with destruction in [water].
 
 4. By the mantra *yat te soma divi jyotiḥ* he mixes the Soma with water.
 
@@ -15694,7 +15694,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *yat te soma divi jyotir ity āhebhya evainaṃ lokebhyaḥ saṃ bharati |*
 
-(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?].) Reciting "*antarikṣasthena tava tejasā*" [as read, doubtful [?]] he sprinkles the Soma.
+(Tai. Saṃ. 6-4-4-2.) Reciting "*antarikṣasthena tava tejasā*" [as read] he sprinkles the Soma.
 
 5. By the mantra *dhiṣaṇe vīḍū satī* he touches the boards.
 
@@ -15704,7 +15704,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *somo vai rājā diśo 'bhyadhyāyat sa diśo 'nu prāviśat prāg apāg udag adharāktvety āha digbhya evainaṃ saṃbharaty atho diśa evāsmā ava rundhe 'mba niṣvarety āha kāmukā enaṃ striyo bhavanti ya evaṃ veda ‖*
 
-(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?]; doubtful in places [?].) "King Soma reflected on the directions and entered the directions": reciting "*prāg apāg udag adharāk tvā*" ["from east, west, north, south"], he [the adhvaryu] gets Soma from the directions; "*amba niṣvara*" ("Mother, come out") — by this mantra, women become desirous of him who knows this secret.
+(Tai. Saṃ. 6-4-4-3.) "King Soma reflected on the directions and entered the directions": reciting "*prāg apāg udag adharāk tvā*" ["from east, west, north, south"], he [the adhvaryu] gets Soma from the directions; "*amba niṣvara*" ("Mother, come out") — by this mantra, women become desirous of him who knows this secret.
 
 7. By the mantra *yat te somādābhyaṃ nāma jāgṛvi* the *pratiprasthātṛ* takes up the Soma-stalks.
 
@@ -15712,7 +15712,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *yat te somādābhyaṃ nāma jāgṛvīty āhaiṣa vai somasya somapatho ya evaṃ veda na saumyām ārtim ārcchati nārdhnoti ghnanti vā etat somaṃ yad abhiṣuṇvanti saṃ śūnasya gṛhṇāti trāyata evainaṃ prāṇā vā āṃśavaḥ paśavaḥ somaḥ |*
 
-(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೪" [?]; the last part is doubtful [?].)
+
 
 ---
 
@@ -15720,11 +15720,11 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 20 Sū. 135" [as read].)*
 
-*(Quotation 7 of p. 651, concluded; the end of the Sanskrit lines is poorly printed and I read it only in part [?]:)* …*śūnasya gṛhṇāti trāyata evainaṃ prāṇā vā aṃśavaḥ paśavaḥ somaḥ* … *kūśūnam api sṛjati prāṇān eva paśuṣu dadhāti dvidhā vyāvasi sṛjati tasmād dvau prāṇāḥ* [?]. (Tai. Saṃ. 6-4-1-[?] [?].)
+*(Quotation 7 of p. 651, concluded:)* …*śūnasya gṛhṇāti trāyata evainaṃ prāṇā vā aṃśavaḥ paśavaḥ somaḥ* … *kūśūnam api sṛjati prāṇān eva paśuṣu dadhāti dvidhā vyāvasi sṛjati tasmād dvau prāṇāḥ*.
 
 "*yat te somādābhyaṃ nāma jāgṛvi*" — by this mantra (which is free of delusion and of the nature of waking, and is of Soma) the *pratiprasthātṛ* takes the Soma-stalks, belonging to the Soma-king. He who knows this secret does not meet with ruin from Soma; if they press [the Soma], that is as if they kill it. He [the *pratiprasthātṛ*] places the Soma-stalks aside; therefore he protects it. The Soma-stalks are the breaths (*prāṇa*); Soma is the animals. By holding the stalks he gives breath to the animals. By taking the stalks in two ways, the principal breaths are in two forms.
 
-***upāṃśugrahasya mahimā*** *(Kannada heading "ಉಪಾಂಶುಗ್ರಹದ ಮಹಿಮೆ" — "The greatness of the *upāṃśugraha*").* After describing the nature of the *upāṃśu*-pressing as above, the greatness of the *upāṃśugraha* is praised (Tai. Saṃ. 6-4-[?], as read "೬-೪-೩" [?]); the rest of this is the sixth [section] of the Saṃhitā.
+***upāṃśugrahasya mahimā*** *(Kannada heading "ಉಪಾಂಶುಗ್ರಹದ ಮಹಿಮೆ" — "The greatness of the *upāṃśugraha*").* After describing the nature of the *upāṃśu*-pressing as above, the greatness of the *upāṃśugraha* is praised (Tai. Saṃ. 6-4-5); the rest of this is the sixth [section] of the Saṃhitā.
 
 1. By the mantra *vācaspataye pavasva vājin* the juice is poured into the vessel.
 
@@ -15732,7 +15732,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *prāṇo vā eṣa yad upāṃśur yad upāṃśugraho gṛhyate prāṇam evānu prayanti kṛṣṇa … | upāṃśupātreṇa savanaṃ vivāhaṃ yajñaṃ saṃsthāpayāmi tena tatra saṃsthitena carāmīty eṣṭaḥ kṛtvo 'gre abhipunīty aṣṭākṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ prātaḥsavanam eva tenāpnoty ekādaśakṛtvo dvitīyam ekādaśākṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ mādhyaṃdinam eva savanaṃ tenāpnoti dvādaśakṛtvas tṛtīyaṃ dvādaśākṣarā jagatī jāgataṃ tṛtīyasavanaṃ tṛtīyasavanam eva tenāpnoty etā vā ha vā sa yajñasya saṃsthitim uvācāskandāyāskannaṃ hi tad yajñasya saṃsthitasyāskandati ‖*
 
-(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೨" [?]; this small-type passage is read from the image and is badly doubtful in the opening and closing portions [?]; only the sense is reliable.) *Sense, from the Kannada:* The *upāṃśu* is the breath of the sacrifice. Taking up the *upāṃśugraha* follows the breath at the beginning. "At the morning pressing I accomplish the sacrifice": he pours it eight times; the *gāyatrī* has eight syllables; the morning pressing belongs to the *gāyatrī*; therefore he who pours eight times accomplishes the morning pressing. At the midday pressing he pours eleven times; the *triṣṭubh* has eleven syllables; the midday pressing belongs to the *triṣṭubh*. At the evening pressing he pours twelve times; the *jagatī* has twelve syllables; the evening pressing belongs to the *jagatī*. By this the third pressing is obtained. This is called the establishment of the sacrifice; by it, any damage that might arise is avoided.
+(Tai. Saṃ. 6-4-5-1, 2.) *Sense, from the Kannada:* The *upāṃśu* is the breath of the sacrifice. Taking up the *upāṃśugraha* follows the breath at the beginning. "At the morning pressing I accomplish the sacrifice": he pours it eight times; the *gāyatrī* has eight syllables; the morning pressing belongs to the *gāyatrī*; therefore he who pours eight times accomplishes the morning pressing. At the midday pressing he pours eleven times; the *triṣṭubh* has eleven syllables; the midday pressing belongs to the *triṣṭubh*. At the evening pressing he pours twelve times; the *jagatī* has twelve syllables; the evening pressing belongs to the *jagatī*. By this the third pressing is obtained. This is called the establishment of the sacrifice; by it, any damage that might arise is avoided.
 
 ### Printed p. 653  (PDF 674)
 
@@ -15742,13 +15742,13 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *atho khalv āhur gāyatrī vāva prātaḥsavane nātivādo 'tra rakṣaṃsi nainaṃ bhrātṛvyo bhavati ya evaṃ veda tasmād eṣṭavyeṣṭavyaḥ kṛtvo 'bhipunāty atha brahmavādino vadanti pavitravanto 'nye grahā gṛhyante kiṃ pavitra upāṃśur iti vākpavitra iti brūyād vācaspataye pavasva vājinn ity āha vācaivainaṃ pavayati ‖*
 
-(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೩, ೩" [?]; read from the image; several words doubtful [?].) At the morning pressing [the question is whether the *gāyatrī* is exceeded]; there is no excessive speech there. He who knows this has no enemy for himself. Therefore the rule is that [the cup] be taken [in this way] so many times; and when the *brahmavādins* ask: "the other cups are purified with the *pavitra* (the strainer of ten fringes); what is the strainer for the *upāṃśu*?", [the answer is], "speech is the purifier; he purifies it with speech: *vācaspataye pavasva vājin*." The mantra itself is the purifier.
+(Tai. Saṃ. 6-4-5-2, 3.) At the morning pressing [the question is whether the *gāyatrī* is exceeded]; there is no excessive speech there. He who knows this has no enemy for himself. Therefore the rule is that [the cup] be taken [in this way] so many times; and when the *brahmavādins* ask: "the other cups are purified with the *pavitra* (the strainer of ten fringes); what is the strainer for the *upāṃśu*?", [the answer is], "speech is the purifier; he purifies it with speech: *vācaspataye pavasva vājin*." The mantra itself is the purifier.
 
 > वृष्णो अꣳशुभ्यामित्याह वृष्णो ह्येतावꣳशू यौ सोमस्य गभस्तिपूत इत्याह गभस्तिना ह्येनं पवयति देवो देवानां पवित्रमसीत्याह देवो ह्येष सन्देवानां पवित्रं येषां भागोऽसि तेभ्यस्त्वेत्याह येभ्यो ह्येष भागस्तेभ्य एनं गृह्णाति ।
 
 > *vṛṣṇo aṃśubhyām ity āha vṛṣṇo hy etāv aṃśū yau somasya gabhastipūta ity āha gabhastinā hy enaṃ pavayati devo devānāṃ pavitram asīty āha devo hy eṣa san devānāṃ pavitraṃ yeṣāṃ bhāgo 'si tebhyas tvety āha yebhyo hy eṣa bhāgas tebhya enaṃ gṛhṇāti |*
 
-(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೩, ೪" [?].) By such sentences the self-purity of the Soma-stalk is explained.
+(Tai. Saṃ. 6-4-5-3, 4.) By such sentences the self-purity of the Soma-stalk is explained.
 
 2. By the mantra *svāṃ kṛto 'si* the vessel is rinsed and purified.
 
@@ -15756,7 +15756,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *svāṃkṛto 'sīty āha prāṇam eva svam akṛta madhumatīr na iṣas kṛdhīty āha sarvam evāsmā idaṃ svadayati viśvebhyas tvendriyebhyo divyebhyaḥ pārthivebhya ity āhobhayeṣv eva devamanuṣyeṣu prāṇān dadhāti ‖*
 
-(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೪" [?].) Saying "*you are made our own*" he makes the breath his own; praying "make our food sweet" he makes all this sweet for him; saying "for all your powers, heavenly and earthly" he places breaths among both gods and men.
+(Tai. Saṃ. 6-4-5-4.) Saying "*you are made our own*" he makes the breath his own; praying "make our food sweet" he makes all this sweet for him; saying "for all your powers, heavenly and earthly" he places breaths among both gods and men.
 
 3. By mantras such as *manas tvāṣṭūrvantarikṣam anviha svāhā*, the adhvaryu goes to the *āhavanīya* fire and offers the juice in the vessel to the fire.
 
@@ -15770,19 +15770,19 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *manas tvāṣṭv ity āha mana evāpnoty uru antarikṣam anvihīty āhāntarikṣadevatyo hi prāṇaḥ svāhā tvā subhavaḥ sūryāyety āha prāṇā vai subhavaso devās teṣv eva parokṣaṃ juhoti devebhyas tvā marīcipebhya ity āhādityasya vai raśmayo devā marīcipās teṣāṃ tad bhāgadheyaṃ tān eva kena prīṇāti |*
 
-(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?]; read from the image, doubtful in places [?].) *Kannada sense:* "May the mind pervade you" — saying this, he gains the mind himself. Since the breath belongs to the *antarikṣa*-deity, he says "go along the *antarikṣa*". "You, well-born, offered to Sūrya" — by this a *homa* is made indirectly [*parokṣa*]. Saying "*prāṇebhyaḥ svāhā*" he leaves the *prāṇa*s — the breaths — since the deities seated in the body are themselves directly [*pratyakṣa*] the objects of the *homa*; so he makes the *homa* to Sūrya, indirectly: "*sūryāya tvā*". Then the rays of the Sun are the breaths; those conscious rays, satisfied, protect the unconscious *marīci*s.
+(Tai. Saṃ. 6-4-5-5.) *Kannada sense:* "May the mind pervade you" — saying this, he gains the mind himself. Since the breath belongs to the *antarikṣa*-deity, he says "go along the *antarikṣa*". "You, well-born, offered to Sūrya" — by this a *homa* is made indirectly [*parokṣa*]. Saying "*prāṇebhyaḥ svāhā*" he leaves the *prāṇa*s — the breaths — since the deities seated in the body are themselves directly [*pratyakṣa*] the objects of the *homa*; so he makes the *homa* to Sūrya, indirectly: "*sūryāya tvā*". Then the rays of the Sun are the breaths; those conscious rays, satisfied, protect the unconscious *marīci*s.
 
 > यदि कामयेत वर्षुकः पर्जन्यः स्यादिति नीचा हस्तेन नि मृज्याद्वृष्टिमेव नि यच्छति यदि कामयेतावर्षुकः स्यादित्युत्ताानेन नि मृज्याद्वृष्टिमेवोद्यच्छति ।
 
 > *yadi kāmayeta varṣukaḥ parjanyaḥ syād iti nīcā hastena ni mṛjyād vṛṣṭim eva ni yacchati yadi kāmayetāvarṣukaḥ syād ity uttānena ni mṛjyād vṛṣṭim evod yacchati |*
 
-(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?].) If the sacrificer desires that Parjanya may rain, with the hand downward he wipes the vessel [i.e. holds it face down]; then rain falls. If he desires that it should not rain, with the hand upward he wipes it; then there is no rain.
+(Tai. Saṃ. 6-4-5-5.) If the sacrificer desires that Parjanya may rain, with the hand downward he wipes the vessel [i.e. holds it face down]; then rain falls. If he desires that it should not rain, with the hand upward he wipes it; then there is no rain.
 
 > यद्यभिचरेदमुं जहि त्वा होष्यामीति ब्रूयादाहुतिमेवैनं प्रेप्सन्तं हन्ति यदि दूरे स्यादा तमितोऽस्तीत्येव प्राणमेवास्यानुगत्क पन्ति ।
 
 > *yady abhicaredam umaṃ jahi tvā hoṣyāmīti brūyād āhutim evainaṃ prepsantaṃ hanti yadi dūre syād ā tam ito 'stīty eva prāṇam evāsyānugatka panti |*
 
-(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?]; this sentence is read with doubt in several words [?].) If a [rite of] *abhicāra* is performed, [the sacrificer] says "kill so-and-so, [and] I will offer to you"; then the deity, desirous of the *āhuti*, harms that enemy.
+(Tai. Saṃ. 6-4-5-5.) If a [rite of] *abhicāra* is performed, [the sacrificer] says "kill so-and-so, [and] I will offer to you"; then the deity, desirous of the *āhuti*, harms that enemy.
 
 4. By the mantra *eṣa te yoniḥ prāṇāya tvā* the remainder is poured into the *agrayaṇa* vessel, and a stalk is put into the empty vessel.
 
@@ -15806,7 +15806,7 @@ In this Sūkta, Indra and Vāyu are together invoked to accept the offering of S
 
 > *brahmavādino vadanti kasmāt satyāt trayaḥ paśūnāṃ hastādānāḥ iti yat trir upāṃśugrahaṃ hastena vi gṛhṇāti tasmāt trayaḥ paśūnāṃ hastādānāḥ puruṣo hastī markaṭaḥ |*
 
-(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೬" [?]; read from the image, doubtful in the first words [?].) "Why do three kinds of animals take with the hand?" — so the *brahmavādins* ask; the answer: "Because the *upāṃśugraha* is taken with the hand three times, [so too] man, the elephant and the monkey take [everything] with their hands" (the cow, the buffalo and the like take with the mouth).
+(Tai. Saṃ. 6-4-5-7.) "Why do three kinds of animals take with the hand?" — so the *brahmavādins* ask; the answer: "Because the *upāṃśugraha* is taken with the hand three times, [so too] man, the elephant and the monkey take [everything] with their hands" (the cow, the buffalo and the like take with the mouth).
 
 The *upāṃśugraha*'s use is summed up by Sāyaṇa in verses:
 
@@ -15823,13 +15823,13 @@ The *upāṃśugraha*'s use is summed up by Sāyaṇa in verses:
 
 ***antaryāmagrahasya mahimā*** *(Kannada heading "ಅಂತರ್ಯಾಮಗ್ರಹದ ಮಹಿಮೆಯು" — "The greatness of the *antaryāmagraha*").*
 
-By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryāmagraha* also is to be carried out in the same way as the *upāṃśugraha*: this was told before. The description of this vessel is given in the sixth Kāṇḍa (Tai. Saṃ. 6-4-[?], as read "೬-೪-೬" [?]).
+By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryāmagraha* also is to be carried out in the same way as the *upāṃśugraha*: this was told before. The description of this vessel is given in the sixth Kāṇḍa (Tai. Saṃ. 6-4-6).
 
 > देवा वै यद्यज्ञेऽकुर्वत तदसुरा अकुर्वत ते देवा उपांशौ यज्ञꣳ संस्थाप्यमपश्यन्नुपांशौ समस्थापयन्तेऽसुरा वज्रमुद्यत्य देवान्भ्यायन्त ते देवा बिभ्यत इन्द्रमुपाधावन्नान्तरेन्द्रो ऽन्तर्यामेणान्तरधत्त तदन्तर्यामस्यान्तर्यामत्वं यदन्तर्यामो गृह्यते भ्रातृव्यानेव तद्यजमानोऽन्तर्धत्ते ॥
 
 > *devā vai yad yajñe 'kurvata tad asurā akurvata te devā upāṃśau yajñaṃ saṃsthāpyam apaśyan upāṃśau samasthāpayan te 'surā vajram udyatya devān abhyāyanta te devā bibhyata indram upādhāvann āntarendro 'ntaryāmeṇāntar adhatta tad antaryāmasyāntaryāmatvaṃ yad antaryāmo gṛhyate bhrātṛvyān eva tad yajamāno 'ntardhatte ‖*
 
-(Tai. Saṃ. 6-4-6-1 [as read]; read from the image, doubtful in a few words [?].) *Kannada sense:* Whatever the gods did in the sacrifice, the Asuras did also; the gods saw that the sacrifice could be established in the *upāṃśu* [cup] and established it so, and then the Asuras, taking up the thunderbolt, advanced against the gods. The gods, afraid, approached Indra [who] with the *antaryāma* put them [the Asuras] in between [?]. Hence *antaryāma* is so called: when the *antaryāmagraha* is taken the sacrificer shuts out the enemies.
+(Tai. Saṃ. 6-4-6-1 [as read].) *Kannada sense:* Whatever the gods did in the sacrifice, the Asuras did also; the gods saw that the sacrifice could be established in the *upāṃśu* [cup] and established it so, and then the Asuras, taking up the thunderbolt, advanced against the gods. The gods, afraid, approached Indra [who] with the *antaryāma* stopped them [the Asuras]. Hence *antaryāma* is so called: when the *antaryāmagraha* is taken the sacrificer shuts out the enemies.
 
 ---
 
@@ -15849,7 +15849,7 @@ By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryām
 
 > *te devā amanyantendro vā idam abhūd yad vayaṃ sma iti te 'bruvan maghavann anno na ā bhajeti sajoṣā devair avaraiḥ paraiś cety abravīd ye caiva devāḥ pare ye cāvare tān ubhayān nābhajaty ajoṣā devair avaraiḥ paraiś cety āha ye caiva devāḥ pare ye cāvare tān ubhayān nābhajati ‖*
 
-(Tai. Saṃ. 6-4-6-3; read from the image; doubtful in several words [?].) *Kannada sense:* The gods thought, "Indra has become what we were", and they asked, "O Maghavan, give us also a share in your sovereignty." "Let me be united with the lower and with the higher gods": he gave a share to both.
+(Tai. Saṃ. 6-4-6-3.) *Kannada sense:* The gods thought, "Indra has become what we were", and they asked, "O Maghavan, give us also a share in your sovereignty." "Let me be united with the lower and with the higher gods": he gave a share to both.
 
 > अन्तर्यामो मघवन्मादयस्वेत्याह यज्ञो देवं यजमानं नान्तरेति ।
 
@@ -15861,7 +15861,7 @@ By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryām
 
 > *prāṇāpānau vā etau yad upāṃśv antaryāmau vyāna upāṃśusavano yaṃ kāmayeta pramāyukaḥ syād iti saṃspṛṣṭau tasya sādayed vyānenaivāsya prāṇāpānau vicchinatti tājak pra mīyate yaṃ kāmayeta sarvam āyur iyād iti saṃspṛṣṭau tasya sādayed vyānenaivāsya prāṇāpānau saṃ tanoti sarvam āyur eti ‖*
 
-(Tai. Saṃ. 6-4-6-4; read from the image [?].) The *upāṃśugraha* is *prāṇa*; the *antaryāma* is *apāna*; the *upāṃśu*-pressing is *vyāna*. If the sacrificer desires that someone should die early, he places the two [cups] separately, so that the *prāṇa* and *apāna* are not connected with each other; he then at once breaks the breaths with *vyāna*, and the man dies; and if he desires that someone should live his full length of life, he places the two together; by *vyāna* the *prāṇa* and *apāna* are joined, and he lives long. This is the greatness of the *upāṃśu*-pressing, the *upāṃśugraha* and the *antaryāmagraha* taken together.
+(Tai. Saṃ. 6-4-6-4.) The *upāṃśugraha* is *prāṇa*; the *antaryāma* is *apāna*; the *upāṃśu*-pressing is *vyāna*. If the sacrificer desires that someone should die early, he places the two [cups] separately, so that the *prāṇa* and *apāna* are not connected with each other; he then at once breaks the breaths with *vyāna*, and the man dies; and if he desires that someone should live his full length of life, he places the two together; by *vyāna* the *prāṇa* and *apāna* are joined, and he lives long. This is the greatness of the *upāṃśu*-pressing, the *upāṃśugraha* and the *antaryāmagraha* taken together.
 
 ### Printed p. 657  (PDF 678)
 
@@ -15869,7 +15869,7 @@ By the mantra *upayāmagṛhīto 'si*, after the rise of the Sun, the *antaryām
 
 ***aindravāyavagrahaḥ*** *(Kannada heading "ಐಂದ್ರವಾಯವಗ್ರಹವು" — "The *aindravāyavagraha*").*
 
-By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*lohaka-pātra*) with juice, below the *indravāyava*-graha [?]. The greatness of this *graha* is told in this way:
+By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*lohaka-pātra*) with juice, holding the *indravāyava*-graha below the strainer-vessel. The greatness of this *graha* is told in this way:
 
 > वाग्वा एषा यदैन्द्रवायवो यदैन्द्रवायवाग्राः ग्रहा गृह्यन्ते वाचमेवानु प्रयन्ति ।
 
@@ -15887,13 +15887,13 @@ By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*l
 
 > *so 'pūyat taṃ devā nopādhṛṣṇuvan so 'bravīd varaṃ vṛṇai mad-devatyaiva vaḥ pātrāṇy ucyantā iti tasmān nā devatyāni santi vāyavyāni ucyante tam ebhyo vāyur evāsvadayat tasmād yaḥ pūyati tatra vāte vi ṣajanti vāyur hi tasya pavayitā svadayitā |*
 
-(Tai. Saṃ. 6-4-2-[?], as read "೬-೪-೭-೧, ೨" [?]; read from the image, doubtful in places [?].) As soon as Soma was killed, Vāyu became foul-smelling. The gods could not bear his companionship, and said, "Make Soma agreeable [?] to us." Vāyu asked a boon: "Let all your vessels be made for me [as deity]." They agreed. At once the Soma-juice became tasty; therefore when any [food] is spoiled it is the Vāyu that purifies it and makes it taste good.
+(Tai. Saṃ. 6-4-7-1, 2.) As soon as Soma was killed, Vāyu became foul-smelling. The gods could not bear his companionship, and said, "Make Soma tasty to us." Vāyu asked a boon: "Let all your vessels be made for me [as deity]." They agreed. At once the Soma-juice became tasty; therefore when any [food] is spoiled it is the Vāyu that purifies it and makes it taste good.
 
 > तस्य विग्रहणं नाविन्दन्ताः दितिरब्रवीदिन्द्रं वृणा अथ मया वि गृह्णीध्वं मद्देवत्या एव वः सोमाः सन्ना आसन्नित्युपयामगृहीतोऽसीत्याहादितिदेवत्येन यानि हि दारुमयाणि पात्राण्यस्यै तानि योनेः संभूतानि यानि मृन्मयानि साक्षादेव तान्यस्यै तस्मादेवमाह ।
 
 > *tasya vigrahaṇaṃ nāvindan tāḥ ditir abravīd indraṃ vṛṇā atha mayā vi gṛhṇīdhvaṃ mad-devatyā eva vaḥ somāḥ sannā āsann ity upayāmagṛhīto 'sīty āhāditidevatyena yāni hi dārumayāṇi pātrāṇy asyai tāni yoneḥ saṃbhūtāni yāni mṛnmayāni sākṣād eva tāny asyai tasmād evam āha |*
 
-(Tai. Saṃ. 6-4-2-[?]-[?], as read "೬-೪-೭-೩-೩" [?]; doubtful in the opening words [?].) *Kannada sense:* They could not find a way to take [Soma] apart from [Vāyu]; Aditi said "choose Indra [as well]; take [the cups] through me, for your Somas are seated as mine"; with "*upayāmagṛhīto 'si*", [the mantra] is addressed to Aditi as deity; for the wooden vessels are born from her womb, and those of clay are directly hers: therefore it is so said.
+(Tai. Saṃ. 6-4-7-2, 3.) *Kannada sense:* They could not find a way to take [Soma] apart from [Vāyu]; Aditi said "choose Indra [as well]; take [the cups] through me, for your Somas are seated as mine"; with "*upayāmagṛhīto 'si*", [the mantra] is addressed to Aditi as deity; for the wooden vessels are born from her womb, and those of clay are directly hers: therefore it is so said.
 
 ---
 
@@ -15907,7 +15907,7 @@ By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*l
 
 > *vāg vai parācy avyākṛtāvadat te devā indram abruvann imāṃ no vācaṃ vyākurv iti so 'bravīd varaṃ vṛṇai mahyaṃ caiṣa vāyave ca saha gṛhyātā iti tasmād aindravāyavaḥ saha gṛhyate tām indro madhyato 'vakramya vyākarot tasmād iyaṃ vyākṛtā vāg udyate |*
 
-(Tai. Saṃ. 6-4-7-3; read from the image [?].) *Kannada sense:* Speech, formerly, was undivided into words and the like, like the sound of the ocean. The gods went to Indra and begged him to divide it [into words] fit for use. Then Indra asked a boon: "this *graha* must be taken for me and for Vāyu together" [hence the name *aindravāyava*]; when the gods agreed, Indra entered the middle of speech and made the division of words and so on, convenient for use.
+(Tai. Saṃ. 6-4-7-3.) *Kannada sense:* Speech, formerly, was undivided into words and the like, like the sound of the ocean. The gods went to Indra and begged him to divide it [into words] fit for use. Then Indra asked a boon: "this *graha* must be taken for me and for Vāyu together" [hence the name *aindravāyava*]; when the gods agreed, Indra entered the middle of speech and made the division of words and so on, convenient for use.
 
 > तस्मात्सकृदिन्द्राय मध्यतो गृह्यते द्विर्वायवे द्वौ हि स वराववृणीत ।
 
@@ -15921,7 +15921,7 @@ By the mantra *ā vāyo bhūṣa śucipāḥ*, the adhvaryu fills the vessel (*l
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
 
-*(Grammar, continued.)* *upatiṣṭhanta* — root *ṣṭhā gatinivṛttau*; *upād devapūjā…* (Pā. Sū. 1-3-25 [as read]) gives the Ātmanepada, etc.; by Vedic usage *laṅ*; third person plural; by Vedic usage the *āgama* does not occur; since it is connected with *yat*, the *nighāta* does not occur; as the *lasārvadhātuka* is *anudātta* by the sūtra, the accent of the root remains; *tiṅ codāttavati* (Pā. Sū. 8-1-71 [as read]) gives the *gati* (*upa*) the *nighāta* [accent]. *jāyavaḥ* — root *ji jaye*; *kṛvāpājimisvadisādhyaśūbhya uṇ* (U. Sū. 1-21 [as read]) gives *uṇ*; because of it, *vṛddhi* [*guṇa*] of the final *i* of the root; *āy*-substitution; the suffix's accent. *asme* — *supāṃ sulug…* (Pā. Sū. 7-1-39 [as read]) gives *śe* for the case-ending. *suvate* — root *ṣūṅ prasave* [as read: *ṣūṅ prāṇigarbhavimocane*]; *adādi*; *laṭ*, third person plural, the suffix *jha*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5 [as read]) gives *at*; *ādiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72 [as read]) gives *luk* of *śap*; *āti śnudhātubhruvāṃ…* [as read: *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* (Pā. Sū. 6-4-77 [as read])] gives *uvaṅ*; since it is *jit* [?], and by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, the accent of the root remains. *pacyate* — root *ḍupacaṣ pāke*; in the *karmakartṛ*, *karmavat karmaṇā tulyakriyaḥ* (Pā. Sū. 3-1-87 [as read]) gives *yak* [of the passive], the Ātmanepada, etc., because of the *karmavadbhāva*; since it follows a *tiṅanta* [?], there is no *nighāta*; as before, the root's accent remains. *yavaḥ* — the singular, as the purport concerns the genus. *dasyanti* — root *dasu upakṣaye*; *divādi*; *laṭ*, third person plural; *nighāta* after a *tiṅanta*. *dhenavaḥ* — root *dheṭ pāne*; *dhenuṭ icca* (U. Sū. 3-314, as read "೩-೩೩" [?]) gives the suffix *nu*; *i* is the final-replacement; since the suffix is the cause, *guṇa*; by the suffix accent, the final udātta. ‖ 8 ‖
+*(Grammar, continued.)* *upatiṣṭhanta* — root *ṣṭhā gatinivṛttau*; *upād devapūjā…* (Pā. Sū. 1-3-25 [as read]) gives the Ātmanepada, etc.; by Vedic usage *laṅ*; third person plural; by Vedic usage the *āgama* does not occur; since it is connected with *yat*, the *nighāta* does not occur; as the *lasārvadhātuka* is *anudātta* by the sūtra, the accent of the root remains; *tiṅ codāttavati* (Pā. Sū. 8-1-71 [as read]) gives the *gati* (*upa*) the *nighāta* [accent]. *jāyavaḥ* — root *ji jaye*; *kṛvāpājimisvadisādhyaśūbhya uṇ* (U. Sū. 1-21 [as read]) gives *uṇ*; because of it, *vṛddhi* [*guṇa*] of the final *i* of the root; *āy*-substitution; the suffix's accent. *asme* — *supāṃ sulug…* (Pā. Sū. 7-1-39 [as read]) gives *śe* for the case-ending. *suvate* — root *ṣūṅ prasave* [as read: *ṣūṅ prāṇigarbhavimocane*]; *adādi*; *laṭ*, third person plural, the suffix *jha*; *ātmanepadeṣv anataḥ* (Pā. Sū. 7-1-5 [as read]) gives *at*; *ādiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72 [as read]) gives *luk* of *śap*; *āti śnudhātubhruvāṃ…* [as read: *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* (Pā. Sū. 6-4-77 [as read])] gives *uvaṅ*; since it is *jit*, and by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, the accent of the root remains. *pacyate* — root *ḍupacaṣ pāke*; in the *karmakartṛ*, *karmavat karmaṇā tulyakriyaḥ* (Pā. Sū. 3-1-87 [as read]) gives *yak* [of the passive], the Ātmanepada, etc., because of the *karmavadbhāva*; since it follows a *tiṅanta* [?], there is no *nighāta*; as before, the root's accent remains. *yavaḥ* — the singular, as the purport concerns the genus. *dasyanti* — root *dasu upakṣaye*; *divādi*; *laṭ*, third person plural; *nighāta* after a *tiṅanta*. *dhenavaḥ* — root *dheṭ pāne*; *dhenuṭ icca* (U. Sū. 3-314) gives the suffix *nu*; *i* is the final-replacement; since the suffix is the cause, *guṇa*; by the suffix accent, the final udātta. ‖ 8 ‖
 
 ---
 
