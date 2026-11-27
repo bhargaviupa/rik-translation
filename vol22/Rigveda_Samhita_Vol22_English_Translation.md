@@ -15264,6 +15264,287 @@ These, Maruts, give pleasure to the zealous (worshipper) : these humble the stre
 
 These Maruts impel (जुनंति (*junaṃti*)) even a prosperous man (रध्रं चित् (*radhraṃ cit*)), and impel even a wandering, poor man (भृमिं चित् (*bhṛmiṃ cit*)). The Vasus, the dwelling-giving gods, as they may desire you (जुषंते (*juṣaṃte*)), O showerers of desires ….
 
+### Printed p. 361
+
+> धध्वं । नाशयत । अपि चास्मे अस्मभ्यं विश्वं बहुलं तोकं पुत्रं तनयं पौत्रं च धत्त । प्रयच्छत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss begun in the previous window: बाधध्वं (*bādhadhvaṃ*) means "destroy". He adds that the Maruts should also grant to us (अस्मे (*asme*) = अस्मभ्यं (*asmabhyaṃ*)) much (विश्वं (*viśvaṃ*) = बहुलं (*bahulaṃ*)) offspring: तोकं (*tokaṃ*) is a son, तनयं (*tanayaṃ*) a grandson; धत्त (*dhatta*) means प्रयच्छत (*prayacchata*), "give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमे मरुतः (*ime marutaḥ*)—these Maruts
+- रध्रं चित् (*radhraṃ cit*)—the man grown rich in wealth
+- जुनंति (*junaṃti*)—they impel
+- भृमिं चित् (*bhṛmiṃ cit*)—even the poor man they impel and give encouragement
+- वृषणः (*vṛṣaṇaḥ*)—O Maruts, showerers of desires
+- यथा (*yathā*)—in what manner
+- वसवः (*vasavaḥ*)—the gods who give dwelling
+- जुषंते (*juṣaṃte*)—desire your work, in that manner
+- तमांसि (*tamāṃsi*)—the darknesses
+- अप बाधध्वं (*apa bādhadhvaṃ*)—destroy
+- अस्मे (*asme*)—to us
+- विश्वं (*viśvaṃ*)—in abundance
+- तोकं (*tokaṃ*)—sons
+- तनयं (*tanayaṃ*)—grandsons
+- धत्त (*dhatta*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+In the way these Maruts impel the man grown rich in wealth, they impel the poor man too and rouse him. O Maruts, showerers of desires, as the gods who give dwelling desire your work, so destroy the darknesses. Give us sons and grandsons in abundance.
+
+##### English translation
+These, Maruts, encourage the prosperous man : they encourage the (poor) wanderer : they, as Vasus, are pleased (with you): showerers (of benefits), dissipate the darkness : grant us many sons and grandsons.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा वो॑ दा॒त्रान्म॑रुतो॒ निर॑राम॒ मा प॒श्चाद्द॑घ्न रथ्यो विभा॒गे ।  
+> आ नः॑ स्पा॒र्हे भ॑जतना वस॒व्ये॒३॒॑ यदीं॑ सुजा॒तं वृ॑षणो वो॒ अस्ति॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । वः । दात्रात् । मरुतः । निः । अराम । मा । पश्चात् । दघ्म । रथ्यः । विभागे ।  
+> आ । नः । स्पार्हे । भजतन । वसव्ये । यत् । ईं । सुजातं । वृषणः । वः । अस्ति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकं दात्राद्दानान्निरराम । वयं मा निर्गमाम । यूयमस्मान्सरित्यक्त्वान्येभ्यो धनं मा दत्तेत्यर्थः । हे रथ्यो रथवंतो
+> 46
+
+##### Gist of the bhāṣya
+
+"O Maruts, may we not depart (निरराम (*nirarāma*)) from your gift (दात्रात् (*dātrāt*))": that is, do not abandon us and give wealth to others. O Maruts, lords of chariots (रथ्यः (*rathyaḥ*))…
+
+### Printed p. 362
+
+> मरुतः विभागे युष्मदीयस्य धनस्य दाने पश्चान्मा दघ्न । दघ्नैतिर्गतिकर्मा । वयं पश्चाद्भागिनो मा भूम । यूयं प्रथममस्मभ्यमेव दत्तेति यावत् । स्पार्हे स्पृहणीये वसव्ये धनसमूहे यूयं नोऽस्माना भजतन । भागिनः कुरुत । हे वृषणो वर्षितारो मरुतः वो युष्माकं सुजातं शोभनजननं यद्वसव्यमस्ति तस्मिन्नस्मान्भागिनः कुरुतेति संबंधः । ईमिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+…do not leave us behind (दघ्न (*daghna*); दघ्न (*daghna*) is a root of motion) in the apportionment (विभागे (*vibhāge*)) of your wealth. May we not be latecomers to a share; give first to us. Make us partakers (भजतन (*bhajatana*)) in the desirable (स्पार्हे (*spārhe*)) mass of wealth (वसव्ये (*vasavye*)). O showering Maruts, whatever well-born (सुजातं (*sujātaṃ*), of good birth) wealth is yours, in that make us sharers. ईं (*īṃ*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- दात्रात् (*dātrāt*)—from the gift
+- मा निरराम (*mā nirarāma*)—may we not be left free of (excluded)
+- रथ्यः (*rathyaḥ*)—O Maruts, lords of chariots
+- विभागे (*vibhāge*)—in the receiving of your gift
+- पश्चात् मा दघ्म (*paścāt mā daghma*)—do not make us sharers of the last portion
+- स्पार्हे (*spārhe*)—greatly desired
+- वसव्ये (*vasavye*)—extensive; to the mass of wealth
+- नः (*naḥ*)—us
+- आ भजतन (*ā bhajatana*)—make us sharers
+- वृषणः (*vṛṣaṇaḥ*)—O Maruts, showerers of desires
+- वः (*vaḥ*)—belonging to you
+- सुजातं (*sujātaṃ*)—excellent, full of people
+- यत् अस्ति (*yat asti*)—whatever wealth of yours there is, in that make us sharers
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, never withhold your gift from us. O Maruts, lords of chariots, in receiving your gift do not make us sharers of the last portion. Make us sharers in the greatly desired, abundant mass of wealth. O Maruts, showerers of desires, make us sharers in whatever wealth of yours there is, belonging to you and full of excellent people.
+
+##### English translation
+Never, Maruts, may we be excluded from your bounty : let us not, lordsof chariots, be lost in its apportionment : make us sharers in that desirable opulence which, showerers (of benefits), is born of you.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यद्धनं॑त म॒न्युभि॒र्जना॑सः॒ शूरा॑ य॒ह्वेष्वोष॑धीषु वि॒क्षु ।  
+> अध॑ स्मा नो मरुतो रुद्रियासस्त्रा॒तारो॑ भूत॒ पृत॑नास्व॒र्यः ॥ २२ ॥
+
+### Printed p. 363
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यत् । हनंत । मन्युभिः । जनासः । शूराः । यह्वीषु । ओषधीषु । विक्षु ।  
+> अध । स्म । नः । मरुतः । रुद्रियासः । त्रातारः । भूत । पृतनासु । अर्यः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा शूरा विक्रांता जनासो जना यह्वीषु महतीष्वोषधीषु विक्षु प्रजासु च जेतव्यासु मन्युभिः कोपैरभिमान्यैर्वा सं हनंते संगच्छंते अध तदानीं हे रुद्रियासो रुद्रपुत्रा हे मरुतः यूयं पृतनासु युद्धेष्वर्योऽरेः शत्रोः सकाशान्नोऽस्माकं त्रातारो भूत । रक्षका भवत ॥
+
+##### Gist of the bhāṣya
+
+When (यत् (*yat*)) valiant men (शूराः (*śūrāḥ*), जनासः (*janāsaḥ*)) come together (सं हनंते (*saṃ hanaṃte*) = संगच्छंते (*saṃgacchaṃte*)) with wrath or pride (मन्युभिः (*manyubhiḥ*)) for the great (यह्वीषु (*yahvīṣu*)) plants (ओषधीषु (*oṣadhīṣu*)) and the peoples (विक्षु (*vikṣu*)) that are to be conquered, then, O Maruts, sons of Rudra (रुद्रियासः (*rudriyāsaḥ*)), be our protectors in battles (पृतनासु (*pṛtanāsu*)) from the enemy (अर्यः (*aryaḥ*) = *areḥ śatroḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रियासः (*rudriyāsaḥ*)—sons of Rudra
+- मरुतः (*marutaḥ*)—O Maruts
+- पृतनासु (*pṛtanāsu*)—in battles
+- यत् (*yat*)—when
+- शूराः (*śūrāḥ*)—valiant
+- जनासः (*janāsaḥ*)—men
+- यह्वीषु (*yahvīṣu*)—great
+- ओषधीषु (*oṣadhīṣu*)—among plants
+- विक्षु (*vikṣu*)—and among peoples, in order to conquer the wealth that is there
+- मन्युभिः (*manyubhiḥ*)—together with their wrath
+- सं हनंत (*saṃ hanaṃta*)—gather together
+- अध (*adha*)—at that time
+- अर्यः (*aryaḥ*)—from the enemy
+- नः (*naḥ*)—to us
+- त्रातारः (*trātāraḥ*)—as protectors
+- भूत (*bhūta*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, sons of Rudra, when in battles valiant men gather together with their wrath to conquer the great plants and the peoples, at that time protect us from the enemy.
+
+##### English translation
+When heroic men filled with wrath, assemble for(the sake of conquering) many plants and people, then Maruts, sons of Rudra, be our defenders in battles against our enemies.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरि॑ चक्र मरुतः॒ पित्र्या॑ण्यु॒क्थानि॒ या वः॑ श॒स्यंते॑ पु॒रा चि॑त् ।  
+> म॒रुद्भि॑रु॒ग्रः पृत॑नासु॒ साळ्हा॑ म॒रुद्भि॒रित्सनि॑ता॒ वाज॒मर्वा॑ ॥ २३ ॥
+
+### Printed p. 364
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरि । चक्र । मरुतः । पित्र्याणि । उक्थानि । या । वः । शस्यंते । पुरा । चित् ।  
+> मरुत्भिः । उग्रः । पृतनासु । साळ्हा । मरुत्भिः । इत् । सनिता । वाजं । अर्वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं भूरि भूरीणि बहूनि पित्र्याण्यस्मत्पितृसंबंधीनि धनदानादीनि कर्माणि चक्र । कृतवंतो भवत । पुरा चित् पूर्वकालेऽपि वो युष्माकमुक्थानि प्रशस्यानि यानि कर्माणि प्रशस्यंते प्रख्यायंते तानि चक्रेति संबंधः । उग्र ओजस्वी पृतनासु युद्धेषु मरुद्भिर्युष्माभिरेव हेतुभिः साळ्हा शत्रूणामभिभविता भवति । मरुद्भिरिन्मरुद्भिर्युष्माभिरेव हेतुभिरर्वा स्तोत्रैरभिगंता वाजमन्नं सनिता संभक्ता भवति । यद्वा । अर्वाश्वो वाजं युद्धं सनिता भवति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you have performed (चक्र (*cakra*)) many (भूरि (*bhūri*)) deeds, such as gifts of wealth, that concern (पित्र्याणि (*pitryāṇi*)) our fathers. Also in former times the praiseworthy (उक्थानि (*ukthāni*)) works of yours that are proclaimed (शस्यंते (*śasyaṃte*)) you have done. The mighty man (उग्रः (*ugraḥ*)) becomes the vanquisher (साळ्हा (*sāḷhā*)) of enemies in battles by you, the Maruts, as the cause. By the Maruts alone the worshipper who approaches (अर्वा (*arvā*)) with hymns becomes a sharer (सनिता (*sanitā*)) of food (वाजं (*vājaṃ*)). Or else: the horse (अर्वा (*arvā*)) becomes the winner of the contest (वाजं (*vājaṃ*) = battle).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- पुरा चित् (*purā cit*)—in former times too
+- वः (*vaḥ*)—your
+- या उक्थानि शस्यंते (*yā ukthāni śasyaṃte*)—those works which were praiseworthy
+- भूरि (*bhūri*)—abundant
+- पित्र्याणि (*pitryāṇi*)—favoured to our fathers and others: such works of giving and the like
+- चक्र (*cakra*)—you have accomplished
+- उग्रः (*ugraḥ*)—one of great strength
+- पृतनासु (*pṛtanāsu*)—in battles
+- मरुद्भिः (*marudbhiḥ*)—together with the Maruts
+- साळ्हा (*sāḷhā*)—becomes able to conquer enemies
+- अर्वा (*arvā*)—the worshipper who approaches with praises
+- मरुद्भिरित् (*marudbhirit*)—by the help of the Maruts alone
+- वाजं (*vājaṃ*)—of food
+- सनिता (*sanitā*)—becomes a sharer
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, those praiseworthy works, the gifts and the like beneficial to all our fathers, which you did in the past, are still praised now. Only with your help can the mighty man conquer enemies. Only the worshipper who approaches the Maruts with hymns becomes a sharer of food, by the help of the Maruts.
+
+##### English translation
+You have bestowed, Maruts, many (benefits) on our forefathers, which praiseworthy (benefits) have been celebrated in former times : by the (favour of the) Maruts the fierce (warrior) is victorious in combats : by the (favour of the) Maruts the worshipper ever obtains food.
+
+### Printed p. 365
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे वी॒रो म॑रुतः शु॒ष्म्य॑स्तु॒ जना॑नां॒ यो असु॑रो विध॒र्ता ।  
+> अ॒पो येन॑ सुक्षि॒तये॒ तरे॒माध॒ स्वमोको॑ अ॒भि वः॑ स्याम ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । वीरः । मरुतः । शुष्मी । अस्तु । जनानां । यः । असुरः । विधर्ता ।  
+> अपः । येन । सुक्षितये । तरेम । अध । स्वं । ओकः । अभि । वः । स्याम ॥ ४४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः अस्मे अस्माकं वीरः पुत्रः शुष्म्यस्तु । बलवान्भवतु । असुरः प्र-ज्ञावान्यो जनानां शत्रूणां विधर्ता विधारकः । येन पुत्रेण वयं सुक्षितये सुष्ठु निवासायाप अप्नुवतः शत्रूंस्तरेम हिंसेम । स पुत्रो बलवानस्त्विति पूर्वेणान्वयः । अथापि च वो युष्मदीया वयं स्वमोक आत्मीयं स्थानमभि स्याम । अतिस्याम ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, let our son (वीरः (*vīraḥ*)) be strong (शुष्म्यस्तु (*śuṣmyastu*) = बलवान्भवतु (*balavānbhavatu*)), wise (असुरः (*asuraḥ*) = प्रज्ञावान् (*prajñāvān*)), the one who holds apart (विधर्ता (*vidhartā*) = विधारकः (*vidhārakaḥ*)) hostile men (जनानां (*janānāṃ*) = शत्रूणां (*śatrūṇāṃ*)), by whom we may cross (तरेम (*tarema*) = हिंसेम (*hiṃsema*), "may we harm") the enemies who pervade (अपः (*apaḥ*) = अप्नुवतः (*apnuvataḥ*)) for the sake of good dwelling (सुक्षितये (*sukṣitaye*)). Let that son be strong: this is the connection with the first part. And then may we, yours, reach (अभि स्याम (*abhi syāma*) = अतिस्याम (*atisyāma*)) our own abode (स्वं ओकः (*svaṃ okaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- अस्मे (*asme*)—our
+- असुरः (*asuraḥ*)—wise
+- यः (*yaḥ*)—whichever son of ours
+- जनानां (*janānāṃ*)—to enemy men
+- विधर्ता (*vidhartā*)—is a restrainer
+- येन (*yena*)—by whose help
+- सुक्षितये (*sukṣitaye*)—for the gaining of a good home
+- अपः (*apaḥ*)—the pervading enemy
+- तरेम (*tarema*)—we may be able to harm; such a
+- वीरः (*vīraḥ*)—heroic son
+- शुष्मी (*śuṣmī*)—as one endowed with strength
+- अस्तु (*astu*)—let him be
+- अध (*adha*)—and
+- वः (*vaḥ*)—we who belong to you
+- स्वं ओकः (*svaṃ okaḥ*)—our own dwelling-houses
+- अभि स्याम (*abhi syāma*)—may we reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, let our heroic son be endowed with strength. Increase the strength of such a son of ours, the wise one who is a restrainer of enemy men, by whose help we can destroy the enemy and obtain a good home. May we, your worshippers, reach our own dwelling-houses.
+
+##### English translation
+May our male progeny, Maruts, be vigorous, one who is intelligent, the scatterer of (hostile) men, by whom we may cross the water (of enmity) to a secure dwelling : may we, your (servants), dwell in our own abode.
+
+### Printed p. 366
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्न॒ इंद्रो॒ वरु॑णो मि॒त्रो अ॒ग्निराप॒ ओष॑धीर्व॒निनो॑ जुषंत ।  
+> शर्म॑न्स्याम म॒रुता॑मु॒पस्थे॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । इंद्रः । वरुणः । मित्रः । अग्निः । आपः । ओषधीः । वनिनः । जुषंत ।  
+> शर्मन् । स्याम । मरुतां । उपस्थे । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वं व्याख्यातेयं । अप्स्वरार्थस्तु । इंद्रादयो देवा अस्मदीयं स्तोत्रं सेवंतां । मरुतामुपस्थाने वर्तमाना वयं सुखे स्याम । हे मरुतः यूयं सर्वदास्मानविनाशैः पालयत ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk has been explained before. As to the meaning of अप्स्वर (*apsvara*): let Indra and the other gods accept our hymn. Abiding in the proximity of the Maruts, may we be in happiness. O Maruts, protect us always with imperishable blessings (*avināśaiḥ*).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- तत् (*tat*)—this hymn
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—Agni
+- आपः (*āpaḥ*)—the water deities
+- ओषधीः (*oṣadhīḥ*)—the plants
+- वनिनः (*vaninaḥ*)—the trees
+- जुषंत (*juṣaṃta*)—let them accept
+- (वयं (*vayaṃ*)—we)
+- मरुतां (*marutāṃ*)—of the Maruts
+- उपस्थे (*upasthe*)—seated near
+- शर्मन् (*śarman*)—in a happy home
+- स्याम (*syāma*)—may we be
+- (O gods,) यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, Varuṇa, Mitra, Agni, the water deities, the plants and the trees accept this hymn of ours. May we, abiding near the Maruts, be in a happy home. O gods, always protect us with blessings.
+
+##### English translation
+May Indra, Varuna, Mitra, Agni, the waters, the plants, the trees, be pleased with us : may we recline in happiness upon the lap of the Maruts : and do you ever cherish us with blessings.
+
 ---
 
-**Progress note:** Done through printed p. 360. pp. 355-360 (batch API)
+**Progress note:** Done through printed p. 366. pp. 361-366 (batch API)
