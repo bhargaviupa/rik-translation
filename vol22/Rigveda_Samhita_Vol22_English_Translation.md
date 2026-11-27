@@ -10485,6 +10485,278 @@ Metre: 1. Jagatī. 2-7. Triṣṭubh ‖
 
 At dawn, the time of Uṣas, we, the praisers, invoke the god Agni. Likewise at dawn we invoke Indra. Likewise Mitra and Varuṇa, Mitra and Varuṇa being the presiding deities of day and night
 
+### Printed p. 235
+
+> देवौ प्रातर्वयं हवामहे । तथाश्विनौ देवानां भिषजौ प्रातर्वयं हवामहे । तथा प्रातर्भगं देवं पूषणं देवं ब्रह्मणस्पतिं मंत्राभिमानिनमेतत्संज्ञकं चाह्वयामः । तथा प्रातः सोममेतत्संज्ञकं देवमुतापि च रुद्रं देवं च हुवेम आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+The sentence continues from the previous page. The gods are Mitra and Varuṇa, who preside over day and night, and the two Aśvins, the physicians of the gods. We invoke them at dawn. We also invoke at dawn Bhaga, Pūṣan, and Brahmaṇaspati, the deity of the sacred formula (mantra), who is known by that name. Likewise we invoke Soma, so named, and Rudra, the god.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रातः (*prātaḥ*)—at this dawn time
+- अग्निं (*agniṃ*)—Agni
+- हवामहे (*havāmahe*)—we call
+- इंद्रं (*iṃdraṃ*)—we call Indra also
+- प्रातः (*prātaḥ*)—at dawn
+- मित्रावरुणा (*mitrāvaruṇā*)—we call Mitra and Varuṇa
+- अश्विना (*aśvinā*)—the Aśvin deities
+- प्रातः (*prātaḥ*)—we call at the morning time
+- भगं (*bhagaṃ*)—Bhaga also
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan also
+- ब्रह्मणस्पतिं (*brahmaṇaspatiṃ*)—we call Brahmaṇaspati also
+- प्रातः (*prātaḥ*)—at the morning time
+- सोमं (*somaṃ*)—the god Soma also
+- उत (*uta*)—and
+- रुद्रं (*rudraṃ*)—Rudra also
+- हुवेम (*huvema*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+At this dawn time we call Agni, Indra, Mitra and Varuṇa, and the Aśvin deities. In this very morning we also pray to and call Bhaga, the god Pūṣan, Brahmaṇaspati, the god Soma, and Rudra.
+
+##### English translation
+We invoke at dawn Agni : at dawn Indra : at dawn Mitra and Varuna : at dawn the Ashwins : at dawn Bhaga, Pushan, Brahmanaspathi : at dawn Soma and Rudra.
+
+##### विशेषविषयगळु (Special Topics)
+
+Although the word Bhaga and Ṛks praising the deity Bhaga occur here and there, the present sūkta (Ṛ. Saṃ. 7-41) is the only whole sūkta devoted to the deity Bhaga; other deities too are praised in this sūkta. The name of this Bhaga is recited about 60 times. The word Bhaga here means "giver, one who distributes". In this sense the word is used twenty times, generally as an epithet of the deity Savitṛ. In all these sūktas the word is conceived as "one who distributes wealth". When the generosity of Indra, Agni and other deities is praised, it is customary to compare them to Bhaga. The word Bhaga also means fortune, prosperity, wealth; in this sense too the word is used in about 20 places. In the second Ṛk of this sūkta the deity Bhaga is called the distributor, and men express the wish that they too may share in it. Elsewhere (Ṛ. Saṃ. 5-46-6) there is a prayer that he distribute immense wealth to his devotees.
+It is said that the goddess Uṣas is the sister of Bhaga (Ṛ. Saṃ. 1-123-5) and that the eye of Bhaga is adorned with rays (Ṛ. Saṃ. 3-34-14). Yāska (Ni. 12-13) has said that Bhaga is the lord of the morning time.
+
+### Printed p. 236
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒त॒र्जितं॒ भग॑मु॒ग्रं हु॑वेम व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता ।  
+> आ॒ध्रश्चि॒द्यं मन्य॑मानस्तु॒रश्चि॒द्राजा॑ चि॒द्यं भगं॑ भ॒क्षीत्याह॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातःजितं । भगं । उग्रं । हुवेम । वयं । पुत्रं । अदितेः । यः । विधर्ता ।  
+> आध्रः । चित् । यं । मन्यमानः । तुरः । चित् । राजा । चित् । यं । भगं । भक्षि । इति । आह ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो भगो देवो विधर्ता विश्वस्य जगतो धारको जितं जयशीलमुग्रमुद्गूर्णमदितेः पुत्रं भगं देवं प्रातःकाल एव वयं हुवेम । आह्वयामः । आध्रश्चिद्दरिद्रोऽपि स्तोता यं भगं देवं मन्यमानः स्तुवन् भगं भजनीयं धनं भक्षि भज विभज मह्यं देहीत्याह ब्रवीति । तुरश्चित् । तुरतिर्गतिकर्मा । प्राप्तधनोऽपि राजा चित् समर्थोऽपि जनो यं भगं देवं भजनीयं धनं मह्यं भक्षि देहीत्याह । तं भगं प्रातरेव वयं हुवेमेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Bhaga is the sustainer (विधर्ता (*vidhartā*)) of the whole world, victorious (जितं (*jitaṃ*)) and fierce (उग्रं (*ugraṃ*), "uplifted"), the son of Aditi. We invoke this god Bhaga at dawn itself. आध्रश्चित् (*ādhraścit*) means even a poor worshipper who, praising (मन्यमानः (*manyamānaḥ*)) a god, says "भक्षि (*bhakṣi*)", that is, "share out, give me the wealth to be shared (भगं (*bhagaṃ*))". तुरश्चित् (*turaścit*): तुरतिर्गतिकर्मा (*turatirgatikarmā*), the root tur denotes motion; here it means one who has obtained wealth. Even a king (राजा चित् (*rājā cit*)), a man of power, says to that god Bhaga, "give me the wealth to be shared". The construction is: that Bhaga we invoke at dawn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आध्रश्चित् (*ādhraścit*)—the worshipper who is poor
+- यं (*yaṃ*)—which Bhaga
+- मन्यमानः (*manyamānaḥ*)—praising
+- भगं (*bhagaṃ*)—the venerable wealth
+- भक्षि (*bhakṣi*)—give to me
+- इति (*iti*)—thus
+- आह (*āha*)—he begs
+- तुरश्चित् (*turaścit*)—the wealthy man also
+- राजा चित् (*rājā cit*)—even the lord
+- यं (*yaṃ*)—such a one as would beg of that very Bhaga
+- यः (*yaḥ*)—who
+- विधर्ता (*vidhartā*)—who is the sustainer of the whole world
+- प्रातर्जितं (*prātarjitaṃ*)—victorious at dawn
+- उग्रं (*ugraṃ*)—possessed of great strength
+- अदितेः (*aditeḥ*)—of Aditi
+- पुत्रं (*putraṃ*)—the son
+- भगं (*bhagaṃ*)—the god Bhaga
+- वयं (*vayaṃ*)—we
+- प्रातः (*prātaḥ*)—at this dawn
+- हुवेम (*huvema*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+Whether the worshipper is poor or a lord, in whatever condition, he prays to the venerable Bhaga alone, "Give me venerable wealth". We, at this dawn, pray to and call that god Bhaga to whom they so pray: who is the sustainer of the whole world, victorious, possessed of great strength, and the son of Aditi.
+
+##### English translation
+We invoke at dawn the victorious fierce Bhaga, the son of Aditi; who is the sustainer (of the world), to whom the poor man praising him applies
+
+### Printed p. 237
+
+saying, give (me wealth), to whom the opulent prince (addresses the same prayer).
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the Nirukta for this Ṛk—
+प्रातर्जितं भगमुग्रं ह्वयेम वयं पुत्रमदितेर्यो विधारयिता सर्वस्याधृक्षिद्यं मन्यमान आध्राश्चिद्दरिद्रस्तुरश्चित् । तुर इति यमनाम तरतेर्वा त्वरतेर्वा त्वरया तूर्णगतिर्यमो राजा चिद्यं भगं भक्षीत्याह ॥ (*prātarjitaṃ bhagamugraṃ hvayema vayaṃ putramaditeryo vidhārayitā sarvasyādhṛkṣidyaṃ manyamāna ādhrāściddaridrasturaścit | tura iti yamanāma taratervā tvaratervā tvarayā tūrṇagatiryamo rājā cidyaṃ bhagaṃ bhakṣītyāha ‖*)
+अंधो भग इत्याहुरनुो न दृश्यते । प्राशित्रमस्याक्षिणी निर्जघानेति च ब्राह्मणं । जनं भगो गच्छतीति वा विज्ञायते जनं गच्छत्यादित्य उदयेन ॥ (*aṃdho bhaga ityāhuranuo na dṛśyate | prāśitramasyākṣiṇī nirjaghāneti ca brāhmaṇaṃ | janaṃ bhago gacchatīti vā vijñāyate janaṃ gacchatyāditya udayena ‖*) (Ni. 12-14)
+We invoke at this dawn the deity named Bhaga, who is victorious in the morning, mighty, the son of Aditi, and who upholds and protects everything. Whether poor or rich, one should pray to this Bhaga, meditating on him, for the obtaining of wealth, saying "Give wealth". The word तुरः (*turaḥ*) and the word यम (*yama*) are words of the same meaning. This word तुरः (*turaḥ*) may be derived either from the root तरति (*tarati*), meaning "cross", or from the root त्वरति (*tvarati*), meaning "hasten". Yama is swift of movement. A king too begs this god Bhaga, "Give me venerable wealth".
+Some say that this Bhaga is blind (*aṃdhaḥ*): that is, this god is not seen by anyone (Bhaga in the sense of the Sun). Before the sun has risen this god is visible to no one. In this matter there is the Brāhmaṇa sentence प्राशित्रमस्याक्षिणी निर्जघान (*prāśitramasyākṣiṇī nirjaghāna*): one named Prāśitra destroyed the two eyes of this god; this too serves as an example. It is to be understood that this Bhaga (fortune, prosperity) goes to men; that is, Bhaga or Āditya, after rising, goes to the people by means of his rays. This is the intention of the etymology.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भग॒ प्रणे॑त॒र्भग॒ सत्य॑राधो॒ भगे॒मां धिय॒मुद॑वा॒ दद॑न्नः ।  
+> भग॒ प्रणो॑ जनय॒ गोभि॒रश्वै॒र्भग॒ प्र नृभि॑र्नृ॒वंतः॑ स्याम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भग । प्रनेतरिति प्रनेतः । भग । सत्यराधः । भग । इमां । धियं । उत् । अव ।  
+> ददत् । नः ।  
+> भग । प्र । नः । जनय । गोभिः । अश्वैः । भग । प्र । नृभिः । नृवंतः । स्याम ॥ ३ ॥
+
+### Printed p. 238
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भग देव त्वं प्रणेता प्रकर्षेण नेतासि । तादृश प्रणेतर्हे भग त्वं सत्यराधः सत्यधनोऽसि । तादृश सत्यराधो हे भग त्वं नोऽस्मभ्यं ददत् कामान्प्रयच्छन्निमामस्मदीयां धियं स्तुतिमुदव । उद्रक्ष । सफलयुक्तां कुरु । हे भग त्वं गोभिरश्वैश्च नोऽस्मान् प्र जनय । प्रोद्भूतान् कुरु । हे भग त्वत्प्रसादाद्वयं नृभिर्नेतृभिः पुत्रादिभिर्नृवंतो मनुष्यवंतः प्र स्याम । प्रभवेम ॥
+
+##### Gist of the bhāṣya
+
+O god Bhaga, you are the leader (प्रणेता (*praṇetā*)), one who leads forth. As such a leader, O Bhaga, you are the possessor of true wealth (सत्यराधः (*satyarādhaḥ*)). O Bhaga of true wealth, granting (ददत् (*dadat*)) us our desires, protect (उदव (*udava*), "guard up") this our praise (धियं (*dhiyaṃ*)) and make it fruitful. O Bhaga, cause us to be born forth (प्र जनय (*pra janaya*)) with cattle and horses, that is, make us prosperous. O Bhaga, by your grace may we be rich in men (नृवंतः (*nṛvaṃtaḥ*)), that is, rich in leaders (नृभिः (*nṛbhiḥ*)), such as sons, and may we prevail.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रनेतः (*pranetaḥ*)—O leader, the best guide
+- भग (*bhaga*)—O god Bhaga
+- (त्वं (*tvaṃ*)—you)
+- सत्यराधः (*satyarādhaḥ*)—you are possessed of wealth that is true in nature
+- भग (*bhaga*)—O god Bhaga
+- नः (*naḥ*)—to us
+- ददत् (*dadat*)—granting our desires
+- इमां धियं (*imāṃ dhiyaṃ*)—this praise of ours
+- उदव (*udava*)—make fruitful
+- भग (*bhaga*)—O god Bhaga
+- गोभिः (*gobhiḥ*)—with cattle
+- अश्वैः (*aśvaiḥ*)—and with horses
+- नः (*naḥ*)—us
+- प्र जनय (*pra janaya*)—make us born forth
+- भग (*bhaga*)—O Bhaga
+- नृभिः (*nṛbhiḥ*)—together with sons and others
+- नृवंतः (*nṛvaṃtaḥ*)—possessed of a retinue
+- प्र स्याम (*pra syāma*)—may we be of excellent standing
+
+##### भावार्थ (Bhāvārtha)
+
+O god Bhaga, best of guides, you are possessed of wealth that is true in nature. O Bhaga, granting us our desires, make this our praise fruitful. Make us abound in cattle and horses. Favour us so that we are filled with a retinue of sons and others.
+
+##### English translation
+Bhaga chief leader of rites, Bhaga faithful promiser of wealth, Bhaga granting (our wishes), fructify this ceremony, enrich us with cattle and horses : may we, Bhaga, be eminent with male decendants and followers.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तेदानीं॒ भग॑वंतः स्यामो॒त प्र॑पि॒त्व उ॒त मध्ये॒ अह्नां॑ ।  
+> उ॒तोदि॑ता मघव॒न्सूर्य॑स्य व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । इदानीं । भगवंतः । स्याम । उत । प्रपित्वे । उत । मध्ये । अह्नां ।  
+> उत । उत्इता । मघवन् । सूर्यस्य । वयं । देवानां । सुमतौ । स्याम ॥ ४ ॥
+
+### Printed p. 239
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चेदानीं वयं भगवंतः स्याम । हे भग भगेन त्वया स्वामिना युक्ता भवेम । यद्वा । भगवंतो धनवंतः स्याम । उतापि च प्रपित्वेऽह्नां प्राप्ते पूर्वाह्णे भगवंतः स्याम । उतापि चाह्नां दिवसानां मध्ये मध्याह्ने भगवंतः स्याम । उतापि च हे मघवन्धनवन्भग देव सूर्यस्य सर्वस्य प्रेरकस्य देवस्योदितोदितावुदये सति वयं त्वदनुग्रहाद्देवानामिंद्रादीनां सुमतावनुग्रहबुद्धौ स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+Now may we be blessed with Bhaga (भगवंतः (*bhagavaṃtaḥ*)): O Bhaga, may we be united with you as lord. Or else: may we be possessed of wealth. Also in the forenoon (प्रपित्वे (*prapitve*)), when the day has set in, may we be fortunate. Also in the middle of the days (*ahnāṃ madhye*), at midday, may we be fortunate. And, O Maghavan, O wealthy god Bhaga, at the rising (उदिता (*uditā*)) of the Sun, the impeller of all, may we by your favour be in the good will (सुमतौ (*sumatau*)), the gracious disposition, of the gods, Indra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इदानीं (*idānīṃ*)—now
+- (वयं (*vayaṃ*)—we)
+- भगवंतः (*bhagavaṃtaḥ*)—may we become worthy of the favour of the venerable god Bhaga.) Let us be possessed of wealth. **NOTE**
+- उत (*uta*)—and
+- प्रपित्वे (*prapitve*)—let us be fortunate in the forenoon
+- उत (*uta*)—and
+- अह्नां (*ahnāṃ*)—of the day
+- मध्ये (*madhye*)—may we be wealthy in the middle time
+- मघवन् (*maghavan*)—O Bhaga, the wealthy
+- सूर्यस्य (*sūryasya*)—of the Sun
+- उदिता (*uditā*)—at the time of rising
+- वयं (*vayaṃ*)—we
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- सुमतौ (*sumatau*)—in the gracious disposition
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+Throughout the day let us gain the favour of the god Bhaga. O god Bhaga, grant that we become wealthy both in the forenoon and at midday. At the time of sunrise, cause us to gain the favour of Indra and the other deities.
+
+##### English translation
+May we now have Bhaga (for our lord), whether in the forenoon or at mid-day, or at sun-rise : may we, Maghavan, enjoy the favour of the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भग॑ ए॒व भग॑वा अस्तु देवा॒स्तेन॑ व॒यं भग॑वंतः स्याम ।  
+> तं त्वा॑ भग॒ सर्व॒ इज्जो॑हवीति॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भगः । एव । भगवान् । अस्तु । देवाः । तेन । वयं । भगवंतः । स्याम ।  
+> तं । त्वा । भग । सर्वः । इत् । जोहवीति । सः । नः । भग । पुरएता । भव । इह ॥
+
+### Printed p. 240
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः भगो देव एव भगवान् धनवानस्तु । तेन भगेन देवेन धनेन वा वयं भगवंतः स्याम । धनवंतो भवेम । हे भग तं प्रसिद्धं त्वा त्वां सर्व इत्सर्व एव जनो जोहवीति । भृशं पुनःपुनराह्वयति । हे भग देव स त्वमिहास्मिन्यज्ञे नोऽस्माकं पुरएता पुरोगंता भव ॥
+
+##### Gist of the bhāṣya
+
+O gods, let the god Bhaga alone be possessed of wealth (भगवान् (*bhagavān*)). By that Bhaga, the god, or by wealth, may we be possessed of wealth. O Bhaga, you, that famous one, every single man calls (जोहवीति (*johavīti*)) again and again, intensely. O god Bhaga, may you in this sacrifice be our leader who goes before (पुरएता (*puraetā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- भग एव (*bhaga eva*)—the god Bhaga alone
+- भगवान् (*bhagavān*)—as possessor of wealth
+- अस्तु (*astu*)—let him be
+- तेन (*tena*)—by the favour of that Bhaga
+- वयं (*vayaṃ*)—we
+- भगवंतः (*bhagavaṃtaḥ*)—possessed of wealth
+- स्याम (*syāma*)—may we be
+- भग (*bhaga*)—O god Bhaga
+- तं (*taṃ*)—the famous
+- त्वा (*tvā*)—you
+- सर्व इत् (*sarva it*)—all people
+- जोहवीति (*johavīti*)—call again and again
+- भग (*bhaga*)—O god Bhaga
+- सः (*saḥ*)—such you
+- इह (*iha*)—in this sacrifice of ours
+- नः (*naḥ*)—our
+- पुरएता (*puraetā*)—as guide
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, let the god Bhaga alone be wealthy. By the favour of Bhaga may we too become wealthy. O god Bhaga, all people call you, the famous one, again and again. O god Bhaga, be our guide in this sacrifice of ours.
+
+##### English translation
+May Bhaga, gods, be the possessor of opulence, and through him, may we be possessed of wealth, every one verily repeatedly invokes you, Bhaga : Bhaga, be our proceder at this solemnity.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॑ध्व॒रायो॒षसो॑ नमंत दधि॒क्रावे॑व॒ शुच॑ये प॒दाय॑ ।  
+> अ॒र्वा॒ची॒नं व॑सु॒विदं॒ भगं॑ नो॒ रथ॑मि॒वाश्वा॑ वा॒जिन॒ आ व॑हंतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अध्वराय । उषसः । नमंत । दधिक्रावाऽइव । शुचये । पदाय ।  
+> अर्वाचीनं । वसुविदं । भगं । नः । रथम्ऽइव । अश्वाः । वाजिनः । आ । वहंतु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुचये शुद्धाय गमनयोग्याय पदाय स्थानाय । दधिक्रावेवाश्वो यथा । तथोषस उषोदेवता अध्वरायास्मदीयाय यागाय सं नमंत । संगच्छंतु ।
+
+##### Gist of the bhāṣya
+
+शुचये (*śucaye*) means for the pure place (पदाय (*padāya*)) fit to be gone to. As the horse Dadhikrā does, so may the Uṣas deities bow (नमंत (*namaṃta*)) together to our sacrifice (अध्वराय (*adhvarāya*)); that is, may they come together.
+
 ---
 
-**Progress note:** Done through printed p. 234. pp. 229-234 (batch API)
+**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
