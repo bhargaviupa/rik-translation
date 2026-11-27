@@ -29,3 +29,6 @@ Saṃhitā, Pada and Sāyaṇa-bhāṣya blocks are taken from the Wikisource re
 17. `batch.py audit 10`, `check_labels.py`, `check_inline.py`.
 18. Records: `vol10/STATUS.md`, `PUBLICATION_TODO.md`, `docs/LESSONS.md`; release gate items (D9, finishing checklist HANDBOOK §11).
 19. Not now: bhāṣya English, dictionary, tags, scan check.
+
+## Progress (Nov 27 2026)
+Done: A (set-up; Kannada book pp. 2–707), B items 5–7 for `[?]` (1,852 → 35), second-pass reading of pp. 2–211 and 300–309 (pages 212–299 and 310–707 only mark-only). Open: optional full page-by-page reading of pp. 212–299 and 310–707 (about 8k tokens per page, finds wrong numbers/names without a mark; `open.tsv` lists known unmarked conflicts), the 35 marks left (kept on purpose), remark clean-up and review PDF (D), QA reader (E).

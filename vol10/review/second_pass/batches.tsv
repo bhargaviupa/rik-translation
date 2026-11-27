@@ -12,3 +12,4 @@ batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date
 11	500	579	110	106	106	0	4	340k	(this commit)	2026-11-27	mark-only batch pp. 500-579: 151 of 155 settled, 4 kept; marks 757 -> 606
 12	580	619	90	88	88	0	2	292k	(this commit)	2026-11-27	mark-only batch pp. 580-619: 172 marks removed, 2 kept; marks 606 -> 434
 13	620	659	100	97	97	0	3	284k	(this commit)	2026-11-27	mark-only batch pp. 620-659: 191 marks removed, 3 kept; marks 434 -> 243
+14	660	707	92	89	89	0	3	260k	(this commit)	2026-11-27	mark-only batch pp. 660-707: 208 marks removed, 6 kept; marks 243 -> 35

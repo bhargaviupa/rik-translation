@@ -3,9 +3,9 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 570 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 300–368, 350–499, 500–579, 580–619, 620–659)
-- **Findings:** 949 — applied 855, kept/not applied 94 (English kept: misprints and doubts settled by rule; see part 5); edits ok 876, failed 0
-- **Reader tokens (batches so far):** 3289k; per page 5.8k
+- **Pages read:** 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 300–368, 350–499, 500–579, 580–619, 620–659, 660–707)
+- **Findings:** 1041 — applied 944, kept/not applied 97 (English kept: misprints and doubts settled by rule; see part 5); edits ok 965, failed 0
+- **Reader tokens (batches so far):** 3549k; per page 5.7k
 - **Last commit:** (this commit)
 
 ## 2. Batches
@@ -24,13 +24,14 @@
 | 11 | 500–579 | 110 | 106 | 106 / 0 | 4 | 340k | (this commit) | mark-only batch pp. 500-579: 151 of 155 settled, 4 kept; marks 757 -> 606 |
 | 12 | 580–619 | 90 | 88 | 88 / 0 | 2 | 292k | (this commit) | mark-only batch pp. 580-619: 172 marks removed, 2 kept; marks 606 -> 434 |
 | 13 | 620–659 | 100 | 97 | 97 / 0 | 3 | 284k | (this commit) | mark-only batch pp. 620-659: 191 marks removed, 3 kept; marks 434 -> 243 |
+| 14 | 660–707 | 92 | 89 | 89 / 0 | 3 | 260k | (this commit) | mark-only batch pp. 660-707: 208 marks removed, 6 kept; marks 243 -> 35 |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| Q1 | 352 | 0 | 352 |
-| Q2 | 212 | 77 | 289 |
-| S3 | 132 | 1 | 133 |
+| Q1 | 412 | 0 | 412 |
+| Q2 | 239 | 80 | 319 |
+| S3 | 134 | 1 | 135 |
 | S1 | 68 | 0 | 68 |
 | S2 | 31 | 3 | 34 |
 | S13 | 29 | 4 | 33 |
@@ -41,7 +42,7 @@
 | S15 | 2 | 0 | 2 |
 | S18 | 0 | 2 | 2 |
 
-By reader: R1 923, R3 18, R6 8
+By reader: R1 1015, R3 18, R6 8
 
 ## 4. Open items (not findings)
 - **other** (pages 307): running head Varga printed ವ. ೧೭ (neighbouring heads ವ. ೧೩); applied as printed (Varga 17)
@@ -65,11 +66,14 @@ By reader: R1 923, R3 18, R6 8
 - **other** (pages 608): unmarked neighbour: English "jayi ca (Pā. Sū. 6-1-203 [as read])" but Kannada p.608 prints ಪಾ ೬-೧-೨೧೨ (p.612 ೬-೧-೨೧೩); left
 - **other** (pages 623): unmarked: Sense remark cites the pūrvapeyam quotation as (Ṛ. Saṃ. 8-1-1 [as read]); Kannada p.623/625 prints ಋ. ೭-೯೨-೧; not edited (no mark)
 - **other** (pages 650): unmarked: "of the first Ṛk" (adribhiḥ sutānām, Ṛ. Saṃ. 1-135); Kannada p.650 says ೫ ನೇ ಋಕ್ಕು (fifth Ṛk); not edited (no mark)
+- **other** (pages 663): Kannada prints Ṛ. Saṃ. ೧೦-೯೧೭-೨ for yaḥ parasyāḥ parāvataḥ (impossible sūkta number); applied as printed (q55)
+- **other** (pages 668): Ṛ. Saṃ. printed 4-57-2 in the English after kṣetrasya patinā vayam; the Kannada p.668 prints ೪-೫೭-೧ (unmarked, not edited)
+- **other** (pages 678): Kannada prints Tai. Saṃ. ೬-೨೯೭-೨ ರಿಂದ ೮ for the Uttaravedi passage (impossible number, probably 6-2-9-2 to 8); applied as printed (q101)
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 94 Kannada misprints where the English is kept (`kn_misprints.tsv`); 35 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 94 Kannada misprints where the English is kept (`kn_misprints.tsv`); 38 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol10/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
