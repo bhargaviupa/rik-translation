@@ -13070,6 +13070,152 @@ May the brilliant Agni counteract that poison which is generated in the manifold
 > यच्छ॑ल्म॒लौ भव॑ति॒ यन्न॒दीषु॒ यदोष॑धीभ्यः॒ परि॒ जाय॑ते  ॒
 > विषं ।
 
+### Printed p. 301
+
+> विश्वे देवा निरितस्तत्सुवंतु मा मां पद्येन रपसा विदत्सरुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । शल्मलौ । भवति । यत् । नदीषु । यत् । ओषधीभ्यः । परि । जायते । विषं ।  
+> विश्वे । देवाः । निः । इतः । तत् । सुवंतु । मा । मां । पद्येन । रपसा । विदत् ।  
+> सरुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्विषं शल्मलावेतत्संज्ञके वृक्षे भवति । यद्विषं नदीषु तत्रस्थास्वप्सु प्रादुर्भवति । परीति संचम्यर्थानुवादी । ओषधीभ्यः सकाशाद्विषं जायते उत्पद्यते च । विश्वे सर्वे देवास्तद्विषमितोऽस्माज्जनाद्देशाद्वा निः सुवंतु । निःशेषेण प्रेरयंतु । मा मामिति शिष्टं व्याख्यातं ॥
+
+##### Gist of the bhāṣya
+
+The poison that arises in the tree called Śalmali, and the poison that appears in the rivers, that is, in the waters that stand in them, are named. The word परि (*pari*) is an equivalent of the fifth case ("from"), restating its sense: the poison also arises from plants. May all the gods drive that poison out from this person or this place; may they send it out completely. The rest, "let it not (find) me", has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—the poison that
+- शल्मलौ (*śalmalau*)—in the tree called Śalmali
+- भवति (*bhavati*)—is produced
+- यत् (*yat*)—the poison that
+- नदीषु परि (*nadīṣu pari*)—is produced from the rivers also
+- यत् विषं (*yat viṣaṃ*)—the poison that
+- ओषधीभ्यः (*oṣadhībhyaḥ*)—from the plants also
+- जायते (*jāyate*)—is produced
+- तत् (*tat*)—that poison
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- इतः (*itaḥ*)—from us
+- निः सुवंतु (*niḥ suvaṃtu*)—let them drive away and destroy
+- सरुः (*saruḥ*)—the tortuous snake
+- पद्येन (*padyena*)—of the movement of my foot
+- रपसा (*rapasā*)—by the sound
+- मां (*māṃ*)—my presence
+- मा विदत् (*mā vidat*)—let it not know
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods drive away and destroy from us the poison that is produced in the tree called Śalmali, and the poison that is produced from the rivers. May the tortuous snake not know me by the sound of my foot's movement.
+
+##### English translation
+The poison that is in the Shalmali tree, in rivers, or which is generated from plants, may the universal gods remove from hence : let not the tortuous (snake) recognize me by the sound of my footsteps.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याः प्र॒वतो॑ नि॒वत॑ उ॒द्वत॑ उद॒न्वती॑रनुद॒काश्च॒ याः ।
+
+### Printed p. 302
+
+> ता अस्मभ्यं पयसा पिन्वमानाः शिवा देवीरशिपदा भवंतु स-र्वा नद्यो अशिमिदा भवंतु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । प्रवतः । निवतः । उद्वतः । उदन्वतीः । अनुदकाः । च । याः ।  
+> ताः । अस्मभ्यं । पयसा । पिन्वमानाः । शिवाः । देवीः । अशिपदाः । भवंतु । सर्वाः ।  
+> नद्यः । अशिमिदाः । भवंतु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या नद्यः प्रवतः प्रवणदेशे गच्छंत्यः । या निवतो निम्नदेशे गच्छंत्यः । या उद्वत उन्नतदेशे गच्छंत्यः । या उदन्वतीरुदन्वत्य उदकयुक्ताः । अनुदकाश्चोदकरहिताश्च या नद्यो यंति । पयसोदकेन पिन्वमाना विश्वमाप्याययंत्यो देवीर्देव्यो द्योतमानास्तास्तादृश्यो नद्योऽस्मभ्यमशिपदाः । शिपदं नाम रोगविशेषः । तदकुर्वत्यः सत्यः शिवाः कल्याण्यो भवंतु । अपि च सर्वास्ता नद्योऽशिमिदाः । शिमिर्वधकर्मा । अंहिंसाप्रदा भवंतु ॥
+
+##### Gist of the bhāṣya
+
+The rivers that go through sloping country, those that go through low country, those that go through high country, those that are full of water (उदन्वतीः (*udanvatīḥ*)) and those without water: all rivers that flow, swelling with their water and refreshing the whole world, shining as divine ones, may they be auspicious, that is, beneficent, to us, not causing शिपदं (*śipadaṃ*), which is a particular disease. Moreover, may all those rivers be अशिमिदाः (*aśimidāḥ*): शिमि (*śimi*) is a word for killing, so they are to be givers of freedom from harm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः (*yāḥ*)—the rivers that
+- प्रवतः (*pravataḥ*)—flow in sloping regions
+- निवतः (*nivataḥ*)—the rivers that flow in low regions
+- उद्वतः (*udvataḥ*)—those that flow in high regions
+- उदन्वतीः (*udanvatīḥ*)—those that are full of water
+- अनुदकाश्च (*anudakāśca*)—those that are without water
+- याः (*yāḥ*)—the rivers that
+- पयसा (*payasā*)—with water
+- पिन्वमानाः (*pinvamānāḥ*)—filling all regions
+- देवीः (*devīḥ*)—are shining
+- ताः (*tāḥ*)—all those rivers
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- अशिपदाः (*aśipadāḥ*)—not causing disease
+- शिवाः (*śivāḥ*)—and bringing blessing
+- भवंतु (*bhavaṃtu*)—let them be
+- सर्वाः नद्यः (*sarvāḥ nadyaḥ*)—all those rivers
+- अशिमिदाः (*aśimidāḥ*)—free from harm
+- भवंतु (*bhavaṃtu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+May the rivers that flow in sloping regions, those that flow in low regions, those that flow in high regions, those that are full of water, those that are without water, and those that fill all regions with water and shine, may all those rivers not cause us disease and may they be bringers of welfare. May all those rivers be free from harm to us.
+
+### Printed p. 303
+
+##### English translation
+May the divine rivers, whether flowing down declivities, in hollow places or upwards, whether filled with water, or dry, nourishing all with their water be auspicious to us communicating not disease : may all the rivers be unproductive of harm.
+
+## Sūkta 51 (Maṇḍala 7)
+**Introduction**
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta and the next, the deities called Ādityas are praised. "Ādityas" means the sons of Aditi. But it is necessary here to examine who these deities are, what their nature is, and the like. First we shall explain the derivation of the word āditya and afterwards take up the matter of the deities called Ādityas. The meaning "Āditya, the sun, son of Aditi" is well known. Yet on the question how the sun came by this name, Yāska has given the explanation as follows:
+आदित्यः कस्मादादत्ते रसानादत्ते भासं ज्योतिषामादीप्तो भासेति वादितेः पुत्र इति वा ॥ (*ādityaḥ kasmādādatte rasānādatte bhāsaṃ jyotiṣāmādīpto bhāseti vāditeḥ putra iti vā ‖*) (Ni. 2-13)
+Who is Āditya? —
+(1) आदत्त इति आदित्यः (*ādatta iti ādityaḥ*). The word means one who receives, seizes or draws to himself. What does he seize? रसान् (*rasān*)—he draws the waters to himself by his rays. The water so drawn produces rain in the form of clouds. Therefore, because he draws water from the sea and other reservoirs by his rays, the sun is named Āditya.
+(2) Or आदत्ते भासं ज्योतिषां (*ādatte bhāsaṃ jyotiṣāṃ*). When the sun rises, the sun's brightness dims the brightness of all other things (the moon and the rest) and draws that brightness to itself; hence the name Āditya.
+(3) Or आदीप्तो भासेति वा (*ādīpto bhāseti vā*). Because he shines, covering all places or all around (by his rays), he is named Āditya.
+(4) Or अदितेः पुत्र इति वा (*aditeḥ putra iti vā*). Because he is the son of the divine mother Aditi, the sun is named Āditya: this is the main sense of the explanation.
+
+### Printed p. 304
+Since the word āditya is a synonym of the sun, any of these meanings may be given. But since in the sūktas at hand the plural of the word āditya is used (आदित्यानां (*ādityānāṃ*) and the like), here the word applies not only to the sun but also to other deities. The author of the Nirukta himself says on this point:
+एवमन्यासामपि देवतानामादित्यप्रवादाः स्तुतयो भवंति । तद्यथैतन्मित्रस्य वरुणस्यार्यम्णो दक्षस्य भगस्यांशस्येति ॥ (*evamanyāsāmapi devatānāmādityapravādāḥ stutayo bhavaṃti | tadyathaitanmitrasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti ‖*) (Ni. 2-13)
+Praises addressed to the Ādityas apply also to the deities Mitra, Varuṇa, Aryamā, Dakṣa, Bhaga and Aṃśa. That is, these deities are called Ādityas (because they are sons of Aditi). Having said this, he gives as an example:
+इमा गिर आदित्येभ्यो घृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि । शृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥ (*imā gira ādityebhyo ghṛtasnūḥ sanādrājabhyo juhvā juhomi | śṛṇotu mitro aryamā bhago nastuvijāto varuṇo dakṣo aṃśaḥ ‖*) (Ṛ. Saṃ. 2-27-1)
+This Ṛk is given. In this Ṛk it is explained that Mitra, Aryamā, Bhaga, Dhātā, Varuṇa, Dakṣa and Aṃśa are the Ādityas, and that they are six in number. Besides this:
+अथापि मित्रावरुणयोः । आदित्या दानुनस्पती (*athāpi mitrāvaruṇayoḥ | ādityā dānunaspatī*) (Ni. 2-13)
+Mitra and Varuṇa also are reckoned as Ādityas. For example:
+सम्राजा घृतासुती आदित्या दानुनस्पती । सचेते अनवह्वरं ॥ (*samrājā ghṛtāsutī ādityā dānunaspatī | sacete anavahvaraṃ ‖*) (Ṛ. Saṃ. 2-41-6)
+In this Ṛk Mitra and Varuṇa are called Ādityas. Besides this:
+प्र स मित्र मर्तो अस्तु प्रयस्वान्यस्त आदित्य शिक्षति व्रतेन । न हन्यते न जीयते त्वोतो नैनमंहो अश्नोत्यंतितो न दूरात् ॥ (*pra sa mitra marto astu prayasvānyasta āditya śikṣati vratena | na hanyate na jīyate tvoto nainamaṃho aśnotyaṃtito na dūrāt ‖*) (Ṛ. Saṃ. 3-59-2)
+In this Ṛk, where Mitra alone is praised, he too is addressed as Āditya.
+अथापि वरुणस्यैषः । अथा वयमादित्य व्रते तव । व्रतमिति कर्मनाम । वृणोतीति सतः ॥ (*athāpi varuṇasyaiṣaḥ | athā vayamāditya vrate tava | vratamiti karmanāma | vṛṇotīti sataḥ ‖*) (Ni. 2-13)
+Even where a single deity, Varuṇa, is praised in a mantra, just as Mitra was indicated, Varuṇa too is called Āditya in that context:
+उदुत्तमं वरुण पाशमस्मदवाधमं वि मध्यमं श्रथाय । अथा वयमादित्य व्रते तवानागसो अदितये स्याम ॥ (*uduttamaṃ varuṇa pāśamasmadavādhamaṃ vi madhyamaṃ śrathāya | athā vayamāditya vrate tavānāgaso aditaye syāma ‖*) (Ṛ. Saṃ. 1-24-15)
+In this Ṛk Varuṇa is indicated as Āditya.
+
+### Printed p. 305
+Next, it is necessary to discuss closely the question of the number of the deities called Ādityas. In the Ṛk quoted above as an example, इमा गिर आदित्येभ्यः (*imā gira ādityebhyaḥ*) (Ṛ. Saṃ. 2-27-1), there are the names of six deities: Mitra, Aryamā, Bhaga, Varuṇa, Dakṣa and Aṃśa, and it is said there that these are the Ādityas. But for the word तुविजातः (*tuvijātaḥ*) the author of the Nirukta gives the meaning बहुजन्मा धाता (*bahujanmā dhātā*). Thus:
+तुवीति बहुनाम । सर्वविधातृत्वाद्बहुजन्मा धाता यावदधिकारं जन्मेति । (*tuvīti bahunāma | sarvavidhātṛtvādbahujanmā dhātā yāvadadhikāraṃ janmeti |*).
+The word तुवि (*tuvi*) means "much, many"; जन्म (*janma*) means "authority". तुविजात (*tuvijāta*) means Dhātā, the ordainer of all, the controller of all, who has authorities of many kinds. Since the word is explained thus, in this Ṛk seven should be counted as Ādityas, Dhātā being included. And in the mantra सप्त दिशो नाना सूर्याः (*sapta diśo nānā sūryāḥ*) the number of the Ādityas is given as seven. But in this Ṛk (Ṛ. Saṃ. 9-114-3) there is no mention of names; it says only देवा आदित्या ये सप्त (*devā ādityā ye sapta*). Earlier, when the matter of Aditi was being explained, the Ṛks Ṛ. Saṃ. 10-72-8, 9 were cited, and it was explained that Aditi had eight sons, that she offered seven of them to the gods, and that the eighth, Mārtāṇḍa, she kept for herself and nourished. Here too the others are not named, apart from Mārtāṇḍa. In Atharvaveda 8-9. 21 and in Ṛ. Saṃ. 10-72-8 it is stated that Aditi has eight sons. In explaining the purport of Ṛ. Saṃ. 2-27-1, Sāyaṇa, in order to state the number of the Ādityas, cites the mantra of the Taittirīya Āraṇyaka of the Yajurveda, अष्टौ पुत्रासो अदितेः । ...... । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अग्ंशश्च भगश्च । इंद्रश्च विवस्वाग्ंश्चेत्येते (*aṣṭau putrāso aditeḥ | ...... | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agṃśaśca bhagaśca | iṃdraśca vivasvāgṃścetyete*) (Tai. Ā. 1-13-3), and there he names the eight sons of Aditi: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān.
+In places such as उदगादयमादित्यः (*udagādayamādityaḥ*) (Ṛ. Saṃ. 1-50-12) and उदपप्तदसौ सूर्यः (*udapaptadasau sūryaḥ*) (Ṛ. Saṃ. 1-191-9), the identity of Sūrya and Āditya is stated. Agni, the son of Aditi, is established by the gods in the atmosphere in the form of the sun; Agni shines on earth as terrestrial fire, in the atmosphere as lightning, and in heaven as the sun. In such descriptions the name Sūrya or Āditya applies to Agni also. On the origin of the Ādityas the Taittirīya Brāhmaṇa speaks as follows:
+अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै धाता चार्यमा चाजायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या अग्ंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विवस्वाग्ंश्चाजायेतां ॥ (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyai dhātā cāryamā cājāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyā agṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivasvāgṃścājāyetāṃ ‖*)
+
+### Printed p. 306
+(Tai. Brā. 1-1-9-1, 2, 3)
+Aditi, desiring children, cooked a Brahmaudana oblation for the gods and the Sādhyas and offered it to them. They ate the oblation and gave her the remainder. When she ate it, by its power two sons, Dhātā and Aryamā, were born to Aditi (as twins). When the same procedure was followed a second time, Mitra and Varuṇa were born; the third time, Aṃśa and Bhaga; the fourth time, the two sons Indra and Vivasvān. The Taittirīya Brāhmaṇa describes these as the Ādityas. On this same matter the Śatapatha Brāhmaṇa has this account:
+स मनसा एव वाचं मिथुनं समभवत्स द्वादशगर्भ्योऽभवत् । ते द्वादश आदित्या असृज्यंत तान् दिक्षूपादधत् ॥ (*sa manasā eva vācaṃ mithunaṃ samabhavatsa dvādaśagarbhyo 'bhavat | te dvādaśa ādityā asṛjyaṃta tān dikṣūpādadhat ‖*) (Śa. Brā. 6-1-2-8)
+Prajāpati entered into a mental union with Speech. Then he conceived a germ of twelve substances. Its fruit was the coming forth of the twelve Ādityas. Then he made them guardians of the quarters and placed them there, it says. In the same way, other Vedic texts that speak of the Ādityas may be examined.
+कतम आदित्या इति । द्वादश वै मासाः संवत्सरस्यैत आदित्या एते हीदं सर्वमाददाना यंति ते यदिदं सर्वमाददाना यंति तस्मादादित्या इति ॥ (*katama ādityā iti | dvādaśa vai māsāḥ saṃvatsarasyaita ādityā ete hīdaṃ sarvamādadānā yaṃti te yadidaṃ sarvamādadānā yaṃti tasmādādityā iti ‖*) (Śa. Brā. 11-6-3-8)
+How many Ādityas are there? The Ādityas are twelve. There are twelve months in a year; these are the Ādityas. Because those months go on taking hold of everything, they are called Ādityas, it says. The story concerning these same Ādityas is told in the Taittirīya Brāhmaṇa as follows:
+आदित्याश्चांगिरसश्च सुवर्गे लोके स्पर्धंत । तेंगिरस आदित्येभ्यः । अमुमादित्यमश्वग्ं श्वेतं भूतं पक्षिणामनयत् । तेऽब्रुवन् । यन्नो वेष्ट्य । सवर्यो भूदिति । तस्मादश्वग्ं सवर्येत्याह्वयंति । तस्माद्यज्ञे वरो दीयते । यत्प्रजापतिरालब्धोऽश्वोऽभवत् । तस्मादश्वो नाम । यच्छ्वेतोऽरुरासीत् । तस्मादर्वा नाम । यत्सद्यो वाजन्समजयत् । तस्माद्वाजी नाम । यदसुराणां लोकानादत्त । तस्मादादित्यो नाम ॥ (*ādityāścāṃgirasaśca suvarge loke spardhaṃta | teṃgirasa ādityebhyaḥ | amumādityamaśvagṃ śvetaṃ bhūtaṃ pakṣiṇāmanayat | te 'bruvan | yanno veṣṭya | savaryo bhūditi | tasmādaśvagṃ savaryetyāhvayaṃti | tasmādyajñe varo dīyate | yatprajāpatirālabdho 'śvo 'bhavat | tasmādaśvo nāma | yacchveto 'rurāsīt | tasmādarvā nāma | yatsadyo vājansamajayat | tasmādvājī nāma | yadasurāṇāṃ lokānādatta | tasmādādityo nāma ‖*) (Tai. Brā. 3-9-21-1, 2)
+Formerly, in heaven, the Ādityas and the Aṅgirases competed with each other. The Aṅgirases offered to the Ādityas, as the sacrificial fee, the Āditya who had the form of a white horse. Then the Ādityas said to the Aṅgirases: the one that you have brought
+
 ---
 
-**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
+**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
