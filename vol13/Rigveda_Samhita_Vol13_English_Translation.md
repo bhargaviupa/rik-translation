@@ -6436,6 +6436,167 @@ In such Ṛks it is explained as a means of destruction endowed with strength; t
 
 The word दस्म (*dasma*) has two meanings: one, destroyer of enemies; the other, one of beautiful form. If it is formed from the root हसि दर्शनवंशनयोः (*hasi darśanavaṃśanayoḥ*), it means दर्शनीयः (*darśanīyaḥ*), the delightful one; if formed from the root वसु-उपक्षये (*vasu-upakṣaye*), it means the destroyer of enemies, and
 
+### Printed p. 265
+The Kannada text begins in the middle of an explanation of the word दस्म (*dasma*), which is understood in these two senses. Since both kinds of power are found in Indra and the other deities, the commentator shows that either of the two meanings may be said of the word दस्म (*dasma*). For example:
+
+त्वं भगो न आ हि रत्नमिषे परिज्जीव क्षयसि दस्मवर्चाः । (*tvaṃ bhago na ā hi ratnamiṣe parijjīva kṣayasi dasmavarcāḥ |*) (Ṛ. Saṃ. 6-13-2)
+
+पूषा सुबंधुर्दिव आ पृथिव्या इळस्पतिर्मघवा दस्मवर्चाः । (*pūṣā subaṃdhurdiva ā pṛthivyā iḷaspatirmaghavā dasmavarcāḥ |*) (Ṛ. Saṃ. 6-58-4).
+
+In Ṛks such as these, the commentator shows that the word is understood first as शत्रुपक्षयणबलः (*śatrupakṣayaṇabalaḥ*), one who has the power to destroy enemies, and second, as वर्च इति रूपनाम । दस्मं दर्शनीयं वर्चः यस्य तादृशः (*varca iti rūpanāma | dasmaṃ darśanīyaṃ varcaḥ yasya tādṛśaḥ*), one who has a charming form. The word दस्मवर्चाः (*dasmavarcāḥ*) occurs in many places in the Ṛksaṃhitā as an epithet of Indra and others; so in the present Ṛk too, as an epithet of Indra, it describes his power of destroying enemies and his lovely form.
+
+सुग्मः (*sugmaḥ*)—he is explained as one who is reached easily by the sacrificers; रथेष्ठः (*ratheṣṭhaḥ*)—one who travels in the chariot itself.
+
+नासत्येव (*nāsatyeva*)—नासत्याविव अश्विनाविव तौ हि द्यावापृथिव्यात्मानौ (*nāsatyāviva aśvināviva tau hi dyāvāpṛthivyātmānau*). The authors of the Nirukta, quoting the Ṛk
+
+ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि संति देवाः । ता अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिं ॥ (*te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi saṃti devāḥ | tā adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhiṃ ‖*) (Ṛ. Saṃ. 7-39-4)
+
+explain their view on the meaning of the word नासत्य (*nāsatya*) as नासत्यौ सत्यावेव नासत्यावित्यौर्णनाभः, सत्यस्य प्रणेतारावित्याग्रायणः, नासिकाप्रभवौ बभूवतुरिति वा (*nāsatyau satyāveva nāsatyāvityaurṇanābhaḥ, satyasya praṇetārāvityāgrāyaṇaḥ, nāsikāprabhavau babhūvaturiti vā*), that is, the Nāsatyas are the Aśvins. The view of the teacher Aurṇavābha is described: the Aśvin deities are famed as Nāsatyas because they always speak only truth. The teacher Āgrāyaṇa accepts the very etymology सत्यावेव नासत्यौ (*satyāveva nāsatyau*), takes the word सत्य (*satya*) to mean water or sacrifice, and explains that the Aśvin deities are those who carry out the sacrifice. A further explanation is also given, as stated in the Bṛhaddevatā: Sūrya took the form of a horse in order to recognise Saṃjñā-devī, who was in the form of a mare; when he looked at her, the Aśvin deities were born from the region of her nostrils.
+
+Sāyaṇa here gives नासत्याविव (*nāsatyāviva*), "like the Nāsatya Aśvin deities", as the comparison. The Aśvin deities तौ हि द्यावापृथिव्यात्मानौ (*tau hi dyāvāpṛthivyātmānau*), being of the form of heaven and earth,
+
+### Printed p. 266
+he explains that they are worthy of being reached with ease and travel by chariot; Indra too, like them, is easy to approach and stands in a chariot. Then he describes the sacrificers' prayer: may he, अस्मृतं स्तोत्रादिकर्म सेवतां (*asmṛtaṃ stotrādikarma sevatāṃ*), take delight in the sacrificial acts, such as hymns of praise, which we the sacrificers perform.
+
+##### Grammar
+
+- ता — तानि इति रूपे शेत्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेर्लोपः ।
+- कर्म — डुकृञ् करणे इति धातुः । छंदसिलुज् लज्लिटः (पा. सू ३-४-६) इत्यनेन वर्तमानार्थे लुज् भवति । उत्तमपुरुषबहुवचने मस् प्रत्ययः । नित्यं जातः इति सकारलोपः । मंत्रेघसह्यर—(पा. सू. २-४-८०) इति च्लेर्लुक् । छंदस्युभयथा (पा. सू. ३-४-११७) इति प्रत्ययस्यार्धधातुकसंज्ञायां जित्त्वं न भवति । सार्वधातुकार्धधातुकयोः इति धातोरिको गुणः । रपरत्वं भवति । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+- चौत्नानि — च्युज् च्युतौ इति धातुः । जनिदाच्यु—(उ. पू. ४-५४४) इति त्क्षण् प्रत्ययः । णित्त्वादचोञ्णति इत्युकारस्य वृद्धिः । प्रत्ययस्वरेणांतोदात्तो भवति । **NOTE**
+- देवयंतः — देवान् आत्मन इच्छंति इति सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् । अस्मात् लटि शत्रादेशः । प्रथमाबहुवचनांतरूपम् ।
+- भरंते — भृञ् भरणे इति धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- जुषोशत् — जुषी प्रीतिसेवनयोः इति धातुः । लोटि व्यत्ययेन शप् । छांदसत्वेन धातोर्द्वित्वम् । अथवा बहुलं छंदसि इति शपः श्ल्वादेशः । ततो व्यत्ययेन शप् । बहुलं छंदसीति वक्तव्यम् इति वचनान्नाभ्यस्तस्याजिपिति सार्वधातुके (पा. सू. ७-३-८७) इत्यनेन प्राप्तो गुणनिषेधो नात्र भवति । पादादित्वान्निघातस्वरो न भवति । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इत्याद्युदात्तस्वरो भवति ।
+- दस्मवर्चाः — दस्म वर्चः यस्य सः दस्मवर्चाः । बहुव्रीहौ प्रकृत्यापूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+- सुग्मः — सुष्टु गंतव्यः सुग्म्यः । गम्‌ल्य गतौ इति धातुः । घज्‌र्थे क विधानम् इति वचनात् क प्रत्ययः । कित्त्वाद् गमहनजन—(पा. सू. ६-४-९८) इत्युपधा
+
+### Printed p. 267
+- लोपः । सुग्मे भवं सुग्र्यम् । भवे छंडसि (पा सू. ४-४-११०) इति यत् प्रत्ययः । यतोनामः (पा. सू. ६-१-२३) इत्याद्युदात्तस्वरो भवति ।
+- रथेस्थाः — रथे तिष्ठतीति रथेस्थाः । कृदुत्तरपदप्रकृतिस्वरो भवति । तत्परुषे कृति बहुलम् (पा. सू. ६-३-१९) इति सप्तम्या अलुक् ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ ष्टु॒हींद्रं॒ यो ह॒ सत्वा॒ यः शूरो॑ म॒घवा॒ यो र॑थे॒ष्ठाः ।  
+> प्र॒ती॒चष्टि॒ द्योधी॑या॒न्वष॑ण्वान्वनव॒ु ष॑श्चि॒त्तम॑सो विहं॒ता ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति स्तुहि । इंद्रं । यः । ह । सत्वा । यः । शूरः । मघना । यः ।  
+> रथेऽस्थाः ।  
+> प्रतीचः । चित् । योधीयान् । वृषण्वान् । वववुषः। चित् । तमसः । विहंता ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमु तमेवेंद्रं स्तुहि। हे होतः स्तुतिं कुरु । किमस्याधिक्यमिति उच्यते ।
+> यो ह यः खलु सत्वाशिस्प्रभूतबलः । यद्वा । सत्वा सावकः शत्रूणां । यश्च शूरः
+> शौर्योपेतो मघवा बलवानन्नवान्वा । यश्च रथेष्णा रथे वर्तमानः । किंच
+> प्रतीचश्चित् प्रत्यभिमुखं योद्धुरपि योधीयान् योद्धृतमः ॥ प्रतिपूर्वादेचतेः क्विनंताल्लुप्तनकाराच्छृसि अच इत्यकारलोपे चाविति दीर्घः । अंचेश्छंदस्यसर्वनामस्थानमिति विभक्तिरुपात्ता ॥ वृषाण्वान् । वृषाणो वर्षितारो वज्रादयः ।
+> तष्वान् । वृषा ते वज्र उत ते वृषा रथः । ऋ. २-१६-६ । इति हि निगमः । तथा
+> वववुषश्चित्तमस अवरकस्यापि तमसो मेघादेर्निहंता विशेषेण घातकः । यस्मादेवं महानुभावः तस्मात्सु हि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: "Praise that very Indra, O Hotṛ, perform the praise." What is his excellence? यो ह (*yo ha*): he who indeed is सत्वा (*satvā*), of abundant strength; or else सत्वा (*satvā*) is the destroyer of enemies. He who is a hero, endowed with valour; मघवा (*maghavā*), strong or possessed of food; who stands in the chariot. Moreover, he is योधीयान् (*yodhīyān*), the best of fighters, even among those who fight facing him. वृषण्वान् (*vṛṣaṇvān*): the *vṛṣāṇaḥ* are the showerers, the thunderbolt and the like; he possesses them. The Nigama is quoted: वृषा ते वज्र उत ते वृषा रथः । ऋ. २-१६-६ (*vṛṣā te vajra uta te vṛṣā rathaḥ | ṛ. 2-16-6*). Likewise he is the destroyer, the special slayer, even of the all-covering darkness, such as the cloud. Since he is so mighty, therefore praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः ह (*yaḥ ha*)—which Indra indeed
+- सत्वा (*satvā*)—one of very abundant strength, or the destroyer of enemies
+- यः (*yaḥ*)—who
+- शूरः (*śūraḥ*)—a hero, and
+- मघवा (*maghavā*)—endowed with strength or food
+- यः (*yaḥ*)—
+
+### Printed p. 268
+- who
+- रथेष्ठाः (*ratheṣṭhāḥ*)—one who is in the chariot
+- प्रतीचः चित् (*pratīcaḥ cit*)—even among those who fight facing him
+- योधियान् (*yodhiyān*)—the best fighter
+- वृषण्वान् (*vṛṣaṇvān*)—the bearer of weapons such as the thunderbolt, and
+- यः (*yaḥ*)—who
+- वववुषः चित् तमसः (*vavavuṣaḥ cit tamasaḥ*)—the cloud that covers everything
+- विहंता (*vihaṃtā*)—the slayer (the piercer)
+- तं उ (*taṃ u*)—that same
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+(O Hotṛ,) praise that Indra who is of great prowess, a hero, rich in wealth, standing in his chariot, who fights facing his enemies, who wields the thunderbolt, and who destroys the cloud and the like, the darkness that covers everything.
+
+##### English translation (H. H. Wilson)
+Glorify that Indra who is mighty, who is a hero, possessing abundant wealth, standing in his car, a valiant combatant against adversaries, the wielder of the thunderbolt, the disperser of all-enveloping gloom.
+
+##### विशेषविषयगळु (Special Topics)
+
+तमुष्टुहि (*tamuṣṭuhi*)—By this sentence the command of the seer who saw the mantra is given here: addressing the priest called Hotṛ, "praise Indra."
+
+यो ह सत्वा (*yo ha satvā*)—अतिप्रभूतबलः, यद्वा सावकः तत्राणां (*atiprabhūtabalaḥ, yadvā sāvakaḥ tatrāṇāṃ*): the meaning is explained as Indra being one of abundant strength, or one who destroys enemies. **NOTE**
+
+मघवा (*maghavā*)—बलवानन्नर्वा वा (*balavānannarvā vā*). The authors of the Nirukta read the word मघ (*magha*) among the names of wealth (Ni. 3-9) and explain: मघमिति धननामधेयं महतेर्दानकर्मणः (*maghamiti dhananāmadheyaṃ mahaterdānakarmaṇaḥ*), that is, the word मघ (*magha*), derived from the root मंह (*maṃha*) which conveys the sense of giving, denotes wealth. Sāyaṇa accepts the use of the word मघ (*magha*) in the senses of strength or food, and explains that Indra is possessed of strength or of food.
+
+Indra is प्रतिचश्चित् योधीर्यान् (*praticaścit yodhīryān*), the best among the heroes who fight facing the enemy who is engaged in battle; and वृषण्वान् (*vṛṣaṇvān*), possessing weapons such as the thunderbolt that assist in pouring rain. For the word वृषण्वान् (*vṛṣaṇvān*) Sāyaṇa gives the meaning वर्षितारः (*varṣitāraḥ*), and explains the sense through the thunderbolt and the like as producers of rain; to convey this same meaning he quotes—
+
+### Printed p. 269
+वृषा ते वज्र उत ते वृषा रथो वृषणा हरी वृषभाण्यायुधा । वृष्णो मदस्य वृषभ त्वमीशिष इंद्र सोमस्य वृषभस्य तृप्नुहि ॥ (*vṛṣā te vajra uta te vṛṣā ratho vṛṣaṇā harī vṛṣabhāṇyāyudhā | vṛṣṇo madasya vṛṣabha tvamīśiṣa iṃdra somasya vṛṣabhasya tṛpnuhi ‖*) (Ṛ. Saṃ. 2-16-6)
+
+And he describes Indra's abundant greatness: वववुषश्चित्तमसः विहंता (*vavavuṣaścittamasaḥ vihaṃtā*), the destroyer of the darkness that covers.
+
+##### Grammar
+
+- स्तुहि — ष्टुञ् स्तुत् इति धातुः । लोट् मध्यमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- सत्वा — षड्ल्‌ विशरणगत्यवसादनेषु इति धातुः । प्रईर सद्योस्तुट् च (उ. सू. ४-५२६) इत्यनेन विधीयमानः क्वनि प्रत्ययो बहुलवचनात् केवलस्यास्य धातोरपि भवति । प्रत्ययस्य पित्त्वादनुदात्तत्वाद् धातुस्वरो अवतिष्ठते ।
+- प्रतीचः — प्रति इति उपसर्गः । अंचु गतिपूजनयोः इति धातुः । ऋत्विक् दधृक्—(पा. सू. ३-२-५९) इति क्विन् प्रत्ययः । अनिदितांहलउप—(पा. सू. ६-४-२४) इत्युपधानकारलोपः । शस् परे भसंज्ञत्वादाचः (पा. सू. ६-४-१७८) इति धातोरकारस्य लोपः । लुप्तनकाराकारस्यांचुधातोः परत्वाच्चौ (पा. सू. ६-३-१३८) इति पूर्वस्य दीर्घः । अंचेश्चंदस्युपसंख्यानम् इति वचनाद् विभक्तेरुदात्तस्वरो भवति ।
+- योधीयान् — योधितृशब्दादतिशयार्थ ईयसुन् प्रत्ययः । तुरिष्टेमेयः सु (पा. सू. ६-४-१५४) इति तृचो लोपः । प्रकृत्यैकाच् इति सूत्रेण प्रकृतिभावात् टिलोपो न भवति । प्रत्ययस्य नित्त्वाद् इत्यादिर्नित्यम् (पा. सू. ६-१-१६९) इत्याद्युदात्तस्वरो भवति ।
+- ववप्रुषः — वृञ् आवरणे इति धातुः । चुरादिः । लिटः क्वसुरादेशः । प्रत्ययनिमित्तं द्वित्वादि । छांदसत्वेन वकारोऽधिको भवति । षष्ठ्यां वसोः संप्रसारणम् (पा. सू. ६-४-१३१) इति संप्रसारणं पूर्वरूपम् । शासिवसिघसीनां च (पा. सू. ८-३-६) इति षत्वम् । क्वसुप्रत्ययस्वरो अवतिष्ठते । **NOTE**
+- विहंता — हन हिंसागत्योः इति धातुः । कर्तरि तृच् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 270
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यदि॒त्था म॑हि॒ना नृभ्यो॒ अस्त्यरं॒ रोद॑सी क॒क्ष्ये॒३॒॑ऽनास्मै॑ ।  
+> सं वि॑व्य॒ इंद्रो॑ वृ॒जनं॒ न भूमा॒ भर्ति॑ स्व॒धावा॑ ओप॒शमि॑व॒ द्यां ॥  
+> ॥ पवपार्क ॥  
+> प्र । यत् । इत्था । महिना । नृभ्यः । अस्ति । अरं । रोदसी इति । कक्ष्ये३ इति। न ।  
+> आस्मै ।  
+> सं । वि॑व्य॒े । इंद्रः ।॑ वृ॒जनं॒ । न । भूम ।॒ भर्ति॑ । स्व॒धावान् ।॑ ओप॒शंइ॑व॒ । द्यां ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्य इंद्रो महिना महत्त्वेन स्वैश्वर्येण नृभ्यो नेतृभ्यः कर्मनिर्वाहकेभ्यो यजमानेभ्यः प्रास्ति प्रभवति ईष्टे स्वर्गादिप्रदाने रक्षितुं अस्मै रक्षकायेंद्राय रोदसी द्यावापृथिव्यौ कक्ष्ये कक्ष्ययते सती संचाराय नारं नालं । न
+> पर्याप्ते । जगतोऽधीशस्येंद्रस्य संचारायाल्पत्वाद्दावापृथिव्यौ न पर्याप्ते
+> इत्यर्थः । सृष्टादपि स्रष्टुर्महिम्मोऽधिकत्वादिति भावः । आयमिंद्रो वृजनं न भूम
+> भूमिं भूतानि वा वृजनं न वृजनमिव ॥ वृजेः कर्तनार्थस्येदं रूपं ॥ तदिव
+> तद्यथावृणोति तथायमसि स्वतेजसा सं विस्वे । समृगावृणोति लोकत्रयं ।
+> किंचायं स्वधावानन्नवान् वृष्टिलक्षणोदकवान्वा द्यां दिनं भर्ति । भिभर्ति । धारणे
+> दृष्टांतः । ओपशमिव । ईषदुपशेत इत्योपशं शृंगं । तद्वृषभ इव । यद्वा ।
+> परस्परं समीपे वर्तमानं क्षित्यंतरिक्षाख्यं लोकद्वयमोपशं। तदिव द्यां बिभर्ति ।
+> लोकत्रयमसि बिभर्तित्यर्थः ॥ बृञ्चो लट छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that when this Indra, by his greatness, by his own lordship, is able over the leaders, the sacrificers who carry out the rites, to bestow heaven and the like and to protect them, for this protecting Indra the two world-halves, heaven and earth, though treated as girths, are not sufficient for his movement. That is, since they are too small for the movement of Indra, the overlord of the world, heaven and earth do not suffice; the sense is that the creator's greatness exceeds even that of what is created. This Indra encompasses the earth or the beings, like a वृजनं (*vṛjanaṃ*), an enclosure; the word is a form of the root *vṛj* in the sense of cutting (**NOTE**). As that encloses, so he with his own brilliance encloses the three worlds. Moreover, this Indra, possessing स्वधा (*svadhā*), food, or water in the form of rain, bears the sky, the day, भर्ति (*bharti*), that is, बिभर्ति (*bibharti*). The example for bearing is ओपशमिव (*opaśamiva*): that which lies slightly upon something is ओपशं (*opaśaṃ*), a horn; as a bull bears it. Or else: the two worlds called earth and atmosphere, lying close to each other, are ओपशं (*opaśaṃ*); like that he bears the sky; the meaning is that he bears the three worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which Indra
+- इत्या (*ityā*)—truly
+- महिना (*mahinā*)—by his greatness (lordship)
+- वृभ्यः (*vṛbhyaḥ*)—to the leaders (the sacrificers who carry out the rites)
+- प्र आस्ति (*pra āsti*)—becomes able to bestow fruits such as heaven, or to protect
+- अस्मै (*asmai*)—for this (protecting) Indra
+- कक्ष्ये (*kakṣye*)—those that are like girths
+- रोदसी (*rodasī*)—earth and atmosphere
+- न अरं (*na araṃ*)—are not wide enough (for his movement)
+- इंद्रः (*iṃdraḥ*)—this Indra
+- भूम (*bhūma*)—the earth
+- वृजनं न (*vṛjanaṃ na*)—as the sky encloses
+- सं विव्ये (*saṃ vivye*)—(with his brilliance, the three worlds) he pervades
+- (किंच आयं (*kiṃca āyaṃ*)—moreover
+
 ---
 
-**Progress note:** Done through printed p. 264. pp. 259-264 (batch API)
+**Progress note:** Done through printed p. 270. pp. 265-270 (batch API)
