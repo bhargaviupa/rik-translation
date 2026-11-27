@@ -2640,3 +2640,105 @@
 | 815 | `Va. 37 [?]"` → `Va. 37"` | SECOND-PASS Q2: Kannada p815 head ವ. ೩೭ |
 | 815 | `4-27-3 as read [?]` → `4-26-3` | SECOND-PASS Q1: Kannada p815 ಋ. ಸಂ. ೪-೨೬-೩ |
 | 815 | `3-[?]6 as read [?]` → `3-2` | SECOND-PASS Q1: Kannada p815 (ಬ. ಬ್ರ. ೩-೨) |
+
+### 2026-11-27 second pass, batch m361-468.tsv
+| page | old → new | why |
+|---|---|---|
+| 816 | `(*Ṛ.* 1-119-9 as read [?])` → `(*Ṛ.* 1-119-9)` | SECOND-PASS Q1: Kannada p. 816 has 1-119-9 in the same context |
+| 816 | `(*Ṛ.* 10-40-6 as read [?])` → `(*Ṛ.* 10-40-6)` | SECOND-PASS Q1: Kannada p. 816 has 10-40-6 in the same context |
+| 816 | `*(grammar pages, pp. 816–817, noted briefly; sūtra numbers only as read, doubtful [?]` → `*(grammar pages, pp. 816–817, noted briefly` | SECOND-PASS Q2: all sūtra numbers of this grammar settled from the Kannada; doubt clause removed |
+| 816 | `(*pā.* 3-3-117 as read [?])` → `(*pā.* 3-3-117)` | SECOND-PASS Q1: Kannada p. 816 has 3-3-117 in the same context |
+| 816 | `(*pā.* 7-2-1 as read [?])` → `(*pā.* 7-2-1)` | SECOND-PASS Q1: Kannada p. 816 has 7-2-1 in the same context |
+| 816 | `(*pā.* 6-1-193 as read [?])` → `(*pā.* 6-1-193)` | SECOND-PASS Q1: Kannada p. 816 has 6-1-193 in the same context |
+| 816 | `(*pā.* 6-4-127 as read [?])` → `(*pā.* 6-4-127)` | SECOND-PASS Q1: Kannada p. 816 has 6-4-127 in the same context |
+| 816 | ` (*pā.* 7-1-70 as read [?])` → `` | SECOND-PASS S3: Kannada has no number at this sūtra; number removed |
+| 817 | `Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 817.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 817.` | SECOND-PASS Q2: Kannada head has ವ. ೩೭ |
+| 817 | `concluded; short; sūtra numbers only as read, doubtful [?].)* *Bharathaḥ*` → `concluded; short.)* *Bharathaḥ*` | SECOND-PASS Q2: sūtra number of this grammar settled; doubt clause removed |
+| 817 | `(*pā.* 8-1-28 as read [?])` → `(*pā.* 8-1-28)` | SECOND-PASS Q1: Kannada p. 817 has 8-1-28 in the same context |
+| 819 | `Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 819.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 819.` | SECOND-PASS Q2: Kannada head has ವ. ೩೭ |
+| 819 | `(Rik 112.22)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?]` → `(Rik 112.22)** *(grammar page, noted briefly` | SECOND-PASS Q2: all sūtra numbers of this grammar settled from the Kannada; doubt clause removed |
+| 819 | `(*pā.* 3-3-57 as read [?])` → `(*pā.* 3-3-57)` | SECOND-PASS Q1: Kannada p. 819 has 3-3-57 in the same context |
+| 819 | ` (*pā.* 3-2-76 as read [?])` → `` | SECOND-PASS S3: Kannada has no number at this sūtra; number removed |
+| 819 | `(*pā.* 6-2-139 as read [?])` → `(*pā.* 6-2-139)` | SECOND-PASS Q1: Kannada p. 819 has 6-2-139 in the same context |
+| 819 | `(*pā.* 6-3-14 as read [?])` → `(*pā.* 6-3-14)` | SECOND-PASS Q1: Kannada p. 819 has 6-3-14 in the same context |
+| 819 | `(*pā.* 6-164 as read [?])` → `(*pā.* 6-1-64)` | SECOND-PASS Q1: Kannada p. 819 has 6-1-64 in the same context |
+| 819 | `(*pā.* 3-199 as read [?])` → `(*pā.* 3-1-99)` | SECOND-PASS Q1: Kannada p. 819 has 3-1-99 in the same context |
+| 819 | `(*pā.* 6-3-137 as read [?])` → `(*pā.* 6-3-137)` | SECOND-PASS Q1: Kannada p. 819 has 6-3-137 in the same context |
+| 819 | `(*pā.* 3-3-94 as read [?])` → `(*pā.* 3-3-94)` | SECOND-PASS Q1: Kannada p. 819 has 3-3-94 in the same context |
+| 819 | `(*pā.* 6-4-42 as read [?])` → `(*pā.* 6-4-42)` | SECOND-PASS Q1: Kannada p. 819 has 6-4-42 in the same context |
+| 819 | `(*pā.* 3-3-97 as read [?])` → `(*pā.* 3-3-97)` | SECOND-PASS Q1: Kannada p. 819 has 3-3-97 in the same context |
+| 819 | `(*pā.* 7-1-39 as read [?]) the substitute *ḍā*` → `(*pā.* 7-1-39) the substitute *ḍā*` | SECOND-PASS Q1: Kannada p. 819 has 7-1-39 |
+| 819 | `(*pā.* 7-1-58 as read [?])` → `(*pā.* 7-1-57)` | SECOND-PASS Q1: Kannada p. 819 has 7-1-57 in the same context |
+| 820 | `(*pā.* 8-3-9 as read [?])` → `(*pā.* 8-3-9)` | SECOND-PASS Q1: Kannada p. 820 has 8-3-9 in the same context |
+| 820 | `(*pā.* 8-3-3 as read [?])` → `(*pā.* 8-3-3)` | SECOND-PASS Q1: Kannada p. 820 has 8-3-3 in the same context |
+| 821 | `Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 821.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 821.` | SECOND-PASS Q1: Kannada page head has ವ. 37 |
+| 821 | `(*pā.* 4-1-123 as read [?]) the suffix *ḍhak*, since the *ca* is [taken` → `(*pā.* 4-1-123) the suffix *ḍhak*, since the *ca* is [taken` | SECOND-PASS Q1: Kannada p. 821 has 4-1-123 |
+| 821 | `*ktic ktau ca saṃjñāyām* [?].` → `*ktic ktau ca saṃjñāyām*.` | SECOND-PASS S3: Kannada has no number at this sūtra; mark removed |
+| 822 | `(*Ṛ.* 4-26 as read [?])` → `(*Ṛ.* 4-26-1)` | SECOND-PASS Q1: Kannada p. 822 has 4-26-1 in the same context |
+| 822 | `(*Ṛ.* 6-20-2 as read [?])` → `(*Ṛ.* 7-19-2)` | SECOND-PASS Q1: Kannada p. 822 has 7-19-2 in the same context |
+| 822 | `(*Ṛ.* 8-1-11 as read [?])` → `(*Ṛ.* 8-1-11)` | SECOND-PASS Q1: Kannada p. 822 has 8-1-11 in the same context |
+| 822 | `(*Śa. Brā.* 5-1-2-11 as read [?])` → `(*Śa. Brā.* 2-1-2-11)` | SECOND-PASS Q1: Kannada p. 822 has 2-1-2-11 in the same context |
+| 822 | `(*Śa. Brā.* 5-4-3-7 as read [?])` → `(*Śa. Brā.* 5-4-3-7)` | SECOND-PASS Q1: Kannada p. 822 has 5-4-3-7 in the same context |
+| 822 | `(*Ṛ.* 1-60-3 as read [?])` → `(*Ṛ.* 1-63-2)` | SECOND-PASS Q1: Kannada p. 822 has 1-63-2 in the same context |
+| 822 | `(*Ṛ.* 1-121-9 as read [?])` → `(*Ṛ.* 1-121-9)` | SECOND-PASS Q1: Kannada p. 822 has 1-121-9 in the same context |
+| 822 | `(*Ṛ.* 49-4 as read [?])` → `(*Ṛ.* 10-49-4)` | SECOND-PASS Q1: Kannada p. 822 has 10-49-4 in the same context |
+| 823 | `Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 823.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 823.` | SECOND-PASS Q1: Kannada page head has ವ. 37 |
+| 823 | `(*Ṛ.* 1-53-10 as read [?])` → `(*Ṛ.* 1-53-10)` | SECOND-PASS Q1: Kannada p. 823 has 1-53-10 in the same context |
+| 823 | `(*Ṛ.* 8-53-2 as read [?])` → `(*Ṛ.* 8-23-2)` | SECOND-PASS Q1: Kannada p. 823 has 8-23-2 in the same context |
+| 823 | `(*Ṛ.* 1-61-11 as read [?])` → `(*Ṛ.* 1-61-11)` | SECOND-PASS Q1: Kannada p. 823 has 1-61-11 in the same context |
+| 823 | `(*Ṛ.* 10-113-9 as read [?])` → `(*Ṛ.* 10-113-9)` | SECOND-PASS Q1: Kannada p. 823 has 10-113-9 in the same context |
+| 823 | `(*Ṛ.* 2-15-9 as read [?])` → `(*Ṛ.* 2-15-9)` | SECOND-PASS Q1: Kannada p. 823 has 2-15-9 in the same context |
+| 823 | `(*Ṛ.* 4-30-21 as read [?])` → `(*Ṛ.* 4-30-21)` | SECOND-PASS Q1: Kannada p. 823 has 4-30-21 in the same context |
+| 823 | `(*Ṛ.* 2-13-9 as read [?])` → `(*Ṛ.* 2-13-9)` | SECOND-PASS Q1: Kannada p. 823 has 2-13-9 in the same context |
+| 823 | `(*Ṛ.* 2-13-12 as read [?]; cited also on p. 754)` → `(*Ṛ.* 2-13-12; cited also on p. 754)` | SECOND-PASS Q1: Kannada p. 823 has 2-13-12 |
+| 824 | `(*Ṛ.* 8-68-17 as read [?])` → `(*Ṛ.* 9-58-3)` | SECOND-PASS Q1: Kannada p. 824 has 9-58-3 in the same context |
+| 824 | `(Rik 112.23)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?]` → `(Rik 112.23)** *(grammar page, noted briefly` | SECOND-PASS Q2: all sūtra numbers of this grammar settled from the Kannada; doubt clause removed |
+| 824 | `(*pā.* 4-1-123 as read [?]) the suffix *ḍhak*, since the *ca* is [read as]` → `(*pā.* 4-1-123) the suffix *ḍhak*, since the *ca* is [read as]` | SECOND-PASS Q1: Kannada p. 824 has 4-1-123 |
+| 824 | `(*pā.* 7-1-2 as read [?])` → `(*pā.* 7-1-2)` | SECOND-PASS Q1: Kannada p. 824 has 7-1-2 in the same context |
+| 824 | `by *yasyeti ca* (*pā.* 6-4-148 as read [?]) the loss of the *ā* [of *ī*, as read [?]];` → `by *yasyeti ca* the loss of the *a*;` | SECOND-PASS Q1: Kannada p. 824: yasyeti ca has no number; ಅಕಾರಕ್ಕೆ ಲೋಪ = loss of the a |
+| 824 | ` (*pā.* 6-4-24 as read [?])` → `` | SECOND-PASS S3: Kannada has no number at this sūtra; number removed |
+| 824 | `(*pā.* 7-1-3 as read [?])` → `(*pā.* 7-1-3)` | SECOND-PASS Q1: Kannada p. 824 has 7-1-3 in the same context |
+| 824 | `(*pā.* 3-3-174 as read [?])` → `(*pā.* 3-3-174)` | SECOND-PASS Q1: Kannada p. 824 has 3-3-174 in the same context |
+| 825 | `Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 825.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 825.` | SECOND-PASS Q1: Kannada page head has ವ. ೩೭ |
+| 825 | `*(Grammar of Rik 112.23, concluded; short; sūtra numbers only as read, doubtful [?].)*` → `*(Grammar of Rik 112.23, concluded; short.)*` | SECOND-PASS Q2: sūtra numbers of this grammar settled; doubt clause removed |
+| 825 | `*pā.* 6-4-37 as read [?]]` → `*pā.* 6-4-37]` | SECOND-PASS Q1: Kannada p. 825 has 6-4-37 |
+| 825 | `naktrici dīrghaś ca [as read [?]]` → `naktici dīrghaś ca` | SECOND-PASS Q1: Kannada p. 825 reads ನಕ್ತಿಚಿ ದೀರ್ಘಶ್ಚ |
+| 825 | `*(pā.* 6-4-39 as read [?]*)*` → `*(pā.* 6-4-39*)*` | SECOND-PASS Q1: Kannada p. 825 has 6-4-39 |
+| 825 | ` (*Uṇ.* 4-182 as read [?])` → `` | SECOND-PASS S3: Kannada bhāṣya tail (pp. 825-826) has no number at this sūtra; number removed |
+| 827 | `Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 827.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 827.` | SECOND-PASS Q1: Kannada page head has ವ. ೩೭ |
+| 827 | `(*Ai. Brā.* 2-[?]), as read [?].` → `(*Ai. Brā.* 2-15).` | SECOND-PASS Q1: Kannada p. 827 has ಐ. ಬ್ರಾ. ೨-೧೫ |
+| 827 | `(*Ṛ.* 10-30-12 as read [?])` → `(*Ṛ.* 10-30-12)` | SECOND-PASS Q1: Kannada p. 827 has 10-30-12 in the same context |
+| 827 | `— to the *balika* [?] fire, to Uṣas` → `— then, to the fire, to Uṣas` | SECOND-PASS Q1: Kannada p. 827: ಬಳಿಕ ಅಗ್ನಿ, ಉಷಸ್ಸು… = then Agni, Uṣas…; balika misread of ಬಳಿಕ |
+| 828 | `(Rik 112.24)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?]` → `(Rik 112.24)** *(grammar page, noted briefly` | SECOND-PASS Q2: all sūtra numbers of this grammar settled from the Kannada; doubt clause removed |
+| 828 | `(*Uṇ.* 4-647 as read [?])` → `(*Uṇ.* 4-647)` | SECOND-PASS Q1: Kannada p. 828 has 4-647 in the same context |
+| 828 | `(*pā.* 5-2-94 as read [?])` → `(*pā.* 5-2-94)` | SECOND-PASS Q1: Kannada p. 828 has 5-2-94 in the same context |
+| 828 | `(*pā.* 8-2-9 as read [?])` → `(*pā.* 8-2-9)` | SECOND-PASS Q1: Kannada p. 828 has 8-2-9 in the same context |
+| 828 | `(*pā.* 1-4-19 as read [?])` → `(*pā.* 1-4-19)` | SECOND-PASS Q1: Kannada p. 828 has 1-4-19 in the same context |
+| 828 | `(*pā.* 4-1-6 as read [?])` → `(*pā.* 4-1-6)` | SECOND-PASS Q1: Kannada p. 828 has 4-1-6 in the same context |
+| 828 | `(*pā.* 7-1-39 as read [?]) the substitute *ā*. *Asme*` → `(*pā.* 7-1-39) the substitute *ā*. *Asme*` | SECOND-PASS Q1: Kannada p. 828 has 7-1-39 |
+| 828 | ` (*pā.* 7-2-90 as read [?])` → `` | SECOND-PASS S3: Kannada has no number at this sūtra; number removed |
+| 828 | `*ḍukṛñ karaṇe*; *loṭ*, second-person dual; since it is *laṅvadbhāva* [?],` → `*ḍukṛñ karaṇe*; *loṭ*, second-person dual; since it is *laṅvadbhāva*,` | SECOND-PASS Q2: Kannada p. 828 has ಲಙ್ವದ್ಭಾವ |
+| 828 | ` (*pā.* 2-4-73 as read [?])` → `` | SECOND-PASS S3: Kannada has no number at this sūtra; number removed |
+| 828 | `(*pā.* 3-1-124 as read [?])` → `(*pā.* 3-1-124)` | SECOND-PASS Q1: Kannada p. 828 has 3-1-124 in the same context |
+| 828 | `(*pā.* 1-3-30 as read [?])` → `(*pā.* 1-3-30)` | SECOND-PASS Q1: Kannada p. 828 has 1-3-30 in the same context |
+| 829 | `Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 829.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 829.` | SECOND-PASS Q1: Kannada page head has ವ. ೩೭ |
+| 829 | `(a *vārttika*, as read [?])` → `(a *vārttika*, *vā.* 2233)` | SECOND-PASS Q1: Kannada p. 829 has ವಾ. ೨೨೩೩ |
+| 829 | `(*pā.* 6-1-168 as read [?]) the case-ending takes the *udātta*. *Bhavatam*` → `(*pā.* 6-1-168) the case-ending takes the *udātta*. *Bhavatam*` | SECOND-PASS Q1: Kannada p. 829 has 6-1-168 |
+| 829 | `(*pā.* 6-1-183 as read [?]), the case-accent` → `(*pā.* 6-1-183), the case-accent` | SECOND-PASS Q1: Kannada p. 829 has 6-1-183 |
+| 830 | `twenty-three [?] in all` → `twenty-three in all` | SECOND-PASS Q2: Kannada p. 830 has ೨೩ |
+| 830 | `(*Ni.* 1-7 [?] as read)` → `(*Ni.* 1-18)` | SECOND-PASS Q1: Kannada p. 830 has ನಿ. ೧-೧೮ |
+| 831 | `Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 831.` → `Va. 37"; centre "Ṛgvedasaṃhitā"; right 831.` | SECOND-PASS Q1: Kannada page head has ವ. ೩೭ |
+| 831 | `(*Ṛ.* 1-36-16 as read [?])` → `(*Ṛ.* 1-36-16)` | SECOND-PASS Q1: Kannada p. 831 has 1-36-16 in the same context |
+| 831 | `(*Ṛ.* 2-10-3 as read [?])` → `(*Ṛ.* 2-10-3)` | SECOND-PASS Q1: Kannada p. 831 has 2-10-3 in the same context |
+| 831 | `(Rik 112.25)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?]` → `(Rik 112.25)** *(grammar page, noted briefly` | SECOND-PASS Q2: all sūtra numbers of this grammar settled from the Kannada; doubt clause removed |
+| 831 | `(*pā.* 7-1-131 as read [?])` → `(*pā.* 7-1-131)` | SECOND-PASS Q1: Kannada p. 831 has 7-1-131 in the same context |
+| 831 | `(*pā.* 6-1-168 as read [?]) the case-ending would` → `(*pā.* 6-1-168) the case-ending would` | SECOND-PASS Q1: Kannada p. 831 has 6-1-168 |
+| 831 | `(*pā.* 6-1-183 as read [?]) it is prohibited` → `(*pā.* 6-1-183) it is prohibited` | SECOND-PASS Q1: Kannada p. 831 has 6-1-183 |
+| 831 | `(*pā.* 3-2-102 as read [?])` → `(*pā.* 3-2-102)` | SECOND-PASS Q1: Kannada p. 831 has 3-2-102 in the same context |
+| 831 | `(*pā.* 6-2-2 as read [?])` → `(*pā.* 6-2-2)` | SECOND-PASS Q1: Kannada p. 831 has 6-2-2 in the same context |
+| 831 | ` (*pā.* 7-1-10 as read [?])` → `` | SECOND-PASS S3: Kannada has no number at this sūtra; number removed |
+| 831 | `(*pā.* 7-3-103 as read [?])` → `(*pā.* 7-3-103)` | SECOND-PASS Q1: Kannada p. 831 has 7-3-103 in the same context |
+| 831 | `(*pā.* 3-1-39 as read [?])` → `(*pā.* 7-1-39)` | SECOND-PASS Q1: Kannada p. 831 has 7-1-39 in the same context |
+| 831 | `(*pā.* 8-1-19 as read [?])` → `(*pā.* 8-1-19)` | SECOND-PASS Q1: Kannada p. 831 has 8-1-19 in the same context |
+| 831 | `(*pā.* 7-3-19 as read [?])` → `(*pā.* 7-3-19)` | SECOND-PASS Q1: Kannada p. 831 has 7-3-19 in the same context |
+| 831 | `(*pā.* 6-1-197 as read [?])` → `(*pā.* 6-1-197)` | SECOND-PASS Q1: Kannada p. 831 has 6-1-197 in the same context |
