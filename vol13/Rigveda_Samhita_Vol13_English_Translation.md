@@ -10364,6 +10364,132 @@ O Indra, mount your excellent horses in their prime, which are yoked to your cha
 ##### English translation (H. H. Wilson)
 Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and harnessed to a bounty-shedding car : come down with them to us. We invoke you, Indra, the libation being poured out.
 
+### Printed p. 433
+
+##### विशेषविषयगळु (Special Topics)
+
+The words वृषणः (*vṛṣaṇaḥ*), वृषभासः (*vṛṣabhāsaḥ*) and वृषरथासः (*vṛṣarathāsaḥ*) are epithets of Indra's horses, and they show the special capabilities of those horses. The differences of meaning among these words, which are all formed from the word वृषन् (*vṛṣan*), and their usages, will be explained in the Special Topics of the next Ṛk. Only the epithets ब्रह्मयुजः (*brahmayujaḥ*) and अत्याः (*atyāḥ*) are explained here.
+
+ब्रह्मयुजः (*brahmayujaḥ*)—परिवृढेन मंत्रेण युज्यमानाः (*parivṛḍhena maṃtreṇa yujyamānāḥ*). It is an epithet of Indra's horses: "yoked with the utterance of a fully developed mantra". The word ब्रह्म (*brahma*) in this context is formed from the root बृहि (*bṛhi*), which means "to grow", and so means a mantra that has grown. Just as ब्रह्मयुजः (*brahmayujaḥ*) is here an epithet of Indra's horses, the word ब्रह्मवाहः (*brahmavāhaḥ*) is used in many places as an epithet of Indra. In all those places the sense is: ब्रह्मणा मंत्ररूपेण स्तोत्रेणोह्यमान प्राप्यमाणेंद्र (*brahmaṇā maṃtrarūpeṇa stotreṇohyamāna prāpyamāṇeṃdra*)—"O Indra, fit to be attained through praise". Here likewise the meaning is horses yoked by means of praise.
+
+ब्रह्मणा ते ब्रह्मयुजा युनज्मि हरी सखाया सधमाद आ शू । स्थिरं रथं सुखमिंद्राधितिष्ठन्रजानन्विद्वा उप याहि सोमं ॥ (*brahmaṇā te brahmayujā yunajmi harī sakhāyā sadhamāda ā śū | sthiraṃ rathaṃ sukhamiṃdrādhitiṣṭhanrajānanvidvā upa yāhi somaṃ ‖*) (Ṛ. Saṃ. 3-35-4). As in such Ṛks, which describe how Indra's horses are yoked to his chariot by the power of the mantra, the present Ṛk also states this point.
+
+अत्याः (*atyāḥ*)—आश्वाः (*āśvāḥ*). Indra's horses. अपेक्षितप्रदेशं प्रति आतनशीलाः (*apekṣitapradeśaṃ prati ātanaśīlāḥ*): that is, having the nature and the power to travel to whatever place one wishes. Not only of the horse: this word is also an epithet of Agni and of Āditya.
+
+एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः । दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसं ॥ (*eṣa pra pūrvīrava tasya camriṣo 'tyo na yoṣāmudayaṃsta bhurvaṇiḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ rathamāvṛtyā hariyogamṛbhvasaṃ ‖*) (Ṛ. Saṃ. 1-56-1): here अत्यः (*atyaḥ*) is a synonym of "horse". In
+अस्य श्लोको दिवीयते पृथिव्यामत्तो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यंति चेमा बृहस्पतेरहिमाया अभि द्यून् ॥ (*asya śloko divīyate pṛthivyāmatto na yaṃsadyakṣabhṛdvicetāḥ | mṛgāṇāṃ na hetayo yaṃti cemā bṛhaspaterahimāyā abhi dyūn ‖*) (Ṛ. Saṃ. 1-190-4) and similar Ṛks, आतनशीलः आदित्यः (*ātanaśīlaḥ ādityaḥ*) is understood: the travelling Āditya. In the present Ṛk it is a synonym of "horse".
+
+### Printed p. 434
+
+##### Grammar
+
+- ब्रह्मयुजः — ब्रह्मणा युज्यंते इति ब्रह्मयुजः । युजिर् योगे इति धातुः । सत्सूद्विषश्रुणमुहयुज—(पा. सू. ३-२-६१) इति क्विड् प्रत्ययः । कृदुत्तरपद प्रकृतिस्वरः भवति । प्रथमाबहुवचनांतरूपम् ।
+- वृषरथासः — बहुह्रीहिसमासः । बहुह्रीहौ प्रकृत्यापूर्वपदं इति पूर्वपदप्रकृतिस्वरः भवति । जस् परे अज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुक् आगमः ।
+- शान्+आ — दीर्घादटि समानपादे (पा. सू. ८-३-९) इति नकारस्य रुत्वम् । आतोटनित्यम् (पा. सू. ८-३-३) इति पूर्वाकारस्य नित्यानुनासिकत्वम् ।
+- तिष्ठ — ष्ठा गतिनिवृत्तौ इति धातुः । लोट् मध्यमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- हवामहे — ह्वेञ् स्पर्धायां शब्दे च इति धातुः । बहुलं छंदसि इति लटि संप्रसारणम् । उत्तमपुरुष बहुवचनांतरूपम् । पादादित्वात् निघातस्वरः न भवति । तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवतिष्ठते ।
+- सुते — षुञ् अभिषवे इति धातुः । निष्ठा इति क्त प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । सप्तम्यंतरूपम् । **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ति॑ष्ठ॒ रथं॒ वृष॑णं॒ वृषा॑ ते सु॒तः सोमः॒ परि॑षिक्ता॒ मधू॑नि ।  
+> यु॒क्त्वा वृष॑भ्यां वृषभ क्षिती॒नां हरि॑भ्यां याहि प्र॒वतोप॑  ॒
+> मद्रिक् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तिष्ठ । रथं । वृषणं । वृषा । ते । सुतः । सोमः । परिसिक्ता । मधूनि ।  
+> युक्ता । वृषभ्यां । वृषभ । क्षितीनां । हरिभ्यां । याहि । प्रवता । उप । मद्रिक् ॥
+
+### Printed p. 435
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं रथमा शिष्ठ । आश्रय यज्ञगमनार्थं । कीदृतं रथं ।
+> वृषणं वर्षकं कामानां । किमर्थमिति चेत् उच्यते ! ते त्वदर्थं वृषा वर्षकः
+> सोमः सुतः । अभिषुतः । तथा मधूनि-मधुराणि घृतक्षीरादीनि परिषिक्ता । परितः
+> सिक्तानि संपादितानि । यद्वा ! मधूनि मधुराः सोमरसाश्चमसेषु पूरिताः ।
+> आगमनप्रकार उच्यते । हे वृषभ वर्षकेंद्र वृषभ्यां वर्षकाभ्यां हरिभ्यां
+> युक्ता रथं योजयित्वा क्षितीनां कर्मसु निवसतां यजमानानामस्माकमनुग्रहाय । क्षितीनां वृषभेति वा योज्यं । प्रवशा वेगवशा रथेन मद्रिज्मदभिमुखमंचन्मदाभिमुख्येनोप याहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, mount the chariot, take it as your support, in order to come to the sacrifice. What kind of chariot? वृषणं (*vṛṣaṇaṃ*): the one that showers desires. If it is asked for what purpose, the answer is: for you the Soma, the showerer, has been pressed (सुतः (*sutaḥ*), अभिषुतः (*abhiṣutaḥ*)); and sweet things, ghee, milk and the like (मधूनि (*madhūni*)), have been poured round about and made ready (परिषिक्ता (*pariṣiktā*), परितः सिक्तानि संपादितानि (*paritaḥ siktāni saṃpāditāni*)). Or else मधूनि (*madhūni*) means the sweet Soma juices filled into the cups.
+
+Then the manner of coming is stated. O showering Indra (वृषभ (*vṛṣabha*)), having yoked the chariot with the two showering bay horses (वृषभ्यां हरिभ्यां (*vṛṣabhyāṃ haribhyāṃ*)), come for the favour of us, the sacrificers who dwell in the rites (क्षितीनां (*kṣitīnāṃ*)). Or else क्षितीनां (*kṣitīnāṃ*) is to be construed with वृषभ (*vṛṣabha*) ("bull of the dwellers"). प्रवता (*pravatā*) means "by the force of speed", with the chariot; मद्रिक् (*madrik*) means facing me (us): come toward us, facing us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- ते (*te*)—for you
+- वृषा (*vṛṣā*)—the showerer of desired objects
+- सोमः (*somaḥ*)—the Soma juice
+- सुतः (*sutaḥ*)—has been pressed (तथा (*tathā*)—and likewise)
+- मधूनि (*madhūni*)—sweet ghee, milk and the like
+- परिषिक्ता (*pariṣiktā*)—have been placed round about. [Or मधूनि (*madhūni*)—the sweet Soma juices; परिषिक्ता (*pariṣiktā*)—are filled (in the cups)] (therefore)
+- वृषणं (*vṛṣaṇaṃ*)—that gives what is wanted
+- रथं (*rathaṃ*)—(your) chariot
+- आ तिष्ठ (*ā tiṣṭha*)—take as your support
+- क्षितीनां (*kṣitīnāṃ*)—for the sacrificers engaged in (rites)
+- (हे) वृषभ (*(he) vṛṣabha*)—O Indra, giver of desired objects
+- वृषभ्यां (*vṛṣabhyāṃ*)—by the showering
+- हरिभ्यां (*haribhyāṃ*)—(two) horses
+- युक्ता (*yuktā*)—having yoked (the chariot)
+- क्षितीनां (*kṣitīnāṃ*)—for the favour of us, who are engaged in rites and are the performers of the sacrifice
+- प्रवशा (*pravaśā*)—by the swift chariot
+- मद्रिक् (*madrik*)—facing us
+- उप याहि (*upa yāhi*)—come near to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Soma juice, wish-showering and sweet, has been pressed and is set apart for you in the cups (sweet ghee, milk and the like are also ready). Therefore mount your chariot, the showerer of desired objects. O Indra, granter of wishes to the sacrificers, yoke to the chariot the two horses that give what is wanted, and seated in the swift chariot come facing us, for the favour of us, the sacrificers.
+
+##### English translation (H. H. Wilson)
+Ascend your bounty-shedding car, for, for you the Soma, the showerer of benefits, is effused, the sweet libations are prepared. Bounty-shedding Indra, having harnessed them, came with your vigorous steeds for (the good of) mankind ; come with your rapid (car) to my presence.
+
+### Printed p. 436
+
+##### विशेषविषयगळु (Special Topics)
+
+The words formed from the word वृषन् (*vṛṣan*), as in वृषणं रथं (*vṛṣaṇaṃ rathaṃ*), वृषा सोमः (*vṛṣā somaḥ*), वृषभ्यां हरिभ्यां (*vṛṣabhyāṃ haribhyāṃ*), वृषभ (*vṛṣabha*), are used as epithets of the chariot, of the Soma, of Indra's horses, and of Indra. Although the meaning of the root is one, these epithets have differences of meaning according to the context.
+
+Of the two roots वृषु सेचने (*vṛṣu secane*) and वृष शक्तिबंधने (*vṛṣa śaktibaṃdhane*), the words वृषा (*vṛṣā*) and वृषण (*vṛṣaṇa*) may be formed from the root वृष (*vṛṣa*) that gives the sense of pouring, sprinkling; and the words वृषभ्यां (*vṛṣabhyāṃ*) and वृषभ (*vṛṣabha*) from the second root, which gives the sense of strength and capacity. For the word वृषन् (*vṛṣan*) and the other epithets derived from this root, a meaning suited to the context has to be given.
+
+The word वृषन् (*vṛṣan*) is used in many places in the sense of a male capable of pouring (seed); it is used either as a masculine word, a synonym of "man", or as a synonym of horses and other animals.
+
+In ये त इंद्र ददुषो वर्धयंति महि क्षत्रं स्थविरं वृष्ट्यं चॆ । (*ye ta iṃdra daduṣo vardhayaṃti mahi kṣatraṃ sthaviraṃ vṛṣṭyaṃ cè |*) (Ṛ. Saṃ. 1-54-8) the word वृष्ट्यं (*vṛṣṭyaṃ*) is explained as वृषत्वं । पुंस्त्वं (*vṛṣatvaṃ | puṃstvaṃ*); in the preceding Ṛk स्तुतः श्रवस्यन्नवसोप मद्रिग्युक्त्वा हरी वृषणा याह्यर्वाज् । (*stutaḥ śravasyannavasopa madrigyuktvā harī vṛṣaṇā yāhyarvāj |*) (Ṛ. Saṃ. 1-177-1), as युवाना (*yuvānā*), "young ones"; in भूषन्न योधि बभ्रूषु नम्मते वृषेव पत्नीरभ्येति रोरुवत् । (*bhūṣanna yodhi babhrūṣu nammate vṛṣeva patnīrabhyeti roruvat |*) (Ṛ. Saṃ. 1-140-6), वृषा इव (*vṛṣā iva*) is explained as सेक्ता वृषभ इव (*sektā vṛṣabha iva*), "like a bull that pours"; in the Ṛk मिनाति श्रियं जरिमा तनूनामप्यू नु प्नतीर्वृषणो जगम्युः ॥ (*mināti śriyaṃ jarimā tanūnāmapyū nu pnatīrvṛṣaṇo jagamyuḥ ‖*) (Ṛ. Saṃ. 1-179-1), वृषणः (*vṛṣaṇaḥ*) is explained as सेक्तारः पुरुषा (*sektāraḥ puruṣā*). In many other places also this word is used in senses that indicate the masculine and show the strength of the male animal. And likewise in
+वृषा वां मेघो वृषणा पीपाय गोर्व सेके मनुषो दशस्यन् । (*vṛṣā vāṃ megho vṛṣaṇā pīpāya gorva seke manuṣo daśasyan |*) (Ṛ. Saṃ. 1-181-8)
+
+### Printed p. 437
+दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्या वीरररुं तूर मर्त्यं परिवृणक्षि मर्त्यं ॥ (*dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cidyā vīrararuṃ tūra martyaṃ parivṛṇakṣi martyaṃ ‖*) (Ṛ. Saṃ. 1-129-3)
+ता तू ते सत्या तुविनृम्म विश्वा प्र धेनवः सिस्रते वृष्ण ऊध्नः ॥ (*tā tū te satyā tuvinṛmma viśvā pra dhenavaḥ sisrate vṛṣṇa ūdhnaḥ ‖*) (Ṛ. Saṃ. 4-22-6)
+and similar passages it is used in the sense वर्षकः (*varṣakaḥ*), वर्षणपरमनस्कः (*varṣaṇaparamanaskaḥ*): one who pours water, one who showers wished-for objects. Although other meanings also appear here and there, rarely, the sense of extraordinary strength and virility is the one that mainly appears for the word वृष्ण (*vṛṣṇa*) in many places.
+
+आ प्यायस्य समेतु ते विश्वतः सोम वृष्टं । (*ā pyāyasya sametu te viśvataḥ soma vṛṣṭaṃ |*)
+आ प्यायस्त्व समेतु ते विश्वतः सोम वृष्ट्यं । (*ā pyāyastva sametu te viśvataḥ soma vṛṣṭyaṃ |*) (Ṛ. Saṃ. 1-91-16)
+महा असि महिष वृष्ट्भिर्धनस्पृदुग्र सहमानो अन्यान् । (*mahā asi mahiṣa vṛṣṭbhirdhanaspṛdugra sahamāno anyān |*) (Ṛ. Saṃ. 3-46-2)
+वि चर्मणीव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ट्यं । (*vi carmaṇīva dhiṣaṇe avartayadvaiśvānaro viśvamadhatta vṛṣṭyaṃ |*) (Ṛ. Saṃ. 6-8-3)
+In these and many other Ṛks the meaning "virility and valour" is usual for the word वृष्ण (*vṛṣṇa*). Besides this, in many contexts the word वृषन् (*vṛṣan*) is used as a synonym of Indra and other deities; in such places one must infer, according to the context, that the respective deities are meant.
+
+अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वषा । (*apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī | ni yatsīṃ śiśnathadvaṣā |*) (Ṛ. Saṃ. 4-30-10)
+Here it may be inferred to be a synonym of Indra. In many places, however, it gives rise to doubt as to which deity is meant. Sometimes even Sāyaṇācārya has not stated a precise view when explaining this epithet. For example, in the Ṛk वृषा छंदुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति । (*vṛṣā chaṃdurbhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yadinvati |*) (Ṛ. Saṃ. 1-55-4), for the word वृषा (*vṛṣā*) he first says वृषा-हविषां वर्षयिता यजमानः (*vṛṣā-haviṣāṃ varṣayitā yajamānaḥ*) and afterwards यद्वा वृषा इंद्रः (*yadvā vṛṣā iṃdraḥ*), and so gives room for doubt. Since it is used in such various senses, the sense suited to each context has to be taken. In explaining this word, full of meaning, the English commentator Max Müller has described as follows the depth of the ideas that the word suggests.
+
+### Printed p. 438
+In Vrishan we have one of those words which it is almost impossible to translate accurately. It accurs over and over again in the Vedic hymns and if we once know the various ideas which it either expresses or implies, we have little difficulty in understanding its import in a vague and general way, though we look in vain for corresponding terms in any modern language...........................and we shall see how difficult it would be to translate such terms without losing either the key-note that was still sounding or the harmonies which were set vibrating by it in the minds of the poets and their listeners.
+[F. Max Muller S. B. E. Vol. XXXII. P. 138-39]
+
+In the present Ṛk it may be said that the word वृषन् (*vṛṣan*) is used in all the senses stated above.
+
+हरिभ्या-हरी इंद्रस्य (*haribhyā-harī iṃdrasya*) (Ni. 2-28): the author of the Nirukta has stated that this name is well known for Indra's horses.
+
+##### Grammar
+
+- परिषिक्ता — षिचर् क्षरणे इति धातुः । निष्ठा इति क्त प्रत्ययः । चोः कुः इति धातुचकारस्य कुत्वम् । गतिरनंतरः (पा. सू. ६-२-४९) इति कृदुत्तरपदप्रकृतिस्वरस्य अपवादत्वेन पूर्वस्य गतेः (परि) प्रकृतिस्वरः भवति । नपुंसकबहुवचने शेत्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेः लोपः भवति ।
+- क्षितीनाम् — क्षि निवासगत्योः इति धातुः । स्त्रियां क्तिन् इति क्तिन् प्रत्ययः । षष्ठीबहुवचने नामन्यतरस्याम् (पा सू. ६-१-१७७) इति उदात्तस्वरः नामि भवति ।
+- प्रवता — उपसर्गाच्छंदसि धात्वर्थे (पा. सू. ५-१-११८) इति प्र इत्यस्मात् वतिप्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । तृतीयैकवचनांतरूपम् ।
+
 ---
 
-**Progress note:** Done through printed p. 432. pp. 427-432 (batch API)
+**Progress note:** Done through printed p. 438. pp. 433-438 (batch API)
