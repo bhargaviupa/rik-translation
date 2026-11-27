@@ -3443,6 +3443,139 @@ The rivers are arrested by the thunderbolts when they utter the voice of the clo
 
 अभ्रियां वाचं उदीरयंति (*abhriyāṃ vācaṃ udīrayaṃti*)—अभ्रभवां स्तनितलक्षणां वाचं शब्दं उच्चारयंति (*abhrabhavāṃ stanitalakṣaṇāṃ vācaṃ śabdaṃ uccārayaṃti*): when through the thunderbolt the sound of thunder arises in the clouds and the lightnings shine downward-faced in the atmosphere, the Maruts squeeze out the waters so that they flow on the earth. Then सिंधवः प्रति ष्टोभंति स्यंदनशीलाः आपः प्रतिचलंति (*siṃdhavaḥ prati ṣṭobhaṃti syaṃdanaśīlāḥ āpaḥ praticalaṃti*): the waters, flowing by nature, move on the earth and in the atmosphere; this is the meaning explained. That is, the rain-water that has fallen as rain falls on the earth and flows.
 
+### Printed p. 139
+पविभ्यः (*pavibhyaḥ*)—belonging to the Maruts, "to the thunderbolts" (मरुत्संबंधि वज्रेभ्यः (*marutsaṃbaṃdhi vajrebhyaḥ*)). The word पवि (*pavi*) is stated both among the names of speech (Ni. 2-23) and among the names of the thunderbolt (Ni. 3-11). Yāska explains पविः रथनेमिर्भवति यद्विपुनाति भूमिं (*paviḥ rathanemirbhavati yadvipunāti bhūmiṃ*): the mark made by the edge of the chariot wheel that cuts the earth is well known as पवि (*pavi*). He then cites the Ṛk उत स्म ते परुष्ण्यामूर्णा वसत शुंध्यवः । उत पव्या रथानामद्रिं भिंदंत्योजसा ॥ (*uta sma te paruṣṇyāmūrṇā vasata śuṃdhyavaḥ | uta pavyā rathānāmadriṃ bhiṃdaṃtyojasā ‖*) (Ṛ. Saṃ. 5-52-9) and gives the meaning of पविः रथनेमिर्भवति (*paviḥ rathanemirbhavati*) as the rim of the chariot wheel.
+Durgācārya describes the meaning thus: देवा वै वृत्रस्य मर्म नाविदन् तं मरुतः क्षुरपविना व्ययुः (*devā vai vṛtrasya marma nāvidan taṃ marutaḥ kṣurapavinā vyayuḥ*)—when the gods did not know the vital spot of the demon Vṛtra, the Maruts split it with the wheel-rims, which are like thunderbolts with sharp razor-like edges; that is, the Maruts split the cloud with the keen edges (पवि (*pavi*)) of their chariots. Sāyaṇa accepts this meaning in his commentary, and in the sentence पविभ्यः सिंधवः प्रति ष्टोभंति (*pavibhyaḥ siṃdhavaḥ prati ṣṭobhaṃti*) explains मरुत्संबंधि वज्रेभ्यः (*marutsaṃbaṃdhi vajrebhyaḥ*) as the wheel-rims belonging to the Maruts (that is, the streams of rain).
+सिंधवः (*siṃdhavaḥ*)—"those whose nature is to flow": waters. अपः सिंधवः (*apaḥ siṃdhavaḥ*) is stated among the names of rivers (Ni. 2-24). And in the Ṛk सुदेवो असि वरुण यस्य ते सप्त सिंधवः । अनुक्षरंति काकुदं सूम्यं सुषिरामिव ॥ (*sudevo asi varuṇa yasya te sapta siṃdhavaḥ | anukṣaraṃti kākudaṃ sūmyaṃ suṣirāmiva ‖*) (Ṛ. Saṃ. 8-69-12) the meaning is explained: सिंधुः स्रवणात् (*siṃdhuḥ sravaṇāt*)—water is well known by the name सिंधु (*siṃdhu*) because it flows.
+पृथिव्यां (*pṛthivyāṃ*)—"in the intermediate space, on the earth". The word पृथिवी (*pṛthivī*) is stated both among the names of the earth (Ni. 2-5) and among the names of the intermediate space (Ni. 2-10). Here two meanings (intermediate space, earth) are explained.
+धृतं (*dhṛtaṃ*)—"flowing water". The word धृत (*dhṛta*) is read among the names of water (Ni. 224)**NOTE**. And in the Ṛk कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतंति । त आववृत्रन्तदनादृतस्यादिद्घृतेन पृथिवी व्युद्यते । (*kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpataṃti | ta āvavṛtrantadanādṛtasyādidghṛtena pṛthivī vyudyate |*) (Ṛ. Saṃ. 1-164-47)
+
+### Printed p. 140
+the word घृतेन (*ghṛtena*) is interpreted as उदकेन (*udakena*). Yāska explains the word घृत (*ghṛta*), derived from the root फ्रा (*phrā*)**NOTE** meaning "to sprinkle", as "water": घृतमित्युदकनाम जिघर्तेः सिंचतिकर्मणः (*ghṛtamityudakanāma jigharteḥ siṃcatikarmaṇaḥ*).
+
+##### Grammar
+
+- स्तोभंति — ष्टुभु स्तंभे इति धातुः । व्यत्ययेन परस्त्रैपदी भवति । लट् प्रथमपुरुषैकवचनांतरूपं । प्रति इत्युपसर्गस्य पूर्वस्थितत्वात् उपसर्गात् सुनोति— (पा. सू. ८-३-६५) इत्यनेन धातुसकारस्य षत्वं । तिजंतनिघातस्वरो भवति ।
+- पविभ्यः — पूञ् पवने इति धातुः । अच इः (उ. सू. ५७८) इत्यनेन इ प्रत्ययः । तं निमित्तीकृत्य धातोरिको गुणः अवादेशः । प्रत्ययस्वरो भवति ।
+- अभ्रियां — अभ्रे भवा अभ्रिया । समुद्राभ्राद्भः (पा. सू. ४-४-११८) इत्यनेन घ प्रत्ययः । आयनेयिा- (पा. सू. ७-१-२) इत्यनेन तस्य इयादेशः । यस्यॆति च इत्यनेन अकारलोपः । प्रत्ययस्याद्युदात्तस्वरो भवति । स्त्रीत्वे अदंतत्वात् टाप् ।
+- उदीरयंति — ईर गतौ प्रेरणे च इति धातुः । हेतुमति च इत्यनेन णिच् । णिजंतात् लट् प्रथमपुरुषबहुवचनांतरूपं । यद्योगत्वात् निघातस्वरो न भवति । णिच्स्वरो अवशिष्यते । तिजिचोदात्तवति (पा. सू. ८-१-७१) इत्यनेन गतेः (उत्) निघातस्वरो भवति ।
+- स्वयंत — स्मिञ् ईषद्धसने इति धातुः । छांदसत्वेन वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपं । बहुलं छंदस्यमाज्‌योगेऽपि इत्यनेन अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- यदि — निपातस्य च (पा. सू. ६-३-१३६) इत्यनेन संहितायां दीर्घो भवति ।
+- पुष्णुवंति — पुष स्नेहनसेवनपूरणेषु इति धातुः । क्र्यादिः । लट् प्रथमपुरुषबहुवचने झेरंतादेशः । व्यत्ययो बहुलं इत्यनेन श्नु विकरणं भवति । प्रत्ययानां जित्वादेशत्वात् गुणो न भवति । अचिश्नुधातु— इत्यनेन उवजादेशः । निपातैर्यद्यदि— (पा. सू. ८-१-३०) इत्यनेन यदिसंबंधत्वात् निघातस्वरो न भवति । प्रत्ययस्याद्युदात्तस्वरो भवति ।
+
+### Printed p. 141
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असू॑त॒ पृश्नि॑र्मह॒ते रणा॑य त्वे॒षम॒यासां॑ म॒रुता॒मनी॑कं ।  
+> ते स॑प्स॒रासो॑ऽजनयं॒ताभ्व॒मादित्स्व॒धामि॑षि॒रां पर्य॑पश्यन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असूत । पृश्निः । महते । रणाय । त्वेषं । आयासां । मरुतां । अनेकं ।  
+> ते । सप्सरासः । अजनयंत । अभ्वं । अत् । इत् । स्वधां । इषिरां । परि । अपश्यन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृश्निर्मरुन्माता नानावर्णा । पृश्नियै वै पयसो मरुतो जाताः । तै. सं.
+> २-२-११-४ । पृश्नेः पुत्रा उपमासः । ऋ. ५-५८-५ । इत्यादिश्रुतेः । तामेवांतरिक्षदेवतां केचिदाहुः । सा देवी त्वेषं दीप्तमयासां गंत्यणां मरुतामनीकं
+> समूहमेकोनपंचाशत्सख्याकमसूत । उत्पादितवती । किमर्थं । महते रणाय
+> संग्रामाय । मेघजयायेत्यर्थः । ते च मरुतः सप्सरासः समानरूपा हिंसका
+> वा मेघानामभ्वं मेघं जनयंति । उत्पादितवंतः । आदिदनंतरमेवेषिरां
+> सर्वैरेष्टव्यां स्वधामन्नं सस्यादिसमृद्धिलक्षणं पर्यपश्यन् । परिपश्यंति सर्वे
+> जनाः ॥
+
+##### Gist of the bhāṣya
+
+Pṛśni is the mother of the Maruts, of many colours. Sāyaṇa supports this with the Śruti texts पृश्नियै वै पयसो मरुतो जाताः (*pṛśniyai vai payaso maruto jātāḥ*) (Tai. Saṃ. 2-2-11-4) and पृश्नेः पुत्रा उपमासः (*pṛśneḥ putrā upamāsaḥ*) (Ṛ. 5-58-5), and adds that some say she is that very deity of the intermediate space. That goddess bore the bright (त्वेषं (*tveṣaṃ*) = *dīptaṃ*) troop (अनीकं (*anīkaṃ*) = *samūhaṃ*) of the moving (आयासां (*āyāsāṃ*) = गंत्यणां (*gaṃtyaṇāṃ*)**NOTE** ) Maruts, forty-nine in number. For what purpose? For the great battle (महते रणाय (*mahate raṇāya*) = संग्रामाय (*saṃgrāmāya*)), that is, for the conquest of the cloud. And those Maruts, सप्सरासः (*sapsarāsaḥ*)—of the same form, or destroyers of the clouds—bring forth (जनयंति (*janayaṃti*), "have produced") the cloud (अभ्वं (*abhvaṃ*) = मेघं (*meghaṃ*)). Immediately after that, all people behold (पर्यपश्यन् (*paryapaśyan*) = परिपश्यंति (*paripaśyaṃti*)) the इषिरां (*iṣirāṃ*)—that which all desire—स्वधां (*svadhāṃ*), food, marked by the prosperity of crops and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृश्निः (*pṛśniḥ*)—the many-coloured sky (the deity named Pṛśni)
+- त्वेषं (*tveṣaṃ*)—brilliant
+- आयासां (*āyāsāṃ*)—of the moving
+- मरुतां (*marutāṃ*)—of the Marut deities
+- अनीकं (*anīkaṃ*)—the host
+- महते रणाय (*mahate raṇāya*)—for the great battle (in the form of conquering the cloud)
+- असूत (*asūta*)—produced
+- सप्सरासः (*sapsarāsaḥ*)—of the same form, or destroyers of the clouds
+- ते (*te*)—those Marut deities
+- अभ्वं (*abhvaṃ*)—the cloud
+- अजनयंत (*ajanayaṃta*)—created
+- अत् इत् (*at it*)—immediately after
+- इषिरां (*iṣirāṃ*)—desirable to all
+- स्वधां (*svadhāṃ*)—food (in the form of crops and the like)
+- परि अपश्यन् (*pari apaśyan*)—(the people) saw
+
+##### भावार्थ (Bhāvārtha)
+
+After the many-coloured sky (or the deity named Pṛśni) had created the brilliant troop of Maruts for the great battle in the form of the conquest of the cloud, the cloud was created by those Marut deities. Immediately afterwards (the people) saw the prosperity of crops and the like.
+
+### Printed p. 142
+
+##### English translation (H. H. Wilson)
+Prishni bore the brilliant troop of the quick-moving Maruts for the great combat (with the clouds), whereupon (mankind) immediately beheld the desiderated food.
+
+##### विशेषविषयगळु (Special Topics)
+
+पृश्नि (*pṛśni*)—मरुन्माता नानावर्णा । तामेवांतरिक्षदेवतां केचिदाहुः । (*marunmātā nānāvarṇā | tāmevāṃtarikṣadevatāṃ kecidāhuḥ |*) The word पृश्नि (*pṛśni*) is stated among the common names of the intermediate space and the Ādityas, स्वः नाकः (*svaḥ nākaḥ*) (Ni. 2-13), and also पृश्निरादित्यो भवति प्राश्नुत एनं वर्ण इति नैरुक्ताः (*pṛśnirādityo bhavati prāśnuta enaṃ varṇa iti nairuktāḥ*) (Ni. 2-14). Yāska explains that the Āditya is called Pṛśni because abundant colour pervades him in a surpassing manner. Sāyaṇa gives one explanation—the goddess Pṛśni is the mother of the Maruts and has many colours—and then states the view of some who say that she herself is the deity presiding over the intermediate space. And on the point that Pṛśni is the mother of the Maruts he cites the Taittirīya Saṃhitā sentence “पृश्नियै वै पयसो मरुतो जाताः (*pṛśniyai vai payaso maruto jātāḥ*)” (Tai. Saṃ. 2-2-11-4) and the Ṛk Saṃhitā sentence पृश्ने पुत्राः उपमासः (*pṛśne putrāḥ upamāsaḥ*) (Ṛ. Saṃ. 5-58-5).
+सा देवी तेषं अयासां मरुतामनीकं असूत (*sā devī teṣaṃ ayāsāṃ marutāmanīkaṃ asūta*)—the goddess Pṛśni has produced the troop of the Maruts, bright and ever moving, forty-nine (49 persons) in number. Having explained the meaning thus, he describes महते रणाय संग्रामाय मेघ जयाय (*mahate raṇāya saṃgrāmāya megha jayāya*) as: so that these Maruts may fight with the clouds and be victorious.
+सप्सरासः अभ्वं (*sapsarāsaḥ abhvaṃ*)—समानरूपा हिंसका ना मेघानां । मेघं जनयंति उत्पादितवंतः । (*samānarūpā hiṃsakā nā meghānāṃ | meghaṃ janayaṃti utpāditavaṃtaḥ |*) The word सप्सरासः (*sapsarāsaḥ*) is explained as: the Marut deities are all of one and the same form, and they torment the clouds. The word अभ्व (*abhva*) is read among the names of water (Ni. 2-24) and is also stated among the names of the great (Ni. 3-13). Here the word is explained as "cloud", and it is said that the Maruts produce the cloud.
+आदित् इषिरां स्वधां पर्यपश्यन् (*ādit iṣirāṃ svadhāṃ paryapaśyan*)—अनंतरमेव सर्वैरेष्टव्यां अन्नं सस्यादि समृद्धि लक्षणं परिपश्यंति सर्वे जनाः । (*anaṃtarameva sarvaireṣṭavyāṃ annaṃ sasyādi samṛddhi lakṣaṇaṃ paripaśyaṃti sarve janāḥ |*) It is explained that only after the Marut deities have produced the cloud do all the people of the world understand that the food they desire arises from the prosperity of crops and the like.
+
+### Printed p. 143
+The word स्वधा (*svadhā*) is read among the names of water (Ni. 2-24) and among the names of food (Ni. 2-9). As *svadhe* it is stated among the names of heaven and earth (Ni. 3-22 **NOTE**)**NOTE**. Here it is used in the sense of food arising from crops and the like.
+
+##### Grammar
+
+- असूत — षूज् प्राणिगर्भविमोचने इति धातुः । लज् प्रथमपुरुषैकवचनांतरूपं । पादादित्वात् निघातस्वरो न भवति । अडागमस्योदात्तत्वात् आद्युदात्तं भवति ।
+- अयासां — अय गत् इति धातुः । अयंते इति अयाः तेषां अयासां । सचादौ समाविष्टत्वात् नंदिग्रह पचा— (पा. सू. ३-१-१३४) इत्यनेन अच् प्रत्ययः । षष्ठीबहुवचने परे व्यत्ययेन तस्य सुटागमः ।
+- अनीकं — अन प्राणने इति धातुः । अनिहृषिभ्यां किच्च (उ. सू. ४५७) इत्यनेन ईकन् प्रत्ययः । इत्यादिर्नित्यं इत्यनेन आद्युदात्तस्वरो भवति ।
+- सप्सरासः — प्सा भक्षणे । प्साति भक्षयति इति प्सरः रूपं । औणादिको डर प्रत्ययः । डित्वसामर्थ्यात् धातोः टेः (आकारस्य) लोपः । समानः प्सरः येषां ते सप्सरासः । समानस्य छंदसि— (पा. सू. ६-३-८४) इत्यनेन समानस्य सभावः । समानस्य (पा. सू. ६-१-२२३) इत्यनेन अंतोदात्तस्वरो भवति । अस्मात् जस् परे अज्जसेरसुक् (पा. सू. ७-१-६०) इत्यनेन तस्य असुकागमः ।
+- अजनयंत — जनी प्रादुर्भावे इति धातुः । छंदसि लुज्— (पा. सू. ३-४--६) इत्यनेन वर्तमानार्थे लज् । हेतुमति च इत्यनेन णिच् । उपधावृद्धौ प्राप्तायां मित्संज्ञत्वात् मितां ह्रस्वः इत्यनेन ह्रस्वो भवति । प्रथमपुरुषबहुवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- इषिरां — इषु इच्छायां इति धातुः । इषिमदिमुदि (उ. सू. ५१) इत्यनेन किरच् प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । चितः (पा. सू. ६-१-१६३) इत्यनेन अंतोदात्तस्वरो भवति । स्त्रीत्वे अदंतत्वात् टाप् ।
+- अपश्यन् — दृशिर् प्रेक्षणे इति धातुः । छांदसत्वेन वर्तमाने लज् । प्रथमपुरुषबहुवचनांतरूपं । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+
+### Printed p. 144
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वः॒ स्तोमो॑ मरुत इ॒यं गीर्मां॑दा॒र्यस्य॑ मा॒न्यस्य॑  ॒
+> कारोः ।  
+> एषा या॑सीष्ट त॒न्वे॑ व॒यां वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विषः । वः । स्तोमः । मरुतः । इयं । गीः । मांदार्यस्य । मान्यस्य । कारोः ।  
+> आ । इषा । यासीष्ट । तन्वे । वयां । विद्याम । इषं । वृजनं । जीरदानुं ॥ १० ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पंचदश्यां सूक्तोपक्रममारभ्य कृतां स्तुतिं मरुद्घो निवेद्याभिमतमाशास्ते ॥
+> हे मरुतः एष स्तोम इदानीं क्रियमाणप्रकारं स्तोत्रं वो युष्मदर्थं ।
+> युष्मश्रीणनाय भवत्वित्यर्थः । तथेयं गीः स्तुतिरूपा वागपि वो युष्मदर्थाय ।
+> यस्मादेवं तस्मान्मांदार्यस्य स्तुतिविशेषैर्मंदयितुः स्तुतिभिर्मदस्य प्रेरयितुर्वा मान्यस्य वरप्रदानादिना माननीयस्य कारोः स्तोतुरिषेच्छया यासीष्ट ।
+> आगच्छत । किमर्थं । त्वने शरीराय । तत्पोषायेत्यर्थः । वयां वयमपीषमन्नं
+> वृजनं बलं जीरदानुं जयशीलदानमेतत्सर्वं विद्याम । युष्मा स्वागतेषु यज्ञसंपूर्त्येष्ट्वादिद्वारा लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+Having offered, in the fifteenth**NOTE** (verse), the praise begun at the opening of the sūkta to the Maruts, the poet now prays for what he desires. O Maruts, may this hymn (स्तोमः (*stomaḥ*)), of the kind now being made, be for you—that is, for your gratification; likewise this गीः (*gīḥ*), speech in the form of praise, is for you. Since this is so, come at the desire for food (*iṣe*) of the praiser (कारोः (*kāroḥ*))—who is मांदार्यस्य (*māṃdāryasya*), one who gladdens by special praises, or one who impels delight by praises, and मान्यस्य (*mānyasya*), worthy of honour through the bestowing of boons and the like. For what purpose? For the body (तन्वे (*tanve*) = शरीराय (*śarīrāya*)), that is, for its nourishment. We also (वयां (*vayāṃ*) = *vayamapi*) would obtain all this: food (इषं (*iṣaṃ*)), strength (वृजनं (*vṛjanaṃ*)), and a gift that brings victory (जीरदानुं (*jīradānuṃ*) = *jayaśīladānaṃ*). The last sentence युष्मा स्वागतेषु यज्ञसंपूर्त्येष्ट्वादिद्वारा लभेमहि (*yuṣmā svāgateṣu yajñasaṃpūrtyeṣṭvādidvārā labhemahi*) says that we would obtain these through the completion of the sacrifice, offerings and the like.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Marut deities
+- मांदार्यस्य (*māṃdāryasya*)—of the one who gives delight by praises
+- मान्यस्य (*mānyasya*)—and who is worthy of honour
+- कारोः (*kāroḥ*)—of the praiser
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this praise made up to now
+- वः (*vaḥ*)—for you (let it be); likewise
+- इयं गीः (*iyaṃ gīḥ*)—this speech (in the form of praise) also (for you). [मांदार्यस्य (*māṃdāryasya*)—of the one who satisfies you with praises; मान्यस्य (*mānyasya*)—therefore worthy of worship; कारोः (*kāroḥ*)—of this praiser]
+
 ---
 
-**Progress note:** Done through printed p. 138. pp. 133-138 (batch API)
+**Progress note:** Done through printed p. 144. pp. 139-144 (batch API)
