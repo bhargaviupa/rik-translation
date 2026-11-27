@@ -12311,6 +12311,164 @@ The gods approached the Aśvin deities, the physicians of the gods, and prayed: 
 Thus the worshipper, by performing the rite called Pravargya, which even the gods honoured as the principal rite, accomplishes his desire and attains the world of heaven; in this way its greatness is praised. Since the Āśvina mantras and the pre-eminence of the Aśvin deities are principal in the time of this rite, it also has the alternative name "आश्विनप्रवयाः (*āśvinapravayāḥ*)". Next one must know the meaning of the words gharma and pravargya. The method of performing it is given in the fourth Prapāṭhaka of the Taittirīya Āraṇyaka. In commenting on this passage, Sāyaṇa cites the sentences of the fifth Prapāṭhaka that explain the words pravargya and gharma, and explains the meanings of these words.
 स धनुः प्रतिष्कभ्यातिष्ठत् । ता उषदीका अब्रुवन्वरं वृणामहै । अथ व इमग्ं रंथयाम। यत्र क्व च खनाम । तदपोभितृणदामेति। तस्मादुपडीका यत्र क्व च खनंति । तदपोऽभित्यंदंति। वारे वृतग्ग ह्यासां । (*sa dhanuḥ pratiṣkabhyātiṣṭhat | tā uṣadīkā abruvanvaraṃ vṛṇāmahai | atha va imagṃ raṃthayāma| yatra kva ca khanāma | tadapobhitṛṇadāmeti| tasmādupaḍīkā yatra kva ca khanaṃti | tadapo 'bhityaṃdaṃti| vāre vṛtagga hyāsāṃ |*) तस्य (*tasya*)
 
+### Printed p. 517
+…ज्यामप्यादन् । तस्य धनुर्विप्रवमाणग्ं शिर उदवर्तयत् । तष्टावापृथिवी अनुस्रावर्तत । यत्प्रावर्तत । तत्प्रवर्ग्यस्य प्रवर्ग्यत्वं । यद्भ्रा ४ इत्यपतत् । तद्धर्मस्य घर्मत्वं । (*jyāmapyādan | tasya dhanurvipravamāṇagṃ śira udavartayat | taṣṭāvāpṛthivī anusrāvartata | yatprāvartata | tatpravargyasya pravargyatvaṃ | yadbhrā 4 ityapatat | taddharmasya gharmatvaṃ |*) (Kṛ. Ā. 5-1-4-5-6) **NOTE**
+
+This explanation hints at a story, and then states how the names Gharma and so on became well known. As told in the Śatapatha Brāhmaṇa, the story runs as follows. Indra and the other gods performed a sacrificial session (sattra) at the sacrificial ground called Kurukṣetra. When the question arose of deciding who among them was the greatest, it was resolved that whoever first reached the end of the sacrifice through austerity, faith and sacrificial performance should be reckoned the greatest; Viṣṇu won that contest and was reckoned the greatest. The pride that naturally comes of such a victory also seized Viṣṇu. Full of self-conceit, Viṣṇu took up his bow, strung it, held three arrows in his hand and rested his head on the tip of his bow. None of the gods could face him, and all sat down around him. Then, to drive out his pride, the gods approached the worm-like creatures called vamrī (ants) and asked them to cut the bowstring; they cut the string of Viṣṇu's bow. (There is also a variant reading that Indra himself, in the form of a vamrī, cut it: तस्येंद्रो वम्रिरूपेण ! धनुर्ज्यामभिनत्स्वयं (*tasyeṃdro vamrirūpeṇa ! dhanurjyāmabhinatsvayaṃ*).) Then the tip of the bow sprang up and Viṣṇu's head was cut off.
+
+When the bowstring was cut, it fell making the sound *phṛṇ* (फृण्णिति पतात (*phṛṇṇiti patāta*)); therefore the name Gharma became well known for it. Because the bow, which had been bent, spread out wide the moment the string was cut, the name Pravargya became well known for it.
+
+मखस्य शिरोसीत्याह । यज्ञो वै मखः । (*makhasya śirosītyāha | yajño vai makhaḥ |*) (Kṛ. A. 5-3-2) **NOTE**
+
+In these sentences the passage that praises Pravargya as the head of all sacrifices is quoted, and its primacy is stated. Then:
+
+ब्रह्मन् प्रवर्ग्येण प्रचरिष्यामः। होतर्घर्ममभिष्टुहि । (*brahman pravargyeṇa pracariṣyāmaḥ| hotargharmamabhiṣṭuhi |*) (Tai. Ā. 4-4-1)
+
+ब्रह्मन् प्रचरिष्यामः । होतर्घर्ममभिष्टुहि । (*brahman pracariṣyāmaḥ | hotargharmamabhiṣṭuhi |*) (Tai. Ā. 4-5-1)
+
+By such mantras the setting up of the Pravargya is carried out. The nature of the Pravargya and its greatness will also be explained later at a suitable place. Since in the present Ṛk the word Gharma is explained as Pravargya, the aim here is only to show that the two belong to the same rite.
+
+### Printed p. 518
+Paśvaiṣṭiḥ (पश्वइष्टिः (*paśvaiṣṭiḥ*))—two explanations are given. First: पशुरित्यग्नेर्नाम । (*paśurityagnernāma |*) Since Agni is also a *paśu* (victim), the sacrifice that has Agni for its nature is called the animal sacrifice; the Taittirīya Saṃhitā passage is also quoted:
+
+अग्निः पशुरासीत्तेनायजंत स एतं लोकमजयद्यस्मिन्नग्निः ॥ (*agniḥ paśurāsīttenāyajaṃta sa etaṃ lokamajayadyasminnagniḥ ‖*) (Kṛ. Saṃ. 5-7-26) **NOTE**
+
+Agni was the sacrificial victim, and after he was offered as oblation, they won the world in which Agni now holds sway; thus it is described. On this basis, when "पश्वइष्टिः (*paśvaiṣṭiḥ*)" is said, it can be explained as the Agni-sacrifice having the nature of the victim. Or else: अथवा पशुप्रियत्वात्पशुरित्युच्यते । तस्याग्नेः इष्टिर्भवति । अग्नौ यागः सर्वो युष्मदर्थं प्रवर्तते । (*athavā paśupriyatvātpaśurityucyate | tasyāgneḥ iṣṭirbhavati | agnau yāgaḥ sarvo yuṣmadarthaṃ pravartate |*). Because Agni is fond of animals, the name *paśu* is well known for Agni too. Here the oblation offered in Agni is understood as the present praise, since you also have a share in it and since it is an oblation offered for you. This same sense is supported, Sāyaṇa explains, by sentences such as
+
+आश्विनं धूम्रललाममा लभेत यो दुर्ब्राह्मणः सोमं पिपासेत् । (*āśvinaṃ dhūmralalāmamā labheta yo durbrāhmaṇaḥ somaṃ pipāset |*) (Tai. Saṃ. 2-1-10-1)
+
+##### Grammar
+
+- घर्मम्—घर्मः (उ. सू. १-१४६) इति फृ क्षरणदीव्योः इति धातोः मत् प्रत्ययः गुणश्च निपातितः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- अपः—षष्ठ्यर्थे द्वितीया आगता । ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरो भवति ।
+- अवृणीतम्—वृज् संभक्तौ इति धातुः । क्र्यादिः । लज् मध्यमपुरुषद्विवचनांतरूपम् । तिणंतनिघातस्वरो भवति ।
+- एषे—इषु इच्छायां इति धातुः । अन्येभ्योपि दृश्यंते (पा. सू. ३-२-७५) इति विच् प्रत्ययः । पुगंतलघूपधस्य च इति लघूपधायाः गुणः । चतुर्थीएकवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+- रथ्या—रथाद्यत् (पा. सू. ४-३-१२१) इति संबंधार्थे यत् प्रत्ययः । यॆतोनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति । नपुंसकबहुवचने
+
+### Printed p. 519
+- शेतृंदसि बहुलं (पा. सू. ६-१-७०) इति शेर्लोपः । अग्रे विद्यमाने चक्रा इत्यत्रापि एवमेव शेर्लुक् आगतः ।
+- यंति—इण् गतौ इति धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- मध्वः—प्रथमाबहुवचनांतरूपम् । जसादिषु छंदसि वावचनं इति वचनेन गुणादयो न भवंति ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॑ दा॒नाय॑ ववृतीय दस्रा॒ गोरोहे॑ण तौ॒ग्रो न जिविः॑ ।  
+> अ॒पः क्षो॒णी स॑चते॒ माहि॑ना वां जू॒र्णो वा॒मक्षु॒रंह॑सो  
+> यजत्रा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । दानाय । ववृतीय । दस्रा । गोः । ओहेन । तौग्र्यः । न । जिव्रिः ।  
+> अपः । क्षोणी इति । सचते । माहिना । वां । जूर्णः । वां । अक्षुः । अंधसः । यजत्रा॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्रा शत्रुणामुपक्षपयितारावश्विन् नां युवयोर्दानायास्मदभिमताय युवाभ्यां वाहयितुमा ववृतीय । आवर्तयामि यागदेशं ॥ वृशेरंतर्भावितण्यर्थस्येदं ॥ केन साधनेनेति तदुच्यते । गोः स्तुतिरूपाया वाच ओहेन
+> वहनेन साधनेन । यद्वा । आवर्तनकाल उच्यते । गोर्गंत्रा उषसो वहनेन ।
+> जिव्रिर्जिर्णो जयशीलो ना तौग्रो न तुग्राख्यस्यराज्ञः पुत्रो भुज्युरिव ।
+> स यथा शत्रुभिः संताड्य समुद्रे पातितो युवां परितोष्य स्वोद्धाराय
+> स्वसमीपमानयत तद्वदित्यर्थः । इयमाख्यायिका तुगो ह । ऋ. १-११६-३ ।
+> भुज्युमंहसः पिपृथः । ऋ. १०-६५-१२ । नासत्या भुज्युं । ऋ. १-११६-४ । इत्यादिषु
+> प्रसिद्धा च । किमाश्चर्यमहमावर्तयामिति । किंत्वपः क्षोणी । अप अत्यंतरिक्ष-
+
+##### Gist of the bhāṣya
+
+"O Dasras, destroyers of enemies, Aśvins! For your giving (दानाय (*dānāya*)), that is, for the boon we desire, I wish to bring (ववृतीय (*vavṛtīya*)) you; I turn the sacrificial place," that is, I turn you toward it; this is the form of the root वृशे (*vṛśe*) with an inner causative sense. By what means? That is stated: by the conveying (ओहेन (*ohena*)) of गोः (*goḥ*), that is, of speech in the form of praise, as the means. Or else the time of turning is meant: by the bringing of the going Uṣas (गोर्गंत्रा उषसो वहनेन (*gorgaṃtrā uṣaso vahanena*)). Jivri is the aged one, or the victorious one; "like Taugrya", that is, like Bhujyu, son of the king named Tugra. Just as he, struck by enemies and thrown into the sea, pleased you and brought you near himself for his rescue, so is the meaning. This story is well known from passages such as तुगो ह (*tugo ha*) (Ṛ. 1-116-3), भुज्युमंहसः पिपृथः (*bhujyumaṃhasaḥ pipṛthaḥ*) (Ṛ. 10-65-12) and नासत्या भुज्युं (*nāsatyā bhujyuṃ*) (Ṛ. 1-116-4). "What wonder that I turn you? Rather: अपः क्षोणी (*apaḥ kṣoṇī*) …" The gloss of "अपः (*apaḥ*)" begins here and goes on in the next block.
+
+### Printed p. 520
+
+> नाम । क्षोणीति पृथिवीनाम । द्यावापृथिव्यावपि वां.युवयोर्माहिना माहात्र्येन युवयोः प्रसादेन सर्वोपकारिण्याविति ख्यातिं सर्वप्रदेशव्यापित्वं वा
+> सचते । सेवते प्रत्येकं । यद्वा । वां माहिना यजमानो द्यावापृथिव्य सचते ।
+> किंच हे यजत्रा यष्टव्यौ प्रसादादयमृषिर्जूर्णो जरया जीर्णांग सन्नंहसः
+> पापाज्जरालक्षणात्पमुच्याक्षुश्शिरकालव्याप्तो दीर्घजीवी भूयात् । यद्वा ।
+> हे यजत्रा वां प्रसादाज्यूर्णो जीर्णो यजमानोऽंहसो दुरितस्य
+> हंत्रीरप उक्तलक्षणानि सोमरसरूपाण्युदकानि क्षोणी क्षोण्यां ॥ सप्तम्यर्थे
+> प्रगृह्यं ॥ भूम्यां चिरकालमक्षुव्याप्तः सन् माहिना माहात्म्येन सचते ।
+> द्वितीयो वामित्ययमादरार्थः ॥
+
+##### Gist of the bhāṣya
+
+अप (*apa*) is a name of the atmosphere, क्षोणी (*kṣoṇī*) a name of the earth. Heaven and earth too, by your greatness, that is, by your grace, each attends (सचते (*sacate*), serves) your fame as benefactors of all, or your all-pervasiveness. Or else: by your greatness the sacrificer attends heaven and earth. Further, O adorable ones, by your grace this seer, aged in body, freed from the sin of old age, would be long-pervading (अक्षुः (*akṣuḥ*)), long-lived. Or else: O adorable ones, by your grace the aged sacrificer, pervading the earth (क्षोणी (*kṣoṇī*) being locative in the sense of the seventh case, a pragṛhya) for a long time, attends with your greatness the waters of the described kind, the sin-destroying soma-juices. The second वां (*vāṃ*) is for respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) दस्रा (*(he) dasrā*)—O Aśvin gods, destroyers of enemies
+- वां (*vāṃ*)—you two
+- दानाय (*dānāya*)—for giving (what we desire)
+- गोः (*goḥ*)—of speech in the form of praise
+- ओहेन (*ohena*)—by the means; [or गोः (*goḥ*)—of Uṣas, connected with cows; ओहेन (*ohena*)—by the means (in the time)]
+- जिव्रिः (*jivriḥ*)—aged (victorious)
+- तौग्र्यः न (*taugryaḥ na*)—like Bhujyu, son of Tugra (who called you near himself for his rescue)
+- आ ववृतीय (*ā vavṛtīya*)—I wish to bring (you) to the sacrificial hall
+- (हे) यजत्रा (*(he) yajatrā*)—O Dasras, worthy of sacrifice (venerable)
+- वां (*vāṃ*)—(by the grace) of you two
+- जूर्णः (*jūrṇaḥ*)—the aged sacrificer
+- अंहसः (*aṃhasaḥ*)—sin-removing
+- अपः (*apaḥ*)—the waters in the form of soma-juice
+- क्षोणी (*kṣoṇī*)—on the earth
+- अक्षुः (*akṣuḥ*)—pervading (for a long time), (having obtained)
+- माहिना (*māhinā*)—by greatness
+- वां (*vāṃ*)—you two
+- सचते (*sacate*)—serves
+- अपः (*apaḥ*)—the atmosphere (and)
+- क्षोणी (*kṣoṇī*)—the earth
+- वां (*vāṃ*)—of you two
+- माहिना (*māhinā*)—by greatness (having won fame as benefactors of the world)
+- सचते (*sacate*)—serve (both of you)
+- [or वां (*vāṃ*)—of you two; माहिना (*māhinā*)—by greatness; अपः क्षोणी (*apaḥ kṣoṇī*)—earth and atmosphere; सचते (*sacate*)—(the sacrificer) serves]
+- *(kiṃcè)*—and further
+- यजत्रा (*yajatrā*)—O Nāsatyas, worthy of sacrifice
+- जूर्णः (*jūrṇaḥ*)—this seer, aged in body
+- वां (*vāṃ*)—by the grace of you two
+- अंहसः (*aṃhasaḥ*)—(having been freed) from sin (in the form of old age)
+- अक्षुः (*akṣuḥ*)—becomes pervading for a long time (becomes long-lived)
+
+##### भावार्थ (Bhāvārtha)
+
+O Dasras, as Bhujyu, son of Tugra, whose body had grown old, once summoned you two for his own rescue, so I too, praising you at dawn, wish to summon you to my sacrificial hall for the fulfilment of my desire. This sacrificer becomes able to attend heaven and earth by your greatness alone. O venerable Aśvin gods, this seer too, aged in body, is freed from old age by your grace and becomes long-lived.
+
+### Printed p. 521
+
+##### English translation (H. H. Wilson)
+Dasras, may I bring you, by the vehicle of my prayers, (hither), to bestow (upon me your aid), like the infirm son of Tugra: heaven and earth combine (to worship you) through your greatness: may this, your aged (worshipper), adorable (Ashwins), enjoy long life, (exempt) from sin.
+
+##### विशेषविषयगळु (Special Topics)
+
+Dasrā (printed हस्रा (*hasrā*) **NOTE**)—दसु उपक्षयी । शत्रुणां उपक्षपयितारौ । यद्वा । देववैद्यत्वेन रोगाणां उपक्षपयितारौ । (*dasu upakṣayī | śatruṇāṃ upakṣapayitārau | yadvā | devavaidyatvena rogāṇāṃ upakṣapayitārau |*). The meaning: destroyers of enemies, or, being the physicians of the gods, destroyers of diseases. "दस्रा (*dasrā*)" can also mean दर्शनीयौ (*darśanīyau*), that is, those with a beautiful form. In the present Ṛk it is explained as destroyers of enemies. Although of the two Aśvins, sons of Saraṇyū, one has the name Dasra and the other Nāsatya, it is customary to speak of both together as "दस्रा (*dasrā*)". The origin and nature of the Aśvin gods will be explained fully later in this same volume, in the Special Topics of Ṛ. Saṃ. 1-181-4.
+
+Of the words गोः ओहेन (*goḥ ohena*), two meanings are given for गोः (*goḥ*). First, गोः स्तुतिरूपाय वाचः ओहेन वहनेन साथने न। (*goḥ stutirūpāya vācaḥ ohena vahanena sāthane na|*): by means of speech in the form of praise. Second, गोः गंत्र्याः उषसः वहनेन (*goḥ gaṃtryāḥ uṣasaḥ vahanena*): by the bringing, in the form of the movement, of Uṣas.
+
+The author of the Nirukta, having included the word गो (*go*) among the names of the earth (Ni. 2-5), then gives the derivation of this word as follows:
+
+गौरिति पृथिव्या नामधेयं । यद्दूरंगता भवति । यच्चास्यां भूतानि गच्छंति। गातेर्नौकाशो नामकरणः । (*gauriti pṛthivyā nāmadheyaṃ | yaddūraṃgatā bhavati | yaccāsyāṃ bhūtāni gacchaṃti| gāternaukāśo nāmakaraṇaḥ |*) (Ni. 2 7-5) **NOTE**
+
+Because it is spread out very far (दूरंगता भवति (*dūraṃgatā bhavati*)), or because beings move on it (भूतानि गच्छंति (*bhūtāni gacchaṃti*)), the word गौः (*gauḥ*) is a synonym of the earth. The author of the Nirukta explains the word, saying that it can be derived also by adding an affix ऽ (*'*) **NOTE** to the root गा (*gā*), and then goes on:
+
+### Printed p. 522
+अथाऽपि पतुनापि भवत्येकस्मादेव (*athā 'pi patunāpi bhavatyekasmādeva*)
+
+For this very reason, that is, because it is formed from the root गम् (*gam*) or गा (*gā*) giving the sense stated above, this name is well known also for the animal; and having said so, he says आदित्योऽपि गौरुच्यते ; सर्वेऽपि रत्नयो गाव उच्यंते । (*ādityo 'pi gaurucyate ; sarve 'pi ratnayo gāva ucyaṃte |*) **NOTE**. He shows that the word गो (*go*) is also used in the senses of sun, ray and so on. And in explaining a word in Ṛ. Saṃ. 1-164-28 the author of the Nirukta explains the word गौः (*gauḥ*) as माध्यमिका वाक् (*mādhyamikā vāk*) (Ni. 11-42). In the present Ṛk it is proper to explain it as speech in the form of praise. Earlier, in the Ṛk
+
+इमं रथमथि ये सप्त तस्थुः सप्तचक्रं सप्त वहंत्यश्वाः । सप्त स्वसारो अभि सं नवंते यत्र गवां निहिता सप्त नाम ॥ (*imaṃ rathamathi ye sapta tasthuḥ saptacakraṃ sapta vahaṃtyaśvāḥ | sapta svasāro abhi saṃ navaṃte yatra gavāṃ nihitā sapta nāma ‖*) (Ṛ. Saṃ. 1-164-3)
+
+just as गवां (*gavāṃ*) is explained as गवां स्तुतिरूपाणां वाजां (*gavāṃ stutirūpāṇāṃ vājāṃ*), so here too स्तुतिरूपायाः वाचः (*stutirūpāyāḥ vācaḥ*) is fitting.
+
+Ohena—this word, formed from the root वह् (*vah*), is used in the sense of "the means that carries". There are many usages such as ओहसा (*ohasā*) and ओहब्रह्माणः (*ohabrahmāṇaḥ*); they will be explained in their own places.
+
+Jivri—Sāyaṇa has said in the bhāṣya that this word can have the two meanings "aged" or "victorious". But in the Ṛks quoted in the Nirukta (Ni. 3-21)
+
+आ त्वा रंभं न जीव्रयो ररंभा शवसस्पते । उष्मसि त्वा सधस्थ आ ॥ (*ā tvā raṃbhaṃ na jīvrayo raraṃbhā śavasaspate | uṣmasi tvā sadhastha ā ‖*) (Ṛ. Saṃ. 8-45-20)
+
+एना पत्या तन्वं १ सं सृजस्वाधा जिव्री विदथमा वदाथः । (*enā patyā tanvaṃ 1 saṃ sṛjasvādhā jivrī vidathamā vadāthaḥ |*) (Ṛ. Saṃ. 10-85-27)
+
+and the like, Yāska has explained it everywhere as "aged, old". But here the word जूर्ण (*jūrṇa*), which shows the sense of old age, is used again; so in the present Ṛk the word जिव्रि (*jivri*) might also be explained as "victorious".
+
+Jūrṇaḥ—जरया जीर्णांगः (*jarayā jīrṇāṃgaḥ*): the meaning is, one whose body has been worn out by old age. In other places Sāyaṇa has given another meaning to the word जूर्ण (*jūrṇa*). The author of the Nirukta reads the word जूर्ति (*jūrti*) among the names of anger (Ni. 3-9) and among the names of the swift (Ni. 3-9), and gives this derivation:
+
+जीर्णर्जवतेर्वा द्रवरेवा दूनोशेर्वा । (*jīrṇarjavatervā dravarevā dūnośervā |*) (3. 6-4) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 516. pp. 511-516 (batch API)
+**Progress note:** Done through printed p. 522. pp. 517-522 (batch API)
