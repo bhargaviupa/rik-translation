@@ -15578,6 +15578,59 @@ On these grounds it may be said that the देवयान (*devayāna*) descri
 
 Another question is whether the point stated in the Upaniṣads, that the self which has gained fitness to travel by this देवयान (*devayāna*), after reaching the world of Brahman, does not return to earth by repeated coming back, is also indicated in the sentences of the Ṛk-Saṃhitā. That point can be clearly understood from the descriptions in the mantras that will be cited below.
 
+### Printed p. 655
+This is shown in the verses quoted below.
+
+परं मृत्यो अनु परेहि पंथां यस्ते स्व इतरो देवयानात् । चक्षुष्मते तृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् ॥ (*paraṃ mṛtyo anu parehi paṃthāṃ yaste sva itaro devayānāt | cakṣuṣmate tṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān ‖*) (Ṛ. Saṃ. 10-18-1)
+
+एतान्यग्ने नवतिं सहस्रा सं प्र यच्छ वृष्ट इंद्राय भागं । विद्वान् पथ ऋतुशो देवयानानपौलानं दिवि देवेषु धेहि ॥ (*etānyagne navatiṃ sahasrā saṃ pra yaccha vṛṣṭa iṃdrāya bhāgaṃ | vidvān patha ṛtuśo devayānānapaulānaṃ divi deveṣu dhehi ‖*) (Ṛ. Saṃ. 10-98-11)
+
+विद्वा अग्ने वयुनानि क्षितीनां व्यानुषक्कुरुधो जीवसे धाः । अंतर्विद्वा अध्वनो देवयानानतंद्रो दूतो अभवो हविर्वाट् ॥ (*vidvā agne vayunāni kṣitīnāṃ vyānuṣakkurudho jīvase dhāḥ | aṃtarvidvā adhvano devayānānataṃdro dūto abhavo havirvāṭ ‖*) (Ṛ. Saṃ. 1-72-7)
+
+Of these mantras, the first is a prayer addressed to Death. Here it is clear that the path of Death is one thing and the path of the devayāna another. By the phrase यः ते स्वः देवयानात् इतरः (*yaḥ te svaḥ devayānāt itaraḥ*) it is described that the path of Death is different from the devayāna. Therefore the devayāna and Death are opposed, and the intention is indicated that all who travel by the devayāna become free from death and reach the eternal Brahmaloka.
+
+In the second mantra a prayer is addressed to Agni, who knows the nature of the devayāna, that Śantanu Aulāna be brought to the gods. The idea is indicated here that after death the soul, going within the flame of the fire, reaches the world of the gods. In the third mantra too, the same point is clearly indicated.
+
+On these grounds it is understood that the devayāna and the pitṛyāṇa are separate paths that carry the soul after death. To understand these views more clearly, one may learn them in the proper contexts when the purport of the words gātu, rajas and sruti is explained. For example:
+
+द्वे स्तुती अशृणवं पित्थणामहं देवानामुत मर्त्यानां । शाभ्यामिदं विश्वमेजत्समेति यदंतरा पितरं मातरं च ॥ (*dve stutī aśṛṇavaṃ pitthaṇāmahaṃ devānāmuta martyānāṃ | śābhyāmidaṃ viśvamejatsameti yadaṃtarā pitaraṃ mātaraṃ ca ‖*) (Ṛ. Saṃ. 10-88-15)
+
+आ कृष्णेण रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च । हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् ॥ (*ā kṛṣṇeṇa rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca | hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan ‖*) (Ṛ. Saṃ. 1-35-2)
+
+### Printed p. 656
+In mantras such as these the difference between the two paths is made known. This subject will be explained more clearly later, in the respective contexts. This same devayāna is also called in the Upaniṣads the path beginning with the flame (arcirādimārga). That for the virtuous who, after death, reach Brahmaloka by this path there is no return, as described in the Bṛhadāraṇyaka Upaniṣad passages quoted above, is stated in other Upaniṣads as well.
+
+तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तंते नावर्तंते । (*tatpuruṣo 'mānavaḥ sa enānbrahma gamayatyeṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavamāvartaṃ nāvartaṃte nāvartaṃte |*) (Bhā. U. 4-15-2)**NOTE**
+
+सूरद्वारेण ते विरजाः प्रयांति यत्रामृतः स पुरुषोऽह्यव्ययात्मा । (*sūradvāreṇa te virajāḥ prayāṃti yatrāmṛtaḥ sa puruṣo 'hyavyayātmā |*) (Mu. U. 2-11)**NOTE**
+
+Such passages describing the solar door extol the greatness of the devayāna.
+
+##### Grammar
+
+- अतारिष्म — त्य प्लवनतरणयोः धातुः । लुज् उत्तमपुरुषबहुवचने मस् प्रत्ययः । नित्यं जितः (पा. सू. ३-४-९९) इति सकारस्य लोपः । च्चि इत्यस्य सिचादेशः । अर्धधातुकस्येड्वलादेः इति तस्य इडागमः । सिचि वृद्धिः परस्मैपदेशु (पा. सू. ७-२-१) इति सूत्रेण धातोरिको वृद्धिः । रः परो भवति । अंगस्य अडागमः । पादादित्वात् निघातस्वरो न भवति । आद्युदात्तो भवति ।
+- अधायि — डुधाञ् धारणपोषणयोः धातुः । कर्मणि लुज् । प्रथमपुरुषैकवचने त प्रत्ययः । चिण् भावकर्मणोः (पा. सू. ३-१-६६) इति च्चि इत्यस्य चिणादेशः । आतोयुक् चिण् कृतोः (पा. सू. ७-३-३३) इति सूत्रेण चिण् परत्वात् आदंतस्य युकागमः । कित्त्वात् अंतावयवो भवति । चिणो लुक् (पा. सू. ६-४-१०४) इति परस्य प्रत्ययस्य लुक् । अंगस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।**NOTE**
+- देवयानैः — देवानां यानानि (मार्गाः) । या प्रापणे धातुः । ल्युट् प्रत्ययः । युवोरनाकौ (पा. सू. ६-१-१९३) इति अनादेशः । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरो भवति । समासे गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति । तृतीयाबहुवचनांतरूपम् ।
+
+Here the one hundred and eighty-third sūkta ends.
+
+### Printed p. 657
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वर वैदिकमार्गप्रवर्तक श्री वीर बुक्कभूपाल साम्राज्य धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये द्वितीयाष्टके चतुर्थोऽध्यायः समाप्तः. ॥ (*iti śrīmadrājādhirājaparameśvara vaidikamārgapravartaka śrī vīra bukkabhūpāla sāmrājya dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye dvitīyāṣṭake caturtho 'dhyāyaḥ samāptaḥ. ‖*)
+
+ओं तत्त्वत् (*oṃ tattvat*)
+
+Here ends the fourth chapter of the second aṣṭaka of the Ṛgveda Saṃhitā, accompanied by Śrī Sāyaṇa's commentary and a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
+R. Krishna Shetty, Printer, Sri Sharada Press, Hanumantha Rao Street, Mysore.
+
 ---
 
-**Progress note:** Done through printed p. 654. pp. 649-654 (batch API)
+**Progress note:** Done through printed p. 657. pp. 655-657 (batch API)
