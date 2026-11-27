@@ -1,6 +1,6 @@
 # Publishing the volumes — the to-do list
 
-*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 26 2026**. (T14, the Sāyaṇa-bhāṣya reader, added Nov 18–20 2026: see `sayana_bhr.md`).*
+*The one file to open for the state of publication of **all volumes (1–30)**. Last updated: **Nov 27 2026**. (T14, the Sāyaṇa-bhāṣya reader, added Nov 18–20 2026: see `sayana_bhr.md`).*
 *Kept current by every session: a finished point is ticked with its date, a new point is added where it belongs, the counts in §1 are refreshed. Counts are from commands run on the date given; estimates are called estimates. Background: `docs/REQUIREMENTS.md` (Part H), `docs/DESIGN.md`, `docs/LEGACY_VOLUMES_PLAN.md`. Other parked points of the project: `TODO.md`. State of one volume in detail: `volN/STATUS.md`.*
 
 Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you)** only the user can do it · **(script)** costs nothing · **(agents)** uses the session allowance · **(scholar)** / **(advice)** someone outside.
@@ -34,6 +34,42 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 | 17 | Maṃ. 3 Sū. 40 – Maṃ. 4 Sū. 18 | supplied text | 316,000 | 0 | 0 | 471 (88 decided, 383 open) | yes | yes; **in the new structure, review copies built** | C |
 | 18 | Maṃ. 4 Sū. 19 – Maṃ. 5 Sū. 8 | supplied text | 255,000 | 0 | 1 | 333 | yes | yes | C |
 | 19 | Maṃ. 5 Sū. 9–62 | supplied text; **in translation** (another session; p. 7 of 852 on Nov 17) | — | — | — | — | yes | in progress | C |
+
+### 1a. Kannada Text file and PDF content choice, per volume (counted Nov 27 2026 with `grep` on the files and `tools/rv/element_scan.py`; the table of §1 above is of Nov 17 and covers Vols 1–19 only)
+Families of the English file: **A** current `#####` headings (Vols 11, 16–30), **B** bold-line labels (10, 12, 14, 15), **C** four older dialects (1–9). The choice itself: `--without printed_en,grammar` (REQUIREMENTS A6, `docs/PDF_ELEMENTS.md`). `special` and `grammar` only after the `LONG` warnings have been read (D23).
+
+| Vol | Kannada Text file (pages with text) | English file family | PDF content choice (A6): Kannada / English | Note |
+|---|---|---|---|---|
+| 1 | 707 pages | C | yes / no (F51) | older file (scan-based, 13 gap marks) |
+| 2 | 800 pages | C | yes / no (F51) | older file (8 gap marks) |
+| 3 | 646 pages | C | yes / no (F51) | whole, no gaps |
+| 4 | 602 pages | C | yes / no (F51) | 5 pages have no page of their own in the supplied text (187, 227, 304, 326, 534) |
+| 5 | 691 pages | C | yes / no (F51) | 35 gap marks (older file) |
+| 6 | 614 pages | C | yes / no (F51) | older file (4 gap marks) |
+| 7 | — | C | no file / no (F51) | no supplied text: upload `vol7/html/rig_7_1.md`, … |
+| 8 | — | C | no file / no (F51) | no supplied text: upload `vol8/html/rig_8_1.md`, … |
+| 9 | — | C | no file / no (F51) | no supplied text: upload `vol9/html/rig_9_1.md`, … |
+| 10 | — | B | no file / yes (tested on 15; `bhashya` sections long) | no supplied text: upload `vol10/html/rig_10_1.md`, … |
+| 11 | 695 pages | A | yes / yes |  |
+| 12 | 726 pages | B | yes / yes (tested on 15; `bhashya` sections long) |  |
+| 13 | — | — | no file / no English file | file empty; waits for its re-translation and text |
+| 14 | 950 pages | B | yes / yes (tested on 15; `bhashya` sections long) |  |
+| 15 | 800 pages | B | yes / yes (tested on 15; `bhashya` sections long) |  |
+| 16 | 880 pages | A | yes / yes |  |
+| 17 | 1001 pages | A | yes / yes |  |
+| 18 | 846 pages | A | yes / yes |  |
+| 19 | 850 pages | A | yes / yes |  |
+| 20 | 841 pages | A | yes / yes |  |
+| 21 | 833 pages | A | yes / yes |  |
+| 22 | 221 pages | — | yes / no English file | **partial**: 221 of 601 pages; 380 listed in `vol22/review/kn_gaps.md` |
+| 23 | 813 pages | A | yes / yes |  |
+| 24 | 797 pages | A | yes / yes |  |
+| 25 | 873 pages | — | yes / no English file | 5 pages have no page of their own (217, 475, 574, 575, 681); no English file |
+| 26 | 881 pages | A | yes / yes | curated file of the translation (main), not the script one |
+| 27 | 982 pages | A | yes / yes |  |
+| 28 | 671 pages | A | yes / yes | pages 162, 604, 605 are missing from the supplied text (see change log) |
+| 29 | 1024 pages | A | yes / yes |  |
+| 30 | 1279 pages | A | yes / yes |  |
 
 Groups: **A** read from page scans (older layout, many doubt marks, no Kannada book). **B** from the supplied text, older style with remarks in the text. **C** from the supplied text, new style (no remarks, questions listed). **D** to be translated.
 
@@ -73,7 +109,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 |---|---|---|
 | S1 | Supplied text in the repo, pages checked | you, script |
 | S2 | Kannada text made from it; verses from the reference | script |
-|  | *(Nov 26 2026) whole-volume Kannada Text files by `tools/rv/kn_full.py`: ✓ 3, 4, 22 (partial, 221 of 601 pages), 25; 26 already had the curated file on main — still to make: 7, 8, 9, 10, 13, 28 (no supplied text in the repository); older scan-based files stay for 1, 2, 5, 6* | script |
+|  | *(Nov 26 2026) whole-volume Kannada Text files by `tools/rv/kn_full.py`: [x] 3, 4, 25; [~] 22 (221 of 601 pages); 26 and 28 came with the curated files on main; [ ] 7, 8, 9, 10, 13 (no supplied text in the repository) **(you)**; older scan-based files stay for 1, 2, 5, 6 — per volume: §1a* | script |
 | S3 | Volume cut into units; English laid in, every paragraph placed once | script |
 | S4 | Scan-read Sanskrit and numbers replaced from the supplied text (group A only) | script |
 | S5 | Marks and remarks out of the text: settled, removed, or turned into a question | script, agents |
@@ -132,6 +168,12 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | T11 | Review PDFs still in `publish/out/` moved to their volume folders | all | [ ] |
 | T14 | **By-product book: Sāyaṇa-bhāṣya reader** (Saṃhitā, Pada, bhāṣya, English Gist, Grammar, particulars; the rest left out), built by `publish/bhashya_book.py` from a volume's English file | all | [~] Nov 18 2026: **the English of the bhāṣya is being made by Fable agents, direct from Sāyaṇa's Sanskrit** (runbook `docs/BHASHYA_RUN.md`; one file per sūkta in `volN/bhashya_en/`; a reference text of Sāyaṇa from vishvasa.github.io settles misread words, logged in `volN/review/bhashya_readings.tsv`; open questions in `volN/review/bhashya_notes.tsv`). **Vol 11 done (21 sūktas)**; **Vol 16 done (33 sūktas; 3.7–3.31 by Fable, 3.32–3.39 by Sonnet from Nov 19)**; Vol 17: 3.40 done (made before the reference text: second pass due); Vol 18 not begun. Run stopped by the user at 3 am IST Nov 19 2026; choice of model (Fable or Sonnet) to be decided by the user before it goes on. Script made; sample `publish/out/Rigveda_Bhashya_Reader_Vol17_S40.md`. Runs on the labelled layout (tried: Vols 11, 16, 17, 18); refuses the older layouts (tried: Vols 5, 12), which wait for T2. Found in Vol 17: the Kannada Anuvāda and the particulars stand inside the Sāyaṇa block of 16 sūkta introductions (the reader takes them out; the volume itself still has them); Sū. 3.42 and 3.62 have no particulars; 4 Grammar sections only. Open **(you)**: is the Gist full enough to stand as the English of the bhāṣya, or is a fuller rendering wanted? |
 | T15 | **Second pass of the legacy volumes** (Kannada book from the supplied text, sieve, reading in page batches, repairs, coverage of the Wikisource layers, pictures) — `tools/rv/sp_apply.py`, `sp_report.py`, `docs/SECOND_PASS_REPORT.md` | Vols 1–6 | [~] **Vol 6: read and repaired Nov 24 2026** (618 pages, 1,188 findings, 871 applied; 314 questions and the open items of `vol6/review/second_pass/STATUS_REPORT.md` await the editor); **Vol 1: read and repaired Nov 25 2026** (720 pages, 1,812 findings, 1,548 applied; open items in `vol1/review/second_pass/open.tsv`); Vol 5 in progress in another session; Vols 2–4 not started |
+| T16 | **Content choice for the PDFs (REQUIREMENTS A6):** `publish/tools/elements.py` + `--without` in `publish/volbook.py`. | all with a Kannada file; English families A, B | [x] Nov 27 2026 built and tried at the HTML stage (Vols 11, 15, 17); **[ ] tried on a real PDF** (WeasyPrint not installed in the cloud session) **(script)** |
+| T17 | Whole-volume Kannada Text files: `tools/rv/kn_full.py` (one tool; refuses to overwrite; gates on page markers, digits, letters). | Vols 3, 4, 22, 25 done; 7–10, 13 wait for text | [x] tool; [ ] 7, 8, 9, 10, 13 **(you: upload)** |
+| T18 | **Rebuild the PDFs built before Nov 27 2026**: a page mark glued to the line above was lost (Vol 17 Kannada: 5 pages). Check `id="pN"` count against the md (D22), then make that check a script. | all built PDFs | [ ] **(script)** |
+| T19 | Review the `LONG` sections before `special`/`grammar`/`bhashya` are left out of a PDF: Vol 5 Kannada grammar (6,262 lines), Vol 16 grammar (1,817), Vol 28 Kannada bhāṣya (703), Vol 15 bhāṣya (415 Kannada, 266 English). | Vols 5, 15, 16, 28 | [ ] **(agents / you)** |
+| T20 | Reference names in the new Kannada files (Vols 3, 4, 22, 25): `refs_apply.py N --scripts kannada` preview = 762 changes, 683 flagged; a reader looks first. | Vols 3, 4, 22, 25 | [ ] **(agents)** |
+| T21 | Legacy English Vols 1–9 into the layout of family A, so that the choice covers them. | Vols 1–9 | — parked by the user Nov 27 2026 (F51) |
 
 ---
 
@@ -145,6 +187,8 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 27 2026: **Content choice for the PDFs** (REQUIREMENTS A6, D22, D23, F50, F51; `docs/PDF_ELEMENTS.md`): `publish/tools/elements.py`, `--without` / `pubcfg "without"` in `publish/volbook.py`; `tools/rv/element_scan.py` shows which elements each volume's files carry (Kannada files uniform; English families A, B, C). Tried at the HTML stage on Vols 11, 15, 17 (Vol 17: 441 printed-English sections left out of the Kannada and the English PDF, all 1,001 page marks kept). Found and fixed: page marks glued to the line above were lost in the Kannada PDF (T18).
+- Nov 26 2026: **Kannada Text files made for Vols 3, 4, 25 and (partly) 22** by `tools/rv/kn_full.py` (T17) and merged to `main` with the Vol 26 conflict resolved in favour of the curated file; Vols 7, 8, 9, 10, 13 still wait for text.
 - Nov 24 2026: **Vol 5 second pass done** (S0–S6: Kannada book from the supplied text, all supplied pages 2–708 read in 52 batches, 1 420 repairs applied, 205 questions in `vol5/review/second_pass/questions.tsv`, Wikisource coverage of the 152 Ṛks checked, 30 pictures listed). Bhāṣya English not made; 20 pages are not in the supplied text. See `vol5/STATUS.md`.
 - Nov 19 2026: supplied text of Vol 6 complete (p. 82 added as its own file; whole volume pp. 2–619).
 - Nov 19 2026: supplied text of Vol 5 complete (file 5, pp. 468–485, added; whole volume pp. 2–708).

@@ -35,3 +35,5 @@
 15. Steps B, D, E, F, G of the design: translation in the new form, editor's decisions and the release gate, the older volumes, the scan-based volumes (need the user's machine-read text for Vols 1–4, 6–10, 13), tidy-up (`OPERATING.md`, short `CLAUDE.md`).
 16. Move the review PDFs that still sit in `publish/out/` to their volume folders; `publish/out/` is for final copies only.
 17. Branch `claude/dreamy-cerf-z4h3f4`: kept unmerged; consult when the printer takes over all volumes, then delete.
+18. **Legacy English Vols 1–9 and the PDF content choice** (user, Nov 27 2026: not now). *For now:* the choice (`--without`) works for the Kannada files and for English families A and B; Vols 1–9 are not covered (Vols 6–9 are page-based, with no Ṛk headings). *Remains:* decide later whether to convert them to the current layout (REQUIREMENTS F51, PUBLICATION_TODO T21).
+19. **Printed English of the edition in the PDF: default** (REQUIREMENTS F50). *For now:* nothing is left out unless named. *Remains:* the user decides whether it is left out by default.
