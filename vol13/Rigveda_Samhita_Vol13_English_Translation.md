@@ -4317,6 +4317,121 @@ Because Indra shines with radiance, he is addressed by the word देव (*deva
 
 By the sentence विद्यामेषं वृजनं जीरदानुं (*vidyāmeṣaṃ vṛjanaṃ jīradānuṃ*) the hope is expressed that we, the sacrificers, may by Indra's grace obtain food, strength, victory, and the power of giving that gains it, since the sacrifice is completed by the coming of the gods. The word वृजन (*vṛjana*) is stated among the names of strength (Ni. 3-9).
 
+### Printed p. 175
+
+##### Grammar
+
+- मानेभ्यः—तादर्थ्ये चतुर्थी वाच्या इति वचनात् तादर्थ्ये चतुर्थी आगता ।
+- विश्वजन्या—विश्वे जन्याः यस्य सः । बहुव्रीहौ प्रकृत्या पूर्वपदं (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः भवति । सुपां सुलुक् (पा. सू ७-१-३९) इति सुविभक्तेः आकारादेशः ।
+- शुरुधः—रुधिर् आवरणे धातुः । क्विप् च इति क्विप् प्रत्ययः । शुचः रोधयित्र्यः इत्यर्थः । पूर्वपदस्य अंत्यस्य पृषोदरादीनि यथोपदिष्टं इति लोपः भवति । गतिकारकोपपदात् कृत् (पा. सू. ६-२-४६) इति कृदुत्तरपदप्रकृतिस्वरः भवति । द्वितीयाबहुवचनांतरूपं ।
+- गो आग्राः—सर्वत्र विभाषा गोः (पा. सू. ६-१-१२२) इति प्रकृतिभावः भवति ।
+- स्तवानेभिः—ष्टुञ् स्तुतौ धातुः । व्यत्ययेन कर्मणि कर्तृप्रत्ययः शानच् आगतः । बहुलं छंदसि इति शपः लुक् न भवति । धातोः इकः गुणः अवादेशः । तास्यनुदात्तेत् (पा. सू. ६-१-१८६) इति लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः भवति । भिसि परे बहुलं छंदसि इति ऐस् विकल्पितत्वात् न भवति । बहुवचने झल्येत् इति एत्वं ।
+- स्ववसे—पूर्ववत् व्यत्ययेन कर्मणि कर्तृप्रत्ययः । लट् मध्यमपुरुषैकवचनांतरूपं । तिजंतनिघातस्वरः भवति ॥ ८ ॥
+
+## Sūkta 170 (Maṇḍala 1)
+
+The hundred and sixty-ninth sūkta ends here.
+
+The hundred and seventieth sūkta.
+
+### Printed p. 176
+Anuvāda: This sūkta, beginning न नूनमस्ति (*na nūnamasti*), is the sixth sūkta in the twenty-third anuvāka. It has five Ṛks. Its seers are Agastya and Indra. The Anukramaṇikā says: न नूनं पंचागस्त्येनैंद्रे हविषि मरुतामुद्यत इंद्रागस्त्ययोः संवाद ऐंद्रस्तत्राद्या तृतीया चेंद्रवाक्यं चतुर्थि चादौ बृहती तिस्रोऽनुष्टुभ (*na nūnaṃ paṃcāgastyenaiṃdre haviṣi marutāmudyata iṃdrāgastyayoḥ saṃvāda aiṃdrastatrādyā tṛtīyā ceṃdravākyaṃ caturthi cādau bṛhatī tisro 'nuṣṭubha*). Since the sūkta is a dialogue between Indra and Agastya, the first, third and fourth Ṛks are Indra's words, so Indra is the seer of those. The remaining Ṛks, the second and fifth, are Agastya's words, so Agastya is their seer. The first Ṛk is in Bṛhatī metre; the next three are Anuṣṭubh; the last is Triṣṭubh. The special application is by the Liṅga. Concerning this Ṛk Yāska says in his Nirukta: अगस्त्य इंद्राय हविर्निरुप्यस्य मरुद्भ्यः संप्रदित्सां चकार स इंद्र एत्य परिदेवयां चक्रे (*agastya iṃdrāya havirnirupyasya marudbhyaḥ saṃpraditsāṃ cakāra sa iṃdra etya paridevayāṃ cakre*) (Ni. 1-5): the sage Agastya offered to the Maruts the oblation intended for Indra; Indra then came and, in anger, reproached Agastya insistently for this deed.
+
+**Sūkta 170**
+Maṇḍala 1; Anuvāka 23; Sūkta 170. Aṣṭaka 2; Adhyāya 4; Varga 10. Number of Ṛks in the sūkta: 5. Seer: 1, 3, 4 Indra; 2, 5 Agastya. Deity: Indra. Metre: 1 Bṛhatī; 2–4 Anuṣṭubh; 5 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न नू॒नमस्ति॒ नो श्वः कस्तद्वे॑द॒ यदद्भु॑तं ।  
+> अ॒न्यस्य॑ चि॒त्तम॒भि सं॑च॒रेण्य॑मु॒ताधी॑तं॒ वि न॑श्यति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । नूनं । अस्ति । नो इति । श्वः । कः । तत् । वेद । यत् । अद्भुतं ।  
+> अन्यस्य । चित्तं । अभि । संचरेण्यं । उत । आधीतं । वि । नश्यति ॥ १ ॥
+
+### Printed p. 177
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परिदेवनप्रकारः प्रतिपाद्यते ! इंद्र आह । अद्यतनं यदस्ति तन्नूनमद्य नास्ति ।
+> नूनमत्र विचिकित्सार्थे । अश्राद्यति यद्यपि नास्ति तथाप्युत्तरवाक्ये श्व इति दर्शनादत्राद्यति गम्यते । तथा श्वोऽपि नूनं नो । उशब्दोऽवधारणे । श्वस्तनमपि नैव
+> नास्ति । अद्य यथास्मदर्थनिरुप्तमस्मभ्यं नास्ति किल श्वः कथं लप्स्यत इति भावः ।
+> यदद्भुतमन्यस्मै निरुप्यान्यस्मै दत्तमिति यदस्ति वैपरीत्यं तत्को वेद । यद्वा ।
+> यदद्भुतं भावि कार्यं यदस्ति तत्को वेद । अद्य श्वो वा लभ्यत इश्याशा न कार्येत्युक्तं भवति । तदेवाह । अभि संचरेण्यं सर्वतः संचार्यन्यस्य चित्तं मानसं जाना
+> तीति शेषः । उतापि चाधीतमाध्यातं चिंतितमपि न दृश्यं किमु सकृत्सृतं वि नश्यतीति ॥
+
+##### Gist of the bhāṣya
+
+The manner of the lament is set out. Indra speaks. What exists today surely does not exist today; नूनं (*nūnaṃ*) is here in the sense of doubt. Although "today" is not in the text, since श्वः (*śvaḥ*) is seen in the later sentence, "today" is understood. So tomorrow too surely does not exist; नो (*no*) (the particle u) is for emphasis: the tomorrow-portion is not there either. What was prepared for us today is not ours; how will it be obtained tomorrow? Who knows the wonder, namely the reversal that what was prepared for one was given to another? Or else: who knows what wonderful future event there will be; hope that it will be obtained today or tomorrow should not be entertained. He explains: who knows the mind of another that ranges everywhere? And even what has been thought, studied, is not seen; how much more what is heard once — it perishes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—(now, what may happen)
+- नूनं (*nūnaṃ*)—certainly
+- नास्ति (*nāsti*)—is not known
+- श्वः (*śvaḥ*)—tomorrow (what may happen, too)
+- नॊ (*nò*)—is not known (this being so)
+- यत् अद्भुतं (*yat adbhutaṃ*)—what wonderful such matter there is
+- तत् (*tat*)—that
+- कः (*kaḥ*)—which man
+- वेद (*veda*)—can know?
+- अभि (*abhi*)—everywhere (in all matters)
+- संचरेण्यं (*saṃcareṇyaṃ*)—moving about
+- अन्यस्य (*anyasya*)—of another man
+- चित्तं (*cittaṃ*)—the mind
+- (जानाति (*jānāti*)—can it be known?)
+- उत (*uta*)—besides this
+- आधीतं (*ādhītaṃ*)—even a matter well studied (in course of time)
+- वि नत्यति (*vi natyati*)—perishes (is forgotten) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+(Indra speaks thus: O Agastya) What will happen today or tomorrow cannot be known to anyone. Who can know such a wonder (that is, what may happen in the future)? This being so, can the mind of another person, ranging over many matters, be known? It cannot. For however well a matter has been studied, in course of time it is forgotten.
+
+##### English translation (H. H. Wilson)
+(Indra Speaks),— It is not certain what to-day or what tomorrow will yield to us : who comprehends this mystery ? Verily; the mind of any other (being) is of an unsteady (nature), and even that which has been profoundly studied, is (in time) forgotten.
+
+### Printed p. 178
+
+##### विशेषविषयगळु (Special Topics)
+
+न नूनं (*na nūnaṃ*)—अद्यतनं यदस्ति तत् अद्य नास्ति । नूनमत्र विचिकित्सार्थे । (*adyatanaṃ yadasti tat adya nāsti | nūnamatra vicikitsārthe |*) Among the three kinds of time-made distinctions, past, present and future, the "today" distinction, i.e. that of the present, what is now going on, does not exist: this is the meaning. In this Ṛk the word अद्य (*adya*) is not used; yet since in the following sentence the word श्वः (*śvaḥ*) (tomorrow), denoting future time, is used, it is proper to supply अद्य (*adya*) here; so Sāyaṇa explains: अद्य इति यद्यपि नास्ति तथापि उत्तरवाक्ये श्वः इति दर्शनात् अद्येति गम्यते (*adya iti yadyapi nāsti tathāpi uttaravākye śvaḥ iti darśanāt adyeti gamyate*). Yāska: नूनमिति विचिकित्सार्थीयो भाषायामुभयमन्वध्यायं विचिकित्सार्थीयश्च पदपूरणश्च (*nūnamiti vicikitsārthīyo bhāṣāyāmubhayamanvadhyāyaṃ vicikitsārthīyaśca padapūraṇaśca*) (Ni. 1-5). The word नूनं (*nūnaṃ*) is used in the sense of doubt elsewhere too, not only in the Vedic metres; in the metres it is used both in the sense of doubt and as a filler. Durgācārya explains: विचिकित्सा नाम विवेकपूर्वको अवधारणाभिप्रायः (*vicikitsā nāma vivekapūrvako avadhāraṇābhiprāyaḥ*)—in situations where doubt has arisen, determination by examination is what the word विचिकित्सा (*vicikitsā*) conveys. Sāyaṇa upholds that नूनं (*nūnaṃ*) is used here in the sense of विचिकित्सा (*vicikitsā*).
+
+श्वः नूनं न (*śvaḥ nūnaṃ na*)—तथा श्वस्तनमपि नैव नास्ति (*tathā śvastanamapi naiva nāsti*): as there is no present-time distinction, so also there is no future-time designation "tomorrow": this is the meaning. Here Sāyaṇa cites Yāska: अत्र यास्कः—अगस्त्य इंद्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सांचकार स इंद्र एत्य परिदेवयांचक्रे (*atra yāskaḥ—agastya iṃdrāya havirnirupya marudbhyaḥ saṃpraditsāṃcakāra sa iṃdra etya paridevayāṃcakre*) (Ni. 1-5). Yāska's meaning: when the sage Agastya, having prepared an oblation for Indra, wished to offer it to the Maruts, Indra, because the oblation due to him was being offered otherwise, expressed the grief of his mind by this mantra; and Sāyaṇa quotes that statement.
+
+अद्य यथा अस्मदर्थं निरुप्तं अस्मभ्यं नास्तिकिलश्वः कथं लप्स्यते (*adya yathā asmadarthaṃ niruptaṃ asmabhyaṃ nāstikilaśvaḥ kathaṃ lapsyate*): when the oblation prepared for me today does not reach me, how can I be sure of obtaining it tomorrow? Thus the manner of Indra's grief is described.
+
+यदद्भुतं तत् को वेद (*yadadbhutaṃ tat ko veda*)—अन्यस्मै निरुप्य अन्यस्मै दत्तमिति यदस्ति वैपरीत्यं तत् को वेद (*anyasmai nirupya anyasmai dattamiti yadasti vaiparītyaṃ tat ko veda*). One kind of meaning is set out: no one knows that there will be such a reversal as an oblation prepared for one being offered to another.
+
+### Printed p. 179
+यद्वा यदद्भुतं भावि कार्यं यदस्ति तत्को वेद अद्य श्वो वा लभ्यते इत्याशा न कार्या (*yadvā yadadbhutaṃ bhāvi kāryaṃ yadasti tatko veda adya śvo vā labhyate ityāśā na kāryā*). Since no one knows what wonderful event will occur in future, hope that the prepared oblation will be obtained today or tomorrow cannot be entertained: a statement expressing Indra's grief. This second meaning too is explained.
+
+अभि संचरेण्यं चित्तं (*abhi saṃcareṇyaṃ cittaṃ*)—सर्वतः संचारि अन्यस्य मानसं (*sarvataḥ saṃcāri anyasya mānasaṃ*): the mind of others is always of a roving nature and not steady. उत अपिच आधीतं विनश्यति (*uta apica ādhītaṃ vinaśyati*)—even though I, Indra, was sure that the oblation prepared for me would reach me, it is lost, it does not reach me; and who knows the non-attainment of this wonderful oblation to come? Thus Indra's distress is described.
+
+Yāska quotes and explains this Ṛk; in it he shows that नूनं (*nūnaṃ*) is used in the sense of doubt (determination): न नूनमस्त्यद्यतनं नो एव श्वस्तनं । अद्य आस्मिन् द्यवि द्युरित्यहो नामधेयं द्योतत इति सतः । श्व उपाशंसनीयः कालः । ह्यो हीनः कालः । कस्तद्वेदयदद्भुतं कस्तद्वेद यदभूत् । इदमपीतरदद्भुतमभूतमिव । अन्यस्य चित्तमभिसंचरेण्यं अभिसंचारि ॥ अन्नो नानेयः । चित्तं जीततेः । उताधीतं विनश्यतीति । अप्याध्यातं विनश्यतीति । आध्यातं अभिप्रेतं (*na nūnamastyadyatanaṃ no eva śvastanaṃ | adya āsmin dyavi dyurityaho nāmadheyaṃ dyotata iti sataḥ | śva upāśaṃsanīyaḥ kālaḥ | hyo hīnaḥ kālaḥ | kastadvedayadadbhutaṃ kastadveda yadabhūt | idamapītaradadbhutamabhūtamiva | anyasya cittamabhisaṃcareṇyaṃ abhisaṃcāri ‖ anno nāneyaḥ | cittaṃ jītateḥ | utādhītaṃ vinaśyatīti | apyādhyātaṃ vinaśyatīti | ādhyātaṃ abhipretaṃ*) (Ni. 1-7). The word नूनं (*nūnaṃ*) conveys determination after careful examination. The word द्यवि (*dyavi*), formed from the root द्युत् (*dyut*) meaning shining, denotes the day and is indicated here by अद्यतन (*adyatana*). What was sure to be obtained this day is not obtained; this being so, there is no certainty even in the time hoped for later that the oblation will be obtained. The word श्वः (*śvaḥ*) denotes the time in which hope may be fulfilled, ह्यः (*hyaḥ*) the time gone by. अद्भुत (*adbhuta*) is explained by अभूत् (*abhūt*), the past sense; since what was prepared now for me is not mine, who can be sure it will come later to me or to another? अन्यस्य चित्तं (*anyasya cittaṃ*), the mind of others, अभिसंचरेण्यं (*abhisaṃcareṇyaṃ*)—
+
+### Printed p. 180
+roving, of fickle nature; hence what is now prepared does not reach me: this is the meaning. And उत (*uta*), अपि (*api*), अथ (*atha*) are said to be synonyms in the Veda conveying one meaning. For अद्य (*adya*), श्वः (*śvaḥ*), ह्यः (*hyaḥ*), अद्भुतं (*adbhutaṃ*), अन्यः (*anyaḥ*), चित्तं (*cittaṃ*), आधीतं (*ādhītaṃ*) the explanations are: द्योतत इति सतः (*dyotata iti sataḥ*), श्वः उपाशंसनीयः कालः (*śvaḥ upāśaṃsanīyaḥ kālaḥ*), ह्यः हीनः कालः (*hyaḥ hīnaḥ kālaḥ*), अद्भुतं अभूत् (*adbhutaṃ abhūt*), अन्यः नानेयः (*anyaḥ nāneyaḥ*), चित्तं चेततेः (*cittaṃ cetateḥ*), आध्यातं अभिप्रेतं (*ādhyātaṃ abhipretaṃ*).
+
+##### Grammar
+
+- अस्ति—निपातैर्य्यद्यदि- (पा. सू. ८-१-३०) इति निघातप्रतिषेधात् धातुस्वरः अवशिष्यते ।
+- वेद—विद ज्ञाने धातुः । विदो लटो वा (पा.सू.३-४-८३) इति लटः तिपः णलादेशः । धातोः लघोपधस्य गुणः । तिजंतनिघातस्वरः भवति ।
+- अद्भुतं—भू सत्तायां धातुः । अस्मिन् अद् इत्युपपदे अदिभुवो डुतच् (उ.सू. ६७९) इति डुतच् प्रत्ययः । डित्त्वात् टेः (ऊ) लोपः । व्यत्ययेन आद्युदात्तस्वरः भवति । **NOTE**
+- संचरेण्यं—चर गतिभक्षणयोः धातुः । सम् उपसर्गः । बहुलग्रहणात् औणादिकः एण्यप्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरः भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः भवति ।
+- आधीतं—इज् अध्ययने धातुः । कर्मणि क्तप्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः प्रकृतिस्वरः भवति ।
+- नश्यति—णश अदर्शने धातुः । लट् प्रथमपुरुषैकवचनांतरूपं । तिजंतनिघातस्वरः भवति ॥ १ ॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं न॑ इंद्र जिघांससि॒ भ्रात॑रो म॒रुत॒स्तव॑ ।  
+> तेभिः॑ कल्पस्व साधु॒या मा नः॑ स॒मर॑णे वधीः ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 174. pp. 169-174 (batch API)
+**Progress note:** Done through printed p. 180. pp. 175-180 (batch API), Saṃhitā block put under Ṛk 1; placeholder remark removed
