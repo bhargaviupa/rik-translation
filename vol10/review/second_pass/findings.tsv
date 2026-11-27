@@ -303,3 +303,49 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 150	S1	R1	Ṛ. Saṃ. reference of admasadām ṛk	7-83-3	7-83-7	Kannada p.150 ೭-೮೩-೭	applied	
 150	S1	R1	Uṇādi sūtra of yu suffix	3-300	3-200	Kannada p.150 ೩-೨೦೦	applied	
 150	S3	R1	Pā. Sū. 6-4-77 vārttika	6-4-77, vārttika	6-4-77-1, vārttika	Kannada p.150 ೬-೪-೭೭-೧	applied	
+152	S16	R1	Ni. reference after 'kam, īm, id, u' quotation	 meaningless' (Ni. 1-9)."	 meaningless'."	Kannada p.152 bhāṣya ends ಕಮೀಮಿದ್ವಿತೀತಿ ಯಾಸ್ಕೇನೋಕ್ತತ್ವಾತ್ with no Nirukta number; number the print has not is removed	applied	
+153	S1	R1	running head Varga	Varga 7.)	Varga 6.)	Kannada head ನ. ೬ (ವ. ೬)	applied	
+153	S1	R1	Ṛ. Saṃ. reference of kva svid asya rajaso	(Ṛ. Saṃ. 1-168-6, as read from the print;	(Ṛ. Saṃ. 1-18-6, as read from the print;	Kannada p.153 ಋ. ಸಂ. ೧-೧೮-೬	applied	
+155	S1	R1	running head Varga	Varga 7.)	Varga 6.)	Kannada head ವ. ೬	applied	
+157	S1	R1	running head Varga	Varga 7.)	Varga 6.)	Kannada head ಸ. ೬ (Varga 6)	applied	
+157	S2	R1	Pā. Sū. for dṛśe vikhye ca	(Pā. Sū. 3-4-11)	(Pā. Sū. 3-1-11)	Kannada p.157 ದೃಶೇ ವಿಖ್ಯೇ ಚ (ಪಾ. ಸೂ. ೩-೧-೧೧)	applied	
+158	S2	R1	Pā. Sū. number added after sāvekācas tṛtīyādiḥ	*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168)	*sāvekācas tṛtīyādiḥ*	Kannada p.158 ಸಾವೇಕಾಚಸ್ತೃತೀಯಾದಿಃ has no sūtra number; number the print has not is removed	applied	
+158	S1	R1	Pā. Sū. of śatur anumo nadyajādī	(Pā. Sū. 6-1-173)	(Pā. Sū. 6-1-1-3)	Kannada p.158 ೬-೧-೧-೩ applied as printed (impossible form; open.tsv)	applied	
+159	S1	R1	running head Varga	Varga 8.)	Varga 6.)	Kannada head ವ, ೬ applied as printed	applied	
+159	Q1	R1	cedakṣaiḥ (q89) Devanagari	लभते चेद्[?]ः संताड्य	लभते चेदक्षैः संताड्य	Kannada p.159 ಲಭತೇ ಚೇದಕ್ಷೈಃ ಸಂತಾಡ್ಯ (real reading cedakṣaiḥ)	applied	
+159	Q1	R1	cedakṣaiḥ (q91) IAST twin	labhate ced[?]ḥ saṃtāḍya	labhate cedakṣaiḥ saṃtāḍya	Kannada p.159 ಚೇದಕ್ಷೈಃ (IAST twin)	applied	
+159	Q2	R1	pitr[?]neti (q88,q90)	pitr[?]neti	pitr[?]neti	Kannada p.159 ಪಿತ್ಥನೇತಿ is a non-word; mark stays on Deva and IAST	kept	
+159	Q2	R1	remark mark (q92)	[?] in own remark		remark not edited	kept	
+160	S1	R1	running head Sū.	"Maṃ. 1 A. 18 Sū. 124".)	"Maṃ. 1 A. 18 Sū. 123".)	Kannada head ಸೂ. ೧೨೩ applied as printed (open.tsv)	applied	
+160	Q2	R1	pitr[?]neti (q93,q95)	pitr[?]neti	pitr[?]neti	Kannada p.160 ಪಿತ್ಥನೇತಿ non-word; mark stays	kept	
+160	Q2	R1	tāṃ tatrākṣyairāṣṇanti [?] (q94,q96)	āṣṇanti [?] sā	āṣṇanti [?] sā	Kannada p.160 ತತ್ರಾಕ್ಷೈರಾಘ್ವಂತಿ non-word; mark stays	kept	
+161	Q2	R1	pitr[?]neti (q97,q98)	pitr[?]neti	pitr[?]neti	Kannada p.161 ಪಿತ್ಥನೇತ್ಯ non-word; mark stays on Deva and IAST	kept	
+161	Q2	R1	remark mark (q99)	[?] in own remark		remark not edited	kept	
+162	Q1	R1	tāṃ tatrākṣair āghnanti [?] (q100) Devanagari	तत्राक्ष्यैराष्णन्ति [?] सा	तत्राक्षैराघ्नन्ति सा	Kannada p.162 ತಾಂ ತತ್ರಾಕ್ಷೈರಾಘ್ನಂತಿ ಸಾ (akṣair āghnanti: real words, fits ದಾಳಿಗಳಿಂದ ಹೊಡೆದ); letters ಕ್ಷ್ಯೈರಾಷ್ಣ→ಕ್ಷೈರಾಘ್ನ	applied	
+162	Q1	R1	tāṃ tatrākṣair āghnanti [?] (q101) IAST twin	tatrākṣyairāṣṇanti [?] sā	tatrākṣairāghnanti sā	Kannada p.162 ತತ್ರಾಕ್ಷೈರಾಘ್ನಂತಿ (IAST twin)	applied	
+163	S1	R1	Ni. reference for apsas as a name of form	(Ni. 3-13, as printed "೩-೧೩")	(Ni. 3-15, as printed "೩-೧೫")	Kannada p.163 (ನಿ. ೩-೧೫)	applied	
+163	S2	R1	Pā. Sū. for ca (lengthening of preceding word)	*ca*, Pā. Sū. 6-3-138)	*ca*, Pā. Sū. 6-2-138)	Kannada p.163 ಚೌ(ಪಾ. ಸೂ. ೬-೨-೧೩೮)	applied	
+163	Q2	R1	tad[?]ā bhavati (q102)	tad[?]ā bhavati	tad[?]ā bhavati	Kannada p.163 ತದ್ರಾ ಭವತಿ: ತದ್ರಾ is not a word; mark stays	kept	
+164	S2	R1	Pā. Sū. of śatur anumo nadyajādī	(Pā. Sū. 6-1-173) gives it the acute	(Pā. Sū. 6-1-133) gives it the acute	Kannada p.164 ೬-೧-೧೩೩ applied as printed	applied	
+164	S1	R1	Uṇādi sūtra of sthāyitañcivañci…rak	U. Sū. 3-160	U. Sū. 2-170	Kannada p.164 (ಉ. ಸೂ. ೨-೧೭೦)	applied	
+164	S13	R6	reading of the Kannada word for 'marker ṅ' in remark	as printed "ಚಿತ್ವ"?]	as printed "ಜಿತ್ವ"]	Kannada p.164 reads ಜಿತ್ವ (twice, also in riṇīte)	applied	
+168	S1	R1	running head Sū.	"Maṃ. 1 A. 18 Sū. 124".)	"Maṃ. 1 A. 18 Sū. 123".)	Kannada head ಸೂ. ೧೨೩ applied as printed (open.tsv)	applied	
+168	S1	R1	Uṇādi sūtra of khanikaṣyañji	(U. Sū. 4-139 as read)	(U. Sū. 4-579)	Kannada p.168 (ಉ. ಸೂ. ೪-೫೭೯)	applied	
+171	S1	R1	Ṛ. Saṃ. reference of āno bhara bhagam indra dyumantam	(Ṛ. Saṃ. 3-30-19, as read	(Ṛ. Saṃ. 3-20-19, as read	Kannada p.171 ಋ. ಸಂ. ೩-೨೦-೧೯	applied	
+172	S2	R1	Pā. Sū. for asme (śī ādeśa)	plural following, *supāṃ sulug…* (Pā. Sū. 7-1-39) gives *śe*	plural following, *supāṃ sulug…* (Pā. Sū. 3-1-39) gives *śe*	Kannada p.172 ಸುಪಾಂಸುಲುಕ್ (ಪಾ. ಸೂ. ೩-೧-೩೯) under ಅಸ್ಮೇ	applied	
+172	S2	R1	Pā. Sū. number added after saṃprasāraṇāc ca	*saṃprasāraṇāc ca* (Pā. Sū. 6-1-108)	*saṃprasāraṇāc ca*	Kannada p.172 ಸಂಪ್ರಸಾರಣಾಚ್ಚ has no sūtra number; number the print has not is removed	applied	
+172	S3	R1	Kā. number of re śabdāc ca matupa udāttatvaṃ vaktavyam	ವಕ್ತವ್ಯಮ್"] gives the acute to *matup*	ವಕ್ತವ್ಯಮ್"] (Kā. 6-1-176-1) gives the acute to *matup*	Kannada p.172 (ಕಾ. ೬-೧-೧೭೬-೧) printed, English lacked it	applied	
+172	S2	R1	sūtra name for tnap after pra	*pratnapūrvaviśvemāt thāl chandasi* [print: "ಪ್ರತ್ನ ಪುರಾಣೇ ಪ್ರಾತ್"] gives the suffix *tnap*	*naśca purāṇe prāt* [print: "ನಶ್ಚ ಪುರಾಣೇ ಪ್ರಾತ್"] gives the suffix *tnap*	Kannada p.172 ನಶ್ಚ ಪುರಾಣೇ ಪ್ರಾತ್ (letters copied via sp_sanskrit); English had the sūtra of pratnathā from memory	applied	
+173	Q2	R1	Ni. 2-17 [?] (q103) Devanagari	नि. २-१७ [?] ।	नि. २-१७ ।	Kannada p.173 ನಿ. ೨-೧೭ agrees; mark removed unchanged	applied	
+173	Q2	R1	ni. 2-17 [?] (q104) IAST twin	ni. 2-17 [?] |	ni. 2-17 |	Kannada p.173 ನಿ. ೨-೧೭ agrees; mark removed unchanged (IAST twin)	applied	
+173	Q1	R1	Ni. [?] in prose paraphrase (q105 remark class)	says Yāska (Ni. [?]).	says Yāska (Ni. 2-17).	Kannada p.173 ನಿ. ೨-೧೭ (the remark itself is not edited)	applied	
+175	Q2	R1	prārpyā [?] (q106,q107)	prārpyā [?] jagadvyu	prārpyā [?] jagadvyu	Kannada p.175 ಪ್ರಾಪ್ಯಾರ್ಜ ಜಗದ್ವ್ಯ differs and is not a reading that fits; mark stays on Deva and IAST	kept	
+176	S1	R1	Pā. Sū. of hetumati ca (bodhaya)	*hetumati ca* (Pā. Sū. 3-1-226)	*hetumati ca* (Pā. Sū. 3-1-26)	Kannada p.176 ಹೇತುಮತಿ ಚ (ಪಾ. ಸೂ. ೩-೧-೨೬)	applied	
+176	S13	R6	sūtra named before U. Sū. 1-157 (maghoni)	*śvanyuvamaghonām* [print: "ಶ್ವನ್ನುಕ್ಷನ್", *vanisanyoh*?] (U. Sū. 1-157 as read)	*śvannukṣan* [print: "ಶ್ವನ್ನುಕ್ಷನ್"] (U. Sū. 1-157 as read)	Kannada p.176 ಶ್ವನ್ನುಕ್ಷನ್—(ಉ. ಸೂ. ೧-೧೫೭); the English had put the name of the other sūtra śvayuvamaghonām and a guess; letters from sp_sanskrit	applied	
+177	S1	R1	running head Varga	Varga 8.)	Varga 9.)	Kannada head ವ. ೯	applied	
+177	Q2	R1	remark mark (q108)	[?] in own remark		remark not edited	kept	
+179	S1	R1	running head Varga	Varga 8.)	Varga 9.)	Kannada head ವ. ೯	applied	
+180	S1	R1	Pā. Sū. of yūnas tiḥ	(Pā. Sū. 4-1-77, as printed "೪-೧-೭೭")	(Pā. Sū. 4-1-76, as printed "೪-೧-೭೬")	Kannada p.180 ಯೂನಸ್ತಿಃ(ಪಾ. ಸೂ. ೪-೧-೭೬)	applied	
+180	S3	R1	Uṇādi sūtra number of anihṛṣibhyāṃ kic ca	Uṇ. 4-?]	U. Sū. 4-457]	Kannada p.180 ಅನಿಹೃಷಿಭ್ಯಾಂ ಕಿಚ್ಚ (ಉ. ಸೂ. ೪-೪೫೭)	applied	
+180	S1	R1	Pā. Sū. of upād devapūjā…	(Pā. Sū. 1-3-25) [as printed]	(Pā. Sū. 1-3-25-1) [as printed]	Kannada p.180 ಉಪಾದ್ದೇವಪೂಜಾಸಂ (ಪಾ. ಸೂ. ೧-೩-೨೫-೧)	applied	
+181	S1	R1	running head Varga	Varga 8.)	Varga 9.)	Kannada head ವ. ೯	applied	

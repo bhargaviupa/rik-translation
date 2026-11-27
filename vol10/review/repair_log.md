@@ -312,3 +312,44 @@
 | page | old → new | why |
 |---|---|---|
 | 134 | `नामभिसृष्टा[?]नामग्निर्मुखं` → `नामभिसृष्टानामग्निर्मुखं` | SECOND-PASS Q1: Kannada p.134 ಧಾವಂತೀನಾಮಭಿಸೃಷ್ಟಾನಾಮಗ್ನಿರ್ಮುಖಂ (abhisṛṣṭānām); earlier try had the wrong sandhi context |
+
+### 2026-11-27 second pass, batch e152-181.tsv
+| page | old → new | why |
+|---|---|---|
+| 152 | ` meaningless' (Ni. 1-9)."` → ` meaningless'."` | SECOND-PASS S16: Kannada p.152 bhāṣya ends ಕಮೀಮಿದ್ವಿತೀತಿ ಯಾಸ್ಕೇನೋಕ್ತತ್ವಾತ್ with no Nirukta number; number the print has not is removed |
+| 153 | `Varga 7.)` → `Varga 6.)` | SECOND-PASS S1: Kannada head ನ. ೬ (ವ. ೬) |
+| 153 | `(Ṛ. Saṃ. 1-168-6, as read from the print;` → `(Ṛ. Saṃ. 1-18-6, as read from the print;` | SECOND-PASS S1: Kannada p.153 ಋ. ಸಂ. ೧-೧೮-೬ |
+| 155 | `Varga 7.)` → `Varga 6.)` | SECOND-PASS S1: Kannada head ವ. ೬ |
+| 157 | `Varga 7.)` → `Varga 6.)` | SECOND-PASS S1: Kannada head ಸ. ೬ (Varga 6) |
+| 157 | `(Pā. Sū. 3-4-11)` → `(Pā. Sū. 3-1-11)` | SECOND-PASS S2: Kannada p.157 ದೃಶೇ ವಿಖ್ಯೇ ಚ (ಪಾ. ಸೂ. ೩-೧-೧೧) |
+| 158 | `*sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168)` → `*sāvekācas tṛtīyādiḥ*` | SECOND-PASS S2: Kannada p.158 ಸಾವೇಕಾಚಸ್ತೃತೀಯಾದಿಃ has no sūtra number; number the print has not is removed |
+| 158 | `(Pā. Sū. 6-1-173)` → `(Pā. Sū. 6-1-1-3)` | SECOND-PASS S1: Kannada p.158 ೬-೧-೧-೩ applied as printed (impossible form; open.tsv) |
+| 159 | `Varga 8.)` → `Varga 6.)` | SECOND-PASS S1: Kannada head ವ, ೬ applied as printed |
+| 159 | `लभते चेद्[?]ः संताड्य` → `लभते चेदक्षैः संताड्य` | SECOND-PASS Q1: Kannada p.159 ಲಭತೇ ಚೇದಕ್ಷೈಃ ಸಂತಾಡ್ಯ (real reading cedakṣaiḥ) |
+| 159 | `labhate ced[?]ḥ saṃtāḍya` → `labhate cedakṣaiḥ saṃtāḍya` | SECOND-PASS Q1: Kannada p.159 ಚೇದಕ್ಷೈಃ (IAST twin) |
+| 160 | `"Maṃ. 1 A. 18 Sū. 124".)` → `"Maṃ. 1 A. 18 Sū. 123".)` | SECOND-PASS S1: Kannada head ಸೂ. ೧೨೩ applied as printed (open.tsv) |
+| 162 | `तत्राक्ष्यैराष्णन्ति [?] सा` → `तत्राक्षैराघ्नन्ति सा` | SECOND-PASS Q1: Kannada p.162 ತಾಂ ತತ್ರಾಕ್ಷೈರಾಘ್ನಂತಿ ಸಾ (akṣair āghnanti: real words, fits ದಾಳಿಗಳಿಂದ ಹೊಡೆದ); letters ಕ್ಷ್ಯೈರಾಷ್ಣ→ಕ್ಷೈರಾಘ್ನ |
+| 162 | `tatrākṣyairāṣṇanti [?] sā` → `tatrākṣairāghnanti sā` | SECOND-PASS Q1: Kannada p.162 ತತ್ರಾಕ್ಷೈರಾಘ್ನಂತಿ (IAST twin) |
+| 163 | `(Ni. 3-13, as printed "೩-೧೩")` → `(Ni. 3-15, as printed "೩-೧೫")` | SECOND-PASS S1: Kannada p.163 (ನಿ. ೩-೧೫) |
+| 163 | `*ca*, Pā. Sū. 6-3-138)` → `*ca*, Pā. Sū. 6-2-138)` | SECOND-PASS S2: Kannada p.163 ಚೌ(ಪಾ. ಸೂ. ೬-೨-೧೩೮) |
+| 164 | `(Pā. Sū. 6-1-173) gives it the acute` → `(Pā. Sū. 6-1-133) gives it the acute` | SECOND-PASS S2: Kannada p.164 ೬-೧-೧೩೩ applied as printed |
+| 164 | `U. Sū. 3-160` → `U. Sū. 2-170` | SECOND-PASS S1: Kannada p.164 (ಉ. ಸೂ. ೨-೧೭೦) |
+| 164 | `as printed "ಚಿತ್ವ"?]` → `as printed "ಜಿತ್ವ"]` | SECOND-PASS S13: Kannada p.164 reads ಜಿತ್ವ (twice, also in riṇīte) |
+| 168 | `"Maṃ. 1 A. 18 Sū. 124".)` → `"Maṃ. 1 A. 18 Sū. 123".)` | SECOND-PASS S1: Kannada head ಸೂ. ೧೨೩ applied as printed (open.tsv) |
+| 168 | `(U. Sū. 4-139 as read)` → `(U. Sū. 4-579)` | SECOND-PASS S1: Kannada p.168 (ಉ. ಸೂ. ೪-೫೭೯) |
+| 171 | `(Ṛ. Saṃ. 3-30-19, as read` → `(Ṛ. Saṃ. 3-20-19, as read` | SECOND-PASS S1: Kannada p.171 ಋ. ಸಂ. ೩-೨೦-೧೯ |
+| 172 | `plural following, *supāṃ sulug…* (Pā. Sū. 7-1-39) gives *śe*` → `plural following, *supāṃ sulug…* (Pā. Sū. 3-1-39) gives *śe*` | SECOND-PASS S2: Kannada p.172 ಸುಪಾಂಸುಲುಕ್ (ಪಾ. ಸೂ. ೩-೧-೩೯) under ಅಸ್ಮೇ |
+| 172 | `*saṃprasāraṇāc ca* (Pā. Sū. 6-1-108)` → `*saṃprasāraṇāc ca*` | SECOND-PASS S2: Kannada p.172 ಸಂಪ್ರಸಾರಣಾಚ್ಚ has no sūtra number; number the print has not is removed |
+| 172 | `ವಕ್ತವ್ಯಮ್"] gives the acute to *matup*` → `ವಕ್ತವ್ಯಮ್"] (Kā. 6-1-176-1) gives the acute to *matup*` | SECOND-PASS S3: Kannada p.172 (ಕಾ. ೬-೧-೧೭೬-೧) printed, English lacked it |
+| 172 | `*pratnapūrvaviśvemāt thāl chandasi* [print: "ಪ್ರತ್ನ ಪುರಾಣೇ ಪ್ರಾತ್"] gives the suffix *tnap` → `*naśca purāṇe prāt* [print: "ನಶ್ಚ ಪುರಾಣೇ ಪ್ರಾತ್"] gives the suffix *tnap*` | SECOND-PASS S2: Kannada p.172 ನಶ್ಚ ಪುರಾಣೇ ಪ್ರಾತ್ (letters copied via sp_sanskrit); English had the sūtra of pratnathā from memory |
+| 173 | `नि. २-१७ [?] ।` → `नि. २-१७ ।` | SECOND-PASS Q2: Kannada p.173 ನಿ. ೨-೧೭ agrees; mark removed unchanged |
+| 173 | `ni. 2-17 [?] |` → `ni. 2-17 |` | SECOND-PASS Q2: Kannada p.173 ನಿ. ೨-೧೭ agrees; mark removed unchanged (IAST twin) |
+| 173 | `says Yāska (Ni. [?]).` → `says Yāska (Ni. 2-17).` | SECOND-PASS Q1: Kannada p.173 ನಿ. ೨-೧೭ (the remark itself is not edited) |
+| 176 | `*hetumati ca* (Pā. Sū. 3-1-226)` → `*hetumati ca* (Pā. Sū. 3-1-26)` | SECOND-PASS S1: Kannada p.176 ಹೇತುಮತಿ ಚ (ಪಾ. ಸೂ. ೩-೧-೨೬) |
+| 176 | `*śvanyuvamaghonām* [print: "ಶ್ವನ್ನುಕ್ಷನ್", *vanisanyoh*?] (U. Sū. 1-157 as read)` → `*śvannukṣan* [print: "ಶ್ವನ್ನುಕ್ಷನ್"] (U. Sū. 1-157 as read)` | SECOND-PASS S13: Kannada p.176 ಶ್ವನ್ನುಕ್ಷನ್—(ಉ. ಸೂ. ೧-೧೫೭); the English had put the name of the other sūtra śvayuvamaghonām and a guess; letters from sp_sanskrit |
+| 177 | `Varga 8.)` → `Varga 9.)` | SECOND-PASS S1: Kannada head ವ. ೯ |
+| 179 | `Varga 8.)` → `Varga 9.)` | SECOND-PASS S1: Kannada head ವ. ೯ |
+| 180 | `(Pā. Sū. 4-1-77, as printed "೪-೧-೭೭")` → `(Pā. Sū. 4-1-76, as printed "೪-೧-೭೬")` | SECOND-PASS S1: Kannada p.180 ಯೂನಸ್ತಿಃ(ಪಾ. ಸೂ. ೪-೧-೭೬) |
+| 180 | `Uṇ. 4-?]` → `U. Sū. 4-457]` | SECOND-PASS S3: Kannada p.180 ಅನಿಹೃಷಿಭ್ಯಾಂ ಕಿಚ್ಚ (ಉ. ಸೂ. ೪-೪೫೭) |
+| 180 | `(Pā. Sū. 1-3-25) [as printed]` → `(Pā. Sū. 1-3-25-1) [as printed]` | SECOND-PASS S1: Kannada p.180 ಉಪಾದ್ದೇವಪೂಜಾಸಂ (ಪಾ. ಸೂ. ೧-೩-೨೫-೧) |
+| 181 | `Varga 8.)` → `Varga 9.)` | SECOND-PASS S1: Kannada head ವ. ೯ |
