@@ -183,3 +183,36 @@
 | page | old → new | why |
 |---|---|---|
 | 117 | `६-१-१३[?]` → `७-१-३९-१` | SECOND-PASS Q1: Kannada p. 117 reads ಪಾ. ೭-೧-೩೯-೧; digits only |
+
+### 2026-11-27 second pass, batch e122-151.tsv
+| page | old → new | why |
+|---|---|---|
+| 125 | `twenty-eight [?] names` → `twenty-eight names` | SECOND-PASS Q2: Kannada p. 125 reads ೨೮ (28) bala-names (ನಿ. ೩-೯) |
+| 126 | `8-102-7 as read [?])` → `8-102-7 as read)` | SECOND-PASS Q2: Kannada p. 126 reads ೮-೧೦೨-೭ |
+| 135 | `Varga "6" as read [?]` → `Varga "6" as read` | SECOND-PASS Q2: Kannada p. 135 reads ವರ್ಗ—೬ |
+| 137 | `Chāndogya-type sentence, as read [?]]` → `Chāndogya-type sentence, as read]` | SECOND-PASS Q2: Kannada p. 138 cites the Chāndogya (ಛಾ. ಉ. ೫.೨೪-೨) for this sentence |
+| 139 | `1-101; 1-102 as read [?])` → `1-101; 1-102 as read)` | SECOND-PASS Q2: Kannada p. 139 reads (ಬೃ. ದೇ. ೧-೧೦೧ ; ೧-೧೦೨) |
+| 142 | `a thousand portions of drink [?]` → `thousands of drinks` | SECOND-PASS Q1: Kannada p. 142 reads ಸಹಸ್ರಾರು ಪಾನಗಳನ್ನೂ |
+| 143 | `would have been struck down [?] [or: would have slipped]` → `would have become slack and wasted away` | SECOND-PASS Q1: Kannada p. 143 reads ನಿನ್ನ ಪಾದಗಳು ಸಡಿಲವಾಗಿ ಕ್ಷೀಣಿಸಿಬಿಡುತ್ತಿದ್ದವು |
+| 143 | `would have burst [?]` → `would have become useless` | SECOND-PASS Q1: Kannada p. 143 reads ನಿನ್ನ ಕೋಶವೂ ಅಪ್ರಯೋಜಕವಾಗುತ್ತಿತ್ತು |
+| 146 | `clotted in print [?])` → `clotted in print)` | SECOND-PASS Q2: Kannada p. 146 reads ಋ. ಸಂ. ೧-೧೪೪-೬ and the words ಏನೀ ತ ಏತೇ … ಹಿರಣ್ಯಯೀ |
+| 146 | `जात आप्स्यो [?] भुवनानि` → `जात आपृणो भुवनानि` | SECOND-PASS Q1: Kannada p. 146 reads ಜಾತ ಆಪೃಣೋ ಭುವನಾನಿ; Devanagari by sp_sanskrit.py |
+| 146 | `jāta āpsyo [?] bhuvanāni` → `jāta āpṛṇo bhuvanāni` | SECOND-PASS Q1: Kannada p. 146 reads ಜಾತ ಆಪೃಣೋ ಭುವನಾನಿ; IAST by sp_sanskrit.py |
+| 146 | `*nare saṃjñāyām* [Pā. Sū. 6-3-[?]]` → `*nare saṃjñāyām* [Pā. Sū. 6-3-129]` | SECOND-PASS Q1: Kannada p. 147 reads ೬-೩-೧೨೯ for ನರೇ ಸಂಜ್ಞಾಯಾಂ |
+| 146 | `*tādau ca niti* [6-2-[?]]` → `*tādau ca niti* [6-2-50]` | SECOND-PASS Q1: Kannada p. 147 reads ತಾದೌಚನಿತಿ—(ಪಾ. ಸೂ. ೬-೨-೫೦) |
+| 146 | `*nañsubhyām* [6-2-[?]]` → `*nañsubhyām* [6-2-172]` | SECOND-PASS Q1: Kannada p. 147 reads ನಞ್ಸುಭ್ಯಾಮ್—(ಪಾ ಸೂ. ೬-೨-೧೭೨) |
+| 146 | `*nityaṃ ñitaḥ* [?];` → `*nityaṃ ñitaḥ*;` | SECOND-PASS Q2: Kannada p. 147 reads ನಿತ್ಯಂಜಿತಃ (no number given) |
+| 146 | `[Pā. Sū. 3-1-114 as read, ?]` → `[Pā. Sū. 3-1-114]` | SECOND-PASS Q2: Kannada p. 147 reads (ಪಾ. ಸೂ. ೩-೧-೧೧೪) |
+| 148 | `printed pp. 148–[?]` → `printed pp. 148–152` | SECOND-PASS Q1: Kannada: Rik 98.2 stands on pp. 148–152; Rik 3 begins on p. 153 |
+| 149 | `(*Ā.* 2-[1?]9 as read [?])` → `(*Ā.* 2-15)` | SECOND-PASS Q1: Kannada p. 149 reads (ಆ. ೨-೧೫) |
+| 150 | `3-22-2 as read [?])` → `3-22-2 as read)` | SECOND-PASS Q2: Kannada p. 150 reads (ಋ. ಸಂ. ೩-೨೨-೨) |
+| 150 | `1-[7?]1-59-3 as read [?]` → `1-59-3` | SECOND-PASS Q1: Kannada p. 150 reads (ಋ. ಸಂ. ೧-೫೯-೩) |
+| 150 | `1-67-9?]7-9 as read [?]` → `1-67-9` | SECOND-PASS Q1: Kannada p. 150 reads (ಋ. ಸಂ. ೧-೬೭-೯) |
+| 150 | `9-2-1-[8?] as read [?]` → `9-2-1-8` | SECOND-PASS Q1: Kannada p. 150 reads (ಶತಪಥಬ್ರಾಹ್ಮಣ ೯-೨-೧-೮) |
+| 151 | `3-9 as read [?])` → `3-9 as read)` | SECOND-PASS Q2: Kannada p. 151 reads (ನಿ. ೩-೯) |
+| 151 | `तस्मिन्न्[?]न्ति` → `तस्मिन्त्संति` | SECOND-PASS Q1: Kannada p. 151 reads ತಸ್ಮಿನ್ತ್ಸಂತಿ ಪ್ರಶಿಷಸ್ತಸ್ಮಿನ್ನಿಷ್ಟಯಃ; Devanagari by sp_sanskrit.py |
+| 151 | `tasminn [?]nti` → `tasmintsaṃti` | SECOND-PASS Q1: Kannada p. 151 reads ತಸ್ಮಿನ್ತ್ಸಂತಿ; IAST by sp_sanskrit.py |
+| 151 | `1-[1?]43-1 as read [?]` → `1-145-1` | SECOND-PASS Q1: Kannada p. 151 reads (ಋ. ಸಂ. ೧-೧೪೫-೧) |
+| 151 | `3-1[0?]-2 as read [?]` → `5-10-2` | SECOND-PASS Q1: Kannada p. 151 reads (ಋ. ಸಂ. ೫-೧೦-೨) |
+| 151 | `1-[1?]2[2?]-3 as read [?]` → `1-127-3` | SECOND-PASS Q1: Kannada p. 151 reads (ಋ. ಸಂ. ೧-೧೨೭-೩) |
+| 151 | `1-145-1?]8 as read [?]` → `8-5-18` | SECOND-PASS Q1: Kannada p. 151 reads (ಶ. ಬತ್ರ. ೮-೫-೧೮) |

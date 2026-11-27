@@ -3673,7 +3673,7 @@ Title block:
 
 **॥ विशेषविषयाः ॥ — Special Topics of Rik 97.5 (Kannada)**
 
-***sahasvataḥ*** — "*ojaḥ*, *pājaḥ* and so on are read among the twenty-eight [?] names of strength (Ni. 3-9), so the word *sahas* means 'strength'. *Sahaḥ asmin asti iti sahasvān* ('he in whom there is strength is *sahasvān*'); of him, [of Agni] who has strength, thus" *(continues on p. 126)*
+***sahasvataḥ*** — "*ojaḥ*, *pājaḥ* and so on are read among the twenty-eight names of strength (Ni. 3-9), so the word *sahas* means 'strength'. *Sahaḥ asmin asti iti sahasvān* ('he in whom there is strength is *sahasvān*'); of him, [of Agni] who has strength, thus" *(continues on p. 126)*
 
 ---
 
@@ -3695,7 +3695,7 @@ Title block:
 
 > अग्निं वो वृधन्तमध्वराणां पुरूतमम् । अच्छा नप्त्रे सहस्वते ॥
 > *agniṃ vo vṛdhantam adhvarāṇāṃ purūtamam | acchā naptre sahasvate ‖*
-> (*Ṛ. Saṃ.* 8-102-7 as read [?])
+> (*Ṛ. Saṃ.* 8-102-7 as read)
 
 *(**GLOSS**. The numerals and several words are read from small print [?].)* "In many such places the nature of Agni is described as the one who has the power to confront and overcome enemies."
 
@@ -3980,7 +3980,7 @@ Title block:
 **सूक्त — ९८ (Sūkta 98)**
 
 ॥ मण्डल—१ ॥ अनुवाक—१५ ॥ सूक्त—९८ ॥ — *Maṇḍala 1; Anuvāka 15; Sūkta 98.*
-॥ अष्टक—१ ॥ अध्याय—७ ॥ वर्ग—६ ॥ — *Aṣṭaka 1; Adhyāya 7; Varga "6" as read [?].*
+॥ अष्टक—१ ॥ अध्याय—७ ॥ वर्ग—६ ॥ — *Aṣṭaka 1; Adhyāya 7; Varga "6" as read.*
 *Number of Ṛks in the sūkta:* 3. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* *agnir vaiśvānaro vā* (as printed; "Agni, or Vaiśvānara" [?]). *Chandas:* Triṣṭubh.
 
 ### Rik 1
@@ -4048,7 +4048,7 @@ Title block:
 
 **GLOSS**
 
-"Since Vaiśvānara, the fire, is the cause of the existence and the continuance of the whole world, all the dealings of the world are led by him. Therefore all beings, who desire the welfare of the self and the welfare of the world, should worship this Agni, the Self of the universe: the scriptures that teach rites and the scriptures that teach spiritual knowledge alike, in one way, teach the necessity of the worship of Vaiśvānara fire. The Saṃhitās, beginning with *vaiśvānarasya sumatau syāma* (Ṛ. Saṃ. 1-98-1), and the Brāhmaṇas, such as the Śatapatha — '*sa yo haitam evam agniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ntaḥ pratiṣṭhitaṃ veda; āpa punarmṛtyuṃ jayati sarvam āyur eti*' — 'he who knows this Vaiśvānara Agni, of the form of the Puruṣa, established within the Puruṣa, conquers death again and attains the full life' (Śa. Brā. 10-6-1-11) — say that one who knows the form of this Vaiśvānara fire, which is in the form of the Puruṣa, the Man [*puruṣāntar-cintana*, meditated within the man], conquers death, and obtains his full life; and: '*atha ya etam evaṃ vidvān agnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣv ātmasu hutaṃ bhavati*' ('and he who, knowing him thus, performs the Agnihotra, has his offering made in all worlds, in all beings, in all selves' [Chāndogya-type sentence, as read [?]]). So, knowing the nature of the Vaiśvānara fire, whatever" *(continues on p. 138)*
+"Since Vaiśvānara, the fire, is the cause of the existence and the continuance of the whole world, all the dealings of the world are led by him. Therefore all beings, who desire the welfare of the self and the welfare of the world, should worship this Agni, the Self of the universe: the scriptures that teach rites and the scriptures that teach spiritual knowledge alike, in one way, teach the necessity of the worship of Vaiśvānara fire. The Saṃhitās, beginning with *vaiśvānarasya sumatau syāma* (Ṛ. Saṃ. 1-98-1), and the Brāhmaṇas, such as the Śatapatha — '*sa yo haitam evam agniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ntaḥ pratiṣṭhitaṃ veda; āpa punarmṛtyuṃ jayati sarvam āyur eti*' — 'he who knows this Vaiśvānara Agni, of the form of the Puruṣa, established within the Puruṣa, conquers death again and attains the full life' (Śa. Brā. 10-6-1-11) — say that one who knows the form of this Vaiśvānara fire, which is in the form of the Puruṣa, the Man [*puruṣāntar-cintana*, meditated within the man], conquers death, and obtains his full life; and: '*atha ya etam evaṃ vidvān agnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣv ātmasu hutaṃ bhavati*' ('and he who, knowing him thus, performs the Agnihotra, has his offering made in all worlds, in all beings, in all selves' [Chāndogya-type sentence, as read]). So, knowing the nature of the Vaiśvānara fire, whatever" *(continues on p. 138)*
 
 ---
 
@@ -4098,7 +4098,7 @@ Title block:
 > *eteṣām eva lokānāṃ trayāṇām adhvare 'dhvare ‖*
 > *rohāt pratyavaroheṇa cikīrṣann agnimārutaṃ |*
 > *śastraṃ vaiśvānarīyeṇa sūktena pratipadyate ‖*
-> (*Bṛ. De.* 1-101; 1-102 as read [?])
+> (*Bṛ. De.* 1-101; 1-102 as read)
 
 **GLOSS**
 
@@ -4177,13 +4177,13 @@ Title block:
 
 **Kannada summary of the passage (pp. 142–144)**
 
-"Satyayajña Pauluṣi, Mahāśāla Jābāla, Buḍila Āśvatarāśvi, Indradyumna Bhāllaveya and Jana Śārkarākṣya, all together at the house of Aruṇa Aupaveśi, met to learn the nature of the Vaiśvānara fire; and though all discussed it, since each had no conclusive knowledge, differences of opinion among them arose and they were in doubt (verse 1). Then all of them went to Aśvapati Kaikeya, who knew the nature of the Vaiśvānara fire completely. He gave each of the guests who came to him a separate lodging, a gift due to each, and a thousand portions of drink [?], and honoured them. The next morning all of them, without agreeing among themselves, holding fuel in their hands, announced: 'We wish to become your pupils' (verse 2)."
+"Satyayajña Pauluṣi, Mahāśāla Jābāla, Buḍila Āśvatarāśvi, Indradyumna Bhāllaveya and Jana Śārkarākṣya, all together at the house of Aruṇa Aupaveśi, met to learn the nature of the Vaiśvānara fire; and though all discussed it, since each had no conclusive knowledge, differences of opinion among them arose and they were in doubt (verse 1). Then all of them went to Aśvapati Kaikeya, who knew the nature of the Vaiśvānara fire completely. He gave each of the guests who came to him a separate lodging, a gift due to each, and thousands of drinks, and honoured them. The next morning all of them, without agreeing among themselves, holding fuel in their hands, announced: 'We wish to become your pupils' (verse 2)."
 
 ### Page 143 (PDF 163)
 
 *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 143.)*
 
-"Then he said: 'You, who are all masters of the whole of the Śāstra and sons of masters, have studied: why have you come to me with the intention of becoming pupils?' — astonished, he asked them. Then they said: 'We wish to learn from you the nature of the Vaiśvānara fire; and also to be taught its secret.' Then he said, 'I know it'; and when he had made them his pupils, he taught them (verse 3). Afterwards, addressing Aruṇa Aupaveśi, he asked: 'Gautama, which Vaiśvānara do you know?' Aruṇa replied: 'The earth, O king.' Then the king said: 'Yes: Vaiśvānara, the support of all, is that [the earth]. Because you know this secret, you are firmly established with cattle, sons and the rest. One who knows this wins death and attains the full lifespan; but truly these are only the feet of Vaiśvānara. If you had not come here (to know the complete nature of Vaiśvānara), your feet would have been struck down [?] [or: would have slipped]; or they would not have come within your reach' (verse 4). Then, addressing Satyayajña Pauluṣi, 'O Prācīnayogya, which Vaiśvānara do you know?' — he said, 'The waters.' Approving this, the king said: 'This is the wealth of Vaiśvānara. Since you know that nature of wealth, you are rich and flourishing; the one who knows it wins death and attains full life unbroken. But this is only the bladder of Vaiśvānara. Had you not come here, your bladder would have burst [?]' (verse 5). Then, addressing Mahāśāla Jābāla: 'Aupamanyava, which Vaiśvānara do you know?' He gave the answer 'Space.' Approving it, the king said: 'This is the *bahula*, the abundant Vaiśvānara; because you know this you have abundance of cattle and sons; the one who knows it wins death and attains full life. But this is only the main trunk of Vaiśvānara. Had you not come here, your body would have lost its use' (verse 6). Again addressing Buḍila Āśvatarāśvi: 'Vaiyāghrapadya, which Vaiśvānara do you know?' He said, 'The wind alone is Vaiśvānara.' Approving this, the royal seer said: 'The wind is Vaiśvānara, of separate paths; because you know this, chariots of various kinds follow you. The one who knows it wins death and attains full life; but this is only the breath of Vaiśvānara. Had you not come to me, your breath would have been of no use, or you would not have had the knowledge of it' (verse 7). Afterwards he asked Indradyumna Bhāllaveya which Vaiśvānara he knew; he answered 'the sun'; approving it, [he said:] *'Indeed, the splendid, Soma-…, [Vaiśvānara], the one of good radiance'*" *(continues on p. 144)*
+"Then he said: 'You, who are all masters of the whole of the Śāstra and sons of masters, have studied: why have you come to me with the intention of becoming pupils?' — astonished, he asked them. Then they said: 'We wish to learn from you the nature of the Vaiśvānara fire; and also to be taught its secret.' Then he said, 'I know it'; and when he had made them his pupils, he taught them (verse 3). Afterwards, addressing Aruṇa Aupaveśi, he asked: 'Gautama, which Vaiśvānara do you know?' Aruṇa replied: 'The earth, O king.' Then the king said: 'Yes: Vaiśvānara, the support of all, is that [the earth]. Because you know this secret, you are firmly established with cattle, sons and the rest. One who knows this wins death and attains the full lifespan; but truly these are only the feet of Vaiśvānara. If you had not come here (to know the complete nature of Vaiśvānara), your feet would have become slack and wasted away; or they would not have come within your reach' (verse 4). Then, addressing Satyayajña Pauluṣi, 'O Prācīnayogya, which Vaiśvānara do you know?' — he said, 'The waters.' Approving this, the king said: 'This is the wealth of Vaiśvānara. Since you know that nature of wealth, you are rich and flourishing; the one who knows it wins death and attains full life unbroken. But this is only the bladder of Vaiśvānara. Had you not come here, your bladder would have become useless' (verse 5). Then, addressing Mahāśāla Jābāla: 'Aupamanyava, which Vaiśvānara do you know?' He gave the answer 'Space.' Approving it, the king said: 'This is the *bahula*, the abundant Vaiśvānara; because you know this you have abundance of cattle and sons; the one who knows it wins death and attains full life. But this is only the main trunk of Vaiśvānara. Had you not come here, your body would have lost its use' (verse 6). Again addressing Buḍila Āśvatarāśvi: 'Vaiyāghrapadya, which Vaiśvānara do you know?' He said, 'The wind alone is Vaiśvānara.' Approving this, the royal seer said: 'The wind is Vaiśvānara, of separate paths; because you know this, chariots of various kinds follow you. The one who knows it wins death and attains full life; but this is only the breath of Vaiśvānara. Had you not come to me, your breath would have been of no use, or you would not have had the knowledge of it' (verse 7). Afterwards he asked Indradyumna Bhāllaveya which Vaiśvānara he knew; he answered 'the sun'; approving it, [he said:] *'Indeed, the splendid, Soma-…, [Vaiśvānara], the one of good radiance'*" *(continues on p. 144)*
 
 ### Page 144 (PDF 164)
 
@@ -4243,7 +4243,7 @@ Title block:
 
 > एनी ते एते बृहती अभिश्रियो हिरण्ययी वक्वरी बर्हिराशाते ।
 > *enī te ete bṛhatī abhiśriyo hiraṇyayī vakvarī barhir āśāte |*
-> (*Ṛ. Saṃ.* 1-144-6; the initial words *enī te ete* and *hiraṇyayī* clotted in print [?])
+> (*Ṛ. Saṃ.* 1-144-6; the initial words *enī te ete* and *hiraṇyayī* clotted in print)
 
 > घृतवती भुवनानामभिश्रियोर्वी पृथ्वी मधुदुघे सुपेशसा ।
 > *ghṛtavatī bhuvanānām abhiśriyorvī pṛthvī madhududughe supeśasā |*
@@ -4263,15 +4263,15 @@ Title block:
 
 *Vi caṣṭe* — since *cikyat, cākanat, ācakṣ* and the like are read among the verbs of seeing (*Ni.* 3-13), *vi caṣṭe* means 'he looks'. Though born on earth,"
 
-> जात आप्स्यो [?] भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
-> *jāta āpsyo [?] bhuvanāni rodasī agne tā viśvā paribhūrasi tmanā |*
+> जात आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
+> *jāta āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūrasi tmanā |*
 > (*Ṛ. Saṃ.* 3-3-10; the second word clotted in print, not completed from memory)
 
 "— as is here described, because he pervades all worlds, heaven and earth and the rest, all things come within his view; and because he is the lord of all the worlds, and because the welfare of the world is bound to come from his favour, such a Vaiśvānara — *sumatau syāma* — *vayaṃ vaiśvānarasya kalyāṇyāṃ matau syāma* (*Ni.* 7-22) — the chief meaning is: may we be fit to obtain his favour, which is itself a blessing."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 98.1)** *(grammar pages, pp. 146–147, noted briefly; numerals small and doubtful [?])*
 
-Grammar pages, noted briefly. They treat: *vaiśvānarasya* (*viśveṣāṃ narāṇāṃ sambandhī*; the *aṇ* affix by *tasyedam*, *vṛddhi* by *taddhiteṣv acām ādeḥ*, and lengthening of the prior member by *nare saṃjñāyām* [Pā. Sū. 6-3-[?]], accent by the affix); *sumatau* (root *man jñāne*, *ktin* by *striyāṃ ktin*, loss of the nasal by the rule on roots with anudātta *upadeśa*; *śobhanā matiḥ sumatiḥ*, a *bahuvrīhi*; the accent on the last member by *tādau ca niti* [6-2-[?]], *kārakāt* [6-2-[?]] and *nañsubhyām* [6-2-[?]]); *syām* (root *as bhuvi*, *adādi*; *liṅ*, first person plural, *mus*; loss of *s* by *nityaṃ ñitaḥ* [?]; *yāsuṭ*; loss of the root *a* by *śnasor allopaḥ* [Pā. Sū. 6-4-111]; *tiṅ* accent); *caṣṭe* (root *cakṣiṅ vyaktāyāṃ vāci*, *adādi*, used also in the sense of seeing; *laṭ*, third person singular *ta*; *ṭita ātmanepadānāṃ ṭer e*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ* [Pā. Sū. 2-4-72]; loss of *k* by *skoḥ saṃyogādyor ante ca* [8-2-29]; change to *ṭ*, giving *caṣṭe*; *nighāta* accent because a *tiṅ* follows a word that precedes it); *yatate* (root *yatī prayatne*, *laṭ*, third person singular, with *nighāta*); *sūryeṇa* (*saraty ākāśe iti sūryaḥ*, root *sṛ gatau*, or root *sū preraṇe*, *suvati karmaṇi lokaṃ prerayati iti sūryaḥ*; the form fixed by *rājasūyasūrya…* [Pā. Sū. 3-1-114 as read, ?] with *kyap*, *rut*; the third case singular). The Rik is then marked *॥ 1 ॥*, closing Rik 98.1.
+Grammar pages, noted briefly. They treat: *vaiśvānarasya* (*viśveṣāṃ narāṇāṃ sambandhī*; the *aṇ* affix by *tasyedam*, *vṛddhi* by *taddhiteṣv acām ādeḥ*, and lengthening of the prior member by *nare saṃjñāyām* [Pā. Sū. 6-3-129], accent by the affix); *sumatau* (root *man jñāne*, *ktin* by *striyāṃ ktin*, loss of the nasal by the rule on roots with anudātta *upadeśa*; *śobhanā matiḥ sumatiḥ*, a *bahuvrīhi*; the accent on the last member by *tādau ca niti* [6-2-50], *kārakāt* [6-2-[?]] and *nañsubhyām* [6-2-172]); *syām* (root *as bhuvi*, *adādi*; *liṅ*, first person plural, *mus*; loss of *s* by *nityaṃ ñitaḥ*; *yāsuṭ*; loss of the root *a* by *śnasor allopaḥ* [Pā. Sū. 6-4-111]; *tiṅ* accent); *caṣṭe* (root *cakṣiṅ vyaktāyāṃ vāci*, *adādi*, used also in the sense of seeing; *laṭ*, third person singular *ta*; *ṭita ātmanepadānāṃ ṭer e*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ* [Pā. Sū. 2-4-72]; loss of *k* by *skoḥ saṃyogādyor ante ca* [8-2-29]; change to *ṭ*, giving *caṣṭe*; *nighāta* accent because a *tiṅ* follows a word that precedes it); *yatate* (root *yatī prayatne*, *laṭ*, third person singular, with *nighāta*); *sūryeṇa* (*saraty ākāśe iti sūryaḥ*, root *sṛ gatau*, or root *sū preraṇe*, *suvati karmaṇi lokaṃ prerayati iti sūryaḥ*; the form fixed by *rājasūyasūrya…* [Pā. Sū. 3-1-114] with *kyap*, *rut*; the third case singular). The Rik is then marked *॥ 1 ॥*, closing Rik 98.1.
 
 ### Page 147 (PDF 167)
 
@@ -4281,7 +4281,7 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 ### Page 148 (PDF 168)
 
-## Rik 98.2 (Sūkta 98, second Rik) — printed pp. 148–[?]
+## Rik 98.2 (Sūkta 98, second Rik) — printed pp. 148–152
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 98.2)**
 
@@ -4338,7 +4338,7 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 **॥ विशेषविषयाः ॥ — Special Topics of Rik 98.2 (Kannada)**
 
-"In the sacrifice called Cāturmāsya, an *anvārambhaṇīya* [opening] oblation is to be offered to the deities Vaiśvānara and Parjanya. For the Vaiśvānara deity, for the preparation of the oblation, this Ṛk beginning *pṛṣṭo divi* is to be used as the *yājyā* mantra: this is set out by Āśvalāyana's Śrauta Sūtra, in the section called *Cāturmāsyāni*, by the aphorism beginning *pṛṣṭo divi pṛṣṭo agniḥ pṛthivyāṃ parjanyāya pra gāyate* (*Ā.* 2-[1?]9 as read [?])."
+"In the sacrifice called Cāturmāsya, an *anvārambhaṇīya* [opening] oblation is to be offered to the deities Vaiśvānara and Parjanya. For the Vaiśvānara deity, for the preparation of the oblation, this Ṛk beginning *pṛṣṭo divi* is to be used as the *yājyā* mantra: this is set out by Āśvalāyana's Śrauta Sūtra, in the section called *Cāturmāsyāni*, by the aphorism beginning *pṛṣṭo divi pṛṣṭo agniḥ pṛthivyāṃ parjanyāya pra gāyate* (*Ā.* 2-15)."
 
 *(The Special Topics of this Ṛk continue on the next page.)*
 
@@ -4355,16 +4355,16 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 > आग्ने [as printed; read *agne*?] यत्ते दिवि वर्चः पृथिव्यां यदोषधीष्वप्स्वा यजत्र ।
 > येनान्तरिक्षमुर्वाततन्थ त्वेषः स भानुरर्णवो नृचक्षाः ।
 > *āgne [as printed] yat te divi varcaḥ pṛthivyāṃ yad oṣadhīṣv apsv ā yajatra | yenāntarikṣam urv ātatantha tveṣaḥ sa bhānur arṇavo nṛcakṣāḥ |*
-> (*Ṛ. Saṃ.* 3-22-2 as read [?])
+> (*Ṛ. Saṃ.* 3-22-2 as read)
 
 > आ सूर्ये न रश्मयो ध्रुवासो वैश्वानरे दधिरेऽग्ना वसूनि ।
 > यो पर्वतेष्वोषधीष्वप्सु यो मानुषेष्वसि तस्य राजा ॥
 > *ā sūrye na raśmayo dhruvāso vaiśvānare dadhire 'gnā vasūni | yo parvateṣv oṣadhīṣv apsu yo mānuṣeṣv asi tasya rājā ‖*
-> (*Ṛ. Saṃ.* 1-[7?]1-59-3 as read [?]; the print's *yo … yo* and *'gnā* followed as printed)
+> (*Ṛ. Saṃ.* 1-59-3; the print's *yo … yo* and *'gnā* followed as printed)
 
 > वि यो वीरुत्सु रोधन्महित्वोत प्रजा उत प्रसूष्वन्तः ।
 > *vi yo vīrutsu rodhan mahitvota prajā uta prasūṣv antaḥ |*
-> (*Ṛ. Saṃ.* 1-67-9?]7-9 as read [?])
+> (*Ṛ. Saṃ.* 1-67-9)
 
 *(**GLOSS**. The second and third are broken in the print and the glosses are only a rough guess.)*
 
@@ -4372,7 +4372,7 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 > नृषदे वेडिति । प्राणो वै नृषन्नुष्या नरस्तद्योऽयं मनुष्येषु प्राणोऽग्निस्तमेतेन प्रीणात्यप्सुषदे वेडिति योऽप्स्वग्निस्तमेतेन प्रीणाति बर्हिषदे वेडिति य ओषधिष्वग्निस्तमेतेन प्रीणाति वनसदे वेडिति यो वनस्पतिष्वग्निस्तमेतेन प्रीणाति स्वर्विदे वेडित्ययमग्निः स्वर्विदमेवैतमग्निं प्रीणाति ॥
 > *nṛṣade veḍ iti | prāṇo vai nṛṣann uṣyā naras tad yo 'yaṃ manuṣyeṣu prāṇo 'gnis tam etena prīṇāty apsuṣade veḍ iti yo 'psv agnis tam etena prīṇāti barhiṣade veḍ iti ya oṣadhiṣv agnis tam etena prīṇāti vanasade veḍ iti yo vanaspatiṣv agnis tam etena prīṇāti svarvide veḍ ity ayam agniḥ svarvidam evaitam agniṃ prīṇāti ‖*
-> (*Śatapatha Brāhmaṇa* 9-2-1-[8?] as read [?]; *nṛṣann uṣyā* and the end *svarvidam evaitam* are clotted in print, read as given [?])
+> (*Śatapatha Brāhmaṇa* 9-2-1-8; *nṛṣann uṣyā* and the end *svarvidam evaitam* are clotted in print, read as given [?])
 
 **GLOSS**
 
@@ -4384,16 +4384,16 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 "'To the one seated among men — *veṭ*' is the sense, [spoken] to the Agni who is in men. Of all men, it is the breath that is Agni. The man who offers an oblation for this breath pleases the Agni, in the form of breath, that pervades all men. By this oblation to the Agni who is in the waters he pleases the Agni hidden in the waters; by this oblation to the Agni seated on the grass he pleases the Agni pervading the plants; by the oblation given to the Agni hidden in the trees he pleases the Agni hidden in the trees; by the oblation given to the Agni who traverses the world of heaven he pleases the Agni who has traversed the world of heaven. Thus the praise of the Agni who pervades all regions is found in many places. In Śat. Br. 9-2-3 [as read, ?] this subject is further explained at length.
 
-*Sahasā pṛṣṭaḥ* — since *ojaḥ, pājaḥ, śavaḥ* and the like are read among the names of strength (*Ni.* 3-9 as read [?]), the word *sahas* means strength. [Sāyaṇa:] *saṅgatayo balavattayā stutaḥ ity arthaḥ* [as read, doubtful [?]] — the sense is: he is praised for [his] strength; [and in Kannada:] he is one praised for the greatness of his own power that dwells in himself. By many epithets such as 'son of strength' and 'lord of strength' Agni is praised in many contexts."
+*Sahasā pṛṣṭaḥ* — since *ojaḥ, pājaḥ, śavaḥ* and the like are read among the names of strength (*Ni.* 3-9 as read), the word *sahas* means strength. [Sāyaṇa:] *saṅgatayo balavattayā stutaḥ ity arthaḥ* [as read, doubtful [?]] — the sense is: he is praised for [his] strength; [and in Kannada:] he is one praised for the greatness of his own power that dwells in himself. By many epithets such as 'son of strength' and 'lord of strength' Agni is praised in many contexts."
 
-> तस्मिन्न्[?]न्ति प्रशिषस्तस्मिन्निष्टयः स वाजस्य शवसः शुष्मिणस्पतिः ।
-> *tasminn [?]nti praśiṣas tasmin niṣṭayaḥ sa vājasya śavasaḥ śuṣmiṇas patiḥ |*
-> (*Ṛ. Saṃ.* 1-[1?]43-1 as read [?]; the word after *tasmin* is clotted in print and not completed from memory)
+> तस्मिन्त्संति प्रशिषस्तस्मिन्निष्टयः स वाजस्य शवसः शुष्मिणस्पतिः ।
+> *tasmintsaṃti praśiṣas tasmin niṣṭayaḥ sa vājasya śavasaḥ śuṣmiṇas patiḥ |*
+> (*Ṛ. Saṃ.* 1-145-1; the word after *tasmin* is clotted in print and not completed from memory)
 
 > त्वं नो अग्ने अद्भुत क्रत्वा दक्षस्य मंहना ।
 > त्वे असुर्य१मारुहत्क्रणा [?] मित्रो न यज्ञियः ॥
 > *tvaṃ no agne adbhuta kratvā dakṣasya maṃhanā | tve asuryam āruhat kraṇā [?] mitro na yajñiyaḥ ‖*
-> (*Ṛ. Saṃ.* 3-1[0?]-2 as read [?]; *kraṇā* as printed, doubtful)
+> (*Ṛ. Saṃ.* 5-10-2; *kraṇā* as printed, doubtful)
 
 "— thus Agni alone is the lord of every form of power; and because he has such incomparable strength, he is entreated: protect us from the enemies who do harm.
 
@@ -4401,11 +4401,11 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 > स हि पुरू चिदोजसा विरुक्मता दीद्यानो भवति द्रुहंतरः । परशुर्न द्रुहंतरः ।
 > *sa hi purū cid ojasā virukmatā dīdyāno bhavati druhaṃtaraḥ | paraśur na druhaṃtaraḥ |*
-> (*Ṛ. Saṃ.* 1-[1?]2[2?]-3 as read [?])
+> (*Ṛ. Saṃ.* 1-127-3)
 
 > स पुरस्तादुपदधाति । आग्ने [as printed] जातान्प्रणुदा नः सपत्नानिति यथैव यजुस्तथा बन्धुः । अथ पश्चात् सहसा जातान्प्रणुदा नः सपत्नानिति यथैव यजुस्तथा बन्धुः ।
 > *sa purastād upadadhāti | āgne [as printed] jātān praṇudā naḥ sapatnān iti yathaiva yajus tathā bandhuḥ | atha paścāt sahasā jātān praṇudā naḥ sapatnān iti yathaiva yajus tathā bandhuḥ |*
-> (*Śat. Br.* 1-145-1?]8 as read [?])
+> (*Śat. Br.* 8-5-18)
 
 **GLOSS**
 
