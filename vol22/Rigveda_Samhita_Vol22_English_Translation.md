@@ -8568,6 +8568,286 @@ Among those rivers, Gaṅgā and the rest, the river named Sarasvatī, mother of
 - अभि पीप्यानाः (*abhi pīpyānāḥ*)—swelling
 - याः (*yāḥ*)—
 
+### Printed p. 193
+**Pratipadārtha** (continued)
+- याव नदिगळु (*yāva nadigaḷu*)—which rivers
+- यशसः (*yaśasaḥ*)—endowed with food
+- वावशानाः (*vāvaśānāḥ*)—desiring the welfare of the world; those rivers which are so
+- साकं (*sākaṃ*)—together
+- आ (*ā*) (गच्छंतु (*gacchaṃtu*))—let them flow hither
+
+##### भावार्थ (Bhāvārtha)
+
+Among those rivers, Gaṅgā and the rest, the river Sarasvatī, mother as it were of all waters, is the seventh. Such rivers, granting desired aims and having excellent streams, flow. Those rivers, swollen with their own water, which are endowed with food and desire the welfare of the world, let them flow here together.
+
+##### English translation
+May the seventh (stream), Saraswathi, the mother of the Sindhu and those rivers that flow copious and fertilizing, bestowing abundance of food, and nourishing (the people) by their waters, come at once together.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्ये नो॑ म॒रुतो॑ मंदसा॒ना धियं॑ तो॒कं च॑ वा॒जिनो॑ऽवंतु ।  
+> मा नः॒ परि॑ ख्य॒दक्ष॑रा॒ चरं॒त्यवी॑वृध॒न्युज्यं॒ ते र॒यिं नः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्ये । नः । मरुतः । मंदसानाः । धियं । तोकं । च । वाजिनः । अवंतु ।  
+> मा । नः । परि । ख्यत् । अक्षरा । चरंती । अवीवृधन् । युज्यं । ते । रयिं । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च मंदसाना मोदमाना वाजिनो वेगवंतस्त्ये ते मरुतो नो
+> स्मदीयं धियं यज्ञाख्यं कर्म तोकं चास्मदीयं पुत्रं चावंतु । रक्षंतु ।
+> अक्षरा व्याप्ता चरंती वाग्देवता च नोऽस्मान् परि त्यक्त्वास्मद्व्यतिरिक्तानन्यान्मा
+> ख्यत् । मा द्राक्षीत् । ते पूर्वोक्ता मरुतो वाक्च युज्यं युक्तमस्मो नोऽस्मदीयं रयिं धनमवीवृधन् । वर्धयंतु ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, rejoicing and swift, are to protect our sacrifice (धियं (*dhiyaṃ*), the rite called yajña) and our son. The all-pervading goddess Speech (अक्षरा चरंती (*akṣarā caraṃtī*)) is not to abandon us and look upon others, other than us. Let those Maruts and Speech increase our wealth that is fitting for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मंदसानाः (*maṃdasānāḥ*)—those full of joy
+- वाजिनः (*vājinaḥ*)—the swift-going
+- त्ये (*tye*)—and the famous
+- मरुतः (*marutaḥ*)—the Marut deities
+- नः धियं (*naḥ dhiyaṃ*)—our sacrificial rite
+- तोकं च (*tokaṃ ca*)—and our sons and the rest
+- अवंतु (*avaṃtu*)—let them protect
+- अक्षरा (*akṣarā*)—the (imperishable) one
+- चरंती (*caraṃtī*)—the all-pervading goddess of speech
+
+### Printed p. 194
+- नः (*naḥ*)—us
+- परि (*pari*)—abandoning
+- मा ख्यत् (*mā khyat*)—let her not join others
+- ते (*te*)—those Maruts and also the goddess of speech
+- युज्यं (*yujyaṃ*)—fit to be with us
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—for us
+- अवीवृधन् (*avīvṛdhan*)—let them increase
+
+##### भावार्थ (Bhāvārtha)
+
+Let the Marut deities, joyful, swift and famous, protect our sacrificial rite and our sons and the rest. Let the imperishable, all-pervading goddess of speech not abandon us and join others. Let those Maruts and the goddess of speech increase for us wealth fit to be with us.
+
+##### English translation
+May these joyous and swift going Maruts protect our sacrifice and our offspring : let not the imperishable goddess of speech, deserting us, speak (kindly) to our (adversaries) : and may both (she and the Maruts) associated augment our riches.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ म॒हीम॒रम॑तिं कृणुध्वं॒ प्र पू॒षणं॑ विद॒थ्यं१॒॑ न  ॒
+> वीरं ।  
+> भगं॑ धि॒यो॑ऽवि॒तारं॑ नो अ॒स्याः सा॒तौ वाजं॑ राति॒षाचं॒ पुरं॑धिं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । महीं । अरमतिं । कृणुध्वं । प्र । पूषणं । विदथ्यं । न । वीरं ।  
+> भगं । धियः । अवितारं । नः । अस्याः । सातौ । वाजं । रातिऽषाचं । पुरंऽधिं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः वो यूयमरमतिमरंगतिरहितां महीं महतीं भूमिं
+> प्र कृणुध्वं । आह्वयत । तथा विदथ्यं यज्ञार्हं वीरं न सर्वेषां प्रेरकं च
+> पूषणमेतन्नामकं देवं प्र कृणुध्वं । तथास्या धियो नोऽस्मदीयस्यास्य कर्मणोऽवितारं रक्षितारं भगं देवं चाह्वयत । अपि च सातावस्मदीये यज्ञे
+> युद्धे वा वाजमृभूणामन्यतमं देवमाह्वयत । कीदृशं वाजं । रातिषाचं
+> दातृसेवकं पुरंधिं पुराणां धारयितारं ॥
+
+##### Gist of the bhāṣya
+
+O praisers, invoke the great earth, which is free of अरमति (*aramati*) (lack of movement). Likewise invoke the deity named Pūṣan, worthy of sacrifice, a hero, the impeller of all. Invoke also the god Bhaga, protector of this our rite. Further, in our sacrifice or in battle, invoke Vāja, one of the Ṛbhus. What kind of Vāja? One who attends the giver (रातिषाचं (*rātiṣācaṃ*)), the sustainer of cities (पुरंधिं (*puraṃdhiṃ*)).
+
+### Printed p. 195
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers) वः (*vaḥ*)—you
+- अरमतिं (*aramatiṃ*)—the one free of violence
+- महीं (*mahīṃ*)—the great Earth goddess
+- प्र कृणुध्वं (*pra kṛṇudhvaṃ*)—call with prayer
+- विदथ्यं (*vidathyaṃ*)—worthy of sacrifice
+- वीरं (*vīraṃ*)—the impeller of the world
+- पूषणं न (*pūṣaṇaṃ na*)—Pūṣan also
+- प्र (*pra*)—call with prayer
+- नः (*naḥ*)—our
+- अस्याः धियः (*asyāḥ dhiyaḥ*)—of this rite
+- अवितारं (*avitāraṃ*)—the protector
+- भगं (*bhagaṃ*)—call the god Bhaga
+- सातौ (*sātau*)—in this our sacrifice
+- रातिषाचं (*rātiṣācaṃ*)—fond of giving
+- पुरंधिं (*puraṃdhiṃ*)—sustainer of cities
+- वाजं (*vājaṃ*)—call also Vāja (one of the Ṛbhus)
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, call with prayer the Earth goddess, free of violence and great. Call with prayer Pūṣan, worthy of sacrifice and impeller of the world. Call the god Bhaga, protector of this our rite. Call Vāja, fond of giving and sustainer of cities, in this our sacrifice.
+
+##### English translation
+Invoke, (worshippers), the nourishing earth, and the adorable hero, Pushan : (invoke) Bhaga, the protector of this our sacrifice and Vaja, the sustainer of old, the liberal of gifts to our solemnity.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॒यं वो॑ मरुतः॒ श्लोक॑ ए॒त्वच्छा॒ दिष्णं॑ निषिक्त॒पामवो॑भिः ।  
+> उ॒त प्र॒जायै॑ गृण॒ते वयो॑ धुर्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । अयं । वः । मरुतः । श्लोकः । एतु । अच्छ । विष्णुं । निसिक्तपां । अवःऽभिः ।  
+> उत । प्रजायै । गृणते । वयः । धुः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञपुच्छेऽच्छायं व इति चमसिनः स्वं स्वं चमसमभिमृशेयुः । सूत्रितं च । अच्छायं वो मरुतः श्लोक एत्वित्येतयाभिमृशंति । आ. ६-१२ । इति ॥
+> हे मरुतः वो युष्मानयं श्लोकोऽस्मदीयमिदं स्तोत्रमच्छैतु । अभिगच्छतु । निषिक्तपां निषिक्तस्य गर्भस्य रक्षितारं । यद्वा । चमसे निषिक्तानां सोमा-
+
+##### Gist of the bhāṣya
+
+At the tail of the sacrifice, with अच्छायं वः (*acchāyaṃ vaḥ*) the cup-holders (camasins) are to touch their own cups. It is also taught in the sūtra: अच्छायं वो मरुतः श्लोक एत्वित्येतयाभिमृशंति (*acchāyaṃ vo marutaḥ śloka etvityetayābhimṛśaṃti*) (Ā. 6-12). O Maruts, let this our praise come to you. It is to approach also Viṣṇu, the protector of the embryo that has been poured in (निषिक्तपां (*niṣiktapāṃ*)). Or else: the drinker of the soma poured into the cup, and अवोभिः (*avobhiḥ*)
+
+### Printed p. 196
+
+> नां पातारं अवोभिरस्मद्विषयैरक्षणैर्युक्तं विष्णुं चास्मदीयं स्तोत्रमच्छैतु । उतापि च मरुतो विष्णुश्च गृणते स्तुवते मह्यं प्रजायै पुत्ररूपां प्रजां वयोऽन्नं च धुः । अधुः । दधतु । हे मरुतो हे विष्णो यूयं स्वस्तिभिरविनाशकैर्नोऽस्मान् सदा सर्वदा पात । रक्षत ॥
+
+##### Gist of the bhāṣya
+
+(continued) …endowed with protections directed to us. Let our praise approach Viṣṇu too. And let the Maruts and Viṣṇu give to me, the praiser, progeny in the form of sons, and food. O Maruts, O Viṣṇu, always protect us with blessings, which are imperishable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—to you
+- अयं श्लोकः (*ayaṃ ślokaḥ*)—this our praise
+- अच्छ एतु (*accha etu*)—let it approach
+- निसिक्तपां (*nisiktapāṃ*)—the protector of the embryo
+- अवोभिः (*avobhiḥ*)—endowed with protections
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- अच्छ (*accha*)—let it approach
+- उत (*uta*)—and
+- गृणते (*gṛṇate*)—to me, the praiser
+- प्रजायै (*prajāyai*)—sons and the rest
+- वयः (*vayaḥ*)—food
+- धुः (*dhuḥ*)—let them give
+- (O Maruts and O Viṣṇu) यूयं (*yūyaṃ*)—you
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, let this our praise approach you. Let it approach Viṣṇu, protector of the embryo and endowed with protections. Let those deities give sons and the rest and food to me, the praiser. O Maruts and O Viṣṇu, protect us always with your auspicious acts.
+
+##### English translation
+May this praise come Maruts, before you : (may it come) before Vishnu, the guardian of the embryo, with his protecting faculties : may they both bestow upon (me), their adorer, progeny and food ; and ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the end of the sacrifice the Ṛtviks, reciting the Ṛk अच्छायं वः (*acchāyaṃ vaḥ*), are to touch their respective camasa vessels; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, अच्छायं वो मरुतः श्लोक एत्वित्येतयाभिमृशंति (*acchāyaṃ vo marutaḥ śloka etvityetayābhimṛśaṃti*) (Ā. 6-12).
+
+## Sūkta 37 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, आ वो वाहिष्ठ (*ā vo vāhiṣṭha*), of eight Ṛks, is of the seer Vasiṣṭha, has the Viśvedevas as deity and the Triṣṭubh metre. The Anukramaṇī says आ वोऽष्टौ (*ā vo 'ṣṭau*). The use is लैंगिकः (*laiṃgikaḥ*).
+
+##### Anuvāda
+
+This sūkta आ वो वाहिष्ठः (*ā vo vāhiṣṭhaḥ*) is the fourth sūkta in the third anuvāka. It has eight Ṛks. Vasiṣṭha is the seer of this sūkta; the Viśvedevas are the deity;
+
+### Printed p. 197
+the metre is Triṣṭubh. The Anukramaṇī says आ वोऽष्टौ (*ā vo 'ṣṭau*). The use is लैंगिकः (*laiṃgikaḥ*) (by the indication of the text).
+
+Sūkta 37. Maṇḍala 7. Anuvāka 3. Sūkta 37. Aṣṭaka 5. Adhyāya 4. Vargas 3, 4. Number of Ṛks in the sūkta: 8. Seer: Vasiṣṭha. Deity: the Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वो॒ वाहि॑ष्ठो वहतु स्त॒वध्यै॒ रथो॑ वाजा ऋभुक्षणो॒ अमृ॑क्तः ।  
+> अ॒भि त्रि॑पृ॒ष्ठैः सव॑नेषु॒ सोम्यै॒र्मदे॑ सुशिप्रा म॒हभिः॑ पृणध्वं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वः । वाहिष्ठः । वहतु । स्तवध्यै । रथः । वाजाः । ऋभुक्षणः । अमृक्तः ।  
+> अभि । त्रिपृष्ठैः । सवनेषु । सोमैः । मदे । सुशिप्राः । महःभिः । पृणध्वं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनेन द्वृचेनर्भवः स्तूयंते । ऋभुक्षणो विस्तीर्णस्य तेजसो निवासभूता हे वाजा ऋभवः वाहिष्ठो वोढृतमः स्तवध्यै स्तोतुमर्होऽमृक्तः केनाप्यहिंसितो युष्मदीयो रथो वो युष्माना वहतु । आ समंतादस्मदीयं यज्ञं प्रापयतु । हे सुशिप्राः शोभनहनवः यूयं तेन रथेनागत्य सवनेष्वस्मदीययज्ञेषु मदे मदनिमित्ते त्रिपृष्ठैः क्षीरदधिसक्तुमिश्रैर्महभिर्महद्भिः सोम्यैरभि पृणध्वं । युष्मदीयं जठरमभिपूरयते । स रथो युष्मानावहतीति पूर्वेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+With this pair of verses the Ṛbhus are praised. O Vājas, Ṛbhus, abode of wide-spread brilliance (ऋभुक्षणः (*ṛbhukṣaṇaḥ*)): let your chariot, best of bearers, worthy of praise, unharmed by anyone, bring you here, to our sacrifice. O fair-jawed ones (सुशिप्राः (*suśiprāḥ*)), coming by that chariot, at our sacrifices fill your bellies, for your exhilaration, with the great soma-offerings mixed with the triple admixture of milk, curds and barley meal (त्रिपृष्ठैः (*tripṛṣṭhaiḥ*)). The construction: that chariot brings you, as in the former sentence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O abode of brilliance
+- वाजाः (*vājāḥ*)—O Ṛbhus
+- वाहिष्ठः (*vāhiṣṭhaḥ*)—that can bear well
+- स्तवध्यै (*stavadhyai*)—worthy of praise
+- अमृक्तः (*amṛktaḥ*)—unharmed
+- रथः (*rathaḥ*)—your chariot
+- वः (*vaḥ*)—you
+- आ वहतु (*ā vahatu*)—let it bring
+- सुशिप्राः (*suśiprāḥ*)—O Ṛbhus of excellent cheeks
+- सवनेषु (*savaneṣu*)—in our sacrifices
+- मदे (*made*)—for your delight
+- त्रिपृष्ठैः (*tripṛṣṭhaiḥ*)—accompanied by milk and other substances
+- महभिः (*mahabhiḥ*)—of great nature
+- सोम्यैः (*somyaiḥ*)—with soma juices
+- अभि पृणध्वं (*abhi pṛṇadhvaṃ*)—fill your bellies
+
+### Printed p. 198
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, abode of brilliance, let your chariot, which can bear you well, is worthy of praise and harmless, bring you here. O Ṛbhus of excellent cheeks, in our sacrifice, for your delight, fill your bellies with the great soma juices accompanied by milk and other substances.
+
+##### English translation
+Vajas, possessors of energy, let your capacious, commendable, and unobstructed chariot bring you (hither): be satiated, handsome-chinned, with the copious triply-combined libations (poured out) for your exhilaration at our sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next the Ṛbhus are praised. We have already explained the matter of the Ṛbhus at length before.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं ह॒ रत्नं॑ म॒घव॑त्सु धत्थ स्व॒र्दृश॑ ऋभुक्षणो॒ अमृ॑क्तं ।  
+> सं य॒ज्ञेषु॑ स्वधावंतः पिबध्वं॒ वि नो॒ राधां॑सि म॒तिभि॑र्दयध्वं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । ह । रत्नं । मघवत्सु । धत्थ । स्वःदृशः । ऋभुक्षणः । अमृक्तं ।  
+> सं । यज्ञेषु । स्वधावंतः । पिबध्वं । वि । नः । राधांसि । मतिभिः । दयध्वं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभुक्षणो हे ऋभवः स्वर्दृशः स्वर्गं पश्यंतो यूयं ह यूयमेव मघवत्सु हविर्लक्षणान्नवत्स्वस्मासु निमित्तेऽस्मभ्यममृक्तमहिंसितं । चोरादिभिर्नापहृतमित्यर्थः ॥ रत्नं रमणीयं दत्थ । धारयथ । तदनंतरं स्वधावंतो बलवंतस्ते यूयं यज्ञेष्वस्मदीययज्ञेषु सं पिबध्वं । सम्यक् सोमं पिबत । अपि च यूयं मतिभिर्धनहेतुभिर्नोऽस्मभ्यं राधांसि धनानि वि दयध्वं । विशेषेण दत्त ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhukṣans, Ṛbhus, seeing heaven, you yourselves bestow on us, who have oblations and food (मघवत्सु (*maghavatsu*)), delightful wealth that is अमृक्तं (*amṛktaṃ*), unharmed, that is, not carried off by thieves and others. Thereafter, you, strong (स्वधावंतः (*svadhāvaṃtaḥ*)), drink well the soma at our sacrifices. And with your thoughts (मतिभिः (*matibhiḥ*)), the causes of wealth, distribute wealth (राधांसि (*rādhāṃsi*)) specially to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Ṛbhus
+- स्वर्दृशः (*svardṛśaḥ*)—who see heaven
+- यूयं ह (*yūyaṃ ha*)—you
+- मघवत्सु (*maghavatsu*)—for us who have oblations
+- अमृक्तं (*amṛktaṃ*)—unharmed
+- रत्नं (*ratnaṃ*)—wealth
+- धत्थ (*dhattha*)—
+
 ---
 
-**Progress note:** Done through printed p. 192. pp. 187-192 (batch API)
+**Progress note:** Done through printed p. 198. pp. 193-198 (batch API)
