@@ -9493,6 +9493,168 @@ Maṇḍala 1; Anuvāka 23; Sūkta 176; Aṣṭaka 2; Adhyāya 4; Varga 19. Numb
 
 "O Indu, moistening Soma, for the attainment of better wealth for us, that is, for the sacrifice of the kind described, delight Indra, make him rejoice; for that purpose you yourself …".
 
+### Printed p. 397
+
+> वृषा कामानां वर्षिता आ विश । अथ तथा पीतः सन्नृघायमाणः शत्रुन् हिंसयन्निन्वसि । व्याप्प्नोषि । अत्योऽंत्यंतिके शत्रुं न विंदसि । न लभसे । यतः शत्रवस्त्वत्सामर्थ्येन पलयिताः अतो न विंदसि । यद्वा । उत्तरार्ध इंद्रपरतया व्याख्येयः ।
+> हे इंद्र त्वं तं सोमं पीत्र्घायमाणः सन्निन्वसि । अंतिके शत्रुं न विंदसि ॥
+
+##### Gist of the bhāṣya
+
+वृषा (*vṛṣā*) means the showerer of desires, and आ विश (*ā viśa*) means "enter him". Then, having been drunk, he pervades (इन्वसि (*invasi*)) while harming enemies, who are ऋघायमाणः (*ṛghāyamāṇaḥ*) ("enemy-smiting"). Close at hand (अंतिके (*aṃtike*)) he does not find (न विंदसि (*na viṃdasi*)) an enemy, that is, does not obtain one, because the enemies have been put to flight by his power, and so he does not find them. Alternatively, the second half of the verse is to be explained as referring to Indra: "O Indra, you, drinking that Soma, pervade while harming the enemy, and you find no enemy near you." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-juice
+- नः (*naḥ*)—our
+- वस्य इष्टये (*vasya iṣṭaye*)—for the obtaining of wealth
+- इंद्रं (*iṃdraṃ*)—Indra
+- मत्सि (*matsi*)—make glad
+- वृषा (*vṛṣā*)—as the showerer of desires
+- आ विश (*ā viśa*)—enter well (pervade) (Indra)
+- ऋघायमाणः (*ṛghāyamāṇaḥ*)—becoming a harmer of enemies (when thus drunk)
+- इन्वसि (*invasi*)—you pervade
+- अंति (*aṃti*)—near
+- शत्रुं (*śatruṃ*)—an enemy
+- न विंदसि (*na viṃdasi*)—you do not get. [Or: O Indra, you, having drunk that Soma, harm enemies and pervade; hence you do not get an enemy near.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-juice, for the gain of wealth and the like for us, gladden Indra. O Soma-juice, the showerer of desires, pervade him well. O Indra, having drunk the Soma you strike the enemies down thoroughly; for that very reason they cannot come near you.
+
+##### English translation (H. H. Wilson)
+Soma, exhilarate Indra (at the sacrifice we offer). for the sake of obtaining wealth : pervade him, showerer (of benefits), for when imbibed you are the annihilator (of enemies), and suffer not a foe to be nigh.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sūkta 176 was composed by the sage Agastya and is addressed to Indra. In its first Ṛk, मत्सि नः (*matsi naḥ*), Soma, who gives Indra satisfaction, is addressed with a prayer. It is suggested that from the drinking of the Soma-juice there come: (1) the exceeding joy that Indra obtains; (2) the growth of strength that enables him to subdue enemies; and (3) the gift of wealth that Indra, in this joy, bestows on the sacrificer.
+
+1. मत्सि—मादयस्व (*matsi—mādayasva*): the prayer is "give satisfaction". It is well known that in many places Indra is described as fond of Soma. And the happiness obtained from drinking this Soma-juice
+
+### Printed p. 398
+is described as extremely great, as can be known from the account in the Ṛks below. The prayer is also that such happiness-giving Soma-juice may be prepared for Indra's drinking.
+
+यत्र ज्योतिरजस्रं यस्मिन् लोके स्वर्हितं । तस्मिन्मां धेहि पवमानामृते लोके अक्षित इंद्रायॆंदो परि स्रव ॥ (*yatra jyotirajasraṃ yasmin loke svarhitaṃ | tasminmāṃ dhehi pavamānāmṛte loke akṣita iṃdrāyèṃdo pari srava ‖*) (Ṛ. Saṃ. 9-113-7)
+
+यत्र कामा निकामाश्च यत्र ब्रध्नस्य विष्टपं । स्वधा च यत्र तृप्तिश्च तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra kāmā nikāmāśca yatra bradhnasya viṣṭapaṃ | svadhā ca yatra tṛptiśca tatra māmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*) (Ṛ. Saṃ. 9-113-10)
+
+यत्रानंदाश्च मोदाश्च मुदः प्रमुद आसते । कामस्य यत्राप्ताः कामास्तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatrānaṃdāśca modāśca mudaḥ pramuda āsate | kāmasya yatrāptāḥ kāmāstatra māmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*) (Ṛ. Saṃ. 9-113-11)
+
+The nature of the happiness described in these and similar Ṛks surpasses even the heavenly happiness commonly described. Bliss, joy and delight free of desire are obtained through the favour of Soma. In the present Ṛk, with the word मत्सि (*matsi*), the prayer is that such happiness-giving satisfaction be produced for Indra.
+
+2. Second, शत्रुमंति न विंदसि (*śatrumaṃti na viṃdasi*); अंतिके शत्रुं न विंदसि (*aṃtike śatruṃ na viṃdasi*). The power of the Soma-juice is described thus: by your influence you do not bring enemies near but drive them far away. Sāyaṇa has indicated that this sentence can have two senses: either the Soma drunk by Indra, by its power, does not let enemies come near; or, हे इंद्र त्वं सोमं पीत्वा अंतिके शत्रुं न विंदसि (*he iṃdra tvaṃ somaṃ pītvā aṃtike śatruṃ na viṃdasi*), "O Indra, you, having drunk the Soma-juice and increased your strength, drive the enemies away", a sense that refers to Indra. The purport of both constructions is one and the same: Soma-juice gives Indra vigour, and by drinking it Indra can subdue his enemies. The same idea is stated in many other places too. For example:
+
+त्वं सद्यो अपिबो जात इंद्र मदाय सोमं परमे व्योमन् । यद्ध द्यावापृथिवी अविवेशीरथाभवः पूर्व्यः कारुधायाः ॥ (*tvaṃ sadyo apibo jāta iṃdra madāya somaṃ parame vyoman | yaddha dyāvāpṛthivī aviveśīrathābhavaḥ pūrvyaḥ kārudhāyāḥ ‖*) (Ṛ. Saṃ. 3-32-10)
+
+In such Ṛks it is described how Indra's mother, as soon as Indra was born, had him drink the Soma-juice, and how his greatness grew by it. And as a result of this,
+
+### Printed p. 399
+अवंशे द्यामस्तभायद्बृहंतमा रोदसी अपृणदंतरिक्षं । स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मद इंद्रश्चकार ॥ (*avaṃśe dyāmastabhāyadbṛhaṃtamā rodasī apṛṇadaṃtarikṣaṃ | sa dhārayatpṛthivīṃ paprathacca somasya tā mada iṃdraścakāra ‖*) (Ṛ. Saṃ. 2-15-2)
+
+Indra is described as having grown powerful and war-intoxicated, and as having gained the strength to support even heaven and earth. The meaning is that by this very strength Indra drives his enemies far off and wins victory.
+
+3. Indra's growth benefits the sacrificers in many ways and increases their wealth. Therefore the prayer is made: वस्य इष्टय वृषा विश (*vasya iṣṭaya vṛṣā viśa*). वस्य इष्टये । वसीयसो धनस्य प्राप्तये उक्तलक्षणाय यागाय वा । (*vasya iṣṭaye | vasīyaso dhanasya prāptaye uktalakṣaṇāya yāgāya vā |*) It means either "for the gaining of wealth" or "for the sacrifice that brings wealth". Qualifications such as वसुवत् (*vasuvat*) are used of Soma in many places. For example:
+
+गोवित्पवस्य वसुविद्धिरण्यविद्रॆतोधा इंदो भुवनेष्वर्पितः । त्वं सुवीरो असि सोम विश्ववित्तं त्वा विप्रा उप गिरेम आसते ॥ (*govitpavasya vasuviddhiraṇyavidrètodhā iṃdo bhuvaneṣvarpitaḥ | tvaṃ suvīro asi soma viśvavittaṃ tvā viprā upa girema āsate ‖*) (Ṛ. Saṃ. 9-26-39)
+
+In this Ṛk the three epithets वसुवित् (*vasuvit*), हिरण्यवित् (*hiraṇyavit*) and गोवित् (*govit*) all belong to Soma. Since it has such qualities, Indra too, having drunk the Soma-juice, becomes able to supply wealth.
+
+इंदो—इंदुरिंधेरुनत्तीर्वा (*iṃdo—iṃduriṃdherunattīrvā*): this word can be formed either from the root इंथ् (*iṃth*), which gives the sense "blaze", or from the root उद् (*ud*), which gives the sense "flow so as to wet". (Ni. 10-42.) The Nirukta-writers have quoted the Ṛk
+
+प्र तद्वोचेयं भव्यायेंदवे हव्यो न य इषवान्‌मन्म रेजति रक्षोहा मन्म रेजति ॥ (*pra tadvoceyaṃ bhavyāyeṃdave havyo na ya iṣavānmanma rejati rakṣohā manma rejati ‖*) (Ṛ. Saṃ. 1-129-6)
+
+and so shown both senses of the word इंदु (*iṃdu*). In the present Ṛk too, this word praises in Soma both the quality of shining and the quality of flowing in liquid form and making everything moist.
+
+ऋघायमाणः— शत्रुन् हिंसयन् (*ṛghāyamāṇaḥ— śatrun hiṃsayan*): "harming enemies". Monier Williams's Dictionary gives "Violence, Passion", that is, intense fervour, wrath. This word is used in some other Ṛks as well. For example,
+
+### Printed p. 400
+इंद्रः सुशिप्रो मघवा तरुत्रो महाव्रातस्तुविकूर्मिर्यघवान् । यदुग्रो धा बाधितो मर्त्येषु क्व १ त्या ते वृषभ वीर्याणि ॥ (*iṃdraḥ suśipro maghavā tarutro mahāvrātastuvikūrmiryaghavān | yadugro dhā bādhito martyeṣu kva 1 tyā te vṛṣabha vīryāṇi ‖*) (Ṛ. Saṃ. 3-30-3)
+
+In such Ṛks too, as in the present Ṛk, the purport stated is शत्रुविषयहिंसावान् (*śatruviṣayahiṃsāvān*), "one who has gained the power to harm enemies". Sāyaṇa, on the Ṛk
+
+नहि त्वा रोदसी उभे ऋघायमाणमिन्वतः । जेषः स्वर्वतीरपः सं गा अस्मभ्यं धूनुहि ॥ (*nahi tvā rodasī ubhe ṛghāyamāṇaminvataḥ | jeṣaḥ svarvatīrapaḥ saṃ gā asmabhyaṃ dhūnuhi ‖*) (Ṛ. Saṃ. 1-10-8)
+
+explaining this word, said न्यन् हंतीति ऋघा । शत्रुवधं कुर्वाणं । (*nyan haṃtīti ṛghā | śatruvadhaṃ kurvāṇaṃ |*) that is, the epithet is used because he is a slayer of men. In the present Ṛk this word is an epithet either of Soma or of Indra.
+
+इन्वसि (*invasi*): since this word is read among the roots denoting the action of pervading, such as इन्वति (*invati*) and नक्षति (*nakṣati*) (Ni. 3-10), इन्वसि (*invasi*) means "you pervade". The meaning is: you pervade Indra and increase his strength.
+
+##### Grammar
+
+- मत्सि—मदी स्तुतिमोदमदस्वप्नकांतिगतिषु इति धातुः । अंतर्भावितण्यर्थकः । लट् मध्यमपुरुषैकवचने सिप् । बहुलं छंदसि इति विकरणस्य लुक् । खरिच इति धातुदकारस्य तकारादेशः । पादादित्वात् निघातस्वरो न आगच्छति । प्रत्ययस्य पित्त्वात् धातुस्वरः अवशिष्यते ।
+- वस्य इष्टये—वसीयसः इष्टिः प्राप्तिः तस्यै । वसुशब्दात् मतुप् । तदुत्तरं ईयसुन् प्रत्यये आगते विन्‌मतोर्लुक् (पा. सू. ५-३-६५) इति मतुपो लुक् । टेः इति टिलोपः । छांदसत्वेन यकारस्यापि लोपः आगच्छति । पूर्वपदप्रकृतिस्वरः आगच्छति ।
+- विश—विश प्रवेशने इति धातुः । लोट् मध्यमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरः आगच्छति ।
+- ऋघायमाणि—हन हिंसागत्योः इति धातुः । अन्येभ्योपि दृश्यंते (पा. सू. ३-२-७५) इति विट् प्रत्ययः । दृशिग्रहणसामर्थ्यात् नकारस्य अलोपः । हकारस्य घकारादेशः । अनृघा ऋघा भवति इति अर्थविवक्षायां लोहितादि डाज्यः क्यष् (पा. सू. ३-१-१३) इति क्यष् प्रत्ययः । वाक्यषः (पा. सू. १-३-९०) इति आत्मनेपदप्रत्ययः आगच्छति । लटः शानचादेशः । लसार्वधातुकस्य अनुदात्तत्वात् क्यष्स्वरः अवशिष्यते । **NOTE**
+
+### Printed p. 401
+- इन्वसि—इवि व्याप्तौ इति धातुः । इदित्त्वात् नुमागमः । लट् मध्यमपुरुषैकवचनांतरूपम् । तिणंतनिघातस्वरः आगच्छति ।
+- अंति—अंतिके इत्यत्र छांदसत्वेन कादेः लोपः आगतः ।
+- विंदसि—विद्‌ल्य लाभे इति धातुः । तुदादिः । लट् मध्यमपुरुषैकवचने शेमुचादीनाम् (पा. सू. ७-१-५९) इति नुमागमः । तस्य अनुस्वारपरसवर्णौ । तिजंतनिघातस्वरः आगच्छति । **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मि॒न्ना वे॑शया॒ गिरो॒ य एक॑श्चर्षणी॒नां ।  
+> अनु॑ स्व॒धा यमु॒प्यते॒ यवं॒ न चर्कृ॑ष॒द्वृषा॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शस्मिन् । आ । वेशय । गिरः । यः । एकः । चर्षणीनां ।  
+> अनु । स्वधा । यं । उप्यते । यवं । न । चर्कृषत् । वृषा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंतरात्मन् होतर्वा तस्मिन्नसिद्ध इंद्रे गिरः स्तुतिरूपा वाच आवेशय ।
+> स्थापय । तं स्तुहीत्यर्थः । य इंद्रश्चर्षणीनां ज्ञानवतां मनुष्याणामेक एक
+> एव स्थानीयः । यमनु यमेवेंद्रमनु स्वधा हनिर्लक्षणमन्नमुप्यते । दीयत
+> इत्यर्थः । स चेंद्रो वृषा वर्षकः सन्यवं न यवमिव पक्वं यवं यथा
+> चर्कृषत् क्रमेणाददते कर्षकाः तद्वदादत्ते । यद्वा । अनु स्वधान्नसाधनं व्रीह्यादिक
+> मुप्यते भूम् यस्येंद्रस्य वृष्टिरूपमनुग्रहमपेक्ष्योप्यत इत्यर्थः । स च
+> वृषा वृष्टेर्वर्षिता स इंद्रो यवं न यवमिव सर्वबीजमपि चर्कृषत् ।
+> पुनःपुनः करोति । अंकुरयति । हविःसाधनत्वप्राशस्त्रमपेक्ष्य यवशब्दः प्रयुक्तः ।
+> एवंमहानुभाव इंद्रे गिर आ वेशयेति ॥
+
+##### Gist of the bhāṣya
+
+"O inner self, or O Hotṛ, cause your praises, speech in the form of hymns, to enter (आवेशय (*āveśaya*)) into that Indra, who is well known." आवेशय (*āveśaya*) means "establish": the sense is "praise him". This Indra is the one (एकः (*ekaḥ*)) sole स्थानीयः (*sthānīyaḥ*) ("support") of the चर्षणीनां (*carṣaṇīnāṃ*), the knowing men. After whom, that is, after Indra himself (अनु (*anu*)), the स्वधा (*svadhā*), food in the form of the oblation, is offered (उप्यते (*upyate*), "is given"). And that Indra, being वृषा (*vṛṣā*), the shower, takes it, as ripe barley (यवं न (*yavaṃ na*)), as farmers harvest it by turns (चर्कृषत् (*carkṛṣat*)), so he takes it.
+
+Alternatively: after (अनु (*anu*)) whose rain-form favour the स्वधा (*svadhā*), rice and the like, the means of food, is sown (उप्यते (*upyate*)) in the earth, that Indra, the वृषा (*vṛṣā*), the sender of rain, makes all seed, like barley (यवं न (*yavaṃ na*)), sprout again and again (चर्कृषत् (*carkṛṣat*)). The word यव (*yava*) is used with regard to barley's pre-eminence as a means of oblation. "Into Indra, of such great power, cause your praises to enter."
+
+### Printed p. 402
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- चर्क्षणीनां (*carkṣaṇīnāṃ*)—of all the knowing
+- एकः (*ekaḥ*)—the one sole refuge
+- यं अनु (*yaṃ anu*)—after which Indra
+- स्वधा (*svadhā*)—food in the form of oblation
+- उप्यते (*upyate*)—is given
+- सः (*saḥ*)—that Indra
+- वृषा (*vṛṣā*)—as the shower of desired things
+- यवं न (*yavaṃ na*)—as farmers reap ripe barley grain
+- चर्कृषत् (*carkṛṣat*)—he accepts. [Or: यं अनु (*yaṃ anu*), after which Indra (the rain given by Indra); स्वधा (*svadhā*), rice and the like, means of food; उप्यते (*upyate*), are sown in the earth; सः (*saḥ*), that; वृषा (*vṛṣā*), Indra, the rain-maker; यवं न (*yavaṃ na*), like barley; चर्कृषत् (*carkṛṣat*), makes (all seeds) sprout again and again.]
+- तस्मिन् (*tasmin*)—in such an Indra
+- गिरः (*giraḥ*)—praises in the form of words
+- आ वेशय (*ā veśaya*)—establish (praise Indra)
+(Addressed to the self or the Hotṛ.) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O self (O Hotṛ), praise Indra, the sole refuge of all the knowing, the sender of the rain needed for the growth of rice and the like that are the means of food, and the cause of the sprouting of barley and all other grains.
+
+##### English translation (H. H. Wilson)
+Pervade with our praise him who is the sole sustainer of men, to whom the oblation is presented. and who, the showerer (of benefits), causes (every desire) to bud like barley.
+
+##### विशेषविषयगळु (Special Topics)
+
+एकः चर्षणीनां-ज्ञानवतां मनुष्याणां एक एव स्थानीयः । (*ekaḥ carṣaṇīnāṃ-jñānavatāṃ manuṣyāṇāṃ eka eva sthānīyaḥ |*) Indra is the one support for all men endowed with wisdom, that is, their sole bearer and nourisher; thus Indra's greatness is praised.
+
+चर्षणि (*carṣaṇi*): this word is read among the names of man (Ni. 3-7). The word is much used in the sense "man". For example:
+
+अ याहि पूर्वीरति चर्षणीरा अर्य आशिष उप नो हरिभ्यां । इमा हि त्वा मतयः स्तोमतष्वा इंद्र हवंते सख्यं जुषाणाः ॥ (*a yāhi pūrvīrati carṣaṇīrā arya āśiṣa upa no haribhyāṃ | imā hi tvā matayaḥ stomataṣvā iṃdra havaṃte sakhyaṃ juṣāṇāḥ ‖*) (Ṛ. Saṃ. 3-43-2)
+
+विश्वा यश्चर्षणीरभ्या ३ सा वाजेषु सासहत् । (*viśvā yaścarṣaṇīrabhyā 3 sā vājeṣu sāsahat |*) (Śa. Brā. 5-23-1)
+
 ---
 
-**Progress note:** Done through printed p. 396. pp. 391-396 (batch API)
+**Progress note:** Done through printed p. 402. pp. 397-402 (batch API)
