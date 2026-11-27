@@ -8,7 +8,7 @@ Classes (every mark of the English file falls in exactly one; dry run by default
           Wikisource reference (REQUIREMENTS B1.2, K9) and the English file's Sanskrit is derived data, so a doubt about the old reading is moot: ` [?]` is removed.
   BARE    a whole-line remark of ours (starts `*(`, `(`, `*[`) that has no digit and no Kannada letter and speaks only of doubtful/small-type/image readings
           (boilerplate): the whole line is removed (B4.1: nothing of ours in the text).
-  NUMREAD a reference whose doubtful form is followed by the old reader's own reading `as read "೧-೧೦"` (Kannada digits): when the supplied Kannada of the page (and its
+  NUMREAD (and NUMOK, see code) a reference whose doubtful form is followed by the old reader's own reading `as read "೧-೧೦"` (Kannada digits): when the supplied Kannada of the page (and its
           neighbours) has exactly that reference, the whole doubtful form, the `as read` and its marks become the reference in Latin figures (numbers are taken from the Kannada).
   OTHER   everything else (prose, tables, remarks with a number or a word): left for a reader; listed.
 --write applies BLOCK, BARE and NUMREAD and logs one summary line per class (and every removed BARE line) in volN/review/repair_log.md and volN/review/qmark_strip_removed.tsv."""
@@ -24,11 +24,13 @@ KP = {int(m.group(1)): m.group(2) for m in re.finditer(r'<!-- printed (\d+)(?::[
 def refs_of(pg):
     s = ''.join(KP.get(q, '') for q in (pg - 1, pg, pg + 1)).translate(KD)
     return set(re.sub(r'\s*[-.:–]\s*', '-', x) for x in re.findall(r'\d+(?:\s*[-.:–]\s*\d+)+', s))
-NUMREAD = re.compile(r'(?P<name>(?:[A-ZĀṚŚ][^\s()\[\]]*\.?\s?){1,3})(?P<num>(?:\d|\[\?\]|-|–)+)[,;]?\s*\(?(?:as read|as printed|read) "(?P<kn>[೦-೯][೦-೯\-–]*)"(?:\s*\[\?\])?\)?')
+NUMREAD = re.compile(r'(?P<name>(?:[A-ZĀṚŚ][^\s()\[\]]*\.?\s?){1,3})(?P<num>(?:\d|\[\?\]|-|–)+)[,;]?\s*\(?(?:as read|as printed|read) "(?P<kn>[೦-೯0-9][೦-೯0-9\-–]*)"(?:\s*\[\?\])?\)?')
 DIG = re.compile(r'[0-9೦-೯०-९]'); KNS = re.compile('[ಀ-೿]')
 BOIL = re.compile(r'doubtful|small type|small-type|read from the (?:image|print|zoom)|zoom|OCR|not settled|glyph|as read|as printed|uncertain|cannot read|illegible', re.I)
 def is_remark(l):
     s = l.lstrip(); return s.startswith('*(') or s.startswith('(') or s.startswith('*[') or s.startswith('[')
+# NUMOK: a complete reference (no mark inside) followed only by a doubt clause `as printed [?]` / `[as read, [?]]`; when the Kannada pages have that very reference, only the clause goes.
+NUMOK = re.compile(r'(?P<name>(?:[A-ZĀṚŚ][^\s()\[\]]*\.?\s?){1,3})(?P<num>\d+(?:-\d+)+)(?P<cl>,?\s*(?:\[\s*)?(?:as read|as printed)(?:,?\s*\[\?\])?(?:\s*\])?)(?=[\s)\]*.,;]|$)')
 page = None; newL = list(L); nr = 0; nr_rows = []
 for i, l in enumerate(L):
     m = re.match(r'### (?:Page|Printed p\.) (\d+)\b', l)
@@ -41,7 +43,12 @@ for i, l in enumerate(L):
         if kref in R:
             nr += 1; nr_rows.append((i + 1, mm.group(0), mm.group('name') + kref)); return mm.group('name') + kref
         return mm.group(0)
-    newL[i] = NUMREAD.sub(sub, l)
+    def sub2(mm):
+        global nr
+        if '[?]' in mm.group('cl') and mm.group('num') in R:
+            nr += 1; nr_rows.append((i + 1, mm.group(0), mm.group('name') + mm.group('num'))); return mm.group('name') + mm.group('num')
+        return mm.group(0)
+    newL[i] = NUMOK.sub(sub2, NUMREAD.sub(sub, l))
 L0 = L; L = newL
 cls = {}; cnt = collections.Counter(); ex = collections.defaultdict(list)
 for i, l in enumerate(L):
