@@ -12397,6 +12397,246 @@ The divine Waters, the purifiers of many, gratifying men with food, pursue the p
 
 The word pavitra is formed from the root punāti, meaning "to purify". Since a mantra purifies those who recite it, pavitra means a mantra. In this matter the Vedic sentence येन देवाः पवित्रेणात्मानं पुनते सदा (*yena devāḥ pavitreṇātmānaṃ punate sadā*) is the example. In this sentence pavitreṇa means "by a mantra". The sense of the sentence is: the mantra, by whose power of recitation the gods make themselves pure.
 
+### Printed p. 283
+
+##### विशेषविषयगळु (Special Topics)
+
+The rays are also called pavitra. On this point the two Vedic passages already quoted above, beginning गभस्तिपूतः (*gabhastipūtaḥ*), serve as examples.
+
+आपः पवित्रमुच्यंते । शतपवित्राः स्वधया मदंतीः । बहूदकाः (*āpaḥ pavitramucyaṃte | śatapavitrāḥ svadhayā madaṃtīḥ | bahūdakāḥ*) (Ni. 5-6)
+
+The word pavitra also means waters. The sentence of the present Ṛk, शतपवित्राः (*śatapavitrāḥ*), is itself the Vedic example on this point. Here शतपवित्राः (*śatapavitrāḥ*) means abundant waters.
+
+अग्निः पवित्रमुच्यते । वायुः पवित्रमुच्यते । सोमः पवित्रमुच्यते । सूर्यः पवित्रमुच्यते । इंद्रः पवित्रमुच्यते । अग्निः पवित्रं स मा पुनातु वायुः सोमः सूर्य इंद्रः पवित्रं ते मा पुनंतु इत्यपि निगमो भवति ॥ (*agniḥ pavitramucyate | vāyuḥ pavitramucyate | somaḥ pavitramucyate | sūryaḥ pavitramucyate | iṃdraḥ pavitramucyate | agniḥ pavitraṃ sa mā punātu vāyuḥ somaḥ sūrya iṃdraḥ pavitraṃ te mā punaṃtu ityapi nigamo bhavati ‖*)
+
+It is the custom to call any purifying thing or deity by the word pavitra. In this sense the deities Agni, Vāyu, Soma, Sūrya and Indra are also denoted by the word pavitra. The Vedic passage quoted above is the example on this point.
+
+देवानामपि यंति पाथः (*devānāmapi yaṃti pāthaḥ*)—these waters enter the path of the gods' travel, that is, the atmosphere. An explanation is needed of what is meant by the waters entering the atmosphere. Reservoirs such as the sea, heated by the fierce rays of the sun, are transformed as vapour into clouds. The place of these clouds is the atmosphere. Therefore "the waters entered the atmosphere" means that the waters, in the form of clouds, pervade the atmosphere.
+
+The same matter is supported by the words याः सूर्यो रश्मिभिः ततान (*yāḥ sūryo raśmibhiḥ tatāna*) of the next Ṛk.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याः सूर्यो॑ र॒श्मिभि॑रात॒तान॒ याभ्य॒ इंद्रो॒ अर॑दद्गा॒तु-मू॒र्मिं ।  
+> ते सिं॑धवो॒ वरि॑वो धातना नो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । सूर्यः । रश्मीभिः । आततान । याभ्यः । इंद्रः । अरदत् । गातुं । ऊर्मिं ।  
+> ते । सिंधवः । वरिवः । धातन । नः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ४ ॥
+
+### Printed p. 284
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यो देवो या आपो रश्मिभिः स्वकीयैः किरणैराततान विस्तारयति । सूर्यो हि रश्मिभिरुदकसारमादाय वर्षतीत्यर्थः । याभ्योऽद्भ्य ऊर्मिं अर्तेरिदं रूपं । गमनयोग्यं गातुं मेघेभ्यो निर्गमनसाधनं मार्गमिंद्रोऽरदत् वज्रेण मेघांस्ताडयन्संयच्छति हे सिंधव आपः ते यूयं नोऽस्मभ्यं वरिवो धनं धातन धत्त । प्रयच्छत ॥ त इति सिंधुशब्देन समानाधिकरणत्वात्पुल्लिंगत्वं ॥ हे अब्देवताः यूयं सर्वदा नोऽस्मान्कल्याणैः पालयत ॥
+
+##### Gist of the bhāṣya
+
+The waters which the sun, the deity, spreads out with his own rays: the sun takes the essence of water with his rays and rains. For which waters Indra, with his thunderbolt, struck the clouds and made गातुं (*gātuṃ*), a path of issue from the clouds, and ऊर्मिं (*ūrmiṃ*) (a form of the root *arteḥ*), fit for going. "O rivers, waters, as such bestow वरिवः (*varivaḥ*), wealth, upon us." The word ते (*te*) is masculine through agreement with the word सिंधु (*siṃdhu*). "O deities of the waters, ever protect us with blessings."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—O flowing ones
+- याः (*yāḥ*)—whom
+- सूर्यः (*sūryaḥ*)—the sun
+- रश्मिभिः (*raśmibhiḥ*)—with his rays
+- आततान (*ātatāna*)—made to spread
+- याभ्यः (*yābhyaḥ*)—through whom
+- इंद्रः (*iṃdraḥ*)—Indra
+- ऊर्मिं (*ūrmiṃ*)—the means of going
+- गातुं (*gātuṃ*)—the path fit for the clouds to travel
+- अरदत् (*aradat*)—made (with the help of the thunderbolt)
+- ते (*te*)—such as you
+- नः (*naḥ*)—to us
+- वरिवः (*varivaḥ*)—wealth
+- धातन (*dhātana*)—bestow
+- यूयं (*yūyaṃ*)—you (O deities)
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O waters of flowing nature, you whom the sun has made to spread with his rays, through whom Indra, with the help of the thunderbolt, made a path serving as a means of going and fit for the travel of the clouds: as such, give us wealth. O deities, always protect us with blessings.
+
+##### English translation
+Waters, whom the sun has evaporized by his rays, for whom Indra has opened a path by which to issue, bestow upon us wealth : and do you (also) ever cherish us with blessings.
+
+## Sūkta 48 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुक्षण इति चतुरृचं पंचदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमृभुदेवताकं । अंत्याया विकल्पेन विश्वे देवा देवता । तथा चानुक्रांतं । ऋभुक्षण आर्भवमंत्या वैश्वदेवी वेति । दशमेऽहनि वैश्वदेवशस्त्रे आर्भवनिविद्धानं । सूत्रितं हि ऋभुक्षण इत्यार्भवं । आ. ८-१२ ॥ इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta ऋभुक्षणः (*ṛbhukṣaṇaḥ*) has four Ṛks and is the fifteenth sūkta; its seer is Vasiṣṭha, its metre is Triṣṭubh and its deity is the Ṛbhus. For the last verse the deity is, alternatively, the Viśve Devāḥ. The Anukramaṇī says: ऋभुक्षण आर्भवमंत्या वैश्वदेवी वेति (*ṛbhukṣaṇa ārbhavamaṃtyā vaiśvadevī veti*). On the tenth day, in the Vaiśvadeva śastra, the Ārbhava nividdhāna is used. It is stated in the sūtra: ऋभुक्षण इत्यार्भवं (*ṛbhukṣaṇa ityārbhavaṃ*) (Ā. 8-12).
+
+### Printed p. 285
+Anuvāda: This sūkta ऋभुक्षणः (*ṛbhukṣaṇaḥ*) is the fifteenth sūkta in the third anuvāka. It has four Ṛks. Its seer is Vasiṣṭha; the deity is the Ṛbhus, and for the last Ṛk the Ṛbhus or the Viśvedevas. In the Anukramaṇī it is said: ऋभुक्षण आर्भवॆ मंत्रा वैश्वदेवी वा (*ṛbhukṣaṇa ārbhavè maṃtrā vaiśvadevī vā*). When the Vaiśvadeva śastra mantras are recited on the tenth day of the sacrifice, this sūkta is to be added and recited as the nividdhānīya sūkta addressed to the Ṛbhus; this is set out by the Āśvalāyana Śrauta Sūtra, ऋभुक्षण इत्यार्भवं (*ṛbhukṣaṇa ityārbhavaṃ*) (Ā. 8-12).
+
+Sūkta 48
+Maṇḍala 7; Anuvāka 3; Sūkta 48.
+Aṣṭaka 5; Adhyāya 4; Varga 15.
+Number of Ṛks in the sūkta: 4.
+Seer: Vasiṣṭha.
+Deity: 1–3 the Ṛbhus; 4 the Ṛbhus or the Viśve Devāḥ.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋभु॑क्षणो वाजा मा॒दय॑ध्वम॒स्मे न॑रो मघवानः सु॒तस्य॑ ।  
+> आ वो॒ऽर्वाचः॒ क्रत॑वो॒ न या॒तां विभ्वो॒ रथं॒ नर्यं॑ वर्तयंतु ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुक्षणः । वाजाः । मादयध्वं । अस्मे इति । नरः । मघवानः । सुतस्य ।  
+> आ । वः । अर्वाचः । क्रतवः । न । यातां । विभ्वः । रथं । नर्यं । वर्तयंतु ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुक्षेत्यृभूणां ज्येष्ठस्याख्या वाज इति तु कनिष्ठस्य । अत्रर्भुक्षणो वाजा इति बहुवचनेनर्भवस्त्रयो गृह्यंते । हे ऋभुक्षणो वाजा नरो नेतारो मघवानो धनवंत एवंभूता हे ऋभवः यूयमस्मे अस्मासु स्थितेन सुतस्याभिषुतेन सोमेन मादयध्वं । तृप्ता भवत । नेति संप्रत्यर्थे । इदानीं यातां गच्छतां वो युष्मदीयाः क्रतवः कर्मणां कर्तारो विभ्वो विभवः समर्था अश्वा आर्वाचोऽर्वांचोऽस्मदभिमुखा नर्यं मनुष्यहितं रथं युष्मदीयमा वर्तयंतु । आगमयंतु ॥
+
+##### Gist of the bhāṣya
+
+ऋभुक्षा (*ṛbhukṣā*) is the name of the eldest of the Ṛbhus, वाज (*vāja*) of the youngest. Here, by the plural ऋभुक्षणो वाजा (*ṛbhukṣaṇo vājā*), the three Ṛbhus are meant. "O Ṛbhukṣans, Vājas, leaders, possessors of wealth, be gladdened (be satisfied) by the Soma pressed and standing with us." न (*na*) is in the sense of "now". "Now, as you go, may your क्रतवः (*kratavaḥ*) (doers of works), विभ्वः (*vibhvaḥ*) (powerful horses), turned towards us, bring your chariot, नर्यं (*naryaṃ*) (beneficial to men), hither."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजाः (*vājāḥ*)—O possessors of food
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Ṛbhus
+- नरः (*naraḥ*)—leaders of rites
+- मघवानः (*maghavānaḥ*)—possessors of wealth, you
+- अस्मे (*asme*)—with that which is in us and
+- सुतस्य (*sutasya*)—pressed, the Soma drink
+
+### Printed p. 286
+- मादयध्वं (*mādayadhvaṃ*)—be satisfied
+- न (*na*)—now
+- यातां (*yātāṃ*)—going
+- वः (*vaḥ*)—your
+- क्रतवः (*kratavaḥ*)—accomplishers of works
+- विभ्वः (*vibhvaḥ*)—powerful horses
+- अर्वाचः (*arvācaḥ*)—turned towards us
+- नर्यं (*naryaṃ*)—beneficial to men
+- रथं (*rathaṃ*)—your chariot
+- आ वर्तयंतु (*ā vartayaṃtu*)—may they make come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, possessors of food, leaders of rites and possessors of wealth, be satisfied with the pressed Soma drink that is with us. May your powerful horses, accomplishers of works, now going and turned towards us, bring your chariot, beneficial to men, to us.
+
+##### English translation
+Ribhu, (Vibhu), and Vaja, leaders of rites, possessors of opulence, be exhilarated by our effused (libation) : may your active and powerful (horses) bring to our presence your chariot, beneficial to mankind.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta the deities called Ṛbhus are praised. We have explained these Ṛbhus many times before. It is well known that the three, Ṛbhu, Vibhu and Vāja, sons of the seer Sudhanvan, attained divinity through their good deeds and through helping the gods. They were pupils of Tvaṣṭṛ and skilled in the arts and crafts. It is said in various places that they made the thunderbolt for Indra and the chariot for the Aśvins. Their skill in craft is described: they made the single chamasa cup into four, and made their aged parents young. For explanations concerning them see Ṛ. part 3, page 4 and 3-16; 5-658; 8-666; 8-671, 8-693; 8-699; 8-704.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भुर्ऋ॒भुभि॑र॒भि वः॑ स्याम॒ विभ्वो॑ वि॒भुभिः॒ शव॑सा॒ शवां॑सि ।  
+> वाजो॑ अ॒स्मां अ॑वतु॒ वाज॑साता॒विंद्रे॑ण यु॒जा त॑रुषेम वृ॒त्रं ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुः । ऋभुभिः । अभि । वः । स्याम । विभ्वः । विभुभिः । शवसा । शवांसि ।  
+> वाजः । अस्मान् । अवतु । वाजसातौ । इंद्रेण । युजा । तरुषेम । वृत्रं ॥२॥
+
+### Printed p. 287
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवः ऋभुभिर्युष्माभिर्वयमृभुः । उरु भांतीत्यृभवः । संतो विभुभिर्युष्माभिर्विभ्वो विभवश्च संतः शवांसि शत्रूणां बलानि शवसा युष्मदीयेन बलेनाभि स्याम । अभिभवेम । तथा वाजसातौ संग्रामे वाज एतत्संज्ञक ऋभुरस्मानवतु । पालयतु । अपि च युजा सहायभूतेनेंद्रेण वृत्रं शत्रुं वयं तरुषेम । हनाम । प्रायेणर्भवोऽपींद्रेण सह स्तूयंत इति ॥
+
+##### Gist of the bhāṣya
+
+"O Ṛbhus, may we, being ऋभुः (*ṛbhuḥ*) with you the Ṛbhus (उरु भांतीत्यृभवः (*uru bhāṃtītyṛbhavaḥ*), those who shine widely), and विभ्वः (*vibhvaḥ*), mighty, with you the Vibhus, overcome the strengths of enemies with your strength. Likewise in battle may Vāja, the Ṛbhu of that name, protect us. And with Indra as our helper may we slay the enemy वृत्रं (*vṛtraṃ*)." Sāyaṇa adds that, as a rule, the Ṛbhus too are praised together with Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Ṛbhus) वः ऋभुभिः (*vaḥ ṛbhubhiḥ*)—together with you, the shining ones
+- ऋभुः (*ṛbhuḥ*)—possessing widespread radiance
+- विभुभिः (*vibhubhiḥ*)—together with you, the wealthy ones
+- विभ्वः (*vibhvaḥ*)—endowed with wealth and splendour
+- शवांसि (*śavāṃsi*)—the strengths of enemies
+- शवसा (*śavasā*)—with our strength
+- अभि स्याम (*abhi syāma*)—may we defeat
+- वाजसातौ (*vājasātau*)—in battle
+- वाजः (*vājaḥ*)—Vāja among you
+- अस्मान् (*asmān*)—us
+- अवतु (*avatu*)—protect
+- युजा (*yujā*)—who is our helper
+- इंद्रेण (*iṃdreṇa*)—together with Indra
+- वृत्रं (*vṛtraṃ*)—the obstructing enemy
+- तरुषेम (*taruṣema*)—may we destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, joined with you the shining ones may we be possessed of widespread radiance, and joined with you the wealthy ones, endowed with wealth and splendour; may we defeat the strength of enemies with our strength. May Vāja, the mighty one among you, protect us. Together with Indra, our helper, may we destroy the obstructing enemy.
+
+##### English translation
+Mighty with the Ribhus, opulent with the Vibhus, may we overcome by strength the strength (of our foes): may Vaja defend us in battle : with Indra, our ally, may we destroy the enemy.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते चि॒द्धि पू॒र्वीर॒भि संति॑ शा॒सा विश्वां॑ अ॒र्य उ॑प॒रता॑ति वन्वन् ।  
+> इंद्रो॒ विभ्वां॑ ऋभु॒क्षा वाजो॑ अ॒र्यः शत्रो॑र्मिथ॒त्या कृ॑णव॒न्वि नृ॒म्णं ॥३॥
+
+### Printed p. 288
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । चित् । हि । पूर्वीः । अभि । संति । शासा । विश्वान् । अर्यः । उपरताति । वन्वन् ।  
+> इंद्रः । विभ्वा । ऋभुक्षाः । वाजः । अर्यः । शत्रोः । मिथत्या । कृणवन् । वि ।  
+> नृम्णं ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते तादृशा इंद्र ऋभवश्च पूर्वीर्बह्वीरस्मच्छत्रुसेनाः शासा शासनेन स्वकीययाज्ञया । यद्वा । विशस्यते हिंस्यतेऽनेनेति शासशब्द आयुधनाम । तेन । अभि संति । अभिभवंति । चिद्धीतीमौ पूरणौ । किंचोपरताति ॥ सप्तम्या लुक् ॥ उपरैरुपलैः पाषाणसदृशैरायुधैस्तायते विस्तार्यते इत्युपरताति युद्धं । तस्मिन्विश्वान् समस्तानर्योऽरींश्छत्रून्वन्वन् । हिंसंति । विभ्वा ऋभुक्षा वाज एतत्संज्ञका ऋभवश्चेंद्रश्चार्यः शत्रूणामभिगंतारः संतः शत्रोः संबंधि नृम्णं बलं मिथत्या ॥ मेथतेरिदं रूपं ॥ मिथतिर्हिंसा । तया वि कृणवन् । विकुर्वंतु । विनाशयंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those, Indra and the Ṛbhus, overcome the many hostile armies शासा (*śāsā*), by their command; or else शास (*śāsa*) is a name for a weapon (that by which one is struck), and they overcome with it. चित् (*cit*) and हि (*hi*) are expletives. उपरताति (*uparatāti*) (with elision of the locative ending) is battle, spread out with *uparaiḥ*, stone-like weapons; in it they slay all enemies. Vibhvan, Ṛbhukṣan and Vāja, and Indra, advancing on their enemies, वि कृणवन् (*vi kṛṇavan*), may they destroy the strength of the enemy मिथत्या (*mithatyā*) (a form of the root *methateḥ*; *mithatiḥ* is violence), by violence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—Indra and the Ṛbhus, possessed of the qualities mentioned
+- पूर्वीः (*pūrvīḥ*)—the numerous enemy armies
+- शासा (*śāsā*)—by their command
+- अभि संति हि (*abhi saṃti hi*)—scorn and defeat
+- उपरताति (*uparatāti*)—in battle
+- विश्वान् (*viśvān*)—all
+- आर्यः (*āryaḥ*)—enemies
+- वन्वन् (*vanvan*)—they slay
+- विभ्वा (*vibhvā*)—Vibhvan
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—Ṛbhukṣan
+- वाजः (*vājaḥ*)—Vāja
+- इंद्रः (*iṃdraḥ*)—Indra
+- आर्यः (*āryaḥ*)—surrounding the enemies
+- शत्रोः (*śatroḥ*)—of the enemy
+- नृम्णं (*nṛmṇaṃ*)—the strength
+- मिथत्या (*mithatyā*)—by violence
+- वि कृणवन् (*vi kṛṇavan*)—may they destroy
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्वोक्त गुणगळुळ्ळ इंद्र मत्तु ऋभुगळु अनेकसंख्यॆयुळ्ळ शत्रुसेनॆगळन्नु तम्म नियमनदिंद तिरस्करिसि सोलिसुत्तारॆ. युद्धदल्लि समस्त शत्रुगळन्नू नाशपडिसुत्तारॆ. विभ्वनू, ऋभुक्षनू, वाजनू, इंद्रनू शत्रुगळन्नु सुत्तुवरिदवरागि शत्रुविन बलवन्नु हिंसारूपदिंद नाशपडिसलि.
+
+##### English translation
+They verily, (Indra and the Ribhus), overcome multitudes by their prowess : they overcome all enemies in the missile conflict : may Indra, Vibwan Ribhukshin and Vaja, the subduers of foes, annihilate by their wrath the strength of the enemy.
+
 ---
 
-**Progress note:** Done through printed p. 282. pp. 277-282 (batch API)
+**Progress note:** Done through printed p. 288. pp. 283-288 (batch API)
