@@ -1,5 +1,345 @@
 # Rigveda Samhita — Volume 22 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+In these three adhyāyas of the seventh Maṇḍala, from Sūkta 20 to Sūkta 80 (from the third adhyāya to the fifth adhyāya of the fifth Aṣṭaka), many important subjects are set forth. Some of them are distinctive of this portion alone. The praise of the sons of Vasiṣṭha, who possessed complete knowledge of the three principles, and the praise of the god Rudra bearing the name Tryambaka are among the chief matters set forth here. Only some of these are examined here.
+
+1) The identity of Rudra and Tryambaka, and the special nature of Tryambaka.
+2) The dog of Varuṇa, named Sārameya.
+3) The nature of the deity Dadhikrā.
+4) The personal form of Nirṛti.
+5) The knowledge of the truth possessed by the sons of Vasiṣṭha, and their greatness.
+6) The true forms of the deities Ahirbudhnya and Aja Ekapād, etc.
+
+1) The deity Rudra, named Tryambaka, is of auspicious nature
+
+In this portion, the last mantra of the fifty-ninth sūkta of the seventh Maṇḍala is declared to be addressed to Rudra. But that mantra extols the greatness of Tryambaka. It is well known in the Purāṇas and the like that the form of Rudra is terrible and is not agreeable to the eye of the ordinary man. In the Brāhmaṇas and other texts too this point is explained in many places. In the Ṛksaṃhitā also this nature is described in many places. For example:
+
+स्तुहि श्रुतं गर्तसदं युवानं मृगं न भीममुपहत्नुमुग्रं । मृळा जरित्रेरुद्र स्तवानोऽन्यं ते अस्मन्नि वपंतु सेनाः ॥ (*stuhi śrutaṃ gartasadaṃ yuvānaṃ mṛgaṃ na bhīmamupahatnumugraṃ | mṛḷā jaritrerudra stavāno 'nyaṃ te asmanni vapaṃtu senāḥ ‖*)
+(Ṛ. Saṃ. 2.33-11)
+
+"Praise Rudra, who sits in the chariot, who is young, famous and terrible, and who destroys enemies as a fierce beast of the forest kills" — thus the terrible form of Rudra is described. It is only because he has this fierce form that the human race, frightened by his nature, begs for his protection alone.
+
+<!-- -->
+
+### Printed p. ii
+
+मा नस्तोके तनये मा न आयौ मा नो गोषु मा नो अश्वेषु रीरिषः । वीरान् मा नो रुद्र भामितो वधीर्हविष्मंतः सदमित्त्वा हवामहे॥ (*mā nastoke tanaye mā na āyau mā no goṣu mā no aśveṣu rīriṣaḥ | vīrān mā no rudra bhāmito vadhīrhaviṣmaṃtaḥ sadamittvā havāmahe‖*)
+(Ṛ. Saṃ. 1-114-8)
+
+"O Rudra of fierce form, do not harm our sons and the like, nor our grandsons and the like, nor our life. Do not harm our heroic men. Offering oblations to you always, we shall bring you satisfaction. Do not show anger against us and cause us harm or fear" — thus the terrible Rudra is entreated in humility. This Rudra, described in this way and famed as the destroyer of the world, is praised in 7-59-12 as the giver of nourishment to the world and as auspicious, and is designated there as Tryambaka. The word Tryambaka has the popularly known meaning "three-eyed": two physical eyes and one other-worldly divine eye. But Sāyaṇa has given here a meaning of this word that explains a spiritual principle: त्रयाणां ब्रह्मविष्णुरुद्राणामंबकं पितरं त्र्यंबकं । (*trayāṇāṃ brahmaviṣṇurudrāṇāmaṃbakaṃ pitaraṃ tryaṃbakaṃ |*) Sāyaṇa states that the name Tryambaka is famed because he is the father of these three, Brahmā, Viṣṇu and Rudra. For this very reason it is also declared that this supreme principle is the source of creation, preservation and dissolution.
+
+एको हि रुद्रो न द्वितीयाय तस्थुर्य इमाल्लोकानीशत ईशनीभिः । प्रत्यञ्चर जनास्तिष्ठति संचुकोचांतकाले संसृज्य विश्वा भुवनानि गोपाः ॥ (*eko hi rudro na dvitīyāya tasthurya imāllokānīśata īśanībhiḥ | pratyañcara janāstiṣṭhati saṃcukocāṃtakāle saṃsṛjya viśvā bhuvanāni gopāḥ ‖*)
+(Śve. U. 3-2)
+
+Apart from that Rudra who creates and protects all these worlds, there is no second great principle. He alone is the lord of the whole world. He alone is the inner controller in the heart of all beings. After spreading out and manifesting the worlds, he alone becomes the cause of their dissolution again — thus all his powers are described. Only that power which is necessary for the protection of the world after creation is described in the portion at hand. The epithets सुगंधिं पुष्टिवर्धनं (*sugaṃdhiṃ puṣṭivardhanaṃ*) indicate this point. Because he is the promoter of the world's nourishment, it is stated in many places that, in order to increase this power of Rudra, one should perform the Tryambaka sacrifice, satisfy him and win his grace.
+
+तान्यवृहंत । यत्र्यंबकैरयजंत............ । अथ पुनरेत्य जपंति । अव रुद्रमदीमह्यव देवं त्र्यंबकं । यथा नो वस्यसस्करद्यथा नः श्रेयु- (*tānyavṛhaṃta | yatryaṃbakairayajaṃta............ | atha punaretya japaṃti | ava rudramadīmahyava devaṃ tryaṃbakaṃ | yathā no vasyasaskaradyathā naḥ śreyu-*)
+
+### Printed p. iii
+
+सस्करद्यथा नो व्यवसाययात् । भेषजमसि भेषजंगवेऽश्वाय पुरुषाय भेषजग्ंसुखं ॥ (*saskaradyathā no vyavasāyayāt | bheṣajamasi bheṣajaṃgave 'śvāya puruṣāya bheṣajagṃsukhaṃ ‖*)
+(Śa. Brā. 2-6-2-11)
+
+Offer oblations to the god Rudra, of divine form, named Tryambaka. By satisfying him, the nourishment of wealth and prosperity will come to all of us. Every kind of well-being will be obtained. He alone is the physician for all diseases that befall cattle, sons and the like. Having praised him thus, the text states, in a form of explanation different from the one given before, how this Rudra came to be known by the name Tryambaka:
+
+स जुहोति । एष ते रुद्र भागः सह स्वस्रांबिकया तं जुषस्व स्वाहेत्यंबिका ह वै नामास्य स्वसा तयास्यैष सह भागस्तद्यदस्यैष स्त्रिया सह भागस्तस्मात्त्र्यंबका नाम........॥ (*sa juhoti | eṣa te rudra bhāgaḥ saha svasrāṃbikayā taṃ juṣasva svāhetyaṃbikā ha vai nāmāsya svasā tayāsyaiṣa saha bhāgastadyadasyaiṣa striyā saha bhāgastasmāttryaṃbakā nāma........‖*)
+
+Rudra has this name because he receives the oblation called Tryambakā. Rudra's sister is named Ambikā. Because Rudra receives this oblation together with Ambikā, who is of female form, the name is Tryambikā — this explanation is given. It is praised that offering this oblation to Rudra brings nourishment to the world.
+
+It is also described that the same Rudra named Tryambaka, who is the cause of creation, preservation and dissolution, is the guide to the path of liberation, and he is prayed to grant liberation. Samhitā passages such as विवासेयं रुद्रस्य सुम्नं (*vivāseyaṃ rudrasya sumnaṃ*) (Ṛ. Saṃ. 2-33-8) convey this greatness of Rudra. Thus the very Rudra who is famed in the world as terrible is praised in this portion, under the name Tryambaka, as the protector of the world and the giver of liberation.
+
+2) The dog of Varuṇa, named Sārameya
+
+An episode is set forth in this portion in which, when the sage Vasiṣṭha went to the house of Varuṇa, a dog called Sārameya chased him. In this connection, what was the reason for Vasiṣṭha's going to Varuṇa's house? Why did this Sārameya chase him? What device did Vasiṣṭha then adopt? It is difficult to ascertain the exact state of affairs on these questions. The background of this story is told in two ways in the present context: in one place that Vasiṣṭha went to Varuṇa's house in order to sleep, and in another that Vasiṣṭha, exhausted with hunger, went to steal food in Varuṇa's house. This account is not so necessary here. What is necessary here is to examine why the dog that saw him and chased him came to be called Sārameya, and what the nature of this dog is.
+
+### Printed p. iv
+
+If one examines the manner in which Vasiṣṭha addresses this Sārameya and converses with it, it is clear that an effort is being made to awaken even in this Sārameya the capacity of discernment, and he makes clear that he is neither a thief nor a robber. He tells that Sārameya that it is improper to chase him, a devotee of Indra.
+
+It is stated that this Sārameya was born in the family of Sarameyā. Later, in the mantras 10-14-10 and 11, the Sārameyas who are sons of this same Saramā are famed as the dogs near Yama, and as having a deformed appearance. Here the singular is used; it means a single Sārameya. Whether this Sārameya is different from the Sārameyas to be described later, or is one of the two, must be understood here. Before that, since one must first understand the nature of the divine bitch called Saramā and only afterwards know the form of the Sārameyas, one must learn in which places and how the matter of Saramā is described.
+
+Although she is explained as the divine bitch, nowhere in the Ṛksaṃhitā is Saramā described as a mere animal of the dog species. On this matter only some of the opinions of English scholars will be given here.
+
+This indicatas, though it does not conclusively prove, that Sarama, who figures as the messenger of Indra, in the myth of the Panis, was treated as a dog and this tradition, which is not expressly set out in the Rig-Veda, is the account of the later texts and of Yaska, who calls her the bitch of the dogs.
+(Religion and Philosophy of the Vedas; Keith p. 192)
+
+In the account that, when Indra set out to find the cows carried off by the Paṇis, Saramā was Indra's messenger, no portion of the Ṛksaṃhitā states clearly that Saramā belonged to the dog species. But Yāska and the other etymologists have stated that she belonged to the dog species. A. B. Keith states that there is no proper support for this in the Saṃhitā passages. Moreover:
+
+There is nothing in Rig-Veda directly showing that Sarama was there conceived as a bitch, though in the later Vedic literature she is regarded as such etc.
+(Vedic Mythology by Macdonnel P. 151).
+
+Thus the English scholar Macdonell too has stated the same opinion that Keith gave above. In Ṛ. Saṃ. 10-108-2 also she is described only as Indra's ति (*ti*) **NOTE**. Moreover, in the story told in the Bṛhaddevatā
+
+### Printed p. v
+
+it is known that Saramā's nature was not one drawn by a stone **NOTE**. One sent on Indra's errand, attracted by the Paṇis, wishes to betray Indra himself. The story told in the Jaiminīya Brāhmaṇa differs somewhat from this. As stated in it, Indra sends Suparṇa for that task, and after learning that he is not trustworthy, sends Saramā. She proves trustworthy, and as the reward of her service obtains food for her children from Indra. This one point is stated in the same way everywhere. Who her children are, and how that food was distributed, is explained in some places in the Ṛksaṃhitā itself. For example:
+
+स्वाध्यो दिव आ सप्त यह्वी रायो दुरो व्यृतज्ञा अजानन् । विदद्गव्यं सरमा दृळ्हमूर्वं येना नु कं मानुषी भोजते विट् ॥ (*svādhyo diva ā sapta yahvī rāyo duro vyṛtajñā ajānan | vidadgavyaṃ saramā dṛḷhamūrvaṃ yenā nu kaṃ mānuṣī bhojate viṭ ‖*)
+(Ṛ. Saṃ. 1-72-8)
+
+The seven rivers, of great nature and beneficial to the world, flow from the heaven-world towards the earth; in them the great sages discerned the source of wealth. Saramā too found the wealth of cattle and provided that wealth to the world. The human host now enjoys that same wealth of food — thus the above mantra states. This passage does not designate Saramā as the divine bitch. One or two such examples may be examined.
+
+विदद्यदी सरमा रुग्णमद्रेर्महि पाथः पूर्व्यं सध्र्यक्कः । अग्रं नयत्सुपद्यक्षराणामच्छा रवं प्रथमा जानती गात् ॥ (*vidadyadī saramā rugṇamadrermahi pāthaḥ pūrvyaṃ sadhryakkaḥ | agraṃ nayatsupadyakṣarāṇāmacchā ravaṃ prathamā jānatī gāt ‖*)
+(Ṛ. Saṃ. 3-31-6)
+
+Here it is stated that Saramā found the entrance of the mountain full of caves and as a result obtained many kinds of help from Indra. In this description, that she found the stolen cattle, obtained from Indra the milk of those divine cattle and distributed it to her children, the benefit she did to the human world is known. Likewise, to see just one more example:
+
+अनूनोदत्र हस्तयतो अद्रिरार्चन्येन दश मासो नवग्वाः । ऋतं यती सरमा गा अविंदद्विश्वानि सत्यांगिराश्चकार ॥ (*anūnodatra hastayato adrirārcanyena daśa māso navagvāḥ | ṛtaṃ yatī saramā gā aviṃdadviśvāni satyāṃgirāścakāra ‖*)
+(Ṛ. Saṃ. 5-45-7)
+
+At the time of this sacrifice the stone (adri), set in motion by the priests, began to sound. Then the Navagvas performed the sacrifice called Daśamāsa (they performed the sacrifice for ten months). Then Saramā, following the path of truth
+
+### Printed p. vi
+
+and moving about there, found the cows. It is stated that this helped the sacrifice of the Aṅgirases and was a benefit to the world. One must note how Saramā's nature is explained in these contexts.
+
+ऋतं सत्यं यज्ञं वा यती प्राप्नुवती सरमा सरणशीला स्तुतिरूपा वाक् । (*ṛtaṃ satyaṃ yajñaṃ vā yatī prāpnuvatī saramā saraṇaśīlā stutirūpā vāk |*)
+(Sā. Bhā.)
+
+Sāyaṇa has explained her as the goddess of speech, who followed the path of truth, who is of the form of praise and who is of moving nature. Likewise, in the next mantra of this too:
+
+उत्स आसां परमो सदस्थ ऋतस्य पथा सरमा विदद्गाः । (*utsa āsāṃ paramo sadastha ṛtasya pathā saramā vidadgāḥ |*)
+(Ṛ. Saṃ. 5-45-8)
+
+ऋतस्य सत्यस्य पथा मार्गेण सरमा वाक् देवशुनी वा निगूढा । (*ṛtasya satyasya pathā mārgeṇa saramā vāk devaśunī vā nigūḍhā |*)
+(Sā. Bhā.)
+
+He has given the alternative meaning: the goddess of speech moving on the path of truth, or the divine bitch. Beyond all these, the 108th sūkta of the tenth Maṇḍala later describes the nature of Saramā still more fully. In that context this matter can be examined still more fully; here only the gist of that sūkta will be noted.
+
+Here the conversation between Saramā and the Paṇis is described. The Paṇis try to pacify Saramā. But Saramā describes the might of Indra and the Aṅgirases and warns the Paṇis. Here Saramā's conduct is highly praiseworthy. Knowing her duty as messenger, she behaves in a manner befitting her dignity. Her knowledge of duty is complete. When she boldly calls the Paṇis thieves, they themselves are astonished. They cannot escape her. By saying that the river Rasā too helped her, her prestige increases among them. She boldly says that her master Indra is able to destroy them all. Not in the least deluded by their allurement, she boldly rejects it. She shows the dignity fitting a king's messenger. In this conversation there is fine art.
+
+Thus, when one considers the nature of the person Saramā, described in many contexts, it is clear that nowhere in the Saṃhitā passages is she designated as the divine bitch. In the Taittirīya Brāhmaṇa, explaining this same episode, the narrative setting differs somewhat when it speaks of Saramā.
+
+विदद्यती सरमा रुग्णमद्रेः । महि पाथः पूर्व्यग्ं सध्र्यक्के............ ॥ (*vidadyatī saramā rugṇamadreḥ | mahi pāthaḥ pūrvyagṃ sadhryakke............ ‖*)
+(Tai. Brā. 2-5-8-10)
+
+### Printed p. vii
+
+Even where this Ṛksaṃhitā passage is explained and the context stated, there is no designation of a divine bitch in the original. Only in the commentary is it explained: सरमा काचित् शुनी श्वमूर्तिधारिणी देवता। (*saramā kācit śunī śvamūrtidhāriṇī devatā|*) — a divine woman who has assumed the form of a dog. For the present it can be concluded only that she is a divine person beneficial to human beings.
+
+It is clear that the person born in the womb or in the family of such a divine woman must also possess divinity. But what meaning the word Sārameya can bear in which context is the very aim of the present inquiry. Here, taking some passages mainly as the basis, this matter will be examined closely. They are:
+
+Ṛ. Saṃ. 10-14-10, 11, 12; Atha. Ve. 18-2-11, 12, 13; Tai. Ā. 6-3-1, 2.
+
+In these passages the Sārameyas are designated as cruel animals. Moreover, in Ṛ. Saṃ. 1-29-3; 7-55-2, 3, 4 and other places too their cruelty is clear.
+
+These animals, famed as Yama's dogs, are described here as terrible, possessing destructive fangs. But one must consider whether the sense here is the literal one or a figurative one. To know what the true form of the Sārameyas described in the mantras Ṛ. Saṃ. 10-14-10, 11, 12 is, other mantras that help in this must also be taken as basis. The meaning of the epithets रक्षितारौ चतुरक्षौ (*rakṣitārau caturakṣau*) must also be examined. On the question of who these dogs of Yama are, there is this narrative setting:
+
+कालकंजा वै नामासुरा आसन् । ते सुवर्गाय लोकायाग्निमचिन्वत । पुरुष इष्टकामुपादधात्पुरुष इष्टकां । स इंद्रो ब्राह्मणो ब्रुवाण इष्टकामुपाधत्त । एषा मे चित्रा नामेति । ते सुवर्गं लोकमाप्रारोहन् । स इंद्र इष्टकामाव्यहत् । तेऽवाकीर्यंत । येऽवाकीर्यंत । त ऊर्णावभयोऽभवन् । द्वावुदपशतां । तौ दिव्यौ श्वानावभवतां ॥ (*kālakaṃjā vai nāmāsurā āsan | te suvargāya lokāyāgnimacinvata | puruṣa iṣṭakāmupādadhātpuruṣa iṣṭakāṃ | sa iṃdro brāhmaṇo bruvāṇa iṣṭakāmupādhatta | eṣā me citrā nāmeti | te suvargaṃ lokamāprārohan | sa iṃdra iṣṭakāmāvyahat | te 'vākīryaṃta | ye 'vākīryaṃta | ta ūrṇāvabhayo 'bhavan | dvāvudapaśatāṃ | tau divyau śvānāvabhavatāṃ ‖*)
+(Tai. Brā. 1-1-2-8,9)
+
+There were asuras called Kālakañjas. They built a fire-altar to gain the heaven-world. Human beings themselves became the bricks of that altar. Then Indra came in the form of a Brahmin and sat as a brick himself. Then he said, "This brick named Citrā is meant for me." Then they began to climb to heaven. At once Indra pulled out his brick. Immediately they fell down. As soon as they fell down they became spiders. Of them only two
+
+### Printed p. viii
+
+flew upward. They became famed as the dogs of the divine world — so the story runs. Telling this very story:
+
+या उत्तमा आस्तां ता यमश्वा अभवतां । (*yā uttamā āstāṃ tā yamaśvā abhavatāṃ |*)
+(Mai. Saṃ. 1-6-9)
+
+The Maitrāyaṇīya Saṃhitā states clearly that those worms which were in the better state became famed as Yama's dogs. Whether this story is consistent with the passage of the Atharvaveda is also a doubtful matter.
+
+अप्सु ते जन्म दिवि ते सधस्थं समुद्रे अंतर्महिमा ते पृथिव्यां । शुनो दिव्यस्य यन्महस्तेना ते हविषा विधेम ॥ (*apsu te janma divi te sadhasthaṃ samudre aṃtarmahimā te pṛthivyāṃ | śuno divyasya yanmahastenā te haviṣā vidhema ‖*)
+(Atha. Ve. 6-80-1)
+
+O divine dog, water is your place of birth; heaven is your dwelling-place. Your greatness is in the midst of the sea and on the earth. To you, of such power, I offer this oblation; accept it — thus the glory of the divine dog is praised.
+
+A description containing the very epithet चतुरक्षौ (*caturakṣau*) that occurs in the Ṛksaṃhitā strengthens the above point still more. For example, the epithet श्वान् चतुरक्ष । (*śvān caturakṣa |*) described in the Aśvamedha section of the Taittirīya Brāhmaṇa also makes this point clear.
+(Tai. Brā. 3-8-4-2)
+
+This section states that the killing of this dog is prescribed because it is wicked. The gist of the section is that the horse, of divine nature, kills this wicked dog that is its enemy.
+
+Thus, among such varied accounts, is a consistency possible? What is the meaning of the statement that the origin of the two dogs of Yama lies in sacrifice? How is their killing? To state such matters exactly would be a very difficult undertaking. Even so, on the basis of Vedic passages, only a close account will be given here of what principles these divine dogs reflect.
+
+What is the nature of the two dogs famed as Śyāma and Śabalā? What connection do they have with sacrifice? What is the sacrificial procedure here? Explaining this, the Kauṣītakī Brāhmaṇa gives this account:
+
+सायमस्तमिते पुरा तमसस्तस्मिन् काले जुहुयात् स देवयानः केतुः । प्रातः पुरोऽदयात् अपहते तमसि तस्मिन् काले जुहुयात् स देवयानः केतुः । अथो योऽतो अस्यथाग्निहोत्रं जुहोति श्यामशबलौ हास्याग्नि- (*sāyamastamite purā tamasastasmin kāle juhuyāt sa devayānaḥ ketuḥ | prātaḥ puro 'dayāt apahate tamasi tasmin kāle juhuyāt sa devayānaḥ ketuḥ | atho yo 'to asyathāgnihotraṃ juhoti śyāmaśabalau hāsyāgni-*)
+
+### Printed p. ix
+
+होत्रं विविदतोऽहर्वै शबलो रात्रिः श्यामस्स यो महारात्रे जुहोति श्यामो हास्याग्निहोत्रं विविदत्यथ यो महाह्ने जुहोति शबलो हास्याग्निहोत्रं विविदति ॥ (*hotraṃ vividato 'harvai śabalo rātriḥ śyāmassa yo mahārātre juhoti śyāmo hāsyāgnihotraṃ vividatyatha yo mahāhne juhoti śabalo hāsyāgnihotraṃ vividati ‖*)
+(Kau. Brā. 2-9)
+
+In the evening, after sunset, before darkness appears, the agnihotra rite should be performed. That is the time of the gods' coming. In the morning too, before sunrise, as soon as the darkness is dispelled, the oblation should be offered. That also is the time of the divine path. Besides, if this rite is performed when the proper time has passed, then Śyāma and Śabala both make his rite fruitful. The day is called Śabala and the night Śyāma. If the rite is performed at midnight, the night named Śyāma, and if at midday, the day named Śabala, destroy his rite — so it is stated. In the Aśvamedha sacrifice, when the portions of the offered victim are offered to the respective deities, the Taittirīya Saṃhitā states as follows with regard to offering to the deities named Śyāma and Śabala:
+
+सूर्यचंद्रमसौ वृक्याभ्याग्ं श्यामशबलौ मत्स्याभ्यां वृष्टिग्ं रूपेण निम्रुक्तिमरूपेण ॥ (*sūryacaṃdramasau vṛkyābhyāgṃ śyāmaśabalau matsyābhyāṃ vṛṣṭigṃ rūpeṇa nimruktimarūpeṇa ‖*)
+(Tai. Saṃ. 5-2-19-1)
+
+There is a rule that the flesh in the form of a mango fruit is to be offered to the Sun and the Moon, named Śyāma and Śabala. In other places it is stated that Śyāma and Śabala are the sons of Saramā.
+
+तस्सत्यं यत्ते सरमा माता सीसरः पिता श्यामशबलौ भ्रातरौ ॥ (*tassatyaṃ yatte saramā mātā sīsaraḥ pitā śyāmaśabalau bhrātarau ‖*)
+(Pāraskara-gṛhyasūtra 1-16-24)
+
+Such passages designate Śyāma and Śabala, the dogs of Yama.
+
+But one cannot say that the principles indicated by the synonyms of night and day, Śyāma and Śabala, stated in the Taittirīya Saṃhitā, and the principles indicated by these same words Śyāma and Śabala later in the sūtras and the like, are different special things. There are also Vedic passages that show the identity of the two. The same moon that the Taittirīya Saṃhitā designates as Śyāma in the Aśvamedha section is designated in the Śatapatha Brāhmaṇa as the divine dog of the divine world.
+
+अभ्येष पश्चाद्ददृशे स हैष दिव्यः श्वा स यजमानस्य पशूनभ्यवेक्षते ॥ (*abhyeṣa paścāddadṛśe sa haiṣa divyaḥ śvā sa yajamānasya paśūnabhyavekṣate ‖*)
+(Śa. Brā. 11-1-4-1)
+
+### Printed p. x
+
+The moon that appears ahead is praised as the divine dog, one of the dogs of Yama. That the other is the sun is a settled matter.
+
+श्यामाच्छबलं प्रपद्ये शबलाच्छ्यामं प्रपद्ये ॥ (*śyāmācchabalaṃ prapadye śabalācchyāmaṃ prapadye ‖*)
+(Chā. U. 8. 13.)
+
+It is the opinion of some that in such places too the sun and the moon are what is designated. It would not be wrong to say that these very sun and moon are the divine dogs that guard the world.
+
+"The conclusion derived from all these statements is that in the
+Samhitas and Brahmanas the two dogs of Yama are familiarly identified
+with the Sun and the Moon."
+(Bloomfield, Journal of American Oriental Society Vol. 15 P, 171)
+
+On the basis of the Saṃhitā and Brāhmaṇa passages above, the English scholar Bloomfield too has stated his opinion that it can be said with certainty that the dogs of Yama described here designate the sun and the moon.
+
+2. The deity Dadhikrā
+
+In this portion, the nature of the deity Dadhikrā, praised in the 44th sūkta of the seventh Maṇḍala, cannot be stated with certainty. From a passage of the Bṛhaddevatā it is known that this is one of the twenty-six names of Indra. Telling why this name became famed for Indra, the Bṛhaddevatā gives the etymology of this word as follows:
+
+अपामुंबरगर्भाणुं आदधत्सोऽष्णमासिकं । यत्क्रंदत्यसकृन्मध्ये दधिक्रास्तेन कथ्यते ॥ (*apāmuṃbaragarbhāṇuṃ ādadhatso 'ṣṇamāsikaṃ | yatkraṃdatyasakṛnmadhye dadhikrāstena kathyate ‖*)
+(Bṛ. De. 2. 36.)
+
+The sense is that Indra has the name Dadhikrā because he bears the water-embryo located in the atmosphere and because he makes a roaring sound for eight months in the midst of the seasons. This etymology is only one of the three explanations given by the Nirukta authors. Explaining the sense of this same word, the Nirukta authors say:
+
+दधत्क्रामति वा दधत्क्रंदति वा दधदाकारी भवतीति वा ॥ (*dadhatkrāmati vā dadhatkraṃdati vā dadhadākārī bhavatīti vā ‖*)
+(Ni. 2. 27.)
+
+They state that the name Dadhikrā is because he moves bearing the water-embryo, or because he roars bearing it, or because he takes on its very form. (The Bṛhaddevatā explains that it is because of this act of bearing that Indra also has the name Dhātṛ. But Sāyaṇa, citing a Brāhmaṇa passage, has stated that it is a synonym of Agni.
+
+### Printed p. xi
+
+When writing the commentary on the mantra उत वाजिनं (*uta vājinaṃ*) (Ṛ. Saṃ. 4-38-2) he has explained it thus:
+
+वाजिनं गमनवंतं । अश्वरूपं वा देवं अग्नेरश्वरूपस्यैव दधिक्राख्यत्वात् अग्नेस्तद्रूपत्वं ब्राह्मणे समाम्नातं । तानग्निरश्वो भूत्वाभ्यद्रवत् । इति ॥ (*vājinaṃ gamanavaṃtaṃ | aśvarūpaṃ vā devaṃ agneraśvarūpasyaiva dadhikrākhyatvāt agnestadrūpatvaṃ brāhmaṇe samāmnātaṃ | tānagniraśvo bhūtvābhyadravat | iti ‖*)
+
+The word वाजि (*vāji*) means "possessing motion". Naturally, the meaning "horse" is the one current. Because there is a Brāhmaṇa passage that Agni himself assumed the form of a horse, he has given the alternative sense that in the present mantra the horse-formed deity Dadhikrā may also be of the form of Agni. But he has not shown what the proper authority is for the passage he has cited.
+
+इंद्रमिवेदुभयो वि ह्वयंत उदीराणा यज्ञमुपप्रयंतः । (*iṃdramivedubhayo vi hvayaṃta udīrāṇā yajñamupaprayaṃtaḥ |*)
+(Ṛ. Saṃ. 4-29-3)
+
+In some places such as this, "As they call Indra, they call this deity Dadhikrā in battle for help" — thus the difference between Indra and this deity is shown, and he is compared to Indra. Since he is famed as horse-formed, all the characteristics that a horse has are shown and described in this deity too. For example:
+
+दधिक्रावा प्रथमो वाज्यर्वाग्रे रथानां भवति प्रजानन् । संविदान उषसा सूर्येणादित्येभिर्वसुभिरंगिरोभिः ॥ (*dadhikrāvā prathamo vājyarvāgre rathānāṃ bhavati prajānan | saṃvidāna uṣasā sūryeṇādityebhirvasubhiraṃgirobhiḥ ‖*)
+(Ṛ. Saṃ. 7-44-4)
+
+The deity presiding over the horse, named Dadhikrā, foremost among horses and swift-moving, standing at the front of the chariots, attains unity with Uṣas, Sūrya, the Ādityas, the Vasus and the Aṅgirases (the meaning is: he reaches agreement). From this description it is known that there must be a special excellent deity, different from the ordinary horse, who has a relation of identity with deities such as the sun. Ordinarily the praise of this deity occurs together with the goddess Uṣas.
+
+दधिक्राव्ण इदु नु चर्किराम विश्वा इन्मामुषसः सूदयंतु । अपामग्नेरुषसः सूर्यस्य बृहस्पतेरांगिरसस्य जिष्णोः ॥ (*dadhikrāvṇa idu nu carkirāma viśvā inmāmuṣasaḥ sūdayaṃtu | apāmagneruṣasaḥ sūryasya bṛhaspaterāṃgirasasya jiṣṇoḥ ‖*)
+(Ṛ. Saṃ. 4-40-1)
+
+In all such Ṛks the deity Dadhikrā is praised together with deities such as Agni, Uṣas and Āditya. The praises in many places support the view that the relation which Uṣas has with Sūrya is the same relation this deity has with Uṣas. The sun, who has a close relation with Uṣas, is also described in many places as horse-formed. For example:
+
+### Printed p. xii
+
+देवानां चक्षुः सुभगा वहंती श्वेतं नयंती सुदृशीकमश्वं । उषा अदर्शि रश्मिभिर्व्यक्ता चित्रमघा विश्वमनुप्रभूता ॥ (*devānāṃ cakṣuḥ subhagā vahaṃtī śvetaṃ nayaṃtī sudṛśīkamaśvaṃ | uṣā adarśi raśmibhirvyaktā citramaghā viśvamanuprabhūtā ‖*)
+(Ṛ. Saṃ. 7-77-3)
+
+The goddess Uṣas, bringer of welfare to the world, bearing the eye of the gods, moving with her attractive horse placed before her, is described as shining with her rays. Some are of the opinion that the sun who is designated here as horse-formed is the very one to whom the name Dadhikrā is also applied. The etymology दधत्क्रंदति (*dadhatkraṃdati*) describes fully the function of the sun. A Vedic passage is the support for this opinion. Namely:
+
+यो अश्वस्य दधिक्राव्णः अकारीत्समिद्धे अग्ना उषसो व्युष्टौ । अनागसं तमदिति कृणोतु स मित्रेण वरुणेना सजोषाः ॥ (*yo aśvasya dadhikrāvṇaḥ akārītsamiddhe agnā uṣaso vyuṣṭau | anāgasaṃ tamaditi kṛṇotu sa mitreṇa varuṇenā sajoṣāḥ ‖*)
+(Ṛ. Saṃ. 4-39-5)
+
+It is prayed that the perfect deity, the horse-formed Dadhikrā who is praised at dawn when the sacrificial fire blazes, together with Mitra and Varuṇa, make the sacrificer free of sin. The horse-formed sun is also praised in many places as the eye of Mitra and Varuṇa. Therefore, on such grounds one can conclude that the horse-formed sun himself is praised as the god Dadhikrā; this is the view **NOTE**. Moreover, the 40th sūkta of the fourth Maṇḍala is addressed to Dadhikrā. But the commentaries and others state that the last mantra of that sūkta is addressed to Sūrya. It may also be said that the sun (or Agni) in the form of Dadhikrā is thus praised. Since the description हंसः शुचिषत् (*haṃsaḥ śuciṣat*) (4-40-5) and the like conveys the special features of the deity Dadhikrā, it would not be wrong to say that the god named Dadhikrā is the horse-formed sun himself.
+
+3. The nature of Nirṛti
+
+Nirṛti is famed as a deity of power, of the form of death. In परातरं सु निर्ऋतिर्जिहीतां (*parātaraṃ su nirṛtirjihītāṃ*) (10-59-1,2,3) and the like, it is prayed that the power in the form of Nirṛti go far away. Nirṛti is not described as a power that produces health and long life **NOTE**; rather, her connection with evil qualities such as wrongdoing, violence and accident is stated. For this very reason a rite for the purpose is prescribed in order to destroy this evil power. In the account of this rite there is also a description of the nature of this power. Only its gist is stated here.
+
+### Printed p. xiii
+
+अथातो निर्ऋतीर्हरंति । पाप्मा वै निर्ऋतिस्तद्यहे ताभिः पाप्मानं निर्ऋतिमपाघ्नत ॥ (*athāto nirṛtīrharaṃti | pāpmā vai nirṛtistadyahe tābhiḥ pāpmānaṃ nirṛtimapāghnata ‖*)
+(Śa. Brā. 2-3-1-1)
+
+कृष्णा भवंति कृष्णग्ंहि तत्तम आसीदथो कृष्णा वै निर्ऋतिः ॥ (*kṛṣṇā bhavaṃti kṛṣṇagṃhi tattama āsīdatho kṛṣṇā vai nirṛtiḥ ‖*)
+(Śa. Brā. 2-3-1-2)
+
+Such Brāhmaṇa passages describe Nirṛti as a divine power of sinful action and full of darkness, and prescribe the performance of rites to remove the influence of that deity.
+
+In some places the word Nirṛti is used as a synonym of the earth-deity. For example:
+
+इयं वै निर्ऋतिरियं वै तं निरर्पयति ॥ (*iyaṃ vai nirṛtiriyaṃ vai taṃ nirarpayati ‖*)
+(Śa. Brā. 2-3-1-17)
+
+In such places it is stated that the earth is the deity designated by the word Nirṛti. The Ṛksaṃhitā passages also state this. For example:
+
+तिस्रो देष्ट्रायु निर्ऋतीरुपासते दीर्घश्रुतो वि हि जानंति वह्न्यः । तासां नि चिक्युः कवयो निदानं परेषु या गुह्येषु व्रतेषु ॥ (*tisro deṣṭrāyu nirṛtīrupāsate dīrghaśruto vi hi jānaṃti vahnyaḥ | tāsāṃ ni cikyuḥ kavayo nidānaṃ pareṣu yā guhyeṣu vrateṣu ‖*)
+(Ṛ. Saṃ. 10-114-2)
+
+Here the word Nirṛti is explained as the earth. In the Nighaṇṭu too this word is included among the names of the earth. The commentary states that, since worldly affairs such as saṃsāra are always in motion, all the worlds that carry on such saṃsāric activity are called Nirṛti.
+
+4. The greatness of the sons of Vasiṣṭha
+
+In Ṛ. Saṃ. 7-33-7 the sons of Vasiṣṭha are described by the epithet शुश्रुवांसः (*śuśruvāṃsaḥ*). The meaning is "all-knowing". There is a special feature in this all-knowingness. What kind of special feature? For the administration of the world, to prevent injustice and other misconduct in the world and to turn it into a realm of dharma, there must be a king. For this king there must be an accomplished priest to give good counsel. The king must protect dharma — which dharma? The universal dharma that follows the path of ṛta. To uphold this universal dharma, just as Āditya, the lord of the world, is described by epithets such as ऋतपाः (*ṛtapāḥ*) and ऋतस्य गोपाः (*ṛtasya gopāḥ*) and is the protector of ṛta and constantly teaches the world the path of ṛta, so too the king of the earth must follow the same policy.
+
+### Printed p. xiv
+
+Āditya, as lord of all the worlds, exerting a personal influence in the three worlds, earth and the others, in the forms of Agni, Indra and Āditya, is the guide of the three worlds. For the earthly king to know these divine principles, there must necessarily be a priest who has this knowledge of the principles. This section states that the sons of Vasiṣṭha had this divine knowledge. Namely:
+
+त्रयः कृण्वंति भुवनेषु रेतस्तिस्रः प्रजा आर्या ज्योतिरग्राः । त्रयो घर्मास उषसं सचंते सर्वा इत्ता अनु विदुर्वसिष्ठाः ॥ (*trayaḥ kṛṇvaṃti bhuvaneṣu retastisraḥ prajā āryā jyotiragrāḥ | trayo gharmāsa uṣasaṃ sacaṃte sarvā ittā anu vidurvasiṣṭhāḥ ‖*)
+(Ṛ. Saṃ. 7-33-7)
+
+The praise of them is that the sons of Vasiṣṭha knew the divine nature of Indra, Agni and Āditya, the lords of the three worlds भूर्भुवस्स्वः (*bhūrbhuvassvaḥ*). It is praised that a king who has a priest of such divine knowledge administers his kingdom according to the path of ṛta and becomes a means of the world's welfare.
+
+5. Aja Ekapād
+
+The nature of the deity named Aja Ekapād is explained in many ways. Some say he is the unborn Lord; others, a one-footed goat (this is stated by one of the English scholars; many English scholars themselves do not accept this meaning); and some say he is Āditya having one foot. To take it as the sun accords with the Vedic passages.
+
+अज एकपादुदगात्पुरस्तात् । विश्वा भूतानि प्रति मोदमानः । तस्य देवाः प्रसवं यंति सर्वे । (*aja ekapādudagātpurastāt | viśvā bhūtāni prati modamānaḥ | tasya devāḥ prasavaṃ yaṃti sarve |*)
+(Tai. Brā. 3-1-2-8)
+
+The deity Aja Ekapād has risen in the eastern quarter. He gives joy to the whole world. All the gods act in accordance with his direction — this description refers to the sun. In writing the commentary on the Nirukta passage, Durgācārya has stated that this word designates either Agni or the sun. (Ni. Bhā. 12-29).
+
+In the Ṛksaṃhitā there are many portions that praise together the two deities Ahirbudhnya and Aja Ekapāt.
+
+### Printed p. xv
+
+To publish such a Ṛgveda Saṃhitā — most ancient, most profound, most extensive, the foundation of all the śāstras — in simple Kannada with critical translation is not an easy task. Even so, with the lofty aim that all people, from scholars to the unlearned, may gain growth of knowledge through such a great work and become worthy of the Lord's grace, His Highness Śrī Jayacāmarājendra Oḍeyar Bahadur, G.C.B., G.C.S.I., Sovereign of the Karnataka throne, lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, and his Government, are encouraging the publication of this work, which requires great expense, with their generous patronage; this must be said to be the merit of the multitude of the people of Karnataka. For our generous Lord, for his family, for the princesses, for the prince bearing the auspicious name Śrīkaṇṭhadatta Narasiṃharāja Oḍeyar, and for the entire multitude of subjects, I pray that the all-lord, the Vedapuruṣa, bestow still more abundantly all worldly fruits such as long life, health and prosperity, and the spiritual knowledge that leads to the highest good.
+
+Mysore.
+Year Śrī Jaya, Jyeṣṭha Śuddha Dvitīyā, Thursday
+Dated 3-6-1954
+Translator
+H. P. Venkata Rao,
+Āsthāna Mahāvidvān
+
+List of abbreviations
+
+Atha. Saṃ.—Atharvaveda Saṃhitā
+Āpa. Sū.—Āpastamba Śrauta Sūtra
+Āpa. Dha. Sū.—Āpastamba Dharma Sūtra
+Āpa. Pa. Sū.—Āpastamba Paribhāṣā Sūtra
+Ā. Sū. or Ā.—Āśvalāyana Śrauta Sūtra
+Uṇ. Sū.—Uṇādi Sūtra
+Ṛ. Saṃ.—Ṛgveda Saṃhitā
+Ai. Ā.—Aitareya Āraṇyaka
+Ai. U.—Aitareya Upaniṣad
+Ai. Brā.—Aitareya Brāhmaṇa
+Chā. U.—Chāndogya Upaniṣad
+Jai. Pū. Sū.—Jaiminīya Pūrva-Mīmāṃsā Sūtra
+Jai. Nyā. Vi.—Jaiminīya Nyāyamālā Vistara
+Tā. Brā.—Tāṇḍya Mahābrāhmaṇa
+Tai. Ā.—Taittirīya Āraṇyaka
+Tai. Brā.—Taittirīya Brāhmaṇa
+Tai. Saṃ.—Taittirīya Saṃhitā
+Ni.—Nirukta, Nighaṇṭu
+Pā. Sū.—Pāṇinīya Sūtra
+Pā. Śi.—Pāṇinīya Śikṣā
+Phi. or Phi. Sū.—Phiṭ Sūtra
+Bra. Sū.—Brahma Sūtra
+Ma. Bhā.—Mahābhārata
+Ma. Smṛ.—Manusmṛti
+Mai. Saṃ.—Maitrāyaṇīya Saṃhitā
+Yā. Smṛ.—Yājñavalkya Smṛti
+Vā. Saṃ.—Vājasaneya Saṃhitā
+Vā. Pu.—Vāyu Purāṇa
+Vi. Pu.—Viṣṇu Purāṇa
+Ve. Sū.—Vedānta Sūtra
+Śa. Brā.—Śatapatha Brāhmaṇa
+Sā. Saṃ.—Sāmaveda Saṃhitā, etc.
+Bṛ. De.—Bṛhaddevatā
+
 ### Printed p. 1
 
 श्रीः (*śrīḥ*)

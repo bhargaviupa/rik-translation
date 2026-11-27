@@ -85,3 +85,4 @@
 | w0583 pp. 583-588 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 13080 + cache write 0 + cache read 6181, out 4806 | $0.038 |
 | w0589 pp. 589-594 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 14489 + cache write 0 + cache read 6181, out 5081 | $0.041 |
 | w0595 pp. 595-600 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 13946 + cache write 0 + cache read 6181, out 5900 | $0.044 |
+| preface (front matter, source lines 76-521) | claude-sonnet-5-5 direct | 1 request | in 48505, out 18206 | $0.279 |
