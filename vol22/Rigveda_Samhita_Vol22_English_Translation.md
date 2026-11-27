@@ -22651,6 +22651,267 @@ Devoted to the gods, and hymning their praise, we have crossed to the opposite s
 
 This dear one, dear to you, the descendant of Manu or born from Manu, the hotṛ, the caller of the gods, the praiser, has taken his seat; that is, he is engaged in your rite. O Nāsatyas, Aśvins, whoever performs the sacrifice and praises, of him eat the sweet soma juice, O Aśvins, standing right near, that is, drink. At the sacrifices (विदथेषु (*vidatheṣu*)) I, provided with food, call you.
 
+### Printed p. 547
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—Nāsatya-named
+- अश्विना (*aśvinā*)—O Aśvin deities
+- प्रियः (*priyaḥ*)—one who is the object of your affection
+- मनुषः (*manuṣaḥ*)—of human form
+- होता (*hotā*)—the Hotṛ priest
+- नि सादि (*ni sādi*)—is seated, devoted to your worship
+- यः (*yaḥ*)—who
+- यजते (*yajate*)—performs the sacrifice
+- वंदते च (*vaṃdate ca*)—and praises you; of him
+- मध्वः (*madhvaḥ*)—the sweet Soma juice
+- उपाके (*upāke*)—staying near him
+- अश्नीतं (*aśnītaṃ*)—drink
+- विदथेषु (*vidatheṣu*)—in the sacrifices
+- प्रयस्वान् (*prayasvān*)—I, who possess the oblation
+- वां (*vāṃ*)—you
+- आ वोचे (*ā voce*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, called Nāsatyas, the Hotṛ, who is dear to you and of human form, is seated, devoted to your worship. Staying near the man who performs sacrifice for you and praises you, drink the Soma juice offered by him. I, provided with oblations, praise you in the sacrifices.
+
+##### English translation
+The man who is dear to you, Nasatyas, the invoker of the gods, has taken his seat, he who offers worship and repeats praise : be nigh, Aswins, and partake of the libation : supplied with food, I address you at sacrifices.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहे॑म य॒ज्ञं प॒थामु॑रा॒णा इ॒मां सु॑वृ॒क्तिं वृ॑षणा जुषेथां ।  
+> श्रु॒ष्टी॒वेव॒ प्रेषि॑तो वामबोधि॒ प्रति॒ स्तोमै॒र्जर॑माणो॒ वसि॑ष्ठः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहेम । यज्ञं । पथां । उराणाः । इमां । सुवृक्तिं । वृषणा । जुषेथां ।  
+> श्रुष्टीवाऽइव । प्रइषितः । वां । अबोधि । प्रति । स्तोमैः । जरमाणः । वसिष्ठः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उराणा उरु स्तोत्रं कुर्वाणाः स्तोतारो वयं पथां  आगच्छतां देवानामर्थाय यज्ञं यागं तत्साधनं हविराहेम । वर्धयामः । हे वृषणा वर्षकौ कामानां इमां सुवृक्तिं शोभनस्तुतिं जुषेथां । सेवेथां । वां
+
+##### Gist of the bhāṣya
+
+We, the praisers, making loud praise, increase the sacrifice, that is, the oblation which is its means, for the sake of the gods who come along the path. O showerers of desires, enjoy this fair praise. "Like a swift messenger" (श्रुष्टी (*śruṣṭī*) means swift)…
+
+### Printed p. 548
+
+> युवां श्रुष्टीवेव । श्रुष्टीति क्षिप्रनाम । क्षिप्रगंता दूत इव प्रेषितोऽहमबोधि ।
+> बोधयति शीघ्रं गंतव्यमिति । किं कुर्वन् स्तोमैः स्तोत्रैः प्रति जरमाणः प्रतिस्तुवन् । कः । वसिष्ठोऽहमबोधीति ॥
+
+##### Gist of the bhāṣya
+
+…I, sent forth like a swift-going messenger, am made aware that one must go quickly. Doing what? Praising in return with hymns. Who? I, Vasiṣṭha, have been made aware.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उराणाः (*urāṇāḥ*)—we who recite praise abundantly
+- पथां (*pathāṃ*)—for the gods who come on the path
+- यज्ञं (*yajñaṃ*)—the oblation
+- अहेम (*ahema*)—we increase
+- वृषणा (*vṛṣaṇā*)—O Aśvins, bestowers of desired things
+- इमां सुवृक्तिं (*imāṃ suvṛktiṃ*)—this excellent praise of mine
+- जुषेथां (*juṣethāṃ*)—enjoy
+- श्रुष्वीवेव (*śruṣvīveva*)—like a messenger
+- प्रेषितः (*preṣitaḥ*)—sent
+- वसिष्ठः (*vasiṣṭhaḥ*)—I, named Vasiṣṭha
+- स्तोमैः (*stomaiḥ*)—with hymns
+- प्रति जरमाणः (*prati jaramāṇaḥ*)—praising
+- वां (*vāṃ*)—you
+- अबोधि (*abodhi*)—I come to know
+
+##### भावार्थ (Bhāvārtha)
+
+We who compose and recite abundant praise increase the oblation for the gods who come on the path. O Aśvin deities, bestowers of desired things, enjoy this excellent praise of mine. I, named Vasiṣṭha, appointed for your service, praise you like a messenger and come to know you.
+
+##### English translation
+Praising (the gods), we prepare the sacrifice for their coming : showerers (of benefits), be propitiated by this pious laudation : despatched like a swift messenger, Vasishtha arouses you, glorifying you with hymns.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॒ त्या वह्नी॑ गमतो॒ विशं॑ नो रक्षो॒हणा॒ संभृ॑ता वी॒ळुपा॑णी ।  
+> समंधां॑स्यग्मत मत्स॒राणि॒ मा नो॑ मर्धिष्ट॒मा ग॑तं शि॒वेन॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । त्या । वह्नी इति । गमतः । विशं । नः । रक्षःऽहना । संभृता । वीळुपाणी इति  
+> वीळुपाणी ॥  
+> सं । अंधांसि । अग्मत । मत्सराणि । मा । नः । मर्धिष्टं । आ । गतं । शिवेन ॥ ४ ॥
+
+### Printed p. 549
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्या त्यौ तौ वह्नी हविषां वोढारौ नोऽस्माकं विशं प्रजामृत्विजमुप गमतः । उपगच्छतां । कीदृशौ तौ । रक्षोहणा रक्षसां हंतारौ संभृता सम्यग्भृतौ पुष्टांगौ वीळुपाणी दृढपाणी । यद्वा आयुमर्धर्चोऽश्वपरतया व्याख्येयः । तथा सति तौ रथस्य वोढारौ दृढपादावश्विनोरश्वावुपगच्छतामिति तस्यार्थः । अंधांस्यन्नानि मत्सराणि मदकराणि सोमाः समग्मत । समगच्छंत युवां । नोऽस्मान् मा मर्धिष्टं । मा हिंस्तं । किंतु शिवेन मंगलेन धनेन सार्धमा गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+"Those two", the bearers of oblations, approach our people, that is, the priest. Of what kind? Destroyers of Rakṣasas, well-nourished, that is, of well-fed limbs, वीळुपाणी (*vīḷupāṇī*), of firm hands. Or else the half-verse is to be explained as referring to the horses: then the meaning is that the two horses of the Aśvins, the bearers of the chariot, firm-footed, approach. The foods, the exhilarating Soma juices, have come together; you two, do not harm us, but come with auspicious wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रक्षोहणा (*rakṣohaṇā*)—destroyers of demons
+- संभृता (*saṃbhṛtā*)—well-nourished
+- वीळुपाणी (*vīḷupāṇī*)—having firm hands
+- त्या (*tyā*)—famous
+- वह्नी (*vahnī*)—bearers of oblations, O Aśvin deities
+- नः (*naḥ*)—our
+- विशं (*viśaṃ*)—to the multitude of people
+- उप गमतः (*upa gamataḥ*)—come and join
+- मत्सराणि (*matsarāṇi*)—gladdening
+- अंधांसि (*aṃdhāṃsi*)—foods in the form of Soma
+- समग्मत (*samagmata*)—receive
+- नः (*naḥ*)—us
+- मा मर्धिष्टं (*mā mardhiṣṭaṃ*)—do not harm
+- शिवेन (*śivena*)—with auspicious wealth
+- आ गतं (*ā gataṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, destroyers of demons, well-nourished, firm-handed, famous, bearers of oblations, come and join us. Receive (eat) the gladdening foods in the form of Soma. Do not harm us. Come with auspicious wealth.
+
+##### English translation
+May those two, the bearers (of oblations), approach our people, destroyers of Rakshasas, wel-nourished, strong-handad : accept our exhila-rating (sacrificial) viands : injure us not, but come with good fortune.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॒श्चाता॑न्नास॒त्या पु॒रस्ता॒दाश्वि॑ना यातमध॒रादुद॑क्तात् ।  
+> आ वि॒श्वतः॒ पांच॑जन्येन रा॒या यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पश्चातात् । नासत्या । आ । पुरस्तात् । आ । अश्विना । यातं । अधरात् । उदक्तात् ।
+
+### Printed p. 550
+
+> आ । विश्वतः । पांचजन्येन । राया । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ पश्चातादिति पंचम्याश्विने पशौ वपाया अनुवाक्या । सूत्रितं च । आ पश्चातान्नासत्या पुरस्तादा गोमता नासत्या रथेन । आ-३-८ । इति ॥
+> हे नासत्याश्विनौ पश्चातात्पश्चाद्देशादा यातं । तथा पुरस्तात्पूर्वस्माद्देशात् तथाधरादधस्तनाद्देशाद्दक्षिणत उदक्तादुदग्देशात् । सर्वत्रा यातमिति संबंधः । किं बहुना विश्वतः सर्वस्माद्देशात्पांचजन्येन पंचजनहितेन रायो धनेन सहा यातं । निषादपंचमाश्चत्वारो वर्णाः पंचजनाः ॥
+
+##### Gist of the bhāṣya
+
+The fifth verse आ पश्चातात् (*ā paścātāt*) is the anuvākyā for the vapā-offering in the animal sacrifice to the Aśvins. It is also prescribed in the sūtra: आ पश्चातान्नासत्या पुरस्तादा गोमता नासत्या रथेन (*ā paścātānnāsatyā purastādā gomatā nāsatyā rathena*) (Ā. 3-8). O Nāsatya Aśvins, come from the western region, likewise from the front, the eastern region, likewise from the lower, southern region, and from the northern region; the connection is "come" in all. In short, come from every region with wealth beneficial to the five peoples. The four castes with the Niṣāda as fifth are the five peoples.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—Nāsatya-named
+- अश्विना (*aśvinā*)—O Aśvin deities
+- पश्चातात् (*paścātāt*)—from the western region
+- आ यातं (*ā yātaṃ*)—come
+- पुरस्तात् (*purastāt*)—from the eastern part
+- आ (*ā*)—come
+- अधरात् (*adharāt*)—from the southern quarter
+- उदक्तात् (*udaktāt*)—from the northern quarter
+- आ (यातं) (*ā (yātaṃ)*)—come
+- विश्वतः (*viśvataḥ*)—from all quarters
+- पांचजन्येन (*pāṃcajanyena*)—beneficial to the five kinds of people
+- राया (*rāyā*)—with wealth
+- आ (यातं) (*ā (yātaṃ)*)—come
+- यूयं (*yūyaṃ*)—you
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- नः (*naḥ*)—us
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities called Nāsatyas, come to us from the western region, the eastern region, the southern part and the northern quarter. Come from all sides, together with wealth that does good to the five kinds of people. Protect us always with blessings.
+
+##### English translation
+Come, Nasatyas, from the west, from the east : (come), Ashwins, from the south, from the north, come from every quarter with riches beneficial for the five classes of men : and do you ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk आ पश्चातात् (*ā paścātāt*) is to be recited as the anuvākyā mantra at the vapā-offering of the animal sacrifice made for the Aśvin deities; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra आ पश्चातान्नासत्या पुरस्तादा गोमता नासत्या रथेन (*ā paścātānnāsatyā purastādā gomatā nāsatyā rathena*) (Ā. 3-8).
+
+### Printed p. 551
+Seventy-fourth Sūkta
+
+## Sūkta 74 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा उ वामिति षडृचं चतुर्थं सूक्तमाश्विनं वसिष्ठस्यार्षं । आद्यातृतीयोपंचम्यो बृहत्यः शिष्टाः सतोबृहत्यः । तथा चानुक्रांतं । इमा उ वां षट् प्रगाथमिति ॥ प्रातरनुवाक आश्विने क्रतौ बार्हते छंदस्याश्विनशस्त्रे च सूक्तं । सूत्रितं च । इमा उ वामयं वां । आ-४-१५ । इति ॥ दशरात्रे पंचमेऽहनि प्रउगशस्त्रे इमा उ वामित्ययमाश्विनस्तृचः । सूत्रितं च । इमा उ वां दिविष्टयः पिबा सुतस्य रसिनः । आ-७-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, इमा उ वां (*imā u vāṃ*), of six Ṛks, is addressed to the Aśvins; the seer is Vasiṣṭha. The first, third and fifth are Bṛhatīs, the rest Satobṛhatīs. So the Anukramaṇī: इमा उ वां षट् प्रगाथं (*imā u vāṃ ṣaṭ pragāthaṃ*). The sūkta is used at the morning anuvāka, in the Āśvina Kratu for the verses in Bṛhatī metre, and in the Āśvina-śastra; it is prescribed by the sūtra इमा उ वामयं वां (*imā u vāmayaṃ vāṃ*) (Ā. 4-15). On the fifth day of the Daśarātra, in the Prauga-śastra, the three verses beginning इमा उ वां (*imā u vāṃ*) form the Āśvina tṛca; so the sūtra: इमा उ वां दिविष्टयः पिबा सुतस्य रसिनः (*imā u vāṃ diviṣṭayaḥ pibā sutasya rasinaḥ*) (Ā. 7-12).
+
+##### Anuvāda
+
+This sūkta beginning इमा उ वां (*imā u vāṃ*) is the fourth sūkta in the fifth anuvāka. It has six Ṛks. Vasiṣṭha is the seer; the Aśvin deities are the deity; the first, third and fifth Ṛks are in Bṛhatī metre, the remaining Ṛks in Satobṛhatī metre. The Anukramaṇī says इमा उ वां षट् प्रगाथं (*imā u vāṃ ṣaṭ pragāthaṃ*). At the time of reciting the morning anuvāka mantras, the sūkta is used for the Bṛhatī verses connected with the Āśvina Kratu and for the Āśvina-śastra mantras, as set out by the Āśvalāyana Śrauta Sūtra इमा उ वामयं वां (*imā u vāmayaṃ vāṃ*) (Ā. 4-15). On the fifth day of the sacrifice called Daśarātra, when reciting the Prauga-śastra mantras, the three Ṛks beginning इमा उ वां (*imā u vāṃ*) are to be recited as the Āśvina tṛca, as set out by the Āśvalāyana Śrauta Sūtra इमा उ वां दिविष्टयः पिबा सुतस्य रसिनः (*imā u vāṃ diviṣṭayaḥ pibā sutasya rasinaḥ*) (Ā. 7-12).
+
+Sūkta—74
+Maṇḍala—7; Anuvāka—5; Sūkta—74
+Aṣṭaka—5; Adhyāya—5; Varga—21
+Number of Ṛks in the sūkta—6
+Ṛṣi: Vasiṣṭha
+Devatā: Aśvins
+Chandas: 1, 3, 5 Bṛhatī; 2, 4, 6 Satobṛhatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ वां॒ दिवि॑ष्टय उ॒स्रा ह॑वंते अश्विना ।  
+> अ॒यं वा॑म॒ह्वेऽव॑से शचीवसू॒ विशं॑विशं॒ हि गच्छ॑थः ॥ १ ॥
+
+### Printed p. 552
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । वां । दिविष्टयः । उस्रा । हवंते । अश्विना ॥  
+> अयं । वां । अह्वे । अवसे । शचीवसू इति शचीवसू । विशंविशं । हि । गच्छथः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा दिविष्टयो दिवमिच्छंत्यः प्रजा ऋत्विजोऽपि । उ इति चार्थे । हे अश्विना उस्रा वासकौ वां हवंते । आह्वयंति । अयं वसिष्ठोऽपि हे शचीवसू कर्मधनौ वां युवामवसेऽस्मत्प्रक्षणाय युवयोस्तर्पणाय वाह्वे । आह्वयामि । किमर्थमेवं प्रजा अस्यहमपीत्यादरोक्तिरिति तत्राह । हि यस्मात्कारणाद्युवां विशं विशं प्रजां प्रजां प्रति गच्छथः ॥
+
+##### Gist of the bhāṣya
+
+These people, desiring heaven, and the priests too, call you, O radiant Aśvins, the dwellers. This Vasiṣṭha also, O शचीवसू (*śacīvasū*), whose wealth is ritual action, calls you for our protection and for your satisfaction. Why this respectful speech, "these people, I too"? He answers: because you go to every people, each in turn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- दिविष्टयः (*diviṣṭayaḥ*)—desiring the world of the gods
+- इमाः (*imāḥ*)—these people
+- उस्रा (*usrā*)—who are full of radiance
+- वां (*vāṃ*)—you
+- हवंते (*havaṃte*)—call
+- हि (*hi*)—because of your generosity
+- विशं विशं (*viśaṃ viśaṃ*)—to each and every one
+- गच्छथः (*gacchathaḥ*)—you go; therefore
+- शचीवसू (*śacīvasū*)—O Aśvin deities, possessing wealth in the form of ritual action
+- अयं (*ayaṃ*)—I too, named Vasiṣṭha
+- अह्वे (*ahve*)—call you
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, these people who desire the world of the gods call you, who are full of radiance. You go to each and every one out of your generosity. Therefore, O Aśvin deities, possessing wealth in the form of ritual action, I too, named Vasiṣṭha, call you.
+
+##### English translation
+Thease pious praises glorify you, radiant Aswins : I call upon you, who are rich, in acts for preservation, for you repair to every individual.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं चि॒त्रं द॑दथु॒र्भोज॑नं नरा॒ चोदे॑थां सू॒नृता॑वते ।  
+> अ॒र्वाग्रथं॒ सम॑नसा॒ नि य॑च्छतं॒ पिब॑तं सो॒म्यं मधु॑ ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 546. pp. 541-546 (batch API)
+**Progress note:** Done through printed p. 552. pp. 547-552 (batch API)
