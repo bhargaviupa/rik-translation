@@ -6025,6 +6025,156 @@ Sāyaṇa has explained the word धेनु (*dhenu*) as cows, and has describ
 
 स्वर्वत् (*svarvat*)—फलभूतेन स्वर्गेण तद्वच्छस्त्रं (*phalabhūtena svargeṇa tadvacchastraṃ*): a Śastra that is a means to the fruit of heaven. The word स्वर (*svara*) in the form of an affix-ending is used in hundreds of places in the Ṛgveda. The bare word स्वर (*svara*) too is well known. But its meaning cannot be known exactly. In one place
 
+### Printed p. 247
+
+##### विशेषविषयगळु (Special Topics)
+
+…each has its own meaning. Even so, the meaning must be fixed according to the context. Here the meaning of the basic form of the word स्वर् (*svar*) is given first, and then the sense of स्वर्वत् (*svarvat*) is explained. Compounds such as स्वर्दृशः (*svardṛśaḥ*) and स्वर्विद् (*svarvid*) will be explained only in their own contexts.
+
+This word is read among the common (sādhāraṇa) names: स्वः (*svaḥ*), पृश्निः (*pṛśniḥ*), नाकः (*nākaḥ*) and so on. साधारणान्युत्तराणि षड् दिवश्चादित्यस्य च (*sādhāraṇānyuttarāṇi ṣaḍ divaścādityasya ca*) (Ni. 2-13). The author of the Nirukta has declared that the six words स्वः (*svaḥ*), पृश्निः (*pṛśniḥ*), नाकः (*nākaḥ*), गौः (*gauḥ*), विष्टपं (*viṣṭapaṃ*), नभः (*nabhaḥ*) are common denotations, both as synonyms of the heavenly world and as referring to the Āditya (sun). Then, explaining which root स्वर् (*svar*) comes from when used as a synonym of Āditya, and how the word is derived:
+
+स्वरादित्यो भवति सु अरणः, सु ईरणः, स्वृतो रसान्, स्वृतो भासं ज्योतिषां । स्वृतो भासेति वा । (*svarādityo bhavati su araṇaḥ, su īraṇaḥ, svṛto rasān, svṛto bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā |*) (Ni. 2-14)
+
+The author of the Nirukta has said that the Āditya has this name either because he is far-travelling; or because he wholly scatters and destroys (the darkness); or because he enters into the sap (rasa) and becomes inward with it; or because he spreads his light in the circle of radiance and becomes one with it; or because he pervades the universe in the form of radiance; and that for this very reason the heavenly world, too, has this name.
+
+स्वरादित्यो भवति स एनानि सारयति (*svarādityo bhavati sa enāni sārayati*) (Ni. 5-4)
+
+The Āditya has the name स्वः (*svaḥ*) also because he sets the days in motion. Where this word is used in the Ṛksaṃhitā, in
+
+प्रत्यज् देवानां विशः प्रत्यज्जु देषि मानुषान् । प्रत्यज्विश्वं स्वर्दृशे ॥ (*pratyaj devānāṃ viśaḥ pratyajju deṣi mānuṣān | pratyajviśvaṃ svardṛśe ‖*) (Ṛ. Saṃ. 1-50-5)
+
+and similar Ṛks it is understood as the heavenly world (svarloka); in
+
+त्मना वहंतो दुरो व्यण्णन्नवंत विश्वे स्व १ निर्दृशीके । (*tmanā vahaṃto duro vyaṇṇannavaṃta viśve sva 1 nirdṛśīke |*) (Ṛ. Saṃ. 1-69-10)
+
+and similar places, स्वः (*svaḥ*) is understood as "in the sky, in the atmosphere"; and in
+
+दा नो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि । प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि विद्युतुः ॥ (*dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi | prācī dyāvāpṛthivī brahmaṇā kṛdhi svarṇa śukramuṣaso vi vidyutuḥ ‖*) (Ṛ. Saṃ. 2-2-7)
+
+and similar Ṛks as the Āditya. In the same way, words such as स्वर्वत् (*svarvat*), formed with affixes like वत् (*vat*), must be interpreted according to the context. For example—
+
+### Printed p. 248
+या इंद्र भुज आभरः स्वर्ना आसुरेभ्यः । स्तोतारमिन्मघवन्नस्य वर्धय ये च त्वे व्यक्तबर्हिषः ॥ (*yā iṃdra bhuja ābharaḥ svarnā āsurebhyaḥ | stotāraminmaghavannasya vardhaya ye ca tve vyaktabarhiṣaḥ ‖*) (Ṛ. Saṃ. 8-97-1)
+
+Here स्वर्वान् (*svarvān*) is "possessing happiness, or possessing heaven." Or else the word स्वः (*svaḥ*) is a synonym of "all": because every class of beings has arisen from himself, he is "possessed of that." Since स्वः (*svaḥ*) can mean happiness, heaven or the whole, स्वर्वान् (*svarvān*) means one who has happiness, one who has heaven, or one who has everything; so when it is an epithet of Indra, all these meanings fit. And—
+
+शं शिशीशा स्वध्वरं सत्यं सत्वानमृत्वियं । उतो नु चिद्य ओहत आंडा शुष्णस्य भेदत्यजैः स्वर्वतीरपो नभंतामन्यके समे ॥ (*śaṃ śiśīśā svadhvaraṃ satyaṃ satvānamṛtviyaṃ | uto nu cidya ohata āṃḍā śuṣṇasya bhedatyajaiḥ svarvatīrapo nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8-40-11)
+
+In places like this, where स्वर्वतीः अपः (*svarvatīḥ apaḥ*) is an epithet of water, it means "divine" waters, that is, water produced in the divine world (the world of heaven). This epithet also describes the qualities of other deities such as Agni. For example—
+
+ज्योतिष्मतीमदितिं धारयत् क्षितिं स्वर्वशीमा सचेते दिवेदिवे जागृवांसा दिवेदिवे । (*jyotiṣmatīmaditiṃ dhārayat kṣitiṃ svarvaśīmā sacete divedive jāgṛvāṃsā divedive |*) (Ṛ. Saṃ. 1-136-3)
+
+Here स्वर्वती (*svarvatī*) is an epithet of Aditi; it is explained, as in the Ṛk now under discussion, as "possessing heaven" through the accomplishment of the sacrifice.
+
+आ शे शुष्मो वृषभ एतु पश्चादोत्तरादधरादा पुरस्तात् । आ विश्वतो अभि समेश्वर्वाजांद्र द्युम्नं स्वर्वद्धेह्यस्मे ॥ (*ā śe śuṣmo vṛṣabha etu paścādottarādadharādā purastāt | ā viśvato abhi sameśvarvājāṃdra dyumnaṃ svarvaddhehyasme ‖*) (Ṛ. Saṃ. 6-19-9)
+
+In such Ṛks the meaning "wealth joined with happiness" is given. In the present Ṛk, since it is an epithet of the most excellent Sāman, it can be understood either as "a means to heaven" or as "a means to the happiness of heaven."
+
+##### Grammar
+
+- गायत् — गै शब्दे धातुः । छंदसिलुज् लज् लिटः इति वर्तमानार्थे लज् । प्रथमपुरुषैकवचनांतरूपम् । छांदसत्वादडागमो न भवति ।
+- नभन्यम् — नभसि भवः नभन्यः । भवार्थे यत् प्रत्ययः । छांदसत्वात् सकारस्य नकारादेशः । शित्‌स्वरितम् इति स्वरितस्वरो भवति ।
+
+### Printed p. 249
+- वेः — विद ज्ञाने धातुः । छांदसत्वाद् वर्तमानार्थे लज् । मध्यमपुरुषैकवचने सिप् इकारलोपः । शपो लुक् । हल् ज्याभ्यो इति सिपो लोपः । सिप् निमित्तं धातोर्लघोपधस्य गुणः । दक्ष (पा. सू. ८-२-७५) इति धातुदकारस्य रुत्वम् । विसर्गः । छांदसत्वादडागमो न भवति । तिजिंत निघातस्वरो भवति ।
+- अर्जाम — अर्च पूजायां धातुः । लोट् उत्तमपुरुषबहुवचनांतरूपम् । तिजंतस्य परत्वान्निघातस्वरो न भवति । लसार्वधातुकस्यानुदात्तत्वाद् धातुस्वरो अवशिष्यते ।
+- नावृधानम् — वृथु वृद्धौ धातुः । लटः शानचादेशः । बहुलं छंदसि इति शपः श्लु आदेशः । श्लु निमित्तं धातोर्द्वित्वादि । छांदसत्वात् संहितायामभ्यासस्य दीर्घो भवति । चितः (पा. सू. ६-१-१६३) इत्यंतोदात्तस्वरो भवति ।
+- आदब्धाः — नञ् तत्पुरुषसमासः । तत्पुरुषेतुल्यार्थ (पा. सू. ६-२-२) इति नञ् पूर्वपदप्रकृतिस्वरो भवति ।
+- दिव्यम् — दिवि भवं दिव्यम् । दंडादिषु पठितत्वाद् य प्रत्ययः । प्रत्ययस्वरेणांतोदात्तं भवति ।
+- विवासान् — विवास इति परिचरणार्थे प्रयुक्तः । लेट् प्रथमपुरुषबहुवचने झेरंतादेशः । इतश्चलोपः (पा. सू. ३-४-९७) इति इकारलोपः । लेटोडाट् (पा. सू. ३-४-९४) इति तस्याडागमः । यद्योगान्निघातस्वरो न भवति । व्यत्ययेनाद्युदात्तस्वरो भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्च॒द्वृषा॒ वृष॑भिः॒ स्वेदु॑हवैर्मृ॒गो नाश्नो॒ अति॒ यज्जु॑गु॒र्यात् ।  
+> प्र मं॑द॒युर्म॒नां गू॑र्त॒ होता॒ भर॑ते॒ मर्यो॑ मिथु॒ना  ॑
+> यजत्रः ॥ २ ॥
+
+### Printed p. 250
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्चत् । वृषा । वृषभिः । स्वइदुहन्यैः । मृगः । न । अत्मः । अति । यत् । जुगुर्यात् ।  
+> प्र । मंदयुः । मनां । गूर्त । होता । भरते । मर्यः । मिथुना । यजत्रः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा हविषां वर्षितायं यजमानः स्वेदुहवैः स्वायत्तेद्धहविष्टैः ।
+> यद्वा ! स्वयंप्राप्तेंधकं हव्यं येषां तादृशैः । वृषभिर्वर्षकैर्हविष्पदातृभिरध्वय्यादिभिर्विशिष्टः सन्नर्चत् । अर्चयतींद्रं । यद्वा! वृषा फलस्य वर्षितायमिंद्र उक्तलक्षणैर्वयाद्वर्दिभिरच्यते । यद्यस्मादश्नो व्यापकः पानाद्यर्थं धावन्मगो न हरिणादिरिवायमिंद्रोऽश्नोऽतनशीलः सन्नति जुगुर्यात् ! अत्यर्थमुद्युंक्ते हविर्भक्षणाय । यथा मृगः क्षुत्पिपासार्दितः शीघ्रमुद्युंक्ते तथायमिंड्रोऽपि ! यस्मादेवं तस्मादर्चति ! यद्वा ! आयमिंद्रो यद्यथाश्नो मृग
+> इवाति जुगुर्यात् भक्षयेत् तथार्चतीत्यर्थः ! किंच हे गूर्तोद्दूर्णेंद्र
+> मनां मननं स्तोत्रमिच्छतां देवानां मंदयुः स्तुतियुक्तो मर्यो होता
+> मानुष एतन्नामक ऋत्विग्यजत्रो यागनिष्पादकः सन्मिथुना मिथुनानि युग्मरूपाणि
+> याज्यापुरोनुवाक्यादीनि मिथुनौ ना जायापतिरूपः सन् प्र भरते । प्रकर्षेण
+> संपादयति ! तस्मादर्चतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Showerer" (वृषा (*vṛṣā*)) means this sacrificer, the one who showers oblations. He worships Indra, accompanied by those who have स्वेदुहवैः (*sveduhavaiḥ*): oblations that are in their own control and kindled, or else those for whom the fuel and oblation have come of themselves. These (वृषभिः (*vṛṣabhiḥ*)) are the "showerers", the givers of oblations, the Adhvaryu and others. Or else: वृषा (*vṛṣā*) is Indra, the showerer of fruit; he is worshipped by those described, the Adhvaryus and the rest.
+
+"As" (यत् (*yat*)): this Indra is *aśnaḥ*, pervading, running for drink and the like, like a deer (मृगः (*mṛgaḥ*)), an antelope and the like; being of an outspreading nature he strives exceedingly (अति जुगुर्यात् (*ati juguryāt*)) to eat the oblation. As a deer tormented by hunger and thirst hastens quickly, so does this Indra. Since this is so, (the sacrificer) worships. Or else: as a pervading deer would devour, so Indra devours; hence the sense "he worships."
+
+Further, O Gūrta, O exalted Indra (so he glosses the vocative): मनां (*manāṃ*) is "thought, praise" — of the gods who desire praise. The human invoker (hotṛ), a priest of that name, मंदयुः (*maṃdayuḥ*), devoted to praise, यजत्रः (*yajatraḥ*), accomplishing the sacrifice, being in the form of a husband-and-wife pair (मिथुनौ ना (*mithunau nā*)), प्र भरते (*pra bharate*): he brings forth abundantly the paired yājyā and puronuvākyā verses; therefore (the sacrificer) worships — such is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for what reason
+- इंद्रः (*iṃdraḥ*)—Indra
+- अश्वः (*aśvaḥ*)—pervading (running for drink and the like)
+- मृगः न (*mṛgaḥ na*)—like an antelope
+- अश्वः (*aśvaḥ*)—being of an eating nature
+- अति जुगुर्यात् (*ati juguryāt*)—strives exceedingly (to eat the oblation)
+- तत् (*tat*)—therefore
+- [Or else: अश्वः (*aśvaḥ*)—running for drink and the like; मृगः न (*mṛgaḥ na*)—like a deer; यत् (*yat*)—as; अति जुगुर्यात् (*ati juguryāt*)—(Indra) would strive quickly; (so, in that way)]
+- वृषा (*vṛṣā*)—the sacrificer, the showerer of oblations
+- स्वेदुहव्यैः (*sveduhavyaiḥ*)—those who have oblations in their own control
+- वृषभिः (*vṛṣabhiḥ*)—accompanied by the givers of oblations, the Adhvaryu and others
+- अर्चत् (*arcat*)—worships (Indra)
+- [Or else: वृषा (*vṛṣā*)—Indra, the showerer of desires; स्वेषुहव्यैः (*sveṣuhavyaiḥ*)—by those who have oblations in their own control; वृषभिः (*vṛṣabhiḥ*)—by the givers of oblations, the Adhvaryu and others; अर्चत् (*arcat*)—is worshipped]
+- किंच (*kiṃca*)—and further
+- गूर्त (*gūrta*)—O mighty Indra
+- मनां (*manāṃ*)—of the gods fond of praise
+- मंदयुः (*maṃdayuḥ*)—devoted to praise
+- मर्यः (*maryaḥ*)—mortal
+
+### Printed p. 251
+- होता (*hotā*)—the hotṛ
+- यजत्रः (*yajatraḥ*)—as accomplisher of the sacrifice
+- मिथुना (*mithunā*)—the paired yājyā and puronuvākyā verses (in the form of husband and wife)
+- प्र भरते (*pra bharate*)—brings together abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, the sacrificer, the giver of oblations, accompanied by priests, the Adhvaryu and others, worships you; to receive those oblations you too come quickly, as a deer tormented by hunger and thirst comes running for water and the like. The mortal hotṛ, praising the gods who love praise, recites the yājyā, puronuvākyā and other verses.
+
+##### English translation (H. H. Wilson)
+The showerer (of the oblation, the offerer of the sacrifice, assisted) by (the priests), presenting the oblations which have been provided by himself, adores (Indra), in order that he may hasten (to the rite), as a (thirsty) deer to the water. The mortal invoker (of the gods), O mighty Indra, whilst glorifying them who are desirous of praise, presents a twofold offering (to you).
+
+##### विशेषविषयगळु (Special Topics)
+
+वृषा स्वेदुहवैः वृषभिरर्चत्— हविषां वर्षिता आयं यजमानः । स्वायत्तेद्वहविष्कैः यद्वा स्वयं प्राप्तेंधकं हव्यं येषां तादृश्यैः हविष्ट्रदातृभिरध्वर्यादिभिः विशिष्टर्स्स अर्चयतींद्रं। (*vṛṣā sveduhavaiḥ vṛṣabhirarcat— haviṣāṃ varṣitā āyaṃ yajamānaḥ | svāyattedvahaviṣkaiḥ yadvā svayaṃ prāpteṃdhakaṃ havyaṃ yeṣāṃ tādṛśyaiḥ haviṣṭradātṛbhiradhvaryādibhiḥ viśiṣṭarssa arcayatīṃdraṃ|*). Sāyaṇa has explained this sentence in two ways. The word वृषा (*vṛṣā*) is used in the sense of the sacrificer who offers the oblations. The word स्वेदुहवैः (*sveduhavaiḥ*) is explained as used as an epithet of the fires and also as an epithet of the priests, the Adhvaryu and others. By this, the first meaning is described: the sacrificer, offering oblations with the deities in view, worships Indra with fire (fires) kindled by fuel (sticks of wood) and by the oblations. In the second meaning the sacrificer, together with the priests, Adhvaryu and others, who stand ready to offer plentiful prepared oblations, worships Indra with abundant oblations. यद्वा वृषा फलस्य वर्षिता इंद्रः उक्तलक्षणैरध्वर्यादिभिरच्यते (*yadvā vṛṣā phalasya varṣitā iṃdraḥ uktalakṣaṇairadhvaryādibhiracyate*): the meaning is also given that Indra, who showers the desired objects on the sacrificers as one sends down rain, is worshipped by the Adhvaryu and other priests, who have prepared plentiful oblations.
+
+### Printed p. 252
+Here the two words वृषा (*vṛṣā*) and वृषभिः (*vṛṣabhiḥ*) are both produced from the root वृष (*vṛṣa*). Of the two roots वृषु-सेचने (*vṛṣu-secane*) and वृष-शक्तिबंधने (*vṛṣa-śaktibaṃdhane*), the first word वृषा (*vṛṣā*) is formed from the root वृष (*vṛṣa*) that gives the sense "pour, sprinkle", and the second word वृषभिः (*vṛṣabhiḥ*) from the second root, which gives the sense of power, capacity; this is to be understood from the explanation the commentator makes in this context. But since the epithet वृषन् (*vṛṣan*) and the other epithets derived from this root are used again and again in the Ṛksaṃhitā, one fixed meaning cannot be stated for these words; the meaning has to be given according to each context. Therefore, having first set out in brief the main senses in which the word वृषन् (*vṛṣan*) is used, let us then examine its special meaning where, in the present Ṛk, it is used as an epithet of Indra, or of the priests, or of other deities.
+
+The word वृषन् (*vṛṣan*) is used in many places in the sense of "a male (pumān) with the power of sprinkling"; the word is used either as a synonym of man (puruṣa), or as a synonym of horses and other animals, indicating the masculine.
+
+ये त इंद्र ददुषो वर्धयंति महि क्षत्रं स्थविरं वृष्ट्यं च । (*ye ta iṃdra daduṣo vardhayaṃti mahi kṣatraṃ sthaviraṃ vṛṣṭyaṃ ca |*) (Ṛ. Saṃ. 1-54-8).
+
+Here the word वृष्ट्यं (*vṛṣṭyaṃ*) is explained as वृषत्वं (*vṛṣatvaṃ*), पुंत्वं (*puṃtvaṃ*) (virility). And in
+
+स्तुतः श्रवस्यन्न वसोप मद्रिग्युत्वा हरी वृषणा याह्यर्वाज् (*stutaḥ śravasyanna vasopa madrigyutvā harī vṛṣaṇā yāhyarvāj*) (Ṛ. Saṃ. 1-177-1)
+
+here व्यसना (*vyasanā*) is explained as युवासा (*yuvāsā*) (the two young ones). In
+
+भूषन्न योधि बभ्रूषु नम्मते वृषेव पत्नीरभ्येति रोरुवत् । (*bhūṣanna yodhi babhrūṣu nammate vṛṣeva patnīrabhyeti roruvat |*) (Ṛ. Saṃ. 1-140-6)
+
+वृषा इव (*vṛṣā iva*) is explained as सेक्ता वृषभ इव (*sektā vṛṣabha iva*), like a bull (ox) that sprinkles. In Ṛks such as
+
+मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः । (*mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ |*) (Ṛ. Saṃ. 1-179-1)
+
+वृषणः (*vṛṣaṇaḥ*) is explained as सेक्तारः पुरुषाः (*sektāraḥ puruṣāḥ*), and in many other places likewise the word is used in senses that indicate the masculine and show the power of the male creature. And further—
+
 ---
 
-**Progress note:** Done through printed p. 246. pp. 241-246 (batch API)
+**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
