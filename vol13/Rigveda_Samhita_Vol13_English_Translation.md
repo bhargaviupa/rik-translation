@@ -6597,6 +6597,125 @@ Sāyaṇa says that when this Indra, by his greatness, by his own lordship, is a
 - सं विव्ये (*saṃ vivye*)—(with his brilliance, the three worlds) he pervades
 - (किंच आयं (*kiṃca āyaṃ*)—moreover
 
+### Printed p. 271
+
+- स्वधावान् (*svadhāvān*)—endowed with food (water in the form of rain)
+- ओपशं इव (*opaśaṃ iva*)—as a bull bears a horn; or, as he also upholds the earth and the atmosphere, which lie close to each other
+- भर्ति (*bharti*)—upholds (is the support)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the protector and the supremely glorious one of the sacrificers who carry out the rites, surpasses heaven and earth. As the sky encompasses the earth, so he too encompasses the three worlds with his splendour. Endowed with food (water in the form of rain), he is the support of the heavenly world, just as he is the support of earth and sky.
+
+##### English translation (H. H. Wilson)
+Heaven and earth are insufficient for the girth of that Indra, who, with his greatness, rules over the leaders (of sacrifice) : as the atmosphere encompasses the earth, so he encompasses (the three worlds), and, being the master of the rain, he upholds the sky as well as the firmament and the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+महिना नृभ्यः प्र अस्ति—महत्वेन स्वैश्वर्येण नेतृभ्यः कर्मनिर्वाहकेभ्यः । यजमानेभ्यः प्रभवति । (*mahinā nṛbhyaḥ pra asti—mahatvena svaiśvaryeṇa netṛbhyaḥ karmanirvāhakebhyaḥ | yajamānebhyaḥ prabhavati |*). The meaning is explained thus: Indra is worshipful toward the sacrificers who perform the sacrificial rites, through his own majestic power (lordship) full of greatness. The word नरः (*naraḥ*) is stated among the names of the horse (Ni. 2-27) and among the names of man (Ni. 3-7). Here it is used in the sense of the sacrificers who perform the rites.
+
+The word इत्था (*itthā*) is read among the names meaning "true", श्रत् (*śrat*) and so on (Ni. 3-13). In showing the nirvacana of the word इत्था (*itthā*), Yāska says इत्था अमुथेत्येतेन व्याख्यातं (*itthā amuthetyetena vyākhyātaṃ*) (Ni. 5-5): it is to be understood like the nirvacana of the word अमुथा (*amuthā*). अमुथा यथासाविति व्याख्यातं (*amuthā yathāsāviti vyākhyātaṃ*) (3-16): अमुथा (*amuthā*) is used in the sense of truth and also in the sense of comparison, and the word इत्था (*itthā*) is likewise used. Having shown this, he cites the Ṛk
+त्यं चिदित्था कत्पयं शयानमसूर्ये शमसि वावृधानं । (*tyaṃ ciditthā katpayaṃ śayānamasūrye śamasi vāvṛdhānaṃ |*)
+
+### Printed p. 272
+
+(Ṛ. Saṃ. 5-32-6)
+and shows that the word इत्था (*itthā*) means "truly" (Ni. 6-3). Durgācārya explains it as अमुना प्रकारेण (*amunā prakāreṇa*), and Sāyaṇa as अमुष्मिन्नंतरिक्षलोके (*amuṣminnaṃtarikṣaloke*). In the present Ṛk it is used in the sense of truth.
+
+कक्ष्ये (*kakṣye*): कक्ष्या रज्जुरश्वस्य-कक्षं सेवते; कक्षो गाहतेः क्स इति नामकरणः । ख्यातीर्वानर्थकोऽभ्यासः । किमस्मिन् ख्यानमिति । कषतेर्वा । तत्सामान्यान्मनुष्यकक्षो बाहुमूलसामान्यादश्वस्य । (*kakṣyā rajjuraśvasya-kakṣaṃ sevate; kakṣo gāhateḥ ksa iti nāmakaraṇaḥ | khyātīrvānarthako 'bhyāsaḥ | kimasmin khyānamiti | kaṣatervā | tatsāmānyānmanuṣyakakṣo bāhumūlasāmānyādaśvasya |*) (Ni. 2-2). Because it is tied around the neck of the horse, the strap around its neck is called kakṣā. The affix क्स (*ksa*) joined with the root गाह् (*gāh*), used in the sense of entering within, may give the formation कक्ष्या (*kakṣyā*). Or it may be formed by reduplication of the root ख्या (*khyā*). Or the root कषा (*kaṣā*), meaning "to rub", may be its origin. Hence this name is also well known for the armpit (kakṣa) of a man; that is, heaven and earth, which have an interval equal to this armpit, may be meant.
+
+Moreover, the Nirukta author has read the word कक्ष्या (*kakṣyā*) among the names of the "fingers" (Ni. 3-8), and he cites the Ṛk in which the word is used,
+दशावनिभ्यो दशकक्ष्मेभ्यो दशयोक्रेभ्यो दशयोजनेभ्यः । दशाभीशुभ्यो अर्चताजरेभ्यो दश धुरो दश युक्ता वहद्भ्यः ॥ (*daśāvanibhyo daśakakṣmebhyo daśayokrebhyo daśayojanebhyaḥ | daśābhīśubhyo arcatājarebhyo daśa dhuro daśa yuktā vahadbhyaḥ ‖*)
+(Ṛ. Saṃ. 10-94),
+and explains the word कक्ष्या (*kakṣyā*) there as fingers. In the present Ṛk it means the interval of heaven and earth.
+
+अस्मै रोदसी कक्ष्ये नालं (*asmai rodasī kakṣye nālaṃ*): the word रोदसी (*rodasī*) is stated among the names of heaven and earth (Ni. 3-22). Although heaven and earth move along their own paths, they are not sufficient for the movement of Indra, who protects the sacrificers performing the rites. The meaning is explained: जगतोऽधीशस्य इंद्रस्य संचाराय अल्पत्वात् द्यावापृथिव्यौ न पर्याप्ते । सृष्टादपि स्रष्टुर्महिम्मो अधिकत्वात् । (*jagato 'dhīśasya iṃdrasya saṃcārāya alpatvāt dyāvāpṛthivyau na paryāpte | sṛṣṭādapi sraṣṭurmahimmo adhikatvāt |*). Since the greatness of the creator exceeds the greatness of the thing created, the room that heaven and earth afford is not sufficient for the movement of Indra, the lord of the whole world. This implies that the greatness of heaven and earth is less than the greatness of Indra.
+
+आरं—अलं । पराप्त इत्यर्थः (*āraṃ—alaṃ | parāpta ityarthaḥ*). The meaning here is "sufficient, so as to give satisfaction". Besides giving the sense "sufficient", this word is also used in the senses "make ready" and "serve".
+
+### Printed p. 273
+
+वायवा याहि दर्ततेमे सोमा आरंकृताः । (*vāyavā yāhi dartateme somā āraṃkṛtāḥ |*)
+(Ṛ. Saṃ. 1-2-1)
+अरं कृण्वंतु वेदिं समग्निमिंधतां पुरः (*araṃ kṛṇvaṃtu vediṃ samagnimiṃdhatāṃ puraḥ*)
+(Ṛ. Saṃ. 1-170-4)
+In such Ṛks, आरंकृत (*āraṃkṛta*) and आरंकृण्वंतु (*āraṃkṛṇvaṃtu*) give the sense "make ready"; and in
+त्वमग्ने प्रविणोदा आरंकृते त्वं देवः सविता रत्नधा असि । (*tvamagne praviṇodā āraṃkṛte tvaṃ devaḥ savitā ratnadhā asi |*)
+(Ṛ. Saṃ. 2-1.7)
+and similar Ṛks it gives the sense "worship, serve". In the present Ṛk, as in
+सोमारुद्रा धारयेथामसुरं प्र वामिष्टयोऽरमश्नुवंतु । ( (*somārudrā dhārayethāmasuraṃ pra vāmiṣṭayo 'ramaśnuvaṃtu | (*)
+(Ṛ. Saṃ. 6-74-1)
+and similar Ṛks where it is used in the same way, it means "sufficient, so as to give satisfaction".
+
+वृजनं न भूम संविव्ये-भूमिं भूतानि वा वृजनमिव । तदिव तव्यथा आवृणोति तथा आयमपि स्वतेजसा सम्यगावृणोति लोकत्रयं । (*vṛjanaṃ na bhūma saṃvivye-bhūmiṃ bhūtāni vā vṛjanamiva | tadiva tavyathā āvṛṇoti tathā āyamapi svatejasā samyagāvṛṇoti lokatrayaṃ |*). The word वृजन (*vṛjana*) is read among the names of strength (Ni. 3-9). The comparison is: as strength covers the earth and living beings. Here the word भूम (*bhūma*) is given the sense "earth" or "living beings". The meaning is described thus: as that strength covers the earth and the beings, so Indra covers the three worlds with his splendour.
+
+स्वधावान् अन्नवान् (*svadhāvān annavān*) … or वृष्टिलक्षणोदकवान् वा (*vṛṣṭilakṣaṇodakavān vā*). The word स्वधा (*svadhā*) is read among the names of water (Ni. 2-24) and among the names of food (Ni. 3-9). The name is also used in yet other senses. Here the meaning is explained thus: Indra, possessing food and possessing waters in the form of rain, upholds the heavenly world.
+
+Sāyaṇa has explained स्वधावान् (*svadhāvān*) as "possessing food, or possessing water in the form of rain". In some places Sāyaṇa himself explains the word स्वधया (*svadhayā*) in two ways: आत्मीयेन तेजसा; हनिर्लक्षणेन अन्नेन वा (*ātmīyena tejasā; hanirlakṣaṇena annena vā*). Since this is so, and since in the present Ṛk Indra's power is described as surpassing the greatness of heaven and earth, the meaning "possessing splendour" appears the more fitting here. The Nirukta authors have read this word together in the names of water (Ni. 2-23) and in the names of food (Ni. 3-9). In many contexts the word स्वधा (*svadhā*) is explained as one's own greatness, one's own splendour, or one's own support. For example—
+
+### Printed p. 274
+
+शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी । अथो व्युच्छादुत्तरा अनु द्यूनजरामृता चरति स्वधाभिः ॥ (*śaśvatpuroṣā vyuvāsa devyatho adyedaṃ vyāvo maghonī | atho vyucchāduttarā anu dyūnajarāmṛtā carati svadhābhiḥ ‖*)
+(Ṛ. Saṃ. 1-13-13)
+In this Ṛk the word, used with reference to Ushas, is explained as आत्मीयैस्तेजोभिः (*ātmīyaistejobhiḥ*), "with her own splendours". Likewise in
+यदंतरिक्षे पतथः पुरुभुजा यद्वेमे रोदसी अनु । यद्वा स्वधाभिरधितिष्ठथो रथमत आ यातमश्विना ॥ (*yadaṃtarikṣe patathaḥ purubhujā yadveme rodasī anu | yadvā svadhābhiradhitiṣṭhatho rathamata ā yātamaśvinā ‖*)
+(Ṛ. Saṃ. 8-10-6)
+the explanation is आत्मीयैस्तेजोभिर्बलैर्वा सार्धं (*ātmīyaistejobhirbalairvā sārdhaṃ*): "together with your own splendours or with your own powers".
+
+In the Ṛk
+न मृत्युरासीदमृतं न तर्हि न रात्रा अह्न आसित्प्रकेतः । आनीदवातं स्वथया तवेकं तस्माद्धान्यन्न परः किं चनास ॥ (*na mṛtyurāsīdamṛtaṃ na tarhi na rātrā ahna āsitpraketaḥ | ānīdavātaṃ svathayā tavekaṃ tasmāddhānyanna paraḥ kiṃ canāsa ‖*)
+(Ṛ. Saṃ. 10-129-2)
+Sāyaṇa has described स्वधा (*svadhā*), with the explanation स्वस्मिन् धीयते ध्रियते आश्रित्य वर्तते इति स्वधा (*svasmin dhīyate dhriyate āśritya vartate iti svadhā*)—"because it depends on itself for support"—as a qualifier of Māyā, the wondrous power of Īśvara (the Supreme Brahman). In the same way, in the present Ṛk too it may be explained that Indra has pervaded all the worlds with his unique, world-protecting splendour, greatness and power. Moreover, in
+स्वधामनु श्रियं नशो महि श्लेषा अमवंतो वृषप्सवः । वहंते अह्रुतप्सवः । (*svadhāmanu śriyaṃ naśo mahi śleṣā amavaṃto vṛṣapsavaḥ | vahaṃte ahrutapsavaḥ |*)
+(Ṛ. Saṃ. 8-20-7)
+वि विद्युतो न वृष्टिभी रुचाना अनु स्वधा मायुधैरच्छमानाः । (*vi vidyuto na vṛṣṭibhī rucānā anu svadhā māyudhairacchamānāḥ |*)
+(Ṛ. Saṃ. 7-56-13)
+and similar Ṛks, where the expressions स्वधां अनु (*svadhāṃ anu*) and अनु स्वधां (*anu svadhāṃ*) occur, the meanings are "naturally", "by nature", "according to custom".
+
+In
+अचक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टं । (*acakrayā yatsvadhayā suparṇo havyaṃ bharanmanave devajuṣṭaṃ |*)
+(Ṛ. Saṃ. 4-26-4)
+it is explained as "by the chariot", and in
+अपश्यं ग्रामं वहमानमारादचक्रया स्वधया वर्तमानं । (*apaśyaṃ grāmaṃ vahamānamārādacakrayā svadhayā vartamānaṃ |*)
+(Ṛ. Saṃ. 10-27-19)
+
+### Printed p. 275
+
+and similar places as "by the army". On the whole, it indicates the nature of the thing as "endowed with splendour". It may be said that in the present Ṛk the word स्वधावान् (*svadhāvān*) describes the power of the supremely glorious Indra.
+
+ओपशमिव—ईषदुपशेते इत्योपतं शृंगं तद्वृषभ इव । (*opaśamiva—īṣadupaśete ityopataṃ śṛṃgaṃ tadvṛṣabha iva |*). Because it arises to a small extent, the horn is given as the meaning of the word ओपश (*opaśa*). In regard to Indra's upholding the three worlds, one kind of meaning is explained by comparing him to a bull (ox) that bears effortlessly a horn that has grown to a small extent. In the second meaning: पतस्पतं समीपे वर्तमानं क्षित्यंतरिक्षाख्यं लोकत्वयं तडिव ह्यां बिभर्ति । (*pataspataṃ samīpe vartamānaṃ kṣityaṃtarikṣākhyaṃ lokatvayaṃ taḍiva hyāṃ bibharti |*) **NOTE** लोकत्रयमपि बिभर्तित्यर्थः (*lokatrayamapi bibhartityarthaḥ*). The comparison is: as one upholds the two worlds, well known as earth and atmosphere, which lie close to each other, so Indra upholds the heavenly world. It is thereby made clear that Indra's abundant greatness, by which he effortlessly protects the three worlds, is described.
+
+तोषसी (*toṣasī*)—**NOTE** the word means heaven and earth. As a proper name, the word also denotes in many contexts a person (a female attendant). Hence the word is used both in the singular and in the dual; its meaning is to be taken according to each context. The Nirukta author, citing the Ṛk
+उताभये पुरुहूत श्रवोभिरेको दृळहमवदो वृत्रहा सन् । इमे चिदिंद्र रोदसी अपारे यत्संगृभ्णा मघवन् काशिरित्ते ॥ (*utābhaye puruhūta śravobhireko dṛḷahamavado vṛtrahā san | ime cidiṃdra rodasī apāre yatsaṃgṛbhṇā maghavan kāśiritte ‖*)
+(Ṛ. Saṃ. 3-30-5)
+and stating the nirvacana of the word रोदसी (*rodasī*) there, says
+रोदसी द्यावापृथिव्य विरोधनात् (*rodasī dyāvāpṛthivya virodhanāt*)
+(Ni. 6-1).
+It is to be understood that heaven and earth are well known by the name रोदसी (*rodasī*) because they are bound and restrained by a limited boundary (sīmā). This is the nirvacana of the dual form रोदसी (*rodasī*). Again, giving the meaning of the singular form, he explains
+कोदसी रुद्रस्य पत्नि (*kodasī rudrasya patni*)
+(Ni. 11-49):
+Rodasī is the wife of Rudra; and then cites
+रथं नु मारुतं वयं श्रवस्युमा हुवामहे । आ यस्मिन्तस्थौ सुरणानि बिभ्रती सचा मरुत्सु रोदसी ॥ (*rathaṃ nu mārutaṃ vayaṃ śravasyumā huvāmahe | ā yasmintasthau suraṇāni bibhratī sacā marutsu rodasī ‖*)
+(Ṛ. Saṃ. 5-56-8).
+
+### Printed p. 276
+
+Citing this Ṛk, he shows that here the proper name Rodasī, "wife of Rudra", is used. But another question arises here. Sāyaṇa has explained in two places in a way that leaves room for doubt: is "wife of Rudra" the wife of the deity Rudra, or does the word Rudra mean Marut, so that she is the wife of the Marut deities? Explaining the present Ṛk, he says
+कोदसी रुद्रस्य पत्नि मरुतां माता । यद्वा रुद्रो वायुः । तत्पत्नी माध्यमिका देवी ॥ (*kodasī rudrasya patni marutāṃ mātā | yadvā rudro vāyuḥ | tatpatnī mādhyamikā devī ‖*)
+(Sāyaṇa-bhāṣya).
+One meaning may be that Rodasī is the wife of Rudra and the mother of the Maruts. Or, since the word Rudra has the meaning Vāyu, Rodasī is the Mādhyamikā Vāk, the wife of Vāyu: thus he has explained it in two ways. And in explaining the Ṛk
+परा शुभ्रा अयासो यव्या साधारण्येव मरुतो मिमिक्षुः । न रोदसी अप नुदंत घोरा जुषंत वृधं सख्याय देवाः ॥ (*parā śubhrā ayāso yavyā sādhāraṇyeva maruto mimikṣuḥ | na rodasī apa nudaṃta ghorā juṣaṃta vṛdhaṃ sakhyāya devāḥ ‖*)
+(Ṛ. Saṃ. 1-167-4)
+he says, as stated earlier,
+रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । आदरे तु मरुतां स्त्रीयो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्त उत्तरत्रैवं व्यवहारात् । (*rodasā śabdena rodanasvabhāvo rudraḥ | tasya strī rodasīti kecidāhuḥ | ādare tu marutāṃ strīyo rodasīti nāmadheyamityāhuḥ | ayameva pakṣo yukta uttaratraivaṃ vyavahārāt |*).
+That Rodasī is the wife of Rudra is one view; that she is the wife of the Maruts is another. Of these, the second appears to be the correct one: thus he has stated his own opinion. Besides, in explaining the Ṛk
+जोषद्यदीमसुर्य्या सचध्यै विषितस्तुका रोदसी नृमणाः ॥ (*joṣadyadīmasuryyā sacadhyai viṣitastukā rodasī nṛmaṇāḥ ‖*)
+(Ṛ. Saṃ. 1-167-5)
+he has stated रोदसी मरुत्पत्नी विद्युद्वा (*rodasī marutpatnī vidyudvā*): Rodasī is the wife of the Maruts, or lightning is known by this name; and he has cited the subject described there, that this Rodasī is in the following of the Maruts. And if we examine some further contexts in which the word रोदसी (*rodasī*) is used,
+त इदुग्राः तवसा धृष्णुषेणा उभे युजंत रोदसी सुमेके । अथ स्मैषु रोदसी स्वशोचिरामवत्सु तस्थौ न रोकः ॥ (*ta idugrāḥ tavasā dhṛṣṇuṣeṇā ubhe yujaṃta rodasī sumeke | atha smaiṣu rodasī svaśocirāmavatsu tasthau na rokaḥ ‖*)
+(Ṛ. Saṃ. 6-66-6)
+in this one Ṛk the word रोदसी (*rodasī*) is used in two senses. Here Sāyaṇa has explained the first occurrence as व्यावापृथिव्य (*vyāvāpṛthivya*) and the second as रुद्रस्य पत्नि माध्यमिकी वाक्य (*rudrasya patni mādhyamikī vākya*). And,
+
 ---
 
-**Progress note:** Done through printed p. 270. pp. 265-270 (batch API)
+**Progress note:** Done through printed p. 276. pp. 271-276 (batch API)
