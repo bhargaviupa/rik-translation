@@ -5,14 +5,14 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 145 (1–75, 76–145)
 - **Findings:** 288 — applied 188, kept/not applied 100 (English kept: misprints and doubts settled by rule; see part 5); edits ok 188, failed 0
-- **Reader tokens (batches so far):** 493k; per page 3.4k
+- **Reader tokens (batches so far):** 482k; per page 3.3k
 - **Last commit:** e9bd4eef
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
 | 1 | 1–75 | 146 | 94 | 94 / 0 | 52 | 243k | 856b8f44 | marks q12-q161: 150 seen, 98 removed, 52 kept |
-| 2 | 76–145 | 142 | 94 | 94 / 0 | 48 | 250k | e9bd4eef | marks q64-q213: 150 seen, 102 removed, 48 kept |
+| 2 | 76–145 | 142 | 94 | 94 / 0 | 48 | 239k | e9bd4eef | marks q64-q213: 150 seen, 102 removed, 48 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
