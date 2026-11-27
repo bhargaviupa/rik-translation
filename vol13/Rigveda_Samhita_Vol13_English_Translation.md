@@ -8441,6 +8441,130 @@ The sage praises you Indra, for the grant of desirable (food), since you have ma
 
 अर्कसात् (*arkasāt*)—अर्जनीयस्यान्नस्य लाभे (*arjanīyasyānnasya lābhe*). Yāska reads the word अर्क (*arka*) both among the names of food (Ni. 3-9) and among the names of the thunderbolt (Ni. 3-11), and says अर्को नेवो भवति यषेनमर्चति (*arko nevo bhavati yaṣenamarcati*)
 
+### Printed p. 349
+The Kannada commentary continues: all deities who are to be worshipped are denoted by the word अर्क (*arka*). Also अर्को मंत्रो भवति यदनेनार्चति (*arko maṃtro bhavati yadanenārcati*): the mantra that is the means of worshipping deities or others is also spoken of by the word अर्क (*arka*). And अर्कमन्नं भवत्यर्चति भूतानि (*arkamannaṃ bhavatyarcati bhūtāni*): the food that satisfies living beings and makes them objects of worship is likewise understood by the word अर्क (*arka*). For the word अर्क (*arka*) he shows three kinds of etymology: अर्च्यते, इति अर्कः (*arcyate, iti arkaḥ*), अर्चनसाधनमर्कः (*arcanasādhanamarkaḥ*), अर्चननिमित्तमपि अर्कः (*arcananimittamapi arkaḥ*). Then, अर्को वृक्षो भवति संवृत्तः कटुकिम्मा (*arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimmā*): because of its pungent quality, the tree too is denoted by the word अर्क (*arka*); this sense is described. Further, he cites the Ṛk
+गायंति त्वा गायत्रिणोऽर्चंत्यर्कमकिणः । ब्रह्माणस्त्वा शतक्रत उद्यंशमिव येमिरॆ ॥ (*gāyaṃti tvā gāyatriṇo 'rcaṃtyarkamakiṇaḥ | brahmāṇastvā śatakrata udyaṃśamiva yemirè ‖*) (Ṛ. Saṃ. 1-10-1)
+and explains अर्क (*arka*) and आर्कि (*ārki*) as "the worshipful one" and "those who worship". Thus Sāyaṇa's two kinds of explanation are set out here.
+
+दासाय क्षां उपबर्हणीं कः (*dāsāya kṣāṃ upabarhaṇīṃ kaḥ*)—The word दास (*dāsa*) is stated as दासो दस्यतेरुपदासयति कर्माणि (*dāso dasyaterupadāsayati karmāṇi*) (Ni. 2-18): one who performs works abundantly, a worker, is a dāsa. Accordingly Sāyaṇa explains: Indra made the earth a bed for the Asura who destroys living beings greatly; हत्वा भूमावपातयः (*hatvā bhūmāvapātayaḥ*), having slain the Asura, he made him lie fallen on the earth. The word क्षा (*kṣā*) is read among the words for earth (Ni. 2-5); क्षा क्षियतेर्निवासकर्मणः (*kṣā kṣiyaternivāsakarmaṇaḥ*): the word क्षा (*kṣā*), formed from the root क्षि (*kṣi*) meaning "to dwell", is used in the sense of earth, as Yāska explains.
+
+मघवा (*maghavā*)—The word मघ (*magha*) is stated among the names of wealth (Ni. 3-9). Since it is used in the sense of wealth, Indra, possessing wealth, is called मघवा (*maghavā*).
+
+तिस्रः दानुचित्राः करत् (*tisraḥ dānucitrāḥ karat*)—Sāyaṇa gives two kinds of meaning for the word तिस्रः (*tisraḥ*) and for the word दानु (*dānu*), and so two meanings for this sentence. In the first, rites, when in the form of performance, are knowable by (contemplative) knowledge, pertain to the animal in the animal sacrifice, and pertain to the soma plant in the soma sacrifice; they thus have three forms. Hence the places where their fruit is obtained are also the earth, the atmosphere and the heaven. These rites, when they yield fruit, are acquired दानेन धनैर्देयै वा (*dānena dhanairdeyai vā*), by wealth or by other things fit to be given;
+
+### Printed p. 350
+this is the meaning. In this sense the word दानुचित्राः (*dānucitrāḥ*) is explained as "to be gathered by giving".
+
+In the second sense: अयोरजतहिरण्मयाः पुरीः दानुचित्राः खंडनेन चित्राः अकरोत् (*ayorajatahiraṇmayāḥ purīḥ dānucitrāḥ khaṃḍanena citrāḥ akarot*). Because he says अथ परोक्षकृतः (*atha parokṣakṛtaḥ*), the sentence could be explained both historically and in terms of principle, yet only the historical meaning is given: Indra, with his thunderbolt, destroyed the three cities of iron, silver and gold which the Asuras, oppressing the world, had built for their protection, and broke them so that they became variegated. Here the word दानु (*dānu*) is formed from the root दो अवखंडने (*do avakhaṃḍane*) as दातु (*dātu*), used in the sense of breaking. (A meaning in terms of principle was possible — Indra as the knower, the mind's tamasic, rajasic and sattvic modes as the cities, which he destroyed — but it is not given here.)
+
+In the sentence दुर्योणे कुयवाचं मृधि निश्रेत् (*duryoṇe kuyavācaṃ mṛdhi niśret*), one meaning is given: दुष्टयोन् स्थाने कुत्सितं शब्दायंतं असुरं (*duṣṭayon sthāne kutsitaṃ śabdāyaṃtaṃ asuraṃ*): Indra destroyed the Asura who made an evil sound in an evil place. In the second meaning: एतन्नामकस्य राज्यः प्रीत्यर्थं एतन्नामानमसुरं (*etannāmakasya rājyaḥ prītyarthaṃ etannāmānamasuraṃ*): out of regard for the king known by the name Duryoṇa, Indra destroyed in battle the Asura named Kuyava. Sāyaṇa explains the sense of these two sentences with अत्र परोक्षकृतः (*atra parokṣakṛtaḥ*).
+
+##### Grammar
+
+- रपत्—रप शब्दे धातुः । लज् प्रथमपुरुष एकवचनांतरूपं । बहुलं छंदस्य (पा. सू. ६-४-७५) इति अडागमो न भवति । पादादित्वात् निघातस्वरो न भवति । धातुस्वरः शिष्यते ।
+- अर्कसात्—अर्कस्य सातिः यस्मिन् तस्मिन् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- दासाय—दसि सेवने धातुः । दंसे ष्टटन्ौ नअच (उ. सू. ५-६८८) इति ट, टन्, प्रत्ययः । धातुनकारस्य आकारादेशः । चुटो (पा. सू. १-३-७) इति टकारस्य लोपः । प्रत्ययस्वरेण अंतोदात्तो भवति । **NOTE**
+- कः—डुकृञ् करणे धातुः । लुज् मध्यमपुरुष एकवचने सिप् । इकारलोपः । मंत्रेघसह्व (पा. सू. २-४-८०) इति ब्लेः लुक् । प्रत्ययनिमित्तं धातोः इकः गुणः । र परो भवति ।
+
+### Printed p. 351
+- (कः, continued) हल्ज्याभ्योदीर्घा इति सूत्रेण प्रत्ययस्य लोपः । रेफस्य विसर्गः । निघातस्वरो भवति ।
+- करत्—पूर्वोक्तधातोः लेट् प्रथमपुरुष एकवचने तिपि आगते इतश्चलो इति इकारलोपः । लेटोडाटौ (पा. सू. ३-४-९४) इति अडागमः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययनिमित्तं धातोः इकः गुणः । पादादित्वात् निघातस्वरो न भवति । धातुस्वरः शिष्यते ।
+- तिस्रः—त्रि शब्दस्य शसि परे उदात्तांतः तिस्रादेशः । यणादेशे आगते उदात्तयणोहल् पूर्वात् (पा. सू. ६-१-१७४) इति विभक्तेः उदात्तस्वरो भवति ।
+- कुयवाचम्—कुया वाक् यस्य सः, कुयवाक् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- श्रेत्—श्रीञ् पाके धातुः । लज् प्रथमपुरुष एकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । बहुलं छंदसि इति विकरणस्य लुक् । सार्वधातुकार्थधातुकयोः इति धातोः इकारस्य गुणः । छांदसत्वात् अडागमो न भवति । तिजंतत्वात् निघातस्वरो भवति ॥ ७ ॥
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॒ ता त॑ इंद्र॒ नव्या॒ आगुः॒ सहो॒ नभोऽवि॑रणाय पू॒र्वीः ।  
+> भि॒नत्पुरो॒ न भिदो॒ अदे॑वीर्न॒नमो॒ वध॒रदे॑वस्य पी॒योः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सना । ता । ते । इंद्र । नव्याः । आ । अगुः । सहः । नभः । अविरणाय । पूर्विः ॥  
+> भिनत् । पुरः । न । भिदः । अदेविः । ननमः । वधः । अदेवस्य । पीयोः ॥ ८ ॥
+
+### Printed p. 352
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव संबंधीनि सना सदातनानि नित्यानि तानि शौर्याणि नव्या
+> नवतरा इदानींतना ऋषय आगुः । आगच्छंति । स्तुतिव्याजेन प्राप्नुवंतीत्यर्थः ।
+> कानि तानीति उच्यते । पूर्विर्बह्वीर्नभो हिंसाः ॥ नभेर्हिंसार्थात्क्विप् ।
+> तदंतस्येदं रूपं ॥ ता हिंसा अविरणायाविगतरणाय संग्रामनाशनाय सहः ।
+> अभ्यभवः । तदर्थं भिदो भेत्यर्थाकिका अदेवीरासुरीः पुरो न पुरीरपि
+> भिनत् । विदारितवानसि ॥ पुरुषव्यत्ययः । नशब्दश्चार्थे ॥ तथादेवस्यास्तुत्यस्य
+> पीयोर्हिंसकस्यासुरस्य वधर्वज्रं ननमः । अनमयः । अनुकूलमकरोः ॥
+> यद्वा । हे इंद्र सना नित्यं तत्तत्काले ते तव संबंधिन्यस्ता तानि ॥ लिंगव्यत्ययः ।
+> ताः पूर्विः पुरातन्य - अपो नव्या नूत्नाः स्तुत्याः सत्य आगुः । आगच्छंति ।
+> किमर्थं । अविरणायॊविरमणाय प्राणीनामविनाशनाय । तदर्थं नभो हिंसकान्बंधकान्वा मेघान् सहः । मर्षणमकरोः । किंचादेवीः पुरोऽवर्षणेनादेवनशीलानुदकपुटबंधान् भिनत् । भिन्नानकरोः । तथादेवस्यादेवनशीलस्य
+> पीयोः प्रतिकूलस्य । वृतस्य वधर्वज्रं ननमः । अनमयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those everlasting heroic deeds of yours, नव्या (*navyā*), are reached by the newer, present-day sages: through their praise they obtain them. Which are they? The many नभः (*nabhaḥ*), "injuries" (नभ (*nabha*) from the root meaning injury, with क्विप् (*kvip*)). For अविरणाय (*aviraṇāya*), the ending of war and the destruction of battle, you endured (सहः (*sahaḥ*), overcame) those injuries. For that purpose you split also the hostile, undivine, Asuric cities; भिनत् (*bhinat*) is a change of person, "you split", and न (*na*) has the sense "also". Likewise you bent (ननमः (*nanamaḥ*), made favourable) the thunderbolt of the unpraiseworthy, injuring Asura.
+Or else: O Indra, those ancient waters of yours, ever praised in their times (a change of gender), come anew as praiseworthy. For what? अविरणाय (*aviraṇāya*): for the non-destruction of living beings. For that you subdued the injuring or obstructing clouds; and by their not raining you split the undivine, water-holding enclosures; likewise you bent the thunderbolt of Vṛtra, the undivine, hostile one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- ते (*te*)—your
+- सना (*sanā*)—everlasting
+- नव्याः (*navyāḥ*)—new (recent)
+- पूर्विः (*pūrviḥ*)—many
+- नभः (*nabhaḥ*)—injuries (suffered by you)
+- आ अगुः (*ā aguḥ*)—(the sages, under pretext of praise) experience
+- ताः (*tāḥ*)—those injuries
+- अविरणाय (*aviraṇāya*)—for there to be no wars
+- सहः (*sahaḥ*)—you endured
+- भिदः (*bhidaḥ*)—destructive
+- अदेवीः (*adevīḥ*)—belonging to the Asuras
+- पुरः न (*puraḥ na*)—the cities also
+- भिनत् (*bhinat*)—you split
+- अदेवस्य (*adevasya*)—of the unpraiseworthy
+- पीयोः (*pīyoḥ*)—of the injuring Asura
+- वधः (*vadhaḥ*)—the thunderbolt
+- ननमः (*nanamaḥ*)—(you bent) you turned so as to be favourable
+
+Or: O Indra; सना (*sanā*)—eternally; ते (*te*)—related to you; पूर्विः ताः (*pūrviḥ tāḥ*)—those ancient waters; नव्याः (*navyāḥ*)—as praiseworthy; अविरणाय (*aviraṇāya*)—so that living beings do not perish; आ आगुः (*ā āguḥ*)—come; नभः (*nabhaḥ*)—the injuring or obstructing clouds; सहः (*sahaḥ*)—you made submissive; अदेवीः (*adevīḥ*)—displeasing (not raining); पुरः (*puraḥ*)—water-enclosures; भिनत् (*bhinat*)—you split; अदेवस्य (*adevasya*)—of the one of non-pleasing nature; पीयोः (*pīyoḥ*)—and hostile; Vṛtra's; वधः (*vadhaḥ*)—thunderbolt; ननमः (*nanamaḥ*)—you bent.
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you split the destructive cities of the Asuras and broke the thunderbolt of the grievous, injuring Asura, in order to stop war; the sages always praise such daring deeds done by you with this aim, and the hardships you faced.
+
+### Printed p. 353
+
+##### English translation (H. H. Wilson)
+The sages have celebrated your everlasting (as well as your) recent (exploits, in achieving which) you have endured many injuries in putting an end to war: verily, you have de molished the hostile and undivine cities; you have bowed down the thunderbolt of the undivine Asura.
+
+##### विशेषविषयगळु (Special Topics)
+
+नव्याः सना आगुः (*navyāḥ sanā āguḥ*)—Two kinds of meaning are given in this Ṛk. In the first, the word नव्य (*navya*) is explained by नव्याः इदानींतनाः ऋषयः (*navyāḥ idānīṃtanāḥ ṛṣayaḥ*), "the present-day sages". Addressing Indra, the present-day sages, not ancient ones, through praising obtain (come to know) his renowned exploits of all times, the displays of valour done with heroism. The Nirukta authors explain that the word नभः (*nabhaḥ*) as a noun denotes water and so on; here Sāyaṇa explains it as "injury". पूर्विः नभः अविरणाय सहः (*pūrviḥ nabhaḥ aviraṇāya sahaḥ*): Indra put aside many injuries so that wars should not occur (so that the world be kept peaceful); and he destroyed also the cities of the Asuras: thus his greatness is set out. This is the first meaning.
+In the second meaning, पूर्विः (*pūrviḥ*) is explained as पुरातन्यः आपः (*purātanyaḥ āpaḥ*) and नव्याः (*navyāḥ*) as स्तुत्याः (*stutyāḥ*); addressing Indra: the ancient waters, though always existing, are seen in the world as praiseworthy in their respective times; by them the life of living beings arises. And:
+तदर्थं नभो हिंसकान्बंधकान्वा मेघान् सहः । मर्षणमकरोः । किंचादेवीः पुरोऽवर्षणेनादेवनशीलानुदकपुटबंधान् भिनत् । भिन्नानकरोः । तथादेवस्यादेवनशीलस्य पीयोः प्रतिकूलस्य । वृतस्य वधर्वज्रं ननमः । अनमयः ॥ (*tadarthaṃ nabho hiṃsakānbaṃdhakānvā meghān sahaḥ | marṣaṇamakaroḥ | kiṃcādevīḥ puro 'varṣaṇenādevanaśīlānudakapuṭabaṃdhān bhinat | bhinnānakaroḥ | tathādevasyādevanaśīlasya pīyoḥ pratikūlasya | vṛtasya vadharvajraṃ nanamaḥ | anamayaḥ ‖*)
+For that very reason Indra, by his strength, restrained from doing injury the clouds that harm or cause trouble. By their nature of spreading darkness without releasing rain, the clouds, like cities filled with water, he split as one destroys the cities of enemies. The cloud that, by its nature of lacking light, obstructs the world, he struck with the thunderbolt and made it pour down rain: thus Indra's greatness is set out here.
+
+### Printed p. 354
+
+##### Grammar
+
+- ता—तानि इति रूपे शेच्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेः लोपः । अथवा लिंगव्यत्ययः ।
+- अगुः—इण् गतौ धातुः । लुज् । प्रथमपुरुष बहुवचने झि प्रत्ययः । लुजीच (पा. सू. २-४-४३) इति धातोः गादेशः । गातिस्थाघुषा (पा. सू. २-४-७७) इति च्लेः सिचि आगते तस्य लुक् । आतः (पा. सू. ३-४-११०) इति झेः जुसादेशः । उस्यपदांतात् (पा. सू. ६-१-९६) इति पररूपं । तस्य अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- नभः—णभ हिंसायां धातुः । क्विप् च इति क्विप् प्रत्ययः । बहुवचनांतरूपं ।
+- भिनत्—भिदिर् विदारणे धातुः । लज् मध्यमपुरुष एकवचने व्यत्ययो बहुलं इति तिप् प्रत्ययो भवति । इतश्च इति इकारलोपः । रुधादिभ्यः त्नम् इति त्नम् विकरणं । मित्त्वात् अंत्याचः परो भवति । बहुलं छंदस्य (पा. सू. ६-४-७५) इति अडागमो न भवति । पादादित्वात् निघातस्वरो न भवति । विकरणस्वरो भवति ।
+- भिदः—पूर्वोक्तधातोः क्विप् प्रत्ययः । द्वितीयाबहुवचनांतरूपं ।
+- अदेवीः—नञ् तत्पुरुषसमासः । द्वितीयाबहुवचनांतरूपं । तत्पुरुषे शुल्यार्थ (पा. सू. ६-२-२) इति नञ्पूर्वपदप्रकृतिस्वरो भवति । **NOTE**
+- ननमः—णमु प्रह्वत्वे शब्दे च । अंतर्भावितण्यर्थको धातुः । लज् मध्यमपुरुष एकवचने सिप्, इकारलोपः, शप् विकरणं । व्यत्ययेन धातोः द्वित्वं । पादादित्वात् निघातस्वरो न भवति । धातुस्वरः शिष्यते ।
+- पीयोः—पा पाने धातुः । खरु तंकु पीयु (उ. सू. १-३६) इति कु प्रत्ययांततया निपातितं । षष्ठ्यंतरूपं ॥ ८ ॥ **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं धुनि॑रिंद्र॒ धुनि॑मतीर्य्ण॒णोर॒पः सी॒रा न स्रवं॑तीः ।  
+> प्र यत्स॑मु॒द्रमति॑ शूर॒ पर्षि॑ पा॒रया॑ तु॒र्वशं॒ यदुं॑ स्व॒स्ति ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
+**Progress note:** Done through printed p. 354. pp. 349-354 (batch API)
