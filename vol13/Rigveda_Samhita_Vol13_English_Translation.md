@@ -11517,6 +11517,126 @@ have given the above derivation for the word आजेः (*ājeḥ*) occurring 
 - सम्यंचा — सुपां सुलुक्-(पा. सू. ३-१-३९) इति द्विवचन ओकार विभक्तेः आकारादेशः ।
 - अजाव — अज गतिक्षेपणयोः इति धातुः । लोट् उत्तमपुरुष द्विवचनांतरूपम् । यद्योगत्वात् निघातस्वरः न आगच्छति । धातुस्वरः अवशिष्यते । ॥ ३ ॥
 
+### Printed p. 481
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒दस्य॑ मा रुध॒तः काम॒ आग॑न्नि॒त आजा॑तो अ॒मुतः॒ कुत॑श्चित् ।  
+> लोपा॑मुद्रा॒ वृष॑णं॒ नी रि॑णाति॒ धीर॒मधी॑रा धयति श्व॒संतं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नदस्य । मा । रुधतः । कामः । आ । अगन् । इतः । आजातः । अमुतः । कुतः । चित् ।  
+> लोपामुद्रा । वृषणं । निः । रिणाति । धीरं । अधीरा । धयति । श्वसंतं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ चतुर्थ्याप्यगस्य आह ॥
+> हे जाये नदस्य नदनस्य जपशब्दयितुर्जपाध्ययनकर्तू रुधतो रेतो
+> निरोद्धुब्रह्मचर्यमास्थितस्य ॥ उभे कर्मणि षष्ठौ ॥ उक्तलक्षणं मां काम
+> आगन् । आगमत् । नदनस्य मा रुधतः काम आगमदिति निरुक्तं । ५-२ । कस्य हेतोरिति
+> उच्यते । इतस्त्वत्संगमनिमित्तात् तथामुतो वसंतादिकालात् कुतश्चित्कारणादाजातः
+> सर्वत उत्पन्नः । यद्वा । इत एतल्लोकजनितादमुतो लोकांतरजनिताद्वा
+> कुतश्चिन्निमित्तात्कामात् । कथमिति उच्यते । इयं लोपामुद्रा वृषणं रेतसः
+> प्रवर्तकं मां नी रिणाति । नितरां गच्छतु । किंच धीरं धीमंतं नियमादविचालिनं
+> श्वसंतं महाप्राणं महाबलमधीरा कातरैषा योषिद्धयति । उपभुंक्तां ॥
+
+##### Gist of the bhāṣya
+
+Now, with the fourth Ṛk, Agastya speaks. "O wife, desire has come upon me, who am a नदस्य (*nadasya*), one who utters sound, that is, one who mutters prayers and recites them, and a रुधतः (*rudhataḥ*), one who restrains his seed, one established in celibacy." Both words stand in the genitive in the sense of the object. Sāyaṇa quotes the Nirukta: नदनस्य मा रुधतः काम आगमदिति (*nadanasya mā rudhataḥ kāma āgamaditi*) (5-2). The cause is then stated: desire has arisen from this, namely from union with you, and from that, namely the spring and other seasons, or from some other cause; it is born everywhere. Or else: from a desire produced in this world or in another world, from some cause. How? "Let this Lopāmudrā approach me, the vṛṣan, the impeller of seed." And further: "the unsteady (अधीरा (*adhīrā*)), timid woman enjoys the steady (धीर (*dhīra*)), wise, unshaken by restraint, the one who breathes hard (श्वसंतं (*śvasaṃtaṃ*)), of great breath and great strength."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे जाये (*he jāye*)—O wife
+- नदस्य (*nadasya*)—of one making the sound (of prayer and study)
+- रुधतः (*rudhataḥ*)—of one practising restraint of seed (celibacy)
+- मा (*mā*)—me
+- इतः (*itaḥ*)—from this cause (union with you)
+- आमुतः (*āmutaḥ*)—from that cause (the spring and other seasons)
+- कुतश्चित् (*kutaścit*)—or from some other cause. [Or इतः (*itaḥ*)—produced from this world; अमुतः (*amutaḥ*)—produced from the other world; कुतः चित् (*kutaḥ cit*)—from some cause.]
+- आजातः (*ājātaḥ*)—arisen
+- कामः (*kāmaḥ*)—desire for objects
+- आ अगन् (*ā agan*)—has arisen
+- लोपामुद्रा (*lopāmudrā*)—this Lopāmudrā
+- वृषणं (*vṛṣaṇaṃ*)—me, the impeller of seed
+- निः रिणाति (*niḥ riṇāti*)—approaches (let her approach)
+- किंच (*kiṃca*)—and
+- अधीरा (*adhīrā*)—the timid woman
+- धीरं (*dhīraṃ*)—the wise
+- श्वसंतं (*śvasaṃtaṃ*)—the greatly strong
+- धयति (*dhayati*)—enjoys
+
+### Printed p. 482
+
+##### भावार्थ (Bhāvārtha)
+
+O Lopāmudrā, desire has arisen in me, who am devoted to prayer and study and firm in the vow of celibacy, either from nearness to you or from some other cause. Therefore approach me, the sprinkler of seed. However wise and strong a man may be, a timid woman makes him distraught.
+
+##### English translation (H. H. Wilson)
+Desire, either from this cause or from that, has come upon me whilst engaged in prayer and suppressing (passion) : let Lopamudra approach her husband : the unsteady famale beguiles the firm and resolute man.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Agastya again reassures his wife Lopāmudrā, says he will satisfy her, and makes his desire clear.
+The Nirukta author has explained this Ṛk as follows: नदनस्य मा रुधतः काम आगमत् । संरुद्धप्रजननस्य ब्रह्मचारिण इत्यृषिपुत्रा विलपितं वेदयंते ॥ (*nadanasya mā rudhataḥ kāma āgamat | saṃruddhaprajananasya brahmacāriṇa ityṛṣiputrā vilapitaṃ vedayaṃte ‖*) (Ni. 5-2). That is: "Having been married to an ascetic seer, I had to be the object of his passionless love. He has no desire for sexual pleasure; he remains a celibate" — thus the seer's daughter made known her grief. Here a slight conflict appears between the statement of the Bṛhaddevatā and that of the Nirukta. In the Bṛhaddevatā:
+रिरंसुस्तामथागस्त्य उत्तराभ्यामतोषयत् । (*riraṃsustāmathāgastya uttarābhyāmatoṣayat |*)
+(Bṛ. De. 4-58)
+It says Agastya pleased his wife Lopāmudrā with the next two Ṛks, that is, the 3rd and 4th Ṛks of this sūkta, making known his wish. But here, according to the Nirukta, this is Lopāmudrā's statement, and it is understood that Lopāmudrā makes known her mental distress by these words. Durgācārya has commented on the Nirukta passage thus:
+*āgastyalopāmudrābrahmacārisūktasaṃvāde lopāmudrayā iyamārṣaṃ |
+sā abravīdagastyaṃ bhartāramabhipretya "nadasya nadanasya.........."....| ityevaṃ
+vilasamānā kāmārtā lopāmudrā rājarṣiputrikā | ........evaṃ lopā-
+
+### Printed p. 483
+mudrāvākye “ nadasya rudhato māmāgamat kāmaḥ ” iti prakaraṇādṛṣirnadaśabdenocyate ityupapadyate ‖*
+(Nirukta-vyākhyā 5-2)
+The Nirukta author calls Lopāmudrā a seer's daughter, Durgācārya a royal seer's daughter. There is a story that she was Agastya's daughter, and that Agastya himself created her, wishing to obtain a beautiful wife, and left her with the king of Vidarbha. It is described in the Mahābhārata as follows; it is quoted here because it accords with the Bṛhaddevatā statements.
+ततः प्रसवसंतानं चिंतयन्भगवानृषिः (*tataḥ prasavasaṃtānaṃ ciṃtayanbhagavānṛṣiḥ*) … मैथुनायाजुहाव तां ॥ (*maithunāyājuhāva tāṃ ‖*) **NOTE**
+(Mahābhārata, Vanaparva, 94-95)
+Then the seer Agastya wished to obtain the fruit of offspring, but found no wife suited to him. So he himself created a maiden suited to him and left her with the king of Vidarbha, who longed for a son, for her upbringing. The king was delighted to receive her, and all his friends congratulated him on gaining so beautiful a daughter. They named her Lopāmudrā. She grew up happily in the king's palace and reached youth. Then Agastya came and asked the king to give her as his wife. The king was unwilling, but fearing that the angered seer might curse him, he went to consult his wife. Then Lopāmudrā herself came to her father and told him to give her to Agastya. The king then gave her to Agastya in marriage according to the rule. Having received her as wife, Agastya wished to bring her too under a seer's discipline: he had her ornaments removed and told her to wear an ascetic's dress, and at his word she put on bark garments and was in accord with her husband. Having got such a suitable wife, he practised severe austerity with her on the bank of the Gaṅgā. She too served him with love and respect and was his helper. Once, when Lopāmudrā had bathed after her period, Agastya, pleased with her purity of spirit, her bodily beauty and her devotion to her husband, desired union with her; so the story runs in the Mahābhārata.
+
+### Printed p. 484
+In the Ṛksaṃhitā, however, it is described that Lopāmudrā, having rested from severe austerity, desired her husband's company; in the Mahābhārata it is Agastya who desires. The rest of the story is the same. In the Bṛhaddevatā, as ऋतुस्नातामृषिर्भार्या० लोपामुद्रां यशस्सिनीं । उपजल्पितुमारेभे रहसंयोगकाम्यया ॥ (*ṛtusnātāmṛṣirbhāryā0 lopāmudrāṃ yaśassinīṃ | upajalpitumārebhe rahasaṃyogakāmyayā ‖*) so also in the Mahābhārata: तपसा द्योतितां स्नातां ददर्श भगवानृषिः (*tapasā dyotitāṃ snātāṃ dadarśa bhagavānṛṣiḥ*). In the sequence of this story there is no great difference between the Veda's description and the Itihāsa's. That very matter the Nirukta author has indicated by "the seer's daughter's lament."
+
+### Printed p. 485
+**Special Topics** (continued)
+नदस्य (*nadasya*)—Sāyaṇa explains: नदनस्य जपशब्दयितुर्जसाध्ययनकर्तुः (*nadanasya japaśabdayiturjasādhyayanakartuḥ*), that is, the praiser who makes sound by reciting prayers, hymns and so on. In explaining this Ṛk the Nirukta author gives the derivation of the word as: यमिनेर्दो भवति नदतेः स्तुतिकर्मणः (*yaminerdo bhavati nadateḥ stutikarmaṇaḥ*) (Ni. 5-2). The word नद (*nada*), formed from the root नद् (*nad*) meaning "praise", means the seer who praises. The word is used in many places as a synonym of "seer". For example:
+रसद्गंधर्वीरप्या च योषणा नदस्य नादे परि पातु मे मनः । (*rasadgaṃdharvīrapyā ca yoṣaṇā nadasya nāde pari pātu me manaḥ |*)
+(Ṛ. Saṃ. 10-11-2)
+Here there are two words, नदस्य (*nadasya*) and नादे (*nāde*); the former is explained as "of the praiser" (स्तोतुः (*stotuḥ*)) and the latter as a sound in the form of praise. But there is no rule that the meaning "praiser" must hold wherever the word occurs. For example:
+उक्षंते आश्वा अत्या इवाजिषु नदस्य कर्णैस्तरयंत आतुभिः । (*ukṣaṃte āśvā atyā ivājiṣu nadasya karṇaistarayaṃta ātubhiḥ |*)
+(Ṛ. Saṃ. 2-34-3)
+Here it is explained as शब्दवतः मेघस्य (*śabdavataḥ meghasya*), "of the cloud that makes sound". **NOTE**
+निः रिणाति (*niḥ riṇāti*)—The word रिणाति (*riṇāti*) is read among the roots of motion; here it is explained as "approaches". But the meaning of the word depends on the construction of the whole Ṛk. If, as Sāyaṇa says, the statement is by Agastya, it means "approaches"; if, according to the Nirukta author, it is Lopāmudrā's statement, it means "burns". In general the word is used mostly in the senses "dry up, burn". For example:
+पुरूणि दस्मो नि रिणाति जंभैराद्रोचते वन आ विभावा । (*purūṇi dasmo ni riṇāti jaṃbhairādrocate vana ā vibhāvā |*)
+(Ṛ. Saṃ. 1-148-4)
+Just as in such Ṛks it gives the sense "burn", so in the present Ṛk too, since there is no room for the satisfaction of desire in the love of an ascetic, it would not be wrong to explain that it burns the body. The words इतः (*itaḥ*) and अमुतः (*amutaḥ*) also differ in meaning accordingly.
+
+##### Grammar
+
+- नदस्य — णद अव्यक्ते शब्दे । धातुः । नंदिग्रहपचादिभ्यो (पा. सू. ३-१-१३४) इति अच् प्रत्ययः । चितः इति अंतोदात्तस्वरः भवति । कर्मार्थे षष्ठी आगता ।
+
+### Printed p. 486
+- रुधत — रुधिर् आवरणे धातुः । लटः शत्रादेशः । छांदसः विकरणस्य लुक् । षष्ठी एकवचनांतरूपम् । शतुरनुमोनद्यजादी (पा. सू. ६-१-१७३) इति नुम्‌रहितस्य शतृप्रत्ययस्य परस्मिन् विभक्तौ आगतायां तस्य उदात्तस्वरः भवति ।
+- अगन् — गम्‌ल्य गत् । धातुः । लज् प्रथमपुरुष एकवचने शिप् । इतश्च इति इकारलोपः । बहुलं छंदसि इति विकरणस्य लुक् । हल् ज्याभ्यो दीर्घात् इति तिपः लोपः । मो नो धातोः (पा. सू. ८-२-५४) इति धातुमकारस्य नकारादेशः । तिजंतनिघातस्वरः भवति । **NOTE**
+- आजातः — गतिरनंतरः (पा. सू. ६-२-४९) इति क्तांतसरे स्थितत्वात् गतेः (आ) उदात्तस्वरः भवति ।
+- रिणाति — री गतिरेषणयोः धातुः । क्र्यादिः । लट् प्रथमपुरुष एकवचनांतरूपम् । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोः ह्रस्वः भवति । तिजंतनिघातस्वरः भवति ।
+- अधीरा — नञ् तत्पुरुषसमासः । तत्पुरुषे तुल्यार्थ (पा. सू. ६-२-२) इति अव्ययपूर्वपदप्रकृतिस्वरः भवति ।
+- धयति — धेट् पाने । धातुः । लेट् प्रथमपुरुषे तिप् परे शप् विकरणम् । तं निमित्तीकृत्य एकारस्य आयादेशः । तिजंतनिघातस्वरः भवति ।
+- श्वसंतम् — श्वस प्राणने । धातुः । लटः शत्रादेशः । शपः लुक् । प्रत्ययस्य आद्युदात्तस्वरः भवति । द्वितीया एकवचनांतरूपम् ।
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं नु सोम॒मंति॑तो हृ॒त्सु पी॒तमुप॑ ब्रुवे ।  
+> यत्सी॒माग॑श्चकृ॒मा तत्सु मृ॑ळतु पुलु॒कामो॒ हि मर्त्यः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । नु । सोमं । अंतितः । हृत्सु । पीतं । उप । ब्रुवे ।  
+> यत् । सीं । आगः । चकृम । तत् । सु । मृळतु । पुलुकामः । हि । मर्त्यः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 480. pp. 475-480 (batch API)
+**Progress note:** Done through printed p. 486. pp. 481-486 (batch API)
