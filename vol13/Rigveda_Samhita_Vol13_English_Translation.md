@@ -7704,6 +7704,172 @@ By such explanations the identity of truth with the order of the universe is sho
 
 त इद्देवानां सधमाद आसन् (*ta iddevānāṃ sadhamāda āsan*) … *uṣāsaṃ* **NOTE** (Ṛ. Saṃ. 7-76-4)
 
+### Printed p. 319
+The Ṛks beginning *satyaṃ tadiṃdro* … *kṣiyaṃtaṃ* **NOTE** and the rest contain many sentences pointing to earlier occasions on which all the seers knew the true nature of the deities, who are of the nature of truth, performed rites, and obtained wealth as the fruit of doing so. Along with this goes the prayer that good may come to us through truth alone.
+
+अधा यथा नः पितरः परासः प्रत्नासो आग्न ऋतमाशुषाणाः । शुचीदयन्दीधितिमुक्थशासः क्षामा भिंदंतो आरुणीरप व्रन् ॥ (*adhā yathā naḥ pitaraḥ parāsaḥ pratnāso āgna ṛtamāśuṣāṇāḥ | śucīdayandīdhitimukthaśāsaḥ kṣāmā bhiṃdaṃto āruṇīrapa vran ‖*)
+(Ṛ. Saṃ. 4-2-16)
+
+In prayers of this kind — "as our fathers obtained good fruits through sacrifice of the nature of truth, so now too may all our rites yield true fruits, तत्सत्यमस्तु (*tatsatyamastu*)" — the true nature of Agni and the other deities, whose law is truth, is also described.
+
+अजो न क्षां दाधार पृ, वीं तस्तंभ द्यां मंत्रेभिः सत्यैः । (*ajo na kṣāṃ dādhāra pṛ, vīṃ tastaṃbha dyāṃ maṃtrebhiḥ satyaiḥ |*)
+(Ṛ. Saṃ. 1-67-5)
+
+कविमग्निमुप स्तुहि सत्यधर्माणमध्वरे । देवममीवचातनं ॥ (*kavimagnimupa stuhi satyadharmāṇamadhvare | devamamīvacātanaṃ ‖*)
+(Ṛ. Saṃ. 1-12-7)
+
+देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा । पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥ (*devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā | purupraśasto amatirna satya ātmeva śevo didhiṣāyyo bhūt ‖*)
+(Ṛ. Saṃ. 1-73-2)
+
+In these and many other places Agni and the other deities are described as sustaining the earth and the other worlds through truth alone and as carrying out the protection of the worlds; it is also made known that human beings too must follow that same path of truth. In the present Ṛk, from that same point of view, Indra is described as if his identity with truth were being stated.
+
+The word वसवानः (*vasavānaḥ*) is explained as "Indra covers everything with his own splendours", or "he who bestows wealth on those who praise him"; and the word सहोदाः (*sahodāḥ*) is explained as one who bestows strength on the sacrificers and on those who praise him. The word सहः (*sahaḥ*) is read among the names of strength (Ni. 3-9) and among the names of water (Ni. 2-24).
+
+##### Grammar
+
+- रक्ष — रक्ष पालने । धातुः । लोट् मध्यमपुरुष एकवचनांतरूपं । यद्वृत्तानित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति । शप् पित्त्वात् धातुस्वरः अवशिष्यते । द्व्यचोतस्तिजः (पा. सू. ६-३-१३५) इति दीर्घो भवति ।
+
+### Printed p. 320
+- शाहि — पा रक्षणे । धातुः । लोट् मध्यम पुरुष एकवचनांतरूपं । बादिलोपे विभाषा (पा. सू. ८-१-६३) इति निघातस्वरप्रतिषेधो भवति । एवं अपित्वविधानकरणात् उदात्तस्वरागमनात् अंतोदात्तं भवति ।
+- असुर — असु क्षेपणे । धातुः । असेरुरन् (उ. सू. १-४२) इति उरन् प्रत्ययः । संबुद्धौ आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+- सत्‌पतिः — सतां पतिः सत्पतिः । पत्यावैश्वर्ये (पा. सू. ६-२-१८) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- तरुत्रः — तृ प्लवनतरणयोः । अशित्रादिभ्य इश्रोत् (उ. सू. ४-६१२) इति उत्त प्रत्ययः । व्यत्ययेन आद्युदात्तस्वरो भवति । यद्वा ग्रसितस्कभित- (पा. सू. ७-२-३४) इति निपातनात् व्यत्ययेन सुपो जस् । संज्ञापूर्वकोविधिरनित्यः इति वचनात् गुणो न भवति । यणादेशे नित् स्वरेण आद्युदात्तस्वरो भवति ।
+- वसवानः — वस आच्छादने । धातुः । अंतर्भावितण्यर्थको धातुः । अस्मात् लटः शानचादेशः । बहुलं छंदसि इति शपि लुक् न भवति । वर्णव्यत्ययेन मकारस्य वकारादेशः । तास्यनुदात्तेत् — (पा. सू. ६-१-१८६) इति सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- सहोदाः — सहः बलं ददातीति सहोदाः । डुदाण् दाने । धातुः । विट् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दनो॒ विश॑ इंद्र मृ॒ध्रवा॑चः स॒प्त यतु रः॒ शर्म॒ शार॑दी॒र्दर्त् ।  
+> ऋ॒णोर॒पो अ॑नव॒द्यार्णा॒ यूने॑ वृ॒त्रं पु॑रु॒कुत्सा॑य रंधीः ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दनः । विशः । इंद्र । मृध्रवाचः । सप्त । यत् । पुरः । शर्म । शारदीः । दर्त् ।  
+> ऋणोः । असः । अनवद्य । अर्णाः । यूने । वृत्रं । पुरुकुत्साय । रंधीः ॥ २ ॥
+
+### Printed p. 321
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वृत्रसंबंध्यसुराणां पुरभेदनसमये मृध्रवाजो॥
+> मर्षन्वचना विशस्तदीयाः प्रजाः शर्म सुखं यथा भवति तथा दनः । अदमयः ९
+> दमेरिदं रूपं ॥ यद्वा ॥ वर्णव्यत्ययः ॥ नदः । अनदः । अशब्दयोऽसुरप्रजाः ।
+> अतिभयंकरशब्दमकरोः ! कदेति आह । यद्यदा शारदीः प्रत्यग्राः । यद्वा ।
+> एतत्संवत्सरलक्षकः । संवत्सरपर्यंतं दृढीकृता अपि । सप्त पुर एतत्संख्याकाः
+> पुरीर्दत् । अदारयः ॥ पुरुषव्यत्ययः । दृणातेर्लजि छांदसो विकरणस्य लुक् ।
+> रात्सस्य । पा. ८-२-२४ । इति नियमात् तलोपाभावः ॥ तथा कृत्वा हे अनवद्य
+> कातरत्वानिंदावन् हे इंद्र अर्णा अरणशीला अपस्तदीयदुर्गस्थानानु्यदकाश्रयाणि
+> तटाकादीन्ऋणोः । आगमयः प्रावर्तयः । भग्नान्यकरोः । एवमुपदृत्य
+> पुरुकुत्सायैतन्नान्ने राजे यूने नित्यतरुणायॆ तदर्थं वृत्रमेतन्नामकमसुरं
+> रंधीः । असाधयः । अहनः । आयमैतिहासिकपक्षः ॥ निरुक्तरूढ्या तु हे इंद्र
+> मृध्रवाजो विशो मर्षणध्वनियुक्ता वृष्टिरूपाः प्रजा दनः । अदमयः ।
+> अशब्दयो ना : अवर्षय इत्यर्थः । कदा । यद्यदा सप्त पुरः शारदीर्दत्
+> सर्पणस्वभावान्तृग्रान् वृष्टा जगत्तूरकान्मेघानदारयः तदेत्यर्थः । तथा
+> कृत्वा हे अनवद्य अर्णा अरणस्वभावा अप ऋणोः । अगमयः । प्रावर्तयः
+> कुल्यादिरूपेण । अनंतरं यूने पुरुकुत्साय वृत्रं मुख्यं मेघं रंधीः ।
+> असाधयः । अहन । अयमर्थः त्वं ह त्यदिंद्र सप्त युध्यन् । ऋ. १-६३-७ ।
+> इत्यादिमंत्रांतरेषु प्रसिद्धः । यास्कस्त्वेवं व्याख्यात् । दनो दानमनसो नो
+> मनुष्यानिंद्र मृदुवाचः कुरु । नि.-६-३१- । इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, at the time when you split the cities of the asuras connected with Vṛtra, you made their subjects, who were of मृध्रवाचः (*mṛdhravācaḥ*) (forbearing speech), दनः (*danaḥ*) (tamed) in such a way that there was शर्म (*śarma*) (happiness); दनः (*danaḥ*) means "you tamed", this being a form of the root दमेरिदं रूपं (*dameridaṃ rūpaṃ*). Or else, by transposition of letters, it is नदः (*nadaḥ*): you made the asura subjects utter a most fearful sound. When was this? यत् (*yat*) — when you split the seven cities, शारदीः (*śāradīḥ*) (new, fresh). Or else शारदीः (*śāradīḥ*) indicates a year: cities that had been made firm for a whole year. The change of person is noted: दर्त् (*dart*) stands for "you split", from the root दृ (*dṛ*).
+
+Having done so, O अनवद्य (*anavadya*) (Indra, who has no blame of timidity), you set in motion the flowing waters, that is, the tanks and the like in their fortress-places that had water as their support, and broke them. Having thus split the cities, for Purukutsa, a king of that name, ever young, you रंधीः (*raṃdhīḥ*) — accomplished the end of, that is, slew — the asura named Vṛtra. This is the historical (aitihāsika) account.
+
+According to the Nirukta tradition: O Indra, you made the subjects who are in the form of rain, मृध्रवाचः (*mṛdhravācaḥ*) (endowed with the sound of forbearing), दनः (*danaḥ*), that is, you made them sound, meaning you made them rain. When? When you split the seven cities, शारदीः (*śāradīḥ*) — the clouds of creeping nature, fresh, which fill the world with rain. Then, O अनवद्य (*anavadya*), you set the waters flowing, of flowing nature, in the form of channels and the like. Afterwards, for the young Purukutsa you slew Vṛtra, the principal cloud. This meaning is well known from other mantras such as त्वं ह त्यदिंद्र सप्त युध्यन् (*tvaṃ ha tyadiṃdra sapta yudhyan*) (Ṛ. 1-63-7). Yāska has explained it thus: दनो दानमनसो नो मनुष्यानिंद्र मृदुवाचः कुरु (*dano dānamanaso no manuṣyāniṃdra mṛduvācaḥ kuru*) (Ni. 6-31) — "make us men of generous mind and gentle speech, O Indra".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- शारदीः (*śāradīḥ*)—new (made firm, bound for one year)
+- सप्तपुरः (*saptapuraḥ*)—the seven cities (of the asuras)
+- दर्त् (*dart*)—you split
+- तदा (*tadā*)—then
+- हे इंद्र (*he iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- मृध्रवाचः (*mṛdhravācaḥ*)—of gentle speech (praying for forgiveness)
+- विशः (*viśaḥ*)—the subjects (of those cities)
+- शर्म (*śarma*)—so that there is happiness
+- दनः (*danaḥ*)—you made humble (you made a most fearful sound)
+- अनंतर (*anaṃtara*)—afterwards
+- हे अनवद्य (*he anavadya*)—O blameless Indra
+- अर्णाः (*arṇāḥ*)—of flowing nature
+- अपः (*apaḥ*)—the waters, the tanks and the like situated in their fortresses
+- ऋणोः (*ṛṇoḥ*)—you sent forth (you broke them)
+- किंच (*kiṃca*)—and
+- यूने (*yūne*)—young
+- पुरुकुत्साय (*purukutsāya*)—for the king named Purukutsa
+- वृत्रं (*vṛtraṃ*)—the asura named Vṛtra
+- रंधीः (*raṃdhīḥ*)—you destroyed
+- [Or: हे इंद्र (*he iṃdra*)—O Indra; यत् (*yat*)—when; सप्त (*sapta*)—seven, of creeping nature; शारदीः (*śāradīḥ*)—new; पुरः (*puraḥ*)—the clouds that fill the world (with rain); दर्त् (*dart*)—you split; तदा (*tadā*)—then; मृध्रवाचः (*mṛdhravācaḥ*)—
+
+### Printed p. 322
+- distinguished by a gentle sound; विशः (*viśaḥ*)—the subjects in the form of rain; शर्म दनः (*śarma danaḥ*)—you made them submissive so that there is happiness (for the world), you made it rain; हे अनवद्य (*he anavadya*)—O Indra, unblamed; अर्णः (*arṇaḥ*)—of flowing nature; अपः (*apaḥ*)—the waters; ऋणोः (*ṛṇoḥ*)—you sent forth (in the form of rivers and the like); afterwards यूने पुरुकुत्साय (*yūne purukutsāya*)—for the youthful Purukutsa; वृत्रं (*vṛtraṃ*)—the principal cloud; रंधीः (*raṃdhīḥ*)—you destroyed.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you destroyed the seven cities of the enemies, you made their subjects, who sued for pardon, humble (or: you split the clouds and brought about rain). O blameless Indra, you sent forth the flowing waters; for the youthful Purukutsa you also destroyed the asura Vṛtra.
+
+##### English translation (H. H. Wilson)
+You have humbled the people, suing for pardon when you had destroyed their seven new cities: you the irreproachable, have dispersed the flowing waters : you have destroyed Vritra for the sake of the youthful Purukutsa.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Sāyaṇa has given one kind of meaning from the historical point of view and another from the Nirukta point of view. The first meaning is the one given here as historical.
+
+मृध्रवाचः (*mṛdhravācaḥ*) — मर्षणवचनाः (*marṣaṇavacanāḥ*). He has explained that this word is used as an epithet of the word विशः (*viśaḥ*). Addressing Indra, he explains: पुरभेदनसमये मर्षणवचनाः तदीयाः प्रजाः सुखं यथा भवति तथा दनः अदमयः (*purabhedanasamaye marṣaṇavacanāḥ tadīyāḥ prajāḥ sukhaṃ yathā bhavati tathā danaḥ adamayaḥ*) — when he destroyed the towns of the asuras connected with the asura Vṛtra, the inhabitants, the subjects there, spoke gentle words, and he acted in such a way that they lived in happiness. Or else, यद्वावर्णव्यत्ययः अनदः असुरप्रजाः अतिभयंकरशब्दमकरोः (*yadvāvarṇavyatyayaḥ anadaḥ asuraprajāḥ atibhayaṃkaraśabdamakaroḥ*): he explains दॆनः (*dènaḥ*) as a form of the root दमु (*damu*). In the second explanation, for the word नदः (*nadaḥ*) produced by transposing the letters of the word दनः (*danaḥ*), the meaning given is that at the time when Indra destroyed the cities of the subjects of the asura Vṛtra, he made a fearful sound, so that those subjects spoke gentle words, so that happiness came to them, and so that a state of existence (conduct) was brought about among them.**NOTE**
+
+शारदीः सप्तपुरः दर्त् (*śāradīḥ saptapuraḥ dart*) — he explains that the word शारदीः (*śāradīḥ*) is used in the sense of "new" and also in the sense of "year". The meaning is explained thus: Indra split and destroyed
+
+### Printed p. 323
+the seven cities of the asuras, newly built, or made so firm that for a year even they could not be broken.
+
+अनवद्य अर्णाः अपः ऋणोः (*anavadya arṇāḥ apaḥ ṛṇoḥ*) — he explains the word अनवद्य (*anavadya*) as one who is free from the blame in the form of timidity (fear), and with this word Indra is addressed. After Indra, fearless, destroyed the cities of the enemies, तदीय दुर्गस्थानानि उदकात्रयाणि तटाकादीन् प्रावर्तयः (*tadīya durgasthānāni udakātrayāṇi taṭākādīn prāvartayaḥ*) — he explains that he made the fortress regions of the asuras filled with flowing waters, and changed them into another form in which there were tanks and the like as supports of the waters.
+
+पुरुकुत्साय वृत्रं रंधीः (*purukutsāya vṛtraṃ raṃdhīḥ*) — he makes clear that Indra killed the asura Vṛtra for the king Purukutsa and so did the king a service.
+
+In the meaning that follows the view of the Nirukta authors: addressing Indra, for the word वितः (*vitaḥ*)**NOTE** वृष्टिरूपाः प्रजाः (*vṛṣṭirūpāḥ prajāḥ*) — the subjects in the form of rain — मृध्रवाचः (*mṛdhravācaḥ*), मर्षणध्वनि (*marṣaṇadhvani*): he made them endowed with the sound of forbearance, and through them brought about sound and rain-water. For the words in the sentence सप्तपुरः शारदीर्दत् (*saptapuraḥ śāradīrdat*) the meaning given is सर्पणस्वभावान् प्रत्यग्रान् वृष्टा जागरूकान् मेघानदारयः (*sarpaṇasvabhāvān pratyagrān vṛṣṭā jāgarūkān meghānadārayaḥ*): Indra split the clouds, of a wandering nature, new, alert in pouring down the waters of rain. अनवद्य अर्णाः अपः ऋणोः अरणस्वभावा अपः प्रावर्तयः कुल्यादिरूपेण (*anavadya arṇāḥ apaḥ ṛṇoḥ araṇasvabhāvā apaḥ prāvartayaḥ kulyādirūpeṇa*) — for अनवद्य (*anavadya*) the meaning is explained as before. The meaning stated is that Indra poured down the rain-waters so that waters of a nature to move in the form of a flood flow in the form of canals. In the sentence यूने पुरुकुत्साय वृत्रं रंधीः (*yūne purukutsāya vṛtraṃ raṃdhīḥ*) the word वृत्र (*vṛtra*) is given the meaning "cloud": Indra split the cloud for the young king Purukutsa and caused rain to come.
+
+त्वं ह त्यदिंद्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हि र्न यत्सुदासे वृथा वर्गंडो राजन् वरिवः पूरवे कः ॥ (*tvaṃ ha tyadiṃdra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhi rna yatsudāse vṛthā vargaṃḍo rājan varivaḥ pūrave kaḥ ‖*)
+(Ṛ. Saṃ. 1-63-7)
+
+He explains that this same meaning is established in this Ṛk.**NOTE**
+
+The Nirukta authors, citing this very Ṛk, have explained the word मृध्रवाचः (*mṛdhravācaḥ*) by the meaning दानमनसो नो मनुष्यानिंद्र मृदुवाचः कुरु (*dānamanaso no manuṣyāniṃdra mṛduvācaḥ kuru*) (Ni. 6-31). The Nirukta authors have described the petition that Indra may make the sacrificers
+
+### Printed p. 324
+gentle in speech and also inclined in mind to the practice of giving.
+
+It is known from the Śatapatha Brāhmaṇa that the king Purukutsa belonged to the Aikṣvāku line.
+
+पुरुकुत्सो दौगृहेणेज ऐक्ष्वाको राजा (*purukutso daugṛheṇeja aikṣvāko rājā*)
+(Śa. Brā. 13-5-405)**NOTE**
+
+This sentence says that the king Purukutsa, born in the Aikṣvāku line, performed the aśvamedha of the Daurgāha kind. This same matter is indicated in the Ṛk
+
+अस्माकमत्र पितरस्त आसन्तप्त ऋषयो दौर्गृहे बध्यमाने (*asmākamatra pitarasta āsantapta ṛṣayo daurgṛhe badhyamāne*)
+(Ṛ. Saṃ. 4-42-8)
+
+But in the Ṛk cited, Sāyaṇa has taken the word दौर्गह (*daurgaha*) as a patronymic name and explained it as दुर्गहस्य पुत्रे पुरुकुत्से (*durgahasya putre purukutse*).
+
+त्वं ह त्यदिंद्र सप्त युध्यन्सुरो वज्रन्पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥ (*tvaṃ ha tyadiṃdra sapta yudhyansuro vajranpurukutsāya dardaḥ | barhirna yatsudāse vṛthā vargaṃho rājanvarivaḥ pūrave kaḥ ‖*)
+(Ṛ. Saṃ. 1-63-7)
+
+On the strength of this Ṛk it is known that he was a contemporary of the king Sudāsa.
+
+सनेम तेवसा नव्य इंद्र प्र पूरवः स्तवंत एना यज्ञैः । सप्त यत्पुरः शर्म शारदीर्द्धर्दन् दासीकॆ पुरुकुत्साय शिक्षन् । (*sanema tevasā navya iṃdra pra pūravaḥ stavaṃta enā yajñaiḥ | sapta yatpuraḥ śarma śāradīrddhardan dāsīkè purukutsāya śikṣan |*)
+(Ṛ. Saṃ. 6-20-10)
+
+Here Purukutsa is said to be a king of the people called Pūru. He is also said to have conquered all the Dāsas. It is also known that he had a son named Trasadasyu. But it appears that this son may have been born after the death of Purukutsa.
+
+पुरुकुत्सानी हि वामदाशद्धव्येभिरिंद्रावरुणा नमोभिः । अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवं ॥ (*purukutsānī hi vāmadāśaddhavyebhiriṃdrāvaruṇā namobhiḥ | athā rājānaṃ trasadasyumasyā vṛtrahaṇaṃ dadathurardhadevaṃ ‖*)
+(Ṛ. Saṃ. 4-42-9)
+
+In this it is said that when the wife of Purukutsa satisfied Indra and Varuṇa with oblations and praises, they granted that she should bear a son named Trasadasyu. On this basis there is a story that after Purukutsa died in battle, his wife prayed to Indra and Varuṇa and bore a son named Trasadasyu.
+
 ---
 
-**Progress note:** Done through printed p. 318. pp. 313-318 (batch API)
+**Progress note:** Done through printed p. 324. pp. 319-324 (batch API)
