@@ -9252,6 +9252,148 @@ Addressing Indra, it is described by the sentence मदः शुष्मि�
 
 and thereby shown the special meaning of the word kratu there (Ni. 10-10). Even though the word kratu is generally given the meaning "action", wherever this word is used it is understood that this action has an exceedingly great distinctiveness. And the chief meaning of this word is a resolve that urges to action. This meaning is known from the Ṛk quoted below.
 
+### Printed p. 385
+In this Ṛk,
+
+सुप्रवाचनं तव वीर वीर्यं यदेकेन क्रतुना विंदसे वसु । जातूष्ठिरस्य प्र वयः सहस्वतो या चकर्थ सेंद्र विश्वास्युक्थः ॥ (*supravācanaṃ tava vīra vīryaṃ yadekena kratunā viṃdase vasu | jātūṣṭhirasya pra vayaḥ sahasvato yā cakartha seṃdra viśvāsyukthaḥ ‖*) (Ṛ. Saṃ. 2-13-11)
+
+Sāyaṇa has explained the word क्रतुना (*kratunā*) as कर्मणा (*karmaṇā*). Here it would be more fitting to say "resolve" (saṅkalpa) than "action". The scholar Monier Williams, explaining this very example (Sanskrit–English Dictionary), has rendered एकेन कर्मणा (*ekena karmaṇā*) as "Through the mere will", that is, "by mere resolve alone". This is the natural sense in this context. For here Indra's valour is described; rather than saying that Indra destroyed his enemies by a single action, it is natural to say that Indra "destroyed the enemies by mere resolve alone".
+
+Whenever the word क्रतु (*kratu*) is used as a synonym of action, the resolve that underlies that action and the aim towards which the action is directed are both implied, and the word points to the spiritual existence of the person (puruṣa) and to that same aim. For example—
+
+त्वं सोम क्रतुभिः सुक्रतुर्भूस्त्वं दक्षैः सुदक्षो विश्ववेदाः । त्वं वृषा वृषत्वेभिर्महित्वा द्युम्नेभिर्द्युम्न्यभवो नृचक्षाः ॥ (*tvaṃ soma kratubhiḥ sukraturbhūstvaṃ dakṣaiḥ sudakṣo viśvavedāḥ | tvaṃ vṛṣā vṛṣatvebhirmahitvā dyumnebhirdyumnyabhavo nṛcakṣāḥ ‖*) (Ṛ. Saṃ. 1-91-2)
+
+In this Ṛk the two words क्रतु (*kratu*) and दक्ष (*dakṣa*) indicate the extraordinary qualities of the god Soma. Soma is addressed as one endowed with the most excellent knowledge. Likewise,
+
+ते सत्येन मनसा दीध्यानाः स्वेन युक्तासः क्रतुना वहंति । इंद्रवायू वीरवाहं रथं वामीशानयोरभि पृक्षः सचंते ॥ (*te satyena manasā dīdhyānāḥ svena yuktāsaḥ kratunā vahaṃti | iṃdravāyū vīravāhaṃ rathaṃ vāmīśānayorabhi pṛkṣaḥ sacaṃte ‖*) (Ṛ. Saṃ. 7-90-5)
+
+Here the knowledge and the resolve that are the root of human activity, which is of the nature of sacrifice, are indicated by the word क्रतुना (*kratunā*). Since all worldly activity is sacrifice-like, the root of this sacrifice, which is both universal and carried out through individual actions, is the resolve of the person. The personality of the person must be complete through this resolve and aim. That is why the person is described as consisting of क्रतु (*kratu*). The Upaniṣads and other texts describe this same point thus:
+
+सर्वं खल्विदं ब्रह्म तज्जलानिति शांत उपासीत । अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिलोके पुरुषो भवति कथेतः प्रेत्य भवति स क्रतुं कुर्वीत । (*sarvaṃ khalvidaṃ brahma tajjalāniti śāṃta upāsīta | atha khalu kratumayaḥ puruṣo yathākraturasmiloke puruṣo bhavati kathetaḥ pretya bhavati sa kratuṃ kurvīta |*) (Chā. U. 3-14-1)
+
+### Printed p. 386
+Here the person is said to consist of क्रतु (*kratu*). Explaining what क्रतु (*kratu*) is here, Śaṅkarācārya gave this commentary:
+
+क्रतुं कुर्वीत क्रतुर्निश्चयोऽध्यवसाय एवमेव नान्यथेत्यविचलः प्रत्ययस्तं क्रतुं कुर्वीतोपासीतेत्यनेन व्यवहितेन संबंधः । किं पुनः क्रतुकरणेन कर्तव्यं प्रयोजनं ! कथं वा क्रतुः कर्तव्यः । क्रतुकरणं जाभिप्रेतार्थसिद्धिसाधनं कथं ? इत्यस्यार्थस्य प्रतिपादनार्थमथेत्यादिग्रंथः !............यस्मात्कृतुमयः क्रतुप्रायोऽध्यवसायात्मकः पुरुषो जीवः । यथाक्रतुर्यादृशः क्रतुः अस्य सोऽयं यथाक्रतुयथाध्यव सायः यादृज् निश्चयः अस्मिन्निह पुरुषो भवति तथेतोऽस्माद्देहात्पेत्य मृत्वा भवति । क्रत्वनुरूपफलात्मको भवतीत्यर्थः ॥ (*kratuṃ kurvīta kraturniścayo 'dhyavasāya evameva nānyathetyavicalaḥ pratyayastaṃ kratuṃ kurvītopāsītetyanena vyavahitena saṃbaṃdhaḥ | kiṃ punaḥ kratukaraṇena kartavyaṃ prayojanaṃ ! kathaṃ vā kratuḥ kartavyaḥ | kratukaraṇaṃ jābhipretārthasiddhisādhanaṃ kathaṃ ? ityasyārthasya pratipādanārthamathetyādigraṃthaḥ !............yasmātkṛtumayaḥ kratuprāyo 'dhyavasāyātmakaḥ puruṣo jīvaḥ | yathākraturyādṛśaḥ kratuḥ asya so 'yaṃ yathākratuyathādhyava sāyaḥ yādṛj niścayaḥ asminniha puruṣo bhavati tatheto 'smāddehātpetya mṛtvā bhavati | kratvanurūpaphalātmako bhavatītyarthaḥ ‖*) (Śāṅkara-bhāṣya, Chā. U. 3-14-1)
+
+क्रतु (*kratu*) means mental determination, mental resolve and unwavering faith. Thus the person must necessarily practise the meditation on this क्रतु (*kratu*), which is of the nature of resolve and full of faith. Whether in this world or after the abandonment of the earthly body, the existence of the person follows the nature of his क्रतु (*kratu*), and is the fruit of that meditation on क्रतु (*kratu*). It is also established that without meditation on क्रतु (*kratu*) there is no excellent fruit. Such is the explanation of the Śāṅkara-bhāṣya.
+
+Discussing whether the word क्रतु (*kratu*) here means resolve or aim (purpose), the English scholar Edgerton quotes the Śatapatha-brāhmaṇa passage and the passage cited above, and explains the meaning of the word as follows:
+
+The word क्रतु (*kratu*) is not easy to define. Eggeling translates it "understanding" but with an alternative " will; purpose " which is more in accord with the Hindu commentator on the passage who says that क्रतु (*kratu*) means निश्चय (*niścaya*), अध्यवसाय (*adhyavasāya*), i.e, " fixed determination." It seems to mean man's mental constitution as a whole, the " total frame of mind," but with a strong flavour of will, Conscious purpose, or determination..................Man's क्रतु (*kratu*) therefore would be his mental make up in general, but particularly any fixed determination he may entertain with regard to his future life. And his क्रतु (*kratu*) at the moment of death decides his destiny after death.
+(Annals of Bhandarkar Institute. Vol. VIII. p. 223)
+
+The gist of this: for the word क्रतु (*kratu*) in the Śatapatha-brāhmaṇa (10-6-3-1) and in the Chāndogya Upaniṣad (3-14-1), the translator Eggeling first gives the meaning "knowledge" and then the alternative meanings "resolve" and "aim".
+
+### Printed p. 387
+In sum, the word means the mental resolve of the person that determines his lasting condition and fortunes.
+
+In many parts of the Ṛk-saṃhitā, even where the word means "sacrifice", this same import is implied, so that it is understood as a sacrifice of the nature of resolve. For example—
+
+साकं हि शुचिना शुचिः प्रशास्ता क्रतुनाजनि । विद्वा अस्य व्रता ध्रुवा वया इनानु रोहते । (*sākaṃ hi śucinā śuciḥ praśāstā kratunājani | vidvā asya vratā dhruvā vayā inānu rohate |*) (Ṛ. Saṃ. 2-5-4)
+
+In Ṛks of this kind this sense is evident. Since the existence of the person and his future fortunes depend on this action in the form of क्रतु (*kratu*), the Upaniṣads and other texts repeatedly give man a warning on this matter.
+
+ओं क्रतो स्मर कृतग्स्मर क्रतो स्मर कृतग्स्मर । (*oṃ krato smara kṛtagsmara krato smara kṛtagsmara |*) (Īśa. 18)
+
+Thus in the Īśa and Bṛhadāraṇyaka and other Upaniṣads (Bṛ. U. 5-15-1) the instruction is addressed to the self, which is of the nature of resolve. Śaṅkarācārya has explained the word क्रतो (*krato*) as "O you who are of the nature of resolve". But in the Aitareya Upaniṣad, when the nature of the spirit is described—
+
+संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं............स्मृतिः संकल्पः क्रतुः । (*saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ............smṛtiḥ saṃkalpaḥ kratuḥ |*) (Ai. U. 3-2)
+
+resolve and क्रतु (*kratu*) are mentioned as separate qualities of the self.
+
+The word is used not only when such spiritual qualities are being described but also when the physical actions of the person are described. For example—
+
+न हि नु यादधीमसींद्रं को वीर्या परः । तस्मिन्नृम्मुत क्रतुं देवा ओजांसि सं दधुरर्चन्ननु स्वराज्यं । (*na hi nu yādadhīmasīṃdraṃ ko vīryā paraḥ | tasminnṛmmuta kratuṃ devā ojāṃsi saṃ dadhurarcannanu svarājyaṃ |*) (Ṛ. Saṃ. 1-80-15)
+
+In Ṛks of this kind the word क्रतु (*kratu*) is understood as a deed of valour, and in
+
+यस्याजस्रं शवसा मानमुक्थं परिभुजद्रोदसी विश्वतः सीं । स पारिषत्कुभिर्मंदसानो मरुत्वान्नो भवत्त्विंद्र ऊती । (*yasyājasraṃ śavasā mānamukthaṃ paribhujadrodasī viśvataḥ sīṃ | sa pāriṣatkubhirmaṃdasāno marutvānno bhavattviṃdra ūtī |*) (Ṛ. Saṃ. 1-100-14)
+
+and the like, as sacrificial action. Likewise the word is used in the senses of power, wealth, influence and so on.
+
+### Printed p. 388
+Here the sense is made clear: the action of Indra performed for us, the sacrificers, is द्युम्निंतमः (*dyumniṃtamaḥ*)—exceedingly possessed of food or of fame—that is, it is meant to produce abundant food or fame. Yāska, quoting the Ṛk
+
+शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु । जहि वधर्वनुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥ (*śataṃ te śiprinnūtayaḥ sudāse sahasraṃ śaṃsā uta rātirastu | jahi vadharvanuṣo martyasyāsme dyumnamadhi ratnaṃ ca dhehi ‖*) (Ṛ. Saṃ. 7-25-3)
+
+explains द्युम्नं द्योततेर्यशो वा अन्नं वा (*dyumnaṃ dyotateryaśo vā annaṃ vā*): the word द्युम्न (*dyumna*), formed from the root द्युत (*dyuta*) meaning "to shine with lustre", means fame or food.
+
+अश्वसातमः (*aśvasātamaḥ*)—अश्वोपलक्षितबहुधनदाः (*aśvopalakṣitabahudhanadāḥ*): Indra bestows abundant wealth together with horses.
+
+वरिवोविदा (*varivovidā*)—धनस्य परिचरणस्य वा वेदयितारौ लंभयितारौ (*dhanasya paricaraṇasya vā vedayitārau laṃbhayitārau*). The word वरिवः (*varivaḥ*) is read among the names of wealth (Ni. 3-9). Sāyaṇa describes Indra's exhilaration and action as वृत्रघ्नौ (*vṛtraghnau*): in the historical sense they suppressed the demon Vṛtra, and from the standpoint of principle they strike the cloud and make rain come. Since they give wealth and suppress the enemy, the sense made clear is: "Indra has granted this favour: शत्रुघातिनौ धनदातारौ च स्यातामित्यनुग्रहमकरोः (*śatrughātinau dhanadātārau ca syātāmityanugrahamakaroḥ*)—may this exhilaration and this action be destroyers of enemies and givers of wealth for us, the sacrificers."
+
+**Vyākaraṇa-prakriyā**
+
+- शुष्मिंतमः— शुष्म बलमस्य अस्ति इति शुष्मी । अतिशयेन शुष्मी शुष्मिंतमः । आत इनिठना इति मत्त्वर्थे इनिप्रत्यये सति तदुपरि अतिशयार्थे तमप् प्रत्ययः । आयस्मयादीनि छंदसि (पा. सू. १-४-२०) इति तमपः पूर्वस्य भ संज्ञा भवति । तस्मात् पदसंज्ञानिमित्तो न लोपो न भवति । तमप् पित्त्वादनुदात्तो भवति । इनिप्रत्ययस्वरः शिष्यते । द्युम्निंतमः इत्यत्रापि एवमेव कार्याणि भवंति ।
+- मदः—मद तृप्तियोगे इति धातुः । मदोऽनुपसर्गे (पा. सू. ३-३-६७) इति अप् प्रत्ययः । पित्त्वादनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- वृत्रघ्ना—हन हिंसागत्योः इति धातुः । क्विप् प्रत्ययः । छांदसत्वात् भ संज्ञात्वात् अल्लोपः भवति । सुपां सुलुक् - (पा. सू. ७-१-३९) इति द्विवचनस्य आकारादेशः । कृदुत्तरपदप्रकृतिस्वरो भवति । **NOTE**
+
+### Printed p. 389
+- वरिवोविदा — विद ज्ञाने इति धातुः । क्विप् प्रत्ययः पूर्ववत् । विभक्तेः आकारादेशः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- मंसीष्ठाः—मन ज्ञाने इति धातुः । लिज् मध्यमपुरुषैकवचने थास् आदेशः । लिजिः सीयुट् इति सीयुट् । सुट् तिथोः इति थासः सुटागमः । धातुनकारस्य आनुस्वारः । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण आंतोदात्तो भवति ।
+- अश्वसातमः—षणु दाने इति धातुः । क्विप् प्रत्ययः । जनसनखनां सन्‌झलोः (पा. सू. ६-४-४२) इति धातोरात्वं भवति । तदुपरि अतिशयार्थे तमप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ पूर्वे॑भ्यो जरि॒तृभ्य॑ इंद्र॒ मय॑ इ॒वापो॒ न तृष्य॑ते ब॒भूथ॑ ।  
+> तामनु॑ त्वा नि॒विदं॑ जोहवीमि वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । पूर्वेभ्यः । जरितृभ्यः । इंद्र । मयःइव । आपः । न । तृष्यते । बभूथ ।  
+> शां । अनु । त्वा । निऽविदं । जोहवीमि । विद्याम । इषं । वृजनं । जीरदानुं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूर्वभ्यो जरितृभ्यः पुरातनेभ्यो गरितृभ्यः स्तोतृभ्यो मय इव
+> बभूथ । मयः सुखं । सुखस्वरूपमिनाभवः । तद्वत् स्तोतृभ्योऽस्मभ्यं सुखो
+> भव । तत्र दृष्टांतः । तृष्यत आपो न तृषार्तस्योदकानि यथा सुखकराणीति तद्वत् ।
+> तस्मात्तां निविदं, त्वत्प्रीतिकरीं प्रसिद्धां स्तुतिं त्वा तुभ्यमनु जोहवीमि । पुनः पुनः
+> करोमि । यद्वा । तां निविदमनु ॥ तृतीयार्थे । पा १-४-८५ । इत्यनोः कर्मप्रवचनीयत्वं ॥ तया स्तुत्या त्वां जोहवीमि । पुनःपुनराह्वयामि । विद्यामेति व्याख्यात॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you have been like मयः (*mayaḥ*) (happiness) to the ancient praisers (जरितृभ्यः (*jaritṛbhyaḥ*) = स्तोतृभ्यो (*stotṛbhyo*)). मयः (*mayaḥ*) is happiness; you have been of the very nature of happiness. In the same way be happy for us, your praisers." The illustration: as waters are comforting to one tormented by thirst (तृष्यत आपो न (*tṛṣyata āpo na*)). Therefore I invoke you again and again by that well-known निविदं (*nividaṃ*), a praise that pleases you; that is, I do so repeatedly. Alternatively: तां निविदमनु (*tāṃ nividamanu*)—the word अनु (*anu*) is a karmapravacanīya in the sense of the instrumental (Pā. 1-4-85); so "with that praise I call you, I summon you again and again." विद्याम (*vidyāma*) has been explained already.
+
+### Printed p. 390
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूर्वेभ्यः (*pūrvebhyaḥ*)—to the ancient
+- जरितृभ्यः (*jaritṛbhyaḥ*)—praisers
+- कृष्यते (*kṛṣyate*)—to one tormented by thirst
+- आपः न (*āpaḥ na*)—as waters become satisfying
+- मयः इव (*mayaḥ iva*)—like one of the nature of happiness
+- यथा (*yathā*)—as
+- बभूथ (*babhūtha*)—you have been (so be of the nature of happiness to us also)
+- तां (*tāṃ*)—that well-known
+- निविदं अनु (*nividaṃ anu*)—following (your) praise
+- त्वा (*tvā*)—you
+- जोहवीमि (*johavīmi*)—I invoke again and again
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—let us obtain (by your favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as you have been pleasing to the ancient praisers, as waters give satisfaction to one tormented by thirst, so be a giver of happiness to us also; I too praise you again and again with your well-known words of praise; grant us food, strength and long life.
+
+##### English translation (H. H. Wilson)
+Inasmuch, Indra, as you have been the-(giver of) happiness to your ancient encomiasts, like water to one who is thirsty, therefore I constantly repeat this your praise, that I may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+The joy that Indra produces in his praisers is described, and the satisfaction arising from that joy is compared to the satisfaction that a thirsty person gets from drinking water. The seer of this sūkta too has resolved that, as the earlier praisers praised such a satisfying Indra with निविद् (*nivid*) mantras, he too will praise him.
+
+निविदं जोहवीमि (*nividaṃ johavīmi*)—the resolve is that he will recite निविद् (*nivid*) mantras. Earlier, when giving the special topics of Ṛk 1-96-2 of the Ṛ. Saṃ., the importance of the निविद् (*nivid*) mantras indicated by the mantra स पूर्वया निविदा (*sa pūrvayā nividā*) was explained (Ṛgveda-saṃhitā Part 8, pp. 74-76). But that mantra was addressed to Agni, and the निविद् (*nivid*) mantras specified there being addressed to Agni, only the mantras with Agni as deity were mentioned in that context. Since the present Ṛk is addressed to Indra, the power and the uses of the निविद् (*nivid*) mantras are explained here in a manner suited to this context.
+
+The name निविद् (*nivid*) mantra is well known for mantras that address a deity or a group of deities, describe their extraordinary qualities and invoke them. The Bṛhaddevatā states this, saying,
+
 ---
 
-**Progress note:** Done through printed p. 384. pp. 379-384 (batch API)
+**Progress note:** Done through printed p. 390. pp. 385-390 (batch API)
