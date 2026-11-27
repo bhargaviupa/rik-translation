@@ -14795,9 +14795,9 @@ Grammar pages, noted briefly. *Narāśaṃsam* (*naraiḥ śaṃsanīyo narāśa
 
 *(Running head: left 550; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
 
-The grammar of Rik 106.4 concludes (noted briefly). *Kṣayadvīram*, concluded: "…the word *kṣayat* ends in *t*; *kṣayanto vīrā yasmin tat kṣayadvīram*; a *bahuvrīhi*, the accent of the prior member by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]." *Pūṣaṇam* (formed as a *nipātana* with the suffix *kanin*, by *śṛ-ṣkhyādibhyaḥ…* [as printed: *śnusnūṣakhan* [?]], Uṇ. 1-[?]2 as read [?]; the lengthening of the penult, which would arise by *inhan…*, Pā. Sū. 6-4-12 as read [?], does not arise, since the rule has been restricted to the *su* [nominative singular] only). *Īmahe* (root *īṅ gatau*; *laṭ*, first person plural, *mahiṅ*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; the *vikaraṇa* [*śyan*] is lost by *bahulaṃ chandasi*; *nighāta*). The Rik is closed with *‖ 4 ‖* and an ornament.
+The grammar of Rik 106.4 concludes (noted briefly). *Kṣayadvīram*, concluded: "…the word *kṣayat* ends in *t*; *kṣayanto vīrā yasmin tat kṣayadvīram*; a *bahuvrīhi*, the accent of the prior member by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1." *Pūṣaṇam* (formed as a *nipātana* with the suffix *kanin*, by *śṛ-ṣkhyādibhyaḥ…* [as printed: *śnusnūṣakhan* [?]], Uṇ. 1-57; the lengthening of the penult, which would arise by *inhan…*, Pā. Sū. 6-4-12, does not arise, since the rule has been restricted to the *su* [nominative singular] only). *Īmahe* (root *īṅ gatau*; *laṭ*, first person plural, *mahiṅ*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*; the *vikaraṇa* [*śyan*] is lost by *bahulaṃ chandasi*; *nighāta*). The Rik is closed with *‖ 4 ‖* and an ornament.
 
-## Rik 106.5 — printed pp. 550–[?]
+## Rik 106.5 — printed pp. 550–554
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.5)**
 
@@ -14826,7 +14826,7 @@ The grammar of Rik 106.4 concludes (noted briefly). *Kṣayadvīram*, concluded:
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.5)**
 
 > बृहस्पते सदमित्सदैवा नोऽस्माकं सुगम् । सुखनामैतत् । सुखं कृधि । कुरु । अपि च ते तव स्वभूतं शं शमनीयानां रोगाणामुपशमनं योः पृथक्कर्तव्यानां भयानां यावनं पृथक्करणं मनुर्हितं मनुना ब्रह्मणा हितं स्थापितं त्वय्यवस्थापितम् । यद्वा । मनुष्याणामनुकूलम् । एवंविधं शमनं यावनं च यदस्ति तदीमहे । याचामहे ॥ सुगम् । सुष्ठु गम्यते ऽस्मिन्निति सुगम् । सुदुरोरधिकरण इति गमेर्डः । शं योरिति चैतत्रद्वयं [?] यास्कस्यैवं व्याख्यातं । शमनं च रोगाणां यावनं च भयानां । नि. ४-२१ । इति । मनुर्हितम् । मनेरौणादिक उसिप्रत्ययः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् ॥
-> *bṛhaspate sadam it sadaivā no 'smākaṃ sugam | sukhanāmaitat | sukhaṃ kṛdhi | kuru | api ca te tava svabhūtaṃ śaṃ śamanīyānāṃ rogāṇām upaśamanaṃ yoḥ pṛthakkartavyānāṃ bhayānāṃ yāvanaṃ pṛthakkaraṇaṃ manurhitaṃ manunā brahmaṇā hitaṃ sthāpitaṃ tvayy avasthāpitam | yadvā | manuṣyāṇām anukūlam | evaṃvidhaṃ śamanaṃ yāvanaṃ ca yad asti tad īmahe | yācāmahe ‖ sugam | suṣṭhu gamyate 'sminn iti sugam | sudurorādhikaraṇa iti gamer ḍaḥ | śaṃ yor ity etaddvayaṃ [?] yāskasyaivaṃ vyākhyātaṃ | śamanaṃ ca rogāṇāṃ yāvanaṃ ca bhayānāṃ | ni. 4-2[?] | iti | manurhitam | maner auṇādika usipratyayaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam ‖* *(Sanskrit as read; "etaddvayaṃ" is the print's, doubtful [?]; the tail is short and given.)*
+> *bṛhaspate sadam it sadaivā no 'smākaṃ sugam | sukhanāmaitat | sukhaṃ kṛdhi | kuru | api ca te tava svabhūtaṃ śaṃ śamanīyānāṃ rogāṇām upaśamanaṃ yoḥ pṛthakkartavyānāṃ bhayānāṃ yāvanaṃ pṛthakkaraṇaṃ manurhitaṃ manunā brahmaṇā hitaṃ sthāpitaṃ tvayy avasthāpitam | yadvā | manuṣyāṇām anukūlam | evaṃvidhaṃ śamanaṃ yāvanaṃ ca yad asti tad īmahe | yācāmahe ‖ sugam | suṣṭhu gamyate 'sminn iti sugam | sudurorādhikaraṇa iti gamer ḍaḥ | śaṃ yor ity etaddvayaṃ [?] yāskasyaivaṃ vyākhyātaṃ | śamanaṃ ca rogāṇāṃ yāvanaṃ ca bhayānāṃ | ni. 4-21 | iti | manurhitam | maner auṇādika usipratyayaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam ‖* *(Sanskrit as read; "etaddvayaṃ" is the print's, doubtful [?]; the tail is short and given.)*
 
 "O Bṛhaspati! always (*sadam it*) make for us (*naḥ*) *sugam*, which is a name for happiness: make happiness. And further, the *śam* that is your own — the allaying of diseases that are to be allayed — and the *yoḥ* — the separation, the keeping apart, of the dangers that are to be kept away: that [which is] *manurhita*, established (*hita*) by Manu — by Brahmā — set in you; or, as favourable to men: such an allaying and a *yāvana* [warding off] as there is, that we ask (*īmahe*), we beg for."
 
@@ -14853,25 +14853,25 @@ O Bṛhaspati, always bring us happiness. We ask for that power of yours, establ
 **Sadam it** — *sadam iti sadā ity asya paryāyaḥ | it śabdaḥ atra evārthe | sadaiveti arthaḥ |* "*sadam* is a synonym of *sadā* ('always'); the word *it* is here in the sense of *eva*: the meaning is *sadaiva*, 'always'. *Sadam* is a synonym for 'always'; *sadam it* means 'at all times', without break. The Nirukta-author, citing the Ṛk that uses this word —
 
 > देवा नो यथा सदमिद्वृधे असन्नप्रायुवो रक्षितारो दिवेदिवे ।
-> *devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive-dive |* (*Ṛ. Saṃ.* 1-8[?]-1 as read [?])
+> *devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive-dive |* (*Ṛ. Saṃ.* 1-89-1)
 
-— has shown that the word *sadam* has the meaning 'always' (*Ni.* 4-19 as read [?])."
+— has shown that the word *sadam* has the meaning 'always' (*Ni.* 4-19 as read)."
 
 **Sugam** — *sugam ity api paṭhitam api sukhanāma draṣṭavyam |* "although it is not read among the names of happiness, Skandasvāmin has explained that the word *suga* here means happiness, and, citing —
 
 > अस्मभ्यमिन्द्र वरिवः सुगं कृधि प्र शत्रूणां मघवन्वृष्ण्या रुज ।
-> *asmabhyam indra varivaḥ sugaṃ kṛdhi pra śatrūṇāṃ maghavan vṛṣṇyā ruja |* (*Ṛ. Saṃ.* 1-102-4 as read [?])
+> *asmabhyam indra varivaḥ sugaṃ kṛdhi pra śatrūṇāṃ maghavan vṛṣṇyā ruja |* (*Ṛ. Saṃ.* 1-102-4 as read)
 
 — he explains that as in this Ṛk the word *suga* means happiness, so here too it means happiness. Besides this sense, the word *suga* has the sense *śobhanaṃ mārgam*: 'a good road'; from the point of view of travel, an easily traversed path; from the ethical point of view, an excellent path. In both senses this word is used. For example —
 
 > देवयानान्सुगान्पथः कुरुष्व सुमनाः स्वयम् ।
-> *devayānān sugān pathaḥ kuruṣva sumanāḥ svayam |* (*Bṛ. De.* 3-65 as read [?])
+> *devayānān sugān pathaḥ kuruṣva sumanāḥ svayam |* (*Bṛ. De.* 7-65)
 
 — in this verse the sense is 'paths that gods can travel easily'. In the same sense, in the Ṛk-saṃhitā too:
 
 > शं नः करत्यर्वते सुगं मेषाय मेष्ये ।
 > नृभ्यो नारिभ्यो गवे ॥
-> *śaṃ naḥ karaty arvate sugaṃ meṣāya meṣye | nṛbhyo nāribhyo gave ‖* (*Ṛ. Saṃ.* 1-436 as read)
+> *śaṃ naḥ karaty arvate sugaṃ meṣāya meṣye | nṛbhyo nāribhyo gave ‖* (*Ṛ. Saṃ.* 1-43,6)
 
 ---
 
@@ -14879,27 +14879,27 @@ O Bṛhaspati, always bring us happiness. We ask for that power of yours, establ
 
 *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 553.)*
 
-"— in this Ṛk, and in the Ṛks 9-[?]3-10, 10-[?]-3 and others, 'a path that can be traversed easily':
+"— in this Ṛk, and in the Ṛks 8-93-10, 10-86-5 and others, 'a path that can be traversed easily':
 
 > बृहस्पते अप तं वर्तया पथः सुगं नो अस्यै देववीतये कृधि ।
-> *bṛhaspate apa taṃ vartayā pathaḥ sugaṃ no asyai devavītaye kṛdhi |* (*Ṛ. Saṃ.* 2-23-7-[?] as read [?])
+> *bṛhaspate apa taṃ vartayā pathaḥ sugaṃ no asyai devavītaye kṛdhi |* (*Ṛ. Saṃ.* 2-23-7)
 
 — in Ṛks like these, the word *sugam* has the meaning 'to be reached well, with right [ethical] sight'. '*Yajñānuṣṭhānāya sumatiṃ dehi*': 'give right intelligence for the performance of the sacrifice': the sense is 'the right understanding of those who perform the sacrificial rites'; and
 
 > इन्द्रासोमा सुष्कृते मा सुगं भूद्यो नः कदा चिदभिदासति द्रुहा ।
-> *indrāsomā suṣkṛte mā sugaṃ bhūd yo naḥ kadā cid abhidāsati druhā |* (*Ṛ. Saṃ.* 7-1[?]-2 as read [?])
+> *indrāsomā suṣkṛte mā sugaṃ bhūd yo naḥ kadā cid abhidāsati druhā |* (*Ṛ. Saṃ.* 7-104-7)
 
 — in such places it means happiness. The commentator's intention is that this last sense should be taken in the Ṛk at hand."
 
-**Śaṃ yoḥ** — "*śam* means happiness (*Ni.* 3-[?]0); *yoḥ*: *śamanaṃ ca rogāṇāṃ yāvanaṃ bhayānām* (*Ni.* 5-21 as read [?]) — that is, the happiness that is the allaying of diseases, and the happiness that is the warding off of fear; the intention is 'allay our diseases and ward off fear'. If one considers the relation between *śaṃyu*, which has the form of happiness, and *śaṃyu*, the son of Bṛhaspati [?] [the Kannada: 'Śaṃyu, the Bṛhaspati-son'], then the suitability of the word *śaṃyoḥ* in the Ṛk, which prays to Bṛhaspati, is well understood. (In Ṛks such as 1-4[?]-3 [as read [?]], also when other deities are prayed to, *śaṃyu* means happiness.) The son of Bṛhaspati is named Śaṃyu.
+**Śaṃ yoḥ** — "*śam* means happiness *yoḥ*: *śamanaṃ ca rogāṇāṃ yāvanaṃ bhayānām* (*Ni.* 5-21 as read) — that is, the happiness that is the allaying of diseases, and the happiness that is the warding off of fear; the intention is 'allay our diseases and ward off fear'. If one considers the relation between *śaṃyu*, which has the form of happiness, and *śaṃyu*, the son of Bṛhaspati [the Kannada: 'Śaṃyu, the Bṛhaspati-son'], then the suitability of the word *śaṃyoḥ* in the Ṛk, which prays to Bṛhaspati, is well understood. (In Ṛks such as 1-93-7, also when other deities are prayed to, *śaṃyu* means happiness.) The son of Bṛhaspati is named Śaṃyu.
 
 > तच्छंयोरावृणीमहे ।
-> *tac chaṃyor āvṛṇīmahe |* (*Tai. Saṃ.* 2-6-10-2 as read [?])
+> *tac chaṃyor āvṛṇīmahe |* (*Tai. Saṃ.* 2-6-10-2 as read)
 
 — in this the prayer is 'we ask for happiness from Śaṃyu, the son of Bṛhaspati'. In the Ṛk at hand, the sense of *manurhita* — 'beneficial to men': there is a story in the Śatapatha Brāhmaṇa that the happiness which was beneficial to men like this was once taken by Bṛhaspati's son only to the world of the gods and was lost to men:
 
-> अथ शंयोराह । शंयुर्ह वै बार्हस्पत्योऽञ्जसा यज्ञस्य संस्थां विदां चकार स देवलोकमसीयाय तत्तदन्तर्हितमिव मनुष्येभ्य आस ।
-> *atha śaṃyor āha | śaṃyur ha vai bārhaspatyo 'ñjasā yajñasya saṃsthāṃ vidāṃ cakāra sa devalokam asīyāya tat tad antarhitam iva manuṣyebhya āsa |* (*Śa. Brā.* 1-8-1-[?]4 as read [?]; the words as read, "asīyāya" doubtful [?])
+> अथ शंयोराह । शंयुर्ह वै बार्हस्पत्योऽञ्जसा यज्ञस्य संस्थां विदां चकार स देवलोकमपीयाय तत्तदन्तर्हितमिव मनुष्येभ्य आस ।
+> *atha śaṃyor āha | śaṃyur ha vai bārhaspatyo 'ñjasā yajñasya saṃsthāṃ vidāṃ cakāra sa devalokam apīyāya tat tad antarhitam iva manuṣyebhya āsa |* (*Śa. Brā.* 1-9-1-24)
 
 — from this Brāhmaṇa sentence it is understood that Śaṃyu, the son of Bṛhaspati, formerly recognized the excellence of the sacrifice and went to the world of the gods to obtain the happiness which could be got by that knowledge. By the fire, that knowledge was lost to men."
 
@@ -14911,13 +14911,13 @@ O Bṛhaspati, always bring us happiness. We ask for that power of yours, establ
 *(The Śatapatha passage on Śaṃyu continues from p. 553; its middle part is dotted out in the print as lost [".... ....."].)*
 
 > तद्वा ऋषीणामनुश्रुतवास … ते तामेव यज्ञस्य संस्थामुपायंस्तस्माच्छंयुर्बार्हस्पत्यो वेद्यच्छंयोरब्रुवंस्तामेवैष एतद्यज्ञस्य संस्थामुपैति … तस्माद्वै शंयोराह । स प्रतिपद्यते । तच्छंयोरावृणीमह इति ।
-> *tad vā ṛṣīṇām anuśrutavāsa … te tām eva yajñasya saṃsthām upāyaṃs tasmāc chaṃyur bārhaspatyo vedy acchaṃyor abruvaṃs tām evaiṣa etad yajñasya saṃsthām upaiti … tasmād vai śaṃyor āha | sa pratipadyate | tac chaṃyor āvṛṇīmaha iti |* (*Śa. Brā.* 1-9-1-[?]4, 3[?] as read [?]; the gaps and several words are as printed [".... ...."] and read with doubt [?])
+> *tad vā ṛṣīṇām anuśrutavāsa … te tām eva yajñasya saṃsthām upāyaṃs tasmāc chaṃyur bārhaspatyo vedy acchaṃyor abruvaṃs tām evaiṣa etad yajñasya saṃsthām upaiti … tasmād vai śaṃyor āha | sa pratipadyate | tac chaṃyor āvṛṇīmaha iti |* (*Śa. Brā.* 1-9-1-25; the gaps and several words are as printed [".... ...."] and read with doubt [?])
 
 "Thus the matter became known to the ṛṣis; afterwards, having uttered the mantra beginning *śaṃyoḥ*, they procured this form of happiness for the welfare of men — so the story is explained. Therefore, in a Ṛk addressed to Bṛhaspati, when the prayer is made desiring a happiness which both allays diseases and wards off fear, the propriety [of the word *śaṃyoḥ*] may be said to be the greater."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.5)** *(grammar page, noted briefly; numerals small and doubtful [?])*
 
-Grammar page, noted briefly. *Bṛhaspate* (*tadbṛhatoḥ karapatyoś coradevatayoḥ*, Pā. Sū. 6-1-157 as read [?]: the augment *suṭ* and loss of *t* for the prior member; since it is in the *vanaspatyādi* group, both members keep their accent at once; here, because the vocative is at the beginning of the pāda, the initial acute by *āmantritasya ca*, Pā. Sū. 6-1-198 as read [?]). *Sugam* (*suṣṭhu gamyate 'smin iti sugam*; by the vārttika *sudurorādhikaraṇe* the suffix *ḍa* in the locative sense after *gam*; by *ḍit*, loss of the *ṭi* of the root; the accent of the *kṛdanta* latter member of the compound). *Kṛdhi* (root *ḍukṛñ karaṇe*; *loṭ*, second person singular; *hi* for *sip*, *dhi* by *hi* → *dhi* after the *śru-śṛṇu-pṛ-kṛ…* by *śrusṛṇu…*, Pā. Sū. 6-4-102 as read [?]; the loss of the vikaraṇa by *bahulaṃ chandasi*; *nighāta*). *Śaṃyoḥ* (the Nirukta-author has explained these two words thus: '*śamanaṃ ca rogāṇāṃ yāvanaṃ ca bhayānām*', *Ni.* 4-21 as read [?]: 'the cure of diseases and the keeping away of fears'). *Manurhitam* (root *mana jñāne*; the Uṇādi suffix *usi*; the word *manus*; the accent *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]: initial acute; *manunā hitam manurhitam*; *tṛtīyā karmaṇi*, Pā. Sū. 6-2-48 as read [?]: the accent of the prior member). The Rik is closed with *‖ 5 ‖* and a rule of dashes.
+Grammar page, noted briefly. *Bṛhaspate* (*tadbṛhatoḥ karapatyoś coradevatayoḥ*, Pā. Sū. 6-1-157 as read: the augment *suṭ* and loss of *t* for the prior member; since it is in the *vanaspatyādi* group, both members keep their accent at once; here, because the vocative is at the beginning of the pāda, the initial acute by *āmantritasya ca*, Pā. Sū. 6-1-198 as read). *Sugam* (*suṣṭhu gamyate 'smin iti sugam*; by the vārttika *sudurorādhikaraṇe* the suffix *ḍa* in the locative sense after *gam*; by *ḍit*, loss of the *ṭi* of the root; the accent of the *kṛdanta* latter member of the compound). *Kṛdhi* (root *ḍukṛñ karaṇe*; *loṭ*, second person singular; *hi* for *sip*, *dhi* by *hi* → *dhi* after the *śru-śṛṇu-pṛ-kṛ…* by *śrusṛṇu…*, Pā. Sū. 6-4-102 as read; the loss of the vikaraṇa by *bahulaṃ chandasi*; *nighāta*). *Śaṃyoḥ* (the Nirukta-author has explained these two words thus: '*śamanaṃ ca rogāṇāṃ yāvanaṃ ca bhayānām*', *Ni.* 4-21 as read: 'the cure of diseases and the keeping away of fears'). *Manurhitam* (root *mana jñāne*; the Uṇādi suffix *usi*; the word *manus*; the accent *ñnityādir nityam*, Pā. Sū. 6-1-197 as read: initial acute; *manunā hitam manurhitam*; *tṛtīyā karmaṇi*, Pā. Sū. 6-2-48 as read: the accent of the prior member). The Rik is closed with *‖ 5 ‖* and a rule of dashes.
 
 ---
 
@@ -14925,7 +14925,7 @@ Grammar page, noted briefly. *Bṛhaspate* (*tadbṛhatoḥ karapatyoś coradeva
 
 *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 555.)*
 
-## Rik 106.6 — printed pp. 555–[?]
+## Rik 106.6 — printed pp. 555–557
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.6)**
 
@@ -14968,9 +14968,9 @@ The ṛṣi named Kutsa, thrown into a well, called on Indra — the destroyer o
 
 **॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.6)**
 
-**Kāṭe** — "since the word *kāṭa* is read among the names of 'well' (*Ni.* 3-[?]9 as read [?]), *kāṭe* means 'in the well'."
+**Kāṭe** — "since the word *kāṭa* is read among the names of 'well' (*Ni.* 3-19), *kāṭe* means 'in the well'."
 
-**Nibāḷhaḥ** — *nipātitaḥ |* "'thrown, fallen', says Sāyaṇa; and '*nibāḍha iti niśabdaḥ prakarṣe | niṣkaṣkaṃ niruktam iti yathā atiśayena bādhyate 'sau iti nibāḷhaḥ | kūpe ati sambādhatvāt*' [Skandasvāmin] — 'the word *ni* is in the sense of excess: as in *niṣkaṣka* and *nirukta*, in which the prefix *niḥ* gives the sense "exceedingly", here also the sense "exceedingly" is given: *nibāḷha* is "the one who is extremely harassed" — since in a well one is exceedingly confined": Skandasvāmin also explains this word as 'Trita, who suffers intensely in the deep well' [?]."
+**Nibāḷhaḥ** — *nipātitaḥ |* "'thrown, fallen', says Sāyaṇa; and '*nibāḍha iti niśabdaḥ prakarṣe | niṣkaṣkaṃ niruktam iti yathā atiśayena bādhyate 'sau iti nibāḷhaḥ | kūpe ati sambādhatvāt*' [Skandasvāmin] — 'the word *ni* is in the sense of excess: as in *niṣkaṣka* and *nirukta*, in which the prefix *niḥ* gives the sense "exceedingly", here also the sense "exceedingly" is given: *nibāḷha* is "the one who is extremely harassed" — since in a well one is exceedingly confined": Skandasvāmin also explains this word as 'Trita, who suffers intensely in the narrow well'."
 
 *(continued on p. 557)*
 
@@ -14980,11 +14980,11 @@ The ṛṣi named Kutsa, thrown into a well, called on Indra — the destroyer o
 
 *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 557.)*
 
-**Śacīpatim** — "the word *śacī* is read among the names of speech (*Ni.* 1-[?]1 [print: 2-[?]1]), among the names of action (*Ni.* 3-19) and among the names of wisdom (*Ni.* 3-[?]9 [?]); and *Śacī* is also the name of Indrāṇī. Therefore *śacīpati* means either the lord of speech [praise], or the lord of works, or the husband of Indrāṇī."
+**Śacīpatim** — "the word *śacī* is read among the names of speech (*Ni.* 2-23), among the names of action (*Ni.* 3-1) and among the names of wisdom (*Ni.* 3-13); and *Śacī* is also the name of Indrāṇī. Therefore *śacīpati* means either the lord of speech [praise], or the lord of works, or the husband of Indrāṇī."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.6)** *(grammar page, noted briefly; numerals small and doubtful [?])*
 
-Grammar page, noted briefly. *Vṛtrahaṇam* (*vṛtraṃ hatavān vṛtrahā*; root *han hiṃsāgatyoḥ*; the suffix *kvip* in the past sense by *brahmabhrūṇavṛtreṣu kvip*, Pā. Sū. 3-2-87 as read [?]; accusative singular: since the rule that the penult is lengthened is restricted by *inhanpūṣāryamṇāṃ śau*, Pā. Sū. 6-4-15 as read [?], there is no lengthening of the penult here). *Śacīpatim* (since this is read in the *vanaspatyādi* group by *ubhe vanaspatyādiṣu*, Pā. Sū. 6-2-140 as read [?]; the word *śacī* ends in *ī* [*jīnanta*] and has the initial acute). *Nibāḷhaḥ* (root *bāhṛ prayatne*; it is used in the sense of falling by virtue of the prefix *ni*: that the sense of a root changes by the prefix has been said before; the suffix *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; the *iṭ* augment is not applied by the statement *āgamānuśāsanam anityam*; *ḍhatva* for the *h* by *hoḍhaḥ*, Pā. Sū. 8-2-31 as read [?]; *ṣṭutva* for the *t* of the suffix by *jhaṣas tathor dho 'dhaḥ*, Pā. Sū. 8-2-40 as read [?]; *ṣṭutva*; loss of the first *ḍh* by *ḍho ḍhe lopaḥ*, Pā. Sū. 8-3-13 as read [?]; or, by *dṛḍhaśabda…* [as printed: *bhṛśārthe iḍabhāvaḥ nipātitaḥ*, by *kṣubdhasvāntadhvāntalagnamliṣṭaviribdhaphāṇṭabāḍhāni mantharabhṛśeṣu*, Pā. Sū. 6-2-18 as read [?]], the absence of *iṭ* is established as a *nipātana* in the sense of 'exceedingly'; here the word *bāḍha* because of its power has the sense of falling; the accent of the prior member *ni* by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]). *Ahvat* (root *hveñ spardhāyāṃ śabde ca*; *luṅ*, third person singular, *tip*; *ṅ* for *cli* [*aṅ*] by *luñi ca*..., [print: *cler luṅi*], Pā. Sū. 3-1-44 as read [?]; *aṅ* substitution by *lipisicihvaś ca*, Pā. Sū. 3-1-53 as read [?]; *ā* for the vowel by *ādeca upadeśe 'śiti*, Pā. Sū. 6-1-45 as read [?]; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; the *aṭ* augment for the aorist; *nighāta*). The Rik is closed with *‖ 6 ‖* and an ornament.
+Grammar page, noted briefly. *Vṛtrahaṇam* (*vṛtraṃ hatavān vṛtrahā*; root *han hiṃsāgatyoḥ*; the suffix *kvip* in the past sense by *brahmabhrūṇavṛtreṣu kvip*, Pā. Sū. 3-2-87 as read; accusative singular: since the rule that the penult is lengthened is restricted by *inhanpūṣāryamṇāṃ śau*, Pā. Sū. 6-4-12, there is no lengthening of the penult here). *Śacīpatim* (since this is read in the *vanaspatyādi* group by *ubhe vanaspatyādiṣu*; the word *śacī* ends in *ī* [*jīnanta*] and has the initial acute). *Nibāḷhaḥ* (root *bāhṛ prayatne*; it is used in the sense of falling by virtue of the prefix *ni*: that the sense of a root changes by the prefix has been said before; the suffix *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read; the *iṭ* augment is not applied by the statement *āgamānuśāsanam anityam*; *ḍhatva* for the *h* by *hoḍhaḥ*, Pā. Sū. 8-2-31 as read; *ṣṭutva* for the *t* of the suffix by *jhaṣas tathor dho 'dhaḥ*, Pā. Sū. 8-2-40 as read; *ṣṭutva*; loss of the first *ḍh* by *ḍho ḍhe lopaḥ*; or, by *dṛḍhaśabda…* [as printed: *bhṛśārthe iḍabhāvaḥ nipātitaḥ*, by *kṣubdhasvāntadhvāntalagnamliṣṭaviribdhaphāṇṭabāḍhāni mantharabhṛśeṣu*, Pā. Sū. 7-2-18], the absence of *iṭ* is established as a *nipātana* in the sense of 'exceedingly'; here the word *bāḍha* because of its power has the sense of falling; the accent of the prior member *ni* by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read). *Ahvat* (root *hveñ spardhāyāṃ śabde ca*; *luṅ*, third person singular, *tip*; *ṅ* for *cli* [*aṅ*] by *luñi ca*..., [print: *cler luṅi*]; *aṅ* substitution by *lipisicihvaś ca*, Pā. Sū. 3-1-53 as read; *ā* for the vowel by *ādeca upadeśe 'śiti*, Pā. Sū. 6-1-45 as read; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read; the *aṭ* augment for the aorist; *nighāta*). The Rik is closed with *‖ 6 ‖* and an ornament.
 
 ---
 ### Page 558 (PDF 578)
@@ -15034,13 +15034,13 @@ May Aditi, the divine one, the mother of all the gods, together with all the god
 
 **॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.7)**
 
-**Aditiḥ** — *aditir adīnā devamātā |* (*Ni.* 4-22 as read [?]) "'the goddess Aditi, whose power is not depleted, the mother of the gods': to understand the nature of Aditi in this way and to describe her various forms —
+**Aditiḥ** — *aditir adīnā devamātā |* (*Ni.* 4-22 as read) "'the goddess Aditi, whose power is not depleted, the mother of the gods': to understand the nature of Aditi in this way and to describe her various forms —
 
 > अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः ।
 > विश्वे देवा अदितिः पञ्चजना अदितिर्जातमदितिर्जनित्वम् ॥
 > *aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ | viśve devā aditiḥ pañcajanā aditir jātam aditir janitvam ‖* (*Ṛ. Saṃ.* 1-89-10 as read)
 
-— the Nirukta-author has cited this Ṛk. In this Ṛk the indivisible Aditi is described as the giver of birth to the whole world: she is the mother of the world, and the father; she begets the world; the source of everything born; she is the heavenly world, the mid-region, and all that exists; the five classes of people, whose nature is described by caste [?] and the Niṣādas; she alone is all the gods; she is the shining heaven; she is the mid-region; she is the whole world; she alone is the governor of the world. Aditi, who has such immeasurable qualities, is commonly addressed as *devī aditiḥ*."
+— the Nirukta-author has cited this Ṛk. In this Ṛk the indivisible Aditi is described as the giver of birth to the whole world: she is the mother of the world, and the father; she begets the world; the source of everything born; she is the heavenly world, the mid-region, and all that exists; the five classes of people, whose nature is described by caste and the Niṣādas; she alone is all the gods; she is the shining heaven; she is the mid-region; she is the whole world; she alone is the governor of the world. Aditi, who has such immeasurable qualities, is commonly addressed as *devī aditiḥ*."
 
 ---
 
