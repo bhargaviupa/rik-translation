@@ -4432,6 +4432,172 @@ roving, of fickle nature; hence what is now prepared does not reach me: this is 
 > किं न॑ इंद्र जिघांससि॒ भ्रात॑रो म॒रुत॒स्तव॑ ।  
 > तेभिः॑ कल्पस्व साधु॒या मा नः॑ स॒मर॑णे वधीः ॥ २ ॥
 
+### Printed p. 181
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । नः । इंद्र । जिघांससि । भ्रातरः । मरुतः । शव ।  
+> तेभिः । कल्पस्व । साधुया । मा । नः । संअरणे । वधीः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमगस्त्यवाक्यं । हे इंद्र नोऽस्थाननपराधिनः किं जिघांससि । हंतुमिच्छसि ।
+> कथमवध्यत्वमिति अत आह । मरुतस्तव भ्रातरः । त्वया भोगप्रदानेन भरणीया
+> इत्यर्थः । अतो वयमवध्या इत्युक्तं भवति । मरुतामिंद्रभ्रातृत्वमेकस्मिन्नेवादितिगर्भ उत्पन्नत्वात् । सा चोत्पत्तिः पुराणेषु प्रसिद्दा । संतु भ्रातरस्ततश्च किमिति आत
+> आह । तेभिस्तैर्मरुद्धिः सह साधुया साधु त्वं कल्पस्व । कल्पय हविर्भागं तैः सह
+> युद्धं वा । नोऽस्मान् समरणे संग्रामे मा वधीः । मा हिंसीः । यद्वा ।
+> लुप्तो दृष्टांतः । संग्रामे यथा विरोधिनं हंसि न तथास्मानिति ॥
+
+##### Gist of the bhāṣya
+
+This is Agastya's speech. "O Indra, why do you wish to kill us, who are without offence?" How are we not to be killed? To this he says: the Maruts are your brothers, that is, they are to be maintained by you through your granting of enjoyment; hence we are not to be killed. The Maruts' brotherhood with Indra rests on their having been born in the one womb of Aditi, and that origin is well known in the Purāṇas. "Let them be brothers; what then?" To this he says: "with those Maruts, act kindly" — arrange the share of the oblation with them, or else war with them. "Do not kill us in the samaraṇa, the battle." Or else, a simile is omitted: as you strike an enemy in battle, so do not strike us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे (*he*)) इंद्र (*iṃdra*)—O Indra
+- मरुतः (*marutaḥ*)—the Marut deities
+- तव भ्रातरः (*tava bhrātaraḥ*)—your brothers (those to be nourished by you)
+- नः (*naḥ*)—us (who are without offence)
+- किं (*kiṃ*)—why
+- जिघांससि (*jighāṃsasi*)—do you wish to kill?
+- तेभिः (*tebhiḥ*)—with those Marut deities
+- साधुया (*sādhuyā*)—in a peaceful manner
+- कल्पय (*kalpaya*)—arrange (share the share of the oblation)
+- नः (*naḥ*)—us
+- सं अरणे (*saṃ araṇe*)—in battle (in war)
+- मा वधीः (*mā vadhīḥ*)—do not injure (do not kill)
+
+##### भावार्थ (Bhāvārtha)
+
+(Agastya speaks to Indra.) O Indra, the Maruts are under your nourishing care (your brothers). Why do you wish to kill us, who are without offence? Peacefully share the oblation with them; do not kill us in battle (in enmity).
+
+##### English translation (H. H. Wilson)
+(Agastya),— Why, Indra, do you purpose to slay us : the Maruts are your brethren : share with them (the offering) in peace ; destroy us not in enmity.
+
+### Printed p. 182
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta, which takes the form of a dialogue between Indra and the sage Agastya, the first mantra states that Indra, having understood that Agastya intends to offer to the Maruts the oblation prepared for himself, expressed his regret. That Agastya gave Indra an answer is evident from this mantra. This is what Sāyaṇa describes in the bhāṣya as इदमगस्त्यवाक्यं (*idamagastyavākyaṃ*).
+Addressing Indra, नः किं जिघांससि (*naḥ kiṃ jighāṃsasi*)—अस्मान् अनपराधिनः हंतुमिच्छसि किं (*asmān anaparādhinaḥ haṃtumicchasi kiṃ*): by way of a question the sage gives the answer that we, who have done no wrong and are not guilty, should not be subjected to punishment; and to show the reason why we sages do not deserve punishment, he also says the sentence मरुतः तव भ्रातरः (*marutaḥ tava bhrātaraḥ*). त्वया भोगप्रदानेन भरणीयाः (*tvayā bhogapradānena bharaṇīyāḥ*): since the Maruts are nourished by you through your producing enjoyment, we, who wish to offer the oblation to your dependents, are not to be killed; this is the meaning described.
+Yāska explains the word bhrātṛ, formed from the root bhṛ, as one who obtains a share or one fit to be maintained: भ्राता भरतेर्हरतिकर्मणो हरते भागं भर्तव्यो भवतीति वा (*bhrātā bharaterharatikarmaṇo harate bhāgaṃ bhartavyo bhavatīti vā*) (Ni. 4-26). Sāyaṇa explains that the Maruts are Indra's brothers because they were born in the very womb of Indra's mother Aditi (एकस्मिन्नेवादितेर्गर्भ उत्पन्नत्वात् (*ekasminnevāditergarbha utpannatvāt*)), and that सा च उत्पत्तिः पुराणादिशु प्रसिद्धा (*sā ca utpattiḥ purāṇādiśu prasiddhā*)—the manner of the Maruts' birth is well known in the Purāṇas and other works. This matter is also stated in the Bṛhaddevatā.
+तेभिः साधुया कल्पस्व (*tebhiḥ sādhuyā kalpasva*)—तैर्मरुद्भिस्सह साधुत्वं कल्पय हविर्भागं तैसह युद्धं वा (*tairmarudbhissaha sādhutvaṃ kalpaya havirbhāgaṃ taisaha yuddhaṃ vā*): Agastya, addressing Indra, says: adopt a kindly attitude with your brothers, and either grant them a share of the oblation or else fight with them.
+नः समरणे मा वधीः (*naḥ samaraṇe mā vadhīḥ*)—संग्रामे यथा विरोधिनं हंसि (*saṃgrāme yathā virodhinaṃ haṃsi*): do not injure us as you kill an enemy in battle; this answer too is given. One interpretation takes the word of comparison in this sentence to be omitted; another meaning is given: do not wage a war that has no connection with a simile and kill us. The word samaraṇa is stated among the names of battle (Ni. 3-9), and as सह मरणं यस्मिन् (*saha maraṇaṃ yasmin*) it is described as war, the situation in which death comes together to many creatures.
+
+### Printed p. 183
+
+##### Grammar
+
+- जिघांससि — हन हिंसागत्योः धातुः । धातोः कर्मणः समा—(पा. सू. ३-१-७) इति इच्छार्थे सन् । अज्जनगमां सनि (पा. सू. ६-४-१६) इति धातोः उपधायाः दीर्घः । सन्यजोः इति द्वित्वम् । अभ्यासाच्च (पा. सू. ७-३-५५) इति धातोः हकारस्य कुत्वम् । सन्यतः इति सूत्रेण अभ्यासस्य इत्वम् । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- भ्रातरः — भ्राज्य दीप्तौ धातुः । नप्तृनेष्ट्रु—(उ.सू. २५२) इति तृन्नंततया निपातितः ।
+- तेभिः — बहुलं छंदसि इति ऐस्‌भावस्य विकल्पितत्वात् एत्वम् ।
+- कल्पस्व — कृपू सामर्थ्य्ये धातुः । लोट् मध्यमपुरुष एकवचनांतरूपम् । थासः से इति प्रत्ययस्य से आदेशे सवाभ्यांवाम् इति टेः वत्वम् । शप् निमित्ततया धातोः लघूपधायाः गुणः । रपरत्वे कृपो रोलः (पा. सू. ८-२-१८) इति लत्वम् । तिजंतनिघातस्वरः भवति ।
+- साधुया — साधुशब्दस्य तृतीयाएकवचने परे सुपांसुलुक् (पा. सू- ७-१-३९) इति तस्य याचादेशः । चितः(पा.सू. ६-१-१६३) इति अंतोदात्तस्वरः भवति ।
+- वधीः — हन हिंसागत्योः धातुः । माजिलुज् (पा. सू ३-३-१७५) इति माज् उपपदे लुज् । मध्यमपुरुष एकवचने सिप् आगते इकारलोपः । हनोवधलिज् इति अनुवृत्ते लुजिचॆ (पा. सू. २-४-४३) इति धातोः वधादेशः । च्चेः सिचादेशः । इट ईटि (पा.सू. ८-२-२८) इति तस्य लोपः । न माण्योगे (पा. सू. ६-४-७४) इति अडागमः न आगच्छति । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं नो॑ भ्रातरगस्य॒ सखा॒ सन्नति॑ मन्यसे ।  
+> वि॒द्या हि ते॒ यथा॒ मनो॒ऽस्मभ्य॒मिन्न दि॑त्ससि ॥ ३ ॥
+
+### Printed p. 184
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । नः । भ्रातः । अगस्त्य । सखा । सन् । अति । मन्यसे ।  
+> विद्यॆ । हि । ते । यथा । मनः । अस्मभ्यं । इत् । न । दित्ससि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमिंद्रवाक्यं । हे भ्रातः हे अगस्त्य । हविष्टदानवरप्रदानाभ्यां
+> परस्परोपकारत्वाद्भातृत्वं । तादृशस्त्वं सखा सन्नस्मद्धितकार्यपि सन्नोऽस्मान्किमति
+> मन्यसे । कस्मादपराधादतिक्रम्य मनुषे । अपलपसि । नायमपलापः किंतु तथ्यमेवेति चेत् उच्यते । गंतव्यं ते तव मनो मानसं यथा यथावस्तु विद्म ।
+> जानीमः । कथं जानीथेति उच्यते । अस्मभ्यमिन्न दित्ससि । अस्मदर्थं निरुप्तमस्मभ्यं
+> दातुं नेच्छस्येव । इदेवार्थे ॥
+
+##### Gist of the bhāṣya
+
+This is Indra's speech. "O brother, O Agastya": brotherhood arises from mutual benefit, by the gift of the oblation and the granting of a boon. Though you, such a one, are a friend and one who acts for our good, why do you disregard us? Out of what offence do you pass over and "think" (manuṣe)? You deny. If it is said, "this is not a denial but the truth," it is replied: we know your mind as it is. How? "You do not wish to give to us": what was set apart for us you do not wish to give to us at all. The word इत् (*it*) is in the sense of *eva*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे भ्रातः अगस्त्य (*he bhrātaḥ agastya*)—O brother Agastya
+- सखा सन् (*sakhā san*)—though a friend to me (though a benefactor)
+- नः (*naḥ*)—us
+- किं अति मन्यसे (*kiṃ ati manyase*)—why do you disregard?
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- यथा (*yathā*)—truly
+- विद्म हि (*vidma hi*)—we have indeed known
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- न दित्ससि इत् (*na ditsasi it*)—you do not wish to give (oblations and the rest) at all
+
+##### भावार्थ (Bhāvārtha)
+
+O brother (Agastya), though you are my friend (a benefactor), why do you treat me with disregard? We know well that you have no wish to give us the oblations and the rest.
+
+##### English translation (H. H. Wilson)
+(Indra),—Wherefore, brother Agastya, do you, who are my friend, treat me with disregard ? Verily, we know what is in your mind : you do not intend to give us anything.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa explains that Indra spoke this utterance, and that he addressed the sage Agastya as हे भ्रातः (*he bhrātaḥ*); and he justifies Indra's brotherhood with Agastya by *haviṣpadānavarapradā-
+
+### Printed p. 185
+nābhyāṃ parasparopakārakatvāt*—it arises from rites of mutual benefit: Indra's granting a boon and the sage Agastya's offering the oblation to Indra.
+*sakhā san naḥ kiṃ atimanyase*—this sentence shows the reproach Indra makes. When there is mutual benefit between us two, you (Agastya), अस्मद्धितकार्य्यपि सर् (*asmaddhitakāryyapi sar*), though engaged in acting for our good, conceal the intention you hold concerning us. कस्मादपराधमतिक्रम्य मनुषे (*kasmādaparādhamatikramya manuṣe*): you think that you have committed no offence. If, as you said before, trust is placed in your word, our share of the oblation will be offered to the Maruts. Because of this you commit an excess against me and impute it to me as my offence (that Indra has left the Maruts without oblation); this meaning is understood from the word अपलपसि (*apalapasi*).
+The intention set out in the preceding Ṛk exposes Indra's fault and, as an offence committed by Agastya against Indra, is explained as नायं अपलापः किंतु तथ्यमेव (*nāyaṃ apalāpaḥ kiṃtu tathyameva*); the reply to it is said to be given by the next sentence.
+गन्तव्यं, ते मनः यथा विद्म— (*gantavyaṃ, te manaḥ yathā vidma—*)—by the word गंतव्यं (*gaṃtavyaṃ*) is suggested the attitude that Indra, knowing the sage Agastya's intention, either accepted it or disregarded and rejected it. It is explained as: all the intention of your mind is fully known to me. That intention of your mind, अस्मभ्यमिन्न दित्ससि (*asmabhyaminna ditsasi*), is that you are not willing to prepare the oblation for us and offer it to us; by the sentence अस्मदर्थं निरुप्तमस्मभ्यं दातुं नेच्छस्येव (*asmadarthaṃ niruptamasmabhyaṃ dātuṃ necchasyeva*), which teaches this meaning, Indra maintains that your unwillingness to give us what was set apart for us is your offence.
+
+##### Grammar
+
+- मन्यसे — मन ज्ञाने धातुः । दिवादिः । लट् मध्यमपुरुष एकवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- विद्म — विद ज्ञाने धातुः । अदादिः । लट् उत्तमपुरुष बहुवचने मस् प्रत्ययः । विदो लटो वा (पा. सू. ३-४-८३) इति तस्य मादेशः । अदिप्रभृतिभ्यः शपः इति शपः लुक् । पादादित्वात् निघातस्वरः न भवति । प्रत्ययस्वरेण अंतोदात्तः भवति । द्व्यचोतस्तिजः (पा.सू. ६-३-१३५) इति संहितायां दीर्घः भवति ।
+
+### Printed p. 186
+- दित्त्वसि — डुदाञ् दाने धातुः । धातोः कर्मणः स-(पा. सू. ३-१-७) इति इच्छार्थे सन् । सन्यजोः इति धातोः द्वित्वम् । सनिमीमाघुरभ-(पा. सू. ७-४-५४) इति धातोः आकारस्य इसादेशः । अत्रलोपोभ्यासस्य (पा. सू. ७-४-५८) इति अभ्यासस्य लोपः । सः स्यार्धधातुके (पा. सू. ७-४-४९) इति पूर्वसकारस्य तकारादेशः । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं॑ कृण्वंतु॒ वेदिं॒ सम॒ग्नि मिं॑धतां पु॒रः ।  
+> तत्रा॒मृत॑स्य॒ चेत॑नं य॒ज्ञं ते॑ तनवावह्यॆ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरं । कृण्वंतु । वेदिं । सं । अग्निं । इंधतां । पुरः ।  
+> तत्र । अमृतस्य । चेतनं । यज्ञं । ते । तनवावहै ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमिंद्रवाक्यं । अपरेऽगस्त्यवाक्यमाहुः । हे यत्विजो यूयं अगस्योऽ
+> द्गीकृतवान् तस्माद्वेदिमरंकृण्वंतु । संमार्जनपर्युक्षणादिना परिचरंतु । तथा
+> पुरः पुरस्तादग्नि माहवनीयादिकं संमिंधतां । इद्धप्रक्षेपेण प्रज्वालयंतु ।
+> शत्राग्नावमृतस्यामरणलक्षणस्य वेदत्वस्य चेतनं प्रज्ञापकं यज्ञं हे अगस्त्य ते
+> त्वदीयं त्वं चाहं च तनवावहै ॥ अगस्त्यवाक्यपक्षे शिष्टमवशिष्टं । तत्र वेद्याममृतस्य तत्साधनस्य हविषो वा चेतनं प्रज्ञापनमासादनं कुरुत । आवां
+> पत्नीयजमानौ अध्वर्युयजमान् ना हे इंद्र ते त्वदर्थं यज्ञं तनवावहै ॥
+
+##### Gist of the bhāṣya
+
+This is Indra's speech; others say it is Agastya's. "O priests, since Agastya has made the sacrifice (?) of you, let them make the altar ready": let them attend to it by sweeping, sprinkling and the like. Likewise let them kindle in front the Āhavanīya and other fires by putting in fuel. **NOTE**. There, in that fire, the sacrifice that gives knowledge (cetana) of the immortal, that is, of the state of not dying, "I and you, O Agastya, shall perform, yours". On the view that it is Agastya's speech, शिष्टमवशिष्टं (*śiṣṭamavaśiṣṭaṃ*): on the altar make the placing (āsādana) of the immortal, or of the oblation that is its means. "We two, the wife and the sacrificer, or the adhvaryu and the sacrificer, O Indra, shall perform the sacrifice for you."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे ऋत्विजः (*he ṛtvijaḥ*))—(O priests, you)
+- वेदिं (*vediṃ*)—the altar ground
+- अरं कृण्वंतु (*araṃ kṛṇvaṃtu*)—adorn by sweeping and the like
+- पुरः (*puraḥ*)—in front
+- अग्निं (*agniṃ*)—the Āhavanīya and other fires
+- सं इंधंतु (*saṃ iṃdhaṃtu*)—kindle with fuel and the like
+- (ऎलै अगस्त्यने (*èlai agastyane*))—(O Agastya)
+- तत्र (*tatra*)—in that kindled fire
+- अमृतस्य (*amṛtasya*)—of the immortal (of knowledge)
+- चेतनं (*cetanaṃ*)—that makes known (and)
+- ते (*te*)—your
+
 ---
 
-**Progress note:** Done through printed p. 180. pp. 175-180 (batch API), Saṃhitā block put under Ṛk 1; placeholder remark removed
+**Progress note:** Done through printed p. 186. pp. 181-186 (batch API)

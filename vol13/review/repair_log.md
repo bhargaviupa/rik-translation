@@ -1,2 +1,3 @@
 - 2026-11-27: rig_13.md: 21 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
 - 2026-11-27: Vol 13 w0073: 'your "ūti"s,' removed and '"vāja"s' replaced by the copy ⟦ವಾಜಾಃ⟧ from kn.md (Sanskrit typed in Latin letters).
+- 2026-11-27: Vol 13 w0175 (p. 175/176, Sūkta 170): the Saṃhitā block of Ṛk 1 had been placed under the sūkta heading with a placeholder remark; moved under the Ṛk 1 Saṃhitā label, remark removed (the supplied text has no Sāyaṇa introduction block of Sūkta 170 in these pages).
