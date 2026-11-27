@@ -34,6 +34,9 @@
 *[೨ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೭. ಸೂ. ೬೮]*
 
 ಅನುವಾದವು—ಋಗ್ವೇದಸಂಹಿತೆಯ ಎಂಟನೇ ಮಂಡಲದಲ್ಲಿ ಏಳನೆಯ ಅನುವಾಕದಲ್ಲಿ ಒಟ್ಟು ಹತ್ತು ಸೂಕ್ತಗಳಿರುವವು. ಅವುಗಳಲ್ಲಿ ಎಂಟು ಸೂಕ್ತಗಳನ್ನು ಹಿಂದಿನ ಅಧ್ಯಾಯದಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. ಈಗ ಆ ತ್ವಾ ರಥಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಈ ಅನುವಾಕದಲ್ಲಿ ಒಂಭತ್ತನೆಯದು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ತ್ವೈಕೋನಾ ಪ್ರಿಯಮೇಧ ಆದಾವನುಷ್ಟುಪ್ಖಾಸ್ತೃಚಾಶ್ಚತ್ವಾರೋಽನ್ತ್ಯಾಃ ಷಳೃಕ್ಷಾಶ್ವಮೇಧಯೋರ್ದಾನಸ್ತುತಿಃ ಎಂದು ಹೇಳಿರುವುದು. ಈ ಸೂಕ್ತಕ್ಕೆ ಅಂಗಿರಸಪುತ್ರನಾದ ಪ್ರಿಯಮೇಧನೆಂಬುವನು ಋಷಿಯು; ಈ ಸೂಕ್ತದ ಒಂದು, ನಾಲ್ಕು, ಏಳು ಮತ್ತು ಹತ್ತನೆಯ ಋಕ್ಕುಗಳು ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಕವು; ಉಳಿದ ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀ ಛಂದಸ್ಕವು. ಕೊನೆಯ ಆರು ಋಕ್ಕುಗಳಲ್ಲಿ ಋಕ್ಷ ಮತ್ತು ಅಶ್ವಮೇಧ ಎಂಬಿಬ್ಬರ ದಾನಪ್ರಶಂಸೆಯು ಉಕ್ತವಾಗಿದೆ. ಆದುದರಿಂದ ಆ ಋಕ್ಕುಗಳಿಗೆ ಅವರ ದಾನಸ್ತುತಿಯೇ ದೇವತೆಯು. ಉಳಿದ ಋಕ್ಕುಗಳಿಗೆ ಇಂದ್ರನು ದೇವತೆಯು. ಸೂಕ್ತವಿನಿಯೋಗವು ಲೈಂಗಿಕವು. ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಪ್ರತಿಪತ್ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಆ ತ್ವಾ ರಥಂ ಯಥೋತಯ ಇದಂ ವಸೋ ಸುತಮಂಧ ಇತಿ ಮರುತ್ವತೀಯಸ್ಯ ಪ್ರತಿಪದನುಚರೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧೪) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಮಹಾವ್ರತಾದಿ ಇಷ್ಟಿಗಳಲ್ಲಿಯೂ ಪ್ರತಿಪತ್ತೃಚಗಳಿಗಾಗಿ ಬೇರೆ ಮಂತ್ರಗಳನ್ನು ಪಠಿಸಬೇಕೆಂಬ ನಿರ್ದಿಷ್ಟವಿಧಿಯು ಇಲ್ಲದಿದ್ದರೆ ಆಗ ಮೇಲೆ ಹೇಳಿದ ಈ ತೃಚವನ್ನೇ ಪ್ರತಿಪತ್ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೬೮ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೬೮
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೬೮ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೧, ೨, ೩, ೪ ॥
@@ -41,6 +44,8 @@
 ಋಷಿಃ—ಪ್ರಿಯಮೇಧಃ ॥
 ದೇವತಾ—೧-೧೩. ಇಂದ್ರಃ । ೧೪-೧೯. ಋಕ್ಷಾಶ್ವಮೇಧಯೋರ್ದಾನಸ್ತುತಿಃ ।
 ಛಂದ—೧, ೪, ೭, ೧೦. ಅನುಷ್ಟುಪ್ । ೨, ೩, ೫, ೬, ೮, ೯, ೧೧-೧೯. ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -72,6 +77,8 @@
 
 Most powerful Indra, protector of the good, we bring you here, rich in achievement and subduer of enemies, as a car for our protection and weal.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತುವಿಶುಷ್ಮ ತುವಿಕ್ರತೋ ಶಚೀವೋ ವಿಶ್ವಯಾ ಮತೇ ।
@@ -101,6 +108,8 @@ Most powerful Indra, protector of the good, we bring you here, rich in achieveme
 *English Translation.*
 
 Great in power, rich in deeds, mighty one, adorable, you have filled (all things) with your universal majesty.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -132,6 +141,8 @@ Great in power, rich in deeds, mighty one, adorable, you have filled (all things
 *English Translation.*
 
 You mighty one, whose hands in your might grasp the all-pervading golden thunderbolt.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -172,6 +183,8 @@ I invoke (Indra) the lord of that might which subdues all enemies and bows to no
 
 ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ ವಿಶ್ವಾನರಸ್ಯ ವನಸ್ಪತಿಮಿಂದ್ರ ಇತ್ಯೋಮುಪಾ ಏಕ ಇತಿ ಮರುತ್ವತೀಯಸ್ಯ ಪ್ರದಿಪದನುಚರೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ ೭-೬) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿಷ್ಟಯೇ ಸದಾವೃಧಂ ಸ್ವರ್ಮೀಳ್ಹೇಷು ಯಂ ನರಃ ।
@@ -201,6 +214,8 @@ I invoke (Indra) the lord of that might which subdues all enemies and bows to no
 *English Translation.*
 
 (I invoke him) to come to our help, whose might ever waxes more and more,—to whom men appeal for aid in various ways in battles.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -232,6 +247,8 @@ I invoke (Indra) the lord of that might which subdues all enemies and bows to no
 *English Translation.*
 
 (I invoke) Indra, the unlimited, worthy of praise, the mighty, possessing excellent wealth, the lord of treasures (for his votaries).
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -267,6 +284,8 @@ To him, to him, Indra, I direct my praise, that he may quaff the Soma to my grea
 
 ಯಾಗದ ಮೂರನೆಯ ದಿವಸ ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ತಂತಮಿತ್ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು (ಈ ಸೂಕ್ತದ ೭-೯ ಋಕ್ಕುಗಳನ್ನು) ಪ್ರತಿಪತ್ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ತಂತಮಿದ್ರಾಧಸೇ ಮಹೇ ತ್ರಯ ಇಂದ್ರಸ್ಯ ಸೋಮಾಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೧೦) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನ ಯಸ್ಯ ತೇ ಶವಸಾನ ಸಖ್ಯಮಾನಂಶ ಮರ್ತ್ಯಃ ।
@@ -298,6 +317,8 @@ To him, to him, Indra, I direct my praise, that he may quaff the Soma to my grea
 
 You mighty one, whose friendship no mortal reaches, whose might no one attains.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವೋತಾಸಸ್ತ್ವಾ ಯುಜಾಪ್ಸು ಸೂರ್ಯೇ ಮಹದ್ಧನಮ್ ।
@@ -328,6 +349,8 @@ You mighty one, whose friendship no mortal reaches, whose might no one attains.
 *English Translation.*
 
 Protected by you, O thunderer, with you as our ally, may we win great wealth in battles, that we may bathe in the water and behold the sun.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -364,6 +387,8 @@ We address you with sacrificial gifts, (we address) you with songs, O Indra, mos
 
 ಯಾಗದ ನಾಲ್ಕನೆಯ ದಿವಸ ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ತಂ ತ್ವಾ ಯಜ್ಞೇಭಿಃ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು (ಈ ಸೂಕ್ತದ ೧೦-೧೨) ಋಕ್ಕುಗಳನ್ನು ಪ್ರತಿಪತ್ಸೂಚನವನ್ನಾಗಿ ಪಠಿಸ ಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತಂ ತ್ವಾ ಯಜ್ಞೇಭಿರೀಮಹ ಇದಂ ವಸೋ ಸುತಮಂಧ ಇತಿ ಮರುತ್ವತೀಯಸ್ಯ ಪ್ರತಿಪದನುಚರೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೧೧) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯ ತೇ ಸ್ವಾದು ಸಖ್ಯಂ ಸ್ವಾದ್ವೀ ಪ್ರಣೀತಿರದ್ರಿವಃ ।
@@ -395,6 +420,8 @@ We address you with sacrificial gifts, (we address) you with songs, O Indra, mos
 
 You, the thunderer, whose friendship is sweet, sweet too is your liberality, and your sacrifice pre-eminently to be performed.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉರು ಣಸ್ತನ್ವೇ ತನ ಉರು ಕ್ಷಯಾಯ ನಸ್ಕೃಧಿ ।
@@ -424,6 +451,8 @@ You, the thunderer, whose friendship is sweet, sweet too is your liberality, and
 *English Translation.*
 
 Give ample (wealth) to our own selves, give ample (wealth) to our children, give ample (wealth) to our dwelling,—grant us (our desire) that we may live.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -455,6 +484,8 @@ Give ample (wealth) to our own selves, give ample (wealth) to our children, give
 
 We solicit a spacious (road) for our servants, a spacious road for our cattle, a spacious road for our chariot, and (an abundant) sacrifice.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಪ ಮಾ ಷಡ್ದ್ವಾದ್ವಾ ನರಃ ಸೋಮಸ್ಯ ಹರ್ಷ್ಯಾ ।
@@ -484,6 +515,8 @@ We solicit a spacious (road) for our servants, a spacious road for our cattle, a
 *English Translation.*
 
 Six princes come to me in pairs, bearing pleasant gifts, in the exhilaration of the Soma.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -516,6 +549,8 @@ Six princes come to me in pairs, bearing pleasant gifts, in the exhilaration of 
 
 I receive two straight-going steeds from Indrota, two bay from the son of Riksha, two roan from the son of Ashwamedha.
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುರಥಾಂ ಆತಿಥಿಗ್ವೇ ಸ್ವಭೀಶೂಂರಾರ್ಕ್ಷೇ ।
@@ -545,6 +580,8 @@ I receive two straight-going steeds from Indrota, two bay from the son of Riksha
 *English Translation.*
 
 (I receive) two steeds with excellent chariots from the son of Atithigva, two with excellent reins from the son of Riksha, two with excellent ornaments from the son of Ashwamedha.
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -576,6 +613,8 @@ I receive two straight-going steeds from Indrota, two bay from the son of Riksha
 
 I have received together (with my other gifts) six horses with their mares from the pious Indrota, the son of Atithigva.
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಐಷು ಚೇತದ್ವೃಷಣ್ವತ್ಯಂತರೃಜ್ರೇಷ್ವರುಷೀ ।
@@ -605,6 +644,8 @@ I have received together (with my other gifts) six horses with their mares from 
 *English Translation.*
 
 Among these straight-going steeds is numbered a mature roan mare with excellent reins and whip.
+
+#### ಋಕ್ ೧೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -647,6 +688,9 @@ O princes, givers of food, even the lover of calumny has thrown no censure on yo
 *[ಅ. ೬. ಅ. ೫. ವ. ೫ ]   ಋಗ್ವೇದಸಂಹಿತಾ   23]*
 
 ಉಳಿದ ಋಕ್ಕುಗಳು ಇಂದ್ರದೇವತಾಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರಪ್ರ ದ್ವ್ಯೃನಾಽನುಷ್ಟುಭಂ ದ್ವಿಬೃಹತ್ಯಂತಂ ದ್ವಿತೀಯೋಷ್ಣಿಕ್ ಚತುರ್ಥಾದ್ಯಾಸ್ತಿಸ್ರೋ ಗಾಯತ್ರ್ಯಃ ಷೋಳಶ್ಯೇಕಾದಶ್ಯೌ ಪಂಕ್ತೀ ಅಪಾದ್ವೈಶ್ವದೇವೋಽರ್ಧರ್ಚಸ್ತ್ರಯೋ ವಾರುಣಾಃ ಎಂದು ಹೇಳಿರುವುದು. ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಮೂರು ಋಕ್ಕುಗಳು ಷೋಡಶಿಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಉಪಯೋಗಿಸಲ್ಪಡುವವು ಎಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಪ್ರಪ್ರ ವಸ್ತ್ರಿಷ್ಟುಭಮಿಷಮರ್ಚತ ಪ್ರಾರ್ಚತೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೨) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೬೯ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೬೯
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೭ ॥ ಸೂಕ್ತ—೬೯ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೫, ೬, ೭ ।
@@ -654,6 +698,8 @@ O princes, givers of food, even the lover of calumny has thrown no censure on yo
 ಋಷಿ—ಪ್ರಿಯಮೇಧಃ ॥
 ದೇವತಾ—೧-೧೦, ೧೩-೧೮. ಇಂದ್ರಃ । ೧೧ ರಲ್ಲಿ ಪೂರ್ವಾರ್ಧ. ವಿಶ್ವೇದೇವಾಃ । ೧೧ ರೆಲ್ಲಿ ಉತ್ತರಾರ್ಧ, ೧೨. ವರುಣಃ ॥
 ಛಂದಃ—೧-೩, ೭-೧೦, ೧೨-೧೫. ಅನುಷ್ಟುಪ್ । ೨. ಉಷ್ಣಿಕ್ । ೪-೬. ಗಾಯತ್ರೀ । ೧೧, ೧೬. ಪಂಕ್ತಿಃ । ೧೭, ೧೮. ಬೃಹತೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -685,6 +731,8 @@ O princes, givers of food, even the lover of calumny has thrown no censure on yo
 *English Translation.*
 
 Present your sacrificial food with a three-fold song of praise to Indu, gladdener of heroes; he will bless you in your religious rites to the accomplishment of your sacrifice.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -725,6 +773,8 @@ Present your sacrificial food with a three-fold song of praise to Indu, gladdene
 *[26   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ ಮಂ. ೮. ಅ. ೭. ಸೂ. ೬೯.]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಾ ಅಸ್ಯ ಸೂದದೋಹಸಃ ಸೋಮಂ ಶ್ರೀಣಂತಿ ಪೃಶ್ನಯಃ ।
@@ -761,6 +811,8 @@ These white cows, giving milk like wells, mix the Soma for him at the three obla
 
 ಅಗ್ನಿಹೋತ್ರಕರ್ಮದಲ್ಲಿ ಮೊದಲನೆಯ ಆಹುತಿಯನ್ನು ಹೋಮಮಾಡಿದ ಮೇಲೆ ಎರಡನೆಯ ಆಹುತಿಯನ್ನು ಹೋಮಮಾಡುವುದಕ್ಕೆ ಪೂರ್ವಭಾವಿಯಾಗಿ ಎದ್ದು ನಿಂತುಕೊಂಡು ತಾ ಅಸ್ಯ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತಾ ಅಸ್ಯ ಸೂದದೋಹಸ ಇತಿ ಪೂರ್ವಾಮಾಹುತಿಮುಪೋತ್ಥಾಯೋತ್ತರಾಂ ಕಾಂಕ್ಷೇತ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨-೩) ವಿವೃತವಾಗಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿಯೂ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ತಾ ಅಸ್ಯ ಸೂದದೋಹಸ ಇತ್ಯೇತದಾದಿಃ ಸೂದದೋಹಾಃ ಸೂದದೋಹಾಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ.ಆ. ೫-೧-೬) ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಪ್ರ ಗೋಪತಿಂ ಗಿರೇಂದ್ರಮರ್ಚ ಯಥಾ ವಿದೇ ।
@@ -795,6 +847,8 @@ Worship with your praise, as he himself knows,—that lord of cows, Indra, the s
 
 ಎರಡನೆಯ ಪರ್ಯಾಯದಲ್ಲಿ ಮೈತ್ರಾವರುಣಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಅಭಿ ಪ್ರ ಗೋಪತಿಂ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಅನುರೂಪತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಅಭಿ ತ್ವಾ ವೃಷಭಾ ಸುತೇಽಭಿ ಪ್ರ ಗೋಪತಿಂ ಗಿರಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಹರಯಃ ಸಸೃಜ್ರಿರೇಽರುಷೀರಧಿ ಬರ್ಹಿಷಿ ।
@@ -824,6 +878,8 @@ Worship with your praise, as he himself knows,—that lord of cows, Indra, the s
 *English Translation.*
 
 Let the brilliant bay (horses) drop him down on the cut grass, where we will hymn his praise.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -855,6 +911,8 @@ Let the brilliant bay (horses) drop him down on the cut grass, where we will hym
 *English Translation.*
 
 The cows have milked the intoxicating draught for Indra, the thunderer, when he finds it near him.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -891,6 +949,8 @@ When Indra and I ascend to our home, the world of the sun, then, having drunk th
 
 ಷೋಡಶಸ್ತ್ರಮಂತ್ರಸಲನದಲ್ಲಿ ಉದ್ಯದ್ಬ್ರಧ್ನಸ್ಯ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಕೊನೆಯ ಋಕ್ಕನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಉದ್ಯದ್ಬ್ರಧ್ನಸ್ಯ ವಿಷ್ಟಪಮಿತ್ಯೇಷಾ ಪರಿಧಾನೀಯಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬–೨) ವಿವೃತವಾರುವುಗಿದು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರ್ಚತ ಪ್ರಾರ್ಚತ ಪ್ರಿಯಮೇಧಾಸೋ ಅರ್ಚತ ।
@@ -925,6 +985,8 @@ Worship Indra, worship him pre-eminently, worship him, you of the family of Priy
 
 ಹಿಂದೆ ಹೇಳಿದ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಅರ್ಚತೆ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಅನುಷ್ಟುಪ್ಛಂದಸ್ಸಿನ ಎರಡನೆಯ ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಪ್ರಪ್ರ ವಸ್ತ್ರಿಷ್ಟುಭಮಿಷಮರ್ಚತ ಪ್ರಾರ್ಚತೆ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬–೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅವ ಸ್ವರಾತಿ ಗರ್ಗರೋ ಗೋಧಾ ಪರಿ ಸನಿಷ್ವಣತ್ ।
@@ -955,6 +1017,8 @@ Worship Indra, worship him pre-eminently, worship him, you of the family of Priy
 *English Translation.*
 
 The drum utters its sound, the leathern guard twangs, the tawny bowstring leaps to and fro ; let the hymn be raised to Indra.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -991,6 +1055,8 @@ When the bright fertilizing rivers flow with diminished waters, then take the ov
 *[ಅ. ೬. ಅ. ೫. ವ. ೭ ]   ಋಗ್ವೇದಸಂಹಿತಾ   35]*
 
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪಾದಿಂದ್ರೋ ಅಪಾದಗ್ನಿರ್ವಿಶ್ವೇ ದೇವಾ ಅಮತ್ಸತ ।
@@ -1020,6 +1086,8 @@ When the bright fertilizing rivers flow with diminished waters, then take the ov
 *English Translation.*
 
 Indra drank (the Soma), Agni drank it, the Vishwe Devah were gladdened ; let Varuna fix his dwelling here ; the waters have praised him as cows (low) meeting their calves.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1058,6 +1126,8 @@ You are a glorious god, Varuna, across whose palate the seven rivers keep pourin
 ಸುದೇವಸ್ತ್ವಂ ಕಲ್ಯಾಣದೇವಃ ಕಮನೀಯದೇವೋ ವಾ ಭವಸಿ ವರುಣ ಯಸ್ಯ ತೇ ಸಪ್ತ ಸಿಂಧವಃ । ಸಿಂಧುಃ ಪ್ರವಣಾತ್ ಯಸ್ಯ ತೇ ಸಪ್ತ ಸ್ರೋತಾಂಸಿ ತಾನಿ ತೇ ಕಾಕುದಮನುಸ್ಯಕ್ಷ-ರಂತಿ ಸೂರ್ಮಿಃ ಕಲ್ಯಾಣೋರ್ಮಿಃ ಸ್ರೋತಃ ಸುಷಿರಮನು ಯಥಾ ॥
 (ನಿ. ೫-೨೭)
 ಎಲ್ಲೈ ವರುಣನೇ, ನೀನು ಸುದೇವ ಎಂದರೆ ಕಲ್ಯಾಣಕಾರಕನಾದ, ಎಲ್ಲರಿಗೂ ಒಳ್ಳೆಯದನ್ನುಂಟುಮಾಡುವ ಮಂಗಳಕಾರಕನಾದ ದೇವನು, ಅಥವಾ ಎಲ್ಲರಿಂದಲೂ ಅಪೇಕ್ಷಿಸಲ್ಪಡುವ (ಮನೋಹರನಾದ) ದೇವನು ಇಂತಹ ನಿನ್ನ ನಾಲಗೆಯ ತಳಭಾಗಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾದ (ಗಂಗೆಯೇ ಮೊದಲಾದ) ಏಳು ನದಿಗಳೂ ಪ್ರವಹಿಸಿ ಬೀಳುವವು. ಹೇಗೆಂದರೆ ಹರಿಯುವ ನೀರು ಹಳ್ಳಕ್ಕೆ ಎಂದರೆ ತಗ್ಗಾದ ಪ್ರದೇಶಕ್ಕೆ ಸ್ವಾಭಾವಿಕವಾಗಿ ಹೋಗಿ ಬೀಳುವಂತೆ ಏಳು ಪ್ರಸಿದ್ಧವಾದ ನದಿಗಳೂ ನಿನ್ನ ನಾಲಗೆಯ ತಳಕ್ಕೆ (ಎಂದರೆ ಸಮುದ್ರಕ್ಕೆ) ಹೋಗಿ ಬೀಳುವವು. ಇಲ್ಲಿ ಸಿಂಧುಶಬ್ದಕ್ಕೆ ಹರಿಯುವ ನದಿ ಎಂದರ್ಥವು. ಎಂದರೆ ಹರಿಯುವ ಸ್ವಭಾವವುಳ್ಳದ್ದರಿಂದ ನದಿಗೆ ಸಿಂಧುವೆಂದೂ ಹೆಸರು. ಸೂರ್ಮಿ ಎಂದರೆ ಒಳ್ಳೆಯ ಅಲೆಗಳುಳ್ಳ ಎಂದರೆ ಯಥೇಚ್ಛವಾಗಿ ನೀರುಳ್ಳ ಪ್ರವಾಹವು ತಗ್ಗಾದ ಪ್ರದೇಶಕ್ಕೆ ನುಗ್ಗುವಂತೆ ಎಂದು ಸುಷಿರಾಂ ಎಂಬ ಶಬ್ದದ ದೃಷ್ಟಾಂತವನ್ನು ಹೇಳಿದೆ.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1098,6 +1168,8 @@ He who directs towards the worshipper his well-yoked prancing steeds,—he, (Ind
 *[ಅ. ೬. ಅ. ೫. ವ. ೭. ]  ಋಗ್ವೇದಸಂಹಿತಾ  39]*
 
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅತೀದು ಶಕ್ರ ಓಹತ ಇಂದ್ರೋ ವಿಶ್ವಾ ಅತಿ ದ್ವಿಷಃ ।
@@ -1127,6 +1199,8 @@ Shakra verily overpowers; Indra, overpowers all his enemies; he, worthy of love,
 <!-- printed 40 -->
 *[40  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮ ಅ. ೭ ಸೂ. ೬೯.]*
 
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1158,6 +1232,8 @@ Shakra verily overpowers; Indra, overpowers all his enemies; he, worthy of love,
 *[ಅ. ೬. ಅ. ೫. ವ. ೭. ]  ಋಗ್ವೇದಸಂಹಿತಾ  41]*
 
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ತೂ ಸುಶಿಪ್ರ ದಂಪತೇ ರಥಂ ತಿಷ್ಠಾ ಹಿರಣ್ಯಯಮ್ ।
@@ -1188,6 +1264,8 @@ Handsome-jawed (Indra), householder, mount your golden chariot: then let us meet
 <!-- printed 42 -->
 *[42  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮ ಅ. ೭ ಸೂ. ೬೯.]*
 
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1222,6 +1300,8 @@ Handsome-jawed (Indra), householder, mount your golden chariot: then let us meet
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಪೂರ್ವಾಹ್ನದಲ್ಲಿ ಮಾಡಲ್ಪಡುವ ಪ್ರವರ್ಗ್ಯೇಷ್ಟಿಯಲ್ಲಿ ತೆಂಘೋಮಿತ್ರಾ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತೇಘೋಮಿತ್ರಾ ನಮಸ್ವಿನ ಇತಿ ಪ್ರಾಗಾಥೀಂ ಪೂರ್ವಾಹ್ಣೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೭) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೧೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1263,6 +1343,9 @@ The Priyamedhas have reached the ancient dwelling-place of these deities, having
 *[ಅ. ೬. ಅ. ೫. ವ. ೮. ]  ಋಗ್ವೇದಸಂಹಿತಾ  ೪೫]*
 
 ಗಳೂ ಇದ್ದರೆ ಆ ಛಂದಸ್ಸು ಪುರಉಷ್ಣಿಕ್ ಎನಿಸುವುದು ಎಂದು ಇದರ ಲಕ್ಷಣವು. ಇಂದ್ರನು ದೇವತೆಯು; ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಪಠಿಸುವಾಗ ಬೃಹತೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಹನ್ನೊಂದು ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ಯೋ ರಾಜಾ ಚರ್ಷಣೀನಾಮಿತ್ಯೇಕಾದಶ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೨-೪) ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೦ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೦
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೦ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೮, ೯, ೧೦ ॥
@@ -1271,6 +1354,8 @@ The Priyamedhas have reached the ancient dwelling-place of these deities, having
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—೧-೫. ಪ್ರಾಗಾಥಂ (ಆಯುಜಃ ಬೃಹತ್ಯಃ ಯುಜಃ ಸತೋಬೃಹತ್ಯಃ) ।
 ೭-೧೨. ಬೃಹತೀ । ೧೩. ಉಷ್ಣಿಕ್ । ೧೪. ಅನುಷ್ಟುಪ್ । ೧೫. ಪುರಉಷ್ಣಿಕ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1303,6 +1388,8 @@ The Priyamedhas have reached the ancient dwelling-place of these deities, having
 
 I praise that Indra who is the lord of men, who proceeds irresistible in his chariots, the breaker-through of all armies, the pre-eminent one, the slayer of Vritra.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಂ ತಂ ಶುಂಭ ಪುರುಹನ್ಮನ್ನವಸೇ ಯಸ್ಯ ದ್ವಿತಾ ವಿಧರ್ತರಿ ।
@@ -1333,6 +1420,8 @@ I praise that Indra who is the lord of men, who proceeds irresistible in his cha
 *English Translation.*
 
 Puruhanman, honour that Indra for your protection, for in your upholder there is a two-fold might ; he holds in his hand ( to smite his enemies) the glorious thunderbolt great as the sun in heaven.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1367,6 +1456,8 @@ None can touch him by his deeds, who has made Indra his friend by sacrifices,—
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ನಕಿಷ್ಟಂ ಎಂಬ ಪ್ರಗಾಥವನ್ನು (೩-೪ ಋಕ್ಕುಗಳನ್ನು) ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯ ಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ನಕಿಷ್ಟಂ ಕರ್ಮಣಾ ನಶನ್ನ ತ್ವಾ ಬೃಹಂತೋ ಅದ್ರಯಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೪) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1403,6 +1494,8 @@ None can touch him by his deeds, who has made Indra his friend by sacrifices,—
 <!-- printed 50 -->
 *[50  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮. ಅ. ೮. ಸೂ. ೭೦.]*
 
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1442,6 +1535,8 @@ Indra, were there one hundred heavens to compare with you, or were there one hun
 
 ಯಾಗದ ಮೂರನೆಯ ದಿವಸ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮುತ್ರಪಠನಮಾಡುವಾಗ ವೈರೂಪಸಾಮಪಕ್ಷದಲ್ಲಿ ಯದ್ದ್ಯಾವಃ ಎಂಬ ಈ ಪ್ರಗಾಥವನ್ನು (೫-೬ ಋಕ್ಕುಗಳನ್ನು) ಸ್ತೋತ್ರಿಯ ಪ್ರಗಾಥವನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಯದ್ದ್ಯಾವ ಇಂದ್ರ ತೇ ಶತಂ ಯದಿಂದ್ರ ಯಾವತಸ್ತ್ವಮಿತಿ ಪ್ರಗಾಥೌ ಸ್ತೋತ್ರಿಯಾನುರೂಪೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೧೦) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಪಪ್ರಾಥ ಮಹಿನಾ ವೃಷ್ಣ್ಯಾ ವೃಷನ್ವಿಶ್ವಾ ಶವಿಷ್ಠ ಶವಸಾ ।
@@ -1471,6 +1566,8 @@ Indra, were there one hundred heavens to compare with you, or were there one hun
 *English Translation.*
 
 Mightiest showerer (of blessings), you have filled all (our hosts) with your vast bountiful power ; O Maghavan, thunderer, guard us with your manifold protections, (when we march) against the well-stocked cowpen of our enemies.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1506,6 +1603,8 @@ O long-lived Indra, the mortal who has not you as his deity obtains no food ; (h
 *[54  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮. ಅ. ೮. ಸೂ. ೭೦]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ವೋ ಮಹೋ ಮಹಾಯ್ಯಮಿಂದ್ರಂ ದಾನಾಯ ಸಕ್ಷಣಿಮ್ ।
@@ -1535,6 +1634,8 @@ Great (priests), worship that Indra who is propitiated by gifts ; who is to be i
 <!-- printed 55 -->
 *[ಅ. ೬. ಅ. ೫. ವ. ೯. ]    ಋಗ್ವೇದಸಂಹಿತಾ    55]*
 
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1566,6 +1667,8 @@ Great (priests), worship that Indra who is propitiated by gifts ; who is to be i
 
 O hero, giver of dwellings, raise us up to enjoy abundant food; raise us up, Maghavan, for abundant wealth; raise us up, Indra, for abundant fame.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ನ ಇಂದ್ರ ಋತಯುಸ್ತ್ವಾನಿದೋ ನಿ ತೃಂಪಸಿ ।
@@ -1595,6 +1698,8 @@ O hero, giver of dwellings, raise us up to enjoy abundant food; raise us up, Mag
 *English Translation.*
 
 Indra, who delights in offerings, satisfy us abuudantly with (the possessions of him) who despises you ; O you, possessed of vast wealth, shelter us between your thighs ; smite down the Dasa with your blows.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1626,6 +1731,8 @@ Indra, who delights in offerings, satisfy us abuudantly with (the possessions of
 
 May your friend, Parvata, hurl down from heaven him who follows other rites, the enemy of men, him who offers not sacrifice and who worships not the gods ; may Parvata hurl the Dasyu down to the stern smiter (death).
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ನ ಇಂದ್ರಾಸಾಂ ಹಸ್ತೇ ಶವಿಷ್ಠ ದಾವನೇ ।
@@ -1655,6 +1762,8 @@ May your friend, Parvata, hurl down from heaven him who follows other rites, the
 *English Translation.*
 
 Most powerful Indra, in your favour towards us, take these cows in your hand, as fried grain, to give to us ; yes, take them twice in your favour towards us.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1686,6 +1795,8 @@ Most powerful Indra, in your favour towards us, take these cows in your hand, as
 
 Associated priests, give good heed to the sacrifice, for how can we (worthily) perform the praise of (Indra) the destroyer, who is the recompenser of enemies, the sender of reward, the unvanquished ?
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಭೂರಿಭಿಃ ಸಮಹ ಋಷಿಭಿರ್ಬರ್ಹಿಷ್ಮದ್ಭಿ ಸ್ತವಿಷ್ಯಸೇ ।
@@ -1715,6 +1826,8 @@ Associated priests, give good heed to the sacrifice, for how can we (worthily) p
 *English Translation.*
 
 Indra, the common object of our worship, you are praised by many sacrificing Rishis ; for it is you, destroyer of foes, who thus give calves in succession to your worshippers.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1755,6 +1868,9 @@ May Maghavan, taking them by the ears, lead the cows with their calves from our 
 *[ಅ. ೬. ಅ. ೫. ವ. ೧೧. ] ಋಗ್ವೇದಸಂಹಿತಾ ೬೩]*
 
 ಅನುವಾದವು—ತ್ವಂ ನೋ ಅಗ್ನೇ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎರಡನೆಯಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹದಿನೈದು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಸುದೀತಿ ಮತ್ತು ಪುರುಮೀಳ್ಹ ಎಂಬಿಬ್ಬರು ಋಷಿಗಳು. ಅಥವಾ ಬೇರೆ ಮತ್ಯಾರಾದರೂ ಋಷಿಯಿರಬಹುದು. ಅಗ್ನಿಯು ದೇವತೆಯು; ಈ ಸೂಕ್ತದಲ್ಲಿ ನೊದಲಿನ ಒಂಭತ್ತು ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು; ಹತ್ತು, ಹನ್ನೆರಡು, ಹನಾದಿಲ್ಕನೆಯ ಋಕ್ಕುಗಳು ಬೃಹತೀಛಂದಸ್ಕವು ಹನ್ನೊಂದು, ಹದಿಮೂರು, ಹದಿನೈದನೆಯ ಋಕ್ಕುಗಳು ಸತೋಬೃಹತೀಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ— ತ್ವಂ ನಃ ಸುದೀತಿಪುರುಮೀಳ್ಹೌ ತಯೋರ್ವಾನ್ಯತರ ಆಗ್ನೇಯಂ ತು ತ್ರಿಪ್ರಗಾಥಾಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಆಗ್ನೇಯಕ್ರತುಸಂಬಂಧವಾದ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಾಗಿಯೂ, ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ನೊದಲಿನ ಒಂಭತ್ತು ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತ್ವಂ ನೋ ಅಗ್ನೇ ಮಹೋಭಿರಿತಿ ನವ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೩) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೧ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೧
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೮ । ಸೂಕ್ತ—೭೧ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೫ । ವರ್ಗ—೧೧, ೧೨, ೧೩ ।
@@ -1762,6 +1878,8 @@ May Maghavan, taking them by the ears, lead the cows with their calves from our 
 ಋಷಿ—ಸುದೀತಿಪುರುಮೀಳ್ಹೌ ತಯೋರ್ವಾನ್ಯತರಃ ।
 ದೇವತಾ—ಅಗ್ನಿಃ ।
 ಛಂದಃ—೧-೯. ಗಾಯತ್ರೀ । ೧೦-೧೫. ಪ್ರಗಾಥಂ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1793,6 +1911,8 @@ May Maghavan, taking them by the ears, lead the cows with their calves from our 
 
 Agni, protect us by great wealth from every niggard and mortal foe.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಹಿ ಮನ್ಯುಃ ಪೌರುಷೇಯ ಈಶೇ ಹಿ ವಃ ಪ್ರಿಯಜಾತ ।
@@ -1822,6 +1942,8 @@ Agni, protect us by great wealth from every niggard and mortal foe.
 *English Translation.*
 
 O you who were born loved, no human anger can harm you,—you only are the lord of night.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1855,6 +1977,8 @@ O you who were born loved, no human anger can harm you,—you only are the lord 
 
 Son of strength, auspicius in brilliance, associated with all the gods, give us all desirable wealth.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನ ತಮಗ್ನೇ ಅರಾತಯೋ ಮರ್ತಂ ಯುವಂತ ರಾಯಃ ।
@@ -1884,6 +2008,8 @@ Son of strength, auspicius in brilliance, associated with all the gods, give us 
 *English Translation.*
 
 That sacrificing mortal whom you, Agni, protect, the niggardly connot seperate from wealth.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -1915,6 +2041,8 @@ That sacrificing mortal whom you, Agni, protect, the niggardly connot seperate f
 
 Wise (Agni), he whom in his performance of the sacrifice you incite to attain wealth, by your protection walks (lord) among crowds of cattle.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ರಯಿಂ ಪುರುವೀರಮಗ್ನೇ ದಾಶುಷೇ ಮರ್ತಾಯ ।
@@ -1945,6 +2073,8 @@ You, Agni, give to the offerer wealth comprehending many male descendants ; cond
 *[ಅ. ೬. ಅ. ೫. ವ. ೧೨,   ಋಗ್ವೇದಸಂಹಿತಾಃ   69]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉರುಷ್ಯಾ ಣೋ ಮಾ ಪರಾ ದಾ ಅಘಾಯತೇ ಜಾತವೇದಃ ।
@@ -1970,6 +2100,8 @@ You, Agni, give to the offerer wealth comprehending many male descendants ; cond
 *English Translation.*
 
 Defend us, Jatavedas ; deliver us not over to the malevolent, to the man whose thoughts are evil
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2001,6 +2133,8 @@ Defend us, Jatavedas ; deliver us not over to the malevolent, to the man whose t
 
 Agni, let not the godless take away the wealth which you, the divine have given, for you are the lord of treasures.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ನೋ ವಸ್ವ ಉಪ ಮಾಸ್ಯೂರ್ಜೋ ನಪಾನ್ಮಾಹಿನಸ್ಯ ।
@@ -2031,6 +2165,8 @@ Agni, let not the godless take away the wealth which you, the divine have given,
 *English Translation.*
 
 Son of strength, the friend, the giver of dwellings, you mete out abundant treasure to us your praisers.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2072,6 +2208,8 @@ Let our voices come near the beautiful (Agni), him who bears devouring flames ; 
 
 ಪ್ರಾತಃಸವನಕಾಲದಲ್ಲಿ ಅಚ್ಛಾ ವೋ ಅಗ್ನಿಂ ಎಂಬ ತೃಚಕ್ಕೆ ಬದಲಾಗಿ ಅಚ್ಛಾ ನಃ ಎಂಬ ತೃಚವನ್ನು ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ— ಅಚ್ಛಾ ನಃ ಶೀರಶೋಚಿಷಂ ಪ್ರತಿ ಪ್ರ ತಾಯು ವೋ ಧೃಷದಿತಿ ತೃಚೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೧೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನಿಂ ಸೂನುಂ ಸಹಸೋ ಜಾತವೇದಸಂ ದಾನಾಯ ವಾರ್ಯಾಣಾಮ್ ।
@@ -2103,6 +2241,8 @@ Let our voices come near the beautiful (Agni), him who bears devouring flames ; 
 
 (Let them come near) Agni, Jatavedas, son of strength, for the giving of all desirable good things ; who is doubly immortal as (perpetually burning) amongst mortals, and as the supremely exhilarating ministrant-priest amongst the sacrificers.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನಿಂ ವೋ ದೇವಯಜ್ಯಯಾಗ್ನಿಂ ಪ್ರಯತ್ಯಧ್ವರೇ ।
@@ -2132,6 +2272,8 @@ Let our voices come near the beautiful (Agni), him who bears devouring flames ; 
 *English Translation.*
 
 I praise Agni, (O sacrificers), for the inauguration of your divine offering; (I praise him) when the sacrifice is proceeding: (I praise) Agni first of the gods, at our rites; (I praise) Agni when the enemy approaches ; (I praise)Agni for the attainment of land.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2163,6 +2305,8 @@ I praise Agni, (O sacrificers), for the inauguration of your divine offering; (I
 
 May Agni in his friendship give us food, for he is the lord of all desirable things ; we solicit abundance for our sons and grandsons from Agni, who is the giver of dwellings and the protector of our bodies.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನಿಮೀಳಿಷ್ವಾವಸೇ ಗಾಥಾಭಿಃ ಶೀರಶೋಚಿಷಮ್ ।
@@ -2192,6 +2336,8 @@ May Agni in his friendship give us food, for he is the lord of all desirable thi
 *English Translation.*
 
 Laud with your hymns for our protection Agni, whose splendours lie outspread ; laud Agni for wealth, O Purumilha, for other offerers are lauding that far-famed one on their own behalf; solicit of Agni a house for (me) Suditi.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2232,6 +2378,9 @@ We praise Agni that he may keep off our enemies; we praise Agni that he may give
 
 > ‘ ಹವಿಷ್ಕೃಣುಧ್ವಮ್ ' ಇತ್ಯಷ್ಟಾದಶರ್ಚಂ ತೃತೀಯಂ ಸೂಕ್ತಮ್ । ಅತ್ರಾನುಕ್ರಮಣಿಕಾ – ಹವಿರ್ದ್ವ್ಯೂನಾ ಹರ್ಯತಃ ಪ್ರಾಗಾಥೋ ಹವಿಷಾಂ ಸ್ತುತಿರ್ವಾ ' ಇತಿ । ಪ್ರಗಾಥಪುತ್ರೋ ಹರ್ಯತ ಋಷಿಃ । ಪರಂ ಗಾಯತ್ರಂ ಪ್ರಾಗ್ವತ್ಸಪ್ರೇಃ ' ಇತಿ ಪರಿಭಾಷಯಾ ಗಾಯತ್ರೀ ಛಂದಃ ।  ‘ ಆಗ್ನೇಯಂ ತು ' ಇತ್ಯುಕ್ತತ್ವಾದಗ್ನಿರ್ದೇವತಾ ಯದ್ವಾ ಹವಿಷಾಂ ಸ್ತೂಯಮಾನತ್ವಾತ್ತದ್ದೇವತಾಕಂ ವಾ । ಸೂಕ್ತವಿನಿಯೋಗೋ ಲೈಂಗಿಕಃ ॥
 ಅನುವಾದವು—ಹವಿಷ್ಕೃಣುಧ್ವಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಮೂರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹದಿನೆಂಟು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಪ್ರಗಾಥಪುತ್ರನಾದ ಹರ್ಯತ ಎಂಬುವನು ಋಷಿಯು: ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅಗ್ನಿಯು ದೇವತೆಯು, ಅಥವಾ ಹವಿಸ್ಸಿನ ಸ್ತುತಿ ಇರುವುದರಿಂದ ಆ ಸ್ತುತಿಯೇ ದೇವತೆಯು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಹವಿದೂರ್ವ್ಯನಾ ಹರ್ಯತಃ ಪ್ರಾಗಾಥೋ ಹವಿಷಾಂ ಸ್ತುತಿರ್ವಾ ಎಂದುಹೇಳಿರುವುದು. ವಿನಿಯೋಗವು ಲೈಂಗಿಕವು.
+
+## ಸೂಕ್ತ ೭೨ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೨
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೨ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೧೪, ೧೫, ೧೬, ೧೭ ॥
@@ -2239,6 +2388,8 @@ We praise Agni that he may keep off our enemies; we praise Agni that he may give
 ಋಷಿಃ—ಹರ್ಯತಃ ಪ್ರಾಗಾಥಃ ॥
 ದೇವತಾ—ಅಗ್ನಿರ್ಹವೀಂಷಿ ವಾ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2270,6 +2421,8 @@ We praise Agni that he may keep off our enemies; we praise Agni that he may give
 
 (Priests), present the oblation, for (Agni) has come; the Adhwaryu again offers (the sacrifice), well-skilled in its offerings.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಿ ತಿಗ್ಮಮಭ್ಯಂಶುಂ ಸೀದದ್ಧೋತಾ ಮನಾವಧಿ ।
@@ -2299,6 +2452,8 @@ We praise Agni that he may keep off our enemies; we praise Agni that he may give
 *English Translation.*
 
 The Hotri sits down by (Agni's) hot flame, rejoicing in his friendship towards the offerer.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2331,6 +2486,8 @@ The Hotri sits down by (Agni's) hot flame, rejoicing in his friendship towards t
 
 For the sake of the offerer, they seek by their skill to place Rudra in the fore front; they seize him, as he sleeps, with their tongue.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಜಾಮ್ಯತೀತಪೇ ಧನುರ್ವಯೋಧಾ ಅರುಹದ್ವನಮ್ ।
@@ -2360,6 +2517,8 @@ For the sake of the offerer, they seek by their skill to place Rudra in the fore
 *English Translation.*
 
 (Agni), the giver of food, scorches the vast bow (of the sky); he mounts the water; he smites the cloud with his tongue.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2391,6 +2550,8 @@ For the sake of the offerer, they seek by their skill to place Rudra in the fore
 
 Roaming like a calf and bright-shining, he finds here no hinderer; he seeks a chanter to praise him.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತೋ ನ್ವಸ್ಯ ಯನ್ಮಹದಶ್ವಾವದ್ಯೋಜನಂ ಬೃಹದ್ ।
@@ -2421,6 +2582,8 @@ Roaming like a calf and bright-shining, he finds here no hinderer; he seeks a ch
 *English Translation.*
 
 As soon as the great stout harness of his horses is seen (in the sky), the traces of his chariot.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2457,6 +2620,8 @@ Seven milk one (cow), the two direct the five, on the resounding shore of the ri
 
 ಅಭಿಷ್ಟವೇಷ್ಟಿಯಲ್ಲಿ ಘರ್ಮದಾಹದಲ್ಲಿ ದುಹಂತಿ ಸಪ್ತ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ದುಹಂತಿ ಸಪ್ತೈಕಾಂ ಸಮಿದ್ಧೋ ಅಗ್ನಿರಶ್ವಿನಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೭) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಗ್ರಾವಸ್ತೋತ್ರದಲ್ಲಿಯೂ ಸಹ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ದುಹಂತಿ ಸಪ್ತೈಕಾಮಧುಕ್ಷತ್ಪಿಪ್ಯುಷೀಮಿಷಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ ೫-೧೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ದಶಭಿರ್ವಿವಸ್ವತ ಇಂದ್ರಃ ಕೋಶಮಚುಚ್ಯವೀತ್ ।
@@ -2491,6 +2656,8 @@ Invoked by the ten (fingers) of the worshipper, Indra has caused the cloud to fa
 
 ಪ್ರವರ್ಗ್ಯ ಮತ್ತು ಅಭಿಷ್ಟವೇಷ್ಟಿಗಳಲ್ಲಿ ಗ್ರಾವಾಭಿಷ್ಟವದಲ್ಲಿಯೂ ಸಹ ಆ ದಶಭಿಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಆ ದಶಭಿರ್ವಿವಸ್ವತೋ ದುಹಂತಿ ಸಪ್ತೈಕಾಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೭; ೫-೧೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಿ ತ್ರಿಧಾತುರಧ್ವರಂ ಜೂರ್ಣಿರೇತಿ ನವೀಯಸೀ ।
@@ -2520,6 +2687,8 @@ Invoked by the ten (fingers) of the worshipper, Indra has caused the cloud to fa
 *English Translation.*
 
 The three-hued fresh impetuous (blaze) goes swiftly round the sacrifice ; the priests anoint it with butter.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2551,6 +2720,8 @@ The three-hued fresh impetuous (blaze) goes swiftly round the sacrifice ; the pr
 
 They pour out with reverence the inexhaustible cauldron, as it goes round circular above and with an opening below.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭ್ಯಾರಮಿದದ್ರಯೋ ನಿಷಿಕ್ತಂ ಪುಷ್ಕರೇ ಮಧು ।
@@ -2580,6 +2751,8 @@ They pour out with reverence the inexhaustible cauldron, as it goes round circul
 *English Translation.*
 
 The reverent priests drawing near pour the superfluous butter into the large (spoon), when they set the cauldron down.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2611,6 +2784,8 @@ The reverent priests drawing near pour the superfluous butter into the large (sp
 *English Translation.*
 
 Draw nigh, you cows, to the cauldron ; (the two kinds of milk) in the sacrifice are plentiful and fruit-giving; both ears (of the vessel) are golden.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2650,6 +2825,8 @@ Drop into the milked (stream) the admixture, which reaches, (as it boils), heave
 *[ಅ. ೬. ಅ. ೫. ವ. ೧೬.]  ಋಗ್ವೇದಸಂಹಿತಾ  ೯೩]*
 
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೇ ಜಾನತ ಸ್ವಮೋಕ್ಯಂ ಸಂ ವತ್ಸಾಸೋ ನ ಮಾತೃಭಿಃ ।
@@ -2680,6 +2857,8 @@ They know their own abode ; as calvs with their mothers, so they severally assem
 *[೯೪  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ ಮಂ. ೮. ಅ. ೮. ಸೂ. ೭೨.]*
 
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಪ ಸ್ರಕ್ವೇಷು ಬಪ್ಸತಃ ಕೃಣ್ವತೇ ಧರುಣಂ ದಿವಿ ।
@@ -2706,6 +2885,8 @@ They know their own abode ; as calvs with their mothers, so they severally assem
 *English Translation.*
 
 (The priests) minister in the sky the supporting (milk) to (Agni) who devours with his jaws ; they minister all the food to Indra and Agni.
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2746,6 +2927,8 @@ The wind by means of the sun's seven rays milks the nourishing food and drink fr
 
 ಗ್ರಾವಸ್ತುತಿಯಲ್ಲಿಯೂ ಸಹ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವರಾಯನಶ್ರೌತಸೂತ್ರದ—ಅಧುಕ್ಷತ್ಪಿಪ್ಯುಷೀಮಿಷಮಾ ಕಲಶೇಷು ಧಾವತಿ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧೨) ವಿವೃತವಾಗಿರುವುದ).
 
+#### ಋಕ್ ೧೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮಸ್ಯ ಮಿತ್ರಾವರುಣೋದಿತಾ ಸೂರ ಆ ದದೇ ।
@@ -2775,6 +2958,8 @@ Mitra and Varuna, I take the Soma when the sun is risen ; it is medicine to the 
 <!-- printed 97 -->
 *[೯. ೬. ೮. ೫. ವ. ೧೭] ಋಗ್ವೇದಸಂಹಿತಾ 97]*
 
+
+#### ಋಕ್ ೧೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2812,6 +2997,9 @@ Agni,—standing in the place which I, the eager offerer, choose as the spot for
 
 > ‘ಉದೀರಾಥಾಮ್' ಇತ್ಯಷ್ಟಾದಶರ್ಚಂ ಚತುರ್ಥಂ ಸೂಕ್ತಮಾತ್ರೇಯಸ್ಯ ಗೋಪವನಸ್ಯ ಸಪ್ತವಧ್ರೇರ್ವಾರ್ಷ ಗಾಯತ್ರಮಾಶ್ವಿನಮ್। ತಥಾ ಚಾನುಕ್ರಮಣಿಕಾ – ಉದೀರಾಥಾಂ ಗೋಪವನ ಆತ್ರೇಯಃ ಸಪ್ತವಧ್ರಿರ್ವಾಶ್ವಿನಮ್' ಇತಿ । ಪ್ರಾತರನುವಾಕ ಆಶ್ವಿನೇ ಕ್ರತೌ ಗಾಯತ್ರೇ ಛಂದಸ್ಯಾಶ್ವಿನಶಸ್ತ್ರೇ ಚೇದಂ ಸೂಕ್ತಮ್ ।
 > ಉದೀರಾಥಾಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ನಾಲ್ಕನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹದಿನೆಂಟು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಅತ್ರಿಗೋತ್ರೋದ್ಭವನಾದ ಗೋಪವನ ಅಥವಾ ಸಪ್ತವಧ್ರಿ ಎಂಬುವನು ಋಷಿಯು; ಅಶ್ವಿನೀದೇವತೆಗಳು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಉದೀರಾಥಾಂ ಗೋಪವನ ಆತ್ರೇಯಃ ಸಪ್ತವಧ್ರಿರ್ವಾಶ್ವಿನಂ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕಮಂತ್ರಪಠನ ಕಾಲದಲ್ಲಿ ಆಶ್ವಿನಕ್ರತುಸಂಬಂಧವಾದ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿಯೂ, ಆಶ್ವಿನಶಸ್ತ್ರ ಮಂತ್ರಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಉದೀರಾಥಾಮಾ ಮೇ ಹವಮಿತಿ ಗಾಯತ್ರಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೫) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೩ (ಮಂಡಲ ೮)
+
 > ಸೂಕ್ತ—೭೩
 > ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೩ ॥
 > ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೩ ॥ ವರ್ಗ—೧೮, ೧೯, ೨೦ ॥
@@ -2819,6 +3007,8 @@ Agni,—standing in the place which I, the eager offerer, choose as the spot for
 > ಋಷಿ—ಗೋಪವನ ಆತ್ರೇಯಃ ಸಪ್ತವಧ್ರಿರ್ವಾ ॥
 > ದೇವತಾ—ಅಶ್ವಿನೌ ॥
 > ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2850,6 +3040,8 @@ Agni,—standing in the place which I, the eager offerer, choose as the spot for
 
 Rise, Ashwins, on my behalf, as I prepare to sacrifice; yoke your car ; let your protection abide near me.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಿಮಿಷಶ್ಚಿಜ್ಜವೀಯಸಾ ರಥೇನಾ ಯಾತಮಶ್ವಿನಾ ।
@@ -2879,6 +3071,8 @@ Rise, Ashwins, on my behalf, as I prepare to sacrifice; yoke your car ; let your
 *English Translation.*
 
 Come, Ashwins, in your chariot which moves quicker than the twinkling of an eye ; let your protection abide near me.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2911,6 +3105,8 @@ Come, Ashwins, in your chariot which moves quicker than the twinkling of an eye 
 
 Aswins, you covered the hot (fire) with cold (water) for Atri; let your protection abide near me.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕುಹ ಸ್ಥಃ ಕುಹ ಜಗ್ಮಥುಃ ಕುಹ ಶ್ಯೇನೇವ ಪೇತಥುಃ ।
@@ -2940,6 +3136,8 @@ Aswins, you covered the hot (fire) with cold (water) for Atri; let your protecti
 *English Translation.*
 
 Where are you ? whither are you gone ? whither have you flown like hawks ? Let your protection abide near me.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -2971,6 +3169,8 @@ Where are you ? whither are you gone ? whither have you flown like hawks ? Let y
 
 If to-day, at some time, in some place, you would but hear my invocation,—let your protection abide near me.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಶ್ವಿನಾ ಯಾಮಹೂತಮಾ ನೇದಿಷ್ಠಂ ಯಾಮ್ಯಾಪ್ಯಮ್ ।
@@ -3001,6 +3201,8 @@ The Ashwins are earnestly to be invoked in emergency ; I enter in to closest fri
 *[104	ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ	[ಮಂ. ೮. ಅ. ೮. ಸೂ. ೭೩.]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅವಂತಮತ್ರಯೇ ಗೃಹಂ ಕೃಣುತಂ ಯುವಮಶ್ವಿನಾ ।
@@ -3026,6 +3228,8 @@ The Ashwins are earnestly to be invoked in emergency ; I enter in to closest fri
 *English Translation.*
 
 Aswins, you made a sheltering house for Atri let your protection abide near me.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3057,6 +3261,8 @@ Aswins, you made a sheltering house for Atri let your protection abide near me.
 
 You stayed the fire from its fierceness for Atri, while he praised you acceptably ; let your protection abide near me.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಸಪ್ತವಧ್ರಿರಾಶಸಾ ಧಾರಾಮಗ್ನೇರಶಾಯತ ।
@@ -3086,6 +3292,8 @@ You stayed the fire from its fierceness for Atri, while he praised you acceptabl
 *English Translation.*
 
 Through his praise of you Saptavadhri let the fire's flame-point (to his basket) ; let your protection abide near me.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3117,6 +3325,8 @@ Through his praise of you Saptavadhri let the fire's flame-point (to his basket)
 
 Come hither, lords of abundant wealth, hear this my invocation ; let your protection abide near me.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಿಮಿದಂ ವಾಂ ಪುರಾಣವಜ್ಜರತೋರಿವ ಶಸ್ಯತೇ ।
@@ -3147,6 +3357,8 @@ Come hither, lords of abundant wealth, hear this my invocation ; let your protec
 
 Why is this (repeated invocation) addresred to you as if you were decrepit like old men ? Let your protection abide near me.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮಾನಂ ವಾಂ ಸಜಾತ್ಯಂ ಸಮಾನೋ ಬಂಧುರಶ್ವಿನಾ ।
@@ -3176,6 +3388,8 @@ Why is this (repeated invocation) addresred to you as if you were decrepit like 
 *English Translation.*
 
 Aswins, your relationship is common and you have a common kinsman ; let your protection abide near me
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3208,6 +3422,8 @@ Aswins, your relationship is common and you have a common kinsman ; let your pro
 
 Your chariot, Aswins, moves swiftly through the worlds, through heaven and earth ; let your protection abide near me.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ನೋ ಗವ್ಯೇಭಿರಶ್ವ್ಯೈಃ ಸಹಸ್ರೈರುಪ ಗಚ್ಛತಮ್ ।
@@ -3239,6 +3455,8 @@ Your chariot, Aswins, moves swiftly through the worlds, through heaven and earth
 
 Come to us with thousands of herds of cattle and horses; let your protection abide near me.
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾ ನೋ ಗವ್ಯೇಭಿರಶ್ವ್ಯೈಃ ಸಹಸ್ರೇಭಿರತಿ ಖ್ಯತಮ್ ।
@@ -3269,6 +3487,8 @@ Pass us not by with your thousands of heards of cattle and horses ; let your pro
 *[112 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮. ಅ. ೮. ಸೂ. ೭೩.]*
 
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರುಣಪ್ಸುರುಷಾ ಅಭೂದಕರ್ಜ್ಯೋತಿರೃತಾವರೀ ।
@@ -3294,6 +3514,8 @@ Pass us not by with your thousands of heards of cattle and horses ; let your pro
 *English Translation.*
 
 The purple-tinted Dawn has appeared, the mistress of the sacrifice spreads her light ; let your protection abide near me.
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3325,6 +3547,8 @@ The purple-tinted Dawn has appeared, the mistress of the sacrifice spreads her l
 *English Translation.*
 
 Aswins, the splendidly-brilliant (sun cleaves the darkness) as the woodman with his axe a tree ; let your protection abide near me.
+
+#### ಋಕ್ ೧೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3367,6 +3591,9 @@ O bold Saptavadhri, distressed by the entangling and detaining (basket), break t
 
 > ಶ್ರುತರ್ವನಾಮ್ನೋ ರಾಜ್ಞೋ ದಾನಸ್ತುತಿಃ ॥ ವ್ಯೋಮವಿಶ್ವದೇವಸ್ತ್ವಂಚಶಾರದೀಯೇಽಸ್ಮಿದಂ ಸೂಕ್ತ-ಮಾಜ್ಯಶಸ್ತ್ರಂ । ಸೂತ್ರಿತಂ ಚ । ವಿಶೋವಿಶೋ ವೋ ಅತಿಥಿಮಿತ್ಯಾಜ್ಯಂ । ಆ. ೯-೮ । ಇತಿ ॥
 ಅನುವಾದವು—ವಿಶೋವಿಶೋ ವಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಮಂಡಲದಲ್ಲಿ ಐದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹದಿನೈದು ಋಕ್ಕುಗಳಿರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ವಿಶೋವಿಶೋ ವಃ ಪಂಚೋನಾಗ್ನೇಯಂ ತ್ವನುಷ್ಟುಬುಮ್ಮಖಾಸ್ತ್ರ್ಯಚಾಶ್ಚತ್ವಾರೋಽನ್ತ್ಯಾಸ್ತಿಸ್ರೋಽನುಷ್ಟುಭ ಆರ್ಕ್ಷಸ್ಯ ಶ್ರುತರ್ವಣೋ ದಾನಸ್ತುತಿಃ ಎಂದು ಹೇಳಿರುವುದು. ಈ ಸೂಕ್ತಕ್ಕೆ ಗೋಪವನಃ ಎಂಬುವನು ಋಷಿಯು; ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು ತೃಚಗಳಲ್ಲಿ (ತೃಚವೆಂದರೆ ಮೂರು ಋಕ್ಕುಗಳು) ಮೊದಲನೆಯ ಋಕ್ಕು ಅನುಷ್ಟುಪ್, ಎರಡು ಮತ್ತು ಮೂರನೆಯ ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ಹದಿಮೂರನೆಯ ಋಕ್ಕಿನಿಂದ ಮುಂದಿನ ಮೂರು ಋಕ್ಕುಗಳು ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಈ ಸೂಕ್ತಕ್ಕೂ ಮುಂದಿನ ಸೂಕ್ತಕ್ಕೂ ಅಗ್ನಿಯು ದೇವತೆಯು. ಈ ಸೂಕ್ತದ ಕೊನೆಯ ಮೂರು ಋಕ್ಕುಗಳಿಗೆ ಶ್ರುತರ್ವಾ ಎಂಬ ರಾಜನ ದಾನಸ್ತುತಿಯೇ ದೇವತೆಯು. ವ್ಯೋಮ ವಿಶ್ವದೇವಸ್ತ್ತ್ ಪಂಚಶಾರದೀಯಗಳಲ್ಲಿ ಈ ಸೂಕ್ತವನ್ನು ಆಜ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಉಪಯೋಗಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ವಿಶೋವಿಶೋ ವೋಃ ಅಥಿತಿಮಿಥ್ಯಾಜ್ಯಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೯-೮) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೪ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೪
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೪ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೧, ೨೨, ೨೩ ।
@@ -3374,6 +3601,8 @@ O bold Saptavadhri, distressed by the entangling and detaining (basket), break t
 ಋಷಿಃ—ಗೋಪವನ ಆತ್ರೇಯಃ ॥
 ದೇವತಾ—೧-೧೨. ಅಗ್ನಿಃ । ೧೩-೧೫. ಶ್ರುತರ್ವಣ ಆರ್ಕ್ಷಸ್ಯ ದಾನಸ್ತುತಿಃ ॥
 ಛಂದಃ—೧, ೪, ೭, ೧೦, ೧೩-೧೫. ಅನುಷ್ಟುಪ್ । ೨, ೩, ೫, ೬, ೮, ೯, ೧೧, ೧೨. ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3405,6 +3634,8 @@ O bold Saptavadhri, distressed by the entangling and detaining (basket), break t
 
 Food-desiring (priests, worship) Agni, who is the guest of all man kind, beloved of many ; I address to him in your behalf a domestic homage with hymns, for the attainment of happiness ;
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಂ ಜನಾಸೋ ಹವಿಷ್ಮಂತೋ ಮಿತ್ರಂ ನ ಸರ್ಪಿರಾಸುತಿಮ್ ।
@@ -3434,6 +3665,8 @@ Food-desiring (priests, worship) Agni, who is the guest of all man kind, beloved
 *English Translation.*
 
 (That Agni), to whom clarified butter is offered, whom men, bearing oblations, worship with praises as a friend ;
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3465,6 +3698,8 @@ Food-desiring (priests, worship) Agni, who is the guest of all man kind, beloved
 
 Jatavedas, the earnest praiser of his worshipper, who sends to heaven the oblations presented in the sacrifice.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಗನ್ಮ ವೃತ್ರಹಂತಮಂ ಜ್ಯೇಷ್ಠಮಗ್ನಿಮಾನವಮ್ ।
@@ -3494,6 +3729,8 @@ Jatavedas, the earnest praiser of his worshipper, who sends to heaven the oblati
 *English Translation.*
 
 We have come to that most excellent Agni, mightiest destroyer of the wicked, the benefactor of men, in whose army (of rays) Srutarvan the mighty son of Riksha, waxes great.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3525,6 +3762,8 @@ We have come to that most excellent Agni, mightiest destroyer of the wicked, the
 
 (We have come) to the mortal Jatavedas, who shows light across the darkness, well worthy of praise, and  receiving the offerings of ghi ;
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಬಾಧೋ ಯಂ ಜನಾ ಇಮೇಽಗ್ನಿಂ ಹವ್ಯೇಭಿರೀಳತೇ ।
@@ -3554,6 +3793,8 @@ We have come to that most excellent Agni, mightiest destroyer of the wicked, the
 *English Translation.*
 
 That Agni, whom these crowding worshippers honour with oblations offering to him with up-lifted ladles.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3585,6 +3826,8 @@ That Agni, whom these crowding worshippers honour with oblations offering to him
 
 This new hymn has been made by us for you, O joyful, well-born Agni, glorious in deeds, unbewildered, beautiful, the guest (of man);
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಾ ತೇ ಅಗ್ನೇ ಶಂತಮಾ ಚನಿಷ್ಠಾ ಭವತು ಪ್ರಿಯಾ ।
@@ -3615,6 +3858,8 @@ This new hymn has been made by us for you, O joyful, well-born Agni, glorious in
 
 Agni, may it be dear to you, most pleasant and most agreeable—well praised by it, do you wax great.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಾ ದ್ಯುಮ್ನೈರ್ದ್ಯುಮ್ನಿನೀ ಬೃಹದುಪೋಪ ಶ್ರವಸಿ ಶ್ರವಃ ।
@@ -3644,6 +3889,8 @@ Agni, may it be dear to you, most pleasant and most agreeable—well praised by 
 *English Translation.*
 
 May this (hymn) the rich source of wealth, heap  abundance o nour abundance (with stores won from our enemies) in battle.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3676,6 +3923,8 @@ May this (hymn) the rich source of wealth, heap  abundance o nour abundance (wit
 
 (Worship), you men, the bright (Agni), who goes like a horse and fills our chariots (with spoil), who protects the good like Indra, and by whose might you ravage the stores ( of your enemies ) and all their wonderful (wealth).
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಂ ತ್ವಾ ಗೋಪವನೋ ಗಿರಾ ಚನಿಷ್ಠದಗ್ನೇ ಅಂಗಿರಃ ।
@@ -3706,6 +3955,8 @@ May this (hymn) the rich source of wealth, heap  abundance o nour abundance (wit
 
 Agni, Angiras, whom Gopavana by his praise has made the especial giver of food,—O purifier, hear his prayer.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಂ ತ್ವಾ ಜನಾಸ ಈಳತೇ ಸಬಾಧೋ ವಾಜಸಾತಯೇ ।
@@ -3735,6 +3986,8 @@ O you whom the crowding worshippers praise for the obtainment of food, attend to
 <!-- printed 127 -->
 *[ಅ. ೬. ಅ. ೫. ವ. ೨೩. ]  ಋಗ್ವೇದಸಂಹಿತಾ  127]*
 
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3767,6 +4020,8 @@ Summoned before Shrutarvan, the son of Riksha, the humbler of the
 
 pride of his enemies, (I stroke) with my hand the heads of the four horses (which he has given me), as (men stroke) the long wool of rams.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾಂ ಚತ್ವಾರ ಆಶವಃ ಶವಿಷ್ಠಸ್ಯ ದ್ರವಿತ್ನವಃ ।
@@ -3796,6 +4051,8 @@ Four swift horses of that most mighty king, yoked to a splendid car, bear me for
 <!-- printed 129 -->
 *[ಅ. ೬. ಅ. ೫. ವ. ೨೩. ]  ಋಗ್ವೇದಸಂಹಿತಾ  129]*
 
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3833,6 +4090,9 @@ xxv. 9
 
 > ‘ಯುಕ್ಷ್ವಾ ಹಿ' ಇತಿ ಷೋಡಶರ್ಚ ಷಷ್ಠಂ ಸೂಕ್ತಮಾಂಗಿರಸಸ್ಯ ವಿರೂಪಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಮಾಗ್ನೇಯಮ್ । ತಥಾ ಚಾನುಕ್ರಮಣಿಕಾ-– ‘ಯುಕ್ಷ್ವಾ ಹಿ ಷೋಳಶ ವಿರೂಪಃ' ಇತಿ । ದಶರಾತ್ರೇ ತೃತೀಯೇಽಹನೀದಂ ಸೂಕ್ತಮಾಜ್ಯಶಸ್ತ್ರಮ್ । ಸೂತ್ರಿತಂ ಚ -– ತೃತೀಯೇ ಯುಕ್ಷ್ವಾ ಹೀತ್ಯಾಜ್ಯಮ್' (ಆಶ್ವ. ಶ್ರೌ. ೭. ೧೦) ಇತಿ । ಪ್ರಾತರನುವಾಕೇಽಪ್ಯಾಗ್ನೇಯೇ ಗಾಯತ್ರೇ ಛಂದಸ್ಯಾಶ್ವಿನಶಸ್ತ್ರೇ ಚೇದಂ ಸೂಕ್ತಮ್ । ಸೂತ್ರಿತಂ ಚ --ಯುಕ್ಷ್ವಾ ಹಿ ಪ್ರೇಷ್ಠಂ ವಃ' ( ಆಶ್ವ. ಶ್ರೌ. ೪, ೧೩) ಇತಿ ॥
 ಅನುವಾದವು—ಯುಕ್ಷ್ವಾ ಹಿ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಆರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಪದಿನಾರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ವಿರೂಪ ಆಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು; ಅಗ್ನಿಯು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಯುಕ್ಷ್ವಾ ಹಿ ಷೋಳಶ ವಿರೂಪಃ ಎಂದು ಹೇಳಿರುವುದು. ದಶರಾತ್ರವೆಂಬ ಯಾಗದ ಮೂರನೆಯ ದಿವಸ ಆಜ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತೃತೀಯೇ ಯುಕ್ಷ್ವಾ ಹೀತ್ಯಾಜ್ಯಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೧೦) ವಿವೃತವಾಗಿರುವುದು ಮತ್ತು ಪ್ರಾತರನುವಾಕಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಆಗ್ನೇಯಕ್ರತುಸಂಬಂಧವಾದ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿಯೂ, ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ - ಯುಕ್ಷ್ವಾ ಹಿ ಪ್ರೇಷ್ಠಂ ವಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೩) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೫ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೫
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೫ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೪, ೨೫, ೨೬ ॥
@@ -3840,6 +4100,8 @@ xxv. 9
 ಋಷಿಃ—ವಿರೂಪಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3871,6 +4133,8 @@ xxv. 9
 
 Agni, like a charioteer yoke your good-invoking steeds ; seat yourself first, the invoker.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತ ನೋ ದೇವ ದೇವಾಁ ಅಚ್ಛಾ ವೋಚೋ ವಿದುಷ್ಟರಃ ।
@@ -3901,6 +4165,8 @@ Agni, like a charioteer yoke your good-invoking steeds ; seat yourself first, th
 
 Divine (Agni), proclaim us to the gods as profoundly skilled ; assure to us all desirable things ;
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಹ ಯದ್ಯವಿಷ್ಠ್ಯ ಸಹಸಃ ಸೂನವಾಹುತ ।
@@ -3930,6 +4196,8 @@ Divine (Agni), proclaim us to the gods as profoundly skilled ; assure to us all 
 *English Translation.*
 
 Since you are truthful and worthy of sacrifice, O most youthful, son of strength and everywhere honoured with offerings.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -3965,6 +4233,8 @@ This Agni is the lord of hundredfold and thousandfold food; he is the head, the 
 
 ದರ್ಶಪೂರ್ಣಮಾಸಯಾಗಗಳಲ್ಲಿ ಅಗ್ನಿಯನ್ನುದ್ದೇಶಿಸಿ ಹೋಮಮಾಡುವಾಗ ಅಯಮಗ್ನಿಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ವೈಕಲ್ಪಿಕಯಾಜ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಅಯಮಗ್ನಿಃ ಸಹಸ್ರಿಣ ಇತಿ ವೇದಂ ವಿಷ್ಣುರ್ವಿ ಚಕ್ರಮೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೧-೬) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ನೇಮಿಮೃಭವೋ ಯಥಾ ನಮಸ್ವ ಸಹೂತಿಭಿಃ ।
@@ -3994,6 +4264,8 @@ This Agni is the lord of hundredfold and thousandfold food; he is the head, the 
 *English Translation.*
 
 O Angiras, with the deities associated in the invocation, draw this offering near you as the Ribhus (bend) the circumference of a wheel.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4026,6 +4298,8 @@ O Angiras, with the deities associated in the invocation, draw this offering nea
 
 Virupa, with constant voice address you praise to this well-pleased showerer (of blessings).
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಮು ಷ್ವಿದಸ್ಯ ಸೇನಯಾಗ್ನೇರಪಾಕಚಕ್ಷಸಃ ।
@@ -4056,6 +4330,8 @@ Virupa, with constant voice address you praise to this well-pleased showerer (of
 
 What strong enemy shall we overthrow, to win cows by the help of the host of this Agni of unmeasured radiance ?
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾ ನೋ ದೇವಾನಾಂ ವಿಶಃ ಪ್ರಸ್ನಾತೀರಿವೋಸ್ರಾಃ ।
@@ -4085,6 +4361,8 @@ What strong enemy shall we overthrow, to win cows by the help of the host of thi
 *English Translation.*
 
 May he not ( forsake ) us, the licgemen of the gods, as the milk-streaming cows (forske not) ; the cows abandon not a little (calf).
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4130,6 +4408,8 @@ Let not the onset of any evil-minded adversary harm us as the wave (overwhelms) 
 *[140	ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ	[ ಮಂ. ೮. ಅ. ೮. ಸೂ. ೨೫.]*
 
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಮಸ್ತೇ ಅಗ್ನ ಓಜಸೇ ಗೃಣಂತಿ ದೇವ ಕೃಷ್ಟಯಃ ।
@@ -4156,6 +4436,8 @@ Let not the onset of any evil-minded adversary harm us as the wave (overwhelms) 
 *English Translation.*
 
 Divine Agni, men utter your praises for the attainment of strength ; by strength destroy the enemy.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4195,6 +4477,8 @@ Agni, send us abundance of wealth to satisfy our desires ; giver of free space, 
 *[142	ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ	[ ಮಂ. ೮. ಅ. ೮. ಸೂ. ೨೫.]*
 
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾ ನೋ ಅಸ್ಮಿನ್ಮಹಾಧನೇ ಪರಾ ವರ್ಗ್ಭಾರಭೃದ್ಯಥಾ ।
@@ -4220,6 +4504,8 @@ Agni, send us abundance of wealth to satisfy our desires ; giver of free space, 
 *English Translation.*
 
 Leave us not in this conflict as a bearer his burden ; win for us the plundered wealth of our foes.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4251,6 +4537,8 @@ Leave us not in this conflict as a bearer his burden ; win for us the plundered 
 
 Agni, may your plagues pursue some other to terrify him ; increase our vigorous strength is battle.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯಾಜುಷನ್ನಮಸ್ವಿನಃ ಶಮೀಮದುರ್ಮಖಸ್ಯ ವಾ ।
@@ -4281,6 +4569,8 @@ Agni, may your plagues pursue some other to terrify him ; increase our vigorous 
 
 Agni especiallv protects (in battle) that praiser or zealous sacrificer whose offerings he has attended.
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಸ್ಯಾ ಅಧಿ ಸಂವತೋಽವರಾಁ ಅಭ್ಯಾ ತರ ।
@@ -4310,6 +4600,8 @@ Agni especiallv protects (in battle) that praiser or zealous sacrificer whose of
 *English Translation.*
 
 Deliver us wholly from the hostile army, shield those among whom I am (lord).
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4347,6 +4639,9 @@ We know your protection, Agni, as of a father in former times, therefore we (aga
 
 > ‘ಇಮಂ ನು ಮಾಯಿನಮ್' ಇತಿ ದ್ವಾದಶರ್ಚಂ ಸಪ್ತಮಂ ಸೂಕ್ತಮ್ । ಕುರುಸುತಿರ್ನಾಮ ಕಾಣ್ವ ಋಷಿಃ । ಗಾಯತ್ರೀ ಛಂದಃ । ಇಂದ್ರೋ ದೇವತಾ । ತಥಾ ಚಾನುಕ್ರಾಂತಮ್- ‘ ಇಮಂ ನು ದ್ವಾದಶ ಕುರುಸುತಿಃ ಕಾಣ್ವಃ' ಇತಿ । ವ್ಯೂಢೇ ದಶರಾತ್ರೇ ಚತುರ್ಥೇಽಹನಿ ಮರುತ್ವತೀಯ ಆದ್ಯಸ್ತೃಚಃ । ಸೂತ್ರಿತಂ ಚ--' ಇಮಂ ನು ಮಾಯಿನಂ ಹುವೇ ತ್ಯಮು ವಃ ಸತ್ರಾಸಾಹಮ್' ( ಆಶ್ವ. ಶ್ರೌ. ೮. ೮) ಇತಿ ॥
 ಅನುವಾದವು—ಇಮಂ ನು ಮಾಯಿನಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಏಳನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹನ್ನೆರಡು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕಣ್ವಗೋತ್ರೋದ್ಭವನಾದ ಕುರುಸುತಿಃ ಎಂಬುವನು ಋಷಿಯು ; ಇಂದ್ರನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಇಮಂ ನು ದ್ವಾದಶ ಕುರುಸುತಿಃ ಕಾಣ್ವಃ ಎಂದು ಹೇಳಿರುವುದು. ವ್ಯೂಢವೆಂಬ ದಶರಾತ್ರಯಾಗದಲ್ಲಿ ನಾಲ್ಕನೆಯ ದಿವಸ ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಇಮಂ ನು ಮಾಯಿನಂ ಎಂದು ಮೊದಲಾಗುವ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಪ್ರಾರಂಭದ ತೃಚವನ್ನಾಗಿ ಪಠಿಸರ್ಜೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ ಇಮಂ ನು ಮಾಯಿನಂ ಹುವೇ ತ್ವಮು ವಃ ಸತ್ರಾಸಾಹಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೮) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೬ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೬
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೮ । ಸೂಕ್ತ—೭೬ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೭. ೨೮ ।
@@ -4358,6 +4653,8 @@ We know your protection, Agni, as of a father in former times, therefore we (aga
 <!-- printed 147 -->
 *[ಅ. ೬. ಅ. ೫. ವ. ೨೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 147]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4384,6 +4681,8 @@ We know your protection, Agni, as of a father in former times, therefore we (aga
 *English Translation.*
 
 I invoke now for the destruction of my enemies the wise Indra attended by the Maruts, ruling all by his power.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4414,6 +4713,8 @@ I invoke now for the destruction of my enemies the wise Indra attended by the Ma
 *English Translation.*
 
 Indra, attended by the Maruts, has cleft the head of Vritra with his hundred jointed thunderbolt.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4446,6 +4747,8 @@ Indra, attended by the Maruts, has cleft the head of Vritra with his hundred joi
 
 Indra, increasing in might, attended by the Maruts, has torn Vritra asunder, letting loose the waters of the firmament.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಂ ಹ ಯೇನ ವಾ ಇದಂ ಸ್ವರ್ಮರುತ್ವತಾ ಜಿತಮ್ ।
@@ -4475,6 +4778,8 @@ Indra, increasing in might, attended by the Maruts, has torn Vritra asunder, let
 *English Translation.*
 
 This is that Indra, by whom assisted by the Maruts, yonder heaven was conquered, to quaff the Soma.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4506,6 +4811,8 @@ This is that Indra, by whom assisted by the Maruts, yonder heaven was conquered,
 
 We invoke with our praises the mighty Indra, accompanied by the Maruts, the vigorous accepter of the residue of the oblation.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಂ ಪ್ರತ್ನೇನ ಮನ್ಮನಾ ಮರುತ್ವಂತಂ ಹವಾಮಹೇ ।
@@ -4536,6 +4843,8 @@ We invoke with our praises the mighty Indra, accompanied by the Maruts, the vigo
 *English Translation.*
 
 With an ancient hymn we invoke Indra with the Maruts, to drink this Soma.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4571,6 +4880,8 @@ Indra, Satakratu, showerer (of blessings), drink the Soma at this offering, acco
 
 ಯಾಗದ ಐದನೆಯ ದಿವಸ ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಪಠಿಸುವಾಗ ಮರುತ್ವಾ ಇಂದ್ರ ಮೀಢ್ವಃ ಎಂದು ಮೊದಲಾಗುವ ಈ ತೃಚವನ್ನು ನಿವಿದ್ಧಾನೀಯಮಂತ್ರಗಳಲ್ಲಿ ಸೇರಿಸಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಮರುತ್ವಾ ಇಂದ್ರ ಮೀಢ್ವಸ್ತಮಿಂದ್ರಂ ವಾಜಯಾಮಸಿ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೮) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತುಭ್ಯೇದಿಂದ್ರ ಮರುತ್ವತೇ ಸುತಾಃ ಸೋಮಾಸೋ ಅದ್ರಿವಃ ।
@@ -4600,6 +4911,8 @@ Indra, Satakratu, showerer (of blessings), drink the Soma at this offering, acco
 *English Translation.*
 
 Thunderer Indra, to you with the Maruts are these Soma-libations effused,—they are offered to you in faith, with recited hymns.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4631,6 +4944,8 @@ Thunderer Indra, to you with the Maruts are these Soma-libations effused,—they
 *English Translation.*
 
 Drink, Indra, with your friends the Maruts, this Soma, effused on the recurring sacred days, and sharpen your thunderbolt with ( renewed ) vigour.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4666,6 +4981,8 @@ Rising up in your strength, Indra, you shook your jaws, when you had quaffed the
 
 ಯಾಗದ ಚತುರ್ವಿಂಶವೆಂಬ ದಿನದ ಪ್ರಾತಃಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಉತ್ತಿಷ್ಠನ್ ಎಂಬ ತೃಚವನ್ನು ಷಳಹಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಉತ್ತಿಷ್ಠನ್ನೋಜಸಾ ಸಹ ಭಿಂಧಿ ವಿಶ್ವಾ ಅಪ ದ್ವಿಷ ಇತಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿನಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಅ. ೭-೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅನು ತ್ವಾ ರೋದಸೀ ಉಭೇ ಕ್ರಕ್ಷಮಾಣಮಕೃಪೇತಾಮ್ ।
@@ -4695,6 +5012,8 @@ Rising up in your strength, Indra, you shook your jaws, when you had quaffed the
 *English Translation.*
 
 Let heaven and earth follow you Indra, as you smite; when you beat down the Dasyu.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4731,6 +5050,9 @@ I make this sacrificial hymn, reaching to the eight points (of the sky) and risi
 
 > ‘ಜಜ್ಞಾನಃ' ಇತ್ಯೇಕಾದಶರ್ಚಮಷ್ಟಮಂ ಸೂಕ್ತಂ ಕಾಣ್ವಸ್ಯ ಕುರುಸುತೇರಾರ್ಷಮ್ । ಆದ್ಯಾ ನವ ಗಾಯತ್ರ್ಯೋ ದಶಮೀ ಬೃಹತ್ಯೇಕಾದಶೀ ಸತೋಬೃಹತೀ । ಇಂದ್ರೋ ದೇವತಾ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ- ಜಜ್ಞಾನ ಏಕಾದಶ ಪ್ರಗಾಥಾಂತಮ್' ಇತಿ । ಮಹಾವ್ರತೇ ನಿಷ್ಕೇವಲ್ಯೇ 'ಜಜ್ಞಾನೋ ನು ಶತಕ್ರತುಃ' ಇತ್ಯೇಷಾ । ತಥೈವ ಪಂಚಮಾರಣ್ಯಕೇ ಸೂತ್ರಿತಂ- ಜಜ್ಞಾನೋ ನು ಶತಕ್ರತುರಿತ್ಯೇಕಾ' (ಐ. ಆ. ೫. ೨. ೩) ಇತಿ
 ಅನುವಾದವು—ಜಜ್ಞಾನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎಂಟನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹನ್ನೊಂದು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕಣ್ವಗೋತ್ರಜನಾದ ಕುರುಸುತಿ ಎಂಬುವನು ಋಷಿಯು. ಈ ಸೂಕ್ತದಲ್ಲಿ ಮೊದಲಿನ ಒಂಭತ್ತು ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ಹತ್ತನೆಯದು ಬೃಹತೀ, ಹನ್ನೊಂದನೆಯದು ಸತೋಬೃಹತೀಛಂದಸ್ಕವು. ಇಂದ್ರನು ದೇವತೆಯು ; ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಜಜ್ಞಾನ ಏಕಾದಶ ಪ್ರಗಥಾಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಪಠನಮಾಡುವಾಗ ಜಜ್ಞಾನೋ ನು ಶತಕ್ರತುಃ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ಜಜ್ಞಾನೋ ನು ಶತಕ್ರತುರಿತ್ಯೇಷಾ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೨-೭) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೭ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೭
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೭ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೨೯, ೩೦, ॥
@@ -4738,6 +5060,8 @@ I make this sacrificial hymn, reaching to the eight points (of the sky) and risi
 ಋಷಿಃ—ಕುರುಸುತಿಃ ಕಾಣ್ವಃ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—೧-೯, ಗಾಯತ್ರೀ । ೧೦, ಬೃಹತೀ । ೧೧. ಸತೋಬೃಹತೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4769,6 +5093,8 @@ I make this sacrificial hymn, reaching to the eight points (of the sky) and risi
 
 As soon as he was born Satakratu asked his mother-Who are the mighty, who are renowned ?
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆದೀಂ ಶವಸ್ಯಬ್ರವೀದೌರ್ಣವಾಭಮಹೀಶುವಮ್ ।
@@ -4799,6 +5125,8 @@ As soon as he was born Satakratu asked his mother-Who are the mighty, who are re
 
 His strong mother answered,—Aurnavabha and Ahishuva, be these my son, the foes whom you shall overcome.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮಿತ್ತಾನ್ವೃತ್ರಹಾಖಿದತ್ಖೇ ಅರಾಁ ಇವ ಖೇದಯಾ ।
@@ -4828,6 +5156,8 @@ His strong mother answered,—Aurnavabha and Ahishuva, be these my son, the foes
 *English Translation.*
 
 The slayer of Vritra dragged them along as spokes (are tied fast) with a rope in the nave of a chariot wheel: he swelled in vigour, the slayer of enemies.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4889,6 +5219,8 @@ At one draught Indra drank at once thrity lakes filled with Soma.
 ತೇನ ಚೇಂದ್ರೋ ವರುಣೋ ಬೃಹಸ್ಪತಿರಾಪ್ಯಾಯಯಂತು ಭುವನಸ್ಯ ಗೋಪಾಃ ॥
 ಎಂಬ ಶ್ರುತಿವಾಕ್ಯದ ಸಮರ್ಥನೆಯೂ ಇರುವುದು. ಇದು ನಿರುಕ್ತಕಾರರ ಅಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಗಂಧರ್ವಮತೃಣದಬುಧ್ನೇಷು ರಜಸ್ಸ್ವಾ ।
@@ -4918,6 +5250,8 @@ At one draught Indra drank at once thrity lakes filled with Soma.
 *English Translation.*
 
 In the realms (of the sky) where the foot finds no resting-place, Indra shattered the cloud to bring increase to the Brahmans.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -4956,6 +5290,8 @@ Indra smote (rain) from the clouds with his far-stretched arrow, he secured boil
 (ನಿ ೬-೩೪)
 ಬುಂದ ಎಂದರೆ ಬಾಣವು. ಬಾಣವು ಲಕ್ಷ್ಯವಸ್ತುವನ್ನು ಚುಚ್ಚುವುದರಿಂದ ಅಥವಾ ಶತ್ರುಗೆ ಭಯವನ್ನುಂಟುಮಾಡುವುದರಿಂದ ಅಥವಾ ಬಿಲ್ಲಿನಿಂದ ಹೊರಟಾಗ ಪ್ರಕಾಶಿಸುವುದರಿಂದ ಬಾಣಕ್ಕೆ ಬುಂದೆಂದು ಹೆಸರು. ಈ ಶಬ್ದದ ಪ್ರಯೋಗವು ಪ್ರಕೃತ ಋಕ್ಕಿನಲ್ಲಿರುವುದು. ಇಂದ್ರನು ಪರ್ವತಗಳಲ್ಲಿ ನಿಂತು ಅಲ್ಲಿಂದ ಜಿಲ್ಲಿನಲ್ಲಿ ಬಾಣವನ್ನು ಹೂಡಿ ಅದನ್ನು ಆಕರ್ಣಾಂತವಾಗಿ ಎಳೆದು ವೃಷ್ಟಿಯನ್ನು ಸುರಿಸಲು ಸಮರ್ಥನಾಗಿರುವ ಎಂದರೆ ಹೆಚ್ಚಾದ ನೀರಿನಿಂದ ಪೂರ್ಣವಾದ ಮೇಘವನ್ನು ಸೀಳಿ ವೃಷ್ಟಿಯನ್ನು ಸುರಿಸಿದನು ಎಂಬ ನಿರ್ವಚನದ ಅಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶತಬ್ರಧ್ನ ಇಷುಸ್ತವ ಸಹಸ್ರಪರ್ಣ ಏಕ ಇತ್ ।
@@ -4987,6 +5323,8 @@ Indra smote (rain) from the clouds with his far-stretched arrow, he secured boil
 
 That single shaft of yours, Indra, which you make your ally, is hundred-pointed, thousand-feathered.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೇನ ಸ್ತೋತೃಭ್ಯ ಆ ಭರ ನೃಭ್ಯೋ ನಾರಿಭ್ಯೋ ಅತ್ತವೇ ।
@@ -5017,6 +5355,8 @@ That single shaft of yours, Indra, which you make your ally, is hundred-pointed,
 
 Forthwith increased ( by our offerings ), you, mighty and firm, by that (weapon) bring (wealth) for sustenance to us your praisers, our children, and our wives.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏತಾ ಚ್ಯೌತ್ನಾನಿ ತೇ ಕೃತಾ ವರ್ಷಿಷ್ಠಾನಿ ಪರೀಣಸಾ ।
@@ -5046,6 +5386,8 @@ Forthwith increased ( by our offerings ), you, mighty and firm, by that (weapon)
 *English Translation.*
 
 These gignatic far reaching efforts were put forth by you ; you fiixed them firm in your thought.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5134,6 +5476,8 @@ The wide-traversing Sun, depatched by you, brings (to the world) all these ( wat
 
 ಶಿಂದಲೂ, ಉತ್ತಮವಾದ ಆ ಗೆಡ್ಡೆಗೆಣಸುಗಳನ್ನು ಬುಡಸಹಿತ ಕಿತ್ತು ಧ್ವಂಸಮಾಡುವುದರಿಂದಲೂ ಸೂಕದ ಅಥವಾ ಹಂದಿಗೆ ವರಾಹ ಎಂಬ ಹೆಸರು ಬಂದಿದೆ. ಈ ವಿಷಯದಲ್ಲಿ ಪ್ರಕೃತ ಋಕ್ಕಿನಲ್ಲಿರುವ ವರಾಹಮಿಂದ್ರ ಏಮುಷಂ—ಇಂದ್ರನು ಆಹಾರಧ್ವಂಸಕವಾದ ಹಂದಿಯನ್ನು (ಆಸುರನನ್ನು) ಸೀಳಿ ಕೊಂದನು—ಎಂಬ ಶ್ರುತಿವಾಕ್ಯವು ಈ ವಿಧವಾದ ಅರ್ಥದ ಸಮರ್ಥನೆಗೆ ಉದಾಹರಣೆಯಾಗಿದೆ. ಇದೇ ನಿರುಕ್ತದ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತುವಿಕ್ಷಂ ತೇ ಸುಕೃತಂ ಸೂಮಯಂ ಧನುಃ ಸಾಧುರ್ಬುಂದೋ ಹಿರಣ್ಯಯಃ ।
@@ -5183,6 +5527,9 @@ xxv. 12
 
 > ‘ ಪುರೋಳಾಶಂ ನಃ' ಇತಿ ದಶರ್ಚಂ ನವಮಂ ಸೂಕ್ತಂ ಕಾಣ್ವಸ್ಯ ಕುರುಸುತೇರಾರ್ಷಮ್ । ಆದ್ಯಾ ನವ ಗಾಯತ್ರ್ಯೋ ದಶಮೀ ಬೃಹತೀ । ಇಂದ್ರೋ ದೇವತಾ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ-' ಪುರೋಳಾಶಂ ದಶ ಬೃಹತ್ಯಂತಮ್' ಇತಿ । ಸೂಕ್ತವಿನಿಯೋಗೋ ಲೈಂಗಿಕಃ । ಮಹಾವ್ರತೇ ನಿಷ್ಕೇವಲ್ಯೇ ಗಾಯತ್ರತೃಚಾಶೀತಾವಾದ್ಯಾಸ್ತಿಸ್ರ ಋಚಃ । ತಥಾ ಚ ಸೂತ್ರಿತಂ - ' ಪುರೋಳಾಶಂ ನೋ ಅಂಧಸ ಇತಿ ತಿಸ್ರಃ ' ( ಐ. ಆ. ೫. ೨. ೩ ) ಇತಿ ॥
 ಅನುವಾದವು—ಪುರೋಳಾಶಂ ನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಒಂಭತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕುರುಸುತಿಃಣ್ವಃ ಎಂಬಾವನು ಋಷಿಯು; ಇಂದ್ರನು ದೇವತೆಯು; ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಒಂಭತ್ತು ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ಹತ್ತನೆಯದು ಬೃಹತೀಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪುರೋಳಾಶಂ ದಶ ಬೃಹತ್ಕಾಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವು ಲೈಂಗಿಕವು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವೊದಲ ಮೂರು ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ಪುರೋಳಾಶಂ ನೋ ಅಂಧಸ ಇತಿ ತಿಸ್ರಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೩-೬ । ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೭೮ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೮
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೮ । ಸೂಕ್ತ—೭೮ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೫ । ವರ್ಗ—೩೦, ೩೧ ।
@@ -5190,6 +5537,8 @@ xxv. 12
 ಋಷಿ—ಕುರುಸುತಿಃಣ್ವಃ ।
 ದೇವತಾ—ಇಂದ್ರಃ ।
 ಛಂದಃ—೧-೯ ಗಾಯತ್ರೀ । ೧೦. ಬೃಹತೀ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5221,6 +5570,8 @@ xxv. 12
 
 (Accepting) our offering of sacrificial viands, O hero Indra, bring us thousands and hundreds of cows.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ನೋ ಭರ ವ್ಯಂಜನಂ ಗಾಮಶ್ವಮಭ್ಯಂಜನಮ್ ।
@@ -5251,6 +5602,8 @@ xxv. 12
 
 Bring us condiments, cows, horses, and oil, (bring us) with them precious golden (vessels).
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತ ನಃ ಕರ್ಣಶೋಭನಾ ಪುರೂಣಿ ಧೃಷ್ಣವಾ ಭರ ।
@@ -5280,6 +5633,8 @@ Bring us condiments, cows, horses, and oil, (bring us) with them precious golden
 *English Translation.*
 
 O resolute one, bring us many ear-ornaments; giver of dwellings, you are renowned.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5312,6 +5667,8 @@ O resolute one, bring us many ear-ornaments; giver of dwellings, you are renowne
 
 There is no prosperer other than you, no divider of the spoil, no giver of boons; O hero, there is no (leader) of the sacrificer other than you
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಕೀಮಿಂದ್ರೋ ನಿಕರ್ತವೇ ನ ಶಕ್ರಃ ಪರಿಶಕ್ತವೇ ।
@@ -5341,6 +5698,8 @@ There is no prosperer other than you, no divider of the spoil, no giver of boons
 *English Translation.*
 
 Indra cannot be brought low, he cannot be overpowered—he hears, he sees all.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5372,6 +5731,8 @@ Indra cannot be brought low, he cannot be overpowered—he hears, he sees all.
 
 Unharmed he brings low the wrath of mortals; before any one can reproach him, he brings him low.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕ್ರತ್ವ ಇತ್ಪೂರ್ಣಮುದರಂ ತುರಸ್ಯಾಸ್ತಿ ವಿಧತಃ ।
@@ -5402,6 +5763,8 @@ The belly of the Soma-drinker, the eager slayer of Vritra, is filled by the sacr
 *[ಅ. ೬. ಅ. ೫. ವ. ೩೨. ]  ಋಗ್ವೇದಸಂಹಿತಾ  185]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವೇ ವಸೂನಿ ಸಂಗತಾ ವಿಶ್ವಾ ಚ ಸೋಮ ಸೌಭಗಾ ।
@@ -5427,6 +5790,8 @@ The belly of the Soma-drinker, the eager slayer of Vritra, is filled by the sacr
 *English Translation.*
 
 In you, O drinker of the Soma, are treasures stored, and all precious things and unblemished gifts.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5457,6 +5822,8 @@ In you, O drinker of the Soma, are treasures stored, and all precious things and
 *English Translation.*
 
 To you my desire hastens, seeking barley, cows and gold-to you it hastens seeking horses.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5497,6 +5864,9 @@ I take my sickle also in hand, Indra, with a prayer to you ; fill it, Maghavan, 
 *[೧೮೮   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ಮಂ. ೯. ಅ. ೮. ಸೂ. ೭೯]*
 
 ಅನುವಾದವು— ಅಯಂ ಕೃತ್ನುಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎಂಟನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಭಾರ್ಗವಃ ಕೃತ್ನುಃ ಎಂಬುವನು ಋಷಿಯು ; ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ-ಅಯಂ ಕೃತ್ನುರ್ನವ ಕೃತ್ನುರ್ಭಾರ್ಗವಃ ಸೌಮ್ಯಮಂತ್ಯಾನುಷ್ಟುಪ್ ಎಂದು ಹೇಳಿರುವುದು. ಸೋಮನು ದೇವತೆಯು; ಈ ಸೂಕ್ತದ ಒಂಭತ್ತನೆಯ ಋಕ್ಕು ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಉಳಿದ ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ಸೂಕ್ತವಿನಿಯೋಗವು ಲೈಂಗಿಕವು.
+
+## ಸೂಕ್ತ ೭೯ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೭೯
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೭೯ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೩೩, ೩೪ ॥
@@ -5504,6 +5874,8 @@ I take my sickle also in hand, Indra, with a prayer to you ; fill it, Maghavan, 
 ಋಷಿಃ—ಕೃತ್ನುರ್ಭಾರ್ಗವಃ ॥
 ದೇವತಾ—ಅಗ್ನಿಃ ।
 ಛಂದಃ—೧-೮ ಗಾಯತ್ರೀ । ೯ ಅನುಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5536,6 +5908,8 @@ I take my sickle also in hand, Indra, with a prayer to you ; fill it, Maghavan, 
 
 This all-creating Soma, obstructed by none, the conqueror of all, the producer of fruit, the seer, the wise, (is to be praised) with a hymn.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭ್ಯೂರ್ಣೋತಿ ಯನ್ನಗ್ನಂ ಭಿಷಕ್ತಿ ವಿಶ್ವಂ ಯತ್ತುರಮ್ ।
@@ -5565,6 +5939,8 @@ This all-creating Soma, obstructed by none, the conqueror of all, the producer o
 *English Translation.*
 
 He covers what is naked, he heals all that is sick, the blind sees, the lame walks.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5596,6 +5972,8 @@ He covers what is naked, he heals all that is sick, the blind sees, the lame wal
 
 Soma, you offer us a wide shelter from the wasting enmities wrought by our foes.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಚಿತ್ತೀ ತವ ದಕ್ಷೈರ್ದಿವ ಆ ಪೃಥಿವ್ಯಾ ಋಜೀಷಿನ್ ।
@@ -5625,6 +6003,8 @@ O Rijishin, by your wisdom and might, drive away the enmity of our oppressor fro
 <!-- printed 192 -->
 *[೧೯೨   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ಮಂ. ೯. ಅ. ೮. ಸೂ. ೭೯]*
 
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5656,6 +6036,8 @@ The petitioners seek for wealth, they attend the bounty of the liberal ; (by you
 *[ಅ. ೬. ಅ. ೫. ವ. ೩೪.]  ಋಗ್ವೇದಸಂಹಿತಾ  193]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿದದ್ಯತ್ಪೂರ್ವ್ಯಂ ನಷ್ಟಮುದೀಮೃತಾಯುಮೀರಯತ್ ।
@@ -5681,6 +6063,8 @@ The petitioners seek for wealth, they attend the bounty of the liberal ; (by you
 *English Translation.*
 
 (Soma) urges him on when the sacrificer obtains ( by offerings ) his old lost wealth, he lengthens out his unending life.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5713,6 +6097,8 @@ The petitioners seek for wealth, they attend the bounty of the liberal ; (by you
 
 Most gracious and conferring joy, void of pride in your acts, and never failing, dwell, Soma, auspiciously in our hearts.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾ ನಃ ಸೋಮ ಸಂ ವೀವಿಜೋ ಮಾ ವಿ ಬೀಭಿಷಥಾ ರಾಜನ್ ।
@@ -5742,6 +6128,8 @@ Most gracious and conferring joy, void of pride in your acts, and never failing,
 *English Translation.*
 
 O Soma, cause us not to tremble, frighten us not, O king ; smite not our hearts with your brightness
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5783,6 +6171,9 @@ When in my house I watch against the enemies of the gods, then, O king drive awa
 *[ಅ. ೬. ಅ. ೫. ವ. ೩೫ ]  ಋಗ್ವೇದಸಂಹಿತಾ  197]*
 
 ಈ ಸೂಕ್ತದ ಕೊನೆಯ ಋಕ್ಕು ತ್ರಿಷ್ಟುಪ್‌ಛಂದಸ್ಕವು. ಉಳಿದ ಋಕ್ಕುಗಳು ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ದ್ವಿತೀಯ ಪರ್ಯಾಯದಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಎಂಟು ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ನಹ್ಯನ್ಯಂ ಬಳಾಕರಮಿತ್ಯಷ್ಟೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬–೪) ವಿವೃತವಾಗಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಪಠಿಸುವಾಗ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಋಕ್ಕಿನ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ನಹ್ಯನ್ಯಂ ಬಳಾಕರಮಿತ್ಯೇತಾಂ ಪ್ರತ್ಯವದಧಾತಿ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ.ಆ. ೫-೨-೩) ಶೌನಕಮಹರ್ಷಿಯಿಂದ ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮೦ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೦
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೮೦ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೩೫, ೩೬, ॥
@@ -5790,6 +6181,8 @@ When in my house I watch against the enemies of the gods, then, O king drive awa
 ಋಷಿಃ—ಏಕದ್ಯೂರ್ನೌಧಸಃ ॥
 ದೇವತಾ—೧-೯. ಇಂದ್ರಃ । ೧೦, ದೇವಾಃ ॥
 ಛಂದಃ—೧-೯, ಗಾಯತ್ರೀ । ೧೦, ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5821,6 +6214,8 @@ When in my house I watch against the enemies of the gods, then, O king drive awa
 
 Other then you, Satakratu, I know no bestower of happiness ; Indra, you make us happy.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೋ ನಃ ಶಶ್ವತ್ಪುರಾವಿಥಾಮೃಧ್ರೋ ವಾಜಸಾತಯೇ ।
@@ -5851,6 +6246,8 @@ O you, the invulnerable, who have always in former times protected us for the ba
 *[ಅ. ೬. ಅ. ೫. ವ. ೩೫. ]  ಋಗ್ವೇದಸಂಹಿತಾ  ೧೯೯]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಿಮಂಗ ರಧ್ರಚೋದನಃ ಸುನ್ವಾನಸ್ಯಾವಿತೇದಸಿ ।
@@ -5876,6 +6273,8 @@ O you, the invulnerable, who have always in former times protected us for the ba
 *English Translation.*
 
 Director of the worshipper, you are the guardian of the offerer ; help us mightily.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5907,6 +6306,8 @@ Director of the worshipper, you are the guardian of the offerer ; help us mighti
 
 Indra, protect our chariot ; though now left behind, set it in the front, O thunderer.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಹಂತೋ ನು ಕಿಮಾಸಸೇ ಪ್ರಥಮಂ ನೋ ರಥಂ ಕೃಧಿ ।
@@ -5936,6 +6337,8 @@ Indra, protect our chariot ; though now left behind, set it in the front, O thun
 *English Translation.*
 
 Up, why do you sit still ? Make our chariot the first ; our food-seeking offering is near you
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -5967,6 +6370,8 @@ Up, why do you sit still ? Make our chariot the first ; our food-seeking offerin
 
 Protect our food-secking chariot ; everything is easy for you to do ; make us completely victorious.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರ ದೃಹ್ಯಸ್ವ ಪೂರಸಿ ಭದ್ರಾ ತ ಏತಿ ನಿಷ್ಕೃತಮ್ ।
@@ -5996,6 +6401,8 @@ Protect our food-secking chariot ; everything is easy for you to do ; make us co
 *English Translation.*
 
 Indra, be firm (in battle), you are (strong as) a city ; to you, the repeller (of enemies), comes this auspicious sacrifice, offered in due season.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6027,6 +6434,8 @@ Indra, be firm (in battle), you are (strong as) a city ; to you, the repeller (o
 
 Let not reproach reaeh us ; far off is the goal ; there is the wealth stored ; may onr enemies be excluded.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತುರೀಯಂ ನಾಮ ಯಜ್ಞಿಯಂ ಯದಾ ಕರಸ್ತದುಶ್ಮಸಿ ।
@@ -6056,6 +6465,8 @@ Let not reproach reaeh us ; far off is the goal ; there is the wealth stored ; m
 *English Translation.*
 
 When you assume your sacrificial fourth name, we long for it ; then you forthwith carry us as a protector.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6096,6 +6507,9 @@ O immortal gods and all you goddesses, Ekadyu has honoured you (with his praise)
 
 > ನವಮೇಽನುವಾಕೇ ತ್ರಯೋದಶ ಸೂಕ್ತಾನಿ । ತತ್ರ ‘ಆ ತೂ ನ ಇಂದ್ರ' ಇತಿ ನವರ್ಚಂ ಪ್ರಥಮಂ ಸೂಕ್ತಂ ಕಣ್ವಪುತ್ರಸ್ಯ ಕುಸೀದಿನ ಆರ್ಷಂ ಗಾಯತ್ರಮೈಂದ್ರಮ್ । ತಥಾ ಚಾನುಕ್ರಮ್ಯತೇ--- ಆ ತೂ ನೋ ನವ ಕುಸೀದೀ ಕಾಣ್ವಃ' ಇತಿ । ಮಹಾವ್ರತೇ ನಿಷ್ಕೇವಲ್ಯೇ ಗಾಯತ್ರತೃಚಾಶೀತಾವೇತದಾದಿಕೇ ದ್ವೇ ಸೂಕ್ತೇ । ತಥೈವ ಪಂಚಮಾರಣ್ಯಕೇ ಸೂತ್ರಿತಂ ಚ ಶೌನಕೇನ - ‘ಆ ತೂ ನ ಇಂದ್ರ ಕ್ಷುಮಂತಮಿತಿ ಸೂಕ್ತೇ ಸೂದದೋಹಾಃ' (ಐ. ಆ. ೫. ೨. ೩) ಇತಿ । ದ್ವಿತೀಯೇ ಪರ್ಯಾಯೇ ಮೈತ್ರಾವಣಶಸ್ತ್ರ ಆದ್ಯಸ್ತೃಚಃ ಸ್ತೋತ್ರಿಯಃ । ಸೂತ್ರಿತಂ ಚ--- ಆ ತೂ ನ ಇಂದ್ರ ಕ್ಷುಮಂತಮಾ ಪ್ರ ದ್ರವ ಪರಾವತಃ ' ( ಆಶ್ವ. ಶ್ರೌ. ೬. ೪ ) ಇತಿ ।
 ಅನುವಾದವು—ಎಂಟನೆಯ ಮಂಡಲದ ಒಂಭತ್ತನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿಮೂರು ಸೂಕ್ತಗಳಿರುವವು. ಅವುಗಳಲ್ಲಿ ಆ ತೂ ನ ಇಂದ್ರ ಎಂಬ ಸೂಕ್ತವು ಮೊದಲನೆಯದು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಕಣ್ವಪುತ್ರನಾದ ಕುಸೀದೀ ಎಂಬುವನು ಋಷಿಯು; ಇಂದ್ರನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ತೂ ನೋ ನವ ಕುಸೀದೀ ಕಾಣ್ವಃ ಎಂದು ಹೇಳಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಪಠನದಲ್ಲಿ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮತ್ತು ಮುಂದಿನ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ ಶೌನಕಮಹರ್ಷಿಯಿಂದ—ಆ ತೂ ನ ಇಂದ್ರ ಕ್ಷುಮಂತಮಿತಿ ಸೂಕ್ತೇ ಸೂದದೋಹಾಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ.ಆ. ೫-೨-೩) ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು ಮತ್ತು ಎರಡನೇ ಪರ್ಯಾಯದಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಈ ಸೂಕ್ತದ ಮೊದಲ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಸ್ತೋತ್ರಿಯಾತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಆ ತೂ ನ ಇಂದ್ರ ಕ್ಷುಮಂತಮಾ ಪ್ರ ದ್ರವ ಪರಾವತಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪೪) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮೧ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೧
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೮ ॥ ಸೂಕ್ತ—೮೧ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೫ ॥ ವರ್ಗ—೩೭, ೩೮ ॥
@@ -6103,6 +6517,8 @@ O immortal gods and all you goddesses, Ekadyu has honoured you (with his praise)
 ಋಷಿಃ—ಕುಸೀದೀ ಕಾಣ್ವಃ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6134,6 +6550,8 @@ O immortal gods and all you goddesses, Ekadyu has honoured you (with his praise)
 
 Indra, lord of the mighty hand, seize for us with your right hand marvellous praise-exciting (riches), worthy to be seized.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿದ್ಮಾ ಹಿ ತ್ವಾ ತುವಿಕೂರ್ಮಿಂ ತುವಿದೇಷ್ಣಂ ತುವೀಮಘಮ್ ।
@@ -6163,6 +6581,8 @@ Indra, lord of the mighty hand, seize for us with your right hand marvellous pra
 *English Translation.*
 
 We know you the achiever of many great deeds, the bestower of many gifts, the lord of much wealth, vast in size, and full of protection (for your worshippers).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6194,6 +6614,8 @@ We know you the achiever of many great deeds, the bestower of many gifts, the lo
 *English Translation.*
 
 Hero, when you desire to give, neither gods nor men can stay you, as (they cannot stay) a terrible bull.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6229,6 +6651,8 @@ Hasten hither, let us glorify Indra the lord of wealth, the self-resplendent, le
 
 ಪ್ರಥಮಪರ್ಯಾಯದಲ್ಲಿ ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಏತೋ ನ್ವಿಂದ್ರಂ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಏತೋ ನ್ವಿಂದ್ರಂ ಸ್ತವಾಮೇಶಾನಂ ಮಾ ನೋ ಅಸ್ಮಿನ್ಮಘವನ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಸ್ತೋಷದುಪ ಗಾಸಿಷಚ್ಛ್ರವತ್ಸಾಮ ಗೀಯಮಾನಮ್ ।
@@ -6258,6 +6682,8 @@ Hasten hither, let us glorify Indra the lord of wealth, the self-resplendent, le
 *English Translation.*
 
 May (Indra) sing the prelude, may he sing the accompaniment, may he listen to our hymn as it is chanted; may he, endowed with wealth, accept us favourably.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6289,6 +6715,8 @@ May (Indra) sing the prelude, may he sing the accompaniment, may he listen to ou
 *English Translation.*
 
 Bring us (gifts) with your right hand, and with your left bestow them on us ; exclude us not, Indra, from wealth.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6324,6 +6752,8 @@ Come hither, and bring us, daring one, with your resolute (mind), the wealth of 
 
 ಎರಡನೆಯ ಪರ್ಯಾಯದಲ್ಲಿ ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಉಪ ಕ್ರಮಸ್ವ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಉಪ ಕ್ರಮಸ್ವಾ ಭರ ಧೃಷತಾ ತದಸ್ಮೈ ನವ್ಯಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರ ಯ ಉ ನು ತೇ ಅಸ್ತಿ ವಾಜೋ ವಿಪ್ರೇಭಿಃ ಸನಿತ್ವಃ ।
@@ -6353,6 +6783,8 @@ Come hither, and bring us, daring one, with your resolute (mind), the wealth of 
 *English Translation.*
 
 O Indra, give us abundantly that wealth which is yours, and which is to be obtained by the wise (worshippers).
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6425,6 +6857,9 @@ May your all-rejoicing riches speedily come to us ; full of desires, men immedia
 *[218 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೬ ಸೂ. ೮೨]*
 
 ಅನುವಾದವು—ಆ ಪ್ರ ದ್ರವ ಎಂಬ ಈ ಸೂಕ್ತವು ಒಂಭತ್ತನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎರಡನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ಪ್ರ ದ್ರವ ಎಂದು ಹೇಳಿರುವುದು. ಕುಸೀದೀ ಕಾಣ್ವಃ ಎಂಬುವನು ಋಷಿಯು ; ಇಂದ್ರನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯ ಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಹಿಂದಿನ ಸೂಕ್ತದ ಪೀಠಿಕೆಯಲ್ಲಿಯೇ ಹೇಳಲಾಗಿದೆ. ಎರಡನೆಯ ರಾತ್ರಿಪರ್ಯಾಯದಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಆ ಪ್ರ ದ್ರವ ಎಂದು ಮೊದಲಾದ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಅನುರೂಪತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಆ ಪ್ರ ದ್ರವ ಪರಾವತೋ ಸಹ್ಯಸ್ಯಂ ಬಳಾಕರಮಿತ್ಯಷ್ಟಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫–೪) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮೨ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೨
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೮೨ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧. ೨ ॥
@@ -6432,6 +6867,8 @@ May your all-rejoicing riches speedily come to us ; full of desires, men immedia
 ಋಷಿಃ—ಕುಸೀದಿಃ ಕಾಣ್ವಃ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6471,6 +6908,8 @@ Hasten, slayer of Vritra, from afar or from nigh, to the exhilarating (Soma-liba
 *[220 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೬ ಸೂ. ೮೨]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೀವ್ರಾಃ ಸೋಮಾಸ ಆ ಗಹಿ ಸುತಾಸೋ ಮಾದಯಿಷ್ಣವಃ ।
@@ -6504,6 +6943,8 @@ Come hither, the strong intoxicating Soma is effused : drink, since you are bold
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ತೀವ್ರಾಃ—ಲತೆಗಳಿಂದ ಸೋಮರಸವನ್ನು ತೆಗೆದಮೇಲೆ ಅವುಗಳನ್ನು ಬಟ್ಟೆ ಮೊದಲಾದವುಗಳಿಂದ ಶೋಧಿಸಿ ಮಂತ್ರಾದಿಗಳಿಂದ ಸಂಸ್ಕರಿಸಿ ದೇವತೆಗಳಿಗೆ ಅರ್ಪಿಸಿ ಪಾನಮಾಡುವುದು ರೂಢಿಯು. ಈ ಸೋಮರಸಕ್ಕೆ ರುಚಿಯುಂಟಾಗುವುದಕ್ಕಾಗಿ ಕೆಲವು ಆಶಿರದ್ರವ್ಯಗಳನ್ನು ಸೇರಿಸುವರು. ಹಾಲನ್ನು ಮಿಶ್ರಮಾಡಿದ ಸೋಮರಸಕ್ಕೆ ಗವಾಶಿರವೆಂದೂ, ಮೊಸರನ್ನು ಮಿಶ್ರಮಾಡಿದ ಸೋಮರಸಕ್ಕೆ ದಧ್ಯಾಶಿರವೆಂದೂ, ಯವಧಾನ್ಯದ ಹಿಟ್ಟನ್ನು ಬೆರಸಿದ ಸೋಮರಸಕ್ಕೆ ಯವಾಶಿರವೆಂದೂ ಹೇಳುವರು. ಏನನ್ನೂ ಬೆರೆಸದೆ ಲತೆಯಿಂದ ತೆಗೆದ ಸೋಮರಸಕ್ಕೆ ತೀವ್ರ ಎಂದು ಹೇಳುವರು. ಏಕೆಂದರೆ ಇಂತಹ ಸೋಮರಸಕ್ಕೆ ಇತರ ಯಾವ ವಸ್ತುವೂ ಮಿಶ್ರವಾಗಿರುವುದಿಲ್ಲವಾದ್ದರಿಂದ ಇದರಲ್ಲಿ ಮದ (ಮತ್ತ) ವನ್ನುಂಟುಮಾಡುವ ಶಕ್ತಿಯು ಹೆಚ್ಚಾಗಿರುವುದು. ಇಂತಹ ತೀವ್ರವಾದ ಸೋಮರಸದಲ್ಲಿ ಇಂದ್ರನಿಗೆ ವಿಶೇಷವಾದ ಅಭಿರುಚಿಯಿರುವುದೆಂದು ಅನೇಕಸ್ಥಳಗಳಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6540,6 +6981,8 @@ Rejoice yourself with this food,—may it forthwith avail to (quench) your foe-r
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಸ ಸೋಮಃ ಕ್ರೋಧಶಮನೇ ಸಮರ್ಥೋ ಭವತು । ಯದಾ ಸೋಮಂ ಪಿಬತಿ ತದಾ ಮನ್ಯುಂ ತ್ಯಜತೀತ್ಯರ್ಥಃ । ಸೋಮಪಾನಮಾಡಿದರೆ ಕೋಪವೆಲ್ಲವೂ ಶಮನವಾಗುವುದು. ಎಂದರೆ ಕೋಪಶಮನಮಾಡುವ ಶಕ್ತಿಯು ಸೋಮರಸಕ್ಕೆ ಇದೆ. ಆದ್ದರಿಂದ ಇಂದ್ರನು ಸೋಮಪಾನಮಾಡಿದ ಕೂಡಲೇ ಶತ್ರುಸಂಹಾರಕ್ಕಾಗಿ ಅವನಲ್ಲಿದ್ದ ಕೋಪವೆಲ್ಲವೂ ಶಮನವಾಗಿ ಸಂತೋಷಚಿತ್ತನಾಗುವನು ಎಂದಭಿಪ್ರಾಯವು.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6583,6 +7026,8 @@ O you who have no enemies, come hither ; you are summoned from the resplendent h
 ಉಪಮೇ—ಸಮೀಪೇ । ಸ್ತೋತಾರಃ ಸ್ತೋತ್ರಶಸ್ತ್ರಾತ್ಮಕಂ ಶಬ್ದಂ ಕುರ್ವಂತ್ಯತ್ರೇತ್ಯುಪಮೋ ಯಜ್ಞಃ । ಉಪಮೇ ಎಂದರೆ ಸಮೀಪದಲ್ಲಿ ಎಂದು ಈ ಶಬ್ದಕ್ಕೆ, ಸಾಮಾನ್ಯಾರ್ಥವಿದ್ದರೂ ಇಲ್ಲಿ (ಅಗ್ನಿಯ) ಸಮೀಪದಲ್ಲಿ ಸ್ತೋತೃಗಳು ಮತ್ತು ಋತ್ವಿಕ್ಕುಗಳು ಸ್ತೋತ್ರ ಮತ್ತು ಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಘಟ್ಟಿಯಾದ ಧ್ವನಿಯಿಂದ ಪಠಿಸುತ್ತಿರುವುದರಿಂದ ಇಲ್ಲಿ ಉಪಮೇ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಯಜ್ಞೇ—ಯಜ್ಞದಲ್ಲಿ ಎಂಬರ್ಥವು ಉಕ್ತವಾಗಿರುವುದು.
 ಉಕ್ಥಾನಿ—ಸ್ತೋತ್ರಾಣಿ । ತ್ರಿವೃತ್ಪಂಚದಶಾದಿಲಕ್ಷಣಾನಿ ಸ್ತೋತ್ರಾಣಿ । ಸ್ತೋತ್ರ ಅಥವಾ ಸ್ತೋಮಗಳಲ್ಲಿ ತ್ರಿವೃತ್, ಪಂಚದಶ, ಸಪ್ತದಶ ಮೊದಲಾದ ಪ್ರಭೇದಗಳಿರುವವು. ಅಂತಹ ಸ್ತೋತ್ರಗಳಿಂದ ಇಂದ್ರನನ್ನು ಆಹ್ವಾನಿಸಿ ಕರೆಯುವರು ಎಂದಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತುಭ್ಯಾಯಮದ್ರಿಭಿಃ ಸುತೋ ಗೋಭಿಃ ಶ್ರೀತೋ ಮದಾಯ ಕಮ್ ।
@@ -6612,6 +7057,8 @@ O you who have no enemies, come hither ; you are summoned from the resplendent h
 *English Translation.*
 
 Indra, this Soma, effused for you by the stones and mixed with milk is offered auspiciously (in the fire) for your exhilaration.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6644,6 +7091,8 @@ xxv. 15
 *English Translation.*
 
 Indra, hear with favour my call ; be present at the drinking of this our libation mixed with milk, and be satisfied.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6679,6 +7128,8 @@ Whatever Soma has been poured into the cups and the bowls for you drink it, Indr
 
 ಮೂರನೆಯ ಪರ್ಯಾಯದಲ್ಲಿ ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಯ ಇಂದ್ರ ಚಮಸೇಷು ಎಂದು ಮೊದಲಾಗುವ ಈ ಸೂಕ್ತದ ೭–೯ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಯ ಇಂದ್ರ ಚಮಸೇಷ್ವಾ ಸೋಮಃ ಪ್ರ ವಃ ಸತಾಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬–೪) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೋ ಅಪ್ಸು ಚಂದ್ರಮಾ ಇವ ಸೋಮಶ್ಚಮೂಷು ದದೃಶೇ ।
@@ -6708,6 +7159,8 @@ Whatever Soma has been poured into the cups and the bowls for you drink it, Indr
 *English Translation.*
 
 Whatever Soma, is seen in the vessels like the moon (reflected) in the waters, drink it,—you are the sovereign.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6767,6 +7220,8 @@ Whatever Soma the hawk bore for you with its feet, having won it, till then invi
 <!-- printed 232 -->
 *[232  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮ ಅ. ೬. ಸೂ ೮೩.]*
 
+## ಸೂಕ್ತ ೮೩ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೩
 ಮಂಡಲ—೮ ‖ ಅನುವಾಕ—೯ ‖ ಸೂಕ್ತ—೮೩ ‖
 ಅಷ್ಟಕ—೬ ‖ ಅಧ್ಯಾಯ—೬ ‖ ವರ್ಗ—೩, ೪ ‖
@@ -6774,6 +7229,8 @@ Whatever Soma the hawk bore for you with its feet, having won it, till then invi
 ಋಷಿಃ—ಕುಸೀದೀ ಕಾಣ್ವಃ ‖
 ದೇವತಾ—ವಿಶ್ವೇದೇವಾಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ‖
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6805,6 +7262,8 @@ Whatever Soma the hawk bore for you with its feet, having won it, till then invi
 
 We solicit that mighty protection of the desire-raining deities in our own behalf, for our own help.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೇ ನಃ ಸಂತು ಯುಜಃ ಸದಾ ವರುಣೋ ಮಿತ್ರೋ ಅರ್ಯಮಾ ।
@@ -6834,6 +7293,8 @@ We solicit that mighty protection of the desire-raining deities in our own behal
 *English Translation.*
 
 May those (deities) Varuna, Mitra, and Aryaman, be ever our allies and supremely wise helpers.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6865,6 +7326,8 @@ May those (deities) Varuna, Mitra, and Aryaman, be ever our allies and supremely
 
 Charioteers of the sacrifice, you conduct us through the many wide-spread (forces of our enemies) as in ships across the waters.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಾಮಂ ನೋ ಅಸ್ತ್ವರ್ಯಮನ್ವಾಮಂ ವರುಣ ಶಂಸ್ಯಮ್ ।
@@ -6894,6 +7357,8 @@ Charioteers of the sacrifice, you conduct us through the many wide-spread (force
 *English Translation.*
 
 Be wealth ours, Aryaman,—wealth worthy to be praised, Varuna; it is wealth which we ask.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -6925,6 +7390,8 @@ Be wealth ours, Aryaman,—wealth worthy to be praised, Varuna; it is wealth whi
 
 Mighty in wisdom, repellers of enemies, you are the lords of wealth; be not mine the wealth, Adityas, which belongs to sin.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಯಮಿದ್ವಃ ಸುದಾನವಃ ಕ್ಷಿಯಂತೋ ಯಾಂತೋ ಅಧ್ವನ್ನಾ ।
@@ -6955,6 +7422,8 @@ Mighty in wisdom, repellers of enemies, you are the lords of wealth; be not mine
 
 Bounteous deities, whether we dwell at home or go abroad on the road, we invoke you only to be nourished by our oblations.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧಿ ನ ಇಂದ್ರೈಷಾಂ ವಿಷ್ಣೋ ಸಜಾತ್ಯಾನಾಮ್ ।
@@ -6984,6 +7453,8 @@ Come to us, Indra, Vishnu, Maruts, and Adityas, from the midst of these your bre
 <!-- printed 239 -->
 *[ಅ. ೬. ಅ. ೬. ವ. ೪.] ಋಗ್ವೇದಸಂಹಿತಾ 239]*
 
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7028,6 +7499,8 @@ Bounteous (deities), we forthwith proclaim aloud that brotherhood of yours in yo
 
 ಇದರಂತೆ ನಡೆಸಿ ಅಂಶ ಮತ್ತು ಭಗ ಎಂಬ ಇಬ್ಬರು ಪುತ್ರರನ್ನು ಹಡೆದಳು. ನಾಲ್ಕನೆಯಸಲ ಅನ್ನವನ್ನು ಪಕ್ವಮಾಡಿ ಅರ್ಪಿಸಿದಾಗ ಅವರು ಕೊಟ್ಟಶೇಷಭಕ್ಷಣದಿಂದ ಗರ್ಭವನ್ನು ಧರಿಸಲಾಗಿ ಅದಿತಿಗೆ ಆಗ ಇಂದ್ರ ಮತ್ತು ವಿವಸ್ವಾನ್ ಎಂಬಿಬ್ಬರು ಪುತ್ರರು ಜನಿಸಿದರು ಎಂದು ಮೇಲಿನ ವಾಕ್ಯಗಳ ಆಭಿಪ್ರಾಯವು. ಇಲ್ಲಿ ಅದಿತಿಗೆ ಒಟ್ಟು ಎಂಟು ಮಂದಿ ಪುತ್ರರು ಜನಿಸಿದರೆಂದು ಹೇಳಿದೆಯಷ್ಟೆ. ಇದು ಈ ದೇವತೆಗಳ ಸಾಮಾನ್ಯಜನನವು ಎಂದರೆ ಲೋಕರೀತಿಯಾಗಿ ಮಾತೃವಿನ ಗರ್ಭದಿಂದ ಉತ್ಪತ್ತಿಯು. ಈ ಕಾರಣದಿಂದ ಈ ಎಂಟು ಮಂದಿದೇವತೆಗಳೂ ಪರಸ್ಪರ ಭ್ರಾತೃತ್ವ ಅಥವಾ ಸಹೋದರಸಂಬಂಧವುಳ್ಳವರೆಂದಾಯಿತು. ಇದನ್ನೇ ಪ್ರಕೃತ ಋಕ್ಕಿನಲ್ಲಿ ಸಮಾನಾ ಎಂಬ ಶಬ್ದದಿಂದ ಋಷಿಯು ವಿವರಿಸಿದಾನೆ. ಇನ್ನು ದ್ವಿತಾ ಎಂದರೆ ಏನೆಂದು ವಿಮರ್ಶೆಮಾಡಿದಲ್ಲಿ—ಅದಿತಿಗೆ ಪ್ರತಿಯೊಂದುಸಲ ಗರ್ಭವನ್ನು ಧರಿಸಿದಾಗಲೂ ಇಬ್ಬರು ಪುತ್ರರಂತೆಯೇ ಜನಿಸಿದಾರೆ. ಮೊದಲನೆಯ ಗರ್ಭದಲ್ಲಿ ಧಾತಾ ಮತ್ತು ಆರ್ಯಮನೂ, ಎರಡನೆಯ ಗರ್ಭದಲ್ಲಿ ಮಿತ್ರ ಮತ್ತು ವರುಣನೂ, ಮೂರನೆಯ ಗರ್ಭದಲ್ಲಿ ಅಂಶ ಮತ್ತು ಭಗನೂ, ನಾಲ್ಕನೆಯ ಗರ್ಭದಲ್ಲಿ ಇಂದ್ರ ಮತ್ತುವಿವಸ್ವಂತನೂ ಜನಿಸಿದಾರೆ. ಒಂದೇ ಗರ್ಭದಲ್ಲಿ ಇಬ್ಬಿಬ್ಬರಂತೆ ಜನಿಸಿರುವುದನ್ನು ದ್ವಿತಾ ಎಂದು ಋಷಿಯು ವರ್ಣಿಸಿದಾನೆ. ಎಂಟು ಮಂದಿ ಸಹೋದರರಲ್ಲಿ ಪರಸ್ಪರ ಸಾಮಾನ್ಯ ಭ್ರಾತೃತ್ವ ವಿರುವುದಲ್ಲದೆ ಒಂದೇ ಗರ್ಭದಲ್ಲಿ ಜನಿಸಿದ ಈರ್ವರಿಗೆ ದ್ವಿತಾ ಎಂದು ವಿಶೇಷರೀತಿಯ ಭ್ರಾತತ್ವವೂ ಉಂಟಾಗಿದೆ. ಈ ಅಭಿಪ್ರಾಯವನ್ನೇ ಋಷಿಯು ದ್ವಿತಾ ಎಂಬ ಶಬ್ದದಿಂದ ಸೂಚಿಸಿರುವನು. ಈ ದ್ವಿತಾ ಎಂಬ ಸಂಬಂಧವು ಒಂದೇ ಗರ್ಭದಲ್ಲಿ ಜನಿಸಿದ ಅದಿತಿಪುತ್ರರಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುವುದು. ಪ್ರಥಮಗರ್ಭದಲ್ಲಿ ಜನಿಸಿದ ಒಬ್ಬಪುತ್ರನೂ, ದ್ವಿತೀಯಗರ್ಭದಲ್ಲಿ ಜನಿಸಿದ ಮತ್ತೊಬ್ಬ ಪುತ್ರನೂ ದ್ವಿತಾ ಎಂಬ ಭ್ರಾತೃತ್ವಸಂಬಂಧವನ್ನು ಪಡೆಯಲಾರರು. ಅವರದು ಸಾಮಾನ್ಯಭ್ರಾತೃತ್ವ. ಒಂದೇಗರ್ಭದಲ್ಲಿ ಜನಿಸಿದ ಧಾತಾ ಮತ್ತು ಆರ್ಯಮನು ದ್ವಿತಾ ಭ್ರಾತೃತ್ವಸಂಬಂಧವುಳ್ಳವರು ಅದರಂತೆ ಮಿತ್ರಾ ವರುಣರೂ, ಅಂಶಭಗರೂ, ಇಂದ್ರವಿವಸ್ವಂತರೂ ದ್ವಿತಾಭ್ರಾತೃತ್ವ ಸಂಬಂಧವುಳ್ಳವರೆಂದು ತಿಳಿಯಬೇಕು. ಈ ಒಟ್ಟು ಎಂಟು ಮಂದಿಗೂ ಇರುವ ಸಂಬಂಧವು ಸಾಮಾನ್ಯ ಭ್ರಾತೃತ್ವವು.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೂಯಂ ಹಿ ಷ್ಠಾ ಸುದಾನವ ಇಂದ್ರಜ್ಯೇಷ್ಠಾ ಅಭಿದ್ಯವಃ ।
@@ -7069,6 +7542,9 @@ Bounteous (deities) with Indra as your chief, be present here in your radiance ;
 *[ಅ. ೬. ಅ. ೬. ವ. ೫ ]  ಋಗ್ವೇದಸಂಹಿತಾ  243]*
 
 ಅಗ್ನಿಯು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರೇಷ್ಠಮುಶನಾ ಕಾವ್ಯ ಅಗ್ನೇಯಂ ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಆಗ್ನೇಯಕ್ರತುಸಂಬಂಧವಾದ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿಯೂ, ಆಶ್ವಿನಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನ ಶೌತಸೂತ್ರದ—ಯುಕ್ಷ್ವಾ ಹಿ ಪ್ರೇಷ್ಠಂ ವಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೩) ವಿವೃತವಾಗಿರುವುದು. ಅಭಿಪ್ಲವ ಸಂಬಂಧವಾದ ಉಕ್ಥ್ಯಯಾಗಗಳಲ್ಲಿ ವೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪ್ರೇಷ್ಠಂ ವಃ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ—ಪ್ರೇಷ್ಠಂ ವೋ ಅತಿಥಿಂ ಶ್ರೇಷ್ಠಂ ಯವಿಷ್ಠ ಭಾರತ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೮) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮೪ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೪
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೯ । ಸೂಕ್ತ—೮೪ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೬ । ವರ್ಗ—೫. ೬ ।
@@ -7076,6 +7552,8 @@ Bounteous (deities) with Indra as your chief, be present here in your radiance ;
 ಋಷಿಃ—ಉಶನಾ ಕಾವ್ಯಃ ।
 ದೇವತಾ—ಅಗ್ನಿಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7107,6 +7585,8 @@ Bounteous (deities) with Indra as your chief, be present here in your radiance ;
 
 I praise Agni your most beloved guest, dear as a friend, who brings wealth as a chariot;
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕವಿಮಿವ ಪ್ರಚೇತಸಂ ಯಂ ದೇವಾಸೋ ಅಧ ದ್ವಿತಾ ।
@@ -7137,6 +7617,8 @@ I praise Agni your most beloved guest, dear as a friend, who brings wealth as a 
 
 Whom the gods have set like a wise seer in a two-fold function among mortals.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಯವಿಷ್ಠ ದಾಶುಷೋ ನೄಁಃ ಪಾಹಿ ಶೃಣುಧೀ ಗಿರಃ ।
@@ -7166,6 +7648,8 @@ Whom the gods have set like a wise seer in a two-fold function among mortals.
 *English Translation.*
 
 Ever-youthful (Agni) protect your offerers, hear our praises, and yourself guard our offspring.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7233,6 +7717,8 @@ Divine Agni Angiras, son of food, with what voice (shall I utter) my praise to y
 ಅರಣಿಗಳಿಂದ) ಅಗ್ನಿಯೂ ಉತ್ಪನ್ನವಾಗುವುದು. ಆದುದರಿಂದ ಅಗ್ನಿಯು ಹವಿಸ್ಸಿನ ಅಥವಾ ಅನ್ನದ ನಪ್ತಾ ಎಂದರೆ ಮೊಮ್ಮಗನು ಎಂದು ಹೇಳಲ್ಪಡುವುದು.
 *[▪ ಸಂಹಿತಾಪಾಠಃ ▪]*
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದಾಶೇಮ ಕಸ್ಯ ಮನಸಾ ಯಜ್ಞಸ್ಯ ಸಹಸೋ ಯಹೋ ।
@@ -7264,6 +7750,8 @@ Divine Agni Angiras, son of food, with what voice (shall I utter) my praise to y
 Son of strength, what worshipper's (offerings) shall we present to you with devoted mind, and when shall I utter to you this praise?
 *[▪ ಸಂಹಿತಾಪಾಠಃ ▪]*
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧಾ ತ್ವಂ ಹಿ ನಸ್ಕರೋ ವಿಶ್ವಾ ಅಸ್ಮಭ್ಯಂ ಸುಕ್ಷಿತೀಃ ।
@@ -7293,6 +7781,8 @@ Son of strength, what worshipper's (offerings) shall we present to you with devo
 *English Translation.*
 
 Cause all our praises to bring to us excellent dwellings and abun- dance of wealth in food.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7324,6 +7814,8 @@ Cause all our praises to bring to us excellent dwellings and abun- dance of weal
 *English Translation.*
 
 Whose many offerings do you gladden, Agni,—you who are the lord of the house, and whose praises bring wealth of cows ?
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7358,6 +7850,8 @@ They keep him bright in their houses, (Agni,) famed for glorious deeds, the migh
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಅಗ್ನಿಮಥನವೆಂಬ ಯಜ್ಞಾಂಗಕರ್ಮದಲ್ಲಿ ತಂ ಮರ್ಜಯಂತ ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ-ತಂ ಮರ್ಜಯಂತ ಸುಕ್ರತುಂ ಯಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ ದೇವಾಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨-೧೬) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7399,6 +7893,8 @@ He who dwells at home with all-efficient protections, whom none can harm, but wh
 <!-- printed 256 -->
 *[256   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ ಮಂ. ೮. ಅ. ೯. ಸೂ. ೮೫]*
 
+## ಸೂಕ್ತ ೮೫ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೫
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೮೫ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೭, ೮, ॥
@@ -7406,6 +7902,8 @@ He who dwells at home with all-efficient protections, whom none can harm, but wh
 ಋಷಿ—ಕೃಷ್ಣಃ ॥
 ದೇವತಾ—ಅಶ್ವಿನೌ ॥
 ಛಂದಃ—ಗಾಯತ್ರಿ, ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7436,6 +7934,8 @@ He who dwells at home with all-efficient protections, whom none can harm, but wh
 *English Translation.*
 
 Nasatyas, Aswins, come to my invocation, that you may drink the exhilarating Soma.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7468,6 +7968,8 @@ xxv. 17
 *[258   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ಮಂ. ೮. ಅ. ೯. ಸೂ. ೮೫]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಂ ವಾಂ ಕೃಷ್ಣೋ ಅಶ್ವಿನಾ ಹವತೇ ವಾಜಿನೀವಸೂ ।
@@ -7497,6 +7999,8 @@ Krishna invoke you, Aswins rich in sacrifices, that you may drink the exhilarati
 <!-- printed 259 -->
 *[ಅ. ೬. ಅ. ೬. ವ. ೭. ]  ಋಗ್ವೇದಸಂಹಿತಾ  259]*
 
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7528,6 +8032,8 @@ Leaders (of all), hear the invocation of Krishna, the hymner, who praises you,�
 *[260  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ ಮಂ. ೮ ಅ. ೯ ಸೂ. ೮೫]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಛರ್ದಿರ್ಯಂತಮದಾಭ್ಯಂ ವಿಪ್ರಾಯ ಸ್ತುವತೇ ನರಾ ।
@@ -7558,6 +8064,8 @@ Leaders, give to the sage who praises you an unassailable dwelling, that you may
 *[ಅ. ೬. ಅ. ೬. ವ. ೮. ]  ಋಗ್ವೇದಸಂಹಿತಾ  261]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಗಚ್ಛತಂ ದಾಶುಷೋ ಗೃಹಮಿತ್ಥಾ ಸ್ತುವತೋ ಅಶ್ವಿನಾ ।
@@ -7583,6 +8091,8 @@ Leaders, give to the sage who praises you an unassailable dwelling, that you may
 *English Translation.*
 
 Ashwins, come to the house of the offerer who thus praises you, that you may drink the exhilarating Soma.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7614,6 +8124,8 @@ Ashwins, come to the house of the offerer who thus praises you, that you may dri
 
 You who possess showering wealth, yoke the ass to your firmly-built chariot, that you may drink the exhilarating soma.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ರಿವಂಧುರೇಣ ತ್ರಿವೃತಾ ರಥೇನಾ ಯಾತಮಶ್ವಿನಾ ।
@@ -7643,6 +8155,8 @@ You who possess showering wealth, yoke the ass to your firmly-built chariot, tha
 *English Translation.*
 
 Aswins, come hither with your three-seated triangular car, that you may drink the exhilarating soma.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7684,6 +8198,9 @@ Nasatyas, Aswins, hasten quickly to my praise, that you may drink the exhilarati
 *[ಅ. ೬. ಅ. ೬. ವ. ೯.]  ಋಗ್ವೇದಸಂಹಿತಾ  265]*
 
 ಋಷಿಯು ಅಥವಾ ಕೃಷ್ಣನೇ ಋಷಿಯು; ಅಶ್ವಿನೀದೇವತೆಗಳು ದೇವತೆಯು ; ಜಗತೀಛಂದಸ್ಸು, ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ-ಉಭಾ ಹಿ ಪಂಚ ವಿಶ್ವಕೋ ವಾ ಕಾರ್ಷ್ಣಿರ್ಜಾಗತಂ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವು ಲೈಂಗಿಕವು.
+
+## ಸೂಕ್ತ ೮೬ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೬
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೮೬ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೯ ॥
@@ -7691,6 +8208,8 @@ Nasatyas, Aswins, hasten quickly to my praise, that you may drink the exhilarati
 ಋಷಿಃ—ಕೃಷ್ಣೋ ವಿಶ್ವಕೋ ವಾ ಕಾರ್ಷ್ಣಿಃ ॥
 ದೇವತಾ—ಅಶ್ವಿನೌ ॥
 ಛಂದಃ—ಜಗತೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7733,6 +8252,8 @@ Dasras, physicians, sources of happiness, you both were (the objects) of Daksha'
 ಭಿಷಜಾ—ಈ ಶಬ್ದಕ್ಕೂ ಎರಡು ವಿಧವಾದ ಅರ್ಥವನ್ನು ಹೇಳಬಹುದು. ಅಶ್ವಿನೌ ವೈ ದೇವಾನಾಂ ಭಿಷಜೌ ಎಂಬ ಶ್ರುತಿವಾಕ್ಯದಂತೆ ಈ ಅಶ್ವಿನೀದೇವತೆಗಳು ದೇವತೆಗಳ ವೈದ್ಯರೆಂದು ಪ್ರಸಿದ್ಧರಾಗಿರುವರು. ಅಥವಾ ಭೀತೀನಾಂ ತ್ರಾಸಯಿತಾರೌ । ಯದಾ ನರಾ ಅಶ್ವಿನೌ ಸ್ತುವಂತಿ ತದಾ ತೌ ತೇಷಾಂ ಭೀತಿಮುಪನಯತ ಇತ್ಯರ್ಥಃ । ಜನಗಳಿಗೆ ಉಂಟಾಗುವ ಭಯವನ್ನು ನಿವಾರಣೆಮಾಡುವವರು. ಎಂದರೆ ಜನಗಳು ಅಶ್ವಿನೀದೇವತೆಗಳನ್ನು ಪ್ರಾರ್ಥಿಸಿದಾಗ ಈ ದೇವತೆಗಳು ಆ ಜನಗಳ ಭೀತಿಯನ್ನು ನಿವಾರಣೆಮಾಡುವರು. ಆದ್ದರಿಂದ ಭಯನಿವಾರಕರು ಎಂದೂ ಅರ್ಥವನ್ನು ಹೇಳಬಹುದು.
 ತನೂಕೃಥೇ—ತನೋತಿ ಕುಲಮಿತಿ ತನೂಃ ಪುತ್ರಃ ತಸ್ಯ ನಿಮಿತ್ತಂ । ಕುಲವನ್ನು ವಿಸ್ತಾರ ಮಾಡುವವನಾದ್ದರಿಂದ ಎಂದರೆ ಸಂತತಿಯಿಂದ ವಂಶಾಭಿವೃದ್ಧಿಯನ್ನು ಮಾಡುವುದರಿಂದ ಪುತ್ರನಿಗೆ ತನೂಃ ಎಂದು ಹೆಸರು ಆ ಪುತ್ರನ ನಿಮಿತ್ತವಾಗಿ ಎಂದು ಶಬ್ದಾರ್ಥವು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಥಾ ನೂನಂ ವಾಂ ವಿಮನಾ ಉಪ ಸ್ತವದ್ಯುವಂ ಧಿಯಂ ದದಥುರ್ವಸ್ಯಇಷ್ಟಯೇ ।
@@ -7767,6 +8288,8 @@ How Vimanas once praised you, and you gave him understanding for the attainment 
 *[ಅ. ೬. ಅ. ೬. ವ. ೯.]  ಋಗ್ವೇದಸಂಹಿತಾ  269]*
 
 sake of his son ; sever not our friendships, but fling loose ( your reins and gallop hither ).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7810,6 +8333,8 @@ Gladeners of many, you have given to Vishnapu this prosperity for the attainment
 ವಿಧ ಅರ್ಥವೂ ಸಾಧ್ಯವಾಗಬಹುದು. ವಿಷ್ಣುಂ ಸರ್ವಗ್ರಹೇಷು ವ್ಯಾಪ್ತಂ ಸೋಮಂ ದಶಾಪವಿತ್ರೇಣಾ ಪುನಾತೀತಿ ವಿಷ್ಣಾಪೂಃ। ಸರ್ವದೇವತೆಗಳ ಗ್ರಹಪಾತ್ರೆಗಳಲ್ಲಿಯೂ ವ್ಯಾಪ್ತವಾದ ವಿಷ್ಣುಗ್ರಹಪಾತ್ರೆಯಲ್ಲಿರುವ ಸೋಮವನ್ನು ದಶಾಪವಿತ್ರದಿಂದ ಶೋಧಿಸುವವನಾದ್ದರಿಂದ ವಿಷ್ಣಾಪೂ ಎಂಬ ಹೆಸರು. ಇಲ್ಲಿ ಈ ಶಬ್ದದ ಉತ್ತರಾರ್ಧವು ಆ ಎಂಬ ಉಪಸರ್ಗಪೂರ್ವಕವಾದ ಪುನಾತಿ ಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆಯೆಂದು ಭಾವಿಸಬೇಕು.
 ವಸ್ಯ ಇಷ್ಟಯೋ—ವಸೀಯುಸಃ ಪ್ರಶಸ್ತಧನಸ್ಯೇಷ್ಟಯ ಇಚ್ಛಾಂ ಪೂರಯಿತುಂ ಇಮಾಂ ಧನಾದಿ-ವೃದ್ಧಿಂ ದದಥುಃ ಅದತ್ತಂ। ಪ್ರಶಸ್ತವಾದ ಧನವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತಿರುವ ವಿಷ್ಣಾಪುವಿನ ಇಚ್ಛೆಯನ್ನು ಪೂರೈಸುವುದಕ್ಕಾಗಿ ಅವನಿಗೆ ಧನಾಭಿವೃದ್ಧಿಯನ್ನುಂಟುಮಾಡಿದಿರಿ ಎಂದಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತ ತ್ಯಂ ವೀರಂ ಧನಸಾಮೃಜೀಷಿಣಂ ದೂರೇ ಚಿತ್ಸಂತಮವಸೇ ಹವಾಮಹೇ ।
@@ -7839,6 +8364,8 @@ Gladeners of many, you have given to Vishnapu this prosperity for the attainment
 *English Translation.*
 
 We summon that hero to our protection, (the enjoyer) of wealth, the possessor of the Soma, who now dwells afar off and whose hymn is most pleasing (to the gods) like his father's ; sever not our friendships, but fling loose (your reins and gallop hither).
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7885,6 +8412,8 @@ The sun-god by truth extinguishes his beams (in the evening) ; he spreads abroad
 <!-- printed 275 -->
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೦ ]  ಋಗ್ವೇದಸಂಹಿತಾ  275]*
 
+## ಸೂಕ್ತ ೮೭ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೭
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೮೭ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೦ ।
@@ -7892,6 +8421,8 @@ The sun-god by truth extinguishes his beams (in the evening) ; he spreads abroad
 ಋಷಿ—ಕೃಷ್ಣೋ ದ್ಯುಮ್ನೀಕೋ ವಾ ವಾಸಿಷ್ಠಃ ಪ್ರಿಯಮೇಧೋ ವಾ ।
 ದೇವತಾ—ಅಶ್ವಿನೌ ॥
 ಛಂದಃ—ಪ್ರಾಗಾಥಂ (ಅಯುಜಃ ಬೃಹತ್ಯಃ ಯುಜಃ ಸತೋಬೃಹತ್ಯಃ) ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7922,6 +8453,8 @@ The sun-god by truth extinguishes his beams (in the evening) ; he spreads abroad
 *English Translation.*
 
 Aswins, your praise is filled with plenty as a well ( with water ) in time of rain ; hasten hither ; it is especially dear to the Soma when it is effused in the brilliant (offering); drink, leaders (of rites), as two Gauras (drink) at a pool.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -7957,6 +8490,8 @@ Drink, Aswins, the exhilarating (Soma) as it drops (into the vessels),—seat yo
 *[278 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೬ ಸೂ. ೮೭]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ವಾಂ ವಿಶ್ವಾಭಿರೂತಿಭಿಃ ಪ್ರಿಯಮೇಧಾ ಅಹೂಷತ ।
@@ -7986,6 +8521,8 @@ Drink, Aswins, the exhilarating (Soma) as it drops (into the vessels),—seat yo
 *English Translation.*
 
 The worshippers have invoked you with all your protections ; come in the early morning to the dwelling of him who has clipped the sacred grass, to the offering loved (by all the gods).
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8017,6 +8554,8 @@ The worshippers have invoked you with all your protections ; come in the early m
 
 Aswins, drink the exhilarating Soma, sit down in your radiance on the sacrificial grass; waxing strong (through the libation), come from heaven to our praises, as two Gauras to a pool.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ನೂನಂ ಯಾತಮಶ್ವಿನಾಶ್ವೇಭಿಃ ಪ್ರುಷಿತಪ್ಸುಭಿಃ ।
@@ -8047,6 +8586,8 @@ Aswins, drink the exhilarating Soma, sit down in your radiance on the sacrificia
 *English Translation.*
 
 Come, Aswins, with your glossy steeds; Dasras, riding in golden chariots, lords of good fortune, upholders, of truth, drink the Soma.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8089,6 +8630,9 @@ We, your wise praisers, invoke you to the enjoyment of the sacrificial viands ; 
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೧. ]  ಋಗ್ವೇದಸಂಹಿತಾ  283]*
 
 ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಬೃಹತೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ತಂ ವೋ ದಸ್ಮಮೃತೀಷಹಮಾ ನೋ ವಿಶ್ವಾಸು ಹವ್ಯಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ ಆ. ೫-೨-೪) ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು. ಅಗ್ನಿಷ್ಟೋಮಯಾಗದ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ತಂ ವೋ ದಸ್ಮಂ ಎಂಬ ಪ್ರಗಾಥವನ್ನು (೨ ಋಕ್ಕುಗಳು) ಸ್ತೋತ್ರಿಯಪ್ರಗಾಥವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತಂ ವೋ ದಸ್ಮಮೃತೀಷಹಂ ತತ್ವಾ ಯಾಮಿ ಸುವೀರ್ಯಮಿತಿ ಪ್ರಾಗಾಥೌ ಸ್ತೋತ್ರೀಯಾನುರೂಪೌ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧೬) ವಿವೃತವಾಗಿರುವುದು. ಯಾಗದ ಚಾತುರ್ವಿಂಶಿಕವೆಂಬ ದಿನದ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ಈ ಪ್ರಗಾಥವನ್ನು ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯಪ್ರಗಾಥವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು (ಆ. ೭-೪) ಎಂಬ ಸೂತ್ರದಲ್ಲಿ ಉಕ್ತವಾಗಿರುವುದು. ವಿಷುವತ್ ಎಂಬ ಇಷ್ಟಿಯ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ—ತಂ ವೋ ದಸ್ಮಮೃತೀಷಹಂ ಎಂಬ ಋಕ್ಕಿನಿಂದ ನೋಧಾ ಋಷಿಯ ಯಜ್ಞಸ್ಥಾನವನ್ನು ಪ್ರಶಂಸಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತಂ ವೋಃ ದಸ್ಮಮೃತೀಷಹಮಭಿ ಪ್ರ ವಃ ಸುರಾಧಸಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೬) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮೮ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೮
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೮೮ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೧ ॥
@@ -8096,6 +8640,8 @@ We, your wise praisers, invoke you to the enjoyment of the sacrificial viands ; 
 ಋಷಿಃ—ನೋಧಾಃ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—ಪ್ರಾಗಾಥಂ (ಅಯುಜಃ ಬೃಹತ್ಯಃ ಯುಜಃ ಸತೋಬೃಹತ್ಯಃ) ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8137,6 +8683,8 @@ We offer praise with our hymns, as cows (low) to their calf in the stalls, to th
 ಸ್ವಸರೇಷು—ಈ ಶಬ್ದಕ್ಕೆ ಎರಡು ವಿಧವಾದ ಅರ್ಥವನ್ನು ಹೇಳಿರುವರು. ಯಾಸ್ಕರು—ಸ್ವಸರಾಣ್ಯಹಾನಿ ಸ್ವಯಂಸಾರೀಣ್ಯಪಿ ವಾ ಸ್ವರಾದಿತ್ಯೋ ಭವತಿ ಸ ಏನಾನಿ ಸಾರಯತಿ (ನಿ. ೫-೪) ಸ್ವಸರಾಣಿ ಎಂದರೆ ಹಗಲು ದಿನಗಳು. ಹಗಲಿನಲ್ಲಿ ಕಾಲವು ತಾನಾಗಿಯೇ ಮುಂದುವರಿಯುತ್ತಿರುವುದರಿಂದ ಅಥವಾ ಸ್ವಃ ಎಂದರೆ ಆದಿತ್ಯನು. ಈ ಆದಿತ್ಯನು ಈ ಹಗಲುಗಳನ್ನು ನಡೆಯುವಂತೆ ಮಾಡುತ್ತಿರುವನು ಎಂದರೆ ಸೂರ್ಯನ ಪ್ರಕಾಶದಿಂದಲೇ ಹಗಲುಗಳು ನಡೆಯುತ್ತಿರುವವು. ಸೂರ್ಯನ ಪ್ರಕಾಶವಿಲ್ಲದಿದ್ದರೆ ಆ ಕಾಲವು ಹಗಲೇ ಅಲ್ಲ, ರಾತ್ರಿಯಾಗುವುದು. ಆದ್ದರಿಂದ ಹಗಲುಗಳು ಪ್ರವರ್ತಿಸುವುದಕ್ಕೆ ಸೂರ್ಯನೇ ಆಧಾರವು.
 ಸ್ವಸರೇಷು—ಗೋಷ್ಠೇಷು । ಕೊಟ್ಟಿಗೆಗಳಲ್ಲಿ ; ಸುಷ್ಮ್ವಸ್ಯಂತೇ ಪ್ರೇರ್ಯಂತೇ ಗಾವೋ ಅತ್ರೇತಿ ಸ್ವಸರಾಣಿ ಗೋಷ್ಠಾನಿ । ಗೋವುಗಳು ಇಲ್ಲಿ ಇರುವಂತೆ ಪ್ರೇರಿಸಲ್ಪಡುವವು. ಎಂದರೆ ಈ ಕೊಟ್ಟಿಗೆಯಲ್ಲಿ ಕಟ್ಟಿಹಾಕಲ್ಪಡುವವು ಆದ್ದರಿಂದ ಸ್ವಸರೇಷು ಎಂದರೆ ಕೊಟ್ಟಿಗೆಗಳಲ್ಲಿ ಎಂದು ಅರ್ಥವು ಎಂದು ಭಾಷ್ಯಕಾರರು ಎರಡುವಿಧ ಅರ್ಥಗಳನ್ನೂ ವಿವರಿಸಿದ್ದಾರೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದ್ಯುಕ್ಷಂ ಸುದಾನುಂ ತವಿಷೀಭಿರಾವೃತಂ ಗಿರಿಂ ನ ಪುರುಭೋಜಸಮ್ ।
@@ -8167,6 +8715,8 @@ We offer praise with our hymns, as cows (low) to their calf in the stalls, to th
 *English Translation.*
 
 We solicit the radiant bounteous (Indra), surrounded by powers as a mountain (by clouds), the supporter of many,—( we solicit him ) speedily for renowned food, rich in cattle, and multiplied an hundred and a thousand fold.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8201,6 +8751,8 @@ The vast firm mountains cannot stop you, Indra,—whatever wealth you would give
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಯಾಗದ ಚಾತುರ್ವಿಂಶಿಕವೆಂಬ ದಿನದ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ನ ತ್ವಾ ಬೃಹಂತಃ ಎಂಬ ಋಕ್ಕನ್ನು ವೈಕಲ್ಪಾನುರೂಪಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ ನ ತ್ವಾ ಬೃಹಂತೋ ಅದ್ರಯು ಉಭಯಂ ಶೃಣವಚ್ಚ ನಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8237,6 +8789,8 @@ The vast firm mountains cannot stop you, Indra,—whatever wealth you would give
 
 By your exploits and might you are a warrior ; you overpower all beings by your deeds and prowess ; this hymn which the Gotamas have made, causes you to turn hither for their protection.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಹಿ ರಿರಿಕ್ಷ ಓಜಸಾ ದಿವೋ ಅಂತೇಭ್ಯಸ್ಪರಿ ।
@@ -8267,6 +8821,8 @@ xxv. 19
 *English Translation.*
 
 Indra, by your might you extend beyond the limits of heaven, the region of the earth cannot contain you ; deign to bring us food.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8309,6 +8865,9 @@ None can hinder your bounty, Maghavan, when you give wealth to your votary ; mos
 *[292   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ ಮಂ. ೮. ಅ. ೯. ಸೂ. ೮೯]*
 
 ಏಳನೆಯ ಋಕ್ಕು ಬೃಹತೀಛಂದಸ್ಕವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಬೃಹದಿಂದ್ರಾಯ ಸಪ್ತ ನೃಮೇಧಪುರುಮೇಧೌ ದ್ವ್ಯನುಷ್ಟುಬ್ಬೃಹತ್ಯಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಯಾಗದ ಚಾತುರ್ವಿಂಶಿಕವೆಂಬ ದಿವಸದಲ್ಲಿ ಪ್ರಾಕೃತ ಮರುತ್ವತೀಯಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಮರುತ್ವತೀಯಪ್ರಗಾಥಮಂತ್ರಗಳನ್ನು ಪಠಿಸಬೇಕು. ಆ ಸಂದರ್ಭದಲ್ಲಿ ಬೃಹದಿಂದ್ರಾಯ ಗಾಯತ ಎಂದು ಮೊದಲಾಗುವ ಈ ಪ್ರಗಾಥಮಂತ್ರವನ್ನು ಪಠಿಸಬೇಕು. ಮತ್ತು ಪೃಷ್ಠ್ಯ ಅಭಿಪ್ಲವಷಡಹಗಳೆಂಬ ಯಾಗಗಳ ಎರಡನೆಯ ದಿವಸವೂ ಈ ಪ್ರಗಾಥಮಂತ್ರವನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಬೃಹದಿಂದ್ರಾಯ ಗಾಯತ ನಕಿಃ ಸುದಾಸೋ ರಥಮಿತಿ ಮರುತ್ವತೀಯಾ ಊರ್ಧ್ವಂ ನಿತ್ಯಾತ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೩) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮೯ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೮೯
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೮೯ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೨ ॥
@@ -8316,6 +8875,8 @@ None can hinder your bounty, Maghavan, when you give wealth to your votary ; mos
 ಋಷಿಃ—ನೃಮೇಧಪುರುಮೇಧೌ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—೧-೪. ಪ್ರಾಗಾಥಂ । ೫, ೬. ಅನುಷ್ಟುಪ್ । ೭. ಬೃಹತೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8347,6 +8908,8 @@ None can hinder your bounty, Maghavan, when you give wealth to your votary ; mos
 
 Priests, sing to Indra the most sin-destroying Brihat-Saman, by which the upholders of truth produced the divine all-waking luminary for the god.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪಾಧಮದಭಿಶಸ್ತೀರಶಸ್ತಿಹಾಥೇಂದ್ರೋ ದ್ಯುಮ್ನ್ಯಾಭವತ್ ।
@@ -8377,6 +8940,8 @@ Priests, sing to Indra the most sin-destroying Brihat-Saman, by which the uphold
 *English Translation.*
 
 Indra, the destroyer of those who offer not praise, has driven away the malevolent and has become glorious ; O Indra of mighty splendour, lord of the troops of Maruts, the gods press you for your friendship.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8416,6 +8981,8 @@ Priests, utter forth the hymn to your great Indra; let Shatakratu, the slayer of
 *[296  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮ ಅ. ೬ ಸೂ. ೮೯]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಪ್ರ ಭರ ಧೃಷತಾ ಧೃಷನ್ಮನಃ ಶ್ರವಶ್ಚಿತ್ತೇ ಅಸದ್ಬೃಹತ್ ।
@@ -8447,6 +9014,8 @@ Priests, utter forth the hymn to your great Indra; let Shatakratu, the slayer of
 *English Translation.*
 
 Daring-souled (Indra), there is abundance of food with you,—boldly bring it to us; let our mothers (the waters) impetuously spread over the earth; smite Vritra, and conquer all.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8482,6 +9051,8 @@ Daring-souled (Indra), there is abundance of food with you,—boldly bring it to
 
 Priests, sing to Indra the most sin-destroying Brihat-Saman, by which the upholders of truth produced the divine all-waking luminary for the god.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತತ್ತೇ ಯಜ್ಞೋ ಅಜಾಯತ ತದರ್ಕ ಉತ ಹಸ್ಕೃತಿಃ ।
@@ -8511,6 +9082,8 @@ Priests, sing to Indra the most sin-destroying Brihat-Saman, by which the uphold
 *English Translation.*
 
 Then was the sacrifice produced for you, then too the joyous hymn; then you surpass all, whatever has been or will be born.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8563,6 +9136,9 @@ In the immature (cows) you produced the mature (milk), you caused the sun to ari
 
 > ‘ಆ ನೋ ವಿಶ್ವಾಸು' ಇತಿ ಷಡ಼ೃಚಂ ದಶಮಂ ಸೂಕ್ತಮ್ । ನೃಮೇಧಪುರುಮೇಧಾವೃಷೀ । ವಿಷಮಸಂಖ್ಯಾಕಾ ಬೃಹತ್ಯಃ ಸಮಸಂಖ್ಯಾಕಾಃ ಸತೋಬೃಹತ್ಯಃ । ಇಂದ್ರೋ ದೇವತಾ । ತಥಾ ಚಾನುಕ್ರಾಂತಮ್-' ಆ ನೋ ವಿಶ್ವಾಸು ಷಟ್' ಇತಿ । ಮಹಾವ್ರತೇ ನಿಷ್ಕೇವಲ್ಯೇ ಬಾರ್ಹತತೃಚಾಶೀತಾವೇತತ್ಸೂಕ್ತಮ್ । ಸೂತ್ರ್ಯತೇ ಹಿ ಪಂಚಮಾರಣ್ಯಕೇ- ‘ ಆ ನೋ ವಿಶ್ವಾಸು ಹವ್ಯೋ ಯಾ ಇಂದ್ರ ಭುಜ ಆಭರಃ' (ಐ. ಆ. ೫. ೨. ೪) ಇತಿ ॥
 ಅನುವಾದವು—ಆ ನೋ ವಿಶ್ವಾಸು ಎಂಬ ಈ ಸೂಕ್ತವು ಒಂಭತ್ತನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ನೃಮೇಧ ಮತ್ತು ಪುರುಮೇಧ ಎಂಬಿಬ್ಬರೂ ಋಷಿಗಳು. ಇಂದ್ರನು ದೇವತೆಯು; ಈ ಸೂಕ್ತದ ವಿಷಮಸಂಖ್ಯೆಯ ಋಕ್ಕುಗಳು ಬೃಹತೀಛಂದಸ್ಕವು; ಸಮ ಸಂಖ್ಯೆಯ ಋಕ್ಕುಗಳು ಸತೋಬೃಹತೀಛಂದಸ್ಕವು. ಆನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ನೋ ವಿಶ್ವಾಸು ಷಟ್ ಎಂದು ಹೇಳಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಬೃಹತೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಐತರೇಯಾರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ಆ ನೋ ವಿಶ್ವಾಸು ಹವ್ಯೋ ಯಾ ಇಂದ್ರ ಭುಜ ಆಭರಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೨-೪) ನಿರ್ದಿಷ್ಟವಾಗಿರುವುದು
+
+## ಸೂಕ್ತ ೯೦ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೦
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೯ । ಸೂಕ್ತ—೯೦ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೬ । ವರ್ಗ—೧೩ ।
@@ -8570,6 +9146,8 @@ In the immature (cows) you produced the mature (milk), you caused the sun to ari
 ಋಷಿ—ನೃಮೇಧಪುರುಮೇಧೌ ॥
 ದೈವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—ಪ್ರಗಾಥಂ (ಅಯುಜಃ ಬೃಹತ್ಯಃ ಯುಜಃ ಸತೋಬೃಹತ್ಯಃ) ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8612,6 +9190,8 @@ May Indra, who is to be invoked in all battles, regard our hymns and our libatio
 ಪರಮಜ್ಯಾಃ—ಯುದ್ಧೇಷು ಶತ್ರುಹನನಾರ್ಥಂ ಪರಮವಿನಶ್ವರೀ ಜ್ಯಾ ಮೌರ್ವೀ ಯಸ್ಯ ಸ ತಥೋಕ್ತಃ ಯದ್ವಾ ಪರಮಾನ್ ಬಲೇನ ಪ್ರಕೃಷ್ಟಾನ್ ಶತ್ರೂನ್ ಜಿನಾತಿ ಹಿನಸ್ತೀತಿ ಪರಮಜ್ಯಾಃ । ಈ ಶಬ್ದಕ್ಕೆ ಎರಡುವಿಧ ಅರ್ಥಗಳನ್ನು ಹೇಳಿದಾರೆ. ಯುದ್ಧಗಳಲ್ಲಿ ಶತ್ರುವಧಾರ್ಥವಾಗಿ ಉಪಯೋಗಿಸುವ ಇಂದ್ರನ ಧನುಸ್ಸಿನ ಹೆದೆಯು (ಹೆಗ್ಗವು) ನಾಶವಿಲ್ಲದ್ದೂ ಎಂದರೆ ಕಿತ್ತುಹೋಗದೆ ಬಹಳಕಾಲ ಬಾಳಿಕೆಬರುವುದಾಗಿರುವುದು. ಇಂತಹ ಹೆದೆಯನ್ನುಳ್ಳ ಇಂದ್ರನೆಂದು ಒಂದುವಿಧವಾದ ಅರ್ಥವು ; ಅಥವಾ ಇಂದ್ರನು ತನ್ನ ಶ್ರೇಷ್ಠವಾದ ಬಲದಿಂದ ಶಕ್ತಿಯುತರಾದ ಶತ್ರುಗಳನ್ನು ಹಿಂಸಿಸುವವನು ಎಂದು ಇನ್ನೊಂದುವಿಧವಾದ ಅರ್ಥವು.
 ಋಚೀಷಮಃ—ಸ್ತುತ್ಯಾ ಸಮಃ ಸ್ತುತಿಭಿರಭಿಮುಖೀಕರಣೀಯಃಇಂದ್ರನು ಪ್ರಸನ್ನನಾಗ ಬೇಕಾದರೆ ಅವನನ್ನು ಸ್ತೋತ್ರಾದಿಗಳಿಂದ ಸ್ತುತಿಸಿದರೆ ಮಾತ್ರ ಅವನು ಸ್ತೋತೃಜನರ ಅಭಿಮುಖವಾಗಿ ಪ್ರತ್ಯಕ್ಷನಾಗುವನು. ಇಂತಹ ಇಂದ್ರನು ಎಂದಭಿಪ್ರಾಯುವು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ದಾತಾ ಪ್ರಥಮೋ ರಾಧಸಾಮಸ್ಯಸಿ ಸತ್ಯ ಈಶಾನಕೃತ್ ।
@@ -8641,6 +9221,8 @@ May Indra, who is to be invoked in all battles, regard our hymns and our libatio
 *English Translation.*
 
 You are the chief giver of wealth, you are truthful and make your worshippers rulers ; we solicit (blessings) worthy of you, lord of vast riches, mighty son of strength.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8673,6 +9255,8 @@ You are the chief giver of wealth, you are truthful and make your worshippers ru
 
 Indra, who are the object of hymns, unexaggerated praises are offered by us ; lord of bay steeds, accept these fitting hymns, which we have meditated for you.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಹಿ ಸತ್ಯೋ ಮಘವನ್ನನಾನತೋ ವೃತ್ರಾ ಭೂರಿ ನ್ಯೃಂಜಸೇ ।
@@ -8703,6 +9287,8 @@ Indra, who are the object of hymns, unexaggerated praises are offered by us ; lo
 *English Translation.*
 
 You are truthful, Maghavan; unhumbled yourself, you humble many enemies; most mighty thunderer, cause wealth to meet your worshipper.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8738,6 +9324,8 @@ You, Indra, lord of strength, are the glorious possessor of the offered
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೩.]    ಋಗ್ವೇದಸಂಹಿತಾ    309]*
 
 Soma; alone with (your thunderbolt), that protector of men, you smite the enemies that none else could oppose or drive away.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8789,6 +9377,8 @@ Living one, who possess supreme knowledge, we verily ask you for wealth as thoug
 <!-- printed 313 -->
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 313]*
 
+## ಸೂಕ್ತ ೯೧ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೧
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೯ । ಸೂಕ್ತ—೯೧ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೪ ।
@@ -8796,6 +9386,8 @@ Living one, who possess supreme knowledge, we verily ask you for wealth as thoug
 ಋಷಿಃ—ಅಪಾಲಾತ್ರೇಯೀ ।
 ದೇವತಾ—ಇಂದ್ರಃ ।
 ಛಂದಃ—೧-೨ ಪಂಕ್ತಿಃ । ೩-೭ ಅನುಷ್ಟುಪ್ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8840,6 +9432,8 @@ A young woman going to the water found Soma in the path ; as she carried it home
 
 ಕುಟ್ಟುವ ಶಬ್ದವೇ ಇರಬಹುದೆಂದು ಇಂದ್ರನು ತಿಳಿದು ಅಲ್ಲಿಗೆ ಬೇಗ ಬಂದನು. ಆಗ ಆ ಸ್ತ್ರೀಯು ಇಂದ್ರನನ್ನು ಕುರಿತು ಎಲೈ ಪುರುಷನೇ, ನೀನು ಈ ಶಬ್ದವನ್ನು ಕೇಳಿ ಓಡಿಬಂದೆಯಷ್ಟೆ. ಇದು ನನ್ನ ಹಲ್ಲಿನಿಂದ ಹೊರಡುವ ಶಬ್ದ ಮಾತ್ರ. ಸೋಮಲತೆಗಳನ್ನು ಕಲ್ಲುಗಳಿಂದ ಕುಟ್ಟುವ ಶಬ್ದವಲ್ಲ ಎನಲು ಇಂದ್ರನು ಖಿನ್ನಮಾನಸನಾಗಿ ಹಿಂತಿರುಗಿಹೋಗಲನುವಾದನು. ಅದನ್ನು ಕಂಡು ಆ ಸ್ತ್ರೀಯು ಅಸೌ ಯ ಏಷಿ ಎಂಬ ಮುಂದಿನ ಋಕ್ಕಿನಿಂದ ಇಂದ್ರನನ್ನು ಪ್ರಶ್ನಿಸುವಳು.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸೌ ಯ ಏಷಿ ವೀರಕೋ ಗೃಹಂಗೃಹಂ ವಿಚಾಕಶದ್ ।
@@ -8871,6 +9465,8 @@ A young woman going to the water found Soma in the path ; as she carried it home
 
 You, who goes from house to house, a hero bright in your splendour, drink this Soma pressed by my teeth, together with fried grains of barley, the karambha, cakes and hymns.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಚನ ತ್ವಾ ಚಿಕಿತ್ಸಾಮೋಽಧಿ ಚನ ತ್ವಾ ನೇಮಸಿ ।
@@ -8901,6 +9497,8 @@ You, who goes from house to house, a hero bright in your splendour, drink this S
 
 We wish to know you, but here we know you not. O Soma, flow forth for Indra first slowly, then quickly.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕುವಿಚ್ಛಕತ್ಕುವಿತ್ಕರತ್ಕುವಿನ್ನೋ ವಸ್ಯಸಸ್ಕರತ್ ।
@@ -8930,6 +9528,8 @@ We wish to know you, but here we know you not. O Soma, flow forth for Indra firs
 *English Translation.*
 
 May (Indra) repeatedly make us powerful, may he do abundantly for us, may he repeatedly make us very rich ; often hated by our husband and forced to leave him, may we be united to Indra.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -8965,6 +9565,8 @@ May (Indra) repeatedly make us powerful, may he do abundantly for us, may he rep
 
 These three places,—you cause them all to grow,—my father's (bald) head, his (barren) field, and my body.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸೌ ಚ ಯಾ ನ ಉರ್ವರಾದಿಮಾಂ ತನ್ವಂ ಮಮ ।
@@ -8994,6 +9596,8 @@ These three places,—you cause them all to grow,—my father's (bald) head, his
 *English Translation.*
 
 This field which is our (father's), and this my body and the head of my father,—you make all these bear a crop.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9040,6 +9644,9 @@ Thrice, Shatakratu, you purify Apala, in the hole of the chariot, in the hole of
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೩ । ಋಗ್ವೇದಸಂಹಿತಾ ೩೨೩]*
 
 ಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿಯೂ ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ತಿಳಿ. ಆರಣ್ಯಕದ ಪಂಚಮಾರಣ್ಯಕದಲ್ಲಿ—ಪುರುಹೂತಂ ಪುರುಷ್ಟುತೇತಿ ಶೇಷಃ ಎಂಬ ವಾಕ್ಯದಿಂದ (ಐ. ಆ. ೫-೨೩) ನಿರ್ದಿಷ್ಟ ವಾಗಿರುವುದು. ಮತ್ತು ಪ್ರಥಮರಾತ್ರಿ ಪರ್ಯಾಯದಲ್ಲಿ ಹೋತೃವು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಈ ಸೂಕ್ತದ ಎರಡು ತೃಚಗಳನ್ನು (ಆರು ಋಕ್ಕುಗಳನ್ನು) ಸ್ತೋತ್ರಿಯ ಮತ್ತು ಅನುರೂಪತೃಚಗಳನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಪಾಂತಮಾ ವೋ ಅಂಧಸೋಽಪಾದು ಶಿಪ್ರ್ಯಂಧಸಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು
+
+## ಸೂಕ್ತ ೯೨ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೨
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೯ ॥ ಸೂಕ್ತ—೯೨ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೧೩, ೧೪, ೧೫, ೧೬, ೧೭, ೧೮ ॥
@@ -9047,6 +9654,8 @@ Thrice, Shatakratu, you purify Apala, in the hole of the chariot, in the hole of
 ಋಷಿ—ಶ್ರುತಕಕ್ಷಃ ಸುಕಕ್ಷೋ ವಾ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದ—೧. ಅನುಷ್ಟುಪ್ । ೨-೩೩. ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9078,6 +9687,8 @@ Thrice, Shatakratu, you purify Apala, in the hole of the chariot, in the hole of
 
 Sing, priests, that Indra, who drinks your offered beverage,—the foe-subduing Shatakratu, most liberal of men.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುರುಹೂತಂ ಪುರುಷ್ಟುತಂ ಗಾಥಾನ್ಯಂ ಸನಶ್ರುತಮ್ ।
@@ -9107,6 +9718,8 @@ Sing, priests, that Indra, who drinks your offered beverage,—the foe-subduing 
 *English Translation.*
 
 Proclaim that deity as Indra, who is invoked by many, who is praised by many. who is worthy of songs and renowened as eternal.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9138,6 +9751,8 @@ Proclaim that deity as Indra, who is invoked by many, who is praised by many. wh
 
 May Indra who causes all to rejoice, be the giver of plenteous food to us ; may he, the mighty, bring us (riches) we are praying on our knees.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪಾದು ಶಿಪ್ರ್ಯಂಧಸಃ ಸುದಕ್ಷಸ್ಯ ಪ್ರಹೋಷಿಣಃ ।
@@ -9167,6 +9782,8 @@ May Indra who causes all to rejoice, be the giver of plenteous food to us ; may 
 *English Translation.*
 
 Indra. the handsome-jawed, has drunk of the dropping Soma-beverage mixed with barley, (the offering) of Sudaksha assiduous in sacrifice.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9198,6 +9815,8 @@ Indra. the handsome-jawed, has drunk of the dropping Soma-beverage mixed with ba
 
 Loudly praise that Indra that he may drink the Soma,– it is this which gives him strength.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ಯ ಪೀತ್ವಾ ಮದಾನಾಂ ದೇವೋ ದೇವಸ್ಯೌಜಸಾ ।
@@ -9228,6 +9847,8 @@ Loudly praise that Indra that he may drink the Soma,– it is this which gives h
 *English Translation.*
 
 The god, having quaffed its exhilarations, by the strength of the divine (Soma) has conquered all worlds.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9267,6 +9888,8 @@ Bring hither for our protection Indra the conqueror of many, who pervades all yo
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 331]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯುಧ್ಮಂ ಸಂತಮನರ್ವಾಣಂ ಸೋಮಪಾಮನಪಚ್ಯುತಮ್ ।
@@ -9296,6 +9919,8 @@ The warrior, whom none oppose and non can harm, the quaffer of the Soma, the lea
 <!-- printed 332 -->
 *[332 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮. ಅ. ೬. ಸೂ. ೯೨]*
 
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9327,6 +9952,8 @@ O you worthy of our praise, you who know all things, repeatedly give us riches, 
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೭ ] ಋಗ್ವೇದಸಂಹಿತಾ 333]*
 
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅತಶ್ಚಿದಿಂದ್ರ ಣ ಉಪಾ ಯಾಹಿ ಶತವಾಜಯಾ ।
@@ -9352,6 +9979,8 @@ O you worthy of our praise, you who know all things, repeatedly give us riches, 
 *English Translation.*
 
 Come to us, Indra, from thence with food of a hundred-fold strength, of a thousand-fold strength.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9383,6 +10012,8 @@ Come to us, Indra, from thence with food of a hundred-fold strength, of a thousa
 
 Shakra, let us go. proved in deeds, to deeds ; thunderer, cleaver of mountains, let us conquer in battles by your steeds.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಯಮು ತ್ವಾ ಶತಕ್ರತೋ ಗಾವೋ ನ ಯವಸೇಷ್ವಾ ।
@@ -9412,6 +10043,8 @@ Shakra, let us go. proved in deeds, to deeds ; thunderer, cleaver of mountains, 
 *English Translation.*
 
 We refresh you Shatakratu, with our praises, as (the herdsman) the cattle with (different kinds of) pasture-
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9443,6 +10076,8 @@ We refresh you Shatakratu, with our praises, as (the herdsman) the cattle with (
 
 All mortal natures, Shatakratu, are moved by desire; let our wishes, be granted O thnnderer.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವೇ ಸು ಪುತ್ರ ಶವಸೋಽವೃತ್ರನ್ಕಾಮಕಾತಯಃ ।
@@ -9472,6 +10107,8 @@ All mortal natures, Shatakratu, are moved by desire; let our wishes, be granted 
 *English Translation.*
 
 O son of strength, men, uttering their desires, abide happily in you ; none, Indra, surpass you.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9503,6 +10140,8 @@ O son of strength, men, uttering their desires, abide happily in you ; none, Ind
 
 Showrer (of blessings), protect us by your action, which is most bounteous yet awful, foe-terrifying yet many-cherishing.
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ತೇ ನೂನಂ ಶತಕ್ರತವಿಂದ್ರ ದ್ಯುಮ್ನಿತಮೋ ಮದಃ ।
@@ -9532,6 +10171,8 @@ Showrer (of blessings), protect us by your action, which is most bounteous yet a
 *English Translation.*
 
 Rejoice us, Indra, Satakratu, as you rejoice in that most glorious exhilaration of the Soma.
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9563,6 +10204,8 @@ Rejoice us, Indra, Satakratu, as you rejoice in that most glorious exhilaration 
 
 That Soma of  yours,  Indra,  which  is most widely renowned, most destructive of your enemies and most renovating to your strength.
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿದ್ಮಾ ಹಿ ಯಸ್ತೇ ಅದ್ರಿವಸ್ತ್ವಾದತ್ತಃ ಸತ್ಯ ಸೋಮಪಾಃ ।
@@ -9593,6 +10236,8 @@ That Soma of  yours,  Indra,  which  is most widely renowned, most destructive o
 *English Translation.*
 
 Thunderer, smiter of enemies, truthful drinker of the Soma, we know (the  wealth) which is given by you to all your votaries.
+
+#### ಋಕ್ ೧೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9632,6 +10277,8 @@ Let our voices praise on every side the (Soma) effused to the exhilarated Indra 
 *[ಅ. ೬ ಅ. ೬. ವ. ೧೮.] ಋಗ್ವೇದಸಂಹಿತಾ 343]*
 
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಮಿನ್ವಿಶ್ವಾ ಅಧಿ ಶ್ರಿಯೋ ರಣಂತಿ ಸಪ್ತ ಸಂಸದಃ ।
@@ -9661,6 +10308,8 @@ We invoke, now that the Soma is effused, that Indra in whom all graces are at th
 <!-- printed 344 -->
 *[344 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೯ ಸೂ. ೯೨]*
 
+
+#### ಋಕ್ ೨೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9692,6 +10341,8 @@ The gods extended the heaven-revealing sacrifice in the Trikadruka days,—may o
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೯ ] ಋಗ್ವೇದಸಂಹಿತಾ 345]*
 
 
+#### ಋಕ್ ೨೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ತ್ವಾ ವಿಶಂತ್ವಿಂದವಃ ಸಮುದ್ರಮಿವ ಸಿಂಧವಃ ।
@@ -9721,6 +10372,8 @@ Let Soma-drops enter you as the rivers the sea; none, Indra, surpasses you.
 <!-- printed 346 -->
 *[346  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮. ಅ. ೯. ಸೂ. ೯೩.]*
 
+
+#### ಋಕ್ ೨೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9752,6 +10405,8 @@ Indra, showerer (of blessings), wakeful one, you have attained by your might the
 *[ಅ. ೬. ಅ. ೬. ವ. ೧೯ ]  ಋಗ್ವೇದಸಂಹಿತಾ  347]*
 
 
+#### ಋಕ್ ೨೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರಂ ತ ಇಂದ್ರ ಕುಕ್ಷಯೇ ಸೋಮೋ ಭವತು ವೃತ್ರಹನ್ ।
@@ -9782,6 +10437,8 @@ Indra, slayer of Vritra, may the Soma be enough for your belly, may the drops be
 *[348  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ಮಂ. ೮. ಅ. ೯. ಸೂ ೯೩.]*
 
 
+#### ಋಕ್ ೨೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರಮಶ್ವಾಯ ಗಾಯತಿ ಶ್ರುತಕಕ್ಷೋ ಅರಂ ಗವೇ ।
@@ -9807,6 +10464,8 @@ Indra, slayer of Vritra, may the Soma be enough for your belly, may the drops be
 *English Translation.*
 
 Srutakaksha sings enough for a horse, enough for a cow, enough for a house of Indra's.
+
+#### ಋಕ್ ೨೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9838,6 +10497,8 @@ Srutakaksha sings enough for a horse, enough for a cow, enough for a house of In
 
 When our Soma-libations are effused, you are abundantly able (to drink them),—may they be enough for you, the bounteous.
 
+#### ಋಕ್ ೨೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಾಕಾತ್ತಾಚ್ಚಿದದ್ರಿವಸ್ತ್ವಾಂ ನಕ್ಷಂತ ನೋ ಗಿರಃ ।
@@ -9868,6 +10529,8 @@ When our Soma-libations are effused, you are abundantly able (to drink them),—
 *English Translation.*
 
 May our praises reach you, thunderer, even from afar; may we obtain your (wealth) abundantly.
+
+#### ಋಕ್ ೨೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9903,6 +10566,8 @@ You verily love to smite the mighty, you are a hero and firm (in battle), your m
 
 ಆಭಿಪ್ಲವಸಂಬಂಧವಾದ ಉಕ್ಥ್ಯಯಾಗಗಳಲ್ಲಿ ತೃತೀಯಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸಬೇಕಾದ ಮಂತ್ರಗಳಲ್ಲಿ ಏವಾ ಹ್ಯಸಿ ವೀರಯುಃ ಎಂದು ಮೊದಲಾಗುವ ನೂರು ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕ ಸ್ತೋತ್ರಿಯ ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಏವಾ ಹ್ಯಸಿ ವೀರಯುರೇವಾ ಹ್ಯಸ್ಯ ಸೂನೃತಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೮) ವಿವೃತವಾಗಿರುವುದು
 
+#### ಋಕ್ ೨೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏವಾ ರಾತಿಸ್ತುವೀಮಘ ವಿಶ್ವೇಭಿರ್ಧಾಯಿ ಧಾತೃಭಿಃ ।
@@ -9933,6 +10598,8 @@ You verily love to smite the mighty, you are a hero and firm (in battle), your m
 
 Lord of great wealth, your bounty is possessed by all your worshippers ; therefore, Indra, be also my ally.
 
+#### ಋಕ್ ೩೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮೋ ಷು ಬ್ರಹ್ಮೇವ ತಂದ್ರಯುರ್ಭುವೋ ವಾಜಾನಾಂ ಪತೇ ।
@@ -9962,6 +10629,8 @@ Lord of great wealth, your bounty is possessed by all your worshippers ; therefo
 *English Translation.*
 
 Be not like a lazy Brahman, O lord of food ; rejoice yourself by drinking the effused Soma mixed with milk.
+
+#### ಋಕ್ ೩೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -9994,6 +10663,8 @@ Be not like a lazy Brahman, O lord of food ; rejoice yourself by drinking the ef
 
 Indra, let not the threatening prowling (demons) obstruct us at night ; let us smite them with you as our helper.
 
+#### ಋಕ್ ೩೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಯೇದಿಂದ್ರ ಯುಜಾ ವಯಂ ಪ್ರತಿ ಬ್ರುವೀಮಹಿ ಸ್ಪೃಧಃ ।
@@ -10023,6 +10694,8 @@ Indra, let not the threatening prowling (demons) obstruct us at night ; let us s
 *English Translation.*
 
 With you, Indra, as our helper, let us answer our enemies ; you are ours, we are yours.
+
+#### ಋಕ್ ೩೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10064,6 +10737,9 @@ Indra, may your friends. the chanters, worship you devouted to your service aud 
 *[ಅ. ೬. ಅ. ೬. ವ. ೨೧.] ಋಗ್ವೇದಸಂಹಿತಾ 357]*
 
 ಉದ್ಘ ಚತುಸ್ತ್ರಿಂಶತ್ಸಕಕ್ಷೋಽನ್ತ್ಯೈಂದ್ರಾರ್ಭವೀ ಎಂದು ಹೇಳಿರುವುದು. ದ್ವಿತೀಯಪರ್ಯಾಯದಲ್ಲಿ ಹೋತೃವು ಪಠಿಸಬೇಕಾದ ಶಸ್ತ್ರಮಂತ್ರಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಕೊನೆಯ ಋಕ್ಕನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಉದ್ಘೇದಭೀತ್ಯುತ್ತಮಾಮುದ್ಧರೇತ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೬-೪) ವಿವೃತವಾಗಿರುವುದು. ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿಯೂ ಈ ಸೂಕ್ತ ಮತ್ತು ಹಿಂದಿನಸೂಕ್ತದ ವಿನಿಯೋಗ ವಿರುವುದೆಂದು ಹಿಂದಿನ ಸೂಕ್ತದ ವಿನಿಯೋಗದಲ್ಲಿಯೇ ಹೇಳಲಾಗಿದೆ. ಜ್ಯೋತಿಷ್ಟೋಮಯಾಗದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಉದ್ಘೇದಭೀತಿ ತಿಸ್ರ ಇಂದ್ರ ಕ್ರತುವಿದಂ ಸುತಮಿತಿ ಯಾಜ್ಯಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧೦) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಅಪ್ತೋರ್ಯಾಮವೆಂಬ ಯಾಗದಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಅತಿರಿಕ್ತೋಕ್ಥಮಂತ್ರಗಳಲ್ಲಿ ಈ ತೃಚವನ್ನು ಅನುರೂಪ ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಯದದ್ಯ ಕಚ್ಚ ವೃತ್ರಹನ್ನುದ್ಘೇದಭಿ ಶ್ರುತಾಮಘಮಾ ನೋ ವಿಶ್ವಾಭಿಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೯-೧೧) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೯೩ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೩
 ಮಂಡಲ—೮ • ಅನುವಾಕ—೯ • ಸೂಕ್ತ—೯೩ •
 ಅಷ್ಟಕ—೬ • ಅಧ್ಯಾಯ—೬ • ವರ್ಗ—೨೧, ೨೨, ೨೩, ೨೪, ೨೫, ೨೬, ೨೭ •
@@ -10071,6 +10747,8 @@ Indra, may your friends. the chanters, worship you devouted to your service aud 
 ಋಷಿಃ—ಸುಕಕ್ಷಃ •
 ದೇವತಾ—೧-೩೩. ಇಂದ್ರಃ • ೩೪. ಇಂದ್ರ ಋಭವಶ್ಚ •
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10103,6 +10781,8 @@ Indra, may your friends. the chanters, worship you devouted to your service aud 
 
 You rise, O sun, on (the sacrifice of Indra) the showerer (of blessings), the bountiful giver. famed for his wealth, the benefactor of men,
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನವ ಯೋ ನವತಿಂ ಪುರೋ ಬಿಭೇದ ಬಾಹ್ವೋಜಸಾ ।
@@ -10134,6 +10814,8 @@ You rise, O sun, on (the sacrifice of Indra) the showerer (of blessings), the bo
 
 Who cleft the ninety-nine cities by the strength of his arm, and, slayer of Vritra, smote Ahi.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ನ ಇಂದ್ರಃ ಶಿವಃ ಸಖಾಶ್ವಾವದ್ಗೋಮದ್ಯವಮತ್ ।
@@ -10163,6 +10845,8 @@ Who cleft the ninety-nine cities by the strength of his arm, and, slayer of Vrit
 *English Translation.*
 
 May Indra, our auspicious friend, milk for us, like a richly-streaming (cow), wealth of horses, cows, and barley.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10194,6 +10878,8 @@ May Indra, our auspicious friend, milk for us, like a richly-streaming (cow), we
 *English Translation.*
 
 Whatsoever, O sun, slayer of Vritra, you have risen upon to-day,— it is all, Indra, under your power.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10229,6 +10915,8 @@ When, swelling in your might, lord of the good, you think “ I shall not die, �
 
 ಇಂದ್ರನಿಗೆ ಜರಾಮರಣಗಳಿಲ್ಲ ಎಂಬ ವಿಷಯದಲ್ಲಿ— ನ ಹ್ಯಸ್ಯಾ ಅಪರಂ ಚನ ಜರಸಾ ಮರತೇ ಪತಿಃ (ಋ. ಸಂ. ೧೦-೮೬-೧೧) ಎಂಬ ಶ್ರುತಿವಾಕ್ಯವನ್ನು ಭಾಷ್ಯಕಾರರು ಉದಾಹರಣೆಯಾಗಿ ಹೇಳಿದ್ದಾರೆ.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೇ ಸೋಮಾಸಃ ಪರಾವತಿ ಯೇ ಅರ್ವಾವತಿ ಸುನ್ವಿರೇ ।
@@ -10259,6 +10947,8 @@ When, swelling in your might, lord of the good, you think “ I shall not die, �
 *English Translation.*
 
 You go at once, Indra, to all those Soma-libations which are effused afar or effused near.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10298,6 +10988,8 @@ We invigorate that (great) Indra for the slaying of mighty Vritra ; may he be a 
 
 ಆಪ್ತೋರ್ಯಾಮವೆಂಬ ಯಾಗದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿ ಎಂಬ ಋತ್ವಿಜನು ಪಠಿಸಬೇಕಾದ ಅತಿರಿಕ್ತೋಕ್ಥ ಮಂತ್ರಗಳಲ್ಲಿ ತಮಿಂದ್ರಂ ವಾಜಯಾಮಸಿ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಸ್ತೋತ್ರಿಯ ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತಮಿಂದ್ರಂ ವಾಜಯಾಮಸಿ ಮಹಾ ಇಂದ್ರೋ ಯ ಓಜಸಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೯-೧೧) ವಿವೃತವಾಗಿರುವುದು. ವ್ಯೂಳ್ಹವೆಂಬ ದಶರಾತ್ರಯಾಗದ ಐದನೆಯ ದಿವಸ ನಿಷ್ಕೇವಲ್ಯ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಈ ತೃಚವನ್ನು ನಿವಿದ್ಧಾನೀಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಮರುತ್ವಾ ಇಂದ್ರ ಮೀಢ್ವಸ್ತಮಿಂದ್ರಂ ವಾಜಯಾಮಸಿ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೮) ವಿವೃತವಾಗಿರುವುದು,
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಃ ಸ ದಾಮನೇ ಕೃತ ಓಜಿಷ್ಠಃ ಸ ಮದೇ ಹಿತಃ ।
@@ -10328,6 +11020,8 @@ We invigorate that (great) Indra for the slaying of mighty Vritra ; may he be a 
 
 Indra was created for giving, he, the most mighty, was set over the texhilarating Soma ; he the glorious one, the lord of praise, is worthy of he Soma.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಗಿರಾ ವಜ್ರೋ ನ ಸಂಭೃತಃ ಸಬಲೋ ಅನಪಚ್ಯುತಃ ।
@@ -10357,6 +11051,8 @@ Indra was created for giving, he, the most mighty, was set over the texhilaratin
 *English Translation.*
 
 The mighty (Indra), unassailed by his foes, hastens to confer wealth on his worshippers,—rendered keen by their praises, as a weapon, full of strength and invincible.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10389,6 +11085,8 @@ The mighty (Indra), unassailed by his foes, hastens to confer wealth on his wors
 
 Indra, worthy of our praise, hymned by us, make our path plain even in the midst of difficulties, (hear us), Maghavan, if you love us ;
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯ ತೇ ನೂ ಚಿದಾದಿಶಂ ನ ಮಿನಂತಿ ಸ್ವರಾಜ್ಯಮ್ ।
@@ -10418,6 +11116,8 @@ Indra, worthy of our praise, hymned by us, make our path plain even in the midst
 *English Translation.*
 
 You whose command and rightful empire neither god nor irresistible hero can harm.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10449,6 +11149,8 @@ xxv. 24
 *English Translation.*
 
 Yes, deity of the handsome jaw, the two goddesses, heaven and earth both worship your resistless consuming might.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10484,6 +11186,8 @@ It is you that keep this bright milk in the black, red, and spotted cows.
 
 ಬಿಳಿಬಣ್ಣದ ಹಸುವು ಬೆಳ್ಳಗಿರುವ ಹಾಲನ್ನು ಕೊಡುವದು ಸಹಜವಾಗಿರುವದು. ಆದರೆ ಹಸುವು ಬೆಳ್ಳಗಿರಲಿ, ಕಪ್ಪಗಿರಲಿ, ಕೆಂಪಗಿರಲಿ ಅಥವಾ ಮಿಶ್ರಬಣ್ಣವಾಗಿರಲಿ ಈ ಎಲ್ಲಾ ವಿಧವಾದ ಹಸುಗಳಲ್ಲಿಯೂ ದೊರಕುವ ಹಾಲು ಬೆಳ್ಳಗೆ ಒಂದೇ ವಿಧವಾಗಿರುವದು. ಇದು ನಿನ್ನ ಮಾಹಾತ್ಮ್ಯವು ಎಂದು ಇಂದ್ರನ ಮಹತ್ವವನ್ನು ಋಷಿಯು ವರ್ಣಿಸಿದಾನೆ.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿ ಯದಹೇರಧ ತ್ವಿಷೋ ವಿಶ್ವೇ ದೇವಾಸೋ ಅಕ್ರಮುಃ ।
@@ -10513,6 +11217,8 @@ It is you that keep this bright milk in the black, red, and spotted cows.
 *English Translation.*
 
 When all the gods fled in various directions from the splendour of the demon Ahi, and when fear of the deer seized them.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10544,6 +11250,8 @@ When all the gods fled in various directions from the splendour of the demon Ahi
 
 Then was my Indra the repeller; then did the smiter of Vritra put forth his might, he who has no existent enemies, the invincible.
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಶ್ರುತಂ ವೋ ವೃತ್ರಹಂತಮಂ ಪ್ರ ಶರ್ಧಂ ಚರ್ಷಣೀನಾಮ್ ।
@@ -10574,6 +11282,8 @@ Then was my Indra the repeller; then did the smiter of Vritra put forth his migh
 
 (Priests), I bring to you men, for great wealth, that renowned and mighty one who utterly destroyed Vritra.
 
+#### ಋಕ್ ೧೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಾ ಧಿಯಾ ಚ ಗವ್ಯಯಾ ಪುರುಣಾಮನ್ಪುರುಷ್ಟುತ ।
@@ -10603,6 +11313,8 @@ Then was my Indra the repeller; then did the smiter of Vritra put forth his migh
 *English Translation.*
 
 O you bearing many names and praised by many, when you are present at our various Soma-libations, may we be endowed with a cows-desiring mind.
+
+#### ಋಕ್ ೧೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10635,6 +11347,8 @@ O you bearing many names and praised by many, when you are present at our variou
 *English Translation.*
 
 May the slayer of Vritra, to whom many libations are offered, know our desires,—may Sakra hear our praises.
+
+#### ಋಕ್ ೧೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10670,6 +11384,8 @@ Showerer, (of blessings), with what coming of yours do you gladden us, with what
 
 ಜ್ಯೋತಿಷ್ಟೋಮಯಾಗದ ಚಾತುರ್ವಿಂಶಿಕವೆಂಬ ದಿನದ ಮಾಧ್ಯಂದಿನ ಸವನಕಾಲದಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪಠಿಸುವ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಕಯಾ ತ್ವಂ ನ ಊತ್ಯಾ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಅನುರೂಪತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಹೋತ್ರಕಾಣಾಂ ಕಯಾ ನಶ್ಚಿತ್ರ ಆ ಭುವತ್ ಕಯಾ ತ್ವಂ ನ ಊತ್ಯಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೪) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕಸ್ಯ ವೃಷಾ ಸುತೇ ಸಚಾ ನಿಯುತ್ವಾನ್ವೃಷಭೋ ರಣತ್ ।
@@ -10700,6 +11416,8 @@ Showerer, (of blessings), with what coming of yours do you gladden us, with what
 
 At whose hymn-accompanied libations does the showerer, the lord of the Niyuts, the slayer of Vritra, rejoice to drink the Soma ?
 
+#### ಋಕ್ ೨೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭೀ ಷು ಣಸ್ತ್ವಂ ರಯಿಂ ಮಂದಸಾನಃ ಸಹಸ್ರಿಣಮ್ ।
@@ -10729,6 +11447,8 @@ At whose hymn-accompanied libations does the showerer, the lord of the Niyuts, t
 *English Translation.*
 
 Rejoicing (in our oblations), bring us wealth a thousandfold; remember that you are the giver of your votary.
+
+#### ಋಕ್ ೨೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10782,6 +11502,8 @@ These Soma-libations with their wives proceed (to Indra) longing to be drunk ; t
 (ನಿ. ೫-೧೮)
 ಯಜ್ಞದ ಕೊನೆಯ ದಿವಸದ ಕರ್ಮವಾದ ಅವಭೃಥಕ್ಕೂ ನಿಚುಂಪುಣವೆಂದು ಹೆಸರು. ಏಕೆಂದರೆ ಆದಿನಸದ ಕರ್ಮದಲ್ಲಿ ಮಂತ್ರಾದಿಗಳನ್ನು ನೀಚೈರಸ್ಮಿನ್ ಕ್ವಣಂತಿ ಬಹಳ ಮೆತ್ತಗೆ, ಮೆಲ್ಲಿನೆ ಧ್ವನಿಯಿಂದ ಪಠಿಸುವರು ಅಥವಾ ಆದಿನಸದಲ್ಲಿ ನೀಚೈರ್ದಧತೀತಿ ವಾ ಎಂದರೆ ಯಜ್ಞಪಾತ್ರೆಗಳನ್ನು ನೀಚರಾದವರು ಎಂದರೆ ಸೇವಕರು, ಪರಿಚಾರಕರೇ ಮೊದಲಾದವರು ಕೊಂಡೊಯ್ಯುವರು ಆದ್ದರಿಂದ ಅವಭೃಥಕ್ಕೆ ನಿಚುಂಪುಣವೆಂದು ಹೆಸರು. ಕೆಲವುಕಡೆ ನಿಚುಂಕುಣ ಎಂಬ ಶಬ್ದಪ್ರಯೋಗವಿರುವುದು. ಈ ಶಬ್ದಕ್ಕೂ ಇದೇ ಅರ್ಥವು ಎಂದರೆ ನಿಚುಂಪುಣ ಮತ್ತು ನಿಚುಂಕುಣ ಎಂಬ ಈ ಎರಡು ಶಬ್ದಗಳೂ ಸಮಾನಾರ್ಥವನ್ನು ಸೂಚಿಸುವ ಪರ್ಯಾಯಪದಗಳು. ಅವಭೃಥ ನಿಚುಂಪುಣ ನೀಚೇರುಶಸಿ ನಿಚುಂಕುಣ ಎಂಬುದು ಈ ವಿಷಯದಲ್ಲಿ ಶ್ರುತಿವಾಕ್ಯದ ಉದಾಹರಣೆಯು.
 
+#### ಋಕ್ ೨೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಷ್ಟಾ ಹೋತ್ರಾ ಅಸೃಕ್ಷತೇಂದ್ರಂ ವೃಧಾಸೋ ಅಧ್ವರೇ ।
@@ -10811,6 +11533,8 @@ These Soma-libations with their wives proceed (to Indra) longing to be drunk ; t
 *English Translation.*
 
 The sacrificing priests, invigorating (Indra) by their offerings at the sacrifice, have by their might dismissed him at the Avabritha.
+
+#### ಋಕ್ ೨೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10842,6 +11566,8 @@ The sacrificing priests, invigorating (Indra) by their offerings at the sacrific
 
 May those two golden-maned steeds together exulting bring him to our wholesome offering.
 
+#### ಋಕ್ ೨೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತುಭ್ಯಂ ಸೋಮಾಃ ಸುತಾ ಇಮೇ ಸ್ತೀರ್ಣಂ ಬರ್ಹಿರ್ವಿಭಾವಸೋ ।
@@ -10872,6 +11598,8 @@ May those two golden-maned steeds together exulting bring him to our wholesome o
 
 Resplendent (Agni), these Soma-libations are effused for you, and the clipped grass is spread ; bring Indra hither for his worshippers.
 
+#### ಋಕ್ ೨೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ತೇ ದಕ್ಷಂ ವಿ ರೋಚನಾ ದಧದ್ರತ್ನಾ ವಿ ದಾಶುಷೇ ।
@@ -10901,6 +11629,8 @@ Resplendent (Agni), these Soma-libations are effused for you, and the clipped gr
 *English Translation.*
 
 May he give strength and his brilliant heaven and precious things to you his worshipper, and to his praising priests ; worship Indra.
+
+#### ಋಕ್ ೨೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10933,6 +11663,8 @@ May he give strength and his brilliant heaven and precious things to you his wor
 
 I prepare, Satakratu, your strong (Soma) and all your praises ; be gracious, Indra, to your hymners·
 
+#### ಋಕ್ ೨೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಭದ್ರಂಭದ್ರಂ ನ ಆ ಭರೇಷಮೂರ್ಜಂ ಶತಕ್ರತೋ ।
@@ -10962,6 +11694,8 @@ I prepare, Satakratu, your strong (Soma) and all your praises ; be gracious, Ind
 *English Translation.*
 
 Bring us what is most auspicious, Satakratu, (bring us) food and strength, if you have favour to us, Indra.
+
+#### ಋಕ್ ೨೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -10994,6 +11728,8 @@ Bring us what is most auspicious, Satakratu, (bring us) food and strength, if yo
 
 Bring us all blessings, Satakratu, if you have favour to us, Indra.
 
+#### ಋಕ್ ೩೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಾಮಿದ್ವೃತ್ರಹಂತಮ ಸುತಾವಂತೋ ಹವಾಮಹೇ ।
@@ -11024,6 +11760,8 @@ Bring us all blessings, Satakratu, if you have favour to us, Indra.
 *English Translation.*
 
 Bearing the effused libation, we invoke you, mighty slayer of Vritra if you have favour to us, Indra.
+
+#### ಋಕ್ ೩೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11059,6 +11797,8 @@ Come with your steeds to our effused libation, lord of the Soma,—come with you
 
 ವ್ಯೂಳ್ಹವೆಂಬ ದಶರಾತ್ರಯಾಗದ ಆರನೆಯ ದಿವಸ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಉಪ ನೋ ಹರಿಭಿಃ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ನಿವಿದ್ಧಾನೀಯತೃಚವನ್ನಾಗಿ ಸೇರಿಸಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ-ಅಯಂ ಹ ಯೇನ ವಾ ಇದಮುಪ ನೋ ಹರಿಭಿಃ ಸುತಂ ಎಂಬ ಸೂತ್ರದಿಂದ ( ಆ. ೮-೫ ) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೩೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದ್ವಿತಾ ಯೋ ವೃತ್ರಹಂತಮೋ ವಿದ ಇಂದ್ರಃ ಶತಕ್ರತುಃ ।
@@ -11088,6 +11828,8 @@ Come with your steeds to our effused libation, lord of the Soma,—come with you
 *English Translation.*
 
 Indra, Satakratu, mighty slayer of Vritra, you whose power is known in a two-fold way, come with your steeds to our effused libation.
+
+#### ಋಕ್ ೩೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11119,6 +11861,8 @@ Indra, Satakratu, mighty slayer of Vritra, you whose power is known in a two-fol
 *English Translation.*
 
 Slayer of Vritra, you are the drinker of these Soma juices, come with your steeds to our effused libation.
+
+#### ಋಕ್ ೩೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11264,6 +12008,9 @@ May Indra bring to us the bounteous Ribhu Ribhukshana to partake of our sacrific
 ಯನ್ನುದ್ದೇಶಿಸಿ ಪಠಿಸುವ ಅತಿರಿಕ್ತಮಂತ್ರಗಳಲ್ಲಿ ಒಂದು ಶಸ್ತ್ರಮಂತ್ರವನ್ನು ಪಠಿಸಬೇಕು. ಆ ಸಂದರ್ಭದಲ್ಲಿ ಈ
 ಸೂಕ್ತದ ಮೊದಲಿನ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ಅನುರೂಪತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದಅಸ್ತಿ ಸೋಮೋ ಆಯಂ ಸುತೋ ಗೌರ್ಧಯತಿ ಮರುತಾಮಿತಿ ಸ್ತೋತ್ರಿಯಾನುರೂಪೌ ಎಂಬ ಸೂತ್ರ
 ದಿಂದ (ಆ. ೬-೨) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೯೪ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೪
 ಮಂಡಲ—೮ । ಅನುವಾಕ—೧೦ । ಸೂಕ್ತ—೯೪ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೨೮, ೨೯ ।
@@ -11271,6 +12018,8 @@ May Indra bring to us the bounteous Ribhu Ribhukshana to partake of our sacrific
 ಋಷಿಃ—ಬಿಂದುಃ ಪೂತದಕ್ಷೋ ವಾ ।
 ದೇವತಾ—ಮರುತಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11309,6 +12058,8 @@ May Indra bring to us the bounteous Ribhu Ribhukshana to partake of our sacrific
 
 The cow (Prishni), the food-desiring mother of the wealthy Maruts, drinks the (Soma), she is worthy of all honour who yokes (the mares) to their chariots.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯಾ ದೇವಾ ಉಪಸ್ಥೇ ವ್ರತಾ ವಿಶ್ವೇ ಧಾರಯಂತೇ ।
@@ -11338,6 +12089,8 @@ The cow (Prishni), the food-desiring mother of the wealthy Maruts, drinks the (S
 *English Translation.*
 
 She, in whose presence all the gods observe their functions, and the sun and moon move in peace to enlighten the world.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11370,6 +12123,8 @@ She, in whose presence all the gods observe their functions, and the sun and moo
 
 Therefore all our priests in their worship always sing the Maruts that they may drink the Soma.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ತಿ ಸೋಮೋ ಅಯಂ ಸುತಃ ಪಿಬಂತ್ಯಸ್ಯ ಮರುತಃ ।
@@ -11401,6 +12156,8 @@ Therefore all our priests in their worship always sing the Maruts that they may 
 
 This soma is effused (by us); the self-resplendent Maruts drink of it and the Aswins.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪಿಬಂತಿ ಮಿತ್ರೋ ಅರ್ಯಮಾ ತನಾ ಪೂತಸ್ಯ ವರುಣಃ ।
@@ -11430,6 +12187,8 @@ This soma is effused (by us); the self-resplendent Maruts drink of it and the As
 *English Translation.*
 
 Mitra, Aryaman, and Varuna drink (the Soma), purified by the straining cloth, abiding in three places, and granting posterity.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11461,6 +12220,8 @@ Mitra, Aryaman, and Varuna drink (the Soma), purified by the straining cloth, ab
 
 Indra also is eager in the morning to drink this effused (Soma) mixed with milk, as a priest (to praise the gods).
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕದತ್ವಿಷಂತ ಸೂರಯಸ್ತಿರ ಆಪ ಇವ ಸ್ರಿಧಃ ।
@@ -11490,6 +12251,8 @@ Indra also is eager in the morning to drink this effused (Soma) mixed with milk,
 *English Translation.*
 
 When do the sages flash like waters across (the sky) ? when do the Maruts, pure in vigour, destroyers of enemies, come to our offering ?
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11521,6 +12284,8 @@ When do the sages flash like waters across (the sky) ? when do the Maruts, pure 
 
 O shall I to-day possess your protection, mighty deities, beautifully bright in yourselves (though unadorned) ?
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಯೇ ವಿಶ್ವಾ ಪಾರ್ಥಿವಾನಿ ಪಪ್ರಥನ್ರೋಚನಾ ದಿವಃ ।
@@ -11550,6 +12315,8 @@ O shall I to-day possess your protection, mighty deities, beautifully bright in 
 *English Translation.*
 
 (We invoke) those Maruts to drink our Soma, who have spread out all the things of earth and the luminaries of heaven.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11581,6 +12348,8 @@ O shall I to-day possess your protection, mighty deities, beautifully bright in 
 
 O Maruts, I invoke you, resplendent of pure vigour, to drink this Soma.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ಯಾನ್ನು ಯೇ ವಿ ರೋದಸೀ ತಸ್ತಭುರ್ಮರುತೋ ಹುವೇ ।
@@ -11610,6 +12379,8 @@ O Maruts, I invoke you, resplendent of pure vigour, to drink this Soma.
 *English Translation.*
 
 I invoke those Maruts to drink this Soma, who have established heaven and earth.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11648,6 +12419,9 @@ I invoke that band of the Maruts, abiding in the clouds, the showrers, to drink 
 > ‘ಆ ತ್ವಾ' ಇತಿ ನವರ್ಚಂ ದ್ವಿತೀಯಂ ಸೂಕ್ತಮಾನುಷ್ಟುಭಮೈಂದ್ರಮ್ । ತಿರಶ್ಚೀರ್ನಾಮಾಂಗಿರಸ ಋಷಿಃ । ತಥಾ ಚಾನುಕ್ರಮ್ಯತೇ- ‘ ಆ ತ್ವಾ ನವ ತಿರಶ್ಚೀರಾನುಷ್ಟುಭಮ್' ಇತಿ । ಆಭಿಪ್ಲವಿಕೇಷೂಕ್ಥ್ಯೇಷು ತೃತೀಯಸವನೇಽಚ್ಛಾವಾಕಸ್ಯ  ‘ ಆ ತ್ವಾ ಗಿರಃ' ಇತಿ ತೃಚೋ ವೈಕಲ್ಪಿಕೋಽನುರೂಪಃ । ಸೂತ್ರ್ಯತೇ ಹಿ -- ಗಾಯಂತಿ ತ್ವಾ ಗಾಯತ್ರಿಣ ಆ ತ್ವಾ ಗಿರೋ ರಥೀರಿವ' (ಆಶ್ವ. ಶ್ರೌ. ೭. ೮) ಇತಿ ॥
 ಅನುವಾದವು—ಆ ತ್ವಾ ಗಿರಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಹತ್ತನೆಯ ಮಂಡಲದಲ್ಲಿ ಎರಡನೇಯ ಸೂಕ್ತವು.
 ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಆಂಗಿರಸಪುತ್ರನಾದ ತಿರಶ್ಚೀಃ ಎಂಬುವನು ಋಷಿಯು ; ಇಂದ್ರನು ದೇವತೆಯು ; ಅನುಷ್ಟುಪ್ ಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ತ್ವಾ ನವ ತಿರಶ್ಚೀರಾನುಷ್ಟುಭಂ ಎಂದು ಹೇಳಿರುವುದು. ಅಭಿಪ್ಲವಸಂಬಂಧವಾದ ಉಕ್ಥ್ಯಯಾಗಗಳ ತೃತೀಯಸವನಕಾಲದಲ್ಲಿ ಅಚ್ಛಾವಾಕಸೆಂಬ ಋತ್ವಿಜನು ಆ ತ್ವಾ ಗಿರಃ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕಾನುರೂಪತೃಚವನ್ನಾಗಿ ಪಠಿಸ ಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಗಾಯಂತಿ ತ್ವಾ ಗಾಯತ್ರಿಣ ಆ ತ್ವಾ ಗಿರೋ ರಥೀರಿವ ಎಂಬ ಸೂತ್ರ ದಿಂದ (ಆ. ೭-೮) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೯೫ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೫
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೯೫ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೩೦, ೩೧ ।
@@ -11659,6 +12433,8 @@ I invoke that band of the Maruts, abiding in the clouds, the showrers, to drink 
 <!-- printed 411 -->
 *[ಅ. ೬. ಅ. ೬. ವ. ೩೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 411]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11690,6 +12466,8 @@ I invoke that band of the Maruts, abiding in the clouds, the showrers, to drink 
 
 O Indra worthy of praise, when the Soma is effused, our songs hasten to you as a charioteer (to his goal); they low towards you as cows towards their calves.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ತ್ವಾ ಶುಕ್ರಾ ಅಚುಚ್ಯವುಃ ಸುತಾಸ ಇಂದ್ರ ಗಿರ್ವಣಃ ।
@@ -11719,6 +12497,8 @@ O Indra worthy of praise, when the Soma is effused, our songs hasten to you as a
 *English Translation.*
 
 Indra worthy of praise, let the bright Soma-libations come to you ; drink your portion of the beveragr ; Indra, in all places it is fit for you.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11750,6 +12530,8 @@ Indra worthy of praise, let the bright Soma-libations come to you ; drink your p
 *English Translation.*
 
 Drink to your fill, Indra, the effused Soma brought by the hawk, you are the lord of all the divine hosts, you are the self-resplendent.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11785,6 +12567,8 @@ Hear, Indra, the prayer of Tirashchi who worships you, and satisfy him with weal
 
 ಅಭಿಪ್ಲವಸಂಬಂಧವಾದ ಉಕ್ಥ್ಯಯಾಗಗಳಲ್ಲಿ ತೃತೀಯಸವನಕಾಲದಲ್ಲಿ ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು ಶ್ರುಧೀ ಹವಂ ತಿರಶ್ಚ್ಯಃ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಶ್ರುಧೀ ಹವಂ ತಿರಶ್ಚ್ಯಃ ಆಶ್ರುತ್ಕರ್ಣ ಶ್ರುಧೀ ಹವಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ನಿ. ೬-೮) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರ ಯಸ್ತೇ ನವೀಯಸೀಂ ಗಿರಂ ಮಂದ್ರಾಮಜೀಜನತ್ ।
@@ -11815,6 +12599,8 @@ Hear, Indra, the prayer of Tirashchi who worships you, and satisfy him with weal
 
 To him who has made for you this newest joy-giving hymn, Indra, (extend), your ancient truthful providence to which all hearts are known.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಮು ಷ್ಟವಾಮ ಯಂ ಗಿರ ಇಂದ್ರಮುಕ್ಥಾನಿ ವಾವೃಧುಃ ।
@@ -11844,6 +12630,8 @@ To him who has made for you this newest joy-giving hymn, Indra, (extend), your a
 *English Translation.*
 
 Let us praise that Indra whom our chants and hymns have magnified ; we worship him, desirous to honour his many deeds of might.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11889,6 +12677,8 @@ Come, let us praise the purified Indra with a pure Saman and with pure recited h
 ಇಂದ್ರೋ ವಾಸುರಾನ್ ಹತ್ವಾಪೂತ ಇವಾಮೇಧ್ಯೋಽಮನ್ಯತ । ಸೋಽಕಾಮಯತ ಶುದ್ಧ-ಮೇವ ಮಾ ಸಂತಂ ಶುದ್ಧೇನ ಸಾಮ್ನಾ ಸ್ತುಯುರಿತಿ । ಸ ಋಷೀನಬ್ರವೀತ್ ಸ್ತುತ ಮೇತಿ । ತತ ಋಷಯಃ ಸಾಮಾಪಶ್ಯನ್ । ತೇನಾಸ್ತುವನ್ನೇತೋ ನ್ವಿಂದ್ರಮಿತಿ । ತತೋ ವಾ ಇಂದ್ರಃ ಪೂತಃ ಶುದ್ಧೋ ಮೇಧ್ಯೋಽಭವತ್ ॥
 ಮೇಲೆ ಹೇಳಿದ ಅರ್ಥವೇ ಇಲ್ಲಿಯೂ ಉಕ್ತವಾಗಿರುವುದು. ಋಷಿಗಳು ಇಂದ್ರನ ಆಜ್ಞೆಯಂತೆ ಏತೋನ್ವಿಂದ್ರಃ (ಸಾಮವೇದ. ೩೫೦, ೧೪೦೨) ಇಂದ್ರ ಶುದ್ಧೋ ನ ಆಗಹಿ (ಸಾಮು. ೧೪೦೩) ಇಂದ್ರ ಶುದ್ಧೋ ಹಿ ನೋ ರಯಿಂ (ಸಾಮು. ೧೪೦೪) ಎಂಬ ಮೂರು ಮಂತ್ರಗಳನ್ನು ತಮ್ಮ ದಿವ್ಯದೃಷ್ಟಿಯಿಂದ ಅರಿತು ಇಂದ್ರನನ್ನು ಸ್ತುತಿಸಿದರು. ಅದರಿಂದ ಇಂದ್ರನು ಶುದ್ಧನಾದನು. ಈ ವಿಷಯವೇ ಈ ಋಕ್ಕುಗಳಲ್ಲಿ ಹೇಳಿದೆಯೆಂದು ಈ ಋಕ್ಕುಗಳ ಅರ್ಥವಿಷಯದಲ್ಲಿ ಮೇಲಿನ ಇತಿಹಾಸವನ್ನು ಪೀಠಿಕಾರೂಪವಾಗಿ ಹೇಳಿರುವರು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರ ಶುದ್ಧೋ ನ ಆ ಗಹಿ ಶುದ್ಧಃ ಶುದ್ಧಾಭಿರೂತಿಭಿಃ ।
@@ -11918,6 +12708,8 @@ Come, let us praise the purified Indra with a pure Saman and with pure recited h
 *English Translation.*
 
 Come to us, Indra, purified ; purified with your pure protecting hosts ; purified, establish wealth in us ; purified and now worthy of the Soma, rejoice.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11958,6 +12750,9 @@ Purified, Indra, give us wealth ; purified, give to your worshipper preceious th
 *[422 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೯೬]*
 
 ಅನುವಾದವು—ಅಸ್ಮೈ ಎಂಬ ಈ ಸೂಕ್ತವು ಹತ್ತನೆಯ ಅನುವಾಕದಲ್ಲಿ ಮೂರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಇಪ್ಪತ್ತೊಂದು ಋಕ್ಕುಗಳಿರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಅಸ್ಮೈ ಸೈಕಾ ದ್ಯುತಃ ನೋ ವಾ ಮಾರುತಸ್ತ್ರೈಷ್ಟುಭಂ ಚತುರ್ಥೀ ವಿರಾಳಿಷ್ಯಾಮಿತಿ ಮಾರುತಃ ಪಾದಃ ಪರ್ಯೈಂದ್ರಾಬಾರ್ಹಸ್ಪತ್ಯಾ ಎಂದು ಹೇಳಿರುವುದು. ಈ ಸೂಕ್ತಕ್ಕೆ ಮರುದ್ದೇವತೆಗಳ ಪುತ್ರನಾದ ದ್ಯುತಾನ ಎಂಬುವನು ಅಥವಾ ತಿರಶ್ಚೀಃ ಆಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು ; ಇಂದ್ರನು ದೇವತೆಯು ; ಈ ಸೂಕ್ತದ ನಾಲ್ಕನೆಯ ಋಕ್ಕು ವಿರಾಟ್ ಛಂದಸ್ಕವು ; ಉಳಿದ ಋಕ್ಕುಗಳು ತ್ರಿಷ್ಟುಪ್ ಛಂದಸ್ಕವು. ಇಷ್ಯಾಮಿ ವಃ ಎಂಬ ಹದಿನಾಲ್ಕನೆಯ ಋಕ್ಕಿನ ನಾಲ್ಕನೆಯ ಪಾದವು ಮರುದ್ದೇವತಾಕವು ; ಅಧ ದೃಪ್ಸಃ ಎಂಬ ಹದಿನೈದನೆಯ ಋಕ್ಕು ಇಂದ್ರಾಬೃಹಸ್ಪತೀದೇವತಾಕವು. ಸೂಕ್ತವಿನಿಯೋಗವು ಲೈಂಗಿಕವು.
+
+## ಸೂಕ್ತ ೯೬ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೬
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೯೬ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೩೨, ೩೩, ೩೪, ೩೫ ॥
@@ -11965,6 +12760,8 @@ Purified, Indra, give us wealth ; purified, give to your worshipper preceious th
 ಋಷಿ—ತಿರಶ್ಚೀರ್ದ್ಯುತಾನೋ ವಾ ಮಾರುತಃ ॥
 ದೇವತಾ—೧-೧೩. ೧೪ ರಲ್ಲಿ ೩ನೇ ಪಾದ. ೧೬-೨೧. ಇಂದ್ರಃ । ೧೪ ರಲ್ಲಿ ೪ನೇ ಪಾದ ಮರುತಃ । ೧೫. ಇಂದ್ರಾಬೃಹಸ್ಪತೀ ॥
 ಛಂದ—೧-೩, ೫-೨೧. ತ್ರಿಷ್ಟುಪ್ । ೪. ವಿರಾಟ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -11999,6 +12796,8 @@ For him the dawns prolonged their rising ; for Indra the nights uttered auspicio
 <!-- printed 424 -->
 *[424  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ ಮಂ. ೮. ಅ. ೧೦. ಸೂ. ೯೬]*
 
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12051,6 +12850,8 @@ By him the thrower, unaided, were pierced asunder the thrice seven table-lands o
 
 ಅಡಗಿಕೊಂಡಿದ್ದನು. ದೇವತೆಗಳು ಅವನನ್ನು ಕಾಣದೆ ಒಬ್ಬರ ಕೈಯನ್ನೊಬ್ಬರು ಹಿಡಿದುಕೊಂಡು ಎಲ್ಲೆಲ್ಲೂ ಹುಡುಕುತ್ತಿದ್ದರು. ಆದರೂ ಅವರಿಗೆ ವಿಷ್ಣು ಇರುವ ಸ್ಥಳವು ಸಿಕ್ಕಲಿಲ್ಲ. ಆದರೆ ಇಂದ್ರನು ವಿಷ್ಣುವು ಅಡಗಿಕೊಂಡಿದ್ದ ಪ್ರದೇಶದಮೇಲೆ ಹಾದುಹೋಗುವಾಗ, ಕೆಳಗಿದ್ದ ವಿಷ್ಣುವು—ಯಾರದು ? ನಾನಿರುವ ಈ ಸ್ಥಳದ ಮೇಲೆ ಹಾದು ಹೋಗುವವರು ? ಎನ್ನಲು, ಅದನ್ನು ಕೇಳಿ ಇಂದ್ರನು—ನಾನು, ಅಸುರರ ದುರ್ಗಗಳನ್ನು ಪ್ರಹರಿಸಿ ಧ್ವಂಸಮಾಡುವ ಶೂರನೇ ನಾನು. ಆದರೆ ನೀನು ಯಾರು ? ಎಂದು ಕೇಳಿದನು. ಅದಕ್ಕೆ ವಿಷ್ಣುವು—ಅಸುರರ ದುರ್ಗಾದಿಗಳು ಧ್ವಂಸವಾದಮೇಲೆ ಅಲ್ಲಿರತಕ್ಕ ಧನಾದಿವಸ್ತುಗಳನ್ನು ತರುವವನೇ ನಾನು ಎಂದು ಪ್ರತ್ಯುತ್ತರವಿತ್ತನು. ಮತ್ತೆ ಇಂದ್ರನನ್ನುದ್ದೇಶಿಸಿ—ಎಲ್ಲೈ ಪುರುಷನೇ, ನೀನು ಹೇಳಿಕೊಳ್ಳುವಂತೆ ಶತ್ರುಪಟ್ಟಣಗಳನ್ನು ಧ್ವಂಸಮಾಡುವವನು ನೀನೇ ಆಗಿದ್ದರೆ ಇಲ್ಲಿಂದ ಮುಂದೆ ಏಳು ಪರ್ವತಗಳ ಆಚೆ ವರಾಹನೆಂಬ ಅಸುರನಿರುವನು. ಅವನು ಅಸುರರ ಧನಾದಿಗಳನ್ನು ಅಪಹರಿಸಿ ತನ್ನ ಬಲವಾದ ಕೋಟೆಯೊಳಗೆ ಇಟ್ಟುಕೊಂಡಿರುವನು. ನೀನು ಹೇಳಿಕೊಳ್ಳುವಂತೆ ಅಸುರರ ದುರ್ಗಗಳನ್ನು ನಾಶಮಾಡುವ ಶಕ್ತಿ ನಿನಗಿದ್ದರೆ ಆ ವರಾಹನೆಂಬ ಅಸುರನನ್ನು ಪ್ರಹರಿಸಿ ಧ್ವಂಸಮಾಡು. ಆಗಮಾತ್ರ ನಿನ್ನ ಶಕ್ತಿಯು ಗೊತ್ತಾಗುವುದು ಎಂದನು. ಅದನ್ನು ಕೇಳಿ ಇಂದ್ರನು ಸಮೀಪದಲ್ಲಿದ್ದ ದರ್ಭೆಯ ಗೊಂಚಲೊಂದನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನೇ ತನ್ನ ಆಯುಧವನ್ನಾಗಿ ಮಾಡಿಕೊಂಡು ಅಭೇದ್ಯವಾದ ಏಳು ಪರ್ವತಗಳನ್ನೂ ಭೇದಿಸಿ ಆ ವರಾಹಾಸುರನನ್ನೂ ಹೊಡೆದು ಕೊಂದನು. ಬಳಿಕ ವಿಷ್ಣುವನ್ನುದ್ದೇಶಿಸಿ ಎಲ್ಲೈ ಪುರುಷನೇ, ನೀನು ಹೇಳಿದಂತೆ ಸಪ್ತಪರ್ವತಗಳನ್ನೂ ಸೀಳಿಹಾಕಿ ಅಲ್ಲಿದ್ದ ಅಸುರನನ್ನು ಕೊಂದಿರುವೆನು. ಇದರಿಂದ ನನ್ನ ಶಕ್ತಿಸಾಮರ್ಥ್ಯಗಳು ಸ್ಪಷ್ಟವಾಯಿತಷ್ಟೆ. ನೀನು ಹಿಂದೆ ಧ್ವಂಸವಾದ ಅಸುರರ ದುರ್ಗಾದಿಗಳಿಂದ ಅಲ್ಲಿರುವ ಧನಾದಿಗಳನ್ನು ತರುವವನೇ ನಾನು ಎಂದು ಹೇಳಿಕೊಂಡೆಯಷ್ಟೆ. ಈಗ ನೀನು ಹೇಳಿಕೊಂಡಂತೆ ಅಲ್ಲಿರುವ ಧನಾದಿವಸ್ತುಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಬಾ ಆಗ ನಿನ್ನ ಶಕ್ತಿಯು ವ್ಯಕ್ತವಾಗುವುದು ಎಂದು ಹೇಳಲು ವಿಷ್ಣುವು ಹಾಗೇ ಆಗಲೆಂದು ಹೇಳಿ ಯಜ್ಞರೂಪನಾದವನೇ ಆ ಅಸುರನಲ್ಲಿದ್ದ ಧನಾದಿವಸ್ತುಗಳನ್ನೂ ಅಪಹರಿಸಿ ದೇವತೆಗಳ ಸಮೀಪಕ್ಕೆ ತಂದನು. ಈ ರೀತಿ ಯಜ್ಞದಿಂದ ದೇವತೆಗಳು ಅಸುರರ ಧನಗಳನ್ನು ಪಡೆದದ್ದರಿಂದ ಯಜ್ಞಮಾಡುವ ಪ್ರದೇಶಕ್ಕೆ ವೇದಿ ಎಂದು ಹೆಸರು ಬಂದಿತು ಎಂದು ಈ ಇತಿಹಾಸದ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಸ್ಯ ವಜ್ರ ಆಯಸೋ ನಿಮಿಶ್ಲ ಇಂದ್ರಸ್ಯ ಬಾಹ್ವೋರ್ಭೂಯಿಷ್ಠಮೋಜಃ ।
@@ -12085,6 +12886,8 @@ Indra’s iron thunderbolt is grasped firmly in his hand; enormous strength resi
 *[428  ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ  [ ಮಂ. ೮. ಅ. ೧೦. ಸೂ. ೯೬]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮನ್ಯೇ ತ್ವಾ ಯಜ್ಞಿಯಂ ಯಜ್ಞಿಯಾನಾಂ ಮನ್ಯೇ ತ್ವಾ ಚ್ಯವನಮಚ್ಯುತಾನಾಮ್ ।
@@ -12117,6 +12920,8 @@ Indra’s iron thunderbolt is grasped firmly in his hand; enormous strength resi
 
 I think you the most worthy among those worthy of sacrifice ; I think you the overthrower of the imperishable (mountains) ; I think you, Indra, the banner of warriors ; I think you the showerer (of blessings) to men.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಯದ್ವಜ್ರಂ ಬಾಹ್ವೋರಿಂದ್ರ ಧತ್ಸೇ ಮದಚ್ಯುತಮಹಯೇ ಹಂತವಾ ಉ ।
@@ -12147,6 +12952,8 @@ I think you the most worthy among those worthy of sacrifice ; I think you the ov
 
 When, Indra, you grasp in your arms your pride humbling thunderbolt to smite Ahi, when the mountain-clouds loudly roar and the cows loudly bellow, then the Brahmans offer their worship to Indra.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಮು ಷ್ಟವಾಮ ಯ ಇಮಾ ಜಜಾನ ವಿಶ್ವಾ ಜಾತಾನ್ಯವರಾಣ್ಯಸ್ಮಾತ್ ।
@@ -12176,6 +12983,8 @@ When, Indra, you grasp in your arms your pride humbling thunderbolt to smite Ahi
 *English Translation.*
 
 Let us praise that Indra who produced all these things, to him all beings are subsequent; may we maintain friendship with Indra by our hymns, let us bring the showerer (of blessings) near us by our praises.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12232,6 +13041,8 @@ xxv. 28
 (ಐ. ಬ್ರಾ. ೧೨-೨೦)
 ಅನಂತರ ಇಂದ್ರನು ತನ್ನ ಮನಸ್ಸಿನಲ್ಲಿ ಈ ರೀತಿ ಯೋಚಿಸಿದನು.—ಈ ಮರುತ್ತುಗಳು ಯುದ್ಧಕಾಲದಲ್ಲಿ ನನ್ನನ್ನು ಬಿಟ್ಟಗಲದೆ ನನ್ನ ಜತೆಯಲ್ಲಿಯೇ ಇದ್ದು ನನಗೆ ಸಹಾಯಮಾಡಿರುವರು. ಆದ್ದರಿಂದ ಇವರು ನನಗೆ ಹಿತಚಿಂತಕರಾದ ಸ್ನೇಹಿತರು. ಇವರಿಗೆ ಏನಾದರೊಂದು ಉಪಕಾರವನ್ನು ಮಾಡಬೇಕು ಎಂದು ಯೋಚಿಸಿ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಮರುದ್ದೇವತೆಗಳಿಗೆ ಭಾಗವನ್ನು ಕಲ್ಪಿಸಿದನು. ಹಿಂದೆ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿ ಇಂದ್ರನಿಗೆ ಮಾತ್ರ ಭಾಗವಿದ್ದಿತು. ಮರುದ್ದೇವತೆಗಳಿಗೆ ಯಾವ ಭಾಗವೂ ಇರಲಿಲ್ಲ. ಈಗ ಇಂದ್ರನ ಅನುಗ್ರಹದಿಂದ ಇಂದ್ರನಿಗೂ, ಮರುದ್ದೇವತೆಗಳಿಗೂ ಭಾಗವು ಕಲ್ಪಿತವಾಯಿತು. ಆದ್ದರಿಂದ ಆ ಕಾಲದಲ್ಲಿ ಅಧ್ವರ್ಯುವು ಮರುದ್ದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ಮರುತ್ವತೀಯ ಗ್ರಹಪಾತ್ರೆಯನ್ನು ಸ್ವೀಕರಿಸುವನು (ಕಲ್ಪಿಸುವನು) ಮರುದ್ದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ಪ್ರಗಾಥವನ್ನು ಗಾನಮಾಡುವನು. ಅವರನ್ನುದ್ದೇಶಿಸಿ ಸೂಕ್ತವನ್ನೂ ಪಠಿಸುವನು. ಶಸ್ತ್ರಮಂತ್ರಗಳ ಮಧ್ಯದಲ್ಲಿ ಮರುದ್ದೇವತಾಕವಾದ ನಿವಿದ್ವ್ಯಾಸೀಯಸೂಕ್ತವನ್ನೂ ಸೇರಿಸಿ ಪಠಿಸುವನು. ಇವೆಲ್ಲವೂ ಇಂದ್ರನು ತನ್ನ ಸ್ನೇಹಿತರಾದ ಮರುದ್ದೇವತೆಗಳಿಗೆ ಯಜ್ಞದಲ್ಲಿ ಕಲ್ಪಿಸಿದ ಭಾಗವು.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ರಿಃ ಷಷ್ಟಿಸ್ತ್ವಾ ಮರುತೋ ವಾವೃಧಾನಾ ಉಸ್ರಾ ಇವ ರಾಶಯೋ ಯಜ್ಞಿಯಾಸಃ ।
@@ -12270,6 +13081,8 @@ These sixty-three Maruts were worthy of sacrifice, nourishing your vigour like c
 
 ಈ ಋಕ್ಕಿನಲ್ಲಿ ಮರುದ್ದೇವತೆಗಳ ಸಂಖ್ಯೆಯು ತ್ರಿಃ ಷಷ್ಟಿಃ—ಅರವತ್ತಮೂರು ಎಂದು ಹೇಳಿದೆ. ಸಾಧಾರಣವಾಗಿ ಇತರ ಕಡೆಗಳಲ್ಲಿ ಸಪ್ತಗಣಾ ವೈ ಮರುತಃ ಎಂದು ಮರುದ್ದೇವತೆಗಳಲ್ಲಿ ಏಳು ಗುಂಪುಗಳಿರುವುವೆಂದೂ ಪ್ರತಿಯೊಂದು ಗುಂಪಿನಲ್ಲಿಯೂ ಏಳೇಳು ಮರುತ್ತುಗಳು ಇರುವರೆಂದೂ ಇವರ ಒಟ್ಟು ಸಂಖ್ಯೆಯು ೭×೭=೪೯ ನಲವತ್ತೊಂಭತ್ತೆಂದೂ ಹೇಳಲಾಗಿದೆ. ಆದರೆ ಪ್ರಕೃತಋಕ್ಕಿನಲ್ಲಿ ಮರುದ್ದೇವತೆಗಳ ಗಣಗಳು ಒಟ್ಟು ಒಂಭತ್ತೆಂದೂ ಪ್ರತಿಗಣವಲ್ಲಿಯೂ ಏಳು ಏಳರಂತೆ ಇವರ ಸಂಖ್ಯೆಯು ೬೩ ಎಂದೂ ಹೇಳಿರುವುದಕ್ಕೆ ಶ್ರುತಿವಾಕ್ಯದ ಸಮರ್ಥನೆಯನ್ನು ಭಾಷ್ಯಕಾರರು ಹೇಳಿದಾರೆ. ಈವೃಂಚಾನ್ಯಾದೃಂಚ ( ತೈ. ಸಂ. ೪-೬-೫-೫ ) ತೈತ್ತಿರೀಯ ಸಂಹಿತಾವಾಕ್ಯದಲ್ಲಿ ಮರುತ್ತುಗಳು ೬೩ ಎಂದು ಹೇಳಿದೆ. ಮತ್ತು ವಾಜಸನೇಯ ಸಂಹಿತೆಯಲ್ಲಿ ಈ ಮರುದ್ದೇವತೆಗಳ ಗುಂಪುಗಳ ಹೆಸರನ್ನೂ ಹೇಳಿದೆ. ಸ್ವತೇವಾನ್, ಪ್ರಘಾಸೀ, ಸಾಂಪತನಃ, ಗೃಹಮೇಧೀ, ಕ್ರೀಡೀ, ಶಾಕೀ, ಉಜ್ಜೇಷೀ ಎಂದು ಏಳುಗಣಗಳ ಹೆಸರನ್ನೂ ಹೇಳಿದೆ. ತೈತ್ತಿರೀಯ ಆರಣ್ಯಕದಲ್ಲಿ—ಧುನೀ, ಧ್ಯಾಂತಃ ಎಂದು ಇನ್ನೆರಡು ಗಣಗಳ ಹೆಸರುಗಳು ಪಠಿತವಾಗಿವೆ. ಆದ್ದರಿಂದ ಒಟ್ಟು ೯ ಗಣಗಳಲ್ಲಿ ಏಳೇಳರಂತೆ ೯×೭=೬೩ ಒಟ್ಟು ಮರುತ್ತುಗಳ ಸಂಖ್ಯೆಯು ೬೩ ಎಂದು ಈ ಋಕ್ಕಿನಲ್ಲಿ ಋಷಿಯು ಹೇಳಿದಾನೆ.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಿಗ್ಮಮಾಯುಧಂ ಮರುತಾಮನೀಕಂ ಕಸ್ತ ಇಂದ್ರ ಪ್ರತಿ ವಜ್ರಂ ದಧರ್ಷ ।
@@ -12299,6 +13112,8 @@ These sixty-three Maruts were worthy of sacrifice, nourishing your vigour like c
 *English Translation.*
 
 Your sharp bow, the host of Maruts, and your thunderbolt who, Indra, has ever withstood ? The Asuras are weaponless and abandoned by the gods, drive them away by your discus, O Rijishin.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12334,6 +13149,8 @@ Send forth an excellent·hymn to great (Indra), the strong, mighty, and most for
 *[ಅ. ೬. ಅ ೬. ವ. ೩೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 439]*
 
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಕ್ಥವಾಹಸೇ ವಿಭ್ವೇ ಮನೀಷಾಂ ದ್ರುಣಾ ನ ಪಾರಮೀರಯಾ ನದೀನಾಮ್ ।
@@ -12364,6 +13181,8 @@ Send forth an excellent·hymn to great (Indra), the strong, mighty, and most for
 *English Translation.*
 
 Send forth your praise to mighty Indra who is borne by hymns, as (a sailor sends a traveller) in a ship across the rivers ; bring to me by your rites that wealth which belongs to him renowned and beneficent ; may he speedily give much wealth.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12396,6 +13215,8 @@ Send forth your praise to mighty Indra who is borne by hymns, as (a sailor sends
 *English Translation.*
 
 Perform those rites of yours that Indra may accept them ; praise him to whom praise belongs, worship him with your service ; O priest, adorn yourself, grieve not (for poverty) ; let Indra hear your praise, may he speedily give much wealth.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12462,6 +13283,8 @@ The swift-moving Krishna with ten thousand (demons) stood on the Amshumati; by h
 
 ಋಷಿಗಳ ಮತವಾಗಿದೆ. ಮೊದಲು ಹೇಳಿದ ಕೃಷ್ಣಾಸುರನನ್ನು ಸಂಹಾರಮಾಡಿದನೆಂದು ವಿವರಿಸಿರುವ ಪಕ್ಷವೇ ಯುಕ್ತವಾಗಿರುವುದು ಎಂದು ಭಾಷ್ಯಕಾರರು ಹೇಳಿ ಅದರಂತೆ ಈ ಋಕ್ಕುಗಳಿಗೆ ಅರ್ಥ ವಿವರಣೆಮಾಡಿರುವರು
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದ್ರಪ್ಸಮಪಶ್ಯಂ ವಿಷುಣೇ ಚರಂತಮುಪಹ್ವರೇ ನದ್ಯೋ ಅಂಶುಮತ್ಯಾಃ ।
@@ -12493,6 +13316,8 @@ The swift-moving Krishna with ten thousand (demons) stood on the Amshumati; by h
 
 "I have seen the swift-moving (demon) lurking] in an inaccessible place, in the depths of the river Amshumati, (I have seen) Krishna standing there as (the sun) in a cloud ; I appeal to you, showerers ; conquer him in battle."
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧ ದ್ರಪ್ಸೋ ಅಂಶುಮತ್ಯಾ ಉಪಸ್ಥೇಽಧಾರಯತ್ತನ್ವಂ ತಿತ್ವಿಷಾಣಃ ।
@@ -12523,6 +13348,8 @@ The swift-moving Krishna with ten thousand (demons) stood on the Amshumati; by h
 
 Then the swift-moving one shining forth assumed his own body by the Amshumati, and Indra with Brihaspati as his ally smote the godless hosts as they drew near.
 
+#### ಋಕ್ ೧೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಹ ತ್ಯತ್ಸಪ್ತಭ್ಯೋ ಜಾಯಮಾನೋಽಶತ್ರುಭ್ಯೋ ಅಭವಃ ಶತ್ರುರಿಂದ್ರ ।
@@ -12552,6 +13379,8 @@ Then the swift-moving one shining forth assumed his own body by the Amshumati, a
 *English Translation.*
 
 As soon as you were born, Indra, you were an enemy to those seven who had no enemy; you recovered the heavens and earth when concealed (in darkness); you cause joy to the mighty worlds.
+
+#### ಋಕ್ ೧೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12588,6 +13417,8 @@ xxv. 29
 
 Thunderer, you, the resolute one, smtoe that unrivalled might with your bolt; you destroyed Sushna with your weapons, you recovered the cows, Indra, by your wisdom.
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಹ ತ್ಯದ್ವೃಷಭ ಚರ್ಷಣೀನಾಂ ಘನೋ ವೃತ್ರಾಣಾಂ ತವಿಷೋ ಬಭೂಥ ।
@@ -12619,6 +13450,8 @@ Thunderer, you, the resolute one, smtoe that unrivalled might with your bolt; yo
 
 You, showerer, were the mighty destroyer of the hindrances of your worshippers; you set free the obstructed rivers, you won the waters which the Dasas had mastered.
 
+#### ಋಕ್ ೧೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ಸುಕ್ರತೂ ರಣಿತಾ ಯಃ ಸುತೇಷ್ವನುತ್ತಮನ್ಯುರ್ಯೋ ಅಹೇವ ರೇವಾನ್ ।
@@ -12649,6 +13482,8 @@ You, showerer, were the mighty destroyer of the hindrances of your worshippers; 
 
 He who noble in his exploits rejoices in the Soma-libations, he whose wrath cannot be repelled and who is wealthy as the days, he who alone performs the rites for his worshipper,—he, the slayer of Vritra, men say, is a match for all others.
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವೃತ್ರಹೇಂದ್ರಶ್ಚರ್ಷಣೀಧೃತ್ತಂ ಸುಷ್ಟುತ್ಯಾ ಹವ್ಯಂ ಹುವೇಮ ।
@@ -12678,6 +13513,8 @@ He who noble in his exploits rejoices in the Soma-libations, he whose wrath cann
 *English Translation.*
 
 Indra is the slayer of Vritra, the cherisher of men ; let us invoke him, worthy of invocation, with an excellent hymn ; he is Maghavan, our protector, our encourager, he is the bestower of food that brings fame.
+
+#### ಋಕ್ ೨೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12722,6 +13559,8 @@ As soon as he was born, he, Indra, the slayer of Vritra, the chief of the Ribhus
 <!-- printed 456 -->
 *[456 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೯೭]*
 
+## ಸೂಕ್ತ ೯೭ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೭
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೯೭ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೬ ॥ ವರ್ಗ—೩೬, ೩೭, ೩೮ ॥
@@ -12730,6 +13569,8 @@ As soon as he was born, he, Indra, the slayer of Vritra, the chief of the Ribhus
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—೧-೯. ಬೃಹತೀ । ೧೦, ೧೩. ಅತಿಜಗತೀ । ೧೧, ೧೨. ಉಪರಿಷ್ಟಾದ್ಬೃಹತೀ ।
 ೧೪. ತ್ರಿಷ್ಟುಪ್ । ೧೫. ಜಗತೀ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12760,6 +13601,8 @@ As soon as he was born, he, Indra, the slayer of Vritra, the chief of the Ribhus
 *English Translation.*
 
 Indra, lord of heaven, with those good things which you have carried off from the Asuras you prosper, O Maghavan, your praiser and those who have spread for you the clipped grass.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12792,6 +13635,8 @@ Indra, lord of heaven, with those good things which you have carried off from th
 
 Those horses, those cows, that imperishable wealth which you have seized (from your enemies),—bestow them on the sacrificer who offers the Soma and is liberal to the priests,—not on the niggard.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯ ಇಂದ್ರ ಸಸ್ತ್ಯವ್ರತೋಽನುಷ್ವಾಪಮದೇವಯುಃ ।
@@ -12821,6 +13666,8 @@ Those horses, those cows, that imperishable wealth which you have seized (from y
 *English Translation.*
 
 Let him, Indra, who sleeps away careless of the gods and offering no sacrifices,—let him lose his precious wealth by his own evil courses, and then you stow him away in some hidden place.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12852,6 +13699,8 @@ Let him, Indra, who sleeps away careless of the gods and offering no sacrifices,
 
 Whether, Shakra, you are in the far-distant region, or whether, slayer of Vritra, you are in the lower,—the sacrificer longs to bring you, Indra, from thence by his hymns as by heaven-going steeds ;
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯದ್ವಾಸಿ ರೋಚನೇ ದಿವಃ ಸಮುದ್ರಸ್ಯಾಧಿ ವಿಷ್ಟಪಿ ।
@@ -12881,6 +13730,8 @@ Whether, Shakra, you are in the far-distant region, or whether, slayer of Vritra
 *English Translation.*
 
 Or whether you are in the bringhtness of heaven, or whether in some region in the midst of the sea, or whether, mightiest slayer of Vritra, in some abode in the earth, or whether in the firmament,—come to us.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12912,6 +13763,8 @@ Or whether you are in the bringhtness of heaven, or whether in some region in th
 
 Indra, drinker of the Soma, lord of strength, now that our Soma-libations have been effused, gladden us with wholesome food and ample wealth.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾ ನ ಇಂದ್ರ ಪರಾ ವೃಣಗ್ಭವಾ ನಃ ಸಧಮಾದ್ಯಃ ।
@@ -12941,6 +13794,8 @@ Indra, drinker of the Soma, lord of strength, now that our Soma-libations have b
 *English Translation.*
 
 Leave us not, Indra, but share our joy ; you are our protection, you are our kindred ; Indra, leave us not.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -12972,6 +13827,8 @@ Leave us not, Indra, but share our joy ; you are our protection, you are our kin
 
 Sit with us, Indra, at the oblation to drink the Soma ; Maghavan, perform a mighty protection for your worshipper, (seated) with us at the oblation.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನ ತ್ವಾ ದೇವಾಸ ಆಶತ ನ ಮರ್ತ್ಯಾಸೋ ಅದ್ರಿವಃ ।
@@ -13002,6 +13859,8 @@ Sit with us, Indra, at the oblation to drink the Soma ; Maghavan, perform a migh
 *English Translation.*
 
 Thunderer, neither gods nor mortals equal you by their acts; you surpass all beings by your might, the gods equal you not.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13043,6 +13902,8 @@ The assembled (priests) have roused Indra, the leader, the conqueror in all batt
 
 ಯಾಗದ ಚಾತುರ್ವಿಂಶಿಕವೆಂಬ ದಿನದ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ವಿಶ್ವಾಃ ಪೃತನಾಃ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ವಿಶ್ವಾಃ ಪೃತನಾ ಅಭಿಭೂತರಂ ನರಂ ತಮಿಂದ್ರಂ ಜೋಹುವೀಮಿ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೪) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮೀಂ ರೇಭಾಸೋ ಅಸ್ವರನ್ನಿಂದ್ರಂ ಸೋಮಸ್ಯ ಪೀತಯೇ ।
@@ -13072,6 +13933,8 @@ The assembled (priests) have roused Indra, the leader, the conqueror in all batt
 *English Translation.*
 
 The Rebhas have together praised Indra that he may drink the Soma ; when (they praise) the lord of heaven that he may wax strong (by the oblations), then he, observant of pious rites, is united to his strength and his protecting guards.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13103,6 +13966,8 @@ The Rebhas have together praised Indra that he may drink the Soma ; when (they p
 *English Translation.*
 
 At the first sight (the Rebhas) bow to him who is the circumference of the wheel, the priests (worship) with their praise (Indra) the ram ; radiant and unharming, you also, full of earnestness, sing in his ear with your hymns.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13142,6 +14007,8 @@ At the first sight (the Rebhas) bow to him who is the circumference of the wheel
 
 Again and again I invoke the strong Indra, Maghavan, who alone really possess might, the irresistible ; may he draw nigh through our songs most bounteous and worthy of sacrifice ; may he, the thunderer, make all things prosperous for our wealth.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಪುರ ಇಂದ್ರ ಚಿಕಿದೇನಾ ವ್ಯೋಜಸಾ ಶವಿಷ್ಠ ಶಕ್ರ ನಾಶಯಧ್ಯೈ ।
@@ -13171,6 +14038,8 @@ Again and again I invoke the strong Indra, Maghavan, who alone really possess mi
 *English Translation.*
 
 Indra, mighty Sakra, you know how to destroy those cities (of (Sambhara) by your strength at you all worlds tremble, thunderer,—heaven and earth (tremble) with fear.
+
+#### ಋಕ್ ೧೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13252,6 +14121,9 @@ Indra, hero assuming many forms, may that truthfulness of yours protect me ; bea
 *[ಅ. ೬. ಅ. ೭. ವ. ೧.] ಋಗ್ವೇದಸಂಹಿತಾ 477]*
 
 ದಿಂದ (ಆ- ೭-೮) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಉಕ್ಥ್ಯಯಾಗದ ತೃತೀಯಸವನಕಾಲದಲ್ಲಿ ಅಚ್ಛಾವಾಕನೆಂಬ ಋತ್ವಿಜನು—ಅಥಾ ಹೀಂದ್ರ ಎಂದು ಪ್ರಾರಂಭವಾಗುವ ಈ ಸೂಕ್ತದ ೭-೯ ಋಕ್ಕುಗಳನ್ನು ಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಅಥಾ ಹೀಂದ್ರ ಗಿರ್ವಣ ಇಯಂ ತ ಇಂದ್ರ ಗಿರ್ವಣಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೮) ವಿವೃತವಾಗಿರುವುದು. ಹಿಂದೆ ಹೇಳಿದ ಶಸ್ತ್ರಮಂತ್ರಗಳಲ್ಲಿಯೇ ತ್ವಂ ನ ಇಂದ್ರಾ ಭರ ಎಂದು ಪ್ರಾರಂಭವಾಗುವ ಈ ಸೂಕ್ತದ ೧೦-೧೨ ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತ್ವಂ ನ ಇಂದ್ರಾ ಭರ ವಯುನು ತ್ವಾನುಪೂರ್ವ್ಯ ಯೋ ನ ಇದಮಿದಂ ಪುರಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೮) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೯೮ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೮
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ । ಸೂಕ್ತ—೯೮ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೧, ೨ ।
@@ -13259,6 +14131,8 @@ Indra, hero assuming many forms, may that truthfulness of yours protect me ; bea
 ಋಷಿಃ—ನೃಮೇಧಃ ।
 ದೇವತಾ—ಇಂದ್ರಃ ।
 ಛಂದಃ—೧-೬, ೮ ಉಷ್ಣಿಕ್ । ೭, ೧೦, ೧೧. ಕಕುಪ್ । ೯, ೧೨. ಪುರಉಷ್ಣಿಕ್ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13291,6 +14165,8 @@ Indra, hero assuming many forms, may that truthfulness of yours protect me ; bea
 
 Sing a Saman to Indra, a Brihat to the mighty sage, to the performer of religious rites, the all-knowing one who longs for praise.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಮಿಂದ್ರಾಭಿಭೂರಸಿ ತ್ವಂ ಸೂರ್ಯಮರೋಚಯಃ ।
@@ -13320,6 +14196,8 @@ Sing a Saman to Indra, a Brihat to the mighty sage, to the performer of religiou
 *English Translation.*
 
 You are the conqueror, Indra ; you have lighted up the sun ; you are the maker of all, the lord of all the gods, the mighty.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13351,6 +14229,8 @@ You are the conqueror, Indra ; you have lighted up the sun ; you are the maker o
 
 You have pervaded the light of the sky, illumining heaven by your splendour ; the gods, Indra, submissively solicit your friendship.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಂದ್ರ ನೋ ಗಧಿ ಪ್ರಿಯಃ ಸತ್ರಾಜಿದಗೋಹ್ಯಃ ।
@@ -13380,6 +14260,8 @@ You have pervaded the light of the sky, illumining heaven by your splendour ; th
 *English Translation.*
 
 Come to us Indra, beloved one, triumphant, and whom none can conceal—lord of heaven, vast on all sides as a mountain.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13412,6 +14294,8 @@ xxv. 31
 *[482 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ಮಂ. ೮ ಅ. ೧೦. ಸೂ ೯೮]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಹಿ ಶಶ್ವತೀನಾಮಿಂದ್ರ ದರ್ತಾ ಪುರಾಮಸಿ ।
@@ -13437,6 +14321,8 @@ xxv. 31
 *English Translation.*
 
 You, Indra, are the stormer of many hostile cities, the slayer of the Dasyu, the fosterer of man, the lord of heaven.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13468,6 +14354,8 @@ You, Indra, are the stormer of many hostile cities, the slayer of the Dasyu, the
 
 Indra, worthy of hymns, we send our earnest praises to you as men going by water (splash their friends) with handfuls
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಾರ್ಣ ತ್ವಾ ಯವ್ಯಾಭಿರ್ವರ್ಧಂತಿ ಶೂರ ಬ್ರಹ್ಮಾಣಿ ।
@@ -13497,6 +14385,8 @@ Indra, worthy of hymns, we send our earnest praises to you as men going by water
 *English Translation.*
 
 As the lake (swells) with the rivers, so our praises, O hero, O thunderer, augment you as you grow more and more day by day.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13528,6 +14418,8 @@ As the lake (swells) with the rivers, so our praises, O hero, O thunderer, augme
 
 (The priests) by their hymn yoke in the swift deity's huge broad-yoked chariot the two Indra-bearing steeds yoked at a word.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ನ ಇಂದ್ರಾ ಭರಁ ಓಜೋ ನೃಮ್ಣಂ ಶತಕ್ರತೋ ವಿಚರ್ಷಣೇ ।
@@ -13557,6 +14449,8 @@ As the lake (swells) with the rivers, so our praises, O hero, O thunderer, augme
 *English Translation.*
 
 Indra, all-beholding Maghavan, bring us strength and wealth; (we solicit you) the host-overpowering champion.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13588,6 +14482,8 @@ Indra, all-beholding Maghavan, bring us strength and wealth; (we solicit you) th
 *English Translation.*
 
 You have been our father, O giver of dwellings, you our mother O Shatakratu; we pray for that happiness which is yours.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13630,6 +14526,9 @@ Mighty Shatakratu, invoked by many, I praise you desirous of offerings; you give
 *[ಅ. ೬. ಅ. ೭. ವ. ೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 489]*
 
 ಸೂರ್ಯಂ ಬಣ್ಮಹಾ ಅಸಿ ಸೂರ್ಯ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೪) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಚಾತುರ್ವಿಂಶಿಕವೆಂಬ ದಿನದ ಮಾಧ್ಯಂದಿನಸವನಕಾಲದಲ್ಲಿ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸಿಯೆಂಬ ಋತ್ವಿಜನು ತ್ವಮಿಂದ್ರ ಪ್ರತೂರ್ತಿಷು ಎಂಬ ಪ್ರಗಾಥವನ್ನು (೫-೬ನೇ ಋಕ್ಕುಗಳನ್ನು) ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತ ಸೂತ್ರದ—ತ್ವಮಿಂದ್ರ ಪ್ರತೂರ್ತಿಷು ತ್ವಮಿಂದ್ರ ಯಶಾ ಅಸಿ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ ೭-೪) ವಿವೃತವಾಗಿರುವುದು. ಯಾಗದ ಆದೇ ದಿವಸ ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರಮಂತ್ರಗಳನ್ನು ಪಠಿಸುವಾಗ ವೈರಾಜಯೋನಿಭೂತವಾದ ಇದೇ ಪ್ರಗಾಥವನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತ ಸೂತ್ರದ—ತಯೋರಕ್ರಿಯಮಾಣಸ್ಯ ಯೋನಿಂ ಶಂಸೇದ್ವೈರೂಪವೈರಾಜಶಾಕ್ವರೈವತಾನಾಂ ಚ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೩) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೯೯ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೯೯
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೯೯ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೩ ॥
@@ -13637,6 +14536,8 @@ Mighty Shatakratu, invoked by many, I praise you desirous of offerings; you give
 ಋಷಿಃ—ನೃಮೇಧಃ ॥
 ದೇವತಾ—ಇಂದ್ರಃ ॥
 ಛಂದಃ—ಪ್ರಾಗಾಥಂ । (ಅಯುಜಃ ಬೃಹತ್ಯಃ । ಯುಜಃ ಸತೋಬೃಹತ್ಯಃ)
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13669,6 +14570,8 @@ Mighty Shatakratu, invoked by many, I praise you desirous of offerings; you give
 
 Thunderer, your worshippers, ready with their oblations, have to day and yesterday made you drink (the Soma) ; listen, Indra, here to us who offer you praise and come to our dwelling.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮತ್ಸ್ವಾ ಸುಶಿಪ್ರ ಹರಿವಸ್ತದೀಮಹೇ ತ್ವೇ ಆ ಭೂಷಂತಿ ವೇಧಸಃ ।
@@ -13699,6 +14602,8 @@ Thunderer, your worshippers, ready with their oblations, have to day and yesterd
 *English Translation.*
 
 Handsome-jawed lord of steeds, rejoice (in the libation) ; we pray to you, your votaries come to you ; Indra, worthy of praise, may your food be a pattern and excellent.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13742,6 +14647,8 @@ As the gathering (rays) proceed to the sun, so ( the Maruts proceed ) to Indra, 
 ( ನಿ ೬-೮ )
 ಇಲ್ಲಿ ಶ್ರಾಯಂತಃ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಆಶ್ರಯಿಸಿರುವ ಎಂದರ್ಥವು. ಶ್ರಾಯಂತ ಇವ ಸೂರ್ಯಂ ಎಂಬ ವಾಕ್ಯಕ್ಕೆ ಸೂರ್ಯನನ್ನು ಆಶ್ರಯಿಸಿರುವಂತೆ ಎಂದರ್ಥವು. ಈ ವಾಕ್ಯಕ್ಕೆ ಎರಡು ವಿಧವಾದ ಅರ್ಥವನ್ನು ಹೇಳಬಹುದು. ಸೂರ್ಯನನ್ನೇ ಆಶ್ರಯಿಸುತ್ತಾ ಅವನನ್ನು ಧ್ಯಾನಿಸುತ್ತಾರೆ ಎಂದು ಒಂದುವಿಧವಾದ ಅರ್ಥವು ಅಥವಾ ಈ ವಾಕ್ಯವನ್ನು ಉಪಮಾನವಾಕ್ಯವನ್ನಾಗಿ ತೆಗೆದುಕೊಳ್ಳಬಹುದು. ಸೂರ್ಯನನ್ನು (ರಶ್ಮಿಗಳು) ಆಶ್ರಯಿಸುವಂತೆ ವಿಶ್ವೇದಿಂದ್ರಸ್ಯ ಸಮಸ್ತ ಧನಗಳೂ ಇಂದ್ರನನ್ನು ಆಶ್ರಯಿಸುತ್ತವೆ. ಎಂದರೆ. ಇಂದ್ರನಲ್ಲಿ ಸ್ಥಾಪಿತವಾಗಿರುತ್ತವೆ. ಅಂತಹ ಸಮಸ್ತ ಧನಗಳನ್ನು ಇಂದ್ರನು ಈಗ ಹುಟ್ಟಿರುವ ಮತ್ತು ಮುಂದೆ ಹುಟ್ಟುವ ಪ್ರಾಣಿಗಳಿಗೆ (ಜನರಿಗೆ) ಹಂಚಿಕೊಡುತ್ತಾನೆ. ಹೇಗೆಂದರೆ ಸೂರ್ಯನ ಕಿರಣಗಳ ಉಪಯೋಗವನ್ನು ಈಗ ಹುಟ್ಟಿರುವ ಮತ್ತು ಮುಂದೆ ಹುಟ್ಟುವ ಸಕಲ ಜೀವಜಂತುಗಳೂ ಅನುಭವಿಸುವಂತೆ ಇಂದ್ರನಲ್ಲಿರುವ ಸಮಸ್ತಧನವೂ ಈಗ ಹುಟ್ಟಿರುವ ಮತ್ತು ಮುಂದೆ ಹುಟ್ಟುವ ಸಕಲ ಜನರಿಗೂ ಇಂದ್ರನಿಂದ ಹಂಚಲ್ಪಡುವುದೆಂದಭಿಪ್ರಾಯವು. ಇಂದ್ರನು ನಮಗೆ ಹಂಚಿಕೊಡುವ ನಮ್ಮ ಭಾಗದ ಧನವನ್ನು ನಾವು ನಮ್ಮ ಸ್ವಶಕ್ತಿಯಿಂದ ಎಂದರೆ ಇಂದ್ರನನ್ನು ಪ್ರಾರ್ಥಿಸುವುದರಿಂದ ಹೊಂದೋಣ. ಅಥವಾ ಇಂದ್ರನು ತನ್ನ ಸ್ವಶಕ್ತಿಯಿಂದ ತನ್ನಲ್ಲಿರುವ ಧನದಲ್ಲಿ ನಮ್ಮ ಭಾಗವನ್ನು ನಮಗೆ ಕೊಡುವಂತೆ ಇಂದ್ರನನ್ನು ಪ್ರಾರ್ಥಿಸೋಣ. ಶಕ್ತಿ ಎಂಬರ್ಥವನ್ನು ಸೂಚಿಸುವ ಓಜಃ ಎಂಬ ಶಬ್ದವು ವೃದ್ಧಿಯಾಗು, ಬಲವಾಗಿರು ಎಂಬರ್ಥವುಳ್ಳ ಓಜ್ ಧಾತುವಿನಿಂದಾಗಲಿ, ನಿಯಂತ್ರಣಮಾಡು, ಹತೋಟಿಯಲ್ಲಿಡು ಎಂಬರ್ಥವುಳ್ಳ ಉಬ್ಜ್ ಧಾತುವಿನಿಂದಾಗಲಿ ನಿಷ್ಪನ್ನವಾಗ ಬಹುದು, ಎಂದು ನಿರ್ವಚನದ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅನರ್ಶರಾತಿಂ ವಸುದಾಮುಪ ಸ್ತುಹಿ ಭದ್ರಾ ಇಂದ್ರಸ್ಯ ರಾತಯಃ ।
@@ -13783,6 +14690,8 @@ Praise him the bestower of wealth, whose gifts are never evil ; Indra's gifts ar
 *[ಅ.೬. ಅ. ೭. ವ. ೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 495]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಮಿಂದ್ರ ಪ್ರತೂರ್ತಿಷ್ವಭಿ ವಿಶ್ವಾ ಅಸಿ ಸ್ಪೃಧಃ ।
@@ -13812,6 +14721,8 @@ Indra, you conquer in battles all opposing hosts ; O opposer who beat down those
 <!-- printed 496 -->
 *[496 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೯೯]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13843,6 +14754,8 @@ Heaven and earth follow your destructive energy as mothers their child; since yo
 *[ಅ. ೬. ಅ. ೭. ವ. ೩.] ಋಗ್ವೇದಸಂಹಿತಾ 497]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇತ ಊತೀ ವೋ ಅಜರಂ ಪ್ರಹೇತಾರಮಪ್ರಹಿತಮ್ ।
@@ -13873,6 +14786,8 @@ xxv 32
 <!-- printed 498 -->
 *[498 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೯೯]*
 
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13914,6 +14829,9 @@ We solicit for our protection Indra, the consecrator of others but himself conse
 *[500 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೧೦೦]*
 
 ಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ–ದೇವೀಂ ವಾಚಮಜನಯಂತ ದೇವಾ ಜನೀಯಂತೋ ನ್ವಗ್ರವಿ ತಿಸ್ರಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೩–೮) ವಿವೃತವಾಗಿರುವುದು. ಪ್ರಯಾಣಕಾಲದಲ್ಲಿ ವಯಸ್ಸಾದ ಹಿರಿಯರು ಅಹಿತವಾದ ವಾಕ್ಯಗಳನ್ನಾಡಿದಲ್ಲಿ ಆಗ ದೇವೀಂ ವಾಚಂ ಎಂಬ ೧೧ನೆಯ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಗೃಹ್ಯಸೂತ್ರದ—ಕನಿಕ್ರದಜ್ಜನುಷಂ ಪ್ರಬ್ರುವಾಣ ಇತಿ ಸೂಕ್ತೇ ಜಪೇದ್ದೇವೀಂ ವಾಚಮಜನಯಂತ ದೇವಾ ಇತಿ ಚ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೩–೮) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೦೦ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೧೦೦
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೧೦೦ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೪, ೫ ।
@@ -13921,6 +14839,8 @@ We solicit for our protection Indra, the consecrator of others but himself conse
 ಋಷಿ—೧-೩, ೬-೧೨. ನೇಮೋ ಭಾರ್ಗವಃ । ೪-೫. ಇಂದ್ರಃ ॥
 ದೇವತಾ—೧-೯, ೧೨. ಇಂದ್ರಃ । ೧೦, ೧೧. ವಾಕ್ ॥
 ಛಂದಃ—೧-೫, ೧೦-೧೨. ತ್ರಿಷ್ಟುಪ್ । ೬. ಜಗತೀ । ೭-೯. ಅನುಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -13952,6 +14872,8 @@ We solicit for our protection Indra, the consecrator of others but himself conse
 
 I here go before you with my son, the Vishwe Devas follow after me ; if indra you keep wealth for me then put forth your strength on my side.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದಧಾಮಿ ತೇ ಮಧುನೋ ಭಕ್ಷಮಗ್ರೇ ಹಿತಸ್ತೇ ಭಾಗಃ ಸುತೋ ಅಸ್ತು ಸೋಮಃ ।
@@ -13981,6 +14903,8 @@ I here go before you with my son, the Vishwe Devas follow after me ; if indra yo
 *English Translation.*
 
 I offer the beverage of the exhilarating drink first to you, let the effused enjoyable Soma be placed within you ; be a friend on my right hand, then will we two smite our many enemies.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14016,6 +14940,8 @@ Offer fervently, my war-loving companions, true praise to Indra, if he truly exi
 *[504 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೮ ಅ.೧೦. ಸೂ. ೧೦೦]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಮಸ್ಮಿ ಜರಿತಃ ಪಶ್ಯ ಮೇಹ ವಿಶ್ವಾ ಜಾತಾನ್ಯಭ್ಯಸ್ಮಿ ಮಹ್ನಾ ।
@@ -14050,6 +14976,8 @@ Offer fervently, my war-loving companions, true praise to Indra, if he truly exi
 
 ಹಿಂದಿನ ಋಕ್ಕಿನಲ್ಲಿ—ಇಂದ್ರನೆಂಬುವನು ಯಾರೂ ಇಲ್ಲ. ಈ ಇಂದ್ರನನ್ನು ನೋಡಿರುವವರು ತಾನೇ ಯಾರು ? ಯಾರನ್ನು ನಾವು ಸ್ತುತಿಸೋಣ ? ಎಂದು ಋಷಿಯು ಇಂದ್ರನ ವಿಷಯದಲ್ಲಿ ಸಂಶಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದನ್ನು ಕೇಳಿ ಇಂದ್ರನು ಋಷಿಯ ಸಮೀಪಕ್ಕೆ ಹೋಗಿ ತನ್ನ ಸ್ವರೂಪವನ್ನೂ ಮಹಾತ್ಮ್ಯವನ್ನೂ ಅವನಿಗೆ ತಿಳಿಯಪಡಿಸಿದನೆಂದು ಈ ಋಕ್ಕಿನಲ್ಲಿಯೂ ಮುಂದಿನ ಋಕ್ಕಿನಲ್ಲಿಯೂ ವರ್ಣಿಸಲಾಗಿದೆ.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಯನ್ಮಾ ವೇನಾ ಅರುಹನ್ನೃತಸ್ಯಁ ಏಕಮಾಸೀನಂ ಹರ್ಯತಸ್ಯ ಪೃಷ್ಠೇ ।
@@ -14081,6 +15009,8 @@ Offer fervently, my war-loving companions, true praise to Indra, if he truly exi
 
 “When the lovers of sacrifice ascended to me sitting alone on the back of my well-loved (firmament), then my mind verily proclaimed to my heart, ‘my friends with their children are crying to me’.”
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿಶ್ವೇತ್ತಾ ತೇ ಸವನೇಷು ಪ್ರವಾಚ್ಯಾ ಯಾ ಚಕರ್ಥ ಮಘವನ್ನಿಂದ್ರ ಸುನ್ವತೇ ।
@@ -14110,6 +15040,8 @@ Offer fervently, my war-loving companions, true praise to Indra, if he truly exi
 *English Translation.*
 
 Verily all those deeds of yours Maghavan, are to be proclaimed, which you have achieved for him who offers libations in the sacrifices ; that wealth of Paravat, collected by many, you have opened to Sharabha, the kinsman of the Rishi.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14144,6 +15076,8 @@ Verily all those deeds of yours Maghavan, are to be proclaimed, which you have a
 Haste now severally forward ; he is not here who stopped your way,-
 has not Indra let fall his thunderbolt in the very vitals of that enemy ?
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮನೋಜವಾ ಅಯಮಾನ ಆಯಸೀಮತರತ್ಪುರಮ್ ।
@@ -14175,6 +15109,8 @@ has not Indra let fall his thunderbolt in the very vitals of that enemy ?
 
 Suparna, rushing swift as thought, passed through the iron city ; then
 having gone to heaven he brought the Soma to the thunderer.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14209,6 +15145,8 @@ having gone to heaven he brought the Soma to the thunderer.
 The thunderbolt lies in the midst of the sea, covered with the
 waters ; (the foes) flying in front of the battle bring offerings of submission
 to it.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14271,6 +15209,8 @@ the four quarters (of the earth) ; whither now is her best portion gone ?
 ಅಪಹೃತವಾಗಿ ಆದಿತ್ಯನ (ಸ್ವರ್ಗದ) ಬಳಿಗೆ ಹೋಗುವುದೇ, ಯಾವುದೂ ಯಾರಿಗೂ ತಿಳಿಯದು ಎಂದು ವಾಗ್ದೇವತೆಯ
 ಮಹೆತ್ಸ್ವರೂಪವನ್ನೂ ಮಾನವರ ಅಲ್ಪತ್ವವನ್ನೂ ಋಷಿಯು ವ್ಯಕ್ತಪಡಿಸಿದಾನೆ.
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದೇವೀಂ ವಾಚಮಜನಯಂತ ದೇವಾಸ್ತಾಂ ವಿಶ್ವರೂಪಾಃ ಪಶವೋ ವದಂತಿ ।
@@ -14322,6 +15262,8 @@ xxv. 33
 *[514 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮. ಅ. ೧೦. ಸೂ ೧೦೦]*
 
 ವು ಎಂದರೆ ಈ ಅವ್ಯಕ್ತಶಬ್ದಗಳ ಅಭಿಪ್ರಾಯವು ಮನುಷ್ಯರಿಗೆ ತಿಳಿಯುವುದಿಲ್ಲ. ಇಂತಹ ವ್ಯಕ್ತಾವ್ಯಕ್ತಶಬ್ದಸ್ವರೂಪಳಾದ ವಾಗ್ದೇವತೆಯು ನಮಗೆ ಹಾಲನ್ನು ಕರೆಯುವ ಧೇನುವಿನಂತೆ ಪ್ರೀತಿಪಾತ್ರಳಾಗಿ ಹಿತಕರವಾದ ಅನ್ನಾದಿಗಳನ್ನು ಎಂದರೆ ಹಾಲು, ಘೃತ ಮೊದಲಾದವನ್ನೂ, ರಸಾದಿಗಳನ್ನೂ ಎಂದರೆ ಸಸ್ಯಾದಿಗಳಿಂದ ಉತ್ಪನ್ನವಾಗುವ ಪುಷ್ಟಿಕರವಾದ ಆಹಾರಾ:ದಿಗಳನ್ನೂ ಯಥೇಚ್ಛವಾಗಿ ಕರೆಯುತ್ತಾ ಎಂದರೆ ಅನುಗ್ರಹಿಸುತ್ತಾ ನಮ್ಮ ಸಮೀಪಕ್ಕೆ ಬರಲಿ ಮತ್ತು ನಮ್ಮಿಂದ ಸ್ತುತಿಸಲ್ಪಡಲಿ ಎಂದು ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14380,6 +15322,8 @@ O Vishnu my friend, stride forth lustily ; O heaven, give room to contain the th
 <!-- printed 518 -->
 *[518 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮· ಅ. ೧೦· ಸೂ. ೧೦೧]*
 
+## ಸೂಕ್ತ ೧೦೧ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೧೦೧
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೧೦೧ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೬, ೭, ೮ ॥
@@ -14387,6 +15331,8 @@ O Vishnu my friend, stride forth lustily ; O heaven, give room to contain the th
 ಋಷಿ—ಜಮದಗ್ನಿರ್ಭಾರ್ಗವಃ ॥
 ದೇವತಾ—೧-೪, ೫ರಲ್ಲಿ ಮೂರುಪಾದಗಳು. ಮಿತ್ರಾವರುಣೌ । ೫ರಲ್ಲಿ ನಾಲ್ಕನೆಯ ಪಾದ, ೬. ಆದಿತ್ಯಾಃ । ೭-೮. ಅಶ್ವಿನೌ । ೯-೧೦. ವಾಯುಃ । ೧೧-೧೨. ಸೂರ್ಯಃ । ೧೩. ಉಷಾಃ ಸೂರ್ಯಪ್ರಭಾ ವಾ । ೧೪. ಪವಮಾನಃ । ೧೫-೧೬. ಗೌಃ ।
 ಛಂದಃ—೧, ೫, ೭, ೯, ೧೧, ೧೩. ಬೃಹತೀ । ೨, ೪, ೬, ೮, ೧೦, ೧೨. ಸತೋಬೃಹತೀ । ೩. ಗಾಯತ್ರೀ । ೧೪-೧೬. ತ್ರಿಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14418,6 +15364,8 @@ O Vishnu my friend, stride forth lustily ; O heaven, give room to contain the th
 
 That man verily consecrates the oblation for the sacrifice, who brings, qucikly Mitra and Varuna to the offerer for the attainment of his desires.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವರ್ಷಿಷ್ಠಕ್ಷತ್ರಾ ಉರುಚಕ್ಷಸಾ ನರಾ ರಾಜಾನಾ ದೀರ್ಘಶ್ರುತ್ತಮಾ ।
@@ -14447,6 +15395,8 @@ That man verily consecrates the oblation for the sacrifice, who brings, qucikly 
 *English Translation.*
 
 Those two leaders of rites, great in might, far-seeing, resplendent, and most far-hearing, perform their deeds, like two arms, by the help of the rays of the sun.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14482,6 +15432,8 @@ Mitra, and Varuna, he who hastens to appear before you, becomes the messenger of
 
 ಅಯಃ ಶೀರ್ಷಾ—ಎಂಬುವುದಕ್ಕೆ ಸಾಯಣರು ಸುವರ್ಣಮಯವಾದ ಕಿರೀಟದಿಂದ ಅಲಂಕೃತವಾದ ಶಿರಸ್ಸು ಎಂದರ್ಥಮಾಡಿದ್ದಾರೆ
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನ ಯಃ ಸಂಪೃಚ್ಛೇ ನ ಪುನರ್ಹವೀತವೇ ನ ಸಂವಾದಾಯ ರಮತೇ ।
@@ -14511,6 +15463,8 @@ Mitra, and Varuna, he who hastens to appear before you, becomes the messenger of
 *English Translation.*
 
 He who has no pleasure in questioning, nor in repeated calling nor in dialogue,—defend us to-day from him and from his encounter, defend us from his arms.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14543,6 +15497,8 @@ He who has no pleasure in questioning, nor in repeated calling nor in dialogue,�
 
 O you rich in offerings, sing to mitra, sing to Aryaman, a reverential hymn produced in the sacrificial chamber ; sing a propitiating address to Varuna ; sing a hymn of praise to the kings.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೇ ಹಿನ್ವಿರೇ ಅರುಣಂ ಜೇನ್ಯಂ ವಸ್ವೇಕಂ ಪುತ್ರಂ ತಿಸೄಣಾಮ್ ।
@@ -14574,6 +15530,8 @@ O you rich in offerings, sing to mitra, sing to Aryaman, a reverential hymn prod
 
 It was these who sent the red victory-giving Vasu, the one son of the three (worlds) ; they, the invincible, the immoratal, overlook the abodes of men.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಮೇ ವಚಾಂಸ್ಯುದ್ಯತಾ ದ್ಯುಮತ್ತಮಾನಿ ಕರ್ತ್ವಾ ।
@@ -14603,6 +15561,8 @@ It was these who sent the red victory-giving Vasu, the one son of the three (wor
 *English Translation.*
 
 O associated Nasatyas, come both of you to my uplifted glorious praises and my rites, come to partake of my offerings.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14635,6 +15595,8 @@ O associated Nasatyas, come both of you to my uplifted glorious praises and my r
 
 Deities rich in food, when we solicit your bounty, that ( wealth ) which demons cannot thwart,—then, helping our praise directed to the east, come, leaders of rites, worshipped by Jamadagni.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ನೋ ಯಜ್ಞಂ ದಿವಿಸ್ಪೃಶಂ ವಾಯೋ ಯಾಹಿ ಸುಮನ್ಮಭಿಃ ।
@@ -14664,6 +15626,8 @@ Deities rich in food, when we solicit your bounty, that ( wealth ) which demons 
 *English Translation.*
 
 Come, Vayu, to our heaven-reaching sacrifice with its beautiful hymns of praise ; this bright Soma has been kept for you-poured out upon the middle of the straining cloth·
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14696,6 +15660,8 @@ Come, Vayu, to our heaven-reaching sacrifice with its beautiful hymns of praise 
 
 The ministrant priest comes by the straightest paths, he brings the oblations for your enjoyment ; then lord of the Niyut steeds, drink of both kinds, the Soma pure and that mixed with milk·
 
+#### ಋಕ್ ೧೧
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಬಣ್ಮಹಾಁ ಅಸಿ ಸೂರ್ಯ ಬಳಾದಿತ್ಯ ಮಹಾಁ ಅಸಿ ।
@@ -14726,6 +15692,8 @@ The ministrant priest comes by the straightest paths, he brings the oblations fo
 *English Translation.*
 
 Verily you are great, O Sun ; verily, Aditya, you are great ; the greatness, of you. the great one, is praised ; verily you are great, O god.
+
+#### ಋಕ್ ೧೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14758,6 +15726,8 @@ xxv 34
 *English Translation.*
 
 Verily, O Sun, you are great in fame ; O god, you are indeed mighty among the gods in might ; you are the slayer of the Asuras, and the preceptor(of the gods); your glory is widespread and to be marred by none·
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14793,6 +15763,8 @@ She who was created beautiful and bright, bending downwards and receiving all pr
 
 ಯಾ ಇಯಂ—ಎಂಬುದಕ್ಕೆ ಯಾವ ಈ ಉಷೋದೇವಿಯು ಎಂದೂ ಅರ್ಥಮಾಡಬಹುದು. ಉಳಿವ ವಿಶೇಷಣಗಳೆಲ್ಲವೂ ಉಷೋದೇವಿಯ ಸ್ವರೂಪವನ್ನೂ ವರ್ಣಿಸುತ್ತವೆ.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರಜಾ ಹ ತಿಸ್ರೋ ಅತ್ಯಾಯಮೀಯುರ್ನ್ಯನ್ಯಾ ಅರ್ಕಮಭಿತೋ ವಿವಿಶ್ರೇ ।
@@ -14827,6 +15799,8 @@ Three kinds of creatures went to destruction ; the others came before Agni ; the
 *[ಅ. ೬. ಅ. ೭. ವ. ೯ ] ಋಗ್ವೇದಸಂಹಿತಾ 533]*
 
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾತಾ ರುದ್ರಾಣಾಂ ದುಹಿತಾ ವಸೂನಾಂ ಸ್ವಸಾದಿತ್ಯಾನಾಮಮೃತಸ್ಯ ನಾಭಿಃ ।
@@ -14856,6 +15830,8 @@ Three kinds of creatures went to destruction ; the others came before Agni ; the
 <!-- printed 534 -->
 *[534 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ.೧೦. ಸೂ. ೧೦೧]*
 
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14897,6 +15873,9 @@ The divine cow, who herself utters speech and gives speech to others who comes a
 *[536 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೧೦೨]*
 
 ಋಷಿಯಾಗಿರಬಹುದು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ತ್ವಮಗ್ನೇ ದ್ವ್ಯಧಿಕಾ ಭಾರ್ಗವಃ ಪ್ರಯೋಗೋ ಬಾರ್ಹಸ್ಪತ್ಯೋ ವಾಗ್ನಿಃ ಪಾವಕಃ ಸಹಸಃ ಸುತಯೋರ್ವಾಗ್ನ್ಯೋರ್ಗೃಹಪತಿಯವಿಷ್ಠಯೋರ್ವಾನ್ಯತರ ಆಗ್ನೇಯಂ ತು ಎಂದು ಹೇಳಿರುವುದು. ಪ್ರಾತರನುವಾಕಮಂತ್ರಪಠನಕಾಲದಲ್ಲಿ ಆಗ್ನೇಯಕ್ರತುಸಂಬಂಧವಾದ ಗಾಯತ್ರೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮೊದಲ ಹದಿನೆಂಟು ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತ್ವಮಗ್ನೇ ಬೃಹದ್ವಯ ಇತ್ಯಷ್ಟಾದಶಾರ್ಚಂತಸ್ತ್ವೇತಿ ಸೂಕ್ತೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೩) ವಿವೃತವಾಗಿರುವುದು. ದೇವಸುವ ಎಂಬ ದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ಮಾಡುವ ಎಂಟು ಹವಿರ್ಹೋಮಗಳಲ್ಲಿ ಗೃಹಪತಿರಗ್ನಿ ಎಂಬ ದೇವತೆಗಳನ್ನುದ್ದೇಶಿಸಿ ಮಾಡುವ ಹೋಮದಲ್ಲಿ ತ್ವಮಗ್ನೇ ಬೃಹದ್ವಯು ಎಂಬ ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ತ್ವಮಗ್ನೇ ಬೃಹದ್ವಯೋ ಹವ್ಯವಾಳಗ್ನಿರಜರಃ ಪಿತಾ ನಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೧೧) ವಿವೃತವಾಗಿರುವುದು. ಅನ್ವಾರಂಭಣೀಯೇಷ್ಟಿಯಲ್ಲಿ ಅಗ್ನಿರ್ಭಗಿನ್ ಎಂಬ ದೇವತೆಯನ್ನು ಉದ್ದೇಶಿಸಿ ಮಾಡುವ ಹೋಮದಲ್ಲಿ ಆ ಸವಂ ಸವಿತುಃ ಎಂಬ ಈ ಸೂಕ್ತದ ಆರನೆಯ ಋಕ್ಕನ್ನು ಅನುವಾಕ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಆ ಸವಂ ಸವಿತುರ್ಯಥಾ ಸ ನೋ ರಾಧಾಂಸ್ಯಾ ಭರ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೨-೮) ವಿವೃತವಾಗಿರುವುದು. ಅಭಿಪ್ಲವ-ಂಬಂಧವಾದ ಉಕ್ಥ್ಯಯಾಗಗಳಲ್ಲಿ ತೃತೀಯಸವನಕಾಲದಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಅಗ್ನಿಂ ವೋ ವೃಧಂತಂ ಎಂದು ಮೊದಲಾಗುವ ೭-೯ ಮೂರು ಋಕ್ಕುಗಳನ್ನು ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯ ತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಅಗ್ನಿಂ ವೋ ವೃಧಂತಮಗ್ನೇ ಯಂ ಯಜ್ಞಮಧ್ವರಂ ಎಂಬ ಸೂತ್ರದಿಂದ (ಅ. ೨ ೮) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಯಾಗದ ಹತ್ತನೆಯ ದಿವಸ ಇಮಂ ನೋ ಯಜ್ಞಂ ಎಂಬ ಸ್ತೋಕಸೂಕ್ತದ ಎರಡನೆಯ ಋಕ್ಕಿನ ಸ್ಥಾನದಲ್ಲಿ ಅಗ್ನೇ ಘೃತಸ್ಯ ಎಂಬ ಹದಿನಾರನೆಯ ಋಕ್ಕನ್ನು ಪಠಿಸಬಹುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಸ್ತೋಕಸೂಕ್ತಸ್ಯ ದ್ವಿತೀಯತೃತೀಯಯೋಃ ಸ್ಥಾನೇಽಗ್ನೇ ಘೃತಸ್ಯ ಧೀತಿಭಿರುಭೇ ಸುಶ್ಚಂದ್ರ ಸರ್ಪಿಷ ಇತ್ಯೇತೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೮-೧೨) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೦೨ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೧೦೨
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೧೦೨ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೯, ೧೦, ೧೧, ೧೨ ।
@@ -14904,6 +15883,8 @@ The divine cow, who herself utters speech and gives speech to others who comes a
 ಋಷಿ—ಪ್ರಯೋಗೋ ಭಾರ್ಗವ ಅಗ್ನಿರ್ವಾ ಪಾವಕೋ ಬಾರ್ಹಸ್ಪತ್ಯಃ ॥ ಅಥವಾಗ್ನೀ ಗೃಹಪತಿಯವಿಷ್ಠೌ ಸಹಸಃ ಸುತೌ ತಯೋರ್ವಾನ್ಯತರಃ ।
 ದೇವತಾ—ಅಗ್ನಿಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14935,6 +15916,8 @@ The divine cow, who herself utters speech and gives speech to others who comes a
 
 Divine Agni, the ever young, the wise, the protector of the household, it is you who give abundant food to the worshipper.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ನ ಈಳಾನಯಾ ಸಹ ದೇವಾಁ ಅಗ್ನೇ ದುವಸ್ಯುವಾ ।
@@ -14964,6 +15947,8 @@ Divine Agni, the ever young, the wise, the protector of the household, it is you
 *English Translation.*
 
 Resplendend one, the all-knower, bring the gods hither with this our reverential hymn of praise.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -14995,6 +15980,8 @@ Resplendend one, the all-knower, bring the gods hither with this our reverential
 
 O ever youthful one, with you as our ally, the sender of wealth, we overcome (our enemies) for the attainment of food.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಔರ್ವಭೃಗುವಚ್ಛುಚಿಮಪ್ನವಾನವದಾ ಹುವೇ ।
@@ -15024,6 +16011,8 @@ O ever youthful one, with you as our ally, the sender of wealth, we overcome (ou
 *English Translation.*
 
 Like Aurva Bhrigu and like Apnavana, I invoke the pure Agni, dwelling in the midst of the sea.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15055,6 +16044,8 @@ I invoke Agni dwelling in the midst of the sea, the wise one, roaring like the w
 *[ಅ. ೬. ಅ. ೭. ವ. ೧೦] ಋಗ್ವೇದಸಂಹಿತಾ 541]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಸವಂ ಸವಿತುರ್ಯಥಾ ಭಗಸ್ಯೇವ ಭುಜಿಂ ಹುವೇ ।
@@ -15080,6 +16071,8 @@ I invoke Agni dwelling in the midst of the sea, the wise one, roaring like the w
 *English Translation.*
 
 I invoke Agni dwelling in the midst of the sea, like the energy of Savitri, like the enjoyments granted by Bhaga.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15111,6 +16104,8 @@ I invoke Agni dwelling in the midst of the sea, like the energy of Savitri, like
 
 (Draw) near to Agni the strong, the mightiest, him who expands (with his flames), the grandson of the invincible ones.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಯಂ ಯಥಾ ನ ಆಭುವತ್ತ್ವಷ್ಟಾ ರೂಪೇವ ತಕ್ಷ್ಯಾ ।
@@ -15140,6 +16135,8 @@ I invoke Agni dwelling in the midst of the sea, like the energy of Savitri, like
 *English Translation.*
 
 (Draw near) that he may deal with us as a carpenter deals with the timber he has to cut ; may we become renowned by his skill.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15171,6 +16168,8 @@ I invoke Agni dwelling in the midst of the sea, like the energy of Savitri, like
 
 Among the gods Agni has to do with all the successes ( of men ) ; may he come to us with abundance of food.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿಶ್ವೇಷಾಮಿಹ ಸ್ತುಹಿ ಹೋತೄಣಾಂ ಯಶಸ್ತಮಮ್ ।
@@ -15200,6 +16199,8 @@ Among the gods Agni has to do with all the successes ( of men ) ; may he come to
 *English Translation.*
 
 Praise at our rite Agni, the most glorious of all ministrant priests, the foremost in the sacrifices.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15236,6 +16237,8 @@ xxv. 35
 
 ಶೀರಂ ಪಾವಕಶೋಚಿಷಂ—ಈ ಶಬ್ದಗಳಿಗೆ ಯಾಸ್ಕರು ತಮ್ಮ ನಿರುಕ್ತದಲ್ಲಿ—ಶೀರಂ । ಶೀರಂ ಪಾವಕಶೋಚಿಷಂ । ಪಾವಕದೀಪ್ತಿಂ । ಅನುಶಾಯಿನಮಿತಿ ಪಾಶಿನಮಿತಿ ವಾ (ನಿ. ೪-೧೪) ಎಂದು ನಿರ್ವಚನವನ್ನು ಹೇಳಿದಾರೆ. ಎಂದರೆ ಈ ಎರಡು ಶಬ್ದಗಳೂ ಅಗ್ನಿಯ ಸ್ವಭಾವಸಿದ್ಧವಾದ ಗುಣಗಳನ್ನು ವರ್ಣಿಸುವುದರಿಂದ ಅಗ್ನಿಯ ಹೆಸರುಗಳೇ ಆಗಿವೆ. ಶೀರಂ ಎಂದರೆ ಅನುಶಾಯಿನಂ ಅಥವಾ ಆಶಿನಂ । ಅಗ್ನಿಯು ಕಾಷ್ಠಾದಿಗಳಲ್ಲಿ ಗೂಢವಾಗಿ ಸುಪ್ತನಾಗಿರುವನು. ಎಂದರೆ ಕಾಷ್ಠಾದಿಗಳಲ್ಲಿ ಅಗ್ನಿಯು ನೆಲೆಸಿದ್ದರೂ ಯಾರಿಗೂ ಗೋಚರವಾಗುವುದಿಲ್ಲ. ಆದರ ಒಳಗೇ ವಿಲೀನನಾಗಿ ಇರುವನು. ಮಥನಾದಿಕ್ರಿಯೆಯಿಂದ ಮಾತ್ರ ಎಲ್ಲರಿಗೂ ಗೋಚರಿಸುವನು. ಅಥವಾ ಸರ್ವಪ್ರಾಣಿಗಳಲ್ಲಿಯೂ ಅಗ್ನಿಯು ವ್ಯಾಪಿಸಿರುವನು. ಸರ್ವಪ್ರಾಣಿಗಳ ಉದರಗಳಲ್ಲಿ ಸ್ಥಿತನಾಗಿ ಜಾಠರಾಗಿ ಎಂಬಭಿಧಾನದಿಂದ ಪ್ರಾಣಿಗಳು ಭಕ್ಷಿಸುವ ಆಹಾರಾದಿಗಳನ್ನು ಪಚನಮಾಡುತ್ತಾ ಶರೀರದ ಸಮಸ್ತ ಭಾಗಗಳಲ್ಲಿಯೂ ಔಷ್ಣ್ಯದಿಂದ ವ್ಯಾಪಿಸಿರುವನು. ಈ ಕಾರಣದಿಂದಲೇ ಪ್ರಾಣಿಗಳ ಶರೀರವೆಲ್ಲವೂ ಒಂದು ಕ್ಲಿಪ್ತಪ್ರಮಾಣದ ಔಷ್ಣದಿಂದ ವ್ಯಾಪಿಸಿ ಬೆಚ್ಚಗಿರುವುದು ಎಲ್ಲರಿಗೂ ತಿಳಿದ ವಿಷಯವಾಗಿದೆ ಎಂದು ಶೀರಂ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಎರಡುವಿಧವಾದ ಅರ್ಥವನ್ನು ವಿವರಿಸಿರುವರು. ಪಾವಕಶೋಚಿಷಂ ಎಂದರೆ ಶುದ್ಧವಾದ ತೇಜಸ್ಸಿನಿಂದ ಬೆಳಗುತ್ತಿರುವ ಎಂದರ್ಥವು.
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಮರ್ವಂತಂ ನ ಸಾನಸಿಂ ಗೃಣೀಹಿ ವಿಪ್ರ ಶುಷ್ಮಿಣಮ್ ।
@@ -15265,6 +16268,8 @@ xxv. 35
 *English Translation.*
 
 O priest, glorify him who is welcome and strong as a horse, and who like a friend conquers all our foes.
+
+#### ಋಕ್ ೧೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15298,6 +16303,8 @@ O priest, glorify him who is welcome and strong as a horse, and who like a frien
 
 The sister praises of the worshipper rise to you, proclaiming your glories ; they stand kindling you in the presence of Vayu.
 
+#### ಋಕ್ ೧೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಯ ತ್ರಿಧಾತ್ವವೃತಂ ಬರ್ಹಿಸ್ತಸ್ಥಾವಸಂದಿನಮ್ ।
@@ -15328,6 +16335,8 @@ The waters find their place in him, for whom the triple-jointed grass is spread 
 *[ಮಂ. ೮ ಅ. ೬. ವ. ೧೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 549]*
 
 
+#### ಋಕ್ ೧೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪದಂ ದೇವಸ್ಯ ಮೀಳ್ಹುಷೋಽನಾಧೃಷ್ಟಾಭಿರೂತಿಭಿಃ ।
@@ -15353,6 +16362,8 @@ The waters find their place in him, for whom the triple-jointed grass is spread 
 *English Translation.*
 
 Auspicious is the place of the god who pours forth all desires with inviolable protections ; auspicious is his apppearance like the Sun's-
+
+#### ಋಕ್ ೧೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15384,6 +16395,8 @@ Auspicious is the place of the god who pours forth all desires with inviolable p
 
 Divine Agni, blazing with radiance, through our oblations of ghi, bear (our sacrifice) to the gods and offer it.
 
+#### ಋಕ್ ೧೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ತ್ವಾಜನಂತ ಮಾತರಃ ಕವಿಂ ದೇವಾಸೋ ಅಂಗಿರಃ ।
@@ -15414,6 +16427,8 @@ Divine Agni, blazing with radiance, through our oblations of ghi, bear (our sacr
 
 The gods, as mothers, have borne you Angiras, the seer, the immortal, the bearer of the oblation.
 
+#### ಋಕ್ ೧೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರಚೇತಸಂ ತ್ವಾ ಕವೇಽಗ್ನೇ ದೂತಂ ವರೇಣ್ಯಮ್ ।
@@ -15443,6 +16458,8 @@ The gods, as mothers, have borne you Angiras, the seer, the immortal, the bearer
 *English Translation.*
 
 The gods seat you in your place, O wise Agni, the seer, the messenger the most excellent, the bearer of the obliation.
+
+#### ಋಕ್ ೧೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15480,6 +16497,8 @@ No cow is mine, and no axe is at hand to cleave wood, but yet I bring both these
 
 ಮುಂದಿನ ಋಕ್ಕಿನ ವಿಶೇಷವಿಷಯಗಳನ್ನು ನೋಡಿ.
 
+#### ಋಕ್ ೨೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯದಗ್ನೇ ಕಾನಿ ಕಾನಿ ಚಿದಾ ತೇ ದಾರೂಣಿ ದಧ್ಮಸಿ ।
@@ -15516,6 +16535,8 @@ Most youthful ( Agni ), when we offer any kinds of timber to you, you accept the
 ನ ಹ ಸ್ಮ ವೈ ಪುರಾಗ್ನಿರಪರಶುವೃಕ್ಣಂ ದಹತಿ ತದಸ್ಮೈ ಪ್ರಯೋಗ ಏವರ್ಷಿರಸ್ವದಯದ್ಯದಗ್ನೇನಿ ಕಾನಿ ಚೇತಿ ಸಮಿಧಮಾಾತ್ಯಪರಶುವೃಕ್ಣಮೇವಾಸ್ಮೈ ಸ್ವದಯತಿ ಸರ್ವಮಸ್ಮೈ ಸ್ವದತೇ ॥
 ( ತ್ರೈ. ಸಂ. ೫-೧-೧೦-೧ )
 ಪೂರ್ವದಲ್ಲಿ ಕೊಡಲಿಯಿಂದ ಕಡಿಯುವೇ ಹಾಗೆಯೋ ಕಾಡಿನಲ್ಲಿ ಬಿದ್ದಿದ್ದ ಕಾಷ್ಠಾದಿಗಳನ್ನು ಯಜ್ಞಾಗ್ನಿಯಲ್ಲಿ ಹಾಕಿದರೆ ಅಗ್ನಿಯು ಅವುಗಳನ್ನು ದಹಿಸುತ್ತಿರಲಿಲ್ಲ. ಆದರೆ ಪ್ರಯೋಗನೆಂಬ ಋಷಿಯು, ತನ್ನಲ್ಲಿ ಕಾಷ್ಠಚ್ಛೇದನಸಾಧನವಾದ ಕೊಡಲಿಯು ಇಲ್ಲವೆಂದೂ ಆದ್ದರಿಂದ ಕೊಡಲಿಯಿಂದ ಕಡಿಯದೇ ಇರುವ ಕಾಷ್ಠಗಳನ್ನು ನಿನಗೆ ಪ್ರಿಯವಾದ ಘೃತವೆಂದೇ ಭಾವಿಸಿ ಪರಿಗ್ರಹಿಸಿ ದಹಿಸಬೇಕೆಂದೂ ಬೇಡಿಕೊಳ್ಳಲಾಗಿ ಅಗ್ನಿಯು ಆ ಋಷಿಯ ಪ್ರಾರ್ಥನೆಯನ್ನು ಮನ್ನಿಸಿ ಅವನು ಅರ್ಪಿಸಿದ ಕಾಷ್ಠಗಳನ್ನು ದಹಿಸಿದನು ಎಂಬ ಪೂರ್ವೇತಿಹಾಸವು ಈ ಸಂದರ್ಭದಲ್ಲಿ ಉಕ್ತವಾಗಿದೆ.
+
+#### ಋಕ್ ೨೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15558,6 +16579,8 @@ Whatever timber the ant has gnawed, whatever the emmet has infested,—may it al
 
 ವಮ್ರೀ ಮತ್ತು ಉಪಜಿಹ್ವಿಕಾ ಎಂಬ ಶಬ್ದಗಳು ಸೀಮಿಕಾ ಎಂದರೆ ಗೆದ್ದಲು ಇರುವೆಗಳನ್ನು (emmets, white ants) ಸೂಚಿಸುವ ಪರ್ಯಾಯಪದಗಳು, ವಮ್ರ್ಯೋ ವಮನಾತ್ । ವಮ್ರೀ ಎಂಬ ಶಬ್ದವು ವಮ ಕಾರುವುದು ವಮನಮಾಡುವುದು ಎಂಬರ್ಥವುಳ್ಳ, ವಮನಶಬ್ದದಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆ. ಈ ಪಿಥಾದ ಇರುವೆಗಳು ಉದಕವನ್ನು ಹೀರಿ ಅದನ್ನು ಮಣ್ಣಿನ ಮೇಲೆ ಕಾರಿ ಅಥವಾ ವಮನಮಾಡಿ ಮಣ್ಣನ್ನು ಹಸಿಯಾಗಿಯೂ ಮೃದುವಾಗಿಯೂ ಮಾಡುವವು. ಆದ್ದರಿಂದ ಗೆದ್ದಲು ಇರುವೆಗಳಿಗೆ ವಮ್ರೀ ಎಂದು ಹೆಸರು. ಉಪಜಿಹ್ವಿಕಾಃ ಎಂದರೆ ಉಪಜಿಘ್ರ್ಯಃ ಈ ಇರುವೆಗಳಿಗೆ ಮೂಸಿನೋಡುವ ಘ್ರಾಣೇಂದ್ರಿಯಗಳು ಅತಿ ಚುರುಕಾಗಿರುವವು ವಾಸನೆಯಿಂದಲೇ ಇವುಗಳು ಪದಾರ್ಥಗಳ ಸ್ವರೂಪವನ್ನು ಚೆನ್ನಾಗಿ ತಿಳಿದುಕೊಂಡು ತಮಗೆ ತಿನ್ನಲು ಯೋಗ್ಯವಾದವುಗಳನ್ನು ಭಕ್ಷಿಸುವವು. ಇಂತಹ ತೀಕ್ಷ್ಣವಾದ ಘ್ರಾಣೇಂದ್ರಿಯಗಳಿರುವ ಗೆದ್ದಲು ಇರುವೆಗಳಿಗೆ ಉಪಜಿಹ್ವಿಕಾ ಎಂದು ಹೆಸರು. ಸೀಮಿಕ ಎಂಬ ಶಬ್ದಕ್ಕೆ ಸೀಮಿಕಾಃ ಸ್ಯಮನಾತ್ । ಸ್ಯಮಂತಿ ಹಿ ತಾ ನಿತ್ಯಮೇವ ಗಚ್ಛಂತಿ । ಸೀಮಿಕೆ ಎಂಬ ಶಬ್ದವು ಹೋಗು, ಸಂಚರಿಸು ಎಂಬ ಅರ್ಥವುಳ್ಳ, ಸ್ಯಮಂತಿಧಾತುವಿನಿಂದ ನಿಷ್ಪನ್ನವಾಗಿದೆ. ಈ ಇರುವೆಗಳು ಆಹಾರಾರ್ಥವಾಗಿ ಯಾವಾಗಲೂ ಬಿಡುವಿಲ್ಲದೆ ಸಂಚರಿಸುತ್ತಲೇ ಇರುವುದರಿಂದ ಅಥವಾ ಆಹಾರಕ್ಕಾಗಿ ವೃಕ್ಷಾದಿಗಳನ್ನು (ಮರ ಅಥವಾ ಮರದ ಸಾಮಾನುಗಳನ್ನು) ವ್ಯಾಪಿಸುವುದರಿಂದ ಈ ಗೆದ್ದಲು ಇರುವೆಗಳಿಗೆ ಸೀಮಿಕ ಎಂಬ ಹೆಸರು ಬಂದಿದೆ. ಈ ವಿಷಯದಲ್ಲಿ ಯದತ್ರ್ಯುಪಜಿಹ್ವಿಕಾ ಯದ್ವಮ್ರೋ ಅತಿಸರ್ಪತಿ ಎಂಬ ಪ್ರಕೃತಮಂತ್ರದ ವಾಕ್ಯವೇ ಶ್ರುತಿವಾಕ್ಯದ ಉದಾಹರಣೆಯಾಗಿರುವುದು ಎಂದು ನಿರ್ವಚನಾಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೨೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಗ್ನಿಮಿಂಧಾನೋ ಮನಸಾ ಧಿಯಂ ಸಚೇತ ಮರ್ತ್ಯಃ ।
@@ -15599,6 +16622,9 @@ Let a man, when he kindles Agni, perform the ceremony with a (devout) mind ; he 
 *[೫೫೮ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೮ ಅ. ೧೦ ಸೂ. ೧೦೩]*
 
 ಕ್ರತುಸಂಬಂಧವಾದ ಬೃಹತೀಛಂದಸ್ಸಿನ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮೊದಲಿನ ಏಳು ಋಕ್ಕುಗಳ ವಿನಿಯೋಗವಿರುವುದೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಅದರ್ಶಿ ಗಾತುವಿತ್ತಮ ಇತಿ ಸಪ್ತೇತಿ ಬಾರ್ಹತಂ ಎಂಬ ಸೂತ್ರದಿಂದ ( ಆ. ೪-೧೩ ) ವಿವೃತವಾಗಿರುವುದು. ಅಭಿಪ್ಲವಸಂಬಂಧವಾದ ಉಕ್ಥ್ಯಯಾಗಗಳಲ್ಲಿ ಮೈತ್ರಾವರುಣನೆಂಬ ಋತ್ವಿಜನು ಪ್ರ ಮಂಹಿಷ್ಠಾಯ ಎಂದು ಮೊದಲಾಗುವ ಮೂರು ಋಕ್ಕುಗಳನ್ನು (೮-೧೦ ಋಕ್ಕುಗಳನ್ನು) ವೈಕಲ್ಪಿಕಸ್ತೋತ್ರಿಯತೃಚವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಪ್ರ ಮಂಹಿಷ್ಠಾಯ ಗಾಯತ ಪ್ರ ಸೋ ಅಗ್ನೇ ತವೋತಿಭಿಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೭-೮) ವಿವೃತವಾಗಿರುವುದು. ಮತ್ತು ಅಧ್ಯಾಯೋಪಾಕರಣ ಮತ್ತು ಉತ್ಸರ್ಜನಕರ್ಮಗಳ ಪ್ರಧಾನಹೋಮದಲ್ಲಿ ಮಂಡಲಾಂತ್ಯಋಕ್ಕುಗಳಿಗಾಗಿ ಆಗ್ನೇ ಯಾಹಿ ಎಂಬ ಈ ಸೂಕ್ತದ ಕೊನೆಯ ಋಕ್ಕನ್ನು (೧೩ನೇ ಋಕ್ಕನ್ನು) ಪಠಿಸಿ ಹೋಮಮಾಡಬೇಕೆಂದು ಆಶ್ವಲಾಯನಗೃಹ್ಯಸೂತ್ರದ—ಮಾ ಚಿದಾಗ್ನೇ ಯಾಹಿ ಮರುತ್ಸಖಾ ಯತ್ತೇ ರಾಜನ್ನಗ್ನೇ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ಗೃ. ೩.೫-೭) ವಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೦೩ (ಮಂಡಲ ೮)
+
 ಸೂಕ್ತ—೧೦೩
 ಮಂಡಲ—೮ ॥ ಅನುವಾಕ—೧೦ ॥ ಸೂಕ್ತ—೧೦೩ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೧೩, ೧೪, ೧೫ ॥
@@ -15606,6 +16632,8 @@ Let a man, when he kindles Agni, perform the ceremony with a (devout) mind ; he 
 ಋಷಿಃ—ಸೋಭರಿಃ ಕಾಣ್ವಃ ॥
 ದೇವತಾ—೧-೧೩. ಅಗ್ನಿಃ । ೧೪. ಅಗ್ನಿರ್ಮರುತಶ್ಚ ।
 ಛಂದಃ—೧-೪, ೬ ಬೃಹತೀ । ೫. ವಿರಾಡ್ರೂಪಾ । ೭, ೯, ೧೧, ೧೩. ಸತೋ—ಬೃಹತೀ । ೮, ೧೨. ಕಕುಪ್ । ೧೦. ಪ್ರಸೀಯಸೀ । ೧೪. ಅನುಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15637,6 +16665,8 @@ Let a man, when he kindles Agni, perform the ceremony with a (devout) mind ; he 
 
 He, in whom they offer the sacrifices, has appeared,—he who knows all ways ; our praises rise to Agni, auspiciously born, the helper of the Arya.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ದೈವೋದಾಸೋ ಅಗ್ನಿರ್ದೇವಾಁ ಅಚ್ಛಾ ನ ಮಜ್ಮನಾ ।
@@ -15667,6 +16697,8 @@ He, in whom they offer the sacrifices, has appeared,—he who knows all ways ; o
 
 Agni, when invoked by Divodasa, ran along the mother Earth as with might, towards the gods ; he took his place in the height of heaven.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಸ್ಮಾದ್ರೇಜಂತ ಕೃಷ್ಟಯಶ್ಚರ್ಕೃತ್ಯಾನಿ ಕೃಣ್ವತಃ ।
@@ -15696,6 +16728,8 @@ Agni, when invoked by Divodasa, ran along the mother Earth as with might, toward
 *English Translation.*
 
 Since men tremble before those who perform the sacred sacrifices, therefore you devoutly worship in the solemn rite Agni the bestower of thousands of cows.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15728,6 +16762,8 @@ Since men tremble before those who perform the sacred sacrifices, therefore you 
 
 Agni, bestower of dwellings, that mortal whom you wish to lead to wealth, and who gives offerings to you, possesses of himself a strong son, a reciter of hymns and a lord of great wealth.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ದೃಳ್ಹೇ ಚಿದಭಿ ತೃಣತ್ತಿ ವಾಜಮರ್ವತಾ ಸ ಧತ್ತೇ ಅಕ್ಷಿತಿ ಶ್ರವಃ ।
@@ -15758,6 +16794,8 @@ Agni, bestower of dwellings, that mortal whom you wish to lead to wealth, and wh
 
 Lord of  vast wealth, he (your worshipper) spoils with his steed food laid up even in strongholds, he possesses imperishable wealth ; in you divine we ever possess all desirable  treasures.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯೋ ವಿಶ್ವಾ ದಯತೇ ವಸು ಹೋತಾ ಮಂದ್ರೋ ಜನಾನಾಮ್ ।
@@ -15787,6 +16825,8 @@ Lord of  vast wealth, he (your worshipper) spoils with his steed food laid up ev
 *English Translation.*
 
 To him the invoker of the gods, who ever rejoicing distributes all wealth to men,—to Agni proceed our praises like the principal cups of the exhilarating Soma.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15822,6 +16862,8 @@ The liberal worshippers with their hymns honour you harnessed to the car like a 
 *[566 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೮ ಅ. ೧೦. ಸೂ. ೧೦೩]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಮಂಹಿಷ್ಠಾಯ ಗಾಯತ ಋತಾವ್ನೇ ಬೃಹತೇ ಶುಕ್ರಶೋಚಿಷೇ ।
@@ -15847,6 +16889,8 @@ The liberal worshippers with their hymns honour you harnessed to the car like a 
 *English Translation.*
 
 Singers of hymns, sing aloud to the mighty Agni, most bounteous, observant of truth and radiant with brightness.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15882,6 +16926,8 @@ The wealthy and glorious (Agni), when invoked and kindled, pours forth on his vo
 *[568   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ಮಂ. ೮. ಅ. ೧೦. ಸೂ. ೧೦೩]*
 
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರೇಷ್ಠಮು ಪ್ರಿಯಾಣಾಂ ಸ್ತುಹ್ಯಾಸಾವಾತಿಥಿಮ್ ।
@@ -15909,6 +16955,8 @@ The wealthy and glorious (Agni), when invoked and kindled, pours forth on his vo
 *English Translation.*
 
 Praise, singer of hymns, the guest, Agni the dearest of the dear, the driver of chariots.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -15946,6 +16994,8 @@ Praise, singer of hymns, the guest, Agni the dearest of the dear, the driver of 
 *[570   ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ   [ಮಂ. ೮. ಅ. ೧೦. ಸೂ. ೧೦೩]*
 
 
+#### ಋಕ್ ೧೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಾ ನೋ ಹೃಣೀತಾಮತಿಥಿರ್ವಸುರಗ್ನಿಃ ಪುರುಪ್ರಶಸ್ತ ಏಷಃ ।
@@ -15978,6 +17028,8 @@ May none hinder Agni from coming to us, our guest, the giver of of dwellings, pr
 *[ಅ. ೬. ಅ. ೭. ವ. ೧೬.]   ಋಗ್ವೇದಸಂಹಿತಾ   571]*
 
 
+#### ಋಕ್ ೧೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮೋ ತೇ ರಿಷನ್ಯೇ ಅಚ್ಛೋಕ್ತಿಭಿರ್ವಸೋಽಗ್ನೇ ಕೇಭಿಶ್ಚಿದೇವೈಃ ।
@@ -16009,6 +17061,8 @@ May none hinder Agni from coming to us, our guest, the giver of of dwellings, pr
 *English Translation.*
 
 Agni, giver of dwellings, let not those come to harm, who approach you in whatsoever manner with hymns of praise; the worshipper who offers his libation and duly performs the rite praises you that you may be the bearer of the sacrifice.
+
+#### ಋಕ್ ೧೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16080,6 +17134,11 @@ Agni, you have the Maruts as your friends, come with the Rudras to drink the Som
 *[576 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ ೧]*
 
 ಅನುವಾದವು—ಋಗ್ವೇದಸಂಹಿತೆಯ ಒಂಭತ್ತನೆಯ ಮಂಡಲದಲ್ಲಿ ಏಳು ಅನುವಾಕಗಳಿರುವವು. ಅವುಗಳಲ್ಲಿ ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಇಪ್ಪತ್ತನಾಲ್ಕು ಸೂಕ್ತಗಳಿರುವವು. ಅವುಗಳಲ್ಲಿ ಸ್ವಾದಿಷ್ಠಯಾ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯದು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸ್ವಾದಿಷ್ಠಯಾ ದಶ ಮಧುಚ್ಛಂದಾ ಎಂದು ಹೇಳಿರುವುದು. ಈ ಸೂಕ್ತಕ್ಕೆ ಮಧುಚ್ಛಂದಾ ವೈಶ್ವಾಮಿತ್ರಃ ಎಂಬುವನು ಋಷಿಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ನವಮು ಮಂಡಲಂ ಪಾವಮಾನಂ ಸೌಮ್ಯಂ ಎಂಬ ವಚನಾನುಸಾರವಾಗಿ ಪವಮಾನಗುಣವಿಶಿಷ್ಟನಾದ ಸೋಮನು ದೇವತೆಯು ; ಗ್ರಾವಸ್ತೋತ್ರದಲ್ಲಿ ( ಸೋಮಾಭಿಷವಸಾಧನವಾದ ಕಲ್ಲುಗಳನ್ನು ಸ್ತುತಿಸುವ ಸಂದರ್ಭದಲ್ಲಿ ) ಅರ್ಬುದ ಸೂಕ್ತದ ಆದಿಯಲ್ಲಿಯೂ ಮತ್ತು ಅಂತ್ಯದಲ್ಲಿಯೂ ಈ ಸೂಕ್ತವೇ ಮೊದಲಾದ ಸಮಸ್ತ ಪವಮಾನಸೋಮದೇವತಾಕವಾದ ಸ್ತೋತ್ರವನ್ನು ವಿಕಲ್ಪವಾಗಿ ಆವಪನಾರ್ಥವಾಗಿ (ಸ್ತೋಮಾಭಿವೃದ್ಧ್ಯರ್ಥವಾಗಿ) ಪಠಿಸಬಹುದೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಪ್ರೈತೇ ವದಂತ್ವಿತ್ಯರ್ಬುದಂ ಪ್ರಾಗುತ್ತಮಾಯಾ ಆ ವ ಋಂಜಸೇ ಪ್ರ ವೋ ಗ್ರಾವಾಣ ಇತಿ ಸೂಕ್ತಯೋರಂತರೋಪರಿಷ್ಟಾತ್ಸರಸ್ತಾದ್ವಾ ಪಾವಮಾನೀರೋಪ್ಯ ಯಥಾರ್ಥಮಾ ವಾ ಗ್ರಹಗ್ರಹಣಾತ್ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫-೧೨) ವಿವೃತವಾಗಿರುವುದು. ಅಧ್ಯಾಯೋಪಾಕರ್ಮ ಮತ್ತು ಉತ್ಸರ್ಜನ ಕರ್ಮಗಳ ಪ್ರಧಾನ ಹೋಮಗಳಲ್ಲಿ ಮಂಡಲಾದಿ ಋಕ್ಕುಗಳಿಗಾಗಿ ಈ ಸೂಕ್ತದ ಮೊದಲನೆಯ ಋಕ್ಕಿನ ವಿನಿಯೋಗ ವಿರುವುದು. ಸೂತ್ರವನ್ನು ಹಿಂದೆಯೇ ಉದಾಹರಿಸಲಾಗಿದೆ.
+
+## ಮಂಡಲ ೯
+
+## ಸೂಕ್ತ ೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೧೬,೧೭ ।
@@ -16087,6 +17146,8 @@ Agni, you have the Maruts as your friends, come with the Rudras to drink the Som
 ಋಷಿಃ—ಮಧುಚ್ಛಂದಾಃ ।
 ದೇವತಾ—ಪವಮಾನ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16117,6 +17178,8 @@ Agni, you have the Maruts as your friends, come with the Rudras to drink the Som
 *English Translation.*
 
 Flow, Soma, in a most sweet and exhilarating stream, effused for Indra to drink.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16153,6 +17216,8 @@ The all-beholding destroyer of Rakshasas has stepped upon his gold-smitten brith
 
 ಯೋನಿಂ—ಎಂದರೆ ರಸೋತ್ಪತ್ತಿಸ್ಥಾನವೆಂದರ್ಥ.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವರಿವೋಧಾತಮೋ ಭವ ಮಂಹಿಷ್ಠೋ ವೃತ್ರಹಂತಮಃ ।
@@ -16182,6 +17247,8 @@ The all-beholding destroyer of Rakshasas has stepped upon his gold-smitten brith
 *English Translation.*
 
 Be the lavsh giver of wealth, most bounteous, the destroyer of enemies; bestow on us the riches of the affuent.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16213,6 +17280,8 @@ Be the lavsh giver of wealth, most bounteous, the destroyer of enemies; bestow o
 
 Come with food to the sacrifice of the mighty gods, and bring to us strength and sustenance.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಾಮಚ್ಛಾ ಚರಾಮಸಿ ತದಿದರ್ಥಂ ದಿವೇದಿವೇ ।
@@ -16242,6 +17311,8 @@ Come with food to the sacrifice of the mighty gods, and bring to us strength and
 *English Translation.*
 
 To you we come, O dropping (Soma), for you only is this our worship day by day, our prayers are to you, none other.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16273,6 +17344,8 @@ To you we come, O dropping (Soma), for you only is this our worship day by day, 
 
 The daughter of the Sun purifies your gushing streams through the eternal outstretched hair.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಮೀಮಣ್ವೀಃ ಸಮರ್ಯ ಆ ಗೃಭ್ಣಂತಿ ಯೋಷಣೋ ದಶ ।
@@ -16302,6 +17375,8 @@ The ten sister-fingers seize you in the sacrifice, on the final day (of the obla
 <!-- printed 583 -->
 *[ಅ. ೬. ಅ. ೭. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 583]*
 
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16333,6 +17408,8 @@ The fingers press the Soma, they squeeze it glittering like a water-skin ; its j
 *[584 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೧]*
 
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭೀಮಮಘ್ನ್ಯಾ ಉತ ಶ್ರೀಣಂತಿ ಧೇನವಃ ಶಿಶುಮ್ ।
@@ -16358,6 +17435,8 @@ The fingers press the Soma, they squeeze it glittering like a water-skin ; its j
 *English Translation.*
 
 The inviolable cows mingle this fresh Soma with their milk for Indra to drink.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16399,6 +17478,9 @@ In the exhilaration of this draught the hero Indra smites all his enemies and be
 *[586 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨]*
 
 ಸೋಮವು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪವಸ್ವ ಮೇಧಾತಿಥಿಃ ಎಂದು ಹೇಳಿರು ವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಗಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೨ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೧೮, ೧೯ ॥
@@ -16406,6 +17488,8 @@ In the exhilaration of this draught the hero Indra smites all his enemies and be
 ಋಷಿಃ—ಮೇಧಾತಿಥಿಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16437,6 +17521,8 @@ In the exhilaration of this draught the hero Indra smites all his enemies and be
 
 Flow on, Soma, seeking the gods, hastening on in your purifying course; enter Indra, O Indu, th e showerer.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ವಚ್ಯಸ್ವ ಮಹಿ ಪ್ಸರೋ ವೃಷೇಂದೋ ದ್ಯುಮ್ನವತ್ತಮಃ ।
@@ -16467,6 +17553,8 @@ O Indu, you, the mighty showerer (of blessings) most glorious upholder, send us 
 *[588 ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨.]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಧುಕ್ಷತ ಪ್ರಿಯಂ ಮಧು ಧಾರಾ ಸುತಸ್ಯ ವೇಧಸಃ ।
@@ -16492,6 +17580,8 @@ O Indu, you, the mighty showerer (of blessings) most glorious upholder, send us 
 *English Translation.*
 
 The stream of the effused creative Soma milks out the joy-giving ambrosia; the accomplisher of holy rites veils itself in the waters.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16523,6 +17613,8 @@ The stream of the effused creative Soma milks out the joy-giving ambrosia; the a
 
 (Soma), when you will veil yourself in the milk, the mighty streaming waters flow to you, the mighty one.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಮುದ್ರೋ ಅಪ್ಸು ಮಾಮೃಜೇ ವಿಷ್ಟಂಭೋ ಧರುಣೋ ದಿವಃ ।
@@ -16552,6 +17644,8 @@ The stream of the effused creative Soma milks out the joy-giving ambrosia; the a
 *English Translation.*
 
 The juice-distilling Soma, the sustainer, the supporter of heaven, is purified in the water,—favouring us, (it is poured) into the straining cloth.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16583,6 +17677,8 @@ The juice-distilling Soma, the sustainer, the supporter of heaven, is purified i
 
 The mighty golden-hued showerer of blessings utters a sound as it drops, beautiful as a friend; it shines (in the heavens) with the sun.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಗಿರಸ್ತ ಇಂದ ಓಜಸಾ ಮರ್ಮೃಜ್ಯಂತೇ ಅಪಸ್ಯುವಃ ।
@@ -16612,6 +17708,8 @@ The mighty golden-hued showerer of blessings utters a sound as it drops, beautif
 *English Translation.*
 
 O Indu, by your power the busy voices are hallowed which adorn you as you drop for our exhilaration.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16643,6 +17741,8 @@ O Indu, by your power the busy voices are hallowed which adorn you as you drop f
 
 We ask you for exhilaration, you the giver of the highest world to your foe-crushing worshipper,—great are your praises.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಸ್ಮಭ್ಯಮಿಂದವಿಂದ್ರಯುರ್ಮಧ್ವಃ ಪವಸ್ವ ಧಾರಯಾ ।
@@ -16673,6 +17773,8 @@ xxv 38
 <!-- printed 594 -->
 *[೫೯೪ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨]*
 
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16709,6 +17811,9 @@ Indu, you are the giver of cows, of children, of horses, and of food; you are th
 
 > ‘ಏಷ ದೇವಃ' ಇತಿ ದಶರ್ಚಂ ತೃತೀಯಂ ಸೂಕ್ತಮಾಜೀಗರ್ತೇಃ ಶುನಃಶೇಪಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ಅನುಕ್ರಾಂತಂ ಚ - ಏಷಃ ಶುನಃಶೇಪಃ' ಇತಿ । ಉಕ್ತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಏಷ ದೇವಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಮೂರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಶುನಃಶೇಪ ಆಜೀಗರ್ತಿಃ ಎಂಬುವನು ಋಷಿಯು ; ಪವಮಾನ ಸೋಮವು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ ಏಷ ಶುನಃಶೇಪ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೩ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೨೦, ೨೧ ॥
@@ -16716,6 +17821,8 @@ Indu, you are the giver of cows, of children, of horses, and of food; you are th
 ಋಷಿಃ—ಶುನಃಶೇಪಃ ॥
 ದೈವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16747,6 +17854,8 @@ Indu, you are the giver of cows, of children, of horses, and of food; you are th
 
 The divine immortal (Soma) hastens as a bird to settle on the sacrificial vessels.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ದೇವೋ ವಿಪಾ ಕೃತೋಽತಿ ಹ್ವರಾಂಸಿ ಧಾವತಿ ।
@@ -16776,6 +17885,8 @@ The divine immortal (Soma) hastens as a bird to settle on the sacrificial vessel
 *English Translation.*
 
 This divine ( Soma ), expressed by the fingers, and dropping inviolable, rushes against the enemies.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16807,6 +17918,8 @@ This divine (Soma), as it drops is adorned (with hymns) by the sacrifice-desirin
 *[598 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯ ಅ. ೧ ಸೂ. ೩]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ವಿಶ್ವಾನಿ ವಾರ್ಯಾ ಶೂರೋ ಯನ್ನಿವ ಸತ್ವಭಿಃ ।
@@ -16832,6 +17945,8 @@ This divine (Soma), as it drops is adorned (with hymns) by the sacrifice-desirin
 *English Translation.*
 
 This strong one, as it drops, seems to encompass all desirable things with its power and seeks to bestow them upon us.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16863,6 +17978,8 @@ This strong one, as it drops, seems to encompass all desirable things with its p
 
 This divine (Soma), as it drops, prepares its chariot (to come to us) ; it flings us our boons, it utters a sound.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ವಿಪ್ರೈರಭಿಷ್ಟುತೋಽಪೋ ದೇವೋ ವಿ ಗಾಹತೇ ।
@@ -16892,6 +18009,8 @@ This divine (Soma), as it drops, prepares its chariot (to come to us) ; it fling
 *English Translation.*
 
 This divine (Soma), praised by the priests and giving wealth to the worshipper, plunges into the waters.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -16923,6 +18042,8 @@ This divine (Soma), praised by the priests and giving wealth to the worshipper, 
 
 Making a sound as it drops in a continued stream, it rushes across the worlds into heaven.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ದಿವಂ ವ್ಯಾಸರತ್ತಿರೋ ರಜಾಂಸ್ಯಸ್ಪೃತಃ ।
@@ -16953,6 +18074,8 @@ Making a sound as it drops in a continued stream, it rushes across the worlds in
 
 As it drops, completing the sacrifice, it passes across the worlds inviolable to heaven.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಪ್ರತ್ನೇನ ಜನ್ಮನಾ ದೇವೋ ದೇವೇಭ್ಯಃ ಸುತಃ ।
@@ -16978,6 +18101,8 @@ As it drops, completing the sacrifice, it passes across the worlds inviolable to
 *English Translation.*
 
 Divine and expressed for the gods by an ancient birth, the golden-hued (Soma) flows into the straining-cloth.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17018,6 +18143,8 @@ Produced at our rite and producing abundant food, the Soma, efficacious in sacri
 <!-- printed 604 -->
 *[604 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೪]*
 
+## ಸೂಕ್ತ ೪ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೪
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೪ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೨೨, ೨೩ ।
@@ -17025,6 +18152,8 @@ Produced at our rite and producing abundant food, the Soma, efficacious in sacri
 ಋಷಿಃ—ಹಿರಣ್ಯಸ್ತೂಪಃ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17056,6 +18185,8 @@ Produced at our rite and producing abundant food, the Soma, efficacious in sacri
 
 Pure-dropping (Soma), bounteous food, welcome (the gods at our rite) and overcome (the demons) ; and make us happy.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸನಾ ಜ್ಯೋತಿಃ ಸನಾ ಸ್ವರ್ವಿಶ್ವಾ ಚ ಸೋಮ ಸೌಭಗಾ ।
@@ -17086,6 +18217,8 @@ Soma, give us brightness, give us heaven, give us all good things ; and make us 
 *[606 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೪]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸನಾ ದಕ್ಷಮುತ ಕ್ರತುಮಪ ಸೋಮ ಮೃಧೋ ಜಹಿ ।
@@ -17111,6 +18244,8 @@ Soma, give us brightness, give us heaven, give us all good things ; and make us 
 *English Translation.*
 
 Soma, give us strength, give us wisdom, drive away our enemies ; and make us happy.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17142,6 +18277,8 @@ Soma, give us strength, give us wisdom, drive away our enemies ; and make us hap
 
 Priests, press out the Soma for Indra to drink ; (O Soma), make us happy.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಸೂರ್ಯೇ ನ ಆ ಭಜ ತವ ಕ್ರತ್ವಾ ತವೋತಿಭಿಃ ।
@@ -17172,6 +18309,8 @@ Priests, press out the Soma for Indra to drink ; (O Soma), make us happy.
 
 ( O Soma ), by your power and your protections bring us to the sun, and make us happy.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತವ ಕ್ರತ್ವಾ ತವೋತಿಭಿರ್ಜ್ಯೋಕ್ಪಶ್ಯೇಮ ಸೂರ್ಯಮ್ ।
@@ -17201,6 +18340,8 @@ Priests, press out the Soma for Indra to drink ; (O Soma), make us happy.
 *English Translation.*
 
 By your wisdom and your protections may we long behold the sun ; and you make us happy.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17233,6 +18374,8 @@ xxv 39
 
 Bright-weaponed Soma, shower upon us wealth abundant for both worlds ; and make us happy.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭ್ಯರ್ಷಾನಪಚ್ಯುತೋ ರಯಿಂ ಸಮತ್ಸು ಸಾಸಹಿಃ ।
@@ -17263,6 +18406,8 @@ O you who are unvanquished in battle, smiter of enemies, shower wealth upon us, 
 *[ಮಂ. ೯. ಅ. ೨. ವ. ೧೩.] ಋಗ್ವೇದಸಂಹಿತಾ ೬೧೧]*
 
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಾಂ ಯಜ್ಞೈರವೀವೃಧನ್ಪವಮಾನ ವಿಧರ್ಮಣಿ ।
@@ -17288,6 +18433,8 @@ O you who are unvanquished in battle, smiter of enemies, shower wealth upon us, 
 *English Translation.*
 
 Pure-dropping (Soma), they glorify you with the holy rites for their own upholding ; make us happy.
+
+#### ಋಕ್ ೧೦
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17328,6 +18475,9 @@ Indu, bring to us varied wealth, abundant in horses and all-reaching ; and make 
 *[ಮಂ. ೯. ಅ. ೨. ವ. ೧೪] ಋಗ್ವೇದಸಂಹಿತಾ ೬೧೩]*
 
 ಅನುವಾದವು—ಸಮಿದ್ಧಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಐದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಹನ್ನೊಂದು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಆಸಿತಃ ಕಾಶ್ಯಪಃ ಎಂಬುವನು ಅಥವಾ ದೇವಲನೆಂಬುವನು ಋಷಿಯು. ಈ ಸೂಕ್ತದ ಎಂಟನೆಯ ಋಕ್ಕಿನಿಂದ ಮುಂದಿನ ನಾಲ್ಕು ಋಕ್ಕುಗಳು (೮-೧೧ ಋಕ್ಕುಗಳು) ಅನುಷ್ಟುಪ್ಛಂದಸ್ಕವು. ಉಳಿದ ಏಳು ಋಕ್ಕುಗಳೂ ಗಾಯತ್ರೀಛಂದಸ್ಕವು. ಇದು ಆಪ್ರೀಸೂಕ್ತವು. ಇದರಲ್ಲಿ ನರಾಶಂಸದೇವತೆಯು ಇರುವುದಿಲ್ಲ. ಉಳಿದ ಸಮಿದ್ಧಾಗ್ನಿ ಮೊದಲಾದ ಆಪ್ರೀಸೂಕ್ತದ ದೇವತೆಗಳೇ ಈ ಸೂಕ್ತದ ಹನ್ನೊಂದು ಋಕ್ಕುಗಳಿಗೂ ಕ್ರಮವಾಗಿ ದೇವತೆಗಳು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸಮಿದ್ಧ ಏಕಾದಶ ಕಾಶ್ಯಪೋಽಸಿತೋ ದೇವಲೋ ವಾ ವಿಂಶತಿಃ ಸೂಕ್ತಾನ್ಯಾದ್ಯಮಾಪ್ರಿಯಶ್ಚತುರನುಷ್ಟುಬಂತಂ ಎಂದು ಹೇಳಿರುವುದು. ಕಾಶ್ಯಪಗೋತ್ರದವರಿಗೆ ಇದು ಪವಮಾನಸಂಬಂಧವಾದ ಆಪ್ರೀಸೂಕ್ತವು. ಈ ವಿಷಯದಲ್ಲಿ—ಸಮಿದ್ಧೋ ಅದ್ಯೇತಿ ಸರ್ವೇಷಾಂ ಯಥರ್ಷಿ ವಾ ಎಂಬ ಸೂತ್ರದಲ್ಲಿ (ಆ. ೩-೨) ನಿವೃತಿ ಇರುವುದು.
+
+## ಸೂಕ್ತ ೫ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೫
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೫ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೨ ॥ ವರ್ಗ—೧೪, ೧೫ ।
@@ -17335,6 +18485,8 @@ Indu, bring to us varied wealth, abundant in horses and all-reaching ; and make 
 ಋಷಿಃ—ಆಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಆಪ್ರಿಯಃ । ಪವಮಾನಃ ಸೋಮಃ । (೧. ಇಧ್ಮಃ ಸಮಿದ್ಧೋಽಗ್ನಿರ್ವಾ । ೨. ತನೂನಪಾತ್ । ೩. ಇಳಃ । ೪. ಬರ್ಹಿಃ । ೫. ದೇವೀರ್ದ್ವಾರಃ । ೬. ಉಷಾಸಾನಕ್ತಾ । ೮. ದೈವ್ಯೌ ಹೋತಾರೌ ಪ್ರಚೇತಸೌ । ೮. ತಿಸ್ರೋ ದೇವ್ಯಃ ಸರಸ್ವತೀಳಾಭಾರತ್ಯಃ । ೯. ತ್ವಷ್ಟಾ । ೧೦. ವನಸ್ಪತಿಃ । ೧೧. ಸ್ವಾಹಾಕೃತಯಃ ॥
 ಛಂದಃ—೧-೭. ಗಾಯತ್ರೀ । ೮-೧೧. ಅನುಷ್ಟುಪ್ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17366,6 +18518,8 @@ Indu, bring to us varied wealth, abundant in horses and all-reaching ; and make 
 
 The pure-flowing (Soma' shines forth in its brightness, the universal lord,—the showerer of blessings, the rejoicer, uttering a loud sound.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತನೂನಪಾತ್ಪವಮಾನಃ ಶೃಂಗೇ ಶಿಶಾನೋ ಅರ್ಷತಿ ।
@@ -17395,6 +18549,8 @@ The pure-flowing (Soma' shines forth in its brightness, the universal lord,—th
 *English Translation.*
 
 The pure-flowing Tanunapat, rushes sharpening its splendour on the height and hastens through the sky.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17426,6 +18582,8 @@ The pure-flowing bright (Soma), the bounteous giver, worthy of all praise, shine
 *[616 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ.೧. ಸೂ ೫]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಬರ್ಹಿಃ ಪ್ರಾಚೀನಮೋಜಸಾ ಪವಮಾನ ಸ್ತೃಣನ್ಹರಿಃ ।
@@ -17451,6 +18609,8 @@ The pure-flowing bright (Soma), the bounteous giver, worthy of all praise, shine
 *English Translation.*
 
 The bright golden-hued pure-flowing one rushes in its might, strewing the sacred grass in the sacrifice with its points towards the east.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17482,6 +18642,8 @@ The bright golden-hued pure-flowing one rushes in its might, strewing the sacred
 
 The bright golden doors, praised by the priests together with the Soma, rise up from the vast horizon
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುಶಿಲ್ಪೇ ಬೃಹತೀ ಮಹೀ ಪವಮಾನೋ ವೃಷಣ್ಯತಿ ।
@@ -17511,6 +18673,8 @@ The bright golden doors, praised by the priests together with the Soma, rise up 
 *English Translation.*
 
 The pure-flowing (Soma) longs for the fair-formed wide-reaching mighty Night and Dawn not yet visible.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17542,6 +18706,8 @@ The pure-flowing (Soma) longs for the fair-formed wide-reaching mighty Night and
 
 I invoke the two divine priests, the two deities who behold men—
 the pure-flowing (Soma) is radiant and the showerer (of benefits).
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17575,6 +18741,8 @@ the pure-flowing (Soma) is radiant and the showerer (of benefits).
 May the three beautiful goddesses Bharati, Saraswati and mighty Ila
 come to this our offering of the Soma.
 
+#### ಋಕ್ ೯
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಷ್ಟಾರಮಗ್ರಜಾಂ ಗೋಪಾಂ ಪುರೋಯಾವಾನಮಾ ಹುವೇ ।
@@ -17605,6 +18773,8 @@ come to this our offering of the Soma.
 
 I invoke Twashtri, the first-born, the protector, the leader ; the golden-coloured pure-flowing Indu is Indra, the showerer, the lord of all creatures.
 
+#### ಋಕ್ ೧೦
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವನಸ್ಪತಿಂ ಪವಮಾನ ಮಧ್ವಾ ಸಮಂಗ್ಧಿ ಧಾರಯಾ ।
@@ -17634,6 +18804,8 @@ I invoke Twashtri, the first-born, the protector, the leader ; the golden-colour
 *English Translation.*
 
 Pure Soma, consecrate with your streaming ambrosia the green bright golden-hued Vanaspati with its thousand branches.
+
+#### ಋಕ್ ೧೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17670,6 +18842,9 @@ O all you gods, come together to the consecration of the Soma,—Vayu, Brihaspat
 
 > ‘ಮಂದ್ರಯಾ' ಇತಿ ನವರ್ಚಂ ಷಷ್ಠಂ ಸೂಕ್ತಂ ಕಾಶ್ಯಪಸ್ಯಾಸಿತಸ್ಯ ದೇವಲಸ್ಯ ವಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ ॥
 ಅನುವಾದವು—ಮಂದ್ರಯಾ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಆರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಅಸಿತಃ ಕಾಶ್ಯಪಃ ಅಥವಾ ದೇವಲ ಎಂಬುವನು ಋಷಿಯು ಪವಮಾನಸೋಮವು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು.
+
+## ಸೂಕ್ತ ೬ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೬
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೬ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೩೬, ೩೭ ।
@@ -17677,6 +18852,8 @@ O all you gods, come together to the consecration of the Soma,—Vayu, Brihaspat
 ಋಷಿ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17709,6 +18886,8 @@ O all you gods, come together to the consecration of the Soma,—Vayu, Brihaspat
 
 Soma, you are the showrer (of benefits); devoted to the gods, favourable to us, flow with your exhilarating stream into the woollen seive.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ತ್ಯಂ ಮದ್ಯಂ ಮದಮಿಂದವಿಂದ್ರ ಇತಿ ಕ್ಷರ ।
@@ -17738,6 +18917,8 @@ Soma, you are the showrer (of benefits); devoted to the gods, favourable to us, 
 *English Translation.*
 
 Indu, you, as sovereign, effuse that exhilarating juice, and pour forth vigorous steeds.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17770,6 +18951,8 @@ xxv 40
 *[626 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೬.]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅನು ದ್ರಪ್ಸಾಸ ಇಂದವ ಆಪೋ ನ ಪ್ರವತಾಸರನ್ ।
@@ -17795,6 +18978,8 @@ xxv 40
 *English Translation.*
 
 The quickly-falling drops, as they filter, follow Indra and reach him, like waters rushing down a declivity.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17826,6 +19011,8 @@ The quickly-falling drops, as they filter, follow Indra and reach him, like wate
 
 That which sporting in the wood and spurting beyond the sieve, the ten sisters press, as (men rub down) a strong horse.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ಗೋಭಿರ್ವೃಷಣಂ ರಸಂ ಮದಾಯ ದೇವವೀತಯೇ ।
@@ -17855,6 +19042,8 @@ That which sporting in the wood and spurting beyond the sieve, the ten sisters p
 *English Translation.*
 
 That desire-showering liquor, effused for the drink of the gods and for our exhilaration,—mix with milk for prowess in battle.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17886,6 +19075,8 @@ That desire-showering liquor, effused for the drink of the gods and for our exhi
 
 The divine Soma, when effused, flows to the divine Indra in a stream since its milk fattens him.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆತ್ಮಾ ಯಜ್ಞಸ್ಯ ರಂಹ್ಯಾ ಸುಷ್ವಾಣಃ ಪವತೇ ಸುತಃ ।
@@ -17915,6 +19106,8 @@ The divine Soma, when effused, flows to the divine Indra in a stream since its m
 *English Translation.*
 
 The soul of the sacrifice, Soma, flows ; with speed bringing blessings, and maintains his ancient seer-hood.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17951,6 +19144,9 @@ Most exciting (Soma), devoted to Indra, as you pour forth the exhilarating juice
 
 > ‘ಅಸೃಗ್ರಮ್' ಇತಿ ನವರ್ಚಂ ಸಪ್ತಮಂ ಸೂಕ್ತಮ್ । ' ಅಸೃಗ್ರಮ್' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಅಸಿತೋ ದೇವಲೋ ವರ್ಷಿಃ ॥ ತೌ ಚ ಕಶ್ಯಪಗೋತ್ರಜೌ' । ಗಾಯತ್ರಂ ಛಂದಃ । ಸೋಮಃ ಪವಮಾನೋ ದೇವತಾ । ಉಕ್ತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಅಸೃಗ್ರಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಏಳನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಅಸಿತಃ ಅಥವಾ ದೇವಲಃ ಎಂಬುವನು ಋಷಿಯು; ಇವರಿಬ್ಬರೂ ಕಾಶಪಗೋತ್ರೋದ್ಭವರು. ಪವಮಾನಸೋಮನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು, ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಅಸೃಗ್ರಂ ಎಂದು ಮೊದಲಾಗಿ ಹೇಳಿರುವುದು. ಸೂಕ್ತದ ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೭ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೭
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೭ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೩೮, ೩೯ ।
@@ -17958,6 +19154,8 @@ Most exciting (Soma), devoted to Indra, as you pour forth the exhilarating juice
 ಋಷಿ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -17988,6 +19186,8 @@ Most exciting (Soma), devoted to Indra, as you pour forth the exhilarating juice
 *English Translation.*
 
 The excellent streams (of the Soma), feeling a union with Indra, flow forth in the ceremony by the path of sacrifice.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18020,6 +19220,8 @@ The excellent streams (of the Soma), feeling a union with Indra, flow forth in t
 
 That which is to be praised as the oblation among oblations is immersed in the great (holy) waters, the stream of honey, the pre-eminet.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಯುಜೋ ವಾಚೋ ಅಗ್ರಿಯೋ ವೃಷಾವ ಚಕ್ರದದ್ವನೇ ।
@@ -18049,6 +19251,8 @@ That which is to be praised as the oblation among oblations is immersed in the g
 *English Translation.*
 
 The pre-eminent (Soma), the showerer of benefits, the truthful, the indestructible, utters continuous sounds. in the water, towards the sacrificial hall.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18080,6 +19284,8 @@ When the seer (Soma), wearing ample treasures, goes round the praises (of his wo
 *[ಅ. ೬ ಅ. ೭ ವ. ೨೯ ] ಋಗ್ವೇದಸಂಹಿತಾ ೬೩೫]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಮಾನೋ ಅಭಿ ಸ್ಪೃಧೋ ವಿಶೋ ರಾಜೇವ ಸೀದತಿ ।
@@ -18105,6 +19311,8 @@ When the seer (Soma), wearing ample treasures, goes round the praises (of his wo
 *English Translation.*
 
 When the priests excite it, the flowing Soma like a king destroys opposing (demons and) men.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18136,6 +19344,8 @@ When the priests excite it, the flowing Soma like a king destroys opposing (demo
 
 The green-tinted (Soma), dear to the gods, commingled with the water, sits down upon the woollen sieve, uttering a sound it is greeted by praise-
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವಾಯುಮಿಂದ್ರಮಶ್ವಿನಾ ಸಾಕಂ ಮದೇನ ಗಚ್ಛತಿ ।
@@ -18166,6 +19376,8 @@ The green-tinted (Soma), dear to the gods, commingled with the water, sits down 
 
 He who is assiduous in the functions of (providing and preparing) the Soma, goes with exhilaration to Vayu, Indra, and the Ashwins.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಮಿತ್ರಾವರುಣಾ ಭಗಂ ಮಧ್ವಃ ಪವಂತ ಊರ್ಮಯಃ ।
@@ -18195,6 +19407,8 @@ He who is assiduous in the functions of (providing and preparing) the Soma, goes
 *English Translation.*
 
 Streams of the sweet Soma flow to Mitra and Varuna and to Bhaga ; the worshippers knowing its (virtues are rewarded) with happiness.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18231,6 +19445,9 @@ Heaven and earth, for the acquisition of this exhilarating Soma food, win for us
 
 > ‘ಏತೇ ಸೋಮಾಃ' ಇತಿ ನವರ್ಚಮಷ್ಟಮಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ಅನುಕ್ರಾಂತಂ ಚ -- ಏತೇ ಸೋಮಾಃ ' ಇತಿ । ಉಕ್ತಃ ಸೂಕ್ತವಿನಿಯೋಗಃ । ಗ್ರಾವಸ್ತೋತ್ರೇ ಗಾಣಗಾರಿಮತೇನಾಭಿರೂಪಕರಣೇ ಸೋಮೇ ಮೃಜ್ಯಮಾನೇ ' ಮೃಜಂತಿ ತ್ವಾ  ಇತ್ಯೇಷಾ । ಸೂತ್ರಿತಂ ಚ- ಅಥಾಪರಮಭಿರೂಪಂ ಕುರ್ಯಾದಿತಿ ಗಾಣಗಾರಿರಾ ಪ್ಯಾಯಸ್ವ ಸಮೇತು ತ ಇತಿ ತಿಸ್ರೋ ಮೃಜಂತಿ ತ್ವಾ ದಶ ಕ್ಷಿಪಃ' (ಆಶ್ವ. ಶ್ರೌ. ೫.೧೨ ) ಇತಿ ॥
 ಅನುವಾದವು—ಏತೇಸೋಮಾಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎಂಟನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾ ಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಏತೇ ಸೋಮಾಃ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತದ ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ಗ್ರಾವಸ್ತೋತ್ರದಲ್ಲಿ ಗಾಣಗಾರಿ ಎಂಬ ಆಚಾರ್ಯರ ಮತಾನುಸಾರವಾಗಿ ಸೋಮಾಭಿರೂಪಕರಣದಲ್ಲಿ ಮೃಜಂತಿ ತ್ವಾ ಎಂಬ ನಾಲ್ಕನೆಯ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ಅಥಾಪರಮಭಿರೂಪಂ ಕುರ್ಯಾದಿತಿ ಗಾಣಗಾರಿರಾಪ್ಯಾಯಸ್ವ ಸಮೇತುಇತಿ ತಿಸ್ರೋ ಮೃಜಂತಿ ತ್ವಾ ದಶ ಕ್ಷಿಪಃ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫ ೧೨) ವ್ಯಕ್ತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೮ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೮
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೮ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೩೦, ೩೧ ।
@@ -18242,6 +19459,8 @@ Heaven and earth, for the acquisition of this exhilarating Soma food, win for us
 <!-- printed 640 -->
 *[640 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೮.]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18268,6 +19487,8 @@ Heaven and earth, for the acquisition of this exhilarating Soma food, win for us
 *English Translation.*
 
 These Soma juices destil the dear desire of Indra, increasing his vigour.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18298,6 +19519,8 @@ These Soma juices destil the dear desire of Indra, increasing his vigour.
 *English Translation.*
 
 Pure-flowing, filling the ladles, and proceeding to Vayu and the Ashwins, many they sustain our energy.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18330,6 +19553,8 @@ Pure-flowing, filling the ladles, and proceeding to Vayu and the Ashwins, many t
 
 Soma, pure-flowing, desired for the gratification of Indra, you impel him to sit in the place of sacrifice.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮೃಜಂತಿ ತ್ವಾ ದಶ ಕ್ಷಿಪೋ ಹಿನ್ವಂತಿ ಸಪ್ತ ಧೀತಯಃ ।
@@ -18359,6 +19584,8 @@ Soma, pure-flowing, desired for the gratification of Indra, you impel him to sit
 *English Translation.*
 
 The ten fingers strain you, the seven priests caress you, the worshippers gladden you.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18390,6 +19617,8 @@ The ten fingers strain you, the seven priests caress you, the worshippers gladde
 
 As you stream on the water and the woollen sieve, we wrap you up with milk for the exhilaration of the gods.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುನಾನಃ ಕಲಶೇಷ್ವಾ ವಸ್ತ್ರಾಣ್ಯರುಷೋ ಹರಿಃ ।
@@ -18420,6 +19649,8 @@ Purified in the pitchers, radiant, and green-tinted, the Soma puts on the raimen
 *[ಅ. ೬. ಅ. ೭. ವ. ೩೧.] ಋಗ್ವೇದಸಂಹಿತಾ 645]*
 
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮಘೋನ ಆ ಪವಸ್ವ ನೋ ಜಹಿ ವಿಶ್ವಾ ಅಪ ದ್ವಿಷಃ ।
@@ -18445,6 +19676,8 @@ Purified in the pitchers, radiant, and green-tinted, the Soma puts on the raimen
 *English Translation.*
 
 Flow to us, your wealthy (worshippers); destroy all our enemies Indu, enter your friend.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18475,6 +19708,8 @@ Flow to us, your wealthy (worshippers); destroy all our enemies Indu, enter your
 *English Translation.*
 
 Pour down rain from heaven, and abundance upon the earth ; uphold our strength, Soma, in battles.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18511,6 +19746,9 @@ Pour down rain from heaven, and abundance upon the earth ; uphold our strength, 
 
 > ‘ಪರಿ ಪ್ರಿಯಾ' ಇತಿ ನವರ್ಚಂ ನವಮಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ಪರಿ ಪ್ರಿಯಾ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಉಕ್ತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು ಪರಿಪ್ರಿಯಾ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಒಂಭತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತದ ಋಷಿದೇವತಾ ಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಇರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ ಪರಿ ಪ್ರಿಯಾ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ
+
+## ಸೂಕ್ತ ೯ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೯
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೯ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೭ । ವರ್ಗ—೩೨, ೩೩ ।
@@ -18522,6 +19760,8 @@ Pour down rain from heaven, and abundance upon the earth ; uphold our strength, 
 <!-- printed 648 -->
 *[648 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೯]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18548,6 +19788,8 @@ Pour down rain from heaven, and abundance upon the earth ; uphold our strength, 
 *English Translation.*
 
 The seer (Soma) having wise designs, when placed between the two boards and effused, proceeds to the stones which are most dear to heaven
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18579,6 +19821,8 @@ The seer (Soma) having wise designs, when placed between the two boards and effu
 
 Go forth in a most abundant stream, ample for his sustenance, to the guileless man. your owner who praises you.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ಸೂನುರ್ಮಾತರಾ ಶುಚಿರ್ಜಾತೋ ಜಾತೇ ಅರೋಚಯತ್ ।
@@ -18608,6 +19852,8 @@ Go forth in a most abundant stream, ample for his sustenance, to the guileless m
 *English Translation.*
 
 That mighly and pure son, when born, illumines his mighty parents (heaven and earth), the progenitors (of all things), the augmenters of the sacrifice.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18639,6 +19885,8 @@ That mighly and pure son, when born, illumines his mighty parents (heaven and ea
 
 Effused by the fingers, ( Soma ) gladdens the seven guileless rivers, who have magnified him one and undecaying.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಾ ಅಭಿ ಸಂತಮಸ್ತೃತಂ ಮಹೇ ಯುವಾನಮಾ ದಧುಃ ।
@@ -18668,6 +19916,8 @@ Effused by the fingers, ( Soma ) gladdens the seven guileless rivers, who have m
 *English Translation.*
 
 Indra, at your worship, they (the fingers) have provided the present indestructible, and ever-youthful Indu for your solemn service.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18699,6 +19949,8 @@ Indra, at your worship, they (the fingers) have provided the present indestructi
 
 The immoratal bearer (of the oblation), the conveyer (of content to the gods), beholds the seven rivers,—full as a well, he has satisfied the divine streams.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅವಾ ಕಲ್ಪೇಷು ನಃ ಪುಮಸ್ತಮಾಂಸಿ ಸೋಮ ಯೋಧ್ಯಾ ।
@@ -18729,6 +19981,8 @@ Protect us, manly Soma, in the days of sacrifice; purifier. destroy those powers
 *[654 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೯]*
 
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನೂ ನವ್ಯಸೇ ನವೀಯಸೇ ಸೂಕ್ತಾಯ ಸಾಧಯಾ ಪಥಃ ।
@@ -18754,6 +20008,8 @@ Protect us, manly Soma, in the days of sacrifice; purifier. destroy those powers
 *English Translation.*
 
 Quickly speed on the road for our new praiseworthy hymn; as of old display your radiance.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18795,6 +20051,9 @@ Purifier (Soma), grant us abundant food with male offspring, and cattle and hors
 *[656 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧೦. ಸೂ. ೧೦]*
 
 ಇರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸ್ವಾನಾಸಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೦ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೦
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೦ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೭ ॥ ವರ್ಗ—೩೪, ೩೫।
@@ -18802,6 +20061,8 @@ Purifier (Soma), grant us abundant food with male offspring, and cattle and hors
 ಋಷಿ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18832,6 +20093,8 @@ Purifier (Soma), grant us abundant food with male offspring, and cattle and hors
 *English Translation.*
 
 Longing for food the Soma-juices, uttering a sound like chariots or like horses, have come for the sake of riches.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18864,6 +20127,8 @@ xxv. 42
 
 Coming like chariots (to the sacrifice), they are upheld in the arms (of the priests) as burdens (in the arms) oflabourers.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ರಾಜಾನೋ ನ ಪ್ರಶಸ್ತಿಭಿಃ ಸೋಮಾಸೋ ಗೋಭಿರಂಜತೇ ।
@@ -18894,6 +20159,8 @@ The libations are annointed with milk as kings with praises, and (tended) as a s
 *[ಅ. ೬. ಅ. ೭. ವ. ೩೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 659]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಿ ಸುವಾನಾಸ ಇಂದವೋ ಮದಾಯ ಬರ್ಹಣಾ ಗಿರಾ ।
@@ -18919,6 +20186,8 @@ The libations are annointed with milk as kings with praises, and (tended) as a s
 *English Translation.*
 
 The Soma-juices, when poured forth, are effused with loud praise, and proceed in a stream to excite exhilaration.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -18950,6 +20219,8 @@ The Soma-juices, when poured forth, are effused with loud praise, and proceed in
 
 The beverages of Vivaswat and producing the glory of the dawn, the issuing juices spread their sound.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪ ದ್ವಾರಾ ಮತೀನಾಂ ಪ್ರತ್ನಾ ಋಣ್ವಂತಿ ಕಾರವಃ ।
@@ -18979,6 +20250,8 @@ The beverages of Vivaswat and producing the glory of the dawn, the issuing juice
 *English Translation.*
 
 The old makers of hymns, men the offerers of the Soma, throw open the doors (of the sacrifice).
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19010,6 +20283,8 @@ The old makers of hymns, men the offerers of the Soma, throw open the doors (of 
 
 The seven associated ministers like so many kinsmen filling the receptacle of the single (Soma), sit down (at the sacrifice).
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಾಭಾ ನಾಭಿಂ ನ ಆ ದದೇ ಚಕ್ಷುಶ್ಚಿತ್ಸೂರ್ಯೇ ಸಚಾ ।
@@ -19039,6 +20314,8 @@ The seven associated ministers like so many kinsmen filling the receptacle of th
 *English Translation.*
 
 I take into my navel the navel of the sacrifice, my eye becomes associated with the sun, I fill the offspring of the sage.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19075,6 +20352,9 @@ The powerful (Indra) looks with the eye of his own resplendent self on the accep
 
 > ‘ ಉಪಾಸ್ಮೈ ' ಇತಿ ನವರ್ಚಮೇಕಾದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ ।  ಉಪಾಸ್ಮೈ  ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಉಕ್ತಃ ಸೂಕ್ತವಿನಿಯೋಗಃ । ಅಭಿಷ್ಟವೇ ಘರ್ಮದುಘಾವತ್ಸೇಽಪನೀಯಮಾನೇ 'ನಮಸೇದುಪ' ಇತ್ಯೇಷಾ । ಸೂತ್ರಿತಂ ಚ-’ ನಮಸೇದುಪ ಸೀದತ ಸಂಜಾನಾನಾ ಉಪ ಸೀದನ್ನಭಿಜ್ಞು' (ಆಶ್ವ. ಶ್ರೌ. ೪.೭ ) ಇತಿ ॥
 ಅನುವಾದವು—ಉಪಾಸ್ಮೈ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹನ್ನೊಂದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾ ಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಇರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಉಪಾಸ್ಮೈ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ. ಅಭಿಷ್ವವದಲ್ಲಿ ಘರ್ಮದುಘಕ್ಕಾಗಿ ಗೋದೋಹನ ಕಾಲದಲ್ಲಿ ಕರುವನ್ನು ಬಿಡುಸುವಾಗ ನಮುಸೇದುಷ ಎಂಬ ಆರನೆಯ ಋಕ್ಕನ್ನು ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನ ಶ್ರೌತಸೂತ್ರದ—ನಮುಸೇದುಷ ಸೀದತ ಸಂಜಾನಾನಾ ಉಪ ಸೀದನ್ನಭಿಜ್ಞು ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೪-೭) ನಿವೃತವಾಗಿರುವುದು.
+
+## ಸೂಕ್ತ ೧೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೧
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೧ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೨ । ವರ್ಗ—೩೩, ೩೪ ।
@@ -19082,6 +20362,8 @@ The powerful (Indra) looks with the eye of his own resplendent self on the accep
 ಋಷಿ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದೇ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19113,6 +20395,8 @@ The powerful (Indra) looks with the eye of his own resplendent self on the accep
 
 Sing, leaders of rites, to this pure-flowing Indu, who is desi offering worship to gods.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ತೇ ಮಧುನಾ ಪಯೋಽಥರ್ವಾಣೋ ಅಶಿಶ್ರಯುಃ ।
@@ -19142,6 +20426,8 @@ Sing, leaders of rites, to this pure-flowing Indu, who is desi offering worship 
 *English Translation.*
 
 The Atharvans have mixed with sweet milk for the deity ( Indra ) your divine and god-devoted ( juice ).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19174,6 +20460,8 @@ The Atharvans have mixed with sweet milk for the deity ( Indra ) your divine and
 
 Radiant (Soma), pour prosperity upon our cattle, upon our people, upon our horses, and upon our plants.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಬಭ್ರವೇ ನು ಸ್ವತವಸೇಽರುಣಾಯ ದಿವಿಸ್ಪೃಶೇ ।
@@ -19203,6 +20491,8 @@ Radiant (Soma), pour prosperity upon our cattle, upon our people, upon our horse
 *English Translation.*
 
 Recite praises to the brown-coloured self-vigorous red heaven-touching Soma.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19234,6 +20524,8 @@ Purify the Soma which has been effused by the stones whirled by the hands ; mix 
 *[ಅ. ೬. ಅ. ೭. ವ. ೩೭. ] ಋಗ್ವೇದಸಂಹಿತಾ ೬೬೯]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಮಸೇದುಪ ಸೀದತ ದಧ್ನೇದಭಿ ಶ್ರೀಣೀತನ ।
@@ -19259,6 +20551,8 @@ Purify the Soma which has been effused by the stones whirled by the hands ; mix 
 *English Translation.*
 
 Approach with reverence, mix (the libation) with the curds. offer the Soma to Indra.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19290,6 +20584,8 @@ Approach with reverence, mix (the libation) with the curds. offer the Soma to In
 
 Soma, slayer of our enemies, the wise one, the fulfiller of the desires of the gods, shed prosperity on our cattle.
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಾಯ ಸೋಮ ಪಾತವೇ ಮದಾಯ ಪರಿ ಷಿಚ್ಯಸೇ ।
@@ -19319,6 +20615,8 @@ Soma, slayer of our enemies, the wise one, the fulfiller of the desires of the g
 *English Translation.*
 
 Soma, you are cognizant of the mind, lord of the mind, you are poured forth for Indra to drink for his exhilaration.
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19356,6 +20654,9 @@ Pure-dropping Soma, grant us wealth with excellent male offspring, - grant it to
 
 > ‘ಸೋಮಾ ಅಸೃಗ್ರಮ್' ಇತಿ ನವರ್ಚಂ ದ್ವಾದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾಯಾಃ ಪೂರ್ವವತ್ । ‘ಸೋಮಾ ಅಸೃಗ್ರಮ್' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಉಕ್ತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಸೋಮಾ ಅಸೃಗ್ರಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹನ್ನೆರಡನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಒಂಭತ್ತು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಇರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸೋಮಾ ಅಸೃಗ್ರಂ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೨
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೧೨ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೨ ॥ ವರ್ಗ—೩೮, ೩೯ ।
@@ -19363,6 +20664,8 @@ Pure-dropping Soma, grant us wealth with excellent male offspring, - grant it to
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19393,6 +20696,8 @@ Pure-dropping Soma, grant us wealth with excellent male offspring, - grant it to
 *English Translation.*
 
 The most sweet-flavoured Soma-libations are poured forth to Indra in the hall of sacrifice.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19425,6 +20730,8 @@ The most sweet-flavoured Soma-libations are poured forth to Indra in the hall of
 
 The wise (priests) call upon Indra to drink the Soma as the mother cows low to their calves.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಮದಚ್ಯುತ್ಕ್ಷೇತಿ ಸಾದನೇ ಸಿಂಧೋರೂರ್ಮಾ ವಿಪಶ್ಚಿತ್ ।
@@ -19454,6 +20761,8 @@ The wise (priests) call upon Indra to drink the Soma as the mother cows low to t
 *English Translation.*
 
 The wise Soma, the bestower of exhilaration, dwells in the hall of (sacrifice), mixed with the waves of the river to a chant in the middle tone.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19485,6 +20794,8 @@ The wise Soma, the bestower of exhilaration, dwells in the hall of (sacrifice), 
 
 Soma, the observant, who is the wise seer, is worshipped in the navel of the sky, the woollen filter.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯಃ ಸೋಮಃ ಕಲಶೇಷ್ವಾಁ ಅಂತಃ ಪವಿತ್ರ ಆಹಿತಃ ।
@@ -19515,6 +20826,8 @@ Indu has embraced that Soma which is collected in the ewers and has been passed 
 *[ಅ. ೬. ಅ. ೭. ವ. ೩೯] ಋಗ್ವೇದಸಂಹಿತಾ ೬೭೭]*
 
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ವಾಚಮಿಂದುರಿಷ್ಯತಿ ಸಮುದ್ರಸ್ಯಾಧಿ ವಿಷ್ಟಪಿ ।
@@ -19540,6 +20853,8 @@ Indu has embraced that Soma which is collected in the ewers and has been passed 
 *English Translation.*
 
 Indu emits a sound, abiding in the firmament of the sky, and delighting the nectar-shedding cloud.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19571,6 +20886,8 @@ Indu emits a sound, abiding in the firmament of the sky, and delighting the nect
 
 Soma, whose praise is eternal, the lord of forests, the shedder of nectar and rejoicing the generations of men, (is present) in the midst of our sacred rites·
 
+#### ಋಕ್ ೮
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಪ್ರಿಯಾ ದಿವಸ್ಪದಾ ಸೋಮೋ ಹಿನ್ವಾನೋ ಅರ್ಷತಿ ।
@@ -19600,6 +20917,8 @@ Soma, whose praise is eternal, the lord of forests, the shedder of nectar and re
 *English Translation.*
 
 The sage Soma, urged from heaven, flows in a stream to the beloved abodes of his devout (worshipper)·
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19671,6 +20990,8 @@ Purifying Indu, bestow upon us wealth of a thousand radiances excellent in its n
 <!-- printed 682 -->
 *[೬೮೨ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯ ಅ. ೧ ಸೂ. ೧೩]*
 
+## ಸೂಕ್ತ ೧೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೩
 ಮಂಡಲ—೯ । ಅನುವಾಕ— ೧। ಸೂಕ್ತ—೧೩ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೧, ೨ ॥
@@ -19678,6 +20999,8 @@ Purifying Indu, bestow upon us wealth of a thousand radiances excellent in its n
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19713,6 +21036,8 @@ The purifying Soma, flowing in a thousand streams and passing the woollen filter
 
 ಸಹಸ್ರಧಾರಃ ಅತ್ಯವಿಃ—ಸೋಮಲತೆಗಳನ್ನು ಕಲ್ಲಿನಿಂದ ಕುಟ್ಟಿ ರಸವನ್ನು ತೆಗೆಯುವಾಗ ರಸವು ನಾನಾ ಕಡೆಗಳಿಂದ ಜಿನುಗುವುದು. ಆ ರಸದಲ್ಲಿ ಲತೆಗಳ ಸಿಪ್ಪೆಗಳೇ ಮುಂತಾದವುಗಳಿರುವುದರಿಂದ ಪಾನಮಾಡಲು ಅನುಕೂಲವಾಗುವಂತೆ ಅದನ್ನು ಕುರಿಯ ಉಣ್ಣೆಯ ವಸ್ತ್ರದಿಂದ ಅಥವಾ ದಶಾಪವಿತ್ರದಿಂದ ಅಥವಾ ಹತ್ತು ಬೆರಳುಗಳಿಂದ ಶೋಧಿಸುವರು. ಶೋಧನೆಮಾಡಿದಮೇಲೆ ಯಜ್ಞದಲ್ಲಿ ಇಂದ್ರ ವಾಯುಗಳನ್ನುದ್ದೇಶಿಸಿ ಅರ್ಪಿಸುವುದಕ್ಕಾಗಿ ಸೋಮರಸವನ್ನು ತುಂಬಿಡುವ ದ್ರೋಣಕಲಶ, ಆಧವನೀಯ, ಪೂತಭೃತ್ ಎಂಬ ಸೋಮಸಂಗ್ರಹಣ ಪಾತ್ರೆಗಳಲ್ಲಿ ಶೇಖರಿಸುವರು. ಇದನ್ನೇ ಈ ಋಕ್ಕಿನಲ್ಲಿ ವರ್ಣಿಸಲಾಗಿದೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಮಾನಮವಸ್ಯವೋ ವಿಪ್ರಮಭಿ ಪ್ರ ಗಾಯತ ।
@@ -19742,6 +21067,8 @@ The purifying Soma, flowing in a thousand streams and passing the woollen filter
 *English Translation.*
 
 Sing aloud, you who are desirous of (divine) protection, to the purifying wise Soma, effused for the beverage of the gods.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19773,6 +21100,8 @@ Sing aloud, you who are desirous of (divine) protection, to the purifying wise S
 
 The Soma-juices flow for the attainment of food,—giving abundance of strength and hymned (to become) the beverage of the gods.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉತ ನೋ ವಾಜಸಾತಯೇ ಪವಸ್ವ ಬೃಹತೀರಿಷಃ ।
@@ -19803,6 +21132,8 @@ The Soma-juices flow for the attainment of food,—giving abundance of strength 
 
 You, Indu, for our attainment of food pour forth obundant streams, and splendid and excellent vigour.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತೇ ನಃ ಸಹಸ್ರಿಣಂ ರಯಿಂ ಪವಂತಾಮಾ ಸುವೀರ್ಯಮ್ ।
@@ -19832,6 +21163,8 @@ May those divine libations, when effused, bring to us thousand-fold wealth and e
 <!-- printed 687 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೨.] ಋಗ್ವೇದಸಂಹಿತಾ ೬೮೭]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19867,6 +21200,8 @@ Like horses urged to battle by their drivers, the swift-flowing juices hasten th
 
 ಅವ್ಯಂ ವಾರಂ—ಅವಿ ಎಂದರೆ ಹೆಣ್ಣು ಕುರಿ ಅಥವಾ ಕುರಿ; ಅವ್ಯಂ ಎಂದರೆ ಕುರಿಯ ಸಂಬಂಧವಾದ ಉಣ್ಣೆಯು. ಈ ಉಣ್ಣೆಯಿಂದ ನಿರ್ಮಿತವಾದ ಬಟ್ಟೆಯನ್ನು ಒಂದು ಪಾತ್ರೆಯಮೇಲೆ ಹೊದಿಸಿ ಅದರಮೇಲೆ ಲತೆಯಿಂದ ಹಿಂಡಿದ ಸೋಮರಸವನ್ನು ಸುರಿಯುವರು. ಆ ರಸದಲ್ಲಿ ಸೇರಿಕೊಂಡಿರುವ ಸಿಪ್ಪೆ ಮುಂತಾದವು ಅದರಿಂದ ಶೋಧಿಸಲ್ಪಟ್ಟು ತಿಳಿಯಾಗಿಯೂ ಶುದ್ಧವಾಗಿಯೂ ಇರುವ ಸೋಮರಸವು ಪಾತ್ರೆಯಲ್ಲಿ ಬಂದು ನಿಲ್ಲುವುದು. ಕಬ್ಬಿನಿಂದ ಜಜ್ಜಿ ತೆಗೆಯುವ ರಸವನ್ನು ಬಟ್ಟೆಯಿಂದ ಶೋಧಿಸುವಂತೆ ಎಂದು ತಿಳಿಯಬೇಕು.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಾಶ್ರಾ ಅರ್ಷಂತೀಂದವೋಽಭಿ ವತ್ಸಂ ನ ಧೇನವಃ ।
@@ -19896,6 +21231,8 @@ Like horses urged to battle by their drivers, the swift-flowing juices hasten th
 *English Translation.*
 
 Making a loud noise, the libations flow (to the vessel) like cows low-ing to their calves; they are held in the arms (of the priests).
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19927,6 +21264,8 @@ xxv 44
 <!-- printed 690 -->
 *[690 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯ ಅ. ೧ ಸೂ. ೧೩]*
 
+
+#### ಋಕ್ ೯
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -19963,6 +21302,9 @@ Pure (libations) beholding all things and destroying those who wor-ship not, sit
 
 > ‘ಪರಿ ಪ್ರ' ಇತ್ಯಷ್ಟರ್ಚಂ ಚತುರ್ದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದಿ ಪೂರ್ವವತ್ । ಪರಿ ಪ್ರಾಷ್ಟೌ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪರಿ ಪ್ರ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನಾಲ್ಕನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಎಂಟು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ, ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪರಿ ಪ್ರಾಷ್ಟಾ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೪ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೪
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೧೪ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೩, ೪ ॥
@@ -19970,6 +21312,8 @@ Pure (libations) beholding all things and destroying those who wor-ship not, sit
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20006,6 +21350,8 @@ The wise (Soma) flows widely round, betaking itself to the waves of the river, a
 ಸಿಂಧೋಃ ಊರ್ಮೌ—ನದಿಯ ಅಲೆಗಳಂತೆ ಹಿತಕರವಾದ ಶಬ್ದವನ್ನುಂಟುಮಾಡುತ್ತಾ ಅಥವಾ ವಸತೀವರೀ ಎಂಬ ಪಾತ್ರೆಯಲ್ಲಿರುವ ಉದಕದಿಂದ ಮಿಶ್ರಿತವಾದ.
 ಪುರುಸ್ಪೃಹಂ—ಅನೇಕರಿಂದ ಅಪೇಕ್ಷಿಸಲ್ಪಡುವ ; ಸೋಮಪಾನಾಸಕ್ತರಾದ ಜನರು ಸೋಮರಸವು ಜಳಜಳನೆ ಶಬ್ದಮಾಡುತ್ತಾ ಹರಿಯುವುದನ್ನು ಕುತೂಹಲದಿಂದಲೂ ಆಸಕ್ತಿಯಿಂದಲೂ ನೋಡುತ್ತಾರೆ. ಆದ್ದರಿಂದ ಈ ಹಿತಕರವಾದ ಶಬ್ದವು ಸೋಮಪಾನಮಾಡುವವರಿಗೆ ಹರ್ಷದಾಯಕವಾಗಿರುತ್ತದೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಗಿರಾ ಯದೀ ಸಬಂಧವಃ ಪಂಚ ವ್ರಾತಾ ಅಪಸ್ಯವಃ ।
@@ -20040,6 +21386,8 @@ When the five kindred sacrificing races, desirous of accomplishing rites, honour
 
 ಪಂಚ ವ್ರಾತಾಃ—ಪಂಚಜನರು ಬ್ರಾಹ್ಮಣಾದಿ ಚತುರ್ವರ್ಣದವರೂ ನಿಷಾದರೂ ಸೇರಿ ಆಗುವ ಐದುವಿಧ ಜನರು. ಈ ಪಂಚಜನರ ವಿಷಯದಲ್ಲಿ ವಿಸ್ತಾರವಾದ ವಿವರಣೆಯನ್ನೂ ಯಾಸ್ಕರ ನಿರ್ವಚನವನ್ನೂ ನಾವು ಹಿಂದೆ ಅನೇಕಸಂದರ್ಭಗಳಲ್ಲಿ ವಿವರಿಸಿದೇವೆ.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆದಸ್ಯ ಶುಷ್ಮಿಣೋ ರಸೇ ವಿಶ್ವೇ ದೇವಾ ಅಮತ್ಸತ ।
@@ -20070,6 +21418,8 @@ When the five kindred sacrificing races, desirous of accomplishing rites, honour
 
 Then all the gods rejoice in the juice of this powerful ( libation ), when it is enveloped with milk and curds.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ನಿರಿಣಾನೋ ವಿ ಧಾವತಿ ಜಹಚ್ಛರ್ಯಾಣಿ ತಾನ್ವಾ ।
@@ -20099,6 +21449,8 @@ Then all the gods rejoice in the juice of this powerful ( libation ), when it is
 *English Translation.*
 
 Descending from filters it hastens (into the vessel), and passing through the cloth's interstices, it becomes united in this (sacrifice) with its friend (Indra).
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20134,6 +21486,8 @@ He who is rubbed down by the grandchildren of the sacrificer like a handsome you
 
 ಈ ಋಕ್ಕಿನಲ್ಲಿ ಸೋಮರಸಕ್ಕೆ ಹಾಲು ಅಥವಾ ಮೊಸರನ್ನು ಮಿಶ್ರಮಾಡುವ ಕಾರ್ಯವನ್ನು ಕುದುರೆಯನ್ನು ಕೈಬೆರಳುಗಳಿಂದ ಮಾಲೀಸುಮಾಡುವ ಕೆಲಸಕ್ಕೆ ಹೋಲಿಸಿದೆ. ಕುದುರೆಯನ್ನು ಪ್ರೀತಿಯಿಂದ ಮಾಲೀಸುಮಾಡುವಂತೆ ಸೋಮರಸಕ್ಕೆ ಹಾಲು ಮೊಸರನ್ನು ಸೇರಿಸಿ ರುಚಿಕರವಾಗುವಂತೆ ಮಾಡುವರು. ಮತ್ತು ಬೆರಳುಗಳನ್ನು ಯಜಮಾನರ ಮೊಮ್ಮಕ್ಕಳೆಂದು ಇಲ್ಲಿ ವರ್ಣಿಸಿದೆ. ಹೇಗೆಂದರೆ ಯಜಮಾನರ ಹಸ್ತಗಳು ಶರೀರದ ಒಂದು ಭಾಗವಾದ್ದರಿಂದ ಅವುಗಳು ಯಜಮಾನರ ಪುತ್ರರೆಂದೂ, ಬೆರಳುಗಳು ಹಸ್ತಗಳ ಭಾಗವಾದುದರಿಂದ ಬೆರಳುಗಳು ಹಸ್ತಗಳ ಪುತ್ರರೆಂದೂ ಅಥವಾ ಯಜಮಾನರ ಮೊಮ್ಮಕ್ಕಳೆಂದೂ ಋಷಿಯು ಪ್ರಕಾರಾಂತರವಾಗಿ ಇಲ್ಲಿ ವರ್ಣಿಸಿರುವನು.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅತಿ ಶ್ರಿತೀ ತಿರಶ್ಚತಾ ಗವ್ಯಾ ಜಿಗಾತ್ಯಣ್ವ್ಯಾ ।
@@ -20163,6 +21517,8 @@ He who is rubbed down by the grandchildren of the sacrificer like a handsome you
 *English Translation.*
 
 Expressed by the fingers, he proceeds obliquely to the produce of the cow to mix with it ; it utters a sound which ( the worshipper ) recognizes.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20197,6 +21553,8 @@ The fingers combine expressing the lord of food. and they grasp the back of the 
 *ವಿಶೇಷವಿಷಯಗಳು*
 
 ಕೈಬೆರಳುಗಳನ್ನು ಅಡ್ಡಡ್ಡಲಾಗಿ ಸೇರಿಸಿ ಪಂದರಿಯಂತೆಮಾಡಿ ಅದರಿಂದ ಸೋಮುರಸವನ್ನು ಸೋಸುವುದನ್ನೂ ಜಜ್ಜಿದ ಲತೆಗಳನ್ನು ಹಿಂಡಿ ಅದರಲ್ಲಿರುವ ರಸವನ್ನು ತೆಗೆಯುವುದಕ್ಕಾಗಿ ಅವುಗಳನ್ನು ಕೈಯಲ್ಲಿ ಹಿಡಿಯುವುದನ್ನೂ ಇಲ್ಲಿ ವರ್ಣಿಸಲಾಗಿದೆ.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20234,6 +21592,9 @@ Soma, you hold all the treasures of heaven and earth ; come favourably disposed 
 
 > ‘ಏಷ ಧಿಯಾ' ಇತ್ಯಷ್ಟರ್ಚಂ ಪಂಚದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ಏಷ ಧಿಯಾ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಏಷ ಧಿಯಾ ಎಂಬ ಈ ಸೂಕ್ತವು. ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನೈದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಎಂಟು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತದ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ ಏಷ ಧಿಯಾ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೫ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೫
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೧೫ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೫ ॥
@@ -20245,6 +21606,8 @@ Soma, you hold all the treasures of heaven and earth ; come favourably disposed 
 <!-- printed 700 -->
 *[700 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ.೧. ಸೂ. ೧೩]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20277,6 +21640,8 @@ This heroic Soma expressed by the fingers proceeds by the sacrifice, hastening w
 *[ಅ ೬. ಅ. ೮. ವ. ೫.] ಋಗ್ವೇದಸಂಹಿತಾ 701]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಪುರೂ ಧಿಯಾಯತೇ ಬೃಹತೇ ದೇವತಾತಯೇ ।
@@ -20302,6 +21667,8 @@ This heroic Soma expressed by the fingers proceeds by the sacrifice, hastening w
 *English Translation.*
 
 This Soma engages in many holy rites for the great sacrifice where the immortals sit.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20341,6 +21708,8 @@ Placed (in the cart) he is brought by a brilliant path, when the offerers of the
 *[ಅ. ೬. ಅ. ೮. ವ. ೫] ಋಗ್ವೇದಸಂಹಿತಾ 703]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಶೃಂಗಾಣಿ ದೋಧುವಚ್ಛಿಶೀತೇ ಯೂಥ್ಯೋ ವೃಷಾ ।
@@ -20366,6 +21735,8 @@ Placed (in the cart) he is brought by a brilliant path, when the offerers of the
 *English Translation.*
 
 He tosses his horns as a bull, the lord of the herd, sharpens his,— bearing treasures (for us) by his might.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20397,6 +21768,8 @@ He tosses his horns as a bull, the lord of the herd, sharpens his,— bearing tr
 
 He proceeds along impetous with golden brilliant rays, the lord of streams.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ವಸೂನಿ ಪಿಬ್ದನಾ ಪರುಷಾ ಯಯಿವಾಁ ಅತಿ ।
@@ -20426,6 +21799,8 @@ He proceeds along impetous with golden brilliant rays, the lord of streams.
 *English Translation.*
 
 Overpowering at the juncture of time the discomfited concealers (the Rakshasas), he descends upon those doomed to destruction.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20458,6 +21833,8 @@ xxv. 45
 *English Translation.*
 
 The priests express into the vessels this juice which is to be purified, the bestower of abundant food.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20499,6 +21876,9 @@ The ten fingers, the seven priests, express this (juice)-well-weaponed, and yiel
 
 > ‘ ಪ್ರ ತೇ ಸೋತಾರಃ' ಇತ್ಯಷ್ಟರ್ಚಂ ಷೋಡಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಪ್ರ ತೇ ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಪ್ರ ತೇ ಸೋತಾರಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನಾರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಎಂಟು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತದ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಇರುವವು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ತೇ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೬ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೬
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೬ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೬ ॥
@@ -20510,6 +21890,8 @@ The ten fingers, the seven priests, express this (juice)-well-weaponed, and yiel
 <!-- printed 708 -->
 *[708 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೧೬]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20541,6 +21923,8 @@ They who express you, the juice of heaven and earth, do it for the foe-destroyin
 *[ಅ. ೬ ಅ. ೮. ವ. ೬.] ಋಗ್ವೇದಸಂಹಿತಾ 709]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಕ್ರತ್ವಾ ದಕ್ಷಸ್ಯ ರಥ್ಯಮಪೋ ವಸಾನಮಂಧಸಾ ।
@@ -20566,6 +21950,8 @@ They who express you, the juice of heaven and earth, do it for the foe-destroyin
 *English Translation.*
 
 In pious rite by our fingers we mix with the milk ( the Soma ), the bringer of strength, the sender of cows, who envelopes the water.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20597,6 +21983,8 @@ In pious rite by our fingers we mix with the milk ( the Soma ), the bringer of s
 
 Cast into the filtering cloth the unassailable invincible (Soma), abiding in the waters (of the firmament) ; purify it for the drinking of Indra.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಪುನಾನಸ್ಯ ಚೇತಸಾ ಸೋಮಃ ಪವಿತ್ರೇ ಅರ್ಷತಿ ।
@@ -20627,6 +22015,8 @@ Cast into the filtering cloth the unassailable invincible (Soma), abiding in the
 
 The Soma of him who is purified by worship flows upon the filter and settles in the place common with the ceremony.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ತ್ವಾ ನಮೋಭಿರಿಂದವ ಇಂದ್ರ ಸೋಮಾ ಅಸೃಕ್ಷತ ।
@@ -20656,6 +22046,8 @@ The Soma of him who is purified by worship flows upon the filter and settles in 
 *English Translation.*
 
 The Soma juices flow to you, Indra, with praises, giving you vigour for the great conflict.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20688,6 +22080,8 @@ The Soma juices flow to you, Indra, with praises, giving you vigour for the grea
 
 Purified in his woollen robe, and attaining all honours, he stands as a hero amidst the cows.
 
+#### ಋಕ್ ೭
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದಿವೋ ನ ಸಾನು ಪಿಪ್ಯುಷೀ ಧಾರಾ ಸುತಸ್ಯ ವೇಧಸಃ ।
@@ -20717,6 +22111,8 @@ Purified in his woollen robe, and attaining all honours, he stands as a hero ami
 *English Translation.*
 
 As the lofty rain from heaven, the nutritious stream of the invigorat-ing Soma falls easily upon the straining cloth.
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20753,6 +22149,9 @@ You, Soma, ( protect ) the worshipper amongst men, and purified by the cloth you
 
 > ‘ಪ್ರ ನಿಮ್ನೇನೇವ' ಇತ್ಯಷ್ಟರ್ಚಂ ಸಪ್ತದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಪ್ರ ನಿಮ್ನೇನೇವ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ನಿಮ್ನೇನೇವ—ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಎಂಟು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ನಿಮ್ನೇನೇವ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೭ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೭
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೧೭ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೭ ॥
@@ -20760,6 +22159,8 @@ You, Soma, ( protect ) the worshipper amongst men, and purified by the cloth you
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20791,6 +22192,8 @@ You, Soma, ( protect ) the worshipper amongst men, and purified by the cloth you
 
 Like rivers falling down a steep place, so the rapid foe-destroying pervading Soma-streams hurry (to the pitcher).
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಸುವಾನಾಸ ಇಂದವೋ ವೃಷ್ಟಯಃ ಪೃಥಿವೀಮಿವ ।
@@ -20820,6 +22223,8 @@ Like rivers falling down a steep place, so the rapid foe-destroying pervading So
 *English Translation.*
 
 The Soma-drops, as they are expressed, flow to Indra like the rains falling upon the earth.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20853,6 +22258,8 @@ The Soma-drops, as they are expressed, flow to Indra like the rains falling upon
 *English Translation.*
 
 Soma, with swelling waves, exhilarating, inebriating, flows to the straining-cloth, destroying the Rakshasas, and devoted to the gods.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20891,6 +22298,8 @@ It flows to the pitchers, it is poured out upon the straining-cloth, it is magni
 
 ಪವಿತ್ರೇಷ್ಟಿಯಲ್ಲಿ ದ್ವಿತೀಯಾಜ್ಯಭಾಗವನ್ನು ಹೋಮಮಾಡುವಾಗ ಆ ಕಲಶೇಷು ಎಂಬ ಈ ಋಕ್ಕನ್ನು ಯಾಜ್ಯಾಮಂತ್ರವನ್ನಾಗಿ ಪಠಿಸಬೇಕೆಂದು ಆಶ್ವಲಾಯನಶ್ರೌತಸೂತ್ರದ—ಆ ಕಲಶೇಷು ಧಾವತಿ ಪವಿತ್ರೇ ಪರಿ ಷಿಚ್ಯತ ಇತ್ಯೇಕಾ ಎಂಬ ಸೂತ್ರದಿಂದ (ಆ. ೫ ೧೨) ವಿವೃತವಾಗಿರುವುದು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅತಿ ತ್ರೀ ಸೋಮ ರೋಚನಾ ರೋಹನ್ನ ಭ್ರಾಜಸೇ ದಿವಮ್ ।
@@ -20924,6 +22333,8 @@ It flows to the pitchers, it is poured out upon the straining-cloth, it is magni
 
 Soma, mounting beyond the three words, you illumine heaven, and, moving, you urge on the sun.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ವಿಪ್ರಾ ಅನೂಷತ ಮೂರ್ಧನ್ಯಜ್ಞಸ್ಯ ಕಾರವಃ ।
@@ -20955,6 +22366,8 @@ Soma, mounting beyond the three words, you illumine heaven, and, moving, you urg
 *English Translation.*
 
 The Sage performers (of pious rites) glorify (the Soma) at the head of the sacrifice, entertaining affection for him the all-beholding.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -20988,6 +22401,8 @@ xxv 46
 <!-- printed 722 -->
 *[722 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೧೭]*
 
+
+#### ಋಕ್ ೮
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21026,6 +22441,9 @@ Pour forth the stream of the sweet beverage; sit down, sharp-flavoured in the re
 
 > ‘ ಪರಿ ಸುವಾನಃ' ಇತಿ ಸಪ್ತರ್ಚಮಷ್ಟಾದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಪರಿ ಸುವಾನಃ ಸಪ್ತ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪರಿ ಸುವಾನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನೆಂಟನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತದ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪರಿ ಸುವಾನಃ ಸಪ್ತ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೮ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೮
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ ೧ ॥ ಸೂಕ್ತ—೧೮ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ ೮ ॥ ವರ್ಗ—೮ ॥
@@ -21033,6 +22451,8 @@ Pour forth the stream of the sweet beverage; sit down, sharp-flavoured in the re
 ಋಷಿಃ—ಅಸಿತೇ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21066,6 +22486,8 @@ Pour forth the stream of the sweet beverage; sit down, sharp-flavoured in the re
 
 Effused while pressed between the stones, the Soma flows upon the straining cloth ; you are the giver of all things to those who praise you.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ವಿಪ್ರಸ್ತ್ವಂ ಕವಿರ್ಮಧು ಪ್ರ ಜಾತಮಂಧಸಃ ।
@@ -21095,6 +22517,8 @@ Effused while pressed between the stones, the Soma flows upon the straining clot
 *English Translation.*
 
 You are wise, you are a seer, you bestow the sweet ( beverage ) produced from the Soma plant ; you are the giver of all things to those who praise you.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21126,6 +22550,8 @@ You are wise, you are a seer, you bestow the sweet ( beverage ) produced from th
 
 All the gods together pleased enjoy your drinking ; you are the giver of all things to those who praise you.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಯೋ ವಿಶ್ವಾನಿ ವಾರ್ಯಾ ವಸೂನಿ ಹಸ್ತಯೋರ್ದಧೇ ।
@@ -21156,6 +22582,8 @@ All the gods together pleased enjoy your drinking ; you are the giver of all thi
 *[ಅ. ೬. ಅ. ೮. ವ. ೮.] ಋಗ್ವೇದಸಂಹಿತಾ 727]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಯ ಇಮೇ ರೋದಸೀ ಮಹೀ ಸಂ ಮಾತರೇವ ದೋಹತೇ ।
@@ -21181,6 +22609,8 @@ All the gods together pleased enjoy your drinking ; you are the giver of all thi
 *English Translation.*
 
 ( You are he ) who milks this great heaven and earth like two mothers; you are the giver of all things to those who praise you.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21211,6 +22641,8 @@ All the gods together pleased enjoy your drinking ; you are the giver of all thi
 *English Translation.*
 
 (You are he) who at once supplies both heaven and earth with viands ; you are the giver of all things to those who praise you.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21247,6 +22679,9 @@ This vigorous Soma, while being purified, murmurs in the pitchers; you are the g
 
 > ‘ ಯತ್ ಸೋಮ' ಇತಿ ಸಪ್ತರ್ಚಮೇಕೋನವಿಂಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ ।' ಯತ್ ಸೋಮ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಯತ್ಸೋಮ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಯತ್ಸೋಮ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೧೯ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೧೯
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೧೯ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೯ ।
@@ -21258,6 +22693,8 @@ This vigorous Soma, while being purified, murmurs in the pitchers; you are the g
 <!-- printed 730 -->
 *[730 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯ ಅ. ೧. ಸೂ. ೧೯]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21284,6 +22721,8 @@ This vigorous Soma, while being purified, murmurs in the pitchers; you are the g
 *English Translation.*
 
 Whatever wonderful glorious wealth there be in heaven or in earth you, Soma, being purified, bring it to us.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21315,6 +22754,8 @@ Whatever wonderful glorious wealth there be in heaven or in earth you, Soma, bei
 
 You, Soma and Indra, are the lords of all, the lords of cattle, --for the rulers, prosper our rites.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವೃಷಾ ಪುನಾನ ಆಯುಷು ಸ್ತನಯನ್ನಧಿ ಬರ್ಹಿಷಿ ।
@@ -21345,6 +22786,8 @@ You, Soma and Indra, are the lords of all, the lords of cattle, --for the rulers
 
 The showerer (of benefits) being purified amongst men (lies) murmuring upon the sacred grass,—greentinted he sits down in his proper place.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅವಾವಶಂತ ಧೀತಯೋ ವೃಷಭಸ್ಯಾಧಿ ರೇತಸಿ ।
@@ -21374,6 +22817,8 @@ The showerer (of benefits) being purified amongst men (lies) murmuring upon the 
 *English Translation.*
 
 The mothers of the male calf, which are sucked by him, wishing to cherish the bull with their strength.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21409,6 +22854,8 @@ The purified Soma has implanted many a germ in those ( waters ) desirous of conc
 
 ಈ ಋಕ್ಕಿನ ಮತ್ತು ಹಿಂದಿನ ಋಕ್ಕಿನ ಅರ್ಥಾಭಿಪ್ರಾಯಗಳು ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ ಋಷಿಯು ವಸತೀವರೀ ಪಾತ್ರೆಯಲ್ಲಿರುವ ಉದಕಗಳನ್ನು ಗೋವುಗಳೆಂದೂ ಸೋಮುವನ್ನು ಕರುವೆಂದೂ ಕರೆದು ಸೋಮು ಮತ್ತು ಉದಕಗಳ ಮಿಶ್ರಣವನ್ನು ಕ್ಷೀರಪಾನಕಾಲದಲ್ಲಿ ಗೋವುಗಳು ತಮ್ಮ ಕರುವನ್ನು ಅಪೇಕ್ಷಿಸುವಂತೆ ಉದಕಗಳು ಸೋಮುರಸದ ಮಿಶ್ರಣವನ್ನು ಅಪೇಕ್ಷಿಸುತ್ತವೆ ಎಂಬ ಉಪಮಾನದ ಮೂಲಕ ವರ್ಣಿಸಿದಾರೆ.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಪ ಶಿಕ್ಷಾಪತಸ್ಥುಷೋ ಭಿಯಸಮಾ ಧೇಹಿ ಶತ್ರುಷು ।
@@ -21438,6 +22885,8 @@ The purified Soma has implanted many a germ in those ( waters ) desirous of conc
 *English Translation.*
 
 Bring near to us those who stand aloof, strike terror into our foes ; pure-flowing one, transfer to us their riches.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21474,6 +22923,9 @@ Destroy, Soma, the vigour, the energy, the subsistence of our enemy, whether he 
 
 > ‘ಪ್ರ ಕವಿಃ' ಇತಿ ಸಪ್ತರ್ಚಂ ವಿಂಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಪ್ರ ಕವಿಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ಕವಿಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಇಪ್ಪತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಕವಿಃ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೦ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೦
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೨೦ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೦ ।
@@ -21485,6 +22937,8 @@ Destroy, Soma, the vigour, the energy, the subsistence of our enemy, whether he 
 <!-- printed 737 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 737]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21511,6 +22965,8 @@ Destroy, Soma, the vigour, the energy, the subsistence of our enemy, whether he 
 *English Translation.*
 
 The seer passes through the woollen fleece for the beverage of the gods, triumphing over all adversaries.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21542,6 +22998,8 @@ The seer passes through the woollen fleece for the beverage of the gods, triumph
 
 Verily he, the pure-flowing, bestows upon his praisers thousands of victuals with cattle.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪರಿ ವಿಶ್ವಾನಿ ಚೇತಸಾ ಮೃಶಸೇ ಪವಸೇ ಮತೀ ।
@@ -21571,6 +23029,8 @@ Verily he, the pure-flowing, bestows upon his praisers thousands of victuals wit
 *English Translation.*
 
 By your favour you give to us all kinds of wealth, you flow at our praise ; grant us, O Soma, food.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21602,6 +23062,8 @@ By your favour you give to us all kinds of wealth, you flow at our praise ; gran
 
 Bestow upon us great renown, grant durable riches to those who are profuse in their libations, bring food to your praisers.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ರಾಜೇವ ಸುವ್ರತೋ ಗಿರಃ ಸೋಮಾ ವಿವೇಶಿಥ ।
@@ -21632,6 +23094,8 @@ Bestow upon us great renown, grant durable riches to those who are profuse in th
 
 Purified one, doer of good deeds, you, Soma, enter our praises like a king O wonderful bearer (of our offerings).
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವಹ್ನಿರಪ್ಸು ದುಷ್ಟರೋ ಮೃಜ್ಯಮಾನೋ ಗಭಸ್ತ್ಯೋಃ ।
@@ -21661,6 +23125,8 @@ Soma, the bearer (of oblations), abiding in the waters of the firmament, difficu
 <!-- printed 742 -->
 *[೭೪೨ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨೦]*
 
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21697,6 +23163,9 @@ Soma, you proceed to the straining-cloth, sportive and generous, like a gift, gi
 
 > ಏತೇ ಧಾವಂತಿ' ಇತಿ ಸಪ್ತರ್ಚಮೇಕವಿಂಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ಏತೇ ಧಾವಂತಿ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಏತೇ ಧಾವಂತಿ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಇಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೂ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಏತೇ ಧಾವಂತಿ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತದ ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೧
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೨೧ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೧೧ ॥
@@ -21704,6 +23173,8 @@ Soma, you proceed to the straining-cloth, sportive and generous, like a gift, gi
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21734,6 +23205,8 @@ Soma, you proceed to the straining-cloth, sportive and generous, like a gift, gi
 *English Translation.*
 
 These flowing Soma-juices, foe-destroying, exhilarating, heaven-conferring, hasten to Indra.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21766,6 +23239,8 @@ These flowing Soma-juices, foe-destroying, exhilarating, heaven-conferring, hast
 
 Showing favour, assailing foes, giving wealth to him who rightly effuses them, and bestowing food spontaneously on their praiser.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವೃಥಾ ಕ್ರೀಳಂತ ಇಂದವಃ ಸಧಸ್ಥಮಭ್ಯೇಕಮಿತ್ ।
@@ -21795,6 +23270,8 @@ Showing favour, assailing foes, giving wealth to him who rightly effuses them, a
 *English Translation.*
 
 The effused juices come sporting lightly to the common receptacle, they drop into the wave of the river.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21826,6 +23303,8 @@ Like horses harnessed to a car these pure juices bring ( to us ) all desirable b
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೧.] ಋಗ್ವೇದಸಂಹಿತಾ ೭೪೭]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆಸ್ಮಿನ್ಪಿಶಂಗಮಿಂದವೋ ದಧಾತಾ ವೇನಮಾದಿಶೇ ।
@@ -21851,6 +23330,8 @@ Like horses harnessed to a car these pure juices bring ( to us ) all desirable b
 *English Translation.*
 
 Effused Soma-juices, at our indication bestow manifold blessings on this (institutor of the sacrifice), who (at present) has given us plenty.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21881,6 +23362,8 @@ Effused Soma-juices, at our indication bestow manifold blessings on this (instit
 *English Translation.*
 
 As a great man sets before him a commendable charioteer, so you grant knowledge to our lord, and flow glistening with water.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21921,6 +23404,9 @@ These effused juices have desired (the sacrifice) ; powerful, they have made for
 *[750 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೧. ಸೂ. ೨೨]*
 
 ಅನುವಾದವು—ಏತೇ ಸೋಮಾಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಇಪ್ಪತ್ತೆರಡನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೂ ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಏತೇ ಸೋಮಾಸಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೨
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೧ । ಸೂಕ್ತ—೨೨ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೧೨ ।
@@ -21928,6 +23414,8 @@ These effused juices have desired (the sacrifice) ; powerful, they have made for
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -21959,6 +23447,8 @@ These effused juices have desired (the sacrifice) ; powerful, they have made for
 
 These Soma-juices, when let out, neigh as they leap swiftly forth like chariots or rapid steeds let loose.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏತೇ ವಾತಾ ಇವೋರವಃ ಪರ್ಜನ್ಯಸ್ಯೇವ ವೃಷ್ಟಯಃ ।
@@ -21988,6 +23478,8 @@ These Soma-juices, when let out, neigh as they leap swiftly forth like chariots 
 *English Translation.*
 
 Like strong winds, like the rains of Par janya, like the swift-whirling (flames) of fire.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22019,6 +23511,8 @@ These pure Soma-juices, sagacious, mixed with curds, easily pervade our ceremoni
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 753]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏತೇ ಮೃಷ್ಟಾ ಅಮರ್ತ್ಯಾಃ ಸಸೃವಾಂಸೋ ನ ಶಶ್ರಮುಃ ।
@@ -22044,6 +23538,8 @@ These pure Soma-juices, sagacious, mixed with curds, easily pervade our ceremoni
 *English Translation.*
 
 Purified, immortal, issuing from the vessels, eager to traverse their (assigned) paths and the universe, they are never wearied.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22076,6 +23572,8 @@ Purified, immortal, issuing from the vessels, eager to traverse their (assigned)
 
 Spreading in various directions, they pervade the surface of earth and sky, you, and this highest heaven.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂತುಂ ತನ್ವಾನಮುತ್ತಮಮನು ಪ್ರವತ ಆಶತ ।
@@ -22105,6 +23603,8 @@ Spreading in various directions, they pervade the surface of earth and sky, you,
 *English Translation.*
 
 Descending rivers follow this excellent (Soma) as it spreads out the sacrifice ; this rite is glorified thereby.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22141,6 +23641,9 @@ You, Soma, hold the wealth of cows which you have won from the Panis ; you have 
 
 > ‘ಸೋಮಾ ಅಸೃಗ್ರಮ್' ಇತಿ ಸಪ್ತರ್ಚಂ ತ್ರಯೋವಿಂಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಸೋಮಾ ಅಸೃಗ್ರಮ್' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಸೋಮಾ ಅಸೃಗ್ರಂ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಇಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸೋಮಾ ಅಸೃಗ್ರಂ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಒಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೩
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೨೩ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೩ ॥
@@ -22152,6 +23655,8 @@ You, Soma, hold the wealth of cows which you have won from the Panis ; you have 
 <!-- printed 757 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೩ ]  ಋಗ್ವೇದಸಂಹಿತಾ  757]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22178,6 +23683,8 @@ You, Soma, hold the wealth of cows which you have won from the Panis ; you have 
 *English Translation.*
 
 The swift-flowing Soma-juices have issued in a stream of the sweet exhilarating (beverage), at (the recital of) all the praises (of the sages).
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22213,6 +23720,8 @@ Ancient swift-going (horses), they (the juices) have traversed a new field,—th
 
 ಈ ಋಕ್ಕಿನಲ್ಲಿ ಸೋಮರಸಗಳನ್ನು ಅಶ್ವಗಳ ಶೀಘ್ರಗಮನದ ಹೋಲಿಕೆಯಿಂದ ಪ್ರಕಾರಾಂತರವಾಗಿ ವರ್ಣಿಸಲಾಗಿದೆ. ಸೂರ್ಯನ ಉತ್ಪತ್ತಿಯೆಂದರೆ ಸೂರ್ಯನ ಪ್ರಕಾಶದಿಂದ ಚಂದ್ರನು ಬೆಳಗುವನೆಂದಭಿಪ್ರಾಯವು.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಪವಮಾನ ನೋ ಭರಾರ್ಯೋ ಅದಾಶುಷೋ ಗಯಮ್ ।
@@ -22242,6 +23751,8 @@ Ancient swift-going (horses), they (the juices) have traversed a new field,—th
 *English Translation.*
 
 Bring to us, purifier, the house of our enemy who prssents no libations,—bestow upon us progeny-abounding food.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22275,6 +23786,8 @@ Bring to us, purifier, the house of our enemy who prssents no libations,—besto
 
 The swift·flowing Soma–juices diffuse exhilarating wine,–they flow to the honey·shedding receptacle·
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸೋಮೋ ಅರ್ಷತಿ ಧರ್ಣಸಿರ್ದಧಾನ ಇಂದ್ರಿಯಂ ರಸಮ್ ।
@@ -22305,6 +23818,8 @@ The swift·flowing Soma–juices diffuse exhilarating wine,–they flow to the h
 
 The Soma flows, the sustainer (of the world), bearing a sense-invigorating essence,—heroic—a protector against calumny.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದ್ರಾಯ ಸೋಮ ಪವಸೇ ದೇವೇಭ್ಯಃ ಸಧಮಾದ್ಯಃ ।
@@ -22334,6 +23849,8 @@ The Soma flows, the sustainer (of the world), bearing a sense-invigorating essen
 *English Translation.*
 
 Soma, you are worthy of the sacrifice; you flow to Indra and to the gods; you, Indu, vouchsafe to give us food.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22373,6 +23890,9 @@ Having drunk of this chief of exhilarating draughts, Indra irresistible has slai
 
 > 'ಪ್ರ ಸೋಮಾಸಃ' ಇತಿ ಸಪ್ತರ್ಚಂ ಚತುರ್ವಿಂಶಂ ಸೂಕ್ತಮ್ । ಅಸಿತೋ ದೇವಲೋ ವರ್ಷಿರ್ಗಾಯತ್ರೀ ಛಂದಃ ಸೋಮೋ ದೇವತಾ । ‘ಪ್ರ ಸೋಮಾಸಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ಸೋಮಾಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಮೊದಲನೆಯ ಅನುವಾಕದಲ್ಲಿ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಏಳು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಅಸಿತಃ ಕಾಶ್ಯಪಃ ಅಥವಾ ದೇವಲನೆಂಬುವನು ಋಷಿಯು; ಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸೋಮಾಸಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೪ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೪
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೨೪ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೪ ॥
@@ -22380,6 +23900,8 @@ Having drunk of this chief of exhilarating draughts, Indra irresistible has slai
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22410,6 +23932,8 @@ Having drunk of this chief of exhilarating draughts, Indra irresistible has slai
 *English Translation.*
 
 The purified effused Soma–juices have flowed forth,—mixing (wit curds and milk) they are cleansed in the waters.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22442,6 +23966,8 @@ The purified effused Soma–juices have flowed forth,—mixing (wit curds and mi
 
 The flowing juices rush (to the filter), like waters flowing down a declivity ; purified they gratify Indra.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಪವಮಾನ ಧನ್ವಸಿ ಸೋಮೇಂದ್ರಾಯ ಪಾತವೇ ।
@@ -22473,6 +23999,8 @@ The flowing juices rush (to the filter), like waters flowing down a declivity ; 
 
 Purifier, Soma, you proceed to Indra for his drinking,—thence are you brought by the priests.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಂ ಸೋಮ ನೃಮಾದನಃ ಪವಸ್ವ ಚರ್ಷಣೀಸಹೇ ।
@@ -22503,6 +24031,8 @@ You, Soma, who are the exhilarator of men, flow to (Indra), the conqueror of ene
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೪ ] ಋಗ್ವೇದಸಂಹಿತಾ ೭೬೭]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದೋ ಯದದ್ರಿಭಿಃ ಸುತಃ ಪವಿತ್ರಂ ಪರಿಧಾವಸಿ ।
@@ -22528,6 +24058,8 @@ You, Soma, who are the exhilarator of men, flow to (Indra), the conqueror of ene
 *English Translation.*
 
 When, Indu, effused by the stones, you hasten to the filtering-cloth, you are an ample portion for Indra's belly.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22558,6 +24090,8 @@ When, Indu, effused by the stones, you hasten to the filtering-cloth, you are an
 *English Translation.*
 
 Utter destroyer of enemies, flow forth, to be propitiated by praises, pure, purifying, wonderful.
+
+#### ಋಕ್ ೭
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22599,6 +24133,8 @@ xxv 49
 <!-- printed 770 -->
 *[೭೭೦ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯ ಅ. ೨ ಸೂ. ೨೫]*
 
+## ಸೂಕ್ತ ೨೫ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೫
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೧ ॥ ಸೂಕ್ತ—೨೫ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೫
@@ -22606,6 +24142,8 @@ xxv 49
 ಋಷಿಃ—ಅಸಿತಃ ಕಾಶ್ಯಪೋ ದೇವಲೋ ವಾ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22637,6 +24175,8 @@ xxv 49
 
 Green-tinted (Soma), you are the bestower of strength, the exhilarating, flow as a beverage for the gods, for the Maruts and for Vayu.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪವಮಾನ ಧಿಯಾ ಹಿತೋಽಭಿ ಯೋನಿಂ ಕನಿಕ್ರದತ್ ।
@@ -22667,6 +24207,8 @@ Purifying (Soma), placed suitably by the sacred rite, ( enter ) uttering a cry t
 *[772 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೨. ಸೂ ೨೫]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಂ ದೇವೈಃ ಶೋಭತೇ ವೃಷಾ ಕವಿರ್ಯೋನಾವಧಿ ಪ್ರಿಯಃ ।
@@ -22692,6 +24234,8 @@ Purifying (Soma), placed suitably by the sacred rite, ( enter ) uttering a cry t
 *English Translation.*
 
 This Soma, the showerer (of benefits), the seer, the beloved, the destroyer of foes, the most devout, shines in its appointed place along with the gods.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22728,6 +24272,8 @@ Pervading all forms, the pure, the desirable goes to the place where the immorta
 ಯತ್ರ—ಯಾವ ಪ್ರದೇಶದಲ್ಲಿ ಎಂದರೆ ದೇವತೆಗಳು ಬಂದು ಕುಳಿತಿರುವ ಯಜ್ಞವೇದಿಯಲ್ಲಿ.
 ವಿಶ್ವಾ ರೂಪಾಣಿ—ನಾನಾ ರೂಪಗಳನ್ನು ; ಇಲ್ಲಿ ಸೋಮದೇವನ ನಾನಾ ರೂಪಗಳೆಂದರೆ ಸ್ವಚ್ಛವಾದ, ತೀವ್ರವಾದ ಎಂದರೆ ಏನೂ ಬೆರಸಿಲ್ಲದ ಸೋಮರಸ. ಹಾಲಿನಿಂದ ಮಿಶ್ರಿತವಾದ ಗವಾಶಿರವೆಂಬ ಸೋಮರಸ, ಮೊಸರಿನಿಂದ ಮಿಶ್ರಿತವಾದ ದಧ್ಯಾಶಿರವೆಂಬ ಸೋಮರಸ, ಯವಧಾನ್ಯದ ಹಿಟ್ಟಿನಿಂದ ಮಿಶ್ರಿತವಾದ ಯವಾಶಿರವೆಂಬ ಸೋಮರಸ ಇತ್ಯಾದಿಗಳು.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅರುಷೋ ಜನಯನ್ಗಿರಃ ಸೋಮಃ ಪವತ ಆಯುಷಕ್ ।
@@ -22757,6 +24303,8 @@ Pervading all forms, the pure, the desirable goes to the place where the immorta
 *English Translation.*
 
 Endowed with wisdom of the past, the brilliant Soma, generating sounds, flows forth continually proceeding to Indra.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22797,6 +24345,8 @@ Most exhilarating and sage (Soma), flow through the filter in a stream, to attai
 <!-- printed 776 -->
 *[776 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೬]*
 
+## ಸೂಕ್ತ ೨೬ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೬
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨। ಸೂಕ್ತ—೨೬ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೧೬ ॥
@@ -22804,6 +24354,8 @@ Most exhilarating and sage (Soma), flow through the filter in a stream, to attai
 ಋಷಿಃ—ಇಧ್ಮವಾಹೋ ದಾರ್ಢ್ಯಚ್ಯುತಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22835,6 +24387,8 @@ Most exhilarating and sage (Soma), flow through the filter in a stream, to attai
 
 The priests have cleansed that Soma, (swift as) a horse, on the lap of Aditi with fingers and with hymns.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ಗಾವೋ ಅಭ್ಯನೂಷತ ಸಹಸ್ರಧಾರಮಕ್ಷಿತಮ್ ।
@@ -22864,6 +24418,8 @@ The chants celebrate that Indu flowing in a thousand streams, inexhaustible, the
 <!-- printed 778 -->
 *[778 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೬]*
 
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22899,6 +24455,8 @@ They have elevated to heaven by their praise that creative purifying (Soma), the
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೭. ] ಋಗ್ವೇದಸಂಹಿತಾ 779]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಮಹ್ಯನ್ಭುರಿಜೋರ್ಧಿಯಾ ಸಂವಸಾನಂ ವಿವಸ್ವತಃ ।
@@ -22924,6 +24482,8 @@ They have elevated to heaven by their praise that creative purifying (Soma), the
 *English Translation.*
 
 The worshippers have elevated by the fingers of their arms that unconquerable lord of praise abiding (in the vessels).
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22954,6 +24514,8 @@ The worshippers have elevated by the fingers of their arms that unconquerable lo
 *English Translation.*
 
 The sister-fingers in a raised place press out by the grinding stones that green-tinted (Soma), desirable and far-beholding.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -22990,6 +24552,9 @@ The worshippers offer you to Indra, purifier Indu, filled with praise and bestow
 
 > ‘ಏಷ ಕವಿಃ' ಇತಿ ಷಡೃಚಂ ತೃತೀಯಂ ಸೂಕ್ತಂ ನೃಮೇಧನಾಮ್ನ ಅಂಗಿರಸಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಸೌಮ್ಯಮ್ । ‘ಏಷ ಕವಿರ್ನೃಮೇಧಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಉಕ್ತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು— ಏಷ ಕವಿಃ—ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಮೂರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ನೃಮೇಧ ಆಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು ; ಪವಮಾನಸೋಮನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಏಷ ಕವಿರ್ನೃಮೇಧಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ,
+
+## ಸೂಕ್ತ ೨೭ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೭
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೨೭ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೧೭ ।
@@ -23001,6 +24566,8 @@ The worshippers offer you to Indra, purifier Indu, filled with praise and bestow
 <!-- printed 782 -->
 *[782 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೭]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23037,6 +24604,8 @@ This seer, the purifying (Soma), lauded by us, passes through the filtering clot
 
 ಎಂದರ್ಥವು ಎಂದು ಭಾಷ್ಯಕಾರರು ಈ ಶಬ್ದಕ್ಕೆ ಅರ್ಥವಿವರಣೆಮಾಡಿ ಇದಕ್ಕೆ ಇನ್ನೊಂದು ವಿಧವಾಗಿಯೂ ಅರ್ಥ ಮಾಡಬಹುದೆಂದು ಹೇಳಿದಾರೆ—ಅಥವಾ ಪವಿತ್ರೇಽಧಿ ಕೃಷ್ಣಾಜಿನೇ ತೋಶತೇ ಹನ್ಯತೇ । ಅಥವಾ ರಸವನ್ನು ಹಿಂಡುವಾಗ ಲತೆಗಳನ್ನು ಕೃಷ್ಣಾಜನದ ಮೇಲಿಟ್ಟು ಜಜ್ಜುವಾಗ ಅದನ್ನು ಸಂಹರಿಸಿದಂತಾಗುತ್ತದೆ ಎಂದು ಇನ್ನೊಂದು ವಿಧವಾದ ಅರ್ಥವೂ ಸಾಧ್ಯವೆಂದು ವಿವರಣೆಮಾಡಿದಾರೆ.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಇಂದ್ರಾಯ ವಾಯವೇ ಸ್ವರ್ಜಿತ್ಪರಿ ಷಿಚ್ಯತೇ ।
@@ -23062,6 +24631,8 @@ This seer, the purifying (Soma), lauded by us, passes through the filtering clot
 *English Translation.*
 
 This invigorating heaven-conquering Soma is poured upon the filter for Indra and Vayu.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23093,6 +24664,8 @@ This invigorating heaven-conquering Soma is poured upon the filter for Indra and
 
 This Soma, the showerer ( of benefits), the summit of heaven, the all-knowing, being expressed is brought by the priests into the wooden vessels.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಗವ್ಯುರಚಿಕ್ರದತ್ಪವಮಾನೋ ಹಿರಣ್ಯಯುಃ ।
@@ -23122,6 +24695,8 @@ This Soma, the showerer ( of benefits), the summit of heaven, the all-knowing, b
 *English Translation.*
 
 This Indu resounds as it drops, yearning to give us cattle and gold, the conqueror of foes, the irresistible.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23158,6 +24733,8 @@ This pure-flowing exhilarating Soma is abandoned by the sun in the filtering-clo
 
 ದಶಾಪವಿತ್ರದಲ್ಲಿ ಸೋಮರಸವನ್ನು ಆಧ್ವರ್ಯುವು ಸುರಿದು ಶುದ್ಧಿಗೊಳಿಸುತ್ತಾನೆ. ಆದರೆ ಅಂತರಿಕ್ಷದಲ್ಲಿ ಅದೇ ಸೋಮವು ಸೂರ್ಯರಶ್ಮಿಗಳಿಂದ ಶೋಧಿತವಾಗುತ್ತದೆ. ಸೂರ್ಯರಶ್ಮಿಗಳ ಸಂಪರ್ಕದಿಂದಲೇ ಸೋಮಕ್ಕೆ ಆಪ್ಯಾಯನವುಂಟಾಗುವುದು ಎಂದು ಭಾಷ್ಯಕಾರರ ವಿವರಣೆಯು.
 
+#### ಋಕ್ ೬
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಶುಷ್ಮ್ಯಸಿಷ್ಯದದಂತರಿಕ್ಷೇ ವೃಷಾ ಹರಿಃ ।
@@ -23193,6 +24770,9 @@ This powerful and purifyng showerer (of benefits), the green-tinted Indu, flows 
 
 > ‘ಏಷ ವಾಜೀ' ಇತಿ ಷಡೃಚಂ ಚತುರ್ಥಂ ಸೂಕ್ತಂ ಪ್ರಿಯಮೇಧಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಸೌಮ್ಯಮ್। 'ಏಷ ವಾಜೀ ಪ್ರಿಯಮೇಧಃ । ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಏಷ ವಾಜೀ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ನಾಲ್ಕನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಪ್ರಿಯಮೇಧನೆಂಬುವನು ಋಷಿಯು; ಪವಮಾನಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಏಷ ವಾಜೀ ಪ್ರಿಯಮೇಧಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೮ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೮
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೨೮ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೮ ॥
@@ -23204,6 +24784,8 @@ This powerful and purifyng showerer (of benefits), the green-tinted Indu, flows 
 <!-- printed 788 -->
 *[788 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೮]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23235,6 +24817,8 @@ This swift-flowing (Soma) placed ( in the vessels ) by the priests, all-knowing,
 *[ಅ. ೬. ಅ. ೮. ವ. ೧೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 789]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಪವಿತ್ರೇ ಅಕ್ಷರತ್ಸೋಮೋ ದೇವೇಭ್ಯಃ ಸುತಃ ।
@@ -23260,6 +24844,8 @@ This swift-flowing (Soma) placed ( in the vessels ) by the priests, all-knowing,
 *English Translation.*
 
 This (Soma), effused for the gods, flows into the filter, penetrating all the (divine) forms.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23291,6 +24877,8 @@ This (Soma), effused for the gods, flows into the filter, penetrating all the (d
 
 This divine immortal (Soma) is brilliant in his own place, the slayer of enemies, the most devoted to the gods.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ವೃಷಾ ಕನಿಕ್ರದದ್ದಶಭಿರ್ಜಾಮಿಭಿರ್ಯತಃ ।
@@ -23321,6 +24909,8 @@ This divine immortal (Soma) is brilliant in his own place, the slayer of enemies
 
 This showerer (of desires), expressed by the ten fingers, hastens uttering a sound to the pitchers.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಸೂರ್ಯಮರೋಚಯತ್ಪವಮಾನೋ ವಿಚರ್ಷಣಿಃ ।
@@ -23350,6 +24940,8 @@ This showerer (of desires), expressed by the ten fingers, hastens uttering a sou
 *English Translation.*
 
 This purified, all-contemplating, all-knowing (Soma) gives radiance to the sun and all the spheres (of light).
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23386,6 +24978,9 @@ This powerful invincible purifying Soma proceeds the protector of the gods, the 
 
 > ‘ಪ್ರಾಸ್ಯ' ಇತಿ ಷಡೃಚಂ ಪಂಚಮಂ ಸೂಕ್ತಂ ನೃಮೇಧಸ್ಯಾಂಗಿರಸಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ಅನುಕ್ರಮ್ಯತೇ ಚ -- ಪ್ರಾಸ್ಯ ನೃಮೇಧಃ' ಇತಿ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರಾಸ್ಯ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಐದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ನೃಮೇಧ ಆಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು; ಪವಮಾನ ಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರಾಸ್ಯ ನೃಮೇಧಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೨೯ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೨೯
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೨೯ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೧೯ ।
@@ -23393,6 +24988,8 @@ This powerful invincible purifying Soma proceeds the protector of the gods, the 
 ಋಷಿಃ—ನೃಮೇಧಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ — ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23424,6 +25021,8 @@ This powerful invincible purifying Soma proceeds the protector of the gods, the 
 
 The streams of this effused (Soma), the showerer (of benefits), flow forth, as it seeks to surpass the gods in strength.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸಪ್ತಿಂ ಮೃಜಂತಿ ವೇಧಸೋ ಗೃಣಂತಃ ಕಾರವೋ ಗಿರಾ ।
@@ -23453,6 +25052,8 @@ The streams of this effused (Soma), the showerer (of benefits), flow forth, as i
 *English Translation.*
 
 The pious performers (of holy rites), the utterers of praise, purify by their laudation the radiant courser (the Soma) as soon as generated and meriting to be hymned.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23484,6 +25085,8 @@ The pious performers (of holy rites), the utterers of praise, purify by their la
 
 Soma, distributor of abundant wealth, those radianccs of yours when you are purified are over-powering ; fill therefore the praiseworthy ocean-like (pitcher).
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿಶ್ವಾ ವಸೂನಿ ಸಂಜಯನ್ಪವಸ್ವ ಸೋಮ ಧಾರಯಾ ।
@@ -23513,6 +25116,8 @@ Soma, distributor of abundant wealth, those radianccs of yours when you are puri
 *English Translation.*
 
 Flow, Soma, in a full stream, conquering for us all treasures,—drive our enemies away together-
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23544,6 +25149,8 @@ Flow, Soma, in a full stream, conquering for us all treasures,—drive our enemi
 *English Translation.*
 
 Preserve us from the reproach of every one who makes no offerings, who utters blame,—that we may be free.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23580,6 +25187,9 @@ Indu, pour to us in a stream terrestrial and celestial riches, bring brilliant v
 
 > ‘ ಪ್ರ ಧಾರಾಃ' ಇತಿ ಷಡೃಚಂ ಷಷ್ಠಂ ಸೂಕ್ತಂ ಬಿಂದುನಾಮ್ನ ಆಂಗಿರಸಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ‘ ಪ್ರ ಧಾರಾ ಬಿಂದುಃ' ಇತ್ಯನುಕ್ರಮಣಿಕಾ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ಧಾರಾಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಆರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಬಿಂದು ಅಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು; ಪವಮಾನ ಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಧಾರಾ ಬಿಂದುಃ ಎಂದು ಹೇಳಿರುವುದು. ಸೂಕ್ತವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೦ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೦
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೩೦ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೨೦ ।
@@ -23587,6 +25197,8 @@ Indu, pour to us in a stream terrestrial and celestial riches, bring brilliant v
 ಋಷಿಃ—ಬಿಂದುಃ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23618,6 +25230,8 @@ Indu, pour to us in a stream terrestrial and celestial riches, bring brilliant v
 
 The streams of this strong Soma flow without effort into the fitering-cloth ; purified, he excites praise.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದುರ್ಹಿಯಾನಃ ಸೋತೃಭಿರ್ಮೃಜ್ಯಮಾನಃ ಕನಿಕ್ರದತ್ ।
@@ -23647,6 +25261,8 @@ The streams of this strong Soma flow without effort into the fitering-cloth ; pu
 *English Translation.*
 
 This Indu, urged by the priests, and purified with a sound in the filter, utters a loud voice (in the oblation).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23680,6 +25296,8 @@ xxv. 51
 
 Pour upon us in a stream, Soma, foe-subduing strength, associated with male offspring and desired by many.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪ್ರ ಸೋಮೋ ಅತಿ ಧಾರಯಾ ಪವಮಾನೋ ಅಸಿಷ್ಯದತ್ ।
@@ -23710,6 +25328,8 @@ Pour upon us in a stream, Soma, foe-subduing strength, associated with male offs
 
 This purified Soma flows out in a stream to take its place in the pitchers.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಪ್ಸು ತ್ವಾ ಮಧುಮತ್ತಮಂ ಹರಿಂ ಹಿನ್ವಂತ್ಯದ್ರಿಭಿಃ ।
@@ -23739,6 +25359,8 @@ Indu, they press you forth by the stones, most sweet-flavoured and green-tinted,
 <!-- printed 804 -->
 *[804 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೨೦]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23775,6 +25397,9 @@ Indu, they press you forth by the stones, most sweet-flavoured and green-tinted,
 
 > ‘ಪ್ರ ಸೋಮಾಸಃ' ಇತಿ ಷಡೃಚಂ ಸಪ್ತಮಂ ಸೂಕ್ತಂ ರಾಹೂಗಣಸ್ಯ ಗೋತಮಸ್ಯಾರ್ಷಂ ಸೌಮ್ಯಮ್। 'ಪ್ರ ಸೋಮಾಸೋ ಗೋತಮಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು— ಪ್ರ ಸೋಮಾಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಏಳನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ರಹೂಗಣಪುತ್ರನಾದ ಗೋತಮನು ಋಷಿಯು; ಪವಮಾನ ಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸೋಮಾಸೋ ಗೋತಮಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೧
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೩೧ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೨೧ ।
@@ -23782,6 +25407,8 @@ Indu, they press you forth by the stones, most sweet-flavoured and green-tinted,
 ಋಷಿ—ಗೋತಮಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23813,6 +25440,8 @@ Indu, they press you forth by the stones, most sweet-flavoured and green-tinted,
 
 The benevolent juices being purified flow forth, they confer intellectual wealth.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ದಿವಸ್ಪೃಥಿವ್ಯಾ ಅಧಿ ಭವೇಂದೋ ದ್ಯುಮ್ನವರ್ಧನಃ ।
@@ -23842,6 +25471,8 @@ The benevolent juices being purified flow forth, they confer intellectual wealth
 *English Translation.*
 
 Indu, be (to us) the augmenter of the riches of heaven and earth, be the lord of food.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23873,6 +25504,8 @@ Indu, be (to us) the augmenter of the riches of heaven and earth, be the lord of
 
 For you, Soma, the winds are gracious, for you the rivers flow, they magnify your greatness.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಪ್ಯಾಯಸ್ವ ಸಮೇತು ತೇ ವಿಶ್ವತಃ ಸೋಮ ವೃಷ್ಣ್ಯಮ್ ।
@@ -23902,6 +25535,8 @@ Be well nourished, Soma; may vigour come to you from all sides, be (the giver) o
 <!-- printed 809 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೨೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 809]*
 
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23937,6 +25572,8 @@ Tawny-tinted (Soma), the cows yield butter and milk inexhaustible for you (set) 
 <!-- printed 810 -->
 *[810 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೩೧]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -23977,6 +25614,9 @@ Indu, lord of beings, we desire the friendship of you, the well-armed.
 
 > ‘ಪ್ರ ಸೋಮಾಸಃ' ಇತಿ ಷಡೃಚಮಷ್ಟಮಂ ಸೂಕ್ತಮಾತ್ರೇಯಸ್ಯ ಶ್ಯಾವಾಶ್ವಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಸೌಮ್ಯಮ್ । ಅನುಕ್ರಮ್ಯತೇ ಚ- ಪ್ರ ಸೋಮಾಸಃ ಶ್ಯಾವಾಶ್ವಃ' ಇತಿ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ಸೋಮಾಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಎಂಟನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಅತ್ರಿಗೋತ್ರದ ಶ್ಯಾವಾಶ್ವನೆಂಬುವನು ಋಷಿಯು; ಪವಮಾನ ಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸೋಮಾಸಃ ಶ್ಯಾವಾಶ್ವಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೨
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨। ಸೂಕ್ತ—೩೨ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೨೨ ॥
@@ -23984,6 +25624,8 @@ Indu, lord of beings, we desire the friendship of you, the well-armed.
 ಋಷಿಃ—ಶ್ಯಾವಾಶ್ವಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24015,6 +25657,8 @@ Indu, lord of beings, we desire the friendship of you, the well-armed.
 
 The Soma juices, diffusing exhilaration, rush forth effused at the sacrifice for the sustenance of us abounding in oblations.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆದೀಂ ತ್ರಿತಸ್ಯ ಯೋಷಣೋ ಹರಿಂ ಹಿನ್ವಂತ್ಯದ್ರಿಭಿಃ ।
@@ -24044,6 +25688,8 @@ And the fingers of Trita express this green-tinted Soma with the stones for Indr
 <!-- printed 813 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೨೨.] ಋಗ್ವೇದಸಂಹಿತಾ 813]*
 
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24080,6 +25726,8 @@ And like a swan entering its own flock, the Soma excites the praise of all,—li
 
 ಸಂತೋಷವಾಗುವುದು ಎಂಬ ವಿಷಯವು ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ. ಮತ್ತು ಅತ್ಯಃ ಎಂಬ ಅಶ್ವವನ್ನು ಸೂಚಿಸುವ ಶಬ್ದದ ಪ್ರಯೋಗಕ್ಕೂ ಇಲ್ಲಿ ಉಚಿತಾರ್ಥವಿದ್ದಂತೆ ಕಂಡುಬರುವುದಿಲ್ಲ. ಒಟ್ಟಿನಲ್ಲಿ ಈ ಋಕ್ಕಿನ ಅರ್ಥವಿಷಯದಲ್ಲಿ ಋಷಿಯ ಆಶಯವೇನೆಂಬುದು ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಉಭೇ ಸೋಮಾವಚಾಕಶನ್ಮೃಗೋ ನ ತಕ್ತೋ ಅರ್ಷಸಿ ।
@@ -24110,6 +25758,8 @@ Beholding both worlds, Soma, you hurry, swift as a deer, taking your seat on the
 *[ಅ. ೬ ಅ. ೮ ವ. ೨೨. ] ಋಗ್ವೇದಸಂಹಿತಾ ೮೧೫]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಗಾವೋ ಅನೂಷತ ಯೋಷಾ ಜಾರಮಿವ ಪ್ರಿಯಮ್ ।
@@ -24139,6 +25789,8 @@ Praises commend you (Soma) as a woman praises a dear lover ; (you hasten to the 
 <!-- printed 816 -->
 *[೮೧೬ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೩೨]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24175,6 +25827,9 @@ Give to us who are affluent (in oblations) and also to me, brilliant fame, wealt
 
 > ‘ಪ್ರ ಸೋಮಾಸಃ' ಇತಿ ಷಡೃಚಂ ನವಮಂ ಸೂಕ್ತಂ ತ್ರಿತಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ‘ಪ್ರ ಸೋಮಾಸಸ್ತ್ರಿತಃ ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ಸೋಮಾಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಒಂಭತ್ತನೆಯು ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ತ್ರಿತನೆಂಬುವನು ಋಷಿಯು; ಪವಮಾನಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸೋಮಾಸಸ್ತ್ರಿತಃ ಎಂದು ಹೇಳಿರುವುದು ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೩
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೩೩ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೨೩ ।
@@ -24182,6 +25837,8 @@ Give to us who are affluent (in oblations) and also to me, brilliant fame, wealt
 ಋಷಿಃ—ತ್ರಿತಃ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24212,6 +25869,8 @@ Give to us who are affluent (in oblations) and also to me, brilliant fame, wealt
 *English Translation.*
 
 The intelligent Soma juices rush along like waves of water, like buffaloes to the forests.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24244,6 +25903,8 @@ The intelligent Soma juices rush along like waves of water, like buffaloes to th
 The tawny-coloured bright juices hasten to the pitchers with a stream
 of ambrosia, they pour forth sustenance accompanied with cattle.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುತಾ ಇಂದ್ರಾಯ ವಾಯವೇ ವರುಣಾಯ ಮರುದ್ಭ್ಯಃ ।
@@ -24273,6 +25934,8 @@ of ambrosia, they pour forth sustenance accompanied with cattle.
 *English Translation.*
 
 The libations effused proceed to Indra, to Vayu, to Varuna, to the Maruts, to Vishnu.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24304,6 +25967,8 @@ The libations effused proceed to Indra, to Vayu, to Varuna, to the Maruts, to Vi
 
 The priests utter the three sacred texts, the milch cows low (on being milked), the green-tinted Soma goes sounding (to the vessels).
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ಬ್ರಹ್ಮೀರನೂಷತ ಯಹ್ವೀರೃತಸ್ಯ ಮಾತರಃ ।
@@ -24333,6 +25998,8 @@ The many sacred hymns, the mothers of the sacrifice, give praise, they purify [t
 <!-- printed 822 -->
 *[822 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೨. ಸೂ. ೩೪]*
 
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24369,6 +26036,9 @@ From every side, Soma, pour upon us four oceans of riches, grant us thousands (o
 *[ಅ. ೬. ಅ. ೮. ವ. ೨೪ ] ಋಗ್ವೇದಸಂಹಿತಾ 823]*
 
 ಅನುವಾದವು—ಪ್ರ ಸುವಾನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹತ್ತನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಸುವಾನಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೪ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೪
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೩೪ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೨೪ ॥
@@ -24376,6 +26046,8 @@ From every side, Soma, pour upon us four oceans of riches, grant us thousands (o
 ಋಷಿಃ—ತ್ರಿತಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24407,6 +26079,8 @@ From every side, Soma, pour upon us four oceans of riches, grant us thousands (o
 
 Indu, when effused and expressed (by the priests), flows in a stream to the filtering-cloth, breaking down strong places by its strength.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುತ ಇಂದ್ರಾಯ ವಾಯವೇ ವರುಣಾಯ ಮರುದ್ಭ್ಯಃ ।
@@ -24432,6 +26106,8 @@ Indu, when effused and expressed (by the priests), flows in a stream to the filt
 *English Translation.*
 
 The Soma effused proceeds to Indra, to Vayu, to Varuna, to the Maruts, to Vishnu.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24463,6 +26139,8 @@ The Soma effused proceeds to Indra, to Vayu, to Varuna, to the Maruts, to Vishnu
 
 They press the crushed Soma as it pours forth its juice between the effusing stones, they milk out its juice by their acts.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಭುವತ್ತ್ರಿತಸ್ಯ ಮರ್ಜ್ಯೋ ಭುವದಿಂದ್ರಾಯ ಮತ್ಸರಃ ।
@@ -24493,6 +26171,8 @@ They press the crushed Soma as it pours forth its juice between the effusing sto
 
 The exhilarating Soma is to be cleansed (for the sacrifice) of Tritra, and for the drinking of Indra : the green tinted (juice) is mixed with the ingredients.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭೀಮೃತಸ್ಯ ವಿಷ್ಟಪಂ ದುಹತೇ ಪೃಶ್ನಿಮಾತರಃ ।
@@ -24522,6 +26202,8 @@ The exhilarating Soma is to be cleansed (for the sacrifice) of Tritra, and for t
 *English Translation.*
 
 The sons of Prishni milk this Soma at the place of sacrifice, the most beautiful and grateful oblation (to the gods).
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24558,6 +26240,9 @@ Our sincere smooth-flowing praises approach him. and uttering a sound welcomes t
 
 > ‘ಆ ನಃ' ಇತಿ ಷಡೃಚಮೇಕಾದಶಂ ಸೂಕ್ತಮಾಂಗಿರಸಸ್ಯ ಪ್ರಭೂವಸೋರಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ಅನುಕ್ರಾಂತಂ ಚ-’ ಆ ನಃ ಪವಸ್ವ ಪ್ರಭೂವಸುಃ' ಇತಿ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಆ ನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹನ್ನೊಂದನೆಯ ಸೂಕ್ತವು. ಇವರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು.  ಈ ಸೂಕ್ತಕ್ಕೆ ಪ್ರಭೂವಸುಃ ಆಂಗಿರಸಃ ಎಂಬುವನು ಋಷಿಯು; ಪವಮಾನ ಸೋಮುನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು.  ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆ ನಃ ಪವಸ್ವ ಪ್ರಭೂವಸುಃ ಎಂದು ಹೇಳಿರುವುದು.  ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೫ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೫
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೩೫ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೩೫ ।
@@ -24569,6 +26254,8 @@ Our sincere smooth-flowing praises approach him. and uttering a sound welcomes t
 <!-- printed 829 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೨೫ ] ಋಗ್ವೇದಸಂಹಿತಾ 829]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24595,6 +26282,8 @@ Our sincere smooth-flowing praises approach him. and uttering a sound welcomes t
 *English Translation.*
 
 Pour upon us, purifier, ample riches with that stream wherewith you bestow upon us light.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24626,6 +26315,8 @@ Pour upon us, purifier, ample riches with that stream wherewith you bestow upon 
 
 Indu, impeller of the waters, confounder of all (our foes), flow forth by your power as the supporter of wealth to us.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತ್ವಯಾ ವೀರೇಣ ವೀರವೋಽಭಿ ಷ್ಯಾಮ ಪೃತನ್ಯತಃ ।
@@ -24655,6 +26346,8 @@ Indu, impeller of the waters, confounder of all (our foes), flow forth by your p
 *English Translation.*
 
 With you, heroic (Soma), as our hero, may we overcome our enemies, pour upon us desirable (riches).
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24686,6 +26379,8 @@ With you, heroic (Soma), as our hero, may we overcome our enemies, pour upon us 
 
 Indu, the bestower of food, the seer, sends food to the worshipper, showing his favour, acquainted with sacred rites and arms.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ಗೀರ್ಭಿರ್ವಾಚಮೀಂಖಯಂ ಪುನಾನಂ ವಾಸಯಾಮಸಿ ।
@@ -24715,6 +26410,8 @@ Indu, the bestower of food, the seer, sends food to the worshipper, showing his 
 *English Translation.*
 
 We clothe with praises that Soma who is the inspirer of praise, the purified, the shepherd of men.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24751,6 +26448,9 @@ On the worship of whom all men fix their thoughts,—the lord of pious acts, the
 
 > 'ಅಸರ್ಜಿ' ಇತಿ ಷಡೃಚಂ ದ್ವಾದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ಅಸರ್ಜಿ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಅಸರ್ಜಿ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹನ್ನೆರಡನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಅಸರ್ಜಿ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೬ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೬
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೩೬ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೨೬ ।
@@ -24758,6 +26458,8 @@ On the worship of whom all men fix their thoughts,—the lord of pious acts, the
 ಋಷಿಃ—ಪ್ರಭೂವಸುಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24788,6 +26490,8 @@ On the worship of whom all men fix their thoughts,—the lord of pious acts, the
 *English Translation.*
 
 Pressed between the boards, (the Soma) has been let loose, like a chariot-horse, upon the straining-cloth,—the courser steps out on the field.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24820,6 +26524,8 @@ Pressed between the boards, (the Soma) has been let loose, like a chariot-horse,
 
 Soma, bearer (of oblations), vigilant, devoted to the gods, flows past the honey-dropping filter-cloth (into the vessel).
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ನೋ ಜ್ಯೋತೀಂಷಿ ಪೂರ್ವ್ಯ ಪವಮಾನ ವಿ ರೋಚಯ ।
@@ -24849,6 +26555,8 @@ Soma, bearer (of oblations), vigilant, devoted to the gods, flows past the honey
 *English Translation.*
 
 Ancient purifier, illume for us the luminaries (of heaven), animate us for strength-bestowing sacrifice.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24880,6 +26588,8 @@ Beautified by the ministers of the rite, expressed by their hands (the Soma) flo
 *[838 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೩೬]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವಿಶ್ವಾ ದಾಶುಷೇ ವಸು ಸೋಮೋ ದಿವ್ಯಾನಿ ಪಾರ್ಥಿವಾ ।
@@ -24905,6 +26615,8 @@ Beautified by the ministers of the rite, expressed by their hands (the Soma) flo
 *English Translation.*
 
 May that Soma bestow upon the donor (of the libation) all treasures whether of heaven or earth or the firmament.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24941,6 +26653,9 @@ Soma, lord of food, you ascend to the summmit of the sky, desirous of horses, co
 
 > ‘ಸ ಸುತಃ' ಇತಿ ಷಡೃಚಂ ತ್ರಯೋದಶಂ ಸೂಕ್ತಂ ರಹೂಗಣಸ್ಯಾರ್ಷಂ ಗಾಯತ್ರಂ ಸೌಮ್ಯಮ್ । ಅನುಕ್ರಮ್ಯತೇ ಚ-ಸ ಸುತೋ ರಹೂಗಣಃ' ಇತಿ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಸ ಸುತಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿಮೂರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ರಹೂಗಣಃ ಎಂಬುವನು ಋಷಿಯು; ಪವಮಾನಸೋಮನು ದೇವತೆಯು; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಸ ಸುತೋ ರಹೂಗಣಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೭ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೭
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೩೭ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೩೭ ।
@@ -24952,6 +26667,8 @@ Soma, lord of food, you ascend to the summmit of the sky, desirous of horses, co
 <!-- printed 840 -->
 *[840 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೩೭]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -24978,6 +26695,8 @@ Soma, lord of food, you ascend to the summmit of the sky, desirous of horses, co
 *English Translation.*
 
 Soma, the showrer (of benefits), when effused for the drinking (of the gods), rushes to the filter, destroying the Rakshasas, devoted to the gods.
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25009,6 +26728,8 @@ Soma, the showrer (of benefits), when effused for the drinking (of the gods), ru
 
 The all-beholding Soma, green-tinted, all-sustaining, rushes to the filter (and thence) crying aloud to the pitcher.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವಾಜೀ ರೋಚನಾ ದಿವಃ ಪವಮಾನೋ ವಿ ಧಾವತಿ ।
@@ -25038,6 +26759,8 @@ The all-beholding Soma, green-tinted, all-sustaining, rushes to the filter (and 
 *English Translation.*
 
 (Fleet as) a horse, the pure Soma, the illumer of heaven, hastens the destroyer of Rakshasas, past the woollen fleece.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25069,6 +26792,8 @@ The all-beholding Soma, green-tinted, all-sustaining, rushes to the filter (and 
 
 The pure Soma upon the high place (of the sacrifice) of Trita attended by its kindred rays, has lighted up the Sun.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸ ವೃತ್ರಹಾ ವೃಷಾ ಸುತೋ ವರಿವೋವಿದದಾಭ್ಯಃ ।
@@ -25098,6 +26823,8 @@ The pure Soma upon the high place (of the sacrifice) of Trita attended by its ki
 *English Translation.*
 
 The slayer of Vritra, the showerer of benefits, the giver of wealth, the invincible, the effused Soma proceeds (to the pitcher) as (a horse) to battle.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25134,6 +26861,9 @@ The divine Soma, when effused by the priest, hastens in his might to the pitcher
 
 > ‘ಏಷಃ' ಇತಿ ಷಡೃಚಂ ಚತುರ್ದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಏಷ ಉ ಸ್ಯಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು— ಏಷಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನಾಲ್ಕನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಏಷ ಉ ಸ್ಯಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೮ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೮
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೩೮ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೨೮ ॥
@@ -25141,6 +26871,8 @@ The divine Soma, when effused by the priest, hastens in his might to the pitcher
 ಋಷಿಃ—ರಹೂಗಣಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25172,6 +26904,8 @@ The divine Soma, when effused by the priest, hastens in his might to the pitcher
 
 This Soma the showerer of benefits, the chariot, dashes through the woollen fleece, bearing (to the worshipper) thousand-fold food.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏತಂ ತ್ರಿತಸ್ಯ ಯೋಷಣೋ ಹರಿಂ ಹಿನ್ವಂತ್ಯದ್ರಿಭಿಃ ।
@@ -25201,6 +26935,8 @@ This Soma the showerer of benefits, the chariot, dashes through the woollen flee
 *English Translation.*
 
 The fingers of Tritra effuse by the stones this green-tinted juice for Indra's drinking.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25232,6 +26968,8 @@ The ten fingers, eager in the work, express that (Soma), and by them it is purif
 *[848 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ ೩೮]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಸ್ಯ ಮಾನುಷೀಷ್ವಾ ಶ್ಯೇನೋ ನ ವಿಕ್ಷು ಸೀದತಿ ।
@@ -25257,6 +26995,8 @@ The ten fingers, eager in the work, express that (Soma), and by them it is purif
 *English Translation.*
 
 That Soma sits down amongs human beings like a falcon, hastening as a gallant to his mistress.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25287,6 +27027,8 @@ That Soma sits down amongs human beings like a falcon, hastening as a gallant to
 *English Translation.*
 
 That exhilarating juice beholds all,—Indu, the child of heaven, that percolates through the fleece.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25324,6 +27066,9 @@ That green-tinted, all-sustaining (Soma), when effused for the drinking (of the 
 
 > ‘ ಆಶುರರ್ಷ' ಇತಿ ಷಡೃಚಂ ಪಂಚದಶಂ ಸೂಕ್ತಮಾಂಗಿರಸಸ್ಯ ಬೃಹನ್ಮತೇರಾರ್ಷಂ ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ‘ ಆಶುರರ್ಷ ಬೃಹನ್ಮತಿಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಆಶುರರ್ಷ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನೈದನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಬೃಹನ್ಮತಿಃ ಎಂಬುವನು ಋಷಿಯು ; ಪವಮಾನಸೋಮನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಆಶುರರ್ಷ ಬೃಹನ್ಮತಿಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೩೯ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೩೯
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೩೯ ॥
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೨೯ ॥
@@ -25335,6 +27080,8 @@ That green-tinted, all-sustaining (Soma), when effused for the drinking (of the 
 <!-- printed 851 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೨೯. ] ಋಗ್ವೇದಸಂಹಿತಾ ೮೫೧]*
 
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25361,6 +27108,8 @@ That green-tinted, all-sustaining (Soma), when effused for the drinking (of the 
 *English Translation.*
 
 Great-minded Soma, go swift with your body that is most dear (to the gods), saying, “ Where are the gods ? ”
+
+#### ಋಕ್ ೨
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25392,6 +27141,8 @@ Great-minded Soma, go swift with your body that is most dear (to the gods), sayi
 
 Sanctifying the unconsecrated (worshipper) bringing food for the offerer, pour down rain from heaven.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುತ ಏತಿ ಪವಿತ್ರ ಆ ತ್ವಿಷಿಂ ದಧಾನ ಓಜಸಾ ।
@@ -25421,6 +27172,8 @@ Sanctifying the unconsecrated (worshipper) bringing food for the offerer, pour d
 *English Translation.*
 
 (The Soma) when effused enters the filter with force, giving forth light, beholding and illuminating (all things).
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25452,6 +27205,8 @@ Sanctifying the unconsecrated (worshipper) bringing food for the offerer, pour d
 
 This (Soma), who light of movement (mounts) to heaven, flows through the filter in a stream of water.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆವಿವಾಸನ್ಪರಾವತೋ ಅಥೋ ಅರ್ವಾವತಃ ಸುತಃ ।
@@ -25481,6 +27236,8 @@ This (Soma), who light of movement (mounts) to heaven, flows through the filter 
 *English Translation.*
 
 The effused (Soma) honouring (the gods), whether he is far off or nigh, is poured out (as) madhu for Indra.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25517,6 +27274,9 @@ The united (worshippers) praise (him), they squeeze (him) forth green-tinted wit
 
 > ‘ಪುನಾನಃ' ಇತಿ ಷಡೃಚಂ ಷೋಡಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಪುನಾನಃ' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪುನಾನಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನಾರನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪುನಾನಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೪೦ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೪೦
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೪೦ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೩೦ ।
@@ -25524,6 +27284,8 @@ The united (worshippers) praise (him), they squeeze (him) forth green-tinted wit
 ಋಷಿಃ—ಬೃಹನ್ಮತಿ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ।
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25555,6 +27317,8 @@ The united (worshippers) praise (him), they squeeze (him) forth green-tinted wit
 
 The pure all-seeing (Soma) has overcome all enemies ; (the worshippers) grace the sage (Soma) with their praises.
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಯೋನಿಮರುಣೋ ರುಹದ್ಗಮದಿಂದ್ರಂ ವೃಷಾ ಸುತಃ ।
@@ -25584,6 +27348,8 @@ The pure all-seeing (Soma) has overcome all enemies ; (the worshippers) grace th
 *English Translation.*
 
 The twany-hued showerer (of benefits) when effused ascends to his place ; he goes to Indra : he dwells in the fixed abode (of heaven).
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25615,6 +27381,8 @@ O Indu, O Soma, quickly pour upon us from all quarters vast and infinite riches.
 *[ಅ. ೬. ಅ. ೮. ವ. ೩೦.] ಋಗ್ವೇದಸಂಹಿತಾ 859 859]*
 
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಿಶ್ವಾ ಸೋಮ ಪವಮಾನ ದ್ಯುಮ್ನಾನೀಂದವಾ ಭರ ।
@@ -25640,6 +27408,8 @@ O Indu, O Soma, quickly pour upon us from all quarters vast and infinite riches.
 *English Translation.*
 
 O purified Soma, O Indu, bring all sorts of wealth, bestow unlimited food.
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25670,6 +27440,8 @@ O purified Soma, O Indu, bring all sorts of wealth, bestow unlimited food.
 *English Translation.*
 
 O Soma, being purified, bring us your worshippers wealth with male offspring, recompense the praises of him who glorifies you.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25706,6 +27478,9 @@ Indu, Soma, being purified, bring us wealth from both worlds ; Indu, Showerer (o
 
 > ‘ಪ್ರ ಯೇ ಗಾವಃ' ಇತಿ ಷಡೃಚಂ ಸಪ್ತದಶಂ ಸೂಕ್ತಂ ಕಾಣ್ವಸ್ಯ ಮೇಧ್ಯಾತಿಥೇರಾರ್ಷಂ  ಗಾಯತ್ರಂ ಪವಮಾನಸೋಮದೇವತಾಕಮ್ । ತಥಾ ಚಾನುಕ್ರಾಂತಂ- ಪ್ರ ಯೇ ಗಾವೋ ಮೇಧ್ಯಾತಿಥಿಃ' ಇತಿ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಪ್ರ ಯೇ ಗಾವಃ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನೇಳನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಮೇಧ್ಯಾತಿಥಿಃ ಕಾಣ್ವಃ ಎಂಬುವನು ಋಷಿಯು ; ಪವಮಾನಸೋಮನು ದೇವತೆಯು ; ಗಾಯತ್ರೀಛಂದಸ್ಸು. ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ—ಪ್ರ ಯೇ ಗಾವೋ ಮೇಧ್ಯಾತಿಥಿಃ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೪೧ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೪೧
 ಮಂಡಲ—೯ ॥ ಅನುವಾಕ—೨ ॥ ಸೂಕ್ತ—೪೧ ।
 ಅಷ್ಟಕ—೬ ॥ ಅಧ್ಯಾಯ—೮ ॥ ವರ್ಗ—೩೧ ।
@@ -25713,6 +27488,8 @@ Indu, Soma, being purified, bring us wealth from both worlds ; Indu, Showerer (o
 ಋಷಿಃ—ಮೇಧ್ಯಾತಿಥಿಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25748,6 +27525,8 @@ Indu, Soma, being purified, bring us wealth from both worlds ; Indu, Showerer (o
 *[ಅ. ೬. ಅ. ೮. ವ. ೩೧.] ಋಗ್ವೇದಸಂಹಿತಾ 863]*
 
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಸುವಿತಸ್ಯ ಮನಾಮಹೇಽತಿ ಸೇತುಂ ದುರಾವ್ಯಮ್ ।
@@ -25773,6 +27552,8 @@ Indu, Soma, being purified, bring us wealth from both worlds ; Indu, Showerer (o
 *English Translation.*
 
 We praise the auspicious Soma's imprisonment (of the Rakshasas) and hostile (intent against them), while we triumph over the enemy who performs no rites.
+
+#### ಋಕ್ ೩
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25804,6 +27585,8 @@ We praise the auspicious Soma's imprisonment (of the Rakshasas) and hostile (int
 
 The Sound of the purified, powerful Soma is heard like that of rain ; (his) lightnings move in the sky.
 
+#### ಋಕ್ ೪
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಆ ಪವಸ್ವ ಮಹೀಮಿಷಂ ಗೋಮದಿಂದೋ ಹಿರಣ್ಯವತ್ ।
@@ -25833,6 +27616,8 @@ The Sound of the purified, powerful Soma is heard like that of rain ; (his) ligh
 *English Translation.*
 
 When effused, Indu, pour forth much food with cows, gold, horses, and strength,
+
+#### ಋಕ್ ೫
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25865,6 +27650,8 @@ When effused, Indu, pour forth much food with cows, gold, horses, and strength,
 *English Translation.*
 
 Flow, all-seeing (Soma), fill the vast heaven and earth, as the sun (fills) the days with his beams.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25901,6 +27688,9 @@ Flow round us, Soma, on all sides in a bliss-bestowing stream, like a river down
 
 > ‘ಜನಯನ್' ಇತಿ ಷಡೃಚಮಷ್ಟಾದಶಂ ಸೂಕ್ತಮ್ । ಋಷ್ಯಾದ್ಯಾಃ ಪೂರ್ವವತ್ । ‘ಜನಯನ್' ಇತ್ಯನುಕ್ರಾಂತಮ್ । ಗತೋ ವಿನಿಯೋಗಃ ॥
 ಅನುವಾದವು—ಜನಯನ್ ಎಂಬ ಈ ಸೂಕ್ತವು ಎರಡನೆಯ ಅನುವಾಕದಲ್ಲಿ ಹದಿನೆಂಟನೆಯ ಸೂಕ್ತವು. ಇದರಲ್ಲಿ ಆರು ಋಕ್ಕುಗಳಿರುವವು. ಈ ಸೂಕ್ತಕ್ಕೆ ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು ಹಿಂದಿನ ಸೂಕ್ತದಂತೆಯೇ ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ ಜನಯನ್ ಎಂದು ಹೇಳಿರುವುದು. ವಿನಿಯೋಗವನ್ನು ಹಿಂದೆಯೇ ಹೇಳಲಾಗಿದೆ.
+
+## ಸೂಕ್ತ ೪೨ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೪೨
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೪೨ ॥
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೩೨ ॥
@@ -25908,6 +27698,8 @@ Flow round us, Soma, on all sides in a bliss-bestowing stream, like a river down
 ಋಷಿಃ—ಮೇಧಾತಿಥಿಃ ॥
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ॥
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -25940,6 +27732,8 @@ Flow round us, Soma, on all sides in a bliss-bestowing stream, like a river down
 
 The green-tinted (Soma) generating the luminaries of heaven, generating the sun in the firmament, clothing himself with the descending waters—
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಏಷ ಪ್ರತ್ನೇನ ಮನ್ಮನಾ ದೇವೋ ದೇವೇಭ್ಯಸ್ಪರಿ ।
@@ -25971,6 +27765,8 @@ The green-tinted (Soma) generating the luminaries of heaven, generating the sun 
 
 He with ancient praise when effused flows in a stream, a god for the gods.
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ವಾವೃಧಾನಾಯ ತೂರ್ವಯೇ ಪವಂತೇ ವಾಜಸಾತಯೇ ।
@@ -26000,6 +27796,8 @@ He with ancient praise when effused flows in a stream, a god for the gods.
 *English Translation.*
 
 The Soma juices of unbounded vigour flow for the increasing rapid acquisition of food.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26031,6 +27829,8 @@ Milking forth the ancient fluid, the Soma is poured into the filter and crying o
 *[ಅ. ೬. ಅ. ೮. ವ. ೬೨ ] ಋಗ್ವೇದಸಂಹಿತಾ 871]*
 
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಅಭಿ ವಿಶ್ವಾನಿ ವಾರ್ಯಾಭಿ ದೇವಾಁ ಋತಾವೃಧಃ ।
@@ -26056,6 +27856,8 @@ Milking forth the ancient fluid, the Soma is poured into the filter and crying o
 *English Translation.*
 
 Soma being purified hastens towards all desirable (wealth), towards the gods who favour the sacrifice.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26096,6 +27898,8 @@ Soma, being effused pour down upon us (wealth) consisting of cows male offspring
 <!-- printed 873 -->
 *[ಅ. ೬. ಅ. ೮. ವ. ೨೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 873]*
 
+## ಸೂಕ್ತ ೪೩ (ಮಂಡಲ ೯)
+
 ಸೂಕ್ತ—೪೩
 ಮಂಡಲ—೯ । ಅನುವಾಕ—೨ । ಸೂಕ್ತ—೪೩ ।
 ಅಷ್ಟಕ—೬ । ಅಧ್ಯಾಯ—೮ । ವರ್ಗ—೨೩ ।
@@ -26103,6 +27907,8 @@ Soma, being effused pour down upon us (wealth) consisting of cows male offspring
 ಋಷಿಃ—ಮೇಧ್ಯಾತಿಥಿಃ ।
 ದೇವತಾ—ಪವಮಾನಃ ಸೋಮಃ ।
 ಛಂದಃ—ಗಾಯತ್ರೀ ॥
+
+#### ಋಕ್ ೧
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26135,6 +27941,8 @@ Soma, being effused pour down upon us (wealth) consisting of cows male offspring
 
 We invest with praises that Soma who, beloved, is cleansed like a horse, with milk for the exhilaration (of the gods).
 
+#### ಋಕ್ ೨
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ತಂ ನೋ ವಿಶ್ವಾ ಅವಸ್ಯುವೋ ಗಿರಃ ಶುಂಭಂತಿ ಪೂರ್ವಥಾ ।
@@ -26165,6 +27973,8 @@ This Indu all our praises desiring protection, beautify (now) as of old for Indr
 *[ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೩ ] ಋಗ್ವೇದಸಂಹಿತಾ 875]*
 
 
+#### ಋಕ್ ೩
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಪುನಾನೋ ಯಾತಿ ಹರ್ಯತಃ ಸೋಮೋ ಗೀರ್ಭಿಃ ಪರಿಷ್ಕೃತಃ ।
@@ -26190,6 +28000,8 @@ This Indu all our praises desiring protection, beautify (now) as of old for Indr
 *English Translation.*
 
 Pure flows the beloved Soma, beautified by the praises of the sage Medhyatithi.
+
+#### ಋಕ್ ೪
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
@@ -26221,6 +28033,8 @@ Pure flows the beloved Soma, beautified by the praises of the sage Medhyatithi.
 
 Purified Soma, grant us auspicious wealth with infinite splendour, O Indu.
 
+#### ಋಕ್ ೫
+
 *ಸಂಹಿತಾಪಾಠಃ*
 
 > ಇಂದುರತ್ಯೋ ನ ವಾಜಸೃತ್ಕನಿಕ್ರಂತಿ ಪವಿತ್ರ ಆ ।
@@ -26250,6 +28064,8 @@ Purified Soma, grant us auspicious wealth with infinite splendour, O Indu.
 *English Translation.*
 
 Indu, like a horse rushing into battle, sounds in the sieve, when he flows through, beloved of the gods.
+
+#### ಋಕ್ ೬
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
