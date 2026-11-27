@@ -19294,6 +19294,257 @@ Metre—1-9, 17-19. Gāyatrī. 10, 12, 14. Bṛhatī. 11, 13, 15. Satobṛhatī.
 
 मित्रयोर्वरुणयोः (*mitrayorvaruṇayoḥ*) means of Mitra and Varuṇa; the dual is used in both words with regard to their mutual relation. Of the two gods तुविजातयोः (*tuvijātayoḥ*), who have manifestations in many places, may our praise, which is शूष्यः (*śūṣyaḥ*) (pleasant), नमस्वान् (*namasvān*) (endowed with food and oblations), go forth. The śruti says *ahorātre vai mitrāvaruṇau*. Since they come again and again in relation to day and night, they are तुविजात (*tuvijāta*); or else, because they appeared for the benefit of many.
 
+### Printed p. 463
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविजातयोः (*tuvijātayoḥ*)—having many births
+- मित्रयोः वरुणयोः (*mitrayoḥ varuṇayoḥ*)—offered to Mitra and Varuṇa
+- नः (*naḥ*)—our
+- शूष्यः (*śūṣyaḥ*)—that which brings happiness
+- नमस्वान् (*namasvān*)—that which is accompanied by oblation
+- स्तोमः (*stomaḥ*)—this hymn of praise
+- प्र एतु (*pra etu*)—may it go to them and reach them
+
+##### भावार्थ (Bhāvārtha)
+
+May this hymn of praise of ours, which brings happiness and is accompanied by oblation, and which we offer to Mitra and Varuṇa, who have many births, go to them and reach them.
+
+##### English translation
+May this our propitiatory praise, accompanied by oblations, proceed to you, Mitra and Varuna, of reiterated manifestations.
+
+##### विशेषविषयगळु (Special Topics)
+
+तुविजातयोः (*tuvijātayoḥ*)—tuvi means many, jāta means birth. What is meant by many births? In Śruti passages such as अहोरात्रे वै मित्रावरुणौ (*ahorātre vai mitrāvaruṇau*) (Tai. Saṃ. 2-4-10-1) and मैत्रं वा अहः । वारुणी रात्रिः (*maitraṃ vā ahaḥ | vāruṇī rātriḥ*), Mitra is said to be the lord of the day and Varuṇa the lord of the night. Since day and night come round every day, one after the other in a changing order, the seer has hinted in another way at his meaning, that Mitra and Varuṇa, the presiding deities of these, have many births.
+मित्रयोः वरुणयोः (*mitrayoḥ varuṇayoḥ*)—मित्रावरुणयोरित्यर्थः । उभयत्र प्रतियोगापेक्षया द्विवचनत्वं (*mitrāvaruṇayorityarthaḥ | ubhayatra pratiyogāpekṣayā dvivacanatvaṃ*). Here there are two separate words, Mitra and Varuṇa, and both deities are indicated; because of this, and for the convenience of the metre, the dual has been used for each word. The same kind of usage is seen in the Ṛk
+उदु त्यच्चक्षुर्महि मित्रयोरा एति प्रियं वरुणयोरदब्धं (*udu tyaccakṣurmahi mitrayorā eti priyaṃ varuṇayoradabdhaṃ*) (Ṛ. Saṃ. 6-51-1).
+Here too the separate dual words मित्रयोः वरुणयोः (*mitrayoḥ varuṇayoḥ*) are used in place of the word मित्रावरुणयोः (*mitrāvaruṇayoḥ*). Besides, in many contexts it is the custom to use the dual of one word alone, Mitra or Varuṇa, to indicate both.
+In the Ṛk आ यद्वामीयचक्षसा मित्र वयं च सूरयः (*ā yadvāmīyacakṣasā mitra vayaṃ ca sūrayaḥ*) (Ṛ. Saṃ. 7-66-6) the dual word मित्रा (*mitrā*) (in the Saṃhitā text it is short, मित्र (*mitra*)) is used to indicate both Mitra and Varuṇa.
+
+### Printed p. 464
+In the Ṛk अधारयतं पृथिवीमुत द्यां मित्रराजाना वरुणा नमोभिः (*adhārayataṃ pṛthivīmuta dyāṃ mitrarājānā varuṇā namobhiḥ*) (Ṛ. Saṃ. 5-62-3) the dual word वरुणा (*varuṇā*) is used to indicate both Mitra and Varuṇa. There are many more examples like this.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या धा॒रयं॑त दे॒वाः सु॒दक्षा॒ दक्ष॑पितरा ।  
+> अ॒सु॒र्या॑य॒ प्रम॑हसा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । धारयंत । देवाः । सुदक्षा । दक्षपितरा ।  
+> असुर्याय । प्रमहसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यौ युवां धारयंत । के । देवा आदिकर्तारोऽसुर्याय बलकराय । कीदृशौ युवां । सुदक्षा शोभनबलौ दक्षपितरा बलस्य पालकौ स्वामिनौ वा । बलप्रदावित्यर्थः । प्रमहसा प्रकृष्टतेजस्कौ । तौ साधयतमित्युत्तरत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+"या (*yā*)": you two whom the gods, the first makers, uphold for strength-giving vigour (*asuryāya balakarāya*). What kind are you? सुदक्षा (*sudakṣā*): of excellent strength; दक्षपितरा (*dakṣapitarā*): protectors, or lords, of strength, that is, givers of strength; प्रमहसा (*pramahasā*): of surpassing splendour. The connection is with the next verse: "Accomplish those (rites)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa)
+- सुदक्षा (*sudakṣā*)—you of excellent strength
+- दक्षपितरा (*dakṣapitarā*)—lords of power and capacity, that is, givers of strength to men
+- प्रमहसा (*pramahasā*)—you who are exceedingly radiant
+- या (*yā*)—whom you
+- देवाः (*devāḥ*)—the gods
+- असुर्याय (*asuryāya*)—in order to produce strength in all
+- धारयंत (*dhārayaṃta*)—established [such as you, make our sacrifices and other rites fruitful]
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you who have excellent strength, are lords of power and capacity, and are exceedingly radiant: the earlier gods established you to produce strength in all. Such as you, make our sacrifices and other rites fruitful.
+
+##### English translation
+You whom the gods uphold for their invigoration, both mighty, masters of strength and of diffusive radiance.
+
+### Printed p. 465
+
+##### विशेषविषयगळु (Special Topics)
+
+What is said in this Ṛk must be construed together with the meaning of the next Ṛk. In this Ṛk there is only a description of the qualities of Mitra and Varuṇa; the main verb is in the next Ṛk.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता नः॑ स्ति॒पा त॑नू॒पा वरु॑ण जरितॄ॒णां ।  
+> मित्र॑ सा॒धय॑तं॒ धियः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । नः । स्तिपा । तनूपा । वरुण । जरितॄणां ।  
+> मित्र । साधयतं । धियः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ स्तिपा । स्त्यायंत इति स्त्रियो गृहाः । तान्पात इति स्तिपौ । तनूपा तन्वः पातारौ हे वरुण हे मित्र उक्तलक्षणौ युवां जरितॄणां नोऽस्माकं धियः कर्माणि स्तुतिरूपाणि साधयतं । सफलवंति कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+"ता (*tā*)": those two. स्तिपा (*stipā*): स्त्यायंत इति स्त्रियो गृहाः । तान्पात इति स्तिपौ (*styāyaṃta iti striyo gṛhāḥ | tānpāta iti stipau*), that is, protectors of houses. तनूपा (*tanūpā*): protectors of bodies. O Varuṇa, O Mitra, you two of the stated character: make the acts of us, the praisers, our praise-acts, successful (साधयतं (*sādhayataṃ*) = make them fruitful).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—such, that is, those endowed with the qualities spoken of in the previous Ṛk
+- स्तिपा (*stipā*)—protectors of houses
+- तनूपा (*tanūpā*)—you who protect our bodies and the like (from harm)
+- वरुण मित्र (*varuṇa mitra*)—O Mitra and Varuṇa, you
+- जरितॄणां (*jaritṝṇāṃ*)—who praise you
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—sacrificial rites or hymns
+- साधयतं (*sādhayataṃ*)—make fruitful
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, O Varuṇa, endowed with the qualities spoken of before, protectors of houses and of bodies and the like: make this sacrificial rite of ours, which takes the form of praise of you, fruitful.
+
+##### English translation
+Protectors of our dwellings, protectors of our persons, Mitra and Varuna, perfect the rites of your adorers.
+
+### Printed p. 466
+
+##### विशेषविषयगळु (Special Topics)
+
+स्तिपा (*stipā*)—स्त्यायंत इति स्त्रियो गृहाः । तान् पात इति स्तिपौ (*styāyaṃta iti striyo gṛhāḥ | tān pāta iti stipau*). Because they are spread out so as to be suitable to dwell in, स्त्रियः (*striyaḥ*) means houses. Because they protect these, Mitra and Varuṇa are described by the epithet स्तिपा (*stipā*).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य सूर॒ उदि॒तेऽना॑गा मि॒त्रो अ॑र्य॒मा ।  
+> सु॒वाति॑ सवि॒ता भगः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । सूरे । उत्इते । अनागाः । मित्रः । अर्यमा ।  
+> सुवाति । सविता । भगः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्धनमस्माकमपेक्षितं तदद्यास्मिन्काले सूर उदिते सति प्रातःसवनेऽनागाः पापहंता मित्रोऽर्यमा सविता भगश्चैते प्रत्येकं सुवाति । प्रेरयेत् । अथवा । अनागा मित्रोर्यमा दाता भवतु । तदीप्सितं धनं भगो भजनीयः सविता सुवाति । प्रेरयतु ॥
+
+##### Gist of the bhāṣya
+
+The wealth we desire: today, at this time, when the sun has risen, at the morning pressing, may Mitra, Aryaman, Savitṛ and Bhaga, each of them, the sinless (अनागाः (*anāgāḥ*) = destroyers of sin), impel (सुवाति (*suvāti*) = send) it. Or else: let Mitra and Aryaman, sinless, be givers; and Savitṛ, Bhaga, the one to be worshipped, impels (sends) that desired wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—whatever wealth we desire, that
+- अद्य (*adya*)—now, that is, this day
+- सूरे (*sūre*)—the sun
+- उदिते (*udite*)—while rising, at the time of the morning pressing
+- अनागाः (*anāgāḥ*)—who remove sins
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- सविता (*savitā*)—the god Savitṛ
+- भगः (*bhagaḥ*)—the god called Bhaga too
+- सुवाति (*suvāti*)—may he impel it to reach us, that is, may he give it
+
+##### भावार्थ (Bhāvārtha)
+
+The wealth we desire, this day while the sun is rising, at the time of the morning pressing, may the gods Mitra, Aryaman, Savitṛ and Bhaga, who remove sins, impel to reach us; that is, may those gods give us the wealth we desire.
+
+##### English translation
+May Mitra, the distroyer of sin, Aryaman, Savitri, Bhaga, bestow (upon us), to-day at sunrice (what we pray for).
+
+### Printed p. 467
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प्रा॒वीर॑स्तु॒ स क्षयः॒ प्र नु याम॑न्सुदानवः ।  
+> ये नो॒ अंहो॑ऽति॒पिप्र॑ति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुप्रअवीः । अस्तु । सः । क्षयः । प्र । नु । यामन् । सुदानवः ।  
+> ये । नः । अंहः । अतिपिप्रति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः क्षयः स निवासः सुप्रावीरस्तु । सुष्ठु प्रकर्षेण रक्षितास्तु । प्रशब्द आदरार्थः । प्रकर्षेण नु क्षिप्रं भवत्विति शेषः ।  । हे सुदानवः सुदानाः युष्माकं यामन् यामनि गमने सति  गमने । ये यूयमागत्य नोऽस्माकमंहः पापमतिपिप्रति अतिपारयथ  गमन इति ॥
+
+##### Gist of the bhāṣya
+
+"That dwelling": may that abode be well protected (सुप्रावीः (*suprāvīḥ*) = well and excellently guarded). The word प्र (*pra*) has the sense of regard; the supplied remainder is "may it be quickly, with excellence". O liberal ones (सुदानवः (*sudānavaḥ*)), when you go (यामन् (*yāman*)), you who, having come, carry us across (अतिपिप्रति (*atipiprati*) = अतिपारयथ (*atipārayatha*)) our sin (अंहः (*aṃhaḥ*)).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—you who (having come)
+- नः (*naḥ*)—our
+- अंहः (*aṃhaḥ*)—sin
+- अतिपिप्रति (*atipiprati*)—remove it and bring us across; such
+- सुदानवः (*sudānavaḥ*)—O Mitra, Varuṇa and Aryaman, who give desired objects abundantly, (your)
+- यामन् (*yāman*)—after the going
+- सः क्षयः (*saḥ kṣayaḥ*)—that well-known dwelling-place of ours
+- नु (*nu*)—quickly
+- सुप्रावीः अस्तु (*suprāvīḥ astu*)—will become well protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, Varuṇa and Aryaman, you who remove our sins and carry us across: after you have come to us and gone, the house where we dwell will become well protected, without any fear.
+
+##### English translation
+May this our dwelling be well protected, liberal deities, on your departure, you who purify us from sin.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्व॒राजो॒ अदि॑ति॒रद॑ब्धस्य व्र॒तस्य॒ ये ।  
+> म॒हो राजा॑न ईशते ॥ ६ ॥
+
+### Printed p. 468
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्वराजः । अदितिः । अदब्धस्य । व्रतस्य । ये ।  
+> महः । राजानः । ईशते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च ये मित्रादयस्त्रयः स्वराजः सर्वस्य स्वामिनोऽदितिस्तेषां माता च संति अदब्धस्याहिंसितस्य महो महतो व्रतस्यास्य कर्मणो राजानः स्वामिनः ते ईशते समर्था भवंति । अभिमतं दातुमिति शेषः । अथवैवं योज्यं । ये मित्रादयोऽदितिश्चादब्धस्य व्रतस्य स्वराज ईश्वराः ते महो महतोऽस्मदभिमतधनस्य राजानः स्वामिनः संत ईशतेऽस्मभ्यं तद्दातुं ॥
+
+##### Gist of the bhāṣya
+
+"Moreover": those three, Mitra and the others, who are self-sovereign (स्वराजः (*svarājaḥ*) = lords of all), and Aditi their mother, are the lords (राजानः (*rājānaḥ*)) of this great (महः (*mahaḥ*)) and unharmed (अदब्धस्य (*adabdhasya*)) rite (व्रतस्य (*vratasya*)); they are able (ईशते (*īśate*)) to give what is desired (this is the supplied remainder). Or else construe thus: those, Mitra and the others and Aditi, who are lords of the unharmed rite, are, as lords of the great wealth we desire, able to give it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- ये (*ye*)—those Mitra, Varuṇa and Aryaman who
+- स्वराजः (*svarājaḥ*)—are lords of all, they
+- अदितिः (*aditiḥ*)—and their mother, the goddess Aditi too
+- अदब्धस्य (*adabdhasya*)—of the unharmed (unobstructed)
+- महः (*mahaḥ*)—and great
+- व्रतस्य (*vratasya*)—of this sacrificial rite
+- राजानः (*rājānaḥ*)—as masters
+- ईशते (*īśate*)—are givers of what we desire
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra, Varuṇa and Aryaman, lords of all, and their mother the goddess Aditi too, as owners of this great sacrifice of ours, which is performed without obstruction, give us what we desire.
+
+##### English translation
+And who are sovereign over all, and, with Aditi, preside over this unobstructed and great ceremony.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ वां॒ सूर॒ उदि॑ते मि॒त्रं गृ॑णीषे॒ वरु॑णं ।  
+> अ॒र्य॒मणं॑ रि॒शाद॑सं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । वां । सूरे । उत्इते । मित्रं । गृणीषे । वरुणं ।  
+> अर्यमणं । रिशादसं ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 462. pp. 457-462 (batch API)
+**Progress note:** Done through printed p. 468. pp. 463-468 (batch API)
