@@ -2513,6 +2513,171 @@ By the sentence अच्युता ध्रुवाणि च्यवं�
 
 Addressing the Maruts, the time at which these Mitra and other deities perform the world's creative works is set out. The sentence ईं दातिवारः ववृधे (*īṃ dātivāraḥ vavṛdhe*) teaches the time of favour of Mitra and the others. For the particle ईं (*īṃ*) the meaning "this time" is explained here. For the word दातिवार (*dātivāra*): खंडितमेघः प्रदेयजलः (*khaṃḍitameghaḥ pradeyajalaḥ*), when the time in which the water takes on the manner of raining, with density in the clouds reduced, has increased; and दत्तवरणीयहविर्लक्षणधनो यजमानः (*dattavaraṇīyahavirlakṣaṇadhano yajamānaḥ*) (offering oblations to the gods), the sacrificer who performs the sacrifice with wealth in the form of oblation desired by the gods: in accordance with the time of his offering for the gods, Mitra and the other gods, being favourable to the works to be performed by the Maruts, accomplish and protect the activities of the world; so it is described.
 
+### Printed p. 103
+
+##### Grammar
+
+- पांति — पा रक्षणे । धातुः । लट् प्रथमपुरुषबहुवचनांतरूपं । पादादौ वर्तमानत्वान्निघातस्वरो न भवति । तिप् पित्त्वाद्धातुस्वरः शिष्यते ।
+- आवद्यात् — नद व्यक्तायां वाचि । नञ् उपपदे अवद्यपण्यवर्या—(पा. सू. ३-१-१०१) इति यदंतत्वेन निपातितं । पंचम्येकवचनांतरूपं ।
+- चयते — चिञ् चयने । धातुश्चुरादिः । धातो इत्वसामर्थ्याण्णिच् विकल्पेन भवति । व्यत्ययेन झ प्रत्ययस्य अतादेशः । शप् निमित्तत्वेन धातोरिको गुणोऽयादेशः । पादादौ वर्तमानत्वान्निघातस्वरो न भवति । धातुस्वरः शिष्यते ।
+- अप्रशस्तान् — शंसु स्तुतौ । धातुः । कर्मणि निष्ठा प्रत्ययः । नञ् तत्पुरुषसमासः । तत्पुरुषे तु—(पा. सू. ६-२-२) इत्यव्ययपूर्वपदप्रकृतिस्वरो भवति ।
+- च्यवंते — चुज् गतौ धातुः । लट् प्रथमपुरुषैकवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- अच्युता — न च्युतानि अच्युतानि । नञ् तत्पुरुषसमासः । पूर्ववन्नञ् स्वरः शिष्यते । शेश्छंदसि बहुलं (पा. सू. ६-१-७०) इति नपुंसकरूपे शेर्लोपः ।
+- ववृधे — वृधु वृद्धौ । धातुः । छंदसि लुज् लज्—(पा. सू. ३-४-६) इति वर्तमानार्थे लिट् । प्रथमपुरुषैकवचनांतरूपं । पादस्यादौ वर्तमानत्वान्निघातस्वरो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- दातिवारः — बहुव्रीहौ बहुव्रीहौ प्रकृत्या—(पा सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति । ॥ ८ ॥
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒ही नु वो॑ मरुतो॒ अंत्य॒स्मे आ॒रात्ता॑च्चि॒च्छव॑सो॒ अंत॑मा॒पुः ।  
+> ते धृ॒ष्णुना॒ शव॑सा शूशु॒वांसोऽर्णो॒ न द्वेषो॑ दृढ॒ता ॑ 
+> परि ष्ठुः ॥ ९ ॥
+
+### Printed p. 104
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । नु । वः । मरुतः । अंति । अस्मे इति । आरात्तात् । चित् । शवसः । अंतं । आपुः ।  
+> ते । धृष्णुना । शवसा । शुशुवांसः । अर्ण॥ । न । द्वेषः । धृषता । परि । स्थुः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वः शवसो युष्माकं संबंधिनो बलस्यांतमवसानमंत्यंतिक
+> आरात्ताच्चिद्दूरादपि । यद्वा । चिदिति कुत्सायां । अत्यंतदूरात् । अस्मे अस्मासु मध्य
+> एकेऽपि नु क्षिप्रं नह्यापुः । नैव खलु प्राप्नुवंति । संनिधावसंनिधौ च न प्राप्नुवंतीत्यर्थः ! अथ परोक्षे प्राप्तबलवत्वमाह ! ते खलु मरुतो धृष्णुना धर्षकेण
+> शवसा बलेन शूशुवांसो वर्धमानाः आत एव धृषता पराभिभावकेन सामर्थ्येन
+> द्विषो द्वेषून्परि ष्टुः । परिभवंति । वशीकुर्वंति । तत्र दृष्टांतः । अर्णो
+> नोदकमिव । यथोदकं स्वविरोधि रजआदिकमभिभवति तद्वत् । यस्मादेवं तस्माच्छवसो०तं नापुः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, no one among us has reached the limit (अंतं (*aṃtaṃ*)) of your strength (शवसः (*śavasaḥ*)), whether near (अंति (*aṃti*)) or far (आरात्तात् चित् (*ārāttāt cit*))." Alternatively, चित् (*cit*) expresses contempt, meaning "from exceedingly far". Not even one among us quickly attains it; they do not reach it whether in nearness or in non-nearness. Then Sāyaṇa states their strength, which is not directly perceived: those Maruts, growing by their daring (धृष्णुना (*dhṛṣṇunā*)) strength, and therefore by an overpowering ability, overcome (परि ष्टुः (*pari ṣṭuḥ*)), that is, subdue, their enemies. The example: like water (अर्णः न (*arṇaḥ na*)), which overcomes its opponents such as dust. Because this is so, the limit of their strength is not reached.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those Marut deities
+- धृष्णुना (*dhṛṣṇunā*)—with daring
+- शवसा (*śavasā*)—with their own strength
+- शूशुवांसः (*śūśuvāṃsaḥ*)—growing
+- दृषता (*dṛṣatā*)—(therefore) with overpowering ability
+- द्वेषः (*dveṣaḥ*)—haters
+- अर्णः न (*arṇaḥ na*)—as the water of the ocean covers dust and the like, so
+- परि ष्टुः (*pari ṣṭuḥ*)—they defeat (bring under control); therefore
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- शवसः (*śavasaḥ*)—of strength
+- अंतं (*aṃtaṃ*)—the end
+- अंति (*aṃti*)—nearby
+- आरात्तात् चित् (*ārāttāt cit*)—(or) from very far
+- अस्मे (*asme*)—(among) us (no one)
+- नु (*nu*)—quickly
+- नहि आपुः (*nahi āpuḥ*)—attains not at all
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, growing by their natural strength, bring all haters under their control by their enemy-overpowering ability, as ocean water subdues dust and the like. Therefore no one can know the limit of their strength, whether from near or from far.
+
+##### English translation (H. H. Wilson)
+None of us, Maruts, have attained, either nearly or remotely the limit of your strength: those (Maruts), increasing in energy and vigour, overwhelm their enemies like an ocean.
+
+### Printed p. 105
+
+##### विशेषविषयगळु (Special Topics)
+
+शवसः अंतं अस्मे नु नहि आपुः (*śavasaḥ aṃtaṃ asme nu nahi āpuḥ*)—not even one among us quickly reaches the end of your strength; they reach it neither in nearness nor in non-nearness. The word शवस् (*śavas*) is listed among the names of water (Ni. 2-24) and read among the names of strength (Ni. 3-9). Since none of us seers, the beholders of the mantra, is able to know by knowledge the limit of the Maruts' strength, either in your presence or at a distance, their greatness is praised as being of immeasurable strength.
+
+The author of the Nirukta explains that the word अस्मे (*asme*), while remaining of one form in all seven cases, conveys the sense of the respective case, and gives examples. In अस्मै ते बंधुः (*asmai te baṃdhuḥ*), अस्मे (*asme*) is given the nominative sense वयं (*vayaṃ*), "we". In अस्मे यातं नासत्या सजोषाः (*asme yātaṃ nāsatyā sajoṣāḥ*) the accusative sense अर्मान् (*armān*) is given, "us". In अस्मे समानेभिर्वृषभ पौंस्येभिः (*asme samānebhirvṛṣabha pauṃsyebhiḥ*) it is used in the instrumental sense अस्माभिः (*asmābhiḥ*), "by us". In अस्मे प्रयंधि मघवन्नृजीषिन् (*asme prayaṃdhi maghavannṛjīṣin*) the dative sense अस्मभ्यं (*asmabhyaṃ*), "for us", is described. In अस्मे आरात् चित् द्वेषः सनुतर्युयोतु (*asme ārāt cit dveṣaḥ sanutaryuyotu*) the ablative sense अस्मत् (*asmat*), "from us", is explained. In ऊर्व इव पप्रथे कामो अस्मे (*ūrva iva paprathe kāmo asme*) the genitive use अस्माकं (*asmākaṃ*), "our", is shown. In अस्मे धत्तवसवो वसूनि (*asme dhattavasavo vasūni*) the locative sense अस्मासु (*asmāsu*), "in our regard", is established here. (Ni. 6-7)
+
+आराच्चित् (*ārāccit*)—दूरादपि । यद्वा । चिदिति कुत्सायां अत्यंतदूरात् (*dūrādapi | yadvā | ciditi kutsāyāṃ atyaṃtadūrāt*). The Nirukta author explains that the particle चित् (*cit*) is used in many senses: चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*). Here the word चित् (*cit*) is given the sense of अपि (*api*), that is, of combination, and also the sense of reproach; the meaning "whether far or very far" is explained.
+
+शवसा शुशुवांसः (*śavasā śuśuvāṃsaḥ*)—the Maruts, growing by an ability that puts others down, keep their enemies द्वेषः परि ष्टुः (*dveṣaḥ pari ṣṭuḥ*) under their control by their own power. For this the simile अर्णः न (*arṇaḥ na*) is given: यथा उदकं रज आदिकं अभिभवति तद्वत् (*yathā udakaṃ raja ādikaṃ abhibhavati tadvat*). As water by its own ability absorbs into itself its enemy, dust, so they too keep enemies under their control. By this the sense is described that they are of immeasurable strength.
+
+### Printed p. 106
+
+##### Grammar
+
+- नहि — निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- अंति — अंतिकशब्दः । कादिलोपो बहुलमिति वक्तव्यं इति वचनात् तस्य ककारस्य लोपो भवति ।
+- अस्मे — सप्तमीबहुवचने परे सुपां सुलुक्—(पा. सू. ७-१-३९) इति तस्य शे आदेशः ।
+- आरात्तात् — आरादिति दूरसमीपार्थवाचकमव्ययं । तस्मात् स्वार्थे तातिल् प्रत्ययः । लित्त्वात् तस्य पूर्वस्योदात्तस्वरो भवति ।
+- आपुः — आप्लृ व्याप्तौ । धातुः । छांदसत्वेन वर्तमानार्थे लिट् । प्रथमपुरुषबहुवचनांतरूपं । नहि इत्यस्य संबंधत्वान्निघातस्वरो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- धृष्णुना — इधृषा प्रागल्भ्ये । धातुः । त्रसिगृधिधृषि क्षिपेः क्नुः (पा. सू. ३-२-१४०) इति क्नु प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । तृतीयैकवचनांतरूपं ।
+- शूशुवांसः — टु ओश्वि गतिवृद्ध्योः धातुः । लिटः क्वसुरादेशः । विभाषा श्वेः (पा. सू. ६-१ ३०) इति धातोः संप्रसारणं पूर्वरूपं । वस्वेकाजाद्भसां (पा. सू. ७-२-६७) इति नियमात् प्रत्ययस्येडागमो न भवति । प्रत्ययनिमित्तत्वेन धातोर्द्वित्वे कृते तुजादीनां दीर्घो- (पा. सू. ६-१-७) इत्यभ्यासस्य दीर्घो भवति । प्रत्ययस्वरो भवति ।
+- द्वेषः — द्विष अप्रीतौ धातुः । अन्येभ्योऽपि दृश्यंते इति विच् । पुगंत लघूपधस्य च इति लघूपधगुणः । प्रत्ययस्य सर्वलोपो भवति । द्वितीयाबहुवचनांतरूपं ।
+- स्थुः — ष्ठा गतिनिवृत्तौ । धातुः । छंदसि लुज् लज् लिटः इति लुज् । प्रथमपुरुषबहुवचने झि प्रत्ययः । ज्लिगॆ सिचादेशः । आतः (पा. सू. ३-४-११०) इति झेर्जुसादेशः । गातिस्थाघु—(पा सू. २-४-७७) इति सिचो लुक् । उस्यपदांतात् इति पररूपं । बहुलं छंदस्यमाज्‌योगेऽपि इत्यडागमो न भवति । निघातस्वरो भवति । उपसर्गात् सुनो—(पा. सू. ८-२-६५) इति षत्वं भवति । ॥ ९ ॥**NOTE**
+
+### Printed p. 107
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यम॒द्येंद्र॑स्य॒ प्रेष्ठा॑ व॒यं श्वो वो॑चेमहि सम॒र्ये ।  
+> व॒यं पु॒रा महि॑ च नो॒ अनु॒ द्यून्तन्न॑ ऋभु॒क्षा न॒रामनु॑  
+> ष्यात् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । अद्य । इंद्रस्य । प्रेष्ठाः । वयं । श्वः । वोचेमहि । समर्ये ।  
+> वयं । पुरा । महि । च । नः । अनु । द्यून् । तत् । नः । ऋभुक्षाः । नरां ।  
+> अनु । स्यात् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमद्येत्येतां दशमीमस्तमित आदित्ये जपेत् । तथा च सूत्रं ।
+> वयमद्येंद्रस्य प्रेष्ठा इत्यस्तं यात्यादित्ये । आ. गृ. २-६-१४ । इति ॥
+> अव्यास्मिन्निने वयं यष्टार इंद्रस्य देवस्य प्रेष्ठाः प्रियतमा भवेव ।
+> यद्वा। प्रियतमा वयमिंद्रस्य महत्त्वं वोचेमहि। स्तोतुं समर्था भूयास्म।
+> किंच वयं श्वः परस्मिन्नपि दिने समर्यॆ । सह मर्या मर्त्या ऋत्विजो यस्मिन् स
+> समर्यो यज्ञः । तस्मिन् । संग्रामे वा । इंद्रस्य महत्त्वं वोचेमहि । किंच
+> वयं पुरा पूर्वस्मिन्नतीतेऽपि काले महि महद्बलं नोऽस्मदर्थं वोचेमहि ।
+> तथा द्यून्दिवसाननु । प्रतिदिवसमित्यर्थः । अतीत आगामिनि च दिवसे सर्वदा
+> वोचेमहि । तत्तस्मादृभक्षाः । महन्नामैतत् ऋभुक्षा उक्षा इति तन्नामसु
+> पाठात् । महानिंद्रो नरां मनुष्याणां मध्यॆ नोऽस्माननु स्यात् । अनु
+> भवतु । अनुकूलमभिमतप्रदो ना भवतु ॥
+
+##### Gist of the bhāṣya
+
+One should mutter this tenth Ṛk, वयमद्य (*vayamadya*), when the sun has set; and the sūtra says so: वयमद्येंद्रस्य प्रेष्ठा इत्यस्तं यात्यादित्ये । आ. गृ. २-६-१४ । इति (*vayamadyeṃdrasya preṣṭhā ityastaṃ yātyāditye | ā. gṛ. 2-6-14 | iti*) (Ā. Gṛ. 2-6-14). Meaning: on this day may we, the sacrificers, be most dear (प्रेष्ठाः (*preṣṭhāḥ*)) to the god Indra. Or else: being most dear, may we become able to praise (वोचेमहि (*vocemahi*)) Indra's greatness. Further, tomorrow, on another day too, at the समर्ये (*samarye*) — that in which mortals (मर्याः (*maryāḥ*)), the priests, are together, that is, the sacrifice, or else the battle — may we speak of Indra's greatness. Further, in the former, past time too, we have proclaimed his great strength (महि (*mahi*)) for our sake; likewise day after day (*dyūn anu*), that is, on every day past and future, may we always proclaim it. Therefore may ऋभुक्षाः (*ṛbhukṣāḥ*) — this is a name for "great", since it is read among the names ऋभुक्षा उक्षा (*ṛbhukṣā ukṣā*) — the great Indra, among men (नरां (*narāṃ*)), be (अनु स्यात् (*anu syāt*)) favourable to us, a giver of what we desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—this day
+- इंद्रस्य (*iṃdrasya*)—to Indra
+- प्रेषाः (*preṣāḥ*)—most dear
+- वयं (*vayaṃ*)—we (the sacrificers)
+- वोचेमहि (*vocemahi*)—may we be able to praise (Indra's greatness). [Or: वयं (*vayaṃ*)—we; इंद्रस्य (*iṃdrasya*)—to Indra; प्रेषाः (*preṣāḥ*)—most dear (may we be); अद्य (*adya*)—this day; वोचेमहि (*vocemahi*)—let us praise (Indra's greatness).]
+- वयं (*vayaṃ*)—we
+- श्वः (*śvaḥ*)—tomorrow too
+
+### Printed p. 108
+- समर्ये (*samarye*)—in the sacrifice accompanied by priests and the like, or in battle (let us praise his greatness); and
+- वयं (*vayaṃ*)—we
+- पुरा (*purā*)—formerly too (we used to tell his greatness)
+- ड्यून् अनु (*ḍyūn anu*)—(now) every day
+- महि (*mahi*)—(his) great strength
+- नः (*naḥ*)—for us (that it may give us strength) (we praise)
+- तत् (*tat*)—therefore
+- ऋभुक्षा (*ṛbhukṣā*)—the great Indra
+- नरां (*narāṃ*)—among men
+- नः (*naḥ*)—to us (the praisers)
+- अनु स्यात् (*anu syāt*)—may he be favourable (a giver of what is desired)
+
+##### भावार्थ (Bhāvārtha)
+
+We, who are dear to Indra, let us praise him today; tomorrow too, at the time of the sacrifice, let us extol him; as before, so every day, let us praise him for our benefit. Being pleased with this, may Indra favour us, the praisers, among men.
+
+##### English translation (H. H. Wilson)
+Let us, who are beloved of Indra, glorify him to-day; let us glorify him tomorrow, at the sacred rite; let us glorify him for our gret (good), in future days as of old, so that Ribhukshin may ever be favourable to us amongst men.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is said in the Āśvalāyana Gṛhya-sūtra that this Ṛk is to be recited after sunset (Ā. Gṛ. Sū. 2-6-14).
+
+वयं अद्य इंद्रस्य प्रेष्ठाः (*vayaṃ adya iṃdrasya preṣṭhāḥ*)—यष्टारः अस्मिन् दिने देवस्य प्रियतमा भवेम (*yaṣṭāraḥ asmin dine devasya priyatamā bhavema*): as the first meaning of this sentence it is said that the sacrificers who perform the sacrifice wish, "On this day, the day of sacrificing, may we be dear to the deities." यद्वा वयं इंद्रस्य महत्त्वं स्तोतुं समर्था भूयास्म (*yadvā vayaṃ iṃdrasya mahattvaṃ stotuṃ samarthā bhūyāsma*): or else, as the second meaning, "may we, as sacrificing yajamānas, be able to praise Indra's greatness."
+
+त्वः समर्ये वोचेमहि (*tvaḥ samarye vocemahi*)—"on another day, after performing the sacrifice, we shall praise Indra's greatness." Here the word समर्य (*samarya*) is explained as सह मर्याः मर्त्याः ऋत्विजः यस्मिन् स समर्यो यज्ञः तस्मिन् । संग्रामे (*saha maryāḥ martyāḥ ṛtvijaḥ yasmin sa samaryo yajñaḥ tasmin | saṃgrāme*). The word मर्य (*marya*) is listed among the names of men (Ni. 3-8). The setting in which, together with men, the priests perform the necessary duties in the sacrificial hall is the sacrifice denoted by the word समर्य (*samarya*); or it is war, the setting in which men contend in order to accomplish their aims. Thus the meaning is described: we shall praise Indra's greatness in sacrifices and in battles.
+
 ---
 
-**Progress note:** Done through printed p. 102. pp. 97-102 (batch API)
+**Progress note:** Done through printed p. 108. pp. 103-108 (batch API)
