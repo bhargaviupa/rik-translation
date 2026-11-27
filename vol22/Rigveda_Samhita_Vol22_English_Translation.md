@@ -6258,6 +6258,293 @@ As soon as that seed fell in that jar, the powerful ascetic seers Agastya and Va
 
 That seed spilled by Mitra and Varuṇa was divided in many ways. It fell in the jar, in the water and on the earth. From the part that fell on the earth, the great sage Vasiṣṭha, the best of all seers, was born on the earth. (Agastya was born in the jar, and a fish in the water.)
 
+### Printed p. 145
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प्र॑के॒त उ॒भय॑स्य प्रवि॒द्वान्स॒हस्र॑दान उ॒त वा॒ सदा॑नः ।  
+> य॒मेन॑ त॒तं प॑रि॒धिं व॑यि॒ष्यन्न॑प्स॒रसः॒ परि॑ जज्ञे॒ वसि॑ष्ठः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । प्रकेतः । उभयस्य । प्रविद्वान् । सहस्रदानः । उत । वा । सदानः ।  
+> यमेन । ततं । परिधिं । वयिष्यन् । अप्सरसः । परि । जज्ञे । वसिष्ठः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वसिष्ठः प्रकेतः प्रकृष्टज्ञान उभयस्योभयं दिवं च पृथिवीं च प्रविद्वान् प्रकर्षेण जानन् सहस्रदानोऽभवत् । किमनेन सहस्रदान इति विशेषणेन उत वासि ना सदानः सर्वदानसहित एवाभवत् । किंच वसिष्ठो यमेन कारणात्मना सर्वनियंत्रा ततं विस्तृतं परिधिं वस्त्रं । परिधिरित्यनेन संसारप्रवाहो विवक्षितः । तं वयिष्यन्नप्सरस उर्वश्याः । परीति पंचम्यर्थानुवादः । जज्ञे । जातः ॥
+
+##### Gist of the bhāṣya
+
+That Vasiṣṭha was प्रकेतः (*praketaḥ*), one of excellent knowledge. He thoroughly knew उभयस्य (*ubhayasya*), both heaven and earth, and became a giver of a thousand gifts. Sāyaṇa then asks what the qualifier "giver of a thousand" is for, and answers that he was सदानः (*sadānaḥ*), endowed with every gift. **NOTE**. Moreover Vasiṣṭha, being about to weave or put on the spread-out परिधिं (*paridhiṃ*), the garment that Yama, the controller of all, spread as the cause, was born from the Apsaras Urvaśī. By "paridhi" the flow of saṃsāra is meant. परि (*pari*) is a restatement of the sense of the ablative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Vasiṣṭha
+- प्रकेतः (*praketaḥ*)—one of excellent knowledge
+- उभयस्य (*ubhayasya*)—of both heaven and earth, their reality
+- प्रविद्वान् (*pravidvān*)—one who knew fully
+- सहस्रदानः (*sahasradānaḥ*)—became a giver of things numbering a thousand
+- उत वा (*uta vā*)—or
+- सदानः (*sadānaḥ*)—became donation itself
+- यमेन (*yamena*)—by Yama, the controller of the world
+- ततं (*tataṃ*)—spread out widely
+- परिधिं (*paridhiṃ*)—the garment in the form of the flow of saṃsāra
+- वयिष्यन् (*vayiṣyan*)—wearing
+- अप्सरसः (*apsarasaḥ*)—from the Apsaras woman Urvaśī
+- परि जज्ञे (*pari jajñe*)—was born
+
+##### भावार्थ (Bhāvārtha)
+
+That same Vasiṣṭha, of great glory, became one of excellent knowledge, fully knowing the reality of both heaven and earth, and a giver of a thousand things; or else he is donation itself. Wearing the garment, in the form of the flow of saṃsāra, spread out widely by Yama, the controller of the world, he was born from the Apsaras woman Urvaśī.
+
+##### English translation
+He, the sage, cognizant of both worlds, was the donor of thousands : he was verily donation : wearing the vesture spread by Yama, Vasishtha was born of the Apsaras.
+
+### Printed p. 146
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रे ह॑ जा॒तावि॑षि॒ता नमो॑भिः कुं॒भे रेतः॑ सिषिचतुः समा॒नं ।  
+> ततो॑ ह॒ मान॒ उदि॑याय॒ मध्या॒त्ततो॑ जा॒तमृषि॑माहु॒र्वसि॑ष्ठं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्रे । ह । जातौ । इषिता । नमःऽभिः । कुंभे । रेतः । सिसिचतुः । समानं ।  
+> ततः । ह । मानः । उत् । इयाय । मध्यात् । ततः । जातं । ऋषिं । आहुः । वसिष्ठं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्रे बहुकर्तृके यागे । हेति पूरणः । जातौ दीक्षितौ मित्रावरुणाविषिताध्येषितौ स्वयमन्यैर्जनैर्नमोभिः स्तुतिभिः कुंभे वासतीवरे कलशे समानमेकदैव रेतः सिषिचतुः । आसिंचतां । ततो वासतीवरात्कुंभान्मध्यादगस्त्यो मानः शमीप्रमाण उदियाय । प्रादुर्बभूव । तत एव कुंभाद्वसिष्ठमप्यृषिं जातमाहुः
+
+##### Gist of the bhāṣya
+
+सत्रे (*satre*) means in a sacrifice with many performers; ह (*ha*) is a filler. जातौ (*jātau*) means the two, Mitra and Varuṇa, consecrated. They were इषिता (*iṣitā*), urged on by the other people with नमोभिः (*namobhiḥ*), praises. In the कुंभे (*kuṃbhe*), the jar called Vasatīvara, they poured समानं (*samānaṃ*), at one and the same time, their seed. From that Vasatīvara jar, from its middle, Agastya, of the measure of a śamī (stake), arose, that is, came into being. From that very jar they say that the seer Vasiṣṭha too was born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्रे ह (*satre ha*)—in a sacrifice of the satra kind
+- जातौ (*jātau*)—Mitra and Varuṇa, who were consecrated
+- नमोभिः (*namobhiḥ*)—by praises
+- इषिता (*iṣitā*)—being honoured **NOTE**
+- कुंभे (*kuṃbhe*)—in the jar named Vasatīvarī
+- समानं (*samānaṃ*)—together
+- रेतः (*retaḥ*)—their seed
+- सिषिचतुः (*siṣicatuḥ*)—poured
+- ततः (*tataḥ*)—from that jar
+- मध्यात् (*madhyāt*)—from the middle
+- मानः (*mānaḥ*)—Agastya, of the measure of a śamī
+- उदियाय (*udiyāya*)—was born
+- ततः (*tataḥ*)—from that very one
+- जातं (*jātaṃ*)—born
+- ऋषिं (*ṛṣiṃ*)—the seer
+- वसिष्ठं (*vasiṣṭhaṃ*)—as the seer Vasiṣṭha
+- आहुः (*āhuḥ*)—they say
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra and Varuṇa, consecrated in a sacrifice of the satra kind and honoured with praises, gathered their seed together in the jar named Vasatīvarī. From the middle of that jar Agastya, of the measure of a śamī, was born. Another seer born from the same is called the seer Vasiṣṭha.
+
+##### English translation
+Consecrated for the sacrifice, propitiated by praises, they, Mitra and Varuna, poured a common effusion into the water jar, from the midst of which Mana uprose, and from which also, they say, Vasishtha was born.
+
+### Printed p. 147
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्थ॒भृतं॑ साम॒भृतं॑ बिभर्ति॒ ग्रावा॑णं॒ बिभ्र॒त्प्र व॑दा॒त्यग्रे॑ ।  
+> उपै॑नमाध्वं सुमन॒स्यमा॑ना॒ आ वो॑ गच्छाति प्रतृदो॒ वसि॑ष्ठः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्थभृतं । सामभृतं । बिभर्ति । ग्रावाणं । बिभ्रत् । प्र । वदाति । अग्रे ।  
+> उप । एनं । आध्वं । सुमनस्यमानाः । आ । वः । गच्छाति । प्रतृदः । वसिष्ठः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रतृदः । प्रतृद इति तृत्सव एवाभिधीयंते नामांतरेण । वो युष्मान् वसिष्ठ आ गच्छाति । आगच्छति । एनं वसिष्ठं सुमनस्यमानाः सुमनसः संत उपाध्वं । उपतिष्ठत । आगतश्चासौ वसिष्ठो यज्ञेऽग्रे पुरोहितो ब्रह्मा सन्नुक्थभृतं शस्त्राणां संभर्तारं बिभर्ति । सामभृतमुद्गातारं बिभर्ति । ग्रावाणमभिषवणं बिभ्रद्भृतमध्वर्युं च बिभर्ति । प्र वदाति । यज्ञे यत्प्रवदितव्यं भ्रेषादिनिमित्ते कर्तव्यमस्ति तदपि वदतीति तृत्सून् प्रतींद्रो ब्रवीति ॥
+
+##### Gist of the bhāṣya
+
+हे प्रतृदः (*he pratṛdaḥ*): "प्रतृदः (*pratṛdaḥ*)" is another name by which the Tṛtsus themselves are meant. Vasiṣṭha is coming to you (आ गच्छाति (*ā gacchāti*) = आगच्छति (*āgacchati*)). Be well disposed and wait upon him (उपाध्वं (*upādhvaṃ*) = उपतिष्ठत (*upatiṣṭhata*)). Having come, this Vasiṣṭha, as foremost priest and Brahmā at the sacrifice, supports the उक्थभृतं (*ukthabhṛtaṃ*), the one who carries the recitations (śastras); he supports the सामभृतं (*sāmabhṛtaṃ*), the Udgātṛ; and, bearing the pressing-stone, he supports the Adhvaryu who also carries it. प्र वदाति (*pra vadāti*): whatever is to be spoken or done at the sacrifice on an occasion such as a blunder (भ्रेष (*bhreṣa*)), that too he declares. Thus Indra speaks to the Tṛtsus.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रतृदः (*pratṛdaḥ*)—O Tṛtsus
+- वः (*vaḥ*)—to you
+- वसिष्ठः (*vasiṣṭhaḥ*)—Vasiṣṭha
+- आ गच्छाति (*ā gacchāti*)—comes
+- एनं (*enaṃ*)—this Vasiṣṭha
+- सुमनस्यमानाः (*sumanasyamānāḥ*)—honouring with faith
+- उप आध्वं (*upa ādhvaṃ*)—go to meet
+- (this Vasiṣṭha) अग्रे (*agre*)—being the priest at the sacrifice
+- उक्थभृतं (*ukthabhṛtaṃ*)—is the leader of the Hotṛ who recites the śastra
+- सामभृतं (*sāmabhṛtaṃ*)—guide also to the Udgātṛ
+- बिभर्ति (*bibharti*)—supports
+- ग्रावाणं (*grāvāṇaṃ*)—the pressing-stone
+- बिभ्रत् (*bibhrat*)—he supports the Adhvaryu who holds it
+- प्र वदाति (*pra vadāti*)—teaches the rites to be performed at the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Tṛtsus, the venerable Vasiṣṭha comes to you. Go to meet him, honouring him with faith. This Vasiṣṭha, being the chief priest at the sacrifice, is guide and leader to the Hotṛ who recites the śastra and to the Udgātṛ who chants the sāman. He is also a helper to the Adhvaryu who holds the pressing-stone. He teaches all the rites to be performed at the sacrifice.
+
+##### English translation
+Tritsus, Agastya comes to you ; welcome him with devoted minds,
+**NOTE**
+
+### Printed p. 148
+and he in the foremost station directs the reciter of the prayer, the chaunter of the hymn, the grinder of the stone, and repeats (what is to be repeated).
+
+## Sūkta 34 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयोऽनुवाके द्वाविंशति सूक्तानि । तत्र प्र शुक्रेति पंचविंशत्यृचं प्रथमं सूक्तं । अत्रेयमनुक्रमणिका । प्र शुक्रा पंचाधिका वैश्वदेवं हाद्या एकविंशतिर्द्विपदा अष्टा महेरर्धर्च उत्तरोऽहिर्बुध्न्ययेति । वसिष्ठ ऋषिः । आद्या एकविंशतिर्द्विपदा विंशत्यक्षरा विराजो द्वाविंशाद्याश्चतस्रस्त्रिष्टुभः । विश्वे देवा देवता ॥ पृष्ठ्ये दशरात्रे चतुर्थेऽहनि वैश्वदेवशस्त्रे इदं सूक्तं वैश्वदेवनिविद्धानं । सूत्रितं च । प्र शुक्रैत्विति वैश्वदेवं । आ. ८-८ । इति ॥ षोडशिन्या धूर्ष्वस्मा इति द्विपदा । आ. ६-२ । इति ॥ महाव्रतेऽप्येषा द्विपदा । तथैव पंचमारण्यके सूत्रितं । आ धूर्ष्वस्मा इत्येका सूददोहाः । ऐ. आ. ५-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the third anuvāka there are twenty-two sūktas. Of these the first is the sūkta of twenty-five ṛks beginning प्र शुक्रा (*pra śukrā*). Sāyaṇa quotes the Anukramaṇikā for it: प्र शुक्रा पंचाधिका वैश्वदेवं हाद्या एकविंशतिर्द्विपदा अष्टा महेरर्धर्च उत्तरोऽहिर्बुध्न्ययेति (*pra śukrā paṃcādhikā vaiśvadevaṃ hādyā ekaviṃśatirdvipadā aṣṭā maherardharca uttaro 'hirbudhnyayeti*). The seer is Vasiṣṭha. The first twenty-one ṛks are dvipadā of twenty syllables, of the virāj type; from the twenty-second, four ṛks are triṣṭubh. The deity is the Viśve Devāḥ. At the Pṛṣṭhya Daśarātra, on the fourth day, this sūkta serves as the Vaiśvadeva-nividdhāna in the Vaiśvadeva śastra. It is enjoined by the sūtra: प्र शुक्रैत्विति वैश्वदेवं (*pra śukraitviti vaiśvadevaṃ*) (Ā. 8-8). Its use in the Ṣoḍaśin is given by षोडशिन्या धूर्ष्वस्मा इति द्विपदा (*ṣoḍaśinyā dhūrṣvasmā iti dvipadā*) (Ā. 6-2). This dvipadā is also used in the Mahāvrata, and is enjoined likewise in the fifth Āraṇyaka: आ धूर्ष्वस्मा इत्येका सूददोहाः (*ā dhūrṣvasmā ityekā sūdadohāḥ*) (Ai. Ā. 5-1).
+
+##### Anuvāda
+
+In the third anuvāka of the seventh maṇḍala of the Ṛgveda Saṃhitā there are twenty-two sūktas. Of them the sūkta प्र शुक्रा (*pra śukrā*) is the first. It has twenty-five ṛks. In the Anukramaṇikā it is said: प्र शुक्रा पंचाधिका वैश्वदेवं हाद्या एकविंशतिर्द्विपदा अष्टा महेरर्धर्च उत्तरोऽहिर्बुध्न्ययेति (*pra śukrā paṃcādhikā vaiśvadevaṃ hādyā ekaviṃśatirdvipadā aṣṭā maherardharca uttaro 'hirbudhnyayeti*). The seer of this sūkta is Vasiṣṭha; the deity is the Viśve Devāḥ. The first twenty-one ṛks of this sūkta are in the metre called dvipadā virāj, of twenty syllables. The four ṛks from the twenty-second onward are in the triṣṭubh metre. It is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra प्र शुक्रैत्विति वैश्वदेवं (*pra śukraitviti vaiśvadevaṃ*) (Ā. 8-8), that in the Vaiśvadeva śastra mantras recited on the fourth day of the Daśarātra sacrifice called Pṛṣṭhya, this sūkta is to be recited as the Vaiśvadeva-nividdhāna sūkta. That it has a use in the sacrifice called Ṣoḍaśī is explained by the Āśvalāyana Śrauta Sūtra in the sūtra आ धूर्ष्वस्मा इति द्विपदा (*ā dhūrṣvasmā iti dvipadā*) (Ā. 6-2). That the ṛks of this sūkta in the dvipadā metre have a use also in the Mahāvrata-iṣṭi is indicated by the Aitareya Āraṇyaka, in the fifth Āraṇyaka, in the sentence आ धूर्ष्वस्मा इत्येका सूददोहाः (*ā dhūrṣvasmā ityekā sūdadohāḥ*) (Ai. 5-2-3). **NOTE**
+
+##### Particulars
+
+- Sūkta—34
+- Maṇḍala—7; Anuvāka—3; Sūkta—34
+- Aṣṭaka—5; Adhyāya—3; Varga—21, 22, 23
+- Ṛks in the sūkta—25
+- Ṛṣi—वसिष्ठः (*vasiṣṭhaḥ*)
+- Devatā—1-14, 19-25: विश्वे देवाः (*viśve devāḥ*); 15: अहिः (*ahiḥ*); 17: अहिर्बुध्न्यः (*ahirbudhnyaḥ*)
+- Chandas—1-21: द्विपदा (*dvipadā*); 22-25: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शु॒क्रैतु॑ दे॒वी म॑नी॒षा अ॒स्मत् सुत॑ष्टो॒ रथो॒ न वा॒जी ॥ १ ॥
+
+### Printed p. 149
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शुक्रा । एतु । देवी । मनीषा । अस्मत् । सुतष्टः । रथः । न । वाजी ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुक्रा दीप्ता देवी सर्वेषां कामानां प्रदात्री मनीषा स्तुतिरस्मदस्क्रोऽस्मिन् सूक्ते स्तोप्यमाणान्देवान् वाजी वेगवान् सुतष्टः सुसंस्कृतो रथो न रथ इव प्रैतु । प्रगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+शुक्रा (*śukrā*) is bright; देवी (*devī*) is the giver of all desires; मनीषा (*manīṣā*) is the praise. Let this praise of ours go forth to the gods who are to be praised in this sūkta, like a swift (वाजी (*vājī*)), well-fashioned (सुतष्टः (*sutaṣṭaḥ*)) chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्रा (*śukrā*)—possessed of splendour
+- देवी (*devī*)—and granting desires
+- मनीषा (*manīṣā*)—our praise
+- अस्मत् (*asmat*)—recited by us
+- वाजी (*vājī*)—swift-going
+- सुतष्टः (*sutaṣṭaḥ*)—and well-fashioned
+- रथो न (*ratho na*)—like a chariot
+- प्र एतु (*pra etu*)—let it speed (to the gods)
+
+##### भावार्थ (Bhāvārtha)
+
+May our praise, full of splendour and granting desires, recited by us, speed like a swift and well-fashioned chariot and go and reach the gods.
+
+##### English translation
+May pure and divine praise proceed from us (to the gods) like a swift, well-constructed chariot.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒दुः पृ॑थि॒व्या दि॒वो ज॒नित्रं॑ शृ॒ण्वंत्यापो॒ अध॒ क्षरं॑तीः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विदुः । पृथिव्याः । दिवः । जनित्रं । शृण्वंति । आपः । अध । क्षरंतीः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्यामृच्यापः स्तूयंते । क्षरंतीः क्षरंत्य आपो दिवः पृथिव्याश्च । उभयोरपि लोकयोरित्यर्थः । जनित्रमुत्पत्तिं विदुः । जानंति । अथापि च शृण्वंति स्तोत्राणीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+In this ṛk the waters are praised. The flowing waters (क्षरंतीः (*kṣaraṃtīḥ*)) know the जनित्रं (*janitraṃ*), the origin, of heaven and of earth, that is, of both worlds. And they also hear; "the praises" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्षरंतीः (*kṣaraṃtīḥ*)—flowing
+- आपः (*āpaḥ*)—the waters
+- दिवः (*divaḥ*)—of the heavenly world (and)
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- जनित्रं (*janitraṃ*)—the manner of origin
+- विदुः (*viduḥ*)—have known
+- अध (*adha*)—therefore
+- शृण्वंति (*śṛṇvaṃti*)—they hear our praises
+
+### Printed p. 150
+
+##### भावार्थ (Bhāvārtha)
+
+The flowing waters have known the manner of origin of the heavenly world and of the earth. Therefore they hear our praises.
+
+##### English translation
+The flowing waters have known the origin of earth and heaven : may they now hear (our praises).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आप॑श्चिदस्मै॒ पिन्वं॑त पृ॒थ्वीर्वृ॒त्रेषु॒ शूरा॒ मंसं॑त उ॒ग्राः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । चित् । अस्मै । पिन्वंत । पृथ्वीः । वृत्रेषु । शूराः । मंसंते । उग्राः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोऽस्मिन्दृचे स्तूयते । पृथ्वीः पृथ्व्यः प्रथमाना आपश्चिदापोऽप्यस्मा इंद्रायै पिन्वंत । प्याययंते । वृत्रेषूपद्रवेषु सत्सूग्रा उद्गूर्णास्तेजस्विनो वा शूरा योद्धारोऽपि मंसंते । इममेवेंद्रं स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+In this ṛk Indra is praised. The पृथ्वीः (*pṛthvīḥ*), the broad, extending waters also swell, that is, nourish, this Indra. When there are troubles (वृत्रेषु (*vṛtreṣu*)), the उग्राः (*ugrāḥ*), mighty or brilliant, शूराः (*śūrāḥ*), warriors, also मंसंते (*maṃsaṃte*): they praise this very Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथ्वीः (*pṛthvīḥ*)—spread out widely
+- आपश्चित् (*āpaścit*)—the waters too
+- अस्मै (*asmai*)—to this Indra
+- पिन्वंत (*pinvaṃta*)—give nourishment
+- वृत्रेषु (*vṛtreṣu*)—in battles that destroy enemies
+- उग्राः (*ugrāḥ*)—showing terrible strength
+- शूराः (*śūrāḥ*)—the valiant also
+- मंसंते (*maṃsaṃte*)—praise this Indra
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, spread out widely, are also nourishing to this Indra. The valiant, showing terrible strength in battles that destroy enemies, also praise this Indra.
+
+##### English translation
+The vast waters offer nurishment to Indra : fierce warriors, (combating) with foes, glorify him.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ धू॒र्ष्व॑स्मै॒ दधा॒ताश्वा॒निंद्रो॒ न व॒ज्री हिर॑ण्यबाहुः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । धूःऽसु । अस्मै । दधात । अश्वान् । इंद्रः । न । वज्री । हिरण्यबाहुः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 144. pp. 139-144 (batch API)
+**Progress note:** Done through printed p. 150. pp. 145-150 (batch API)
