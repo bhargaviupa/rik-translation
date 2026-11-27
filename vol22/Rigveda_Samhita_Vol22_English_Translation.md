@@ -16857,6 +16857,95 @@ Since this mantra is also recited in the Taittirīya Saṃhitā of the Yajurveda
 ॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
 Here ends the fourth chapter in the fifth Aṣṭaka of the Ṛgveda Saṃhitā, with Sāyaṇa's commentary and the Kannada translation.
 
+### Printed p. 397
+
+## Maṇḍala 7
+
+**Introduction (Sūkta 60)**
+
+Sixtieth Sūkta of the seventh Maṇḍala, in the fifth Adhyāya of the fifth Aṣṭaka.
+
+*On the deity Sūrya*
+
+In this Sūkta and in the six Sūktas that follow it, the beginning is a praise of Sūrya and afterwards a praise of Mitra and Varuṇa. Therefore we shall first consider the subject of Sūrya briefly here, and afterwards examine the subject of Mitra and Varuṇa.
+
+In many places in the Ṛgveda and the Yajurveda it is said that Mitra is the lord of the day and Varuṇa the lord of the night. Many Śruti passages can be cited as examples, such as मैत्रं वा अहः । वारुणी रात्रिः ॥ (*maitraṃ vā ahaḥ | vāruṇī rātriḥ ‖*) But if one asks what connection Sūrya has with Mitra and Varuṇa, —
+
+### Printed p. 398
+
+it is said that this Sūrya, who is visible to our eyes, is like the eyes of Mitra and Varuṇa. In many Ṛks such as चक्षुर्मित्रस्य वरुणस्याग्नेः (*cakṣurmitrasya varuṇasyāgneḥ*) (Ṛ. Saṃ. 1-115-1), चक्षुर्मित्रस्य वरुणस्य (*cakṣurmitrasya varuṇasya*) (Ṛ. Saṃ. 7-63-1), नमो मित्रस्य वरुणस्य चक्षसे (*namo mitrasya varuṇasya cakṣase*) (Ṛ. Saṃ. 10-37-1), Sūrya is famed as the eye of Mitra and Varuṇa.
+
+Sūrya is the son of the heaven-world (दिवस्पुत्राय सूर्याय शंसत (*divasputrāya sūryāya śaṃsata*), 10-37-1); in some places Sūrya is also reckoned the son of Aditi (सूर्यमादित्येयं (*sūryamādityeyaṃ*) 10-88-11). Sūrya sits on a chariot. One horse or many horses draw his chariot; ordinarily seven horses bear it (सप्ताश्वा हरितः सूर्यस्य (*saptāśvā haritaḥ sūryasya*) 1-115-3, 4). Sūrya is the Self of the whole world: as the inner self in the bodies of living beings he governs their movements, and Sūrya is also the cause of the movement of inert things (सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*) 1-115-1). Impelled by the power of Sūrya, people become able to do their respective tasks (नूनं जनाः सूर्येण प्रसूता अयन्नर्थानि कृणवन्नपांसि (*nūnaṃ janāḥ sūryeṇa prasūtā ayannarthāni kṛṇavannapāṃsi*) 7-63-4). He can see everything to a great distance; he sees all the good and bad deeds that men do (1-50-2, 6; 7-61-1; 7-63-1, 4 etc.).
+
+Explaining the meaning of the word Sūrya, Yāska says:
+
+सूर्यः सर्तेर्वा, सुवतेर्वा, स्वीर्यतेर्वा ॥ (*sūryaḥ sartervā, suvatervā, svīryatervā ‖*) (Ni. 12-14)
+
+That is, he has said that the word Sūrya may be formed from the root सृ (*sṛ*) (to move), or from the root सूज् (*sūj*) (to bring forth), or from सु (*su*) + ईरयति (*īrayati*), meaning to impel. Sūrya rises in the east in the morning, moves in the sky without a break, and by evening reaches the west and sets; thus his movement is unbroken. Again, by the power of Sūrya all the living beings and plants of the world are produced. The air, heated by the rays of Sūrya, through its movements causes manifold changes in the world. By the heat of his rays the waters of seas and other reservoirs turn to vapour, and in the sky, as clouds, pour down rain and become the cause of the production of plants. From plants, living beings and men are produced (अद्भ्य ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः ॥ (*adbhya oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ ‖*) Tai. U. 2-1-1). The movements of inert things also arise from the heat of Sūrya. How? As said in सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*): Sūrya, a mass of radiance, though he stands in the middle of his orb, pervades everything with his heat, and so, as the inner controller of all, impels each to act according to its time. Therefore he is the cause of the production of the whole class of effects, moving (living beings and so on) and unmoving (inert things).
+
+### Printed p. 399
+
+Only Sūrya has the power, once he has risen, to stir up beings who lie motionless like the dead, without knowledge or strength to do any work, and to make them engage in their respective tasks.
+
+योऽसौ तपन्नुदेति । स सर्वेषां भूतानां प्राणानादायोदेति । ........ असौ योऽस्तमेति । स सर्वेषां भूतानां प्राणानादायास्तमेति । .... असौ य आपूर्यति । स सर्वेषां भूतानां प्राणैरापूर्यति । (*yo 'sau tapannudeti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyodeti | ........ asau yo 'stameti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyāstameti | .... asau ya āpūryati | sa sarveṣāṃ bhūtānāṃ prāṇairāpūryati |*) (Tai. Ā. 1-14-1)
+
+As said in these Śruti passages: when Sūrya sets he takes with him the Prāṇas of all living beings, that is, the power of movement and the like and the activity of knowing. Therefore at night living beings, unable to do any work, fall under the sway of sleep. Again, in the morning, when Sūrya rises, he comes bringing with him the Prāṇas of all those beings, that is, the powers of doing work and the activity of knowing, and rises. Then he fills those beings with his power in the form of vigour. Since Sūrya gives knowledge and power of action to the whole world and, by his rising and setting, makes it conscious and unconscious in turn, his greatness is here described: he is the Self and the individual soul of all things, moving and unmoving.
+
+Besides this, according to modern science (Sceintific view) too, Sūrya is the cause of the movements of all things in this world. From Sūrya we receive every kind of energy. Sūrya, or his rays, are the cause of the movements going on among living beings; of the movement of the air in the sky, the formation of clouds, the falling of rain and similar events; and of all the work that goes on unceasingly on the earth, such as the growth of plants and the flowing movement of rivers. Without the light of Sūrya, deep darkness would cover this world and not even a blade of grass could move. Therefore it is fitting to give the sentence सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*) the meaning: The sun is the source of all the energies so for as this world (earth) is concerned.
+
+In the Purāṇas and elsewhere Sūrya is called by words such as Āditya, Pūṣan, Mitra, Savitṛ. But in the Vedas, and especially in the Ṛgveda, the distinctive character of Sūrya is one thing and that of Āditya another; the distinctive character of the deities Pūṣan, Mitra, Savitṛ and so on is different again. Although the qualities of Sūrya are seen in the twelve Ādityas beginning with Mitra, in sacrifices, where Sūrya is praised, Āditya is not praised. All these are reckoned as separate deities. Not only that: in the Vedas
+
+### Printed p. 400
+
+when one and the same deity has a distinctive personal quality, the deity with that quality is regarded as different. For example, when Indra is called मरुत्वानिंद्रः (*marutvāniṃdraḥ*) and महानिंद्रः (*mahāniṃdraḥ*), Indra is one, Marutvān Indra (Indra accompanied by the Marut deities) another, and Mahān Indra (Indra of great form) another, and each is worshipped according to the occasion. Likewise such distinctions as अग्निः (*agniḥ*) and अग्निःपावकः (*agniḥpāvakaḥ*) are found among other deities. The Ṛks of the Ṛgveda that praise Sūrya are these:
+
+Ṛ. Saṃ. 1-50: in Sūkta 1-50, Ṛks 1 to 13: 13 Ṛks
+1-115: Ṛks 1 to 6: 6
+4-40 **NOTE**: Ṛk 5: 1
+5-40 **NOTE**: Ṛk 5: 1
+7-60: Ṛk 1: 1
+7-62: Ṛks 1 to 3: 3
+7-63: Ṛks 1 to 4⅓: 4⅓
+7-66 **NOTE**: Ṛks 14 to 16: 3
+8-101 **NOTE**: Ṛks 11 to 13: 3
+10-37: Ṛks 1 to 12: 12
+10-158: Ṛks 1 to 5: 5
+10-170: Ṛks 1 to 4: 4
+10-189: Ṛks 1 to 3: 3
+
+Only these Ṛks are addressed to Sūrya. There are no other Ṛks in the Ṛgveda addressed to Sūrya.
+
+*What the Ṛks on Sūrya in the Ṛgveda say*
+
+The Sūktas in the Ṛgveda that praise Sūrya are 5 complete Sūktas, together with some Ṛks in other Sūktas, in all 60½ Ṛks. No other deity is perceptible to the senses as Sūrya is. The light of Sūrya in the sky is the face of Agni (Ṛ. Saṃ. 10-8-3). The eye of Sūrya is spoken of in many places (5-40-5 **NOTE** etc.); and he is the eye of Mitra, Varuṇa and Agni (1-115-1). Sūrya has a close connection with the organ of sight. It is said that the eye of a dead man merges into Sūrya (10-16-3; 10-90-3; 10-158-3, 4). Sūrya is lord of all the organs of sight (Atha. Ve. 5-24-9). Being the eye of all living beings, he looks upon the sky, the earth and the waters
+
+### Printed p. 401
+
+all of them (Atha. Ve. 13-1-45). He is far-seeing, that is, he can see a great distance (7-35-8; 10-37-1); all-seeing (1-50-2); the spy of the whole world (4-13-3). He sees the world of the moving and unmoving, and the good and bad deeds that men do (1-50-2; 6-51-2; 7-60-2; 7-61-1; 7-63-1, 4). Awakened by the rising of Sūrya, people engage in their tasks (7-63-4). He rises awakening all men (7-63-2, 3). He is the Self of all things moving and unmoving, and he is their protector (Ṛ. Saṃ. 1-115-1; 7-60-2). His chariot has one horse (7-63-2), or seven horses (5-45-9), or seven mares (हरितः (*haritaḥ*)) (1-50-8, 9; 7-60-3), or seven swift horses (4-13-3).
+
+Varuṇa prepares for Sūrya the path he must travel (1-24-8; 7-87-1), or Mitra, Varuṇa and Aryaman, all three, prepare it (7-60-4). Pūṣan is his messenger (6-58-3). Sūrya comes forth shining from the lap of the goddess Uṣas (7-63-3). In some places Uṣas is called the wife of Sūrya (7-75-5).
+
+Since Sūrya is the son of Aditi, he has the name Āditya or Āditeya (1-50-12; 1-89-8; 8-90-11; 10-88-11); but he and the Ādityas are distinct (8-35-13, 14). The deity of heaven is his father (10-37-1); he was born of the gods. The gods lifted him up when he lay hidden in the ocean (10-72-7). The gods established him in the sky as a transformation of Agni (10-88-11). He arose from the eye of the Puruṣa of the cosmic form (10-90-13).
+
+Various deities are said severally to be the cause of Sūrya's birth. Indra caused him to be born (3-31-15), established him in the sky and made him shine there (2-14-3; 8-89-2). Indra and Viṣṇu are his parents (8-99-4). Indra and Soma made Sūrya, joined with light, grow (6-72-4). Mitra and Varuṇa established him in the sky (5-63-7). The light in Sūrya was established by Soma (6-44-23; 9-96-5). Sūrya was born from Soma himself (9-96-5; 9-110-3). The deity Soma made Sūrya shine (9-37-2), or made him stay in the sky (9-101-2). It was Agni who established the radiance of Sūrya very high (10-3-2) and made it climb to the sky (10-156-4). Dhātṛ, the creator, fashioned both Sūrya and the moon (10-190-3). By the sacrificial rites of the Aṅgirases Sūrya was able to climb the sky (10-62-3). In all these Ṛks on the birth of Sūrya, the radiant orb of Sūrya is what is indicated.
+
+In many passages Sūrya is conceived as a bird flying in the sky (10-146-3, 4). He is a bird with flowery feet (5-47-3); Sūrya flies (1-50-9). He is compared to a flying hawk (7-63-5); in one place he is called a hawk outright (5-44-11).
+51
+
+### Printed p. 402
+
+In another place he is called a bull and a bird (5-47-3), and a bull and a bird with variegated spots (10-189-1; 5-47-3). In one place he is called the white and bright horse brought by the goddess Uṣas (7-77-3). The seven horses of Sūrya are his rays (8-61-16), because these rays carry him along.
+
+Sometimes Sūrya is seen compared to an inanimate object. He is a jewel in the sky (7-63-4; 7-35-1), a many-coloured stone carved in the middle of the sky (5-47-3; Śa. Brā. 6-1-2-3). He is a shining weapon, which Mitra and Varuṇa hide with rain-clouds (5-63-4). He is the weapon called Pavi of Mitra and Varuṇa (5-62-2), a chariot set in the sky by the two (5-63-7). Sūrya himself is a wheel (1-175-4; 4-30-4); the wheel of Sūrya's chariot is mentioned in many places (4-30-2; 5-29-10).
+
+Sūrya shines for the world (7-63-1), for men and gods (1-50-5). With his radiance he drives off the darkness (10-37-4). He rolls up darkness like a skin (7-63-1). Like throwing away a skin, his radiance hurls the darkness into the water (4-13-4). He conquers persons connected with darkness and sorceresses (1-191-8, 9; 7-104-24). The fierce heat of Sūrya is mentioned in two places (7-74-19; 9-107-20). In the Ṛgveda Sūrya is not a cruel deity; this is stated clearly in the Atharvaveda and the Brāhmaṇas.
+
+Sūrya lengthens the span of life (8-48-7). He removes diseases and bad dreams (10-37-4). To see the sunrise means to live long (4-25-4; 7-53-5). All living beings depend on Sūrya (1-164-14), and the sky too depends on him (10-85-1). He is named Viśvakarman (10-170-4). By his greatness he is the priest of the gods (8-90-12). At sunrise men pray to Sūrya to tell the other gods that Mitra and Varuṇa are sinless (7-60-1; 7-62-2). Once Indra defeated Sūrya and carried off the wheel of his chariot (1-175-4; 4-30-4); so it is said.
+
+*Examination of Mitra and Varuṇa*
+
+Although Mitra and Varuṇa are regarded as separate deities, the mantras that praise the two together (collectively) are the more numerous. In some places they are described as deities of the twelfth portion among the twelve Ādityas, the many forms of Sūrya, and elsewhere these deities are described as other forms of Agni.
+
 ---
 
-**Progress note:** Done through printed p. 396. pp. 391-396 (batch API)
+**Progress note:** Done through printed p. 402. pp. 397-402 (batch API)
