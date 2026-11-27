@@ -8305,6 +8305,269 @@ Hymn 36. Maṇḍala 7, Anuvāka 3, Sūkta 36. Aṣṭaka 5, Adhyāya 4, Varga 1
 
 From the seat of ṛta, the sacrifice, that is the place of the gods' sacrifice, let the praise (brahma) go forth to the praiseworthy Sūrya and the others. What is that praise? Sūrya, the impeller of all, or the god of fair vigour, sends out with his own rays the "cows", that is the waters, the rain-waters; he lets them loose, he rains. It is heard: "By the rays with which Āditya heats, by those Parjanya rains." And a Smṛti says: "From Āditya arises rain, from rain food, from that creatures." Such greatness belongs to Sūrya alone, to no other; with this pāda Sūrya is praised. Moreover, Pṛthivī, the broad earth, spreads wide with her uplifted ridge, the mountain and the like, pervading. So Agni, on the broad "front" of the earth, a part of it, the place marked as the site of divine worship, is kindled there. अधि (*adhi*) is a karmapravacanīya, and the second case stands in the sense of the seventh. In such a place he is kindled, blazes up.
 
+### Printed p. 187
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- सदनात् (*sadanāt*)—from the place
+- ब्रह्म (*brahma*)—the hymn of praise
+- प्र एतु (*pra etu*)—let it go towards the gods
+- सूर्यः (*sūryaḥ*)—Sūrya, the impeller of all
+- रश्मिभिः (*raśmibhiḥ*)—with his rays
+- गाः (*gāḥ*)—the waters
+- वि ससृजे (*vi sasṛje*)—he makes them pour down
+- पृथिवी (*pṛthivī*)—the earth
+- सानुना (*sānunā*)—with her lofty mountains and the like
+- उर्वी (*urvī*)—grown wide
+- वि सस्रे (*vi sasre*)—she spreads
+- अग्निः (*agniḥ*)—Agni
+- पृथु (*pṛthu*)—grown wide
+- प्रतीकं अधि (*pratīkaṃ adhi*)—in the sacrificial region of the earth
+- ईधे (*īdhe*)—he shines
+
+##### भावार्थ (Bhāvārtha)
+
+Let the hymn of praise go from the place of sacrifice towards the gods. Sūrya, the impeller of all, makes the waters pour down with his rays. The earth, grown wide with her lofty mountains and the like, spreads. Agni, grown strong in the sacrificial region, shines.
+
+##### English translation
+Let the prayer proceed from the hall of the sacrifice, for Surya with his rays lets loose the waters : the spacious earth spreads (studded) with mountains, and Agni blazes on the extensive plains.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk Sūrya is praised. In the sentence वि रश्मिभिः ससृजे सूर्यो गाः (*vi raśmibhiḥ sasṛje sūryo gāḥ*) it is said that Sūrya, the impeller of all, pours rain-water on the earth through his rays. What is the connection between Sūrya and rain? According to the Śruti sentence याभिरादित्यस्तपति रश्मिभिस्ताभिः पर्जन्यो वर्षति (*yābhirādityastapati raśmibhistābhiḥ parjanyo varṣati*) (Tai. Ā. 10-63), Sūrya, shining with his rays, draws up through them the water in the sea and other reservoirs. That water turns into vapour and becomes clouds in the atmosphere. Parjanya (the deity presiding over rain) pours the water in those clouds on the earth as rain. Since Sūrya's rays are the cause of the sea's waters becoming clouds in the form of vapour, that very matter is described in the present Ṛk. Besides, the Smṛti sentence also says आदित्याज्जायते वृष्टिः वृष्टेरन्नं ततः प्रजाः (*ādityājjāyate vṛṣṭiḥ vṛṣṭerannaṃ tataḥ prajāḥ*): from the Āditya comes rain, from rain food and the like, and from these living beings are born. Modern science too says that Sūrya's rays are the cause of rain arising on the earth.
+
+### Printed p. 188
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां वां॑ मित्रावरुणा सुवृ॒क्तिमिषं॒ न कृ॑ण्वे असुरा॒ नवी॑यः ।
+
+> इनो वामन्यः पदवीरदब्धो जनं च मित्रो यतति ब्रुवाणः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । वां । मित्रावरुणा । सुऽवृक्तिं । इषं । न । कृण्वे । असुरा । नवीयः ।  
+> इनः । वां । अन्यः । पदऽवीः । अदब्धः । जनं । च । मित्रः । यतति । ब्रुवाणः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुरासुरौ बलवंतौ हे मित्रावरुणा मित्रावरुणौ वां युवाभ्यामिषं न हविरूपमन्नमिव नवीयो नवीयसीमिमामस्मदीयां पुरोवर्तिनीं सुवृक्तिं स्तुतिं कृण्वे । अहं स्तोता करोमि । वां युवयोरन्योऽन्यतर इनः प्रभुरदब्धः शत्रुभिरहिंसितो वरुणः पदवीः पदस्य स्थानस्य प्रजनयिता । वरुणो हि धर्माधर्मयोर्धारयितेति पदवीरित्युच्यते । ब्रुवाणोऽस्माभिः स्तूयमानो मित्रश्च जनं सर्वं प्राणिजातं यतति । यातयति । प्रवर्तयति । तथा च श्रूयते । मित्रो जनान्यातयति ब्रुवाणः । ऋ. ३-५९-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+"O Mitra and Varuṇa, you powerful ones, I, the singer, make for you this new, excellent, present praise of ours, like food in the form of an oblation. Of you two, the other one, Varuṇa, is the lord, unharmed by enemies, and the begetter of the 'path' (पदवीः (*padavīḥ*)), the place; Varuṇa is called पदवीः (*padavīḥ*) because he upholds righteousness and unrighteousness. Mitra, being praised by us, urges all living beings to action (यतति (*yatati*) = he causes to proceed)." So it is heard: मित्रो जनान्यातयति ब्रुवाणः (*mitro janānyātayati bruvāṇaḥ*) (Ṛ. 3-59-1).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुरा (*asurā*)—you who are possessed of power
+- मित्रावरुणा (*mitrāvaruṇā*)—O deities Mitra and Varuṇa
+- वां (*vāṃ*)—addressing you
+- इषं न (*iṣaṃ na*)—as one prepares an oblation
+- नवीयः (*navīyaḥ*)—new
+- इमां सुवृक्तिं (*imāṃ suvṛktiṃ*)—this excellent praise
+- कृण्वे (*kṛṇve*)—I compose
+- वां (*vāṃ*)—of you two
+- अन्यः (*anyaḥ*)—one, Varuṇa
+- इनः (*inaḥ*)—the lord of the world
+- अदब्धः (*adabdhaḥ*)—unobstructed
+- पदवीः (*padavīḥ*)—the upholder of righteousness and unrighteousness
+- ब्रुवाणः (*bruvāṇaḥ*)—praised by us
+- मित्रः च (*mitraḥ ca*)—Mitra also
+- जनं (*janaṃ*)—all classes of living beings
+- यतति (*yatati*)—he makes them active
+
+##### भावार्थ (Bhāvārtha)
+
+O powerful Mitra and Varuṇa, as one prepares an oblation, I compose for you this excellent and new praise. Of you two, Varuṇa is the lord of the world, unobstructed, and the upholder of righteousness and unrighteousness. Mitra also, praised by us, makes all classes of living beings engage in action.
+
+##### English translation
+Powerful Mitra and Varuna, to you I offer this new praise as if it were (sacrificial) food : one of you, (Varuna), the invincible lord, is the guide to the path (of virtue) : Mitra, when praised, animates men to exertion.
+
+### Printed p. 189
+
+##### विशेषविषयगळु (Special Topics)
+
+पदवीः—पदस्य स्थानस्य प्रजनयिता । वरुणो हि धर्माधर्मयोर्धारयि-तेति पदवीरित्युच्यते । (*padavīḥ—padasya sthānasya prajanayitā | varuṇo hi dharmādharmayordhārayi-teti padavīrityucyate |*) पदवी (*padavī*) means a place. Varuṇa is the one who ordains that living beings give up unrighteousness and walk the path of righteousness. This is why many places speak of वरुणस्य व्रतानि (*varuṇasya vratāni*). That is, the various creatures and men have many duties to perform; it is Varuṇa's work to see that they do these properly and keep those rules. Because Varuṇa holds this authority, it is expressed here by the word पदवी (*padavī*).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वात॑स्य॒ ध्रज॑तो रंत इ॒त्या अपी॑पयंत धे॒नवो॒ न सूदाः॑ ।  
+> म॒हो दि॒वः सद॑ने॒ जाय॑मा॒नोऽचि॑क्रदद्वृष॒भः सस्मि॒न्नूध॑न् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वातस्य । ध्रजतः । रंते । इत्याः । अपीपयंत । धेनवः । न । सूदाः ।  
+> महः । दिवः । सदने । जायमानः । अचिक्रदत् । वृषभः । सस्मिन् । ऊधन् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ध्रजतो गच्छतो वातस्य वायोरित्या गतय आ रंते । अभितो रमंते । तथा सूदाः ॥ सूद प्रेरण इति धातुः ॥ क्षीरस्य प्रेरयित्र्यो धेनवो न । नेति चार्थे । गावश्चापीपयंत । प्यायंते । विधंते । अपि च महो महतो दिवो द्योतमानस्यादित्यस्य सदने स्थानेंतरिक्षे जायमान उत्पद्यमानो वृषभो वर्षणशीलः पर्जन्यः सस्मिन्नूधन् तस्मिन्नंतरिक्षेऽचिक्रदन् ॥
+
+##### Gist of the bhāṣya
+
+The movements (इत्या (*ityā*) = goings) of the moving wind sport all around. Likewise the cows (धेनवो (*dhenavo*)), the yielders of milk (सूदाः (*sūdāḥ*), from the root सूद (*sūda*) in the sense of impelling), swell and thrive; here न (*na*) has the sense of "and". Moreover Parjanya, the showerer, born in the dwelling, the atmosphere, of the great, shining Āditya, has roared in that same atmosphere (सस्मिन्नूधन् (*sasminnūdhan*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्रजतः (*dhrajataḥ*)—of the moving
+- वातस्य (*vātasya*)—of the wind
+- इत्याः (*ityāḥ*)—the movements
+- आ रंते (*ā raṃte*)—are sportive
+- सूदाः (*sūdāḥ*)—milk-giving
+- धेनवः न (*dhenavaḥ na*)—the cows also
+- अपीपयंत (*apīpayaṃta*)—become well nourished
+- महः (*mahaḥ*)—of the great
+- दिवः (*divaḥ*)—of the Āditya
+- सदने (*sadane*)—in the atmosphere, his place
+- जायमानः (*jāyamānaḥ*)—born
+- वृषभः (*vṛṣabhaḥ*)—Parjanya, the causer of rain
+- सस्मिन् ऊधन् (*sasmin ūdhan*)—in that same atmosphere
+- अचिक्रदत् (*acikradat*)—makes a sound
+
+##### भावार्थ (Bhāvārtha)
+
+The movements of the wind, which is ever moving by nature, are sportive. The milk-giving cows also become well nourished. Parjanya, the causer of rain, born in the atmosphere, the place of the great Āditya, makes a sound in that same atmosphere.
+
+### Printed p. 190
+
+##### English translation
+The movements of the restless wind sport around : the milk-yielding cows are in good condition : the showerer generated in the dwelling of the mighty sun has cried aloud in that his place of abiding, the (firmament).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रा य ए॒ता यु॒नज॒द्धरी॑ त॒ इंद्र॑ प्रि॒या सु॒रथा॑ शूर धा॒यू ।  
+> प्र यो म॒न्युं रिरि॑क्षतो मि॒नात्या सु॒क्रतु॑मर्य॒मणं॑ ववृत्यां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरा । यः । एता । युनजत् । हरी इति । ते । इंद्र । प्रिया । सुरथा । शूर । धायू इति ।  
+> प्र । यः । मन्युं । रिरिक्षतः । मिनाति । आ । सुक्रतुं । अर्यमणं । ववृत्यां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याः पूर्वोऽर्धर्च इंद्रस्तुतिः परोऽर्यम्णः स्तुतिः । हे शूर विक्रांतेंद्र ते तव प्रियौ प्रियौ सुरथा सुष्ठुरंहणौ धायू धारकावेतौ हरी त्वदीयोवश्वौ यो जनो गिरा स्तुतिरूपया वाचा युनजत् रथे युंज्यात् हे इंद्र त्वमस्य यागमायाहीति शेषः । योऽर्यमा रिरिक्षतो हिंसितुमिच्छतः शत्रोः संबंधिनं मन्युं कोपं प्र मिनाति प्रकर्षेण हिनस्ति सुक्रतुं शोभनकर्माणमर्यमणमा ववृत्यां । स्तुत्यावर्तयामि ॥
+
+##### Gist of the bhāṣya
+
+The first half of this Ṛk is a praise of Indra, the latter a praise of Aryaman. "O heroic, valiant Indra, these your dear, swift-running, upholding horses—whoever yokes them to the chariot with his song of praise, O Indra, come to that man's sacrifice" (this last is to be supplied). Aryaman, who destroys utterly the wrath of an enemy who wishes to do harm, the doer of good deeds, him I turn hither (आ ववृत्यां (*ā vavṛtyāṃ*)) with praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—valiant
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- प्रिया (*priyā*)—dear
+- सुरथा (*surathā*)—moving well
+- धायू (*dhāyū*)—upholding
+- एता हरी (*etā harī*)—these horses
+- यः (*yaḥ*)—whichever sacrificer
+- गिरा (*girā*)—with his words in the form of praise
+- युनजत् (*yunajat*)—yokes to the chariot—go to his sacrifice
+- यः (*yaḥ*)—which Aryaman deity
+- रिरिक्षतः (*ririkṣataḥ*)—of the enemy who does harm
+- मन्युं (*manyuṃ*)—the wrath
+- प्र मिनाति (*pra mināti*)—destroys completely, such
+- सुक्रतुं (*sukratuṃ*)—of excellent action
+- अर्यमणं (*aryamaṇaṃ*)—Aryaman
+- आ ववृत्यां (*ā vavṛtyāṃ*)—I worship with praise
+
+### Printed p. 191
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, go to the sacrifice of that sacrificer who with his words in the form of praise yokes to the chariot these your dear, swift-moving, upholding horses. I worship with praise the deity Aryaman, of excellent action, who completely destroys the wrath of the harmful enemy.
+
+##### English translation
+Hero, Indra, (come to the sacrafice of the man) who, by his adoration has harnessed (to your car) these your favourite, graceful, and vigorous horses : may I bring hither Aryaman, the doer of good deeds. who baffles the wrath of the malevolent.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युजं॑ते अस्य स॒ख्यं वय॑श्च नम॒स्विनः॒ स्व ऋ॒तस्य॒ धाम॑न् ।  
+> वि पृक्षो॑ बाबधे॒ नृभिः॒ स्तवा॑न इ॒दं नमो॑ रु॒द्राय॒ प्रेष्यं ॥ ५ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजंते । अस्य । सख्यं । वयः । च । नमस्विनः । स्वे । ऋतस्य । धामन् ।  
+> वि । पृक्षः । बाबधे । नृभिः । स्तवानः । इदं । नमः । रुद्राय । प्रेष्ठं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया रुद्रः स्तूयते । नमस्विनो हविर्लक्षणान्नवंतः स्वे स्वकीये ऋतस्य यज्ञस्य धामन् धामनि स्थाने । स्वकीये यज्ञगृहे स्थिता इत्यर्थः । वयश्च गंतारः कर्माणि कुर्वाणा यजमाना अस्य रुद्रस्य सख्यं सखित्वमुद्दिश्य युजंते । पूजयंते । नृभिर्नेतृभिः स्तवानः स्तूयमानो रुद्रः पृक्षोऽन्नं स्तोतृषु वि बाबधे । वि बध्नाति । ददातीत्यर्थः । प्रेष्यं रुद्रस्य प्रियतममिदं नमस्तस्मै रुद्राय मया क्रियते ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk Rudra is praised. The sacrificers, who possess food in the form of oblations (नमस्विनः (*namasvinaḥ*)) and stand in their own sacrificial house (धामन् (*dhāman*) = place), and who go about performing rites (वयः (*vayaḥ*)), worship Rudra with a view to his friendship. Rudra, praised by the leaders (नृभिः (*nṛbhiḥ*)), binds (वि बाबधे (*vi bābadhe*)), that is, bestows, food (पृक्षः (*pṛkṣaḥ*)) on the singers. This most dear homage (नमः (*namaḥ*)) to Rudra is made by me to that Rudra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नमस्विनः (*namasvinaḥ*)—those possessing oblations
+- स्वे (*sve*)—their own
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- धामन् (*dhāman*)—in the place
+- वयश्च (*vayaśca*)—and sacrificers engaged in rites
+- अस्य (*asya*)—of Rudra
+- सख्यं (*sakhyaṃ*)—friendship, with a view to it
+- युजंते (*yujaṃte*)—they worship
+- नृभिः (*nṛbhiḥ*)—by the sacrificers
+- स्तवानः (*stavānaḥ*)—this Rudra who is praised
+- पृक्षः (*pṛkṣaḥ*)—food
+- वि बाबधे (*vi bābadhe*)—he fills them with
+- प्रेष्ठं (*preṣṭhaṃ*)—most excellent
+- इदं नमः (*idaṃ namaḥ*)—this praise
+- रुद्राय (*rudrāya*)—is offered to Rudra
+
+### Printed p. 192
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, who possess oblations and are engaged in rites each at their own place of sacrifice, worship with a view to Rudra's friendship. This Rudra, praised by the sacrificers, fills them with food. This most excellent praise is offered to Rudra.
+
+##### English translation
+Let the offers of adoration, engaging (in pious acts), worship (Rudra) in their own hall of sacrifice, (solicitous) of his friendship : praise by the leaders (of rites), he lavishes food (upon them) : this most acceptable adoration is addressed to Rudra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यत्सा॒कं य॒शसो॑ वावशा॒नाः सर॑स्वती स॒प्तथी॒ सिंधु॑माता ।  
+> याः सु॒ष्वयं॑त सु॒दुघाः॑ सुधा॒रा अ॒भि स्वेन॒ पय॑सा॒ पीप्या॑नाः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । साकं । यशसः । वावशानाः । सरस्वती । सप्तथी । सिंधुमाता ।  
+> याः । सुस्वयंत । सुदुघाः । सुधाराः । अभि । स्वेन । पयसा । पीप्यानाः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यासां गंगादीनां नदीनां मध्ये सिंधुमातासां मातृभूता सरस्वत्येतदाख्या नदी सप्तथी सप्तमी भवति सुदुघाः कामान् दोग्धुं सुशक्याः सुधाराः शोभनधारोपेताश्च नद्यः सुष्वयंत सुष्वयंते । गतिकर्मैतत् । प्रवहंति । स्वेन स्वकीयेन पयसोदकेनाभि पीप्याना याश्चाभिवर्धयंत्यो यशोऽन्नवत्यो वावशानाः कामयमाना नद्यः साकं युगपदेवा गच्छंतु ॥ आ इत्युपसर्गस्य योग्यक्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+Among those rivers, Gaṅgā and the rest, the river named Sarasvatī, mother of the Sindhu, is the seventh. The rivers that are easily milked of desires (सुदुघाः (*sudughāḥ*)) and have fine streams (सुधाराः (*sudhārāḥ*)) flow (सुष्वयंत (*suṣvayaṃta*); this is a verb of motion), swelling with their own water; and those rivers that, increasing, are rich in fame and food and desirous, let them go together at once. The preverb आ (*ā*) requires a suitable verb to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—among which rivers, Gaṅgā and the rest
+- सिंधुमाता (*siṃdhumātā*)—Sarasvatī, like a mother to all waters
+- सरस्वती (*sarasvatī*)—the river Sarasvatī
+- सप्तथी (*saptathī*)—the seventh, such
+- सुदुघाः (*sudughāḥ*)—granting desires
+- सुधाराः (*sudhārāḥ*)—having excellent streams, all those rivers
+- सुष्वयंत (*suṣvayaṃta*)—flow
+- स्वेन (*svena*)—with their own
+- पयसा (*payasā*)—water
+- अभि पीप्यानाः (*abhi pīpyānāḥ*)—swelling
+- याः (*yāḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 186. pp. 181-186 (batch API)
+**Progress note:** Done through printed p. 192. pp. 187-192 (batch API)
