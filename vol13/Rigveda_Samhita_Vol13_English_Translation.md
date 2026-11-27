@@ -12730,6 +12730,152 @@ The gods gave up untruth and held firmly to truth alone. Since the three Vedas, 
 (Śa. Brā. 14-3-1-18)
 By explanations such as these it shows the identity of truth with the order of the universe, and tells that by following such truth and by performing true acts a full life is obtained as the fruit, that is, the relation of cause and effect between good fruit and good action. Since for the performance of acts of the nature of truth too it is absolutely necessary to know the world-order and the nature of the gods who are its cause, it has been plainly stated in many contexts that this knowledge too is possible only through truth.
 
+### Printed p. 535
+ʻWhere the friend, with the friends, the nine-going ones, sought the cows … ʼ सखा ह यत्र सखिभिर्नवग्वैरभिज्ञ्वा सत्वभिर्गा अनुग्मन् । सत्यं तदिंद्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियंतं ॥ (*sakhā ha yatra sakhibhirnavagvairabhijñvā satvabhirgā anugman | satyaṃ tadiṃdro daśabhirdaśagvaiḥ sūryaṃ viveda tamasi kṣiyaṃtaṃ ‖*) (Ṛ. Saṃ. 3-39-5)
+
+त इद्देवानां सधमाद आसन्नृतावानः कवयि: पूर्व्यासः । गूळं ज्योतिः पितरो अन्वविंदन्त्सत्यमंत्रा अजयन्नुषासं ॥ (*ta iddevānāṃ sadhamāda āsannṛtāvānaḥ kavayi: pūrvyāsaḥ | gūḷaṃ jyotiḥ pitaro anvaviṃdantsatyamaṃtrā ajayannuṣāsaṃ ‖*) (Ṛ. Saṃ. 7-76-4)
+
+In Ṛks such as these, the sentences are very many that point to earlier occasions on which all the seers, knowing the nature of the deities who are of the nature of truth and performing rites, obtained wealth as the result. And the prayer "may good come to us through truth" goes along with them.
+
+अधा यथा नः पितरः परासः प्रत्नासो अग्न ऋतमातुषाणाः । तुचीदयन्दीधितिमु कृतशासः क्षामा भिंदंतो अरुणीरपव्रन् ॥ (*adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtamātuṣāṇāḥ | tucīdayandīdhitimu kṛtaśāsaḥ kṣāmā bhiṃdaṃto aruṇīrapavran ‖*) (Ṛ. Saṃ. 4-2-16)
+
+In prayers of the kind "As our fathers obtained good fruits through sacrifice that is of the nature of truth, so now too may all our rites yield true fruits (that be true)", the true nature of the deities Agni and others, whose dharma is truth, is also described.
+
+अजो न क्षां दाधार पृथिवीं तस्तंभ द्यां मंत्रेभिः सत्यैः । (*ajo na kṣāṃ dādhāra pṛthivīṃ tastaṃbha dyāṃ maṃtrebhiḥ satyaiḥ |*) (Ṛ. Saṃ. 1-67-3)
+
+कविमग्नि मुपस्तुहि सत्यधर्माणमध्वरे । देवममीवजातनं । (*kavimagni mupastuhi satyadharmāṇamadhvare | devamamīvajātanaṃ |*) (Ṛ. Saṃ. 1-12-7)
+
+देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा । पुरुप्रतस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥ (*devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā | purupratasto amatirna satya ātmeva śevo didhiṣāyyo bhūt ‖*) (Ṛ. Saṃ. 1-73-2)
+
+In many such places it is stated that Agni and the other deities held the worlds such as the earth through truth alone, carried out the protection of the world, and that human beings too should follow that same path of truth.
+
+The etymology of the word "satya" given in the Brāhmaṇas, Upaniṣads and the like, and the description of the nature of truth—how the universal Self, being of the nature of truth, has covered over the untruth (anṛta) which is of the nature of falsehood—will be given in a later part, in the Special Topics of Ṛk 1-185-11 (Ṛ. Saṃ.).
+
+विपन्यामहे (*vipanyāmahe*)—For this word the scholar Monier Williams, in his English-Sanskrit Dictionary, gives the meaning "To pride one's self or to boast", and cites the present Ṛk 1-180-7. The word विपन्यु (*vipanyu*) is read among the names of the wise (विप्रः (*vipraḥ*), विग्रः (*vigraḥ*) and so on)
+
+### Printed p. 536
+(Ni. 3-19). In the Ṛksaṃhitā this word is used in the sense of wise and devout praisers. In Ṛks such as तद्विप्रासो विपन्यवः (*tadviprāso vipanyavaḥ*) (Ṛ. Saṃ. 1-23-21); अवसा विपन्यवः (*avasā vipanyavaḥ*) (Ṛ. Saṃ. 1-102-5); विपन्यवो दीध्यतो मनीषा (*vipanyavo dīdhyato manīṣā*) (Ṛ. Saṃ. 2-20-1), it is understood as विशेषेण स्तोतारः (*viśeṣeṇa stotāraḥ*), that is, those who praise exceedingly. In the present Ṛk the sacrificer declares that he praises the Aśvin deities. If the Dictionary's meaning is followed, it may be explained that here the sacrificer boasts proudly, in order to make known the excess of his devotion and the excellence of his praise.
+
+पणिः (*paṇiḥ*)—For the word पणि (*paṇi*) Sāyaṇa has in many places given the meaning व्ययासहिष्णवो वणिजः (*vyayāsahiṣṇavo vaṇijaḥ*), that is, Vaiśyas (merchants) who hesitate to spend. He has also cited the view of Yāska: पणिर्वणिग्भवतीति यास्कः (*paṇirvaṇigbhavatīti yāskaḥ*). When the author of the Nirukta explains the meaning of this word, he cites the Ṛk
+
+इंद्रो विश्वास्पेकनाटा अहर्द्रक्ष उत क्रत्वा पणीरभि (*iṃdro viśvāspekanāṭā ahardrakṣa uta kratvā paṇīrabhi*) (Ṛ. Saṃ. 8-66-10)
+
+and gives for the word पणि (*paṇi*) there the meaning वणिजः (*vaṇijaḥ*), those who do trade (Ni. 6-26). And: पणिः पणनात् वणिक् पण्यं नेनेक्ति (*paṇiḥ paṇanāt vaṇik paṇyaṃ nenekti*)—from doing trade the Vaiśya is called paṇi; and that trader always keeps his goods clean so that they are fit for trade, it is explained (Ni. 2-17). Besides this, in some other places Sāyaṇa explains this word as पणॆय इति लुब्धकाः अबुध्यमाना यागादीनकुर्वाणा अदानशीला अस्मच्छत्रवः । (*paṇèya iti lubdhakāḥ abudhyamānā yāgādīnakurvāṇā adānaśīlā asmacchatravaḥ |*): enemies who are greedy, who do not perform sacrifices and the like, and who are devoid of acts such as giving. In the present Ṛk it is said that two kinds of meaning are possible for this word. First, पणाधारो द्रोणकलशः (*paṇādhāro droṇakalaśaḥ*): the Droṇakalaśa, the vessel in which the Soma juice is placed; or second, पणिर्वणिग्लु ब्योऽयषा हितवान्नियतधनो धनाढ्योऽप्ययष्टा (*paṇirvaṇiglu byo 'yaṣā hitavānniyatadhano dhanāḍhyo 'pyayaṣṭā*)—one who, though wealthy, does not sacrifice: a greedy man. The use of the word paṇi as a synonym of Droṇakalaśa is rare. Its use is more frequent in the senses of one without rites, or an Asura and the like. That paṇi may be a group of Asuras is stated in the second part of the Ṛgvedasaṃhitā.
+
+**NOTE**
+
+Sāyaṇa has told a tale about the Asuras called paṇi. The Asuras named Paṇi had stolen the cows that were in the world of the gods and had placed them in the cave of a mountain. To search for them Indra sent Saramā, the divine bitch (the she-dog of the world of the gods). That bitch went to the Paṇis, won them over with attractive words and helped to bring the cows back. The conversation that took place on this occasion between the Paṇis and Saramā
+
+### Printed p. 537
+shows the cleverness of Saramā's mind. And since the nature of the Paṇis too becomes known to some extent from this conversation, it is cited here in brief (Ṛ. Saṃ. 10-108). Here, first, the Paṇis question Saramā:
+
+किमिच्छंती सरमा प्रेदमानद्दूरे ह्यध्वा जगुरिः पराचैः । कमच्छरते सरमा प्रदमानिद्दाद्ये ह्यध्वजागुरः पराज्यतः । कास्मेहितिः का परितक्म्यासीत्कथं रसाया आतरः पयांसि ॥ (*kimicchaṃtī saramā predamānaddūre hyadhvā jaguriḥ parācaiḥ | kamaccharate saramā pradamāniddādye hyadhvajāguraḥ parājyataḥ | kāsmehitiḥ kā paritakmyāsītkathaṃ rasāyā ātaraḥ payāṃsi ‖*) **NOTE**
+
+"O Saramā, what is your purpose in crossing so toilsome a path and coming so far? How was it possible for you to cross the flood of the river Rasā?" they asked. Saramā answered cleverly:
+
+इंद्रस्य दूतीरिषिता चरामि मह इच्छंती पणयो निधीन्वः । अतिष्कदो भयसा तन्न आवत्तथा रसाया अतरं पयांसि ॥ (*iṃdrasya dūtīriṣitā carāmi maha icchaṃtī paṇayo nidhīnvaḥ | atiṣkado bhayasā tanna āvattathā rasāyā ataraṃ payāṃsi ‖*)
+
+"O Paṇis, desiring your treasure, I have come here as Indra's messenger. Therefore it was possible for me to cross the flood of the river Rasā," she said. Then they replied:
+
+केवृज्जंद्रः सरमे का दृशीका यस्येदं दूतीरसरः पराकात् । आ च गच्छान्मित्रमेना दधामाथा गवां गोपतिर्नो भवाति ॥ (*kevṛjjaṃdraḥ sarame kā dṛśīkā yasyedaṃ dūtīrasaraḥ parākāt | ā ca gacchānmitramenā dadhāmāthā gavāṃ gopatirno bhavāti ‖*)
+
+"O Saramā, who is that Indra, and what is he like? Let him come here himself—and let him come and be the herdsman who guards our cows." To that she said:
+
+नाहं तं वेद दभ्यं दभत्स यस्येदं दूतीरसरं पराकात् । न तं गूहंति स्रवतो गभीरा हता इंद्रेण पणयः शयद्वे ॥ (*nāhaṃ taṃ veda dabhyaṃ dabhatsa yasyedaṃ dūtīrasaraṃ parākāt | na taṃ gūhaṃti sravato gabhīrā hatā iṃdreṇa paṇayaḥ śayadve ‖*)
+
+"O Paṇis, none among you is able to conquer Indra. However fathomless the flood, he can cross it. O Paṇis, you will certainly be slain by him." To that they said:
+
+इमा गावः सरमे या ऐच्छः परि दिवो अंतान्तुभगे पतंती । कस्त एना अव सृजादयुध्युतास्माकमायुधा संति तिग्मा ॥ (*imā gāvaḥ sarame yā aicchaḥ pari divo aṃtāntubhage pataṃtī | kasta enā ava sṛjādayudhyutāsmākamāyudhā saṃti tigmā ‖*)
+
+"O Saramā, here are the cows; they roam through all the regions of the atmosphere. Who could give up such excellent cows without a fight? Our weapons are very sharp. No one can seize these cows from us." Then she said:
+
+असेन्या वः पणयो वचांस्यनिषव्यास्तन्वः संतु पापीः । अधृष्टो व एतवा अस्तु पंथा बृहस्पतिर्व उभया न मृळात् ॥ (*asenyā vaḥ paṇayo vacāṃsyaniṣavyāstanvaḥ saṃtu pāpīḥ | adhṛṣṭo va etavā astu paṃthā bṛhaspatirva ubhayā na mṛḷāt ‖*)
+
+### Printed p. 538
+"O Paṇis, however strong your army may be, Bṛhaspati, sent by Indra, will not spare you," she rebuked them. Then they said:
+
+अयं निधिः सरमे अद्रिबुध्नो गोभिरश्वेभिर्वसुभिन्यृष्टः । रक्षंति तं पणयो ये सुगोपा रेकु पदमलकमा जगंथ ॥ (*ayaṃ nidhiḥ sarame adribudhno gobhiraśvebhirvasubhinyṛṣṭaḥ | rakṣaṃti taṃ paṇayo ye sugopā reku padamalakamā jagaṃtha ‖*)
+
+"O Saramā, we shall guard our treasure with daring. The errand on which you have come here will not succeed," they spoke arrogant words. Afterwards, it is told, Saramā showed her cleverness and helped Indra to carry the cows off. Here the story has been given in brief in order to show the nature of the Asuras called Paṇi and the manner in which they troubled the gods and the sacrificers.
+
+It has been stated above that in the present Ṛk two kinds of meaning are given for the word पणि (*paṇi*).
+
+वृषणौ (*vṛṣaṇau*)—It has been explained at length earlier that the words वृषन् (*vṛṣan*), वृषणा (*vṛṣaṇā*), वृष्णेभिः (*vṛṣṇebhiḥ*) and so on are formed either from the root वृषु (*vṛṣu*) in the sense of सेचने (*secane*) (to pour, to sprinkle), or from the root वृष (*vṛṣa*) in the sense of शक्ति बंधने (*śakti baṃdhane*) (strength, capacity), and that for these words the meaning should be given according to each context. In the present Ṛk this epithet is used to praise the Aśvin deities as showerers of desires.
+
+##### Grammar
+
+- विपन्यामहे — पन स्तुत्. धातुः । लट् उत्तमपुरुष बहुवचने महिज् प्रत्ययः । टेः एत्वं । व्यत्ययेन श्यन् विकरणं । हि च (पा. सू. ८-१-३४) इति निघातस्वरप्रतिषेधो भवति ।
+- हितवान् — दधातेर्हिः इति धाञ् धातोः क्त प्रत्यये परे हि आदेशः । क्तांतात् मतुप् प्रत्ययः । माडुपधायाश्च इति मकारस्य वत्वं । मतुप् अनुदात्तत्वात् क्त प्रत्ययस्वरः शिष्यते ।
+- अध — निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- अनिंद्या — णिदि कुत्सायां धातुः । यत् प्रत्ययः । इदित्त्वात् धातो नुमागमः । नञ् तत्पुरुष समासः । संबोधना द्विवचने परे सुपां सुलुक्—(पा सू. ७-१-३९) इति तस्य आकारादेशः । आमंत्रित निघातस्वरो भवति ।
+
+### Printed p. 539
+- पाथः — पा पाने धातुः । लट् मध्यमपुरुष द्विवचने थस् प्रत्ययः । बहुलं छंदसि इति विकरणस्य लुक् । तस्मात् धातोः पिबादेशो न भवति । हिचॆ (पा. सू. ८-१-३४) इति निघातप्रतिषेधात् प्रत्ययस्वरः शिष्यते ।
+- वि — उपसर्गः । उपसर्गः क्रियायोगे इति अत्र योग्यक्रियाध्याहारेण अन्वयो भवति ।
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां चि॒द्धि ष्मा॑त्विना॒वनु॒ द्यून्विरु॑द्रस्य प्र॒स्रव॑णस्य सा॒तौ ।  
+> अ॒गस्त्यो॑ न॒रां नृषु॒ प्रश॑स्तः॒ कारा॑धुनीव चितयत्स॒हस्रैः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । चित् । हि । स्म । अश्विन् । अनु । द्यून् । विरुद्रस्य । प्रस्रवणस्य । सातौ ।  
+> अगस्त्यः । नरां । नृषु । प्रशस्तः । काराधुनीइव । चितयत् । सहस्रैः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां । चिद्दि स्मृति त्रयः पूरणाः । आनु द्यून् प्रतिदिनं विरुद्रस्य
+> विशिष्टोष्ण रूपदुःखद्रावणस्य विविधरोरूयमाणवतो ना प्रस्रवणस्य वृष्टुदकसंस्कायस्य सात् लाभे निमित्तभूते सत्यगस्त्य एतन्नामा महर्षिनरां नेतृणां
+> कर्मनीर्वाहकानां मनुष्याणां नृषु येषु तादृशा मनुष्याः संति तेषु प्रशस्तः
+> प्रशस्यतरोऽयं सहस्रैरपरिमितैः स्तोत्रैश्चितयत् । चेतयति । स्तुत्या प्रजोधयॆति । तत्र दृष्टांतः । काराधुनीव । कारा शब्दः । तस्य धूनयितोत्पादयिता
+> शंखादिः स इव ।यद्वा । एतदप्यगस्त्य विशेषणं । कारः शब्दयिता होत्रादिः । तस्य
+> धुनिः कंपयिता प्रेरक इव । इवेति संप्रत्यर्थे । अस्तु पमार्थस्य संप्रत्यर्थे
+> प्रयोग इति निरुक्तं । ७-३१ ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you. The words चिद्दि स्म (*ciddi sma*) are three expletives. आनु द्यून् (*ānu dyūn*): day after day. विरुद्रस्य (*virudrasya*): of that which drives away distress of the form of special heat, or of that which is variously roaring; प्रस्रवणस्य (*prasravaṇasya*): of the flow, the waters of rain; सातौ (*sātau*): when the obtaining of it is the occasion. The great seer named Agastya, नरां (*narāṃ*): among leaders, men who carry through rites; नृषु (*nṛṣu*): among such men as there are, he is the most praiseworthy. With thousands, that is, innumerable hymns of praise, he चितयत् (*citayat*): awakens (चेतयति (*cetayati*)), he rouses by praise. An illustration for that: काराधुनीव (*kārādhunīva*)—कारा (*kārā*) is sound; the conch and the like, which shakes out, produces it, is like that. Or else this too is an epithet of Agastya: कारः (*kāraḥ*) is the one who sounds, the Hotṛ and the like; धुनिः (*dhuniḥ*) is the one who sets him trembling, the impeller, as it were. इव (*iva*) is in the sense of "now"; the use of इव (*iva*), which is for the sense of comparison, in the sense of "now" is stated in the Nirukta, 7-31.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अश्विनौ (*(he) aśvinau*)—O Aśvin deities
+- नरां (*narāṃ*)—of those who carry through the sacrifice
+- नृषु (*nṛṣu*)—among men
+- प्रशस्तः (*praśastaḥ*)—exceedingly praiseworthy (the best)
+- काराधुनी इव (*kārādhunī iva*)—the impeller of the Hotṛs and others who produce the sound that is praise
+- अगस्त्यः (*agastyaḥ*)—the great seer named Agastya
+- विरुद्रस्य (*virudrasya*)—that removes distress of the form of special heat
+
+### Printed p. 540
+- प्रस्रवणस्य (*prasravaṇasya*)—of the rain water
+- सातौ (*sātau*)—as the occasion of obtaining
+- अनु द्यून् (*anu dyūn*)—every day
+- सहस्रैः (*sahasraiḥ*)—with innumerable hymns of praise
+- काराधुनी इव (*kārādhunī iva*)—like a sound-producing instrument such as the conch
+- युवां (*yuvāṃ*)—you two
+- चितयत् (*citayat*)—awakens (with praise) (praises)
+- (चित् हि स्म (*(cit hi sma*)—fillers of the sentence.)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the great seer named Agastya, the best among the performers of sacrifice, awakens you every day with innumerable hymns of praise, like sounding instruments such as the conch, in order to obtain the rain water that destroys distress of the form of heat. (By praising, he causes it to rain.)
+
+##### English translation (H. H. Wilson)
+Ashwins, Agastya, eminent amongst the leaders of men, arouses you daily with numerous (invocations), like an instrument of sound, for the sake of obtaining a manifold (flow) of a torrent (of rain).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk is a prayer made by Agastya addressed to the Aśvin deities. Here the seer compares his praise to the sound of the conch. Therefore, by showing the comparison काराधुनीव (*kārādhunīva*), he has praised the excellence of his praise.
+
+काराधुनीव (*kārādhunīva*)—कारा शब्दः । तस्य धूनयिता उत्पादयिता शंखादिः ! स एव ! यद्वा ! एतदप्यगस्त्यविशेषणं । कारः शब्दयिता होत्रादिः । तस्य धुनिः कंपयिता प्रेरकः इव । इवेति संप्रत्यर्थे ! “ अस्तुपमार्थस्य संप्रत्यर्थे प्रयोगः (*kārā śabdaḥ | tasya dhūnayitā utpādayitā śaṃkhādiḥ ! sa eva ! yadvā ! etadapyagastyaviśeṣaṇaṃ | kāraḥ śabdayitā hotrādiḥ | tasya dhuniḥ kaṃpayitā prerakaḥ iva | iveti saṃpratyarthe ! “ astupamārthasya saṃpratyarthe prayogaḥ*) (Ni. 7-31): in this way Sāyaṇa has given the meaning of the words काराधुनी इव (*kārādhunī iva*). According to this explanation two meanings are possible for the word काराधुनी (*kārādhunī*): first, the conch; second, the Hotṛ, the agent of the sound that is of the form of praise. Earlier, in the Ṛk
+
+ईळे द्यावापृथिवी पूर्वचित्तयेग्निं घर्मं सुकुचं योमन्निष्टये । याभिर्भरे कारमंशाय जिन्नथस्ताभिरू षु ऊतिभिरश्विना गतं ॥ ( (*īḷe dyāvāpṛthivī pūrvacittayegniṃ gharmaṃ sukucaṃ yomanniṣṭaye | yābhirbhare kāramaṃśāya jinnathastābhirū ṣu ūtibhiraśvinā gataṃ ‖ (*) (Ṛ. Saṃ. 1-112-1)
+
+when giving the meaning of the word कार (*kāra*), Sāyaṇa explained: कारशब्दः शंखवाचीत्यभियुक्ताः संगिरंते । कारं शब्दकारिणं शंखं (*kāraśabdaḥ śaṃkhavācītyabhiyuktāḥ saṃgiraṃte | kāraṃ śabdakāriṇaṃ śaṃkhaṃ*). To support this very meaning, Skandasvāmin cites the present Ṛk (Ṛ. Saṃ. 1-180-8) and, in both places, as the conch
+
 ---
 
-**Progress note:** Done through printed p. 534. pp. 529-534 (batch API)
+**Progress note:** Done through printed p. 540. pp. 535-540 (batch API)
