@@ -3,7 +3,7 @@
 You do for **Volume 8** exactly what was begun for Volume 10 on Nov 27 2026 (repo `bhargaviupa/rik-translation`; work on the branch this session was given; commit and push after every stage and every batch; never force-push; no pull request; no merge into `main` unless the user says so). Report only what finished commands showed; quote `git log -1` for every commit you claim.
 
 ## The volume
-- Maṇḍala 1 Sūktas 113–121 (Eighth Adhyāya of the First Aṣṭaka), printed pp. 2–about 600; legacy volume made from scans (REQUIREMENTS Part L, family L1). English: `vol8/Rigveda_Samhita_Vol9_English_Translation.md` (headings `### Printed p. N`; about 1,921 `[?]` marks on 956 lines; `[sic]`, `**GLOSS**` as in Vol 10). Do not re-translate; be sparing with repairs.
+- Maṇḍala 1 Sūktas 95–112 (Seventh Adhyāya of the First Aṣṭaka; Sūkta 112 has 25 Ṛks), printed pp. 2–about 830 (scan: 852 PDF pages, printed = PDF − 20); legacy volume made from scans (REQUIREMENTS Part L, family L1). English: `vol8/Rigveda_Samhita_Vol8_English_Translation.md` (headings `### Page N`, front matter `### Page i`; about 4,616 `[?]` marks, more than twice Vol 10; count again with `grep -o`; `[sic]`, `**GLOSS**` as in Vol 10). Do not re-translate; be sparing with repairs.
 - **The user's supplied machine-read text of Vol 8 is the base and is needed first:** the files `rig_8_1.*`, `rig_8_2.*` … (html or md) which the user attaches to the session. Put them in `vol8/html/`. **If they are not there, stop and ask the user for them; do nothing else** (the scans are not read, no numeral file is used).
 
 ## Standing restriction lifted
