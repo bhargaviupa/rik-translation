@@ -14719,6 +14719,292 @@ O Maruts, your शुष्मः (*śuṣmaḥ*), strength, is शुभ्र�
 - धुनिः (*dhuniḥ*)—the speed that makes trees tremble
 - मुनिरिव (*muniriva*)—is sounding like the voice of the praiser
 
+### Printed p. 349
+
+##### भावार्थ (Bhāvārtha)
+
+Maruts, your strength is resplendent. Your minds show anger against enemies in battles. The speed of your host, which confronts the enemy and is full of power and makes trees and the like tremble, is full of sound like the voice of a praiser.
+
+##### English translation
+Glorious is your vigour, unrelenting are your minds : (the exertion) of your irresistible force, the agitator (of the trees), is like (the manifold tone of the prayers of) a muni.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सने॑म्य॒स्मद्यु॒योत॑ दि॒द्युं मा वो॑ दुर्म॒तिरि॒ह प्रण॑ङ्नः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनेमि । अस्मत् । युयोत । दिद्युं । मा । वः । दुःऽमतिः । इह । प्रणक् । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> [ हे मरुतः सनेमि पुराणं दिद्युमायुधमस्मदस्मत्तो युयोत । पृथक्कुरुत । वो युष्मदीया दुर्मतिः क्रूरमतिरिहास्मिन्कर्मणि नोऽस्मान्मा प्रणक् मा व्याप्नोतु ॥ ]
+
+##### Gist of the bhāṣya
+
+O Maruts, put away from us the ancient weapon (दिद्युं (*didyuṃ*), "weapon"). Separate it from us. Let your cruel-minded displeasure not reach us in this rite; let it not pervade us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सनेमि (*sanemi*)—ancient
+- दिद्युं (*didyuṃ*)—your weapon
+- अस्मत् (*asmat*)—from us
+- युयोत (*yuyota*)—separate
+- वः (*vaḥ*)—your
+- दुर्मतिः (*durmatiḥ*)—cruel mind
+- इह (*iha*)—at this time of the rite
+- नः (*naḥ*)—us
+- मा प्रणक् (*mā praṇak*)—let it not pervade
+
+##### भावार्थ (Bhāvārtha)
+
+Maruts, do not bring your ancient weapon near us. Let your chastising disposition not envelop us at this time of the rite.
+
+##### English translation
+Withhold from us your ancient blazing (weapon) : let not your displeasure light upon us at this sacrifice.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रि॒या वो॒ नाम॑ हुवे तु॒राणा॒मा यत्तृ॒पन्म॑रुतो वावशा॒नाः ॥ १० ॥
+
+### Printed p. 350
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रिया । वः । नाम । हुवे । तुराणां । आ । यत् । तृपत् । मरुतः । वावशानाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> [ हे मरुतः तुराणां शत्रूणां हिंसकानां त्वरावतां वा वो युष्माकं प्रिया प्रियेण नाम नाम्ना हुवे । आह्वयामि । यद्येनानेन वावशानाः कामयमानाः संतस्तृपत् तृप्तिं गच्छंति ॥ ]
+
+##### Gist of the bhāṣya
+
+O Maruts, I invoke you, who are destroyers of enemies or swift, with your dear name. I call you, so that, desiring it, you may reach satisfaction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यत् (*yat*)—that invocation of mine
+- वावशानाः (*vāvaśānāḥ*)—desiring
+- तृपत् (*tṛpat*)—in the manner in which you attain satisfaction
+- तुराणां (*turāṇāṃ*)—destroyers of enemies
+- वः (*vaḥ*)—your
+- प्रिया (*priyā*)—beneficial
+- नाम (*nāma*)—by uttering the name
+- आ हुवे (*ā huve*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+Maruts, in the manner in which, desiring my invocation, you attain satisfaction, I recite your beneficial names, you who destroy enemies, and call you.
+
+##### English translation
+I invoke your beloved names, Maruts, destroyers (of foes), that they who are desirous of the offering may be satisfied.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒यु॒धास॑ इ॒ष्मिणः॑ सुनि॒ष्का उ॒त स्व॒यं त॒न्व१॒ः॑ शुंभ॑मानाः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुआयुधासः । इष्मिणः । सुनिष्काः । उत । स्वयं । तन्वः । शुंभमानाः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वायुधासः स्वायुधाः शोभनास्त्रा इष्मिणो गंतारः सुनिष्काः शोभनालंकारा उतापि च तन्वः स्वकीयानि शरीराणि शुंभमानाः स्वयमेव शोभयंतो मरुत एवंभूता भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts have good weapons, are goers, have fine ornaments, and themselves adorn their own bodies; such they are.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वायुधासः (*svāyudhāsaḥ*)—those with excellent weapons
+- इष्मिणः (*iṣmiṇaḥ*)—those given to moving about
+- सुनिष्काः (*suniṣkāḥ*)—those with excellent ornaments
+- उत (*uta*)—and
+- तन्वः (*tanvaḥ*)—their bodies
+- स्वयं शुंभमानाः (*svayaṃ śuṃbhamānāḥ*)—those who adorn themselves: such Maruts shine
+
+### Printed p. 351
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who have excellent weapons, are given to moving about, have excellent ornaments and adorn their own bodies themselves, shine.
+
+##### English translation
+Bearers are (the Maruts) of bright weapons, rapid are they in motion wearers of brilliant ornaments and, self-irradiators of their persons.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुची॑ वो ह॒व्या म॑रुतः॒ शुची॑नां॒ शुचिं॑ हिनोम्यध्व॒रं शुचि॑भ्यः ।  
+> ऋ॒तेन॑ स॒त्यमृ॑त॒साप॑ आय॒ञ्छुचि॑जन्मानः॒ शुच॑यः पाव॒काः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुची । वः । हव्या । मरुतः । शुचीनां । शुचिं । हिनोमि । अध्वरं । शुचिभ्यः ।  
+> ऋतेन । सत्यं । ऋतसापः । आयन् । शुचिजन्मानः । शुचयः । पावकाः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मारुत्या पशौ शुची वो हव्येति वपाया अनुवाक्या । सूत्रितं च । शुची वो हव्या मरुतः शुचीनां नू स्थिरं मरुतः । आ. ३-२ । इति ॥
+> हे मरुतः शुचीनां शुद्धानां वो युष्माकं शुची शुचीनि हव्या हव्यानि हवींषि भवंतु । शुचिभ्यः प्रकाशमानेभ्यो युष्मभ्यं शुचिं शुद्धमध्वरं यागं हिनोमि । अहं प्रेरयामि । ऋतसाप ऋतमुदकं स्पृशंतो मरुत ऋतेन सत्येनैव सत्यमायन् । गच्छंति । कीदृशाः । शुचिजन्मानः शोभनजननाः शुचयो दीप्यमानाः पावकाः शोधकाः । एवंभूता गच्छंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to the Maruts, शुची वो हव्या (*śucī vo havyā*) is the anuvākyā for the vapā offering. It is prescribed in the sūtra: शुची वो हव्या मरुतः शुचीनां नू स्थिरं मरुतः । आ. ३-२ । इति (*śucī vo havyā marutaḥ śucīnāṃ nū sthiraṃ marutaḥ | ā. 3-2 | iti*).
+O Maruts, let pure oblations be for you who are pure. For you who are resplendent I set in motion the pure sacrifice. The Maruts, touching water (ऋतसापः (*ṛtasāpaḥ*)), go by truth to truth. They are of fair birth, shining, purifiers; such they go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- शुचीनां (*śucīnāṃ*)—pure
+- वः (*vaḥ*)—to you
+- शुची (*śucī*)—pure
+- हव्या (*havyā*)—oblations are offered
+- शुचिभ्यः (*śucibhyaḥ*)—addressed to you who are pure
+- शुचिं (*śuciṃ*)—pure
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- हिनोमि (*hinomi*)—I perform
+- शुचिजन्मानः (*śucijanmānaḥ*)—those of pure birth
+- शुचयः (*śucayaḥ*)—the resplendent
+- पावकाः (*pāvakāḥ*)—the purifying Maruts
+- ऋतसापः (*ṛtasāpaḥ*)—touching water
+- ऋतेन (*ṛtena*)—by truth
+- सत्यं (*satyaṃ*)—truth
+- आयन् (*āyan*)—enter
+
+### Printed p. 352
+
+##### भावार्थ (Bhāvārtha)
+
+Maruts, to you who are pure, perfectly pure oblations are offered. Addressed to you who are pure, I perform the pure sacrifice. The Maruts, of pure birth, resplendent and purifying, touching water, enter by their own true nature into truth.
+
+##### English translation
+Pure oblations be offered, Maruts, to you who are pure : the shedders of water proceed by truth to truth, pure, purifying, of pure birth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice performed for the Maruts, this Ṛk शुची वो हव्या (*śucī vo havyā*) is to be recited as the anuvākyā mantra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra शुची वो हव्या मरुतः शुचीनां नू स्थिरं मरुतः (*śucī vo havyā marutaḥ śucīnāṃ nū sthiraṃ marutaḥ*) (Ā. 3-2).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंसे॒ष्वा म॑रुतः खा॒दयो॑ वो॒ वक्षः॑सु रु॒क्मा उ॑पशिश्रिया॒णाः ।  
+> वि वि॒द्युतो॒ न वृ॒ष्टिभी॑ रुचा॒ना अनु॑ स्व॒धामायु॑धै॒र्यच्छ॑मानाः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंसेषु । आ । मरुतः । खादयः । वः । वक्षःसु । रुक्माः । उपशिश्रियाणाः ।  
+> वि । विद्युतः । न । वृष्टिभिः । रुचानाः । अनु । स्वधां । आयुधैः । यच्छमानाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः अंसेषु युष्मदीयेषु स्कंधप्रदेशेषु खादयोऽलंकारविशेषा आ मुक्ता भवंतीति शेषः । सुरुक्माः सुष्ठु रोचमाना हारा वो युष्मदीयं वक्ष उरःप्रदेशमुपशिश्रियाणा आश्रिता भवंति । किं च हे मरुतः वृष्टिभिर्वर्षैः सार्धं विद्युतो न तडितो यथा रुचाना रोचमानास्तादृग्भूता यूयमायुधैर्मेघताडनैः स्वधामुदकमनु यच्छमानाः प्रयच्छंतो वि चरथेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, on your shoulders special ornaments (खादयः (*khādayaḥ*)) are fastened (the verb "are" being supplied). Brilliant golden necklaces (रुक्माः (*rukmāḥ*)) rest on your chests. And, O Maruts, together with the rains you shine like lightnings. Thus you, with your weapons that strike the clouds, move about, supplying water (स्वधां (*svadhāṃ*)); the verb "you move about" is supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- अंसेषु (*aṃseṣu*)—on your shoulders
+- खादयः (*khādayaḥ*)—special ornaments
+- आ (मुक्ताः) (*ā (muktāḥ)*)—are shining
+- वः वक्षःसु (*vaḥ vakṣaḥsu*)—on your chests
+- रुक्माः (*rukmāḥ*)—
+
+### Printed p. 353
+golden necklaces
+- उपशिश्रियाणाः (*upaśiśriyāṇāḥ*)—have found a resting place
+- वृष्टिभिः (*vṛṣṭibhiḥ*)—joined with rain
+- विद्युतो न (*vidyuto na*)—like lightnings
+- आयुधैः (*āyudhaiḥ*)—together with your weapons
+- रुचानाः (*rucānāḥ*)—you who shine
+- स्वधां (*svadhāṃ*)—water
+- अनु यच्छमानाः (*anu yacchamānāḥ*)—supplying
+- वि (चरथ) (*vi (caratha)*)—you move about
+
+##### भावार्थ (Bhāvārtha)
+
+Maruts, special ornaments shine on your shoulders. Golden necklaces rest on your chests. Like lightnings joined with rains, you, shining together with your weapons, move about supplying water.
+
+##### English translation
+Bright ornaments, Maruts are on your shoulders, shining (necklaces) are pendant on your breasts, glittering with rain, like lightnings, you are distributing the waters with your weapons.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र बु॒ध्न्या॑ व ईरते॒ महां॑सि॒ प्र नामा॑नि प्रयज्यवस्तिरध्वं ।  
+> स॒ह॒स्रियं॒ दम्यं॑ भा॒गमे॒तं गृ॑हमे॒धीयं॑ मरुतो जुषध्वं ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । बुध्न्या । वः । ईरते । महांसि । प्र । नामानि । प्रयज्यवः । तिरध्वं ।  
+> सहस्रियं । दम्यं । भागं । एतं । गृहमेधीयं । मरुतः । जुषध्वं ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृहमेधीये प्र बुध्न्या व इति प्रधानस्य याज्या । सूत्रितं च । प्र बुध्न्या व ईरते महांसीति पुष्टिमंतौ विराजौ संयाज्ये । आ. २-१८ । इति ॥
+> हे मरुतः वो युष्मदीयानि बुध्न्या बुध्न्येऽंतरिक्षे भवानि महांसि तेजांसि ईरते । प्रकर्षेण गच्छंति । किं च हे प्रयज्यवः प्रकर्षेण यष्टव्या मरुतः यूयं नामानि पांसून्नमयंतीति नामान्युदकानि । प्र तिरध्वं । वर्धयत । हे मरुतः यूयं सहस्रियं सहस्रसंख्याकं दम्यं दमे गृहे भवं गृहमेधीयं गृहमेधिभ्यो युष्मभ्यं देयमेतमेतादृशं भागं जुषध्वं । सेवध्वं । एकं भागं सहस्रियमिति कथमाह । तथा च श्रूयते । यावदेका देवता कामयते यावदेका तावदायुः प्रथते न हि तदस्ति यत्तावदेव स्याद्यावज्जुहोतीति ॥
+> 45
+
+##### Gist of the bhāṣya
+
+In the Gṛhamedhīya offering, प्र बुध्न्या व (*pra budhnyā va*) is the yājyā of the principal offering. It is prescribed in the sūtra: प्र बुध्न्या व ईरते महांसीति पुष्टिमंतौ विराजौ संयाज्ये । आ. २-१८ । इति (*pra budhnyā va īrate mahāṃsīti puṣṭimaṃtau virājau saṃyājye | ā. 2-18 | iti*).
+O Maruts, your splendours (महांसि (*mahāṃsi*)) that belong to the atmosphere (बुध्न्या (*budhnyā*)) move forth. And, O Maruts, worthy of eminent worship, increase the waters (नामानि (*nāmāni*), so called because they make the dust bend down). O Maruts, enjoy this portion, a thousandfold in number, belonging to the house (दम्यं (*damyaṃ*)), the Gṛhamedhīya portion to be given to you by the householders. How does he say that one portion is thousandfold? Thus it is heard: यावदेका देवता कामयते यावदेका तावदायुः प्रथते न हि तदस्ति यत्तावदेव स्याद्यावज्जुहोतीति ॥ (*yāvadekā devatā kāmayate yāvadekā tāvadāyuḥ prathate na hi tadasti yattāvadeva syādyāvajjuhotīti ‖*).
+
+### Printed p. 354
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—your
+- बुध्न्या (*budhnyā*)—belonging to the atmosphere
+- महांसि (*mahāṃsi*)—splendours
+- प्र ईरते (*pra īrate*)—spread out greatly and shine
+- प्रयज्यवः (*prayajyavaḥ*)—O Maruts, worthy of excellent worship
+- नामानि (*nāmāni*)—the waters
+- प्र तिरध्वं (*pra tiradhvaṃ*)—cause to increase
+- मरुतः (*marutaḥ*)—O Maruts
+- सहस्रियं (*sahasriyaṃ*)—thousandfold in number
+- दम्यं (*damyaṃ*)—belonging to the house
+- गृहमेधीयं (*gṛhamedhīyaṃ*)—offered to you who are worshipped in the house
+- एतं भागं (*etaṃ bhāgaṃ*)—this sacrificial portion
+- जुषध्वं (*juṣadhvaṃ*)—enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+Maruts, your splendours belonging to the atmosphere spread out greatly and shine. O Maruts, worthy of excellent worship, make the water increase. O Maruts, enjoy this sacrificial portion, thousandfold in number, belonging to the house and offered to you who are worshipped in the house.
+
+##### English translation
+Your celestial splendours, Maruts, spread wide : objects of worship, you send down (the waters) that beat down (the dust) : accept, Maruts this your portion of the domestic worship of the household multiplied a thousand fold.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering called Gṛhamedhīya, this Ṛk प्र बुध्न्यावः (*pra budhnyāvaḥ*) is to be recited as the yājyā mantra in the principal oblation; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra प्र बुध्न्या व ईरते महांसीति पुष्टिमंतौ विराजौ संयाज्ये (*pra budhnyā va īrate mahāṃsīti puṣṭimaṃtau virājau saṃyājye*) (Ā. 2-18).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॑ स्तु॒तस्य॑ मरुतो अधी॒थेत्था विप्र॑स्य वा॒जिनो॒ हवी॑मन् ।  
+> म॒क्षू रा॒यः सु॒वीर्य॑स्य दात॒ नू चि॒द्यम॒न्य आ॒दभ॒दरा॑वा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । स्तुतस्य । मरुतः । अधिइथ । इत्था । विप्रस्य । वाजिनः । हवीमन् ।  
+> मक्षु । रायः । सुवीर्यस्य । दात । नु । चित् । यं । अन्यः । आदभत् । अरावा ॥
+
 ---
 
-**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
+**Progress note:** Done through printed p. 354. pp. 349-354 (batch API)
