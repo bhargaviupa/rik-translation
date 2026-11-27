@@ -9655,6 +9655,128 @@ Pervade with our praise him who is the sole sustainer of men, to whom the oblati
 
 विश्वा यश्चर्षणीरभ्या ३ सा वाजेषु सासहत् । (*viśvā yaścarṣaṇīrabhyā 3 sā vājeṣu sāsahat |*) (Śa. Brā. 5-23-1)
 
+### Printed p. 403
+In many such places the word चर्षणि (*carṣaṇi*) is explained as "subjects, people". This epithet points to a distinctive quality of human beings. But when the component meaning of the word is stated, there is a difference of opinion. The scholar Monier Williams, in his Sanskrit–English Dictionary, gives for this word "cultivating, agile, active", and shows that humans have the epithet चर्षणि (*carṣaṇi*) because they are active in agriculture and the like. He also shows that the root कृष् (*kṛṣ*) is the origin of this word. The Nirukta authors, quoting the Ṛk
+हविषा जारो असां पिपर्ति पॆपुरिर्नरा । पिता कुटस्य चर्षणिः । (*haviṣā jāro asāṃ piparti pèpurirnarā | pitā kuṭasya carṣaṇiḥ |*)
+(Ṛ. Saṃ. 1-46-4)
+explain the word चर्षणि (*carṣaṇi*), an epithet of the word आदित्य (*āditya*), as "the one who sees, the seer, the one who looks on". In the present Ṛk Sāyaṇa explains it as ज्ञानवतां मनुष्याणां (*jñānavatāṃ manuṣyāṇāṃ*), so the meaning is: those who have a sight consisting of knowledge, those who have the power of vision. The word is not an epithet of human beings alone; it is also used as an epithet of Indra and others. Just as in the Ṛk (1-46-4) quoted above by the Nirukta authors the seeing power of Āditya is stated, so in
+युवामिंद्राग्नी वसुनो विभागे तवस्तमा शुश्रव वृत्रहत्ये । तावासद्या बर्हिषि यज्ञे अस्मिन्न चर्षणी मादयेथां सुतस्य ॥ (*yuvāmiṃdrāgnī vasuno vibhāge tavastamā śuśrava vṛtrahatye | tāvāsadyā barhiṣi yajñe asminna carṣaṇī mādayethāṃ sutasya ‖*)
+(Ṛ. Saṃ. 1-109-5)
+and similar Ṛks, it is an epithet of Indra and Agni and describes their power of vision. Sāyaṇa explains सर्वस्य द्रष्टारौ इंद्राग्नी (*sarvasya draṣṭārau iṃdrāgnī*): those having the power to see everything. In the present Ṛk too the purport is: of human beings who possess a sight consisting of knowledge. Indra is the one and only protector of such people: this is the meaning of the sentence चर्षणीनां एकः (*carṣaṇīnāṃ ekaḥ*).
+
+अनु स्वधा यमुप्यते (*anu svadhā yamupyate*)—the injunctive sentence that स्वधा (*svadhā*) is to be offered to Indra, the protector of all, indicates the duty of man. स्वधा-हनिर्लक्षणमन्नं । (*svadhā-hanirlakṣaṇamannaṃ |*) In the present context it means food in the form of oblation. The Nirukta authors included this word among the names of water (Ni. 2-23) and among the names of food (Ni. 3-F). But in many contexts स्वधा (*svadhā*) means one's own greatness, one's own brilliance or self-support. For example—
+शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी । अथो व्युच्छादुत्तरा अनु द्यूनजरामृता चरति स्वधाभिः ॥ (*śaśvatpuroṣā vyuvāsa devyatho adyedaṃ vyāvo maghonī | atho vyucchāduttarā anu dyūnajarāmṛtā carati svadhābhiḥ ‖*)
+(Ṛ. Saṃ. 1-113-13)
+
+### Printed p. 404
+In this Ṛk the word, used of Uṣas, is explained as आत्मीयैस्तेजोभिः ! (*ātmīyaistejobhiḥ !*), "by her own brilliances". Likewise,
+यदंतरिक्षे पतथः पुरुभुजा यद्वेमे रोदसी अनु । यद्वा स्वधाभिरधितिस्थघो रथमत आ यातमश्विना ॥ (*yadaṃtarikṣe patathaḥ purubhujā yadveme rodasī anu | yadvā svadhābhiradhitisthagho rathamata ā yātamaśvinā ‖*)
+(Ṛ. Saṃ. 8-10-6)
+Here, describing the nature of the Aśvin deities, it is explained as आत्मीयैस्तेजोभिर्बलैर्वा सार्धं । (*ātmīyaistejobhirbalairvā sārdhaṃ |*): with your own brilliances, or with your own powers.
+न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न असीत्प्रकेशः । आनीदवातं स्वधया तदेकं तस्माद्धान्नन्य परः किं चनास ॥ (*na mṛtyurāsīdamṛtaṃ na tarhi na rātryā ahna asītprakeśaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmāddhānnanya paraḥ kiṃ canāsa ‖*)
+(Ṛ. Saṃ. 10-129-ऎ (*è*))
+In this Ṛk Sāyaṇa explains स्वस्मिन् धीयते द्रियते आश्रित्य वर्तते इति स्वधा । (*svasmin dhīyate driyate āśritya vartate iti svadhā |*) Because it depends on itself, स्वधा (*svadhā*) is an epithet of Māyā, the wonderful power of Īśvara (the Supreme Brahman). Thus the word is used in various senses. In the present Ṛk it means food in the form of oblation.
+
+Speaking of this word, the scholar Max Müller says that its use is ancient and that, from the standpoint of philology, it indicates many special meanings:
+
+स्वधा (*svadhā*), literally one's own place, afterwards, one's own nature. It was a great triumph for the science of comparative philology that, long before the existence of such a word as स्वधा (*svadhā*) in sanskrit was known, it should have been postulated by professor Benfey in 1839. स्वधा (*svadhā*) was known, it is true, in the ordinary Sanskrit but there it only occured as an exclamation used on presenting an oblation to the manes. It was also explained to mean food offered to deceased ancestors, or to be the name of a personification of माया (*māyā*) or worldly illusion or of a nymph. The expressions अनु स्वधां (*anu svadhāṃ*) and स्वधां अनु (*svadhāṃ anu*) are of frequent occurance. They mean, according to the nature or character of the person spoken of and may be translated by as usual or accordig to a person's wont.
+
+The word स्वधा (*svadhā*) has the gross meaning "one's own place, nature"; it also shows the meaning of food offered to the Pitṛs. Besides these, the word is known to be used in other senses. For example—
+
+### Printed p. 405
+प्र सु ष विभ्यो मरुतो विरस्तु प्र श्येनः श्येनेभ्य आशुपत्वा । अचक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टं ॥ (*pra su ṣa vibhyo maruto virastu pra śyenaḥ śyenebhya āśupatvā | acakrayā yatsvadhayā suparṇo havyaṃ bharanmanave devajuṣṭaṃ ‖*)
+(Ṛ. Saṃ. 4-26-4)
+In this Ṛk, giving the meaning of the word, Sāyaṇa says that here स्वधा (*svadhā*) means "sap", and to support this meaning quotes
+अपश्यं ग्रामं वहमानमारादचक्रया स्वधया वर्तमानं । सिषक्त्यर्यः प्र युगा जनानां सद्यः शिश्ना प्रमिनानो नवीयान् ॥ (*apaśyaṃ grāmaṃ vahamānamārādacakrayā svadhayā vartamānaṃ | siṣaktyaryaḥ pra yugā janānāṃ sadyaḥ śiśnā pramināno navīyān ‖*)
+(Ṛ. Saṃ. 10-27-19)
+and says अत्र स्वधाशब्दो रथवाची, १०-२७-१९ इत्यादौ दर्शनात् (*atra svadhāśabdo rathavācī, 10-27-19 ityādau darśanāt*); he thus indicates that, as in the Ṛk quoted, in this Ṛk too (4-26-4) the word स्वधा (*svadhā*) means "chariot". But again, when explaining the Ṛk 10-27-19, he explains आचक्रया चक्रवर्जितया रथहीनया, स्वधया-स्वयमाश्मानं धारयंत्या सेनया (*ācakrayā cakravarjitayā rathahīnayā, svadhayā-svayamāśmānaṃ dhārayaṃtyā senayā*), giving स्वधा (*svadhā*) the meaning "army". Although he indicates in this context that the word has various meanings, he seems to have forgotten here the statement of the bhāṣya made earlier.
+
+When the expressions स्वधां अनु (*svadhāṃ anu*) and अनु स्वधां (*anu svadhāṃ*) occur, the meanings naturally are "by nature" or "according to custom". For example,
+स्वधामनु श्रियं नरो महि त्वेषा अमवंतो वृषप्सवः । वहंते अह्रुतप्सवः ॥ (*svadhāmanu śriyaṃ naro mahi tveṣā amavaṃto vṛṣapsavaḥ | vahaṃte ahrutapsavaḥ ‖*) (Ṛ. Saṃ. 8-20-7)
+In such Ṛks the meaning is "by nature". In places such as Ṛ. Saṃ. 7-56-13 the meaning is known to be "water".
+
+##### Grammar
+
+- वेशय—विश प्रवेशने धातुः । प्रयोजकव्यापारे द्योत्ये हेतुमति च इति णिच् । णिजंतात् लोट् मध्यमपुरुषैकवचनांतरूपम् । तिजंतनिघातस्वरः प्राप्नोति । छांदसत्वात् संहितायां दीर्घो भवति ।
+- चर्षणीनाम्—कृष विलेखने धातुः । कृषेरादेश चः (उ. सू. २-२६१) इति अनि प्रत्ययः । आदेः चकारादेशः । पुगंतलघूपधस्य च इति धातोर्लघूपधस्य गुणः । षष्ठीबहुवचनांतरूपम् । नामन्यतरस्याम् (पा. सू. ६-१-११७) इति नाम उदात्तस्वरो भवति ।
+
+### Printed p. 406
+- उप्यते—डुवप् बीजसंताने धातुः । कर्मणि लट् । प्रथमपुरुषैकवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । ल सार्वधातुकम् तास्यनुदात्तेत् इति सूत्रेण अनुदात्तत्वात् यक्स्वरः शिष्यते ।
+- चर्कृषत्—कृष विलेखने धातुः । यज् लुकि धातोर्द्वित्वम् । आदिहल्‌शेषः । चर्त्वम् । रुग्रिक् च लुकि (पा. सू ७-४-९१) इति अभ्यासस्य रुगागमः । लेटि प्रथमपुरुषैकवचने तिप् । इतश्चलोपः पर—(पा. सू. ३-४-९७) इति इकारस्य लोपः । लेटोडाटौ (पा. सू. ३-४-९४) इति तस्य अडागमः । अदिप्रभृतिभ्यः तपः (पा. सू. २-४-७२) इति शपो लुक् । नाभ्यस्तस्याचि पिति—(पा. सू. ७-३-८७) इति लघूपधगुणस्य निषेधः प्राप्नोति । अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरो भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ विश्वा॑नि॒ हस्त॑योः॒ पंच॑ क्षिती॒नां वसु॑ ।  
+> स्पा॒शय॑स्व॒ यो अ॑स्म॒ध्रुग्दि॒ व्येवा॒शनि॑र्जहि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । विश्वानि । हस्तयोः । पंच । क्षितीनां । वसु ।  
+> स्नाशयस्व । यः । अस्मध्रुक् । दिव्याइव । अशनिः । जहि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्येंद्रस्य हस्तयोः पंच क्षितीनां । क्षियंति निवसंति गच्छंति ना क्षितयो
+> मनुष्याः । पंचानां मनुष्याणां प्रीणयित्यणि विश्वानि सर्वाणि वसु वसूनि धृतानि
+> भवंति । देवा मनुष्याः पितरः पशवः पक्षिणश्चति पंच जनाः । चत्वारो वर्णा
+> विषादपंचमाः पंच जना इत्यन्ये । स तादृशेंद्र त्वं स्पाशयस्व । बाधस्व ।
+> योऽस्मधृक् अस्मभ्यं द्रुह्यति तं । केन प्रकारेणीति स उच्यते । दिव्या दिवि
+> भवातनिरिवातनिर्भूत्वास्मद्द्वैष्टाज्ञहि ॥
+
+##### Gist of the bhāṣya
+
+Of whom, Indra, in whose hands are all treasures of the five क्षितीनां (*kṣitīnāṃ*). क्षितयो (*kṣitayo*) are human beings, because they dwell, abide or move about. The treasures of the five kinds of people are held (in his hands). The five classes are: gods, humans, Pitṛs, animals and birds. Others say the five peoples are the four castes with the Niṣāda as fifth. Such as you are, Indra: स्पाशयस्व (*spāśayasva*), afflict him who is hostile to us (अस्मध्रुक् (*asmadhruk*)). In what manner? Being like the heavenly thunderbolt, slay him who hates us.
+
+### Printed p. 407
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- हस्तयोः (*hastayoḥ*)—in both hands
+- पंच क्षितीनां (*paṃca kṣitīnāṃ*)—dear to the five classes of living beings: gods, humans, Pitṛs, animals, birds
+- विश्वानि (*viśvāni*)—of all kinds
+- वसु (*vasu*)—wealth (is held)
+- हे इंद्र (*he iṃdra*)—O Indra
+- सः (*saḥ*)—such you
+- यः (*yaḥ*)—who
+- अस्मध्रुक् (*asmadhruk*)—is hostile to us
+- तं (*taṃ*)—him
+- स्वाशयस्व (*svāśayasva*)—afflict
+- दिव्या (*divyā*)—belonging to the heavenly world
+- अशनिः इव (*aśaniḥ iva*)—like a thunderbolt
+- जहि (*jahi*)—slay (our enemies)
+
+##### भावार्थ (Bhāvārtha)
+
+All kinds of wealth dear to the five classes of living beings (gods, humans, Pitṛs, animals, birds) are in your hands. O Indra, such as you are, afflict him who is our enemy; as if you were the heavenly thunderbolt, slay our enemies.
+
+##### English translation (H. H. Wilson)
+In whose hands are all the treasures (that are desired by) the five classes of beings : destroy, Indra, him who oppresses us ; slay him, . (as if you were yourself) the heavenly thunderbolt.
+
+##### विशेषविषयगळु (Special Topics)
+
+Indra is described as the lord of all wealth, which is the cause of the prosperity of all beings, gods, humans and the rest; and Indra, endowed with such greatness, is prayed to destroy the enemies of the sacrificers. यस्य हस्तयोः पंच क्षितीनां विश्वानि वसु (*yasya hastayoḥ paṃca kṣitīnāṃ viśvāni vasu*)—Indra in whose control are the riches of the five क्षिति (*kṣiti*): thus Indra's wealth is described. As to what is meant here by पंचक्षिति (*paṃcakṣiti*), Sāyaṇa gives two kinds of meaning. First,
+1. देवा मनुष्याः पितरः पशवः पक्षिणश्चति पंच जनाः । (*devā manuṣyāḥ pitaraḥ paśavaḥ pakṣiṇaścati paṃca janāḥ |*) the five kinds: gods, humans, Pitṛs, animals and birds; and second,
+2. चत्वारो वर्णाः निषाद पंचमाः पंच जना इत्यन्ये (*catvāro varṇāḥ niṣāda paṃcamāḥ paṃca janā ityanye*)—he explains in another way as the people of the four castes together with the Niṣādas. For both meanings authorities of Śruti sentences can be shown. First the derivation of the word क्षिति (*kṣiti*) may be examined, and afterwards what meaning of पंचक्षिति (*paṃcakṣiti*) may be taken in the present context may be considered.
+क्षितीनां (*kṣitīnāṃ*)—क्षियंति निवसंति गच्छंति ना क्षितयो मनुष्याः । (*kṣiyaṃti nivasaṃti gacchaṃti nā kṣitayo manuṣyāḥ |*) Sāyaṇa explains that human beings have this epithet because they dwell or move about. The Nirukta authors read the word क्षिति (*kṣiti*) among the 25 names of man beginning with नरः (*naraḥ*) (Ni. 3-7).
+
+### Printed p. 408
+अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋतावा । स वृत्रहा सनयो विश्ववेदाः वर्षद्विश्वाति मरिता गृणंतं । (*agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā | sa vṛtrahā sanayo viśvavedāḥ varṣadviśvāti maritā gṛṇaṃtaṃ |*)
+(Ṛ. Saṃ. 3-20-4)
+In such Ṛks, when the difference between humans and the divine subjects is shown, the word क्षिति (*kṣiti*) indicates humans, the subjects of the earth. But in the present Ṛk it cannot be definitely said that only earthly humans are meant, because Indra's wealth pervades earth, atmosphere and all.
+न यस्य देवा देवता न मर्ता अपश्चन शवसो अंतमापुः । स प्ररिक्वा त्वक्षसा क्षो दिवश्च मरुत्वान्नो भवत्स्विंद्र ऊती । (*na yasya devā devatā na martā apaścana śavaso aṃtamāpuḥ | sa prarikvā tvakṣasā kṣo divaśca marutvānno bhavatsviṃdra ūtī |*)
+(Ṛ. Saṃ. 1-100-15)
+In such Ṛks the power of Indra, who is divine in nature and endowed with qualities such as generosity, is described as surpassing the power of all others in the world; neither gods nor humans have reached its end; and with his enemy-destroying and majestic power Indra makes earth and heaven shine together. Because of this, and because in the present Ṛk too Indra's wealth is described as all-pervading, पंचक्षितीनां (*paṃcakṣitīnāṃ*) cannot be said to mean merely the four-fold class together with the Niṣāda as fifth. In this matter the Nirukta authors do not state their own view but only report the opinions of others.
+पंचजना “मम होत्रं जुषध्वं” गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः । (*paṃcajanā “mama hotraṃ juṣadhvaṃ” gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ |*)
+(Ni. 3-8)
+They report only the opinions of others: some hold that the five groups are Gandharvas, Pitṛs, gods, Asuras and Rākṣasas; and Upamanyu and others hold that the four castes, Brāhmaṇa and the rest, together with the Niṣādas as the fifth group, make up the five peoples.
+Formerly, when all the gods prayed to Agni to accept the oblation offered in the sacrifice for them and distribute it to all, Agni agreed and said,
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्ञियासः पंच जना मम होत्रं जुषध्वं ॥ (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajñiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ ‖*)
+(Ṛ. Saṃ. 10-53-4)
+"Let the five peoples together enjoy this oblation." The authors of the Bṛhaddevatā quoted this sentence containing the answer, and discussed the five peoples, showing differences of opinion.
+
 ---
 
-**Progress note:** Done through printed p. 402. pp. 397-402 (batch API)
+**Progress note:** Done through printed p. 408. pp. 403-408 (batch API)
