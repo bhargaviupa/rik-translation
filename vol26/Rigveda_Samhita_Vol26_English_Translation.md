@@ -2459,7 +2459,7 @@ The friends, the dear praisers (सखायः प्रियस्तोत�
 
 - अत्यविं (*atyaviṃ*)—after passing the दशापवित्र (*daśāpavitra*) and attaining purity
 - वने (*vane*)—joining the water
-- क्रीडंतं (*krīḍaṃtaṃ*)—sporting
+- क्रीळंतं (*krīḷaṃtaṃ*)—sporting
 - ईं इंदुं (*īṃ iṃduṃ*)—this Soma-deva
 - सखायः (*sakhāyaḥ*)—his friends, the praisers
 - समस्वरन् (*samasvaran*)—gather together and praise
@@ -2885,7 +2885,7 @@ When (यत् (*yat*)) the uktha (उक्थं (*ukthaṃ*)), the śastra o
 
 - यत् (*yat*)—when
 - अस्य (*asya*)—addressed to Indra
-- उकथं (*ukathaṃ*)—the śastra-mantra
+- उक्थं (*ukthaṃ*)—the śastra-mantra
 - जायते (*jāyate*)—comes into being
 - आत् (*āt*)—immediately thereupon
 - इंद्रियः (*iṃdriyaḥ*)—dear to Indra
@@ -2898,7 +2898,7 @@ equal to the weapon of the thunderbolt;
 - रसः (*rasaḥ*)—endowed with strength
 - सोमः (*somaḥ*)—the Soma
 - सहस्रसाः (*sahasrasāḥ*)—to us in thousands
-- भवत् (*bhavat*)—becomes the bestower of wealth
+- भुवत् (*bhuvat*)—becomes the bestower of wealth
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -2976,7 +2976,7 @@ O Soma, you are one who wishes to share (सिषासतुः (*siṣāsatu�
 - अर्वतां इव (*arvatāṃ iva*)—as abundant food is given to horses
 - भरेषु (*bhareṣu*)—in battles
 - जिग्युषां (*jigyuṣāṃ*)—to heroes given to victory
-- रयाणां (*rayāṇāṃ*)—abundant riches
+- रयीणां (*rayīṇāṃ*)—abundant riches
 - सिषासतुः असि (*siṣāsatuḥ asi*)—you wish to give
 
 ##### भावार्थ (Bhāvārtha)
@@ -3030,7 +3030,7 @@ O Pavamāna, you stand in the common abodes (सधस्थेषु (*sadhasth
 - महः (*mahaḥ*)—of the vast
 - दिवः (*divaḥ*)—heaven
 - सधस्थेषु (*sadhastheṣu*)—in the places of abode
-- नृम्मानि (*nṛmmāni*)—riches
+- नृम्णानि (*nṛmṇāni*)—riches
 - भिभ्रतं (*bhibhrataṃ*)—who bear
 - चारुं (*cāruṃ*)—charming
 - तं (*taṃ*)—and purified
@@ -3071,7 +3071,7 @@ O Soma, you are संवृक्तधृष्णुम् (*saṃvṛktadh�
 
 - (O divine Soma)
 - संवृक्तधृष्णुं (*saṃvṛktadhṛṣṇuṃ*)—you who cleave asunder the resisting, mighty enemies
-- उक्ष्यं (*ukṣyaṃ*)—the praiseworthy
+- उक्थ्यं (*ukthyaṃ*)—the praiseworthy
 - महामहिव्रतं (*mahāmahivrataṃ*)—who has many venerable rites
 - मदं (*madaṃ*)—the exhilarating
 - शतं (*śataṃ*)—many
@@ -3904,7 +3904,7 @@ May Soma, the radiant (द्युक्षः (*dyukṣaḥ*)), that is, shini
 - परिभरत् (*paribharat*)—may he give fully (O divine Soma)
 - सुवानः (*suvānaḥ*)—you who are pressed
 - पवित्रे (*pavitre*)—towards the ten-fold filter
-- आर्ष (*ārṣa*)—flow **NOTE**
+- अर्ष (*arṣa*)—flow **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -4156,10 +4156,10 @@ O Soma, you are by nature a slayer (निजघ्निः (*nijaghniḥ*)) of
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - (O divine Soma)
-- आया (*āyā*)—in this way manifested **NOTE**
+- अया (*ayā*)—in this way manifested **NOTE**
 - ओजसा (*ojasā*)—by strength
 - निजघ्निः (*nijaghniḥ*)—you are the destroyer of enemies
-- अभिभ्युषा (*abhibhyuṣā*)—fearless **NOTE**
+- अबिभ्युषा (*abibhyuṣā*)—fearless **NOTE**
 - हृदा (*hṛdā*)—I, joined with a heart (with devotion)
 - रथसंगे (*rathasaṃge*)—for the protection of the lines of our chariots
 - हिते (*hite*)—lodged among the enemies
@@ -4290,7 +4290,7 @@ Of this Soma, towards his ancient, shining body, the poets (kavis) milk the brig
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - अस्य (*asya*)—of this Soma-deva
-- प्रश्नां (*praśnāṃ*)—ancient **NOTE**
+- प्रत्नां (*pratnāṃ*)—ancient **NOTE**
 - द्युतं (*dyutaṃ*)—shining; from the body that is both
 - अनुशुक्रं (*anuśukraṃ*)—radiant
 - सहस्रसां (*sahasrasāṃ*)—giver of unlimited desired objects
@@ -4763,9 +4763,9 @@ O Indu, Soma, sweet, of pleasant juice, flow all around for Indra and for Viṣ�
 - स्वादुः (*svāduḥ*)—having a tasty juice
 - त्वं (*tvaṃ*)—you
 - इंद्राय (*iṃdrāya*)—for Indra
-- विष्णुवे (*viṣṇuve*)—and for Viṣṇu
+- विष्णवे (*viṣṇave*)—and for Viṣṇu
 - परि स्रव (*pari srava*)—flow in the form of a stream
-- नृन् (*nṛn*)—the sacrificers, leaders of the rites
+- नॄन् (*nṝn*)—the sacrificers, leaders of the rites
 - स्तोत्थान् (*stotthān*)—and the praisers
 - अंहसः (*aṃhasaḥ*)—from sin
 - पाहि (*pāhi*)—protect
@@ -5430,7 +5430,7 @@ The purifying Soma, being purified, passes over the sheep's hairs of the filter 
 - असिष्यदत् (*asiṣyadat*)—flows
 - इंद्रस्य (*iṃdrasya*)—Indra's
 - हार्दि (*hārdi*)—heart
-- अविशन् (*aviśan*)—entering
+- आविशन् (*āviśan*)—entering
 - कलशान् (*kalaśān*)—into the Droṇa-vessels
 - अभि धावति (*abhi dhāvati*)—goes quickly and joins them
 
@@ -5527,7 +5527,7 @@ O Indu, Soma, with this juice flow around, for Indra's enjoyment, by way of ente
 - मदेषु (*madeṣu*)—in the battles
 - नवतीर्नव (*navatīrnava*)—ninety-nine enemy cities
 - अवाहन् (*avāhan*)—destroyed
-- आया (*āyā*)—with a juice of such power **NOTE**
+- अया (*ayā*)—with a juice of such power **NOTE**
 - वीती (*vītī*)—for Indra's drinking
 - परि स्रव (*pari srava*)—flow in the form of a stream
 
@@ -5850,8 +5850,8 @@ O Soma, sweet-juiced and beautiful, pressed as you are, flow for us in our sacri
 - नः (*naḥ*)—in our sacrifice
 - मित्रे (*mitre*)—for Mitra
 - भगाय (*bhagāya*)—for the divine Bhaga
-- नायवे (*nāyave*)—with Vāyu as the aim **NOTE**
-- पूष्पे (*pūṣpe*)—for the divine Pūṣan **NOTE**
+- वायवे (*vāyave*)—with Vāyu as the aim **NOTE**
+- पूष्णे (*pūṣṇe*)—for the divine Pūṣan **NOTE**
 - वरुणे च (*varuṇe ca*)—and for the satisfaction of Varuṇa
 - पवस्व (*pavasva*)—flow
 
@@ -6094,7 +6094,7 @@ O Soma, flow for our cow, that is, pour out comfort. Moreover, fill up and bring
 - पिप्युषीं (*pipyuṣīṃ*)—nourishing
 - इषं (*iṣaṃ*)—food
 - धुक्षस्व (*dhukṣasva*)—fill up and give
-- उक्ष्यं (*ukṣyaṃ*)—praiseworthy **NOTE**
+- उक्थ्यं (*ukthyaṃ*)—praiseworthy **NOTE**
 - समुद्रं (*samudraṃ*)—water
 - वर्ध (*vardha*)—increase
 
@@ -6170,7 +6170,7 @@ O shining king Soma, of you who flow, the exhilarating juice, free from demons, 
 - राजन् (*rājan*)—O resplendent divine Soma
 - पवमानस्य (*pavamānasya*)—who are in the form of a stream
 - ते (*te*)—your
-- अदुच्चुनः (*aduccunaḥ*)—free from fault **NOTE**
+- अदुच्छुनः (*aducchunaḥ*)—free from fault **NOTE**
 - मदः (*madaḥ*)—gladdening
 - रसः (*rasaḥ*)—the juice
 - अव्यं (*avyaṃ*)—made of wool
@@ -6295,7 +6295,7 @@ O Soma, you are the slayer of the enemy Vṛtra, the one born of hostility. Furt
 - वृत्रं (*vṛtraṃ*)—the demon
 - जघ्निः (*jaghniḥ*)—as the slayer
 - असि (*asi*)—you are
-- दिनेदिवे (*dinedive*)—every day **NOTE**
+- दिवेदिवे (*divedive*)—every day **NOTE**
 - वाजं (*vājaṃ*)—the battle
 - सस्निः (*sasniḥ*)—you desire
 - गोषाः (*goṣāḥ*)—the giver of cows
@@ -6389,7 +6389,7 @@ O Soma, you who helped Indra to slay Vṛtra, who was holding back the great wat
 O divine Soma, you who helped Indra to destroy the demon Vṛtra, who had held back the great waters, such as you flow in the form of a stream.
 
 ##### English translation
-Flow you who helped Indra to slay Vritra, who obstructed the grea waters. **NOTE**
+Flow you who helped Indra to slay Vritra, who obstructed the great waters. **NOTE**
 
 #### Ṛk 23
 
@@ -6499,7 +6499,7 @@ Soma, slaying the violent enemies, and slaying those who give no wealth though a
 - सोमः (*somaḥ*)—the divine Soma
 - मृधः (*mṛdhaḥ*)—the violent enemies
 - अपघ्नन् (*apaghnan*)—destroying
-- अराव्हः (*arāvhaḥ*)—the misers who are wealthy yet give nothing **NOTE**
+- अराव्णः (*arāvṇaḥ*)—the misers who are wealthy yet give nothing **NOTE**
 - अप (*apa*)—destroying
 - इंद्रस्य (*iṃdrasya*)—of Indra
 - निष्कृतं (*niṣkṛtaṃ*)—the place
@@ -6594,7 +6594,7 @@ O Soma, even a hundred violent enemies do not injure you, who wish to give wealt
 O divine Soma, when you, the purifier, wish to give us wealth, then not even enemies in great numbers can injure you, who wish to give wealth.
 
 ##### English translation
-A hundred fces harm you not, purposing to give wealth when being purified you are benevolently iuclined. **NOTE**
+A hundred foes harm you not, purposing to give wealth when being purified you are benevolently inclined. **NOTE**
 
 #### Ṛk 28
 
@@ -6854,7 +6854,7 @@ The Soma juices, making wealth, that which holds for our cow and for us, and foo
 The Soma juices that produce wealth and food, fit to join with us, for our cows and for us as well, come to meet our most excellent praise.
 
 ##### English translation
-They advance towards our fair praise, granting to (us and) our cattle- sustainiug wealth and food. **NOTE**
+They advance towards our fair praise, granting to (us and) our cattle- sustaining wealth and food. **NOTE**
 
 ### Printed p. 206
 #### Ṛk 4
@@ -6927,7 +6927,7 @@ The cattle make sweet with their milk, the आशिरैः (*āśiraiḥ*) (a
 - स्वदंति (*svadaṃti*)—make it pleasant to the taste
 - नृभिः (*nṛbhiḥ*)—by the priests
 - सुतः (*sutaḥ*)—the pressed Soma juice
-- अप्पु (*appu*)—in the Vasatīvarī and other waters **NOTE**
+- अप्सु (*apsu*)—in the Vasatīvarī and other waters **NOTE**
 - धूतः (*dhūtaḥ*)—is purified
 
 ##### भावार्थ (Bhāvārtha)
@@ -7077,11 +7077,11 @@ O Indu, Soma, you are the sweetest and the obtainer of the wealth we desire. Flo
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - इंदो (*iṃdo*)—O Soma-deva
-- स्वादिष्टः (*svādiṣṭaḥ*)—the most delicious
+- स्वादिष्ठः (*svādiṣṭhaḥ*)—the most delicious
 - वरिवोवित् (*varivovit*)—the bringer of wealth
 - त्वं (*tvaṃ*)—you
 - अंगिरोभ्यः (*aṃgirobhyaḥ*)—to us, who are called Aṅgirases
-- धृतं (*dhṛtaṃ*)—ghee **NOTE**
+- घृतं (*ghṛtaṃ*)—ghee **NOTE**
 - पयः (*payaḥ*)—milk
 - परि स्रव (*pari srava*)—cause to flow
 
@@ -7348,7 +7348,7 @@ The Soma, pressed by the priests, the leaders, goes with strength into the ladle
 - चमूषु (*camūṣu*)—in the Camasa vessels
 - आसदं (*āsadaṃ*)—to sit down
 - वाजमिव (*vājamiva*)—as one runs in haste to battle
-- शक्कना (*śakkanā*)—with strength **NOTE**
+- शक्मना (*śakmanā*)—with strength **NOTE**
 - असरत् (*asarat*)—spreads swiftly
 
 ##### भावार्थ (Bhāvārtha)
@@ -7388,7 +7388,7 @@ The priests yoke that Soma, with the seven metres, to the sacrificial chariot of
 - तं (*taṃ*)—that Soma-deva
 - सप्त (*sapta*)—seven in number
 - धीतिभिः (*dhītibhiḥ*)—having prepared with the metres
-- यातने (*yātane*)—to go to the gods **NOTE**
+- यातवे (*yātave*)—to go to the gods **NOTE**
 - युंजंति (*yuṃjaṃti*)—the priests yoke
 
 ##### भावार्थ (Bhāvārtha)
@@ -7428,7 +7428,7 @@ O pressers, priests who perform the pressing, urge on that Soma, the horse, the 
 - तं (*taṃ*)—that which has the form of Soma
 - हरिं (*hariṃ*)—the horse
 - वाजाय (*vājāya*)—for the battle that is the sacrifice
-- यातने (*yātane*)—to go **NOTE**
+- यातवे (*yātave*)—to go **NOTE**
 - हिनोत (*hinota*)—urge and send forth
 
 ##### भावार्थ (Bhāvārtha)
@@ -7461,7 +7461,7 @@ The pressed Soma enters the vessel, the Droṇa, and brings all riches towards u
 
 - सुतः (*sutaḥ*)—the pressed Soma-deva
 - कलशं (*kalaśaṃ*)—the Droṇa vessel
-- आविकन् (*āvikan*)—entering **NOTE**
+- आविशन् (*āviśan*)—entering **NOTE**
 - विश्वाः (*viśvāḥ*)—all
 - श्रियः (*śriyaḥ*)—the riches
 - अभ्यर्षन् (*abhyarṣan*)—sending towards us
@@ -7616,7 +7616,7 @@ O Soma, you who, being purified, go for consumption towards the riches connected
 - (O Soma-deva) पुनानः (*punānaḥ*)—you who have been purified
 - वीतये (*vītaye*)—to become fit for consumption
 - गव्यानि (*gavyāni*)—connected with cows
-- नृम्मा (*nṛmmā*)—with milk and the like **NOTE**
+- नृम्णा (*nṛmṇā*)—with milk and the like **NOTE**
 - अभ्यर्षसि (*abhyarṣasi*)—you go and join
 - सनद्वाजः (*sanadvājaḥ*)—you who give food
 - परि स्रव (*pari srava*)—flow all around
@@ -7853,7 +7853,7 @@ O priests, purify for Indra, that is, for Indra's sake, Indu, the Soma, who is f
 - दक्षाय (*dakṣāya*)—for strength
 - साधनं (*sādhanaṃ*)—that which is the cause
 - ईशानं (*īśānaṃ*)—that which has lordship
-- नीतिराधसं (*nītirādhasaṃ*)—that which gives wealth **NOTE**
+- वीतिराधसं (*vītirādhasaṃ*)—that which gives wealth **NOTE**
 - इंदुं (*iṃduṃ*)—Soma
 - इंद्राय (*iṃdrāya*)—for Indra's drinking
 - पुनीतन (*punītana*)—purify
@@ -7904,7 +7904,7 @@ Soma, the truthful one, the seer of surpassing action, flowing, sits down on the
 Soma-deva, who is of the nature of truth, whose action is full of wisdom, and who is the purifier, sits on the ten-fold filter, giving excellent heroic power to the praiser.
 
 ##### English translation
-The truthful seer, Pavamana Soma, sits down npon the filter, giving great energy ro the worshipper. **NOTE**
+The truthful seer, Pavamana Soma, sits down upon the filter, giving great energy to the worshipper. **NOTE**
 
 ## Sūkta 63 (Maṇḍala 9)
 
@@ -8048,7 +8048,7 @@ The Soma that is pressed for Indra, for Viṣṇu and for Vāyu, and that flows 
 May that Soma, pressed for Indra, for Viṣṇu and for Vāyu, which flows in the Droṇa vessel, be most delicious.
 
 ##### English translation
-Soma effused for Indra and Vishnu and Vayu drops into the pitcher ; may he be sweet-flavonred. **NOTE**
+Soma effused for Indra and Vishnu and Vayu drops into the pitcher ; may he be sweet-flavoured. **NOTE**
 
 #### Ṛk 4
 
@@ -8232,7 +8232,7 @@ The purifying Soma harnesses the horse of the sun to go through the atmosphere t
 - पवमानः (*pavamānaḥ*)—Soma-deva who is in the state of being purified
 - अंतरिक्षेण (*aṃtarikṣeṇa*)—through the atmosphere
 - मनावधि (*manāvadhi*)—to man
-- यातने (*yātane*)—to go **NOTE**
+- यातवे (*yātave*)—to go **NOTE**
 - सूरः (*sūraḥ*)—of the sun
 - एतशं (*etaśaṃ*)—the horse
 - आयुंक्त (*āyuṃkta*)—harnesses **NOTE**
@@ -8244,7 +8244,7 @@ The purifying Soma harnesses the horse of the sun to go through the atmosphere t
 The purified Soma-deva harnesses the sun's horse to go through the atmosphere to man.
 
 ##### English translation
-The purified i(Soma) harnesses the horse of the sun to travel through the firmameut to man. **NOTE**
+The purified i(Soma) harnesses the horse of the sun to travel through the firmament to man. **NOTE**
 
 #### Ṛk 9
 
@@ -8274,7 +8274,7 @@ Moreover, Indu, that is Soma, saying "Indra", harnesses the horse of the sun to 
 - ब्रुवन् (*bruvan*)—uttering the name
 - त्याः (*tyāḥ*)—well known
 - दश हरितः (*daśa haritaḥ*)—in the ten directions
-- यातने (*yātane*)—to travel
+- यातवे (*yātave*)—to travel
 - सूरः (*sūraḥ*)—of the sun, the horse
 - आयुंक्त (*āyuṃkta*)—harnesses
 
@@ -8317,7 +8317,7 @@ O praisers, you who are the voices, from this place of pressing take up the pres
 - इतः (*itaḥ*)—from this place of pressing
 - अव्यः (*avyaḥ*)—of the ten-fold filter made of wool
 - वारेषु (*vāreṣu*)—in the meshes
-- परि षिंचत (*pari ṣiṃcata*)—pour out
+- परि सिंचत (*pari siṃcata*)—pour out
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -8567,7 +8567,7 @@ O Soma, that intoxicating juice of yours which is exceedingly sweet and most des
 O Soma-deva, that juice of yours which is exceedingly delicious and desired by the gods, such a juice pour in the form of a stream into the ten-fold filter for the attainment of our wealth.
 
 ##### English translation
-Soma, pour into the filter to bring us wealth (your joice), which is most sweet-flavoured, exhilarating, and most desired by the gods. **NOTE**
+Soma, pour into the filter to bring us wealth (your juice), which is most sweet-flavoured, exhilarating, and most desired by the gods. **NOTE**
 
 #### Ṛk 17
 
@@ -9681,7 +9681,7 @@ O Indu, Soma, you who are being cleansed, purified, by the thoughtful ones, the 
 O Soma-deva, being purified by the priests, flow in a stream for our gain of food. Approach the cattle with attractive foods.
 
 ##### English translation
-Cleanscd **NOTE** by the priests, Indu, flow in a stream for (our) food; approach the cattle with food.
+Cleansed **NOTE** by the priests, Indu, flow in a stream for (our) food; approach the cattle with food.
 
 #### Ṛk 14
 
@@ -9801,7 +9801,7 @@ The swift Indus, the Soma juices, being urged on toward the ocean, that is, the 
 The swift Soma juices, being sent toward the atmosphere and pressed by the fingers, are poured out.
 
 ##### English translation
-The rapid Soma-juices being sent towards the firmamcnt **NOTE**, are poured forth expressed by the fingers.
+The rapid Soma-juices being sent towards the firmament **NOTE**, are poured forth expressed by the fingers.
 
 #### Ṛk 17
 
@@ -9948,7 +9948,7 @@ When the swift Soma settles on the golden seat, the place, of the sacrifice, ह
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- यॆत् (*yèt*)**NOTE**—when
+- यत् (*yat*)**NOTE**—when
 - आशुः (*āśuḥ*)—the swift Soma
 - ऋतस्य (*ṛtasya*)—of the sacrifice
 - हिरण्ययं (*hiraṇyayaṃ*)—made of gold
@@ -10079,7 +10079,7 @@ O Soma, you who are purifying: the wise, the makers of rites, the singers who kn
 O Soma-deva, the wise makers of rites and singers adorn you, the pure. Men purify you.
 
 ##### English translation
-The wise who are the performers of pious acts, who are acquainted with holy texts, adorn you : men purifv **NOTE** you.
+The wise who are the performers of pious acts, who are acquainted with holy texts, adorn you : men purify **NOTE** you.
 
 ### Printed p. 273
 
@@ -10110,7 +10110,7 @@ O sage Soma, you of far-reaching works, as you flow, Mitra, Aryaman, Varuṇa an
 - ते (*te*)—your
 - रसं (*rasaṃ*)—juice
 - मित्रः (*mitraḥ*)—Mitra
-- आर्यमा (*āryamā*)**NOTE**—Aryaman
+- अर्यमा (*aryamā*)**NOTE**—Aryaman
 - वरुणः (*varuṇaḥ*)—the god Varuṇa
 - मरुतः (*marutaḥ*)—and the Maruts
 - पिबंति (*pibaṃti*)—drink
@@ -10239,7 +10239,7 @@ O Puruhūta, called by many, Indu, Soma, being purified and being dear to these 
 O Soma-deva, worthy of the invocation of many, you who are being purified, being dear to this sacrificer, enter the Droṇa vessel.
 
 ##### English translation
-Indu, invoked hy **NOTE** many, being purified and being loved by these your worshippers, enter the pitcher.
+Indu, invoked by **NOTE** many, being purified and being loved by these your worshippers, enter the pitcher.
 
 #### Ṛk 28
 
@@ -11058,7 +11058,7 @@ Do you whose sharp exhilarating juice the priest express with the stones, fiow**
 - पवमानः (*pavamānaḥ*)—the purifier
 - राजा (*rājā*)—the lord
 - अंतरिक्षेण (*aṃtarikṣeṇa*)—by the path of the atmosphere
-- यातने (*yātane*)**NOTE**—to go and join the Droṇa-kalaśa
+- यातवे (*yātave*)**NOTE**—to go and join the Droṇa-kalaśa
 - मेधाभिः (*medhābhiḥ*)—with praises
 - ईयते (*īyate*)—flows
 
@@ -11302,7 +11302,7 @@ By this Ṛk and those that follow, Sāyaṇa says that Soma is pressed everywhe
 - अर्वावति (*arvāvati*)—in a very near region
 - सुन्वीरॆ (*sunvīrè*)**NOTE**—are pressed
 - ये (*ye*)—which
-- ना (*nā*)**NOTE**—which
+- वा (*vā*)**NOTE**—which
 - शरणावति (*śaraṇāvati*)**NOTE**—called Śaraṇāvat
 - अदः (*adaḥ*)—in this lake they are obtained; may all of them be fulfillers of our desired ends
 
@@ -11460,7 +11460,7 @@ The delightful green-tinted Soma, praised by Jamadagni, urged on the cow-hide fl
 - शुक्रासः (*śukrāsaḥ*)—those that are shining
 - वयोजुवः (*vayojuvaḥ*)—those that are impellers of food, the Soma-juices
 - श्रीणानाः (*śrīṇānāḥ*)—mixing with the admixture substances
-- अप्पु (*appu*)**NOTE**—in the waters such as Vasatīvarī
+- अप्सु (*apsu*)**NOTE**—in the waters such as Vasatīvarī
 - हिन्वानासः (*hinvānāsaḥ*)—urged by the charioteer
 - सप्तयः न (*saptayaḥ na*)—like horses
 - प्र मृंजत (*pra mṛṃjata*)—attain purification
@@ -11846,7 +11846,7 @@ O Soma, the bright (शुक्रासः (*śukrāsaḥ*)), that is, everywh
 - दिवः (*divaḥ*)—of the atmosphere
 - पृष्ठे (*pṛṣṭhe*)—on the earth, the lower region
 - पवित्रः (*pavitraḥ*)—the water, the means of purification
-- वि तन्नते (*vi tannate*)**NOTE**—cause to spread
+- वि तन्वते (*vi tanvate*)**NOTE**—cause to spread
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -12424,7 +12424,7 @@ O Agni, who are of the form of Pavamāna, you protect (pavase) our lives. Impel 
 - ऊर्जं (*ūrjaṃ*)—the juice of food
 - इषं च (*iṣaṃ ca*)—and food
 - आ सुव (*ā suva*)—provide
-- दुच्चुनां (*duccunāṃ*)**NOTE**—the Rākṣasas
+- दुच्छुनां (*ducchunāṃ*)**NOTE**—the Rākṣasas
 - आरे (*āre*)—while they are still far from us
 - बाधस्व (*bādhasva*)—strike and destroy
 
@@ -12758,7 +12758,7 @@ Let Pavamāna Soma pervade the whole world with his rays, that is, his own radia
 Let Soma-deva, the excellent giver of food, giving to the praiser sons and the like of excellent power, pervade everywhere with his rays.
 
 ##### English translation
-May the purified Soma, the most liberal dispenses of food, pervade (the world) with his rays, granting excellent male offespring to the worshipper. **NOTE**
+May the purified Soma, the most liberal dispenses of food, pervade (the world) with his rays, granting excellent male offspring to the worshipper. **NOTE**
 
 #### Ṛk 28
 
@@ -12830,7 +12830,7 @@ This Soma, in the form of the shoots, sports upon the hide of a cow, that is, th
 - जोहुवत् (*johuvat*)—calling again and again
 - गवां त्वचि अधि (*gavāṃ tvaci adhi*)—upon the cowhide
 - अद्रिभिः (*adribhiḥ*)—with the pressing stones
-- क्रीडति (*krīḍati*)—sports
+- क्रीळति (*krīḷati*)—sports
 
 ### Printed p. 338
 
@@ -13014,7 +13014,7 @@ O Pavamāna Soma, you who are pressed by the stones, that is, the pressing stone
 O Soma-deva, you who are pressed by the pressing stones, making a sound, reach the Droṇa vessel. Obtain bright and excellent strength.
 
 ##### English translation
-Do you when effused by the stones proceed resounding (to the vessed): (grant) bright excellenl strength. **NOTE**
+Do you when effused by the stones proceed resounding (to the vessel): (grant) bright excellent strength. **NOTE**
 
 #### Ṛk 4
 
@@ -13325,7 +13325,7 @@ For the one with the beautiful crown, that is, for Soma or Pūṣan, this gladde
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - मधु (*madhu*)—sweet
-- धृतं न (*dhṛtaṃ na*)—like ghee **NOTE**
+- घृतं न (*ghṛtaṃ na*)—like ghee **NOTE**
 - अयं सोमः (*ayaṃ somaḥ*)—this Soma-juice
 - कपर्दिने (*kapardine*)—towards Pūṣan, who wears fine garments
 - पवते (*pavate*)—flows
@@ -13363,7 +13363,7 @@ O आघृणे (*āghṛṇe*), from a root meaning to flow and to shine: O o
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- आफृणे (*āphṛṇe*)—O Pūṣan-deva, who are radiant **NOTE**
+- आघृणे (*āghṛṇe*)—O Pūṣan-deva, who are radiant **NOTE**
 - ते (*te*)—towards you
 - सुतः (*sutaḥ*)—pressed
 - अयं (*ayaṃ*)—this Soma
@@ -14096,7 +14096,7 @@ The battle-axe, the cutter, of the enemy of approaching nature, Pavamāna, may d
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- आलाय्यस्य (*ālāyyasya*)—of the enemy who is rushing forward **NOTE**
+- अलाय्यस्य (*alāyyasya*)—of the enemy who is rushing forward **NOTE**
 - परशुः (*paraśuḥ*)—Soma, the cutter
 - तं (*taṃ*)—that enemy
 - ननाश (*nanāśa*)—may he destroy
@@ -14501,7 +14501,7 @@ Sāyaṇa explains that the wise Soma, going about between the two mothers, that
 - वाजयन् (*vājayan*)—impelling
 - स्वधया (*svadhayā*)—with food
 - पदं (*padaṃ*)—his own place in the form of the northern altar
-- प्र पिन्नते (*pra pinnate*)—nourishes **NOTE**
+- प्र पिन्वते (*pra pinvate*)—nourishes **NOTE**
 - नृभिः (*nṛbhiḥ*)—by the priests
 - यतः (*yataḥ*)—collected
 - अंशुः (*aṃśuḥ*)—Soma
@@ -14930,7 +14930,7 @@ Sāyaṇa explains that in this Indra in the form of Pavamāna, praise (मत�
 The praise is offered to Indra and is joined with him. The exhilarating Soma is sprinkled. The stream of Soma that gives delight is offered in the middle of Indra's mouth. As the arrow of warriors rushes swiftly forward, so Soma, spread out in the vessels and the like, tasty and purified, being swift-moving, goes around and reaches the ten-fold filter.
 
 ##### English translation
-The praise is united (to Indra) ; the excellent (Soma) is sprinkled : (the Soma stream) emitting pleasant juice is driven into (Indra's) mouth : the filte-red **NOTE** diffused exhilarating swift-flowing (Soma) hastens to the fleece like the arrow of the combatants.
+The praise is united (to Indra) ; the excellent (Soma) is sprinkled : (the Soma stream) emitting pleasant juice is driven into (Indra's) mouth : the filtered **NOTE** diffused exhilarating swift-flowing (Soma) hastens to the fleece like the arrow of the combatants.
 
 #### Ṛk 3
 
@@ -15154,7 +15154,7 @@ Sāyaṇa explains that वृषच्युताः (*vṛṣacyutāḥ*) are
 - आशवः (*āśavaḥ*)—swift-going
 - सिंधोः (*siṃdhoḥ*)—the streams of the river
 - प्रवणे (*pravaṇe*)—that are the support of the water
-- निम्मे इव (*nimme iva*)—as they flow to low-lying regions **NOTE**
+- निम्ने इव (*nimne iva*)—as they flow to low-lying regions **NOTE**
 - वृषच्युताः (*vṛṣacyutāḥ*)—offered by the priests
 - मदासः (*madāsaḥ*)—and exhilarating, the Soma-juices
 - गातुं (*gātuṃ*)—to Indra, who is their place of support
@@ -15222,7 +15222,7 @@ Sāyaṇa addresses Soma: bestow (आ पवस्व (*ā pavasva*)), that is, 
 - प्रस्थिताः (*prasthitāḥ*)—engaged in rites
 - वयस्सतः (*vayassataḥ*)—those who offer oblation **NOTE**
 - मम पितरः (*mama pitaraḥ*)—in the form of our fathers
-- यूयं हि स्थान (*yūyaṃ hi sthāna*)—you yourself are **NOTE**
+- यूयं हि स्थन (*yūyaṃ hi sthana*)—you yourself are **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -15388,7 +15388,7 @@ Sāyaṇa explains that thrice seven (त्रिः सप्त (*triḥ sapt
 In the sacrifice performed earlier for this Soma, who is called Pavamāna, the cows, twenty-one in number, milked the materials such as milk, of true nature, used for mixing. When this Soma was nourished by the sacrifices, he then made the remaining four kinds of waters, such as the Vasatīvarī, auspicious for his purification. Thrice seven = 2 months + 5 seasons + 3 worlds + Āditya = 21 **NOTE**
 
 ##### English translation
-For him in the ancient sacrifice thrice seven milch cows milk forthb **NOTE** the right mixture; he makes four other beautiful waters for purification when he is nourished with the sacrifices.
+For him in the ancient sacrifice thrice seven milch cows milk forth **NOTE** the right mixture; he makes four other beautiful waters for purification when he is nourished with the sacrifices.
 
 #### Ṛk 2
 
@@ -15660,7 +15660,7 @@ Soma, terrible to enemies, the showerer of desires or of waters, the all-seeing,
 - तविष्यया (*taviṣyayā*)—from the wish to acquire his own strength
 - हरिणी (*hariṇī*)—green-tinted
 - शृंगे (*śṛṃge*)—the horns of the form of streams
-- निशानः (*niśānaḥ*)—making sharp **NOTE**
+- शिशानः (*śiśānaḥ*)—making sharp **NOTE**
 - रुवति (*ruvati*)—makes a sound
 - सोमः (*somaḥ*)—Soma
 - सुकृतं (*sukṛtaṃ*)—excellently made
@@ -15880,7 +15880,7 @@ At the sacrifice that belongs to Soma, the fee (dakṣiṇā) is released, that 
 - पयः (*payaḥ*)—the water
 - कृणुते (*kṛṇute*)—produces
 - चन्वोः (*canvoḥ*)—heaven and earth **NOTE**
-- उपस्थिरे (*upasthire*)—to cover, the means **NOTE**
+- उपस्तिरे (*upastire*)—to cover, the means **NOTE**
 - ब्रह्म (*brahma*)—Āditya
 - निर्निजे (*nirnije*)—for the purification of the world he produces
 
@@ -15971,7 +15971,7 @@ That Soma, pressed by the stones and by the arms, flows, goes to the vessels; he
 - सुतः (*sutaḥ*)—Soma, who has been pressed
 - पवते (*pavate*)—enters the ten-filter
 - सोमः (*somaḥ*)—Soma
-- वृषायते (*vṛṣāyate*)—conducts himself like a bull
+- वृषऽयते (*vṛṣa 'yate*)—conducts himself like a bull
 - मती (*matī*)—praised with praise
 - नभसा (*nabhasā*)—from the atmosphere
 - वेपते (*vepate*)—moves about everywhere
@@ -15983,7 +15983,7 @@ That Soma, pressed by the stones and by the arms, flows, goes to the vessels; he
 
 - गिरा (*girā*)—praised with a hymn
 - साधते (*sādhate*)—accomplishes the desired objects of the praisers
-- अप्पु (*appu*)—in the Vasatīvarī and the others **NOTE**
+- अप्सु (*apsu*)—in the Vasatīvarī and the others **NOTE**
 - नेनिक्ते (*nenikte*)—attains purification
 - परीमणि (*parīmaṇi*)—at the sacrifice
 - यजते (*yajate*)—is worshipped
@@ -16034,7 +16034,7 @@ The mighty, intoxicating Soma juices sprinkle all around Indra, who dwells in th
 - सक्षणिं (*sakṣaṇiṃ*)—who destroys, such Indra
 - सहसः (*sahasaḥ*)—the Soma juices which are full of strength
 - मध्वः (*madhvaḥ*)—and are intoxicating
-- परि षिंचंति (*pari ṣiṃcaṃti*)—sprinkle all around
+- परि सिंचंति (*pari siṃcaṃti*)—sprinkle all around
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -16133,7 +16133,7 @@ The shining Pavamāna goes toward the golden seat named Āsada, made by his own 
 - गिरा (*girā*)—with praises
 - बर्हिषि (*barhiṣi*)—in the sacrifices
 - आ रिणंति (*ā riṇaṃti*)—the praisers urge on
-- यज्जियः (*yajjiyaḥ*)—the adorable Soma **NOTE**
+- यज्ञियः (*yajñiyaḥ*)—the adorable Soma **NOTE**
 - अश्वो न (*aśvo na*)—like a horse
 - देवान् (*devān*)—the gods
 - अप्येति (*apyeti*)—approaches
@@ -16280,7 +16280,7 @@ As a bull going back to the herds of cows makes a sound, so this Soma, going aro
 - परियन् (*pariyan*)—the Soma who joins with the praises
 - अरावीत् (*arāvīt*)—makes a sound
 - सूरस्य (*sūrasya*)—of Sūra **NOTE**
-- त्रिषीः (*triṣīḥ*)—the brilliances **NOTE**
+- त्विषीः (*tviṣīḥ*)—the brilliances **NOTE**
 - अधि अधित (*adhi adhita*)—he unites with
 - दिव्यः (*divyaḥ*)—born in the heavenly world
 - सुपर्णः (*suparṇaḥ*)—the Soma who has an excellent fall, because he was carried off by the bird in the form of a hawk
@@ -16453,7 +16453,7 @@ That Soma, unresting, entering again and again the cups and vessels to please th
 - जोषं (*joṣaṃ*)—the satisfying praise
 - अन्वभरत् (*anvabharat*)—he offers
 - जामिभिः (*jāmibhiḥ*)—the kindred
-- द्वयाभिः (*dvayābhiḥ*)—with the two hands **NOTE**
+- द्वयीभिः (*dvayībhiḥ*)—with the two hands **NOTE**
 - सं क्षेति (*saṃ kṣeti*)—he is united
 
 ##### भावार्थ (Bhāvārtha)
@@ -16557,7 +16557,7 @@ O Indra, endowed with the qualities of Pavamāna: the Soma is urged by the arms 
 - वेः न (*veḥ na*)—like a bird
 - हरिः (*hariḥ*)—the green-hued Soma
 - चन्वोः (*canvoḥ*)—on the pressing boards **NOTE**
-- आसदत् (*āsadat*)—he sits
+- असदत् (*asadat*)—he sits
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -16808,7 +16808,7 @@ On the jaw-like part of the sacrifice (स्रक्वे (*srakve*)), that i
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- प्रक्वे (*prakve*)—on the pressing board, which is like the jaw of the sacrifice **NOTE**
+- स्रक्वे (*srakve*)—on the pressing board, which is like the jaw of the sacrifice **NOTE**
 - धमतः (*dhamataḥ*)—that is pressed
 - द्रप्सस्य (*drapsasya*)—the juices of Soma
 - समस्वरन् (*samasvaran*)—come together
@@ -16870,7 +16870,7 @@ The venerable, great priests (महिषाः (*mahiṣāḥ*)), united toget
 - जनयंतः (*janayaṃtaḥ*)—producing
 - प्रियां (*priyāṃ*)—agreeable
 - इंद्रस्य (*iṃdrasya*)—of Indra
-- तन्नं (*tannaṃ*)—the body **NOTE**
+- तन्वं (*tanvaṃ*)—the body **NOTE**
 - मधोः (*madhoḥ*)—of the sweet Soma-juice **NOTE**
 - धाराभिः (*dhārābhiḥ*)—with the streams
 - अवीवृधन् (*avīvṛdhan*)—have nourished
@@ -17120,7 +17120,7 @@ The sages (कवयः (*kavayaḥ*)), those of surpassing works, and therefore
 - नृचक्षसः (*nṛcakṣasaḥ*)—those who behold the deeds of men
 - एषां (*eṣāṃ*)—to these Soma-juices
 - रुद्रासः (*rudrāsaḥ*)—the Maruts
-- स्पृशः (*spṛśaḥ*)—are subject **NOTE**
+- स्पशः (*spaśaḥ*)—are subject **NOTE**
 
 ### Printed p. 453
 
@@ -17172,7 +17172,7 @@ Soma, the guardian (गोपाः (*gopāḥ*)) of the true sacrifice, and the
 - कर्तॆ (*kartè*)—in the rite **NOTE**
 - अजुष्टान् (*ajuṣṭān*)—those without love
 - अव्रतान् (*avratān*)—the one without rites
-- अव विद्यति (*ava vidyati*)—destroys **NOTE**
+- अव विध्यति (*ava vidhyati*)—destroys **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -17428,7 +17428,7 @@ The Soma that has the quality of sap is milked, as ghee and milk, from the sky, 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - आत्मनत् (*ātmanat*)—full of sap **NOTE**
-- धृतं (*dhṛtaṃ*)—butter **NOTE**
+- घृतं (*ghṛtaṃ*)—butter **NOTE**
 - पयः (*payaḥ*)—milk
 - नभः (*nabhaḥ*)—from the atmosphere
 - दुह्यते (*duhyate*)—is milked
@@ -17490,7 +17490,7 @@ Soma, united with the mass of waters, with the Vasatīvarī and the other waters
 - देवाव्यं (*devāvyaṃ*)—protecting the gods
 - त्वचं (*tvacaṃ*)—his body
 - मनुषे (*manuṣe*)—for the sacrificer, a human being
-- पिन्नति (*pinnati*)—sprinkles **NOTE**
+- पिन्वति (*pinvati*)—sprinkles **NOTE**
 - येन (*yena*)—by which germ
 - तोकं (*tokaṃ*)—a son
 - तनयं च (*tanayaṃ ca*)—and a grandson
@@ -17532,7 +17532,7 @@ Let those waters of Soma that are in the third world, heaven, the world of a tho
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - सहस्रधारे (*sahasradhāre*)—having many kinds of streams
-- तृतिये रजसि (*tṛtiye rajasi*)—those that are in the third world **NOTE**
+- तृतीये रजसि (*tṛtīye rajasi*)—those that are in the third world **NOTE**
 - असश्चतः (*asaścataḥ*)—having separate divisions
 - प्रजावतीः (*prajāvatīḥ*)—able to produce progeny
 - ताः (*tāḥ*)—the Soma-juices
@@ -17593,7 +17593,7 @@ Soma makes a white, shining form when he wishes to ascend to heaven; when Soma h
 - शमी (*śamī*)—with rites
 - अभि सचते (*abhi sacate*)—joins
 - दिवः (*divaḥ*)—from the atmosphere
-- अद्रिणं (*adriṇaṃ*)—holding water **NOTE**
+- उद्रिणं (*udriṇaṃ*)—holding water **NOTE**
 - कवंधं (*kavaṃdhaṃ*)—the cloud
 - अव दर्षत् (*ava darṣat*)—he splits
 
@@ -17637,7 +17637,7 @@ Then, now, Soma, white through contact with Soma, mingled with waters, enjoying 
 - अक्तं (*aktaṃ*)—and joined
 - कलशं (*kalaśaṃ*)—the Droṇa vessel
 - ससवान् (*sasavān*)—Soma, who goes and joins it
-- आक्रमीत् (*ākramīt*)—takes possession of
+- अक्रमीत् (*akramīt*)—takes possession of
 - देवयंतः (*devayaṃtaḥ*)—and the priests who desire the gods
 - मनसा (*manasā*)—with meditation
 - आहिन्विरे (*āhinvire*)—enliven
@@ -17759,7 +17759,7 @@ Canohita: cana is a name for food; Soma is placed for food, or else Soma is one 
 - सूर्यस्य (*sūryasya*)—sun
 - विष्वंचं (*viṣvaṃcaṃ*)—which moves everywhere
 - रथं अधि (*rathaṃ adhi*)—upon the chariot
-- आरुहत् (*āruhat*)—mounts
+- अरुहत् (*aruhat*)—mounts
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -17803,7 +17803,7 @@ Soma, who as the chief is like the tongue of the sacrifice, the true, distils th
 - रोचने (*rocane*)—shining
 - दिवः अधि (*divaḥ adhi*)—in the world of heaven
 - पित्रोः (*pitroḥ*)—to his father and mother also
-- अवीच्यं (*avīcyaṃ*)—unknown, secret **NOTE**
+- अपीच्यं (*apīcyaṃ*)—unknown, secret **NOTE**
 - तृतीयं नाम (*tṛtīyaṃ nāma*)—the third name
 - दधाति (*dadhāti*)—bears
 
@@ -17894,7 +17894,7 @@ Soma is pressed by the stones and by the praises (matibhiḥ means praises). He 
 - अव्यारोमाणि (*avyāromāṇi*)—of the ten-fold filter made of wool
 - समया (*samayā*)—around
 - विधावति (*vidhāvati*)—goes and joins
-- पिन्नमाना (*pinnamānā*)—together with the waters **NOTE**
+- पिन्वमाना (*pinvamānā*)—together with the waters **NOTE**
 - मधोः धारा (*madhoḥ dhārā*)—the stream of Soma
 - दिवे दिवे (*dive dive*)—flows every day
 
@@ -18041,7 +18041,7 @@ Soma, the sustainer of all, is purified from the atmosphere, from the ten-fold f
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- कृत्वर्यः (*kṛtvaryaḥ*)—fit to be purified **NOTE**
+- कृत्व्यः (*kṛtvyaḥ*)—fit to be purified **NOTE**
 - रसः (*rasaḥ*)—of the nature of juice
 - देवानां (*devānāṃ*)—for the gods
 - दक्षः (*dakṣaḥ*)—of the nature of strength
@@ -18100,7 +18100,7 @@ This Soma holds weapons in his hands like a hero. Wishing to obtain svaḥ, the 
 - शोरो न (*śoro na*)—like a hero **NOTE**
 - धत्ते (*dhatte*)—carries
 - स्वं (*svaṃ*)—the sacrifice
-- सिषासन् (*siṣāsan*)—desirous of enjoying
+- सिसासन् (*sisāsan*)—desirous of enjoying
 - रथिरः (*rathiraḥ*)—mounted on a chariot
 - गविष्टिषु (*gaviṣṭiṣu*)—at the time of searching for cattle
 - इंद्रस्य (*iṃdrasya*)—of Indra
@@ -18322,7 +18322,7 @@ This Soma, sweet of juice, cries out loudly in the kośa, the Droṇa vessel. Wh
 - ऋतस्य (*ṛtasya*)—having true fruit
 - ईं (*īṃ*)—of this Soma
 - सुदुघाः (*sudughāḥ*)—that pour out excellent fruits
-- धृतश्चुतः (*dhṛtaścutaḥ*)—that squeeze out the juice **NOTE**
+- घृतश्चुतः (*ghṛtaścutaḥ*)—that squeeze out the juice **NOTE**
 - वाश्राः (*vāśrāḥ*)—and sound
 - अभ्यर्षंति (*abhyarṣaṃti*)—flow all around, the streams
 
@@ -18463,11 +18463,11 @@ May this Soma, Indu, knowing the enemies who desire to slay us (vanuṣyataḥ: 
 - आदधे (*ādadhe*)—placed
 - यश्व (*yaśva*)—who
 - गवां (*gavāṃ*)—of the cows
-- उरुब्बं (*urubbaṃ*)—to the stable that gives abundant milk **NOTE**
+- उरुब्जं (*urubjaṃ*)—to the stable that gives abundant milk **NOTE**
 - व्रजं (*vrajaṃ*)—stable
 - अभ्यर्षति (*abhyarṣati*)—goes
 - पुरुष्टुतः (*puruṣṭutaḥ*)—praised by many
-- आयं इंदुः (*āyaṃ iṃduḥ*)—this god Soma
+- अयं इंदुः (*ayaṃ iṃduḥ*)—this god Soma
 - नः (*naḥ*)—us
 - वनुष्यतः (*vanuṣyataḥ*)—the enemies who injure
 - विद्वान् (*vidvān*)—knowing
@@ -18645,7 +18645,7 @@ O Soma, you are sprinkled around, pressed, by the priests, the leaders, for Indr
 
 - चमूषदः (*camūṣadaḥ*)—the Soma juices that are on the pressing boards
 - सहस्रं (*sahasraṃ*)—countless
-- आश्वाः (*āśvāḥ*)—pervading **NOTE**
+- अश्वाः (*aśvāḥ*)—pervading **NOTE**
 - हरयः (*harayaḥ*)—and of green colour are
 
 ##### भावार्थ (Bhāvārtha)
@@ -18693,7 +18693,7 @@ Samudriyāḥ: the atmosphere is the samudra, since it is the means to the ocean
 - हिन्वंति (*hinvaṃti*)—nourish
 - अक्षितं (*akṣitaṃ*)—the imperishable
 - पवमानं (*pavamānaṃ*)—from that same Soma
-- सुम्मं (*summaṃ*)—happiness **NOTE**
+- सुम्नम् (*sumnam*)—happiness **NOTE**
 - याचंते (*yācaṃte*)—ask
 
 ##### भावार्थ (Bhāvārtha)
@@ -18736,8 +18736,8 @@ For us Soma flows, is purified, who is the winner of cows, the winner of the cha
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - मदं (*madaṃ*)—the gladdening
-- स्वादिष्टं (*svādiṣṭaṃ*)—the savoury
-- द्रप्पं (*drappaṃ*)—the juice by nature **NOTE**
+- स्वादिष्ठं (*svādiṣṭhaṃ*)—the savoury
+- द्रप्सं (*drapsaṃ*)—the juice by nature **NOTE**
 - अरुणं (*aruṇaṃ*)—the golden-coloured
 - मयोभुवं (*mayobhuvaṃ*)—the cause of happiness
 - यं (*yaṃ*)—which Soma
@@ -18746,7 +18746,7 @@ For us Soma flows, is purified, who is the winner of cows, the winner of the cha
 - चक्रिरे (*cakrire*)—have devised
 - गोजित् (*gojit*)—the winner of cows
 - रथजित् (*rathajit*)—the winner of chariots
-- षिरण्यजित् (*ṣiraṇyajit*)—the obtainer of gold **NOTE**
+- हिरण्यजित् (*hiraṇyajit*)—the obtainer of gold **NOTE**
 - स्वर्जित् (*svarjit*)—the winner of heaven
 - अब्बित् (*abbit*)—the one who brings the waters under control **NOTE**
 - सहस्रजित् (*sahasrajit*)—the gainer of boundless wealth
@@ -19027,7 +19027,7 @@ O Soma, that best part of yours which takes the oblation, being in the form of a
 - मनीषिणः (*manīṣiṇaḥ*)—the wise priests
 - हस्तैः (*hastaiḥ*)—with their hands
 - त्वा (*tvā*)—you
-- अप्पु (*appu*)—in the waters such as the Vasatīvarī **NOTE**
+- अप्सु (*apsu*)—in the waters such as the Vasatīvarī **NOTE**
 - दुदुहुः (*duduhuḥ*)—milk
 
 ##### भावार्थ (Bhāvārtha)
@@ -19074,7 +19074,7 @@ What was said before, "the stones devour you", is now said again. O Indu, O Soma
 - निदंनिदं (*nidaṃnidaṃ*)—all the enemies who revile us
 - नि तारिषः (*ni tāriṣaḥ*)—destroy
 - ते (*te*)—your
-- शुष्कः (*śuṣkaḥ*)—strengthening **NOTE**
+- शुष्मः (*śuṣmaḥ*)—strengthening **NOTE**
 - प्रियः (*priyaḥ*)—pleasing
 - मदः (*madaḥ*)—and gladdening juice
 - आविर्भवतु (*āvirbhavatu*)—let it become manifest to us
@@ -19333,7 +19333,7 @@ You, such as you are, honeyed, of sweet juice, the showerer of desires, the ten 
 - हस्तिनः (*hastinaḥ*)—of fine hands
 - दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers
 - अद्रिभिः (*adribhiḥ*)—with the pressing stones
-- अप्पु (*appu*)—in the waters **NOTE**
+- अप्सु (*apsu*)—in the waters **NOTE**
 - दुहंति (*duhaṃti*)—press
 - सिंधोरिव (*siṃdhoriva*)—(O Soma) of a river
 - ऊर्मिः (*ūrmiḥ*)—like the waves
@@ -19661,14 +19661,14 @@ Soma has been pressed. Of what kind is this Soma? He is radiant (aruṣa), the s
 - सोमः (*somaḥ*)—Soma
 - असावि (*asāvi*)—has been pressed
 - राजेव (*rājeva*)—like a king
-- वस्मः (*vasmaḥ*)—having an attractive form **NOTE**
+- दस्मः (*dasmaḥ*)—having an attractive form **NOTE**
 - गाः अभि (*gāḥ abhi*)—facing the waters
 - अचिक्रदत् (*acikradat*)—goes along making a sound
 - पुनानः (*punānaḥ*)—being purified
 - अव्ययं (*avyayaṃ*)—of wool
 - वारं (*vāraṃ*)—the fibres of the ten-fold filter
 - पर्येति (*paryeti*)—reaches
-- धृतवंतं (*dhṛtavaṃtaṃ*)—full of water **NOTE**
+- घृतवंतं (*ghṛtavaṃtaṃ*)—full of water **NOTE**
 - योनिं (*yoniṃ*)—to his own place
 - श्येनो न (*śyeno na*)—swiftly like a hawk
 - आ सदं (*ā sadaṃ*)—goes to sit
@@ -19716,7 +19716,7 @@ O Soma, being a seer (one who sees beyond), with the wish to carry out the sacri
 - दुरिता (*duritā*)—our sins
 - अपसेधन् (*apasedhan*)—destroying
 - मृळय (*mṛḷaya*)—make happy
-- धृतं (*dhṛtaṃ*)—water **NOTE**
+- घृतं (*ghṛtaṃ*)—water **NOTE**
 - वसानः (*vasānaḥ*)—wrapped in
 - निर्णिजं (*nirṇijaṃ*)—to the purifying ten-fold filter
 - परियासि (*pariyāsi*)—go and reach
@@ -19927,7 +19927,7 @@ O Brahmaṇaspati, lord of the mantra, O Soma, your filter, the purifying part, 
 - गात्राणि (*gātrāṇi*)—its members
 - विश्वतः (*viśvataḥ*)—from all sides
 - परैषि (*paraiṣi*)—you enter **NOTE**
-- आतप्ततनूः (*ātaptatanūḥ*)—the portions that are not heated **NOTE**
+- अतप्ततनूः (*ataptatanūḥ*)—the portions that are not heated **NOTE**
 - आमः (*āmaḥ*)—and not ripened
 - तत् (*tat*)—that vessel
 - न अश्नुते (*na aśnute*)—do not enter
@@ -20095,7 +20095,7 @@ In the last Pravargya, before the Paridhānīyā, the Ṛk हविर्हव
 - रिपुं (*ripuṃ*)—our enemies
 - निधया (*nidhayā*)—with the snare
 - गृभ्णाति (*gṛbhṇāti*)—seizes
-- सकृत्तमाः (*sakṛttamāḥ*)—the doers of good deeds **NOTE**
+- सुकृत्तमाः (*sukṛttamāḥ*)—the doers of good deeds **NOTE**
 - मधुनः (*madhunaḥ*)—of the sweet Soma juice
 - भक्ष्यं (*bhakṣyaṃ*)—the drinking **NOTE**
 - आशत (*āśata*)—obtain
@@ -20149,7 +20149,7 @@ O Havishmaḥ: havis is a name for water, so O Soma, who have water. Nabhas too 
 - राजा (*rājā*)—you who are the lord
 - पवित्ररथः (*pavitrarathaḥ*)—mounted on a purified chariot
 - वाजं (*vājaṃ*)—to the battle
-- आरुहः (*āruhaḥ*)—you ascend and go
+- अरुहः (*aruhaḥ*)—you ascend and go
 - सहस्रभृष्टिः (*sahasrabhṛṣṭiḥ*)—having weapons of many kinds
 - बृहत् (*bṛhat*)—abundant
 - श्रवः (*śravaḥ*)—food
@@ -20211,7 +20211,7 @@ O Soma, delighter of the gods (devamādana), far-seeing (vicarṣaṇi, one who 
 
 - देवमादनः (*devamādanaḥ*)—you who give satisfaction to the gods (addressed: O god Soma)
 - विचर्षणिः (*vicarṣaṇiḥ*)—who have subtle sight
-- अस्साः (*assāḥ*)—and are the giver of water **NOTE**
+- अप्साः (*apsāḥ*)—and are the giver of water **NOTE**
 - इंद्राय (*iṃdrāya*)—for Indra
 
 ### Printed p. 533
@@ -20273,8 +20273,8 @@ The immortal god Soma, who has pervaded the worlds, goes around all those worlds
 - (यज्ञं (*yajñaṃ*))—(the sacrifice)
 - संचृतं (*saṃcṛtaṃ*)—as one joined with fruits
 - वि चृतं (*vi cṛtaṃ*)—as one free from sorrow
-- कृण्मन् (*kṛṇman*)—making **NOTE**
-- सिषक्ति (*siṣakti*)—serves
+- कृण्वन् (*kṛṇvan*)—making **NOTE**
+- सिसक्ति (*sisakti*)—serves
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -20312,14 +20312,14 @@ Soma is created, that is, brought forth, by the rays among the herbs; the meanin
 - आ सृज्यते (*ā sṛjyate*)—is created
 - (यं (*yaṃ*)—which Soma)
 - देवानां (*devānāṃ*)—of the gods
-- सुम्मे (*summe*)—for the happiness **NOTE**
+- सुम्ने (*sumne*)—for the happiness **NOTE**
 - ओषधीषु (*oṣadhīṣu*)—in the herbs (they establish)
 - सुतः सोमः (*sutaḥ somaḥ*)—that same Soma-god when pressed
 - इषयन् (*iṣayan*)—with the desire of approaching the gods
 - दैव्यं जनं (*daivyaṃ janaṃ*)—the company of the gods
 - इंद्रं (*iṃdraṃ*)—Indra
 - मादयन् (*mādayan*)—gladdening
-- उपावसुः (*upāvasuḥ*)—having obtained the wealth of the enemies
+- उपऽवसुः (*upa 'vasuḥ*)—having obtained the wealth of the enemies
 - विद्युता (*vidyutā*)—shining
 - धारया (*dhārayā*)—with the stream
 - आ पवते (*ā pavate*)—flows
@@ -20523,7 +20523,7 @@ O Pavamāna Soma, urge us on in battle. You are दक्षः (*dakṣaḥ*), 
 - समर्ये (*samarye*)—for battle
 - चोदय (*codaya*)—urge on
 - देवानां (*devānāṃ*)—among the gods
-- दक्षः आसि हि (*dakṣaḥ āsi hi*)—you are indeed capable for this work **NOTE**
+- दक्षः असि हि (*dakṣaḥ asi hi*)—you are indeed capable for this work **NOTE**
 
 ### Printed p. 541
 
@@ -20809,7 +20809,7 @@ O Soma, being purified, bring us good heroism, the broad and great गव्य�
 
 - (O Soma-god) पवमानः (*pavamānaḥ*)—you who purify
 - सुवीर्यं (*suvīryaṃ*)—heroic sons
-- उर्विीं (*urviīṃ*)—and broad
+- उर्वीं (*urvīṃ*)—and broad
 - गव्यूतिं (*gavyūtiṃ*)—cattle-path
 - महि (*mahi*)—and great
 - सप्रथः (*saprathaḥ*)—and wide
@@ -20913,9 +20913,9 @@ In the नाके (*nāke*), the place free from sorrow, called the Havirdhān
 - उक्षणं (*ukṣaṇaṃ*)—the one who rains down desires
 - गिरिस्थां (*giristhāṃ*)—who dwells on the mountain, Soma
 - दुहंति (*duhaṃti*)—milk
-- अप्पु (*appu*)—in the waters **NOTE**
+- अप्सु (*apsu*)—in the waters **NOTE**
 - ववृधानं (*vavṛdhānaṃ*)—who grows
-- द्रप्पं (*drappaṃ*)—and of the nature of juice, Soma **NOTE**
+- द्रप्सं (*drapsaṃ*)—and of the nature of juice, Soma **NOTE**
 - समुद्रे (*samudre*)—in the Droṇakalaśa
 - सिंधोः (*siṃdhoḥ*)—of the water
 - ऊर्मा (*ūrmā*)—with the waves
@@ -20967,7 +20967,7 @@ The many hymns of praise, belonging to us, the Venas, wait upon, that is, praise
 - शकुनं (*śakunaṃ*)—in the form of a bird
 - क्षामणि स्थां (*kṣāmaṇi sthāṃ*)—and established on the earth
 - शिशुं (*śiśuṃ*)—Soma, in the form of an infant
-- मतॆयः (*matèyaḥ*)—the praises
+- मतयः (*matayaḥ*)—the praises
 - रिहंति (*rihaṃti*)—prepare **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
@@ -21006,7 +21006,7 @@ Soma, the elevated one and the bearer of the rays (गंधर्वः (*gaṃ
 - अस्य (*asya*)—of Āditya
 - विश्वा (*viśvā*)—all
 - रूपा (*rūpā*)—forms
-- प्रतिचक्षणः (*praticakṣaṇaḥ*)—beholding **NOTE**
+- प्रतिचक्षाणः (*praticakṣāṇaḥ*)—beholding **NOTE**
 - नाके (*nāke*)—in the world of Āditya
 - अध्यस्थात् (*adhyasthāt*)—is established
 - भानुः (*bhānuḥ*)—Āditya
@@ -21228,7 +21228,7 @@ O Pavamāna Soma, your pervading (आश्विनीः (*āśvinīḥ*)), mi
 - त्वा (*tvā*)—you
 - मृजंति (*mṛjaṃti*)—cleanse; such
 - ऋषयः (*ṛṣayaḥ*)—seers
-- स्थावरीः (*sthāvarīḥ*)—your steady streams **NOTE**
+- स्थाविरीः (*sthāvirīḥ*)—your steady streams **NOTE**
 - अंतः (*aṃtaḥ*)—into the Droṇa-kalaśa
 - प्र असृक्षत (*pra asṛkṣata*)—pour
 
@@ -21274,7 +21274,7 @@ O all-seeing (विश्वचक्षः (*viśvacakṣaḥ*), seer of every
 - प्यानशिः (*pyānaśiḥ*)—you who are all-pervading **NOTE**
 - धर्मभिः (*dharmabhiḥ*)—with your streams
 - पवसे (*pavase*)—you flow
-- विश्वस्य धुवनस्य (*viśvasya dhuvanasya*)—of the whole world **NOTE**
+- विश्वस्य भुवनस्य (*viśvasya bhuvanasya*)—of the whole world **NOTE**
 - पतिः (*patiḥ*)—you who are the lord
 - राजसि (*rājasi*)—you shine
 
@@ -21311,7 +21311,7 @@ The rays (केतवः (*ketavaḥ*), the indicators) of Soma who is being pu
 
 - ध्रुवस्य सतः (*dhruvasya sataḥ*)—of him whose state is eternal
 - पवमानस्य (*pavamānasya*)—of Soma-deva
-- केशवः (*keśavaḥ*)—that are like banners **NOTE**
+- केतवः (*ketavaḥ*)—that are like banners **NOTE**
 - रश्मयः (*raśmayaḥ*)—rays
 - उभयतः (*ubhayataḥ*)—in both worlds
 - परि यंति (*pari yaṃti*)—come to move about
@@ -21412,7 +21412,7 @@ This Soma, the king, plunges into the sea (समुद्रम् (*samudram*)
 - वि गाहते (*vi gāhate*)—enters
 - अपां (*apāṃ*)—of the waters
 - ऊर्मि० (*ūrmi0*)—the waves too
-- सचेते (*sacete*)—joins **NOTE**
+- सचते (*sacate*)—joins **NOTE**
 - सिंधुषु (*siṃdhuṣu*)—in the Vasatīvarī waters
 - श्रितः (*śritaḥ*)—takes shelter
 - महः (*mahaḥ*)—of the great
@@ -21464,7 +21464,7 @@ The Soma at whose (यस्य (*yasya*)) supports (धर्मभिः (*dha
 - अचिक्रदत् (*acikradat*)—makes a sound
 - इंद्रस्य (*iṃdrasya*)—with Indra
 - सख्यं (*sakhyaṃ*)—the friendship
-- विवेनिदत् (*vivenidat*)—having come to know, **NOTE**
+- विवेविदत् (*vivevidat*)—having come to know, **NOTE**
 - पवते (*pavate*)—flows
 - पुनानः (*punānaḥ*)—purified
 - सोमः (*somaḥ*)—Soma
@@ -21672,7 +21672,7 @@ This Soma is मतवान् (*matavān*): मतं (*mataṃ*) is the agree
 This Soma-deva, endowed with praise, purified and impelled by the priests, streams quickly in the form of juice in the ten-fold filter, as a bird runs. O Indra, of surpassing wisdom, by your rite and wisdom the bright Soma flows between this Heaven and Earth.
 
 ##### English translation
-This (Soma) possessed of agreeable (praise), filtered, and sent forth, (quick) as a bird, goes with a stream (of juice) through the fleece ; by your sustainig act, by your intelligence, sage Indra, the pure Soma flows purified through both heaven and earth. **NOTE**
+This (Soma) possessed of agreeable (praise), filtered, and sent forth, (quick) as a bird, goes with a stream (of juice) through the fleece ; by your sustaining act, by your intelligence, sage Indra, the pure Soma flows purified through both heaven and earth. **NOTE**
 
 ### Printed p. 570
 #### Ṛk 14
@@ -21944,7 +21944,7 @@ This Soma is purified, that is, pressed. Of what sort is he? He is the showerer 
 - दिवः (*divaḥ*)—of the sun
 - प्र तरीतावृद्धिकारकनू (*pra tarītāvṛddhikārakanū*)—the increaser **NOTE**
 - सिंधूनां (*siṃdhūnāṃ*)—of the waters
-- त्राणा (*trāṇā*)—the maker **NOTE**
+- क्राणा (*krāṇā*)—the maker **NOTE**
 - सोमः (*somaḥ*)—Soma
 - पवते (*pavate*)—flows
 - इंद्रस्य (*iṃdrasya*)—of Indra
@@ -22056,7 +22056,7 @@ This Soma, being purified, makes the dawns shine in many ways. He becomes abunda
 This Soma, the maker of the world, being purified, makes the dawns shine. This same Soma becomes nourished for the abiding waters. This Soma, milking the mixing substances such as milk through the twenty-one priests, flows, gladdening and attractive, in order to enter Indra's heart.
 
 ##### English translation
-(It is) he (who), when purified, illumines the dawn ; he the maker of the world is (prosperous) for the rivers ; this Soma, having milked the thrice seven (cows) of their curds and milk, exhilarating, flows pleasently to (go to) the heart. **NOTE**
+(It is) he (who), when purified, illumines the dawn ; he the maker of the world is (prosperous) for the rivers ; this Soma, having milked the thrice seven (cows) of their curds and milk, exhilarating, flows pleasantly to (go to) the heart. **NOTE**
 #### Ṛk 22
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -22181,7 +22181,7 @@ O Soma, you who are being purified: the praisers, the inspired wise ones of good
 - स्वाध्यः (*svādhyaḥ*)—those of excellent rites
 - विप्रासः (*viprāsaḥ*)—the wise praisers
 - अवस्यवः (*avasyavaḥ*)—desiring protection
-- अनु अमुदन् (*anu amudan*)—praise **NOTE**
+- अनु अमदन् (*anu amadan*)—praise **NOTE**
 - इंदो (*iṃdo*)—O Soma
 - विश्वाभिः (*viśvābhiḥ*)—all
 - मतिभिः (*matibhiḥ*)—with praises
@@ -22472,7 +22472,7 @@ O Soma Pavamāna, you are purified for the gods, for the sake of the gods, in th
 - त्वां (*tvāṃ*)—you
 - उशिजः (*uśijaḥ*)—the priests who desire
 - प्रथमाः (*prathamāḥ*)—as the first
-- अगृभ्यत (*agṛbhyata*)—accept **NOTE**
+- अगृभ्णत (*agṛbhṇata*)—accept **NOTE**
 - तुभ्य (*tubhya*)—to you
 - विश्वा (*viśvā*)—all
 - इमा भुवनानि (*imā bhuvanāni*)—all these worlds
@@ -22517,11 +22517,11 @@ Rebha means the one who sounds; the root rebhṛ is in the sense of sound. Soma 
 - हरिः (*hariḥ*)—Soma
 - वनेषु (*vaneṣu*)—in the waters
 - अव चक्रदत् (*ava cakradat*)—sounds
-- नावशानाः (*nāvaśānāḥ*)—desiring the sacrifice **NOTE**
+- वावशानाः (*vāvaśānāḥ*)—desiring the sacrifice **NOTE**
 - धीतयः (*dhītayaḥ*)—the worshippers
 - समनूषत (*samanūṣata*)—praise
 - मतयः (*matayaḥ*)—the praises
-- पनिष्नतं (*paniṣnataṃ*)—and sounding **NOTE**
+- पनिप्नतं (*panipnataṃ*)—and sounding **NOTE**
 - शिशुं (*śiśuṃ*)—the Soma fit for preparation like an infant
 - रिहंति (*rihaṃti*)—touch
 
@@ -22560,7 +22560,7 @@ That Soma surrounds himself with the rays of the sun. What does he do? He stretc
 - त्रिवृतं (*trivṛtaṃ*)—having three kinds of pressing
 - तंतुं (*taṃtuṃ*)—the sacrifice
 - यथा विदे (*yathā vide*)—according to his knowledge
-- तन्नानः (*tannānaḥ*)—spreading **NOTE**
+- तन्वानः (*tanvānaḥ*)—spreading **NOTE**
 - सूर्यस्य (*sūryasya*)—of the sun
 - रश्मिभिः (*raśmibhiḥ*)—by the rays
 - परि व्यत (*pari vyata*)—is surrounded
@@ -22806,11 +22806,11 @@ O Indu, Soma, you, the lord, the master of all, go through these worlds, the bor
 - ताः (*tāḥ*)—those same horses
 - ते (*te*)—your
 - मधुमत् (*madhumat*)—sweet
-- धृतं (*dhṛtaṃ*)—and shining **NOTE**
+- घृतं (*ghṛtaṃ*)—and shining **NOTE**
 - पयः (*payaḥ*)—water
 - क्षरंतु (*kṣaraṃtu*)—let them cause to flow
 - सोम (*soma*)—O Soma-deva
-- कृष्णयः (*kṛṣṇayaḥ*)—all men **NOTE**
+- कृष्टयः (*kṛṣṭayaḥ*)—all men **NOTE**
 - तव व्रते (*tava vrate*)—in your rite of worship
 - तिष्ठंतु (*tiṣṭhaṃtu*)—let them be devoted
 
@@ -22959,7 +22959,7 @@ The wave, the juice, of the sweet one makes the pleasing words rise up, for at t
 - पवित्ररथः (*pavitrarathaḥ*)—the one who has an excellent chariot
 - राजा (*rājā*)—and the lord, Soma
 - वाजं (*vājaṃ*)—the field of battle
-- आरुहत् (*āruhat*)—mounts
+- अरुहत् (*aruhat*)—mounts
 - सहस्रभृष्टिः (*sahasrabhṛṣṭiḥ*)—possessing many weapons
 - बृहत् (*bṛhat*)—abundant
 - श्रवः (*śravaḥ*)—food
@@ -23106,12 +23106,12 @@ The priests anoint Soma with milk; likewise they anoint him variously, and anoin
 - अभिव्यंजते (*abhivyaṃjate*)—they mix together **NOTE**
 - सिंधोः (*siṃdhoḥ*)—of the water that is the basis of the juice
 - उच्छ्वासे (*ucchvāse*)—in the high place
-- पतॆयंतं (*patèyaṃtaṃ*)—the one that falls **NOTE**
+- पतयंतं (*patayaṃtaṃ*)—the one that falls **NOTE**
 - उक्षणं (*ukṣaṇaṃ*)—that showers desires
 - पशुं (*paśuṃ*)—and has the power of sight, the Soma juice
 - हिरण्यपावाः (*hiraṇyapāvāḥ*)—the priests who purify with gold
 - आसु (*āsu*)—with the vasatīvarī waters
-- गृभ्नते (*gṛbhnate*)—take, in order to mix **NOTE**
+- गृभ्णते (*gṛbhṇate*)—take, in order to mix **NOTE**
 
 ### Printed p. 605
 
@@ -23195,14 +23195,14 @@ Soma, going in front of all (अग्रेगः (*agregaḥ*), the one who go
 
 - अग्रेगः (*agregaḥ*)—going ahead of all
 - राजा (*rājā*)—shining
-- अष्यः (*aṣyaḥ*)—sanctified by water **NOTE**
-- आह्नां (*āhnāṃ*)—for the days **NOTE**
+- अप्यः (*apyaḥ*)—sanctified by water **NOTE**
+- अह्नां (*ahnāṃ*)—for the days **NOTE**
 - विमानः (*vimānaḥ*)—the maker
 - भुवनेषु (*bhuvaneṣu*)—in the waters
 - अर्पितः (*arpitaḥ*)—and placed, Soma
 - तविष्यते (*taviṣyate*)—is praised
 - हरिः (*hariḥ*)—having a green colour
-- धृतस्नुः (*dhṛtasnuḥ*)—pouring out water **NOTE**
+- घृतस्नुः (*ghṛtasnuḥ*)—pouring out water **NOTE**
 - सुदृशीकः (*sudṛśīkaḥ*)—having an excellent aspect
 - अर्णवः (*arṇavaḥ*)—possessing water
 - ज्योतीरथः (*jyotīrathaḥ*)—having a chariot of the form of light; this Soma-deva
@@ -23266,7 +23266,7 @@ Soma, the giver of joy, the supporter of the world of Dyaus, restrained for the 
 ### Printed p. 609
 
 ##### English translation
-The supporter of heaven the prepared cxhilarating (Soma) is let loose, the triple (liquor) rushes to the waters ; the worshippers taste the sounding Soma juice, when the reciters of holy texts approach the embodied (beverage) with praise. **NOTE**
+The supporter of heaven the prepared exhilarating (Soma) is let loose, the triple (liquor) rushes to the waters ; the worshippers taste the sounding Soma juice, when the reciters of holy texts approach the embodied (beverage) with praise. **NOTE**
 
 #### Ṛk 47
 
@@ -23478,7 +23478,7 @@ Indu, Soma, the god with excellent weapons (स्वायुधः (*svāyudha
 Soma-deva, of divine nature, having an excellent weapon, the destroyer of evil-doers, the protector from obstacles, the guardian of the world, the begetter of the gods, having excellent strength, the supporter of the world of Dyaus and of the earth, flows.
 
 ##### English translation
-The divine Indu well armed flows forth, the destroyer of Rakshasas, averting calamity, the protector of the gods, the progenitor, the powerfur one, the prop of heaven, the support of the earth. **NOTE**
+The divine Indu well armed flows forth, the destroyer of Rakshasas, averting calamity, the protector of the gods, the progenitor, the powerful one, the prop of heaven, the support of the earth. **NOTE**
 
 #### Ṛk 3
 
@@ -23615,7 +23615,7 @@ These Soma-juices, aiming at (लक्षीकृत्य (*lakṣīkṛtya*)
 These Soma-juices are let loose freely, like horses that are victorious in battle and desire food, with a view to many kinds of food obtained from cows, being purified by the ten-fold filters, for great food and for the gaining of immortality.
 
 ##### English translation
-These Soma-juices, (going towards) the thousand viands produced by cows, purified by the filters, are let loose for ample food and ambrosia, desiring food like horses victorius over a host. **NOTE**
+These Soma-juices, (going towards) the thousand viands produced by cows, purified by the filters, are let loose for ample food and ambrosia, desiring food like horses victorious over a host. **NOTE**
 
 #### Ṛk 6
 
@@ -23733,7 +23733,7 @@ This stream of Soma went (ययौ (*yayau*)) from the highest, lofty place to 
 
 - एषा (*eṣā*)—this stream of Soma
 - परमात् (*paramāt*)—from the highest place
-- युयौ (*yuyau*)—has come **NOTE**
+- ययौ (*yayau*)—has come **NOTE**
 - अद्रेः (*adreḥ*)—of the mountain
 - अंतः (*aṃtaḥ*)—inside
 - क्वचित् ऊर्वे (*kvacit ūrve*)—in a place that no one sees **NOTE**
@@ -23805,7 +23805,7 @@ And indeed, O Soma, being purified, you go round the herd (गोनां र�
 O Soma-deva, you who have attained purity set out seeking the herd of cows, mounting one and the same chariot together with Indra. O Soma-deva, who give quickly, you who are praised by us, give abundant foods of great fruit. O Soma, possessor of food, those foods are your possessions.
 
 ##### English translation
-And being purified, Soma, you pursue the herd of (stolen) cattle in the same chariot with Indra ; O you who give quickly, give (us) when invoked plentiful and abundant viands, for they are your (property), O you who abund in food. **NOTE**
+And being purified, Soma, you pursue the herd of (stolen) cattle in the same chariot with Indra ; O you who give quickly, give (us) when invoked plentiful and abundant viands, for they are your (property), O you who abound in food. **NOTE**
 
 ## Sūkta 88 (Maṇḍala 9)
 
@@ -23873,7 +23873,7 @@ O Indra, this Soma is pressed (सुन्वे (*sunve*)) for you; for you al
 O Indra, this Soma is pressed for you. It is purified for you. The Soma in the form of a stream, which you create, which you desire for your joy and for help, such a Soma drink.
 
 ##### English translation
-This Soma is expressed ror you, Indra ; for you it is filtered ; drink of it ; it is the Indu Soma which you have made, which you have chosen for your exhilaration, your companion. **NOTE**
+This Soma is expressed for you, Indra ; for you it is filtered ; drink of it ; it is the Indu Soma which you have made, which you have chosen for your exhilaration, your companion. **NOTE**
 
 ### Printed p. 624
 
@@ -23901,7 +23901,7 @@ This Soma, like a chariot that bears a heavy load (भुरिषाट् (*bh
 
 - महः (*mahaḥ*)—the great one
 - सईं (*saīṃ*)—that same Soma **NOTE**
-- भूरिषाट् (*bhūriṣāṭ*)—which bears a heavy burden **NOTE**
+- भुरिषाट् (*bhuriṣāṭ*)—which bears a heavy burden **NOTE**
 - रथो न (*ratho na*)—like a chariot
 - पुरूणि (*purūṇi*)—abundant
 - वसूनि (*vasūni*)—riches
@@ -24010,7 +24010,7 @@ Like Indra, you who habitually perform great acts are, O Soma, the slayer of the
 - असि (*asi*)—you are
 - पूर्भित् (*pūrbhit*)—you split the enemy cities
 - पैद्वो न (*paidvo na*)—like the horse of Pedu
-- अहिनाम्यां (*ahināmyāṃ*)—of the demons called Ahi **NOTE**
+- अहिनाम्नां (*ahināmnāṃ*)—of the demons called Ahi **NOTE**
 - हंता (*haṃtā*)—you are the destroyer
 - त्वं (*tvaṃ*)—you
 - विश्वस्य दस्योः (*viśvasya dasyoḥ*)—as the destroyer of every Dasyu
@@ -24053,7 +24053,7 @@ Soma is like Agni, let loose in the forest: as a fire of the forest makes its fo
 - वने (*vane*)—in the forest
 - आ सृज्यमानः (*ā sṛjyamānaḥ*)—placed freely
 - अग्निः न (*agniḥ na*)—like fire
-- उपब्धिः (*upabdhiḥ*)—making a sound **NOTE**
+- उपब्दिः (*upabdiḥ*)—making a sound **NOTE**
 - महतः (*mahataḥ*)—facing a mighty enemy
 - युध्वा (*yudhvā*)—who fights
 - जनो न (*jano na*)—like a hero
@@ -24310,7 +24310,7 @@ This king Soma puts on, covers himself with, the garment of the rivers, that is,
 - नावं (*nāvaṃ*)—the boat
 - अरुहत् (*aruhat*)—he has ascended
 - श्येनजूतः (*śyenajūtaḥ*)—brought by the falcon
-- द्रप्पः (*drappaḥ*)—the Soma juice **NOTE**
+- द्रप्सः (*drapsaḥ*)—the Soma juice **NOTE**
 - अप्सु (*apsu*)—in the Vasatīvarī waters and the rest
 - ववृधे (*vavṛdhe*)—it grows
 - पितुः (*pituḥ*)—from the protecting world of heaven
@@ -24402,14 +24402,14 @@ Soma, with a honeyed (sweet) back, terrible, a goer, ṛṣva (beautiful), perva
 - मधुपृष्ठः (*madhupṛṣṭhaḥ*)—having a back of the form of water **NOTE**
 - घोरं (*ghoraṃ*)—terrible
 - अयासं (*ayāsaṃ*)—swift-going
-- ऋष्टं (*ṛṣṭaṃ*)—attractive; the horse in the form of Soma **NOTE**
+- ऋष्वं (*ṛṣvaṃ*)—attractive; the horse in the form of Soma **NOTE**
 - उरुचक्रे (*urucakre*)—with wide wheels
 - रथे (*rathe*)—in the car in the form of the sacrifice
 - युंजंति (*yuṃjaṃti*)—the priests yoke
 - जामयति (*jāmayati*)—kindred **NOTE**
 - स्वसारः (*svasāraḥ*)—the fingers
 - ईं (*īṃ*)—this Soma
-- मार्जयंति (*mārjayaṃti*)—they purify
+- मर्जयंति (*marjayaṃti*)—they purify
 - सनाभयः (*sanābhayaḥ*)—these fingers, with equal kinship
 - वाजिनं (*vājinaṃ*)—the Soma endowed with strength
 - ऊर्जयंति (*ūrjayaṃti*)—they make strong
@@ -24543,12 +24543,12 @@ O Soma, unconquered by enemies, go to the sacrifice (the banquet of the gods). S
 
 - वन्वन् (*vanvan*)—O Soma-deva, conquering enemies
 - अवातः (*avātaḥ*)—not conquered by others
-- देवनीतिं अभि (*devanītiṃ abhi*)—come graciously to the sacrifice **NOTE**
+- देववीतिं अभि (*devavītiṃ abhi*)—come graciously to the sacrifice **NOTE**
 - सोम (*soma*)—O Soma
 - वृत्रहा (*vṛtrahā*)—you, the destroyer of enemies
 - इंद्राय (*iṃdrāya*)—for the sake of Indra
 - पवस्व (*pavasva*)—flow
-- शग्नि (*śagni*)—give us wealth **NOTE**
+- शग्धि (*śagdhi*)—give us wealth **NOTE**
 
 ### Printed p. 640
 
@@ -26258,9 +26258,9 @@ Soma, covering on both sides (द्विता व्यूर्ण्वन�
 - प्रथंत (*prathaṃta*)—attain expansion
 - गावः (*gāvaḥ*)—cows
 - स्वसरे न (*svasare na*)—as they call out to go to their stall
-- पिन्याना (*pinyānā*)—gratifying **NOTE**
+- पिन्वानाः (*pinvānāḥ*)—gratifying **NOTE**
 - धियः (*dhiyaḥ*)—words of praise
-- ऋतायंतीः (*ṛtāyaṃtīḥ*)—desiring the sacrifice
+- ऋतऽयंतीः (*ṛta 'yaṃtīḥ*)—desiring the sacrifice
 - इंदुं अभि (*iṃduṃ abhi*)—towards Soma
 - वावश्रे (*vāvaśre*)—call out
 
@@ -26318,7 +26318,7 @@ The sage (कविः (*kaviḥ*): one of far-reaching wisdom), Soma, when (य
 As a chariot that destroys enemies takes up all its implements of war, so when Soma, of far-reaching wisdom, takes up the praises, he, desiring to give the wealth that is among the gods to the mortal praiser, becomes worthy of praise in many sacrifices for the growth of the wealth given by himself.
 
 ##### English translation
-When the sagc Soma goes round praises (of the wise) like a hostile chariot (going round) all the regions (of the battle-field), then desirous of bestowing upon mortals the wealth that abides with the gods, he (is) to be glorified in the many places of sacrifice for the preservation of the riches he has given. **NOTE**
+When the sage Soma goes round praises (of the wise) like a hostile chariot (going round) all the regions (of the battle-field), then desirous of bestowing upon mortals the wealth that abides with the gods, he (is) to be glorified in the many places of sacrifice for the preservation of the riches he has given. **NOTE**
 
 #### Ṛk 4
 
@@ -26367,7 +26367,7 @@ That Soma is born for prosperity, that is, he comes forth for the sake of wealth
 Soma-deva has been born for prosperity. He goes out for prosperity. He gives the praisers prosperity and food. The praisers who have put on (obtained) the prosperity given by Soma attain freedom from death. When there is the help of Soma, who moves with measure, the battle-acts of the praisers become true, with good fruit.
 
 ##### English translation
-He (is) generated for prosperity, for prosperity he issues forth, he gives prosperity (and) sustenance to those who praise him ; clothing themselves in (his) prosperity, they obtain immortality ; their eonflicts are successful through the aid of (the Soma) who moves with measured tread. **NOTE**
+He (is) generated for prosperity, for prosperity he issues forth, he gives prosperity (and) sustenance to those who praise him ; clothing themselves in (his) prosperity, they obtain immortality ; their conflicts are successful through the aid of (the Soma) who moves with measured tread. **NOTE**
 
 #### Ṛk 5
 
@@ -26409,7 +26409,7 @@ O Soma, bring to us (अभ्यर्ष (*abhyarṣa*)) food (इषम् (*
 - पवमान (*pavamāna*)—purifying
 - सोम (*soma*)—O Soma-deva
 - शत्रून् (*śatrūn*)—enemies
-- भाधसे (*bhādhase*)—you smite **NOTE**
+- बाधसे (*bādhase*)—you smite **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -26530,7 +26530,7 @@ Soma, the green one (हरिः (*hariḥ*)), being sent forth (सृजा�
 As a boatman impels the boat to move, Soma, who has been pressed and is of green colour, impels the speech (the praise) that guides to truth. The shining Soma makes the hidden bodies of the gods, Indra and the rest, manifest to the praiser at the sacrifice.
 
 ##### English translation
-The green-tinted Soma being let loose propels the voice that indicates the path of truth as the boatman (propels his) boat ; the bright Soma reveals to his worshipper od the sacred grass the secret names of the god. **NOTE**
+The green-tinted Soma being let loose propels the voice that indicates the path of truth as the boatman (propels his) boat ; the bright Soma reveals to his worshipper on the sacred grass the secret names of the god. **NOTE**
 
 ### Printed p. 697
 
@@ -26600,7 +26600,7 @@ The priests milk (दुहंति (*duhaṃti*)) that well-known Soma, the pl
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- मर्मजानं (*marmajānaṃ*)—the one who has obtained purity
+- मर्मृजानं (*marmṛjānaṃ*)—the one who has obtained purity
 - महिषं न (*mahiṣaṃ na*)—like a buffalo
 - सानौ (*sānau*)—who is on a high place
 - उक्षणं (*ukṣaṇaṃ*)—the sprinkler of desires
@@ -26852,7 +26852,7 @@ O shining (देव (*deva*)) Soma, such as you are, the drink of Indra (इं
 - आ (*ā*)—favour (us)
 - पुनानः (*punānaḥ*)—having obtained purity
 - नः (*naḥ*)—us
-- परिवस्य (*parivasya*)—serve with gifts of wealth and the like **NOTE**
+- वरिवस्य (*varivasya*)—serve with gifts of wealth and the like **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -26891,7 +26891,7 @@ O Soma, flow (पवस्व (*pavasva*)) for non-defeat (अजीतये (*
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - अजीतये (*ajītaye*)—(O Soma) so that enemies may not conquer us
-- आहतये (*āhataye*)—for being free from injury **NOTE**
+- अहतये (*ahataye*)—for being free from injury **NOTE**
 - स्वस्तये (*svastaye*)—for the attainment of welfare, and being accomplished
 - बृहते (*bṛhate*)—great
 - सर्वतातये (*sarvatātaye*)—for the sacrifice
@@ -27164,7 +27164,7 @@ Soma is intoxicating (मत्सरः (*matsaraḥ*)). In battles (पृत�
 O Soma, you who cause exhilaration, who injure the enemies in battles and are yourself unharmed, who have streams of many kinds, and are renowned, confront the strength of the enemies and advance. O Soma-deva, you the purifier, being wise, impelling the cows, cause the mass of the Soma juice to flow for Indra's sake.
 
 ##### English translation
-(Soma) who are the exhilarator, harming (the foe) in battles, (yourself) unharmed, who have a thousand streams, rush against the :strength (of the enemy); Indu, who are being purified, the sage, uttering cries, urge on for Indra the wave of juice. **NOTE**
+(Soma) who are the exhilarator, harming (the foe) in battles, (yourself) unharmed, who have a thousand streams, rush against the strength (of the enemy); Indu, who are being purified, the sage, uttering cries, urge on for Indra the wave of juice. **NOTE**
 
 ##### विशेषविषयगळु (Special Topics)
 
@@ -27263,7 +27263,7 @@ The ancient one (पूर्व्यः (*pūrvyaḥ*)), or else one made, tha
 - पूर्व्यः (*pūrvyaḥ*)—the ancient
 - वसुवित् (*vasuvit*)—the one who obtains wealth
 - जायमानः (*jāyamānaḥ*)—as soon as he is produced
-- अप्पु (*appu*)—in the waters **NOTE**
+- अप्सु (*apsu*)—in the waters **NOTE**
 - मृजानः (*mṛjānaḥ*)—the one who attains purity
 - अदौ (*adau*)—from the pressing **NOTE**
 
@@ -27433,8 +27433,8 @@ Sāyaṇa explains: O Soma, as formerly you went to Manu the king, being the giv
 - हविष्मान् (*haviṣmān*)—and accompanied by puroḍāśa and the rest
 - अपवथाः (*apavathāḥ*)—you went to him
 - एव (*eva*)—even so (to us also)
-- ध्रविणं (*dhraviṇaṃ*)—wealth **NOTE**
-- धधानः (*dhadhānaḥ*)—as the giver **NOTE**
+- द्रविणं (*draviṇaṃ*)—wealth **NOTE**
+- दधानः (*dadhānaḥ*)—as the giver **NOTE**
 - पवस्व (*pavasva*)—flow also to us
 - इंद्रे (*iṃdre*)—in Indra
 - सं तिष्ठ (*saṃ tiṣṭha*)—abide, resting in him
@@ -27502,7 +27502,7 @@ Sāyaṇa explains: O Soma, you are मधुमान् (*madhumān*), possess
 - मदिंतमः (*madiṃtamaḥ*)—the greatest cause of delight
 - इंद्रपानः (*iṃdrapānaḥ*)—fit to be drunk by Indra
 - मत्सरः (*matsaraḥ*)—the cause of delight, such as you are
-- धृतवंति (*dhṛtavaṃti*)—filled with water **NOTE**
+- घृतवंति (*ghṛtavaṃti*)—filled with water **NOTE**
 - द्रोणानि (*droṇāni*)—the Droṇa vessels
 - अवसीद (*avasīda*)—take refuge in them and sit
 
@@ -27565,7 +27565,7 @@ Sāyaṇa explains: O Soma, you who have a hundred streams, that is, many stream
 - सिंधुभिः (*siṃdhubhiḥ*)—with the flowing Vasatīvarī waters
 - कलशे (*kalaśe*)—in the Droṇa vessel
 - सं (गच्छस्व) (*saṃ (gacchasva)*)—unite
-- नावशानः (*nāvaśānaḥ*)—you who desire the sacrifice **NOTE**
+- वावशानः (*vāvaśānaḥ*)—you who desire the sacrifice **NOTE**
 - नः (*naḥ*)—our
 - आयुः (*āyuḥ*)—life
 - प्रतिरन् (*pratiran*)—increasing
@@ -27839,7 +27839,7 @@ Sāyaṇa explains: ऋषिमनाः (*ṛṣimanāḥ*) is one whose mind 
 - महिषः (*mahiṣaḥ*)—great
 - सः (*saḥ*)—that same Soma
 - तृतीयं धाम (*tṛtīyaṃ dhāma*)—the third heaven
-- सिषासन् (*siṣāsan*)—desiring to attain
+- सिसासन् (*sisāsan*)—desiring to attain
 - स्तुप् (*stup*)—and praised
 - विराजं (*virājaṃ*)—the radiant Indra
 - अनु राजति (*anu rājati*)—makes shine abundantly
@@ -28235,7 +28235,7 @@ O Soma, being purified, your own lustres, which, as a woman gives milk to her so
 - रुचः (*rucaḥ*)—and which are bright, the Soma juices
 - आ यंति (*ā yaṃti*)—go and join the vessels
 - हरिः (*hariḥ*)—green in colour
-- अनीतः (*anītaḥ*)—brought by the priests **NOTE**
+- आनीतः (*ānītaḥ*)—brought by the priests **NOTE**
 - पुरुवारः (*puruvāraḥ*)—worthy of the regard of many, Soma
 - अप्सु (*apsu*)—joining the Vasatīvarī waters
 - देवयूनां (*devayūnāṃ*)—of the sacrificers who desire the gods
@@ -30398,7 +30398,7 @@ O Soma, celestial, born in heaven, well-winged, good in flight, you look down fr
 - धाराः (*dhārāḥ*)—the streams of juice
 - पिन्वन् (*pinvan*)—causing to flow
 - अव चक्षि (*ava cakṣi*)—look down towards us
-- सोमुधानं (*somudhānaṃ*)—that holds Soma **NOTE**
+- सोमधानं (*somadhānaṃ*)—that holds Soma **NOTE**
 - कलशं (*kalaśaṃ*)—into the vessel
 - आ विश (*ā viśa*)—enter
 - क्रंदन् (*kraṃdan*)—crying out
@@ -31033,7 +31033,7 @@ Sāyaṇa explains that the waters flow forth from Soma, and therefore he is the
 Soma, the pourer of rain and the lord, producing creatures in the wide firmament that supports the water, pervades the whole world. Soma the god, the showerer of desires, the one who is pressed, the shining one, grows exceedingly on the ten-fold filter, which is on a lofty place and is made of wool.
 
 ##### English translation
-The ocean, the royal (Soma), generating progency in the outstretched (firmament, the) supporter of the water traverses tne universe ; the showerer (of benefits), the brilliant Soma when effused increases abundantly in the elevated woollen filter. **NOTE**
+The ocean, the royal (Soma), generating progeny in the outstretched (firmament, the) supporter of the water traverses tne universe ; the showerer (of benefits), the brilliant Soma when effused increases abundantly in the elevated woollen filter. **NOTE**
 
 ##### विशेषविषयगळु (Special Topics)
 
@@ -31075,7 +31075,7 @@ Sāyaṇa says that Soma, the great or worshipful, did that mighty deed. What wa
 
 - अपां गर्भः (*apāṃ garbhaḥ*)—Soma the god, the germ of the waters
 - देवान् (*devān*)—the gods
-- आवृणीत (*āvṛṇīta*)—he worshipped, namely **NOTE**
+- अवृणीत (*avṛṇīta*)—he worshipped, namely **NOTE**
 - यत् (*yat*)—which rite there is
 - महत् (*mahat*)—endowed with greatness
 - तत् (*tat*)—that rite
@@ -31089,7 +31089,7 @@ Sāyaṇa says that Soma, the great or worshipful, did that mighty deed. What wa
 - इंदुः (*iṃduḥ*)—Soma
 - सूर्ये (*sūrye*)—in the sun
 - ज्योतिः (*jyotiḥ*)—lustre
-- आजनयत् (*ājanayat*)—produced **NOTE**
+- अजनयत् (*ajanayat*)—produced **NOTE**
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -31745,7 +31745,7 @@ O Soma, flow these riches with this purifying stream. Likewise, O Indu, advance 
 - पवस्व (*pavasva*)—supply
 - इंदो (*iṃdo*)—O Soma
 - मांश्चत्वे (*māṃścatve*)—yellow-coloured
-- सरिसि (*sarisi*)—in order to join the Vasatīvarī waters **NOTE**
+- सरसि (*sarasi*)—in order to join the Vasatīvarī waters **NOTE**
 - प्र धन्व (*pra dhanva*)—flow
 - अत्र (*atra*)—as the fruit of this Soma sacrifice
 - वातो न जूतः (*vāto na jūtaḥ*)—swift-moving like the wind
@@ -31841,8 +31841,8 @@ Great and abundant are these two acts, the raining of arrows and the bowing down
 - पृशने (*pṛśane*)—in tumultuous wars fought with the arms
 - वधत्रे (*vadhatre*)—are destroyers of enemies
 - निगुतः (*nigutaḥ*)—the enemies who had fallen down and were sounding
-- अस्वापयॆत् (*asvāpayèt*)—he made them sleep a long sleep (destroyed them) **NOTE**
-- स्नेहयॆत् (*snehayèt*)—he drove the rest far away **NOTE**
+- अस्वापयत् (*asvāpayat*)—he made them sleep a long sleep (destroyed them) **NOTE**
+- स्नेहयत् (*snehayat*)—he drove the rest far away **NOTE**
 - (O Soma-god) अमित्रान् (*amitrān*)—the enemies
 - अप अच (*apa aca*)—drive far away
 - अचितः (*acitaḥ*)—also those who do not perform the work of the fire
@@ -31933,7 +31933,7 @@ This Soma is the knower of all, and therefore wise; he is the king, the lord, of
 - पवते (*pavate*)—flows
 - विदथेषु (*vidatheṣu*)—in the sacrifices
 - द्रप्सान् (*drapsān*)—the Soma juices
-- ईरयॆन् (*īrayèn*)—making flow **NOTE**
+- ईरयन् (*īrayan*)—making flow **NOTE**
 - इंदुः (*iṃduḥ*)—Soma
 - अव्यं (*avyaṃ*)—of the filter with fringes
 - वारं (*vāraṃ*)—among the woollen threads
@@ -31971,7 +31971,7 @@ The Mahiṣas are great or worshipful, and therefore unassailed, harmed by none:
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - महिषाः (*mahiṣāḥ*)—the worshipful
-- अदॆब्धाः (*adèbdhāḥ*)—the unharmed gods **NOTE**
+- अदब्धाः (*adabdhāḥ*)—the unharmed gods **NOTE**
 - इंदुं (*iṃduṃ*)—Soma
 - रिहंति (*rihaṃti*)—they taste
 - गृध्राः (*gṛdhrāḥ*)—desirous of wealth
@@ -32412,7 +32412,7 @@ O Mānavī, belonging to Manu, O shining divine Rodasī, heaven and earth: in yo
 - देवः (*devaḥ*)—shining
 - गिरिष्ठाः (*giriṣṭhāḥ*)—standing between the pressing stones
 - सः इंदुः (*saḥ iṃduḥ*)—that Soma, of the nature of juice
-- जनिष्व (*janiṣva*)**NOTE**—has been born
+- जनिष्ट (*janiṣṭa*)**NOTE**—has been born
 - तं (*taṃ*)—that born Soma
 - तुविष्वणि (*tuviṣvaṇi*)**NOTE**—in the sacrifice that is full of sound
 - अस्रेधन् (*asredhan*)—the priests pressed
@@ -32580,7 +32580,7 @@ For the Soma who is desired by all and bold, that is, accustomed to overcome ene
 - धृष्णवे (*dhṛṣṇave*)—who confronts his enemies
 - पौंस्यं (*pauṃsyaṃ*)**NOTE**—which displays manly power
 - धनुः (*dhanuḥ*)—the bow
-- आ तॆन्वंति (*ā tènvaṃti*)—they string and make ready
+- आ तन्वंति (*ā tanvaṃti*)—they string and make ready
 - महीयुवः (*mahīyuvaḥ*)—the priests who desire worship
 - विपां (*vipāṃ*)—of the wise gods
 - अग्रे (*agre*)—in front
@@ -32663,7 +32663,7 @@ We purify, or else adorn, that juice of this Soma, the exhilarating juice that i
 - मदः (*madaḥ*)—is exhilarating
 - इंद्रपातमः (*iṃdrapātamaḥ*)—and is fit for Indra's drinking
 - अस्य तं (*asya taṃ*)—that juice of this Soma
-- मर्जयोमसि (*marjayomasi*)**NOTE**—we purify and adorn
+- मर्जयामसि (*marjayāmasi*)**NOTE**—we purify and adorn
 - यं (*yaṃ*)—which same Soma juice
 - गावः (*gāvaḥ*)—devoted to worship
 - सूरयः (*sūrayaḥ*)—the praisers
@@ -32748,7 +32748,7 @@ That Soma, sprinkled with waters, the supporter of all, they purify in the wooll
 - पुनंति (*punaṃti*)—they purify
 - मनीषिणः (*manīṣiṇaḥ*)—the wise sacrificers
 - दूतं न (*dūtaṃ na*)—as one speaks to a messenger
-- पूर्वचित्त्ये (*pūrvacittye*)—so as to make known his worship to the gods beforehand
+- पूर्वचित्तये (*pūrvacittaye*)—so as to make known his worship to the gods beforehand
 - आ शासते (*ā śāsate*)—they pray
 
 ##### भावार्थ (Bhāvārtha)
@@ -32828,7 +32828,7 @@ That Soma, pressed for the gods, shining or to be praised, is cleansed, that is,
 - सुकर्मभिः (*sukarmabhiḥ*)—by priests of good works
 - मृज्यते (*mṛjyate*)—is cleansed
 - यत् (*yat*)—when
-- असु (*asu*)**NOTE**—among these people
+- आसु (*āsu*)**NOTE**—among these people
 - संददिः (*saṃdadiḥ*)—as a generous giver**NOTE**
 - विदे (*vide*)—he is known, then
 - महीः (*mahīḥ*)—the great
