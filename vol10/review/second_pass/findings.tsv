@@ -34,3 +34,27 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 309	Q1	R1	Ni. reference wealth (q180)	Ni. 2-10 [?]	Ni. 3-9	Kannada p.309 (ನಿ. ೩-೯)	applied	
 309	S14	R1	authority quoted	material is evident for the sake of sacrifice	material has been created for the sake of sacrifice	Kannada p.309 ಸೃಷ್ಟವಾಗಿರುವುದು	applied	
 304	H29	R1	atithi quotation	darśādi-tithim apekṣya āgantāraṃ vā (Kannada ನಾ)	English kept	Kannada misprint ನಾ for ವಾ; row in kn_misprints	kept	
+2	S3	R1	list of ṛks naming Kakṣīvān	1-116-7; 4-26-1	1-116-7; 1-117-6; 1-126-3; 4-26-1	Kannada p.2 list has ೧-೧೧೭-೬; ೧-೧೨೬-೩	applied	
+2	S14	R1	kakṣya = rope	strap tied to a draught animal	rope with which a horse is tied	Kannada p.2 ಕುದುರೆಯನ್ನು ಕಟ್ಟುವ ಹಗ್ಗ	applied	
+8	S2	R1	Ṛ. Saṃ. reference, asura of Rudra	1-122-1	1-12-1	Kannada p.8 ೧-೧೨-೧ as printed	applied	
+14	S2	R1	supāṃ sulug sūtra	Pā. Sū. 7-1-39	3-1-39	Kannada p.14 ೩-೧-೩೯	applied	
+18	S2	R1	Ṛ. Saṃ. reference	5-32-1	5-3-1	Kannada p.18 ೫-೩-೧	applied	
+25	S2	R1	Śa. Brā. reference	2-3-4-35	2-3-4-25	Kannada p.25 ೨-೩-೪-೨೫	applied	
+27	S2	R1	supāṃ sulug (vyat)	Pā. Sū. 7-1-39	7-1-36	Kannada p.27 ೭-೧-೩೬	applied	
+27	S2	R1	taddhiteṣv acām ādeḥ	Pā. Sū. 7-2-117	7-2-112	Kannada p.27 ೭-೨-೧೧೨	applied	
+27	S2	R1	nabhrāṇ napāt	Pā. Sū. 6-3-5	6-3-75	Kannada p.27 ೬-೩-೭೫	applied	
+29	S2	R1	Ghoṣā sūktas	Sūktas 39–40 of the tenth Maṇḍala	Sūktas 29-40 and 41 of the tenth Maṇḍala	Kannada p.29 ೨೯-೪೦ ಮತ್ತು ೪೧; as printed, open.tsv	applied	
+31	S2	R1	lity… sūtra	Pā. Sū. 6-1-193	7-1-193	Kannada p.31 ೭-೧-೧೯೩	applied	
+9	Q1	R1	q18/q19 Varuṇa ṛk, bhrīṇanti [?]	bhrīṇanti [?]	bhrīṇanti	Kannada p.9 ಭ್ರೀಣಂತಿ agrees; mark dropped (Deva+IAST)	applied	
+30	Q1	R1	q28/q30 atasthī [?]	atasthī [?]	atasthe	Kannada p.30 ಅತಸ್ಥೇ (Deva+IAST)	applied	
+30	Q1	R1	q29/q31 prāpsyā [?]	prāpsyā [?]	prāptā	Kannada p.30 ಪ್ರಾಪ್ತಾ (Deva+IAST)	applied	
+5	Q2	R1	q14 mīraka remark mark	[?] in own remark		mark inside own remark; Kannada ವಿವಿಧಮೀರಕೈ same as English; word unexplained	kept	
+9	Q2	R1	q15/q16 snāpyasura	रक्षा स्नाप्यसुर [?] त्वमस्मान्		Kannada p.9 reads ರಕ್ಷಾ ನ್ಯನ್ಪಾಹ್ಯಸುರ, a non-word; mark stays	kept	
+9	Q2	R1	q17 remark mark	[?] in own remark		remark not edited	kept	
+11	Q2	R1	q20/q21 jñānatyau	वर्धनोपायो ज्ञानत्यौ [?]		Kannada p.11 वर्धनोपायाञ्ज्ञानत्यौ also doubtful; mark stays	kept	
+12	Q2	R1	q22/q23 avitṛstṛ…	अवितृस्तृ… [?]		Kannada p.12 ಅವಿತಸ್ಯ differs (English completes sūtra); mark stays	kept	
+12	Q2	R1	q24 remark mark	[?] in own remark		remark not edited	kept	
+22	Q2	R1	q25 remark mark	[?] in own remark		remark not edited	kept	
+24	Q2	R1	q26/q27 rathāñchyāvān…nai	रथाञ्छ्यावान्स्नीड्वङ्गान्नै [?]		Kannada p.24 ರಥಾಞ್ಭಾವಾನ್ವೀಡ್ವಂಗಾನ್ವೈ has a non-word; mark stays	kept	
+30	Q2	R1	q32 remark mark	[?] in own remark		remark not edited	kept	
+27	S2	R1	Pā. Sū. 3-4-9	3-4-9	(English kept)	Kannada ೩೪-೯ hyphen lost; English has real form	kept	

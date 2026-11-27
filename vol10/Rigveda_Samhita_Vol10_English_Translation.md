@@ -296,9 +296,9 @@ The abbreviations page (PDF 21, "ಸಂಕೇತಾಕ್ಷರಗಳ ವಿವ�
 
 *(Header: "Maṃ. 1 A. 18 Sū. 122".)* …secretly sent her own maidservant, named Uśik, to the seer; and from the seer Dīrghatamas this son named Kakṣīvān was born to her, it is said in the Purāṇas and elsewhere. Though this seer Kakṣīvān was born of a Kṣatriya woman, he became famous as a Brāhmaṇa through contact with a Brāhmaṇa. On the matter of this seer's origin Sāyaṇa has told a story in the bhāṣya on the ṛk Ṛ. Saṃ. 1-51-13.
 
-Kakṣīvān is the name of a king. The story of his origin is this: long ago the king of the Aṅga country had gone once, with his wives and maidservants, to the river Gaṅgā for water-sport. Just at that time the seer named Dīrghatamas was floating along in a boat. The seer was extremely weak, and so his wife, sons and others, [thinking] "such a weakling is not wanted by us", had put him in a boat and let it go on the Gaṅgā. The king of Aṅga, by chance, saw the seer Dīrghatamas who had come in the boat to the place where he was bathing, was greatly delighted, took him out of the boat and honoured him; and he begged him: "Sir, for a long time I have had no children. Here is this wife of mine; beget one son on her." Then the queen, seeing this seer who was extremely old, did not wish to be with him, and sent in her place a maidservant of hers named Uśik. The all-knowing great seer, sprinkling her with mantra-consecrated water, made that maidservant like the seer's wife; and she conceived. The son born in her was the seer named Kakṣīvān. He performed many sacrifices such as the Rājasūya. Indra, pleased with the sacrifices, graciously gave Kakṣīvān a young woman named Vṛcayā. The word *kakṣya* also means the strap that is tied to a draught animal. *Kakṣīvān* = *kakṣyāvān* (Nirukta 6-10, as printed). So says the Nirukta.
+Kakṣīvān is the name of a king. The story of his origin is this: long ago the king of the Aṅga country had gone once, with his wives and maidservants, to the river Gaṅgā for water-sport. Just at that time the seer named Dīrghatamas was floating along in a boat. The seer was extremely weak, and so his wife, sons and others, [thinking] "such a weakling is not wanted by us", had put him in a boat and let it go on the Gaṅgā. The king of Aṅga, by chance, saw the seer Dīrghatamas who had come in the boat to the place where he was bathing, was greatly delighted, took him out of the boat and honoured him; and he begged him: "Sir, for a long time I have had no children. Here is this wife of mine; beget one son on her." Then the queen, seeing this seer who was extremely old, did not wish to be with him, and sent in her place a maidservant of hers named Uśik. The all-knowing great seer, sprinkling her with mantra-consecrated water, made that maidservant like the seer's wife; and she conceived. The son born in her was the seer named Kakṣīvān. He performed many sacrifices such as the Rājasūya. Indra, pleased with the sacrifices, graciously gave Kakṣīvān a young woman named Vṛcayā. The word *kakṣya* also means the rope with which a horse is tied. *Kakṣīvān* = *kakṣyāvān* (Nirukta 6-10, as printed). So says the Nirukta.
 
-The name of this Kakṣīvān is found in the following ṛks of the Ṛgveda Saṃhitā: Ṛ. Saṃ. 1-18-1; 1-51-13; 1-112-11; 1-116-7; 4-26-1; 8-9-10; 9-74-8; 10-25-10; 10-61-16 (as printed; the reader's OCR reads the same), and also in Atharvaveda 4-29-5 (the OCR shows "೪೨೯-೫", the hyphen lost). His family name must have been *Pajra*, because he is called *Pajriya* in Ṛ. Saṃ. 1-116-7 and 1-117-6 (as printed "೧-೧೧೭-೬"), and his descendants are called *Pajrāḥ* in Ṛ. Saṃ. 1-126-4. In Sūkta 1-126 of the Ṛ. Saṃ. this seer praises the gifts given to him by a king named Svanayabhāvya; and in the Sāṅkhyāyana Śrauta Sūtra 16-4-5, among the group of mantras called Nārāśaṃsa Sūktas, which praise heroes, there is also included the Dānastuti mantra on the king Svanayabhāvya made by Kakṣīvān, the son of Uśij. When he had grown old he married a maiden named Vṛcayā; this matter is described in the ṛk Ṛ. Saṃ. 1-51-13. He is said to have lived a hundred years …
+The name of this Kakṣīvān is found in the following ṛks of the Ṛgveda Saṃhitā: Ṛ. Saṃ. 1-18-1; 1-51-13; 1-112-11; 1-116-7; 1-117-6; 1-126-3; 4-26-1; 8-9-10; 9-74-8; 10-25-10; 10-61-16 (as printed; the reader's OCR reads the same), and also in Atharvaveda 4-29-5 (the OCR shows "೪೨೯-೫", the hyphen lost). His family name must have been *Pajra*, because he is called *Pajriya* in Ṛ. Saṃ. 1-116-7 and 1-117-6 (as printed "೧-೧೧೭-೬"), and his descendants are called *Pajrāḥ* in Ṛ. Saṃ. 1-126-4. In Sūkta 1-126 of the Ṛ. Saṃ. this seer praises the gifts given to him by a king named Svanayabhāvya; and in the Sāṅkhyāyana Śrauta Sūtra 16-4-5, among the group of mantras called Nārāśaṃsa Sūktas, which praise heroes, there is also included the Dānastuti mantra on the king Svanayabhāvya made by Kakṣīvān, the son of Uśij. When he had grown old he married a maiden named Vṛcayā; this matter is described in the ṛk Ṛ. Saṃ. 1-51-13. He is said to have lived a hundred years …
 
 ### Printed p. 3  (PDF 24)
 
@@ -429,7 +429,7 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 > *divo astoṣyasurasya vīrairiṣudhyeva maruto rodasyoḥ |*
 
-(Ṛ. Saṃ. 1-122-1.) In this ṛk — *asurasya nirasitavyānām asurāṇāṃ nirasituḥ | karmaṇi ṣaṣṭhī | nirasitāraṃ tam eva devaṃ (rudram)* — that is, "Rudra, who defeats the Asuras".
+(Ṛ. Saṃ. 1-12-1.) In this ṛk — *asurasya nirasitavyānām asurāṇāṃ nirasituḥ | karmaṇi ṣaṣṭhī | nirasitāraṃ tam eva devaṃ (rudram)* — that is, "Rudra, who defeats the Asuras".
 
 > शतं राज्ञो नाधमानस्य निष्काञ्छतमश्वान्प्रयतान्सद्य आदम् ।
 > शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवो जरमा ततान ॥
@@ -473,9 +473,9 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 (Ṛ. Saṃ. 2-27-10, as printed in small type; the reader's OCR reads "3-32-10", which I do not accept as it stands.) Here for *asura* the meaning is *he asura śatrūṇāṃ kṣepaka varuṇa* ("O Varuṇa, thrower down of the enemies"): "who defeats the enemies"; the word *asura* is in favour of Varuṇa.
 
-> मा नो वधैर्वरुण ये त इष्टावेनः कृण्वन्तमसुर भ्रीणन्ति [?] ।
+> मा नो वधैर्वरुण ये त इष्टावेनः कृण्वन्तमसुर भ्रीणन्ति ।
 
-> *mā no vadhairvaruṇa ye ta iṣṭāvenaḥ kṛṇvantamasura bhrīṇanti [?] |*
+> *mā no vadhairvaruṇa ye ta iṣṭāvenaḥ kṛṇvantamasura bhrīṇanti |*
 
 (Ṛ. Saṃ. 2-28-7; the last digit is doubtful.) In this ṛk too: *he asura pāpakṛtāṃ nirasitaḥ varuṇa* ("O Varuṇa, who suppress those who do wrong") — it is in favour of Varuṇa.
 
@@ -586,7 +586,7 @@ For example:
 
 ***atkaṃ vasānā*** — *rūpaṃ vasānā*: "wearing a form" — i.e. a lovely form; this word is used in many ṛks describing the Dawn (Ṛ. Saṃ. 6-29-3; 10-95-8 etc., as read, may be seen). *Sūryasya purogāminī raśmibhiḥ khalv eṣā jagad vāsayati* — Born before the Sun, with golden rays, she awakens and illumines the world — that is the sense.
 
-**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Patnīva* — *patyur no yajñasaṃyoge* (Pā. Sū. 4-1-33), the *nuk* augment and the suffix *ṅīp* in the feminine; accent by the *p* of the suffix. *Pūrvahūtim* — the root *hveñ spardhāyām* …, *striyāṃ ktin* (Pā. Sū. 3-3-94), *saṃprasāraṇa*, lengthening by *halaḥ* (Pā. Sū. 6-4-2); accusative singular. *Vavṛdhadhyai* — the root *vṛdhu vṛddhau*; the sense of the infinitive (*tumartha*) by *tumarthe sesenasen…* (Pā. Sū. 3-4-9), the suffix *kadhyai*; *āgamānuśāsanam anityam* — so the augment (*rīk* etc.) is not added to the reduplicative syllable; since the suffix begins with an acute, the *dhai* gets the acute; *kṛn mejantaḥ* (Pā. Sū. 1-1-39) — the indeclinable designation; *avyayād āp supaḥ* (Pā. Sū. 2-4-82) — *luk* of the case endings. *Uṣāsānaktā* — *uṣā ca naktaṃ ca*; *uṣasaḥ …*: *uṣasoṣasaḥ* (Pā. Sū. 6-3-31) — the substitute *uṣāsā* in the first member; *supāṃ sulug…* (Pā. Sū. 7-1-39; the OCR prints the same on pp. 20 and 27) — the ending is replaced by *ā*; *devatādvandve ca* (Pā. Sū. 6-2-41) — both members keep their own accent. (Only the sūtra names and numbers legible in the print are given.)
+**Vyākaraṇa-prakriyā (grammar page, noted briefly).** *Patnīva* — *patyur no yajñasaṃyoge* (Pā. Sū. 4-1-33), the *nuk* augment and the suffix *ṅīp* in the feminine; accent by the *p* of the suffix. *Pūrvahūtim* — the root *hveñ spardhāyām* …, *striyāṃ ktin* (Pā. Sū. 3-3-94), *saṃprasāraṇa*, lengthening by *halaḥ* (Pā. Sū. 6-4-2); accusative singular. *Vavṛdhadhyai* — the root *vṛdhu vṛddhau*; the sense of the infinitive (*tumartha*) by *tumarthe sesenasen…* (Pā. Sū. 3-4-9), the suffix *kadhyai*; *āgamānuśāsanam anityam* — so the augment (*rīk* etc.) is not added to the reduplicative syllable; since the suffix begins with an acute, the *dhai* gets the acute; *kṛn mejantaḥ* (Pā. Sū. 1-1-39) — the indeclinable designation; *avyayād āp supaḥ* (Pā. Sū. 2-4-82) — *luk* of the case endings. *Uṣāsānaktā* — *uṣā ca naktaṃ ca*; *uṣasaḥ …*: *uṣasoṣasaḥ* (Pā. Sū. 6-3-31) — the substitute *uṣāsā* in the first member; *supāṃ sulug…* (Pā. Sū. 3-1-39; the OCR prints the same on pp. 20 and 27) — the ending is replaced by *ā*; *devatādvandve ca* (Pā. Sū. 6-2-41) — both members keep their own accent. (Only the sūtra names and numbers legible in the print are given.)
 
 ### Printed p. 15  (PDF 36)
 
@@ -672,7 +672,7 @@ Ordinarily the struggle of Indra with the Asuras and with the mountains may be c
 > *adardarutsamasṛjo vi khāni tvamarṇavānbadbadhānā~ aramṇāḥ |*
 > *mahāntamindra parvataṃ vi yadvaḥ sṛjo vi dhārā ava dānavaṃ han ‖*
 
-(Ṛ. Saṃ. 5-32-1, as read in the small type; the OCR is garbled.) In this ṛk also — *"Śiśuṃ nadīnāṃ harim adribudhnam"* —
+(Ṛ. Saṃ. 5-3-1, as read in the small type; the OCR is garbled.) In this ṛk also — *"Śiśuṃ nadīnāṃ harim adribudhnam"* —
 
 > शिशुं नदीनां हरिमद्रिबुध्नमिति गिरिर्वा अद्रिर्गिरिबुध्ना ॥
 
@@ -900,7 +900,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 > *kakṣīvantaṃ ya auśijaḥ | yo devānyo 'mīvahā | vasuvitpuṣṭivardhanaḥ | sa naḥ siṣaktu yasturaḥ ‖*
 
-(Śa. Brā. 2-3-4-35, as printed; the OCR gives the same.) "Let Kakṣīvān, the son of Uśij, who is full of nourishment, a destroyer of enemies, a giver of wealth, an increaser of prosperity, be with us" — in the Śatapatha Brāhmaṇa sentences also Kakṣīvān is praised as an excellent person.
+(Śa. Brā. 2-3-4-25, as printed; the OCR gives the same.) "Let Kakṣīvān, the son of Uśij, who is full of nourishment, a destroyer of enemies, a giver of wealth, an increaser of prosperity, be with us" — in the Śatapatha Brāhmaṇa sentences also Kakṣīvān is praised as an excellent person.
 
 > याभिस्त्रिमन्तुरभवद्विचक्षणस्ताभिरूषु ऊतिभिरश्विना गतम् ।
 
@@ -940,7 +940,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 ### Printed p. 27  (PDF 48)
 
-*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 4, noted briefly).** *Tyā* — the pronoun *tyad* (the word equal in sense to *tad*); when the dual ending *au* follows, the *ā*-substitution for it by *supāṃ sulug…* (Pā. Sū. 7-1-39 as I read; the OCR reads 6-1-36 here); in *yaśasā* also the *ā*-substitution is the same. *Śvetanāyai* — by the statement *supāṃ suluk…* the dative is used in the sense of the genitive. *Vyantā* — the root *vī gativyāptiprajanakāntyasanakhādaneṣu*, of the *adādi* class; the suffix *śatṛ* in the sense of the present; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) the *luk* of *śap*; since *sārvadhātukam apit* (Pā. Sū. 1-2-4) the suffix is *ṅit*-like, no guṇa; *yaṇ* substitution; the form *vyat*; with the dual (ending) following, by *supāṃ sulug…* (Pā. Sū. 7-1-39; the OCR prints 6-1-36) the *ā* in its place; since it is *ugit*, the augment *num*, the anusvāra and the *paravarṇa*; by the suffix's first-acute accent. *Pāntā* — the root *pā pāne*; the suffix *śatṛ* in the sense of the present; when the vikaraṇa *śap* comes, *bahulaṃ chandasi* its *luk*; the word *pāt*; since *śap* has been dropped, there is no substitute *piba*; the dual *ā* as before. *Auśijaḥ* — *uśija apatyaṃ pumān auśijaḥ*; by *tasyāpatyam* (Pā. Sū. 4-1-92) the suffix *aṇ* in the sense of "descendant"; since it is *ṇit*, *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117 as read; the OCR prints 7-2-112) *vṛddhi* of the first vowel; the final udātta by the suffix accent. *Huvadhyai* — the root *hvañ spardhāyāṃ śabde ca*; with the infinitive sense by *tumarthe sesenasen…* (Pā. Sū. 3-4-9) the suffix *śadhyai*; by *bahulaṃ chandasi* *saṃprasāraṇa* of the root; *pūrvarūpa*; and because of the suffix, by *aci śnudhātubhruvām…* the *uvaṅ* substitute; by the suffix's initial acute the word is *madhyodātta*; since it ends in *e-ñ*, *kṛn mejantaḥ* (Pā. Sū. 1-1-39) it gets the indeclinable name. *Napātam* — *na pāt napāt*; *pāt* is a *śatṛ*-ending; in the negative compound, *nabhrāṇ napāt…* (Pā. Sū. 6-3-5): the *n* is not elided, as an irregular form; by *tatpuruṣe tulyārthā…* (Pā. Sū. 6-2-2) the accent of the first member in an indeclinable-prefixed compound; accusative singular. *Apām* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. (Only the sūtra names and numbers legible in the print are given.)
+*(Header: "Aṣṭaka 2, Adhyāya 1, Varga 1".)* **Vyākaraṇa-prakriyā (grammar page, Ṛk 4, noted briefly).** *Tyā* — the pronoun *tyad* (the word equal in sense to *tad*); when the dual ending *au* follows, the *ā*-substitution for it by *supāṃ sulug…* (Pā. Sū. 7-1-39 as I read; the OCR reads 6-1-36 here); in *yaśasā* also the *ā*-substitution is the same. *Śvetanāyai* — by the statement *supāṃ suluk…* the dative is used in the sense of the genitive. *Vyantā* — the root *vī gativyāptiprajanakāntyasanakhādaneṣu*, of the *adādi* class; the suffix *śatṛ* in the sense of the present; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72) the *luk* of *śap*; since *sārvadhātukam apit* (Pā. Sū. 1-2-4) the suffix is *ṅit*-like, no guṇa; *yaṇ* substitution; the form *vyat*; with the dual (ending) following, by *supāṃ sulug…* (Pā. Sū. 7-1-36; the OCR prints 6-1-36) the *ā* in its place; since it is *ugit*, the augment *num*, the anusvāra and the *paravarṇa*; by the suffix's first-acute accent. *Pāntā* — the root *pā pāne*; the suffix *śatṛ* in the sense of the present; when the vikaraṇa *śap* comes, *bahulaṃ chandasi* its *luk*; the word *pāt*; since *śap* has been dropped, there is no substitute *piba*; the dual *ā* as before. *Auśijaḥ* — *uśija apatyaṃ pumān auśijaḥ*; by *tasyāpatyam* (Pā. Sū. 4-1-92) the suffix *aṇ* in the sense of "descendant"; since it is *ṇit*, *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-112 as read; the OCR prints 7-2-112) *vṛddhi* of the first vowel; the final udātta by the suffix accent. *Huvadhyai* — the root *hvañ spardhāyāṃ śabde ca*; with the infinitive sense by *tumarthe sesenasen…* (Pā. Sū. 3-4-9) the suffix *śadhyai*; by *bahulaṃ chandasi* *saṃprasāraṇa* of the root; *pūrvarūpa*; and because of the suffix, by *aci śnudhātubhruvām…* the *uvaṅ* substitute; by the suffix's initial acute the word is *madhyodātta*; since it ends in *e-ñ*, *kṛn mejantaḥ* (Pā. Sū. 1-1-39) it gets the indeclinable name. *Napātam* — *na pāt napāt*; *pāt* is a *śatṛ*-ending; in the negative compound, *nabhrāṇ napāt…* (Pā. Sū. 6-3-75): the *n* is not elided, as an irregular form; by *tatpuruṣe tulyārthā…* (Pā. Sū. 6-2-2) the accent of the first member in an indeclinable-prefixed compound; accusative singular. *Apām* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. (Only the sūtra names and numbers legible in the print are given.)
 
 ### Printed p. 28  (PDF 49)
 
@@ -984,7 +984,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 **Special topics (Viśeṣaviṣayagaḷu), Ṛk 5.**
 
-***ghoṣā*** — She is known as the daughter of Kakṣīvān, and as the seer of the Sūktas 39–40 of the tenth Maṇḍala (as printed and as read by the OCR: "೧೦-೩೯, ೪೦"), and also as their composer [*nirmātrī*]. To cure the skin disease of her own, she prayed to the Aśvin deities, got their help, and, as is suggested here, this Sūkta's seer also, in the same way, begs for their grace by praising those deities. The occasion on which the woman Ghoṣā obtained help from the Aśvin deities is told in this way in the Bṛhaddevatā:
+***ghoṣā*** — She is known as the daughter of Kakṣīvān, and as the seer of the Sūktas 29-40 and 41 of the tenth Maṇḍala (as printed and as read by the OCR: "೧೦-೩೯, ೪೦"), and also as their composer [*nirmātrī*]. To cure the skin disease of her own, she prayed to the Aśvin deities, got their help, and, as is suggested here, this Sūkta's seer also, in the same way, begs for their grace by praising those deities. The occasion on which the woman Ghoṣā obtained help from the Aśvin deities is told in this way in the Bṛhaddevatā:
 
 ### Printed p. 30  (PDF 51)
 
@@ -992,8 +992,8 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 > आसीत्काक्षीवती घोषा पापरोगेण दुर्भगा ।
 > उवास षष्टिं वर्षाणि पितुरेव गृहे पुरा ॥
-> अतस्थी [?] महतीं चिन्तां न पुत्रो न पतिर्मम ।
-> जरां प्राप्स्या [?] मुधा तस्मात्प्रपद्येऽहं शुभस्पती ॥
+> अतस्थे महतीं चिन्तां न पुत्रो न पतिर्मम ।
+> जरां प्राप्ता मुधा तस्मात्प्रपद्येऽहं शुभस्पती ॥
 > यथैतौ मामकस्तात आराध्यावाप यौवनम् ।
 > आयुरारोग्यमैश्वर्यं सर्वभूतहने विषम् ॥
 > रूपवत्त्वं च सौभाग्यमहं तस्य सुता यदि ।
@@ -1007,8 +1007,8 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 > *āsītkākṣīvatī ghoṣā pāparogeṇa durbhagā |*
 > *uvāsa ṣaṣṭiṃ varṣāṇi pitureva gṛhe purā ‖*
-> *atasthī [?] mahatīṃ cintāṃ na putro na patirmama |*
-> *jarāṃ prāpsyā [?] mudhā tasmātprapadye 'haṃ śubhaspatī ‖*
+> *atasthe mahatīṃ cintāṃ na putro na patirmama |*
+> *jarāṃ prāptā mudhā tasmātprapadye 'haṃ śubhaspatī ‖*
 > *yathaitau māmakastāta ārādhyāvāpa yauvanam |*
 > *āyurārogyamaiśvaryaṃ sarvabhūtahane viṣam ‖*
 > *rūpavattvaṃ ca saubhāgyamahaṃ tasya sutā yadi |*
@@ -1043,7 +1043,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 2".)* …in ṛks such as these this word is used in the sense of "whiteness" (brightness). It is also a proper name, the name of a person [not the Arjuna of the Purāṇa]. In the ṛk in hand Sāyaṇa has explained it as the name of a disease (leucoderma). It is said that by the grace of the Aśvin deities this disease was destroyed.
 
-**Vyākaraṇa-prakriyā (grammar page, Ṛk 5, noted briefly).** *Śaṃsam* — the root *śaṃsu stutau*, the suffix *ghañ*; the initial acute by *ñnityādir nityam* (Pā. Sū. 6-1-197, as the OCR reads it); accusative singular. *Naṃśe* — the root *naś adarśane*, *divādi*; the suffix *kvip* by *kviṣ ca* (Pā. Sū. 3-2-76); the *num* augment in the Vedic usage; dative singular. *Pūṣṇe* — the root *pūṣa vṛddhau*, with the suffix *kani* (*śvanukṣan pūṣan…*, Uṇ. Sū. 1-157); in the dative singular the loss of the *a* of *ani* by *alopo 'naḥ*; *anudāttasya yadudāttalopaḥ* (Pā. Sū. 6-1-161), the ending takes the acute. *Ā accha* — by *ākārasyānunāsikaś chandasi* (Pā. Sū. 6-1-126) the *ā* before … gets the nasal in the Chandas, with *prakṛtibhāva* — so no lengthening. *Vocheya* — *accha abhimukhyagamanena voceya*, "I would say, I praise"; the root *vac paribhāṣaṇe*; *liṅ*, 1st person singular, the suffix *iṭ* (Pā. Sū. 3-4-106 *iṭo 't*) with the *a*-substitution; *liṅyāśiṣy aṅ* (Pā. Sū. 3-1-86); *vaca um* (Pā. Sū. 7-4-20); *liṇaḥ sīyuṭ* (Pā. Sū. 3-4-102); the form *voceya*; after an *atiṅanta* the *nighāta* (Pā. Sū. 8-1-28, the OCR has "8-1-8"); for *accha*, *nipātasya ca* (Pā. Sū. 6-3-136). *Vasutātim* — *sarvadevāt tātil* (Pā. Sū. 4-4-143), by *vyatyaya* also after *vasu*; since the suffix is *lit*, by *lity…* (Pā. Sū. 6-1-193) the acute. *Agneḥ* — the root *agi gatau*; *aṅgerner lopaś ca* (Uṇ. Sū. 4-490, as the OCR reads it) the suffix *ni*; *idito num dhātoḥ*, the *num* augment; its *n* is dropped; final udātta by the suffix accent; genitive singular. ‖ 5 ‖
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 5, noted briefly).** *Śaṃsam* — the root *śaṃsu stutau*, the suffix *ghañ*; the initial acute by *ñnityādir nityam* (Pā. Sū. 6-1-197, as the OCR reads it); accusative singular. *Naṃśe* — the root *naś adarśane*, *divādi*; the suffix *kvip* by *kviṣ ca* (Pā. Sū. 3-2-76); the *num* augment in the Vedic usage; dative singular. *Pūṣṇe* — the root *pūṣa vṛddhau*, with the suffix *kani* (*śvanukṣan pūṣan…*, Uṇ. Sū. 1-157); in the dative singular the loss of the *a* of *ani* by *alopo 'naḥ*; *anudāttasya yadudāttalopaḥ* (Pā. Sū. 6-1-161), the ending takes the acute. *Ā accha* — by *ākārasyānunāsikaś chandasi* (Pā. Sū. 6-1-126) the *ā* before … gets the nasal in the Chandas, with *prakṛtibhāva* — so no lengthening. *Vocheya* — *accha abhimukhyagamanena voceya*, "I would say, I praise"; the root *vac paribhāṣaṇe*; *liṅ*, 1st person singular, the suffix *iṭ* (Pā. Sū. 3-4-106 *iṭo 't*) with the *a*-substitution; *liṅyāśiṣy aṅ* (Pā. Sū. 3-1-86); *vaca um* (Pā. Sū. 7-4-20); *liṇaḥ sīyuṭ* (Pā. Sū. 3-4-102); the form *voceya*; after an *atiṅanta* the *nighāta* (Pā. Sū. 8-1-28, the OCR has "8-1-8"); for *accha*, *nipātasya ca* (Pā. Sū. 6-3-136). *Vasutātim* — *sarvadevāt tātil* (Pā. Sū. 4-4-143), by *vyatyaya* also after *vasu*; since the suffix is *lit*, by *lity…* (Pā. Sū. 7-1-193) the acute. *Agneḥ* — the root *agi gatau*; *aṅgerner lopaś ca* (Uṇ. Sū. 4-490, as the OCR reads it) the suffix *ni*; *idito num dhātoḥ*, the *num* augment; its *n* is dropped; final udātta by the suffix accent; genitive singular. ‖ 5 ‖
 
 #### Ṛk 6
 

@@ -50,3 +50,24 @@
 |---|---|---|
 | 302 | `दर्शनादतिथिमिव सर्वदा आगन्तारं` → `दर्शादितिथिमपेक्ष्यागंतारं` | SECOND-PASS S13: Kannada p. 302 reads ದರ್ಶಾದಿತಿಥಿಮಪೇಕ್ಷ್ಯಾಗಂತಾರಂ (ನಾ; the English vā kept); p. 304 quotes the same words |
 | 308 | `सहेर्लौकिकादिकः [?]` → `सहेरौणादिकः` | SECOND-PASS Q1: Kannada p. 307 reads ಸಹೇರೌಣಾದಿಕಃ ಕನಿನ್ |
+
+### 2026-11-27 second pass, batch e2-31.tsv
+| page | old → new | why |
+|---|---|---|
+| 2 | `1-116-7; 4-26-1` → `1-116-7; 1-117-6; 1-126-3; 4-26-1` | SECOND-PASS S3: Kannada p.2 lists ೧-೧೧೬-೭; ೧-೧೧೭-೬; ೧-೧೨೬-೩; ೪-೨೬-೧ (two references missing in English) |
+| 2 | `the strap that is tied to a draught animal` → `the rope with which a horse is tied` | SECOND-PASS S14: Kannada p.2 ಕುದುರೆಯನ್ನು ಕಟ್ಟುವ ಹಗ್ಗ (rope for tying a horse) |
+| 8 | `(Ṛ. Saṃ. 1-122-1.)` → `(Ṛ. Saṃ. 1-12-1.)` | SECOND-PASS S2: Kannada p.8 (ಋ. ಸಂ. ೧-೧೨-೧); numbers from the Kannada as printed |
+| 14 | `(Pā. Sū. 7-1-39; the OCR prints the same` → `(Pā. Sū. 3-1-39; the OCR prints the same` | SECOND-PASS S2: Kannada p.14 supāṃ sulug (ಪಾ. ಸೂ. ೩-೧-೩೯) |
+| 18 | `Ṛ. Saṃ. 5-32-1` → `Ṛ. Saṃ. 5-3-1` | SECOND-PASS S2: Kannada p.18 (ಋ. ಸಂ. ೫-೩-೧) |
+| 25 | `2-3-4-35` → `2-3-4-25` | SECOND-PASS S2: Kannada p.25 (ಶ. ಬ್ರಾ. ೨-೩-೪-೨೫) |
+| 27 | `(Pā. Sū. 7-1-39; the OCR prints 6-1-36)` → `(Pā. Sū. 7-1-36; the OCR prints 6-1-36)` | SECOND-PASS S2: Kannada p.27 vyat dual: ಪಾ. ಸೂ. ೭-೧-೩೬ |
+| 27 | `7-2-117 as read` → `7-2-112 as read` | SECOND-PASS S2: Kannada p.27 ಪಾ. ಸೂ. ೭-೨-೧೧೨ (taddhiteṣv acām ādeḥ) |
+| 27 | `(Pā. Sū. 6-3-5)` → `(Pā. Sū. 6-3-75)` | SECOND-PASS S2: Kannada p.27 ನಭ್ರಾಣ್ನಪಾತ್ (ಪಾ. ಸೂ. ೬-೩-೭೫) |
+| 29 | `Sūktas 39–40 of the tenth Maṇḍala` → `Sūktas 29-40 and 41 of the tenth Maṇḍala` | SECOND-PASS S2: Kannada p.29 ಹತ್ತನೇ ಮಂಡಲದಲ್ಲಿ ೨೯-೪೦ ಮತ್ತು ೪೧ನೇ ಸೂಕ್ತಗಳ; applied as printed, listed in open.tsv |
+| 31 | `(Pā. Sū. 6-1-193)` → `(Pā. Sū. 7-1-193)` | SECOND-PASS S2: Kannada p.31 (ಪಾ. ಸೂ. ೭-೧-೧೯೩) |
+| 9 | `भ्रीणन्ति [?] ।` → `भ्रीणन्ति ।` | SECOND-PASS Q1: Kannada p.9 reads ಭ್ರೀಣಂತಿ ।, agrees with English; mark dropped |
+| 9 | `bhrīṇanti [?] |` → `bhrīṇanti |` | SECOND-PASS Q1: Kannada p.9 reads ಭ್ರೀಣಂತಿ ।, agrees with English; mark dropped |
+| 30 | `अतस्थी [?] महतीं` → `अतस्थे महतीं` | SECOND-PASS Q1: Kannada p.30 reads ಅತಸ್ಥೇ ಮಹತೀಂ ಚಿಂತಾಂ |
+| 30 | `atasthī [?] mahatīṃ` → `atasthe mahatīṃ` | SECOND-PASS Q1: Kannada p.30 reads ಅತಸ್ಥೇ ಮಹತೀಂ ಚಿಂತಾಂ |
+| 30 | `प्राप्स्या [?] मुधा` → `प्राप्ता मुधा` | SECOND-PASS Q1: Kannada p.30 reads ಜರಾಂ ಪ್ರಾಪ್ತಾ ಮುಧಾ |
+| 30 | `prāpsyā [?] mudhā` → `prāptā mudhā` | SECOND-PASS Q1: Kannada p.30 reads ಜರಾಂ ಪ್ರಾಪ್ತಾ ಮುಧಾ |
