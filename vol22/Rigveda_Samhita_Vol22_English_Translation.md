@@ -23677,6 +23677,263 @@ The paths that lead to the gods are beheld by me, innocuous and glorious with li
 
 "O Ushas, those very radiances of yours were many days, since the time called day is spoken of only as having the light of dawn. Which are 'those'? Those which, when the sun has risen, rise one after another toward his eastern region. Or else: those which rose one after another in the eastern region of the sun. O Ushas, by which radiances you are seen, जार इव (*jāra iva*), like a faithful woman moving near her husband, you are seen moving about near the sun, the 'waster' (जार (*jāra*)) of night. As in the world a faithful woman moves about without abandoning her husband even if he is bad and roving, so you, not leaving him…
 
+### Printed p. 571
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यर्थः । न पुनर्यतीव यती पतिं परित्यज्येतस्ततः संचरंती व्यभिचारिणीव सूर्यमपरित्यजंती त्वं । पुनरित्ययं वैलक्षण्यद्योतनार्थः । एवं यैस्तेजोभिर्युक्ता परिदृश्यसे तान्येवाहान्यासन्निति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The sense continues from the previous block. Uṣas is seen like a faithful wife who walks about near her husband. She is not like one who leaves her husband and goes off elsewhere, an unfaithful woman. In the same way Uṣas does not abandon the Sun. The word पुनः (*punaḥ*) ("again") is used to mark the difference between the two cases. The connection is then stated. Those very days were many, on which she is seen all around, endowed with those radiances.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- या (*yā*)—those radiances of yours which
+- सूर्यस्य (*sūryasya*)—of the Sun
+- उदिता (*uditā*)—at the time of rising
+- प्राचीनं (*prācīnaṃ*)—resort to the eastern quarter
+- तानीत् (*tānīt*)—those very radiances
+- बहुलानि अहानि (*bahulāni ahāni*)—on many days
+- आसन् (*āsan*)—have appeared
+- जार इव आचरंती (*jāra iva ācaraṃtī*)—as a faithful wife behaves toward her husband
+- यतः (*yataḥ*)—by those same radiances of yours
+- परि ददृक्षे (*pari dadṛkṣe*)—you are seen all around the Sun
+- न पुनः यतीव (*na punaḥ yatīva*)—you do not behave like a woman who leaves her husband and goes elsewhere
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, those radiances of yours which resort to the eastern quarter when the Sun rises have appeared on many days. Joined with those same radiances, you are seen all around the Sun, as a faithful wife behaves toward her husband. You do not behave like a wicked woman who abandons her husband and goes to another man.
+
+##### English translation
+Many are the days that have dawned before the rising of the sun, on which you, Ushas, have been beheld like a wife repairing to an inconstant husband, and not like one deserting him.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त इद्दे॒वानां॑ सध॒माद॑ आसन्नृ॒तावा॑नः क॒वयः॑ पू॒र्व्यासः॑ ।  
+> गू॒ळ्हं ज्योतिः॑ पि॒तरो॒ अन्व॑विंदन्स॒त्यमं॑त्रा अजनयन्नु॒षासं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । इत् । देवानां । सधऽमादः । आसन् । ऋतऽवानः । कवयः । पूर्व्यासः ।  
+> गूळ्हं । ज्योतिः । पितरः । अनु । अविंदन् । सत्यऽमंत्राः । अजनयन् । उषसं ॥४॥
+
+### Printed p. 572
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त इत्यंगिरस एवर्षीणां मध्ये देवानां सधमादः सह माद्यंत आसन् ।
+> अभवन् । त इत्युक्तं क इत्याह । य ऋतावानः सत्यवंतः कवयोऽनूचानाः । ये वा अनूचानास्ते कवयः । ऐ ब्रा. २-३७ । इति श्रुतेः । पूर्वासः पूर्वकालीनाः
+> पितरः पालयितारः सर्वस्यांगिरसो गूळ्हं तमसावृतं ज्योतिः सौर्यं तेजोऽन्व-विंदन् लब्धवंतो मंत्रसामर्थ्यात् ते सत्यमंत्राः सत्यस्तुतयः संत उषासमु-षसमजनयन् । प्रादुरकुर्वन् । तुरीयेण ब्रह्मणाविंददत्रिः । ऋ. ५-४०-६ ।
+> अत्रयस्तमन्वविंदन् । ऋ. ५-४०-९ । इति निगमौ । अत्रांगिरसां स्तुत्योषस एव
+> स्तुतिर्ज्ञातव्या ॥
+
+##### Gist of the bhāṣya
+
+"They" are the Aṅgirases themselves, who among the seers rejoiced together with the gods. Who are they? They are the truthful ones, the कवयः (*kavayaḥ*) ("sages"), who are reciters of hymns *anūcānāḥ*. Sāyaṇa supports this with the Śruti text (Ai. Brā. 2-37) that those who are anūcānas are kavis. पूर्व्यासः (*pūrvyāsaḥ*) means those of former times. They are the पितरः (*pitaraḥ*), protectors of all. By the power of their mantras they obtained the Sun's light, hidden and enveloped in darkness. Having true praises, they brought forth Uṣas, that is, made her appear. Two Nigama passages are cited: Ṛ. 5-40-6 and Ṛ. 5-40-9. Here the praise of Uṣas is to be understood as the praise intended for the Aṅgirases.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावानः (*ṛtāvānaḥ*)—truthful
+- कवयः (*kavayaḥ*)—wise
+- पूर्वासः (*pūrvāsaḥ*)—born in former times
+- पितरः (*pitaraḥ*)—protectors, the Aṅgirases who
+- गूळ्हं (*gūḷhaṃ*)—hidden by darkness
+- ज्योतिः (*jyotiḥ*)—the light of the Sun
+- अन्वविंदन् (*anvaviṃdan*)—obtained
+- त इत् (*ta it*)—they themselves
+- देवानां (*devānāṃ*)—with the gods
+- सधमादः (*sadhamādaḥ*)—rejoicing together
+- आसन् (*āsan*)—have been
+- सत्यमंत्राः (*satyamaṃtrāḥ*)—those very ones, who have mantras of true nature
+- उषसं (*uṣasaṃ*)—Uṣas also
+- अजनयन् (*ajanayan*)—brought forth
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, who are truthful, wise, born in former times and protectors, obtained the light of the Sun that was hidden by darkness. They themselves rejoice together with the gods. Having mantras of true nature, they also brought forth Uṣas.
+
+##### English translation
+Those ancient sages, our ancestors, observant of truth, rejoicing together with the gods, discovered the hidden light, and, reciters of sincere prayers, they generated the dawn.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒न ऊ॒र्वे अधि॒ संग॑तासः॒ सं जा॑नते॒ न य॑तंते मि॒थस्ते ।  
+> ते दे॒वानां॒ न मि॑नंति व्र॒तान्यम॑र्धंतो॒ वसु॑भि॒र्याद॑मानाः ॥ ५ ॥
+
+### Printed p. 573
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समाने । ऊर्वे । अधि । संगतासः । सं । जानते । न । यतंते । मिथः । ते ।  
+> ते । देवानां । न । मिनंति । व्रतानि । अमर्धंतः । वसुभिः । यादमानाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समाने सर्वेषां साधारणे ऊर्वे गोसमूहे पणिभिरपहृते पुनर्लब्धव्ये सति । अधीत्यनर्थकः । संगतासो मिलिताः संतस्ते सं जानते । एकबुद्धयो भवंति । न मिथः परस्परं यतंते । सहैव साधनमनुतिष्ठंतीत्यर्थः । तेंगिरसो देवानां
+> व्रतानि कर्माणि यागलक्षणानि न मिनंति । न हिंसंति । किंतु परिपालयंतीत्यर्थः ।
+> किं कुर्वंतः । अमर्धंतोऽहिंसंतो वसुभिर्वाक्यैरुषसां तेजोऽभिर्यादमाना
+> गच्छंतः ॥
+
+##### Gist of the bhāṣya
+
+"In the common ऊर्वे (*ūrve*)" means in the herd of cattle common to all, which had been carried off by the Paṇis and was to be recovered. अधि (*adhi*) has no meaning of its own here. Having assembled, they agree, that is, they become of one mind. They do not strive against one another but undertake the means together. Those Aṅgirases do not injure the gods' rites, which are of the nature of sacrifice, but protect them. How do they do so? Without injuring, going with the *abhirvasubhiḥ* ("riches") of the Uṣases, that is, with their radiance. Sāyaṇa also gives *vākyaiḥ* ("with words") as a gloss of वसुभिः (*vasubhiḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समाने (*samāne*)—common to all
+- ऊर्वे (*ūrve*)—when the herd of cattle was recovered
+- ते (*te*)—the Aṅgirases
+- संगतासः (*saṃgatāsaḥ*)—having assembled
+- सं जानते (*saṃ jānate*)—became of one mind
+- मिथः (*mithaḥ*)—mutually
+- न यतंते (*na yataṃte*)—made no opposing effort
+- अमर्धंतः (*amardhaṃtaḥ*)—without injuring
+- वसुभिः (*vasubhiḥ*)—with their radiances
+- यादमानाः (*yādamānāḥ*)—proceeding
+- ते (*te*)—they
+- देवानां (*devānāṃ*)—of the gods
+- व्रतानि (*vratāni*)—the sacrificial rites that worship the gods
+- न मिनंति (*na minaṃti*)—do not injure
+
+##### भावार्थ (Bhāvārtha)
+
+When the herd of cattle common to all was recovered, the Aṅgirases assembled and became of one mind. They made no effort against one another. Without injuring, they went forward with their radiances and proceeded without harming the sacrificial rites that worship the gods.
+
+##### English translation
+When the common herd (of cattle had been stolen), then, associating they concurred, nor mutually contended : they obstructed not the sacrifices of the gods, but, unoffending, proceeded with the light (they had recovered).
+
+### Printed p. 574
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ त्वा॒ स्तोमै॑रीळते॒ वसि॑ष्ठा उष॒र्बुधः॑ सुभगे तुष्टु॒वांसः॑ ।  
+> गवां॑ ने॒त्री वाज॑पत्नी न उ॒च्छोषः॑ सुजाते प्रथ॒मा ज॑रस्व ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । त्वा । स्तोमैः । ईळते । वसिष्ठाः । उषःबुधः । सुभगे । तुस्तुऽवांसः ।  
+> गवां । नेत्री । वाजपत्नी । नः । उच्छ । उषः । सुजाते । प्रथमा । जरस्व ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुभगे देव्युषः त्वा त्वामुषर्बुध उषसि बुध्यंत इत्युषर्बुधः तुष्टुवांसः स्तुवंतो
+> वसिष्ठाः स्तोमैः स्तोत्रैरीळते । स्तुवंति । गवां नेत्री प्रापयित्री वाजपत्न्यन्नस्य
+> पालयित्री । अन्नदात्रीत्यर्थः । ईदृशी त्वं नोऽस्मदर्थमुच्छ । विभाहि । हे उषः
+> सुजाते सुप्रादुर्भावे प्रथमेतरदेवेभ्यो मुख्यभूता जरस्व ॥
+
+##### Gist of the bhāṣya
+
+O auspicious goddess Uṣas, the Vasiṣṭhas, who awake at dawn (उषर्बुधः (*uṣarbudhaḥ*), those who wake in Uṣas) and who praise you, glorify you with hymns of praise. You are the conductress of cattle, that is, you bring them, and the protectress of food (वाजपत्नी (*vājapatnī*)), that is, the giver of food. Being such, shine for us. O well-born Uṣas, of good manifestation, be foremost, chief among the other gods, and shine forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभगे (*subhage*)—O auspicious goddess Uṣas
+- उषर्बुधः (*uṣarbudhaḥ*)—those who awake at the time of dawn
+- तुष्टुवांसः (*tuṣṭuvāṃsaḥ*)—and who praise you
+- वसिष्ठाः (*vasiṣṭhāḥ*)—the Vasiṣṭha seers
+- त्वा (*tvā*)—you
+- स्तोमैः (*stomaiḥ*)—with hymns of praise
+- ईळते (*īḷate*)—praise
+- गवां (*gavāṃ*)—cattle
+- नेत्री (*netrī*)—you who bring
+- वाजपत्नी (*vājapatnī*)—and who are protectress of food
+- नः (*naḥ*)—for us
+- उच्छ (*uccha*)—shine
+- सुजाते (*sujāte*)—you of excellent birth
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- प्रथमा (*prathamā*)—being chief among all the gods
+- जरस्व (*jarasva*)—shine forth
+
+##### भावार्थ (Bhāvārtha)
+
+O auspicious goddess Uṣas, the Vasiṣṭha seers, who awake at dawn and praise you, extol you with hymns. You bring cattle and protect food; shine for us. O Uṣas of excellent birth, be chief among all the gods and shine forth.
+
+### Printed p. 575
+
+##### English translation
+Auspicious Ushas, the Vasishthas, waking at dawn, and praising you, glorify you with hymns: Ushas, who are the conductress of the cattle (to pasture), the bestower of food, dawn upon us: shine, well-born Ushas, the first (of the gods):
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा ने॒त्री राध॑सः सू॒नृता॑नामु॒षा उ॒च्छंती॑ रिभ्यते॒  ॑
+> वसि॑ष्ठैः ।  
+> दी॒र्घ॒श्रुतं॑ र॒यिम॒स्मे दधा॑ना यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । नेत्री । राधसः । सूनृतानां । उषाः । उच्छंती । रिभ्यते । वसिष्ठैः ।  
+> दीर्घश्रुतं । रयिं । अस्मे इति । दधाना । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषा राधसः स्तोतॄणां सूनृतानां स्तुतीनां नेत्री सत्युच्छंती तमो
+> विवासयंती वसिष्ठैर्वसिष्ठगोत्रोत्पन्नैरिभ्यते । स्तूयते । दीर्घश्रुतं दीर्घेश्रूयमाणं सर्वत्र प्रसिद्धं रयिं धनमस्मे अस्मासु दधाना धारयंती ॥
+
+##### Gist of the bhāṣya
+
+This Uṣas is the conductress of the offerings (राधसः (*rādhasaḥ*)) and of the सूनृतानां (*sūnṛtānāṃ*), the praises of the worshippers. While dawning, that is, driving away the darkness, she is praised by the Vasiṣṭhas, those born in the Vasiṣṭha lineage. She bestows on us wealth that is far-famed, heard of far and wide and renowned everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा उषाः (*eṣā uṣāḥ*)—this goddess Uṣas
+- राधसः (*rādhasaḥ*)—of the worshipper
+- सूनृतानां (*sūnṛtānāṃ*)—of the excellent praises
+- नेत्री (*netrī*)—being the guide
+- उच्छंती (*ucchaṃtī*)—and driving away darkness
+- दीर्घश्रुतं (*dīrghaśrutaṃ*)—renowned even in very distant lands
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—in us
+- दधाना (*dadhānā*)—and filling us with it
+- वसिष्ठैः (*vasiṣṭhaiḥ*)—by those of the Vasiṣṭha family
+- रिभ्यते (*ribhyate*)—is praised
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 576
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess Uṣas is guide to the worshipper's excellent praises, drives away the darkness, and fills us with wealth renowned even in very distant lands; she is praised by those of the Vasiṣṭha family. O gods, protect us always with blessings.
+
+##### English translation
+Ushas, the object of the sincere praises of the worshipper, is glorified when dawning, by the Vasishthas bestowing upon us far-famed riches: do you (gods), ever cherish us with blessings.
+
+## Sūkta 77 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषो रुरुच इति षडृचं सप्तमं सूक्तं वसिष्ठस्यार्षमौषसं । तथा चानुक्रांतं । उषो रुरुचे षडिति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning उषो रुरुचे (*uṣo ruruce*) has six ṛks and is the seventh sūkta. It is the Vasiṣṭha seer's, and its deity is Uṣas. The Anukramaṇī says: उषो रुरुचे षडिति (*uṣo ruruce ṣaḍiti*). Its viniyoga has already been stated for the Prātaranuvāka and the Āśvinaśastra.
+
+##### Anuvāda
+
+This sūkta beginning उषो रुरुचे (*uṣo ruruce*) is the seventh sūkta in the fifth anuvāka. It has six ṛks. Vasiṣṭha is the seer of this sūkta, Uṣas is the deity, and the metre is Triṣṭubh. In the Anukramaṇī it is stated as उषो रुरुचे (*uṣo ruruce*). It has already been said earlier that the sūkta is employed for the Prātaranuvāka and the Āśvinaśastra mantras.
+
+Sūkta 77. Maṇḍala 7; Anuvāka 5; Sūkta 77. Aṣṭaka 5; Adhyāya 5; Varga 24. Number of ṛks in the sūkta: 6. Seer: Vasiṣṭha. Deity: Uṣas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उषो॑ रुरुचे युव॒तिर्न योषा॒ विश्वं॑ जी॒वं प्र॑सु॒वंती॑  ॒॑
+> च॒रायै॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 570. pp. 565-570 (batch API)
+**Progress note:** Done through printed p. 576. pp. 571-576 (batch API)
