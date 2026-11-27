@@ -1,1 +1,2 @@
 - 2026-11-27: rig_13.md: 21 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
+- 2026-11-27: Vol 13 w0073: 'your "ūti"s,' removed and '"vāja"s' replaced by the copy ⟦ವಾಜಾಃ⟧ from kn.md (Sanskrit typed in Latin letters).
