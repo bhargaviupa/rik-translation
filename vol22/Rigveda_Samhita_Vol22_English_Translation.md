@@ -12637,6 +12637,239 @@ Those, Indra and the Ṛbhus, overcome the many hostile armies शासा (*ś
 ##### English translation
 They verily, (Indra and the Ribhus), overcome multitudes by their prowess : they overcome all enemies in the missile conflict : may Indra, Vibwan Ribhukshin and Vaja, the subduers of foes, annihilate by their wrath the strength of the enemy.
 
+### Printed p. 289
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू दे॑वासो॒ वरि॑वः कर्तना नो भू॒त नो॒ विश्वेऽव॑से स॒जोषाः॑ ।  
+> सम॒स्मे इषं॒ वस॑वो ददीरन्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । देवासः । वरिवः । कर्तन । नः । भूत । नः । विश्वे । अवसे । सजोषाः ।  
+> सं । अस्मे इति । इषं । वसवः । ददीरन् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवा द्योतमाना ऋभवः यूयं न्वद्य नोऽस्मभ्यं वरिवो धनं कर्तन । कुरुत । प्रयच्छत । तथा विश्वे सर्व ऋभवो यूयं सजोषाः सह प्रीयमाणाः संतो नोऽस्माकमवसे रक्षणाय भूत । भवत । अपि च वसवः प्रशस्या ऋभव इषमन्नमस्मे अस्मभ्यं सं ददीरन् । सं प्रयच्छेयुः । हे ऋभवः यूयमस्मान् सर्वदा कल्याणै रक्षत ॥
+
+##### Gist of the bhāṣya
+
+O shining Ṛbhus, now grant us wealth (वरिवः (*varivaḥ*) means wealth); and all of you, being pleased together, be for our protection. Further, may the praiseworthy Ṛbhus (वसवः (*vasavaḥ*)) bestow food upon us. O Ṛbhus, protect us always with blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O Ṛbhus, divine in nature
+- नु (*nu*)—now
+- नः (*naḥ*)—to us
+- वरिवः (*varivaḥ*)—wealth
+- कर्तन (*kartana*)—provide
+- विश्वे (*viśve*)—all of you
+- सजोषाः (*sajoṣāḥ*)—being together delighted
+- नः (*naḥ*)—our
+- अवसे (*avase*)—for protection
+- भूत (*bhūta*)—resolve to be
+- वसवः (*vasavaḥ*)—the praiseworthy Ṛbhus
+- इषं (*iṣaṃ*)—food
+- अस्मे (*asme*)—to us
+- सं ददीरन् (*saṃ dadīran*)—may they provide and give
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, divine in nature, provide us with wealth. May all of you be together delighted. Be our protectors. May the praiseworthy Ṛbhus provide us with food. O gods, protect us always with blessings.
+
+##### English translation
+Grant us, deities, this day opulence : may you all, well pleased alike, be (ready) for our protection : may the exalted (Ribhus) bestow upon us food : and do you (all) ever cherish us with blessings.
+
+### Printed p. 290
+## Sūkta 49 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रज्येष्ठा इति चतुर्ऋचं षोडशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमब्देवताकं । तथा चानुक्रांतं । समुद्रज्येष्ठा आपमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta समुद्रज्येष्ठाः (*samudrajyeṣṭhāḥ*) has four Ṛks and is the sixteenth sūkta. Its seer is Vasiṣṭha, its deity the Waters, its metre Triṣṭubh. The Anukramaṇī says: समुद्रज्येष्ठा आपमिति (*samudrajyeṣṭhā āpamiti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning समुद्रज्येष्ठाः (*samudrajyeṣṭhāḥ*) is the sixteenth sūkta in the third anuvāka. It has four Ṛks. For this sūkta Vasiṣṭha is the seer; Āpaḥ (the waters) is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said: समुद्रज्येष्ठा आपं (*samudrajyeṣṭhā āpaṃ*). The viniyoga was stated earlier.
+
+Sūkta—49
+Maṇḍala 7; Anuvāka 3; Sūkta 49.
+Aṣṭaka 5; Adhyāya 4; Varga 16.
+Number of Ṛks in the sūkta—4.
+Seer: Vasiṣṭha.
+Deity: Āpaḥ.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रज्ये॑ष्ठाः सलि॒लस्य॒ मध्या॑त्पुना॒ना यं॒त्यनि॑विशमानाः ।  
+> इंद्रो॒ या व॒ज्री वृ॑ष॒भो र॒राद॒ ता आपो॑ दे॒वीरि॒ह माम॑वंतु ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रज्येष्ठाः । सलिलस्य । मध्यात् । पुनानाः । यंति । अनिविशमानाः ।  
+> इंद्रः । याः । वज्री । वृषभः । रराद । ताः । आपः । देवीः । इह । मां । अवन् ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रज्येष्ठाः समुद्रोर्णवो ज्येष्ठः प्रशस्यतमो यासामपां ताः । सलिलस्य । अंतरिक्षनामैतत् । अंतरिक्षस्य मध्यान्माध्यमिकात्स्थानाद्यंति । गच्छंति । कीदृश्यः । पुनाना विश्वं शोधयंत्योऽनिविशमानाः सर्वदा गच्छंत्यः । वज्री वज्रभृद्वृषभः कामानां वर्षितेंद्रो या निरुद्धा अपो रराद लिखति देवीर्देव्यस्ता आप इहास्मिन्प्रदेशे स्थितं मामवंतु । रक्षंतु । अभि गच्छंतु वा ॥
+
+##### Gist of the bhāṣya
+
+समुद्रज्येष्ठाः (*samudrajyeṣṭhāḥ*): the waters whose chief, most praiseworthy one is the sea. सलिलस्य (*salilasya*) is a name of the atmosphere (antarikṣa); the waters come from the middle, the middle region of the atmosphere. They go, purifying the world (पुनानाः (*punānāḥ*)), not stopping (अनिविशमानाः (*aniviśamānāḥ*)), flowing always. The thunderbolt-bearing Indra, the showerer of desires, tore open (रराद (*rarāda*), "cuts") the waters that had been confined. May those divine waters protect me who stand here in this place, or come to me.
+
+### Printed p. 291
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानाः (*punānāḥ*)—purifying the world
+- अनिविशमानाः (*aniviśamānāḥ*)—flowing without interruption
+- समुद्रज्येष्ठाः (*samudrajyeṣṭhāḥ*)—the waters whose best resting-place is the sea
+- सलिलस्य (*salilasya*)—of the atmosphere
+- मध्यात् (*madhyāt*)—from the middle
+- यंति (*yaṃti*)—flow down
+- वज्री (*vajrī*)—the bearer of the thunderbolt
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- इंद्रः (*iṃdraḥ*)—Indra
+- याः (*yāḥ*)—which waters
+- रराद (*rarāda*)—he split (the obstruction) and made them flow
+- देवीः (*devīḥ*)—divine
+- ताः आपः (*tāḥ āpaḥ*)—those same waters (the presiding deities of the waters)
+- इह (*iha*)—here, engaged in this sacrifice
+- मां (*māṃ*)—me
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, which purify the world, flow without interruption and have the sea as their best resting-place, come flowing from the middle of the atmosphere. May those same divine waters (the presiding deities of the waters), which Indra, the bearer of the thunderbolt and showerer of desires, released from bondage and made to flow, protect me, engaged in this sacrifice.
+
+##### English translation
+The waters, with their ocean-chief, proceed from the midst of the firmament, purifying (all things), flowing unceasingly: may the divine waters, whom the thunder-bearing Indra, the showerer, sent forth, protect me here (on earth).
+
+##### विशेषविषयगळु (Special Topics)
+
+समुद्रज्येष्ठाः (*samudrajyeṣṭhāḥ*) means waters that have the sea as their best resting-place. Here another matter must be explained. All the waters on the earth have the sea as their place of origin. That is, the waters in lakes, ponds, wells, pools, rivers and so on were at one time part of the sea. The sea water, heated by the sun's rays, is converted into vapour and becomes cloud-masses. Afterwards, of the waters those clouds pour down in rain, the greater part flows as rivers and again joins the sea. Some part stays in reservoirs such as lakes, pools and tanks. A little part sinks into the earth, travels a short distance, and after meeting a hard rock is stored there. As this water has no contact with the sun's rays, there is no chance of its evaporating. Therefore, since part of the rain-water that falls every year in the rainy season sinks into the earth and is stored, its quantity remains large. The water that wells up when we dig a well is of this kind. This water, and the water in lakes, ponds and rivers, is not salty like sea water but clear and sweet. For the water that evaporates from the sea does not carry away the salt in it but leaves it there; only clear water goes off as vapour. Therefore these waters are sweet, not salty. The reason why sea water is salty is this: when the earth was first created, oxygen (Oxegen) and hydrogen (Hydrogen), which were in the form of vapour, combined and water arose. Then it was clear, without any colour, taste or smell. All that water filled the low-lying regions of the earth. This is the sea. Gradually, at every moment, the sea water is heated by the sun's rays, some part goes off as vapour, stays for some time as cloud in the atmosphere, falls on the earth as rain, flows as rivers and joins the sea. When the rain-water flows as a river it carries away the soil and other mineral substances on the earth and joins the sea. Although the soil and such things remain with the water for some time, after the water joins the sea that soil settles on the sea-bed; only the clear water mixes with the sea water. But as a river flows, other minerals, and chiefly salt (Chloride), are well dissolved in the water, so that even after the river joins the sea this salt does not separate from the water. Instead it makes the sea water salty. In this way thousands of rivers every year bring a little salt to the sea. Since this work has gone on without interruption for crores of years, the sea water is as very salty as it now is. Every year more and more salt reaches the sea through the rivers, but that salt cannot in any way leave the sea. Therefore the sea water gradually becomes more and more salty.
+
+### Printed p. 292
+Reckoning from the salt content of sea water and from the amount of salt that reaches the sea each year, scientists can find out how many crores of years have passed since the earth came into being.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या आपो॑ दि॒व्या उ॒त वा॒ स्रवं॑ति ख॒नित्रि॑मा उ॒त वा॒ याः स्व॑यं॒जाः ।  
+> स॒मु॒द्रार्था॒ याः शुच॑यः पाव॒कास्ता आपो॑ दे॒वीरि॒ह माम॑वंतु ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । आपः । दिव्याः । उत । वा । स्रवंति । खनित्रिमाः । उत । वा । याः । स्वयंजाः ।  
+> समुद्रऽअर्थाः । याः । शुचयः । पावकाः । ताः । आपः । देवीः । इह । मां ।  
+> अवंतु ॥२॥
+
+### Printed p. 293
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या आपो दिव्या अंतरिक्षभवाः संति । उत वापि च या आपो नद्यादिगताः सत्यः स्रवंति गच्छंति । याश्च खनित्रिमाः खननेन निर्वृत्ताः । उत वापि च याः स्वयंजाः स्वयमेव प्रादुर्भवंत्यः समुद्रार्थाः । समुद्र एवार्थो गंतव्यो यासां ताः समुद्रार्थाः । शुचयो दीप्तियुक्ताः पावकाः शोधयित्र्यश्च भवंति । ता आपो मामवंत्विति ॥
+
+##### Gist of the bhāṣya
+
+The waters that are दिव्याः (*divyāḥ*), born in the atmosphere; those that, having reached rivers and the like, flow; those that are खनित्रिमाः (*khanitrimāḥ*), produced by digging; and those that are स्वयंजाः (*svayaṃjāḥ*), appearing of themselves; those समुद्रार्थाः (*samudrārthāḥ*), whose goal to be reached is the sea alone; those that are शुचयः (*śucayaḥ*), bright, and पावकाः (*pāvakāḥ*), purifying: may those waters protect me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः आपः (*yāḥ āpaḥ*)—which waters
+- दिव्याः (*divyāḥ*)—are born in the heavenly world
+- उत वा (*uta vā*)—and
+- स्रवंति (*sravaṃti*)—are in the form of streams
+- उत वा (*uta vā*)—besides
+- याः (*yāḥ*)—which waters
+- खनित्रिमाः (*khanitrimāḥ*)—flow out by splitting an obstruction
+- उत वा (*uta vā*)—and moreover
+- याः (*yāḥ*)—which waters
+- स्वयंजाः (*svayaṃjāḥ*)—appear of themselves
+- समुद्रार्थाः (*samudrārthāḥ*)—go and join the sea
+- देवीः (*devīḥ*)—divine
+- ता आपः (*tā āpaḥ*)—those same waters
+- इह (*iha*)—here, engaged in this sacrifice
+- मां (*māṃ*)—me
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+The waters that are born in the heavenly world, those that are in the form of streams, those that flow out by splitting their obstruction, and those that appear of themselves and go and join the sea: may those same divine waters protect me, engaged in this sacrifice.
+
+##### English translation
+May the waters that are in the sky, or those that flow (on the earth), those (whose channels) have been dug, or those that have sprung up spontaneously, and those that seek the ocean, all pnre and purifying, may those divine waters protect me here (on earth).
+
+##### विशेषविषयगळु (Special Topics)
+
+या आपः दिव्याः (*yā āpaḥ divyāḥ*)—waters born in the heavenly world or the atmosphere, that is, rain-water falling as rain from the cloud-masses.
+उत वा स्रवंति (*uta vā sravaṃti*)—flowing water, that is, river water flowing as a stream.
+याः खनित्रिमाः (*yāḥ khanitrimāḥ*)—the water of reservoirs such as wells and pools, dug with digging tools such as spades.
+याः स्वयंजाः (*yāḥ svayaṃjāḥ*)—water that collects beneath the earth and wells up through springs and the like.
+
+### Printed p. 294
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नां ।  
+> म॒धु॒श्चुतः॒ शुच॑यो॒ याः पा॑व॒कास्ता आपो॑ दे॒वीरि॒ह माम॑वंतु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यासां । राजा । वरुणः । याति । मध्ये । सत्यानृते । इति । अवपश्यन् । जनानां ।  
+> मधुश्चुतः । शुचयः । याः । पावकाः । ताः । आपः । देवीः । इह । मां । अवंतु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणो यासामपां राजा स्वामी मध्ये मध्यमलोके याति गच्छति । किं कुर्वन् । जनानां प्रजानां सत्यानृते सत्यं चानृतं चावपश्यन् । जानन्नित्यर्थः । या आपो मधुश्चुतो रसं स्रवंत्यः शुचयो दीप्तियुक्ताः पावकाः शोधयित्र्यः ता आपो देव्यो मां रक्षंत्विति ॥
+
+##### Gist of the bhāṣya
+
+Varuna, the king, the lord, of whatever waters, goes in the middle, in the middle world, seeing (अवपश्यन् (*avapaśyan*), that is, knowing) the truth and falsehood of the people. The waters that shed sweetness (मधुश्चुतः (*madhuścutaḥ*), flowing with sap), bright (शुचयः (*śucayaḥ*)) and purifying (पावकाः (*pāvakāḥ*)): may those divine waters protect me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मध्ये (*madhye*)—stationed in the middle world
+- वरुणः (*varuṇaḥ*)—the god Varuna
+- जनानां (*janānāṃ*)—of the people
+- सत्यानृते (*satyānṛte*)—the true and untrue lives
+- अवपश्यन् (*avapaśyan*)—seeing
+- यासां (*yāsāṃ*)—of which waters
+- राजा (*rājā*)—as lord
+- याति (*yāti*)—he moves
+- याः (*yāḥ*)—which waters
+- मधुश्चुतः (*madhuścutaḥ*)—squeezing out sweet juices
+- शुचयः (*śucayaḥ*)—shining
+- पावकाः (*pāvakāḥ*)—purifying
+- देवीः (*devīḥ*)—divine
+- ताः आपः (*tāḥ āpaḥ*)—those same waters
+- इह (*iha*)—here, engaged in this sacrifice
+- मां (*māṃ*)—me
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+The god Varuna, stationed in the middle world, moves as lord of those waters, watching the true and untrue lives of the people. May those same divine waters, which squeeze out sweet juices and are shining and purifying, protect me, engaged in this sacrifice.
+
+##### English translation
+Those whose sovereign, Varuna, passes in the middle sphere, discriminating the truth and falsehood of mankind : those shedding sweet showers, pure and purifying : may those divine waters protect me here (on earth).
+
 ---
 
-**Progress note:** Done through printed p. 288. pp. 283-288 (batch API)
+**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
