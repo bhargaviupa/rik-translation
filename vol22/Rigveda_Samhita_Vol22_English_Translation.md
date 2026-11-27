@@ -4727,6 +4727,298 @@ Sāyaṇa says: O my people, do not hinder the sacrifices that have Soma; do not
 - राये (*rāye*)—for the gain of wealth
 - कृणुध्वं (*kṛṇudhvaṃ*)—rites
 
+### Printed p. 109
+
+- तरणिरित् (*taraṇirit*)—he alone who carries out the rite with skill
+- क्षेति (*kṣeti*)—dwells in his house
+- जयति (*jayati*)—he alone conquers
+- पुष्यति (*puṣyati*)—is nourished with sons and the rest
+- कवत्नवे (*kavatnave*)—for one deprived of rites
+- देवासः (*devāsaḥ*)—the gods
+- न (*na*)—do not become helpers
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and others, do not stop the sacrifices that have Soma. Carry out the sacrificial rites with energy. Perform rites for the gain of wealth, addressed to Indra, who is mighty and the harmer of enemies. Only he who carries out the rite with skill dwells in his house. He alone conquers. He thrives with sons and the rest. To one deprived of rites the gods do not become helpers.
+
+##### English translation
+Offerers of the libation, do not hesitate : be active : sacrifice to the mighty benefactor for the sake of riches : the assiduous worshipper conquers (his enemies), dwells in a habitation, and prospers : the gods favour not the imperfect rite.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकिः॑ सु॒दासो॒ रथं॒ पर्या॑स॒ न री॑रमत् ।  
+> इंद्रो॒ यस्या॑वि॒ता यस्य॑ म॒रुतो॒ गम॒त्स गोम॑ति व्र॒जे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । सुदासः । रथं । परि । आस । न । रीरमत् ।  
+> इंद्रः । यस्य । अविता । यस्य । मरुतः । गमत् । सः । गोऽमति । व्रजे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुदासः शोभनदानस्य यजमानस्य रथं नकिः पर्यास । कश्चिन्न पर्यास्यति । न रीरमत् । न रमयति च । आत्मार्थं न कश्चिदेनं गृह्णातीत्यर्थः । अपि च यस्येंद्रोऽविता रक्षिता यस्य च मरुतोऽवितारः स गोमति गोयुक्ते व्रजे गोष्ठे गमत् । गच्छेत् ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: no one will overturn the chariot of Sudās, the sacrificer of good gifts, and no one will stop it; that is, no one seizes him for his own purposes. Moreover, he whose protector is Indra and whose protectors are the Maruts will go to the cow-filled pen, the cowshed; the word गमत् (*gamat*) means "would go".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदासः (*sudāsaḥ*)—of the sacrificer who is an excellent giver
+- रथं (*rathaṃ*)—the chariot
+- नकिः (*nakiḥ*)—no one at all
+- पर्यास (*paryāsa*)—can face it and turn it back
+- न रीरमत् (*na rīramat*)—no one can obstruct it
+- यस्य (*yasya*)—to which sacrificer
+- इंद्रः (*iṃdraḥ*)—Indra
+- अविता (*avitā*)—is protector
+- यस्य (*yasya*)—to whom
+- मरुतः (*marutaḥ*)—the Maruts (are protectors)
+- सः (*saḥ*)—that sacrificer
+- गोमति (*gomati*)—filled with cattle
+- व्रजे (*vraje*)—the cowshed
+- गमत् (*gamat*)—will reach
+
+### Printed p. 110
+
+##### भावार्थ (Bhāvārtha)
+
+No one at all can face and turn back the chariot of the sacrificer who is an excellent giver. No one can obstruct it. The sacrificer to whom Indra is protector and to whom the Maruts are protectors will reach a cowshed filled with cattle.
+
+##### English translation
+No one overturns, no one arrests, the chariot of the liheral sacrificer , he, of whom Indra is the protector, of whom the Maruts (are the defenders): will walk in pastures filled with cattle.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गम॒द्वाजं॑ वा॒जय॑न्निंद्र॒ मर्त्यो॒ यस्य॒ त्वम॑वि॒ता भुवः॑ ।  
+> अ॒स्माकं॑ बोध्यवि॒ता रथा॑नाम॒स्माकं॑ शूर नृ॒णां ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गमत् । वाजं । वाजयन् । इंद्र । मर्त्यः । यस्य । त्वं । अविता । भुवः ।  
+> अस्माकं । बोधि । अविता । रथानां । अस्माकं । शूर । नृणां ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यस्य मर्त्यस्याविता रक्षिता भुवः भवेः स मर्त्यो वाजयन् स्तोत्रेण त्वां बलिनं कुर्वन् वाजमन्नं गमत् । गच्छेत् । अपि च हे शूर अस्माकं वासिष्ठानां रथानामविता रक्षिता बोधि । भव ॥ भवतेर्लोटि रूपं । भकारस्य बकारश्छांदसः ॥ अस्माकं नृणां पुत्रादीनां चाविता भव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, the mortal whose protector you become, strengthening you with praise, would attain वाजं (*vājaṃ*), food. And, O hero, be the protector of our, the Vāsiṣṭhas', chariots; बोधि (*bodhi*) means "be", a form of the root meaning "to be" in the imperative, with a Vedic change of letter. Be also the protector of our men, that is, of our sons and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- यस्य (*yasya*)—for whichever man
+- अविता (*avitā*)—as protector
+- भुवः (*bhuvaḥ*)—you are
+- मर्त्यः (*martyaḥ*)—that same man
+- वाजयन् (*vājayan*)—making you strong by praise
+- वाजं (*vājaṃ*)—food
+- गमत् (*gamat*)—may he attain
+- शूर (*śūra*)—O heroic Indra
+- अस्माकं (*asmākaṃ*)—of us, born in the family of Vasiṣṭha
+- रथानां (*rathānāṃ*)—for the chariots
+- अविता (*avitā*)—as protector
+- बोधि (*bodhi*)—know that you must be
+- अस्माकं (*asmākaṃ*)—of our
+- नृणां (*nṛṇāṃ*)—sons and the rest, be protector
+
+### Printed p. 111
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the man for whom you are protector, that same man, making you strong by praise, may attain food. O heroic Indra, know that you must be protector of our chariots, we who are born in the family of Vasiṣṭha. Be protector also of our sons and the rest.
+
+##### English translation
+Let the man of whom you, Indra, are the protector, invigorating (you with praise), enjoy (abundant) food : be the preserver, hero, of our chariots, (the preserver) of our people.
+
+#### Ṛk 12
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदिन्न्व॑स्य रिच्य॒तेंऽशो॒ धनं॒ न जि॒ग्युषः॑ ।  
+> य इंद्रो॒ हरि॑वा॒न्न द॑भंति॒ तं रिपो॒ दक्षं॑ दधाति सो॒मिनि॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । इत् । नु । अस्य । रिच्यते । अंशः । धनं । न । जिग्युषः ।  
+> यः । इंद्रः । हरिवान् । न । दभंति । तं । रिपः । दक्षं । दधाति । सोमिनि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्यांशो यज्ञे सोमस्य भागोऽतिरिच्यतेऽन्येभ्योऽपि देवेभ्यः। इंद्रस्य त्रिष्वपि सवनेषु सोमपानमस्ति माध्यंदिनं हि सर्वमैंद्रमिति। जिग्युषो जितवतो धनं न धनमिव। उदिन्न्विति त्रयः पूरणाः। अपि च यो हरिवानिंद्रः सोमिनि यजमाने दक्षं बलं दधाति संदधाति, तं रिपो रिपवो न दभंति। न हिंसंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: this Indra's share, his portion of Soma in the sacrifice, exceeds even that of the other gods. Indra has the drinking of Soma in all three pressings, for the midday pressing is wholly Indra's. The share is like the wealth of one who has won. The three words at the beginning of the verse are expletives. Moreover, the enemies do not harm that Indra, lord of the bay horses, who places strength in the sacrificer who has Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जिग्युषः (*jigyuṣaḥ*)—of the victorious man
+- धनं न (*dhanaṃ na*)—like the wealth
+- अस्य (*asya*)—of this Indra
+- अंशः (*aṃśaḥ*)—the share of Soma in the sacrifice
+- उदिन्न्व रिच्यते (*udinnva ricyate*)—certainly exceeds the shares of the other gods
+- हरिवान् (*harivān*)—possessing the horses called Hari
+- यः इंद्रः (*yaḥ iṃdraḥ*)—the Indra who
+- सोमिनि (*somini*)—in the sacrificer
+- दक्षं (*dakṣaṃ*)—strength
+- दधाति (*dadhāti*)—fills in
+- तं (*taṃ*)—such an Indra
+- रिपः (*ripaḥ*)—enemies
+- न दभंति (*na dabhaṃti*)—do not harm
+
+### Printed p. 112
+
+##### भावार्थ (Bhāvārtha)
+
+As the wealth of a victorious man increases, so the share of Soma that belongs to Indra in the sacrifice exceeds the shares of the other gods. Enemies do not harm that Indra, possessing the horses called Hari, who fills the sacrificer with strength.
+
+##### English translation
+Verily (Indra's) share (of the Soma) exceeds (that of other deities) like the wealth of the victorious : enemies overcome not him, who is the lord of bay steeds, who gives strength to the offerer of the libation.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मंत्र॒मख॑र्वं॒ सुधि॑तं सु॒पेश॑सं॒ दधा॑त य॒ज्ञिये॒ष्वा ।  
+> पू॒र्वीश्च॒न प्रसि॑तयस्तरंति॒ तं य इंद्रे॒ कर्म॑णा॒ भुव॑त् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंत्रं । अखर्वं । सुधितं । सुपेशसं । दधात । यज्ञियेषु । आ ।  
+> पूर्वीः । चन । प्रसितयः । तरंति । तं । यः । इंद्रे । कर्मणा । भुवत् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जनाः अखर्वमनल्पं सुधितं सुहितं सुपेशसं शोभनरूपं मंत्रं स्तोत्रं यज्ञियेषु यजनीयेषु देवेषु मध्य इंद्राय दधात । विधत्त । यो जनः कर्मणा स्तुत्यादिरूपेणेंद्र इंद्रस्य चित्ते भुवत् भवेत् तं जनं पूर्वीर्बह्व्यः प्रसितयः पाशादीनि बंधनानि । चनेति समुदायो नेत्यर्थे वर्तते । न तरंति । न व्याप्नुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O people, offer to Indra, among the gods worthy of sacrifice, a hymn of praise that is ample, well placed and graceful in form. The man who, by action in the form of praise and the like, abides in Indra, in Indra's mind, many bonds, such as nooses and the like, do not overcome that man. The word चन (*cana*) taken together stands in the sense of "not".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers and others) अखर्वं (*akharvaṃ*)—of ample greatness
+- सुधितं (*sudhitaṃ*)—well recited
+- सुपेशसं (*supeśasaṃ*)—of excellent form
+- मंत्रं (*maṃtraṃ*)—the hymn of praise
+- यज्ञियेषु (*yajñiyeṣu*)—among the gods worthy of sacrifice, addressed to Indra
+- आ दधात (*ā dadhāta*)—offer
+- यः (*yaḥ*)—the sacrificer who
+- कर्मणा (*karmaṇā*)—by acts of praise and the like
+- इंद्रे (*iṃdre*)—with his mind offered to Indra
+- भुवत् (*bhuvat*)—is devoted
+- तं (*taṃ*)—that sacrificer
+- पूर्वीः (*pūrvīḥ*)—of many kinds
+- प्रसितयः चन (*prasitayaḥ cana*)—even bonds
+- तरंति (*taraṃti*)—fall away without clinging
+
+### Printed p. 113
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and others, offer a hymn of praise that is of ample greatness, well recited and of excellent form, among the gods worthy of sacrifice, addressed to Indra. The sacrificer who by acts of praise and the like is devoted, with his mind offered to Indra, even bonds of many kinds fall away from him without clinging.
+
+##### English translation
+Address (to Indra) amongst the gods, the ample, well-uttered, and graceful prayer : many bonds entangle not him who, by his devotion, abides in Indra.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्तमिं॑द्र॒ त्वाव॑सु॒ना मर्त्यो॑ दधर्षति ।  
+> श्र॒द्धा इत्ते॑ मघव॒न्पार्ये॑ दि॒वि वा॒जी वाजं॑ सिषासति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । तं । इंद्र । त्वावसुं । आ । मर्त्यः । दधर्षति ।  
+> श्रद्धा । इत् । ते । मघवन् । पार्ये । दिवि । वाजी । वाजं । सिसासति ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव चित्ते यो भवेत् त्वावसुं । त्वं वसुर्व्यापको यस्येति बहुव्रीहिः । तं जनं को मर्त्य आ दधर्षति । आधर्षेत् । हे मघवन् ते त्वदर्थं यः श्रद्धा श्रद्धया युक्तः सन् वाजी हविष्मान् भवेत् पार्ये दिवि सौत्येऽहनि स वाजमन्नं बलं वा सिषासति । सेवते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, the man who is in your mind is त्वावसुं (*tvāvasuṃ*), a possessive compound meaning "he of whom you are the all-pervading wealth". What mortal assails such a man? O Maghavan, he who, endowed with faith, becomes the possessor of the oblation for you, on the day of the Soma pressing he enjoys food or strength; सिषासति (*siṣāsati*) means "enjoys".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वावसुं (*tvāvasuṃ*)—who has you alone as his protector
+- तं (*taṃ*)—that sacrificer
+- कः मर्त्यः (*kaḥ martyaḥ*)—what mortal indeed
+- आ दधर्षति (*ā dadharṣati*)—can injure him?
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- ते (*te*)—addressed to you
+- (यः (*yaḥ*)—who) श्रद्धा (*śraddhā*)—endowed with faith
+- वाजी (*vājī*)—becomes the possessor of the oblation
+- (he), पार्ये इत् दिवि (*pārye it divi*)—on the very day of the Soma offering
+- वाजं (*vājaṃ*)—food
+- सिषासति (*siṣāsati*)—enjoys
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, what mortal indeed can injure the sacrificer who has you alone as his protector? O Indra, possessor of wealth, he who, endowed with faith, becomes the possessor of the oblation and offers the oblation to you, enjoys (obtains) food on the very day of the Soma offering.
+
+### Printed p. 114
+
+##### English translation
+What mortal, Indra, injures him who has you for his support ? He who offers you (sacrificial) food, Maghavan, with faith, he obtair s food on the day of the libation.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒घोनः॑ स्म वृत्र॒हत्ये॑षु चोदय॒ यो दद॑ति प्रि॒या वसु॑ ।  
+> तव॒ प्रणी॑ती हर्यश्व सू॒रिभि॒र्विश्वा॑ तरेम दुरि॒ता ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मघोनः । स्म । वृत्रहत्येषु । चोदय । ये । ददति । प्रिया । वसु ।  
+> तव । प्रऽनीती । हरिअश्व । सूरिभिः । विश्वा । तरेम । दुःइता ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मघोनो धनवतस्ते । त्वदर्थमित्यर्थः । प्रिया प्रियाणि वसु वसूनि धनानि ये जना ददति प्रयच्छंति ताञ्जनान् वृत्रहत्येषु संग्रामेषु चोदय । प्रेरय । हे हर्यश्व तव प्रणीती प्रणीत्या प्रणयनेन सूरिभिः स्तोतृभिः पुत्रादिभिः सार्धं विश्वा विश्वानि दुरिता दुरितानि तरेम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, those men who give to you, the wealthy, dear riches, that is, riches for your sake, urge those men on in the battles, in the conflicts. O lord of the bay horses, by your leading, together with the praisers, our sons and the rest, may we cross all evils.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यो (*yo*)—the sacrificers who
+- मघोनः (*maghonaḥ*)—to you, the wealthy
+- प्रिया (*priyā*)—beneficial
+- वसु (*vasu*)—riches and the like
+- ददति स्म (*dadati sma*)—offer
+- (them) वृत्रहत्येषु (*vṛtrahatyeṣu*)—in battles
+- चोदय (*codaya*)—urge so that they become powerful
+- हर्यश्व (*haryaśva*)—O Indra, possessing the horses called Hari
+- तव (*tava*)—your
+- प्रणीती (*praṇītī*)—by the loving leadership
+- सूरिभिः (*sūribhiḥ*)—we, together with our sons and the rest who are praisers
+- विश्वा (*viśvā*)—all
+- दुरिता (*duritā*)—sorrows
+- तरेमु (*taremu*)—may we cross
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, urge in battles, so that they become powerful, those sacrificers who offer beneficial riches and the like to you, the wealthy. O Indra, possessing the horses called Hari, by your loving leadership may we, together with our sons and the rest who are praisers, cross all sorrows.
+
+##### English translation
+Animate (those men) for the destruction of their foes, who offer treasures which are dear to you, the abounder in wealth : may we, lord of bay
+
 ---
 
-**Progress note:** Done through printed p. 108. Sukta 32 Rks 3-9 (pp. 103-108)
+**Progress note:** Done through printed p. 114. Ṛk 9 end, Ṛks 10-15 of sūkta 32 (Maṇḍala 7)
