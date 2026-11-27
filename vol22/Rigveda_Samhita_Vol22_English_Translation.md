@@ -7526,6 +7526,327 @@ May the god Bhaga be for our peace. May Narāśaṃsa be for our peace alone. Ma
 - शं (*śaṃ*)—for peace
 - पुरंधिः (*puraṃdhiḥ*)—Purandhi
 
+### Printed p. 169
+The Pratipadārtha of the previous Ṛk continues:
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *puraṃdhiḥ*—the deity named Purandhi, may he favour (us).
+- रायः (*rāyaḥ*)—riches also
+- शमु (*śamu*)—let them be for our peace alone
+- नः (*naḥ*)—our
+- सुयमस्य (*suyamasya*)—endowed with excellent restraint
+- सत्यस्य (*satyasya*)—of the nature of truth
+- शंसः (*śaṃsaḥ*)—the speech also
+- शं (*śaṃ*)—let it be for happiness alone
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- पुरुजातः (*purujātaḥ*)—having manifold manifestation
+- अर्यमा (*aryamā*)—Aryaman
+- अस्तु (*astu*)—may he favour (us)
+
+##### भावार्थ (Bhāvārtha)
+
+May Bhaga be gracious for our peace. May Narāśaṃsa also desire our peace alone. May Purandhi also establish our peace alone. May riches also be for our peace alone. May our speech, which is endowed with excellent restraint and is of the nature of truth, be for our happiness alone. May Aryaman, who has manifold manifestation, also favour us for peace.
+
+##### English translation
+May Bhaga (promote) our happiness : may Shansa be our happiness : may Purandhi be (with us for) our happiness : may riches be (a source of) happiness : may the benediction of the true and virtuous yield us happiness : may the variously-manifested Aryaman be (with us) for our felicity.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ धा॒ता शमु॑ ध॒र्ता नो॑ अस्तु॒ शं न॑ उरू॒ची भ॑वतु स्व॒धाभिः॑ ।  
+> शं रोद॑सी बृह॒ती शं नो॒ अद्रिः॒ शं नो॑ दे॒वानां॑ सु॒हवा॑नि संतु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । धाता । शं । ऊं इति । धर्ता । नः । अस्तु । शं । नः । उरूची । भवतु । स्वधाभिः ।  
+> शं । रोदसी इति । बृहती इति । शं । नः । अद्रिः । शं । नः । देवानां । सुहवानि । संतु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं शं शांत्यै धाता देवोऽस्तु । नोऽस्माकं शमु शांत्या एव धर्ता पुण्यपापानां विधारयिता वरुणो देवोऽप्यस्तु । नोऽस्माकं शं शांत्या उरूची विवर्तगमना पृथिव्यपि स्वधाभिरन्नैः सहास्तु । बृहती महत्यौ रोदसी द्यावापृथिव्यावपि शं भवतां । अद्रिः पर्वतोऽपि नोऽस्माकं शं शांत्यै भवतु । शं शांत्यै नोऽस्माकं देवानां सुहवानि सुह्वयतयो संतु । भवंतु ॥
+> 22
+
+##### Gist of the bhāṣya
+
+Let Dhātā, the god, be for our peace. Let Dhartā, Varuṇa, the upholder who sustains merits and sins, be for our peace alone. Let Urūcī, the earth of wide course, be with her foods (svadhā) for our peace. Let the two great ones, Rodasī, heaven and earth, be for peace. Let the mountain (adri) be for our peace. Let the good invocations (suhavāni) of the gods be for our peace.
+
+### Printed p. 170
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धाता (*dhātā*)—the god who is the creator
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अस्तु (*astu*)—may he be
+- नः (*naḥ*)—our
+- शमु (*śamu*)—for peace alone
+- धर्ता (*dhartā*)—may Varuṇa, who apportions merits and sins, also be
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- उरूची (*urūcī*)—the earth, of extended form
+- स्वधाभिः (*svadhābhiḥ*)—may she be full with her own foods
+- बृहती (*bṛhatī*)—of great form
+- रोदसी (*rodasī*)—heaven and earth
+- शं (*śaṃ*)—let them be for our happiness
+- अद्रिः (*adriḥ*)—the mountain also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—let it be for peace
+- नः (*naḥ*)—our
+- देवानां (*devānāṃ*)—addressed to the gods
+- सुहवानि (*suhavāni*)—excellent praises also
+- शं (*śaṃ*)—for peace
+- संतु (*saṃtu*)—let them be effective
+
+##### भावार्थ (Bhāvārtha)
+
+May the creator god be for our peace. May Varuṇa, who apportions merits and sins, also be for our peace alone. May the earth of extended form be full with her foods for our peace. May heaven and earth, of great form, be for our happiness. May the mountain also be for our peace. May our excellent praises addressed to the gods also be effective for peace.
+
+##### English translation
+May the creator be to us for happiness : may the discriminator (between virtue and vice Varuna), be (with us) for our happiness : may the wide earth (contribute) with sustenance to our happiness : may the vast heaven and earth be (to us for) happiness : may the mountains (yeild) us happiness : may our pious invocations of the gods secure us happiness.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ अ॒ग्निर्ज्योति॑रनीको अस्तु॒ शं नो॑ मि॒त्रावरु॑णाव॒श्विना॒ शं ।  
+> शं नः॑ सु॒कृतां॑ सुकृ॒तानि॑ संतु॒ शं न॑ इषि॒रो अ॒भि वा॑तु॒ वातः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । अग्निः । ज्योतिःऽअनीकः । अस्तु । शं । नः । मित्रावरुणौ । अश्विना । शं ।  
+> शं । नः । सुकृतां । सुकृतानि । संतु । शं । नः । इषिरः । अभि । वातु । वातः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ज्योतिरनीको ज्योतिर्मुखोऽग्निर्नोऽस्माकं शं शांत्या अस्तु । भवतु । मित्रावरुणा मित्रावरुणावपि नोऽस्माकं शं शांत्यै भवतां । अश्विनावश्विनावपि शं
+
+##### Gist of the bhāṣya
+
+Agni, whose face is light, be for our peace. Mitra and Varuṇa also be for our peace. The two Aśvins also be for peace.
+
+### Printed p. 171
+
+> भवतां । सुकृतां पुण्यकर्मणां पुरुषाणां सुकृतानि पुण्यकर्माण्यपि नोऽस्माकं शं शांत्यै संतु । भवंतु । इषिरो गमनशीलोऽपि वातो वायुरपि नोऽस्माकं शं शांत्या अभि वातु ॥
+
+##### Gist of the bhāṣya
+
+The good deeds of the doers of good, men of meritorious acts, be for our peace. The restless (iṣira) wind also blow around for our peace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्योतिरनीकः (*jyotiranīkaḥ*)—having a face of the nature of light
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अस्तु (*astu*)—may he be
+- मित्रावरुणौ (*mitrāvaruṇau*)—Mitra and Varuṇa also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—let them be for peace
+- अश्विना (*aśvinā*)—the Aśvin deities also
+- शं (*śaṃ*)—let them be for our peace
+- सुकृतां (*sukṛtāṃ*)—of those who have meritorious deeds
+- सुकृतानि (*sukṛtāni*)—the excellent deeds also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- संतु (*saṃtu*)—let them be
+- इषिरः (*iṣiraḥ*)—the moving
+- वातः (*vātaḥ*)—the wind also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अभि वातु (*abhi vātu*)—let it blow all around
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, whose face is of the nature of light, be for our peace. May Mitra and Varuṇa also be for our peace. May the Aśvin deities also be givers of peace to us. May the excellent deeds of those of meritorious acts also bring about our peace. May the moving wind also blow all around for our peace.
+
+##### English translation
+May Agni, whose countenance is light be (with us) for our happiness: may Mitra and Varuna, may the Aswins be (present) for our felicity : may the virtuous be (promotive of ) our happiness : may the restless wind blow for our happiness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॒ द्यावा॑पृथि॒वी पू॒र्वहू॑तौ॒ शमं॒तरि॑क्षं दृ॒शये॑ नो अस्तु ।  
+> शं न॒ ओष॑धीर्व॒निनो॑ भवंतु॒ शं नो॒ रज॑स॒स्पति॑रस्तु जि॒ष्णुः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । द्यावापृथिवी इति । पूर्वहूतौ । शं । अंतरिक्षं । दृशये । नः । अस्तु ।  
+> शं । नः । ओषधीः । वनिनः । भवंतु । शं । नः । रजसः । पतिः । अस्तु । जिष्णुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं शं शांत्यै द्यावापृथिवी द्यावापृथिव्यौ पूर्वहूतौ प्रथमाह्वाने भवतां । अंतरिक्षमपि नोऽस्माकं दृशये दर्शनाय शमस्तु । नोऽस्माकं शं शांत्या
+
+##### Gist of the bhāṣya
+
+For our peace let heaven and earth be present at the first invocation. The firmament also be for our seeing (dṛśaye). For our peace
+
+### Printed p. 172
+
+> ओषधीरोषधयोऽपि भवंतु । वनिनो वृक्षाश्च शं भवंतु । जिष्णुर्जयशीलो रजसो लोकस्य पतिरिंद्रोऽपि नोऽस्माकं शं शांत्या अस्तु ॥
+
+##### Gist of the bhāṣya
+
+let the herbs also be so, and the trees be for peace. Jiṣṇu, the victorious Indra, lord of the world (rajas), also be for our peace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—as bringers of peace
+- पूर्वहूतौ (*pūrvahūtau*)—let them be ready at the very first invocation
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament also
+- नः (*naḥ*)—our
+- दृशये (*dṛśaye*)—for excellent sight
+- शं (*śaṃ*)—as a bringer of happiness
+- अस्तु (*astu*)—let it be
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- भवंतु (*bhavaṃtu*)—let them be effective
+- वनिनः (*vaninaḥ*)—let the trees also be effective for our peace
+- जिष्णुः (*jiṣṇuḥ*)—the victorious
+- रजसः (*rajasaḥ*)—of the whole world
+- पतिः (*patiḥ*)—the lord, Indra also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- अस्तु (*astu*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+May heaven and earth, as bringers of our peace, be ready at the very first invocation. May the firmament also be a source of happiness for our excellent sight. May the herbs and trees be bringers of our peace. May Indra, the victorious lord of the whole world, be the establisher of our peace.
+
+##### English translation
+May heaven and earth, the first invoked, (promote) our happiness : may the firmament be happiness to our view : may the herbs, the trees, (yield) us happiness : may the victorious lord of the world, (Indra), be (favourable to) our felicity.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं न॒ इंद्रो॒ वसु॑भिर्दे॒वो अ॑स्तु॒ शमा॑दि॒त्येभि॒र्वरु॑णः सु॒शंसः॑ ।  
+> शं नो॑ रु॒द्रो रु॒द्रेभि॒र्जला॑षः॒ शं न॒स्त्वष्टा॒ ग्नाभि॑रि॒ह शृ॑णोतु
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । इंद्रः । वसुभिः । देवः । अस्तु । शं । आदित्येभिः । वरुणः । सुशंसः ।  
+> शं । नः । रुद्रः । रुद्रेभिः । जलाषः । शं । नः । त्वष्टा । ग्नाभिः । इह । शृणोतु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतनादिगुणयुक्त इंद्रो वसुभिर्देवैः सार्धं नोऽस्माकं शं शांत्यै भवतु । सुशंसः शोभनस्तुतिर्वरुणो देव आदित्येभिरादित्यैर्देवैः सार्धं
+
+##### Gist of the bhāṣya
+
+Indra, the god endowed with the quality of shining and the like, be for our peace together with the Vasus, the gods. Varuṇa, the well-praised (suśaṃsa), together with the Ādityas, the gods,
+
+### Printed p. 173
+
+> शं शांत्या अस्तु । भवतु । जलाषो रुद्रो दुःखद्रावको देवो रुद्रेभी रुद्रैः सार्धं शं शांत्यै नोऽस्माकं भवतु । इह यज्ञे त्वष्टा देवो ग्नाभिर्देवपत्नीभिः सार्धं नः शं शांत्यै भवतु । इह यज्ञे नः स्तोत्रं शृणोतु च ॥
+
+##### Gist of the bhāṣya
+
+be for peace. Jalāṣa Rudra, the god who removes sorrow, together with the Rudras, be for our peace. Here at the sacrifice let the god Tvaṣṭṛ, together with the Gnās, the wives of the gods, be for our peace, and let him hear our praise here at the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—of divine nature
+- इंद्रः (*iṃdraḥ*)—Indra
+- वसुभिः (*vasubhiḥ*)—together with the deities named Vasus
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—let him be a bringer of peace
+- सुशंसः (*suśaṃsaḥ*)—worthy of excellent praise
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- आदित्येभिः (*ādityebhiḥ*)—together with the Ādityas
+- शं (*śaṃ*)—as bringer of our peace
+- अस्तु (*astu*)—let him be
+- जलाषः (*jalāṣaḥ*)—destroyer of sorrow
+- रुद्रः (*rudraḥ*)—Rudra
+- रुद्रेभिः (*rudrebhiḥ*)—together with the Rudras
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—let him be a bringer of peace
+- इह (*iha*)—in this sacrifice
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- ग्नाभिः (*gnābhiḥ*)—together with the wives of the gods
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—as bringer of peace
+- शृणोतु (*śṛṇotu*)—let him hear our praise
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, of divine nature, together with the deities named Vasus, be a bringer of peace to us. May Varuṇa, worthy of excellent praise, together with the Ādityas, be a bringer of our peace. May Rudra, the destroyer of sorrow, together with the Rudras, be a bringer of our peace. In this sacrifice may Tvaṣṭṛ, together with the wives of the gods, be a bringer of our peace, and may he hear our praise.
+
+##### English translation
+May the divine (Indra), with the Vasus, grant us happiness : may the justly-praised Varuna with the Adityas, be (friendly to) our happiuess : may the grief-assuaging Rudra, with the Rudras. be (for) our happiness : may Twashtri, with the wives of the gods, be (with us) for our happiness : and hear us at this solemnity.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नः॒ सोमो॑ भवतु॒ ब्रह्म॒ शं नः॒ शं नो॒ ग्रावा॑णः॒ शमु॑ संतु य॒ज्ञाः ।  
+> शं नः॒ स्वरू॑णां मि॒तयो॑ भवंतु॒ शं नः॑ प्र॒स्व१॒ः॑ शम्व॑स्तु॒ वेदिः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । सोमः । भवतु । ब्रह्म । शं । नः । शं । नः । ग्रावाणः । शं । ऊं इति ।  
+> संतु । यज्ञाः ।  
+> शं । नः । स्वरूणां । मितयः । भवंतु । शं । नः । प्रस्वः । शं । ऊं इति । अस्तु । वेदिः ॥
+
+### Printed p. 174
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं शं शांत्यै सोमो भवतु । ब्रह्म स्तोत्रमपि नोऽस्माकं शं शांत्यै भवतु । ग्रावाणोऽभिषवसाधनभूताः पाषाणा अपि नोऽस्माकं शं शांत्यै भवंतु । यज्ञाश्च नः शमु शांत्या एव संतु । स्वरूणां यूपानां मितय उन्मानान्यपि नोऽस्माकं शं शांत्यै भवंतु । प्रस्व ओषधयोऽपि नोऽस्माकं शं शांत्यै भवंतु । वेदिरपि नः शमु शांत्या एवास्तु ॥
+
+##### Gist of the bhāṣya
+
+Let Soma be for our peace. The brahma, the praise, also be for our peace. The Grāvans, the stones that are the means of pressing, also be for our peace. Let the sacrifices be for our peace alone. The measures (mitayaḥ) of the Svarus, the sacrificial posts, also be for our peace. The Prasvas, the herbs, also be for our peace. The altar also be for our peace alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- सोमः (*somaḥ*)—let Soma
+- भवतु (*bhavatu*)—be offered
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace
+- ब्रह्म (*brahma*)—let the praise also be recited
+- ग्रावाणः (*grāvāṇaḥ*)—the pressing stones also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace (let them press the Soma)
+- यज्ञाः (*yajñāḥ*)—the sacrifices also
+- शमु (*śamu*)—for our peace alone
+- संतु (*saṃtu*)—let them be performed
+- स्वरूणां (*svarūṇāṃ*)—of the sacrificial posts
+- मितयः (*mitayaḥ*)—the measures also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—for peace alone
+- भवंतु (*bhavaṃtu*)—let them be
+- प्रस्वः (*prasvaḥ*)—the herbs also
+- नः (*naḥ*)—our
+- शं (*śaṃ*)—let them be for peace alone
+- वेदिः (*vediḥ*)—the sacrificial altar also
+- नः (*naḥ*)—our
+- शमु (*śamu*)—for peace alone
+- अस्तु (*astu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma be offered for our peace alone. May the praise also be recited for our peace alone. May the pressing stones press the Soma for our peace. May the sacrifices be performed for our peace alone. May the measures of the sacrificial posts also be for our peace alone. May the herbs also bring about our peace. May the sacrificial altar also produce peace for us.
+
+##### English translation
+May the Soma be (offered for) our happiness: may the prayer be (uttered for) our happiness : may the stones (grind the Soma), the sacrifice be (solemnized for) our happiness : may the measured lengths of the sacrificial posts be (conducive to) our felicity : may the sacred grass be (strewn)for our happiness : may the altar be (raised for) our happiness.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नः॒ सूर्य॑ उरु॒चक्षा॒ उदे॑तु॒ शं न॒श्चत॑स्रः प्र॒दिशो॑ भवंतु ।  
+> शं नः॒ पर्व॑ता ध्रु॒वयो॑ भवंतु॒ शं नः॒ सिंध॑वः॒ शमु॑ सं॒त्वापः॑ ॥
+
 ---
 
-**Progress note:** Done through printed p. 168. pp. 163-168 (batch API)
+**Progress note:** Done through printed p. 174. pp. 169-174 (batch API)
