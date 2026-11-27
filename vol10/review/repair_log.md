@@ -162,3 +162,79 @@
 | 61 | `*bahuvrīhau prakṛtyā pūrvapadam*: the accent` → `*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the accent` | SECOND-PASS S3: Kannada p.61 (ಪಾ. ಸೂ. ೬-೨-೧) |
 | 61 | `*ājjaser asuk* the augment` → `*ājjaser asuk* (Pā. Sū. 7-1-50) the augment` | SECOND-PASS S3: Kannada p.61 (ಪಾ. ಸೂ. ೭-೧-೫೦) |
 | 61 | `*ñnityādir nityam* — the initial` → `*ñnityādir nityam* (Pā. Sū. 6-1-197) — the initial` | SECOND-PASS S3: Kannada p.61 (ಪಾ. ಸೂ. ೬-೧-೧೯೭) |
+
+### 2026-11-27 second pass, batch e62-91.tsv
+| page | old → new | why |
+|---|---|---|
+| 63 | `recorded among the hundred names of water (Ni. 2-23, as read` → `recorded among the hundred and one names of water (Ni. 2-24, as read` | SECOND-PASS S2: Kannada p.63 ನೂರೊಂದು ಉದಕನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೨೪): hundred and one; Ni. 2-24 |
+| 65 | `(Ṛ. Saṃ. 1-79-4.)` → `(Ṛ. Saṃ. 1-29-4.)` | SECOND-PASS S1: Kannada p.65 (ಋ. ಸಂ. ೧-೨೯-೪) |
+| 65 | `*bahuvrīhau prakṛtyā pūrvapadam*: the accent` → `*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1): the accent` | SECOND-PASS S3: Kannada p.65 (ಪಾ. ಸೂ. ೬-೨-೧) |
+| 65 | `*ñnityādir nityam* — the initial acute` → `*ñnityādir nityam* (Pā. Sū. 6-1-197) — the initial acute` | SECOND-PASS S3: Kannada p.65 (ಪಾ. ಸೂ. ೬-೧-೧೯೭) |
+| 65 | `*namovarivaścitrāṅaḥ kyac* the suffix` → `*namovarivaścitrāṅaḥ kyac* (Pā. Sū. 3-1-19) the suffix` | SECOND-PASS S3: Kannada p.65 (ಪಾ. ಸೂ. ೩-೧-೧೯) |
+| 65 | `*āryaḥ svāmivaiśyayoḥ* — the suffix` → `*āryaḥ svāmivaiśyayoḥ* (Pā. Sū. 3-1-103) — the suffix` | SECOND-PASS S3: Kannada p.65 (ಪಾ. ಸೂ. ೩-೧-೧೦೩) |
+| 66 | `*kvasuś ca* the suffix` → `*kvasuś ca* (Pā. Sū. 3-2-107) the suffix` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೩-೨-೧೦೭) |
+| 66 | `*kuhoś cuḥ* the *j*` → `*kuhoś cuḥ* (Pā. Sū. 7-4-62) the *j*` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೭-೪-೬೨) |
+| 66 | `*vasoḥ saṃprasāraṇam* — *saṃprasāraṇa*` → `*vasoḥ saṃprasāraṇam* (Pā. Sū. 6-4-131) — *saṃprasāraṇa*` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೬-೪-೧೩೧) |
+| 66 | `*śāsivasighasīnāṃ ca* — *ṣatva*` → `*śāsivasighasīnāṃ ca* (Pā. Sū. 8-3-60) — *ṣatva*` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೮-೩-೬೦) |
+| 66 | `*vyatyayo bahulam* — in *loṭ*` → `*vyatyayo bahulam* (Pā. Sū. 3-1-85) — in *loṭ*` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೩-೧-೮೫) |
+| 66 | `*tujādīnāṃ dīrgho 'bhyāsasya* the lengthening` → `*tujādīnāṃ dīrgho 'bhyāsasya* (Pā. Sū. 6-1-7) the lengthening` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೬-೧-೭) |
+| 66 | `*dhātor ekācaḥ…*, *yaṅ* comes` → `*dhātor ekācaḥ…* (Pā. Sū. 3-1-22), *yaṅ* comes` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೩-೧-೨೨) |
+| 66 | `*nugator anunāsikād…* — the *nuk*` → `*nugator anunāsikād…* (Pā. Sū. 7-4-85) — the *nuk*` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೭-೪-೮೫) |
+| 66 | `*dīrgha iṇkitaḥ* — the lengthening` → `*dīrgha iṇkitaḥ* (Pā. Sū. 7-4-83) — the lengthening` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ. ೭-೪-೮೩) |
+| 66 | `*supāṃ sulug…* the substitute` → `*supāṃ sulug…* (Pā. Sū. 7-1-39) the substitute` | SECOND-PASS S3: Kannada p.66 (ಪಾ. ಸೂ ೭-೧-೩೯) |
+| 66 | `when the genitive (locative) ending follows` → `when the genitive ending follows` | SECOND-PASS S16: Kannada p.66 ಷಷ್ಠಿ ವಿಭಕ್ತಿ ಪರವಾದಾಗ; no locative |
+| 67 | `*śiśvaḥ* — the immature;` → `*śiśvaḥ* — the ignorant;` | SECOND-PASS S14: Kannada p.67 ಶಿಶ್ವಃ—ಅಜ್ಞಾನಿಗಳಾದ (ignorant) |
+| 67 | `the four immature sons` → `the four ignorant sons` | SECOND-PASS S14: Kannada p.67 ಭಾವಾರ್ಥ ನಾಲ್ಕು ಅಜ್ಞಾನಿಗಳಾದ ಮಕ್ಕಳೂ |
+| 68 | `is *Murmurāra*, *Nāpusasa*;` → `is *Marmaśāra*, *Nāhuṣa*;` | SECOND-PASS S13: Kannada p.68 ಮರ್ಮಶಾರನೆಂಬುವನೇ ನಾಹುಷನೆಂಬುವನೆಂದು (sp_sanskrit: marmaśāra, nāhuṣa) |
+| 68 | `recorded among the fifteen names of form` → `recorded among the sixteen names of form` | SECOND-PASS S1: Kannada p.68 ಹದಿನಾರು ರೂಪನಾಮಗಳಲ್ಲಿ |
+| 68 | `(Ṛ. Saṃ. 1-122-15.) Mitra and Varuṇa, [we pray]` → `Mitra and Varuṇa, [we pray]` | SECOND-PASS S2: Kannada p.68 gives no reference after this sentence (number removed) |
+| 68 | `(Ṛ. Saṃ. 5-62-8.)` → `(Ṛ. Saṃ. 5-6-8.)` | SECOND-PASS S1: Kannada p.68 (ಋ. ಸಂ. ೫-೬-೮) |
+| 69 | `*gatikārakopapadāt kṛt* — the accent` → `*gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) — the accent` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೬-೨-೧೩೯) |
+| 69 | `*kṅiti ca* — guṇa is prohibited` → `*kṅiti ca* (Pā. Sū. 1-1-5) — guṇa is prohibited` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೧-೧-೫) |
+| 69 | `and *supāṃ sulug…* — *ā* for it` → `and *supāṃ sulug…* (Pā. Sū. 7-1-39) — *ā* for it` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೭-೧-೩೯) |
+| 69 | `*āmantritasya ca* — the *nighāta*` → `*āmantritasya ca* (Pā. Sū. 8-1-19) — the *nighāta*` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೮-೧-೧೯) |
+| 69 | `*bahuvrīhau prakṛtyā pūrvapadam* — the accent` → `*bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) — the accent` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೬-೨-೧) |
+| 69 | `*chandasi luṅlaṅliṭaḥ* — *luṅ*` → `*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — *luṅ*` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೩-೪-೬) |
+| 69 | `*dyudbhyo luṅi* — it becomes` → `*dyudbhyo luṅi* (Pā. Sū. 1-3-91) — it becomes` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೧-೩-೯೧) |
+| 69 | `*sici vṛddhiḥ parasmaipadeṣu* — *vṛddhi*` → `*sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-1) — *vṛddhi*` | SECOND-PASS S3: Kannada p.69 (ಪಾ. ಸೂ. ೭-೨-೧) |
+| 70 | `*ato vṛddhir luki hali* — *vṛddhi* for the *u*` → `*ato vṛddhir luki hali* (Pā. Sū. 7-3-89) — *vṛddhi* for the *u*` | SECOND-PASS S3: Kannada p.70 ಉತೋ ವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ (ಪಾ. ಸೂ. ೭-೩-೮೯) |
+| 70 | `by *tiṅ atiṅaḥ* the *nighāta*` → `by *tiṅ atiṅaḥ* (Pā. Sū. 8-1-28) the *nighāta*` | SECOND-PASS S3: Kannada p.70 (ಪಾ. ಸೂ. ೮-೧-೨೮) |
+| 70 | `92nd Sūkta (15 ṛks [?])` → `92nd Sūkta (15 ṛks)` | SECOND-PASS Q1: Kannada p.70 ೯೨ ನೇ ಸೂಕ್ತ (೧೫ ಋಕ್ಕುಗಳು) |
+| 71 | `1-92-14; 4-52-6; 1-79-4; 5-74-10; 8-47-14` → `1-92-14; 4-52-6; 5-79-4; 5-79-10; 8-47-14` | SECOND-PASS S1: Kannada p.71 ೫-೭೯-೪; ೫-೭೯-೧೦ |
+| 72 | `2-41-18; 4-25-9; 6-61-3` → `2-41-18; 4-55-9; 6-61-3` | SECOND-PASS S1: Kannada p.72 ೪-೫೫-೯ |
+| 72 | `only in Ṛ. Saṃ. 1-123-4 and 5, and 1-123-4 [as printed twice` → `only in Ṛ. Saṃ. 1-123-4 and Ṛ. Saṃ. 1-123-4 [as printed twice` | SECOND-PASS S1: Kannada p.72 ೧-೧೨೩-೪ ಮತ್ತು ೧-೧೨೩-೪ (no "and 5") |
+| 72 | `stray digit]; 10-75-8.` → `stray digit]; 10-75-6.` | SECOND-PASS S1: Kannada p.72 ೧೦-೭೫-೬ |
+| 72 | `Ṛ. Saṃ. 3-5-11; 4-52-2` → `Ṛ. Saṃ. 3-55-11; 4-52-2` | SECOND-PASS S1: Kannada p.72 ೩-೫೫-೧೧ |
+| 72 | `also Ṛ. Saṃ. 1-92-13; 1-22-3` → `also Ṛ. Saṃ. 1-92-14; 1-22-3` | SECOND-PASS S1: Kannada p.72 ೧-೯೨-೧೪ |
+| 73 | `section *ahoṣasyaḥ*` → `section *athoṣasyaḥ*` | SECOND-PASS S13: Kannada p.73 ಅಥೋಷಸ್ಯಃ (sp_sanskrit: athoṣasyaḥ) |
+| 73 | `*pṛthū ratha iti sūkte pratyṛcam ityādi*` → `*pṛthū ratha iti sūkte pratyarcir ity aṣṭau*` | SECOND-PASS S7: Kannada p.73 ಪೃಥೂ ರಥ ಇತಿ ಸೂಕ್ತೇ ಪ್ರತ್ಯರ್ಚಿರಿತ್ಯಷ್ಟೌ (sp_sanskrit: pṛthū ratha iti sūkte pratyarcirityaṣṭau) |
+| 76 | `*mahat, brahman* [as read]` → `*mahat, bradhnaḥ* [as read]` | SECOND-PASS S13: Kannada p.76 ಮಹತ್ ಬ್ರಧ್ನಃ (sp_sanskrit: mahat bradhnaḥ) |
+| 77 | `(Ṛ. Saṃ. 7-78-1, as printed; the middle digit 8 and last digit 1 read from a 900-dpi zoom,` → `(Ṛ. Saṃ. 7-68-1.)` | SECOND-PASS S1: Kannada p.77 (ಋ. ಸಂ. ೭-೬೮-೧) |
+| 78 | `*aruṇo gāva uṣasaḥ*` → `*āruṇyo gāva uṣasaḥ*` | SECOND-PASS S7: Kannada p.78 ಆರುಣ್ಯೋ ಗಾವ ಉಷಸಃ (sp_sanskrit: āruṇyo gāva uṣasaḥ) |
+| 78 | `*ciṇ bhāvakarmaṇoḥ* — *ciṇ*` → `*ciṇ bhāvakarmaṇoḥ* (Pā. Sū. 3-1-66) — *ciṇ*` | SECOND-PASS S3: Kannada p.78 (ಪಾ. ಸೂ. ೩-೧-೬೬) |
+| 78 | `by *ciṇo luk* (*ciṇo luk*, as printed)` → `by *ciṇo luk* (Pā. Sū. 6-4-104) (*ciṇo luk*, as printed)` | SECOND-PASS S3: Kannada p.78 ಚಿಣೋಲುಕ್ (ಪಾ. ಸೂ. ೬-೪-೧೦೪) |
+| 78 | `when *jas* follows, *ājjaser asuk*. *Amṛtāsaḥ*` → `when *jas* follows, *ājjaser asuk* (Pā. Sū. 7-1-50). *Amṛtāsaḥ*` | SECOND-PASS S3: Kannada p.78 (ಪಾ. ಸೂ. ೭-೧-೫೦) |
+| 78 | `*ñño jaramarami…* the final acute` → `*nañjarāmara…* (Pā. Sū. 6-2-116) the final acute` | SECOND-PASS S7: Kannada p.78 ನಞ್ಜರಾಮರ (ಪಾ. ಸೂ. ೬-೨-೧೧೬) (sp_sanskrit: nañjarāmara) |
+| 78 | `and by *gātisthāghupābhūbhyaḥ sicaḥ* the *luk*` → `and by *gātisthāghupābhūbhyaḥ sicaḥ* (Pā. Sū. 2-4-77) the *luk*` | SECOND-PASS S3: Kannada p.78 (ಪಾ. ಸೂ. ೨-೪-೭೭) |
+| 78 | `*ātaḥ* the substitute *jus*` → `*ātaḥ* (Pā. Sū. 3-4-110) the substitute *jus*` | SECOND-PASS S3: Kannada p.78 ಆತಃ (ಪಾ. ಸೂ. ೩-೪-೧೧೦) |
+| 78 | `*usyapadāntāt* the *pararūpa*` → `*usyapadāntāt* (Pā. Sū. 6-1-96) the *pararūpa*` | SECOND-PASS S3: Kannada p.78 (ಪಾ. ಸೂ. ೬-೧-೯೬) |
+| 78 | `(by the sūtra *kiter vyādhipratīkāre*) the suffix` → `(by the sūtra *kiter vyādhipratīkāre*, Pā. Sū. 3-1-5-3) the suffix` | SECOND-PASS S3: Kannada p.78 (ಪಾ. ಸೂ. ೩-೧-೫-೩) applied as printed; listed in open.tsv |
+| 81 | `and as the name of a king (Ni. 11-17)` → `and as the name of a king (Ni. 11-16)` | SECOND-PASS S1: Kannada p.81 (ನಿ. ೧೧-೧೬) |
+| 81 | `"oblations" or "water" (Ni. 1-27)` → `"oblations" or "water" (Ni. 11-27)` | SECOND-PASS S1: Kannada p.81 (ನಿ. ೧೧-೨೭) |
+| 82 | `(Ṛ. Saṃ. 1-92-10, as read.)` → `(Ṛ. Saṃ. 1-92-1, as read.)` | SECOND-PASS S1: Kannada p.82 (ಋ. ಸಂ. ೧-೯೨-೧) |
+| 82 | `*dīpajana…budhapūriṭāyi…* — *ciṇ*` → `*dīpajana…budhapūriṭāyi…* (Pā. Sū. 3-1-61) — *ciṇ*` | SECOND-PASS S3: Kannada p.82 (ಪಾ. ಸೂ. ೩-೧-೬೧) |
+| 83 | `*ciṇo luk* — the loss of the following *ta*` → `*ciṇo luk* (Pā. Sū. 6-4-104) — the loss of the following *ta*` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೬-೪-೧೦೪) |
+| 83 | `*ugitaś ca* the suffix *ṅīp*; since it follows` → `*ugitaś ca* (Pā. Sū. 4-1-6) the suffix *ṅīp*; since it follows` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೪-೧-೬) |
+| 83 | `*chandasi luṅlaṅliṭaḥ* — *luṅ* in the sense of the present; *asyativaktikhyātibhyo 'ṅ* — *` → `*chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6) — *luṅ* in the sense of the present; *asyativaktikh` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೩-೪-೬), (ಪಾ. ಸೂ. ೩-೧-೫೨) |
+| 83 | `*ato lopa iṭi ca* — the loss` → `*ato lopa iṭi ca* (Pā. Sū. 6-4-64) — the loss` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೬-೪-೬೪) |
+| 83 | `*yūnas tiḥ* the suffix *ti*` → `*yūnas tiḥ* (Pā. Sū. 4-1-77) the suffix *ti*` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೪-೧-೭೭) |
+| 83 | `*striyāṃ ktin* the suffix *ktin*` → `*striyāṃ ktin* (Pā. Sū. 3-3-94) the suffix *ktin*` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೩-೩-೯೪) |
+| 83 | `*halaḥ* the lengthening` → `*halaḥ* (Pā. Sū. 6-4-2) the lengthening` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ. ೬-೪.೨) |
+| 83 | `*tādau ca niti* — the accent` → `*tādau ca niti* (Pā. Sū. 6-2-50) — the accent` | SECOND-PASS S3: Kannada p.83 (ಪಾ. ಸೂ ೬-೨-೫೦) |
+| 85 | `*damanamanāḥ* — one with a cruel/restrained mind [as printed]` → `*damanamanāḥ* — one who has no cruel mind` | SECOND-PASS S14: Kannada p.85 ದಮಮನಾಃ ಕ್ರೂರವಾದ ಮನಸ್ಸಿಲ್ಲದವನು |
+| 89 | `देवी जोष्ट्री वसुधिती ययोरन्या घ[?]द्वेषांसि यायोवदन्या वक्ष[?]द्वसु ।` → `देवी जोष्ट्री वसुधीती ययोरन्याघाद्वेषांसि यूयावदन्यावक्षद्वसु ।` | SECOND-PASS Q1: Kannada p.89 ದೇವೀ ಜೋಷ್ಟ್ರೀ ವಸುಧೀತೀ ಯಯೋರನ್ಯಾಘಾದ್ವೇಷಾಂಸಿ ಯೂಯಾವದನ್ಯಾವಕ್ಷದ್ವಸು (Devanagari by sp_sanskrit; both [?] settled: ghā, vakṣad) |
+| 89 | `devī joṣṭrī vasudhitī yayoranyā gh[?]dveṣāṃsi yāyovadanyā vakṣa[?]dvasu |` → `devī joṣṭrī vasudhītī yayoranyāghādveṣāṃsi yūyāvadanyāvakṣadvasu |` | SECOND-PASS Q1: Kannada p.89 ದೇವೀ ಜೋಷ್ಟ್ರೀ ವಸುಧೀತೀ ಯಯೋರನ್ಯಾಘಾದ್ವೇಷಾಂಸಿ ಯೂಯಾವದನ್ಯಾವಕ್ಷದ್ವಸು (IAST by sp_sanskrit) |
+| 89 | `(Vā. Saṃ. 28-10. The first line` → `(Vā. Saṃ. 25-15. The first line` | SECOND-PASS S1: Kannada p.89 (ನಾ. ಸಂ. ೨೫-೧೫) |
+| 89 | `(Yajus Saṃ. 8-18, as printed.)` → `(Yajus Saṃ. 8-15, as printed.)` | SECOND-PASS S1: Kannada p.89 (ಯ. ಪಾ. ಸಂ. ೮-೧೫) |
+| 89 | `*sanvallaghuni…* (Pā. Sū. 7-4-79) *i* in` → `*sanyataḥ* (Pā. Sū. 7-4-29) *i* in` | SECOND-PASS S13: Kannada p.90 ಸನ್ಯತಃ(ಪಾ. ಸೂ. ೭-೪-೨೯) (sp_sanskrit: sanyataḥ) |
+| 90 | `*śyas śyanor nityam* (Pā. Sū. 7-1-81; the first letter of each of the two words is medium)` → `*śyapśyanor nityam* (Pā. Sū. 3-1-81)` | SECOND-PASS S1: Kannada p.90 ಶ್ಯಪ್‌ಶ್ಯನೋರ್ನಿತ್ಯಂ (ಪಾ. ಸೂ. ೩-೧-೮೧) (sp_sanskrit: śyapśyanornityaṃ) |
