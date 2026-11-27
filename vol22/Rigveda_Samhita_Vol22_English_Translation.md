@@ -9140,6 +9140,285 @@ Indra, the upholder of the three regions, whom the divine Nirriti acknowledges a
 > आ । नः । राधांसि । सवितरिति । स्तवध्यै । आ । रायः । यंतु । पर्वतस्य । रातौ ।  
 > सदा । नः । दिव्यः । पायुः । सिसक्तु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ८ ॥
 
+### Printed p. 205
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः सर्वस्य प्रेरक देव त्वत्सकाशात् स्तवध्यै स्तोतुं योग्यानि राधांसि धनानि नोऽस्माना यंतु । आगच्छंतु । पर्वतस्य । पर्वत इति कश्चिदिंद्रस्य सखा । एत-संज्ञकस्य देवस्य रातौ दाने सति रायो धनान्यस्माना यंतु । पायुः सर्वस्य पालको दिव्यो दिवि भवः स इंद्रः सदा सर्वदा नोऽस्मान् सिषक्तु । रक्षकत्वेन सेवतां । अस्मिन्सूक्ते ये प्रतिपादिता देवास्ते सर्वे यूयं नोऽस्मान् स्वस्तिभिः कल्याणैः सदा पात । पालयत ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, god who impels all, may riches (राधांसि (*rādhāṃsi*), wealth) worthy to be praised come to us from you. Parvata: a certain friend of Indra. When the god of that name makes a gift, may riches come to us. Pāyu is the protector of all; Divya is the one born in heaven, namely Indra. May he always serve us as protector. All the gods who are celebrated in this sūkta, you, with blessings (welfare), always protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O Savitṛ
+- स्तवध्यै (*stavadhyai*)—worthy of praise
+- राधांसि (*rādhāṃsi*)—your riches
+- नः (*naḥ*)—to us
+- आ यंतु (*ā yaṃtu*)—may they come
+- पर्वतस्य (*parvatasya*)—of the god Parvata
+- रातौ (*rātau*)—by reason of generosity **NOTE**
+- रायः (*rāyaḥ*)—his riches
+- आ (*ā*)—may they come and join us
+- पायुः (*pāyuḥ*)—the protector of the world
+- दिव्यः (*divyaḥ*)—Indra, who dwells in heaven
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- सिषक्तु (*siṣaktu*)—may he serve with protections (O gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Savitṛ, may your riches, worthy of praise, come to us. May the riches of the generous god Parvata also come and join us. May Indra, protector of the world and dweller in heaven, always come and serve us with his protections. O gods, always protect us with blessings (कल्याण दासगळिंद (*kalyāṇa dāsagaḷiṃda*) **NOTE**).
+
+##### English translation
+May riches worthy of laudation come, Savitri to us : riches that are in the bestowal of Parvata : may the heavenly protector (of all) ever preserve us : and do you, (universal gods), ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there are praises of Savitṛ, of Indra, and of a deity called Parvata, said to be Indra's friend.
+
+## Sūkta 38 (Maṇḍala 2)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदु ष्य देव इत्यष्टर्चं पंचमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं सवितृदेवताकं । सप्तम्यष्टम्यौ वाजिदेवताके । भगमुग्रोऽवस इत्यर्धर्चो भगदेवत्ये सावित्रो वा । तथा चानुक्रमणिका । उदु ष्य सावित्रमंत्ये वाजिनौ भगमिति भागे वार्धर्चौ इति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उदु ष्य देव (*udu ṣya deva*) has eight Ṛks; it is the fifth sūkta (of the anuvāka). Its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Savitṛ. The seventh and eighth Ṛks have Vāji (the Vājins) as deity. The two half-verses beginning भगमुग्रोऽवस (*bhagamugro 'vasa*) have Bhaga as deity, or else Savitṛ. So the Anukramaṇikā: उदु ष्य सावित्रमंत्ये वाजिनौ भगमिति भागे वार्धर्चौ (*udu ṣya sāvitramaṃtye vājinau bhagamiti bhāge vārdharcau*). The use of the whole sūkta (sūktaviniyoga) has been stated already.
+
+##### English translation
+Anuvāda: This sūkta, उदु ष्य देवः (*udu ṣya devaḥ*), is the fifth sūkta in the third anuvāka. It has eight Ṛks. Vasiṣṭha is the seer of this sūkta. Savitṛ is the deity, the metre is Triṣṭubh. But the seventh and eighth Ṛks of this sūkta have the Vājins as deity.
+
+### Printed p. 206
+The latter half of the sixth Ṛk, भगमुग्रोऽवसे (*bhagamugro 'vase*), has Bhaga or Savitṛ as deity. In the Anukramaṇikā it is said उदु ष्य सावित्रमंत्ये वाजिनौ भगमिति भागोऽर्धर्चः (*udu ṣya sāvitramaṃtye vājinau bhagamiti bhāgo 'rdharcaḥ*) **NOTE**. The use has been stated before.
+
+##### Particulars
+
+Sūkta—38
+Maṇḍala—2. Anuvāka—3. Sūkta—38.
+Aṣṭaka—2. Adhyāya—4. Varga—5.
+Number of Ṛks in the sūkta—8.
+Seer—Vasiṣṭha.
+Deity—1–5, and the first half of 6: Savitṛ; the second half of 6: Savitṛ or Bhaga; 7, 8: the Vājins.
+Metre—Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ष्य दे॒वः स॑वि॒ता य॑याम हिर॒ण्ययी॑म॒मतिं॒ यामशि॑श्रेत् ।  
+> नू॒नं भगो॒ हव्यो॒ मानु॑षेभि॒र्वि यो रत्ना॑ पुरू॒वसु॒र्दधा॑ति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्यः । देवः । सविता । ययाम । हिरण्ययीं । अमतिं । यां । अशिश्रेत् ।  
+> नूनं । भगः । हव्यः । मानुषेभिः । वि । यः । रत्ना । पुरुवसुः । दधाति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता सर्वस्य प्रेरकः स्य स देवो हिरण्ययीं सुवर्णमयीं याममतिं । रूपेणाव्यैतेत् । रूपं । प्रभामित्यर्थः । आशिश्रेत् आश्रयति ताममतिमुद्ययाम । उद्यच्छति । उद्गमयति । उ इति पादपूरणः । नूनमद्य भगो भजनीयो यः सविता मानुषेभिर्मनुष्यैः स्तोतृभिर्हव्यो हवनीयः स्तोतव्यो भवति । पुरूवसुर्बहुधनो यो देवः स्तोतृभ्यो रत्ना रत्नानि रमणीयानि धनानि वि दधाति करोति । स सविता देवस्ताममतिमुद्ययामेति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impeller of all, that god raises up (उद्ययाम (*udyayāma*)) the golden (हिरण्ययीं (*hiraṇyayīṃ*)) amati which he resorts to (आशिश्रेत् (*āśiśret*)). Amati is glossed as form, that is, radiance; the quoted words रूपेणाव्यैतेत् (*rūpeṇāvyaitet*) **NOTE** are followed by रूपं (*rūpaṃ*). He raises it up, makes it rise. उ (*u*) is a mere verse-filler. Now (today) Bhaga, the one to be shared in (bhajanīya), who is Savitṛ, is to be invoked, that is, praised, by men, the praisers. Purūvasu is one with much wealth: the god who bestows (वि दधाति (*vi dadhāti*)) on the praisers ratna, delightful riches. That god Savitṛ raised that amati: this is the connection with the preceding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नूनं (*nūnaṃ*)—now
+- भगः (*bhagaḥ*)—the venerable one
+- मानुषेभिः (*mānuṣebhiḥ*)—by men
+- हव्यः (*havyaḥ*)—the one who is praised
+- पुरुवसुः (*puruvasuḥ*)—the one possessed of very abundant wealth
+- यः (*yaḥ*)—which Savitṛ-god
+### Printed p. 207
+- रत्ना (*ratnā*)—delightful riches
+- वि दधाति (*vi dadhāti*)—gives to the praisers
+- स्यः (*syaḥ*)—such a famous one
+- देवः (*devaḥ*)—the divine one
+- सविता (*savitā*)—Savitṛ-god
+- हिरण्ययीं (*hiraṇyayīṃ*)—golden
+- यां अमतिं (*yāṃ amatiṃ*)—which radiant form
+- आश्रेत् (*āśret*)—he has taken up, that
+- उद्ययाम (*udyayāma*)—he spreads, making it shine
+
+##### भावार्थ (Bhāvārtha)
+
+The venerable one, praised by men, possessed of abundant wealth, the Savitṛ-god who gives delightful riches to the praisers: such a famous, divine Savitṛ makes his own golden, radiant form shine.
+
+##### English translation
+The divine Savitri has diffused the golden radiance on high, of which he is the asylum : verily Bhaga is to be adored by men who, abounding in wealth, distributes treasures (amoungst them)
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॑ तिष्ठ सवितः श्रु॒ध्य१॒॑स्य हिर॑ण्यपाणे॒ प्रभृ॑तावृ॒तस्य॑ ।  
+> व्यु१॒॑र्वीं पृ॒थ्वीम॒मतिं॑ सृजा॒न आ नृभ्यो॑ मर्त॒भोज॑नं सुवा॒नः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । तिष्ठ । सवितरिति । श्रुधि । अस्य । हिरण्यपाणे । प्रभृतौ । ऋतस्य ।  
+> वि । उर्वीं । पृथ्वीं । अमतिं । सृजानः । आ । नृभ्यः । मर्तभोजनं । सुवानः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः सर्वस्य प्रेरयितर्देव त्वमुत्तिष्ठ । ऊर्ध्वं गच्छ । ततो हे हिरण्यपाणे हे सुवर्णहस्त त्वमस्मदभीप्सितप्रदानायर्तस्य यज्ञस्य प्रभृतौ प्रणयनेऽस्यास्मदीयमिदं स्तोत्रं श्रुधि । शृणु । उ इति पूरणः । कीदृशस्त्वं । उर्वीं विस्तीर्णां पृथ्वीं प्रथिताममतिं रूपं प्रभां वि सृजानो विसृजन्नृभ्यो नेतृभ्यः स्तोतृभ्यो मर्तभोजनं मनुष्याणां भोगयोग्यं धनमा सुवानः प्रेरयन् । एवंभूतस्त्वमिदं स्तोत्रं शृण्विति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, impeller of all, rise up, go upward. Then, O golden-handed one, in order to grant what we desire, at the opening (prabhṛti, the leading forward) of the ṛta, the sacrifice, hear this praise of ours; उ (*u*) is a filler. What are you like? You send forth the broad, spread-out amati, that is form or radiance, and you impel to the leaders (nṛ), the praisers, wealth fit for the enjoyment of mortals. Being such, hear this praise: such is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O Savitṛ, impeller of all
+- उत् तिष्ठ (*ut tiṣṭha*)—rise
+- हिरण्यपाणे (*hiraṇyapāṇe*)—O Savitṛ with golden hands
+- उर्वीं (*urvīṃ*)—which is extensive
+- पृथ्वीं (*pṛthvīṃ*)—and spreads out abundantly, pervading
+### Printed p. 208
+- अमतिं (*amatiṃ*)—the form of radiance
+- वि सृजानः (*vi sṛjānaḥ*)—spreading
+- नृभ्यः (*nṛbhyaḥ*)—to the praisers, who are leaders
+- मर्तभोजनं (*martabhojanaṃ*)—wealth fit for the enjoyment of men
+- आ सुवानः (*ā suvānaḥ*)—supplying
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- प्रभृतौ (*prabhṛtau*)—at the time of beginning
+- अस्य (*asya*)—this praise of ours
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Savitṛ, impeller of all, rise. O Savitṛ with golden hands, spreading the form of radiance that is extensive and pervades abundantly, and supplying to the praisers, who are leaders, wealth fit for the enjoyment of men, hear this praise of ours at the beginning of the sacrifice.
+
+##### English translation
+Rise up, Savitri : hear (our solicitations) upon the celebration of this ceremony, (you who are) diffusing light over the spacious earth, and bestowing human enjoyments upon men.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपि॑ ष्टु॒तः स॑वि॒ता दे॒वो अ॑स्तु॒ यमा चि॒द्विश्वे॒ वस॑वो गृ॒णंति॑ ।  
+> स नः॒ स्तोमा॑न्नम॒स्य१॒॑श्चनो॑ धा॒द्विश्वेः॑भि पातु पा॒युभि॒र्नि सू॒रीन् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपि । स्तुतः । सविता । देवः । अस्तु । यं । आ । चित् । विश्वे । वसवः । गृणंति ।  
+> सः । नः । स्तोमान् । नमस्यः । चनः । धात् । विश्वेभिः । पातु । पायुभिः । नि ।  
+> सूरीन् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि च सविता देवोऽस्माभिः स्तुतोऽस्तु । अस्मदीयाः स्तुतीः शृणोत्वित्यर्थः । विश्वे वसवश्चित् सर्वे देवा अपि यं सवितारमा गृणंति अभिष्टुवंति नमस्यः सर्वैर्नमस्करणीयः स देवः स्तोमान्नोऽस्मदीयानि स्तोत्राणि चनोऽन्नं धात् । दधातु । अन्नफलानि करोतु । विश्वेभिर्विश्वैः सर्वैः पायुभिः पालनैः सूरीन् स्तोतॄनस्मान्नि पातु । नितरां पालयतु ॥
+
+##### Gist of the bhāṣya
+
+And may the god Savitṛ be praised by us; that is, may he hear our praises. Whom all the Vasus, all the gods, praise (आ गृणंति (*ā gṛṇaṃti*), address with praise), that Savitṛ, to be revered (namasya) by all, may he set (धात् (*dhāt*), place) our praises (stomas) and food (चनः (*canaḥ*) is food): may he make them yield the fruits of food. With all (viśvebhiḥ) protections (pāyubhiḥ) may he protect well the sūris, the praisers, us; नि पातु (*ni pātu*) means may he protect completely.
+
+### Printed p. 209
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपि (*api*)—and
+- देवः (*devaḥ*)—the divine
+- सविता (*savitā*)—Savitṛ
+- स्तुतः (*stutaḥ*)—as one praised by us
+- अस्तु (*astu*)—let him be
+- विश्वे (*viśve*)—all
+- वसवः चित् (*vasavaḥ cit*)—even the gods called Vasus
+- यं (*yaṃ*)—whom, Savitṛ
+- आ गृणंति (*ā gṛṇaṃti*)—they praise
+- नमस्यः (*namasyaḥ*)—the venerable
+- सः (*saḥ*)—that same Savitṛ
+- नः (*naḥ*)—our
+- स्तोमान् (*stomān*)—praises
+- चनः (*canaḥ*)—and food
+- धात् (*dhāt*)—may he hold
+- विश्वेभिः (*viśvebhiḥ*)—all
+- पायुभिः (*pāyubhiḥ*)—with protections
+- सूरीन् (*sūrīn*)—us, the praisers
+- नि पातु (*ni pātu*)—may he protect
+
+##### भावार्थ (Bhāvārtha)
+
+May the divine Savitṛ be praised by us. Whom all the gods called Vasus praise, that same venerable Savitṛ, may he hold our praises and our foods. With all protections may he protect us, the praisers.
+
+##### English translation
+Glorified be the divine Savitri, whom all the gods praise : may that adorable (divinity) requite our praises (with) food : may he always protect the devout with all his protections.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि यं दे॒व्यदि॑तिर्गृ॒णाति॑ स॒वं दे॒वस्य॑ सवि॒तुर्जु॑षा॒णा ।  
+> अ॒भि स॒म्राजो॒ वरु॑णो गृणंत्य॒भि मि॒त्रासो॑ अर्य॒मा स॒जोषाः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । यं । देवी । अदितिः । गृणाति । सवं । देवस्य । सवितुः । जुषाणा ।  
+> अभि । संराजः । वरुणः । गृणंति । अभि । मित्रासः । अर्यमा । सजोषाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवी द्योतमानादितिरदीना देवमाता यं सवितारमभि गृणाति अभिष्टौति । कीदृशी । सवितुर्देवस्यैव सवं प्रसवमनुज्ञां जुषाणा सेवमाना । सम्राजः सम्यग्राजमाना वरुणः । उपलक्षणमेतत् । वरुणादयो देवा यं सवितारमभि गृणंति अभिष्टुवंति । मित्रासो मित्रादयश्च सजोषाः समानप्रीतिरर्यमैतत्संज्ञको देवश्चयमभि गृणंति । स नः स्तोमांश्चनो धादिति पूर्वयर्चा संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The goddess Aditi, the shining one, the undiminished one, mother of the gods, praises (अभि गृणाति (*abhi gṛṇāti*)) that Savitṛ. What is she like? She delights in (serves) the sava of the god Savitṛ, that is, his impulsion, his permission. Samrāj, those shining well, Varuṇa: this is an indication (upalakṣaṇa), so Varuṇa and the other gods praise that Savitṛ. Mitrāsaḥ, Mitra and the others, and Aryaman, the god of that name, of the same delight (sajoṣāḥ), praise him. The connection is with the previous Ṛk: स नः स्तोमांश्चनो धादिति (*sa naḥ stomāṃścano dhāditi*).
+
+### Printed p. 210
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the radiant one
+- सवितुः (*savituḥ*)—of the Savitṛ, who impels
+- सवं (*savaṃ*)—the permission
+- जुषाणा (*juṣāṇā*)—she who serves
+- देवी (*devī*)—the divine
+- अदितिः (*aditiḥ*)—the goddess Aditi
+- यं (*yaṃ*)—whom, Savitṛ
+- अभि गृणाति (*abhi gṛṇāti*)—she praises
+- सम्राजः (*samrājaḥ*)—those who have complete sovereignty
+- वरुणः (*varuṇaḥ*)—Varuṇa and the other gods
+- अभि (गृणंति) (*abhi (gṛṇaṃti)*)—whom, Savitṛ, they praise
+- सजोषाः (*sajoṣāḥ*)—possessed of equal affection
+- मित्रासः (*mitrāsaḥ*)—Mitra and the others
+- अर्यमा (*aryamā*)—the god called Aryaman
+- अभि गृणंति (*abhi gṛṇaṃti*)—whomever they praise, that Savitṛ may he hold our food and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Aditi, who serves the permission of the radiant, impelling Savitṛ, praises Savitṛ; the gods beginning with Varuṇa, who have complete sovereignty, praise Savitṛ; Mitra and the others of equal affection, and the god Aryaman, praise him: may that Savitṛ hold our food and the rest.
+
+##### English translation
+Whom the divine Aditi, delighting at the birth of the divine Savitri, glorifies, whom the supreme sovereigns, Varuna, Mitra, Aryaman, (and other gods), consentaneously adore.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि ये मि॒थो व॒नुषः॒ सपं॑ते रा॒तिं दि॒वो रा॑ति॒षाचः॑ पृथि॒व्याः ।  
+> अहि॑र्बु॒ध्न्य॑ उ॒त नः॑ शृणोतु॒ वरू॒त्र्येक॑धेनुभि॒र्नि पा॑तु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । ये । मिथः । वनुषः । सपंते । रातिं । दिवः । रातिऽसाचः । पृथिव्याः ।  
+> अहिः । बुध्न्यः । उत । नः । शृणोतु । वरूत्री । एकधेनुभिः । नि । पातु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रातिषाचो दानसेविनो वनुषः संभक्तारो ये यजमाना मिथः परस्परं संहता भूत्वा सवितारमभिलक्ष्य सपंते परिचरंति । कीदृशं । दिवो द्युलोकस्य पृथिव्या भूमेश्च रातिं मित्रभूतं । उतापि चाहिर्बुध्न्यः । बुध्नेऽंतरिक्षे भवो बुध्न्यः । एतीत्यहिः । एतत्पदद्वयाभिधो मध्यमस्थानोऽग्निरहिर्बुध्न्य इत्युच्यते ।
+
+##### Gist of the bhāṣya
+
+The sacrificers who are rātiṣāc, devoted to giving, vanuṣaḥ, sharers (worshippers), gathered together (mithaḥ, with one another), direct themselves to Savitṛ and serve him (सपंते (*sapaṃte*)). What is he like? A friend to the gift (rāti) of heaven and of earth. And also Ahirbudhnya: budhna is the atmosphere, one who is in the budhna is budhnya; एतीत्यहिः (*etītyahiḥ*). The deity of the middle region, Agni, denoted by these two words, is called Ahirbudhnya.
+
 ---
 
-**Progress note:** Done through printed p. 204. pp. 199-204 (batch API)
+**Progress note:** Done through printed p. 210. pp. 205-210 (batch API)
