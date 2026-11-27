@@ -15394,6 +15394,71 @@ O Dasras, of old each of the three great seers Gotama, Purumāḷva and Atri, pr
 ##### English translation (H. H. Wilson)
 Gotama, Purumilha, Atri (each) offering oblations, invokes you for his protection; like unto a way-farer, who (makes for his intended direction) by a straight (path), do you Dasras, come (direct) to my invocation.
 
+### Printed p. 643
+
+##### विशेषविषयगळु (Special Topics)
+
+The present Ṛk records that Purumīḷha, Atri and Gotama, these three, took refuge in the protection of the Aśvin deities and received protection from them.
+
+Of these, Purumāḷha is famous as an ancient ṛṣi in some places and as a king in others. His story is told in the Bṛhaddevatā as follows. Although the story there is mainly about Śyāvāśva, it is given here because it shows the relation between Śyāvāśva and Purumāḷha, and the authors of the Bṛhaddevatā tell it.
+
+राजर्षिरभवद्दार्भ्यो रथवीतिरिति (*rājarṣirabhavaddārbhyo rathavītiriti*) … देवान्पुरविग्रहान् (*devānpuravigrahān*) **NOTE** त्यावाश्वो (*tyāvāśvo*)
+
+### Printed p. 644
+विस्मितोऽपृच्छत्केष्ठति मरुतस्तदा ॥ ततस्तु मरुतो देवान् रुद्रसूनूनबुध्यत । य ईं वहंत इत्याभिर्बुद्ध्वा तुष्टाव तांस्तथा ॥ अतिक्रमं हि तं मेने ऋषिर्विपुलमात्मनः............॥ रथवीतेर्दुहितरं आगच्छन्मनसा तदा । स सद्म ऋषिरात्मानं प्रवक्ष्यन् रथवीतये ॥ ............ आदाय कन्यां तां दार्भ्य उपयेयार्चनानसं । पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृतांजलिः ॥ रथवीतिरहं दार्भ्य इति नाम शशंस च । मया संगतमिच्छंतं त्वां प्रत्याचक्षि यत्पुरा ॥ तत् क्षमस्व नमस्तेऽस्तु मा च मे भगवन्नृधः ऋषेः पुत्रः स्वयमृषिः पितासि भगवन्नृषेः ॥ हंत प्रतिगृहाणेमां स्नुषामित्येवमब्रवीत् । पादार्थ्यमधुपर्कैश्च पूजयित्वा स्वयं नृपः ॥ शुक्लमश्वशतं दत्वा अनुजज्ञॆ गृहान्प्रति । शशीयसीं तरंतं च पुरुमीळं च पार्थिवं ॥ षड्भिः सनदिति स्तुत्वा जगामर्षिरपि क्षयं ॥ (*vismito 'pṛcchatkeṣṭhati marutastadā ‖ tatastu maruto devān rudrasūnūnabudhyata | ya īṃ vahaṃta ityābhirbuddhvā tuṣṭāva tāṃstathā ‖ atikramaṃ hi taṃ mene ṛṣirvipulamātmanaḥ............‖ rathavīterduhitaraṃ āgacchanmanasā tadā | sa sadma ṛṣirātmānaṃ pravakṣyan rathavītaye ‖ ............ ādāya kanyāṃ tāṃ dārbhya upayeyārcanānasaṃ | pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāṃjaliḥ ‖ rathavītirahaṃ dārbhya iti nāma śaśaṃsa ca | mayā saṃgatamicchaṃtaṃ tvāṃ pratyācakṣi yatpurā ‖ tat kṣamasva namaste 'stu mā ca me bhagavannṛdhaḥ ṛṣeḥ putraḥ svayamṛṣiḥ pitāsi bhagavannṛṣeḥ ‖ haṃta pratigṛhāṇemāṃ snuṣāmityevamabravīt | pādārthyamadhuparkaiśca pūjayitvā svayaṃ nṛpaḥ ‖ śuklamaśvaśataṃ datvā anujajñè gṛhānprati | śaśīyasīṃ taraṃtaṃ ca purumīḷaṃ ca pārthivaṃ ‖ ṣaḍbhiḥ sanaditi stutvā jagāmarṣirapi kṣayaṃ ‖*)
+(Bṛ. De. 5-50 to 80)
+
+The royal sage Rathavīti Dārbhya, intending to perform a sacrifice, went to the ṛṣi Atri, honoured him, and asked that his son Arcanānas accept the priesthood at his sacrifice and help him in the sacrificial work. Arcanānas agreed, and went with his son Śyāvāśva to the king's house for the sacrifice; and the sacrifice was completed. At the time of the sacrifice Arcanānas saw the king's daughter, was drawn to her, and wished her to be married to Śyāvāśva. Śyāvāśva too was infatuated with her. When father and son made their wish known to the king, he too agreed to the alliance, but said he would give his answer after asking his wife; when he asked her consent, his wife did not agree. She declared that Śyāvāśva was not a ṛṣi, and that she did not consent to giving their daughter, born in a line of ṛṣis, to one who was not a ṛṣi. In the same way the king too gave his answer to father and son, and they returned to their town. But Śyāvāśva's mind remained fixed on the king's daughter alone. On the way back he met Śaśīyasī, Taranta and the king Purumāḷha. Taranta and Purumāḷha were both sons of a king named Vidadaśva and were themselves ṛṣis. Both of them bowed to the two guests, father and son, honoured and worshipped them. Then the women of the inner apartments also honoured them with gifts of cows, horses and the like. But Śyāvāśva, grieving that he had not obtained a beautiful wife, was wandering in the forest when he met the band of Maruts. Knowing them to be the Maruts, sons of Rudra and partakers of divinity, he praised them and became the seer of the hymn के ष्ठा नरः (*ke ṣṭhā naraḥ*) (Ṛ. Saṃ. 5-6-1). Learning this, Rathavīti, the son of Parbha, brought his daughter, and begged forgiveness for having earlier refused to give her; since Śyāvāśva was now a ṛṣi and fit to receive his daughter, he asked that he accept her.
+
+### Printed p. 645
+When Śyāvāśva and his father agreed to this, he then gave the maiden in marriage, preceded by the arghya, pādya and the like. Then Śyāvāśva, to salute Purumīḷha and the others for the help they had given him, composed six Ṛks praising them. Among them the mantra
+उत मेऽरपद्युवतिर्ममंदुषी प्रति श्यावाय वर्तनिं । वि रोहिता पुरुमीळ्हाय येमतुर्विप्राय दीर्घयशसे ॥ (*uta me 'rapadyuvatirmamaṃduṣī prati śyāvāya vartaniṃ | vi rohitā purumīḷhāya yematurviprāya dīrghayaśase ‖*)
+(Ṛ. Saṃ. 5-61-9)
+is the one that praises Purumāḷha. In the present Ṛk (1-183-5) it is stated that Purumāḷha praised the Aśvin deities and received their protection. Sāyaṇa has told the same story with a different arrangement, as follows.
+
+अत्राश्चर्यं पुरावृत्तमाहुरागमपारगाः (*atrāścaryaṃ purāvṛttamāhurāgamapāragāḥ*) … राज्ञा चोदितः (*rājñā coditaḥ*) **NOTE**
+
+### Printed p. 646
+स्वसुतां ददौ । पुरुमीळ्हस्तरंतश्च तद्भार्या च शशीयसी ॥ दार्भ्यो यो रथवीत्याख्यः सप्त ये मरुतां गणाः । शे तस्मै यद्ददुस्तुष्टास्तत्केष्ठेत्यत्र वर्ण्यते ॥ (*svasutāṃ dadau | purumīḷhastaraṃtaśca tadbhāryā ca śaśīyasī ‖ dārbhyo yo rathavītyākhyaḥ sapta ye marutāṃ gaṇāḥ | śe tasmai yaddadustuṣṭāstatkeṣṭhetyatra varṇyate ‖*)
+(Introduction to the commentary on Sūkta 6 of the 5th Maṇḍala.)
+
+Although the narrative here is the same as that told in the Bṛhaddevatā, Śyāvāśva and the wife of Taranta
+
+##### विशेषविषयगळु (Special Topics)
+
+The scholar Max Müller, in the 5th volume of the Ṛgveda edited by him (Vol. V. p. XXXIII), has cited the story of Purumāḷha told in the Tāṇḍya Brāhmaṇa (Ṛ. Saṃ. 5-8-3). In this story Dhvasra and Puruṣanti, the two of them, wish to give a gift to Taranta and Purumāḷha, the two sons of Vidadatva. The two brothers think that they are not at present fit to take it and that they must earn that fitness, and they compose a hymn praising Dhvasra and Puruṣanti. Then, knowing themselves worthy of the reward given by them, they accept it. In the story of the Bṛhaddevatā cited above, Purumāḷha is the giver of the reward. Therefore, noting that the Purumāḷha mentioned by Sāyaṇa in his explanation of Ṛ. Saṃ. 9-58-3 is not the son of Vidadaśva, Max Müller writes as follows:
+
+"पुरुमीळ्द (*purumīḷda*) is here (V. 61. 9.) clearly the man from whom benifits are expected, and therefore could not be the same as पुरुमीळ्द (*purumīḷda*) वैददश्वि (*vaidadaśvi*), mentioned by the commentator, who accepted gifts from ध्वस्र (*dhvasra*). and पुरुषंति (*puruṣaṃti*). Nor can तरंत (*taraṃta*) वैदश्वि (*vaidaśvi*) in the next verse be taken for a recipient, but only for a giver and therefore, most likely, a a prince. The whole story, however, is by no means clear, and I doubt whether the commentator draw his information from any source except his own brain."
+[Sacred Books of the East Vol. 32. p. 361].
+
+The Kannada rendering says: "Purumīḷha and Taranta, the sons of Vidadatva, were persons who accepted gifts. The Purumīḷha and Taranta named in the present Ṛks (Ṛ. Saṃ. 5-61-9, 10) were givers of gifts. Therefore the former must be different and these different. In any case there is not enough evidence to know their matter so definitely. The story explained by Sāyaṇa must be merely a fancy of his own."
+
+### Printed p. 647
+Gotama: Gotama is one of the ṛṣis who received protection from the Aśvin deities; Sāyaṇa has briefly told his story as follows.
+
+अत्रेदमाख्यानं । कदाचिन्मरुभूमौ वर्तमानस्य स्तोतुः गोतमस्य ऋषेः समीपं देशांतरे वर्तमानं कूपमुत्थायाश्विन् प्रापयेतां । प्रापय्य च तं कूपं स्नानपानादिसौकर्याय उपरिमूलमधोबिलमवास्थापयतामिति । त (*atredamākhyānaṃ | kadācinmarubhūmau vartamānasya stotuḥ gotamasya ṛṣeḥ samīpaṃ deśāṃtare vartamānaṃ kūpamutthāyāśvin prāpayetāṃ | prāpayya ca taṃ kūpaṃ snānapānādisaukaryāya uparimūlamadhobilamavāsthāpayatāmiti | ta*) तदेतदाह (*tadetadāha*)
+परावतं नासत्यानुदेथामुच्चाबुध्नं चक्रथुर्जिह्मबारं । क्षरन्नापो न पायनाय राये सहस्राय तृष्यते गोतमस्य ॥ (*parāvataṃ nāsatyānudethāmuccābudhnaṃ cakrathurjihmabāraṃ | kṣarannāpo na pāyanāya rāye sahasrāya tṛṣyate gotamasya ‖*)
+(Ṛ. Saṃ. 1-116-9)
+
+This Ṛk tells of the help the Aśvin deities gave to Gotama. To help Gotama, a praiser who was performing austerities in a desert, they dug a well that lay far away and set it near him, making it convenient for his bathing, drinking and the like; this gives a subtle introduction to the greatness of Gotama.
+
+That Gotama was the son of Rahūgaṇa is well known throughout the Saṃhitā, the Brāhmaṇas and so on. In introducing him Sāyaṇa has also indicated a historical occasion, which is as follows.
+
+अत्रेदमाख्यानं । रहूगणपुत्रो गोतमः कुरुसृंजयानां राज्ञां पुरोहित आसीत् । तेषां राज्ञां परैः सह युद्धे सति स ऋषिरनेन सूक्तेनेंद्रं स्तुत्वा स्वकीयानां जयं प्रार्थयामासेति । (*atredamākhyānaṃ | rahūgaṇaputro gotamaḥ kurusṛṃjayānāṃ rājñāṃ purohita āsīt | teṣāṃ rājñāṃ paraiḥ saha yuddhe sati sa ṛṣiranena sūkteneṃdraṃ stutvā svakīyānāṃ jayaṃ prārthayāmāseti |*) तस्य च तत्पुरोहितत्वं वाजसनेयिभिराम्नातं । गोतमो हि वै राहूगण उभयेषां कुरुसृंजयानां पुरोहित आसीदिति । (*tasya ca tatpurohitatvaṃ vājasaneyibhirāmnātaṃ | gotamo hi vai rāhūgaṇa ubhayeṣāṃ kurusṛṃjayānāṃ purohita āsīditi |*)
+(Sā. Bhā. Ṛ. Saṃ. 1-81-3) **NOTE**
+
+Gotama, the seer of Ṛ. Saṃ. Sūkta 1-81 and the son of Rahūgaṇa, was the priest of the kings of the Kuru and Sṛñjaya peoples. When those kings fought with their enemy kings, Gotama praised Indra with this cited hymn (1-81) and made Indra favourable. And in support of Gotama's having been priest of the Kurus and Sṛñjayas he cites the Vājasaneyi Śruti sentence गोतमो हि वै राहुगण उभयेषां कुरुसृंजयानां पुरोहित आसीत् । (*gotamo hi vai rāhugaṇa ubhayeṣāṃ kurusṛṃjayānāṃ purohita āsīt |*). This Rāhugaṇa Gotama is the seer of 20 hymns in the first Maṇḍala of the Ṛksaṃhitā, from Sūkta 74 to Sūkta 93. Of this same Rāhugaṇa Gotama
+
+### Printed p. 648
+the Śatapatha Brāhmaṇa also speaks, describing a historical occasion as follows.
+
+विदेघो ह माथवोग्निं वैश्वानरं मुखे बभार तस्य.........मुखेऽभूत्स नेन्ने मुखान्निष्पद्या तै तस्मात्ते न प्रत्यशौषमिति ॥ (*videgho ha māthavogniṃ vaiśvānaraṃ mukhe babhāra tasya.........mukhe 'bhūtsa nenne mukhānniṣpadyā tai tasmātte na pratyaśauṣamiti ‖*)
+(Śa. Brā. 1-4-1-10 to 18).
+
+The ṛṣi Gotama Rāhūgaṇa was the priest of a king named Videgha Māthava. Once Videgha Māthava was carrying Agni Vaiśvānara in his mouth. At that time the priest Gotama tried to address him and speak to him, but Māthava, fearing that the fire might fall from his mouth, gave no answer. Then Gotama made a request with the Ṛk mantra वीतिहोत्रं त्वा कवे द्युमंतं (*vītihotraṃ tvā kave dyumaṃtaṃ*) (Ṛ. Saṃ. 5-26-3); the king gave no answer. Again Gotama made a request with the mantra उदग्ने तुचयस्तव शुक्रा भ्राजंत ईरते (*udagne tucayastava śukrā bhrājaṃta īrate*) (Ṛ. Saṃ. 8-44-17). The king gave no answer to that either. Then Gotama made a request once more with the mantra तं त्वा धृतस्थवीमहे (*taṃ tvā dhṛtasthavīmahe*) (Ṛ. Saṃ. 5-26-2); as soon as the word धृत (*dhṛta*) was uttered, Agni Vaiśvānara blazed up and shone with his radiance. Māthava was then unable to hold him, and Agni Vaiśvānara slipped down and fell. At that time Videgha Māthava was on the bank of the river Sarasvatī. The fallen Agni then came burning the regions lying east of that place. As Agni advanced thus, burning, Gotama and Māthava followed him. Agni made all the rivers on the way dry up. But he did not make dry the river called Sadānīrā, which flows southward from the Himalaya in the northern region. Because Agni Vaiśvānara did not burn it, the Brahma-knowers did not cross that river. In recent times Brāhmaṇa communities have settled even east of the Sadānīrā. But in the time of Rāhugaṇa Gotama all that region was uninhabited and without cultivation and the like. Thinking that it had not been favoured by Agni Vaiśvānara, no one entered that region. Then Videgha Māthava asked Agni Vaiśvānara; "Settle in the region east of this river Sadānīrā," he said. Even now this region is the boundary between Kosala and Videha.
+
+Then Rāhugaṇa Gotama asked Māthava, "When I addressed you, why did you not speak?" He answered, "Agni Vaiśvānara was in my mouth, and I was afraid that if I opened my mouth he would escape from it." This is the description of the occasion. The tradition of this Rāhugaṇa Gotama and of Māthava
+
 ---
 
-**Progress note:** Done through printed p. 642. pp. 637-642 (batch API)
+**Progress note:** Done through printed p. 648. pp. 643-648 (batch API)
