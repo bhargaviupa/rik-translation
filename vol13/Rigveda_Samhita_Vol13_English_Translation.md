@@ -10201,6 +10201,169 @@ The Aitareya Brāhmaṇa says that Ṛ. Saṃ. sūkta 10-73, beginning with the 
 
 Here ends the one hundred and seventy-sixth sūkta.
 
+### Printed p. 427
+## Sūkta 177 (Maṇḍala 1)
+
+The Sūkta "आ चर्षणिप्राः (*ā carṣaṇiprāḥ*)" has five Ṛks. It is the thirteenth Sūkta, and its seer is Agastya. Its deity is Indra, and its metre is Triṣṭubh. The Anukramaṇikā says "Ā carṣaṇiprāḥ pañca". It has a special use in the Hotṛka Śastras for the increase of the Stoma, as is stated by the Āśvalāyana Śrauta Sūtra: ऐंद्राणि त्रैष्टुभान्यमरुच्छब्दान्यावपेरन् (*aiṃdrāṇi traiṣṭubhānyamarucchabdānyāvaperan*) (Ā. Sū. 7-12).
+
+Anuvāda: this Sūkta, "आ चर्षणिप्राः (*ā carṣaṇiprāḥ*)", is the thirteenth Sūkta in the twenty-third Anuvāka. It has five Ṛks. Its seer is Agastya, its deity is Indra, and its metre is Triṣṭubh. The Anukramaṇikā begins with "Ā carṣaṇiprāḥ pañca". When the priests of the Hotṛ group recite Śastra mantras for the increase of the Stoma, this Sūkta has a special use. It is explained by the sūtra of the Āśvalāyana Śrauta Sūtra ऐंद्राणि त्रैष्टुभान्यमरुच्छब्दान्यावपेरन् (*aiṃdrāṇi traiṣṭubhānyamarucchabdānyāvaperan*) (Ā. 7-12).
+
+Sūkta 177. Maṇḍala 1; Anuvāka 23; Sūkta 177. Aṣṭaka 2; Adhyāya 4; Varga 20. Number of Ṛks in the Sūkta: 5. Ṛṣi: Agastya. Devatā: Indra. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ च॑र्षणि॒प्रा वृ॑ष॒भो जना॑नां॒ राजा॑ कृष्णी॒नां पु॑रुहू॒त इंद्रः॑ ।  
+> स्तु॒तः श्र॑व॒स्यन्न व॒सोप॑ म॒द्रिग्यु॒क्त्वा हरी॒ वृष॒णा या॑ह्य॒र्वाज् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । चर्षणिप्राः । वृषभः। जनानां । राजा । कृष्णीनां। पुरुहूतः । इंद्रः ।  
+> स्तुतः । श्रवस्यन् । अवसा । उपॆ । मद्रिक् । युक्ता । हरी इति । वृषणा । आ । याहि ।  
+> अर्वाज् ॥ १ ॥
+
+### Printed p. 428
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रश्चर्षणिप्राः । चर्षणयो मनुष्याः । तेषां धनादिना प्रीणयिता । जनानां सर्वॆषां वृषभः कामानां वर्षिता । तथा कृष्णीनां । मनुष्यनामैतत् । मनुष्याणां राजा स्वामी पुरुहूतो बहुभिराहूतः । ईदृत इंद्रोS
+> स्मानाजानात्वागच्छतु ना । उत्तरार्धः परोक्षवादः । हे इंड्र स्तुत्योऽस्माभिः
+> श्रवस्यन् हविर्लक्षणान्नमिच्छन्नवसास्मद्रक्षणेन तर्पणेन वा युक्तः सन्मद्रिङ्मदभिमुखमंचन् वृषणा वर्षकौ युवानौ हरी अश्वा युक्ता रथे योजयित्वार्वाजिस्मदभिमुखमा याहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+This Indra is चर्षणिप्राः (*carṣaṇiprāḥ*). The चर्षणयो (*carṣaṇayo*) are men, and he gratifies them with wealth and the like. He is the वृषभः (*vṛṣabhaḥ*) of all people, the showerer of desires. कृष्णीनां (*kṛṣṇīnāṃ*) is a name for men, and he is the king, the lord, of men. He is पुरुहूतः (*puruhūtaḥ*), called by many. May such an Indra come to us. The latter half is in the third person (परोक्षवादः (*parokṣavādaḥ*)). O Indra, praised by us, desiring the food that is the oblation, and joined with अवसा (*avasā*), our protection or satisfaction, turn towards us. Yoke to the chariot your two vigorous young steeds, the हरी (*harī*), which shower. Then come towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणिप्राः (*carṣaṇiprāḥ*)—he who pleases men (with wealth and the like)
+- जनानां (*janānāṃ*)—of all people
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- कृष्णीनां (*kṛṣṇīnāṃ*)—of men
+- राजा (*rājā*)—the lord
+- पुरुहूतः (*puruhūtaḥ*)—called by many (in many ways)
+- इंद्रः (*iṃdraḥ*)—Indra
+- आ (*ā*)—may he come (may he take notice of us)
+- (हे इंद्र (*he iṃdra*)—O Indra)
+- स्तुतः (*stutaḥ*)—praised by us
+- श्रवस्यन् (*śravasyan*)—desiring the food that is the oblation
+- अवसा (*avasā*)—with our protection (joined with satisfaction)
+- मद्रिक् (*madrik*)—setting out to face us
+- वृषणा (*vṛṣaṇā*)—the young
+- हरी (*harī*)—(your) two horses
+- युक्ता (*yuktā*)—harnessing (to the chariot)
+- अर्वाज् (*arvāj*)—towards us
+- आ याहि (*ā yāhi*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you gratify men with wealth and the like. You grant men what they desire, you are the lord of the whole human race, and you are called by many. Praised by us, accept the oblation-food that we offer. For the sake of protecting us, harness to the chariot your horses that are in their youth, set out towards us, and come.
+
+##### English translation (H. H. Wilson)
+May Indra, who is the cherisher of men, the benefactor of menkind, the lord of men, the adored of many, (come to us). Indra, you who are praised (by us), and are desirous of the oblation, harness your vigorous steeds, and come down to me for (my) preservation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Indra's wealth and generosity are described and his coming towards the sacrificial rite is prayed for. In describing his wealth and lordship the epithets चर्षणिप्रा (*carṣaṇiprā*), वृषभो जननां (*vṛṣabho jananāṃ*) and राजा कृष्टीनां (*rājā kṛṣṭīnāṃ*) are noteworthy. Here
+### Printed p. 429
+the three words चर्षणि (*carṣaṇi*), जन (*jana*) and कृष्ण (*kṛṣṇa*) are all synonyms for man. But since they are used in different expressions, they should be understood as epithets that show variety in the nature and in the occupation of man.
+
+The word चर्षणि (*carṣaṇi*) is probably used only in the plural. Its derivation and variety of meaning were given earlier under the special topics of the 2nd Ṛk of Sūkta 176. It is formed either from the root चर् (*car*) meaning "to move about", or from the root कृष् (*kṛṣ*) meaning "to cultivate". Although the original meaning is thus, in many places where this word is used Sāyaṇa has explained it as "men endowed with the vision of knowledge". It was also stated earlier that the word is used as an epithet not only of men but also of deities such as Indra who possess extraordinary knowledge. The epithets राजाचर्षणीनां (*rājācarṣaṇīnāṃ*) and चर्षणिप्राः (*carṣaṇiprāḥ*) too are used mostly of Indra and Agni (Ṛ. Saṃ. 3-10-1; 5-39-4, etc.). The purport is that Indra is the protector of men who are wise, who are seers of Sūktas and who perform sacrifices. The word कृष्टि (*kṛṣṭi*) also has the general meaning "men". The Nirukta-author, explaining the Ṛk
+आ दधिक्राः शवसा पंच कृष्टीः सूर्य इव ज्योतिषापस्ततान । (*ā dadhikrāḥ śavasā paṃca kṛṣṭīḥ sūrya iva jyotiṣāpastatāna |*)
+(Ṛ. Saṃ. 4-38-10)
+has explained the phrase पंच कृष्णी (*paṃca kṛṣṇī*) in it as पंच जनान् (*paṃca janān*) (Ni. 10-31), thus including all human beings. About this word the scholar Keith gives the following explanation.
+
+कृष्टि (*kṛṣṭi*) denotes 'people' in general from the Rig-Veda onwards. Its common and regular use in this sense appears to show that the Aryans, when they invaded India, were already Agriculturists, though the employment of the words reffering to ploughing men- tioned under कृषि (*kṛṣi*) indicates that not all of the people devoted themselves equally to that occupation. Indra and Agni are Par exellence the lords of men. the word (कृष्टि (*kṛṣṭi*)) Sometimes is further defined by the addition of an adjective meaning "belonging to mankind" (मानुषीः (*mānuṣīḥ*) :मानवीः (*mānavīḥ*))
+[Vedic Index of Names and Subjects. By Keith anc Maedoneth [Vol. I. P. 183.]
+
+From the above explanation it is indicated that, since they were engaged in occupations such as agriculture, the word कृष्ण (*kṛṣṇa*) shows the way of life of the Āryas.
+### Printed p. 430
+In Ṛks such as
+स युध्मः सत्वा खजकृत्समद्वा तुविम्रक्षो नदनुमा ऋजीषी । बृहद्रेणुश्चवनो मानुषीणामेकः कृष्णीनामभवत्सहावा ॥ (*sa yudhmaḥ satvā khajakṛtsamadvā tuvimrakṣo nadanumā ṛjīṣī | bṛhadreṇuścavano mānuṣīṇāmekaḥ kṛṣṇīnāmabhavatsahāvā ‖*)
+(Ṛ. Saṃ. 6-18-2)
+the expression is used with the qualifying phrase मानुषीणां कृष्णीनां (*mānuṣīṇāṃ kṛṣṇīnāṃ*). Just as the words चर्षणि (*carṣaṇi*) and कृष्टि (*kṛṣṭi*) are synonyms of human subjects, so in such contexts the word क्षिति (*kṣiti*), which gives the meaning "those who have a dwelling, those who are settled", is also used. It is read among the names of man, मनुष्याः नरः (*manuṣyāḥ naraḥ*) and so on (Ni. 3-7).
+
+Indra is described by his extraordinary and universally dear qualities: he is the protector of the people who perform sacrifices, their master, the lord who guards them all. For that very reason the epithet पुरुहूतः (*puruhūtaḥ*)—बहुभिराहूतः (*bahubhirāhūtaḥ*), "one called by many"—is given. The prayer is that such an Indra may come towards our sacrifice.
+
+श्रवस्यन् (*śravasyan*)—हविर्लक्षणमन्नमिच्छन् (*havirlakṣaṇamannamicchan*), "desiring food in the form of the oblation": this also states Indra's wish. The word श्रवस् (*śravas*) can have two meanings, food or fame. The Nirukta-author, in explaining the Ṛk
+आसस्राणासः शवसानमच्छेंद्रं सुचक्रे रथ्यासो अश्वाः । अभि श्रव ऋज्यंतो वहेयुर्नू चिन्नु वायोरमृतं वि दस्येत् ॥ (*āsasrāṇāsaḥ śavasānamaccheṃdraṃ sucakre rathyāso aśvāḥ | abhi śrava ṛjyaṃto vaheyurnū cinnu vāyoramṛtaṃ vi dasyet ‖*)
+(Ṛ. Saṃ. 6-37-3)
+explains the word श्रव (*śrava*) as श्रव इत्यन्ननाम श्रूयत इति सुतः (*śrava ityannanāma śrūyata iti sutaḥ*). Because it is famous everywhere (heard of by all), the word श्रव (*śrava*), formed from the root श्रु (*śru*), means food (Ni. 10-3). And in
+इंद्रस्य यस्य सुमखं सहो महि श्रवो नृण्मं च रोदसी सपर्यतः । (*iṃdrasya yasya sumakhaṃ saho mahi śravo nṛṇmaṃ ca rodasī saparyataḥ |*)
+(Ṛ. Saṃ. 10-50-1)
+he explains it as श्रवणीयं यशः (*śravaṇīyaṃ yaśaḥ*), that is, fame heard of by all, famous everywhere (Ni. 11-9). Since food brings fame, it may also be explained as food that is the means to fame. As authority for this,
+बृहत्या श्रीकामो यशस्वामः कुर्वीत। श्रीर्वैयशश्चंदसां बृहती। श्रियमेव यश आत्मन्धत्ते ॥ (*bṛhatyā śrīkāmo yaśasvāmaḥ kurvīta| śrīrvaiyaśaścaṃdasāṃ bṛhatī| śriyameva yaśa ātmandhatte ‖*)
+(Ai. Brā. 1-5)
+### Printed p. 431
+here the identity of श्री (*śrī*), which is wealth in the form of riches and grain, with the fame obtained through it is stated. Wealth such as food is the basis of fame, and where wealth such as food exists, fame comes of itself. So both meanings are possible for the word श्रव (*śrava*). In the present Ṛk it may be explained as the food in the form of the oblation, which is the means to the fame of the sacrificer.
+
+##### Grammar
+
+- चर्षणि प्राः — प्रा पूरणे धातुः । क्विप् प्रत्ययः । गतिकारकोपपदात् कृत् इति कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- वृषभः — वृषु सेचने धातुः । औणादिकः अभच् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- कृष्णीनाम् — षष्ठीबहुवचनांतरूपम् । नामन्यतरस्याम् (पा. सू. ६-१-१७७) इति नाम उदात्तस्वरो भवति ।
+- श्रवस्यन् — श्रवः अन्नं आत्मनः इच्छन् श्रवस्यन् । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् । क्यजंतात् लटि शत्रादेशः । प्रथमाएकवचनांतरूपम् । क्यच्स्वरेण अंतोदात्तो भवति ।
+- मद्रिक् — अंचु गतिपूजनयोः धातुः । पृषोदरादीनि यथोपदिष्टम् इति अभिमतरूपं सिद्ध्यति ।
+- युक्त्वा — युजिर् योगे धातुः । प्रेरणस्य दर्शनात् अंतर्भावितण्यर्थको धातुः । समानकर्तृकयोः (पा. सू. ३-४-२१) इति क्त्वा प्रत्ययः । चोः कुः इति धातुजकारस्य कुत्वम् । चर्त्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- याहि — या प्रापणे धातुः । लोट् मध्यमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॒ वृष॑णो वृष॒भास॑ इंद्र ब्रह्म॒युजो॒ वृष॑रथासो॒ अत्याः॑ ।  
+> ता आ ति॑ष्ठ॒ तेभि॒रा या॑ह्य॒र्वाज् हवा॑महे त्वा सु॒त इं॑द्र॒ सोमे॑ ॥
+
+### Printed p. 432
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । वृषणः । वृषभासः । इंद्र । ब्रह्मयुजः । वृषरथासः । अत्याः ।  
+> तान् । आ । तिष्ठ । तेभिः । आ । याहि । अर्वाज् । हवामहे । त्वा । सुते । इंद्र ।  
+> सोमे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव संबंधिनो वृषणो वर्षका युवानो वर्षणवंतो
+> वा वृषभासः श्रेष्ठा ब्रह्मयुजः परिवृढेन मंत्रेण युज्यमाना वृषरथासो
+> वर्षणरथवंतः । तत्र नियुक्ता इत्यर्थः । ईदृशा अत्या अश्वा ये संति ताना तिष्ठ
+> आश्रय । आरोह । तेभिस्तैरर्वाजिस्मदभिमुखमा याहि । आगच्छ । वयं च हे
+> इंद्र सोमे सुते सति त्वा त्वां हवामहे । आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those horses of yours are वृषणः (*vṛṣaṇaḥ*), showerers, or young, or possessed of vigour. They are वृषभासः (*vṛṣabhāsaḥ*), excellent, and ब्रह्मयुजः (*brahmayujaḥ*), yoked by the mantra called परिवृढ (*parivṛḍha*). They are वृषरथासः (*vṛṣarathāsaḥ*), possessing a chariot that showers; that is, they are appointed to it. Mount the horses of this kind that you have, and with them come towards us. And we, O Indra, when the Soma has been pressed, invoke you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे (*he*)) इंद्र (*iṃdra*)—O Indra
+- वृषणः (*vṛṣaṇaḥ*)—showerers (of desires), or those in their prime
+- वृषभासः (*vṛṣabhāsaḥ*)—excellent
+- ब्रह्मयुजः (*brahmayujaḥ*)—to be yoked by the mantra alone
+- वृषरथासः (*vṛṣarathāsaḥ*)—yoked to a chariot that showers what is desired
+- ते (*te*)—your
+- अत्याः (*atyāḥ*)—horses
+- ये (*ye*) (संति (*saṃti*))—which are
+- तान् (*tān*)—them
+- आ तिष्ठ (*ā tiṣṭha*)—resort to (mount)
+- तेभिः (*tebhiḥ*)—joined with them
+- अर्वाज् (*arvāj*)—facing (us)
+- आ याहि (*ā yāhi*)—come
+- (वयं च (*vayaṃ ca*)—and we)
+- (हे (*he*)) इंद्र (*iṃdra*)—O Indra
+- सोमे (*some*)—the Soma juice
+- सुते (*sute*) (सति (*sati*))—when it has been pressed
+- त्वां (*tvāṃ*)—you
+- हवामहे (*havāmahe*)—we invoke
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, mount your excellent horses in their prime, which are yoked to your chariot that showers what is desired and are appointed by the mantra alone, set out towards us, and come. We too, having prepared the Soma juice, call you.
+
+##### English translation (H. H. Wilson)
+Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and harnessed to a bounty-shedding car : come down with them to us. We invoke you, Indra, the libation being poured out.
+
 ---
 
-**Progress note:** Done through printed p. 426. pp. 421-426 (batch API)
+**Progress note:** Done through printed p. 432. pp. 427-432 (batch API)
