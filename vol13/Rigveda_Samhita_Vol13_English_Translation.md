@@ -2207,6 +2207,142 @@ the sun.
 
 The particle ईं (*īṃ*) is explained by Yāska: अथ ये प्रवृत्तेर्थमिताक्षरेषु ग्रंथेषु वाक्य पूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति (*atha ye pravṛtterthamitākṣareṣu graṃtheṣu vākya pūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti*). That is: in works in prose, particles (indeclinables) are used to complete the sentence; in works bound by metre they are used in the sense of completing the word (the foot). These are the particles कं (*kaṃ*), ईं (*īṃ*), इत् (*it*), उ (*u*). Of these, the particle ईं (*īṃ*) is used here. For it Sāyaṇa explains the meaning एनं मरुत्संघं (*enaṃ marutsaṃghaṃ*).
 
+### Printed p. 91
+
+##### विशेषविषयगळु (Special Topics)
+
+असुर्या (*asuryā*)—असुराः क्षेप्तारो मरुतः तेषां स्वभूता (*asurāḥ kṣeptāro marutaḥ teṣāṃ svabhūtā*). The Marut deities move in keeping with their own speed. The meaning is: she who, as the property of these deities, is under their authority.
+
+विषितस्तुका (*viṣitastukā*)—विशिष्टकेशसंघा विप्रकीर्णकेशसंघा (*viśiṣṭakeśasaṃghā viprakīrṇakeśasaṃghā*) ना संभोगेन तथा (*nā saṃbhogena tathā*). The wife of the Marut deities is one who has gathered her hair together and adorned herself, or one whose hair is dishevelled from enjoying union with her husband.
+
+नृमणाः (*nṛmaṇāḥ*)—नेतृषु मरुत्सु मननवतीः वृष्टिप्रदानमनोयुक्ता वा मनुष्येषु (*netṛṣu marutsu mananavatīḥ vṛṣṭipradānamanoyuktā vā manuṣyeṣu*). The wife of the Marut deities is one who always meditates on the welfare of her husband; or she has a mind inclined to grant the waters of rain on behalf of men. Thus the meaning is explained.
+
+तेषप्रतीका (*teṣapratīkā*)—दीपोपक्रमा, दीप्तावयवा (*dīpopakramā, dīptāvayavā*). The wife of the Marut deities, who begins her undertakings with radiance and whose limbs shine with lustre, climbs the chariot of the Maruts, which moves around, enveloping her on all sides, and is eager to come to the place where the sacrifice is being performed. In this matter the simile is given here in the phrase विधतः रथं सूर्येव (*vidhataḥ rathaṃ sūryeva*). Sāyaṇa explains this phrase in two ways. In the first meaning the comparison is set out thus: as the wife of Sūrya mounts Sūrya's chariot.
+
+In the second meaning: यद्वा सूर्यस्य महिता अश्विनोः रथमिव सा यथा आरोहति तद्वत् (*yadvā sūryasya mahitā aśvinoḥ rathamiva sā yathā ārohati tadvat*). It is said by way of illustration, as the daughter of Sūrya mounts the chariot of the Aśvin deities at her svayaṃvara. This matter is set out in the following, in this book:
+
+आ नां रथं दुहिता सूर्यस्य कार्ष्मेवातिष्ठदर्वता जयंती । विश्वे देवा अन्वमन्यंत हृद्धिः समु श्रिया नासत्या सचेथॆ ॥ (*ā nāṃ rathaṃ duhitā sūryasya kārṣmevātiṣṭhadarvatā jayaṃtī | viśve devā anvamanyaṃta hṛddhiḥ samu śriyā nāsatyā sacethè ‖*) (Ṛ. Saṃ. 1-116-17)
+
+And:
+
+आ वां रथं युवतिस्तिष्ठदत्र जुष्ट्वी नरा दुहिता सूर्यस्य ॥ (*ā vāṃ rathaṃ yuvatistiṣṭhadatra juṣṭvī narā duhitā sūryasya ‖*)
+
+This too is said in this Ṛk. (Ṛ. Saṃ. 1-118-5)
+
+नभसः इत्या न (*nabhasaḥ ityā na*)—अंतरिक्षादित्ययोः साधारणः नभश्यब्दः अत्र आदित्यवचनः (*aṃtarikṣādityayoḥ sādhāraṇaḥ nabhaśyabdaḥ atra ādityavacanaḥ*). तस्य गतिरिव (*tasya gatiriva*). सा यथा शीघ्रा तद्वत् (*sā yathā śīghrā tadvat*). The word नभः (*nabhaḥ*) is stated (Ni. 2-13) in the middle of the six common names beginning with स्वः (*svaḥ*) and पृश्निः (*pṛśniḥ*). साधारणान्युत्तराणि षट् दिवश्चादित्यस्य च (*sādhāraṇānyuttarāṇi ṣaṭ divaścādityasya ca*)
+
+### Printed p. 92
+These six common names are explained by Yāska as synonymous words denoting the atmosphere and the Āditya (the sun). नभ आदित्यो भवति नेता भासां ज्योतिषां प्रणयोऽपि ना भन एव स्याद्विपरीतो न न भातीति । (*nabha ādityo bhavati netā bhāsāṃ jyotiṣāṃ praṇayo 'pi nā bhana eva syādviparīto na na bhātīti |*) (Ni. 2-15). सर्वासु दिक्षु भासांनेता (*sarvāsu dikṣu bhāsāṃnetā*)—he who spreads light in all directions; from this the Āditya got the name नभ (*nabha*). Or else the word भन (*bhana*) becomes नभ (*nabha*) by a transposition of letters; the word भनः (*bhanaḥ*) also becomes नभः (*nabhaḥ*). Or else न न भाति (*na na bhāti*), that is, भात्येव (*bhātyeva*): he is always luminous. By this derivation the word नभ (*nabha*) is here described as meaning the Āditya.
+
+As the course of this Āditya is swift, so the wife of the Maruts mounts the swift-moving chariot of the Maruts and comes with the Maruts to the sacrificial hall; thus the swift movement of the Āditya is compared to her coming and so explained.
+
+##### Grammar
+
+- जोषत्—जुषी प्रीतिसेवनयोः धातुः । तुदादिः । लेट् प्रथमपुरुषैकवचने इतश्च परस्मैपदेषु (पा. सू. ३-४-९७) इति व्यत्ययेन तिपि आगते तस्य इकारस्य लोपः । लेटोडाट् (पा. सू ३-४-९४) इति तस्य अडागमः । छांदसत्वेन विकरणस्य लोपः । पुगंतलघूपधस्य च (पा. सू. ७-३-८६) इति धातोः लघूपधस्य गुणः । पादादित्वात् निघातस्वरो न भवति । धातुस्वरो अवतिष्ठते ।
+- सचध्यै—षच समवाये । धातुः । तुमर्थे अर्थे तुमर्थे सेसेनसे—(पा. सू. ३-४-९) इति अध्यै प्रत्ययः । कृन्मेजंतः इति अव्ययसंज्ञा भवति । प्रत्ययस्य आद्युदात्तस्वरेण मद्योदात्तो भवति ।
+- असुर्या—असुराणां संबंधिनी । संबंधार्थे यत् प्रत्ययः । तित्‌स्वरितं (पा. सू. ६-१-१८५) इति स्वरितस्वरो भवति । स्त्रीत्वे टाप् ।
+- विषितस्तुका—विषिताः विप्रकीर्णाः स्तुकाः केशसंघाः यस्याः सा । बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- नृमनाः—नृषु मनः यस्या साः । परादिष्छंदसि बहुलं (पा. सू. ६-२-१९९) इति उत्तरपदाद्युदात्तस्वरो भवति ।
+- सूर्या—सूर्यस्य स्त्री देवता । सूर्याद्देवतायां चाब्बाच्यः (पा. सू. ४-१-४८) इति चाप् प्रत्ययः ।
+
+### Printed p. 93
+- विधतः—विध विधाने । धातुः । शतृप्रत्ययः । षष्ठी एकवचनांतरूपं । नुम् रहितस्य शतृः परे विभक्तेः आगतत्वात् शतुरनुमोनद्यजादी (पा. सू. ६-१-१७३) इति तस्य उदात्तस्वरो भवति ।
+- गात्—इण् गतौ । धातुः । छांदसत्वेन वर्तमानार्थे लुज् इणो गा लुजि (पा सू. २-४-४५) इति धातोः गादेशः । च्लेः सिचादेशे आगते गातिस्थाघु—(पा. सू. २-४-७७) इति तस्य लुक् । छांदसत्वेन अडागमो न भवति । तिजंतनिघातस्वरो भवति ।
+- इत्या—इण् गतौ । धातुः । एति स्तुशा--(पा. सू. ३-१-१०९) इति क्यप् प्रत्ययः । ह्रस्वस्य पितिकृति—(पा. सू. ६-१-७१) इति धातोः तुकागमः । स्त्रीत्वे टाप् ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आस्था॑पयंत युव॒तिं युवा॑नः शु॒भे निमि॑श्लां वि॒दथे॑षु प॒ज्रां ।  
+> अ॒र्को यद्वो॑ मरुतो ह॒विष्मा॒न्गाय॑द्दा॒थं सु॒तसो॑मो  ॒
+> दुवस्यन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अस्थापयंत । युवतिं । युवानः । शुभे । निमिश्लां । विदथेषु । पज्रां ।  
+> अर्कः । यत् । वः । मरुतः । हविष्मान् । गायत् । गाथं । सुतसोमः ।  
+> दुवस्यन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवानो मिश्रयंतो नित्यतरुणा ना मरुतो युवतिं मिश्रयंतीं
+> नित्यतरुणीं वा विद्युद्रूपां रोदस्यां स्त्रीयमास्थापयंत । आस्थापयंति । देवता-
+
+### Printed p. 94
+
+> तेन रथे धारयंति । कीदृशीं तां । निमिश्लां । नियमेन मिश्रयंतीं पज्रां ।
+> पज्रो बलं । तद्वतीं । शुभे । शोभते दीप्यत इति शुबुदकं । वृष्ट्वुदकार्थं ।
+> शुभे रथ इति वा योज्यं । किं निमित्तं । विदथेषु यागेषु निमित्तभूतेषु । कदा ।
+> यद्यदा हे मरुतः वो युष्मानर्कः ॥ मत्त्वर्थो लुप्यते । अर्चनसाधनमंत्रोपेतः स्तोता ना हविष्मान् प्रदेयाज्यादिहविर्युक्तः सुतसोमो
+> होमायाभिषुतसोमोऽयं यजमानो दुवस्यन् । परिचरन् गाथं गातव्यं
+> स्तोत्रं गायत् गायति । तदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The youthful Maruts, either "mingling" or "ever young", set up (आस्थापयंत (*āsthāpayaṃta*), i.e. आस्थापयंति (*āsthāpayaṃti*)) the young woman, who mingles or is ever young, the lightning-formed Rodasī, in their chariot; they carry her there as a deity. What is she like? निमिश्लां (*nimiślāṃ*): one who mingles constantly. पज्रां (*pajrāṃ*): पज्रो बलं (*pajro balaṃ*), one who possesses strength. शुभे (*śubhe*): शोभते दीप्यत इति शुबुदकं (*śobhate dīpyata iti śubudakaṃ*), shub is water, so "for the water of rain"; or शुभे रथ इति वा योज्यं (*śubhe ratha iti vā yojyaṃ*), it may be construed with "chariot", as "in the splendid chariot". For what reason? विदथेषु (*vidatheṣu*), on account of sacrifices, which are the occasion. When? यद्यदा (*yadyadā*), when, O Maruts, your अर्कः (*arkaḥ*) (the suffix denoting possession is dropped): the worshipper furnished with the mantra that is the means of worship; हविष्मान् (*haviṣmān*), provided with oblations such as those to be given and offered; सुतसोमः (*sutasomaḥ*), this sacrificer who has pressed Soma for the offering; दुवस्यन् (*duvasyan*), serving you; chants the गाथं (*gāthaṃ*), the hymn that is to be sung. गायत् (*gāyat*) stands for गायति (*gāyati*). The sense is: at that time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Marut deities
+- यत् (*yat*)—when
+- हविष्मान् (*haviṣmān*)—he who has oblations such as ghee, to be offered
+- सुतसोमः (*sutasomaḥ*)—he who has Soma pressed for the offering
+- अर्कः (*arkaḥ*)—the sacrificer, distinguished by the mantra that is the means of worship
+- वः (*vaḥ*)—you
+- मवस्यन् (*mavasyan*)—serving
+- गाथं (*gāthaṃ*)—the hymn that is to be sung
+- गायत् (*gāyat*)—sings
+- युवानः (*yuvānaḥ*)—you who are ever young
+- निमिश्लां (*nimiślāṃ*)—one who mingles well (with you)
+- पज्रां (*pajrāṃ*)—strong one
+- युवतिं (*yuvatiṃ*)—the ever-young woman (of a mingling nature), of lightning form
+- शुभे (*śubhe*)—for the sake of the water of rain (in your auspicious chariot)
+- विदथेषु (*vidatheṣu*)—the sacrifices being the occasion (when you set out with the sacrifices in view)
+- आ अस्थापयंत (*ā asthāpayaṃta*)—you take (her) along, seating her together with you
+
+##### भावार्थ (Bhāvārtha)
+
+O Marut deities, when your worshipper (the sacrificer), having made ready ghee and other oblations and the Soma juice, recites your praises, you, ever young, set out for the sacrifices in your chariot, with the lightning-formed woman who mingles well with you, who is full of great impetus and is ever young, bringing rain as you go.
+
+##### English translation (H. H. Wilson)
+The youthful (Maruts) have placed the young (lightning) in (their) brilliant (car), commingling (with them), and vigorous (in yielding rain) on sacrifices (being solemnized); when, Maruts, your worshipper, presenting oblations, pouring out the Soma juice, and offering adoration, chants the sacred song.
+
+### Printed p. 95
+
+##### विशेषविषयगळु (Special Topics)
+
+युवानः (*yuvānaḥ*)—मिश्रयंतो नित्यतरुणा वा (*miśrayaṃto nityataruṇā vā*). Yāska:
+
+युवं च्यवानं सनयं यथा रथं पुनर्युवानं चरथाय तक्षथुः । निष्ठौग्रमूहथुरद्भ्यस्परि विश्वेत्ता नां सवनेषु प्रवाच्या ॥ (*yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ carathāya takṣathuḥ | niṣṭhaugramūhathuradbhyaspari viśvettā nāṃ savaneṣu pravācyā ‖*) (Ṛ. Saṃ. 10-39-4)
+
+Here, for the word युवानं (*yuvānaṃ*), he explains the meaning: युवा प्रयाति कर्माणि मिश्रयति (*yuvā prayāti karmāṇi miśrayati*), he brings rites together. Sāyaṇa explains the meaning as: the Maruts are always in youth, and are joined with one another (those who come together).
+
+युवतीं आस्थापयंत (*yuvatīṃ āsthāpayaṃta*)—मिश्रयंतीं नित्यतरुणीं ना विद्युद्रूपां रोदस्यां स्त्रियं आस्थापयंति देवतात्वेन रथे धारयंति (*miśrayaṃtīṃ nityataruṇīṃ nā vidyudrūpāṃ rodasyāṃ striyaṃ āsthāpayaṃti devatātvena rathe dhārayaṃti*). They have seated in their chariot the woman called Rodasī, who is always in youth, of a nature (desire) to unite with men, shining like lightning or of the form of lightning. The meaning is that they carry her so that those who worship their chariot and themselves may come to know that this woman Rodasī is of the nature of a deity.
+
+शुभे (*śubhe*)—शोभते दीप्यते इति शुबुदुकं वृष्टुदकार्थं शुभे रथ इति वा योज्यं (*śobhate dīpyate iti śubudukaṃ vṛṣṭudakārthaṃ śubhe ratha iti vā yojyaṃ*). By the derivation "that which shines, is lustrous", the water is called shub; and the meaning is stated as "for the sake of giving water in the form of rain". Or else another meaning is described: "in their auspicious chariot".
+
+अर्कः (*arkaḥ*)—अर्चनसाधनमंत्रोपेतः स्तोता वा (*arcanasādhanamaṃtropetaḥ stotā vā*). The word अर्क (*arka*) is stated among the names of food (Ni. 3-9) and among the names of the thunderbolt (Ni. 3-11): अर्को देवो भवति यदेनमर्चति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवति अर्चति भूतानि । अर्कॊ वृक्षो भवति संवृत्तः कटुकिम्ना । (*arko devo bhavati yadenamarcati | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavati arcati bhūtāni | arkò vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā |*). The word अर्क (*arka*) is formed from the root अर्च (*arca*), meaning to worship, to honour. As the word is formed by the derivation अर्चतीत्यर्कः (*arcatītyarkaḥ*), so it is also used when it conveys the meanings "means of worship" and "worthy of worship". Thus one kind of meaning is explained: since the praisers worship him as worthy, the deity is the meaning of the word अर्क (*arka*). It is also explained that the mantra is called अर्क (*arka*) because it is a means of worship; and that food too is a meaning of the word अर्क (*arka*), being worthy of worship, since beings prepare food while performing worship. It is explained that the word denotes a tree because of its bitter nature. Since the suffix matup that follows the word अर्क (*arka*) is dropped here, the word अर्क (*arka*) is used also for one who possesses a mantra that is a means of worship; this is the meaning stated.
+
+### Printed p. 96
+From this it is explained that the sacrificers, knowing the mantras of worship, or reciting praise, furnished with the oblations offered to Agni, having made ready Soma juice for offering in Agni, recite hymns while serving Agni.
+
+दुवस्यन् (*duvasyan*)—परिचरन् (*paricaran*). दुवस्यति (*duvasyati*) is stated among the verbs of service (Ni. 3-13). And:
+
+परेयिवांसं प्रवतो महीरनु बहुभ्यः पंथा मनुपस्पशानं । वैवस्वतं संगमनं जनानां यमं राजानां हविषा दुवस्य । (*pareyivāṃsaṃ pravato mahīranu bahubhyaḥ paṃthā manupaspaśānaṃ | vaivasvataṃ saṃgamanaṃ janānāṃ yamaṃ rājānāṃ haviṣā duvasya |*) (Ṛ. Saṃ. 10-14-1)
+
+Here the word दुवस्य (*duvasya*) is explained as राध्नु हि (*rādhnu hi*). Durgācārya explains the word राध्नु हि (*rādhnu hi*) as "serve".
+
+गाथं (*gāthaṃ*)—गातव्यं स्तोत्रं (*gātavyaṃ stotraṃ*). The word गाथा (*gāthā*) is read among the names of speech (Ni. 2-23). Here the word गाथं (*gāthaṃ*) is used; the meaning "hymn" is given for it.
+
+##### Grammar
+
+- अस्थापयंत—ष्ठा गतिनिवृत्तौ । धातुः । हेतुमति च इति णिच् । अर्तिह्री--(पा. सू. ७-३-३६) इति धातोः आकारांतत्वात् पुकागमः । छांदसत्वेन वर्तमानार्थे णिजंतात् लज् प्रथमपुरुषबहुवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- युवतिं—युवन् शब्दः । स्त्रीत्वे यूनस्तिः (पा. सू. ४-१-७७) इति शि प्रत्ययः । नलोपःप्रातिपदिकांतस्य इति नकारस्य लोषः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- शुभे—शोभत इति शुप् । शुभ दीप्तौ । धातुः । क्विप् प्रत्ययः । चतुर्थी एकवचनांतरूपं । सावेकाचः— (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+- विदथेषु—विद ज्ञाने । धातुः । रुदिविदिभ्यां जित् (उ. सू. ३-३९५) इति अथ प्रत्ययः । जित्त्वातिदेशकरणात् लघूपधगुणो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- अर्कः—अर्च पूजायां धातुः । कृदाधारार्चि—(उ. सू. ३-३१०) इति क प्रत्ययः । अर्क इति मंत्रः । अत्र तद्वान् इत्यर्थत्वात् छांदसत्वेन मत्त्वर्थप्रत्ययस्य लोपः । अथवा अर्शआदिषु अंतर्भूतत्वात् मत्त्वर्थे अच् प्रत्ययः ।
+
 ---
 
-**Progress note:** Done through printed p. 90. pp. 85-90 (batch API)
+**Progress note:** Done through printed p. 96. pp. 91-96 (batch API)
