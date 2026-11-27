@@ -9666,6 +9666,232 @@ Seer: Vasiṣṭha. Deity: Viśvedevas. Metre: Triṣṭubh.
 
 Agni, endowed with qualities such as the leading (aṅgana), rising upward, resorts to the good praise of us, the praiser who is the dweller (vasu); let him attend to it. Facing west, the one who ages all creatures goes to the sacrifice (देवतातिं (*devatātiṃ*)). The two revering, faithful ones, the wife and the sacrificer, resort to the path of the sacrifice like a maiden (रथ्येव (*rathyeva*)). Likewise our Hotṛ, sent forth, performs the sacrifice; the meaning is "let him do it".
 
+### Printed p. 217
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni, the god
+- ऊर्ध्वः (*ūrdhvaḥ*)—having appeared with face upward
+- वस्वः (*vasvaḥ*)—of the praiser
+- सुमतिं (*sumatiṃ*)—the excellent praise
+- अश्रेत् (*aśret*)—may he accept
+- प्रतीची (*pratīcī*)—she who faces us
+- जूर्णिः (*jūrṇiḥ*)—the goddess Uṣas, who causes the decay of creatures
+- देवतातिं (*devatātiṃ*)—to the sacrifice
+- एति (*eti*)—comes
+- अद्री (*adrī*)—the devout sacrificer and his wife
+- पंथां (*paṃthāṃ*)—the path of the sacrifice
+- रथ्येव (*rathyeva*)—like charioteers
+- भेजाते (*bhejāte*)—they follow
+- इषितः (*iṣitaḥ*)—directed
+- नः (*naḥ*)—our
+- होता (*hotā*)—the Hotṛ
+- ऋतं (*ṛtaṃ*)—the sacrifice
+- यजाति (*yajāti*)—let him perform
+
+##### भावार्थ (Bhāvārtha)
+
+Let the god Agni, having appeared with face upward, accept the excellent praise of the praiser. The goddess Uṣas, who faces us and causes the decay of creatures, comes to the sacrifice. The devout sacrificer and his wife follow the path of the sacrifice like charioteers. Let our Hotṛ, directed by us, perform the sacrifice.
+
+##### English translation
+Let Agni, risen on high, accept the praise of the worshipper : she who makes (all creatures) old, looking to the west, goes to the sacrifice : the pious pair, like two raiders in a chariot, follow the path (of the ceremony) : let the Hotri, as enjoined, celebrate the rite.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वा॑वृजे सुप्र॒या ब॒र्हिरे॑षा॒मा वि॒श्पती॑व॒ बीरि॑ट इयाते ।  
+> वि॒शाम॒क्तोरु॒षसः॑ पू॒र्वहू॑तौ वा॒युः पू॒षा स्व॒स्तये॑ नि॒युत्वा॑न् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ववृजे । सुप्रयाः । बर्हिः । एषां । आ । विश्पती इवेति विश्पतीऽइव । बीरिटे ।  
+> इयाते इति ।  
+> विशां । अक्तोः । उषसः । पूर्वहूतौ । वायुः । पूषा । स्वस्तये । नियुत्वान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां यजमानानां संबंधि सुप्रयाः शोभनान्नेन युक्तं बर्हिः कुशसमूहं प्र ववृजे । प्र वृज्यते । आसाद्यत इत्यर्थः । विश्पतीव । इवेतीदानीमर्थे ।
+> इदानीमस्मदीयानां प्रजानां पालकौ नियुत्वान् । नियुच्छब्देन अश्वा उच्यंते ।
+
+##### Gist of the bhāṣya
+
+The grass (बर्हिः (*barhiḥ*)), the heap of kuśa belonging to these sacrificers and provided with good food (सुप्रयाः (*suprayāḥ*)), has been spread out (प्र ववृजे (*pra vavṛje*): it is set down, laid out). In विश्पतीव (*viśpatīva*) the word इव (*iva*) is used in the sense "now". The two protectors of our people, Vāyu "possessed of niyut" and Pūṣan: by the word नियुत् (*niyut*) horses are meant.
+
+### Printed p. 218
+
+> तद्वान् वायुः पूषा च विशां प्रजानां स्वस्तये क्षेमायाक्तो रात्रेः संबंधिन्या
+> उषसः सकाशात्पूर्वहूतौ पूर्वस्मिन्नाह्वाने सति बीरिटेऽंतरिक्ष इयाते । आगच्छतां ।
+> यद्वा । विश्पतीवेत्युपमा । विशां मनुष्याणां बीरिटे गणे विश्पतीव राजानौ यथा
+> गच्छतां तद्वत् । अस्मिन्पक्षे विशामित्युभयत्र संबध्यते ॥
+
+##### Gist of the bhāṣya
+
+Vāyu, who has them, and Pūṣan, for the welfare (स्वस्तये (*svastaye*)) of the people (विशां (*viśāṃ*)), when the earlier invocation (पूर्वहूतौ (*pūrvahūtau*)) takes place in advance of Uṣas, who belongs to the night (अक्तोः (*aktoḥ*)), let them come (इयाते (*iyāte*)) to the firmament (बीरिटे (*bīriṭe*)). Alternatively, विश्पतीव (*viśpatīva*) is a comparison: as two kings go in a host (बीरिटे गणे (*bīriṭe gaṇe*)) of men, so let they come. In this view विशां (*viśāṃ*) is connected with both places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of the sacrificers
+- सुप्रयाः (*suprayāḥ*)—provided with excellent food
+- बर्हिः (*barhiḥ*)—the grass seat
+- प्र ववृजे (*pra vavṛje*)—has been spread
+- विश्पतीव (*viśpatīva*)—like kings, protectors of the people
+- नियुत्वान् वायुः (*niyutvān vāyuḥ*)—Vāyu, who has horses named niyut
+- पूषा (*pūṣā*)—and the god Pūṣan
+- विशां (*viśāṃ*)—of the people
+- स्वस्तये (*svastaye*)—for the welfare
+- अक्तोः (*aktoḥ*)—belonging to the night
+- उषसः (*uṣasaḥ*)—than Uṣas
+- पूर्वहूतौ (*pūrvahūtau*)—by reason of an invocation that comes earlier
+- बीरिटे (*bīriṭe*)—in the firmament
+- आ इयाते (*ā iyāte*)—may they graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+The grass seat of the sacrificers, furnished with excellent food, has been spread. Like kings who protect their people, let Vāyu, who has the horses called niyut, and the god Pūṣan graciously come to the firmament for the welfare of the people, by reason of an invocation that comes earlier (at dawn) than Uṣas, who belongs to the night.
+
+##### English translation
+The food-bestowing sacred grass of these (the worshippers) is strewn : may the two lords of people, Vayu, with the Niyut steeds, and Pushan, invoked before the dawn upon the close of the night, appear now in the firmament for the welfare of mankind.
+
+##### विशेषविषयगळु (Special Topics)
+
+बीरिटे (*bīriṭe*)—The commentator has explained this word in two ways. He gives one meaning, "in the firmament", for बीरिटे (*bīriṭe*); and with विशां मनुष्याणां बीरिटे गणे विश्पतीव राजानौ (*viśāṃ manuṣyāṇāṃ bīriṭe gaṇe viśpatīva rājānau*), "like kings, protectors of the people, in the assembly of men or of subjects", he gives another meaning, "in the assembly".
+Yāska has explained the word by giving a derivation:
+बीरिटे । बीरिटं तैटीकिरंतरिक्षमेवमाह पूर्वं वेतेरुत्तरमीरतेर्वयांसीरंत्यस्मिन् भांसि वा । तदेतदस्यामृच्युदाहरंत्यपि निगमो भवति ॥ (*bīriṭe | bīriṭaṃ taiṭīkiraṃtarikṣamevamāha pūrvaṃ veteruttaramīratervayāṃsīraṃtyasmin bhāṃsi vā | tadetadasyāmṛcyudāharaṃtyapi nigamo bhavati ‖*) (Ni. 5-28)
+That बीरिट (*bīriṭa*) means the firmament is the view of the teacher Taiṭīki. How? The first half of the word, the syllable बी (*bī*) or वी (*vī*), is derived from the root वे (*ve*), and the latter half, the part ईरट् (*īraṭ*), from the root ईर् (*īr*), so that it becomes वीरिटं (*vīriṭaṃ*) or बीरिटं (*bīriṭaṃ*). व (*va*) means birds; ईर् (*īr*) means "to move about". इरतेर्वयांसीरंत्यस्मिन् (*iratervayāṃsīraṃtyasmin*): since birds move about in it (the firmament)
+
+### Printed p. 219
+the meaning "firmament" for the word वीरिट (*vīriṭa*) or बीरिट (*bīriṭa*) is proper. Or भांसि वा (*bhāṃsi vā*): since the lights, the stars and the rest, move about in this firmament, shining, one may say that बीरिटं (*bīriṭaṃ*) means the firmament. To make this meaning clear, Yāska takes the present Ṛk itself as the example and gives its derivation:
+प्रवृज्यते सुप्रायणं बर्हिरेषामेयाते सर्वस्य पातारौ वा पालयितारौ वा । बीरिटमंतरिक्षं भियो वा भासो वा तति । अपि वोपमार्थे स्यात् विश्पती इव राजानौ बीरिटे गणे मनुष्याणां रात्र्या विवासे पूर्वस्यामभिहूतौ वायुश्च नियुत्वान् पूषा च स्वस्त्ययनाय ॥ (*pravṛjyate suprāyaṇaṃ barhireṣāmeyāte sarvasya pātārau vā pālayitārau vā | bīriṭamaṃtarikṣaṃ bhiyo vā bhāso vā tati | api vopamārthe syāt viśpatī iva rājānau bīriṭe gaṇe manuṣyāṇāṃ rātryā vivāse pūrvasyāmabhihūtau vāyuśca niyutvān pūṣā ca svastyayanāya ‖*)
+नियुत्वान् नियुतोऽस्याश्वाः नियुतो नियमनाद्वा नियोजनाद्वा ॥ (*niyutvān niyuto 'syāśvāḥ niyuto niyamanādvā niyojanādvā ‖*) (Ni. 5-28)
+In the present Ṛk the deities Vāyu and Pūṣan are praised. These deities are protectors of all, that is, they guard everyone. For the coming of such deities the soft kuśa grass called बर्हिः (*barhiḥ*) is spread on the sacrificial altar as a seat. बीरिटं (*bīriṭaṃ*) means the firmament; because it is filled with fear or with light, बीरिटं (*bīriṭaṃ*) means the firmament. Or the word may also be used to indicate a comparison. In this sense of comparison, बीरिटे (*bīriṭe*) is to be taken as meaning गणे (*gaṇe*) (in a host). As kings, who protect all, shine, held in honour, when they come into a throng of men, so: thus the word बीरिट (*bīriṭa*) can be given the meaning "host" or "crowd". उषसः पूर्वहूतौ (*uṣasaḥ pūrvahūtau*) means रात्र्या विवासे पूर्वस्यामभिहूतौ (*rātryā vivāse pūrvasyāmabhihūtau*): in the last part of the night, that is, at the time of the appearing of Uṣas, may this god Vāyu and Pūṣan graciously come in the firmament to bring auspiciousness to the world. Here the word नियुत्वान् (*niyutvān*) means the god Vāyu, who has the horses called नियुत् (*niyut*). The horses of Vāyu are named नियुतः (*niyutaḥ*) (Ni. 5-28). This epithet belongs only to Vāyu, not to Pūṣan. As to the word नियुत (*niyuta*): नियमनाद्वा (*niyamanādvā*), because the going of this horse is subject to restraint (the charioteer's control), or नियोजनाद्वा (*niyojanādvā*), because this horse is yoked to the chariot. Therefore the name नियुत् (*niyut*) has come to Vāyu's horse: such is the intention of the derivation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्म॒या अत्र॒ वस॑वो रंत दे॒वा उ॒रावं॒तरि॑क्षे मर्जयंत  ॒
+> शु॒भ्राः ।
+
+### Printed p. 220
+
+> अर्वाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो  
+> नो अस्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ज्मयाः । अत्र । वसवः । रंत । देवाः । उरौ । अंतरिक्षे । मर्जयंत । शुभ्राः ।  
+> अर्वाक् । पथः । उरुऽज्रयः । कृणुध्वं । श्रोत । दूतस्य । जग्मुषः । नः । अस्य ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसवो वसुसंज्ञा देवा अत्रास्मिन्यज्ञे ज्मयाः पृथिव्यां भवा रंत । रमयंतां । उरौ विस्तीर्णेऽंतरिक्षे स्थिताः शुभ्रा दीप्यमाना मरुतश्च मर्जयंत ।
+> परिचर्यंते । हे उरुज्रयः प्रभूतगमना वसवो मरुतश्च यूयं पथो
+> युष्मदीयान्मार्गानर्वागस्मदभिमुखं यथा भवति तथा कृणुध्वं । कुरुत । अपि च
+> यूयं जग्मुषो युष्मान्प्रति गतवतो नोऽस्मदीयस्यास्य दूतस्याग्नेराह्वानं
+> श्रोत । शृणुत । अग्निर्हि यजमानानां दूतः सन्देवानाह्वयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The gods called Vasus (वसवः (*vasavaḥ*)) are born on earth (ज्मयाः (*jmayāḥ*): those who exist on the earth) and let them delight (रंत (*raṃta*): let them cause delight) in this sacrifice. The shining (शुभ्राः (*śubhrāḥ*)) Maruts, who stand in the vast firmament, are served (मर्जयंत (*marjayaṃta*)). "O Vasus and Maruts, of wide-ranging speed (उरुज्रयः (*urujrayaḥ*)), make your paths turn towards us (अर्वाक् (*arvāk*)), and hear (श्रोत (*śrota*)) the call of this our messenger Agni, who has gone to you (जग्मुषः (*jagmuṣaḥ*))." The sense is that Agni, being the messenger of the sacrificers, summons the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—those known as Vasus
+- देवाः (*devāḥ*)—the gods
+- अत्र (*atra*)—in this sacrifice
+- ज्मयाः (*jmayāḥ*)—being born from the earth
+- रंत (*raṃta*)—let them sport
+- उरौ (*urau*)—in the vast
+- अंतरिक्षे (*aṃtarikṣe*)—firmament
+- शुभ्राः (*śubhrāḥ*)—the Maruts, who dwell in it and shine
+- मर्जयंत (*marjayaṃta*)—are served
+- उरुज्रयः (*urujrayaḥ*)—O swift-going Maruts, and Vasus
+- पथः (*pathaḥ*)—to our path of sacrifice
+- अर्वाक् (*arvāk*)—so as to face it
+- कृणुध्वं (*kṛṇudhvaṃ*)—direct your course
+- जग्मुषः (*jagmuṣaḥ*)—who is coming towards you
+- नः (*naḥ*)—on our behalf
+- अस्य दूतस्य (*asya dūtasya*)—this Agni, the messenger of the gods, his call
+- श्रोत (*śrota*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+Let the gods called Vasus, being on earth, sport in this sacrifice. The Maruts, who dwell in the vast firmament and shine, are served. O swift-going Maruts, and O Vasus, let your course be turned towards our sacrifice. Hear the call of this Agni, who is coming to you and is our messenger of the gods.
+
+##### English translation
+May the divine Vasus sport in this occasion upon the earth : the brilliant (Maruts) in the expansive firmament are being worshipped : swift-moving deities, direct your paths towards us : hear (the words) of this our messenger, (Agni), approaching to you.
+
+### Printed p. 221
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the Vasus and the Maruts are praised. On the question who the Vasus are, Yāska has given a derivation as follows:
+वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासव इति समाख्या तस्मात् पृथिवीस्थानाः । इंद्रो वसुभिर्वासव इति समाख्या तस्मान्मध्यस्थानाः । वसव आदित्यरश्मयो विवासनात्तस्माद्द्युस्थानाः ॥ (*vasavo yadvivasate sarvamagnirvasubhirvāsava iti samākhyā tasmāt pṛthivīsthānāḥ | iṃdro vasubhirvāsava iti samākhyā tasmānmadhyasthānāḥ | vasava ādityaraśmayo vivāsanāttasmāddyusthānāḥ ‖*) (Ni. 12-41)
+The word वसवः (*vasavaḥ*) means those who cover and pervade everything. How? Since Agni is included in the group of deities called वसवः (*vasavaḥ*) (the eight Vasus), and Agni is a deity of the earth region, the Vasus have pervaded the earth. Further, since Indra is included in their group, and Indra is a deity of the middle region, the Vasus have pervaded the middle region (the firmament). Again, since the word वसवः (*vasavaḥ*) also means the rays of the sun, and the sun's rays pervade and illumine the whole of heaven, the Vasus have pervaded heaven, the region of the sky. Therefore, because these Vasus pervade all three regions, that is, the worlds earth, firmament and heaven, they have received the name वसवः (*vasavaḥ*). Yāska has given here, as examples, two mantras in which the word वसवः (*vasavaḥ*) is used: one is a mantra of the Vājasaneya Saṃhitā (the Śukla Yajurveda), the other is the present Ṛk. For this Ṛk too he has given a derivation:
+ज्मया अत्र वसवोऽरमंत देवा ज्मा पृथिवी तस्यां भवा उरौ चांतरिक्षे मर्जयंत गमयंतः शुभ्राः शोभमाना अर्वाच एनान् पथो बहुजनाः कुरुध्वं शृणुत दूतस्य जग्मुषो नो अस्याग्नेः । (*jmayā atra vasavo 'ramaṃta devā jmā pṛthivī tasyāṃ bhavā urau cāṃtarikṣe marjayaṃta gamayaṃtaḥ śubhrāḥ śobhamānā arvāca enān patho bahujanāḥ kurudhvaṃ śṛṇuta dūtasya jagmuṣo no asyāgneḥ |*) (Ni. 12-43)
+Let the Vasus who are on earth, joined with the earth, sport with joyful minds. Here ज्मा (*jmā*) means the earth (Ni. 2-5); those who are on that earth are the Vasus, and these Vasus also dwell in the vast firmament. They are also very bright. O swift-going Maruts and Vasus, come by this path that faces us. And hear the words, in the form of a call, of this Agni, who has taken on the role of messenger and is coming to you: such is the main intention of the derivation.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि य॒ज्ञेषु॑ य॒ज्ञिया॑स॒ ऊमाः॑ स॒धस्थं॒ विश्वे॑ अ॒भि संति॑  ॒
+> देवाः ।  
+> ता अ॑ध्व॒र उ॑श॒तो य॑क्ष्यग्ने श्रु॒ष्टी भगं॒ नास॑त्या॒ पुरं॑धिं ॥ ४ ॥
+
+### Printed p. 222
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । यज्ञेषु । यज्ञियासः । ऊमाः । सधऽस्थं । विश्वे । अभि । संति । देवाः ।  
+> तान् । अध्वरे । उशतः । यक्षि । अग्ने । श्रुष्टी । भगं । नासत्या । पुरंऽधिं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञेषु यागेषु ते हि ते खलु प्रसिद्धा यज्ञियासो यज्ञार्हा ऊमा
+> रक्षका विश्वे सर्वे देवाः सधस्थं सहस्थानमभि संति । अभिभवंति । आक्रामंति ॥ हे
+> अग्ने अध्वरेऽस्मदीये यज्ञ उशतः कामयमानांस्तान् देवान्यक्षि । यज । तथा
+> श्रुष्टी । क्षिप्रनामैतत् । क्षिप्रं भगमेतन्नामकं देवं नासत्या नासत्यावश्विनौ च
+> पुरंधिं पुरूणां ध्यातारमिंद्रं च यज ॥
+
+##### Gist of the bhāṣya
+
+At the sacrifices (यज्ञेषु (*yajñeṣu*)) those well-known (ते हि (*te hi*)) gods, all of them (विश्वे (*viśve*)), worthy of sacrifice (यज्ञियासः (*yajñiyāsaḥ*)) and protectors (ऊमाः (*ūmāḥ*)), come upon the common place (सधस्थं (*sadhasthaṃ*)) and take possession of it (अभि संति (*abhi saṃti*): they overcome, they occupy). "O Agni, at our sacrifice (अध्वरे (*adhvare*)) worship (यक्षि (*yakṣi*): offer to) those gods who desire it (उशतः (*uśataḥ*)). Likewise श्रुष्टी (*śruṣṭī*), a name meaning "quickly": quickly worship the god named Bhaga, the Nāsatyas, that is, the two Aśvins, and Purandhi, that is, Indra, the one who thinks of (provides for) many."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञेषु (*yajñeṣu*)—at the times of our sacrifices
+- ते हि (*te hi*)—those well-known
+- यज्ञियासः (*yajñiyāsaḥ*)—worthy of worship
+- ऊमाः (*ūmāḥ*)—and protecting
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- सधस्थं (*sadhasthaṃ*)—the place of sacrifice
+- अभिसंति (*abhisaṃti*)—occupy on all sides
+- अग्ने (*agne*)—O Agni
+- अध्वरे (*adhvare*)—in our sacrifice
+- उशतः (*uśataḥ*)—who desire the sacrifice
+- तान् (*tān*)—those gods
+- यक्षि (*yakṣi*)—worship
+- श्रुष्टी (*śruṣṭī*)—quickly
+- भगं (*bhagaṃ*)—the god Bhaga
+- नासत्या (*nāsatyā*)—the Aśvin gods
+- पुरंधिं (*puraṃdhiṃ*)—Indra: propitiate them
+
+##### भावार्थ (Bhāvārtha)
+
+At the times of our sacrifices all the gods, well known, worthy of worship and protectors, occupy the place of sacrifice. O Agni, in our sacrifice worship those gods who desire the sacrifice. Quickly propitiate Bhaga, the Aśvin gods and Indra.
+
+##### English translation
+These universal adorable guardian deities occupy a common station at sacrifices : worship, Agni, those divinities, deservers (of oblations) at the ceremony, the swift Bhaga, the Nasatyas and Purandhi.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ गिरो॑ दि॒व आ पृ॑थि॒व्या मि॒त्रं व॑ह॒ वरु॑ण॒मिंद्र॑म॒ग्निं ।  
+> आर्य॒मण॒मदि॑तिं॒ विष्णु॑मेषां॒ सर॑स्वती म॒रुतो॑ मादयंतां ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 216. pp. 211-216 (batch API)
+**Progress note:** Done through printed p. 222. pp. 217-222 (batch API)
