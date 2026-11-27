@@ -3278,6 +3278,171 @@ Where, Maruts, is the limit of the vast region (whenee you eome) : where is the 
 - आयय — या प्रापणे धातुः । छांदसत्वेन लिट् । मध्यमपुरुषबहुवचने अ आदेशः । द्वित्वम् । असंयोगाल्लिट् कित् इति प्रत्ययस्य कित्त्वात् आतो लोप इटि च (पा. सू. ६-४-६४) इति धातोराकारस्य लोपः । यद्योगत्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । शिजिचोदात्तवति (पा. सू. ८-१-७१) इति आजेर्निघातस्वरो भवति ।
 - च्यावयथ — च्युज् गतौ धातुः । हेतुमति च (पा. सू. ३-१-२६) इति णिच् । अचोञ्णिति इति वृद्धिः । आवादेशः । लट् मध्यमपुरुषबहुवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । णिच्स्वरः शिष्यते ।
 
+### Printed p. 133
+Vidhurā iva—the root व्यथ भयसंचलनयोः (*vyatha bhayasaṃcalanayoḥ*). By व्यथेः संप्रसारणं किच्च (*vyatheḥ saṃprasāraṇaṃ kicca*) (Uṇ. Sū. 1-39) the affix urac. The root takes saṃprasāraṇa. By चितः (*citaḥ*) (Pā. Sū. 6-1-163) the final-acute accent comes. In the neuter, by शेश्छंदसि बहुलं (*śeśchaṃdasi bahulaṃ*) (Pā. Sū. 6-1-70) the śi takes luk.
+Patatha—the root पत्ल्य गत्. (*patlya gat.*) Because the action of an instigator is shown, it has the causative sense contained within. It is the form in the laṭ, madhyama-puruṣa, plural. The tiṅanta nighāta accent comes.
+Tveṣaṃ—the root त्विष दीप्तौ (*tviṣa dīptau*). By नंदिग्रहपचादिभ्यः (*naṃdigrahapacādibhyaḥ*) the affix ac. Guṇa of the short penultimate. Since the affix has c as its marker, the final-acute accent comes.
+Arṇavaṃ—arṇavaḥ is "that which has arṇa". By अर्णसो लोपश्च (*arṇaso lopaśca*) (Kā. 5-2-109-2) the affix va in the sense of possession, and loss of s; by the affix-accent it becomes final-acute. ॥ 6 ॥
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒तिर्न वोऽम॑वती॒ स्व॑र्वती त्वे॒षा विपा॑का मरुतः॒ पिपि॑ष्वती ।  
+> भ॒द्रा वो॑ रा॒तिः पृ॑ण॒तो न दक्षि॑णा पृथु॒ज्रयी॑ असु॒र्ये॑व॒  ॑
+> जंजती ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सातिः । न । वः । अमवशी । स्ववशी । त्वेषा । विपाका । मरुतः । पिपिष्वती ।  
+> भद्रा । वः । राशिः । पृणशः । न । दक्षिणा । पृथुज्रया । असुर्याइव । जंजती ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकं संबंधिनी सातिर्न संभक्तिरिव युष्मत्संभजनं यथा
+> प्रशस्तगुणं तद्वद्वो रात्रिर्वृष्ट्वा दिविषयामवत्यमात्यवशींद्रातिसहायवती ।
+> यथा राजेवामवान् । ऋ. ४-४-१ । इत्यत्रामशब्दोऽमात्यवचनः तद्वत् । यद्वा।
+
+##### Gist of the bhāṣya
+
+"O Maruts, your sāti is like a sāti, a sharing or association: as the company of you is of excellent quality, so your gift, the gift of rain, is अमवती (*amavatī*), accompanied by Indra and others as helpers. As in यथा राजेवामवान् (*yathā rājevāmavān*) (Ṛ. 4-4-1) the word अम (*ama*) means a minister, so here likewise. Or else:
+
+### Printed p. 134
+your sāti, your allotment, is not अमवती (*amavatī*), not diseased, but स्वर्वती (*svarvatī*), full of happiness; त्वेषा (*tveṣā*), brilliant; विपाका (*vipākā*), with fully ripened fruit; पिपिष्वती (*pipiṣvatī*), possessing driving or ploughing by husbandmen (it is well known that they plough when rain has fallen), or crushing its own enemies. भद्रा (*bhadrā*): to be desired, praiseworthy. Further, it is like the dakṣiṇā of a wealthy man who fills (the priest), making prosperous; पृथुजयी (*pṛthujayī*): of wide speed, swift-going; and like the power of an Asura belonging to him, overcoming all. As that power can take from others and give to another, so this gift too can take the water that stands in the cloud and give it to the world. Such a gift be ours: this is the idea."
+
+> वः सातिः संविभक्तिर्नामवती । रोगवती न भवति । किंतु स्वर्वती सुखवती त्वेषा
+> दीप्ता विपाका परिपक्वफला पिपिष्टती प्रेषणवती कृषीवलैः कर्षणवती । वृष्टौ
+> सत्यां कर्षंतीति प्रसिद्धं । स्वविरोधिपेषणवती वा । भद्रा छंदनीया स्तुत्या । किंचॆ
+> पृणतो धातुर्धनिकस्य दक्षिणा न दक्षिणेव तद्वत्समृद्धकरी पृथुजयी पृथुजवा
+> शीघ्रगामिनी किंचासुर्यॆवासुरस्य स्वभूता जंजती सर्वानभिभवंती शक्तिरिव । सा
+> यथान्येभ्योऽपहृत्यान्यस्मै दातुं समर्था तद्वदियमपि मेघस्थमुदकमपहृत्य
+> जगतो दातुं शक्तेत्यर्थः । ईदृशी रातिरस्यभ्यमस्त्विति भावः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे (*he*)) मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- सातिः न (*sātiḥ na*)—as the coming (is excellent)
+- रातिः (*rātiḥ*)—(your) gift of rain and the like
+- अमवती (*amavatī*)—excellent, accompanied by Indra and others
+- वः (*vaḥ*)—your
+- सातिः (*sātiḥ*)—coming
+- न अमवती (*na amavatī*)—not marked by disease (not harmful)
+- (किंतु (*kiṃtu*))—but
+- स्वर्वती (*svarvatī*)—endowed with happiness (heaven)
+- त्वेषा (*tveṣā*)—brilliant
+- विपाका (*vipākā*)—with ripe fruit
+- पिपिष्टती (*pipiṣṭatī*)—favourable to husbandmen
+- भद्रा (*bhadrā*)—auspicious
+- पृणतः (*pṛṇataḥ*)—of the wealthy (giver)
+- दक्षिणा न (*dakṣiṇā na*)—like a dakṣiṇā (making prosperous)
+- पृथुज्रयी (*pṛthujrayī*)—swift-going (giving fruit swiftly)
+- (मत्तु (*mattu*)) असुर्या (*asuryā*)—belonging to the Asura
+- जंजती (*jaṃjatī*)—like a power that overcomes all
+- रातिः (*rātiḥ*)—(such) a gift (be ours)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the rain that you pour with Indra's help is, like your coming, a means of heavenly happiness, brilliant, bearing ripe fruit, favourable to husbandmen, auspicious, prosperous like a wealthy man's dakṣiṇā, bringing fruit in very short time, and like the Asura power that overcomes everything (by which one can seize from one and give to another). May such a gift of yours be ours.
+
+##### English translation (H. H. Wilson)
+Like your possession of treasure, Maruts, is your liberality : minist-
+eral (of Indra's bounty), heaven-bestowing, brilliant, fruitful, favorable to
+the husbandman. propitions: : it is like the donation of a wealthy (donor),
+prompt (of distribution), and like the all-subduing force of the Asuras.
+
+### Printed p. 135
+
+##### विशेषविषयगळु (Special Topics)
+
+वः सातिर्न वः रातिः अमवती (*vaḥ sātirna vaḥ rātiḥ amavatī*)—युष्माकं संबंधिनी सातिर्न संभक्तिरिव युष्मत्संभजनं यथा प्रशस्तगुणं तद्वद्वो रात्रिर्वृष्ट्वा दिविषयामवत्यमात्यवशींद्रातिसहायवती । (*yuṣmākaṃ saṃbaṃdhinī sātirna saṃbhaktiriva yuṣmatsaṃbhajanaṃ yathā praśastaguṇaṃ tadvadvo rātrirvṛṣṭvā diviṣayāmavatyamātyavaśīṃdrātisahāyavatī |*) यद्वा वः सातिः संविभक्तिः न अमवती रोगवती न भवति । (*yadvā vaḥ sātiḥ saṃvibhaktiḥ na amavatī rogavatī na bhavati |*) The word sāti has been explained as service. The word rāti is said to mean gift. The author of the Nirukta has explained the word अमवती (*amavatī*) as meaning minister.
+कृणुष्वपाजः प्रसितिं न पृथ्वीं याहि राजेवामवा इभेन । तृष्टिमनु प्रसितिं द्रोणानोऽस्तासि विध्य रक्षसस्तपिष्ठैः ॥ (*kṛṇuṣvapājaḥ prasitiṃ na pṛthvīṃ yāhi rājevāmavā ibhena | tṛṣṭimanu prasitiṃ droṇāno 'stāsi vidhya rakṣasastapiṣṭhaiḥ ‖*) (Ṛ. Saṃ. 4-4-1)
+In this Ṛk, for the word अमवान् (*amavān*) (राजेव (*rājeva*)) the meaning अमात्यवान् अभ्यमनर्वा (*amātyavān abhyamanarvā*) is given. Durgācārya has explained it in two ways: that the king, knowing policy, sets out to win victory with a minister who knows policy; or अभ्यमनवान्-रोगभूतः परेभ्यो भयदाता (*abhyamanavān-rogabhūtaḥ parebhyo bhayadātā*), one who causes fear to enemies as a disease causes fear to others. Here Sāyaṇa has supported both meanings.
+The comparison is made thus: as the Maruts' coming has abundant and excellent qualities, the gift of rain-water that the Maruts make has Indra's help. As a king, endowed with policy, joined by a minister who knows policy, and rich in helpers, sets out to conquer his enemies, so the Maruts, when giving rain, keep Indra himself as minister (helper). This is one meaning.
+In the second meaning, the Maruts' gift of rain-water is described as: the king is frightening to enemies like a disease, not to others. Of the two meanings of अमवती (*amavatī*), one agrees with the comparison to the king, the other does not.
+Sāyaṇa also gives a further meaning, in which a contrast with the king is suggested: the king's coming is attended by fear, but in the Maruts' coming there is never occasion for fear of disease. Though the contrast is suggested, the other epithets also state superiority over the king's coming.
+
+### Printed p. 136
+The Maruts' coming is described as स्वर्वती (*svarvatī*)—always producing happiness; त्वेषा (*tveṣā*)—bright; विपाका (*vipākā*)—producing excellent fruit; पिपिष्टती (*pipiṣṭatī*)—the earth being split by farmers for the growth of crops, and enemies being destroyed; भद्रा (*bhadrā*)—worthy of praise.
+पृणतः दक्षिणा न (*pṛṇataḥ dakṣiṇā na*)—दातुर्धनिकस्य दक्षिणेव समृद्धिकरी । (*dāturdhanikasya dakṣiṇeva samṛddhikarī |*) The word पृणतः (*pṛṇataḥ*) has been explained by the Nirukta-author in तमूर्दरं न पृणता यवेन (*tamūrdaraṃ na pṛṇatā yavena*) (Ṛ. Saṃ. 2-14-11) as used in the sense of filling: यवेन पूरयति (*yavena pūrayati*). Here it is taken to mean a wealthy man filled with wealth. As the wealth a rich man gives as dakṣiṇā brings prosperity, so the Maruts' coming brings prosperity; the comparison is shown.
+असुर्येव जंजती (*asuryeva jaṃjatī*)—असुरस्य स्वभूता सर्वानभिभवंती शक्तिरिव । (*asurasya svabhūtā sarvānabhibhavaṃtī śaktiriva |*) The word असुर्या (*asuryā*) is explained as "belonging to the Asura". The word असुर (*asura*) is stated among the names of cloud (Ni. 2-22). And it is explained: असोरसुरानसृजत तदसुराणामसुरत्वमिति विज्ञायते (*asorasurānasṛjata tadasurāṇāmasuratvamiti vijñāyate*) (Ni. 3-8). Durgācārya has explained: असुराः असुरताः स्थानेषु (*asurāḥ asuratāḥ sthāneṣu*)—those not steady in their own places are Asuras; or अस्ताः स्थानेभ्यः (*astāḥ sthānebhyaḥ*)—those driven by the gods from their places.
+The power of these Asuras overcomes all. And Sāyaṇa describes the nature of the Asura power: अन्येभ्यो अपहृत्य अन्यस्मै दातुं समर्था (*anyebhyo apahṛtya anyasmai dātuṃ samarthā*)—able to seize one person's goods or property and give it to another. Likewise the Maruts' power is described: मेघस्थमुदकं अपहृत्य जगतः दातुं समर्था (*meghasthamudakaṃ apahṛtya jagataḥ dātuṃ samarthā*)—ready to give the waters in the clouds to the world as rain.
+Here, addressing the Maruts with युष्माकं संबंधिनी सातिः यथा प्रशस्तगुणं तद्वत् वः रातिः (*yuṣmākaṃ saṃbaṃdhinī sātiḥ yathā praśastaguṇaṃ tadvat vaḥ rātiḥ*): as your coming has excellent qualities, so also the gift of rain-water that you bestow. Since the comparison is stated in this way, it is indicated that all the other epithets of sāti relate also to rāti. And ईदृशी रातिः अस्मभ्यं अस्तु इति (*īdṛśī rātiḥ asmabhyaṃ astu iti*): such a gift of yours be for us, the sacrificers.
+
+##### Grammar
+
+- सातिः—ऊतियूतिजूति-(पा. सू. ३-३-९७) इति क्विन् उदात्तः निपातितः ।
+
+### Printed p. 137
+- अमवती—अमः अस्याः अस्ति । मतुप् प्रत्ययः । माडुपधायाश्च इति वत्वम् । उगित्त्वात् स्त्रीत्वे जेप् ।
+- स्वर्वती—पूर्ववत् मतुप्, वत्त्वम् । जीप् । प्रत्ययः पित्त्वात् अनुदात्तः भवति । न्यज्‌स्वरौ स्वरिशौ (फि. सू. ७५) इति स्वर् इति स्वरितः भवति ।
+- राशिः—रा आदाने । धातुः । क्तिन् प्रत्ययः । मंत्रेवृषेषपच—(पा सू. ३-३-९६) इति प्रत्ययः उदात्तः भवति ।
+- पृणतः—पृण प्रीणने । धातुः । लटः शत्रादेशः । नुम्रहितस्य शतृः परस्मिन् षष्ठीविभक्तेः आगतत्वात् कतुरनुमो नद्यजादी (पा. सू. ६-१-१७३) इति तस्य उदात्तस्वरः भवति ।
+- असुर्या—असुरस्य इयम् । संबंधार्थे यत् प्रत्ययः । यस्येति च इति अकारलोपः । तित्स्वरितं (पा. सू. ६-१-१८५) इति स्वरितस्वरः भवति । स्त्रीत्वे टाप् ।
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ ष्टोभंति॒ सिंध॑वः प॒विभ्यो॒ यद॒भ्रियां॒ वाच॑मुदी॒रयं॑ति ।  
+> अव॑ स्वयंत वि॒द्युतः॑ पृथि॒व्यां यदे॑ घृ॒तं म॒रुतः॑ पुष्णु॒वंति॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । स्तोभंति । सिंधवः । पविभ्यः । यत् । अभियां । वाचं । उत्ईरयंति ।  
+> अव । स्वयंत । विद्युतः । पृथिव्यां । यदि । धृतं । मरुतः । पुष्णुवंति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पविभ्यो मरुत्संबंधिवज्रेभ्यः सिंधवः स्यंदनशीला आपः प्रति ष्टोभंति ।
+> प्रतिचलंति । कदा । यद्यदाभ्रियामभ्रभवां वाचं शब्दं स्तनितलक्षणमुदीरयंति
+> उच्चारयंति वज्राणि । किं च विद्युतो विद्योतमानास्तडितः पृथिव्यामंतरिक्षे ।
+
+##### Gist of the bhāṣya
+
+"From the pavis, the thunderbolts belonging to the Maruts, the sindhus, the flowing waters, प्रति ष्टोभंति (*prati ṣṭobhaṃti*), move forth. When? When the thunderbolts utter the अभ्रियां वाचं (*abhriyāṃ vācaṃ*), the sound born of cloud, characterised as thunder. Further, the विद्युतः (*vidyutaḥ*), the shining lightnings, in पृथिव्यां (*pṛthivyāṃ*), the atmosphere,
+
+### Printed p. 138
+(पृथिवी (*pṛthivī*) is a name of the atmosphere, since the hymn of its names reads *pṛthivī bhūḥ*), there अव स्वयंत (*ava svayaṃta*), shine with faces turned downward. Or *pṛthivyām* may be construed with what follows: यदि (*yadi*), when on the earth the Maruts पुष्णुवंति (*puṣṇuvaṃti*), sprinkle, pour, the ghee-like water that flows. (The root पुष (*puṣa*) of the kryādi class takes श्नुः (*śnuḥ*) by vyatyaya.) When this is so, then: this is the meaning."
+
+> पृथिवीत्यंतरिक्षनाम । पृथिवी भूरिति तन्नामसूक्तत्वात् । तत्राव स्वयंत । स्वयंते ।
+> अपाज्मुखं प्रकाशंते । पृथिव्यामित्येतदुत्तरत्र वा योज्यं । यदि यदा पृथिव्यां
+> भूम्यां धृतं क्षरदुदकं मरुतः पुष्णुवंति पुष्णंति सिंचंति ॥ पुषेः क्रैयादिकस्य
+> व्यत्ययेन श्नुः ॥ यदैवं तदेत्यर्थः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- (वज्राणि (*vajrāṇi*)—the thunderbolts)
+- अभ्रियां (*abhriyāṃ*)—in the clouds
+- वाचं (*vācaṃ*)—the sound (in the form of thunder)
+- उत् ईरयंति (*ut īrayaṃti*)—send forth
+- (तत् (*tat*)—then)
+- सिंधवः (*siṃdhavaḥ*)—the waters of flowing nature
+- पविभ्यः (*pavibhyaḥ*)—from the thunderbolts (belonging to the Maruts)
+- प्रति स्तोभंति (*prati stobhaṃti*)—move forth
+- (किंच (*kiṃca*)—further)
+- यदि (*yadi*)—when
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- धृतं (*dhṛtaṃ*)—the water
+- मरुतः (*marutaḥ*)—the Maruts
+- पुष्णुवंति (*puṣṇuvaṃti*)—sprinkle
+- (तदा (*tadā*)—then)
+- विद्युतः (*vidyutaḥ*)—the shining lightnings
+- (पृथिव्यां (*pṛthivyāṃ*)—in the atmosphere)
+- अव स्वयंत (*ava svayaṃta*)—laugh (shine) with faces turned downward
+
+##### भावार्थ (Bhāvārtha)
+
+When the cloud thunders, the waters are sent forth by the thunderbolts (of the Maruts); thus, while the Maruts sprinkle water on the earth, lightning shines in the sky.
+
+##### English translation (H. H. Wilson)
+The rivers are arrested by the thunderbolts when they utter the voice of the clouds; but the lightnings smile in the firmament when the Maruts sprinkle water on the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+अभ्रियां वाचं उदीरयंति (*abhriyāṃ vācaṃ udīrayaṃti*)—अभ्रभवां स्तनितलक्षणां वाचं शब्दं उच्चारयंति (*abhrabhavāṃ stanitalakṣaṇāṃ vācaṃ śabdaṃ uccārayaṃti*): when through the thunderbolt the sound of thunder arises in the clouds and the lightnings shine downward-faced in the atmosphere, the Maruts squeeze out the waters so that they flow on the earth. Then सिंधवः प्रति ष्टोभंति स्यंदनशीलाः आपः प्रतिचलंति (*siṃdhavaḥ prati ṣṭobhaṃti syaṃdanaśīlāḥ āpaḥ praticalaṃti*): the waters, flowing by nature, move on the earth and in the atmosphere; this is the meaning explained. That is, the rain-water that has fallen as rain falls on the earth and flows.
+
 ---
 
-**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
+**Progress note:** Done through printed p. 138. pp. 133-138 (batch API)
