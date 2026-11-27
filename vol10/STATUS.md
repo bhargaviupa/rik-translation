@@ -27,3 +27,5 @@ Built (`build_vol45.py 10 full`); `vol10/review/vol10_full.pdf`.
 `vol10/README.md`, `vol10/PHASE2_WORKER.md`.
 
 - **Nov 18 2026, glosses (T12):** 2 more labelled glosses replaced by the marker `**GLOSS**` (2 markers in the volume now; removed text in `review/glosses_removed.tsv`, 5 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).
+
+- **Nov 27 2026 (user): Vol 10 is to be converted to `**NOTE**` style** (`notes.tsv`, no `[?]`/`[sic]`) — not kept in the legacy `[?]` form of Vols 2–6. Order: (1) second pass on the supplied text (rig_10 files settle numerals and doubtful words; part 1 = pp. 2–379 supplied, Kannada Text made; part 2 pp. ~380–707 not yet supplied), (2) `[?]` that the supplied text does not settle, and `[sic]`, converted by the shared tool (`tools/rv/to_note_style.py`), (3) `notes_resolve.py` by the default rule. Nothing converted yet.
