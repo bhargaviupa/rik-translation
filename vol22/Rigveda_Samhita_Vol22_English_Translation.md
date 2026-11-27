@@ -21661,6 +21661,270 @@ O विश्ववारा (*viśvavārā*), Aśvins, choice of all, come to 
 - अश्वः (*aśvaḥ*)—the horse
 - अस्थात् (*asthāt*)—let it stand near you
 
+### Printed p. 523
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, worthy of everyone's regard, come to our sacrificial house. On earth that sacrificial place is renowned as yours alone. May the swift horse with a comfortable back, which you mount and sit upon as one settles in a house for permanent dwelling, stand near you.
+
+##### English translation
+All-adored Aswins, come to our (sacrifice), to that place on earth which has been designated yours, which, like a swift, broad-backed horse, awaits you, and on which you are seated as firmly as in a dwelling.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिष॑क्ति॒ सा वां॑ सुम॒तिश्चनि॒ष्ठाता॑पि घ॒र्मो मनु॑षो दुरो॒णे ।  
+> यो वां॑ समु॒द्रांत्स॒रितः॒ पिप॒र्त्येत॑ग्वा चि॒न्न सु॒युजा॑ युजा॒नः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिसक्ति । सा । वां । सुमतिः । चनिष्ठा । अतापि । घर्मः । मनुषः । दुरोणे ।  
+> यः । वां । समुद्रान् । सरितः । पिपर्ति । एतग्वा । चित् । न । सुयुजा । युजानः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा सुमतिरस्माभिः क्रियमाणा शोभना स्तुतिश्चनिष्ठा कमनीयेकमातिशयेनान्नवती वा वां युवां सिषक्ति । सेवते । किंच घर्मः प्रवर्ग्यः मनुषो मनुष्यस्य यजमानस्य दुरोणे यागगृहेतापि । तप्तोऽभूत् । यद्वा । द्धर्मस्य घर्मत्वं । तै. आ. ५-१-५ । इति श्रुतिः । यज्ञस्य शिरःस्थानीयत्वादस्य । यो घर्मो वां युवां । प्राप्नुवन्निति शेषः । समुद्रान् सरितश्च पिपर्ति पूरयति वृष्टिद्वारा । एतग्वा चिन्न । चिदिति पूरणः । अश्वाविव यथा सुयुजा सुष्ठु युक्तौ रथे भवतस्तथेत्यर्थः । नेत्युपमार्थे । तद्वद्युवां यज्ञे युजानो योऽजयन्यज्ञः । स एवं करोति ॥
+
+##### Gist of the bhāṣya
+
+That good praise (सुमतिः (*sumatiḥ*)) which we make, desirable or rich in food (चनिष्ठा (*caniṣṭhā*)), serves you. Moreover the Gharma, the Pravargya, has been heated in the sacrificial house of Manuṣa, the human sacrificer. Or else: the Gharma is so called from heating (Tai. Ā. 5-1-5, a Śruti), since it stands in the place of the head of the sacrifice. The Gharma which, reaching you, fills the oceans and rivers by means of rain. चित् (*cit*) is expletive. As two horses (एतग्वा (*etagvā*)) are well yoked to a chariot, so it is with you; न (*na*) is in the sense of comparison. Likewise the sacrificer, joining you in the sacrifice, does thus.
+
+### Printed p. 524
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सा सुमतिः (*sā sumatiḥ*)—the excellent praise made by us
+- चनिष्ठा (*caniṣṭhā*)—with very attractive food
+- वां (*vāṃ*)—you
+- सिषक्ति (*siṣakti*)—serves
+- यः (*yaḥ*)—which Pravargya
+- एतग्वा (*etagvā*)—horses
+- सुयुजा न (*suyujā na*)—as they are yoked to a chariot
+- युजानः (*yujānaḥ*)—bringing you to the sacrificial place
+- समुद्रान् (*samudrān*)—the oceans
+- सरितः (*saritaḥ*)—the rivers
+- पिपर्ति (*piparti*)—fills with water
+- घर्मः (*gharmaḥ*)—that same Pravargya
+- मनुषः (*manuṣaḥ*)—of the sacrificer
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- अतापि (*atāpi*)—has been heated
+
+##### भावार्थ (Bhāvārtha)
+
+Our excellent praise, with very attractive food, serves you. The same Pravargya which, as horses are yoked to a chariot, brings you to the sacrificial place and fills the oceans and rivers with water, has been heated in the sacrificer's house.
+
+##### English translation
+This excellent praise, redolent of food, propitiates you : the ewer has been heated in the dwelling of the worshipper, which reaching you, fills the ocean and the rivers (through the rain it obtains), associating you (in the rite), like two well-matched horses in a chariot.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यानि॒ स्थाना॑न्यश्विना द॒धाथे॑ दि॒वो य॒ह्वीष्वोष॑धीषु वि॒क्षु ।  
+> नि पर्व॑तस्य मू॒र्धनि॒ सदं॒तेषं॒ जना॑य दा॒शुषे॒ वहं॑ता ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यानि । स्थानानि । अश्विना । दधाथे इति । दिवः । यह्वीषु । ओषधीषु । विक्षु ।  
+> नि । पर्वतस्य । मूर्धनि । सदंता । इषं । जनाय । दाशुषे । वहंता ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना युवां दिवो द्युलोकादागत्य यानि स्थानानि दधाथे कुरुथः । कुत्रेति उच्यते । यह्वीषु महतीष्वोषधीषु विक्षु यजमानेषु च । ता युवां
+
+##### Gist of the bhāṣya
+
+O Aśvins, you come from heaven and make places (स्थानानि (*sthānāni*)) for yourselves. Where? It is said: among the great plants and among the sacrificers, and you (the construction continues in the next lines)
+
+### Printed p. 525
+
+> पर्वतस्य मेघस्यांतरिक्षस्य वा मूर्धनि स्थाने सदंता निषिदंताविषमन्नं दाशुषे हविर्दात्रे जनाय यजमानाय वहंता प्रापयंतौ भवतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+...seated on the summit (मूर्धनि (*mūrdhani*)), the place, of the mountain, that is, of the cloud or the atmosphere, be bearers, bringing food to the sacrificer, the giver of the oblation; "be" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- दिवः (*divaḥ*)—coming from heaven
+- यह्वीषु (*yahvīṣu*)—among great
+- ओषधीषु (*oṣadhīṣu*)—plants
+- विक्षु (*vikṣu*)—among sacrificers and others
+- पर्वतस्य (*parvatasya*)—of the atmosphere
+- मूर्धनि (*mūrdhani*)—on the high region
+- यानि स्थानानि (*yāni sthānāni*)—whatever places
+- दधाथे (*dadhāthe*)—you make for yourselves; in those places
+- नि सदंता (*ni sadaṃtā*)—being seated
+- दाशुषे (*dāśuṣe*)—to the one who offers oblation
+- जनाय (*janāya*)—to the sacrificer
+- इषं (*iṣaṃ*)—food
+- वहंता (*vahaṃtā*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, coming from heaven, in whatever places you make for yourselves, whether among the great plants, among sacrificers and others, or on the high region of the atmosphere, being seated in those places, provide food for the sacrificer who offers oblation.
+
+##### English translation
+To whatever places you may descend, Aswins, from heaven, whether amidst the spreading plants, or amongst men, or sitting on the summit of the clouds, be the bearers of food to the man, the donor (of the oblation),
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒नि॒ष्टं दे॑वा॒ ओष॑धीष्व॒प्सु यद्यो॒ग्या अ॒श्नवै॑थे॒ ऋषी॑णां ।  
+> पु॒रूणि॒ रत्ना॒ दध॑तौ॒ न्य१॒॑स्मे अनु॒ पूर्वा॑णि चख्यथुर्यु॒गानि॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चनिष्टं । देवौ । ओषधीषु । अप्सु । यत् । योग्याः । अश्नवैथे इति । ऋषीणां ।  
+> पुरूणि । रत्ना । दधतौ । नि । अस्मे इति । अनु । पूर्वाणि । चख्यथुः । युगानि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा देवौ युवानोषधीष्वोषधिविकारांश्चरुपुरोडाशादिकानप्सु सोमरसांश्चनिष्टं । अत्यंशकमनीयतमं कामयेथामित्यर्थः । यद्यस्मा
+
+##### Gist of the bhāṣya
+
+O divine Aśvins, you desire most keenly (चनिष्टं (*caniṣṭaṃ*)) the products of plants, such as cooked offerings and cakes, and the Soma juices in the waters. Since
+
+### Printed p. 526
+
+> द्योग्या युवयोरुचिता ओषधीरपश्च ऋषीणां संबंधिनीरश्नवैथे व्याप्नुथः तस्मादस्मदीया अपि कामयेथामित्यर्थः । यद्वा । ऋषीणामस्माकमिति पूजार्थं बहुवचनं । यद्यस्मादोषधीष्वप्सु च चनिष्ठं योग्याः स्तुतीश्चाश्नवैथे तस्मादस्मे अस्मासु पुरूणि बहूनि रत्ना रमणीयानि धनानि नि दधतौ पूर्वाणि युगानि मिथुनानि जायापतिरूपाण्यनु चख्यथुः । ख्यातवंतौ । अनुकृष्टवंतावनुग्रहार्थं ॥
+
+##### Gist of the bhāṣya
+
+...you pervade the suitable plants and waters belonging to the seers, therefore desire also those that are ours. Or else: the plural ऋषीणां (*ṛṣīṇāṃ*) for "our" is for honour. Since you accept (अश्नवैथे (*aśnavaithe*)) in the plants and waters what is most desired, and the praises, therefore placing in us (अस्मे (*asme*)) many delightful riches, you looked upon the former pairs (युगानि (*yugāni*)), couples of wife and husband, you looked upon them, having favoured them out of grace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—O divine Aśvin deities
+- ओषधीषु (*oṣadhīṣu*)—the cooked offerings, cakes and other products of plants
+- अप्सु (*apsu*)—the Soma juices
+- चनिष्टं (*caniṣṭaṃ*)—you desire
+- यत् (*yat*)—for which reason
+- योग्याः (*yogyāḥ*)—those suitable to you and offered by the seers, the plants and Soma juices
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers
+- अश्नवैथे (*aśnavaithe*)—you pervade; therefore
+- पूर्वाणि (*pūrvāṇi*)—former
+- युगानि (*yugāni*)—couples who performed sacrifices
+- अनु चख्यथुः (*anu cakhyathuḥ*)—as you favoured
+- अस्मे (*asme*)—in us also
+- पुरूणि (*purūṇi*)—abundant
+- रत्ना (*ratnā*)—riches
+- नि दधतौ (*ni dadhatau*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Aśvins, you desire the products of plants, such as cakes and other offerings, and the Soma juices. Since you pervade the plants and Soma juices that are suitable for you and offered by the seers, therefore establish abundant riches in us also, as you favoured the former sacrificing couples.
+
+##### English translation
+Inasmuch, divine Aswins, as you accept that which is most acceptable in the plants and the waters, and those (things) which are most suitable to you, the offerings of the Rishis, therefore, bestowing upon us ample riches, (favour us) as you have favoured former couples.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒श्रु॒वांसा॑ चिदश्विना पु॒रूण्य॒भि ब्रह्मा॑णि चक्षाथे॒ ऋषी॑णां ।  
+> प्रति॒ प्र या॑तं॒ वर॒मा जना॑या॒स्मे वा॑मस्तु सुम॒तिश्चनि॑ष्ठा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुश्रुवांसा । चित् । अश्विना । पुरूणि । अभि । ब्रह्माणि । चक्षाथे इति । ऋषीणां ।
+
+### Printed p. 527
+
+> प्रति । प्र । यातं । वरं । आ । जनाय । अस्मे इति । वां । अस्तु । सुमतिः । चनिष्ठा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ । चिदिति पूरणः । युवां शुश्रुवांसा श्रुतवंतौ संतौ पुरूणि बहूनि ब्रह्माणि परिवृढानि कर्माणि स्तुतिलक्षणान्यृषीणामस्माकं संबंधीन्यभि चक्षाथे । अभिपश्यथो युवां । अतो जनाय जनस्य यजमानस्य मम वरं यज्ञं प्रति प्र यातं । वां युवयोश्चनिष्ठोक्तलक्षणा सुमतिरनुग्रहमतिरस्मे अस्मास्वस्तु भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, चित् (*cit*) is expletive. Having heard, you look upon the many ब्रह्माणि (*brahmāṇi*), actions of the nature of praise, pertaining to us the seers. Therefore go forth to the excellent (वरं (*varaṃ*)) sacrifice of me, the sacrificer (जनाय (*janāya*)). May your favourable thought (सुमतिः (*sumatiḥ*)), of the kind described in "most desirable", be in us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- शुश्रुवांसा (*śuśruvāṃsā*)—hearing our praises
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers
+- पुरूणि (*purūṇi*)—abundant
+- ब्रह्माणि (*brahmāṇi*)—all the actions
+- अभि चक्षाथे (*abhi cakṣāthe*)—look upon
+- जनाय (*janāya*)—of me, the sacrificer
+- वरं प्रति (*varaṃ prati*)—towards the sacrifice
+- प्र यातं (*pra yātaṃ*)—come
+- चनिष्ठा (*caniṣṭhā*)—most excellent
+- वां सुमतिः (*vāṃ sumatiḥ*)—your favourable thought
+- अस्मे (*asme*)—in us
+- अस्तु (*astu*)—be established
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, hearing our praises, look upon all the abundant actions of the seers; come to the sacrifice of me, the sacrificer. May your most excellent favourable thought be established in us.
+
+##### English translation
+Aswins, hearing the many prayers of the Rishis, you look favourably upon (us) : come to the sacrifice of this man, and may your desired favour be (shewn) him.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॑ य॒ज्ञो ना॑सत्या ह॒विष्मा॑न्कृ॒तब्र॑ह्मा सम॒र्यो॒३॒॑ भवा॑ति ।  
+> उप॒ प्र या॑तं॒ वर॒मा वसि॑ष्ठमि॒मा ब्रह्मा॑ण्यृच्यंते यु॒वभ्यां॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । यज्ञः । नासत्या । हविष्मान् । कृतब्रह्मा । समर्यः । भवाति ।  
+> उप । प्र । यातं । वरं । आ । वसिष्ठं । इमा । ब्रह्माणि । ऋच्यंते । युवभ्यां ॥
+
+### Printed p. 528
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्याश्विनौ वां युवयोर्यो यज्ञो यजमानः समर्ये ऋत्विग्रूपैर्मर्त्यैः सहितः सन् हविष्मान् हविषा युक्तः कृतब्रह्मा कृतस्तोत्ररूपकर्मा भवाति भवति तं वरं वरणीयं वसिष्ठमोप प्र यातं । प्रकर्षेणोपागच्छतं । इमेमानि ब्रह्माणि मंत्रजातानि युवभ्यां युवाभ्यामर्थायागमनायार्च्यंते । स्तूयंते । क्रियंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, Aśvins, the sacrificer (यज्ञः (*yajñaḥ*)) of you, who, accompanied by mortals in the form of priests (समर्ये (*samarye*)), is possessed of oblation (हविष्मान् (*haviṣmān*)) and has performed the act of praise (कृतब्रह्मा (*kṛtabrahmā*)): to him, the excellent Vasiṣṭha, come forth, approach forcibly. These ब्रह्माणि (*brahmāṇi*), groups of mantras, are chanted, that is, performed, for you, for your coming.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- वां (*vāṃ*)—who worships you
+- यः यज्ञः (*yaḥ yajñaḥ*)—which sacrificer
+- समर्यः (*samaryaḥ*)—accompanied by priests
+- हविष्मान् (*haviṣmān*)—possessed of oblation
+- कृतब्रह्मा (*kṛtabrahmā*)—maker of praise
+- भवाति (*bhavāti*)—is; to such
+- वरं (*varaṃ*)—excellent
+- वसिष्ठं (*vasiṣṭhaṃ*)—to Vasiṣṭha
+- आ उप प्र यातं (*ā upa pra yātaṃ*)—come eagerly
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these praises
+- युवभ्यां (*yuvabhyāṃ*)—addressed to you
+- ऋच्यंते (*ṛcyaṃte*)—are recited
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, to the excellent Vasiṣṭha, the sacrificer who worships you, accompanied by priests, possessed of oblation and maker of praises, come eagerly. These praises are recited addressed to you.
+
+##### English translation
+Come, Nasatyas, to the excellent Vasishtha, the worshipper who, accompanied by the priests, is present, offering oblations and repeating praises : these prayers are recited to (bring) you (hither).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं म॑नी॒षा इ॒यम॑श्विना॒ गीरि॒मां सु॑वृ॒क्तिं वृ॑षणा जुषेथां ।  
+> इ॒मा ब्रह्मा॑णि युव॒यून्य॑ग्मन्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । मनीषा । इयं । अश्विना । गीः । इमां । सुवृक्तिं । वृषणा । जुषेथां ।  
+> इमा । ब्रह्माणि । युवयूनि । अग्मन् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 522. pp. 517-522 (batch API)
+**Progress note:** Done through printed p. 528. pp. 523-528 (batch API)
