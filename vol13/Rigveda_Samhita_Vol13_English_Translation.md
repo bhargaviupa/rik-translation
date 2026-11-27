@@ -8710,6 +8710,119 @@ The sentence विद्यामेषं वृजनं जीरदान�
 - नृपाता—अत्र नृ शब्दः पूर्वार्थं अनुवदति । पा रक्षणे इति धातुः । कर्तरि तृच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरो भवति ।
 - स्पृधाम्—स्पर्ध संघर्षे इति धातुः । क्विप् प्रत्ययः । छांदसत्वात् ऋकारस्य संप्रसारणं अकारलोपश्च भवतः । षष्ठीबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
 
+### Printed p. 361
+## Sūkta 175 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+The sūkta मत्स्यपायीति (*matsyapāyīti*) has six Ṛks and is the eleventh sūkta of the twenty-third anuvāka. Its seer is Agastya and its deity is Indra. Metres: the first Ṛk is a Skandhogrīvī Bṛhatī, because its second pāda has twelve syllables and the other three have eight. If the second pāda is the twelve-syllable one, the Ṛk is Nyaṅkusāriṇī, Urobṛhatī or Skandhogrīvī (Anukramaṇī 7.3). The last Ṛk is a Triṣṭubh. The remaining ones are Anuṣṭubh. The Anukramaṇī says: मत्सि षळानुष्टुभं तु त्रिष्टुबंतं त्वाद्या स्कंधोग्रीवी (*matsi ṣaḷānuṣṭubhaṃ tu triṣṭubaṃtaṃ tvādyā skaṃdhogrīvī*). Use: in the second Svarasāman day the first three Ṛks are Stotriya verses; the Āśvalāyana Śrauta Sūtra, in the section अभिजिद्दृहत्पृष्ट (*abhijiddṛhatpṛṣṭa*), prescribes this with the sūtra मत्स्यपायि ते मह एमेनं प्रत्येतन (*matsyapāyi te maha emenaṃ pratyetana*) (Ā. 8-5).
+
+##### Anuvāda
+
+The sūkta मत्स्यपायि ते (*matsyapāyi te*) is the eleventh sūkta in the twenty-third anuvāka; it has six Ṛks. Agastya is the seer and Indra the deity. The Anukramaṇī statement (Anukra. 7-3) means: in the first Ṛk the first pāda has 12 syllables and the other three pādas eight each, so by the science of metre such a Ṛk is called Skandhogrīvī Bṛhatī or Urobṛhatī. If the second pāda has 12 syllables and the others eight each, it is called Nyaṅkusāriṇī Bṛhatī. The last Ṛk of the sūkta is Triṣṭubh; the other Ṛks are Anuṣṭubh. In the second Svarasāman, the first three Ṛks of this sūkta are to be recited as Stotriya mantras, as explained in the Āśvalāyana Śrauta Sūtra, in the section Abhijid-bṛhat-pṛṣṭha, by the sūtra मत्स्यपायि ते मह एमेनं प्रत्येतन (*matsyapāyi te maha emenaṃ pratyetana*) (Ā. 8-5).
+
+##### Particulars
+
+- Maṇḍala 1; Anuvāka 23; Sūkta 175
+- Aṣṭaka 2; Adhyāya 4; Varga 18
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: Agastya
+- Devatā: Indra
+- Chandas: 1. Skandhogrīvī Bṛhatī; 2–5. Anuṣṭubh; 6. Triṣṭubh
+
+### Printed p. 362
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मत्स्यपा॑यि ते॒ महः॒ पात्र॑स्येव हरिवो मत्स॒रो मदः॑ ।  
+> वृषा॑ ते॒ वृष्ण॒ इंदु॑र्वा॒जी स॑हस्र॒सात॑मः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मत्सि । अपाययि । ते । महः । पात्रस्य इव । हरिः । मत्सरः । मदः ।  
+> वृषा । ते । वृष्णे । इंदुः । वाजी । सहस्रसातमः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवो हरिभ्यां तद्वन्निंद्र महो महान् पूज्योऽयं सोमः
+> पात्रस्येव तत्पात्रेणेव सोमपात्रेण यथा धार्यते सोमस्तत्सदृशेन ते त्वया ।
+> तृतीयार्थे षष्ठी। यद्वा । पात्रस्येव ते तव स्वभूतो महो महान् सोम इति
+> वा योजना । अपायि । पीयते ॥ आशंसाया विवक्षितत्वादूतवत्पयोगः ॥ यतः
+> पिबसि अतो मत्सि । माद्यसि मादयस्व वा । पात्रे यथा सोमः पूर्यते
+> तथात्यधिकं पिब पीत्वा च मादयस्वेत्यर्थः । किंच वृष्णे तेऽभिमतवर्षित्रे
+> तुभ्यं । चतुर्थर्थे षष्ठी । मत्सरो मदसाधनो मदस्तर्पयिता वृषा
+> वर्षितेंदुः क्लेदयिता । आह्लादकारीत्यर्थः । वाज्यन्नवान् । अन्नवार्यतृप्ति सद्भानादन्नवानित्युच्यते । सहस्रसातमोऽपरिमितदात्तमः सहस्रपुरुषसंभजनपर्याप्तशक्त्यतिशयो वा एवंमहानुभावः सोमः संपादितः । तं पिबेत्यर्थः li
+
+##### Gist of the bhāṣya
+
+"O Hari-yoked Indra, this great, venerable Soma has been drunk by you, as it is held by its vessel" — the genitive is in the sense of the instrumental. Or else the construction is: great Soma, as if your own from the vessel. अपायि (*apāyi*) means "is drunk"; the aorist-like form is used because a wish is intended. Because you drink, you rejoice, or cause yourself to rejoice. As Soma fills the vessel, so drink abundantly and, having drunk, be exhilarated. Further: for you, the showerer of desired things (the genitive is in the sense of the dative), it is exhilarating, a means of intoxication, satisfying, showering, moistening (delighting), and वाजी (*vājī*) means "possessed of food" — called so because it gives the satisfaction of food. सहस्रसातमः (*sahasrasātamaḥ*) means a most boundless giver, or one of surpassing power sufficient to serve a thousand men. Such a Soma has been prepared; drink it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, possessed of the pair of horses called Hari
+- वृष्णे (*vṛṣṇe*)—to the showerer of desires
+- ते (*te*)—for you
+- मत्सरः (*matsaraḥ*)—the means of intoxication
+- मदः (*madaḥ*)—satisfying
+- वृषा (*vṛṣā*)—granting what is wished
+- इंदुः (*iṃduḥ*)—moistening (delighting)
+- वाजी (*vājī*)—possessed of food (satisfying like food)
+- सहस्रसातमः (*sahasrasātamaḥ*)—having the power of giving without measure (the Soma has been prepared)
+- महः (*mahaḥ*)—this venerable Soma
+- पात्रस्य इव (*pātrasya iva*)—as it is held by the vessel
+- ते (*te*)—by you
+- अपायि (*apāyi*)—is drunk
+- मत्सि (*matsi*)—(therefore) you rejoice
+
+### Printed p. 363
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of the horses called Hari: the Soma juice, showering desires, giving satisfaction and joy, delighting, satisfying like food, giving boundless bliss, has been made ready for you. Drink this venerable Soma abundantly, as a vessel is filled to the full, and be satisfied by it.
+
+##### English translation (H. H. Wilson)
+Lord of steeds, you are exhilarated when the sacred (Soma juice) has been imbibed by you as by its (appropriate) vessel ; for to you, showerer (of benefits), it is exhilarating, inebiating, invigorating, the yieldder of delight, (satisfying as) food, and the giver of a thousand (pleasures).
+
+##### विशेषविषयगळु (Special Topics)
+
+By द्वितीये स्वरसामि (*dvitīye svarasāmi*) …, Sāyaṇa states the use of the mantras of this sūkta: they are mantras to be recited on Svarasāman days. Svarasāman is the name of certain sacrificial days. The Āśvalāyana Śrauta Sūtra and its commentary explain the term thus:
+अभिप्लवत्र्यहः पूर्वः स्वरसामाना । स्वराणि श्विह पृष्टानि । शेषां स्तोत्रिया यज्जायथा अपूर्वमत्स्यपायि ते मह......... (*abhiplavatryahaḥ pūrvaḥ svarasāmānā | svarāṇi śviha pṛṣṭāni | śeṣāṃ stotriyā yajjāyathā apūrvamatsyapāyi te maha.........*) (Aś. Śrau. 8-5)
+The commentary gives a fuller explanation of what the sūtras say:
+अभिप्लवस्य यः पूर्वस्त्र्यहस्तेनातिदिष्टानि वक्ष्यमाणगुणविशिष्टानि त्रीण्यहानि स्वरसामसंज्ञानि भवंति। स्वरसंज्ञकानि सामानि एतेष्वहस्सु पृष्टानि भवंति । एतदेवैषु स्वरसामशब्दस्य प्रवृत्तिनिमित्तं । यथासंख्येन शेषामेते स्तोत्रिया भवंति । (*abhiplavasya yaḥ pūrvastryahastenātidiṣṭāni vakṣyamāṇaguṇaviśiṣṭāni trīṇyahāni svarasāmasaṃjñāni bhavaṃti| svarasaṃjñakāni sāmāni eteṣvahassu pṛṣṭāni bhavaṃti | etadevaiṣu svarasāmaśabdasya pravṛttinimittaṃ | yathāsaṃkhyena śeṣāmete stotriyā bhavaṃti |*) (Nārāyaṇa's Vṛtti).
+In connection with the Abhiplava sacrifice, the first three days are called Svarasāman. The sāmans called Svara become Pṛṣṭha on these days. That is the reason for the use of the word Svarasāman. The Aitareya Brāhmaṇa explains the same and states the importance of Svarasāman thus:
+स्वरसाम्न उपयंतीमे वै लोकाः स्वरसामान इमान्वै लोकान् स्वरसामभिरस्वण्वंस्तत्स्वरसाम्नां स्वरसामत्वं तद्यत्स्वरसाम्न उपयंतेष्टेवैनं कल्लोकेष्वाभजंति । (*svarasāmna upayaṃtīme vai lokāḥ svarasāmāna imānvai lokān svarasāmabhirasvaṇvaṃstatsvarasāmnāṃ svarasāmatvaṃ tadyatsvarasāmna upayaṃteṣṭevainaṃ kallokeṣvābhajaṃti |*) (Ai. Brā. 4-19)
+
+### Printed p. 364
+These three worlds are the Svarasāman days. Because the sacrificers satisfy these three worlds with the Svarasāmans, these days became famous as Svarasāman days. By performing the rites to be done on these days, the sacrificers impel Āditya to be the agent of the activities of the three worlds. The scholar Haug criticises this explanation thus:
+This etymology is certainly fanciful. Swara cannot be traced to the root स्वृण् (*svṛṇ*), a modification of प्री (*prī*) to love. The name literally means "The samans of the tones" This appears to refer to some peculiarities in their intonations. These Samans being required only for great सत्त (*satta*) which have been out of use for at least a thousand years. it is difficult now to ascertain the exact nature of the Samans. (Aiteraya Brahmana. P. 290 Translation by Haug.)
+That is: the derivation that shows the root प्री (*prī*), in the altered form स्वण् (*svaṇ*), to be the source of this word is not very apt. The name must belong to sāmans that have a peculiarity in their arrangement of tones and are to be recited at sattras and the like. Since sacrifices performed thousands of years ago are no longer practised, the nature and the tone-rules of the sāmans recited then cannot be known exactly; so the scholar gives his opinion. The book also explains the reasons for the days' arrangement and for the rites done on them, before and after them, in relation to Āditya's revolution and so on:
+तस्य वै देवा अदित्यस्य स्वर्गाल्लोकादव पातादबिभयुस्तं त्रिभिः स्वर्गैर्लोकैरवस्तात्पत्युत्तभ्नुवन् स्तोमा वै त्रयो लोकास्तस्य पराचोऽतिपाताद बिभयुस्तं त्रिभिः स्वर्गैर्लोकैः परस्तात्पत्युत्तभ्नुवन् स्तोमा वै त्रयः स्वर्गा लोकास्तत्रयोऽवस्तात्सप्तदशा भवंति त्रयः परस्तान्मध्य एष एकविंश उभयतः स्वरसामभिर्धृत उभयतो हि वा एष स्वरसामभिर्धृतस्तस्मादेषो०तरेमालोकान्यन्न व्यथते । (*tasya vai devā adityasya svargāllokādava pātādabibhayustaṃ tribhiḥ svargairlokairavastātpatyuttabhnuvan stomā vai trayo lokāstasya parāco 'tipātāda bibhayustaṃ tribhiḥ svargairlokaiḥ parastātpatyuttabhnuvan stomā vai trayaḥ svargā lokāstatrayo 'vastātsaptadaśā bhavaṃti trayaḥ parastānmadhya eṣa ekaviṃśa ubhayataḥ svarasāmabhirdhṛta ubhayato hi vā eṣa svarasāmabhirdhṛtastasmādeṣo0taremālokānyanna vyathate |*) (Ai. Brā. 4-81)
+The gods, fearing Āditya's fall, placed a supporting pillar for Āditya beneath the three worlds. The Svarasāmans are these pillars. Then, fearing a fall again, they set up a pillar in the form of Svarasāman above the three worlds as well. These are in the form of these three
+
+### Printed p. 365
+worlds. The three stomas before the Viṣuvat day and the three after it together make the group of seventeen stomas. In the middle of these stands the Ekaviṃśa day, which rests on the Svarasāman days and reflects Āditya. Because he is held by the Svarasāmans, Āditya's revolution meets no hindrance in the three worlds.
+तेषां वै देवाः सप्तदशानां प्रव्लयादबिभयुः समा इव वै स्तोमा अविगूह्ला इवेमे ह न प्रव्लियेरन्निति तान् सर्वैः स्तोमैरवस्तात्पर्यार्षन् सर्वैः पृष्टैः परस्तात्तद्यदभिजित्सर्वस्तोमोऽवस्ताद्भवति विश्वजित्सर्वपृष्ठः परस्तात्तत्सप्तदशानुभयतः पर्यषंति धृत्या अप्रव्लयाय । (*teṣāṃ vai devāḥ saptadaśānāṃ pravlayādabibhayuḥ samā iva vai stomā avigūhlā iveme ha na pravliyeranniti tān sarvaiḥ stomairavastātparyārṣan sarvaiḥ pṛṣṭaiḥ parastāttadyadabhijitsarvastomo 'vastādbhavati viśvajitsarvapṛṣṭhaḥ parastāttatsaptadaśānubhayataḥ paryaṣaṃti dhṛtyā apravlayāya |*) (Ai. Brā. 4-19)
+Fearing that these seventeen stomas, in the form of Svarasāmans, might fall without support, the gods covered them below with all the stomas and above with the pṛṣṭhas. Therefore on the Abhijit day, before the Svarasāman days, they recite with all the stomas, and on the Viśvajit day after them, with the pṛṣṭha. These save the seventeenfold stoma from falling; thus the distinctive character of the Svarasāmans and of their related stotras is praised. And in telling their origin, the Śatapatha Brāhmaṇa says:
+त्रिष्टुभं छंदो ग्रीष्मादृतोर्निरमिमीत त्रिष्टुभः स्वारमिति त्रिष्टुभश्चंदसः स्वारग्‌ंसाम निरमिमीत स्वारादंतर्याम इति । (*triṣṭubhaṃ chaṃdo grīṣmādṛtorniramimīta triṣṭubhaḥ svāramiti triṣṭubhaścaṃdasaḥ svāragṃsāma niramimīta svārādaṃtaryāma iti |*) (Śa. Brā. 8-1-1-8)
+Viśvakarman fashioned the Triṣṭubh metre from the summer season, from the Triṣṭubh the Svarasāman, and from the Svarasāman the Antaryāma cup. Further, in the sacrifice called गवां अयनं (*gavāṃ ayanaṃ*), performed over one year, the Svarasāman days are very important. The division of time for this performance is:
+1. The Prāyaṇīya Atirātra: the opening day.
+2. The Caturviṃśa day: made of the twenty-four stoma.
+3. Five months, each containing four Abhiplava ṣaḍahas and one Pṛṣṭya ṣaḍaha.
+4. The (sixth) month containing the Abhijit day and the three Svarasāman days.
+5. The Viṣuvat day, with the Ekaviṃśa stoma.
+6. The seventh month containing the Viśvajit day and again three Svarasāman days; and so on.
+Thus the order of origin of the Svarasāman days, which are an essential part of the year of the Gavāmayana, is explained as follows.
+
+### Printed p. 366
+सवंत्सराच्चतुर्विग्०तमहः । ब्रह्मणोऽभिप्लवं क्षत्रात्पृश्यमग्नेरभिजितमद्भ्यः स्वरनाम्न आदित्याद्विषुवंतमुक्ताः स्वरसामान्यः ॥ (*savaṃtsarāccaturvig0tamahaḥ | brahmaṇo 'bhiplavaṃ kṣatrātpṛśyamagnerabhijitamadbhyaḥ svaranāmna ādityādviṣuvaṃtamuktāḥ svarasāmānyaḥ ‖*) (Śa. Brā. 12-1-2-2)
+From the year came the Caturviṃśa day, from Brahman the Abhiplava, from the kṣatra the Pṛṣṭha, from Agni the Abhijit, from water the Svarasāman, from Āditya the Viṣuvat day. This states the order of the Svarasāman days. The connection between water and Āditya is also stated above. The Śatapatha Brāhmaṇa explains the same:
+अथ यत्स्वरसाम्न उपयंति । अप एव देवतां यजंत अपो देवता भवंतपाग्ं सायुज्यग्ं सलोकतां जयति। अथ यद्विषुवंतमुपयंति। आदित्यमेव देवताग्ंयजंत आदित्यो देवता भवंत्यादित्यस्य सायुज्यग्ं सलोकतां जयत्युक्ताः स्वरसामान्यः । ( (*atha yatsvarasāmna upayaṃti | apa eva devatāṃ yajaṃta apo devatā bhavaṃtapāgṃ sāyujyagṃ salokatāṃ jayati| atha yadviṣuvaṃtamupayaṃti| ādityameva devatāgṃyajaṃta ādityo devatā bhavaṃtyādityasya sāyujyagṃ salokatāṃ jayatyuktāḥ svarasāmānyaḥ | (*) (Śa. Brā. 12-1-2-13)
+All who perform rites on the Svarasāman days worship water, the cause and presiding deity of the Svarasāman; as the fruit of that worship they attain sāyujya with water. Likewise those who offer worship on the Viṣuvat day attain sāyujya with Āditya, who is related to it. This is the distinctive character of the Svarasāmans. Further, stating the identity of the Puruṣa with the year of the Gavāmayana:
+पुरुषो वै संवत्सरः । तस्य पादादेव प्रायणीयोऽतिरात्रः पादाभ्याग्ंहि प्रयंति................ ॥ १ ॥ (*puruṣo vai saṃvatsaraḥ | tasya pādādeva prāyaṇīyo 'tirātraḥ pādābhyāgṃhi prayaṃti................ ‖ 1 ‖*)
+अयमेव दक्षिणो बाहुरभिजित् । इम एव दक्षिणो त्रयः प्राणाः स्वरसामानो मूर्धा विषुवानिम एवोत्तरे त्रयः प्राणाः स्वरसामानः ॥ २ ॥ (*ayameva dakṣiṇo bāhurabhijit | ima eva dakṣiṇo trayaḥ prāṇāḥ svarasāmāno mūrdhā viṣuvānima evottare trayaḥ prāṇāḥ svarasāmānaḥ ‖ 2 ‖*) (Śa. Brā. 12-1-4-2)
+The year is the Puruṣa; the Prāyaṇīya Atirātra, the opening day of the Gavāmayana, is his foot. As the foot is the means of movement, this Atirātra is the means of the movement that is the carrying out of rites ........ The Abhijit day is his right arm; the Svarasāmans of the Abhijit day are the three chief breaths of his right side. The Viṣuvat day is the head; the Svarasāmans related to it are the three chief breaths of the left side. So it is praised. Discussing the distinctive character of the Svarasāmans to be sung on these days and the manner of singing, the English scholar Eggling says as follows.
+
 ---
 
-**Progress note:** Done through printed p. 360. pp. 355-360 (batch API)
+**Progress note:** Done through printed p. 366. pp. 361-366 (batch API)
