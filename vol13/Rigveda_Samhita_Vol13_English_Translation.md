@@ -13571,6 +13571,172 @@ the Aśvin deities are addressed as दिवः नपाता (*divaḥ napā
 
 it is said that the fingers desired again, and,
 
+### Printed p. 571
+Sāyaṇa has taken the sense "you become desirous of the sacrifice again and again". In both of these senses the use of this word can be seen elsewhere. For example, in
+*acchā kośaṃ madhuśca tamasṛgraṃ vāre avyaye | avāvaśaṃta dhītayaḥ ‖* (Ṛ. Saṃ. 9-66-11 **NOTE**)
+the meaning is that the fingers desired again; and in
+
+अभि त्रिपृष्टं वृषणं वयोधामांगूषाणामवावशंत वाणीः । वना वसानो वरुणो न सिंधून्वि रत्नधा दयते वार्याणि ॥ (*abhi tripṛṣṭaṃ vṛṣaṇaṃ vayodhāmāṃgūṣāṇāmavāvaśaṃta vāṇīḥ | vanā vasāno varuṇo na siṃdhūnvi ratnadhā dayate vāryāṇi ‖*) (Ṛ. Saṃ. 9-90-2)
+
+it is understood that the voices sounded. In the present Ṛk, it is indicated that the purport may be stated either as: the Aśvin deities were satisfied by the sound in the form of praise, or: they became desirous of the sacrifice.
+
+Subhagaḥ—this word is read among the names of wealth, "मघं, रेक्षः (*maghaṃ, rekṣaḥ*)" etc. (Ni. 3-9); it means excellent wealth. Since in the present Ṛk the wealth of the deity who is in the form of the Sun is spoken of, here it means wealth in the form of rays.
+
+##### Grammar
+
+- इहेह — नित्यवीप्सयोः इति द्विर्वचनम् । अनुदात्तं च (पा. सू. ८-१-३) इत्यनेन परभागः सर्वानुदात्तो भवति ।
+- जाता — जनी प्रादुर्भावे इति धातुः । क्त प्रत्यये परे जनसन खनां सन्‌झलोः (पा. सू. ६-४-४२) इत्यनेन आत्वम् । प्रत्ययस्वरेण अंतोदात्तं भवति । द्विवचनस्य आकारादेशः ।
+- अवावशीताम् — वश कांतौ इति धातुः । धातोरेकाचः (पा. सू. ३-१-२२) इत्यनेन पौनःपुन्यार्थे यज् । यजोचिच (पा. सू. २-४-७४) इत्यनेन तस्य लुक् । व्यत्ययो बहुलं इत्यनेन लज् मध्यमपुरुषद्विवचनस्य स्थाने प्रथमपुरुषद्विवचनप्रत्ययो भवति । अडागमः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- अरेपसा — न विद्यते रेपः ययोस्तौ । नञ् सुभ्याम् (पा सू. ६-२-१७२) इत्यनेन उत्तरपदांतोदात्तस्वरो भवति । सुपां सुलुक् इति सूत्रेण द्विवचनस्य आकारादेशः ।
+- तन्वा — उदात्तस्थाने यणादेशे आगते तस्य परत्वेन विभक्तौ आगतायाम् उदात्तस्वरितयोर्यणः (पा. सू. ८-२-४) इत्यनेन स्वरितस्वरो भवति ।
+- जिष्णुः — जि जये इति धातुः । ग्लाजि स्थश्च क्सुः (पा. सू. ३-२-१३९) इत्यनेन क्सु प्रत्ययः । गित्त्वात् गुणो न भवति । आदेश प्रत्यययोः इत्यनेन प्रत्ययसकारस्य षत्वम् । तं निमित्तीकृत्य नकारस्य णत्वम् । प्रत्ययस्वरेण अंतोदात्तं भवति ।
+- सुभगः — बहुव्रीहिसमासः । सुस्वरेण अंतोदात्तस्य बाधकतया अद्युदात्तं द्व्यच् छंदसि (पा. सू. ६-२-११९) इत्यनेन उत्तरपदाद्युदात्तस्वरो भवति ।
+
+### Printed p. 572
+**Grammar** (continued)
+- ऊहे — वह प्रापणे इति धातुः । छंदसिलुज् लज् लिटः इत्यनेन वर्तमानार्थे लिट् । प्रथमपुरुषैकवचनस्य एतादेशः । वचिस्वपियजादीनां किति (पा. सू. ६-१-१५) इत्यनेन संप्रसारणम् । पूर्णरूपम् । लिट्त्वनिमित्तं द्वित्वादि । अतिजंतस्य परत्वात् निघातस्वरो भवति ॥ ४ ॥
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वां॑ निचे॒रुः क॑कु॒हो वशा॒ अनु॑ पि॒शंग॑रूपः॒ सद॑नानि गम्याः ।  
+> हरी॑ अ॒न्यस्य॑ पी॒पयं॑त॒ वाजै॑र्म॒थ्ना रजां॑स्यश्विना॒ वि घोषैः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । निचेरुः । ककुहः । वशान् । । अनु । पिशंगरूपः । सदनानि । गम्याः ।  
+> हरी इति । अन्यस्य । पीपयंत । वाजैः । मथ्ना । रजांसि । अश्विना । वि । घोषैः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आश्विनाश्विन् नां युवयोर्मध्येऽन्यस्यैकस्य ककुहः श्रेष्ठः पिशंगरूपो हिरण्यरूपः पीतवर्णो ना बहुभिरक्षाद्यवयवैर्निरूप्यमाणो वा रथो
+> वशाननु कामाननुलक्ष्य यथाकामं । अस्मद्यज्ञागमनेच्छयेत्यर्थः । यद्वा ।
+> वशान् स्वाधीनाः ककुहो दिशो दिगंतरालानुक्रमेण नीचैरुच्चैश्चरन् स्वस्थानाद्देवयजनमुखं गच्छन् । सदनान्यस्मद्यागगृहाणि प्र गम्याः । प्रकर्षेण गच्छतु ॥
+> पुरुषव्यत्ययः ॥ आत्र यद्यप्यन्यस्यॆति नोक्तं तथाप्युत्तरवाक्ये तथोक्तत्वादत्रापि
+> लभ्यते । अन्यस्य युवयोरन्यतमस्य हरी अश्वे रजांसि लोकाः । अत्र लोकशब्दो
+> जनवाचकः । ते यजमानरूपा जना इत्यर्थः । ते च मथ्ना प्रमथनेनालोडनेन
+> निष्पादित्यैर्वाजैरन्नॆरामिक्षादिरूपैर्घोषैः स्तुतिभिश्चाह्वानादिशब्दविशिष्टैर्वा पीठयंत । आप्याययंति ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, of the two of you, the chariot of one — excellent (ककुहः (*kakuhaḥ*)), of tawny, golden or yellow colour, or one described by many parts such as the axle — according to the wishes (वशान् (*vaśān*)), that is, following desires, as it pleases, moving by the wish to come to our sacrifice." Or else: वशान् (*vaśān*) means "self-governed", and ककुहः (*kakuhaḥ*) means the quarters; moving low and high in the order of the quarters and intermediate quarters, going from its own place to the sacrifice-ground, let it come forward (प्र गम्याः (*pra gamyāḥ*)) to our sacrificial houses (सदनानि (*sadanāni*)). There is a change of person. Although "of the other" is not said here, it is obtained here too since it is so said in the following sentence. Of the other, i.e. one of you two, the horses (हरी (*harī*)): रजांसि (*rajāṃsi*) means "worlds"; here the word "world" denotes people, that is, people in the form of sacrificers. They gratify (पीपयंत (*pīpayaṃta*), cause to swell) them with वाजैः (*vājaiḥ*), foods such as āmikṣā produced by churning (मथ्ना (*mathnā*)), and with घोषैः (*ghoṣaiḥ*), praises, or sounds marked by invocation and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अश्विना (*(he) aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—of you two (of one)
+- ककुहः (*kakuhaḥ*)—the excellent
+- पिशंगरूपः (*piśaṃgarūpaḥ*)—of golden (yellow) form
+- वशान् अनु (*vaśān anu*)—following desires (as the mind wishes)
+- नि चेरुः (*ni ceruḥ*)—moving about
+- [Or वशान् (*vaśān*)—self-governed; ककुहः अनु (*kakuhaḥ anu*)—following the quarters and intermediate quarters; निचेरुः (*niceruḥ*)—moving about above, below, everywhere]
+- (of the chariot)
+- सदनानि (*sadanāni*)—to our sacrificial houses
+- प्र गम्याः (*pra gamyāḥ*)—may it come specially
+- अन्यस्य (*anyasya*)—of the other
+- हरी (*harī*)—the horses
+- रजांसि (*rajāṃsi*)—people in the form of sacrificers
+- मथ्ना (*mathnā*)—(produced) by churning
+- वाजैः (*vājaiḥ*)—with foods in the form of āmikṣā etc. (and)
+- घोषैः (*ghoṣaiḥ*)—with praises
+- वि पीपयंत (*vi pīpayaṃta*)—they gratify
+
+### Printed p. 573
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may the chariot belonging to one of you, of yellow colour, moving in the quarters and intermediate quarters, come to our sacrificial houses; the sacrificers gratify the horses of the other with foods such as āmikṣā prepared by churning, and with hymns.
+
+##### English translation (H. H. Wilson)
+Ashwins, may the golden-coloured (car of one of you). traversing at will, the quarters of space, come to our dwellings ; may mankind encourage the horses of the other by food, by friction, and by shouts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous Ṛk the Aśvin deities were described as the Sun and Moon; in this Ṛk the manner of movement of their chariot and its attractive colour are described.
+
+अश्विना परि वामिषः पुरोचीरीयुर्गीर्भिर्यतमाना अमृध्राः । रथो ह वामृतजा अद्रिजूतः परि द्यावापृथिवी याति सद्यः ॥ (*aśvinā pari vāmiṣaḥ purocīrīyurgīrbhiryatamānā amṛdhrāḥ | ratho ha vāmṛtajā adrijūtaḥ pari dyāvāpṛthivī yāti sadyaḥ ‖*) (Ṛ. Saṃ. 3-58-8)
+
+यूयं हि देवीर्यतयुग्भिरश्वैः परिप्रयाथ भुवनानि सद्यः । प्रबोधयंतीरुषसः ससंतं द्विपाच्चतुष्पाच्चरथाय जीवं ॥ (*yūyaṃ hi devīryatayugbhiraśvaiḥ pariprayātha bhuvanāni sadyaḥ | prabodhayaṃtīruṣasaḥ sasaṃtaṃ dvipāccatuṣpāccarathāya jīvaṃ ‖*) (Ṛ. Saṃ. 4-51-5)
+
+As described in these and other Ṛks, their chariot has unobstructed movement in all quarters, and moves of its own wish and freely around heaven and earth. This matter is told by the sentence प्र वां निचेरुः ककुहोवशा अनु (*pra vāṃ niceruḥ kakuhovaśā anu*).
+
+The word ककुहः (*kakuhaḥ*) is read among the names of "great" (Ni. 3-13). Therefore, as an epithet of the chariot, it may mean a most praiseworthy chariot. Or ककुहः अनु (*kakuhaḥ anu*) may be explained as "in the ten quarters (it can move freely)". The Nirukta authors have stated that the two words ककुभ (*kakubha*) and ककुह (*kakuha*) are formed from the same root. To tell the attractive colour of this chariot during its movement, the epithet पिशंगरूपः (*piśaṃgarūpaḥ*) has been added.
+
+### Printed p. 574
+For the word पिशंगरूपः (*piśaṃgarūpaḥ*) Sāyaṇa has explained: हिरण्यरूपः, पीतवर्णो वा बहुभिरक्षाद्यवयर्वैर्निरूप्यमाणो वा रथः (*hiraṇyarūpaḥ, pītavarṇo vā bahubhirakṣādyavayarvairnirūpyamāṇo vā rathaḥ*), that is, a chariot of golden colour, or golden with a whitish tinge, or one described by many parts. **NOTE** If one knows the times of the appearance and the movement of the Aśvin deities, the nature of this colour is understood.
+
+कृष्णा यद्योष्वरुणीषु सीदद्दिवो नपाताश्विना हुवे वां । (*kṛṣṇā yadyoṣvaruṇīṣu sīdaddivo napātāśvinā huve vāṃ |*) (Ṛ. Saṃ. 10-61-4)
+
+आ तेन यातं मनसो जवीयसा रथं यं वामृभवश्च कुरश्विना । यस्य योगे दुहिता जायते दिव उभे अहनी सुदिने विवस्वतः ॥ (*ā tena yātaṃ manaso javīyasā rathaṃ yaṃ vāmṛbhavaśca kuraśvinā | yasya yoge duhitā jāyate diva ubhe ahanī sudine vivasvataḥ ‖*) (Ṛ. Saṃ. 10-39-12)
+
+In these and other Ṛks it is told that before sunrise, while the goddess Uṣas rises with her radiance, delighting all creatures and dispersing darkness, the Aśvin deities too prepare their chariot to go to the sacrificial ground, and prayer is made for their coming. At this time the rising of Uṣas, the blazing of Agni and the rising of Aruṇa, all together, make the chariot of the Aśvins of tawny colour. Describing this same occasion, the scholar Max Müller has spoken thus:
+
+"Thus the appearance of the Aswins, the kindling of the sacrificial fire, the break of dawn are synchronous with the first appearanee of the Sun's rays or more correctly the appearance of the light on the earth reflected from an immense number of meteors circulating around the Sun in or near the ecliptic and extending out somewhat beyond the orbit of the earth. Such meteors are more numerous precisely opposite to the sun and they cause the corralative and complementary phenomena of the reflection both thus giving rise to the laborate celestial Phenomena. connected by the Vedic Deities, the Asvinau. (अश्विनौ (*aśvinau*)) (Science of Language. Vol. II.)"
+
+The gathering of all the radiances that give tawny colour to the chariot of the Aśvin deities so described is described in the Ṛk quoted below.
+
+अबोध्यग्निर्ज्म उदेति सूर्यो व्युंषाश्चंद्रा मह्यावो अर्चिषा । आयुक्षातामश्विना यातने रथं प्रासाविद्देवः सविता जगत्पृथक् (*abodhyagnirjma udeti sūryo vyuṃṣāścaṃdrā mahyāvo arciṣā | āyukṣātāmaśvinā yātane rathaṃ prāsāviddevaḥ savitā jagatpṛthak*) (Ṛ. Saṃ. 1-157-1)
+
+### Printed p. 575
+In the present Ṛk prayer is made that, united with such radiance, manifesting the golden colour, seated in the chariot that attracts the world, they should come to the sacrificial house.
+
+Sadanāni—this word also has the meaning "atmosphere"; in the present context the purport is the sacrificial house.
+
+Rajāṃsi—the special meanings of this word were told earlier. In the present Ṛk it is explained as "world", and then as the people of all worlds, that is, people in the form of sacrificers. Sāyaṇa has explained the purport of this word: रजांसि लोकाः । अत्र लोकशब्दो जनवाचकः । ते यजमानरूपा जना इत्यर्थः ॥ (*rajāṃsi lokāḥ | atra lokaśabdo janavācakaḥ | te yajamānarūpā janā ityarthaḥ ‖*)
+
+Pīpayanta—formed from the root पै (*pai*) of the sense of increase, ओप्यायि वृद्धौ (*opyāyi vṛddhau*). This word is used in both senses, increase and delight.
+
+पीपाय स श्रवसा मर्त्येषु यो अग्नये ददाश विप्र उक्थैः । (*pīpāya sa śravasā martyeṣu yo agnaye dadāśa vipra ukthaiḥ |*) (Ṛ. Saṃ. 6-10-3)
+
+उत वां विक्षु मद्यास्वंधो गाव आपश्च पीपयंत देवीः ॥ (*uta vāṃ vikṣu madyāsvaṃdho gāva āpaśca pīpayaṃta devīḥ ‖*) (Ṛ. Saṃ. 1-153-4)
+
+In all these Ṛks both senses are indicated. In the present Ṛk too, the meaning is that praise and food directed to the Aśvin deities, being abundant, cause them full delight.
+
+Ghoṣaiḥ—the word ghoṣa is read among the names of speech (Ni. 1-11). Although this word ordinarily means sound, it is used in the sense of showing a distinctive power in that sound. In the Saṃhitās and Brāhmaṇas and so on, the word ghoṣa is understood as sound containing supernatural power. In Saṃhitā sentences such as वि रोदसी अतपद्भोष एषां (*vi rodasī atapadbhoṣa eṣāṃ*) (Ṛ. Saṃ. 3-31-10); अयामि घोष इंद्र (*ayāmi ghoṣa iṃdra*) (Ṛ. Saṃ. 7-23-2), and in
+
+ता ना एताः सर्वा ऋचः सर्वे वेदाः सर्वे घोषा एकैव व्याहृतिः । (*tā nā etāḥ sarvā ṛcaḥ sarve vedāḥ sarve ghoṣā ekaiva vyāhṛtiḥ |*) (Ai. Ā. 1-2-2)
+
+मयि स्तोभो, मयि स्तोमो, मयि श्लोको मयि घोषो मयि यशः । (*mayi stobho, mayi stomo, mayi śloko mayi ghoṣo mayi yaśaḥ |*) (Ai. Ā. 5-1-5)
+
+येनेदमन्नं पच्यते यदिदमद्यते तस्येष घोषो भवति । (*yenedamannaṃ pacyate yadidamadyate tasyeṣa ghoṣo bhavati |*) (Śa. Brā. 14-8-10-1)
+
+सर्वे स्वरा घोषवंतो बलवंतो वक्तव्याः । (*sarve svarā ghoṣavaṃto balavaṃto vaktavyāḥ |*) (Chā. U. 2-22-5) **NOTE**
+
+in these and other places it is used in the sense of supernatural and powerful sound. In the present Ṛk it means sound in the form of praise.
+
+### Printed p. 576
+
+##### Grammar
+
+- ककुहः — ककुप्‌शब्दः । छांदसतया पकारस्य हकारादेशः आगतः । द्वितीयाबहुवचनांतरूपम् ।
+- पिशंगरूपः — बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इत्यनेन पूर्वपदप्रकृतिस्वरो भवति ।
+- गम्याः — गम्‌ल्य गतौ इति धातुः । व्यत्ययो बहुलं इत्यनेन लिज् प्रथमपुरुषैकवचनस्य स्थाने मध्यमपुरुषैकवचनप्रत्यय आगतः । बहुलं छंदसि इत्यनेन विकरणस्य लुक् । लिजः यासुटागमः । तिजंतनिघातस्वरो भवति ।
+- पीपयंत — ओप्याया वृद्धौ इति धातुः । छांदसतया धातोः पी भावः । च्चेः चजादेशे आगते द्वित्वादि । बहुलं छंदस्यमाज् इत्यनेन अडागमो न भवति । व्यत्ययेन णिच्स्वरः अवशिष्यते ।
+- अश्विना — सुपां सुलुक् इत्यनेन विभक्तेः (औ) आकारादेशः । आमंत्रितनिघातस्वरो भवति ।
+- घोषैः — घुषिर् विशब्दने इति धातुः । घञ् प्रत्ययः । पुगंत लघूपधस्य च इत्यनेन लघूपधगुणः । इत्यादिर्नित्यम् इत्यनेन आद्युदात्तस्वरो भवति ॥ ५ ॥
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वां॑ श॒रद्वा॑न्वृष॒भो न नि॒ष्पाट् पू॒र्विरिष॑श्चरति॒ मध्व॑ इ॒ष्टन् ।  
+> एवै॑र॒न्यस्य॑ पी॒पयं॑त॒ वाजै॒र्वेषं॑तीरू॒र्ध्वा न॒द्यो॑ न॒ आगुः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । शरत्वान् । वृषभः । न । निष्पाट् । पूर्विः । इषः । चरति । मध्वः । इष्टन् ।  
+> एवैः । अन्यस्य । पीपयंत । वाजैः । वेषंतीः । ऊर्ध्वाः । नद्यः । नः । आ । आगुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवयोरन्यतमो मध्यमस्थानः शरद्वाञ्छरणवान् मेघवृक्ष
+> पर्णादीनां विशरणवान् । अथवा बहुसंवत्सरः पूर्वशनो नित्य इत्यर्थः । वृषभो
+
+##### Gist of the bhāṣya
+
+"O Aśvins, one of you, whose place is the middle region, is शरद्वान् (*śaradvān*), possessed of shattering: one who shatters clouds, tree-leaves and the like. Or else, it means one of many years, ancient, eternal." Then he begins to explain वृषभो (*vṛṣabho*).
+
 ---
 
-**Progress note:** Done through printed p. 570. pp. 565-570 (batch API)
+**Progress note:** Done through printed p. 576. pp. 571-576 (batch API), quotation copied exactly from kn.md
