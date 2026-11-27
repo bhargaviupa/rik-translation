@@ -8,3 +8,5 @@
 - 2026-11-27: Vol 22: 3 doubled Ṛk headings + empty Saṃhitā heading removed from the output file (a window put the Saṃhitā label before the Ṛk heading; VERIFY FAIL).
 - 2026-11-27: Vol 22 p. 187-188 (Sūkta 33?, Ṛk 2): the Saṃhitā label and first line stand at the foot of p. 187 in the Kannada file; the English Ṛk 2 heading, Saṃhitā heading and first line moved from the top of p. 188 to the foot of p. 187 (label check).
 - 2026-11-27: Vol 22 w0403 (p. 406): the quotation 'mitraḥ sūryaḥ' typed in Latin letters replaced by the copy ⟦ಮಿತ್ರಃ ಸೂರ್ಯಃ ।⟧ from kn.md.
+- 2026-11-27: Vol 22 p. 514/515: the second line of the Pada of Ṛk 3 (Sūkta 74?) moved below the page heading of p. 515, where the Kannada file has it (label check).
+- 2026-11-27: tools/rv/kn_headings.py: 61 Sūkta and 471 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed). Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
