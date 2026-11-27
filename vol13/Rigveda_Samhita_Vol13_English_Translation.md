@@ -10667,15 +10667,6 @@ In these and other Ṛks it is used in the sense स्तोतारः (*stot
 
 ## Sūkta 178 (Maṇḍala 1)
 
-#### Ṛk 1
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-> यद्ध॒ स्या त॑ इंद्र श्रु॒ष्टिरस्ति॒ यया॑ ब॒भूथ॑ जरि॒तृभ्य॑ ऊ॒ती ।  
-> मा नः॒ कामं॑ म॒हयं॑त॒मा ध॒ग्विश्वा॑ ते अश्यां॒ पर्याप॑ आ॒योः ॥
-
-is not here; the introduction follows.
-
 युद्ध स्थेति पंचर्चं चतुर्दशं सूक्तमागस्त्यमैंद्रं त्रैष्टुभं । युद्ध स्थेत्यनुक्रमणिका ॥ विशेषविनियोगः पूर्ववत् ॥ (*yuddha stheti paṃcarcaṃ caturdaśaṃ sūktamāgastyamaiṃdraṃ traiṣṭubhaṃ | yuddha sthetyanukramaṇikā ‖ viśeṣaviniyogaḥ pūrvavat ‖*)
 
 *Anuvāda:* This hymn beginning युद्ध स्या (*yuddha syā*) is the fourteenth hymn in the twenty-third anuvāka. It has five Ṛks. Its seer is Agastya; its deity is Indra; its metre is Triṣṭup. The Anukramaṇikā begins with युद्ध स्या (*yuddha syā*). "As before" means: as stated for the preceding hymn, this hymn has a special application for the increase of the stoma and for the recitation of the śastra mantras.
@@ -10686,6 +10677,9 @@ Maṇḍala 1; Anuvāka 23; Sūkta 178. Aṣṭaka 2; Adhyāya 4; Varga 21. Numb
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्ध॒ स्या त॑ इंद्र श्रु॒ष्टिरस्ति॒ यया॑ ब॒भूथ॑ जरि॒तृभ्य॑ ऊ॒ती ।  
+> मा नः॒ कामं॑ म॒हयं॑त॒मा ध॒ग्विश्वा॑ ते अश्यां॒ पर्याप॑ आ॒योः ॥
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
