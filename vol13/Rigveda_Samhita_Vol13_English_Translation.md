@@ -1,5 +1,91 @@
 # Rigveda Samhita — Volume 13 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+### Printed p. i
+
+In this thirteenth part of the Ṛgveda Saṃhitā there are eighteen sūktas in all, from the 166th to the 183rd sūkta of the first Maṇḍala, seen by the sage Agastya. The deities of these sūktas are the Maruts; Indra accompanied by the Maruts; Indra, the supremely glorious protector of the world; and the Aśvin deities. Among the descriptions of the greatness of these deities and the praises offered to them, the dialogue of Agastya and Lopāmudrā is a rare episode. But even in that there is a distinctive feature. Although their dialogue describes sentiments dominated by desire (Sū. 179), that desire is not opposed to dharma, and it portrays the extraordinary personality of Agastya and Lopāmudrā.
+
+As the Bṛhaddevatā verses explain, beginning स तानभिजगामाशु निरूप्यैंद्रं हविस्तदा (*sa tānabhijagāmāśu nirūpyaiṃdraṃ havistadā*), the order which Agastya, the seer of the sūktas in this chapter, followed in his composition is shown further on (p. 193-195).
+
+At the very beginning of the chapter, the description of the nature of the Marut deities in the 166th and 167th sūktas shows the seer's skill in composition and his wonderful expression of feeling. Although the terrible nature and the coming of the Maruts are described by sentences such as भयंते विश्वा भुवनानि (*bhayaṃte viśvā bhuvanāni*) (1-166-4) and विश्वो वो अज्मन्भयते (*viśvo vo ajmanbhayate*) (1-166-5), the scene of cosmic beauty that appears at the time of their coming is also described alongside. For example—
+
+विश्वो वो अज्मन्भयते वनस्पती रथीयंतीव प्र जिहीत ओषधिः । (*viśvo vo ajmanbhayate vanaspatī rathīyaṃtīva pra jihīta oṣadhiḥ |*)
+
+Here, on one side is the fear produced by the rush of the Maruts' coming, and on the other the beauty of the movements of the charming creepers at the very time of that coming. Thus the expression of two sentiments shows the skill of the seer's poetic creation. In verses such as गुहा चरंती मनुषो न योषा सभावती विदध्येव सं वाक् (*guhā caraṃtī manuṣo na yoṣā sabhāvatī vidadhyeva saṃ vāk*) and आ स्थापयंत युवतिं युवानः शुभे निमिश्लां विदथेषु पज्रां (*ā sthāpayaṃta yuvatiṃ yuvānaḥ śubhe nimiślāṃ vidatheṣu pajrāṃ*) (1-167-3 and 6), highly attractive natural beauty is described. The description that the union of lightning and the Maruts is like a beautifully adorned woman joining her suitable husband and rejoicing shows the nature of the seer's experience of natural beauty. Along with this poetic exposition of the principle of beauty, a spiritual inquiry into truth is also present. क्व स्विदस्य रजसो महस्परं क्वावरं मरुतो यस्मिनायय (*kva svidasya rajaso mahasparaṃ kvāvaraṃ maruto yasmināyaya*) (1-168-6): "O Maruts, from which world do you come? What are the beginning and the end of that world? For the sake of which water do you come? What are the beginning and the end of that watery world?" In such questions the search for the secret of truth is seen.
+
+### Printed p. ii
+
+In the present chapter some problematic episodes cannot be understood by a gross view. For the exposition of the divine principle described in these episodes to be understood, one must examine with a very subtle eye and on the basis of passages of other Śrutis. For example, although many sentences such as मरुद्भिः सह मरुत्तांस्तत्र सोऽभवत् (*marudbhiḥ saha maruttāṃstatra so 'bhavat*) (Bṛ. De. 4-56) and क्षत्रं वा इंद्रो विशो मरुतः (*kṣatraṃ vā iṃdro viśo marutaḥ*) (Śa. Brā. 4-3-3-6) describe the eternal companionship of Indra and the Maruts and the relation of king and subjects between them, the insistence of Indra described in the present chapter (the 170th sūkta) indicates an unnatural situation. The explanation of this point is given in the Special Topics of that sūkta.
+
+In येन मानासश्चितयंत उस्रा व्युष्टिषु शवसा शश्वतीनां (*yena mānāsaścitayaṃta usrā vyuṣṭiṣu śavasā śaśvatīnāṃ*) (1-171-5) it is described that it is only by Indra's favour that Uṣas becomes able every day to produce vitality in living beings. This point seems to contradict what is said elsewhere. Namely,
+
+दिवश्चिद्वा दुहितरं महान्महीयमानां । उषासमिंद्र संपिणक् ॥ (*divaścidvā duhitaraṃ mahānmahīyamānāṃ | uṣāsamiṃdra saṃpiṇak ‖*)
+(Ṛ. Saṃ. 4-30-9)
+
+अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वृषा ॥ (*apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī | ni yatsīṃ śiśnathadvṛṣā ‖*)
+(Ṛ. Saṃ. 4-3-10)
+
+In such contexts it is clear that Indra injured Uṣas, the daughter of heaven, and that Uṣas, frightened by that Indra, descended from the cart and vanished. In such contexts it is not easy to state the purport. Sometimes identity between Āditya and Indra is stated. In such contexts one may understand Uṣas as the wife of Indra in the form of the Sun. Namely—
+
+In many verses such as युंजंति ब्रध्नमरुषं चरंतं (*yuṃjaṃti bradhnamaruṣaṃ caraṃtaṃ*) (1-6-1) and केतुं कृण्वन्नकेतवे (*ketuṃ kṛṇvannaketave*) (1-6-3), identity between Indra and Āditya is stated. Sāyaṇa has explained ब्रध्नमादित्यरूपेणावस्थितमिंद्रं (*bradhnamādityarūpeṇāvasthitamiṃdraṃ*). And in verses such as वाजिनीवती सूर्यस्य योषा (*vājinīvatī sūryasya yoṣā*) the relation of husband and wife between Indra, who is of the nature of Āditya, and Uṣas is described. When such a husband-wife relation exists, the question arises what the purport is when, in sentences such as उषासमिंद्र संपिणक् (*uṣāsamiṃdra saṃpiṇak*), it is said that Indra injured Uṣas. In the present chapter it is said that it is only by Indra's favour that Uṣas becomes the giver of vitality to all living beings. When there are such problematic episodes, wherever such episodes occur one must examine closely and state the exact meaning suited to each context.
+
+In the same way, मुषाय सूर्यं कवे चक्रमीशान ओजसा (*muṣāya sūryaṃ kave cakramīśāna ojasā*) (1-175-4): "O Indra, you, the capable one, by the excess of your power carried off the wheel of the Sun's chariot"—
+
+### Printed p. iii
+
+so runs the description. In the same way this point is stated in places such as मुषाय इंद्र सूर्यं (चक्रं) (*muṣāya iṃdra sūryaṃ (cakraṃ)*) (4-30-4). How is this possible? How many wheels does the Sun's chariot have? How could Indra have carried it off? Such questions arise. Moreover, in places such as इंद्रः सूर्यमरोचयत् (*iṃdraḥ sūryamarocayat*) (8-3-6) and त्वं सूर्यमरोचयः (*tvaṃ sūryamarocayaḥ*) (8-98-2) it is described that Indra is the cause of the Sun's shining forth; in places such as सूर्यं विवेद तमसि क्षियंतं (*sūryaṃ viveda tamasi kṣiyaṃtaṃ*) (3-39-5) that Indra, for the good of men, made the Sun, who lay asleep in pitch darkness, rise up and shine; and in verses such as स हि जिष्णुः पथिकृत्सूर्याय (*sa hi jiṣṇuḥ pathikṛtsūryāya*) (10-111-3) that Indra laid out a path for the Sun's movement. When all this is so, what is the meaning of saying that Indra carried off the Sun's wheel? If it is asked whether these points are not mutually contradictory, the answer must be given as follows.
+
+By descriptions such as सप्त युंजंति रथमेकचक्रं (*sapta yuṃjaṃti rathamekacakraṃ*) (1-164-2) it is well known that the Sun's chariot has a single wheel. If Indra carried off this very wheel, it would amount to stopping the Sun's course entirely and obstructing the business of the world. That cannot possibly be Indra's purpose. Therefore, if it is asked what meaning must be given to चक्रं अहरत् (*cakraṃ aharat*), one must also note that in all places such as 1-175-4 and 4-30-4 the expressions सूर्यं (*sūryaṃ*) and चक्रं (*cakraṃ*) both occur. To understand it here as "the Sun's wheel" may be a mistake. If it is understood as "the wheel that is of the nature of the Sun", and then it is asked why Indra carried off this wheel of solar nature, the answer is as follows:
+
+इंद्रः सूर्यस्य रश्मिभिर्न्यर्शसानमोषति । अग्निर्वनेव सासहिः प्र वावृधे (*iṃdraḥ sūryasya raśmibhirnyarśasānamoṣati | agnirvaneva sāsahiḥ pra vāvṛdhe*)॥
+(Ṛ. Saṃ. 8-12-9)
+
+In verses such as this it is said that Indra destroyed the Asuras with the Sun's rays. The orb of the Sun itself became Indra's weapon for destroying the Asuras who spread pitch darkness and came across the light, and for spreading light. Therefore it can be said that what is described is that he carried off the Sun, who is of the nature of a wheel. It is also well known that he protected sages such as Kutsa. As is praised in आयं चक्रमिषणत्सूर्यस्य........................त्वचो बुद्धे रजसो अस्य योन् ॥ (*āyaṃ cakramiṣaṇatsūryasya........................tvaco buddhe rajaso asya yon ‖*), Indra, taking hold of the Sun's wheel and occupying the regions in the atmosphere that are the source of water, destroyed the Asuras such as Etaśa who had come across the flow of water and the spreading of light, and made the sunlight and the flow of water spread to the world: this is how the purport should be stated.
+
+### Printed p. iv
+
+The episode in this chapter that describes the conversation of Agastya and Lopāmudrā is, from the poetic point of view, an excellent part. It sets forth the aims of man both in this world and in the next; since desire is the natural inclination of man, to suppress it would be to act against nature; yet Agastya has shown by the ideal of his own excellent life that it is possible, through human effort, to ensure that the satisfaction of that desire does not obstruct the attainment of the highest spiritual aim.
+
+Lopāmudrā is the wife of such a great soul as Agastya. In the two sentences पूर्वीरहं शरदः शश्रमाणा (*pūrvīrahaṃ śaradaḥ śaśramāṇā*) and ये चिद्दि पूर्व० ऋतसापः (*ye ciddi pūrva0 ṛtasāpaḥ*), Lopāmudrā states her own life of self-restraint and prays that restraint alone is not the full goal of life; that all the ancient sages who led lives of restraint also enjoyed the happiness of married life without impairing their life of Ṛta; and that therefore Agastya also should not act against the natural life of man in the same way. In धीरमधीरा धयति त्वसंतं (*dhīramadhīrā dhayati tvasaṃtaṃ*) the seer describes the natures of Agastya and Lopāmudrā. Being an excellent man of resolve, Agastya practised self-restraint for a long time and afterwards accepted Lopāmudrā's prayer. By the sentence उभौ वर्णावृषिरुग्रः पुपोष सत्या देवेष्वाशिषो जगाम (*ubhau varṇāvṛṣirugraḥ pupoṣa satyā deveṣvāśiṣo jagāma*) the disciple has also described the great glory of Agastya. From the ethical point of view this episode is the most excellent part of this chapter. Agastya and Lopāmudrā are a couple who serve as an ideal for men. It is shown how celibacy (brahmacarya) is possible in married life, and that it is only through the observance of this celibacy that the spiritual aim can be attained together with the satisfaction of desire.
+
+The origin of Agastya and his extraordinary spiritual power are described in the Special Topics of the 179th sūkta of Maṇḍala 1. Different persons have given different explanations of the word अगस्त्य (*agastya*) and have narrated his history according to each explanation; here we may consider only two principal views. Of these, first, since the word आग (*āga*) means a pitcher (kumbha), अगस्त्य (*agastya*) means one who stays in a pitcher. What stays in a pitcher is Soma. Therefore, some scholars hold that Agastya means Soma. The French scholar M. Bergaigne, explaining this matter, says:
+
+"The hymn 179 has a mystical meaning, Agastya being identifiable with the celestial Soma whom Lopamudra, representing a fervent prayer, succeeds after long labour in drawing down from his secret dwelling place"
+(La Religion Vedique. Vol. II. p. 394).
+
+### Printed p. v
+
+That is, the meaning of these sentences is that Agastya is the Soma residing in the pitcher, that Lopāmudrā is the physical form of faith (śraddhā), and that at the prayer of this form of faith the Soma (of Agastya's nature), which lay secretly hidden, came out and became the cause of the satisfaction of the gods. Some others hold that this is a merely imagined explanation.
+
+Second, taking the word आग (*āga*) to mean mountain: अगं स्न्यायतीत्यगस्य? (*agaṃ snyāyatītyagasya?*) (the Vindhya) — another etymology says that the name Agasya became famous because he stopped and held back the mountain. But the story of Agastya's stopping the mountain is told in the Mahābhārata and the like, and there is no etymology on this matter that is helpful for explaining the Vedic situations. Since the matter of being born from a pitcher occurs in both Vedic and Purāṇic descriptions, "born of a pitcher" is a point common to both. The meaning of epithets such as मान्य (*mānya*) and मांदार्य (*māṃdārya*) has been given in the Special Topics sections at the respective places. But some hold that the epithet मान्य (*mānya*) also is another support for the view that Agastya has a Soma-nature. They support their view by citing sentences of the Bṛhaddevatā and others:
+
+मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते ॥ (*mānena saṃmito yasmāttasmānmānya ihocyate | yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate ‖*)
+(Bṛ. De. 5-153)
+
+This says that he has the name मान्य (*mānya*) because he was born from a pitcher by which a fixed measure is measured out. And the same matter is also stated in verses such as
+
+सत्रे ह जाताविषिता नमोभिः कुंभे रेतः सिषिचतुः समानं । ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठं ॥ (*satre ha jātāviṣitā namobhiḥ kuṃbhe retaḥ siṣicatuḥ samānaṃ | tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭhaṃ ‖*)
+(Ṛ. Saṃ. 7-33-13)
+
+and Agastya is described as one possessing a fixed measure. Therefore, in their view, the above opinion finds support. But there is no doubt that Agastya was a historical person. That, being a foremost sage, endowed with wonderful glory of austerity and with superhuman qualities, he was a most excellent guide for men, is a matter well known throughout the Purāṇas and Itihāsas.
+
+The four sūktas from 180 to 183 are also sūktas recited addressing the Aśvin deities. In these sūktas, besides describing, as before, the benefits the Aśvins did to their devotees, rare episodes showing the distinctive features of the Aśvin deities are also described.
+
+### Printed p. vi
+
+Here too the greatness of the great sage Agastya is understood. In अगस्त्यो नरां नृषु प्रशस्तः काराधुनीव चितयत्सहस्रैः (*agastyo narāṃ nṛṣu praśastaḥ kārādhunīva citayatsahasraiḥ*) it is praised that Agastya, of exceeding greatness among all who perform rites such as sacrifices, praised the Aśvin deities and became worthy of their favour. In this way, in many episodes excellent sentiments are set forth in a poetic style. These have been explained, to the best of my understanding, at the respective places.
+
+To publish such a Ṛgveda Saṃhitā, which is most ancient, most profound, most extensive and the foundation of all the śāstras, in simple Kannada with critical translation is no easy task. Nevertheless, with the weighty purpose that through such a great work all people, scholars and laymen alike, may gain growth of knowledge and become worthy of God's grace, His Highness Śrī Jayachāmarājendra Wodeyar Bahadur, G.C.B., G.C.S.I., Lord of the throne of Karnataka, a lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, is encouraging the publication of this work, which requires great expense, by his generous patronage; this must be called the good fortune of the multitude of the people of Karnataka. I pray that the Lord of all, the Veda-Puruṣa, may bestow even more abundantly on such a generous-minded sovereign, on his family, on the princess (who bears the name of the mantra Gāyatrī, regarded as the foremost among Vedic mantras), and on the whole multitude of subjects, all wealth that is the fruit of this world, such as long life, health and prosperity, and also spiritual knowledge relating to the highest good.
+
+Mysore
+Śrīmat-Vara year (श्रीमत्वरनामसंवत्सर (*śrīmatvaranāmasaṃvatsara*)), Śrāvaṇa śukla pañcamī, Tuesday
+7-8-1951.
+
+Translator:
+H. P. Venkata Rao,
+Āsthāna Mahāvidvān.
+
 ### Printed p. 1
 ## Maṇḍala 1
 
@@ -11228,6 +11314,8 @@ In Ṛks like this it is described that Indra, joined with Viṣṇu, slew the a
 ### Printed p. 468
 ## Sūkta 179 (Maṇḍala 1)
 
+Sūkta 179. Maṇḍala 1; Anuvāka 23; Sūkta 179. Aṣṭaka 2; Adhyāya 4; Varga 22. Number of Ṛks in the sūkta: 6. Seer: 1–2, Lopāmudrā; 3–4, Agastya; 5–6, a resident pupil, a brahmacārin. Metre: 1–4, 6, Triṣṭubh; 5, Bṛhatī.
+
 #### Ṛk 1
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -11826,9 +11914,8 @@ The Ṛgvidhāna praises these mantras thus: if a man, with restraint of mind, r
 Here ends the hundred and seventy-ninth sūkta.
 
 ## Sūkta 180 (Maṇḍala 1)
-[[b-intro-none]]
 
-The Sanskrit introduction (not set as a block in kn.md) says: Now in the twenty-fourth anuvāka there are twelve sūktas. Among them the first sūkta, "युवो रजांसि (*yuvo rajāṃsi*)", of ten Ṛks, is by Agastya, in the Triṣṭubh metre. By the Anukramaṇikā's technical usage (tu, hi etc.) this and the next four sūktas are addressed to the Aśvins; the Anukramaṇikā says "युवोर्दशाश्विनं (*yuvordaśāśvinaṃ*)". Five sūktas beginning with this, excluding the third, are employed in the Prātaranuvāka and the Aśvinaśastra, for the Triṣṭubh metre. In the Aśvina section (Āśvalāyana) it is aphorised: "Yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet" (Ā. 4-15).
+Sāyaṇa's introduction says: Now in the twenty-fourth anuvāka there are twelve sūktas. Among them the first sūkta, "युवो रजांसि (*yuvo rajāṃsi*)", of ten Ṛks, is by Agastya, in the Triṣṭubh metre. By the Anukramaṇikā's technical usage (tu, hi etc.) this and the next four sūktas are addressed to the Aśvins; the Anukramaṇikā says "युवोर्दशाश्विनं (*yuvordaśāśvinaṃ*)". Five sūktas beginning with this, excluding the third, are employed in the Prātaranuvāka and the Aśvinaśastra, for the Triṣṭubh metre. In the Aśvina section (Āśvalāyana) it is aphorised: "Yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet" (Ā. 4-15).
 
 Anuvāda: With this sūkta the twenty-fourth anuvāka of the first Maṇḍala begins. In this anuvāka there are twelve sūktas. Of them this sūkta "युवो रजांसि (*yuvo rajāṃsi*)" is the first. It has ten Ṛks. Agastya is the ṛṣi; the metre is Triṣṭubh. Because the Anukramaṇikā uses technical words like "tu hi", the five sūktas from this one onward have the Aśvins as deity; the Anukramaṇikā says "युवोर्दशाश्विनं (*yuvordaśāśvinaṃ*)". Of these five Aśvin sūktas, excluding the third (sūkta 182), for the remaining four, namely sūktas 180, 181, 183, 184, there is application, for Triṣṭubh Ṛks, at the time of reciting the Prātaranuvāka mantras and the Āśvinaśastra mantras; this is explained by the sūtra "Yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet" in the Āthāśvina section of the Āśvalāyana Śrauta Sūtra (Ā. 4-15).
 
