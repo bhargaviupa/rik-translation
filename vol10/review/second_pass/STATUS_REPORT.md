@@ -6,13 +6,13 @@
 - **Pages read:** 40 (300–309, 2–31)
 - **Findings:** 59 — applied 44, kept/not applied 15 (English kept: misprints and doubts settled by rule; see part 5); edits ok 55, failed 0
 - **Reader tokens (batches so far):** 337k; per page 8.4k
-- **Last commit:** (this commit)
+- **Last commit:** 1119c0fb
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
 | 1 | 300–309 | 35 | 30 | 38 / 0 | 5 | 180k | e889856a | pilot; 27 [?] seen, 22 resolved from the Kannada, 5 kept (inside our remarks) |
-| 2 | 2–31 | 24 | 14 | 17 / 0 | 10 | 157k | (this commit) | pp. 2-3 read in full; pp. 4-31 script-assisted (numbers, refs, all 19 [?]) not read as prose: re-read later; 19 [?] seen, 6 removed, 13 kept |
+| 2 | 2–31 | 24 | 14 | 17 / 0 | 10 | 157k | 1119c0fb | pp. 2-3 read in full; pp. 4-31 script-assisted (numbers, refs, all 19 [?]) not read as prose: re-read later; 19 [?] seen, 6 removed, 13 kept |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |

@@ -1,3 +1,3 @@
 batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
 1	300	309	35	30	38	0	5	180k	e889856a	2026-11-27	pilot; 27 [?] seen, 22 resolved from the Kannada, 5 kept (inside our remarks)
-2	2	31	24	14	17	0	10	157k	52469b8c	2026-11-27	pp. 2-3 read in full; pp. 4-31 script-assisted (numbers, refs, all 19 [?]) not read as prose: re-read later; 19 [?] seen, 6 removed, 13 kept
+2	2	31	24	14	17	0	10	157k	1119c0fb	2026-11-27	pp. 2-3 read in full; pp. 4-31 script-assisted (numbers, refs, all 19 [?]) not read as prose: re-read later; 19 [?] seen, 6 removed, 13 kept
