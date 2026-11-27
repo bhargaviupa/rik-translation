@@ -274,3 +274,32 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 121	Q1	R1	dināntareṣvasmā[?]yanti (q71,q72)	दिनान्तरेष्वस्मा[?]यन्ति	दिनान्तरेष्वप्यायन्ति (Deva and IAST)	Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ real reading apy āyanti	applied	
 121	S14	R1	translation of that sentence	come again to us on later days	come again even on later days	Kannada p.121 ದಿನಾಂತರೇಷ್ವಪ್ಯಾಯಂತಿ: no 'to us'	applied	
 119	Q2	R1	niṣṭakrā saścidinnaro [?] (q69,q70) corrected entry	saścidinnaro [?] bhūritokā	(mark kept)	Kannada p.119 ನಿಷ್ಪಕ್ವಕ್ರಾಸಚ್ಚಿದಿನ್ನರೋ is a non-word, so the mark stays on both lines (the earlier row of this page for q69/q70 is withdrawn; the IAST mark removed first was restored)	kept	
+122	S13	R6	viśvavārāḥ in Pratipadārtha	ವಿಶ್ವನಾರಾಃ	viśvavārāḥ (English kept)	Kannada p.122 prints ವಿಶ್ವನಾರಾಃ (non-word); row in kn_misprints	kept	
+124	S2	R1	Pā. Sū. for cavāyoge prathamā	8-1-259	8-1-59	Kannada p.124 ೮-೧-೫೯	applied	
+126	S13	R1	heading word dehi	*dehi* [as printed]	*dhehi*	Kannada p.126 ಧೇಹಿ in the heading	applied	
+126	S13	R6	prefix of uchī	ನಿ ಉಪಸರ್ಗ	vi (English kept)	Kannada p.126 prints ನಿ (misprint for ವಿ); row in kn_misprints	kept	
+127	S1	R1	Ṛ. Saṃ. reference of rai quotation	8-48-7	8-45-7	Kannada p.127 ೮-೪೫-೭	applied	
+127	S2	R1	Pā. Sū. nityavīpsayoḥ	5-1-4	8-1-4	Kannada p.127 ೮-೧-೪	applied	
+130	Q2	R1	ayannarthāni (ṛ. saṃ. 7-63-4 [?]) (q73,q74)	7-63-4 [?]	7-63-4	Kannada p.130 ಋ. ೭-೬೩-೪; mark removed unchanged (Deva and IAST)	applied	
+130	Q2	R1	remark mark (q75)	[?] in own remark		remark not edited; number settled by q73/q74	kept	
+132	S1	R1	Ṛ. Saṃ. reference of kṣatrāya tvam ṛk	1-113-3	1-113-6	Kannada p.132 ೧-೧೧೩-೬	applied	
+134	Q1	R1	abhisṛṣṭā[?]nām (q76,q77)	abhisṛṣṭā[?]nām	abhisṛṣṭānām	Kannada p.134 ಅಭಿಸೃಷ್ಟಾನಾಮ real reading	applied	
+134	Q1	R1	yac[?]syata (q79,q80)	yac[?]syata	yacchasyata	Kannada p.134 ತದಾಹುರ್ಯಚ್ಛಸ್ಯತ	applied	
+134	Q2	R1	remark marks (q78,q81)	[?] in own remark		remark not edited	kept	
+135	S14	R1	asāvīt: person	loṭ, the second person singular	third person (prathamapuruṣa) singular	Kannada p.135 ಪ್ರಥಮಪುರುಷ ಏಕವಚನದಲ್ಲಿ ತಿಪ್	applied	
+135	S14	R1	urviyā: case before iyāc	instrumental singular	(English kept)	Kannada p.135 ದ್ವಿತೀಯಾ, p.132 ತೃತೀಯಾ; row in decided_by_default	kept	
+136	S13	R1	ityai: suffix	kyap [print ktin]	ktin	Kannada p.136 ಕ್ತಿನ್ ಪ್ರತ್ಯಯ	applied	
+139	Q2	R1	marutsna[?] vo dadhīmahi (q82,q83)	marutsna[?]	(mark kept)	Kannada p.139 ಮರುತ್ತು ವೋ is a non-word; row in kn_misprints	kept	
+139	Q2	R1	remark mark (q84)	[?] in own remark		remark not edited	kept	
+140	S2	R1	Pā. Sū. for devād yañ	4-1-85	4-1-45-3	Kannada p.140 ೪-೧-೪೫-೩ (as printed)	applied	
+140	S13	R1	manuṣyā: augment	tuk	suk	Kannada p.140 ಸುಗಾಗಮ	applied	
+140	S1	R1	Pā. Sū. for ito vṛddhir luki hali	7-3-84	7-3-89	Kannada p.140 ೭-೩-೮೯	applied	
+140	S13	R3	manor jātāv… sūtra name	ñyat tuk ca	(English kept)	Kannada ಣ್ಯತ್ ಪುಕ್ ಚ and ಸುಗಾಗಮ disagree; row in decided_by_default	kept	
+142	S14	R1	Bhāvārtha end	does not obstruct the (affairs of living beings) of the quarters	does not upset the (usage 'east' and so on) of the quarters	Kannada p.142 ಪ್ರಾಗಾದಿವ್ಯವಹಾರವನ್ನು ತಪ್ಪಿಸುವುದಿಲ್ಲ	applied	
+143	S1	R1	Ṛ. Saṃ. reference of vedā māso…	1-225-8	1-25-8	Kannada p.143 ೧-೨೫-೮	applied	
+143	Q1	R1	eṣā v[?]nī (q85,q86)	eṣā v[?]nī bhavati	eṣā vyenī bhavati	Kannada p.143 ಏಷಾ ವ್ಯೇನೀ ಭವತಿ	applied	
+143	Q2	R1	remark mark (q87)	[?] in own remark		remark not edited	kept	
+148	S2	R1	Ṛ. Saṃ. reference of yuvaṃ rathena vimadāya śundhyuvam	1-117-20	10-39-7	Kannada p.148 ೧೦-೩೯-೭ (numerals taken as printed; the ṛk is the one the English had as 1-117-20)	applied	
+150	S1	R1	Ṛ. Saṃ. reference of admasadām ṛk	7-83-3	7-83-7	Kannada p.150 ೭-೮೩-೭	applied	
+150	S1	R1	Uṇādi sūtra of yu suffix	3-300	3-200	Kannada p.150 ೩-೨೦೦	applied	
+150	S3	R1	Pā. Sū. 6-4-77 vārttika	6-4-77, vārttika	6-4-77-1, vārttika	Kannada p.150 ೬-೪-೭೭-೧	applied	

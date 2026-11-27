@@ -280,3 +280,35 @@
 | 114 | `| kaineyaṃ netavyeti vā |` → `| kveyaṃ netavyeti vā |` | SECOND-PASS S7: Kannada p.113/114 ಕ್ವೇಯಂ/ಕ್ವಯಂ ನೇತವ್ಯೇತಿ (kva iyam) |
 | 115 | `| vantsthānīyāni nīlapītādīni rūpāṇi` → `| dantasthānīyāni nīlapītādīni rūpāṇi` | SECOND-PASS S7: Kannada p.115 ದನ್ತಸ್ಥಾನೀಯಾನಿ ನೀಲಪೀತಾದೀನಿ ರೂಪಾಣಿ |
 | 119 | `saścidinnaro bhūritokā` → `saścidinnaro [?] bhūritokā` | SECOND-PASS Q2: mark restored: Kannada p.119 ನಿಷ್ಪಕ್ವಕ್ರಾಸಚ್ಚಿದಿನ್ನರೋ is a non-word, Devanagari mark cannot be removed; keep both |
+
+### 2026-11-27 second pass, batch e122-151.tsv
+| page | old → new | why |
+|---|---|---|
+| 124 | `8-1-259` → `8-1-59` | SECOND-PASS S2: Kannada p.124 ಚವಾ ಯೋಗೇ ಪ್ರಥಮಾ (ಪಾ. ಸೂ. ೮-೧-೫೯) |
+| 126 | `***bhadraṃ bhadraṃ kratuṃ dehi*** [as printed; the bhāṣya reads *dhehi*]` → `***bhadraṃ bhadraṃ kratuṃ dhehi***` | SECOND-PASS S13: Kannada p.126 heading ಭದ್ರಂ ಭದ್ರಂ ಕ್ರತುಂ ಧೇಹಿ (dhehi, not dehi) |
+| 127 | `Ṛ. Saṃ. 8-48-7, as I read the print "೮-೪೮-೨".` → `Ṛ. Saṃ. 8-45-7, as I read the print "೮-೪೮-೨".` | SECOND-PASS S1: Kannada p.127 (ಋ. ಸಂ. ೮-೪೫-೭) |
+| 127 | `nityavīpsayoḥ* (Pā. Sū. 5-1-4)` → `nityavīpsayoḥ* (Pā. Sū. 8-1-4)` | SECOND-PASS S2: Kannada p.127 ನಿತ್ಯವೀಪ್ಸಯೋಃ (ಪಾ ಸೂ ೮-೧-೪) |
+| 130 | `(ऋ. सं. ७-६३-४ [?])` → `(ऋ. सं. ७-६३-४)` | SECOND-PASS Q2: Kannada p.130 ಋ. ೭-೬೩-೪ agrees; mark removed unchanged |
+| 130 | `(ṛ. saṃ. 7-63-4 [?])` → `(ṛ. saṃ. 7-63-4)` | SECOND-PASS Q2: Kannada p.130 ಋ. ೭-೬೩-೪ agrees; mark removed unchanged (IAST twin) |
+| 132 | `Ṛ. Saṃ. 1-113-3, numerals` → `Ṛ. Saṃ. 1-113-6, numerals` | SECOND-PASS S1: Kannada p.132 (ಋ. ಸಂ. ೧-೧೧೩-೬) |
+| 134 | `abhisṛṣṭā[?]nām` → `abhisṛṣṭānām` | SECOND-PASS Q1: Kannada p.134 ಅಭಿಸೃಷ್ಟಾನಾಮ (IAST twin) |
+| 134 | `यच्[?]स्यत` → `यच्छस्यत` | SECOND-PASS Q1: Kannada p.134 ತದಾಹುರ್ಯಚ್ಛಸ್ಯತ (yacchasyata) |
+| 134 | `yac[?]syata` → `yacchasyata` | SECOND-PASS Q1: Kannada p.134 ಯಚ್ಛಸ್ಯತ (IAST twin) |
+| 135 | `loṭ, the second person singular [as printed "ಪ್ರಥಮಪುರುಷ" — third person singular] *tip*` → `loṭ, the third person (prathamapuruṣa) singular *tip*` | SECOND-PASS S14: Kannada p.135 ಪ್ರಥಮಪುರುಷ ಏಕವಚನದಲ್ಲಿ ತಿಪ್ |
+| 136 | `the suffix *kyap* [print: "ಕ್ರಿನ್", i.e. *ktin*]` → `the suffix *ktin*` | SECOND-PASS S13: Kannada p.136 ಭಾವಾರ್ಥದಲ್ಲಿ ಕ್ತಿನ್ ಪ್ರತ್ಯಯ |
+| 140 | `*devād yajñau* [print: "ದೇವಾದ್ಯಜ್ಞೌ", Pā. Sū. 4-1-85, as read by the OCR]` → `*devād yajñau* [print: "ದೇವಾದ್ಯಜ್ಞೌ", Pā. Sū. 4-1-45-3, as read by the OCR]` | SECOND-PASS S2: Kannada p.140 ದೇವಾದ್ಯಞಞ್ (ಪಾ. ಸೂ. ೪-೧-೪೫-೩) |
+| 140 | `with it the augment *tuk*` → `with it the augment *suk*` | SECOND-PASS S13: Kannada p.140 ತತ್ಸಂನಿಯೋಗದಿಂದ ಸುಗಾಗಮ |
+| 140 | `(Pā. Sū. 7-3-84)` → `(Pā. Sū. 7-3-89)` | SECOND-PASS S1: Kannada p.140 ಉತೋ ವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ (ಪಾ. ಸೂ. ೭-೩-೮೯) |
+| 142 | `she does not obstruct the (affairs of living beings) of the quarters` → `she does not upset the (usage 'east' and so on) of the quarters` | SECOND-PASS S14: Kannada p.142 ದಿಕ್ಕುಗಳಿಗೆ(ಇರುವ ಪ್ರಾಗಾದಿವ್ಯವಹಾರವನ್ನು) ತಪ್ಪಿಸುವುದಿಲ್ಲ |
+| 143 | `Ṛ. Saṃ. 1-225-8` → `Ṛ. Saṃ. 1-25-8` | SECOND-PASS S1: Kannada p.143 (ಋ. ಸಂ. ೧-೨೫-೮) |
+| 143 | `एषा व[?]नी भवति` → `एषा व्येनी भवति` | SECOND-PASS Q1: Kannada p.143 ಏಷಾ ವ್ಯೇನೀ ಭವತಿ (vyenī) |
+| 143 | `eṣā v[?]nī bhavati` → `eṣā vyenī bhavati` | SECOND-PASS Q1: Kannada p.143 ಏಷಾ ವ್ಯೇನೀ ಭವತಿ (IAST twin) |
+| 148 | `Ṛ. Saṃ. 1-117-20, as read from the print` → `Ṛ. Saṃ. 10-39-7, as read from the print` | SECOND-PASS S2: Kannada p.148 (ಋ. ಸಂ. ೧೦-೩೯-೭), taken as printed |
+| 150 | `(Ṛ. Saṃ. 7-83-3, as read from the print.)` → `(Ṛ. Saṃ. 7-83-7, as read from the print.)` | SECOND-PASS S1: Kannada p.150 (ಋ. ಸಂ. ೭-೮೩-೭) |
+| 150 | `U. Sū. 3-300 as read` → `U. Sū. 3-200 as read` | SECOND-PASS S1: Kannada p.150 (ಉ. ಸೂ. ೩-೨೦೦) |
+| 150 | `Pā. Sū. 6-4-77, vārttika` → `Pā. Sū. 6-4-77-1, vārttika` | SECOND-PASS S3: Kannada p.150 (ಪಾ. ಸೂ. ೬-೪-೭೭-೧) |
+
+### 2026-11-27 second pass, batch e122-151_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 134 | `नामभिसृष्टा[?]नामग्निर्मुखं` → `नामभिसृष्टानामग्निर्मुखं` | SECOND-PASS Q1: Kannada p.134 ಧಾವಂತೀನಾಮಭಿಸೃಷ್ಟಾನಾಮಗ್ನಿರ್ಮುಖಂ (abhisṛṣṭānām); earlier try had the wrong sandhi context |
