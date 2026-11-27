@@ -10629,6 +10629,180 @@ O Indra, well praised (सुष्टुतः (*suṣṭutaḥ*)) by us, that 
 
 O Indra, well praised by us, come toward the praise-mantras of the sacrificer. To us, protected by you, grant food, strength and long life, that we may dwell in comfort.
 
+### Printed p. 445
+
+##### English translation (H. H. Wilson)
+Glorified by us, Indra, come to (our) presence to accept the prayers of the venerable offerer (of the oblation); so that we may ever enjoy prosperity through your protection, and thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+ब्रह्माणि (*brahmāṇi*)—The many meanings of the word ब्रह्म (*brahma*) have been given earlier. In the present Ṛk and in the Ṛk before it this word is used in the sense of mantras. The meaning is: mantras that are pervasive.
+
+कारोः (*kāroḥ*)—स्तोतुर्होतुः कर्तुर्यजमानस्य । (*stoturhotuḥ karturyajamānasya |*) It is explained as the one who praises and the one who performs the sacrifice. The Nirukta authors have read the word कारु (*kāru*) among the names of praisers (Ni. 3-19). The authors of the Bṛhaddevatā use this word in the sense of poets, the ṛṣis who are seers of hymns.
+
+अग्नेस्तु यानि सूक्तानि पंच नामानि कारवः । षड्विंशतिस्तथेंद्रस्य प्राहुः सूर्यस्य सप्त च ॥ (*agnestu yāni sūktāni paṃca nāmāni kāravaḥ | ṣaḍviṃśatistatheṃdrasya prāhuḥ sūryasya sapta ca ‖*)
+(Bṛ. De. 2-22)
+
+पृथक्त्वेन समासैस्तु यज्ञे यच्छस्यते नृभिः । स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः ॥ (*pṛthaktvena samāsaistu yajñe yacchasyate nṛbhiḥ | stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*)
+(Bṛ. De. 2-28)
+
+In these statements कारवः (*kāravaḥ*) is used as a word synonymous with poets: the कारु (*kāru*)s praise. In the Ṛksaṃhitā also:
+
+प्रदक्षिणिदभि गृणंति कारवो वयो वदंत ऋतुथा शकुंतयः । उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति । (*pradakṣiṇidabhi gṛṇaṃti kāravo vayo vadaṃta ṛtuthā śakuṃtayaḥ | ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati |*)
+(Ṛ. Saṃ. 2-43-1)
+
+वि चेदुच्छंत्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरंते । ऊर्ध्वं भानुं सविता देवो आश्रेद्पृहदग्नयः समिधा जरंते ॥ (*vi ceducchaṃtyaśvinā uṣāsaḥ pra vāṃ brahmāṇi kāravo bharaṃte | ūrdhvaṃ bhānuṃ savitā devo āśredpṛhadagnayaḥ samidhā jaraṃte ‖*)
+(Ṛ. Saṃ. 7-22-4)
+
+In these and other Ṛks it is used in the sense स्तोतारः (*stotāraḥ*) (praisers). In the present Ṛk also the meaning is: of the sacrificer, who is the praiser.
+
+### Printed p. 446
+
+##### Grammar
+
+- सुष्टुतः—ष्टुञ् स्तुतौ धातुः । कर्मणि क्त प्रत्ययः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (सु) उदात्तस्वरो भवति ।
+- कारोः—डुकृञ् करणे धातुः । कृवापा इति उण् प्रत्ययः । तन्निमित्तं वृद्धिः । रपरत्वं भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । षष्ठ्येकवचनांतरूपम् ।
+- वस्तोः—वस निवासे धातुः । तुमर्थे ईश्वरे तोसुन् कसुन् (पा.सू. ३-४-१६) इति तोसुन् प्रत्ययः । प्रत्ययस्य नित्त्वात् इत्यादिर्नित्यम् (पा सू. ६-१-१९३) इति आद्युदात्तस्वरो भवति ।
+- गृणंतः—गॄ शब्दे धातुः । लटः शत्रादेशः । प्वादीनां ह्रस्वः (पा. सू. ७-३-८०) इति धातोर्ह्रस्वः । श्नाभ्यस्तयोरातः (पा. सू. ६-४-११२) इति विकरणस्य आकारस्य लोपः । ऋकारस्य परत्वात् णत्वम् । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+
+## Sūkta 178 (Maṇḍala 1)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्ध॒ स्या त॑ इंद्र श्रु॒ष्टिरस्ति॒ यया॑ ब॒भूथ॑ जरि॒तृभ्य॑ ऊ॒ती ।  
+> मा नः॒ कामं॑ म॒हयं॑त॒मा ध॒ग्विश्वा॑ ते अश्यां॒ पर्याप॑ आ॒योः ॥
+
+is not here; the introduction follows.
+
+युद्ध स्थेति पंचर्चं चतुर्दशं सूक्तमागस्त्यमैंद्रं त्रैष्टुभं । युद्ध स्थेत्यनुक्रमणिका ॥ विशेषविनियोगः पूर्ववत् ॥ (*yuddha stheti paṃcarcaṃ caturdaśaṃ sūktamāgastyamaiṃdraṃ traiṣṭubhaṃ | yuddha sthetyanukramaṇikā ‖ viśeṣaviniyogaḥ pūrvavat ‖*)
+
+*Anuvāda:* This hymn beginning युद्ध स्या (*yuddha syā*) is the fourteenth hymn in the twenty-third anuvāka. It has five Ṛks. Its seer is Agastya; its deity is Indra; its metre is Triṣṭup. The Anukramaṇikā begins with युद्ध स्या (*yuddha syā*). "As before" means: as stated for the preceding hymn, this hymn has a special application for the increase of the stoma and for the recitation of the śastra mantras.
+
+Maṇḍala 1; Anuvāka 23; Sūkta 178. Aṣṭaka 2; Adhyāya 4; Varga 21. Number of Ṛks in the hymn: 5. Ṛṣi: Āgastya. Deity: Indra. Metre: Triṣṭup.
+
+### Printed p. 447
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ह ।॒ स्या । त॑े । इंद्र । श्रु॒ष्टिः । अस्ति॒ । यया॑ । ब॒भूथ॑ । जरि॒तृभ्यः॑ । ऊ॒ती ।  
+> मा । नः॒ । कामं॑ । म॒हयं॑तं॒ । आ । ध॒क् । विश्वा॑ । ते । अश्यां॒ । परि । आपः॑ । आ॒योः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्या स्यासौ प्रसिद्धा श्रुष्टिः सर्वत्र श्रूयमाणा समृद्धिस्ते तवास्ति
+> यया जरितृभ्यः स्तोतृभ्य ऊत्यूत्यै रक्षणाय बभूथ समर्थो भवसि नोS
+> स्माकं महयंतमस्मान्महतः कुर्वाणं काममभीष्टं मा धक् । मा धाक्षीः । ते
+> तव संबंधीनि विश्वा सर्वाणि भोगजातान्याप आप्तव्यानि । यद्वा । विश्वा सर्वा
+> आप आप्ताः श्रुतय आयोर्मनुष्यस्योचिताः । पर्यश्यां । परितो व्याप्नुयां ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that well-known श्रुष्टिः (*śruṣṭiḥ*), the prosperity heard of everywhere, is yours; by it you become capable of protecting your praisers. "Do not burn (मा धक् (*mā dhak*), i.e. मा धाक्षीः (*mā dhākṣīḥ*)) our desire, which makes us great." "All that is yours, all enjoyments to be obtained (आप्तव्यानि (*āptavyāni*))". Or else: all the आपः (*āpaḥ*) are the obtained श्रुतय (*śrutaya*) (renowned things?) that are fit for man (आयोः (*āyoḥ*)). पर्यश्यां (*paryaśyāṃ*): may I pervade on all sides. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- यत् ह (*yat ha*)—for which reason
+- स्या (*syā*)—this well-known
+- श्रुष्टिः (*śruṣṭiḥ*)—prosperity heard of everywhere
+- ते (*te*)—to you
+- अस्ति (*asti*)—is (and)
+- यया (*yayā*)—by which prosperity
+- जरितृभ्यः (*jaritṛbhyaḥ*)—of the praisers
+- ऊती (*ūtī*)—for protection
+- बभूथ (*babhūtha*)—you are capable (therefore)
+- नः (*naḥ*)—to us
+- महयंतं (*mahayaṃtaṃ*)—that makes greatness
+- कामं (*kāmaṃ*)—our desire
+- मा आ धक् (*mā ā dhak*)—do not frustrate
+- आयोः (*āyoḥ*)—fit for man
+- ते (*te*)—related to you
+- विश्वा अपः (*viśvā apaḥ*)—and to be obtained, all enjoyments etc.
+- परि अश्यां (*pari aśyāṃ*)—may I obtain (through your favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in you is a prosperity-making power, famed everywhere and able to protect your praisers; therefore do not frustrate the wish of us who aspire to greatness. And grant that we obtain those among your enjoyments that are fit for men.
+
+### Printed p. 448
+
+##### English translation (H. H. Wilson)
+Inasmuch, Indra, as the praise by which you are (induced to bestow) protection on your adorers; is heard (by all), therefore disappoint not the desire (that would raise us) to greatness : may I obtain, through your (favour), all things that are obtainable by man.
+
+##### विशेषविषयगळु (Special Topics)
+
+श्रुष्टि (*śruṣṭi*)—श्रुष्टिति क्षिप्रनाम आशु अष्टीति । (*śruṣṭiti kṣipranāma āśu aṣṭīti |*) The Nirukta authors state that the word श्रुष्टि (*śruṣṭi*), which means "pervading quickly", is to be counted among the names for "swift" (Ni. 6-12). To show the use of this word they cite and explain the Ṛk of the Ṛksaṃhitā
+
+ता अद्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिं । (*tā advara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhiṃ |*)
+(Ṛ. Saṃ. 7-39-4)
+
+Sāyaṇa too explains it as "swift". But in the present Ṛk alone he explains श्रुष्टिः सर्वत्र श्रूयमाणा समृद्धिः (*śruṣṭiḥ sarvatra śrūyamāṇā samṛddhiḥ*): wealth-prosperity famed in all regions. To give that meaning the root itself would have to be a different one. Looking at how the same word is explained elsewhere: in the Ṛk
+
+वनेषु जायुमर्तेषु मित्रो वृणीते श्रुष्टिं राजेवाजुर्यं । (*vaneṣu jāyumarteṣu mitro vṛṇīte śruṣṭiṃ rājevājuryaṃ |*)
+(Ṛ. Saṃ. 1-67-1)
+
+he cites the Nirukta authors' own etymology (Ni. 6-12) and says the word is used as a synonym of the sacrificer, since he performs rites swiftly. Thus different meanings become possible according to context. For example:
+
+नकिष्ट एता व्रता मिनंति नृभ्यो यदेभ्यः श्रुष्टिं चकर्थ । (*nakiṣṭa etā vratā minaṃti nṛbhyo yadebhyaḥ śruṣṭiṃ cakartha |*)
+(Ṛ. Saṃ. 1-69-4)
+
+Here (the bhāṣya says) शु आशु अश्नुते व्याप्नोतीति श्रुष्टिरज्ञफलरूपं सुखं (*śu āśu aśnute vyāpnotīti śruṣṭirajñaphalarūpaṃ sukhaṃ*): since the fruit reaches the sacrificer swiftly along with the performance of the sacrifice, the word is used as a synonym of the happiness that is its fruit. So too in the Ṛksaṃhitā:
+
+गिरा च श्रुष्टिः सभरा आसन्नो नेदीय इत्सृण्यः पक्वमेयात् । (*girā ca śruṣṭiḥ sabharā āsanno nedīya itsṛṇyaḥ pakvameyāt |*)
+(Ṛ. Saṃ. 10-101-3)
+
+it is explained as food. And:
+
+अपी वो अस्मे पितरेव पुत्रोग्रेव रुचा नृपतीव तुर्यै । इरेयव पुष्टैकिरणेव भुज्यै श्रुष्टीवानेव हवमा गमिष्टं ॥ (*apī vo asme pitareva putrogreva rucā nṛpatīva turyai | ireyava puṣṭaikiraṇeva bhujyai śruṣṭīvāneva havamā gamiṣṭaṃ ‖*)
+(Ṛ. Saṃ. 10-106-4)
+
+### Printed p. 449
+Here it is explained in two ways. First: श्रुष्टीवानिव क्षिप्रवंतौ आत्वाविव (*śruṣṭīvāniva kṣipravaṃtau ātvāviva*); second, the sense "two happy men" (सुखवंतौ पुरुषाविव (*sukhavaṃtau puruṣāviva*)). Thus the meaning of this word must be given according to context. The scholar Monier Williams in his Sanskrit-English Dictionary has added for this word the sense "obedience, willing service". This too comes to "swift": one does at once the act that accords with another's wish; the word is used when this meaning is indicated. In sum the meaning must be given according to the situation. In the present Ṛk Sāyaṇa's explanation is "prosperity of wealth that quickly wins fame".
+
+आयोः (*āyoḥ*)—The word आयु (*āyu*) is here explained as "man". For this word too the meaning must be made according to context. The word indicates either an individual or a community that has acquired the capacity to move about. The Nirukta authors also support this view. In the Nirukta, in the Ṛk
+
+मा नो मित्रो वरुणो अर्यमायुरिंद्र ऋभुक्षा मरुतः परि ख्यन् । यद्वाजॆनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि । (*mā no mitro varuṇo aryamāyuriṃdra ṛbhukṣā marutaḥ pari khyan | yadvājèno devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi |*)
+(Ṛ. Saṃ. 1-62-1) **NOTE**
+
+the word आयु (*āyu*) is explained: here आयु (*āyu*) means Vāyu. आयुश्च वायुरयनः (*āyuśca vāyurayanaḥ*): since he has movement, आयु (*āyu*) means the wind. एतिह्यसौ विश्वं (*etihyasau viśvaṃ*): because he goes through the whole world, Vāyu is known by the name आयु (*āyu*) (with loss of va), as Durgācārya explains (Ni. 9-3). Besides, the word आयु (*āyu*) is used in the senses "life-span", "man" and so on, and in many places as a proper name denoting different persons. For example:
+
+येन ज्योतींस्यायवे मनवे च विवेदिथ । मंदानो अस्य बर्हिषो वि राजसि ॥ (*yena jyotīṃsyāyave manave ca viveditha | maṃdāno asya barhiṣo vi rājasi ‖*)
+(Ṛ. Saṃ. 8-15-5)
+
+Here और्वशेयाय आयवे, मनवे च (*aurvaśeyāya āyave, manave ca*) shows Āyu and Manu as different persons; Āyu is used as a proper name. Some English commentators (Vedic Subjects and Proper Names by Macdonell & Keith, Vol. I)
+
+त्वमस्मै कुत्समतिथिग्नमायुं महे राज्ञे यूने आरंधनायः । (*tvamasmai kutsamatithignamāyuṃ mahe rājñe yūne āraṃdhanāyaḥ |*)
+(Ṛ. Saṃ. 1-53-10 **NOTE**)
+
+### Printed p. 450
+यॆ आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे । (*yè āyuṃ kutsamatithigvamardayo vāvṛdhāno divedive |*)
+(Ṛ. Saṃ. 8-53-2)
+
+citing these two Ṛks, conjecture that the person Āyu here must be an adversary of Indra. Since आरंधनायः (*āraṃdhanāyaḥ*) and आर्दयः (*ārdayaḥ*) mean "harmed, subdued", they say he is understood to be Indra's enemy. But in this context Sāyaṇa's bhāṣya explains आर्दयः (*ārdayaḥ*) as आयुं आयुनामानं ऋषिं वरप्रदानेन पीडयसि । (*āyuṃ āyunāmānaṃ ṛṣiṃ varapradānena pīḍayasi |*): you burden with the gift of boons, and so afflict, devotees who are your friends such as Āyu. But this is a far-fetched meaning; the explanation is not natural. Moreover:
+
+मा नो गुह्या रिप आयोरहन् दभन्ना न अभ्यो रीरधो दुच्छुनाभ्यः । (*mā no guhyā ripa āyorahan dabhannā na abhyo rīradho ducchunābhyaḥ |*)
+(Ṛ. Saṃ. 2-32-2)
+
+Here for आयोः (*āyoḥ*) Sāyaṇa himself says plainly शत्रुभूतस्य मनुष्यस्य (*śatrubhūtasya manuṣyasya*), "of the man who is an enemy". And:
+
+युयोप नाभिरुपरस्यायोः प्र पूर्वाभिस्तिरते राष्टि शूरः । (*yuyopa nābhiruparasyāyoḥ pra pūrvābhistirate rāṣṭi śūraḥ |*)
+(Ṛ. Saṃ. 1-104-4)
+
+Here too it is explained आयोः परेषामुपद्रवार्थमितस्ततो गच्छतः कुयवस्यासुरस्य । (*āyoḥ pareṣāmupadravārthamitastato gacchataḥ kuyavasyāsurasya |*), meaning an asura going everywhere to harm others. This establishes that he is a person who is an enemy. Further:
+
+कुत्सस्यायोरतिथिग्वस्य वीरान्नावृणग्भरता सोममस्मै । (*kutsasyāyoratithigvasya vīrānnāvṛṇagbharatā somamasmai |*)
+(Ṛ. Saṃ. 2-14-7)
+
+In such places it is certain that Kutsa, Atithigva and Āyu are all friends dear to Indra. Thus there are many persons named Āyu: the Āyu who was an enemy of the gods and sacrificers is one, the Āyu who is Indra's friend another, the Āyu who is Agni's friend another; and that there was a whole lineage famed by the name Āyu is known from many Śruti passages. For example:
+
+उर्वश्यसीत्यथोत्तरारण्याज्यविलापनीमुपस्पृशत्र्यायुरसीति शामभिनिदधाति पुरूरवा आसीत्युर्वशी वाप्सराः पुरूरवाः पतिरथ यत्तस्मान्मिथुनादजायत तदायुरेवमेवैष एतस्मिन्मिथुनाद्यज्ञं जनयति । (*urvaśyasītyathottarāraṇyājyavilāpanīmupaspṛśatryāyurasīti śāmabhinidadhāti purūravā āsītyurvaśī vāpsarāḥ purūravāḥ patiratha yattasmānmithunādajāyata tadāyurevamevaiṣa etasminmithunādyajñaṃ janayati |*)
+(Śa. Brā. 3-4-1-20)
+
 ---
 
-**Progress note:** Done through printed p. 444. pp. 439-444 (batch API)
+**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
