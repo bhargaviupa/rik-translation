@@ -11345,6 +11345,233 @@ Like sons exceedingly borne on the lap of the mother who bore them, let the gods
 ##### English translation
 Let the gods sit down on the summit of the sacred grass, like the children nursed on the (lap of the) mother : let the full ladle, Agni, pour
 
+### Printed p. 253
+(the oblation) on the sacrificial flame: give us not up to our adversaries in battle.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते सी॑षपंत॒ जोष॒मा यज॑त्रा ऋ॒तस्य॒ धाराः॑ सु॒दुघा॒ दुहा॑नाः ।  
+> ज्येष्ठं॑ वो अ॒द्य मह॒ आ वसू॑ना॒मा गं॑तन॒ सम॑नसो॒ यति॒ ष्ठ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । सीषपंत । जोषं । आ । यजत्राः । ऋतस्य । धाराः । सुदुघाः । दुहानाः ।  
+> ज्येष्ठं । वः । अद्य । महः । आ । वसूनां । आ । गंतन । समनसः । यति । स्थ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजत्रा यजनीयास्ते इंद्रादयो देवा ऋतस्योदकस्य सुदुघाः सुखेन
+> दोग्धुं शक्या धारा दुहाना वर्षंतो जोषं पर्याप्तं यथा भवति तथा आ सीषपंत । सपतिः परिचरणार्थः । स्तुतिभिरा समंतात्पर्यचीचरन् । अस्मान्परिचरणं कुर्वंतु । स्वीकुर्वंत्विति यावत् । अद्यास्मिन्दिने हे देवाः वसूनां धनानां मध्ये
+> ज्येष्ठं श्रेष्ठं वो युष्मदीयं महो मंहनीयं धनमा गच्छतु । यूयमपि
+> समनसस्तुल्यमतयः संत आ गंतन । आगच्छत । हे देवाः यूयं यति स्थ आगंतनेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Those adorable gods, Indra and the rest, milking the easily milked streams of water, that is, raining, are to serve us abundantly, to full satisfaction. The root सपतिः (*sapatiḥ*) here has the sense of serving; they are to serve with praises on every side, that is, to accept us. Sāyaṇa addresses the gods: today, among riches, the best and most honourable of your wealth is to come to us. And the gods themselves, being of like mind, are to come. The words यति स्थ (*yati stha*) are connected with आगंतन (*āgaṃtana*): "you who are so many, come."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—the adorable
+- ते (*te*)—those gods, Indra and the others
+- ऋतस्य (*ṛtasya*)—of water
+- सुदुघाः (*sudughāḥ*)—easy to milk
+- धाराः (*dhārāḥ*)—streams of rain
+- दुहानाः (*duhānāḥ*)—pouring out
+- जोषं (*joṣaṃ*)—so as to attain satisfaction
+- आ सीषपंत (*ā sīṣapaṃta*)—let them be served by us (or: let them serve us so as to give us satisfaction)
+- अद्य (*adya*)—today, on this day of the sacrifice
+- वसूनां (*vasūnāṃ*)—among riches
+- ज्येष्ठं (*jyeṣṭhaṃ*)—the excellent
+- वः (*vaḥ*)—your
+- महः (*mahaḥ*)—the honourable wealth
+- आ गंतन (*ā gaṃtana*)—let it come and join us
+- समनसः (*samanasaḥ*)—of one mind
+- आ गंतन (*ā gaṃtana*)—come to us and join us
+- यति स्थ (*yati stha*)—gathered together
+
+##### भावार्थ (Bhāvārtha)
+
+May the gods Indra and the others, who are able to milk the water, who shed streams of rain, and who are adorable, serve us so as to bring us satisfaction. O gods, today, on this day of the sacrifice, may the most excellent and honourable of your riches come and join us. And you also, of one mind, come together to us.
+
+### Printed p. 254
+
+##### English translation
+May the adorable deities, who are the bestowers of water, the shedders of showers, be fully propitiated (by our praises): may the most precious and commendable of your treasures (be ours) to-day: and do you with one accord come hither.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नो॑ अग्ने वि॒क्ष्व द॑शस्य॒ त्वया॑ व॒यं स॑हसाव॒न्नास्क्राः॑  
+> रा॒या यु॒जा स॑ध॒मादो॒ अरि॑ष्टा यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । अग्ने । विक्षु । आ । दशस्य । त्वया । वयं । सहसावन् । आस्क्राः ।  
+> राया । युजा । सधमादः । अरिष्टाः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने एव्येवं स्तुतस्त्वं विक्षु प्रजासु मध्ये नोऽस्मभ्यमा दशस्य । धनमभिप्रयच्छ । हे सहसावन्बलवन्नग्ने त्वयास्क्रा अस्कन्ना वयं युजा नित्ययुक्तेन राया धनेन सधमादः सह माद्यंतोऽरिष्टा अहिंसिता भवेम । अस्मिन्सूक्ते प्रतिपादिताः सर्वे देवाः यूयं नोऽस्मान्कल्याणैः सर्वदा पालयतॆ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, thus praised, give us wealth among the peoples. O mighty Agni, may we, not abandoned by you, rejoicing together with wealth that is constantly joined to us, be unharmed. All the gods celebrated in this sūkta: you protect us always with blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एव (*eva*)—thus praised, you
+- विक्षु (*vikṣu*)—among the people
+- नः (*naḥ*)—to us
+- आ दशस्य (*ā daśasya*)—give wealth
+- सहसावन् (*sahasāvan*)—O mighty Agni
+- त्वया (*tvayā*)—by you
+- आस्क्राः (*āskrāḥ*)—not abandoned
+- वयं (*vayaṃ*)—we
+- युजा (*yujā*)—that is permanently joined
+- राया (*rāyā*)—with wealth
+- सधमादः (*sadhamādaḥ*)—rejoicing together
+- अरिष्टाः (*ariṣṭāḥ*)—unharmed; may we be so
+- यूयं (*yūyaṃ*)—you (O gods)
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पातॆ (*pātè*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, thus praised, give us wealth among the people. O mighty Agni, may we, not abandoned by you, with the help of wealth ever joined with us, be rejoicing together and unharmed. O gods, protect us always with blessings.
+
+### Printed p. 255
+
+##### English translation
+Be glorified, Agni: grant us (wealth) among the people: may we, vigorous Agni, ever be undeserted by you, but always be rejoicing and unmolested in the possession of riches: and do you, (gods), ever cherish us with blessings.
+
+## Sūkta 44 (Maṇḍala 7)
+Sāyaṇa's introduction: the sūkta beginning दधिक्रां वः (*dadhikrāṃ vaḥ*) has five Ṛks, is the eleventh sūkta; its seer is Vasiṣṭha, its deity is the one called Dadhikrā. The first verse is in Jagatī metre and has the deities stated in its own indications (Dadhikrā and the others); the remaining four are in Triṣṭubh. The Anukramaṇī says: दधिक्रां दाधिक्रं जगत्याद्या लिंगोक्तदेवतेति (*dadhikrāṃ dādhikraṃ jagatyādyā liṃgoktadevateti*). The viniyoga has been stated already.
+
+**Anuvāda:** The sūkta दधिक्रां वः (*dadhikrāṃ vaḥ*) is the eleventh sūkta in the third anuvāka and has five Ṛks. Vasiṣṭha is its seer; Dadhikrāvan is the deity. The first Ṛk is in Jagatī metre and has the deities indicated by its own terms, Dadhikrā and others. The remaining four Ṛks are in Triṣṭubh metre. The Anukramaṇī says: Dadhikrā … The viniyoga was stated earlier.
+
+Sūkta 44; Maṇḍala 7; Anuvāka 3; Aṣṭaka 5; Adhyāya 4; Varga 11. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: 1. deities stated by indication; 2–5. Dadhikrā. Metre: 1. Jagatī; 2–5. Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्रां वः॑ प्रथ॒मम॒श्विनो॒षस॑म॒ग्निं समि॑द्धं॒ भग॑मू॒तये॑  
+> हुवे ।  
+> इंद्रं॒ विष्णुं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पति॑मादि॒त्यान्द्यावा॑पृथि॒वी अ॒पः  ॑
+> स्वः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्रां । वः । प्रथमं । अश्विना । उषसं । अग्निं । सम्ऽइद्धं । भगं । ऊतये । हुवे ।  
+> इंद्रं । विष्णुं । पूषणं । ब्रह्मणः । पतिं । आदित्यान् । द्यावापृथिवी इति । अपः ।  
+> स्वः ॥ १ ॥
+
+### Printed p. 256
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः वो युष्माकमूतये रक्षणाय प्रथमं दधिक्रामश्वाभिमानिनीं देवतां हुवे । आह्वयामि । ततोऽश्विनावश्विदेवौ उषसमुषोदेवतां च समिद्धं सम्यग्दीप्तमग्निं च भगमेतदाख्यं देवं चाह्वयामि । इंद्रं विष्णुं पूषणं च ब्रह्मणस्पतिमादित्यान् द्यावापृथिवी आप उदकदेवताः स्वः सूर्यमित्येतान्देवानाह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+O praisers, for your protection I invoke first Dadhikrā, the deity presiding over the horse. Then I invoke the two Aśvins, the Dawn, the well-kindled Agni, and the god named Bhaga; Indra, Viṣṇu, Pūṣan, Brahmaṇaspati, the Ādityas, heaven and earth, the Waters (the deities of water), and Svar, the sun: I invoke these gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers) वः (*vaḥ*)—your
+- ऊतये (*ūtaye*)—for protection
+- प्रथमं (*prathamaṃ*)—first
+- दधिक्रां (*dadhikrāṃ*)—the deity presiding over the horse
+- हुवे (*huve*)—I call
+- (then) अश्विना (*aśvinā*)—the Aśvin deities
+- उषसं (*uṣasaṃ*)—the goddess Dawn
+- समिद्धं (*samiddhaṃ*)—the blazing
+- अग्निं (*agniṃ*)—Agni
+- भगं (*bhagaṃ*)—the god Bhaga; I call
+- इंद्रं (*iṃdraṃ*)—Indra
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- ब्रह्मणस्पतिं (*brahmaṇaspatiṃ*)—Brahmaṇaspati
+- आदित्यान् (*ādityān*)—the Ādityas
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- आपः (*āpaḥ*)—the deities of the waters
+- स्वः (*svaḥ*)—the sun; I call
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, for your protection I first call the deity presiding over the horse. Then I call the Aśvin deities, the goddess Dawn, the blazing Agni, Bhaga, Indra, Pūṣan, Viṣṇu, Brahmaṇaspati, the Ādityas, heaven and earth, the water deities, and the sun: all these deities.
+
+##### English translation
+For your preservation (worshippers), I invoke, first, Dadhikra, then the Ashwins, the Dawn, the kindled Agni, Bhaga, Indra, Vishnu, Pushan, Brahmanaspati, the Adityas, heaven and earth, the waters, the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present Ṛk, together with the deity called Dadhikrā, the goddess Dawn, Agni, Bhaga, Indra, Viṣṇu, Pūṣan, Brahmaṇaspati, the Ādityas, heaven and earth, and the deities presiding over water are all praised. In the following Ṛks of this sūkta only the deity Dadhikrā is praised.
+
+Besides the horses that draw the chariots of the gods, certain other horses are individually mentioned in the Ṛgveda. Of these, Dadhikrā, Tārkṣya, Paidva and Etaśa are the chief. Since the present sūkta praises the horse-deity Dadhikrā, only this deity is discussed here. Among the horse-deities Dadhikrā is the chief one. This horse is mentioned in four sūktas of the Ṛgveda: 4-38, 4-39, 4-40 and 7-44. In these sūktas the word दधिक्रा (*dadhikrā*) occurs twelve times and the word दधिक्रावन् (*dadhikrāvan*) ten times. Elsewhere in the other
+
+### Printed p. 257
+Vedas it is not especially mentioned. In the Nirukta the word दधिक्रा (*dadhikrā*) is included among the names of the horse (Ni. 1-14). This horse is very swift (Ṛ. Saṃ. 4-38-2-9; 4-39-1); it is the first horse in the line of many chariots (7-44-4); it destroys chariots and runs with the speed of the wind (4-38-3); all people praise its speed (4-38-3, 9); it rushes even at the turns of the roads (4-40-4). It also has wings and is like a bird, and its wings are compared to the wings of the hawk (4-40-2 & 3). In some places it is called the hawk itself (4-38-2 & 5). In Ṛ. Saṃ. 4-40-5 it is described with epithets that apply to Agni: the swan dwelling in the light, the Vasu in the atmosphere, the Hotṛ seated on the altar, the guest seated comfortably in the house, and so on.
+
+Dadhikra is also a hero. He destroys the Dasyu peoples and is victorious (Ṛ. Saṃ. 4-38-1, 2, 3 & 7). When he fights against thousands, the enemies fear him; he takes spoil in battle; in battles the various tribes cry out to him (4-38-5, 9, 4). They belong to all the tribes. As the sun covers the water with his radiance, so he by his might has covered the five tribes (4-38-2, 4, 10). Mitra and Varuṇa gave this victorious horse to the Pūrus (4-39-2; 4-38-1, 2). For the favour of men they gave the horse called Dadhikrā.
+
+At the kindling of the fire at the time of the dawn's rise, the horse Dadhikrāvan is praised (7-41-6). Together with the goddess Dawn he too is invoked (4-39-1; 4-40-1). The Dawns are also entreated to come towards the sacrifice as Dadhikrāvan does (7-41-6). This deity is praised along with the goddess Dawn, Agni, the Aśvins, the sun and other deities (3-20-1; 7-44-1 to 4; 10-101-1). But the first invocation is to Dadhikrāvan himself (7-44-1).
+
+From the derivation of the word nothing is learned of the nature and characteristics of this horse. क्रा (*krā*) may mean "scattering", so that he would be the one who scatters the curd-like frost seen at sunrise. Some are of the opinion that the rising disc of the sun itself may be this deity Dadhikrā. Dadhikrā has a special relation with the goddess Dawn. Since the sun too is often called a horse or a bird, and in some places is said to have the nature of a warrior, it may be said that Dadhikrā is the solar disc itself. Some hold that Dadhikrā is a special form of Agni. Others say that it is not a deity at all but an excellent horse.
+
+### Printed p. 258
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्रामु॒ नम॑सा बो॒धयं॑त उ॒दीरा॑णा य॒ज्ञमु॑पप्र॒यंतः॑  
+> इळां॑ दे॒वीं ब॒र्हिषि॑ सा॒दयं॑तो॒ऽश्विना॒ विप्रा॑ सु॒हवा॑ हुवेम ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्रां । ऊं इति । नमसा । बोधयंतः । उत्ईराणाः । यज्ञं । उपप्रयंतः ।  
+> इळां । देवीं । बर्हिषि । सादयंतः । अश्विना । विप्रा । सुहवा । हुवेम ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दधिक्रामेतन्नामकमश्वविशेषं देवं नमसा स्तोत्रेण बोधयंतः प्रज्ञापयंतः उदीराणाः प्रेरयंतो यज्ञं यागमुपप्रयंत उपक्रममाणा वयं बर्हिषीळां हवीरूपां देवीं सादयंत आस्थापयंतः सुहवा शोभनाह्वानौ विप्रा विप्रौ मेधाविनावश्विनाश्विनौ देवौ हुवेम । आह्वयाम । उ इति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+We, awakening with praise (नमसा (*namasā*), by hymn) the horse-deity of this name, Dadhikrā, urging him on, setting about the sacrifice, and seating on the sacred grass the goddess Iḷā in the form of the oblation, invoke the two Aśvins, who are wise (विप्रा (*viprā*)), intelligent and of good invocation (सुहवा (*suhavā*)). The word उ (*u*) is a mere filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दधिक्रां (*dadhikrāṃ*)—the horse-deity named Dadhikrā
+- नमसा (*namasā*)—with praises
+- बोधयंतः (*bodhayaṃtaḥ*)—awakening
+- उदीराणाः (*udīrāṇāḥ*)—urging on
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- उपप्रयंतः (*upaprayaṃtaḥ*)—beginning
+- बर्हिषि (*barhiṣi*)—on the sacred grass
+- देवीं (*devīṃ*)—the divine
+- इळां (*iḷāṃ*)—goddess Iḷā
+- सादयंतः (*sādayaṃtaḥ*)—seating
+- (वयं (*vayaṃ*)—we)
+- सुहवा (*suhavā*)—worthy of good invocation
+- विप्रा (*viprā*)—wise
+- अश्विना (*aśvinā*)—the Aśvin deities
+- हुवेम (*huvema*)—we call with entreaty
+
+##### भावार्थ (Bhāvārtha)
+
+Awakening with praises the horse-deity called Dadhikrā, urging him on, beginning the sacrifice, and seating the divine goddess Iḷā on the sacred grass, we call with entreaty the Aśvin deities, who are worthy of good invocation and wise.
+
+##### English translation
+Arousing and animating Dadhikra, proceeding diligently with the sacrifice: seating the divine Ila on the sacred grass, let us invoke the intelligent and worthily-invoked Ashwins.
+
 ---
 
-**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
+**Progress note:** Done through printed p. 258. pp. 253-258 (batch API)
