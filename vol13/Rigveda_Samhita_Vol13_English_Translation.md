@@ -13470,6 +13470,107 @@ Further, one of you, the son-like Soma of the middle region, the atmosphere, is 
 - सुभगः (*subhagaḥ*)—possessed of the auspicious wealth of rays
 - ऊहे (*ūhe*)—bears (the world)
 
+### Printed p. 565
+
+##### भावार्थ (Bhāvārtha)
+
+You are born in the middle world, the atmosphere, and in the highest world, heaven. You have faultless bodies and faultless names such as Nāsatya and Dasra. O Aśvin deities, the two of you, joined together, are praised again and again (that is, you become desirous of going to the sacrifice). One of you is of the middle world, victorious, the one who impels the sacrifice by promoting plants and the like, and has the form of the Moon. The other is the son, as it were, of the highest world, the world of heaven. He promotes the growth of the world by his rays and has the form of the Sun. In this way the two of you protect this world.
+
+##### English translation (H. H. Wilson)
+Born here (in the middle region) and here (in the upper region), you are glorified together, as faultless in your forms and (perfect in your own many excellences): one (of you), the victorious son (of the firmament), the devout (promoter) of sacred sacrifices, the other, tee auspicious son of heaven, (each) upholds (the world).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sentence जिष्णु र्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे । (*jiṣṇu rvāmanyaḥ sumakhasya sūrirdivo anyaḥ subhagaḥ putra ūhe |*) the individual nature and the function of the Aśvin deities are shown. It is not easy to explain their individual nature precisely, as being just so. Even so, on the basis of the Śruti statements, of the opinion of the scholars who follow the Vedic tradition, and also citing the view of the English critics, the sense given in the present Ṛk is examined as far as one is able.
+
+"O Aśvin deities, whose names such as Nāsatya are faultless, the two of you, joined together, are praised again and again. One of you is of the middle world, victorious, the one who impels the sacrifice by promoting plants and the like, and has the form of the Moon. The other is the son, as it were, of the highest world, heaven, who promotes the growth of the world by his rays and has the form of the Sun. In this way the two of you protect this world." Thus their individual nature is described in the present Ṛk. The Nirukta explains the present Ṛk as follows.
+
+इह चेह च जात् संस्तूयेते रापेनालिप्यमानया तन्ना नामभिश्च स्वैर्जिष्णुर्वामन्यः सुमहतो बलस्यॆरयिता मध्यमो दिवो अन्यः सुभगः पुत्र ऊह्यत आदित्यः ॥ (*iha ceha ca jāt saṃstūyete rāpenālipyamānayā tannā nāmabhiśca svairjiṣṇurvāmanyaḥ sumahato balasyèrayitā madhyamo divo anyaḥ subhagaḥ putra ūhyata ādityaḥ ‖*) (Ni. 12-3)
+
+### Printed p. 566
+Born here and there, they two are praised together with reference to a body unstained by sin and to their own names. One of you two is the Victor, the furtherer of very great strength, i.e, belongs to the middle region; the other is considered the blessed son of heaven, i.e, the Sun. The meaning of these sentences is what has been said above. Thus the purport of this Ṛk is that one of them, in the form of the Sun, and the other, in the form of the Moon, are protectors of the world. But in some places they are praised in other ways too. For that reason the Nirukta authors also, without giving a definite opinion on this matter, have stated the differing views. It is as follows.
+
+अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यीर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । अहोरात्रावित्येके । सूर्याचंद्रमसावित्येके । राजानौ पुण्यकृतावित्यैतिहासिकाः ॥ (*aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvairaśvināvityīrṇavābhaḥ | tatkāvaśvinau dyāvāpṛthivyāvityeke | ahorātrāvityeke | sūryācaṃdramasāvityeke | rājānau puṇyakṛtāvityaitihāsikāḥ ‖*) (Ni. 12-1)
+
+One view is that one of these deities pervades everywhere with water and the other with light, so they are named Aśvins. The view of Aurṇavābha is that they are named Aśvins because they are yoked with horses. In the opinion of some, they are Heaven and Earth. Others say that they are day and night. In the opinion of others, they are the Sun and the Moon. According to the ऐतिहासिकाः (*aitihāsikāḥ*) it comes to this: two meritorious kings obtained this status. Having stated the differences of view in this way, he cites the present Ṛk from the Ṛksaṃhitā (1-181-4) and another mantra not specified, and thus shows the disagreement on this matter. First,
+
+वसातिषु स्म चरथोऽसित् पेश्वा विव । कदेदमश्विना युवमभि देवा अगच्छतं ॥ (*vasātiṣu sma caratho 'sit peśvā viva | kadedamaśvinā yuvamabhi devā agacchataṃ ‖*)
+
+As said in this mantra, one of them is the son of Vasāti, that is, the son of Night, and the other is the son of Uṣas (Dawn). Having said this, he then cites the present Ṛk and explains it as set out above. The scholar Macdonell, giving his own opinion on this matter, has said:
+
+"Though they (Aśvins) hold a distinct position among the Deities of of light and their appellation is Indian, their connection with any definite Phenomena of light is so obscure that their original nature is to Puzzle to the Vedic interpreters from the earliest times." [Vedic Mythology. P. 49]
+
+### Printed p. 567
+If the opinions of Vedic and modern English scholars are gathered together, these opinions are found:
+
+- Yaska—Twilight before Dawn, half dark and half light.
+- Aurnavabha—Light rays.
+- Oldenberg—Morning or evening star.
+- Macdonell—Twilight or Morning stars.
+- Bloomfield—Morning or evening stars.
+- Hopekins—Transition from darkness to light.
+- Bergaine—Fire of heaven and of the altar.
+- ऐतिहासिकाः (*aitihāsikāḥ*)—Two pious kings.
+- E. N. Ghosh—Two stars of Asvini. (Aries)
+- Weber—Twin constellation of Gemini.
+- Shama Shastry—The Sun and the Moon.
+- Max Muller—Personification of Morning and evening.
+
+Dr. Śyāmaśāstri has stated his opinion on this matter in detail in the Mythic Society journal (Vol. XX. No. 2. P. 80-88), and he has also upheld the view that they are none other than the Sun and the Moon. If the nature of the Aśvin deities is to be determined from the statements in the Ṛksaṃhitā, the authorities cited below may be examined.
+
+त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति । यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ॥ (*tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa ‖*)
+अपागूहन्नमृतां मर्तॆभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martèbhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajahādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10-17-1 to 2)
+
+Tvaṣṭṛ intended that, at the time of his daughter's wedding, the whole world should come together and assemble. She, the mother of Yama and the wife of Vivasvān, became invisible only after the marriage. That is, they hid her, who was immortal, so that she would not come within the sight of mortals. Then they made a woman of like complexion (savarṇā) and gave her to Vivasvān. Afterwards she bore the Aśvin deities. She, who is well known by the name Saraṇyū, left the Aśvin deities behind as her sons. This is the purport of the Ṛks cited above. And,
+
+### Printed p. 568
+यमा चिदत्र यमसूरसूत जिह्वाया अग्रं पतदा ह्यस्थात् । वपूंषि जाता मिथुना सचेते तनोहना तपुषो बुद्ध एता ॥ (*yamā cidatra yamasūrasūta jihvāyā agraṃ patadā hyasthāt | vapūṃṣi jātā mithunā sacete tanohanā tapuṣo buddha etā ‖*) (Ṛ. Saṃ. 3-39-3)
+
+It says that the mother of the twins (that is, of the Aśvin deities) bore twins, and that those two, embodied, destroyed darkness. The scholar Max Muller, citing this Ṛk, has given his opinion on this matter as follows.
+
+" We might have guessed from the text itself, even without the help of the Commentator, that ' the mother of the twins ' here spoken of is Dawn : but it may be stated that the commentator, too, adopts this view. " (Science of Language. Vol. II. P. 530).
+
+That is, this scholar says that Sāyaṇa, in his commentary, explained the word यमसूः (*yamasūḥ*) as उषोऽभिमानिनी देवता (*uṣo 'bhimāninī devatā*) (अत्र उषःकाले असूत (*atra uṣaḥkāle asūta*)), and that it is agreed by all that the mother of the Aśvin deities is the deity Uṣas. Moreover, Tvaṣṭṛ's giving his daughter Saraṇyū to Vivasvān, and the Aśvin deities' being born from them, is stated in the Bṛhaddevatā as follows—
+
+अभवन्मिथुनं त्वष्टुः सरण्यूस्त्रिशिराः सह । स वै सरण्यूं प्रायच्छत् स्वयमेव विवस्वते ॥ ततः सरण्यां जज्ञाते यमयम्यॆ विवस्वतः । तौ चाप्युभौ यमावेव ज्यायांस्ताभ्यां तु वै यमः ॥ सृष्ट्वा भर्तुः परोक्षं तु सरण्यूः सदृशीं स्त्रियं । निक्षिप्य मिथुनं तस्यां अश्वा भूत्वापचक्रमे ॥ अविज्ञानाद्विस्वांस्तु तस्यामजनयन्मनुं । राजर्षिरभवत्सोऽपि विवस्वा निव तेजसा ॥ स विज्ञाय त्वपक्रांतां सरण्यूमश्वरूपिणीं । त्वाष्ट्रीं प्रति जगामाशु वाजी भूत्वा सलक्षणः ॥ सरण्यूश्च विवस्वंतं विदित्वा हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥ ततस्तयोस्तु वेगेन शुक्रं तदपतद्भुवि । उपाजिघ्रच्च सा त्वश्वा तच्चुक्रं गर्भकाम्यया ॥ आघ्रातमात्राच्चुक्रात्तु कुमार् सौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ इतिहासमिमं यास्कः सरण्युदेवते द्वृचे । विवस्वतश्च त्वष्टुश्च त्वष्टेति सह मन्यते ॥ (*abhavanmithunaṃ tvaṣṭuḥ saraṇyūstriśirāḥ saha | sa vai saraṇyūṃ prāyacchat svayameva vivasvate ‖ tataḥ saraṇyāṃ jajñāte yamayamyè vivasvataḥ | tau cāpyubhau yamāveva jyāyāṃstābhyāṃ tu vai yamaḥ ‖ sṛṣṭvā bhartuḥ parokṣaṃ tu saraṇyūḥ sadṛśīṃ striyaṃ | nikṣipya mithunaṃ tasyāṃ aśvā bhūtvāpacakrame ‖ avijñānādvisvāṃstu tasyāmajanayanmanuṃ | rājarṣirabhavatso 'pi vivasvā niva tejasā ‖ sa vijñāya tvapakrāṃtāṃ saraṇyūmaśvarūpiṇīṃ | tvāṣṭrīṃ prati jagāmāśu vājī bhūtvā salakṣaṇaḥ ‖ saraṇyūśca vivasvaṃtaṃ viditvā hayarūpiṇaṃ | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ ‖ tatastayostu vegena śukraṃ tadapatadbhuvi | upājighracca sā tvaśvā taccukraṃ garbhakāmyayā ‖ āghrātamātrāccukrāttu kumār sau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖ itihāsamimaṃ yāskaḥ saraṇyudevate dvṛce | vivasvataśca tvaṣṭuśca tvaṣṭeti saha manyate ‖*) (Bṛ. De. 6-12 to 7-7)
+
+### Printed p. 569
+Tvaṣṭṛ gave his daughter Saraṇyū to Vivasvān. She bore twins, Yama and Yamī. Saraṇyū created another female form like herself, and, without her husband's knowing, entrusted to her the care of her two children, and herself took the form of a mare. Not knowing this secret, Vivasvān took pleasure in that woman created by Saraṇyū and caused Manu to be born. Soon he understood that she was not Saraṇyū and set out in search of the true Saraṇyū. He too took the form of a stallion. Seeing that form, she too was infatuated and desired union with him. Then, through the power of his seed, two sons, Nāsatya and Dasra, were born. They are the Aśvin deities. This is the story described. The same story is told in the same manner in the Harivaṃśa also. Because that follows the Purāṇic tradition, and because in the present explanations we are examining only on the basis of Vedic statements, the account of the Harivaṃśa is not relevant here. As explained above, the order of origin of the Aśvin deities can be shown as follows.
+
+- Tvaṣṭṛ has two children: Triśirā and Saraṇyū.
+- Saraṇyū, with Vivasvān (and Savarṇā, with whom Vivasvān is also joined), has the son Manu.
+- Saraṇyū has two children, Yama and Yamī.
+- Saraṇyū has two children, Nāsatya and Dasra.
+
+And,
+1. Triśirā and Saraṇyū,
+2. Yama and Yamī,
+3. Nāsatya and Dasra also,
+are twins.
+
+That these two are two forms of radiance, as described in the present Ṛk, is described elsewhere in another form.
+
+### Printed p. 570
+अति द्रव सारमेयौ श्वानौ चतुरक्षौ शबलौ साधुना पथा । अथा पित्थस्सु विदत्रौ उपेहि यमेन ये सधमादं मदंति ॥ (*ati drava sārameyau śvānau caturakṣau śabalau sādhunā pathā | athā pitthassu vidatrau upehi yamena ye sadhamādaṃ madaṃti ‖*) (Ṛ. Saṃ. 10-14-10)
+
+Regarding the pair of dogs described here, the scholar Max Muller has given his opinion as follows:
+
+" Those two dogs represent Time, in double aspect as morning and evening. Representing Time in all forms of its double aspect—as morning and evening, day and night, bright and dark fortnights, bright and dark halves of the year—the two dogs probably identical with the two Aswins." (Seience of Languge, Vol. II.)
+
+It may be said that this pair of dogs that follow Yama are parts of Time. That is, they may be in the form of day and night, or in the form of morning or evening, or in the forms of the bright and dark fortnights, or in the forms of the northern and southern course of the sun (Uttarāyaṇa and Dakṣiṇāyana). He says these may also be called the divisions of nature that reflect the Aśvin deities. For that very reason, in
+
+धियंजिन्वा धिष्ण्या विश्वलावसू दिवो नपाता सुकृते शुचिव्रता । (*dhiyaṃjinvā dhiṣṇyā viśvalāvasū divo napātā sukṛte śucivratā |*) (Ṛ. Saṃ. 1-182-1)
+
+the Aśvin deities are addressed as दिवः नपाता (*divaḥ napātā*). What is described in the present Ṛk Sāyaṇa has explained as Soma and Sūrya. The time of their appearance will be stated in the Special Topics of the next Ṛk.
+
+अरेपसा (*arepasā*)—For this word the Nirukta authors give the meaning पापेन अलिप्यमानया तन्ना (*pāpena alipyamānayā tannā*), "with a body not smeared by fault." रेपस् (*repas*) means fault or sin; the purport is that it is not smeared by it.
+
+अवावशीतां (*avāvaśītāṃ*)—This word is formed from the root वश् (*vaś*), which has two meanings, "to desire" and "to make manifest." Sāyaṇa has given the meaning पुनः पुनः स्तूयेथे वा कामयेथां (*punaḥ punaḥ stūyethe vā kāmayethāṃ*): "you are praised again and again" or "you become desirous of the sacrifice again and again." The use of this word in both meanings can be seen in different places. For example, in
+
+अच्छा कोशं मधुश्च तमसृग्रं वारे अव्यये । अवावशंत धीतयः (*acchā kośaṃ madhuśca tamasṛgraṃ vāre avyaye | avāvaśaṃta dhītayaḥ*) (Ṛ. Saṃ. 9-66-11)
+
+it is said that the fingers desired again, and,
+
 ---
 
-**Progress note:** Done through printed p. 564. pp. 559-564 (batch API)
+**Progress note:** Done through printed p. 570. pp. 565-570 (batch API)
