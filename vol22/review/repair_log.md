@@ -11,3 +11,4 @@
 - 2026-11-27: Vol 22 p. 514/515: the second line of the Pada of Ṛk 3 (Sūkta 74?) moved below the page heading of p. 515, where the Kannada file has it (label check).
 - 2026-11-27: tools/rv/kn_headings.py: 61 Sūkta and 471 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed). Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
 - front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 4 NOTE rows added at the top of review/notes.tsv.
+- 2026-11-27: tools/rv/notes_resolve.py: 91 NOTE rows settled by the default rule (English kept): 23 to kn_misprints.tsv, 68 to decided_by_default.tsv; decision column of notes.tsv filled; NOTE marks and text unchanged.
