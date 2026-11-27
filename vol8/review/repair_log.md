@@ -410,3 +410,75 @@
 | 211 | `ṇicce mantaḥ śatsaṃnitve [?]` → `ṇicy amantatvān mitve` | SECOND-PASS Q1: Kannada p. 211 reads ಣಿಚ್ಯಮಂತತ್ವಾನ್ಮಿತ್ವೇ |
 | 211 | `इति सलोपः [?]` → `इति सलोपः` | SECOND-PASS Q2: Kannada p. 211 reads ಲಿಜಃ ಸಲೋಪ ಇತಿ ಸಲೋಪಃ |
 | 211 | `iti salopaḥ [?]` → `iti salopaḥ` | SECOND-PASS Q2: Kannada p. 211 reads ಇತಿ ಸಲೋಪಃ |
+
+### 2026-11-27 second pass, batch e212-241.tsv
+| page | old → new | why |
+|---|---|---|
+| 213 | `1-100-7 as read [?]` → `1-135-9` | SECOND-PASS Q1: Kannada p. 213 reads (ಋ. ಸಂ. ೧-೧೩೫-೯) |
+| 213 | `1-1[4?]0-3 as read [?]` → `1-150-3` | SECOND-PASS Q1: Kannada p. 213 reads (ಋ. ಸಂ. ೧-೧೫೦-೩) |
+| 213 | `1-1[1?]3-10 as read [?]` → `1-122-10` | SECOND-PASS Q1: Kannada p. 213 reads (ಋ. ಸಂ. ೧-೧೨೨-೧೦) |
+| 213 | `10-[6?]9-[1?]2 as read [?]` → `10-89-15` | SECOND-PASS Q1: Kannada p. 213 reads (ಋ. ಸಂ. ೧೦-೮೯-೧೫) |
+| 213 | `3-19[6?] as read [?]` → `3-19` | SECOND-PASS Q1: Kannada p. 213 reads (ನಿ. ೩-೧೯) |
+| 213 | `1-3[1?]-13 as read [?]` → `1-31-13` | SECOND-PASS Q1: Kannada p. 213 reads (ಋ. ಸಂ. ೧-೩೧-೧೩) |
+| 215 | `printed pp. 215–[?]` → `printed pp. 215–219` | SECOND-PASS Q1: Kannada: the grammar of Rik 10 ends on p. 219 where Rik 11 begins |
+| 219 | `printed pp. 219–[?]` → `printed pp. 219–223` | SECOND-PASS Q1: Kannada: the grammar of Rik 11 ends on p. 223 where Rik 12 begins |
+| 223 | `printed pp. 223–[?]` → `printed pp. 223–230` | SECOND-PASS Q1: Kannada: the grammar of Rik 12 ends on p. 230 where Rik 13 begins |
+| 230 | `printed pp. 230–[?]` → `printed pp. 230–235` | SECOND-PASS Q1: Kannada: the grammar of Rik 13 ends on p. 235 where Rik 14 begins |
+| 235 | `printed pp. 235–[?]` → `printed pp. 235–239` | SECOND-PASS Q1: Kannada: the grammar of Rik 14 ends on p. 239; Rik 15 begins on p. 240 |
+| 239 | `printed pp. 240–[?]` → `printed pp. 240–243` | SECOND-PASS Q1: Kannada: the grammar of Rik 15 ends on p. 243; Rik 16 begins on p. 244 |
+| 216 | `तते [?] । ` → `तते । ` | SECOND-PASS Q2: Kannada p. 216 reads the bhāṣya as the English: ಅಭಿಭವನ್ವರ್ತತೇ । ಮರುತ್ವಾನ್ಸ |
+| 216 | `२-१४ [?]` → `२-१५` | SECOND-PASS Q1: Kannada p. 216 reads ಫಿ. ೨-೧೫ |
+| 216 | `ate [?] | ` → `ate | ` | SECOND-PASS Q2: Kannada p. 216 reads the bhāṣya as the English: ಅಭಿಭವನ್ವರ್ತತೇ । ಮರುತ್ವಾನ್ಸ |
+| 216 | `em] [?]. M` → `em]. M` | SECOND-PASS Q2: Kannada p. 216 has the same sentence (ಅಭಿಭವನ್ವರ್ತತೇ) |
+| 218 | `2-[9?] as read [?]` → `3-9` | SECOND-PASS Q1: Kannada p. 218 reads (ನಿ. ೩-೯) |
+| 218 | `साः [?] ।` → `साः ।` | SECOND-PASS Q2: Kannada p. 218 reads ನೃಶಂಸಾಃ |
+| 218 | `sāḥ [?] |*` → `sāḥ |*` | SECOND-PASS Q2: Kannada p. 218 reads ನೃಶಂಸಾಃ |
+| 218 | `ead [?]]: ` → `ead]: ` | SECOND-PASS Q2: Kannada p. 218 reads ನೃಶಂಸಾಃ |
+| 218 | `[Phiṭ-sūtra 2-[?]4 as read, ?]` → `[Phiṭ-sūtra 38]` | SECOND-PASS Q1: Kannada p. 218 reads (ಫಿ. ಸೂ. ೩೮) |
+| 220 | `पां [?] इन` → `पां इन` | SECOND-PASS Q2: Kannada p. 220 reads ತೇಷಾಮುಭಯವಿಧಾನಾಮಪಾಮಿಂದ್ರಂ |
+| 220 | `pāṃ [?] in` → `pāṃ in` | SECOND-PASS Q2: Kannada p. 220 reads ತೇಷಾಮುಭಯವಿಧಾನಾಮಪಾಮಿಂದ್ರಂ |
+| 220 | `jeṣṛ [?] ` → `jeṣṛ णेषृ प्रेषृ ` | SECOND-PASS Q1: Kannada p. 220 reads ಜೇಷ್ಯ ಣೇಷೃ ಪ್ರೇಷೃ ಗತೌ (as the Devanagari line) |
+| 221 | `as read [?]), the sense` → `as read), the sense` | SECOND-PASS Q2: Kannada p. 221 reads (ನಿ. ೩-೯) |
+| 221 | `2-106-72 as read [?]` → `9-106-2` | SECOND-PASS Q1: Kannada p. 221 reads (ಋ. ಸಂ. ೯-೧೦೬-೨) |
+| 221 | `as read [?]).` → `as read).` | SECOND-PASS Q2: Kannada p. 221 reads (ನಿ- ೩-೯) |
+| 221 | `(*Ni.* 3-9 as read [?]; clotted` → `(*Ni.* 3-9 as read; clotted` | SECOND-PASS Q2: Kannada p. 221 reads (ನಿ. ೩-೯) |
+| 221 | `जामुपत्वम् [?] । जमतीर्वा स्यान्निगमनप्रायाः भवति [?]` → `जामपत्यं । जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्राया भवति` | SECOND-PASS Q1: Kannada p. 221 reads ಜಾಮೀರನ್ಯೇಽಸ್ಯಾಂ ಜನಯಂತಿ ಜಾಮಪತ್ಯಂ । ಜಮತೇರ್ವಾ ಸ್ಯಾದ್ಗತಿಕರ್ಮಣೋ ನಿರ್ಗಮನಪ್ರಾಯಾ ಭವತಿ (its gloss that follows, ಮಕ್ಕಳನ್ನು ಉತ್ಪನ್ನ… and ಜಮ್ ಧಾತು, con |
+| 221 | `jāmupatvam [?] | jamatīr vā syān nigamanaprāyāḥ bhavati [?]` → `jāmapatyaṃ | jamatervā syādgatikarmaṇo nirgamanaprāyā bhavati` | SECOND-PASS Q1: Kannada p. 221 reads ಜಾಮೀರನ್ಯೇಽಸ್ಯಾಂ ಜನಯಂತಿ ಜಾಮಪತ್ಯಂ । ಜಮತೇರ್ವಾ ಸ್ಯಾದ್ಗತಿಕರ್ಮಣೋ ನಿರ್ಗಮನಪ್ರಾಯಾ ಭವತಿ (its gloss that follows, ಮಕ್ಕಳನ್ನು ಉತ್ಪನ್ನ… and ಜಮ್ ಧಾತು, con |
+| 222 | `1-75-3/4?] as read [?]` → `1-65-7` | SECOND-PASS Q1: Kannada p. 222 reads (ಋ. ಸಂ. ೧-೬೫-೭.) |
+| 222 | `8-[2?]3-3 as read [?]` → `1-25-3` | SECOND-PASS Q1: Kannada p. 222 reads (ಋ. ಸಂ. ೧-೨೫-೩.) |
+| 222 | `9-[3?]9-28-4 as read [?]` → `9-28-4` | SECOND-PASS Q1: Kannada p. 222 reads (ಋ. ಸಂ. ೯-೨೮-೪.) |
+| 222 | `9-68-4 as read [?]` → `9-68-4 as read` | SECOND-PASS Q2: Kannada p. 222 reads (ಋ. ಸಂ. ೯-೬೮-೪.) |
+| 225 | `6-15 as read [?]` → `7-15` | SECOND-PASS Q1: Kannada p. 225 reads (ನಿ. ೭-೧೫) |
+| 226 | `(*Ni.* 51-24 as read [?]) [as read, doubtful [?]]` → `(*Ni.* 7-23)` | SECOND-PASS Q1: Kannada p. 226 reads (ನಿ. ೭-೨೩) |
+| 226 | `6-18-3 as read [?]` → `6-18-3 as read` | SECOND-PASS Q2: Kannada p. 226 reads (ಋ. ಸಂ. 618-3, the hyphen after the first figure missing; digits agree with the English) |
+| 226 | `6-45-24 as read [?]` → `6-45-24 as read` | SECOND-PASS Q2: Kannada p. 226 reads (ಋ. ಸಂ. ೬-೪೫-೨೪) |
+| 226 | `8-76-11 as read [?]` → `8-76-11 as read` | SECOND-PASS Q2: Kannada p. 226 reads (ಋ. ಸಂ. ೮-೭೬-೧೧) |
+| 226 | `10-47-4 as read [?]` → `10-47-4 as read` | SECOND-PASS Q2: Kannada p. 226 reads (ಋ. ಸಂ. ೧೦-೪೭-೪) |
+| 226 | `1-61-14 as read [?]` → `1-61-14 as read` | SECOND-PASS Q2: Kannada p. 226 reads (ಋ. ಸಂ. ೧-೬೧-೧೪) |
+| 226 | `4-17-2 as read [?]` → `4-17-2 as read` | SECOND-PASS Q2: Kannada p. 226 reads (ಋ. ಸಂ. ೪-೧೭-೨) |
+| 227 | `897-14 as read [?]` → `8-97-14` | SECOND-PASS Q1: Kannada p. 227 reads (ಋ. ಸಂ. ೮-೯೭-೧೪) |
+| 228 | `6-66 as read [?]` → `7-66` | SECOND-PASS Q1: Kannada p. 228 reads (ಬೃ. ದೇ. ೭-೬೬) |
+| 228 | `7-67 as read [?]` → `7-67 as read` | SECOND-PASS Q2: Kannada p. 228 reads (ಬೃ. ದೇ. ೭-೬೭) |
+| 228 | `6-68[8?] as read [?]` → `7-68` | SECOND-PASS Q1: Kannada p. 228 reads (ಬೃ. ದೇ. ೭-೬೮) |
+| 228 | `7-69 as read [?]` → `7-69 as read` | SECOND-PASS Q2: Kannada p. 228 reads (ಬೃ. ದೇ. ೭-೬೯) |
+| 228 | `2-20 as read [?]` → `7-20` | SECOND-PASS Q1: Kannada p. 228 reads (ಬೃ. ದೇ. ೭-೨೦) |
+| 230 | `[Uṇ. Sū. 2-[?]4 as read, ?]` → `[Uṇ. Sū. 2-159]` | SECOND-PASS Q1: Kannada p. 230 reads (ಉ. ಸೂ. ೨-೧೫೯) |
+| 230 | `vārttika 1, as read [?]]` → `vārttika 1, as read]` | SECOND-PASS Q2: Kannada p. 230 reads (ಕಾ. ೪-೩-೫೮-೧) |
+| 232 | `1-61-6 as read [?]` → `1-61-6 as read` | SECOND-PASS Q2: Kannada p. 232 reads (ಋ. ಸಂ. ೧-೬೧-೬) |
+| 232 | `5-31-4 as read [?]` → `5-31-4 as read` | SECOND-PASS Q2: Kannada p. 232 reads (ಋ. ಸಂ. ೫-೩೧-೪) |
+| 232 | `1-121-12 as read [?]` → `1-121-12 as read` | SECOND-PASS Q2: Kannada p. 232 reads (ಋ. ಸಂ. ೧-೧೨೧-೧೨) |
+| 232 | `8-100-9 as read [?]` → `8-100-9 as read` | SECOND-PASS Q2: Kannada p. 232 reads (ಋ. ಸಂ. ೮-೧೦೦-೯) |
+| 233 | `5-87-8; 2-5-0; 8-18-4 and others, numerals as read [?]` → `5-86-8; 7-3-8; 8-18-4 and others, numerals as read` | SECOND-PASS Q1: Kannada p. 233 reads 5-41-19 5-86-8, 7-3-8, 8-18-4 (೫-೪೧-೧೯ ೫-೮೬-೮, ೭-೩-೮, ೮-೧೮-೪) |
+| 233 | `1-73-6 [as read [?]]` → `1-73-6 [as read]` | SECOND-PASS Q2: Kannada p. 233 reads ಋ. ಸಂ. ೧-೭೩-೬ |
+| 233 | `2-4-9 [as read [?]]` → `2-4-9 [as read]` | SECOND-PASS Q2: Kannada p. 233 reads ೨-೪-೯ |
+| 234 | `[Uṇ. Sū. 3-[?]3 as read, ?]` → `[Uṇ. Sū. 3-393]` | SECOND-PASS Q1: Kannada p. 234 reads (ಉ. ಸೂ. ೩-೩೯೩) |
+| 238 | `4-18-4 as read [?]` → `4-18-4 as read` | SECOND-PASS Q2: Kannada p. 238 reads (ಋ. ಸಂ. ೪-೧೮-೪) |
+| 238 | `2-[3?]5 as read [?]` → `2-5` | SECOND-PASS Q1: Kannada p. 238 reads ( ನಿ. ೨-೫ ) |
+| 238 | `[forty-four, as read, ?] names of the *arcati*-verbs [?],` → `forty-four names of the *arcati*-verbs,` | SECOND-PASS Q1: Kannada p. 238 reads ೪೪ ಅರ್ಚತಿಕರ್ಮಗಳ ನಾಮಗಳಲ್ಲಿ |
+| 240 | `लोकद्वयोदपस्य [?]` → `लोकद्वयादप्यस्य` | SECOND-PASS Q1: Kannada p. 240 reads ಲೋಕದ್ವಯಾದಪ್ಯಸ್ಯ ಬಲಮತಿರಿಚ್ಯತ ಇತ್ಯರ್ಥಃ (the English gloss "his strength exceeds even the two worlds" agrees) |
+| 240 | `lokadvayodapasya [?]` → `lokadvayādapyasya` | SECOND-PASS Q1: Kannada p. 240 reads ಲೋಕದ್ವಯಾದಪ್ಯಸ್ಯ |
+
+### 2026-11-27 second pass, batch e212-241_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 220 | `[?] गतौ` → `णेषृ प्रेषृ गतौ` | SECOND-PASS Q1: Kannada p. 220 reads ಜೇಷ್ಯ ಣೇಷೃ ಪ್ರೇಷೃ ಗತೌ (ಜೇಷ್ಯ a misprint, English jeṣṛ kept; the mark stood for the omitted ṇeṣṛ preṣṛ) |
