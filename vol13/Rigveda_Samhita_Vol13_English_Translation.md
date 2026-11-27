@@ -5776,6 +5776,143 @@ insignificant as grass : lift us up, that we may live
 
 तृणस्कंदस्य नु विशः परि वृंक्त सुदानवः । ऊर्ध्वान्नः कर्त जीवसे ॥ ३ ॥ तृणस्कंदस्य । नु । विशः । परि । वृंक्त । सुदानवः । ऊर्ध्वान् । नः । कर्त । जीवसे ॥ ३ ॥ हे मरुतः सुदानवः शोभनदानाः यूयं तृणस्कंदस्य तृणवच्चलनस्वभावस्य शुष्यमाणस्य वा (*tṛṇaskaṃdasya nu viśaḥ pari vṛṃkta sudānavaḥ | ūrdhvānnaḥ karta jīvase ‖ 3 ‖ tṛṇaskaṃdasya | nu | viśaḥ | pari | vṛṃkta | sudānavaḥ | ūrdhvān | naḥ | karta | jīvase ‖ 3 ‖ he marutaḥ sudānavaḥ śobhanadānāḥ yūyaṃ tṛṇaskaṃdasya tṛṇavaccalanasvabhāvasya śuṣyamāṇasya vā*)—Since this word is used as an epithet of the word मम (*mama*), which denotes the yajamāna, it is described that the yajamāna is of a nature to move like a blade of grass, and is withering. Sāyaṇa also states that it may be a proper name. Since he says उक्तलक्षणकालस्य असुरविशेषस्य वा (*uktalakṣaṇakālasya asuraviśeṣasya vā*), it can also be understood as the Asura Tṛṇaskanda. Then *Tṛṇaskanda* would indicate the quality of one who moves hidden, concealed within the cloud. The word तृण (*tṛṇa*) means cloud. The dense cloud is rubbed and split, and thereafter rain falls. Durgācārya explains that the cloud is called तृण (*tṛṇa*) because it is rubbed and split, being formed from the root तृद् (*tṛd*), which gives the sense "split": तृद्यतेऽसाविति तृणः (*tṛdyate 'sāviti tṛṇaḥ*). And तृंद्यात् तृणं (*tṛṃdyāt tṛṇaṃ*)
 
+### Printed p. 235
+
+##### विशेषविषयगळु (Special Topics)
+
+The Nirukta author has given the derivation of this word in another context (Ni. 1-22). The root स्कंद् (*skaṃd*) means "to move". Or else तृणस्कंद (*tṛṇaskaṃda*) may mean a soft worm that leaps and jumps. The movement of that Asura may have been of the same kind. Since this word is used in only this one place in the whole Ṛk-Saṃhitā, it must be interpreted here as seems fitting.
+
+विशः नु परिवृङ् (*viśaḥ nu parivṛṅ*)—Two kinds of meaning are given for this sentence. In the first, the word विशः (*viśaḥ*) is explained as the subjects, that is, the sons, servants and so on, belonging to the sacrificer. The prayer is that the Marut deities should protect these subjects बाधापरिहारेण रक्षत (*bādhāparihāreṇa rakṣata*), so that they do not fall into any kind of trouble. In the second meaning, यज्ञा उक्तलक्षणकालस्य असुरविशेषस्य वा प्रजाः परिवर्जयत । (*yajñā uktalakṣaṇakālasya asuraviśeṣasya vā prajāḥ parivarjayata |*) The favour of the Marut deities is sought so that the time that causes trouble to the sacrificer may not arrive, or else that the subjects of the Asura named Tṛṇaskanda, that is, sons, servants and others of evil nature, may be destroyed. The word विशः (*viśaḥ*) is read among the names of men (Ni. 3-8). And:
+जठाबोथ तद्विविद्धि विशे विशे यज्ञियाय । स्तोमं रुद्राय हृतीकं ॥ (*jaṭhābotha tadvividdhi viśe viśe yajñiyāya | stomaṃ rudrāya hṛtīkaṃ ‖*) (Ṛ. Saṃ. 1-27-10).
+In this Ṛk the words विशे विशे (*viśe viśe*) are used in the sense मनुष्यस्य मनुष्यस्य (*manuṣyasya manuṣyasya*). Sāyaṇa has explained the meaning as पुत्रभृत्यादिरूपाः प्रजाः (*putrabhṛtyādirūpāḥ prajāḥ*).
+
+नः ऊर्ध्वा कर्त जीवसे (*naḥ ūrdhvā karta jīvase*)—अस्मान् चिरजीवनाय कुरुत । (*asmān cirajīvanāya kuruta |*) The prayer is that the Marut deities may favour us, the sacrificers, so that we live a long time.
+ऊर्ध्व उच्च्रितो भवति (*ūrdhva uccrito bhavati*) (Ni. 7-15): it means "being high". Ordinarily we use this word to show physical height. But in the present Ṛk it means the highest economic and moral advancement.
+
+##### Grammar
+
+- तृणस्कंदस्य — तृणवत् स्कंदः परिचलनं यस्य । समासस्वरेण अंतोदात्तो भवति ।
+- वृज्ञ — वृजी वर्जने, धातुः । लोट् मध्यमपुरुषबहुवचने लज्जद्भावे सति तस्‌थस्थ—इति तादेशः । त्वम् विकरणः । त्वसोरल्लोपः (पा. सू-६-४-१११) इति तस्य अकारस्य लोपः । नकारस्य अनुस्वारः परसवर्णः । तिजंतनिघातस्वरो भवति । **NOTE**
+
+### Printed p. 236
+- कर्त — डुकृञ् करणे, धातुः । लोट् मध्यमपुरुषे तादेशे आगते तप्तनप्तनथ नाक्ष इति तस्य तबादेशः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययस्य पित्त्वात् जीत्वं न भवति । सार्वधातुका—इति गुणः । रसरवागि भवति । तिजंतनिघातस्वरो भवति । **NOTE**
+- जीवसे — जीव प्राणधारणे, धातुः । तुमनर्थे द्योत्ये तुमर्थे सेसेनसे—(पा. सू. ३-४-९) इति आसे प्रत्ययः । प्रत्ययस्य आद्युदात्तस्वरो भवति । एजंतत्वात् कृन्मे जंतः इति आव्ययसंज्ञा भवति । ॥ ३ ॥
+
+## Sūkta 173 (Maṇḍala 1)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गायत्सामेति त्रयोदशर्चं नवमं सूक्तमागस्त्यं त्रैष्टुभमैंद्रं ।
+> गायत्स्सप्तोनेत्यनुक्रांतं ॥ समूळ्छे दशरात्रे तृतीये छंदोमे मरुत्वतीय
+> शस्त्र एतत्तूक्तं । विश्वजितोऽग्निं नर इति खंडे सूत्रितं ! तृतीयस्येंद्रः स्वाहा
+> गायत्साम । आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+This ninth sūkta of the twenty-third anuvāka, गायत्साम (*gāyatsāma*), has thirteen Ṛks. Its seer is Agastya, its deity Indra, its metre Triṣṭubh. In the Anukramaṇī it is described by the words गायत्स्सप्तोन (*gāyatssaptona*). In the ten-night rite called Samūḍha, in the third Chandoma, this sūkta is used in the Marutvatīya śastra. The Āśvalāyana Śrauta Sūtra, in the section beginning विश्वजितोऽग्निं नर (*viśvajito 'gniṃ nara*), lays this down in the sūtra तृतीयस्येंद्रः स्वाहा गायत्साम (*tṛtīyasyeṃdraḥ svāhā gāyatsāma*) (Ā. 8-7).
+
+##### Anuvāda
+
+This sūkta, called Gāyatsāma, is the ninth sūkta in the twenty-third anuvāka; it has thirteen Ṛks. Agastya is the seer of this sūkta, Indra the deity, Triṣṭubh the metre. In the Anukramaṇikā it is stated as गायत्सपोना (*gāyatsaponā*). **NOTE**. Its use is in the Marutvatīya śastra mantra recitation of the third Chandoma mantras in the ten-day sacrifice called Samūḍha; this is explained by the sūtra तृतीयस्येंद्रः स्वाहा गायत्साम (*tṛtīyasyeṃdraḥ svāhā gāyatsāma*) in the section विश्वजितोग्निं नरः (*viśvajitogniṃ naraḥ*) of the Āśvalāyana Śrauta Sūtra (Ā. 8-7).
+
+### Printed p. 237
+- Maṇḍala 1; Anuvāka 23; Sūkta 173.
+- Aṣṭaka 2; Adhyāya 4; Vargas 13, 14, 15.
+- Number of Ṛks in the sūkta: 13.
+- Ṛṣi: Agastya. Devatā: Indra. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गाय॒त्साम्॑ नभ॒न्यं१॒॑ यथा॒ वेरर्चा॑म॒ तद्वा॑वृधा॒नं स्व॑र्वत् ।  
+> गावो॑ धे॒नवो॑ ब॒र्हिष्यद॑ब्बा॒ आ यत्स॒द्मानं॑ दि॒व्यं विवा॑सान् ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गायत् । साम । नभन्यं । यथा । वेः । अर्चाम । तत् । ववृधानं । स्वःवत् ।  
+> गानः । धेनवः । बर्हिषि । अदब्बाः । आ । यत् । सद्मानं । दिव्यं । विवासान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नभन्यं नभस्यं नभसि भवं नभोव्यापिनं हिंसकं वा राक्षसादिकस्य ।
+> नभतिर्वधकर्मा नभत्यर्दतीति वधकर्मसु गणनात् । तादृशं साम हे इंद्र यथा
+> वेः येन प्रकारेण वेत्सि तथा गायत् । गायत्युद्घाता । तत्तस्माद्यतः सौति ततः
+> कारणाद्वृधानं वर्धमानं स्वर्वत् फलभूतेन स्वर्गेण तद्वच्छस्त्रं यथा वेः
+> तथार्चाम । पूजयाम । शंसामेत्यर्थः । स्तुतमनुशंसतीति न्यायात् । यद्वा ।
+> तदुक्तलक्षणं साम ववृधानं सर्वत्र यथा भवति तथार्चाम । किंच धेनवो दोग्रोऽदब्धा अहिंसिता गावो यद्बर्हिषि सद्मानं सीदंतं दिव्यं दिवि भवमिंद्रं
+> त्वामा एवासान् । विवासतिः परिचरणकर्मा । आगत्य परिचरंति क्षीरं दुहंति
+> तथार्चाम ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, नभन्यं (*nabhanyaṃ*) is नभस्यं (*nabhasyaṃ*): that which exists in the sky, pervading the sky; or that which injures, namely rākṣasas and the like." The root नभति (*nabhati*) is in the list of verbs of killing: नभतिर्वधकर्मा नभत्यर्दतीति (*nabhatirvadhakarmā nabhatyardatīti*). Such a sāma, in whatever way you know it, गायत् (*gāyat*): the udgātā sings. Therefore, because he sings, the sāma is growing, स्वर्वत् (*svarvat*), accompanied by heaven as its fruit. Likewise we worship, अर्चाम (*arcāma*), that is, we recite the śastra, according to the principle स्तुतमनुशंसतीति (*stutamanuśaṃsatīti*).
+Or else: we worship that sāma of the stated character in such a way that it grows everywhere. Moreover, the milch cows, uninjured, धेनवो दोग्रोऽदब्धा अहिंसिता गावो (*dhenavo dogro 'dabdhā ahiṃsitā gāvo*), come and serve you, Indra, who sit upon the sacred grass and are divine, existing in heaven; विवासतिः (*vivāsatiḥ*) is a verb of attendance. They come, attend and yield milk; in the same way we worship you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- नभन्यं (*nabhanyaṃ*)—sky-pervading (injuring rākṣasas and the like)
+- साम (*sāma*)—the sāma
+- यथा (*yathā*)—in what manner
+- वेः (*veḥ*)—you know
+- तथा (*tathā*)—in the same manner
+- गायत् (*gāyat*)—(the udgātā) sings
+- तत् (*tat*)—therefore
+- ववृधानं (*vavṛdhānaṃ*)—growing
+
+### Printed p. 238
+- स्वर्वत् (*svarvat*)—and the śastra mantra accompanied by heaven as its fruit
+- अर्चाम (*arcāma*)—we offer (we recite), (so that it is acceptable to you)
+- [Or: स्वर्वत् (*svarvat*)—accompanied by heaven as the fruit; तत् (*tat*)—that sāma; ववृधानं (*vavṛdhānaṃ*)—so that it grows (spreading) everywhere; अर्चाम (*arcāma*)—we recite]
+- किंच (*kiṃca*)—and
+- धेनवः (*dhenavaḥ*)—milch
+- अदब्बाः (*adabbāḥ*)—uninjured
+- गावः (*gāvaḥ*)—cows
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- सद्मानं (*sadmānaṃ*)—seated
+- दिव्यं (*divyaṃ*)—dwelling in heaven; you
+- यत् (*yat*)—as
+- आ विवासान् (*ā vivāsān*)—come and attend
+- तथा अर्चाम (*tathā arcāma*)—so we worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the sāma that the udgātā sings is fit for your acceptance and pervades the sky-world. This very sāma we also praise as the bringer of prosperity. And as the milch and uninjured cows serve with their milk you, who dwell in the heaven-world and are now seated on the darbha seat in our sacrificial hall, so we worship you.
+
+##### English translation (H. H. Wilson)
+The priests chant the heaven-ascending Sama, as you know (it)
+for such (praise) do we venerate as the cause of increase and conferrer of
+heaven, whence the cows, unimpeded, do honour to the divine (Indra),
+who is seated on the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa says that the present sūkta 1-173 belongs to the Marutvatīya śastra to be recited by the hotṛ at the midday pressing, and writes: समूळ्दे दशरात्रे तृतीये छंदोमे मरुत्वतीयशस्त्रे एतत्तूक्तं (*samūḷde daśarātre tṛtīye chaṃdome marutvatīyaśastre etattūktaṃ*). To know what place the present sūkta has in that śastra, one must first know the nature of the Marutvatīya śastra. A legend that explains the nature of this śastra is quoted in the Aitareya Brāhmaṇa. Examining the account of the Marutvatīya śastra, there Indra wishes that the Maruts too should receive a share in the oblation offered to him, as a mark of the trust they showed him.
+इंद्रो वै वृत्रं हनिष्यन्तर्वा देवता अब्रवीदनु मोपतिष्ठध्वमुप मा ह्वयध्वमिति तथेति तं हनिष्यंत आद्रवन्त्सोऽवेन्मां वै हनिष्यंत आद्रवंति हंतेमान् भीषया इति तानभिप्रात्वसीत्तस्य त्वसथा दीषमाणा विश्वे देवा आद्रवन्मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्त्येवैनमेतां वाचं वदंत उपातिष्ठंत ॥ (*iṃdro vai vṛtraṃ haniṣyantarvā devatā abravīdanu mopatiṣṭhadhvamupa mā hvayadhvamiti tatheti taṃ haniṣyaṃta ādravantso 'venmāṃ vai haniṣyaṃta ādravaṃti haṃtemān bhīṣayā iti tānabhiprātvasīttasya tvasathā dīṣamāṇā viśve devā ādravanmaruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayastyevainametāṃ vācaṃ vadaṃta upātiṣṭhaṃta ‖*) (Ai. Brā. 3-20).
+
+### Printed p. 239
+When he was about to kill Vṛtra, Indra addressed all the gods and asked, "Help me in this work of killing the Asura Vṛtra." They agreed, saying "So be it", and ran up for that purpose. Then the Asura Vṛtra said, "These are coming to kill me. I shall frighten them," and let out a fierce breath. At once all the gods took fright and ran away. But the Maruts alone did not give up Indra. They kept urging Indra on: "Strike him. Use your full strength on him." This same matter is praised in the Ṛk:
+वृत्रस्य त्वा त्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः । मरुद्भरिंद्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासि ॥ (*vṛtrasya tvā tvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ | marudbhariṃdra sakhyaṃ te astvathemā viśvāḥ pṛtanā jayāsi ‖*) (Ṛ. Saṃ. 8. 96. 7).
+It is for this reason that Indra, remembering the help the Maruts gave him in his time of trouble, said:
+सोऽवेदिमे वै किल मे सजिवा इमे माकामयंत हंतेमानस्मिन्नुक्थ आभजा इति तानेतस्मिन्नुक्थ आभजदथ हैते तर्ह्युभे एव निष्केवल्ये उक्थे आसतुः । मरुत्वतीयं ग्रहं गृह्णाति मरुत्वतीयं प्रगाथं शंसति मरुत्वतीयं सूक्तं शंसति मरुत्वतीयां निविदं दधाति मरुतां सा भक्तिः ॥ (*so 'vedime vai kila me sajivā ime mākāmayaṃta haṃtemānasminnuktha ābhajā iti tānetasminnuktha ābhajadatha haite tarhyubhe eva niṣkevalye ukthe āsatuḥ | marutvatīyaṃ grahaṃ gṛhṇāti marutvatīyaṃ pragāthaṃ śaṃsati marutvatīyaṃ sūktaṃ śaṃsati marutvatīyāṃ nividaṃ dadhāti marutāṃ sā bhaktiḥ ‖*) (Ai. Brā. 3-20).
+"These Maruts are my true friends. They loved me. Therefore in the uktha addressed to me I shall give them too a share." So resolving, he provided a share for them too. He took up the cup (drinking vessel) for the Maruts. He recited the pragātha. In this way he honoured them in many ways. This is said in the context of describing the Marutvatīya śastra. And:
+इंद्रं वै वृत्तं जघ्निवांसं नास्तृतेति मन्यमानाः सर्वा देवता अजहुस्तं मरुत एव स्वापयो नाजहुः प्राणा वै मरुतः स्वापयः प्राणा हैवैनं तं नाजहुस्तस्मादेषोऽच्युतः स्वापिमान्प्रगाथः शस्यत आस्वापे स्वापिभिरिति ॥ (*iṃdraṃ vai vṛttaṃ jaghnivāṃsaṃ nāstṛteti manyamānāḥ sarvā devatā ajahustaṃ maruta eva svāpayo nājahuḥ prāṇā vai marutaḥ svāpayaḥ prāṇā haivainaṃ taṃ nājahustasmādeṣo 'cyutaḥ svāpimānpragāthaḥ śasyata āsvāpe svāpibhiriti ‖*) (Ai. Brā. 3-16). **NOTE**
+At the time of the killing of the Asura Vṛtra, when all the gods abandoned Indra and went away, the Maruts alone did not leave him; therefore they became his friends, as it were his very breaths. For that reason they did not abandon Indra: thus the extreme closeness of the relation between Indra and the Maruts is shown. And again, in describing the nature of this same Marutvatīya graha, the Śatapatha Brāhmaṇa, too, between Indra and the Maruts
+
+### Printed p. 240
+declares the relation of king and subjects. The nature of the Marutvatīya graha, pragātha, nivid and śastra mentioned in the Aitareya Brāhmaṇa sentence quoted above will be explained later.
+Sāyaṇa says in the introduction to the sūkta: तृतीये छंदोमे मरुत्वतीयशस्त्रे एतत्सूक्तं (*tṛtīye chaṃdome marutvatīyaśastre etatsūktaṃ*). The stomas to be recited on the seventh, eighth and ninth days of the twelve-day rite are called Chandoma. There are three sets of praises forming the stomas of the Chandoma: the Caturviṃśa, the Catuścatvāriṃśa and the Aṣṭacatvāriṃśa. Of these, the present sūkta belongs to the third Chandoma. It forms only one part of the Marutvatīya śastra. How the remaining sūktas are used in the Marutvatīya śastra will be explained later.
+
+नभन्यं (*nabhanyaṃ*)—नभसि भवं नभन्यं नभोव्यापिनं । हिंसकं वा राक्षसादिकस्य । (*nabhasi bhavaṃ nabhanyaṃ nabhovyāpinaṃ | hiṃsakaṃ vā rākṣasādikasya |*) This word, नभते अर्पयति (*nabhate arpayati*), Yāska has read among the names of verbs of killing (Ni. 3-10). Sāyaṇa accepts for the word नभन्यं (*nabhanyaṃ*) the reading नभस्यं (*nabhasyaṃ*) and states it as a qualifier of the word साम (*sāma*). He explains two meanings: that this sāma (by being recited loudly) pervades the intermediate space, and that it injures rākṣasas and others who cause harm.
+
+नभन्यं साम यथा वेः (*nabhanyaṃ sāma yathā veḥ*) can be interpreted in another way too. This same sentence is quoted in the Aitareya Brāhmaṇa, and in translating it the English scholar Keith (Keith) translated it as follows, giving a meaning different from the one Sāyaṇa explains here (Ai. Brā. 5-20). **NOTE**
+"Let him say the Saman, springing forth as of a bird."
+[Harward Oriental Series Vol. 25 p. 245].
+Here वेः यथा (*veḥ yathā*) is taken to mean "in the manner of a bird", and नभन्यं (*nabhanyaṃ*) to mean "springing up of itself and becoming manifest". This meaning cannot be called so improper; it fits the context. There is also authority for stating the purport in this way: the likeness to a bird, namely that the devotee approaches Indra as swiftly as a bird, is stated in the Ṛk-Saṃhitā itself. For example:
+वयः सुवर्णा उप सेदुरिंद्रं प्रियमेधा ऋषयो नाथमानाः । आप ध्वांतमूर्णुहि पूर्धि चक्षुर्मुमुग्धिस्मान्निधयेव बद्धान् ॥ (*vayaḥ suvarṇā upa seduriṃdraṃ priyamedhā ṛṣayo nāthamānāḥ | āpa dhvāṃtamūrṇuhi pūrdhi cakṣurmumugdhismānnidhayeva baddhān ‖*) (Pu. Se. 10-73-11). **NOTE**
+This Ṛk too belongs among the Marutvatīya nivid mantras. Here, for the word वयः (*vayaḥ*) the Nirukta author shows the derivation, saying,
+
 ---
 
-**Progress note:** Done through printed p. 234. pp. 229-234 (batch API)
+**Progress note:** Done through printed p. 240. pp. 235-240 (batch API)
