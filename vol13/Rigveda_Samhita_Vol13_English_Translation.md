@@ -5481,6 +5481,140 @@ This meaning is shown in such sentences. Therefore it is proper to give the othe
 
 In these and many other Ṛks the word नरः (*naraḥ*) shows the nature of the Maruts; likewise in the present Ṛk also न्वन् (*nvan*)**NOTE** may mean the Maruts.
 
+### Printed p. 223
+"Be, together with the Maruts, free from anger": let Indra, together with the Maruts, be without anger toward us. Or else: let Indra be free from wrath, with a calm mind, toward the Marut deities. This is the wish expressed. The word हेळस् (*heḷas*) is listed among the names of anger (Ni. 3-9), so here it is used in the sense of anger.
+
+सुप्रकेतेभिः सासहिः (*supraketebhiḥ sāsahiḥ*)—Let Indra, with the Maruts of excellent knowledge, overcome our enemies. And let him be the one who bears and fulfils the wishes of us, the sacrificers. This is the prayer. The Nirukta writers explain the word प्रकेत (*praketa*) in the Ṛk
+इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक् ॥ (*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātryuṣase yonimāraik ‖*)
+(Ṛ. Saṃ. 1-106-1) (Ṛ. Saṃ. 1-113-1)
+as प्रकेतः प्रकृष्टतमः (*praketaḥ prakṛṣṭatamaḥ*). Durgācārya explains the meaning as प्रज्ञाततमः (*prajñātatamaḥ*).**NOTE**
+
+By the sentence विद्यामेषुं वृजनं जीरदानुं (*vidyāmeṣuṃ vṛjanaṃ jīradānuṃ*) it is wished that we, the sacrificers, by Indra's favour may obtain food, strength and the power of giving gifts. The seer Agastya recites this sentence at the end of the sūktas he composed. As was stated in many places before, the word इष (*iṣa*) is read by Yāska among the names of food, and the word वृजन (*vṛjana*) among the names of strength. But the word वृजन (*vṛjana*) is not used only in the sense of strength: in the Ṛksaṃhitā it is used so as to suggest other meanings too. Violence, battle, a powerful enemy, a powerful deity and the like are suggested by this word. For example:
+अषाळ्छं युत्सु पृतनासु पप्रिं स्वर्षामप्पां वृजनस्य गोपां (*aṣāḷchaṃ yutsu pṛtanāsu papriṃ svarṣāmappāṃ vṛjanasya gopāṃ*)
+(Ṛ. Saṃ. 1-91-21).
+Here, "that by which one is covered (or protected) is वृजनं (*vṛjanaṃ*)", and so it is explained as strength. And:
+मरुत्‌स्तोत्रस्य वृजनस्य गोपा वयमिंद्रेण सनुयाम वाजं । (*marutstotrasya vṛjanasya gopā vayamiṃdreṇa sanuyāma vājaṃ |*)
+(Ṛ. Saṃ. 1-101-11).
+In such Ṛks it is taken as "of Indra, the hurler of enemies", Indra who drives off enemies, and it conveys that Indra's strength. Moreover, where it is used in the sense of covering, it becomes a deceit that conceals the true meaning. Or it means a house that gives protection. For example:
+यद्वा मरुत्वः परमे सदस्ये यद्वावमे वृजने मादयासे (*yadvā marutvaḥ parame sadasye yadvāvame vṛjane mādayāse*)
+(Ṛ. Saṃ. 1-101-8).
+
+### Printed p. 224
+In such Ṛks Sāyaṇa has explained it as a house. Skandasvāmin has explained वर्जिते दोषैः (*varjite doṣaiḥ*) as a sacrifice free from faults.
+दशस्या नः पुर्वणीक होतर्देवेभिरग्ने अग्नि भिरिधानः । रायः सूनो सहसो नावसाना अति प्रसेम वृजनं नांदः (*daśasyā naḥ purvaṇīka hotardevebhiragne agni bhiridhānaḥ | rāyaḥ sūno sahaso nāvasānā ati prasema vṛjanaṃ nāṃdaḥ*)
+(Ṛ. Saṃ. 6-11-6)
+Here it means a harming enemy; and in
+मा नो अज्ञाता वृजना दुराध्यो३माशिवासो अव क्रमुः । (*mā no ajñātā vṛjanā durādhyo3māśivāso ava kramuḥ |*)
+(Ṛ. Saṃ. 7-32-27)
+and similar Ṛks, violence; and in
+विश्वेष्टेनं वृजनेषु पामि यो मे कुक्षि सुतसोमः पृणाति । (*viśveṣṭenaṃ vṛjaneṣu pāmi yo me kukṣi sutasomaḥ pṛṇāti |*)
+(Ṛ. Saṃ. 10-28-2)
+and many other Ṛks, a battle full of violence or of strength. And when it is taken as "that by which one goes", in
+युक्ता माशासीद्धुरि दक्षिणाया अतिष्ठद्गर्भो वृजनीष्वंतः (*yuktā māśāsīddhuri dakṣiṇāyā atiṣṭhadgarbho vṛjanīṣvaṃtaḥ*)
+(Ṛ. Saṃ. 1-164-9)
+and similar places, when it is said "in the watery ones", "in the rows of clouds", the rows of clouds are those that hide. In many places it is used of an enemy endowed with qualities such as deceit and crookedness. The meaning of the word must be stated according to the context. In the present Ṛk it means strength, or protection endowed with strength, or houses and the like furnished with protection. It is also understood that a difference of meaning may arise from a difference of gender of this word. In giving the purport of Ṛk 1-165-11, the scholar Max Muller, explaining this word, says:
+
+वृजन (*vṛjana*) means an enclosure, whether it be derived from वृज् (*vṛj*) to ward off or from वृज् (*vṛj*) in the sense of clearing as in वृक्तबर्हिः (*vṛktabarhiḥ*). In either case the meaning remains much the same, namely, a field cleared for pasture or agriculture. In this sense, वृजन (*vṛjana*) is neuter while as a masculine it means powerful, invigorating. [S. B. E. XXXII. P 208]
+
+That is, his view is that the word वृजन (*vṛjana*) means power only when used in the masculine. But the Nirukta writers have read this word, in the neuter, among the names of strength: वर्धः, वर्गः, वृजनं (*vardhaḥ, vargaḥ, vṛjanaṃ*) (Ni. 3-9).
+
+जीरदानुं (*jīradānuṃ*)—The special meanings of this word will be explained at Ṛk 1-173-13.
+
+### Printed p. 225
+विद्यामेषुं वृजनं जीरदानुं (*vidyāmeṣuṃ vṛjanaṃ jīradānuṃ*)—This prayer forms the last part of every sūkta composed by Agastya. It is a distinctive feature of this seer's composition. Such repeated portions are well known by the name उदर्क (*udarka*). This kind of distinctive feature is seen also in the sūktas of other seers such as Kutsa, Vasiṣṭha and Gṛtsamada. In sum, as stated in the Bṛhaddevatā, in the works of these eight seers, Bharadvāja, Gṛtsamada, Vasiṣṭha, Nodhas, Agastya, Nṛmedha, Nabhāka and Kutsa, such उदर्क (*udarka*) passages may also be called अभ्यास (*abhyāsa*). अभ्यास (*abhyāsa*) means reciting the very same stated meaning again. उक्तार्थमपि वाक्यं अपरातशयद्योतनाय पुनः पठ्यते । (*uktārthamapi vākyaṃ aparātaśayadyotanāya punaḥ paṭhyate |*) There is no fault in such repetition. The Nirukta writers have defended it, saying that in such cases the intensity of feeling is seen:
+अभ्यासे भूयांसमर्थं मन्यंते यथाहो दर्शनीयाहो दर्शनीयेति । (*abhyāse bhūyāṃsamarthaṃ manyaṃte yathāho darśanīyāho darśanīyeti |*)
+(Ni. 10-42).
+By repetition a certain force and power is shown in the heightening of feeling. In the example "she is beautiful", in describing her beauty an exceeding regard is seen. In the same way, there are many occasions when, in expressing an excellent feeling, sentences are recited showing exceeding regard for it. This matter was stated when the sūkta of the seer Paruchchhepa was explained (Ṛ. Saṃ. 1-97). Or else उदर्क (*udarka*) means the mantra to be recited at the time of the conclusion of the sacrifice.
+या गोमतीरुषसः सर्वनीरा व्युच्छंति दाशुषे मर्त्याय । वायोरिव सूनृतानामुवर्के ता अश्वपा अश्ववत्सोमसुत्वा (*yā gomatīruṣasaḥ sarvanīrā vyucchaṃti dāśuṣe martyāya | vāyoriva sūnṛtānāmuvarke tā aśvapā aśvavatsomasutvā*)
+(Ṛ. Saṃ. 1-113-18).
+In such Ṛks उदर्क (*udarka*) means the concluding recitation. In the same way, in the present Ṛks too it means the conclusion of the sūkta.
+
+##### Grammar
+
+- सहीयसः — सहः बलं अस्य अस्ति इति सहस्वी । असमाया इति मत्वर्थे विन् प्रत्ययः । तदुपरि अतिशयार्थे ईयसुन् प्रत्ययः । विन्‌मतोर्लुक् (पा. सू. ५-३-६५) इति विनो लोपः । टेः (पा. सू. ६-४-१४३) इति टिलोपः । इत्यादिनित्यम् (पा. सू. ६-१-१६९) इत्याद्युदात्तस्वरो भवति । द्वितीयाबहुवचनांतरूपम् ।**NOTE**
+
+### Printed p. 226
+- भव — भू सत्तायां धातुः । लोट् मध्यमपुरुषैकवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । शप् अनुदात्तत्वात् धातुस्वरः अवशिष्यते । द्व्यचोतस्तिङः (पा. सू. ६-३-१३५) इति संहितायां दीर्घो भवति ।
+- अवयातहेळाः — अवयातः हेळः यस्मात् सः इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरो भवति ।
+- सुप्रकेतेभिः — कित ज्ञाने धातुः । अच् प्रत्ययः । शोभनः प्रकेतः येषां ते तैः । नञ्सुभ्याम् (पा. सू. ६-२-१७२) इत्युत्तरपदांतोदात्तस्वरो भवति । भिस् ऐस्‌भावस्य विकल्पत्वात् एत्वम् ।
+- सासहिः — षह अभिभवे । उत्सर्गश्छंदसि इति वचनात् आदृगमहन (पा. सू. ३-२-१७१) इति कि प्रत्ययः । लिड्वद्भावत्वात् धातोर्द्वित्वम् । छांदसत्वादभ्यासस्य दीर्घः । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- दधानः — डुधाञ् धारणपोषणयोः धातुः । लटः शानचादेशः । श्लु विकरणम् । धातोः तन्निमित्तीकृत्य द्वित्वादि । अभ्यस्तानामादिः (पा. सू. ६-१-१७९) इत्याद्युदात्तस्वरो भवति ।**NOTE**
+
+Here the hundred and seventy-first sūkta ends.
+
+## Sūkta 172 (Maṇḍala 1)
+The eighth sūkta of the twenty-third anuvāka, चित्रो व (*citro va*) ..., consisting of three Ṛks: its seer is Agastya, its deity the Maruts, its metre Gāyatrī. चित्रस्तृचं गायत्रं (*citrastṛcaṃ gāyatraṃ*) says the Anukramaṇikā. The special application is लैंगिको (*laiṃgiko*).
+
+##### Gist of the bhāṣya
+
+This is the introduction of Sūkta 172: seer Agastya, deity the Maruts, metre Gāyatrī; a triplet (three Ṛks); the special application is by the sign (liṅga).
+
+Anuvāda: This sūkta beginning चित्रोवः (*citrovaḥ*) is the eighth sūkta in the twenty-third anuvāka. It has three Ṛks. Agastya is the seer of this sūkta; the Maruts are the deity; the metre is Gāyatrī. The Anukramaṇikā says चित्रस्तृचं गायत्रं (*citrastṛcaṃ gāyatraṃ*). The special application is by the sign (liṅga).
+
+### Printed p. 227
+Sūkta 172. Maṇḍala 1; Anuvāka 23; Sūkta 172. Aṣṭaka 2; Adhyāya 4; Varga 12. Number of Ṛks in the sūkta: 3. Seer: Āgastya. Deity: the Maruts. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒त्रो वो॑ऽस्तु॒ याम॑श्चि॒त्र ऊ॒ती सु॑दानवः ।  
+> मरु॑तो॒ अहि॑भानवः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्रः । वः । अस्तु । यामः । चित्रः । ऊती । सुदानवः ।  
+> मरुतः । अहिभानवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकं यावॊऽस्मद्यज्ञागमश्चित्तश्चायनीयः पूज्य
+> आश्चर्यभूतो वास्तु । भवतु । न केवलमागमनमेव चित्रं किंतु हे सुदानवः
+> शोभनदाना हे अहिभानवोऽहीयमानप्रकाशाः युष्माकं संबंधी चित्रः स आगम
+> ऊतूत्यै रक्षणायेष्टतर्पणाय ना युक्तश्च भवतु । तदागमनं शीघ्रमस्तु
+> अभिमतप्रदं चास्तित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, let your coming to our sacrifice be चित्र (*citra*)", that is, to be honoured, wondrous. Not only is the coming wondrous; O सुदानवः (*sudānavaḥ*), givers of good gifts, O अहिभानवः (*ahibhānavaḥ*), those whose radiance does not diminish, your wondrous coming is for *ūti*, that is, for protection and for the satisfaction of our wishes. Let it be united with that. The meaning is: let your coming be swift and bestow what is desired.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) मरुतः (*(he) marutaḥ*)—O Marut deities
+- वः (*vaḥ*)—your
+- यामः (*yāmaḥ*)—coming (to our sacrificial hall)
+- चित्रः (*citraḥ*)—to be honoured, or greatly wondrous
+- अस्तु (*astu*)—let it be; (and further)
+- सुदानवः (*sudānavaḥ*)—O givers of auspicious gifts
+- अहिभानवः (*ahibhānavaḥ*)—O you whose radiance does not fail, O Marut deities
+- चित्रः (*citraḥ*)—wondrous (that coming of yours)
+- ऊती (*ūtī*)—for (our) protection, or for the fulfilment of (our) desired end
+- *(bhavatu)*—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Marut deities, givers of auspicious gifts and of unfailing radiance, your coming (to our sacrificial hall) is of great wonder, and by your coming our protection, or the fulfilment of our desired end, comes about.
+
+### Printed p. 228
+
+##### English translation (H. H. Wilson)
+Maruts, of inseparable splendour, may your coming be marvellous, liberal benefactors, for our protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+वः यामः चित्रः अस्तु (*vaḥ yāmaḥ citraḥ astu*)—*yuṣmākaṃ asmadyajñāgamaḥ cāyanīyaḥ pūjyaḥ aścaryabhūto vā bhavatu*. The Marut deities are addressed. It is described that their coming for our sacrifice, and their making our sacrifice and us worthy of honour, is a cause of wonder to all.
+
+It is very well known that the vehicle of the Maruts and their manner of going are exceedingly attractive. By many epithets such as एवैः (*evaiḥ*), एवासः (*evāsaḥ*), एवयामरुत् (*evayāmarut*) the Maruts' going in a group is described. Here it is prayed: यामः चित्रं अस्तु (*yāmaḥ citraṃ astu*), "let your coming be attractive and worthy of honour". The word चित्र (*citra*) is used both in the sense of beauty and in the sense of being worthy of honour. In the Maruts' manner of going both these qualities are complete. This description can be seen in the Ṛks quoted below.
+त्विषीमंतो अध्वरस्येव दिद्युत्रुषुच्यवसो जुहोऽनाग्नेः । अर्चत्रयो धुनयो न वीरा भ्राजज्जन्मानो मरुतो अधृष्टाः (*tviṣīmaṃto adhvarasyeva didyutruṣucyavaso juho 'nāgneḥ | arcatrayo dhunayo na vīrā bhrājajjanmāno maruto adhṛṣṭāḥ*)
+(Ṛ. Saṃ. 6-66-10)
+तं वृधंतं मारुतं भ्राजदृष्टिं रुद्रस्य सूनुं हवसा निवासे । दिवः शर्धाय शुचयो मनीषा गिरयो नाप उग्रा आस्पृधन् ॥ (*taṃ vṛdhaṃtaṃ mārutaṃ bhrājadṛṣṭiṃ rudrasya sūnuṃ havasā nivāse | divaḥ śardhāya śucayo manīṣā girayo nāpa ugrā āspṛdhan ‖*)
+(Ṛ. Saṃ. 6-66-11 **NOTE**)
+In these and similar Ṛks the Maruts' manner of going is compared to the radiance of the attractive and pure flames of the sacrificial fires. In the same way there are such examples on many other occasions.
+
+By the words सुदानवः अहिभानवः (*sudānavaḥ ahibhānavaḥ*), which denote qualities as epithets, the Marut deities are described as शोभनदानाः (*śobhanadānāḥ*), those who bestow abundant blessings, and as अहीयमानप्रकाशाः (*ahīyamānaprakāśāḥ*), those whose splendour grows abundantly; and they are addressed by these very words.
+
+सुदानवः (*sudānavaḥ*)—शोभनदानाः (*śobhanadānāḥ*)! Indra and the others who give most generously, is the meaning. The word सुदानवः (*sudānavaḥ*) may also mean those full of sap or givers of sap. This word to the Maruts
+
 ---
 
-**Progress note:** Done through printed p. 222. pp. 217-222 (batch API)
+**Progress note:** Done through printed p. 228. pp. 223-228 (batch API), sūtra number as in the Kannada
