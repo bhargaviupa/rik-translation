@@ -2742,3 +2742,4 @@
 | 831 | `(*pā.* 8-1-19 as read [?])` → `(*pā.* 8-1-19)` | SECOND-PASS Q1: Kannada p. 831 has 8-1-19 in the same context |
 | 831 | `(*pā.* 7-3-19 as read [?])` → `(*pā.* 7-3-19)` | SECOND-PASS Q1: Kannada p. 831 has 7-3-19 in the same context |
 | 831 | `(*pā.* 6-1-197 as read [?])` → `(*pā.* 6-1-197)` | SECOND-PASS Q1: Kannada p. 831 has 6-1-197 in the same context |
+- 2026-11-27: Rigveda_Samhita_Vol8_Kannada_Text.md: 21 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.

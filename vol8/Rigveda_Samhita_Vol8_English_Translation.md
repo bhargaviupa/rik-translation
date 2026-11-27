@@ -148,6 +148,7 @@
 > (*Ṛ. Saṃ.* 10-12-8, as in the reader's final page iii log)
 
 
+*(**GLOSS**. The second quotation is read as printed, doubtful.)*
 "In all such Ṛks Aditi, together with Mitra and Varuṇa, is prayed to destroy all sin. So too —"
 
 > अथा वयमादित्य व्रते तवानागसो अदितये स्याम ।
@@ -194,6 +195,7 @@
 > *(continues on folio v)*
 
 
+*(Read from the print letter by letter; several words — especially* prādhanvadyaṃ*,* praivādhanvadyaṃ *— are doubtful. **GLOSS**)*
 ### Page v (PDF 10)
 
 *(Running head: "v".)*
@@ -504,6 +506,7 @@ Title block:
 > (*Ṛ. Saṃ.* 1-113-2 as read)
 
 
+*(The word* āraigu *as printed, doubtful. **GLOSS**.)*
 "As it is used in such a Ṛk, Agni, in the form of the Sun, is well known as the son of Uṣas. And not only that, but —" *(continues on p. 7)*
 
 ---
@@ -712,6 +715,7 @@ Title block:
 > *atretihāsam ācakṣate | sarvam idam andhena tamasā kṣaṇenaivāvṛtam abhavat | atha tvaṣṭā dikṣv agnim ajanayat | tasminn atṛpyati pravardhamāne ākāśe prājvalan | taṃ diśo dyāvāpṛthivyau cāmṛtena tarpayitvā tatra tatra vihṛtavatya iti |*
 
 
+*(**GLOSS** The word* nṛptyati *is doubtful.)*
 "In the beginning, by the darkness, the whole world was enveloped, and Tvaṣṭṛ created Agni in the quarters. Even though materials for Agni's nourishment were lacking, when he shone in the sky, heaven and earth and the ten quarters satisfied him with nectar: such is the story, in connexion with Agni–Mātariśvan (Ṛ. Saṃ. 1-93-6 as read). Since it suits the context of the story, it is to be understood that Skandasvāmin has indicated that by *tvaṣṭṛ* just Vāyu is to be understood."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.2)** *(grammar pages, pp. 14–15, noted briefly; numerals read from small print, doubtful [?])*
@@ -799,6 +803,7 @@ Title block:
 > (*Bṛ. De.* 1-61; 1-64 as read)
 
 
+*(**GLOSS** The lines are read as printed; the second half of the first stanza is doubtful.)*
 "In these verses, in the context of describing the greatness of Agni, the author of the Bṛhaddevatā says that Prajāpati, the womb of all beings, has obtained his existence in three forms, in the form of Agni, in three places, as the source of the creation and dissolution of all moving and unmoving creatures in the past, the future and the present. And that the seers, as said below, speak of this threefold manifestation of Agni by three names, so he praises this very Agni further —"
 
 > त्रिस्थानं चैनमर्चन्ति होत्रायां वृक्तबर्हिषः ॥
@@ -814,6 +819,7 @@ Title block:
 > (*Bṛ. De.* 1-65 to 1-67 as read)
 
 
+*(**GLOSS** The word* hotrāyāṃ *and the numerals are doubtful.)*
 "Among these three kinds, for Agni who manifests on earth the name *pavamāna*, for the Agni of the middle world the name *vanaspati*, and for the Agni in the heavenly world the name *śuci* are well known. These three varieties are also read in the Taittirīya Saṃhitā (2-2-4 as read) in the division *pavamāna*, *śuci*, *pāvaka*. Besides, the names Agni, Jātavedas and Vaiśvānara too show the three places and three forms. The Nirukta-author also, citing from the Ṛksaṃhitā —"
 
 > स्तोमेन हि दिवि देवासो अग्निमजीजनञ्छक्तिभी रोदसिप्राम् ।
@@ -1377,6 +1383,7 @@ Title block:
 > (*Ṛ. Saṃ.* 6-29-3)
 
 
+*(**GLOSS**. The first quotation's* vṛtaṃ *is as printed, where* vyutaṃ *might be expected.)*
 "In Ṛks like these, in which the word *atka* is used, Sāyaṇa too has given the explanation '*rūpa*'; only in one place here he says 'sap'. In this context Skandasvāmin's sense seems appropriate. In places such as Ṛ. Saṃ. 5-74-5; 9-69-4 the meaning is 'armour' (*kavaca*), in 6-33-3 'weapon', and in 10-49-3 'the child of a demon' [as read from small print, the first two doubtful [?]]."
 
 ***mātṛbhyaḥ*** — *svamātṛsthānīyebhyo vṛṣṭyudakebhyaḥ sakāśāt*: "'from the rain-waters standing in the place of his mothers' — so Sāyaṇa; and, because the quarters, too, are mothers, since they give birth to Agni (*mātaro 'pi diśaḥ agner janakatvāt*), Skandasvāmin explains the word *mātṛ* here as quarters, and *mātṛbhyaḥ* as 'from the quarters'. If this is done, the whole sense of the sentence differs. If 'from the rain-waters' is meant, then *navā vasanā jahāti* — 'he gives up his new garment'…" *(continues on p. 42)*
@@ -2035,6 +2042,7 @@ Title block:
 > (*Ṛ. Saṃ.* 1-79-4 as read)
 
 
+*(**GLOSS**. The first verse's first word is printed *drannaḥ* (Kannada script, as read), doubtful.)*
 "In these Ṛks the words *sahasaspūtra*, *sahasaḥ sūnu* and *sahaso yaho* are, respectively, used in praising Agni. Therefore, although other deities too can give strength and wealth, it is Agni, particularly, who is presented by the word *draviṇodāḥ*."
 
 ### Page 67 (PDF 87)
@@ -2256,12 +2264,14 @@ Title block:
 > (*Ai. Brā.* 10-1; 10-2)
 
 
+*(**GLOSS** The print's* prajāyeyeti bhūyān syām *reads as in Kannada* bhūyonyāmiti*, doubtful, and* prādeśa padā *is as printed.)*
 "In the beginning Prajāpati, being alone, wished for the creation of creatures — 'may I be born many' — and for a year practised silence and austerity. Afterwards, having recited twelve times the *nivid* mantras that are contained in twelve great sentences, he created all the beings of the world: so the power of these mantras is shown, and, understanding their secret, Kutsa praised both them and the Ṛk composed by him in this way —"
 
 > तदेतदृषिः पश्यन्नभ्यनूवाच स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनामिति ।
 > *tad etad ṛṣiḥ paśyann abhyanūvāca sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām iti |*
 
 
+*(**GLOSS** The two words* kavyatāyoḥ *are as printed in this quotation.)*
 "By the power of the *nivid* mantras all the beings of the world were created: Kutsa, grasping this principle, composed this mantra, '*sa pūrvayā*' (Ṛ. Saṃ. 1-96-2)."
 
 > तस्मा एतां पुरस्तात्सूक्तस्य निविदं दधाति प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद ।
@@ -2282,6 +2292,7 @@ Title block:
 > (*Bṛ. De.* 3-50)
 
 
+*(**GLOSS** The verse is read as printed, doubtful in several words.)*
 "For example, in the first Ṛk of 1-24-3, the *nivid* mantra addressed to the deity Savitṛ shows the distinctive character of Savitṛ by describing his extraordinary actions. By *dogdhrī* is understood a cow that gives milk; by *āśu* ('swift'), the horse; by *voḷhā*, the draught-ox that bears the load — so they show the distinctive character of these. In the same way the *nivid* mantra of every deity praises, by describing the actions, the qualities that are special to that deity."
 
 "In this Ṛk composed by Kutsa the twelve great mantras, [implied by the words] *pūrvayā nividā*, which are addressed to Agni, are explained, each one separately, in the Aitareya Brāhmaṇa (Ai. Brā. 10-2):"
@@ -2333,6 +2344,7 @@ Title block:
 > (*Ṛ. Saṃ.* 6-67-10)
 
 
+*(**GLOSS**. The Ṛgveda numerals are as read from small print, doubtful; the third verse's first words are doubtful.)*
 "The greatness of the *nivid* mantras is stated in the Taittirīya Brāhmaṇa (3-5-6) — the *nivid* mantra relating to Agni:"
 
 > देवेद्धो मन्विद्धः ऋषिष्टुतो विप्रानुमदितः कविशस्तो ब्रह्मसंशितो घृतापवनः प्रणीर्यज्ञानां रथीरध्वराणामतूर्तो होता तूर्णिर्हव्यवाट् । आस्पात्रं जुहूर्देवानां चमसो देवपानः । अरां इवाग्ने नेमिर्देवांस्त्वं परिभूरसि ॥
@@ -2390,6 +2402,7 @@ Title block:
 > (*Ṛ. Saṃ.* 2-14-7 as read)
 
 
+*(The print's* kṣṛvaṇigbharatā *is as read from the Kannada and is doubtful; **GLOSS**.)*
 "In such places it appears that Kutsa, Atithigva and Āyu were all, in a legendary way, adversaries needed by Indra. In many places also, 'to Āyu, the son of Urvaśī, of the royal seer of the Paururava line' (*paururavasya rājarṣeḥ ūrvaśeyāya āyave*) and 'to Manu' (*manave*) is explained. Therefore the name *āyu*, in various places, indicates different persons; this is clear."
 
 ***dyāṃ apaś ca*** — "*svatejasā dyāṃ ca antarikṣaṃ ca vyāpnoti*: 'with his own radiance he pervades the heavenly world and the atmosphere'. That is —"
@@ -3290,6 +3303,7 @@ Title block:
 > *atra chandogabrāhmaṇād itihāsam ācakṣate | kutsaś ca luśaś ca indraṃ vṛṣṇayeṣām | sa indraḥ kutsam upāvartata śataṃ śakena vādribhir aṇḍayor abadhnād iti | tad etal luśa indrarūpadhām āpanno vaskṛtīti |*
 
 
+*(**GLOSS**. The Sanskrit is clotted in the print and is read as given, doubtful throughout.)*
 > प्र मुञ्चस्व परि कुत्सादिहा गहि किमु त्वावान्मुष्कयोर्बद्ध आसते ।
 > *pra muñcasva pari kutsād ihā gahi kim u tvāvān muṣkayor baddha āsate |*
 > (*Ṛ. Saṃ.* 10-38-5)
@@ -3905,6 +3919,7 @@ Title block:
 > (*Ṛ. Saṃ.* 7-65-2)
 
 
+*(**GLOSS**. Numerals read from small print, doubtful.)*
 "In many such places the comparison of the deities' help to a boat, which carries across a river that is deep and has strong currents, is most apt. In the present context, since sin is of the nature of an enemy, it is prayed that Agni should make Kutsa fit for his protection by destroying sin, and that Agni's boat-like favour and help are altogether necessary."
 
 ***svastaye*** — *svastir ity avināśanāma | astir abhipūjitaḥ su āsti iti*: "*svasti* is the name for 'not being destroyed': *asti* is 'being well honoured': it is well known as *svasti*. *Asti*, that which is excellent, endowed with beauty and permanent, means life, that is the purport (Ni. 3-21). The Nirukta-author explains it as 'life with good fortune', and, citing the Ṛk —"

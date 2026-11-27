@@ -52,7 +52,7 @@ for i, l in enumerate(L):
         if re.search('[\u0900-\u097F]', t) or (t.startswith('*') and not t.startswith('*(')): c = 'BLOCK'
         elif (t.startswith('(') or t.startswith('*(')) and not DIG.search(t): c = 'BLOCK'
         else: c = 'OTHER'
-    elif is_remark(l) and not DIG.search(l) and not KNS.search(l) and BOIL.search(l) and len(l) < 260 and not re.search(r'Sense|Gist|Translation|means|meaning', l): c = 'BARE'
+    elif is_remark(l) and not DIG.search(l) and not KNS.search(l) and BOIL.search(l) and len(l) < 260 and not re.search(r'Sense|Gist|Translation|means|meaning|GLOSS|\[sic', l): c = 'BARE'   # a **GLOSS** marker or a [sic] stays (user, Nov 24 2026; Vol 8 lost 15 GLOSS markers by this class and got them back)
     else: c = 'OTHER'
     cls[i] = c; cnt[c] += k; ex[c].append(i)
 print(f'NUMREAD: {nr} places settled from the Kannada page; marks left after it:', sum(l.count('[?]') for l in L), 'of', sum(l.count('[?]') for l in L0))
