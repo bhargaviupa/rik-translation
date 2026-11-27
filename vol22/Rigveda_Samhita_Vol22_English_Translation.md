@@ -11572,6 +11572,263 @@ Awakening with praises the horse-deity called Dadhikrā, urging him on, beginnin
 ##### English translation
 Arousing and animating Dadhikra, proceeding diligently with the sacrifice: seating the divine Ila on the sacred grass, let us invoke the intelligent and worthily-invoked Ashwins.
 
+### Printed p. 259
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्रावा॑णं बुबुधा॒नो अ॒ग्निमुप॑ ब्रुव उ॒षसं॒ सूर्यं॒ गां ।  
+> ब्र॒ध्नं मं॑श्च॒तोर्वरु॑णस्य ब॒भ्रुं ते विश्वा॒स्मद्दु॑रि॒ता या॑वयंतु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्रावाणं । बुबुधानः । अग्निं । उप । ब्रुवे । उषसं । सूर्यं । गां ।  
+> ब्रध्नं । मंश्चतोः । वरुणस्य । बभ्रुं । ते । विश्वा । अस्मत् । दुःइता । यवयंतु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दधिक्रावाणमश्वविशेषं बुबुधानः स्तोत्रेण बोधयन्नहमग्निं देवमुप ब्रुवे । उपस्तौमि । तथा चोषसमुषोदेवतां सूर्यं सर्वस्य प्रेरकं देवं गां भूमिं । वाग्देवतां वा । एवंभूतान्देवानहमुपस्तौमि । मंश्चतोः । मन्यमानान् स्तुवतो जनांश्चेतयते जानातीति यद्वाभिमन्यमानांश्चाशयते नाशयतीति मंश्चतुः । तस्य वरुणस्य ब्रध्नं महांतं बभ्रुं पिंगलवर्णमश्वं तस्यानयनार्थमहमुप ब्रुवे । ते देवा अस्मदस्मत्तो विश्वा विश्वानि सर्वाणि दुरिता दुरितानि पापानि यवयंतु । पृथक्कुर्वंतु ॥
+
+##### Gist of the bhāṣya
+
+I, arousing with praise the horse Dadhikrāvan, address Agni, the deity, in praise. Likewise I praise Uṣas, the deity of dawn; Sūrya, the god who impels all; and Gō, the earth, or else the goddess of speech. Maṃścatu is explained as one who makes aware (चेतयते (*cetayate*)) the people who think and praise, or else one who destroys (नाशयतीति (*nāśayatīti*)) those who are arrogant. I call upon the great, tawny-coloured horse of that Varuṇa, for the purpose of bringing him. May those gods separate from us (put apart) all sins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दधिक्रावाणं (*dadhikrāvāṇaṃ*)—the particular horse named Dadhikrā
+- बुबुधानः (*bubudhānaḥ*)—I, who awaken with praises
+- अग्निं (*agniṃ*)—Agni
+- उप ब्रुवे (*upa bruve*)—I praise
+- उषसं (*uṣasaṃ*)—Uṣas the goddess
+- सूर्यं (*sūryaṃ*)—Sūrya the god
+- गां (*gāṃ*)—the goddess of speech
+- मंश्चतोः (*maṃścatoḥ*)—of the one who stimulates the praisers
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- ब्रध्नं (*bradhnaṃ*)—of great form
+- बभ्रुं (*babhruṃ*)—golden-coloured; I praise that horse
+- ते (*te*)—all these deities
+- अस्मत् (*asmat*)—from us
+- विश्वा (*viśvā*)—all
+- दुरिता (*duritā*)—sins
+- यावयंतु (*yāvayaṃtu*)—let them separate (destroy)
+
+##### भावार्थ (Bhāvārtha)
+
+I, who awaken with praises the horse Dadhikrā, praise Agni. I also praise Uṣas, Sūrya, the goddess of speech, and the great, golden-coloured horse of Varuṇa, who stimulates the praisers. May all these deities remove from us all sins (destroy them).
+
+### Printed p. 260
+
+##### English translation
+Propitiating Dadhikravan, I glorify Agni, Ushas, the sun, the earth, the great brown horse of Varuna, who is mindful of his adorers : may they put far away from us all, iniquities.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒धि॒क्रावा॑ प्रथ॒मो वा॒ज्यर्वाग्रे॒ रथा॑नां भवति प्रजा॒नन् ।  
+> सं॒वि॒दा॒न उ॒षसा॒ सूर्ये॑णादि॒त्येभि॒र्वसु॑भि॒रंगि॑रोभिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधिक्रावा । प्रथमः । वाजी । अर्वा । अग्रे । रथानां । भवति । प्रजानन् ।  
+> संविदानः । उषसा । सूर्येण । आदित्येभिः । वसुभिः । अंगिरःभिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमः सर्वेषामश्वानां मुख्यो वाजी शीघ्रगाम्यर्वा गमनशीलो दधिक्रावाश्वरूपो देवः प्रजानन् रथसंयोजनीयांस्तानश्वानधिष्ठाय ज्ञातव्यानि सम्यग्जानन् रथानामग्रे प्रमुखो भवति । कीदृशोऽश्वः । उषसोषोदेवतया सूर्येण सर्वस्य प्रेरकेण देवेनादित्येभिरादित्यैश्च वसुभिश्चांगिरोभिर्देवैः सह स्तोतव्यैर्ऋषिभिश्च संविदानः सम्यग्जानन् । ऐकमत्यं प्राप्त इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Dadhikrāvan, the god in the form of a horse, is first, chief of all horses, swift (वाजी (*vājī*)) and a goer (अर्वा (*arvā*)). Presiding over the horses to be yoked to the chariots and knowing well what is to be known, he becomes foremost in front of the chariots. What kind of horse? One who is in accord (संविदानः (*saṃvidānaḥ*)) with Uṣas the deity, with Sūrya the god who impels all, with the Ādityas, the Vasus and the Aṅgirases, gods together with the sages to be praised; that is, he has attained unity of mind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण (*sūryeṇa*)—with Sūrya
+- आदित्येभिः (*ādityebhiḥ*)—with the Ādityas
+- वसुभिः (*vasubhiḥ*)—with the Vasus
+- अंगिरोभिः (*aṃgirobhiḥ*)—with the Aṅgirases
+- संविदानः (*saṃvidānaḥ*)—one united
+- प्रथमः (*prathamaḥ*)—the chief among all horses
+- वाजी (*vājī*)—swift
+- अर्वा (*arvā*)—a goer
+- दधिक्रावा (*dadhikrāvā*)—the god presiding over the horse named Dadhikrā
+- प्रजानन् (*prajānan*)—knowing all that is to be known
+- रथानां (*rathānāṃ*)—of the chariots
+- अग्रे (*agre*)—in the front part
+- भवति (*bhavati*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The god presiding over the horse Dadhikrā, united with Uṣas, Sūrya, the Ādityas, the Vasus and the Aṅgirases, the chief of all horses, swift and a goer, knowing all that is to be known, shines at the front of the chariots (ahead).
+
+### Printed p. 261
+
+##### English translation
+Dahikravan, the swift steed, the first (of horses), knowing (his office), is in the front of the chariots (of the gods), consentient with Ushas, with Surya, with the Adityas, with the Vasus, with the Angirasas.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दधि॒क्राः प॒थ्या॑मनक्त्वृ॒तस्य॒ पंथा॒मन्वे॑त॒वा उ॑ ।  
+> शृ॒णोतु॑ नो॒ दैव्यं॒ शर्धो॑ अ॒ग्निः शृ॒ण्वंतु॒ विश्वे॑ महि॒षा अमू॑राः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । दधिक्राः । पथ्यां । अनक्तु । ऋतस्य । पंथां । अनुएतवै । ऊं इति ।  
+> शृणोतु । नः । दैव्यं । शर्धः । अग्निः । शृण्वंतु । विश्वे । महिषाः । अमूराः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दधिक्रा अश्वरूपो देव ऋतस्य यज्ञस्य पंथां पंथानं मार्गमन्वेतवा अनुगंतुं प्रवृत्तानां नोऽस्माकं पथ्यां पदवीमानक्तु । उदकेनासिंचतु । उ इति पूरणः । दैव्यं शर्धो देवसंबंधि बलमिद्यग्रूपोऽग्निर्नोऽस्मदीयं हवं शृणोतु । अमूरा अमूढा महिषा महांतो विश्वे सर्वे देवा अस्मदीयं हवं शृण्वंतु ॥
+
+##### Gist of the bhāṣya
+
+Dadhikrā, the god in the form of a horse, is asked to sprinkle with water the path (पथ्यां (*pathyāṃ*)) of us who have set out to follow the way of the sacrifice (ऋतस्य (*ṛtasya*)). उ (*u*) is a filler. May Agni, in the form of the divine strength (शर्धः (*śardhaḥ*)) belonging to the gods, hear our invocation. May all the great, unbewildered (अमूराः (*amūrāḥ*)) gods hear our invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दधिक्राः (*dadhikrāḥ*)—the god Dadhikrā
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पंथां (*paṃthāṃ*)—the path
+- अन्वेतवै (*anvetavai*)—to follow
+- नः (*naḥ*)—to us who have striven
+- पथ्यां (*pathyāṃ*)—the path fit for travel
+- आ अनक्तु (*ā anaktu*)—let him sprinkle with water
+- दैव्यं (*daivyaṃ*)—belonging to the gods
+- शर्धः (*śardhaḥ*)—in the form of strength
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our invocation
+- शृणोतु (*śṛṇotu*)—let him hear
+- अमूराः (*amūrāḥ*)—the wise
+- महिषाः (*mahiṣāḥ*)—the great-souled
+- विश्वे (*viśve*)—all deities
+- शृण्वंतु (*śṛṇvaṃtu*)—let them hear our invocation
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Dadhikrā sprinkle with water a path fit for travel for us, who have striven to follow the path of the sacrifice. May Agni, strength to the gods, hear our invocation. May all the wise and great-souled deities hear our invocation.
+
+### Printed p. 262
+
+##### English translation
+May Dadhikra sprinkle our path (with water), that we may follow the road of sacrifice : may Agni, the strength of the gods, hear our (invocation) : may the mighty, unperplexed, universal deities hear it.
+
+## Sūkta 45 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ देवो यात्विति चतुर्ऋचं द्वादशं सूक्तं वसिष्ठस्यार्षं सवितृदेवताकं त्रैष्टुभं । आ देवश्चतुष्कं सावित्रमित्यनुक्रांतं ॥ व्यूळ्हे दशरात्रे चतुर्थेऽहनि वैश्वदेवशस्त्र इदं सावित्रनिविद्धानं । सूत्र्यते हि । चतुर्थेऽहन्या देवो यातु.... । आ. ४-८ ॥ ........इत्येषा वपानुवाक्या । सूत्रितं च । आ देवो यातु सविता सुरत्नः स घा नो देवः सविता सहावा । आ. ३-७ । इति ॥ अश्वमेधेऽनुसवनं तिस्रः सावित्र्य इष्टयः । तत्र द्वितीयस्यामिष्ट्या याज्येयं । सूत्रितं च । य इमा विश्वा जातान्या देवो यातु । आ. १०-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आ देवो यातु (*ā devo yātu*) is a hymn of four Ṛks, the twelfth sūkta; its seer is Vasiṣṭha, its deity Savitṛ, its metre Triṣṭubh. The Anukramaṇī says आ देवश्चतुष्कं सावित्रं (*ā devaścatuṣkaṃ sāvitraṃ*). Viniyoga: in the Vyūḍha Daśarātra, on the fourth day, in the Vaiśvadevaśastra, this is the Sāvitra nividdhāna. It is stated in the sūtra: चतुर्थेऽहन्या देवो यातु.... । आ. ४-८ ॥ (*caturthe 'hanyā devo yātu.... | ā. 4-8 ‖*); this is the vapā-anuvākyā, and it is set out in the sūtra आ देवो यातु सविता सुरत्नः स घा नो देवः सविता सहावा । आ. ३-७ (*ā devo yātu savitā suratnaḥ sa ghā no devaḥ savitā sahāvā | ā. 3-7*). In the Aśvamedha, at the after-pressing (anusavana), there are three Sāvitrī oblations (iṣṭi); in the second of them this is the yājyā, and it is set out in the sūtra य इमा विश्वा जातान्या देवो यातु । आ. १०-६ (*ya imā viśvā jātānyā devo yātu | ā. 10-6*).
+
+Anuvāda: this sūkta आ देवो यातु (*ā devo yātu*) is the twelfth sūkta in the third anuvāka, with four Ṛks. Its seer is Vasiṣṭha, deity Savitṛ, metre Triṣṭubh. The Anukramaṇī says आ देवश्चतुष्कं सावित्रं (*ā devaścatuṣkaṃ sāvitraṃ*). In the ten-night sacrifice called Vyūḍha, when reciting the mantras of the Vaiśvadeva śastra on the fourth day, this sūkta is to be added and recited as the nividdhānīya sūkta addressed to Savitṛ, as explained by the Āśvalāyana Śrauta Sūtra चतुर्थेऽहन्या देवो यातु....... (*caturthe 'hanyā devo yātu.......*) (Ā. 4-8). In the ...... the first Ṛk of this sūkta is to be recited as the anuvākyā mantra in the vapā offering, as explained by the Āśvalāyana Śrauta Sūtra आ देवो यातु सविता सुरत्नः स घा नो देवः सविता सहावा (*ā devo yātu savitā suratnaḥ sa ghā no devaḥ savitā sahāvā*) (Ā. 3-7). In the Aśvamedha sacrifice, in the anusavana rite, three iṣṭis connected with Savitṛ are to be performed; in that context, in the second iṣṭi this Ṛk is to be recited as the yājyā mantra, as explained by the Āśvalāyana Śrauta Sūtra य इमा विश्वा जातान्या देवो यातु (*ya imā viśvā jātānyā devo yātu*) (Ā. 10-6).**NOTE**
+
+Sūkta 45; Maṇḍala 7; Anuvāka 3; Aṣṭaka 5, Adhyāya 4, Varga 12; number of Ṛks in the sūkta: 4; Ṛṣi: Vasiṣṭha; Devatā: Savitā; Chandas: Triṣṭubh.
+
+### Printed p. 263
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दे॒वो या॑तु सवि॒ता सु॒रत्नो॑ऽंतरिक्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।  
+> हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शयं॑च्च प्रसु॒वंच्च॒ भूम॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । देवः । यातु । सविता । सुरत्नः । अंतरिक्षप्राः । वहमानः । अश्वैः ।  
+> हस्ते । दधानः । नर्या । पुरूणि । निवेशयन् । च । प्रसुवन् । च । भूम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुरत्नः शोभनरत्नोपेतोऽंतरिक्षप्राः स्वकीयेन तेजसांतरिक्षस्य पूरयिताश्वैः स्वकीयैर्वाहैर्वहमान उह्यमानः सविता सर्वस्य प्रेरको देव आ यातु । आगच्छतु । कीदृशः । नर्या नर्याणि मनुष्यहितानि पुरूणि बहूनि धनानि हस्ते पाणौ दधानो दातुं धारयन् भूम भूतानि निवेशयंश्च रात्रिषु स्वे स्थाने स्थापयंश्च प्रसुवंश्चाहःसु प्रेरयंश्च । एवंभूतः सविता देव आ यातु ॥
+
+##### Gist of the bhāṣya
+
+May the god Savitā, the impeller of all, come: he is possessed of fine jewels (सुरत्नः (*suratnaḥ*)), fills the firmament (अंतरिक्षप्राः (*aṃtarikṣaprāḥ*)) with his own radiance, and is borne by his horses. How is he? Holding in his hand (हस्ते (*haste*)) many treasures (नर्या (*naryā*), good for men), meaning to give them; settling (निवेशयन् (*niveśayan*)) beings (भूम (*bhūma*)) in their own places at night, and impelling (प्रसुवन् (*prasuvan*)) them to action by day. Such a Savitā, the god, may he come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नर्या (*naryā*)—beneficial to men
+- पुरूणि (*purūṇi*)—abundant treasures
+- हस्ते (*haste*)—in the hand
+- दधानः (*dadhānaḥ*)—holding
+- भूम (*bhūma*)—all beings
+- निवेशयंश्च (*niveśayaṃśca*)—and settling in their own places at night-times
+- प्रसुवंश्च (*prasuvaṃśca*)—and making them intent on work by day
+- सुरत्नः (*suratnaḥ*)—possessed of excellent wealth
+- अंतरिक्षप्राः (*aṃtarikṣaprāḥ*)—pervading all the firmaments with his own radiance
+- अश्वैः (*aśvaiḥ*)—by horses
+- वहमानः (*vahamānaḥ*)—borne
+- सविता (*savitā*)—the impeller of all
+- देवः (*devaḥ*)—the god Savitṛ
+- आ यातु (*ā yātu*)—may he graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+Holding in his hand abundant treasures beneficial to men, settling all beings in their own places at night and making them intent on work by day, possessed of excellent wealth, pervading all the firmaments with his own radiance, borne by horses, the impeller of all, may the god Savitṛ graciously come. (May he rise.)
+
+##### English translation
+Borne by his steeds, may the divine Savitri, who ie possessed of precious treasure, and filling the firmament (with radiance), come hither, holding in his hands many things good for man, and (both) tranquillizing and animating living beings.
+
+### Printed p. 264
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑स्य बा॒हू शि॑थि॒रा बृ॒हंता॑ हिर॒ण्यया॑ दि॒वो अंता॑ अनष्टां  
+> नू॒नं सो अ॑स्य महि॒मा प॑निष्ट॒ सूर॑श्चिदस्मा॒ अनु॑ दादप॒स्यां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अस्य । बाहू इति । शिथिरा । बृहंता । हिरण्यया । दिवः । अंतान् । अनष्टां ।  
+> नूनं । सः । अस्य । महिमा । पनिष्ट । सूरः । चित् । अस्मै । अनु । दात् । अपस्यां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शिथिरा शिथिलौ दानार्थं प्रसारितौ बृहंता बृहंतौ महांतौ हिरण्यया हिरण्मयौ सुवर्णमयावस्य सवितुः संबंधिनौ बाहू हस्तौ दिवोऽंतरिक्षस्यांतान् पर्यंतानुदनष्टां । ऊर्ध्वं संतौ व्याप्नुवतां । नूनमद्यास्येदृग्भूतस्य सवितुः स
+> तादृशो महिमा महत्त्वं पनिष्ट । अस्माभिः स्तूयते । सूरश्चित् सूर्योऽप्यस्मै सवित्रेऽपस्यां कर्मेच्छामनु दात् । अनुददातु ॥
+
+##### Gist of the bhāṣya
+
+The two arms (बाहू (*bāhū*)) of this Savitā, relaxed (शिथिरा (*śithirā*), stretched out for giving), vast, golden, reach up (उदनष्टां (*udanaṣṭāṃ*)) to the ends of the sky (दिवः (*divaḥ*), the firmament), pervading while above. Now the greatness (महिमा (*mahimā*)) of such a Savitā is praised (पनिष्ट (*paniṣṭa*)) by us. May Sūrya also grant (अनु दात् (*anu dāt*)) to this Savitā the wish for action (अपस्यां (*apasyāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Savitṛ
+- शिथिरा (*śithirā*)—spread out for giving
+- बृहंता (*bṛhaṃtā*)—extensive
+- हिरण्यया (*hiraṇyayā*)—golden
+- बाहू (*bāhū*)—the arms
+- दिवः (*divaḥ*)—of the firmament
+- अंतान् (*aṃtān*)—the end parts
+- उदनष्टां (*udanaṣṭāṃ*)—have spread covering
+- नूनं (*nūnaṃ*)—now
+- अस्य (*asya*)—of such a Savitṛ
+- सः (*saḥ*)—that famous
+- महिमा (*mahimā*)—greatness
+- पनिष्ट (*paniṣṭa*)—is praised
+- सूरश्चित् (*sūraścit*)—Sūrya too
+- अस्मै (*asmai*)—to this Savitṛ
+- अपस्यां (*apasyāṃ*)—the wish for action
+- अनु दात् (*anu dāt*)—may he grant
+
+##### भावार्थ (Bhāvārtha)
+
+The arms of this Savitṛ, spread out for giving, extensive and golden, have spread covering the end parts of the firmament. Now the famous greatness of such a Savitṛ is praised. May Sūrya also grant to this Savitṛ the wish for action.
+
+##### English translation
+May the outspread, vast, and golden arms of Savitri extend to the ends of the sky : verily his greatness is glorified (by us): may the sun impart energy unto him.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स घा॑ नो दे॒वः स॑वि॒ता स॒हावा सा॑विष॒द्वसु॑पति॒र्वसू॑नि ।
+
 ---
 
-**Progress note:** Done through printed p. 258. pp. 253-258 (batch API)
+**Progress note:** Done through printed p. 264. pp. 259-264 (batch API)
