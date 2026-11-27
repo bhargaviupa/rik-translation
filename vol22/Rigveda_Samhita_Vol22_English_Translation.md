@@ -5583,6 +5583,244 @@ The sūkta beginning श्वित्यंचे (*śvityaṃce*) has fourtee
 
 The thirty-third sūkta. This sūkta beginning श्वित्यंचे (*śvityaṃce*) is the sixteenth sūkta in the second anuvāka. It has fourteen Ṛks. The Anukramaṇikā says श्वित्यंचः षळॊना संस्तवो वसिष्ठस्य सपुत्रस्येंद्रेण वा संवादः (*śvityaṃcaḥ ṣaḷònā saṃstavo vasiṣṭhasya saputrasyeṃdreṇa vā saṃvādaḥ*). For the first nine Ṛks of this sūkta Vasiṣṭha is the seer. Since the matter of Vasiṣṭha's sons is stated in these nine Ṛks, the praise of Vasiṣṭha's sons is the deity of these Ṛks. In the next five Ṛks of this sūkta, beginning विद्युतो ज्योतिः (*vidyuto jyotiḥ*), the sage Vasiṣṭha is the subject, so the praise of Vasiṣṭha is the deity of those Ṛks. The sons of Vasiṣṭha are the seers. The metre is Triṣṭubh.
 
+### Printed p. 127
+Anuvāka 2, Sūkta 33; Aṣṭaka 5, Adhyāya 2, Vargas 22, 23, 24. Number of Ṛks in the sūkta: 14. संस्तवो वसिष्ठस्य सपुत्रस्येंद्रेण वा संवादः (*saṃstavo vasiṣṭhasya saputrasyeṃdreṇa vā saṃvādaḥ*). Ṛṣi: Ṛks 1-9 Vasiṣṭha; 10-14 the sons of Vasiṣṭha. Devatā: Ṛks 1-9 the sons of Vasiṣṭha; 10-14 Vasiṣṭha. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्वि॒त्यंचो॑ मा दक्षिण॒तस्क॑पर्दा धियंजि॒न्वासो॑ अ॒भि हि प्र॑मं॒दुः ।  
+> उ॒त्तिष्ठ॑न्वोचे॒ परि॑ ब॒र्हिषो॒ न्यान्न मे॑ दू॒रादवि॑तवे॒ वसि॑ष्ठाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वित्यंचः । मा । दक्षिणतःकपर्दाः । धियंजिन्वासः । अभि । हि । प्रमंदुः ।  
+> उत्तिष्ठन् । वोचे । परि । बर्हिषः । नॄन् । न । मे । दूरात् । अवितवे । वसिष्ठाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वित्यंचः । श्वित्यं श्वेतवर्णमंचंतीति श्वित्यंचः । श्वेतवर्णा इत्यर्थः । धियंजिन्वासः कर्मणां पूरयितारो दक्षिणतस्कपर्दाः । दक्षिणे शिरसो भागे कपर्दाश्चूडा येषां ते दक्षिणतस्कपर्दाः । चूडाकर्मणि दक्षिणतो वसिष्ठानामिति स्मर्यते । मा मामभि प्रमंदुः । विद्याबलेनाभिप्रहर्षयन् । यतो मामभि प्रमंदुरतो बर्हिषो यज्ञात् । परीति पंचम्यर्थानुवादः । उत्तिष्ठन्नहं न्यान्यज्ञस्य नेतृन्वोचे । ब्रवीमि । मे मत्तो दूराद्वसिष्ठा वसिष्ठस्य मम पुत्रा आवितवे गंतुं नार्हंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+श्वित्यंचः (*śvityaṃcaḥ*): those who go to (are) white-coloured, that is, white in colour. धियंजिन्वासः (*dhiyaṃjinvāsaḥ*): those who fulfil rites. दक्षिणतस्कपर्दाः (*dakṣiṇataskapardāḥ*): those whose tufts (cūḍā) are on the right part of the head; it is recalled in the tonsure rite, "on the right for the Vasiṣṭhas". मा मामभि प्रमंदुः (*mā māmabhi pramaṃduḥ*): they have delighted me by the power of their learning. Because they have delighted me, I, rising up from the sacred grass (the sacrifice), call the leaders of the rite; the word परि (*pari*) merely restates the ablative sense. The Vasiṣṭhas, my sons, are not fit to go far from me (this is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्वित्यंचः (*śvityaṃcaḥ*)—those of white colour
+- धियंजिन्वासः (*dhiyaṃjinvāsaḥ*)—those who fully carry out rites
+- दक्षिणतस्कपर्दाः (*dakṣiṇataskapardāḥ*)—(my sons) who have the tuft on the right side of the head
+- मा (*mā*)—me
+- अभिप्रमंदुः (*abhipramaṃduḥ*)—have gladdened by their learning
+- बर्हिषः परि (*barhiṣaḥ pari*)—from the place of sacrifice
+- उत्तिष्ठन् (*uttiṣṭhan*)—rising
+- न्यान् (*nyān*)—those leaders of the sacrifice
+- वोचे (*voce*)—I call
+- मे (*me*)—than me
+- दूरात् (*dūrāt*)—in a distant place
+- वसिष्ठाः (*vasiṣṭhāḥ*)—the sons of Vasiṣṭha
+- अवितवे (*avitave*)—to go away
+- न हि (*na hi*)—I do not allow
+
+### Printed p. 128
+
+##### भावार्थ (Bhāvārtha)
+
+The Vāsiṣṭhas, white in colour, who fully carry out rites and have the tuft on the right side of the head, have gladdened me by their learning. After rising from the place of sacrifice I call them, the leaders of the sacrifice. I do not allow these sons of Vasiṣṭha to be in a place farther than I am, or to go away from here.
+
+##### English translation
+The white-complexioned accomplishers of holy ceremonies, wearing the lock of hair on the right side, have afforded me delight, when, rising up, I call the leaders (of rites) to the sacred grass : the Vasishthas, (my sons) should never be far from me.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta a matter in the form of a dialogue between the sage Vasiṣṭha and his sons, or Indra, is stated. In Ṛks 1-9 the sage Vasiṣṭha speaks of his sons; in Ṛks 10-14 the sons of Vasiṣṭha speak of their father, the sage Vasiṣṭha.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒रादिंद्र॑मनय॒न्ना सु॒तेन॑ ति॒रो वै॑शं॒तमति॒ पांत॑मु॒ग्रं ।  
+> पाश॑द्युम्नस्य वाय॒ुतस्य॒ सोमा॑त्सु॒तादिंद्रो॑ऽवृणीता॒ वसि॑ष्ठान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूरात् । इंद्रं । अनयन् । आ । सुतेन । तिरः । वैशंतं । अति । पांतं । उग्रं ।  
+> पाशद्युम्नस्य । वायतस्य । सोमात् । सुतात् । इंद्रः । अवृणीत । वसिष्ठान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदा वसिष्ठस्य पुत्राः सुदासं राजानमयोजयन् तदैव पाशद्युम्नाख्योऽपि राजा सोमास्यष्टमुद्यमं चकार । तदा ते वसिष्ठपुत्राः पाशद्युम्नं तिरस्कृत्य तदीयो यागे सोमं पिबंतमिंद्रं मंत्रबलेन तस्मादाच्छिद्य सुदासो यज्ञे स्थापयामासुः । तदेतद्वृत्तांतं कीर्तयन् वसिष्ठः स्वसुताननेन मंत्रेण स्तौति ॥ वैशंतं । वेशंतः पल्वलं । अत्र वेशंतशब्देन सोमाधारक्षुद्रसरो लक्ष्यते । तत्स्थं सोमं पांतं पिबंतमुग्रमुद्गूर्णमिंद्रं सुतेन सुदासो यज्ञेऽभिषुतेन सोमेन हेतुना तिरः पाशद्युम्नं तिरस्कृत्य दूरादानयन् । वसिष्ठा मंत्रबले-
+
+### Printed p. 129
+
+> नानीतवंतः । इंद्रोऽपि वायतस्य वयतः पुत्रस्य पाशद्युम्नस्य । द्वितीयार्थे षष्ठी । वायतं पाशद्युम्नमत्यतिहाय सुदासो यज्ञेऽभिषुतात्सोमाद्देशोर्वसिष्ठान्वसिष्ठस्य पुत्रानवृणीत । पाशद्युम्नस्य सोमयागे चमसस्थं सोमं पिबन्नपींद्रस्तं पाशद्युम्नं तिरस्कृत्य मंत्रसामर्थ्यबलेन सुदासो यज्ञ आहवनकाले वसिष्ठानाजगामेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When the sons of Vasiṣṭha engaged King Sudās in the sacrifice, the king named Pāśadyumna also undertook a Soma sacrifice. Then the sons of Vasiṣṭha slighted Pāśadyumna and, by the power of their mantra, took Indra, who was drinking Soma at his sacrifice, away from him and established him at Sudās's sacrifice. Vasiṣṭha praises his sons with this mantra, telling that event. वैशंतं (*vaiśaṃtaṃ*): वेशंतः (*veśaṃtaḥ*) is a small pool; here the word वेशंत (*veśaṃta*) denotes the small lake that holds the Soma. Indra, fierce and uplifted, was drinking the Soma in it; because of the Soma pressed at Sudās's sacrifice, they brought him from afar, slighting Pāśadyumna; the Vasiṣṭhas brought him by the power of the mantra. Indra too, leaving aside Pāśadyumna, the son of Vayata (the genitive is in the sense of the accusative), chose the sons of Vasiṣṭha, from the Soma pressed at Sudās's sacrifice. The meaning: though Indra was drinking the Soma in the cup at Pāśadyumna's Soma sacrifice, he slighted him and, by the strength of the mantra's power, came to the Vasiṣṭhas at the time of the invocation at Sudās's sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैशंतं (*vaiśaṃtaṃ*)—the Soma in the cup, deep like a pool
+- पांतं (*pāṃtaṃ*)—who was drinking
+- उग्रं (*ugraṃ*)—and fearsome
+- इंद्रं (*iṃdraṃ*)—Indra
+- सुतेन (*sutena*)—on account of the Soma pressed at Sudās's sacrifice
+- तिरः (*tiraḥ*)—slighting Pāśadyumna
+- दूरात् (*dūrāt*)—from very far
+- आ अनयन् (*ā anayan*)—they brought
+- इंद्रः (*iṃdraḥ*)—Indra, however
+- वायतः (*vāyataḥ*)—the son of Payata **NOTE**
+- पाशद्युम्नस्य (*pāśadyumnasya*)—Pāśadyumna
+- अति (*ati*)—abandoning
+- सोमात् (*somāt*)—for Sudās's Soma
+- वसिष्ठान् (*vasiṣṭhān*)—the sons of Vasiṣṭha, his priests
+- अवृणीत (*avṛṇīta*)—chose and followed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who was drinking the Soma in the cup deep like a pool and is fearsome, was brought from very far by them, slighting Pāśadyumna, on account of the Soma pressed at Sudās's sacrifice; abandoning Pāśadyumna, he chose and followed the sons of Vasiṣṭha, the priests of Sudās, for the sake of Sudās's Soma.
+
+##### English translation
+Disgracing (Pashadyumna), they brought from afar the fierce Indra, when drinking the ladle of Soma at his sacrifice, to (receive) the libation (of Sudas): Indra, hastened from the effused Soma of Pashadyumna, the son of Vayata to the Vashisthas.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेन्नु कं॒ सिंधु॑मेभिस्ततारे॒वेन्नु कं॑ भे॒दमे॑भिर्जघान ।  
+> ए॒वेन्नु कं॑ दाशरा॒ज्ञे सु॒दासं॒ प्राव॒दिंद्रो॒ ब्रह्म॑णा वो वसिष्ठाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 130
+
+> एव । इत् । नु । कं । सिंधुं । एभिः । ततार । एव । इत् । नु । कं । भेदं । एभिः । जघान ।  
+> एव । इत् । नु । कं । दाशराज्ञे । सुदासं । प्र । आवत् । इंद्रः । ब्रह्मणा । वः । वसिष्ठाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवेत् यथा पाशद्युम्नस्य सवाख्ये सोमयागे चमसस्थं सोमं पिबंतमपींद्रं वसिष्ठैः सुदाः प्राप्तान् एवमेव सिंधुं नदीमेभिर्वसिष्ठैः कं सुखेन ततार । तीर्ण आसीत् । स्विति पूरणः । तथा च निगमांतरं । अर्णांसि चित्प्रथाना सुदासे । ऋ. ७-१८-५ । इति । एवेदेवमेव भेदं भेदनामकं शत्रुमेभिर्वसिष्ठैरेव जघान । अथ प्रत्यक्षस्तुतिः । एवेदेवमेव हे वसिष्ठाः वो युष्मदीयेन ब्रह्मणा स्तोत्रेण दाशराज्ञे दशभि राजभिः सह युद्धे प्रवृत्ते सति सुदासं राजानमिंद्रः प्रावत् । प्रारक्षत् । तथा च निगमांतरं । दश राजानः समिता अयज्यवः सुदासमिंद्रावरुणा न युयुधुः । ऋ. ७-८३-७ । इति । दाशराज्ञे परियत्ताय विश्वतः । ऋ. ७-८३-८ । इति च ॥
+
+##### Gist of the bhāṣya
+
+एवेत् (*evet*): just as Indra, drinking Soma from the cup at Pāśadyumna's Soma sacrifice, called "sava", was brought by the Vasiṣṭhas to Sudās, in just this way Sudās with these Vasiṣṭhas crossed the river Sindhu कं (*kaṃ*), easily; *svit* (नु (*nu*)) is a filler. Another text says so: अर्णांसि चित्प्रथाना सुदासे (*arṇāṃsi citprathānā sudāse*) (Ṛ. 7-18-5). In just this way he slew the enemy named Bheda through these very Vasiṣṭhas. Then comes direct address: in just this way, O Vasiṣṭhas, by your prayer (stotra), when the war with the ten kings began, Indra protected King Sudās. Another text says so: दश राजानः समिता अयज्यवः सुदासमिंद्रावरुणा न युयुधुः । (*daśa rājānaḥ samitā ayajyavaḥ sudāsamiṃdrāvaruṇā na yuyudhuḥ |*) (Ṛ. 7-83-7), and दाशराज्ञे परियत्ताय विश्वतः (*dāśarājñe pariyattāya viśvataḥ*) (Ṛ. 7-83-8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एवेत् (*evet*)—in this very manner
+- एभिः (*ebhiḥ*)—with these Vasiṣṭhas
+- सिंधुं (*siṃdhuṃ*)—the river Sindhu
+- कं (*kaṃ*)—comfortably
+- ततार नु (*tatāra nu*)—(Sudās) crossed
+- एवेत् (*evet*)—in this same way
+- एभिः (*ebhiḥ*)—by the help of these very Vasiṣṭhas
+- भेदं (*bhedaṃ*)—the enemy named Bheda
+- जघान (*jaghāna*)—he killed
+- एवेत् (*evet*)—just so
+- वसिष्ठाः (*vasiṣṭhāḥ*)—O sages born in the Vasiṣṭha family
+- वः (*vaḥ*)—recited by you
+- ब्रह्मणा (*brahmaṇā*)—satisfied by the praise
+- इंद्रः (*iṃdraḥ*)—Indra
+- दाशराज्ञे (*dāśarājñe*)—in the war with ten kings
+- सुदासं (*sudāsaṃ*)—Sudās
+- प्रावत् (*prāvat*)—protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasiṣṭhas, just as, by your power, Indra, though drinking Soma elsewhere, left that place for Sudās and came to Sudās, in the same way, with you, this Sudās crossed the river easily. By this help of yours he killed the enemy named Bheda. Likewise, satisfied by the praise recited by you, Indra protected this Sudās also in the war waged together with ten kings.
+
+##### English translation
+In the same manner was he, (Sudas), enabled by them easily to cross the Sindhu river : in the same manner, through them he easily slew his foe :
+
+### Printed p. 131
+so in like manner, Vasishthas, through your prayers, did Indra defend Sudas in the war with the ten kings.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जुष्टी॑ नरो॒ ब्रह्म॑णा वः पित्र्या॒णामक्ष॑मव्ययं॒ न किला॑ रिषाथ ।  
+> यच्छक्व॑रीषु बृह॒ता रवे॒णेंद्रे॒ शुष्म॒मद॑धाता वसिष्ठाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुष्टी । नरः । ब्रह्मणा । वः । पितॄणां । अक्षं । अव्ययं । न । किल । रिषाथ ।  
+> यत् । शक्वरीषु । बृहता । रवेण । इंद्रे । शुष्मं । अदधात । वसिष्ठाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरः वो युष्मदीयेन ब्रह्मणा स्तोत्रेण पित्र्याणां जुष्टी प्रीतिर्भवति । पित्र्याणामित्यनेन पारोक्ष्येण वसिष्ठस्यैव कीर्तनं । अहं प्रीतो भवामीत्यर्थः । अथेदानीं स्वमाश्रमं गंतुमुद्यतोऽहमक्षं रथस्याक्षमव्ययं । व्ययामि ॥ लडर्थे लज् ॥ चालयामीत्यर्थः । यूयं न किल रिषाथ न च क्षीणा भवथ हे वसिष्ठाः यद्यस्माच्छक्वरीष्वृक्षु बृहता श्रेष्ठेन रवेण साम्नेंद्रे शुष्मं बलमदधात अधारयत ॥
+
+##### Gist of the bhāṣya
+
+O leaders, by your prayer (stotra) there is delight (जुष्टी (*juṣṭī*)) of the fathers' kin. By the word पित्र्याणां (*pitryāṇāṃ*), in an indirect manner, it is Vasiṣṭha himself who is spoken of: the meaning is "I am pleased". Now, being ready to go to my own hermitage, I set the axle of the chariot in motion (अव्ययं (*avyayaṃ*) is व्ययामि (*vyayāmi*), लज् (*laj*) used in the sense of *laḍ*; the meaning is "I move it"). You, O Vasiṣṭhas, are not harmed and do not become diminished, because in the Śakvarī verses, by the great, best sound, the Sāman, you placed strength (शुष्मं (*śuṣmaṃ*)) in Indra. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O Vasiṣṭhas, the leaders
+- वः (*vaḥ*)—your
+- ब्रह्मणा (*brahmaṇā*)—by the praise alone
+- पित्र्याणां (*pitryāṇāṃ*)—for the fathers
+- जुष्टी (*juṣṭī*)—satisfaction arises
+- अक्षं (*akṣaṃ*)—the axle of the chariot
+- अव्ययं (*avyayaṃ*)—I have set in motion
+- वसिष्ठाः (*vasiṣṭhāḥ*)—O sages born in the Vasiṣṭha line
+- यत् (*yat*)—by which greatness of yours
+- शक्वरीषु (*śakvarīṣu*)—offered with the excellent metres called Śakvarī
+- बृहता (*bṛhatā*)—and excellent
+- रवेण (*raveṇa*)—by your Sāman chanting
+- इंद्रे (*iṃdre*)—in Indra
+- शुष्मं (*śuṣmaṃ*)—strength
+- अदधात (*adadhāta*)—you filled (therefore) न किल रिषाथ (*na kila riṣātha*)—do not waste any time
+
+##### भावार्थ (Bhāvārtha)
+
+O leaders, Vasiṣṭhas, by your praise alone satisfaction arises for the fathers. I have set the axle of the chariot in motion. O sages of the Vasiṣṭha line, by that greatness of yours, by which you filled Indra with strength through your excellent Sāman chanting, offered with the recitation of the excellent metres called Śakvarī, therefore do not waste any time.
+
+### Printed p. 132
+
+##### English translation
+By your prayers, leaders (of rites), is effected the gratification of your progenitors : I have set in motion the axle (of the chariot) : be not you inert, for by your sacred metres, Vasishthas, (chaunted) with a loud voice, you sustain vigour in Indra.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्द्यामि॒वेत्तृ॒ष्णजो॑ नाथि॒तासोऽदी॑धयुर्दाशरा॒ज्ञे वृ॒तासः॑ ।  
+> वसि॑ष्ठस्य स्तुव॒त इंद्रो॑ अश्रोदु॒रुं तृत्सु॑भ्यो अकृणोदु लो॒कं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । द्याम्ऽइव । इत् । तृष्णजः । नाथितासः । अदीधयुः । दाशराज्ञे । वृतासः ।  
+> वसिष्ठस्य । स्तुवतः । इंद्रः । अश्रोत् । उरुं । तृत्सुभ्यः । अकृणोत् । ऊं इति । लोकं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृष्णजो जाततृष्णा वृतासस्तृत्सुभी राजभिर्वृता नाथितासो वृष्टिं याचमाना वसिष्ठा द्यामिवादित्यमिवेंद्रं दाशराज्ञे दशानां राज्ञां संग्राम उददीधयुः । उददीधयन् । स्तुवतो वसिष्ठस्य स्तोत्रमिंद्रोऽश्रोत् । आशृणोच्च । उरुं विस्तीर्णं लोकं तृत्सुभ्यो राजभ्योऽकृणोत् । अकरोच्च । आददाच्चेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Vasiṣṭhas, thirsting (तृष्णजः (*tṛṣṇajaḥ*)), surrounded by the Tṛtsu kings (वृतासः (*vṛtāsaḥ*)), begging for rain (नाथितासः (*nāthitāsaḥ*)), made Indra shine forth like the heaven, that is, like the sun, in the war of the ten kings. Indra heard the praise of the praising Vasiṣṭha, and made a wide (extended) space for the Tṛtsu kings; he made it, and he took it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तृष्णजः (*tṛṣṇajaḥ*)—those afflicted with thirst
+- वृतासः (*vṛtāsaḥ*)—those surrounded by kings called Tṛtsu
+- नाथितासः (*nāthitāsaḥ*)—the Vasiṣṭhas who were begging for rain
+- दाशराज्ञे (*dāśarājñe*)—in the war with ten kings
+- (Indra) द्यां इव (*dyāṃ iva*)—like the sun
+- उददीधयुः (*udadīdhayuḥ*)—made to shine forth
+- स्तुवतः (*stuvataḥ*)—who was praising
+- वसिष्ठस्य (*vasiṣṭhasya*)—Vasiṣṭha's praise
+- इंद्रः (*iṃdraḥ*)—Indra
+- अश्रोत् (*aśrot*)—heard
+- तृत्सुभ्यः (*tṛtsubhyaḥ*)—for the kings called Tṛtsu
+- उरुं (*uruṃ*)—very extensive
+- लोकं (*lokaṃ*)—a kingdom
+- अकृणोत् (*akṛṇot*)—made and gave
+
 ---
 
-**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
+**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
