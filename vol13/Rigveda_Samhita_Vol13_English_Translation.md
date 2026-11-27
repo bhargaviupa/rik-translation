@@ -4148,6 +4148,175 @@ The word पौंस्यानि (*pauṃsyāni*) is read among the names of
 - तीर्थे — त्य प्लवनतरणयोः धातुः । पात्यतुदि- (उ. सू. १६४) इति थक् प्रत्ययः । यूत इद्घातोः (पा. सू. ७-१-१००) इति धातोः ईत्वं । रसरवागि आगच्छति । प्रत्ययस्वरेण अंतोदात्तः भवति । सप्तम्यंतरूपं । **NOTE**
 - अर्यः — अरि शब्दः । तस्मात् षष्ठ्यां परायां जसादिषु छंदसि वावचनं इति गुणादयः न आगच्छंति । यणादेशः । उदात्तयणोहल् पूर्वात् (पा. सू. ६-१-१७४) इति विभक्तेः उदात्तस्वरः आगच्छति ।
 
+### Printed p. 169
+
+##### Grammar
+
+- तस्थुः — ष्ठा गति निवृत्तौ धातुः । छांदसत्वाद्वर्तमानार्थे लिट् । प्रथमपुरुषबहुवचनांतरूपम् । यद्योगत्वान्निघातस्वरो न भवति । प्रत्ययस्वरेणांतोदात्तो भवति ।
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ घो॒राणा॒मेता॑नाम॒यासां॑ म॒रुतां॑ शृण्व आय॒तामु॑प॒ब्बिः ।  
+> ये मर्त्यं॑ पृतना॒यंत॒मूमै॑र्यणा॒वानं॒ न प॒तयं॑त॒  ॑
+> सर्गैः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । घोराणां । एतानां । अयासां । मरुतां । शृण्वे । आयतां । उपब्बिः ।  
+> ये । मर्त्यं । पृतना यंतं । ऊमैः । ऋणवानं । न । पतॆयंत । सर्गैः ॥७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते संबंधिनां घोराणां भयानकानां शब्दाभिमानानां वैतानामेशवर्णानामयासामयमानानां गमनशीलानां मरुतामायतामागंत्यणां
+> मरुतामुपब्धिः । उप गुर्वादिसमीपे गम्यते ज्ञायत उपपद्यत इति वोपब्बिर्वाक् । शृण्वे । श्रूयते । कर्मणि कर्तृप्रत्ययः ॥ त एव विशिष्यंते ! ये मरुतो
+> मर्त्यं मरणधर्माणमूमैः स्वरक्षणैरुदकनिगमनसाधनैर्वा पृतनायंतं पृतनामात्मन इच्छंतं वैरिणं मेघं वा सर्गैः स्पष्टैः स्वकीयप्रहारविशेषैः पतयंत ।
+> पातयंति । तेषामेव ध्वनिः श्रूयत इत्यर्थः । पातने दृष्टांतः । सर्गैर्यणवानं
+> न ॥ भंदसीवनिपाविति वनिप् ॥ ऋणवंतमधपुवैरिणमिव । तं यथा पीडयित्वा
+> तदीयं धनमपहरंति तद्वैत् । ऐवं महानुथावा मरुतस्तवानुगा इतींद्रस्य
+> स्तुतिः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the sound (उपब्धिः (*upabdhiḥ*)) of your Maruts is heard. They are terrible (घोराणां (*ghorāṇāṃ*) = frightening, or "presiding over sound"), of variegated colours, swift-going (अयासां (*ayāsāṃ*) = going, moving) and approaching. उपब्धिः (*upabdhiḥ*) is speech: it is "approached, known, established" near a teacher and the like (उप गुर्वादिसमीपे गम्यते ज्ञायत उपपद्यत इति वोपब्बिर्वाक् (*upa gurvādisamīpe gamyate jñāyata upapadyata iti vopabbirvāk*)). शृण्वे (*śṛṇve*) means "is heard"; the active suffix is used in the passive sense.
+
+The Maruts are then qualified: they are those who, with their ऊमैः (*ūmaiḥ*) (means of self-protection, or means of bringing down water), bring down a mortal (one subject to death) who desires battle (पृतनायंतं (*pṛtanāyaṃtaṃ*) = wishing a fight for himself), whether an enemy or a cloud, by their सर्गैः (*sargaiḥ*) (their own distinct, specific blows). The meaning is that their sound is heard. An illustration of the felling: ऋणवानं न (*ṛṇavānaṃ na*) — as one would fell a debtor, a base enemy; just as people torment him and carry off his wealth. So mighty are the Maruts who follow you: thus Indra is praised.
+
+### Printed p. 170
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे (*he*)) इंद्र (*iṃdra*)—O Indra
+- ये (*ye*)—which Marut deities
+- ऊमैः (*ūmaiḥ*)—by acts of protection
+- पृतनायंतं (*pṛtanāyaṃtaṃ*)—who desires victory in battle
+- मर्त्यं (*martyaṃ*)—the enemy of mortal nature
+- [or ऊमैः (*ūmaiḥ*)—by means of bringing down water; पृतनायंतं (*pṛtanāyaṃtaṃ*)—desiring victory in battle (not wishing to rain down water); मर्त्यं (*martyaṃ*)—the impermanent cloud]
+- सर्गैः (*sargaiḥ*)—by (self-protecting) blows
+- ऋणवानं न (*ṛṇavānaṃ na*)—(as one torments) a base enemy
+- पतयंत (*patayaṃta*)—cause to fall down (as rain)
+- (तेषां (*teṣāṃ*)—of such)
+- ते (*te*)—your
+- घोराणां (*ghorāṇāṃ*)—fear-bringing (presiding over sound)
+- एतानां (*etānāṃ*)—of various colours
+- आयासां (*āyāsāṃ*)—swift-going
+- आयतां (*āyatāṃ*)—approaching
+- मरुतां (*marutāṃ*)—of the Marut deities
+- उपब्धिः (*upabdhiḥ*)—the sound that draws near
+- प्रति (*prati*)—as an echo
+- शृण्वे (*śṛṇve*)—is heard
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the sound of your Maruts, who are terrible, of various colours, swift-going and rising up as they come, is heard echoing. They strike down and fell the impermanent cloud, which seeks victory in the battle (of cloud-splitting).
+
+##### English translation (H. H. Wilson)
+The noise of the formidable, dark-coloured, swift-moving, and advancing Maruts, is everywhere echoed : (the noise) of them who strike down their mortal (foes) gathering in a host against them, by their self-defending blows, as (they strike down)·a contemptible enemy.
+
+##### विशेषविषयगळु (Special Topics)
+
+घोराणां—भयानकानां शब्दाभिमानानां वा (*ghorāṇāṃ—bhayānakānāṃ śabdābhimānānāṃ vā*): the meaning is explained as "those who cause fear, and are famed as makers of abundant sound"; मरुतां (*marutāṃ*) is "of the Marut deities". The Maruts are also described as of variegated colour and of a constantly moving nature; their greatness is set forth, and आयतां उपब्धिः आगंत्यणां, वाक् शृण्वे श्रूयते (*āyatāṃ upabdhiḥ āgaṃtyaṇāṃ, vāk śṛṇve śrūyate*) is described as: the sound of their coming for the sacrifice is heard.
+
+उपब्धिः (*upabdhiḥ*)—this word is read among the words for speech (Ni. 2-23). उप गुर्वादिसमीपे गम्यते ज्ञायते उपपद्यत इति वा (*upa gurvādisamīpe gamyate jñāyate upapadyata iti vā*)—"it is understood near a guru and the like, or it is established"; because of this Sāyaṇa has explained it as speech.
+
+### Printed p. 171
+मर्त्यं (*martyaṃ*)—this word is read among the names of man (Ni. 3-8). Here the meaning "one possessed of the nature of dying" is given, and it is used as a qualifier of पृतनायंतं (*pṛtanāyaṃtaṃ*).
+
+ऊमैः पृतनायंतं (*ūmaiḥ pṛtanāyaṃtaṃ*)—the word पृतना (*pṛtanā*) is read among the names of battle (Ni. 3-F.) **NOTE**. Two kinds of meaning are given. First: the cloud itself, by the means of moving as water, is desirous of waging battle. Second: the enemy is desirous of fighting with the means of his own protection. The Maruts fell, like an enemy, the clouds that wish to fight, with the blows they themselves have created (सर्गैः (*sargaiḥ*)); and it is explained that the sound of the Maruts striking the clouds is heard (तेषामेव ध्वनिः श्रूयते (*teṣāmeva dhvaniḥ śrūyate*)).
+
+सर्गैः ऋणवानं न (*sargaiḥ ṛṇavānaṃ na*)—ऋणवंतं अधमवैरिणमिव (*ṛṇavaṃtaṃ adhamavairiṇamiva*): as in the world a base enemy who does not repay a debt is felled by blows, so the Maruts fell the clouds by their blows; thus the simile in the matter of the Maruts' felling of the clouds is explained. एवं महानुभावा मरुतस्त्वदनुगा इति इंद्रस्य स्तुतिः (*evaṃ mahānubhāvā marutastvadanugā iti iṃdrasya stutiḥ*): the Marut deities, endowed with such abundant greatness, are Indra's helpers, and therefore Indra's glory is described as surpassing.
+
+##### Grammar
+
+- घोराणां — हन हिंसागत्योः धातुः । हंतेरच् घुर् च (उ. सू. ७४२) इति अच् प्रत्ययः । धातोः घुर् आदेशः । प्रत्ययनिमित्तं धातोर्लघूपधस्य गुणः । चित्त्वादंतोदात्तस्वरो भवति । षष्ठ्यंतरूपम् ।
+- एतानां — इण् गत् धातुः । हसिमृग्रिह्वा (उ. सू. ३६६) इति तन् प्रत्ययः । प्रत्ययनिमित्तं गुणः । नित्त्वादाद्युदात्तस्वरो भवति ।
+- अयसां — अय गतौ धातुः । पचादिषु समाविष्टत्वादच् प्रत्ययः । चित्त्वादंतोदात्तो भवति । षष्ठीबहुवचने परे व्यत्ययेन सुटागमः ।
+- शृण्वे — श्रु श्रवणे धातुः । व्यत्ययो बहुलं इति कर्मणि कर्तृप्रत्ययो भवति । लट् प्रथमपुरुषैकवचने त प्रत्ययः । टेः एत्वम् । श्रुवः शृच इति धातोः शृ आदेशः । श्नु विकरणम् । लोपस्त आत्मनेपदेषु (पा. सू. ७-१-४१) इति प्रत्ययस्य तकारस्य लोपः । यणादेशः । तिजंतनिघातस्वरो भवति ।
+
+### Printed p. 172
+
+##### Grammar
+
+- आयतां — आज् उपसर्गः । इण् गत् धातुः । शतृ प्रत्ययः । इषो यण् (पा. सू. ६-४-८१) इति यणादेशः । नुम्रहितस्य शतृप्रत्ययस्य परे षष्ठीविभक्तौ आगतायां शतुरनुमो (पा. सू. ९-१-१७३) इति विभक्तेरुदात्तस्वरो भवति । **NOTE**
+- पृतनायंतं — पृतनामात्मन इच्छति पृतनायति । सुव आत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् प्रत्ययः । क्यजंतात्परं लडर्थे शतृ प्रत्ययः । द्वितीयैकवचनांतरूपम् । क्यच् स्वरः शिष्यते ।
+- ऊमैः — अव रक्षणादौ धातुः । अविसिविसि (उ. सू. १४१) इति मन् प्रत्ययः । स किद्भवति । ज्वरत्वरस्त्रि (पा. सू. ६-४-२०) इत्यूर् । सवर्णदीर्घः । प्रत्ययस्य नित्त्वादाद्युदात्तस्वरो भवति ।
+- ऋणावानं — ऋणमस्य अस्ति इति ऋणावान् । छंदसीवनिपौ इति मत्वर्थे वनिप् प्रत्ययः । अन्येषामपि दृश्यते (पा. सू ६-३-१३७) इति पूर्वस्य दीर्घः । व्यत्ययेन प्रत्ययस्याद्युदात्तस्वरो भवति ।
+- पतॆयंत — पतल्य गत् धातुः । णिजंताच्छांदसत्वाद्वर्तमानार्थे लज् प्रथमपुरुषबहुवचनांतरूपम् । यद्वृत्तानित्यं (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधात् णिच् स्वरः शिष्यते । संज्ञापूर्वककार्यस्यानित्यत्वादुपधावृद्धिर्न जाता । **NOTE**
+- सर्गैः — सृज विसर्गे धातुः । बहुलग्रहणात्कर्मणि घ.ञ् प्रत्ययः । धातोर्लघूपधस्य गुणः । चजोःकुघिण्यतोः (पा. सू. ७-३-५२) इति कुत्वम् । प्रत्ययस्य नित्त्वादाद्युदात्तस्वरो भवति ।
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं माने॑भ्य इंद्र वि॒श्वज॑न्मा॒ रदा॑ म॒रुद्भिः॑ शु॒रुधो॒ गोअ॑ग्राः ।  
+> स्तवा॑नेभिः स्तवसे देव दे॒वैर्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥ ८ ॥
+
+### Printed p. 173
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । मानेभ्यः । इंद्रः । विश्वजन्या । रद । मरुत्भिः । तुरुधः । गोऽग्राः ।  
+> स्तवानेभिः । स्तवसे । देव । देवैः । विद्याम । इषं । वृजनं । जीरदासुं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं मानेभ्यो मानार्थं । चित्तेनेत्यर्थः ॥ तादर्थ्ये चतुर्थी ॥
+> विश्वजन्या विश्वजन्यः ॥ सोराकारः ॥ विश्वे प्राणिन उत्पादनीया यस्य तादृशस्त्वं
+> सर्वजनहितशक्त्या वा मरुद्भिः सह शूरधः शोकस्य रोधयित्रिः शोषिका गोअग्रा
+> गर्जितमुदकं वाग्रे पुरुतो यासां ता मेघपंक्ति रद । विलिख । विदारय ।
+> हे देव द्योतमान त्वं स्तवानेभिः स्तूयमानैर्दॆवैरन्यैर्मरुदादिभिर्यत्विग्निर्वा स्तवसे । स्तूयसे ॥ उभयत्र कर्मणि कर्तृप्रत्ययः ॥ विद्यामेत्ययं
+> व्याख्यातः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are मानेभ्यो मानार्थं (*mānebhyo mānārthaṃ*)—for honour, that is, with the mind (चित्तेन (*cittena*)); the dative is in the sense of purpose. विश्वजन्या (*viśvajanyā*) stands for विश्वजन्यः (*viśvajanyaḥ*) (the ending सोराकारः (*sorākāraḥ*)): one for whom all living beings are to be brought into being, or one acting by the power that benefits all people. Together with the Maruts, split open (रद (*rada*) = tear, cleave) the rows of clouds, शुरुधः (*śurudhaḥ*) (those that stop or dry up grief) and गोअग्रा (*goagrā*) (those in front of which are thunder or water). O shining god, you are praised (स्तवसे (*stavase*) = स्तूयसे (*stūyase*)) by other praised gods, the Maruts and the rest, or by the priests; in both cases an active suffix is used in the passive sense. विद्याम (*vidyāma*) has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे (*he*)) इंद्र (*iṃdra*)—O Indra
+- विश्वजन्या (*viśvajanyā*)—beneficial to all
+- त्वं (*tvaṃ*)—you
+- मरुद्भिः (*marudbhiḥ*)—(accompanied) by the Marut deities
+- शुरुधः (*śurudhaḥ*)—that stop grief (that remove grief by rain and the like)
+- गोअग्राः (*goagrāḥ*)—the clouds that hold water in their forepart
+- मानेभ्यः (*mānebhyaḥ*)—for your own honour (and)
+- (विश्वजन्या (*viśvajanyā*)—for the good of all)
+- रद (*rada*)—split
+- (हे (*he*)) देव (*deva*)—O shining Indra
+- त्वं (*tvaṃ*)—you
+- स्तवानेभिः (*stavānebhiḥ*)—by the lauded
+- देवैः (*devaiḥ*)—by other deities, Maruts and others
+- [or स्तवानेभिः (*stavānebhiḥ*)—by those who praise; देवैः (*devaiḥ*)—by the priests]
+- स्तवसे (*stavase*)—are praised
+- (वयं (*vayaṃ*)—we)
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (by your grace)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accompanied by the Marut deities, for the sake of both your own honour and the good of the whole world, split open the clouds, which remove grief (by water) and are the receptacles of water, and make rain. Other deities, the Maruts and the rest (or the priests), themselves worthy of praise, praise you, the shining one; and we too, by your grace, obtain food, strength and long life.
+
+### Printed p. 174
+
+##### English translation (H. H. Wilson)
+Associated with the Maruts, Indra, for your own honour and the good of all, pierce the exhilarating receptacles of the waters, for you, Indra, are glorified by the lauded divinities : may we obtain for you food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+मानेभ्यः—मानार्थं । चित्तेन (*mānebhyaḥ—mānārthaṃ | cittena*). The Nirukta-writers (cite):
+देवानां माने प्रथमा अतिष्ठन् कृंतत्रादेषामुपरा उदायन् । त्रयस्तपंति पृथिवीमनूपा द्वा बृबूकं वहतः पुरीषं ॥ (*devānāṃ māne prathamā atiṣṭhan kṛṃtatrādeṣāmuparā udāyan | trayastapaṃti pṛthivīmanūpā dvā bṛbūkaṃ vahataḥ purīṣaṃ ‖*) (Ṛ. Saṃ. 10-27-23). Here, with देवानां माने निर्माणे (*devānāṃ māne nirmāṇe*), they explain the word मान (*māna*) as meaning "creation". Sāyaṇa has given the meaning मानार्थं (*mānārthaṃ*) and explained it as "with the mind".
+
+विश्वजन्या—विश्वजन्यः (*viśvajanyā—viśvajanyaḥ*). In the Ṛk cited by Yāska, उदुज्योतिरमृतं विश्वजन्यं विश्वानरः सविता देवो अश्रेत् ॥ (*udujyotiramṛtaṃ viśvajanyaṃ viśvānaraḥ savitā devo aśret ‖*), Durgācārya has given the word विश्वजन्य (*viśvajanya*) the meaning सर्वलोकहितं (*sarvalokahitaṃ*). विश्वे प्राणिनः उत्पादनीया यस्य (*viśve prāṇinaḥ utpādanīyā yasya*): one who has the power to bring all living beings into being is called विश्वजन्य (*viśvajanya*); and the power belonging to such a one is beneficial to all people. Or, सर्वजन हितशक्त्या (*sarvajana hitaśaktyā*): Indra, endowed with the power that causes the good of all beings, together with the Maruts, रद—विदारय (*rada—vidāraya*), is to split गो अग्राः गर्जितमुदकं वा अग्रे यासां ता मेघपंक्तिः (*go agrāḥ garjitamudakaṃ vā agre yāsāṃ tā meghapaṃktiḥ*), the rows of clouds that have thunder or water in front.
+
+शुरुधः—शोकस्य रोधयित्रिः शोषिकाः (*śurudhaḥ—śokasya rodhayitriḥ śoṣikāḥ*). Yāska cites the Ṛk ऋतस्य हि शुरुधः संति पूर्विः (*ṛtasya hi śurudhaḥ saṃti pūrviḥ*) (Ṛ. Saṃ. 4-23-8) and for the word शुरुध (*śurudha*) gives the meaning शुरुध आपो भवंति शुचं संरुं धंति (*śurudha āpo bhavaṃti śucaṃ saṃruṃ dhaṃti*)—waters destroy sorrows. Here Sāyaṇa gives the same sense: those that check or destroy sorrows.
+
+Because Indra shines with radiance, he is addressed by the word देव (*deva*); देवैः अन्यैः मरुदादिभिः ऋत्विग्निर्वा स्तूयसे (*devaiḥ anyaiḥ marudādibhiḥ ṛtvignirvā stūyase*)—he is praised by other gods, the Maruts and the rest, who recite praises, and by the priests: thus Indra's abundant greatness is described.
+
+By the sentence विद्यामेषं वृजनं जीरदानुं (*vidyāmeṣaṃ vṛjanaṃ jīradānuṃ*) the hope is expressed that we, the sacrificers, may by Indra's grace obtain food, strength, victory, and the power of giving that gains it, since the sacrifice is completed by the coming of the gods. The word वृजन (*vṛjana*) is stated among the names of strength (Ni. 3-9).
+
 ---
 
-**Progress note:** Done through printed p. 168. pp. 163-168 (batch API)
+**Progress note:** Done through printed p. 174. pp. 169-174 (batch API)
