@@ -8337,13 +8337,13 @@ Let the prayer proceed from the hall of the sacrifice, for Surya with his rays l
 
 In the first half of this Ṛk Sūrya is praised. In the sentence वि रश्मिभिः ससृजे सूर्यो गाः (*vi raśmibhiḥ sasṛje sūryo gāḥ*) it is said that Sūrya, the impeller of all, pours rain-water on the earth through his rays. What is the connection between Sūrya and rain? According to the Śruti sentence याभिरादित्यस्तपति रश्मिभिस्ताभिः पर्जन्यो वर्षति (*yābhirādityastapati raśmibhistābhiḥ parjanyo varṣati*) (Tai. Ā. 10-63), Sūrya, shining with his rays, draws up through them the water in the sea and other reservoirs. That water turns into vapour and becomes clouds in the atmosphere. Parjanya (the deity presiding over rain) pours the water in those clouds on the earth as rain. Since Sūrya's rays are the cause of the sea's waters becoming clouds in the form of vapour, that very matter is described in the present Ṛk. Besides, the Smṛti sentence also says आदित्याज्जायते वृष्टिः वृष्टेरन्नं ततः प्रजाः (*ādityājjāyate vṛṣṭiḥ vṛṣṭerannaṃ tataḥ prajāḥ*): from the Āditya comes rain, from rain food and the like, and from these living beings are born. Modern science too says that Sūrya's rays are the cause of rain arising on the earth.
 
-### Printed p. 188
-
 #### Ṛk 2
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > इ॒मां वां॑ मित्रावरुणा सुवृ॒क्तिमिषं॒ न कृ॑ण्वे असुरा॒ नवी॑यः ।
+
+### Printed p. 188
 
 > इनो वामन्यः पदवीरदब्धो जनं च मित्रो यतति ब्रुवाणः ॥ २ ॥
 
@@ -9454,12 +9454,6 @@ Whom those solicitous for wealth, those enjoying (it), mutually worship, the ben
 
 #### Ṛk 6
 
-#### Ṛk 7
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 8
-
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > अनु॒ तन्नो॒ जास्पति॑र्मंसीष्ट॒ रत्नं॑ दे॒वस्य॑ सवि॒तुरि॑या॒नः ।  
@@ -9509,12 +9503,6 @@ May Savitṛ, besought by us and the protector of progeny, provide us with his o
 May the protector of progeny, when solicited, consent to bestow upon us the precious (wealth) of the divine Savitri : the ardent (adorer) invokes repeatedly Bhaga for protection ; the less ardent solicits Bhaga for wealth.
 
 #### Ṛk 7
-
-#### Ṛk 8
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 9
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -9581,12 +9569,6 @@ The word वाजिन् (*vājin*) means a horse of swift motion or a divine
 अहिं च वृकं च रक्षांसि (*ahiṃ ca vṛkaṃ ca rakṣāṃsi*)—अहिं आगत्य हंतारं । (*ahiṃ āgatya haṃtāraṃ |*) The enemy who chases and kills is called अहि (*ahi*); वृकं वसूनामादातारं अथवा यश्च पृकस्तस्करो मुष्णाति । (*vṛkaṃ vasūnāmādātāraṃ athavā yaśca pṛkastaskaro muṣṇāti |*) A thief who steals riches is called वृक (*vṛka*); रक्षांसि येऽस्मान् रहसि क्षिण्वंति । (*rakṣāṃsi ye 'smān rahasi kṣiṇvaṃti |*) The host of Rākṣasas who, hidden or in a secret place, harm us without our knowing, are called रक्षांसि (*rakṣāṃsi*). The main purport of the nirvacana is that the prayer here is that these gods destroy these three kinds of enemies and protect us.
 
 #### Ṛk 8
-
-#### Ṛk 9
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 10
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
