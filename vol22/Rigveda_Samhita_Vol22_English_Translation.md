@@ -5019,6 +5019,288 @@ O Indra, urge in battles, so that they become powerful, those sacrificers who of
 ##### English translation
 Animate (those men) for the destruction of their foes, who offer treasures which are dear to you, the abounder in wealth : may we, lord of bay
 
+### Printed p. 115
+
+steeds, along with (your) worshippers, pass over all difficulties by your guidance.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवेदिं॑द्राव॒मं वसु॒ त्वं पु॑ष्यसि मध्य॒मं ।  
+> स॒त्रा विश्व॑स्य पर॒मस्य॑ राजसि॒ नकि॑ष्ट्वा॒ गोषु॑ वृण्वते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । इत् । इंद्र । अवमं । वसु । त्वं । पुष्यसि । मध्यमं ।  
+> सत्रा । विश्वस्य । परमस्य । राजसि । नकिः । त्वा । गोषु । वृण्वते ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अवममधमं त्रपुसीसादिकं वसु धनं । यद्वा । भौमं वस्ववमं । तवेत्तवैव । त्वं त्वमेव मध्यमं वसु रजतहिरण्यादिकमांतरिक्षं वा पुष्यसि । विश्वस्य सर्वस्य परमस्योत्तमस्यापि रत्नादेर्दिव्यस्य वा वसुनो राजसि । ईशिषे । सत्रा सत्यमेव । अपि च त्वा त्वां गोषु निमित्तेषु नकिर्वृण्वते । कोऽपि न वारयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, अवमं (*avamaṃ*), the lowest wealth, lead, tin and the like, is yours alone; or else the earthly wealth is the lowest. You yourself nourish the middle wealth, silver, gold and the like, or the wealth of the atmosphere. You rule over all wealth, even the highest, such as jewels, or the heavenly wealth; सत्रा (*satrā*) means "truly". Moreover, no one holds you back in matters of cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अवमं (*avamaṃ*)—not the most excellent, lead and the like
+- वसु (*vasu*)—whatever riches there are, all of them
+- तवेत् (*tavet*)—are yours alone
+- त्वं (*tvaṃ*)—you yourself
+- मध्यमं (*madhyamaṃ*)—the middling, silver and the like
+- पुष्यसि (*puṣyasi*)—cause to increase
+- विश्वस्य (*viśvasya*)—of all
+- परमस्य (*paramasya*)—of the excellent, jewels and the like
+- राजसि (*rājasi*)—you yourself are the lord
+- सत्रा (*satrā*)—truly
+- त्वा (*tvā*)—you
+- गोषु (*goṣu*)—when striving for the sake of cattle
+- नकिः वृण्वते (*nakiḥ vṛṇvate*)—no one can hinder
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever riches there are that are not the most excellent, lead and the like, all of them are yours alone. You yourself cause the middling riches, silver and the like, to increase. You yourself are the lord of all the excellent jewels and the like. When one strives for the sake of cattle, truly no one can hinder you.
+
+##### English translation
+Yours Indra, is the vast valuable wealth : you cherish the middling: you rule over all that which is the most precious : no one opposes you in (the recovering of the) cattle.
+
+### Printed p. 116
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, the words अवम (*avama*), मध्यम (*madhyama*) and परम (*parama*) may also have the meanings the earth, the atmosphere and the excellent heaven. It may also be said that the purport is that Indra is the one lord of all the worlds, the earth and the rest.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं विश्व॑स्य धन॒दा अ॑सि श्रु॒तो य ईं॒ भवं॑त्या॒जयः॑ ।  
+> तवा॒यं विश्वः॑ पुरुहूत॒ पार्थि॑वोऽव॒स्युर्नाम॑ भिक्षते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । विश्वस्य । धनदाः । असि । श्रुतः । ये । ईं । भवंति । आजयः ।  
+> तव । अयं । विश्वः । पुरुहूत । पार्थिवः । अवस्युः । नाम । भिक्षते ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं विश्वस्य सर्वस्य स्तोतुर्यजमानस्य वा धनदा धनस्य दाता सञ्श्रुतः प्रसिद्धोऽसि । य ईं य एत आजयो युद्धानि भवंति तेष्वपि धनदाः श्रुतोऽसि । हे पुरुहूत विश्वः सर्वोऽप्ययं पार्थिवो जनस्तव । त्वत्त इत्यर्थः । अवस्यू रक्षामिच्छन्नामान्नमुदकं वा । बर्हिर्नामेत्युदकनामसु पाठात् । भिक्षते । याचते । त्वामेवेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you are renowned as the giver of wealth to all, to the praiser or the sacrificer; and in those battles that take place you are also renowned as the giver of wealth. O Indra, invoked by many, all these men of the earth, desiring protection, ask for नाम (*nāma*), food or water, since it is read among the names of water; तव (*tava*) here means "from you". The word "you alone" is to be supplied: they ask you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वं (*tvaṃ*)—you
+- विश्वस्य (*viśvasya*)—to all sacrificers
+- धनदाः (*dhanadāḥ*)—as giver of wealth
+- श्रुतः (*śrutaḥ*)—renowned
+- असि (*asi*)—you are
+- ये ईं (*ye īṃ*)—which renowned
+- आजयः (*ājayaḥ*)—battles
+- भवंति (*bhavaṃti*)—occur, in those too you are the giver of wealth
+- पुरुहूत (*puruhūta*)—O Indra, worthy of the invocation of many
+- पार्थिवः (*pārthivaḥ*)—belonging to the earth
+- विश्वः अयं (*viśvaḥ ayaṃ*)—all these men
+- तव अवस्युः (*tava avasyuḥ*)—desiring your protection
+- नाम (*nāma*)—food and the like
+- भिक्षते (*bhikṣate*)—ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are renowned as the giver of wealth to all sacrificers. In whatever renowned battles take place, you are the giver of wealth in them too. O Indra, worthy of the invocation of many, all men belonging to the earth, desiring your protection, ask for food and the like.
+
+### Printed p. 117
+
+##### English translation
+You are celebrated as the giver of wealth to all, even where battles occur : all the people of the earth, desirous of protection, solicit you, the invoked of many.
+
+#### Ṛk 18
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र॒ याव॑त॒स्त्वमे॒ताव॑द॒हमीशी॑य ।  
+> स्तो॒तार॒मिद्दि॑धिषेय रदावसो॒ न पा॑प॒त्वाय॑ रासीय ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । यावतः । त्वं । एतावत् । अहं । ईशीय ।  
+> स्तोतारं । इत् । दिधिषेय । रदवसो इति रदवसो । न । पापत्वाय । रासीय ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यतो यावतो धनस्य त्वमीशिषे एतावत् ॥ षष्ठ्या लुक् ॥ एतावतो धनस्याहमीशीय ईश्वरो भवेयं हे रदवसो । रदति ददाति वसूनीति रदवसुः । तथोऽहमस्मदीयं स्तोतारमिद्दिधिषेय । धनप्रदानेन धारयेयमेव । पापत्वाय न रासीय । न दद्यां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, of as much wealth as you are lord, of so much wealth may I be the lord, O रदवसो (*radavaso*); रदवसुः (*radavasuḥ*) means one who gives riches. So I would support our praiser by giving wealth. I would not give for the sake of wickedness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रदवसो (*radavaso*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—in whatever manner
+- यावतः (*yāvataḥ*)—of whatever wealth
+- त्वं (*tvaṃ*)—you are the lord
+- एतावत् (*etāvat*)—in the same manner, of all that wealth
+- अहं (*ahaṃ*)—I
+- ईशीय (*īśīya*)—if I were the lord
+- स्तोतारमित् (*stotāramit*)—for praisers alone
+- दिधिषेय (*didhiṣeya*)—I would be a supporter by giving wealth
+- पापत्वाय (*pāpatvāya*)—for sinful deeds
+- न रासीय (*na rāsīya*)—surely I would not give
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, in whatever manner you are lord of whatever wealth, if I too were lord of all that wealth in the same manner, I would be the supporter of praisers alone by giving wealth. For sinful deeds I would surely not give.
+
+##### English translation
+If I were lord of as much (affluence) as you are, Indra, then might I support (your) worshippers, dispenser of wealth, and not squander it upon wickedness.
+
+### Printed p. 118
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिक्षे॑य॒मिन्म॑हय॒ते दि॒वेदि॑वे रा॒य आ कु॑हचि॒द्विदे॑ ।  
+> न॒हि त्वद॒न्यन्म॑घवन्न॒ आप्यं॒ वस्यो॒ अस्ति॑ पि॒ता च॒न ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिक्षेयं । इत् । महयते । दिवेदिवे । रायः । आ । कुहचित्विदे ।  
+> नहि । त्वत् । अन्यत् । मघवन् । नः । आप्यं । वस्यः । अस्ति । पिता । चन ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुहचिद्विदे । कुत्रचिद्विद्यमानः कुहचिद्वित् । तस्मै । यत्र क्वापि विद्यमानायेत्यर्थः । महयते पूजयते जनाय दिवे दिवे प्रतिदिनं रायो धनानि शिक्षेयमित् । दद्यामेव । आकारः पूरणः । एवमिंद्रस्य वाक्यं श्रुत्वा संतुष्ट ऋषिर्वदति । हे मघवन् त्वत्तोऽन्यदस्माकमाप्यं ज्ञातेयं न ह्यस्ति । वस्यः प्रशस्यः पिता चन पालयिता च त्वदन्यो नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: कुहचिद्विदे (*kuhacidvide*) means one who exists somewhere, that is, to one who exists anywhere at all. To the worshipper I would give wealth day after day; शिक्षेयमित् (*śikṣeyamit*) means "I would surely give", and the आ (*ā*) is an expletive. Hearing thus the word of Indra, the pleased seer says: O Maghavan, we have no other kin than you, and no other excellent, praiseworthy protector, like a father, than you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुहचिद्विदे (*kuhacidvide*)—wherever he may be
+- महयते (*mahayate*)—to the sacrificer who is a worshipper
+- दिवे दिवे (*dive dive*)—every day
+- रायः (*rāyaḥ*)—riches
+- आ शिक्षेयमित् (*ā śikṣeyamit*)—I shall surely give (Indra declares)
+- मघवन् (*maghavan*)—O wealthy Indra
+- त्वत् (*tvat*)—than you
+- अन्यत् (*anyat*)—other
+- आप्यं (*āpyaṃ*)—benefactors
+- नहि अस्ति (*nahi asti*)—there are none
+- नः (*naḥ*)—for us
+- वस्यः (*vasyaḥ*)—excellent
+- पिता चन (*pitā cana*)—nor is there a protector
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer, hearing the word of Indra, "Wherever the sacrificer who is a worshipper may be, I shall surely give him riches every day", speaks thus: "O wealthy Indra, we have no other benefactors than you. We have no excellent protector like you."
+
+##### English translation
+May I daily distribute wealth to the venerable wherever abiding : no other, Maghavan, than you is to be sought by us: (no other is to us) a most excellent protector.
+
+### Printed p. 119
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त॒रणि॒रित्सि॑षासति॒ वाजं॒ पुरं॑ध्या यु॒जा ।  
+> आ व॒ इंद्रं॑ पुरुहू॒तं न॑मो गि॒रा ने॒मिं तष्टे॑व सु॒द्र्वं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तरणिः । इत् । सिसासति । वाजं । पुरंध्या । युजा ।  
+> आ । वः । इंद्रं । पुरुहूतं । नमे । गिरा । नेमिं । तष्टाइव । सुद्र्वं ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तरणिरित् स्तुत्यादौ कर्मणि त्वरित एव पुमान् पुरंध्या महत्या धिया युजा सहायभूतया वाजमन्नं सिषासति । संभजते । पुरुहूतं बहुभिराहूतमिंद्रं वस्त्वां गिरा स्तुत्यादिना नमो नमनेन नेमिं चक्रस्य वलयं सुद्र्वं शोभनदारुं तष्टेव । यथा वर्धकिर्दारुनेमिमानमुंयते तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the man who is prompt in works such as praise obtains food, with great intelligence as his helper and companion. **NOTE** To Indra, invoked by many, I bow with praise and the like, with homage, as a carpenter bends good wood for the felly, the rim of a wheel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तरणिरित् (*taraṇirit*)—only he who is engaged in works of praise and the like
+- पुरंध्या (*puraṃdhyā*)—with great intelligence
+- युजा (*yujā*)—joined
+- वाजं (*vājaṃ*)—food
+- सिषासति (*siṣāsati*)—obtains
+- तष्टाइव (*taṣṭāiva*)—as a carpenter
+- नेमिं (*nemiṃ*)—as a ring for the wheel
+- सुद्र्वं (*sudrvaṃ*)—bends good wood
+- पुरुहूतं (*puruhūtaṃ*)—worthy of the invocation of many
+- इंद्रं (*iṃdraṃ*)—and lord of all
+- वः (*vaḥ*)—in front of you
+- गिरा (*girā*)—offering praise
+- आ नमो (*ā namo*)—I bow and salute
+
+##### भावार्थ (Bhāvārtha)
+
+Only he who is engaged in works of praise and the like, joined with great intelligence, obtains food. As a carpenter bends good wood as a ring for the wheel, so I, offering praise, bow and salute in front of you, who are worthy of the invocation of many and the lord of all.
+
+##### English translation
+The prompt offerer (of praise), with solemn rites combined, acquires food : I bend down with adoration to you, Indra, the invoked of many, as a carpenter bends the wooden circumference of the wheel.
+
+### Printed p. 120
+
+#### Ṛk 21
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न दु॑ष्टु॒ती मर्त्यो॑ विंदते॒ वसु॒ न स्रेधं॑तं र॒यिर्न॑शत् ।  
+> सु॒शक्ति॒रिन्म॑घव॒न्तुभ्यं॒ माव॑ते दे॒ष्णं यत्पार्ये॑ दि॒वि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । दुःस्तुती । मर्त्यः । विंदते । वसु । न । स्रेधंतं । रयिः । नशत् ।  
+> सुशक्तिः । इत् । मघवन् । तुभ्यं । मावते । देष्णं । यत् । पार्ये । दिवि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्त्यो मनुष्यो दुःस्तुती दुःस्तुत्या वसु धनं न विंदते । इंद्रं स्तुवन्नेव वसु लभत इत्यर्थः । स्रेधंतं हिंसंतं इंद्रविषये स्तुत्यादिकर्माण्यकुर्वंतमित्यर्थः । रयिर्धनं न नशत् । न व्याप्नोति । हे मघवन् त्वया पार्ये दिवि सौत्ये दिवसे मावते मत्सदृशाय देष्णं दातव्यं यद्धनमस्ति तत्तुभ्यं त्वत्तः सुशक्तिरित् सुकर्मैव । विंदत इति व्यवहितमत्रानुषज्यतेऽध्याहारस्यांतिकत्वात् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: a mortal, a man, does not find wealth by ill praise; that is, only one who praises Indra gains wealth. Wealth does not reach one who harms, that is, one who performs no praise and the like in respect of Indra. O Maghavan, whatever wealth is to be given by you, on the day of the Soma pressing, to one like me, that wealth from you only one of good works obtains; the verb "obtains" is carried over from the preceding because the word to be supplied is near.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्यः (*martyaḥ*)—a man
+- दुःस्तुती (*duḥstutī*)—by praise joined with ill speech
+- वसु (*vasu*)—wealth
+- न विंदते (*na viṃdate*)—does not obtain
+- स्रेधंतं (*sredhaṃtaṃ*)—a man who does harm
+- रयिः (*rayiḥ*)—wealth
+- न नशत् (*na naśat*)—does not go and reach
+- मघवन् (*maghavan*)—O wealthy Indra
+- पार्ये दिवि (*pārye divi*)—on the very day of the Soma offering
+- मावते (*māvate*)—to a sacrificer like me
+- देष्णं (*deṣṇaṃ*)—as fit to be given
+- यत् (*yat*)—whatever wealth there is, that
+- तुभ्यं (*tubhyaṃ*)—from you
+- सुशक्तिरित् (*suśaktirit*)—only one of good works can obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, a man does not obtain wealth by praise joined with ill speech. Wealth does not go and reach a man who does harm. O wealthy Indra, on the very day of the Soma offering, whatever wealth there is that is fit to be given to a sacrificer like me, only one of good works can obtain it from you.
+
+##### English translation
+A man acquires not wealth by unbecoming praise : affluence devolves not upon one obstructing (sacrifice): in you, Maghavan, is the power whereby bounty (may be shown) to such as I ain on the day of the libation.
+
 ---
 
-**Progress note:** Done through printed p. 114. Ṛk 9 end, Ṛks 10-15 of sūkta 32 (Maṇḍala 7)
+**Progress note:** Done through printed p. 120. Ṛks 15 end, 16-21 of sūkta 32 (Maṇḍala 7)
