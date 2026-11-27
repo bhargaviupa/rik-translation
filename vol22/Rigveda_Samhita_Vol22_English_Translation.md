@@ -23158,6 +23158,285 @@ It is said that one who prays with folded hands with the six sūktas beginning w
 - Deity: Uṣas
 - Metre: Triṣṭubh
 
+### Printed p. 559
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्यु१॒॑षा आ॑वो दिवि॒जा ऋ॒तेना॑विष्कृण्वा॒ना म॑हि॒मान॒मागा॑त् ।  
+> अप॒ द्रुह॒स्तम॑ आव॒रजु॑ष्ट॒मंगि॑रस्तमा प॒थ्या॑ अजीगः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । उषाः । आवः । दिविजाः । ऋतेन । आविःकृण्वाना । महिमानं । आ । अगात् ॥  
+> अप । द्रुहः । तमः । आवः । अजुष्टं । अंगिरःऽतमा । पथ्याः । अजीगरिति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमुषा दिविजा दिव्यंतरिक्षे प्रादुर्भूता सती व्यावः । व्युच्छत् । विभानं कृतवतीत्यर्थः ॥ वसिर्निवासवाच्यत्र विपूर्वो व्युच्छने भवेत् । छंदस्यपि दृश्यत इत्यट् । दृशिग्रहणस्य विद्यंतरोपसंग्रहणार्थत्वादनजादेरप्यडागमः । हल्ङ्याब्भ्य इति लोपः ॥ सैवोषा ऋतेन तेजसा महिमानं स्वमहत्त्वमाविष्कृण्वानागात् । आगतवती । आगत्य च द्रुहोऽस्मद्द्रोग्धृनजुष्टं सर्वेषामप्रियं तमश्चापावः । अपवृणोति । किंचांगिरस्तमा । अंगेर्गत्यर्थादंगिराः । गंतृतमा पथ्याः पदवीरजीगः । उद्गिरति । प्राणिनां व्यवहाराय प्रकाशयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Dawn, born of heaven (appearing in the heavenly firmament), has shone forth; that is, she has made the light. The root वसि (*vasi*) here means dwelling, and with the prefix वि (*vi*) it applies to dawning. That same Dawn has come, manifesting her own greatness by ऋतेन (*ṛtena*), that is, by her radiance. Having come, she uncovers the darkness, which is hateful to all, and drives away those who would harm us. Further, being the best of goers (from the root अंग (*aṃga*), which means motion, comes *aṃgirāḥ*), she brings forth the paths, that is, makes them manifest for the activity of living beings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषाः (*uṣāḥ*)—the goddess Dawn
+- दिविजाः (*divijāḥ*)—born in the heavenly world
+- वि आवः (*vi āvaḥ*)—is shining
+- ऋतेन (*ṛtena*)—by her own radiance
+- महिमानं (*mahimānaṃ*)—her own greatness
+- आविष्कृण्वाना (*āviṣkṛṇvānā*)—making manifest
+- अगात् (*agāt*)—is coming
+- द्रुहः (*druhaḥ*)—those who wish us harm
+- अजुष्टं (*ajuṣṭaṃ*)—disagreeable to all
+- तमः (*tamaḥ*)—the darkness
+- अप आवः (*apa āvaḥ*)—drives away
+- अंगिरस्तमा (*aṃgirastamā*)—fit for excellent movement
+- पंथाः (*paṃthāḥ*)—the paths
+- अजीगः (*ajīgaḥ*)—sets right
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Dawn, born in the heavenly world (the firmament), shines. With her radiance she comes, making her greatness manifest. She drives away those who wish us harm and the darkness that is disagreeable to all. She sets right the paths fit for excellent movement.
+
+##### English translation
+The Dawn, the daughter of heaven, has risen : she comes, manifesting her magnificence in light : she scatters our foes as well as the odious darkness, and relumes the paths that are to be trodden (by living beings)
+
+### Printed p. 560
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हे नो॑ अ॒द्य सु॑वि॒ताय॑ बो॒ध्युषो॑ म॒हे सौभ॑गाय॒ प्र  ॑
+> यंधि ।  
+> चि॒त्रं र॒यिं य॒शसं॑ धेह्य॒स्मे देवि॒ मर्ते॑षु मानुषि श्रव॒स्युं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महे । नः । अद्य । सुविताय । बोधि । उषः । महे । सौभगाय । प्र । यंधि ॥  
+> चित्रं । रयिं । यशसं । धेहि । अस्मे इति । देवि । मर्तेषु । मानुषि । श्रवस्युं ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्य नोऽस्माकं महे महते सुविताय सुखप्राप्तये सुखगमनाय वा बोधि । भव । किंच हे उषः महे महते सौभगाय सौभाग्याय प्र यंधि । प्रयच्छास्मान् । किंच चित्रं चायनीयं यशसं यशोयुक्तं रयिं धनं धेहि धारयास्मासु । हे मानुषि मनुष्यहिते देवि मर्तेष्वस्मासु श्रवस्युमन्नवंतं पुत्रं धेहीत्यनुषंगः ॥
+
+##### Gist of the bhāṣya
+
+Today be (बोधि (*bodhi*), "become") for us, for great सुविताय (*suvitāya*), that is, the attainment of happiness or easy going. Further, O Dawn, bestow on us great सौभगाय (*saubhagāya*), that is, good fortune (प्र यंधि (*pra yaṃdhi*), "grant"). Further, place in us wonderful (चित्रं (*citraṃ*), "desirable") wealth endowed with fame. O divine one (मानुषि (*mānuṣi*), kind to men), to us mortals grant श्रवस्युं (*śravasyuṃ*), a son possessed of food; the verb धेहि (*dhehi*) is to be carried over.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Dawn
+- अद्य (*adya*)—today
+- नः (*naḥ*)—to us
+- महे (*mahe*)—great
+- सुविताय (*suvitāya*)—for the attainment of happiness
+- बोधि (*bodhi*)—take notice
+- महे (*mahe*)—great
+- सौभगाय (*saubhagāya*)—for welfare
+- प्रयंधि (*prayaṃdhi*)—impel
+- अस्मे (*asme*)—in us
+- चित्रं (*citraṃ*)—attractive
+- यशसं (*yaśasaṃ*)—and possessed of fame
+- रयिं (*rayiṃ*)—wealth
+- धेहि (*dhehi*)—establish
+- मानुषि देवि (*mānuṣi devi*)—O goddess Dawn, benefactress of mankind
+- मर्तेषु (*marteṣu*)—to us, human beings
+- श्रवस्युं (*śravasyuṃ*)—provide sons and others possessed of food
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Dawn, strive today for our attainment of great happiness. Provide great welfare. Establish in us wealth that is attractive and endowed with fame. O goddess Dawn, benefactress of mankind, provide us human beings with sons and others possessed of food.
+
+##### English translation
+Be unto us to-day the cause of great felicity : bestow, Ushas, (what is promotive) of great prosperity : give us wonderful riches and reputation : grant, divine benefactress of men, to mortals flourishing male posterity.
+
+### Printed p. 561
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते त्ये भा॒नवो॑ दर्श॒ताया॑श्चि॒त्रा उ॒षसो॑ अ॒मृता॑स॒ आगुः॑ ।  
+> ज॒नयं॑तो॒ दैव्या॑नि व्र॒तान्या॑पृ॒णंतो॑ अं॒तरि॑क्षा॒ व्य॑स्थुः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । त्ये । भानवः । दर्शतायाः । चित्राः । उषसः । अमृतासः । आ । अगुः ।  
+> जनयंतः । दैव्यानि । व्रतानि । आपृणंतः । अंतरिक्षा । वि । अस्थुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शताया दर्शनीयायाः प्रकाशयुक्ताया उषस एते पुरो दृश्यमानास्त्ये ते प्रसिद्धाश्चित्राः पूज्या आश्चर्यभूता वा अमृतासोऽमरणा अनश्वरा भानवो रश्मय आगुः । आगच्छंति । किं कुर्वंतः । दैव्यानि देवानां संबंधीनि व्रतानि कर्माणि जनयंत उत्पादयंतः । तदनुकूलप्रकाशप्रदानात्तदुत्पादकत्वमेषां । अंतरिक्षांतरिक्षाण्यापृणंत आपूरयंतः । एकस्यैवांतरिक्षस्य वायुमेघपक्षिणामालंबनोपाधिना त्रिविधत्वं । अतो बहुवचनमुपपन्नं । एवं कुर्वतो भानवो व्यस्थुः । विविधं तिष्ठंति । सरंति ॥
+
+##### Gist of the bhāṣya
+
+Of the beautiful (दर्शतायाः (*darśatāyāḥ*), "worthy of sight", radiant) Dawn, these rays, seen before us, those well-known, wonderful (worthy of worship, or marvellous), immortal and imperishable rays, have come. What do they do? They give birth to the व्रतानि (*vratāni*), the rites belonging to the gods; they produce them by granting the light suited to them. They fill the firmament; the one firmament is threefold according to what rests in it (wind, cloud, birds), hence the plural अंतरिक्षा (*aṃtarikṣā*) is justified. Doing so, the rays spread in various ways and move.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दर्शतायाः (*darśatāyāḥ*)—of beautiful form
+- उषसः (*uṣasaḥ*)—of the goddess Dawn
+- एते (*ete*)—these, visible to all
+- त्ये (*tye*)—well-known
+- चित्राः (*citrāḥ*)—attractive
+- अमृतासः (*amṛtāsaḥ*)—imperishable
+- भानवः (*bhānavaḥ*)—rays
+- दैव्यानि (*daivyāni*)—relating to the gods
+- व्रतानि (*vratāni*)—thoughts of ritual action
+- जनयंतः (*janayaṃtaḥ*)—producing
+- आगुः (*āguḥ*)—are coming, spreading forth
+- अंतरिक्षा (*aṃtarikṣā*)—the firmaments
+- आ पृणंतः (*ā pṛṇaṃtaḥ*)—pervading and filling
+- व्यस्थुः (*vyasthuḥ*)—are established in many forms
+
+##### भावार्थ (Bhāvārtha)
+
+The rays of the beautiful goddess Dawn, visible to all, well-known, attractive and imperishable, come spreading forth, producing thoughts that take the form of the gods' work. Pervading and filling all the firmaments, they are established in many forms.
+
+##### English translation
+These wonderful, immortal rays of the beautiful Dawn appear, giving birth to the pious rites of divine worship, and filling the firmament, they spread around.
+
+### Printed p. 562
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा स्या यु॑जा॒ना प॑रा॒कात्पंच॑ क्षि॒तीः परि॑ स॒द्यो जि॑गाति ।  
+> अ॒भि॒पश्यं॑ती व॒युना॒ जना॑नां दि॒वो दु॑हि॒ता भुव॑नस्य॒ पत्नी॑ ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । स्या । युजाना । पराकात् । पंच । क्षितीः । परि । सद्यः । जिगाति ।  
+> अभिपश्यंती । वयुना । जनानां । दिवः । दुहिता । भुवनस्य । पत्नी ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा स्या सोषाः पराकाद्दूरदेशाद्दूरे स्थितापि युजानोद्योगं कुर्वाणा प्रकाशाय पंच क्षितीर्निषादपंचमांश्चतुरो वर्णान् सद्यः परि जिगाति । किं । कुर्वती । जनानां प्राणिनां वयुना प्रज्ञानान्यभिपश्यंती साक्षित्वेनावलोकयंती । कीदृशी सा । दिवो दुहिता दुहितृस्थानीया भुवनस्य भूतजातस्य पत्नी पालयित्री । परि जिगातीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+This Dawn, though stationed far away (पराकात् (*parākāt*), "from a distant place"), exerting herself (युजाना (*yujānā*)) to give light, at once goes round the पंच क्षितीः (*paṃca kṣitīḥ*), the four castes with the Niṣāda as fifth. What is she doing? Beholding as a witness the वयुना (*vayunā*), the knowledge or thoughts, of the people, living beings. What is she like? The daughter of heaven (in the position of a daughter) and the पत्नी (*patnī*), the protectress, of the world, all that has come to be. The construction is: she goes round.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the firmament
+- दुहिता (*duhitā*)—the daughter
+- भुवनस्य (*bhuvanasya*)—of all the worlds
+- पत्नी (*patnī*)—the protectress
+- स्या (*syā*)—the well-known
+- एषा (*eṣā*)—this goddess Dawn
+- जनानां (*janānāṃ*)—of men
+- वयुना (*vayunā*)—the thoughts
+- अभिपश्यंती (*abhipaśyaṃtī*)—observing closely
+- पराकात् (*parākāt*)—even from a very distant place
+- युजाना (*yujānā*)—striving to give light
+- पंचक्षितीः (*paṃcakṣitīḥ*)—to the neighbourhood of the five kinds of people, Niṣādas and others
+- सद्यः (*sadyaḥ*)—immediately
+- परि जिगाति (*pari jigāti*)—approaches and comes
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Dawn, daughter of the firmament, protectress of all the worlds, the well-known, closely observing the thoughts of men, strives to give light even from a very distant place and at once approaches and comes near to the five kinds of people, the Niṣādas and others.
+
+##### English translation
+Exerting herself, she approaches rapidly from afar (to give light) to the five classes of men, witnessing the thoughts of men, the daughter of heaven, the benefactress of living beings.
+
+### Printed p. 563
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒जिनी॑वती॒ सूर्य॑स्य॒ योषा॑ चि॒त्राम॑घा रा॒य ई॑शे॒  ॑
+> वसूनां ।  
+> ऋषि॑ष्टुता ज॒रयं॑ती म॒घोन्यु॒षा उ॑च्छति॒ वह्नि॑भिर्गृणा॒ना ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाजिनीऽवती । सूर्यस्य । योषा । चित्रमघा । रायः । ईशे । वसूनां ।  
+> ऋषिऽस्तुता । जरयंती । मघोनी । उषाः । उच्छति । वह्निऽभिः । गृणाना ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजिनीवती बह्वन्ना । यद्यप्युषोनामैतत् तथापि चित्रामघेत्यस्याप्युषोनामकस्य पृथग्विद्यमानत्वादत्रैको योगरूढोऽवगंतव्यः सूर्यस्य योषा योषिच्चित्रामघा विचित्रधना विचित्ररश्म्याख्यधना वा रायो धनस्यावशिष्टस्य तस्य वसूनां देवमनुष्यादिसर्वाश्रयाणां धनानां चेशे ईष्टे । अथवा वसवो वासका रश्मयः । तेषामपीष्टे । ऋषिष्टुता ऋषिभिः स्तुता जरयंती प्राणिजातानि । उषाः खलु पुनःपुनरावर्तमाना प्राणिनामायुः क्षपयति । मघोनी धनवत्युषा वह्निभिः कर्मवोढृभिर्यजमानैर्गृणाना स्तूयमानोच्छति । विधानं करोति ॥
+
+##### Gist of the bhāṣya
+
+वाजिनीवती (*vājinīvatī*) means one with abundant food. Although this is a name of Dawn, yet since चित्रामघा (*citrāmaghā*) is also a name of Dawn existing separately, one of the two is here to be understood as a yoga-rūḍha (conventional) name. The wife of Sūrya, चित्रामघा (*citrāmaghā*), one of varied wealth or of wealth consisting of varied rays, rules (ईशे (*īśe*)) over the remaining wealth, and over the वसूनां (*vasūnāṃ*), the riches that are the support of all, gods, men and the rest. Or else *vasavaḥ* are the rays that cause dwelling, and she rules over these also. Praised by the seers, she जरयंती (*jarayaṃtī*) wears out living beings: Dawn, returning again and again, wastes the lives of creatures. The wealthy (मघोनी (*maghonī*)) Dawn, praised by the sacrificers, the bearers of the rite (वह्निभिः (*vahnibhiḥ*)), shines (उच्छति (*ucchati*)), that is, she makes the arrangement.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवती (*vājinīvatī*)—possessed of food
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- योषा (*yoṣā*)—the wife
+- चित्रामघा (*citrāmaghā*)—possessed of manifold wealth, the goddess Dawn
+- रायः (*rāyaḥ*)—of wealth
+- वसूनां (*vasūnāṃ*)—of the rays that envelop the world
+- ईशे (*īśe*)—is the mistress
+- ऋषिष्टुता (*ṛṣiṣṭutā*)—praised by the seers
+- जरयंती (*jarayaṃtī*)—she who causes living beings to decay
+- मघोनी (*maghonī*)—endowed with riches
+- उषाः (*uṣāḥ*)—the goddess Dawn
+- वह्निभिः (*vahnibhiḥ*)—by the sacrificers, bearers of the rite
+- गृणाना (*gṛṇānā*)—being praised
+- उच्छति (*ucchati*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Dawn, possessed of food, wife of Sūrya, possessed of manifold wealth, is the mistress of wealth and of the rays that envelop the world. Praised by the seers, causing living beings to decay, endowed with riches, she shines, praised by the sacrificers, the bearers of the rite.
+
+### Printed p. 564
+
+##### English translation
+The bride of Surya, the ditributress of food, the possessor of; wonderful health, she rules over treasures (of every kind) of riches hymned by the Rishis, the waster away of life, the mistress of opulence, she rises, glorified by the offerers (of oblations).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ द्युता॒नाम॑रु॒षासो॒ अश्वा॑श्चि॒त्रा अ॑दृश्रन्नु॒षसं॒ वहं॑तः ।  
+> याति॑ शु॒भ्रा वि॑श्व॒पिशा॒ रथे॑न॒ दधा॑ति॒ रत्नं॑ विध॒ते जना॑य ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । द्युतानां । अरुषासः । अश्वाः । चित्राः । अदृश्रन् । उषसं । वहंतः ॥  
+> याति । शुभ्रा । विश्वपिशा । रथेन । दधाति । रत्नं । विधते । जनाय ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युतानां द्योतमानामुषसं वहंतो धारयंतोऽरुषास आरोचमानाश्चित्राश्चायनीया अश्वाः प्रत्यदृश्रन् । प्रतिदृश्यंते । सा चोषाः शुभ्रा दीप्यमाना विश्वपिशा बहुरूपेण रथेन याति । सर्वत्र गच्छति । विधते परिचरते जनाय रत्नं रमणीयं धनं दधाति । ददाति च ॥
+
+##### Gist of the bhāṣya
+
+The अरुषासः (*aruṣāsaḥ*), ruddy and shining, wonderful (attractive) horses, bearing (वहंतः (*vahaṃtaḥ*), carrying) the radiant Dawn, are seen (प्रत्यदृश्रन् (*pratyadṛśran*)). And that Dawn, bright and shining, goes (याति (*yāti*)) in a chariot of many forms (विश्वपिशा (*viśvapiśā*)), going everywhere. To the person who serves her (विधते (*vidhate*)) she gives (दधाति (*dadhāti*)) रत्नं (*ratnaṃ*), delightful wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युतानां (*dyutānāṃ*)—shining
+- उषसं (*uṣasaṃ*)—the goddess Dawn
+- वहंतः (*vahaṃtaḥ*)—those that bear
+- अरुषासः (*aruṣāsaḥ*)—radiant
+- चित्राः (*citrāḥ*)—attractive
+- अश्वाः (*aśvāḥ*)—the horses
+- प्रत्यदृश्रन् (*pratyadṛśran*)—are becoming visible
+- शुभ्रा (*śubhrā*)—Dawn, full of brilliance
+- विश्वपिशा (*viśvapiśā*)—of many forms
+- रथेन (*rathena*)—with the chariot
+- याति (*yāti*)—travels everywhere
+- विधते (*vidhate*)—who worships her
+- जनाय (*janāya*)—to the sacrificer
+- रत्नं (*ratnaṃ*)—delightful wealth
+- दधाति (*dadhāti*)—gives
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant, attractive horses that bear the shining goddess Dawn are becoming visible. Dawn, full of brilliance, travels everywhere with a chariot of many forms. To the sacrificer who worships her she gives delightful wealth.
+
 ---
 
-**Progress note:** Done through printed p. 558. pp. 553-558 (batch API)
+**Progress note:** Done through printed p. 564. pp. 559-564 (batch API)
