@@ -4002,6 +4002,152 @@ In वाजैः पीपयंत मध्वः स्तनं न (*vāj
 > श्वे इति । रायः । इंद्र । तोशतमाः । प्रनेतारः । कस्य । चित् । ऋत्ययोः ।  
 > ते । सु । नः । मरुतः । मृळयंतु । ये । स्म । पुरा । गातुयंति इव । देवाः ॥ ५ ॥
 
+### Printed p. 163
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वे तव रायो धनविशेषास्तोशतमाः । अतिशयेन प्रीणयितारः ॥
+> तुष्यतेस्तोषः । छांदसं शत्वं ॥ यद्वा। ते रायो रातयो बंधवो बंधुभूताः
+> सखिभूता मरुतस्तोशतमाः । तोशतिर्वधकर्मा नितोशयति निबर्हयतीति
+> तन्नामसु पाठात् । तोशतमा हिंसितृतमा अवर्षकाणां मेघानां । कस्य चिदृतायोः । ऋतमिति यज्ञनाम । कस्यापि यज्ञेच्छोर्यजमानस्य प्रणीतारः प्रकर्षेण
+> निर्वोढारः । ते मरुतो नोऽस्मान् सुष्टु मृळयंतु । के ते । ये स्म ये खलु
+> देवा द्योतनशीला मरुतः पुरा पूर्वं गातुयंतीव । यज्ञगमनमिच्छंतीव । त
+> आगत्य मृळयंतु ॥
+
+##### Gist of the bhāṣya
+
+"Indra, your (ⲧⲉ) riches, special kinds of wealth, are तोशतमाः (*tośatamāḥ*): they gratify in the highest degree." The word is from the root tuṣ (to be pleased), and the substitution of ś for ṣ is Vedic. Or else: "your" (ते (*te*)) रायः (*rāyaḥ*) are the Maruts, who are your kinsmen and friends, and they are तोशतमाः (*tośatamāḥ*). तोशति (*tośati*) is a verb of killing, because it is read among the names of that class ("he destroys, he removes"). So तोशतमाः (*tośatamāḥ*) means the greatest destroyers of the rainless clouds. कस्य चिदृतायोः (*kasya cidṛtāyoḥ*): ṛta is a name of the sacrifice. They are the leaders, the ones who carry through to the end, of any sacrificer who desires a sacrifice. May those Maruts gladden us well. Who are they? Those shining gods who, as if desiring to come to the sacrifice, formerly came; may they come and gladden us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- त्वे (*tve*)—your
+- रायः (*rāyaḥ*)—special kinds of wealth
+- तोशतमाः (*tośatamāḥ*)—cause great delight. [Or: त्वे (*tve*)—your; रायः (*rāyaḥ*)—the Marut deities, who are your kinsmen; तोशतमाः (*tośatamāḥ*)—those who especially strike down (the clouds that do not shed rain), and]
+- कस्यचित् ऋतायोः (*kasyacit ṛtāyoḥ*)—for anyone who wishes to perform a sacrifice
+- प्रणीतारः (*praṇītāraḥ*)—those who carry the sacrifice through well
+- ये (*ye*)—which
+- देवाः स्म (*devāḥ sma*)—the Marut deities themselves
+- पुरा (*purā*)—formerly
+- गातूयंति इव (*gātūyaṃti iva*)—were as though desirous of going to the sacrifice
+- ते (*te*)—those
+- मरुतः (*marutaḥ*)—Marut deities
+- नः (*naḥ*)—to us
+- सु मृळयंतु (*su mṛḷayaṃtu*)—may they bring great happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your wealth is productive of happiness. (Or: your own Maruts are great destroyers of the clouds that do not rain.) They become the managers (and helpers) of all who wish to perform a sacrifice. They are eager to come to the sacrifice before others. May such Maruts bring us happiness.
+
+##### English translation (H. H. Wilson)
+Your riches, Indra, are most delighting; the exciters of any one desirous to sacrifice : may those Maruts be propitious to us ; the divine beings who were anxious to go first to the ceremony.
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वे रायः तोशतमाः—तव धनविशेषाः अतिशयेन प्रीणयितारः (*tve rāyaḥ tośatamāḥ—tava dhanaviśeṣāḥ atiśayena prīṇayitāraḥ*)—Addressing Indra, this explains one kind of meaning: the wealth that Indra bestows produces abundant joy.
+
+### Printed p. 164
+In the second meaning, तोशतिर्वधकर्मा नितोशते निर्बहयति इति (*tośatirvadhakarmā nitośate nirbahayati iti*) (Ni. 7-10), because it is read among the verbs of killing. Since तोशते (*tośate*) is read among the words denoting killing, the word तोशतमाः (*tośatamāḥ*) is explained as "those who strike down", अवर्षकाणां मेघानां (*avarṣakāṇāṃ meghānāṃ*), the clouds that do not pour rain, that do not shed rainwater. Then, ते रायो रातयो बंधवो बंधुभूताः सखिभूताः मरुतः तोशतमाः (*te rāyo rātayo baṃdhavo baṃdhubhūtāḥ sakhibhūtāḥ marutaḥ tośatamāḥ*): the Maruts, who are Indra's kinsmen, friends and givers, are those who strike down the clouds that do not yield rain. This is the meaning explained.
+कस्य चिदृतायोः प्रणेतारः (*kasya cidṛtāyoḥ praṇetāraḥ*)—ऋतमिति यज्ञनाम । कस्यापि यज्ञेच्छोर्यजमानस्य प्रकर्षेण निर्वोढारः (*ṛtamiti yajñanāma | kasyāpi yajñecchoryajamānasya prakarṣeṇa nirvoḍhāraḥ*). The word ṛta, which denotes water, a particular time, truth and sacrifice, is used here in the sense of sacrifice. The word ṛtāyu is used in the sense यज्ञकामस्य (*yajñakāmasya*), "one who desires to perform a sacrifice", in the Ṛk मा नोऽहिर्बुध्न्यो रिषे धान्मा यज्ञो अस्य स्रिधदृतायोः । (*mā no 'hirbudhnyo riṣe dhānmā yajño asya sridhadṛtāyoḥ |*) (Ṛ. Saṃ. 7-34-17). The meaning is explained thus: the Maruts will fulfil the wish of anyone whatever who wishes to perform a sacrifice.
+ये देवाः पुरा गातुयंतीव ते नः मृळयंतु (*ye devāḥ purā gātuyaṃtīva te naḥ mṛḷayaṃtu*)—द्योतनशीलाः यज्ञगमनमिच्छंतीव मरुतः अस्मान् मृळयंतु (*dyotanaśīlāḥ yajñagamanamicchaṃtīva marutaḥ asmān mṛḷayaṃtu*). The prayer is: may the gods who come for the sacrifice, the shining Maruts, who are like those who come to the sacrifice before everyone else, keep us, who are given to sacrifice, in great happiness.
+
+##### Grammar
+
+- तोशतमाः — तुष प्रीतौ धातुः । नंदिग्रहपचा- (पा. सू. ३-१-१३४) इति अच् प्रत्ययः । पुगंतलघूपधस्य च इति लघूपधगुणः । छांदसः षकारस्य शकारादेशः । अतिशयेन तोशाः तोशतमाः । अतिशयार्थे तमप् प्रत्ययः । पित्त्वात् अनुदात्तः । द्वितीयेऽर्थे तुश धातुः हिंसार्थे प्रयुक्तः । प्रक्रिया पूर्ववत् भवति ।
+- प्रणीतारः — णीञ् प्रापणे धातुः । कर्तरि तृच् प्रत्ययः । तं निमित्तीकृत्य धातोरिको गुणः । चित्त्वात् अंतोदात्तस्वरः आगच्छति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरः आगच्छति ।
+
+### Printed p. 165
+- ऋतायोः — ऋतं आत्मनः इच्छति ऋतायति । सुप आत्मनः क्यच् (पा. सू. ३-१-८) इति क्यच् प्रत्ययः । अन्येषामपि दृश्यते (पा. सू. ६-३-१३७) इति पूर्वस्य दीर्घः । क्याच्छंदसि (पा. सू. ३-२-१६०) इति क्यजंतात् उ प्रत्ययः । अतो लोपः इति क्यचः अकारस्य लोपः । प्रत्ययस्वरः आगच्छति ।
+- मृळयंतु — मृड सुखने धातुः । णिजंतात् लोट् । प्रथमपुरुषबहुवचनांतरूपं । तिजंतनिघातस्वरः आगच्छति ।
+- गातुयंति — गातुं गमनं आत्मनः इच्छंति । सुप आत्मनः क्यच् इति क्यच् । सनाद्यंता धातवः इति धातुसंज्ञा । क्यजंतात् लट् । प्रथमपुरुषबहुवचनांतरूपं । यच्छब्दसंबंधात् निघातस्वरः न आगच्छति । क्यच्स्वरः अवशिष्यते ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॒ प्र या॑हींद्र मा॒ळ्हुषो॒ नृन्म॒हः पार्थि॑वे॒ सद॑ने यतस्व ।  
+> अध॒ यदे॑षां पृथुबु॒ध्नास॒ एता॑स्ती॒र्थे नार्यः पौंस्या॑नि  ॒
+> तस्थुः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । प्र । याहि । इंद्र । माळुषः । नृन् । महः । पार्थिवे । सदने । यतस्व ।  
+> अध । यत् । एषां । पृथुबुध्नासः । एताः । तीर्थे । न । आर्यः । पौंस्यानि ।  
+> तस्थुः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं माळ्हुष उदकसेक्त्वान्नज्जगन्नेत्यन्नराकारान्वा महो महतो
+> मेघान्प्रति प्र याहि । अभिगच्छ । मेघानां वृत्तरूपेण नराकारत्वं युक्तं । गता
+> च पार्थिवे सदने । पृथिवीत्यंतरिक्षनाम । तत्संबंधिनि स्थाने यतस्व । प्रयत्नं कुरु।
+> तैः सह युद्धस्वेत्यर्थः । यद्वा । हविष्पदात्वान् कर्मनिर्वाहकान्महतो यजमा
+
+##### Gist of the bhāṣya
+
+"Indra, go towards the great clouds": माळ्हुष (*māḷhuṣa*) is read as "water-sprinkling", and नृन् (*nṛn*) as "leaders of the world" or "man-shaped". The clouds, in the form of Vṛtra, may properly be man-shaped. "Having gone, strive in the earthly seat." Pṛthivī is a name of the atmosphere, so he says: strive in the place belonging to it, that is, fight with them. Or else: go towards the great sacrificers, givers of oblations who carry the rites through.
+
+### Printed p. 166
+
+> वान्प्रति गच्छ । गत्वा च पार्थिवे सदने देवयजने यतस्व । यत्नं कुरु हविर्भोजनाय । अधापि यद्यदैषां त्वत्साहाय्यकारिणां मरुतां संबंधिनः पृथुबुध्नासो
+> विस्तीर्णमूला एताः पृषद्वर्णा गंतारो नाश्वा आर्योरेः शत्रोः पौंस्यानि
+> तीर्थे न युद्धमार्ग इव तस्थुः शिष्ठंति मेघानाक्रमंते । यद्वा । येषां
+> मरुतां पृथुबुध्नासो बृहन्मूला एताः कृष्णवर्णा मेघास्तिष्ठंति । तत्र दृष्टांतः।
+> अर्योरणीयस्य स्वामिनः पौंस्यानि बलानि तीर्थे न राजवीथ्यां यथा तिष्ठंति
+> तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Having gone, "strive in the earthly seat", that is, at the place of worship of the gods: make an effort to enjoy the oblation. Then, "when these steeds of the Maruts, who are your helpers, पृथुबुध्नासः (*pṛthubudhnāsaḥ*), broad at the base, dappled in colour and swift, stand (firm) like the manly energies of the enemy तीर्थे न (*tīrthe na*), as on a battle-road", they press upon the clouds. Or else: the Maruts' clouds, पृथुबुध्नासः (*pṛthubudhnāsaḥ*), broad-rooted and black in colour, stand. An illustration is given: as the forces of a lord अर्यो (*aryo*) stand तीर्थे न (*tīrthe na*), in the royal street, so do these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध यत् (*adha yat*)—when
+- एषां (*eṣāṃ*)—of these Marut deities (who are your helpers)
+- पृथुबुध्नासः (*pṛthubudhnāsaḥ*)—broad at the base, and
+- एताः (*etāḥ*)—the steeds of various colours
+- अर्यः (*aryaḥ*)—of the enemy
+- पौंस्यानि (*pauṃsyāni*)—the armies
+- तीर्थे न (*tīrthe na*)—(as if standing) on the battle-road
+- [Or: पृथुबुध्नासः (*pṛthubudhnāsaḥ*)—broad-rooted; एताः (*etāḥ*)—black-coloured clouds; अर्यः (*aryaḥ*)—of the sacrificer; पौंस्यानि (*pauṃsyāni*)—the armies; तीर्थे न (*tīrthe na*)—as if standing on the royal road]
+- तस्थुः (*tasthuḥ*)—stand
+- (then, O) Indra—O Indra
+- (you) माळुषः (*māḷuṣaḥ*)—those that do not shed water
+- न्यन् (*nyan*)—those that lead the world (man-shaped)
+- महः प्रति (*mahaḥ prati*)—facing the great clouds
+- प्र याहि (*pra yāhi*)—go
+- (afterwards) पार्थिवे सदने (*pārthive sadane*)—in the place of the atmosphere
+- यतस्व (*yatasva*)—strive (make an effort in battle)
+- [Or: माळुषः (*māḷuṣaḥ*)—givers of oblations; न्यन् (*nyan*)—managers of the rite; महः (*mahaḥ*)—honoured sacrificers; प्रति प्रयाहि (*prati prayāhi*)—go towards; (afterwards) पार्थिवे सदने (*pārthive sadane*)—in the sacrificial hall belonging to the earth; यतस्व (*yatasva*)—strive (for the eating of the oblation).]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, face the great clouds that do not rain and that are man-shaped (in the form of Vṛtra and the like), and fight them in the atmosphere. (Or: set out towards the honoured sacrificers who make offerings of oblations, and eat the oblation in their sacrificial halls.) At that very time the steeds belonging to the Maruts, broad at the base, stand for your help, like the armies of the enemy standing ready on the battle-road.
+
+##### English translation (H. H. Wilson)
+Go, Indra, to the mighty rain-shedding leaders (of the clouds), and exert yourself in (your) aerial dwelling; for their broad-footed steeds stand (firm). like the manly energies of an enemy in the field of battle.
+
+### Printed p. 167
+
+##### विशेषविषयगळु (Special Topics)
+
+मीळ्हुषः—उदकसेक्त्मन् (*mīḷhuṣaḥ—udakasektman*) The word माळ्हु (*māḷhu*) is stated among the names of wealth (Ni. 3-9). Here the meaning explained is "those who pour down water".
+नैन्— जगन्नेत्यन् नराकारान् ना (*nain— jagannetyan narākārān nā*). The word नरः (*naraḥ*) is read among the names of men (Ni. 3-7). Explaining it as "those who sustain (the world) the universe, or those who have the form of men", the hope is expressed that Indra will face the clouds, महः महतः (*mahaḥ mahataḥ*), full of greatness. Since the Nirukta authors use the word Vṛtra for clouds, it is justified by मेघानां वृत्ररूपेण नराकारत्वं युक्तं (*meghānāṃ vṛtrarūpeṇa narākāratvaṃ yuktaṃ*): it is fitting for clouds in the form of Vṛtra to be man-shaped.
+पार्थिवे सदने यतस्व (*pārthive sadane yatasva*)—Since the word पृथिवी (*pṛthivī*) is read among the names of the atmosphere (Ni. 2-10), पृथिवीत्यंतरिक्षनाम तत्संबंधिनि स्थाने यत्नं कुरु तैस्सह युद्ध्यस्व (*pṛthivītyaṃtarikṣanāma tatsaṃbaṃdhini sthāne yatnaṃ kuru taissaha yuddhyasva*). The place belonging to the earth is the atmosphere, and Indra is addressed and told to fight the clouds in that atmosphere. Having explained one kind of meaning thus, Sāyaṇa has explained a second meaning also: यद्वा हविष्पदात्मन कर्मनिर्वाहकान् महतो यजमानान् प्रतिगच्छ गत्वा च पार्थिवे सदने देवयजने यतस्व । हनिर्भोजनाय यत्नं कुरु (*yadvā haviṣpadātmana karmanirvāhakān mahato yajamānān pratigaccha gatvā ca pārthive sadane devayajane yatasva | hanirbhojanāya yatnaṃ kuru*). Let Indra approach the sacrificers who offer oblations and are filled with the greatness of performing the sacrificial rites, and let Indra strive to receive the oblation on the altar, in the form of the earth, where the sacrifice is performed for the gods. Thus the word पार्थिवे सदने (*pārthive sadane*) is explained, in the first meaning, as the region of the atmosphere, and in the second as the place of worship of the gods, or the sacrificial altar in the form of the earth. That the earth is the sacrificial altar is stated in the Taittirīya Saṃhitā.
+एषां पृथुबुद्नासः एताः आर्यः पौंस्यानि तीर्थे न तस्थुः—मरुतां संबंधिनः विस्तीर्णमूलाः पृषद्वर्णा गंतारो वा अश्वा। अरेश्यत्रोः युद्धमार्ग इव मेघानाक्रमंते (*eṣāṃ pṛthubudnāsaḥ etāḥ āryaḥ pauṃsyāni tīrthe na tasthuḥ—marutāṃ saṃbaṃdhinaḥ vistīrṇamūlāḥ pṛṣadvarṇā gaṃtāro vā aśvā| areśyatroḥ yuddhamārga iva meghānākramaṃte*). The word एतशः (*etaśaḥ*) is stated among the names of horses (Ni. 2-27). The vehicles of the Marut deities are indicated by the word पृषत्यः (*pṛṣatyaḥ*) (spotted deer) (Ni. 2-28). Here the horses of the Maruts are described as dappled in colour and as having broad bases (backs), and one kind of meaning is explained: the horses of the Maruts, who help Indra, attack the clouds, as armies block the enemy's battle-road.
+
+### Printed p. 168
+In the second meaning, since the word अर्यः (*aryaḥ*) is read among the names of lords (Ni. 3-11), अरणीयस्य स्वामिनः (*araṇīyasya svāminaḥ*): the force, the army, of a lord who goes with the drive of battle, राजवीथ्यां यथा तिष्ठंति (*rājavīthyāṃ yathā tiṣṭhaṃti*), stands massed together in the royal street. In the same way एषां मरुतां पृथुबुध्नासो बृहन्मूलाः एताः कृष्णवर्णाः मेघास्तिष्ठंति (*eṣāṃ marutāṃ pṛthubudhnāso bṛhanmūlāḥ etāḥ kṛṣṇavarṇāḥ meghāstiṣṭhaṃti*): the clouds belonging to the Maruts, who help Indra, broad at the base and black in colour, stay together. This is the meaning explained.
+The word पौंस्यानि (*pauṃsyāni*) is read among the names of strength, and पौंस्ये (*pauṃsye*) among the names of battle (Ni. 3-9). Here the meaning "army" is explained.
+
+##### Grammar
+
+- मीढुषः — मिह सेचने धातुः । दाश्वान् साह्वान् मीढ्वांश्च (पा. सू. ६-१-१२) इति क्वसुप्रत्ययांतः निपातितः । द्वितीयाबहुवचने शसि परे वसोः संप्रसारणं इति संप्रसारणं पूर्वरूपं । प्रत्ययस्वरेण उकारः उदात्तः भवति ।
+- पार्थिवे — पृथिव्याः इदं पार्थिवं । तस्मिन् । पृथिव्या ञाञौ इति संबंधार्थे अञ् प्रत्ययः । इत्त्वात् इत्यादिर्नित्यं इति आद्युदात्तस्वरः आगच्छति । प्रत्ययनिमित्ता आदिवृद्धिः ईकारलोपः ।
+- यतस्व — यती प्रयत्ने धातुः । लोट् मध्यमपुरुषैकवचने थास् प्रत्ययः । थासः से (पा. सू. ३-४-८०) इति टेः वकारादेशः । अतिजंतपरत्वात् निघातस्वरः आगच्छति ।
+- पृथुबुध्नासः — कर्मधारयसमासः । समासस्य (पा. सू. ६-१-२२३) इति अंतोदात्तस्वरः आगच्छति । जसि परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुक् आगमः ।
+- तीर्थे — त्य प्लवनतरणयोः धातुः । पात्यतुदि- (उ. सू. १६४) इति थक् प्रत्ययः । यूत इद्घातोः (पा. सू. ७-१-१००) इति धातोः ईत्वं । रसरवागि आगच्छति । प्रत्ययस्वरेण अंतोदात्तः भवति । सप्तम्यंतरूपं । **NOTE**
+- अर्यः — अरि शब्दः । तस्मात् षष्ठ्यां परायां जसादिषु छंदसि वावचनं इति गुणादयः न आगच्छंति । यणादेशः । उदात्तयणोहल् पूर्वात् (पा. सू. ६-१-१७४) इति विभक्तेः उदात्तस्वरः आगच्छति ।
+
 ---
 
-**Progress note:** Done through printed p. 162. pp. 157-162 (batch API)
+**Progress note:** Done through printed p. 168. pp. 163-168 (batch API)
