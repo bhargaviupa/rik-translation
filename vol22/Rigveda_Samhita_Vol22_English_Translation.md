@@ -16076,6 +16076,288 @@ O Maruts, give abundant food to us who offer oblations. Surely accept our excell
 ##### English translation
 Grant, Maruts, to us who are affluent (in sacrificial offering) abundant food : accept complacently our earnest praise : the path you follow is not hurtful to living beings : may it increase our (prosperity) by (your) desirable protections.
 
+### Printed p. 379
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्मोतो॒ विप्रो॑ मरुतः शत॒स्वी यु॒ष्मोतो॒ अर्वा॒ सहु॑रिः सह॒स्री ।  
+> यु॒ष्मोतः॑ स॒म्राळु॒त हं॑ति वृ॒त्रं प्र तद्वो॑ अस्तु धूतयो दे॒ष्णं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्माऊतः । विप्रः । मरुतः । शतस्वी । युष्माऊतः । अर्वा । सहुरिः । सहस्री ।  
+> युष्माऊतः । संराट् । उत । हंति । वृत्रं । प्र । तत् । वः । अस्तु । धूतयः ।  
+> देष्णं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः युष्मोतो युष्माभी रक्षितो विप्रः स्तोता शतस्वी शतसंख्योपेतधनवान्भवति । युष्मोतो युष्माभी रक्षितोऽर्वाभिगंता सहुरिः शत्रूणामभिभविता स्तोता सहस्री सहस्रधनवान्भवति । युष्मोतो युष्माभी रक्षितः सम्राट् साम्राज्ययुक्तो भवति । उतापि च वृत्रं शत्रुं हंति । युष्मद्रक्षको हिनस्ति । हे धूतयः कंपयितारो मरुतः वो युष्माभिर्दत्तं तत्प्रसिद्धं देष्णं धनं प्रास्तु । प्रभूतं भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, the singer (vipra) protected by you becomes possessed of hundreds in wealth. The one protected by you who is an assailant (arvā) and overcomer of enemies (sahuri), a singer, becomes possessed of thousands in wealth. One protected by you becomes an emperor, and he also slays the foe (vṛtra); the one who has you as protector destroys. O Shakers (dhūtayaḥ), Maruts, may that well-known wealth (deṣṇa) given by you be abundant, may it be plentiful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- युष्मोतः (*yuṣmotaḥ*)—protected by you
+- विप्रः (*vipraḥ*)—the praiser
+- शतस्वी (*śatasvī*)—becomes a possessor of wealth in the hundreds
+- युष्मोतः (*yuṣmotaḥ*)—protected by you
+- अर्वा (*arvā*)—your worshipper
+- सहुरिः (*sahuriḥ*)—becomes a vanquisher of enemies
+- सहस्री (*sahasrī*)—also becomes a possessor of wealth in the thousands
+- युष्मोतः (*yuṣmotaḥ*)—protected by you
+- सम्राट् (*samrāṭ*)—becomes a universal sovereign
+- उत (*uta*)—and
+- वृत्रं (*vṛtraṃ*)—the enemy
+- हंति (*haṃti*)—kills
+- धूतयः (*dhūtayaḥ*)—O Maruts, who make everything tremble
+- वः (*vaḥ*)—given by you
+- तत् (*tat*)—that famous
+- देष्णं (*deṣṇaṃ*)—wealth
+- प्र अस्तु (*pra astu*)—may it grow abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the praiser protected by you becomes a possessor of wealth in hundreds and in thousands. With the help of your protection, your worshipper defeats his enemies.
+
+### Printed p. 380
+Such a sacrificer becomes a universal sovereign. O Maruts, who have the power to set everything in motion, may the excellent wealth given by you increase abundantly among us.
+
+##### English translation
+The pious man protected, Maruts, by you, is the possessor of hundreds; the assailant, overcomer (of his foes), protected by you, is the possessor of thousands: protected by you, the Emperor slays his enemy: may the wealth that is given, agitators, by you ever be abundant.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तान् आ रु॒द्रस्य॑ मा॒ळ्हुषो॑ विवासे कु॒विन्नंसं॑ते म॒रुतः॒ पुन॑र्नः ।  
+> यत्स॒स्वर्ता॑ जिहीळि॒रे यदा॒विरव॒ तदेन॑ ईमहे तु॒राणां॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तान् । आ । रुद्रस्य । माळ्हुषः । विवासे । कुवित् । नंसंते । मरुतः । पुनः । नः ।  
+> यत् । सस्वर्ता । जिहीळिरे । यत् । आविः । अव । तत् । एनः । ईमहे । तुराणां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> माळ्हुषः कामानां वर्षितो रुद्रस्येश्वरस्य पुत्रांस्तान्मरुत आ विवासे ।
+> अहं होता परिचरामि । ते मरुतो नोऽस्मभ्यं कुविद्बहुकृत्वः पुनर्भूयो
+> नंसंते । नमंतां । अभिमुखीभवंतु । कुविच्छब्देनैव पुनःकार्थस्य लब्धत्वात्पुनः शब्दग्रहणं किमर्थं । आदरार्थं । सस्वर्तांतर्हितेनाप्रकाशेन यद्येनैनसा
+> जिहीळिरे मरुतः क्रुध्येयुः आविः प्रकाशेन यद्येनैनसा च जिहीळिरे तुराणां
+> त्वराणां मरुतां संबंधि तदुभयमेनोऽपराधमवेमहे । स्तोत्रेण पयमपनयामः ॥
+
+##### Gist of the bhāṣya
+
+I, the hotṛ, serve those Maruts, sons of Rudra, the lord, the showerer of desires. May those Maruts bow to us again and many times, that is, turn towards us. Since the word कुवित् (*kuvit*) itself already gives the sense of "again", why is the word पुनः (*punaḥ*) taken? For emphasis. Whatever offence, hidden (the word सस्वर्ता (*sasvartā*) meaning "concealed"), or open, has angered the Maruts: both that offence, committed in regard to the swift Maruts, we remove by praise, and thereby we turn away their anger.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माळ्हुषः (*māḷhuṣaḥ*)—of the giver of desired objects
+- रुद्रस्य (*rudrasya*)—of Rudra, whose sons they are
+- तान् (*tān*)—those Maruts
+- आ विवासे (*ā vivāse*)—I worship and honour
+- मरुतः (*marutaḥ*)—the Maruts
+- पुनः कुवित् (*punaḥ kuvit*)—(again and again) many times
+- नः (*naḥ*)—towards us
+- नंसंते (*naṃsaṃte*)—may they come bowing, facing us
+- सस्वर्ता (*sasvartā*)—concealed, not manifest
+- यत् (*yat*)—by which sin
+- जिहीळिरे (*jihīḷire*)—the Maruts may be angered
+- आविः (*āviḥ*)—manifest
+- यत् (*yat*)—by which sin they become angry
+
+### Printed p. 381
+- तुराणां (*turāṇāṃ*)—swift-moving; of those Maruts, committed in regard to them
+- तत् (*tat*)—that twofold
+- एनः (*enaḥ*)—sin
+- अव-ईमहे (*ava-īmahe*)—we remove
+
+##### भावार्थ (Bhāvārtha)
+
+I worship and honour the Maruts, sons of Rudra, the giver of desired objects. May those same Maruts favour us and come many times. Of the two kinds of sin (inner and outer), the one not manifest outwardly and the one manifest, by which the Maruts become incensed, those two kinds of sin committed in regard to them we remove.
+
+##### English translation
+I adore those sons of the showerer, Rudra : may the Maruts, repeatedly invoked, again come to us : may we expiate (by praise) whatever we have committed secretly or openly against the swift-moving Maruts, by which they are displeased.
+
+##### विशेषविषयगळु (Special Topics)
+
+नंसंते (*naṃsaṃte*)—Yāska, giving the etymology of this word, says: कुविन्नंसंते मरुतः पुनर्नः (*kuvinnaṃsaṃte marutaḥ punarnaḥ*) (Ni. 4-13), पुनर्नो नमंते मरुतः (*punarno namaṃte marutaḥ*); that is, the Marut deities will bow and come towards us again and again. He has explained the word नंसंते (*naṃsaṃte*) as नमंते (*namaṃte*), "they bow".
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सा वा॑चि सुष्टु॒तिर्म॒घोना॑मि॒दं सू॒क्तं म॒रुतो॑ जुषंत  
+> आ॒राच्चि॒द्द्वेषो॑ वृषणो युयोत यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सा । वाचि । सुस्तुतिः । मघोनां । इदं । सुऽउक्तं । मरुतः । जुषंत ।  
+> आरात् । चित् । द्वेषः । वृषणः । युयोत । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघोनां धनवतां मरुतां संबंधिनी सुष्टुतिर्या शोभना स्तुतिरस्मिन्सूक्ते कृता सा स्तुतिरस्माभिः प्र वाचि । प्रोक्तासीत् । मरुत इदमादृग्भूतं सूक्तं जुषंत । सेवंतां । हे वृषणः कामानां वर्षितारः यूयं द्वेषो द्वेषांसि शत्रूनाराच्चिद्दूरादेव युयोत । अस्मत्तः पृथक्कुरुत । यूयं नोऽस्मान् स्वस्तिभिः सर्वदा रक्षत ॥
+
+##### Gist of the bhāṣya
+
+The good praise (suṣṭuti) of the wealthy Maruts, the beautiful praise made in this hymn, has been recited by us. May the Maruts enjoy this hymn of such a kind. O showerers of desires, remove far away the haters, the enemies. Protect us always with blessings.
+
+### Printed p. 382
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघोनां (*maghonāṃ*)—for the wealthy Maruts
+- सुष्टुतिः (*suṣṭutiḥ*)—the praise that has been composed
+- सा (*sā*)—that praise
+- प्र वाचि (*pra vāci*)—has been recited
+- मरुतः (*marutaḥ*)—the Maruts
+- इदं सूक्तं (*idaṃ sūktaṃ*)—this praise
+- जुषंतॆ (*juṣaṃtè*)—may they enjoy
+- वृषणः (*vṛṣaṇaḥ*)—O Maruts, givers of desired objects
+- द्वेषः (*dveṣaḥ*)—our enemies
+- आराच्चित् (*ārāccit*)—from a distant place
+- युयोत (*yuyota*)—separate (from us)
+- (O Maruts) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+The hymn that has been composed addressing the wealthy Maruts has been recited by us. May the Maruts enjoy this hymn. O Maruts, givers of desired objects, separate our enemies from us at a distance. O Maruts, protect us always with blessings.
+
+##### English translation
+The pious praise of the opulent Maruts has been recited: may the Maruts be gratified by this hymn: remove far from us, showerers (of bene-fits), those who hate us: and ever cherish us with blessings.
+
+## Sūkta 59 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यं त्रायध्व इति द्वादशर्चं चतुर्थं सूक्तं । अत्रेयमनुक्रमणिका ।
+> यं त्रायध्वे द्वादश त्रिष्टुब्गाथादि नवम्याद्यास्तिस्रो गायत्र्योऽंत्यानुष्टुब्रौद्री
+> मृत्युविमोचिनीति । आद्यातृतीयापंचम्यो बृहत्यो द्वितीयाचतुर्थीषष्ठ्यः सतोबृहत्यः सप्तम्यष्टम्यावनुक्तौ त्रिष्टुभौ नवमादशम्येकादश्यो गायत्र्यः ।
+> द्वादश्यनुष्टुप् सा च रुद्रदेवताका । शिष्टा मारुत्यः ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta यं त्रायध्वे (*yaṃ trāyadhve*) has twelve Ṛks and is the fourth sūkta. The Anukramaṇikā says: यं त्रायध्वे द्वादश त्रिष्टुब्गाथादि नवम्याद्यास्तिस्रो गायत्र्योऽंत्यानुष्टुब्रौद्री मृत्युविमोचिनी (*yaṃ trāyadhve dvādaśa triṣṭubgāthādi navamyādyāstisro gāyatryo 'ṃtyānuṣṭubraudrī mṛtyuvimocinī*). The first, third and fifth Ṛks are Bṛhatī; the second, fourth and sixth are Satobṛhatī; the seventh and eighth are two Triṣṭubhs, not otherwise specified; the ninth, tenth and eleventh are Gāyatrī; the twelfth is Anuṣṭubh and has Rudra as deity. The rest are addressed to the Maruts. The use of the sūkta is of the Laiṅgika kind (determined by the indicative character of the text).
+
+##### Anuvāda
+
+This sūkta यं त्रायध्वे (*yaṃ trāyadhve*) is the fourth sūkta in the fourth anuvāka. It contains twelve Ṛks. In the Anukramaṇikā it is said: यं त्रायध्वे द्वादश त्रिष्टुब्गाथादि नवम्याद्यास्तिस्रो गायत्र्योऽंत्यानुष्टुब्रौद्री मृत्युविमोचिनी (*yaṃ trāyadhve dvādaśa triṣṭubgāthādi navamyādyāstisro gāyatryo 'ṃtyānuṣṭubraudrī mṛtyuvimocinī*). The first and fifth Ṛks of this sūkta are in the Bṛhatī metre. The second, fourth and sixth Ṛks are in the Satobṛhatī metre. The seventh and eighth Ṛks are in the Triṣṭubh metre.
+
+### Printed p. 383
+The ninth, tenth and eleventh Ṛks are in the Gāyatrī metre. The twelfth Ṛk is in the Anuṣṭubh metre and has Rudra as its deity. The remaining Ṛks have the Maruts as deity. The use of the sūkta is Laiṅgika.
+
+Sūkta—59
+Maṇḍala—7. Anuvāka—4. Sūkta—59.
+Aṣṭaka—5. Adhyāya—4. Varga—29, 30.
+Number of Ṛks in the sūkta—12.
+Ṛṣi: Vasiṣṭha.
+Deity: 1–11 the Maruts; 12 Rudra (the Ṛk that frees from death).
+Metre: 1, 3, 5 Bṛhatī; 2, 4, 6 Satobṛhatī; 7, 8 Triṣṭubh; 9–11 Gāyatrī; 12 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्राय॑ध्व इ॒दमि॑दं॒ देवा॑सो॒ यं च॒ नय॑थ ।  
+> तस्मा॑ अग्ने॒ वरु॑ण॒ मित्रार्य॑म॒न्मरु॑तः॒ शर्म॑ यच्छत ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्रायध्वे । इदंइदं । देवासः । यं । च । नयथ ।  
+> तस्मै । अग्ने । वरुण । मित्र । अर्यमन् । मरुतः । शर्म । यच्छत ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवाः इदमिदमितो भयहेतोर्यं स्तोतारं त्रायध्वे पालयध्वे । यं च स्तोतारं नयथ सन्मार्गं प्रापयथ । हे अग्ने वरुण मित्रा
+> र्यमन् हे मरुत एवंभूता हे देवाः तस्मै स्तोत्रे शर्म सुखं यच्छत ।
+> दत्त ॥
+
+##### Gist of the bhāṣya
+
+O gods, whichever singer you protect from every cause of fear, and whomever you lead along the good path: O Agni, Varuṇa, Mitra, Aryaman, Maruts, such gods, grant happiness to that singer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- अर्यमन् (*aryaman*)—O Aryaman
+- मरुतः (*marutaḥ*)—O Maruts
+- देवासः (*devāsaḥ*)—O all gods
+- इदमिदं (*idamidaṃ*)—from every cause of fear
+- यं (*yaṃ*)—whichever singer
+- त्रायध्वे (*trāyadhve*)—you protect
+- यं च (*yaṃ ca*)—and whomever
+- नयथ (*nayatha*)—you lead on the good path
+- तस्मै (*tasmai*)—to such a singer
+- शर्म (*śarma*)—happiness
+- यच्छत (*yacchata*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, O Varuṇa, O Aryaman, O Maruts, O all gods, whichever singer you protect from every cause of fear and lead along the good path, to such a singer provide happiness.
+
+### Printed p. 384
+
+##### English translation
+Agni, Varuna, Mitra, Maruts, grant happiness, gods, to him whom you preserve from (the perils of) this (world), whom you guide here (to the paths of virtue).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्माकं॑ देवा॒ अव॒साह॑नि प्रि॒ये ई॑जा॒नस्त॑रति॒ द्विषः॑ ।  
+> प्र स क्षयं॑ तिरते॒ वि म॒हीरिषो॒ यो वो॒ वरा॑य॒ दाश॑ति ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्माकं । देवाः । अवसा । अहनि । प्रिये । ईजानः । तरति । द्विषः ।  
+> प्र । सः । क्षयं । तिरते । वि । महीः । इषः । यः । वः । वराय । दाशति ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः युष्माकं युष्मदीयेनावसा रक्षणेन प्रियेऽहनि सर्वेषां
+> देवानां प्रियभूते सुत्याभिधाने दिवस ईजान इष्टवान्यजमानो द्विषः शत्रूंस्तरति ।
+> आक्रामति । स यजमानः क्षयं स्वकीयं निवासं प्र तिरते । प्रवर्धयति । यो
+> यजमानो वो युष्मभ्यं महीर्महांतीषो हविर्लक्षणान्यन्नानि वराय निवारणाय यूयं नान्यत्र गच्छतास्मदीयान्येव हवींषि स्वीकुरुतेति निरोधनं कर्तुं
+> वि दाशति विशेषेण प्रददाति । अत एव स स्वकीयं निवासं वर्धयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O gods, by your protection, on the day dear to all gods, the day named for the pressing (of soma), the sacrificer who has sacrificed overcomes his enemies; he assails them. That sacrificer promotes his own dwelling. The sacrificer who gives to you great offerings, in the form of oblations, with a special giving, in order to prevent (वराय (*varāya*)) your going elsewhere, saying "do not go elsewhere, accept only our oblations", thereby makes his own dwelling grow; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- युष्माकं (*yuṣmākaṃ*)—your
+- अवसा (*avasā*)—together with protection
+- प्रिये अहनि (*priye ahani*)—on the days of sacrifice dear to you
+- ईजानः (*ījānaḥ*)—the sacrificer who worships you
+- द्विषः (*dviṣaḥ*)—enemies
+- तरति (*tarati*)—conquers
+- यः (*yaḥ*)—the sacrificer who
+- वः (*vaḥ*)—to you
+- महीः (*mahīḥ*)—very abundant
+- इषः (*iṣaḥ*)—oblations
+- वराय (*varāya*)—in order to prevent your going to another sacrificer
+- वि दाशति (*vi dāśati*)—offers specially
+- सः (*saḥ*)—that same sacrificer
+- क्षयं (*kṣayaṃ*)—his dwelling-place
+- प्र तिरते (*pra tirate*)—causes to grow
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, together with your protection, the sacrificer who worships you on the days of sacrifice dear to you conquers his enemies. The one who offers you very abundant oblations in order to prevent your going to another sacrificer, that same sacrificer makes his dwelling-place grow.
+
 ---
 
-**Progress note:** Done through printed p. 378. pp. 373-378 (batch API)
+**Progress note:** Done through printed p. 384. pp. 379-384 (batch API)
