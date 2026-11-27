@@ -20622,6 +20622,268 @@ This treasure given by us has been placed, Madhwis, before you, like (an envoy) 
 
 O Bhuraṇās, supporters of all: when there is one common yoke for you both with regard to us, your chariot goes around the seven streams, of gliding nature, or the seven rivers such as the Gaṅgā; that is, it comes swiftly. The horses favourable to that chariot, of good being, yoked by you two gods, do not dry up in swift going, are not wearied; the horses which, at the poles of your chariot, are bearers, swift-going, and carry you: they do not tire.
 
+### Printed p. 499
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुरणा (*bhuraṇā*)—O Aśvin deities, who bear all the worlds
+- एकस्मिन् समाने (*ekasmin samāne*)—engaged in one and the same work
+- योगे (*yoge*)—when you are united
+- वां (*vāṃ*)—your
+- रथं (*rathaṃ*)—chariot
+- स्रवतः सप्त (*sravataḥ sapta*)—the seven rivers, Gaṅgā and the others
+- परि गात् (*pari gāt*)—carries across and brings you
+- वां (*vāṃ*)—you
+- धूर्षु (*dhūrṣu*)—in the chariots
+- तरणयः (*taraṇayaḥ*)—swift
+- ये (*ye*)—which horses
+- वहंति (*vahaṃti*)—bear
+- सुभ्वः (*subhvaḥ*)—excellent
+- देवयुक्ताः (*devayuktāḥ*)—horses that bear you, who are divine
+- न वायंति (*na vāyaṃti*)—do not become weary
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who bear all the worlds, when you are united, engaged in one work, your chariot brings you across the seven rivers, Gaṅgā and the others. The swift horses that bear you in the chariots, those excellent horses that bear you who are divine, do not become weary.
+
+##### English translation
+Nourishers of all, the chariot of you two who are associated in a common purpose, traverses the seven flowing (streams): the excellent horses harnessed by the gods, who bear you rapidly, careering in the car, are never wearied.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स॒श्चता॑ म॒घव॑द्भ्यो॒ हि भू॒तं ये रा॒यो म॑घ॒देयं॑ जु॒नंति॑ ।  
+> प्र ये बंधुं॑ सू॒नृता॑भिस्ति॒रंते॒ गव्या॑ पृं॒चंतो॒ अश्व्या॑ म॒घानि॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असश्चता । मघवत्भ्यः । हि । भूतं । ये । राया । मघदेयं । जुनंति ।  
+> प्र । ये । बंधुं । सूनृताभिः । तिरंते । गव्या । पृंचंतः । अश्व्या । मघानि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असश्चता कुत्राप्यसज्जमानौ युवां मघवद्भ्यो धनवद्भ्यो हविष्मद्भ्यो यजमानेभ्यस्तेषामर्थाय भूतं हि । भवतं। केभ्य इवासुरक्तौ भवतं । अनु-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: you two, attached to nothing anywhere, be for the sake of the wealthy, those who possess oblations, the sacrificers. He asks what kind of persons they are to be favoured; the "favourable" ones are the ones further qualified.
+
+### Printed p. 500
+
+> ग्राह्या एव विशेष्यंते । ये राया धनेन निमित्तेन राया युक्ता वा मघदेयं दातव्यं मघं धनं हविर्लक्षणं वा जुषंते प्रेरयंति यच्छंति । ये च बंधुं । स्नेहेन बध्नातीति बंधुः । तं स्वसंबंधिनं । अथवा फलेन बध्नातीति बंधुरध्वर्य्वादिः । तं सूनृताभिः प्रियसत्यात्मिकाभिर्वाग्भिः प्र तिरंते प्रवर्धयंति । प्रपूर्वस्तिरतिर्वर्धनार्थः । किं कुर्वंतः । गव्या गोरूपाण्यश्व्या श्वरूपाणि च मघानि धनानि पृंचंतोऽर्थिभ्यः प्रयच्छंतः । केभ्यो मघवद्भ्यो भूतमिति ॥
+
+##### Gist of the bhāṣya
+
+Those who, by wealth or endowed with wealth, send forth and give the wealth that is to be given, or wealth in the form of oblation; and who foster their kinsman. A bandhu is one who binds by affection, one's own relation; or else one who binds by the fruit (of the rite), such as the Adhvaryu. They foster him with pleasant, truthful words; प्र तिरंते (*pra tiraṃte*) means "they cause to grow", the root tir with pra having the sense of growth. What are they doing? Giving to petitioners wealth in the form of cattle and of horses. For whom? "Be for the wealthy."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) ये (*ye*)—who
+- राया (*rāyā*)—being endowed with wealth
+- मघदेयं (*maghadeyaṃ*)—the oblation fit to be offered
+- जुषंते (*juṣaṃte*)—offer
+- ये (*ye*)—who
+- गव्या (*gavyā*)—consisting of cattle
+- अश्वा (*aśvā*)—and of horses
+- मघानि (*maghāni*)—wealth
+- पृंचंतः (*pṛṃcaṃtaḥ*)—distributing
+- बंधुं (*baṃdhuṃ*)—their own household
+- सूनृताभिः (*sūnṛtābhiḥ*)—with excellent words
+- प्र तिरंते (*pra tiraṃte*)—nourish
+- मघवद्भ्यः (*maghavadbhyaḥ*)—for such sacrificers who possess oblations
+- असश्चता (*asaścatā*)—with a mind free of sloth
+- भूतं हि (*bhūtaṃ hi*)—be their protectors
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, for those sacrificers endowed with wealth who offer you the oblation fit for offering, who distribute wealth of cattle and horses and nourish their own kinsfolk by speaking excellent, respectful words, be protectors with a mind free of sloth.
+
+##### English translation
+Be propitious to those who are affluent (in oblations), who offer the wealth that is to be offered for the sake of riches : they who encourage a kinsman with kind commendations, distributing wealth of cattle and of horses.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मे॒ हव॒मा शृ॑णुतं युवाना यासि॒ष्टं व॒र्तिर॑श्विना॒विरा॑वत् ।  
+> ध॒त्तं रत्ना॑नि॒ जर॑तं च सू॒रीन् यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+### Printed p. 501
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मे । हवं । आ । शृणुतं । युवाना । यासिष्टं । वर्तिः । अश्विनौ । इरावत् ।  
+> धत्तं । रत्नानि । जरतं । च । सूरीन् । यूयं । पात । स्वस्ति-भिः । सदा । नः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे युवाना नित्ययौवनौ अद्य युवां मे हवमस्मदीयां स्तुतिमा शृणुतं । श्रुत्वा च हे अश्विनौ इरावद्धविर्युक्तं वर्तिर्गृहं यासिष्टं । आगच्छतं । आगत्य च रत्नानि रमणीयानि धनानि दत्तं । धत्तं । सूरीन् स्तोतॄन् जरतं । वर्धयतं ॥ धातूनामनेकार्थत्वात् ॥ शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+O ever-youthful ones, today hear my invocation, that is, our praise. Having heard, O Aśvins, come to the house provided with oblation. Having come, bestow delightful riches, and जरतं (*jarataṃ*) the praisers: make them grow, since roots have many meanings. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवाना (*yuvānā*)—ever-youthful
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नु (*nu*)—now
+- मे (*me*)—my
+- हवं (*havaṃ*)—praise
+- आ शृणुतं (*ā śṛṇutaṃ*)—hear
+- इरावत् (*irāvat*)—provided with oblation
+- वर्तिः (*vartiḥ*)—our house
+- यासिष्टं (*yāsiṣṭaṃ*)—enter
+- रत्नानि (*ratnāni*)—delightful riches
+- धत्तं (*dhattaṃ*)—give
+- सूरीन् (*sūrīn*)—the praisers
+- जरतं (*jarataṃ*)—nourish
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with auspicious gifts
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O ever-youthful Aśvin deities, hear my praise now. Enter our house provided with oblation. Give us delightful riches. Nourish the praisers. Protect us always with blessings.
+
+##### English translation
+Ever youthful Aswins, hear to-day my invocation : come Ashwins, to the dwelling where the oblation is prepared : grant wealth (to the offerer): elevate the worshipper : and do you ever cherish us with blessings.
+
+### Printed p. 502
+## Sūkta 68 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ शुभ्रा यातमिति नवर्चं त्रयोदशं सूक्तं वसिष्ठस्यार्षमाश्विनं । आदितः सप्त विराजोऽष्टमीनवम्यौ त्रिष्टुभौ । अनुक्रम्यते च । आ शुभ्रा नव सप्ताद्या विराज इति । सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, आ शुभ्रा यातं (*ā śubhrā yātaṃ*), of nine Ṛks, belongs to the seer Vasiṣṭha and is addressed to the Aśvins. The first seven Ṛks are virāj; the eighth and ninth are triṣṭubh. The Anukramaṇī says: आ शुभ्रा नव सप्ताद्या विराजः (*ā śubhrā nava saptādyā virājaḥ*). The use of the sūkta is by indication (laiṅgika).
+
+##### Anuvāda
+
+This sūkta, आ शुभ्रा यातं (*ā śubhrā yātaṃ*), is the thirteenth sūkta in the fourth anuvāka. It has nine Ṛks. Vasiṣṭha is the seer; the Aśvin deities are the deity. The first seven Ṛks are in the virāṭ metre; the eighth and ninth in triṣṭup. The Anukramaṇī says: आ शुभ्रा नव सप्ताद्या विराजः (*ā śubhrā nava saptādyā virājaḥ*). The use is laiṅgika.
+
+Sūkta 68. Maṇḍala 7; Anuvāka 4; Sūkta 68. Aṣṭaka 5; Adhyāya 5; Varga 14, 15. Number of Ṛks in the sūkta: 9. Seer: Vasiṣṭha. Deity: the Aśvins. Metre: 1–7 virāṭ; 8, 9 triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ शु॑भ्रा यातमश्विना॒ स्वश्वा॒ गिरो॑ दस्रा जुजुषा॒णा यु॒वाकोः॑ ।  
+> ह॒व्यानि॑ च॒ प्रति॑भृता वी॒तं नः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । शुभ्रा । यातं । अश्विना । सुअश्वा । गिरः । दस्रा । जुजुषाणा । युवाकोः ।  
+> हव्यानि । च । प्रतिभृता । वीतं । नः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुभ्रा दीप्तौ स्वश्वा शोभनाश्वौ हे अश्विनावश्विनौ आ यातं । अस्मद्यज्ञमागच्छतं । दस्रा शत्रूणामुपक्षपयितारौ युवां युवाकोर्युवां कामयमानस्य मम गिरः स्तुतीर्जुजुषाणा सेवमानौ भवतमिति शेषः । न केवलं स्तुतिं किंतु नोऽस्मदीयानि प्रतिभृता संभृतानि हव्यानि हवींषि च वीतं भक्षयतं ॥
+
+##### Gist of the bhāṣya
+
+O bright ones, possessed of fine horses, O Aśvins, come to our sacrifice. O Dasras, destroyers of enemies, being desirous of you, may you be favourable to my praises; this is the remaining supplement. Not only the praise, but also eat our gathered oblations.
+
+### Printed p. 503
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्रा (*śubhrā*)—radiant
+- स्वश्वा (*svaśvā*)—possessed of excellent horses
+- अश्विना (*aśvinā*)—O Aśvin deities
+- आयातं (*āyātaṃ*)—come to us
+- दस्रा (*dasrā*)—you destroyers of enemies
+- युवाकोः (*yuvākoḥ*)—of me who seek your service
+- गिरः (*giraḥ*)—the praises
+- जुजुषाणा (*jujuṣāṇā*)—accepting
+- नः (*naḥ*)—by us
+- प्रतिभृता (*pratibhṛtā*)—acquired
+- हव्यानि च (*havyāni ca*)—and the oblations
+- वीतं (*vītaṃ*)—partake of
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Aśvin deities, possessed of excellent horses, come to us. You destroyers of enemies, accepting the praises of me who seek your service, partake of the oblations acquired by us.
+
+##### English translation
+Illustrious Aswins, lords of handsome horses, come hither, propitia-ted, Dasras, by the praises of your adorer, and partake of our consecrated oblations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वा॒मंधां॑सि॒ मद्या॑न्यस्थु॒ररं॑ गंतं ह॒विषो॑ वी॒तये॑ मे ।  
+> ति॒रो अ॒र्यो हव॑नानि श्रु॒तं नः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । अंधांसि । मद्यानि । अस्थुः । अरं । गंतं । हविषः । वीतये । मे ।  
+> तिरः । अर्यः । हवनानि । श्रुतं । नः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वामंधांसीत्येषाश्विनशस्त्रयाज्या । सूत्रितं च । प्र वामंधांसि मद्यान्यस्थुरुभा पिबतमश्विना । आ—६—५ । इति ॥
+> हे अश्विनौ वां युवाभ्यां मद्यानि मदजनकान्यंधांसि सोमलक्षणान्यन्नानि प्रास्थुः । प्रास्थिषत । गृहीतान्यासन्नित्यर्थः । अतो युवां मे मम हविषो वीतये पानायारमत्यर्थं शीघ्रं गंतं । आगच्छतं । अर्योऽरेरस्मद्विरोधिनो हवनानि तिरस्कृत्य नः । अस्मदाह्वानमित्यर्थः । तच्छ्रुतं । शृणुतं ॥ श्रुतमित्यस्य काव्यादित्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, प्र वामंधांसि (*pra vāmaṃdhāṃsi*), is the yājyā of the Aśvinaśastra. It is prescribed in the sūtra: प्र वामंधांसि मद्यान्यस्थुरुभा पिबतमश्विना (*pra vāmaṃdhāṃsi madyānyasthurubhā pibatamaśvinā*) (Ā. 6-5). O Aśvins, exhilarating viands in the form of Soma have been set out for you, that is, have been taken up and are at hand. Therefore come quickly to drink my oblation, abundantly. Disregarding the invocations of the foe, the adversary, hear our call.
+
+### Printed p. 504
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) वां (*vāṃ*)—for you
+- मद्यानि (*madyāni*)—exhilarating
+- अंधांसि (*aṃdhāṃsi*)—viands in the form of Soma
+- प्र अस्थुः (*pra asthuḥ*)—have been set out
+- मे (*me*)—my
+- हविषः (*haviṣaḥ*)—oblations
+- वीतये (*vītaye*)—to drink
+- अरं (*araṃ*)—quickly
+- गंतं (*gaṃtaṃ*)—come
+- अर्यः (*aryaḥ*)—of our enemy
+- हवनानि (*havanāni*)—the invocations
+- तिरः (*tiraḥ*)—disregard
+- नः (*naḥ*)—our invocation
+- श्रुतं (*śrutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, exhilarating Soma has been set out for you. Come quickly to drink my oblations (the Soma juices). Disregard the invocations of your enemy; hear only our invocation.
+
+##### English translation
+The exhilarating viands have been prepared for you : come quickly to partake of my oblation: disregarding the invocations of an adversary, listen to ours.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk प्र वामंधांसि (*pra vāmaṃdhāṃsi*) is to be recited as the yājyā mantra among the mantras of the Aśvinaśastra, as is set out by the Āśvalāyana Śrautasūtra, in the sūtra प्र वामंधांसि मद्यान्यस्थुरुभा पिबतमश्विना (*pra vāmaṃdhāṃsi madyānyasthurubhā pibatamaśvinā*) (Ā. 6-5).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वां॒ रथो॒ मनो॑जवा इयर्ति ति॒रो रजां॑स्यश्विना श॒तोतिः॑ ।  
+> अ॒स्मभ्यं॑ सूर्यावसू इया॒नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । रथः । मनः-जवाः । इयर्ति । तिरः । रजांसि । अश्विना । शत-ऊतिः ।  
+> अस्मभ्यं । सूर्यावसू इति । इयानः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्यावसू सूर्यायाः सह रथे वसंतौ वां युवयो रथोऽस्मभ्यमस्मदर्थमियानो याच्यमानः सन्नियर्ति । आगच्छत्यस्मद्यज्ञं । अथवा वां
+
+##### Gist of the bhāṣya
+
+O Sūryāvasū, who dwell in one chariot together with Sūryā, your chariot, being asked for our sake, comes to our sacrifice. Or else, of you…
+
 ---
 
-**Progress note:** Done through printed p. 498. pp. 493-498 (batch API)
+**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
