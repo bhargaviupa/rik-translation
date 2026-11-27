@@ -1836,3 +1836,132 @@
 | 675 | `(*Ni.* 11-18 as read [?])` → `(*Ni.* 11-16)` | SECOND-PASS Q1: Kannada p. 675 reads ನಿ. 11-16 |
 | 676 | `(*Ni.* 3-[?]7)` → `(*Ni.* 3-19)` | SECOND-PASS Q1: Kannada p. 676 reads ನಿ. 3-19 |
 | 677 | `[thirty-?] names of 'work' (*Ni.* 3-1 as read [?])` → `26 names of 'work' (*Ni.* 3-1)` | SECOND-PASS Q1: Kannada p. 677 26 ಕರ್ಮನಾಮಗಳಲ್ಲಿ (ನಿ. 3-1) |
+
+### 2026-11-27 second pass, batch m327-476.tsv
+| page | old → new | why |
+|---|---|---|
+| 677 | `(*Ni.* 3-1 as read [?]): *yogadānādīni` → `(*Ni.* 3-1): *yogadānādīni` | SECOND-PASS Q1: Kannada p. 677 (ನಿ. ೩-೧) |
+| 677 | `caturaḥ kṛṇotana*, *Ṛ.* 1-161-2 as read [?])` → `caturaḥ kṛṇotana*, *Ṛ.* 1-161-2)` | SECOND-PASS Q1: Kannada p. 677 (ಋ. ಸಂ. ೧-೧೬೧-೨) |
+| 677 | `(*Ṛ.* 2-1-10 as read [?])` → `(*Ṛ.* 2-1-10)` | SECOND-PASS Q1: Kannada p. 677 (ಋ. ಸಂ. ೨-೧-೧೦) |
+| 677 | `(*Ni.* 2-5 as read [?])` → `(*Ni.* 3-8)` | SECOND-PASS Q1: Kannada p. 677 (ನಿ. ೩-೮) for the names of the fingers |
+| 677 | `(*Ṛ.* 6-61-2 as read [?])` → `(*Ṛ.* 6-61-2)` | SECOND-PASS Q1: Kannada p. 677 (ಋ. ಸಂ. ೬-೬೧-೨) |
+| 677 | `(*Ṛ.* 4-23-8 as read [?])` → `(*Ṛ.* 4-23-8)` | SECOND-PASS Q1: Kannada p. 677 (ಋ. ಸಂ. ೪-೨೩-೮) |
+| 678 | `sūtra numbers are given only where read and are doubtful [?])*` → `sūtra numbers are given only where read and are doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the grammar text with its numbers |
+| 678 | `(*pā.* 3-2-51 as read [?])` → `(*pā.* 3-2-21)` | SECOND-PASS Q1: Kannada p. 678 (ಪಾ. ಸೂ. ೩-೨-೨೧) |
+| 678 | `(*pā.* 3-1-49 as read [?])` → `(*pā.* 7-1-49)` | SECOND-PASS Q1: Kannada p. 678 (ಪಾ. ಸೂ. ೭-೧-೪೯) |
+| 678 | `so that the accent falls on the end [?].` → `so that the accent falls on the end.` | SECOND-PASS Q2: Kannada p. 678: ಪ್ರತ್ಯಯಸ್ವರದಿಂದ ಅಂತೋದಾತ್ತ (accent on the end) agrees |
+| 678 | `*ājjaser asuk* (*pā.* 7-1-50 as read [?])` → `*ājjaser asuk* (*pā.* 7-1-50)` | SECOND-PASS Q2: Kannada p. 678 (ಪಾ. ಸೂ. ೭-೧-೫೦) agrees |
+| 678 | `*supāṃ suluk…* (*pā.* 7-1-39 as read [?])` → `*supāṃ suluk…* (*pā.* 7-1-39)` | SECOND-PASS Q2: Kannada p. 678 (ಪಾ. ಸೂ. ೭-೧-೩೯) agrees |
+| 678 | `*parasmaipadānām…* (*pā.* 3-4-82 as read [?])` → `*parasmaipadānām…* (*pā.* 3-4-82)` | SECOND-PASS Q2: Kannada p. 678 (ಪಾ. ಸೂ. ೩-೪-೮೨) agrees |
+| 678 | `(*pā.* 7-4-72 as read [?])` → `(*pā.* 7-4-72)` | SECOND-PASS Q2: Kannada p. 678 (ಪಾ. ಸೂ. ೭-೪-೭೨) agrees |
+| 678 | `(*pā.* 1-3-13 as read [?])` → `(*pā.* 1-3-13)` | SECOND-PASS Q2: Kannada p. 678 (ಪಾ. ಸೂ. ೧-೩-೧೩) agrees |
+| 678 | `(*pā.* 3-1-67 as read [?])` → `(*pā.* 3-1-67)` | SECOND-PASS Q2: Kannada p. 678 (ಪಾ. ಸೂ. ೩-೧-೬೭) agrees |
+| 678 | `*tiṅ atiṅaḥ* [?].` → `*tiṅ atiṅaḥ*.` | SECOND-PASS Q2: Kannada p. 678 ತಿಣ್ಣತಿಜಃ: the print uses ಜ for ṅ throughout (ಅತಿಜಂತ, ತಿಜಂತ); English has the real sūtra name |
+| 679 | `Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 679.` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 679.` | SECOND-PASS Q1: Kannada p. 679 head reads ವ. 30 (Kannada numerals correct); English Va. 10 was a misreading |
+| 679 | `the model of all [?], the praised` → `the model of all, the praised` | SECOND-PASS Q2: Kannada p. 679 ಉಪಮಂ ಸರ್ವೇಷಾಮುಪಮಾನಭೂತಂ agrees |
+| 679 | `*pā.* 6-1-[?], by which, by *vyatyaya*, in the singular the *a* receives nasalization — as` → `*pā.* 8-4-57, by which, by *vyatyaya*, in the singular the *a* receives nasalization]` | SECOND-PASS Q1: Kannada p. 679 (ಅಣೋಽಪ್ರಗೃಹ್ಯಸ್ಯಾನುನಾಸಿಕಃ ಪಾ ೮_೪_೫೭) |
+| 679 | `*akṣādi* class [?], so the` → `*akṣādi* class, so the` | SECOND-PASS Q2: Kannada p. 679 ಈಷಾ ಅಕ್ಷಾದಿತ್ವಾತ್ agrees |
+| 679 | `because of the *anudātta* [marker] *ṅ*/*it* [?].` → `because of *anudāttetvāt* [the *anudātta* *it*-marker].` | SECOND-PASS Q1: Kannada p. 679 ಅನುದಾತ್ತೇತ್ವಾದಾತ್ಮನೇಪದಂ (IAST by sp_sanskrit.py) |
+| 680 | `which was eager [?] in the work` → `which was eager in the work` | SECOND-PASS Q2: Kannada p. 680 ಉದ್ಯುಕ್ತವಾದುದೂ agrees |
+| 680 | `names of 'going' (*Ni.* 2-[?])` → `names of 'going' (*Ni.* 3-9)` | SECOND-PASS Q1: Kannada p. 680 (ನಿ. ೩-೯) |
+| 680 | `(*Ṛ.* 1-163-6 as read [?])` → `(*Ṛ.* 1-163-6)` | SECOND-PASS Q1: Kannada p. 680 (ಋ. ಸಂ. ೧-೧೬೩-೬) |
+| 680 | `(*Ṛ.* 10-[?]-[?] as read [?])` → `(*Ṛ.* 10-3-6)` | SECOND-PASS Q1: Kannada p. 680 (ಋ. ಸಂ. ೧೦-೩-೬) |
+| 681 | `Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 681.` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 681.` | SECOND-PASS Q1: Kannada p. 681 head reads ವ. 30 (Kannada numerals correct); English Va. 10 was a misreading |
+| 681 | `(*Ṛ.* 10-[?]-[?] as read [?])` → `(*Ṛ.* 10-15-9)` | SECOND-PASS Q1: Kannada p. 681 (ಋ. ಸಂ. ೧೦-೧೫-೯) |
+| 681 | `(*prāstāḥ* [?], as read)` → `(*prāptāḥ*)` | SECOND-PASS Q1: Kannada p. 681 ಪ್ರಾಪ್ತಾಃ (IAST by sp_sanskrit.py) |
+| 681 | `upamānabhūtaṃ [?] praśastaṃ` → `upamānabhūtaṃ praśastaṃ` | SECOND-PASS Q2: Kannada p. 681 ಉಪಮಾನಭೂತಂ agrees |
+| 681 | `sūtra numbers only as read and doubtful [?])*` → `sūtra numbers only as read and doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the grammar text |
+| 681 | `*parasmaipadānām…* (*pā.* 3-1-85 as read [?]);` → `*parasmaipadānām…*;` | SECOND-PASS S3: Kannada p. 681 gives no number there (ಪರಸ್ಮೈಪದಾನಾಂ—ಎಂಬುದರಿಂದ) |
+| 681 | `(*pā.* 6-4-59 as read [?])` → `(*pā.* 7-4-59)` | SECOND-PASS Q1: Kannada p. 681 (ಹ್ರಸ್ವಃ ಪಾ. ಸೂ. ೭-೪-೫೯) |
+| 681 | `wel; by *liti* (*pā.* 6-1-193 as read [?])` → `wel; by *liti* (*pā.* 6-1-193)` | SECOND-PASS Q2: Kannada p. 681 (ಪಾ. ಸೂ. ೬-೧-೧೯೩) agrees |
+| 681 | `(*pā.* 8-4-[?], as read [?])` → `(*pā.* 8-4-57)` | SECOND-PASS Q1: Kannada p. 681 (ಪಾ. ಸೂ. ೮-೪-೫೭) |
+| 682 | `(*pā.* 7-2-82 as read [?])` → `(*pā.* 7-2-82)` | SECOND-PASS Q2: Kannada p. 682 (ಪಾ. ಸೂ. ೭-೨-೮೨) agrees |
+| 682 | `hātuka* is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1` → `hātuka* is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1` | SECOND-PASS Q2: Kannada p. 682 (ಪಾ. ಸೂ ೬-೧-೧೮೬) agrees |
+| 682 | `(*pā.* 4-2-102 as read [?])` → `(*pā.* 3-2-102)` | SECOND-PASS Q1: Kannada p. 682 (ಪಾ. ಸೂ. ೩-೨-೧೦೨) |
+| 682 | `(*pā.* 6-249 as read [?])` → `(*pā.* 6-249)` | SECOND-PASS Q1: Kannada p. 682 prints ೬-೨೪೯ (impossible form, applied as printed; listed in open.tsv) |
+| 682 | `(*pā.* 3-3-106 as read [?])` → `(*pā.* 3-3-106)` | SECOND-PASS Q2: Kannada p. 682 (ಪಾ. ಸೂ. ೩-೩-೧೦೬) agrees |
+| 682 | `cent; *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?])` → `cent; *gatikārakopapadāt kṛt* (*pā.* 6-3-139)` | SECOND-PASS Q1: Kannada p. 682 (ಪಾ. ಸೂ. ೬-೩-೧೩೯) |
+| 682 | `(*pā.* 6-2-2 as read [?]):` → `(*pā.* 6-2-2):` | SECOND-PASS Q2: Kannada p. 682 (ಪಾ. ಸೂ. ೬-೨-೨) agrees |
+| 682 | `(*pā.* 3-1-77 as read [?]); *iṣugamiyamāṃ chaḥ* (*pā.* 7-3-77 as read [?])` → `(*pā.* 3-1-77); *iṣugamiyamāṃ chaḥ* (*pā.* 7-3-77)` | SECOND-PASS Q2: Kannada p. 682 (ಪಾ. ಸೂ. ೩-೧-೭೭ and ೭-೩-೭೭) agrees |
+| 683 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 683.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 683.` | SECOND-PASS Q1: Kannada p. 683 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 683 | `*sāveka-c*[?], so that` → `*sāvekāca*, so that` | SECOND-PASS Q1: Kannada p. 683 ಸಾವೇಕಾಚ ಇತಿ ವಿಭಕ್ತೇರುದಾತ್ತತ್ವಂ (IAST by sp_sanskrit.py) |
+| 683 | `(*loṭ… uttamasya pic ca* [?])` → `(*loṭ… uttamasya pic ca*)` | SECOND-PASS Q2: Kannada p. 683 ಲೋಟ್ಯಾಡುತ್ತಮಸ್ಯ ಪಿಚ್ಚೇತ್ಯಾಡಾಗಮಃ agrees (English abridges with …) |
+| 683 | `the Uṇādi suffix *mani* [?]; … [?] the non-loss of *a* by *na saṃyogād vamantāt* [?] (cont` → `the Uṇādi suffix *mani*; the non-loss of *a* by *na saṃyogād vamantāt* (continued` | SECOND-PASS Q2: Kannada pp. 683-684 ಔಣಾದಿಕೋ ಮನಿಃ । ನ ಸಂಯೋಗಾ-|ದ್ವಮಂತಾದಿತಿ agrees; nothing stands between mani and na saṃyogād in the print, so the gap mark goes |
+| 683 | `the Uṇādi-suffix [?]; its abstract-noun` → `the Uṇādi-suffix *ani*; its abstract-noun` | SECOND-PASS Q1: Kannada p. 684 ಕರ್ತರ್ಯನಿಪ್ರತ್ಯಯಃ (suffix ani) |
+| 683 | `*śīrṣacchandasi bahulam* — loss of *śī* [?].` → `*śeś chandasi bahulam* — loss of *śi*.` | SECOND-PASS Q1: Kannada p. 684 ಶೇಶ್ಛಂದಸಿ ಬಹುಲಮಿತಿ ಶೇರ್ಲೋಪಃ and p. 686 (English p. 686 already notes the correction) |
+| 683 | `the Vedic option [?] gives` → `the Vedic option gives` | SECOND-PASS Q2: Kannada p. 684 ದ್ವಿರ್ವಚನಪ್ರಕರಣೇ ಛಂದಸಿ ವೇತಿ ವಕ್ತವ್ಯಮ್ agrees |
+| 683 | `by *ūḍidam…* [?].` → `by *ūḍidam…*.` | SECOND-PASS Q2: Kannada p. 684 ಊಡಿದಮಿತ್ಯಾದಿನಾ agrees |
+| 683 | `as said (*Ni.* [?]) 'worlds are called` → `as said (*Ni.* 4-19) 'worlds are called` | SECOND-PASS Q1: Kannada p. 684 (ನಿ. ೪-೧೯) |
+| 683 | `in the roots *rajaka*, *rajana*, *rajas* [?];` → `by the *vārttika rajakarajanarajaḥsūpasaṅkhyānam*;` | SECOND-PASS Q1: Kannada p. 684 ರಜಕರಜನರಜಸೂಪಸಂಖ್ಯಾನಮಿತಿ ನಲೋಪಃ (spelling as English p. 687) |
+| 684 | `*dvamantāt* [?] [as read]` → `*dvamantāt* [as read]` | SECOND-PASS Q2: Kannada p. 684 head ದ್ವಮಂತಾದಿತ್ಯಲ್ಲೋಪಾಭಾವಃ agrees |
+| 684 | `*tṝ plavanataraṇayoḥ* … [?];` → `*tṝ plavanataraṇayoḥ* …;` | SECOND-PASS Q2: Kannada p. 684 has the continuation (ಆರ್ತಿಸೃ…ಅನಿಃ … ತರಣಿತ್ವಂ); the English abridges with … |
+| 684 | `the section on doubling [?]; *irec* [?]… the` → `the section on doubling; *irec*… the` | SECOND-PASS Q2: Kannada p. 684 ದ್ವಿರ್ವಚನಪ್ರಕರಣೇ … ಇರೇಚಶ್ಚಿತ್ವಾದಂತೋದಾತ್ತತ್ವಂ agrees |
+| 684 | `(*Ni.* [?]); the Uṇādi *asun*` → `(*Ni.* 4-19); the Uṇādi *asun*` | SECOND-PASS Q1: Kannada p. 684 (ನಿ. ೪-೧೯) |
+| 684 | `the ghee that flows [?] in` → `the ghee that flows in` | SECOND-PASS Q2: Kannada p. 684 ಸ್ರವಿಸುವ ಆಜ್ಯದೊಂದಿಗೆ agrees |
+| 685 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 685.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 685.` | SECOND-PASS Q1: Kannada p. 685 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 685 | `(*Ni.* 11-17 as read [?])` → `(*Ni.* 11-17)` | SECOND-PASS Q1: Kannada p. 685 (ನಿ. ೧೧-೧೭) |
+| 685 | `(*Ṛ.* 1-161-11 as read [?])` → `(*Ṛ.* 1-161-11)` | SECOND-PASS Q1: Kannada p. 685 (ಋ. ಸಂ. ೧-೧೬೧-೧೧, second of two lines, the first being ೧-೧೬-೧೧) |
+| 686 | `works which keep the world going [?], the praise` → `works that benefit the world, the praise` | SECOND-PASS Q1: Kannada p. 686 ಲೋಕೋಪಕಾರಕ ಕೆಲಸಗಳನ್ನು (works beneficial to the world) |
+| 686 | `pp. 686–687, noted briefly; sūtra numbers only as read, doubtful [?])*` → `pp. 686–687, noted briefly; sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada pages have the grammar text |
+| 686 | `*pā.* 61-168 as read [?]]` → `*pā.* 6-1-168]` | SECOND-PASS Q1: Kannada p. 686 (ಪಾ. ಸೂ. ೬-೧-೧೬೮) |
+| 686 | `*nityaṃ ṅitaḥ* [?] drops` → `*nityaṃ ṅitaḥ* drops` | SECOND-PASS Q2: Kannada p. 686 ನಿತ್ಯಂಜಿತಃ: the print uses ಜ for ṅ; English has the real sūtra name |
+| 686 | `s*; *āḍuttamasya pic ca* (*pā.* 3-4-92 as read [?])` → `s*; *āḍuttamasya pic ca* (*pā.* 3-4-92)` | SECOND-PASS Q2: Kannada p. 686 (ಪಾ. ಸೂ. ೩-೪-೯೨) agrees |
+| 686 | `(*pā.* 64-137 as read [?])` → `(*pā.* 6-4-137)` | SECOND-PASS Q1: Kannada p. 686 (ಪಾ. ಸೂ. ೬-೪-೧೩೭) |
+| 686 | `(*Uṇ.* 3-[?]4, as read [?])` → `(*Uṇ.* 2-259)` | SECOND-PASS Q1: Kannada p. 686 (ಉ. ಸೂ. ೨-೨೫೯) |
+| 686 | `(*pā.* 5-1-119 as read [?])` → `(*pā.* 5-1-119)` | SECOND-PASS Q2: Kannada p. 686 (ಪಾ. ಸೂ. ೫-೧-೧೧೯) agrees |
+| 686 | `(*pā.* 6-1-70 as read [?])` → `(*pā.* 6-1-70)` | SECOND-PASS Q2: Kannada p. 686 (ಪಾ. ಸೂ. ೬-೧-೭೦) agrees |
+| 686 | `chandasi vā…* [?] the root` → `chandasi vā…* the root` | SECOND-PASS Q2: Kannada p. 686 ದ್ವಿರ್ವಚನಪ್ರಕರಣೇ ಛಂದಸಿ ವೇತಿ… agrees (English abridges with …) |
+| 686 | `(*pā.* 3-4-81 as read [?])` → `(*pā.* 3-4-81)` | SECOND-PASS Q2: Kannada p. 686 (ಪಾ. ಸೂ. ೩-೪-೮೧) agrees |
+| 686 | `*pā.* 6-1-163 as read [?]]` → `*pā.* 6-1-163]` | SECOND-PASS Q2: Kannada p. 686 (ಪಾ. ಸೂ. ೬-೧-೧೬೩) agrees |
+| 686 | `locked by *yad vṛttān nityam* (*pā.* 8-1-66 as read [?])` → `locked by *yad vṛttān nityam* (*pā.* 8-1-66)` | SECOND-PASS Q2: Kannada p. 686 (ಪಾ. ಸೂ ೮-೧-೬೬) agrees |
+| 687 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 687.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 687.` | SECOND-PASS Q1: Kannada p. 687 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 687 | `he *i* by *itaś ca* (*pā.* 3-4-100 as read [?])` → `he *i* by *itaś ca*` | SECOND-PASS S3: Kannada p. 687 gives no number there (ಇತಶ್ಚ—ಸೂತ್ರದಿಂದ) |
+| 687 | `(*pā.* 3-1-52-1 as read [?])` → `(*pā.* 3-1-52-1)` | SECOND-PASS Q2: Kannada p. 687 (ಪಾ. ಸೂ. ೩-೧-೫೨-೧) agrees |
+| 687 | `ṃpadādyappumraidyubhyaḥ* (*pā.* 6-1-171 as read [?])` → `ṃpadādyappumraidyubhyaḥ* (*pā.* 6-1-171)` | SECOND-PASS Q2: Kannada p. 687 (ಪಾ. ಸೂ. ೬-೧-೧೭೧) agrees |
+| 687 | `(*Ni.* 4-[?]9 as read [?])` → `(*Ni.* 4-19)` | SECOND-PASS Q1: Kannada p. 687 (ನಿರು. ೪-೧೯) |
+| 687 | `rajakarajanarajaḥsūpasaṅkhyānam* [?]` → `rajakarajanarajaḥsūpasaṅkhyānam*` | SECOND-PASS Q2: Kannada p. 687 ರಜಕರಜನರಜಃ ಸೂಪಸಂಖ್ಯಾನಮ್ agrees |
+| 687 | `(*pā.* 7-1-39 as read [?]). ‖ 6 ‖` → `(*pā.* 7-1-39). ‖ 6 ‖` | SECOND-PASS Q2: Kannada p. 687 (ಪಾ. ಸೂ. ೭-೧-೩೯) agrees |
+| 688 | `the suffix *ki* [?], by treatment` → `the suffix *ki*, by treatment` | SECOND-PASS Q2: Kannada p. 688 ಆದ್ಯಗಮಹನ ಇತಿ ಕಿಪ್ರತ್ಯಯಃ agrees |
+| 689 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 689.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 689.` | SECOND-PASS Q1: Kannada p. 689 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 689 | `'the exceeding lord' [?]."` → `'the exceeding lord'."` | SECOND-PASS Q2: Kannada p. 689 ಇಂದ್ರಸದೃಶಃ ಅತ್ಯಂತೇಶ್ವರೋ … and its explanation agree |
+| 689 | `(*Ai. Brā.* 28-4 as read [?])` → `(*Ai. Brā.* 28-4)` | SECOND-PASS Q1: Kannada p. 689 (ಇ. ಬ್ರೆ. ೨೮-೪) |
+| 689 | `in place of the dual. *… [?]* And` → `in place of the dual. That is Vedic usage. And` | SECOND-PASS Q1: Kannada p. 689 adds: ದ್ವಿವಚನಕ್ಕೆ ಬದಲಾಗಿ ಬಹುವಚನ ಪ್ರಯೋಗವಿದೆ. ಅದು ಛಾಂದಸ. |
+| 690 | `(*Ni.* 2-17 [?] as read)` → `(*Ni.* 3-9)` | SECOND-PASS Q1: Kannada p. 690 (ನಿ. ೩-೯) for the names of battle |
+| 690 | `pp. 690–691, noted briefly; sūtra numbers only as read, doubtful [?])*` → `pp. 690–691, noted briefly; sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada pages have the grammar text |
+| 690 | `(*pā.* 5-3-57 as read [?])` → `(*pā.* 5-3-57)` | SECOND-PASS Q2: Kannada p. 690 (ಪಾ. ಸೂ. ೫-೩-೫೭) agrees |
+| 690 | `(*upadhādīrgha*, sūtra-name partly clotted [?])` → `(*upadhādīrgha* by *atvasaṃtasya…*)` | SECOND-PASS Q1: Kannada p. 690 ಅತ್ವಸಂತಸ್ಯ—ಸೂತ್ರದಿಂದ ಉಪಧಾದೀರ್ಘ (IAST by sp_sanskrit.py) |
+| 690 | `marker *u-k* [?]; loss of *su*` → `marker *u-k*; loss of *su*` | SECOND-PASS Q2: Kannada p. 690 ಉಗಿತ್ತಾದುದರಿಂದ agrees |
+| 690 | `(*pā.* 7-1-10 as read [?]); by *bahuvacane jhaly et* (*pā.* 7-3-103 as read [?])` → `(*pā.* 7-1-10); by *bahuvacane jhaly et*` | SECOND-PASS Q2: Kannada p. 690 (ಪಾ. ಸೂ. ೭-೧-೧೦) agrees; no number for ಬಹುವಚನೇ ಝಲ್ಯೇತ್ in the print (S3 for the second) |
+| 690 | `*Uṇ.* 1-10 as read [?]]` → `*Uṇ.* 1-10]` | SECOND-PASS Q2: Kannada p. 690 (ಉ. ಸೂ. ೧-೧೦) agrees |
+| 690 | `ule, *ñnityādir nityam* (*pā.* 6-1-197 as read [?])` → `ule, *ñnityādir nityam*` | SECOND-PASS S3: Kannada p. 690 gives no number there (ಇತ್ಯಾದಿರ್ನಿತ್ಯಮ್—ಎಂಬುದರಿಂದ) |
+| 690 | `(*pā.* 3-2-171 as read [?])` → `(*pā.* 3-2-171)` | SECOND-PASS Q2: Kannada p. 690 (ಪಾ. ಸೂ. ೩-೨-೧೭೧) agrees |
+| 690 | `s by *nityaṃ ṅitaḥ* (*pā.* 3-4-99 as read [?])` → `s by *nityaṃ ṅitaḥ*` | SECOND-PASS S3: Kannada p. 690 gives no number there (ನಿತ್ಯಂ ಜಾತಃ—ಎಂಬುದರಿಂದ) |
+| 690 | `(*pā.* 7-3-78 as read [?])` → `(*pā.* 7-3-78)` | SECOND-PASS Q2: Kannada pp. 690-691 (ಪಾ. ಸೂ. ೭-೩-೭೮) agrees |
+| 690 | `(*pā.* 6-2-2 as read [?]) gives` → `(*pā.* 6-2-2) gives` | SECOND-PASS Q2: Kannada p. 691 (ಪಾ. ಸೂ. ೬-೨-೨) agrees |
+| 691 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 691.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 691.` | SECOND-PASS Q1: Kannada p. 691 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 691 | `*āmantritasya ca* [?]. *Svapasyayā*` → `*āmantritasya ca*. *Svapasyayā*` | SECOND-PASS Q2: Kannada p. 692 ಆಮಂತ್ರಿತಸ್ಯ ಚೇತ್ಯಾದ್ದುದಾತ್ತತ್ವಂ agrees |
+| 691 | `the suffix *a* [?] in the sense of state` → `the suffix *a* in the sense of state` | SECOND-PASS Q2: Kannada p. 692 ಭಾವೇಽಕಾರಪ್ರತ್ಯಯಃ agrees |
+| 691 | `ead, *Uṇ.* 4-[?]];` → `ead, *Uṇ.* 4-54];` | SECOND-PASS Q1: Kannada p. 692 (ಉ. ೪-೫೪) |
+| 691 | `no lengthening [?]; the first` → `no lengthening; the first` | SECOND-PASS Q2: Kannada p. 692 ಬಹುಲವಚನಾದ್ದಲಿ ಚೇತಿ ದೀರ್ಘಾಭಾವಃ agrees |
+| 691 | ` ca pitarau*; by *pitā mātrā* (*pā.* 1-2-70 as read [?])` → ` ca pitarau*; by *pitā mātrā* (*pā.* 1-2-70)` | SECOND-PASS Q2: Kannada p. 692 (ಪಾ ೧-೨-೭೦) agrees |
+| 691 | `*a(p)* by *dhinvikṛṇvyor a ca* (*pā.* 3-1-80 as read [?])` → `*a(p)* by *dhinvikṛṇvyor a ca*` | SECOND-PASS S3: Kannada p. 692 gives no number there |
+| 691 | `* by *taptanaptanathanāś ca* (*pā.* 7-1-45 as read [?])` → `* by *taptanaptanathanāś ca*` | SECOND-PASS S3: Kannada p. 692 gives no number there |
+| 693 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 693.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 693.` | SECOND-PASS Q1: Kannada p. 693 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 693 | `being cut up [?], hearing` → `being cut up, hearing` | SECOND-PASS Q2: Kannada p. 693 ಅದನ್ನು ಕುಯ್ಯುವಾಗ agrees |
+| 694 | `(*Ṛ.* 1-[?]-[?] as read [?])` → `(*Ṛ.* 0-168-9)` | SECOND-PASS Q1: Kannada p. 694 prints (ಋ. ಸಂ. ೦-೧೬೮.-೯), impossible form, applied as printed; listed in open.tsv |
+| 694 | `(*Ṛ.* 3-60-2 as read [?])` → `(*Ṛ.* 3-69-2)` | SECOND-PASS Q1: Kannada p. 694 prints (ಋ. ಸಂ. ೩-೬೯-೨); impossible hymn number, applied as printed; listed in open.tsv |
+| 694 | `(*Ṛ.* 10-68-11 as read [?])` → `(*Ṛ.* 10-68-11)` | SECOND-PASS Q2: Kannada p. 694 (ಋ. ಸಂ. ೧೦-೬೮-೧೧) agrees |
+| 694 | `(*Ṛ.* 10-110-9 as read [?])` → `(*Ṛ.* 10-110-9)` | SECOND-PASS Q2: Kannada p. 694 (ಋ. ಸಂ. ೧೦-೧೧೦-೯) agrees |
+| 694 | `(*Ṛ.* 1-180-5 as read [?])` → `(*Ṛ.* 1-180-5)` | SECOND-PASS Q2: Kannada p. 694 (ಋ. ಸಂ. ೧-೧೮೦-೫) agrees |
+| 694 | `(*Ni.* 3-21 as read [?])` → `(*Ni.* 3-21)` | SECOND-PASS Q2: Kannada p. 694 (೩-೨೧) agrees |
+| 694 | `(*Ṛ.* 8-[?]-[?] as read [?])` → `(*Ṛ.* 8-45-20)` | SECOND-PASS Q1: Kannada p. 694 (ಋ. ಸಂ. ೮-೪೫-೨೦) |
+| 694 | `(*Ṛ.* 10-[?]-[?] as read [?])` → `(*Ṛ.* 10-85-27)` | SECOND-PASS Q1: Kannada p. 694 (ಋ. ಸಂ. ೧೦-೮೫-೨೭) |
+| 695 | `Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 695.` → `Va. 31"; centre "Ṛgvedasaṃhitā"; right 695.` | SECOND-PASS Q1: Kannada p. 695 head reads ವ. 31 (Kannada numerals correct); English Va. 11 was a misreading |
+| 695 | `pp. 695–696, noted briefly; sūtra numbers only as read, doubtful [?])*` → `pp. 695–696, noted briefly; sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada pages have the grammar text |
+| 695 | `(*pā.* 3-1-77 as read [?]) the sign` → `(*pā.* 3-1-77) the sign` | SECOND-PASS Q2: Kannada p. 695 (ಪಾ. ಸೂ ೩-೧-೭೭) agrees |
+| 695 | `(*pā.* 76-1-59 as read [?])` → `(*pā.* 7-1-59)` | SECOND-PASS Q1: Kannada p. 695 (ಪಾ. ಸೂ. ೭-೧-೫೯) |
+| 695 | `*nasta ddhite* (*pā.* 6-4-144 as read [?])` → `*nasta ddhite*` | SECOND-PASS S3: Kannada p. 695 gives no number there (ನಸ್ತದ್ಧಿತೇ—ಸೂತ್ರದಿಂದ) |
+| 695 | `(*pā.* 6-4-167 as read [?])` → `(*pā.* 6-4-167)` | SECOND-PASS Q2: Kannada p. 695 (ಪಾ. ಸೂ. ೬-೪-೧೬೭) agrees |
+| 695 | `e by *taddhiteṣv acām ādeḥ* (*pā.* 7-2-117 as read [?])` → `e by *taddhiteṣv acām ādeḥ*` | SECOND-PASS S3: Kannada p. 695 gives no number there (ತದ್ವಿತೇಷ್ವಚಾಮಾದೇಃ—ಎಂಬುದರಿಂದ) |
+| 695 | `(*pā.* 7-150 as read [?])` → `(*pā.* 7-1-50)` | SECOND-PASS Q1: Kannada p. 695 (ಪಾ. ಸೂ. ೭-೧-೫೦) |
+| 695 | `(*pā.* 6-1-198 as read [?])` → `(*pā.* 6-1-198)` | SECOND-PASS Q2: Kannada p. 695 (ಪಾ. ಸೂ. ೬-೧-೧೯೮) agrees |
