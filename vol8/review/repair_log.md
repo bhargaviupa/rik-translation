@@ -2502,3 +2502,141 @@
 | 789 | `Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 789.` → `Va. 35"; centre "Ṛgvedasaṃhitā"; right 789.` | SECOND-PASS Q2: running head: Kannada p. 789 has Va. 35 |
 | 789 | `(*Ṛ.* 7-[?]-[?] as read [?])` → `(*Ṛ.* 5-33-8)` | SECOND-PASS Q1: Kannada p. 789 has Ṛ. Saṃ. 5-33-8 |
 | 789 | `4-42-8 as read [?]; cited` → `4-42-8 as read; cited` | SECOND-PASS Q2: Kannada p. 789 has the same number |
+
+### 2026-11-27 second pass, batch m357-506.tsv
+| page | old → new | why |
+|---|---|---|
+| 790 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 790 | `5-27 as read [?]` → `2-215` | SECOND-PASS Q1: Kannada p790 Uṇ. Sū. 2-215 (kvibvacipracchā) |
+| 790 | `(*pā.* 6-2-139 as read [?])` → `(*pā.* 6-2-139 as read)` | SECOND-PASS Q2: Kannada p790 has Pā. Sū. 6-2-139 |
+| 790 | ` (*pā.* 6-4-77 as read [?])` → `` | SECOND-PASS S3: Kannada p790 gives no number there (ಅಚಿಶ್ನುಧಾತು—ಸೂತ್ರದಿಂದ) |
+| 790 | `6-3-21 as read [?]` → `6-3-21-5` | SECOND-PASS Q1: Kannada p790 ಕಾ. ೬-೩-೨೧--೫ |
+| 790 | `6-2-91-1 as read [?]` → `6-2-21-1` | SECOND-PASS Q1: Kannada p790 ಪಾ. ಸೂ. ೬-೨-೨೧-೧ (numerals of the Kannada applied as printed) |
+| 790 | `(*pā.* 3-1-108 as read [?])` → `(*pā.* 3-1-108 as read)` | SECOND-PASS Q2: Kannada p790 has Pā. Sū. 3-1-108 |
+| 791 | `Va. 35 [?]"` → `Va. 35"` | SECOND-PASS Q2: Kannada p791 head ವ. ೩೫ |
+| 791 | `62-147 as read [?]` → `6-2-147` | SECOND-PASS Q1: Kannada p791 Pā. ೬-೨-೧೪೭ |
+| 791 | `(*pā.* 5-4-134 as read [?])` → `(*pā.* 5-4-134 as read)` | SECOND-PASS Q2: Kannada p791 Pā. ೫-೪-೧೩೪ |
+| 792 | `[as read [?]]` → `[as read]` | SECOND-PASS Q2: Kannada p792 ೧೦ನೇ ಮಂಡಲದ ೯೯ನೇ ಸೂಕ್ತದ |
+| 792 | `"p. 119 [?]"` → `"Sā. Bhā. Pīṭhikā. 10-99"` | SECOND-PASS Q1: Kannada p792 (ಸಾ. ಭಾ. ಪೀಠಿಕಾ. ೧೦-೯೯) |
+| 793 | `Va. 35 [?]"` → `Va. 35"` | SECOND-PASS Q2: Kannada p793 head ವ. ೩೫ |
+| 793 | `10-99-5 as read [?]` → `10-99-5 as read` | SECOND-PASS Q2: Kannada p793 ಋ. ಸಂ. ೧೦-೯೯-೫ |
+| 793 | `10-99-12 as read [?]` → `10-99-12 as read` | SECOND-PASS Q2: Kannada p793 ಋ. ಸಂ. ೧೦-೯೯-೧೨ |
+| 793 | `10-99-[?] Ṛk` → `1-51-9 Ṛk` | SECOND-PASS Q1: Kannada p793 ೧-೫೧-೯ನೇ ಋಕ್ಕಿನಲ್ಲಿ |
+| 793 | `10-49-8 as read [?]` → `10-39-8` | SECOND-PASS Q1: Kannada p793 ಋ. ಸಂ. ೧೦-೩೯-೮ |
+| 793 | `8-66-13 as read [?]` → `8-66-15` | SECOND-PASS Q1: Kannada p793 ಋ. ಸಂ. ೮-೬೬-೧೫ |
+| 794 | `8-9-10 as read [?]` → `8-9-10 as read` | SECOND-PASS Q2: Kannada p794 ಋ. ಸಂ. ೮-೯-೧೦ |
+| 794 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 794 | `(*pā.* 3-2-129 as read [?])` → `(*pā.* 3-2-129 as read)` | SECOND-PASS Q2: Kannada p794 ಪಾ. ಸೂ. ೩-೨-೧೨೯ |
+| 794 | ` (*pā.* 2-4-76 as read [?])` → `` | SECOND-PASS S3: Kannada p794 gives no number there |
+| 794 | ` (*pā.* 6-1-10 as read [?])` → `` | SECOND-PASS S3: Kannada p794 gives no number there (ಶ್ಲು—ಸೂತ್ರದಿಂದ) |
+| 794 | `3-478 as read [?]` → `7-4-78` | SECOND-PASS Q1: Kannada p794 ಪಾ. ಸೂ. ೭-೪-೭೮ |
+| 794 | `(*pā.* 6-1-163 as read [?])` → `(*pā.* 6-1-163 as read)` | SECOND-PASS Q2: Kannada p794 ೬-೧-೧೬೩ |
+| 794 | `(*pā.* 3-2-102 as read [?])` → `(*pā.* 3-2-102 as read)` | SECOND-PASS Q2: Kannada p794 ೩-೨-೧೦೨ |
+| 794 | `(*pā.* 6-2-147 as read [?])` → `(*pā.* 6-2-147 as read)` | SECOND-PASS Q2: Kannada p794 ೬-೨-೧೪೭ |
+| 794 | `(*pā.* 5-4-134 as read [?])` → `(*pā.* 5-4-134 as read)` | SECOND-PASS Q2: Kannada p794 ೫-೪-೧೩೪ |
+| 794 | `61-66 as read [?]` → `6-1-66` | SECOND-PASS Q1: Kannada p794 ೬-೧-೬೬ |
+| 794 | `(*pā.* 6-2-1 as read [?])` → `(*pā.* 6-2-1 as read)` | SECOND-PASS Q2: Kannada p794 ೬-೨-೧ |
+| 794 | `(*pā.* 8-2-4 as read [?])` → `(*pā.* 8-2-4 as read)` | SECOND-PASS Q2: Kannada p794 ೮-೨-೪ |
+| 795 | `Va. 36 [?]"` → `Va. 36"` | SECOND-PASS Q2: Kannada p795 head ವ. ೩೬ |
+| 795 | `(*Uṇ.* 1-7 as read [?])` → `(*Uṇ.* 1-7 as read)` | SECOND-PASS Q2: Kannada p795-796 उ. १-७ (ಉ. ೧-೭) |
+| 797 | `Va. 36 [?]"` → `Va. 36"` | SECOND-PASS Q2: Kannada p797 head ಪ. ೩೬ |
+| 797 | `1-117-51 as read [?]` → `1-117-21` | SECOND-PASS Q1: Kannada p797 ಋ. ಸಂ. ೧-೧೧೭-೨೧ |
+| 797 | `8-22-6 as read [?]` → `8-22-6 as read` | SECOND-PASS Q2: Kannada p797 ಋ. ಸಂ. ೮-೨೨-೬ |
+| 797 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 797 | `(*pā.* 3-3-57 as read [?])` → `(*pā.* 3-3-57 as read)` | SECOND-PASS Q2: Kannada p797 ಪಾ. ಸೂ. ೩-೩-೫೭ |
+| 797 | `7-1-39 as read [?]` → `7-1-39 as read` | SECOND-PASS Q2: Kannada p797 ಪಾ. ಸೂ ೭-೧-೩೯ |
+| 797 | `(*pā.* 8-1-19 as read [?])` → `(*pā.* 8-1-19 as read)` | SECOND-PASS Q2: Kannada p797 ಪಾ. ಸೂ. ೮-೧-೧೯ |
+| 797 | `(*Uṇ.* 1-7 as read [?])` → `(*Uṇ.* 1-7 as read)` | SECOND-PASS Q2: Kannada p797 ಉ. ಸೂ. ೧-೭ |
+| 798 | `6-4-78 as read [?]]` → `6-4-78 as read]` | SECOND-PASS Q2: Kannada p798 ಪಾ. ಸೂ ೬-೪-೭೮ |
+| 798 | `(*pā.* 8-1-66 as read [?])` → `(*pā.* 8-1-66 as read)` | SECOND-PASS Q2: Kannada p798 ೮-೧-೬೬ |
+| 798 | `(*pā.* 4-3-140 as read [?])` → `(*pā.* 4-3-140 as read)` | SECOND-PASS Q2: Kannada p798 ೪-೩-೧೪೦ |
+| 798 | `(*pā.* 7-2-117 as read [?])` → `(*pā.* 7-2-117 as read)` | SECOND-PASS Q2: Kannada p798 ೭-೨-೧೧೭ |
+| 798 | ` (*pā.* 4-1-15 as read [?])` → `` | SECOND-PASS S3: Kannada p798 gives no number there (ಟಿಡ್ಡಾಣಞ್—ಎಂಬುದರಿಂದ) |
+| 798 | `(*pā.* 6-4-64 as read [?])` → `(*pā.* 6-4-64 as read)` | SECOND-PASS Q2: Kannada p798 ೬-೪-೬೪ |
+| 798 | ` (*pā.* 6-4-19 as read [?])` → `` | SECOND-PASS S3: Kannada p798 gives no number there (ಚ್ಜ್ಯೋಶೂಠನುನಾಸಿಕೇ ಚ—ಎಂಬುದರಿಂದ) |
+| 798 | `(*pā.* 6-2-1 as read [?])` → `(*pā.* 6-2-1 as read)` | SECOND-PASS Q2: Kannada p798 ೬-೨-೧ |
+| 798 | `read as given [?].)*` → `read as given.)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 799 | `Va. 36 [?]"` → `Va. 36"` | SECOND-PASS Q2: Kannada p799 head ವ. ೩೬ |
+| 799 | `*Ni.* 4-2 [?]]` → `*Ni.* 4-7]` | SECOND-PASS Q1: Kannada p799 ನಿ. ೪-೭ |
+| 799 | `2-4-562 as read [?]` → `2-4-56-2` | SECOND-PASS Q1: Kannada p799 ಕಾ. ೨-೪-೫೬-೨ |
+| 799 | `[the accent clause, clotted [?]]` → `*ānmahata ityātvaṃ*` | SECOND-PASS Q1: Kannada p799 ಆನ್ಮಹತ ಇತ್ಯಾತ್ವಂ (IAST by sp_sanskrit.py) |
+| 800 | `4-1-4 as read [?]` → `4-1-5, 1-2` | SECOND-PASS Q1: Kannada p801 end of the same passage (ಶ. ಬ್ರಾ. ೪-೧-೫ ರಲ್ಲಿ ೧-೨) |
+| 800 | `clotted places [?] from memory` → `clotted places from memory` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 801 | `Va. 36 [?]"` → `Va. 36"` | SECOND-PASS Q2: Kannada p801 head ವ. ೩೬ |
+| 801 | `4-1-5-1 to 8 as read [?]` → `4-1-5, 1-2` | SECOND-PASS Q1: Kannada p801 (ಶ. ಬ್ರಾ. ೪-೧-೫ ರಲ್ಲಿ ೧-೨) |
+| 801 | `the thirty-first [?] *sūkta* of the first Maṇḍala [as read; "1-[?]"]` → `the ninety-second *sūkta* of the tenth Maṇḍala` | SECOND-PASS Q1: Kannada p801 ಋ. ಸಂ. ೧೦ನೇ ಮಂಡಲದ ೯೨ನೇ ಸೂಕ್ತದ |
+| 801 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 801 | ` (*pā.* 3-4-100 as read [?])` → `` | SECOND-PASS S3: Kannada p801 gives no number there (ಇತಶ್ಚ—ಎಂಬುದರಿಂದ) |
+| 801 | ` (*pā.* 6-4-24 as read [?])` → `` | SECOND-PASS S3: Kannada p801 gives no number there (ಅನಿದಿತಾಂ ಹಲ ಉ—ಎಂಬುದರಿಂದ) |
+| 802 | ` (*pā.* 2-4-56 as read [?])` → `` | SECOND-PASS S3: Kannada p802 gives no number there (ಅಜೇರ್ವ್ಯಘಞ್ಞಪೋಃ ಎಂಬುದರಿಂದ) |
+| 802 | `2-4-56-2 as read [?]` → `2-4-56-2 as read` | SECOND-PASS Q2: Kannada p802 ಪಾ. ಸೂ. ೨-೪-೫೬-೨ |
+| 802 | `(*pā.* 7-1-39 as read [?])` → `(*pā.* 7-1-39 as read)` | SECOND-PASS Q2: Kannada p802 ೭-೧-೩೯ |
+| 802 | `(*pā.* 6-2-139 as read [?])` → `(*pā.* 6-2-139 as read)` | SECOND-PASS Q2: Kannada p802 ೬-೨-೧೩೯ |
+| 802 | `(*pā.* 6-3-46 as read [?])` → `(*pā.* 6-3-46 as read)` | SECOND-PASS Q2: Kannada p802 ೬-೩-೪೬ |
+| 803 | `Va. 36 [?]"` → `Va. 36"` | SECOND-PASS Q2: Kannada p803 head ವ. ೩೬ |
+| 803 | `partly clotted [?]):*` → `partly clotted):*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 803 | `[with irregularity of the letters [?]]` → `[with irregularity of the letters]` | SECOND-PASS Q2: Kannada p803 ವರ್ಣವ್ಯಾಪತ್ತೈತದ್ರೂಪಂ agrees |
+| 803 | `*grahavṛdṛniścigamaś ca* [?];` → `*grahavṛdṛniścigamaś ca*;` | SECOND-PASS Q2: Kannada p803 ಗ್ರಹವೃದೃನಿಶ್ಚಿಗಮಶ್ಚೇತಿ agrees |
+| 804 | `10-86-2-[?] as read [?]; the numeral is doubtful [?]` → `10-86-12` | SECOND-PASS Q1: Kannada p804 ಋ. ಸಂ. ೧೦-೮೬-೧೨ |
+| 805 | `Va. 36 [?]"` → `Va. 36"` | SECOND-PASS Q2: Kannada p805 head ವ. ೩೬ |
+| 805 | `11-[?]6 as read [?]` → `11-39` | SECOND-PASS Q1: Kannada p805 ನಿ. ೧೧-೩೯ |
+| 805 | `supplying food for the fields [?]` → `supplying food for the fields` | SECOND-PASS Q2: Kannada p805 ಇವನ ಕ್ಷೇತ್ರವನ್ನು, ಅನ್ನವನ್ನು ಒದಗಿಸಿ agrees |
+| 805 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 805 | `(*pā.* 8-1-19 as read [?])` → `(*pā.* 8-1-19 as read)` | SECOND-PASS Q2: Kannada p805 ೮-೧-೧೯ |
+| 805 | `(*pā.* 7-3-77 as read [?])` → `(*pā.* 7-3-77 as read)` | SECOND-PASS Q2: Kannada p805 ೭-೩-೭೭ |
+| 805 | `*vṛj*, doubtful [?]]` → `*vṛj*, doubtful]` | SECOND-PASS Q2: Kannada p805 ವೃಜ್ ಸಂಭಕ್ತೌ agrees with the print |
+| 805 | `(*pā.* 3-3-58 as read [?])` → `(*pā.* 3-3-58 as read)` | SECOND-PASS Q2: Kannada p805 ೩-೩-೫೮ |
+| 805 | `(*pā.* 6-2-144 as read [?])` → `(*pā.* 6-2-144 as read)` | SECOND-PASS Q2: Kannada p805 ೬-೨-೧೪೪ |
+| 805 | `6-1-164 as read [?]` → `6-1-168` | SECOND-PASS Q1: Kannada p805 ಪಾ. ಸೂ ೬-೧-೧೬೮ |
+| 806 | `(*pā.* 4-354 as read [?])` → `(*pā.* 4-3-54)` | SECOND-PASS Q1: Kannada p806 ಪಾ. ೪-೩-೫೪ |
+| 807 | `Va. 37 [?]"` → `Va. 36"` | SECOND-PASS Q1: Kannada p807 head ವ. ೩೬ |
+| 807 | `surrounded by his [wedding] retinue [?]` → `surrounded by his own army` | SECOND-PASS Q1: Kannada p807 ಸ್ವಸೇನಾಪರಿವೃತೇನ |
+| 807 | `the middle compound is doubtful [?].)*` → `the middle compound is doubtful.)*` | SECOND-PASS Q2: Kannada p807 has the compound ಸ್ವಸೇನಾಪರಿವೃತೇನ |
+| 807 | `(*Ṛ.* 1-116-1 as read [?])` → `(*Ṛ.* 1-116-1 as read)` | SECOND-PASS Q2: Kannada p807 ಋ. ಸಂ. ೧-೧೧೬-೧ |
+| 807 | `(*Ṛ.* 10-39-7 as read [?])` → `(*Ṛ.* 10-39-7 as read)` | SECOND-PASS Q2: Kannada p807 ಋ. ಸಂ. ೧೦-೩೯-೭ |
+| 807 | `twentieth [?] to the twenty-second [?] sūkta [as read; the numerals doubtful [?]]` → `twentieth to the twenty-sixth sūkta` | SECOND-PASS Q1: Kannada p807 ೨೦ನೇ ಸೂಕ್ತದಿಂದ ೨೬ನೇ ಸೂಕ್ತವವರೆಗೆ |
+| 807 | `illegible in the scan [?])*` → `illegible in the scan)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 808 | `20-10 as read [?]` → `10-20-10` | SECOND-PASS Q1: Kannada p808 ಋ. ಸಂ. ೧೦-೨೦-೧೦ |
+| 808 | `10-23-7 as read [?]` → `10-23-7 as read` | SECOND-PASS Q2: Kannada p808 ಋ. ಸಂ. ೧೦-೨೩-೭ |
+| 808 | `(*Ai. Brā.* 5-[?])` → `(*Ai. Brā.* 21-5)` | SECOND-PASS Q1: Kannada p808 ಐ. ಬ್ರಾ. ೨೧-೫ |
+| 808 | `1-47-6 as read [?]` → `1-47-6 as read` | SECOND-PASS Q2: Kannada p808 ಋ. ಸಂ. ೧-೪೭-೬ |
+| 808 | `2-[?]4 as read [?]` → `2-24` | SECOND-PASS Q1: Kannada p808 ನಿ. ೨-೨೪ |
+| 808 | `7-18-5 as read [?]` → `7-18-5 as read` | SECOND-PASS Q2: Kannada p808 ಋ. ಸಂ. ೭-೧೮-೫ |
+| 808 | `7-20-2 as read [?]` → `7-20-2 as read` | SECOND-PASS Q2: Kannada p808 ಋ. ಸಂ. ೭-೨೦-೨ |
+| 808 | `conquered the ten [?] kings` → `conquered the ten kings` | SECOND-PASS Q2: Kannada p808 ಹತ್ತುಮಂದಿ ರಾಜರುಗಳನ್ನು agrees |
+| 808 | `partly obscured [?]*]` → `partly obscured*]` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 809 | `Va. 37 [?]"` → `Va. 36"` | SECOND-PASS Q1: Kannada p809 head ವ. ೩೬ (ನ. ೩೬) |
+| 809 | `3-23-9 as read [?]` → `3-53-9` | SECOND-PASS Q1: Kannada p809 ಋ. ಸಂ. ೩.೫೩-೯ |
+| 809 | `7-19-3 as read [?]` → `7-19-3 as read` | SECOND-PASS Q2: Kannada p809 ಋ. ಸಂ. ೭-೧೯-೩ |
+| 809 | `7-34 as read [?]` → `35-8` | SECOND-PASS Q1: Kannada p809 ಐ. ಬ್ರಾ. ೩೫-೮ |
+| 809 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 809 | `(*pā.* 4-1-33 as read [?])` → `(*pā.* 4-1-33 as read)` | SECOND-PASS Q2: Kannada p809 ೪-೧-೩೩ |
+| 809 | ` (*pā.* 3-4-82 as read [?])` → `` | SECOND-PASS S3: Kannada p809 gives no number there (ಪರಸ್ಮೈಪದಾನಾಂ — ಎಂಬುದರಿಂದ) |
+| 809 | `(*pā.* 1-2-5 as read [?])` → `(*pā.* 1-2-5 as read)` | SECOND-PASS Q2: Kannada p809 ೧-೨-೫ |
+| 809 | `(*pā.* 6-1-15 as read [?])` → `(*pā.* 6-1-15 as read)` | SECOND-PASS Q2: Kannada p809 ೬-೧-೧೫ |
+| 809 | `4-[?]8 as read [?]` → `4-628` | SECOND-PASS Q1: Kannada p809 ಉ. ಸೂ. ೪-೬೨೮ |
+| 810 | `4-6-54 as read [?]` → `4-3-254` | SECOND-PASS Q1: Kannada p810 ಪಾ ಸೂ. ೪-೩-೨೫೪ |
+| 810 | `(*pā.* 6-4-148 as read [?])` → `(*pā.* 6-4-148 as read)` | SECOND-PASS Q2: Kannada p810 ೬-೪-೧೪೮ |
+| 810 | `(*pā.* 6-1-185 as read [?])` → `(*pā.* 6-1-185 as read)` | SECOND-PASS Q2: Kannada p810 ೬-೧-೧೮೫ |
+| 811 | `Va. 37 [?]"` → `Va. 36"` | SECOND-PASS Q1: Kannada p811 head ವ. ೩೬ |
+| 811 | `easy to carry [?],` → `easy to carry,` | SECOND-PASS Q2: Kannada p811 ಸುಭರಾಂ ಸುಖೇನ ಭರಣೀಯಾಂ agrees |
+| 811 | `424-143 as read [?]` → `4-4-143` | SECOND-PASS Q1: Kannada p811 ಪಾ. ೪_೪_೧೪೩ |
+| 812 | `The Aśvins, who knew nothing of it [?], protected him.` → `The Aśvins protected him, who knew nothing of it.` | SECOND-PASS Q1: Kannada p812 ಅವನಿಗೆ ತಿಳಿಯದಂತೆ… ಈ ತಂತ್ರವನ್ನು ಅರಿಯದ ಇಂದ್ರನನ್ನು ಅಶ್ವಿನೀ ದೇವತೆಗಳು ರಕ್ಷಿಸಿದರು |
+| 812 | `1-61-1 as read [?]` → `1-61-1 as read` | SECOND-PASS Q2: Kannada p812 ಋ. ಸಂ. ೧-೬೧-೧ |
+| 812 | `3-21-4 as read [?]` → `3-21-4 as read` | SECOND-PASS Q2: Kannada p812 ಋ. ಸಂ. ೩-೨೧-೪ |
+| 812 | `gavyādhikṛtaitad api vā praśāsanam evābhipretaṃ syāt* [as read [?]]` → `gavyadhikṛtatvād api vā praśāsanam evābhipretaṃ syāt* [as read]` | SECOND-PASS Q1: Kannada p812 ಗವ್ಯಧಿಕೃತತ್ವಾದಪಿ (IAST by sp_sanskrit.py) |
+| 812 | `an injunction [?]:` → `an injunction:` | SECOND-PASS Q2: Kannada p812 ವಿಧಿಯನ್ನು ಹೇಳುವ ಮಂತ್ರ agrees |
+| 812 | `mantra* there (3-[?]);` → `mantra* there (2-7);` | SECOND-PASS Q1: Kannada p812 ಐತರೇಯಬ್ರಾಹ್ಮಣದಲ್ಲಿ … (೨-೭) |
+| 812 | `(13-[?]-[?]-[?])` → `(13-5-1-18)` | SECOND-PASS Q1: Kannada p812 ಶತಪಥಬ್ರಾಹ್ಮಣದಲ್ಲಿಯೂ ಸಹ (೧೩-೫-೧-೧೮) |
+| 812 | `3-6-6-4 as read [?]` → `3-6-6-2` | SECOND-PASS Q1: Kannada p812 ಕೃ. ಬ್ರಾ ೩-೬-೬-೨ |
+| 812 | `10-131-4 as read [?]` → `10-131-4 as read` | SECOND-PASS Q2: Kannada p812 ಋ. ಸಂ. ೧೦-೧೩೧-೪ |
+| 813 | `Va. 37 [?]"` → `Va. 36"` | SECOND-PASS Q1: Kannada p813 head ವ. ೩೬ |
+| 813 | `sūtra numbers only as read, doubtful [?])*` → `sūtra numbers only as read, doubtful)*` | SECOND-PASS Q2: doubt mark only on a note; Kannada page has the text |
+| 813 | `(*pā.* 4-4-143 as read [?])` → `(*pā.* 4-4-143 as read)` | SECOND-PASS Q2: Kannada p813 ೪-೪-೧೪೩ |
+| 813 | `(*pā.* 6-1-193 as read [?])` → `(*pā.* 6-1-193 as read)` | SECOND-PASS Q2: Kannada p813 ೬-೧-೧೯೩ |
+| 813 | `3-2-107 as read [?]]` → `3-2-107 as read]` | SECOND-PASS Q2: Kannada p813 ಪಾ. ಸೂ ೩-೨-೧೦೭ |
+| 813 | `(*pā.* 6-4-131 as read [?])` → `(*pā.* 6-4-131 as read)` | SECOND-PASS Q2: Kannada p813 ೬-೪-೧೩೧ |
+| 813 | `83-60 as read [?]` → `8-3-60` | SECOND-PASS Q1: Kannada p813 ಪಾ. ಸೂ ೮-೩-೬೦ |
+| 815 | `Va. 37 [?]"` → `Va. 37"` | SECOND-PASS Q2: Kannada p815 head ವ. ೩೭ |
+| 815 | `4-27-3 as read [?]` → `4-26-3` | SECOND-PASS Q1: Kannada p815 ಋ. ಸಂ. ೪-೨೬-೩ |
+| 815 | `3-[?]6 as read [?]` → `3-2` | SECOND-PASS Q1: Kannada p815 (ಬ. ಬ್ರ. ೩-೨) |
