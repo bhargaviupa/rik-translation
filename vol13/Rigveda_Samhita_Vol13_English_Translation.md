@@ -987,6 +987,168 @@ Maruts, all good things are in your cars : on your shoulders abides emulous stre
 
 मिथस्पृधैव (*mithaspṛdhaiva*)—बलाधिक्यात्परस्परस्पर्धाविषयाणि (*balādhikyātparasparaspardhāviṣayāṇi*): from excess of strength, touching one another (striking against) and rubbing, clashing against each other, metal and the like **NOTE**
 
+### Printed p. 43
+…made of metals, various weapons are gathered together and placed in one spot in the chariot; as the chariot moves, those weapons strike against one another and make a noise. This is the intention.
+
+तविषाणि (*taviṣāṇi*)—The word तविष (*taviṣa*) is read among the names of strength (Ni. 3-13). But since the word is used here in the neuter plural, it is not proper to explain तविषाणि (*taviṣāṇi*) in the first Ṛk of this sūkta as "capacities, prowess, daring deeds". For capacities and daring deeds are not things that are placed in chariots; they are only names of actions. Or, even if तविषाणि (*taviṣāṇi*) is taken to mean armies, it is impossible to place armies in a chariot, however large it may be. Therefore the meaning "strong weapons" alone is proper for the word तविषाणि (*taviṣāṇi*). Hence the sentence मिथस्पृधैव तविषाण्याहिता (*mithaspṛdhaiva taviṣāṇyāhitā*) means: many excellent weapons, which clash against one another with the motion of the chariot, are placed in your chariot.
+
+अंसेष्वा वः (*aṃseṣvā vaḥ*)—Besides the weapons in the chariot mentioned above, you bear some other weapons on your arms.
+
+प्रपथेषु खादयः (*prapatheṣu khādayaḥ*)—वः प्रपथेषु । प्रगताः पंथानो येषु विश्रामस्थानेषु तानि । प्रपथानि । तेषु खादयः खाद्यानि भक्ष्याण्याहितानि । यद्वा प्रगतः पंथा मैस्तेषु पादाग्रेषु खादयः स्थिरा आभरणविशेषा अहिताः ॥ (*vaḥ prapatheṣu | pragatāḥ paṃthāno yeṣu viśrāmasthāneṣu tāni | prapathāni | teṣu khādayaḥ khādyāni bhakṣyāṇyāhitāni | yadvā pragataḥ paṃthā maisteṣu pādāgreṣu khādayaḥ sthirā ābharaṇaviśeṣā ahitāḥ ‖*) The commentator has given two kinds of meaning for this sentence. A प्रपथ (*prapatha*) is a place where, on a journey, one sits to rest when tired from walking for some time. It is natural to sit in such a place and eat the foods one has brought along; this matter is what is indicated here. Or else प्रपथ (*prapatha*) means the feet used for walking, and the anklets worn on them are called खादयः (*khādayaḥ*); this is the other meaning he has given.
+
+The German scholar Max Müller treats the two sentences अंसेष्वा वः प्रपथेषु खादयः (*aṃseṣvā vaḥ prapatheṣu khādayaḥ*) as one sentence and explains it thus: "When you are on your journeys, you carry rings on your shoulders." (You wear ornaments (weapons?) on your shoulders when you travel.) To support this, while explaining the word वृषखादयः (*vṛṣakhādayaḥ*) in Ṛk 1-64-10 of the Ṛ. Saṃ., he discusses the word खादि (*khādi*) thus:
+
+##### English translation (H. H. Wilson)
+In वृषखादयः (*vṛṣakhādayaḥ*) the meaning of खादि (*khādi*) is by no means clear. Sayana evidently guesses and proposes two meanings-weapon or food. In several
+
+### Printed p. 44
+passages where खादि (*khādi*) occurs, it seems to be an ornament rather than
+a weapon, yet if derived from khad to bite, it may originally have signified
+some kind of weapon. Roth tranlates it by ring, and it is certain that
+these khadis were to be seen not only on the arms and shoulders, but
+likewise on the feet of the Maruts. There is a famous weapon in India,
+the चक्र (*cakra*) or quoit, a ring with sharp edges (चक्रायुध (*cakrāyudha*)) which is thrown from
+a great distance with fatal effect. Bollensen (Orient and Occident Vol. II.
+p. 46) suggests for वृषन् (*vṛṣan*) the meanig of hole in the ear, and then translates
+the compound as having earrings in the hole of the ear. But वृषन् (*vṛṣan*) does not
+mean the hole in the lap of the ear, nor has वृषभ (*vṛṣabha*) that meaning either in
+the Veda or elsewhere. Wilson gives for वृषभ (*vṛṣabha*), not for वृषन् (*vṛṣan*), the meaning
+of orifice of the ear, but this is very different from the hole in the lap of
+the ear. Benfey suggests that the khadis were made of the teeth of wild
+animals and hence their name of biters. वृषन् (*vṛṣan*) conveys the meanig of
+strong, though possibly with the implied idea of rain-producing, fertlising.
+In वृषन् (*vṛṣan*) we have one of those words which it is almost impossible to
+translate accurately. It occurs over and over again in the Vedic Hymns, and
+if we once know the various ideas which it either expreesss or implies, we
+have little difficulty in understanding its import in a vague and genaral
+way, though we look in vain for corresponding terms in any modern
+language. In the Veda, and in ancient languages generally, one and the
+same word is frequently made to do service for many. Words retain their
+general meaning, though at the same time they are evidently used with
+a definite purpose. This is not only a peculiar phase of language, but
+a peculiar phase of thought, and as to us this phase hase become strange and
+unreal, it is very difficult to transport ourselves back into it, still more to
+translate the pregnant terms of the Vedic poets into the definite languages
+which we have to use.
+
+There is another mantra that says that the Marut deities wear the ornaments or special weapons called खादि (*khādi*) on their shoulders:
+
+### Printed p. 45
+अंसेष्वा मरुतः खादयो वो वक्षःसु रुक्मा उपशिश्रियाणाः । वि विद्युतो न वृष्टिभी रुचाना अनु स्वधामायुधैर्यच्छमानाः ॥ (*aṃseṣvā marutaḥ khādayo vo vakṣaḥsu rukmā upaśiśriyāṇāḥ | vi vidyuto na vṛṣṭibhī rucānā anu svadhāmāyudhairyacchamānāḥ ‖*)
+(Ṛ. Saṃ. 7-56-13)
+In this Ṛk the description is: O Maruts, on your shoulders are the special weapons called खादि (*khādi*); on your chests golden chains are fastened.
+
+In the Ṛks
+ऐषामंसेषु रंभिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे । (*aiṣāmaṃseṣu raṃbhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*)
+(Ṛ. Saṃ. 1-168-3)
+त्वेषं गणं तवसं खादिहस्तं धुनिव्रतं मायिनं दातिवारं । (*tveṣaṃ gaṇaṃ tavasaṃ khādihastaṃ dhunivrataṃ māyinaṃ dātivāraṃ |*)
+(Ṛ. Saṃ. 5-28-2)
+the weapon called खादि (*khādi*) is described as held in the hand.
+
+Where the special weapons of the Marut deities and the places where they are worn are described, in the Ṛk
+अंसेषु वः ऋष्टयः पत्सु खादयो वक्षस्सु रुक्मा मरुतो रथे शुभः । (*aṃseṣu vaḥ ṛṣṭayaḥ patsu khādayo vakṣassu rukmā maruto rathe śubhaḥ |*)
+(Ṛ. Saṃ. 5-54-11)
+the खादि (*khādi*) weapons (or ornaments) are described as worn on the feet. (The khadis are on your forefeet.) But since it is not possible to wear weapons on the feet, the word खादि (*khādi*) here must mean a kind of ornament. Although we do not now know the shape and nature of the खादि (*khādi*), it is beyond dispute that it is a special weapon shaped like a wheel. Since it is round, like a bangle, it may be conjectured that the anklets worn on the feet for decoration (wheel-like) are what is described in many places under the name खादि (*khādi*). Whether it was worn on the foot, the shoulder or the hands at other times, in fighting it had to be worn in the hands alone. So the seers have described this matter in different ways. The special weapon called the wheel (चक्र (*cakra*)) in the hand of Viṣṇu may also have come into use on the basis of the weapon called खादि (*khādi*).
+
+Many Western scholars do not accept as proper the meaning "edibles fit for eating" which the commentator gives for the word खादि (*khādi*) (खाद्यानि भक्ष्याणि (*khādyāni bhakṣyāṇi*)). Max Müller on this matter:
+
+##### English translation (H. H. Wilson)
+What however is quite certain is this, that खादि (*khādi*) in the Veda never
+means food, as Sayana optionally interprets it. This interpretation is
+accepted by Wilson, who translates-at your resting places on the road
+
+### Printed p. 46
+refreshments (are ready). Nay, he goes on in a note to use this passage as
+a proof of the advanced civilisation of India at the time of the Vedic
+Rishis. " The expression " he says " is worthy of note as indicating the
+existence of accomodations for the use of travellers: the प्रपथ (*prapatha*) is the choltri
+(छत्र (*chatra*)) of the south of India, the Sarai of Mohammadans, a place by the
+roadside whare the travellers may find shelter and provisions."
+
+As for the meaning of the word प्रपथ (*prapatha*), although in this Ṛk the commentator explains प्रपथेषु (*prapatheṣu*) as पंथानो विश्रामस्थानेषु (*paṃthāno viśrāmasthāneṣu*), resting places met with on the road, yet in Ṛks such as
+आयुर्विश्वायुः परि पासति त्वा पूषा त्वा पातु प्रपथे पुरस्तात् । (*āyurviśvāyuḥ pari pāsati tvā pūṣā tvā pātu prapathe purastāt |*)
+(Ṛ. Saṃ. 10-17-4)
+प्रपथे पथामजनिष्ट पूपा प्रपथे दिवः प्रपथे पृथिव्याः । (*prapathe pathāmajaniṣṭa pūpā prapathe divaḥ prapathe pṛthivyāḥ |*)
+(Ṛ. Saṃ. 10-17-6)
+स्वस्तिरिद्दि प्रपथे श्रेष्ठा रेक्ण स्वत्यभि या वाममेति । (*svastiriddi prapathe śreṣṭhā rekṇa svatyabhi yā vāmameti |*)
+(Ṛ. Saṃ. 10-63-16)
+he gives for the word प्रपथे (*prapathe*) the meaning प्रकृष्टे मार्गे (*prakṛṣṭe mārge*), "on an excellent road". Therefore, for the words प्रपथेषु पादयः (*prapatheṣu pādayaḥ*) in this Ṛk, the proper meaning is that the Marut deities wear the special weapons called खादि (*khādi*) while travelling on excellent roads.
+
+अक्षो वश्चक्रा समया वि वावृते (*akṣo vaścakrā samayā vi vāvṛte*)—अक्षो वो युष्मत्संबंधी रथ्योऽक्षश्चक्रा तत्रोपनिबद्धानि चक्राणि समया समीपे तेषां परिसरे वि ववृते विशेषेण वर्तते न कदाचिदपि चक्रेषु संलग्नो भवतीत्यर्थः । (*akṣo vo yuṣmatsaṃbaṃdhī rathyo 'kṣaścakrā tatropanibaddhāni cakrāṇi samayā samīpe teṣāṃ parisare vi vavṛte viśeṣeṇa vartate na kadācidapi cakreṣu saṃlagno bhavatītyarthaḥ |*) O Maruts, the axle of your chariot makes the wheels on its sides turn round at one and the same time. They are firmly joined; they do not come off the axle. The same meaning is stated in the Ṛk
+सत्रा ते अनु कृष्टयो विश्वा चक्रेन वावृतुः । (*satrā te anu kṛṣṭayo viśvā cakrena vāvṛtuḥ |*)
+(Ṛ. Saṃ. 4-30-2)
+The main intention is that your chariot travels happily without any obstruction. To say here that the axle makes the wheel turn is not correct. The wheels turn because the horses pull the chariot. Still, since the wheels are near the axle and connected with it, the seer may have described it so.
+
+### Printed p. 47
+In the Veda the word समया (*samayā*) means "together" or "at one time".
+
+##### Grammar
+
+- भद्रा — भदि कल्याणे सुखे च धातुः । अस्मात् औणादिकः रक् प्रत्ययः । नपुंसकबहुवचने शेश्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेः लोपः ।
+- आहिता — आज् उपसर्गः । डुधाण् धारणपोषणयोः धातुः । कर्मणि निष्ठा इति क्तप्रत्ययः । दधातेर्हिः (पा. सू. ७-४-४२) इति धातोः हि आदेशः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः (आ) उदात्तस्वरः भवति । पूर्ववत् नपुंसकबहुवचने शेः लोपः ।
+- मिथस्पृध्या — स्पर्ध संघर्षे धातुः । अस्मात् क्विप् आगते बहुलं छंदसि इति धातुरेफस्य संप्रसारणं । अकारलोपः । स्पर्धंते इति स्पृधः । अस्मात् भावार्थे यत् प्रत्ययः । यतो नावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति । समासे कृदुत्तरपदप्रकृतिस्वरः भवति । पूर्ववत् शेः लोपः ।
+- प्रपथेषु — प्रगताः पंथानो येसु तासि प्रपथासि, तेषु । ऋक् पूरब् धूःपथामानक्षे (पा. सू. ५-४-७४) इति अकारप्रत्ययः समासांतः भवति । टिलोपः । बहुप्रीहौ पूर्वपदप्रकृतिस्वरः भवति । **NOTE**
+- चक्रा — चक्राणि इति रूपे जाते शेश्छंदसि बहुलं (पा. सू. ६-१-७०) इति शेः लोपः । अग्रे समया इति योगः अस्ति इति कारणात् अभितः परितः समया इति वचनेन षष्ठ्याः अपवादतया द्वितीया भवति ।
+- ववृते — वृतु वर्तने धातुः । छांदसतया लिट् प्रथमपुरुषैकवचनांतरूपं । तिजंतनिघातस्वरः भवति । ॥ ९ ॥
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरी॑णि भ॒द्रा नर्ये॑षु बा॒हुषु॒ वक्षः॑सु रु॒क्मा र॑भ॒सासो॑  ॒॑
+> अंजयः ।  
+> अंसे॒ष्वेताः॑ प॒विषु॑ क्षु॒रा अधि॒ वयो॒ न प॒क्षान्वनु॒ श्रियो॑  
+> धिरे ॥ १० ॥
+
+### Printed p. 48
+#### Ṛk 10 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरीणि । भद्रा । नर्येषु । बाहुषु । वक्षःसु । रुक्माः । रभसासः । अंजयः ।  
+> अंसेषु । एताः । पविषु । क्षुराः । अधि । वयः । न । पक्षान् । वि । अनु । श्रियः ।  
+> धिरे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुतो नर्येषु नरेभ्यो हितेषु बाहुषु भुजेषु भूरीणि प्रभूतानि
+> भद्रा भद्राणि कल्याणानि धनानि स्तोतृभ्यो दातुं धिरे । वधिरे । धारयंति । तथा
+> वक्षःसूरःस्थलेषु रुक्माः सुवर्णरत्ना दिनिर्मितान्याभरणानि धारयंति । कीदृशानि ।
+> रभसासो राभस्ययुक्तानि कांतिमंति वा तथांजयो व्यक्तानि । अंगेषु भुजमूलेष्वेताः शुक्लवर्णा मालाः । पविषु वज्रसदृशेश्वायुधेषु क्षुराः क्षुरधाराः ।
+> अधि सप्तम्यर्थानुवादी । एवमेते मरुतः सर्वांगेषु श्रियो लक्ष्मीरनुक्रमेण
+> वि धिरे । विविधं धारयंति । तत्र दृष्टांतः । वयो न पक्षान् पक्षिणः पक्षानिव ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts, in their arms that are beneficial to men, bear abundant auspicious (भद्रा (*bhadrā*)) riches to give to the praisers; धिरे (*dhire*) is a form of धारयंति (*dhārayaṃti*), "they hold". So too on their chests they wear ornaments (रुक्माः (*rukmāḥ*)) made of gold, jewels and the like. Of what kind? रभसासः (*rabhasāsaḥ*) means full of impetuosity or radiant, and अंजयः (*aṃjayaḥ*) means manifest. On the shoulder-roots are these white garlands. On their vajra-like weapons are razor-edges (क्षुराः (*kṣurāḥ*)). अधि (*adhi*) only restates the sense of the locative. Thus the Maruts variously bear splendour (श्रियः (*śriyaḥ*)) on all their limbs in due order. The illustration: वयो न पक्षान् (*vayo na pakṣān*)—as birds bear wings. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते मरुतः (*te marutaḥ*)—those Maruts
+- नर्येषु (*naryeṣu*)—beneficial to men
+- बाहुषु (*bāhuṣu*)—in the arms
+- भूरीणि (*bhūrīṇi*)—abundant
+- भद्रा (*bhadrā*)—auspicious (riches to be given to the praisers)
+- धिरे (*dhire*)—they bear
+- वक्षस्सु (*vakṣassu*)—on the chests
+- रभसासः (*rabhasāsaḥ*)—radiant, and
+- अंजयः (*aṃjayaḥ*)—manifest
+- रुक्माः (*rukmāḥ*)—ornaments made of gold and the like (they bear)
+- अंगेषु (*aṃgeṣu*)—on the shoulder-roots
+- एताः (*etāḥ*)—white garlands also
+- पविषु (*paviṣu*)—on the vajra-like weapons
+- क्षुराः (*kṣurāḥ*)—sharp edges also
+- अधि (धिरे) (*adhi (dhire)*)—they have (thus the Maruts)
+- श्रियः (*śriyaḥ*)—(various) ornaments
+- अनु (*anu*)—in the (stated) order
+- वयः (*vayaḥ*)—birds
+- पक्षान् न (*pakṣān na*)—as (they bear) wings (of various colours)
+- वि (धिरे) (*vi (dhire)*)—variously (they bear)
+
+##### भावार्थ (Bhāvārtha)
+
+On the arms of the Maruts, who bring benefit to men, are many auspicious things dear to men; on their chests are gleaming, clearly visible golden ornaments; on their shoulders are clean garlands, and (in their hands) sharp, vajra-like weapons. Just as birds have wings of many colours, the Maruts too are variously adorned. (Or, they spread their radiance all around.)
+
 ---
 
-**Progress note:** Done through printed p. 42. pp. 37-42 (batch API)
+**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
