@@ -387,3 +387,122 @@
 | 211 | `(Pā. Sū. 6-1-197)` → `(Pā. Sū. 6-1-192)` | SECOND-PASS S1: Kannada p.211 ಇತ್ಯಾದಿರ್ನಿತ್ಯಮ್(ಪಾ. ಸೂ. ೬-೧-೧೯೨) |
 
 ### 2026-11-27 qmark_strip.py: BLOCK 597 marks removed from 310 Sanskrit-block lines (derived data, K9); BARE 14 boilerplate remark lines removed (15 marks); OTHER 1041 marks left
+
+### 2026-11-27 second pass, batch m1-150.tsv
+| page | old → new | why |
+|---|---|---|
+| i | `(as printed, in small type; the numbers were checked against the reader's OCR, which reads` → `(as printed, in small type): Ṛ. Saṃ. 1-18-1; 1-51-13; 1-112-11; 1-116-7; 1-117-6; 1-126-3;` | SECOND-PASS Q1: Kannada text, the list of the seer Kakṣīvān: ಋ. ಸಂ. ೧-೧೮-೧; ೧-೫೧-೧೩; ೧-೧೧೨-೧೧; ೧-೧೧೬-೭; ೧-೧೧೭-೬; ೧-೧೨೬-೩; ೪-೨೬-೧; ೮-೯-೧೦; ೯-೭೪-೮; ೧೦-೨೫-೧೦; ೧೦-೬೧-೧೬ |
+| 5 | `(the word *mīraka* is not understood here, `[?]`)` → `(the word *mīraka* is not understood here)` | SECOND-PASS Q2: Kannada p.5 has ವಿವಿಧಮೀರಕೈರ್ as the English; no word to settle |
+| 9 | `; the middle words of the line are read with doubt `[?]`.)` → `.)` | SECOND-PASS Q2: Kannada p.9 has (ಋ. ಸಂ. ೧-೧೭೪-೧) and the passage; doubt note only |
+| 30 | `stay unsettled after a zoomed re-view (marked `[?]`);` → `stay unsettled after a zoomed re-view;` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 42 | `is read letter by letter and the doubtful places are marked `[?]`.)*` → `is read letter by letter.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 46 | `"1-139-2 [?]"` → `"1-139-2"` | SECOND-PASS Q2: reference 1-181-7 stands; the quoted earlier wrong reading needs no mark |
+| 46 | `"1-134-4 [?]"` → `"1-134-4"` | SECOND-PASS Q2: reference 1-135-9 stands; the quoted earlier wrong reading needs no mark |
+| 46 | `"1-130-2 [?]"` → `"1-130-2"` | SECOND-PASS Q2: reference 1-150-3 stands; the quoted earlier wrong reading needs no mark |
+| 53 | `read letter by letter, with doubtful words marked `[?]`.)*` → `read letter by letter.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 71 | `confirmed by the OCR unless marked `[?]`.)*` → `confirmed by the OCR.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 82 | `are my own readings, `[?]` where doubtful.)*` → `are my own readings.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 89 | `*vakṣa[?]dvasu*` → `*vakṣadvasu*` | SECOND-PASS Q1: Kannada p.89 ಯೂಯಾವದನ್ಯಾವಕ್ಷದ್ವಸು: no letters between vakṣa and dvasu |
+| 98 | `note that the same verse was cited on p. 89 with the number given there as `[?]`: this rea` → `note that this reading supersedes the number given for the same verse on p. 89.)` | SECOND-PASS Q2: Kannada p.98 (ಋ. ಸಂ. ೧-೧೨೫-೨) confirms the number |
+| 113 | `the words "sa[?]īṣaddhasantī" and "vaṃtasthānīyāni" are doubtful in the print;` → `the word "vaṃtasthānīyāni" is as in the Kannada of the page;` | SECOND-PASS Q1: Kannada p.113 has ವಂತಸ್ಥಾನೀಯಾನಿ; the other word is not in the Kannada in that form |
+| 113 | ` [?] (the word is unclear in the print)` → `` | SECOND-PASS Q2: Kannada p.113 ವಂತಸ್ಥಾನೀಯಾನಿ agrees |
+| 130 | `The reference is printed "೭-೬೩-೪" as I read the glyphs (flat-footed 7), but the user's num` → `The reference is Ṛ. 7-63-4.` | SECOND-PASS Q1: Kannada p.130: ಋ. ೭-೬೩-೪ |
+| 134 | `In "abhisṛṣṭānām" the conjunct after *ṣ* is not quite clear, hence [?].` → `"abhisṛṣṭānām" is as in the Kannada.` | SECOND-PASS Q2: Kannada p.134 ಅಭಿಸೃಷ್ಟಾನಾಂ agrees |
+| 134 | `, is not settled — the letters after *yac* are unclear, hence [?];` → `, is as in the Kannada (*tadāhuryacchasyata*);` | SECOND-PASS Q1: Kannada p.134 ತದಾಹುರ್ಯಚ್ಛಸ್ಯತ |
+| 143 | `the second word of the line is printed as *va*, a hooked cluster (ya-like subscript or the` → `the second word of the line is *vyenī* as in the Kannada; no *syā*` | SECOND-PASS Q1: Kannada p.143 ಏಷಾ ವ್ಯೇನೀ ಭವತಿ (ಋ. ಸಂ. ೫-೮೦-೪) |
+| 159 | `, and the words marked [?] are doubtful in the print; the first` → `; the first` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 163 | `*tad[?]ā bhavati` → `*tadrā bhavati` | SECOND-PASS Q1: Kannada p.163 ತದ್ರಾ ಭವತಿ ರೂಪವತೀ |
+| 177 | `The OCR is garbled; doubtful readings are marked [?].)*` → `The OCR is garbled.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 193 | `the first numeral and the lines marked [?] are doubtful in the print.)` → `the first numeral and some lines are doubtful in the print.)` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 209 | `pratiṣidhyeta* [?] —` → `pratiṣidhyeta* —` | SECOND-PASS Q2: Kannada p.209 ತತ್ಪ್ರತಿಷಿದ್ಧಂ ಪ್ರತಿಷಿದ್ಧ್ಯೇತ: the quotation stands |
+| 216 | `the word "tahye 'ṣām" is odd and kept with [?]` → `the Kannada of the page reads "tarhyeṣām"` | SECOND-PASS Q1: Kannada p.216 ತರ್ಹ್ಯೇಷಾಮನ್ಯೋ ಜನಃ; the Sanskrit block is derived data and is not edited |
+| 237 | `the earlier [?] marks on it are resolved` → `the earlier doubts on it are resolved` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 237 | ` — "[?]" marks are not needed where the print was clear to me, but the middle` → `; the middle` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 241 | `the earlier readings and [?] marks are replaced by these` → `the earlier readings are replaced by these` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 247 | `the word marked [?] is doubtful, and` → `one word is doubtful, and` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 249 | `ṛks 1–[?] of the 111th Sūkta of the ninth maṇḍala [as printed; the count of ṛks is a small` → `ṛks 1–3 of the 111th Sūkta of the ninth maṇḍala` | SECOND-PASS Q1: Kannada p.249: ೯ ನೇ ಮಂಡಲದ ೧೧೧ ನೇ ಸೂಕ್ತದಲ್ಲಿರುವ ೩ ಋಕ್ಕುಗಳಿಗೆ |
+| 250 | `(Ni. 10-4[?]; the last digit is not settled by the zoom.)` → `(Ni. 10-42.)` | SECOND-PASS Q1: Kannada p.249 (ನಿ. ೧೦-೪೨) |
+| 255 | `the places marked [?] in the Sanskrit are not settled.` → `some places in the Sanskrit are not settled.` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 257 | `several words, marked [?], are doubtful.` → `several words are doubtful.` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 258 | `the words marked [?] are small or garbled` → `some words are small or garbled` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 279 | `Two places formerly marked [?] were re-read` → `Two places were re-read` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 291 | `the earlier [?] marks in the Saṃhitā of p. 290 are therefore resolved` → `the earlier doubts in the Saṃhitā of p. 290 are therefore resolved` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 293 | `(Ni. 2-1 [?], as printed "೨-೧")` → `(Ni. 3-2)` | SECOND-PASS Q1: Kannada p.293 ಅಪ್ಪಃ ದಂಸಃ … ಕರ್ಮನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೨) |
+| 299 | `(Ṛ. Saṃ. 8-1-[?]-[?], as printed "೮-೧-೨"? — I have read it so; the first numeral is doubtf` → `(Ṛ. Saṃ. 1-9-2.)` | SECOND-PASS Q1: Kannada p.299 ಏಮೇನಂ ಸೃಜತಾ ಸುತೇ … (ಋ. ಸಂ. ೧-೯-೨) |
+| 302 | `, and the readings marked [?] are doubtful in the small type.)*` → `.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 308 | `The readings marked [?] — "sahe laukikādikaḥ", "ṛtvigbhir utpadyase" — are small and doubt` → `The readings "sahe laukikādikaḥ", "ṛtvigbhir utpadyase" are small and doubtful.` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 309 | `(Ṛ. Saṃ. 10-50-6; the reference numerals are small and doubtful — as read by the OCR "१०-५` → `(Ṛ. Saṃ. 10-50-6.)` | SECOND-PASS Q2: Kannada p.309 (ಋ. ಸಂ. ೧೦-೫೦-೬) agrees |
+| 309 | `(Ṛ. Saṃ. 7-38-2; as read by the OCR "२-२०-२" [?].)` → `(Ṛ. Saṃ. 7-38-2.)` | SECOND-PASS Q2: Kannada p.309 (ಋ. ಸಂ. ೭-೩೮-೨) agrees |
+| 310 | `(Ṛ. Saṃ. 7-[?]-3, numerals doubtful: the OCR gives "७-३३-३" [?].)` → `(Ṛ. Saṃ. 7-25-3.)` | SECOND-PASS Q1: Kannada p.310 ದ್ಯುಮ್ನಮಧಿ ರತ್ನಂ ಚ ಧೇಹಿ (ಋ. ಸಂ. ೭-೨೫-೩) |
+| 310 | `(Ṛ. Saṃ. 4-[?]-4, as read by the OCR "४-४०-४"; the small-type letters are partly doubtful ` → `(Ṛ. Saṃ. 4-40-4.)` | SECOND-PASS Q1: Kannada p.310 (ಋ. ಸಂ. ೪-೪೦-೪) |
+| 310 | `(Ni. 3-[?]; OCR "३-१३")` → `(Ni. 3-13)` | SECOND-PASS Q1: Kannada p.310 ಪ್ರಜ್ಞಾನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೧೩) |
+| 311 | `, letters partly doubtful: [?]]` → `]` | SECOND-PASS Q2: Kannada p.311 has the sentence ಅಜರ - ಅಸ್ತೋತಃ । ಜರಾ ಸ್ತುತಿಃ । ಆಸೌ ನ ಕಸ್ಯಾಪಿ ಸ್ತೋತಾ ಭವತಿ ಕಿಂತು ಸರ್ವೈಃ ಸ್ವಯಂ ಸ್ತೂಯತೇ |
+| 311 | `(Pā. Sū. 6-3-[?])` → `(Pā. Sū. 8-2-17)` | SECOND-PASS Q1: Kannada p.311 ನಾದ್ಘಸ್ಯ (ಪಾ. ಸೂ. ೮-೨-೧೭) |
+| 313 | `āharādīnāṃ satyādipūpasaṃkhyānam iti ratvam*" [as printed, doubtful: [?]]` → `aharādīnāṃ patyādiṣūpasaṃkhyānam iti ratvam*"` | SECOND-PASS Q1: Kannada p.313 ಅಹರಾದೀನಾಂ ಪತ್ಯಾದಿಷೂಪಸಂಖ್ಯಾನಮಿತಿ ರತ್ನಂ (p.316 ರತ್ತ್ವ) |
+| 313 | `pāṭhāt*" [?].)*` → `pāṭhāt*".)*` | SECOND-PASS Q2: Kannada p.313 ಕ್ಷೇತಿ ಭೂನಾಮ ಕ್ಷಾ ಕ್ಷಾಮೇತಿ ತನ್ನಾಮಸು ಪಾಠಾತ್ agrees |
+| 313 | `of the wealthy [?];` → `of the wealthy;` | SECOND-PASS Q2: Kannada p.315 ಮಹತಾಂ ಧನವತಾಂ agrees |
+| 314 | `(Ṛ. Saṃ. 1-[?]-[?]; as read by the OCR "१-१८७-१"; small type, letters partly doubtful [?].` → `(Ṛ. Saṃ. 1-187-1.)` | SECOND-PASS Q1: Kannada p.314 (ಋ. ಸಂ. ೧-೧೮೭-೧) |
+| 315 | `(Ni. 1-9 [?]; doubtful letters)` → `(Ni. 1-9; doubtful letters)` | SECOND-PASS Q2: Kannada p.315 (ನಿ ೧-೯) agrees |
+| 315 | `(Ni. 1-[?]; OCR "२-५")` → `(Ni. 2-5)` | SECOND-PASS Q1: Kannada p.315 ಇಪ್ಪತ್ತೊಂದು ಪೃಥಿವೀನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೫) |
+| 315 | `", Ni. [?])` → `")` | SECOND-PASS S3: Kannada p.315 gives no Nirukta number after this citation |
+| 316 | ` [as read: [?]];` → `;` | SECOND-PASS Q2: Kannada p.316 ಆಹರಾದೀನಾಂ ಪತ್ಯಾದಿಷು ಉಪಸಂಖ್ಯಾನಮ್ has the sūtra |
+| 316 | `gives *tu* [?];` → `gives *ślu* in place of *śap*;` | SECOND-PASS Q1: Kannada p.316 ಬಹುಲಂ ಛಂದಸಿ ಎಂಬುದರಿಂದ ಶಪಿಗೆ ಶ್ಲು ಆದೇಶ |
+| 317 | `"*tadeva prārthyata*" [?].)*` → `"*tadeva prārthyata*".)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 318 | `are doubtful [?].)*` → `are doubtful.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 320 | `(Ni. 1-[?]; as printed "೧-೩೪"?) and among the names of strength (Ni. 3-9; OCR "२-२४" and "` → `(Ni. 2-24) and among the names of strength (Ni. 3-9). And in the Ṛks 1-27-2, 1-29-8, 1-51-` | SECOND-PASS Q1: Kannada p.320 (ನಿ. ೨-೨೪); (ನಿ ೩-೯); ೧-೨೭-೨; ೧-೨೯-೮; ೧-೫೧-೪; ೧-೫೨-೧೦ ಇತ್ಯಾದಿ ಋಕ್ಕುಗಳಲ್ಲಿಯೂ |
+| 321 | `several letters doubtful [?])` → `several letters doubtful)` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 323 | `are small and doubtful [?]; the OCR gives the same.` → `are small and doubtful; the OCR gives the same.` | SECOND-PASS Q2: Kannada p.325 gives ತೈ. ಸಂ. ೭-೪-೧೮-೨; ೧-೨-೫-೧; ತೈ. ಬ್ರಾ. ೧-೧-೪-೪ as the English |
+| 324 | `(Ṛ. Saṃ. 1-117-21, as read; the numerals are small and doubtful [?].)` → `(Ṛ. Saṃ. 1-117-21.)` | SECOND-PASS Q2: Kannada p.324 (ಋ. ಸಂ. ೧-೧೧೭-೨೧) agrees |
+| 325 | `(Ni. 6-11 [?])` → `(Ni. 6-11)` | SECOND-PASS Q2: Kannada p.325 (ನಿ. ೬-೧೧) agrees |
+| 325 | `(Tai. Saṃ. 2-6-4-1; as printed "೭-೪-೧೮-೨"? the numerals are doubtful)` → `(Tai. Saṃ. 7-4-18-2)` | SECOND-PASS Q1: Kannada p.325 ಪರಮಂತಂ ಪೃಥಿವ್ಯಾಃ (ತೈ. ಸಂ. ೭-೪ ೧೮-೨) |
+| 325 | `(Tai. Saṃ. 3-5-4-1 [?])` → `(Tai. Saṃ. 2-6-4-1)` | SECOND-PASS Q1: Kannada p.325 ಏತಾವತೀ ವೈ ಪೃಥಿವೀ ಯಾವಶೀ ವೇದಿಃ (ತೈ. ಸಂ. ೨-೬-೪-೧) |
+| 326 | `(Uṇ. 3-[?])` → `(Uṇ. 2-229)` | SECOND-PASS Q1: Kannada p.326 ವಶಃ ಕಿತ್ (ಉ ಸೂ. ೨-೨೨೯) |
+| 328 | `Several small letters are doubtful: [?].)` → `Several small letters are doubtful.)` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 330 | `(Ṛ. Saṃ. 2-[?]-2; as read "೨-೩೪-೨" [?].)` → `(Ṛ. Saṃ. 7-38-7.)` | SECOND-PASS Q1: Kannada p.330 ಜಂಭಯಂತೋಹಿಂ ವೃಕಂ (ಋ. ಸ. ೭-೩೮-೭) the verse above |
+| 330 | `(Vā. Saṃ. 28-18 [?] and 9-43, as read; **small-type, letters doubtful — I record it as rea` → `(Vā. Saṃ. 28-16 and Ni. 9-43.)` | SECOND-PASS Q1: Kannada p.330 ಊರ್ಜಾಹುತೀ … ( ನಾ. ಸಂ. ೨೮ ೧೬ ಮತ್ತು ನಿ. ೯-೪೩ ) |
+| 331 | `(Ṛ. Saṃ. 6-8-4, as read. **The word after "ā" in the second line is not clearly legible in` → `(Ṛ. Saṃ. 6-8-4.)` | SECOND-PASS Q2: Kannada p.331 ಆ ದೂತೋ ಅಗ್ನಿಮಭರದ್ವಿವಸ್ವತೋ (ಋ. ಸಂ. ೬-೮-೪) agrees |
+| 334 | `[as read: Ni. 6-14 [?]]` → `[Ni. 6-14]` | SECOND-PASS Q2: Kannada p.337 ತುರ್ವಣಿಸ್ತೂರ್ಣವನಿಃ (ನಿ. ೬-೧೪) |
+| 334 | `[Ni. 2-31 [?]]` → `[Ni. 2-24]` | SECOND-PASS Q1: Kannada p.338 ಸಾನು ಸಮುಚ್ಚ್ರಿತಂ ಭವತಿ ಸಮುನ್ನುನ್ನಮಿತಿ ವಾ (ನಿ. ೨-೨೪) |
+| 335 | `(Ṛ. Saṃ. 6-[?]-4, as read; numerals doubtful.` → `(Ṛ. Saṃ. 8-68-4.` | SECOND-PASS Q1: Kannada p.335 ಏವೈಶ್ಚ ಚರ್ಷಣೀನಾಮೂತೀ ಹುವೇ ರಥಾನಾಂ (ಋ. ಸಂ. ೮-೬೮-೪) |
+| 335 | `(Ni. 1-[?]; as read "೧-೧೨"? [?])` → `(Ni. 2-24)` | SECOND-PASS Q1: Kannada p.335 ನೂರೊಂದು ಉದಕನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೨೪) |
+| 336 | `(Ṛ. Saṃ. 2-43-1, as printed; the first word and the last words are doubtful in my reading:` → `(Ṛ. Saṃ. 2-42-1.)` | SECOND-PASS Q1: Kannada p.336 (ಋ. ಸಂ. ೨-೪೨-೧) |
+| 336 | ` [as read; small type: [?]]` → `` | SECOND-PASS Q2: Kannada p.336 ಪ್ರಜಾಂ ವರ್ಷತೀತಿ … ವೃಷಭಃ agrees |
+| 336 | `(Ṛ. Saṃ. 9-107-[?], as printed: the numerals "೯-೧೦೭" and the *pāda* are small and doubtful` → `(Ṛ. Saṃ. 9-107-9.)` | SECOND-PASS Q1: Kannada p.337 ಅನೂಪೇ ಗೋಮಾನ್ ಗೋಭಿರಕ್ಷಾಃ (ಋ. ಸಂ. ೯-೧೦೭-೯) |
+| 337 | `(Ṛ. Saṃ. 10-94-6 [?], as read "೧೦-೯೪-೬"; the text of the line is as read and doubtful.)` → `(Ṛ. Saṃ. 10-89-6.)` | SECOND-PASS Q1: Kannada p.337 ನ ಯಸ್ಯ ದ್ಯಾವಾಪೃಥಿವೀ ನ ಧನ್ವ … (ಋ. ಸಂ. ೧೦-೮೯-೬) |
+| 337 | `are doubtful: [?].)` → `are doubtful.)` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 338 | `*upāramante [?] eṣv iti upārāḥ tiṣṭhyāḥ [?] yajamānagṛhā vā*` → `*upāramaṃte eṣvannayaḥ ityuparāḥ dhiṣṇyā yajamānagṛhā vā*` | SECOND-PASS Q1: Kannada p.338 ಉಪಾರಮಂತೇ ಏಷ್ವನ್ನಯಃ ಇತ್ಯುಪರಾಃ ಧಿಷ್ಣ್ಯಾ ಯಜಮಾನಗೃಹಾ ನಾ |
+| 338 | `(Ni. 3-30 [?])` → `(Ni. 3-22)` | SECOND-PASS Q1: Kannada p.338 ಸದಸೀ (ನಿ. ೩-೨೨) |
+| 338 | `(Uṇ. 4-[?])` → `(Uṇ. 4-641)` | SECOND-PASS Q1: Kannada p.339 ಸ್ತುರೀಭ್ಯಾಂ ತುಟ್ ಚ (ಉ. ಸೂ. ೪-೬೪೧) |
+| 340 | `are doubtful: [?].)*` → `are doubtful.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 342 | `(Ṛ. Saṃ. 2-31-4 [?], as read "೨-೩೧-೪"; the numerals are small.)` → `(Ṛ. Saṃ. 7-39-4.)` | SECOND-PASS Q1: Kannada p.342 ಅಧ್ವರ ಉಶತೋ ಯಕ್ಷ್ಯಗ್ನೇ (ಋ. ಸಂ. ೭-೩೯-೪) |
+| 343 | `(Ni. 1-[?]; as read "೧-೧೨")` → `(Ni. 2-27)` | SECOND-PASS Q1: Kannada p.343 ಇಪ್ಪತ್ತಾರು ಅಶ್ವನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೨೭) |
+| 343 | `(Ṛ. Saṃ. 3-31-2, as read; the numerals are small and doubtful [?].)` → `(Ṛ. Saṃ. 3-31-2.)` | SECOND-PASS Q2: Kannada p.343 (ಋ. ಸಂ. ೩-೩೧-೨) agrees |
+| 343 | `(Ṛ. Saṃ. 2-37-3, as read; the numerals are doubtful. The word "*neṣprāt*" is printed as in` → `(Ṛ. Saṃ. 2-37-2.)` | SECOND-PASS Q1: Kannada p.343 ತ್ವಂ ನೇಷ್ಟ್ರಾತ್ ಸೋಮಂ ದ್ರವಿಣೋದಃ ಪಿಬ (ಋ. ಸಂ. ೨-೩೭-೨) |
+| 345 | `a few places are doubtful: [?] — esp.` → `a few places are doubtful — esp.` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 345 | `praiseworthy [?] or from the destroyer` → `praiseworthy or from the destroyer` | SECOND-PASS Q2: Kannada p.345 ಶಂಸನೀಯಾತ್ agrees |
+| 347 | `(Ni. 1-[?]) and among the names of wealth (Ni. 2-15 and "೩-೯")` → `(Ni. 2-15) and among the names of wealth (Ni. 3-9)` | SECOND-PASS Q1: Kannada p.347 ರಶ್ಮಿ ನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೨-೧೫); ಧನ ನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೯) |
+| 348 | `"*tapur yayastu*" [?].)` → `"*tapur yayastu*".)` | SECOND-PASS Q2: Kannada p.348 ತಪುರ್ಯಯಸ್ತು (ಋ. ಸಂ. ೭-೧೦೪-೨) agrees |
+| 350 | `are doubtful: [?]. Sense so far:` → `are doubtful. Sense so far:` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 351 | `are doubtful: [?].)*` → `are doubtful.)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 353 | `(Ṛ. Saṃ. 5-62-3 [?], as read; the numerals are doubtful.` → `(Ṛ. Saṃ. 6-37-3.` | SECOND-PASS Q1: Kannada p.353 ಆಸಸ್ರಾಣಾಸಃ ಶವಸಾನಮಚ್ಛೇಂದ್ರಂ (ಋ. ಸಂ. ೬-೩೭-೩) |
+| 353 | `(Uṇ. 2-[?])` → `(Uṇ. 2-259)` | SECOND-PASS Q1: Kannada p.353 ಆರ್ತಿ ಸೃಧೃ— (ಉ. ಸೂ. ೨-೨೫೯) |
+| 355 | `are doubtful: [?] — e.g.` → `are doubtful — e.g.` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 356 | `[a doubtful phrase "*āyaṣvāram agnir hinastīti prasiddham*" — I give the letters as read: ` → `*āyaṣṭāram agnirhinastīti prasiddham*` | SECOND-PASS Q1: Kannada p.356 ಆಯಷ್ಟಾರಮಗ್ನಿರ್ಹಿನಸ್ತೀತಿ ಪ್ರಸಿದ್ಧಂ |
+| 357 | `(Ṛ. Saṃ. 2-[?]-[?], as read "೨-೪೧-೨" [?]; small type, doubtful letters: [?].)` → `(Ṛ. Saṃ. 7-39-2.)` | SECOND-PASS Q1: Kannada p.357 ಪ್ರ ವಾವೃಜೇ … ವಾಯುಃ ಪೂಷಾ ಸ್ವಸ್ತಯೇ ನಿಯುತ್ವಾನ್ (ಋ. ಸಂ. ೭-೩೯-೨) |
+| 358 | `(Ni. 1-[?]; as read "೧-೩"), of speech (Ni. 1-[?]; "೧-೩೩"), of food (Ni. 2-5; "೨-೯") and of` → `(Ni. 2-5), of speech (Ni. 2-23), of food (Ni. 3-9) and of the cow (Ni. 3-9)` | SECOND-PASS Q1: Kannada p.358 ಪೃಥಿವೀನಾಮ (ನಿ ೨ ೫); ವಾಙ್ನಾಮ (ನಿ. ೨-೨೩); ಅನ್ನ (ನಿ. ೩-೯); ಗೋನಾಮ (ನಿ. ೩-೯) |
+| 358 | `(Ni. 1-[?]; as read "೩-೨೪"[?])` → `(Ni. 2-24)` | SECOND-PASS Q1: Kannada p.358 ಮಹಃ ಶಬ್ದವು ಉದಕನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೨೪) |
+| 358 | `[as read: Uṇ. 2-[?]]` → `[Uṇ. 2-239]` | SECOND-PASS Q1: Kannada p.358 ಕೃ ಪೃ ವೃಜಿ- (ಉ. ಸೂ. ೨-೨೩೯) |
+| 360 | `"*tuṣṭeme…*"): [?].)*` → `"*tuṣṭeme…*").)*` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 362 | `(Ni. 9-42 [?], as read "೯-೪೨")` → `(Ni. 9-42)` | SECOND-PASS Q2: Kannada p.362 (ನಿ. ೯-೪೨) agrees |
+| 362 | `(Ṛ. Saṃ. 1-51-14, as read "೧-೩೧-೧೪"; the first line has doubtful letters in the print: [?]` → `(Ṛ. Saṃ. 1-51-14.)` | SECOND-PASS Q2: Kannada p.362 (ಋ. ಸಂ. ೧-೫೧-೧೪) agrees |
+| 364 | `several letters doubtful [?]).**` → `several letters doubtful).**` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 366 | `at the head is small and doubtful [?];` → `at the head (Ni. 3-12) is small;` | SECOND-PASS Q2: Kannada p.366 head: ನಿ. ೩-೧೨ |
+| 367 | `doubtful in places: [?];` → `doubtful in places;` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 368 | ` [Doubtful in the small print: [?].]` → `` | SECOND-PASS Q2: remark describing the marking of doubts; no number or reading depends on the mark; clause shortened |
+| 368 | `(Ni. 2-[?]; as read "೨-೯")` → `(Ni. 3-9)` | SECOND-PASS Q1: Kannada p.368 ವಾಜ ಶಬ್ದವು ಅನ್ನನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೯) |
+| 368 | `(Ni. 2-[?], "೨-೯")` → `(Ni. 3-9)` | SECOND-PASS Q1: Kannada p.368 ಸಂಗ್ರಾಮ ನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೯) |
+
+### 2026-11-27 second pass, batch m1-150_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 209 | `pratiṣidhyeta* —` → `pratiṣidhyeta* [?] —` | SECOND-PASS Q2: mark restored: Kannada p.209 reads ತತ್ಪ್ರತಿಷಿದ್ಧಂ ಪ್ರತಿಷಿದ್ಧ್ಯೇತ, not the English wording; earlier decision (findings q115) keeps the mark |

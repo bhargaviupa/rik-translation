@@ -25,3 +25,10 @@ page	place	as_found	question	why_not_settled	decision
 191	Itihāsa, opening citation	ದೈರ್ಘತಮಸಃ ಕಕ್ಷೀವಾನ್ನಾಮ..	English adds "… dānam iti prasiddham" which the Kannada does not print	addition in inline Sanskrit	English kept
 192	Kakṣīvat birth story, Kannada ಋಷಿಪುತ್ರಿಯಂತೆ	ಋಷಿಪುತ್ರಿಯಂತೆ ಶುದ್ಧಳನ್ನಾಗಿ ಮಾಡಿ	Kannada has "like a ṛṣi's daughter" (applied); a misprint for ಪತ್ನಿ is possible	uncertain sense	Kannada reading applied
 200	Ṛ. Saṃ. ref after kṣayadvīra discussion	ಋ. ಸಂ. ೧೦-೯೨-೯	Number applied as printed (10-92-9) although the ṛk quoted is the one the English cites elsewhere as 1-114-1	number applied as printed	Kannada number applied
+before p. i	q1 preface remark: "doubtful letters and numbers are marked [?]"	preface remark: "doubtful letters and numbers are marked [?]"	not decidable here	not reachable: the line stands before the first page heading, sp_apply finds no page section	English kept (mark stays)
+iii	q3 remark: subscript of first conjunct (ṣṇ) not certain, [?]	remark: subscript of first conjunct (ṣṇ) not certain, [?]	not decidable here	Kannada of p.iii not in the supplied text; Kannada elsewhere reads ನಿಷ್ಪಹಮಾಣೋ (ṣpa), the English Sanskrit line is derived data	English kept (mark stays)
+ix	q4 index table: endra yāhy upa [?]	index table: endra yāhy upa [?]	not decidable here	Kannada of p.ix not in the supplied text	English kept (mark stays)
+1	q5 verse remark: printed word after ūrdhvaṃ ta?nī, [?]	verse remark: printed word after ūrdhvaṃ ta?nī, [?]	not decidable here	Kannada of p.1 (title page) not in the supplied text	English kept (mark stays)
+234	q34 cyāvayitnnāḥ (marked [?])	cyāvayitnnāḥ (marked [?])	not decidable here	Kannada p.234 ಚ್ಯಾವಯಿತ್ಯನ್ವಾ differs from the English word; not decidable	English kept (mark stays)
+312	q62 after the word adha sma (non-finite word before it) [?]	after the word adha sma (non-finite word before it) [?]	not decidable here	Kannada p.312 has no "adha sma"; the place is not in the Kannada	English kept (mark stays)
+313	q63 Pada division paśu-se [?]	Pada division paśu-se [?]	not decidable here	Kannada p.313 does not have the Pada division	English kept (mark stays)
