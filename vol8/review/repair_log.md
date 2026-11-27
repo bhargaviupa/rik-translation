@@ -484,3 +484,142 @@
 | 220 | `[?] गतौ` → `णेषृ प्रेषृ गतौ` | SECOND-PASS Q1: Kannada p. 220 reads ಜೇಷ್ಯ ಣೇಷೃ ಪ್ರೇಷೃ ಗತೌ (ಜೇಷ್ಯ a misprint, English jeṣṛ kept; the mark stood for the omitted ṇeṣṛ preṣṛ) |
 
 ### 2026-11-27 qmark_strip.py: BLOCK 1356 marks removed from 750 Sanskrit-block lines (derived data, K9); BARE 49 boilerplate remark lines removed (53 marks); OTHER 2758 marks left
+
+### 2026-11-27 second pass, batch m236-385.tsv
+| page | old → new | why |
+|---|---|---|
+| 242 | `1-25-1 as read [?]` → `1-55-1` | SECOND-PASS Q1: Kannada p. 242 reads (ಋ. ಸಂ. ೧-೫೫-೧) |
+| 242 | `1-61-9 as read [?]` → `1-61-9` | SECOND-PASS Q2: Kannada agrees (೧-೬೧-೯) |
+| 242 | `[8?]-19-3 as read [?]` → `4-16-5` | SECOND-PASS Q1: Kannada p. 242 reads (ಋ. ಸಂ. ೪-೧೬-೫) |
+| 242 | `6-30-4 as read [?]` → `6-30-4` | SECOND-PASS Q2: Kannada agrees (೬-೩೦-೪) |
+| 242 | `lokadvayodapasya [?]` → `lokadvayodapasya` | SECOND-PASS Q2: Kannada pp. 240/242 read ಲೋಕದ್ವಯಾದಪ್ಯಸ್ಯ; the note itself states the earlier misreading |
+| 243 | `noted briefly; numerals small and doubtful [?])` → `noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 243 | `printed pp. 244–[?]` → `printed pp. 244–250` | SECOND-PASS Q1: Kannada: Rik 16 ends (॥ ೧೬ ॥) on p. 250 |
+| 244 | ` Numerals and one clotted clause are marked [?].` → `` | SECOND-PASS S3: doubt sentence only; the grammar summary kept |
+| 245 | `Va. 11 [?]"` → `Va. 11"` | SECOND-PASS Q2: Kannada p. 245 head reads ವ. ೧೧ |
+| 245 | `6-22 as read [?]` → `6-22` | SECOND-PASS Q2: Kannada agrees (ನಿ. ೬-೨೨) |
+| 246 | `2-36-3 as read [?]` → `2-36-3` | SECOND-PASS Q2: Kannada agrees |
+| 246 | `3-3-9 as read [?]` → `3-3-9` | SECOND-PASS Q2: Kannada agrees |
+| 246 | `8-45-39 as read [?]` → `8-45-39` | SECOND-PASS Q2: Kannada agrees (೮-೪೫-೩೯); rest of the remark kept |
+| 247 | `Va. 11 [?]"` → `Va. 11"` | SECOND-PASS Q2: Kannada p. 247 head reads ವ. ೧೧ |
+| 247 | `clotted [?]]` → `clotted]` | SECOND-PASS Q2: Kannada p. 247 has the Sanskrit (ಋಜ್ರಾಶ್ವಗ್ರಹಣೇನ … ವಾರ್ಷಾಗಿರಾ ಲಕ್ಷ್ಯಂತೇ), agreeing with the English |
+| 247 | `1-116-16 as read [?]` → `1-116-16` | SECOND-PASS Q2: Kannada agrees |
+| 247 | `twenty-five [as read, ?] names of man (*Ni.* 2-2 as read [?])` → `twenty-five names of man (*Ni.* 3-7)` | SECOND-PASS Q1: Kannada p. 247: ೨೫ ಮನುಷ್ಯನಾಮಗಳಲ್ಲಿ … (೩-೭) |
+| 247 | `8-6-24 as read [?]` → `8-6-24` | SECOND-PASS Q2: Kannada agrees |
+| 248 | `7-95-2 as read [?]` → `7-95-2` | SECOND-PASS Q2: Kannada agrees |
+| 248 | `6-20 as read [?]` → `6-20` | SECOND-PASS Q2: Kannada agrees |
+| 248 | `6-21 and 22 as read [?]` → `6-21 and 22` | SECOND-PASS Q2: Kannada agrees |
+| 248 | `6-23 as read [?]` → `6-23` | SECOND-PASS Q2: Kannada agrees |
+| 249 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 250 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 250 | `printed pp. 250–[?]` → `printed pp. 250–256` | SECOND-PASS Q1: Kannada: Rik 17 ends (॥ ೧೭ ॥) on p. 256 |
+| 250 | `see the note there [?])` → `see the note there)` | SECOND-PASS Q2: Kannada p. 250 reads ಪ್ರಷ್ಟಿಭಿಃ as the English says |
+| 251 | `*[as read [?]])` → `*[as read])` | SECOND-PASS Q2: Kannada p. 251 reads ವೋಪಸರ್ಜನಸ್ಯ |
+| 251 | ` Clotted rule-names are marked [?].` → `` | SECOND-PASS S3: doubt sentence only |
+| 252 | `(*Ai. Brā.*, as printed; the numeral on p. 253 [?])` → `(*Ai. Brā.* 15-6)` | SECOND-PASS Q1: Kannada p. 253 gives the number (೧೫-೬) |
+| 252 | `7-82-1 as read [?]` → `7-82-1` | SECOND-PASS Q2: Kannada agrees |
+| 253 | `Va. 11 [?]"` → `Va. 11"` | SECOND-PASS Q2: Kannada p. 253 head reads ವ. ೧೧ |
+| 253 | `10-68-1 as read [?];` → `10-68-1;` | SECOND-PASS Q2: Kannada agrees (೧೦-೬೮-೧) |
+| 253 | `1[3?]-6 as read [?]` → `15-6` | SECOND-PASS Q1: Kannada p. 253 reads (ಇ. ಪತ್ರ. ೧೫-೬) |
+| 253 | `6-69-1 as read [?]` → `6-69-1` | SECOND-PASS Q2: Kannada agrees |
+| 253 | `[1?]15-6 as read [?]` → `15-6` | SECOND-PASS Q1: Kannada p. 253 reads ಐತರೇಯಬ್ರಾಹ್ಮಣದಲ್ಲಿ (೧೫-೬) |
+| 253 | `4-2-3-10 as read [?]` → `4-2-3-10` | SECOND-PASS Q2: Kannada agrees |
+| 253 | `is cited in part [?].)*` → `is cited in part.)*` | SECOND-PASS Q2: Kannada p. 253 gives the Śatapatha passage; English gloss agrees |
+| 254 | `5-13-1 as read [?];` → `5-13-1;` | SECOND-PASS Q2: Kannada agrees (೫-೧೩-೧) |
+| 254 | `4-15-7 [as read [?]]` → `4-15-7` | SECOND-PASS Q2: Kannada agrees (೪-೧೫-೭) |
+| 254 | `(2-44-3-4 as read [?])` → `(2-44-3-4)` | SECOND-PASS Q2: Kannada agrees (೨-೪೪-೩-೪) |
+| 254 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 256 | `printed pp. 256–[?]` → `printed pp. 256–261` | SECOND-PASS Q1: Kannada: Rik 18 ends (॥ ೧೮ ॥) on p. 261 |
+| 257 | ` The Uṇādi numerals and the words marked [?] are clotted.` → `` | SECOND-PASS S3: doubt sentence only |
+| 258 | `1-62-4 as read [?]` → `1-62-4` | SECOND-PASS Q2: Kannada agrees |
+| 258 | `1-68-4 as read [?]` → `1-68-4` | SECOND-PASS Q2: Kannada agrees |
+| 258 | `1-158-3 as read [?];` → `1-158-3;` | SECOND-PASS Q2: Kannada agrees (೧-೧೫೮-೩) |
+| 258 | `2-19-3 as read [?]` → `7-62-2` | SECOND-PASS Q1: Kannada p. 258 reads ( ಋ. ಸಂ. ೭-೬೨-೨ ) |
+| 259 | `Va. 11 [?]"` → `Va. 11"` | SECOND-PASS Q2: Kannada p. 259 head reads ವ. ೧೧ |
+| 259 | `7-18-5/5?] as read [?]` → `7-18-5` | SECOND-PASS Q1: Kannada p. 259 reads (ಋ. ಸಂ. ೭-೧೮-೫) |
+| 259 | `2-12-10 as read [?]` → `2-12-10` | SECOND-PASS Q2: Kannada agrees |
+| 259 | `6-68-3 as read [?]` → `7-85-2` | SECOND-PASS Q1: Kannada p. 259 reads (ಋ. ಸಂ. ೭-೮೫-೨) |
+| 260 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 261 | `Va. 11 [?]"` → `Va. 11"` | SECOND-PASS Q2: Kannada p. 261 head reads ವ. ೧೧ |
+| 261 | `printed pp. 261–[?]` → `printed pp. 261–264` | SECOND-PASS Q1: Kannada: Rik 19 bhāṣya ends p. 262, grammar on pp. 263–264; Sūkta 100 ends p. 264 |
+| 262 | ` The Pāṇini numerals and the words marked [?] are clotted.` → `` | SECOND-PASS S3: doubt sentence only |
+| 263 | `Va. 11 [?]"` → `Va. 11"` | SECOND-PASS Q2: Kannada p. 263 head reads ವ. ೧೧ |
+| 263 | `10-6-2 as read [?]` → `10-6-2` | SECOND-PASS Q2: Kannada agrees |
+| 263 | `10-63-5 as read [?]` → `10-63-5` | SECOND-PASS Q2: Kannada agrees |
+| 264 | `3-128 as read [?]` → `3-128` | SECOND-PASS Q2: Kannada p. 264 (ಬೃ. ದೇ. ೩-೧೨೮) |
+| 264 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 265 | `Va. 11 [?]"` → `Va. 12"` | SECOND-PASS Q1: Kannada p. 265 head reads ವ. ೧೨ (its adhyāya numeral ೩ is a misprint for ೭) |
+| 265 | `doubtful places [?]):**` → `doubtful places):**` | SECOND-PASS Q2: mark dropped; Sanskrit is derived data |
+| 266 | `numerals as read, small [?])` → `numerals as read, small)` | SECOND-PASS Q2: Kannada p. 266 agrees (ಅಷ್ಟಕ ೧, ಅಧ್ಯಾಯ ೭, ವರ್ಗ ೧೨, ೧೩) |
+| 266 | `printed pp. 266–[?]` → `printed pp. 266–271` | SECOND-PASS Q1: Kannada: Rik 101.1 ends on p. 271 (grammar pp. 270–271) |
+| 267 | `Va. 12 [?]"` → `Va. 12"` | SECOND-PASS Q2: Kannada p. 267 head reads ವ. ೧೨ |
+| 267 | `[from them] [?]` → `[from them]` | SECOND-PASS Q2: Kannada p. 267 has the same sense (ಪುತ್ರಾಣಾಮಪ್ಯನುತ್ಪತ್ತ್ಯರ್ಥಂ ಗರ್ಭಿಣೀಸ್ತಸ್ಯ ಭಾರ್ಯಾ ಅವಧೀತ್) |
+| 267 | ` Several words are clotted and marked [?].` → `` | SECOND-PASS S3: doubt sentence only |
+| 268 | `(*Ni.* 4-24?]1 as read [?])` → `(*Ni.* 4-24)` | SECOND-PASS Q1: Kannada p. 268 (ನಿ. ೪-೨೪) |
+| 268 | `(*Ni.* 4-24[1?] as read [?])` → `(*Ni.* 4-24)` | SECOND-PASS Q1: Kannada p. 268 (ನಿ. ೪-೨೪) |
+| 268 | `twenty-eight [as read, ?] names of food (*Ni.* 2-7 as read [?])` → `twenty-eight names of food (*Ni.* 3-9)` | SECOND-PASS Q1: Kannada p. 268: ೨೮ ಅನ್ನನಾಮಗಳಲ್ಲಿ … (ನಿ. ೩-೯) |
+| 268 | `(*Ni.* 9-24?]4 as read [?])` → `(*Ni.* 9-24)` | SECOND-PASS Q1: Kannada p. 268 (ನಿ. ೯-೨೪) |
+| 268 | `1-187-1 as read [?]` → `1-187-1` | SECOND-PASS Q2: Kannada agrees |
+| 270 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 271 | `printed pp. 271–[?]` → `printed pp. 271–277` | SECOND-PASS Q1: Kannada: Rik 101.2 ends (॥ ೨ ॥) on p. 277 |
+| 272 | `jahṛṣāṇena [?] |` → `jahṛṣāṇena |` | SECOND-PASS Q2: Kannada Pada p. 272 reads ಜಹೃಷಾಣೇನ |
+| 272 | `the Pada* jahṛṣāṇena *[?])*` → `the Pada* jahṛṣāṇena*)*` | SECOND-PASS Q2: Kannada Saṃhitā reads ಜಾಹೃಷಾಣೇನ, Pada ಜಹೃಷಾಣೇನ |
+| 272 | `*is read as* sakhyāya hvayāmahe *[?].)*` → `*is read as* sakhyāyāhvayāmahe*.)*` | SECOND-PASS Q1: Kannada p. 272 reads ಸಖ್ಯಾಯಾಹ್ವಯಾಮಹೇ (IAST by sp_sanskrit.py) |
+| 273 | `Va. 12 [?]"` → `Va. 12"` | SECOND-PASS Q2: Kannada p. 273 head reads ವ. ೧೨ |
+| 276 | `given as printed [?])` → `given as printed)` | SECOND-PASS Q2: Kannada p. 276 repeats the line with the same differences (ಉತೋ ಚಿದ್ಯ ಓಹತ ಅಂಡಾ …) |
+| 276 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 277 | `Va. 12 [?]"` → `Va. 12"` | SECOND-PASS Q2: Kannada p. 277 head reads ವ. ೧೨ |
+| 279 | `Va. 12 [?]"` → `Va. 12"` | SECOND-PASS Q2: Kannada p. 279 head reads ವ. ೧೨ |
+| 279 | `4-19-2 as read [?]` → `4-19-2` | SECOND-PASS Q2: Kannada agrees |
+| 279 | `4-21-10 as read [?]` → `4-21-10` | SECOND-PASS Q2: Kannada agrees |
+| 279 | `3-305 as read [?]` → `3-30-5` | SECOND-PASS Q1: Kannada p. 279 reads (ಋ. ಸಂ. ೩-೩೦-೫) |
+| 280 | `8-62-7 as read [?]` → `8-62-7` | SECOND-PASS Q2: Kannada agrees |
+| 280 | `8-12-30 as read [?]` → `8-12-30` | SECOND-PASS Q2: Kannada agrees |
+| 280 | `twenty-two [as read, ?] names of verbs of going (*Ni.* 2-[?] as read [?])` → `122 names of verbs of going (*Ni.* 3-9)` | SECOND-PASS Q1: Kannada p. 280: ೧೨೨ ಗತಿ ಕರ್ಮಗಳಲ್ಲಿ … (ನಿ. ೩-೯) |
+| 280 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 281 | `printed pp. 281–[?]` → `printed pp. 281–286` | SECOND-PASS Q1: Kannada: Rik 101.4 ends (॥ ೪ ॥) on p. 286 |
+| 284 | `the first word clotted in print [?])` → `the first word clotted in print)` | SECOND-PASS Q2: Kannada p. 284 reads ವೃತಂಚಯಃ, as the English |
+| 285 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 286 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 286 | `printed pp. 286–[?]` → `printed pp. 286–290` | SECOND-PASS Q1: Kannada: Rik 101.5 ends (॥ ೫ ॥) on p. 290 |
+| 287 | `[having laid them low] [?]` → `[having laid them low]` | SECOND-PASS Q2: Kannada p. 287: ಅಧರಾನ್ನಿಕೃಷ್ಣಾನ್ಕೃತ್ವಾನಾತಿರತ್ ಅವಧೀತ್, as the English |
+| 288 | `3-8-8 as read [?]` → `8-3-6` | SECOND-PASS Q1: Kannada p. 288 reads (ಋ. ಸಂ. ೮-೩-೬) |
+| 288 | `3-31-5 to 5 [print: 3-31-5 to 6, as read [?]]` → `3-31-5 to 7` | SECOND-PASS Q1: Kannada p. 288 reads (ಋ. ಸಂ. ೩-೩೧-೫ ರಿಂದ ೭) |
+| 289 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 289 | `[Uṇ. Sū. 2-[?]41 as read, ?]` → `[Uṇ. Sū. 2-241]` | SECOND-PASS Q1: Kannada p. 289 reads (ಉ. ಸೂ. ೨-೨೪೧) |
+| 290 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 290 | `[Pā. Sū. 8-2-[?]9 as read]` → `[Pā. Sū. 8-3-9]` | SECOND-PASS Q1: Kannada p. 290 reads (ಪಾ. ಸೂ. ೮-೩-೯) |
+| 290 | `printed pp. 290–[?]` → `printed pp. 290–294` | SECOND-PASS Q1: Kannada: Rik 101.6 ends on p. 294 (grammar pp. 293–294) |
+| 291 | ` Several words are clotted and marked [?].` → `` | SECOND-PASS S3: doubt sentence only |
+| 292 | `1-103-5 as read [?]` → `1-103-5` | SECOND-PASS Q2: Kannada agrees |
+| 292 | `6-24-3 as read [?]` → `6-24-3` | SECOND-PASS Q2: Kannada agrees |
+| 293 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 294 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 294 | `[Uṇ. Sū. 2-[?]4 as read, ?]` → `[Pā. Sū. 3-2-174]` | SECOND-PASS Q1: Kannada p. 294: ಭಿಯಃ ಕ್ರುಕ್ಲುಕನೌ—(ಪಾ. ಸೂ. ೩-೨-೧೭೪) |
+| 295 | `printed pp. 295–[?]` → `printed pp. 295–299` | SECOND-PASS Q1: Kannada: Rik 101.7 grammar ends p. 299 |
+| 298 | `4-5[2?]-[?] as read [?]` → `4-52-5` | SECOND-PASS Q1: Kannada p. 298 reads (ಋ. ಸಂ. ೪-೫೨-೫) |
+| 298 | `vistīrṇam asi vegaṃ vistārayatīty arthaḥ* [as printed, partly clotted [?]]` → `vistīrṇam api vegaṃ vistārayatīty arthaḥ*` | SECOND-PASS Q1: Kannada p. 298 reads ವಿಸ್ತೀರ್ಣಮಪಿ ವೇಗಂ ವಿಸ್ತಾರಯತೀತ್ಯರ್ಥಃ (IAST by sp_sanskrit.py) |
+| 298 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 299 | `Va. 13 [?]"` → `Va. 13"` | SECOND-PASS Q2: Kannada p. 299 head reads ವ. ೧೩ |
+| 299 | `printed pp. 299–[?]` → `printed pp. 299–302` | SECOND-PASS Q1: Kannada: Rik 101.8 ends (॥ ೮ ॥) on p. 302 |
+| 300 | `"Maṃ. 1 A. 15 Sū. 100" [as the numeral reads; 101 is meant [?]]` → `"Maṃ. 1 A. 15 Sū. 101"` | SECOND-PASS Q1: Kannada p. 300 head reads ಸೂ ೧೦೧ |
+| 300 | `curādi *[open class?, as read [?]],` → `curādi *,` | SECOND-PASS Q2: Kannada p. 300: ಮಾದಯಾಸೆ—ಮದ ತೃಪ್ತಿಯೋಗೇ ಧಾತು. ಚುರಾದಿ. |
+| 300 | ` Some clauses are clotted and marked [?].` → `` | SECOND-PASS S3: doubt sentence only |
+| 302 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 302 | `printed pp. 303–[?]` → `printed pp. 303–306` | SECOND-PASS Q1: Kannada: Rik 101.9 ends (॥ ೯ ॥) on p. 306 |
+| 303 | `Va. 13 [?]"` → `Va. 13"` | SECOND-PASS Q2: Kannada p. 303 head reads ವ. ೧೩ |
+| 304 | `8-62-7 as read [?]` → `8-62-7` | SECOND-PASS Q2: Kannada agrees |
+| 305 | `3-41-3 [?])` → `3-41-3)` | SECOND-PASS Q2: Kannada p. 305 has (ಋ. ಸಂ. ೩-೪೧-೩) |
+| 305 | `6-457-? [?]` → `6-45-7` | SECOND-PASS Q1: Kannada p. 305: ೫-೩೯-೫, ೬-೨೧-೬, ೬-೪೫-೭ |
+| 305 | `3-46-5 [?],` → `3-46-5,` | SECOND-PASS Q2: Kannada p. 305: ೨-೧೮-೬, ೩-೪೬-೫, ೪-೨-೬, ೪-೧೩-೫ |
+| 305 | `4-13-5 [?] and` → `4-13-5 and` | SECOND-PASS Q2: Kannada p. 305 agrees |
+| 306 | `1-135-4-[?] as read [?]` → `1-135-4` | SECOND-PASS Q1: Kannada p. 306 reads (ಋ. ಸಂ. ೧-೧೩೫-೪) |
+| 306 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 306 | `printed pp. 307–[?]` → `printed pp. 307–310` | SECOND-PASS Q1: Kannada: Rik 101.10 ends (॥ ೧೦ ॥) on p. 310 |
+| 307 | `Va. 13 [?]"` → `Va. 13"` | SECOND-PASS Q2: Kannada p. 307 head reads ವ. ೧೩ |
+| 308 | `6-17 as read [?]` → `6-17` | SECOND-PASS Q2: Kannada agrees (ನಿ. ೬-೧೭) |
+| 308 | `1-9-3 as read [?]` → `1-9-3` | SECOND-PASS Q2: Kannada agrees |
+| 310 | `numerals small and doubtful [?])` → `numerals small and doubtful)` | SECOND-PASS Q2: Kannada numerals are correct; doubt mark dropped |
+| 311 | `Va. 13 [?]"` → `Va. 13"` | SECOND-PASS Q2: Kannada p. 311 head reads ವ. ೧೩ |
+| 312 | `(*Ni.* 2-9 as read [?])` → `(*Ni.* 2-9)` | SECOND-PASS Q2: Kannada agrees (ನಿ. ೨-೯) |
+| 312 | `1-164-9-[?]9 as read [?]` → `1-164-9` | SECOND-PASS Q1: Kannada p. 312 reads (ಋ. ಸಂ. ೧-೧೬೪-೯) |
