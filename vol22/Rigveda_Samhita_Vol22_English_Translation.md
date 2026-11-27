@@ -20066,6 +20066,138 @@ O Varuṇa, you and Mitra, अद्रुहा (*adruhā*), harming none, come
 
 O Mitra and Varuṇa, who do harm to none, set out from your places in the heavenly world, shining with radiance, and come to our sacrifice. Then, as destroyers of enemies or givers of wealth, drink the soma juice at our sacrifice.
 
+### Printed p. 481
+
+##### English translation
+Gentle Mitra and Varuna, destroyers of foes, come from heaven with your glories, and drink the Soma juice.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑तं मित्रावरुणा जुषा॒णावाहु॑तिं नरा ।  
+> पा॒तं सोम॑मृतावृधा ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यातं । मित्रावरुणा । जुषाणौ । आऽहुतिं । नरा ।  
+> पातं । सोमं । ऋतऽवृधा ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा मित्रावरुणौ हे नरा योगनेतारौ आहुतिं सोमलक्षणां जुषाणौ प्रियमाणौ संतावा यातं । आगच्छतं यज्ञं । आगत्य च हे ऋतावृधा यज्ञस्य वर्धकौ युवां सोमं पातं । पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, O leaders (the guides of the rite), being pleased with the oblation, which consists of Soma, come (आ यातं (*ā yātaṃ*)) to the sacrifice. Having come, O augmenters of the sacrifice (ऋतावृधा (*ṛtāvṛdhā*)), drink (पातं (*pātaṃ*)) the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders of the sacrifice
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- आहुतिं (*āhutiṃ*)—the oblation, which consists of Soma
+- जुषाणा (*juṣāṇā*)—loving it (or, in order to partake of it)
+- आ यातं (*ā yātaṃ*)—come to our place of sacrifice. (Then)
+- ऋतवृधा (*ṛtavṛdhā*)—you, the augmenters of the sacrifice
+- सोमं (*somaṃ*)—the Soma juice
+- पातं (*pātaṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, conductors of the sacrifice, you who are fond of Soma, the oblation of the sacrifice, come to our place of sacrifice in order to partake of it. After you have come, you who augment the sacrifice, drink the Soma in our sacrifice.
+
+##### English translation
+Come, Mitra and Varuna, leaders of rites, propitiated by the oblation, and drink the Soma, augmenters of the sacrthe sacred rite.
+
+### Printed p. 482
+## Sūkta 67 (Maṇḍala 7)
+**Introduction**
+In this sūkta and in the seven sūktas that follow, the Aśvin deities are praised. We have explained the matter of the Aśvins many times before. Here we shall state only a brief introduction to them and, briefly, the details of the help they gave to those who praised them.
+
+The Aśvin deities are two. One of them is named Dasra and the other Nāsatya, but in many places both are called by the dual word Dasrā or Nāsatyā.
+
+**Origin of the Aśvins**
+Yāska has spoken thus about the Aśvins in his Nirukta. It appears that even in his time there was a difference of opinion over who these Aśvins are.
+
+अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यौर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । अहोरात्रावित्येके । सूर्याचंद्रमसावित्येके । राजानौ पुण्यकृतावित्येके । (*aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvairaśvināvityaurṇavābhaḥ | tatkāvaśvinau dyāvāpṛthivyāvityeke | ahorātrāvityeke | sūryācaṃdramasāvityeke | rājānau puṇyakṛtāvityeke |*) (Ni. 12-1)
+
+One view is that, of these deities, one pervades everything with water and the other with light, and so they are called Aśvins. The view of Aurṇavābha is that they are called Aśvins because they are yoked with horses. According to some, they are Heaven and Earth. Others call them Day and Night. According to others they are the Sun and the Moon. According to the view of the historians, two meritorious kings attained this rank and became famous as the Aśvin deities. Having thus stated the differences of opinion, Yāska cited Ṛ. Saṃ. 1-181-4 and another mantra, unspecified, and so expressed the doubt in this matter.
+
+वसातिषु स्म चिरथोऽसितौ पेत्वाविव । कदेदमश्विना युवमभि देवा अगच्छतं ॥ (*vasātiṣu sma ciratho 'sitau petvāviva | kadedamaśvinā yuvamabhi devā agacchataṃ ‖*)
+
+As stated in this mantra, one of them is the son of Vasāti, that is, the son of Night, and the other is the son of Uṣas. If the nature of the Aśvins is to be determined from the statements in the Ṛksaṃhitā, the evidence of the Ṛks cited below may be considered.
+
+त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति । यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ॥ (*tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa ‖*)
+
+### Printed p. 483
+अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरद्यत्तदासीदजहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadyattadāsīdajahādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10-17-1, 2)
+
+At the time of his daughter's wedding Tvaṣṭṛ arranged a svayaṃvara and caused the people of the whole world to assemble there. Saraṇyū, the mother of Yama and the wife of Vivasvān, became invisible after the marriage. That is, the immortal gods thought it improper that Saraṇyū had married the mortal Vivasvān, and they hid her so that nobody could see her. Then they made her of the same appearance and gave her to Vivasvān. Afterwards she bore the Aśvins and went away, leaving them, her sons. This is the purport of these Ṛks. And further:
+
+यमा चिदत्र यमसूरसूत जिह्वाया अग्रं पतदा ह्यस्थात् । वपूंषि जाता मिथुना सचेते तमोहना तपुषो बुध्न एता ॥ (*yamā cidatra yamasūrasūta jihvāyā agraṃ patadā hyasthāt | vapūṃṣi jātā mithunā sacete tamohanā tapuṣo budhna etā ‖*) (Ṛ. Saṃ. 3-39-3)
+
+In this Ṛk it is said that the mother of the Aśvins bore twins (she herself bore the children), and that those two twins, embodied together, destroyed darkness. But many accept as universally agreed that Sāyaṇa, in his commentary, explains the word यमसूः (*yamasūḥ*) as उषोऽभिमानिनी देवता अत्र उषःकाले असूते (*uṣo 'bhimāninī devatā atra uṣaḥkāle asūte*), saying that the mother of the Aśvins is the goddess Uṣas. Moreover, the Bṛhaddevatā speaks as follows of Tvaṣṭṛ's giving his daughter Saraṇyū in marriage to Vivasvān and of the Aśvins' being born of them:
+
+अभवन्मिथुनं त्वाष्ट्रं सरण्यूस्त्रिशिराः सह । स वै सरण्यूं प्रायच्छत्स्वयमेव विवस्वते ॥ (*abhavanmithunaṃ tvāṣṭraṃ saraṇyūstriśirāḥ saha | sa vai saraṇyūṃ prāyacchatsvayameva vivasvate ‖*)
+ततः सरण्य्यां जज्ञाते यमयम्यौ विवस्वतः । तौ चाप्युभौ यमावेव ज्यायांस्ताभ्यां तु वै यमः ॥ (*tataḥ saraṇyyāṃ jajñāte yamayamyau vivasvataḥ | tau cāpyubhau yamāveva jyāyāṃstābhyāṃ tu vai yamaḥ ‖*)
+सृष्ट्वा भर्तुः परोक्षं तु सरण्यूः सदृशीं स्त्रियं । निक्षिप्य मिथुनं तस्यां अश्वा भूत्वापचक्रमे ॥ (*sṛṣṭvā bhartuḥ parokṣaṃ tu saraṇyūḥ sadṛśīṃ striyaṃ | nikṣipya mithunaṃ tasyāṃ aśvā bhūtvāpacakrame ‖*)
+अविज्ञानाद्विवस्वांस्तु तस्यामजनयन्मनुं । राजर्षिरभवत्सोऽपि विवस्वानिव तेजसा ॥ (*avijñānādvivasvāṃstu tasyāmajanayanmanuṃ | rājarṣirabhavatso 'pi vivasvāniva tejasā ‖*)
+स विज्ञाय त्वपक्रांतां सरण्यूमश्वरूपिणीं । त्वाष्ट्रीं प्रति जगामाशु वाजी भूत्वा सलक्षणः ॥ (*sa vijñāya tvapakrāṃtāṃ saraṇyūmaśvarūpiṇīṃ | tvāṣṭrīṃ prati jagāmāśu vājī bhūtvā salakṣaṇaḥ ‖*)
+सरण्यूश्च विवस्वंतं विदित्वा हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः । ततस्तयोस्तु वेगेन शुक्रं तदपतद्भुवि । (*saraṇyūśca vivasvaṃtaṃ viditvā hayarūpiṇaṃ | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ | tatastayostu vegena śukraṃ tadapatadbhuvi |*)
+
+### Printed p. 484
+उपाजिघ्रच्च सा त्वाष्ट्रा तच्छुक्रं गर्भकाम्यया ॥ (*upājighracca sā tvāṣṭrā tacchukraṃ garbhakāmyayā ‖*)
+आघ्रातमात्राच्छुक्रात्तु कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ (*āghrātamātrācchukrāttu kumārau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*)
+इतिहासमिमं यास्कः सरण्यूदेवते द्वृचे । विवस्वतश्च त्वष्टुश्च त्वाष्ट्रेति सह मन्यते ॥ (*itihāsamimaṃ yāskaḥ saraṇyūdevate dvṛce | vivasvataśca tvaṣṭuśca tvāṣṭreti saha manyate ‖*)
+(Bṛ. De. 6-163 to 7-6)
+
+Tvaṣṭṛ had a daughter named Saraṇyū and a son named Triśiras. He gave his daughter Saraṇyū in marriage to Vivasvān. Afterwards two children, Yama and Yamī, were born to Vivasvān by his wife Saraṇyū. These two were twins, born together; of them Yama was the elder. One day, when her husband Vivasvān was absent, Saraṇyū created another woman who resembled herself, handed her twin children over to her charge, took the form of a mare, left that place, and went to another place without Vivasvān's knowledge, and remained unseen. But Vivasvān, unaware of this, united with the woman who had been put in Saraṇyū's place. As a result Manu was born. Manu too, like his father, became resplendent and a great royal sage; his fame spread through all the worlds. After some time true knowledge came to Vivasvān. Having learned that Saraṇyū had gone away in the form of a mare, he too took the form of a male horse, followed Tvaṣṭṛ's daughter to the place where she had gone, and tried to unite with her. Saraṇyū, knowing that Vivasvān had followed her, himself in the form of a horse, desired the pleasure of union with him. Then Vivasvān fulfilled her wish. In the excitement of their union Vivasvān's seed fell on the ground. Then Saraṇyū, desiring conception, smelled it. As soon as she had smelled that seed (semen), a conception arose in her, and from it two youths, Nāsatya and Dasra, were born. Afterwards they were called by the name Aśvins, and their greatness spread through all the worlds. So it is said.
+
+**Chariot of the Aśvins, etc.**
+The chariot of the Aśvins is golden, and all its parts, wheels, axle and the rest, are made of gold (Ṛ. Saṃ. 4-44-4; 1-180-1; 8-5-39; 8-22-8, etc.). It is a peculiar chariot. It has three wheels, three felloes, and some other parts also in threes. It has the speed of thought. A three-wheeled chariot belongs to them alone; no one else has a chariot of that kind.
+
+यदयातं शुभस्पती वरेयं सूर्यामुप । क्वैकं चक्रं वामासीत् क्व देष्ट्राय तस्थथुः ॥ (*yadayātaṃ śubhaspatī vareyaṃ sūryāmupa | kvaikaṃ cakraṃ vāmāsīt kva deṣṭrāya tasthathuḥ ‖*)
+(Ṛ. Saṃ. 10-85-15)
+
+### Printed p. 485
+Here it is said that when they went to the wedding of the goddess Sūryā, one wheel of their chariot was ruined.
+
+On this matter there is a story in the Aitareya Brāhmaṇa:
+
+प्रजापतिः सवितुः दुहितरं सूर्यां सोमाय राज्ञे प्रायच्छत् । ये त्वन्ये देवाः तां वरयितुमागच्छन् । तेभ्यो विवाहादनंतरमृक्सहस्रमददात् । यदेतदाश्विनं नाम तस्मिन्देवा विवादमकुर्वन् । ममेदमस्तु ममेदमस्त्विति । तेऽब्रुवन् । आजिं धावाम । यो नो जेष्यति तस्येदं भविष्यतीति । तेऽग्नेर्गृहपतेरुपर्यादित्यं काष्ठां कृत्वाभिधावन् ! काष्ठा आज्यंत उच्यते । अश्वतरीरथेनाग्निराजिमधावत् । गोभिरुरुणैरुषाः । हरिरथेनेंद्रः । गर्दभरथेनाश्विनौ । तत्राश्विनावजयतां ॥ (*prajāpatiḥ savituḥ duhitaraṃ sūryāṃ somāya rājñe prāyacchat | ye tvanye devāḥ tāṃ varayitumāgacchan | tebhyo vivāhādanaṃtaramṛksahasramadadāt | yadetadāśvinaṃ nāma tasmindevā vivādamakurvan | mamedamastu mamedamastviti | te 'bruvan | ājiṃ dhāvāma | yo no jeṣyati tasyedaṃ bhaviṣyatīti | te 'gnergṛhapateruparyādityaṃ kāṣṭhāṃ kṛtvābhidhāvan ! kāṣṭhā ājyaṃta ucyate | aśvatarīrathenāgnirājimadhāvat | gobhiruruṇairuṣāḥ | hariratheneṃdraḥ | gardabharathenāśvinau | tatrāśvināvajayatāṃ ‖*)
+
+Brahmā gave Sūryā, the daughter of the god Savitṛ, in marriage to King Soma. Then the other gods came to woo her. After the marriage he gave them a thousand Ṛks. The name Āśvina Ṛks became well known for these Ṛks. The gods who had come there quarrelled with one another over these Ṛks, each saying: "I want them, I want them." Then they arranged a contest and decided among themselves that whoever won it might have these Ṛks. Then they decided that the contest was to run from the neighbourhood of Agni, the Gṛhapati, up to Āditya, and that whoever reached it first would be adjudged the winner. Then Agni made ready to run in a chariot yoked with mules. The goddess Uṣas came seated in a chariot yoked with red cows. Indra mounted a chariot yoked with his horses called Hari and came there. The Aśvins mounted their own chariot, yoked with asses called Rāsabhas, and came there. Then, as all of them ran, each mounted on his own vehicle, to reach the appointed place, victory fell to the Aśvins. The thousand Ṛks, which were the stake, came to them. Therefore the name Āśvina Ṛks became well known for those Ṛks. In this story the excellence of the Aśvins' chariot is stated. Although the word अश्विनौ (*aśvinau*) means those who possess horses (aśva), it is nowhere said that the name came to them because they were horse-riders. The horses that draw their chariot are said to be horses (Ṛ. Saṃ. 1-117-2), birds (6-62-6), swans (4-45-4), Garuḍa birds (1-118-4), horses of the form of falcons (8-35-2). But their chief vehicle, as Yāska says, is रासभावश्विनोः (*rāsabhāvaśvinoḥ*) (Ni. 12-38): the vehicles of the Aśvins are asses.
+
+कदा योगो वाजिनो रासभस्य येन यज्ञं नासत्योपयाथः । (*kadā yogo vājino rāsabhasya yena yajñaṃ nāsatyopayāthaḥ |*)
+(Ṛ. Saṃ. 1-34-9)
+
+### Printed p. 486
+कद्रासभो नासत्या सहस्रमाजा यमस्य प्रधने जिगाय ॥ (*kadrāsabho nāsatyā sahasramājā yamasya pradhane jigāya ‖*)
+(Ṛ. Saṃ. 1-116-2)
+
+In these and similar Ṛks it is stated clearly that the rāsabha (ass) is the vehicle of the Aśvins.
+
+Those who perform sacrifices always invoke them in the morning. They are connected with the daughter of the Sun. Sūryā herself chose them (Ṛ. Saṃ. 7-69-4); both of them are her husbands (4-43-6). Sūryā mounted their chariot (Ṛ. Saṃ. 5-73-5; 8-8-10); the daughter of the Sun mounts their chariot (Ṛ. Saṃ. 1-34-5; 1-117-12; 1-118-5; 6-63-5). They regard Sūryā as their own (7-68-3), and she goes with them in the chariot (8-26-8). There are descriptions of this kind.
+
+**Help given by the Aśvins**
+There are many narratives to show that they help people in distress. These have been explained at length in their respective places. Here, however, we have explained only a few of the chief ones:
+
+जुजुरुषो नासत्योत वप्रिं प्रामुंचतं द्रापिमिव च्यवानात् । प्रातिरतं जहितस्यायुर्दस्रादित्पतिमकृणुतं कनीनां ॥ (*jujuruṣo nāsatyota vapriṃ prāmuṃcataṃ drāpimiva cyavānāt | prātirataṃ jahitasyāyurdasrāditpatimakṛṇutaṃ kanīnāṃ ‖*)
+(Ṛ. Saṃ. 1-116-10)
+
+The sage named Cyavana had grown very old; his body was worn out and he had no strength, and his people abandoned him. When this sage prayed to the Aśvins, they came, removed his worn-out body, made him a youth, and made him dear to his wife. And they increased his life. So it is said. Besides:
+
+युवं च्यवनमश्विना जरंतं पुनर्युवानं चक्रथुः शचीभिः । (*yuvaṃ cyavanamaśvinā jaraṃtaṃ punaryuvānaṃ cakrathuḥ śacībhiḥ |*)
+(Ṛ. Saṃ. 1-117-13)
+निष्टौग्र्यं पारयथः समुद्रात्पुनश्च्यवानं चक्रथुर्युवानं । (*niṣṭaugryaṃ pārayathaḥ samudrātpunaścyavānaṃ cakrathuryuvānaṃ |*)
+(Ṛ. Saṃ. 1-118-6)
+प्र च्यवानाज्जुरुषो वप्रिमत्कं न मुंचथः । युवा यदी कृथः पुनरा काममृष्वे वध्वः ॥ (*pra cyavānājjuruṣo vaprimatkaṃ na muṃcathaḥ | yuvā yadī kṛthaḥ punarā kāmamṛṣve vadhvaḥ ‖*)
+(Ṛ. Saṃ. 5-74-5)
+उत त्यद्वां जुरते अश्विना भूच्च्यवानाय प्रतीत्यं हविर्दे । (*uta tyadvāṃ jurate aśvinā bhūccyavānāya pratītyaṃ havirde |*)
+(Ṛ. Saṃ. 7-68-6)
+युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvaṃ |*)
+(Ṛ. Saṃ. 7-71-5)
+
 ---
 
-**Progress note:** Done through printed p. 480. pp. 475-480 (batch API)
+**Progress note:** Done through printed p. 486. pp. 481-486 (batch API)
