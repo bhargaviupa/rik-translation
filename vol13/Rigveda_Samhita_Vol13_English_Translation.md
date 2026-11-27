@@ -14181,6 +14181,148 @@ Although the word जिन्वति (*jinvati*) is listed among the names of
 
 and thus states the purport of this word. In the present Ṛk it may mean impellers of rites such as sacrifices, or those who obtain satisfaction from rites such as sacrifices. This word is an epithet of the Aśvin deities.
 
+### Printed p. 595
+Dhiṣṇyā—those worthy of meditation, or worthy of praise. The special senses of this word were given earlier.
+
+Viśvalāvasū—two kinds of meaning are given for this word too. First, विशां प्रजानां अस्माकं पालयितृधन् (*viśāṃ prajānāṃ asmākaṃ pālayitṛdhan*): those who protect us, who are their subjects. Second, विश्वलाख्याश्चिन्नजंघाया हिरण्मयजंघाप्रदानेन तथाभूतौ (*viśvalākhyāścinnajaṃghāyā hiraṇmayajaṃghāpradānena tathābhūtau*): those who gave a golden leg to Viśvalā, whose leg was broken. The story of Viśvalā was also indicated earlier. Its substance is as follows.
+
+अगस्त्यपुरोहितः खेलो नाम राजा बभूव । तस्य सेनायां योध्री विश्वला नाम स्त्री । तस्या अन्नार्थं धनार्थं च युध्यमानायाः शत्रुवो जंघान् चिच्छिदुः । तस्याश्विन्नां जंघां ज्ञात्वा पुरोहितोऽगस्तोऽश्विना तुष्ठाव । तौ विश्वलां प्रति जग्मतुः । आगत्य च सद्योलोहमयीं जंघां विश्वलायाश्चक्रतुः । तदेवेहाप्युच्यते । (*agastyapurohitaḥ khelo nāma rājā babhūva | tasya senāyāṃ yodhrī viśvalā nāma strī | tasyā annārthaṃ dhanārthaṃ ca yudhyamānāyāḥ śatruvo jaṃghān cicchiduḥ | tasyāśvinnāṃ jaṃghāṃ jñātvā purohito 'gasto 'śvinā tuṣṭhāva | tau viśvalāṃ prati jagmatuḥ | āgatya ca sadyolohamayīṃ jaṃghāṃ viśvalāyāścakratuḥ | tadevehāpyucyate |*) (Sā. Bhā. Ṛ. Saṃ. 1-116-15)
+
+In the army of a king named Khela, whose priest was Agastya, there was a woman warrior named Viśvalā. While she was fighting for food and for wealth, enemies broke her shank. Learning this, Agastya, the king's priest, praised the Aśvins. They at once made her an iron leg and enabled Viśvalā to walk. (In the present Ṛk Sāyaṇa says हिरण्मयजंघाप्रदानेन (*hiraṇmayajaṃghāpradānena*).) This is the earlier story. Sāyaṇa shows that the same story is told in the hymn seen by Kakṣīvān, by quoting
+
+चरित्रं हि वेरिवाच्छेदि पर्णमाजा खीलस्य परितक्क्यायां । सद्यो जंघामायसीं विश्वलाय्कॆ धने हिते सर्तवे प्रत्यधत्तं । (*caritraṃ hi verivācchedi parṇamājā khīlasya paritakkyāyāṃ | sadyo jaṃghāmāyasīṃ viśvalāykè dhane hite sartave pratyadhattaṃ |*) (Ṛ. Saṃ. 1-116-15)
+
+Divaḥ napātā—the word napāt means "son" and also "grandson". The Nirukta-author says that नपादित्यनंतरायाः प्रजायाः नामधेयं (*napādityanaṃtarāyāḥ prajāyāḥ nāmadheyaṃ*) (Ni. 8-5): the word means not the direct son but grandsons and the like. In the present place Sāyaṇa explains divaḥ napātā as आदित्यस्य नपातयितारौ (*ādityasya napātayitārau*). The origin and nature of the Aśvins was explained in detail earlier, at Ṛ. Saṃ. 1-181-4. The epithet divaḥ napātā comes for them in many places, and Sāyaṇa does not give the same meaning everywhere. At Ṛ. Saṃ. 1-184-1 he explains द्युलोकस्य नप्तस्थानीयौ (*dyulokasya naptasthānīyau*), and
+
+### Printed p. 596
+at
+
+कृष्णा यद्योष्टरुणीषु सीदद्दिवो नपाताश्विना हुवे वां । वीतं वे यज्ञमा गतं मे अन्नं ववन्वांसा नेषमस्मृतध्रू ॥ (*kṛṣṇā yadyoṣṭaruṇīṣu sīdaddivo napātāśvinā huve vāṃ | vītaṃ ve yajñamā gataṃ me annaṃ vavanvāṃsā neṣamasmṛtadhrū ‖*) (Ṛ. Saṃ. 10-61-4)
+
+he explains दीप्यमानस्य स्वर्गस्य प्रताशात्मकस्य यागस्य वा न पातयितारौ (*dīpyamānasya svargasya pratāśātmakasya yāgasya vā na pātayitārau*). Since the nature of the Aśvins is described in many ways, all these meanings are suitable.
+
+Śucivratā—the word śuci means purity and also shining. Here the meaning is: those whose vrata (act or deed of daring) is exceedingly bright.
+
+##### Grammar
+
+- अभूत् — पादादित्वात् निघातस्वरो न भवति । अडागमस्य उदात्तत्वात् आद्युदात्तं भवति ।
+- वयुनम् — अज गतिक्षेपणयोः इति धातुः । अजियमिशी इति (उ. सू. २-३४१) उनन् प्रत्ययः । अजेर्व्यघञ् पोः (पा. सू. २-४-५६) इति धातोः वी भावः । गुणः । अयादेशः । व्यत्ययेन प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- भूषता — भूष अलंकारे इति धातुः । भ्वादिः । लोट् मध्यमपुरुष बहुवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति । छांदसत्वात् संहितायां दीर्घो भवति ।
+- वृषण्णान् — वृषन् शब्दात् मतुप् प्रत्ययः । अनोनुट् (पा. सू. ८-२-१६) इति तस्य नुडागमः । ह्रस्वनुड्भ्यां मतुप् (पा. सू. ६-१-१७६) इति मतुप् उदात्तो भवति ।
+- मदत — मद तृप्तियोगे इति धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थकः । लोट् मध्यमपुरुष बहुवचनांतरूपम् । व्यत्ययेन आद्युदात्तस्वरो भवति ।
+- मनीषिणः — मनीषा एषामस्ति इति मनीषिणः । आत इनिरनौ इति इनि प्रत्ययः । संबोधना बहुवचनांतरूपम् । आमंत्रितनिघातस्वरो भवति ।
+- धियंजिन्वा — जिवि प्रीणने इति धातुः । कृत्यल्युटो बहुलं इत्यत्र बहुलग्रहणस्वारस्यात् खच् प्रत्ययः । इदितो नुम् धातोः इति नुमागमः । इच एकाचो म् प्रत्ययवच्च (पा. सू. ६-३-६८) इति पूर्वस्य अमागमः । कृदुत्तरपदप्रकृतिस्वरेण अंतोदात्तो भवति । सुपां सुलुक् (पा. सू. ७-१-३९) इति द्विवचनस्य (औ) आकारादेशः । धिष्ण्या इत्यत्रापि एवमेव आकारादेशः ।
+- नपाता — न पातयितारौ । नभ्राण् नपात् इति न लोपाभावः समासे निपातितः । पूर्ववत् द्विवचनस्य आकारादेशः । नञ् पूर्वपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 597
+- सुकृते — शोभनं करोति इति सुकृत्, तस्मै । कृञ् धातोः क्विपि आगते धातोः तुकागमः । कृदुत्तरपदप्रकृतिस्वरो भवति । चतुर्थी एकवचनांतरूपम् ।
+- शुचिव्रता — शुचि व्रतं ययोः तौ । बहुव्रीहौ प्रकृत्या (पा. सू. ६-२१) इति पूर्वपदप्रकृतिस्वरो भवति । द्वितीया द्विवचनस्य आकारादेशः ॥ १ ॥ **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑तमा॒ हि धिष्ण्या॑ म॒रुत्त॑मा द॒स्रा दंसि॑ष्ठा र॒थ्या॑ र॒थीत॑मा ।  
+> पू॒र्णं रथं॑ वहेथे॒ मध्व॒ आचि॑तं॒ तेन॑ दा॒श्वांस॒मुप॑ याथो  
+> अश्विना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रतमा । हि । धिष्ण्या । मरुत्तमा । दस्रा । दंसिष्ठा । रथ्या । रथितमा ।  
+> पूर्णं । रथं । वहेथे इति । मध्वः । आचितं! तेन । दाश्वांसं । उप । याथः ।  
+> अश्विना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवामिंद्रतमा हीश्वरतमौ खलु । एवं प्रतिविशेषणं हिः
+> संबंध्यः । तथा धिष्ण्या स्तुत्यर्हौ मरुत्तमा मरुद्वद्वेगगामिनौ मितरागिणौ
+> मितराविणौ ना दस्रोपक्षपयितारौ शत्रूणां दंसिष्ठातिशयकर्माणौ रथ्या रथार्हौ
+> रथवंतौ रथितमा । रथिनो नेतारः । तेषां श्रेष्ठौ । रथीरध्वराणां । ऋ. ८-११-२ । इति
+> नेतृपरतया व्याख्यातत्वात् । ईदृशौ युवां मध्यो मधुसदृशस्योदकस्यामृतस्य
+> ना पूर्णं पूरितमाचितं सर्वतः संनद्धं रथं वहेथे । नयथः । तेनोक्तगुणविशिष्टेन रथेन हे अश्विनाश्विन् उक्तगुणविशिष्टौ संतावुप याथः । यज्ञमभिप्राप्णुथः॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you are indeed इंद्रतमा (*iṃdratamā*), the most lordly; the particle हि (*hi*) is to be connected with every epithet in the same way. You are धिष्ण्या (*dhiṣṇyā*), worthy of praise; मरुत्तमा (*maruttamā*), going swiftly like the Maruts, or of measured song, or of measured sound; दस्रा (*dasrā*), destroyers of enemies; दंसिष्ठा (*daṃsiṣṭhā*), doers of exceedingly great deeds; रथ्या (*rathyā*), worthy of the chariot, possessors of chariots; रथितमा (*rathitamā*): रथिनो नेतारः (*rathino netāraḥ*), the leaders, and of these the best, since रथीरध्वराणां (*rathīradhvarāṇāṃ*) (Ṛ. 8-11-2) is explained as meaning "leader". Such as you are, you convey a chariot full (पूर्णं (*pūrṇaṃ*)) of what is like honey, water or ambrosia, and आचितं (*ācitaṃ*), fitted out on all sides. With that chariot, possessed of the said qualities, O Aśvins, you approach the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvins
+- (you two) इंद्रतमा (*iṃdratamā*)—most splendid
+- धिष्ण्या (*dhiṣṇyā*)—worthy of praise
+- मरुत्तमा (*maruttamā*)—swifter than the Maruts (of measured song, or of measured sound)
+- दस्रा (*dasrā*)—destroyers of enemies
+- दंसिष्ठा (*daṃsiṣṭhā*)—doers of exceedingly great deeds
+
+### Printed p. 598
+- रथ्या (*rathyā*)—worthy of the chariot
+- (and) रथीतमा (*rathītamā*)—the best charioteers (leaders of charioteers)
+- हि (*hi*)—indeed
+- (such as you are) मध्वः (*madhvaḥ*)—honey-like (with water or ambrosia)
+- पूर्णं (*pūrṇaṃ*)—filled
+- (and) अचितं (*acitaṃ*)—fitted out in every way
+- रथं (*rathaṃ*)—the chariot
+- वहेथे (*vahethe*)—you bring
+- तेन (*tena*)—with such a chariot
+- (O) अश्विना (*aśvinā*)—Aśvins (possessed of the said qualities)
+- दाश्वांसं (*dāśvāṃsaṃ*)—the sacrificer who offers the oblation
+- उप याथः (*upa yāthaḥ*)—you approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you two are truly of great splendour, worthy of praise, swifter even than the wind, destroyers of enemies, doers of good deeds in a special degree, travellers in the chariot itself, and the best of charioteers. Mounting your chariot, filled with ambrosia and fitted out in every way, come to the one who performs the homa.
+
+##### English translation (H. H. Wilson)
+Dasras, in truth most imperial, adorable, swifter than the winds, and eminent in good works, riders in a car, and most distinguished charioteers, bring hither your car, full heaped up with ambrosia, and with it come, Ashwins, to the donor (of the offering).
+
+##### विशेषविषयगळु (Special Topics)
+
+Indratamā—Sāyaṇa explains this word as ईश्वरतमौखलु (*īśvaratamaukhalu*). The derivations of the word Indra and the meanings they carry were given earlier, quoting the Nirukta-author's sentences. Still, since this epithet is applied here to the Aśvins, it should be understood how some of the derivations given by the Nirukta-author describe their great qualities. (Ni. 10-8)
+
+इंद्र इरां नृणातीति वा । (*iṃdra irāṃ nṛṇātīti vā |*) From the root dṛ, which gives the meaning "divide": इरां अन्नं व्रीह्यादि दृणाति विदारयति । वर्षक्लेदितमंकुरं भीजं भिनत्ति । (*irāṃ annaṃ vrīhyādi dṛṇāti vidārayati | varṣakleditamaṃkuraṃ bhījaṃ bhinatti |*) The name Indra is well known because he divides the food, rice and the like; that is, he splits the seeds and sprouts soaked by rain and makes them into plants. And इरां ददातीति वा । (*irāṃ dadātīti vā |*) From the root dā, meaning "give": वर्षद्वारेणासौ इरां ददाति । (*varṣadvāreṇāsau irāṃ dadāti |*) He gives food by producing rain, hence the name. Examining the meanings of these two derivations, and asking whether they apply to the Aśvins,
+
+### Printed p. 599
+वृषा नां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन् । (*vṛṣā nāṃ megho vṛṣaṇā pīpāya gorna seke manuṣo daśasyan |*) (Ṛ. Saṃ. 1-181-8)
+
+from the descriptions in such Ṛks it is well known that the quality mentioned above is complete in them. In the same way:
+
+इंदवे द्रवतीति वा । (*iṃdave dravatīti vā |*) From the root dru, meaning "run": he who runs eagerly for the soma juice; hence the name. Thus,
+
+हंसाविव पतथो अध्वगाविव सोमं सुतं महिषेवान गच्छथः । सजोषसा उषसा सूर्येण च त्रिर्वर्तिर्यातमश्विना ॥ श्येनाविव पतथो हव्यदातये सोमं सुतं महिषेवान गच्छथः । सजोषसा उषसा सूर्येण च त्रिर्वर्तिर्यातमश्विना ॥ (*haṃsāviva patatho adhvagāviva somaṃ sutaṃ mahiṣevāna gacchathaḥ | sajoṣasā uṣasā sūryeṇa ca trirvartiryātamaśvinā ‖ śyenāviva patatho havyadātaye somaṃ sutaṃ mahiṣevāna gacchathaḥ | sajoṣasā uṣasā sūryeṇa ca trirvartiryātamaśvinā ‖*) (Ṛ. Saṃ. 8-35-8 to 9)
+
+In such Ṛks the description of the Aśvins hastening for soma-drinking like Indra agrees with the above derivation. For this reason too the epithet indratamā suits them. And:
+
+इंदौ रमत इति वा । (*iṃdau ramata iti vā |*) From the root ram, meaning "be glad": he who is satisfied by drinking the soma juice; hence the name. For this too the above example is the basis. Or:
+
+इंधे भूतानीति वा (*iṃdhe bhūtānīti vā*)—from the root indh, meaning "shine": the name Indra is well known as that of him who makes beings shine. By this derivation the epithet applies, since
+
+वि चेदुच्छंत्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरंते । ऊर्ध्वं भानुं सविता देवो अश्रेद्बृहदग्नयः समिधा जरंते ॥ (*vi ceducchaṃtyaśvinā uṣāsaḥ pra vāṃ brahmāṇi kāravo bharaṃte | ūrdhvaṃ bhānuṃ savitā devo aśredbṛhadagnayaḥ samidhā jaraṃte ‖*) (Ṛ. Saṃ. 7-22-4)
+
+In such Ṛks it is described that at the rising of the Aśvins darkness is destroyed and the light of the sun's rays comes to the world, and they are praised as illuminators of the world. Therefore this epithet is fitting for them.
+
+इदं करणादित्याग्रयणः (*idaṃ karaṇādityāgrayaṇaḥ*)—"in the creation of the world he made all this (इदमसौ सर्वमकरोत् (*idamasau sarvamakarot*))": one view is that the word Indra comes from this. Then, in the Special Topics on the Ṛk असर्जि वां स्थविरा वेधसा (*asarji vāṃ sthavirā vedhasā*) … **NOTE**
+
+### Printed p. 600
+(1-181-7), it was shown how the Aśvins are the cause of the creation of the world. That same greatness can be praised by this epithet.
+
+*iṃdateraiśvaryakarmaṇaḥ*—if the derivation is given that the name may also be because he is lord of the whole world: the Aśvins, in the forms of the sun and moon, of day and night, of heaven and earth the makers of the world, being pervaders of the world and presiding over all affairs, fit this meaning too when their greatness is praised. Thus, since all kinds of great qualities are in the Aśvins, the epithet indratamā is entirely fitting. Likewise,
+
+अभूदुषा इंद्रतमा मघोन्यजीजनत्सुविताय श्रवांसि । वि दिवो देवी दुहिता दधात्यंगिरस्तमा सुकृते वसूनि ॥ (*abhūduṣā iṃdratamā maghonyajījanatsuvitāya śravāṃsi | vi divo devī duhitā dadhātyaṃgirastamā sukṛte vasūni ‖*) (Ṛ. Saṃ. 7-29-3)
+
+Here Uṣas too has the epithet indratamā, and her greatness is described by it.
+
+Maruttamā—मरुद्वेगगामिन् मितरागिण् मितराविण् वा । (*marudvegagāmin mitarāgiṇ mitarāviṇ vā |*) Sāyaṇa explains that the epithet is because they go swiftly like the Maruts, or because they are of measured song, or because they have measured brilliance or sound. All these qualities are described in the Aśvins.
+
+Daṃsiṣṭhā—अतिशयकर्माण् । (*atiśayakarmāṇ |*) The word daṃsa is read among the names for deeds. The meaning is: those of exceeding deeds.
+
+The word rathītamā (रथिनः (*rathinaḥ*)) has been explained as नेतारः (*netāraḥ*). If the question arises how this meaning is possible for the word, then, as the support for it, the Ṛk
+
+त्वमसि प्रशस्यो विदथेषु सहंत्य । अग्ने रथीरध्वराणां । (*tvamasi praśasyo vidatheṣu sahaṃtya | agne rathīradhvarāṇāṃ |*) (Ṛ. Saṃ. 8-11-2)
+
+is quoted; as the word rathīḥ there means "leader", so in the present Ṛk too.
+
+Madhvaḥ—मधु सदृशस्य उदकस्य वा (*madhu sadṛśasya udakasya vā*) (the chariot filled): the chariot filled with water like honey, or with ambrosia; thus the distinction of the Aśvins' chariot is praised. Ordinarily epithets such as मधुमान् (*madhumān*) and मधुवाहनः (*madhuvāhanaḥ*) naturally belong to the Aśvins' chariot. Not only to their chariot: they themselves are also well known as bearers of honey.
+
 ---
 
-**Progress note:** Done through printed p. 594. pp. 589-594 (batch API)
+**Progress note:** Done through printed p. 600. pp. 595-600 (batch API)
