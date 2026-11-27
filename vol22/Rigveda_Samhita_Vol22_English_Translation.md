@@ -13446,6 +13446,247 @@ Adityas, may we be independent : Vasus, (dwelling) among the gods, may your prot
 
 > मि॒त्रस्तन्नो॒ वरु॑णो मामहंत॒ शर्म॑ तो॒काय॒ तन॑याय गो॒पाः ।
 
+### Printed p. 313
+
+> मा वो भुजेमान्यजातमेनो मा तत्कर्म वसवो यच्चयध्वे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । तत् । नः । वरुणः । ममहंत । शर्म । तोकाय । तनयाय । गोपाः ।  
+> मा । वः । भुजेम । अन्यजातं । एनः । मा । तत् । कर्म । वसवः । यत् ।  
+> चयध्वे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो वरुणोऽहर्निशाभिमानिनौ देवावेतदाद्याः सर्व आदित्या नोऽस्मभ्यं तत्प्रसिद्धं शर्म सुखं ममहंत । महतिर्दानकर्मा । ददतु । गोपा विश्वस्य रक्षकास्ते देवास्तोकायास्मदीयाय पुत्राय तनयाय तत्पुत्राय च शर्म प्रयच्छंतु । अथ प्रत्यक्षस्तुतिः । हे देवाः वो युष्मदीया वयमन्यजातमन्येनोत्पादितमेनः पापं मा भुजेम । मा भुक्तवंतः स्याम । हे वसवो वासका देवाः यद्येन युष्मदप्रियेण कर्मणा चयध्वे यूयमस्मान्नाशयत तत्तादृशं कर्म वयं मा कर्म । मा कार्ष्म ॥ लुङि करोतेरुत्तमस्य बहुवचनं । मंत्रे घसह्वरेत्यादिना च्लेर्लोपः ॥
+
+##### Gist of the bhāṣya
+
+Mitra and Varuna, the deities presiding over day and night, and all the Ādityas beginning with them, are to give us that well-known comfort (ममहंत (*mamahaṃta*); the root महति (*mahati*) has the sense of giving). Being the guardians of the whole world, those gods are to bestow comfort on our son and on his son. Then comes a direct address: O gods, may we, who are yours, not enjoy the sin produced by another. O Vasus, the sheltering gods, may we not do that deed, disagreeable to you, by which you destroy us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—and Varuna
+- नः (*naḥ*)—to us
+- तत् (*tat*)—the well-known
+- शर्म (*śarma*)—comfort
+- ममहंत (*mamahaṃta*)—may they give
+- गोपाः (*gopāḥ*)—the gods beginning with the Ādityas, protectors of the world
+- तोकाय (*tokāya*)—to our sons
+- तनयाय (*tanayāya*)—and to their sons, may they bring about that comfort
+- वः (*vaḥ*)—(O gods) we who belong to you
+- अन्यजातं (*anyajātaṃ*)—done by another
+- एनः (*enaḥ*)—the fruit of the sin
+- मा भुजेम (*mā bhujema*)—may we not come to enjoy
+- वसवः (*vasavaḥ*)—O gods called Vasus
+- यत् (*yat*)—by what sinful action
+- चयध्वे (*cayadhve*)—you may destroy us
+- तत् (*tat*)—such a sinful deed
+- मा कर्म (*mā karma*)—may we not do
+
+##### भावार्थ (Bhāvārtha)
+
+May Mitra and Varuna give us the world-famous comfort. May the gods beginning with the Ādityas, protectors of the world, give that comfort to our sons and their sons. O gods, may we, who belong to you, not have to enjoy the fruit of a sin committed by another. O gods called Vasus, may we not commit any sinful deed by which you might destroy us.
+
+### Printed p. 314
+
+##### English translation
+May Mitra and Varuna bestow upon us felicity : (may they) the guardians (of all men, bestow felicity) upon our sons and grandsons : let us not suffer (gods), for offences committed by another : let us not, Vasus, do any act by which you may be offended.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒र॒ण्यवोऽंगि॑रसो नक्षंत॒ रत्नं॑ दे॒वस्य॑ सवि॒तुरि॑या॒नाः ।  
+> पि॒ता च॒ तन्नो॑ म॒हान्यज॑त्रो॒ विश्वे॑ दे॒वाः सम॑नसो जुषंत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुरण्यवः । अंगिरसः । नक्षंत । रत्नं । देवस्य । सवितुः । इयानाः ।  
+> पिता । च । तत् । नः । महान् । यजत्रः । विश्वे । देवाः । समनसः । जुषंत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुरण्यवो यज्ञादिकर्मसु त्वरिता अंगिरस एतन्नामका ऋषय इयानाः सवितारं याचमानाः संतः सवितुः प्रेरकस्य देवस्य संबंधि रत्नं रमणीयं यद्धनं नक्षंत आश्नुवंते । उत्तरार्धगततच्छब्दापेक्षया यच्छब्दोऽत्राध्याह्रियते । यजत्रो यजनशीलो महान् प्रभूतः पिता च वसिष्ठस्य पितृभूतो वरुणश्च । यद्वा । सर्वेषां पिता प्रजापतिः । विश्वे सर्वे देवाः समनसः समानमनस्कास्तत्तादृशं रत्नं नोऽस्माञ्जुषंते । सेवयंतु । यद्वा । नोऽस्मभ्यं ददतु ॥
+
+##### Gist of the bhāṣya
+
+The Aṅgirases, a class of seers of that name who are quick in sacrificial acts, beg Savitṛ, the impelling god, and obtain the delightful wealth that belongs to him. The word यत् (*yat*) is supplied here, in view of the तत् (*tat*) of the second half. The adorable, great, abundant "father" is either Varuṇa, father of Vasiṣṭha, or, alternatively, Prajāpati, father of all. All the gods, of one mind, are to favour us with that wealth; or alternatively, they are to give it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुरण्यवः (*turaṇyavaḥ*)—devoted to sacrificial work
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirases
+- इयानाः (*iyānāḥ*)—begging Savitṛ
+- देवस्य (*devasya*)—divine
+- सवितुः (*savituḥ*)—from the god Savitṛ
+- रत्नं (*ratnaṃ*)—attractive wealth
+- नक्षंत (*nakṣaṃta*)—obtain
+- यजत्रः (*yajatraḥ*)—the venerable
+- महान् (*mahān*)—of great nature
+- पिता च (*pitā ca*)—and Prajāpati, father of the world (or Varuṇa, father of Vasiṣṭha)
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- समनसः (*samanasaḥ*)—being of one mind
+- तत् (*tat*)—by giving that well-known wealth
+- नः (*naḥ*)—us
+- जुषंत (*juṣaṃta*)—may they please
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, devoted to sacrificial work, beg Savitṛ and obtain attractive wealth from the divine Savitṛ. May the venerable, great Prajāpati, father of the world, and all the gods, of one mind, please us by giving the well-known wealth.
+
+### Printed p. 315
+
+##### English translation
+The Angirasas, prompt (in worship), soliciting him, obtain precious (wealth) from Savitri : may the mighty adorable parent, and the universal god, alike favourably minded, approve (of the donation).
+
+## Sūkta 53 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र द्यावा यज्ञैरिति तृचात्मकं विंशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं द्यावापृथिव्यं । अनुक्रम्यते च । प्र द्यावा द्यावापृथिव्यमिति ॥ चतुर्थेऽहनि वैश्वदेवशस्त्रे इदं द्यावापृथिव्यनिविद्धानं । सूत्रितं च । आ देवो यातु प्र द्यावेति वासिष्ठं । आ. ८-८ । इति ॥ द्यावापृथिव्ये पशौ वपापुरोडाशयोः प्र द्यावेति द्वे ऋचौ याज्ये । सूत्रितं च । प्र द्यावा यज्ञैः पृथिवी नमोभिरिति द्वे । आ. ३-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र द्यावा यज्ञैः (*pra dyāvā yajñaiḥ*) consists of three ṛks; it is the twentieth sūkta; seer Vasiṣṭha, metre Triṣṭubh, deity Dyāvāpṛthivī; the Anukramaṇī says प्र द्यावा द्यावापृथिव्यं (*pra dyāvā dyāvāpṛthivyaṃ*). On the fourth day, in the Vaiśvadeva śastra, it serves as the Dyāvāpṛthivī nivid-dhāna; the sūtra is आ देवो यातु प्र द्यावेति वासिष्ठं (*ā devo yātu pra dyāveti vāsiṣṭhaṃ*) (Ā. 8-8). In the animal offering to Dyāvāpṛthivī, the two ṛks प्र द्यावा (*pra dyāvā*) are the yājyās of the vapā and the puroḍāśa; the sūtra is प्र द्यावा यज्ञैः पृथिवी नमोभिरिति द्वे (*pra dyāvā yajñaiḥ pṛthivī namobhiriti dve*) (Ā. 3-8).
+
+##### Anuvāda
+
+This sūkta beginning प्र द्यावा यज्ञैः (*pra dyāvā yajñaiḥ*) is the twentieth sūkta in the third anuvāka, with three ṛks. Its seer is Vasiṣṭha; the deity is Dyāvāpṛthivī; the metre is Triṣṭubh. The Anukramaṇī says: प्र द्यावा द्यावापृथिव्यं (*pra dyāvā dyāvāpṛthivyaṃ*). On the fourth day of the sacrifice, when the Vaiśvadeva śastra mantras are recited, this sūkta is to be recited as a nivid-dhāna sūkta addressed to Dyāvāpṛthivī, as explained by the Āśvalāyana Śrauta Sūtra आ देवो यातु प्र द्यावेति वासिष्ठं (*ā devo yātu pra dyāveti vāsiṣṭhaṃ*) (Ā. 8-8). In the animal sacrifice offered to Dyāvāpṛthivī, the first two ṛks of this sūkta are to be recited as yājyā mantras in the vapā and puroḍāśa offerings respectively, as explained by the Āśvalāyana Śrauta Sūtra प्र द्यावा यज्ञैः पृथिवी नमोभिरिति द्वे (*pra dyāvā yajñaiḥ pṛthivī namobhiriti dve*) (Ā. 3-8).
+
+##### Particulars
+
+- Sūkta 53
+- Maṇḍala 7; Anuvāka 3; Sūkta 53
+- Aṣṭaka 5; Adhyāya 4; Varga 17
+- Number of ṛks in the sūkta: 3
+- Ṛṣi: Vasiṣṭha
+- Devatā: Dyāvāpṛthivī (dual)
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र द्यावा॑ य॒ज्ञैः पृ॑थि॒वी नमो॑भिः स॒ुबाध॑ ईळे बृह॒ती यज॑त्रे ।
+
+### Printed p. 316
+
+> ते चिद्धि पूर्वे कवयो गृणंतः पुरो मही दधिरे देवपुत्रे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । द्यावा । यज्ञैः । पृथिवी इति । नमःऽभिः । सऽबाधः । ईळे । बृहती इति । यजत्रे इति ।  
+> ते इति । चित् । हि । पूर्वे । कवयः । गृणंतः । पुरः । मही इति । दधिरे । देवपुत्रे इति देवपुत्रे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजत्रे यजनीये बृहती बृहत्यौ महत्यौ द्यावापृथिवी द्यावापृथिव्यौ यज्ञैर्गीर्भिर्नमोभिः स्तोत्रैश्चाहं स्तोता सबाधो बाधासहितः । ऋत्विजां संबाधयुक्त इत्यर्थः । प्रेळे । प्रकर्षेण स्तौमि । मही महत्यौ देवपुत्रे । देवाः पुत्राः ययोस्ते । ते चिद्धि तादृश्यौ खल्वपि द्यावापृथिव्यौ पूर्वे पुरातनाः कवयो गृणंतः स्तुवंतः पुरो दधिरे । पुरस्तात्स्थापयामासुः ॥
+
+##### Gist of the bhāṣya
+
+The adorable, great Heaven and Earth, whose sons are the gods, are praised by me, the praiser, with sacrifices (यज्ञैः (*yajñaiḥ*), hymns) and with praises (नमोभिः (*namobhiḥ*), laudations), accompanied by difficulty (सबाधः (*sabādhaḥ*)), that is, pressed by the priests' crowding. I praise them intensely. Those very two, Heaven and Earth, the ancient seers, praising them, placed in front.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्रे (*yajatre*)—worthy of worship
+- बृहती (*bṛhatī*)—of great nature
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- यज्ञैः (*yajñaiḥ*)—with sacrifices
+- नमोभिः (*namobhiḥ*)—with obeisance
+- सबाधः (*sabādhaḥ*)—accompanied by the priests
+- प्र ईळे (*pra īḷe*)—I praise and worship
+- मही (*mahī*)—of great nature
+- देवपुत्रे (*devaputre*)—who have the gods as sons
+- ते चिद्धि (*te ciddhi*)—those very Heaven and Earth
+- पूर्वे (*pūrve*)—ancient
+- कवयः (*kavayaḥ*)—seers
+- गृणंतः (*gṛṇaṃtaḥ*)—praising
+- पुरः दधिरे (*puraḥ dadhire*)—placed in front in the sacrificial portion
+
+##### भावार्थ (Bhāvārtha)
+
+I praise and worship, with sacrifices, with obeisance, and accompanied by priests, Heaven and Earth, who are worthy of worship and of great nature. The ancient seers praised those very Heaven and Earth, of great nature and having the gods for sons, and placed them in front in the sacrificial portion.
+
+##### English translation
+Attended by a concourse (of priests), I worship the adorable and mighty Heaven and Earth with sacrifices and praises, those two great ones
+
+### Printed p. 317
+of whom the gods are the sons, whom ancient sages glorifying have formerly detained.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र पू॑र्व॒जे पि॒तरा॒ नव्य॑सीभिर्गी॒र्भिः कृ॑णुध्वं॒ सद॑ने ऋ॒तस्य॑ ।  
+> आ नो॑ द्यावापृथिवी॒ दैव्ये॑न॒ जने॑न यातं॒ महि॑ वां॒ वरू॑थं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । पूर्वजे इति पूर्वऽजे । पितरा । नव्यसीभिः । गीऽभिः । कृणुध्वं । सदने इति । ऋतस्य ।  
+> आ । नः । द्यावापृथिवी इति । दैव्येन । जनेन । यातं । महि । वां । वरूथं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आग्रयणे द्यावापृथिव्यैककपालस्य प्र पूर्वजे इति याज्या । सूक्तं च । मही द्यौः पृथिवी च नः प्र पूर्वजे पितरा नव्यसीभिः । आ. २-९ । इति ॥
+> हे अस्मदीयाः स्तोतारः यूयं नव्यसीभिर्नवतराभिर्गीर्भिः स्तुतिरूपाभिर्वाग्भिर्ऋतस्य यज्ञस्य सदने स्थानभूते पूर्वजे पूर्वं प्रजाते पितरा पितरौ विश्वस्य मातापितृभूते द्यावापृथिव्यौ प्र कृणुध्वं । पुरस्कुरुत । अथ प्रत्यक्षस्तुतिः । हे द्यावापृथिवी द्यावापृथिव्यौ युवां दैव्येन देवसंबंधिना जनेन सह नोस्मानभ्या यातं । आगच्छतं । किमर्थमायातमिति उच्यते । वां युवयोर्वरूथं मस्माभिर्वरणीयं महि महत् । यद्धनमस्तीति शेषः । तद्धनमस्मभ्यं दीयतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Āgrayaṇa, the ṛk प्र पूर्वजे (*pra pūrvaje*) is the yājyā for the single-potsherd offering to Dyāvāpṛthivī; the sūtra is मही द्यौः पृथिवी च नः प्र पूर्वजे पितरा नव्यसीभिः (*mahī dyauḥ pṛthivī ca naḥ pra pūrvaje pitarā navyasībhiḥ*) (Ā. 2-9). Sāyaṇa addresses our praisers: with newer songs, in the form of praises, set in front Heaven and Earth, born first, parents of the whole world, who are the seat of the sacrifice (ऋतस्य (*ṛtasya*)). Then a direct address: O Heaven and Earth, come to us with the divine people. Why come? Your great (महि (*mahi*)) वरूथं (*varūthaṃ*), to be chosen by us, is wealth that exists (the verb is supplied); let that wealth be given to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) नव्यसीभिः (*navyasībhiḥ*)—newly composed
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- सदने (*sadane*)—who are the support
+- पूर्वजे (*pūrvaje*)—first born
+- पितरा (*pitarā*)—Heaven and Earth, parents of the whole world
+- प्र कृणुध्वं (*pra kṛṇudhvaṃ*)—honour first and worship
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth
+- दैव्येन (*daivyena*)—related to the gods
+- जनेन (*janena*)—with the host of people
+- नः (*naḥ*)—to us
+- आ यातं (*ā yātaṃ*)—come
+- वां (*vāṃ*)—which belongs to you
+- वरूथं (*varūthaṃ*)—desired by us
+- महि (*mahi*)—abundant wealth, give it to us
+
+### Printed p. 318
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, with newly composed praises honour first and worship Heaven and Earth, support of the sacrifice, first born, parents of the whole world. O Heaven and Earth, come to our sacrifice with the divine people, to give us abundantly the wealth that we desire and that fills you.
+
+##### English translation
+Place before (us) in the hall of sacrifice, with new songs, the ancient parents (of all beings) : come to us, Heaven and Earth, with the celestial people, for vast is your protecting (wealth).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Āgrayaṇeṣṭi, in the single-potsherd offering made to the deities Dyāvāpṛthivī, this ṛk प्र पूर्वजे (*pra pūrvaje*) is to be recited as the yājyā mantra, as explained by the Āśvalāyana Śrauta Sūtra मही द्यौः पृथिवी च नः प्र पूर्वजे पितरा नव्यसीभिः (*mahī dyauḥ pṛthivī ca naḥ pra pūrvaje pitarā navyasībhiḥ*) (Ā. 2-9).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो हि वां॑ रत्न॒धेया॑नि॒ संति॑ पु॒रूणि॑ द्यावापृथिवी सु॒दासे॑ ।  
+> अ॒स्मे ध॑त्तं॒ यदस॒दस्कृ॑धोयु यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । हि । वां । रत्नऽधेयानि । संति । पुरूणि । द्यावापृथिवी इति । सुदासे ।  
+> अस्मे इति । धत्तं । यत् । असत् । अस्कृधोयु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतोपि च खलु हे द्यावापृथिवी द्यावापृथिव्यौ वां युवयोः सुदासे शोभनहविर्दानाय यजमानाय देयानि पुरूणि बहूनि रत्नधेयानि रमणीयानि धनानि संति । भवंति । तेषां मध्ये यद्धनमस्कृधोयु । कृधुको ह्रस्वः । अह्रस्वमनल्पमसत् भवेत् तद्धनमस्मे अस्मभ्यं धत्तं । प्रयच्छतं । हे द्यावापृथिव्यौ यूयं युवां नोस्मान् सर्वदा कल्याणैः पात । पालयत ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth, there are for the generous giver of oblations many delightful treasures (रत्नधेयानि (*ratnadheyāni*)) that are yours to give. Among them, the wealth that is अस्कृधोयु (*askṛdhoyu*) (कृधुको ह्रस्वः (*kṛdhuko hrasvaḥ*), short), that is, not small, be that wealth, grant it to us. O Heaven and Earth, protect us always with blessings.
+
 ---
 
-**Progress note:** Done through printed p. 312. pp. 307-312 (batch API)
+**Progress note:** Done through printed p. 318. pp. 313-318 (batch API)
