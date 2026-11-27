@@ -15545,6 +15545,267 @@ May Indra, Varuṇa, Mitra, Agni, the water deities, the plants and the trees ac
 ##### English translation
 May Indra, Varuna, Mitra, Agni, the waters, the plants, the trees, be pleased with us : may we recline in happiness upon the lap of the Maruts : and do you ever cherish us with blessings.
 
+### Printed p. 367
+## Sūkta 57 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मध्वो व इति सप्तर्चं द्वितीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं मरुद्देव-ताकं । मध्वः सप्तेत्यनुक्रांतं ॥ दशरात्रे षष्ठेऽहन्याग्निमारुत इदं मारुतनिवि-द्धानं । सूत्रितं च । मध्वो वो नाम स प्रत्नेत्याग्निमारुतं । आ. ८-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the second sūkta, of seven Ṛks, beginning मध्वो वः (*madhvo vaḥ*). Its seer is Vasiṣṭha, its deity the Maruts, its metre Triṣṭubh; the Anukramaṇī says मध्वः सप्त (*madhvaḥ sapta*). On the sixth day of the Daśarātra it is used as the nivid-dhāna (inserted hymn) in the Āgnimāruta Śastra. The sūtra says: मध्वो वो नाम स प्रत्नेत्याग्निमारुतं । आ. ८-८ । (*madhvo vo nāma sa pratnetyāgnimārutaṃ | ā. 8-8 |*) (Ā. Sū. 8-8).
+
+##### Anuvāda
+
+This sūkta beginning "मध्वो वः (*madhvo vaḥ*)" is the second sūkta in the fourth anuvāka. It has seven Ṛks. Vasiṣṭha is its seer; the Maruts are the deity; the metre is Triṣṭubh. In the Anukramaṇī it is described as "मध्वः सप्त (*madhvaḥ sapta*)". When the Āgnimāruta Śastras are recited on the sixth day of the sacrifice called Daśarātra, this sūkta is to be inserted and recited as the nivid-dhāna sūkta; the Āśvalāyana Śrauta Sūtra explains this by the sūtra "मध्वो वो नाम स प्रत्नेत्याग्निमारुतं (*madhvo vo nāma sa pratnetyāgnimārutaṃ*)" (Ā. 8-8).
+
+Sūkta—57
+Maṇḍala—7; Anuvāka—4; Sūkta—57
+Aṣṭaka—5; Adhyāya—4; Varga—27
+Ṛks in the sūkta—7
+Seer: Vasiṣṭha
+Deity: the Maruts
+Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मध्वो॑ वो॒ नाम॒ मारु॑तं यजत्राः॒ प्र य॒ज्ञेषु॒ शव॑सा मदंति ।  
+> ये रे॒जयं॑ति॒ रोद॑सी चिदु॒र्वी पिन्वं॒त्युत्सं॒ यदया॑सुरु॒ग्राः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मध्वः । वः । नाम । मारुतं । यजत्राः । प्र । यज्ञेषु । शवसा । मदंति ।  
+> ये । रेजयंति । रोदसी इति । चित् । उर्वी इति । पिन्वंति । उत्सं । यत् । आयासुः । उग्राः ॥ १ ॥
+
+### Printed p. 368
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजत्रा यजनीया मरुतः वो युष्मदीयं मारुतं मरुत्संबंधि नाम नामधेयं मध्वो मधवो मादयितारः स्तोतारो यज्ञेषु यागेषु शवसा बलेन प्र मदंति । प्रकर्षेण स्तुवंति । उच्चैः स्तुवंतीत्यर्थः । ये मरुत उर्वी विस्तीर्णे रोदसी चिद्द्यावापृथिव्यावपि रेजयंति कंपयंति किंचोत्सं मेघं पिन्वंति वर्षयंति उग्रा उद्गूर्णा यद्ये मरुतोऽयासुः यांति सर्वत्र गच्छंति । तेषां मरुतां युष्माकं नाम प्र मदंतीति पूर्वेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O adorable Maruts, the worshippers, who delight you, celebrate at sacrifices with strength your Marut-name, that is, they praise it loudly. They are those Maruts who make the spacious heaven and earth tremble, make the cloud rain, and, being fierce, go everywhere. The words "of you Maruts" are construed with "they celebrate your name" of the first part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—O revered Maruts
+- ये (*ye*)—you who
+- उर्वी (*urvī*)—vast
+- रोदसी चित् (*rodasī cit*)—heaven and earth as well
+- रेजयंति (*rejayaṃti*)—cause to tremble
+- यत् (*yat*)—you who
+- उग्राः (*ugrāḥ*)—being of exceeding strength
+- आयासुः (*āyāsuḥ*)—roam everywhere
+- वः (*vaḥ*)—your
+- मारुतं (*mārutaṃ*)—relating to the Maruts
+- नाम (*nāma*)—name
+- मध्वः (*madhvaḥ*)—worshippers who give you delight
+- यज्ञेषु (*yajñeṣu*)—at sacrifices
+- शवसा (*śavasā*)—with strength
+- प्र मदंति (*pra madaṃti*)—praise so as to give delight
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful Maruts, you who make the vast heaven and earth tremble and make the cloud cause rain, you who being of exceeding strength roam everywhere: that Marut-name of yours the worshippers, who give you delight, praise at the sacrifices with strength, so as to give delight.
+
+##### English translation
+Adorable (Maruts), the worshippers vigorously celebrate at sacrifices your appellation of company of the Maruts, they who cause the spacious heaven and earth to tremble, the clouds to rain, and move everywhere terrible.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒चे॒तारो॒ हि म॒रुतो॑ गृ॒णंतं॑ प्रणे॒तारो॒ यज॑मानस्य॒ मन्म॑ ।  
+> अ॒स्माक॑म॒द्य वि॒दथे॑षु ब॒र्हिरा वी॒तये॑ सदत पिप्रिया॒णाः ॥ २ ॥
+
+### Printed p. 369
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निचेतारः । हि । मरुतः । गृणंतं । प्रनेतारः । यजमानस्य । मन्म ।  
+> अस्माकं । अद्य । विदथेषु । बर्हिः । आ । वीतये । सदत । पिप्रियाणाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो गृणंतं स्तुवंतं जनं निचेतारो हि मृगयमाणा भवंति खलु अपि च यजमानस्य मन्माभिमतं कामं प्रणेतारश्च भवंति । अपरोर्धर्चः प्रतीककृतः । हे मरुतः यूयं पिप्रियाणाः प्रीयमाणाः संतोऽद्यास्मिन्दिवसेऽस्माकं विदथेषु यज्ञेषु वीतये सोमस्य भक्षणाय बर्हिर्बर्हिषि कुशमये आ सदत । आसीदत । उपविशत ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are seekers of the person who praises them, and leaders to fulfilment of the sacrificer's desired wish (मन्म (*manma*)). The second half-verse is a pratīka. O Maruts, being pleased, sit today at our sacrifices (विदथेषु (*vidatheṣu*)) upon the kuśa grass, for partaking (वीतये (*vītaye*)) of the soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—the Maruts
+- गृणंतं (*gṛṇaṃtaṃ*)—the person who praises
+- निचेतारो हि (*nicetāro hi*)—go seeking
+- यजमानस्य (*yajamānasya*)—of the sacrificer
+- मन्म (*manma*)—the desired object
+- प्रणेतारः (*praṇetāraḥ*)—fulfil
+- (O Maruts) पिप्रियाणाः (*pipriyāṇāḥ*)—you who are pleased
+- अद्य (*adya*)—on this day of the sacrifice
+- अस्माकं (*asmākaṃ*)—our
+- विदथेषु (*vidatheṣu*)—at sacrifices
+- वीतये (*vītaye*)—for drinking soma
+- बर्हिः (*barhiḥ*)—upon the seat of darbha grass
+- आ सदत (*ā sadata*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts go seeking their praisers and fulfil the sacrificer's desired wish. O Maruts, showing your affection, sit on this day of the sacrifice, at our sacrifices, upon the seat of darbha grass, for drinking soma.
+
+##### English translation
+The Maruts verily are the benefactors of him who praises them, the gratifiers of the wishes of the institutor of the solemnity : do you, being pleased, sit down to-day upon the grass at our ceremony, to partake (of the sacrificial food).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नैताव॑द॒न्ये म॒रुतो॒ यथे॒मे भ्राजं॑ते रु॒क्मैरायु॑धैस्त॒नूभिः॑ ।  
+> आ रोद॑सी विश्व॒पिशः॑ पिशा॒नाः स॑मा॒नमं॒ज्यं॑जते शु॒भे कं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 370
+
+> न । एतावत् । अन्ये । मरुतः । यथा । इमे । भ्राजंते । रुक्मैः । आयुधैः ।  
+> तनूभिः ।  
+> आ । रोदसी इति । विश्वपिशः । पिशानाः । समानं । अंजि । अंजते । शुभे । कं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे ईदृशा मरुतो यथा यत्परिमाणं धनादिकं ददति अन्ये मरुद्व्यतिरिक्ता देवा एतावद्धनादिकं न दद्युरित्यर्थः । ते च रुक्मै रोचिमानैराभरणैरायुधैः स्वकीयैस्तनूभिरात्मीयैः केवलैरंगैश्च भ्राजंते । सर्वदा भासंते । कश्चिदतिशयवाक्यतामाह । यथेमे मरुतो रुक्मादिभिर्भ्राजंते नैतावदन्ये देवा व्यतिरिक्ता भ्राजंते इति । अपि च रोदसी द्यावापृथिव्यौ पिशानाः प्रकाशयंतो विश्वपिशो व्याप्तदीप्तय एवंभूता मरुतः शुभे शोभायै समानं सदृशरूपमंज्याभरणमांजते । स्वकीयावयवेष्वभिव्यक्तीकुर्वंति । कमिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+These Maruts give wealth and the like in such measure that other gods, apart from the Maruts, would not give so much. They shine always with radiant ornaments, their weapons, and their own bodies, that is, with their bare limbs. Someone expresses the superlative: as these Maruts shine with gold ornaments and the rest, other gods do not shine so. Further, the Maruts, lighting up heaven and earth (रोदसी (*rodasī*)), with far-spread splendour (विश्वपिशः (*viśvapiśaḥ*)), put on for beauty (शुभे (*śubhe*)) a common, similar ornament, displaying it on their own limbs. कं (*kaṃ*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमे मरुतः (*ime marutaḥ*)—these Maruts
+- यथा (*yathā*)—in the measure in which they give wealth and the like
+- एतावत् (*etāvat*)—in that same measure
+- अन्ये (*anye*)—other gods
+- न (*na*)—do not give
+- (they)
+- रुक्मैः (*rukmaiḥ*)—golden-hued
+- आयुधैः (*āyudhaiḥ*)—furnished with weapons
+- तनूभिः (*tanūbhiḥ*)—with bodies
+- भ्राजंते (*bhrājaṃte*)—shine
+- रोदसी (*rodasī*)—heaven and earth
+- पिशानाः (*piśānāḥ*)—making them shine
+- विश्वपिशः (*viśvapiśaḥ*)—the Maruts, whose lustre is spread everywhere
+- शुभे (*śubhe*)—for the adornment of their bodies
+- समानं (*samānaṃ*)—of one form
+- अंजि (*aṃji*)—ornament
+- आ अंजते (*ā aṃjate*)—wear
+
+##### भावार्थ (Bhāvārtha)
+
+In the measure in which the Maruts give wealth and the like to sacrificers, other gods do not give. They shine with bodies that are golden-hued and furnished with weapons. And the Maruts, making heaven and earth shine and having lustre spread everywhere, wear for the adornment of their bodies an ornament of one form.
+
+##### English translation
+No other (deities give) such (good things) as the Maruts, as they shine with brilliant (ornaments), weapons, and persons : illumining heaven and earth, wide radiating, they heighten their common lustre for (our) good,
+
+#### Ṛk 4
+### Printed p. 371
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋध॒क्सा वो॑ मरुतो दि॒द्युद॑स्तु॒ यद्व॒ आगः॑ पुरु॒षता॒ करा॑म ।  
+> मा व॒स्तस्या॒मपि॑ भूमा यजत्रा अ॒स्मे वो॑ अस्तु सुम॒तिश्चनि॑ष्ठा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋधक् । सा । वः । मरुतः । दिद्युत् । अस्तु । यत् । वः । आगः । पुरुषता । कराम ।  
+> मा । वः । तस्यां । अपि । भूम । यजत्राः । अस्मे इति । वः । अस्तु । सुमतिः ।  
+> चनिष्ठा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्मदीया सा प्रसिद्धा दिद्युद्धेतिरृधगस्तु । अस्मत्तः पृथग्भवतु । यद्यदपि वयं वो युष्माकमागोऽपराधं पुरुषता पुरुषतया मनुष्यत्वेन कराम करवाम । मनुष्याणां हि प्रमादः सुलभ इत्यर्थः । हे यजत्रा यजनीया मरुतः वो युष्मदीयायां तस्यां दिद्युत्यपीषदसि मा भूम । चनिष्ठा अन्नवत्तमा । अतिशयेनान्नप्रदेत्यर्थः । वो युष्मदीया सुमतिरनुग्रहबुद्धिरस्मे अस्मास्वस्तु ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, may that well-known दिद्युत् (*didyut*), your missile, be apart (ऋधक् (*ṛdhak*)) from us, even if through human frailty (पुरुषता (*puruṣatā*)) we commit an offence against you; for error is easy for men. O adorable Maruts, may we not come into that missile of yours (as its victim). चनिष्ठा (*caniṣṭhā*) means richest in food, that is, bestowing food in abundance: may your favouring mind (सुमति (*sumati*)) be upon us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—belonging to you
+- सा (*sā*)—and well-known
+- दिद्युत् (*didyut*)—weapon
+- ऋधक् अस्तु (*ṛdhak astu*)—be far from us
+- यजत्राः (*yajatrāḥ*)—O Maruts, worthy of sacrifice
+- यत् (*yat*)—if perchance
+- वः (*vaḥ*)—in regard to you
+- आगः (*āgaḥ*)—sin
+- पुरुषता (*puruṣatā*)—through human nature
+- कराम (*karāma*)—we have committed
+- वः (*vaḥ*)—your
+- तस्यां (*tasyāṃ*)—to the weapon
+- अपि (*api*)—even slightly
+- मा भूम (*mā bhūma*)—do not make us subject
+- चनिष्ठा (*caniṣṭhā*)—abounding in food
+- वः (*vaḥ*)—your
+- सुमतिः (*sumatiḥ*)—favouring mind
+- अस्मे (*asme*)—upon us
+- अस्तु (*astu*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may that well-known weapon of yours be far from us. O Maruts, worthy of sacrifice, if through human nature we have committed sin in regard to you, do not make us subject to your weapon even slightly. May your favouring mind, rich in food, be upon us.
+
+### Printed p. 372
+
+##### English translation
+May that blazing (weapon) of yours, Maruts, be far from us, although, through human infirmities, we offer you offence : let us not adorable Marute be exposed to your (shaft) : may your favour, the source of abundance, ever be shown unto us.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ते चि॒दत्र॑ म॒रुतो॑ रणंतानव॒द्यासः॒ शुच॑यः पाव॒काः ।  
+> प्र नो॑ऽवत सुम॒तिभि॑र्यजत्राः॒ प्र वाजे॑भिस्तिरत पु॒ष्यसे॑ नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृते । चित् । अत्र । मरुतः । रणंत । अनवद्यासः । शुचयः । पावकाः ।  
+> प्र । नः । अवत । सुमतिभिः । यजत्राः । प्र । वाजेभिः । तिरत । पुष्यसे । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्कृते चिदस्मदीये यज्ञकर्मण्येव मरुतो रणंत । रमंतां । ईदृशा मरुतः । अनवद्यासोऽनिंदिताः शुचयो दीप्तियुक्ताः पावकाः शोधका एवंभूता इति । किंच हे मरुतो यजत्रा यजनीयाः यूयं नोऽस्मान् सुमतिभिरनुग्रहबुद्धिभिः सुष्टुतिभिर्वा प्रावत । प्रकर्षेण पालयत । तथा नोऽस्मान् वाजेभिर्वाजैरन्नैः पुष्यसे पोषार्थं प्र तिरत । प्रवर्धयत ॥
+
+##### Gist of the bhāṣya
+
+May the Maruts delight (रणंत (*raṇaṃta*)) in this sacrificial rite of ours alone. Such are the Maruts: blameless, bright, purifying. Further, O adorable Maruts, protect us with favouring minds or with good praises (सुमतिभिः (*sumatibhiḥ*)), protect us excellently; and make us grow with food (वाजेभिः (*vājebhiḥ*)) for nourishment (पुष्यसे (*puṣyase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनवद्यासः (*anavadyāsaḥ*)—faultless
+- शुचयः (*śucayaḥ*)—radiant
+- पावकाः (*pāvakāḥ*)—purifying
+- मरुतः (*marutaḥ*)—the Maruts
+- अत्र कृते चित् (*atra kṛte cit*)—in this sacrifice of ours alone
+- रणंत (*raṇaṃta*)—let them find delight
+- (O Maruts)
+- यजत्राः (*yajatrāḥ*)—you, revered ones
+- नः (*naḥ*)—us
+- सुमतिभिः (*sumatibhiḥ*)—with favouring minds
+- प्र अवत (*pra avata*)—protect exceedingly
+- नः (*naḥ*)—us
+- वाजेभिः (*vājebhiḥ*)—with foods
+- पुष्यसे (*puṣyase*)—for a well-nourished life
+- प्र तिरत (*pra tirata*)—make to grow
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, faultless, radiant and purifying, find delight in this sacrifice of ours alone. O Maruts, revered ones, protect us with favouring minds. Make us grow with foods for a well-nourished life.
+
 ---
 
-**Progress note:** Done through printed p. 366. pp. 361-366 (batch API)
+**Progress note:** Done through printed p. 372. pp. 367-372 (batch API)
