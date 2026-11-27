@@ -11637,6 +11637,143 @@ Just as in such Ṛks it gives the sense "burn", so in the present Ṛk too, sin
 > इमं । नु । सोमं । अंतितः । हृत्सु । पीतं । उप । ब्रुवे ।  
 > यत् । सीं । आगः । चकृम । तत् । सु । मृळतु । पुलुकामः । हि । मर्त्यः ॥ ५ ॥
 
+### Printed p. 487
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथानयोर्दंपत्योः संभोगसंलापं श्रुत्वा तत्पायश्चित्तं चिकीर्षुरुत्तराभ्यामाह । अनयोर्विनियोगः शौनकेनोक्तेः । इमं नु सोममित्येते
+> द्वे ऋचौ प्रयतो जपन् । सर्वान्कामानवाप्नोति पापेभ्यश्च प्रमुच्यते ।
+> ऋग्वि. १-२६. ॥ इति ॥
+> उपेत्य मनसा प्राप्य पार्थयते । किं ब्रवीति उच्यते । यदागो गुर्वोः
+> कामप्रलापश्रवणविषयं पापं चक्रम कृतवंतो वयं तत्तस्मादागसः स सोमः
+> सु सम्यग्मृळतु । सुखयतु । पापजनितदुःखं मा करोत्वित्यर्थः । महत्पापमनुभुज्यमानं प्रार्थनया कथं लुप्यत इति अत आह । हि यस्मान्मर्त्यो मनुष्यः
+> पुलुकामो बहुकामनावान् । अल्वेनैव कर्मणा बहुकामानाकालयति । यस्मादेवं तस्मात्परिहरेत्यर्थः । यद्वा । अयमपवर्जनीयतयॊ प्राप्यत इवेत्याह ।
+> पुलुकामो हि खलु मर्त्यः कामहतः सन् कामेन निरुद्ध एव वर्तते । आतस्तयोरुत्सेकोऽयुक्तः । तच्छब्दश्रवणदोषोऽपि प्रावादिकोऽस्माकं प्राप्तेन सोमेन
+> परिहर्तव्य इत्यर्थः । यद्वा । आयं मंत्रश्चंद्रपरो व्याख्येयो मनसोऽभिमानित्वाच्च तस्य पापस्यापि मनस्येव संभावितत्वात् । अस्मिन्नक्षे हृत्तु पीतं हृदयस्थितमित्यर्थः । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+Having heard the amorous talk of this couple, and wishing to make atonement for it, the pupil speaks the next two verses. Their use is given by Śaunaka: इमं नु सोममित्येते द्वे ऋचौ प्रयतो जपन् । सर्वान्कामानवाप्नोति पापेभ्यश्च प्रमुच्यते । (*imaṃ nu somamityete dve ṛcau prayato japan | sarvānkāmānavāpnoti pāpebhyaśca pramucyate |*) (Ṛgvidhāna 1-26): one who mutters these two verses, self-controlled, obtains all desires and is freed from sins. उप (*upa*) means approaching in mind and attaining; he entreats. What does he say? The sin (आगः (*āgaḥ*)) we have committed, in having listened to the amorous talk of the two teachers: from that sin may Soma gladden us well (सु मृळतु (*su mṛḷatu*)), that is, may he not cause us the suffering born of sin. Since a great sin that is being experienced cannot be removed by prayer alone, he adds: हि (*hi*), because man is पुलुकामः (*pulukāmaḥ*), full of many desires; by a small act he sets many desires in motion. Since this is so, he should therefore be forgiven. Or else: the sin is felt as though it were to be got rid of; man, struck by desire, remains confined by desire; hence the upsurge of the two (teachers' desire) is not improper, and the fault of hearing their words, also a matter of common talk, is to be removed for us by the Soma that has been obtained. Or else: this mantra is to be explained as addressed to the moon, since the moon presides over the mind and the sin too is conceived in the mind; हृत्सु पीतं (*hṛtsu pītaṃ*) then means "abiding in the heart". The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—for which reason
+- मर्त्यः (*martyaḥ*)—man
+- पुलुकामः (*pulukāmaḥ*)—one who desires much gain (from little action)
+- तत् (*tat*)—therefore
+- यत् सीं (*yat sīṃ*)—which, this (sin consisting in hearing the amorous talk of the teacher's wife)
+- आगः (*āgaḥ*)—sin
+- चक्रम (*cakrama*)—we have committed
+- तत् (*tat*)—that sin
+- सु मृळतु (*su mṛḷatu*)—may he make well and pleasant (may he prevent the fault born of sin), thus
+- नु (*nu*)—now
+- हृत्सु पीतं (*hṛtsu pītaṃ*)—drunk with the heart (drunk by the mind)
+- इमं सोमं (*imaṃ somaṃ*)—this Soma juice
+- अंतितः (*aṃtitaḥ*)—from near
+- उप ब्रुवे (*upa bruve*)—I pray
+- Alternatively: हृत्सु पीतं (*hṛtsu pītaṃ*)—dwelling in the heart (presiding over the mind); इमं सोमं (*imaṃ somaṃ*)—this moon; अंतितः उप ब्रुवे (*aṃtitaḥ upa bruve*)—approaching near, I pray.
+
+##### भावार्थ (Bhāvārtha)
+
+Men are full of many desires; therefore, approaching this Soma drunk in the mind, I pray that he remove the fault committed by us (the pupil), namely hearing the amorous talk of the teacher and his wife. (I beg the moon, who presides over the mind, to remove the sin.)
+
+### Printed p. 488
+
+##### English translation (H. H. Wilson)
+(Pupil),—I beseech the Soma juice, which has been drunk in my heart, that it may fully expiate the sin we have committed : man is subject to many desires.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk has been interpreted in two or three ways. Here Agastya's pupil expresses repentance for his sinful act. That repentance may be for the sin arising from having heard the conversation of Agastya and Lopāmudrā concerning amorous desire. Or, since man's natural faults are many and violent desire is one of them, he may be declaring repentance for such a fault. And the means of removing this sin is prayer addressed to Soma. But here there is room for disagreement whether सोमं (*somaṃ*) means the Soma juice or the moon. Hence even Sāyaṇa has not been able to give a definitive meaning to this Ṛk. First: आगः—गुर्वोः कामप्रलापश्रवणविषयं पापं कृतवंतः तस्मादागसः सुखियतु (*āgaḥ—gurvoḥ kāmapralāpaśravaṇaviṣayaṃ pāpaṃ kṛtavaṃtaḥ tasmādāgasaḥ sukhiyatu*): may the sin arising from having heard our teachers' (the couple's) talk of desire be removed. Second: पुरुकामो हि मर्त्यः कामहतःसन् कामेन निरुद्ध एव वर्तते (*purukāmo hi martyaḥ kāmahataḥsan kāmena niruddha eva vartate*): man, afflicted by various desires, is also bound by desire for objects and so earns sin; he prays that such sin be removed. But how is this sin removed? Through prayer addressed to Soma. As to the meaning of the word Soma, it may be the Soma juice or the moon. In the Ṛgveda the word Soma is nowhere explained as the moon; but if one says "the deity Soma", it fits both meanings. Since the identity of the deity Soma and the moon is stated in many places, and since in many places Soma is prayed to for removal of sin, both meanings are possible here.
+सोमेनादित्या बलिनः सोमेन पृथिवी मही । अथो नक्षत्राणामेषामुपस्थे सोम आहितः ॥ (*somenādityā balinaḥ somena pṛthivī mahī | atho nakṣatrāṇāmeṣāmupasthe soma āhitaḥ ‖*) (Ṛ. Saṃ. 10-85-2). Where it is described that the gods such as Indra and the worlds such as the earth all grow through Soma, the meaning "Soma juice" also fits. Since the moon is the cause of the nourishment of all worlds, taking it as the moon is also natural. And in the Śatapatha Brāhmaṇa,
+
+### Printed p. 489
+एष वै सोमो राजा देवानामन्नं यच्चंद्रमाः (*eṣa vai somo rājā devānāmannaṃ yaccaṃdramāḥ*) (Śa. Brā. 1-6-4-5), the identity of the moon and Soma is described. Likewise in the following passages there is the same kind of description:
+चंद्रमा वै ब्रह्मा सोमो वै चंद्रमाः (*caṃdramā vai brahmā somo vai caṃdramāḥ*) (Śa. Brā. 12-1-1-2); सूर्य एवाग्नेयः । चंद्रमाः सौम्यः (*sūrya evāgneyaḥ | caṃdramāḥ saumyaḥ*) (Śa. Brā. 1-6-3-24).
+Thus in many places the moon is called Saumya. Therefore in the present Ṛk, हृत्तु पीतं इमं सोमं (*hṛttu pītaṃ imaṃ somaṃ*) is also given the second meaning, "this moon, dwelling in the heart, that is, presiding over the mind". And for removal of sin, in Ṛks such as उरुष्या नो अभिशस्तेः सोम नि पाह्यंहसः । सखा सुशेव एधि नः । (*uruṣyā no abhiśasteḥ soma ni pāhyaṃhasaḥ | sakhā suśeva edhi naḥ |*) (Ṛ. Saṃ. 1-91-15) the prayer is made: "O Soma, protect us from the stigma of slander; protect us completely from sin done or likely to be done." So here too the pupil prays for removal of his sin. In the Atharvaveda: सोमो मा देवो मुंचतु यमाहुश्चंद्रमा इति (*somo mā devo muṃcatu yamāhuścaṃdramā iti*) (Atha. Veda 11-6 7): "May the god Soma, whom all call the moon, free me from sin"; in this prayer the identity of Soma and the moon is plain.
+पुलुकामः (*pulukāmaḥ*)—पुलुकामः पुरुकामः पुलुकामो हि मर्त्यः इत्यपि निगमो भवति (*pulukāmaḥ purukāmaḥ pulukāmo hi martyaḥ ityapi nigamo bhavati*) (Ni. 6-4). The nature of mortal man is shown as having many kinds of desire. Because of these many desires sin (आगः (*āgaḥ*)) comes naturally to man, so the prayer is made: save us from this sin.
+आगः (*āgaḥ*)—आज् पूर्वाद्धमेः (*āj pūrvāddhameḥ*) (Ni. 11-24). The root गम् (*gam*) with the prefix आज् (*āj*) gives the form आगः (*āgaḥ*). The Nirukta author explains that the name आगः (*āgaḥ*) is established because it shows that as a result of sinful acts the impression of sin, and its fruit, must surely come to a man.
+
+### Printed p. 490
+
+##### Grammar
+
+- हृत्सु — ऊडिदंपदादि-(पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- पीतम् — पा पाने इति धातुः । कर्मणि क्त प्रत्ययः । घुमास्थागापाजहातिसां हलि (पा. सू. ६-४-६६) इति आकारस्य ईत्वम् । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- ब्रुवे — ब्रूञ् व्यक्तायां वाचि इति धातुः । लट् उत्तमपुरुष एकवचनांतरूपम् । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+- आगः — इणौ गतौ इति धातुः । इण आगोपराधे च (उ. सू ४-६५१) इति असुन् प्रत्ययः । धातोः आगादेशः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति । **NOTE**
+- चकृम — डुकृञ् करणे इति धातुः । लिट् उत्तमपुरुष बहुवचनांतरूपम् । यद्योगत्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- मृळतु — मृड सुखने इति धातुः । लोट् मध्यमपुरुष एकवचनांतरूपम् । तिजंत निघातस्वरो भवति ।
+- पुलुकामः — बहुप्रीहौ परादिश्चंदसि बहुलं (पा. सू. ६-२-१९९) इति उत्तरपदाद्युदात्तस्वरो भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒गस्त्यः॒ खन॑मानः ख॒नित्रैः॑ प्र॒जामप॑त्यं॒ बल॑मि॒च्छमा॑नः ।  
+> उ॒भौ वर्णा॒वृषि॑रु॒ग्रः पु॑पोष स॒त्या दे॒वेष्वा॒तिषो॑ जगाम ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अगस्यः । खनमानः । खनित्रैः । प्रजां । अपत्यं । बलं । इच्छमानः ।  
+> उभौ । वर्णौ । ऋषिः । उग्रः । पुपोष । सत्याः । देवेषु । आशिषः । जगाम ॥ ६ ॥
+
+### Printed p. 491
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ विनियुक्तयोर्मध्ये द्वितीयया सूक्ते षष्ठ्यांतेवास्याह ॥
+> अयमगस्तो मद्गुरुः खनित्र्यैः फलस्योत्पादनसाधनैर्यज्ञस्तोत्रादिभिः
+> खनमानः फलमभिमतमुत्पादयन् प्रजां प्रकर्षेण पुनःपुनर्जायमानमहत्यं
+> कुलस्यापतनसाधनं पुत्रादिकं बलं चेच्छमानः सन् । यद्वा ! प्रजां भृत्यादिरूपां
+> चेच्छन् ! ऋषिरतींद्रियद्रष्टा महानुभाव उग्र उद्धूर्णः संसारे संचरन्नप्यपापः सन्नुभौ वर्णौ वर्णनीयावाकारौ कामं च तपश्च पुपोष । सत्या आशिषो
+> देवेषु देवेभ्यो जगाम । प्राप्तवान् । यतोऽयं महानुभावस्तस्मादस्मान्पातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Of the two verses now applied, with the second (i.e. this sixth verse) he speaks at the close of the sūkta. This Agastya, my teacher, खनित्र्यैः (*khanitryaiḥ*), with the means of producing fruit, sacrifices, praises and the like, "digging" (खनमानः (*khanamānaḥ*)), that is producing the desired fruit; desiring प्रजां (*prajāṃ*), progeny born again and again, अपत्यं (*apatyaṃ*), sons and the like, the means of preventing the family's fall, and बलं (*balaṃ*), strength. Or else: desiring प्रजां (*prajāṃ*) in the form of servants and the like. The seer (ऋषिः (*ṛṣiḥ*)), who sees beyond the senses, a man of great power, उग्रः (*ugraḥ*), mighty, though moving in the world of rebirth yet sinless, nourished उभौ वर्णौ (*ubhau varṇau*), the two admirable forms, desire and austerity. He obtained true blessings from the gods (देवेषु (*deveṣu*), i.e. from the gods). Since he is so powerful, he protects us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- खनित्रैः (*khanitraiḥ*)—by sacrifices, praises and the like, the means of producing fruit
+- खनमानः (*khanamānaḥ*)—one who produces the desired fruit
+- प्रजां (*prajāṃ*)—progeny in the form of servants and the like (offspring)
+- अपत्यं (*apatyaṃ*)—sons, grandsons and the like, who uplift the family
+- बलं (च) (*balaṃ (ca)*)—and strength
+- इच्छमानः (*icchamānaḥ*)—desiring
+- ऋषिः (*ṛṣiḥ*)—seer beyond the senses
+- उग्रः (*ugraḥ*)—(though sunk in worldly life) free from sin
+- अगस्त्यः (*agastyaḥ*)—our teacher Agastya
+- उभौ वर्णौ (*ubhau varṇau*)—the two kinds of action, desire and austerity
+- पुपोष (*pupoṣa*)—increased
+- देवेषु (*deveṣu*)—among the gods (from the gods)
+- सत्याः (*satyāḥ*)—true-fruited
+- आशिषः (*āśiṣaḥ*)—blessings
+- जगाम (*jagāma*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+Agastya the seer, who achieves his desires by means such as sacrifice and praise, who desires sons, servants, strength and so on, who sees beyond the senses and, though sunk in worldly life, is free from sin, has cultivated both desire and austerity; therefore he has obtained from the gods blessings of true fruit (the favour of the gods).
+
+##### English translation (H. H. Wilson)
+Agastya, a venerable sage, working with (fit) implements, desiring progeny, offspring, and strength, practised both classes (of obligations), and received true benedictions from the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+उभौ वर्णौ ऋषिरुग्रः पुपोष (*ubhau varṇau ṛṣirugraḥ pupoṣa*): the sage Agastya increased two kinds of वर्ण (*varṇa*). For उभौ वर्णौ (*ubhau varṇau*) Sāyaṇa has explained कामं च तपश्च (*kāmaṃ ca tapaśca*)
+
+### Printed p. 492
+as desire and austerity. Or it may be explained as the wealth of this world and of the next. All earthly wealth is the fruit of desire; all wealth of the next world is the fruit of austerity. It may be explained that Agastya increased both fruits. To win by his own power the wealth of both worlds, Agastya must have had extraordinary strength; its greatness is shown by the manner of his birth.
+Since Agastya was the son of Mitra and Varuṇa, the individual powers of Mitra and Varuṇa combined to produce a special power in Agastya. How and why Agastya became known as Maitrāvaruṇi is told by the author of the Bṛhaddevatā thus:
+तयोरादित्ययोः सत्रे दृष्ट्वाप्सरसमुर्वशीं । रेतश्चस्कंद तत्कुंभे न्यपतद्वासतीवरे ॥ (*tayorādityayoḥ satre dṛṣṭvāpsarasamurvaśīṃ | retaścaskaṃda tatkuṃbhe nyapatadvāsatīvare ‖*)
+तेनैव तु मुहूर्तेन वीर्यवंतौ तपस्विनौ । अगस्त्यश्च वसिष्ठश्च तत्रर्षि संबभूवतुः ॥ (*tenaiva tu muhūrtena vīryavaṃtau tapasvinau | agastyaśca vasiṣṭhaśca tatrarṣi saṃbabhūvatuḥ ‖*)
+बहुधा पतितं रेतः कलशे च जले स्थले । स्थले वसिष्ठस्तु मुनिः संभूत ऋषिसत्तमः ॥ (*bahudhā patitaṃ retaḥ kalaśe ca jale sthale | sthale vasiṣṭhastu muniḥ saṃbhūta ṛṣisattamaḥ ‖*)
+कुंभे त्वगस्त्यः संभूतो जले मत्तो महाद्युतिः उदियाय ततोऽगस्त्यः शम्यामात्रो महातपाः ॥ (*kuṃbhe tvagastyaḥ saṃbhūto jale matto mahādyutiḥ udiyāya tato 'gastyaḥ śamyāmātro mahātapāḥ ‖*)
+मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते ॥ (*mānena saṃmito yasmāttasmānmānya ihocyate | yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate ‖*)
+कुंभ इत्यभिधानं च परिमाणस्य लक्ष्यते (*kuṃbha ityabhidhānaṃ ca parimāṇasya lakṣyate*) (Bṛ. De. 5-149 to 154).
+Of these Ādityas, Mitra and Varuṇa, at the sacrificial session, seeing the apsaras Urvaśī, were infatuated. Then their seed fell and dropped into the pitcher that held the water of the dwelling. तस्या दर्शनान्नित्रावरुणयो रेतच्चस्कंद (*tasyā darśanānnitrāvaruṇayo retaccaskaṃda*) (Ni. 5-13). Immediately two ascetic and virile seers, Vasiṣṭha and Agastya, came into being. That is, the seed fell in the pitcher, in the water, and on the ground. From the seed that fell on the ground, Vasiṣṭha, best of seers, was born. Agastya was born from the pitcher, and the fish from the water. The great ascetic Agastya was only of the measure of a शम्या (*śamyā*) (a peg). Because he was of a definite measure he also got the name Mānya. Such is the story of Agastya's origin. Born of Mitra and Varuṇa, Agastya must have received the extraordinary powers of both. Their individual powers are thus described in the Śruti:
+इमां वां मित्रावरणा सुवृक्तिमिषं न कृण्वे असुरा नवीयः । इनो वामन्यः पदवीरदब्बो जनं च मित्रो यतति ब्रुवाणः ॥ (*imāṃ vāṃ mitrāvaraṇā suvṛktimiṣaṃ na kṛṇve asurā navīyaḥ | ino vāmanyaḥ padavīradabbo janaṃ ca mitro yatati bruvāṇaḥ ‖*) (Ṛ. Saṃ. 7-36-2).
+
 ---
 
-**Progress note:** Done through printed p. 486. pp. 481-486 (batch API)
+**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
