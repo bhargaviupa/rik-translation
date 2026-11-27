@@ -8314,6 +8314,133 @@ In these and similar places the nature and power of the thunderbolt are describe
 
 O Indra, you who possess the horses named Hari, pleased by our praise, be the slayer of those who do not offer oblations and the like and of those who injure the sacrificers; and, to those who regard you, the giver, alone as protector, who, accompanied by the adhvaryu and others, offer oblations and the like to you, grant offspring. (Or: destroy those who, relying on some other giver, are helpers of men, do not worship you, and are endowed with sons and the like.)
 
+### Printed p. 343
+
+##### English translation (H. H. Wilson)
+Indra, lord of steeds. invigorated by our animating praise, you have slain those who make you no offerings and disturb your worshippers; but they who look upon you as (their) protector, and are associated for (the presentation of sacrificial) food, obtain from you posterity.
+
+##### विशेषविषयगळु (Special Topics)
+
+अदाशून् मित्रेरून् जघन्वान् (*adāśūn mitrerūn jaghanvān*)—The word अदाशून् (*adāśūn*) is explained as "those who give no gifts". Here the word मित्र (*mitra*) is explained as "sacrificers", and for the word मित्रेरु (*mitreru*) two kinds of meaning are given: those who cause trouble to the sacrificers who perform the sacrifice, or those who incite the enemies of the sacrificers to trouble them. The sense that Indra destroys people who give no gifts and who trouble the sacrificers is explained by the sentence मित्राणां यजमानानां ईरयित्थान् बाधकान्, तद्वैरिणां मित्रत्वं गच्छतो ना हतवानसि (*mitrāṇāṃ yajamānānāṃ īrayitthān bādhakān, tadvairiṇāṃ mitratvaṃ gacchato nā hatavānasi*).
+
+आर्यमणं (*āryamaṇaṃ*)—Sāyaṇa explains the meaning as दातारं (*dātāraṃ*), "the giver". Yāska quotes the Ṛk दक्षस्य वादिके जन्मनि व्रते राजाना मित्रावरुणा विवाससि । अतूर्त्तपंथाः पुरुरथो अर्यमा सप्तहोता विषुरूपेषु जन्मसु ॥ (*dakṣasya vādike janmani vrate rājānā mitrāvaruṇā vivāsasi | atūrttapaṃthāḥ pururatho aryamā saptahotā viṣurūpeṣu janmasu ‖*) (Ṛ. Saṃ. 10-64-5) and explains that the Āditya who restrains enemies is denoted by the word अर्यमन् (*aryaman*): आर्यमा आदित्यो अरीन् नियच्छति (*āryamā ādityo arīn niyacchati*). Durgācārya explains it as अरीणां तमसां नियंता (*arīṇāṃ tamasāṃ niyaṃtā*), "one who destroys the darkness that is like an enemy".
+
+आयोः (*āyoḥ*)—आयोः-मनुष्यस्याध्वय्यादे॥ हविर्लक्षणान्नस्य वा । (*āyoḥ-manuṣyasyādhvayyāde‖ havirlakṣaṇānnasya vā |*) The word आयुः (*āyuḥ*) is read among the names of food (Ni. 3-9). Sāyaṇa gives two meanings for this word: the officiating priests such as the Adhvaryu, or the food in the form of the oblation. For the word आयोः (*āyoḥ*) the sense is given in some places as "enemy" and in others as "friend". It is clear from Sāyaṇa's own explanation that it is difficult to say that this or that is the exact meaning of the word. The commentator has shown his own doubt: "human beings such as the Adhvaryu, or the food that is the oblation". The word आयुः (*āyuḥ*) is a proper name
+
+### Printed p. 344
+
+and also may indicate the name of a lineage. Even in these contexts it is described in some places as a friend of Indra and others, in others as an enemy. It is therefore necessary to understand as far as possible the variety in the use of this word. In the present context, Śruti passages that indicate the relation between Āyu and Indra and the other deities are cited; it is shown that there are many persons named Āyu; that the Āyu who was an enemy of the gods and of sacrificers is one, the Āyu who was a friend of Indra another, and the Āyu who was a friend of Agni another; and that there was a lineage famous by the name Āyu.
+
+In . उर्वश्यसीत्यथोत्तरारण्याज्य विलापनीमुपस्पृश्यायुरसीति तामभिनिदधाति पुरूरवा असीत्युर्वशी वाप्सराः पुरूरवाः पतिरथ यत्तस्मान्मिथुनादजायत तदायुरेवमेवैष एतस्मिन्मिथुनाद्यज्ञं जनयति । (*. urvaśyasītyathottarāraṇyājya vilāpanīmupaspṛśyāyurasīti tāmabhinidadhāti purūravā asītyurvaśī vāpsarāḥ purūravāḥ patiratha yattasmānmithunādajāyata tadāyurevamevaiṣa etasminmithunādyajñaṃ janayati |*) (Śa. Brā. 3-4-1-20), it is said that Āyu was born of Urvaśī and Purūravas, and the identity of Agni and Āyu is stated. Likewise in the sentence आयुषो न मध्यादित्यग्निर्वा आयुः (*āyuṣo na madhyādityagnirvā āyuḥ*) (Śa. Brā. 7-2-1-15) the identity of Agni and Āyu is stated. But there, one view is that the word आयु (*āyu*) is a proper name; another view is that it is not. The Śatapatha Brāhmaṇa cites the Ṛk of the Saṃhitā मा नो मित्रो वरुणो आर्यमायुरिंद्र ऋभुक्षा मरुतः परि ख्यन् । (*mā no mitro varuṇo āryamāyuriṃdra ṛbhukṣā marutaḥ pari khyan |*) (Ṛ. Saṃ. 1-162-1) (Śa. Brā. 13-5-1-18) and thereby indicates a prayer addressed to Āyu along with the other deities.
+
+In the Ṛk passage स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनां । (*sa pūrvayā nividā kavyatāyorimāḥ prajā ajanayanmanūnāṃ |*) (Ṛ. Saṃ. 1-96-2), since the word आयोः (*āyoḥ*) is explained as "Manu", it can be understood as Manu, one of the creator Prajāpatis. Likewise in the Ṛks Ṛ. Saṃ. 1-53-10; 8-15-5; 8-53-2; 2-32-2 and others, it has been explained earlier what person the proper name Āyu indicates. (Ṛgveda Saṃhitā Part 8, p. 77.)
+
+In many places the words आयुः (*āyuḥ*) and आयोः (*āyoḥ*) are used as alternatives for "human beings who are sacrificers".
+
+### Printed p. 345
+
+होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायवे । (*hotrābhiragnirmanuṣaḥ svadhvaro rājā viśāmatithiścārurāyave |*) (Ṛ. Saṃ. 2-2-8).
+इमं विधंतो अपां सदस्ये द्वितादधुर्भृगवो विक्षातियोः । (*imaṃ vidhaṃto apāṃ sadasye dvitādadhurbhṛgavo vikṣātiyoḥ |*) (Ṛ. Saṃ. 2-4-2).
+प्र स्वादनं पितूनामस्ततातिं टिदायवे (*pra svādanaṃ pitūnāmastatātiṃ ṭidāyave*) (Ṛ. Saṃ. 5-7-6).
+In these and many other Ṛks the commentator has said that the word आयु (*āyu*) means the sacrificer. In the present Ṛk also he indicates the same view and explains it as human beings such as the Adhvaryu.
+
+शूर्ताः (*śūrtāḥ*)—क्षिप्राः (*kṣiprāḥ*). The word शूर्ताः (*śūrtāḥ*) is stated among the names of "swift" (kṣipra). Here it is used in the sense "quickly".
+
+अपत्यं (*apatyaṃ*)—कुलस्यापातयिताशं पुत्रं । (*kulasyāpātayitāśaṃ putraṃ |*) The word अपत्य (*apatya*) is stated among the fifteen names of offspring beginning तुक् (*tuk*), तोकं (*tokaṃ*) (Ni. 3-2). Durgācārya explains the meaning of the word: अपत्यं कस्मात् अपततं भवति (*apatyaṃ kasmāt apatataṃ bhavati*)—because it is extended, separate from the begetter, the father; or नानेन पततीति वा (*nānena patatīti vā*)—because the begetter does not fall into hell through this son who is born. Sāyaṇa explains that the offspring born is called अपत्य (*apatya*) because he increases the lineage.
+
+For the second sense of this Ṛk Sāyaṇa gives three kinds of meaning. In the first meaning: knowing Indra to be the best giver, the sacrificers, together with human priests such as the Adhvaryu, quickly offer food in the form of the oblation; satisfied by this, Indra (grants) them a son who increases the lineage, and having obtained him, they see Indra, the best of givers.
+
+Secondly, यद्वा—अर्यमणं त्वां पश्यंति ते एवं भवंति । (*yadvā—aryamaṇaṃ tvāṃ paśyaṃti te evaṃ bhavaṃti |*): knowing Indra to be the destroyer of darkness, those who realise him obtain a son who increases the lineage and again see Indra face to face (enjoyment of happiness in this world and the next is described).
+
+Thirdly, यद्वा ये नरा आर्यमणं यं कंचिद्दातारं पश्यन् पश्यंतस्त्वामयजंत आयोर्मनुष्यस्य सचा सहायभूताः त्वया तूर्ताः क्षिप्तावर्जिता असत्यं पुत्रं वहमाना ये संति तान् जघन्वान् भव । (*yadvā ye narā āryamaṇaṃ yaṃ kaṃciddātāraṃ paśyan paśyaṃtastvāmayajaṃta āyormanuṣyasya sacā sahāyabhūtāḥ tvayā tūrtāḥ kṣiptāvarjitā asatyaṃ putraṃ vahamānā ye saṃti tān jaghanvān bhava |*).
+
+### Printed p. 346
+
+Those who, thinking that some one (god) is a giver, worship Indra with indifference, are helpers of men; therefore you, Indra, quickly destroy their wealth in the form of sons and grandsons and destroy them too—thus the meaning is described. (On the whole the meaning of this Ṛk is difficult and not easy to follow, and has therefore been explained to a limited extent.)
+
+##### Grammar
+
+- जघन्वान् — हन हिंसागत्योः धातुः । क्वसुश्च (पा. सू. ३-२-१०७) इति लिटि क्वसुरादेशः । धातोर्द्वित्वम् । कुहोश्चुः (पा. सू. ६-४-६२) इत्यभ्यासस्य कुत्वं जस्वत् । अभ्यासाच्च (पा. सू. ७-३-५५) इत्यभ्यासात् परस्य हकारस्य कुत्वम् । वसोः स्वरः शिष्यते । प्रथमाविभक्त्येकवचने नुम् दीर्घः सलोपः ।
+- मित्रेरून् — ईर गतिहिंसादर्शनेषु धातुः । औणादिक उ प्रत्ययः । मित्राणि ईरयंति इति मित्रेरवः तान् । कृदुत्तरपदप्रकृतिस्वरः भवति । द्वितीयाबहुवचनांतरूपम् ।
+- चोदप्रवृद्धः — चोद्यैः प्रवृद्धः । तृतीया कर्मणि (पा. सू. ६-२-४८) इति पूर्वपदप्रकृतिस्वरः भवति ।
+- हरिवः — हरयः अस्य संति इति हरिवान् । संबुद्धौ रुत्वम् । आमंत्रितनिघातस्वरः भवति ।
+- अदाशून् — दाश्य दाने धातुः औणादिक उ प्रत्ययः । न दाशवः अदाशवः तान् । तत्पुरुषे तुल्यार्थ (पा. सू. ६-२-२) इति नञ्पूर्वपदप्रकृतिस्वरः भवति ।
+- पश्यन् — दृशिर् प्रेक्षणे धातुः । छांदसत्वात् वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपम् । छांदसत्वात् अडागमः न भवति । यद्वृत्तान्तित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधः भवति । ल सार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- आयोः — इण् गतौ धातुः । छंदसीणः इति उण् प्रत्ययः । अचोञ्णिति इति धातोः वृद्धिः आयादेशः । प्रत्ययस्वरः शिष्यते ।
+- वहमाना — वह प्रापणे धातुः । लटः शानचादेशः । शप् विकरणः । आनेमुक् इति मुकागमः । ल सार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- अपत्यम् — न पतंति पितरः येन । पत्‌ल्य गतौ धातुः । यत् प्रत्ययः । नञ्पूर्वपदप्रकृतिस्वरः भवति ।
+
+### Printed p. 347
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रप॑त्क॒विरिं॑द्रा॒र्कसा॑तौ॒ क्षां दा॒सायो॑प॒बर्ह॑णीं कः ।  
+> कर॑त्ति॒स्रो म॒घवा॒ दानु॑चित्रा॒ नि दु॑र्यो॒णे कुय॑वाचं मृ॒धि  ॑
+> श्रेत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रपत् । कविः । इंद्र । अर्कसात् । क्षां । दासाय । उपबर्हणीं । करिति कः ।  
+> करत् । शिस्रः । मघवा । दान्चित्राः । दुर्योणे । कुयवाचं । मृधि । श्रेत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वां कविः क्रांतदर्शनूचानो वा होतार्कसातावर्चनीयस्यान्नस्य लाभे निमित्तभूते पति रपत् । स्तौति । यद्वा । एतन्नामर्षि रपत्
+> अस्तौत् अन्नार्थं । तस्यातिप्रभूतमन्नं प्रादा इत्यर्थः । तथा च दासाय प्राण्युपक्षपयित्रॆसुराय क्षां भूमिमुपबर्हणीं शय्यां कः । अकरोः । हत्वा
+> भूमावपातय इत्यर्थः ॥ करोतेर्लुज् मंत्रे घसेतिच्छेर्लुक् ॥ अथ परोक्षकृतः।
+> मघवा धनवानयमिंद्रस्तिस्रो भूमीः । दार्शिकपाशुकसौमिकरूपा भूमीः
+> क्षित्यंतरिक्षद्युरूपा ना भूमिदार्ानुचित्रा दानेन देयैर्धनैर्वा चायनीयाः
+> करत् । करोति । यद्वा । तिस्रोऽयोरजतहिरण्यमयाः पुरीर्दानुचित्रा खंडनेन
+
+> चित्रा अकरोत् । तथा दुर्योणे दुष्टयोन् स्थाने एतन्नामकस्य राज्ञः
+> प्रीत्यर्थं वा कुयवाचं कुत्सितं शब्दायंतमेतन्नामानमसुरं मृधि संग्रामे
+> नि श्रेत् । हिंसितवान् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, the कविः (*kaviḥ*)—one who sees beyond, or the one who knows (अनूचानो वा (*anūcāno vā*)) the tradition—the Hotṛ, praises you (रपत् (*rapat*)) in अर्कसातौ (*arkasātau*), that is, in the winning of worshipful food, which is the occasion." **NOTE**. Or else a seer of this name praised Indra for food, and Indra gave him very abundant food. Further: for the दास (*dāsa*), an asura who destroys living beings, you made (कः (*kaḥ*) = अकरोः (*akaroḥ*)) the earth a bed; the meaning is that you killed him and laid him low on the ground.
+
+Then, in the third person: this wealthy Indra (मघवा (*maghavā*)) made the three earths (तिस्रो भूमीः (*tisro bhūmīḥ*))—the earths in the form of the Darśa, Paśu and Soma sacrifices, or the three worlds, earth, atmosphere and heaven—दानुचित्रा (*dānucitrā*), marvellous or to be gathered by gift, by the wealth to be given; करत् (*karat*) is करोति (*karoti*). Or else he made the three cities of iron, silver and gold दानुचित्रा (*dānucitrā*) by breaking them. Likewise in दुर्योणे (*duryoṇe*)—in an evil place, or for the pleasure of a king of that name—he struck down in battle (मृधि (*mṛdhi*)) the asura named Kuyavāca, who sounds evilly, (नि श्रेत् (*ni śret*), he injured).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—(O) Indra
+- कविः (*kaviḥ*)—the wise Hotṛ, or the seer named Kavi
+- अर्कसातौ (*arkasātau*)—for the gaining of food
+- रपत् (*rapat*)—(he) praises (you)
+- दासाय (*dāsāya*)—for the asura who harms living beings
+- क्षां (*kṣāṃ*)—the earth
+- उपबर्हणीं (*upabarhaṇīṃ*)—as a bed
+- कः (*kaḥ*)—you made
+- मघवा (*maghavā*)—this Indra, possessed of wealth
+- तिस्रः (*tisraḥ*)—the three rites in the form of Darśika, Pāśuka and Saumika, or the three worlds, earth, atmosphere and heaven
+- दानु चित्राः (*dānu citrāḥ*)—marvellous by gifts or by wealth to be given
+- करत् (*karat*)—makes
+
+### Printed p. 348
+
+- [or तिस्रः (*tisraḥ*)—the three asura cities of iron, silver and gold; दानु चित्राः (*dānu citrāḥ*)—breaking them so as to look wonderful; करत् (*karat*)—made]
+- तथा (*tathā*)—likewise
+- दुर्योणे (*duryoṇe*)—in an evil place, or for the pleasure of the king named Duryoṇa
+- कुयवाचं (*kuyavācaṃ*)—the asura (named Kuyavāca) who sounded evilly
+- मृधि (*mṛdhi*)—in battle
+- निश्रेत् (*niśret*)—he injured
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Hotṛ who desires food (the seer named Kavi) praises you; you have laid the asura who harms living beings on the bed of the earth; you, the lord of wealth, have filled earth, sky and heaven with wealth and the like (made the rites in the form of Darśika, Pāśuka and Saumika marvellous by wealth fit to be given); and for the pleasure of the king named Duryoṇa you destroyed the asura named Kuyavāca in battle.
+
+##### English translation (H. H. Wilson)
+The sage praises you Indra, for the grant of desirable (food), since you have made the earth the bed of the Asura : Maghavan has made the three (regions) marvellous by his gifts, and has destroyed for (the prince) Duryoni (the Asura), Kuyavacha, in combat.
+
+##### विशेषविषयगळु (Special Topics)
+
+कविः (*kaviḥ*)—This word is stated among the names of the wise (Ni. 3-19). Sāyaṇa gives two kinds of meaning: क्रांतदर्शि (*krāṃtadarśi*), one who has understood the far shore of knowledge, or अनू चानो वा (*anū cāno vā*), one who knows the tradition of performing sacrificial rites. Thus the Hotṛ priest, learned and excellent in the performance of rites, praises Indra in अर्कसातौ (*arkasātau*), in order to obtain the oblation, which is the means of invoking and worshipping the gods—one kind of meaning. Sāyaṇa then explains for this same sentence कविः अर्कसात् रपत् (*kaviḥ arkasāt rapat*) a second meaning: यद्वा एतन्नामर्षि अन्नार्थमस्तौत् इंद्रं ? तस्यातिप्रभूतमन्नं प्रादाः (*yadvā etannāmarṣi annārthamastaut iṃdraṃ ? tasyātiprabhūtamannaṃ prādāḥ*): since the seer named Kavi praised Indra in order to obtain food, Indra has granted him food.
+
+अर्कसात् (*arkasāt*)—अर्जनीयस्यान्नस्य लाभे (*arjanīyasyānnasya lābhe*). Yāska reads the word अर्क (*arka*) both among the names of food (Ni. 3-9) and among the names of the thunderbolt (Ni. 3-11), and says अर्को नेवो भवति यषेनमर्चति (*arko nevo bhavati yaṣenamarcati*)
+
 ---
 
-**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
+**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
