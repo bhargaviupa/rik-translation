@@ -15806,6 +15806,276 @@ May the Maruts delight (रणंत (*raṇaṃta*)) in this sacrificial rite o
 
 May the Maruts, faultless, radiant and purifying, find delight in this sacrifice of ours alone. O Maruts, revered ones, protect us with favouring minds. Make us grow with foods for a well-nourished life.
 
+### Printed p. 373
+
+##### English translation
+May the Maruts, who are irreproachable, pure, and purifying, delight in this our ceremony : protect us, adorable Maruts, with favourable thoughts : be ever anxious to sustain us with food.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्तु॒तासो॑ म॒रुतो॑ व्यंतु॒ विश्वे॑भि॒र्नाम॑भि॒र्नरो॑ ह॒वींषि॑  
+> ददा॑त नो अ॒मृत॑स्य प्र॒जायै॑ जिगृ॒त रा॒यः सू॒नृता॑ म॒घानि॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्तुतासः । मरुतः । व्यंतु । विश्वेभिः । नामभिः । नरः । हवींषि ।  
+> ददात । नः । अमृतस्य । प्रजायै । जिगृत । रायः । सूनृता । मघानि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्तुतास एवमस्माभिः स्तुता मरुतो हवींषि व्यंतु । भक्षयंतु कीदृशाः । विश्वेभिर्विश्वैर्नामभिरुदकैः सहिता नरो नेतारः । शेषः प्रत्यक्षस्तुतः । हे मरुतः नोऽस्मदीयायै प्रजायै संततयेऽमृतस्यामृतमुदकं ददात दत्त । तथा हविषो दातुर्यजमानस्य सूनृता सूनृतानि सुष्ठु नृत्यंति शोभनयोग्यानि मघानि धनानि जिगृत । उद्दिरत । प्रयच्छतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, thus praised by us, are to eat the oblations. They are described as the leaders (नरो (*naro*)), accompanied by all the waters (नामभिः (*nāmabhiḥ*) = *udakaiḥ*); the rest is a direct address. "O Maruts, give the immortal water, that is, the water, to our progeny, our offspring. Likewise rouse up and bestow on the sacrificer, the giver of the oblation, the good and fittingly dancing (सूनृता (*sūnṛtā*)) riches (मघानि (*maghāni*))." जिगृत (*jigṛta*) means "rouse up", that is, "give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वेभिः (*viśvebhiḥ*)—all
+- नामभिः (*nāmabhiḥ*)—with waters
+- नरः (*naraḥ*)—leaders
+- उत (*uta*)—and
+- स्तुतासः (*stutāsaḥ*)—praised by us
+- मरुतः (*marutaḥ*)—Maruts
+- हवींषि (*havīṃṣi*)—our oblations
+- व्यंतु (*vyaṃtu*)—let them eat
+- (O Maruts,) नः (*naḥ*)—our
+- प्रजायै (*prajāyai*)—for progeny
+- अमृतस्य (*amṛtasya*)—water
+- ददात (*dadāta*)—give
+- सूनृता (*sūnṛtā*)—auspicious and excellent
+- मघानि (*maghāni*)—riches
+- जिगृत (*jigṛta*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts, who are accompanied by all the waters, who are leaders and are praised by us, eat our oblation. O Maruts, provide water for our progeny. Give us auspicious and excellent riches.
+
+### Printed p. 374
+
+##### English translation
+May the glorified Maruts partake of the oblations, they who accompanied by the bending waters, are the leaders of rites : bestow water, Maruts, upon our progeny, return suitable opulence for (the donation of sacrificial) riches.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ स्तु॒तासो॑ मरुतो॒ विश्व॑ ऊ॒ती अच्छा॑ सू॒रीन्स॒र्वता॑ता जिगात ।  
+> ये न॒स्त्मना॑ श॒तिनो॑ व॒र्धयं॑ति यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । स्तुतासः । मरुतः । विश्वे । ऊती । अच्छ । सूरीन् । सर्वताता । जिगात ।  
+> ये । नः । त्मना । शतिनः । वर्धयंति । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः स्तुतास एवमस्माभिः स्तुता विश्वे सर्वे यूयमूत्यूत्या रक्षया सहिताः सूरीन् स्तोतॄनच्छाभिलक्ष्य सर्वताता सर्वतातौ यज्ञे आ जिगात । आगच्छत । ये मरुतस्त्मनैव नोऽस्मान् शतिनः शतसंख्याकान् वर्धयंति । यथा वयं पुत्रपौत्रादिभिः शतिनो भवेम । तथा वर्धयंतीत्यर्थः । ते यूयमा जिगातेति पूर्वेण संबंधः । एवंभूता मरुतः यूयं सर्वदास्मान् पालयत ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, thus praised by us, all of you, together with your protection (ऊती (*ūtī*)), come to the sacrifice (सर्वताता (*sarvatātā*)) facing the praisers (सूरीन् (*sūrīn*)). The Maruts who of their own accord (त्मना (*tmanā*)) make us "possessed of hundreds" (शतिनः (*śatinaḥ*)) grow, that is, make us grow so that we become possessed of hundreds through sons, grandsons and the rest: you, such Maruts, are connected with the preceding आ जिगात (*ā jigāta*) ("come"). Such as you are, protect us always.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- ये (*ye*)—you who
+- त्मना (*tmanā*)—of your own impulse
+- नः (*naḥ*)—us
+- शतिनः (*śatinaḥ*)—exceedingly
+- वर्धयंति (*vardhayaṃti*)—cause to prosper, such ones
+- स्तुतासः (*stutāsaḥ*)—praised by us
+- विश्वे (*viśve*)—all of you
+- ऊती (*ūtī*)—with your protections
+- सूरीन् अच्छ (*sūrīn accha*)—facing us, the praisers
+- सर्वताता (*sarvatātā*)—at this sacrifice
+- आ जिगात (*ā jigāta*)—come
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who of your own impulse make us prosper exceedingly, such ones, praised by us, all of you, come with your protections to this sacrifice facing us, the praisers. Protect us always with blessings.
+
+### Printed p. 375
+
+##### English translation
+Glorified Maruts, do you all come at the time of sacrifice to the presence of the worshippers along with your protections, for you are they who, of your own will, multiply our hundreds : do you ever cherish us with blessings.
+
+## Sūkta 58 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र साकमुक्षे इति षडृचं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं मरुद्देवताकं । अनुक्रांतं च । प्र साकमुक्षे षडिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र साकमुक्षे (*pra sākamukṣe*) is a hymn of six Ṛks, the third sūkta, of Vasiṣṭha as seer, in the Triṣṭubh metre, with the Maruts as deity. The Anukramaṇī says: प्र साकमुक्षे षडिति (*pra sākamukṣe ṣaḍiti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta प्र साकमुक्षे (*pra sākamukṣe*) is the third sūkta in the fourth anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta, the Maruts are the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said प्र साकमुक्षे षट् (*pra sākamukṣe ṣaṭ*). The viniyoga has been stated before.
+
+Sūkta—58
+Maṇḍala—7; Anuvāka—3; Sūkta—58
+Aṣṭaka—5; Adhyāya—4; Varga—28
+Ṛks in the sūkta—6
+Ṛṣi—Vasiṣṭha
+Devatā—Maruts
+Chandas—Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सा॑क॒मुक्षे॑ अर्चता ग॒णाय॒ यो दैव्य॑स्य॒ धाम्न॒स्तुवि॑ष्मान् ।  
+> उ॒त क्षो॑दंति॒ रोद॑सी महि॒त्वा नक्षं॑ते॒ नाकं॒ निर्ऋ॑तेरवं॒शात् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । साकंउक्षे । अर्चत । गणाय । यः । दैव्यस्य । धाम्नः । तुविष्मान् ।  
+> उत । क्षोदंति । रोदसी इति । महित्वा । नक्षंते । नाकं । निःऋतेः । अवंशात् ॥ १ ॥
+
+### Printed p. 376
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः यूयं साकमुक्षे सततं वर्षित्रे गणाय मरुत्समूहाय प्रार्चत । स्तोत्रं प्रोच्चारयत । यो मरुद्गणो दैव्यस्य देवसंबंधिनो धाम्नः स्वर्गाख्यस्य स्थानस्य तुविष्मान् वृद्धिमान्भवति । सर्वेभ्यो देवेभ्यः प्रवृद्ध इत्यर्थः । तस्मै गणायेति पूर्वेण संबंधः । उतापि च मरुतो महित्वा स्वकीयेन महत्त्वेन सहिता रोदसी द्यावापृथिव्यौ क्षोदंति । भंजंति । तथा निर्ऋतेर्भूमेरवंशादंतरिक्षाच्च नाकं स्वर्गं नक्षंते । व्याप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+O praisers, raise your praise to the group of the Maruts, the one that rains together and continuously (साकमुक्षे (*sākamukṣe*)). That Maruts' troop is strong (तुविष्मान् (*tuviṣmān*)), that is, grown mighty, over the divine abode (धाम्नः (*dhāmnaḥ*)), the place called heaven; it is pre-eminent over all gods. The word गणाय (*gaṇāya*) ("to the troop") is connected with the preceding. Moreover the Maruts with their own greatness (महित्वा (*mahitvā*)) break (क्षोदंति (*kṣodaṃti*)) the two worlds (रोदसी (*rodasī*)), heaven and earth. Likewise they pervade (नक्षंते (*nakṣaṃte*)) heaven (नाकं (*nākaṃ*)), from the earth (निर्ऋतेः (*nirṛteḥ*)) and through the firmament (अवंशात् (*avaṃśāt*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers,) यः (*yaḥ*)—the Maruts' troop which
+- दैव्यस्य (*daivyasya*)—of the divine
+- धाम्नः (*dhāmnaḥ*)—abode, throughout the place of heaven
+- तुविष्मान् (*tuviṣmān*)—is exceedingly strong, such a one
+- साकमुक्षे (*sākamukṣe*)—and rains continuously
+- गणाय (*gaṇāya*)—to that troop of Maruts
+- प्रार्चत (*prārcata*)—offer praise
+- उत (*uta*)—and
+- (मरुतः (*marutaḥ*)—the Maruts)
+- महित्वा (*mahitvā*)—by their greatness
+- रोदसी (*rodasī*)—heaven and earth
+- क्षोदंति (*kṣodaṃti*)—they diminish
+- निर्ऋतेः (*nirṛteḥ*)—starting from the earth
+- अवंशात् (*avaṃśāt*)—through the firmament
+- नाकं (*nākaṃ*)—all of heaven
+- नक्षंते (*nakṣaṃte*)—they pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, offer praise to the troop of Maruts which is exceedingly strong throughout the heavenly abode where the gods dwell and which rains continuously. The Maruts by their greatness diminish heaven and earth. Starting from the earth, through the firmament, they pervade all of heaven.
+
+##### English translation
+Offer worship to the company (of the Maruts), the associated dispensers of moisture, which is powerful over the celestial region : the Maruts, by their greatness, oppress both heaven and earth : they spread from the earth and the firmament to heaven,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒नूश्चि॑द्वो मरुतस्त्वे॒ष्ये॑ण॒ भीमा॑स॒स्तुवि॑मन्य॒वोया॑सः ।  
+> प्र ये महो॑भि॒रोज॑सो॒त संति॒ विश्वो॑ वो॒ याम॑न्भयते स्व॒र्दृक् ॥ २ ॥
+
+### Printed p. 377
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनूः । चित् । वः । मरुतः । त्वेष्येण । भीमासः । तुविःमन्यवः । अयासः ।  
+> प्र । ये । महःभिः । ओजसा । उत । संति । विश्वः । वः । यामन् । भयते । स्वःदृक् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भीमासो भीमास्तुविमन्यवः प्रवृद्धमतयोऽयासो गंतार इति त्रीणि संबोधनानि । एवंभूता हे मरुतः वो युष्माकं जनूर्जन्म त्वेष्येण दीप्तेन रुद्रेण बभूवेति शेषः । उतापि च ये मरुतो महोभिस्तेजोभिरोजसा बलेन च प्र संति प्रभवंति तेषां वो युष्माकं यामन् यामनि गमने विश्वः स्वर्दृक् सूर्यस्य द्रष्टा सर्वो जीवसमूहः । यद्वा । स्वरंतरिक्षं । तत्पश्यतीति वृक्षः स्वर्दृक् । सर्वोऽस्मादित्यर्थः भयते । बिभेति ॥
+
+##### Gist of the bhāṣya
+
+"Formidable (भीमासः (*bhīmāsaḥ*)), of mighty mind (तुविमन्यवः (*tuvimanyavaḥ*)), swift-going (अयासः (*ayāsaḥ*))": these are three vocatives. O Maruts, such as you are, your birth (जनूः (*janūḥ*)) came about from the bright (त्वेष्येण (*tveṣyeṇa*)) Rudra; "came about" is the supplied remainder. Moreover, of you Maruts who are pre-eminent (प्र संति (*pra saṃti*)) in splendours (महोभिः (*mahobhiḥ*)) and in strength (ओजसा (*ojasā*)), at your going (यामन् (*yāman*)) every स्वर्दृक् (*svardṛk*), that is, the whole host of living beings that sees the sun, is afraid (भयते (*bhayate*)). Or else: स्वः (*svaḥ*) is the firmament; what sees it is a tree, स्वर्दृक् (*svardṛk*); everything is afraid of this.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भीमासः (*bhīmāsaḥ*)—terrible
+- तुविमन्यवः (*tuvimanyavaḥ*)—of exceeding mind
+- अयासः (*ayāsaḥ*)—swift-going
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- जनूः (*janūḥ*)—birth
+- त्वेष्येण (*tveṣyeṇa*)—has come about from the radiant Rudra
+- उत (*uta*)—and
+- ये (*ye*)—you who
+- महोभिः (*mahobhiḥ*)—with your splendours
+- ओजसा (*ojasā*)—and with strength
+- प्र संति (*pra saṃti*)—are mighty, such ones
+- वः (*vaḥ*)—your
+- यामन् (*yāman*)—at the time of going
+- स्वर्दृक् (*svardṛk*)—(like a tree) looking at the firmament
+- विश्वः (*viśvaḥ*)—all people
+- भयते (*bhayate*)—are afraid
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, terrible, of exceeding mind and swift-going, your birth has come about from the radiant Rudra. At the time of your going, when you are mighty with your splendours and strength, all people (or trees), looking at the firmament, are afraid.
+
+##### English translation
+Formidable, high-spirited, quick-moving Maruts, your birth is from the illustrious Rudra : every gazer on the sun is alarmed with the course of you who are pre-eminent in lusture and strength.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हद्वयो॑ म॒घव॑द्भ्यो दधात॒ जुजो॑ष॒न्निन्म॒रुतः॑ सुष्टु॒तिं नः॑  
+> 48
+
+### Printed p. 378
+
+> गतो नाध्वा वि तिराति जंतुं प्र नः स्पार्हाभिरूतिभिस्तिरेत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । वयः । मघवत्भ्यः । दधात । जुजोषन् । इत् । मरुतः । सुस्तुतिं । नः ।  
+> गतः । न । अध्वा । वि । तिराति । जंतुं । प्र । नः । स्पार्हाभिः । ऊतिभिः । तिरेत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं मघवद्भ्यो हविर्लक्षणान्नवद्भ्योऽस्मभ्यं बृहन्महद्वयोऽन्नं दधात । प्रयच्छत । नोऽस्मदीयां सुष्टुतिं शोभनं स्तोत्रं जुजोषन्नित् । सेवंतामेव । गतो मरुद्भिः प्राप्तोऽध्वा मार्गो जंतुं प्राणिनं न वि तिराति । नाहंति । उदकेनाप्याययत्येव । यद्वा । वितिरतिर्वर्धनार्थः । नेति चार्थे । मरुद्भिर्गतो मार्गश्च जंतुं वर्धयति । तथा नोऽस्मान् स्पार्हाभिः स्पृहणीयाभिरूतिभी रक्षाभिः प्र तिरेत । प्रवर्धयंते ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, give (दधात (*dadhāta*)) to us, who have oblation-wealth (मघवद्भ्यः (*maghavadbhyaḥ*)), great food (बृहत् वयः (*bṛhat vayaḥ*)). Let them indeed accept (जुजोषन् इत् (*jujoṣan it*)) our good praise. The path (अध्वा (*adhvā*)) travelled (गतः (*gataḥ*)) by the Maruts does not harm (न वि तिराति (*na vi tirāti*)) a living being (जंतुं (*jaṃtuṃ*)); it refreshes with water. Or else: the root वितिर (*vitira*) has the sense of increasing, and न (*na*) is in the sense of "and": the path travelled by the Maruts makes the creature grow. Likewise they cause us to prosper (प्र तिरेत (*pra tireta*)) with desirable (स्पार्हाभिः (*spārhābhiḥ*)) protections (ऊतिभिः (*ūtibhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to us who have oblations
+- बृहत् (*bṛhat*)—abundant
+- वयः (*vayaḥ*)—food
+- दधात (*dadhāta*)—give
+- नः (*naḥ*)—our
+- सुष्टुतिं (*suṣṭutiṃ*)—excellent praise
+- जुजोषन् इत् (*jujoṣan it*)—surely accept
+- गतः (*gataḥ*)—taken refuge in by the Maruts
+- अध्वा (*adhvā*)—path
+- जंतुं (*jaṃtuṃ*)—the host of creatures
+- न वि तिराति (*na vi tirāti*)—does not harm
+- (they) नः (*naḥ*)—us
+- स्पार्हाभिः (*spārhābhiḥ*)—with desired
+- ऊतिभिः (*ūtibhiḥ*)—protections
+- प्र तिरेत (*pra tireta*)—cause to prosper
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, give abundant food to us who offer oblations. Surely accept our excellent praise. The path that the Maruts follow does not harm the host of creatures. They make us prosper with desired protections.
+
+##### English translation
+Grant, Maruts, to us who are affluent (in sacrificial offering) abundant food : accept complacently our earnest praise : the path you follow is not hurtful to living beings : may it increase our (prosperity) by (your) desirable protections.
+
 ---
 
-**Progress note:** Done through printed p. 372. pp. 367-372 (batch API)
+**Progress note:** Done through printed p. 378. pp. 373-378 (batch API)
