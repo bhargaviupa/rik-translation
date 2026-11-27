@@ -37,7 +37,7 @@ def read_en(paths):
     pages = {}
     for p in paths:
         t = open(p, encoding='utf8').read()
-        parts = re.split(r'(?m)^### Page ([^\s—:]+)[^\n]*\n', t)
+        parts = re.split(r'(?m)^### (?:Page|Printed p\.) ([^\s—:]+)[^\n]*\n', t)
         for i in range(1, len(parts), 2):
             k = page_key(parts[i]); pages[k] = pages.get(k, '') + '\n' + parts[i + 1]
     return pages
