@@ -3866,6 +3866,142 @@ Two kinds of meaning are given for the second half of this Ṛk. Both arise from
 
 The Nirukta-author, explaining the particle चित् (*cit*), says चिदित्येषो अनेककर्मा (*cidityeṣo anekakarmā*): the particle चित् (*cit*) is used in many senses; and then explains them
 
+### Printed p. 157
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the particle चित् (*cit*) (cit), the Nirukta authors state with the sentence दधिचिदित्युपमार्थे (*dadhicidityupamārthe*) that the word is used in the sense of a comparison. Following this, Sāyaṇa cites it as चिच्छब्दः उपमार्थे दधिचिदित्युपमार्थे (नि. १-४) इति यास्केनोक्तत्वात् (*cicchabdaḥ upamārthe dadhicidityupamārthe (ni. 1-4) iti yāskenoktatvāt*) (Ni. 1-4). He then gives an alternative: यद्वा आयुधमेवोच्यते । वज्राख्यायुधविशेषो अतसे काष्ठसमूहे शुतुक्वान् दीपयन्नग्निश्चित् (*yadvā āyudhamevocyate | vajrākhyāyudhaviśeṣo atase kāṣṭhasamūhe śutukvān dīpayannagniścit*). The weapon of Indra called the thunderbolt is what is meant here; it shines like a fire shining in a heap of wood. This meaning he explains with the commentary काष्ठे ज्वलन्नग्निरिव तद्वद्दीप्तो वर्तते (*kāṣṭhe jvalannagniriva tadvaddīpto vartate*). The abundant brilliance of Agni is expressed, he explains, by the word सा (*sā*). The comparison-sentence आपो न द्वीपं (*āpo na dvīpaṃ*) he explains and supports with अपः द्वीपमिव वृष्णुदकानि सस्याद्यन्नानि धारयंति (*apaḥ dvīpamiva vṛṣṇudakāni sasyādyannāni dhārayaṃti*): as waters enclose and hold an island, the rain-waters hold plants and the like, and food.
+
+आतसे (*ātase*)—संतते कर्मणि (*saṃtate karmaṇi*): for the word अतस् (*atas*) the meaning given is "in an action carried on continuously". The Nirukta authors (quote the verse):
+आपांतमन्युस्तृपलप्रभर्मा धुनिश्यिविमावाञ्चरुमा यजीषी । सोमो विश्वान्यतसा वनानि नार्वागिंद्रं प्रतिमानानि देभुः ॥ (*āpāṃtamanyustṛpalaprabharmā dhuniśyivimāvāñcarumā yajīṣī | somo viśvānyatasā vanāni nārvāgiṃdraṃ pratimānāni debhuḥ ‖*)
+(Ṛ. Saṃ. 10-89-5)
+Here, for the word अतसा (*atasā*), Durgācārya gives the meaning अनुपक्षीणानि (*anupakṣīṇāni*), "growing, increasing". Sāyaṇa states the same meaning with संतते (*saṃtate*).
+
+##### Grammar
+
+- अम्यक् — छांदसे वर्तमानार्थे लज् । पादादित्वान्निघातस्वरो न भवति । आद्युदात्तं भवति ।
+- अस्मे — सुपां सुलक् (पा. सू. ७-१-३४) इति चतुर्थ्याः शे आदेशः ।
+- जुनंति — जु इति गत्यर्थकः सौत्रो धातुः । लट् प्रथमपुरुषबहुवचने झि अंतादेशः । क्रादिभ्यः श्ना इति श्नाविकरणम् । श्नाभ्यस्तयोरातः (पा. सू. ६-४-११२) इति तदाकारस्य लोपः । तिजंतनिघातस्वरो भवति ।
+- आतसे — आत सातत्यगमने धातुः । अत्यविचवितमि-(उ. सू. ३९७) इति असच् प्रत्ययः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । सप्तम्यंतरूपम् ।
+- शशुक्वान् — शुच दीप्तौ धातुः । अस्मात् लिट् आगते क्वसुष्ट (पा. सू. ३-२-१०६)
+
+### Printed p. 158
+- इति तस्य क्वसुरादेशः । प्रत्ययनिमित्ते द्वित्वादौ प्राप्ते व्यत्ययेन कुत्वं भवति । वसोः स्वरो अवशिष्यते ।
+- द्वीपं — द्विर्गता आपो यस्मिन् इति द्वीपं । द्व्यंतरुपसर्गेभ्योऽप ईत् (पा. सू. ६-३-४७) इति द्वि उपपदे अप इत्यस्याकारस्य ईत्वं भवति ।
+- दधति — डुधाञ् धारणपोषणयोः धातुः । लट् प्रथमपुरुषबहुवचनांतरूपम् । हिचॆ (पा. सू. ८-१-३४) इति निघातस्वरप्रतिषेधे प्राप्ते अभ्यस्तानामादिः (पा. सू. ६-१-१८९) इति आद्युदात्तस्वरो भवति ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं तू न॑ इंद्र॒ तं र॒यिं दा॒ ओजि॑ष्ठया॒ दक्षि॑णयेव रा॒तिं ।  
+> स्तुत॑श्च॒ यास्ते॑ च॒कनं॑त वा॒योः स्तनं॒ न मध्वः॑ पीपयंत॒  ॑
+> वाजैः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वं । तु । नः । इंद्र । तं । रयिं । दाः । ओजिष्ठया । दक्षिणयाइव । रातिं ।  
+> स्तुतः । च । याः । ते । चकनंत । वायोः । स्तनं । न । मध्वः । पीपयंत । वाजैः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं तु । तुरवधारणे । त्वमेव तं रयिं त्वद्दानयोग्यं गवादिधनं
+> दाः । देहि । यस्मादितरेभ्योऽपि त्वमेव बहुप्रदः अतोऽतिमहद्धनं देहीत्यर्थः ।
+> वयं त्वोजिष्ठयौजस्वितमया परिक्रमणार्हया दक्षिणया समृद्धिसाधनया
+> गवादिलक्षणयर्त्विजमि व रातिं दातारं त्वां प्रीणयाम इति शेषः । यद्वा । दक्षिणा
+> तद्दो देयद्रव्यसामान्यवचनः । रातिकब्दो बंधुवचनः । हिरण्यादिसारवद्दव्यप्रदानेन बंधुं यथा वशीकुर्वंति तद्वत्त्वां वशीकुर्म इत्यर्थः । किंच वायोर्धौतयुवक्षेपिष्ठस्य शीघ्रवरप्रदस्य ते ॥ कर्मणि षष्ठी ॥ वायुं त्वां स्तुतो
+> येऽस्मदीयाः स्तोतारश्चकनंत कामयंते अस्तुवन् । याः स्तुतयस्मामेवा-
+
+##### Gist of the bhāṣya
+
+"O Indra, you indeed (तु (*tu*) is for emphasis) give that wealth, cows and the like, that is fit to be given by you." Since you are the most generous even compared with others, give us very great wealth. We please you, the giver (रातिं (*rātiṃ*)), with a gift (दक्षिणया (*dakṣiṇayā*)) that is ओजिष्ठया (*ojiṣṭhayā*), the most forceful, fit to circulate, a means of prosperity and consisting of cows and the like, just as one pleases a priest. Alternatively: दक्षिणा (*dakṣiṇā*) is a general word for a gift-substance, and the word राति (*rāti*) means a kinsman; as people win over a kinsman by giving substantial things such as gold, so we win you over. Further, of you, Vāyu, who throw down the washed (cleansed) youth and quickly grant boons, ते (*te*) stands in the genitive in the sense of the object: our praisers who have praised you, Vāyu, desire you; or the praises that desire you alone. The Sanskrit of
+
+### Printed p. 159
+
+> कामयंतेति वा योजना ॥ कनतेण्यंताल्लुजि चज रूपं । चज्यन्यतरस्यामिति चजः
+> पूर्वमक्षरमुदात्तं ॥ त्वां होत्रादयो वाजैर्हविर्लक्षणैरन्नैः पीपयंत ।
+> आप्याययंति । तत्र दृष्टांतः । मध्वो मधुरस्य स्तन्यस्य लाभाय वाजैः सारवद्भिरन्नविशेषैः स्तनं न । तं यथाप्याययंति तद्वयं त्वां बहुकृतप्रदानाय स्तुत्या
+> हविषाप्याययामः । त्वं तु दातव्यत्वेन प्रसिद्धं धनं सर्वदा देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The construction is "or the praises desire you alone." (A grammatical note on the form चकनंत (*cakanaṃta*) and its accent follows; it is left to the Grammar section.) The Hotṛ priests and the others nourish (पीपयंत (*pīpayaṃta*)) you with वाजैः (*vājaiḥ*), foods in the form of oblations. The illustration: as they nourish the breast with substantial special foods in order to obtain sweet milk, so we nourish you with praise and oblation so that you may give abundantly. You, then, always give the wealth that is known as what is to be given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- ओजिष्ठया (*ojiṣṭhayā*)—most vigorous (most excellent)
+- दक्षिणया इव (*dakṣiṇayā iva*)—with a gift that is a means of prosperity (as one satisfies a priest with cows and the like)
+- रातिं (*rātiṃ*)—you, the giver (we satisfy). [Or: ओजिष्ठ या (*ojiṣṭha yā*)—most excellent; दक्षिणया (*dakṣiṇayā*)—with a gift; रातिं इव (*rātiṃ iva*)—as one wins over kinsmen (so we win you over with praise, oblations and the like).]
+- *(kiṃca)*—and further
+- वायोः (*vāyoḥ*)—swift giver of boons
+- ते (*te*)—you
+- स्तुतः (*stutaḥ*)—(our) praisers who praise (desire)
+- चकनंत (*cakanaṃta*)—praise (desire)
+- याः स्तुतः च (*yāḥ stutaḥ ca*)—and what (our) praises
+- चकनंत (*cakanaṃta*)—desired
+- मध्वः (*madhvaḥ*)—of sweet (milk, for the sake of obtaining it)
+- वाजैः (*vājaiḥ*)—with (substantial) foods and the like
+- स्तनं न (*stanaṃ na*)—as one nourishes the breast (of a woman), (so you)
+- *(vājaiḥ)*—with oblations and the like
+- पीपयंत (*pīpayaṃta*)—they satisfy
+- त्वं तु (*tvaṃ tu*)—you also
+- तं (*taṃ*)—that (wealth fit to be offered by you)
+- रयिं (*rayiṃ*)—wealth (in the form of cows and the like)
+- नः (*naḥ*)—to us
+- दाः (*dāḥ*)—grant
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as priests or kinsmen are satisfied with an excellent gift of cows and the like, so we satisfy you; our praises too praise you alone; as the breast of a woman is nourished with substantial foods in order to increase the sweet milk, so the Hotṛ and other priests nourish you with oblations and the like; you too grant us the wealth, in the form of cows and the like, that is fit to be offered to you.
+
+##### English translation (H. H. Wilson)
+Indra, quickly grantjus that wealth (which you possess, for we gratify) the donor with a most worthy present : we, your praisers, offer to you, the ready-giver of boons, the laudations that would propitiate you; (and the priests) nourish you with sacrificial food, as they cherish the bosom (of a female for the sake of replenishing it) with sweet (milk).
+
+### Printed p. 160
+
+##### विशेषविषयगळु (Special Topics)
+
+तं रयिं दाः (*taṃ rayiṃ dāḥ*)—त्वद्दानयोग्यं गवादिधनं देहि (*tvaddānayogyaṃ gavādidhanaṃ dehi*). The word रयि (*rayi*) is read among the names of water (Ni. 2-24) and among the names of wealth (Ni. -39)**NOTE**, and is explained as रयिरिति धननाम रातेर्दानकर्मणः (*rayiriti dhananāma rāterdānakarmaṇaḥ*) (Ni. 4-17). With the sentence यस्मादितरेभ्योपि त्वमेव बहुप्रदः अतो अति महद्धनंदेहि (*yasmāditarebhyopi tvameva bahupradaḥ ato ati mahaddhanaṃdehi*) he states that Indra is the one who gives abundant wealth beyond others, and prays that he grant us wealth.
+
+ओजिष्ठया दक्षिणया इव रातिं (*ojiṣṭhayā dakṣiṇayā iva rātiṃ*)—two kinds of meaning are given for this phrase. The word ओजिष्ठया (*ojiṣṭhayā*) is used as an adjective of the word दक्षिणा (*dakṣiṇā*). The word दक्षिणा (*dakṣiṇā*) is explained as wealth in the form of cows, endowed with strength (with the action of moving), mobile, and a means of prosperity. One meaning: as priests are pleased with such a gift, so we, the sacrificers, please Indra, the giver of goods. The Nirukta authors explain: दक्षिणा दक्षतेः समर्द्धयति कर्मणः व्यृद्धं समर्धयतीति (*dakṣiṇā dakṣateḥ samarddhayati karmaṇaḥ vyṛddhaṃ samardhayatīti*)—the gift is the means of giving that produces prosperity; or दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः (*dakṣiṇo hasto dakṣaterutsāhakarmaṇaḥ*)—the right hand, which increases enthusiasm. And the word राति (*rāti*) is read among the words for acts of giving (Ni. 3-19).
+शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि । विश्वा हि माया आवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥ (*śukraṃ te anyadyajataṃ te anyadviṣurūpe ahanī dyaurivāsi | viśvā hi māyā āvasi svadhāvo bhadrā te pūṣanniha rātirastu ‖*)
+(Ṛ. Saṃ. 6-58-1)
+Here the word राशि (*rāśi*)**NOTE** is described as meaning gift.
+In giving the second meaning Sāyaṇa says दक्षिणाशब्दो देयद्रव्यसामान्यवचनः । रातिशब्दो बंधुवचनः (*dakṣiṇāśabdo deyadravyasāmānyavacanaḥ | rātiśabdo baṃdhuvacanaḥ*): the word दक्षिणा (*dakṣiṇā*) denotes the substance that is given; the word राति (*rāti*) means a kinsman. Having explained these words, he describes the meaning with हिरण्यादिसारवद्दव्यप्रदानेन बंधुं यथा वशीकुर्वंति (*hiraṇyādisāravaddavyapradānena baṃdhuṃ yathā vaśīkurvaṃti*)—as one wins the affection of kinsmen by giving gold and other valuable wealth—and, with तद्वत् त्वां वशीकुर्मः (*tadvat tvāṃ vaśīkurmaḥ*), the sacrificers' wish: in the same way we offer valuable wealth to Indra and win Indra's affection.
+वायोः (*vāyoḥ*)—धौतयुवक्षेपिष्ठस्य शीघ्रवरप्रदस्य (*dhautayuvakṣepiṣṭhasya śīghravarapradasya*). For the word वायु (*vāyu*) the meaning is given: he who destroys the enemy in the prime of youth and quickly grants boons is Vāyu. Yāska says वायुर्वातेः वेशेर्वा स्याद्गतिकर्मणः. एतेरिति स्थौलाष्टीविः अनर्थको वकारः (*vāyurvāteḥ veśervā syādgatikarmaṇaḥ. eteriti sthaulāṣṭīviḥ anarthako vakāraḥ*) (Ni. 10-3): the word वायु (*vāyu*)
+
+### Printed p. 161
+is formed either from the root वा (*vā*) of motion or from the root इण् गतौ (*iṇ gatau*). Sthaulāṣṭhīvi says that वायु (*vāyu*) is formed from the root इण् (*iṇ*) and that the letter व (*va*) in it is without meaning. Thus the derivation of the word वायु (*vāyu*) is given.
+Sāyaṇa, in वायोः ते स्तुतः (*vāyoḥ te stutaḥ*), says that the word ते (*te*) is a genitive in the sense of the object: वायुं ता स्तुतः ये अस्मदीयाः स्तोतारः (*vāyuṃ tā stutaḥ ye asmadīyāḥ stotāraḥ*)—our praisers, the priests who praise you, who are Vāyu, have praised with praises. That is one meaning. Second, याः स्तुतयः त्वामेव अकामयन (*yāḥ stutayaḥ tvāmeva akāmayana*): the praises recited by the priests have you alone as their object.
+In वाजैः पीपयंत मध्वः स्तनं न (*vājaiḥ pīpayaṃta madhvaḥ stanaṃ na*), for the sentence त्वां होत्रादयः हविर्लक्षणैरन्नैः आप्याययंति (*tvāṃ hotrādayaḥ havirlakṣaṇairannaiḥ āpyāyayaṃti*) the comparison is stated with मधुरस्य स्तन्यस्य लाभाय सारवद्भिरन्नविशेषैः इव आप्याययंति (*madhurasya stanyasya lābhāya sāravadbhirannaviśeṣaiḥ iva āpyāyayaṃti*). The meaning is that the Hotṛ and the others praise Indra, who bestows abundant favour, with praise and with oblation; it is likened to the way in the world one satisfies a woman with substantial food and the like in order to obtain sweet milk.
+
+##### Grammar
+
+- दाः — डुदाञ् दाने धातुः । छंदसिलुज्लज्लिटः (पा सू. ३-४-६) इति लोडर्थे लुज् । मध्यमपुरुषैकवचने सिप् । इतश्च इति इकारलोपः । च्लेः सिजादेशः । गातिस्थाघुपा-(पा. सू. २-४-७७) इति सिचो लुक् । बहुलं छंदस्यमाज्-(पा. सू ६-४-७७) इति अडागमो न भवति । निघातस्वरो भवति । **NOTE**
+- ओजिष्ठयाः — ओजस्शब्दात् मत्त्वर्थे विनि प्रत्ययः । तस्मादतिशयार्थे इष्ठन् प्रत्ययः । विन्‌मतोर्लुक् (पा सू. ५-३-६५) इति विनो लोपः । टेः (पा. सू. ६-४-१४३) इति टेर् (अस्) लोपः । स्त्रीत्वे टाप् । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरो भवति ।
+- रातिं — बहुलग्रहणसामर्थ्यात् कर्तरि क्तिन् प्रत्ययः । मंत्रेवृषेष- (पा. सू: ३-३-४६) इति स उदात्तो भवति ।
+- स्तुतः — ष्टुञ् स्तुतौ धातुः । क्विप् च (पा. सू. ३-२-७६) इति तस्मात् क्विप् प्रत्ययः । ह्रस्वस्य पितिकृति तुक् (पा. सू. ६-१-७१) इति धातोस्तुकागमः । प्रथमाबहुवचनांतरूपम् ।
+
+### Printed p. 162
+- चकनंत — कन दीप्ति कांतिगतिषु धातुः । ण्यंतात् लुज् । छांदसे प्रथमपुरुषबहुवचनस्य अंतादेशः । णिश्रिद्रुस्रु-(पा. सू. ३-१-४८) इति च्लेश्चज् । चज् (पा. सू. ६-१-११) इति धातोर्द्वित्वम् । कुहोश्चुः इत्यभ्यासस्य चकारादेशः । षेरनिटि (पा. सू. ६-४-५१) इति णिचो लोपः । संज्ञापूर्वको विधिरनित्यः इति वचनादभ्यासस्येत्वादयो न भवंति । छांदसे आडागमो न भवति । यद्वृत्तान्नित्यं (पा. सू. ८-१-६६) इति निघातप्रतिषेधो भवति । चज्जन्यतरस्यां (पा. सू. ६-१-२१८) इति चजः पूर्वस्योदात्तस्वरो भवति ।
+- वायोः — वा गतिगंधनयोः धातुः । कृवापा- (उ सू. १) इति उण् प्रत्ययः । आतो युक् चिञ् कृतोः इति युकागमः । प्रत्ययस्वरेण अंतोदात्तो भवति । कर्मार्थे षष्ठी आगता ।
+- मध्वः — जसादिषु छंदसि वावचनं इति वचनात् षष्ठ्येकवचने परे गुणादयो न भवंति । यणादेशः ।
+- पीपयंत — पा पाने धातुः । हेतुमति च इति णिच् । शाच्छासाह्वा- (पा. सू. ७-३-३७) इति युकागमः । ण्यंतात् छांदसे लुज् । च्लेश्चजादयः पूर्ववद्भवंति । अतिजंतस्य परत्वान्निघातस्वरो भवति । **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे राय॑ इंद्र तो॒शत॑माः प्रणे॒तारः॒ कस्य॑ चिदृता॒योः ।  
+> ते षु णो॑ म॒रुतो॑ मृळयंतु॒ ये स्मा॑ पु॒रा गा॑तू॒यंती॑व  ॒
+> देवाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वे इति । रायः । इंद्र । तोशतमाः । प्रनेतारः । कस्य । चित् । ऋत्ययोः ।  
+> ते । सु । नः । मरुतः । मृळयंतु । ये । स्म । पुरा । गातुयंति इव । देवाः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
+**Progress note:** Done through printed p. 162. pp. 157-162 (batch API)
