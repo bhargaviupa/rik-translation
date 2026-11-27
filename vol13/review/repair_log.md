@@ -2,3 +2,4 @@
 - 2026-11-27: Vol 13 w0073: 'your "ūti"s,' removed and '"vāja"s' replaced by the copy ⟦ವಾಜಾಃ⟧ from kn.md (Sanskrit typed in Latin letters).
 - 2026-11-27: Vol 13 w0175 (p. 175/176, Sūkta 170): the Saṃhitā block of Ṛk 1 had been placed under the sūkta heading with a placeholder remark; moved under the Ṛk 1 Saṃhitā label, remark removed (the supplied text has no Sāyaṇa introduction block of Sūkta 170 in these pages).
 - 2026-11-27: Vol 13 w0205: the Pāṇini sūtra number in a grammar line written ೬-೪-೧೬ corrected to ೬-೪-೧೪ as in the Kannada file.
+- 2026-11-27: Vol 13 w0223: the sūtra number written ೬-೧-೧೮೯ (from memory) set back to ೬-೧-೧೭೯ as the Kannada file prints it.

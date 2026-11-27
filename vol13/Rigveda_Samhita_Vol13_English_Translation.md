@@ -5615,6 +5615,167 @@ By the words सुदानवः अहिभानवः (*sudānavaḥ ahibh
 
 सुदानवः (*sudānavaḥ*)—शोभनदानाः (*śobhanadānāḥ*)! Indra and the others who give most generously, is the meaning. The word सुदानवः (*sudānavaḥ*) may also mean those full of sap or givers of sap. This word to the Maruts
 
+### Printed p. 229
+(Special Topics continues.) When the word सुदानवः (*sudānavaḥ*) is used as an epithet of the Maruts, it can in some places mean "givers of rasa", that is, those who pour down excellent rain-water. In
+पिन्वंत्यपो मरुतः सुदानवः पयो धृतवद्विदथेष्वाभुवः (*pinvaṃtyapo marutaḥ sudānavaḥ payo dhṛtavadvidatheṣvābhuvaḥ*) (Ṛ. Saṃ. 1-64-6)
+and in many similar places it is an epithet of the Maruts, and rain-water is prayed for from them. The Maruts also have the epithet जीरदानु (*jīradānu*). Whichever of these two meanings is taken, it shows the generosity of the deities. But the generosity indicated by the word सुदानवः (*sudānavaḥ*) need not be only the nature of Marut and the other deities; it may also be a quality of the sacrificers.
+
+इषं पृंचंता सुकृते सुदानव आ बर्हिः सीदतं नरा । (*iṣaṃ pṛṃcaṃtā sukṛte sudānava ā barhiḥ sīdataṃ narā |*) (Ṛ. Saṃ. 1-47-8)
+
+सेदग्ने अस्तु सुभगः सुदानुर्यस्त्वा नित्येन हविषा य उक्षैः । (*sedagne astu subhagaḥ sudānuryastvā nityena haviṣā ya ukṣaiḥ |*) (Ṛ. Saṃ. 4-4-2) (Ṛ. Saṃ. 4-4-7)
+
+In these and similar Ṛks the word is an epithet of the sacrificers, as excellent givers. In Ṛks such as 10-43-7 the word दानु (*dānu*) may also mean Soma-juice. Besides this,
+
+उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः । (*uttarā sūradharaḥ putra āsīddānuḥ śaye sahavatsā na dhenuḥ |*) (Ṛ. Saṃ. 1-32-9)
+
+सहदानुं पुरुहूत क्षियंतमहस्तमिंद्र सं पिणक्कुणारुं । (*sahadānuṃ puruhūta kṣiyaṃtamahastamiṃdra saṃ piṇakkuṇāruṃ |*) (Ṛ. Saṃ. 3-30-8)
+
+in these and similar Ṛks दानु (*dānu*) means the demoness, the mother of Vṛtra. But where सुदानवः (*sudānavaḥ*) stands, the meaning is "generous givers"; in the present Ṛk, as an epithet of the Maruts, it shows their generosity. A fuller account of this is given where the word जीरदानु (*jīradānu*) is explained in the Ṛk of Sūkta 173.
+
+युष्माकं संबंधी चित्रः स आगमः ऊती रक्षणाय इष्टतर्पणाय वा भवतु (*yuṣmākaṃ saṃbaṃdhī citraḥ sa āgamaḥ ūtī rakṣaṇāya iṣṭatarpaṇāya vā bhavatu*): the wish is expressed that your worthy coming may be for our protection, or for the fulfilment of our desire. From this it is understood that the Marut deities are prayed to come quickly and fulfil our wishes.
+
+ऊती—ऊत्यै रक्षणाय इष्टतर्पणाय वा (*ūtī—ūtyai rakṣaṇāya iṣṭatarpaṇāya vā*): the word ऊति (*ūti*) is explained by Yāska (ऊतिरवनात् (*ūtiravanāt*)) as formed from the root अव (*ava*), which conveys the sense "protect", so that ऊति (*ūti*) means protection. And,
+
+आ श्वा रथं यथोतये सुम्माय वर्तयामसि । तुविकूर्मिमृतीषहमिंद्र शविष्य सत्पथे ॥ ( (*ā śvā rathaṃ yathotaye summāya vartayāmasi | tuvikūrmimṛtīṣahamiṃdra śaviṣya satpathe ‖ (*) (Ṛ. Saṃ. 8-68-1)
+
+### Printed p. 230
+In this Ṛk it is explained that ऊतये (*ūtaye*) conveys the sense अवनाय रक्षणाय (*avanāya rakṣaṇāya*). Here, in the second meaning इष्टतर्पणाय वा (*iṣṭatarpaṇāya vā*), the manner of the protection is explained.
+
+अहिभानवः (*ahibhānavaḥ*)—Sāyaṇa explains this word as अहीयमानप्रकाशाः (*ahīyamānaprakāśāḥ*): those whose radiance does not diminish in the least and does not fade. But the English translators take the word अहि (*ahi*) to mean serpent, and so "shining like snakes". Their translation reads thus.
+O Maruts, you bounteous givers, shining like snakes.
+[S. B. E. XXXII. P. 293].
+Or, if अहि (*ahi*) is taken to mean cloud, then अहिभानवः (*ahibhānavaḥ*) can mean "having the radiance of the cloud, or of the lightning within the cloud". The author of the Nirukta, explaining the word अहिगोपाः (*ahigopāḥ*), says
+अहिगोपा अतिष्ठन् । अहिना गुप्ताः । अहिरयनादेत्यंतरिक्षे । (*ahigopā atiṣṭhan | ahinā guptāḥ | ahirayanādetyaṃtarikṣe |*) (Ni. 2-17).
+There he takes अहि (*ahi*) to mean cloud; so if अहि (*ahi*) is taken to mean cloud here also, it would not be wrong. For,
+
+ते क्षोणीभिररुणेभिर्नांजिभी रुद्रा ऋतस्य सदनेषु वावृथुः । निमेघमाना अत्येन पाजसा सुश्चंद्रं वर्णं दधिरे सुपेशसं ॥ (*te kṣoṇībhiraruṇebhirnāṃjibhī rudrā ṛtasya sadaneṣu vāvṛthuḥ | nimeghamānā atyena pājasā suścaṃdraṃ varṇaṃ dadhire supeśasaṃ ‖*) (Ṛ. Saṃ. 2-34-13)
+
+In this and similar Ṛks the Maruts' dwelling in the cloud, and their shining within the cloud with the lustre of gold, are described. Therefore the description of the epithet अहिभानवः (*ahibhānavaḥ*) in the present Ṛk is found in the Ṛk quoted above.
+
+##### Grammar
+
+- यामः — या प्रापणे धातुः । औणादिकः मन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति ।
+- ऊती — ऊतियूतिजूति — (पा सू. ३-३-९७) इति अव धातोः उदात्तः क्तिन् निपातितः । अस्मात् चतुर्थी एकवचने परे सुपां सुलुक् — (पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घः भवति ।
+
+### Printed p. 231
+- सुदानवः — शोभनः दानुः यस्य सः । संबोधने आमंत्रितनिघातस्वरः भवति ।
+- मरुतः — पादादित्वात् आमंत्रितनिघातस्वरः न भवति । आमंत्रितस्य (पा. सू. ६-१-१९८) इति आद्युदात्तस्वरः भवति ।
+- अहिभानवः — आमंत्रितं पूर्वमविद्यमानवत् इति पूर्वस्मिन् पदे विद्यमाने अपि तस्य अविद्यमानभावात् पदस्य परत्वाभावात् निघातस्वरः न भवति, पूर्ववत् आद्युदात्तस्वरः भवति । ॥ १ ॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒रे सा वः॑ सुदानवो॒ मरु॑त ऋंज॒ती शरुः॑ ।  
+> आ॒रे अश्मा॒ यमस्य॑थ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरे । सा । वः । सुदानवः । मरुतः । यंजती । शरुः ।  
+> आरे । अश्मा । यं । अस्यथ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः शोभनदाना मरुतः वो युष्माकं संबंधिन्यंजती
+> प्रसाधयंती स्वतेजसा स्वात्मानमलंकुर्वती प्रसिद्धिं प्राप्नुवाना ना सा प्रसिद्धा
+> तरुर्हिंसका ऋष्टिरारे दूरे भवतु । तथा यमस्यथ क्षिपथ सोऽश्मा व्यापक
+> आयुधविशेष आरे । दूरनामैतत् । दूरे भवतु । मां न प्राप्नोतु । यद्वा ।
+> आरेशब्द आराच्छब्दपर्यायः । स च दूरे समीपे च वर्तते । अत्र समीपवचनः ।
+> यमस्मत्तोऽन्यमस्यथ तं वैरिणमस्माकमुपलोपमः कठिन आयुधविशेष आरे
+> समीपं प्राप्नोतु ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, generous givers, may that famous destructive ṛṣṭi (shaft) of yours, which is ऋंजती (*ṛṃjatī*), that is, adorning itself with its own splendour and attaining fame, be far away." Likewise, the pervading, stone-hard special weapon which you hurl, अश्मा (*aśmā*), is to be far off; may it not reach me. Alternatively: the word आरे (*āre*) is a synonym of आरात् (*ārāt*), which is used both for far and for near; here it means near. The enemy other than ourselves at whom you hurl it: may the stone-hard weapon of ours reach near that enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—O you who are generous givers
+- मरुतः (*marutaḥ*)—O Marut deities
+- वः (*vaḥ*)—your
+- यंजती (*yaṃjatī*)—a mass of radiance
+- सा शरुः (*sā śaruḥ*)—that (famous) destructive weapon
+- आरे (*āre*)—far away (may it be)
+- यं (*yaṃ*)—which weapon
+- अस्यथ (*asyatha*)—you hurl (far)
+- अश्मा (*aśmā*)—(that) pervading weapon (the weapon hard like stone)
+
+### Printed p. 232
+- आरे (*āre*)—(very) far (from us) (may it be). [Or: यं (*yaṃ*)—which weapon; अस्यथ (*asyatha*)—you hurl (towards another, our enemy); (सः (*saḥ*)) अश्मा (*aśmā*)—that weapon hard like stone; आरे (*āre*)—(may it be) near (that enemy).]
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, generous givers, may your weapon, a mass of radiance and destructive, be very far from us; may that stone-like weapon hurled by you be very far (but may that weapon which you hurl come near our enemy).
+
+##### English translation (H. H. Wilson)
+Maruts, liberal benefactors, may your bright destructive (shaft) be
+far from us : may the stone which you hurl be far from us.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋंजती (*ṛṃjatī*)—प्रसाधयंती स्वतेजसा स्वात्मानमलंकुर्वती प्रसिद्धिं प्राप्नुवाना (*prasādhayaṃtī svatejasā svātmānamalaṃkurvatī prasiddhiṃ prāpnuvānā*). Here this word is used as an epithet of the word शरुः (*śaruḥ*), which denotes the weapon called ṛṣṭi belonging to the Maruts. The author of the Nirukta, explaining that the word ऋंजति (*ṛṃjati*) is used in the sense "to adorn", says ऋंजतिः प्रसाधनकर्मा (*ṛṃjatiḥ prasādhanakarmā*) (Ni. 6-21) and shows its use in the Ṛk
+दूतं वो विश्ववेदसं हव्यवाहममर्त्यं । यजिष्यमृंजसे गिरा ॥ (*dūtaṃ vo viśvavedasaṃ havyavāhamamartyaṃ | yajiṣyamṛṃjase girā ‖*) (Ṛ. Saṃ. 4-2-5).
+Sāyaṇa addresses the Maruts as सुदानवः मरुतः (*sudānavaḥ marutaḥ*), givers of many excellent things. Explaining that their weapon called ṛṣṭi shines with its own radiance, or is famous for destroying enemies, he expresses the wish that although that weapon is destructive towards enemies, the शरुः (*śaruḥ*) may be आरे (*āre*), far, with regard to us, the sacrificers.
+आरे आश्मा यमस्यथ (*āre āśmā yamasyatha*)—व्यापकः आयुधविशेषः दूरे भवतु मां न प्राप्नोतु (*vyāpakaḥ āyudhaviśeṣaḥ dūre bhavatu māṃ na prāpnotu*): he says (taking आरे (*āre*) to mean far) that their weapon, sent out for subduing, should be far from us (since we are not their enemies). In the second meaning: आरे शब्दः आराच्छब्धपर्यायः स च दूरे समीपे च वर्तते। (*āre śabdaḥ ārācchabdhaparyāyaḥ sa ca dūre samīpe ca vartate|*) Since the word आरे (*āre*) is a synonym of the word आरात् (*ārāt*), it conveys both meanings, far or near. Explaining that here it conveys the meaning near, he says *asmatto anyaṃ yaṃ vairiṇaṃ
+
+### Printed p. 233
+asyatha asmākamupaloṣamaḥ kaṭhinaḥ āyudhaviśeṣaḥ taṃ vairiṇaṃ samīpaṃ prāpnotu*: the wish is expressed that the weapon which the Maruts hurl at enemies other than ourselves, the sacrificing yajamānas, although it is hard as stone to us, may reach those enemies and destroy them. The word आरे (*āre*) is listed among the names for "far" (Ni. 3-20). Here Sāyaṇa explains it as a synonym of the word आरात् (*ārāt*) and describes a usage in the sense far or near.
+
+##### Grammar
+
+- ऋंजती — ऋंज् धातुः अलंकारार्थे प्रयुक्तः । लटः शत्रादेशः । स्त्रीविवक्षायां उगितश्च इति ङीप् । नुम् रहितस्य शतृः परे ङीप् आगतत्वात् शतुरनुमोनद्यजादी (पा. सू. ६-१ १७३) इति तस्य उदात्तत्वं भवति । **NOTE**
+- शरुः — शृ हिंसायां धातुः । शृणाति इति शरुः । श्य स्वस्निहि — (उ सू. १०) इति उन् प्रत्ययः । तं निमित्तीकृत्य धातोः इक्कस्य गुणः । रपरत्वं भवति । **NOTE**
+- अश्मा — अशू व्याप्तौ धातुः । अशिकभ्यां छंदसि (उ. सू. ५८६) इति मनिन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । **NOTE**
+- अस्यथ — असु क्षेपणे धातुः । लट् मध्यमपुरुषबहुवचनांतरूपं । यच्छब्दसंबंधत्वात् निघातस्वरः न भवति । लसार्वधातुकं तास्यनुदात्तेत् — (पा. सू. ६-१ १८६) इति अनुदात्तं भवति । श्यन् नित्त्वात् आद्युदात्तस्वरः भवति । ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तृ॒ण॒स्कं॒दस्य॒ नु विशः॒ परि॑ वृंक्त सुदानवः ।  
+> ऊ॒र्ध्वान्नः॑ कर्त जी॒वसे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तृणस्कंदस्य । नु । विशः । परि । वृंक्त । सुदानवः ।  
+> ऊर्ध्वान् । नः । कर्त । जीवसे ॥ ३ ॥
+
+### Printed p. 234
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः सुदानवः शोभनदानाः यूयं तृणस्कंदस्य तृणवच्चलनस्वभावस्य
+> शुष्यमाणस्य वा मम विशः पुत्रभृत्यादिरूपाः प्रजा नु क्षिप्रं परि वृंक्त । परिवर्जयत । बाधापरिहारेण रक्षत । यद्वा । उक्तलक्षणकालस्यासुरविशेषस्य वा प्रजाः
+> परिवर्जयत । किंच नोऽस्मानूर्ध्वान् कर्त । कुरुत । जीवसे चिरजीवनाय ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, generous givers, quickly परि वृंक्त (*pari vṛṃkta*), that is, avoid, protect by warding off trouble, my विशः (*viśaḥ*), my people in the form of sons, servants and so on—mine, who am तृणस्कंद (*tṛṇaskaṃda*), of a nature that moves like a blade of grass, or who am withering." Alternatively: avoid (that is, set aside) the people of the Asura so named, of the kind described. And ऊर्ध्वान्नः कर्त (*ūrdhvānnaḥ karta*): make us upright, for long life (जीवसे (*jīvase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे (*he*)) सुदानवः (*sudānavaḥ*)—O generous Marut deities (you)
+- तृणस्कंदस्य (*tṛṇaskaṃdasya*)—of (me) who am like grass, of fickle nature, or who am withering
+- विशः (*viśaḥ*)—the sons, servants and so on
+- नु (*nu*)—quickly
+- परि वृंक्त (*pari vṛṃkta*)—protect, warding off trouble. [Or तृणस्कंदस्य (*tṛṇaskaṃdasya*)—of the Asura named Tṛṇaskanda; विशः (*viśaḥ*)—the sons, servants and so on (the worlds); नु (*nu*)—quickly; परि वृंक्त (*pari vṛṃkta*)—destroy.]
+- (किंच (*kiṃca*)—and) नः (*naḥ*)—us
+- जीवसे (*jīvase*)—in order to live (long)
+- ऊर्ध्वान् (*ūrdhvān*)—as superior ones
+- कर्त (*karta*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O generous Marut deities, protect my people, sons, servants and others, who am like grass (fickle like grass), warding off their troubles, and make us excellent beings, so that we may live long.
+
+##### English translation (H. H. Wilson)
+Maruts, liberal benefactors, protect my people, (although I be) as
+insignificant as grass : lift us up, that we may live
+
+##### विशेषविषयगळु (Special Topics)
+
+तृणस्कंदस्य नु विशः परि वृंक्त सुदानवः । ऊर्ध्वान्नः कर्त जीवसे ॥ ३ ॥ तृणस्कंदस्य । नु । विशः । परि । वृंक्त । सुदानवः । ऊर्ध्वान् । नः । कर्त । जीवसे ॥ ३ ॥ हे मरुतः सुदानवः शोभनदानाः यूयं तृणस्कंदस्य तृणवच्चलनस्वभावस्य शुष्यमाणस्य वा (*tṛṇaskaṃdasya nu viśaḥ pari vṛṃkta sudānavaḥ | ūrdhvānnaḥ karta jīvase ‖ 3 ‖ tṛṇaskaṃdasya | nu | viśaḥ | pari | vṛṃkta | sudānavaḥ | ūrdhvān | naḥ | karta | jīvase ‖ 3 ‖ he marutaḥ sudānavaḥ śobhanadānāḥ yūyaṃ tṛṇaskaṃdasya tṛṇavaccalanasvabhāvasya śuṣyamāṇasya vā*)—Since this word is used as an epithet of the word मम (*mama*), which denotes the yajamāna, it is described that the yajamāna is of a nature to move like a blade of grass, and is withering. Sāyaṇa also states that it may be a proper name. Since he says उक्तलक्षणकालस्य असुरविशेषस्य वा (*uktalakṣaṇakālasya asuraviśeṣasya vā*), it can also be understood as the Asura Tṛṇaskanda. Then *Tṛṇaskanda* would indicate the quality of one who moves hidden, concealed within the cloud. The word तृण (*tṛṇa*) means cloud. The dense cloud is rubbed and split, and thereafter rain falls. Durgācārya explains that the cloud is called तृण (*tṛṇa*) because it is rubbed and split, being formed from the root तृद् (*tṛd*), which gives the sense "split": तृद्यतेऽसाविति तृणः (*tṛdyate 'sāviti tṛṇaḥ*). And तृंद्यात् तृणं (*tṛṃdyāt tṛṇaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 228. pp. 223-228 (batch API), sūtra number as in the Kannada
+**Progress note:** Done through printed p. 234. pp. 229-234 (batch API)
