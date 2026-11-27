@@ -8160,6 +8160,160 @@ and shows that the name Arjuna for Indra is well known in the Śruti and elsewhe
 इंद्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहारिष्टोर्जुन इति । (*iṃdro bhavati yacca kṣatriyo yadu ca yajamānastasmādāhāriṣṭorjuna iti |*) (Śa. Brā. 5-4-3-7)
 The Phalgunīs are Indra's constellations, and there is agreement in the name: Indra is called Arjuna, and the Phalgunīs are called Arjunīs. Since the Śatapatha-Brāhmaṇa and other places say this, it is understood that Kutsa may be called in two ways, son of Indra or son of Arjunī.
 
+### Printed p. 337
+In the passage
+
+कुत्साय यत्र पुरुहूत वन्वङ्ष्ण मनंतैः परियासि वध्यैः । (*kutsāya yatra puruhūta vanvaṅṣṇa manaṃtaiḥ pariyāsi vadhyaiḥ |*)
+(Ṛ. Saṃ. 1-121-9)
+
+and likewise in Ṛk verses such as Ṛ. Saṃ. 1-63-3 and 1-175-4, it is said that Indra helped Kutsa and killed Kṛṣṇa. And further:
+
+अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं ॥ (*ahaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ ‖*)
+(Ṛ. Saṃ. 10-49-4)
+
+In such places Indra declares of himself: "For Kutsa's sake I overcame many enemies — Vetasu, Tugra, Smadibha and others." But in
+
+त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने आरंधनायः । (*tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne āraṃdhanāyaḥ |*)
+(Ṛ. Saṃ. 1-53-10)
+
+य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवे दिवे ॥ (*ya āyuṃ kutsamatithigvamardayo vāvṛdhāno dive dive ‖*)
+(Ṛ. Saṃ. 8-53-2)
+
+and similar Ṛk verses, Indra is also described as having defeated Kutsa and others. Concerning this person, the scholar Keith has said in his book *Religion and Philosophy of the Vedas*:
+
+##### English translation (H. H. Wilson)
+His chief rival is Kutsa, who appears as battling against him, and as victor by the aid of Indra, who. for his sake tore from the Sun a wheel, prolonging the daylight and thus enabling, it may be assumed, Kutsa to turn the issue of battle. The feat of Indra is several times mentioned and the fact that Kutsa is a real hero is suggested, though not proved, by the fact that elsewhere he appears in hostile relation to Indra, just as Athithigva, who is normally the protege of Indra, in one or two places appears in the reverse relation. It is true that it is not to be expected that a God, or a hero of divine dimensions, would be thus placed in opposition to the God, though,as the God is the uncertain Indra, the argument is by no means conclusive. Kutsa, in the case of his real personality must be a king, and this is not inconsistent with his being called a seer : royal seers are not unknown :
+(Harward Oriental Series. Vol. 31. p. 130),
+
+##### विशेषविषयगळु (Special Topics)
+
+These sentences tell both that Indra acted against Kutsa and that he helped Kutsa. It is also suggested that, to help Kutsa, he took the Sun's wheel in his hand and secured victory for Kutsa.
+
+### Printed p. 338
+There is a story about Indra defeating an enemy by using the Sun's wheel.
+
+केचन असुराः इंद्रस्य वज्रायुधेन अस्माकं वधो मा भूदिति ब्रह्मणा वरं लब्ध्वा इंद्रं अगणय्य उद्वृत्ताः स्थिताः । तान् हंतुमिंद्रः सूररथस्य चक्रं आदाय अवधीत् । (*kecana asurāḥ iṃdrasya vajrāyudhena asmākaṃ vadho mā bhūditi brahmaṇā varaṃ labdhvā iṃdraṃ agaṇayya udvṛttāḥ sthitāḥ | tān haṃtumiṃdraḥ sūrarathasya cakraṃ ādāya avadhīt |*)
+
+Some Asuras, having obtained from Brahmā the boon that they should not die by Indra's thunderbolt, disregarded Indra and behaved wickedly. Then Indra made the wheel of the Sun's chariot itself his weapon and destroyed them all — such is the tradition.
+
+अथवा इंद्र एव द्युःस्थानस्सन् आदित्यात्मना स्तूयते (*athavā iṃdra eva dyuḥsthānassan ādityātmanā stūyate*) — it may also be said that Indra himself, dwelling in the heavenly region, is praised in the form of the Āditya (Sun). Sāyaṇa, stating this same point elsewhere, says:
+
+सूरः सूर्यः जातः उदितःसन् ओजसा स्वकीयेन तेजसा युक्तः तमोनिवारणार्थं असुरजयाय वा चक्रोपलक्षितं रथं प्रकर्षेण उद्यतं करोति । ततः पूर्वमरुणः तद्रथयंता मंदेहाद्यसुराणां समीपे वाचं तेषां जहि, भिंदि इत्यादि ध्वनिं मुषायति । (*sūraḥ sūryaḥ jātaḥ uditaḥsan ojasā svakīyena tejasā yuktaḥ tamonivāraṇārthaṃ asurajayāya vā cakropalakṣitaṃ rathaṃ prakarṣeṇa udyataṃ karoti | tataḥ pūrvamaruṇaḥ tadrathayaṃtā maṃdehādyasurāṇāṃ samīpe vācaṃ teṣāṃ jahi, bhiṃdi ityādi dhvaniṃ muṣāyati |*)
+(Sā. Bhā.)
+
+As soon as the Sun has risen, endowed with his own radiance, he sets his chariot, marked by the wheel-weapon, moving vigorously, in order to dispel the darkness or to conquer the Asuras. Before this, Aruṇa, the charioteer who drives this chariot, brings the Sun's chariot near the host of demons known as Mandeha and silences them, so that the words they might utter in battle, such as "cut" and "strike", do not come out of their mouths. The Nirukta-author, quoting the Ṛk
+
+यदुदंचो वृषाकपे गृहमिंद्राजगंतन । क्वंस्य पुल्वघो मृगः कमगञ्जनयोपनो विश्वस्मादिंद्र उत्तरः ॥ (*yadudaṃco vṛṣākape gṛhamiṃdrājagaṃtana | kvaṃsya pulvagho mṛgaḥ kamagañjanayopano viśvasmādiṃdra uttaraḥ ‖*)
+(Ṛ. Saṃ. 10-86-22)
+
+says तमगमद्देशं जनयोपनः सर्वस्माद्य उत्तरत्तमेतद्रूम आदित्यं । (*tamagamaddeśaṃ janayopanaḥ sarvasmādya uttarattametadrūma ādityaṃ |*) Indra is invisible. People, through the knowledge of the Āditya's rising and setting, are deluded into thinking Indra and Āditya are different. But this is not true knowledge. Among the gods
+
+### Printed p. 339
+Indra is the greatest; it is explained that Indra himself is the one who exists in the form of Āditya. This same identity of Indra and Āditya, and their unity of action, are described in many places in the Ṛk-saṃhitā and in the Śatapatha and other Brāhmaṇas (Śa. Brā. 3-4-2-15 etc.).
+
+स्यूमन्यू (*syūmanyū*)—this word is used as an epithet of the word अश्नौ (*aśnau*). The Nirukta-author explains that the word स्यूमकम् (*syūmakam*) is read among the names of happiness (Ni. 2-13). Sāyaṇa comments तदिच्छंतौ सततगामिनौ वा (*tadicchaṃtau satatagāminau vā*), giving the meaning "those desiring happiness, or those constantly moving". The horses of the seer Kutsa, being ऋज्रा (*ṛjrā*) (moving by a straight path) and वातस्य (*vātasya*) (equal in speed to the wind's speed), he explains thus: कुत्सं वह (*kutsaṃ vaha*) — convey the seer renowned as Kutsa, make him set out and send him; the seer's command (or request) is thus described as addressed to Indra. But since this meaning does not fit well, and the meaning of the following sentences too is not clear:
+
+यस्मिन् चाकन् (*yasmin cākan*)—हविसि निमित्तभूते सति कुत्सं कामयसे तर्पयसे वा । (*havisi nimittabhūte sati kutsaṃ kāmayase tarpayase vā |*) The meaning is given as: Indra desires Kutsa because he offers oblations to him, or Indra satisfies the seer Kutsa so that the oblations may reach him.
+
+Yāska:
+
+वने न वा यो न्यधायि चाकञ्चुचिर्वा स्तोमो भुरणावजीगः । यस्येदिंद्रः पुरुदिनेषु होता नृणां नर्यो नृतमः क्षपावान् ॥ (*vane na vā yo nyadhāyi cākañcucirvā stomo bhuraṇāvajīgaḥ | yasyediṃdraḥ purudineṣu hotā nṛṇāṃ naryo nṛtamaḥ kṣapāvān ‖*)
+(Ṛ. Saṃ. 10-29-1).
+
+Having quoted this Ṛk, he explains चाकन् जायन्निति वा, कामयमान इति वा (*cākan jāyanniti vā, kāmayamāna iti vā*). Durgācārya gives the meaning चायन् पश्यन्, भूयात् दिशो निरीक्षमाणः, अथवा तदुत्सुकमनाः (*cāyan paśyan, bhūyāt diśo nirīkṣamāṇaḥ, athavā tadutsukamanāḥ*).
+
+सूरः अभीके चक्रं बृहतात् (*sūraḥ abhīke cakraṃ bṛhatāt*)—the word अभीकॆ (*abhīkè*) is not read among the names of "near" (āsanna/antika), yet it is used in the sense "near" in प्रपित्वे अभीक इत्यासन्नस्य अभीकॆ अभ्यक्ते (*prapitve abhīka ityāsannasya abhīkè abhyakte*) (Ni. 3-20). Sāyaṇa gives the meaning अभीकॆ आसन्न देशे (*abhīkè āsanna deśe*). The word सूर (*sūra*) is explained as the Sun, the impeller. It is described that here the seer's words, spoken to Indra, are cited: "For the coming of the seer Kutsa, let the Sun make either his disc or the wheel of his chariot shine near, close to the sacrificial hall (in the upper region)."
+
+### Printed p. 340
+वज्रबाहुः स्पृधः अभियासिषत् (*vajrabāhuḥ spṛdhaḥ abhiyāsiṣat*)—the word स्पृधः (*spṛdhaḥ*) is read among the names of battle (Ni. 3-9). The wish is expressed that Indra, bearing the thunderbolt, may fight against the enemies in battles.
+
+वज्रः कस्मात् वर्जयतीति सतः । (*vajraḥ kasmāt varjayatīti sataḥ |*) Because it separates living beings from their breaths, it is called vajra (Ni. 3-11). The greatness of this weapon, and how Indra obtained it, are described in various ways in various places.
+
+अस्मा इदु त्वष्टा तक्षद्वज्रं स्वपस्तमं स्वयं १ रसाय । (*asmā idu tvaṣṭā takṣadvajraṃ svapastamaṃ svayaṃ 1 rasāya |*)
+(Ṛ. Saṃ. 1-1-6)
+
+अनवस्ते रथमश्वाय तक्षन्त्वष्टा वज्रं पुरुहूत द्युमंतं । (*anavaste rathamaśvāya takṣantvaṣṭā vajraṃ puruhūta dyumaṃtaṃ |*)
+(Ṛ. Saṃ. 5-31-4)
+
+In many Ṛk verses like these it is described that Tvaṣṭṛ prepared a radiant thunderbolt for Indra. Moreover:
+
+यं ते काव्य उतना मंदिनं दाद्वृत्रहणं पार्यं ततक्ष वज्रं । (*yaṃ te kāvya utanā maṃdinaṃ dādvṛtrahaṇaṃ pāryaṃ tatakṣa vajraṃ |*)
+(Ṛ. Saṃ. 1-12-12)
+
+In such Ṛk verses it is said that this was given to Indra by Kāvya Uśanas.
+
+समुद्रे अंतः तयत उद्ना वज्रो अभीवृतः । भरंत्यस्मै संयतः पुरःप्रस्रवणा बलिं ॥ (*samudre aṃtaḥ tayata udnā vajro abhīvṛtaḥ | bharaṃtyasmai saṃyataḥ puraḥprasravaṇā baliṃ ‖*)
+(Ṛ. Saṃ. 8-100-9)
+
+In these and similar places the nature and power of the thunderbolt are described. The power of the thunderbolt is told thus: it lies within the sea, covered with water and dormant, and as soon as it comes to the battlefield, enemies offer their very lives to it as tribute on the field.
+
+##### Grammar
+
+- वह—वह प्रापणे । धातुः । अंतर्भावितण्यर्थकः । लोट् मध्यमपुरुष एकवचनांतरूपं । पादादित्वान्निघातस्वरो न भवति । धातुस्वरः अवशिष्यते ।
+- चाकन्—चक तृप्तौ । धातुः णिजंतात् लटः शत्रादेशः । छंदस्युभयथा (पा. सू. ३-४-११७) इति तस्यार्धधातुकसंज्ञात्वात् शेरनिटि इति णिचो लोपः । शप् विकरणमपि न भवति । प्रत्ययस्वरेण अंतोदात्तस्वरो भवति ।
+- स्यूमन्यू—स्यूमकं आत्मनः इच्छंतौ । इच्छार्थे क्यच् आगते क्याच्छंदसि (पा. सू. ३-२-१७०) इति उ प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+
+### Printed p. 341
+- ऋज्रा—ऋज गतिस्थानादिषु । धातुः । ऋज्रेंद्र— (उ. सू. २-१८६) इति र गंतत्वेन निपातितः । सुपां सुलुक्—(पा. सू. ७-१-३९) इति द्विवचनस्य (औ) आकारादेशो भवति । अश्वा इत्यत्रापि एवमेव आकारादेशः ।
+- वृहताक्—वृहू उद्यमने । धातुः । तुदादिः । लोट् प्रथमपुरुष एकवचनांतरूपं । विकरणस्य जित्वातिदेशत्वात् लघोपधगुणो न भवति । तिजंतनिघातस्वरो भवति ।
+- स्पृधः—स्पर्ध संघर्षे । स्पर्धंते इति स्पृधः क्विप् च (पा. सू. ३-२-७६) इति क्विप् प्रत्ययः । बहुलं छंदसि इति धातो रेफस्य संप्रसारणं । ऋकारः । अकारलोपः । द्वितीयाबहुवचनांतरूपं ।
+- यासिषत्—या प्रापणे । धातुः । छंदसिलुज् लज्—(पा. सू. ३-४-६) इति लोडर्थे लुज् । प्रथमपुरुष एकवचने तिप् प्रत्ययः । इतश्च इति इकारलोपः । च्लेः सिचादेशः । यमरमनमातां सक् च (पा. सू. ७-२-७३) इति धातोः सकागमः, परस्य सिचः इडागमः । व्यत्ययेन प्रत्ययस्य अडागमः । तिजंतनिघातस्वरो भवति । **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒घ॒न्वा इं॑द्र मि॒त्रेरू॑ञ्चो॒दप्र॑वृद्धो हरिवो॒ अदा॑शून् ।  
+> प्र ये पश्य॑न्नर्य॒मणं॒ सचा॒योस्त्वया॑ शू॒र्ता वह॑माना॒  ॑
+> अपत्यं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जघन्वान् । इंद्र । मित्रेरून् । चोदप्रवृद्धः । हरिणः । अदातून् ।  
+> प्र । ये । पश्यन् । अर्यमणं । सचा । आयोः । त्वया । शूर्ताः । वहमानाः ।  
+> अहत्यं ॥ ६ ॥
+
+### Printed p. 342
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हरिवः हरिभ्यां तद्वन् त्वं चोदप्रवृद्धश्चोदनैः स्तोत्रैः
+> प्रवृद्धः सन्नदाशूनदात्मन मित्रेरून्नित्राणां यजमानानामीरयित्यन्बाधकान्
+> तद्वैरिणां मित्रत्वं गच्छतो ना जघन्वान् । हतवानसि । किंच येऽर्यमणं
+> वातारं त्वां प्र प्रत्यन् पश्यंति ते नरा आयोर्मनुष्यस्याध्वयार्वादेर्हविलक्षणान्नस्य वासच्चासह शूर्ताः क्षिप्रा हविष्पदानेन त्वयापत्यं कुलस्यापातयितारं
+> पुत्रं वहमाना ये संति ते प्र पश्यन् । यद्वा । येऽर्यमणं त्वां पश्यंति
+> त एवं भवंति । यद्वा । ये नरा अर्यमणं यं कंचिद्दातारं पश्यन्
+> पश्यंतस्त्वामयजंत आयोर्मनुष्यस्य सचा सहायभूतास्तया शूर्ताः क्षिप्ता
+> वर्णिता अपत्यं पुत्रं वहमाना ये संति तान् जघन्वान्भवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, हरिवः (*harivaḥ*), possessing the two bay horses, you, grown strong through our urging praises, have slain the non-giving अदाशून् (*adāśūn*) and the मित्रेरून् (*mitrerūn*) — those who injure the sacrificers, who are friends, or who bring about friendship with their enemies." Further: those men who look upon you, अर्यमणं (*aryamaṇaṃ*) (the giver), as a friend, together with the आयोः (*āyoḥ*) (the man, the adhvaryu and others) or with the sacrificial food, शूर्ताः (*śūrtāḥ*) (quickly, by offering oblations), through you obtain a son, a preserver of the family (अपत्यं (*apatyaṃ*)) — they look upon you with favour. Alternatively: those who look upon you as the giver, they become thus. Or again: those men who, seeing some other giver, do not worship you, being helpers of a man, and are cast down (शूर्ताः (*śūrtāḥ*)) by you and are bearing a son — be the slayer of those. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- हरिवः (*harivaḥ*)—you who have the two horses named Hari
+- चोदप्रवृद्धः (*codapravṛddhaḥ*)—grown strong by our praise
+- अदाशून् (*adāśūn*)—those who make no gifts of oblations and the like (and)
+- मित्रेरून् (*mitrerūn*)—those who injure the sacrificers who are friends, or those who have fostered friendship with the sacrificers' enemies
+- जघन्वान् (*jaghanvān*)—you slay
+- (Kiñca—and)
+- ये (*ye*)—who
+- अर्यमणं (*aryamaṇaṃ*)—you, the giver
+- प्र पश्यन् (*pra paśyan*)—look upon (as a friend; regard)
+- ते (*te*)—those men
+- आयोः सचा (*āyoḥ sacā*)—together with the man (the adhvaryu and others) or with the sacrificial food
+- तूर्ताः (*tūrtāḥ*)—quickly (through oblation-offering and so on)
+- त्वया (*tvayā*)—by you
+- अपत्यं (*apatyaṃ*)—a son
+- वहमानाः (संति) (*vahamānāḥ (saṃti)*)—become obtainers
+- [Or ये (*ye*)—which men; अर्यमणं (*aryamaṇaṃ*)—some giver; प्र पश्यन् (*pra paśyan*)—having seen (and not worshipping you); आयोः सचा (*āyoḥ sacā*)—being helpers of a man; त्वया (*tvayā*)—by you; शूर्ताः (*śūrtāḥ*)—cast down (driven away); अपत्यं (*apatyaṃ*)—a son; वहमानाः (संति) (*vahamānāḥ (saṃti)*)—who become obtainers. (तान् जघन्वान् भव (*tān jaghanvān bhava*)—be the slayer of such)]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who possess the horses named Hari, pleased by our praise, be the slayer of those who do not offer oblations and the like and of those who injure the sacrificers; and, to those who regard you, the giver, alone as protector, who, accompanied by the adhvaryu and others, offer oblations and the like to you, grant offspring. (Or: destroy those who, relying on some other giver, are helpers of men, do not worship you, and are endowed with sons and the like.)
+
 ---
 
-**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
+**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
