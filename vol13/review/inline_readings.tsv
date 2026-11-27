@@ -1,0 +1,204 @@
+window	as the translator wrote it (often the expected Sanskrit)	as the supplied text has it (used in the book)	similarity
+w0001	ಏಧ	(not in the supplied text of this window: given in transliteration only)	
+w0013	ರಜಸ್	ಜಸ್	0.86
+w0019	ಆವ್ಯತ	ಆ ಅವ್ಯತ—	0.91
+w0031	ಅನಾತೃಣಾಸಃ	ಅನಾತೃಣಾಸ	0.94
+w0037	ಸ್ಥಿರತೇಃ	(not in the supplied text of this window: given in transliteration only)	
+w0049	ಆಸ್ಯೈಃ	(not in the supplied text of this window: given in transliteration only)	
+w0055	ವೃತಂ	(not in the supplied text of this window: given in transliteration only)	
+w0061	(ಕಿಂಚ)	(not in the supplied text of this window: given in transliteration only)	
+w0073	ಇಂದವೇ ದ್ರವತೀತಿ ವಾ	ಇಂದವೇ ದ್ರವತೀತಿ ನಾ	0.93
+w0073	ಇಂಧೇ ಭೂತಾನೀತಿ ವಾ	ಇಂಥೇ ಭೂತಾನೀತಿ ವಾ	0.93
+w0073	ಇದಂ ದರ್ಶನಾದಿತ್ಯೌಪಮನ್ಯವಃ	ಇದಂ ದರ್ಶನಾದಿತ್ಯಾಪಮನ್ಯವಃ	0.95
+w0073	ಮಿತರಾನಿಣೋ ವಾ ಮಿತರೋಚಿನೋ ವಾ ಮಹತ್ ದ್ರವಂತೀತಿ ವಾ	ಮಿತರಾನಿಣೋ ವಾ, ಮಿತರೋಚಿನೋ, ವಾ ಮಹತ್ ದ್ರವಂತೀತಿ ನಾ	0.95
+w0073	ಏತನ್ನಾಮಕಾಃ ಉತ್ಕೃಷ್ಟಾಃ ಅಶ್ವಾಃ ಸಮುದ್ರಸ್ಯಾಪಿ ಪರಸ್ಮಿಂಸ್ತೀರೇ ಧನಧಾರಣಂ ವಹನಂ ಕುರ್ವಂತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0073	rāyas	*rāyas*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0079	ನೇತಿ ಪ್ರತಿಷೇಧಾರ್ಥೀಯೋ ಭಾಷಾಯಾಂ ಉಭಯಮನ್ವಧ್ಯಾಯಂ	ನೇತಿ ಪ್ರತಿಷೇಧಾರ್ಥಿಯೋ ಭಾಷಾಯಾಂ ಉಭಯಮನ್ವಧ್ಯಾಯಂ	0.97
+w0079	ಸಾ ಯಥಾ ಸುವೇಷಾ ಅಂತಃಪುರ ಏವ ಮಧ್ಯೇ ಚರತಿ	ಸಾ ಯಥಾ ಸುವೇಷಾ ಅಂತಃಪುರ ಏವ ಮಧ್ಯೆ ಚರತಿ	0.97
+w0079	ಪ್ರಚೋದಯ	ಪ್ರಚೋದರ್ಯ	0.88
+w0079	ಅಂಚಂತೀ	(not in the supplied text of this window: given in transliteration only)	
+w0079	ಹೋತಾ ದೇವೋ ಅಮರ್ತ್ಯಃ	(not in the supplied text of this window: given in transliteration only)	
+w0079	ಅಯಾಸಃ	(not in the supplied text of this window: given in transliteration only)	
+w0085	ನಭಸ್	ನಭಸ	0.86
+w0085	ಜುಷ್	(not in the supplied text of this window: given in transliteration only)	
+w0097	(ಯದಾ)	(not in the supplied text of this window: given in transliteration only)	
+w0097	ācāryaś cid	ಆಚಾರ್ಯಶ್ಚಿದ್	quoted IAST replaced by the matching words of kn.md
+w0097	kulmāṣāṃś cid	ಕುಲ್ಮಾಷಾಂಶ್ಚಿದ್	quoted IAST replaced by the matching words of kn.md
+w0103	ಸಹ ಮರ್ಯಾಃ ಮರ್ತ್ಯಾಃ ಋತ್ವಿಜಃ ಯಸ್ಮಿನ್ ಸ ಸಮರ್ಯೋ ಯಜ್ಞಃ ತಸ್ಮಿನ್ । ಸಂಗ್ರಾಮೇ ವಾ	ಸಹ ಮರ್ಯಾಃ ಮರ್ತ್ಯಾಃ ಋತ್ವಿಜಃ ಯಸ್ಮಿನ್ ಸ ಸಮರ್ಯೋ ಯಜ್ಞಃ ತಸ್ಮಿನ್ । ಸಂಗ್ರಾಮೇ	0.98
+w0103	ದ್ಯೂನ್ ಅನು	(not in the supplied text of this window: given in transliteration only)	
+w0109	ಆ ಯಾಸೀಷ್ಟ	ಯಾಸೀಷ್ಟ	0.93
+w0109	ಆ ವವೃತ್ಯಾಂ	ವವೃತ್ಯಾಂ	0.94
+w0109	ತುರ್ವಣಿಸ್ತೂರ್ಣವನಿಃ	(not in the supplied text of this window: given in transliteration only)	
+w0109	Purā mahi naḥ	ಪುರಾ ಮಹಿ ನಃ	quoted IAST replaced by the matching words of kn.md
+w0109	Naḥ ṛbhukṣāḥ anu syāt	ನಃ ಋಭುಕ್ಷಾಃ ಅನು ಸ್ಯಾತ್	quoted IAST replaced by the matching words of kn.md
+w0109	Eṣa	ಏಷ	quoted IAST replaced by the matching words of kn.md
+w0109	Eṣa stomaḥ vaḥ	ಏಷಃ ಸ್ತೋಮಃ ವಃ	quoted IAST replaced by the matching words of kn.md
+w0109	Iyaṃ gīḥ	ಇಯಂ ಗೀಃ	quoted IAST replaced by the matching words of kn.md
+w0109	Yajñāyajñā	ಯಜ್ಞಾಯಜ್ಞಾ	quoted IAST replaced by the matching words of kn.md
+w0109	Yajñāyajñā	ಯಜ್ಞಾಯಜ್ಞಾ	quoted IAST replaced by the matching words of kn.md
+w0109	kṣayati	*kṣayati*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0109	Māndāryasya	*Māndāryasya*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0115	ವವ್ರಿರಿತಿ ರೂಪನಾಮ ರೂಪವಂತ ಇವ ತೇ ಯಥಾ ಪ್ರಕೃಷ್ಟಾ ಲಕ್ಷ್ಯಂತೇ ತದ್ವತ್ । ಯದ್ವಾ ಆರೂಪಾ ಅಪಿ ಸರೂಪಾ ಇವ ।	ನ-ವವ್ರಿತಿ ರೂಪನಾಮ ರೂಪವಂತ ಇವ ತೇ ಯಥಾ ಪ್ರಕೃಷ್ಟಾ ಲಕ್ಷ್ಯಂತೇ ತದ್ವತ್ । ಯದ್ವಾ ಆರೂಪಾ ಅಪಿ ಸರೂಪಾ ಇವ	0.98
+w0115	O Vāyu, beautiful to see		quoted IAST not in kn.md: parenthesis left out
+w0121	ಯಜ್ಞೇ ಆಹೂತಾಃ ತೃಪ್ತಾವಯವಾಃ ಭವಂತಿ ಮರುತಃ ಧ್ಯಾಯಮಾನಾಃ ಸಂತಃ ಹೃತ್ಸು ಹೃದಯೇಷು ಪರಿಚರಂತ ಇವಾಸತೇ	ಯಜ್ಞೆ ಆಹೂತಾಃ ತೃಪ್ತಾವಯವಾಃ ಭವಂತಿ ಮರುತಃ ಧ್ಯಾಯಮಾನಾಃ ಸಂತಃ ಹೃತ್ಸು ಹೃದಯೇಷು ಪರಿಚರಂತ ಇವಾಸತೇ	0.99
+w0127	(ತಥಾ)	(ತಥಾ	0.89
+w0127	(ತಥಾಪಿ)	(not in the supplied text of this window: given in transliteration only)	
+w0127	(ವಃ)	(not in the supplied text of this window: given in transliteration only)	
+w0127	(ತತ್)	(not in the supplied text of this window: given in transliteration only)	
+w0127	ವೃಷ್ಟು್ಯದಕಸ್ಯ ಲೋಕಸ್ಯ ವಾ ಮಹತಃ ಪಾರಂ ಅಂತಂ ಕುತ್ರಾಸ್ತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0133	ಪೃಥಿವೀ ಭೂಃ	(not in the supplied text of this window: given in transliteration only)	
+w0133	ಪೃಥಿವ್ಯಾಮ್	(not in the supplied text of this window: given in transliteration only)	
+w0139	ದೀಪ್ತಂ	(not in the supplied text of this window: given in transliteration only)	
+w0139	ಸಮೂಹಂ	(not in the supplied text of this window: given in transliteration only)	
+w0139	ಗಂತೄಣಾಂ	(not in the supplied text of this window: given in transliteration only)	
+w0139	ಸ್ವಧೇ	(not in the supplied text of this window: given in transliteration only)	
+w0139	ಇಷೇ	(not in the supplied text of this window: given in transliteration only)	
+w0139	ವಯಮಪಿ	(not in the supplied text of this window: given in transliteration only)	
+w0139	ಜಯಶೀಲದಾನಂ	(not in the supplied text of this window: given in transliteration only)	
+w0145	(ಅತಃ) ಮಹಃ ಚಿತ್ ಅಸಿ	(not in the supplied text of this window: given in transliteration only)	
+w0145	(ಹೇ) ಮರುತಾಂ ವೇಧಃ	(not in the supplied text of this window: given in transliteration only)	
+w0145	mā rudaḥ	ಮಾರುದ	quoted IAST replaced by the matching words of kn.md
+w0151	ವಿಶ್ವಕೃಷ್ಟಯಃ	ವಿಶ್ವಕೃಸ್ಟಯಃ	0.92
+w0151	ಸ್ವರ್ಮೀಳಸ್ಯ	ಸ್ವರ್ಮಾಳಸ್ಯ	0.91
+w0151	ಅತಸೇ ಸಂತತೇ ಕರ್ಮಣಿ ನಿಮಿತ್ತಭೂತೇ ಸತಿ ಶುಶುಕ್ವಾನ್	(not in the supplied text of this window: given in transliteration only)	
+w0157	ಹಿರಣ್ಯಾದಿಸಾರವದ್ಭವ್ಯಪ್ರದಾನೇನ ಬಂಧುಂ ಯಥಾ ವಶೀಕುರ್ವಂತಿ	ಹಿರಣ್ಯಾದಿಸಾರವದ್ದವ್ಯಪ್ರದಾನೇನ ಬಂಧುಂ ಯಥಾ ವಶೀಕುರ್ವಂತಿ	0.98
+w0157	(ಕಿಂಚ)	(not in the supplied text of this window: given in transliteration only)	
+w0157	(ವಾಜೈಃ)	(not in the supplied text of this window: given in transliteration only)	
+w0163	ಮಾಳ್ಹುಷಃ	ಮಾಳ್ಹುಷ	0.93
+w0175	ನ ನೂನಂ ಪಂಚಾಗಸ್ತ್ಯೇನೈಂದ್ರೇ ಹವಿಷಿ ಮರುತಾಮುದ್ಯತ ಇಂದ್ರಾಗಸ್ತ್ಯಯೋಃ ಸಂವಾದ ಐಂದ್ರಸ್ತತ್ರಾದ್ಯಾ ತೃತೀಯಾ ಚೇಂದ್ರವಾಕ್ಯಂ ಚತುರ್ಥೀ ಚಾದ್ ಬೃಹತೀ ತಿಸ್ರೋಽನುಷ್ಟುಭಃ	ನ ನೂನಂ ಪಂಚಾಗಸ್ತ್ಯೇನೈಂದ್ರೇ ಹವಿಷಿ ಮರುತಾಮುದ್ಯತ ಇಂದ್ರಾಗಸ್ತ್ಯಯೋಃ ಸಂವಾದ ಐಂದ್ರಸ್ತತ್ರಾದ್ಯಾ ತೃತೀಯಾ ಚೇಂದ್ರವಾಕ್ಯಂ ಚತುರ್ಥಿ ಚಾದೌ ಬೃಹತೀ ತಿಸ್ರೋಽನುಷ್ಟುಭ	0.98
+w0181	ಅಸ್ಮದ್ಧಿತಕಾರ್ಯಪಿ ಸನ್	ಅಸ್ಮದ್ಧಿತಕಾರ್ಯ್ಯಪಿ ಸರ್	0.9
+w0181	ಗಂತವ್ಯಂ, ತೇ ಮನಃ ಯಥಾ ವಿದ್ಮ	ಗನ್ತವ್ಯಂ, ತೇ ಮನಃ ಯಥಾ ವಿದ್ಮ—	0.93
+w0181	ಏವ	(not in the supplied text of this window: given in transliteration only)	
+w0181	ಹವಿಷ್ಪದಾನವರಪ್ರದಾ-
+
+### Printed p. 185
+ನಾಭ್ಯಾಂ ಪರಸ್ಪರೋಪಕಾರಕತ್ವಾತ್	(not in the supplied text of this window: given in transliteration only)	
+w0181	ಸಖಾ ಸನ್ ನಃ ಕಿಂ ಅತಿಮನ್ಯಸೇ	(not in the supplied text of this window: given in transliteration only)	
+w0187	ಆವಾಂ ಪತ್ನಿ ಯಜಮಾನೌ ಅಧ್ವರ್ಯುಯಜಮಾನೌ ವಾ ಯಜ್ಞಂ ತನವಾವಹೈ	ಆವಾಂ ಪತ್ನಿ ಯಜಮಾನೌ ಅಧ್ವರ್ಯುಯಜಮಾನ್ ವಾ ಯಃಜ್ಞಂ ತನವಾವಹೈ	0.97
+w0199	ಮಘಂ	(not in the supplied text of this window: given in transliteration only)	
+w0199	ಜಿಗಾತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0199	(ಮೃಳಯತು)	(not in the supplied text of this window: given in transliteration only)	
+w0199	(ಕಿಂಚ)	(not in the supplied text of this window: given in transliteration only)	
+w0199	(ಜಿಗೀಷಾ)	(not in the supplied text of this window: given in transliteration only)	
+w0205	ವಿಶ್ವಾ
+
+### Printed p. 207
+ಆಹಾನಿ	(not in the supplied text of this window: given in transliteration only)	
+w0205	ಸಂಸ್ಕೃತಾನಿ	(not in the supplied text of this window: given in transliteration only)	
+w0217	ಸಹಸ್ವಿತಮಾನ್ ತ್ವದನುಗ್ರಹೇಣಾತಿಪ್ರವೃದ್ಧಬಲಾನ್	(not in the supplied text of this window: given in transliteration only)	
+w0223	ಅಷಾಳ್ಛಂ ಯುತ್ಸು ಪೃತನಾಸು ಪಪ್ರಿಂ ಸ್ವರ್ಷಾಮಪ್ಸಾಂ ವೃಜನಸ್ಯ ಗೋಪಾಂ ।	ಅಷಾಳ್ಛಂ ಯುತ್ಸು ಪೃತನಾಸು ಪಪ್ರಿಂ ಸ್ವರ್ಷಾಮಪ್ಪಾಂ ವೃಜನಸ್ಯ ಗೋಪಾಂ	0.98
+w0223	ಯದ್ವಾ ಮರುತ್ವಃ ಪರಮೇ ಸದಸ್ಥೇ ಯದ್ವಾವಮೇ ವೃಜನೇ ಮಾದಯಾಸೇ ।	ಯದ್ವಾ ಮರುತ್ವಃ ಪರಮೇ ಸದಸ್ಯೇ ಯದ್ವಾವಮೇ ವೃಜನೇ ಮಾದಯಾಸೇ	0.98
+w0223	ದಶಸ್ಯಾ ನಃ ಪುರ್ವಣೀಕ ಹೋತರ್ದೇವೇಭಿರಗ್ನೇ ಅಗ್ನಿ ಭಿರಿಧಾನಃ ।
+ರಾಯಃ ಸೂನೋ ಸಹಸೋ ನಾವಸಾನಾ ಅತಿ ಪ್ರಸೇಮ ವೃಜನಂ ನಾಂಹಃ ॥	ದಶಸ್ಯಾ ನಃ ಪುರ್ವಣೀಕ ಹೋತರ್ದೇವೇಭಿರಗ್ನೇ ಅಗ್ನಿ ಭಿರಿಧಾನಃ । ರಾಯಃ ಸೂನೋ ಸಹಸೋ ನಾವಸಾನಾ ಅತಿ ಪ್ರಸೇಮ ವೃಜನಂ ನಾಂದಃ	0.99
+w0223	ಯುಕ್ತಾ ಮಾತಾಸೀದ್ಧುರಿ ದಕ್ಷಿಣಾಯಾ ಅತಿಷ್ಠದ್ಗರ್ಭೋ ವೃಜನೀಷ್ವಂತಃ ।	ಯುಕ್ತಾ ಮಾಶಾಸೀದ್ಧುರಿ ದಕ್ಷಿಣಾಯಾ ಅತಿಷ್ಠದ್ಗರ್ಭೋ ವೃಜನೀಷ್ವಂತಃ	0.98
+w0223	ವಿದ್ಯಾಮೇಷಂ ವೃಜನಂ ಜೀರದಾನುಂ	ವಿದ್ಯಾಮೇಷುಂ ವೃಜನಂ ಜೀರದಾನುಂ	0.98
+w0223	ಯಾ ಗೋಮತೀರುಷಸಃ ಸರ್ವವೀರಾ ವ್ಯುಚ್ಛಂತಿ ದಾಶುಷೇ ಮರ್ತ್ಯಾಯ ।
+ವಾಯೋರಿವ ಸೂನೃತಾನಾಮುದರ್ಕೇ ತಾ ಅಶ್ವದಾ ಅಶ್ನವತ್ಸೋಮಸುತ್ವಾ ॥	ಯಾ ಗೋಮತೀರುಷಸಃ ಸರ್ವನೀರಾ ವ್ಯುಚ್ಛಂತಿ ದಾಶುಷೇ ಮರ್ತ್ಯಾಯ । ವಾಯೋರಿವ ಸೂನೃತಾನಾಮುವರ್ಕೇ ತಾ ಅಶ್ವಪಾ ಅಶ್ವವತ್ಸೋಮಸುತ್ವಾ	0.96
+w0223	ಲೈಂಗಿಕಃ	ಲೈಂಗಿಕೋ	0.86
+w0223	ತ್ವಿಷೀಮಂತೋ ಅಧ್ವರಸ್ಯೇವ ದಿದ್ಯುತ್ರುಷುಚ್ಯವಸೋ ಜುಹ್ವೋ೩ ಅಗ್ನೇಃ ।
+ಅರ್ಚತ್ರಯೋ ಧುನಯೋ ನ ವೀರಾ ಭ್ರಾಜಜ್ಜನ್ಮಾನೋ ಮರುತೋ ಅಧೃಷ್ಟಾಃ ॥	ತ್ವಿಷೀಮಂತೋ ಅಧ್ವರಸ್ಯೇವ ದಿದ್ಯುತ್ರುಷುಚ್ಯವಸೋ ಜುಹೋಽನಾಗ್ನೇಃ । ಅರ್ಚತ್ರಯೋ ಧುನಯೋ ನ ವೀರಾ ಭ್ರಾಜಜ್ಜನ್ಮಾನೋ ಮರುತೋ ಅಧೃಷ್ಟಾಃ	0.96
+w0223	ಊತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0223	(ಭವತು)	(not in the supplied text of this window: given in transliteration only)	
+w0223	ಯುಷ್ಮಾಕಂ ಅಸ್ಮದ್ಯಜ್ಞಾಗಮಃ ಚಾಯನೀಯಃ ಪೂಜ್ಯಃ ಅಶ್ಚರ್ಯಭೂತೋ ವಾ ಭವತು	(not in the supplied text of this window: given in transliteration only)	
+w0229	ಊರ್ಧ್ವಾನ್ ಕರ್ತ	ಊರ್ಧ್ವಾನ್ನಃ ಕರ್ತ	0.93
+w0229	ಅಸ್ಮತ್ತೋ ಅನ್ಯಂ ಯಂ ವೈರಿಣಂ
+
+### Printed p. 233
+ಅಸ್ಯಥ ಅಸ್ಮಾಕಮುಪಲೋಷಮಃ ಕಠಿನಃ ಆಯುಧವಿಶೇಷಃ ತಂ ವೈರಿಣಂ ಸಮೀಪಂ ಪ್ರಾಪ್ನೋತು	(not in the supplied text of this window: given in transliteration only)	
+w0229	Tṛṇaskanda	*Tṛṇaskanda*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0235	ವಿಶ್ವಜಿತೋಽಗ್ನಿಂ ನರಃ	ವಿಶ್ವಜಿತೋಽಗ್ನಿಂ ನರ	0.97
+w0235	ಧೇನವೋ ದೋಗ್ರೋಽದಬ್ಧಾ ಅಹಿಂಸಿತಾ ಗಾವಃ	ಧೇನವೋ ದೋಗ್ರೋಽದಬ್ಧಾ ಅಹಿಂಸಿತಾ ಗಾವೋ	0.97
+w0247	ಅಶ್ನಃ	(not in the supplied text of this window: given in transliteration only)	
+w0253	ವ್ಯಾಪ್ನೋತಿ	ವ್ಯಾಪ್ೋತಿ	0.95
+w0265	ವೃಷಾಣಃ	(not in the supplied text of this window: given in transliteration only)	
+w0265	ವೃಜ್	(not in the supplied text of this window: given in transliteration only)	
+w0271	ಆತ್ಮೀಯೇನ ತೇಜಸಾ; ಹವಿರ್ಲಕ್ಷಣೇನ ಅನ್ನೇನ ವಾ	ಆತ್ಮೀಯೇನ ತೇಜಸಾ; ಹನಿರ್ಲಕ್ಷಣೇನ ಅನ್ನೇನ ವಾ	0.97
+w0313	ರಕ್�ಷ	ರಕ್ಷ	0.89
+w0313	ಯೇ ದೇವಾ ಮರುದಾದಯಸ್ಸಂತಿ ತೇಷಾಮಪಿ ವಿಶೇಷೇಣ	ಯೇ ದೇವಾಃ ಮರುದಾದಯಸ್ಸಂತಿ ತೇಷಾಮಪಿ ವಿಶೇಷೇಣ	0.99
+w0313	ಸತಾಂ ಕರ್ಮಫಲಸ್ಯ ವಾ ಪಾತಾ	ಸಶಾಂ ಕರ್ಮಫಲಸ್ಯ ವಾ ಪಾತಾ	0.95
+w0313	ಅಸುರ ನೃನ್ ಅಸ್ಮಾನ್ ರಕ್ಷ	(not in the supplied text of this window: given in transliteration only)	
+w0313	ಉಷಾಸಂ	(not in the supplied text of this window: given in transliteration only)	
+w0313	tvaṃ rājā	ತ್ವಂ ರಾಜಾ	quoted IAST replaced by the matching words of kn.md
+w0313	tvaṃ rājā daśa	ತ್ವಂ ರಾಜಾ ದಶ	quoted IAST replaced by the matching words of kn.md
+w0313	vasavān	*vasavān*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0313	satām	*satām*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0319	ದನೋ ದಾನಮನಸೋ ನೋ ಮನುಷ್ಯಾನಿಂದ್ರ ಮೃದುವಚಃ ಕುರು	ದನೋ ದಾನಮನಸೋ ನೋ ಮನುಷ್ಯಾನಿಂದ್ರ ಮೃದುವಾಚಃ ಕುರು	0.99
+w0319	ಸತ್ಯಂ ತದಿಂದ್ರೋ	(not in the supplied text of this window: given in transliteration only)	
+w0319	ಕ್ಷಿಯಂತಂ	(not in the supplied text of this window: given in transliteration only)	
+w0331	ಧರ್ಷಕೇಣ ಸಾಮರ್ಥ್ಯೇನ	ಧರ್ಷಕೇಣ ಸಾಮರ್ಥ್ಯೀನ	0.94
+w0331	ಅರ್ಜುನ್ಯಾಃ ಪುತ್ರಂ ಕುತ್ಸಂ	(not in the supplied text of this window: given in transliteration only)	
+w0367	ಅಮರ್ತಃ	ಅಮರ್ತ್ಯಃ	0.86
+w0367	(ಹೇ ಇಂದ್ರ)	(not in the supplied text of this window: given in transliteration only)	
+w0367	(ಕಿಂಚ ತ್ವಂ)	(not in the supplied text of this window: given in transliteration only)	
+w0367	Svārasāman	ಸ್ವಾರಸಾಮನ್	quoted IAST replaced by the matching words of kn.md
+w0367	hā i	ಹಾ ಇ	quoted IAST replaced by the matching words of kn.md
+w0367	matsyapāyi ……	ಮತ್ಸ್ಯಪಾಯಿ	quoted IAST replaced by the matching words of kn.md
+w0373	ದಸ್ಯುದರ್ಸ್ಯತೇಃ ಕ್ಷಯಾರ್ಥಾದುಪದಸ್ಯಂತ್ಯಸ್ಮಿನ್ ರಸಾಃ ಉಪದಾಸಯತಿ ಕರ್ಮಾಣಿ	ದಸ್ಯುದರ್ಸ್ಯತೇಃ ಕ್ಷಯಾರ್ಥಾದುಪದಸ್ಯಂತ್ಯಸ್ಮಿನ್ ರಸಾಃ ಉಪದಾಸೆಯತಿ ಕರ್ಮಾಣಿ	0.99
+w0373	ಸುಪಾಂ ಸುಪೋ ಭವಂತಿ	ಸುಪಾಂ ಸುಪೋ ಭವಂತೀತಿ	0.93
+w0373	ತ್ವಂ ಕುತ್ಸಂ ಶುಷ್ನಹತ್ಯೇಷ್ವಾವಿಥ	ತ್ವಂ ಕುತ್ಸಂ ಶುಷ್ನಹತ್ಯೇಷ್ಯಾವಿಥ	0.96
+w0373	ಶಾಯಜ್	(not in the supplied text of this window: given in transliteration only)	
+w0379	ಆಯಸ್ಮಯಾದೀನಿ ಛಂದಸಿ	(not in the supplied text of this window: given in transliteration only)	
+w0385	ಸ್ತೋತೃಭ್ಯಃ	ಸ್ತೋತೃಭ್ಯೋ	0.9
+w0403	ಕ್ಷಿತಯಃ	ಕ್ಷಿತಯೋ	0.86
+w0415	ಪುರಾತನೇಭ್ಯೋ ಗರಿತೃಭ್ಯಃ ಸ್ತೋತೃಭ್ಯಃ	ಪುರಾತನೇಭ್ಯೋ ಗರಿತೃಭ್ಯಃ ಸ್ತೋತೃಭ್ಯೋ	0.97
+w0427	ಚರ್ಷಣಯಃ	ಚರ್ಷಣಯೋ	0.86
+w0427	Ā carṣaṇiprāḥ	ಆ ಚರ್ಷಣಿಪ್ರಾಃ	quoted IAST replaced by the matching words of kn.md
+w0427	Ā carṣaṇiprāḥ	ಆ ಚರ್ಷಣಿಪ್ರಾಃ	quoted IAST replaced by the matching words of kn.md
+w0439	ಆ ಯಾಹಿ	ಯಾಹಿ	0.89
+w0445	ಆಪ ಆಪ್ತವ್ಯಾನಿ	ಆಪ್ತವ್ಯಾನಿ	0.91
+w0445	ಶ್ರುತಯಃ	ಶ್ರುತಯ	0.92
+w0451	ಶಪ್	(not in the supplied text of this window: given in transliteration only)	
+w0457	ಅಭಿ ಭೂತ್	(not in the supplied text of this window: given in transliteration only)	
+w0463	ಮಘವತ್	(not in the supplied text of this window: given in transliteration only)	
+w0469	ಅತ್ಯಂತಕಾಲಸಂಯೋಗೇ ದ್ವಿತೀಯಾ	(not in the supplied text of this window: given in transliteration only)	
+w0469	ಅಸ್ಕೃತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0481	ಆಗಸ್ತ್ಯಲೋಪಾಮುದ್ರಾಬ್ರಹ್ಮಚಾರಿಸೂಕ್ತಸಂವಾದೇ ಲೋಪಾಮುದ್ರಯಾ ಇಯಮಾರ್ಷಂ ।
+ಸಾ ಅಬ್ರವೀದಗಸ್ತ್ಯಂ ಭರ್ತಾರಮಭಿಪ್ರೇತ್ಯ "ನದಸ್ಯ ನದನಸ್ಯ.........."....। ಇತ್ಯೇವಂ
+ವಿಲಸಮಾನಾ ಕಾಮಾರ್ತಾ ಲೋಪಾಮುದ್ರಾ ರಾಜರ್ಷಿಪುತ್ರಿಕಾ । ........ಏವಂ ಲೋಪಾ-
+
+### Printed p. 483
+ಮುದ್ರಾವಾಕ್ಯೇ “ ನದಸ್ಯ ರುಧತೋ ಮಾಮಾಗಮತ್ ಕಾಮಃ ” ಇತಿ ಪ್ರಕರಣಾದೃಷಿರ್ನದಶಬ್ದೇನೋಚ್ಯತೇ ಇತ್ಯುಪಪದ್ಯತೇ ॥	(not in the supplied text of this window: given in transliteration only)	
+w0487	ಹೃತ್ಸು ಪೀತಂ ಇಮಂ ಸೋಮಂ	ಹೃತ್ತು ಪೀತಂ ಇಮಂ ಸೋಮಂ	0.94
+w0493	ಇಮಾಂ ವಾಂ	(not in the supplied text of this window: given in transliteration only)	
+w0493	Agastyaḥ khanamānaḥ	ಅಗಸ್ತ್ಯಃ ಖನಮಾನಃ	quoted IAST replaced by the matching words of kn.md
+w0493	Yuvo rajāṃsi	ಯುವೋ ರಜಾಂಸಿ	quoted IAST replaced by the matching words of kn.md
+w0493	Yuvor daśāśvinam	ಯುವೋರ್ದಶಾಶ್ವಿನಂ	quoted IAST replaced by the matching words of kn.md
+w0493	Yuvo rajāṃsi	ಯುವೋ ರಜಾಂಸಿ	quoted IAST replaced by the matching words of kn.md
+w0493	Yuvor daśāśvinam	ಯುವೋರ್ದಶಾಶ್ವಿನಂ	quoted IAST replaced by the matching words of kn.md
+w0505	ಏಷೇ ಸೌಖ್ಯಮಿಚ್ಛತೇಽತ್ರಯ	(not in the supplied text of this window: given in transliteration only)	
+w0511	ಪಶುಃ	(not in the supplied text of this window: given in transliteration only)	
+w0511	ಅಗ್ನಿಃ ಪಶುರಾಸೀತ್	(not in the supplied text of this window: given in transliteration only)	
+w0511	ಹೇ ಅಶ್ವಿನ್	(not in the supplied text of this window: given in transliteration only)	
+w0511	ಹೇ ಅಶ್ವಿನ್	(not in the supplied text of this window: given in transliteration only)	
+w0511	Āśvina-pravayāḥ	ಆಶ್ವಿನಪ್ರವಯಾಃ	quoted IAST replaced by the matching words of kn.md
+w0517	(ಕಿಂಚೆ)	(not in the supplied text of this window: given in transliteration only)	
+w0517	paśvaiṣṭiḥ	ಪಶ್ವಇಷ್ಟಿಃ	quoted IAST replaced by the matching words of kn.md
+w0517	apaḥ	ಅಪಃ	quoted IAST replaced by the matching words of kn.md
+w0517	Dasrā	ದಸ್ರಾ	quoted IAST replaced by the matching words of kn.md
+w0517	dasrā	ದಸ್ರಾ	quoted IAST replaced by the matching words of kn.md
+w0517	phṛṇ	*phṛṇ*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0517	paśu	*paśu*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0517	paśu	*paśu*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0523	ಪ್ರೀಣಾತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0523	ವೇತಿ	(not in the supplied text of this window: given in transliteration only)	
+w0523	ಇಷ್ಟಿ	(not in the supplied text of this window: given in transliteration only)	
+w0529	(ಹೇ ಅಶ್ವಿನೌ)	(not in the supplied text of this window: given in transliteration only)	
+w0547	ಇಷಾಂ ರಯೀಣಾಂ	ಇಷಾಂ । ರಯೀಷಾಂ	0.9
+w0547	pravayā	*pravayā*	quoted IAST not in kn.md: transliteration only (italic), as latin_fallback
+w0559	ಸುಪ್ರವಂಧುರಃ	ಸುಪ್ರವಂಧುರೋ	0.91
+w0559	ಅರೇಪಸಾ ತನ್ನಾ	ಅರೇಪಸಾ । ತನ್ವಾ	0.91
+w0559	ಅಶ್ವಿನ್ ನಾಸತ್ಯಾವಿತ್ಯಾದಿಭಿಃ	(not in the supplied text of this window: given in transliteration only)	
+w0571	ಅಬೋಧ್ಯಗ್ನಿರ್ಜ್ಮ ಉದೇತಿ ಸೂರ್ಯೋ ವ್ಯುಂಷಾಶ್ಚಂದ್ರಾ ಮಹ್ಯಾವೋ ಅರ್ಚಿಷಾ । ಆಯುಕ್ಷಾತಾಮಶ್ವಿನಾ ಯಾತವೇ ರಥಂ ಪ್ರಾಸಾವಿದ್ದೇವಃ ಸವಿತಾ ಜಗತ್ಪೃಥಕ್ ॥	ಅಬೋಧ್ಯಗ್ನಿರ್ಜ್ಮ ಉದೇತಿ ಸೂರ್ಯೋ ವ್ಯುಂಷಾಶ್ಚಂದ್ರಾ ಮಹ್ಯಾವೋ ಅರ್ಚಿಷಾ । ಆಯುಕ್ಷಾತಾಮಶ್ವಿನಾ ಯಾತನೇ ರಥಂ ಪ್ರಾಸಾವಿದ್ದೇವಃ ಸವಿತಾ ಜಗತ್ಪೃಥಕ್	0.99
+w0571	ಅಚ್ಛಾ ಕೋಶಂ ಮಧುಶ್ಚ ತಮಸೃಗ್ರಂ ವಾರೇ ಅವ್ಯಯೇ । ಅವಾವಶಂತ ಧೀತಯಃ ॥	(not in the supplied text of this window: given in transliteration only)	
+w0571	maghaṃ, rekṣaḥ	ಮಘಂ ರೇಕ್ಷಃ	quoted IAST replaced by the matching words of kn.md
+w0589	ಅವವಿದ್ಧಂ	ಅವವಿದ್ದಂ	0.88
+w0589	ಸದ್ಯೋ ಜಂಘಾಮಾಯಸೀಂ ವಿಶ್ವಲಾಯೈ	ಸದ್ಯೋ ಜಂಘಾಮಾಯಸೀಂ ವಿಶ್ವಲಾಯ್ಕೆ	0.92
+w0595	ಇಂದತೇರೈಶ್ವರ್ಯಕರ್ಮಣಃ	(not in the supplied text of this window: given in transliteration only)	
+w0607	ಯೇನ ಮನಸಾ	(not in the supplied text of this window: given in transliteration only)	
+w0613	ಅವವಿದ್ಧಂ	ಅವನಿದ್ಧಂ	0.88
+w0613	ಜಠರಂ ಪ್ರಾಪ್ತಾಃ	ಜಠರಂ ಪ್ರಾಪ್ತಾ	0.96
+w0613	ಊರ್ಧ್ವಂ ಪ್ರಾಪಯಥಃ	ಊರ್ಧ್ವ೦ ಪ್ರಾಪಯಥಃ	0.93
+w0613	ಅಪ್ಸಂತಃ	(not in the supplied text of this window: given in transliteration only)	
+w0613	ಪತರೋಃ ಮೃಗಸ್ಯ	(not in the supplied text of this window: given in transliteration only)	
+w0613	ಮಾರ್ಜಯಿತುಃ ಶೋಧಯಿತುಃ	(not in the supplied text of this window: given in transliteration only)	
+w0631	ಇಚ್ಛತಂ	(not in the supplied text of this window: given in transliteration only)	
