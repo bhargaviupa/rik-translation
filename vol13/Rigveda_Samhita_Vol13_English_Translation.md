@@ -5069,6 +5069,136 @@ O Maruts, praised by us, give us happiness; let Indra, lord of wealth, also bein
 ##### English translation (H. H. Wilson)
 May the Maruts, now hymned, bestow happiness upon us : may Maghavan, now glorified, be propitious to us : Maruts, may all the
 
+### Printed p. 205
+
+##### English translation (H. H. Wilson)
+ensuing days that may be expected by us prove gratifying, and full of enjoyment.
+
+##### विशेषविषयगळु (Special Topics)
+
+हे मरुतः (*he marutaḥ*)—addressing the Maruts, the verse prays that they, praised by the sacrificer who performs the sacrifice, may make us happy (मृळयंतु (*mṛḷayaṃtu*)).
+
+Yāska, at क्षेत्रस्य पते मधुमंतमूर्मिं धेनुरिव पयो अस्मासु धुक्षु । मधुश्चुतं घृतमिव सुपूतमृतस्य नः पतयो मृळयंतु ॥ (*kṣetrasya pate madhumaṃtamūrmiṃ dhenuriva payo asmāsu dhukṣu | madhuścutaṃ ghṛtamiva supūtamṛtasya naḥ patayo mṛḷayaṃtu ‖*) (Ṛ. Saṃ. 4-57-2), has explained the word मृळयंतु (*mṛḷayaṃtu*) in this verse as मृळयतिरुपदयाकर्म वा (*mṛḷayatirupadayākarma vā*). Durgācārya has given the meaning: मृळयंतु नित्यमस्मान् रक्षंतु पूजयंतु वा (*mṛḷayaṃtu nityamasmān rakṣaṃtu pūjayaṃtu vā*), that is, "may they protect, or may they cause us (our worship) to be honoured."
+
+मघवा स्तुतः शंभविष्ठः (*maghavā stutaḥ śaṃbhaviṣṭhaḥ*)—the word मघ (*magha*) is listed among the names of wealth (Ni. 3-9). And मघमिति धननामधेयं महतेर्दानकर्मणः (*maghamiti dhananāmadheyaṃ mahaterdānakarmaṇaḥ*) (Ni. 1-7): Yāska has explained that the word मघ (*magha*), derived from the root मंह (*maṃha*) meaning "to give", denotes wealth. Sāyaṇa explains this word as मघमिति धननाम अस्मद्दातव्यबहुधनेन तद्वानिंद्रः (*maghamiti dhananāma asmaddātavyabahudhanena tadvāniṃdraḥ*): मघ (*magha*) means wealth, and Indra, possessing abundant wealth to be given freely to the sacrificers, is famed as Maghavan. It was stated earlier that the word मघवत् (*maghavat*) may also be applied to the sacrificers.
+
+In some other places मघवा (*maghavā*) means Indra united with Viṣṇu. Since Indra obtains Viṣṇu's help when he fights the Asuras and others, there is Vedic authority for stating this meaning:
+स उ एव मखः स विष्णुः । तत इंद्रो मखवानभवन्मखवान्ह वै तं मघवानित्या चक्षते परोक्षं परोक्षकामा हि देवाः । (*sa u eva makhaḥ sa viṣṇuḥ | tata iṃdro makhavānabhavanmakhavānha vai taṃ maghavānityā cakṣate parokṣaṃ parokṣakāmā hi devāḥ |*) (Śa. Brā. 14-1-1-13).
+The Śatapatha Brāhmaṇa explains that because the sacrifice (मख (*makha*)) is Viṣṇu, and Indra is therefore मखवंत (*makhavaṃta*), the gods, who love the indirect, call him मघवंत (*maghavaṃta*). In several places the association of Indra, the Maruts and Viṣṇu is well known. For example—
+
+### Printed p. 206
+एता अग्न आरुषाणास इष्टीयुर्वोः सचाभ्यश्याम वाचान् । मेंद्रो नो विष्णुर्मरुतः परि ख्यन् यूयं पात स्वस्तिभिः सदा नः ॥ (*etā agna āruṣāṇāsa iṣṭīyurvoḥ sacābhyaśyāma vācān | meṃdro no viṣṇurmarutaḥ pari khyan yūyaṃ pāta svastibhiḥ sadā naḥ ‖*) (Ṛ. Saṃ. 7-93-8).
+Here Indra and the Maruts are invoked together with Viṣṇu. Besides, in some places the word मारुत (*māruta*) is indicated as an epithet of Viṣṇu. For example—
+अग्न इंद्र वरुण मित्र देवाः शर्धः प्र यंत मारुतोत विष्णो । उभा नासत्या रुद्रो अध ग्नाः पूषा भगः सरस्वती जुषंत ॥ (*agna iṃdra varuṇa mitra devāḥ śardhaḥ pra yaṃta mārutota viṣṇo | ubhā nāsatyā rudro adha gnāḥ pūṣā bhagaḥ sarasvatī juṣaṃta ‖*) (Ṛ. Saṃ. 5-46-2)
+तमस्य राजा वरुणस्तमश्विना क्रतुं सचंत मारुतस्य वेधसः ॥ (*tamasya rājā varuṇastamaśvinā kratuṃ sacaṃta mārutasya vedhasaḥ ‖*) (Ṛ. Saṃ. 1-156-4)
+In such places, some hold that the words मारुत (*māruta*) and मारुतस्य (*mārutasya*) are epithets of Viṣṇu. Explaining just this, the scholar Max Müller has said:
+
+Vishnu, whose character in the hymns of the Veda is very different from that assumed by him in later periods of Hindu religion, must be taken here as the friend and companion of Indra. Like Maruts, he assisted Indra in his battle against Vritra and the conquest of the clouds. When Indra was forsaken by all the Gods, Vishnu came to his help. In VII. 68. 8. Indra, Vishnu and Maruts are called upon to-gether Nay, मारुत (*māruta*), belonging to the Maruts becomes actually an epithet of Vishnu. (V. 46. 2.) and in I 156. 4, मारुतस्य (*mārutasya*) has been pointed out by Roth as an appellation of Vishnu. (S. B. E Vol. XXXII. P. 134)
+
+But only in the view of some are these words epithets of Viṣṇu. Sāyaṇa has not stated this opinion. In the present verse the word मघवा (*maghavā*) alone may be understood either as Indra the possessor of wealth, or as Indra united with Viṣṇu.
+
+This Indra (praised by the sacrificers), hearing the praises recited by the sacrificers, blesses abundantly the sacrificers who praised him, saying "let there be happiness" (सुखस्य भावयितृतमः (*sukhasya bhāvayitṛtamaḥ*)), and so prays: "may he make us, who perform the sacrifice, live in happiness" (अर्स्मा मृळयतु (*arsmā mṛḷayatu*)).
+
+जिगीषा (*jigīṣā*)—जिगीषितव्यानि प्राप्तव्यानि उत्तरत्रानुभूयमानानि (*jigīṣitavyāni prāptavyāni uttaratrānubhūyamānāni*): the days that are to be reached by the sacrificers, ready to be enjoyed, or that are to pass hereafter, all the days (*viśvā
+
+### Printed p. 207
+āhāni*)—the verse hopes that they may be raised up (ऊर्ध्वा संतु यशसा श्रीया वा उन्नतानि उत्कृष्टानि (*ūrdhvā saṃtu yaśasā śrīyā vā unnatāni utkṛṣṭāni*)), each more excellent than the last through fame and through prosperity.
+
+For the word क्योम्या (*kyomyā*): काम्यानि, स्पृहणीयानि (*kāmyāni, spṛhaṇīyāni*)—in the days to be lived through hereafter, may they be praiseworthy because all our desires are fulfilled, and वनानि (*vanāni*)—may they be such as to be gained by all.
+
+The word वन (*vana*) is listed among the names of rays (Ni. 2-15) and among the names of water (Ni. 2-23). Besides these, this word is used in the Ṛksaṃhitā in many other senses. Since nouns and verbs such as वनानि (*vanāni*), वनामहे (*vanāmahe*), वनतं (*vanataṃ*) are formed and used either from the root वन संभक्तौ (*vana saṃbhaktau*), which gives the sense of extreme desire and longing, or from the root वनु याचने (*vanu yācane*), "to request, to pray", some examples may be given to show these differences of meaning. Among uses as nouns or adjectives:
+फृषुं पावकं वनिनं विचर्षन् रुद्रस्य सूनुं हवसा गृणीमसि । (*phṛṣuṃ pāvakaṃ vaninaṃ vicarṣan rudrasya sūnuṃ havasā gṛṇīmasi |*) (Ṛ. Saṃ. 1-64-12)
+here वनवंतं (*vanavaṃtaṃ*) is taken as उदकवंतं (*udakavaṃtaṃ*), so the word वन (*vana*) means water;
+वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनंति । (*vanāni vibhyo nakirasya tāni vratā devasya saviturminaṃti |*) (Ṛ. Saṃ. 2-38-7)
+in verses such as this वनानि (*vanāni*) means trees;
+पारावतस्य रातिषु द्रवच्च क्रेष्टाशुषु । शिष्ठं वनस्य मध्य आ ॥ (*pārāvatasya rātiṣu dravacca kreṣṭāśuṣu | śiṣṭhaṃ vanasya madhya ā ‖*) (Ṛ. Saṃ. 8-34-18)
+here it means a part of a chariot. Looking likewise at uses as verbs, in what is quoted in the Nirukta (Ni. 5-2):
+त्वया वयं मघवन्नूर्व्ये धन इंद्रत्वोताः सासह्याम पृतन्यतो वनुयाम वनुष्यतः ॥ (*tvayā vayaṃ maghavannūrvye dhana iṃdratvotāḥ sāsahyāma pṛtanyato vanuyāma vanuṣyataḥ ‖*) (Ṛ. Saṃ. 1-132-1)
+and
+अस्माकेभिर्नृभिर्वयं सासह्याम सृतन्यतो वनुयाम वनुष्यतो नभंतामन्यके समे ॥ (*asmākebhirnṛbhirvayaṃ sāsahyāma sṛtanyato vanuyāma vanuṣyato nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8-40-7)
+
+### Printed p. 208
+in these utterances the sense is "to kill";
+कुविद्देवस्य सहसा चकानः सुम्ममग्निर्वनते वावृधानः । (*kuviddevasya sahasā cakānaḥ summamagnirvanate vāvṛdhānaḥ |*) (Ṛ. Saṃ. 5-3-10)
+here the sense is "gives";
+वनेम पूर्वीरयो मनीषा अग्निः सुशोको विश्वान्यश्याः । (*vanema pūrvīrayo manīṣā agniḥ suśoko viśvānyaśyāḥ |*) (Ṛ. Saṃ. 1-70-1)
+in such places वनेम (*vanema*) means "let us serve with reverence";
+प्रिया आपिधीर्वनिषीष्ट मेधिर आ वनषीष्ट मेधिरः । (*priyā āpidhīrvaniṣīṣṭa medhira ā vanaṣīṣṭa medhiraḥ |*) (Ṛ. Saṃ. 1-127-7)
+here it means "may he accept with love and serve"; and so there are still some other senses. Since many meanings are thus possible, in the present verse वनानि (*vanāni*) may also be given the meaning संभजनीयानि (*saṃbhajanīyāni*).
+
+In the second interpretation: विश्वा अहानि सर्वाणि दिवसानि जिगीषा संतु (*viśvā ahāni sarvāṇi divasāni jigīṣā saṃtu*) and जेतुमिष्टानि जेतव्यानि च संतु (*jetumiṣṭāni jetavyāni ca saṃtu*)—the meaning is described thus: may all the days that the sacrificers have to live through bring them victory. The main intention is that Indra and the Maruts also, showing this kind of favour toward the sacrificers, should keep them in happiness; and the
+
+##### Grammar
+
+- स्तुतासः — ष्टुञ् स्तुत् धातुः । कर्मणि क्तप्रत्ययः । जस् परे अज्ज सेरसुक् इत्यनेन असुक् आगमः ।
+- मृळयंतु — मृड सुखने धातुः । लोट् प्रथमपुरुष बहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- शंभविष्ठः — शं भावयिता । शंभवितृ इति तृजंतस्य उपरि तुश्चंदसि इत्यनेन अतिशयार्थे इष्टन् प्रत्ययः । तुरिष्ठेमेयःसु इत्यनेन एतस्मिन् परे तृचः लोपः । ओर्गुणः (पा. सू. ६-४-१४६) इत्यनेन उकारस्य गुणः । अवादेशः । इत्यादिर्नित्यम् इत्यनेन आद्युदात्तस्वरः भवति ।
+- ऊर्ध्वा — नपुंसके शेश्छंदसि बहुलम् (पा. सू. ६-१-७०) इत्यनेन शियः लोपः । कोम्या, विश्वा, इत्यत्रापि एवं शियः लुक् ।
+- कोम्या — कमु कांतौ धातुः । ऋहलोर्ण्यत् (पा. सू. ३-१-१२४) इति सूत्रेण ण्यत् प्रत्ययः । आदिवृद्धौ आगतायां छांदसत्वेन ओत्वम् । व्यत्ययेन अंतोदात्तस्वरः भवति ।
+
+### Printed p. 209
+- जिगीषा — गा स्तुत् धातुः । अत्र गत्यर्थे प्रयुक्तः । इच्छार्थे धातोः कर्मणः (पा. सू. ३-१-७) इत्यनेन सन् । व्यत्ययेन ईत्वम् । अथवा जि जये धातुः सन् परे अज्जनगमां सनि (पा. सू. ६-४-१४) इत्यनेन दीर्घः । सन्नंतस्य उपरि अच् प्रत्ययः । नपुंसके पूर्ववत् शि आदेशः आगत्य रूपे सिद्धे तस्य लोपः । **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माद॒हं त॑वि॒षादीष॑माण॒ इंद्रा॑द्भि॒या म॑रुतो॒ रेज॑मानः ।  
+> यु॒ष्मभ्यं॑ ह॒व्या निशि॑तान्यास॒न्तान्या॒रे च॑क्रमा मृ॒ळता॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मात् । अहं । तविषात् । ईषमाणः । इंद्रात् । भिया । मरुतः । रेजमानः ।  
+> युष्मभ्यं । हव्या । निशितानि । आसन् । तानि । आरे । चक्रम । मृळत । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः शृणुत । अहमस्मात्पसिद्धात्तविषाद्बलवत इंद्रात्तत्सकाशाद्भिया
+> भीत्येषमाणः पलायमानः पुरतः स्थातुमशक्तः तथा रेजमानो वेपमानश्चाभवं । ततश्च किमायातमिति आत आह । यानि युष्मभ्यं हव्या हवींषि निशितानि
+> संस्कृतान्यासन् तानि तान्येवारे चक्रम । दूरे कृतवंतो वयमिंद्रभयात् ।
+> अतो नोऽस्थाननपराधिनो मृळत । मृळयत । सुखयत ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, hear. I, fearing that famous, mighty Indra, and from his presence, ईषमाणः (*īṣamāṇaḥ*)—fleeing, unable to stand before him—was also trembling (रेजमानः (*rejamānaḥ*), shaking). And what came of that?" Therefore he says: the oblations (हव्या (*havyā*), हवींषि (*havīṃṣi*)) that had been prepared (निशितानि (*niśitāni*), *saṃskṛtāni*) for you—those very ones we have put far away (आरे चक्रम (*āre cakrama*), "we have put them at a distance") out of fear of Indra. Therefore make us, who are not offenders, happy: मृळत (*mṛḷata*) is मृळयत (*mṛḷayata*), सुखयत (*sukhayata*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे मरुतः (*he marutaḥ*)—O Maruts
+- अहं (*ahaṃ*)—I
+- आस्मात् (*āsmāt*)—from this famous (and)
+- तविषात् (*taviṣāt*)—mighty
+- इंद्रात् (*iṃdrāt*)—Indra (from the presence of Indra)
+- भिया (*bhiyā*)—through fear
+- ईषमाणः (*īṣamāṇaḥ*)—running (unable to stand before him)
+- रेजमानः (*rejamānaḥ*)—trembling (I am)
+- हव्या (*havyā*)—the oblations (which)
+- युष्मभ्यं (*yuṣmabhyaṃ*)—for you
+- नितितानि (*nititāni*)—prepared
+- आसन् (*āsan*)—were
+- तानि (*tāni*)—those
+- आरे (*āre*)—at a distance
+- चक्रम (*cakrama*)—we have placed (through fear of Indra)
+- नः (*naḥ*)—us (who are not offenders)
+- मृळत (*mṛḷata*)—make happy
+
+##### English translation (H. H. Wilson)
+Maruts, through fear of that violent Indra, I fly, trembling, (from his presence) : the oblations that had been prepared for you have been put away : nevertheless, have patience with us.
+
+### Printed p. 210
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, through fear of this mighty Indra (unable to stand before him) I run, trembling; through fear of him alone I have put far away the oblation that had been made ready for you. Therefore, make me, who am not an offender, happy.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this verse it is told that the seer Agastya, frightened by Indra, tries to remove his fear and prays to the Maruts. This situation is problematic. The companionship and friendship between Indra and the Maruts is well known from the Veda. Yet Indra, displaying his valour together with the Maruts, states plainly that he got no help at all from them and that he was not benefited by them. On that occasion, since he was angry, the seer Agastya, who had been offering the oblation to the Maruts, trembles with fear. Here he indicates that fear. In the present case, what is the nature of the friendship between Indra and the Maruts, and what is the cause of this hostility in spite of it? This must be examined.
+
+The permanent companionship of Indra and the Maruts, the relation of king and subjects between them, the offering of the oblation in the principal sacrificial rites to Indra accompanied by the Maruts, and the help the Maruts gave Indra when he fought the Asura Vṛtra, are praised in many places in the Saṃhitās and the Brāhmaṇas. A previous story telling how Indra, joining the Maruts, stood apart from the other gods is told in the Śatapatha Brāhmaṇa:
+अतिथ्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धाव्यद्रवन्नन्योन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः सोमो रुद्रैर्वरुण आदित्यैरिंम्रो मरुद्भिर्बृहस्पतिर्विश्वेदेवै ॥ (*atithyena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhāvyadravannanyonyasya śriyā tiṣṭhamānā agnirvasubhiḥ somo rudrairvaruṇa ādityairiṃmro marudbhirbṛhaspatirviśvedevai ‖*) (Śa. Brā. 3-4-2-1).
+Formerly, when the gods performed the rite of hospitality, discord arose among them, and, each unwilling to be defeated by the other, they formed four groups and separated. Agni went with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati
+
 ---
 
-**Progress note:** Done through printed p. 204. pp. 199-204 (batch API)
+**Progress note:** Done through printed p. 210. pp. 205-210 (batch API), sūtra number in grammar line corrected to the Kannada
