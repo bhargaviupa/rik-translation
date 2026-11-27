@@ -11902,6 +11902,129 @@ Ratha: रथः रंहतेर्गतिकर्मणः । स्थ�
 
 The Nirukta authors say that it is formed either from the root raṃh, which gives the meaning motion or speed; or, by inversion of letters, from sthira ("firm"); or from the root ram, meaning "sitting in it one rejoices"; or from the root rap or ras, meaning "to make a sound".
 
+### Printed p. 499
+
+##### विशेषविषयगळु (Special Topics)
+
+Citing the Ṛk वनस्पते वीड्वंगो हि भूया अस्मत्सखा प्रतरणः सुवीरः । गोभिः सन्नद्धो असि वीळयस्वास्थाता ते जयतु जेश्वानि ॥ (*vanaspate vīḍvaṃgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ | gobhiḥ sannaddho asi vīḷayasvāsthātā te jayatu jeśvāni ‖*) (Ṛ. Saṃ. 6-47-26), they have stated the derivation of the word ratha. [In some places the same word is also used to designate sons and others who move about in chariots.] In some places this word is also used as a synonym of Āditya (for example, Ṛ. Saṃ. 1-164-2).
+
+rajāṃsi—रजो रज्यतेर्ज्योती रज उच्यते उदकं रज उच्यते । लोका रजांस्युच्यंते । (*rajo rajyaterjyotī raja ucyate udakaṃ raja ucyate | lokā rajāṃsyucyaṃte |*) (Ni. 4-19). Derived from the root रंज् (*raṃj*), meaning "to shine", the word रजस् (*rajas*) means light, water and also the worlds.
+
+Citing the Ṛk रजांसि चित्रा वि चरंति तन्यवो दिवः सम्राजा पयसा न उक्षतं । (*rajāṃsi citrā vi caraṃti tanyavo divaḥ samrājā payasā na ukṣataṃ |*) (Ṛ. Saṃ. 5-63-5), the Nirukta-kāras have said that the word रजांसि (*rajāṃsi*) means "worlds". In the 44th section of the 10th chapter of the Nirukta, in explaining the Ṛk अज्जामुक्थैरहिं गृणीषे बुध्ने नदीनां रजस्सु षीदन् । (*ajjāmukthairahiṃ gṛṇīṣe budhne nadīnāṃ rajassu ṣīdan |*) (Ṛ. Saṃ. 7-34-16), they say that the word रजस्सु (*rajassu*) means उदकेषु (*udakeṣu*), "in the waters"; and in the 7th section of the 12th chapter, in explaining the Ṛk एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate |*) (Ṛ. Saṃ. 1-92-1), they have explained रजसः (*rajasaḥ*) as the atmosphere (antarikṣa).
+
+The authors of the Bṛhaddevatā, describing Viṣṇu's striding over the three worlds with श्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा (*śrīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā*), use the word रजांसि (*rajāṃsi*) as a synonym of the three worlds. Rajaḥ, rajāṃsi are in general words meaning "worlds". But in Ṛks such as यन्ना सोमासो ममदन्यदुक्थोभे भयेते रजसी अपारे । (*yannā somāso mamadanyadukthobhe bhayete rajasī apāre |*) (Ṛ. Saṃ. 4-42-6) this word stands in the dual and carries the technical sense "heaven and earth". Only in a few places, that is, in
+
+अहं कृष्णमहरर्जुनं च वि वर्तेते रजसी वेदाभिः (*ahaṃ kṛṣṇamahararjunaṃ ca vi vartete rajasī vedābhiḥ*) (Ṛ. Saṃ. 6-9-1)
+
+### Printed p. 500
+
+and one or two similar Ṛks, is the root meaning, रजसी जगद्रंजयंतौ (*rajasī jagadraṃjayaṃtau*), primary. In the present Ṛk the meaning is "the three shining worlds".
+
+pavayaḥ—the word pavi is read among the names of speech (Ni. 2-23) and among the names of the thunderbolt (Ni. 3-11). Besides, हवी रथनेमिर्भवति यद्विपुनाति भूमिं (*havī rathanemirbhavati yadvipunāti bhūmiṃ*) (Ni. 5-5): the Nirukta-kāras explain that the wheel of a chariot is called pavi because it cleanses (digs up) the earth, and citing the Ṛk उर पॆव्या रथानामद्रिं भिंदंत्योजसा (*ura pèvyā rathānāmadriṃ bhiṃdaṃtyojasā*) (Ṛ. Saṃ. 5-52-9) they show that pavi there means the felloe of a chariot. Showing also the sense "spear" for the word pavi, citing the Ṛk पावीरवी तन्यतुरेकसादजो दिवो धर्ता सिंधुरापः समुद्रियः । (*pāvīravī tanyaturekasādajo divo dhartā siṃdhurāpaḥ samudriyaḥ |*) (Ṛ. Saṃ. 10-65-13), they explain (Ni. 12-30): पविः शल्यो भवति यद्विपुनाति कायं तद्वत्पवीरमायुधं तद्वानिंद्रः पवीरवान् । (*paviḥ śalyo bhavati yadvipunāti kāyaṃ tadvatpavīramāyudhaṃ tadvāniṃdraḥ pavīravān |*). Because it pierces the body, the spear is called pavi; because he possesses it, Indra has the epithet pavīravān. They explain it further by citing the Ṛk यो जनान् महिषा इवातितस्थौ पवीरवान् । उतापवीरवान् युधा । (*yo janān mahiṣā ivātitasthau pavīravān | utāpavīravān yudhā |*) (Ṛ. Saṃ. 10-60-3). For the present Ṛk, Sāyaṇa gives the alternative meaning पवयः-वज्रा, रथनेमयो वा (*pavayaḥ-vajrā, rathanemayo vā*).
+
+##### Grammar
+
+- युवोः — षष्ठीद्विवचने परे सुपां सुपो भवंति इति वचनात् षष्ठीद्विवचनादेशः भवति । अतः योचॆ (पा. सू. ७-२-८९) इति यादेशः न भवति । शेषे लोपः इति टि इत्यस्य लोपः । उदात्तनिवृत्तिस्वरेण विभक्तिः उदात्ता भवति ।
+- सुयमासः — आद्युदात्तं द्व्यच् छंदसि (पा. सू. ६-२-११९) इति उत्तरपदस्य आद्युदात्तस्वरः भवति । जसि परे आज्ञसेरसुक् (पा. सू. ७-१-५०) इति तस्य असुक् आगमः ।
+- दीयत् — दीय गतौ छांदसः धातुः । लेटि प्रथमपुरुषैकवचने इतश्च लोपः (पा. सू. ३-४-९७) इति इकारलोपः । लेटोडाट् (पा. सू. ३-४-९४) इति अडागमः । यद्योगात् निघातस्वरः न भवति । धातुस्वरः अवतिष्ठते । दीयति, तकति इति यास्कैः गतिकर्मकधातूनां मध्ये पाठः कृतः ।
+
+### Printed p. 501
+- हिरण्ययाः — ऋत्त्व वास्तव्य वास्तु (पा. सू. ६-४-१७५) इति मकारलोपः आगत्य निपातितः । प्रत्ययस्वरेण अकारे उदात्ते सति पूर्वानुदात्तेन सह एकादेशे कृते एकादेश उदात्तेनोदात्तः इति उदात्तः भवति ।
+- पुषायन् — पुष प्लुष स्नेहनसेचनपूरणेषु धातुः क्र्यादिः । लेटि प्रथमपुरुषबहुवचनस्य अंतादेशे आगते इतश्चलोपः (पा. सू. ३-४-९७) इति अंत्यस्य इकारस्य लोपः । छंदसि शायजपि इति व्यत्ययेन श्नाविकरणस्य शायजादेशः । अतिजंतस्य परत्वात् निघातस्वरः भवति ।
+- मध्वः — जसादिषु छंदसि वा वचनम् इति गुणादीनां अभावे यणादेशः । कर्मार्थे षष्ठी आगता ।
+- पिबंतौ — पा पाने धातुः । लटः शत्रादेशः । शप् विकरणः । पाघ्राध्मा (पा. सू. ७-३-७८) इति पिबादेशः । लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः अवतिष्ठते ।
+- सचेथे — षच समवाये धातुः । लट् प्रथमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वमत्य॒स्याव॑ नक्षथो॒ यद्विप॑त्मनो॒ नर्य॑स्य॒ प्रय॑ज्योः ।  
+> स्वसा॒ यद्वां॑ विश्वगूर्ति॒ भरा॑ति॒ वाजा॒येट्टे॑ मधुपावि॒षे च॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । अत्यस्य । अव । नक्षथः । यत् । विपत्मनः । नर्यस्य । प्रयज्योः ।  
+> स्वसा । यत् । वां । विश्वगूर्ति इति विश्वगूर्ति । भराति । वाजाय । ईट्वे ।  
+> मधुपौ । इषे । च ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां यदत्यस्यातनशीलस्य सततसंचारिणो विपत्मनो
+> विविधगमनस्य विचित्रगमनस्य वा नर्यस्य मनुष्याणां हितस्य प्रयज्योः प्रकर्षेण
+
+##### Gist of the bhāṣya
+
+"O Aśvins, you, to the chariot—which is अत्यस्य (*atyasya*), of constantly active nature, always moving; विपत्मनः (*vipatmanaḥ*), of varied or wondrous going; नर्यस्य (*naryasya*), beneficial to men; प्रयज्योः (*prayajyoḥ*), worthy of worship in a high degree".
+
+### Printed p. 502
+
+> पूज्यस्य ॥ एतानि कर्मणि षष्ठ्यंतानि ॥ उक्तरूपं रथमवावस्तात्तदुदयात्पूर्वं
+> नक्षथः व्याप्प्नुथो देवयजनं गंतुं । किंच यद्यदा हे विश्वगूर्ति सर्वस्तुत्यौ
+> सर्वदोद्दूर्णौ वा वां युवयोः स्वसा स्वसृस्थानीयौ स्वयंसारिणी पोषा
+> भराति पोषते त्वदागमनाय प्रभातं करोति । यदा हे मधुपौ मधुरस्य
+> सोमरसस्य पाशारौ युवां यजमानो वाजाय बलाय गमनाय वेषे
+> प्रभूतान्नायेट्वे स्तौति । तदा रथं प्राप्नुथ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+These words are genitives standing in the sense of the object. The chariot so described you reach (नक्षथः (*nakṣathaḥ*) means "pervade"), going downward before sunrise, to go to the place of sacrifice. Further, when, O विश्वगूर्ति (*viśvagūrti*)—praised by all, or ever energetic—your sister, that is, Uṣas, who is in the position of a sister and moves of herself, nourishes (भराति (*bharāti*))—that is, brings the dawn for your coming; or when, O मधुपौ (*madhupau*), drinkers of the sweet Soma juice, the sacrificer praises you for strength (वाजाय (*vājāya*)), that is for might or for going, and for इषे (*iṣe*), abundant food—then you reach the chariot. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you two
+- यत् (*yat*)—when
+- अत्यस्य (*atyasya*)—constantly moving
+- विपत्मनः (*vipatmanaḥ*)—of varied (wondrous) course
+- नरस्य (*narasya*)—beneficial to men
+- प्रयज्योः (*prayajyoḥ*)—especially worshipful (your chariot)
+- अव (*ava*)—downward
+- नक्षथः (*nakṣathaḥ*)—you attain (to set out for the sacrificial hall)
+- किं च (*kiṃ ca*)—and
+- यत् (*yat*)—when
+- विश्वगूर्ती (*viśvagūrtī*)—O Aśvin deities, praised by all (ever fierce)
+- वां (*vāṃ*)—to you two
+- स्वसा (*svasā*)—Uṣas, in the place of a sister (having power of going of herself)
+- भराति (*bharāti*)—nourishes (you) (makes light for your coming)
+- तदा (*tadā*)—then
+- मधुपौ (*madhupau*)—O Aśvin deities, drinkers of the Soma juice
+- वां (*vāṃ*)—you two
+- वाजाय (*vājāya*)—for strength or for going
+- इषे च (*iṣe ca*)—and for abundant food
+- ईट्टे (*īṭṭe*)—(the sacrificer) praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, praised by all and drinkers of Soma! Your chariot—constantly moving, of varied course, beneficial to men, most worshipful—sets out towards the sacrificial hall when Uṣas, who is as a sister to you, has risen for the very purpose of your coming; then the sacrificer praises you, saying "Grant strength and food".
+
+##### English translation (H. H. Wilson)
+Direct downwards (the course) of your (car) swift moving, variously going, friendly to man, and to be especially venerated, when, all adorable, your sister (dawn) prepares (for your approach), and (the institutor of the ceremony) worships you, drinkers of the Soma juice, for the sake (of obtaining) strength and food.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk both the nature of the Aśvins' chariot and the relation between them and the goddess Uṣas are described.
+
+### Printed p. 503
+atyasya—आतनशीलस्य, सततसंचारिणः (*ātanaśīlasya, satatasaṃcāriṇaḥ*). It means "having the nature of moving about always without interruption". As an adjective of the chariot this word shows the chariot's nature. In general the word is used as an adjective of a horse and of Āditya, which are by nature always moving.
+
+In the Ṛk एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः । दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसं । (*eṣa pra pūrvīrava tasya camriṣo 'tyo na yoṣāmudayaṃsta bhurvaṇiḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ rathamāvṛtyā hariyogamṛbhvasaṃ |*) (Ṛ. Saṃ. 1-56-1), अत्यः (*atyaḥ*) is used of a horse; and in अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यंति चेमा बृहस्पतेरहिमाया अभि द्यून् । (*asya śloko divīyate pṛthivyāmatyo na yaṃsadyakṣabhṛdvicetāḥ | mṛgāṇāṃ na hetayo yaṃti cemā bṛhaspaterahimāyā abhi dyūn |*) (Ṛ. Saṃ. 1-190-4) the use of the word is such that it also means आतनशीलः आदित्यः (*ātanaśīlaḥ ādityaḥ*). In the present Ṛk it is an adjective of the chariot.
+
+viśvagūrti—the word गूर्ति (*gūrti*) is derived from the root गुरी (गुर्) (*gurī (gur)*) उद्यमने (*udyamane*). In all places where it is used, the word गूर्ति (*gūrti*) shows not merely "exertion" or "effort at an undertaking" but that in the exertion there is also faith and resolve. For example, in यूपव्रस्का उत ये यूपवाहाश्चषालं ये अश्वयूपाय तक्षति । ये चार्वते पचनं संभरंत्युतो तेषामभिगूर्तिर्न इन्वतु । (*yūpavraskā uta ye yūpavāhāścaṣālaṃ ye aśvayūpāya takṣati | ye cārvate pacanaṃ saṃbharaṃtyuto teṣāmabhigūrtirna invatu |*) (Ṛ. Saṃ. 1-162-6), Sāyaṇa has explained it as resolve accompanied by faith. In the same way the meanings suited to the context must be understood for words like स्वगूर्ति (*svagūrti*), राधोगूर्ति (*rādhogūrti*), अरिगूर्ति (*arigūrti*), and for गूर्तमनाः (*gūrtamanāḥ*), गूर्तश्रवाः (*gūrtaśravāḥ*), गूर्तवसुः (*gūrtavasuḥ*). The Nirukta-kāras, citing the Ṛk समस्मिञ्चायमान आसत ग्ना उतेमवर्धन्नद्यंः स्वगूर्ताः । महे यत्त्वा पुरूरवो रणायावर्धयन् दस्युहत्याय देवाः ॥ (*samasmiñcāyamāna āsata gnā utemavardhannadyaṃḥ svagūrtāḥ | mahe yattvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ ‖*) (Ṛ. Saṃ. 10-95-7), in which the word स्वगूर्ताः (*svagūrtāḥ*) occurs, have explained that word as स्वयंगामिन्यः (*svayaṃgāminyaḥ*). Here there is no reason for the word गूर्त (*gūrta*) to carry meanings such as faith or resolve; it is understood that the usage is only in the sense of going. Likewise,
+
+### Printed p. 504
+in अपद्यथा नो वरुणः सुकीर्तिरिषत् वर्षदरिगूर्तः सूरिः । (*apadyathā no varuṇaḥ sukīrtiriṣat varṣadarigūrtaḥ sūriḥ |*) (Ṛ. Saṃ. 1-186-3) too, Sāyaṇa explains शत्रुहननाय उद्युक्तः (*śatruhananāya udyuktaḥ*), showing only the meaning of exertion. But in words such as गूर्तक्रवाः (*gūrtakravāḥ*), गूर्तमवाः (*gūrtamavāḥ*) the word गूर्त (*gūrta*) has the meaning "praiseworthy". For example, in स प्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः । (*sa prādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ |*) (Ṛ. Saṃ. 1-122 10) he has explained गूर्तक्रवाः (*gūrtakravāḥ*) as उद्यूर्णदीप्तिः अथवा प्रख्यातान्नो वा (*udyūrṇadīptiḥ athavā prakhyātānno vā*): one whose splendour is praiseworthy or manifest, or one whose food has gained renown; or else it is understood as "praiseworthy food". And for the word गूर्तमनाः (*gūrtamanāḥ*) in Ṛk 6-63-4 the meaning given is प्रकर्षेण उद्युक्तमनाः (*prakarṣeṇa udyuktamanāḥ*). Since a meaning suited to the context must thus be given for गूर्त (*gūrta*), in the present Ṛk the word विश्वगूर्ति (*viśvagūrti*), an adjective of the Aśvin deities, gives the meaning सर्वस्तुत्यौ (*sarvastutyau*), "those praised by all".
+
+svasā bharāti—here the word स्वसृ (*svasṛ*) is meant to denote Uṣas. The relation between the Aśvins and Uṣas, and the point that when the Aśvins take part in the sacrifice the goddess Uṣas appears and marks the auspicious time, will be explained later.
+
+##### Grammar
+
+- नक्षथः — णक्ष गतौ धातुः । नो नः इति आदेः नत्वम् । लट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
+- विपत्मनः — पत्ल्य गतौ धातुः । औणादिकः मनिन् प्रत्ययः । विविधाः पत्मानः यस्य तस्य । बहुव्रीहौ प्रकृत्या पूर्वपदं इति पूर्वपदप्रकृतिस्वरः भवति ।
+- नर्यस्य — नराय हितम् । तस्य । छंदसि च (पा. सू. ५-४-१४२) इति यत् प्रत्ययः । यस्येति च इति अकारलोपः । यतो नावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः भवति ।
+- विश्वगूर्ती — विश्वा गूर्तिः ययोस्तौ । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+- भराति — भृञ् भरणे धातुः । लेटि प्रथमपुरुषैकवचने तिप् । लेटोडाट् (पा. सू. ३-४-९४) इति तस्य आडागमः । शप्निमित्तेन धातोः गुणः । र परे
+
 ---
 
-**Progress note:** Done through printed p. 498. pp. 493-498 (batch API)
+**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
