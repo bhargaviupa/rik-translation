@@ -10797,6 +10797,137 @@ In such places it is certain that Kutsa, Atithigva and Āyu are all friends dear
 उर्वश्यसीत्यथोत्तरारण्याज्यविलापनीमुपस्पृशत्र्यायुरसीति शामभिनिदधाति पुरूरवा आसीत्युर्वशी वाप्सराः पुरूरवाः पतिरथ यत्तस्मान्मिथुनादजायत तदायुरेवमेवैष एतस्मिन्मिथुनाद्यज्ञं जनयति । (*urvaśyasītyathottarāraṇyājyavilāpanīmupaspṛśatryāyurasīti śāmabhinidadhāti purūravā āsītyurvaśī vāpsarāḥ purūravāḥ patiratha yattasmānmithunādajāyata tadāyurevamevaiṣa etasminmithunādyajñaṃ janayati |*)
 (Śa. Brā. 3-4-1-20)
 
+### Printed p. 451
+In this passage it is said that Āyu was born of Urvaśī and Purūravas, and thus the identity (tādātmya) of Āyu with Agni is stated. In the same way, in the sentence
+आयुषो न मध्यादित्यग्निर्वा आयुः (*āyuṣo na madhyādityagnirvā āyuḥ*)
+(Śa. Brā. 7-2-1-15)
+the identity of Agni with Āyu is stated. But there is one view that here the word Āyu is a proper name (aṅkita-nāma), and another view that it is not. Since the word आयोः (*āyoḥ*) has been explained in many places as meaning Manu, it may be understood as Manu, one of the Prajāpatis who are the creators.
+
+The words आयुः (*āyuḥ*) and आयोः (*āyoḥ*) are used in many places as synonyms for men who are performers of sacrifice, who move about (ayana) here and there for the performance of sacrifice. For example—
+होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायने । (*hotrābhiragnirmanuṣaḥ svadhvaro rājā viśāmatithiścārurāyane |*)
+(Ṛ. Saṃ. 2-2-8)
+इमं विधंतो अपां सधस्थे द्वितादधुर्भृगवो विक्ष्या ३ योः । (*imaṃ vidhaṃto apāṃ sadhasthe dvitādadhurbhṛgavo vikṣyā 3 yoḥ |*)
+(Ṛ. Saṃ. 2-4-2)
+प्र स्वादनं पितूनामस्ततातिं चिदायने (*pra svādanaṃ pitūnāmastatātiṃ cidāyane*)
+(Ṛ. Saṃ. 5-7-6)
+It is known from the Bhāṣya that the word Āyu in these and many other Ṛks means the sacrificer (yajamāna), the performer of the sacrifice. But English translators such as Oldenberg have translated the Ṛks with the idea that all these are proper names. Since the word is thus used in many senses, in the present Ṛk it means the man who performs the sacrifice.
+
+##### Grammar
+
+- आस्ति — हि चॆ (पा. सू. ८-१-३४) इति निघातप्रतिषेधात् धातुस्वरः अवशिष्यते ।
+- जरितृभ्यः — ज्यष् वयोहानौ धातुः । अत्र स्तुत्यर्थे प्रयुक्तः । कर्तरि तृच् प्रत्ययः । चितः इति अंतोदात्तस्वरः आगच्छति । चतुर्थीबहुवचनांतरूपम् ।
+- ऊती — ऊतियूतिजूति-(पा. सू. ३-३-९७) इति क्विन् उदात्तः निपातितः । चतुर्थ्येकवचने परे सुपांसुलुक्-(पा. सू. ७-१-३९) इति पूर्वसवर्णदीर्घ एकादेशः आगच्छति ।
+
+### Printed p. 452
+- महयंतम् — मह पूजायां धातुः । हेतुमतिच इति णिच् । णिजंतस्य उपरि लट् आगते तस्य शत्रादेशः । शष् निमित्तं णिचः गुणः, अयाणेशः । लसार्वथातुकं शास्यनुडात्तेत्—सूत्रेण अनुगात्तं भवति इति णिच् स्वतः अवशिष्यते । द्वितीयैकवचनांतरूपम् ।
+- थक् — दह भस्मीकरणे थातुः । माण्जुज् (पा. सू. ३-३-१७५) इति लुज् । मध्यमपुरुषैकवचने सिप् । इकारलोपः । मंत्रेघसह्वर्त—(पा. सू. २-४-८०) इति च्चेः लुक् । हल्ज्याभ्यो—सूत्रेण सिपो लोपः । नावेर्थातोर्घः इति थातुहकारस्य घत्वम् । एकाचोबतोभष्—सूत्रेण आदिहकारस्य थकारादेशः । वावसाने सूत्रेण अंत्यस्य चर्त्वम् । नमाज् योगे (पा. सू. ६-४-७४) इति आगागमः न आगच्छति । तिखंतनिघातस्वरः आगच्छति ।
+- विश्वा — शेतृंडसि बहुलम् (पा. सू ६-१-७०) इति तेः लोपः ।
+- अत्याम् — अशू व्याप्तौ धातुः । व्यत्ययो बहुलम्—(पा. सू. ३-१-८८) इति परस्मैपदी भवति । लज् उत्तमपुरुषः । एकवचने बहुलं छंदसि इति विकरणस्य लुक् । यासुटागमः । तिजंतनिघातस्वरः आगच्छति ।
+- अयोः — इण् गत्, धातुः । छंदसीणः (उ. सू. १-२) इति उण् प्रत्ययः । अचोञ्चिति इति वृद्धिः । अयादेशः । प्रत्ययस्वरेण अंतोषात्तः भवति । षष्ठ्येकवचनांतरूपम् ॥ १ ॥
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न घा॒ राजेंद्र॒ आ द॑भन्नो॒ या नु स्वसा॑रा कृ॒णवं॑त॒ योन् ॑।  
+> आप॑त्तिदस्मै सु॒तुका॑ अवेष॒न्गम॑न्न॒ इंद्रः॑ स॒ख्या वय॑श्च ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । घ । राजा । इंद्रः । आ । हभत् । नः । या । नु । स्वसाता । कृणवंत । योन् ।  
+> आहः । चित् । अस्मै । सुतुकाः । अवेषन् । गमत् । नः । इंद्रः । सख्या । वयः । च ॥
+
+### Printed p. 453
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं राजा राजमान ईश्वरो वेंद्रो नोऽस्मदीयानि कर्माणि ना
+> दभत् । सर्वतो न हिंस्यात् । कानीति उच्यते । या यानि कर्माणि वृष्टादिरूपाणि स्वसारा परस्परं स्वसृभूते स्वयंसरणभूते अहोरात्रे । नु पूरणः ।
+> योन् स्वकीये स्थाने कृणवंत ॥ द्विवचनस्थाने बहुवचनं ॥ कुरुतः ॥ कृवि
+> हिंसाकरणयोश्च । धिन्विकृणोरच्चेत्युप्रत्ययः । बहुलग्रहणाच्छप् ॥ तानिंद्रोS
+> प्यनुजानात्वित्यर्थः । स्वसृभूतावध्वर्युयजमान् वा कुरुतः । यद्वा । स्वसारोऽ०
+> गुलयो योन् फलोत्पादनस्थाने यज्ञे यानि कृतवंतस्तानीति योज्यं ।
+> किंचास्मा इंद्राय सुतुकाः शोभनबलहेतून्यापोऽस्कार्याणि हवींप्यवेषन् ।
+> व्याप्रुवंति । नोऽस्मभ्यमिंद्रः सख्या सख्यानि वयश्च प्रभूतमन्नं च गमत् ।
+> गमयतु ॥
+
+##### Gist of the bhāṣya
+
+This king, the shining lord Indra, is not to harm our rites (karmāṇi) anywhere. Which rites? Those rites in the form of rain and the like which the two sisters, day and night, who are mutually sisterly and move of themselves, perform in their own place (योन् (*yon*)). नु (*nu*) is a filler (pūraṇa). कृणवंत (*kṛṇavaṃta*) is the plural used in place of the dual, "they two do". The root is कृवि (*kṛvi*) in the sense of harming and doing, with the affix उ (*u*) and, because of the word "bahula", *śap*. The meaning is: let Indra also approve those rites. Or else the two sisters are the Adhvaryu and the sacrificer, who perform them. Or else the sisters are the fingers, and योन् (*yon*) is the sacrifice, the place where fruit is produced; the rites which they have performed in it are to be construed so. Further, for this Indra the waters, the offerings to be prepared, which are causes of good strength (सुतुकाः (*sutukāḥ*)), pervade him (अवेषन् (*aveṣan*)). May Indra bring to us friendships (सख्या (*sakhyā*)) and abundant food (वयः (*vayaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या नु (*yā nu*)—which (rain-like) rites
+- स्वसारा (*svasārā*)—day and night, who are sisters to each other
+- योन् (*yon*)—in their own place
+- कृणवंत (*kṛṇavaṃta*)—perform (those rites); [or या (*yā*)—which rites; स्वसारा (*svasārā*)—the Adhvaryu and the sacrificer, like sisters; योन् (*yon*)—in the sacrifice; कृणवंत (*kṛṇavaṃta*)—perform]; or [स्वसारा (*svasārā*)—the fingers; योन् (*yon*)—in the sacrifice, the place of producing fruit; कृणवंत (*kṛṇavaṃta*)—perform] (तानि (*tāni*)—such rites)
+- नः (*naḥ*)—our (rites)
+- राजा (*rājā*)—the shining, or the lord
+- इंद्रः घ (*iṃdraḥ gha*)—Indra
+- न आ दभत् (*na ā dabhat*)—let him not obstruct
+- (किंच (*kiṃca*)—and further)
+- अस्मै (*asmai*)—to this Indra (Indra)
+- सुतुकाः (*sutukāḥ*)—the auspicious causes of strength
+- अपः चित् (*apaḥ cit*)—the offerings and the like
+- आवेशन् (*āveśan*)—pervade
+- नः (*naḥ*)—to us
+- इंद्रः (*iṃdraḥ*)—Indra
+- सख्या (*sakhyā*)—friendship
+- वयः च (*vayaḥ ca*)—and abundant food
+- गमत् (*gamat*)—let him bring
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra the king not harm (may he approve) the rites of rain and the like which day and night, sisterly to each other, carry on in their respective places (and also the rites which the Adhvaryu and the sacrificer perform in the sacrifice). All these offerings and the like, which are causes of strength, reach Indra himself. May his friendship and abundant food be granted to us.
+
+##### English translation (H. H. Wilson)
+Let not the royal Indra frustrate those our actions, which the sisters, (day and night), are directing to their object. May these invigorating offerings propitiate him, so that he may bestow upon us friendly (regard), and (abundant) food.
+
+### Printed p. 454
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present Ṛk Sāyaṇa has given three kinds of meaning to the word स्वसारा (*svasārā*): first day and night; second, the Adhvaryu and the sacrificer, who are like sisters; third, the fingers, which are instruments of the sacrificial act. In accordance with this meaning the word योनि (*yoni*) must also be explained. First, या नु स्वसारा योन् कृणवंत (*yā nu svasārā yon kṛṇavaṃta*) means: the rites of rain and the like which day and night, being sisterly, perform in their own place. To see whether this meaning is right, one must examine the natures of day and night and the rites by which they help each other.
+
+Uṣas is said to be the elder sister of Night. As soon as Uṣas rises, Night becomes invisible and makes room for her sister.
+अरुषस्य दुहितरा विरूपे स्तभिरन्या पिपिशे सूरो अन्या । मिथस्तरा विचरंती सावके मन्म श्रुतं नक्षत ऋच्यमाने ॥ (*aruṣasya duhitarā virūpe stabhiranyā pipiśe sūro anyā | mithastarā vicaraṃtī sāvake manma śrutaṃ nakṣata ṛcyamāne ‖*)
+(Ṛ. Saṃ. 6-49-3)
+In many Ṛks such as this the relation of Night and Uṣas (the day) is described, and it is explained how both together, by their constant and regulated movement, are the cause of the course of the world. Since day and night are the mothers who cause the birth of Agni, the president of the sacrifice, they have become the primary cause of Parjanya (rain), the fruit of the sacrifice, and of food and the like, the fruit of that.
+नक्कोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते (*nakkoṣāsau ca ye devyāvāgneyyāveva te smṛte*)
+(Bṛ. De. 3-8)
+नक्कोषासा वर्णमामेम्याने धापयेते शिशुमेकं सविचे । (*nakkoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ savice |*)
+(Ṛ. Saṃ. 1-96-5)
+In such places it is said that day and night help Agni, the president of the sacrifice, to drink the oblation. Because of this relation,
+अ सुष्वयंती यजते उपाके उषासानक्ता सदतां नि योन् । दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपितं दधाने । (*a suṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yon | divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapitaṃ dadhāne |*)
+(Ṛ. Saṃ. 10-110-6)
+in Ṛks such as this day and night are said to be near the performers of the sacrifice. Because they are connected with the sacrifice, which is the cause of the affairs of the world, they also have the epithets ऋतस्य मातरा (*ṛtasya mātarā*). Such day and night, being sisters, performed the rites of rain and the like in their own womb (योनि (*yoni*))
+
+### Printed p. 455
+is what is explained. Here the word योनि (*yoni*) is given the meaning "place of origin". The many meanings that the word योनि (*yoni*) can have were told earlier. Among them, the meaning "place of origin" is the most widely known.
+वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये । (*vediṣade priyadhāmāya sudyute dhāsimiva pra bharā yonimagnaye |*)
+(Ṛ. Saṃ. 1-140-1)
+In Ṛks such as this it is well known that योनि (*yoni*) means the place called the Vedi. This meaning is explained also in Saṃhitā sentences such as आ स्वे योन् निषीदतु (*ā sve yon niṣīdatu*) (Ṛ. Saṃ. 6-16-41), and in Brāhmaṇa sentences such as एष ह वा अस्य स्वो योनिर्यदग्निरग्नेः (*eṣa ha vā asya svo yoniryadagniragneḥ*) (Ai. Brā. 1-16).
+
+Besides, for योन् (*yon*) in the present Ṛk Sāyaṇa has explained फलोत्पादनस्थाने यज्ञे (*phalotpādanasthāne yajñe*), taking the word योनि (*yoni*) as a synonym of sacrifice. This meaning too is natural. For the sacrifice is the cause of the origin and the maintenance of all worlds, and is the binding instrument that develops mutual relation among all beings, gods, men and others; so it is described as भुवनस्य योनिः (*bhuvanasya yoniḥ*), भुवनस्य नाभिः (*bhuvanasya nābhiḥ*) and the like. Because the sacrifice is the place of origin of all the affairs of the world, it is well known as योनि (*yoni*). For example—
+स एतेन यज्ञेन ! देवेभ्य आत्मानं निरक्रीणीत स यद्व्रतमुपैति यथैव यत्पजापतिर्देवेभ्य आत्मानं प्रायच्छदेवमेवैष एतद्देवेभ्य आत्मानं प्रयच्छति तस्मादु संयत एवैताग्ं रात्रिं चिचरिषेद्यथा हविषा चरेदेवग्ं हविर्ह्येष देवानां भवति (*sa etena yajñena ! devebhya ātmānaṃ nirakrīṇīta sa yadvratamupaiti yathaiva yatpajāpatirdevebhya ātmānaṃ prāyacchadevamevaiṣa etaddevebhya ātmānaṃ prayacchati tasmādu saṃyata evaitāgṃ rātriṃ cicariṣedyathā haviṣā caredevagṃ havirhyeṣa devānāṃ bhavati*)
+(Śa. Brā. 11.1-8-3)
+Prajāpati, satisfied by the sacrifice of the gods, offered himself to them, and afterwards created again a counterpart of himself, a representative of the sacrifice. Thus, having created his counterpart for the sacrifice, and having reflected the sacrifice in it, the knowers call Prajāpati himself, the womb of the world, by the synonymous name "sacrifice". This sacrifice is the thread that shows a single relation for the whole universe. It is also called the wheel of the universe. For example—
+अन्नाद्भवंति भूतानि पर्जन्यादन्न संभवः । यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥ कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवं । शस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितं ॥ (*annādbhavaṃti bhūtāni parjanyādanna saṃbhavaḥ | yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ ‖ karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavaṃ | śasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitaṃ ‖*)
+(Bhagavadgītā 3-13 to 15)
+From the sacrifice, which is action, arises Parjanya; from Parjanya, food; from food, beings. This action in the form of sacrifice arose from Brahman. Therefore, from the creation of the universe
+
+### Printed p. 456
+onward, the supreme Brahman, the source of all kinds of activity and also of the wheel of the universe, which is a recurrence, is ever established in the sacrifice. Thus in the Gītā and the like the sacrificer, as taught by Vedic sentences, is explained. This principle of the sacrifice, described as भुवनस्य योनिः (*bhuvanasya yoniḥ*), is praised in the same way in other parts of the Ṛksaṃhitā also. For example—
+यज्ञेन यज्ञ मयजंत देवास्तानि धर्माणि प्रथमान्यासन् । ते ह नाकं महिमानः सचंत यत्र पूर्वे साध्याः संति देवाः ॥ (*yajñena yajña mayajaṃta devāstāni dharmāṇi prathamānyāsan | te ha nākaṃ mahimānaḥ sacaṃta yatra pūrve sādhyāḥ saṃti devāḥ ‖*)
+(Ṛ. Saṃ. 10-90-16)
+The gods, by a sacrifice that was their resolve and consisted of meditation, worshipped Prajāpati, who has the form of sacrifice. This kind of sacrifice became the origin of all worldly dharmas. The dharmas of this sacrifice, established in the atmosphere, place the gods of the heavenly world each in his own place. Through the sacrifice all beings obtain food and strength, the causes of their subsistence. This sacrifice sets the three worlds in order and in subsistence. For example—
+कल्पंतेऽस्मा इमे लोका ऊर्जं प्रजासु दधाति त्रिरात्रेणैवेमं लोकं कल्पयति त्रिरात्रेणांतरिक्षं त्रिरात्रेणामुं लोकं यथा गुणे गुणमन्वस्यत्येवमेव तल्लोके लोकमन्वस्यति धृत्या अशिथिलं भावाय । (*kalpaṃte 'smā ime lokā ūrjaṃ prajāsu dadhāti trirātreṇaivemaṃ lokaṃ kalpayati trirātreṇāṃtarikṣaṃ trirātreṇāmuṃ lokaṃ yathā guṇe guṇamanvasyatyevameva talloke lokamanvasyati dhṛtyā aśithilaṃ bhāvāya |*)
+(Tai. Saṃ. 7-2-4-2)
+By this sacrifice, which has the form of nine nights, life was obtained for the three worlds. By a three-night rite Prajāpati, by the power of this sacrifice, provided the power of subsistence for the earth, by a three-night rite for the atmosphere, and by the remaining three-night rite for the heavenly world. Just as one makes cloth by joining thread to thread in warp and woof, so, in order to avoid looseness and to produce a single power of relation for the whole universe, and so that the three worlds may remain in their fixed state, he established by this sacrifice a relation of warp and woof for the three worlds. This sacrifice is the pulse of the life of the universe. Describing this very thing the Śatapatha Brāhmaṇa says:
+सर्वेषां वा एष भूतानाग्ं सर्वेषां देवानामात्मा यद्यज्ञस्तस्य समृद्धिमनु यजमानः प्रजया पशुभिर्यध्यते ॥ (*sarveṣāṃ vā eṣa bhūtānāgṃ sarveṣāṃ devānāmātmā yadyajñastasya samṛddhimanu yajamānaḥ prajayā paśubhiryadhyate ‖*)
+(Śa. Brā. 14-3-2-1)
+The sacrifice is praised as being the very self of all men and all gods. Thus, in the principle of the universe, if every individual is to obtain an existence filled with his own power, the sacrifice is the thread that relates these generals and particulars. This sacrifice, which is the thread, together with the expansion and contraction of the universe, at one time grows and at another time contracts
+
 ---
 
-**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
+**Progress note:** Done through printed p. 456. pp. 451-456 (batch API)
