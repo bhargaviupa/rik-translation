@@ -3,6 +3,7 @@
 
   python3 tools/rv/pratipada_apply.py N [--write]            # volume N: its supplied file (volcfg `source`), report volN/review/pratipada_check_source.tsv
   python3 tools/rv/pratipada_apply.py FILE.md REPORT.tsv [--write] [--log DIR]
+  ... [--from-page N]        only rows on printed pages N and later (a volume whose first pages are already translated: Vol 22, pages 1-120 untouched)
   ... [--only WORD,WORD]     only these supplied words (the editor has read them), the one-letter test waived for them; reason in the log: 'approved by the editor'
 
 Only rows with status `fix-certain` are considered (one reference word within one edit AND the supplied Pada block of the same Ṛk already
@@ -69,6 +70,14 @@ def main():
     orig = list(lines)
     rows = list(csv.DictReader(open(rep, encoding='utf8'), delimiter='\t'))
     cand = [r for r in rows if r['kind'] == 'prat' and r['status'] == 'fix-certain']
+    if '--from-page' in sys.argv:
+        fp = int(sys.argv[sys.argv.index('--from-page') + 1]); args = [x for x in args if x != str(fp)]
+        pg_of = {}; cur = 0
+        for i, l in enumerate(lines):
+            m = re.fullmatch(r'<!-- page (\d+) -->', l.strip())
+            if m: cur = int(m.group(1))
+            pg_of[i + 1] = cur
+        cand = [r for r in cand if pg_of.get(int(r['line']), 0) >= fp]
     done, skipped = [], {'not one letter / ending': 0, 'not found once': 0}
     for r in cand:
         old, new = r['kannada_as_supplied'], adapt(r['kannada_as_supplied'], r['kannada_replacement'])

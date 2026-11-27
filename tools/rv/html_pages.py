@@ -65,6 +65,16 @@ def pages_md(path,heads=None):
         if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ','ಷ್ಯಸಂಹಿತಾ','ಋದಸಂಹಿತಾ','ಭಾಷ್ಯಸೂಚಾ')):      # 'ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ' (OCR: anusvara) heads were missed in Vol 19 (pp. 176, 194, 236, 262, 278, 308, 366, 390, 436 …)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h])
+    SKIPLN=set()
+    if sum(1 for e in H if e[2]=='')>=50:       # a file marked page by page with '<!-- page N -->' (Vol 22: pages ordered by the scan PDF): the markers decide the pages;
+        H2=[]; i=0                               # a detected head within 4 lines after a marker is that page's head (text kept in `heads`; the line is not page text);
+        while i<len(H):                          # every other detected head is ignored. Files with fewer markers behave as before.
+            e=H[i]
+            if e[2]=='':
+                if i+1<len(H) and H[i+1][2]!='' and H[i+1][0]-e[0]<=4: SKIPLN.add(H[i+1][0]); e=[e[0],e[1],H[i+1][2]]; i+=1
+                H2.append(e)
+            i+=1
+        H=H2
     off=[n-i for i,(ln,n,h) in enumerate(H)]; del ANOMALIES[:]; fixed=[]
     for i,(ln,n,h) in enumerate(H):
         nb=[off[j] for j in range(max(0,i-3),min(len(H),i+4)) if j!=i]
@@ -83,6 +93,7 @@ def pages_md(path,heads=None):
             if heads is not None: heads.setdefault(cur,H[hi[ln][0]][2])
             continue
         LINE_PAGE.append(cur)
+        if ln in SKIPLN: continue
         if l.startswith('![') or 'base64,' in l: continue
         if cur is not None: out[cur].append(re.sub(r'^#+\s*','',l))
     return {k:re.sub(r'\n\s*\n+','\n','\n'.join(v)).strip() for k,v in out.items()}
