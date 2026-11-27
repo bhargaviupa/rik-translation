@@ -12191,6 +12191,212 @@ O Rudra, do not slay (मा वधीः (*mā vadhīḥ*)) us; do not give us 
 - स्वस्तिभिः (*svastibhiḥ*)—with blessings
 - पात (*pāta*)—protect
 
+### Printed p. 277
+
+##### भावार्थ (Bhāvārtha)
+
+O Rudra, do not harm us. Do not abandon us to our enemies. Let us not fall into the bondage of you when you are angered. Make us sharers in the sacrifice, which is desired for life and begun by men. O gods, may you always protect us with blessings.
+
+##### English translation
+Harm us not, Rudra : abandon us not : let us not fall under the bond-age of you when displeased : make us partakers of the life-promoting sacrifice : and do you, (gods), ever cherish us with blessings.
+
+## Sūkta 47 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपो यं व इति चतुर्ऋचं चतुर्दशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमब्देवताकं । आपो यमापमित्यनुक्रांतं च ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आपो यं व (*āpo yaṃ va*) has four Ṛks and is the fourteenth sūkta. Its seer is Vasiṣṭha, its metre is Triṣṭubh and its deity is the Waters. The Anukramaṇī says: आपो यमापं (*āpo yamāpaṃ*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+The sūkta beginning आपो यं वः (*āpo yaṃ vaḥ*) is the fourteenth sūkta in the third anuvāka. It has four Ṛks. Vasiṣṭha is the seer of this sūkta; Āpaḥ (the Waters) is the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said आपो यमापं (*āpo yamāpaṃ*). The viniyoga has been stated earlier.
+
+##### Particulars
+
+Sūkta 47. Maṇḍala 7; Anuvāka 3; Sūkta 47. Aṣṭaka 5; Adhyāya 4; Varga 14. Number of Ṛks in the sūkta: 4. Seer: Vasiṣṭha. Deity: Āpaḥ. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॒ यं वः॑ प्रथ॒मं दे॑व॒यंत॑ इंद्र॒पान॑मू॒र्मिर्कृ॑ण्वते॒ळः ।  
+> तं वो॑ व॒यं शुचि॑मरि॒प्रम॒द्य घृ॑त॒प्रुषं॒ मधु॑मंतं वनेम
+
+### Printed p. 278
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । यं । वः । प्रथमं । देवयंतः । इंद्रपानं । ऊर्मिं । अकृण्वत । इळः ।  
+> तं । वः । वयं । शुचिं । अरिप्रं । अद्य । घृतप्रुषं । मधुमंतं । वनेम ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवयंतो देवानिच्छंतोऽध्वर्यवो हे आपो हे अब्देवताः वो युष्माकं कार्यभूतमिंद्रपानमिंद्रेण पातव्यमिळ इळाया भूम्याः संभूतं यमूर्मिं सोमाख्यं यं रसं प्रथमं पुराकृण्वत अभिषवणवचनादिभिः समस्कुर्वत अद्येदानीं वयमपि वो युष्मदीयं तमूर्मिं वनेम । संभजेमहि । कीदृशं । शुचिं शुद्धमरिप्रं पापरहितं घृतप्रुषं वृष्टिलक्षणमुदकं सिंचंतं मधुमंतं मधुररसोपेतं । एवंभूतं तं वनेमेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The priests (adhvaryus), desiring the gods, are addressed to the Waters. The essence called Soma, to be drunk by Indra and sprung from the earth (इळाया भूम्याः (*iḷāyā bhūmyāḥ*)), is your product. This ūrmi, which they first prepared by pressing and the like, is now to be shared by us as well. Sāyaṇa glosses it as pure (शुचिं (*śuciṃ*)), faultless (अरिप्रं (*aripraṃ*), free from sin), घृतप्रुषं (*ghṛtapruṣaṃ*) (sprinkling water in the form of rain) and मधुमंतं (*madhumaṃtaṃ*) (endowed with sweet essence). The construction is: let us enjoy (वनेम (*vanema*), "may we share in") that very ūrmi.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O gods of the waters
+- वः (*vaḥ*)—belonging to you
+- इंद्रपानं (*iṃdrapānaṃ*)—fit for Indra's drinking
+- इळः (*iḷaḥ*)—sprung from the earth
+- यं ऊर्मिं (*yaṃ ūrmiṃ*)—which Soma-essence
+- प्रथमं (*prathamaṃ*)—first
+- देवयंतः (*devayaṃtaḥ*)—the adhvaryus who desire to worship the gods
+- अकृण्वत (*akṛṇvata*)—produced by pressing and the like
+- तं (*taṃ*)—that same
+- वः (*vaḥ*)—pertaining to you
+- शुचिं (*śuciṃ*)—pure
+- अरिप्रं (*aripraṃ*)—free from sin
+- घृतप्रुषं (*ghṛtapruṣaṃ*)—shedding rain
+- मधुमंतं (*madhumaṃtaṃ*)—endowed with a sweet essence, that Soma
+- अद्य (*adya*)—at this time of the sacrifice
+- वयं (*vayaṃ*)—we also
+- वनेम (*vanema*)—may we worship (may we obtain)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods of the waters, the essence in the form of Soma that belongs to you, fit for Indra's drinking and sprung from the earth, which the adhvaryus, desirous of worshipping the gods, first produced by pressing and the like—that same Soma, belonging to you, pure, free from sin, shedding rain and endowed with a sweet essence: may we also worship it at this time of the sacrifice (may we drink it).
+
+##### English translation
+We solicit from you, waters, to-day, that pure, faultless, rain-shedding, sweet essence of the earth, which the devout have first consecrated as the beverage of Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमू॒र्मिमा॑पो॒ मधु॑मत्तमं वो॒ऽपां नपा॑दवत्वाशु॒हेमा॑ ।
+
+### Printed p. 279
+
+> यस्मिन्निंद्रो वसुभिर्मादयाते तमश्याम देवयंतो वो  
+> अद्य ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । ऊर्मिं । आपः । मधुमत्‌तमं । वः । आपां । नपात् । अवतु । आशुहेमा  
+> यस्मिन् । इंद्रः । वसुभिः । मादयाते । शं । अश्याम । देवयंतः । वः । अद्य ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आप एतत्संज्ञका देवाः वो युष्मदीयं मधुमत्तमं रसवत्तमं तमूर्मिं प्रसिद्धं सोमाख्यं रसमाशुहेमा शीघ्रगतिरपां नपादिति नपात्संज्ञको दे-वोऽवतु । पालयतु । इंद्रो यस्मिन्नूर्मौ वसुभिर्वासकैर्देवैः सह मादयाते माद्येत् अद्यास्मिन्यागे देवयंतो देवकामा वयं वो युष्मदीयं तमूर्मि-मश्याम । प्राप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+O Waters, may the swift-moving god called Apāṃnapāt protect that well-known, sweetest, most flavoursome ūrmi, the essence called Soma, which is yours. In that essence Indra rejoices together with the Vasus, the gods who give dwelling. To-day, at this sacrifice, may we, desirous of the gods, attain that ūrmi of yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O gods of the waters
+- वः (*vaḥ*)—belonging to you
+- तं (*taṃ*)—well-known
+- मधुमत्तमं (*madhumattamaṃ*)—most delicious
+- ऊर्मिं (*ūrmiṃ*)—the essence in the form of Soma
+- आशुहेमा (*āśuhemā*)—the swift-moving
+- अपां नपात् (*apāṃ napāt*)—the god called Apāṃnapāt
+- अवतु (*avatu*)—may he protect
+- यस्मिन् (*yasmin*)—in which Soma-essence
+- इंद्रः (*iṃdraḥ*)—Indra
+- वसुभिः (*vasubhiḥ*)—together with the gods called Vasus
+- मादयाते (*mādayāte*)—rejoices
+- वः (*vaḥ*)—belonging to you
+- शं (*śaṃ*)—that same essence
+- अद्य (*adya*)—on this day of the sacrifice
+- देवयंतः (*devayaṃtaḥ*)—we also, desirous of worshipping the gods
+- अश्याम (*aśyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O gods of the waters, may the swift-moving god called Apāṃnapāt protect the well-known, most delicious Soma-essence that belongs to you. That same essence of yours, in which Indra rejoices together with the gods called Vasus, may we also, desirous of worshipping the gods, obtain on this day of the sacrifice.
+
+##### English translation
+May the swift-moving grandson of the waters protect, waters, your most sweet essence wherewith may Indra and the Vasus be delighted : and may we, devoted to the gods, partake (of it).
+
+### Printed p. 280
+
+##### विशेषविषयगळु (Special Topics)
+
+Apāṃnapāt—for this word Yāska says: अपां नपात्तनूनप्त्रा व्याख्यातः (*apāṃ napāttanūnaptrā vyākhyātaḥ*) (Ni. 9-20); नपादित्यनंतरायाः प्रजाया नामधेयं निर्णेततमा भवति (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ nirṇetatamā bhavati*) (Ni. 8-6). The derivation of the word Apāṃnapāt was explained in the course of explaining the word Tanūnapāt. Here the two separate words अपां (*apāṃ*) and नपात् (*napāt*) combine into the word Apāṃnapāt. Apāṃ means "of the waters". Napāt is the name for the offspring born after a son, that is, a grandson. The meaning is "grandson of the waters". This word is generally said of Agni. As follows:
+
+आपोऽक्र तन्ह उच्यंते । तता अंतरिक्षे ताभ्य ओषधिवनस्पतयो जायंत ओषधिवनस्पतिभ्यो ऽग्निर्जायते ॥ (*āpo 'kra tanha ucyaṃte | tatā aṃtarikṣe tābhya oṣadhivanaspatayo jāyaṃta oṣadhivanaspatibhyo 'gnirjāyate ‖*) (Ni. 8-6)
+
+From the waters the herbs and trees (plants, trees and so on) arise. From the herbs and trees (tree, wood, kindling-sticks) Agni arises. Here, kindling Agni by rubbing wooden kindling-sticks, those of the tree, is the custom in sacrifices and the like; therefore it is said that Agni is born in the herbs and trees. Thus, since the tree arises from the waters and Agni from the tree, Agni became the grandson of the waters. In the Ṛgveda Apāṃnapāt is regarded as a separate deity, said to be a special form of Agni.
+
+The Ṛgveda has one separate sūkta (2-35) and two separate Ṛks (Ṛ. Saṃ. 10-30-3, 4) on this deity. The name of this deity is recited about thirty times.
+
+It is necessary to state some matters about this deity. The waters stood around the radiant deity Apāṃnapāt. The waters surround this youth. Three goddesses wish to give food to him, the excellent one. He drinks the milk of those mothers. (2-35-3, 5) In the form of a bull he placed the embryo in them. In the form of a child he drinks their milk; they kiss him. He grows in the water itself and shines. He blazes in the water without the help of fuel and the like. (10-30-4). He wears lightning as his garment. The swift-flowing, golden-coloured water bears him and whirls round in a circle. (1-95-4, 5) His body shines with golden lustre. Born of a golden womb, he grants food to those who worship him. Dwelling in the loftiest region he shines without fading. The swiftly flowing waters bring ghee for the food of their son and flow around, clothed in garments. His face is of the colour of gold; maidens make it shine. Ghee is his food. He grows in a way that no one notices. In his house there is a cow that yields good milk. Horses swift as thought
+
+### Printed p. 281
+
+bear him. He has a connection with the rivers. It is he who caused all beings to be born; all those beings are his parts. In the last Ṛk of the sūkta addressed to this deity it is said that he is Agni. In many sūktas addressed to Agni also, Agni is called Apāṃnapāt (Vā. Saṃ. 8-24).
+
+The name of the deity Apāṃnapāt is recited together with many deities. He is praised along with the deities Ajaikapāt (2-31-6; 7-35-13), Ahirbudhnya (1-186-5, 2-31-6, 7-35-13) and Savitṛ (2-31-6, 6-50-13). Since Savitṛ too is a special form of Agni, that Savitṛ is also once (1-22-6) called by the word Apāṃnapāt. The deity Apāṃnapāt—golden-coloured, clad in lightning, dwelling in the loftiest region, growing in a hidden manner, shining forth in rawness, the son of the water, descending to the earth, and regarded as equal to Agni—may be the very Agni in the form of lightning hidden in the clouds. Agni is called Apāṃnapāt and also the embryo of the waters (अपां गर्भः (*apāṃ garbhaḥ*)) (7-9-23; 10-27-03); in that very form he is established in the houses of men. (3-5-3) His dwelling is in the water itself (8-43-9). Agni, who is the embryo of plants and of water, is born from the kindling-sticks (3-1-13). Since Agni is called अद्रीः सूनुं (*adrīḥ sūnuṃ*)—son of the mountain (10-20-7)—the lightning born of the mountain-shaped cloud must be the son of the mountain. From descriptions such as that the third form of Agni blazes in the water, in the ocean, in the region of the sky, or in the lap of the water (10-45-1, 2, 3), the deity Apāṃnapāt must be what is meant everywhere here. This deity has given occasion to various opinions: a deity of water, Agni born in water, the sun, lightning, and so on.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तप॑वित्राः स्व॒धया॒ मदं॑तीर्दे॒वीर्दे॒वाना॒मपि॑ यंति॒ पाथः॑ ।  
+> ता इंद्र॑स्य॒ न मि॑नंति व्र॒तानि॒ सिंधु॑भ्यो ह॒व्यं घृ॒तव॑ज्जुहोत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतपवित्राः । स्वधया । मदंतीः । देवीः । देवानां । अपि । यंति । पाथः ।  
+> ताः । इंद्रस्य । न । मिनंति । व्रतानि । सिंधुभ्यः । हव्यं । घृतवत् । जुहोत ॥ ४ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शतपवित्राः शतं बहूनि पवित्राणि शोधनानि रूपाणि यासां ताः स्वधया स्वकीयभूतेनान्नेन मदंतीर्जनान्मादयंत्यो देवीर्देव्यो द्योतमाना
+
+### Printed p. 282
+
+> आपो देवानामिंद्रादीनां पाथः स्थानमपि यंति । प्रविशंति । तास्तादृश्य आप इंद्रस्य प्रीणनानि व्रतानि यज्ञादीनि कर्माणि न मिनंति । न हिंसंति । उत्पादयंतीत्यर्थः । हे अध्वर्यवः यूयं सिंधुभ्यस्ताभ्योऽद्भ्यो घृतवदुपस्तरणाभिघारणलक्षणाज्ययुक्तं हव्यं पुरोडाशादिकं हविर्जुहोत । जुहुत ॥
+
+##### Gist of the bhāṣya
+
+The Waters have a hundred, that is many, purifying forms (शतपवित्राः (*śatapavitrāḥ*)). They delight people with their own food (स्वधया (*svadhayā*)), and are divine, shining. They enter the abode (पाथः (*pāthaḥ*)) of the gods, Indra and the others. Those same Waters do not impair (न मिनंति (*na minaṃti*), do not harm; that is, they bring about) the rites such as sacrifices, which please Indra. O adhvaryus, offer to those Waters, the rivers (सिंधुभ्यः (*siṃdhubhyaḥ*)), the oblation (हव्यं (*havyaṃ*)), the puroḍāśa and the like, endowed with ghee (घृतवत् (*ghṛtavat*)), that is, with ghee used for the spreading and the pouring over.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतपवित्राः (*śatapavitrāḥ*)—having many purifying forms
+- स्वधया (*svadhayā*)—with food produced by themselves
+- मदंतीः (*madaṃtīḥ*)—which rejoice
+- देवीः (*devīḥ*)—shining waters
+- देवानां (*devānāṃ*)—of the gods, Indra and the others
+- पाथः (*pāthaḥ*)—the abode
+- अपि यंति (*api yaṃti*)—they enter
+- ताः (*tāḥ*)—those same waters
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- व्रतानि (*vratāni*)—the rites such as sacrifices that please him
+- न मिनंति (*na minaṃti*)—do not harm
+- (O adhvaryus) सिंधुभ्यः (*siṃdhubhyaḥ*)—to those same waters in the form of streams
+- घृतवत् (*ghṛtavat*)—filled with ghee
+- हव्यं (*havyaṃ*)—the oblation
+- जुहोत (*juhota*)—offer in the form of an offering
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, having many purifying forms, rejoicing in food produced by themselves, and shining, enter the abode of Indra and the other gods. Those same waters do not harm the rites such as sacrifices that please Indra. O adhvaryus, offer an oblation filled with ghee, in the form of an offering, to those same waters in the form of streams.
+
+##### English translation
+The divine Waters, the purifiers of many, gratifying men with food, pursue the paths of the gods: they impede not the sacred rites of Indra: offer, (priests), the butter-charged oblation to the rivers.
+
+##### विशेषविषयगळु (Special Topics)
+
+शतपवित्राः (*śatapavitrāḥ*)—शतं बहूनि पवित्राणि पावनानि रूपाणि यासां ताः (*śataṃ bahūni pavitrāṇi pāvanāni rūpāṇi yāsāṃ tāḥ*): waters that have many kinds of purifying forms—this is the commentator's explanation. The word pavitra has many meanings. Yāska explains them thus:
+
+पवित्रं पुनातेः । मंत्रः पवित्रमुच्यते । येन देवाः पवि-त्रेणात्मानं पुनते सदा इत्यपि निगमो भवति ॥ (*pavitraṃ punāteḥ | maṃtraḥ pavitramucyate | yena devāḥ pavi-treṇātmānaṃ punate sadā ityapi nigamo bhavati ‖*) (Ni. 5-6)
+
+The word pavitra is formed from the root punāti, meaning "to purify". Since a mantra purifies those who recite it, pavitra means a mantra. In this matter the Vedic sentence येन देवाः पवित्रेणात्मानं पुनते सदा (*yena devāḥ pavitreṇātmānaṃ punate sadā*) is the example. In this sentence pavitreṇa means "by a mantra". The sense of the sentence is: the mantra, by whose power of recitation the gods make themselves pure.
+
 ---
 
-**Progress note:** Done through printed p. 276. pp. 271-276 (batch API)
+**Progress note:** Done through printed p. 282. pp. 277-282 (batch API)
