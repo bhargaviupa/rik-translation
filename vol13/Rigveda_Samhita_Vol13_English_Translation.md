@@ -14045,6 +14045,142 @@ In these Ṛks also the prayer is to satisfy the sacrificial ground with sweet j
 
 O Aśvin gods, I, full of devotion, praise you and attend upon you; at that same time the sacrificer, of much wisdom and endowed with oblations and the like, goes round the earth, the supporter of many people,
 
+### Printed p. 589
+like Pūṣan, he praises the two of you, and Agni and the goddess Uṣas. Thereafter may we obtain food, strength and long life.
+
+##### English translation (H. H. Wilson)
+The wise offerer of oblations, like Pushan, praises you, Ashwins, as (he would praise) Agni and Ushas, (at the season) at which I invoke you, praising with devotion that we may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa has indicated that two kinds of purport can be given for this Ṛk. First, the words पुरंधिः (*puraṃdhiḥ*) and पूषा इव (*pūṣā iva*) are epithets of the sacrificer who has oblations. Here पुरंधिः (*puraṃdhiḥ*) is explained as "one who has much wisdom", and Pūṣan as "nourisher". That is, the sacrificer, of much wisdom and possessed of oblations, praises while offering the oblation for your growth, like a nourisher. Second, if पुरंधिः (*puraṃdhiḥ*) is an epithet of पूषा (*pūṣā*), then पुरंधिः (*puraṃdhiḥ*) means the bearer of many, and पूषा (*pūṣā*) means the Earth, the nourisher of all.
+
+The word पुरंधि (*puraṃdhi*) is used in the senses of abundant, full and prosperous. If it is an epithet of the sacrificer, it means one having many rites, or one having many kinds of wisdom. Or it may be a separate deity named Puraṃdhi. All the special meanings of this word are given in the Special Topics of Ṛ. Saṃ. 1-180-6. Further, the word पूषा (*pūṣā*) also means a nourisher, and in many contexts it can be understood as used of Agni, who nourishes the world through his rays, or of the Āditya (Sun), or of the Earth, which nourishes the world with food and the like. In many contexts this word is used of the Aśvin deities themselves. Since the meaning has to be stated according to the context, Sāyaṇa gave an alternative meaning in the present Ṛk. The very derivation of this word also describes the quality of the god Pūṣan, one of the twelve Ādityas.
+
+पूषा-यद्रश्मिपोषं पुष्यति तत् पूषा भवति । (*pūṣā-yadraśmipoṣaṃ puṣyati tat pūṣā bhavati |*) (Ni. 12-16)
+
+The Nirukta's derivation is: he is called Pūṣan because he nourishes by rays. In the Śatapatha Brāhmaṇa too:
+
+### Printed p. 590
+इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किंच । (*iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃca |*) (Śa. Brā. 14-4-2-25)
+
+It says that this deity is called Pūṣan because he nourishes everything. This meaning may apply to the Āditya, or, since as carrier of the oblation he is the cause of nourishment of gods, men and all, to Agni. Stating this same derivation:
+
+पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः । तेनैनमस्तौत्पूषेति भरद्वाजस्तु पंचभिः ॥ (*puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ | tenainamastautpūṣeti bharadvājastu paṃcabhiḥ ‖*) (Bṛ. De. 2-63)
+
+This verse of the Bṛhaddevatā also indicates the same view: driving away darkness he nourishes the Earth so that it thrives, and therefore is called Pūṣan. Since nourishing the world is thus the principal meaning, and since the intention in the present Ṛk is that the one possessing oblations promotes the sacrifice through the oblation and helps the nourishment of the world, it can be explained here as the sacrificer. Or it can be explained as referring to the Earth.
+
+अग्निं उषां न (*agniṃ uṣāṃ na*)—In the Āśvina-śastra, Agni and Uṣas also hold a chief place, and the praises and the like performed there are directed to Agni and Uṣas as well; this matter will be explained later when the Āśvina-śastra is treated.
+
+तदाहुर्यच्छस्यत आग्नेयं शस्यत उषस्यं शस्यत ऐंद्रमथ तस्मादेतदाश्विनमित्याचक्षत इत्यश्विन् हि तदुदजयतामश्विनावाश्नुवातां यदश्विना उदजयतामश्विना वाश्नुवातां तस्मादेतदाश्विनमित्याचक्षते ॥ (*tadāhuryacchasyata āgneyaṃ śasyata uṣasyaṃ śasyata aiṃdramatha tasmādetadāśvinamityācakṣata ityaśvin hi tadudajayatāmaśvināvāśnuvātāṃ yadaśvinā udajayatāmaśvinā vāśnuvātāṃ tasmādetadāśvinamityācakṣate ‖*) (Ai. Brā. 17-3)
+
+In this context, since the mantras are to be recited addressed to Agni, Indra and Uṣas, if the objection arises how the name Āśvina-śastra came to apply to all of these, the answer is that, because it is recited chiefly concerning the victory of the Aśvin deities, these mantras have this name; thus the greatness of the Aśvin deities is also stated in this context. In the present Ṛk too, the phrase अग्निं, उषां न जरते (*agniṃ, uṣāṃ na jarate*) indicates the same point.
+
+##### Grammar
+
+- पूषा इव — पूष वृद्धौ, धातुः । श्वनुक्षन् पूषन्—(उ. सू. १-१५७) इति कनि प्रत्ययांततया निपातितः । छांदसतया द्वितीयार्थे प्रथमा आगता ।
+
+### Printed p. 591
+- पुरंधिः — पृषोदरादीनि यथोपदिष्टम् (पा. सू. ६-३-१०९) इति अभिमतरूपमपि सिद्ध्यति ।
+- जरते — जरते ह्वयति—(निरु. ३-१४-८) इति अर्चनार्थकधातूनां मध्ये पठितः । स्तुतिरपि अर्चनं भवति इति अत्र स्तुत्यर्थे पठितः । लट् प्रथमपुरुषैकवचनांतरूपम् । तिजिंतनिघातस्वरः आगच्छति ।
+- वरिवस्या — नमोवरिवश्चित्रजः क्यच् (पा. सू. ३-१-१९) इति क्यचि आगते अप्रत्ययात् (पा. सू ३-३-१०२) इति तदुपरि अ प्रत्ययः । स्त्रीत्वे अदंतनिबंधनः टाप् । क्यच् स्वरः अवशिष्यते । एकादेश उदात्तेनोदात्तः (पा. सू. ८-२-५) इति टाप् उदात्तो भवति । सुपां सुलुक्—(पा. सू. ७-१-३९) इति तृतीयाविभक्तौ परतः पूर्वसवर्णदीर्घः ।
+
+Here the one hundred and eighty-first sūkta ends.
+
+## Sūkta 182 (Maṇḍala 1)
+*Anuvāda.* This sūkta अभूदिदं (*abhūdidaṃ*) is the third sūkta in the twenty-fourth anuvāka. It has eight Ṛks. Its seer is Agastya; its deity the Aśvin deities; its metre Jagatī. But the sixth Ṛk अवविद्दं (*avaviddaṃ*) and the eighth Ṛk तद्वां नरा नासत्यौ (*tadvāṃ narā nāsatyau*) are in the Triṣṭubh metre. The Anukramaṇikā says: अभूदिदमष्टौ षष्ठ्यंते त्रिष्टुभावित्यनुक्रमणिका ॥ (*abhūdidamaṣṭau ṣaṣṭhyaṃte triṣṭubhāvityanukramaṇikā ‖*) At the time of reciting the Prātaranuvāka mantras, this sūkta is applied to the Jagatī-metre Ṛks of the Āśvina-śastra; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra अभूदिदं यो नां परिज्येति त्रीणि (*abhūdidaṃ yo nāṃ parijyeti trīṇi*) (Ā. 4-15).
+
+### Printed p. 592
+Maṇḍala 1; Anuvāka 24; Sūkta 182; Aṣṭaka 2; Adhyāya 4; Vargas 27, 28. Number of Ṛks in the sūkta: 8. Seer: Āgastya. Deity: the Aśvins. Metre: 1-5, 7 Jagatī; 6-8 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॑दि॒दं व॒युन॒मो षु भू॑षता॒ रथो॒ वृष॑ण्वा॒न्मद॑ता मनीषिणः ।  
+> धि॒यं॒जि॒न्वा धिष्ण्या॑ वि॒श्वला॑वसू दि॒वो नपा॑ता सु॒कृते॒ शुचि॑व्रता ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूत् । इदं । वयुनं । ओ इति । सु । भूषत । रथः । वृषण्वान् । मदत ।  
+> मनीषिणः ।  
+> धियंजिन्वा । धिष्ण्या । विश्वलावसू इति । दिवः । नपाता । सुकृते । शुचिव्रता ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मनीषिणो मनस्सिनो मेधाविन ऋत्विजः अस्माकमिदं वयुनं प्रज्ञानमभूत् । उत्पन्नं । कीदृशं तदिति उच्यते । वृषण्वानभिमतवर्षणवाघ्रोऽश्विनोः
+> संबंधी गमनसाधनो रथ आगत इति शेषः । तत्स्वाश्विनावो सु भूषत । ओ इति
+> निपातद्वयसमुदायात्मक एको निपातः । सुष्वाभूषत । अभिमुखा भवत स्तोतुं ।
+> तादृशौ महानुभावाश्विनौ मदत ॥ अंतर्भावितण्यर्थोऽयं ॥ मदयत । संभावयत । अश्विन् विशेष्येते । सुकृते सुष्टु कृतवते मह्यं धीयंजिन्वा कर्मणो
+> बुद्धर्वा प्रीणयितारौ धिष्ण्या धिषणार्हौ स्तुत्यौ विशालावसू विशां प्रजानामस्माकं पालयितृधनौ विश्वालाख्यायाश्चिन्न जंघाया हिरण्मयजंघाप्रदानेन तथाभूतौ।
+> सद्यो जंघामायसीं विश्वलाय्कॆ । ऋ. १-११६-१५ । इत्यादिनिगमः । दिव आदित्यस्य
+> नपाता नप्तारौ नपातयितारौ वा शुचिव्रता दीप्तकर्माणौ । ईदृशावश्विनौ मदत ॥
+
+##### Gist of the bhāṣya
+
+"O wise priests, this knowledge has arisen in us." What kind? The chariot of the Aśvins, showering desired boons, the means of their going, has come (this is to be supplied). Therefore be ready to adorn and praise those Aśvins. ओ (*o*) is a single particle made of two particles. सुष्वाभूषत (*suṣvābhūṣata*): turn towards them to praise. Gladden (the verb has an inner causative sense) and honour such mighty Aśvins. The Aśvins are qualified: to me, who have done good, they are gratifiers of the rite or of the mind, worthy of praise and hymns, विश्वलावसू (*viśvalāvasū*): possessors of wealth that protects us, the people; or, being such through giving a golden leg to the cut-off-legged Viśvalā, as the passage सद्यो जंघामायसीं विश्वलाय्कॆ (*sadyo jaṃghāmāyasīṃ viśvalāykè*) (Ṛ. 1-116-15) and the like attests. They are grandsons of Heaven, that is, of the Āditya (or those who cause descent), of bright deeds. Gladden such Aśvins.
+
+### Printed p. 593
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनीषिणि (*manīṣiṇi*)—O wise (thoughtful) priests
+- वृषण्वान् (*vṛṣaṇvān*)—showering desired boons
+- रथः (*rathaḥ*)—the chariot (of the Aśvins)
+- आगतः (*āgataḥ*)—has come
+- इदं (*idaṃ*)—this
+- वयुनं (*vayunaṃ*)—knowledge
+- अभूत् (*abhūt*)—has arisen (in us)
+- ओ षु भूषत (*o ṣu bhūṣata*)—adorn well (praise those Aśvins riding in the chariot)
+- सुकृते (*sukṛte*)—to me, who have performed the rite well
+- धियंजिन्वा (*dhiyaṃjinvā*)—impellers of rite (knowledge)
+- धिष्ण्या (*dhiṣṇyā*)—worthy of knowledge (praise)
+- विश्वलावसू (*viśvalāvasū*)—possessors of wealth that protects the people (or, those who gave a golden leg to Viśvalā, whose leg had been cut off)
+- दिवः (*divaḥ*)—of the Āditya
+- नपाता (*napātā*)—grandsons
+- शुचिव्रता (*śucivratā*)—of bright deeds (who perform only pure deeds; the Aśvins)
+- मदत (*madata*)—gratify (with worship and the like)
+
+##### भावार्थ (Bhāvārtha)
+
+O wise priests, it has become known to us that the chariot of the Aśvin deities, the accomplisher of desires, has arrived; so make ready to worship those deities who ride in it. Gladden with worship and the like those who are impellers to me, the performer of the rite, who are worthy of praise, possessed of wealth that protects the people, grandsons of the Āditya, and ever performers of pure deeds.
+
+##### English translation (H. H. Wilson)
+The information, sage (priests), has been received : be ready with your praises, for the (benefit) showering car (of the Ashwins has arrived) : propitiate (the divinities) for they show favour to the doer of good works : they are entitled to praise, rich in benevolence to mankind, the grandsons of heaven, and observers of holy rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+वयुनं (*vayunaṃ*)—The word वयुन (*vayuna*) is listed among the names of knowledge (Ni. 3-13). वयुनं वेतेः कांतिर्वा प्रज्ञा वा (*vayunaṃ veteḥ kāṃtirvā prajñā vā*) (Ni. 5-15): formed from the root वी (*vī*), meaning "to weave", it gives the sense of desire or knowledge. The Nirukta-writer, citing the Ṛk
+
+स इत्तमोऽवयुनं ततन्वत्सूर्येण वयुनवच्चकार । कदा ते मर्ता अमृतस्य धामेयक्षंतो न मिनंति स्वधावः ॥ (*sa ittamo 'vayunaṃ tatanvatsūryeṇa vayunavaccakāra | kadā te martā amṛtasya dhāmeyakṣaṃto na minaṃti svadhāvaḥ ‖*) (Ṛ. Saṃ. 6-21-3)
+
+explains: स तमोऽप्रज्ञानं ततन्वत्सूतं सूर्येण प्रज्ञानवच्चकार (*sa tamo 'prajñānaṃ tatanvatsūtaṃ sūryeṇa prajñānavaccakāra*) (Ni. 5-15); it means that he made even what was in the form of darkness and beyond perception an object of knowledge.
+
+### Printed p. 594
+अग्ने नय सुपथा राये अस्मान्विश्वानि देव वयुनानि विद्वान् । युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥ (*agne naya supathā rāye asmānviśvāni deva vayunāni vidvān | yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ‖*) (Ṛ. Saṃ. 1-189-1)
+
+Here Śaṅkarācārya has explained वयुनानि (*vayunāni*) as कर्माणि (*karmāṇi*) and प्रज्ञानानि (*prajñānāni*). Thus both meanings are possible for this word. In the present Ṛk it is stated that the chariot of the Aśvins, which had been hidden, has now become an object of our knowledge.
+
+धियंजिन्वा (*dhiyaṃjinvā*)—कर्मणः बुद्धेर्वा प्रीणयितार् (*karmaṇaḥ buddhervā prīṇayitār*): it is explained as impellers of rite, or impellers of intellect. The word धी (*dhī*) is used in both senses, intellect and rite.
+
+यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः । (*yajñaṃ vaṣṭu dhiyāvasuriti vāgvai dhiyāvasuḥ |*) (Ai. Ā. 1-1-4)
+
+By this sentence the Aitareya Āraṇyaka explains the word धी (*dhī*) as praise. In the Nirukta the word धी (*dhī*) is listed both among the names of rite (Ni. 3-1) and among the names of knowledge (Ni. 3-13). And for the word in the Ṛk
+
+महो अर्णः सरस्वती प्रचेतयति केतुना । धियो विश्वा वि राजति । (*maho arṇaḥ sarasvatī pracetayati ketunā | dhiyo viśvā vi rājati |*) (Ṛ. Saṃ. 1-3-12)
+
+it explains सर्वाणि प्रज्ञानानि (*sarvāṇi prajñānāni*) (Ni. 11-27), meaning our whole meditation endowed with knowledge. And in
+
+पथस्पथः सरिपतिं वचस्या कामेन कृतो अभ्यानळर्कं । स नो रासच्चुरुधश्चंद्राग्रा धियंधियं सीषधाति प्र पूषा ॥ (*pathaspathaḥ saripatiṃ vacasyā kāmena kṛto abhyānaḷarkaṃ | sa no rāsaccurudhaścaṃdrāgrā dhiyaṃdhiyaṃ sīṣadhāti pra pūṣā ‖*) (Ṛ. Saṃ. 6-49-8)
+
+and similar places the word धी (*dhī*) is explained as rites such as sacrifices. Therefore in the present Ṛk the meaning "gladdeners of the rite or of the intellect" can be given.
+
+Although the word जिन्वति (*jinvati*) is listed among the names of motion (Ni. 3-9), in general this word shows excess of delight in work. जिन्वतिः प्रीतिकर्मा (*jinvatiḥ prītikarmā*) (Ni. 6-22): to show the excess of delight indicated by this word, the Nirukta-writer cites the Ṛk
+
+भूमिं पर्जन्या जिन्नंति दिवं जिन्नंत्यग्नयः ॥ (*bhūmiṃ parjanyā jinnaṃti divaṃ jinnaṃtyagnayaḥ ‖*) (Ṛ. Saṃ. 1-164-51)
+
+and thus states the purport of this word. In the present Ṛk it may mean impellers of rites such as sacrifices, or those who obtain satisfaction from rites such as sacrifices. This word is an epithet of the Aśvin deities.
+
 ---
 
-**Progress note:** Done through printed p. 588. pp. 583-588 (batch API)
+**Progress note:** Done through printed p. 594. pp. 589-594 (batch API)
