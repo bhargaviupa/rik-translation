@@ -12025,6 +12025,172 @@ svasā bharāti—here the word स्वसृ (*svasṛ*) is meant to denote U
 - विश्वगूर्ती — विश्वा गूर्तिः ययोस्तौ । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
 - भराति — भृञ् भरणे धातुः । लेटि प्रथमपुरुषैकवचने तिप् । लेटोडाट् (पा. सू. ३-४-९४) इति तस्य आडागमः । शप्निमित्तेन धातोः गुणः । र परे
 
+### Printed p. 505
+
+- यद्योगात् निघातस्वरो न भवति । शप् तिप् अनुदात्तौ इति धातुस्वरः अवशिष्यते ।
+- ईट्टे—ईड स्तुत् धातुः । लट् प्रथमपुरुषैकवचनांतरूपम् । व्यत्ययेन आद्युदात्तस्वरो भवति ।
+- इषे—सावेकाचस्तृतीयादिः (पा. सू ६-१-१८) इति विभक्तेः उदात्तस्वरो भवति ।
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं पय॑ उ॒स्रिया॑यामधत्तं प॒क्वमा॒माया॒मव॒पूर्व्यं॒गोः।  
+> अं॒तर्यद्व॒निनो॑ वामृतप्सू ह्वा॒रो न शुचि॒र्यज॑ते ह॒विष्मा॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । पयः । उस्रियायां । अधत्तं । पक्वं । अमायां । अव । पूर्व्यं । गोः ।  
+> अंतः । यत् । वनिनः । वां । ऋतप्सू इत्यृतप्सू । ह्वारः । न । शुचिः । यजते ।  
+> हविष्मान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवामुस्रियायां! गोनामैतत् । भोगोत्सृविण्यां
+> गनि पयोऽधत्तं । आधारयतं । स्थापितवंत् । तथामायामपक्वायां पक्वं
+> परिपक्वं भोगयोग्यं गोसंबंधि दुग्धं पूर्व्यं पूर्वभवं तत्रैवोत्पन्नमवावस्तादधारयतं । गवि क्षीरमुत्पाद पुनर्भोगाय पृथक्कृतवंतावित्यर्थः ।
+> यद्यस्मात् हे ऋतप्पू सत्यस्वरूपौ यज्ञियहविर्भक्षयितारौ ना हे अश्विन् वां
+> वनिन उदकवत उदकोपलक्षितहविष्मतो यज्ञस्यांतर्मध्यॆ हविष्मान् प्रदेयहविषा तद्वान् शुचिः शुद्धो यजमानो यजते पूजयति युवां तस्मादेवमकुरुतं । यद्वा! यदैवं यजमानः करोति तदेत्यर्थः । तत्र दृष्टांतः । वनिनो
+> वनसंबंधिवृक्षसमूहस्यांतर्मध्यॆ ह्वारो न चोर इव । स यथा जागरूको
+> वर्तते तथा यजमानोऽपीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you placed (अधत्तं (*adhattaṃ*), "caused to hold, established") milk in the उस्रियायां (*usriyāyāṃ*)—गोनामैतत् (*gonāmaitat*), this is a name of the cow—the cow that yields enjoyments. Likewise, in the unripe (अमायां (*amāyāṃ*)) one you set down the ripe (पक्वं (*pakvaṃ*)), fully matured milk of the cow, fit for enjoyment, which was formed there itself (पूर्व्यं (*pūrvyaṃ*), "of prior origin"). The meaning is: having produced milk in the cow, you separated it again for enjoyment.
+
+Since, O Ṛtapsū (of true nature, consumers of the sacrificial oblation), O Aśvins, the pure sacrificer, who has the oblation to be offered, worships you in the midst of the sacrifice that is वनिनः (*vaninaḥ*), "possessed of water", that is, of the oblation marked by water—therefore you did so. Or else: "when the sacrificer does thus, then" is the meaning. An illustration follows: वनिनो वनसंबंधिवृक्षसमूहस्यांतर्मध्यॆ ह्वारो न (*vanino vanasaṃbaṃdhivṛkṣasamūhasyāṃtarmadhyè hvāro na*), like a thief in the midst of a group of forest trees; as he is watchful, so the sacrificer too is the meaning.
+
+### Printed p. 506
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे ऋतप्यू (*he ṛtapyū*)—O Aśvin deities, of true nature (eaters of the sacrificial oblation)
+- यॆत् (*yèt*)—for which reason
+- हविष्मान् (*haviṣmān*)—the one who has the oblation to be offered to you
+- शुचिः (*śuciḥ*)—and pure
+- यजमाननु (*yajamānanu*)—the sacrificer
+- वां (*vāṃ*)—you two
+- वनिनः (*vaninaḥ*)—of the sacrifice endowed with oblation
+- अंतः (*aṃtaḥ*)—in the middle
+- [or वनिनः (*vaninaḥ*)—of the group of trees connected with the forest; अंतः (*aṃtaḥ*)—situated in the midst]
+- ह्यारः नः (*hyāraḥ naḥ*)—as watchful as a thief is (so watchfully)
+- यजते (*yajate*)—worships
+- तत् (*tat*)—therefore
+- (हे अश्विनौ (*he aśvinau*)—O Aśvin deities)
+- युवं (*yuvaṃ*)—you two
+- उस्तियायां (*ustiyāyāṃ*)—in the cow
+- पयः (*payaḥ*)—milk
+- अधत्तं (*adhattaṃ*)—you established
+- गोः (*goḥ*)—in the udder of the cow
+- आमायां (*āmāyāṃ*)—unripe
+- पूर्वं (*pūrvaṃ*)—arisen in that very place
+- पक्वं (*pakvaṃ*)—ripe milk
+- अव (*ava*) (अधत्तं (*adhattaṃ*))—you set down
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, of true nature (eaters of the oblation that is a limb of the sacrifice)! The sacrificer, equipped with oblation and the rest, worships you in the sacrifice as watchfully as a thief hiding in a forest. Therefore you established abundant milk in their cows, and you also produced ripe milk in the heifers belonging to them.
+
+##### English translation (H. H. Wilson)
+You have restored milk to the cow : you have (brought) down the
+prior mature (secretion) into the unripe (or barren udder) of the cow : the
+devont offerer of the oblation worships you, whose froms are truth, (as
+vigilant in the midst of the ceremony), as a thief (in the midst) of a thicket,
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतप्पू (*ṛtappū*)—The use of the word ṛta in the senses of truth, sacrifice and so on, and how ṛta reflects the order of the universe, were explained earlier in this same volume in the Special Topics on Ṛ. Saṃ. 1-179-2. In the present verse the Aśvin deities are described by the word ऋतप्पू (*ṛtappū*) as being of the nature of truth. Because they pervade the whole universe in the forms of heaven and earth, of sun and moon, and of day and night, the sense is that they themselves are the whole universe, which is of the nature of truth.
+
+वनिनः (*vaninaḥ*)—It has been shown that two or three kinds of meaning are possible for this word. First, it is explained as उदकवंतः उदकोपलक्षित हविष्मतो यज्ञस्य (*udakavaṃtaḥ udakopalakṣita haviṣmato yajñasya*); second, as वनसंबंधिवृक्षसमूहस्य (*vanasaṃbaṃdhivṛkṣasamūhasya*).
+
+### Printed p. 507
+
+The word वन (*vana*) is listed among the names of rays (Ni. 2-15) and among the names of water (Ni. 2-23). Besides these meanings, the word is used in the Ṛksaṃhitā in many other senses too. From the root वन—संभक्तौ (*vana—saṃbhaktau*), which gives the sense of a very intense wish or longing, or from the root वनु—याचने (*vanu—yācane*), which gives the sense of asking, entreating, nominal and verbal forms such as वनानि, वनिनः वनामहे, वनतं (*vanāni, vaninaḥ vanāmahe, vanataṃ*) are formed and used, so some examples may be looked at to understand these differences of meaning. Where nominal forms are used the meanings are venerable, water, forest-tree, flower, fruit and so on; where verbal forms are used the meanings are to kill, to give, to serve with devotion and so on. The occasions for these, with examples, were explained at length earlier in this same volume in the Special Topics on Ṛ. Saṃ. 1-171-3. In the present verse the sense is either "of the sacrifice marked by water" or "of the group of trees".
+
+द्वारः (*dvāraḥ*)—The word द्वार (*dvāra*) has been explained as "thief". The meaning thief, deceiver has come to this word by tradition; its original meaning is crooked, bent.
+
+क्रत्वा हि द्रोणे अज्यसेऽग्ने वाजी न कृत्व्यः । परिज्जीव स्वधा गयोऽत्यो न ह्वार्यः शिशुः ॥ (*kratvā hi droṇe ajyase 'gne vājī na kṛtvyaḥ | parijjīva svadhā gayo 'tyo na hvāryaḥ śiśuḥ ‖*)
+(Ṛ. Saṃ. 6-2-8)
+Here the word ह्वार्यः (*hvāryaḥ*) shows a quality of the horse; here it is an epithet of Agni. The common property of the horse and Agni is indicated by this word: as the horse has a crooked course, so the flame of Agni also spreads with a crooked course. Likewise in
+
+उत स्म दुर्गृभीयसे पुत्रो न ह्वार्याणां । पुरू यो दग्धासि वनाग्ने पशुर्न यवसे ॥ (*uta sma durgṛbhīyase putro na hvāryāṇāṃ | purū yo dagdhāsi vanāgne paśurna yavase ‖*)
+(Ṛ. Saṃ. 5-9-4)
+the word ह्वार्याणां (*hvāryāṇāṃ*) means कुटिलं गच्छतां सर्पाणां (*kuṭilaṃ gacchatāṃ sarpāṇāṃ*), and conveys the crooked motion of snakes that glide crookedly. With this original meaning, the word has also been used as a synonym for thieves and the like who have the same kind of course: a deceiver who has neither a straight, that is, truthful, disposition nor conduct. Since the thief too has this quality, ह्वारः (*hvāraḥ*) also comes to mean a thief. And further,
+
+वि यदस्थाद्यजतो वातचोदितो ह्वारो न वक्वा जरणा अनाकृतः । तस्य पत्मन्दक्षुषः कृष्णजिंहसः शुचिजन्मनो रज आ व्यध्वनः ॥ (*vi yadasthādyajato vātacodito hvāro na vakvā jaraṇā anākṛtaḥ | tasya patmandakṣuṣaḥ kṛṣṇajiṃhasaḥ śucijanmano raja ā vyadhvanaḥ ‖*)
+(Ṛ. Saṃ. 1-141-7)
+
+### Printed p. 508
+
+in such verses it means a gossipmonger**NOTE**. Since the gossipmonger spreads about beyond measure, he has no straight and definite goal, and so he too has a crooked course. Therefore the वक्व (*vakva*) has the epithet द्वारः (*dvāraḥ*). In the present verse it is explained as thief. But here one more point must be noted. Ordinarily, when this word is used as an epithet of a thief it shows his deceitfulness. But in the present verse it shows the quality common to the performer of the sacrifice and the thief: as the thief carries out his act of theft with vigilance, so the sacrificer carries out his. The devotion to the work and the vigilance of both are the common property here.
+
+उस्रियायां (*usriyāyāṃ*)—This word is listed among the cow-names अघ्न्या, उस्रा, उस्रिया (*aghnyā, usrā, usriyā*) (Ni. 3-8): उस्रियेति गोनाम । उस्राविणः अस्यां भोगाः । (*usriyeti gonāma | usrāviṇaḥ asyāṃ bhogāḥ |*) The Nirukta-author says that the name उस्रियाः (*usriyāḥ*) has come because milk, the means of happiness, flows; he quotes the verse
+
+उत वां विक्षु मद्यास्वंधो गाव आपश्च पीपयंत देवीः । उतो नो अस्य पूर्व्यः पतिर्दन्वीतं पापं पयस उस्रियायाः ॥ (*uta vāṃ vikṣu madyāsvaṃdho gāva āpaśca pīpayaṃta devīḥ | uto no asya pūrvyaḥ patirdanvītaṃ pāpaṃ payasa usriyāyāḥ ‖*)
+(Ṛ. Saṃ. 1-153-4)
+and explains as above (Ni. 4-19).
+
+In the present verse the situation is indicated that the Aśvin deities established milk in the udder of a cow that was unripe. This situation is indicated in many places in the Ṛksaṃhitā. In some places its story is told thus:
+
+तयुर्नाम राजर्षिः । सोऽश्विनौ परिचर‍्यया तुष्टावुवाच । मम गौरधेनुनिर्वृत्तप्रसवा वृद्धा च । तां मे धेनुं कुरुतमिति । तामस्मै अश्विनौ धेनुं चक्रतुरित्यत्रेतिहासमाचक्षते ॥ श (*tayurnāma rājarṣiḥ | so 'śvinau paricaryayā tuṣṭāvuvāca | mama gauradhenunirvṛttaprasavā vṛddhā ca | tāṃ me dhenuṃ kurutamiti | tāmasmai aśvinau dhenuṃ cakraturityatretihāsamācakṣate ‖ śa*)**NOTE**
+
+When the royal sage Śayu worshipped the Aśvin deities they were pleased with that worship. Then the royal sage prayed to them: "My cow is barren; make it bear a calf and give milk, and turn it into a milch cow." On his prayer they favoured that aged cow so that it became a milch cow. Many Ṛks indicate this situation. For example—
+
+अथेनुं हस्ता स्तर्यं १ विषक्तामपिन्वतं तयवे अश्विना गां । (*athenuṃ hastā staryaṃ 1 viṣaktāmapinvataṃ tayave aśvinā gāṃ |*)
+(Ṛ. Saṃ. 1-117-20)
+
+### Printed p. 509
+
+युवं धेनुं शयवे नाधितायापिन्वतमश्विना पूर्व्याय । (*yuvaṃ dhenuṃ śayave nādhitāyāpinvatamaśvinā pūrvyāya |*)
+(Ṛ. Saṃ. 1-118-8)
+दशस्यंता शयवे पिप्यथुर्गामिति च्यवाना सुमतिं भुरण्यू । (*daśasyaṃtā śayave pipyathurgāmiti cyavānā sumatiṃ bhuraṇyū |*)
+(Ṛ. Saṃ. 6-62-7)
+ता वर्तियातं जयुषा वि पर्वतमपिन्वतं शयवे धेनुमश्विना । (*tā vartiyātaṃ jayuṣā vi parvatamapinvataṃ śayave dhenumaśvinā |*)
+(Ṛ. Saṃ. 10-39-13)
+In these and many other Ṛks the situation is told in which the Aśvin deities turned Śayu's barren cow into a milch cow. The present verse too states the same matter, but the name Śayu is not given here. In some places the story is that they made the aged cow bear a calf and filled her with milk; in other places that they turned a barren cow into a milch cow and filled her with milk.
+
+आमायां (*āmāyāṃ*)—अपरिपक्वायां (*aparipakvāyāṃ*): "that which is not ripe" is the meaning. Here it is an epithet of the cow's udder. The word is used of a cow whose udder has not yet filled with milk, or of a barren cow. Just as the Aśvin deities filled such an unripe udder with milk, this skill is described in the case of other deities as well. For example—
+
+इमौ देवौ जायमानौ जुषंतेमौ तमांसि गूहतामजुष्टा । अभ्यामिंद्रः पक्वमामास्वंतः सोमापूषभ्यां जनदुस्रियासु ॥ (*imau devau jāyamānau juṣaṃtemau tamāṃsi gūhatāmajuṣṭā | abhyāmiṃdraḥ pakvamāmāsvaṃtaḥ somāpūṣabhyāṃ janadusriyāsu ‖*)
+(Ṛ. Saṃ. 2-40-2)
+Here it is said that Soma and Pūṣan, both of them, filled the udder of a young cow with milk and turned her into a milch cow. The word आम (*āma*) ordinarily means unripe. Although it is an epithet that can be used in any context, in the Ṛksaṃhitā it is used as an epithet only when describing the udder of a cow, and indicates the sense "not ripened with milk", that is, an udder without milk. For example (U. Ṛ. Saṃ. 3-20-14; 4-3-9; 2-35-6; 2-40-2; 6-77-4; 8-78-7 and so on)**NOTE**.
+
+##### Grammar
+
+- उस्रियायाम्—वस निवासे इति धातुः । वसंति इति उस्रियाः । “यन्न पदार्थविशेषसमुत्थं प्रत्ययतः प्रकृतेश्च तदूह्यम्” इति वचनात् वस धातोः कर्तरि रियक् प्रत्ययः आगतः इति कार्यात् ऊह्यम् । कित्त्वात् धातोः संप्रसारणं भवति । प्रत्ययस्वरेण इकार उदात्तो भवति ।
+
+### Printed p. 510
+
+- अथत्तम्—डुधाज् धारणपोषणयोः इति धातुः अंतर्भानित ण्यर्थकः । लज् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- पूर्व्यम्—पूर्वे भवन् । भवे छंदसि (पा. सू. ४-४-११०) इति यत् प्रत्ययः । यतोनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति ।
+- ह्यारः—हृ कौटल्ये इति धातुः । अस्मात् ण्यंतात् अच् प्रत्ययः । अचोञ्ञति इति ऋकारस्य वृद्धिः । शेरनिटि (पा. सू. ६-४-५१) इति णिचः लोपः । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति ।
+- यजते—यष्टृत्तान्नित्यम् (पा. सू. ८-१-६६) इति निघातस्वरप्रतिषेधो भवति अतः धातुस्वरः अवशिष्यते ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह॑ घ॒र्मं मधु॑मंत॒मत्र॑ये॒ऽपो न क्षोदो॑वृणीतमे॒षे ।  
+> तद्वां॑ नरावश्विना॒ पश्व॑इष्टी॒ रथ्ये॑व च॒क्रा प्रति॑ यंति॒ मध्वः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । ह । घर्मं । मधुमंतं । अत्रये । अपः । न । क्षोडः । अवृणीतं ।  
+> एषे ।  
+> शत् । नां । नरौ । अश्विना । पश्वः इष्टिः । रथ्या इव । चक्रा । प्रति । यंति । मध्वः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेतिहासमाहुः। प्रवर्ग्येण प्रचरंतमत्रिं राक्षसास्तप्ते घर्मेऽपातयन्।
+> स च तस्यमानोऽश्विन्यौतुष्टाव । शौ च: स्तुत्या हृष्टमनसावरक्षतामिति । अपरेऽग्नौ
+> क्षिप्तमपालायतामित्याहुरिति । हे अश्विनौ युवं युवां मथुमंतंपयोथृत
+> रूपाभ्यां मधुथ्यां तद्वंतं घर्मं दीप्तं प्रवर्ग्यमेषे सौख्यमिच्छतेऽत्रय
+
+##### Gist of the bhāṣya
+
+Here they tell an itihāsa. While Atri was performing with the Pravargya, the rākṣasas made him fall into the heated gharma. Thrown thus, he praised the two Aśvins, and the two, with delighted minds, protected him. Others say that, thrown into the fire, he escaped. O Aśvins, you two (युवं युवां (*yuvaṃ yuvāṃ*)) the मथुमंतं (*mathumaṃtaṃ*)—possessing honey by the two forms of milk and ghee**NOTE**—the blazing gharma, the Pravargya, for Atri, who seeks comfort (*eṣe saukhyamicchate 'traya*)
+
 ---
 
-**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
+**Progress note:** Done through printed p. 510. pp. 505-510 (batch API)
