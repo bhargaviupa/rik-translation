@@ -12064,7 +12064,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *yāvan mātram uṣaso na pratīkaṃ suparṇyo vasate mātariśvaḥ |*  (Ṛ. Saṃ. 10-88-19; the print has *suparṇyo 3 vasate*, a mark of protraction)
 
-
+**GLOSS**
 
 "— in this Ṛk too the word *pratīka* is explained in such a way."
 
@@ -13390,7 +13390,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *dasrā hiraṇyavartanī śubhas patī pātaṃ somam ṛtāvṛdhā |*  (Ṛ. Saṃ. 8-87-5)
 
-
+**GLOSS**
 
 "— in all these Ṛks the two attributes *dasrā* and *hiraṇyavartanī* together describe the form and the beauty of the Aśvin deities."
 
@@ -13696,7 +13696,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *tvaṃ ca soma no vaśo jīvātuṃ na marāmahe |*  (Ṛ. Saṃ. 1-91-6 [read in the print; this is Rik 91.6, p. 347 above])
 
-
+**GLOSS**
 
 ---
 

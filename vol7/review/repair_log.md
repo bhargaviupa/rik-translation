@@ -1390,3 +1390,4 @@
 | 567 | `Va. 32 [?]"; centre` → `Va. 32"; centre` | SECOND-PASS Q2: Kannada p.567 head ವ. ೩೨ (q308) |
 | 567 | ` [as read, doubtful [?]]` → `` | SECOND-PASS Q2: Kannada p.567 ಯಾವ ಋಷಿಯ ಸೂಕ್ತದ ಕೊನೆಯ ಅರ್ಧವೂ ಬಹುದೇವತಾಕವಾಗಿಲ್ಲ agrees (q309) |
 | 567 | `*phiñ* [?])` → `*ghañ*)` | SECOND-PASS Q1: Kannada p.567 ಭಾವಾರ್ಥದಲ್ಲಿ ಘಞ್ ಪ್ರತ್ಯಯ; IAST by sp_sanskrit.py (q310) |
+- 2026-11-27: Rigveda_Samhita_Vol7_Kannada_Text.md: 20 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
