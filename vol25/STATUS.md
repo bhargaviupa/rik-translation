@@ -20,7 +20,7 @@ Translation by Sonnet agents, one agent per batch of three windows (`docs/prompt
 Not done yet from HANDBOOK §11: steps 2–9 (refs_fix, accent report, `kn_headings.py`, QA sample by a different model, front matter and PDF, review lists, metrics, retrospective).
 
 ## Open items
-1. User: printed p. 298 is a scan duplicate of p. 293 (the real p. 298 is missing); the NOTE list `review/notes.tsv`; the preface install (yes/no).
+1. User: printed p. 298 is a scan duplicate of p. 293 (the real p. 298 is missing); the NOTE list `review/notes.tsv`; the preface is installed (Nov 27 2026).
 2. Dispatcher: the preface (printed before p. 1) is translated by one agent into `vol25/work/preface/en.md`; installing it is a logged repair with the user's yes.
 3. Pictures: the cover and title page for the PDF (`vol25/html/figures/fig1_title.png`, `fig2_cover.png`).
 
