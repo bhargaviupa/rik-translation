@@ -1,8 +1,6 @@
 page	kind	english	supplied	status
 15	ref	2-20	9-20	proposed
-34	ref	11-18	11-10	proposed
 39	ref	6-1-161	6-1-171	proposed
-42	ref	6-6	6-7	proposed
 47	ref	76-2-13	7-2-13	proposed
 55	ref	3-1-50	7-1-50	proposed
 59	ref	8-2	8-7	proposed
@@ -15,48 +13,23 @@ page	kind	english	supplied	status
 74	ref	6-1-184	6-1-189	proposed
 96	ref	1-151-7	1-151-2	proposed
 98	ref	1-94	1-9	proposed
-101	ref	2-9	3-9	proposed
 106	ref	10-2	10-7	proposed
 112	ref	2-11-21	9-11-21	proposed
 121	ref	10-67-6	10-67-7	proposed
 140	ref	10-15	10-16	proposed
 144	ref	6-1-139	6-2-139	proposed
-149	ref	8-8	9-8	proposed
-168	ref	6-2-15	7-2-15	proposed
-173	ref	6-1-193	6-1-197	proposed
 180	ref	5-6-5-3	5-6-51-3	proposed
-190	ref	3-3-97	3-3-96	proposed
-190	ref	3-4-117	3-4-116	proposed
-193	ref	1-117-14	1-117-4	proposed
 194	ref	1-112-20	1-102-20	proposed
-197	ref	6-2-13	7-2-13	proposed
-202	ref	6-1-164	6-1-174	proposed
-207	ref	3-2-67	7-2-67	proposed
 210	ref	6-100-5	7-100-5	proposed
 210	ref	1-4	1-9	proposed
 212	ref	4-557	4-551	proposed
-215	ref	2-9	3-9	proposed
 218	ref	6-13	6-15	proposed
-227	ref	6-2-49	6-2-46	proposed
-250	ref	7-2-116	7-1-116	proposed
+257	ref	3-9	3-19	proposed
 258	ref	1-117-16	1-116-16	proposed
-260	ref	6-4-9	3-4-9	proposed
-263	ref	7-1-39	3-1-39	proposed
-269	ref	6-1-163	6-1-193	proposed
-269	ref	7-1-39	3-1-39	proposed
-273	ref	8-21-20	8-1-20	proposed
-277	ref	3-19-6	2-19-6	proposed
-286	ref	3-2-170	3-1-170	proposed
-286	ref	6-4-48	9-4-48	proposed
 295	ref	1-117-620	1-117-20	proposed
-307	ref	6-4-20	7-4-20	proposed
-312	ref	7-1-39	3-1-39	proposed
-327	ref	8-3-57	3-3-57	proposed
-327	ref	7-1-39	3-1-39	proposed
+311	ref	10-149-4	10-149-5	proposed
 330	ref	1-116-11	1-116-1	proposed
-331	ref	7-2-15	7-1-15	proposed
 338	ref	10-39-3	10-39-5	proposed
-348	ref	3-2-102	3-2-103	proposed
 351	ref	1-1	12-1	proposed
 351	ref	1-1	12-1	proposed
 351	ref	1-164-46	1-164-47	proposed
@@ -64,6 +37,7 @@ page	kind	english	supplied	status
 353	ref	6-1-50	7-1-50	proposed
 353	ref	6-1-168	6-1-18	proposed
 357	ref	6-1-39	3-1-39	proposed
+367	ref	6-1-168	6-1-18	proposed
 370	ref	1-156	1-157	proposed
 379	ref	7-3-94	6-3-94	proposed
 384	ref	3-4-94	3-4-9	proposed
@@ -101,194 +75,125 @@ page	kind	english	supplied	status
 9	ref	113-2		manual: no anchored one-digit candidate
 10	ref	113-2		manual: no anchored one-digit candidate
 12	ref	3-34		manual: no anchored one-digit candidate
-15	ref	3-2		manual: no anchored one-digit candidate
 17	ref	113-3		manual: no anchored one-digit candidate
 18	ref	113-3		manual: no anchored one-digit candidate
-18	ref	8-1-12		manual: no anchored one-digit candidate
 22	ref	113-4		manual: no anchored one-digit candidate
 23	ref	113-4		manual: no anchored one-digit candidate
-23	ref	6-1		manual: no anchored one-digit candidate
-24	ref	2-8		manual: no anchored one-digit candidate
 25	ref	2-2-0		manual: no anchored one-digit candidate
 27	ref	113-5		manual: no anchored one-digit candidate
 28	ref	1-2		manual: no anchored one-digit candidate
 28	ref	113-5		manual: no anchored one-digit candidate
-28	ref	6-4		manual: no anchored one-digit candidate
-29	ref	2-0		manual: no anchored one-digit candidate
 29	ref	2-112-21		manual: no anchored one-digit candidate
 29	ref	3-11-3		manual: no anchored one-digit candidate
 30	ref	2-20		manual: no anchored one-digit candidate
 31	ref	1-66		manual: no anchored one-digit candidate
 32	ref	113-6		manual: no anchored one-digit candidate
-32	ref	9-00		manual: no anchored one-digit candidate
-33	ref	2-10		manual: no anchored one-digit candidate
-34	ref	10-6		manual: no anchored one-digit candidate
-34	ref	4-10		manual: no anchored one-digit candidate
-34	ref	94-11		manual: no anchored one-digit candidate
-35	ref	4-556		manual: no anchored one-digit candidate
 36	ref	113-7		manual: no anchored one-digit candidate
 37	ref	113-7		manual: no anchored one-digit candidate
-38	ref	2-10		manual: no anchored one-digit candidate
 40	ref	113-8		manual: no anchored one-digit candidate
-40	ref	4-1		manual: no anchored one-digit candidate
 40	ref	41-85-2		manual: no anchored one-digit candidate
 40	ref	7-3-11		manual: no anchored one-digit candidate
 41	ref	113-8		manual: no anchored one-digit candidate
 44	ref	113-9		manual: no anchored one-digit candidate
 45	ref	113-9		manual: no anchored one-digit candidate
 46	ref	2-1		manual: no anchored one-digit candidate
-46	ref	3-22		manual: no anchored one-digit candidate
 48	ref	113-10		manual: no anchored one-digit candidate
 49	ref	113-10		manual: no anchored one-digit candidate
 49	ref	2-40		manual: no anchored one-digit candidate
 52	ref	8-4-96		manual: no anchored one-digit candidate
 53	ref	113-11		manual: no anchored one-digit candidate
-53	ref	6-4-56		manual: no anchored one-digit candidate
-55	ref	2-3		manual: no anchored one-digit candidate
 56	ref	113-12		manual: no anchored one-digit candidate
 56	ref	6-3-78		manual: no anchored one-digit candidate
 56	ref	6-481		manual: no anchored one-digit candidate
 57	ref	113-12		manual: no anchored one-digit candidate
 57	ref	9-0-41		manual: no anchored one-digit candidate
-58	ref	1-12		manual: no anchored one-digit candidate
-59	ref	3-6		manual: no anchored one-digit candidate
-60	ref	1-6		manual: no anchored one-digit candidate
-60	ref	2-7		manual: no anchored one-digit candidate
-60	ref	6-9		manual: no anchored one-digit candidate
 62	ref	113-13		manual: no anchored one-digit candidate
-63	ref	1-484		manual: no anchored one-digit candidate
 63	ref	113-13		manual: no anchored one-digit candidate
-65	ref	1-12		manual: no anchored one-digit candidate
-65	ref	2-7		manual: no anchored one-digit candidate
 66	ref	3-4-822		manual: no anchored one-digit candidate
 67	ref	113-14		manual: no anchored one-digit candidate
-68	ref	1-19		manual: no anchored one-digit candidate
 68	ref	113-14		manual: no anchored one-digit candidate
 68	ref	3-3-89		manual: no anchored one-digit candidate
-69	ref	13-9		manual: no anchored one-digit candidate
 70	ref	113-15		manual: no anchored one-digit candidate
 71	ref	113-15		manual: no anchored one-digit candidate
-74	ref	6-1		manual: no anchored one-digit candidate
 75	ref	113-16		manual: no anchored one-digit candidate
-75	ref	6-1		manual: no anchored one-digit candidate
 76	ref	113-16		manual: no anchored one-digit candidate
-76	ref	2-65		manual: no anchored one-digit candidate
-76	ref	4-2-65		manual: no anchored one-digit candidate
-77	ref	2-7		manual: no anchored one-digit candidate
-78	ref	34-91		manual: no anchored one-digit candidate
 79	ref	113-17		manual: no anchored one-digit candidate
-79	ref	8-65		manual: no anchored one-digit candidate
 80	ref	113-17		manual: no anchored one-digit candidate
-81	ref	3-18		manual: no anchored one-digit candidate
 84	ref	6-1-168		manual: no anchored one-digit candidate
-84	ref	64-78		manual: no anchored one-digit candidate
 86	ref	113-18		manual: no anchored one-digit candidate
 90	ref	113-19		manual: no anchored one-digit candidate
-93	ref	2-10		manual: no anchored one-digit candidate
 94	ref	113-20		manual: no anchored one-digit candidate
-95	ref	2-1		manual: no anchored one-digit candidate
 97	ref	1-20		manual: no anchored one-digit candidate
 97	ref	2-97		manual: no anchored one-digit candidate
 98	ref	114-1		manual: no anchored one-digit candidate
 99	ref	2-9		manual: no anchored one-digit candidate
 99	ref	4-0		manual: no anchored one-digit candidate
-99	ref	5-4-140		manual: no anchored one-digit candidate
 99	ref	99-100		manual: no anchored one-digit candidate
 104	ref	114-2		manual: no anchored one-digit candidate
 105	ref	114-2		manual: no anchored one-digit candidate
 106	ref	2-33-6		manual: no anchored one-digit candidate
 107	ref	8-8-5		manual: no anchored one-digit candidate
-108	ref	2-5-1-3		manual: no anchored one-digit candidate
-108	ref	3-1-6-1		manual: no anchored one-digit candidate
+108	ref	2-5-9-1		manual: no anchored one-digit candidate
+108	ref	2-6-7-1		manual: no anchored one-digit candidate
 109	ref	114-3		manual: no anchored one-digit candidate
-109	ref	3-3-94		manual: no anchored one-digit candidate
 110	ref	114-3		manual: no anchored one-digit candidate
-111	ref	2-10		manual: no anchored one-digit candidate
 112	ref	2-22		manual: no anchored one-digit candidate
 112	ref	7-17-5		manual: no anchored one-digit candidate
-113	ref	3-1		manual: no anchored one-digit candidate
 114	ref	114-4		manual: no anchored one-digit candidate
 114	ref	3-6-1-3		manual: no anchored one-digit candidate
 114	ref	4-1-85		manual: no anchored one-digit candidate
 115	ref	3-6-1-3		manual: no anchored one-digit candidate
-116	ref	61-49		manual: no anchored one-digit candidate
-117	ref	6-1-17		manual: no anchored one-digit candidate
 118	ref	1-4		manual: no anchored one-digit candidate
 118	ref	114-5		manual: no anchored one-digit candidate
-120	ref	1-10		manual: no anchored one-digit candidate
 122	ref	2-33-13		manual: no anchored one-digit candidate
-123	ref	6-1		manual: no anchored one-digit candidate
-123	ref	7-1-78		manual: no anchored one-digit candidate
 124	ref	114-6		manual: no anchored one-digit candidate
 125	ref	114-6		manual: no anchored one-digit candidate
 125	ref	64-141-1		manual: no anchored one-digit candidate
-127	ref	1-1		manual: no anchored one-digit candidate
 128	ref	2-33-2		manual: no anchored one-digit candidate
-128	ref	8-491		manual: no anchored one-digit candidate
 129	ref	114-7		manual: no anchored one-digit candidate
 129	ref	64-141-1		manual: no anchored one-digit candidate
 130	ref	114-7		manual: no anchored one-digit candidate
-132	ref	1-11		manual: no anchored one-digit candidate
-132	ref	7-2-35		manual: no anchored one-digit candidate
 133	ref	114-8		manual: no anchored one-digit candidate
-134	ref	2-3		manual: no anchored one-digit candidate
-134	ref	2-7		manual: no anchored one-digit candidate
 137	ref	114-9		manual: no anchored one-digit candidate
 139	ref	3-2		manual: no anchored one-digit candidate
 140	ref	7-1-39		manual: no anchored one-digit candidate
 141	ref	114-10		manual: no anchored one-digit candidate
 142	ref	114-10		manual: no anchored one-digit candidate
 142	ref	25-11		manual: no anchored one-digit candidate
-143	ref	1-114-1		manual: no anchored one-digit candidate
-144	ref	6-3		manual: no anchored one-digit candidate
 145	ref	114-11		manual: no anchored one-digit candidate
 146	ref	114-11		manual: no anchored one-digit candidate
-147	ref	1-4		manual: no anchored one-digit candidate
-147	ref	2-7		manual: no anchored one-digit candidate
-147	ref	3-3		manual: no anchored one-digit candidate
-147	ref	3-4		manual: no anchored one-digit candidate
 148	ref	1-11		manual: no anchored one-digit candidate
 148	ref	97-148		manual: no anchored one-digit candidate
 149	ref	8-6		manual: no anchored one-digit candidate
+149	ref	8-8		manual: no anchored one-digit candidate
 150	ref	115-1		manual: no anchored one-digit candidate
 151	ref	115-1		manual: no anchored one-digit candidate
-154	ref	3-2		manual: no anchored one-digit candidate
-154	ref	3-2-107		manual: no anchored one-digit candidate
-154	ref	6-1		manual: no anchored one-digit candidate
-154	ref	6-3		manual: no anchored one-digit candidate
-154	ref	6-4-131		manual: no anchored one-digit candidate
 155	ref	115-2		manual: no anchored one-digit candidate
 156	ref	115-2		manual: no anchored one-digit candidate
 158	ref	6-1-130		manual: no anchored one-digit candidate
 159	ref	115-3		manual: no anchored one-digit candidate
-159	ref	6-1-223		manual: no anchored one-digit candidate
 160	ref	115-3		manual: no anchored one-digit candidate
 161	ref	3-19		manual: no anchored one-digit candidate
-162	ref	7-1-50		manual: no anchored one-digit candidate
 163	ref	115-4		manual: no anchored one-digit candidate
-163	ref	6-1-97		manual: no anchored one-digit candidate
 164	ref	115-4		manual: no anchored one-digit candidate
-165	ref	2-1		manual: no anchored one-digit candidate
-168	ref	8-2-32		manual: no anchored one-digit candidate
 169	ref	115-5		manual: no anchored one-digit candidate
-172	ref	3-3-108		manual: no anchored one-digit candidate
 172	ref	3-41-42		manual: no anchored one-digit candidate
 174	ref	115-6		manual: no anchored one-digit candidate
 176	ref	1-6		manual: no anchored one-digit candidate
 176	ref	149-176		manual: no anchored one-digit candidate
-176	ref	7-4-66		manual: no anchored one-digit candidate
 178	ref	116-1		manual: no anchored one-digit candidate
 179	ref	116-1		manual: no anchored one-digit candidate
-181	ref	1-116		manual: no anchored one-digit candidate
-181	ref	1-126		manual: no anchored one-digit candidate
+181	ref	1-112-11		manual: no anchored one-digit candidate
+181	ref	1-112-19		manual: no anchored one-digit candidate
+181	ref	1-116-1		manual: no anchored one-digit candidate
+181	ref	1-117-20		manual: no anchored one-digit candidate
+181	ref	1-18-1		manual: no anchored one-digit candidate
 181	ref	10-2		manual: no anchored one-digit candidate
-181	ref	10-20		manual: no anchored one-digit candidate
+181	ref	10-23-6		manual: no anchored one-digit candidate
+181	ref	10-24-4		manual: no anchored one-digit candidate
+181	ref	8-9-15		manual: no anchored one-digit candidate
 182	ref	1-116-1		manual: no anchored one-digit candidate
-183	ref	6-3-73		manual: no anchored one-digit candidate
-184	ref	3-2-76		manual: no anchored one-digit candidate
-184	ref	7-1-58		manual: no anchored one-digit candidate
 185	ref	116-2		manual: no anchored one-digit candidate
-185	ref	3-4-82		manual: no anchored one-digit candidate
 185	ref	6-4		manual: no anchored one-digit candidate
 186	ref	1-8		manual: no anchored one-digit candidate
 186	ref	116-2		manual: no anchored one-digit candidate
@@ -296,232 +201,114 @@ page	kind	english	supplied	status
 189	ref	4-2-4		manual: no anchored one-digit candidate
 189	ref	4-7-4		manual: no anchored one-digit candidate
 191	ref	116-3		manual: no anchored one-digit candidate
-191	ref	3-4-82		manual: no anchored one-digit candidate
-191	ref	7-2-115		manual: no anchored one-digit candidate
 192	ref	116-3		manual: no anchored one-digit candidate
 192	ref	7-3		manual: no anchored one-digit candidate
-193	ref	1-182-5		manual: no anchored one-digit candidate
-194	ref	1-116		manual: no anchored one-digit candidate
-194	ref	1-117		manual: no anchored one-digit candidate
-194	ref	1-182-5		manual: no anchored one-digit candidate
+193	ref	1-117-15		manual: no anchored one-digit candidate
+193	ref	1-118-6		manual: no anchored one-digit candidate
+194	ref	1-117-15		manual: no anchored one-digit candidate
+194	ref	1-118-6		manual: no anchored one-digit candidate
 194	ref	6-5-22		manual: no anchored one-digit candidate
 195	ref	1-117-14		manual: no anchored one-digit candidate
 195	ref	1-182-5		manual: no anchored one-digit candidate
 195	ref	1-182-6		manual: no anchored one-digit candidate
 196	ref	1-73-2		manual: no anchored one-digit candidate
-197	ref	6-1-68		manual: no anchored one-digit candidate
-197	ref	7-1-70		manual: no anchored one-digit candidate
-197	ref	7-3-97		manual: no anchored one-digit candidate
-197	ref	8-2-23		manual: no anchored one-digit candidate
 198	ref	116-4		manual: no anchored one-digit candidate
-198	ref	6-3		manual: no anchored one-digit candidate
 199	ref	1-114		manual: no anchored one-digit candidate
 199	ref	116-4		manual: no anchored one-digit candidate
 200	ref	10-93		manual: no anchored one-digit candidate
 201	ref	1-164		manual: no anchored one-digit candidate
 201	ref	7-87-6		manual: no anchored one-digit candidate
-203	ref	1-198		manual: no anchored one-digit candidate
 204	ref	116-5		manual: no anchored one-digit candidate
-206	ref	8-1-28		manual: no anchored one-digit candidate
-206	ref	8-2-32		manual: no anchored one-digit candidate
 207	ref	116-6		manual: no anchored one-digit candidate
 208	ref	116-6		manual: no anchored one-digit candidate
 208	ref	3-4-14		manual: no anchored one-digit candidate
 211	ref	1-8		manual: no anchored one-digit candidate
-211	ref	8-1-66		manual: no anchored one-digit candidate
 211	ref	8-10-14		manual: no anchored one-digit candidate
-212	ref	6-1		manual: no anchored one-digit candidate
-212	ref	6-1-34		manual: no anchored one-digit candidate
-212	ref	6-2-1		manual: no anchored one-digit candidate
-212	ref	61-213		manual: no anchored one-digit candidate
 213	ref	116-7		manual: no anchored one-digit candidate
-219	ref	1-2-4		manual: no anchored one-digit candidate
-219	ref	2-4-72		manual: no anchored one-digit candidate
-219	ref	3-3-576		manual: no anchored one-digit candidate
-219	ref	3-4-101		manual: no anchored one-digit candidate
-219	ref	6-4-77		manual: no anchored one-digit candidate
-219	ref	7-2-90		manual: no anchored one-digit candidate
 220	ref	116-8		manual: no anchored one-digit candidate
-220	ref	3-1-77		manual: no anchored one-digit candidate
 221	ref	116-8		manual: no anchored one-digit candidate
 223	ref	6-69-4		manual: no anchored one-digit candidate
-224	ref	2-7		manual: no anchored one-digit candidate
-226	ref	4-1-6		manual: no anchored one-digit candidate
-226	ref	5-2-94		manual: no anchored one-digit candidate
 227	ref	116-9		manual: no anchored one-digit candidate
-227	ref	3-3-94		manual: no anchored one-digit candidate
-227	ref	6-3-109		manual: no anchored one-digit candidate
 228	ref	116-9		manual: no anchored one-digit candidate
-230	ref	3-1-77		manual: no anchored one-digit candidate
-230	ref	7-2-81		manual: no anchored one-digit candidate
-231	ref	3-1-66		manual: no anchored one-digit candidate
-231	ref	6-1-78		manual: no anchored one-digit candidate
 232	ref	116-10		manual: no anchored one-digit candidate
 234	ref	7-71-5		manual: no anchored one-digit candidate
 235	ref	1-116-10		manual: no anchored one-digit candidate
 235	ref	2-13		manual: no anchored one-digit candidate
 235	ref	5-64-5		manual: no anchored one-digit candidate
-236	ref	2-7		manual: no anchored one-digit candidate
-236	ref	3-4-101		manual: no anchored one-digit candidate
-236	ref	6-1-39		manual: no anchored one-digit candidate
-236	ref	7-1-59		manual: no anchored one-digit candidate
-236	ref	7-4-66		manual: no anchored one-digit candidate
 237	ref	116-11		manual: no anchored one-digit candidate
-237	ref	7-1-58		manual: no anchored one-digit candidate
 238	ref	116-11		manual: no anchored one-digit candidate
 238	ref	2-0		manual: no anchored one-digit candidate
-241	ref	1-4-1		manual: no anchored one-digit candidate
-241	ref	3-4-83		manual: no anchored one-digit candidate
-241	ref	5-2-94		manual: no anchored one-digit candidate
-242	ref	1-2-5		manual: no anchored one-digit candidate
 242	ref	116-12		manual: no anchored one-digit candidate
 242	ref	6-3-111		manual: no anchored one-digit candidate
-242	ref	7-1-58		manual: no anchored one-digit candidate
 242	ref	8-3-13		manual: no anchored one-digit candidate
 243	ref	1-18		manual: no anchored one-digit candidate
 243	ref	116-12		manual: no anchored one-digit candidate
-244	ref	2-1		manual: no anchored one-digit candidate
-244	ref	6-4		manual: no anchored one-digit candidate
-247	ref	14-1-1		manual: no anchored one-digit candidate
-247	ref	2-5		manual: no anchored one-digit candidate
 250	ref	116-13		manual: no anchored one-digit candidate
-250	ref	6-1		manual: no anchored one-digit candidate
-250	ref	6-1-8		manual: no anchored one-digit candidate
-250	ref	6-2-117		manual: no anchored one-digit candidate
-250	ref	6-4-144		manual: no anchored one-digit candidate
-250	ref	6-4-167		manual: no anchored one-digit candidate
 251	ref	116-13		manual: no anchored one-digit candidate
-254	ref	2-4-73		manual: no anchored one-digit candidate
-254	ref	3-2-76		manual: no anchored one-digit candidate
-254	ref	6-1-163		manual: no anchored one-digit candidate
-254	ref	6-3-109		manual: no anchored one-digit candidate
 255	ref	116-14		manual: no anchored one-digit candidate
-259	ref	2-4-73		manual: no anchored one-digit candidate
-259	ref	61-171		manual: no anchored one-digit candidate
-259	ref	7-3-52		manual: no anchored one-digit candidate
-260	ref	1-1-39		manual: no anchored one-digit candidate
 260	ref	116-15		manual: no anchored one-digit candidate
 261	ref	11-21		manual: no anchored one-digit candidate
 261	ref	116-15		manual: no anchored one-digit candidate
-263	ref	2-184		manual: no anchored one-digit candidate
-263	ref	6-1-197		manual: no anchored one-digit candidate
-263	ref	6-4-148		manual: no anchored one-digit candidate
-264	ref	1-1-39		manual: no anchored one-digit candidate
 264	ref	116-16		manual: no anchored one-digit candidate
 265	ref	116-16		manual: no anchored one-digit candidate
 265	ref	2-022		manual: no anchored one-digit candidate
-268	ref	6-4-148		manual: no anchored one-digit candidate
-268	ref	7-3-112		manual: no anchored one-digit candidate
-269	ref	2-106		manual: no anchored one-digit candidate
-269	ref	6-2-172		manual: no anchored one-digit candidate
 270	ref	116-17		manual: no anchored one-digit candidate
-273	ref	3-1		manual: no anchored one-digit candidate
 273	ref	6-1-63		manual: no anchored one-digit candidate
 274	ref	116-18		manual: no anchored one-digit candidate
 274	ref	7-2-81		manual: no anchored one-digit candidate
 275	ref	116-18		manual: no anchored one-digit candidate
 275	ref	6-1-123-1		manual: no anchored one-digit candidate
 275	ref	6-3-21-5		manual: no anchored one-digit candidate
-277	ref	1-130		manual: no anchored one-digit candidate
+277	ref	1-112-13		manual: no anchored one-digit candidate
+277	ref	1-119-4		manual: no anchored one-digit candidate
 277	ref	1-130-7		manual: no anchored one-digit candidate
-277	ref	6-3-21-2		manual: no anchored one-digit candidate
-278	ref	2-4-73		manual: no anchored one-digit candidate
-278	ref	6-1-223-1		manual: no anchored one-digit candidate
-278	ref	7-1-39		manual: no anchored one-digit candidate
-278	ref	7-1-70		manual: no anchored one-digit candidate
-278	ref	7-3-84		manual: no anchored one-digit candidate
 279	ref	116-19		manual: no anchored one-digit candidate
 281	ref	1-186		manual: no anchored one-digit candidate
-282	ref	6-2-120		manual: no anchored one-digit candidate
-282	ref	7-1-39		manual: no anchored one-digit candidate
-282	ref	7-1-70		manual: no anchored one-digit candidate
 283	ref	116-20		manual: no anchored one-digit candidate
-286	ref	6-1-15		manual: no anchored one-digit candidate
-286	ref	6-2-139		manual: no anchored one-digit candidate
-286	ref	7-3-103		manual: no anchored one-digit candidate
 287	ref	116-21		manual: no anchored one-digit candidate
 288	ref	3-13		manual: no anchored one-digit candidate
-288	ref	6-2-199		manual: no anchored one-digit candidate
-290	ref	10-40		manual: no anchored one-digit candidate
 292	ref	116-22		manual: no anchored one-digit candidate
 292	ref	3-152		manual: no anchored one-digit candidate
 292	ref	6-1-29		manual: no anchored one-digit candidate
-295	ref	1-112		manual: no anchored one-digit candidate
 295	ref	1-112-16		manual: no anchored one-digit candidate
-295	ref	1-116		manual: no anchored one-digit candidate
-295	ref	1-117		manual: no anchored one-digit candidate
-295	ref	1-118		manual: no anchored one-digit candidate
-295	ref	10-40		manual: no anchored one-digit candidate
+295	ref	1-116-22		manual: no anchored one-digit candidate
+295	ref	1-119-6		manual: no anchored one-digit candidate
+295	ref	6-62-7		manual: no anchored one-digit candidate
 296	ref	116-23		manual: no anchored one-digit candidate
 297	ref	116-23		manual: no anchored one-digit candidate
-299	ref	6-1-173		manual: no anchored one-digit candidate
-299	ref	6-1-97		manual: no anchored one-digit candidate
-299	ref	6-4-148		manual: no anchored one-digit candidate
-299	ref	6-4-77		manual: no anchored one-digit candidate
 300	ref	116-24		manual: no anchored one-digit candidate
-303	ref	1-117-5		manual: no anchored one-digit candidate
+303	ref	1-119-6		manual: no anchored one-digit candidate
 303	ref	10-39-9		manual: no anchored one-digit candidate
-303	ref	2-29		manual: no anchored one-digit candidate
 303	ref	8-4-53		manual: no anchored one-digit candidate
 304	ref	116-25		manual: no anchored one-digit candidate
-304	ref	7-2-35		manual: no anchored one-digit candidate
 305	ref	116-25		manual: no anchored one-digit candidate
-306	ref	2-1		manual: no anchored one-digit candidate
-307	ref	2-4-73		manual: no anchored one-digit candidate
-307	ref	3-1-85		manual: no anchored one-digit candidate
-307	ref	6-1-10		manual: no anchored one-digit candidate
-307	ref	6-4-77		manual: no anchored one-digit candidate
-307	ref	6-4-8		manual: no anchored one-digit candidate
-307	ref	7-4-62		manual: no anchored one-digit candidate
+307	ref	3-1-86		manual: no anchored one-digit candidate
 308	ref	1-25		manual: no anchored one-digit candidate
 308	ref	177-308		manual: no anchored one-digit candidate
 309	ref	117-1		manual: no anchored one-digit candidate
-311	ref	10-149-4		manual: no anchored one-digit candidate
 311	ref	7-87-6		manual: no anchored one-digit candidate
-312	ref	5-4		manual: no anchored one-digit candidate
 313	ref	117-2		manual: no anchored one-digit candidate
-313	ref	2-102		manual: no anchored one-digit candidate
-313	ref	6-2-49		manual: no anchored one-digit candidate
 314	ref	117-2		manual: no anchored one-digit candidate
 317	ref	3-22-3		manual: no anchored one-digit candidate
 318	ref	5-3-65		manual: no anchored one-digit candidate
-318	ref	6-1-10		manual: no anchored one-digit candidate
 318	ref	6-101		manual: no anchored one-digit candidate
-318	ref	6-30		manual: no anchored one-digit candidate
-318	ref	6-4-155		manual: no anchored one-digit candidate
-318	ref	7-4-78		manual: no anchored one-digit candidate
-319	ref	1-186		manual: no anchored one-digit candidate
 319	ref	117-3		manual: no anchored one-digit candidate
 320	ref	117-3		manual: no anchored one-digit candidate
 321	ref	4-3		manual: no anchored one-digit candidate
-323	ref	1-1-47		manual: no anchored one-digit candidate
 323	ref	1-112-36		manual: no anchored one-digit candidate
-323	ref	1-2-4		manual: no anchored one-digit candidate
-323	ref	6-4-148		manual: no anchored one-digit candidate
 324	ref	117-4		manual: no anchored one-digit candidate
 325	ref	117-4		manual: no anchored one-digit candidate
 326	ref	2-2-5		manual: no anchored one-digit candidate
-326	ref	6-3-111		manual: no anchored one-digit candidate
-326	ref	8-2-31		manual: no anchored one-digit candidate
-326	ref	8-2-40		manual: no anchored one-digit candidate
-326	ref	8-3-13		manual: no anchored one-digit candidate
-327	ref	8-4-2		manual: no anchored one-digit candidate
 328	ref	117-5		manual: no anchored one-digit candidate
-331	ref	6-1-97		manual: no anchored one-digit candidate
 332	ref	117-6		manual: no anchored one-digit candidate
 333	ref	117-6		manual: no anchored one-digit candidate
 335	ref	117-7		manual: no anchored one-digit candidate
-335	ref	3-1-92		manual: no anchored one-digit candidate
-335	ref	3-1-94		manual: no anchored one-digit candidate
-335	ref	7-1-55		manual: no anchored one-digit candidate
 336	ref	117-7		manual: no anchored one-digit candidate
 339	ref	117-8		manual: no anchored one-digit candidate
 340	ref	117-8		manual: no anchored one-digit candidate
 341	ref	117-8		manual: no anchored one-digit candidate
 344	ref	117-9		manual: no anchored one-digit candidate
-344	ref	6-1-2-3		manual: no anchored one-digit candidate
 344	ref	7-2-117		manual: no anchored one-digit candidate
-344	ref	8-1-731		manual: no anchored one-digit candidate
 345	ref	117-9		manual: no anchored one-digit candidate
 346	ref	117-9		manual: no anchored one-digit candidate
 349	ref	117-10		manual: no anchored one-digit candidate
@@ -533,19 +320,14 @@ page	kind	english	supplied	status
 358	ref	117-12		manual: no anchored one-digit candidate
 359	ref	117-12		manual: no anchored one-digit candidate
 360	ref	1-116		manual: no anchored one-digit candidate
-362	ref	362-363		manual: no anchored one-digit candidate
 363	ref	117-13		manual: no anchored one-digit candidate
 364	ref	117-13		manual: no anchored one-digit candidate
 366	ref	3-1		manual: no anchored one-digit candidate
-367	ref	1-2-4		manual: no anchored one-digit candidate
 367	ref	117-14		manual: no anchored one-digit candidate
-367	ref	6-1-168		manual: no anchored one-digit candidate
 368	ref	117-14		manual: no anchored one-digit candidate
 371	ref	117-15		manual: no anchored one-digit candidate
 372	ref	117-15		manual: no anchored one-digit candidate
 373	ref	10-63		manual: no anchored one-digit candidate
-374	ref	3-4-117		manual: no anchored one-digit candidate
-374	ref	3-4-17		manual: no anchored one-digit candidate
 375	ref	117-16		manual: no anchored one-digit candidate
 376	ref	117-16		manual: no anchored one-digit candidate
 377	ref	117-16		manual: no anchored one-digit candidate
@@ -553,7 +335,6 @@ page	kind	english	supplied	status
 380	ref	117-17		manual: no anchored one-digit candidate
 380	ref	2-4		manual: no anchored one-digit candidate
 381	ref	117-17		manual: no anchored one-digit candidate
-383	ref	3-4-94		manual: no anchored one-digit candidate
 383	ref	6-2-2		manual: no anchored one-digit candidate
 383	ref	7-1-77		manual: no anchored one-digit candidate
 384	ref	117-18		manual: no anchored one-digit candidate
@@ -564,18 +345,13 @@ page	kind	english	supplied	status
 388	ref	11-111		manual: no anchored one-digit candidate
 389	ref	117-19		manual: no anchored one-digit candidate
 390	ref	1-116-6		manual: no anchored one-digit candidate
-391	ref	4-188		manual: no anchored one-digit candidate
 391	ref	7-1-39		manual: no anchored one-digit candidate
 392	ref	117-20		manual: no anchored one-digit candidate
 393	ref	117-20		manual: no anchored one-digit candidate
-394	ref	1-11		manual: no anchored one-digit candidate
-394	ref	3-9		manual: no anchored one-digit candidate
-394	ref	4-158		manual: no anchored one-digit candidate
 395	ref	117-21		manual: no anchored one-digit candidate
 395	ref	8-4-55		manual: no anchored one-digit candidate
 396	ref	117-21		manual: no anchored one-digit candidate
 397	ref	117-21		manual: no anchored one-digit candidate
-397	ref	3-48		manual: no anchored one-digit candidate
 397	ref	6-37		manual: no anchored one-digit candidate
 399	ref	7-2-115		manual: no anchored one-digit candidate
 400	ref	117-22		manual: no anchored one-digit candidate
@@ -626,7 +402,6 @@ page	kind	english	supplied	status
 428	ref	118-5		manual: no anchored one-digit candidate
 429	ref	118-5		manual: no anchored one-digit candidate
 430	ref	3-15		manual: no anchored one-digit candidate
-431	ref	1-154		manual: no anchored one-digit candidate
 431	ref	1-3-8		manual: no anchored one-digit candidate
 431	ref	4-1-44		manual: no anchored one-digit candidate
 431	ref	8-2-7		manual: no anchored one-digit candidate
@@ -647,7 +422,6 @@ page	kind	english	supplied	status
 439	ref	118-8		manual: no anchored one-digit candidate
 441	ref	118-9		manual: no anchored one-digit candidate
 441	ref	3-4-101		manual: no anchored one-digit candidate
-441	ref	7-1-55		manual: no anchored one-digit candidate
 442	ref	118-9		manual: no anchored one-digit candidate
 444	ref	2-48		manual: no anchored one-digit candidate
 445	ref	118-10		manual: no anchored one-digit candidate
@@ -660,7 +434,6 @@ page	kind	english	supplied	status
 450	ref	118-11		manual: no anchored one-digit candidate
 450	ref	3-32		manual: no anchored one-digit candidate
 451	ref	3-4-79		manual: no anchored one-digit candidate
-451	ref	6-1-100		manual: no anchored one-digit candidate
 451	ref	6-1-168		manual: no anchored one-digit candidate
 452	ref	119-1		manual: no anchored one-digit candidate
 453	ref	119-1		manual: no anchored one-digit candidate
@@ -689,7 +462,6 @@ page	kind	english	supplied	status
 467	ref	119-4		manual: no anchored one-digit candidate
 468	ref	1-186		manual: no anchored one-digit candidate
 469	ref	119-5		manual: no anchored one-digit candidate
-469	ref	6-2		manual: no anchored one-digit candidate
 469	ref	6-2-53		manual: no anchored one-digit candidate
 469	ref	8-3-59		manual: no anchored one-digit candidate
 470	ref	119-5		manual: no anchored one-digit candidate
@@ -792,7 +564,6 @@ page	kind	english	supplied	status
 525	ref	6-1-96		manual: no anchored one-digit candidate
 525	ref	62-199		manual: no anchored one-digit candidate
 526	ref	120-9		manual: no anchored one-digit candidate
-526	ref	3-2-171		manual: no anchored one-digit candidate
 526	ref	7-4-59		manual: no anchored one-digit candidate
 527	ref	120-9		manual: no anchored one-digit candidate
 528	ref	3-1-32		manual: no anchored one-digit candidate

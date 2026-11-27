@@ -3,26 +3,27 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 178 (1–150, 24–173, 29–178)
-- **Findings:** 442 — applied 414, kept/not applied 28 (English kept: misprints and doubts settled by rule; see part 5); edits ok 454, failed 0
-- **Reader tokens (batches so far):** 591k; per page 3.3k
-- **Last commit:** 45b1fd40
+- **Pages read:** 178 (1–150, 24–173, 29–178, 29–133)
+- **Findings:** 547 — applied 507, kept/not applied 40 (English kept: misprints and doubts settled by rule; see part 5); edits ok 578, failed 0
+- **Reader tokens (batches so far):** 1235k; per page 6.9k
+- **Last commit:** 4d07e28f
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
 | 1 | 1–150 | 130 | 122 | 122 / 0 | 8 | 228k | ce374228 |  |
 | 2 | 24–173 | 173 | 167 | 167 / 0 | 6 | 363k | 89e3bf43 |  |
-| 3 | 29–178 | 170 | 165 | 165 / 0 | 5 | n/a | 45b1fd40 |  |
+| 3 | 29–178 | 170 | 165 | 165 / 0 | 5 | 309k | 45b1fd40 |  |
+| 4 | 29–133 | 128 | 124 | 124 / 0 | 4 | 335k | 4d07e28f |  |
 
 ## 3. Findings by kind
 | Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
-| Q1 | 252 | 0 | 252 |
-| Q2 | 71 | 28 | 99 |
-| S3 | 91 | 0 | 91 |
+| Q1 | 307 | 0 | 307 |
+| Q2 | 106 | 40 | 146 |
+| S3 | 94 | 0 | 94 |
 
-By reader: R1 442
+By reader: R1 547
 
 ## 4. Open items (not findings)
 - **other** (pages 7): Kannada p.7 gives "prakṛtyaikāc" as Pā. Sū. 6-4-163, the English (p.7 grammar remark) says 6-1-197 "as printed"; unmarked, left (found while settling q21)
@@ -47,11 +48,18 @@ By reader: R1 442
 - **other** (pages 327): Kannada p.327 prints supāṃ sulug as Pā. Sū. 3-1-39 (elsewhere 7-1-39); q150 applied as printed
 - **other** (pages 333): English p.333 keeps 'Printed yajñanāyopekṣamāṇāya — kept as printed [sic?]'; Kannada p.333 prints ಯಜ್ಜನಾಯಾಪೇಕ್ಷಮಾಣಾಯ (yajjanāyāpekṣamāṇāya); unmarked, left (found while settling q156)
 - **other** (pages 335, 344): Kannada p.335 prints acoyat as Pā. Sū. 3-1-99 and yatonāvaḥ as 6-1-213; Kannada p.344 prints 3-1-92 and 6-1-13; each applied as printed in q162, q170, q171 (found while settling q162/q170/q171)
+- **other** (pages 356, 357): Kannada p.356 prints pvādīnāṃ hrasvaḥ (Pā. Sū. 7-3-80); English p.357 still has unmarked "snādīnāṃ hrasvaḥ" (found while settling q38)
+- **other** (pages 380): Kannada p.380 gives adiprabhṛtibhyaḥ śapaḥ as Pā. Sū. 2-4-72, English has unmarked "2-4 [list]" (q61)
+- **other** (pages 383): Kannada p.383 gives ī ca dvivacane as Pā. Sū. 7-1-73, English has unmarked "7-1-77 as read" (q64)
+- **other** (pages 410): Kannada p.410 reads "raram + āna", English "rerām + āna" (q81)
+- **other** (pages 411): Kannada p.411 gives kṛn mejantaḥ without a number, English has unmarked "Pā. Sū. 1-1-39 as read"; Kannada gives tumarthe se-sen-ase as 3-4-9, English p.411 "3-49 as read" (q82)
+- **other** (pages 510): Kannada p.510 gives supāṃ sulug as Pā. Sū. 3-1-36 (misprint for 3-1-39), English has unmarked "7-1-39 as read" (q120)
+- **other** (pages 533): Kannada p.533 gives magha among names of wealth as Ni. 3-9, English has unmarked "Ni. 2-10 [as read]" (q127)
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 7 Kannada misprints where the English is kept (`kn_misprints.tsv`); 21 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 15 Kannada misprints where the English is kept (`kn_misprints.tsv`); 25 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol9/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
