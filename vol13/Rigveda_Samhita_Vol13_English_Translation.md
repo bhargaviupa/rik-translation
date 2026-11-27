@@ -9394,6 +9394,105 @@ The joy that Indra produces in his praisers is described, and the satisfaction a
 
 The name निविद् (*nivid*) mantra is well known for mantras that address a deity or a group of deities, describe their extraordinary qualities and invoke them. The Bṛhaddevatā states this, saying,
 
+### Printed p. 391
+The Brāhmaṇa-type passage and Bṛhaddevatā verse on the Nivid mantras continue here.
+
+कर्मैव तावत्सावित्र्यां निविदि स्तौति कर्मणा । यद्भेनुः सप्त्यनड्वाहौ वोळ्हा दोग्धाशुरेव ना ॥ (*karmaiva tāvatsāvitryāṃ nividi stauti karmaṇā | yadbhenuḥ saptyanaḍvāhau voḷhā dogdhāśureva nā ‖*) (Bṛhaddevatā 3-50)
+
+By the words दोग्नि (*dogni*) the milch cow is meant; by आशु (*āśu*) (swift-going), and by वोळ्हा (*voḷhā*) (the bearer of a load), the ox is meant. Just as the particular character of each is understood from its particular epithet, so through the Nivid mantras the personal qualities of each deity can be understood from the description of that deity's actions. For example:
+
+अभि त्वा देव सनितरीशानं वार्याणां । सदावन्भागमीमहे । (*abhi tvā deva sanitarīśānaṃ vāryāṇāṃ | sadāvanbhāgamīmahe |*) (Ṛ. Saṃ. 1-24-3 **NOTE**)
+
+In this Ṛk, the Nivid mantra addressed to the deity Savitṛ makes known Savitṛ's distinctive character through the description of his extraordinary action. The greatness of the Nivid mantras, and their relation of cause and effect to the creation of the world, is recorded in the Aitareya Brāhmaṇa as follows:
+
+प्रजापतिर्वा इदमेक एवाग्र आस सोऽकामयत प्रजायेय भूयन्तामिति स तपोऽतप्यत स वाचमयच्छत्स संवत्सरस्य परस्ताद्वाहरद्वादशकृत्तो द्वादशपदा वा एषा निविदेतां वाव तां निविदं व्याहरत्तां सर्वाणि भूतान्यन्नसृज्यंत । (*prajāpatirvā idameka evāgra āsa so 'kāmayata prajāyeya bhūyantāmiti sa tapo 'tapyata sa vācamayacchatsa saṃvatsarasya parastādvāharadvādaśakṛtto dvādaśapadā vā eṣā nividetāṃ vāva tāṃ nividaṃ vyāharattāṃ sarvāṇi bhūtānyannasṛjyaṃta |*) (Ai. Brā. 10-1)
+
+In the beginning Prajāpati was alone; he desired to create offspring and to become many, and practised austerity, keeping silence for a year. Then he recited twelve times the Nivid mantras, which contain twelve great sentences, and after that all beings in the world were created. Having thus declared the power of these mantras, the text then states their distinctive character at the times of the rites and the order of their use:
+
+गर्भा वा एत उक्तानां यन्निविदस्तद्यत्पुरस्तादुक्थानां प्रातःसवने धीयंते तस्मात्परांचो गर्भा धीयंते परांचः संभवति। यन्मध्यतो मध्यंदिने धीयंते तस्मान्मध्ये गर्भा धृताः । यदंततस्यतीयसवने धीयंते तस्मादमुतोऽर्वांचो गर्भाः प्रजायंते प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद । पेशा वा एत उक्तानां यन्निविदस्तद्यत्पुरस्तादुक्थानां प्रातःसवने धीयंते यथैव प्रवणयतः पेशः कुर्यात्तादृक्तद्यन्मध्यतो मध्यंदिने धीयंते यथैव मध्यतः पेशः कुर्यात्ताह- (*garbhā vā eta uktānāṃ yannividastadyatpurastādukthānāṃ prātaḥsavane dhīyaṃte tasmātparāṃco garbhā dhīyaṃte parāṃcaḥ saṃbhavati| yanmadhyato madhyaṃdine dhīyaṃte tasmānmadhye garbhā dhṛtāḥ | yadaṃtatasyatīyasavane dhīyaṃte tasmādamuto 'rvāṃco garbhāḥ prajāyaṃte prajātyai | prajāyate prajayā paśubhirya evaṃ veda | peśā vā eta uktānāṃ yannividastadyatpurastādukthānāṃ prātaḥsavane dhīyaṃte yathaiva pravaṇayataḥ peśaḥ kuryāttādṛktadyanmadhyato madhyaṃdine dhīyaṃte yathaiva madhyataḥ peśaḥ kuryāttāha-*)
+
+### Printed p. 392
+क्तद्यदंततस्तृतीयसवने धीयंते यथैवावप्रज्जनतः पेशः कुर्यात्तादृक्तत् । सर्वतो यज्ञस्य पेशसा शोभते य एवं वेद ॥ (*ktadyadaṃtatastṛtīyasavane dhīyaṃte yathaivāvaprajjanataḥ peśaḥ kuryāttādṛktat | sarvato yajñasya peśasā śobhate ya evaṃ veda ‖*) (Ai. Brā. 11-10)
+
+The Nivid mantras stand to the ukthas as embryos: that is, in the morning libation they are recited before the ukthas. Therefore the embryos too are set in place facing forward. At the midday libation these mantras are recited in the middle; therefore the embryos are held in the middle. At the third libation the Nivid mantras are recited at the end; therefore the child in the womb is born turned downward (?). He who knows these principles is endowed with offspring and with cattle. The Nivid mantras are also like ornaments to the ukthas, increasing their beauty and splendour. The mantras recited at the morning libation are like ornaments of the upper part of a slope, those at the midday time like ornaments of the middle region, those of the third libation like ornaments of the lower part. He who knows this adorns the sacrifice and shines himself. And further:
+
+सौर्या वा एता देवता यन्निविदस्तद्यत्पुरस्तादुक्थानां प्रातःसवने धीयंते मध्यतो मध्यंदिने ततस्तृतीयसवन आदित्यस्यैव तद्व्रतमनु पर्यावर्तंते । पच्चो वै देवा यज्ञं समभरंस्तस्मात्पच्चो निविदः शस्यंते । यद्वै तद्देवा यज्ञं समभरंस्तस्मादत्वः समभवत्तस्मादाहुरश्वं निविदां शंस्त्रे दद्यादिति तदु खलु वरमेव ददति । न निविदः पदमतीयाद्यद्यन्निदवः पदमतीयाद्यज्ञस्य तच्छिद्रं कुर्याद्यज्ञस्य वै छिद्रं स्रवद्यजमानोऽनु पापीयान् भवति (*sauryā vā etā devatā yannividastadyatpurastādukthānāṃ prātaḥsavane dhīyaṃte madhyato madhyaṃdine tatastṛtīyasavana ādityasyaiva tadvratamanu paryāvartaṃte | pacco vai devā yajñaṃ samabharaṃstasmātpacco nividaḥ śasyaṃte | yadvai taddevā yajñaṃ samabharaṃstasmādatvaḥ samabhavattasmādāhuraśvaṃ nividāṃ śaṃstre dadyāditi tadu khalu varameva dadati | na nividaḥ padamatīyādyadyannidavaḥ padamatīyādyajñasya tacchidraṃ kuryādyajñasya vai chidraṃ sravadyajamāno 'nu pāpīyān bhavati*) (Ai. Brā. 11-11)
+
+All the Nivid deities belong to the sun. The mantras of the morning, midday and third libations follow the course of the sun from rising to setting. The gods gathered the sacrifice together by means of limits consisting of metrical feet (pādas); therefore the Nivid mantras are in the form of sentences made of pādas.
+
+### Printed p. 393
+As a result of the gods gathering all the portions of the sacrifice together, the horse came into being. Therefore there is an injunction to give a horse to the ṛtvij who recites these mantras. One must not skip over any word in the Nivid mantras. If a word is not recited, it makes a breach in the sacrifice itself, and that brings harm to the sacrificer. Two sentences in these mantras must not be joined together, nor may the earlier be joined to what follows, or the later to what precedes, in reciting. If one does so, uncertainty arises in the sacrificial act itself, and the sacrificer too becomes bewildered. If two sentences are joined together, contraction arises in the sacrificial act, and thereby the sacrificer's life is contracted and he may die. Therefore one must not mix the sentences and so cause contraction in the recitation of the mantra. Only the pair of mantras, sacred and of divine nature, प्रेदं ब्रह्म (*predaṃ brahma*) and प्रेदं क्षत्रं (*predaṃ kṣatraṃ*), may be mixed; therefore priestly splendour and warrior splendour become mixed. The Nivid mantras should stay within three or four mantras, and one must not go beyond them. By the Nivid the recitation of the praise becomes extended.
+
+एकां परिशिष्य तृतीयसवने निविदं दध्यात् । यद्वे परिशिष्य दध्यात्पजननं तदुपहन्याद्गर्भैस्तत्रजा व्यर्धयेत्तस्मादेकामेव परिशिष्य तृतीयसवने निविदं दध्यात् । न सूक्तेन निविदमतिपद्येत; येन सूक्तेन निविदमति पद्येत न तत्पुनरुपनिवर्तेत वास्तुहमेव तत् । अन्यत्तद्दैवतं तच्छंदसं सूक्तमाहृत्य तस्मिन्निविदं दध्यात् । मा प्र गाम पथो वयमिति पुरस्तातूक्तस्य शंसति । पथो वा एष प्रैति यो यज्ञे मुह्यति मा यज्ञादिंद्र सोमिन इति यज्ञादेव तन्न प्रच्यवते । मांतस्सुर्नो अरातय इत्यरातीयत एव तदपहंति । यो यज्ञस्य प्रसाधनस्तंतुर्देवेष्वाततः । तमाहुतं नशीमहीति । प्रजा वै तंतुः प्रजामेवास्मा एतत्संतनोति । मनो न्याहुवामहे नाराशंसेन सोमेनेति । मनसा वै यज्ञ स्वायते मनसा क्रियते । सैव तत्र पायश्चित्तिः प्रायश्चित्तिः ॥ (*ekāṃ pariśiṣya tṛtīyasavane nividaṃ dadhyāt | yadve pariśiṣya dadhyātpajananaṃ tadupahanyādgarbhaistatrajā vyardhayettasmādekāmeva pariśiṣya tṛtīyasavane nividaṃ dadhyāt | na sūktena nividamatipadyeta; yena sūktena nividamati padyeta na tatpunarupanivarteta vāstuhameva tat | anyattaddaivataṃ tacchaṃdasaṃ sūktamāhṛtya tasminnividaṃ dadhyāt | mā pra gāma patho vayamiti purastātūktasya śaṃsati | patho vā eṣa praiti yo yajñe muhyati mā yajñādiṃdra somina iti yajñādeva tanna pracyavate | māṃtassurno arātaya ityarātīyata eva tadapahaṃti | yo yajñasya prasādhanastaṃturdeveṣvātataḥ | tamāhutaṃ naśīmahīti | prajā vai taṃtuḥ prajāmevāsmā etatsaṃtanoti | mano nyāhuvāmahe nārāśaṃsena someneti | manasā vai yajña svāyate manasā kriyate | saiva tatra pāyaścittiḥ prāyaścittiḥ ‖*) (Ai. Brā. 11-11)
+
+At the third libation the Nivid is to be inserted leaving out one Ṛk. If it is inserted leaving out two, powerlessness results, and then barrenness arises. Therefore it is to be inserted leaving out one only; then the sacrificial act is complete. One must not leave out two: that would destroy the power of procreation, the power of conception would go and people would become childless. In a sūkta fit for the Nivid, the sūkta must not be recited without inserting the Nivid mantras;
+
+### Printed p. 394
+once it has been recited, the Nivid is no longer fit to be inserted again. If such a lapse occurs, one should choose another sūkta of the same deity and the same metre and insert these Nivid mantras in it. At such a time:
+
+मा प्र गाम पथो वयं मा यज्ञादिंद्र सोमिनः । (*mā pra gāma patho vayaṃ mā yajñādiṃdra sominaḥ |*) मांतः स्थुर्नो अराशयः ॥ (*māṃtaḥ sthurno arāśayaḥ ‖*) (Ṛ. Saṃ. 10-57-1)
+
+"May we not go astray from the path; may we not fall outside the sacrifice; may evil powers not assail us." Having first prayed thus, one should then recite that sūkta furnished with the Nivid mantras. Then, with no confusion of any kind, the sacrificial work proceeds without obstacle and the evil powers are destroyed. "The thread, the fruit of the sacrifice, that is stretched out among the gods, may that same thread extend among us the sacrificers" (Ṛ. Saṃ. 10-57-2): so the sacrificer recites. The thread is the line of offspring; to the sacrificer this thread, in the form of progeny, comes in unbroken succession.
+
+तद्यदेशां पुरस्तात् सूक्तस्य निविदं दधाति प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद ॥ (*tadyadeśāṃ purastāt sūktasya nividaṃ dadhāti prajātyai | prajāyate prajayā paśubhirya evaṃ veda ‖*) (Ai. Brā. 10-2)
+
+For this reason the Hotṛ, by reciting the Nivid mantra at the beginning of the sūkta, obtains offspring. To sacrificers who know this, all wealth, beginning with good progeny, accrues; so it is said elsewhere too. In the Ṛksaṃhitā it is seen in many places that it is traditional, with faith that the recitation of mantras gives the highest fruit, to praise the form, power and great deeds of each deity when invoking it, and to recite these. For example:
+
+शान्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधं । (*śānpūrvayā nividā hūmahe vayaṃ bhagaṃ mitramaditiṃ dakṣamasridhaṃ |*) (Ṛ. Saṃ. 1-89-3)
+जुषेथां यज्ञं बोधतं हवस्य मे सत्तो होता निविदः पूर्व्या अनु । (*juṣethāṃ yajñaṃ bodhataṃ havasya me satto hotā nividaḥ pūrvyā anu |*) (Ṛ. Saṃ. 2-36-6)
+किमु ष्टिदस्मै निविदो भनंतेंद्रस्यावद्यं दिधिषंत आपः । (*kimu ṣṭidasmai nivido bhanaṃteṃdrasyāvadyaṃ didhiṣaṃta āpaḥ |*) (Ṛ. Saṃ. 4-18-7)
+वि यद्वाचं कीस्तासो भरंते शंसंति के चिन्निविदो मनानाः । (*vi yadvācaṃ kīstāso bharaṃte śaṃsaṃti ke cinnivido manānāḥ |*) (Ṛ. Saṃ. 6-67-10)
+
+In these and similar contexts the greatness of the Nivid mantras is praised.
+
+### Printed p. 395
+In the present Ṛk (1-176-6 **NOTE**) the Nivid mantra addressed to Indra is indicated by the sentence तामनु त्वा निविदं जोहवीमि (*tāmanu tvā nividaṃ johavīmi*). There is some difference of opinion in determining which sūkta is furnished with Nivids addressed to the deity Indra. For example:
+
+जनिष्ठा उग्रः सहसे तुरायेति निविद्धानमैकाहिकं । (*janiṣṭhā ugraḥ sahase turāyeti nividdhānamaikāhikaṃ |*) (Ai. Ā. 1-2-2)
+
+The Aitareya text says that Ṛ. Saṃ. 10-73, beginning with the Ṛk जनिष्ठा उग्रः (*janiṣṭhā ugraḥ*), is furnished with Nivid mantras. But the Śāṅkhāyana Āraṇyaka (1-3) says that Ṛ. Saṃ. 6-9 (read: sūkta beginning with the Ṛk महा इंद्रो न्नवदा (*mahā iṃdro nnavadā*)) is furnished with these mantras. In the present Ṛk the seer of the sūkta declares his resolve: "I praise Indra with Nivid mantras that extol Indra's nature, prowess and distinctive character."
+
+##### Grammar
+
+- जरितृभ्यः—जृष् वयोहानौ धातुः । इह स्तुत्यर्थे प्रयुक्तः । कर्तरि तृच् प्रत्ययः । इडागमः । प्रत्ययनिमित्तेन धातोः ऋकारस्य गुणः । चित्त्वादंतोदात्तस्वरः भवति । चतुर्थीबहुवचनांतरूपम् ।
+- तृष्यते—इतृषा पिपासायां धातुः । लटः शत्रादेशः । दिवादिभ्यः श्यन् (पा. सू. ३.१-६९) इति श्यन् विकरणम् । तास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति शतृ अनुदात्तं भवति । विकरणस्य नित्त्वादाद्युदात्तस्वरः भवति । चतुर्थीएकवचनांतरूपम् ।
+- बभूथ—भू सत्तायां धातुः । लिट् मध्यमपुरुष एकवचने बभूथ ततंथ—(पा. सू. ७-२-६४) इति इडभावेन निपातितम् । निपातैर्यद्यदि—(पा. सू. ८-१-३०) इति निघातस्वरप्रतिषेधः भवति । थल् लित्त्वात् लिति (पा. सू. ६-१-१६३) इति प्रत्ययपूर्वस्य उदात्तस्वरः भवति ।
+- जोहवीमि—हु दानादनयोः धातुः । यज्लुगंतात् लट् । उत्तमपुरुष एकवचने मिप् । यजो वा (पा. सू. ७-३-९४) इति मिसः ईडागमः । अतिजंतस्य परत्वान्निघातस्वरः भवति । ॥ ६ ॥ **NOTE**
+
+Here ends the one hundred and seventy-fifth sūkta.
+
+### Printed p. 396
+## Sūkta 176 (Maṇḍala 1)
+
+The one hundred and seventy-sixth sūkta.
+
+*Sāyaṇa's introduction:* मत्सि न इति षडृचं द्वादशं सूक्तमागस्त्यमैंद्रमानुष्टुभं । पूर्वत्र तुशब्दाक् त्रिष्टुबंतं त्वित्युक्तत्वादंत्या त्रिष्टुप् । मत्सि न इत्यनुक्रांतं । विशेषविनियोगो लैंगिकः ॥ (*matsi na iti ṣaḍṛcaṃ dvādaśaṃ sūktamāgastyamaiṃdramānuṣṭubhaṃ | pūrvatra tuśabdāk triṣṭubaṃtaṃ tvityuktatvādaṃtyā triṣṭup | matsi na ityanukrāṃtaṃ | viśeṣaviniyogo laiṃgikaḥ ‖*)
+
+Anuvāda: This sūkta beginning मत्सि न (*matsi na*) is the twelfth sūkta in the twenty-third anuvāka. It has six Ṛks. Its seer is Agastya; the deity is Indra; the metre is Anuṣṭubh; the last Ṛk is in Triṣṭubh metre. In the Anukramaṇikā it is listed as beginning मत्सि न (*matsi na*). The special application is by indication (liṅga).
+
+Maṇḍala 1; Anuvāka 23; Sūkta 176; Aṣṭaka 2; Adhyāya 4; Varga 19. Number of Ṛks in the sūkta: 6. Ṛṣi: Āgastya. Deity: Indra. Metre: 1–5 Anuṣṭubh; 6 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मत्सि॑ नो॒ वस्य॑ इष्टय॒ इंद्र॑मिंदो॒ वृषा वि॑श ।  
+> ऋ॒घा॒यमा॑ण इन्वसि॒ शत्रु॒मंति॒ न विं॑दसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मत्सि । नः । वस्यः इष्टये । इंद्रं । इंदो इति । वृषा । आ । विश ।  
+> ऋघायमाणः । इन्वसि । शत्रुं । अंति । न । विंदसि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो क्लेदयितः सोम त्वं नो वस्य इष्टये वसीयसो धनस्य
+> प्राप्तय उक्तलक्षणाय यागाय वेंद्रं मत्सि । मादयस्व । तदर्थं त्वमेवेंद्रं
+
+##### Gist of the bhāṣya
+
+"O Indu, moistening Soma, for the attainment of better wealth for us, that is, for the sacrifice of the kind described, delight Indra, make him rejoice; for that purpose you yourself …".
+
 ---
 
-**Progress note:** Done through printed p. 390. pp. 385-390 (batch API)
+**Progress note:** Done through printed p. 396. pp. 391-396 (batch API)
