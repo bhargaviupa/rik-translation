@@ -128,6 +128,119 @@ and when wood is put in a fire and burns, sound arises naturally. Likewise, here
 - महित्वं — तस्यभावस्त्वतलौ इति भावार्थे त्व प्रत्ययः । त्वांतं क्लीबं इति वचनान्नपुंसकं भवति । प्रत्ययस्वरेणांतोदात्तं भवति ।
 - वृषभस्य — वृषु सेचने धातुः । ऋषिवृषिभ्यां कित् (उ. सू. ४-४०३) इति अभच् प्रत्ययः । कित्त्वविधानाल्लघूपधगुणो न भवति । चित्त्वादंतोदात्तस्वरो भवति । षष्ठ्येकवचनांतरूपं ।
 
+### Printed p. 7
+
+##### Grammar
+
+- ऐधा इव — एधः संबंधीनि ऐधानि । तस्येदं इति संबंधार्थे अण् प्रत्ययः । तद्धितेष्वचामादेः इति आदिवृद्धिः । प्रत्ययस्वरेण अंतोदात्तं भवति । शेश्छंदसि बहुलं इति शेः लोपः ।
+- यामन् — या प्रापणे धातुः । आतो मनिन् (पा. सू. ३-२-७४) इति मनिन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरो भवति । सुपां सुलुक् (पा. सू. ७-१-३९) इति सप्तम्याः परत्वे तस्याः लुक् ।
+- युधा — युध प्रहारे धातुः । क्विप् च (पा. सू. ३-२-७६) इति तस्मात् क्विप् प्रत्ययः । तृतीया एकवचनांतरूपं । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+- तविषाणि — तव इति सौत्रो धातुः । तनेर्णिद्वा (उ. सू. १-४८) इति टिषच् प्रत्ययः । चुटू इति टकारस्य इत्संज्ञात् लोपः । चित्त्वात् अंतोदात्तस्वरो भवति ।
+- कर्तन — डुकृञ् करणे धातुः । लोट् मध्यमपुरुषबहुवचने तप्तनप्तनथनाश्च (पा. सू. ७-१-४५) इति तनपादेशः । बहुलं छंदसि इति विकरणस्य लुक् । प्रत्ययस्य पित्त्वात् तं निमित्तीकृत्य गुणः । अतिजंतस्य परत्वात् निघातस्वरो भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नित्यं॒ न सू॒नुं मधु॒ बिभ्र॑त॒ उप॒ क्रीळं॑ति क्री॒ळा वि॒दथे॑षु॒  ॑
+> घृष्टयः ।  
+> नक्षं॑ति रु॒द्रा अव॑सा नम॒स्विनं॒ न म॑र्धंति॒ स्वत॑वसो  ॒॑
+> हविष्कृतं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नित्यं । न । सूनुं । मधु । बिभ्रतः । उप । क्रीळंति । क्रीळाः । विदथेषु । घृष्टयः ।  
+> नक्षंति । रुद्राः । अवसा । नमस्विनं । न । मर्धंति । स्वतवसः । हविःकृतं ॥ २ ॥
+
+### Printed p. 8
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नित्यं न सूनुमौरसं प्रियं पुत्रमिव मधु मधुरं हविर्बिभ्रतो
+> धारयंतो मरुतो विदथेषु यागेषु घृष्टयो रक्षःप्रभृतीनां घर्षकाः संतः
+> क्रीळाः क्रीडनशीला उपोपेत्य क्रीळंति । विहरंति । किंच रुद्राः । रुद्रपुत्रा
+> मरुतोऽपि रुद्रा उच्यंते जन्यजनकयोरभेदात् । मरुतां रुद्रपुत्रत्वं पुराणेषु
+> तपसा तुष्टौ सार्वतीपरमेश्वरौ मरुतः पुत्रत्वेन स्वीचक्रतुरिति प्रसिद्धं । नमस्विनं
+> नमस्कारोपलक्षितत्तोत्रोपेतं हविष्कृतं हविषः कर्तारं प्रदातारं यजमानमवसा रक्षणेन तर्पणेन वा निमित्तभूतेन नक्षंति । व्याप्नुवंति । किं च स्वतवसः
+> स्वायत्तबला मरुतो यजमानं न मर्धंति । न संग्रामयंति न क्लेशयंतीत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+The Maruts, holding sweet, delicious oblation as one holds a dear son of one's own body (नित्यं न सूनुं (*nityaṃ na sūnuṃ*)), become घृष्टयः (*ghṛṣṭayaḥ*) at the sacrifices (विदथेषु (*vidatheṣu*)), that is, crushers of Rakṣas and the like, and being playful by nature they approach and sport, roam about (क्रीळंति (*krīḷaṃti*)). Further, the sons of Rudra, the Maruts, are themselves called Rudras, since begotten and begetter are not different. That the Maruts are Rudra's sons is well known from the Purāṇas: Pārvatī and Parameśvara, pleased by austerity, accepted the Maruts as sons. The Rudras reach, pervade (नक्षंति (*nakṣaṃti*)), by way of protection or satisfaction, the sacrificer (हविष्कृतं (*haviṣkṛtaṃ*)), the doer and giver of the oblation, who is नमस्विनं (*namasvinaṃ*), accompanied by praise marked by homage. And the Maruts, स्वतवसः (*svatavasaḥ*), whose strength is their own, do not harm (न मर्धंति (*na mardhaṃti*)) the sacrificer; that is, they do not make him fight or distress him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नित्यं सूनुं न (*nityaṃ sūnuṃ na*)—as (one holds) a son of one's own body
+- मधु (*madhu*)—sweet oblation
+- बिभ्रतः (*bibhrataḥ*)—the Marut deities who hold (accept) it
+- विदथेषु (*vidatheṣu*)—at the sacrifices
+- कृष्णयः (*kṛṣṇayaḥ*)—crushers of Rākṣasas and the like **NOTE**
+- क्रीळाः (*krīḷāḥ*)—being playful by nature
+- उप (*upa*)—approaching
+- क्रीळंति (*krīḷaṃti*)—they roam about
+- किंच (*kiṃca*)—and further
+- रुद्राः (*rudrāḥ*)—the Marut deities, sons of Rudra
+- नमस्विनं (*namasvinaṃ*)—the one who is endowed with homage
+- हविष्कृतं (*haviṣkṛtaṃ*)—the sacrificer, giver of the oblation
+- अवसा (*avasā*)—by (their) work of protection or by satisfying (for the sake of protecting or satisfying)
+- नक्षंति (*nakṣaṃti*)—they pervade (reach)
+- स्वतवसः (*svatavasaḥ*)—the Maruts whose strength is their own (endowed with natural strength)
+- न मर्धंति (*na mardhaṃti*)—they do not distress (the sacrificer)
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts accept the sweet oblation as one accepts a son of one's own body, and sport at the sacrifices, crushing those who are hostile. The Maruts, sons of Rudra, come to protect the sacrificer, who offers homage and gives the oblation. Though extremely mighty, they do not harm the sacrificer.
+
+##### English translation (H. H. Wilson)
+Ever accepting the sweet (libation), as (they would) a son, they sport playfully at sacrifices, demolishing (all intruders): the Rudras come to the offerer of prayers and oblations, for his protection, and powerful as they are, do him no harm.
+
+### Printed p. 9
+
+##### विशेषविषयगळु (Special Topics)
+
+नित्यं न सूनुं मधु (*nityaṃ na sūnuṃ madhu*)—Here the word न (*na*) denotes comparison. As a father every day gives a sweet delicacy to his dear son (child), so the Maruts give the desired fruits to the sacrificer who performs the sacrifice: the seer has given this very fitting illustration. As a father gladdens his dear child by giving it a sweet delicacy with great affection, so the Maruts grant all desired objects to the sacrificers who worship them with praises and the like; this is the main purport.
+
+क्रीळंति (*krīḷaṃti*), क्रीळाः (*krīḷāḥ*)—Since a kind of delightful sound arises when the wind blows violently, the seer describes the Maruts as sporting for recreation, making sounds of joy. The words क्रीळंति (*krīḷaṃti*), क्रीळाः (*krīḷāḥ*) are generally used as epithets of the Maruts and show their distinctive character. Yet this word is also used of other deities. For example:
+
+क्रीळं वः शर्धो मारुतमनर्वाणं रथेशभुं । कण्वा अभि प्र गायत ॥ (*krīḷaṃ vaḥ śardho mārutamanarvāṇaṃ ratheśabhuṃ | kaṇvā abhi pra gāyata ‖*) (Ṛ. Saṃ. 1-37-1)
+In Ṛks like this it is used of the Maruts, and in
+क्रीळंतस्वा सुमनसः सपेमाभि द्युम्ना तस्थिवांसो जनानां । (*krīḷaṃtasvā sumanasaḥ sapemābhi dyumnā tasthivāṃso janānāṃ |*) (Ṛ. Saṃ. 4-4-9)
+ज्येष्ठेभिर्यस्तेजिष्टैः क्रीळुमद्भिवर्षिष्ठेभिर्भानुभिर्नक्षति द्यां । (*jyeṣṭhebhiryastejiṣṭaiḥ krīḷumadbhivarṣiṣṭhebhirbhānubhirnakṣati dyāṃ |*) (Ṛ. Saṃ. 10-3-5)
+Ṛks like these, it is used of Agni; and in
+वृथा क्रीळंत इंदवः सधस्थमभ्येकमित् । सिंधोरूर्मा व्यक्षरन् ॥ (*vṛthā krīḷaṃta iṃdavaḥ sadhasthamabhyekamit | siṃdhorūrmā vyakṣaran ‖*) (Ṛ. Saṃ. 9-21-3)
+Ṛks like this, the word is used of the deity Soma.
+
+विदथेषु (*vidatheṣu*)—यज्ञेषु (*yajñeṣu*): "at the sacrifices", that is, at the sacrificial places. By वेदयत्सु स्तोत्रेषु निमित्तभूतेषु (*vedayatsu stotreṣu nimittabhūteṣu*) the derivation of the word विदथ (*vidatha*) is shown. Here only one of the Nirukta authors' derivations is followed. It is read among the names of the sacrifice, यज्ञः (*yajñaḥ*), वेनः (*venaḥ*) and so on (Ni. 3-19), and विदथानि वेदनानि (*vidathāni vedanāni*). To show that the word विदथ (*vidatha*) means knowledge (Ni. 6-7),
+
+### Printed p. 10
+he quotes the Ṛk
+होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥ (*hotā devo amartyaḥ purastādeti māyayā | vidathāni pracodayan ‖*) (Ṛ. Saṃ. 3-27-6)
+and shows that there the word is formed from the root विद् (*vid*) in the sense of knowing. Here Sāyaṇa has explained विदथानि वेदितव्यानि कर्माणि (*vidathāni veditavyāni karmāṇi*) as "works that are to be known". Some scholars have tried to state a definite meaning for this word, and all have given their own individual opinions. Since each has shown a different derivation of the word and made a different meaning, it appears that all those meanings fit according to context. The scholar Max Muller, explaining the Ṛk
+अमादेषां भियसा भूमिरेजति नौर्न पूर्णा क्षरति व्यथिर्यती । दूरेदृशो ये चितयंत एमभिरंतर्महे विदथे येतिरे नरः । (*amādeṣāṃ bhiyasā bhūmirejati naurna pūrṇā kṣarati vyathiryatī | dūredṛśo ye citayaṃta emabhiraṃtarmahe vidathe yetire naraḥ |*) (Ṛ. Saṃ. 5-59-2)
+has translated the word विदथे (*vidathe*) as (sacrificial) assembly (the great sacrificial assembly). Giving the explanation of it, he sets out the meanings other German scholars have given to the word and their opinions on its root, and at last: "Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East Vol. 32 p. 349-50)
+Some have said that, as sacred knowledge is the meaning of the word वेद (*veda*), a sacred act is the meaning of the word विदथ (*vidatha*). But he has concluded that there is no doubt that sacrificial assembly is the main meaning of this word.
+
+The scholar Hermann Oldenberg, in the work Vedic Hymns, when explaining the meaning of the word विदथे (*vidathe*) in Ṛ. Saṃ. 1-31-6, stated his opinion in this way. His sentences are quoted and then his opinions are stated.
+"On the derivation and meaning of विदथ (*vidatha*) Various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R. V, V. 59·2 ( S. B. E.Vol- 32 p. 349 sp.) without trying to discuss here all different theories, I proceed to state my own opinion ;
+
+### Printed p. 11
+I propose to derive विदथ (*vidatha*) from वि (*vi*)+धा (*dhā*); The verb वि (*vi*)+धा (*dhā*) means 'to distrbute, to arrange, to ordain;' thus the original meaning of विदथ (*vidatha*) must be like the meaning of विधान (*vidhāna*), 'distribution, disposition, ordinance; In V. 3-6, we read विदथेषु अह्नां (*vidatheṣu ahnāṃ*): this phrase receives its explanation by VII. 6-11 we may call attention also to VI. 51-2 within the sphere of the Vedic poets' thoughts, the most prominent example of something most artificially विहित (*vihita*) was the sacrifice. यज्ञ (*yajña*) and विदथ (*vidatha*), 'Sacrifice' and 'ordinance' became nearly synonymous. (III 3-3)....................................
+finally विदथ (*vidatha*) seems to mean 'the act of disposing of any business' or the like; this meaning appears, I believe, in some passages like the well-known phrase, बृहद्वदेम विदथे सुवीरा (*bṛhadvadema vidathe suvīrā*):-may we with Valiant men mightily raise our voice at the determining of ordinances. Thus the word विदथ (*vidatha*) and सभा (*sabhā*) approach each other in the meaning; a person influential in council is called both विदथ्य (*vidathya*) and सभेय (*sabheya*)"
+(Sacred Books of the East. Vol. 46. p. 27).
+
+The main substance of this writing is as follows. The word विदथ (*vidatha*) is formed by adding the prefix वि (*vi*) to the root धा (*dhā*). विधा (*vidhā*) means "distribute, ordain"; it may also mean observance of rule. That the meanings of the two words विदथ (*vidatha*) and विधा (*vidhā*) are the same is known from the identical sense of the words विदथेष्वह्नां (*vidatheṣvahnāṃ*) in the Ṛk
+वयमग्ने वनुयाम त्वोता वसूयवो हविषा बुध्यमानाः । वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥ (*vayamagne vanuyāma tvotā vasūyavo haviṣā budhyamānāḥ | vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasasputra martān ‖*) (Ṛ. Saṃ. 5-3-6)
+and of the words वि-दधुः (*vi-dadhuḥ*) in the Ṛk
+वि ये दधुः शरदं मासमादहरज्ञमक्तुं चादृचं । अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत । (*vi ye dadhuḥ śaradaṃ māsamādaharajñamaktuṃ cādṛcaṃ | anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata |*) (Ṛ. Saṃ. 7-66-11)
+And the meanings of the words विहित (*vihita*) and विदथ (*vidatha*) being the same, the sacrifice prescribed by the śāstra came to be called by the name विदथ (*vidatha*). The meaning "sacrifice" or "sacrificial assembly" remained in the end, this scholar has explained.
+
+### Printed p. 12
+The scholar Bloomfield has pointed out the faults in the meaning given by the two, Max Muller and Oldenberg, saying that विदथ (*vidatha*) never means an assembly and that the meaning "personal household" alone is correct. His opinion is as follows:
+"The word विदथ (*vidatha*) contains the root वित् (*vit*) in its ordinary sense of ' get, acquire '. Instead of this, the radical idea underlying the word was generally felt to be ' come to-gether,' ' assemble '. Again, the false start from the notion of ' assemblage ' resulted in an approximation of the word to other words for assemblage, especially to सभा (*sabhā*) with which विदथ (*vidatha*) was almost identified. We shall see that there are decided points of contact between the words विदथ (*vidatha*) and सभा (*sabhā*) but the contact is that of extreme opposites in a way. विदथ (*vidatha*) refers to home matters ; सभा (*sabhā*) generally to public matters.
+In the interpretation of a term that figures prominently in the mystic—hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X—85·26, the bride after the wedding ceremoney proper, as the newly married couple are about to travel to their new home is addressed with the words " May Pushan taking thee by the hand lead thee home, may the Asvins lead thee forth on their car. Go to your house in order that thou mayst be mistress of the house '.
+Now विदथ (*vidatha*) here, can but have one meaning, household or something very like it. It certainly cannot refer to anything in the nature of public gathering similar to the सभा (*sabhā*). In the phrase बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*) (R. V. 2-1-I6), the word सुवीराः (*suvīrāḥ*) refers to family relations, not to public life.
+Thus far, it may not be doubted, the word appears in the language of ordinary life. But it is found to a very much greater extent in the sacredotal sphere; indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice' itself. This is as it should be in as much as the sacrifice is a private, home affair, it is very natural विदथ (*vidatha*) the house, the premises, the establishment, should figure
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
+**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
