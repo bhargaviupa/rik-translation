@@ -11774,6 +11774,134 @@ Since Agastya was the son of Mitra and Varuṇa, the individual powers of Mitra 
 Of these Ādityas, Mitra and Varuṇa, at the sacrificial session, seeing the apsaras Urvaśī, were infatuated. Then their seed fell and dropped into the pitcher that held the water of the dwelling. तस्या दर्शनान्नित्रावरुणयो रेतच्चस्कंद (*tasyā darśanānnitrāvaruṇayo retaccaskaṃda*) (Ni. 5-13). Immediately two ascetic and virile seers, Vasiṣṭha and Agastya, came into being. That is, the seed fell in the pitcher, in the water, and on the ground. From the seed that fell on the ground, Vasiṣṭha, best of seers, was born. Agastya was born from the pitcher, and the fish from the water. The great ascetic Agastya was only of the measure of a शम्या (*śamyā*) (a peg). Because he was of a definite measure he also got the name Mānya. Such is the story of Agastya's origin. Born of Mitra and Varuṇa, Agastya must have received the extraordinary powers of both. Their individual powers are thus described in the Śruti:
 इमां वां मित्रावरणा सुवृक्तिमिषं न कृण्वे असुरा नवीयः । इनो वामन्यः पदवीरदब्बो जनं च मित्रो यतति ब्रुवाणः ॥ (*imāṃ vāṃ mitrāvaraṇā suvṛktimiṣaṃ na kṛṇve asurā navīyaḥ | ino vāmanyaḥ padavīradabbo janaṃ ca mitro yatati bruvāṇaḥ ‖*) (Ṛ. Saṃ. 7-36-2).
 
+### Printed p. 493
+In the Ṛk beginning *imāṃ vāṃ* the individual nature and function of Mitrāvaruṇa are described. In it Varuṇa is said to preside over dharma and adharma and to lead the people to worldly affairs. In the present Ṛk too these two powers of Agastya are described. And, as described in the Śatapatha Brāhmaṇa, it is understood that the individual qualities of Mitra and Varuṇa are the source of these two kinds of power. For example: वागेवाग्निः प्राणोदानौ मित्रावरुणौ । (*vāgevāgniḥ prāṇodānau mitrāvaruṇau |*) (Śa. Brā. 3-2-2-13). Mitra is of the nature of prāṇa and Varuṇa of the nature of udāna. As described in the Chāndogya: स प्राणः तच्चक्षुः स आदित्यस्तदेतत्तेजोऽन्नाद्यमित्युपासीत तेजस्वन्नादो भवति य एवं वेद (*sa prāṇaḥ taccakṣuḥ sa ādityastadetattejo 'nnādyamityupāsīta tejasvannādo bhavati ya evaṃ veda*) (Chā. U. 3-13-1).
+
+Prāṇa is of the form of Āditya. One should meditate on it as food and as radiance. One who knows this truth becomes radiant and an eater of food; thus prāṇa is praised. This is a quality of worldly wealth. To increase this worldly wealth Agastya had acquired the quality of Mitra. And the quality of Varuṇa, udāna, is praised thus: स उदानः स वायुः स आकाशस्तदेशदोजश्च महश्चेत्युपासीतौजस्वी महस्वान्भवति य एवं वेद (*sa udānaḥ sa vāyuḥ sa ākāśastadeśadojaśca mahaścetyupāsītaujasvī mahasvānbhavati ya evaṃ veda*) (Chā. U. 3-13-5).
+
+Udāna is of the nature of air and space. One should meditate on it as vigour and as greatness. One who knows this truth becomes vigorous and possessed of greatness; thus the matter of spiritual wealth is praised. This is the quality of Varuṇa. The present Ṛk describes that Agastya acquired this and fully obtained spiritual wealth as well.
+
+क्रतूदक्षौ ह वा अस्य मित्रावरुणौ । एतन्नध्यात्मं स यदेव मनसा कामयत इदं मे स्यादिदं कुर्वीयेति स एव क्रतुरथ यदस्मै तत्समृध्यते स दक्षो मित्र एव क्रतुर्वरुणो दक्षो ब्रह्मैव मित्रः क्षत्रं वरुणोऽभिगंतैव ब्रह्म कर्ता क्षत्रियः ॥ (*kratūdakṣau ha vā asya mitrāvaruṇau | etannadhyātmaṃ sa yadeva manasā kāmayata idaṃ me syādidaṃ kurvīyeti sa eva kraturatha yadasmai tatsamṛdhyate sa dakṣo mitra eva kraturvaruṇo dakṣo brahmaiva mitraḥ kṣatraṃ varuṇo 'bhigaṃtaiva brahma kartā kṣatriyaḥ ‖*) (Śa. Brā. 4-1-4-1)
+
+Of Mitra and Varuṇa, Mitra is of the form of resolve and Varuṇa of the form of spiritual power. To resolve for the accomplishment of a task is Mitra's function; to accomplish it is Varuṇa's. Further, Mitra is of the form of Brahma and Varuṇa of the form of Kṣatra; Brahma is of the form of kratu, and Varuṇa is dakṣa for everything. And: अयं वै लोको मित्रः आस् वरुणः । (*ayaṃ vai loko mitraḥ ās varuṇaḥ |*) (Śa. Brā. 12-9-2-12)
+
+### Printed p. 494
+Mitra is of the form of this world and Varuṇa of the form of the divine world; this is praised in many places. Since these same elements were in their son Agastya, he became able to acquire together worldly wealth in the form of sons and so on, and moral and spiritual wealth in the form of dharma. In the present Ṛk the disciple thus praises the great qualities of the teacher.
+
+Ṛṣi: Agastya, being the foremost among ascetics, is praised as a ṛṣi. The derivation of the word ṛṣi is given in the Śatapatha Brāhmaṇa as follows; along with it the relation between creation and the ṛṣis is also shown:
+असद्वा इदमग्र आसीत् । तदाहुः किं तदसदासीदित्यषयो वाव तेऽग्रेऽसदासीत्तदाहुः के त ऋषय इति प्राणा वा ऋषयस्ते यत्पुरास्मात्सर्व स्मादिदमिच्छंतः क्रमेण तपसारिषंस्तस्मादृषयः (*asadvā idamagra āsīt | tadāhuḥ kiṃ tadasadāsīdityaṣayo vāva te 'gre 'sadāsīttadāhuḥ ke ta ṛṣaya iti prāṇā vā ṛṣayaste yatpurāsmātsarva smādidamicchaṃtaḥ krameṇa tapasāriṣaṃstasmādṛṣayaḥ*) (Śa. Brā. 6-1-1-1)
+
+Before creation only the non-existent was there. These very ṛṣis existed in that form. Who are the ṛṣis? They are the chief prāṇas. Before creation, desiring the creation of the world, they performed austerity and toiled for it; therefore they are called ṛṣis. Thus the derivation of the word ṛṣi is given (तपसारिषंस्तस्मादृषयः (*tapasāriṣaṃstasmādṛṣayaḥ*)). And: त्वयि तंतुमेशमिति योऽसावृषिभिस्तंतुस्ततस्तमेशदाह (*tvayi taṃtumeśamiti yo 'sāvṛṣibhistaṃtustatastameśadāha*) (Śa. Brā. 8-6-3-22).
+
+They spun the sacrificial thread that is the universe; they became the cause of the world's expansion: thus the ṛṣi's power is praised. Therefore they are also said to be of the nature of Brahma, the root of creation: प्राणा वा ऋषयः प्रथमजास्तद्धि ब्रह्म प्रथमजं (*prāṇā vā ṛṣayaḥ prathamajāstaddhi brahma prathamajaṃ*) (Śa. Brā. 8-6-1-5). Thus the identity of the ṛṣis with Brahma is shown. If this is one kind of derivation, another derivation is possible in contrast to it. As stated in the Vācaspatya: यमति ज्ञानेन संसारपारं. (*yamati jñānena saṃsārapāraṃ.*)
+
+Because one crosses to the far shore of saṃsāra through knowledge, the word ṛṣi formed from the root ṛṣ means "the knowers". Thus according to one derivation the ṛṣis are the root cause of the world's creation, and according to the other they are the cause of the cessation of saṃsāra. The description in the present Ṛk is that Agastya had both these powers. In उभौ वर्णौ पुपोष (*ubhau varṇau pupoṣa*) the capacity for creation is described, through the satisfaction of desire, and the power that is the means to the cessation of saṃsāra, through the acquisition of spiritual knowledge.
+
+### Printed p. 495
+The derivation above shows that the word ṛṣi is formed from the root ऋषी (ऋष्) गत् । (*ṛṣī (ṛṣ) gat |*), of the meaning "to go". Moreover, the scholar Monier Williams, in his Sanskrit-English Dictionary, states that the word ṛṣi may also be formed from the root dṛś, and, in giving the meaning of the word ṛṣikṛt, cites two authorities and gives the meaning "Causing to see, enlightening". Of these examples, first:
+इमामग्ने शरणिं मीमृषो न इममध्वानं यमगाम दूरात् । आपिः पिता प्रमतिः सोम्यानां भ्रमिरस्यृषिकृन्मर्त्यानां ॥ (*imāmagne śaraṇiṃ mīmṛṣo na imamadhvānaṃ yamagāma dūrāt | āpiḥ pitā pramatiḥ somyānāṃ bhramirasyṛṣikṛnmartyānāṃ ‖*)
+(Ṛ. Saṃ. 1-31-16)
+
+In this Ṛk the word ṛṣikṛt is an epithet of Agni. Sāyaṇa gives this word the meaning दर्शनकारी (*darśanakārī*). Likewise in the Ṛk
+ऋषिमना य ऋषिकृत्स्वर्णाः सहस्रणीथः पदवीः कवीनां । तृतीतियं धाम महिषः सिषासन्त्सोमो विराजमनु राजति ष्टुप् ॥ (*ṛṣimanā ya ṛṣikṛtsvarṇāḥ sahasraṇīthaḥ padavīḥ kavīnāṃ | tṛtītiyaṃ dhāma mahiṣaḥ siṣāsantsomo virājamanu rājati ṣṭup ‖*)
+(Ṛ. Saṃ. 9-96-18)
+
+the word ṛṣimanāḥ is explained as सर्वदर्शनशील मनस्यः (*sarvadarśanaśīla manasyaḥ*) and ṛṣikṛt as सर्वस्य दर्शनकर्ता (*sarvasya darśanakartā*). In ordinary usage too, darśana is a synonym for knowledge of truth, and this conveys these ideas. It may be said that Agastya is praised as a ṛṣi because he obtained darśana in the form of knowledge of truth.
+
+Satyāḥ: means "(blessings) whose fruit is true". The derivation of this word and its special meaning will be explained under Ṛk 1-180-7.
+इमं नु सोममित्येते द्वे ऋचौ प्रयतो जपन् । सर्वान् कामानवाप्नोति पापेभ्यश्च प्रमुच्यते ॥ (*imaṃ nu somamityete dve ṛcau prayato japan | sarvān kāmānavāpnoti pāpebhyaśca pramucyate ‖*)
+(Ṛgvidhāna 1-147)
+
+The Ṛgvidhāna praises these mantras thus: if a man, with restraint of mind, recites the two Ṛks "Imaṃ somam" and "अगस्त्यः खनमानः (*agastyaḥ khanamānaḥ*)", all his desired ends are accomplished and he is freed from sin. **NOTE**
+
+##### Grammar
+
+- खनमानः—खनु अवधारणे । धातुः । लटि शानचादेशः । हास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति ल सार्वधातुकमनुदात्तं भवति । ततो धातुस्वरः अवशिष्यते ।
+
+### Printed p. 496
+- खनित्रैः—पूर्वोक्तो धातुः । उषिखनिथ्यां कित्—(उ. सू. ४-६०१) इति स्प्रन् प्रत्ययः । इडागमः । व्यत्ययेन मध्योदात्तं भवति ।
+- इच्छमानः—इषु इच्छायां धातुः । व्यत्ययेन लटि शानचादेशः । इषुगमियमां छः (पा. सू. ७-३-७७) इति धातोश्छकारांतादेशः । आनेमुक् इति मुकागमः । तास्यनुदात्तेत्—इति सूत्रेण ल सार्वधातुकमनुदात्तं भवति । ततः श विकरणस्वरो अवशिष्यते ।
+- पुपोष—पुष पुष्टौ धातुः । लिट् प्रथमपुरुष एकवचनांतरूपं । तिजंतनिघातस्वरः आगच्छति ।
+
+Here ends the hundred and seventy-ninth sūkta.
+
+## Sūkta 180 (Maṇḍala 1)
+[[b-intro-none]]
+
+The Sanskrit introduction (not set as a block in kn.md) says: Now in the twenty-fourth anuvāka there are twelve sūktas. Among them the first sūkta, "युवो रजांसि (*yuvo rajāṃsi*)", of ten Ṛks, is by Agastya, in the Triṣṭubh metre. By the Anukramaṇikā's technical usage (tu, hi etc.) this and the next four sūktas are addressed to the Aśvins; the Anukramaṇikā says "युवोर्दशाश्विनं (*yuvordaśāśvinaṃ*)". Five sūktas beginning with this, excluding the third, are employed in the Prātaranuvāka and the Aśvinaśastra, for the Triṣṭubh metre. In the Aśvina section (Āśvalāyana) it is aphorised: "Yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet" (Ā. 4-15).
+
+Anuvāda: With this sūkta the twenty-fourth anuvāka of the first Maṇḍala begins. In this anuvāka there are twelve sūktas. Of them this sūkta "युवो रजांसि (*yuvo rajāṃsi*)" is the first. It has ten Ṛks. Agastya is the ṛṣi; the metre is Triṣṭubh. Because the Anukramaṇikā uses technical words like "tu hi", the five sūktas from this one onward have the Aśvins as deity; the Anukramaṇikā says "युवोर्दशाश्विनं (*yuvordaśāśvinaṃ*)". Of these five Aśvin sūktas, excluding the third (sūkta 182), for the remaining four, namely sūktas 180, 181, 183, 184, there is application, for Triṣṭubh Ṛks, at the time of reciting the Prātaranuvāka mantras and the Āśvinaśastra mantras; this is explained by the sūtra "Yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet" in the Āthāśvina section of the Āśvalāyana Śrauta Sūtra (Ā. 4-15).
+
+### Printed p. 497
+Sūkta 180: Maṇḍala 1; Anuvāka 24; Sūkta 180; Aṣṭaka 2; Adhyāya 4; Varga 23-24. Number of Ṛks in the sūkta: 10. Ṛṣi: Āgastya. Deity: Āśvinau. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वो रजां॑सि सु॒यमा॑सो॒ अश्वा॒ रथो॒ यद्वां॒ पर्यर्णां॑सि॒  ॑
+> दीयत् ।  
+> हि॒र॒ण्यया॑ नां प॒वयः॑ प्रषाय॒न्मध्वः॒ पिबं॑ता उ॒षसः॑ सचेथे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । रजांसि । सुयमासः । अश्वाः । रथः । यत् । वां । परि । अर्णांसि ।  
+> दीयत् ।  
+> हिरण्ययाः । नां । पवयः । प्रषायन् । मध्वः । पिबंत् । उषसः । सचेथे इति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवोर्युवयोरश्वा रथवोढारो रजांसि रंजकाल्लोकान्
+> सुयमासः शोभननियमनाः । लोकत्रयसंचारिण इत्यर्थः । कदेति आह ।
+> यद्यदा वां रथोर्णांस्यरणीयानभिमतदेशान् परि दीयत् परिगच्छेत् परिशो
+> गच्छति वा । तदेत्यर्थः । दीयतिर्गतिकर्मा दीयति तकतीति तत्कर्मसु पातात् ।
+> किंच रथागमनकाले वां युवयोः पवयो वज्रा रथनेमयो ना हिरण्यया
+> हिरण्मयाः पुषायन् । पुष्पंत्यभिमतं । यद्वा । हिरण्ययानि पवयो
+> मधुपात्राणि वां युवाभ्यामर्थाय । यस्मादेवं तस्माद्युवां मध्वो मधुनो
+> मधुसदृशस्य सोमरसस्य ॥ कर्मणि षष्ठि ॥ सोमरसं पिबंतावास्वादयंतावुषस
+> उषःसंबंधिनि काले सचेथे । यज्ञं संगच्छेथे । अत्र क्रमो न विवक्षितः ।
+> उषःकाल एवागत्य मधुरं सोमरसं पिबतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, your horses, the bearers of the chariot, are good controllers (सुयमासः (*suyamāsaḥ*)), i.e. travellers through the three worlds, the रजांसि (*rajāṃsi*) being the worlds that delight. When? When your chariot goes round (परि दीयत् (*pari dīyat*)) the अर्णांसि (*arṇāṃsi*), the desired places to be reached; or it goes about them. दीयति (*dīyati*) is a verb of motion, listed among the verbs of that class. Further, at the time of the chariot's coming, your पवयः (*pavayaḥ*), thunderbolts or chariot-fellies, golden (हिरण्यया (*hiraṇyayā*)), पुषायन् (*puṣāyan*) — they nourish (grant) what is desired. Or else: the पवयः (*pavayaḥ*) are golden honey-vessels, for your sake. Since it is so, you, drinking (मध्वः (*madhvaḥ*), genitive in the object sense) the Soma juice that is like honey, relish it and join (सचेथे (*sacethe*)) the sacrifice at the time of dawn. The order is not intended here: come at dawn itself and drink the sweet Soma juice.
+
+### Printed p. 498
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- यत् (*yat*)—when
+- वां (*vāṃ*)—of you two
+- रथः (*rathaḥ*)—the chariot
+- अर्णांसि (*arṇāṃsi*)—to the desired places
+- परि दीयत् (*pari dīyat*)—goes around (then)
+- युवोः (*yuvoḥ*)—of you two
+- अश्वाः (*aśvāḥ*)—the chariot-horses
+- रजांसि (*rajāṃsi*)—the three worlds
+- सुयमासः (*suyamāsaḥ*)—those that range regularly (and)
+- वां (*vāṃ*)—your
+- हिरण्ययाः (*hiraṇyayāḥ*)—golden
+- पवयः (*pavayaḥ*)—thunderbolts or chariot-fellies
+- प्रषायन् (*praṣāyan*)—sprinkle what is desired (rain down the wished-for object); or: हिरण्ययाः (*hiraṇyayāḥ*) golden पवयः (*pavayaḥ*) honey-vessels वां (*vāṃ*) for you two प्रषायन् (*praṣāyan*) pour (the desired honey); therefore you two
+- मध्वः (*madhvaḥ*)—the honey-like Soma juice
+- पिबंतौ (*pibaṃtau*)—drinking
+- उषसः (*uṣasaḥ*)—at the time connected with dawn
+- सचेथे (*sacethe*)—you join (the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, when your chariot sets out for the place appointed for you, your chariot-horses travel through the three worlds; at this time of the chariot's coming, your golden weapons or chariot-fellies rain down what is desired (the golden honey-vessels pour out for you the honey you like); therefore you two, coming at the dawn time to the sacrificial hall, drink the honey-like Soma juice.
+
+##### English translation (H. H. Wilson)
+Ashwins, your horses are traversers of the (three) regions, when your chariot proceeds to (its desired) quarters: the golden fellies of your wheels grant (whatever is wished for): drinking the Soma juice, you participate in the morning (rite).
+
+##### विशेषविषयगळु (Special Topics)
+
+Ratha: रथः रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा । रपतेर्वा रसतेर्वा ॥ (*rathaḥ raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā | rapatervā rasatervā ‖*) (Ni. 9-11)
+
+The Nirukta authors say that it is formed either from the root raṃh, which gives the meaning motion or speed; or, by inversion of letters, from sthira ("firm"); or from the root ram, meaning "sitting in it one rejoices"; or from the root rap or ras, meaning "to make a sound".
+
 ---
 
-**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
+**Progress note:** Done through printed p. 498. pp. 493-498 (batch API)
