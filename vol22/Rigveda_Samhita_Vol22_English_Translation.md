@@ -23437,6 +23437,246 @@ The अरुषासः (*aruṣāsaḥ*), ruddy and shining, wonderful (attra
 
 The radiant, attractive horses that bear the shining goddess Dawn are becoming visible. Dawn, full of brilliance, travels everywhere with a chariot of many forms. To the sacrificer who worships her she gives delightful wealth.
 
+### Printed p. 565
+The bright and wondrous steeds, conveying the resplendent Ushas, are visible : she advances, radiant in her every-way-moving chariat : she bestows wealth upon the man who practises sacred rites.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्या स॒त्येभि॑र्मह॒ती म॒हद्भि॑र्दे॒वी दे॒वेभि॑र्यज॒ता  ॑
+> यजत्रैः ।  
+> रु॒जद्दृ॒ळ्हानि॒ दद॑दु॒स्रिया॑णां॒ प्रति॒ गाव॑ उ॒षसं॑ वावशंत ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्या । सत्येभिः । महती । महत्ऽभिः । देवी । देवेभिः । यजता । यजत्रैः ।  
+> रुजत् । दृळ्हानि । ददत् । उस्रियाणां । प्रति । गावः । उषसं । वावशंत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्या सत्यैरबाध्या महती पूजनीया प्रवृद्धा वा गुणैर्देवी द्योतमाना यजता यजनीयोषाः सत्येभिः सत्यैर्महद्भिर्देवैर्यजत्रैरुक्तलक्षणैः किरणैर्निपातभाग्भिरन्यैर्देवैर्वा सहिता सती दृळ्हान्यत्यंतं स्थिराणि तमांसि रुजत् । भिनत्ति । उस्रियाणां । गोनामैतत् । उत्स्रविण आसां भोगा इति तद्व्युत्पत्तिः । तासां संचाराय ददत् । ददाति । सामर्थ्यात्प्रकाशमित्यर्थः । अथवोस्रिया गा ददत् । ददाति स्तोतृभ्यः । किं च गावः । उपलक्षणमेतत् । सर्वेऽपि तमोऽवरुद्धाः प्राणिन उषसं वावशंत । उशंति । कामयंते । विशेषेण गवां प्रभाते संचारार्थमुषसोऽपेक्षितत्वात्तासां प्राधान्येनोक्तिः ॥
+
+##### Gist of the bhāṣya
+
+The dawn is "true" because she cannot be obstructed by true things, and "great" in the sense of worthy of worship or grown great through her qualities; she is shining and fit to be worshipped. Accompanied by true, great, worshipful rays of the kind described (or else by other gods), she breaks the exceedingly firm darknesses. उस्रियाणां (*usriyāṇāṃ*) is a name for cattle (derived from their flowing, "utsravin", enjoyments); for their moving about she gives, that is, by implication, light. Or else she gives cattle to the praisers. Further, "cattle" here is only an illustration: all creatures confined by darkness long for the dawn. Because the cattle need the dawn in order to move about at daybreak, they are mentioned as the chief ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेभिः (*devebhiḥ*)—among the shining ones
+- देवी (*devī*)—the exceedingly shining
+- सत्येभिः (*satyebhiḥ*)—among principles of the nature of truth
+- सत्या (*satyā*)—of the nature of truth
+- महद्भिः (*mahadbhiḥ*)—among gods of great qualities
+- महती (*mahatī*)—possessed of greatness
+- यजत्रैः (*yajatraiḥ*)—among those worthy of sacrifice
+- यजता (*yajatā*)—worshipful, the goddess Ushas
+
+### Printed p. 566
+- दृळ्हानि (*dṛḷhāni*)—the exceedingly deep darkness
+- रुजत् (*rujat*)—destroys
+- उस्रियाणां (*usriyāṇāṃ*)—to the cattle
+- ददत् (*dadat*)—gives light
+- गावः (*gāvaḥ*)—all creatures
+- उषसं (*uṣasaṃ*)—the light of the dawn
+- वावशंत (*vāvaśaṃta*)—long for
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Ushas, most shining among the shining gods, true in nature among true principles, great among gods of great qualities, worshipful among those worthy of sacrifice, destroys the exceedingly deep darkness. She gives light to the cattle. All creatures long for the light of the dawn.
+
+##### English translation
+True with the truthful, great with the great, divine with the deities, adorable with the aborable, she disperses the solid (glooms), she displays (the pastures) of the cattle : all creatures, the cattle especially, are longing for the dawn.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नो॒ गोम॑द्वी॒रव॑द्धेहि॒ रत्न॒मुषो॒ अश्वा॑वत्पुरु॒भोजो॑  ॒
+> अस्मे ।  
+> मा नो॑ ब॒र्हिः पु॑रु॒षता॑ नि॒दे क॑र्यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । गोऽमत् । वीरऽवत् । धेहि । रत्नं । उषः । अश्वऽवत् । पुरुऽभोजः ।  
+> अस्मे इति ।  
+> मा । नः । बर्हिः । पुरुषता । निदे । कः । यूयं । पात । स्वस्तिऽभिः । सदा । नः ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः नु नोऽस्मभ्यं गोमद्बहुभिर्गोभिर्युक्तं वीरवद्वीरैः पुत्रैः प्रौत्रैरुपेतं रत्नं रमणीयं धनं पुरुभोजो बह्वन्नं चास्मे अस्मासु धेहि । देहि ।
+
+**NOTE**
+
+> पादभेदादस्मे इति पुनरभिधानं । नोऽस्माकं बर्हिर्यज्ञं पुरुषता पुरुषतायां पुरुषसमूहेषु । अस्मत्सदृशेष्वित्यर्थः । निदे निंदायै मा कः । मा कार्षीः । यथा ते निंदंति तथा मा कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Ushas, now bestow upon us wealth, the desirable, possessed of many cattle and heroes (sons and grandsons), and abundant food, in us. अस्मे (*asme*) is repeated owing to the difference of pāda.
+
+### Printed p. 567
+Do not make our sacrifice (बर्हिः (*barhiḥ*)) a thing of reproach among groups of men, that is, among men like us: do not act so that they blame us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Ushas
+- नु (*nu*)—now
+- नः (*naḥ*)—for us, what is needed
+- अश्ववत् (*aśvavat*)—possessed of horses
+- गोमत् (*gomat*)—possessed of cattle
+- वीरवत् (*vīravat*)—accompanied by heroic sons
+- रत्नं (*ratnaṃ*)—wealth
+- पुरुभोजं (*purubhojaṃ*)—abundant food, having provided it
+- अस्मे (*asme*)—in us
+- धेहि (*dhehi*)—establish
+- नः (*naḥ*)—our
+- बर्हिः (*barhiḥ*)—sacrifice
+- पुरुषता (*puruṣatā*)—among men
+- निदे (*nide*)—as one fit for reproach
+- मा कः (*mā kaḥ*)—do not make; O gods
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Ushas, now provide the wealth we need, possessed of horses and accompanied by heroic sons, and abundant food, and establish it in us. Do not make our sacrifice a thing of reproach among men. O gods, protect us always with blessings.
+
+##### English translation
+Bestow upon us, Ushas, wealth, comprising cattle and horses abundant food, and male offspring : let not our sacrifice incur reproach among men ; and do you, (gods), ever cherish us with blessings.
+
+## Sūkta 76 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदु ज्योतिरिति सप्तर्चं षष्ठं सूक्तं त्रैष्टुभमुषस्यं । तथा चानुक्रांतं उदु सप्तेति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्थ्ये विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta उदु ज्योतिः (*udu jyotiḥ*) has seven Ṛks; it is the sixth sūkta, in the Triṣṭubh metre, addressed to Ushas. So the Anukramaṇī: उदु सप्त (*udu sapta*). Its use is in the Prātaranuvāka and in the Uktha of the Āśvina-śastra.
+
+Anuvāda: This sūkta beginning उदु ज्योतिः (*udu jyotiḥ*) is the sixth sūkta in the fifth anuvāka; it has seven Ṛks. Vasiṣṭha is the seer, Ushas the deity, Triṣṭubh the metre. In the Anukramaṇī it is said: उदु सप्त (*udu sapta*). It was stated before that this sūkta is used for the Prātaranuvāka and the Āśvina-śastra mantras.
+
+### Printed p. 568
+Sūkta 76; Maṇḍala 7; Anuvāka 5; Aṣṭaka 5; Adhyāya 5; Varga 23. Number of Ṛks in the sūkta: 7. Seer: Vasiṣṭha. Deity: Ushas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ज्योति॑र॒मृतं॑ वि॒श्वज॑न्यं वि॒श्वान॑रः सवि॒ता दे॒वो अ॑श्रेत् ।  
+> क्रत्वा॑ दे॒वाना॑मजनिष्ट॒ चक्षु॑रा॒विर॑क॒र्भुव॑नं॒ विश्व॑मु॒षाः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । ज्योतिः । अमृतं । विश्वऽजन्यं । विश्वानरः । सविता । देवः ।  
+> अश्रेत् ।  
+> क्रत्वा । देवानां । अजनिष्ट । चक्षुः । आविः । अकः । भुवनं । विश्वं । उषाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमृतममृतत्वसाधकमविनाशि वा विश्वजन्यं विश्वेषां जनानां हितकरं ज्योतिर्वैश्वानरः सर्वेषां नेता सविता देव उदश्रेत् । ऊर्ध्वं श्रयति । देवानां व्यवहर्तॄणां स्तोतॄणां वा यजमानानां क्रत्वा कर्मणा निमित्तेन । यागानुष्ठानार्थमित्यर्थः । तदर्थं यद्वा देवानां चक्षुश्चक्षुःस्थानीयमौषसं तेजः क्रत्वा कर्मणा निमित्तेनाजनिष्ट । प्रादुरभूत् । उत्पन्ना चोषा विश्वं सर्वं भुवनं भूतजातमाविरकः । प्रादुरकः । अकरोत् । समस्तं जगदाविष्कृतवती ॥
+
+##### Gist of the bhāṣya
+
+The immortal light—conducive to immortality, or imperishable—beneficial to all people, the divine Savitṛ, the Vaiśvānara, leader of all, has risen up (उदश्रेत् (*udaśret*)). It is for the sake of the gods—the active ones, or the praisers, the sacrificers—by reason of the rite, that is, to carry out the sacrifices. Or else the eye of the gods, the dawn-light that stands in the place of an eye, has been born by reason of the rite, has become manifest. And the dawn, having arisen, has made manifest the whole world, all beings; she has revealed the entire universe.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वानरः (*viśvānaraḥ*)—guide of all
+- देवः (*devaḥ*)—of divine nature
+- सविता (*savitā*)—Savitṛ
+- अमृतं (*amṛtaṃ*)—imperishable
+- विश्वजन्यं (*viśvajanyaṃ*)—beneficial to all
+- ज्योतिः (*jyotiḥ*)—his radiance
+- उदश्रेत् (*udaśret*)—spreads upward
+- देवानां (*devānāṃ*)—of the gods
+- चक्षुः (*cakṣuḥ*)—the eyes
+- क्रत्वा (*kratvā*)—by reason of the rite
+- अजनिष्ट (*ajaniṣṭa*)—have become manifest
+- उषाः (*uṣāḥ*)—the goddess Ushas
+- विश्वं भुवनं (*viśvaṃ bhuvanaṃ*)—all the worlds
+- आविः अकः (*āviḥ akaḥ*)—has made visible
+
+### Printed p. 569
+
+##### भावार्थ (Bhāvārtha)
+
+Savitṛ, guide of all and of divine nature, spreads upward his imperishable radiance, beneficial to all. The eyes of the gods have become manifest by reason of the rite. The goddess Ushas has made all the worlds visible.
+
+##### English translation
+The divine Savitri, the leader of all, sends upwards the immortal, all-benefiting light : the eye of the gods has been manifested for (the celebration of) religious rites : the dawn has made all creatures visible.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मे॒ पंथा॑ देव॒याना॑ अदृश्र॒न्नम॑र्धंतो॒ वसु॑भि॒रिष्कृ॑तासः ।  
+> अभू॑दु के॒तुरु॒षसः॑ पु॒रस्ता॑त्प्रती॒च्यागा॒दधि॑ ह॒र्म्येभ्यः॑ ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मे । पंथाः । देवऽयानाः । अदृश्रन् । अमर्धंतः । वसुऽभिः । इष्कृतासः ॥  
+> अभूत् । ऊं इति । केतुः । उषसः । पुरस्तात् । प्रतीची । आ । अगात् । अधि । हर्म्येभ्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मया देवयाना देवप्रापकाः पंथाः पंथानः प्रादृश्रन् । प्रदृश्यंते । कीदृशाः पंथानः । अमर्धंतोऽहिंसंतो वसुभिस्तेजोभिरिष्कृतासः संस्कृताः । पुरस्तात् पूर्वस्यां दिश्युषसः केतुः प्रज्ञापकं तेजोऽभूत् । अचेति । ज्ञायते । सोषाश्च प्रतीची प्रत्यगंचनास्मदभिमुखी हर्म्येभ्योऽध्युच्च्रितेभ्यः प्रदेशेभ्यः । हर्म्यशब्द उन्नतप्रदेशोपलक्षकः । आगात् । आगच्छति ॥
+
+##### Gist of the bhāṣya
+
+By me the paths leading to the gods, the god-reaching paths, are seen. What kind of paths? Unharming, वसुभिः (*vasubhiḥ*) (with radiances) prepared, refined. In the east, the banner (केतुः (*ketuḥ*)), the indicating light, of the dawn has come to be: it is known. And that dawn, facing westward, toward us, comes from the elevated places; the word हर्म्य (*harmya*) indicates high places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्धंतः (*amardhaṃtaḥ*)—unharming
+- वसुभिः (*vasubhiḥ*)—with radiances
+- इष्कृतासः (*iṣkṛtāsaḥ*)—perfected
+- देवयानाः (*devayānāḥ*)—bringing the gods
+- पंथाः (*paṃthāḥ*)—the paths
+- मे (*me*)—
+
+### Printed p. 570
+by me
+- प्र अदृश्रन् (*pra adṛśran*)—are being seen
+- पुरस्तात् (*purastāt*)—in the eastern quarter
+- उषसः (*uṣasaḥ*)—of Ushas
+- केतुः (*ketuḥ*)—the indicating radiance
+- अभूत् (*abhūt*)—has become visible
+- प्रतीची (*pratīcī*)—in the western quarter
+- हर्म्येभ्यः अधि (*harmyebhyaḥ adhi*)—in the elevated places
+- अगात् (*agāt*)—passes, comes
+
+##### भावार्थ (Bhāvārtha)
+
+The paths, unharming, full of radiances, bringing the gods, are being seen by me. The banner-like radiance of Ushas has become visible in the eastern quarter. In the western quarter it comes passing over the elevated places.
+
+##### English translation
+The paths that lead to the gods are beheld by me, innocuous and glorious with light : the banner of Ushas is displayed in the east, she comes to the west, rising above high places.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तानीदहा॑नि बहु॒लान्या॑स॒न्या प्रा॒चीन॒मुदि॑ता॒ सूर्य॑स्य ।  
+> यतः॒ परि॑ जा॒र इ॑वा॒चरं॒त्युषो॑ ददृ॒क्षे न पुन॑र्य॒तीव॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तानि । इत् । अहानि । बहुलानि । आसन् । या । प्राचीनं । उत्ऽइता । सूर्यस्य ।  
+> यतः । परि । जारःऽइव । आऽचरंती । उषः । ददृक्षे । न । पुनः । यतीऽइव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः तानीत्यान्येव तव तेजांसि बहुलान्यहान्यासन् । उषःप्रकाशयुक्तस्यैव कालस्याहःशब्दव्यवहारात् । तानीत्युक्तं कानीत्याह । या यानि सूर्यस्योदितोदितावुदये सति प्राचीनं तस्य प्राग्देशं प्रत्युदयंति । यद्वा । सूर्यस्य प्राचीने देशे या यान्युदितोदितानि तानीत्यर्थः । हे उषः यतो यैश्च तेजोभिः परि ददृक्षे दृश्यसे त्वं । जार इव पत्यापिवाचरंती समीपे संचरंती साध्वी नारीव जारे रात्रेर्जरयितरि सूर्ये संचरंती त्वं दृश्यसे । यथा लोके दुष्टं भ्रमणशीलमपि पतिमत्यज्यैव साध्वी संचरति तद्वत् तमविमुंचंती त्वमि-
+
+##### Gist of the bhāṣya
+
+"O Ushas, those very radiances of yours were many days, since the time called day is spoken of only as having the light of dawn. Which are 'those'? Those which, when the sun has risen, rise one after another toward his eastern region. Or else: those which rose one after another in the eastern region of the sun. O Ushas, by which radiances you are seen, जार इव (*jāra iva*), like a faithful woman moving near her husband, you are seen moving about near the sun, the 'waster' (जार (*jāra*)) of night. As in the world a faithful woman moves about without abandoning her husband even if he is bad and roving, so you, not leaving him…
+
 ---
 
-**Progress note:** Done through printed p. 564. pp. 559-564 (batch API)
+**Progress note:** Done through printed p. 570. pp. 565-570 (batch API)
