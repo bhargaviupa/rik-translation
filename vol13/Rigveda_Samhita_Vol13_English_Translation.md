@@ -13006,6 +13006,172 @@ Formerly all the deities except the Aśvins, Indra, Viṣṇu, Soma and the rest
 
 देवा वै सत्रमासत । ऋद्धिपरिमितं यशस्कामाः । तेऽब्रुवन् । यन्नः प्रथमं यश ऋच्छात् । सर्वेषां नस्ततत्सहासदिति । ........ । तेषां मुखं वैष्णवं यश अर्थत् । ............तस्यसिह्नियाणस्य तेजोऽपाक्रामत् ।........ नारेवृतग्गह्यासां । तस्य ज्यामप्यादन् । तस्य धनुर्विप्रवमाणग्ं शिर उदवर्तयत् । तद्व्यावापृथिवी अनु प्रावर्तत । यत्पावर्तत। तत् (*devā vai satramāsata | ṛddhiparimitaṃ yaśaskāmāḥ | te 'bruvan | yannaḥ prathamaṃ yaśa ṛcchāt | sarveṣāṃ nastatatsahāsaditi | ........ | teṣāṃ mukhaṃ vaiṣṇavaṃ yaśa arthat | ............tasyasihniyāṇasya tejo 'pākrāmat |........ nārevṛtaggahyāsāṃ | tasya jyāmapyādan | tasya dhanurvipravamāṇagṃ śira udavartayat | tadvyāvāpṛthivī anu prāvartata | yatpāvartata| tat*)
 
+### Printed p. 547
+The Śatapatha Brāhmaṇa passage (given partly in the Context) explains the names Pravargya, Gharma, Mahāvīra and Samrāṭ. It continues: the gods divided that sacrifice in three. Agni took the morning pressing, Indra the midday pressing, and the Viśvedevas the third pressing. With that headless sacrifice the sacrificers did not win their blessings, and did not gain the heaven-world. The gods then said to the Aśvins: "You are physicians; set this head of the sacrifice back." The Aśvins said: "Let a cup (graha) be taken for us too, the Āśvina." They took that Āśvina graha for them. The two set the head back on the sacrifice, which is the Pravargya. Thereby the sacrificers, with a sacrifice that had its head, won their blessings and conquered the heaven-world. Therefore this Pravargya is, as it were, the Āśvina *pravayā*. (Śai. Ā. 5-1-1 to 7)
+
+As in the story quoted above from the Śatapatha Brāhmaṇa, after the beheading of Viṣṇu, who is the sacrifice in person, the body of the sacrifice fell and was divided into three parts. Agni took the morning pressing, Indra the midday pressing, and the Viśvedevas the third pressing. But from a sacrifice without a head they gained neither well-being nor heaven. They then addressed the Aśvins: "You are the physicians of the gods; join again this severed head of the sacrifice, becoming the chief cause of the sacrifice's accomplishment." The Aśvins replied: "If the Soma-offering reaches us here too, we shall join the head to the body." The gods agreed, the head-part of the sacrifice was joined, and the Aśvins became the cause of their sacrifice and entitled to a share in it. Thus whenever an obstacle befalls a sacrifice, the Aśvins come forward and help to carry it through; this may be said to be indicated in the present Ṛk. Hence the praise महिना रथस्य प्र (*mahinā rathasya pra*) (vahathe), and for this very reason they are entitled to a share of the sacrifice.
+
+मधोः पिबतमश्विनेत्यश्विनानेवैतदाहाश्विन् ह्येतद्यज्ञस्य शिरः प्रत्यथत्तां तावेवैतत्रप्रीषात्यवरग्स्वाहाकारं करोति (*madhoḥ pibatamaśvinetyaśvinānevaitadāhāśvin hyetadyajñasya śiraḥ pratyathattāṃ tāvevaitatraprīṣātyavaragsvāhākāraṃ karoti*) (Śa. Brā. 14-22-16). In these and similar Vedic passages, and also in Tai. Saṃ. 6-4-9, the same matter is stated and the greatness of the Aśvins is praised.
+
+स्यंद्रा (*syaṃdrā*)—The word स्यंद्र (*syaṃdra*) is read both among the names of motion-action and among the names of strength (Ni. 3-9). It describes the beauty of the Aśvins' course. There are many mantras describing their coming and its splendour. For example—
+### Printed p. 548
+आ तेन यातं मनसो जवीयसा रथं यं वामृभवश्चक्रुरश्विना । यस्य योगे दुहिता जायते दिव उभे अहनी सुदिने विवस्वतः ॥ (*ā tena yātaṃ manaso javīyasā rathaṃ yaṃ vāmṛbhavaścakruraśvinā | yasya yoge duhitā jāyate diva ubhe ahanī sudine vivasvataḥ ‖*) (Ṛ. Saṃ. 10-39-12).
+In such Ṛks, when the Aśvins sit in the chariot that the Ṛbhus made for them alone and are ready to travel, Goddess Uṣas, who spreads beauty over the world, and day and night arise. In the description that the Aśvins, the cause of that rising beauty, come toward the sacrifice with a speed exceeding that of the mind, both qualities of the word स्यंद्रा (*syaṃdrā*) are indicated.
+
+सूरिभ्यः (*sūribhyaḥ*)—The word means seers, poets, men of understanding, who possess the faculty of vision that grasps what is beyond the senses. Its special meanings and uses were explained earlier, in the special topics of the 6th Ṛk of this same sūkta.
+
+नासत्या (*nāsatyā*)—Since दस्रा (*dasrā*) and नासत्या (*nāsatyā*) are synonyms for the Aśvins, it was also explained earlier which divine quality of theirs these words show.
+
+##### Grammar
+
+- वहेधे — वह प्रापणे धातुः । लट् मध्यमपुरुषद्विवचनांतरूपं । यद्योगात् निघातस्वरो न भवति । प्रत्ययः शास्यनुदात्तेत्—(पा. सू. ६-१-१८६) इति अनुदात्तो भवति । अतो धातुस्वरः शिष्यते ।
+- स्यंद्रा — स्यंदू प्रस्रवणे धातुः । बहुलग्रहणसामर्थ्यात् औणादिको रन् प्रत्ययः । संबोधनाद्विवचने सुपां सुलुक्—इति सूत्रेण विभक्तेः आकारादेशः । आमंत्रितनिघातस्वरो भवति ।
+- याथः — या प्रापणे धातुः । लट् मध्यमपुरुषद्विवचनांतरूपं । तिजंतनिघातस्वरो भवति ।
+- धत्तम् — डुधाञ् धारणपोषणयोः धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपं । पादादित्वात् निघातस्वरो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- स्वत्त्वम् — तोभनानां अश्वानां समूहः स्वत्त्वम् । समूहार्थे यत् प्रत्ययः । यतोनावः (पा सू. ६-१-२१३) इति आद्युदात्तस्वरो भवति ।
+- नासत्या — सुपां सुलुक्—(पा. सू. ७-१-३९) इति संबोधनाद्विवचनस्य आकारादेशः । पादादित्वात् आमंत्रितनिघातो न भवति । आमंत्रितस्य (पा सू. ७-१-१९८) इति आद्युदात्तस्वरो भवति ।
+
+### Printed p. 549
+- रयिसाचः — ष च समवाये धातुः । णिजंतात् विच् प्रत्ययः । अतउषधायाः इति धातूपधाया अकारस्य वृद्धिः । कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपं । ॥ 9 ॥
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वां॒ रथं॑ व॒यम॒द्या हु॑वेम॒ स्तोमै॑रश्विना सुवि॒ताय॒ नव्यं॑ ।  
+> अरि॑ष्टनेमिं॒ परि॒ द्यामि॑या॒नं वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वां । रथं । वयं । अद्य । हुवेम । स्तोमैः । अश्विना । सुविताय । नव्यं ।  
+> अरिष्ट्यनेमिं । परि । द्यां । इयानं । विद्याम । इषं । वृजनं । जीरदानुं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना हे अश्विनौ नां युवयोः संबंधिनं शीघ्रगमनेन स्तुत्यं रथं
+> वयमगस्ता अद्यास्मिन्सुत्येऽहनि हुवेम । आह्वयेम । केन साधनेनेति उच्यते ।
+> स्तोमैः स्तोश्रैः । किमर्थं । सुविताय सुष्टु प्राप्तये । कीदृशं । नव्यं स्तुत्यं
+> नूतनं वा तथारिष्टनेमिमहिंसितचक्रवलयं द्यां परीयानं द्युलोकस्य हरितो
+> गच्छंतं । विद्यामेत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, we today, on this day of pressing, call with hymns your chariot, which is to be praised for its swift going. With what means? With stomas, i.e. hymns. For what? For सुविताय (*suvitāya*), i.e. good attainment. Of what kind is the chariot? नव्यं (*navyaṃ*): praiseworthy or new; also अरिष्टनेमिं (*ariṣṭanemiṃ*), with an unharmed wheel-rim, and द्यां परीयानं (*dyāṃ parīyānaṃ*), going round the sky, the heavenly world. विद्याम (*vidyāma*) etc. has been explained already."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अश्विना (*(he) aśvinā*)—O Aśvins
+- नव्यं (*navyaṃ*)—new, or praiseworthy
+- अरिष्टनेमिं (*ariṣṭanemiṃ*)—having an unharmed chariot-wheel rim (of unobstructed course)
+- द्यां परि (*dyāṃ pari*)—around the heavenly world
+- इयानं (*iyānaṃ*)—going
+- वां (*vāṃ*)—your
+- तं (*taṃ*)—that well-known
+- रथं (*rathaṃ*)—chariot
+- सुविताय (*suvitāya*)—for the attainment of good things
+- स्तोमैः (*stomaiḥ*)—with hymns
+- अद्य (*adya*)—today
+- वयं (*vayaṃ*)—we
+- हुवेम (*huvema*)—call
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (by your grace)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, we today call, with praise, for the attainment of good fruit, that well-known chariot of yours, new, unobstructed, and going around the heavenly world. Favour us with food, strength and long life—
+### Printed p. 550
+
+##### English translation (H. H. Wilson)
+We invoke to-day, Ashwins, with hymns, for the sake of good things,
+your praiseworthy chariot of undamaged wheels, and traversing the sky,
+that we may obtain (from it) food, strength, and long iife.
+
+##### विशेषविषयगळु (Special Topics)
+
+सुविताय (*suvitāya*)—सुष्टुप्राप्तये (*suṣṭuprāptaye*) is explained as "for excellent attainment". In some places this word is explained as सुष्टु गंतव्याय यज्ञाय (*suṣṭu gaṃtavyāya yajñāya*) and in still others as सु-गमनाय (*su-gamanāya*). The aim of all is the same.
+नव्यं (*navyaṃ*), अरिष्ठनेमिं (*ariṣṭhanemiṃ*)—These words are epithets of the Aśvins' chariot and show its distinction. The glory of this chariot is told in the following sūktas.
+
+##### Grammar
+
+- अद्य — निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- हुवेम — ह्वेञ् स्पर्धायां शब्दे च धातुः । लिज् उत्तमपुरुषबहुवचनांतरूपं । बहुलं छंदसि इति धातोः संप्रसारणं भवति । तिजंतनिघातस्वरो भवति ।
+- सुविताय — इण् गतौ धातुः । कर्मणि निष्ठा प्रत्ययः । तन्नादीनां छंदसि बहुलमुषसंख्यानम् इति वचनेन सु इत्यत्र उकारस्य उपजादेशः । सूषमानात् क्तः (पा. सू. ६-२-१४५) इति उत्तरपदांतोडात्तस्वरो भवति । चतुर्थीएकवचनांतरूपं ।
+- अरिष्टनेमिम् — बहुव्रीहिसमासः । बहुव्रीणौ द्र—(पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- इयानम् — ईज् गतौ धातुः । छंदसि लिट् (पा. सू. ३-२-१०५) इति लिटि आगते तस्य लिटः कानज्ञा (पा. सू. ३-२-१०६) इति कानचादेशः । अचिश्नुधातु—(पा. सू. ६-४-७७) इति इयजादेशः । द्विर्वचनप्रकरणे छंदसि वेति वक्तव्यम् इति वचनेन द्वित्वादयो न भवंति । चितः (पा. सू. ६-१-१६३) इति अंतोदात्तस्वरो भवति । ॥ 10 ॥
+
+Here ends the 180th sūkta.
+
+### Printed p. 551
+## Sūkta 181 (Maṇḍala 1)
+The sūkta कडु प्रेषा (*kaḍu preṣā*) is the second sūkta in the twenty-fourth anuvāka; it has nine Ṛks. Its seer is Agastya, its deity the Aśvins, its metre Triṣṭubh. The Anukramaṇī says कडु नव (*kaḍu nava*) etc. The use (viniyoga) for the Prātaranuvāka recitation and for the Āśvina-śastra, in Triṣṭubh mantras, has been stated already in the preceding sūkta.
+
+Anuvāda: This sūkta beginning कडु प्रेष्ठ (*kaḍu preṣṭha*) is the second sūkta of the twenty-fourth anuvāka. It contains nine Ṛks. Its seer is Agastya; the deity is the Aśvins; the metre is Triṣṭubh. In the Anukramaṇī it is said to begin कडु नव (*kaḍu nava*). At the time of reciting the Prātaranuvāka mantras, this sūkta is used for the Triṣṭubh mantras connected with the Aśvina-śastra, as already stated in the Anuvāda of the preceding sūkta.
+
+Particulars: Maṇḍala 1; Anuvāka 24; Sūkta 181; Aṣṭaka 2; Adhyāya 4; Vargas 25, 26. Number of Ṛks in the sūkta: 9. Seer: Agastya. Deity: Āśvinau. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कदु॒ प्रेष्ठा॑ वि॒षां र॑यी॒णाम॑ध्व॒र्यंता॒ यदु॑न्नि नी॒थो अ॒पां ।  
+> अ॒यं नां॑ य॒ज्ञो अ॑कृत॒ प्रश॑स्तिं॒ वसु॑धिती॒ अवि॑तारा जनानां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । ऊं इति । प्रेष्ठौ । इषां । रयीषां । अध्वर्यंता । यत् । उश्‌निनीथः ।  
+> असां ।  
+> अयं । वां । यज्ञः । अकृत । प्रशस्तिं । वसुधिती इति वसुधिती । अवितारा । जनानां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ प्रेष्य प्रियतमौ वां युवां कडु कदा भविष्यति इषामिष्यमाणानामन्नानां रयीणां धनानां ॥ कर्मणि षष्ठौ ॥ अन्नानि धनानि चोन्निनीथः
+
+##### Gist of the bhāṣya
+
+"O Aśvins, most dear, when will it be that you lift up the desired foods and riches इषां । रयीषां (*iṣāṃ | rayīṣāṃ*) (the genitive being in the object sense), and lift up…
+### Printed p. 552
+
+> ऊर्ध्वं प्रापयथः अध्वर्यंताध्वरं पारयितुमिच्छंतौ युवामपां वृष्ट्युदकानां वृष्ट्युदकानि चोन्निनीथः उत्कृष्टमधः प्रापयथ इति यत्तत्कदा । कस्मादेवमुच्यत इति उच्यते । अयं यज्ञोऽस्माभिरनुष्ठीयमानो वां युवयोरेव
+> प्रतस्तिं प्रशंसां स्तुतिमकृत । करोति । यज्ञे शंसनीयानि शस्त्राणि युवामेव
+> प्रशंसंतीत्यर्थः । यस्मादेवं तस्मात् हे वसुधिती वसुनो धनस्य धातार् वस्तव्यकर्माणौ तथा हे जनानामवितारावुक्तलक्षणौ युवां कदान्नानां धनानां च
+> दातार् भवथ इति ॥
+
+… upward foods and riches; desiring to carry the sacrifice across, you lift the rain-waters, bringing them down in abundance — when is that? Why is this said? This sacrifice, performed by us, makes praise, a eulogy, of you alone: the śastras to be recited at the sacrifice praise you alone. Since it is so, therefore, O वसुधिती (*vasudhitī*), bearers of wealth, who dwell in wealth-giving acts, and likewise protectors of men as described, when will you be givers of foods and riches?"
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) प्रेषौ (*(he) preṣau*)—O most beloved Aśvins
+- अयं (*ayaṃ*)—this (sacrifice performed by us)
+- यज्ञः (*yajñaḥ*)—sacrifice
+- वां (*vāṃ*)—of you two
+- प्रशस्तिं (*praśastiṃ*)—praise
+- अकृत (*akṛta*)—makes
+- (therefore) वसुधिती (*vasudhitī*)—bearers of wealth
+- जनानां (*janānāṃ*)—of men
+- अवितारा (*avitārā*)—protectors
+- इषां (*iṣāṃ*)—the foods desired by us
+- रयाणां (*rayāṇāṃ*)—the riches
+- उत् निनीथः (*ut ninīthaḥ*)—you bear aloft
+- अध्वर्यंता (*adhvaryaṃtā*)—you two who wish to carry out the sacrifice
+- अपां (*apāṃ*)—the rain-waters
+- (उत् निनीथः (*ut ninīthaḥ*)—you pour down in abundance)
+- यत् (*yat*)—that which
+- तत् (*tat*)—that
+- कत् उ (*kat u*)—when does it come to be?
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, most beloved, bearers of wealth, protectors of all men, and desirous of carrying out the sacrifice: when will you two favour us by giving the food, wealth and rain-waters we wish for?
+
+##### English translation (H. H. Wilson)
+When, beloved (Ashwins), do you bear aloft (the materials) of food and riches, that, desirous of the sacrifice, you may send down the rain : this sacrifice offers you adoration, givers of riches, protectors of men.
+
+##### विशेषविषयगळु (Special Topics)
+
+अध्वर्यंता (*adhvaryaṃtā*)—अध्वर इति यज्ञनाम । ध्वरतिः हिंसाकर्मा । तत्प्रतिषेधः । (*adhvara iti yajñanāma | dhvaratiḥ hiṃsākarmā | tatpratiṣedhaḥ |*) (Ni. 1-8). The word अध्वर (*adhvara*) indicates the negation of the root ध्वृ (*dhvṛ*), which gives the sense "kill"; it means a non-violent sacrifice. एतादृशं अध्वरं पारयितुमिच्छंतां युवां । (*etādṛśaṃ adhvaraṃ pārayitumicchaṃtāṃ yuvāṃ |*) That is: you who wish to help such a non-violent sacrifice to be carried out without interruption. This word, an epithet of the Aśvins, shows their prominence in carrying out the sacrifice. When Viṣṇu, who is the sacrifice in person, was beheaded, the Aśvins set it right and made the sacrifice complete, as
+
 ---
 
-**Progress note:** Done through printed p. 546. pp. 541-546 (batch API)
+**Progress note:** Done through printed p. 552. pp. 547-552 (batch API)
