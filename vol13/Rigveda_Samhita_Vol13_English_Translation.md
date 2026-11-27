@@ -12469,6 +12469,119 @@ Jūrṇaḥ—जरया जीर्णांगः (*jarayā jīrṇāṃga�
 
 जीर्णर्जवतेर्वा द्रवरेवा दूनोशेर्वा । (*jīrṇarjavatervā dravarevā dūnośervā |*) (3. 6-4) **NOTE**
 
+### Printed p. 523
+
+##### विशेषविषयगळु (Special Topics)
+
+The word is explained as formed either from the root जू (*jū*) meaning "speed", or from the root द्रु (*dru*) meaning "run", or from the root दु (*du*) meaning "injure". To show its use, the Ṛk हतेमसन्न वक्षति क्षिप्ता जूर्णिर्न वक्षति (*hatemasanna vakṣati kṣiptā jūrṇirna vakṣati*) (Ṛ. Saṃ. 1-129-8) is cited. There जूर्णिः (*jūrṇiḥ*) is explained as "power", because power is connected with casting (क्षेपणसंबंधात्जूर्णिः शक्तिः (*kṣepaṇasaṃbaṃdhātjūrṇiḥ śaktiḥ*)) and has speed. In the present Ṛk, however, there is no room for that meaning. जिव्रिः (*jivriḥ*) must be taken as "victorious" and जूर्णः (*jūrṇaḥ*) as "advanced in years".
+जीविः (*jīviḥ*) is an adjective of the word शौग्र्यः (*śaugryaḥ*). Here the sacrificer compares himself with Śaugrya: as Śaugrya was lifted out by the favour of the Aśvins, so he too declares that he will share in their favour.
+Sāyaṇa explains: तौग्र्यः न तुग्राख्यस्य राज्ञः पुत्रो भुज्युरिव स यथा शत्रुभिः संताड्य समुद्रे पातितो युवां परितोष्य स्वोद्धाराय स्वसमीपमानयत तद्वदित्यर्थः । (*taugryaḥ na tugrākhyasya rājñaḥ putro bhujyuriva sa yathā śatrubhiḥ saṃtāḍya samudre pātito yuvāṃ paritoṣya svoddhārāya svasamīpamānayata tadvadityarthaḥ |*). That is, as the son of Tugra, Bhujyu, when he had been struck by enemies and thrown into the sea, praised and pleased you and called you to his own help, so [the sacrificer may do]; thus the background story is indicated.
+Once enemies defeated the king named Taugrya, bound his hands and feet and threw him into the middle of the sea. Unable to cross the sea, he prayed to the Aśvins for help. At once they yoked horses to their chariot, drove down into the sea and brought him to the shore. Thus Sāyaṇa has cited the earlier story. This son of Tugra is the one famous under the name Bhujyu, and his story is described in many places.
+That the Aśvins saved this same son of Tugra, who had sunk in the sea, is described by Kakṣīvān, son of Dīrghatamas, in the sūktas Ṛ. Saṃ. 1-116 and 1-117; by Agastya Maitrāvaruṇi in sūkta 1-182; by Brahmātithi of the Kaṇva gotra in sūkta 8-5; and by Ghoṣā, daughter of Kakṣīvān, in 10-39. In sūkta 1-182 it is likewise described, as follows, how they sent boats, and how the son of Tugra, filled with hope, clasped those boats and was saved by their favour.
+युवमेतं चक्रथुः सिंधुषु प्लवमात्मनंतं दक्षिणं तौग्राय कं । येन देवत्रा मनसा निरूहथुः सुपप्तनी पेशथुः क्षोदसो महः॥ (*yuvametaṃ cakrathuḥ siṃdhuṣu plavamātmanaṃtaṃ dakṣiṇaṃ taugrāya kaṃ | yena devatrā manasā nirūhathuḥ supaptanī peśathuḥ kṣodaso mahaḥ‖*)
+अवविद्धं तौग्रमप्सन्नरनारंभणे तमसि प्रविद्दं । चतस्रो नावो जठलस्य जुष्टा उदश्चिभ्यामिषिताः पारयंति । (*avaviddhaṃ taugramapsannaranāraṃbhaṇe tamasi praviddaṃ | catasro nāvo jaṭhalasya juṣṭā udaścibhyāmiṣitāḥ pārayaṃti |*)
+
+### Printed p. 524
+कः सिद्वृक्षो निष्कृतो मध्ये अर्णसो यं तौग्रो नाधितः पर्यषस्वजत् ॥ पर्णा मृगस्य पतरोरिवारभ उदश्विना ऊहथुः श्रोमताय कं ॥ (*kaḥ sidvṛkṣo niṣkṛto madhye arṇaso yaṃ taugro nādhitaḥ paryaṣasvajat ‖ parṇā mṛgasya patarorivārabha udaśvinā ūhathuḥ śromatāya kaṃ ‖*)
+(Ṛ. Saṃ. 1-182-5 to 7)
+O Aśvins, for Bhujyu the son of Tugra you made this boat, endowed with life and furnished with wings. For the son of Tugra, who had fallen and was sinking in the fathomless, dark sea, you sent four boats. Like the wings that support flying birds in the sky, the parts of the boat that supported and protected Bhujyu sinking in the sea — from what tree did you make them? Thus it is praised. The same point is indicated in the present Ṛk also.
+अंहसः (*aṃhasaḥ*)—अंहतिश्चां हंश्चांहुश्च हंतेः (*aṃhatiścāṃ haṃścāṃhuśca haṃteḥ*) (Ni. 4-25). The word अंहस् (*aṃhas*) is formed from the root हन् (*han*) meaning "injure", yet in ordinary use the meaning "sin" is commoner than "injury". In the present Ṛk it means distress (दुरित (*durita*)).
+It is stated that three constructions are possible for the second half of this mantra. First, (1) जूर्णः माहिना अंहसः अपः क्षोणी अक्षुः पां सचते (*jūrṇaḥ māhinā aṃhasaḥ apaḥ kṣoṇī akṣuḥ pāṃ sacate*): the aged sacrificer, freed from sin by your favour and having obtained Soma permanently, serves you on earth. Second, (2) वां महिना अपः क्षोणी सचते (*vāṃ mahinā apaḥ kṣoṇī sacate*): by your greatness heaven and earth are both famed as protectors of the world. Third, (3) वां महिना जूर्णः अपः क्षोणी सचते (*vāṃ mahinā jūrṇaḥ apaḥ kṣoṇī sacate*): by your greatness the sacrificer serves heaven and earth. Sāyaṇa's commentary states that the meaning may be any of these.
+अपः (*apaḥ*) is read among the names of the atmosphere (Ni. 3-8). क्षोणीति पृथिवीनाम (*kṣoṇīti pṛthivīnāma*): क्षोणि (*kṣoṇi*) is read among the names of the earth (Ni. 1-7).
+**NOTE**
+
+##### Grammar
+
+- दानाय — डुदाञ् दाने इति धातुः । युच् प्रत्ययः । युवोरनाकौ (पा सू ७-१-१) इति तस्य अनादेशः । चितः इति अंतोदात्तस्वरः भवति ।
+- ववृतीय — वृतु वर्तने इति धातुः । प्रयोजकव्यापारदर्शनात् अंतर्भावितण्यर्थकः भवति । लिट् उत्तमपुरुष एकवचने इट् प्रत्ययः । इटोऽत् (पा. सू. ३-४-१०६) इति तस्य अकारादेशः । लिजः सीयुट् (पा. सू. ३-४-१०२) इति सीयुटागमः । बहुलं छंदसि इति श्लु विकरणः । तं निमित्तीकृत्य धातोः द्वित्वादि । लिजः सलोपो नंत्यस्य (पा. सू. ७-२-७९) इति सकारस्य लोपः । ववृतीय इति रूपं भवति । तिजंतनिघातस्वरः भवति ।
+
+### Printed p. 525
+- दस्रा — सुपां सुलुक् (पा. सू ७-१-३९) इति द्विवचनस्य आकारादेशः । आमंत्रितनिघातस्वरः भवति ।
+- जिव्रिः — जृष् वयोहानौ इति धातुः । जीर्यतेः क्रिन् रश्च वः (उ. सू. ५-७२) इति क्रिन् प्रत्ययः । धातोः रेफस्य वकारादेशः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः भवति ।
+- जूर्णः — ज्वर संतापे इति धातुः । क्त प्रत्ययः । ज्वरत्वर स्रिव्यवि (पा. सू. ६-४-२०) इति धातोः वकारोपधयोः ऊठादेशः । रदाभ्यां निष्ठातो नः पूर्वस्य च दः (पा. सू. ८-२-४२) इति निष्ठातकारस्य नत्वम् । रषाभ्यां नो णः समानपदे इति णत्वम् । प्रत्ययस्वरेण अंतोदात्तः भवति । **NOTE**
+- यजत्रा — यज देवपूजासंगतिकरणदानेषु इति धातुः । अमिनक्षि यजि बंधि (उ. सू. ३-३८५) इति अत्रन् प्रत्ययः । सुपां सुलुक् इति संबोधनाद्विवचनस्य आकारादेशः । आमंत्रितनिघातस्वरः भवति ।
+- क्षोणी — द्वितीयार्थे सप्तमी एकवचनांतरूपम् । सुपां सुलुक् इति सूत्रेण पूर्वसवर्णदीर्घः । ईदूतौ च सप्तम्यर्थे (पा. सू. १-१-१९) इति प्रगृह्यसंज्ञा भवति ।
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि यद्यु॒वेथे॑ नि॒युतः॑ सुदानू॒ उप॑ स्व॒धाभिः॑ सृजथः॒ पुरं॑धिं ।  
+> प्रेष॒द्वेष॒द्वातो॒ न सू॒रिरा म॒हे द॑दे सुव्र॒तो न वाजं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । यत् । युवेथे इति । नियुशः । सुदानू इति सुदानू । उप । स्वधाभिः ।  
+> सृजथः । पुरंधिं ।  
+> प्रेषत् । वेषत् । वातः । न । सूरिः । आ । महे । ददे । सुव्रतः । न । वाजं ॥ ६ ॥
+
+### Printed p. 526
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानू शोभनदानावश्विनौ यद्यदा नियुतोऽश्वान्नि युवेथे नियुंजाथे नियोजयथः ताभिरस्मद्यज्ञगमनाय संयुक्त भवथः तदा स्वधाभिरन्नैस्तत्कारणैरुदकैर्वा पुरंधिं बहूनां धात्रीं पृथिवीमुप सृजथः । एवं च सति सूरिः
+> सोतायं यजमानो वातो न वायुरिव तद्वत् क्षिप्रं युवां प्रेषत् ।
+> तर्पयतु । वेषत् । व्याप्पोतु । कामयतां वा ॥ प्रीणातेर्वेतेश्च लेटि रूपे ॥
+> अनंतरं सुव्रतो नातिप्रशस्तोष्मादिकर्मवानिव वाजमन्नं महे महत्वायायं
+> यजमान आ ददे । आदत्ते । स्वीकरोति ॥ अजो दोऽनास्यविवरणे । पा. १-३-२० ।
+> इत्यात्मनेपदं । लोपस्त आत्मनेपदेष्टिति तलोपः । यद्वा । छांदसे लिटि रूपं ॥
+> स्वीकृत्य स्वमहत्वाय युवामेव तर्पयत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Sudānū", the Aśvins of good gifts: when (यद्यदा (*yadyadā*)) you yoke or harness the नियुतः (*niyutaḥ*) horses, and by them are joined for coming to our sacrifice, then with स्वधाभिः (*svadhābhiḥ*) — foods, or the waters that are their cause — you fill पुरंधिं (*puraṃdhiṃ*), the earth, supporter of many. This being so, this सूरिः (*sūriḥ*), the Soma-pressing sacrificer, like the wind (वातो न (*vāto na*)), that is, quickly, प्रेषत् (*preṣat*): let him satisfy you; वेषत् (*veṣat*): let him pervade, or let him desire. These are forms of प्रीणातेर्वेतेश्च लेटि रूपे (*prīṇāterveteśca leṭi rūpe*) (the roots *prīṇāti* and *veti* in the leṭ). Thereafter, like a man of good vows, one eminently praised and devoted to rites such as the *iṣṭi* and the like, this sacrificer takes (आ ददे (*ā dade*): आदत्ते (*ādatte*), accepts) food (वाजं (*vājaṃ*)) for greatness (महे (*mahe*)). The ātmanepada of ददे (*dade*) and the loss of त (*ta*) are grammatically justified (Pā. 1-3-20 is cited); or else it is a Vedic perfect form. The meaning: having accepted it, for his own greatness let him satisfy you two alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) सुदानू (*(he) sudānū*)—O Aśvins, of excellent gifts
+- यत् (*yat*)—when
+- नियुतः (*niyutaḥ*)—your horses called Niyut
+- नि युवेथे (*ni yuvethe*)—you yoke (to the chariot) (तत् (*tat*)—then)
+- स्वधाभिः (*svadhābhiḥ*)—with foods, or with the waters that are the cause of food
+- पुरंधिं (*puraṃdhiṃ*)—this earth, supporter of many people
+- उप सृजथः (*upa sṛjathaḥ*)—you fill (एवं सति (*evaṃ sati*)—this being so)
+- सूरिः (*sūriḥ*)—the praiser (the sacrificer)
+- वातः न (*vātaḥ na*)—like the wind (quickly)
+- प्रेषत् (*preṣat*)—let him satisfy (both of you) (and)
+- वेषत् (*veṣat*)—let him reach, or let him desire (afterwards)
+- सुव्रतः न (*suvrataḥ na*)—like a man devoted to good works
+- वाजं (*vājaṃ*)—food
+- महे (*mahe*)—for (his) greatness
+- आ ददे (*ā dade*)—(this sacrificer) let him accept (or, having accepted, let him satisfy you two alone)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins of excellent gifts, when with a purpose in mind you harness your horses called Niyut to the chariot, you pour on the earth the water that is the cause of food; the sacrificer too, with the speed of the wind, sets out to satisfy you; like a man of good works he accepts the food obtained through your favour, satisfies you alone, and gains greatness.
+
+##### English translation (H. H. Wilson)
+Bountiful givers, when you yoke your horses you replenish the earth with viands: may this your worshipper be (swift) as the wind to propitate and please you, that through your great (favour), he may, like a pious man obtain food.
+
+### Printed p. 527
+
+##### विशेषविषयगळु (Special Topics)
+
+सुदानू (*sudānū*)—शोभनदानौ (*śobhanadānau*). "The two excellent givers": an adjective showing the quality of the Aśvins. Its special meanings were explained earlier.
+नियुतः (*niyutaḥ*)—this word means "possessing horses" (अत्वान् (*atvān*)). **NOTE**. From the sentences नियुतो वायोः, रासभावश्विनोः (*niyuto vāyoḥ, rāsabhāvaśvinoḥ*) (Ni. 2-28) it is known that the Niyuts are the vehicles of Vāyu and the asses the vehicles of the Aśvins. Here the word नियुतः (*niyutaḥ*) is fit to denote the horses of the Aśvins. The adjective नियुत्वान् (*niyutvān*) also need not refer to Vāyu alone. For example:
+प्र वावृजे सुप्रया बर्हिरेषामा विश्वतीव बेरिट इयाते । विरामक्कोरुषसः पूर्वहूतौ वायुः पूषा स्वस्तये नियुत्वान् ॥ (*pra vāvṛje suprayā barhireṣāmā viśvatīva beriṭa iyāte | virāmakkoruṣasaḥ pūrvahūtau vāyuḥ pūṣā svastaye niyutvān ‖*)
+(Ṛ. Saṃ. 7-39-2)
+Here नियुत्वान् (*niyutvān*) is an adjective of Pūṣan. The author of the Nirukta, giving the derivation of this word, says नियुत्वान् नियुतः अस्यात्वाः । नियुतो नियमनाद्वा । नियोजनाद्वा (*niyutvān niyutaḥ asyātvāḥ | niyuto niyamanādvā | niyojanādvā*): the horse has this name either because it is controlled or because it is bound. (Ni. 5-28) The same derivation applies to नियुतः (*niyutaḥ*) in the present Ṛk. Then this word, which may be used of horses in general, is an adjective of the Aśvins' horse also. In the sense of "controlling", the name नियुत्वान् (*niyutvān*) is also well known for Īśvara, who is the cause of that. नियुत्वान् (*niyutvān*) is read among the names of Īśvara. (Ni. 3-11)
+स्वधाभिः (*svadhābhiḥ*)—the word is explained as अन्नैः तत्कारणैरुदकैर्वा (*annaiḥ tatkāraṇairudakairvā*). In some places the same word is explained as आत्मियेन तेजसा अन्नेन वा (*ātmiyena tejasā annena vā*). The author of the Nirukta has included this word both among the names of water (Ni. 2-23) and among the names of food (Ni. 3-9). Besides these meanings, in many contexts the word means one's own greatness, one's own splendour, self-reliance. Its special meanings are given in this same part, in the Special Topics of Ṛ. Saṃ. 1-176-2. A special point is that, besides the ordinary meanings food, water and so on, the word is also used as a synonym for the power of Īśvara. For example:
+न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्पृकेतः । आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ॥ (*na mṛtyurāsīdamṛtaṃ na tarhi na rātryā ahna āsītpṛketaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmāddhānyanna paraḥ kiṃ canāsa ‖*)
+(Ṛ. Saṃ. 10-129-2)
+There Sāyaṇa explains स्वस्मिन् धीयते ध्रियते आश्रित्य वर्तते इति स्वधा (*svasmin dhīyate dhriyate āśritya vartate iti svadhā*): because it rests on its own support, स्वधा (*svadhā*) is an adjective of Māyā, the wonderful power of Īśvara (the Supreme Brahman).
+
+### Printed p. 528
+In the same way the word describes the supernatural power of Viṣṇu, Uṣas and others.
+पुरंधिं (*puraṃdhiṃ*)—बहूनां धात्रीं पृथिवीं (*bahūnāṃ dhātrīṃ pṛthivīṃ*): "the earth, supporter of many"; the word पुरंधि (*puraṃdhi*) is explained as "earth". Although everywhere the word indicates abundance, fullness, prosperity, yet since it is used in many contexts its meaning has to be explained according to each context, as is known from the words of the author of the Nirukta. Thus:
+ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि संति देवाः । ता अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिं ॥ (*te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi saṃti devāḥ | tā adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhiṃ ‖*)
+(Ṛ. Saṃ. 7-39-4)
+In explaining the word पुरंधिं (*puraṃdhiṃ*) in this Ṛk, he says:
+पुरंधिर्बहुधीस्तत्कः पुरंधिर्भगः पुरस्तात्तस्यान्वादेश इत्येकं । इंद्र इत्यपरं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति । (*puraṃdhirbahudhīstatkaḥ puraṃdhirbhagaḥ purastāttasyānvādeśa ityekaṃ | iṃdra ityaparaṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti |*)
+(Ni. 6-13)
+The meaning of the word पुरंधि (*puraṃdhi*) is "one possessed of abundant धी (*dhī*) (intelligence)". But as to who such a one is: since in the Ṛk cited the word भग (*bhaga*) precedes this word, some hold it to be an adjective of it. Since the word धी (*dhī*) is also read among the names of action, पुरंधि (*puraṃdhi*) can mean one who has many kinds of action, or one who splits the cities of enemies; hence some others hold it to be an adjective of Indra. Or, as in passages such as इमामू नु कवितमस्य मायां (*imāmū nu kavitamasya māyāṃ*) (Ṛ. Saṃ. 5-85-6) the excellent wisdom of Varuṇa is praised, so in this Ṛk cited by the author of the Nirukta too it may be a synonym of Varuṇa, describing his wisdom; thus some others hold. In this way the author of the Nirukta has stated the differences of opinion. He has also shown by further examples that the word is used both when showing the abundance of the liberality that the gods display toward sacrificers, and when indicating the abundance of the oblations and the like that sacrificers offer to the gods.
+आदाय श्येनो अभरत्सोमं सहस्रं सना अयुकतं च साकं । अत्रा पुरंधिरजहा दरातीर्मदे सोमस्य मूरा अमूराः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ sanā ayukataṃ ca sākaṃ | atrā puraṃdhirajahā darātīrmade somasya mūrā amūrāḥ ‖*)
+(Ṛ. Saṃ. 4-26-7)
+
 ---
 
-**Progress note:** Done through printed p. 522. pp. 517-522 (batch API)
+**Progress note:** Done through printed p. 528. pp. 523-528 (batch API), one remark removed
