@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Generic print build for the volumes translated from the supplied machine-read text (Vol 15 onwards).
 
-  python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource]
+  python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource] [--without printed_en,grammar | kan:printed_en | eng:gist]
+  (content choice: elements are named in publish/tools/elements.py; pubcfg.json "without" sets the default for a volume; nothing in the .md files changes)
 
 Reads volN/pubcfg.json and writes publish/out/<out>_Eng.pdf / <out>_Kan.pdf (+ .html).  Nothing in the volume's .md files is changed.
 
@@ -31,6 +32,26 @@ from add_iast import deva_to_iast, process as add_iast_process
 import contents_parse
 
 KN = re.compile('[ಀ-೿]')
+
+# ---------------------------------------------------------------- content choice (publish/tools/elements.py; in memory only)
+def without(cfg, which):
+    """elements left out of the PDF: pubcfg "without": ["printed_en"] or {"kan": [...], "eng": [...]}, plus --without a,b or --without kan:a,b / eng:a,b on the command line"""
+    c = cfg.get('without', []); ex = set(c.get(which, []) + c.get('both', []) if isinstance(c, dict) else c)
+    for i, a in enumerate(sys.argv):
+        if a == '--without' and i + 1 < len(sys.argv):
+            for x in sys.argv[i + 1].split(','):
+                pre, _, el = x.rpartition(':')
+                if not pre or pre == which: ex.add(el)
+    return ex
+
+def apply_without(md, cfg, which):
+    ex = without(cfg, which)
+    if not ex: return md
+    sys.path.insert(0, str(ROOT / 'publish' / 'tools')); import elements
+    md, rep = elements.drop(md, 'kn' if which == 'kan' else 'en', ex)
+    for e, r in [(k, v) for k, v in rep.items() if k != '_long']: print(f'[{which}] left out {e}: {r["sections"]} sections, {r["lines"]} lines (longest section {r["longest"]} lines)')
+    for e, st, n in rep.get('_long', [])[:8]: print(f'[{which}] LONG {e} section of {n} lines from md line {st}: check it before using this PDF')
+    return md
 
 # ---------------------------------------------------------------- text conversions (in memory)
 def convert_inline(md):
@@ -79,6 +100,7 @@ def mark_samhita(body):
     return body, n[0]
 
 def pandoc_html(md):
+    md = re.sub(r'(?<=[^\n])\n(?=#{1,6} )', '\n\n', md)     # pandoc needs a blank line before a heading: a page mark glued to the line above was swallowed (Vol 17: pp. 7, 494, 531, 571, 811 lost from the Kannada PDF)
     r = subprocess.run(['pandoc', '-f', 'markdown-yaml_metadata_block-smart+pipe_tables', '-t', 'html5', '--wrap=none'],
                        input=md, capture_output=True, text=True, check=True)
     return r.stdout
@@ -387,6 +409,7 @@ def build_eng(cfg, html_only):
     md, nconv = convert_inline(md)
     md, niast = add_block_iast(md, cfg.get('iast_block_labels', ('संहितापाठः', 'पदपाठः')))
     print(f'[eng] headings added: {added}; Kannada-script quotations converted: {nconv}; IAST lines added to Saṃhitā/Pada blocks: {niast}; ⟦ left: {md.count("⟦")}')
+    md = apply_without(md, cfg, 'eng')
     body = pandoc_html(md)
     body, nv = mark_samhita(body); print(f'[eng] verses set in the spaced Saṃhitā style: {nv}')
     toc, st = [], {'n': 0}
@@ -429,6 +452,7 @@ def build_kan(cfg, html_only):
     md = (ROOT / cfg['kannada_md']).read_text(encoding='utf-8')
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    md = apply_without(md, cfg, 'kan')
     md = re.sub(r'<!-- printed (\d+) -->', r'### Printed p. \1', md)
     md = re.sub(r'\n---\n', '\n', md)
     body = pandoc_html(md)
@@ -455,7 +479,8 @@ def build_kan(cfg, html_only):
     write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + refl + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
 
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    argv = sys.argv[1:]; skip = {i + 1 for i, x in enumerate(argv) if x == '--without'}          # the value of --without is not a build target
+    args = [x for i, x in enumerate(argv) if not x.startswith('--') and i not in skip]
     vol = int(args[0]); which = args[1:] or ['eng', 'kan']
     cfg = json.loads((ROOT / f'vol{vol}' / 'pubcfg.json').read_text(encoding='utf8'))
     h = '--html-only' in sys.argv
