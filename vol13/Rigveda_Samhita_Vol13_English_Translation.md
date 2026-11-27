@@ -15459,6 +15459,125 @@ The ṛṣi Gotama Rāhūgaṇa was the priest of a king named Videgha Māthava.
 
 Then Rāhugaṇa Gotama asked Māthava, "When I addressed you, why did you not speak?" He answered, "Agni Vaiśvānara was in my mouth, and I was afraid that if I opened my mouth he would escape from it." This is the description of the occasion. The tradition of this Rāhugaṇa Gotama and of Māthava
 
+### Printed p. 649
+On the basis of this episode, which records the legend, historians have concluded that the Vedic community spread gradually eastward in this period.
+
+"It was pointed out by Weber that this legend distinguishes three successive stages of the eastward migration of the Brahmanical Hindus. In the first place, the settlements of the Aryans had already been extended from the Panjab, where they were settled in the times of the Rig-Veda, as far as the Saraswathi. They thence pushed forward, led by Videha Mathava and Rahugana Gotama acconding to our legend, as far east as the river सदानीरा (*sadānīrā*), which, according to Sayana, is another name for the करतोया (*karatoyā*), which formed the eastern boundary of the Videhas." [S. B. E. Vol. XII. Satapatha Brahmana Vol. I. p. 104].
+
+That is: if the Gotama named in the present Ṛk (1-187-5) is this same Rāhūgaṇa Gotama (it is probably Rāhūgaṇa), then, according to the description in the Śatapatha Brāhmaṇa's historical passage, up to the time of the Ṛk-Saṃhitā the spread of the people belonging to the Vedic tradition had not gone east of the river Sarasvatī. From the time of Videgha Māthava and Gotama Rāhūgaṇa onward they crossed the Sarasvatī and spread eastward as far as the river Sadānīrā, and even somewhat beyond it; historians hold this to be certain. Sāyaṇa calls the river Sadānīrā by the name Karatoyā as well.
+
+The greatness of Gotama, who was also the priest of Māthava, the man of great legend, is praised in many other places in the same way.
+
+ताग्ं हैतां गोतमो राहूगणः । विदांचकार सा ह जनकं वैदेहं प्रत्युत्ससाद ताग्ं हाङ्गजिद्ब्राह्मणेष्वन्वियेष तामु ह याज्ञवल्क्यो विवेद स होवाच सहस्रं भो याज्ञवल्क्य दद्यो यस्मिन्वयं त्वयि मित्रविंदामन्वविदामेति विंदते मित्रग्ं राष्ट्रमस्य भवत्यप पुनर्मृत्युं जयति सर्वमायुरेति य एवं विद्वान् ॥ (*tāgṃ haitāṃ gotamo rāhūgaṇaḥ | vidāṃcakāra sā ha janakaṃ vaidehaṃ pratyutsasāda tāgṃ hāṅgajidbrāhmaṇeṣvanviyeṣa tāmu ha yājñavalkyo viveda sa hovāca sahasraṃ bho yājñavalkya dadyo yasminvayaṃ tvayi mitraviṃdāmanvavidāmeti viṃdate mitragṃ rāṣṭramasya bhavatyapa punarmṛtyuṃ jayati sarvamāyureti ya evaṃ vidvān ‖*) (Śa. Brā. 11-4-3-20)
+
+This same Rāhūgaṇa Gotama taught the sacrificial practice called Mitravindā. This sacrificial principle called Mitravindā spread to Janaka of Videha. Among the foremost Brāhmaṇas of his assembly, he searched among all those who knew the Vedāṅgas to see who knew this sacrificial principle. At last, learning that Yājñavalkya had this knowledge, he gave him many kinds of gifts.
+
+### Printed p. 650
+Whoever knows this sacrificial principle Mitravindā taught by Gotama, understands its spiritual greatness, and performs the sacrifice, has the whole realm in his own hands as if it were friendly, and he conquers death as well; so the praise runs. The greatness of this same Gotama, who reflects the spiritual principle, is praised also in the Bṛhadāraṇyaka. (Bṛ. U. 2-2-4)
+
+Of the seers named in the present Ṛk (1-183-5), Purumīḷha, Gotama and Atri, the matter of Atri was told earlier (Ṛ. Saṃ. 1-180-4). In the present Ṛk these three seers, submitting how they follow the straight path in their sacrificial performances, praise the Aśvin deities and pray for their favour.
+
+##### Grammar
+
+- दस्रा — सुपां सुलुक् इति द्विवचनस्य आकारादेशः । पादादित्वात् आमंत्रितनिघातस्वरो न भवति । आमंत्रितस्य (पा. सू. ६-१-१९८) इत्यनेन आद्युदात्तस्वरो भवति ।
+- हवते — आमंत्रितं पूर्वमविद्यमानवत् (पा. सू. ८-१-७२) इत्यनेन पूर्वस्मिन् पदे विद्यमानेऽपि अविद्यमानवत्त्वात् पादादिस्थितत्वात् तिजंतनिघातस्वरो न भवति । शब्दार्थकस्य ह्वेञ् धातोः लट् प्रथमपुरुषैकवचनांतरूपम् ।
+- दिष्टाम् — दिश अतिसर्जने धातुः । क्त प्रत्ययः । व्रश्चभृस्ज (पा. सू. ८-२-३६) इत्यनेन धातुशकारस्य षत्वम् । तं निमित्तीकृत्य प्रत्ययस्य ष्टुत्वम् । स्त्रीत्वे टाप् । प्रत्ययस्वरेण अंतोदात्तो भवति । **NOTE**
+- ऋजुया इव — ऋजु याति इति ऋजुयाः तम् । या प्रापणे धातुः । विच् प्रत्ययः । गतिकारकोपपदात् कृत् (पा. सू. ६-२-१३९) इत्यनेन कृदुत्तरपदप्रकृतिस्वरो भवति । सुपां सुलुक् इति द्वितीयाविभक्तेः आकारादेशः ।
+- यंता — कर्तरि यम् धातोः तृन् प्रत्ययः । नित्त्वात् इत्यादिर्नित्यम् (पा. सू. ६-१-१८) इत्यनेन आद्युदात्तस्वरो भवति ।
+- यातम् — या प्रापणे धातुः । लोट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति । ॥ ५ ॥
+
+### Printed p. 651
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अता॑रिष्म॒ तम॑सस्पा॒रम॒स्य प्रति॑ वां॒ स्तोमो॑ अश्विनावधायि ।  
+> एह या॑तं प॒थिभि॑र्देव॒यान्वै॑र्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आतारिष्म । तमसः । पारं । अस्य । प्रति । वां । स्तोमः । अश्विन् । आधायि ।  
+> आ । इह । यातं । पतिभिः । देवयान्वैः । विद्याम । इषं । वृजनं । जीरदानुं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवयोः प्रसादादस्य तमसस्तमनहेतोः श्रेयःप्रतिबंधरूपस्य
+> दुःखस्य पारं पर्यंतभूमिमतारिष्म । उत्तीर्णाः स्मः । हे अश्विनौ वां प्रति
+> स्तोमः स्तोत्रमधायि । अकारीत्यर्थः । युवां देवयानैर्देवगंतवैर्मार्गैरिहास्यद्यज्ञ आ यातं । आगच्छतं । शिष्टो व्याख्यातः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, by your grace we have crossed to the far shore of this darkness (तमसः (*tamasaḥ*)), that is, the suffering that is the cause of gloom and obstructs the highest good; we have reached its farthest limit and are across. O Aśvins, a hymn of praise has been made towards you (अधायि (*adhāyi*) means "was made"). Come here, to this sacrifice, by the paths on which the gods travel (देवयानैः (*devayānaiḥ*) = देवगंतवैर्मार्गैः (*devagaṃtavairmārgaiḥ*)). The remainder of the verse is explained as already stated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- युवयोः प्रसादात् (*yuvayoḥ prasādāt*)—by your grace
+- अस्य तमसः (*asya tamasaḥ*)—of this darkness in the form of suffering (which obstructs the highest good)
+- पारं (*pāraṃ*)—the limit
+- अतारिष्म (*atāriṣma*)—we have crossed
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- वां प्रति (*vāṃ prati*)—addressed to you
+- स्तोमः (*stomaḥ*)—the praise
+- अधायि (*adhāyi*)—was made
+- देवयानैः पथिभिः (*devayānaiḥ pathibhiḥ*)—by the paths on which the gods travel
+- इह (*iha*)—to this our sacrifice
+- आ यातं (*ā yātaṃ*)—come
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—let us obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, by your grace this darkness in the form of suffering, which obstructs the highest good, has been crossed; you too have been praised. Come to our sacrificial hall by paths fit for the gods, and bestow on us food, strength, long life and the rest.
+
+##### English translation (H. H. Wilson)
+(Through your aid), Aswins, we cross over this (limit of) darkness; to you this (our) hymn has been addressed ; come hither by the paths traversed by the gods, that we may obtain food, and strength and long life.
+
+### Printed p. 652
+
+##### विशेषविषयगळु (Special Topics)
+
+देवयानैः पथिभिः (*devayānaiḥ pathibhiḥ*)—देवगंतवैर्मार्गैः (*devagaṃtavairmārgaiḥ*). "By the paths on which the gods travel": this is the physical meaning given. In the Upaniṣads the words देवयान (*devayāna*) and पितृयान (*pitṛyāna*) have a technical meaning. But in many places in the Ṛk-Saṃhitā the word देवयान (*devayāna*) means simply the path on which the gods travel. Only in some places is the spiritual import described in the Upaniṣads also indicated.
+
+In the Upaniṣads the words देवयान (*devayāna*) and पितृयान (*pitṛyāna*) are well known as the two paths on which the eternal self travels after a person's death, when his body has turned to ash. Of the paths to be taken to enjoy the fruit of good works, one is देवयान (*devayāna*), the other पितृयान (*pitṛyāna*): one is the path of the gods, the other the path of the fathers. Those who know the Pañcāgni-vidyā and have placed their faith in truth go by the path of the gods and reach the supreme Brahman. After their death the self enters the flame, and through it enters the day, the bright fortnight, the northern course of the sun, the year, the sun and lightning; through these, with the help of the non-human person, it reaches the supreme Brahman. The Upaniṣads describe this as follows:
+
+य एवमेतद्विदुर्येचामिा अरण्ये श्रद्धां सत्यमुपासते तेऽर्चिरभिसंभवंत्यर्चिषोऽहरह्न आपूर्यमाणपक्षमापूर्यमाणपक्षाद्यान्मह्मासान्नुदज्जादित्य एति मासेभ्यो देवलोकं देवलोकादादित्यमादित्याद्वैद्युतं तान्वैद्युतान्नुरुषो मानस एत्य ब्रह्मलोकान्गमयति ते तेषु ब्रह्मलोकेषु पराः परावतो वसंति तेषाः न पुनरावृत्तिः ॥ (*ya evametadviduryecāmiā araṇye śraddhāṃ satyamupāsate te 'rcirabhisaṃbhavaṃtyarciṣo 'harahna āpūryamāṇapakṣamāpūryamāṇapakṣādyānmahmāsānnudajjāditya eti māsebhyo devalokaṃ devalokādādityamādityādvaidyutaṃ tānvaidyutānnuruṣo mānasa etya brahmalokāngamayati te teṣu brahmalokeṣu parāḥ parāvato vasaṃti teṣāḥ na punarāvṛttiḥ ‖*) (Bṛ. U. 6-2-15)
+
+Having said in this way that those who reach the world of Brahman do not return, the Upaniṣad then describes the nature of the path of the fathers and the order of that path:
+
+अथ ये यज्ञेन दानेन तपसा लोकाञ्चयंति ते धूममभिसंभवंति धूमाद्रात्रिं रात्रेरपक्षीयमाणपक्षिमपक्षीयमाणपक्षाद्यान्नष्टा सान्द क्षिणादित्य एति मासेभ्यः पितृलोकं पितृलोकाच्चंद्रं ते चंद्रं प्राप्प्यान्नं भवंति तांस्तत्र देवा यथा सोमं राजानमाप्याय.........ते पृथिवीं प्राप्प्यान्नं भवंति ते पुनः पुरुषाग्नौ हूयंते..................एवमेवानुपरिवर्तंते । (*atha ye yajñena dānena tapasā lokāñcayaṃti te dhūmamabhisaṃbhavaṃti dhūmādrātriṃ rātrerapakṣīyamāṇapakṣimapakṣīyamāṇapakṣādyānnaṣṭā sānda kṣiṇāditya eti māsebhyaḥ pitṛlokaṃ pitṛlokāccaṃdraṃ te caṃdraṃ prāppyānnaṃ bhavaṃti tāṃstatra devā yathā somaṃ rājānamāpyāya.........te pṛthivīṃ prāppyānnaṃ bhavaṃti te punaḥ puruṣāgnau hūyaṃte..................evamevānuparivartaṃte |*) (Bṛ. U. 6-2-16).
+
+### Printed p. 653
+Those who please the world only by sacrifice, gifts and the like, that is, who are devoted only to good works without knowing the Pañcāgni-vidyā, travel after death by another path. After the body is burnt, the self joins the smoke, then goes on to the night, through it to the dark fortnight, through that to the southern course of the sun, then to the world of the fathers, and finally to the world of the moon. That is their final station. There they fully enjoy the fruits that correspond to their good works, live with the fathers, and as soon as the residue of their works is exhausted they return to earth by the same path of smoke. This is the nature of the देवयान (*devayāna*) and पितृयान (*pitṛyāna*) described in the Upaniṣads.
+
+What we have to consider here is whether all the ideas described in the Upaniṣads as explained above are fully indicated by the word देवयान (*devayāna*) as used in the Ṛk-Saṃhitā, or whether it means merely the physical path on which the gods travel. In the same way, the meaning of the word पितृयान (*pitṛyāna*) described in the Upaniṣads also has to be examined here.
+
+In the Ṛk-Saṃhitā the word देवयान (*devayāna*) is used thirteen times in all [1. 72-7; 1. 162-4; 1. 183-6; 1-184-6; 4. 37-1; 5. 43-6; 7. 38-8; 7. 76-2; 10. 18-1; 10. 51-2; 10-51-5; 10. 98-11; 10. 181-3.] In all these places Sāyaṇa gives mainly two meanings only. According to his explanation, it means first the path by which human sacrificers go with their oblations to approach the gods, and second the path by which the gods come to earth to receive their oblations.
+
+The word पित्रयान (*pitrayāna*) is used only once in the Ṛk-Saṃhitā. That use occurs in the following:
+
+यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान । पंथामनु प्रविद्वान् पितृयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna | paṃthāmanu pravidvān pitṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*) (Ṛ. Saṃ. 10-2-7)
+
+In this Ṛk, Agni, kindled and fully knowing the nature of the पितृयाण (*pitṛyāṇa*), is prayed to shine forth as soon as he is kindled; he has been born of heaven and earth, of the waters, and of the creator, Tvaṣṭṛ. For this word in the third pāda of the Ṛk, Sāyaṇa's explanation is पितृयाणं पितरो येन मार्गेण गच्छंति तं (*pitṛyāṇaṃ pitaro yena mārgeṇa gacchaṃti taṃ*): the path on which the fathers travel. English scholars also accept and explain the same meaning.
+
+### Printed p. 654
+If देवयान (*devayāna*) is thus understood as the path by which the gods come for the oblation, and पितृयान (*pitṛyāna*) as the path on which the fathers travel, how can the spiritual import described in the Upaniṣads be possible in these places? To decide this, we must examine the purport of the Ṛks cited below and determine whether this idea is expressed by those mantras.
+
+प्र मे पंथा देवयाना अदृश्रन्नमर्धंतो वसुभिरिष्कृतासः । अभूदु केतुरुषसः पुरस्तात्पतीच्यागादधि हर्म्येभ्यः ॥ ( (*pra me paṃthā devayānā adṛśrannamardhaṃto vasubhiriṣkṛtāsaḥ | abhūdu keturuṣasaḥ purastātpatīcyāgādadhi harmyebhyaḥ ‖ (*) (Ṛ. Saṃ. 7-76-2)
+
+को मा ददर्श कतमः स देवो यो मे तन्नो बहुधा पर्यपत्यत् । क्वाह मित्रावरुणा क्षियंत्यग्निर्विश्वाः समिधो देवयानीः ॥ (*ko mā dadarśa katamaḥ sa devo yo me tanno bahudhā paryapatyat | kvāha mitrāvaruṇā kṣiyaṃtyagnirviśvāḥ samidho devayānīḥ ‖*) (Ṛ. Saṃ. 10-51-2)
+
+एहि मनुर्देवयुर्यज्ञकामोऽरंकृत्या तमसि क्षेष्यग्ने । सुगान्सथः कृणुहि देवयानान्वह हव्यानि सुमनस्यमानः । (*ehi manurdevayuryajñakāmo 'raṃkṛtyā tamasi kṣeṣyagne | sugānsathaḥ kṛṇuhi devayānānvaha havyāni sumanasyamānaḥ |*) (Ṛ. Saṃ. 10-51-5)
+
+Of these Ṛks, the देवयान (*devayāna*) described in the first half of the first Ṛk has two special qualities. First, अमर्धंतः (*amardhaṃtaḥ*) (not harming), and second, वसुभिः इष्कृतासः (*vasubhiḥ iṣkṛtāsaḥ*) (तेजोभिःसंस्कृताः (*tejobhiḥsaṃskṛtāḥ*), prepared with splendours). By these two epithets the nature of the देवयान (*devayāna*) is described: they tell us that it is a path free from harm and filled with complete splendour. In the second half of the second mantra, when Agni questions Mitra and Varuṇa, he asks which of the gods knows the endless form of Agni, which is full of splendour and has the nature of the देवयान (*devayāna*). Again, in the third mantra, Agni is prayed to make bright the देवयान (*devayāna*) that carries the oblation to the gods.
+
+On these grounds it may be said that the देवयान (*devayāna*) described in the Ṛk-Saṃhitā is not merely a path of travel but a path that is fit to be travelled. That the path of the fathers, which lacks these qualities, is its opposite is known from the Upaniṣads.
+
+Another question is whether the point stated in the Upaniṣads, that the self which has gained fitness to travel by this देवयान (*devayāna*), after reaching the world of Brahman, does not return to earth by repeated coming back, is also indicated in the sentences of the Ṛk-Saṃhitā. That point can be clearly understood from the descriptions in the mantras that will be cited below.
+
 ---
 
-**Progress note:** Done through printed p. 648. pp. 643-648 (batch API)
+**Progress note:** Done through printed p. 654. pp. 649-654 (batch API)
