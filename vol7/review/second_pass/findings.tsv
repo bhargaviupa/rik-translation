@@ -1046,3 +1046,115 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 425	Q2	R1	line 12085 q326	plains '*trīn api lokān prati gacchati*' [as read [?]] — 'she goes over the three w	mark kept	Kannada p.425 reads ಶ್ರೀನಪಿಲೋರ್ಕಾ ಪ್ರತಿಗಚ್ಛತಿ, a non-word for trīn api lokān prati gacchati	kept	kn_misprints.tsv
 425	Q2	R1	line 12094 q329	son suffix for a third-person sense by *vyatyaya* [?]], the *i* elided; by *bahulaṃ	mark kept	the Kannada p.425 has laṅ madhyamapuruṣa sip but nothing of the vyatyaya remark; the remark cannot be checked	kept	decided_by_default.tsv
 389	S3	R1	line 11073 q204	Pā. Sū. 6-4-127 [?]	(removed)	Kannada p.389 has ಅರ್ವಣಸ್ತ್ರಸಾವನಞ್—ಎಂಬುದರಿಂದ with no sūtra number	applied	edits/m197-346.tsv
+431	Q1	R1	line 12238 q227	Va. 28 [?]"; centre: "Ṛgvedasaṃhitā"; right: 431.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 431.	running head of Kannada p.431 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+433	Q1	R1	line 12292 q241	Va. 28 [?]"; centre: "Ṛgvedasaṃhitā"; right: 433.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 433.	running head of Kannada p.433 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+435	Q1	R1	line 12345 q244	Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 435.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 435.	running head of Kannada p.435 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+437	Q1	R1	line 12423 q253	Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 437.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 437.	running head of Kannada p.437 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+439	Q1	R1	line 12470 q263	Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 439.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 439.	running head of Kannada p.439 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+441	Q1	R1	line 12521 q269	Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 441.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 441.	running head of Kannada p.441 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+443	Q1	R1	line 12587 q274	Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 443.	Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 443.	running head of Kannada p.443 reads ವ. ೨5 (Varga 25)	applied	edits/m227-376.tsv
+445	Q1	R1	line 12635 q292	Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 445.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 445.	running head of Kannada p.445 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+447	Q1	R1	line 12692 q297	Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 447.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 447.	running head of Kannada p.447 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+449	Q1	R1	line 12773 q318	Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 449.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 449.	running head of Kannada p.449 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+451	Q1	R1	line 12822 q323	Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 451.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 451.	running head of Kannada p.451 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+453	Q1	R1	line 12884 q328	Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 453.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 453.	running head of Kannada p.453 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+455	Q1	R1	line 12936 q333	Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 455.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 455.	running head of Kannada p.455 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+457	Q1	R1	line 12994 q343	Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 457.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 457.	running head of Kannada p.457 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+459	Q1	R1	line 13049 q354	Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 459.	Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 459.	running head of Kannada p.459 reads ವ. ೨6 (Varga 26)	applied	edits/m227-376.tsv
+461	Q1	R1	line 13124 q370	Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 461.	Va. 27"; centre: "Ṛgvedasaṃhitā"; right: 461.	running head of Kannada p.461 reads ವ. ೨7 (Varga 27)	applied	edits/m227-376.tsv
+463	Q1	R1	line 13190 q375	Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 463.	Va. 27"; centre: "Ṛgvedasaṃhitā"; right: 463.	running head of Kannada p.463 reads ವ. ೨7 (Varga 27)	applied	edits/m227-376.tsv
+431	Q1	R1	line 12256 q228/q229	(Ni. 3-[?] [?])	(Ni. 2-17)	Kannada p.431: ನಿ. ೨-೧೭ after ದಾಸೋ ದಸ್ಯತೇರುಪದಾಸಯತಿ ಕರ್ಮಾಣಿ	applied	edits/m227-376.tsv
+431	Q1	R1	line 12256 q230/q231	Ṛ. Saṃ. 2-[?]-6 [?] [the print's numerals]	Ṛ. Saṃ. 3-12-6	Kannada p.431: ಋ. ಸಂ. ೩-೧೨-೬ at ದಾಸಪತ್ನಿಃ	applied	edits/m227-376.tsv
+432	Q1	R1	line 12266 q232	(Ni. 2-10 [?])	(Ni. 3-9)	Kannada p.432: (ನಿ.೩-೯) after ಮಘಂ, ರೇಕ್ಣಃ, ರಿಕ್ಷಂ … ಧನ ನಾಮಗಳಲ್ಲಿ	applied	edits/m227-376.tsv
+432	Q1	R1	line 12272 q233	(Ṛ. Saṃ. 61-4; the Saṃhitā text as read, doubtful [?])	(Ṛ. Saṃ. 3-61-4)	Kannada p.432: ಋ. ಸಂ. ೩-೬೧-೪ and the same words ಸ್ವರ್ಜನಂತೀ ಸುಭಗಾ ಸುದಂಸಾ ಅಂತಾದ್ದಿವಃ ಪಪ್ರಥ ಆ ಪೃಥಿವ್ಯಾಃ	applied	edits/m227-376.tsv
+432	Q2	R1	line 12278 q234	karmanimitta kīrtyarthaṃ*' [as read [?]]	karmanimitta kīrtyarthaṃ*' [as read]	Kannada p.432 has ಅತಿಶಯವತ್ಕರ್ಮನಿಮಿತ್ತಕೀರ್ತ್ಯರ್ಥಂ, the same words	applied	edits/m227-376.tsv
+432	Q1	R1	line 12282 q237-q239	1-[?]-[?] [?] earlier	1-77-4 earlier	Kannada p.432: ಋ. ಸಂ. ೧-೭೭-೪ for the same compound (ವಾಜಪ್ರಸೂತಾ)	applied	edits/m227-376.tsv
+432	S3	R1	line 12286 q240	, Pā. Sū. 3-4-101 [?])	)	Kannada p.432 and p.433 have no number after ತಸ್ಥಸ್ಥಮಿಪಾಮ್—	applied	edits/m227-376.tsv
+433	S3	R1	line 12296 q242	 (Pā. Sū. 5-2-127 [?])	(removed)	Kannada p.433 has no number after ಅರ್ಶಆದಿಭ್ಯೋಚ್—	applied	edits/m227-376.tsv
+433	S3	R1	line 12298 q243	 (Pā. Sū. 6-4-51 [?])	(removed)	Kannada p.433 has no number after ಣೇರನಿಟಿ—	applied	edits/m227-376.tsv
+435	Q1	R1	line 12371 q245/q246	(Ni. 7-[?] [?])	(Ni. 9-27)	Kannada p.435: ದರ್ಶನಾಯ ( ನಿ. ೯-೨೭ )	applied	edits/m227-376.tsv
+436	Q2	R1	line 12387 q247	; the second citation's text is read with doubt from the blotted print [?])	)	Kannada p.436 has ಮಹತ್ತೇ ವಿಷ್ಣೋ ಅಭಿಚಕ್ಷ್ಯಂ ಕೃತಂ ಪಶ್ಯೇಮ ತುರ್ವಶಂ ಯದುಂ ( ಋ. ಸಂ. ೮-೪-೭ ), the same text and number	applied	edits/m227-376.tsv
+436	Q1	R1	line 12405 q251	(Ṛ. Saṃ. 1-113-8; text as read [?])	(Ṛ. Saṃ. 1-124-4)	Kannada p.436 gives ಅದ್ಮಸನ್ನ ಸಸತೋ ಬೋಧಯಂತೀ … as ಋ. ಸಂ. ೧-೧೨೪.೪ (1-113-8 belongs to the next line)	applied	edits/m227-376.tsv
+436	Q2	R1	line 12413 q252	(Ṛ. Saṃ. 7-79-1 [?])	(Ṛ. Saṃ. 7-79-1)	Kannada p.436: ವ್ಯು ಷಾ ಅವಃ ಪಥ್ಯಾ … ( ಋ. ಸಂ. ೭-೭೯-೧ )	applied	edits/m227-376.tsv
+437	Q2	R1	line 12427 q254	tatkāmasya manāyoḥ* [as read [?]]	tatkāmasya manāyoḥ* [as read]	Kannada p.437 has ಮನ್ಯತೇರರ್ಚತಿಕರ್ಮಣೋ ಮನಾ ಸ್ತುತಿರುಚ್ಯತೇ । ತತ್ಕಾಮಸ್ಯ ಮನಾಯೋಃ, the same words	applied	edits/m227-376.tsv
+437	S3	R1	line 12427 q255/q256	 (Ni. 3-[?] [?])	(removed)	Kannada p.437 has no number after ೪೪ ಪೂಜಾಕರ್ಮನಾಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿರುವುದರಿಂದ	applied	edits/m227-376.tsv
+437	Q1	R1	line 12431 q257	(Ṛ. Saṃ. 4-24-3; the numerals as read [?])	(Ṛ. Saṃ. 4-25-5)	Kannada p.437: ಪ್ರಿಯಃ ಸುಕೃತ್ಪ್ರಿಯ ಇಂದ್ರೇ ಮನಾಯುಃ … ( ಋ. ಸಂ. ೪-೨೫-೫ )	applied	edits/m227-376.tsv
+437	Q1	R1	line 12435 q258	(Ṛ. Saṃ. 4-21-2 [?])	(Ṛ. Saṃ. 4-24-7)	Kannada p.437: ಪ್ರತಿ ಮನಾಯೋರುಚಥಾನಿ ಹರ್ಯನ್ … ( ಋ. ಸಂ. ೪-೨೪-೭ )	applied	edits/m227-376.tsv
+437	S3	R1	line 12444 q259	 (Pā. Sū. 3-2-59 [?])	(removed)	Kannada p.437 has no number after ಋತ್ವಿಕ್‌ದಧೃಕ್—	applied	edits/m227-376.tsv
+437	S3	R1	line 12444 q260	 (Pā. Sū. 6-4-24 [?])	(removed)	Kannada p.437 has no number after ಅನಿದಿತಾಂ ಹಲಉಪ—	applied	edits/m227-376.tsv
+437	S3	R1	line 12444 q261	 (Pā. Sū. 1-4-18 [?])	(removed)	Kannada p.437 has no number after ಯಚಿ ಭಮ್—	applied	edits/m227-376.tsv
+438	Q2	R1	line 12456 q262	(Pā. Sū. 3-1-55 [?])	(Pā. Sū. 3-1-55)	Kannada p.438: ಪುಷಾದಿದ್ಯುತಾದಿ-(ಪಾ. ಸೂ. ೩-೧-೫೫)	applied	edits/m227-376.tsv
+440	Q2	R1	line 12499 q268	'jāṇanāda' [?]]	'jāṇanāda']	Kannada p.440 has ಕೃತ್ನುಃ—ಜಾಣನಾದ	applied	edits/m227-376.tsv
+441	Q1	R1	line 12539 q270	पुराणे देवी युवतिः	पुराणी देवी युवतिः	Kannada p.441: ಪುರಾಣೀ ದೇವೀ ಯುವತಿಃ ಪುರಂಧಿರನು ವ್ರತಂ ಚರಸಿ ವಿಶ್ವವಾರೇ (Devanagari line; applied with its IAST twin)	applied	edits/m227-376.tsv
+441	Q1	R1	line 12539 q270	*purāṇe devī yuvatiḥ puraṃdhir anu vrataṃ carasi viśvavāre |*  (Ṛ. Saṃ. 3-61-1; the Saṃhitā text as read, doubtful [?])	*purāṇī devī yuvatiḥ puraṃdhir anu vrataṃ carasi viśvavāre |*  (Ṛ. Saṃ. 3-61-1)	Kannada p.441: ಪುರಾಣೀ ದೇವೀ ಯುವತಿಃ … (ಋ. ಸಂ. ೩-೬೧-೧); IAST twin of the Devanagari edit	applied	edits/m227-376.tsv
+442	Q1	R1	line 12555 q271	(Ni. 6-11 [?])	(Ni. 8-11)	Kannada p.442: ಶುಂಭಮಾನಾಃ—ಶುಶೋಭಿಷಮಾಣಾಃ (ನಿ. ೮-೧೧)	applied	edits/m227-376.tsv
+442	Q1	R1	line 12573 q272/q273	gatikarmaṇaḥ* (Ni. 3-[?] [?])	gatikarmaṇaḥ* (Ni. 2-6)	Kannada p.442: ವಿರಿತಿ ಶಕುನಿನಾಮ ವೇತೇರ್ಗತಿಕರ್ಮಣಃ । (ನಿ. ೨-೬)	applied	edits/m227-376.tsv
+443	Q1	R1	line 12591 q275/q276	(Ni. 5-[?] [?])	(Ni. 5-22)	Kannada p.443: ಋಕ್ಕನ್ನು ಉದಹರಿಸುತ್ತಾರೆ. (ನಿ. ೫-೨೨)	applied	edits/m227-376.tsv
+443	Q2	R1	line 12595 q277	(Ṛ. Saṃ. 10-43-5; the Saṃhitā text as read, doubtful [?])	(Ṛ. Saṃ. 10-43-5)	Kannada p.443 has ಕೃತಂ ನ ಶ್ವಘ್ನೀ ವಿ ಚಿನೋತಿ ದೇವನೇ ಸಂವರ್ಗಂ ಯನ್ಮಘವಾ ಸೂರ್ಯಂ ಜಯತ್ (ಋ. ಸಂ. ೧೦-೪೩-೫), the same text and number	applied	edits/m227-376.tsv
+443	Q1	R1	line 12599 q278-q286	Ṛ. Saṃ. 5-[?]-4 [?]; and 10-[?]-5 [?]; 6-[?]-2 [?] [the print's numerals], the word means *vyādha*, hunter, and in 10-43-5; 10-43-5; 9-[?]-[?] [?], where	Ṛ. Saṃ. 2-12-4; and 4-20-3, the word means *vyādha*, hunter, and in 10-42-9; 10-43-5; 8-45-38, where	Kannada p.443: ೨-೧೨-೪; ೪-೨೦-೩ (ವ್ಯಾಧ) and ೧೦-೪೨-೯; ೧೦-೪೩-೫; ೮-೪೫-೩೮ (ಕಿತವ) – the five places other than this Ṛk	applied	edits/m227-376.tsv
+443	S3	R1	line 12605 q287	 (Pā. Sū. 7-3-79 [?])	(removed)	Kannada p.443 has no sūtra number at this rule	applied	edits/m227-376.tsv
+443	S3	R1	line 12605 q288	 (Pā. Sū. 7-2-82 [?])	(removed)	Kannada p.443 has no sūtra number at this rule	applied	edits/m227-376.tsv
+443	S3	R1	line 12605 q289	 (Pā. Sū. 6-1-186 [?])	(removed)	Kannada p.443 has no sūtra number at this rule	applied	edits/m227-376.tsv
+443	S3	R1	line 12606 q290	 (Pā. Sū. 4-1-15 [?])	(removed)	Kannada p.443 has no sūtra number at this rule	applied	edits/m227-376.tsv
+443	S3	R1	line 12606 q291	 (Pā. Sū. 8-4-2 [?])	(removed)	Kannada p.443 has no sūtra number at this rule	applied	edits/m227-376.tsv
+446	Q1	R1	line 12680 q293/q294	(Ṛ. Saṃ. 3-[?]-6 [?]; the numerals as read, doubtful)	(Ṛ. Saṃ. 5-80-6)	Kannada p.446: ವ್ಯೂರ್ಣ್ವತೀ ದಾಶುಷೇ … ಪೂರ್ವಥಾಕಃ । ಮು. ಸ. ೫-೮೦-೬ (abbreviation printed ಮು. ಸ.)	applied	edits/m227-376.tsv
+446	Q1	R1	line 12684 q295/q296	Ṛ. Saṃ. 6-[?]-3 [?], the explanation	Ṛ. Saṃ. 9-94-2, the explanation	Kannada p.446: ಋ. ಸಂ. ೯-೯೪-೨ ಮುಂತಾದ ಋಕ್ಕುಗಳಲ್ಲಿ ಸ್ವತೇಜಸಾ ಆಚ್ಛಾದಯನ್	applied	edits/m227-376.tsv
+447	Q1	R1	line 12713 q299/q300	(Ni. 3-[?] [?])	(Ni. 3-19)	Kannada p.447: ಆರು ಅಂತರ್ಹಿತ ನಾಮಗಳಲ್ಲಿ … (ನಿ. ೩-೧೯)	applied	edits/m227-376.tsv
+447	Q1	R1	line 12721 q301-q309	Ṛ. Saṃ. 3-[?]-3 [?]; 5-[?]-[?] [?]; 8-[?]-3 [?]; 10-[?]-6 [?] the word	Ṛ. Saṃ. 2-29-2; 5-45-55; 8-97-3; 10-77-6 the word	Kannada p.447: ಋಂ. ಸಂ. ೨-೨೯-೨ : ೫-೪೫-೫೫ ; ೮-೯೭-೩ ; ೧೦-೭೭-೬ (5-45-55 applied as printed)	applied	edits/m227-376.tsv
+447	Q1	R1	line 12723 q310/q311	page 2[?] of Bāl Gaṅgādhar Tilak's book *The Arctic Home in the Vedas* [as printed; the page number is not legible [?]].)	page 176 of Bāl Gaṅgādhar Tilak's book *The Arctic Home in the Vedas*.)	Kannada p.447: ೧೭೬ ನೆಯ ಪುಟದಲ್ಲಿ	applied	edits/m227-376.tsv
+448	Q2	R1	line 12735 q312	; numerals as read; the first word is printed *īyuṣṭe* [?])	)	Kannada p.448: ಈಯುಷ್ಟೇ ಯೇ ಪೂರ್ವತರಾಮಪಶ್ಯನ್ … (ಋ. ಸಂ. ೧-೧೧೩-೧೧), same number and first word	applied	edits/m227-376.tsv
+448	Q1	R1	line 12759 q313-q316	Ṛ. Saṃ. 10-[?]-20 [?] (Ni. 12-[?] [?])	Ṛ. Saṃ. 10-85-20 (Ni. 12)	Kannada p.448: ಋ. ಸಂ. ೧೦-೮೫-೨೦ನೇ ಋಕ್ಕನ್ನು ಉದಹರಿಸುತ್ತಾರೆ. ( ನಿ. ೧೨- ) (the Nirukta number after 12- is blank in the print)	applied	edits/m227-376.tsv
+448	S3	R1	line 12767 q317	 (Pā. Sū. 8-3-9 [?])	(removed)	Kannada p.449 has no number after ದೀರ್ಘಾದಟ ಸಮಾನಪಾದೇ—	applied	edits/m227-376.tsv
+449	S3	R1	line 12777 q319	 (Pā. Sū. 8-3-3 [?])	(removed)	Kannada p.449/460 has no number here after ಆತೋಟಿ ನಿತ್ಯಮ್ on p.449	applied	edits/m227-376.tsv
+449	S3	R1	line 12778 q320	 (Pā. Sū. 3-1-66 [?])	(removed)	Kannada p.449 has no number after ಚಿಣ್‌ಭಾವಕರ್ಮಣೋಃ—	applied	edits/m227-376.tsv
+449	S3	R1	line 12779 q321	 (Pā. Sū. 1-1-37 [?])	(removed)	Kannada p.449 has no number after ಸ್ವರಾದಿನಿಪಾತಮವ್ಯಯಮ್	applied	edits/m227-376.tsv
+450	Q1	R1	line 12812 q322	Pā. Sū. 3-1-49 [?] cleḥ sic	Pā. Sū. 3-1-49-58 cleḥ sic	Kannada p.450: ಪಾ ೩-೧-೪೯-೫೮ । ಚೇಃ ಸಿಚ್ (IAST twin of the Devanagari edit)	applied	edits/m227-376.tsv
+450	Q1	R1	line 12812 q322	पा. सू. ३-१-४९ 	पा. सू. ३-१-४९-५८ 	Kannada p.450: ಪಾ ೩-೧-೪೯-೫೮ । ಚೇಃ ಸಿಚ್ (Devanagari line; applied with its IAST twin)	applied	edits/m227-376.tsv
+451	Q1	R1	line 12840 q324/q325	(Ni. 1-[?] [?])	(Ni. 3-24)	Kannada p.451: ೩೭ ನದೀನಾಮಗಳಲ್ಲಿ … (ನಿ. ೩-೨೪)	applied	edits/m227-376.tsv
+452	Q2	R1	line 12874 q327	English insertions [?].)*	English insertions.)*	Kannada p.452 has the sentence ಈ ರೀತಿ ೧-೯೨-೧೧ ಮತ್ತು ೧-೯೨-೧೨ … ಶ್ಲಾಘಿಸುತ್ತಾರೆ, as read	applied	edits/m227-376.tsv
+453	S3	R1	line 12888 q329	 (Pā. Sū. 6-1-108 [?])	(removed)	Kannada p.453 has no number after ಸಂಪ್ರಸಾರಣಾಚ್ಚ—	applied	edits/m227-376.tsv
+453	Q1	R1	line 12889 q330	in the fifth Ṛk of this very sūkta [92.9 [?]]	in the ninth Ṛk of this very sūkta [92.9]	Kannada p.453: ಇದೇ ಸೂಕ್ತದ ೯ ನೇ ಮಂತ್ರದಲ್ಲಿ ವ್ಯಾಖ್ಯಾತವಾಗಿದೆ	applied	edits/m227-376.tsv
+453	S3	R1	line 12890 q331	 (Pā. Sū. 8-2-29 [?])	(removed)	Kannada p.453 has no number after ಸ್ಕೋಸಂಯೋಗಾದ್ಯೋರಂತೇಚ—	applied	edits/m227-376.tsv
+454	Q2	R1	line 12926 q332	is clotted in the print [?].]"	is clotted in the print.]"	Kannada p.454 reads the clause clearly: ಅಸ್ಮಿನ್ಪಕ್ಷ ಏತ ಐ । ಪಾ. ೩-೪-೯೩ । ಇತ್ಯೈತ್ವಾಭಾವೋ ವ್ಯತ್ಯಯೇನ ದ್ರಷ್ಟವ್ಯಃ । ಯದ್ವೃತ್ತಯೋಗಾದನಿಘಾತಃ	applied	edits/m227-376.tsv
+455	Q1	R1	line 12950 q334/q335	(Ni. 3-[?] [?]); so the meaning	(Ni. 3-2); so the meaning	Kannada p.455: ಹದಿನೈದು ಅಪತ್ಯನಾಮಗಳಲ್ಲಿ … ( ನಿ. ೩-೨ )	applied	edits/m227-376.tsv
+455	Q1	R1	line 12950 q336/q337	(Ni. 10-[?] [?])."	(Ni. 10-7)."	Kannada p.455: ವಿವರಿಸುತ್ತಾರೆ. (ನಿ. ೧೦-೭)	applied	edits/m227-376.tsv
+456	Q1	R1	line 12966 q338	(Ṛ. Saṃ. 4-251-9; read as printed, the first words *uṣo maghonyā* [?])	(Ṛ. Saṃ. 4-55-9; read as printed, the first words *uṣo maghonyā*)	Kannada p.456: ಉಷೋ ಮಘೋನ್ಯಾ ವಹ ಸೂನೃತೇ … ( ಮು. ಸಂ. ೪-೫೫-೯ ) (abbreviation printed ಮು. ಸಂ.)	applied	edits/m227-376.tsv
+456	Q2	R1	line 12972 q339	the print gives *hṛñ*, as read [?]]	the print gives *hṛñ*, as read]	Kannada p.456 has ಹೃಞ್ ಹರಣೇ ಧಾತು	applied	edits/m227-376.tsv
+456	S3	R1	line 12972 q340	 (Pā. Sū. 3-4-87 [?])	(removed)	Kannada p.456 has no number after ಸೇರ್ಹ್ಯಪಿಚ್ಚ—	applied	edits/m227-376.tsv
+456	Q2	R1	line 12972 q341	hence the root's form here [?].]	hence the root's form here.]	Kannada p.456 has ಹೃಗ್ರಹೋರ್ಭಶ್ಚಂದಸಿ—ಎಂಬುದರಿಂದ, the rule as cited	applied	edits/m227-376.tsv
+456	Q2	R1	line 12974 q342	(Pā. Sū. 3-4-93 [?])	(Pā. Sū. 3-4-93)	Kannada p.456: ಏತಐ (ಪಾ. ಸೂ. ೩-೪-೯೩)	applied	edits/m227-376.tsv
+457	Q1	R1	line 13000 q345	का. ६-१-१८६-१ इति	का. ६-१-१७६-१ इति	Kannada p.457: ಕಾ. ೬-೧-೧೭೬-೧ (Devanagari line; applied with its IAST twin)	applied	edits/m227-376.tsv
+457	Q1	R1	line 13000 q345	Kā. 6-1-186-1 [?] iti	Kā. 6-1-176-1 iti	Kannada p.457: ಕಾ. ೬-೧-೧೭೬-೧ (IAST twin of the Devanagari edit)	applied	edits/m227-376.tsv
+457	Q1	R1	line 13002 q346	(Pā. Sū. 6-1-37 [?])	(Pā. Sū. 6-1-37-6)	Kannada p.458: ರಯೇರ್ಮತ್ ಬಹುಲಮ್-(ಪಾ. ಸೂ. ೬-೧-೩೭-೬)	applied	edits/m227-376.tsv
+457	Q1	R1	line 13002 q347	(Kā. 6-1-186 [?])	(Kā. 6-1-176-1)	Kannada p.458: ರೇಶಬ್ದಾಚ್ಚ ಮತುಪ ಉದಾತ್ತತ್ವಂ ವಕ್ತವ್ಯಂ (ಕಾ. ೬-೧-೧೭೬-೧)	applied	edits/m227-376.tsv
+457	Q1	R1	line 13018 q348/q349	(Ni. 1-[?] [?])	(Ni. 2-18)	Kannada p.458: ಹದಿನಾರು ಉಷೋನಾಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿವೆ. ( ನಿ. ೨-೧೮ )	applied	edits/m227-376.tsv
+458	S3	R1	line 13034 q350	 (Pā. Sū. 5-2-94 [?])	(removed)	Kannada p.458 has no number after ತದಸ್ಯಾ—ಸೂತ್ರದಿಂದ	applied	edits/m227-376.tsv
+458	S3	R1	line 13034 q351	 (Pā. Sū. 8-2-9 [?])	(removed)	Kannada p.458 has no number after ಮಾಡುಪಧಾಯಾಶ್ಚ—	applied	edits/m227-376.tsv
+458	S3	R1	line 13034 q352	 (Pā. Sū. 8-1-18 [?])	(removed)	Kannada p.458 has no number after ಅಪಾದಾದ್—	applied	edits/m227-376.tsv
+459	Q1	R1	line 13082 q355/q356	(Ni. 2-[?] [?])	(Ni. 2-28)	Kannada p.459: ಅರುಣಾ ಗಾವ ಉಷಸಾಂ । … (ನಿ. ೨-೨೮)	applied	edits/m227-376.tsv
+460	Q1	R1	line 13094 q357-q359	वहन्त्वरुणास्व उप	वहन्त्वरुणप्सव उप	Kannada p.460: ವಹಂತ್ವರುಣಪ್ಸವ ಉಪ ತ್ವಾ ಸೋಮಿನೋ ಗೃಹಂ (Devanagari line; applied with its IAST twin)	applied	edits/m227-376.tsv
+460	Q1	R1	line 13094 q357-q359	*vahantv aruṇāsva upa tvā sominaḥ gṛham |*  (Ṛ. Saṃ. 1-14-[?] [?]; the Saṃhitā text as read, partly garbled in the print [?])	*vahantv aruṇapsava upa tvā sominaḥ gṛham |*  (Ṛ. Saṃ. 1-49-1)	Kannada p.460: ವಹಂತ್ವರುಣಪ್ಸವ ಉಪ ತ್ವಾ ಸೋಮಿನೋ ಗೃಹಂ (ಋ. ಸಂ. ೧-೪೯-೧) (IAST twin of the Devanagari edit)	applied	edits/m227-376.tsv
+460	Q1	R1	line 13112 q360-q364	Ṛks 1-30-22 [?]; 1-48-1 [?]; 8-[?]-3 [?]; 4-30-2 [?] and many	Ṛks 1-30-22; 1-48-1; 9-11-5; 4-51-7 and many	Kannada p.460: ೧-೩೦-೨೨ ; ೧-೪೮-೧ ; ೯--೧೧-೫ ; ೪-೫೧-೭ (the doubled hyphen of ೯--೧೧-೫ read as 9-11-5)	applied	edits/m227-376.tsv
+460	S3	R1	line 13116 q365	 (Pā. Sū. 3-4-80 [?])	(removed)	Kannada p.460 has no sūtra number at this rule	applied	edits/m227-376.tsv
+460	S3	R1	line 13116 q366	 (Pā. Sū. 8-2-30 [?])	(removed)	Kannada p.460 has no sūtra number at this rule	applied	edits/m227-376.tsv
+460	S3	R1	line 13116 q367	 (Pā. Sū. 8-4-55 [?])	(removed)	Kannada p.460 has no sūtra number at this rule	applied	edits/m227-376.tsv
+460	S3	R1	line 13116 q368	 (Pā. Sū. 8-3-59 [?])	(removed)	Kannada p.460 has no sūtra number at this rule	applied	edits/m227-376.tsv
+460	S3	R1	line 13118 q369	 (Pā. Sū. 5-1-129 [?])	(removed)	Kannada p.460 has no sūtra number at this rule	applied	edits/m227-376.tsv
+461	Q2	R1	line 13150 q371	stūyete [?] |	stūyete |	Kannada p.461 has ... ತೃಚೇನ ಸ್ತೂಯೇತೇ ।, the same words	applied	edits/m227-376.tsv
+461	Q2	R1	line 13152 q372	 (the reading of this clause is doubtful [?])	(removed)	Kannada p.461 reads the clause clearly: ಉಷಃಸಾಹಚರ್ಯಾದ್ಬುದ್ಧಿಸ್ಥಾವಶ್ವಿನಾವಿದಮಾದಿಕೇನ ತೃಚೇನ ಸ್ತೂಯೇತೇ	applied	edits/m227-376.tsv
+462	Q2	R1	line 13164 q373	where a *pañcamī* would be expected [?])	where a *pañcamī* would be expected)	Kannada p.462 has ಸುಪಾಂ ಸುಲುಗಿತಿ ಷಷ್ಠ್ಯಾ ಲುಕ್, the print reading as noted	applied	edits/m227-376.tsv
+462	Q1	R1	line 13180 q374	(Ā. 4-14 [?])	(Ā. 4-15)	Kannada p.462: ... ತೃಚೌ ಎಂಬ ಸೂತ್ರದಿಂದ ವಿವೃತವಾಗಿರುವುದು (ಆ. ೪-೧೫)	applied	edits/m227-376.tsv
+463	Q1	R1	line 13192 q376	*vartiṣā* [or similar; the printed Sanskrit before it is clotted [?]]	*vartanyā*	Kannada p.463: ಸಾಯಣರೂ ವರ್ತನ್ಯಾ । ಪ್ರಸಿದ್ಧೇನ ಪಥಾ	applied	edits/m227-376.tsv
+432	Q2	R1	line 12280 q235	sudarśanena jyotiṣā vā*' [as read, partly clotted [?]]	[?] kept	Kannada p.432 ends the quotation ಸುದರ್ಶನೇನ ಜ್ಯೋತಿಷಾ ನಾ (non-word ನಾ for vā)	kept	kn_misprints.tsv
+432	Q2	R1	line 12282 q236	asmabhyam annadātrī satī*' [as read, clotted [?]]	[?] kept	Kannada p.432 has ದತ್ತಾನ್ನಾಸತೀ । where the English has asmabhyam annadātrī satī; cannot be decided	kept	decided_by_default.tsv
+436	Q2	R1	line 12393 q248	uruṇā* [as read, clotted [?]]	[?] kept	Kannada p.436 has ಉರುತ್ವೇನ where the English has uruṇā; cannot be decided	kept	decided_by_default.tsv
+436	Q2	R1	line 12397 q249	(Ṛ. Saṃ. 10-110-5; the Saṃhitā text is read from a blotted print and is doubtful [?])	[?] kept	Kannada p.436 reads ವ್ಯಚಸ್ವತೀರುರ್ವಿಯಾ … ಪರಿಭ್ಯೋ … (ಋ. ಸಂ. ೧೦-೧೦೫), differing in the text and the reference from the English (patibhyo; 10-110-5, as on Kannada p.442); the correction note beside it already deals with the reading	kept	decided_by_default.tsv
+436	Q2	R1	line 12401 q250	suptān uttheśayantī* [as read [?]]	[?] kept	Kannada p.436 has ಸುಪ್ತಾನುಷ್ಠಾಪಯಂತೀ where the English has uttheśayantī; cannot be decided	kept	decided_by_default.tsv
+439	Q2	R1	line 12483 q264	sarvatra [?] ity arthaḥ	[?] kept	Kannada p.439 has ಐಕರೂಪೇಣಾವಸ್ಥಾನಾನಿನ್ನಿತ್ಯತ್ವಮಿತ್ಯರ್ಥಃ where the English line has sarvatra ity arthaḥ; derived Sanskrit line, not hand-edited	kept	decided_by_default.tsv
+439	Q2	R1	line 12483 q265	pratidinam uṣaḥsaṃparkatāsu [?] hi	[?] kept	Kannada p.439 has ಬಹ್ವೀಷೂಷಃಸ್ವತೀತಾಸು ಹಿ where the English line has pratidinam uṣaḥsaṃparkatāsu hi; derived Sanskrit line, not hand-edited	kept	decided_by_default.tsv
+439	Q2	R1	line 12485 q266	[the clause "sarvatra…" is doubtful [?]]	[?] kept	depends on the Sanskrit clause of q264, where the Kannada differs	kept	decided_by_default.tsv
+439	Q2	R1	line 12485 q267	[clause doubtful [?]]	[?] kept	depends on the Sanskrit clause of q265, where the Kannada differs	kept	decided_by_default.tsv
+447	Q2	R1	line 12702 q298	(Ṛ. Saṃ. 1-124-8; the Saṃhitā text read with difficulty [?])	[?] kept	Kannada p.447 has ಸ್ವಸ್ವಾ ಸಸ್ರೇ ಜ್ಯಾಯಸ್ಯೈ … where the English has svasvā svasre; non-word ಸಸ್ರೇ in the Kannada	kept	kn_misprints.tsv
+452	Q2	R1	line 12856 q326	(Ṛ. Saṃ. 6-64-3; the Saṃhitā text as read, doubtful [?])	[?] kept	Kannada p.452 has ಸುಭಗಾಮುರ್ವಿಯಾ ಪ್ರಥಾನಾಂ where the English has pṛthānām (Kannada reads prathānām)	kept	kn_misprints.tsv
+457	Q2	R1	line 13000 q344	ihāsmin yajñe [?]	[?] kept	Kannada p.457 has ಇಹಾಸ್ಮಿನ್ದೇಶೇಽಸ್ಮೇ where the English line has ihāsmin yajñe; derived Sanskrit line, not hand-edited	kept	decided_by_default.tsv
+458	Q2	R1	line 13036 q353	[*chaty-aco*…, as read [?]]	[?] kept	Kannada p.458 has ಛೇಚ—ಎಂಬುದರಿಂದ where the English has chaty; cannot be decided	kept	decided_by_default.tsv

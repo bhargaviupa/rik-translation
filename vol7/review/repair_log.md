@@ -903,3 +903,106 @@
 | 430 | `अर्श आदित्वादन्यत्रार्थीयोऽच्` → `अर्शआदित्वान्मत्त्वर्थियोऽच्` | SECOND-PASS Q1: Devanagari twin; Kannada p.430 reads ಅರ್ಶಆದಿತ್ವಾನ್ಮತ್ತ್ವರ್ಥಿಯೋಽಚ್ |
 | 430 | `dāsayut… [clotted [?]] dāso` → `dāsayutyupakṣapayati śatrūniti dāso` | SECOND-PASS Q1: Kannada p.430 reads ದಾಸಯುತ್ಯುಪಕ್ಷಪಯತಿ ಶತ್ರೂನಿತಿ ದಾಸೋ ಭೃತ್ಯಃ |
 | 430 | `दासयुत्कर्मस्वपयति शत्रूननिति [clotted] दासो` → `दासयुत्युपक्षपयति शत्रूनिति दासो` | SECOND-PASS Q1: Devanagari twin; Kannada p.430 reads ದಾಸಯುತ್ಯುಪಕ್ಷಪಯತಿ ಶತ್ರೂನಿತಿ ದಾಸೋ |
+
+### 2026-11-27 second pass, batch m227-376.tsv
+| page | old → new | why |
+|---|---|---|
+| 431 | `Va. 28 [?]"; centre: "Ṛgvedasaṃhitā"; right: 431.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 431.` | SECOND-PASS Q1: running head of Kannada p.431 reads ವ. ೨5 (Varga 25) |
+| 433 | `Va. 28 [?]"; centre: "Ṛgvedasaṃhitā"; right: 433.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 433.` | SECOND-PASS Q1: running head of Kannada p.433 reads ವ. ೨5 (Varga 25) |
+| 435 | `Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 435.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 435.` | SECOND-PASS Q1: running head of Kannada p.435 reads ವ. ೨5 (Varga 25) |
+| 437 | `Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 437.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 437.` | SECOND-PASS Q1: running head of Kannada p.437 reads ವ. ೨5 (Varga 25) |
+| 439 | `Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 439.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 439.` | SECOND-PASS Q1: running head of Kannada p.439 reads ವ. ೨5 (Varga 25) |
+| 441 | `Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 441.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 441.` | SECOND-PASS Q1: running head of Kannada p.441 reads ವ. ೨5 (Varga 25) |
+| 443 | `Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 443.` → `Va. 25"; centre: "Ṛgvedasaṃhitā"; right: 443.` | SECOND-PASS Q1: running head of Kannada p.443 reads ವ. ೨5 (Varga 25) |
+| 445 | `Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 445.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 445.` | SECOND-PASS Q1: running head of Kannada p.445 reads ವ. ೨6 (Varga 26) |
+| 447 | `Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 447.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 447.` | SECOND-PASS Q1: running head of Kannada p.447 reads ವ. ೨6 (Varga 26) |
+| 449 | `Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 449.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 449.` | SECOND-PASS Q1: running head of Kannada p.449 reads ವ. ೨6 (Varga 26) |
+| 451 | `Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 451.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 451.` | SECOND-PASS Q1: running head of Kannada p.451 reads ವ. ೨6 (Varga 26) |
+| 453 | `Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 453.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 453.` | SECOND-PASS Q1: running head of Kannada p.453 reads ವ. ೨6 (Varga 26) |
+| 455 | `Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 455.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 455.` | SECOND-PASS Q1: running head of Kannada p.455 reads ವ. ೨6 (Varga 26) |
+| 457 | `Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 457.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 457.` | SECOND-PASS Q1: running head of Kannada p.457 reads ವ. ೨6 (Varga 26) |
+| 459 | `Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 459.` → `Va. 26"; centre: "Ṛgvedasaṃhitā"; right: 459.` | SECOND-PASS Q1: running head of Kannada p.459 reads ವ. ೨6 (Varga 26) |
+| 461 | `Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 461.` → `Va. 27"; centre: "Ṛgvedasaṃhitā"; right: 461.` | SECOND-PASS Q1: running head of Kannada p.461 reads ವ. ೨7 (Varga 27) |
+| 463 | `Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 463.` → `Va. 27"; centre: "Ṛgvedasaṃhitā"; right: 463.` | SECOND-PASS Q1: running head of Kannada p.463 reads ವ. ೨7 (Varga 27) |
+| 431 | `(Ni. 3-[?] [?])` → `(Ni. 2-17)` | SECOND-PASS Q1: Kannada p.431: ನಿ. ೨-೧೭ after ದಾಸೋ ದಸ್ಯತೇರುಪದಾಸಯತಿ ಕರ್ಮಾಣಿ |
+| 431 | `Ṛ. Saṃ. 2-[?]-6 [?] [the print's numerals]` → `Ṛ. Saṃ. 3-12-6` | SECOND-PASS Q1: Kannada p.431: ಋ. ಸಂ. ೩-೧೨-೬ at ದಾಸಪತ್ನಿಃ |
+| 432 | `(Ni. 2-10 [?])` → `(Ni. 3-9)` | SECOND-PASS Q1: Kannada p.432: (ನಿ.೩-೯) after ಮಘಂ, ರೇಕ್ಣಃ, ರಿಕ್ಷಂ … ಧನ ನಾಮಗಳಲ್ಲಿ |
+| 432 | `(Ṛ. Saṃ. 61-4; the Saṃhitā text as read, doubtful [?])` → `(Ṛ. Saṃ. 3-61-4)` | SECOND-PASS Q1: Kannada p.432: ಋ. ಸಂ. ೩-೬೧-೪ and the same words ಸ್ವರ್ಜನಂತೀ ಸುಭಗಾ ಸುದಂಸಾ ಅಂತಾದ್ದಿವಃ ಪಪ್ರಥ ಆ ಪೃಥಿವ್ಯಾಃ |
+| 432 | `karmanimitta kīrtyarthaṃ*' [as read [?]]` → `karmanimitta kīrtyarthaṃ*' [as read]` | SECOND-PASS Q2: Kannada p.432 has ಅತಿಶಯವತ್ಕರ್ಮನಿಮಿತ್ತಕೀರ್ತ್ಯರ್ಥಂ, the same words |
+| 432 | `1-[?]-[?] [?] earlier` → `1-77-4 earlier` | SECOND-PASS Q1: Kannada p.432: ಋ. ಸಂ. ೧-೭೭-೪ for the same compound (ವಾಜಪ್ರಸೂತಾ) |
+| 432 | `, Pā. Sū. 3-4-101 [?])` → `)` | SECOND-PASS S3: Kannada p.432 and p.433 have no number after ತಸ್ಥಸ್ಥಮಿಪಾಮ್— |
+| 433 | ` (Pā. Sū. 5-2-127 [?])` → `` | SECOND-PASS S3: Kannada p.433 has no number after ಅರ್ಶಆದಿಭ್ಯೋಚ್— |
+| 433 | ` (Pā. Sū. 6-4-51 [?])` → `` | SECOND-PASS S3: Kannada p.433 has no number after ಣೇರನಿಟಿ— |
+| 435 | `(Ni. 7-[?] [?])` → `(Ni. 9-27)` | SECOND-PASS Q1: Kannada p.435: ದರ್ಶನಾಯ ( ನಿ. ೯-೨೭ ) |
+| 436 | `; the second citation's text is read with doubt from the blotted print [?])` → `)` | SECOND-PASS Q2: Kannada p.436 has ಮಹತ್ತೇ ವಿಷ್ಣೋ ಅಭಿಚಕ್ಷ್ಯಂ ಕೃತಂ ಪಶ್ಯೇಮ ತುರ್ವಶಂ ಯದುಂ ( ಋ. ಸಂ. ೮-೪-೭ ), the same text and number |
+| 436 | `(Ṛ. Saṃ. 1-113-8; text as read [?])` → `(Ṛ. Saṃ. 1-124-4)` | SECOND-PASS Q1: Kannada p.436 gives ಅದ್ಮಸನ್ನ ಸಸತೋ ಬೋಧಯಂತೀ … as ಋ. ಸಂ. ೧-೧೨೪.೪ (1-113-8 belongs to the next line) |
+| 436 | `(Ṛ. Saṃ. 7-79-1 [?])` → `(Ṛ. Saṃ. 7-79-1)` | SECOND-PASS Q2: Kannada p.436: ವ್ಯು ಷಾ ಅವಃ ಪಥ್ಯಾ … ( ಋ. ಸಂ. ೭-೭೯-೧ ) |
+| 437 | `tatkāmasya manāyoḥ* [as read [?]]` → `tatkāmasya manāyoḥ* [as read]` | SECOND-PASS Q2: Kannada p.437 has ಮನ್ಯತೇರರ್ಚತಿಕರ್ಮಣೋ ಮನಾ ಸ್ತುತಿರುಚ್ಯತೇ । ತತ್ಕಾಮಸ್ಯ ಮನಾಯೋಃ, the same words |
+| 437 | ` (Ni. 3-[?] [?])` → `` | SECOND-PASS S3: Kannada p.437 has no number after ೪೪ ಪೂಜಾಕರ್ಮನಾಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿರುವುದರಿಂದ |
+| 437 | `(Ṛ. Saṃ. 4-24-3; the numerals as read [?])` → `(Ṛ. Saṃ. 4-25-5)` | SECOND-PASS Q1: Kannada p.437: ಪ್ರಿಯಃ ಸುಕೃತ್ಪ್ರಿಯ ಇಂದ್ರೇ ಮನಾಯುಃ … ( ಋ. ಸಂ. ೪-೨೫-೫ ) |
+| 437 | `(Ṛ. Saṃ. 4-21-2 [?])` → `(Ṛ. Saṃ. 4-24-7)` | SECOND-PASS Q1: Kannada p.437: ಪ್ರತಿ ಮನಾಯೋರುಚಥಾನಿ ಹರ್ಯನ್ … ( ಋ. ಸಂ. ೪-೨೪-೭ ) |
+| 437 | ` (Pā. Sū. 3-2-59 [?])` → `` | SECOND-PASS S3: Kannada p.437 has no number after ಋತ್ವಿಕ್‌ದಧೃಕ್— |
+| 437 | ` (Pā. Sū. 6-4-24 [?])` → `` | SECOND-PASS S3: Kannada p.437 has no number after ಅನಿದಿತಾಂ ಹಲಉಪ— |
+| 437 | ` (Pā. Sū. 1-4-18 [?])` → `` | SECOND-PASS S3: Kannada p.437 has no number after ಯಚಿ ಭಮ್— |
+| 438 | `(Pā. Sū. 3-1-55 [?])` → `(Pā. Sū. 3-1-55)` | SECOND-PASS Q2: Kannada p.438: ಪುಷಾದಿದ್ಯುತಾದಿ-(ಪಾ. ಸೂ. ೩-೧-೫೫) |
+| 440 | `'jāṇanāda' [?]]` → `'jāṇanāda']` | SECOND-PASS Q2: Kannada p.440 has ಕೃತ್ನುಃ—ಜಾಣನಾದ |
+| 441 | `पुराणे देवी युवतिः` → `पुराणी देवी युवतिः` | SECOND-PASS Q1: Kannada p.441: ಪುರಾಣೀ ದೇವೀ ಯುವತಿಃ ಪುರಂಧಿರನು ವ್ರತಂ ಚರಸಿ ವಿಶ್ವವಾರೇ (Devanagari line; applied with its IAST twin) |
+| 441 | `*purāṇe devī yuvatiḥ puraṃdhir anu vrataṃ carasi viśvavāre |*  (Ṛ. Saṃ. 3-61-1; the Saṃhit` → `*purāṇī devī yuvatiḥ puraṃdhir anu vrataṃ carasi viśvavāre |*  (Ṛ. Saṃ. 3-61-1)` | SECOND-PASS Q1: Kannada p.441: ಪುರಾಣೀ ದೇವೀ ಯುವತಿಃ … (ಋ. ಸಂ. ೩-೬೧-೧); IAST twin of the Devanagari edit |
+| 442 | `(Ni. 6-11 [?])` → `(Ni. 8-11)` | SECOND-PASS Q1: Kannada p.442: ಶುಂಭಮಾನಾಃ—ಶುಶೋಭಿಷಮಾಣಾಃ (ನಿ. ೮-೧೧) |
+| 442 | `gatikarmaṇaḥ* (Ni. 3-[?] [?])` → `gatikarmaṇaḥ* (Ni. 2-6)` | SECOND-PASS Q1: Kannada p.442: ವಿರಿತಿ ಶಕುನಿನಾಮ ವೇತೇರ್ಗತಿಕರ್ಮಣಃ । (ನಿ. ೨-೬) |
+| 443 | `(Ni. 5-[?] [?])` → `(Ni. 5-22)` | SECOND-PASS Q1: Kannada p.443: ಋಕ್ಕನ್ನು ಉದಹರಿಸುತ್ತಾರೆ. (ನಿ. ೫-೨೨) |
+| 443 | `(Ṛ. Saṃ. 10-43-5; the Saṃhitā text as read, doubtful [?])` → `(Ṛ. Saṃ. 10-43-5)` | SECOND-PASS Q2: Kannada p.443 has ಕೃತಂ ನ ಶ್ವಘ್ನೀ ವಿ ಚಿನೋತಿ ದೇವನೇ ಸಂವರ್ಗಂ ಯನ್ಮಘವಾ ಸೂರ್ಯಂ ಜಯತ್ (ಋ. ಸಂ. ೧೦-೪೩-೫), the same text and number |
+| 443 | `Ṛ. Saṃ. 5-[?]-4 [?]; and 10-[?]-5 [?]; 6-[?]-2 [?] [the print's numerals], the word means ` → `Ṛ. Saṃ. 2-12-4; and 4-20-3, the word means *vyādha*, hunter, and in 10-42-9; 10-43-5; 8-45` | SECOND-PASS Q1: Kannada p.443: ೨-೧೨-೪; ೪-೨೦-೩ (ವ್ಯಾಧ) and ೧೦-೪೨-೯; ೧೦-೪೩-೫; ೮-೪೫-೩೮ (ಕಿತವ) – the five places other than this Ṛk |
+| 443 | ` (Pā. Sū. 7-3-79 [?])` → `` | SECOND-PASS S3: Kannada p.443 has no sūtra number at this rule |
+| 443 | ` (Pā. Sū. 7-2-82 [?])` → `` | SECOND-PASS S3: Kannada p.443 has no sūtra number at this rule |
+| 443 | ` (Pā. Sū. 6-1-186 [?])` → `` | SECOND-PASS S3: Kannada p.443 has no sūtra number at this rule |
+| 443 | ` (Pā. Sū. 4-1-15 [?])` → `` | SECOND-PASS S3: Kannada p.443 has no sūtra number at this rule |
+| 443 | ` (Pā. Sū. 8-4-2 [?])` → `` | SECOND-PASS S3: Kannada p.443 has no sūtra number at this rule |
+| 446 | `(Ṛ. Saṃ. 3-[?]-6 [?]; the numerals as read, doubtful)` → `(Ṛ. Saṃ. 5-80-6)` | SECOND-PASS Q1: Kannada p.446: ವ್ಯೂರ್ಣ್ವತೀ ದಾಶುಷೇ … ಪೂರ್ವಥಾಕಃ । ಮು. ಸ. ೫-೮೦-೬ (abbreviation printed ಮು. ಸ.) |
+| 446 | `Ṛ. Saṃ. 6-[?]-3 [?], the explanation` → `Ṛ. Saṃ. 9-94-2, the explanation` | SECOND-PASS Q1: Kannada p.446: ಋ. ಸಂ. ೯-೯೪-೨ ಮುಂತಾದ ಋಕ್ಕುಗಳಲ್ಲಿ ಸ್ವತೇಜಸಾ ಆಚ್ಛಾದಯನ್ |
+| 447 | `(Ni. 3-[?] [?])` → `(Ni. 3-19)` | SECOND-PASS Q1: Kannada p.447: ಆರು ಅಂತರ್ಹಿತ ನಾಮಗಳಲ್ಲಿ … (ನಿ. ೩-೧೯) |
+| 447 | `Ṛ. Saṃ. 3-[?]-3 [?]; 5-[?]-[?] [?]; 8-[?]-3 [?]; 10-[?]-6 [?] the word` → `Ṛ. Saṃ. 2-29-2; 5-45-55; 8-97-3; 10-77-6 the word` | SECOND-PASS Q1: Kannada p.447: ಋಂ. ಸಂ. ೨-೨೯-೨ : ೫-೪೫-೫೫ ; ೮-೯೭-೩ ; ೧೦-೭೭-೬ (5-45-55 applied as printed) |
+| 447 | `page 2[?] of Bāl Gaṅgādhar Tilak's book *The Arctic Home in the Vedas* [as printed; the pa` → `page 176 of Bāl Gaṅgādhar Tilak's book *The Arctic Home in the Vedas*.)` | SECOND-PASS Q1: Kannada p.447: ೧೭೬ ನೆಯ ಪುಟದಲ್ಲಿ |
+| 448 | `; numerals as read; the first word is printed *īyuṣṭe* [?])` → `)` | SECOND-PASS Q2: Kannada p.448: ಈಯುಷ್ಟೇ ಯೇ ಪೂರ್ವತರಾಮಪಶ್ಯನ್ … (ಋ. ಸಂ. ೧-೧೧೩-೧೧), same number and first word |
+| 448 | `Ṛ. Saṃ. 10-[?]-20 [?] (Ni. 12-[?] [?])` → `Ṛ. Saṃ. 10-85-20 (Ni. 12)` | SECOND-PASS Q1: Kannada p.448: ಋ. ಸಂ. ೧೦-೮೫-೨೦ನೇ ಋಕ್ಕನ್ನು ಉದಹರಿಸುತ್ತಾರೆ. ( ನಿ. ೧೨- ) (the Nirukta number after 12- is blank in the print) |
+| 448 | ` (Pā. Sū. 8-3-9 [?])` → `` | SECOND-PASS S3: Kannada p.449 has no number after ದೀರ್ಘಾದಟ ಸಮಾನಪಾದೇ— |
+| 449 | ` (Pā. Sū. 8-3-3 [?])` → `` | SECOND-PASS S3: Kannada p.449/460 has no number here after ಆತೋಟಿ ನಿತ್ಯಮ್ on p.449 |
+| 449 | ` (Pā. Sū. 3-1-66 [?])` → `` | SECOND-PASS S3: Kannada p.449 has no number after ಚಿಣ್‌ಭಾವಕರ್ಮಣೋಃ— |
+| 449 | ` (Pā. Sū. 1-1-37 [?])` → `` | SECOND-PASS S3: Kannada p.449 has no number after ಸ್ವರಾದಿನಿಪಾತಮವ್ಯಯಮ್ |
+| 450 | `Pā. Sū. 3-1-49 [?] cleḥ sic` → `Pā. Sū. 3-1-49-58 cleḥ sic` | SECOND-PASS Q1: Kannada p.450: ಪಾ ೩-೧-೪೯-೫೮ । ಚೇಃ ಸಿಚ್ (IAST twin of the Devanagari edit) |
+| 450 | `पा. सू. ३-१-४९ ` → `पा. सू. ३-१-४९-५८ ` | SECOND-PASS Q1: Kannada p.450: ಪಾ ೩-೧-೪೯-೫೮ । ಚೇಃ ಸಿಚ್ (Devanagari line; applied with its IAST twin) |
+| 451 | `(Ni. 1-[?] [?])` → `(Ni. 3-24)` | SECOND-PASS Q1: Kannada p.451: ೩೭ ನದೀನಾಮಗಳಲ್ಲಿ … (ನಿ. ೩-೨೪) |
+| 452 | `English insertions [?].)*` → `English insertions.)*` | SECOND-PASS Q2: Kannada p.452 has the sentence ಈ ರೀತಿ ೧-೯೨-೧೧ ಮತ್ತು ೧-೯೨-೧೨ … ಶ್ಲಾಘಿಸುತ್ತಾರೆ, as read |
+| 453 | ` (Pā. Sū. 6-1-108 [?])` → `` | SECOND-PASS S3: Kannada p.453 has no number after ಸಂಪ್ರಸಾರಣಾಚ್ಚ— |
+| 453 | `in the fifth Ṛk of this very sūkta [92.9 [?]]` → `in the ninth Ṛk of this very sūkta [92.9]` | SECOND-PASS Q1: Kannada p.453: ಇದೇ ಸೂಕ್ತದ ೯ ನೇ ಮಂತ್ರದಲ್ಲಿ ವ್ಯಾಖ್ಯಾತವಾಗಿದೆ |
+| 453 | ` (Pā. Sū. 8-2-29 [?])` → `` | SECOND-PASS S3: Kannada p.453 has no number after ಸ್ಕೋಸಂಯೋಗಾದ್ಯೋರಂತೇಚ— |
+| 454 | `is clotted in the print [?].]"` → `is clotted in the print.]"` | SECOND-PASS Q2: Kannada p.454 reads the clause clearly: ಅಸ್ಮಿನ್ಪಕ್ಷ ಏತ ಐ । ಪಾ. ೩-೪-೯೩ । ಇತ್ಯೈತ್ವಾಭಾವೋ ವ್ಯತ್ಯಯೇನ ದ್ರಷ್ಟವ್ಯಃ । ಯದ್ವೃತ್ತಯೋಗಾದನಿಘಾತಃ |
+| 455 | `(Ni. 3-[?] [?]); so the meaning` → `(Ni. 3-2); so the meaning` | SECOND-PASS Q1: Kannada p.455: ಹದಿನೈದು ಅಪತ್ಯನಾಮಗಳಲ್ಲಿ … ( ನಿ. ೩-೨ ) |
+| 455 | `(Ni. 10-[?] [?])."` → `(Ni. 10-7)."` | SECOND-PASS Q1: Kannada p.455: ವಿವರಿಸುತ್ತಾರೆ. (ನಿ. ೧೦-೭) |
+| 456 | `(Ṛ. Saṃ. 4-251-9; read as printed, the first words *uṣo maghonyā* [?])` → `(Ṛ. Saṃ. 4-55-9; read as printed, the first words *uṣo maghonyā*)` | SECOND-PASS Q1: Kannada p.456: ಉಷೋ ಮಘೋನ್ಯಾ ವಹ ಸೂನೃತೇ … ( ಮು. ಸಂ. ೪-೫೫-೯ ) (abbreviation printed ಮು. ಸಂ.) |
+| 456 | `the print gives *hṛñ*, as read [?]]` → `the print gives *hṛñ*, as read]` | SECOND-PASS Q2: Kannada p.456 has ಹೃಞ್ ಹರಣೇ ಧಾತು |
+| 456 | ` (Pā. Sū. 3-4-87 [?])` → `` | SECOND-PASS S3: Kannada p.456 has no number after ಸೇರ್ಹ್ಯಪಿಚ್ಚ— |
+| 456 | `hence the root's form here [?].]` → `hence the root's form here.]` | SECOND-PASS Q2: Kannada p.456 has ಹೃಗ್ರಹೋರ್ಭಶ್ಚಂದಸಿ—ಎಂಬುದರಿಂದ, the rule as cited |
+| 456 | `(Pā. Sū. 3-4-93 [?])` → `(Pā. Sū. 3-4-93)` | SECOND-PASS Q2: Kannada p.456: ಏತಐ (ಪಾ. ಸೂ. ೩-೪-೯೩) |
+| 457 | `का. ६-१-१८६-१ इति` → `का. ६-१-१७६-१ इति` | SECOND-PASS Q1: Kannada p.457: ಕಾ. ೬-೧-೧೭೬-೧ (Devanagari line; applied with its IAST twin) |
+| 457 | `Kā. 6-1-186-1 [?] iti` → `Kā. 6-1-176-1 iti` | SECOND-PASS Q1: Kannada p.457: ಕಾ. ೬-೧-೧೭೬-೧ (IAST twin of the Devanagari edit) |
+| 457 | `(Pā. Sū. 6-1-37 [?])` → `(Pā. Sū. 6-1-37-6)` | SECOND-PASS Q1: Kannada p.458: ರಯೇರ್ಮತ್ ಬಹುಲಮ್-(ಪಾ. ಸೂ. ೬-೧-೩೭-೬) |
+| 457 | `(Kā. 6-1-186 [?])` → `(Kā. 6-1-176-1)` | SECOND-PASS Q1: Kannada p.458: ರೇಶಬ್ದಾಚ್ಚ ಮತುಪ ಉದಾತ್ತತ್ವಂ ವಕ್ತವ್ಯಂ (ಕಾ. ೬-೧-೧೭೬-೧) |
+| 457 | `(Ni. 1-[?] [?])` → `(Ni. 2-18)` | SECOND-PASS Q1: Kannada p.458: ಹದಿನಾರು ಉಷೋನಾಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿವೆ. ( ನಿ. ೨-೧೮ ) |
+| 458 | ` (Pā. Sū. 5-2-94 [?])` → `` | SECOND-PASS S3: Kannada p.458 has no number after ತದಸ್ಯಾ—ಸೂತ್ರದಿಂದ |
+| 458 | ` (Pā. Sū. 8-2-9 [?])` → `` | SECOND-PASS S3: Kannada p.458 has no number after ಮಾಡುಪಧಾಯಾಶ್ಚ— |
+| 458 | ` (Pā. Sū. 8-1-18 [?])` → `` | SECOND-PASS S3: Kannada p.458 has no number after ಅಪಾದಾದ್— |
+| 459 | `(Ni. 2-[?] [?])` → `(Ni. 2-28)` | SECOND-PASS Q1: Kannada p.459: ಅರುಣಾ ಗಾವ ಉಷಸಾಂ । … (ನಿ. ೨-೨೮) |
+| 460 | `वहन्त्वरुणास्व उप` → `वहन्त्वरुणप्सव उप` | SECOND-PASS Q1: Kannada p.460: ವಹಂತ್ವರುಣಪ್ಸವ ಉಪ ತ್ವಾ ಸೋಮಿನೋ ಗೃಹಂ (Devanagari line; applied with its IAST twin) |
+| 460 | `*vahantv aruṇāsva upa tvā sominaḥ gṛham |*  (Ṛ. Saṃ. 1-14-[?] [?]; the Saṃhitā text as rea` → `*vahantv aruṇapsava upa tvā sominaḥ gṛham |*  (Ṛ. Saṃ. 1-49-1)` | SECOND-PASS Q1: Kannada p.460: ವಹಂತ್ವರುಣಪ್ಸವ ಉಪ ತ್ವಾ ಸೋಮಿನೋ ಗೃಹಂ (ಋ. ಸಂ. ೧-೪೯-೧) (IAST twin of the Devanagari edit) |
+| 460 | `Ṛks 1-30-22 [?]; 1-48-1 [?]; 8-[?]-3 [?]; 4-30-2 [?] and many` → `Ṛks 1-30-22; 1-48-1; 9-11-5; 4-51-7 and many` | SECOND-PASS Q1: Kannada p.460: ೧-೩೦-೨೨ ; ೧-೪೮-೧ ; ೯--೧೧-೫ ; ೪-೫೧-೭ (the doubled hyphen of ೯--೧೧-೫ read as 9-11-5) |
+| 460 | ` (Pā. Sū. 3-4-80 [?])` → `` | SECOND-PASS S3: Kannada p.460 has no sūtra number at this rule |
+| 460 | ` (Pā. Sū. 8-2-30 [?])` → `` | SECOND-PASS S3: Kannada p.460 has no sūtra number at this rule |
+| 460 | ` (Pā. Sū. 8-4-55 [?])` → `` | SECOND-PASS S3: Kannada p.460 has no sūtra number at this rule |
+| 460 | ` (Pā. Sū. 8-3-59 [?])` → `` | SECOND-PASS S3: Kannada p.460 has no sūtra number at this rule |
+| 460 | ` (Pā. Sū. 5-1-129 [?])` → `` | SECOND-PASS S3: Kannada p.460 has no sūtra number at this rule |
+| 461 | `stūyete [?] |` → `stūyete |` | SECOND-PASS Q2: Kannada p.461 has ... ತೃಚೇನ ಸ್ತೂಯೇತೇ ।, the same words |
+| 461 | ` (the reading of this clause is doubtful [?])` → `` | SECOND-PASS Q2: Kannada p.461 reads the clause clearly: ಉಷಃಸಾಹಚರ್ಯಾದ್ಬುದ್ಧಿಸ್ಥಾವಶ್ವಿನಾವಿದಮಾದಿಕೇನ ತೃಚೇನ ಸ್ತೂಯೇತೇ |
+| 462 | `where a *pañcamī* would be expected [?])` → `where a *pañcamī* would be expected)` | SECOND-PASS Q2: Kannada p.462 has ಸುಪಾಂ ಸುಲುಗಿತಿ ಷಷ್ಠ್ಯಾ ಲುಕ್, the print reading as noted |
+| 462 | `(Ā. 4-14 [?])` → `(Ā. 4-15)` | SECOND-PASS Q1: Kannada p.462: ... ತೃಚೌ ಎಂಬ ಸೂತ್ರದಿಂದ ವಿವೃತವಾಗಿರುವುದು (ಆ. ೪-೧೫) |
+| 463 | `*vartiṣā* [or similar; the printed Sanskrit before it is clotted [?]]` → `*vartanyā*` | SECOND-PASS Q1: Kannada p.463: ಸಾಯಣರೂ ವರ್ತನ್ಯಾ । ಪ್ರಸಿದ್ಧೇನ ಪಥಾ |
