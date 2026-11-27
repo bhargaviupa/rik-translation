@@ -14913,6 +14913,129 @@ Sūkta 183. Maṇḍala 1; Anuvāka 24; Sūkta 183. Aṣṭaka 2; Adhyāya 4; Va
 > तं । युं॑जाथां॒ । मन॑सः ।॒ यः । जवी॑यान् । त्रिवंधु॒रः । वृ॑षणा॒ । यः । त्रि॑च॒क्रः ।  
 > येन । उ॑पया॒र्थः । सु॒कृतः ।॑ दुरो॒णं । त्रि॒धातु॑ना । पतथः ।॒ विः । न । प॒र्णैः ॥
 
+### Printed p. 625
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषणा वर्षकौ कामानां युवां तं वक्ष्यमाणगुणविशिष्टं रथं
+> युंजाथां । योजयतं । तमित्युक्तं कमित्याह । यो रथस्त्रिवंधुरः त्रिप्रकारसारथिस्थानः । वंधुरं रथिनः स्थानमित्याहुः ! आ याह्यर्वाजुप वंधुरेष्ठाः ।
+> ऋ. ३-४३-१ । इत्यादिमंत्रांतरात् । यश्च त्रिचक्रः चक्रत्रयोपेतः । पुनः स एव
+> विशेष्यते । येन रथेनोपयाथः उपगच्छथः । किं । सुकृतः शोभनसोमाख्यकर्मवतो यजमानस्य दुरोणं । गृहनामैतत् । यागगृहं । येनेत्युक्तं
+> केनेत्याह । त्रिधातुना त्रिप्रकारस्थानोपेतेन सुवर्णरजतताम्रधातृत्रयोपेतेन
+> वा रथेन । गमने दृष्टांतः । विर्न पर्णॆ पक्षी पक्षैर्यथा शीघ्रमप्रयत्नेन
+> गच्छति तद्वदुक्तलक्षणेन रथेन पतथः । गच्छथः ॥
+
+##### Gist of the bhāṣya
+
+"O showerers" (वृषणा (*vṛṣaṇā*)), that is, O showerers of desires, harness (युंजाथां (*yuṃjāthāṃ*): yoke) that chariot which has the qualities about to be stated. Having said "that", he states which one: the chariot that is त्रिवंधुरः (*trivaṃdhuraḥ*), having three kinds of charioteer's place. The place of the chariot-rider is called वंधुरं (*vaṃdhuraṃ*); he cites another mantra, Ṛ. Saṃ. 3-43-1, आ याह्यर्वाजुप वंधुरेष्ठाः (*ā yāhyarvājupa vaṃdhureṣṭhāḥ*). The chariot that is also त्रिचक्रः (*tricakraḥ*), possessing three wheels. The same chariot is then further characterised: that by which you two approach (उपयाथः (*upayāthaḥ*)), that is, go to, the house (दुरोणं (*duroṇaṃ*), a word meaning "house"; here the sacrificial house) of the sacrificer who is सुकृतः (*sukṛtaḥ*), one who performs the excellent rite called Soma. Having said "by which", he states by what: by one that is त्रिधातुना (*tridhātunā*), possessed of three kinds of station, or possessed of the three metals gold, silver and copper. The example for the going is विर्न पर्णॆ (*virna parṇè*): as a bird goes swiftly, without effort, with its wings, so you two go (पतथः (*patathaḥ*)) with the chariot of the described character.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे वृषणा (*he vṛṣaṇā*)—O Aśvin deities, showerers of desires
+- यः (*yaḥ*)—which chariot
+- त्रिवंधुरः (*trivaṃdhuraḥ*)—has three kinds of charioteer's place, and
+- मनसः जवीयान् (*manasaḥ javīyān*)—swifter than the mind
+- यः (*yaḥ*)—which
+- त्रिचक्रः (*tricakraḥ*)—has three wheels
+- त्रिधातुना (*tridhātunā*)—endowed with the three metals, characterised as gold, silver and copper
+- येन (*yena*)—by which chariot
+- विः (*viḥ*)—a bird
+- पर्णैः न (*parṇaiḥ na*)—as it moves easily with its wings
+- पतथः (*patathaḥ*)—you go
+- येन (*yena*)—and by which chariot
+- सुकृतः (*sukṛtaḥ*)—of the sacrificer who is the performer of good rites (of the excellent Soma sacrifice)
+- दुरोणं (*duroṇaṃ*)—to the house
+- उप याथः (*upa yāthaḥ*)—you come
+- तं (*taṃ*)—that chariot
+- युंजाथां (*yuṃjāthāṃ*)—harness, you two
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, showerers of desires, harness your chariot, which has three kinds of charioteer's place, which is swifter than the mind, which has three wheels, which is made of the metals gold, silver and copper, which is suited to your travelling without effort like birds, and which is the vehicle that carries you to the houses of the doers of good rites, and come to our sacrificial hall.
+
+##### English translation (H. H. Wilson)
+Showerers of benefits, harness the car which has three benches, three wheels, and is as quick as thought with which, embellished with three metals, you come to the dwelling of the pious (worshipper), and in which you travel like a bird with wings.
+
+### Printed p. 626
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too there is a description of the chariot of the Aśvin deities. The import of epithets such as त्रिचक्रः (*tricakraḥ*), त्रिवंधुरः (*trivaṃdhuraḥ*), मनसः जवीयान् (*manasaḥ javīyān*) has been explained earlier. In the present context we must examine in what way the epithets त्रिचक्रः (*tricakraḥ*) and त्रिवंधुरः (*trivaṃdhuraḥ*) convey the all-pervasiveness of the Aśvin deities. Just as the pervasiveness of Viṣṇu is understood from sentences such as त्रिषु विक्रमणेषु (*triṣu vikramaṇeṣu*), and the all-pervasiveness of Agni from sentences such as त्रीणि जाना परिभूषंति (*trīṇi jānā paribhūṣaṃti*), so the nature of the Aśvin deities is understood from epithets such as त्रिचक्रः (*tricakraḥ*). It is noteworthy that the descriptions of Agni, Viṣṇu, Savitṛ and the Aśvin deities all set forth one and the same principle, and that in all contexts they set forth a feature common to all these deities. The English scholar Hopkins, explaining this point, has put it as follows.
+
+A comparison with the abodes of other Vedic Deities who are said to traverse the whole Universe like Vishnu confirms the same view. One of these deitics is सवितृ (*savitṛ*). The second deity that traverses or measures the Universe is अग्नि (*agni*). He has three stations. his light is spoken of as three-fold. Although these three stations do not seem to be always conceived alike, yet, one of them at any rate can be clearly identified with the third step of Vishnu. Agni somtimes represents the Sun in the Rig-Veda and Vishnu is also the same Sun under a different name and the third or the hidden abode of Agni can therefore, be easily recognised as identical in character. The third Deity that traverses the Universe is the Aswins to whom the epithet परिज्मन् (*parijman*) is applied several times in the Rig-Veda. The Aswins are said to have three stations and their chariot which is to go over both the worlds alike has three wheels one of which is represented as deposited in a cave or a secret place like the third step of Vishnu which is beyond the ken of mortals. This coincidence between the third stations of three different world-traversing Gods cannot be treated as accidental. (J. A. O. S. Vol. 16. p. CXLIX to CL.)
+
+Two points are clearly understood from the above sentences. First: the three worlds, earth, heaven and the atmosphere, are the abodes of Agni, Viṣṇu and the Aśvin deities; second,
+
+### Printed p. 627
+that these three deities have three steps each, and the third step of every one of these deities occupies a world inaccessible to man. Both these points are noteworthy. If we examine only some of the sentences describing the first point:
+
+प्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः । यस्कोरुषु त्रिषु विक्रमणेष्वधिक्षियंति भुवनानि विश्वा ॥ (*pra tadviṣṇuḥ stavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭhāḥ | yaskoruṣu triṣu vikramaṇeṣvadhikṣiyaṃti bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 1-154-2)
+
+यस्य श्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदंति । य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा ॥ (*yasya śrī pūrṇā madhunā padānyakṣīyamāṇā svadhayā madaṃti | ya u tridhātu pṛthivīmuta dyāmeko dādhāra bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 1-154-4)
+
+त्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्पु । पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्टु ॥ (*trīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamappu | pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭu ‖*) (Ṛ. Saṃ. 1-95-3)
+
+अग्निस्त्रीणि त्रिधातून्या क्षेति विदथा कविः । स त्रीरेकादशा इह यक्षच्च पिप्रयच्च नो विप्रो दूतः परिष्कृतो नभंतामन्यके समे ॥ (*agnistrīṇi tridhātūnyā kṣeti vidathā kaviḥ | sa trīrekādaśā iha yakṣacca piprayacca no vipro dūtaḥ pariṣkṛto nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8-39-9)
+
+त्रीणि पदान्यश्विनोराविः सांति गुहा परः । कवी ऋतस्य पत्मभिरर्वाज्जीवेभ्यस्परि ॥ (*trīṇi padānyaśvinorāviḥ sāṃti guhā paraḥ | kavī ṛtasya patmabhirarvājjīvebhyaspari ‖*) (Ṛ. Saṃ. 8-8-23)
+
+Of these Ṛks, the first two describe the pervasiveness of Viṣṇu. Accordingly: all created beings dwell, established, in the very extensive, three-numbered strides of Viṣṇu. The three imperishable strides of Viṣṇu, filled with sweet nectar, delight those who depend on them with the gift of pure food. And the same Viṣṇu has upheld all fourteen worlds, the seven lower worlds and the seven upper worlds, as though joined with the त्रिधातु (*tridhātu*) in the form of earth, water and fire; thus the pervasiveness of Viṣṇu's three steps is described. In the third and fourth Ṛks the nature of Agni is stated. Agni has three birth-places: one in the sea in the form of the submarine fire, one in the heaven-world in the form of the Sun, and one in the atmosphere in the form of lightning. And this same Agni has occupied the त्रिधातु (*tridhātu*); thus the pervasion of the three worlds by Agni is described. In the same way, in the fifth Ṛk there is a description of the three steps of the Aśvin deities; and just as the abodes of Viṣṇu and Agni have been described,
+
+### Printed p. 628
+इदं हि वां प्रदिवि स्थानमोक इमे गृहा अश्विनेदं दुरोणं । आ नो दिवो बृहतः पर्वतादाद्भ्यो यातमिषमूर्ज० वहंता ॥ (*idaṃ hi vāṃ pradivi sthānamoka ime gṛhā aśvinedaṃ duroṇaṃ | ā no divo bṛhataḥ parvatādādbhyo yātamiṣamūrja0 vahaṃtā ‖*) (Ṛ. Saṃ. 5-76-4)
+
+here the three worlds, earth, atmosphere and heaven, are described as the abodes of the Aśvin deities also. One more point must be noted in these descriptions. In Ṛk 1-154-4, which describes the strides of Viṣṇu, in Ṛk 8-39-9, which describes the pervasiveness of Agni, and in the present Ṛk (1-183-1), which describes the chariot-travel of the Aśvin deities, the word त्रिधातु (*tridhātu*) is a word indicating the common nature of these three deities. Secondly, the description that the third step (or station) of all of them is in a secret place beyond the ken shows the common nature that all possess.
+
+विष्णुरित्था परममस्य विद्वाञ्जातो बृहन्नभि पाति तृतीयं । आसा यदस्य पयो अक्रत स्वं सचेतसो अभ्यर्चंत्यत्र ॥ (*viṣṇuritthā paramamasya vidvāñjāto bṛhannabhi pāti tṛtīyaṃ | āsā yadasya payo akrata svaṃ sacetaso abhyarcaṃtyatra ‖*) (Ṛ. Saṃ. 10-1-3)
+
+कं इमं वो निण्यमा चिकेत वत्सो मात्यर्जनयत स्वधाभिः । (*kaṃ imaṃ vo niṇyamā ciketa vatso mātyarjanayata svadhābhiḥ |*) (Ṛ. Saṃ. 1-95-4)
+
+) द्वे इदस्य क्रमणे स्वर्दृशोऽभिख्याय मर्त्यो भुरण्यति । तृतीयमस्य नकिरा दधर्षति वयश्चन पतयंतः पतत्रिणः ॥ (*) dve idasya kramaṇe svardṛśo 'bhikhyāya martyo bhuraṇyati | tṛtīyamasya nakirā dadharṣati vayaścana patayaṃtaḥ patatriṇaḥ ‖*) (Ṛ. Saṃ. 1-155-5)
+
+In Ṛks such as these it is stated that the third station of Agni and the occupation of the third step of Viṣṇu cannot be known by any man. "Man comes to know, by praising, only the earth-world and the atmosphere-world, where Viṣṇu, the viewer of the heaven-world, places two steps; the world where this Viṣṇu places the third step no man can ever know." Just as this is said, so the course of the three-wheeled chariot of the Aśvin deities and its movement beyond the ken are described.
+
+यदयातं शुभस्पती वरेयं सूर्यामुप । क्वैकं चक्रं वामासीत्त्व देष्टाय तस्थथुः ॥ द्वे ते चक्रे सूर्ये ब्रह्माण ऋतुथा विदुः । अथैकं चक्रं यद्दुहा तदद्धातय इद्दिदुः ॥ (*yadayātaṃ śubhaspatī vareyaṃ sūryāmupa | kvaikaṃ cakraṃ vāmāsīttva deṣṭāya tasthathuḥ ‖ dve te cakre sūrye brahmāṇa ṛtuthā viduḥ | athaikaṃ cakraṃ yadduhā tadaddhātaya iddiduḥ ‖*) (Ṛ. Saṃ. 10-85-15, 16)
+
+### Printed p. 629
+Here it is described that of the three wheels of the chariot of the Aśvin deities one alone is visible to no eye, and is known only to the seers who have the power of vision. In this way, in the description of their extraordinary nature, a common character of the three deities is shown in two principal points. It has also been stated all along earlier that the three deities are of the nature of the Sun. In the epithets त्रिचक्रः (*tricakraḥ*), त्रिबर्हिः (*tribarhiḥ*), त्रिषधस्थः (*triṣadhasthaḥ*), त्रिवंधुरः (*trivaṃdhuraḥ*), त्रिविक्रमः (*trivikramaḥ*) and the like a symbolic meaning is indicated; the same matter is stated in the present Ṛk also. And as stated above, since their all-pervasiveness is conveyed by the word त्रिधातु (*tridhātu*), one must understand what the word त्रिधातु (*tridhātu*) means.
+
+The meaning given is: त्रिधातुना (*tridhātunā*), with a chariot त्रिप्रकारस्थानोपेतेन (*triprakārasthānopetena*), or सुवर्णरजतताम्रधातुत्रयोपेतेन (*suvarṇarajatatāmradhātutrayopetena*). For the word त्रिधातु (*tridhātu*) in many places it is stated: त्रयाणां धातूनां समाहारस्त्रिधातु (*trayāṇāṃ dhātūnāṃ samāhārastridhātu*); पृथिव्यप्तेजोरूपधातुत्रयविशिष्टं (*pṛthivyaptejorūpadhātutrayaviśiṣṭaṃ*), that is, the aggregate principle of the three elements, earth, water and fire. In explaining the import of this word, Sāyaṇa in some places cites the sentence
+
+तासां त्रिवृतं तिवृतमेकैकां करवाणीति सेयं देवतेमास्तिस्रो देवता अनेनैव जीवेनात्मानुप्रविश्य नामरूपे व्याकरोत् । (*tāsāṃ trivṛtaṃ tivṛtamekaikāṃ karavāṇīti seyaṃ devatemāstisro devatā anenaiva jīvenātmānupraviśya nāmarūpe vyākarot |*) (Bhā. U. 6-3-2-3) **NOTE**
+
+and says that here too is praised the greatness of the Supreme Brahman, who created the triple principle in the forms of food, water and fire, and sustained them by his own majesty. This explanation is only one of the many explanations of the word त्रिधातु (*tridhātu*). In some other places Sāyaṇa says त्रिधातु कालत्रयं गुणत्रयं वा (*tridhātu kālatrayaṃ guṇatrayaṃ vā*): it is understood either as the three times, past, future and present, or as the qualities in the form of sattva, rajas and tamas.
+
+अग्निरस्मि जन्मना जातवेदा घृतं मे चक्षुरमृतं म आसन् । अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥ (*agnirasmi janmanā jātavedā ghṛtaṃ me cakṣuramṛtaṃ ma āsan | arkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*) (Ṛ. Saṃ. 3-26-7)
+
+In this Ṛk the word त्रिधातु (*tridhātu*) is explained as प्राणापानव्यानात्मना त्रिधा वर्तमानोऽकर्कोऽर्चनीयो यः प्राणोऽस्ति सोऽपि अहमेवास्मि (*prāṇāpānavyānātmanā tridhā vartamāno 'karko 'rcanīyo yaḥ prāṇo 'sti so 'pi ahamevāsmi*): the principle of life in its three forms, prāṇa, apāna and vyāna; and
+
+यद्देवाः शर्म शरणं यद्भद्रं यदनातुरं । त्रिधातु यद्वरूथ्यं १ तदस्मासु वि यंतनानेहसो व ऊतयः सुऊतयो व ऊतयः ॥ (*yaddevāḥ śarma śaraṇaṃ yadbhadraṃ yadanāturaṃ | tridhātu yadvarūthyaṃ 1 tadasmāsu vi yaṃtanānehaso va ūtayaḥ suūtayo va ūtayaḥ ‖*) (Ṛ. Saṃ. 8-47-10)
+
+here it is explained as the three qualities in the form of sattva, rajas and tamas. Moreover,
+
+### Printed p. 630
+आ धर्णसिब्बृहद्दिवो रराणो विश्वेभिर्गन्वोमभिर्हुवानः । ग्ना वसान ओषधीरमृध्रस्त्रिधातुशृंगो वृषभो वयोधाः ॥ (*ā dharṇasibbṛhaddivo rarāṇo viśvebhirganvomabhirhuvānaḥ | gnā vasāna oṣadhīramṛdhrastridhātuśṛṃgo vṛṣabho vayodhāḥ ‖*) (Ṛ. Saṃ. 5-43-13)
+
+here there is a description of the flame of Agni. For the word त्रिधातुशृंगः (*tridhātuśṛṃgaḥ*) the explanation is given as त्रिप्रकारशृंगवदुन्नतलोहितशुक्ल कृष्णवर्णज्वालः (*triprakāraśṛṃgavadunnatalohitaśukla kṛṣṇavarṇajvālaḥ*): one who has flames raised high like horns, of three kinds, white, black and red.
+
+त्रिरा दिवः सवितर्वार्याणि दिवेदिव आ सुव त्रिर्नो अह्नः । त्रिधातु राय आ सुवा वसूनि भग त्रातर्थिषणे सातये धाः ॥ (*trirā divaḥ savitarvāryāṇi divediva ā suva trirno ahnaḥ | tridhātu rāya ā suvā vasūni bhaga trātarthiṣaṇe sātaye dhāḥ ‖*) (Ṛ. Saṃ. 3-56-6) **NOTE**
+
+Here, as an epithet of वसूनि धनानि (*vasūni dhanāni*), it is explained as त्रिधातूनि पशुकनकरत्नभेदेन त्रिप्रकाराणि (*tridhātūni paśukanakaratnabhedena triprakārāṇi*): wealth of three kinds, cattle, gold and jewels.
+
+तव त्रिधातु पृथिवी उत द्यौर्वैश्वानर व्रतमग्ने सचंत । त्वं भासा रोदसी आ ततंथाजस्रेण शोचिषा शोशुचानः ॥ (*tava tridhātu pṛthivī uta dyaurvaiśvānara vratamagne sacaṃta | tvaṃ bhāsā rodasī ā tataṃthājasreṇa śociṣā śośucānaḥ ‖*) (Ṛ. Saṃ. 7-5-4)
+
+Here, in describing that the three worlds follow the ordinance of Vaiśvānara, त्रिधातु (*tridhātu*) is used in the sense of the atmosphere, in the sequence त्रिधातु (*tridhātu*), earth, heaven.
+
+तस्य यो योनिराशय आस । तमनु परामृश्य संलुप्याच्छिनत्सैषेष्तिरभवत्तद्यदेतस्मिन्नाशये त्रिधातुरिवैषा विद्या तस्मात्त्रैधातवी नाम । (*tasya yo yonirāśaya āsa | tamanu parāmṛśya saṃlupyācchinatsaiṣeṣtirabhavattadyadetasminnāśaye tridhāturivaiṣā vidyā tasmāttraidhātavī nāma |*) (Śa. Brā. 5-5-5-6)
+
+From these sentences of the Śatapatha Brāhmaṇa it is understood that, since at the time of the slaying of the demon Vṛtra there was the support of the knowledge consisting of the three (Vedas), the iṣṭi performed on that occasion is famous by the name Traidhātavī iṣṭi.
+
+ततो वै स इमान् लोकाग् स्त्रेधाधुहत्तत्रिधातोस्त्रिधातुत्वं यं कामयेतान्नादस्स्यादिति तस्मा एतं त्रिधातुं निर्वपेदिंद्राय राज्ञे पुरोडाशमेकादशकपालं ॥ (*tato vai sa imān lokāg stredhādhuhattatridhātostridhātutvaṃ yaṃ kāmayetānnādassyāditi tasmā etaṃ tridhātuṃ nirvapediṃdrāya rājñe puroḍāśamekādaśakapālaṃ ‖*) (Tai. Saṃ. 2-3-6-1)
+
+For the word त्रिधातु (*tridhātu*) in these sentences of the Taittirīya Saṃhitā, Sāyaṇa has given the following meaning:
+
+तिस्र एतास्त्रिधातोर्देवता लोकत्रयात्मिकाः । ततः खलु त्रिधातु देवतानां त्रित्वात्पजापतिः लोकत्रयव्यापी व्याप्तानिमान् लोकांस्त्रेधा दुहत् त्रिप्रकारमदुचत् । त्रयोद्धातवो धनान्यस्मिन्निति त्रिधातुः; त्रेधा धातव्यत्वात्पुरोडाशस्य । यद्वा सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥ (*tisra etāstridhātordevatā lokatrayātmikāḥ | tataḥ khalu tridhātu devatānāṃ tritvātpajāpatiḥ lokatrayavyāpī vyāptānimān lokāṃstredhā duhat triprakāramaducat | trayoddhātavo dhanānyasminniti tridhātuḥ; tredhā dhātavyatvātpuroḍāśasya | yadvā sarvādhāralokatrayātmakatvāt tridhātuḥ ‖*) (Tai. Saṃ. Bhāṣya)
+
 ---
 
-**Progress note:** Done through printed p. 624. pp. 619-624 (batch API)
+**Progress note:** Done through printed p. 630. pp. 625-630 (batch API)
