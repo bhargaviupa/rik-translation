@@ -22912,6 +22912,252 @@ Thease pious praises glorify you, radiant Aswins : I call upon you, who are rich
 > यु॒वं चि॒त्रं द॑दथु॒र्भोज॑नं नरा॒ चोदे॑थां सू॒नृता॑वते ।  
 > अ॒र्वाग्रथं॒ सम॑नसा॒ नि य॑च्छतं॒ पिब॑तं सो॒म्यं मधु॑ ॥ २ ॥
 
+### Printed p. 553
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । चित्रं । ददथुः । भोजनं । नरा । चोदेथां । सूनृतावते ।  
+> अर्वाक् । रथं । समनसा । नि । यच्छतं । पिबतं । सोम्यं । मधु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां चित्रं चायनीयं भोजनं धनं ददथुः । धारयेथे । तद्धनं सूनृतावते स्तुतिवते स्तोत्रे चोदेथां । प्रेरयतं । तदर्थं समनसा समानमनस्कौ संतौ रथं युवयोः संबंधिनमर्वागस्मदभिमुखं नि यच्छतं । नियमतं । तथा कृत्वा सोम्यं सोमसंबंधिनं मधु मधुररसं पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you hold marvellous, desirable wealth. Impel (send) that wealth to the one who has praise (the worshipper who praises). For that purpose, being of one mind, direct your chariot, which belongs to you, towards us. Having done so, drink the sweet juice that belongs to Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin deities, leaders
+- युवं (*yuvaṃ*)—you
+- चित्रं (*citraṃ*)—attractive
+- भोजनं (*bhojanaṃ*)—wealth fit for enjoyment
+- ददथुः (*dadathuḥ*)—you possess
+- सूनृतावते (*sūnṛtāvate*)—to the excellent praiser
+- चोदेथां (*codethāṃ*)—give that wealth
+- समनसा (*samanasā*)—being of one mind
+- रथं (*rathaṃ*)—your chariot
+- अर्वाक् (*arvāk*)—towards us
+- नि यच्छतं (*ni yacchataṃ*)—drive
+- मधु (*madhu*)—sweet
+- सोम्यं (*somyaṃ*)—Soma juice
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, guides, you possess attractive wealth fit for enjoyment. Give that wealth to the excellent praiser. Being of one mind, drive your chariot towards us. Drink the sweet Soma juice.
+
+##### English translation
+You are possessed, leaders (of rites), of marvellous wealth; bestow it upon him who sincerely praises you : alike favourably-minded, direct your chariot to our presence : drink the sweet Soma beverage.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑त॒मुप॑ भूषतं॒ मध्वः॑ पिबतमश्विना ।  
+> दु॒ग्धं पयो॑ वृषणा जेन्यावसू॒ मा नो॑ मर्धिष्ट॒मा ग॑तं ॥
+
+### Printed p. 554
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यातं । उप । भूषतं । मध्वः । पिबतं । अश्विना ।  
+> दुग्धं । पयः । वृषणा । जेन्यावसू इति । मा । नः । मर्धिष्टं । आ । गतं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना युवामा यातं । आगच्छतं । आगत्य चोप समीपे भूषतं । भवतं । मध्वः मधुरं सोमरसं पिबतं । पीत्वा च हे वृषणा वर्षकौ हे जेन्यावसू जेतव्यधनौ । जितधनावित्यर्थः । युवां पयो वृष्ट्युदकमंतरिक्षाद्दुग्धं । नोऽस्मान् मा मर्धिष्टं । मा हिंस्तं । ईदृशप्रार्थनाकरणमेव हिंसा । आ गतं । आगच्छतं शीघ्रं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come; having come, be near. Drink the sweet Soma juice. Having drunk, O showerers, O you whose wealth is to be won (that is, whose wealth is won), milk the rain-water from the atmosphere. Do not harm us; to make such a prayer is itself harm. Come quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- आ यातं (*ā yātaṃ*)—come
+- उप भूषतं (*upa bhūṣataṃ*)—be near us
+- मध्वः (*madhvaḥ*)—the sweet Soma juice
+- पिबतं (*pibataṃ*)—drink
+- वृषणा (*vṛṣaṇā*)—granters of desires
+- जेन्यावसू (*jenyāvasū*)—you who have won wealth
+- पयः (*payaḥ*)—rain
+- दुग्धं (*dugdhaṃ*)—milk from the atmosphere
+- नः (*naḥ*)—us
+- मा मर्धिष्टं (*mā mardhiṣṭaṃ*)—do not harm
+- आ गतं (*ā gataṃ*)—show favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, granters of desires, who have wealth won from enemies, come to us. Drink the sweet Soma. Milk rain from the atmosphere. Without harming us, come to us.
+
+##### English translation
+Come, Aswins, tarry near us, drink of the sweet libation : showerers (of benefits), by whom riches are won, milk the rain (from the firmament): harm us not : come hither.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑सो॒ ये वा॒मुप॑ दा॒शुषो॑ गृ॒हं यु॒वां दीयं॑ति॒ बिभ्र॑तः ।  
+> म॒क्षू॒युभि॑र्नरा॒ हये॑भिरश्वि॒ना दे॑वा यातमस्म॒यू ॥ ४ ॥
+
+### Printed p. 555
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वासः । ये । वां । उप । दाशुषः । गृहं । युवां । दीयंति । बिभ्रतः ।  
+> मक्षुयुऽभिः । नरा । हयेभिः । अश्विना । आ । देवा । यातं । अस्मयू इत्यस्मऽयू ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येऽश्वासोऽश्वा वां युवयोः स्वभूता दाशुषो हविर्दातुर्यजमानस्य गृहं युवां बिभ्रतो धारयंतो दीयंति । गमयंतीत्यर्थः । मक्षूयुभिः शीघ्रगंतृभिर्हयेभिर्हयैरश्वैर्हे नरा नेतारावश्विनावश्विनौ देवा देवौ अस्मयू अस्मान्कामयमानावा यातं । अस्मद्यज्ञमागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+The horses that are yours bear you to the house of the sacrificer who gives the oblation; they make you go there. O leaders, O Aśvins, divine ones, desiring us, come with your swift-going horses; come to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders of rites
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ये (*ye*)—which horses
+- वां (*vāṃ*)—belong to you, those horses
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- गृहं (*gṛhaṃ*)—to the house
+- युवां (*yuvāṃ*)—you
+- बिभ्रतः (*bibhrataḥ*)—bear
+- दीयंति (*dīyaṃti*)—bring you there
+- मक्षुयुभिः (*makṣuyubhiḥ*)—swift-going
+- हयेभिः (*hayebhiḥ*)—with horses
+- अस्मयू (*asmayū*)—being fond of us
+- आ यातं (*ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders of rites, the horses that belong to you bear you to the house of the sacrificer who offers the oblation. They bring you there. Come, fond of us, with swift-going horses.
+
+##### English translation
+Yours are the horses that, conveying you, bring you to the dwelling of the donor (of the oblation) : divine leader (of rites), favourably inclined towards us, come with your rapid steeds.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अथा॑ ह॒ यंतो॑ अ॒श्विना॒ पृक्षः॑ सचंत सू॒रयः॑ ।  
+> ता यं॑सतो म॒घव॑द्भ्यो ध्रु॒वं यश॑श्छ॒र्दिर॒स्मभ्यं॒ नास॑त्या ॥
+
+### Printed p. 556
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । ह । यंतः । अश्विना । पृक्षः । सचंत । सूरयः ॥  
+> ता । यंसतः । मघवत्भ्यः । ध्रुवं । यशः । छर्दिः । अस्मभ्यं । नासत्या ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधा हापि चाश्विनाश्विनौ यंतः स्तुतिभिर्गच्छंतो यजमानाः सूरयो मेधाविनः स्तोतारः पृक्षोऽन्नं प्रभूतं सचंते । सेवंते । संयंति वा । ता तौ युवां मघवद्भ्योऽस्मभ्यं ध्रुवमविचलितं यशोऽन्नं यश इव वा छर्दिर्गृहं यंसतः । प्रयच्छतं । हे नासत्याश्विनौ ॥
+
+##### Gist of the bhāṣya
+
+Now, O Aśvins, the wise worshippers, the sacrificers who go with praises, resort to abundant food. Or else they come together. You two, O Nāsatyas, grant to us, who are possessed of wealth, firm, unshaken fame (food, or a house like fame) and a dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अधा ह (*adhā ha*)—and
+- नासत्या (*nāsatyā*)—you who are called Nāsatyas
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यंतः (*yaṃtaḥ*)—assembled together
+- सूरयः (*sūrayaḥ*)—praisers
+- पृक्षः (*pṛkṣaḥ*)—to offer food
+- सचंते (*sacaṃte*)—approach you
+- ता (*tā*)—you
+- मघवद्भ्यः (*maghavadbhyaḥ*)—endowed with oblations
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- ध्रुवं (*dhruvaṃ*)—imperishable
+- यशः (*yaśaḥ*)—fame
+- छर्दिः (*chardiḥ*)—and a house
+- यंसतः (*yaṃsataḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities called Nāsatyas, the praisers and sacrificers assembled together approach you to offer you food. Provide us, who are endowed with oblations, with imperishable fame and a house.
+
+##### English translation
+The pious worshippers now approaching you unite to offer (you sacrificial) food : do you two, Nasatyas, grant to us who are affluent (in offerings) enduring fame and dwelling.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये य॒युर॑वृ॒कासो॒ रथा॑ इव नृपा॒तारो॒ जना॑नां ।  
+> उ॒त स्वेन॒ शव॑सा शूशुवु॒र्नर॑ उ॒त क्षि॑यंति सुक्षि॒तिं ॥ ६ ॥
+
+### Printed p. 557
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । ययुः । अवृकासः । रथाःऽइव । नृपातारः । जनानां ॥  
+> उत । स्वेन । शवसा । शूशुवुः । नरः । उत । क्षियंति । सुक्षितिं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यजमाना अवृकासः परकीयधनस्यानादातारो जनानां मनुष्याणां मध्ये नृपातार ऋत्विग्रूपाणां नृणां रक्षितारः संतो ययुः युवां प्राप्नुवंति हविर्भिः । प्राप्तौ दृष्टांतः । रथा इव व्रीह्यादिपूर्णा रथा यथा प्राप्नुवंति स्वामिगृहं । उतेत्ययमुत्तरवाक्यापेक्षः । अपि च ते नरो यजमानाः स्वेन शवसा स्वीयेन बलेन शूशुवुः । वर्धंते । उतापि च सुक्षितिं सुनिवासं क्षियंति । गच्छंति । प्राप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers who are free from wolfishness (who do not seize others' wealth), and who, among men, are protectors of the men who take the form of priests, reach you with oblations. The example of arrival: as chariots filled with rice and the like reach the owner's house. उत (*uta*) here looks to the following sentence. Moreover those men, the sacrificers, grow by their own strength; and they also reach (go to) a good dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those sacrificers who
+- अवृकासः (*avṛkāsaḥ*)—free from harm
+- जनानां (*janānāṃ*)—among men
+- नृपातारः (*nṛpātāraḥ*)—being protectors of the seers
+- रथा इव (*rathā iva*)—as carts filled with grain reach the sacrificer's house
+- प्र ययुः (*pra yayuḥ*)—approach you to serve you
+- नरः (*naraḥ*)—those same sacrificers
+- स्वेन शवसा (*svena śavasā*)—by their own strength alone
+- शूशुवुः (*śūśuvuḥ*)—attain growth
+- उत (*uta*)—and
+- सुक्षितिं (*sukṣitiṃ*)—a house fit for excellent dwelling
+- क्षियंति (*kṣiyaṃti*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, those sacrificers who, free from harm, are among men protectors of all the seers, and who approach to serve you as carts filled with grain reach the sacrificer's house, those same sacrificers attain growth by their own strength alone, and obtain a house fit for excellent dwelling.
+
+##### English translation
+Those worshippers, the benefactors of men, doing injury to none who repair to you, like waggons (to the farm), either prosper by their own strength, or inhabit an excellent abode
+
+### Printed p. 558
+## Sūkta 75 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्युषा आव इत्यष्टर्चं पंचमं सूक्तं वसिष्ठस्यार्षं । अत्रानुक्रमणिका । व्युषा अष्टावुषस्यं तु वै इति । तु वै इत्युक्तत्वात्तुह्यादिसरिभाषयेदमादीनि सप्त सूक्तान्युषोदेवत्यानि ॥ प्रातरनुवाक उषस्ये क्रतौ त्रैष्टुभे छंदस्याश्विनशस्त्रे चेदमादीनि षट् सूक्तानि । तथा च सूत्र्यते । व्युषा आवो दिविजा इति षडिति त्रैष्टुभं । आ ४-१४ । इति ॥ ऋग्विधान आख्यातो विनियोगोऽत्र लिख्यते । रात्र्या अपरकाले य उत्थाय प्रयतः शुचिः । व्युषा इत्युपतिष्ठेत षड्भिः सूक्तैः कृतांजलिः ॥ प्राप्नुयात्स हिरण्यानि नानारूपं धनं बहु । गा अश्वान्पुरुषान्धान्यं स्त्रियो वासांस्यजाविकं । ऋग्वि-२-२८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta व्युषा आवः (*vyuṣā āvaḥ*), of eight ṛks, is the fifth sūkta; it is of Vasiṣṭha as seer. The Anukramaṇikā here says व्युषा अष्टावुषस्यं तु वै (*vyuṣā aṣṭāvuṣasyaṃ tu vai*). Because तु वै (*tu vai*) is stated, this and the seven sūktas that follow are addressed to Uṣas. At the Prātaranuvāka, in the Uṣasya rite and in the Triṣṭubh recitation of the Āśvina śastra, six sūktas beginning with this one are used. So it is stated in the sūtra व्युषा आवो दिविजा इति षडिति त्रैष्टुभं (*vyuṣā āvo divijā iti ṣaḍiti traiṣṭubhaṃ*) (Ā. 4-14). The application given in the Ṛgvidhāna is written here: one who, rising in the later part of the night, pure and restrained, stands praising with folded hands with the six sūktas beginning व्युषा (*vyuṣā*) would obtain gold, much wealth of many kinds, cows, horses, men, grain, women, garments, goats and sheep (Ṛgvi. 2-28).**NOTE**
+
+##### Anuvāda
+
+This sūkta, व्युषा आवः (*vyuṣā āvaḥ*), is the fifth sūkta in the fifth anuvāka. It has eight ṛks. Vasiṣṭha is the seer. Since the Anukramaṇikā says व्युषा अष्टावुषस्यं तु वै (*vyuṣā aṣṭāvuṣasyaṃ tu vai*), the seven sūktas from this one onward have Uṣas as deity. At the time of reciting the Prātaranuvāka mantras, the six sūktas from this onward are used for the Triṣṭubh-metre mantras connected with the Uṣasya rite and for the Āśvina-śastra mantras; this is explained by the sūtra व्युषा आवो दिविजा इति षडिति त्रैष्टुभं (*vyuṣā āvo divijā iti ṣaḍiti traiṣṭubhaṃ*) of the Āśvalāyana Śrauta Sūtra (Ā. 4-14). In the work called Ṛgvidhāna the following is said on the application of this sūkta:—
+व्युषा इत्युपतिष्ठेत षड्भिः सूक्तैः कृतांजलिः ॥ प्राप्नुयात्स हिरण्यानि नानारूपं धनं बहु । गा अश्वान्पुरुषान्धान्यं स्त्रियो वासांस्यजाविकं । (*vyuṣā ityupatiṣṭheta ṣaḍbhiḥ sūktaiḥ kṛtāṃjaliḥ ‖ prāpnuyātsa hiraṇyāni nānārūpaṃ dhanaṃ bahu | gā aśvānpuruṣāndhānyaṃ striyo vāsāṃsyajāvikaṃ |*)
+(Ṛgvi. 2-28)
+It is said that one who prays with folded hands with the six sūktas beginning with व्युषा (*vyuṣā*) obtains wealth in many forms, gold, cows, horses, servants, grain, beautiful women, fine garments, and the wealth of animals such as goats and sheep.
+
+##### Particulars
+
+- Sūkta 75
+- Maṇḍala 7; Anuvāka 5; Sūkta 75
+- Aṣṭaka 5; Adhyāya 5; Varga 22
+- Number of ṛks in the sūkta: 8
+- Ṛṣi: Vasiṣṭha
+- Deity: Uṣas
+- Metre: Triṣṭubh
+
 ---
 
-**Progress note:** Done through printed p. 552. pp. 547-552 (batch API)
+**Progress note:** Done through printed p. 558. pp. 553-558 (batch API)
