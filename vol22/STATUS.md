@@ -21,8 +21,9 @@ The supplied text is the user's machine reading of the book, **re-transcribed pa
 Agent route as Vols 19–21 (one Sonnet agent per batch of three windows; no API). Prepared Nov 25 2026 on branch `claude/hopeful-fermi-kypcts`.
 
 ## Status
-Window w0001 (printed pp. 1–6) was translated from the OLD (Gemini) text and must be redone on the new text; nothing else translated. Source quality check by the user pending (Nov 26 2026).
+Done through printed p. 600 (final). Audit PASS; Kannada headings written (61 sūktas, 20–80, and 471 Ṛks; every sūkta's Ṛk count equals the Wikisource index); `check_labels` 1563/1563 blocks; preface (source lines 76–521) translated and installed. pp. 1–120 by agents (earlier session), pp. 121–600 by the Batch API (one batch of 80 windows, `msgbatch_0174Ko2fGaNmcwmkSnvHs3jY`), preface by one direct request. Cost of the API part and preface about $4.4 (`parts/batch_costs.md`). 36 certain Pratipadārtha corrections applied to pp. 121–600 before submitting (`data/source_fixes.tsv`).
 
 ## Open items
+0. 87 NOTE marks (not yet settled by `tools/rv/notes_resolve.py`: needs the user's yes) and 4 GLOSS marks; the QA sample and the finishing checklist (HANDBOOK §11) are not done; not merged to `main`.
 1. User: the 127 transcribed pages need a proofread against the scan (accents, uncertain words).
 2. Dispatcher: confirm sūkta range and the preface from the text before/while translating.
