@@ -8848,6 +8848,298 @@ O Ṛbhukṣans, Ṛbhus, seeing heaven, you yourselves bestow on us, who have o
 - रत्नं (*ratnaṃ*)—wealth
 - धत्थ (*dhattha*)—
 
+### Printed p. 199
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *dhattha*—give (continued from the preceding word: "give")
+- स्वधावंतः (*svadhāvaṃtaḥ*)—you who are endowed with strength
+- यज्ञेषु (*yajñeṣu*)—in our sacrifices
+- सं पिबध्वं (*saṃ pibadhvaṃ*)—drink the Soma fully
+- मतिभिः (*matibhiḥ*)—with your wisdom
+- नः (*naḥ*)—to us
+- राधांसि (*rādhāṃsi*)—excellent riches
+- वि दयध्वं (*vi dayadhvaṃ*)—give abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, you who behold heaven, give us, who possess the oblation, wealth that is unharmed. You who are endowed with strength, drink Soma fully in our sacrifices. With your wisdom give us excellent wealth in abundance.
+
+##### English translation
+For you, Ribhukshins, beholders of heaven, preserve unmolested the precious (treasure) for us who are affluent (in sacrificial offerings) : do you, who are possessed of strength, drink fully at (our) solemnities, and with (favourable) minds bestow upon us riches.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒वोचि॑थ॒ हि म॑घवन्दे॒ष्णं म॒हो अर्भ॑स्य॒ वसु॑नो विभा॒गे ।  
+> उ॒भा ते॑ पू॒र्णा वसु॑ना॒ गभ॑स्ती॒ न सू॒नृता॒ नि य॑मते वस॒व्या॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उवोचिथ । हि । मघवन् । देष्णं । महः । अर्भस्य । वसुनः । विभागे ।  
+> उभा । ते । पूर्णा । वसुना । गभस्ती इति । न । सूनृता । नि । यमते । वसव्या ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उवोचिथेत्याद्याः पंचर्च इंद्रदेवताकाः । हे मघवन् धनवन्निंद्र त्वं महो महतोऽर्भस्याल्पस्य च वसुनो धनस्य विभागे परिचरणानुकूले दाननिमित्ते देष्णं धनमुवोचिथ हि । सेवसे खलु ॥ उचतिः सेवाकर्मा ॥ तथा ते त्वदीयौ उभौ गभस्ती बाहू वसुना धनेन पूर्णा । संपूर्णौ भवतः । ते त्वदीया सूनृता वाग्वसव्या वसूनि धनानि न नि यमते । न नियच्छति । यद्वा । वसव्या वसुषु धनेषु साधुः सूनृता वाग्वनेन  संपूर्णौ त्वदीयौ बाहू न नियच्छति । नाल्पं प्रदापयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The five Ṛks beginning उवोचिथ (*uvocitha*) have Indra as deity. O Maghavan, wealthy Indra, in the apportionment of wealth, great or small, you have declared (attended to) wealth fit for giving, conducive to service; उवोचिथ (*uvocitha*) means "you serve", for the root उचति (*ucati*) has the sense of service. Likewise both your arms are full of wealth. Your truthful speech does not hold back riches. Or else: your truthful speech, good in respect of wealth, does not restrain your arms that are full of it; that is, it does not make you give little.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, possessed of wealth
+- त्वं (*tvaṃ*)—you
+- महः (*mahaḥ*)—of the great
+- अर्भस्य (*arbhasya*)—and of the small
+- वसुनः (*vasunaḥ*)—of wealth
+- विभागे (*vibhāge*)—for the apportionment
+- देष्णं (*deṣṇaṃ*)—wealth fit for giving
+
+### Printed p. 200
+- उवोचिथ हि (*uvocitha hi*)—you have obtained
+- ते (*te*)—your
+- उभा गभस्ती (*ubhā gabhastī*)—both arms
+- वसुना (*vasunā*)—with wealth
+- पूर्णा (*pūrṇā*)—are full
+- सूनृता (*sūnṛtā*)—your excellent speech
+- वसव्या (*vasavyā*)—riches
+- न नियमते (*na niyamate*)—does not hold back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of wealth, in the apportionment of wealth, great and small, you have obtained wealth fit for giving. Both your arms are full of wealth. Your excellent speech does not hold back riches.
+
+##### English translation
+You Maghavan, have determined what is to be given in the apportionment of much or of little wealth, for both your hands are full of treasures and your sincere (promises) of riches do not restrain them.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next four Ṛks Indra is praised.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्र॒ स्वय॑शा ऋभु॒क्षा वाजो॒ न सा॒धुरस्त॑मे॒षि ऋक्वा॑ ।  
+> व॒यं नु ते॑ दा॒श्वांसः॑ स्याम॒ ब्रह्म॑ कृ॒ण्वंतो॑ हरिवो॒ वसि॑ष्ठाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इंद्र । स्वयशाः । ऋभुक्षाः । वाजः । न । साधुः । अस्तं । एषि । ऋक्वा ।  
+> वयं । नु । ते । दाश्वांसः । स्याम । ब्रह्म । कृण्वंतः । हरिवः । वसिष्ठाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स्वयशा असाधारणकीर्तिर्ऋभुक्षा ऋभुनिवासक ऋभूणामीश्वरो वा त्वं साधुः साधको वाजो नान्नमिव ऋक्वा ऋक्वणः स्तोतुर्मास्तं गृहमेषि । प्राप्नुहि । त्वद्य  वसिष्ठा एतत्संज्ञका ऋषयो वयं हे हरिवः स्वकीयोऽपेतेंद्र ते त्वदर्थं दाश्वांसो हविर्लक्षणान्नं दत्तवंतो ब्रह्म स्तोत्रं कृण्वंतः कुर्वंतः संतः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of unique renown, dwelling with the Ṛbhus or lord of the Ṛbhus, you, like accomplishing food, come to the house of the praiser. We, the seers named Vasiṣṭha, O lord of bay horses, your own, would be those who give you the oblation-food and make praise for you.
+
+### Printed p. 201
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्वयशाः (*svayaśāḥ*)—of unique renown
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—abode of radiance
+- त्वं (*tvaṃ*)—you
+- साधुः (*sādhuḥ*)—as accomplisher of all works
+- वाजः न (*vājaḥ na*)—like satisfying food
+- ऋक्वाः (*ṛkvāḥ*)—of me the praiser
+- अस्तं (*astaṃ*)—to the house
+- एषि (*eṣi*)—be gracious, come
+- हरिवः (*harivaḥ*)—O Indra with horses
+- नु (*nu*)—now
+- वसिष्ठाः (*vasiṣṭhāḥ*)—named Vasiṣṭha
+- वयं (*vayaṃ*)—we
+- ते (*te*)—addressing you
+- दाश्वांसः (*dāśvāṃsaḥ*)—offering the oblation
+- ब्रह्म (*brahma*)—praise
+- कृण्वंतः (*kṛṇvaṃtaḥ*)—composing
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of unique renown, abode of radiance, you as accomplisher of all works, come graciously, like satisfying food, to the house of us, your praisers. O Indra with horses, may we, named Vasiṣṭha, now be offering the oblation to you and composing praise.
+
+##### English translation
+Do you, Indra, who are Ribhukshin, and of especial renown, who, like food, are the fulfiller (of wants), come to the dwelling of the worshipper; lord of bay horses, may we, Vashisthas, be today the donors (of the offerings) to you, the celebrators of your praise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सनि॑तासि प्र॒वतो॑ दा॒शुषे॑ चि॒द्याभि॒र्विवे॑षो हर्यश्व धी॒भिः ।  
+> व॒व॒न्मा नु ते॒ युज्या॑भिरू॒ती क॒दा न॑ इंद्र रा॒य आ द॑शस्येः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनिता । असि । प्रवतः । दाशुषे । चित् । याभिः । विवेषः । हरिअश्व । धीभिः ।  
+> ववन्म । नु । ते । युज्याभिः । ऊती । कदा । नः । इंद्र । रायः । आ । दशस्येः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हर्यश्व हरिनामकाश्वेंद्र त्वं याभिर्धीभिरस्मदीयाभिः स्तुतिभिर्विवेषः व्याप्नोषि स त्वं दाशुषे चिद्धविर्दत्तवते यजमानायोपि प्रवतः प्रवणस्य धनस्य सनितासि । दाता भवसि । अपि च हे इंद्र त्वं नोऽस्मभ्यं कदा कस्मिन्काले रायो धनान्या दशस्येः । प्रयच्छेः । त्वद्य  ते तव युज्याभिर्योग्याभिरूतिभि रक्षाभिर्ववन्म । त्वां संभजेम ॥
+> २६
+
+##### Gist of the bhāṣya
+
+O Indra, whose horses are named Hari, you with whose praises of ours you pervade (are reached), you are the giver of abundant wealth even to the sacrificer who has given the oblation. And, O Indra, when will you bestow riches on us? We would serve you with your fitting protections.
+
+### Printed p. 202
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यश्व (*haryaśva*)—O Indra, who have horses named Hari
+- याभिः (*yābhiḥ*)—by which
+- धीभिः (*dhībhiḥ*)—praises of ours
+- विवेषः (*viveṣaḥ*)—you are pervaded (reached), such as you
+- दाशुषे चित् (*dāśuṣe cit*)—to the sacrificer who gives the oblation
+- प्रवतः (*pravataḥ*)—of abundant wealth
+- सनिता असि (*sanitā asi*)—you are the giver
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—to us
+- कदा (*kadā*)—at what time
+- रायः (*rāyaḥ*)—riches
+- आ दशस्येः (*ā daśasyeḥ*)—will you give
+- नु (*nu*)—now
+- ते (*te*)—your
+- युज्याभिः (*yujyābhiḥ*)—fitting
+- ऊती (*ūtī*)—together with protections
+- ववन्म (*vavanma*)—we worship you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have horses named Hari, by our praises you are the giver of abundant wealth to the sacrificer who gives the oblation. O Indra, at what time will you give us wealth? Now, together with your fitting protections, we worship you.
+
+##### English translation
+Lord of bay horses, you are the giver of the descending (wealth) to the donor (of the oblation), by whose sacred rites you are magnified : when do you bestow upon us riches : when may we be secure by your appropriate protections.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒सय॑सीव वे॒धस॒स्त्वं नः॑ क॒दा न॑ इंद्र॒ वच॑सो बुबोधः ।  
+> अस्तं॑ ता॒त्या धि॒या र॒यिं सु॒वीरं॑ पृ॒क्षो नो॒ अर्वा॒ न्यु॑हीत वा॒जी ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वासयसिऽइव । वेधसः । त्वं । नः । कदा । नः । इंद्र । वचसः । बुबोधः ।  
+> अस्तं । तात्या । धिया । रयिं । सुवीरं । पृक्षः । नः । अर्वा । नि । उहीत । वाजी ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कदा कस्मिन्काले नोऽस्मदीयं वचसो वचोरूपं स्तोत्रं बुबोधः । अवगच्छेः । कथा स त्वं वेधसः स्तोतॄनस्मान्वासयसीव । इवेदानीमर्थे । इदानीं स्वकीये स्थानेऽवस्थापयसि । किंच वाजी बलवानर्वा वेगवांस्त्वदीयोऽश्वस्तात्या  ॥ तनोतेरिदं रूपं ॥ संततया धियास्मत्प्रेरितया स्तुत्या हेतुभूत
+
+##### Gist of the bhāṣya
+
+O Indra, when will you understand our speech, our praise in the form of words? How? Like one who now settles us the praisers in his own place, you establish us. Further, your swift, strong horse (is invoked) with a continuous praise (तात्या (*tātyā*) is a form of the root तनोते (*tanote*)), praise sent by us as cause
+
+### Printed p. 203
+
+> यो सुवीरं शोभनपुत्रोपेतं रयिं त्वदीयं धनं पृक्षोऽन्नं च नोऽस्मदीयमस्तं गृहं न्युहीत । निवहेत् ॥
+
+##### Gist of the bhāṣya
+
+... may it bring to our house your wealth accompanied by good sons, and food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- कदा (*kadā*)—when
+- नः (*naḥ*)—our
+- वचसः (*vacasaḥ*)—praise
+- बुबोधः (*bubodhaḥ*)—will you understand
+- वेधसः (*vedhasaḥ*)—us the praisers
+- वासयॆसीव (*vāsayèsīva*)—when will you make us dwell firmly in our place
+- वाजी (*vājī*)—powerful
+- अर्वा (*arvā*)—your horse
+- तात्या (*tātyā*)—always
+- धिया (*dhiyā*)—as reward for our praise
+- सुवीरं (*suvīraṃ*)—together with excellent sons and others
+- रयिं (*rayiṃ*)—your wealth
+- पृक्षः (*pṛkṣaḥ*)—and food
+- नः (*naḥ*)—our
+- अस्तं (*astaṃ*)—to the house
+- नि उहीतॆ (*ni uhītè*)—let it bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when will you understand our praise? When will you make us the praisers dwell firmly in our place? May your powerful horse always bring to our house, as reward for our praise, your wealth together with excellent sons and others, and food.
+
+##### English translation
+When, Indra, will you appropriate our praise : at present you establish us (your) adorers in our dwelling : let your swift horse, (influenced) by our protracted solemnity, convey to our abode riches, male offspring, and food
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि यं दे॒वी निर्ऋ॑तिश्चि॒दीशे॒ नक्षं॑त॒ इंद्रं॑ श॒रदः॑ सु॒पृक्षः॑ ।  
+> उप॑ त्रिबं॒धुर्ज॒रद॑ष्टिमे॒त्यस्व॑वेशं॒ यं कृ॒णवं॑त॒ मर्ताः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । यं । देवी । निःऽऋतिः । चित् । ईशे । नक्षंते । इंद्रं । शरदः । सुपृक्षः ।  
+> उप । त्रिबंधुः । जरत्अष्टिं । एति । अस्ववेशं । यं । कृणवंत । मर्ताः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवी द्योतमाना निर्ऋतिश्चिद्भूमिरपीशे ॥ कृत्यार्थे केन्प्रत्ययः ॥ ईशितव्यास्वभूता सती यमिंद्रमभि नक्षते व्याप्नोति । सुपृक्षः शोभनान्नैरुपेताः शरदः संवत्सराश्च यमिंद्रं नक्षंते व्याप्नुवंति । मर्ता मरणधर्माणः स्तोतारो
+
+##### Gist of the bhāṣya
+
+The shining goddess निर्ऋति (*nirṛti*), the Earth, though a ruler (the ending केन् (*ken*) in the sense of what is to be done), being herself subject to rule, pervades that Indra; and the years (शरदः (*śaradaḥ*)), rich in good food, pervade the Indra whom mortals, the mortal praisers
+
+### Printed p. 204
+
+> वयं यमिंद्रमस्ववेशं स्वकीये स्थानेऽनुपविशंतं कृणवंते कुर्वंति । त्रिबंधुस्त्रयाणां लोकानां बंधको विधारकः स इंद्रो जरदष्टिं जरज्जीर्णमष्टिरशनं यस्य बलस्य हेतुभूतं तद्बलमुपैति । उपगच्छति ॥
+
+##### Gist of the bhāṣya
+
+... we make not abiding in his own place but settling in our own. The Indra who is त्रिबंधुः (*tribaṃdhuḥ*), binder and upholder of the three worlds, approaches that strength of which the जरदष्टि (*jaradaṣṭi*) (worn-out food) is the cause.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—divine
+- निर्ऋतिश्चित् (*nirṛtiścit*)—even the goddess Earth
+- ईशे (*īśe*)—though independent
+- यं इंद्रं (*yaṃ iṃdraṃ*)—which Indra
+- अभि (नक्षते) (*abhi (nakṣate)*)—she resorts to
+- सुपृक्षः (*supṛkṣaḥ*)—rich in excellent food
+- शरदः (*śaradaḥ*)—the years
+- नक्षंते (*nakṣaṃte*)—resort to which Indra
+- मर्ताः (*martāḥ*)—also men
+- यं (*yaṃ*)—which Indra
+- अस्ववेशं (*asvaveśaṃ*)—so that he comes to their sacrifice, not remaining in his heaven
+- कृणवंते (*kṛṇavaṃte*)—they make
+- त्रिबंधुः (*tribaṃdhuḥ*)—Indra, kinsman of the three worlds
+- जरदष्टिं (*jaradaṣṭiṃ*)—very abundant strength
+- उपेति (*upeti*)—attains
+
+##### भावार्थ (Bhāvārtha)
+
+Even the divine Earth, though independent, resorts to Indra; the years, rich in excellent food, resort to Indra; men too make Indra come to the sacrifice without staying in his heaven. Such Indra, kinsman of the three worlds, attains very abundant strength (he is endowed with strength).
+
+##### English translation
+Indra, the upholder of the three regions, whom the divine Nirriti acknowledges as ruler,. whom abundant years pass over, whom mortals detain from his own abode, approaches to (recruit) his decaying strength.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ राधां॑सि सवितः स्त॒वध्यै॒ आ रायो॑ यंतु॒ पर्व॑तस्य रा॒तौ ।  
+> सदा॑ नो दि॒व्यः पा॒युः सि॑षक्तु यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । राधांसि । सवितरिति । स्तवध्यै । आ । रायः । यंतु । पर्वतस्य । रातौ ।  
+> सदा । नः । दिव्यः । पायुः । सिसक्तु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 198. pp. 193-198 (batch API)
+**Progress note:** Done through printed p. 204. pp. 199-204 (batch API)
