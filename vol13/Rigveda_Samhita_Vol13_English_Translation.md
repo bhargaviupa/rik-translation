@@ -7157,6 +7157,159 @@ O Indra (addressed as एनेनेत्वरेंद्र (*enenetvareṃ
 - इंद्रः (*iṃdraḥ*)—Indra
 - वंदनेष्ठाः (*vaṃdaneṣṭhāḥ*)—being in (our) praise (pleased with our praise)
 
+### Printed p. 295
+- …as if hastening
+- नः (*naḥ*)—our
+- कर्म (*karma*)—rites (for the rites), with praises (satisfied)
+- नयमानः (*nayamānaḥ*)—one who brings the fruit
+- यथा असत् (*yathā asat*)—as he becomes; (so act)
+
+##### भावार्थ (Bhāvārtha)
+
+O Lord Indra, just as men gain their desired ends by satisfying kings and others with praise and the like, we too wish to gain the fulfilment of our desires through your friendship (through your favour). O Ṛtvijs, so act that Indra, pleased with our rites and our hymns of praise, may quickly become the giver of their fruit.
+
+##### English translation (H. H. Wilson)
+May we be, as it were, your valued friends, O Lord, and obtain our desires, like those (who gain their objects) by the praise of princes. May Indra, propitiated by our eulogiums, be brought to the sacrifice by our hymns.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer of the mantra describes, as it were, the instruction which the sacrificers give to their Ṛtvijs.
+By the words हे एन इंद्र (*he ena iṃdra*) Indra is addressed: "O Lord, O Indra."
+नरां न शंसैः राजादीनां शंसैः स्तुतिभिः यथा मनुष्याः शोभनाभीष्टा भवंति तद्वत् शोभनत्वद्रूप सखायवंतः शोभनाभीष्टाश्च असाम । (*narāṃ na śaṃsaiḥ rājādīnāṃ śaṃsaiḥ stutibhiḥ yathā manuṣyāḥ śobhanābhīṣṭā bhavaṃti tadvat śobhanatvadrūpa sakhāyavaṃtaḥ śobhanābhīṣṭāśca asāma |*) Here is described the sacrificers' wish: just as men, praising kings and others, accomplish their desires, so may we, by praising Indra through the sacrifice, become his beloved friends and have our desires fulfilled.
+तुरो न उक्ता नयमानः कर्म यथा असत् । (*turo na uktā nayamānaḥ karma yathā asat |*) Here is described the instruction the sacrificers give to the Ṛtvijs: "Let Indra, becoming the object of our praises, be like one in haste; hearing our praises, let him favour us so that our sacrifices and other rites yield fruit; perform the sacrificial rites so that, through our rite, he himself becomes the giver of its fruit (अस्मदीयेन कर्मणा फलप्रापयिता (*asmadīyena karmaṇā phalaprāpayitā*)) to us."
+By the two similes नरां न (*narāṃ na*) and तुरो न (*turo na*) the comparison with the king and with men is explained. In the phrase तुरो न (*turo na*) the comparison is with one in haste who quickly carries out his own necessary duty.
+
+### Printed p. 296
+In the same way the carefulness in performing the rite is made plain: that Indra, hearing our praises, may quickly become the giver of the full fruit of our sacrifices.
+
+##### Grammar
+
+- आसाम — अस भुवि इति धातुः । लोट् उत्तमपुरुषबहुवचनांतरूपम् । पादादित्वात् निघातस्वरो न भवति । आडागमस्य पित्त्वात् धातुस्वरः शिष्यते ।
+- सुसखायः — शोभनः सखा येषां ते । नञ् सुभ्याम् (पा. सू. ६-२-१७२) इति उत्तरपदांदोदात्तस्वरो भवति ।
+- स्वभिष्टयः — शोभनाः अभिष्टयः येषांते । पूर्ववत् उत्तरपदोदात्तस्वरो भवति ।
+- नराम् — सावेकाचस्तृतीयादिः (पा. सू. ६-१-१८) इति षष्ठीबहुवचनस्य उदात्तस्वरो भवति ।
+- शंस्यैः — शंसु स्तुतौ धातुः । घञ् प्रत्ययः । इत्त्वात् आद्युदात्तस्वरो भवति । तृतीयाबहुवचनांतरूपम् ।
+- असत् — अस भुवि धातुः । लेट् प्रथमपुरुषएकवचने तिप् प्रत्ययः । इतश्चलोपः (पा. सू. ३-४-९७) इति इकारलोपः । लेटोडाट् (पा. सू. ३-४-६४) इति अडागमः । पादादित्वात् निघातस्वरो न भवति । धातुस्वरः शिष्यते ।
+- वंदनेष्ठाः — वंदने तिष्यतीति वंदनेष्ठाः । ष्ठा गतिनिवृत्तौ धातुः । क्विप् प्रत्ययः । तत्पुरुषे कृति बहुलम् इति सप्तम्या लोपो न भवति । कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- तुरः — तुर त्वर्णे धातुः । अगुपधज्ञाप्रीकिरः कॆः (पा. सू. ३-१-१३५) इति क प्रत्ययः । कित्त्वात् लघूपधगुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- उक्का — वच परिधाषणे धातुः । पात्यतुदिवचि (उ. सू. २-१६४) इति फक् प्रत्ययः । कित्त्वात् वचिस्वपियजादीनां किति (पा. सू. ६-१-१५) इति संप्रसारणं पूर्वरूपं च । चोःकुः इति कुत्वम् । सुपां सुलुक् (पा. सू. ७-१-३९) इति तृतीया परे पूर्वसवर्णदीर्घो भवति ।
+
+### Printed p. 297
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विष्प॑र्धसो न॒रां न शंसै॑र॒स्माका॑स॒दिंद्रो॒ वज्र॑हस्तः ।  
+> मि॒त्रा॒युवो॒ न पूर्प॑तिं॒ सुशि॑ष्टौ मध्या॒युव॒ उप॑ शिक्षंति य॒ज्ञैः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विस्पर्धसः । नरां । न । शंसैः । न । अस्माक । असत् । इंद्रः । वज्रहस्तः ।  
+> मित्रयुवः । न । पूःपतिं । सुशिष्टौ । मध्ययुवः । उप । शिक्षंति यज्ञैः ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरां नेत्यणां मध्ये सस्पर्धान्नरान्यथा विस्पर्धसः कुर्वंति सखिभूताः
+> तद्वद्वयमपींद्रं शंसैः । स्तुतिभिः सखायो वयं तं तथा कुर्मः । स च वज्रहस्तो विरोधिशिक्षणाय सर्वदा वज्रधारींद्रोऽस्माकमसत् । विस्पर्धमनुकूलो भवतु । किंच मित्रायुवो न मित्रेच्छवो हितैषिण इव सुशिष्टौ सुशासने
+> वर्तमानं पूर्पतिं पुरः स्वामिनं यथाभिमतदानेन पूजयंति तथा मध्याय
+> वोऽस्माकंश्च्रियां यशसां च मध्यॆऽवस्थितिं कामयमाना अध्वर्यादयो यज्ञैर्यज्ञसाधनैर्हविःस्तोत्रादिभिरुप शिक्षंति । उपेत्य यजंते । शिक्षतिर्दानकर्मा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: just as, among men who rival one another, friends make the rivals free of rivalry, so we also, as friends of Indra through praises (शंसैः (*śaṃsaiḥ*)), make him so. And may Indra, the thunderbolt-handed, who always bears the thunderbolt to punish his adversaries, be favourable to us, free of rivalry. Further: as well-wishers, desiring friends, honour with gifts of what is desired the lord of the city who abides in good government, so the Adhvaryus and the others, desiring a place for themselves in the midst of our wealth and our fame, approach and sacrifice with the means of sacrifice (यज्ञैः (*yajñaiḥ*)), oblations, hymns and the like. The root शिक्ष (*śikṣa*) has the sense of giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरां (*narāṃ*)—among men (those who are rivals)
+- विस्पर्धसः न (*vispardhasaḥ na*)—(as friends make them) free of rivalry
+- शंसैः (*śaṃsaiḥ*)—by hymns and the like (we make Indra so too)
+- वज्रहस्तः (*vajrahastaḥ*)—bearing the thunderbolt (to punish adversaries)
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्माक असत् (*asmāka asat*)—may he be (favourable) to us
+- मित्रायुवः (*mitrāyuvaḥ*)—well-wishers
+- सुशिष्टौ (*suśiṣṭau*)—(intent) on governing (the kingdom) well
+- पूर्पतिं न (*pūrpatiṃ na*)—as the lord of the city (they satisfy with gifts of what is desired)
+- मध्यायुवः (*madhyāyuvaḥ*)—Adhvaryus and others desiring to be in the midst (of our wealth or fame)
+- यज्ञैः (*yajñaiḥ*)—with oblations and the like, the means of sacrifice
+- उप शिक्षंति (*upa śikṣaṃti*)—approach and worship
+
+##### भावार्थ (Bhāvārtha)
+
+Just as friends set right, by praise and the like, men marked by envy and such faults, so we too make Indra favourable by hymns and the like. Just as well-wishers honour with gifts of what is desired a king who governs well, so our Ṛtvijs, the Adhvaryus and others, who desire wealth and the like, worship with oblations and other means of sacrifice.
+
+### Printed p. 298
+
+##### English translation (H. H. Wilson)
+Emulous in commendation, like (those contending for the favour) of men, may Indra, the wielder of the thunderbolt, be equally (a friend) to us : like those who, desirous of his friendship. (conciliate) the lord of a city (ruling) with good government, so do our intermediate (representatives) propitiate (Indra) with sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+नरां विस्पर्धासः शंसैः (*narāṃ vispardhāsaḥ śaṃsaiḥ*)—नेतृणां मध्ये सस्पर्धान् नरान् यथा सखिभूताः कुर्वंति तद्वद्वयमपि इंद्रं स्तुतिभिः सखायो वयं तं तथा कुर्मः । (*netṛṇāṃ madhye saspardhān narān yathā sakhibhūtāḥ kurvaṃti tadvadvayamapi iṃdraṃ stutibhiḥ sakhāyo vayaṃ taṃ tathā kurmaḥ |*) Seeing men who carry on worldly affairs rivalling one another, their friends, for their benefit, make them give up the rivalry. In the same way we sacrificers, regarding Indra as a friend, praise him that he may be favourable to us and rival-like in zeal; the wish is expressed that we make his zeal to favour us grow to excess.
+वज्रहस्तः (*vajrahastaḥ*)—विरोधिशिक्षणाय सर्वदा वज्रधारी अस्माकं अनुकूलो भवतु (*virodhiśikṣaṇāya sarvadā vajradhārī asmākaṃ anukūlo bhavatu*) The wish is expressed that Indra, who holds the thunderbolt in his hand only to subdue enemies, be favourable to us, the sacrificers who perform the sacrifice.
+मित्रायुवो न (*mitrāyuvo na*)—Sāyaṇa has explained the word मित्र (*mitra*) in the sense of "beneficial". As a friend desires what is good for his friend, so may Indra be a well-wisher to us; thus the comparison is described.
+पूर्वतिं मध्यायुवः यज्ञैः उपशिक्षंति (*pūrvatiṃ madhyāyuvaḥ yajñaiḥ upaśikṣaṃti*)—अस्माकं क्रियां यशसां च मध्ये आवस्थितिं कामयमानाः अध्वर्यादयः यज्ञसाधनैः हविः स्तोत्रादिभिः उपेत्य यजंति । (*asmākaṃ kriyāṃ yaśasāṃ ca madhye āvasthitiṃ kāmayamānāḥ adhvaryādayaḥ yajñasādhanaiḥ haviḥ stotrādibhiḥ upetya yajaṃti |*) The root शिक्ष (*śikṣa*) is read by the Nirukta-author among the ten words for giving, दाति (*dāti*), दाशति (*dāśati*) and so on (Ni. 3-19); here it is used in the sense of giving. As one worships a lord in his very presence by offering what pleases him, so the Adhvaryus and the other Ṛtvijs, who desire for the sacrificers a place between wealth and fame, worship Indra by offering oblations, the means of sacrifice, and by reciting hymns. As one worships a lord in his very presence
+
+### Printed p. 299
+by giving what he desires, so Indra is worshipped in his very presence by the offering of oblations; thus the meaning is explained by comparison.
+
+##### Grammar
+
+- विस्वर्धसः — विगतं स्पर्धः येषांते । बहुव्रीहौ प्रकृत्या पूर्वपदम् (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- अस्माकॆ — छांदसत्वात् अंत्यलोपो भवति ।
+- असत् — अस भुवि धातुः । लेट् प्रथमपुरुषएकवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- वज्रहस्तः — वज्रः हस्ते यस्य सः । व्यधिकरणबहुव्रीहिसमासः । पूर्वपदप्रकृतिस्वरो भवति ।
+- मित्रायुवः — मित्राणि आत्मनः इच्छंतः । सुप आत्मनः क्यच् (पा.सू. ३-१-८) इति क्यच् । छांदसत्वात् संहितायां दीर्घो भवति । क्याच्छंदसि (पा. सू. ३-२-१७०) इति क्यजंतात् उ प्रत्ययः । अतोलोपः (पा. सू. ६-४-४८) इति अकारलोपः । प्रत्ययस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+- पूर्पतिः — पुरः पतिः पूर्वतिः सत्यावैश्वर्ये (पा. सू. ६-२-१८) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- सुशिष्टौ — शासु अनुशिष्टौ धातुः । स्त्रियांक्तिन् इति भावार्थे क्तिन् प्रत्ययः । शास इदज्हलोः (पा. सू. ९-४-३४) इति धातोरुपधाया इत्वम् । शासिवसिघसीनां च (पा. सू. ८-३-६०) इति धातुसकारस्य षत्वम् । तन्निमित्तीकृत्य प्रत्ययस्य ष्टुत्वम् । तादौचनिति (पा. सू. ६-२-५०) इति गतेः (सु) उदात्तस्वरो भवति ।
+- मध्यायुवः — क्याच्छंदसि (पा.सू. २-२-१७०) इति क्यजंतात् उप्रत्ययः । क्यजस्य अकारस्य लोपः । संहितायां छांदसत्वात् दीर्घः । प्रत्ययस्वरो भवति ।
+- शिक्षंति — शिक्ष विद्योपादाने धातुः । अत्र दानार्थे प्रयुक्तः । लट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+
+### Printed p. 300
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञो हि ष्णेंद्रं॒ कश्चि॑दृं॒धञ्जु॑हुरा॒णश्चि॒न्मन॑सा परि॒यन् ।  
+> ती॒र्थे नाच्छा॑ तातृषा॒णमोको॑ दी॒र्घो न सि॒ध्रमा कृ॑णो॒त्यध्वा॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञः । हि । स्मै । इंद्रं । कॆः । चित् । यंधन् । जुहुराणः । चित् । मनसा । परियान् ।  
+> तीर्थे । न । अच्छ । ततृषाणं । ओकः । दीर्घः । न । सिद्धं । आ । कृणोति । अध्वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कश्चिद्यज्ञो यज्ञवान् यज्ञानुष्ठाय्यधन् वर्धयन्भवति। इंद्रं यज्ञेन
+> वर्धयतीत्यर्थः । जुहुराणश्चित् कुटिलगतिस्तु कश्चिन्मवसा केवलेन परियन् परितो
+> गच्छन् लौकिकविषयादिकं ध्यायन्वर्तते । यद्वा । परि वर्जनार्थः । वर्जयित्वा
+> गच्चन्नेदं प्राप्नोति । तत्र दृष्टांतः । तीर्थे प्रसिद्धे मार्गेऽच्छाभिमुख्येन
+> समीपे वर्तमानमोकः पानीयादिकं सदनं ततृषाणं पिपासायुक्तं यथाविलंबेन प्रीणाति । स यथा तत्सदनमागच्छतीत्यर्थः । तद्विद्यज्ञेन कश्चित्पुमानिंद्रमभिगच्छतीति । कुटिलस्य दृष्टांतः । दीर्घो न वक्रत्वेनातिदूरोऽध्वा मार्ग इव । स
+> यथा सिद्धं फलं पानीयादिरूपं फलार्थिनं वा पुरुषमा कृणोति अर्वाक्करोति
+> नीचैः करोति । वर्जयतीत्यर्थः । तस्माद्यज्ञमार्गमजानानो वक्रो दूरे
+> परिभ्रमति नेंद्रं तर्पयति । तद्विलक्षणस्तु वर्जयत्येव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: a certain man who sacrifices, performing the sacrifice, is "increasing" (ऋंधन् (*ṛṃdhan*)), that is, he makes Indra grow by the sacrifice. But a crooked-going man (जुहुराणश्चित् (*juhurāṇaścit*)) goes around (परियन् (*pariyan*)) with the mind alone, going about thinking of worldly objects and the like. Or else परि (*pari*) has the sense of avoidance: going by avoiding, he does not obtain this. An illustration follows. As a dwelling (ओकः (*okaḥ*)) with water and the like, standing near, facing a well-known ford (तीर्थे (*tīrthe*)) on the road, satisfies without delay the man who is thirsty (ततृषाणं (*tatṛṣāṇaṃ*)), so that he comes to that dwelling, in the same way a man goes to Indra by the sacrifice. For the crooked man the illustration is: like a long road (दीर्घो न (*dīrgho na*) अध्वा (*adhvā*)), exceedingly far because of its windings. As that road makes the accomplished fruit, in the form of water and the like, or the man who seeks the fruit, आ कृणोति (*ā kṛṇoti*), he makes him remote, lowers him, that is, avoids him. Therefore one who does not know the way of sacrifice, being crooked, wanders far and does not satisfy Indra; one unlike him only avoids this.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः चित् यज्ञः (*kaḥ cit yajñaḥ*)—some man who performs sacrifice
+- तीर्थे (*tīrthe*)—(some) ford's
+- अच्छ (*accha*)—near
+- ओकः (*okaḥ*)—dwelling with water and the like
+- ततृषाणं न (*tatṛṣāṇaṃ na*)—as it satisfies one tormented by thirst
+- ऋंधन् स्म (*ṛṃdhan sma*)—he keeps increasing (Indra); (but)
+- जुहुराणः चित् (*juhurāṇaḥ cit*)—a crooked man
+- दीर्घः (*dīrghaḥ*)—far
+- अध्वा (*adhvā*)—road
+- सिध्रं (*sidhraṃ*)—the desired fruit
+- आ कृणोति न (*ā kṛṇoti na*)—as it makes it despicable
+- सिध्रं (*sidhraṃ*)—the man who seeks fruit
+- आ कृणोति न (*ā kṛṇoti na*)—as it keeps (him) far (from the desired fruit)
+- मनसा (*manasā*)—in the mind alone
+- परि यन् (*pari yan*)—he goes around (thinking of worldly objects and the like); that is, he does not worship Indra at all
+
 ---
 
-**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
+**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
