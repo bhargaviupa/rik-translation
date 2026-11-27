@@ -1287,6 +1287,163 @@ Here the sense is: the sweet Soma juices delighted Indra, who is great, perfect,
 प्र वीरमुग्रं विविचिं धनस्पृतं विभूतिं राधसो महः । (*pra vīramugraṃ viviciṃ dhanaspṛtaṃ vibhūtiṃ rādhaso mahaḥ |*) (Ṛ. Saṃ. 8-50-6)
 In these Ṛks too the word विभूति (*vibhūti*) is used as an adjective, meaning "powerful".
 
+### Printed p. 55
+
+स्त्रिभिः (*stribhiḥ*)—स्त्र (*stra*) is a name for a star. Yāska says that ऋक्षाः स्त्रिभिरिति नक्षत्राणां (*ṛkṣāḥ stribhiriti nakṣatrāṇāṃ*) (Ni. 3-20), that is, स्त्रिभिः (*stribhiḥ*) means a star. Therefore the phrase दूरेदृशो ये दिव्या इव स्त्रिभिः (*dūredṛśo ye divyā iva stribhiḥ*) means: like the stars twinkling in the sky, they are seen even from a very distant region. The stars in the sky are visible to us even though they are very far away; in the same way the Marut deities, though very far away, are visible to us. This is the intention.
+
+संमिश्लाः इंद्रे मरुतः (*saṃmiślāḥ iṃdre marutaḥ*)—Those who are mingled in Indra, that is, who are in Indra's company. The intention is that they are Indra's helpers. That the Marut deities are Indra's friends is described in Ṛks such as
+आयमिंद्रो मरुत्सखा वि वृत्रस्याभिनच्छिरः (*āyamiṃdro marutsakhā vi vṛtrasyābhinacchiraḥ*)
+(Ṛ. Saṃ. 8-76-2).
+
+##### Grammar
+
+- मह्ना — महिम्मा इति रूपे जाते छांदसत्वात् वर्णलोपः भवति । अथवा मह पूजायां धातुः । अस्मात् औणादिकः कनि प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति । तृतीयाएकवचने अल्लोपोऽनः इत्यनेन अकारलोपः । अनुदात्तस्य च यत्रोदात्तलोपः (पा. सू. ६-१-१६१) इत्यनेन विभक्तेः उदात्तस्वरः भवति ।
+- विभ्वः — विभु+जस् इति स्थिते जसादिषु छंदसि ना वचनं इति वचनेन गुणादयः न भवंति । यणादेशः । उदात्त स्वरितयोर्यणः (पा सू. ८-२-४) इत्यनेन विभक्तेः स्वरितस्वरः भवति ।
+- विभूतयः — भू सत्तायां धातुः । क्तिन् प्रत्ययः । तादौ च निति (पा. सू. ६-२-५०) इत्यनेन गतेः (वि) प्रकृतिस्वरः भवति ।
+- मूरेदृशः — दृशिर् प्रेक्षणे धातुः । क्विप् प्रत्ययः । तत्पुरुषे कृति बहुलं इत्यत्र बहुलग्रहणसामर्थ्यात् सप्तम्याः अलुक् । प्रथमाबहुवचनांतरूपं ।
+- दिव्याः — दिवि भवाः दिव्याः । भवे छंदसि इत्यनेन य प्रत्ययः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- मंद्राः — मदि स्तुतौ धातुः । स्थायितंचिवंचि-(उ. सू. २-१७०) इत्यनेन रक् प्रत्ययः । इदितो नुम् धातोः इत्यनेन नुमागमः । प्रत्ययस्वरेण अंतोदात्तः भवति ।
+- सुजिह्वाः — शोभनाः जिह्वाः येषां ते सुजिह्वाः । नञ् सुभ्यां (पा. सू ६-२ १७) इत्यनेन उत्तरपदस्य अंतोदात्तस्वरः भवति ।
+
+### Printed p. 56
+
+- स्वरितारः — स्व शब्दोपतापयोः धातुः । कर्तरि तृच् प्रत्ययः । स्वरति सूति — (पा. सू. ७-२४४) इत्यनेन विकल्पः । इडागमविधानकरणात् अस्मात् इडागमः । तं निमित्तीकृत्य धातोः इकः गुणः, रसरः भवति । प्रथमाबहुवचनांतरूपं । **NOTE**
+- आसभिः — आस्य शब्दात् भिस् परे पद्दन्नोमा—(पा. सू. ६-१-६३) इत्यनेन आसन् आदेशः । पदसंज्ञासत्त्वात् नलोपः प्रातिपदिकांतस्य (पा. सू. ८-२-७) इत्यनेन नलोपः ।
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वः॑ सुजाता मरुतो महित्व॒नं दी॒र्घं वो॑ दा॒त्रमदि॑तेरिव  ॒
+> व्रतं ।  
+> इंद्र॑श्च॒न त्यज॑सा॒ वि ह्रु॑णाति॒ तज्जना॑य॒ यस्मै॑ सु॒कृते॒  ॑
+> अराध्वं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । सुजाताः । मरुतः । महित्वनं । दीर्घं । वः । दात्रं । अदितेः इव । व्रतं ।  
+> इंद्रः । चन । त्यजसा । वि । ह्रुणाति । तत् । जनाय । यस्मै । सुकृते । अराध्वं ॥१२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुजाताः शोभनजनना हे मरुतः वो युष्मदीयं महित्वनं महत्त्वं
+> तत् तादृक् खलु । तदित्युक्तं किमित्याह । वो युष्माकं दात्रं दानं वृष्ट्यादिरूपं
+> दीर्घमत्यायतमविच्छिन्नं । प्रकृष्टोपकारीत्यर्थः । दीर्घत्वे दृष्टांतः । अदितेर्व्रतमिव । अदीनाया देवमातुर्भूम्या वा । वृतमिति कर्मनाम । तद्यथा
+> दीर्घमतिविस्तृतं तद्वत् । आदितिद्यौरदितिरंतरिक्षं । ऋ. १-८९-१० । इत्यादिमंत्रवर्णात् । किंच हे मरुतः यूयं यस्मै सुकृते शोभनयागादिकर्त्रॆ यज
+> मानाय यदभिमतं धनमराध्वं तदिंद्रश्चेंद्रोऽपि त्यजसा त्यागेन न वि ह्रुणाति ।
+
+##### Gist of the bhāṣya
+
+"O well-born ones, Maruts, that greatness of yours is indeed such." What is that? Your gift (दात्रं (*dātraṃ*)), which takes the form of rain and the like, is long, that is, very extended and unbroken; the sense is that you are supreme benefactors. An example for its length: it is like the व्रत (*vrata*) of Aditi, that is, of the mother of the gods, or of the earth; *vṛtaṃ* is a name for action. As that is long and very widely spread, so is your gift. This is shown by the mantra text आदितिद्यौरदितिरंतरिक्षं (*āditidyauraditiraṃtarikṣaṃ*) (Ṛ. 1-89-10) and the like. Further, O Maruts, whatever desired wealth you give to the sacrificer who performs a good sacrifice and the like, that Indra also does not वि ह्रुणाति (*vi hruṇāti*) by his own giving up (त्याग (*tyāga*)).
+
+> न विह्वरति । कौटिल्यं न करोति ॥ चनेत्ययं यद्यपि निपातद्वयसमुदायरूप
+> एको निपातः तथाप्यवयवविभागेन चशब्दः समुच्चये नशब्दो निषेधेऽधिगंतव्यः ॥
+> युष्मद्धनादित्यागमिंद्रत्यागोऽपि नातिक्रामतीत्यर्थः । यद्वा । यस्मै तद्ध नमराध्वं
+> तमिंद्रोऽपि न कुटिलयति । न निषेधयति किंत्वनुमोदयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+न विह्वरति (*na vihvarati*): he does not make it crooked. Although चन (*cana*) is a single particle made up of two particles, yet by dividing its parts च (*ca*) is to be understood as conjunction and न (*na*) as negation. The sense is that even Indra's giving up does not go beyond what is given from your wealth. Or else: Indra too does not make crooked that to which you give; he does not forbid it but rather approves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) सुजाताः मरुतः (*(he) sujātāḥ marutaḥ*)—O Maruts of good birth
+- वः (*vaḥ*)—your
+- महित्त्वनं (*mahittvanaṃ*)—greatness
+- तत् (*tat*)—is just such
+- वः (*vaḥ*)—your
+- दात्रं (*dātraṃ*)—gift in the form of rain and the like
+- अदितेः (*aditeḥ*)—of Aditi, the mother of the gods, or of the earth
+- व्रतं इव (*vrataṃ iva*)—like the action
+- दीर्घं (*dīrghaṃ*)—very extended (unbroken)
+- यस्मै (*yasmai*)—to whichever
+- सुकृते जनाय (*sukṛte janāya*)—to the sacrificer who performs good acts such as sacrifice
+- आराध्वं (*ārādhvaṃ*)—(the desired wealth and the like) that you give
+- तत् (*tat*)—that giving
+- इंद्रः च (*iṃdraḥ ca*)—Indra also
+- त्यजसा (*tyajasā*)—by (his own) giving up
+- न वि ह्रुणाति (*na vi hruṇāti*)—does not make crooked (does not transgress)
+- तत् (*tat*)—him
+- इंद्रः च (*iṃdraḥ ca*)—Indra also
+- न वि ह्रुणाति (*na vi hruṇāti*)—does not make crooked (does not forbid, but approves)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts of good birth, your gift in the form of rain and the like is as unbroken as the action of (Aditi) Bhūdevī. And the gift of wealth and the like that you bestow on the performer of good acts such as sacrifice cannot be transgressed even by Indra (it is approved even by Indra). O Maruts, such is your greatness.
+
+### Printed p. 57
+
+##### English translation (H. H. Wilson)
+Such, well-born Maruts, is your greatness, that your munificence is as long (continued) as the function of Aditi; and Indra does not exceed by his own liberality, (the value of) that which you have bestowed upon the devout man (who worships you).
+
+##### विशेषविषयगळु (Special Topics)
+
+व्रतं (*vrataṃ*)—The word व्रतं (*vrataṃ*) is listed among the names of action (Ni. 3-1). Yāska, explaining the meaning of this word in detail, says:
+व्रतमिति कर्मनाम वृणोतीति सतः । इदमपीतरत् व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः । अन्नमपि व्रतमुच्यते यदावृणोति शरीरं । (*vratamiti karmanāma vṛṇotīti sataḥ | idamapītarat vratametasmādeva nivṛttikarma vārayatīti sataḥ | annamapi vratamucyate yadāvṛṇoti śarīraṃ |*)
+(Ni. 2-13)
+
+### Printed p. 58
+
+Thus he has given three kinds of meaning for the word व्रत (*vrata*). That is: because the good or bad action that a man performs envelops him, action is named व्रत (*vrata*); or this action may also be an action of withdrawal, that is, because it holds back, that is, prevents, an action that one does not want or that is forbidden by the śāstra, it is named व्रत (*vrata*); and because it envelops the body, food too is named व्रत (*vrata*).
+
+(1) The word व्रत (*vrata*) is used in the sense of ward off, hold back, protect:
+याः पार्थिवासो या अपामपि व्रते ता नो देवीः सुहवाः शर्म यच्छत । (*yāḥ pārthivāso yā apāmapi vrate tā no devīḥ suhavāḥ śarma yacchata |*)
+(Ṛ. Saṃ. 5-46-7)
+In the word व्रते (*vrate*) of this Ṛk the intention is protection, which wards off and makes away with वृजिन (*vṛjina*), that is, evil. The prayer is that the goddesses on earth and the goddesses in the waters may free us from trouble and bring us protection and happiness. Here व्रते (*vrate*) means the protection that frees from trouble.
+तासां नि चिक्क्युः कवयो निवानं परेषु या गुह्येषु व्रतेषु । (*tāsāṃ ni cikkyuḥ kavayo nivānaṃ pareṣu yā guhyeṣu vrateṣu |*)
+(Ṛ. Saṃ. 10-114-2)
+The poets (Nirṛtis) found what had been hidden in caves where no one could see it. Here व्रतेषु (*vrateṣu*) is used as an epithet of the word गुह्येषु (*guhyeṣu*) in the sense "hidden".
+ददृश्र विषामवमा सदांसि परेषु या गुह्येषु व्रतेषु । (*dadṛśra viṣāmavamā sadāṃsi pareṣu yā guhyeṣu vrateṣu |*)
+(Ṛ. Saṃ. 3-54-5)
+आसि यनो आस्यादित्यो अर्वन्नसि त्रितो गुह्यन व्रतेन । (*āsi yano āsyādityo arvannasi trito guhyana vratena |*)
+(Ṛ. Saṃ. 1-163-3)
+Here too the word व्रतेन (*vratena*) is used in the very sense of "hidden".
+(2) व्रत (*vrata*) indicates a prohibitory injunction, "such an act must not be done", or the rule of dharma, "only such an act must be done" (law or ordinance):
+यच्चिद्दि ते विशो यथा प्र देव वरुण व्रतं । मिनीमसि द्यविद्यवि ॥ (*yacciddi te viśo yathā pra deva varuṇa vrataṃ | minīmasi dyavidyavi ‖*)
+(Ṛ. Saṃ. 1-25-1)
+O Varuṇa, since we are mere men, whatever of your ordinances we transgress, (disregarding that, complete the rite). **NOTE**
+
+### Printed p. 59
+
+य उ श्रिया दमेष्वा दोषोषासि प्रशस्यते । यस्य व्रतं न मीयते । (*ya u śriyā dameṣvā doṣoṣāsi praśasyate | yasya vrataṃ na mīyate |*)
+(Ṛ. Saṃ. 2-8-3)
+(Agni,) whose ordinance is not transgressed ......... .
+इंद्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनंति विश्वे । (*iṃdrasya karma sukṛtā purūṇi vratāni devā na minaṃti viśve |*)
+(Ṛ. Saṃ. 3-32-8)
+Indra's deeds of valour are many and well done. The gods do not break (do not transgress) the ordinances of such an Indra.
+विश्वं सत्यं मघवाना युवोरिदापश्चन प्र मिनंति व्रतं नां । (*viśvaṃ satyaṃ maghavānā yuvoridāpaścana pra minaṃti vrataṃ nāṃ |*)
+(Ṛ. Saṃ. 2-24-12)
+O mighty gods, all that is yours is true; even the waters do not transgress your ordinances.
+वनानि विभ्यो नकिरस्य तानि व्रता देवस्य समितुर्मिनंति । (*vanāni vibhyo nakirasya tāni vratā devasya samiturminaṃti |*)
+(Ṛ. Saṃ. 2-38-7)
+No one transgresses the ordinances of this god Savitṛ.
+अमिनती दैव्यानि व्रतानि सूर्यस्य चेति रश्मिभिर्दृशाना । (*aminatī daivyāni vratāni sūryasya ceti raśmibhirdṛśānā |*)
+(Ṛ. Saṃ. 1-92-12)
+अमिनती दैन्यानि व्रतानि प्रमिनती मनुष्या युगानि । (*aminatī dainyāni vratāni praminatī manuṣyā yugāni |*)
+(Ṛ. Saṃ. 1-124-2)
+This goddess Uṣas does not transgress the ordinances of the gods.
+किं स्विन्नो राजा जगृहे कदस्याति व्रतं चकृमा को वि वेद । (*kiṃ svinno rājā jagṛhe kadasyāti vrataṃ cakṛmā ko vi veda |*)
+(Ṛ. Saṃ. 10-12-5)
+What ordinance (of this Agni) shall we transgress?
+अयमेक इत्था पुरूरु चष्टे वि विश्वतिः । तस्य व्रतान्यनु वश्चरामसि । (*ayameka itthā purūru caṣṭe vi viśvatiḥ | tasya vratānyanu vaścarāmasi |*)
+(Ṛ. Saṃ. 8-25-16)
+
+### Printed p. 60
+
+We follow (observe) his ordinances. In such Ṛks, and also in the Ṛks Ṛ. Saṃ. 10-33-9; 7-5-4; 7-87-7; 2-28-8, the word व्रत (*vrata*) indicates the meaning "ordinances". And the word अनुव्रतं (*anuvrataṃ*) in Ṛks such as Ṛ. Saṃ. 2-38-3; 2-38-6; 8-40-8; 1-136-5; 3-61-1; 4-13-2; 5-69-1 indicates the meaning "in accordance with the ordinances".
+(3) The ordinances of the gods are in some contexts explained as sacrifice or sacrificial acts, and the word व्रत (*vrata*) is used because performing sacrifices and other rites is said to be carrying out the wishes or ordinances of the gods:
+यो अग्नीषोमा हविषा सपर्याद्देवद्रीचा मनसा यो धृतेन । तस्य व्रतं रक्षतं पातमंहसो विशे जनाय महि शर्म यच्छतं (*yo agnīṣomā haviṣā saparyāddevadrīcā manasā yo dhṛtena | tasya vrataṃ rakṣataṃ pātamaṃhaso viśe janāya mahi śarma yacchataṃ*)
+(Ṛ. Saṃ. 1-93-8)
+O Agni and Soma, the man (the sacrificer) who worships Agni and Soma wholeheartedly with oblations and the like, protect his sacrifice and guard him so that no harm comes to him.
+त्वमग्ने प्रथमो अंगिरस्तमः कविर्देवानां परि भूषसि व्रतं । (*tvamagne prathamo aṃgirastamaḥ kavirdevānāṃ pari bhūṣasi vrataṃ |*)
+(Ṛ. Saṃ. 1-31-2)
+O Agni, you are the foremost and first among the Aṅgiras seers, and a poet. You carry out the sacrifice of the gods.
+तस्य व्रतानि भूरिपोषिणो वयमुप भूषेम दम आ सुवृक्तिभिः । (*tasya vratāni bhūripoṣiṇo vayamupa bhūṣema dama ā suvṛktibhiḥ |*)
+(Ṛ. Saṃ. 3-3-9)
+Let us, endowed with wealth and other prosperity, carry out in our house Agni's sacrificial acts with hymns of praise and the like. In such Ṛks, and also in the Ṛks Ṛ. Saṃ. 3-6-5; 8-42-1; 6-14-3; 1-24-15; 6-54-9; 10-36-13; 5-18-5, the word व्रत (*vrata*) is used in one of the meanings sacrifice, sacrificial act or action. When the words in the various mantras are explained so that the sense fits, one must give, according to the context, whichever of the three meanings stated by Yāska properly fits the word व्रत (*vrata*). This is the main meaning and the usage of the word व्रत (*vrata*).
+
+दात्रं (*dātraṃ*)—दानं (*dānaṃ*). The meaning is gift, giving. For words such as दाता (*dātā*) and दात्रं (*dātraṃ*), formed from the root दा दाने (*dā dāne*), the meaning is "one who gives" and "giving".
+
 ---
 
-**Progress note:** Done through printed p. 54. pp. 49-54 (batch API)
+**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
