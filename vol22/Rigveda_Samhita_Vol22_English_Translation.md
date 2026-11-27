@@ -11969,6 +11969,228 @@ The sūkta इमा रुद्राय (*imā rudrāya*), of four Ṛks, is 
 
 Anuvāda: This sūkta इमा रुद्राय (*imā rudrāya*) is the thirteenth sūkta in the third anuvāka. It has four Ṛks. Vasiṣṭha is the seer of this sūkta; Rudra is the deity;
 
+### Printed p. 271
+The last Ṛk of this sūkta is in the Triṣṭup metre; the remaining Ṛks are in the Jagatī metre. The Anukramaṇikā says इमा रौद्रं त्रिष्टुबंतं (*imā raudraṃ triṣṭubaṃtaṃ*). In Rudra-sacrifices such as the Śūlagava, the northern direction is to be addressed with this sūkta by way of upasthāna. This is set out in the Āśvalāyana Gṛhyasūtra by the sūtra इमा रुद्राय स्थिरधन्वन इति सर्वरुद्रयज्ञेषु दिशामुपस्थानं (*imā rudrāya sthiradhanvana iti sarvarudrayajñeṣu diśāmupasthānaṃ*) (Ā. Gṛ. 4-9-21).
+
+Maṇḍala 7; Anuvāka 3; Sūkta 46. Aṣṭaka 5; Adhyāya 4; Varga 13. Number of Ṛks in the sūkta: 4. Seer: Vasiṣṭha. Deity: Rudra. Metre: 1, 2, 3 Jagatī; 4 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा रु॒द्राय॑ स्थि॒रध॑न्वने॒ गिरः॑ क्षि॒प्रेष॑वे दे॒वाय॑ स्व॒धाव्ने॑ ।  
+> अषा॑ळ्हाय॒ सह॑मानाय वे॒धसे॑ ति॒ग्मायु॑धाय भरता शृ॒णोतु॑ नः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । रुद्राय । स्थिरधन्वने । गिरः । क्षिप्रइषवे । देवाय । स्वधाव्ने ।  
+> अषाळ्हाय । सहमानाय । वेधसे । तिग्मआयुधाय । भरत । शृणोतु । नः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीयाः स्तोतारः यूयमिमा गिरः स्तुती रुद्रायेतन्नामकाय
+> देवाय भरत । धारयत । कीदृशाय । स्थिरधन्वने दृढधनुष्काय क्षिप्रेषवे शीघ्रगामिबाणाय स्वधाव्नेन्नवतेषाळ्हाय केनाप्यनभिभूताय सहमानाय शत्रूणामभिभवित्रे वेधसे विधात्रे तिग्मायुधाय तीक्ष्णास्त्राय । एवंभूताय रुद्राय
+> स्तुतीर्भरत । स च रुद्रो नोऽस्मदीयाः स्तुतीः शृणोतु ॥
+
+##### Gist of the bhāṣya
+
+O our praisers, bear these praises to the god named Rudra. He is of what kind? He has a firm bow (स्थिरधन्वने (*sthiradhanvane*)), fast-flying arrows (क्षिप्रेषवे (*kṣipreṣave*)), is स्वधाव्ने (*svadhāvne*) "possessed of food", अषाळ्हाय (*aṣāḷhāya*) "unovercome by anyone", सहमानाय (*sahamānāya*) "the overcomer of enemies", वेधसे (*vedhase*) "the creator", तिग्मायुधाय (*tigmāyudhāya*) "of sharp weapons". Bring praises to Rudra so characterised, and may that Rudra hear our praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमाः गिरः (*imāḥ giraḥ*)—these praises
+- स्थिरधन्वने (*sthiradhanvane*)—to him who has a firm bow
+- क्षिप्रेषवे (*kṣipreṣave*)—who has swift-going arrows
+- स्वधाव्ने (*svadhāvne*)—who has food
+- अषाळ्हाय (*aṣāḷhāya*)—the unresisted
+- सहमानाय (*sahamānāya*)—who has the power to defeat enemies
+- वेधसे (*vedhase*)—the creator of the world
+
+### Printed p. 272
+- तिग्मायुधाय (*tigmāyudhāya*)—who has sharp weapons
+- देवाय (*devāya*)—the divine one
+- रुद्राय (*rudrāya*)—to Rudra, to offer
+- भरत (*bharata*)—bear
+- नः (*naḥ*)—our praises
+- शृणोतु (*śṛṇotu*)—may he hear
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, fashion and offer these praises to Rudra, who has a firm bow, swift-going arrows, food, who is unresisted, has the power to defeat enemies, is the maker of the world, has sharp weapons, and is divine in nature. May that same Rudra hear our praises.
+
+##### English translation
+Offer these praises to the divine Rudra, armed with the strong bow and fast-flying arrows, the bestower of food, the invincible, the conqueror, the creator, the wielder of sharp weapons : may he hear our (praises).
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska explains the derivation of the word Rudra thus:
+रुद्रो रौतीति सतः । रोरूयमाणो द्रवतीति वा रोदयतेर्वा । यदरुदत्तद्रुद्रस्य रुद्रत्वं इति काठकं । यदरोदीत्तद्रुद्रस्य रुद्रत्वं इति हारिद्रविकं । तस्यैषा भवति ॥ (*rudro rautīti sataḥ | rorūyamāṇo dravatīti vā rodayatervā | yadarudattadrudrasya rudratvaṃ iti kāṭhakaṃ | yadarodīttadrudrasya rudratvaṃ iti hāridravikaṃ | tasyaiṣā bhavati ‖*) (Ni. 10-6)
+The word Rudra may be formed from the root रौति (*rauti*), meaning to cry or roar loudly; or from the root द्रवति (*dravati*) preceded by रु (*ru*), meaning to run crying; or from the root रुद् (*rud*), meaning to weep. On this point the Kāṭhaka śruti यदरुदत्तद्रुद्रस्य रुद्रत्वं (*yadarudattadrudrasya rudratvaṃ*) is an example: because this god roared loudly, he got the name Rudra. Also the Hāridravika śruti sentence यदरोदीत्तद्रुद्रस्य रुद्रत्वं (*yadarodīttadrudrasya rudratvaṃ*) may be cited as authority: because he roared, this god got the name Rudra; roaring is his natural quality. In the Ṛgveda, a Ṛk that tells of this god Rudra is given here as an example:
+इमा रुद्राय स्थिरधन्वने गिरः क्षिप्रेषवे देवाय स्वधाव्ने । अषाळ्हाय सहमानाय वेधसे तिग्मायुधाय भरता शृणोतु नः ॥ (*imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhāvne | aṣāḷhāya sahamānāya vedhase tigmāyudhāya bharatā śṛṇotu naḥ ‖*) (Mai. Saṃ. 7-86-1)
+इमा रुद्राय दृढधन्वने गिरः क्षिप्रेषवे देवायान्नवतेऽषाढायान्नैः । सहमानाय विधात्रे तिग्मायुधाय भरत शृणोतु नः । (*imā rudrāya dṛḍhadhanvane giraḥ kṣipreṣave devāyānnavate 'ṣāḍhāyānnaiḥ | sahamānāya vidhātre tigmāyudhāya bharata śṛṇotu naḥ |*)
+
+### Printed p. 273
+तिग्मं तेजतेरुत्साहकर्मणः । आयुधमायोधनात् । तस्यैषा परा भवति ॥ (*tigmaṃ tejaterutsāhakarmaṇaḥ | āyudhamāyodhanāt | tasyaiṣā parā bhavati ‖*) (Ni. 10-6)
+Offer these words of praise to the god Rudra. His bow is firm. The arrows leaving his bow travel very swiftly. He is rich in food: that is, he has abundant food and drink to give to those who praise him. He harms his enemies, but he himself is unassailed. He is the regulator of the actions that people perform. His weapon is very sharp. May such a god listen to our praises: such is the purport of the Nirukta.
+The word तिग्म (*tigma*) is formed from the root तीज् (*tīj*) "to sharpen" and means very sharp. आयुध (*āyudha*) means the instrument by which one fights and defeats enemies. Another example concerning this Rudra will be given (see the Special Topics of the third Ṛk of this sūkta).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि क्षये॑ण॒ क्षम्य॑स्य॒ जन्म॑नः॒ साम्रा॑ज्येन दि॒व्यस्य॒ चेत॑ति ।  
+> अव॒न्नवं॑ती॒रुप॑ नो॒ दुर॑श्चरानमी॒वो रु॑द्र॒ जासु॑ नो भव ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । क्षयेण । क्षम्यस्य । जन्मनः । साम्राज्येन । दिव्यस्य । चेतति ।  
+> अवन् । अवंतीः । उप । नः । दुरः । चर । अनमीवः । रुद्र । जासु । नः । भव ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि खलु रुद्रो देवः क्षम्यस्य क्षमायां पृथिव्यां भवः । तस्य जन्मनो
+> जनस्य क्षयेणैश्वर्येण चेतति प्रज्ञायते । दिव्यस्य जनस्य च साम्राज्येनैश्वर्येण
+> प्रज्ञायते । शेषः प्रत्यक्षकृतः । हे रुद्र देव त्वं चावंतीस्त्वां स्तोत्रैः स्पर्पयंतीर्नोऽस्मदीयाः प्रजा अवन् पालयन् दुरो मर्यादा अस्मदीयानि गृहाण्युप चर । उपगच्छ । किंच त्वं नोऽस्मदीयासु प्रजास्वनमीवः । अमीवा रोगः ।
+> तामकुर्वन् भव ॥
+
+##### Gist of the bhāṣya
+
+That Rudra is क्षम्यस्य (*kṣamyasya*), "born on earth (क्षमा (*kṣamā*))"; he is known by his lordship (क्षयेण (*kṣayeṇa*)) over the people of earth, and by his sovereignty (साम्राज्येन (*sāmrājyena*)) over the people of heaven (दिव्यस्य (*divyasya*)). The rest is to be supplied. O Rudra, protecting (अवन् (*avan*)) our people who propitiate you with hymns, visit our homes (दुरः (*duraḥ*)). And be अनमीवः (*anamīvaḥ*), making no अमीवा (*amīvā*) (disease) among our offspring.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि (*sa hi*)—that same Rudra
+- क्षम्यस्य (*kṣamyasya*)—of those born on earth
+- जन्मनः (*janmanaḥ*)—for the people
+- क्षयेण (*kṣayeṇa*)—through his wealth
+- चेतति (*cetati*)—becomes perceptible
+- दिव्यस्य (*divyasya*)—for the people of the world of the gods
+- साम्राज्येन (*sāmrājyena*)—
+
+### Printed p. 274
+- through his lordship is he known
+- रुद्र (*rudra*)—O Rudra
+- अवंतीः (*avaṃtīḥ*)—who satisfy you with praises
+- नः (*naḥ*)—us
+- अवन् (*avan*)—protecting
+- दुरः (*duraḥ*)—to our homes
+- उप चर (*upa cara*)—come and be present
+- नः जासु (*naḥ jāsu*)—among the people belonging to us
+- अनमीवः (*anamīvaḥ*)—as the preventer of disease
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+Rudra is known to those born on earth in the form of his wealth, and to those born in the heavenly world through his lordship. O Rudra, protect us who satisfy you with praises, and come to our homes. Be a preventer of disease among the people who belong to us.
+
+##### English translation
+He is known by his rule over those of terrestrial birth, by his sovereignty over those of celestial (origin) : protecting our progeny, Rudra, propitiating you (by praise), come to our dwellings, and be to them a guardian against disease.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॑ दि॒द्युदव॑सृष्टा दि॒वस्परि॑ क्ष्म॒या चर॑ति॒ परि॒ सा वृ॑णक्तु नः ।  
+> स॒हस्रं॑ ते स्वपिवात भेष॒जा मा न॑स्तो॒केषु॒ तन॑येषु रीरिषः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । दिद्युत् । अवसृष्टा । दिवः । परि । क्ष्मया । चरति । परि । सा । वृणक्तु । नः ।  
+> सहस्रं । ते । सु‌अपिवात । भेषजा । मा । नः । तोकेषु । तनयेषु । रीरिषः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रुद्र ते दैव्यैतात्मनस्तव संबंधिनी दिवस्पर्यंतरिक्षप्रकाशादवसृष्टा निमुक्ता या दिद्युदशनिरूपा हेतिः क्ष्मया क्षित्या क्षितौ वा चरति वर्तते सा दिद्युन्नोऽस्मान् परि वृणक्तु । परित्यजतु । अपि च हे स्वपिवात ते तव सहस्रं बहूनि भेषजा
+> भेषजानि यान्यौषधानि संति तान्यस्मभ्यं प्रयच्छेति शेषः । नोऽस्माकं तोकेषु
+> पुत्रेषु तनयेषु च मा रीरिषः । हिंसां मा कृथाः ॥
+
+##### Gist of the bhāṣya
+
+O Rudra, the lightning-weapon (दिद्युत् (*didyut*)) of you, of divine nature, discharged (अवसृष्टा (*avasṛṣṭā*)) from heaven's radiance in the atmosphere, which moves over the earth (क्ष्मया (*kṣmayā*) meaning क्षित्या (*kṣityā*) or क्षितौ (*kṣitau*)): may it pass us by (परि वृणक्तु (*pari vṛṇaktu*) = परित्यजतु (*parityajatu*)). And, O स्वपिवात (*svapivāta*), your thousand medicaments: give them to us (this is to be supplied). Do not harm (मा रीरिषः (*mā rīriṣaḥ*)) our sons (तोकेषु (*tokeṣu*)) and grandsons (तनयेषु (*tanayeṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Rudra) ते (*te*)—that which belongs to you
+- दिवस्परि (*divaspari*)—from the atmosphere
+- अवसृष्टा (*avasṛṣṭā*)—and is discharged
+- या विद्युत् (*yā vidyut*)—which lightning-form weapon
+- क्ष्मया (*kṣmayā*)—over the earth
+- चरति (*carati*)—
+
+### Printed p. 275
+- moves about
+- सा (*sā*)—that same weapon of power
+- नः (*naḥ*)—us
+- परि वृणक्तु (*pari vṛṇaktu*)—let it leave alone
+- स्वपिवाते (*svapivāte*)—O Rudra, of beneficent conduct
+- ते (*te*)—with you
+- सहस्रं (*sahasraṃ*)—in great abundance
+- भेषजा (*bheṣajā*)—medicines are
+- नः (*naḥ*)—our
+- तोकेषु (*tokeṣu*)—among sons
+- तनयेषु (*tanayeṣu*)—among their sons (grandsons)
+- मा रीरिषः (*mā rīriṣaḥ*)—do not cause harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Rudra, may that lightning-form weapon of yours, discharged from the atmosphere, which moves over the earth, leave us alone. O Rudra of beneficent conduct, you have many kinds of medicines. Do not cause harm to our sons and their sons.
+
+##### English translation
+May your blazing (weapon). which, discharged from heaven traverses the earth, avoid us : yours, appeaser of the wind, are a thousand medicaments: inflict not evil upon our sons and grandsons.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the derivation and meaning of the word Rudra, Yāska takes this Ṛk as an example and gives the Nirukta for it also:
+या ते दिद्युदवसृष्टा दिवस्परि क्ष्मया चरति परि सा वृणक्तु नः । सहस्रं ते स्वपिवात भेषजा मा नस्तोकेषु तनयेषु रीरिषः ॥ (*yā te didyudavasṛṣṭā divaspari kṣmayā carati pari sā vṛṇaktu naḥ | sahasraṃ te svapivāta bheṣajā mā nastokeṣu tanayeṣu rīriṣaḥ ‖*)
+तोकं तुद्यतेः । तनयं तनोतेः ॥ (*tokaṃ tudyateḥ | tanayaṃ tanoteḥ ‖*)
+अग्निरपि रुद्र उच्यते । तस्यैषा भवति । (*agnirapi rudra ucyate | tasyaiṣā bhavati |*)
+जराबोध तद्विविड्ढि विशेविशे यज्ञियाय । स्तोमं रुद्राय दृशीकं ॥ जरा स्तुति........दर्शनीयं ॥ (*jarābodha tadviviḍḍhi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkaṃ ‖ jarā stuti........darśanīyaṃ ‖*) (Ni. 10-1)
+O Rudra, may your shining weapon, hurled from above the heavenly world, not touch us. The word दिद्युत् (*didyut*) may be formed from the root द्यति (*dyati*) meaning to cut, or from the root द्युति (*dyuti*) meaning to apply or to harm, or from the root द्युत् (*dyut*) (द्योतति (*dyotati*)) meaning to shine. The word means "shining". क्ष्मया चरति (*kṣmayā carati*): क्षा (*kṣā*) is the earth; क्ष्मया चरति (*kṣmayā carati*) means it moves over the earth or along with the earth. Or it means that it moves causing destruction. May such a destructive weapon of Rudra pass over us without harming us or touching us. (स्वपिवात (*svapivāta*) — स्वाप्तवचन (*svāptavacana*))
+
+### Printed p. 276
+O Rudra of beneficial words, you have thousands of medicines. Do not harm our sons and grandsons. The word तोकं (*tokaṃ*) is formed from the root तुद् (*tud*) (to push, thrust, impel), meaning "do this", "impel", and signifies a son: a son who is impelled by his father to do such and such a work. The word तनय (*tanaya*) is formed from the root तनु विस्तारे (*tanu vistāre*), meaning to extend, and signifies a grandson: one who extends and increases the family.
+Agni too is on some occasions called Rudra. On this point the Ṛk जराबोध तद्विविड्ढि विशेविशे यज्ञियाय । स्तोमं रुद्राय दृशीकं (*jarābodha tadviviḍḍhi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkaṃ*) is itself the example: this is the main purport of the Nirukta.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ वधी रुद्र॒ मा परा॑ दा॒ मा ते॑ भूम॒ प्रसि॑तौ हीळि॒तस्य॑ ।  
+> आ नो॑ भज ब॒र्हिषि॑ जीवशं॒से यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । वधीः । रुद्र । मा । परा । दाः । मा । ते । भूम । प्रसितौ । हीळितस्य ।  
+> आ । नः । भज । बर्हिषि । जीवशंसे । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रुद्र त्वं नोऽस्मान् मा वधीः । मा हिंसीः । तथा मा परा दाः । मा च त्याक्षीः । अपि च हीळितस्य क्रुद्धस्य ते तव प्रसितौ प्रकर्षेण बंधने वयं च मा भूम । किंच जीवशंसे जीवैराशंसनीये बर्हिषि यज्ञे नोऽस्माना भज । भागिनः कुरु । हे रुद्रप्रमुखा देवाः यूयं नोऽस्मान्कल्याणैः सर्वदा पालयत ॥
+
+##### Gist of the bhāṣya
+
+O Rudra, do not slay (मा वधीः (*mā vadhīḥ*)) us; do not give us up (मा परा दाः (*mā parā dāḥ*) = do not abandon). Nor let us be in the bond (प्रसितौ (*prasitau*), in binding fast) of you when angered (हीळितस्य (*hīḷitasya*)). Further, grant us a share (आ भज (*ā bhaja*) = make us sharers) in the sacrifice (बर्हिषि (*barhiṣi*)) which is to be wished for by the living (जीवशंसे (*jīvaśaṃse*)). O gods led by Rudra, protect us always with blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्र (*rudra*)—O Rudra
+- नः (*naḥ*)—us
+- मा वधीः (*mā vadhīḥ*)—do not harm
+- मा परा दाः (*mā parā dāḥ*)—do not give up to enemies
+- हीळितस्य (*hīḷitasya*)—of you who are angered
+- ते (*te*)—your
+- प्रसितौ (*prasitau*)—in the bond
+- मा भूम (*mā bhūma*)—let us not be caught
+- जीवशंसे (*jīvaśaṃse*)—desired for life
+- बर्हिषि (*barhiṣi*)—in the sacrifice
+- नः (*naḥ*)—us
+- आ भज (*ā bhaja*)—make sharers
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
 ---
 
-**Progress note:** Done through printed p. 270. pp. 265-270 (batch API)
+**Progress note:** Done through printed p. 276. pp. 271-276 (batch API)
