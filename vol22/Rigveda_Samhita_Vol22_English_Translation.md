@@ -6908,6 +6908,352 @@ O gods, let the inauspicious weapons of our enemies move far away from us in eve
 ##### English translation
 May the blazing (weapons) of foes pass by innocuous ; separate, (gods) universally (from us) the sin of our bodies.
 
+### Printed p. 157
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवी॑न्नो अ॒ग्निर्ह॒व्यान्नमो॑भिः॒ प्रेष्ठो॑ अस्मा अधायि॒ स्तोमः॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवीत् । नः । अग्निः । हव्यऽअत् । नमःऽभिः । प्रेष्ठः । अस्मै । अधायि । स्तोमः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हव्याद्धव्यानामत्ता अग्निर्नमोभिरस्मदीयैर्नमस्कारैः प्रेष्ठः प्रियतमः सन्नोऽस्मानवीत् । रक्षतु । अस्मा अग्नये स्तोमः स्तोत्रमधायि । अस्माभिर्व्यधायि ॥
+
+##### Gist of the bhāṣya
+
+Agni is हव्यात् (*havyāt*), the eater of oblations. Being most dear through our homage (नमोभिः (*namobhiḥ*), our salutations), he is to protect us (अवीत् (*avīt*), "let him protect"). To him this praise (स्तोमः (*stomaḥ*), hymn) has been offered by us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हव्यात् (*havyāt*)—the one who eats the oblation
+- अग्निः (*agniḥ*)—Agni
+- नमोभिः (*namobhiḥ*)—satisfied by our praises
+- प्रेष्ठः (*preṣṭhaḥ*)—being the most dear to us
+- नः (*naḥ*)—us
+- अवीत् (*avīt*)—let him protect
+- अस्मै (*asmai*)—addressed to this Agni
+- स्तोमः (*stomaḥ*)—the hymn
+- अधायि (*adhāyi*)—is offered by us
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, the eater of oblations, satisfied by our praises and being most dear to us, protect us. The hymn addressed to this Agni is offered by us.
+
+##### English translation
+May Agni, the feeder on oblations, propitiated by our homage, protect us ; to him has our praise been addressed.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒जूर्दे॒वेभि॑र॒पां नपा॑तं॒ सखा॑यं कृध्वं शि॒वो नो॑ अस्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सऽजूः । देवेभिः । अपां । नपातं । सखायं । कृध्वं । शिवः । नः । अस्तु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः अपामुदकानां नपातं पुत्रमग्निं । सूनुर्नपादित्यपत्यनामसु पाठात् । देवेभिर्देवैः सजूः सह सखायं मित्रं स्तुतिभिः कृध्वं । कुरुध्वं । स चापां नपान्नोऽस्मभ्यं शिवः सुखकरोऽस्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+"O praiser, with praises make Agni, the son (नपातं (*napātaṃ*)) of the waters, a friend, together with the gods." *napāt* is read among the words for offspring: *sūnurnapāt*. May that Agni, the son of the waters, be auspicious, a bringer of happiness, to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers,) सखायं (*sakhāyaṃ*)—Agni, who is a friend to us
+- अपां (*apāṃ*)—of the waters
+- नपातं (*napātaṃ*)—who is as a son; him
+- देवेभिः सजूः (*devebhiḥ sajūḥ*)—together with the other gods
+- कृध्वं (*kṛdhvaṃ*)—worship
+- (may that same Agni) नः (*naḥ*)—to us
+- शिवः (*śivaḥ*)—be a bringer of good
+- अस्तु (*astu*)—let him be
+
+### Printed p. 158
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, worship together with the other gods Agni, who is a friend to us and as a son to the waters. May that same Agni be a bringer of good to us.
+
+##### English translation
+Glorify along with the gods our friend, the grandson of the waters : may he be propitious to us.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ब्जामु॒क्थैरहिं॑ गृणीषे बु॒ध्ने न॒दीनां॒ रजः॑सु॒ षीद॑न् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्ऽजां । उक्थैः । अहिं । गृणीषे । बुध्ने । नदीनां । रजःसु । सीदन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहिं मेघानामाहंतारं नदीनामुदकानां बुध्ने स्थाने । बुध्नमंतरिक्षं बद्धा अस्मिन् धृता आप इति व्युत्पत्तेः । तस्मिन्रजःसूदकेषु सीदन् सीदंतमब्जामप्सु जातमिममग्निमुक्थैः स्तोत्रैर्गृणीषे । बुध्ने नदीनां रजःसूदकेषु सीदन् बुध्नमंतरिक्षं बद्धा अस्मिन् धृता आप इति । नि. १०-४४ । इति ॥
+
+##### Gist of the bhāṣya
+
+अहिं (*ahiṃ*) is the smiter of the clouds. बुध्ने (*budhne*) means in the place of the rivers (waters), the atmosphere, from the derivation "the waters are bound and held in it". You praise with hymns (उक्थैः (*ukthaiḥ*)) this Agni, water-born (अब्जां (*abjāṃ*)), sitting in the waters of that region. He cites बुध्नमंतरिक्षं बद्धा अस्मिन् धृता आप इति (*budhnamaṃtarikṣaṃ baddhā asmin dhṛtā āpa iti*) (Ni. 10-44).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहिं (*ahiṃ*)—the one who splits the clouds
+- नदीनां (*nadīnāṃ*)—of the waters
+- बुध्ने (*budhne*)—in the atmosphere, which is the place
+- रजःसु (*rajaḥsu*)—in the waters
+- सीदन् (*sīdan*)—the one who abides
+- अब्जां (*abjāṃ*)—Agni, born in the waters
+- उक्थैः (*ukthaiḥ*)—with hymns
+- गृणीषे (*gṛṇīṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with hymns Agni, who splits the clouds, who abides in the waters in the atmosphere, the place of the waters, and who is born in the waters.
+
+##### English translation
+I glorify with hymns the disperser of the clouds in the firmament : the water-born, sitting amongst the waters of the rivers.
+
+##### विशेषविषयगळु (Special Topics)
+
+बुध्ने (*budhne*)—Yāska gives two meanings of the word बुध्न (*budhna*):
+बुध्नमंतरिक्षं बद्धा अस्मिन् धृता आप इति वा । इदमपीतरद्बुध्नमेतस्मादेव । बद्धा अस्मिन् धृताः प्राणा इति ॥ (*budhnamaṃtarikṣaṃ baddhā asmin dhṛtā āpa iti vā | idamapītaradbudhnametasmādeva | baddhā asmin dhṛtāḥ prāṇā iti ‖*) (Ni. 10-44)
+
+### Printed p. 159
+बुध्न (*budhna*) means the atmosphere, because the waters in the form of clouds are held back and made to stand in this atmosphere. Or: in this atmosphere the waters are held (in the form of vapour or of clouds). Therefore बुध्न (*budhna*) means the atmosphere.
+There is another meaning of बुध्न (*budhna*), the body, because the vital breaths are held in the body; that is, the body, which gives the breaths room to dwell, is called बुध्न (*budhna*).
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नोऽहि॑र्बु॒ध्न्यो॑ रि॒षे धा॒न्मा य॒ज्ञो अ॑स्य स्रिधदृता॒योः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । अहिः । बुध्न्यः । रिषे । धात् । मा । यज्ञः । अस्य । स्रिधत् । ऋतऽयोः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहिर्बुध्न्यः । बुध्नेऽंतरिक्षे भवो बुध्न्यः । अहिश्चासौ बुध्न्यश्चेत्यहिर्बुध्न्योऽग्निर्नोऽस्मान्रिषे हिंसकाय मा धात् । मा ददातु । अस्य ऋतायोर्यज्ञकामस्य यजमानस्य यज्ञो मा च स्रिधत् । न क्षीयेत । यद्वा । अस्याहिर्बुध्न्यस्येममहिर्बुध्न्यमुद्दिश्य ऋतायोर्यज्ञकामस्य यो यज्ञः स न क्षीयेतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+अहिर्बुध्न्यः (*ahirbudhnyaḥ*) is the one who is in the atmosphere (बुध्ने (*budhne*)), and is also अहि (*ahi*): Agni so named. Let him not give us over to the one who harms (रिषे (*riṣe*)). And let the sacrifice of this sacrifice-desiring (*ṛtāyoḥ*) worshipper not fail (स्रिधत् (*sridhat*), be destroyed). Or else: the sacrifice of one desiring sacrifice, offered to this Ahirbudhnya, is not to be destroyed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—Agni named Ahirbudhnya
+- नः (*naḥ*)—us
+- रिषे (*riṣe*)—to harm
+- मा धात् (*mā dhāt*)—let him not have the wish
+- अस्य (*asya*)—of this
+- ऋतयोः (*ṛtayoḥ*)—worshipper
+- यज्ञः (*yajñaḥ*)—the power of the sacrifice
+- मा स्रिधत् (*mā sridhat*)—let it not fail
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni named Ahirbudhnya not have the wish to harm us. May the power of this worshipper's sacrifice not fail.
+
+##### English translation
+Let not Ahirbudhnya be disposed to work us harm : let not the sacrifice of the worshipper be disregarded.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त न॑ ए॒षु नृषु॒ श्रवो॑ धुः॒ प्र रा॒ये यं॑तु॒ शर्धं॑तो अ॒र्यः
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । एषु । नृषु । श्रवः । धुः । प्र । राये । यंतु । शर्धंतः । अर्यः ॥
+
+### Printed p. 160
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं द्व्यृचो दैवो मारुतो वा । उतापि च नोऽस्मदीयेष्वेषु नृषु पुरुषेषु श्रवोऽन्नं धुः । देवा मरुतो वा धारयंतु । राये धनार्थं शर्धंते उत्सहमानाः म्रियमाणा वार्योऽरयः प्र यंतु । प्रगच्छंतु । म्रियंतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This is a pair of verses (द्व्यृचो (*dvyṛco*)), addressed to the gods or to the Maruts. "Moreover, among these our men, let the gods or the Maruts establish food (श्रवः (*śravaḥ*)). For wealth (राये (*rāye*)), let the enemies who strive, making effort, go forth (प्र यंतु (*pra yaṃtu*))", that is, let them die.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- (देवाः (*devāḥ*)—the gods)
+- नः (*naḥ*)—belonging to us
+- एषु नृषु (*eṣu nṛṣu*)—among these sacrificers
+- श्रवः (*śravaḥ*)—food
+- धुः (*dhuḥ*)—let them establish
+- राये (*rāye*)—for our wealth
+- शर्धंतः (*śardhaṃtaḥ*)—those who strive to seize it
+- अर्यः (*aryaḥ*)—enemies
+- प्र यंतु (*pra yaṃtu*)—let them go far away
+
+##### भावार्थ (Bhāvārtha)
+
+Among these sacrificers who belong to us, may the gods establish food. May the enemies who strive to seize our wealth go far away.
+(Sāyaṇa has indicated that it can also be said that this mantra and the next are both addressed to the Maruts.)
+
+##### English translation
+May (the gods) bestow food upon our people : let foes contending for our riches perish.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तपं॑ति॒ शत्रुं॒ स्व१॒॑र्ण भूमा॑ म॒हासे॑नासो॒ अमे॑भिरेषां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तपंति । शत्रुं । स्वः । न । भूम । महासेनासः । अमेभिः । एषां ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महासेनासो महासेना राजान एषां मरुतां देवानां वामेभिर्बलैर्भूमा भुवनानि स्वर्णादित्य इव शत्रुं स्वकीयं तपंति । बाधंते । महांतोऽपि राजानोऽमैर्बलैः शत्रून्बाधंते । तानि बलानि देवानामेवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The महासेनासः (*mahāsenāsaḥ*) are kings of great armies. By the strengths (अमेभिः (*amebhiḥ*)) of these Maruts or gods, they afflict their own enemy, as the sun (स्वर्ण (*svarṇa*)) the regions (भूमा (*bhūmā*)). Even great kings oppress their enemies by these strengths, which belong to the gods alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महासेनासः (*mahāsenāsaḥ*)—kings with very large armies
+- एषां (*eṣāṃ*)—of these gods
+- अमेभिः (*amebhiḥ*)—by the helps of their power
+- भूमा (*bhūmā*)—all the worlds
+- स्वर्न (*svarna*)—as the sun burns
+- शत्रुं (*śatruṃ*)—their enemies
+- तपंति (*tapaṃti*)—burn (harm)
+
+##### भावार्थ (Bhāvārtha)
+
+As the sun burns all the worlds together, kings with very large armies burn their enemies by the help of the power of these gods. (They harm them.)
+
+### Printed p. 161
+
+##### English translation
+Leaders of great armies, by the power of these (divinities), consume their foes, as the sun (scorches) the regions.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यन्नः॒ पत्नी॒र्गमं॒त्यच्छा॒ त्वष्टा॑ सुपा॒णिर्दधा॑तु वी॒रान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । नः । पत्नीः । गमंति । अच्छ । त्वष्टा । सुऽपाणिः । दधातु । वीरान् ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्यां देवपत्न्यस्त्वष्टा च देवता । यदा पत्नीर्देवानां पत्न्यो नो
+> स्मानच्छाभ्या गमंति आगच्छंति तदा सुपाणिः शोभनहस्तस्त्वष्टा देवो वीरान् पुत्रान् दधातु । अस्मेभ्यं ददातु ॥
+
+##### Gist of the bhāṣya
+
+In this verse the deities are the wives of the gods and Tvaṣṭṛ. When the wives of the gods come to us, then Tvaṣṭṛ, fair-handed (सुपाणिः (*supāṇiḥ*)), is to bestow heroes, that is sons, and give them to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पत्नीः (*patnīḥ*)—the wives of the gods
+- नः अच्छ (*naḥ accha*)—facing us
+- आ गमंति (*ā gamaṃti*)—come (then)
+- सुपाणिः (*supāṇiḥ*)—having auspicious hands
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- वीरान् (*vīrān*)—heroic sons
+- दधातु (*dadhātu*)—let him give to us
+
+##### भावार्थ (Bhāvārtha)
+
+When the wives of the gods come facing us to our sacrifice, may Tvaṣṭṛ, whose hands are auspicious, give us heroic sons.
+
+##### English translation
+When the wives (of the gods) come before us, may the dextrous Twashtri grant us male progeny.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ नः॒ स्तोमं॒ त्वष्टा॑ जुषेत॒ स्याद॒स्मे अ॒रम॑तिर्वसू॒युः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । नः । स्तोमं । त्वष्टा । जुषेत । स्यात् । अस्मे इति । अरमतिः । वसुऽयुः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तोस्त्राकं स्तोमं स्तोत्रं त्वष्टा प्रति जुषेत । प्रतिसेवेत । अपि चारमतिः पर्याप्तबुद्धिः सर्वविषयव्यापिबुद्धिर्वा त्वष्टास्माकं अस्मदर्थं वसूयुर्धनेच्छावान् स्यात् । भूयात् ॥
+> 21
+
+##### Gist of the bhāṣya
+
+Let Tvaṣṭṛ be pleased with (प्रति जुषेत (*prati juṣeta*)) our praise (स्तोमं (*stomaṃ*)). Also let Tvaṣṭṛ, of sufficient (अरमतिः (*aramatiḥ*)) understanding, or of understanding that pervades all things, be desirous of wealth (वसूयुः (*vasūyuḥ*)) for us.
+
+### Printed p. 162
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- स्तोमं (*stomaṃ*)—praise
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- प्रति जुषेत (*prati juṣeta*)—let him accept
+- अरमतिः (*aramatiḥ*)—that same Tvaṣṭṛ, of full knowledge
+- अस्मे (*asme*)—in our regard
+- वसूयुः (*vasūyuḥ*)—desirous of wealth (to give to us)
+- स्यात् (*syāt*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+May Tvaṣṭṛ accept our praise. May that same Tvaṣṭṛ, of full knowledge, be desirous of wealth in order to give it to us.
+
+##### English translation
+May Twastri be propitiated by this our praise : may he who is of comprehensive understanding be inclined to give us wealth.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता नो॑ रासन्राति॒षाचो॒ वसू॒न्या रोद॑सी वरुणा॒नी शृ॑णोतु ।  
+> वरू॑त्रीभिः सुशर॒णो नो॑ अस्तु॒ त्वष्टा॑ सु॒दत्रो॒ वि द॑धातु॒ रायः॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । नः । रासन् । रातिऽसाचः । वसूनि । आ । रोदसी इति । वरुणानी । शृणोतु ।  
+> वरूत्रीभिः । सुशरणः । नः । अस्तु । त्वष्टा । सुदत्रः । वि । दधातु । रायः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता यान्यस्माकमभीष्टानि तानि वसूनि धनानि रातिषाचो दानसमवेता देवपत्न्यो नोऽस्मभ्यं रासन् । प्रयच्छंतु । अपि च वरुणानी वरुणस्य पत्न्यै शृणोतु । अस्मदीयं स्तोत्रमभिशृणोतु । रोदसी द्यावापृथिव्यौ चाभिशृणुतां । सुदत्रः कल्याणदानस्त्वष्टा च वरूत्रीभिरुपद्रवाणां वारयित्रीभिर्देवपत्नीभिः सह नोऽस्मभ्यं सुशरणः सुशरणप्रदोऽस्तु । रायो धनानि च विदधातु ॥
+
+##### Gist of the bhāṣya
+
+"Those desired things of ours, the riches (वसूनि (*vasūni*)), let the gift-accompanied (रातिषाचः (*rātiṣācaḥ*)) wives of the gods give (रासन् (*rāsan*)) to us. And let Varuṇānī, the wife of Varuṇa, hear our praise, and let Heaven and Earth (रोदसी (*rodasī*)) hear it. And Tvaṣṭṛ, of good gifts (सुदत्रः (*sudatraḥ*)), together with the wives of the gods who ward off (वरूत्रीभिः (*varūtrībhiḥ*)) calamities, be to us a giver of good refuge (सुशरणः (*suśaraṇaḥ*)), and let him bestow riches."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रातिषाचः (*rātiṣācaḥ*)—the wives of the gods, endowed with gifts
+- ता (*tā*)—desired by us
+- वसूनि (*vasūni*)—riches
+- नः (*naḥ*)—to us
+- रासन् (*rāsan*)—let them give
+- वरुणानी (*varuṇānī*)—the wife of Varuṇa
+- आ शृणोतु (*ā śṛṇotu*)—let her hear our praise
+- रोदसी (*rodasī*)—let Heaven and Earth also hear
+- सुदत्रः (*sudatraḥ*)—the excellent giver
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- वरूत्रीभिः (*varūtrībhiḥ*)—together with the wives of the gods who ward off calamities
+
 ---
 
-**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
+**Progress note:** Done through printed p. 162. pp. 157-162 (batch API)
