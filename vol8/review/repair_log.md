@@ -1701,3 +1701,138 @@
 | page | old → new | why |
 |---|---|---|
 | 626 | `## Rik 109.2 — printed pp. 627–[?]` → `## Rik 109.2 — printed pp. 627–630` | SECOND-PASS Q1: Kannada: the Rik runs to p. 630 (Rik 109.3 begins on p. 631) |
+
+### 2026-11-27 second pass, batch m323-472.tsv
+| page | old → new | why |
+|---|---|---|
+| 645 | `Pā. Sū. 62-169 as read [?]` → `Pā. Sū. 6-2-139` | SECOND-PASS Q1: Kannada reads 6-2-139 in this context |
+| 645 | `Pā. Sū. 7-1-37 as read [?]` → `Pā. Sū. 7-1-37` | SECOND-PASS Q2: Kannada has the same number 7-1-37 in this context |
+| 645 | `Pā. Sū. 3-1-25 as read [?]` → `Pā. Sū. 3-1-25` | SECOND-PASS Q2: Kannada has the same number 3-1-25 in this context |
+| 645 | `645–[?]` → `645–649` | SECOND-PASS Q1: Kannada: the closing ‖ 6 ‖ of the Ṛk stands on printed p. 649 |
+| 646 | `*aviṣa* [?]` → `*haviṣaḥ*` | SECOND-PASS Q1: Kannada p. 646 ಪಶೋರ್ಹವಿಷಃ (haviṣaḥ) |
+| 646 | `(*Ā.* 1-52 as read [?])` → `(*Ā.* 3-7)` | SECOND-PASS Q1: Kannada p. 646 reads Ā. 3-7 for the same sūtra |
+| 647 | `Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 647` → `Va. 29"; centre "Ṛgvedasaṃhitā"; right 647` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 29) |
+| 647 | `(*Ā.* 3-7 as read [?])` → `(*Ā.* 3-7)` | SECOND-PASS Q2: Kannada p. 647 has Ā. 3-7 |
+| 648 | `s (*Ni.* 3-[?])` → `s (*Ni.* 2-24)` | SECOND-PASS Q1: Kannada p. 648 ನಿ. 2-24 for the names of rivers |
+| 648 | `1-6[?]-[?]3` → `1-93-5` | SECOND-PASS Q1: Kannada p. 648 ಋ. 1-93-5 (ಸಿಂಧೂನ್) |
+| 648 | `649, noted briefly; numerals small and doubtful [?])` → `649, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 648 | `Pā. Sū. 3-9-75 as read [?]` → `Pā. Sū. 3-9-75` | SECOND-PASS Q2: Kannada has the same number 3-9-75 in this context |
+| 648 | `, Pā. Sū. 6-1-108 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 648 | `Pā. Sū. 6-2-144 as read [?]` → `Pā. Sū. 6-2-144` | SECOND-PASS Q2: Kannada has the same number 6-2-144 in this context |
+| 648 | `Pā. Sū. 6-1-171 as read [?]` → `Pā. Sū. 6-1-171` | SECOND-PASS Q2: Kannada has the same number 6-1-171 in this context |
+| 648 | `Pā. Sū. 6-1-174 as read [?]` → `Pā. Sū. 6-1-174` | SECOND-PASS Q2: Kannada has the same number 6-1-174 in this context |
+| 649 | `Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 649` → `Va. 29"; centre "Ṛgvedasaṃhitā"; right 649` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 29) |
+| 649 | `Pā. Sū. 3-4-6 as read [?]` → `Pā. Sū. 3-4-6` | SECOND-PASS Q2: Kannada has the same number 3-4-6 in this context |
+| 649 | `, by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]` → `, by *vyatyayo bahulam*, Pā. Sū. 3-1-85` | SECOND-PASS Q2: Kannada has the same number 3-1-85 in this context |
+| 649 | `Pā. Sū. 3-4-79 as read [?]` → `Pā. Sū. 3-4-79` | SECOND-PASS Q2: Kannada has the same number 3-4-79 in this context |
+| 649 | `Pā. Sū. 61-171 as read [?]` → `Pā. Sū. 6-1-171` | SECOND-PASS Q1: Kannada reads 6-1-171 in this context |
+| 649 | `Uṇ. 1-[?]1 as read [?]` → `Uṇ. 1-11` | SECOND-PASS Q1: Kannada reads 1-11 in this context |
+| 649 | `Pā. Sū. 6-1-30 as read [?]` → `Pā. Sū. 6-1-70` | SECOND-PASS Q1: Kannada reads 6-1-70 in this context |
+| 649 | `Pā. Sū. 5-1-119 as read [?]` → `Pā. Sū. 5-1-119` | SECOND-PASS Q2: Kannada has the same number 5-1-119 in this context |
+| 649 | `ḍā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]` → `ḍā* for the ending by *supāṃ suluk*, Pā. Sū. 6-1-39` | SECOND-PASS Q1: Kannada reads 6-1-39 in this context |
+| 649 | `649–[?]` → `649–654` | SECOND-PASS Q1: Kannada: the closing ‖ 7 ‖ of the Ṛk stands on printed p. 654 |
+| 650 | `(*Ā.* 3-2 as read [?])` → `(*Ā.* 3-7)` | SECOND-PASS Q1: Kannada p. 650 reads Ā. 3-7 for the same sūtra |
+| 650 | `(*Tai. Brā.* 2-1-2-9 as read [?])` → `(*Tai. Brā.* 2-1-2-9)` | SECOND-PASS Q2: Kannada p. 650 has Tai. Brā. 2-1-2-9 |
+| 652 | `1-10[?]-[?] [as read [?]] ('the 1st Ṛk 1-1[?]4-[?]')` → `1-105-16` | SECOND-PASS Q1: Kannada p. 652 ಋ. ಸಂ. 1-105-16ನೇ ಋಕ್ಕಿನ ವಿಶೇಷವಿಷಯಗಳಲ್ಲಿ |
+| 653 | `Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 653` → `Va. 29"; centre "Ṛgvedasaṃhitā"; right 653` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 29) |
+| 653 | `54, noted briefly; numerals small and doubtful [?])` → `54, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 653 | `Pā. Sū. 3-4-101 as read [?]` → `Pā. Sū. 3-4-101` | SECOND-PASS Q2: Kannada has the same number 3-4-101 in this context |
+| 653 | `Pā. Sū. 7-3-84 as read [?]` → `Pā. Sū. 7-3-84` | SECOND-PASS Q2: Kannada has the same number 7-3-84 in this context |
+| 653 | `Pā. Sū. 6-1-186 as read [?]` → `Pā. Sū. 6-1-189` | SECOND-PASS Q1: Kannada reads 6-1-189 in this context |
+| 653 | `Pā. Sū. 8-1-10 as read [?]` → `Pā. Sū. 7-1-10` | SECOND-PASS Q1: Kannada reads 7-1-10 in this context |
+| 653 | `Pā. Sū. 3-4-14 as read [?]` → `Pā. Sū. 3-4-14` | SECOND-PASS Q2: Kannada has the same number 3-4-14 in this context |
+| 653 | `Uṇ. 4-[?]1 as read [?]` → `Uṇ. 4-55-7` | SECOND-PASS Q1: Kannada reads 4-55-7 in this context |
+| 653 | `ḥ*, Pā. Sū. 6-1-64 as read [?]` → `ḥ*, Pā. Sū. 6-1-64` | SECOND-PASS Q2: Kannada has the same number 6-1-64 in this context |
+| 653 | `Pā. Sū. 6-3-109 as read [?]` → `Pā. Sū. 5-1-119` | SECOND-PASS Q1: Kannada reads 5-1-119 in this context |
+| 654 | `7 concludes (noted briefly; numerals small and doubtful [?])` → `7 concludes (noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 654 | `, Pā. Sū. 3-4-108 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 654 | `]; loss of the *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]` → `]; loss of the *i* by *itaś ca*` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 654 | `e*, Pā. Sū. 6-1-64 as read [?]` → `e*` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 654 | `; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72 as read [?],` → `; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72,` | SECOND-PASS Q2: Kannada has the same number 6-4-72 in this context |
+| 654 | `Pā. Sū. 8-1-66 as read [?]` → `Pā. Sū. 8-1-66` | SECOND-PASS Q2: Kannada has the same number 8-1-66 in this context |
+| 655 | `Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 655` → `Va. 29"; centre "Ṛgvedasaṃhitā"; right 655` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 29) |
+| 656 | `d among the names of battle (*Ni.* 2-[?])` → `d among the names of battle (*Ni.* 3-9)` | SECOND-PASS Q1: Kannada p. 656 ನಿ. 3-9 for the names of battle |
+| 656 | `(noted briefly; numerals small and doubtful [?])*` → `(noted briefly; numerals small and doubtful)*` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 656 | `Pā. Sū. 3-2-41 as read [?]` → `Pā. Sū. 3-2-41` | SECOND-PASS Q2: Kannada has the same number 3-2-41 in this context |
+| 656 | `Pā. Sū. 6-3-99 as read [?]` → `Pā. Sū. 6-3-99` | SECOND-PASS Q2: Kannada has the same number 6-3-99 in this context |
+| 656 | `t, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]` → `t, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39` | SECOND-PASS Q2: Kannada has the same number 7-1-39 in this context |
+| 656 | `Pā. Sū. 1-7-72 as read [?]` → `Pā. Sū. 1-7-22` | SECOND-PASS Q1: Kannada reads 1-7-22 in this context |
+| 656 | `g, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]` → `g, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39` | SECOND-PASS Q2: Kannada has the same number 7-1-39 in this context |
+| 656 | `Pā. Sū. 8-1-19 as read [?]` → `Pā. Sū. 8-1-19` | SECOND-PASS Q2: Kannada has the same number 8-1-19 in this context |
+| 657 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 657` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 657` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 657 | `(*Ā.* 2-2 as read [?])` → `(*Ā.* 7-7)` | SECOND-PASS Q1: Kannada p. 657 reads Ā. 7-7 for the same sūtra |
+| 657 | `numerals as read, small [?])` → `numerals as read, small)` | SECOND-PASS Q2: Kannada p. 657 ವರ್ಗ 30, 31 agrees |
+| 657 | `*Metre: Ṛks 7–7 and 6–8 Jagatī; 5 and 9 Triṣṭubh* (numerals as read [?])` → `*Metre: Ṛks 1–4 and 6–8 Jagatī; 5 and 9 Triṣṭubh* (numerals as read)` | SECOND-PASS Q1: Kannada p. 657 ಛಂದಃ 1.4, 6.8 ಜಗತೀ; 5, 9 ತ್ರಿಷ್ಟುಪ್ |
+| 657 | `657–[?]` → `657–663` | SECOND-PASS Q1: Kannada: the closing ‖ 1 ‖ of the Ṛk stands on printed p. 663 |
+| 659 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 659` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 659` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 659 | `ḥ* (*Ni.* 11-16 as read [?])` → `ḥ* (*Ni.* 11-16)` | SECOND-PASS Q2: Kannada p. 659 has Ni. 11-16 |
+| 662 | `63, noted briefly; numerals small and doubtful [?])` → `63, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 662 | `Pā. Sū. 3-2-102 as read [?]` → `Pā. Sū. 3-2-102` | SECOND-PASS Q2: Kannada has the same number 3-2-102 in this context |
+| 662 | `Pā. Sū. 2-170 as read [?]` → `Pā. Sū. 7-2-15` | SECOND-PASS Q1: Kannada reads 7-2-15 in this context |
+| 662 | `Pā. Sū. 6-4-37 as read [?]` → `Pā. Sū. 6-4-37` | SECOND-PASS Q2: Kannada has the same number 6-4-37 in this context |
+| 662 | `Uṇ. 4-[?]02 as read [?]` → `Uṇ. 4-647` | SECOND-PASS Q1: Kannada reads 4-647 in this context |
+| 662 | `, Pā. Sū. 6-1-197 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 662 | `Pā. Sū. 3-1-67 as read [?]` → `Pā. Sū. 3-1-67` | SECOND-PASS Q2: Kannada has the same number 3-1-67 in this context |
+| 662 | `Pā. Sū. 6-4-44 as read [?]` → `Pā. Sū. 6-4-44` | SECOND-PASS Q2: Kannada has the same number 6-4-44 in this context |
+| 662 | `Pā. Sū. 5-3-55 as read [?]` → `Pā. Sū. 5-3-55` | SECOND-PASS Q2: Kannada has the same number 5-3-55 in this context |
+| 662 | `, Pā. Sū. 6-4-155 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 662 | `, Pā. Sū. 4-1-4 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 663 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 663` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 663` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 663 | `Pā. Sū. 6-1-15 as read [?]` → `Pā. Sū. 6-1-15` | SECOND-PASS Q2: Kannada has the same number 6-1-15 in this context |
+| 663 | `Uṇ. 2-[?]0 as read [?]` → `Uṇ. 2-170` | SECOND-PASS Q1: Kannada reads 2-170 in this context |
+| 663 | `Pā. Sū. 6-4-54 as read [?]` → `Pā. Sū. 6-4-24` | SECOND-PASS Q1: Kannada reads 6-4-24 in this context |
+| 663 | `: by *chandasi ca*, Pā. Sū. 5-1-67 as read [?]` → `: by *chandasi ca*, Pā. Sū. 5-1-67` | SECOND-PASS Q2: Kannada has the same number 5-1-67 in this context |
+| 663 | `Pā. Sū. 6-2-106 as read [?]` → `Pā. Sū. 6-2-106` | SECOND-PASS Q2: Kannada has the same number 6-2-106 in this context |
+| 663 | `Pā. Sū. 1-4-61 as read [?]` → `Pā. Sū. 1-4-61` | SECOND-PASS Q2: Kannada has the same number 1-4-61 in this context |
+| 663 | `Pā. Sū. 6-2-49 as read [?]` → `Pā. Sū. 6-2-49` | SECOND-PASS Q2: Kannada has the same number 6-2-49 in this context |
+| 663 | `Pā. Sū. 3-1-73 as read [?]` → `Pā. Sū. 3-1-73` | SECOND-PASS Q2: Kannada has the same number 3-1-73 in this context |
+| 663 | `Pā. Sū. 6-1-128 as read [?]` → `Pā. Sū. 6-1-128` | SECOND-PASS Q2: Kannada has the same number 6-1-128 in this context |
+| 664 | `664–[?]` → `664–669` | SECOND-PASS Q1: Kannada: the closing ‖ 2 ‖ of the Ṛk stands on printed p. 669 |
+| 665 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 665` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 665` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 665 | `(*Ai. Brā.* 3-30 as read [?])` → `(*Ai. Brā.* 3-30)` | SECOND-PASS Q2: Kannada p. 665 has Ai. Brā. 3-30 |
+| 667 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 667` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 667` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 667 | `4-33-5-[?] and others` → `4-33-5 and others` | SECOND-PASS Q1: Kannada p. 667 reads 4-33-5 |
+| 668 | `*āpyam āpnoter* [?] (*Ni.* 6-[?]4 as read [?])` → `*āpyamāpnoteḥ* (*Ni.* 6-14)` | SECOND-PASS Q1: Kannada p. 668 ಆಪ್ಯಮಾಪ್ನೋತೇಃ (ನಿ. 6-14); IAST by sp_sanskrit.py |
+| 668 | `s, noted briefly; numerals small and doubtful [?])` → `s, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 668 | `Pā. Sū. 7-3-52 as read [?]` → `Pā. Sū. 7-3-52` | SECOND-PASS Q2: Kannada has the same number 7-3-52 in this context |
+| 668 | `* by *chandasi ca*, Pā. Sū. 5-1-67 as read [?]` → `* by *chandasi ca*, Pā. Sū. 5-4-142` | SECOND-PASS Q1: Kannada reads 5-4-142 in this context |
+| 668 | `; by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]` → `; by *vyatyayo bahulam*` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 669 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 669` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 669` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 669 | `d concludes (noted briefly; numerals small and doubtful [?])` → `d concludes (noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 669 | `a*, Pā. Sū. 7-3-77 as read [?]` → `a*, Pā. Sū. 7-1-45` | SECOND-PASS Q1: Kannada reads 7-1-45 in this context |
+| 669 | `; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72 as read [?];` → `; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72;` | SECOND-PASS Q2: Kannada has the same number 6-4-72 in this context |
+| 669 | `a*, Pā. Sū. 7-1-45 as read [?]` → `a*, Pā. Sū. 6-1-90` | SECOND-PASS Q1: Kannada reads 6-1-90 in this context |
+| 669 | `a*, Pā. Sū. 7-3-109 as read [?]` → `a*` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 669 | `Pā. Sū. 5-1-122 as read [?]` → `Pā. Sū. 5-1-122` | SECOND-PASS Q2: Kannada has the same number 5-1-122 in this context |
+| 669 | `Pā. Sū. 1-1-54 as read [?]` → `Pā. Sū. 1-1-54` | SECOND-PASS Q2: Kannada has the same number 1-1-54 in this context |
+| 669 | `Pā. Sū. 6-1-163 as read [?]` → `Pā. Sū. 6-1-163` | SECOND-PASS Q2: Kannada has the same number 6-1-163 in this context |
+| 669 | `, Pā. Sū. 6-4-134 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 669 | `ḥ*, Pā. Sū. 7-3-77 as read [?]` → `ḥ*, Pā. Sū. 7-3-77` | SECOND-PASS Q2: Kannada has the same number 7-3-77 in this context |
+| 669 | `Pā. Sū. 6-1-12 as read [?]` → `Pā. Sū. 6-1-12` | SECOND-PASS Q2: Kannada has the same number 6-1-12 in this context |
+| 669 | `, Pā. Sū. 6-4-131 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 669 | `Pā. Sū. 8-3-60 as read [?]` → `Pā. Sū. 8-3-60` | SECOND-PASS Q2: Kannada has the same number 8-3-60 in this context |
+| 669 | `669–[?]` → `669–674` | SECOND-PASS Q1: Kannada: the closing ‖ 3 ‖ of the Ṛk stands on printed p. 674 |
+| 671 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 671` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 671` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 672 | `hostile [?] vision` → `hostile vision` | SECOND-PASS Q2: Kannada p. 672 ಪ್ರತಿಭಟನಾದೃಷ್ಟಿಯಿಂದ ಎದುರಿಸಿದರು agrees |
+| 673 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 673` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 673` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 673 | `Ṛk 3-1-[?], and to Agni in 10-[?]-[?] [as read [?]]` → `Ṛk 8-98-4, and to Agni in 10-64-7` | SECOND-PASS Q1: Kannada p. 673 ಋ. ಸಂ. 8-98-4 (Indra), 10-64-7 (Agni) |
+| 673 | `74, noted briefly; numerals small and doubtful [?])` → `74, noted briefly; numerals small and doubtful)` | SECOND-PASS Q2: doubt mark only on a note (numerals remark); Kannada page has the text |
+| 673 | `*; loss of the *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]` → `*; loss of the *i* by *itaś ca*` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 673 | `Pā. Sū. 3-1-77 as read [?]` → `Pā. Sū. 3-1-77` | SECOND-PASS Q2: Kannada has the same number 3-1-77 in this context |
+| 673 | `Pā. Sū. 1-2-4 as read [?]` → `Pā. Sū. 1-2-4` | SECOND-PASS Q2: Kannada has the same number 1-2-4 in this context |
+| 673 | `, Pā. Sū. 6-4-77 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 673 | `Pā. Sū. 3-1-26 as read [?]` → `Pā. Sū. 3-1-26` | SECOND-PASS Q2: Kannada has the same number 3-1-26 in this context |
+| 674 | `U. Sū. 1-42 as read [?]` → `U. Sū. 1-42` | SECOND-PASS Q2: Kannada has the same number 1-42 in this context |
+| 674 | `u*, Pā. Sū. 7-1-45 as read [?]` → `u*` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 674 | `Pā. Sū. 7-1-58 as read [?]` → `Pā. Sū. 7-1-58` | SECOND-PASS Q2: Kannada has the same number 7-1-58 in this context |
+| 674 | `Pā. Sū. 3-1-80 as read [?]` → `Pā. Sū. 3-1-80` | SECOND-PASS Q2: Kannada has the same number 3-1-80 in this context |
+| 674 | `Pā. Sū. 6-4-48 as read [?]` → `Pā. Sū. 6-4-48` | SECOND-PASS Q2: Kannada has the same number 6-4-48 in this context |
+| 674 | `, Pā. Sū. 1-1-57 as read [?]` → `` | SECOND-PASS S3: Kannada has no number for this rule; number removed with its mark |
+| 674 | `; by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]` → `; by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1` | SECOND-PASS Q2: Kannada has the same number 6-2-1 in this context |
+| 674 | `674–[?]` → `674–678` | SECOND-PASS Q1: Kannada: the closing ‖ 4 ‖ of the Ṛk stands on printed p. 678 |
+| 675 | `Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 675` → `Va. 30"; centre "Ṛgvedasaṃhitā"; right 675` | SECOND-PASS Q2: Kannada running head agrees (A. 1 A. 7 Va. 30) |
+| 675 | `(*Ṛ.* 1-161-2 as read [?])` → `(*Ṛ.* 1-161-2)` | SECOND-PASS Q2: Kannada p. 675 has Ṛ. 1-161-2 |
+| 675 | `course of action [?]` → `course of action` | SECOND-PASS Q2: Kannada p. 675 ಕ್ರಿಯಾಪರಂ (Sāyaṇa) agrees |
+| 675 | `(*Ni.* 11-18 as read [?])` → `(*Ni.* 11-16)` | SECOND-PASS Q1: Kannada p. 675 reads ನಿ. 11-16 |
+| 676 | `(*Ni.* 3-[?]7)` → `(*Ni.* 3-19)` | SECOND-PASS Q1: Kannada p. 676 reads ನಿ. 3-19 |
+| 677 | `[thirty-?] names of 'work' (*Ni.* 3-1 as read [?])` → `26 names of 'work' (*Ni.* 3-1)` | SECOND-PASS Q1: Kannada p. 677 26 ಕರ್ಮನಾಮಗಳಲ್ಲಿ (ನಿ. 3-1) |

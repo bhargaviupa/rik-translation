@@ -17348,9 +17348,9 @@ Grammar, noted briefly. *Vibhāge* (root *bhaja sevāyām*; *ghañ* in the abstr
 
 *(Running head: left "A. 1 A. 7 Va. 29"; centre "Ṛgvedasaṃhitā"; right 645.)*
 
-The grammar of Rik 109.5 continues and concludes. *Tavastamā*, concluded: "…the root *tava* means growth; since it is a root given only in the sūtras; with the suffix *asi* in the active sense [Uṇ.]; after it, *tamap*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39; the lengthening to the earlier similar vowel." *Śuśrava* (root *śru śravaṇe*; *liṭ*, first person singular; *ṇal* for *mip* [in the *liṭ*]; since *ṇal* in the first person is optionally *ṇit* by *ṇalutta mo vā*, Pā. Sū. 7-1-91, and since it is optionally so, *vṛddhi* of the vowel of the root, which would arise because of it, does not arise; *guṇa*; *av*; since a verb follows a non-verb, *nighāta*). *Vṛtrahatye* (root *han hiṃsāgatyoḥ*; in the abstract sense, *kyap* by *hanas ta ca*, Pā. Sū. 3-1-108; in conjunction with it the substitution of *t* for the final *n* of the root; the form *vṛtrasya hatyam vṛtrahatyam*; by *gatikārakopapadāt kṛt*, Pā. Sū. 62-169 as read [?], the accent of the *kṛdanta* latter member; locative singular). *Āsadya* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; by *samāse 'nañpūrve ktvo lyap*, Pā. Sū. 7-1-37 as read [?], *lyap* for the suffix *ktvā*; the accent of the *kṛdanta* latter member). *Mādayethām* (root *mada tṛptiyoge*, *curādi*, always in the middle voice; *loṭ*, second person dual, *āthām*; *ṇic* in its own sense by *satyāpapāśa…*, Pā. Sū. 3-1-25 as read [?]; because of *śap*, *guṇa* of *ṇic*; *ay*; since a verb follows a non-verb, *nighāta*). The Rik is closed with *‖ 5 ‖* and an ornament.
+The grammar of Rik 109.5 continues and concludes. *Tavastamā*, concluded: "…the root *tava* means growth; since it is a root given only in the sūtras; with the suffix *asi* in the active sense [Uṇ.]; after it, *tamap*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39; the lengthening to the earlier similar vowel." *Śuśrava* (root *śru śravaṇe*; *liṭ*, first person singular; *ṇal* for *mip* [in the *liṭ*]; since *ṇal* in the first person is optionally *ṇit* by *ṇalutta mo vā*, Pā. Sū. 7-1-91, and since it is optionally so, *vṛddhi* of the vowel of the root, which would arise because of it, does not arise; *guṇa*; *av*; since a verb follows a non-verb, *nighāta*). *Vṛtrahatye* (root *han hiṃsāgatyoḥ*; in the abstract sense, *kyap* by *hanas ta ca*, Pā. Sū. 3-1-108; in conjunction with it the substitution of *t* for the final *n* of the root; the form *vṛtrasya hatyam vṛtrahatyam*; by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139, the accent of the *kṛdanta* latter member; locative singular). *Āsadya* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; by *samāse 'nañpūrve ktvo lyap*, Pā. Sū. 7-1-37, *lyap* for the suffix *ktvā*; the accent of the *kṛdanta* latter member). *Mādayethām* (root *mada tṛptiyoge*, *curādi*, always in the middle voice; *loṭ*, second person dual, *āthām*; *ṇic* in its own sense by *satyāpapāśa…*, Pā. Sū. 3-1-25; because of *śap*, *guṇa* of *ṇic*; *ay*; since a verb follows a non-verb, *nighāta*). The Rik is closed with *‖ 5 ‖* and an ornament.
 
-## Rik 109.6 — printed pp. 645–[?]
+## Rik 109.6 — printed pp. 645–649
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.6)**
 
@@ -17377,7 +17377,7 @@ The grammar of Rik 109.5 continues and concludes. *Tavastamā*, concluded: "…t
 > पृतनाहवेषु पृतनासु संग्रामेषु रक्षणार्थमाह्वानेषु सत्सु हे इन्द्राग्नी आगतेनन्तो युवां चर्षणिभ्यः सर्वेभ्योऽपि मनुष्येभ्यो महित्वा महत्त्वेन प्र रिरिचाथे । आतिरिच्येथे । सर्वाधिकौ भवथ इत्यर्थः । अत्रोपसर्गवशाद्धातोः स्वाभिधेयविपरीतमर्थमाचष्टे यथा प्रस्मरणं प्रस्थानमिति । तथा पृथिव्याः सर्वस्या भूमेश्च प्र रिरिचाथे । एवं द्युप्रभृतिभ्योऽपि । सिन्धवः स्यन्दनशीला आपः । गिरयः पर्वताः । अपि च हे इन्द्राग्नी विश्वा भुवना सर्वाणि भूतजातान्यन्योक्तव्यतिक्रान्ति योनि सन्ति तान्यतीत्य प्र रिरिचाथे । अधिकौ भवथः ॥ पृतनाहवेषु । पृतनासु हवः पृतनाहवः । ह्वेञो भावेऽनुपसर्गस्येत्यप् । संप्रसारणं च । व्यत्ययेन थाथादिस्वराभावे कृदुत्तरपदप्रकृतिस्वरत्वं । रिरिचाथे । रिचिर् विरेचने । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । यद्वा । लट्येव बहुलं छन्दसीति विकरणस्य श्लुः । महित्वा । मह पूजायाम् । औणादिक इन्प्रत्ययः । तस्य भावो महित्वं । सुपां सुलुगिति तृतीयाया डादेशः ॥
 > *aindrāgnasya paśor aviṣaḥ pra carṣaṇibhya ity eṣā yājyā | pradānānām iti khaṇḍe sūtritaṃ | pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ | ā. 1-52 | iti ‖ pṛtanāhaveṣu pṛtanāsu saṃgrāmeṣu rakṣaṇārtham āhvāneṣu satsu he indrāgnī āgatenanto yuvāṃ carṣaṇibhyaḥ sarvebhyo 'pi manuṣyebhyo mahitvā mahattvena pra ricāthe | ātiricyethe | sarvādhikau bhavatha ity arthaḥ | atropasargavaśād dhātoḥ svābhidheyaviparītam artham ācaṣṭe yathā prasmaraṇaṃ prasthānam iti | tathā pṛthivyāḥ sarvasyā bhūmeś ca pra ricāthe | evaṃ dyuprabhṛtibhyo 'pi | sindhavaḥ syandanaśīlā āpaḥ | girayaḥ parvatāḥ | api ca he indrāgnī viśvā bhuvanā sarvāṇi bhūtajātāny anyoktavyatikrānti yoni santi tāny atītya pra ricāthe | adhikau bhavathaḥ ‖ pṛtanāhaveṣu | pṛtanāsu havaḥ pṛtanāhavaḥ | hveño bhāve 'nupasargasyety ap | saṃprasāraṇaṃ ca | vyatyayena thāthādisvarābhāve kṛduttarapadaprakṛtisvaratvaṃ | ricāthe | ricir virecane | chandasi luṅlaṅliṭa iti vartamāne liṭ | yadvā | laṭy eva bahulaṃ chandasīti vikaraṇasya śluḥ | mahitvā | maha pūjāyām | auṇādika inpratyayaḥ | tasya bhāvo mahitvaṃ | supāṃ suluk iti tṛtīyāyā ḍādeśaḥ ‖* *(Sanskrit as read; the words "āgatenanto", "anyoktavyatikrānti yoni" and a few others are clotted in the print and given as read, with doubt, not completed from memory; the tail is short and given.)*
 
-"For the *aindrāgna* animal-sacrifice of the *aviṣa* [?], this Ṛk *pra carṣaṇibhyaḥ* is the *yājyā*. In the section 'of gifts' [*pradānānām*] [the Āśvalāyana sūtra] says: '*pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ*' (*Ā.* 1-52 as read [?]).
+"For the *aindrāgna* animal-sacrifice of the *haviṣaḥ*, this Ṛk *pra carṣaṇibhyaḥ* is the *yājyā*. In the section 'of gifts' [*pradānānām*] [the Āśvalāyana sūtra] says: '*pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ*' (*Ā.* 3-7).
 
 *Pṛtanāhaveṣu* — in *pṛtanā*s, in battles, when there are summonses for protection: O Indra and Agni, having come, you two *pra ricāthe*, surpass, *carṣaṇibhyaḥ* — all men — by *mahitvā*, by greatness. You are above all, so the meaning. Here, by the force of the prefix [*pra*], the root conveys a sense opposite to its own meaning, as *prasmaraṇa* [forgetting, from *smṛ* 'to remember'], *prasthāna* [departure]. So *pṛthivyāḥ*, surpass the whole earth; so too the heavenly world and the rest. *Sindhavaḥ*: flowing waters; *girayaḥ*: mountains. And O Indra and Agni, all (*viśvā*) beings (*bhuvanā*): all the creatures, whatever other things there are, surpassing them, you surpass; you are above them."
 
@@ -17389,7 +17389,7 @@ The grammar of Rik 109.5 continues and concludes. *Tavastamā*, concluded: "…t
 
 ### Page 647 (PDF 667)
 
-*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 647.)*
+*(Running head: left "A. 1 A. 7 Va. 29"; centre "Ṛgvedasaṃhitā"; right 647.)*
 
 **॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
 
@@ -17401,7 +17401,7 @@ O Indra and Agni, when your devotees call you at the times of battle to help the
 
 **॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 1.8)**
 
-"In the animal-sacrifice (*paśuyāga*) made aiming at Indra and Agni, when the oblations are offered, this Ṛk *pra carṣaṇibhyaḥ* is to be used as the *yājyā* mantra: so it is explained in the Āśvalāyana Śrauta-sūtra in the section called *pradānānām* ('of gifts'), by the sūtra '*pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ*' (*Ā.* 3-7 as read [?]).
+"In the animal-sacrifice (*paśuyāga*) made aiming at Indra and Agni, when the oblations are offered, this Ṛk *pra carṣaṇibhyaḥ* is to be used as the *yājyā* mantra: so it is explained in the Āśvalāyana Śrauta-sūtra in the section called *pradānānām* ('of gifts'), by the sūtra '*pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ*' (*Ā.* 3-7).
 
 **Carṣaṇibhyaḥ** — "for the word *carṣaṇi*, in the Special Topics of the previous Ṛk, the meaning 'seer' (*draṣṭā*) and another meaning, 'man' (*manuṣya*), have been given. Generally, this word is used in the meaning 'man'.
 
@@ -17419,7 +17419,7 @@ O Indra and Agni, when your devotees call you at the times of battle to help the
 
 *(Running head: left 648; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
 
-**Sindhubhyaḥ** — "the word *sindhu* is read among the names of rivers (*Ni.* 3-[?]); *sindhuḥ syandanāt* (*Ni.* 2-24): because it flows, the name *sindhu* is given to a river. Since it has the sense of 'flow', in some places [the word] may have the sense 'rays'. For example, for the word *sindhūn* in the Ṛk 1-6[?]-[?]3, Skandasvāmin explains: '*syandanāt sindhavo raśmaya ity ucyante*', that the rays are called *sindhu* because they flow [or spread]; but here only [the sense is] 'river', or 'ocean'. The purport is that at the time of battle, when the devotees call [you] for help, the greatness of Indra and Agni exceeds not only earth, mid-region, rivers, mountains and the like, but all the worlds.
+**Sindhubhyaḥ** — "the word *sindhu* is read among the names of rivers (*Ni.* 2-24); *sindhuḥ syandanāt* (*Ni.* 2-24): because it flows, the name *sindhu* is given to a river. Since it has the sense of 'flow', in some places [the word] may have the sense 'rays'. For example, for the word *sindhūn* in the Ṛk 1-93-5, Skandasvāmin explains: '*syandanāt sindhavo raśmaya ity ucyante*', that the rays are called *sindhu* because they flow [or spread]; but here only [the sense is] 'river', or 'ocean'. The purport is that at the time of battle, when the devotees call [you] for help, the greatness of Indra and Agni exceeds not only earth, mid-region, rivers, mountains and the like, but all the worlds.
 
 > जाते आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
 > *jāte āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (*Ṛ. Saṃ.* 5-23-1 as read)
@@ -17435,19 +17435,19 @@ O Indra and Agni, when your devotees call you at the times of battle to help the
 
 — as the greatness of Indra is described in Ṛks such as these, so here too the greatness of Indra and Agni is praised."
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.6)** *(grammar pages, pp. 648–649, noted briefly; numerals small and doubtful [?])*
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.6)** *(grammar pages, pp. 648–649, noted briefly; numerals small and doubtful)*
 
-Grammar, noted briefly. *Pṛtanāhaveṣu* (*pṛtanāsu havaḥ pṛtanāhavaḥ*; root *hveñ spardhāyāṃ śabde ca*; *ap* in the abstract sense by *bhāve 'nupasargasya*, Pā. Sū. 3-9-75 as read [?]; *saṃprasāraṇa* for the root; since *saṃprasāraṇāc ca*, Pā. Sū. 6-1-108 as read [?], *pūrvarūpa* arises; since *ap* is the cause, *guṇa*; *av*; the form *hava*; by *vyatyaya*, since the *thāthaghañ…* accent, Pā. Sū. 6-2-144 as read [?], which would have given the final acute of the latter member, is absent, by *gatikārakopapadāt kṛt*, Pā. Sū. 6-1-171 as read [?], the accent of the *kṛdanta* latter member; since *ap* is *pit*, it is *anudātta*, and by the accent of the root the word *hava* is initial-acute). *Pṛthivyāḥ* (in the place of an acute vowel, *yaṇ*; and since the ending follows it, by *udāttayaṇo hal pūrvāt*, Pā. Sū. 6-1-174 as read [?], the ending is acute).
+Grammar, noted briefly. *Pṛtanāhaveṣu* (*pṛtanāsu havaḥ pṛtanāhavaḥ*; root *hveñ spardhāyāṃ śabde ca*; *ap* in the abstract sense by *bhāve 'nupasargasya*, Pā. Sū. 3-9-75; *saṃprasāraṇa* for the root; since *saṃprasāraṇāc ca*, *pūrvarūpa* arises; since *ap* is the cause, *guṇa*; *av*; the form *hava*; by *vyatyaya*, since the *thāthaghañ…* accent, Pā. Sū. 6-2-144, which would have given the final acute of the latter member, is absent, by *gatikārakopapadāt kṛt*, Pā. Sū. 6-1-171, the accent of the *kṛdanta* latter member; since *ap* is *pit*, it is *anudātta*, and by the accent of the root the word *hava* is initial-acute). *Pṛthivyāḥ* (in the place of an acute vowel, *yaṇ*; and since the ending follows it, by *udāttayaṇo hal pūrvāt*, Pā. Sū. 6-1-174, the ending is acute).
 
 ---
 
 ### Page 649 (PDF 669)
 
-*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 649.)*
+*(Running head: left "A. 1 A. 7 Va. 29"; centre "Ṛgvedasaṃhitā"; right 649.)*
 
-The grammar of Rik 109.6 concludes. *Riricāthe* (root *ricir virecane*; since the sense is the present, *liṭ* by *chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 as read [?], or *laṭ*; in either case, by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?], *śluḥ* for the vikaraṇa; the middle ending *āthām* in the dual; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; the doubling of the root, and so on; since a verb follows a non-verb, *nighāta*). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 61-171 as read [?]: the ending is acute). *Sindhubhyaḥ* (root *syandū prasravaṇe*; *saṃprasāraṇa* of the root and *dh* for *d*, by *syandeḥ saṃprasāraṇaṃ dhaś ca*, Uṇ. 1-[?]1 as read [?]; the suffix *u*; the root receives *saṃprasāraṇa* and the final *dh*). *Viśvā bhuvanā* (since the plural follows, *śi* is substituted; the form; by *śeś chandasi bahulam*, Pā. Sū. 6-1-30 as read [?], the loss of *śi*; the same procedure in *anyā*). *Mahitvā* (root *maha pūjāyām*; the Uṇādi suffix *in*; the form *mahi*; *mahno bhāvaḥ mahitvam*; the suffix *tva* in the abstract sense by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119 as read [?]; before the instrumental, the substitution of *ḍā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). The Rik is closed with *‖ 6 ‖* and a rule of dashes.
+The grammar of Rik 109.6 concludes. *Riricāthe* (root *ricir virecane*; since the sense is the present, *liṭ* by *chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6, or *laṭ*; in either case, by *vyatyayo bahulam*, Pā. Sū. 3-1-85, *śluḥ* for the vikaraṇa; the middle ending *āthām* in the dual; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79; the doubling of the root, and so on; since a verb follows a non-verb, *nighāta*). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171: the ending is acute). *Sindhubhyaḥ* (root *syandū prasravaṇe*; *saṃprasāraṇa* of the root and *dh* for *d*, by *syandeḥ saṃprasāraṇaṃ dhaś ca*, Uṇ. 1-11; the suffix *u*; the root receives *saṃprasāraṇa* and the final *dh*). *Viśvā bhuvanā* (since the plural follows, *śi* is substituted; the form; by *śeś chandasi bahulam*, Pā. Sū. 6-1-70, the loss of *śi*; the same procedure in *anyā*). *Mahitvā* (root *maha pūjāyām*; the Uṇādi suffix *in*; the form *mahi*; *mahno bhāvaḥ mahitvam*; the suffix *tva* in the abstract sense by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119; before the instrumental, the substitution of *ḍā* for the ending by *supāṃ suluk*, Pā. Sū. 6-1-39). The Rik is closed with *‖ 6 ‖* and a rule of dashes.
 
-## Rik 109.7 — printed pp. 649–[?]
+## Rik 109.7 — printed pp. 649–654
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.7)**
 
@@ -17474,9 +17474,9 @@ The grammar of Rik 109.6 concludes. *Riricāthe* (root *ricir virecane*; since t
 > हे वज्रबाहू वज्रहस्ताविन्द्राग्नी आ भरतं । अस्मदर्थं धनमाहरतम् । आहृत्य च शिक्षतम् । अस्मभ्यं दत्तम् । शिक्षतिर्दानकर्मा । अपि चास्माननुप्रत्यन् शचीभिः । कर्मनाम चैतत् । आत्मीयैः कर्मभिरवतम् । रक्षतम् । किं च सूर्यात्मना इन्द्रस्य येभी रश्मिभिर्येर्चिर्भिर्नोऽस्माकं पितरः पूर्वपुरुषाः सपित्वं सहप्राप्तव्यं स्थानमासन् ब्रह्मलोकमगच्छन् । अर्चिरादिमार्गेण हि ब्रह्मलोकमुपासका गच्छन्ति । तथा च श्रूयते । तेऽर्चिषमभिसंभवन्त्यर्चिषोऽहरिति । यद्वा । येभी रश्मिभिः सपित्वं समवेतेत्वं तमध्यगच्छन् । ते रश्मय इमे नु इदानीमस्माभिर्दृश्यमाना एते एव खलु सूर्यात्मना इन्द्रस्य ये रश्मयस्त एवाग्नेरपि । तथा च श्रूयते । अग्निं वा आदित्यः सायं प्रविशति तस्मादग्निर्दूरात्सन्नक्तं दृश्यते । तै. ब्रा. २-१-२-९ । इति । तस्मात्सूर्यस्य रश्मीनां स्रवणेनेन्द्राग्न्योरुभयोरपि स्तुतिः सिद्धा ॥ भरतम् । हृञ् हरणे । लोटि मध्यमपुरुषद्विवचने तस्थस्थमिपां तांतंतामः । शपि विकरणे । सार्वधातुकार्धधातुकयोरिति गुणः । उरण् रपरः । हृग्रहोर्भश्छन्दसि । इति भत्वं । शिक्षतम् । शिक्ष विद्योपादाने । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शपः पित्त्वादनुदात्तत्वं । धातुस्वरः शिष्यते । तिङः परत्वान्निघाताभावः । सपित्वं । अप्लृ व्याप्तौ । अस्मात्सशब्दोपपदात्कृत्यार्थे तवैकेनिति त्वन्प्रत्ययः । पृषोदरादित्वाद्धातोः पिभावः । यद्वा । पस समवाये । इन्सर्वधातुभ्य इतीन् । सहेर्भावः सपित्वम् । आसन् । अस गतिदीप्त्यादानेषु । लङ्याडागम उदात्तः । यद्वृत्तान्नित्यमिति निघाताभावः ॥
 > *pūrvokte eva paśāv ā bharatam ity eṣā puronuvākyā | sūtritaṃ ca | ā bharataṃ śikṣataṃ vajrabāhū ubhā vām indrāgnī āhuvadhyai | ā. 3-2 | iti ‖ he vajrabāhū vajrahastāv indrāgnī ā bharataṃ | asmadarthaṃ dhanam āharatam | āhṛtya ca śikṣatam | asmabhyaṃ dattam | śikṣatir dānakarmā | api cāsmān anupratyan śacībhiḥ | karmanāma caitat | ātmīyaiḥ karmabhir avatam | rakṣatam | kiṃ ca sūryātmanā indrasya yebhī raśmibhir yer cirbhir no 'smākaṃ pitaraḥ pūrvapuruṣāḥ sapitvaṃ sahaprāptavyaṃ sthānam āsan brahmalokam agacchan | arcirādimārgeṇa hi brahmalokam upāsakā gacchanti | tathā ca śrūyate | te 'rciṣam abhisaṃbhavanty arciṣo 'har iti | yadvā | yebhī raśmibhiḥ sapitvaṃ samavetetvaṃ tam adhyagacchan | te raśmaya ime nu idānīm asmābhir dṛśyamānā ete eva khalu sūryātmanā indrasya ye raśmayas ta evāgner api | tathā ca śrūyate | agniṃ vā ādityaḥ sāyaṃ praviśati tasmād agnir dūrāt sann aktaṃ dṛśyate | tai. brā. 2-1-2-9 | iti | tasmāt sūryasya raśmīnāṃ sravaṇenendrāgnyor ubhayor api stutiḥ siddhā ‖ bharatam | hṛñ haraṇe | loṭi madhyamapuruṣadvivacane tasthasthamipāṃ tāṃtaṃtāmaḥ | śapi vikaraṇe | sārvadhātukārdhadhātukayor iti guṇaḥ | uraṇ raparaḥ | hṛgrahor bhaś chandasi | iti bhatvaṃ | śikṣatam | śikṣa vidyopādāne | adupadeśāl lasārvadhātukānudāttatve śapaḥ pittvād anudāttatvaṃ | dhātusvaraḥ śiṣyate | tiṅaḥ paratvān nighātābhāvaḥ | sapitvaṃ | aplṛ vyāptau | asmāt saśabdopapadāt kṛtyārthe tavaikeneti tvanpratyayaḥ | pṛṣodarāditvād dhātoḥ pibhāvaḥ | yadvā | pasa samavāye | in sarvadhātubhya itīn | saher bhāvaḥ sapitvam | āsan | asa gatidīptyādāneṣu | laṅy āḍāgama udāttaḥ | yadvṛttān nityam iti nighātābhāvaḥ ‖* *(Sanskrit as read; the words "anupratyan", "yer cirbhir" and "tam adhyagacchan" are clotted and given with doubt; the Taittirīya reference is read as "2-1-2-9"; the tail is short and given.)*
 
-"For the same animal [sacrifice] mentioned before, this Ṛk *ā bharatam* is the *puronuvākyā* [introductory verse]. And [the Āśvalāyana] sūtra says: '*ā bharataṃ śikṣataṃ vajrabāhū ubhā vām indrāgnī āhuvadhyai*' (*Ā.* 3-2 as read [?]).
+"For the same animal [sacrifice] mentioned before, this Ṛk *ā bharatam* is the *puronuvākyā* [introductory verse]. And [the Āśvalāyana] sūtra says: '*ā bharataṃ śikṣataṃ vajrabāhū ubhā vām indrāgnī āhuvadhyai*' (*Ā.* 3-7).
 
-O *vajrabāhū*, thunderbolt-armed Indra and Agni! *ā bharatam*: bring wealth for us. And, having brought, *śikṣatam*: give to us (*śikṣati* is a verb of giving). And further, protect us with your *śacībhiḥ* — *śacī* is a name for 'deeds' — with your own deeds. And more: by those rays of Indra, in the form of the sun, by which (*yebhiḥ*) our *pitaraḥ*, forefathers, attained *sapitva* — a place to be reached together [with them] — went to Brahmaloka: for the worshippers go to Brahmaloka by the path beginning with light (*arcis*). So it is heard: 'they go to the light, from the light to the day…'. Or else: those rays by which they attained fellowship (*sapitva*, union): those rays are these here (*ime nu*), now seen by us, the very rays of Indra in the nature of the sun; and they are also Agni's. So it is heard: 'In the evening the sun enters Agni; therefore Agni is seen at night from afar' (*Tai. Brā.* 2-1-2-9 as read [?]). Therefore, by the sun's rays flowing, the praise of both Indra and Agni is established."
+O *vajrabāhū*, thunderbolt-armed Indra and Agni! *ā bharatam*: bring wealth for us. And, having brought, *śikṣatam*: give to us (*śikṣati* is a verb of giving). And further, protect us with your *śacībhiḥ* — *śacī* is a name for 'deeds' — with your own deeds. And more: by those rays of Indra, in the form of the sun, by which (*yebhiḥ*) our *pitaraḥ*, forefathers, attained *sapitva* — a place to be reached together [with them] — went to Brahmaloka: for the worshippers go to Brahmaloka by the path beginning with light (*arcis*). So it is heard: 'they go to the light, from the light to the day…'. Or else: those rays by which they attained fellowship (*sapitva*, union): those rays are these here (*ime nu*), now seen by us, the very rays of Indra in the nature of the sun; and they are also Agni's. So it is heard: 'In the evening the sun enters Agni; therefore Agni is seen at night from afar' (*Tai. Brā.* 2-1-2-9). Therefore, by the sun's rays flowing, the praise of both Indra and Agni is established."
 
 ---
 
@@ -17535,7 +17535,7 @@ O Indra and Agni, who hold the thunderbolt in your hands, bring wealth for us an
 > सूर्यद्वारेण ते विरजाः प्रयान्ति ।
 > *sūryadvāreṇa te virajāḥ prayānti |* (*Mu. U.* 2-11)
 
-— as is described in sentences such as this, and as the matter has been explained in the Special Topics of the Ṛk 1-10[?]-[?] [as read [?]] ('the 1st Ṛk 1-1[?]4-[?]'), and in
+— as is described in sentences such as this, and as the matter has been explained in the Special Topics of the Ṛk 1-105-16, and in
 
 > ते 'र्चिषमभिसंभवन्त्यर्चिषोऽहः ।
 > *te 'rciṣam abhisaṃbhavanty arciṣo 'haḥ |* (*Bhā.* [? *Chā.*] *U.* 5-10-1 as read)
@@ -17546,7 +17546,7 @@ O Indra and Agni, who hold the thunderbolt in your hands, bring wealth for us an
 
 ### Page 653 (PDF 673)
 
-*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 653.)*
+*(Running head: left "A. 1 A. 7 Va. 29"; centre "Ṛgvedasaṃhitā"; right 653.)*
 
 "— *sūryātmanā indrasya ye raśmayas ta evāgner api |* 'the very rays of Indra in the form of the sun are also Agni's': by 'union' (*sapitva*) is meant 'being gathered together, joined together'; since Sūrya and Indra are identical, and since the rays of the sun and the rays of Agni are one and the same, it may be said that the rays of Indra and Agni are one with the rays of the sun: so Sāyaṇa says, and cites the Brāhmaṇa sentence
 
@@ -17555,16 +17555,16 @@ O Indra and Agni, who hold the thunderbolt in your hands, bring wealth for us an
 
 — and gives the second meaning."
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.7)** *(grammar pages, pp. 653–654, noted briefly; numerals small and doubtful [?])*
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.7)** *(grammar pages, pp. 653–654, noted briefly; numerals small and doubtful)*
 
-Grammar, noted briefly. *Bharatam* (root *hṛñ haraṇe*; *loṭ*, second person dual; *tam* for *thas* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; the vikaraṇa *śap*; *guṇa* of the root's *ik* by *sārvadhātukārdhadhātukayoḥ*, Pā. Sū. 7-3-84 as read [?]; *uraṇ raparaḥ*, so *r* follows; the form *harata*; by *hṛgrahor bhaś chandasi*, [vārttika] the *h* becomes *bh*; since a verb follows a non-verb, *nighāta*). *Śikṣatam* (root *śikṣa vidyopādāne*; as before the *loṭ*, second person dual form; since it is placed together with the word *āṅ* [as a synonym], here, since a verb follows the verb earlier, *nighāta* does not arise; since the *lasārvadhātuka* ending follows an *anudāttet* root, by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], it is *anudātta*; since *śap* is *pit*, it is *anudātta*; then the accent of the root remains). *Avatam* (root *ava rakṣaṇe*; *loṭ*, second person dual; since a verb follows a non-verb, *nighāta*). *Yebhiḥ* (the word *yad*; in the instrumental plural, *ais* for *bhis* does not arise by *bahulaṃ chandasi*, Pā. Sū. 8-1-10 as read [?]; *e* arises for the *a*, giving *yebhiḥ*). *Sapitvam* (root *aplṛ vyāptau*; when *sa* is the prior word-member, by *kṛtyārthe tavaikenkenyatvanaḥ*, Pā. Sū. 3-4-14 as read [?], the suffix *tvan*; by *pṛṣodarādi* the root takes the form *pi*; *aṇ*-like...; or else, from the root *pasa samavāye*; the suffix *in* by *sarvadhātubhya in*, Uṇ. 4-[?]1 as read [?]; by *dhātvādeḥ ṣaḥ saḥ*, Pā. Sū. 6-1-64 as read [?], *s* for the initial; from *sapi*, the abstract *sapitvam*, by *tasya bhāvas tvatalau*, Pā. Sū. 6-3-109 as read [?], the suffix *tva*; by the accent of the suffix, final acute) *(continued on p. 654)*
+Grammar, noted briefly. *Bharatam* (root *hṛñ haraṇe*; *loṭ*, second person dual; *tam* for *thas* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101; the vikaraṇa *śap*; *guṇa* of the root's *ik* by *sārvadhātukārdhadhātukayoḥ*, Pā. Sū. 7-3-84; *uraṇ raparaḥ*, so *r* follows; the form *harata*; by *hṛgrahor bhaś chandasi*, [vārttika] the *h* becomes *bh*; since a verb follows a non-verb, *nighāta*). *Śikṣatam* (root *śikṣa vidyopādāne*; as before the *loṭ*, second person dual form; since it is placed together with the word *āṅ* [as a synonym], here, since a verb follows the verb earlier, *nighāta* does not arise; since the *lasārvadhātuka* ending follows an *anudāttet* root, by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-189, it is *anudātta*; since *śap* is *pit*, it is *anudātta*; then the accent of the root remains). *Avatam* (root *ava rakṣaṇe*; *loṭ*, second person dual; since a verb follows a non-verb, *nighāta*). *Yebhiḥ* (the word *yad*; in the instrumental plural, *ais* for *bhis* does not arise by *bahulaṃ chandasi*, Pā. Sū. 7-1-10; *e* arises for the *a*, giving *yebhiḥ*). *Sapitvam* (root *aplṛ vyāptau*; when *sa* is the prior word-member, by *kṛtyārthe tavaikenkenyatvanaḥ*, Pā. Sū. 3-4-14, the suffix *tvan*; by *pṛṣodarādi* the root takes the form *pi*; *aṇ*-like...; or else, from the root *pasa samavāye*; the suffix *in* by *sarvadhātubhya in*, Uṇ. 4-55-7; by *dhātvādeḥ ṣaḥ saḥ*, Pā. Sū. 6-1-64, *s* for the initial; from *sapi*, the abstract *sapitvam*, by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119, the suffix *tva*; by the accent of the suffix, final acute) *(continued on p. 654)*
 
 ---
 ### Page 654 (PDF 674)
 
 *(Running head: left 654; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
 
-The grammar of Rik 109.7 concludes (noted briefly; numerals small and doubtful [?]). *Āsan* (root *asa gatidīptyādāneṣu*; *laṅ*, third person plural; *jhi* → *jus* by *jher jus*, Pā. Sū. 3-4-108 as read [?]; the *ant* substitution [*jhi* → *ant*]; loss of the *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]; the vikaraṇa *śap*; *pararūpa* by *ato guṇe*, Pā. Sū. 6-1-64 as read [?]; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72 as read [?], for the vowel-initial root; by *saṃyogāntalopa* the final *t* of the suffix is lost; the form *āsan*). *Yebhiḥ* (as above, since the word *yad* is connected, the prohibition of *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?], arises; because the augment *āṭ* is *udātta*, the initial acute). The Rik is closed with *‖ 7 ‖* and a rule of dashes.
+The grammar of Rik 109.7 concludes (noted briefly; numerals small and doubtful). *Āsan* (root *asa gatidīptyādāneṣu*; *laṅ*, third person plural; *jhi* → *jus* by *jher jus*; the *ant* substitution [*jhi* → *ant*]; loss of the *i* by *itaś ca*; the vikaraṇa *śap*; *pararūpa* by *ato guṇe*; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72, for the vowel-initial root; by *saṃyogāntalopa* the final *t* of the suffix is lost; the form *āsan*). *Yebhiḥ* (as above, since the word *yad* is connected, the prohibition of *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66, arises; because the augment *āṭ* is *udātta*, the initial acute). The Rik is closed with *‖ 7 ‖* and a rule of dashes.
 
 ## Rik 109.8 — printed pp. 654–656 *(the last Ṛk of the Sūkta)*
 
@@ -17586,7 +17586,7 @@ The grammar of Rik 109.7 concludes (noted briefly; numerals small and doubtful [
 
 ### Page 655 (PDF 675)
 
-*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 655.)*
+*(Running head: left "A. 1 A. 7 Va. 29"; centre "Ṛgvedasaṃhitā"; right 655.)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.8)**
 
@@ -17626,20 +17626,20 @@ O Indra and Agni, who hold the thunderbolt weapon in the hand and destroy the fo
 
 "— as described in Ṛks such as these, here too it is addressed to them as destroyers of the fortresses of enemies."
 
-**Bhareṣu** — "the word *bhara* is read among the names of battle (*Ni.* 2-[?]); 'in battles' is the meaning."
+**Bhareṣu** — "the word *bhara* is read among the names of battle (*Ni.* 3-9); 'in battles' is the meaning."
 
 **Śikṣatam** — "for this word here too the meaning is *prayacchatam*: 'give'. The matter that this word has also been used in the senses 'grasp' and 'practise' has been told in the Special Topics of the previous Ṛk."
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.8)** *(noted briefly; numerals small and doubtful [?])*
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.8)** *(noted briefly; numerals small and doubtful)*
 
-Grammar, noted briefly. *Puraṃdarā* (*puraṃ dārayataḥ iti puraṃdarau*; root *dṝ vidāraṇe*; since *pur* is the word-member [*upapada*], the suffix *khac* by *pūḥsarvayor dārisahoḥ*, Pā. Sū. 3-2-41 as read [?]; the *guṇa* of the root because of it; *uraṇ raparaḥ*, so *r* follows; the augment *am* for the prior member by the *nipātana* in *vācaṃyamapuraṃdarau ca*, Pā. Sū. 6-3-99 as read [?]; the nominative dual; before it, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). *Śikṣatam* (root *śikṣa vidyopādāne*; *loṭ*, second person dual; since a vocative [*āmantrita*], *puraṃdarā*, though it stands before, is by *āmantritaṃ pūrvam avidyamānavat*, Pā. Sū. 1-7-72 as read [?], treated as non-existent for it, and since it falls at the beginning of the pāda, no *nighāta*; since the *lasārvadhātuka* is *anudātta*, the accent of the root remains). *Vajrahastā* (before the *au* ending, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; vocative: *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]). "The remaining words have been explained earlier." The Rik is closed with *‖ 8 ‖* and an ornament.
+Grammar, noted briefly. *Puraṃdarā* (*puraṃ dārayataḥ iti puraṃdarau*; root *dṝ vidāraṇe*; since *pur* is the word-member [*upapada*], the suffix *khac* by *pūḥsarvayor dārisahoḥ*, Pā. Sū. 3-2-41; the *guṇa* of the root because of it; *uraṇ raparaḥ*, so *r* follows; the augment *am* for the prior member by the *nipātana* in *vācaṃyamapuraṃdarau ca*, Pā. Sū. 6-3-99; the nominative dual; before it, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39). *Śikṣatam* (root *śikṣa vidyopādāne*; *loṭ*, second person dual; since a vocative [*āmantrita*], *puraṃdarā*, though it stands before, is by *āmantritaṃ pūrvam avidyamānavat*, Pā. Sū. 1-7-22, treated as non-existent for it, and since it falls at the beginning of the pāda, no *nighāta*; since the *lasārvadhātuka* is *anudātta*, the accent of the root remains). *Vajrahastā* (before the *au* ending, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39; vocative: *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19). "The remaining words have been explained earlier." The Rik is closed with *‖ 8 ‖* and an ornament.
 
 ---
 ## Sūkta 110
 
 ### Page 657 (PDF 677)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 657. At the foot, the printer's signature "42 / VOLUME 8" [sic: as printed, noted only].)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 657. At the foot, the printer's signature "42 / VOLUME 8" [sic: as printed, noted only].)*
 
 **ನೂರ ಹತ್ತನೆಯ ಸೂಕ್ತವು** — *nūra hattaneya sūktavu*, "the hundred-and-tenth Sūkta" *(Kannada heading)*
 
@@ -17648,7 +17648,7 @@ Grammar, noted briefly. *Puraṃdarā* (*puraṃ dārayataḥ iti puraṃdarau*;
 > ततं म इति नवर्चं पञ्चमं सूक्तं कुत्सस्यार्षं ऋभुदेवताकं । पञ्चमीनवम्यौ त्रिष्टुभौ शिष्टाः सप्त जगत्यः । तथा चानुक्रान्तं । ततं नवार्भवं तु पञ्चम्यन्ते त्रिष्टुभाविति ॥ अभिप्लवषडहस्य चतुर्थेऽहनि वैश्वदेवशस्त्र इदमार्भवं निविद्धानं । सूत्रितं च तृतीयस्येति खण्डे । ततं मे अपो वैश्वदेवं । आ. २-२ । इति ॥
 > *tatam ma iti navarcaṃ pañcamaṃ sūktaṃ kutsasyārṣam ṛbhudevatākaṃ | pañcamīnavamyau triṣṭubhau śiṣṭāḥ sapta jagatyaḥ | tathā cānukrāntaṃ | tataṃ navārbhavaṃ tu pañcamyante triṣṭubhāv iti ‖ abhiplavaṣaḍahasya caturthe 'hani vaiśvadevaśastra idam ārbhavaṃ nividdhānaṃ | sūtritaṃ ca tṛtīyasyeti khaṇḍe | tataṃ me apo vaiśvadevam | ā. 2-2 | iti ‖* *(Sanskrit as read; "tatam ma" for the first words, and "tataṃ me apo" at the end, are as printed and doubtful; "pañcamyante" is read as printed; the Āśvalāyana numeral is read "2-2".)*
 
-**Anuvāda (Kannada):** "This Sūkta *tataṃ me apas* is the fifth Sūkta in the sixteenth anuvāka. It has nine Ṛks. The ṛṣi of this Sūkta is Kutsa; the deities are the Ṛbhus. The fifth and the ninth Ṛks of this Sūkta are in the Triṣṭubh metre; the remaining seven Ṛks are in the Jagatī metre. In the Anukramaṇikā it is said: '*tataṃ navārbhavaṃ tu pañcamyante triṣṭubhau*'. In the fourth day of the *abhiplava ṣaḍaha* sacrifice, when the *vaiśvadeva-śastra* is recited, this Sūkta is to be used for the *nividdhāna* mantras addressed to the Ṛbhu deities: so it is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning *tṛtīyasya*, by the sūtra '*tataṃ me apo iti vaiśvadevam*' (*Ā.* 2-2 as read [?])."
+**Anuvāda (Kannada):** "This Sūkta *tataṃ me apas* is the fifth Sūkta in the sixteenth anuvāka. It has nine Ṛks. The ṛṣi of this Sūkta is Kutsa; the deities are the Ṛbhus. The fifth and the ninth Ṛks of this Sūkta are in the Triṣṭubh metre; the remaining seven Ṛks are in the Jagatī metre. In the Anukramaṇikā it is said: '*tataṃ navārbhavaṃ tu pañcamyante triṣṭubhau*'. In the fourth day of the *abhiplava ṣaḍaha* sacrifice, when the *vaiśvadeva-śastra* is recited, this Sūkta is to be used for the *nividdhāna* mantras addressed to the Ṛbhu deities: so it is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning *tṛtīyasya*, by the sūtra '*tataṃ me apo iti vaiśvadevam*' (*Ā.* 7-7)."
 
 *(A rule of dashes follows.)*
 
@@ -17657,13 +17657,13 @@ Grammar, noted briefly. *Puraṃdarā* (*puraṃ dārayataḥ iti puraṃdarau*;
 **सूक्त — ११० — Sūkta 110** *(printed heading block, in Kannada script and numerals)*
 
 - मण्डल १ · अनुवाक १६ · सूक्त ११० — *Maṇḍala 1, Anuvāka 16, Sūkta 110.*
-- अष्टक १ · अध्याय ७ · वर्ग ३०, ३१ — *Aṣṭaka 1, Adhyāya 7, Vargas 30, 31* (numerals as read, small [?]).
+- अष्टक १ · अध्याय ७ · वर्ग ३०, ३१ — *Aṣṭaka 1, Adhyāya 7, Vargas 30, 31* (numerals as read, small).
 - सूक्तदल्लिरुव ऋक्संख्ये — ९ — *Number of Ṛks in the sūkta: 9.*
 - ऋषिः — कुत्स आङ्गिरसः — *Ṛṣi: Kutsa Āṅgirasa.*
 - देवता — ऋभवः — *Deity: the Ṛbhus.*
-- छन्दः — १–४, ६–८ जगती । ५, ९ त्रिष्टुप् — *Metre: Ṛks 7–7 and 6–8 Jagatī; 5 and 9 Triṣṭubh* (numerals as read [?]).
+- छन्दः — १–४, ६–८ जगती । ५, ९ त्रिष्टुप् — *Metre: Ṛks 1–4 and 6–8 Jagatī; 5 and 9 Triṣṭubh* (numerals as read).
 
-## Rik 110.1 — printed pp. 657–[?]
+## Rik 110.1 — printed pp. 657–663
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.1)**
 
@@ -17703,7 +17703,7 @@ Grammar, noted briefly. *Puraṃdarā* (*puraṃ dārayataḥ iti puraṃdarau*;
 
 ### Page 659 (PDF 679)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 659.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 659.)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.1; Kannada; English)**
 
@@ -17719,7 +17719,7 @@ O Ṛbhus, I performed rites such as the Agniṣṭoma extensively in former tim
 
 **॥ विशेषविषयगळು ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.1)**
 
-**Ṛbhavaḥ** — "*ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ* (*Ni.* 11-16 as read [?]): 'Sudhanvan Āṅgirasa had three sons: Ṛbhu, Vibhvan and Vāja'; *te atiśayavadbhiḥ karmabhir devatvam īyuḥ* — 'they attained divinity by exceedingly great works'; *teṣu atra sāhacaryād anyatamavacanenāpy ṛbhuśabdena sarve pratipādyante* — 'since these are mentioned together here, by the word *ṛbhu*, though it says only one, all are meant'; *tad devatye dve ete sūkte*: 'these two Sūktas have these deities'. [So:] Ṛbhu, Vibhu and Vāja are the names; Sudhanvan Āṅgirasa had three sons. They obtained divinity by exceedingly great righteous conduct. Here, from the association [of the three], the three are addressed together by the name of the eldest. This and the following Sūkta, these two, are addressed to these deities, as Skandasvāmin has said in the introduction to his bhāṣya. (The account of them may be seen in the Special Topics of the next Ṛk.)"
+**Ṛbhavaḥ** — "*ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ* (*Ni.* 11-16): 'Sudhanvan Āṅgirasa had three sons: Ṛbhu, Vibhvan and Vāja'; *te atiśayavadbhiḥ karmabhir devatvam īyuḥ* — 'they attained divinity by exceedingly great works'; *teṣu atra sāhacaryād anyatamavacanenāpy ṛbhuśabdena sarve pratipādyante* — 'since these are mentioned together here, by the word *ṛbhu*, though it says only one, all are meant'; *tad devatye dve ete sūkte*: 'these two Sūktas have these deities'. [So:] Ṛbhu, Vibhu and Vāja are the names; Sudhanvan Āṅgirasa had three sons. They obtained divinity by exceedingly great righteous conduct. Here, from the association [of the three], the three are addressed together by the name of the eldest. This and the following Sūkta, these two, are addressed to these deities, as Skandasvāmin has said in the introduction to his bhāṣya. (The account of them may be seen in the Special Topics of the next Ṛk.)"
 
 ---
 
@@ -17795,17 +17795,17 @@ O Ṛbhus, I performed rites such as the Agniṣṭoma extensively in former tim
 
 **Dhītiḥ** — *dhīkarmatvāt stutir atra dhītir ucyate | buddhir nirmitatvāt ... |* "the word *dhīti* is said to be 'praise', as Skandasvāmin has explained, 'because *dhī* is a word for action [the product of the intellect]; since the hymn is made by the mind'."
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.1)** *(grammar pages, pp. 662–663, noted briefly; numerals small and doubtful [?])*
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.1)** *(grammar pages, pp. 662–663, noted briefly; numerals small and doubtful)*
 
-Grammar, noted briefly. *Tatam* (root *tanu vistāre*; *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; the *iṭ* augment is prohibited by *yasya vibhāṣā*, Pā. Sū. 2-170 as read [?]; the loss of the nasal *n* of the root by *anudāttopadeśavanatitanotyādīnām…*, Pā. Sū. 6-4-37 as read [?]; the suffix's accent, final acute). *Apaḥ* (root *āplṛ vyāptau*; the suffix *asun* by *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā*, Uṇ. 4-[?]02 as read [?]; because of it the shortening of the root; the augment *nuṭ* optional; the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]). *Tāyate* (root *tanu vistāre*; *laṭ*, third person singular, passive; *yak* by *sārvadhātuke yak*, Pā. Sū. 3-1-67 as read [?]; *ā* for the root by *tanoter yaki*, Pā. Sū. 6-4-44 as read [?]; since a verb follows a non-verb, *nighāta*). *Svādiṣṭhā* (the word *svādu*; in the sense of a high degree, *iṣṭhan* by *atiśāyane tamabiṣṭhanau*, Pā. Sū. 5-3-55 as read [?]; the loss of the *ṭi* [*u*] by *ṭeḥ*, Pā. Sū. 6-4-155 as read [?]; the suffix being *nit*, the initial acute; the feminine *ṭāp* by *ajādyatas ṭāp*, Pā. Sū. 4-1-4 as read [?])
+Grammar, noted briefly. *Tatam* (root *tanu vistāre*; *kta* by *niṣṭhā*, Pā. Sū. 3-2-102; the *iṭ* augment is prohibited by *yasya vibhāṣā*, Pā. Sū. 7-2-15; the loss of the nasal *n* of the root by *anudāttopadeśavanatitanotyādīnām…*, Pā. Sū. 6-4-37; the suffix's accent, final acute). *Apaḥ* (root *āplṛ vyāptau*; the suffix *asun* by *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā*, Uṇ. 4-647; because of it the shortening of the root; the augment *nuṭ* optional; the initial acute by *ñnityādir nityam*). *Tāyate* (root *tanu vistāre*; *laṭ*, third person singular, passive; *yak* by *sārvadhātuke yak*, Pā. Sū. 3-1-67; *ā* for the root by *tanoter yaki*, Pā. Sū. 6-4-44; since a verb follows a non-verb, *nighāta*). *Svādiṣṭhā* (the word *svādu*; in the sense of a high degree, *iṣṭhan* by *atiśāyane tamabiṣṭhanau*, Pā. Sū. 5-3-55; the loss of the *ṭi* [*u*] by *ṭeḥ*; the suffix being *nit*, the initial acute; the feminine *ṭāp* by *ajādyatas ṭāp*)
 
 ---
 
 ### Page 663 (PDF 683)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 663.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 663.)*
 
-The grammar of Rik 110.1 concludes. *Ucathāya* (root *vaca paribhāṣaṇe*; the Uṇādi suffix *athak*; since it is *kit*, by *vacisvapiyajādīnāṃ kiti*, Pā. Sū. 6-1-15 as read [?], *saṃprasāraṇa*; *pūrvarūpa*; the fourth case singular). *Samudraḥ* (root *undī kledane*; the suffix *rak* by *sphāyitañcivañcisaśakiḥ* [as printed: *sphāyitañcivañciśakiśaṅkāṭaśaś*…], Uṇ. 2-[?]0 as read [?]; since it is *kit*, the loss of the nasal by *anidītāṃ halupadhāyāḥ kṅiti*, Pā. Sū. 6-4-54 as read [?]; the prefix *sam*; the accent of the *kṛdanta* latter member by the *prakṛtisvara*). *Viśvadevyaḥ* (*devāt yor bhāgo devyaḥ*, 'a share of the gods': by *chandasi ca*, Pā. Sū. 5-1-67 as read [?], the suffix *ya* in the sense 'worthy of'; *viśve sarve devā yasmin some* — *viśvadevyaḥ*; by *bahuvrīhau viśvaṃ saṃjñāyām*, Pā. Sū. 6-2-106 as read [?], although the compound is not a name [*saṃjñā*], by *vyatyaya* the prior member ends in the acute). *Svāhākṛtasya* (*svāhākāreṇa prakṣiptaḥ svāhākṛtaḥ tasya*; since *svāhā* is read in the *ūryādi* group, it obtains the *gati* name by *ūryādicviḍācaś ca*, Pā. Sū. 1-4-61 as read [?]; when compounded with it, by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?], the accent of the prior member). *Tṛpṇuta* (root *tṛpa prīṇane*, *svādi*; *loṭ*, second person plural; *ta* for *tha*; the vikaraṇa *śnu* by *svādibhyaḥ śnuḥ*, Pā. Sū. 3-1-73 as read [?]; since it is *apit* [*ñit*-like], no *guṇa* of the light penult; *ṇatva* because of the *ṛ*; since a verb follows a non-verb, *nighāta*). *Tṛpṇuta* + *ṛbhavaḥ*: since *ṛ* follows, by *ṛty akaḥ*, Pā. Sū. 6-1-128 as read [?], *prakṛtibhāva*. The Rik is closed with *‖ 1 ‖* and a rule of dashes.
+The grammar of Rik 110.1 concludes. *Ucathāya* (root *vaca paribhāṣaṇe*; the Uṇādi suffix *athak*; since it is *kit*, by *vacisvapiyajādīnāṃ kiti*, Pā. Sū. 6-1-15, *saṃprasāraṇa*; *pūrvarūpa*; the fourth case singular). *Samudraḥ* (root *undī kledane*; the suffix *rak* by *sphāyitañcivañcisaśakiḥ* [as printed: *sphāyitañcivañciśakiśaṅkāṭaśaś*…], Uṇ. 2-170; since it is *kit*, the loss of the nasal by *anidītāṃ halupadhāyāḥ kṅiti*, Pā. Sū. 6-4-24; the prefix *sam*; the accent of the *kṛdanta* latter member by the *prakṛtisvara*). *Viśvadevyaḥ* (*devāt yor bhāgo devyaḥ*, 'a share of the gods': by *chandasi ca*, Pā. Sū. 5-1-67, the suffix *ya* in the sense 'worthy of'; *viśve sarve devā yasmin some* — *viśvadevyaḥ*; by *bahuvrīhau viśvaṃ saṃjñāyām*, Pā. Sū. 6-2-106, although the compound is not a name [*saṃjñā*], by *vyatyaya* the prior member ends in the acute). *Svāhākṛtasya* (*svāhākāreṇa prakṣiptaḥ svāhākṛtaḥ tasya*; since *svāhā* is read in the *ūryādi* group, it obtains the *gati* name by *ūryādicviḍācaś ca*, Pā. Sū. 1-4-61; when compounded with it, by *gatir anantaraḥ*, Pā. Sū. 6-2-49, the accent of the prior member). *Tṛpṇuta* (root *tṛpa prīṇane*, *svādi*; *loṭ*, second person plural; *ta* for *tha*; the vikaraṇa *śnu* by *svādibhyaḥ śnuḥ*, Pā. Sū. 3-1-73; since it is *apit* [*ñit*-like], no *guṇa* of the light penult; *ṇatva* because of the *ṛ*; since a verb follows a non-verb, *nighāta*). *Tṛpṇuta* + *ṛbhavaḥ*: since *ṛ* follows, by *ṛty akaḥ*, Pā. Sū. 6-1-128, *prakṛtibhāva*. The Rik is closed with *‖ 1 ‖* and a rule of dashes.
 
 ---
 
@@ -17813,7 +17813,7 @@ The grammar of Rik 110.1 concludes. *Ucathāya* (root *vaca paribhāṣaṇe*; t
 
 *(Running head: left 664; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
 
-## Rik 110.2 — printed pp. 664–[?]
+## Rik 110.2 — printed pp. 664–669
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.2)**
 
@@ -17837,14 +17837,14 @@ The grammar of Rik 110.1 concludes. *Ucathāya* (root *vaca paribhāṣaṇe*; t
 ---
 ### Page 665 (PDF 685)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 665.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 665.)*
 
 **॥ सायणभाष्यम् ॥ (Rik 110.2), concluded**
 
 > …सवनाख्यमगच्छत । प्राप्ताः । एतत्सर्वमार्भवं शंसतीत्यादौ । ऐ. ब्रा. ३-३० । विस्पष्टमाम्नातं ॥ आभोगयम् । आ समन्ताद्भोग आभोगः । तदर्ह आभोगयः । छन्दसि चेति यः । यस्येति लोपाभावश्छान्दसः । व्यत्ययेन प्रत्यययोरुदात्तत्वं । यद्वा । आज्पूर्वाद्भुजेरौणादिकः कर्मणि इप्रत्ययः । कुत्वं च । आमि व्यत्ययेन गुणः । ऐतन । इण् गतौ । लङि मध्यमबहुवचनस्य थस्तादेशः । तप्तनप्तनथनाश्चेति तस्य तनबादेशः । आडागमो वृद्धिश्च । आपयः । आप्नोतेरौणादिक इप्रत्ययः । भूमना । बहुशब्दात्पृथ्वादिलक्षण इमनिच् । बहोर्लोपो भू च बहोरिति ईकारलोपो बहोर्भूभावश्च । संज्ञापूर्वकस्य विधेरनित्यत्वादेलोपाभावः ॥
 > *…savanākhyam agacchata | prāptāḥ | etat sarvam ārbhavaṃ śaṃsatīty ādau | ai. brā. 3-30 | vispaṣṭam āmnātaṃ ‖ ābhogayam | ā samantād bhogaḥ ābhogaḥ | tadarha ābhogayaḥ | chandasi ceti yaḥ | yasyeti lopābhāvaś chāndasaḥ | vyatyayena pratyayayor udāttatvaṃ | yadvā | ājpūrvād bhujer auṇādikaḥ karmaṇi ipratyayaḥ | kutvaṃ ca | āmi vyatyayena guṇaḥ | aitana | iṇ gatau | laṅi madhyamabahuvacanasya thas tādeśaḥ | taptanaptanathanāś ceti tasya tanabādeśaḥ | āḍāgamo vṛddhiś ca | āpayaḥ | āpnoter auṇādika ipratyayaḥ | bhūmanā | bahuśabdāt pṛthvādilakṣaṇa imanic | baholopo bhū ca bahor iti īkāralopo bahor bhūbhāvaś ca | saṃjñāpūrvakasya vidher anityatvād elopābhāvaḥ ‖* *(Sanskrit as read; the tail is crowded and several words ("āmi vyatyayena guṇaḥ", "baholopo bhū ca bahor iti īkāralopo") are given as read, with doubt; "ai. brā. 3-30" is read as printed.)*
 
-"…[come to the house of Savitṛ] called the *savana* [the third pressing]: you reached [it]. All this is clearly stated in the Aitareya Brāhmaṇa, in the passage beginning 'he recites this all, of the Ṛbhus' (*Ai. Brā.* 3-30 as read [?]). *Ābhogayam*: *ābhogaḥ* is enjoyment on all sides; he who deserves it is *ābhogayaḥ* — the suffix *ya* by *chandasi ca*; the non-loss [of *a*] by *yasya* is Vedic. *Aitana*: root *iṇ gatau*; in the *laṅ*, second person plural, *tha* [→ *tana*]; the augment *āṭ* and *vṛddhi*. *Āpayaḥ*: from *āp*, an Uṇādi suffix *i*. *Bhūmanā*: from the word *bahu*, the suffix *imanic*; *bhū* for *bahu*."
+"…[come to the house of Savitṛ] called the *savana* [the third pressing]: you reached [it]. All this is clearly stated in the Aitareya Brāhmaṇa, in the passage beginning 'he recites this all, of the Ṛbhus' (*Ai. Brā.* 3-30). *Ābhogayam*: *ābhogaḥ* is enjoyment on all sides; he who deserves it is *ābhogayaḥ* — the suffix *ya* by *chandasi ca*; the non-loss [of *a*] by *yasya* is Vedic. *Aitana*: root *iṇ gatau*; in the *laṅ*, second person plural, *tha* [→ *tana*]; the augment *āṭ* and *vṛddhi*. *Āpayaḥ*: from *āp*, an Uṇādi suffix *i*. *Bhūmanā*: from the word *bahu*, the suffix *imanic*; *bhū* for *bahu*."
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.2; Kannada; English)**
 
@@ -17891,7 +17891,7 @@ O Ṛbhus, sons of Sudhanvan, ancient ones, who belong to the group of my kinsme
 
 ### Page 667 (PDF 687)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 667.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 667.)*
 
 > सवने वाचि कल्पयिषंस्तान्विश्वे देवा आसोनुद्यंत नेह शास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव वा इमेऽन्तेवासास्तन्मैभिः संपिबस्वेति स तथेत्यब्रवीत्सविता तान्स्वैत्वमुभयतः परिसिबेति तान्स प्रजापतिरुभयतः पर्यपिबत् । इति ॥
 > *savane vāci kalpayiṣaṃs tān viśve devā āsonudyanta neha śāsyanti nehety sa prajāpatir abravīt savitāraṃ tava vā ime 'ntevāsās tan maibhiḥ saṃpibasveti sa tathety abravīt savitā tān svaitvam ubhayataḥ parisibeti tān sa prajāpatir ubhayataḥ paryapibat | iti ‖* (*Ai. Brā.* 3-30 as read; the wording is as read from the print, with several clotted words given as read, doubtful, not completed from memory)
@@ -17906,7 +17906,7 @@ O Ṛbhus, sons of Sudhanvan, ancient ones, who belong to the group of my kinsme
 > सौधन्वनासो अमृतत्वमेरिरे विष्टी शमीभिः सुकृतः सुकृत्यया ॥
 > *indrasya sakhyam ṛbhavaḥ samānaśur manor napāto apaso dadhanvire | saudhanvanāso amṛtatvam erire viṣṭī śamībhiḥ sukṛtaḥ sukṛtyayā ‖* (*Ṛ. Saṃ.* 3-60-3 as read)
 
-"In this Ṛk, and in the Ṛks 4-33-5-[?] and others, Vāmadeva and others (and in this Ṛk, Viśvāmitra, the son of Gāthin) confirm the matter above. This account of Sudhanvan, born in the lineage of Āṅgiras, is presented in the Bṛhadāraṇyaka Upaniṣad."
+"In this Ṛk, and in the Ṛks 4-33-5 and others, Vāmadeva and others (and in this Ṛk, Viśvāmitra, the son of Gāthin) confirm the matter above. This account of Sudhanvan, born in the lineage of Āṅgiras, is presented in the Bṛhadāraṇyaka Upaniṣad."
 
 ---
 
@@ -17919,22 +17919,22 @@ O Ṛbhus, sons of Sudhanvan, ancient ones, who belong to the group of my kinsme
 
 "— [the Upaniṣad says that] when Bhujyu Lāhyāyani, in the assembly of Janaka, asked Yājñavalkya, he said: 'we wandered about among the Madras as *carakas* [students]; we came to the house of Patañcala Kāpya; he had a daughter possessed by a *gandharva*; we asked him, "who are you?" He said, "I am Sudhanvan Āṅgirasa."' This story too is well known in the Mahābhārata and other works. Thus Sudhanvan, the Ṛbhus who were Sudhanvan's sons, and the ṛṣi Kutsa who saw this Sūkta, are all born in the lineage of the ṛṣi Āṅgiras, and so in the Ṛk at hand Kutsa addresses the Ṛbhus as *prāñcaḥ āpayaḥ* — 'ancient kinsmen'."
 
-**Āpayaḥ** — "kinsmen, or other relations; *āpyam āpnoter* [?] (*Ni.* 6-[?]4 as read [?]): formed from the root *āp*, it shows a relation exceedingly beneficial."
+**Āpayaḥ** — "kinsmen, or other relations; *āpyamāpnoteḥ* (*Ni.* 6-14): formed from the root *āp*, it shows a relation exceedingly beneficial."
 
 **Caritasya bhūmanā** — "by the abundance of the austerity practised, or by their great glory, that is, by their uncommon works: what these uncommon works are, and how they showed their power by them, is told in the Ṛks that follow in this very Sūkta."
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.2)** *(grammar pages, p. 668 onwards, noted briefly; numerals small and doubtful [?])*
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.2)** *(grammar pages, p. 668 onwards, noted briefly; numerals small and doubtful)*
 
-Grammar, noted briefly. *Ābhogayam* (*ā samantāt bhogaḥ ābhogaḥ*, 'enjoyment on all sides': root *bhuja pālanābhyavahārayoḥ*; *ghañ* in the abstract sense; *guṇa* of the light penult; *k* for *j* by *cajoḥ kuḥ ghiṇṇyatoḥ*, Pā. Sū. 7-3-52 as read [?]; 'worthy of that' [*tadarhaḥ*]: *ābhogayaḥ*; the suffix *ya* by *chandasi ca*, Pā. Sū. 5-1-67 as read [?]; though the word has the *bha*-name, the loss [of the *a*] by *yasya iti ca* does not arise here, being Vedic; by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?], the accent falls on the former [syllable] of the suffix; by the compound with *āṅ*, the accent of the *kṛdanta* latter member. Or else: from the root *bhuja* preceded by *āṅ*, the Uṇādi suffix *i* in the passive sense; and the change to *g* [*kutva*]; *guṇa* in a vowel-initial context by *vyatyaya*; the form *ābhogi*; by the suffix accent the acute on the syllable following the *g*)* *(continued on p. 669)*
+Grammar, noted briefly. *Ābhogayam* (*ā samantāt bhogaḥ ābhogaḥ*, 'enjoyment on all sides': root *bhuja pālanābhyavahārayoḥ*; *ghañ* in the abstract sense; *guṇa* of the light penult; *k* for *j* by *cajoḥ kuḥ ghiṇṇyatoḥ*, Pā. Sū. 7-3-52; 'worthy of that' [*tadarhaḥ*]: *ābhogayaḥ*; the suffix *ya* by *chandasi ca*, Pā. Sū. 5-4-142; though the word has the *bha*-name, the loss [of the *a*] by *yasya iti ca* does not arise here, being Vedic; by *vyatyayo bahulam*, the accent falls on the former [syllable] of the suffix; by the compound with *āṅ*, the accent of the *kṛdanta* latter member. Or else: from the root *bhuja* preceded by *āṅ*, the Uṇādi suffix *i* in the passive sense; and the change to *g* [*kutva*]; *guṇa* in a vowel-initial context by *vyatyaya*; the form *ābhogi*; by the suffix accent the acute on the syllable following the *g*)* *(continued on p. 669)*
 
 ---
 ### Page 669 (PDF 689)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 669.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 669.)*
 
-The grammar of Rik 110.2 continues and concludes (noted briefly; numerals small and doubtful [?]). *Ābhogayam*, concluded: "…[the Uṇādi alternative] by the substitution *tana* [*tanādeśa*]…" *Aitana* (root *iṇ gatau*; *laṅ*, second person plural; *tana* for *tha* by *taptanaptanathanāś ca*, Pā. Sū. 7-3-77 as read [?]; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72 as read [?]; *vṛddhi* by *āṭaś ca*, Pā. Sū. 7-1-45 as read [?]; because of the *yad*-connection, no *nighāta*; since the augment is *udātta*, the word is initial-acute; the suffix, being *pit*, is *anudātta*). *Āpayaḥ* (root *āplṛ vyāptau*; the Uṇādi suffix *i*; the form *āpi*; the final acute by the suffix; the nominative plural, *jas*, *guṇa* by *jasi ca*, Pā. Sū. 7-3-109 as read [?], *ay*). *Bhūmanā* (the word *bahu*, which is read in the *pṛthvādi* group, in the abstract sense by *pṛthvādibhya imanij vā*, Pā. Sū. 5-1-122 as read [?], the suffix *imanic*; loss of the *i* of *imanic* after *bahu* by *bahor lopo bhū ca bahoḥ*, Vārttika; *bhū* for *bahu*; the loss of the initial *i* of the suffix by *ādeḥ parasya*, Pā. Sū. 1-1-54 as read [?]; the form *bhūman*; final acute by *cit*, Pā. Sū. 6-1-163 as read [?]; the loss of *ā* [*a*] by *allopo 'naḥ*, Pā. Sū. 6-4-134 as read [?] is expected in the instrumental, but by the statement *saṃjñāpūrvako vidhir anityaḥ* it does not arise here). *Āgacchata* (root *gamḷ gatau*; *laṅ*, second person plural; *tha* → *ta*; the vikaraṇa *śap*; *ccha* for the final of the root by *iṣugamiyamāṃ chaḥ*, Pā. Sū. 7-3-77 as read [?]; the augment *āṭ*; because it begins a pāda no *nighāta*). *Dāśuṣaḥ* (by *dāśvān sāhvān*, Pā. Sū. 6-1-12 as read [?], *kvasu*-ending formed by *nipātana*; in the sixth case, since the *bha*-name arises, *vasoḥ saṃprasāraṇam*, Pā. Sū. 6-4-131 as read [?], *saṃprasāraṇa* and *pūrvarūpa*; *ṣatva* by *śāsivasighasīnāṃ ca*, Pā. Sū. 8-3-60 as read [?]). The Rik is closed with *‖ 2 ‖* and an ornament.
+The grammar of Rik 110.2 continues and concludes (noted briefly; numerals small and doubtful). *Ābhogayam*, concluded: "…[the Uṇādi alternative] by the substitution *tana* [*tanādeśa*]…" *Aitana* (root *iṇ gatau*; *laṅ*, second person plural; *tana* for *tha* by *taptanaptanathanāś ca*, Pā. Sū. 7-1-45; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72; *vṛddhi* by *āṭaś ca*, Pā. Sū. 6-1-90; because of the *yad*-connection, no *nighāta*; since the augment is *udātta*, the word is initial-acute; the suffix, being *pit*, is *anudātta*). *Āpayaḥ* (root *āplṛ vyāptau*; the Uṇādi suffix *i*; the form *āpi*; the final acute by the suffix; the nominative plural, *jas*, *guṇa* by *jasi ca*, *ay*). *Bhūmanā* (the word *bahu*, which is read in the *pṛthvādi* group, in the abstract sense by *pṛthvādibhya imanij vā*, Pā. Sū. 5-1-122, the suffix *imanic*; loss of the *i* of *imanic* after *bahu* by *bahor lopo bhū ca bahoḥ*, Vārttika; *bhū* for *bahu*; the loss of the initial *i* of the suffix by *ādeḥ parasya*, Pā. Sū. 1-1-54; the form *bhūman*; final acute by *cit*, Pā. Sū. 6-1-163; the loss of *ā* [*a*] by *allopo 'naḥ* is expected in the instrumental, but by the statement *saṃjñāpūrvako vidhir anityaḥ* it does not arise here). *Āgacchata* (root *gamḷ gatau*; *laṅ*, second person plural; *tha* → *ta*; the vikaraṇa *śap*; *ccha* for the final of the root by *iṣugamiyamāṃ chaḥ*, Pā. Sū. 7-3-77; the augment *āṭ*; because it begins a pāda no *nighāta*). *Dāśuṣaḥ* (by *dāśvān sāhvān*, Pā. Sū. 6-1-12, *kvasu*-ending formed by *nipātana*; in the sixth case, since the *bha*-name arises, *vasoḥ saṃprasāraṇam*, *saṃprasāraṇa* and *pūrvarūpa*; *ṣatva* by *śāsivasighasīnāṃ ca*, Pā. Sū. 8-3-60). The Rik is closed with *‖ 2 ‖* and an ornament.
 
-## Rik 110.3 — printed pp. 669–[?]
+## Rik 110.3 — printed pp. 669–674
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.3)**
 
@@ -17975,7 +17975,7 @@ O Ṛbhus, when you approached Savitṛ, who cannot be hidden and is accessible 
 
 ### Page 671 (PDF 691)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 671. At the foot, the printer's signature "43 / VOLUME 8" is not printed on this page; noted only.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 671. At the foot, the printer's signature "43 / VOLUME 8" is not printed on this page; noted only.)*
 
 **English Translation (as printed in the source)**
 
@@ -18022,7 +18022,7 @@ O Ṛbhus, when you approached Savitṛ, who cannot be hidden and is accessible 
 > अपिबत्सोममिन्द्रश्च त्वष्टा तत्र सवने सह ।
 > *viśveṣāṃ te tatakṣuś cakrur vāhanāny āyudhāni tu | dhenuṃ sabardughāṃ cakrur amṛtaṃ sabarucyate ‖ bṛhaspater athāśvibhyāṃ rathaṃ divyaṃ tribandhuram | indrāya ca harī devaprahitenāgninā api yat ‖ ekaṃ camasam ity ukte jyeṣṭha āhety atho divi | uktvā tatakṣuś camasān yathoktaṃ tena harṣitāḥ ‖ tvaṣṭā ca savitā caiva devadevaḥ prajāpatiḥ | sarvān devān samāmantrya amṛtatvaṃ daduś ca te ‖ teṣām ādyantayor nāmnā dṛśyate bahuvat stavaḥ | tṛtīyasavane teṣāṃ tvaṣṭur bhāgaḥ prakalpitaḥ ‖ apibat somam indraś ca tvaṣṭā tatra savane saha |* (*Bṛ. De.* 3-83ff as read; the verses are crowded and given as read from the print, with doubt in several words, notably "upāsthayan", "sabardughāṃ … sabarucyate" and the last pāda; not completed from memory)
 
-"Previously, the three Ṛbhus, sons of Sudhanvan — Ṛbhu, Vibhvan and Vāja — became pupils of Tvaṣṭṛ. Tvaṣṭṛ, skilled in all arts, taught them all the arts. Then the Viśvedevas, who were experts in the arts, tested them with hostile [?] vision. Thereupon [the Ṛbhus] made weapons and vehicles for all the gods. Afterwards they created an immortal cow [Dhenu]. [They made] chariots for Bṛhaspati and the Aśvins, horses for Indra, and, sent by the gods, for Agni as well, as said before — and so say:
+"Previously, the three Ṛbhus, sons of Sudhanvan — Ṛbhu, Vibhvan and Vāja — became pupils of Tvaṣṭṛ. Tvaṣṭṛ, skilled in all arts, taught them all the arts. Then the Viśvedevas, who were experts in the arts, tested them with hostile vision. Thereupon [the Ṛbhus] made weapons and vehicles for all the gods. Afterwards they created an immortal cow [Dhenu]. [They made] chariots for Bṛhaspati and the Aśvins, horses for Indra, and, sent by the gods, for Agni as well, as said before — and so say:
 
 > किमु श्रेष्ठः किं यविष्ठो न आजगन्किमीयते दूत्यं कद्यदूचिम ।
 > न निन्दिम चमसं यो महाकुलोऽग्ने भ्रातर्द्रुण इद्भूतिमूदिम ॥
@@ -18037,17 +18037,17 @@ O Ṛbhus, when you approached Savitṛ, who cannot be hidden and is accessible 
 ---
 ### Page 673 (PDF 693)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 673. At the foot, the printer's signature "43 / VOLUME 8" [sic: as printed, noted only].)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 673. At the foot, the printer's signature "43 / VOLUME 8" [sic: as printed, noted only].)*
 
 "— [the Ṛbhus said:] 'all that you desire we shall do for you', and so they did [for Agni]; the matter of their having done it is suggested here. Because they did such skilful work, they helped Agni. Then Tvaṣṭṛ, Savitṛ and Prajāpati, the god of gods, called all the gods and favoured the Ṛbhus so that they obtained immortality. Then Indra, [who had previously rejected them], also drank Soma with them: this story is told in the Bṛhaddevatā."
 
-**Agohyam** — *atyantatejasvitvāt gūhitum aśakyaṃ savitāram |* "'Savitṛ, who cannot be hidden because of his exceeding radiance': since he is exceedingly radiant, he is visible to all: this is the purport. This epithet is usually applied to Savitṛ; but in some places [it is applied] to Indra, in the Ṛk 3-1-[?], and to Agni in 10-[?]-[?] [as read [?]]."
+**Agohyam** — *atyantatejasvitvāt gūhitum aśakyaṃ savitāram |* "'Savitṛ, who cannot be hidden because of his exceeding radiance': since he is exceedingly radiant, he is visible to all: this is the purport. This epithet is usually applied to Savitṛ; but in some places [it is applied] to Indra, in the Ṛk 8-98-4, and to Agni in 10-64-7."
 
 **Savitā amṛtatvam āsuvat** — "Savitṛ graciously gave immortality. This context has been told in the Special Topics of the previous Ṛk."
 
-**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.3)** *(grammar pages, pp. 673–674, noted briefly; numerals small and doubtful [?])*
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.3)** *(grammar pages, pp. 673–674, noted briefly; numerals small and doubtful)*
 
-Grammar, noted briefly. *Savitā* (root *ṣūṅ prasave* [print: *ṣū preraṇe*]; *tṛc* in the active sense; the augment *iṭ*; because of it *guṇa* of the root, *av*; since it is *cit*, the final acute; nominative singular). *Āsuvat* (root *ṣū preraṇe*, *tudādi*; *laṅ*, third person singular, *tip*; loss of the *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]; the vikaraṇa *śa* by *tudādibhyaḥ śaḥ*, Pā. Sū. 3-1-77 as read [?]; since *sārvadhātukam apit*, Pā. Sū. 1-2-4 as read [?], it is *ṅit*-like and the root has no *guṇa*; *uvaṅ* by *ācchnudhātubhruvām…* [as printed: *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*, Pā. Sū. 6-4-77 as read [?]]; the augment *aṭ*; since a verb follows a non-verb, *nighāta*). *Śravayantaḥ* (root *śru śravaṇe*; since the instigator is shown, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; *vṛddhi* does not arise, as Vedic, by *ācaḥ* [?]; *guṇa* and *av*; *śatṛ* in the sense of *laṭ*; *śap*; because of it, *guṇa* of *ṇic*, *ay*; the form *śravayat*; nominative plural; the *ṇic*-accent remains, since *śap* is *anudātta*). *Aitana* (root *iṇ gatau*; *laṅ*, second person plural; *tha* → *tana*; *śap* is lost; the augment *āṭ*; *vṛddhi* by *āṭaś ca*; the form *aitana*; since the word *yad* is connected, no *nighāta*; the initial acute).
+Grammar, noted briefly. *Savitā* (root *ṣūṅ prasave* [print: *ṣū preraṇe*]; *tṛc* in the active sense; the augment *iṭ*; because of it *guṇa* of the root, *av*; since it is *cit*, the final acute; nominative singular). *Āsuvat* (root *ṣū preraṇe*, *tudādi*; *laṅ*, third person singular, *tip*; loss of the *i* by *itaś ca*; the vikaraṇa *śa* by *tudādibhyaḥ śaḥ*, Pā. Sū. 3-1-77; since *sārvadhātukam apit*, Pā. Sū. 1-2-4, it is *ṅit*-like and the root has no *guṇa*; *uvaṅ* by *ācchnudhātubhruvām…* [as printed: *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*]; the augment *aṭ*; since a verb follows a non-verb, *nighāta*). *Śravayantaḥ* (root *śru śravaṇe*; since the instigator is shown, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26; *vṛddhi* does not arise, as Vedic, by *ācaḥ* [?]; *guṇa* and *av*; *śatṛ* in the sense of *laṭ*; *śap*; because of it, *guṇa* of *ṇic*, *ay*; the form *śravayat*; nominative plural; the *ṇic*-accent remains, since *śap* is *anudātta*). *Aitana* (root *iṇ gatau*; *laṅ*, second person plural; *tha* → *tana*; *śap* is lost; the augment *āṭ*; *vṛddhi* by *āṭaś ca*; the form *aitana*; since the word *yad* is connected, no *nighāta*; the initial acute).
 
 ---
 
@@ -18055,9 +18055,9 @@ Grammar, noted briefly. *Savitā* (root *ṣūṅ prasave* [print: *ṣū prera�
 
 *(Running head: left 674; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
 
-The grammar of Rik 110.3 concludes. *Asurasya* (root *asu kṣepaṇe*; the suffix *uran* by *aser uran*, U. Sū. 1-42 as read [?]; since it is *nit*, the initial acute). *Bhakṣaṇam* (root *bhakṣa adane*; *lyuṭ* in the instrumental sense; *ana* for *yu* by *yuvor anākau*, Pā. Sū. 7-1-45 as read [?]; *ṇatva* because of the *ṣ* [*r*]). *Akṛṇuta* (root *kṛvi hiṃsākaraṇayoś ca*; *laṅ*, second person plural; *ta* for *tha*; *num* by *idito num dhātoḥ*, Pā. Sū. 7-1-58 as read [?]; *u* by *dhinvikṛṇvor a ca*, Pā. Sū. 3-1-80 as read [?]; the *u*-vikaraṇa; because *u* is the cause, the loss of the *a* by *ato lopaḥ*, Pā. Sū. 6-4-48 as read [?]; since the loss of the *a* has *sthānivadbhāva* by *acaḥ parasmin pūrvavidhau*, Pā. Sū. 1-1-57 as read [?], *guṇa* of the light penult does not arise because of *u*; *ṇatva* because of the *ṛ*; the augment *aṭ*; since a verb follows a non-verb, *nighāta*). *Caturvayam* (*vaya* means *avayava*, 'part': *catvāro vayā yasya saḥ caturvayaḥ* — *taṃ*; by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?], the accent of the prior member). The Rik is closed with *‖ 3 ‖* and a rule of dashes.
+The grammar of Rik 110.3 concludes. *Asurasya* (root *asu kṣepaṇe*; the suffix *uran* by *aser uran*, U. Sū. 1-42; since it is *nit*, the initial acute). *Bhakṣaṇam* (root *bhakṣa adane*; *lyuṭ* in the instrumental sense; *ana* for *yu* by *yuvor anākau*; *ṇatva* because of the *ṣ* [*r*]). *Akṛṇuta* (root *kṛvi hiṃsākaraṇayoś ca*; *laṅ*, second person plural; *ta* for *tha*; *num* by *idito num dhātoḥ*, Pā. Sū. 7-1-58; *u* by *dhinvikṛṇvor a ca*, Pā. Sū. 3-1-80; the *u*-vikaraṇa; because *u* is the cause, the loss of the *a* by *ato lopaḥ*, Pā. Sū. 6-4-48; since the loss of the *a* has *sthānivadbhāva* by *acaḥ parasmin pūrvavidhau*, *guṇa* of the light penult does not arise because of *u*; *ṇatva* because of the *ṛ*; the augment *aṭ*; since a verb follows a non-verb, *nighāta*). *Caturvayam* (*vaya* means *avayava*, 'part': *catvāro vayā yasya saḥ caturvayaḥ* — *taṃ*; by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1, the accent of the prior member). The Rik is closed with *‖ 3 ‖* and a rule of dashes.
 
-## Rik 110.4 — printed pp. 674–[?]
+## Rik 110.4 — printed pp. 674–678
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.4)**
 
@@ -18070,7 +18070,7 @@ The grammar of Rik 110.3 concludes. *Asurasya* (root *asu kṣepaṇe*; the suff
 
 ### Page 675 (PDF 695)
 
-*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 675.)*
+*(Running head: left "A. 1 A. 7 Va. 30"; centre "Ṛgvedasaṃhitā"; right 675.)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.4)**
 
@@ -18084,7 +18084,7 @@ The grammar of Rik 110.3 concludes. *Asurasya* (root *asu kṣepaṇe*; the suff
 > वाघतः । ऋत्विङ्नामैतत् । अत्र च सामर्थ्यात्तद्वन्तो लक्ष्यन्ते । ऋत्विग्भिरुपेता ऋभवः । शमी । कर्मनामैतत् । योगदानादीनि कर्माण्यन्यन्यस्यैकं चमसं चतुरस्कृणोतन । ऋ. सं. १-१६१-२ । इत्यादिना देवैरुक्तानि कर्माणि तरणित्वेन । तरणिरिति क्षिप्रनाम । क्षिप्रत्वेन शैघ्र्येण विष्ट्वी । यद्वा । एतत्कर्मनाम तथाप्यत्र क्रियापरं व्याप्य कृत्वेत्यर्थः । एवं कर्माणि कृत्वा मर्तासो मनुष्या अपि सन्तोऽमृतत्वं देवत्वमानशिरे । कृतैः कर्मभिर्देवत्वं प्राप्य च सौधन्वनाः सुधन्वनः पुत्राः सूरचक्षसः सूर्यसदृशज्ञाना वा ते ऋभवः संवत्सरे संवत्सरावयवभूते वसन्तादिकालेऽनुष्ठेयैर्धीतिभिरग्निष्टोमादिकर्मभिः समपृच्यन्त संयुक्ता अभवन् । हविर्भागार्हा बभूवुरित्यर्थः । अत्र निरुक्तं । कृत्वा कर्माणि क्षिप्रेण वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे सौधन्वना ऋभवः सूरख्याना वा सूरप्रज्ञा वा संवत्सरे समपृच्यन्त धीतिभिः कर्मभिर्ऋभुर्विभ्वा वाज इति सुधन्वन आङ्गिरसस्य त्रयः पुत्रा बभूवुः । नि. ११-१८ । इति ॥ विष्ट्वी । विष्लृ व्याप्तौ । स्नात्व्यादयश्च । पा. सू. ७-१-४९ । क्त्वाप्रत्ययस्य ईकारान्तादेशः । शमी । सुपां सुलुगिति शसो लुक् । आनशुः । अशू व्याप्तौ । व्यत्ययेन परस्मैपदं । अश्नोतेश्चेत्यभ्यासादुत्तरस्य नुडागमः । अपृच्यन्त । पृची संपर्के । कर्मणि लङ् ॥
 > *vāghataḥ | ṛtvinnāmaitat | atra ca sāmarthyāt tadvanto lakṣyante | ṛtvigbhir upetā ṛbhavaḥ | śamī | karmanāmaitat | yogadānādīni karmāṇy anyanyasyaikaṃ camasaṃ caturas kṛṇotana | ṛ. saṃ. 1-161-2 | ity ādinā devair uktāni karmāṇi taraṇitvena | taraṇir iti kṣipranāma | kṣipratvena śaighryeṇa viṣṭvī | yadvā | etatkarmanāma tathāpy atra kriyāparaṃ vyāpya kṛtvety arthaḥ | evaṃ karmāṇi kṛtvā martāso manuṣyā api santo 'mṛtatvaṃ devatvam ānaśire | kṛtaiḥ karmabhir devatvaṃ prāpya ca saudhanvanāḥ sudhanvanaḥ putrāḥ sūracakṣasaḥ sūryasadṛśajñānā vā te ṛbhavaḥ saṃvatsare saṃvatsarāvayavabhūte vasantādikāle 'nuṣṭheyair dhītibhir agniṣṭomādikarmabhiḥ samapṛcyanta saṃyuktā abhavan | havirbhāgārhā babhūvur ity arthaḥ | atra niruktaṃ | kṛtvā karmāṇi kṣipreṇa voḍhāro medhāvino vā martāsaḥ santo 'mṛtatvam ānaśire saudhanvanā ṛbhavaḥ sūrakhyānā vā sūraprajñā vā saṃvatsare samapṛcyanta dhītibhiḥ karmabhir ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ | ni. 11-18 | iti ‖ viṣṭvī | viṣḷ vyāptau | snātvyādayaś ca | pā. sū. 7-1-49 | ktvāpratyayasya īkārāntādeśaḥ | śamī | supāṃ suluk iti śaso luk | ānaśuḥ | aśū vyāptau | vyatyayena parasmaipadaṃ | aśnoteś cety abhyāsād uttarasya nuḍāgamaḥ | apṛcyanta | pṛcī saṃparke | karmaṇi laṅ ‖* *(Sanskrit as read; "caturas kṛṇotana", "ānaśire" for the Ṛk's *ānaśuḥ*, and the reference numerals are as printed and doubtful; the tail is short and is given.)*
 
-"*Vāghataḥ*: this is a name for 'priest'; here, by implication, those who have them: the Ṛbhus, accompanied by priests. *Śamī*: a name for 'work' [rites]: the works that the gods told them [of], as 'make the one cup into four' (*Ṛ.* 1-161-2 as read [?]) and so on; *taraṇitvena*: *taraṇi* is a name for 'quick': with quickness, swiftly; *viṣṭvī*, having extended [accomplished]; or else, although this is a name for work, here, having pervaded the course of action [?], having done [it]. Thus, having done works, though they were *martāsaḥ*, mortal men, they attained (*ānaśuḥ*) immortality, divinity. And having attained divinity by their works, the *saudhanvanāḥ*, sons of Sudhanvan, *sūracakṣasaḥ*, or having knowledge like the sun, those Ṛbhus, in the *saṃvatsara* — the year — in the seasons, spring and the rest, which are parts of the year, *samapṛcyanta* — became associated with *dhītibhiḥ*, with the rites to be performed, the Agniṣṭoma and so on: that is, they became worthy of a share in the oblations. Here the Nirukta says: 'having done works, quick bearers [*voḍhāraḥ*] or wise ones, though they were mortals, attained immortality, the sons of Sudhanvan, the Ṛbhus, renowned as the sun or with sun-like wisdom, became associated in the year with works — Ṛbhu, Vibhvan and Vāja: three sons were born to Sudhanvan Āṅgirasa' (*Ni.* 11-18 as read [?]). *Viṣṭvī*: root *viṣḷ vyāptau*; *īkāra* for the suffix *ktvā*; *śamī*: loss of *śas* by *supāṃ suluk*; *ānaśuḥ*: root *aśū vyāptau*, parasmaipada by *vyatyaya*, the augment *nuṭ*; *apṛcyanta*: root *pṛcī saṃparke*, passive *laṅ*."
+"*Vāghataḥ*: this is a name for 'priest'; here, by implication, those who have them: the Ṛbhus, accompanied by priests. *Śamī*: a name for 'work' [rites]: the works that the gods told them [of], as 'make the one cup into four' (*Ṛ.* 1-161-2) and so on; *taraṇitvena*: *taraṇi* is a name for 'quick': with quickness, swiftly; *viṣṭvī*, having extended [accomplished]; or else, although this is a name for work, here, having pervaded the course of action, having done [it]. Thus, having done works, though they were *martāsaḥ*, mortal men, they attained (*ānaśuḥ*) immortality, divinity. And having attained divinity by their works, the *saudhanvanāḥ*, sons of Sudhanvan, *sūracakṣasaḥ*, or having knowledge like the sun, those Ṛbhus, in the *saṃvatsara* — the year — in the seasons, spring and the rest, which are parts of the year, *samapṛcyanta* — became associated with *dhītibhiḥ*, with the rites to be performed, the Agniṣṭoma and so on: that is, they became worthy of a share in the oblations. Here the Nirukta says: 'having done works, quick bearers [*voḍhāraḥ*] or wise ones, though they were mortals, attained immortality, the sons of Sudhanvan, the Ṛbhus, renowned as the sun or with sun-like wisdom, became associated in the year with works — Ṛbhu, Vibhvan and Vāja: three sons were born to Sudhanvan Āṅgirasa' (*Ni.* 11-16). *Viṣṭvī*: root *viṣḷ vyāptau*; *īkāra* for the suffix *ktvā*; *śamī*: loss of *śas* by *supāṃ suluk*; *ānaśuḥ*: root *aśū vyāptau*, parasmaipada by *vyatyaya*, the augment *nuṭ*; *apṛcyanta*: root *pṛcī saṃparke*, passive *laṅ*."
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.4; Kannada; English)**
 
@@ -18115,7 +18115,7 @@ The Nirukta explains this Ṛk thus:
 
 "The Ṛbhus, shining like the sun, or having knowledge like the sun, obtained, though they were mortal, immortality through their *tapas*-works and also through other uncommon deeds. And they became joined with the rites such as the Agniṣṭoma, to be performed in the seasons, spring and the rest, as parts of the year: that is, in all the sacrifices they obtained eligibility to receive the oblations."
 
-**Vāghataḥ** — "this word is read among the names of priests (*Ni.* 3-[?]7); Sāyaṇa: *ṛtvinnāmaitat | atra ca sāmarthyāt tadvanto lakṣyante | ṛtvigbhir upetā ṛbhavaḥ |* 'by implication, those who possess them: the Ṛbhus accompanied by priests'. For the word *vāghataḥ*, read among the names of priests, the sense here is 'the Ṛbhus together with the priests', as is explained"
+**Vāghataḥ** — "this word is read among the names of priests (*Ni.* 3-19); Sāyaṇa: *ṛtvinnāmaitat | atra ca sāmarthyāt tadvanto lakṣyante | ṛtvigbhir upetā ṛbhavaḥ |* 'by implication, those who possess them: the Ṛbhus accompanied by priests'. For the word *vāghataḥ*, read among the names of priests, the sense here is 'the Ṛbhus together with the priests', as is explained"
 
 *(the passage continues on p. 677)*
 
@@ -18126,7 +18126,7 @@ The Nirukta explains this Ṛk thus:
 
 *(The Special Topic on* vāghataḥ *continues:)* "…as is explained. But in the Nirukta it is said *voḍhāro medhāvino vā* ['bearers, or wise ones']. On *voḍhāraḥ* Durgācārya has: *yajñasyānuṣṭhātāraḥ* — those who perform the sacrifice; or *medhāvinaḥ* — 'for those who are not wise are not able to complete all the works within a single year' (*na hy amedhāvinaḥ saṃvatsareṇa sakalaṃ karma samāpayituṃ śaktāḥ*): that is, he explains that they are those who have the power to carry out all the works within one year."
 
-**विष्ट्वी — Viṣṭvī.** "This word is read among the [thirty-?] names of 'work' (*Ni.* 3-1 as read [?]). But *viṣṭvī* is not a name of work, for it would then repeat *śamī*:
+**विष्ट्वी — Viṣṭvī.** "This word is read among the 26 names of 'work' (*Ni.* 3-1). But *viṣṭvī* is not a name of work, for it would then repeat *śamī*:
 
 > विष्ट्वीति न कर्मनाम । शमीत्येतेन पौनरुक्त्यप्रसङ्गात् । किं तर्हि । विशेषार्थप्राप्त्यर्थस्य क्रियाशब्दोऽयं विष्ट्वीति । विष्ट्वा व्याप्त्वा । कृत्वा इत्यर्थः ।
 > *viṣṭvīti na karmanāma | śamīty etena paunaruktyaprasaṅgāt | kiṃ tarhi | viśeṣārthaprāptyarthasya kriyāśabdo 'yaṃ viṣṭvīti | viṣṭvā vyāptvā | kṛtvā ity arthaḥ |*"
