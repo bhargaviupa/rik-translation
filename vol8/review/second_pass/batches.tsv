@@ -1,3 +1,4 @@
 batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
 1	550	559	87	62	50	0	25	139k	d7e7d422	2026-11-27	pilot; 81 [?] seen, 59 removed (36 corrected), 22 kept
 2	2	31	79	40	40	0	39	223k	eab0f49c	2026-11-27	79 [?] seen, 40 removed (26 corrected), 39 kept
+3	32	61	47	18	16	0	29	134k	337547ac	2026-11-27	47 [?] seen, 18 removed (16 corrected), 29 kept
