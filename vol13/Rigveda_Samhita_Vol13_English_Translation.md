@@ -14624,6 +14624,163 @@ In this Ṛk too the rescue of Bhujyu, spoken of earlier, is the subject. With �
 The enemy armies thrust Bhujyu, who had gone down into the sea to destroy the enemy force, into the sea. Then he prayed to the protecting Aśvin gods, and they saved him with the help of a ship. This matter is told in Ṛ. Saṃ. 1-116-3 and 1-116-4 and in many other places. The matter of Bhujyu was told before; but before it was said that he was afflicted by a storm, while in the present explanation it is said that he was caught in distress by enemies. That is the difference.
 For the word सिंधुषु (*siṃdhuṣu*) the meaning given is समुद्रोदकेषु (*samudrodakeṣu*). The word सिंधु (*siṃdhu*) is read among the names of rivers (Ni. 2-24). सिंधुः स्रवणात् (*siṃdhuḥ sravaṇāt*) (Ni. 5 27): because it flows, the word सिंधु (*siṃdhu*) has the name "river". Because it is in the form of a flow, in some places the meaning "rays" also becomes possible; in that sense this word is also used. For example—
 
+### Printed p. 613
+In the verse
+युवमेतानि दिवि रोचनान्यग्निश्च सोम सक्रतू अधत्तं । युवं सिंधूरभिशस्तेरवद्यादग्नीषोमावमुंचतं गृभीतान् ॥ (*yuvametāni divi rocanānyagniśca soma sakratū adhattaṃ | yuvaṃ siṃdhūrabhiśasteravadyādagnīṣomāvamuṃcataṃ gṛbhītān ‖*) (Ṛ. Saṃ. 1-93-5)
+Sāyaṇa explains सिंधून् (*siṃdhūn*) as नदीविशेषान् (*nadīviśeṣān*). Skandasvāmin explains स्यंदनात् सिंधवो रश्मय इहोच्यंते (*syaṃdanāt siṃdhavo raśmaya ihocyaṃte*), that is, "spreading rays". He cites the sentence न सिंधवो रजसो अंतमानशुः (*na siṃdhavo rajaso aṃtamānaśuḥ*) (Ṛ. Saṃ. 1-52-14), and wishes to give the meaning "rays" in the same way here too (in the Ṛk quoted above).
+
+In many places the word Sindhu has to be explained as "ocean". But in
+पिपीळे अंशुर्मद्यो न सिंधुरा त्वा शमी शशमानस्य शक्तिः । अस्मद्र्यक्युशुचानस्य यम्या आशुर्न रश्मिं तुव्योजसं गोः ॥ (*pipīḷe aṃśurmadyo na siṃdhurā tvā śamī śaśamānasya śaktiḥ | asmadryakyuśucānasya yamyā āśurna raśmiṃ tuvyojasaṃ goḥ ‖*) (Ṛ. Saṃ. 4-22-8)
+and similar places, it is used as a synonym of Soma, as "flowing Soma"; the meaning is "that which has a flowing nature". In places such as (Ṛ. Saṃ. 2-11-9) the meaning "cloud" also results. In the present Ṛk, सिंधुषु (*siṃdhuṣu*) is explained as समुद्रोदकेषु (*samudrodakeṣu*).
+
+The word आत्मनंतं (*ātmanaṃtaṃ*) is an adjective of the word प्लव (*plava*); the meaning is "a firm raft". Wherever this adjective occurs, the word आत्मन् (*ātman*) must be given the meaning "firm, steady, essential". Likewise in the Ṛk
+तमूहथुर्नाभिरात्मनृतिभिरंतरिक्षपुद्धि रपोदकाभिः (*tamūhathurnābhirātmanṛtibhiraṃtarikṣapuddhi rapodakābhiḥ*) (Ṛ. Saṃ. 1-116-3)
+the adjective आत्मन्वतीभिः (*ātmanvatībhiḥ*) is used to describe the power of the Aśvins' ship. Sāyaṇa explains that word as धृतिरात्मा; धारणवतीभिः (*dhṛtirātmā; dhāraṇavatībhiḥ*), that is, "having a power that is firm and sustaining".
+
+In
+आत्मनन्नभो दुह्यते धृतं पय ऋतस्य नाभिरमृतं वि जायते । समीचीनाः सुदानवः प्रीणंति तं नरो हितमिव मेहंति पेरवः ॥ (*ātmanannabho duhyate dhṛtaṃ paya ṛtasya nābhiramṛtaṃ vi jāyate | samīcīnāḥ sudānavaḥ prīṇaṃti taṃ naro hitamiva mehaṃti peravaḥ ‖*) (Ṛ. Saṃ. 9-74-4)
+the word आत्मवत् (*ātmavat*) is an adjective of धृतं (*dhṛtaṃ*) and पयः (*payaḥ*) and conveys the sense "full of essence, having inner power". In the present Ṛk too the meaning is a raft possessing the power of bearing.
+
+क्षोदसः (*kṣodasaḥ*)—the word क्षोद (*kṣoda*) is read among the names of water (Ni. 3-9).
+
+### Printed p. 614
+पक्षिणि (*pakṣiṇi*)—this word too is an adjective of प्लव (*plava*). पक्षवद्धतिसाधनरथवंतं (*pakṣavaddhatisādhanarathavaṃtaṃ*): the raft has a car that has wings and is fit for swift movement.
+मनसा (*manasā*) means "with a mind of favour".
+देवत्रा (*devatrā*) is explained as "among the gods (you alone are the protectors)". Likewise, where the form यजत्रा (*yajatrā*) occurs, the purport is "worthy of sacrifice, worthy of worship".
+
+##### Grammar
+
+- चक्रथुः — डुकृञ् करणे इति धातुः । लिट् मध्यमपुरुषद्विवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- प्लवम् — प्लुज् गतौ इति धातुः । नंदिग्रह पचादिभ्यः (पा सू: ३-१-१३४) इति अच् प्रत्ययः । सार्वधातुकार्थ इति गुणः । आवादेशः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- आत्मनंतम् — आत्मा अस्य अस्ति इति अर्थविवक्षायां मतुप् प्रत्ययः । मामपधायाश्च इति मकारस्य वत्वम् । पदसंज्ञायाः सत्त्वात् न लोपः । अनोनुट् (पा. सू. ८-२-१६) इति मतुसि नुडागमः । ह्रस्वनुड्भ्यां मतुप् (पा. सू. ६-१-१७६) इति मतुसि उदात्तस्वरो भवति । द्वितीया एकवचनांतरूपम् ।
+- देवत्रा — देवमनुष्यपुरु (पा. सू. ५-४-५६) इति सप्तम्यर्थे त्रा प्रत्ययः । प्रत्ययस्वरो भवति ।
+- निरूहथुः — निर् उपसर्गः । वह प्रापणे इति धातुः । छांदसत्वात् लिट् । मध्यमपुरुषद्विवचनांतरूपम् । यद्योगस्य सत्त्वात् निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति । तिङ्खचोदात्तवति (पा सू. ८-१-७१) इति गतेः अनुदात्तस्वरो भवति ।
+- सुपप्तनि — पत्ल्य गतौ इति धातुः । व्यत्ययात् अज् परे असत्यपि पुमागमः । नञ् सुभ्याम् (पा. सू. ६-२-१७) इति उत्तरपदांतोदात्तस्वरो भवति ।
+- पेतथुः — पूर्वोक्तो धातुः । छांदसत्वात् लिट् । मध्यमपुरुषद्विवचनस्य अथुसादेशः । लिण्णिमित्तत्वेन द्वित्वादिषु आगतेषु आत एकहल् मध्ये (पा. सू. ६-४-१२०) इति एत्वाभ्यासलोपौ । तिजंतनिघातस्वरो भवति । ॥ ५ ॥
+
+### Printed p. 615
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑निद्धं तौ॒ग्र्यम॒प्स्व१॒ं॑तर॑नारंभ॒णे तम॑सि॒ प्रवि॑द्दं ।  
+> चत॑स्रो॒ नावो॒ जठ॑लस्य॒ जुष्टा॒ उद॒श्वभ्या॑मिषि॒ताः पा॑रयंति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्यविद्दं । शौग्र्यं । अप्‌सु । अंतः । अनारंभणे । तमसि । प्रविद्दं ।  
+> चतस्रः । नावः । जठलस्य । जुष्टाः । उत् । अश्विभ्यां । इषिताः । पारयंति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्संतर्मध्येऽवविद्धमवस्ताच्छतृभिःपातितमनारंभणेऽनालंबन आलंबलनरहिते तमसि । तमोवत्तमः । दृष्टिश्वासादिप्रतिबंधके जलमध्ये प्रविद्दं प्रकर्षेण
+> पीडितं तौग्र्यं भुज्यं जठलस्य जठरवदुदकधारकस्य मध्ये जुष्टाः सेविताः । यद्वा ॥
+> कर्मणि षष्ठी ॥ जठरं प्राप्ता अंतर्जलं प्रविष्टाः । अश्वभ्यामिषिताश्चतुस्रो नाव
+> उत्पारयंति । उत्तारयंति । प्रापयंति ॥
+
+##### Gist of the bhāṣya
+
+*apsaṃtaḥ* means in the middle of the waters. अवनिद्धं (*avaniddhaṃ*) means cast down from above by enemies. अनारंभणे (*anāraṃbhaṇe*) means in a place without support, without anything to hold. तमसि (*tamasi*): the water is like darkness, since it obstructs sight, breath and the like. प्रविद्दं (*praviddaṃ*) means greatly tormented. तौग्र्यं (*taugryaṃ*) is Bhujyu. जठलस्य (*jaṭhalasya*) means of that which, like a belly, holds water; जुष्टाः (*juṣṭāḥ*) means served, in the middle of it. Or else, the genitive is in the sense of the object: जठरं प्राप्ता (*jaṭharaṃ prāptā*), those which have entered the water within. The four ships, urged on by the two Aśvins, carry him across (उत्तारयंति (*uttārayaṃti*)), bring him to the other side (प्रापयंति (*prāpayaṃti*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्पु अंतः (*appu aṃtaḥ*)—in the middle of the waters
+- अव विद्दं (*ava viddaṃ*)—one who had been thrown headlong (by enemies)
+- अनारंभणे (*anāraṃbhaṇe*)—without support
+- तमसि (*tamasi*)—in the midst of water, which obstructs sight like darkness
+- प्र विद्दं (*pra viddaṃ*)—greatly tormented (by enemies)
+- तौग्र्यं (*taugryaṃ*)—Bhujyu, the son of Tugra
+- जठलस्य (*jaṭhalasya*)—in the ocean, which holds water like a belly
+- जुष्टाः (*juṣṭāḥ*)—served by him. [Or जठलस्य जुष्टाः (*jaṭhalasya juṣṭāḥ*)—those that entered the interior of the water, and]
+- अश्विभ्यां इषिताः (*aśvibhyāṃ iṣitāḥ*)—urged on by the Aśvins
+- चतस्रः नावः (*catasraḥ nāvaḥ*)—four ships
+- उत् पारयंति (*ut pārayaṃti*)—bring (to the shore)
+
+##### भावार्थ (Bhāvārtha)
+
+Bhujyu had been thrown headlong by enemies into the middle of the sea and was grievously harmed by the stoppage of sight and breath. The four ships, urged on by the Aśvins, enter the interior of the water and carry him to the shore.
+
+### Printed p. 616
+
+##### English translation (H. H. Wilson)
+Four ships launched into the midst of the receptacle (of the waters), sent by the Ashwins, brought safe to shore the son of Tugra, who had been cast headlong into the waters (by his foes), and plunged in inextricable darkness.
+
+##### विशेषविषयगळु (Special Topics)
+
+A. C. Das, in his work Rigvedic India, vol. I, explains about Bhujyu as follows—
+
+This legend (of Bhujyu) also means that the Sun remained invisible in consequence of the fall of incessant rains for three days and nights, during which period, the Aswins also remained in the परावत् (*parāvat*) or distant region, as they were not at all visible on account of the presence of dripping clouds in the sky. The Aswins rescued Bhujyu from his perilous position and brought him home in a hundred oared ship, the hundred ones probably representing hundred days or three months during which the rains lasted. The same sentiment is probably also more elaborately expressed in the verses which say that Aswins rescued Bhujya. " with animated water-tight ships, which traversed the air (अंतरिक्ष (*aṃtarikṣa*)); with four ships,'with an animated winged boat ; with three flying cars having a hundred feet. and six horses." Now these ships or flying cars either three or four in number approximately represented the three or four months, the hundred feet represented the hundred days, and the six horses probably the six fortnights during which the rainy season lasted. Across tihs season Bhujyu (the Sun) was safely piloted home by Aswins in their ships or flying cars.
+[Rig-Vedic India. p. 533-534]
+
+What we must chiefly note in this is that, for चतस्रः नावः (*catasraḥ nāvaḥ*) in the present Ṛk, he has taken "four months". The sense given is that the Aśvins carried across the Sun, who was enveloped in the darkness of clouds in the rainy season, by means of their ships in the form of months.
+
+##### Grammar
+
+- अवनिद्धम् — व्यध ताडने इति धातुः । कर्मणि क्त प्रत्ययः । कित्त्वात् तन्निमित्तीकृत्य धातोः संप्रसारणम् । न ससंप्रसारणे संप्रसारणम् इति पूर्वस्य निषेधात् यकारस्य इकाररूपं संप्रसारणम् । झषस्तथोधोधः इति प्रत्ययस्य धकारादेशः । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः प्रकृतिस्वरो भवति । प्रविद्दम् इत्यत्रापि एवमेव कार्यं स्वरश्च भवति ।
+
+### Printed p. 617
+- अप्सु — ऊडिदं पदादि (पा. सू. ६-१-१७१) इति विभक्तेरुदात्तस्वरो भवति ।
+- अनारंभणे — न विद्यते आरंभणं यस्य तत् । नञ्सुभ्याम् (पा. सू ६-२ १७२) इति उत्तरपदांतोदात्तस्वरो भवति । सप्तमी एकवचनांतरूपम् ।
+- जठलस्य — जनी प्रादुर्भावे इति धातुः । जनेररष्ठ च (उ. सू. ७१६) इति अर प्रत्ययः । धातुनकारस्य ठकारादेशः । छांदसत्वात् प्रत्ययरेफस्य लत्वम् । कर्तृ कर्मणोः कृति (पा. सू. २-३-६५) इति कर्मार्थे षष्ठी आगता ।
+- जुष्टाः — जुषी प्रीतिसेवनयोः इति धातुः । क्त प्रत्ययः । म्पुत्वात् तस्य टकारादेशः । व्यत्ययात् आद्युदात्तस्वरो भवति ।
+- इषिताः — इष गत् इति धातुः । क्त प्रत्यये आगते इडागमः । आगमानां अनुदात्तत्वात् प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- पारयंति — पार कर्मसमाप्ति इति धातुः । सत्यापपाश (पा. सू. ३-१-२५) इति स्वार्थे णिच् । लट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति । ॥ ६ ॥
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कः स्वि॑दृ॒क्षो निष्ठि॑तो॒ मध्ये॒ अर्ण॑सो॒ यं तौ॒ग्र्यो ना॑धि॒तः  ॒॑
+> पर्यषस्वजत् ।  
+> प॒र्णा मृ॒गस्य॑ प॒तरो॑रिवा॒रभ॒ उद॑श्विना ऊहथुः॒ श्रोम॑ताय॒ कं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । स्वित् । वृक्षः । निःस्थितः । मध्ये । अर्णसः । यं । तौग्र्यः । नाधितः । परि असस्नजत् ।  
+> पर्णा । मृगस्य । पतरोःइव । अरभे । उत् । अश्विनौ । ऊहथुः । श्रोमताय । कं॥
+
+### Printed p. 618
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कः स्वित् कश्चिदनुग्राहको वृक्षो वृक्षविकारो रथः । विकारे प्रकृतिशब्दः ।
+> यद्वा । संस्तनाभिप्रायमेतत् । स्तोत्राख्यो वृक्ष इत्यर्थः । कीदृशो रथः ।
+> निष्ठितो निश्चलं वर्तमानः । कुत्रॆति उच्यते । अर्णस उदकस्य मध्यॆ । यं वृक्षं
+> तौग्रस्तुग्रपुत्रो भुज्युनार्थितो याचमानः पर्यषस्वजत् परिष्वक्तमकरोत्।
+> आलंबने दृष्टांतः । पतरोः पतनशीलस्य मृगस्य मार्जयितुः शोधयितुर्हिंसादेरारभ आलंबनाय पर्णानीव । तानि यथालंबनाय प्रभवंति तद्वत् । हे अश्विनौ
+> श्रोमताय कीर्तिमत्तायोदूहथुः । ऊर्ध्व० प्रापयथः । स्तुतिपक्षे स्तोत्राख्यं
+> वृक्षमाश्रितवंतं तमूहथुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+कः स्वित् (*kaḥ svit*): which supporting वृक्षः (*vṛkṣaḥ*)? The "tree" is the chariot, a product of a tree; the word of the original is used for the product. Or else, this is said with the intention of praise: the tree called hymn is meant. What kind of chariot? निष्ठितः (*niṣṭhitaḥ*), standing motionless. Where? In the midst of the water (अर्णसः (*arṇasaḥ*)). That tree which Tugra's son, Bhujyu, entreating, embraced. An example for taking hold: as leaves serve for support to a falling animal (*pataroḥ mṛgasya*), one that cleanses and purifies (*mārjayituḥ śodhayituḥ*), that is, one that is injured and the like, as they are able to give support, so was it. O Aśvins, you bore him up (ऊर्ध्व० प्रापयथः (*ūrdhva0 prāpayathaḥ*)) for renown (श्रोमताय कीर्तिमत्ताय (*śromatāya kīrtimattāya*)). On the view of praise: you bore up him who had taken refuge in the tree called hymn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पतरोः (*pataroḥ*)—of the falling
+- मृगस्य (*mṛgasya*)—for the animal
+- पर्णा (*parṇā*)—leaves
+- आरभे इव (*ārabhe iva*)—as (helping) for support
+- यं (*yaṃ*)—which tree
+- नाधितः (*nādhitaḥ*)—(having been cast into the sea) entreating (help)
+- तौग्र्यः (*taugryaḥ*)—Bhujyu, son of Tugra
+- परि असस्वजत् (*pari asasvajat*)—embraced (such a)
+- कः स्वित् (*kaḥ svit*)—which indeed
+- वृक्षः (*vṛkṣaḥ*)—the chariot, a product of a tree, or the tree called hymn
+- अर्णसः मध्यॆ (*arṇasaḥ madhyè*)—in the middle of the water
+- निष्ठितः (*niṣṭhitaḥ*)—was set motionless
+- अश्विन् (*aśvin*)—O Aśvins
+- श्रोमताय (*śromatāya*)—that you might be renowned
+- कं (*kaṃ*)—comfortably (to a safe place)
+- उत् ऊहथुः (*ut ūhathuḥ*)—you lifted up (brought) (that Bhujyu)
+
+##### भावार्थ (Bhāvārtha)
+
+As leaves serve as support to a falling animal, which tree, set in the middle of the sea, did Bhujyu, sunk in the sea and seeking help, take refuge in? O Aśvins, you carried Bhujyu (who had taken refuge in your praise) to a safe place, to preserve your renown.
+
+##### English translation (H. H. Wilson)
+What was the tree that was stationed in the midst of the ocean, to which the supplicating son of Tugra clung : as leaves (are caught hold of) for the support of a falling animal : you, Ashwins, bore him up to safety, to your great renown.
+
 ---
 
-**Progress note:** Done through printed p. 612. pp. 607-612 (batch API)
+**Progress note:** Done through printed p. 618. pp. 613-618 (batch API)
