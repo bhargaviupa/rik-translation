@@ -504,6 +504,173 @@ In this Ṛk ("when Yama is seated in his house or in the lower world") it is us
 - प्रयतासु — गतिरनंतरः (पा. सू. ६-२-४९) इति कर्मणि क्तप्रत्ययांतस्य परत्वात् गतेः प्रकृतिस्वरो भवति । सप्तमीबहुवचनांतरूपम् ।
 - यामः — या प्रापणे धातुः । अर्तिस्तुसु (उ. सू. १-१३७) इति मन् प्रत्ययः । नित्त्वादाद्युदात्तो भवति ।
 
+### Printed p. 25
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्त्वे॒षया॑मा न॒दयं॑त॒ पर्व॑तान्दि॒वो वा॑ पृ॒ष्ठं नर्या॒  ॑
+> अचु॑च्यवुः ।  
+> विश्वो॑ वो॒ अज्म॑न्भयते॒ वन॒स्पती॑ रथी॒यंती॑व॒ प्र जि॑हीत॒  ॑
+> ओषधिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । त्वेषयामाः । नदयंत । पर्वतान् । दिवः । ना । पृष्ठं नर्याः । अचुच्यवुः ।  
+> विश्वः । वः । अज्मन् । भयते । वनस्पतिः । रथियंतीऽइव । प्र । जहीते , ओषधिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुतस्त्वेषयामाः प्रदीप्तगमना यद्यदा पर्वतान् पर्ववतो गिरेर्गह्वराणि पूरकान्मेघान्वा नदयंत नादयंति नाथवा दिवो विद्योतनात्मकस्यांतरिक्षस्य
+> पृष्टमुपरिभागं नर्या नरेभ्यो हिता अचुच्यवुः गच्छंति तदा वो युष्मत्संबं
+> धिन्यज्मन् गमने निमित्तभूते सति विश्वो वनस्पतिर्वनस्य पालयिता वृक्षसमूहो
+> भयते । बिभेति । तथौषधिः प्रियंगुव्रीह्यादिः प्र जिहीते प्रकर्षण गच्छति ।
+> स्वस्थानादितस्ततश्चलतीत्यर्थः । तत्र दृष्टांतः । रथीयंतीव । रथमात्मन इच्छंती
+> स्त्री । रथारूढेत्यर्थः । तादृशी स्त्रीव । सा यथा चलति तद्वत् !
+
+##### Gist of the bhāṣya
+
+The Maruts are त्वेषयामाः (*tveṣayāmāḥ*), "of blazing course". When they make the mountains resound, that is, the caverns of the mountain that has joints, or else the cloud-bearing clouds, or when they traverse the back, the upper region, of the sky that consists of lightning, beneficial to men, then, at your going, the whole assemblage of forest trees, the guardian of the forest, is afraid. Likewise the herb, such as priyaṅgu or rice, moves forth vigorously, that is, stirs from its place this way and that. An illustration follows: like a woman who desires a chariot for herself, that is, one mounted on a chariot. As such a woman sways as she moves, so do they.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तैषयामाः (*taiṣayāmāḥ*)—the blazing Marut gods
+- यत् (*yat*)—when
+- पर्वतान् (*parvatān*)—the mountain caverns or the clouds
+- नदयंत (*nadayaṃta*)—they make resound
+- वा (*vā*)—or
+- दिवः (*divaḥ*)—of the firmament
+- पृष्ठं (*pṛṣṭhaṃ*)—the upper part
+- नर्याः (*naryāḥ*)—as friends of men's welfare
+- अचुच्यवुः (*acucyavuḥ*)—they pervade (then)
+- वः (*vaḥ*)—your
+- अज्मन् (*ajman*)—at the time of going
+- विश्वः वनस्पतिः (*viśvaḥ vanaspatiḥ*)—all trees
+- भयते (*bhayate*)—are afraid (likewise)
+- ओषधिः (*oṣadhiḥ*)—plants and the like
+- रथीयंती इव (*rathīyaṃtī iva*)—like a woman in a chariot swaying
+- प्र जिहीते (*pra jihīte*)—moves greatly (from its own place)
+
+### Printed p. 26
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your blazing-going horses make the mountains echo; and, beneficial to men, they pervade the upper region of the firmament. Thus, while you travel, all the trees tremble with fear; like a woman in a chariot, clusters of creepers and the like sway to and fro.
+
+##### English translation (H. H. Wilson)
+When your brilliant coursers make the mountains echo ; and friendly to man, traverse the summit of the firmament ; then all the forest lords are alarmed at your approach, and the bushes wave to and fro, as a woman in a chariot.
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वेषयामाः (*tveṣayāmāḥ*)—प्रदीप्तगमनाः (*pradīptagamanāḥ*). Those whose going is terrible. The meaning is that when the wind blows with force it causes fear to everyone, chiefly to trees and houses. For trees are overturned with their roots by the swiftly blowing storm; houses and their roofs are thrown far away; small plants and shrubs are thrown into confusion. Because it causes great calamity in this way, the going of the Maruts (the wind blowing with violence) is described here as very terrible. Pandit Wilson has taken this word to mean the horses of the Maruts. No proper reason for taking it so appears.
+
+नदयंत (*nadayaṃta*)—the root नद् (*nad*) has the sense "make a sound, resound". The word पर्वत (*parvata*) used in this Ṛk can be given two meanings: a cloud (Ni. 2-21) or a hill (Ni. 1-20). If the meaning "cloud" is taken, the blast of the wind makes the cloud thunder; if "hill", it must be said that the swiftly blowing wind makes a sound in the foothills and mountain caverns. Pandit Wilson explains that when the horses of the Maruts go swiftly, they make the mountains and the like echo. But the root नद् (*nad*) at first had the meanings "to vibrate, to shake", and in course of time the sense "make a sound" seems to have come into use. From this point of view, if the meaning of this Ṛk is explained, it is suggested that at the coming of the Maruts all people, trees and the like tremble with fear. The sentence विश्वो वो अज्मन्भयते वनस्पतिः (*viśvo vo ajmanbhayate vanaspatiḥ*) in the second half of this Ṛk makes this clear.
+
+### Printed p. 27
+In the Ṛk
+अच्युता चिद्वो अज्मन्ना नानदति पर्वतासो वनस्पतिः । भूमिर्यामेषु रेजते ॥ (*acyutā cidvo ajmannā nānadati parvatāso vanaspatiḥ | bhūmiryāmeṣu rejate ‖*)
+(Ṛ. Saṃ. 8-20-5)
+the very matter stated in the present Ṛk is elaborated. Here it is said that the earth also trembles. In this connection, the terrible character of the coming of the Maruts stated in the Ṛk
+नि वो यामाय मानुषो दध्र उग्राय मन्यवे । जिहीत पर्वतो गिरिः ॥ (*ni vo yāmāya mānuṣo dadhra ugrāya manyave | jihīta parvato giriḥ ‖*)
+(Ṛ. Saṃ. 1-37-7)
+is noteworthy.
+
+रथीयंतीव (*rathīyaṃtīva*)—like a woman seated in a chariot; the meaning is that a woman seated in a chariot sways this way and that, or trembles with fear, when the chariot moves fast. This word is not used anywhere else in the Ṛgveda. Pandit Max Muller has said that the meaning "a swiftly moving chariot or chariot-wheel" for this word is reasonable.
+
+जिहीत ओषधिः (*jihīta oṣadhiḥ*)—प्रियंगुव्रीह्यादि प्र जहीते । प्रकर्षण गच्छति स्वस्थानादितस्ततश्चलतीत्यर्थः । (*priyaṃguvrīhyādi pra jahīte | prakarṣaṇa gacchati svasthānāditastataścalatītyarthaḥ |*) The word वनस्पति (*vanaspati*), stated earlier in this Ṛk, indicates large trees. The word ओषधि (*oṣadhi*) indicates small plants such as priyaṅgu, rice and the like, that is, saplings, creepers and the like that do not grow very tall or firm. The meaning is that such plants are torn up and thrown by the blow of the wind, scattered in various directions. In the example above, the sentence जिहीत पर्वतो गिरिः (*jihīta parvato giriḥ*) says that even the immovable mountain made of boulders is scattered from its place by the Maruts; so the main sense is: how indeed could plants and the like, which have no power to stand up against them, withstand the force of the Maruts?
+
+##### Grammar
+
+- त्वेषयामाः—त्वेषः यामः येषां ते त्वेषयामाः । बहुव्रीहौ प्रकृत्या पूर्वपदं (पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरः आगच्छति । प्रथमाबहुवचनांतरूपं ।
+- नदयंत—णद अव्यक्ते शब्दे । धातुः । णोनः (पा. सू. ६-१-६५) इति आदेः नत्वं । हेतुमतिच (पा. सू. ३-१-२६) इति णिच् । संज्ञापूर्वकोविधिरनित्यः इति वचनात् उपधावृद्धिः न आगच्छति । छांदसत्वेन वर्तमानार्थे लज् । प्रथमपुरुषबहुवचनांतरूपं ।
+
+### Printed p. 28
+- नदयंत (अनुवृत्तिः)—बहुलं छंदस्यमा—(पा. सू. ६-४-७५) इति अडागमः न आगच्छति । यद्योगात् निघातस्वरः न आगच्छति । णिच्स्वरः अवशिष्यते ।
+- पर्वतान्—पर्व परणे । धातुः । भ्रमृदृशि—(उ सू. ३-३९०) इति अतच् प्रत्ययः । व्यत्ययेन आद्युदात्तस्वरः आगच्छति ।
+- नर्याः—नरेभ्यो हिताः नर्याः । यत् प्रत्ययः । यस्येति च इति अकारलोपः । यतोऽनावः (पा. सू. ६-१-२१३) इति आद्युदात्तस्वरः आगच्छति ।
+- अचुच्यवुः—च्युज् गतौ धातुः । छांदसत्वेन वर्तमानार्थे लज् । व्यत्ययो बहुलं इति परस्मैपदी भवति । बहुलं छंदसि इति झि परे शपः श्लु आदेशः । श्लु इति धातोः द्वित्वं । सिचभ्यस्त विदिभ्यश्च (पा. सू.३-४-१०९) इति झेः जुसादेशः । जुसिचॆ (पा. सू. ७-३-८३) इति गुणः । अवादेशः । चॆवायोगे प्रथमा (पा. सू. ८-१-५९) इति निघातप्रतिषेधात् अडागमः उदात्तः इति आद्युदात्तः भवति ।
+- अज्जन्—अज गतिक्षेपणयोः धातुः । अन्नोभ्योपि दृश्यंते इति मनिन् प्रत्ययः । वलादावार्धधातुके वेष्यते इति वीभावः न आगच्छति । सुपां सुलुक् - (पा. सू. ७-१-३९) इति सप्तम्याः लुक् । **NOTE**
+- भयते—इभी भये । धातुः । प्रथमपुरुषैकवचने व्यत्ययेन शपः श्लु न आगच्छति । धातोः गुणः, अयादेशः । तिजंतनिघातस्वरः आगच्छति ।
+- वनस्पतिः—पारस्कर प्रभृतीनि संज्ञायां इति सुटागमः । उभेवनस्पत्यादिषु (पा. सू. ६-२-१४०) इति उभयपदप्रकृतिस्वरः आगच्छति ।
+- रथीयंती—रथमात्मन इच्छति रथीयति । इच्छार्थे क्यच् । व्यत्ययेन पूर्वस्य ईत्वं । क्यजंतात् शतृप्रत्यये स्त्रीत्वे जीप् । क्यच्स्वरः अवशिष्यते ।
+- जिहीते—ओहाज् गतौ धातुः । जुहोत्यादिः । लट् प्रथमपुरुषैकवचनांतरूपं । तिजंतनिघातस्वरः आगच्छति ।
+
+### Printed p. 29
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं न॑ उग्रा मरुतः सुचे॒तुनारि॑ष्टग्रामाः सुम॒तिं  ॑
+> पिपर्तन ।  
+> यत्रा॑ वो दि॒द्युद्रद॑ति॒ क्रिवि॑र्दती रि॒णाति॑ प॒श्वः सुधि॑तेव  ॒॑
+> बर्हणा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । नः । उग्राः । मरुतः । सुचेतुना । अरिष्टग्रामाः । सुमतिं । पिपर्तन ।  
+> यत्र । वः । दिद्युत् । रदति । क्रिविःदती । रिणाति । पश्वः । सुधिताइव । बर्हणा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रा उद्धूर्णबला मरुतः यूयं सुचेतुना शोभनचेतसारिष्टग्रामा अहिंसितसंघाः संतो नोऽस्माकं सुमतिं शोभनबुद्धिं पिपर्तन । पूरयत ।
+> कस्मिन्काल इति तदुच्यते । यत्र यस्मिन्काले वो युष्मत्संबंधिनी क्रिविर्दती विक्षेपण
+> शीलदंती दिद्युद्धेती रदति लिखति मेघसंस्थायं पश्वः पशूंश्च रिणाति रेषति
+> हिनस्ति । वायौ वाति सति पशवः शीर्यंत इति प्रसिद्धं । हिंसायां दृष्टांतः ।
+> सुधिता सुहिता सुष्टु प्रेरिता बर्हणा हतिस्तत्साधना हेतिर्वा यथा रिणाति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O fierce Maruts, of uplifted strength, you, with a good mind, as hosts unharmed, fill up our good mind, our good understanding. At what time? That is told: when, at which time, your lightning, scattering in nature and biting, tears in the cloud-formation, and harms the animals. It is well known that when the wind blows, animals are shattered. An illustration of the harm: as a well-placed, well-sped weapon, an instrument of slaying, wounds, so it does.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—at what time
+- वः (*vaḥ*)—yours
+- क्रिविदर्ती (*krividartī*)—having teeth of a rending nature
+- दिद्युत् (*didyut*)—the weapon (the lightning)
+- रदति (*radati*)—tears the garland of clouds (and)
+- सुधिता (*sudhitā*)—well driven
+- बर्हणा इव (*barhaṇā iva*)—as a weapon, an instrument of slaying, wounds
+- पश्वः (*paśvaḥ*)—also animals
+- रिणाति (*riṇāti*)—wounds (then, at that time)
+- उग्राः (*ugrāḥ*)—fierce
+- (हे) मरुतः (*(he) marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- सुचेतुना (*sucetunā*)—with a good mind
+- अरिष्टग्रामाः (*ariṣṭagrāmāḥ*)—having hosts of people unharmed
+- नः (*naḥ*)—to us
+- सुमतिं (*sumatiṃ*)—good understanding
+- पिपर्तन (*pipartana*)—fulfil
+
+### Printed p. 30
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your weapon, the lightning, is of a scattering nature; it tears the garland of clouds and the animals, like a weapon properly hurled. Thus you who are fierce, being kind to us, without harming us, being possessed of good understanding.
+
+##### English translation (H. H. Wilson)
+Fierce Maruts, free from malevolence in your kindly thoughts, fulfil towards us your good purposes; when your missile lightning rends (the cloud), as a well-hurled weapon wounds the deer.
+
+##### विशेषविषयगळु (Special Topics)
+
+सुचेतुना (*sucetunā*)—शोभनचेतसा (*śobhanacetasā*). With an excellent, that is, gracious, mind. This word is always used in the Ṛgveda in the instrumental case and denotes the favour that the gods show towards men. In contrast, the word सुमति (*sumati*) denotes the good understanding of men who pray to the gods. The word सुचेतुना (*sucetunā*) is used of Agni in the Ṛk
+स नो नेदिष्टं ददृशान आ भराग्ने देवेभिः सचनाः सुचेतुना महो रायः सुचेतुना । (*sa no nediṣṭaṃ dadṛśāna ā bharāgne devebhiḥ sacanāḥ sucetunā maho rāyaḥ sucetunā |*)
+(Ṛ. Saṃ. 1-127-11)
+which means: O Agni, you and the gods together, with the gracious mind you bear towards us, bring us abundant wealth.
+
+In
+अस्मभ्यं द्यावापृथिवी सुचेतुना रयिं धत्तं वसुमंतं शतग्विनं । (*asmabhyaṃ dyāvāpṛthivī sucetunā rayiṃ dhattaṃ vasumaṃtaṃ śatagvinaṃ |*)
+(Ṛ. Saṃ. 1-159-5)
+it is used of Heaven and Earth: O Heaven and Earth, with a gracious mind give us wealth of jewels and the like by the hundred, and cattle.
+
+In
+स्वस्ति पूषा असुरो वधातु नः स्वस्ति द्यानापृथिवी सुचेतुना । (*svasti pūṣā asuro vadhātu naḥ svasti dyānāpṛthivī sucetunā |*)
+(Ṛ. Saṃ. 5-21-11)
+here too it is used of Heaven and Earth.
+
+शा बाहवा सुचेतुना प्रयंतमस्मा अर्चते । (*śā bāhavā sucetunā prayaṃtamasmā arcate |*)
+(Ṛ. Saṃ. 5-64-2 **NOTE**) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
+**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
