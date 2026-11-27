@@ -12191,6 +12191,126 @@ Here it is said that Soma and Pūṣan, both of them, filled the udder of a youn
 
 Here they tell an itihāsa. While Atri was performing with the Pravargya, the rākṣasas made him fall into the heated gharma. Thrown thus, he praised the two Aśvins, and the two, with delighted minds, protected him. Others say that, thrown into the fire, he escaped. O Aśvins, you two (युवं युवां (*yuvaṃ yuvāṃ*)) the मथुमंतं (*mathumaṃtaṃ*)—possessing honey by the two forms of milk and ghee**NOTE**—the blazing gharma, the Pravargya, for Atri, who seeks comfort (*eṣe saukhyamicchate 'traya*)
 
+### Printed p. 511
+#### Ṛk 3 (continuing)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतन्नाम्मे महर्षये क्षोदः क्षोदांसि क्षोद्यमानान्यपो नोदकानीवावृणीतं।
+> अवारयतं। औष्ण्यं शैत्यसुखं कृतवंतौ। तप्तघर्मसकाशाद्भक्षितवानित्यर्थः । यद्वा।
+> अत्रये क्षोदः । उदकनामैतत् । तत्स्थं शैत्यं लक्ष्यते । अपः क्षोदो न । अप इति
+> षष्ठ्यर्थे द्वितीया । उदकानां शैत्यं यथा भवति तद्वत् । पक्षांतरे तु घर्मं
+> दीप्तमग्निं मधुमंतं कृत्वावृणीतं । सुखयतमित्यर्थः । तथा च मंत्रांतरं ।
+> तप्तं घर्ममोम्यावंतमत्रये । ऋ. १-११२-७ । इति । तत्तस्मात् यस्मादेवं
+> तस्मात् हे नरौ नेतारौ नराकारौ वाश्विनाश्विन् वां युवाभ्यां पश्वइष्टिः । पशुरित्यग्नेर्नाम । अग्निः पशुरासीदित्यादिश्रुतेः । तै. सं. ५-७-२६ । यद्वा । पशुप्रियत्वात्पशुरित्युच्यते । तस्याग्नेरिष्टिर्भवति । अग्नौ यागः सर्वो युष्मदर्थं प्रवर्तत इत्यर्थः ।
+> यद्वा । पशुसाध्यो यागो युवाभ्यां प्रवर्तत इति शेषः। आश्विनं धूम्रललामनू
+> लभेत यो दुब्राह्मणः सोमं पिपासेत् । तै. सं. २-१-१०-१ । इत्यादिनाप्यश्विभ्यां
+> पशुर्विहितः । तथा मध्यो मधुसदृशाः सोमरसा अपि युवाभ्यां प्रति यंति ।
+> अभिगच्छंति । तत्र दृष्टांतः । रथ्येव चक्रा रथसंबंधीनि चक्रा चक्राणीव । तानि यथा
+> प्रवणदेशमभिगच्छंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the word क्षोदः (*kṣodaḥ*) (kṣodaḥ) as "waters that are agitated". The Aśvins "chose" or warded off, as water does, the heat for Atri. They made it a pleasant coolness: they drank from the hot gharma, that is, they took it into themselves. Alternatively, क्षोदः (*kṣodaḥ*) is a name of water, and what is meant is the coolness that resides in it. In अपः क्षोदो न (*apaḥ kṣodo na*) the accusative अपः (*apaḥ*) stands for the genitive, so that it means "as the coolness of waters comes about". On the other view, they made the blazing fire (gharma) honeyed and so brought it relief, that is, they gave it comfort. For this he cites another mantra: तप्तं घर्ममोम्यावंतमत्रये (*taptaṃ gharmamomyāvaṃtamatraye*) (Ṛ. Saṃ. 1-112-7). "Therefore", for that reason, O leaders, or those of human form, O Aśvins, पश्वइष्टिः (*paśvaiṣṭiḥ*) (paśvā iṣṭiḥ) is for you. *paśuḥ* is a name of Agni, according to the Śruti *agniḥ paśurāsīt* and the rest (Tai. Saṃ. 5-7-26). Or Agni is called paśu because he is dear to animals, and the offering belongs to that Agni: the whole sacrifice in the fire proceeds for your sake. Or else (the sense is) that the sacrifice to be performed with an animal proceeds through you; and an animal for the Aśvins is prescribed by such texts as आश्विनं धूम्रललामनू लभेत (*āśvinaṃ dhūmralalāmanū labheta*) (Tai. Saṃ. 2-1-10-1). Likewise the honey-like Soma juices go towards you, come to you. The illustration is रथ्येव चक्रा (*rathyeva cakrā*): as the wheels belonging to a chariot go towards a sloping place, so do the juices go to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *he aśvin*—O Aśvin deities
+- युवं (*yuvaṃ*)—you two
+- मधुमंतं (*madhumaṃtaṃ*)—endowed with honey in the form of milk and ghee
+- घर्मं (*gharmaṃ*)—the blazing fire
+- एषे (*eṣe*)—(cast into the fire) desiring (comfort)
+- आत्रये (*ātraye*)—to one named Atri
+- क्षोदः (*kṣodaḥ*)—agitated
+- अपः न (*apaḥ na*)—(as) water (is cool)
+- अवृणीतं ह (*avṛṇītaṃ ha*)—you indeed warded off (the heat of the fire) and made it cool
+- तत् (*tat*)—therefore
+- नरौ (*narau*)—O leaders, or those of human form
+- *he aśvin*—O Aśvin deities
+- वां (*vāṃ*)—for you two
+- पश्वइष्टिः (*paśvaiṣṭiḥ*)—the sacrifice in the fire, or the animal sacrifice (has begun)
+- मध्यः (*madhyaḥ*)—honey-like (Soma juices)
+- रथ्या (*rathyā*)—belonging to a chariot
+- चक्रा इव (*cakrā iva*)—like wheels (that reach the desired place)
+- प्रति यंति (*prati yaṃti*)—set out towards (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, it is well known that for Atri, who had been cast into the fire and longed for release, you made the fire, blazing and joined with honey in the form of milk and ghee, as cool as agitated water. For that very reason, O Aśvins, leaders of the sacrifice, this animal sacrifice has begun for you, and this honey-like Soma juice has been offered.
+
+### Printed p. 512
+
+##### English translation (H. H. Wilson)
+You rendered the heat as soothing as sweet butter to Atri ; wishing (for relief), and invested it with coolness, like water : therefore, for you, Ashwins, leaders (of rites), the fire-offering (is made) ; to you the Soma juices run like chariot wheels (down a declivity).
+
+##### विशेषविषयगळु (Special Topics)
+
+To understand the present Ṛk fully, one must know the nature of the deities Agni, Atri and the Aśvins and their mutual relation, and must learn what place they have in the Pravargya, which is of the nature of gharma.
+
+Sāyaṇa has shown that the sentence मधुमंतं घर्मं अत्रये............ अवृणीतं ह (*madhumaṃtaṃ gharmaṃ atraye............ avṛṇītaṃ ha*) can be construed in two ways. These constructions accord with the meaning to be given to the words Atri and gharma.
+
+1. First, Sāyaṇa points to this story as indicating how the Aśvins helped the great seer Atri:
+अत्रेतिहासमाहुः । प्रवर्ज्येण प्रचरंतमत्रिं राक्षसास्तप्ते घर्मेऽपातयन् । स च तप्यमानोऽश्विन् तुष्टाव । शौ च स्तुत्या हृष्टमनसावरक्षतामिति ॥ (*atretihāsamāhuḥ | pravarjyeṇa pracaraṃtamatriṃ rākṣasāstapte gharme 'pātayan | sa ca tapyamāno 'śvin tuṣṭāva | śau ca stutyā hṛṣṭamanasāvarakṣatāmiti ‖*).
+While Atri was engaged in the Pravargya, demons threw him into the blazing gharma. Then, tormented, Atri cried to the Aśvin deities and prayed to them for protection. Pleased, they protected him; so it is said.
+
+2. Second, just as the present Ṛk has मधमंतं घर्म० आत्रये अवृणीतं (*madhamaṃtaṃ gharma0 ātraye avṛṇītaṃ*), so Ṛ. Saṃ. 1-112-7 has तप्तं घर्ममोम्यावंतमत्रये (*taptaṃ gharmamomyāvaṃtamatraye*). In that place Sāyaṇa explains the purport just as he has done in the present Ṛk. But there he also cites the view of Yāska: यास्कपक्षे तु अत्रये हविषामक्तेऽग्नये हविरुत्पत्यर्थं सूरकिरणसंतप्तं घर्म० नैदाघं अहः ओम्यावंतं तृप्तिहेतु वृष्टु दकोपेतं कृतवंतौ इति योज्यं । (*yāskapakṣe tu atraye haviṣāmakte 'gnaye havirutpatyarthaṃ sūrakiraṇasaṃtaptaṃ gharma0 naidāghaṃ ahaḥ omyāvaṃtaṃ tṛptihetu vṛṣṭu dakopetaṃ kṛtavaṃtau iti yojyaṃ |*). In Yāska's view, he explains, the word Atri means the fire that eats the oblations, and the sense is that for such a fire they made the day, heated by the sun's rays and belonging to the hot season, one provided with satisfying rain-water. In explaining the present Ṛk also, Sāyaṇa cites the Ṛk 1-112-7: पक्षांतरे तु घर्मं दीप्तमग्निं मधुमंतं कृत्वावृणीतं (*pakṣāṃtare tu gharmaṃ dīptamagniṃ madhumaṃtaṃ kṛtvāvṛṇītaṃ*) ... तथा च मंत्रांतरं तप्तं घर्म (*tathā ca maṃtrāṃtaraṃ taptaṃ gharma*)
+
+### Printed p. 513
+मोम्यानंतमत्रये (*momyānaṃtamatraye*) ... **NOTE**. So it appears that the word Atri may be given two meanings: one referring to the seer Atri and one referring to Agni. Or, since the seer Atri is a portion of the god Agni, an identity of the two may also be asserted. In some places Atri is said to be Agni's son, in others to be of the form of Agni.
+
+The story of the birth of the seer Atri is told in the Bṛhaddevatā verses as follows:
+त्रिसांवत्सरिकं सत्त्वं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्विश्वेदेवैः सहेति च ॥ तत्र वाग्दीक्षणीयायां आजगाम शरीरिणी । तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥ शुक्रं चस्कंद तद्वायुरग्नौ प्रास्यद्यदृच्छया । ततोऽर्चिभ्यो भृगुर्जज्ञॆ अंगारेष्टंगिरा ऋषिः ॥ प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वागभ्यभाषत । अभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥ प्रजापतिस्तथेत्युक्तः प्रत्यभाषत भारतीं । ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः ॥ (*trisāṃvatsarikaṃ sattvaṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairviśvedevaiḥ saheti ca ‖ tatra vāgdīkṣaṇīyāyāṃ ājagāma śarīriṇī | tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖ śukraṃ caskaṃda tadvāyuragnau prāsyadyadṛcchayā | tato 'rcibhyo bhṛgurjajñè aṃgāreṣṭaṃgirā ṛṣiḥ ‖ prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgabhyabhāṣata | abhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖ prajāpatistathetyuktaḥ pratyabhāṣata bhāratīṃ | ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*)
+(Bṛ. De. 5-97 to 101).
+It is well known that Prajāpati, desiring offspring, together with the Sādhyas and the Viśvedevas, performed a sattra lasting three years. At that time the goddess Vāk came in bodily form to that sattra. As soon as they saw her, Prajāpati and Varuṇa had a discharge of seed; the Wind cast it into the fire. Then from the flames of that fire Bhṛgu was born, and from the embers the seer Aṅgiras. Then the goddess Vāk asked that, together with these two sons, a third son also be born. When Prajāpati granted that a further son be born, Atri, with a splendour equal to that of the sun and fire, was born from that seed which had been cast into the fire. So the story goes. Further, when Yāska gives the meaning of Atri as referring to Agni, he says हविषामत्ते (*haviṣāmatte*), that is, Agni has the name Atri because he eats the oblation. That Agni is not merely the eater of the oblation but the eater of everything is also described by the very words of the Ṛksaṃhitā. For example:
+यत्ते कृष्णः शकुन अतुतोद पिपीलः सर्प उत ना श्वापदः । अग्निष्टद्विश्वादगदं कृणोतु सोमश्च यो ब्राह्मणा अविवेश ॥ (*yatte kṛṣṇaḥ śakuna atutoda pipīlaḥ sarpa uta nā śvāpadaḥ | agniṣṭadviśvādagadaṃ kṛṇotu somaśca yo brāhmaṇā aviveśa ‖*)
+(Ṛ. Saṃ. 10-16-6).
+In this Ṛk Agni is praised as विश्वात् (*viśvāt*), that is, the eater of all. And:
+युवानं विश्वतिं कविं विश्वादं पुरुवेपसं । अग्निं शुंभामि मन्मभिः ॥ (*yuvānaṃ viśvatiṃ kaviṃ viśvādaṃ puruvepasaṃ | agniṃ śuṃbhāmi manmabhiḥ ‖*)
+(Ṛ. Saṃ. 8-44-26).
+
+### Printed p. 514
+Here too Agni is praised with the same epithet. On these grounds, according to the context, Atri may in some places be understood as Agni.
+
+Besides these epithets, many passages in the Ṛksaṃhitā suggest an identity of Agni and Atri. For example:
+ऋषिं नरावंशः पांचजन्यमृबीसादत्रिं मुंचथो गणेन । मिनंता हस्योरशिवस्य माया अनुपूर्वं वृषणा चोदयंता ॥ (*ṛṣiṃ narāvaṃśaḥ pāṃcajanyamṛbīsādatriṃ muṃcatho gaṇena | minaṃtā hasyoraśivasya māyā anupūrvaṃ vṛṣaṇā codayaṃtā ‖*)
+(Ṛ. Saṃ. 1-117-3).
+Here (in a Ṛk addressed to the Aśvin deities) Atri has the epithet पांचजन्य (*pāṃcajanya*). Likewise:
+अग्निऋषिः पवमानः पांचजन्यः पुरोहितः । तमीमहे महागयं ॥ (*agniṛṣiḥ pavamānaḥ pāṃcajanyaḥ purohitaḥ | tamīmahe mahāgayaṃ ‖*)
+(Ṛ. Saṃ. 9-66-20).
+In these and other Ṛks the word पांचजन्य (*pāṃcajanya*) is an epithet of Agni. Whatever meaning is given to पांचजन्य (*pāṃcajanya*), it is notable that it is an epithet of both Agni and Atri. It would not be wrong to call it an epithet indicating their close relation. And just as in the present Ṛk the Aśvin deities are said to have saved Atri who was in the gharma, so in
+अग्निर्ह त्यं जरतः कर्णमावाग्निरद्यो निरदहज्ज रूथं । अग्निरत्रिं घर्म उरुष्यदंतरग्निर्नृमेधं प्रजयासृजत्सं ॥ (*agnirha tyaṃ jarataḥ karṇamāvāgniradyo niradahajja rūthaṃ | agniratriṃ gharma uruṣyadaṃtaragnirnṛmedhaṃ prajayāsṛjatsaṃ ‖*)
+(Ṛ. Saṃ. 10-80-3)
+it is said that Agni saved Atri who was in the gharma. Atri's extraordinary divine qualities are described at length in Sūkta 40 of the fifth Maṇḍala of the Ṛksaṃhitā. If only a few mantras of that sūkta are examined, the deities invoked there are Sūrya, Indra and Atri:
+यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः । अक्षेत्रविद्यथा मुग्गो भुवनान्यदीधयुः । स्वर्भानोरध यदिंद्र माया अवो दिवो वर्तमाना अवाहन् । गूह्लं सूर्यं तमसापव्रतेन तुरियेण ब्रह्मणाविंददत्रिः ॥ (*yattvā sūrya svarbhānustamasāvidhyadāsuraḥ | akṣetravidyathā muggo bhuvanānyadīdhayuḥ | svarbhānoradha yadiṃdra māyā avo divo vartamānā avāhan | gūhlaṃ sūryaṃ tamasāpavratena turiyeṇa brahmaṇāviṃdadatriḥ ‖*)
+(Ṛ. Saṃ. 5-40-5 to 6).
+Here, as soon as Svarbhānu covered the sun with darkness, all creatures were bewildered. Then Indra struck the demon down. Atri, with his divine sight, found the place where the sun, enveloped in darkness, was. And:
+
+### Printed p. 515
+गाव्यो ब्रह्मा युयुजानः सपर्यन् कीरिणा देवान्नमसोपशिक्षन् । अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अधुक्षत् ॥ यं वै सूर्यं स्वर्भानुस्तमसाविध्यदासुरः । अत्रयस्तमन्वविंदन्नह्य १ नै अशक्नु वन् ॥ (*gāvyo brahmā yuyujānaḥ saparyan kīriṇā devānnamasopaśikṣan | atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā adhukṣat ‖ yaṃ vai sūryaṃ svarbhānustamasāvidhyadāsuraḥ | atrayastamanvaviṃdannahya 1 nai aśaknu van ‖*)
+(Ṛ. Saṃ. 5-40-8 to 9).
+Here Atri, engaged in sacrifice, by his divine power set the sun's eye in the sky, and destroyed the power of Svarbhānu. In the same sūkta the sun, showing his gratitude to Atri, says:
+मा मामिमं तव संतमत्र इरस्या द्रुग्धो भियसा नि गारीत् । त्वं मित्रो असि सत्यराधास्तौ मोहावतं वरुणश्च राजा ॥ (*mā māmimaṃ tava saṃtamatra irasyā drugdho bhiyasā ni gārīt | tvaṃ mitro asi satyarādhāstau mohāvataṃ varuṇaśca rājā ‖*)
+(Ṛ. Saṃ. 5-40-7).
+In this Ṛk the sun seeks Atri's help, and prays: "I am yours, I belong to you; do not give me up to the demons." The description and the prayer in this mantra are like a prayer addressed to Agni. Besides these passages, if some passages in the fifth Maṇḍala, which is famous as the Atri Maṇḍala, are examined, the close relation between Agni and Atri appears there too. For example, the author of the second sūkta of the fifth Maṇḍala is famous under the name Kumāra, born in the line of Atri. But in
+कुमारं माता युवतिः समुब्धं गुहा बिभर्ति न ददाति पित्रे । अनीकमस्य न मिनज्जनासः पुरः पश्यंति निहितमरतौ ॥ (*kumāraṃ mātā yuvatiḥ samubdhaṃ guhā bibharti na dadāti pitre | anīkamasya na minajjanāsaḥ puraḥ paśyaṃti nihitamaratau ‖*)
+(Ṛ. Saṃ. 5-2-1)
+it is shown in Sāyaṇa's commentary that कुमारं (*kumāraṃ*) is an epithet of Agni. And in the same way, in the case of Vasuśruta, Īśa, Gaya and other Ātreyas also, a connection with Agni can be seen. It is stated that this word is derived from the root अद् (*ad*); and in the Upaniṣads too Atri is praised in this way:
+नागेवात्रिर्वाचा ह्यन्नमद्यतेऽतिर्ह वै नामैतदत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवति य एवं वेद ॥ (*nāgevātrirvācā hyannamadyate 'tirha vai nāmaitadatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavati ya evaṃ veda ‖*)
+(Bṛ. U. 2-2-4).
+By such sentences the word Atri is described as of the nature of the Supreme Brahman. In this same sense the word Atri is used in many places in the Ṛksaṃhitā as an epithet of Agni.
+
+In the present Ṛk, the first meaning is that the Aśvin deities saved the seer Atri who had fallen into the heated fire-pit. Second, the meaning is that they gave a cooling treatment to the fire that was in the gharma.
+
+### Printed p. 516
+But one must know what gharma means here, and what the treatment of Agni there is. Sāyaṇa has explained the word gharma as Pravargya. Are gharma and Pravargya words that indicate identity, with one and the same meaning? What is the authority of the Śruti texts for this? What is the nature of gharma or Pravargya? This must now be examined. One must also know what kind of leadership the Aśvin deities exercise in the Pravargya. The Taittirīya Āraṇyaka passages that will be cited later under Ṛ. Saṃ. 1-180-9 set out clearly the relation between the Pravargya and the Aśvin deities. Here that matter will be stated briefly.
+ताभ्यामेतमाश्विनमगृह्णन् । तावेतद्यज्ञस्य शिरः प्रत्यधत्तां । यत्प्रवर्ग्र्यः । तेन सशीर्ष्णा यज्ञेन यजमानाः । अवाशिषोरुंधत । अभि सुवर्गं लोकमजयन् । (*tābhyāmetamāśvinamagṛhṇan | tāvetadyajñasya śiraḥ pratyadhattāṃ | yatpravargryaḥ | tena saśīrṣṇā yajñena yajamānāḥ | avāśiṣoruṃdhata | abhi suvargaṃ lokamajayan |*)
+(Kṛ. Ā. 5-1-7) **NOTE**.
+The gods approached the Aśvin deities, the physicians of the gods, and prayed: "You are physicians; join the Pravargya, the head of the sacrifice, again to the body of the sacrifice, which consists of the three pressings." They, having obtained for themselves too a share in the fruit of the sacrifice, fulfilled the prayer of the gods. Hence also:
+यत्प्रवर्ग्यं प्रवृणक्ति । यज्ञस्यैव तच्चिरः प्रतिदधाति । तेन सशीर्ष्णा यज्ञेन यजमानः । अवाशिषो रुंधे । अभि सुवर्गं लोकं जयति । तस्मा देष आश्विनस्रवया इव । यत्प्रवर्ग्यः ॥ (*yatpravargyaṃ pravṛṇakti | yajñasyaiva tacciraḥ pratidadhāti | tena saśīrṣṇā yajñena yajamānaḥ | avāśiṣo ruṃdhe | abhi suvargaṃ lokaṃ jayati | tasmā deṣa āśvinasravayā iva | yatpravargyaḥ ‖*)
+(Śrī. Ā. 5-1-7) **NOTE**.
+Thus the worshipper, by performing the rite called Pravargya, which even the gods honoured as the principal rite, accomplishes his desire and attains the world of heaven; in this way its greatness is praised. Since the Āśvina mantras and the pre-eminence of the Aśvin deities are principal in the time of this rite, it also has the alternative name "आश्विनप्रवयाः (*āśvinapravayāḥ*)". Next one must know the meaning of the words gharma and pravargya. The method of performing it is given in the fourth Prapāṭhaka of the Taittirīya Āraṇyaka. In commenting on this passage, Sāyaṇa cites the sentences of the fifth Prapāṭhaka that explain the words pravargya and gharma, and explains the meanings of these words.
+स धनुः प्रतिष्कभ्यातिष्ठत् । ता उषदीका अब्रुवन्वरं वृणामहै । अथ व इमग्ं रंथयाम। यत्र क्व च खनाम । तदपोभितृणदामेति। तस्मादुपडीका यत्र क्व च खनंति । तदपोऽभित्यंदंति। वारे वृतग्ग ह्यासां । (*sa dhanuḥ pratiṣkabhyātiṣṭhat | tā uṣadīkā abruvanvaraṃ vṛṇāmahai | atha va imagṃ raṃthayāma| yatra kva ca khanāma | tadapobhitṛṇadāmeti| tasmādupaḍīkā yatra kva ca khanaṃti | tadapo 'bhityaṃdaṃti| vāre vṛtagga hyāsāṃ |*) तस्य (*tasya*)
+
 ---
 
-**Progress note:** Done through printed p. 510. pp. 505-510 (batch API)
+**Progress note:** Done through printed p. 516. pp. 511-516 (batch API)
