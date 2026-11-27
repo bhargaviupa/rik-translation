@@ -1572,3 +1572,14 @@
 - English line 10410: `[that go ?]` removed
 - English line 10458: `[black?]` removed
 - English line 10648: `(*caṣāla*?)` removed
+
+## `[?]` removed where the supplied text prints the same number (2026-11-27, tools/rv/qmark_check.py --apply)
+- English line 5517: `६-३२ [?]` → the same number without `[?]`
+- English line 8404: `३-७६ [?]` → the same number without `[?]`
+- English line 8406: `3-76 [?]` → the same number without `[?]`
+- English line 8952: `4-179 [?]` → the same number without `[?]`
+
+## `[?]` at numbers where the supplied text differs by one digit, 2026-11-27 (the supplied numerals decide)
+- English line 4292: `4-20 [?]` → `4-21` — p. 234: the supplied text prints ಉ. ಸೂ. 4-21 (the scan reader also read ೪-೨೧)
+- English line 8202: `१९-६३, ६२ [?]` → `१९-६३, ६७` — p. 443: the supplied text prints ಧಾ. ೧೯-೬೩,೬೭
+- English line 8204: `19-63, 62 [?]` → `19-63, 67` — p. 443: the supplied text prints ಧಾ. ೧೯-೬೩,೬೭
