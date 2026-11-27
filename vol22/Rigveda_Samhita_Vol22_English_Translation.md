@@ -24720,6 +24720,240 @@ O Ushas, as a bull is recognised by its sound, people recognise you by your ligh
 ##### English translation
 Grant to us, Ushas, as much wealth as you have bestowed upon your adorers when (formerly) praised by them : you whom (your wor-
 
+### Printed p. 595
+
+shippers) welcomed with clamour, (loud as the bellowing) of a bull, when you had set upon the doors of the mountains (where the stolen cattle were confined).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वंदे॑वं॒ राध॑से चो॒दयं॑त्यस्म॒द्र्य॑क्सू॒नृता॑ ई॒रयं॑ती ।  
+> व्यु॒च्छंती॑ नः स॒नये॒ धियो॑ धा यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवंदेवं । राधसे । चोदयंती । अस्मद्र्यक् । सूनृताः । ईरयंती ।  
+> व्युच्छंती । नः । सनये । धियः । धाः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवं देवं सर्वमपि स्तोतारं राधसे धनाय चोदयंती प्रेरयंत्यस्मद्र्यगस्मदभिमुखं सूनृता वचांसीरयंती प्रेरयंती व्युच्छंती व्युच्छनं कुर्वती नोऽस्माकं सनये दानाय धनलाभाय धियो बुद्धीर्धाः । धेहि । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses: देवं देवं (*devaṃ devaṃ*) means every worshipper; Dawn urges him राधसे (*rādhase*), for wealth. अस्मद्र्यक् (*asmadryak*) means turned towards us. सूनृता (*sūnṛtā*) are words; ईरयंती (*īrayaṃtī*) is "sending forth". व्युच्छंती (*vyucchaṃtī*) is "dawning". सनये (*sanaye*) is for giving, for the gain of wealth. धियः (*dhiyaḥ*) are understandings; धाः (*dhāḥ*) is "bestow". The rest is plain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Dawn) देवंदेवं (*devaṃdevaṃ*)—every worshipper
+- राधसे (*rādhase*)—for the acquisition of wealth
+- चोदयंती (*codayaṃtī*)—urging
+- अस्मद्र्यक् (*asmadryak*)—turned towards us
+- सूनृताः (*sūnṛtāḥ*)—excellent words
+- ईरयंती (*īrayaṃtī*)—sending forth
+- व्युच्छंती (*vyucchaṃtī*)—shining forth and appearing (destroying the darkness)
+- नः (*naḥ*)—to us
+- सनये (*sanaye*)—for the gain of excellent wealth
+- धियः (*dhiyaḥ*)—understandings
+- धाः (*dhāḥ*)—give
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Dawn, urging every worshipper to acquire wealth, sending forth excellent words towards us, destroying the darkness, give us understandings for the gain of excellent
+
+### Printed p. 596
+
+wealth. O gods, protect us always with blessings.
+
+##### English translation
+Inspiring every individual devout (worshipper) with a desire for wealth, addressing to us the words of truth, diffusing the light of morning, bestow upon us understanding (fit for the acquirement) of riches : and do you, (gods), cherish us with blessings.
+
+## Sūkta 80 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रति स्तोमेभिरिति तृचात्मकं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमुषस्यं । प्रति तृचमित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रति स्तोमेभिः (*prati stomebhiḥ*) is the tenth, of three Ṛks. Its seer is Vasiṣṭha, its deity Dawn (Uṣas), its metre Triṣṭubh. The Anukramaṇikā says प्रति तृचं (*prati tṛcaṃ*). Its use (viniyoga) in the Prātaranuvāka and the Aśvina-śastra has been stated.
+
+##### Anuvāda
+
+This sūkta beginning "प्रति स्तोमेभिः (*prati stomebhiḥ*)" is the tenth sūkta in the fifth anuvāka. It has three Ṛks. Vasiṣṭha is the seer of this sūkta; Uṣas is the deity; Triṣṭup is the metre. In the Anukramaṇikā it is said प्रति तृचं (*prati tṛcaṃ*). It has been stated earlier that this sūkta is used for the Prātaranuvāka and the Aśvina-śastra mantras.
+
+##### Particulars
+
+- Sūkta—80
+- Maṇḍala—7; Anuvāka—5; Sūkta—80
+- Aṣṭaka—5; Adhyāya—5; Varga—27
+- Number of Ṛks in the sūkta—3
+- Seer—Vasiṣṭha
+- Deity—Uṣas
+- Metre—Triṣṭup
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॒ स्तोमे॑भिरु॒षसं॒ वसि॑ष्ठा गी॒र्भिर्विप्रा॑सः प्रथ॒मा अ॑बुध्रन् ।  
+> वि॒व॒र्तयं॑ती॒ रज॑सी॒ समं॑ते आविष्कृण्व॒तीं भुव॑नानि॒ विश्वा॑ ॥ १ ॥
+
+### Printed p. 597
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । स्तोमेभिः । उषसं । वसिष्ठाः । गीःभिः । विप्रासः । प्रथमाः । अबुध्रन् ।  
+> विवर्तयंतीं । रजसी इति । समंते इति संअंते । आविःकृण्वतीं । भुवनानि ।  
+> विश्वा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रासो मेधाविनो वसिष्ठा वसिष्ठगोत्राः स्तोमेभिः स्तोतृभिः प्रयुज्यमाना गीर्भिः स्तुतिभिः प्रथमा इतरयजमानेभ्यः पूर्वभूताः संत उषसं प्रत्यबुध्रन् । प्रतिबोधयंति । कीदृशीमुषसं च । रजसी द्यावापृथिव्यौ समंते समासपर्यंते एकीभूतप्रांते विवर्तयंतीं व्यावर्तयंतीं विश्वा सर्वाणि भुवनानि भूतजातान्याविष्कृण्वतीं प्रकटीकुर्वतीं स्वभासा ।
+
+##### Gist of the bhāṣya
+
+The wise Vasiṣṭhas, those of the Vasiṣṭha line, employed by स्तोमेभिः (*stomebhiḥ*) (worshippers), awaken Dawn with गीर्भिः (*gīrbhiḥ*), praises, being प्रथमाः (*prathamāḥ*), ahead of the other sacrificers. What kind of Dawn? She who spreads over heaven and earth (रजसी (*rajasī*)), which are bounded alike, one-ended (समंते (*samaṃte*)), and who makes all beings manifest by her own light.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रासः (*viprāsaḥ*)—the wise
+- वसिष्ठाः (*vasiṣṭhāḥ*)—the seers born in the Vasiṣṭha line
+- स्तोमेभिः (*stomebhiḥ*)—composed by the worshippers
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- रजसी (*rajasī*)—of both heaven and earth
+- समंते (*samaṃte*)—in the equal inner parts
+- विवर्तयंतीं (*vivartayaṃtīṃ*)—she who pervades
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- आविष्कृण्वंतीं (*āviṣkṛṇvaṃtīṃ*)—she who makes manifest
+- उषसं (*uṣasaṃ*)—Dawn
+- प्रथमाः (*prathamāḥ*)—even before others
+- प्रत्यबुध्रन् (*pratyabudhran*)—have awakened
+
+##### भावार्थ (Bhāvārtha)
+
+The sages, wise and born in the Vasiṣṭha line, have awakened, before all others, with praises composed by the worshippers, Dawn who pervades the equal boundary regions of heaven and earth and makes all beings manifest.
+
+##### English translation
+The pious Vasishthas, first (of all worshippers), awaken with prayers and praises (each succeeding) dawn, spreading over the like-bounded earth and heaven, making all the regions manifest.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा स्यान व्य॒मायु॒र्दधा॑ना गू॒ढ्वी तमो॒ ज्योति॑षो॒षा  ॑
+> अ॑बोधि ।
+
+### Printed p. 598
+
+> अग्र एति युवतिरह्रयाणा प्राचिकितत्सूर्यं यज्ञमग्निं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । स्या । नव्यं । आयुः । दधाना । गूढ्वी । तमः । ज्योतिषा । उषाः । अबोधि ।  
+> अग्रे । एति । युवतिः । अह्रयाणा । प्र । अचिकितत् । सूर्यं । यज्ञं । अग्निं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषोषाः स्या सा गतदिवसेषु प्रसिद्धा दृश्यमानैषा नव्यं नवतरमायुरायुष्यं । यौवनमित्यर्थः । तादृशं दधाना धारयंती गूढ्वी गूढं तमोऽंधकारं ज्योतिषा स्वतेजसा निवारयंत्यबोधि । बुध्यते । अग्रे पुरोदेशे सूर्यस्य पुरस्तात् देवानामग्रे वा । इतरदेवेभ्यः पूर्वमित्यर्थः । युवतिर्नित्यतरुणी सर्वत्र मिश्रयंती वाह्रयाणा । लुप्तोपमैषा । अलज्जा युवतिरिव । सा यथा पत्युरग्रे संचरति तद्वत् सूर्यस्य पुरस्तादेति । एवंभूता सती सूर्यं यज्ञमग्निं च प्राचिकितत् । प्रज्ञापयति ॥
+
+##### Gist of the bhāṣya
+
+This Dawn, famous from past days and now seen, holds नव्यं आयुः (*navyaṃ āyuḥ*), newer life, that is, youth; she is awakened (seen) driving off with her light the hidden darkness. She goes अग्रे (*agre*), in front: before the sun, or before the gods, that is, before the other gods. युवतिः (*yuvatiḥ*) is the ever-young one, or one who mingles everywhere. अह्रयाणा (*ahrayāṇā*) contains an elided simile: like an unashamed young woman. As she goes before her husband, so she goes before the sun. Being such, she makes known the sun, the sacrifice and Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्या (*syā*)—the famous
+- एषा उषाः (*eṣā uṣāḥ*)—this Dawn
+- नव्यं (*navyaṃ*)—ever new
+- आयुः (*āyuḥ*)—youth
+- दधाना (*dadhānā*)—having obtained
+- गूढ्वी (*gūḍhvī*)—deep (thick)
+- तमः (*tamaḥ*)—darkness
+- ज्योतिषा (*jyotiṣā*)—destroying with her own radiance
+- अग्रे (*agre*)—in the eastern quarter
+- अबोधि (*abodhi*)—has become visible
+- अह्रयाणा (*ahrayāṇā*)—moving about shamelessly before her husband
+- युवतिः (*yuvatiḥ*)—like a young wife
+- एति (*eti*)—goes before the sun
+- सूर्यं (*sūryaṃ*)—the sun
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- अग्निं (*agniṃ*)—Agni
+- प्राचिकितत् (*prācikitat*)—she illumines
+
+##### भावार्थ (Bhāvārtha)
+
+The famous Dawn, having obtained ever-new youth and destroying the thick darkness with her radiance, has become visible in the eastern quarter. Like a young wife moving about shamelessly before her husband, she goes before the sun. She illumines the sun, the sacrifice and Agni.
+
+### Printed p. 599
+
+##### English translation
+Bestowing new existence, dispersing the thick darkness by her radiane, the Dawn is awakened, and, like an immodest damsel, comes before (the sun), and makes manifest Surya, sacrifice, and Agni.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑वती॒र्गोम॑तीर्न उ॒षासो॑ वी॒रव॑तीः॒ सद॑मुच्छंतु  ॒
+> भद्राः ।  
+> घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ता यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वावतीः । गोमतीः । नः । उषसः । वीरवतीः । सदं । उच्छंतु । भद्राः ।  
+> घृतं । दुहानाः । विश्वतः । प्रपीताः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वावतीर्बहुभिरस्मभ्यं प्रदेयैरश्वैस्तद्वत्यस्तथा गोमतीर्गोमत्यो गोप्रदा वीरवतीर्वीरवत्यः पुत्रदा अत एव भद्राः स्तुत्या उषासः उषसः सदं सर्वदोच्छंतु । पुनः कीदृश्यः । घृतमुदकं दुहाना दोग्ध्र्यो विश्वतः प्रपीताः सर्वतः प्रवृद्धाः । यूयं पातेति गतं ॥
+
+##### Gist of the bhāṣya
+
+अश्वावतीः (*aśvāvatīḥ*): possessed of many horses to be given to us; गोमतीः (*gomatīḥ*): givers of cattle; वीरवतीः (*vīravatīḥ*): givers of sons; therefore भद्राः (*bhadrāḥ*), praiseworthy. May the dawns shine always. Again, of what kind? घृतं (*ghṛtaṃ*) means water; they yield it (दुहानाः (*duhānāḥ*)), and are प्रपीताः (*prapītāḥ*), grown abundant on all sides. यूयं पात (*yūyaṃ pāta*) is as explained before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—for us
+- अश्वावतीः (*aśvāvatīḥ*)—those possessing horses
+- गोमतीः (*gomatīḥ*)—those possessing cattle
+- वीरवतीः (*vīravatīḥ*)—those fit to bestow heroic sons
+- भद्राः (*bhadrāḥ*)—bringers of welfare
+- घृतं (*ghṛtaṃ*)—water
+- दुहानाः (*duhānāḥ*)—those who pour out
+- विश्वतः (*viśvataḥ*)—in all quarters
+- प्रपीताः (*prapītāḥ*)—those who cause growth
+- उषासः (*uṣāsaḥ*)—the dawns
+- सदं (*sadaṃ*)—at all times
+- उच्छंतु (*ucchaṃtu*)—may they shine forth and appear
+- (O gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 600
+
+##### भावार्थ (Bhāvārtha)
+
+May the dawns, possessing horses to bestow on us, possessing cattle, fit to bestow heroic sons, bringers of welfare, pouring out water, causing growth in all quarters, shine forth at all times. O gods, protect us always with blessings.
+
+##### English translation
+May the auspicious dawns ever break upon us redolent of horses, of cattle, of male posterity, shedding moisture, yielding everywhere abundance : and do you, (gods), ever cherish us with blessings.
+
+May Vidyātīrtha Maheśvara, dispelling the darkness of the heart by the light of the meaning of the Veda, bestow the four human aims.
+
+Thus ends the fifth adhyāya of the fifth aṣṭaka in the Ṛksaṃhitā-bhāṣya, the Mādhavīya Vedārthaprakāśa, composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka, king of kings, supreme lord, promoter of the Vedic path. Om, That is the Real.
+
+Here ends the fifth adhyāya of the fifth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
+
+Whatever has fallen from syllable or word, or whatever may be lacking in measure, may all that be forgiven, O God, Lord of Speech; salutation to you. May there be auspiciousness. Blessing.
+
 ---
 
-**Progress note:** Done through printed p. 594. pp. 589-594 (batch API)
+**Progress note:** Done through printed p. 600. pp. 595-600 (batch API)
