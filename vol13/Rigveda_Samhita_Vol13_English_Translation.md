@@ -12876,6 +12876,136 @@ This Ṛk is a prayer made by Agastya addressed to the Aśvin deities. Here the 
 
 when giving the meaning of the word कार (*kāra*), Sāyaṇa explained: कारशब्दः शंखवाचीत्यभियुक्ताः संगिरंते । कारं शब्दकारिणं शंखं (*kāraśabdaḥ śaṃkhavācītyabhiyuktāḥ saṃgiraṃte | kāraṃ śabdakāriṇaṃ śaṃkhaṃ*). To support this very meaning, Skandasvāmin cites the present Ṛk (Ṛ. Saṃ. 1-180-8) and, in both places, as the conch
 
+### Printed p. 541
+
+…that it means. But wherever the word कारं (*kāraṃ*) occurs, it does not denote a conch. This word, derived from the root कृ (*kṛ*), can be understood simply as an instrument that produces sound. In some places it may denote a conch; in other places it may give another meaning. For example, in
+
+चकर्थ कारमेभ्यः सृतनासु प्रवंतवे । (*cakartha kāramebhyaḥ sṛtanāsu pravaṃtave |*)
+(Ṛ. Saṃ. 1-131-5)
+
+this word is explained merely as सिंहनादलक्षणं शब्दं (*siṃhanādalakṣaṇaṃ śabdaṃ*), that is, a sound in the form of a lion's roar. To show that the word is thus not invariably a conch-word, Skandasvāmin also says क्रियत अति कारशब्दः इहोच्यते । (*kriyata ati kāraśabdaḥ ihocyate |*) — here the word कार (*kāra*) gives only the meaning "doing". He has also given the meaning सामर्थ्य्यात् शंखः । (*sāmarthyyāt śaṃkhaḥ |*).
+
+पत्वयंत्रासो अभि कारमर्चन्विदंत ज्योतिश्च कृपंत धीभिः । (*patvayaṃtrāso abhi kāramarcanvidaṃta jyotiśca kṛpaṃta dhībhiḥ |*)
+(Ṛ. Saṃ. 4-1-14)
+
+In Ṛks of this kind the meaning is simply कर्तारं (*kartāraṃ*), "the maker". For this reason Sāyaṇa too has explained the word in two ways in the present Ṛk: first as "like a conch", and second as the Hotṛ, the instigator of sound. Supposing the question possible, what then does इव (*iva*) mean on the second explanation, he has himself given the answer: following the Nirukta-writer's statement अस्तुषमार्थस्य संप्रत्यर्थे प्रयोगः (*astuṣamārthasya saṃpratyarthe prayogaḥ*) (Ni. 7-31), he has shown that it means "now". In the present context that is the meaning.
+
+विरुद्रस्य (*virudrasya*)—This word is an adjective of प्रस्रवणस्य (*prasravaṇasya*). प्रस्रवण (*prasravaṇa*) means a mass of rain-water, or a full flood. This full flood is called विरुद्र (*virudra*) either because it destroys the suffering of heat, or because it flows on sounding in many ways. For this word Sāyaṇa has given the explanation विशिष्टोष्ठरूपदुःखद्रावणस्य, विविधरोरूयमाणिद्रवणवतो वा (*viśiṣṭoṣṭharūpaduḥkhadrāvaṇasya, vividharorūyamāṇidravaṇavato vā*). If the word रुत् (*rut*) is taken to mean suffering, the sense is a flood that destroys a particular suffering; if it is taken to mean sound, the sense is one accompanied by manifold roaring. The Nirukta-writers' derivation of the word रुद्र (*rudra*) is as follows.
+
+रुद्रो रौतीति सतः; रोरूयमाणो द्रवतीति वा, रोदयतेर्वा, (*rudro rautīti sataḥ; rorūyamāṇo dravatīti vā, rodayatervā,*)
+यडरुदत्तद्रुद्रस्य रुद्रत्वं (*yaḍarudattadrudrasya rudratvaṃ*) इति काशकम् । (*iti kāśakam |*) यदरोदीतद्रुद्रस्य रुद्रत्वं (*yadarodītadrudrasya rudratvaṃ*) इति हारिद्रविकं । (*iti hāridravikaṃ |*)
+(Ni. 10-5)
+
+### Printed p. 542
+
+Rudra is रौति (*rauti*)—he who makes a sound like thunder, as a cloud rumbles; or रोरूयमाणो प्रवति (*rorūyamāṇo pravati*)—he who moves swiftly, roaring; or रोदयतेः (*rodayateḥ*)—he who makes enemies weep; such are the meanings. On the basis of this explanation the word विरुद्र (*virudra*) has been explained in the present Ṛk. The remaining explanation is not relevant to us now. By the first derivation the meaning is destruction of suffering; therefore the flood is विरुद्र (*virudra*). By the second derivation it is of the nature of roaring; therefore too the flood is विरुद्र (*virudra*). Thus in the present context both meanings are natural.
+
+नरां नृषु प्रशस्तः । (*narāṃ nṛṣu praśastaḥ |*) Agastya has praised himself as the most praiseworthy man among all the men who carry out sacrifices. Although this is self-praise, the sage has stated only his real greatness here; there is no exaggeration in it.
+
+अगस्त्यः खनमानः खनित्रैः प्रजामपत्यं बलमिच्छमानः । (*agastyaḥ khanamānaḥ khanitraiḥ prajāmapatyaṃ balamicchamānaḥ |*)
+उभौ वर्णावृषिरुग्रः पुपोष सत्या देवेष्वाशिषो जगाम ॥ (*ubhau varṇāvṛṣirugraḥ pupoṣa satyā deveṣvāśiṣo jagāma ‖*)
+(Ṛ. Saṃ. 1-179-6)
+
+In explaining the purport of this Ṛk, it is set out in detail how Agastya, by his great power, accomplished together the two human aims, dharma and kāma, and what his extraordinary greatness was. Therefore it can be said that there is no exaggeration in this praise.
+
+##### Grammar
+
+- विरुद्रस्य—विविधाः रुद्राः यस्मिन् । तस्य । बहुव्रीहौ—(पा. सू. ६-२-१) इति पूर्वपदप्रकृतिस्वरो भवति ।
+- प्रस्रवणस्य—सु ग्रतौ धातुः । ल्युट् प्रत्ययः । युवोरनाकौ इति तस्य अनादेशः । प्रत्ययनिमित्तं धातूकारस्य गुणः, अवादेशः । लिति (पा. सू. ६-३-१९३) इति प्रत्ययपूर्वस्य उदात्तस्वरो भवति । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति ।
+- सात्—ऊतियूतिजूतिसाति—(पा. सू. ३-३-९७) इति क्तिन् उदात्तो निपातितः ।
+- नराम्—षष्ठीबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेरुदात्तस्वरो भवति ।
+
+### Printed p. 543
+
+**Grammar** (continued)
+- प्रशस्तः—शंसु स्तुतौ धातुः । क्त प्रत्ययः । अनिदिशांडल—इति उपधानकारलोपः । गतिरनंतरः (पा. सू. ६-२-४६) इति गतेः (प्र) उदात्तस्वरो भवति । **NOTE**
+- चितयत्—चिती संज्ञाने धातुः । णिजंतात् लेट् प्रथमपुरुषैकवचने तिप् । इकारलोपः अडागमः । संज्ञापूर्वकोनिधिरनित्यः इति वचनात् णिच् निमित्तं धातोर्लघूपधस्य गुणो न भवति । शप् निमित्तं णिचो गुणः, अयादेशः । अतिजंतपठे स्थितत्वात् निघातस्वरो भवति । **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यद्वहे॑थे महि॒ना रथ॑स्य॒ प्रस्यं॑द्रा याथो॒ मनु॑षो॒न होता॑।  
+> ध॒त्तं सू॒रिभ्य॑ उ॒त वा॒ स्वश्वं॒ नास॑त्या रयि॒षाचः॑ स्याम ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यत् । वहेथे इति । महिना । रथस्य । प्र । स्यंद्रा । याथः । मनुषः । न । होता  
+> धत्तं । सूरिभ्यः । उत । वा । सुअश्वं । नासत्या । रयिसाचः । स्याम ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां रथस्य गमनसाधनस्य महिना महत्वेन यद्यस्मात्र
+> वहेथे धारयथो यज्ञं । यद्वा । रथस्य स्वर्गगमनसाधनस्य यागस्य धुरं
+> वहतः । तथा हे स्यंद्रा स्यंदनशील् युवां याथः । गच्छथः । स्वस्थानं यज्ञारंभ
+> आगच्छथः यज्ञसमाप्तौ पुनर्गच्छथश्च । तत्र दृष्टांतः । मनुषो होता मनुष्यस्य
+> यजमानस्य होता यथा यज्ञप्रारंभ आगच्छति कर्मणि निर्वृत्ते पुनरपगच्छति
+> तड्वत् । आगमनसमये सूरिभ्यः स्तोतृभ्यो धत्तं । धारयतं फलं । उत वा
+> स्वत्वं शोभनात्वसमूहं धत्तं । नासत्या । सत्सु भवौ सत्यौ । न असत्यौ नासत्यौ ।
+> हे ताडृशौ त्वदनुग्रहाद्रयिसाचो धनसमवायिनः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, because by the greatness of your chariot, the means of going, you bear (वहेथे (*vahethe*)) the sacrifice, you uphold it. Or else: you bear the yoke of the sacrifice, the "chariot" that is the means of going to heaven. And, O gliders (स्यंद्रा (*syaṃdrā*), those of a flowing nature), you go: you come to your own place at the start of the sacrifice and go back again when the sacrifice is complete. The illustration is मनुषो होता (*manuṣo hotā*): as the Hotṛ of the human sacrificer comes at the start of the sacrifice and goes away again when the rite is finished, so do you. At the time of coming, bestow reward on the praisers (सूरिभ्यः (*sūribhyaḥ*)); or bestow a company of good horses. नासत्या (*nāsatyā*): those who are good in the good (सत्सु भवौ सत्यौ (*satsu bhavau satyau*)); not untrue, नासत्यौ (*nāsatyau*). O such ones, by your favour may we be रयिसाचः (*rayisācaḥ*), joined with wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—(O) Nāsatyas (you who are ever in good works)
+- यत् (*yat*)—for which reason (you two)
+- रथस्य (*rathasya*)—of your chariot (the means of going)
+- महिना (*mahinā*)—by the greatness
+
+### Printed p. 544
+
+- प्र वहेथे (*pra vahethe*)—you become upholders of the sacrifice. [Or: महिना (*mahinā*)—by your own greatness; रथस्य (*rathasya*)—of the sacrifice, the means of going to heaven; प्र(वहेथे) (*pra(vahethe)*)—you take on the leadership.]
+- स्यंद्रा (*syaṃdrā*)—(O) Aśvin deities, of a gliding nature
+- मनुषः होता न (*manuṣaḥ hotā na*)—like the sacrificer's Hotṛ (who comes at the start of the sacrifice and leaves after it)
+- याथः (*yāthaḥ*)—you go away (to your own place after the sacrifice)
+- सूरिभ्यः (*sūribhyaḥ*)—(when you come to the sacrifice) to the praisers
+- धत्तं (*dhattaṃ*)—you bear the reward (you favour them)
+- उत स्वत्त्वं वा (*uta svattvaṃ vā*)—or good horses (you bestow)
+- तत् (*tat*)—therefore
+- रयिसाचः (*rayisācaḥ*)—endowed with wealth
+- स्याम (*syāma*)—may we become (by your favour)
+
+##### भावार्थ (Bhāvārtha)
+
+O Nāsatyas, of gliding nature, by the greatness of your chariot you come to the sacrifice, carry out the sacrifice, and, like the priest called Hotṛ, depart to your own place after the sacrifice; when you come to the sacrifice you bestow on the praisers wealth such as good horses; such as you, favour us too with wealth and the rest.
+
+##### English translation (H. H. Wilson)
+When, by the virtue of your chariot, you come (to the sacrifice), and when, like the ministering priest, (after discharging his function), you depart, gliding away, you give to the devout (worshippers a reward), though it be store of good horses: may we be enriched, Nasatyas, (by your favour,
+
+##### विशेषविषयगळु (Special Topics)
+
+रथस्य (*rathasya*)—The word रथ (*ratha*) may here mean the chariot meant for the Aśvin deities' journeying. Or, Sāyaṇa explains, this word may be a synonym of the sacrifice, the means of going to heaven. After stating the Nirukta-writers' derivation रथः रंहतेर्गतिकर्मणः (*rathaḥ raṃhatergatikarmaṇaḥ*) and so on, the special meanings of this word were given earlier. रथं रंहणमादित्यं रंहणश्चासौ मुहूर्तमह्यनवस्थायित्वात् । (*rathaṃ raṃhaṇamādityaṃ raṃhaṇaścāsau muhūrtamahyanavasthāyitvāt |*) — because he moves without rest even for a moment, the Sun has this name; this explanation was given earlier. Derived from the root रंह् (*raṃh*) meaning going, this word may in the present Ṛk also be used as a synonym of the sacrifice, the means of going.
+
+रथस्य महिना प्र वहेथे (*rathasya mahinā pra vahethe*)—Sāyaṇa has shown that two constructions are possible here. First,
+1. by the greatness of your chariot, the means of going, you become upholders of the sacrifice; and second,
+
+### Printed p. 545
+
+2. by your own greatness you take on the leadership of the sacrifice, the means of going to heaven. The sense of the sentence has been explained both ways. It can be seen that both constructions have the authority of Śruti passages. According to the first construction, the point that the Aśvin deities' help is indispensable for carrying out and leading the sacrifice is known from the following Ṛk-Saṃhitā passages.
+
+जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणां । (*juṣṭo hi dūto asi havyavāhano 'gne rathīradhvarāṇāṃ |*)
+सजूरश्विभ्यामुषसा सुवीर्यमस्मे धेहि त्रवो बृहत् ॥ (*sajūraśvibhyāmuṣasā suvīryamasme dhehi travo bṛhat ‖*)
+(Ṛ. Saṃ. 1-44-2)
+सवितारमुषसमश्विना भगमग्निं व्युष्टिषु क्षपः । (*savitāramuṣasamaśvinā bhagamagniṃ vyuṣṭiṣu kṣapaḥ |*)
+कण्वासस्त्वा सुतसोमास इंथते हव्यवाहं स्वध्वर ॥ (*kaṇvāsastvā sutasomāsa iṃthate havyavāhaṃ svadhvara ‖*)
+(Ṛ. Saṃ. 1-44-8)
+
+In these two Ṛks, Agni, the bearer of oblations, the messenger of the gods and the leader of the sacrifice, is asked to come with all the deities, awakened, and carry out the sacrifice. From the description that even at dawn Agni takes the leadership of the sacrifice together with the Aśvin deities, the principal role of the Aśvins in leading the sacrifice is known. Or, according to the second construction, the mouth (head) of the sacrifice, protected by the Aśvin deities, is praised: it implies that the sacrifice could not be completed fully without the Aśvins' help, and their carrying out of the sacrifice is praised. How was the head of the sacrifice protected by the Aśvins? In what manner did they make the sacrifice complete? What principal part did they play in carrying it out? A narrative that explains this is told in the Śatapatha Brāhmaṇa; in it the beheading of Viṣṇu, the self of the sacrifice, and its repair by the Aśvins are told, so that they took the leadership of the sacrifice and the principal part in carrying it out. The narrative is given thus.
+
+देवा ह वै सत्रं निषेदुः । अग्निरिंद्रः सोमो मखो विष्णुर्विश्वेदेवा अन्यत्रैवाश्चिभ्यां । तेषां कुरुक्षेत्रं देवयजनमास । तस्मादाहुः कुरुक्षेत्रं देवानां देवयजनमिति तस्माद्यत्र क्व च कुरुक्षेत्रस्य निगच्छति तदेव मन्यत इदं देवयजनमिति तद्धि देवानां देवयजनं । त आसत । श्रियं गच्छेम यशः स्यामान्नादाः स्यामेति तथो इवेमे सत्रमासते श्रियं गच्छेम यशः स्यामान्नादाः स्यामेति । ते होचुः । यो नः क्रमेण तपसा श्रद्धया यज्ञेनाहुतिभिर्यज्ञस्योदृचं पूर्वोऽवगच्छौत्स नः श्रेष्ठोऽसत्तदु नः सर्वेषाग्ं सहेति तथेति । तद्विष्णुः प्रथमः प्राप । (*devā ha vai satraṃ niṣeduḥ | agniriṃdraḥ somo makho viṣṇurviśvedevā anyatraivāścibhyāṃ | teṣāṃ kurukṣetraṃ devayajanamāsa | tasmādāhuḥ kurukṣetraṃ devānāṃ devayajanamiti tasmādyatra kva ca kurukṣetrasya nigacchati tadeva manyata idaṃ devayajanamiti taddhi devānāṃ devayajanaṃ | ta āsata | śriyaṃ gacchema yaśaḥ syāmānnādāḥ syāmeti tatho iveme satramāsate śriyaṃ gacchema yaśaḥ syāmānnādāḥ syāmeti | te hocuḥ | yo naḥ krameṇa tapasā śraddhayā yajñenāhutibhiryajñasyodṛcaṃ pūrvo 'vagacchautsa naḥ śreṣṭho 'sattadu naḥ sarveṣāgṃ saheti tatheti | tadviṣṇuḥ prathamaḥ prāpa |*) स देवानाग् श्रेष्ठोऽभवत्तस्मादाहुर्विष्णुर्देवानाग् श्रेष्ठ (*sa devānāg śreṣṭho 'bhavattasmādāhurviṣṇurdevānāg śreṣṭha*)
+
+### Printed p. 546
+
+इति । स यः स विष्णुर्यज्ञः स स यः स यज्ञोऽसौ स आदित्यस्तद्धेदं यशो विष्णुन शशाक संयंतुं तदिदमप्येतर्हि नैव सर्व इव यशः शक्नोति संयंतुं । स तिसृधन्वमादायापचक्राम । स धनुरार्त्न्या शिर उपस्तभ्य तस्थौ तं देवा अनभिधृष्टुवंतः समंतं परिण्यविशंत । ताह वम्य ऊचुः । इमा वै वम्यो यदुपदीका योऽस्य ज्यामप्यद्यात्मिकमै प्रयच्छेतेत्यन्नादमस्मै प्रयच्छेमापि धन्वन्नपोऽधिगच्छेत्तथास्मै सर्वमन्नाद्यं प्रयच्छेमेति तथेति । तस्योपररासत्य । ज्यामपिजक्षुस्तस्यां भिन्नायां धनुरात्न्या विस्सुरंत्या विष्णोऽशिरः प्रचिच्छिदतुः ॥ (*iti | sa yaḥ sa viṣṇuryajñaḥ sa sa yaḥ sa yajño 'sau sa ādityastaddhedaṃ yaśo viṣṇuna śaśāka saṃyaṃtuṃ tadidamapyetarhi naiva sarva iva yaśaḥ śaknoti saṃyaṃtuṃ | sa tisṛdhanvamādāyāpacakrāma | sa dhanurārtnyā śira upastabhya tasthau taṃ devā anabhidhṛṣṭuvaṃtaḥ samaṃtaṃ pariṇyaviśaṃta | tāha vamya ūcuḥ | imā vai vamyo yadupadīkā yo 'sya jyāmapyadyātmikamai prayacchetetyannādamasmai prayacchemāpi dhanvannapo 'dhigacchettathāsmai sarvamannādyaṃ prayacchemeti tatheti | tasyopararāsatya | jyāmapijakṣustasyāṃ bhinnāyāṃ dhanurātnyā vissuraṃtyā viṣṇo 'śiraḥ pracicchidatuḥ ‖*)
+(Śa. Brā. 14-1-1-1 to 9)
+
+Formerly all the deities except the Aśvins, Indra, Viṣṇu, Soma and the rest, together began a sattra at Kurukṣetra, the place of the gods' sacrifice. Then they wished to become glorious and possessed of food. When they decided that whichever of them first completed the sacrifice fully, by effort, faith and oblations, would be reckoned the most excellent, Viṣṇu first obtained that excellent rank. Viṣṇu, who had obtained such a rank, became the self of the sacrifice. Then his pride of glory could not be contained. He took his bow with three arrows and set out; none of the gods dared oppose him, and they sat stunned. Then ants of the kind called वम्रि (*vamri*) came and asked the gods what they would give as reward if they gnawed and bent the bow's string. The gods assured them: one with such ability will enjoy full wealth of food and will find abundance of water even in the desert. Then they cut the string, and at once the bow, springing back, cut off the head of Viṣṇu, which was resting on it. When Viṣṇu, the self of the sacrifice, was beheaded, the gods, knowing the sacrifice had become empty, were worried, and the Aśvin deities repaired Viṣṇu's severed head. Thus it is shown that carrying out the sacrifice was not possible without the Aśvin deities. The same matter is told in the Taittirīya Āraṇyaka as follows.
+
+देवा वै सत्रमासत । ऋद्धिपरिमितं यशस्कामाः । तेऽब्रुवन् । यन्नः प्रथमं यश ऋच्छात् । सर्वेषां नस्ततत्सहासदिति । ........ । तेषां मुखं वैष्णवं यश अर्थत् । ............तस्यसिह्नियाणस्य तेजोऽपाक्रामत् ।........ नारेवृतग्गह्यासां । तस्य ज्यामप्यादन् । तस्य धनुर्विप्रवमाणग्ं शिर उदवर्तयत् । तद्व्यावापृथिवी अनु प्रावर्तत । यत्पावर्तत। तत् (*devā vai satramāsata | ṛddhiparimitaṃ yaśaskāmāḥ | te 'bruvan | yannaḥ prathamaṃ yaśa ṛcchāt | sarveṣāṃ nastatatsahāsaditi | ........ | teṣāṃ mukhaṃ vaiṣṇavaṃ yaśa arthat | ............tasyasihniyāṇasya tejo 'pākrāmat |........ nārevṛtaggahyāsāṃ | tasya jyāmapyādan | tasya dhanurvipravamāṇagṃ śira udavartayat | tadvyāvāpṛthivī anu prāvartata | yatpāvartata| tat*)
+
 ---
 
-**Progress note:** Done through printed p. 540. pp. 535-540 (batch API)
+**Progress note:** Done through printed p. 546. pp. 541-546 (batch API)
