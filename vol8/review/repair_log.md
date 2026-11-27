@@ -482,3 +482,5 @@
 | page | old → new | why |
 |---|---|---|
 | 220 | `[?] गतौ` → `णेषृ प्रेषृ गतौ` | SECOND-PASS Q1: Kannada p. 220 reads ಜೇಷ್ಯ ಣೇಷೃ ಪ್ರೇಷೃ ಗತೌ (ಜೇಷ್ಯ a misprint, English jeṣṛ kept; the mark stood for the omitted ṇeṣṛ preṣṛ) |
+
+### 2026-11-27 qmark_strip.py: BLOCK 1356 marks removed from 750 Sanskrit-block lines (derived data, K9); BARE 49 boilerplate remark lines removed (53 marks); OTHER 2758 marks left
