@@ -8565,6 +8565,151 @@ For that very reason Indra, by his strength, restrained from doing injury the cl
 > त्वं धुनि॑रिंद्र॒ धुनि॑मतीर्य्ण॒णोर॒पः सी॒रा न स्रवं॑तीः ।  
 > प्र यत्स॑मु॒द्रमति॑ शूर॒ पर्षि॑ पा॒रया॑ तु॒र्वशं॒ यदुं॑ स्व॒स्ति ॥ ९ ॥
 
+### Printed p. 355
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । धुनिः । इंद्र । धुनिमतीः । ऋणोः । अपः । सीराः । न । स्रवंतीः ।  
+> प्र 1 यत् । समुद्रं । अति । शूर । पर्ष्टि । सारय । तुर्वशं । यदुं । स्वस्ति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं धुनिः कंपयिता शत्रूणामसि । अतो धुनिमतीः कंपनो
+> पेततरंगवतीः । अथवा । धुनिर्नाम जलप्रतिरोधकार्यसुरः । स एव प्रतिबंधकतयो यासां तादृशीः । अप ऋणोः । अगमयः । भूमावपातयः । तत
+> दृष्टांतः । स्रवंतीः प्रवहंतीः सीरा न । नदीनामैतत् । सरणवशीर्नदीरिव ।
+> तद्वत्संतता इत्यर्थः । एवं कृत्वा हे शूर यद्यदा समुद्रमति पर्षि अतिक्रम्य
+> पूरयस्युदकं तदानीं तुर्वशं यदुमुभावपि राजर्षी स्वस्त्रविनातं पारय ।
+> अपालयः संपूर्णजलवर्षेन । तथा च मंत्रांतरं । त्वमपो यदवे
+> तुर्वशायारमयः । ऋ ५-३१.८. । इति ॥
+
+##### Gist of the bhāṣya
+
+Indra is addressed as धुनिः (*dhuniḥ*), the one who makes his enemies tremble. So he has made the waters धुनिमतीः (*dhunimatīḥ*), "possessed of waves that shake". Alternatively, धुनि (*dhuni*) is the name of an Asura who obstructed the waters. The waters are then those that had him as their hindrance, and Indra made them fall on the earth (ऋणोः (*ṛṇoḥ*), "you sent"). The simile follows: the waters are like flowing rivers (सीरा न (*sīrā na*) is said of rivers). They flow like rivers in continuous streams. Then, "O hero, when you overflow the ocean and fill it with water, you have protected both royal sages, Turvaśa and Yadu, so that they come to no harm (स्वस्ति (*svasti*))", that is, you have kept them safe by sending down abundant rain. Sāyaṇa cites another mantra to the same effect: त्वमपो यदवे तुर्वशायारमयः (*tvamapo yadave turvaśāyāramayaḥ*) (Ṛ. 5-31.8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- धुनिः (*dhuniḥ*)—one who makes (enemies) tremble with fear; you are such (therefore)
+- धुनिमतीः (*dhunimatīḥ*)—wave-possessing, or having the Asura named Dhuni as their obstructor
+- अपः (*apaḥ*)—the waters
+- स्रवंतीः (*sravaṃtīḥ*)—flowing
+- सीराः न (*sīrāḥ na*)—like rivers (continuously)
+- ऋणोः (*ṛṇoḥ*)—you sent forth (made them fall on the earth); having done so
+- शूर (*śūra*)—O hero
+- यत् (*yat*)—when
+- समुद्रं (*samudraṃ*)—the ocean
+- प्र अति पर्षि (*pra ati parṣi*)—you overflow and fill (then)
+- तुर्वशं (*turvaśaṃ*)—Turvaśa
+- यदुं (*yaduṃ*)—and Yadu (the kings)
+- स्वस्ति (*svasti*)—so that they do not perish
+- पारय (*pāraya*)—you protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you cause trembling in your enemies. Such as you are, you slew the Asura named Dhuni, who had been holding back the waters. You sent the waters forth as streams and so filled the ocean, and you brought well-being to the two kings Turvaśa and Yadu.
+
+##### English translation (H. H. Wilson)
+You, Indra, are the terrorier (of your foes); you have made the trembling waters overspread (the earth) like flowing rivers : but, hero, when you fill the ocean, you have protected in their well-being Turvasha and Yadu.
+
+### Printed p. 356
+
+##### विशेषविषयगळु (Special Topics)
+
+धुनिः (*dhuniḥ*)—the one who causes trembling. Indra is described as the one who makes his enemies tremble. The word धुनि (*dhuni*) is formed from the root धूज् कंपने (*dhūj kaṃpane*) and is explained as धुनिः धुनोतेः (*dhuniḥ dhunoteḥ*) (Ni. 5-12). धुनयः (*dhunayaḥ*) is read among the names of rivers (Ni. 2-24).
+
+धुनिमतीः अपः ऋणोः (*dhunimatīḥ apaḥ ṛṇoḥ*): कम्मनोपेततरंगवतीः । अथवा जलप्रतिरोधकारी असुरः स एव प्रतिबंधकतया यासां तादृशीः अपः भूमावपातयः । (*kammanopetataraṃgavatīḥ | athavā jalapratirodhakārī asuraḥ sa eva pratibaṃdhakatayā yāsāṃ tādṛśīḥ apaḥ bhūmāvapātayaḥ |*). When waters flow they shake, and being full of waves they are called धुनिमत्यः (*dhunimatyaḥ*). Or, because the Asura who stops the waters from flowing is named Dhuni, the waters that have that obstructor Dhuni are called ध्युनिमत्यः (*dhyunimatyaḥ*). The meaning explained is that Indra destroyed the obstructing condition of such waters and made them flow on the earth.
+
+स्रवंतीः सीरा न (*sravaṃtīḥ sīrā na*): सरणवतीर्नदीरिव । तद्वत्संगताः (*saraṇavatīrnadīriva | tadvatsaṃgatāḥ*). The word स्रवंत्यः (*sravaṃtyaḥ*) is stated among the names of rivers (Ni. 2-24). The word न (*na*) is used here as a particle of comparison. The waters are likened to rivers that flow gathered together.
+
+Indra is addressed by the word शूर (*śūra*): यत् समुद्रमतिपर्षि तुर्वशं यदुं स्वस्ति पारय (*yat samudramatiparṣi turvaśaṃ yaduṃ svasti pāraya*). When Indra filled the ocean with waters so that it overflowed, he protected the two royal sages Yadu and Turvaśa from harm and made them rejoice in the abundant rain. Sāyaṇa quotes the mantra त्वमपो यदवे तुर्वशायारमयः (*tvamapo yadave turvaśāyāramayaḥ*) (Ṛ. Saṃ. 5-31-8) for the same sense.
+
+The Nirukta author explains the meaning of the word स्वस्ति (*svasti*) with an example: स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये । (*sa naḥ piteva sūnave 'gne sūpāyano bhava | sacasvā naḥ svastaye |*) (Ṛ. Saṃ. 1-1-9). Here the word स्वस्ति (*svasti*) is explained as स्वस्तीति अविनाशिनाम आस्तिरभिपूजितः सु अस्तीति (*svastīti avināśināma āstirabhipūjitaḥ su astīti*). The word अस्ति (*asti*) is used in the sense "worshipped". The prefix सु (*su*) joins it, giving the form स्वस्ति (*svasti*). Durgācārya comments that its meaning is अविनाशि (*avināśi*), "free from destruction".
+
+### Printed p. 357
+Further: स्वस्तिरिद्दि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेशि । सा नो अमा सो अरणे नि पातु स्वावेशा भवरु देवगोपा (*svastiriddi prapathe śreṣṭhā rekṇasvatyabhi yā vāmameśi | sā no amā so araṇe ni pātu svāveśā bhavaru devagopā*) (Ṛ. Saṃ. 10-63-16 **NOTE**). A goddess known as Svasti lives in the atmosphere, so she is a deity of the middle region, and her greatness is described in this Ṛk in this way. The Nirukta explains: स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्ष्णस्वती धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सा निरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप््री देवान् गोपायत्विति देवा एनां गोपायंत्वि वा । (*svastireva hi prapathe śreṣṭhā rekṣṇasvatī dhanavatyabhyeti yā vasūni vananīyāni sā no 'mā gṛhe sā niramaṇe sā nirgamane pātu svāveśā bhavatu devī goprī devān gopāyatviti devā enāṃ gopāyaṃtvi vā |*) (Ni. 11-48). On this Durgācārya explains as follows. The goddess Svasti is more praiseworthy than all the gods in the atmosphere. She always moves about, endowed with the water that is indispensable to all, like one who has filled herself with wealth. May that goddess protect us, whether we dwell in the forest or in the house. May she protect us so that we travel in comfort. May she protect the oblations offered with the gods in view, and the gods, and us. And may the middle-region gods in the sky, or the rays, protect this goddess.
+
+##### Grammar
+
+- धुनिः—धुञ् कंपने इति धातुः । स्वादिः । कर्तरि औणादिकः नि प्रत्ययः ।
+- धुनिमतीः—धुनिः आसां संति इति धुनिमत्यः ताः । मतुप् प्रत्यये आगते स्त्रीत्वे उगितश्च इति जेप् ।
+- ऋणोः—ऋणु गतौ इति धातुः । तनादिः । लज् मध्यमपुरुषैकवचने सिप् । इकारलोपः । तनादिकृञ्छ्यउः (पा. सू. ३-१-७९) इति उ विकरणः । सिप् निमित्तं कृत्वा तस्य गुणः । प्रत्ययस्य रुत्वं विसर्गः । छांदसत्वात् अडागमो न भवति । पादादित्वात् निघातस्वरो न भवति । विकरणस्वरः अवशिष्यते ।
+- अपः—द्वितीयाबहुवचनांतरूपम् । ऊडिदं पदा—(पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरो भवति ।
+- सीराः—सिञ् बंधने इति धातुः । तुसिचिमीनां दीर्घश्च (उ. सू २-१८३) इति क्रन् प्रत्ययः । धातोः दीर्घः । कित्त्वात् गुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति । शूर इत्यपि अनेन एव सूत्रेण सिध्यति ।
+
+### Printed p. 358
+- स्रवंतीः—स्रु गतौ इति धातुः । लटः शत्रादेशे आगते उगितश्च (पा.सू. ४-१-६) इति जीप् । द्वितीयाबहुवचनांतरूपम् । जीप् लसार्वधातुकं च अनुदात्तं तस्मात् धातुस्वरो अवशिष्यते ।
+- पर्षि—पृ पालनपूरणयोः इति धातुः । क्र्यादिः । लट् मध्यमपुरुषैकवचने सिप् । बहुलंछंदसि इति विकरणस्य लुक् । प्रत्ययनिमित्तं कृत्वा धातोः इकः गुणः । रपरत्वं भवति ।
+- पारय—पूर्वोक्तात् धातोः हेतुमति च इति णिच् । अचोञ्ञिति इति ऋकारस्य वृद्धिः । रपरत्वं भवति । णिजंतात् लोट् मध्यमपुरुषैकवचने सिपः हि आदेशः । शप् निमित्तं कृत्वा णिचः गुणः अयादेशः । अतोहेः इति हेः लुक् । तिजंतपरत्वात् निघातस्वरो न भवति । णिच् स्वरो अवशिष्यते ।
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॒स्माक॑मिंद्र वि॒श्वध॑ स्या अवृ॒कत॑मो न॒रां नृ॑पा॒ता ।  
+> स नो॒ विश्वा॑सां स्पृ॒धां स॑हो॒दा वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अस्माकं । इंद्र । विश्वध । स्याः । अवृक्ततमः । नरां । नृपाता ।  
+> सः । नः । विश्वासां । स्पृधां । सहःदाः । विद्याम । इषं । वृजनं । जीरदानुं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमस्माकं विश्वध विश्वस्मिन्नपि काले विश्वप्रकारैर्वावृकृतमः ।
+> यद्वा । दातृतम इत्यर्थः । स्याः । भव । तथा नरां नृपातास्मदीयानां पुत्रभृत्यादिरूपाणां बहूनां मनुष्याणां रक्षको भव । अपरो नृशबोऽनुवादः ।
+> किंच स त्वं विश्वासां स्पृधां सर्वासां स्पर्धानिमित्तानामस्मत्सेनानां सहोदास्तासामर्थाय्यबलस्य दाता भव । विद्यामेति गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, be विश्वध (*viśvadha*), at every time or in every manner, our अवृकतमः (*avṛkatamaḥ*)", or, in the alternative, our greatest giver. Likewise be the protector of नरां (*narāṃ*), our many men such as sons and servants. The word नृ (*nṛ*) is a restatement of what नरां (*narāṃ*) already says. Further, be the giver of सहः (*sahaḥ*), strength, for the sake of all स्पृधां (*spṛdhāṃ*), all our armies engaged in rivalry. Of विद्याम (*vidyāma*) he says that it has been explained already.
+
+### Printed p. 359
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- अस्माकं (*asmākaṃ*)—for us
+- विश्वध (*viśvadha*)—at all times (in every manner)
+- अवृकतमः (*avṛkatamaḥ*)—the best among protectors (among givers)
+- स्याः (*syāḥ*)—be
+- नरां नृपाता (*narāṃ nṛpātā*)—the protector of our men, sons, servants and the like (be)
+- सः (*saḥ*)—such as you are
+- नः (*naḥ*)—our
+- विश्वासां (*viśvāsāṃ*)—all
+- स्पृधां (*spṛdhāṃ*)—engaged in rivalry, our army
+- सहोदाः (*sahodāḥ*)—be the giver of strength
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain (by your grace)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you alone are the special protector at all times and in every way. Protect also our sons, servants and the rest. Give strength to all our armies. Grant us food, strength and long life.
+
+##### English translation (H. H. Wilson)
+Be Indra, at all times our especial defender, the preserver of our people, the bestower of strength upon all these our emulous (followers); that we may obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+विश्वध अवृकतमः स्याः (*viśvadha avṛkatamaḥ syāḥ*): विश्वस्मिर्काले विश्वप्रकारैर्वा दातृतमः भव (*viśvasmirkāle viśvaprakārairvā dātṛtamaḥ bhava*). Addressing Indra, the poet wishes that at all times and in every way he may be gentle towards us, the sacrificers, knowing our true nature and understanding our sacrifice aright, or showing favour towards us. The Nirukta author quotes the Ṛk उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः । असुं य ईयुरवृक्कायतज्ञास्तेनोऽवंतु पितरो हवेषु ॥ (*udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyuravṛkkāyatajñāsteno 'vaṃtu pitaro haveṣu ‖*) (Ṛ. Saṃ. 10-15-1), and explains: अवृका अनमित्राः सत्यज्ञा वा, यज्ञज्ञा ना (*avṛkā anamitrāḥ satyajñā vā, yajñajñā nā*).**NOTE** Durgācārya explains the word अवृक (*avṛka*) thus: अनमित्राः (*anamitrāḥ*) are those who have reached equality, who behave in one and the same manner towards those who have taken refuge in them; and also those who know the truth and the sacrifice. The wish is that Indra be अवृकतम (*avṛkatama*).
+
+### Printed p. 360
+नरां नृपाता (*narāṃ nṛpātā*): अस्मदीयानां पुत्रभृत्यादिरूपाणां बहूनां मनुष्यणां सर्वदा रक्षको भव (*asmadīyānāṃ putrabhṛtyādirūpāṇāṃ bahūnāṃ manuṣyaṇāṃ sarvadā rakṣako bhava*). The prayer is that Indra should always protect our people, who belong to us the sacrificers, in the form of children, servants and so on.
+
+विश्वासां स्पृधां सहोदाः (*viśvāsāṃ spṛdhāṃ sahodāḥ*): सर्वसां स्पर्धानिमित्तानां अस्मत्सेनानां अर्थाय बलस्य दाता भव (*sarvasāṃ spardhānimittānāṃ asmatsenānāṃ arthāya balasya dātā bhava*). The wish is that Indra should produce strength in abundance, so that the prosperity of our helpers, the sacrificers who are rivals growing in competition with one another, may increase.
+
+The sentence विद्यामेषं वृजनं जीरदानुं (*vidyāmeṣaṃ vṛjanaṃ jīradānuṃ*) has been explained earlier in two or three places in the sense: "by Indra's grace may we obtain food, strength and the power of giving".
+
+##### Grammar
+
+- विश्वध—विश्व शब्दः । अस्मात् तसिल् प्रत्ययः । पृषोदरादीनि यथोपदिष्टम् इति प्रत्ययसकारस्य लोपः । तकारस्य धकारादेशः । प्रत्ययस्य लित्त्वात् लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्य उदात्तस्वरो भवति ।
+- अवृकतमः—नास्ति वृकः अस्मिन् इति अवृकः । बहुव्रीहौ नञ् सुभ्याम् इति उत्तरपदांतोदात्तस्वरो भवति । तस्मात् अतिशायनेतमबिष्ठनौ इति तमप् प्रत्ययः । स पित्त्वात् अनुदात्तो भवति ।
+- नृपाता—अत्र नृ शब्दः पूर्वार्थं अनुवदति । पा रक्षणे इति धातुः । कर्तरि तृच् प्रत्ययः । चित्त्वात् अंतोदात्तस्वरो भवति ।
+- स्पृधाम्—स्पर्ध संघर्षे इति धातुः । क्विप् प्रत्ययः । छांदसत्वात् ऋकारस्य संप्रसारणं अकारलोपश्च भवतः । षष्ठीबहुवचनांतरूपम् । सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति विभक्तेः उदात्तस्वरो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 354. pp. 349-354 (batch API)
+**Progress note:** Done through printed p. 360. pp. 355-360 (batch API)
