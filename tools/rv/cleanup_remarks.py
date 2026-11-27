@@ -144,7 +144,18 @@ def kind_reading(L):
         if READING.match(body): rm[i] = None
     return rm
 
-KINDS = {'reading': kind_reading, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+def kind_rest(L):
+    """after kind 'reading' (Vol 5, Nov 27 2026): every other whole-line italic remark *( ... )* / *[ ... ]* except the grammatical tails (they hold the grammar of the bhāṣya, characterized)
+    and labels that carry text of the book (*(continuing Varuṇa)* "...")."""
+    rm = {}
+    for i, l in enumerate(L):
+        m = re.fullmatch(r'\s*>?\s*\*[(\[](.*)[)\]]\*\s*', l)
+        if not m: continue
+        if re.match(r'The (?:grammatical )?tail', m.group(1).strip()): continue
+        rm[i] = None
+    return rm
+
+KINDS = {'rest': kind_rest, 'reading': kind_reading, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
