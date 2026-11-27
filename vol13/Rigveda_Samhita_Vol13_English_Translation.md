@@ -376,6 +376,134 @@ The main purport: to the sacrificers who offer oblations addressed to the Marut 
 - रायः—ऊडिदंपदादि (पा. सू. ६-१-१७१) इति विभक्तेः उदात्तस्वरः आगच्छति ।
 - ददाशुषे—दाश्य दाने । धातुः । अस्मात् लिट् आगते क्वसुश्च (पा. सू. ३-२-१०७) इति तस्य क्वसुः आदेशः । तं निमित्तीकृत्य धातोः द्वित्वादि । चतुर्थी एकवचन**NOTE**
 
+### Printed p. 19
+
+…(the grammar of the preceding Ṛk continues:) when a following affix is added, vowel-contraction (saṃprasāraṇa) of the va takes place, with the prior form, by वसोः संप्रसारणं (*vasoḥ saṃprasāraṇaṃ*). By शासिवसि घसीनां च (*śāsivasi ghasīnāṃ ca*) (Pā. Sū. 8-3-60) the sa of the affix becomes ṣa.
+
+##### Grammar
+
+- उक्षंति — उक्ष सेचने धातुः । लट् प्रथमपुरुषबहुवचने अंतादेशः । बहुलं छंदसि इति शपि लुक् । पादादित्वान्निघातस्वरो न भवति । प्रत्ययस्य आद्युदात्तस्वरो भवति ।
+- हिताः — धुधाण् धारणपोषणयोः धातुः । अस्मात् क्तप्रत्यये परे दधातेर्हिः (पा. सू. ७-४-४२) इति धातोर्हि आदेशः । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- मयोभुवः — मयः इति सुखनाम । अस्मिन् उपपदे सति अंतर्भावितण्यर्थकात् भूधातोः क्विप् प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपम् ।
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ये रजां॑सि॒ तवि॑षीभि॒रव्य॑त॒ प्र व॒ एवा॑सः॒ स्वय॑तासो  
+> अध्रज॑न्  
+> भयंते॒ विश्वा॒ भुव॑नानि ह॒र्म्या चि॒त्रो वो॒ यामः॒  
+> प्रय॑तास्वृ॒ष्टिषु॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ये । रजांसि । तविषीभिः । अव्यत । प्र । वः । एवासः । स्वयतासः । अध्रजन् ।  
+> भयंते । विश्वा । भुवनानि । हर्म्या । चित्रः । वः । यामः । प्रयतासु । ऋष्टिषु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः युष्मत्संबंधिनो य एवास एवा अश्वविशेषास्तविषीभिः स्वकीयैर्बलैर्वृष्टिप्रदानादिरूपै रजांसि लोकानाव्यत सर्वत अवृण्वंति ते वो
+> युष्माकमेवासोऽश्वाः स्वयतासः स्वयमेव सारथिना विनैव युक्ताः प्राध्रजन् ।
+
+##### Gist of the bhāṣya
+
+"O Maruts, those horses of yours, the एवासः (*evāsaḥ*) (a kind of horse), with their own powers (तविषीभिः (*taviṣībhiḥ*)), which take the form of bestowing rain and the like, cover the worlds (रजांसि (*rajāṃsi*)) on every side (आ अव्यत— (*ā avyata—*)). Those horses of yours, स्वयतासः (*svayatāsaḥ*), yoked of their own accord without any charioteer, प्राध्रजन् (*prādhrajan*)—
+
+### Printed p. 20
+
+> प्रकर्षण गच्छंति । व्याप्नुवंति । किंच युष्मदागमनाद्विश्वा भुवनानि सर्वाणि
+> भूतजातानि विश्वा हर्म्या सर्वाणि हर्म्याणि च भयंते । बिभ्यति पतनात् । यस्मादेवं
+> तस्माद्वो यामश्चित्रश्चायनीयः । आश्चर्यभूत इत्यर्थः । भीतेः कारणमाह ।
+> ऋष्टिषु युद्धस्थाषु हेतिषु प्रयतासु प्रकर्षणोद्यतासु सतीषु । अथवा भीतौ
+> दृष्टांतः । ऋष्टिषु प्रयतासु सतीषु । लुप्तोपमेयं । आयुधेषूद्यतेषु
+> यथा जना बिभ्यति तद्वद्युष्मदागमनाद्बिभ्यतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+—go forth with force, pervading. Moreover, at your coming all beings (विश्वा भुवनानि (*viśvā bhuvanāni*)) and all houses (हर्म्या (*harmyā*)) fear (भयंते (*bhayaṃte*)) falling. Because this is so, your course is चित्रः (*citraḥ*), wonderful—such is the meaning. He gives the cause of the fear: when the ऋष्टिषु (*ṛṣṭiṣu*), the weapons used in battle, are प्रयतासु (*prayatāsu*), raised forcefully. Or else, an illustration of the fear: "when the ṛṣṭis are raised"; the object of comparison is left unexpressed—as men fear when weapons are raised, so they fear at your coming.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Marut gods
+- ये एवासः (*ye evāsaḥ*)—which horses of yours
+- तविषीभिः (*taviṣībhiḥ*)—with their own powers (which take the form of bestowing rain and the like)
+- रजांसि (*rajāṃsi*)—the worlds
+- आ अव्यत (*ā avyata*)—cover everywhere
+- वः (*vaḥ*)—your (horses)
+- स्वयतासः (*svayatāsaḥ*)—of their own accord (without a charioteer) yoked to the chariot
+- प्र अध्रजन् (*pra adhrajan*)—pervade especially
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—all beings
+- हर्मा (*harmā*)—all houses
+- ऋष्टिषु (*ṛṣṭiṣu*)—weapons used in battle
+- प्रयतासु (*prayatāsu*)—when raised to strike (as men fear)
+- भयंते (*bhayaṃte*)—fear (that they will fall)
+- वः (*vaḥ*)—your
+- यामः (*yāmaḥ*)—going, course
+- चित्रः (*citraḥ*)—wonderful
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, your horses, which yoke themselves, move through all the worlds, endowed with the work of bestowing rain and the like; as in battle people are terrified by weapons, so at your coming palaces and the like, and all beings, are afraid that they will fall.
+
+##### English translation (H. H. Wilson)
+Those, ycur coursers, which traverse the regions in their speed,
+proceed, self-guided : all worlds, all dwellings, are alarmed, for marvellous
+is your coming : (such fear as is felt) when spears are thrust forth (in battle).
+
+##### विशेषविषयगळु (Special Topics)
+
+रजांसि (*rajāṃsi*)—रजो रजतेज्योती रज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यंते । (*rajo rajatejyotī raja ucyate | udakaṃ raja ucyate | lokā rajāṃsyucyaṃte |*) The word रजः (*rajaḥ*) has several meanings: light, water, worlds (Ni. 4-19). Here it means worlds.
+तविषीभिः (*taviṣībhiḥ*)—The word तविषी (*taviṣī*) is read among the twenty-eight names of strength (Ni. 3-9). The Bhāṣyakāra explains this word as स्वकीयैर्बलैर्वृष्टिप्रदानादिरूपैः (*svakīyairbalairvṛṣṭipradānādirūpaiḥ*)—
+
+### Printed p. 21
+
+by their own power and might, which cause the rain to fall. Max Müller explains: "you have stirred up the clouds with might"—by your power you scatter the clouds and make rain fall. It is described here that, since the wind blows very violently when it rains, the Maruts have exerted their strength.
+अव्यत (*avyata*)—लोकान् सर्वत आवृणंति (*lokān sarvata āvṛṇaṃti*): they pervade, cover the whole earth, is the Bhāṣyakāra's explanation. Max Müller says this word is derived from the root vī, meaning to stir up, to excite, and that here the Maruts scatter and impel the clouds. He adds that words such as "pravayaṇa—a goad" and "pravetṛ—driver" are likewise derived from that root.
+एवासः (*evāsaḥ*)—This word, derived from the root इण् गत् (*iṇ gat*), denotes swift going; it means "going very fast". Since swift-going creatures are horses, they are to be understood as the horses of the Maruts. Although, according to the etymology पृषत्यो मरुतां (*pṛṣatyo marutāṃ*) (Ni. 2-28), the Maruts' horses are named spotted ones, deer, in many Ṛks words denoting horses are used.
+स्वयतासः (*svayatāsaḥ*)—स्वयमेव सारथिना विनैव युक्ताः (*svayameva sārathinā vinaiva yuktāḥ*): the sense is that they yoke themselves to the chariot without a charioteer's help. In ordinary usage a charioteer or others harness the horses to the chariot; but the Maruts' horses are able of themselves, without others' urging or help, to yoke themselves to the chariot. The same idea is described of Indra's horses called Hari, and of the vehicle of the Aśvins.
+भयंते विश्वा भुवनानि हर्म्या (*bhayaṃte viśvā bhuvanāni harmyā*)—All things in the world, living beings, and buildings such as houses tremble with fear at the Maruts' coming. Trees, people and houses shake from the very violent wind and rain; trees are uprooted by the blast and houses collapse. The seer describes just this with the word भयंते (*bhayaṃte*).
+हर्म्या (*harmyā*)—सर्वाणि हर्म्याणि (*sarvāṇi harmyāṇi*): "all houses" is the Bhāṣyakāra's explanation. Max Müller says this word is an adjective of भुवनानि (*bhuvanāni*) and means "living in houses", and he explains the various meanings of the word. He holds that "hearth-pit, oven", then "house", came into use successively in the course of time:
+
+### Printed p. 22
+
+"Harmya is used here as an adjective of bhuvanāni and can only mean living in houses It does not, however, occur again in the same sense, though it occurs several times as a Substantive, meaning houses- Its original meaning is fire-pit, then, hearth, then house, a transition of meaning analogous to that of aedes. Most of the ancient nations begin their kitchen with a fire-pit. They dig a hole in the ground, take a piece of the animal's raw hide, and press it down with their hands close to the sides of the hole, which thus becomes a sort of pot or basin. This they fill with water, and they make a number of stones red-hot in a fire clse by. The meat is put into the water, and the stones dropped in till the meat is boiled. Catlin describes the process as awkward and tedious, and says that since the Assinaboins had learnt from the Mandans to make pottery, and had been supplied with vessels by the traders, they had entirely done away the custom excepting at public festivals; where they seem, like all others of the human family, to take pleasure in cherishing and perpetuating their ancient customs. This pit was called हर्म्य (*harmya*)." (Tylor's Early History of mankind. p. 262).
+Besides:
+ते हर्म्येषाः शिशवो न शुभ्रा वत्सासो न प्र क्रीळिनः पयोधाः । (*te harmyeṣāḥ śiśavo na śubhrā vatsāso na pra krīḷinaḥ payodhāḥ |*) (Ṛ. Saṃ. 7-56-16)
+In this Ṛk it is said that the Maruts stood near the hearth, shining like small boys; hence here हर्म्य (*harmya*) means hearth.
+तेषां स हन्नो अक्षाणि यथेदं हर्म्यं तथा । (*teṣāṃ sa hanno akṣāṇi yathedaṃ harmyaṃ tathā |*) (Ṛ. Saṃ. 7-55-6)
+In this Ṛk it is said that we close our eyes as we close this house; hence here हर्म्य (*harmya*) means house.
+अभूदु केतुरुषसः पुरस्तात्पतीच्यागादधि हर्म्येभ्यः । (*abhūdu keturuṣasaḥ purastātpatīcyāgādadhi harmyebhyaḥ |*) (Ṛ. Saṃ. 7-76-2)
+In this Ṛk it is said that the light of dawn falls first on the houses; hence हर्म्य (*harmya*) means houses.
+
+### Printed p. 23
+
+स शेवृधो जात आ हर्म्येषु नाभिर्युवा भवति रोचनस्य । (*sa śevṛdho jāta ā harmyeṣu nābhiryuvā bhavati rocanasya |*) (Ṛ. Saṃ. 10-46-3)
+Here Agni is born in houses (fire is kindled in houses); the word हर्म्य (*harmya*) again indicates the meaning house.
+मन्योरियाय हर्म्येषु तस्था यतः प्रजज्ञ इंद्रो अस्य वेद । (*manyoriyāya harmyeṣu tasthā yataḥ prajajña iṃdro asya veda |*) (Ṛ. Saṃ. 10-73-10)
+Here, since it says (Indra) came from anger and stood in the house, the meaning is again house.
+Although in some places the word हर्म्य (*harmya*) may indicate "one who dwells in a house", yet since in the Ṛk Ṛ. Saṃ. 7-55-6 given above it is clearly said "house" or "building", it would not be very reasonable to assign another kind of meaning to the word. Still, the word is also seen used in the sense of pit, hollow.
+यदीं सुक्षत्र प्रभृता मदस्य युयुत्संतं तमसि हर्म्ये धाः । (*yadīṃ sukṣatra prabhṛtā madasya yuyutsaṃtaṃ tamasi harmye dhāḥ |*) (Ṛ. Saṃ. 5-32-5)
+In this Ṛk ("O Indra, you cast the demon Śuṣṇa, who desired to fight, into a pit filled with pitch darkness") it is used in the sense of pit; and
+युवं कण्वाय नासत्यापिरिप्ताय हर्म्ये । शश्वदूतीर्वशस्यथः । (*yuvaṃ kaṇvāya nāsatyāpiriptāya harmye | śaśvadūtīrvaśasyathaḥ |*) (Ṛ. Saṃ. 8-5-23)
+in this Ṛk ("O Nāsatyas, you give help to the seer Kaṇva, who was cast by the Asuras into a pit") the word हर्म्य (*harmya*) is used in the sense of pit.
+श्रमस्य दायं वि भजंत्येभ्यो यदा यमो भवति हर्म्ये हितः । (*śramasya dāyaṃ vi bhajaṃtyebhyo yadā yamo bhavati harmye hitaḥ |*) (Ṛ. Saṃ. 10-114-10)
+In this Ṛk ("when Yama is seated in his house or in the lower world") it is used in the sense of house or lower world. Besides, the word घर्म (*gharma*) in the Ṛks Ṛ. Saṃ. 1-112-7; 1-119-6; 8-73-3; 10-80-3 also indicates that the seer Atri was cast into a pit full of flames of fire.
+
+### Printed p. 24
+
+##### Grammar
+
+- तविषीभिः — तव इति सौत्रधातुः । अस्मात् तनेणिद्वा (उ. सू. १-४८) इति टिषच् प्रत्ययः । टित्त्वात् टिड्डाणञ् इति स्त्रीत्वे ङीप् । व्यत्ययेन आद्युदात्तस्वरो भवति । तृतीयाबहुवचनांतरूपम् ।
+- अव्यत — वी गत्यादिषु । छांदसत्वेन वर्तमानार्थे लङ् व्यत्ययो बहुलम् इति आत्मनेपदी भवति । शपि लुक् । बहुवचने झ प्रत्ययस्य आतादेशः । यणादेशः । अडागमः पूर्वं भवति । यद्योगत्वान्निघातस्वरो न भवति । आद्युदात्तो भवति ।
+- एवासः — इण् गतौ धातुः । इण्‌शीभ्यां वन् (उ. सू. १-१५०) इति वन् प्रत्ययः । तन्निमित्तं धातोर्गुणः । नित्त्वादाद्युदात्तस्वरो भवति । जसि परे आज्जसेरसुक् (पा. सू. ७-१-५०) इति असुगागमः ।
+- स्वयतासः — स्वः यतः येषां ते स्वयतासः । बहुव्रीहौ प्रकृत्या पूर्वपदम् इति पूर्वपदप्रकृतिस्वरो भवति ।
+- अध्रजन् — धृज गतौ धातुः । छांदसत्वेन वर्तमानार्थे लङ् । प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरो भवति ।
+- भयंते — इभी भये धातुः । व्यत्ययेन आत्मनेपदी भवति । लट् प्रथमपुरुषबहुवचने झोंतः इति अंतादेशः । व्यत्ययेन शपि श्लुआदेशो न भवति । शप्निमित्तं धातोरिको गुणः अयादेशः । पादादित्वान्निघातस्वरो न भवति । तास्यनुदात्तेत् इति सूत्रेण लसार्वधातुकस्य अनुदात्तत्वात् धातुस्वरः शिष्यते ।
+- विश्वा, हर्म्या — शेश्छंदसि बहुलं इति नपुंसके शेः लोपः ।
+- चित्रः — चिञ् चयने धातुः । अमिचिमिदि (उ. सू. ४-६०३) इति क्त्र प्रत्ययः । कित्त्वाद्गुणो न भवति । प्रत्ययस्वरेण अंतोदात्तो भवति ।
+- प्रयतासु — गतिरनंतरः (पा. सू. ६-२-४९) इति कर्मणि क्तप्रत्ययांतस्य परत्वात् गतेः प्रकृतिस्वरो भवति । सप्तमीबहुवचनांतरूपम् ।
+- यामः — या प्रापणे धातुः । अर्तिस्तुसु (उ. सू. १-१३७) इति मन् प्रत्ययः । नित्त्वादाद्युदात्तो भवति ।
+
 ---
 
-**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
+**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
