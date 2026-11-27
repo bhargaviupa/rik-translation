@@ -1444,6 +1444,148 @@ Let us, endowed with wealth and other prosperity, carry out in our house Agni's 
 
 दात्रं (*dātraṃ*)—दानं (*dānaṃ*). The meaning is gift, giving. For words such as दाता (*dātā*) and दात्रं (*dātraṃ*), formed from the root दा दाने (*dā dāne*), the meaning is "one who gives" and "giving".
 
+### Printed p. 61
+In the Ṛks असि भगो असि दात्रस्य दातासि मघवा मघवद्भ्य इंदो । (*asi bhago asi dātrasya dātāsi maghavā maghavadbhya iṃdo |*) (Ṛ. Saṃ. 9-97-55), आनेहो दात्रमदितेरनर्वं हुवे स्वर्वदवधं नमस्वत् । (*āneho dātramaditeranarvaṃ huve svarvadavadhaṃ namasvat |*) (Ṛ. Saṃ. 1-185-3), युवं हि स्फो रयिदौ नो रयाणां दात्रं रक्षेथे आकवैरदब्बा । (*yuvaṃ hi spho rayidau no rayāṇāṃ dātraṃ rakṣethe ākavairadabbā |*) (Ṛ. Saṃ. 3-54-16) and सुदामन्तद्रेक्णो अप्रमृष्यमृजिश्वने दात्रं दाशुषे दाः । (*sudāmantadrekṇo apramṛṣyamṛjiśvane dātraṃ dāśuṣe dāḥ |*) (Ṛ. Saṃ. 6-20-7), and likewise in Ṛ. Saṃ. 7-56-21; 8-43-33; 10-69-4; 8-44-18 and other Ṛks, the word दात्र (*dātra*) means only "gift, giving".
+
+आदितेरिव (*āditeriva*)—The word अदिति (*aditi*) is read among the names of the earth (Ni. 2-5), among the names of speech (Ni. 2-23), among the names of the cow (Ni. 3-9), and, in the dual, among the names of heaven and earth (Ni. 3-22). Besides, Yāska says अदितिरदीना देवमाता (*aditiradīnā devamātā*) (Ni. 4-23). We have already explained at length the derivation and meaning of this word.
+
+चन (*cana*)—चनेत्ययं यद्यपि निपातद्वयसमुदायरूप एको निपातः तथाप्यवयवविभागेन चशब्दः समुच्चये नशब्दो निषेधेऽधिगंतव्यः । (*canetyayaṃ yadyapi nipātadvayasamudāyarūpa eko nipātaḥ tathāpyavayavavibhāgena caśabdaḥ samuccaye naśabdo niṣedhe 'dhigaṃtavyaḥ |*) Although the word चन (*cana*) is regarded as a single word made up of two indeclinables, if it is divided into its parts, the indeclinable च (*ca*) indicates conjunction and the indeclinable न (*na*) indicates negation. To stress the sense of negation ("not even"), the word is used in many Ṛks:
+
+यस्मादृते न सिध्यति यज्ञो विपश्चितश्च न । स धीनां योगमिन्वति ॥ (*yasmādṛte na sidhyati yajño vipaścitaśca na | sa dhīnāṃ yogaminvati ‖*) (Ṛ. Saṃ. 1-18-7)
+न पंचभिर्दशभिर्वष्ट्यारभं नासुन्वता सचते पुष्यता चन । (*na paṃcabhirdaśabhirvaṣṭyārabhaṃ nāsunvatā sacate puṣyatā cana |*) (Ṛ. Saṃ. 5-34-5)
+नहि ते क्षत्रं न सहो न मन्युं वयश्चनामी पतयंत आपुः । (*nahi te kṣatraṃ na saho na manyuṃ vayaścanāmī patayaṃta āpuḥ |*) (Ṛ. Saṃ. 1-24-6)
+तृतीयमस्य नकिरा दधर्षति वयश्चन पतयंतः पतत्रिणः ॥ (*tṛtīyamasya nakirā dadharṣati vayaścana patayaṃtaḥ patatriṇaḥ ‖*) (Ṛ. Saṃ. 1-155-5)
+
+### Printed p. 62
+दिवश्चिदस्य वरिमा वि पप्रथ इंद्रं न मह्ना पृथिवी चन प्रति । (*divaścidasya varimā vi papratha iṃdraṃ na mahnā pṛthivī cana prati |*) (Ṛ. Saṃ. 1-55-1)
+
+In these and other Ṛks the word चन (*cana*) conveys the sense of negation in a special way. In some other Ṛks this word does not have the sense of negation:
+
+पूर्वीक्षन प्रसितयस्तरंति तं य इंद्रे कर्मणा भुवत् । (*pūrvīkṣana prasitayastaraṃti taṃ ya iṃdre karmaṇā bhuvat |*) (Ṛ. Saṃ. 7-32-13)
+उत्थं चन शस्यमानमगोररिरा चिकेत । न गायत्रं गीयमानं ॥ (*utthaṃ cana śasyamānamagorarirā ciketa | na gāyatraṃ gīyamānaṃ ‖*) (Ṛ. Saṃ. 8-2-14)
+अधा चन श्रद्दधति त्विषीमत इंद्राय वज्रं निघनिघ्नते वधं । (*adhā cana śraddadhati tviṣīmata iṃdrāya vajraṃ nighanighnate vadhaṃ |*) (Ṛ. Saṃ. 1-55-5)
+
+In these Ṛks, and in Ṛ. Saṃ. 8-78-10; 1-152-2; 4-18-9; 1-139-2; 5-41-13; 7-18-9; 8-91-3; 10-49-5; 6-26-7 and other Ṛks, the word चन (*cana*) does not have the sense of negation.
+
+##### Grammar
+
+- सुजाताः — शोभनं जातं येषां ते सुजाताः । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+- महित्वनं — भावार्थे तस्यभावस्त्वतल् इति त्वप्रत्ययः । तस्मिन् अम्परे छांदसतया प्रकृतेर्नकारागमो भवति ।
+- दात्रं — डुदाञ् दाने इति धातुः । तस्माद् भावार्थे दादिभ्यश्चंदसि (उ. सू. ४-६०९) इति त्रप्रत्ययः । प्रत्ययस्वरेणांतोदात्तो भवति ।
+- चन — पदकाले एकपदत्वेन परिगणितेऽपि अस्मिन्नवयवविभागं कृत्वा चकारः समुच्चये नकारो निषेधे प्रयुक्त इति ज्ञातव्यम् ।
+- त्यजसा — त्यज हानौ इति धातुः । सर्वधातुनिबंधनोऽसुन्प्रत्ययः । इत्यादिर्नित्यं इति आद्युदात्तस्वरो भवति । तृतीयैकवचनांतरूपम् ।
+- ह्रुणाति — इदं सौत्रो धातुः । कौटिल्यार्थे प्रयुक्तः । व्यत्ययेन श्नाविकरणम् । लट् प्रथमपुरुषैकवचनांतप्रयोगः । तिजंतनिघातस्वरो भवति ।
+
+### Printed p. 63
+- सुकृते — शोभनं करोति इति सुकृत् । क्विप् च इति क्विपि आगते ह्रस्वस्य पितिकृतितुक् (पा सू. ६-१-७१) इति तुकागमः । प्रादिसमासे कृदुत्तरपदप्रकृतिस्वरो भवति । चतुर्थ्येकवचनांतरूपम् ।
+- अराध्वं — रा दाने अदादिः । व्यत्ययो बहुलं इति आत्मनेपदी भवति । लज् मध्यमपुरुषबहुवचनांतरूपम् । यद्वृत्तान्नित्यं (पा. सू. ८-१-६६) इति निघातप्रतिषेधाद् आद्युदात्तो भवति ।
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वो॑ जामि॒त्वं म॑रुतः॒ परे॑ यु॒गे पु॒रू यच्छंस॑ममृतास॒  ॑
+> आवत ।  
+> अ॒या धि॒या मन॑वे श्रु॒ष्टिमाव्या॑ सा॒कं नरो॑ दं॒सनै॒रा चि॑कित्रिरे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वः । जामित्वं । मरुतः । परे । युगे । पुरु । यत् । शंसं । अमृतासः ।  
+> आवत ।  
+> अया । धिया । मनवे । श्रुष्टिं । आव्य । साकं । नरः । दंसनैः । आ । चिकित्रिरे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो जामित्वं बंधुत्वमस्मद्विषयप्रेमाधिक्यं तत् खलु प्रसिद्धमित्यर्थः । कियत्पर्यंतमिति तदुच्यते । परे युगे । युगशब्दः कालोपलक्षकः ।
+> उत्कृष्टे महति कालेऽतीतेपि वर्तत इति शेषः । तत्कथमधिगतमित्यत आह । अमृतासोऽमरणधर्माणो हे मरुतः यूयं यद्यस्माच्छंसमस्माभिः क्रियमाणां
+> स्तुतिं पुरु प्रभूतं यथा भवति तथावत रक्षथ । तस्माद्युष्मत्कृतं जामित्वमविनाशीत्यर्थः । किंच यूयमया धियानयानुग्रहात्मकया बुद्ध्या मनवे मनुष्याय
+> स्तोत्रे यष्टे वास्मदादये श्रुष्टिमान्य कीर्तिं स्तुतिं ना रक्षित्वा साकं संभूय
+> नरो नेतारः संतो दंसनैः कर्मभिरित्थंभूता आ चिकित्सिरे । सर्वतो जानीथ ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, that kinship (जामित्वं (*jāmitvaṃ*)) of yours, your abundant affection towards us, is well known." How long does it last? That is said: परे युगे (*pare yuge*). The word युग (*yuga*) indicates time; the sense to be supplied is that it exists even in a great, excellent time that is past. How is that known? He answers: you immortals, O Maruts, since you protect abundantly the praise (शंसं (*śaṃsaṃ*)) made by us, therefore the kinship shown by you is imperishable. Further, with this gracious intent you protect fame and praise (श्रुष्टिं (*śruṣṭiṃ*)) for man (मनवे (*manave*)), the praiser or sacrificer, such as ourselves; together, as leaders, by your deeds you become thus known on every side (आ चिकित्रिरे (*ā cikitrire*), which he glosses "you know").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) अमृतासः (*(he) amṛtāsaḥ*)—O immortal Maruts, (you)
+- यत् (*yat*)—for which reason
+- शंसं (*śaṃsaṃ*)—the praise made by us
+- पुरु (*puru*)—so that it becomes abundant
+- अवत (*avata*)—you protect!
+- *(kiṃca)*—and
+- आया धिया (*āyā dhiyā*)—with this intelligence in the form of favour towards us
+- मनवे (*manave*)—for human beings like us, the praisers
+- श्रुष्टिं आव्य (*śruṣṭiṃ āvya*)—protecting fame (praise)
+- साकं (*sākaṃ*)—(all) together
+- नरः (*naraḥ*)—as (our) leaders
+- दंसनैः (*daṃsanaiḥ*)—by which deeds (made by us)
+- आ चिकित्रिरे (*ā cikitrire*)—you become knowing on every side (you become satisfied)
+- (हे) मरुतः (*(he) marutaḥ*)—(O) Maruts
+- तत् (*tat*)—such
+- वः (*vaḥ*)—your
+- जामित्वं (*jāmitvaṃ*)—kinship
+- परे युगे (*pare yuge*)—lasting for a very long time
+
+### Printed p. 64
+
+##### भावार्थ (Bhāvārtha)
+
+O immortal Maruts, you regard the praise we make as abundant; with a gracious intent you create fame for people like us, the praisers, and, becoming our leaders and having deeds performed, you are satisfied with them. Such kinship of yours is everlasting.
+
+##### English translation (H. H. Wilson)
+Your alliance with us, Maruts, is of a long duration: on which account, immortals. accept our ample praise; and, having accepted our laudation, be gratified, leaders (of sacrifice), by our holy acts, through this (your) favourable disposition towards mankind.
+
+##### विशेषविषयगळु (Special Topics)
+
+जामित्वं (*jāmitvaṃ*)—The word जामि (*jāmi*) is read among the names of water (Ni. 2-24). But here the commentator has explained the word जामित्वं (*jāmitvaṃ*) as kinship. Yāska says in his Nirukta:
+
+न जामये भगिन्यै । जामिरन्येऽस्यां जनयंति जामपत्यं । जमतेर्ना स्याद्गतिकर्मणो निर्गमनप्राया भवति ॥ (*na jāmaye bhaginyai | jāmiranye 'syāṃ janayaṃti jāmapatyaṃ | jamaternā syādgatikarmaṇo nirgamanaprāyā bhavati ‖*) (Ni. 3-2)
+
+That is, the word जामि (*jāmi*) means a sister (भगिनी (*bhaginī*)). For, since others, that is, the husband, beget sons in this woman, she is called जामि (*jāmi*). Or, since the word जामि (*jāmi*) has the sense of going—because after marriage this woman leaves the house she was born in and goes to the husband's house—the sister is called जामि (*jāmi*); such is the derivation he gives. In this Ṛk the general sense of kinship is appropriate.
+
+### Printed p. 65
+युगे (*yuge*)—युगशब्दः कालोपलक्षकः । उत्कृष्टे महति कालेऽतीतेऽपि । (*yugaśabdaḥ kālopalakṣakaḥ | utkṛṣṭe mahati kāle 'tīte 'pi |*) The word युग (*yuga*) indicates time. Here परे युगे (*pare yuge*) means "even though a very long time has passed". The relation between us, the sacrificers, and the Maruts is not one that lasts only a short time; the sense is that it lasts for a very long time.
+
+शंसं (*śaṃsaṃ*)—अस्माभिः क्रियामाणां स्तुतिं । (*asmābhiḥ kriyāmāṇāṃ stutiṃ |*) The hymn made by us. Since the root शंस् (*śaṃs*) has the sense "to say", शंस (*śaṃsa*) means saying. According to context this sense is explained in many Ṛks as hymn, or as curse (cursing).
+
+यजाम देवान् यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवाः । (*yajāma devān yadi śaknavāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ |*) (Ṛ. Saṃ. 1-27-13)
+आनादहो दिव आ वस्युमुच्चा प्र सुन्वतः स्तुवतः शंसमावः ॥ (*ānādaho diva ā vasyumuccā pra sunvataḥ stuvataḥ śaṃsamāvaḥ ‖*) (Ṛ. Saṃ. 1-33-7)
+आ वो रुवण्युमौशिजो हुवध्यै घोषेव शंसमर्जुनस्य नंशे । ( (*ā vo ruvaṇyumauśijo huvadhyai ghoṣeva śaṃsamarjunasya naṃśe | (*) (Ṛ. Saṃ. 1 122-5)
+
+In these Ṛks the word शंस (*śaṃsa*) is used in the senses of hymn, praise, extolling; and in
+
+मा नः शंसो अररुषो धूर्तिः प्रणङ्मर्त्यस्य । (*mā naḥ śaṃso araruṣo dhūrtiḥ praṇaṅmartyasya |*) (Ṛ. Saṃ. 1-18-3)
+
+and other Ṛks the word शंस (*śaṃsa*) is used in the senses of slander, evil speech, curse.
+
+##### Grammar
+
+- जामित्वं — जामेः भावः जामित्वम् । तस्यभावस्त्वतल् इति त्वप्रत्ययः ।
+- युगे — युजिर् योगे इति धातुः । घञ्प्रत्ययः । चजोः कुघिण्यतोः (पा. सू. ७-३-५२) इति धातुजकारस्य कुत्वम् । कालविशेषार्थे उंभादिषु पठितत्वात् उंभादीनां च (पा. सू. ६-१-१६०) इत्यंतोदात्तस्वरो भवति । पाठसामर्थ्यादेव प्रत्ययनिमित्ततया प्राप्तो लघूपधगुणो न भवति ।
+- अमृतासः — न विद्यते मृतं मरणं येषां ते । अज्जसेरसुक् (पा. सू. ७-१-५०) इति जस आसुकागमः । आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरो भवति ।
+
+### Printed p. 66
+- आवत — अव रक्षणे इति धातुः । छंदसि लुज् लज् लिटः इति लोडर्थे लज् । मध्यमपुरुषबहुवचनांतरूपम् । यद्योगान्निघातस्वरो न भवति । अडागमस्योदात्तत्वाद् आद्युदात्तो भवति ।
+- अया — अनया इति रूपे व्यत्ययेन छंदसि नकारलोपः ।
+- धिया — तृतीयैकवचनांतरूपम् । सावेकाचस्तृतीयादिः इति विभक्तेरुदात्तस्वरो भवति ।
+- आव्य — आज् उपसर्गः । अव रक्षणे इति धातुः । तस्मात् क्त्वाप्रत्यये आगते समासेनञ्पूर्वे क्तो ल्यप् (पा. सू. ७-१-३७) इति तस्य ल्यबादेशः । पित्तात् अनुदात्तो भवति ।
+- नरः — न्य नये इति धातुः । क्विप्प्रत्ययः । जस्परे ऋतोजि सर्वनामस्थानयोः इति गुणः रपरत्वेन भवति ।
+- चिकित्त्रिरे — कित ज्ञाने इति धातुः । छंदसि लुज् लज् लिटः इति लडर्थे लिट् । व्यत्ययेन मध्यमपुरुषबहुवचनस्थाने प्रथमपुरुषबहुवचनप्रत्ययो भवति । लिटस्तझयो इति तस्य इरे आदेशः । बहुलं छंदसि (पा. सू. ७-१-८) इति तस्य रुटागमः । टित्त्वात् आद्यवयवो भवति । कुहोश्चुः इत्यभ्यासस्य चुत्वम् । अतिजंतस्य परत्वान्निघातस्वरो भवति ।
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॑ दी॒र्घं म॑रुतः शू॒शवा॑म यु॒ष्माके॑न॒ परी॑णसा तुरासः ।  
+> आ यत्त॒तन॑न्व॒जने॒ जना॑स ए॒भिर्य॒ज्ञेभि॒स्तद॒भीष्टि॑मश्यां ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । दीर्घं । मरुतः । शूशनाम । युष्माकेन । परीणसा । तुरासः ।  
+> आ । यत् । ततनन् । वृजने । जनासः । एभिः । यज्ञेभिः । तत् । अभि । इष्टिं ।  
+> अश्यां ॥ १४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
+**Progress note:** Done through printed p. 66. pp. 61-66 (batch API)
