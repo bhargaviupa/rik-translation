@@ -430,3 +430,98 @@
 | 346 | `sixteen [?] names of form` → `sixteen names of form` | SECOND-PASS Q2: [q177] Kannada p.346 prints ವರ್ಷ ಶಬ್ದವು ಹದಿನಾರು ರೂಪನಾಮ(ಗಳಲ್ಲಿ) (ನಿ. 3-13), agreeing with the English |
 | 346 | `*aśvibhiḥ* [as read [?]]` → `*ātmīyaiḥ*` | SECOND-PASS Q1: [q176] Kannada p.346 prints ವರ್ಪಾಂಸಿ—ಆತ್ಮೀಯೈಃ ಕರ್ಮಭಿಃ ಕೃತಾನಿ ರೂಪಾಣಿ; IAST by sp_sanskrit.py |
 | 347 | `iti tat-prastāve* [?] …"` → `iti tatparastādvakṣyati*"` | SECOND-PASS Q1: [q178] Kannada p.347 prints ಇತಿ ತತ್ಪರಸ್ತಾದ್ವಕ್ಷ್ಯತಿ; IAST by sp_sanskrit.py |
+
+### 2026-11-27 second pass, batch m29-133.tsv
+| page | old → new | why |
+|---|---|---|
+| 347 | ` [the Kannada exposition is partly in small type, read with doubt [?]]` → `` | SECOND-PASS Q2: [q29] Meta-remark clause removed with its mark; Kannada p.347 carries the passage |
+| 347 | `(Pā. Sū. 6-1-70 (as the numeral list reads it here; p. 352 reads 70 [?]))` → `(Pā. Sū. 6-1-70)` | SECOND-PASS Q1: [q30] Kannada p.347 prints (ಪಾ. ಸೂ. ೬-೧-೭೦) |
+| 347 | `root's *i*-vowel [?] by` → `root's *i*-vowel by` | SECOND-PASS Q2: [q31] Kannada p.347 prints ಧಾತುವಿನ ಇಕ್ಕಿಗೆ ಗುಣ, agrees |
+| 348 | `(Pā. Sū. 3-2-102 (the list reads 103 on p. 348 and 102 on p. 363 for the same sūtra [?]))` → `(Pā. Sū. 3-2-103)` | SECOND-PASS Q1: [q32] Kannada p.348 prints ನಿಷ್ಠಾ (ಪಾ. ಸೂ. ೩-೨-೧೦೩); Kannada's number taken |
+| 348 | `*vṛtyayo bahulam* [as read [?]]` → `*vyatyayo bahulam*` | SECOND-PASS Q1: [q34] Kannada p.348 prints ವ್ಯತ್ಯಯೋ ಬಹುಲಮ್ (IAST by sp_sanskrit.py) |
+| 350 | `used in connection [?];` → `used in connection;` | SECOND-PASS Q2: [q35] Kannada p.350 prints ಚವಾಯೋಗೇ ಪ್ರಥಮೇತಿ ನಿಘಾತಪ್ರತಿಷೇಧಃ, agrees |
+| 354 | `chaplain of Khela [as read [?]]` → `chaplain of Khela [as read]` | SECOND-PASS Q2: [q36] Kannada p.354 prints ಖೇಲಪುರೋಹಿತಸ್ಯ, agrees |
+| 355 | `great-splendoured fish [?]"` → `great-splendoured fish"` | SECOND-PASS Q2: [q37] Kannada p.355 prints ಜಲೇ ಮತ್ಸ್ಯೋ ಮಹಾದ್ಯುತಿಃ, agrees |
+| 356 | `*snādīnāṃ hrasvaḥ* (Pā. Sū. 7-3-80 [as read in the numeral list; the first word printed *p` → `*pvādīnāṃ hrasvaḥ* (Pā. Sū. 7-3-80)` | SECOND-PASS Q1: [q38] Kannada p.356 prints ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವಃ (ಪಾ. ಸೂ. ೭-೩-೮೦) (IAST by sp_sanskrit.py); the unmarked 'snādīnāṃ' at p.357 left, listed in open.tsv |
+| 359 | `*ha ca chandasi* [?]` → `*vā ha ca chandasi*` | SECOND-PASS Q1: [q40] Kannada p.359 prints ವಾ ಹ ಚ ಛಂದಸೀತಿ (IAST by sp_sanskrit.py) |
+| 362 | `(Pā. Sū. 7-2-4 as the list reads it [?])` → `(Pā. Sū. 7-2-4)` | SECOND-PASS Q1: [q42] Kannada p.362 prints ಕುತಿಹೋಃ (ಪಾ. ಸೂ. ೭-೨-೪) |
+| 362 | `(Pā. Sū. 3-1-39; the numeral list reads this sūtra as 3-1-39 on pp. 362–363 and 3-1-39 on ` → `(Pā. Sū. 3-1-39)` | SECOND-PASS Q1: [q43] Kannada p.362 prints ಸುಪಾಂ ಸುಲುಕ್ (ಪಾ. ಸೂ. ೩-೧-೩೯) |
+| 362 | `an *avagraha* would be present [?];` → `an *avagraha* would be present;` | SECOND-PASS Q2: [q44] Kannada p.362 prints ಇದನ್ನು ಅನುಸರಿಸಿದರೆ ಅವಗ್ರಹವಿದ್ದೇ ಇದೆ, agrees |
+| 364 | `medical treatment [as read [?]]` → `medical treatment [as read]` | SECOND-PASS Q2: [q45] Kannada p.364 prints ಭೈಷಜ್ಯಲಕ್ಷಣೈಃ ಕರ್ಮಭಿಃ, agrees |
+| 364 | `(in the form of a bright wealth [?], beauty [?])` → `(in the form of a thousand Ṛks, wealth, beauty)` | SECOND-PASS Q1: [q46] Kannada p.364 prints ಋಕ್ಸಹಸ್ರರೂಪಯಾ ಸಂಪದಾ ಕಾಂತ್ಯಾ; q46 and q47 settled in one edit |
+| 365 | `aśmīyaiḥ* [as read [?]]` → `ātmīyaiḥ*` | SECOND-PASS Q1: [q48] Kannada p.365 prints ಆತ್ಮೀಯೈಃ ಭೈಷಜ್ಯರೂಪೈಃ ಕರ್ಮಭಿಃ (IAST by sp_sanskrit.py) |
+| 365 | `a thousand [shining things — printed 'śukla' [?]] and Sūryā` → `a thousand Ṛks (staked as the wager) and Sūryā` | SECOND-PASS Q1: [q49] Kannada p.365 prints ಪಣವಾಗಿಟ್ಟಿದ್ದ ಸಹಸ್ರ ಋಕ್ಕುಗಳನ್ನೂ ಸೂರ್ಯಾ ಎಂಬವಳನ್ನೂ |
+| 367 | `*sārvadhātukam apit* (Pā. Sū. 1-2-4 as read [?]) makes` → `*sārvadhātukam apit* makes` | SECOND-PASS S3: [q50] Kannada p.367 prints ಸಾರ್ವಧಾತುಕಮಪಿತ್ with no sūtra number; number removed |
+| 368 | `with ancient praises [?],` → `with ancient praises,` | SECOND-PASS Q2: [q51] Kannada p.368 prints ಪುರಾತನ ಸ್ತುತಿವಾಕ್ಯಗಳಿಂದ, agrees |
+| 370 | `*bahuvacane jhalyet* [as printed; Pā. number illegible in the list [?]],` → `*bahuvacane jhalyet*,` | SECOND-PASS S3: [q52] Kannada p.370 prints ಬಹುವಚನೇ ಝಲ್ಯೇತ್ with no sūtra number; number removed |
+| 370 | `(U. Sū. 1-150 as the list reads it [?])` → `(U. Sū. 1-150)` | SECOND-PASS Q1: [q53] Kannada p.370 prints ಇಣ್ ಶೀಜ್ಭ್ಯಾಂ ವನ್ (ಉ. ಸೂ. ೧-೧೫೦) |
+| 371 | `(U. Sū. 2-186? [as read, partly illegible [?]])` → `(U. Sū. 2-186)` | SECOND-PASS Q1: [q55] Kannada p.371 prints ಋಜ್ರೇಂದ್ರಾಗ್ರವಜ್ರ (ಉ. ಸೂ. ೨-೧೮೬) |
+| 374 | `(Pā. Sū. 3-4-117 [as read; list 3-4-17 [?]])` → `(Pā. Sū. 3-4-107)` | SECOND-PASS Q1: [q57] Kannada p.374 prints ಛಂದಸ್ಯುಭಯಥಾ (ಪಾ. ಸೂ. ೩-೪-೧೦೭); Kannada's number taken |
+| 376 | `whose light is uncovered [?].` → `whose light is uncovered.` | SECOND-PASS Q2: [q58] Kannada p.376 prints ವೃಕ ಇತಿ ವಿವೃತಜ್ಯೋತಿಷ್ಕಃ ಸೂರ್ಯ ಉಚ್ಯತೇ, agrees |
+| 376 | `as he turns...' [?] —` → `as he turns...' —` | SECOND-PASS Q2: [q59] Kannada p.376 prints ಆದಿತ್ಯೋಽಪಿ ವೃಕ ಉಚ್ಯತೇ ಯದಾವೃಂಕ್ತೇ, agrees |
+| 376 | `'Uṣas, desiring a horse [?], was seized by Āditya; the Aśvins freed her'` → `'Uṣas, seized by Āditya, called the Aśvins; the Aśvins freed her'` | SECOND-PASS Q1: [q60] Kannada p.376 prints ಆಹ್ವಯದುಷಾ ಅಶ್ವಿನಾವಾದಿತ್ಯೇನಾಭಿಗ್ರಸ್ತಾ ತಾಮಶ್ವಿನೌ ಪ್ರಮುಮುಚತುರಿತ್ಯಾಖ್ಯಾನಂ |
+| 380 | `since the suffix is *jit-* [?] [as read: "*jid-dvāva*"],` → `since the suffix has *jidvadbhāva*,` | SECOND-PASS Q1: [q61] Kannada p.380 prints ಪ್ರತ್ಯಯಕ್ಕೆ ಜಿದ್ವದ್ಭಾವವಿರುವುದರಿಂದ (IAST by sp_sanskrit.py); unmarked '(Pā. Sū. 2-4 [list])' vs Kannada ೨-೪-೭೨ left |
+| 381 | `(*vāhana*) [as read [?]]` → `(*vāhana*) [as read]` | SECOND-PASS Q2: [q62] Kannada p.381 prints ಅಶ್ವಿನೋರ್ವಾಹನಾಯ ರಾಸಭಾಯ, agrees |
+| 381 | `the father's curse [?];` → `the father's curse;` | SECOND-PASS Q2: [q63] Kannada p.381 prints ಪಿತೃಶಾಪಾನ್ನಷ್ಟೇ ಚಕ್ಷುಷೀ, agrees |
+| 383 | `since *īt-va* [?] is` → `since *īt-va* is` | SECOND-PASS Q2: [q64] Kannada p.383 prints ಈತ್ವವು ಪರಸೂತ್ರದಿಂದ ವಿಧಿಸಿರುವುದರಿಂದ, agrees |
+| 383 | `[Pā. Sū. 3-4-94 as read [?]]` → `[Pā. Sū. 3-4-9]` | SECOND-PASS Q1: [q65] Kannada p.384 prints ತುಮನರ್ಥೇ ಸೇಸೇನಸೇ… (ಪಾ. ಸೂ. ೩-೪-೯); Kannada's number taken |
+| 387 | `*vicchoyīvāyoḥ* [as read [?]]` → `*ecoyavāyāvaḥ*` | SECOND-PASS Q1: [q66] Kannada p.387 prints ಏಚೋಯವಾಯಾವಃ ಎಂಬುದರಿಂದ ಅಯಾದೇಶ (IAST by sp_sanskrit.py) |
+| 389 | `the fifth case [?]…` → `the fifth case…` | SECOND-PASS Q2: [q68] Kannada p.389 prints ಪಂಚಮೀ ಕರ್ಮಾಣಂ, agrees |
+| 389 | `visīvyati deśāv iti* [as read [?]]` → `visīvyati deśāv iti* [as read]` | SECOND-PASS Q2: [q69] Kannada p.389 prints ವಿಸೀವ್ಯತಿ ದೇಶಾವಿತಿ, agrees |
+| 391 | `Uṇ. sū. 4-557 as read [?]]` → `Uṇ. sū. 4-557]` | SECOND-PASS Q1: [q70] Kannada p.391 prints ಇನ್ ಸರ್ವಧಾತುಭ್ಯಃ (ಉ. ಸೂ. ೪-೫೫೭) |
+| 391 | `(U. Sū. 4-188 as read [?])` → `(U. Sū. 4-628)` | SECOND-PASS Q1: [q71] Kannada p.391 prints ಸರ್ವಧಾತುಭ್ಯ ಅಸುನ್ (ಉ. ಸೂ. ೪-೬೨೮); Kannada's number taken |
+| 392 | `specially attached to [?], i.e. with wasted limbs [?];` → `with the limbs specially attached, i.e. with wasted limbs;` | SECOND-PASS Q1: [q72] Kannada p.392 prints ವಿಷಕ್ತಾಂ ವಿಶೇಷೇಣ ಸಕ್ತಾವಯವಾಂ । ಕೃಶಾವಯವಾಂ; q72 and q73 settled in one edit |
+| 393 | `much emaciated [?];` → `much emaciated;` | SECOND-PASS Q2: [q74] Kannada p.393 prints ವಿಷಕ್ತಾಂ—ಬಹಳಕೃಶವಾಗಿದ್ದ, agrees |
+| 394 | `fifty-one names of speech (Ni. 1-11 [as read]), among the twenty-six names of action (Ni. ` → `fifty-seven names of speech (Ni. 2-23), among the twenty-six names of action (Ni. 3-2), an` | SECOND-PASS Q1: [q75] Kannada p.394 prints ಐವತ್ತೇಳು ವಾಙ್ನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೨-೨೩) ಇಪ್ಪತ್ತಾರು ಕರ್ಮನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೨) ಹದಿನಾಲ್ಕು ಪ್ರಜ್ಞಾನಾಮಗಳಲ್ಲಿಯೂ (ನಿ. ೩-೧೩); Kannada's figures t |
+| 394 | `(U. Sū. 4-158 as read [?])` → `(U. Sū. 4-438)` | SECOND-PASS Q1: [q76] Kannada p.394 prints ಅವಿತ್ಯಸ್ತಂತ್ರಿಭ್ಯ ಈಃ (ಉ. ಸೂ. ೪-೪೩೮) |
+| 394 | `*yaṇ* substituted; the *udātta* standing in the place of the semivowel [?];` → `*yaṇ* substituted in the place of the *udātta*;` | SECOND-PASS Q1: [q77] Kannada p.394 prints ಉದಾತ್ತ ಸ್ಥಾನದಲ್ಲಿ ಯಣಾದೇಶ ಬಂದು |
+| 397 | `(Ni. 3-48 as read [?])` → `(Ni. 12-34)` | SECOND-PASS Q1: [q78] Kannada p.397 prints ಮನುರ್ಮನನಾತ್ (ನಿ. ೧೨-೩೪) |
+| 399 | `[the root] is *jit* [?],` → `[the root] is *jit*,` | SECOND-PASS Q2: [q79] Kannada p.399 prints ಅಪಿತ್ತಾದ ಸಾರ್ವಧಾತುಕ ... ಜಿದ್ವದ್ಭಾವವಿರುವುದರಿಂದ, agrees |
+| 407 | `for the root *sac* in the group [?];` → `for the root *ṣaca samavāye*;` | SECOND-PASS Q1: [q80] Kannada p.407 prints ಛಾಂದಸವಾಗಿ ಷಚ ಸಮವಾಯೇ ಈ ಧಾತುವಿಗೆ ಣ್ವಿ ಪ್ರತ್ಯಯ (IAST by sp_sanskrit.py) |
+| 410 | `*a* for the *m* [?];` → `*a* for the *m*;` | SECOND-PASS Q2: [q81] Kannada p.410 prints ವ್ಯತ್ಯಯದಿಂದ ಮಕಾರಕ್ಕೆ ಆತ್ವ, agrees (Kannada ರರಮ್ vs English 'rerām' listed in open.tsv) |
+| 412 | `the sacrifice (?) [as read [?]]:` → `the sacrifice:` | SECOND-PASS Q2: [q83] Kannada p.412 prints ವಿದಥಂ ವೇದಯಂತಮತಿಥಿಂ, agrees |
+| 412 | `suffix [*athan*?] [?])` → `suffix *atha*)` | SECOND-PASS Q1: [q84] Kannada p.412 prints ರುವಿದಿಭ್ಯಾಂ ಕಿದಿತ್ಯಥಪ್ರತ್ಯಯಃ |
+| 415 | `the [third (?) — printed *śaitīyam* [?]] sūkta` → `the third sūkta` | SECOND-PASS Q1: [q85] Kannada p.415 prints ತೃತೀಯಂ ಸೂಕ್ತಂ |
+| 415 | `*(small numerals; read "19, 20" — as printed [?])*` → `१८, १९` | SECOND-PASS Q1: [q86] Kannada p.415 prints ವರ್ಗ-೧೮, ೧೯ (Devanagari digits made by sp_sanskrit.py) |
+| 416 | `the name for horses is *śyena* [?]]` → `the name for horses is *śyena*]` | SECOND-PASS Q2: [q87] Kannada p.416 prints ಶ್ಯೇನಾ ಇತ್ಯಶ್ವನಾಮ, agrees |
+| 419 | `since it is *su*-final [?] and *ugit*, *num*` → `when *su* follows, and since it is *ugit*, *num*` | SECOND-PASS Q1: [q88] Kannada p.419 prints ಸುಪರವಾದಾಗ ಉಗಿತ್ತಾದುದರಿಂದ ನುಮಾಗಮ |
+| 423 | `*pravate iti gatikarmā* [as read [?]]` → `*pravate iti gatikarmā* [as read]` | SECOND-PASS Q2: [q89] Kannada p.423 prints ಪ್ರವತೇ ಇತಿ ಗತಿಕರ್ಮಾ, agrees |
+| 423 | `yāmaḥ yajñaḥ* [?]` → `yāmaḥ yajñaḥ*` | SECOND-PASS Q2: [q90] Kannada p.423 prints ಯಾಂತಿ ದೇವತಾ ಯಸ್ಮಿನ್ ಸಃ ಯಾಮಾ ಯಜ್ಞಃ, agrees |
+| 431 | `U. Sū. 1-154 as read [?]]` → `U. Sū. 1-149]` | SECOND-PASS Q1: [q91] Kannada p.431 prints ಅಶುಪುಷಿ—(ಉ. ಸೂ. ೧-೧೪೯) ಎಂಬುದರಿಂದ ಕ್ವನ್ ಪ್ರತ್ಯಯ; Kannada's number taken |
+| 435 | `pressing-chamber [?]` → `pressing-chamber` | SECOND-PASS Q2: [q92] Kannada p.435 prints ಶತದ್ವಾರೇ ಪೀಡಾಯಂತ್ರಗೃಹೇ, agrees |
+| 435 | `with cold water [?];` → `with cold water;` | SECOND-PASS Q2: [q93] Kannada p.435 prints ತುಷಾಗ್ನಿಂ ಶೀತೇನೋದಕೇನ, agrees |
+| 435 | `know the dawn in the rain [?]'` → `know the risen dawn'` | SECOND-PASS Q1: [q94] Kannada p.435/436 prints ಇಹಾಸೀನಃ ಸನ್ ವ್ಯುಷ್ಟಾಮುಷಸಂ ಜಾನೀಹಿ (vyuṣṭām uṣasam, not 'in the rain') |
+| 435 | `shows the dawn [?].` → `shows the dawn.` | SECOND-PASS Q2: [q95] Kannada p.436 prints ಉಷಃಕಾಲ ಸೂಚಕವಾದ ವೀಣಾಧ್ವನಿ, agrees |
+| 436 | `vṛṣṭyām uṣasaṃ jānīhi iti andhakāragṛhe praveśitāya kaṇvāya ṛṣaye* [?]` → `vyuṣṭām uṣasaṃ jānīhi iti andhakāragṛhe praveśitāya kaṇvāya ṛṣaye*` | SECOND-PASS Q1: [q96] Kannada p.436 prints ವ್ಯುಷ್ಟಾಮುಷಸಂ ಜಾನೀಹಿ ಇತಿ ಅಂಧಕಾರಗೃಹೇ ಪ್ರವೇಶಿತಾಯ ಕಣ್ಣಾಯ ಋಷಯೇ (IAST by sp_sanskrit.py) |
+| 439 | `seized by the Sun [?].` → `seized by the Sun.` | SECOND-PASS Q2: [q97] Kannada p.439 prints ಆದಿತ್ಯನಿಂದ (ಗ್ರಸ್ತಳಾಗಿದ್ದವಳನ್ನು), agrees |
+| 439 | `(the sun's) seizure [?];` → `(the sun's) seizure;` | SECOND-PASS Q2: [q98] Kannada p.439 prints ಅಂಹಸಃ—ಆದಿತ್ಯನಿಂದ, agrees |
+| 441 | `(Pā. Sū. 7-1-59 as read; compare 7-1-55 at p. 335 [?])` → `(Pā. Sū. 7-1-59)` | SECOND-PASS Q1: [q99] Kannada p.441 prints ಶೇಮುಚಾದೀನಾಮ್ (ಪಾ. ಸೂ. ೭-೧-೫೯) |
+| 442 | `[for] the enemy of the *vaiśya*?? [as read [?]]` → `[for] the enemy` | SECOND-PASS Q1: [q100] Kannada p.442 prints ಅರ್ಯೋರೇಃ ಶತ್ರೋಃ and ಆರ್ಯಃ—ಶತ್ರುವಿಗೆ |
+| 450 | `*parameśvaryeṇa vithyam āsevitāḥ* [as read; small type [?]] — 'those served with supreme l` → `*paramaiśvaryeṇa nityamāsevitāḥ* — 'those constantly served with supreme lordship'` | SECOND-PASS Q1: [q101] Kannada p.450 prints ಪರಮೈಶ್ವರ್ಯೇಣ ನಿತ್ಯಮಾಸೇವಿತಾಃ, ಪರಮೈಶ್ವರ್ಯದಿಂದ ದಿನಂಪ್ರತಿಯೂ (IAST by sp_sanskrit.py) |
+| 451 | `(Pā. Sū. 6-1-160 [as read; the page reads *6-1-100* [?]])` → `(Pā. Sū. 6-1-160)` | SECOND-PASS Q1: [q102] Kannada p.451 prints ಉತ್ತಮ ಶಶ್ವತ್ತಮೌ ಸರ್ವತ್ರ (ಪಾ. ಸೂ. ೬-೧-೧೬೦) |
+| 452 | `*(small numerals; read "20, 21" — as printed [?])*` → `२०, २१` | SECOND-PASS Q1: [q103] Kannada p.452 prints ವರ್ಗ—೨೦, ೨೧ (Devanagari digits made by sp_sanskrit.py) |
+| 457 | `*mahāvīra* vessel [?],` → `*mahāvīra* vessel,` | SECOND-PASS Q2: [q104] Kannada p.457 prints ಘರ್ಮಂ ಮಹಾವೀರಸ್ಥಂ, agrees |
+| 464 | `*anakāra* [?] has come` → `*anakāra* has come` | SECOND-PASS Q2: [q105] Kannada p.464 prints ಅನಕಾರದ ಪರದಲ್ಲಿ ಬಂದಂತಾಗುವುದರಿಂದ, agrees |
+| 465 | `— the *a*-ending [?]; the *yatva*` → `— *etva* does not come; the *yatva*` | SECOND-PASS Q1: [q106] Kannada p.465 prints ಓಸಿ ಚ ಎಂಬುದರಿಂದ ಏತ್ವ ಬರುವುದಿಲ್ಲ |
+| 465 | `[as read: *cekitthe*? [?]]` → `[on the stem *cekitya*]` | SECOND-PASS Q1: [q107] Kannada p.465 prints ಚೇಕಿತ್ಯ ಎಂಬುದರ ಮೇಲೆ ಲಿಟ್ (IAST by sp_sanskrit.py) |
+| 468 | `in place of *śluḥ* [?];` → `in place of *śluḥ*;` | SECOND-PASS Q2: [q108] Kannada p.468 prints ಶ್ಲುವಿಗೆ ಬದಲಾಗಿ ಶವಿಕರಣ, agrees |
+| 469 | `(as read; Pā. Sū. 6-2-?? [?])` → `(Pā. Sū. 6-2-21-1)` | SECOND-PASS Q1: [q109] Kannada p.469 prints ದಿವೋದಾಸಾದೀನಾಂ ಛಂದಸ್ಯುಪಸಂಖ್ಯಾನಮ್ (ಪಾ. ಸೂ. ೬-೨-೨೧-೧) |
+| 470 | `for friendship (for [the sake of] the Sun [?])` → `for friendship` | SECOND-PASS Q1: [q110] Kannada p.470/471 prints ಸಖ್ಯಾಯ—ಸ್ನೇಹಕ್ಕೋಸ್ಕರ, no mention of the Sun |
+| 479 | `*aśvāghasya* [?] *yat*` → `*aghnyādayaś ca*, *yat*` | SECOND-PASS Q1: [q111] Kannada p.479 (Bhāṣya) prints ಪನ ಸ್ತುತ್ । ಅಘ್ನ್ಯಾದಯಶ್ಚೇತಿ ಭಾವೇ ಯತ್ (IAST by sp_sanskrit.py) |
+| 496 | `*vikāra-ādeśayoḥ pare ṣaṭkṛṣṇa* [as read [?]] *tanuśirā*` → `*ekādaśinoḥ paraḥ ṣaṭkastanuśirā*` | SECOND-PASS Q1: [q114] Kannada p.496 prints ಏಕಾದಶಿನೋಃ ಪರಃ ಷಟ್ಕಸ್ತನುಶಿರಾ (IAST by sp_sanskrit.py) |
+| 498 | `*(small numerals; read "22, 23" — as printed [?])*` → `२२, २३` | SECOND-PASS Q1: [q115] Kannada p.498 prints ವರ್ಗ—೨೨, ೨೩ (Devanagari digits made by sp_sanskrit.py) |
+| 503 | `By the rule of the *pareṇa kṛtā* [?]` → `By the rule of residue (*pariśeṣanyāya*)` | SECOND-PASS Q1: [q116] Kannada p.503 prints ಪರಿಶೇಷನ್ಯಾಯದಿಂದ (IAST by sp_sanskrit.py) |
+| 504 | `elision by the *ḍā*-substitution [?];` → `elision by the *ḍā*-substitution;` | SECOND-PASS Q2: [q117] Kannada p.504 prints ಡಾದೇಶ. ದಿತ್ವ ಸಾಮರ್ಥ್ಯದಿಂದ ಟಿಗೆ ಲೋಪ, agrees |
+| 506 | `*mananīyam ṛjujātam* [as read [?]]` → `*mananīyam arthajātam*` | SECOND-PASS Q1: [q118] Kannada p.506 prints ಮನ್ಮ ಮನನೀಯಮರ್ಥಜಾತಂ ಎಂದು ವೃತ್ತಿಕಾರರು (IAST by sp_sanskrit.py) |
+| 509 | `the eight [?] names` → `the eight names` | SECOND-PASS Q2: [q119] Kannada p.509 prints ಪಾಕ ಶಬ್ದವು ಎಂಟು ಪ್ರಶಸ್ಯನಾಮ…, agrees |
+| 510 | `accusative [as printed: dual] following with *plural* [?],` → `accusative plural following,` | SECOND-PASS Q1: [q120] Kannada p.510 prints ದ್ವಿತೀಯಾ ಬಹುವಚನ ಪರವಾದಾಗ (accusative plural) |
+| 520 | `na kaṃnoteḥ yuvām [?] arthamupakṣayathaḥ` → `na tanoteḥ yuvāmatyarthamupakṣayathāḥ` | SECOND-PASS Q1: [q122] Kannada p.520 prints ನ ತನೋತೇಃ ಯುವಾಮತ್ಯರ್ಥಮುಪಕ್ಷಯಥಾಃ (IAST by sp_sanskrit.py); q122 and q123 are in the same remark |
+| 520 | `ity arthaḥ* [as read; small type [?]] — 'the form` → `ity arthaḥ* [as read] — 'the form` | SECOND-PASS Q2: [q123] Kannada p.520 prints the rest of the passage (ಯಸ್ಮೈ ದೇಯಂ ಧನಂ ... ಇತ್ಯರ್ಥಃ), agrees |
+| 521 | `the elision of the *ati* [?] occurs` → `the elision of the *ati* occurs` | SECOND-PASS Q2: [q124] Kannada p.521 prints ಛಾಂದಸವಾಗಿ ಅತಿಗೆ ಲೋಪ ಬರುತ್ತದೆ, agrees |
+| 526 | `[as read; Pā. Sū. 3-2-171 vārttika? [?]]` → `(Pā. Sū. 3-2-171-1)` | SECOND-PASS Q1: [q125] Kannada p.526 prints ಉತ್ಸರ್ಗಶ್ಛಂದಸಿ (ಪಾ. ಸೂ. ೩-೨-೧೭೧-೧) |
+| 530 | `[and] the *āhavanīya* [?] etc.` → `[and] the *ahīna* [rites] etc.` | SECOND-PASS Q1: [q126] Kannada p.530 prints ಸತ್ರಾಹೀನಾದಿಯಾಗ and ಸತ್ರಯಾಗ, ಅಹೀನರೂಪವಾದ ಕ್ರತುಗಳು |
+| 533 | `twenty-eight [?] names` → `twenty-eight names` | SECOND-PASS Q2: [q127] Kannada p.533 prints ಇಪ್ಪತ್ತೆಂಟು ಧನನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೯), agrees (unmarked 'Ni. 2-10 [as read]' differs, in open.tsv) |
+| 537 | `*(small numerals; read "24, 25, 26" — as printed [?])*` → `२४, २५, २६` | SECOND-PASS Q1: [q128] Kannada p.537 prints ವರ್ಗ-೨೪, ೨೫, ೨೬ (Devanagari digits made by sp_sanskrit.py) |
+| 544 | `twenty-one [?] names of the earth (Ni. 1-?? [as read: 'ನಿ. ೧-೩'])` → `twenty-one names of the earth (Ni. 2-5)` | SECOND-PASS Q1: [q129] Kannada p.544 prints ಇಪ್ಪತ್ತೊಂದು ಪೃಥಿವೀನಾಮಗಳಲ್ಲಿ (ನಿ ೨-೫); Kannada's number taken |
+| 547 | `*dhārer ṇiluk ca* [as read; Uṇ. sū. 3-?? [?]],` → `*dhārer ṇiluk ca*,` | SECOND-PASS S3: [q130] Kannada p.547 prints ಧಾರೇರ್ಣಿಲುಕ್‌ಚ—ಎಂಬುದರಿಂದ with no sūtra number; number removed |
+| 560 | `asuras who trouble the Śiśnas [?] and the like` → `asuras and others who trouble the righteous` | SECOND-PASS Q1: [q131] Kannada p.560 prints ಶಿಷ್ಟರನ್ನು ಬಾಧೆಮಾಡುವ ಅಸುರರೇ ಮೊದಲಾದವರನ್ನು |
