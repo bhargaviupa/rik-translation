@@ -19821,6 +19821,251 @@ Therefore to-day at sunrise we solicit you with hymns for (wealth) Varuna, Mitra
 > ऋतवानः । ऋतजाताः । ऋतवृधः । घोरासः । अनृतद्विषः ।  
 > तेषां । वः । सुम्ने । सुच्छर्दिःतमे । नरः । स्याम । ये । च । सूरयः
 
+### Printed p. 475
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यूयमृतावान ऋतवंतो यज्ञवंत उदकवंतो वा ऋतजाताः । उक्त ऋतशब्दार्थः । तदर्थमुत्पन्नाः । अथवा । ऋतात्प्रजापतेः सकाशादुत्पन्नाः । ऋतावृध उक्तार्थस्यर्तस्य वर्धयितारो घोरासो घोरा अनृतद्विषोऽयज्वद्वेष्टारः तेषां वो युष्माकं सुच्छर्दिष्टमे सुखतमे सुम्ने धनेऽत्यंतरमणीयेगृहयुक्ते सुखे वा ये वयं ये चास्ये सूरयः स्तोतारः ते सर्वे स्यामु । भवेमु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the words of the verse. ऋतावानः (*ṛtāvānaḥ*) means those who possess ऋत (*ṛta*): rites or sacrifice, or water. ऋतजाताः (*ṛtajātāḥ*) means those born for that purpose, or else those born from Ṛta, that is, from Prajāpati. ऋतावृध (*ṛtāvṛdha*) means those who increase Ṛta in the sense already stated. *ghorāsaḥ* means the fierce. अनृतद्विषः (*anṛtadviṣaḥ*) means haters of those who do not sacrifice. सुच्छर्दिष्टमे (*succhardiṣṭame*) means "most pleasant", and सुम्ने (*sumne*) means "in wealth" or in a delightful happiness that includes a house. The sense is: "May we, and those others who are your praisers, all be in that happiness of yours."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावानः (*ṛtāvānaḥ*)—performers of sacrifice, or givers of water
+- ऋतजाताः (*ṛtajātāḥ*)—those born for the sake of sacrifice, or for giving water
+- ऋतवृधः (*ṛtavṛdhaḥ*)—those who increase the sacrifice or the water
+- घोरासे (*ghorāse*)—those who behave cruelly toward enemies
+- अनृतद्विषः (*anṛtadviṣaḥ*)—those who cannot bear liars, or who hate those who do not sacrifice
+- तेषां वः (*teṣāṃ vaḥ*)—of you, who are distinguished by such qualities
+- सुच्छर्दिष्टमे (*succhardiṣṭame*)—pleasant
+- सुम्ने (*sumne*)—in the matter of giving wealth
+- नरः (*naraḥ*)—we, the sacrificers
+- ये च सूरयः (*ye ca sūrayaḥ*)—and the other people who praise
+- स्यामु (*syāmu*)—may we become worthy of your favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, Varuṇa and the other deities! You are the managers of the sacrifice, or those who supply people with water in the form of rain; you are born for the sake of the sacrifice or of the water, and you make the sacrifice or the water increase. You are cruel by nature toward enemies and hate those who speak untruth or do not sacrifice. May we, the sacrificers, and the others who praise you, become worthy of your favour in your pleasant gift of wealth.
+
+##### English translation
+Acceptors of rites, generated for rites, augmenters of rites, fierce enemies of the neglector of rites, may we, as well as those men who are your adorers, be in (the enjoyment of) the highest felicity, all confirmed by you.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ त्यद्द॑र्श॒तं वपु॑र्दि॒व ए॑ति प्रतिह्व॒रे ।  
+> यदी॑मा॒शुर्वह॑ति दे॒व एत॑शो॒ विश्व॑स्मै॒ चक्ष॑से॒ अरं॑ ॥ १४ ॥
+
+### Printed p. 476
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । त्यत् । दर्शतं । वपुः । दिवः । एति । प्रतिऽह्वरे ।  
+> यत् । ईं । आशुः । वहति । देवः । एतशः । विश्वस्मै । चक्षसे । अरं ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमातिरेके माध्यंदिनसवने नैमित्तिके शस्त्र उदु त्यदित्ययं प्रगाथोऽनुरूपः । सूत्रितं च । ब्रह्मा असि सूर्योदु त्यद्दर्शतं वपुरिति प्रगाथौ स्तोत्रियानुरूपौ । आ. ७. ७ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवनेऽयमेव वैकल्पिकः स्तोत्रियस्तृचः । सूत्रितं च । उदु त्यद्दर्शतं वपुरुदु त्ये मधुमत्तमाः । आ. ७-४ । इति ॥
+> त्यत्तद्दर्शतं दर्शनीयं वपुर्मंडलं दिवोऽंतरिक्षस्य प्रतिह्वरे समीपे उद्येति । उदेति । उ इति पूरणः । यदीं यदेतन्मंडलमाशुः शीघ्रगाम्येतश एतवर्णोऽश्वो वहति धारयति । किमर्थं । विश्वस्मै सर्वस्मा अरं चक्षसे सम्यक्सर्वलोकदर्शनाय ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: at the midday pressing, in the occasional (naimittika) śastra when there is an excess of soma, this verse उदु त्यत् (*udu tyat*) is the pragātha anurūpa. It is stated in the sūtra: ब्रह्मा असि सूर्योदु त्यद्दर्शतं वपुरिति प्रगाथौ स्तोत्रियानुरूपौ (*brahmā asi sūryodu tyaddarśataṃ vapuriti pragāthau stotriyānurūpau*) (Ā. 7-7). On the Cāturviṃśika day, at the midday pressing, this same verse is the optional stotriya tṛca; the sūtra is उदु त्यद्दर्शतं वपुरुदु त्ये मधुमत्तमाः (*udu tyaddarśataṃ vapurudu tye madhumattamāḥ*) (Ā. 7-4).
+Meaning: that beautiful form, the orb, rises near the edge of the sky; उ (*u*) is a filler. The swift Etaśa, the white-coloured horse, bears that orb, for what purpose? For all to see well, that is, for the clear viewing of the whole world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्यत् (*tyat*)—that well-known
+- दर्शतं (*darśataṃ*)—visible to all, or beautiful
+- वपुः (*vapuḥ*)—the orb of the sun
+- दिवः (*divaḥ*)—of the sky
+- प्रतिह्वरे (*pratihvare*)—near, that is, at the edge
+- उदु एति (*udu eti*)—rises
+- यदीं (*yadīṃ*)—that sun-orb which is such
+- आशुः (*āśuḥ*)—swiftly moving
+- एतशः (*etaśaḥ*)—the sun's horse
+- विश्वस्मै अरं चक्षसे (*viśvasmai araṃ cakṣase*)—so that all people may see well
+- वहति (*vahati*)—carries
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known sun-orb, visible to all, is just now rising at the edge of the sky. The swift horse of the sun carries this orb along the path of the sky so that all people may see it well.
+
+##### English translation
+That beautiful orb (of the sun) rises on the near margin of the sky as the swift, divine, white-coloured (steed) bears it along for the beholding of all men.
+
+##### विशेषविषयगळु (Special Topics)
+
+When there is an excess of soma at the midday pressing, in reciting the mantras of the occasional śastra, this Ṛk beginning उदु त्यत् (*udu tyat*) is to be recited as the anurūpa pragātha mantra. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra
+### Printed p. 477
+ब्रह्मा असि सूर्योदु त्यद्दर्शतं वपुरिति प्रगाथौ स्तोत्रियानुरूपौ (*brahmā asi sūryodu tyaddarśataṃ vapuriti pragāthau stotriyānurūpau*) (Ā. 7-7). And on the day of the sacrifice called Cāturviṃśika, at the midday pressing, this same Ṛk is to be recited as the optional stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra उदु त्यद्दर्शतं वपुरुदु त्ये मधुमत्तमाः (*udu tyaddarśataṃ vapurudu tye madhumattamāḥ*) (Ā. 7-4).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शी॒र्ष्णःशी॑र्ष्णो॒ जग॑तस्त॒स्थुष॒स्पतिं॑ स॒मया॒ विश्व॒मा रजः॑ ।  
+> स॒प्त स्वसा॑रः सुवि॒ताय॒ सूर्यं॒ वहं॑ति ह॒रितो॒ रथे॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शीर्ष्णःऽशीर्ष्णः । जगतः । तस्थुषः । पतिं । समया । विश्वं । आ । रजः ।  
+> सप्त । स्वसारः । सुविताय । सूर्यं । वहंति । हरितः । रथे ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शीर्ष्णः शीर्ष्णः सर्वस्यापि शिरसः । तृतीयार्थे पंचमी । स्वस्वशिरसेत्यर्थः । सूर्यं वहंतीत्यनेन संबध्यते । अथवा शिरःशब्देन श्रेष्ठपदार्थो लक्ष्यते । वीप्सया तस्य कार्त्स्न्यमुच्यते । सर्वस्य श्रेष्ठमित्यर्थः । जगतो जंगमस्य तस्थुषः स्थावरस्य पतिं स्वामिनं रथे वर्तमानं सूर्यं सुविताय कल्याणाय विश्वं रजः समया सर्वलोकस्य समीपे ॥ अभितः परितः समयेत्यादिना । म २-३-२-१ । समयाशब्दयोगात् द्वितीया ॥ सप्त सप्तसंख्याकाः स्वसारोऽन्यनिरपेक्षेण स्वयमेव सरंत्यो हरितो हरितवर्णा अश्वा वहंति ॥
+
+##### Gist of the bhāṣya
+
+शीर्ष्णः शीर्ष्णः (*śīrṣṇaḥ śīrṣṇaḥ*) means "of every head"; the fifth case is used in the sense of the third, so the meaning is "each by its own head", construed with सूर्यं वहंति (*sūryaṃ vahaṃti*). Or else the word "head" denotes the chief thing, and by repetition totality is expressed: the best of everything. He is the lord of the moving world and of the stationary, the sun in his chariot. विश्वं रजः (*viśvaṃ rajaḥ*) is in the accusative because of the word समया (*samayā*) ("near"), by the rule cited as Ma. 2-3-2-1: near the whole world, for its welfare. The seven self-moving, that is, independent, green-coloured horses carry him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शीर्ष्णःशीर्ष्णः (*śīrṣṇaḥśīrṣṇaḥ*)—supreme like the head
+- जगतः तस्थुषः (*jagataḥ tasthuṣaḥ*)—of the whole world, moving and stationary
+- पतिं (*patiṃ*)—the lord
+- रथे (*rathe*)—seated in the chariot
+- सूर्यं (*sūryaṃ*)—the sun
+- सुविताय (*suvitāya*)—for the welfare of the world
+- विश्वं रजः (*viśvaṃ rajaḥ*)—of all the worlds
+- समया (*samayā*)—near
+- स्वसारः (*svasāraḥ*)—having the power to move by themselves
+- सप्त हरितः (*sapta haritaḥ*)—the seven green-coloured horses of the sun
+- वहंति (*vahaṃti*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+The seven green horses of the sun, moving of themselves (without anyone's impulsion), carry the sun, lord of the whole world of the moving and the unmoving, seated in his chariot, for the welfare of the world, near the earth and sky, that is, so that all can see him.
+### Printed p. 478
+
+##### English translation
+The seven gliding steeds convey the sun, the lord of every individual moving of stationary thing, traversing the whole world in his chariot for the good (of all).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तच्चक्षु॑र्दे॒वहि॑तं शु॒क्रमु॒च्चर॑त् ।  
+> पश्ये॑मु श॒रदः॑ श॒तं जीवे॑मु श॒रदः॑ श॒तं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । चक्षुः । देवऽहितं । शुक्रं । उत्ऽचरत् ।  
+> पश्येम । शरदः । शतं । जीवेम । शरदः । शतं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्प्रसिद्धं चक्षुः सर्वस्य प्रकाशकं देवहितं देवानां हितं । तेषां हविःस्वीकारस्यैतदधीनत्वात् । अथवा देवेन हितं । शुक्रं निर्मलं सूर्यमंडलमुच्चरत् । उद्गच्छति । तच्छरदः शतं शतसंवत्सरं पश्येमु । जीवेमु शरदः शतं । पुनः श्रुतिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+That well-known eye, the illuminator of all, is देवहितं (*devahitaṃ*), beneficial to the gods, since their acceptance of oblations depends on it; or else it is "set by a god". शुक्रं (*śukraṃ*) means the pure orb of the sun, which *uccarat* rises. "May we see it for a hundred autumns, a hundred years; may we live a hundred autumns." The repetition of the phrase is for emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तत् (*tat*)—that well-known
+- चक्षुः (*cakṣuḥ*)—that which is like an eye for the whole universe, or which gives light
+- देवहितं (*devahitaṃ*)—beneficial to the gods, or placed in the sky by the gods for the welfare of the world
+- शुक्रं (*śukraṃ*)—the pure (bright) orb of the sun
+- उत्चरत् (*utcarat*)—rises and moves (or moves westward in the upper region of the sky)
+- तत् (*tat*)—that sun-orb
+- शरदः शतं (*śaradaḥ śataṃ*)—for a hundred years
+- पश्येमु (*paśyemu*)—may we see
+- शरदः शतं (*śaradaḥ śataṃ*)—for a hundred years
+- जीवेमु (*jīvemu*)—may we live
+
+##### भावार्थ (Bhāvārtha)
+
+The sun-orb, which is like an eye for the whole world or sheds light, which is beneficial to the gods or placed in the sky by the gods for the world's good, and which shines pure, moves westward in the sky after rising. May we live a hundred years and see such a sun-orb; that is, may we live long.
+### Printed p. 479
+
+##### English translation
+That pure eye (of the universe), beneficial to the gods, rises : may we behold it for a hundred years : may we live a hundred years.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> काव्ये॑भिरदा॒भ्या या॑तं वरुण द्यु॒मत् ।  
+> मि॒त्रश्च॒ सोम॑पीतये ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> काव्येभिः । अदाभ्या । आ । यातं । वरुण । द्युऽमत् ।  
+> मित्रः । च । सोमऽपीतये ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृष्ठ्यभिप्लवषडहयोः स्तोमनिमित्त आवापे काव्येभिरदाभ्येति तृचः ।
+> काव्येभिरदाभ्येति तिस्रः । आ. ७-५ । इति हि सूत्रितं ॥
+> हे अदाभ्यादंभनीयौ हे वरुण त्वं मित्रश्च द्युमद्द्युतिमंतौ युवां काव्येभिरस्मत्कृतैः स्तोत्रैरा यातं । किमर्थं । सोमपीतये सोमपानाय ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: in the insertion (āvāpa) occasioned by the stomas in the Pṛṣṭhya and Abhiplava ṣaḍahas, the tṛca काव्येभिरदाभ्या (*kāvyebhiradābhyā*) is used; the sūtra is काव्येभिरदाभ्येति तिस्रः (*kāvyebhiradābhyeti tisraḥ*) (Ā. 7-5).
+Meaning: O Varuṇa, you and Mitra, unassailable and radiant, come with the praises made by us. For what purpose? To drink soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदाभ्या (*adābhyā*)—unassailable by enemies
+- वरुण (*varuṇa*)—O Varuṇa, you
+- मित्रः च (*mitraḥ ca*)—and Mitra
+- द्युमत् (*dyumat*)—you two, radiant
+- काव्येभिः (*kāvyebhiḥ*)—praised by the hymns we make
+- सोमपीतये (*somapītaye*)—for drinking soma
+- आ यातं (*ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, free from the molestation of enemies and radiant, come here, praised by our hymns and the like, to drink soma.
+
+##### English translation
+Unconquerable, resplendet Varuna and Mitra, (induced) by our praises, come to drink the soma juice.
+### Printed p. 480
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifices called Pṛṣṭhya and Abhiplava-ṣaḍaha, for the insertion of the stomas, this tṛca, that is, three Ṛks, beginning काव्येभिरदाभ्या (*kāvyebhiradābhyā*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra काव्येभिरदाभ्येति तिस्रः (*kāvyebhiradābhyeti tisraḥ*) (Ā. 7-5).
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो धाम॑भिर्वरुण मि॒त्रश्चा या॑तम॒द्रुहा॑ ।  
+> पिब॑तं॒ सोम॑मातु॒जे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । धामऽभिः । वरुण । मित्रः । च । आ । यातं । अद्रुहा ।  
+> पिबतं । सोमं । आतुजी इत्याऽतुजी ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण त्वं मित्रश्चाद्रुहा द्रोग्धारौ युवां दिवो द्युलोकसंबंधिभ्यो धामभिर्धामभ्यः स्थानेभ्यः । पंचम्यर्थे तृतीया । अथवा धामभिस्तेजोभिर्विभूतिभिः सार्धमा यातं । अस्मद्यज्ञमागच्छतं । आगत्य चातुजे शत्रूणां सर्वतो हिंसकावादातारौ वा धनानां एवं रूपौ संतौ सोमं पिबतं ॥ तुजि पिजि हिंसाबलादाननिकेतनेषु । अत्र हिंसायामादाने वा वर्तते ।
+
+##### Gist of the bhāṣya
+
+O Varuṇa, you and Mitra, अद्रुहा (*adruhā*), harming none, come with the abodes (धामभिः (*dhāmabhiḥ*)) belonging to the heavenly world; the instrumental is used in the sense of the ablative, "from the places". Or else, come together with your splendours and powers: come to our sacrifice. Having come, you two, who are आतुजे (*ātuje*), injurers of enemies on every side, or receivers of wealth, drink the soma. The root तुजि (*tuji*) (with पिजि (*piji*)) is used in the senses of harming, strength, taking, and dwelling; here it is in the sense of harming or taking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa, you
+- मित्रः च (*mitraḥ ca*)—and Mitra
+- अद्रुहा (*adruhā*)—you two, who wish no one harm
+- दिवः धामभिः (*divaḥ dhāmabhiḥ*)—from the places of the heavenly world, or radiant
+- आ यातं (*ā yātaṃ*)—come (toward our sacrifice), and then
+- आतुजे (*ātuje*)—you who harm enemies everywhere, or give wealth and the like to the praisers
+- सोमं (*somaṃ*)—the soma juice
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who do harm to none, set out from your places in the heavenly world, shining with radiance, and come to our sacrifice. Then, as destroyers of enemies or givers of wealth, drink the soma juice at our sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 474. pp. 469-474 (batch API)
+**Progress note:** Done through printed p. 480. pp. 475-480 (batch API)
