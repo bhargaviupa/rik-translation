@@ -306,3 +306,107 @@
 | 181 | `परैरभिगताः [?]` → `परैरनभिगताः` | SECOND-PASS Q1: Kannada p. 181 reads ಪರೈರನಭಿಗತಾಃ । ದುಷ್ಪ್ರಾಪಾ |
 | 181 | `parair abhigatāḥ [?]` → `parairanabhigatāḥ` | SECOND-PASS Q1: Kannada p. 181 reads ಪರೈರನಭಿಗತಾಃ |
 | 181 | `[print: *parair abhigatāḥ*, as read, doubtful]` → `(*parair anabhigatāḥ*)` | SECOND-PASS Q1: Kannada p. 181 reads ಪರೈರನಭಿಗತಾಃ |
+
+### 2026-11-27 second pass, batch e182-211.tsv
+| page | old → new | why |
+|---|---|---|
+| 182 | `४-१२[३?] [?]` → `४-१२` | SECOND-PASS Q1: Kannada p. 182 reads ४-१२ (ಉ. ೪-೧೨) |
+| 182 | `4-12[3?] [?]` → `4-12` | SECOND-PASS Q1: Kannada p. 182 reads 4-12 (ಉ. ೪-೧೨) |
+| 183 | `[1-?]3 as read [?]` → `2-23` | SECOND-PASS Q1: Kannada p. 183 reads (ನಿ ೨-೨೩) |
+| 183 | `doubtful [?]]` → `doubtful]` | SECOND-PASS Q2: Kannada p. 183 has the same two clauses (ದಿವ ಇತಿ ಪಂಚಮೀ । ನ ಶಬ್ದಃ ಉಪರಿಷ್ಟಾದುಪಚಾರಃ) |
+| 183 | `3-9 as read [?]` → `3-9 as read` | SECOND-PASS Q2: Kannada p. 183 reads (ನಿ. ೩-೯) |
+| 183 | `[forty-six, as read, ?]` → `forty-six` | SECOND-PASS Q1: Kannada p. 183 reads ೪೬ ಸಂಗ್ರಾಮನಾಮಗಳಲ್ಲಿ |
+| 184 | `3-39-4 [?] and 66-2]` → `5-59-4 and 6-66-2]` | SECOND-PASS Q1: Kannada p. 184 reads ೫-೫೯-೪ ; ೬-೬೬-೨ |
+| 184 | `केमुत्स्नवे [?] च प्रसवे च सासहिमिन्द्रं देवासः कवसामदन्ननु [?]` → `शमुत्सवे च प्रसवे च सासहिमिन्द्रं देवासः शवसामदन्ननु` | SECOND-PASS Q1: Kannada p. 184 reads ಶಮುತ್ಸವೇ ಚ ... ಶವಸಾಮದನ್ನನು (letters changed: ke->śa, tsna->tsa, ka->śa) |
+| 184 | `kemutsnave [?] ca prasave ca sāsahim indraṃ devāsaḥ kavasāmadann anu [?]` → `śamutsave ca prasave ca sāsahim indraṃ devāsaḥ śavasāmadann anu` | SECOND-PASS Q1: Kannada p. 184 reads ಶಮುತ್ಸವೇ ... ಶವಸಾಮದನ್ನನು |
+| 184 | `सासहिर्दधानो [?]` → `सासहिर्दधानो` | SECOND-PASS Q2: Kannada p. 184 reads ಸುಪ್ರಕೇತೇಭಿಃ ಸಾಸಹಿರ್ದಧಾನೋ |
+| 184 | `sāsahir dadhāno [?]` → `sāsahir dadhāno` | SECOND-PASS Q2: Kannada p. 184 reads ಸಾಸಹಿರ್ದಧಾನೋ |
+| 184 | `*supāṃ suṣo bhavanti* [?]` → `*supāṃ supo bhavanti*` | SECOND-PASS Q1: Kannada p. 184 reads ಸುಪಾಂ ಸುಪೋ ಭವಂತಿ (ṣ->p) |
+| 184 | `Uṇ. Sū. 4-[?]]` → `Uṇ. Sū. 4-452]` | SECOND-PASS Q1: Kannada p. 185 reads (ಉ. ಸೂ. ೪-೪೫೨) |
+| 186 | `printed pp. 186–[?]` → `printed pp. 186–191` | SECOND-PASS Q1: Kannada: the grammar of Rik 4 ends on p. 191 where Rik 5 begins |
+| 186 | `४-७३५, ७३६ [?]` → `४-२३५, २३६` | SECOND-PASS Q1: Kannada p. 186 reads ಉ. ಉ. ೪-೨೩೫, ೨೩೬ |
+| 186 | `4-735, 736 [?]` → `4-235, 236` | SECOND-PASS Q1: Kannada p. 186 reads ಉ. ಉ. ೪-೨೩೫, ೨೩೬ |
+| 186 | `ऽसुन् [?]` → `ऽसुन्` | SECOND-PASS Q2: Kannada p. 186 reads ಇತ್ಯೌಣಾದಿಕೋಽಸುನ್ |
+| 186 | `auṇādiko 'sun [?]` → `auṇādiko 'sun` | SECOND-PASS Q2: Kannada p. 186 reads ಇತ್ಯೌಣಾದಿಕೋಽಸುನ್ |
+| 186 | `तृतीया [?]` → `तृतीया` | SECOND-PASS Q2: Kannada p. 186 reads ತೃತೀಯಾ |
+| 186 | `tṛtīyā [?]` → `tṛtīyā` | SECOND-PASS Q2: Kannada p. 186 reads ತೃತೀಯಾ |
+| 187 | `द्रष्टव्यः [?]` → `द्रष्टव्यः` | SECOND-PASS Q2: Kannada p. 187 reads ದ್ರಷ್ಟವ್ಯಃ |
+| 187 | `draṣṭavyaḥ [?]` → `draṣṭavyaḥ` | SECOND-PASS Q2: Kannada p. 187 reads ದ್ರಷ್ಟವ್ಯಃ |
+| 188 | `1-[4?]958-9 as read [?]` → `1-45-3` | SECOND-PASS Q1: Kannada p. 188 reads (ಋ. ಸಂ. ೧-೪೫-೩) |
+| 188 | `1-[7?]8-3 as read [?]` → `1-78-3` | SECOND-PASS Q1: Kannada p. 188 reads (ಋ. ಸಂ. ೧-೭೮-೩) |
+| 188 | `1-1-3 as read [?]` → `1-1-3 as read` | SECOND-PASS Q2: Kannada p. 188 reads (ಮುಂಡಕೋಪನಿಷತ್ ೧-೧-೩) |
+| 188 | `1-1 as read [?]` → `1-31-1` | SECOND-PASS Q1: Kannada p. 188 reads (ಋ. ಸಂ. ೧-೩೧-೧) |
+| 189 | `3-34[4?] as read [?]` → `3-34` | SECOND-PASS Q1: Kannada p. 189 reads (ಐ. ಬ್ರಾ. ೩-೩೪) |
+| 189 | `5-11-6 as read [?]` → `5-11-6 as read` | SECOND-PASS Q2: Kannada p. 189 reads (ಋ. ಸಂ. ೫-೧೧-೬) |
+| 189 | `1-4-1-25?]5 as read [?]` → `1-4-1-25` | SECOND-PASS Q1: Kannada p. 189 reads (ಬ್ರಾ. ೧-೪-೧-೨೫) |
+| 189 | `10-14-6 as read [?]` → `10-14-6 as read` | SECOND-PASS Q2: Kannada p. 189 reads (ಋ. ಸಂ. ೧೦-೧೪-೬) |
+| 189 | `3-31-5 to 6 as read [?];` → `3-31-5 to 6 as read;` | SECOND-PASS Q2: Kannada p. 189 reads (ಋ. ಸಂ. ೩-೩೧-೫ ರಿಂದ ೬) |
+| 190 | `4-[?]-[?] as read, ?]` → `675-676]` | SECOND-PASS Q1: Kannada p. 190 reads (ಉ ಸೂ ೬೭೫-೬೭೬) |
+| 191 | `printed pp. 191–[?]` → `printed pp. 191–196` | SECOND-PASS Q1: Kannada: the grammar of Rik 5 ends on p. 196 where Rik 6 begins |
+| 193 | `2-34-2 as read [?]` → `2-34-2 as read` | SECOND-PASS Q2: Kannada p. 193 reads (ಋ. ಸಂ. ೨-೩೪-೨) |
+| 193 | `2-11-4 as read [?]` → `2-2-11-4` | SECOND-PASS Q1: Kannada p. 193 reads (ತೈ. ಸಂ. ೨-೨-೧೧-೪) |
+| 193 | `1-85-1[5?]-1 as read [?]` → `1-85-1` | SECOND-PASS Q1: Kannada p. 193 reads (ಋ. ಸಂ. ೧-೮೫-೧) |
+| 193 | `1-114-6 as read [?]` → `1-114-6 as read` | SECOND-PASS Q2: Kannada p. 193 reads (ಋ. ಸಂ. ೧-೧೧೪-೬) |
+| 193 | `1-1[4?]7-9 and 2-3[3?]-1 [as read [?]]` → `1-168-9 and 2-33-1` | SECOND-PASS Q1: Kannada p. 193 reads ೧-೧೬೮-೯ ; ೨-೩೩-೧ |
+| 194 | `केवेमे [?] पुत्राः` → `तवेमे पुत्राः` | SECOND-PASS Q1: Kannada p. 194 reads ತವೇಮೇ ಪುತ್ರಾಃ (letters changed: ke->ta, ve->ve) |
+| 194 | `keveme [?] putrāḥ` → `taveme putrāḥ` | SECOND-PASS Q1: Kannada p. 194 reads ತವೇಮೇ ಪುತ್ರಾಃ |
+| 194 | `11-21 as read [?]` → `11-21 as read` | SECOND-PASS Q2: Kannada p. 194 reads (ನಿ. ೧೧-೨೧) |
+| 196 | `printed pp. 196–[?]` → `printed pp. 196–201` | SECOND-PASS Q1: Kannada: the grammar of Rik 6 ends on p. 201 where Rik 7 begins |
+| 197 | `निर्माता [?]` → `निर्माता` | SECOND-PASS Q2: Kannada p. 197 reads ನಿರ್ಮಾತಾ |
+| 197 | `nirmātā [?]` → `nirmātā` | SECOND-PASS Q2: Kannada p. 197 reads ನಿರ್ಮಾತಾ |
+| 197 | `७-३-७८ [?]` → `६-३-७८` | SECOND-PASS Q1: Kannada p. 197 reads (ಪಾ. ೬-೩-೭೮) |
+| 197 | `7-3-78 [?]` → `6-3-78` | SECOND-PASS Q1: Kannada p. 197 reads (ಪಾ. ೬-೩-೭೮) |
+| 197 | `युष्माकास्माकौ [?] … अस्मच्छब्दस्यास्माकादेशः` → `युष्माकास्माकावित्यण्यस्मच्छब्दस्यास्माकादेशः` | SECOND-PASS Q1: Kannada p. 197 reads ಯುಷ್ಮಾಕಾಸ್ಮಾಕಾವಿತ್ಯಣ್ಯಸ್ಮಚ್ಛಬ್ದಸ್ಯಾಸ್ಮಾಕಾದೇಶಃ |
+| 197 | `yuṣmākāsmākau [?] … asmacchabdasyāsmākādeśaḥ` → `yuṣmākāsmākāv ity aṇy asmacchabdasyāsmākādeśaḥ` | SECOND-PASS Q1: Kannada p. 197 reads ಯುಷ್ಮಾಕಾಸ್ಮಾಕಾವಿತ್ಯಣ್ಯಸ್ಮಚ್ಛಬ್ದಸ್ಯಾಸ್ಮಾಕಾದೇಶಃ |
+| 197 | `विधेरनित्यत्वादैस्यैष्यभावः [?]` → `विधेरनित्यत्वाद्वृद्ध्यभावः` | SECOND-PASS Q1: Kannada p. 197 reads ವಿಧೇರನಿತ್ಯತ್ವಾದ್ವೃದ್ಧ್ಯಭಾವಃ |
+| 197 | `vidher anityatvād aisyaiṣyabhāvaḥ [?]` → `vidher anityatvād vṛddhyabhāvaḥ` | SECOND-PASS Q1: Kannada p. 197 reads ವಿಧೇರನಿತ್ಯತ್ವಾದ್ವೃದ್ಧ್ಯಭಾವಃ |
+| 197 | `1-97-3 as read [?]]` → `1-97-3 as read]` | SECOND-PASS Q2: Kannada p. 197 reads (ಋ. ೧-೯೭-೩) |
+| 198 | `10-29 as read [?]` → `10-29 as read` | SECOND-PASS Q2: Kannada p. 198 reads (ನಿ. ೧೦-೨೯) |
+| 198 | `उदक्रामन्त्स्मैक एव [?]` → `उदक्रामंस्तमेक एव` | SECOND-PASS Q1: Kannada p. 198 reads ಉದಕ್ರಾಮಂಸ್ತಮೇಕ ಏವ |
+| 198 | `udakrāman smaika eva [?]` → `udakrāṃs tam eka eva` | SECOND-PASS Q1: Kannada p. 198 reads ಉದಕ್ರಾಮಂಸ್ತಮೇಕ ಏವ |
+| 198 | `तान्यस्मिन्नो [?] प्रत्यतिष्ठत् [?]` → `तान्यस्मिन्मन्यौ प्रत्यतिष्ठत्` | SECOND-PASS Q1: Kannada p. 198 reads ತಾನ್ಯಸ್ಮಿನ್ಮನ್ಯೌ ಪ್ರತ್ಯತಿಷ್ಠತ್ |
+| 198 | `tāny asminno [?] pratyatiṣṭhat [?]` → `tāny asmin manyau pratyatiṣṭhat` | SECOND-PASS Q1: Kannada p. 198 reads ತಾನ್ಯಸ್ಮಿನ್ಮನ್ಯೌ ಪ್ರತ್ಯತಿಷ್ಠತ್ |
+| 198 | `91-1-6 as read [?]` → `9-1-1-6` | SECOND-PASS Q1: Kannada p. 198 reads (ಶ. ಬ್ರಾ. ೯-೧-೧-೬) |
+| 199 | `1-122–3 as read [?]` → `1-122-3` | SECOND-PASS Q1: Kannada p. 199 reads (ಬೃ. ಜೆ. ೧-೧೨೨-೩) |
+| 199 | `3-9 as read [?]` → `3-9 as read` | SECOND-PASS Q2: Kannada p. 199 reads (ನಿ. ೩-೯) |
+| 200 | `1-97-3 as read [?]]` → `1-97-3 as read]` | SECOND-PASS Q2: Kannada p. 200 reads (ಋ. ಸ. ೧-೯೭-೩) |
+| 201 | `printed pp. 201–[?]` → `printed pp. 201–206` | SECOND-PASS Q1: Kannada: the grammar of Rik 7 ends on p. 206 where Rik 8 begins |
+| 202 | `श्र्युकः किति [?] इति [rule-name clotted] इट्प्रतिषेधः` → `तितुत्रेतीट् प्रतिषेधः` | SECOND-PASS Q1: Kannada p. 202 reads ತಿತುತ್ರೇತೀಟ್ ಪ್ರತಿಷೇಧಃ (Kannada p. 204 gives Pā. Sū. 7-2-9 for this prohibition) |
+| 202 | `śryukaḥ kiti [?] iti [rule-name clotted] iṭpratiṣedhaḥ` → `titutretīṭ pratiṣedhaḥ` | SECOND-PASS Q1: Kannada p. 202 reads ತಿತುತ್ರೇತೀಟ್ ಪ್ರತಿಷೇಧಃ |
+| 202 | `अन्त्यैकार` → `अन्त्यविकार` | SECOND-PASS Q1: Kannada p. 202 reads ಅಂತ್ಯವಿಕಾರಶ್ಕಾಂದಸಃ (ai->vi) |
+| 202 | `ः [?] । यद्वा` → `ः । यद्वा` | SECOND-PASS Q1: Kannada p. 202 reads ಅಂತ್ಯವಿಕಾರಶ್ಕಾಂದಸಃ (mark removed with the correction above) |
+| 202 | `antyaikāraś chāndasaḥ [?]` → `antyavikāraś chāndasaḥ` | SECOND-PASS Q1: Kannada p. 202 reads ಅಂತ್ಯವಿಕಾರಶ್ಕಾಂದಸಃ (ai->vi) |
+| 203 | `3-47-1 as read [?]` → `3-47-1 as read` | SECOND-PASS Q2: Kannada p. 203 reads (ಋ. ಸಂ. ೩-೪೭-೧) |
+| 203 | `1-171-1 as read [?]` → `1-171-1 as read` | SECOND-PASS Q2: Kannada p. 203 reads (ಋ. ಸಂ. ೧-೧೭೧-೧) |
+| 203 | `[5?]-52-3 as read [?]` → `7-57-5` | SECOND-PASS Q1: Kannada p. 203 reads (ಋ. ಸಂ. ೭-೫೭-೫) |
+| 203 | `2-57-3-20 as read [?]` → `2-5-3-20` | SECOND-PASS Q1: Kannada p. 203 reads (ಶ. ಬ್ರಾ. ೨-೫-೩-೨೦) |
+| 204 | `twenty-five [as read, ?] names of man, the sense is 'men' (*Ni.* 2-[2?] as read [?]).` → `twenty-five names of man, the sense is 'men' (*Ni.* 3-7).` | SECOND-PASS Q1: Kannada p. 204 reads ೨೫ ಮನುಷ್ಯನಾಮಗಳಲ್ಲಿ ... (ನಿ. ೩-೭) |
+| 204 | `3-20-4 as read [?]` → `3-20-4 as read` | SECOND-PASS Q2: Kannada p. 204 reads (ಋ. ಸಂ. ೩-೨೦-೪) |
+| 204 | `twenty-six [as read, ?] names of action (*Ni.* 2-1 as read [?])` → `twenty-six names of action (*Ni.* 28)` | SECOND-PASS Q1: Kannada p. 204 reads ೨೬ ಕರ್ಮನಾಮಗಳಲ್ಲಿ ... (ನಿ. ೨೮) |
+| 204 | `1-41-33?]2 as read [?]` → `1-4-1-33` | SECOND-PASS Q1: Kannada p. 204 reads (ತ. ಬ್ರಾ. ೧-೪-೧-೩೩) |
+| 204 | `11-1-3-4 as read [?]` → `11-1-3-4 as read` | SECOND-PASS Q2: Kannada p. 204 reads (ಶ. ಬ್ರಾ. ೧೧-೧-೩-೪) |
+| 206 | `3-133, read in print as 3-[?]3, ?]` → `3-133]` | SECOND-PASS Q1: Kannada p. 206 reads (ಉ. ಸೂ. ೩-೧೩೩) |
+| 206 | `printed pp. 206–[?]` → `printed pp. 206–210` | SECOND-PASS Q1: Kannada: the grammar of Rik 8 ends on p. 210 where Rik 9 begins |
+| 207 | `क्नप्रत्ययः [?]` → `क्सप्रत्ययः` | SECOND-PASS Q1: Kannada p. 207 reads ವ್ಯತ್ಯಯೇನ ಕ್ಸಪ್ರತ್ಯಯಃ (n->s) |
+| 207 | `knapratyayaḥ [?]` → `ksapratyayaḥ` | SECOND-PASS Q1: Kannada p. 207 reads ಕ್ಸಪ್ರತ್ಯಯಃ |
+| 207 | `धातोर्[?]` → `धातोर्ह्रस्व` | SECOND-PASS Q1: Kannada p. 207 reads ವ್ಯತ್ಯಯೇನ ಧಾತೋರ್ಹ್ರಸ್ವತ್ವಂ |
+| 207 | `त्वम् [?]` → `त्वम्` | SECOND-PASS Q1: Kannada p. 207 reads ಧಾತೋರ್ಹ್ರಸ್ವತ್ವಂ (mark removed with the correction above) |
+| 207 | `dhātor[?]tvam [?]` → `dhātor hrasvatvam` | SECOND-PASS Q1: Kannada p. 207 reads ಧಾತೋರ್ಹ್ರಸ್ವತ್ವಂ |
+| 208 | `अहोहा` → `अहिमोहा` | SECOND-PASS Q1: Kannada p. 208 reads ಅಹಿಮೋಹಾನಂ (letters changed: ho->himo) |
+| 208 | `हानम् [?]` → `हानम्` | SECOND-PASS Q1: Kannada p. 208 reads ಅಹಿಮೋಹಾನಂ (mark removed with the correction above) |
+| 208 | `सक्षदिन्द्रः [?]` → `सक्षदिन्द्रः` | SECOND-PASS Q2: Kannada p. 208 reads ಸಕ್ಷದಿಂದ್ರಃ |
+| 208 | `ahohānam [?]` → `ahimohānam` | SECOND-PASS Q1: Kannada p. 208 reads ಅಹಿಮೋಹಾನಂ |
+| 208 | `sakṣad indraḥ [?]` → `sakṣad indraḥ` | SECOND-PASS Q2: Kannada p. 208 reads ಸಕ್ಷದಿಂದ್ರಃ |
+| 208 | `5-30-6 as read [?];` → `5-30-6 as read;` | SECOND-PASS Q2: Kannada p. 208 reads (ಋ. ಸಂ. ೫-೩೦-೬) |
+| 208 | `5-22-2 as read [?]` → `5-32-3` | SECOND-PASS Q1: Kannada p. 208 reads (ಋ. ಸಂ. ೫-೩೨-೩) |
+| 209 | `कम् [?]` → `कम्` | SECOND-PASS Q2: Kannada p. 209 reads ಶುಷ್ಣ ಸಂಜ್ಞಕಂ |
+| 209 | `śuṣṇasaṃjñakam [?]` → `śuṣṇasaṃjñakam` | SECOND-PASS Q2: Kannada p. 209 reads ಶುಷ್ಣ ಸಂಜ್ಞಕಂ |
+| 209 | `3-12-7 as read [?]` → `2-12-7` | SECOND-PASS Q1: Kannada p. 209 reads (ಋ. ಸಂ. ೨-೧೨-೭) |
+| 209 | `3-24-4 as read [?]` → `3-34-4` | SECOND-PASS Q1: Kannada p. 209 reads (ಖ. ಸಂ. ೩-೩೪-೪) |
+| 209 | `5-40-6 as read [?]` → `5-20-6` | SECOND-PASS Q1: Kannada p. 209 reads (ಋ. ಸಂ. ೫-೨೦-೬) |
+| 210 | `the print reads *āṭ*, as read [?]]` → `the print reads *aṭ*]` | SECOND-PASS Q1: Kannada p. 210 reads ಅಟ್ ಪ್ರತ್ಯಯ |
+| 210 | `4-[?]3 as read, ?]` → `4-628]` | SECOND-PASS Q1: Kannada p. 210 reads (ಉ. ಸೂ. ೪-೬೨೮) |
+| 211 | `णिच्चेमन्तः शत्संनित्वे [?]` → `णिच्यमन्तत्वान्मित्वे` | SECOND-PASS Q1: Kannada p. 211 reads ಣಿಚ್ಯಮಂತತ್ವಾನ್ಮಿತ್ವೇ ಮಿತಾಂ ಹ್ರಸ್ವ |
+| 211 | `ṇicce mantaḥ śatsaṃnitve [?]` → `ṇicy amantatvān mitve` | SECOND-PASS Q1: Kannada p. 211 reads ಣಿಚ್ಯಮಂತತ್ವಾನ್ಮಿತ್ವೇ |
+| 211 | `इति सलोपः [?]` → `इति सलोपः` | SECOND-PASS Q2: Kannada p. 211 reads ಲಿಜಃ ಸಲೋಪ ಇತಿ ಸಲೋಪಃ |
+| 211 | `iti salopaḥ [?]` → `iti salopaḥ` | SECOND-PASS Q2: Kannada p. 211 reads ಇತಿ ಸಲೋಪಃ |
