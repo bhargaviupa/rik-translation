@@ -6716,6 +6716,176 @@ he has stated रोदसी मरुत्पत्नी विद्यु�
 (Ṛ. Saṃ. 6-66-6)
 in this one Ṛk the word रोदसी (*rodasī*) is used in two senses. Here Sāyaṇa has explained the first occurrence as व्यावापृथिव्य (*vyāvāpṛthivya*) and the second as रुद्रस्य पत्नि माध्यमिकी वाक्य (*rudrasya patni mādhyamikī vākya*). And,
 
+### Printed p. 277
+and,
+
+मिम्मक्ष येषु रोदसी नु देवी सिषक्ति पूषा अभ्यर्धयज्वा । श्रुत्वा हवं मरुतो यद्ध याथ भूमा रेजंते अध्वनि प्रविक्ते ॥ (*mimmakṣa yeṣu rodasī nu devī siṣakti pūṣā abhyardhayajvā | śrutvā havaṃ maruto yaddha yātha bhūmā rejaṃte adhvani pravikte ‖*) (Ṛ. Saṃ. 6-50-5).
+
+Here too, देवी (*devī*) is explained as the shining speech of the middle region (the thunder). Giving the explanation of Ṛ. Saṃ. 1-167-3, the scholar Max Muller describes the word रोदसी (*rodasī*), used in the senses of lightning, the speech of the middle region, and heaven-and-earth, as follows.
+
+In our verse, we take वाक् (*vāk*) in the sense of thunder, but as a
+feminine, of the lightning and thunder as the two companions of
+the Maruts, represents the first, रोदसी (*rodasī*) or lightning, as the
+recognised wife, hiding herself in the house, while the other, the
+loud thunder, is represented as a more public companion of
+the Maurts. This contrast, if it is really what the poet intended,
+throws a curious light on the social character of the Vedic times,
+as it presupposes two classes of wives, not necessarily simultanious,
+however—, a house wife, who stays at home and is not much seen,
+and a wife who appears in public and takes part in the society........
+The loud voice of the thuuder as well as the usual hiding of the
+lightning might well suggest this comparison.
+[S. B. E. XXXII P. 276]
+
+Pointing out in this way the difference between the singular and the dual use, the Bṛhaddevatā says:
+
+रोदसी देवपत्नीनां अथर्वांगिरसे यथा । (*rodasī devapatnīnāṃ atharvāṃgirase yathā |*) (Bṛ. De. 2-143)
+
+Here is an example of the singular use: according to the view of the Atharvāṅgirasa (Atharvaveda), Rodasī is one of the wives of the gods. And,
+
+द्वे द्वे पदे संस्तुते रोदसी च देवाश्चार्थर्चेन विभक्तमन्यत् । (*dve dve pade saṃstute rodasī ca devāścārtharcena vibhaktamanyat |*) (Bṛ. De. 4-6)
+
+In all such places where the dual is used, heaven and earth are meant.
+
+##### Grammar
+
+- महिना — मह पूजायां धातुः । इन् सर्वधातुभ्यः इति इन् प्रत्ययः । तृतीया एकवचनांतरूपं । व्यत्ययेन विभक्तेः उदात्तस्वरः भवति ।
+
+### Printed p. 278
+- आस्ति — यद्योगात् निघातस्वरः न भवति । तिप् पित्त्वात् धातुस्वरः अवशिष्यते ।
+- अरम् — नालमूललघु-(पा. म. ८-२-१८) इति लकारस्य रेफादेशः ।
+- विव्ये — वी गत्यादिषु धातुः । छंदसि लुज्लज्लिटः इति वर्तमानार्थे लिट् । प्रथमपुरुष एकवचनांतरूपं । तिजंतनिघातस्वरः भवति ।
+- वृजनम् — वृजी वर्जने धातुः । अत्र कर्तर्यर्थे प्रयुक्तः । कृष्यवृजिमंदि—(उ. सू. २-२३९) इति क्यु प्रत्ययः । युवोरनाकौ (पा सू. ७-१-१) इति तस्य अनादेशः । कित्त्वात् लघूपधगुणः न भवति । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- भर्ति — भृञ् भरणे धातुः । लट् प्रथमपुरुष एकवचने तिप् । बहुलं छंदसि इति शपः लुक् । सार्वधातुकार्थधातुकयोः इति इकः गुणः । र परत्वेन भवति । पादादौ इति निघातस्वरः न भवति । तिप् पित्त्वात् अनुदात्तत्वात् धातुस्वरः अवशिष्यते ।
+- स्वधावान् — माधुपधायाश्च—इति मतुपः मकारस्य वत्वं । दीर्घादटि समानपादे (पा.सू. ८-३-९) इति नकारस्य रुत्वं । आतोटि नित्यम् (पा. सू. ८-३-३) इति सूत्रेण नित्यं आकारस्य अनुनासिकत्वं भवति ।
+- ओपशम् — शीञ् स्वप्ने धातुः । आज्, उप, द्वौ उपसर्गौ उपपदत्वे बहुलग्रहणात् अस्मात् ड प्रत्ययः । डित्त्वात् टिलोपः । कृदुत्तरपदप्रकृतिस्वरः भवति ॥ ६ ॥
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मत्सु॑ त्वा शूर स॒तामु॑रा॒णं प्र॑प॒थिंत॑मं परितंस॒यध्यै॑ ।  
+> स॒जोष॑स॒ इंद्रं॒ मदे॑ क्षो॒णीः सू॒रिं चि॒द्ये अ॑नु॒मदं॑ति॒ वाज्यैः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समत्सु । त्वा । शूर । सतां । उराणं । प्रपथिन्तमं । परितंसयध्यै ।  
+> सजोषसः । इंद्रं । मदे । क्षोणीः । सूरिं । चित् । ये । अनुमदंति । वाज्यैः ॥
+
+### Printed p. 279
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ४ शारदाभ्युदय ॥
+> हे तूर शौर्योपेतेंद्र समत्सु संग्रामेषु सतां त्वामेवाश्रित्य
+> वर्तमानानां प्राणिनामुराणमुरूण्यतिप्रभूतानि बलादीनि कुर्वाणं प्रपथिंतमं
+> प्रकृष्टमार्गतमं सुकृतिनामुत्तममार्गभूतमिंद्रं शतृणां दारकं त्वा त्वां
+> परितंसयध्या अवतंसीकर्तुं भूषणीकर्तुं । भूषयितुं वा निमित्तेऽर्थे ।
+> मदे तव मदार्थं च सजोषसः सह सेवमानाः समानप्रीतयो वा क्षोणीः
+> क्षोण्यो विशः परिजना मरुतः प्रयतंते । कीदृशास्ते । ये वाजैर्बलैरनुमदंति
+> अनुकूलं मादयंति संग्रामे मरुतस्तमेव स्वामिनं कृत्वा मादयंति ।
+> हर्षयंतीत्यर्थः । यद्वा । ये यजमाना वाजैर्हविर्भिमादयंति ते
+> समानप्रीतियुक्तास्तव मनुष्यभूता ऋत्विजो यजमानभूताः प्रजाः समत्सु
+> सहवादनस्थानेषु यागेषूक्तलक्षणविशिष्टं त्वामेव पूजयितुं तव मादाय च
+> प्रायतंते ॥
+
+##### Gist of the bhāṣya
+
+Addressing Indra as शूर (*śūra*), Sāyaṇa says: in battles (समत्सु (*samatsu*)) you cause very abundant strength and the like (उरूणि अतिप्रभूतानि बलादीनि (*urūṇi atiprabhūtāni balādīni*)) for the creatures who live relying on you; you are प्रपथिंतमं (*prapathiṃtamaṃ*), the best of paths for the virtuous, and Indra, the render of enemies. The Maruts, here called क्षोणीः (*kṣoṇīḥ*) (his retinue, the people) and सजोषसः (*sajoṣasaḥ*) (serving together, or of equal affection), strive to adorn you (परितंसयध्यै (*paritaṃsayadhyai*): to make you an ornament, or to decorate you) and for your exhilaration (मदे (*made*)). Who are they? Those who (ये (*ye*)) with their strengths (वाजैः (*vājaiḥ*)) gladden you favourably (अनुमदंति (*anumadaṃti*)): in battle the Maruts, making him alone their lord, delight him. Alternatively: the sacrificers who gladden you with oblations (वाजैः (*vājaiḥ*)), united in affection, being your human priests and sacrificers, your subjects, strive in the sacrifices (समत्सु (*samatsu*), places of joint rejoicing) to honour you, who have the stated qualities, and for your exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे शूर (*he śūra*)—O heroic Indra
+- ये (*ye*)—which Marut gods
+- वाजैः (*vājaiḥ*)—with their own strength
+- सूरिं चित् (*sūriṃ cit*)—you, the wise one
+- अनु मदंति (*anu madaṃti*)—follow (so as to be favourable to you) and cause delight
+- ते (*te*)—those
+- क्षोणीः (*kṣoṇīḥ*)—the retinue (Maruts)
+- सजोषसः (*sajoṣasaḥ*)—serving together
+- समत्सु (*samatsu*)—in battles
+- सतां (*satāṃ*)—for the creatures who rely on you
+- उराणं (*urāṇaṃ*)—the giver of abundant strength
+- प्रपथिंतमं (*prapathiṃtamaṃ*)—the best path (for the doers of good deeds)
+- इंद्रं (*iṃdraṃ*)—the destroyer of enemies
+- त्वा (*tvā*)—you
+- परितंसयध्यॆ (*paritaṃsayadhyè*)—to adorn (and)
+- मदे (*made*)—for your delight (they strive)
+- Or: हे शूर (*he śūra*)—O heroic Indra; ये (*ye*)—which sacrificers; वाजैः (*vājaiḥ*)—with oblations and the like; सूरिं, चित् (*sūriṃ, cit*)—you, the wise one; अनु मदंति (*anu madaṃti*)—gladden; ते (*te*)—those; क्षोणीः (*kṣoṇīḥ*)—the sacrificers, who are like the retinue; सजोषसः (*sajoṣasaḥ*)—of equal affection; सतां उराणं (*satāṃ urāṇaṃ*)—the strength-giver to those who rely on you; प्रपथिंतमं (*prapathiṃtamaṃ*)—the best path; इंद्रं (*iṃdraṃ*)—the destroyer of enemies; त्वा (*tvā*)—you; परितंसयध्यॆ (*paritaṃsayadhyè*)—in order to worship; and मदे (*made*)—for your delight; समत्सु (*samatsu*)—in sacrifices, the places of delight (they strive).
+
+##### भावार्थ (Bhāvārtha)
+
+O heroic Indra, you who give strength to those who rely on you, are the best path for the doers of good deeds, and destroy enemies: the Maruts (or the sacrificers) strive with their own strength to worship you and to delight you.
+
+### Printed p. 280
+
+##### English translation (H. H. Wilson)
+Those people, who, jointly worshipping Indra, diligently endeavour,
+O hero, to propitiate you, the invigorator in combats, the guide in the
+rightway : provide, for his gratification, with sacrificial viands.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the unique help of the Maruts, who always give and will give Indra help in times of battle, is described. In the same way it is also explained how the sacrificers who perform sacrifices strive to worship Indra in the sacrifices.
+
+समत्सु सतां उराणं (*samatsu satāṃ urāṇaṃ*)—Here Indra is addressed by the word शूर (*śūra*), and the meaning is explained thus: in times of battle Indra graciously grants that even the creatures who rely on him obtain surpassing ability and the like (उरूणि अतिप्रभूतानि बलादीनि कुर्वाणं (*urūṇi atiprabhūtāni balādīni kurvāṇaṃ*)). The word समत्सु (*samatsu*) is listed among the names of battle (Ni. 3-9). And the Nirukta author, giving the derivation of this word, states the alternatives:
+
+समहः समदो वात्तॆः; संमदो वा मदतेः । (*samahaḥ samado vāttèḥ; saṃmado vā madateḥ |*) (Ni. 9-17)
+
+That is, the prefix सम् (*sam*) joined with the root अद् (*ad*) may become समद् (*samad*); or the prefix सम् (*sam*) joined with the root मद् (*mad*), meaning to be excited, to be roused with ardour, may become समद् (*samad*). He cites the Ṛk in which the word समत्सु (*samatsu*) is used,
+
+आ जंघंति सान्वेषां जघना उप जिघ्नते । अश्वाजनि प्रचेतसोऽश्वान्समत्तु चोदय ॥ (*ā jaṃghaṃti sānveṣāṃ jaghanā upa jighnate | aśvājani pracetaso 'śvānsamattu codaya ‖*) (Ṛ. Saṃ. 6-75-13)
+
+and explains there the special sense of this word.
+
+प्रपंचितमं—सुकृतिनामुत्तममार्गभूतं (*prapaṃcitamaṃ—sukṛtināmuttamamārgabhūtaṃ*): since Indra shows the best path to the virtuous, he is stated, by the identification of cause and effect, to be the best path itself.
+
+इंद्रं-शत्रुणां दारकं (*iṃdraṃ-śatruṇāṃ dārakaṃ*): the Nirukta authors derive the word इंद्र (*iṃdra*) in many ways. Of these Sāyaṇa follows इंदर् शत्रुणां दारयिता (*iṃdar śatruṇāṃ dārayitā*) (Ni. 10-8), "Indra is the one who splits enemies", and so describes him here as the destroyer of enemies.
+
+### Printed p. 281
+सजोषसः क्षोणीः—सह सेवमानाः समानप्रीतयो ना क्षोण्यो विशः परिजनाः । (*sajoṣasaḥ kṣoṇīḥ—saha sevamānāḥ samānaprītayo nā kṣoṇyo viśaḥ parijanāḥ |*) These two words are derived and explained as epithets of the Maruts. Although the Maruts are many (एकोन पंचाशत्संख्याकाः (*ekona paṃcāśatsaṃkhyākāḥ*)—forty-nine persons), they are in affection through unity among themselves, or all of them serve Indra with one and the same affection; and though they are like Indra's friends, they are like subjects. This is the meaning explained.
+
+ये वाजैः अनु मदंति (*ye vājaiḥ anu madaṃti*)—This sentence is explained in two ways, with regard to the Maruts and with regard to the sacrificers. First: मरुतस्तमेव स्वामिनं कृत्वा संग्रामे बलैः हर्षयंति । (*marutastameva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayaṃti |*) The Maruts, knowing Indra alone as lord, delight him in times of battle with their strength. In this sense the word वाज (*vāja*) is used in the meaning of strength. Yāska lists the word वाज (*vāja*) among the names of food (Ni. 3-9), among the names of battle (Ni. 3-9), and as the name of a person (Ni. 11-17), and on the Ṛk
+
+सावका नः स्वरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः । (*sāvakā naḥ svarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ |*) (Ṛ. Saṃ. 1-3-10)
+
+he explains the meaning as oblations or water (हविषोदकेन (*haviṣodakena*)).**NOTE**
+
+Second: ये यजमानाः (*ye yajamānāḥ*), the sacrificers who perform sacrifices, वाजैः हविर्भिर्मादयंति ते समानप्रितियुक्ताः तव मनुष्यभूता ऋत्विजः यजमानभूताः प्रजाः समत्तु सहमादनस्थानेषु यागेषु उक्तलक्षणविशिष्टं त्वामेव पूजयितुं तव मादाय च प्रयतंते । (*vājaiḥ havirbhirmādayaṃti te samānapritiyuktāḥ tava manuṣyabhūtā ṛtvijaḥ yajamānabhūtāḥ prajāḥ samattu sahamādanasthāneṣu yāgeṣu uktalakṣaṇaviśiṣṭaṃ tvāmeva pūjayituṃ tava mādāya ca prayataṃte |*) United in a single affection towards Indra, they delight him with oblations. Being in human form both priests and sacrificers, Indra's subjects, in the sacrifices, which are occasions that cause delight to Indra and to themselves, they worship Indra, who is endowed with abundant greatness, and strive to cause him delight. This is the meaning explained.
+
+The word समत्सु (*samatsu*) is listed among the names of battle (Ni. 3-9). Here Sāyaṇa takes the word in the sense of सहमादनस्थानेषु यागेषु (*sahamādanasthāneṣu yāgeṣu*), the sacrifice, an occasion which increases exhilaration in all at one time, and so explains the meaning.
+
+Sāyaṇa has not explained the word सूरिंजित् (*sūriṃjit*) in this Ṛk.
+
+सूरयः (*sūrayaḥ*)—the Nirukta authors read this word among the 13 names of praisers, रेभः, जरिता, कारुः (*rebhaḥ, jaritā, kāruḥ*) and so on (Ni. 3-19). सूरि (*sūri*) may mean the devotee who praises, or it may mean wise, discerning, intelligent. When it is used as an epithet of the seers who have the supernatural power of vision, both of the eye and of the mind, which grasps the true natures of the gods and the secret principles of the universe,
+
+### Printed p. 282
+the word has a special sense.
+
+तद्विष्टो ४ पॆरमं पवं सदा पश्यंति सूरयः । (*tadviṣṭo 4 pèramaṃ pavaṃ sadā paśyaṃti sūrayaḥ |*) (Ṛ. Saṃ. 1-22-20)
+
+In such contexts it does not merely mean those who praise, but also indicates the seers' extraordinary power of vision. And it is used as an epithet not only of seers but also of the gods, Indra and others.
+
+मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै । (*maṃhiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai |*) (Ṛ. Saṃ. 1-81-3)
+
+In Ṛks such as this, with विपश्चितमिंद्रं (*vipaścitamiṃdraṃ*), it shows the wisdom of the gods, Indra and others. Besides, the word सूरि (*sūri*) is also used when the meaning lord, impeller, or leader on the good path is indicated. And as examples,
+
+जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः । (*jano yaḥ pajrebhyo vājinīvānaśvāvato rathino mahyaṃ sūriḥ |*) (Ṛ. Saṃ. 1-122-8)
+
+असद्यथा जरित्र उत सूरिरिंद्रो रायो विश्ववारस्य दाता । (*asadyathā jaritra uta sūririṃdro rāyo viśvavārasya dātā |*) (Ṛ. Saṃ. 6-23-10)
+
+मुह्यंत्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु । (*muhyaṃtvanye abhito janāsa ihāsmākaṃ maghavā sūrirastu |*) (Ṛ. Saṃ. 10-81-6)
+
+In these and similar contexts this epithet is applied to gods who are lords and leaders on the good path, and describes their quality.
+
+आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव श्वेषथादीषते वयः । (*ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva śveṣathādīṣate vayaḥ |*) (Ṛ. Saṃ. 1-141-8)
+
+In such contexts it also gives the meaning of path. In the present Ṛk it may be explained as wise or lord.
+
+सजोषसः क्षोणीः (*sajoṣasaḥ kṣoṇīḥ*)—"those of equal affection" and "those who are like retinue" indicate the eternal and close relationship between Indra and the Maruts. This relationship was explained earlier in this same volume, in the Special Topics of Ṛk 1-171-4. It is because of such companionship that, on all occasions when Indra accompanied by the Maruts is addressed, Indra is called मरुत्वान् (*marutvān*); so the Bṛhaddevatā explains this epithet that indicates the relationship of these deities.
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् । (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat |*) (Bṛ. De. 4-56)
+
 ---
 
-**Progress note:** Done through printed p. 276. pp. 271-276 (batch API)
+**Progress note:** Done through printed p. 282. pp. 277-282 (batch API), missing bhāṣya label inserted in kn.md
