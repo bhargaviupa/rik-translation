@@ -3576,6 +3576,146 @@ Having offered, in the fifteenth**NOTE** (verse), the praise begun at the openin
 - वः (*vaḥ*)—for you (let it be); likewise
 - इयं गीः (*iyaṃ gīḥ*)—this speech (in the form of praise) also (for you). [मांदार्यस्य (*māṃdāryasya*)—of the one who satisfies you with praises; मान्यस्य (*mānyasya*)—therefore worthy of worship; कारोः (*kāroḥ*)—of this praiser]
 
+### Printed p. 145
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषा (*iṣā*)—with desire
+- तन्ने (*tanne*)—for the growth of (your) body
+- आ यासीष्ट (*ā yāsīṣṭa*)—may (the praise) go towards you
+- वयं (*vayaṃ*)—we
+- इषं (*iṣaṃ*)—food
+- वृजनं (*vṛjanaṃ*)—strength
+- जीरदानुं (*jīradānuṃ*)—long life
+- विद्याम (*vidyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may our praise, we who are praisers, who please you with laudations and are worthy of worship, be (a delight) to you. By our wish, may this praise bring about the growth of your bodies; and may food, strength and long life also be granted to us (by your favour).
+
+##### English translation (H. H. Wilson)
+This praise, Maruts, is for you : this hymn is for you, (the work) of a venerable author, capable of conferring delight (by his laudations): may the praise reach you for (the good of your) persons, so that we may thence obtain food, strength, and long life.
+
+##### विशेषविषयगळु (Special Topics)
+
+Māndārya and Mānya: when Sāyaṇa gives the component meanings of these words, he explains Māndārya as one who produces joy and Mānya as one who is worthy of reverence. Both are epithets of Agastya. Both are also used as proper names. In the Bṛhaddevatā, where the birth of Agastya is told:
+मानेन संमितो यस्मात् तस्मान्मान्य इहोच्यते । यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते ॥ (*mānena saṃmito yasmāt tasmānmānya ihocyate | yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate ‖*)
+(Bṛ. De. 5-153)
+It states that the name Mānya is well known for Agastya either because he is worthy of reverence, or because he was born in a kumbha, which indicates a kind of measure (māna); that is, because he was born of a measure in the form of a pot.
+In the same sequence, the words मांदार्यस्य मान्यस्य कारोः (*māṃdāryasya mānyasya kāroḥ*) stand also in the last Ṛks of the 165th, 166th and 167th sūktas.
+There are two words meaning praise, स्तोमः (*stomaḥ*) and गीः (*gīḥ*). They indicate different kinds of praise. The importance of the stoma has been explained in detail in Part 11 of the Ṛgveda Saṃhitā, pp. 50-52.
+
+### Printed p. 146
+
+##### Grammar
+
+- इषा — इषा सावेकाचस्तृतीयादिः (पा. सू. ६-१-१६८) इति तृतीयाविभक्तेः उदात्तस्वरः भवति ।
+- यासीष्ट — या प्रापणे धातुः । व्यत्ययो बहुलं (पा. सू. ३-१-८५) इति आत्मनेपदी भवति । लिज् प्रथमपुरुष एकवचने त प्रत्ययः । लिजः सीयुट् (पा. सू. ३-४-१०२) इति सीयुडागमः । सुट् तिथोः (पा. सू. ३-४-१०७) इति सुटागमः । यलोपः । व्यत्ययेनैव एकवचनं आगतं । तिजंतनिघातस्वरः भवति ।
+- विद्याम — विद्‌ल्य लाभे धातुः । लिट् उत्तमपुरुष बहुवचनांतरूपं । पादादिस्थत्वात् निघातस्वरः न भवति । यासुट् उदात्तः इति आकारः उदात्तः भवति ।
+- वृजनं — वृजी वर्जने धातुः । कृष्यव्यजि (उ सू २-३३९) इति क्यु प्रत्ययः । कित्त्वात् गुणः न भवति । युवोरनाकौ (पा सू. ६-१-१) इति अनादेशः । प्रत्ययस्य आद्युदात्तस्वरः भवति ।
+- जीरदानुं — बहुप्रीहौ पूर्वपदप्रकृतिस्वरः भवति ।
+
+## Sūkta 169 (Maṇḍala 1)
+
+##### Gist of the bhāṣya
+
+This is the fifth sūkta of the twenty-third anuvāka, beginning महश्चित्त्वं (*mahaścittvaṃ*), of eight Ṛks. The seer is Agastya, the deity Indra, the metre Triṣṭubh. The second Ṛk is a चतुष्पदा विराट् (*catuṣpadā virāṭ*): four pādas of ten syllables are called Virāṭ, as stated by Piṅgalanāga in the Chandonukramaṇikā (Pi. 3-5), and the Anukramaṇikā says महोऽष्टौ द्वितीया विराट् (*maho 'ṣṭau dvitīyā virāṭ*). In the ten-day Samūḍha sacrifice, at the recitation of the second Chandoma, this sūkta is used for the Marutvatīya śastra mantras, as set out in the Āśvalāyana Śrauta Sūtra in the section विश्वजितोऽग्निं नर (*viśvajito 'gniṃ nara*) by the sūtra द्वितीयस्य शंसा महां महश्चित्त्वमिंद्र (*dvitīyasya śaṃsā mahāṃ mahaścittvamiṃdra*) (Ā. 8-7).
+
+### Printed p. 147
+Sūkta 169. Maṇḍala 1, Anuvāka 23, Sūkta 169. Aṣṭaka 2, Adhyāya 4, Vargas 8, 9. Number of Ṛks in the sūkta: 8. Ṛṣi: Agastya. Devatā: Indra. Chandas: 1, 3-8 Triṣṭubh; 2 Catuṣpadā Virāṭ.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हश्चि॒त्त्वमिं॑द्र य॒त ए॒तान्म॒हश्चि॑दसि॒ त्यज॑सो वरू॒ता ।  
+> स नो॑ वेधो म॒रुतां॑चिक्ति॒त्वान्॒नुस्मा व॑नुष्व॒ तव॒ हिप्रेष्ठा॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । चित् । त्वं । इंद्र । यतः । एतान् । महः । चित् । आसि । त्यजसः । वरूता ।  
+> सः । नः । वेधः । मरुतां । चिकित्वान् । सुम्मा । वनुष्व । तव । हि । प्रेष्ठा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यतः कारणादेतान्मरुतो महश्चिन्महतोऽपि सामर्थ्यातिशयवत्वात्त्वं निरपेक्षेणापि स्नेहान्न त्यजसीति शेषः । अतः कारणान्महश्चिदसि । चिदिति
+> पादपूरणः । महतोऽपि त्यजसस्त्यागात् । यद्वा । एतत्क्रोधनाम । क्रोधाद्वा ।
+> वरूथा वरिता रक्षितासि । भवसि । यद्वा। मरुतोऽपि त्यागाद्वृष्ट्या दिविषयाद्वारयितासि । यस्मादेवं तस्मात् हे मरुतां वेधो विधातः स तादृशस्त्वं चिकित्वांश्चतनावानस्मदनुग्रहविषयज्ञानोपेतः सन्नोऽस्मभ्यं सुम्मा सुखानि मरुदायत्तानि
+> वृष्ट्यादिरूपाणि वनुष्व । देहि । तानि सुम्मानि तव हि प्रेष्ठा । तव खलु प्रियतमानि ।
+> हिशब्दः आयमिंद्रो मरुत्सखा ।ऋ. ८-७६-२ । इत्यादिश्रुतिषु प्रसिद्ध्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, because you do not abandon these Maruts, though they are great and exceedingly powerful, even when you are independent of them, out of affection — "do not abandon" is the supplied remainder — for that reason you are great. चित् (*cit*) fills out the pāda. Since you refrain from abandoning even the great, you are great. Alternatively, त्यजसः (*tyajasaḥ*) is a name for anger: you are the protector against (their) anger. Or again: you restrain the Maruts even from abandoning, that is, from the matter of rain and the like. Since this is so, O creator (vedhas) of the Maruts, being such and knowing (cikitvān), endowed with the knowledge that concerns favour to us, grant (vanuṣva) to us the comforts (सुम्मा (*summā*), pleasures) which depend on the Maruts and take the form of rain and so on. Those comforts are indeed most dear to you. The word हि (*hi*) is for the sake of what is well known in śruti texts such as आयमिंद्रो मरुत्सखा (*āyamiṃdro marutsakhā*) (Ṛ. 8-76-2).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (हे) इंद्र (*(he) iṃdra*)—O Indra
+- यतः (*yataḥ*)—for which reason
+- त्वं (*tvaṃ*)—you
+- महः चित् (*mahaḥ cit*)—though exceedingly great
+- एतान् (*etān*)—these Maruts
+- त्यजसः (*tyajasaḥ*)—from anger
+
+### Printed p. 148
+- (continued) त्यजसः (*tyajasaḥ*)—from anger (from abandonment as regards rain and the like)
+- वरूता (असि) (*varūtā (asi)*)—you are the protector
+- *(ataḥ) mahaḥ cit asi*—(therefore) you are truly great
+- *(he) marutāṃ vedhaḥ*—O Indra, creator of the Maruts
+- सः (*saḥ*)—such as you are
+- चिकित्वान् (*cikitvān*)—having the knowledge of favour towards us
+- नः (*naḥ*)—to us
+- सुम्ना (*sumnā*)—(obtainable through the Maruts) the pleasures in the form of rain and so on
+- वनुष्व (*vanuṣva*)—become the giver
+- तव (*tava*)—to you
+- प्रेष्ठा हि (*preṣṭhā hi*)—they are well known as the dearest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, since you protect even the Maruts, who are exceedingly great, without abandoning them, you are truly a great soul. O Indra, creator of the Maruts, being favourably minded towards us, grant us the pleasures in the form of rain and the like, which are most dear to you.
+
+##### English translation (H. H. Wilson)
+You, Indra, are mighty from the might of those of whom you are the protector against abandonment : therefore, creator of the Maruts, favourably-minded towards us, grant us those blessings which are most dear to you
+
+##### विशेषविषयगळु (Special Topics)
+
+मरुतः महश्चित्; त्यजसः वरूता (*marutaḥ mahaścit; tyajasaḥ varūtā*); since you are exceedingly powerful, you do not abandon (them) out of affection even when independent. For that reason महश्चिदसि (*mahaścidasi*). Here Indra is addressed.
+The origin of the Maruts is told in the Bṛhaddevatā and in the Taittirīya Saṃhitā. The goddess Diti, wishing for a son who would subdue Indra, obtained the favour of the sage Kaśyapa and was keeping a vow. Indra entered the womb of the pregnant woman and with his thunderbolt split the embryo into seven parts. When the child wept, Indra said "मारुद (*māruda*)" (do not weep) (मारुद (*māruda*)), and so it came to be called Marut. Afterwards Diti awoke and said to Indra that these fragments of the embryo should live and be his helpers; Indra agreed and made the Maruts his friends. This is indicated here.
+Indra and the Maruts are both of great power; both are independent in action and do not seek another's help. Even so, although Indra is greatly powerful by his own power, his friendliness towards these Maruts makes his abundant greatness manifest — this is one kind of meaning, stated by giving the word त्यजसः (*tyajasaḥ*) the sense त्यागात् (*tyāgāt*)
+
+### Printed p. 149
+(abandonment). Very heroic persons are accustomed to strengthen their friendship with the powerful out of some desire for advantage. Indra is not so: independent, he abandoned them (the Maruts) at the time of their birth, and yet afterwards he is friendly with them; this shows Indra's abundant greatness. Thus the meaning is described.
+In the second meaning the word त्यजसः (*tyajasaḥ*) is given the sense of anger. The word त्यजस् (*tyajas*) is listed among the names of anger (Ni. 3-9). Knowing at the time of the Maruts' birth that they would regard him as an enemy and later subdue him, Indra was angry with them; yet afterwards he is their protector (वरूता (*varūtā*)); therefore Indra's greatness is praiseworthy. This is the meaning explained.
+In the third meaning: मरुतोऽपि त्यागात् वृष्ट्यादि विषयात् वारयितासि (*maruto 'pi tyāgāt vṛṣṭyādi viṣayāt vārayitāsi*). Because Indra has set the Maruts to the work of producing rain, Indra is मरुतां वेधः विधातः (*marutāṃ vedhaḥ vidhātaḥ*), the creator with regard to the Maruts; thus Indra's greatness is described.
+चिकित्वान् न सुम्मा वनुष्प (*cikitvān na summā vanuṣpa*): although चिकित्वा (*cikitvā*) generally means one who is conscious, knowing, here it is explained, as अस्मदनुग्रहविषयज्ञानोपेतः (*asmadanugrahaviṣayajñānopetaḥ*), as one who has the knowledge to favour and protect us sacrificers. Since the word सुम्मा (*summā*) is listed among the names of happiness (Ni. 3-13), the happiness granted to the sacrificers by Indra is explained as मरुदायत्तानि वृष्टिरूपाणि (*marudāyattāni vṛṣṭirūpāṇi*), that is, happiness in the form of rain, dependent on the work done by the Maruts; and the wish is that Indra grant us sacrificers all the happiness produced through it.
+By the sentence तव हि प्रेष्ठा (*tava hi preṣṭhā*) it is described that happiness of this form is the object of Indra's love because it comes from the Maruts, his friends. And in the Ṛk अयमिंद्रो मरुत्सखा (*ayamiṃdro marutsakhā*) (Ṛ. Saṃ. 8-76-2) the fact that Indra is a friend of the Maruts is stated.
+
+##### Grammar
+
+- महः — महतः इत्यत्र छांदसत्वेन अतिलोपः ।
+- असि — अस भुवि । लट् मध्यमपुरुष एकवचनांतरूपं । तिजंतनिघातस्वरः भवति ।
+- त्यजसः — त्यज हानौ धातुः । सर्वधातुभ्य असुन् इति असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । पंचमी एकवचनांतरूपं ।
+
+### Printed p. 150
+- वरूताः — वृञ् वरणे धातुः । ग्रसितस्कभित (पा. सू. ७-२-३४) इति तृजंतत्वेन निपातितं । चित् प्रत्ययांतत्वात् अंतोदात्तस्वरः भवति । प्रथमा एकवचनांतरूपं ।
+- प्रेष्ठा — अतिशयेन प्रियतमानि । प्रियशब्दस्य अतिशयार्थे इष्ठन् प्रत्ययः । अतिशायनेतमबिष्ठनौ (पा.सू. ५-३-५५) इति सूत्रेण भवति । प्रियस्थिर (पा.सू. ६-४-१५६) इति प्रियशब्दस्य प्रादेशः । प्रकृत्यैकाच् इति प्रकृतिभावः । गुणः । प्रत्ययस्य नित्त्वात् आद्युदात्तस्वरः भवति ।
+- वेधः — डुधाण् धारणपोषणयोः धातुः । वि उपसर्गपूर्वे विधाञ्छो वेधच (उ. सू. ६६४) इति असुन् प्रत्ययः । उपसर्गविशिष्टस्य वेधादेशः । संबुद्धौ आमंत्रितस्य च (पा. सू. ८-१-१९) इति निघातस्वरः भवति ।
+- चिकित्वान् — कित ज्ञाने धातुः । अस्मात् लिटि आगते क्वसुश्च (पा. सू. ३-२-१०७) इति क्वसुरादेशः । धातोः द्वित्वादि । वसोः स्वरः भवति । प्रथमा एकवचनांतरूपं ।
+- सुम्ना — शेश्छंदसि बहुलं (पा सू. ६-१-७०) इति शेः लोपः ।
+- वनुष्व — वनु दाने अनेकार्थको धातुः । लोट् मध्यमपुरुष एकवचनांतरूपं । तिजंतनिघातस्वरः भवति ।
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अयु॑ज्रंत इंद्र वि॒श्वकृ॑स्टीर्विदा॒नासो॑ नि॒ष्पिधो॑ मर्त्य॒त्रा ।  
+> म॒रुतां॑ पृत्सु॒तिर्हास॑माना॒ स्व॑र्माळ्लस्य प्र॒धन॑स्य सा॒त् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयुज्रन् । ते । इंद्र । विश्वकृष्टीः । विदानासः । निःसिधः । मर्त्यत्रा ।  
+> मरुतां । पृत्सुतिः । हासमाना । स्वमीळहस्य । प्रधनस्य । सातौ ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 144. pp. 139-144 (batch API)
+**Progress note:** Done through printed p. 150. pp. 145-150 (batch API)
