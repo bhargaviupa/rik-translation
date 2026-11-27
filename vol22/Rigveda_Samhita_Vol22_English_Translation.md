@@ -13687,6 +13687,237 @@ In the Āgrayaṇeṣṭi, in the single-potsherd offering made to the deities D
 
 O Heaven and Earth, there are for the generous giver of oblations many delightful treasures (रत्नधेयानि (*ratnadheyāni*)) that are yours to give. Among them, the wealth that is अस्कृधोयु (*askṛdhoyu*) (कृधुको ह्रस्वः (*kṛdhuko hrasvaḥ*), short), that is, not small, be that wealth, grant it to us. O Heaven and Earth, protect us always with blessings.
 
+### Printed p. 319
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth
+- उतो हि (*uto hi*)—moreover
+- वां (*vāṃ*)—in you
+- सुदासे (*sudāse*)—to be given to the sacrificer who offers the oblation
+- रत्नधेयानि (*ratnadheyāni*)—delightful treasures
+- पुरूणि (*purūṇi*)—in great abundance
+- संति (*saṃti*)—there are
+- यत् (*yat*)—which portion of them
+- अस्कृधोयु (*askṛdhoyu*)—in great abundance
+- असत् (*asat*)—is, that
+- अस्मे (*asme*)—to us
+- धत्तं (*dhattaṃ*)—give
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, the delightful treasures that are to be given to the sacrificer who offers the oblation are present in you in great abundance. Whichever portion of them is in great abundance, give that to us. O Heaven and Earth, protect us always with blessings.
+
+##### English translation
+Many, Heaven and Earth, are the treasures fit to be given to the pious donor (of the oblation) : give to us that wealth which is unlimited : and do you ever cherish us with blessings.
+
+## Sūkta 54 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वास्तोष्पते इति तृचात्मकमेकविंशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वास्तोष्पत्यं । तथा चानुक्रम्यते । वास्तोष्पते वास्तोष्पत्यमिति ॥ स्मार्ते गृहनिर्माणे वास्तोष्पत इति चतसृभिः प्रत्यृचं जुहुयात् । सूत्रितं च । वास्तोष्पते प्रति जानीह्यस्मानिति चतसृभिः प्रत्यृचं हुत्वा । आ. गृ. २-९-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The twenty-first sūkta, beginning वास्तोष्पते (*vāstoṣpate*), consists of three Ṛks; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Vāstoṣpati. The Anukramaṇī says: वास्तोष्पते वास्तोष्पत्यमिति (*vāstoṣpate vāstoṣpatyamiti*). In the smārta rite of house-building one should offer an oblation with each Ṛk of the four beginning वास्तोष्पत इति (*vāstoṣpata iti*). The sūtra says: वास्तोष्पते प्रति जानीह्यस्मानिति चतसृभिः प्रत्यृचं हुत्वा (*vāstoṣpate prati jānīhyasmāniti catasṛbhiḥ pratyṛcaṃ hutvā*) (Ā. Gṛ. 2-9-6).**NOTE**
+
+##### Anuvāda
+
+This sūkta, वास्तोष्पते (*vāstoṣpate*), is the twenty-first sūkta in the third anuvāka. It has three Ṛks. Vasiṣṭha is the seer of this sūkta; Vāstoṣpati is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said वास्तोष्पते वास्तोष्पत्यं (*vāstoṣpate vāstoṣpatyaṃ*). In the house-building rite prescribed in the Smṛti and other works, the three Ṛks of this sūkta together with the first Ṛk of the next sūkta, four Ṛks in all, are to be used for an oblation, one offering with each Ṛk; this is explained by the Āśvalāyana Gṛhya Sūtra, वास्तोष्पते प्रति जानीह्यस्मानिति चतसृभिः प्रत्यृचं हुत्वा (*vāstoṣpate prati jānīhyasmāniti catasṛbhiḥ pratyṛcaṃ hutvā*) (Ā. Gṛ. 2-9-6).
+
+### Printed p. 320
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वास्तो॑ष्पते॒ प्रति॑ जानीह्य॒स्मान्स्वा॑वे॒शो अ॑नमी॒वो भ॑वा नः  
+> यत्त्वेम॑हे॒ प्रति॒ तन्नो॑ जुषस्व॒ शं नो॑ भव द्वि॒पदे॒ शं चतु॑ष्पदे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वास्तोः । पते । प्रति । जानीहि । अस्मान् । सुऽआवेशः । अनमीवः । भव । नः ।  
+> यत् । त्वा । ईमहे । प्रति । तत् । नः । जुषस्व । शं । नः । भव । द्विऽपदे । शं । चतुःऽपदे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वास्तोष्पते गृहस्य पालयितर्देव त्वमस्मांस्त्वदीयान् स्तोतॄनिति प्रति जानीहि । प्रबुध्यस्व । तदनंतरं नोस्माकं स्वावेशः शोभननिवेशोनमीवोरोगकृच्च भव । किंच वयं त्वा त्वां यद्धनमीमहे याचामहे त्वमपि तद्धनं नोस्मभ्यं प्रति जुषस्व । प्रयच्छ । अपि च नोस्माकं द्विपदे पुत्रपौत्रादिजनाय शं सुखकरो भव । चतुष्पदेस्मदीयाय गवाश्वादिवर्गाय च शं सुखकरो भव ॥
+
+##### Gist of the bhāṣya
+
+O Vāstoṣpati, protector of the house, recognise us as your own worshippers; awake. After that, be to us a good dwelling and one who causes no disease. Further, whatever wealth we ask of you, grant it to us. Be a source of happiness to our bipeds, that is, sons, grandsons and other people, and to our quadrupeds, that is, our cattle, horses and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वास्तोष्पते (*vāstoṣpate*)—O Vāstoṣpati, protector of the house
+- अस्मान् (*asmān*)—us
+- प्रति जानीहि (*prati jānīhi*)—know as your worshippers
+- नः (*naḥ*)—to us
+- स्वावेशः (*svāveśaḥ*)—giver of an excellent dwelling
+- अनमीवः (*anamīvaḥ*)—destroyer of disease
+- भव (*bhava*)—be
+- त्वा (*tvā*)—from you
+- यत् (*yat*)—which wealth
+- ईमहे (*īmahe*)—we ask
+- तत् (*tat*)—that wealth
+- नः (*naḥ*)—to us
+- प्रति जुषस्व (*prati juṣasva*)—give
+- नः (*naḥ*)—our
+- द्विपदे (*dvipade*)—to sons, grandsons and others
+- शं (*śaṃ*)—as the bringer of happiness
+- भव (*bhava*)—be
+- चतुष्पदे (*catuṣpade*)—to cattle and others
+- शं (*śaṃ*)—be the bringer of happiness
+
+### Printed p. 321
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāstoṣpati, protector of the house, know us as your worshippers. Be to us a giver of an excellent dwelling and a destroyer of disease. Whatever wealth we ask of you, give that wealth to us. Be a bringer of happiness to our sons, grandsons and others, and to our cattle and the like.
+
+##### English translation
+Protector of the dwelling, recognize us : be to us an excellent abode, the non-inflicter of disease : whatever we ask of you, be pleased to grant : be the bestower of happiness on our bipeds and quadrupeds.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the particulars concerning the deity called Vāstoṣpati, see the Special Topics on the first Ṛk of the 55th sūkta of this same portion.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वास्तो॑ष्पते प्र॒तर॑णो न एधि गय॒स्फानो॒ गोभि॒रश्वे॑भिरिंदो ।  
+> अ॒जरा॑सस्ते स॒ख्ये स्या॑म पि॒तेव॑ पु॒त्रान्प्रति॑ नो जुषस्व ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वास्तोः । पते । प्रऽतरणः । नः । एधि । गयःऽस्फानः । गोभिः । अश्वेभिः । इंदो इति ।  
+> अजरासः । ते । सख्ये । स्याम । पिताऽइव । पुत्रान् । प्रति । नः । जुषस्व ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वास्तोष्पते गृहस्य पालयितर्देव त्वं नोस्माकं प्रतरणः प्रवर्धको गयस्फानो गयस्य धनस्य स्फाययिता प्रवर्धक एधि । भव । हे इंदो सोमवदाह्लादक ते त्वया सह सख्ये सति वयं गोभिः पशुभिरश्वेभिरश्वैश्च सहिता अजरासो जरारहिताः स्याम । भवेम । विनाशरहिता इत्यर्थः । पितेव पुत्रान् यथा पिता पुत्रान्प्रकृष्टेन सेवते तथा त्वमपि नोस्मान्प्रति जुषस्व । सेवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Vāstoṣpati, protector of the house, be our promoter, the increaser of गय (*gaya*), that is, of wealth. O Indu, gladdener like Soma, when there is friendship with you, may we, together with cattle and horses, be free from old age, that is, free from destruction. As a father cherishes his sons with devotion, so do you also cherish us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वास्तोष्पते (*vāstoṣpate*)—O Vāstoṣpati
+- नः (*naḥ*)—to us
+- प्रतरणः (*prataraṇaḥ*)—a promoter of growth
+- गयस्फानः (*gayasphānaḥ*)—the increaser of our house
+- एधि (*edhi*)—be
+- इंदो (*iṃdo*)—O delighting god
+- ते (*te*)—with you
+- सख्ये (*sakhye*)—there being friendship
+- (वयं (*vayaṃ*)—we)
+- गोभिः (*gobhiḥ*)—with cattle
+- अश्वेभिः (*aśvebhiḥ*)—and with horses, endowed
+- अजरासः (*ajarāsaḥ*)—free from decay
+- स्याम (*syāma*)—may we live
+
+### Printed p. 322
+- पिता (*pitā*)—a father
+- पुत्रान् इव (*putrān iva*)—as he cherishes and protects his children
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- प्रति जुषस्व (*prati juṣasva*)—cherish
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāstoṣpati, be a promoter of growth for us and the increaser of our house. O gladdening god, with friendship with you may we live together with cattle and horses, free from decay. As a father cherishes and protects his children, so cherish us with affection.
+
+##### English translation
+Protector of the dwelling, be our preserver and the augmenter of our wealth : possessed of cattle and horses, Indra, may we, through your friendship, be exempt from decay : be favourable to us like a father to his sons.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वास्तो॑ष्पते श॒ग्मया॑ सं॒सदा॑ ते सक्षी॒महि॑ र॒ण्वया॑ गातु॒मत्या॑ ।  
+> पा॒हि क्षेम॑ उ॒त योगे॒ वरं॑ नो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वास्तोः । पते । शग्मया । संऽसदा । ते । सक्षीमहि । रण्वया । गातुऽमत्या ।  
+> पाहि । क्षेमे । उत । योगे । वरं । नः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वास्तोष्पते देव शग्मया सुखकर्या रण्वया रमणीयया गातुमत्या धनवत्या ते त्वया देयया संसदा स्थानेन सक्षीमहि । वयं संगच्छेमहि । त्वमपि क्षेमे प्राप्तस्यरक्षणे उतापि च योगेप्राप्तस्य प्रापणे वरं वरणीयं नोस्मदीयं धनं पाहि । रक्ष । हे वास्तोष्पते यूयं त्वं नोस्मान् सर्वदा कल्याणैः पात । पाहि ॥
+
+##### Gist of the bhāṣya
+
+O god Vāstoṣpati, may we be united with the abode given by you, which is comfort-giving (शग्मया (*śagmayā*)), delightful (रण्वया (*raṇvayā*)) and wealthy (गातुमत्या (*gātumatyā*)). In क्षेमे (*kṣeme*), the keeping of what has been obtained, and in योगे (*yoge*), the obtaining of what has not been obtained, protect our choice wealth. O Vāstoṣpati, you protect us always with blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वास्तोष्पते (*vāstoṣpate*)—O Vāstoṣpati
+- शग्मया (*śagmayā*)—that which produces happiness
+- रण्वया (*raṇvayā*)—delightful
+- गातुमत्या (*gātumatyā*)—wealthy
+- ते (*te*)—and given by you
+- संसदा (*saṃsadā*)—with the house
+- सक्षीमहि (*sakṣīmahi*)—may we be united
+- उत (*uta*)—and
+- क्षेमे (*kṣeme*)—
+
+### Printed p. 323
+- by protecting us
+- योगे (*yoge*)—by bringing us what we desire
+- वरं (*varaṃ*)—excellent
+- नः (*naḥ*)—our wealth
+- पाहि (*pāhi*)—protect
+- (O Vāstoṣpati and the other gods) यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāstoṣpati, may we be united with a house that gives happiness, is delightful and is endowed with wealth. By protecting us and by bringing us what we desire, protect our excellent wealth. O gods, Vāstoṣpati and the rest, protect us always with blessings.
+
+##### English translation
+Protector of the dwelling, may we be possessed of a comfortable, delightful, opulent abode, bestowed by you : protect our wealth, whether in possession or expectation : and do you, (gods) ever cherish us with blessings.
+
+## Sūkta 55 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमीवहेत्यष्टर्चं द्वाविंशं सूक्तं । आद्या गायत्री पंचम्याद्याश्चतस्रोनुष्टुभो द्वितीयाद्यास्तिस्र उपरिष्टाद्बृहत्यः । त्र्यृष्टुका चतुर्थ्याद्वादशके बृहतीति तल्लक्षणयोगात् । आद्या वास्तोष्पतिदेवताका शिष्टा ऐंद्र्यः । तथा चानुक्रांतं । अमीवहाष्टौ वास्तोष्पत्याद्या गायत्री शेषास्त्र्युपरिष्टाद्बृहत्यादयोनुष्टुभः प्रस्वापिन्य उपनिषदिति ॥ गतो विनियोगः ॥ बृहद्देवतायां यदुक्तं तदिह लिख्यते । वरुणस्य गृहान्प्रात्रौ वसिष्ठः स्वप्नमाचरन् । प्रविवेशाथ शं तत्र श्वा नदन्नभ्यवर्तत ॥ क्रंदंतं सारमेयं स धावंतं दष्टुमुद्यतं । यदर्जुनेति च द्वाभ्यां सांत्वयित्वा ह्यसूषुपत् । एवं प्रस्वापयामास जनमन्यं च वारुणं । बृ. दे. ६-११,१२,१३ । इति ॥ अत्र केचित्पुनरेवमाहुः । आसां प्रस्वापिनित्वं तु कथासु परिकल्प्यते । वसिष्ठस्तृषितोन्नार्थी त्रिरात्रालब्धभोजनः । चतुर्थरात्रौ चौर्यार्थं वारुणं गृहमेत्य तु । कोष्ठागारे प्रवेशाय पालकश्वादिसुप्तये । यदर्जुनेति सप्तर्चं ददर्श च जजाप चेति ॥
+
+##### Gist of the bhāṣya
+
+The twenty-second sūkta, beginning अमीवह (*amīvaha*), has eight Ṛks. The first is Gāyatrī; the four from the fifth on are Anuṣṭubh; the three from the second on are Upariṣṭād-bṛhatī, by the definition त्र्यृष्टुका चतुर्थ्याद्वादशके बृहती (*tryṛṣṭukā caturthyādvādaśake bṛhatī*). The first is addressed to Vāstoṣpati, the rest to Indra. The Anukramaṇī says: अमीवहाष्टौ वास्तोष्पत्याद्या गायत्री शेषास्त्र्युपरिष्टाद्बृहत्यादयोनुष्टुभः प्रस्वापिन्य उपनिषदिति (*amīvahāṣṭau vāstoṣpatyādyā gāyatrī śeṣāstryupariṣṭādbṛhatyādayonuṣṭubhaḥ prasvāpinya upaniṣaditi*). The viniyoga has been given. What the Bṛhaddevatā says is written here: Vasiṣṭha, walking in sleep by night, entered Varuṇa's house; a dog came at him barking; he pacified the barking, running dog, ready to bite, with two Ṛks beginning यदर्जुन (*yadarjuna*), and put it to sleep; in the same way he put to sleep the other people of Varuṇa's household (Bṛ. De. 6-11,12,13). Some, however, say this: the power of these Ṛks to put to sleep is imagined in the tales. Vasiṣṭha, thirsty and seeking food, having got no food for three nights, on the fourth night went to Varuṇa's house to steal, to enter the storehouse and to put the guard dog and the others to sleep; he saw and muttered the seven Ṛks beginning यदर्जुन (*yadarjuna*).
+
+##### Anuvāda
+
+This sūkta, अमीवहा (*amīvahā*), is the twenty-second sūkta in the third anuvāka. It has eight Ṛks. The first Ṛk of this sūkta is in Gāyatrī metre. The four Ṛks from the fifth onward are in Anuṣṭubh metre;
+
+### Printed p. 324
+the three Ṛks from the second onward are in the metre called Upariṣṭād-bṛhatī. त्र्यृष्टुका चतुर्थ्याद्वादशकी बृहती (*tryṛṣṭukā caturthyādvādaśakī bṛhatī*) means that when a metre has four pādas, with eight syllables in each of the first three pādas and twelve syllables in the fourth, it is called the Upariṣṭād-bṛhatī metre. The deity of the first Ṛk of this sūkta is Vāstoṣpati; for the other Ṛks the deity is Indra. In the Anukramaṇī it is said अमीवहाष्टौ वास्तोष्पत्याद्या गायत्री शेषास्त्र्युपरिष्टाद्बृहत्यादयोनुष्टुभः प्रस्वापिन्य उपनिषत् (*amīvahāṣṭau vāstoṣpatyādyā gāyatrī śeṣāstryupariṣṭādbṛhatyādayonuṣṭubhaḥ prasvāpinya upaniṣat*). The viniyoga has been stated earlier. Concerning this sūkta, the work called Bṛhaddevatā, spoken by Śaunaka, gives this account:
+वरुणस्य गृहान् रात्रौ वसिष्ठः स्वप्नमाचरन् (*varuṇasya gṛhān rātrau vasiṣṭhaḥ svapnamācaran*)
+प्रविवेशाथ तं तत्र श्वा नदन्नभ्यवर्तत (*praviveśātha taṃ tatra śvā nadannabhyavartata*)
+क्रंदंतं सारमेयं स धावंतं दष्टुमुद्यतं (*kraṃdaṃtaṃ sārameyaṃ sa dhāvaṃtaṃ daṣṭumudyataṃ*)
+यदर्जुनेति च द्वाभ्यां सांत्वयित्वा ह्यसूसुपत् (*yadarjuneti ca dvābhyāṃ sāṃtvayitvā hyasūsupat*)
+एवं प्रस्वापयामास जनमन्यं च वारुणं (*evaṃ prasvāpayāmāsa janamanyaṃ ca vāruṇaṃ*)
+(Bṛ. De. 6-11,12,13.)
+One night the sage Vasiṣṭha, walking in his sleep (in the state of sleep itself), went to the house of Varuṇa, his father. Then a dog that was keeping watch there came at Vasiṣṭha, barking, chasing him to bite him. Seeing the dog coming to bite him, Vasiṣṭha pacified it with two Ṛks of this sūkta beginning यदर्जुन (*yadarjuna*) (Ṛks 2-3) and made it go to sleep. Some others tell this story in another way:
+आसां प्रस्वापिनित्वं तु कथासु परिकल्प्यते (*āsāṃ prasvāpinitvaṃ tu kathāsu parikalpyate*)
+वसिष्ठस्तृषितोन्नार्थी त्रिरात्रालब्धभोजनः (*vasiṣṭhastṛṣitonnārthī trirātrālabdhabhojanaḥ*)
+चतुर्थरात्रौ चौर्यार्थं वारुणं गृहमेत्य तु (*caturtharātrau cauryārthaṃ vāruṇaṃ gṛhametya tu*)
+कोष्ठागारे प्रवेशाय पालकश्वादिसुप्तये (*koṣṭhāgāre praveśāya pālakaśvādisuptaye*)
+यदर्जुनेति सप्तर्चं ददर्श च जजाप च (*yadarjuneti saptarcaṃ dadarśa ca jajāpa ca*)
+(Anu. Bhā. 2-55)
+Once upon a time Vasiṣṭha, having got no food for three days, weary and spent with fasting and thirst, resolved on the night of the fourth day to go to the house of his father Varuṇa and eat food, even by stealing, and entered Varuṇa's house. Then the dog that lay near the cowshed came at him to bite; Vasiṣṭha, afraid, pacified that dog with the seven Ṛks of this sūkta beginning यदर्जुन सारमेय (*yadarjuna sārameya*) (Ṛks 2-8), made it sleep, recited those Ṛks and also became the seer who beheld them as mantras. So it is said in the Anuśāsana Parva of the Mahābhārata.**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 318. pp. 313-318 (batch API)
+**Progress note:** Done through printed p. 324. pp. 319-324 (batch API)
