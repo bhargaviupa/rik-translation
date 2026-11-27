@@ -14400,6 +14400,325 @@ In the Purāṇas and other works and in modern literature no great difference i
 > गुडुगु, मळॆ मत्तू इवरू ऒंदु ऎंब भावनॆ इरुवुदरिंद स्वभाववागि इवरु इंद्रन स्नेहितरु. सहोद्योगिगळागि अवनॊडनॆ निकटबांधव्यवुळ्ळवरागिद्दारॆ. तम्म स्तुति गान इवुगळिंद (१-१६५ ११ इत्यादि) इंद्रन शक्तिसामर्थ्यगळन्नु हॆच्चिसुत्तारॆ. (३-३५-९, ६-१२-११). वृत्रनॊडनॆ युद्धदल्लि साधारणवागि मरुत्तुगळे अवनिगॆ सहायकरु (८-६५-२, ३ ; १०-११३-३). त्रित मत्तु इंद्ररिगॆ अवरु वृत्रवधॆयल्लि सहायमाडुत्तारॆ (८-७-२४). वृत्रवधवन्नु वर्णिसुव सूक्तवन्नु गानमाडुवंतॆ प्रार्थितरागिदारॆ (८-६८-१, २, ३). अहि मत्तु शंबरनॊडनॆ इंद्रनु माडिद युद्धगळल्लि मरुत्तुगळु अवनिगॆ सहायमाडिदरु (३-४७-३,४). मरुत्सहितनागिये इंद्रनु बॆळकु (८-६५-४) मत्तु गोवुगळन्नु (१-६-५). पडॆदनु. मत्तु आकाशक्कॆ आधारभूतनादनु (३-४७-५) वास्तववागि नोडिदरॆ इवर सहायदिंदले इंद्रनु तन्न ऎल्ला साहसकार्यगळन्नू माडिदानॆ (१-१००, १०१, १६५ मत्तु १०-६५ नॆयसूक्तगळु) कॆलवु संदर्भगळल्लि मरुद्देवतॆगळे ई साहस कार्यगळल्लि इंद्रनिगिंत हॆच्चु स्वतंत्ररु. इंद्रनिंद सहितरागि मरुत्तुगळु वृत्रनन्नु प्रहरिसुत्तारॆ (१-२३-९). वृत्रासुरन कीलुगळन्नु बेरॆमाडिदरु (८-७-२३) अपहृतवाद गोवुगळन्नु कंडुहिडिदरु (२-३४-१). इतर देवतॆगळंतॆ इवरिगू इंद्रने नायकनु (१-२३-८ इत्यादि) इंद्रनिंद सहितरागिये इवरु इरुवरु (१०-१२५-३). अवरु इंद्रनिगॆ पुत्रसदृशरु (१-१००-५)अवन भ्रातृगळॆनिसिकॊंडिदारॆ (१-१७०-२). ऒंदॆरडु सलमात्र मरुत्तुगळु इंद्रन कैबिट्टरॆंदु हेळिदॆ. अहियॊडनॆ अवनॊब्बने युद्धमाडुवंतॆ सन्निवेशवॊदगुवंतॆ माडि (१-१६५-६) अवनन्नु ऒंटियागि बिट्टुबिट्टरु (८-७-३१) ऒंदु ऋक्किनल्लि मात्र इंद्रनिगू इवरिगू द्वेषवॆंदु उक्तवागिदॆ. मरुत्तुगळु—ऎलै इंद्रने, नम्मन्नु वधिसलु इच्छिसुवुदेकॆ? युद्धदल्लि नम्मन्नु वधिसबेड ऎंदु इंद्रनिगॆ हेळिदारॆ (१-१७०-२ ; १-१७१-६). तैत्तिरीयब्राह्मणदल्लि (तै. ब्रा. २-२-११-१) इंद्रनिगू मरुत्तुगळिगू घर्षणॆयायितॆंदु हेळिदॆ.
 > मरुत्तुगळु इंद्रनॊडनॆ इल्लदिरुव कालदल्लि अवरल्लि हिंसात्मकवाद गुणगळु कंडुबरुत्तवॆ. ई विषयदल्लि अवरु तम्म तंदॆयाद रुद्रन गुणगळन्नु प्रदर्शिसुत्तारॆ. अवरन्नु स्तुतिसुव जनरन्नू सिडिलु तॊंदरॆपडिसदंतॆयू अवर दुराग्रहवु अवरन्नु मुट्टदंतॆयू माडबेकॆंदु प्रार्थितरागिद्दारॆ (७-५८-९). अवरु ऎसॆयुव बाण मत्तु कल्लुगळन्नु (१-१७३-२) सिडिलु (७-५६-४) गोवु मत्तु मनुष्यरन्नु वधिसुव वज्रायुध (७-५६-१७) मॊदलाद आयुधगळिंद तम्मन्नु रक्षिसबेकॆंदु प्रार्थितरागिद्दारॆ. अवरिंद कॆडकुंटागबहुदु (१-३९-९). अवरु कुपितरागबारदॆंदु बेडलागिदॆ. (१-१७१-१ ; ७-५६-४). अवरिगॆ सर्पगळंतॆ कोपबरुत्तदॆ (१-६४-५,९) रुद्रनंतॆ इवरिंदलू सिंधु, असिक्नि ऎंब नदिगळू, समुद्रगळू मत्तु पर्वतगळल्लिरुव ओषधिगळू प्रार्थितवागिदारॆ (८-२०-२३,२४,२५-२६) शुद्धवू अनुकूलवू सुखकरवू आद चिकित्साविधानगळु मरुत्सहितनाद रुद्रनल्लिवॆ (२-३३-१३) अदन्नु मरुत्तुगळु मळॆयरूपदल्लि कॊडुत्तारॆ (५-५३-१४) आदुदरिंद ओषधि ऎंदरॆ इल्लि उदकवे इरबेकु. अग्नियंतॆ इवरिगू पावक (शुद्धिमाडुववरु) ऎंब विशेषण शब्दप्रयोगविदॆ. (७-५७-२ इत्यादि)
 
+### Printed p. 343
+Because of the qualities described above, it is clear that the Maruts are deities of the storm-wind, the tempest that blows with violence. To translate the word Marut by the general sense "wind" may seem proper in modern Sanskrit, but it does not explain the qualities seen above in the Vedas.
+
+The fifty-sixth sūkta
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ चतुर्थेऽनुवाके पंचदश सूक्तानि । तत्र क ईं व्यक्ता इति पंचविंशत्यृचं प्रथमं सूक्तं वसिष्ठस्यार्षं मरुद्देवताकं । आद्या एकादश द्विपदा विंशत्यक्षरा विराजः शिष्टाश्चतुर्दश त्रिष्टुभः । तथा चानुक्रांतं । क ईं पंचाधिका मारुतं हाद्या एकादश द्विपदा इति ॥ दशरात्रे चतुर्थेऽहन्याग्निमारुते शस्त्र इदं मारुतनिविद्धानं । सूत्र्यते हि । वैश्वानरस्य सुमतौ क ईं व्यक्ता नरः । आ. ८-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the fourth anuvāka there are fifteen sūktas. The first of them is the sūkta क ईं व्यक्ता (*ka īṃ vyaktā*), of twenty-five Ṛks. Its seer is Vasiṣṭha and its deity the Maruts. The first eleven Ṛks are dvipadā virāj of twenty syllables; the remaining fourteen are triṣṭubh. Sāyaṇa cites the Anukramaṇī: क ईं पंचाधिका मारुतं हाद्या एकादश द्विपदा इति॥ (*ka īṃ paṃcādhikā mārutaṃ hādyā ekādaśa dvipadā iti‖*) Use: on the fourth day of the Daśarātra, in the Āgnimāruta śastra, this is the Mārutanividdhāna; it is stated in the sūtra वैश्वानरस्य सुमतौ क ईं व्यक्ता नरः (*vaiśvānarasya sumatau ka īṃ vyaktā naraḥ*) (Ā. 8-8).
+
+##### Anuvāda
+
+In the fourth anuvāka of the seventh Maṇḍala there are fifteen sūktas. Of these, this sūkta beginning "क ईं व्यक्ताः (*ka īṃ vyaktāḥ*)" is the first. It has twenty-five Ṛks. Vasiṣṭha is the seer and the Maruts are the deity. The first eleven Ṛks of this sūkta are in the metre dvipadā virāṭ, of twenty syllables; the remaining fourteen are in the metre triṣṭup. The Anukramaṇī says "Ka īṃ pañcādhikā mārutaṃ hādyā ekādaśa dvipadā". On the fourth day of the sacrifice called Daśarātra, this sūkta is to be inserted and recited as the Mārutanividdhāna sūkta in the middle of the Agnimāruta śastra mantras; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, "वैश्वानरस्य सुमतौ क ईं व्यक्ता नरः (*vaiśvānarasya sumatau ka īṃ vyaktā naraḥ*)" (Ā. 8-8).
+
+Sūkta—56
+Maṇḍala—7; Anuvāka—4; Sūkta—56
+Aṣṭaka—5; Adhyāya—4; Varga—23, 24, 25, 26
+Number of Ṛks in the sūkta—25
+Ṛṣi: Vasiṣṭha
+Devatā: the Maruts
+Chandas: 1-11 dvipadā; 12-25 triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क ईं॒ व्य॑क्ता॒ नरः॒ सनी॑ळा रु॒द्रस्य॒ मर्या॒ अध॒ा स्वश्वाः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । ईं । विऽअक्ताः । नरः । सनीळाः । रुद्रस्य । मर्याः । अध । सुऽअश्वाः ॥ १ ॥
+
+### Printed p. 344
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्यक्ताः कांतियुक्ताः नरो नेतारः सनीळाः समानौकसो रुद्रस्य महादेवस्य पुत्रा मर्या मर्येभ्यो नृभ्यो हिता अधापि च स्वश्वाः शोभनवाहा ईमिमे एवंभूताः के भवंतीति रूपातिशयादृषिराश्चर्येणाह ॥
+
+##### Gist of the bhāṣya
+
+The resplendent leaders, dwelling in one abode, sons of Rudra, that is Mahādeva, and beneficial to men, and moreover well mounted, with good steeds: who can these be? The seer asks this in wonder at their surpassing beauty.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सनीळाः (*sanīḷāḥ*)—those having a common dwelling-place
+- व्यक्ताः (*vyaktāḥ*)—the radiant
+- नरः (*naraḥ*)—guides
+- रुद्रस्य (*rudrasya*)—sons of Rudra
+- मर्याः (*maryāḥ*)—beneficial to mankind
+- अध (*adha*)—and
+- स्वश्वाः (*svaśvāḥ*)—possessing excellent horses
+- ईं (*īṃ*)—these divine persons
+- के (*ke*)—who can they be?
+
+##### भावार्थ (Bhāvārtha)
+
+Who may these divine persons be, who have a common dwelling-place, are radiant, are guides, sons of Rudra, beneficial to mankind, and possessed of excellent horses?
+
+##### English translation
+Who are these resplendent chiefs, the dwellers in one abode, the sons of Rudra, friends of man, at present well mounted ?
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकि॒र्ह्ये॑षां ज॒नूंषि॒ वेद॒ ते अं॒ग वि॑द्रे मि॒थो ज॒नित्रं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । हि । एषां । जनूंषि । वेद । ते । अंग । विद्रे । मिथः । जनित्रं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मरुतां जनूंषि जन्मानि नकिर्हि वेद । कश्चिदपि न खलु जानाति । ते तादृशा मरुतो मिथः परस्परं जनित्रं रुद्रपृश्निभ्यां सकाशात्प्रादुर्भूतं स्वकीयं जन्मांग विद्रे । स्वयमेव विदंति ॥
+
+##### Gist of the bhāṣya
+
+No one at all knows the births of these Maruts. Those same Maruts themselves, each other, know their own birth, which arose from Rudra and Pṛśni; they know it by themselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these Maruts
+- जनूंषि (*janūṃṣi*)—the births
+- नकिः हि वेद (*nakiḥ hi veda*)—no one has known
+- ते (*te*)—those same Maruts of great form
+- मिथः (*mithaḥ*)—themselves, mutually
+- जनित्रे (*janitre*)—their birth, produced by the union of Rudra and Pṛśni
+- अंग (*aṃga*)—certainly
+- विद्रे (*vidre*)—have known
+
+##### भावार्थ (Bhāvārtha)
+
+No one has known the manner of origin of these Maruts. These same Maruts, of great form, have themselves mutually known their birth, produced by the union of Rudra and Pṛśni.
+
+### Printed p. 345
+
+##### English translation
+No one indeed knows their origin, they alone respectively know their birth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि स्व॒पूभि॑र्मि॒थो व॑पंत॒ वात॑स्वनसः श्ये॒ना अ॑स्पृध्रन् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । स्वपूभिः । मिथः । वपंत । वातस्वनसः । श्येनाः । अस्पृध्रन् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुतः स्वपूभिः स्वकीयैः पवनैः संचरणैः स्वयमेव संचरंतो मिथः परस्परमभि वपंत । संगच्छंते । अपि च वातस्वनसो वायुवत्स्वनंतः शब्दायमानाः श्येनाः ॥ श्यैङ् गताविति धातो रूपं ॥ गमनशीलाः । यद्वा । श्येना इति लुप्तोपममेतत् । श्येनाः पक्षिणः । तद्वद्गच्छंतः । अस्पृध्रन् । परस्परं रूपसौंदर्यादिभिः स्पर्धंते ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, moving by their own स्वपूभिः (*svapūbhiḥ*), their own purifying movements, come together with one another. Roaring like the wind, they are श्येनाः (*śyenāḥ*), going, the root being *śyaiṅ gatau*, "going". Or else श्येना (*śyenā*) is an elliptical simile: the Maruts go like falcons, birds. They vie with one another in beauty of form and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वपूभिः (*svapūbhiḥ*)—the Maruts who move by their own wind-speeds
+- मिथः (*mithaḥ*)—mutually
+- अभिवपंत (*abhivapaṃta*)—gather together
+- वातस्वनसः (*vātasvanasaḥ*)—those who sound like the wind
+- श्येनाः (*śyenāḥ*)—those of excellent going like the falcon
+- अस्पृध्रन् (*aspṛdhran*)—vie with one another by their own beauty and the like
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who move by their own wind-speeds, gather together. Sounding like the wind and going excellently like the falcon, they vie with one another by their beauty and the like.
+
+##### English translation
+They go together by their own pure paths : roaring like the wind, fleet as falcons, they mutually rival each other.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तानि॒ धीरो॑ नि॒ण्या चि॑केत॒ पृश्नि॒र्यदूधो॑ म॒ही ज॒भार॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतानि । धीरः । निण्या । चिकेत । पृश्निः । यत् । ऊधः । मही । जभार ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 346
+
+> धीरो धीमाञ्छास्त्रज्ञो जनो निण्या निण्यानि श्वेतवर्णान्येतानि मरुदात्मकानि भूतानि चिकेत । जानीयात् । किंतु न सर्वे जना जानंतीत्यर्थः । मही महती पृश्निर्मरुतां जननी यद्यानि मरुदात्मकानि भूतान्यूधन्यंतरिक्षे स्वकीये जठरे वा जभार बभार । एतानि चिकेतेति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The wise man, learned in the śāstras, may know these white beings of Marut nature; but not all people know them. The great Pṛśni, mother of the Maruts, bore these beings of Marut nature in her *ūdhan*, in the atmosphere, or in her own womb. The words एतानि चिकेत (*etāni ciketa*) are to be connected with the preceding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—of great form
+- पृश्निः (*pṛśniḥ*)—Pṛśni, the wife of Rudra
+- यत् (*yat*)—which Marut-principles
+- ऊधः (*ūdhaḥ*)—in her womb, which is the atmosphere
+- जभार (*jabhāra*)—she bore
+- एतानि (*etāni*)—such
+- निण्या (*niṇyā*)—these white-coloured Maruts
+- धीरः (*dhīraḥ*)—only the wise man
+- चिकेत (*ciketa*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+Only the wise man knows these white-coloured Maruts, whom Pṛśni, of great form and wife of Rudra, bore in her womb, which is the atmosphere.
+
+##### English translation
+The sage may know those white-complexioned beings (the Maruts) whom the vast Prishni bore at her udder.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा विट् सु॒वीरा॑ म॒रुद्भि॑रस्तु स॒नात् सहं॑ती॒ पुष्यं॑ती नृ॒म्णं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । विट् । सुवीरा । मरुत्भिः । अस्तु । सनात् । सहंती । पुष्यंती । नृम्णं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा विट् सा प्रजा मरुतः परिचरति । सा प्रजा मरुद्भिर्हेतुभिः सनाच्चिरात्सहंती शत्रूनभिभवंती नृम्णं धनं बलं वा पुष्यंती लभंती सुवीरा शोभनपुत्रयुक्तास्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+सा विट् (*sā viṭ*) is that people, which serves the Maruts. Through the Maruts as the cause, may that people be सुवीरा (*suvīrā*), possessed of excellent sons, for a long time overcoming enemies and gaining नृम्णं (*nṛmṇaṃ*), wealth or strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सा विट् (*sā viṭ*)—the people who worship the Maruts
+- मरुद्भिः (*marudbhiḥ*)—together with the Maruts
+- सनात् (*sanāt*)—for a long time
+- सहंती (*sahaṃtī*)—(enemies) conquering
+- नृम्णं (*nṛmṇaṃ*)—wealth
+- पुष्यंती (*puṣyaṃtī*)—obtaining
+- सुवीरा (*suvīrā*)—possessed of excellent sons and the like
+- अस्तु (*astu*)—may they be
+
+##### भावार्थ (Bhāvārtha)
+
+May the people who worship the Maruts, together with the Maruts, for a long time conquer enemies, obtain wealth, and be possessed of excellent sons and the like.
+
+### Printed p. 347
+
+##### English translation
+May the people, through (the favours of) the Maruts, always be victorious, possessed of male posterity, and in the enjoyment of wealth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यामं॒ येष्ठाः॑ शु॒भा शोभि॑ष्ठाः श्रि॒या संमि॑श्ला॒ ओजो॑भिरु॒ग्राः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यामं । येष्ठाः । शुभा । शोभिष्ठाः । श्रिया । संमिश्लाः । ओजःऽभिः । उग्राः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुतो यामं यातव्यं गंतव्यं प्रदेशं येष्ठा यातृतमा अतिशयेन गंतारः शुभालंकारेण शोभिष्ठा अतिशयेन शोभयुक्ताः श्रिया कांत्या संमिश्लाः संगच्छमाना ओजोभिर्बलैरुग्रा उद्गूर्णाः । एवंभूता भवंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are येष्ठाः (*yeṣṭhāḥ*), the greatest goers to the place to be reached; शोभिष्ठाः (*śobhiṣṭhāḥ*), most splendid through fair ornament; संमिश्लाः (*saṃmiślāḥ*), joined with श्रिया (*śriyā*), lustre; उग्राः (*ugrāḥ*), mighty through their powers. "They are such" is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (मरुतः (*marutaḥ*)—the Maruts)
+- यामं (*yāmaṃ*)—the place to be reached
+- येष्ठाः (*yeṣṭhāḥ*)—those who go and reach it supremely
+- शुभा (*śubhā*)—with excellent ornament
+- शोभिष्ठाः (*śobhiṣṭhāḥ*)—the shining ones
+- श्रिया (*śriyā*)—with lustre
+- संमिश्लाः (*saṃmiślāḥ*)—those united
+- ओजोभिः (*ojobhiḥ*)—with their powers
+- उग्राः (*ugrāḥ*)—those of exceeding strength
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts are supreme goers to the place they are to reach, are united with lustre, and with their powers possess exceeding strength.
+
+##### English translation
+The Maruts rapidly repair to the place (of their destination), richly decorated with ornaments, invested with beauty, terrible by their strength.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रं व॒ ओजः॑ स्थि॒रा शवां॒स्यधा॑ म॒रुद्भि॑र्ग॒णस्तुवि॑ष्मान् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रं । वः । ओजः । स्थिरा । शवांसि । अध । मरुत्भिः । गणः । तुविष्मान् ॥
+
+### Printed p. 348
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकमोजस्तेज उग्रमुद्गूर्णं भवतु । शवांसि युष्मदीयानि बलानि स्थिरा स्थिराणि कैश्चिदनपहर्तव्यानि भवंतु । अधापि च मरुद्भिर्गणो मरुतां संघस्तुविष्मान् वृद्धिमान्भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, may your ओजः (*ojaḥ*), brilliance, be उग्रं (*ugraṃ*), mighty; may your powers be स्थिरा (*sthirā*), firm, not to be carried off by anyone; and may the गणः (*gaṇaḥ*), the host of the Maruts, be तुविष्मान् (*tuviṣmān*), grown strong.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) वः (*vaḥ*)—your
+- ओजः (*ojaḥ*)—brilliance
+- उग्रं (*ugraṃ*)—may be exceeding
+- शवांसि (*śavāṃsi*)—your powers
+- स्थिरा (*sthirā*)—may be everlasting
+- अध (*adha*)—and
+- मरुद्भिः (*marudbhiḥ*)—of the Maruts
+- गणः (*gaṇaḥ*)—the host
+- तुविष्मान् (*tuviṣmān*)—may it be possessed of strength
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may your brilliance be great. May your powers be everlasting. And may the host of the Maruts be possessed of strength.
+
+##### English translation
+Terrible by your strength, steadfast your energies, prosperous be the company of the Maruts.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒भ्रो वः॒ शुष्मः॒ क्रुद्ध्मी॒ मनां॑सि॒ धुनि॒र्मुनि॑रिव॒ शर्ध॑स्य धृ॒ष्णोः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुभ्रः । वः । शुष्मः । क्रुध्मी । मनांसि । धुनिः । मुनिःऽइव । शर्धस्य । धृष्णोः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकं शुष्मो बलं शुभ्रः सर्वतः शोभमानं । किंच वो मनांसि क्रुद्ध्मी संग्रामेषु शत्रुहननार्थं क्रोधनशीलानि । धृष्णोर्धर्षणशीलस्य शर्धस्य बलवतो युष्मदीयस्य गणस्य धुनिर्वृक्षादीनां कंपयितुर्वेगो मुनिरिव । मननान्मुनिः स्तोता । स यथा बहुविधं शब्दमुच्चारयति एवं बहुविधशब्दस्योत्पादक इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, your शुष्मः (*śuṣmaḥ*), strength, is शुभ्रः (*śubhraḥ*), shining on all sides. Further, your minds are क्रुद्ध्मी (*kruddhmī*), prone to anger in battles for the slaying of enemies. The धुनिः (*dhuniḥ*), the speed that shakes trees and the like, of your host, which is धृष्णोः (*dhṛṣṇoḥ*), bold, and शर्धस्य (*śardhasya*), strong, is मुनिरिव (*muniriva*) like a muni. A muni, from *mananāt*, "thinking", is a praiser; as he utters many kinds of sound, so the speed is the producer of many kinds of sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) वः (*vaḥ*)—your
+- शुष्मः (*śuṣmaḥ*)—strength
+- शुभ्रः (*śubhraḥ*)—is shining
+- मनांसि (*manāṃsi*)—your minds
+- क्रुद्ध्मी (*kruddhmī*)—show wrath against enemies in battles
+- धृष्णोः (*dhṛṣṇoḥ*)—of that which confronts the enemy
+- शर्धस्य (*śardhasya*)—and is powerful, of your host
+- धुनिः (*dhuniḥ*)—the speed that makes trees tremble
+- मुनिरिव (*muniriva*)—is sounding like the voice of the praiser
+
 ---
 
-**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
+**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
