@@ -1920,6 +1920,136 @@ is read by Yāska among the groups of gods belonging to the middle region. Havin
 - अवोभिः — अव रक्षणे इति धातुः । सर्वधातुभ्यो असुन् इति असुन् प्रत्ययः । नित्त्वात् आद्युदात्तस्वरः भवति । तृतीयैकवचनांतरूपम् ।
 - यांतु — या प्रापणे इति धातुः । लोट् प्रथमपुरुषबहुवचनांतरूपम् । तिजंतनिघातस्वरः भवति ।
 
+### Printed p. 79
+
+##### Grammar
+
+- अच्छ-निपातस्य च (पा. सू. ६-३-१३६) इति संहितायां दीर्घो भवति ।
+- ज्येष्ठेभिः — अतिशयेन प्रशस्यः इत्यर्थविवक्षायाम् इष्टन् प्रत्ययः । ज्यच (पा. सू. ५-३-६१) इति ज्यादेशः । प्रकृत्यै, काच् (पा. सू. ६-४-१६३) इति प्रकृतिभावाद् अलोपो न भवति । गुणः । भिस् परे बहुलं छंदसि इति भिस ऐस्भावो न भवति । बहुवचने झल्येत् इति एत्वम् ।
+- बृहद्दिवैः — बहुप्रीहौ प्रकृत्यापूर्वपदं इति पूर्वपदप्रकृतिस्वरो भवति ।
+- सुमायाः — शोभना मया येषां ते सुमायाः । नञ्सुभ्यां (पा. सू. ६-२-१७२) इत्युत्तरपदांतोदात्तस्वरो भवति ।
+- अध — अथ इत्यत्र छांदसो वर्णविकारो भवति ।
+- नियुतः — यु मिश्रणामिश्रणयोः धातुः । क्विप् च इति क्विप् प्रत्ययः । प्रस्वस्यपिति कृतितुक् (पा. सू. ६-ऎ-७१) इति तुक् आगमः । कृदुत्तरपदप्रकृतिस्वरो भवति । प्रथमाबहुवचनांतरूपम् । **NOTE**
+- धनयंत — धन शब्दात् तत्करोति तदाचष्टे इति वचनात् णिच् । छंदसि लुज् लज् लिटः इति वर्तमानार्थे लज् । प्रथमपुरुषबहुवचने झस्य अंतादेशः । शप् विकरणः । तं निमित्तीकृत्य णिचो गुणः । अयादेशः । णिचं निमित्तीकृत्य धन इत्यत्र टिलोपः । बहुलं छंदस्यमाज्‌योगेऽपि (पा. सू. ६-४-७५) इत्यडागमो न भवति ॥ २ ॥
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒म्यक्ष॒ येषु॒ सुधि॑ता घृ॒ताची॒ हिर॑ण्यनिर्णि॒गुप॑रा॒ न ऋ॒ष्टिः ।  
+> गुहा॒ चरं॑ती॒ मनु॑षो॒ न योषा॑ स॒भाव॑ती विद॒थ्ये॑व॒ सं  
+> वाक् ॥ ३ ॥
+
+### Printed p. 80
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मिम्यक्ष । येषु । सुधिता । घृताची । हिरण्यनिर्निक् । उपरा । न । ऋष्टिः ।  
+> गुहा । चरंती मनुषः । न । योषा । सभावती । विदथ्या इव । सं । वाक् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुधिता सुष्टु निहिता सुष्टु हिता वा लोके धृताची धृतं क्षरणशीलमुदकमंचंती हिरण्यनिर्णिग्ति तरमणीयरूपा । निर्णिगिति रूपनाम । एवंरूपा ऋष्टिर्विद्युदाख्यायुधविशेषो ना उपरा न मेघमालेव येषु मरुत्तु सं मिम्यक्ष!
+> म्यक्षतिर्गतिकर्मा । संगताभूत् । मेघपंक्तिविद्युताविमे अपि संगते इत्यर्थः ।
+> मेघपंक्तिर्विद्युच्चोभे दृष्टांतेन विशेष्येते । गुहा निगूढा गुहायां वांतरिक्षे चरंती । तत्र दृष्टांतः । मनुषो न योषा मनुष्यस्य परिवृढादेर्महिषीवत् । सा यथा सुवेषांतःपुर एव मध्यॆ चरति तद्वत् । किं सर्वदैवमिति नेत्याह ।
+> सभावती । सभा जनसंघः । तद्वती । वर्षकाल आविर्भवंतीत्यर्थः । तत्र दृष्टांतः ।
+> विदथ्या वागिव । विदथो यज्ञः । तदर्हतीति विदथ्या प्रैषस्तोत्रादिरूपा वाक् ।
+> सा यथा यज्ञसभां प्राप्याविर्भवति तद्वत् । यद्वा । विदथ्या वेदनार्हा
+> विविदमानयोर्वाक् । सा यथा सभा भवति तद्वत् । सैवंरूपा येषु मिम्यक्ष ते
+> मरुतो देवयजनमागच्छंत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सुधिता (*sudhitā*) means well placed, or well disposed to the world; धृताची (*dhṛtācī*) is "drawing (*aṃcaṃtī*) ghee, that is, flowing water"; हिरण्यनिर्णिक् (*hiraṇyanirṇik*) is of very lovely form, निर्णिक् (*nirṇik*) being a name for form. Such is the ऋष्टिः (*ṛṣṭiḥ*), the weapon called lightning, and, like a row of clouds, it has joined with the Maruts: मिम्यक्ष (*mimyakṣa*) (the root म्यक्ष (*myakṣa*) meaning motion) = "has come together". The sense: the line of clouds and the lightning are united. Both are further qualified by similes. Hidden (गुहा (*guhā*)), or moving in the sky (गुहा (*guhā*)), like the wife of a man, such as a wandering mendicant, who moves about well attired in the very midst of the women's quarters. Is it always so? No: सभावती (*sabhāvatī*), having an assembly (सभा (*sabhā*) = a gathering of people); that is, they appear in the rainy season. Example: like speech (विदथ्या वाक् (*vidathyā vāk*)): विदथ (*vidatha*) is sacrifice, विदथ्या (*vidathyā*) is speech fit for it, in the form of the prāiṣa, stotra and the like, which appears when it reaches the sacrificial assembly. Or: विदथ्या (*vidathyā*) is the speech of two disputants, fit for knowing, which becomes an assembly. Such is it (the lightning) in whom it has joined: those Maruts come to the place of worship of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषु (*yeṣu*)—in which Marut deities
+- सुधिता (*sudhitā*)—well placed
+- घृताची (*ghṛtācī*)—raining water
+- हिरण्यनिर्निक् (*hiraṇyanirnik*)—of lovely (golden-coloured) form
+- ऋष्टिः (*ṛṣṭiḥ*)—lightning
+- मनुषः (*manuṣaḥ*)—of a (superior) man
+- योषा (*yoṣā*)—an adorned woman (गुहा चरंती (*guhā caraṃtī*): as she moves hidden in the women's quarters only)
+- गुहा (*guhā*)—in the sky
+- चरंती (*caraṃtī*)—moving
+- विदथ्या (*vidathyā*)—fit for sacrifice
+- वाक् (*vāk*)—speech in the form of hymns and the like (सभावती इव (*sabhāvatī iva*): as it appears in the sacrificial assembly)
+- विदथ्या (*vidathyā*)—of those debating
+- वाक् (*vāk*)—speech (सभावती इव (*sabhāvatī iva*): as it appears in an assembly)
+- सभावती (*sabhāvatī*)—appearing in the rainy season
+- उपरा ना (*uparā nā*)—as a chaplet of clouds (is mingled with the Marut deities)
+- सं मिम्यक्ष (*saṃ mimyakṣa*)—has mingled well (may those Marut deities come to our sacrificial hall)
+
+### Printed p. 81
+
+##### भावार्थ (Bhāvārtha)
+
+As the wife of a superior man, adorned, moves about only in the women's quarters, so the chaplet of clouds moves in the sky; and as sacrificial speech, hymns and the like, comes into the open only in assemblies, so it appears in the rainy season. As that chaplet of clouds mingles with the Marut deities, so the golden-coloured lightning, the cause of rain, is fittingly mingled with them. May such Marut deities come to our sacrificial hall.
+
+##### English translation (H. H. Wilson)
+In whom the water-shedding, golden-coloured lightning, is fitly
+deposited like a chaplet (of clouds) moving in the firmament like the
+(splendidly-attired) wife of a man (of rank), and distinguished in assemblies
+like a sacrificial hymn.
+
+##### विशेषविषयगळु (Special Topics)
+
+सुहिता (*suhitā*)—सुष्टु निहिता सुष्टु हिता वा (*suṣṭu nihitā suṣṭu hitā vā*). Two senses are explained: that which brings good to the world, or that which is known to be lovely to everyone in the world.
+धृताची हिरण्यनिर्णिक् ऋष्टिः (*dhṛtācī hiraṇyanirṇik ṛṣṭiḥ*)—धृतं क्षरणशीलं उदकं अंचति हितरमणीय रूपा विद्युदाख्यायुधविशेषो ना (*dhṛtaṃ kṣaraṇaśīlaṃ udakaṃ aṃcati hitaramaṇīya rūpā vidyudākhyāyudhaviśeṣo nā*). The word निर्णिक् (*nirṇik*) is stated among the names of form (Ni. 3-13). The word धृत (*dhṛta*) too is stated among the names of water (Ni. 2-24). The sense is that the Maruts produce the weapon in the form of lightning, joined with water of a flowing nature and of a form pleasing to those in the world; by their special motion the Maruts produce the weapon of lightning (aśani) in the waters.
+उपरा न सं मिम्यक्ष (*uparā na saṃ mimyakṣa*)—मेघपंक्तिविद्युत् इमे अपि संगते इत्यर्थः (*meghapaṃktividyut ime api saṃgate ityarthaḥ*). The word उपर (*upara*) is stated among the names of cloud (Ni. 2-22). The Maruts bring about in the waters two kinds of change, fluidity and solidifying; thereby they make the line of clouds and the lightning in it be together; and, bearing in their bodies, which have their own form, the weapon known as ऋष्टि (*ṛṣṭi*) (aśani), they appear as a chaplet of clouds with lightning appears in the world. Thus the weapon-bearing form of the Maruts is compared to the form joined with cloud and lightning. Yāska—
+### Printed p. 82
+आ विद्युन्मद्भिमरुतः स्वर्क्कै रथेभियार्त ऋष्टिमद्धिरश्वपर्णैः । आ वर्षिष्ठया न इ षा वयो न पप्तता सुमायाः ॥ (*ā vidyunmadbhimarutaḥ svarkkai rathebhiyārta ṛṣṭimaddhiraśvaparṇaiḥ | ā varṣiṣṭhayā na i ṣā vayo na paptatā sumāyāḥ ‖*)
+(Ṛ. Saṃ. 1-88-1)
+Quoting a Ṛk that teaches this same idea, he explains the manner in which the Maruts come, bearing their weapon and mounted on chariots. In the matter of the line of clouds moving with lightning, the phrase गुहा चरंती मनुषो न योषा (*guhā caraṃtī manuṣo na yoṣā*) is given as an illustration. Lightning is hidden in the cloud and moves in the sky; so for the word गुहा (*guhā*) two meanings are explained, a secret place and the sky. The particle न (*na*) is explained by Yāska: नेति प्रतिषेधार्थियो भाषायां उभयमन्वध्यायं (*neti pratiṣedhārthiyo bhāṣāyāṃ ubhayamanvadhyāyaṃ*) (Ni. 1-4). When न (*na*) is a word of worldly usage it conveys prohibition; in the Veda it is used in both senses, prohibition and comparison. For example: नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*)—here न (*na*) is used in the sense of prohibition.
+हृत्सु पीतासो युध्यंते दुर्मदासो न सुरायां । ऊधर्न नग्ना जरंते ॥ (*hṛtsu pītāso yudhyaṃte durmadāso na surāyāṃ | ūdharna nagnā jaraṃte ‖*)
+(Ṛ. Saṃ. 8-2-10)
+Here, taking it to mean that those who have drunk liquor fight like rivals, the sense of comparison is given to न (*na*) and its use in that sense shown. Likewise in ऊधर्न नग्ना (*ūdharna nagnā*) it is used in the sense of comparison. Following this, the phrase मनुषो न योषा (*manuṣo na yoṣā*) is explained as मनुष्यस्य परिवृढादेः महिषीवत् (*manuṣyasya parivṛḍhādeḥ mahiṣīvat*), as the wife of a heroic or superior man; and सा यथा सुवेषा अंतःपुर एव मध्यॆ चरति (*sā yathā suveṣā aṃtaḥpura eva madhyè carati*): the likeness of the wife of a hero, adorned with ornaments and moving hidden within the women's quarters, is applied to the movement of the line of clouds and the lightning.
+सभावती विदथ्या वाक् इव (*sabhāvatī vidathyā vāk iva*)—सभा जनसंघः । तद्वती । वर्षाकाले आविर्भवंति । विदथो यज्ञः तदर्हतीति विदथ्या प्रैषस्तोत्रादिरूपा वाक् । सा यथा यज्ञसभां प्राप्य आविर्भवति तद्वत् । यद्वा वेदनार्हा विवदमानयोर्वाक् । सा यथा सभावती तद्वत् (*sabhā janasaṃghaḥ | tadvatī | varṣākāle āvirbhavaṃti | vidatho yajñaḥ tadarhatīti vidathyā praiṣastotrādirūpā vāk | sā yathā yajñasabhāṃ prāpya āvirbhavati tadvat | yadvā vedanārhā vivadamānayorvāk | sā yathā sabhāvatī tadvat*). The fact that the line of clouds with lightning is not visible at all times is described by comparing it with the speech, prāiṣa and hymn, recited at the sacrifice. In the crowd gathered in the sacrificial assembly, the prāiṣa and hymn-speech, parts of the sacrifice, are recited only at that time. In the same way lightning and the line of clouds in the sky
+### Printed p. 83
+are visible only in the rainy season: this is one kind of explanation. In the second meaning, for the words विदथ्या वाक् (*vidathyā vāk*), वेदनार्हा विवदमानयोः वाक् (*vedanārhā vivadamānayoḥ vāk*): the speech of those who carry on debate to settle the meaning through examination of the prior view and the established conclusion is audible in the crowd in the middle of the assembly only at that time; so the cloud-chaplet and lightning are described as visible only in the rainy season. This is explained here by the word सभावती (*sabhāvatī*). By the sentence सैवं रूपा येषु मिम्यक्ष ते मरुतो देवयजनमागच्छंतु (*saivaṃ rūpā yeṣu mimyakṣa te maruto devayajanamāgacchaṃtu*) it is explained that the Maruts move with such lines of clouds and that they, bearing their weapon, should come to the sacrificial hall for the sacrifice.
+The word विदथ (*vidatha*) is stated among the names of sacrifice (Ni. 3-19). विदथानि वेदनानि (*vidathāni vedanāni*) (Ni. 6-8) also conveys the sense विज्ञानानि (*vijñānāni*).
+*hotā devo amartyaḥ* … प्रचोदर्य (*pracodarya*) **NOTE**
+(Ṛ. Saṃ. 3-27-7)
+In this example the word विदथानि (*vidathāni*) is explained as knowledge.
+मा नो मित्रॊ वरुणो आर्यमायुरिंद्र ऋभुक्षा मरुतः परि ख्यन् । यद्वाजिनो देवजातस्य सत्तेः प्रवक्ष्यावो विदथे वीर्याणि । (*mā no mitrò varuṇo āryamāyuriṃdra ṛbhukṣā marutaḥ pari khyan | yadvājino devajātasya satteḥ pravakṣyāvo vidathe vīryāṇi |*)
+(Ṛ. Saṃ. 1-162-1)
+Here the word विदथ (*vidatha*) is used in the sense of sacrifice. Sāyaṇa has explained both these senses for the word विदथ (*vidatha*) (see pages 9-13).
+
+##### Grammar
+
+- मिम्यक्ष — मृक्ष गतौ धातुः । लिट् प्रथमपुरुषैकवचने परस्मैपदानां (पा. सू. ३-४-८२) इति इलादेशः । धातोर्द्वित्वम् । बहुलं छंदसि इत्यभ्यासस्य संप्रसारणम् । पूर्वरूपम् । पादादित्वान्निघातस्वरो न भवति । लिति (पा. सू. ६-१-१९३) इति प्रत्ययात् पूर्वस्योदात्तस्वरो भवति ।
+- सुधिता — डुधाण् धारणपोषणयोः धातुः । कर्मणि क्त प्रत्ययः । व्यत्ययेन धातोर्हि आदेशे धित्वम् । गतिरनंतरः (पा. सू. ६-२-४९) इति गतेः प्रकृतिस्वरो भवति । स्त्रीत्वे टाप् ।
+- हिरण्यर्णिक् — हिरण्यमिव निर्णिक् यस्याः सा । बहुव्रीहौ प्रकृत्या पूर्वपदं इति पूर्वपदप्रकृतिस्वरो भवति ।
+
+### Printed p. 84
+- गुहा — सुपां सुलुक् (पा. सू. ७-१-३९) इति सप्तम्या लुक् भवति ।
+- चरंती — चर गतिभक्षणयोः धातुः । लडर्थे शतृप्रत्ययः । स्त्रीत्वे उगितश्च (पा. सू. ४-१-६) इति जीप् । शप्‌श्यनोर्नित्यं इति नुमागमः । धातुस्वरो अवशिष्यते । **NOTE**
+- सभावती — सभा अस्या अस्ति इति सभावती । तदस्यास्ति इति मतुप् प्रत्ययः । मादुपधायाश्च इति मकारस्य वत्वम् । उगित्त्वात् स्त्रीत्वे जीप् । मतुप् जीप् च पित्त्वादनुदात्तौ भवतः ।
+- विदथ्या इव — विद ज्ञाने धातुः । रुदिविदिभ्यां जित् (उ. सू. ३-३९५) इत्यथ प्रत्ययः । जित्त्वविधानात् लघूपधगुणो न भवति । विदथं अर्हति इति विदथ्या । अर्हार्थे यत् प्रत्ययः । यस्येति च इति पूर्वस्याकारस्य लोपः । तित् स्वरितं (पा. सू. ६-१-१८५) इति स्वरितस्वरो भवति । स्त्रीत्वे टाप् ।
+- वाक् — वच परिभाषणे धातुः । क्विब्वचिप्र— (उ. सू. २-१७०) इति रक् प्रत्ययः । तत्संनियोगेन धातोरुपधाया दीर्घः । धातुस्वरेणोदात्तो भवति ॥ ३ ॥
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॑ शु॒भ्रा अ॒यासो॑ य॒व्या सा॑धार॒ण्येव॑ म॒रुतो॑ मिमिक्षुः  
+> न रो॑द॒सी अप॑ नुदंत घो॒रा जु॒षंत॒ वृधं॑ स॒ख्याय॑ दे॒वाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । शुभ्राः । आयासः । यव्या । साधारण्या इव मरुतः । मिमिक्षुः ।  
+> न । रोदसी इति । अप । नुदंत । घोराः । जुषंत । वृधं । सख्याय । देवाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुभ्राः शोभनालंकारा अयासोऽभिगंतारो मरुतो यव्या मिश्रणशीलया विद्युता परा मिमिक्षुः । प्रकर्षेण सिंचंत्युदकसंस्थायं । साधारण्येव ।
+> यथा लोके साधारण्या स्त्रीया संगता युवानो रेतो मुंचंति तद्वत् । एवं
+
+##### Gist of the bhāṣya
+
+The शुभ्राः (*śubhrāḥ*) are the Maruts, well adorned; *ayāsaḥ*, those who approach. With the mingling lightning (यव्या (*yavyā*)) they have sprinkled forth (परा मिमिक्षुः (*parā mimikṣuḥ*)): they pour out water abundantly. साधारण्येव (*sādhāraṇyeva*): as in the world young men who have united with a common woman discharge their seed, so
+
 ---
 
-**Progress note:** Done through printed p. 78. pp. 73-78 (batch API), Latin-typed words replaced
+**Progress note:** Done through printed p. 84. pp. 79-84 (batch API)
