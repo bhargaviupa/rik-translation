@@ -155,7 +155,23 @@ def kind_rest(L):
         rm[i] = None
     return rm
 
-KINDS = {'rest': kind_rest, 'reading': kind_reading, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+LAB = re.compile(r'^(\*\*[^*\n]+\*\*)(\s*)\*\(([^)]*)\)\*')
+LAB_DROP = re.compile(r'accents? as printed|\bmine\b|tentative|printed in Kannada|dpi|better scan|crowded|repaired|numerals read|last word is printed|printed large|no separate title|heading block|large Kannada title|outlined only|svarita|anudātta|\[accent|HTML text|not transcribed')
+def kind_labels(L):
+    """label lines  **Saṃhitā-pāṭha** *(p. 2; accents as printed)*  (Vol 5, Nov 27 2026): keep the page clauses (and metre), drop remark clauses and the tail ' — grammar pages, noted briefly'."""
+    rm = {}
+    for i, l in enumerate(L):
+        m = LAB.match(l)
+        if not m: continue
+        cls = []
+        for cl in [x.strip() for x in m.group(3).split(';')]:
+            cl2 = re.sub(r'\s+—\s+(?:grammar pages?,? )?(?:noted briefly.*|characterized.*|begins?|begun)$', '', cl).strip()
+            if cl2 and not LAB_DROP.search(cl2): cls.append(cl2)
+        new = m.group(1) + ((' *(' + '; '.join(cls) + ')*') if cls else '') + l[m.end():]
+        if new != l: rm[i] = new
+    return rm
+
+KINDS = {'labels': kind_labels, 'rest': kind_rest, 'reading': kind_reading, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
