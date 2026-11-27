@@ -21143,6 +21143,265 @@ You have granted (his desires) to Vrika, exhausted by his devotions : when calle
 
 > ए॒ष स्य का॒रुर्ज॑रते सू॒क्तैरग्रे॑ बुधा॒न उ॒षसां॑ सु॒मन्मा॑ ।
 
+### Printed p. 511
+
+> इषा तं वर्धदघ्न्या पयोभिर्यूयं पात स्वस्तिभिः सदा नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । कारुः । जरते । सुउक्तैः । अग्रे । बुधानः । उषसां । सुमन्मा ।  
+> इषा । तं । वर्धत् । अघ्न्या । पयःभिः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष स्तोता स्य स प्रसिद्धो वसिष्ठः कारुः स्तोतोषसामग्रे प्रातःसवने बुधानो बुध्यमानः सुमन्मा शोभनमतिः सुष्टुतिर्वा सूक्तैर्जरते । स्तौति । तमिषान्नेन वर्धत् । वर्धयतं ॥ वचनव्यत्ययः ॥ अघ्न्या हंतव्या गौश्च वर्धत् । वर्धयतु । अथवैकपोव वाक्यं । अघ्न्या गौर्वसिष्ठस्य प्रतिनियताग्निहोत्रार्था गौरिषान्नेन । घृतादिनेत्यर्थः । पयोभिश्च तं वसिष्ठं वर्धत् । वर्धयतु । एवमात्मानं परोक्षेण निर्दिदेश । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+This praiser, the well-known Vasiṣṭha, awake before the dawns, that is, at the morning pressing, and well-minded (or "possessed of good praise"), praises with hymns. वर्धत् (*vardhat*) is "let it nourish", with a change of number: "nourish him with food". अघ्न्या (*aghnyā*) is the cow that is not to be killed, and she too is to nourish him. Or else the whole is one sentence: Vasiṣṭha's cow, set apart for his Agnihotra, together with food (ghee and the like) and with milk, is to nourish that Vasiṣṭha. In this way he refers to himself in the third person. The rest is plain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—the well-known
+- कारुः (*kāruḥ*)—the praiser
+- एषः (*eṣaḥ*)—this Vasiṣṭha
+- उषसां अग्रे (*uṣasāṃ agre*)—at the time of the morning pressing
+- बुधानः (*budhānaḥ*)—awake
+- सुमन्मा (*sumanmā*)—possessed of excellent understanding
+- सूक्तैः (*sūktaiḥ*)—with excellent praises
+- जरते (*jarate*)—praises
+- तं (*taṃ*)—him
+- इषा (*iṣā*)—with food
+- वर्धत् (*vardhat*)—nourish
+- अघ्न्या (*aghnyā*)—let the cow also
+- पयोभिः (*payobhiḥ*)—with her milk nourish him
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, this Vasiṣṭha, the praiser, awake at the time of the morning pressing and possessed of excellent understanding, praises you with excellent hymns. Nourish him with food. Let the cow also nourish him with her milk. Protect us always with blessings.
+
+##### English translation
+This your devoted worshipper, waking before the dawn, praises you with hymns: nourish him with food, and let the cow (nourish him) with her milk and do you ever cherish us with blessings.
+
+### Printed p. 512
+## Sūkta 69 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ वां रथ इत्यष्टर्चं चतुर्दशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाश्विनं ।
+> अनुक्रम्यते च। आ वां रथोऽष्टाविति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः॥
+
+##### Gist of the bhāṣya
+
+The hymn आ वां रथ (*ā vāṃ ratha*), of eight verses, is the fourteenth hymn; its seer is Vasiṣṭha, its deity the Aśvins, its metre Triṣṭubh. The Anukramaṇī says: आ वां रथोऽष्टौ (*ā vāṃ ratho 'ṣṭau*). Its application (viniyoga) in the Prātaranuvāka and in the Aśvina-śastra has been stated.
+
+##### Anuvāda
+
+This hymn beginning आ वां रथः (*ā vāṃ rathaḥ*) is the fourteenth hymn in the fourth anuvāka. It has eight Ṛks. Vasiṣṭha is its seer; the Aśvins are its deity; the metre is Triṣṭubh. In the Anukramaṇī it is said: आ वां रथोऽष्टौ (*ā vāṃ ratho 'ṣṭau*). It has been stated earlier that the hymn is applied in the Prātaranuvāka and the Aśvina-śastra mantras.
+
+##### Particulars
+
+Sūkta—69. Maṇḍala—7. Anuvāka—4. Sūkta—69. Aṣṭaka—5. Adhyāya—3. Varga—16. Number of Ṛks in the sūkta—8. Ṛṣi—Vasiṣṭha. Devatā—the Aśvins. Chandas—Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ रथो॒ रोद॑सी बद्बधा॒नो हि॑र॒ण्ययो॒ वृष॑भिर्या॒-त्वश्वैः॑ ।  
+> घृ॒तव॑र्तनिः प॒विभी॑ रुचा॒न इ॒षां वो॒ळ्हा नृ॒पति॑र्वा॒जिनी॑वान्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । रथः । रोदसी इति । बद्बधानः । हिरण्ययः । वृषभिः । यातु । अश्वैः ।  
+> घृतवर्तनिः । पविभिः । रुचानः । इषां । वोळ्हा । नृपतिः । वाजिनीवान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां रथो वृषभिर्युवभिरश्वैर्युक्तः सन्ना यातु । यज्ञमस्मदीयं । कीदृशो रथः । रथो विशेष्यते । रोदसी द्यावापृथिव्यौ बद्बधानो बाधमानो हिरण्ययो हिरण्मयो घृतवर्तनिर्घृतमुदकं वर्तन्यां यस्य तादृशः पविभी रथनेमिभिर्मधुपात्रैर्वा रुचानो दीप्यमान इषां वोळ्हा यजमा-
+
+### Printed p. 513
+
+> नां हविषां वाहको दातव्यानां नान्नानां वोळ्हा नृपतिर्नृणां यजमानानां स्वामी वाजिनीवानन्नवान् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, let your chariot, yoked with young bull-horses, come to our sacrifice. What kind of chariot? रोदसी (*rodasī*) is heaven and earth, which it presses upon (बद्बधानः (*badbadhānaḥ*)); हिरण्ययः (*hiraṇyayaḥ*) is golden; घृतवर्तनिः (*ghṛtavartaniḥ*) is one in whose track there is ghṛta, that is, water; पविभी (*pavibhī*) means with its wheel-rims or with its honey-vessels, shining; इषां वोळ्हा (*iṣāṃ voḷhā*) is the bearer of the sacrificers' oblations, of the foods that are to be given; नृपतिः (*nṛpatiḥ*) is the lord of men, the sacrificers; वाजिनीवान् (*vājinīvān*) is possessed of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोदसी (*rodasī*)—heaven and earth
+- बद्बधानः (*badbadhānaḥ*)—enveloping
+- हिरण्ययः (*hiraṇyayaḥ*)—made of gold
+- घृतवर्तनिः (*ghṛtavartaniḥ*)—having water
+- पविभिः (*pavibhiḥ*)—with its wheel-rims
+- रुचानः (*rucānaḥ*)—shining
+- इषां (*iṣāṃ*)—food
+- वोळ्हा (*voḷhā*)—bearing
+- नृपतिः (*nṛpatiḥ*)—lord over the sacrificers
+- वाजिनीवान् (*vājinīvān*)—possessed of food
+- वां (*vāṃ*)—your
+- रथः (*rathaḥ*)—chariot
+- वृषभिः (*vṛṣabhiḥ*)—young
+- अश्वैः (*aśvaiḥ*)—with horses
+- आ यातु (*ā yātu*)—let it come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, may your chariot, which envelops heaven and earth, is made of gold, has water, shines with its wheel-rims, bears food, is lord over the sacrificers and is possessed of food, come with its young horses.
+
+##### English translation
+May your golden chariot, drawn by your vigorous horses, blocking up heaven and earth, come to us, following the track of the waters, radiant with (glowing) wheels laden with viands, the protector of men, the receptacle of food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑प्रथा॒नो अ॒भि पंच॒ भूमा॑ त्रिवंधु॒रो मन॒सा या॑तु यु॒क्तः ।  
+> विशो॒ येन॒ गच्छ॑थो देव॒यंतीः॒ कुत्र॑ चि॒द्याम॑मश्विना॒ दधा॑ना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पप्रथानः । अभि । पंच । भूम । त्रिवंधुरः । मनसा । आ । यातु । युक्तः ।  
+> विशः । येन । गच्छथः । देवयंतीः । कुत्र । चित् । यामं । अश्विना । दधाना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 514
+
+> स रथः पंच भूमा भूतानि सर्वप्राणिनः पप्रथानः प्रथमानस्त्रिवंधुरः । वंधुरमुच्छ्रावचं सारथ्यवस्थानं काष्ठमयं । तादृशैस्त्रिभिर्युक्तो मनसास्मत्स्तुत्या युक्तोभ्या यातु । येन रथेन देवयंतीर्विशो यजमानान्प्रति गच्छथः । हे अश्विनाश्विनौ कुत्र चिद्यत्र क्वापि यामं गमनं दधाना धारयंतौ येन विशो गच्छथः स यात्विति ॥
+
+##### Gist of the bhāṣya
+
+That chariot, spreading widely over the five beings, all living creatures, and having three वंधुर (*vaṃdhura*) (the wooden seat where the charioteer stands), yoked with such three, joined with our praise in mind, let it come hither, the chariot by which you go to the sacrificers who desire the gods. O Aśvins, wherever you hold your course, let that chariot by which you go to the people come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- कुत्रचित् (*kutracit*)—to whatever place
+- यामं (*yāmaṃ*)—your movement
+- दधाना (*dadhānā*)—arranging
+- येन (*yena*)—by which chariot
+- देवयंतीः (*devayaṃtīḥ*)—desiring the gods
+- विशः (*viśaḥ*)—to the sacrificers
+- गच्छथः (*gacchathaḥ*)—you go
+- सः (*saḥ*)—that same chariot
+- पंच भूमा (*paṃca bhūmā*)—among the five kinds of beings
+- पप्रथानः (*paprathānaḥ*)—renowned
+- त्रिवंधुरः (*trivaṃdhuraḥ*)—having three seats
+- मनसा (*manasā*)—with a praise of the nature of meditation
+- युक्तः (*yuktaḥ*)—joined
+- अभि आ यातु (*abhi ā yātu*)—let it come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the chariot with which, arranging your movement to whatever place, you go to the sacrificers who desire the gods, may that same chariot, renowned among the five kinds of beings, having three seats, joined with a meditative praise, come to us.
+
+##### English translation
+Renowned among the five orders of beings, furnished with three benches, harnessed at will, may it come hither : that (vehicle) wherewith you repair to devout mortals, whithersoever, Aswins, directing your course.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वश्वा॑ य॒शसा या॑तम॒र्वाग्दस्रा॑ नि॒धिं मधु॑मंतं पिबाथः ।  
+> वि वां॒ रथो॑ व॒ध्वा॒३॒॑ याद॑मा॒नोऽंता॑न्दि॒वो बा॑धते वर्त॒निभ्यां॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुअश्वा । यशसा । आ । यातं । अर्वाक् । दस्रा । निधिं । मधुमंतं । पिबाथः ।  
+> वि । वां । रथः । वध्वा । यादमानः । अंतान् । दिवः । बाधते । वर्तनिभ्यां ॥ ३ ॥
+
+### Printed p. 515
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवौ स्वश्वा शोभनाश्वेन यशसा चार्वागस्मदभिमुखं यातं । आगच्छतं । हे दस्रा शत्रूणामुपक्षपयितारौ मधुमंतं मधुररसोपेतं निधिं निधिवन्निहितं सोमं पिबाथः । पिबतं । वां युवयो रथो वध्वा सूर्यया सह यादमानो गंतव्यान्प्रति गच्छन् । गमयन्नित्यर्थः । एवं कुर्वन् वर्तनिभ्यां स्वचक्राभ्यां दिवोऽंतान् पर्यंतप्रदेशान् बाधते । शीघ्रगमनेन पीडयति ॥
+
+##### Gist of the bhāṣya
+
+O gods, well-horsed and with glory, come toward us. O Dasras, destroyers of enemies, drink the Soma, honey-sweet and laid down like a treasure. Your chariot, going with the bride Sūryā to those to be reached (that is, causing them to be reached), thus acting afflicts with its two wheels the extremities of heaven, the border regions; it presses them by its swift going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वश्वा (*svaśvā*)—O Aśvins, possessed of excellent horses
+- यशसा (*yaśasā*)—with excellent glory
+- अर्वाक् (*arvāk*)—toward us
+- यातं (*yātaṃ*)—come
+- दस्रा (*dasrā*)—O Aśvins, destroyers of enemies
+- मधुमंतं (*madhumaṃtaṃ*)—delicious
+- निधिं (*nidhiṃ*)—laid down like a treasure
+- पिबाथः (*pibāthaḥ*)—drink the Soma
+- वां (*vāṃ*)—your
+- रथः (*rathaḥ*)—chariot
+- वध्वा (*vadhvā*)—together with Sūryā
+- यादमानः (*yādamānaḥ*)—moving through all regions
+- वर्तनिभ्यां (*vartanibhyāṃ*)—with its wheels
+- दिवः अंतान् (*divaḥ aṃtān*)—the regions of the atmosphere
+- बाधते (*bādhate*)—traverses
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, possessed of excellent horses, come toward us with excellent glory. O Aśvins, destroyers of enemies, drink the Soma, delicious and laid down like a treasure. Your chariot, moving with Sūryā through all regions, traverses with its wheels the regions of the atmosphere (passes beyond them).
+
+##### English translation
+Well-horsed and celebrated, come Aswins, to our presence : drink, Dasras, the sweet pledge : your chariot, conveying you, with your spouse, furrows with its two wheels the extremities of the sky.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वोः श्रियं॒ परि॒ योषा॑वृणीत॒ सूरो॑ दुहि॒ता परि॑तक्म्यायां ।  
+> यद्दे॑व॒यंत॒मव॑थः॒ शची॑भिः॒ परि॑ घ्रं॒समो॒मना॑ वां॒ वयो॑ गात् ॥ ४ ॥
+
+### Printed p. 516
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । श्रियं । परि । योषा । अवृणीत । सूरः । दुहिता । परितक्म्यायां ।  
+> यत् । देवयंतं । अवथः । शचीभिः । परि । घ्रंसं । ओमना । वां । वयः । गात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवोर्युवयोः श्रियं । श्रयत इति श्री रथः । तं सेवामेव वा योषा सर्वदा मिश्रयंती योषित् सूरः सूर्यस्य दुहिता पर्यवृणीत । कदा । परितक्म्यायां रात्रौ परितस्तकनवति संग्रामे यज्ञे वा गंतव्ये । किं च यद्यदा देवयंतं देवकामं यजमानं यज्ञं वा शचीभिर्युवयोर्गमनादिलक्षणैः कर्मभिरवथः रक्षथः तदानीं घ्रंसं दीप्तं वयोऽन्नं सोमादिलक्षणमोमनावनेन रक्षणेन निमित्तेन वां परि गात् । पर्यगात् ॥
+
+##### Gist of the bhāṣya
+
+युवोः श्रियं (*yuvoḥ śriyaṃ*): श्री (*śrī*) is the chariot, that which is resorted to; or it is the service itself. The woman who always mingles with them, the daughter of Sūrya, chose it all round. When? परितक्म्यायां (*paritakmyāyāṃ*): at night, or in a battle on all sides marked by robbers, or at a sacrifice that is to be attended. Moreover, when you protect with your deeds (शचीभिः (*śacībhiḥ*)), consisting of going and the like, the sacrificer who desires the gods, or the sacrifice, then the bright food (वयः (*vayaḥ*)), of the nature of Soma and the like, goes round you (परि गात् (*pari gāt*) is पर्यगात् (*paryagāt*)) by reason of that protection, ओमना (*omanā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवोः (*yuvoḥ*)—your
+- श्रियं (*śriyaṃ*)—chariot
+- योषा (*yoṣā*)—who is always with you
+- सूरः दुहिता (*sūraḥ duhitā*)—the daughter of Sūrya
+- परितक्म्यायां (*paritakmyāyāṃ*)—at night
+- परि अवृणीत (*pari avṛṇīta*)—took refuge
+- यत् (*yat*)—when
+- देवयंतं (*devayaṃtaṃ*)—the sacrificer who desires the gods
+- शचीभिः (*śacībhiḥ*)—by your deeds
+- अवथः (*avathaḥ*)—you protect
+- घ्रंसं (*ghraṃsaṃ*)—bright
+- वयः (*vayaḥ*)—food of the nature of Soma
+- ओमना (*omanā*)—by reason of your protection
+- वां परि (*vāṃ pari*)—round you
+- गात् (*gāt*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the daughter of Sūrya, who is always with you, took refuge in your chariot at night. When you protect with your deeds the sacrificer who desires the gods, then the bright Soma-food flows round you by reason of the protection obtained from you.
+
+##### English translation
+The daughter of Surya made choice of your chariot at the approach of night : you defend the devout worshipper by your deeds, when the resplendent (sacrificial) food proceeds to you to secure your protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+ओमना (*omanā*)—Yāska, explaining this word, gives the etymology: परिघ्रंसमोमना वां वयोऽगात् । पर्यगाद्वां घ्रंसमहरवनायोन्नं । (*parighraṃsamomanā vāṃ vayo 'gāt | paryagādvāṃ ghraṃsamaharavanāyonnaṃ |*) (Ni. 6-4). ओमना (*omanā*) means "for the sake of protection", that is, with food in the form of oblation
+
 ---
 
-**Progress note:** Done through printed p. 510. pp. 505-510 (batch API)
+**Progress note:** Done through printed p. 516. pp. 511-516 (batch API)
