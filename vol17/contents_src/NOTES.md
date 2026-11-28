@@ -1,0 +1,37 @@
+# Vol 17 contents source (2026-11-28)
+- `contents_scan.pdf`: 11 pages = printed pp. ix (unnumbered, headed `|| ಶ್ರೀ ||`), x, xi, xii, xiii, xiv, xv, xvi, xvii, xviii, xix. It covers the whole contents, from Sūkta III.40 to the closing line `ವಿಷಯನುಕ್ರಮಣಿಕೆಯು ಸಮಾಪ್ತವು` (end of p. xix). Nothing of the contents is missing from the PDF; every line was compared with the scan. No printer's colophon in the scan (the press, from the title page of the supplied text: Sree Vinayak Printing Works, Mysore, 1952).
+- `contents_kn.md`: the contents text of `html/rig_17.md` (lines 400 ff.), compared with the scan. Structure: `##` lines for the headings (Adhyāya, Maṇḍala, sūkta range, "Explanation of the Gāyatrī mantra"); roman page signatures dropped. 299 blocks: 40 sūktas (III.40–62, IV.1–18), 247 items, 12 headings/ends.
+- Corrections to the supplied text (old → new, printed page):
+  - `ಸೂಕ್ತಗಳು ೪೮-೬೨` → `೪೦-೬೨` (p. ix, heading)
+  - `ಯಾಹ್ಯರ್ನಾಜ್` → `ಯಾಹ್ಯರ್ವಾಜ್` (p. ix; also the body)
+  - `ತ್ವಷ್ಟವಿನ` → `ತ್ವಷ್ಟೃವಿನ` (p. x)
+  - `ಯುದ್ಧಸ್ಯ ತೇ` → `ಯುಧ್ಮಸ್ಯ ತೇ` (p. x)
+  - `ಮರುತ್ವಾ ಇಂದ್ರ` → `ಮರುತ್ವಾಂ ಇಂದ್ರ` (p. x; anusvāra over the letter, as in the body)
+  - `ನೈಜಾಶಾಖಂ` → `ನೈಚಾಶಾಖಂ` (p. xi)
+  - `ಮಹಾ ಆದಿತ್ಯಃ` → `ಮಹಾಂ ಆದಿತ್ಯಃ` (p. xiii; anusvāra, as in the body)
+  - `ತ್ರಿಷಧಸ್ಥಾ ಎಂಬ ಶಬ್ದದ ಶರ್ಣನೆ` → `ಪರ್ಣನೆ` (p. xii; the print has a letter that reads like ಪ; see doubts)
+  - `ಭ್ರಮಯಃ` → `ಭೃಮಯಃ` (p. xiv)
+  - `ಸಾವಿತ್ರಿಶಬ್ದ` → `ಸಾವಿತ್ರೀಶಬ್ದ` (p. xv)
+  - `ಶೈನಪಕ್ಷಿಯ ಪ್ರಯತ್ನ` → `ಶ್ಯೇನಪಕ್ಷಿಯು ಪ್ರಯತ್ನ`; `ಗಾಯತ್ರಿಯೇ ಶೈನವು` → `ಗಾಯಿತ್ರಿಯೇ ಶ್ಯೇನವು`; `ಇವುಗಳ ತಾದಾತ್ಮ ` → `ತಾದಾತ್ಮ್ಯ`, `ಶೈನ` → `ಶ್ಯೇನ` (p. xv)
+  - `ಗಾಯತ್ರಿಮಹಾಮಂತ್ರದ ಪೀಠಿಕೆ`, `ಗಾಯತ್ರಿಮಂತ್ರದ ವಿಶೇಷವಿನಿಯೋಗ` (p. xiv), `ಗಾಯತ್ರಿಮಹಾಮಂತ್ರದ ಪ್ರತಿಪದಾರ್ಥವರ್ಣನೆ`, `ಗಾಯತ್ರಿಮಂತ್ರದ ಪದಗಳ …`, `…ವಿವರಣೆಯು ಸಮಾಪ್ತವು` (p. xvi) → `ಗಾಯತ್ರೀ…` (long ī, as printed)
+  - `ಪಾದೋsಸ್ಯ` → `ಪಾದೋಽಸ್ಯ` (p. xvi)
+  - `ಮಂಡಲದ್ರಷ್ಟವಾದ` → `ಮಂಡಲದ್ರಷ್ಟೃವಾದ` (p. xvii)
+  - `ಆ ಯೂಧೇವ` → `ಆ ಯೂಥೇವ` (p. xvii)
+  - `ಕೃಣುಷ್ಟ ಪಾಜಃ` → `ಕೃಣುಷ್ವ ಪಾಜಃ` (p. xvii)
+  - `ಅಯಾ, ತ್ಮನಾ` → `ಆಯಾ, ತ್ಮನಾ` (p. xvii)
+  - `ಮೀಳುಷೇ` → `ಮೀಳ್ಹುಷೇ` (p. xviii)
+  - `ಯಾಜ್ಞಕರ ಮತವು` → `ಯಾಜ್ಞಿಕರ ಮತವು` (p. xviii)
+  - `೧೨. … ಹದಿನೂರನೆಯ` → `೧೩. … ಹದಿಮೂರನೆಯ` (p. xix; see doubts)
+  - `ಮಹಾ ಇಂದ್ರ` → `ಮಹಾಂ ಇಂದ್ರ` (Sūkta IV.17, p. xix; anusvāra)
+  - `೧೭-` → `೧೭.` (p. xix; the print has a mark like a hyphen/dot; changed only so that the parser reads the sūkta)
+  - the heading `## ವಿಷಯಾನುಕ್ರಮಣಿಕೆ.` lost its full stop; `೧- ೧೮ ಸೂಕ್ತಗಳು.` → `## ೧-೧೮ ಸೂಕ್ತಗಳು.`; the Gāyatrī heading got `##`. Closing marker `<!-- end of contents -->` is not print.
+- Misprints kept as printed (the user decides):
+  - line 278, p. xviii, `ಅಪ್ನವಾನ ಎಂಬ ಋಷಿಯ ವೃತ್ತಾಂತ 242`: printed 242 after 840 (expected about 843–848). The only backward step of the parser.
+  - Sūkta IV.11 (line 287, p. xviii): `ಭದ್ರಂ ತೇ ಅಗ್ನೇ ಎಂಬ ಹತ್ತನೆಯ ಸೂಕ್ತವು` — printed "tenth", expected `ಹನ್ನೊಂದನೆಯ`.
+  - line 53, p. x: `ದೇದತೆಯ` (for ದೇವತೆಯ); line 60, p. xi: `ವಿಶ್ವಾಮಿತ್ರತು … ವಿಚಾಕ` (for ವಿಶ್ವಾಮಿತ್ರನು, ವಿಚಾರ); line 130, p. xiii: `ಸಂಹಿತೆಯತೆಯಲ್ಲಿರುವಂತೆ`; line 127: `ನಿವರ್ಚನ`; line 276: print has `ಸೂಕವು` for `ಸೂಕ್ತವು`, written `ಸೂಕ್ತವು` so that the line is read as a sūkta heading; line 296 page `913` fine.
+  - Sūkta IV.3 line 252 and IV.60 line 145, 155: no closing dash/different dash; no effect.
+  - Sūkta IV.13 (line 291, p. xix): the numeral glyph is damaged in the scan (looks like `೧೨`); the sequence and `ಹದಿಮೂರನೆಯ` (printed) give `೧೩`. Sūkta IV.17 numeral looks like `೧೨-`/`೧೭-` in the scan; read `೧೭` from the word `ಹದಿನೇಳನೆಯ`.
+- Doubts (best reading chosen): line 98, p. xii `ಪರ್ಣನೆ` (could be `ವರ್ಣನೆ`); line 163, p. xiv `ಭೃಮಯಃ` (could be `ಭ್ರಮಯಃ`); line 213 `ವರಂಜ್ಯೋತೀರೂಪ` and line 209 `ಪರುವಪುರುಷನ` kept as the supplied text and the scan show them (probably for ಪರಂ-, ಪರಮ-); `ಋಷಿದೇವತಾಛಂದಸ್ಸುಗಳು` in Sūkta IV.4 (line 258) reads `…ದೇವಶಾ…` in the scan, kept as the supplied text.
+- Not compared letter by letter: the long Gāyatrī entries of pp. xv–xvi were compared at 150 dpi and in part (pp. xv, first half of xvi) at 300 dpi; small conjunct differences (e.g. `ತಾದಾತ್ಮ` for `ತಾದಾತ್ಮ್ಯ` line 206, `ಗಾಯತ್ರಿ`/`ಗಾಯಿತ್ರಿ` spellings) may remain. Every page number was read on the scan and agrees with the file.
+- `contents_en.tsv`: one row per parsed block (299); `../contents_en.json` made by `python3 publish/tools/frontmatter/make_contents_en.py 17 --end 'end of contents'`.
+- Incipits that are Sanskrit are in the Kannada Text of the volume (checked: ಯಾಹ್ಯರ್ವಾಜ್, ಮಹಾಂ ಆದಿತ್ಯಃ, ಮರುತ್ವಾಂ, ಶಂಸ ಮಹಾಂ).

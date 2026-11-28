@@ -1,0 +1,17 @@
+# Vol 4 contents source (2026-11-28)
+- `contents_scan.pdf`: the user's scan of the original contents (3 pages: pp. v, vi, vii; entries of Sūktas 33–45). **Page viii** (the end of Sūkta 45 and Sūkta 46, pp. 545–573, and the printer's colophon) is **not in the PDF**: its lines are the supplied text as it stands, not compared with a scan.
+- `contents_kn.md`: the contents text of `html/rig_4_1.md` (lines 242 ff.), compared line by line with the three scan pages (entries and every page number agree). Edits to the machine text, read on the scan (and, where marked, the body of the volume):
+  - `ಅಶ್ವಿನೀದೇಪತೆಗಳ` → `ಅಶ್ವಿನೀದೇವತೆಗಳ` (p. v)
+  - `ಹ್ಯಯಾಮ್ಯಗ್ನಿಂ` → `ಹ್ವಯಾಮ್ಯಗ್ನಿಂ` (p. vi; also the body)
+  - `ತುರ್ವಿತಿ ಇವರುಗಳ` → `ತುರ್ವೀತಿ ಇವರುಗಳ` (p. vi)
+  - `ಕದ್ದ ನೂನಂ` → `ಕದ್ಧ ನೂನಂ` (p. vi)
+  - `ಉತ್ತಿಷ್ಟ` → `ಉತ್ತಿಷ್ಠ` (p. vi; also the body)
+  - `ನಲವತ್ಯನೆಯ` → `ನಲವತ್ತನೆಯ` (p. vi)
+  - `ಜಾತವೇದಶಬ್ದದ` → `ಜಾತವೇದಃಶಬ್ದದ` (p. vii)
+  - `ಪ್ರಸ್ಕಣ್ಣ ಋಷಿಯ` → `ಪ್ರಸ್ಕಣ್ವ ಋಷಿಯ` (p. vii)
+  - `೩೭ ಕ್ರೀಳಂ` → `೩೭. ಕ್ರೀಳಂ` (p. vi (the full stop of the print))
+- Not changed, for the user: `ಮಸುವಿನ ವಿಚಾರ 545` (page viii, not scanned): p. 545 of the body is about Manu (`ಮನುಜಾತಂ — ಮನುವಿನಿಂದ …`), so it is very probably `ಮನುವಿನ ವಿಚಾರ`; the English row reads "Discussion of Manu."
+- Closing marker `<!-- end of contents -->` is not print: it gives the parser the end of the region.
+- `contents_en.tsv`: English, one row per parsed line; `../contents_en.json` made by `python3 publish/tools/frontmatter/make_contents_en.py 4` (every ⟦word⟧ is copied from its Kannada line and checked).
+- Printer's colophon on page viii (supplied text): "ಕೆ. ವೆಂಕಟಸುಬ್ಬಯ್ಯ, ಪ್ರಿಂಟರ್, ಶ್ರೀ ವಿನಾಯಕ್ ಪ್ರಿಂಟಿಂಗ್ ವರ್ಕ್ಸ್, ಮೈಸೂರು." → press of Vol 4: Śrī Vināyak Printing Works, Mysore (`publish/kan_titles.tsv`).
+- Printed pages 545–573 (page viii) are in the contents; the body of the volume goes to p. 608 (Sūkta 46 runs to the end).

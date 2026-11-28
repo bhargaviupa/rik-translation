@@ -1,0 +1,10 @@
+{
+ "_doc": "English front matter of Vol 28: only the heading of the contents (board and preface pages come from publish/frontmatter and the English file). Read by publish/volbook.py.",
+ "contents": {
+  "heading": [
+   "॥ Śrīḥ ॥",
+   "Contents of the Twenty-eighth Volume of the Ṛgveda-saṃhitā"
+  ],
+  "page_note": "Page numbers are the pages of this book."
+ }
+}

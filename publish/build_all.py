@@ -2,7 +2,7 @@
 """Build the review PDFs of many volumes the same way and record the result (user, Nov 26 2026: the rules go into the requirements and the
 shared scripts first, then they are applied uniformly).
 
-  python3 publish/build_all.py [N …] [--cleanup] [--kan]
+  python3 publish/build_all.py [N …] [--cleanup] [--kan]     (default: the English book only; --kan: only the Kannada book, `volbook.py N kan`, for every volume that has a pubcfg.json)
 
 For each volume: (--cleanup: `tools/rv/cleanup_remarks.py N all --write` first, with the headings of the book compared before and after),
 the volume's builder (1: build_vol1.py; 2: build_vol2.py; 3: build.py; 4-10: build_vol45.py; a volume with volN/pubcfg.json: volbook.py),
@@ -14,7 +14,9 @@ PUB = pathlib.Path(__file__).resolve().parent; ROOT = PUB.parent
 sys.path.insert(0, str(PUB))
 def builder(n):
     cfgp = ROOT / f'vol{n}' / 'pubcfg.json'
-    if cfgp.exists() and not json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'): return ['python3', str(PUB / 'volbook.py'), str(n)], ROOT
+    if '--kan' in sys.argv and cfgp.exists(): return ['python3', str(PUB / 'volbook.py'), str(n), 'kan'], ROOT          # the Kannada book only (every volume with a pubcfg.json)
+    if cfgp.exists() and json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only') and n > 10: return None, None    # Kannada book only and no English builder: built with --kan
+    if cfgp.exists() and not json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'): return ['python3', str(PUB / 'volbook.py'), str(n), 'eng'], ROOT   # English book only by default: the Kannada book is built by its own session (--kan)
     if n == 1: return ['python3', 'build_vol1.py', 'full'], PUB
     if n == 2: return ['python3', 'build_vol2.py', 'full'], PUB
     if n == 3: return ['python3', 'build.py', '3', 'full'], PUB
@@ -37,7 +39,7 @@ def main():
     rows = []
     for n in vols:
         cmd, cwd = builder(n)
-        if not cmd: rows.append((n, 'no builder (no pubcfg.json)', '', '', '', '')); print(f'vol{n}: no builder'); continue
+        if not cmd: rows.append((n, 'no builder (no pubcfg.json, or a Kannada-only volume: use --kan)', '', '', '', '')); print(f'vol{n}: no builder'); continue
         note = ''
         if cleanup and not (ROOT / f'vol{n}' / 'pubcfg.json').exists():
             run(cmd, cwd); before = heads(n)
@@ -47,14 +49,14 @@ def main():
             note = 'clean-up: ' + ', '.join(f'{k} {v}' for k, v in cnt.items() if v) if any(cnt.values()) else 'clean-up: nothing to remove'
         rc, out = run(cmd, cwd)
         cfgp = ROOT / f'vol{n}' / 'pubcfg.json'
-        if not rc and cfgp.exists() and json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'):        # the Kannada book of an old volume
+        if not rc and '--kan' not in sys.argv and cfgp.exists() and json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'):        # the Kannada book of an old volume
             rc2, out2 = run(['python3', str(PUB / 'volbook.py'), str(n), 'kan'], ROOT); out += out2
         if rc: rows.append((n, 'BUILD FAILED: ' + out.strip().split('\n')[-1][:150], '', '', '', note)); print(f'vol{n}: build failed'); continue
         if cleanup and note.startswith('clean-up:') and 'nothing' not in note:
             after = heads(n); lost = [h for h in before if h not in after]
             if lost: note += f'; HEADINGS LOST after clean-up: {len(lost)} (e.g. {lost[0][:50]!r}) — look before keeping'
         fixline = '; '.join(m for m in re.findall(r'\[printfix\] (.*)', out)[:1])
-        pdfs = sorted((ROOT / f'vol{n}' / 'review').glob(f'vol{n}_full*.pdf'))
+        pdfs = sorted(f for f in (ROOT / f'vol{n}' / 'review').glob(f'vol{n}_full*.pdf') if 'for_comparison' not in f.name and ('--kan' in sys.argv or '_Kan' not in f.name))
         for pdf in pdfs:
             pages, fails, counts = check(pdf)
             rows.append((n, pdf.name, pages, '; '.join(fails) or 'passes', counts, (fixline + ('; ' if note and fixline else '') + note) if pdf == pdfs[0] else ''))

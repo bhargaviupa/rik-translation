@@ -1,0 +1,24 @@
+{
+ "vol": 10,
+ "range_line": "Maṇḍala 1 · Sūktas 122–136",
+ "adhyaya_line": "First Adhyāya of the Second Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol10/Rigveda_Samhita_Vol10_Kannada_Text.md",
+ "out": "vol10_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: REQUIREMENTS L; no colophon in the Kannada file). The English book of this volume has no print build yet.",
+ "supplied_md": "vol10/html/rig_10_2.md",
+ "contents": {
+  "source": "vol10/contents_src/contents_kn.md",
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "end of contents",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ },
+ "contents_en": "vol10/contents_en.json"
+}

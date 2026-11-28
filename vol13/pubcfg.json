@@ -1,0 +1,22 @@
+{
+ "vol": 13,
+ "range_line": "Maṇḍala 1 · Sūktas 166–183",
+ "adhyaya_line": "Fourth Adhyāya of the Second Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Śrī Śāradā Press, Mysore",
+ "year": "",
+ "press": "Śrī Śāradā Press, Mysore",
+ "kannada_md": "vol13/Rigveda_Samhita_Vol13_Kannada_Text.md",
+ "out": "vol13_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: English `## Sūkta` headings (STATUS said \"expected\"); press: colophon (Hanumantharao Street)). The English book of this volume has no print build yet.",
+ "supplied_md": "vol13/html/rig_13.md",
+ "contents": {
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
+}

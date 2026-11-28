@@ -3,8 +3,6 @@
 
 ---
 
-**Progress note:** Done through printed p. 0; nothing translated yet.
-
 ## ಪೀಠಿಕೆ
 
 ಮುನ್ನುಡಿ

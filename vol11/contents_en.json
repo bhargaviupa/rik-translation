@@ -1,0 +1,674 @@
+[
+ {
+  "src": 3,
+  "en": "The Second Adhyāya of the Second Aṣṭaka."
+ },
+ {
+  "src": 4,
+  "en": "137. The one hundred thirty-seventh sūkta, beginning ⟦ಸುಷುಮಾ ಯಾತಂ⟧"
+ },
+ {
+  "src": 5,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 6,
+  "en": "Discussion of the substance not mixed with milk (aśira)."
+ },
+ {
+  "src": 7,
+  "en": "The various meanings of the word ⟦ಅಂಶು⟧."
+ },
+ {
+  "src": 8,
+  "en": "138. The one hundred thirty-eighth sūkta, beginning ⟦ಪ್ರಪ್ರ ಪೂಷ್ಣಃ⟧"
+ },
+ {
+  "src": 9,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 10,
+  "en": "Derivation and meaning of the word ⟦ಪೂಷನ್⟧."
+ },
+ {
+  "src": 11,
+  "en": "Translation and explanation of the word ⟦ತುವಿಜಾತ⟧, etc."
+ },
+ {
+  "src": 12,
+  "en": "Explanation of the meaning of the word ⟦ದಸ್ಮ⟧."
+ },
+ {
+  "src": 13,
+  "en": "Explanation of the meaning of the word ⟦ಆಫೃಣಿ⟧, etc."
+ },
+ {
+  "src": 14,
+  "en": "139. The one hundred thirty-ninth sūkta, beginning ⟦ಅಸ್ತು ಶ್ರೌಷಟ್⟧"
+ },
+ {
+  "src": 15,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 16,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 17,
+  "en": "Explanation of the meaning of the word ⟦ಶರ್ಧ⟧."
+ },
+ {
+  "src": 18,
+  "en": "The various meanings and uses of the word ⟦ಋತ⟧."
+ },
+ {
+  "src": 19,
+  "en": "Some special matters concerning the Stoma."
+ },
+ {
+  "src": 20,
+  "en": "The various uses of the word ⟦ನಾಕ⟧."
+ },
+ {
+  "src": 21,
+  "en": "The various meanings of the word ⟦ರಜಃ⟧."
+ },
+ {
+  "src": 22,
+  "en": "Explanation of the word ⟦ಶಚೀವಸೂ⟧, etc."
+ },
+ {
+  "src": 23,
+  "en": "The special application (viniyoga) of the Ṛk ⟦ವೃಷನ್ನಿಂದ್ರ ವೃಷಪಾಣಾಸಃ⟧, etc."
+ },
+ {
+  "src": 24,
+  "en": "The special application (viniyoga) of the Ṛk ⟦ಓ ಷೂ ಣೋ ಅಗ್ನೇ⟧."
+ },
+ {
+  "src": 25,
+  "en": "The account of how the Aṅgirases obtained cows from the deities, etc."
+ },
+ {
+  "src": 26,
+  "en": "The special application (viniyoga) of the Ṛk ⟦ದಧ್ಯಜ್ ಹ ಮೇ⟧."
+ },
+ {
+  "src": 27,
+  "en": "The account of the seer Dadhīca."
+ },
+ {
+  "src": 28,
+  "en": "The subject of Priyamedha, Kaṇva and Atri."
+ },
+ {
+  "src": 29,
+  "en": "The special application (viniyoga) of the Ṛk ⟦ಯೇ ದೇವಾಸಃ⟧."
+ },
+ {
+  "src": 30,
+  "en": "The subject of the thirty-three deities, etc."
+ },
+ {
+  "src": 31,
+  "en": "140. The one hundred fortieth sūkta, beginning ⟦ವೇದಿಷದೇ⟧"
+ },
+ {
+  "src": 32,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 33,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 34,
+  "en": "Explanation of the meaning of the word ⟦ದ್ವಿಜನ್ಮ⟧, etc."
+ },
+ {
+  "src": 35,
+  "en": "The distinctive character of the flames of Agni."
+ },
+ {
+  "src": 36,
+  "en": "The various meanings and uses of the word ⟦ಅಭ್ವ⟧."
+ },
+ {
+  "src": 37,
+  "en": "Description of the power of spreading of the flame of Agni, etc."
+ },
+ {
+  "src": 38,
+  "en": "Explanation of the meaning of the word ⟦ಅಗ್ರುವ⟧, etc."
+ },
+ {
+  "src": 39,
+  "en": "Explanation of the meaning of the word ⟦ಮನ್ಮನ⟧."
+ },
+ {
+  "src": 40,
+  "en": "Description of the attainment of the fruit of the Soma sacrifice, etc."
+ },
+ {
+  "src": 41,
+  "en": "The greatness of the Uktha, etc."
+ },
+ {
+  "src": 42,
+  "en": "141. The one hundred forty-first sūkta, beginning ⟦ಬಳಿತ್ಥಾ ತದ್ವಪುಷೇ⟧"
+ },
+ {
+  "src": 43,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 44,
+  "en": "Explanation of the meaning of the word ⟦ಧೇನಾ⟧, etc."
+ },
+ {
+  "src": 45,
+  "en": "The three forms of Agni, etc."
+ },
+ {
+  "src": 46,
+  "en": "The various meanings of the word ⟦ಈಶಾನಾಸಃ⟧."
+ },
+ {
+  "src": 47,
+  "en": "The various meanings and uses of the word ⟦ಹೋತೃ⟧, etc."
+ },
+ {
+  "src": 48,
+  "en": "Explanation of the meaning of the word ⟦ಹ್ವಾರ⟧."
+ },
+ {
+  "src": 49,
+  "en": "Explanation of the words ⟦ಶಿಕ್ವಭೀಃ⟧ and ⟦ಅರುಷೇಭಿಃ⟧."
+ },
+ {
+  "src": 50,
+  "en": "The greatness of Mitra and Aryaman, etc."
+ },
+ {
+  "src": 51,
+  "en": "The matter that Mitra presides over the day."
+ },
+ {
+  "src": 52,
+  "en": "Explanation of the meaning of the words ⟦ಧರ್ಣಸಿಂ⟧, ⟦ಪಪೃಚಾಸಿ⟧ and other words, etc."
+ },
+ {
+  "src": 53,
+  "en": "Explanation of the meaning of the word ⟦ಜೀರಾಶ್ವ⟧ and other words."
+ },
+ {
+  "src": 54,
+  "en": "The various meanings of the word ⟦ಅರ್ಕ⟧."
+ },
+ {
+  "src": 55,
+  "en": "142. The one hundred forty-second sūkta, beginning ⟦ಸಮಿದ್ಧೋ ಅಗ್ನೇ⟧"
+ },
+ {
+  "src": 56,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 57,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 58,
+  "en": "Some special matters concerning the Āprī sūktas."
+ },
+ {
+  "src": 59,
+  "en": "Translation of the meaning of the word ⟦ನರಾಶಂಸ⟧."
+ },
+ {
+  "src": 60,
+  "en": "Explanation of the meaning of the word ⟦ಈಳಿತ⟧, etc."
+ },
+ {
+  "src": 61,
+  "en": "The meaning and use of the word ⟦ಬರ್ಹಿಃ⟧."
+ },
+ {
+  "src": 62,
+  "en": "The subject of the deity called ⟦ದ್ವಾರೋ ದೇವೀಃ⟧."
+ },
+ {
+  "src": 63,
+  "en": "The deity called ⟦ನಕ್ತೋಷಾಸಾ⟧."
+ },
+ {
+  "src": 64,
+  "en": "The subject of the deity called ⟦ದೈವ್ಯಾಹೋತಾರಾ⟧."
+ },
+ {
+  "src": 65,
+  "en": "The subject of the deities called ⟦ತಿಸ್ರೋದೇವೀಃ⟧, namely Iḷā, Sarasvatī and Bhāratī."
+ },
+ {
+  "src": 66,
+  "en": "The nature of Tvaṣṭṛ, etc."
+ },
+ {
+  "src": 67,
+  "en": "The nature of the deity called Vanaspati, etc."
+ },
+ {
+  "src": 68,
+  "en": "The nature of the Svāhākṛti, etc."
+ },
+ {
+  "src": 69,
+  "en": "The distinctive character of the Āprī sūktas, etc."
+ },
+ {
+  "src": 70,
+  "en": "143. The one hundred forty-third sūkta, beginning ⟦ಪ್ರತವ್ಯಸೀಂ⟧"
+ },
+ {
+  "src": 71,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 72,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 73,
+  "en": "The earlier story of Prajāpati's infatuation with his own daughter, etc."
+ },
+ {
+  "src": 74,
+  "en": "The nature of the deity called ⟦ಅಪಾಂನಪಾತ್⟧."
+ },
+ {
+  "src": 75,
+  "en": "The account of how Agni appeared to Mātariśvan, etc."
+ },
+ {
+  "src": 76,
+  "en": "Special explanation of the word ⟦ಭೃಗವಃ⟧, etc."
+ },
+ {
+  "src": 77,
+  "en": "The various meanings and uses of the word ⟦ವಿದಥೇಷು⟧."
+ },
+ {
+  "src": 78,
+  "en": "144. The one hundred forty-fourth sūkta, beginning ⟦ಏತಿ ಪ್ರ ಹೋತಾ⟧"
+ },
+ {
+  "src": 79,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 80,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 81,
+  "en": "The account of the contest which the deities held to win Sūryā, the daughter of Prajāpati, etc."
+ },
+ {
+  "src": 83,
+  "en": "The various meanings and uses of the word ⟦ಯೋನಿ⟧."
+ },
+ {
+  "src": 84,
+  "en": "Translation of the meaning of the word ⟦ವಕ್ವರೀ⟧, etc."
+ },
+ {
+  "src": 85,
+  "en": "145. The one hundred forty-fifth sūkta, beginning ⟦ತಂ ಪೃಚ್ಛತ⟧"
+ },
+ {
+  "src": 86,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 87,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 88,
+  "en": "Translation of the meaning of the word ⟦ಪ್ರಶಿಷಃ⟧, etc."
+ },
+ {
+  "src": 89,
+  "en": "146. The one hundred forty-sixth sūkta, beginning ⟦ತ್ರಿಮೂರ್ಧಾನಂ⟧"
+ },
+ {
+  "src": 90,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 91,
+  "en": "Explanation of the word ⟦ಸಪ್ತರಶ್ಮಿಂ⟧, etc."
+ },
+ {
+  "src": 92,
+  "en": "Explanation of the words ⟦ಉಕ್ಷಾ⟧ and other words."
+ },
+ {
+  "src": 93,
+  "en": "The various meanings of the word ⟦ಧೀರ⟧."
+ },
+ {
+  "src": 94,
+  "en": "Explanation of the word ⟦ಕಾಷ್ಠಾಸು⟧, etc."
+ },
+ {
+  "src": 95,
+  "en": "147. The one hundred forty-seventh sūkta, beginning ⟦ಕಥಾ ತೇ⟧"
+ },
+ {
+  "src": 96,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 97,
+  "en": "The account of the birth of the seer Dīrghatamas, etc."
+ },
+ {
+  "src": 98,
+  "en": "148. The one hundred forty-eighth sūkta, beginning ⟦ಮಥೀದ್ಯತ್⟧"
+ },
+ {
+  "src": 99,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 100,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 101,
+  "en": "The nature of the various forms of Agni, etc."
+ },
+ {
+  "src": 102,
+  "en": "Explanation of the meaning of the word ⟦ಕಾರು⟧."
+ },
+ {
+  "src": 103,
+  "en": "Explanation of the word ⟦ಶರ್ಯಾ⟧."
+ },
+ {
+  "src": 104,
+  "en": "149. The one hundred forty-ninth sūkta, beginning ⟦ಮಹಃ ಸ⟧"
+ },
+ {
+  "src": 105,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 106,
+  "en": "Explanation of the meaning of the word ⟦ಅದ್ರಿ⟧, etc."
+ },
+ {
+  "src": 107,
+  "en": "The various meanings of the word ⟦ಯೋನಿ⟧."
+ },
+ {
+  "src": 108,
+  "en": "Explanation of the words ⟦ಅತ್ಯ⟧, ⟦ಅರ್ವನ್⟧ and other words."
+ },
+ {
+  "src": 109,
+  "en": "Explanation of the word ⟦ಸುತುಕ⟧."
+ },
+ {
+  "src": 110,
+  "en": "150. The one hundred fiftieth sūkta, beginning ⟦ಪುರು ತ್ವಾ⟧"
+ },
+ {
+  "src": 111,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 112,
+  "en": "Translation of the meaning of the word ⟦ತೋದ⟧."
+ },
+ {
+  "src": 113,
+  "en": "Explanation of the words ⟦ಪ್ರಾಧಂತಮಃ⟧, ⟦ಚಂದ್ರಃ⟧ and other words."
+ },
+ {
+  "src": 114,
+  "en": "151. The one hundred fifty-first sūkta, beginning ⟦ಮಿತ್ರಂ ನ ಯಂ⟧"
+ },
+ {
+  "src": 115,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 116,
+  "en": "Explanation of the meaning of the word ⟦ಗವ್ಯವಃ⟧, etc."
+ },
+ {
+  "src": 117,
+  "en": "The account of the king Purumīḷha."
+ },
+ {
+  "src": 118,
+  "en": "Explanation of the meaning of the word ⟦ಅಸುರ⟧."
+ },
+ {
+  "src": 119,
+  "en": "Explanation of the word ⟦ಗಾತು⟧, etc."
+ },
+ {
+  "src": 120,
+  "en": "Explanation of the word ⟦ಮಾಯಾ⟧."
+ },
+ {
+  "src": 121,
+  "en": "152. The one hundred fifty-second sūkta, beginning ⟦ಯುವಂ ವಸ್ತ್ರಾಣಿ⟧"
+ },
+ {
+  "src": 122,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 123,
+  "en": "Translation and explanation of the word ⟦ಸತ್ಯ⟧, etc."
+ },
+ {
+  "src": 124,
+  "en": "Explanation of the meaning of the word ⟦ಕನೀನಾಂ⟧."
+ },
+ {
+  "src": 125,
+  "en": "Explanation of Āditya."
+ },
+ {
+  "src": 126,
+  "en": "Explanation of the meaning of the words ⟦ಬ್ರಹ್ಮ⟧, ⟦ಧೇನು⟧ and other words."
+ },
+ {
+  "src": 127,
+  "en": "153. The one hundred fifty-third sūkta, beginning ⟦ಯಜಾಮಹೇ ವಾಂ⟧"
+ },
+ {
+  "src": 128,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 129,
+  "en": "Explanation of the technical word ⟦ಪ್ರಸ್ತುತಿ⟧, etc."
+ },
+ {
+  "src": 130,
+  "en": "The account of Uṣasti Cākrāyaṇa."
+ },
+ {
+  "src": 131,
+  "en": "154. The one hundred fifty-fourth sūkta, beginning ⟦ವಿಷ್ಣೋರ್ನು ಕಂ⟧"
+ },
+ {
+  "src": 132,
+  "en": "The application (viniyoga) of the sūkta, etc."
+ },
+ {
+  "src": 133,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 134,
+  "en": "The special application (viniyoga) of the Ṛk ⟦ವಿಷ್ಣೋರ್ನುಕಂ⟧."
+ },
+ {
+  "src": 135,
+  "en": "The distinctive nature of the Viṣṇu sūktas."
+ },
+ {
+  "src": 136,
+  "en": "The derivation of the word ⟦ವಿಷ್ಣು⟧, etc."
+ },
+ {
+  "src": 137,
+  "en": "The striding of the steps of Viṣṇu, etc."
+ },
+ {
+  "src": 138,
+  "en": "Explanation of the meaning of the word ⟦ಸ್ವಧಾ⟧."
+ },
+ {
+  "src": 139,
+  "en": "Explanation of the meaning of the word ⟦ತ್ರಿಧಾತು⟧."
+ },
+ {
+  "src": 140,
+  "en": "Explanation of the meaning of the word ⟦ಪಾಥಃ⟧."
+ },
+ {
+  "src": 141,
+  "en": "The nature of the highest step of Viṣṇu, etc."
+ },
+ {
+  "src": 142,
+  "en": "Explanation of the meaning of the word ⟦ಉತ್ಸ⟧."
+ },
+ {
+  "src": 143,
+  "en": "Explanation of the highest step and the striding of the steps of Viṣṇu, etc."
+ },
+ {
+  "src": 144,
+  "en": "155. The one hundred fifty-fifth sūkta, beginning ⟦ಪ್ರ ವಃ ಪಾಂತಂ⟧"
+ },
+ {
+  "src": 145,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 146,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 147,
+  "en": "Explanation of the word ⟦ಸಾನು⟧, etc."
+ },
+ {
+  "src": 148,
+  "en": "The nature of Kṛśānu, etc."
+ },
+ {
+  "src": 149,
+  "en": "Explanation of the word ⟦ಪೌಂಸ್ಯ⟧."
+ },
+ {
+  "src": 150,
+  "en": "The identity of Indra and Viṣṇu with Āditya, etc."
+ },
+ {
+  "src": 151,
+  "en": "Explanation of the meaning of the word ⟦ರೇತಃ⟧."
+ },
+ {
+  "src": 152,
+  "en": "Explanation of the meaning of the word ⟦ಭುರಣ್ಯತಿ⟧."
+ },
+ {
+  "src": 153,
+  "en": "Description of the three strides of Viṣṇu, etc."
+ },
+ {
+  "src": 154,
+  "en": "The various meanings of the word ⟦ಸ್ವಃ⟧, etc."
+ },
+ {
+  "src": 155,
+  "en": "Explanation of ⟦ಸಂವತ್ಸರ⟧, ⟦ಕಾಲ⟧, etc."
+ },
+ {
+  "src": 156,
+  "en": "156. The one hundred fifty-sixth sūkta, beginning ⟦ಭವಾ ಮಿತ್ರ⟧"
+ },
+ {
+  "src": 157,
+  "en": "The application (viniyoga) of the sūkta."
+ },
+ {
+  "src": 158,
+  "en": "The seer, deity and metres."
+ },
+ {
+  "src": 159,
+  "en": "Explanation of the word ⟦ಸುಮತ್⟧, etc."
+ },
+ {
+  "src": 160,
+  "en": "The relation of Viṣṇu to Varuṇa and of Viṣṇu to the Aśvin deities, etc."
+ },
+ {
+  "src": 161,
+  "en": "The derivation and explanation of the meaning of the word ⟦ಮರುತ⟧, etc."
+ },
+ {
+  "src": 162,
+  "en": "The derivation of the form of the word ⟦ಇಂದ್ರ⟧, etc."
+ },
+ {
+  "src": 163,
+  "en": "157. The one hundred fifty-seventh sūkta, beginning ⟦ಅಬೋಧ್ಯಗ್ನಿಃ⟧"
+ },
+ {
+  "src": 164,
+  "en": "The application (viniyoga) of the sūkta, and its seer, deity and metres."
+ },
+ {
+  "src": 165,
+  "en": "Explanation of the Prātaranuvāka mantras, etc."
+ },
+ {
+  "src": 166,
+  "en": "Special explanation of the meaning of the word ⟦ಕ್ಷತ್ರ⟧, etc."
+ },
+ {
+  "src": 167,
+  "en": "The account of how the chariot of the Aśvin deities came to have three wheels."
+ },
+ {
+  "src": 168,
+  "en": "Discussion of the translation of the word ⟦ಕಶಾ⟧."
+ },
+ {
+  "src": 169,
+  "en": "The account that the Aśvin deities are the physicians of the deities."
+ },
+ {
+  "src": 170,
+  "en": "The account of how the Aśvin deities made the husband of Sukanyā a youth, etc."
+ },
+ {
+  "src": 171,
+  "en": "Here ends the Contents."
+ }
+]

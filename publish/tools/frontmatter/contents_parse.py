@@ -17,7 +17,7 @@ following one (max 2 lines) and written as an item without page if none follows.
 import argparse, json, re, sys, pathlib
 
 KDIG = '೦-೯'
-ROMAN = re.compile(r'^(?:##\s*)?\*?(?:[ivxlc]{1,6})\*?$', re.I)
+ROMAN = re.compile(r'^(?:##\s*)?\*?(?:[ivxlc]{1,6})\*?[:.;]*$', re.I)       # a roman page signature, with a trailing colon or dot ('## xii:', Vol 14)
 
 def flatten_tables(lines):
     """The converter writes some pages of the contents as HTML tables (Vol 18, the last sūktas): every <tr> becomes ONE text line at the line number of its
@@ -39,7 +39,7 @@ def flatten_tables(lines):
 def parse(lines, start_word, end_word, fixes=None):
     fixes = fixes or {}
     lines = flatten_tables(lines)
-    idx = [i for i, l in enumerate(lines) if start_word in l]
+    idx = [i for i, l in enumerate(lines) if start_word in l and end_word not in l]      # the closing line ('ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು') contains the heading word too: it is not a start (Vols 23, 27, 30: StopIteration)
     s = idx[1] if len(idx) > 1 else idx[0]
     e = next(i for i, l in enumerate(lines) if end_word in l and i > s)
     blocks, pend, carry = [], None, None
@@ -49,8 +49,10 @@ def parse(lines, start_word, end_word, fixes=None):
             blocks.append({'t': 'item', 'text': pend[1], 'page': None, 'src': pend[0]}); pend = None
     for i in range(s + 1, e):
         raw = lines[i].strip()
-        if not raw or raw == '---' or ROMAN.match(raw) or 'This image contains' in raw or raw.startswith('[figure') or raw == 'ಪುಟಸಂಖ್ಯೆ': continue
+        raw = re.sub(r'\s*\{[#.][^}]*\}\s*$', '', raw)          # pandoc attributes ('{.section-title}', Vols 3, 5) are markup, not text
+        if not raw or raw == '---' or raw.strip('\\ ') == '' or raw.startswith(':::') or ROMAN.match(raw) or 'This image contains' in raw or raw.startswith('[figure') or raw == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^##\s*', '', raw)
+        txt = re.sub(r'\\+$', '', txt).rstrip()          # pandoc's hard line break after the page number ('ಸೂಕ್ತದ ವಿನಿಯೋಗ 1\\'; Vols 3, 5)
         if txt == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^ಪುಟಸಂಖ್ಯೆ\s+', '', txt)          # the column head 'page number' repeated at the top of a printed page of the contents (Vol 18)
         if txt in ('॥ ಶ್ರೀಃ ॥',) or txt.startswith('ಋಗ್ವೇದಸಂಹಿತೆಯ') or txt.replace(' ', '') == 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ': continue
