@@ -31,3 +31,37 @@
 
 /* the first element of the text when it is not a part/chapter/sūkta heading: it opens the right page, arabic 1, footer name cleared */
 .fm-first { break-before: right; page: fmbody; string-set: orig "", kp ""; }
+/* Title page (page 01): the ornamental frame of the Vol 1 title page (assets/title_frame_vol1.jpg, centre text and press plaque cleared);
+   the centre text and the press name are set per volume. The frame is 5.1in wide (trim 6.5in minus two margins of .7in). */
+.tframe { position: relative; width: 5.1in; margin: 0 auto; }
+.tframe img { display: block; width: 5.1in; height: auto; }
+.tframe .tpanel { position: absolute; left: 28.6%; width: 43.4%; top: 39.7%; height: 39.3%; display: flex; flex-direction: column; justify-content: center; text-align: center; }
+.tframe .t1 { font-size: 9pt; letter-spacing: .08em; }
+.tframe .t2 { font-size: 17pt; margin: .1in 0 .22in; }
+.tframe .t3 { font-size: 12pt; letter-spacing: .14em; margin-bottom: .14in; }
+.tframe .t4 { font-size: 8.5pt; line-height: 1.4; margin-bottom: .05in; }
+.tframe .t5 { font-size: 9pt; font-style: italic; margin-top: .2in; }
+.tframe .tplaque { position: absolute; left: 38.1%; width: 24.3%; top: 87.3%; height: 9.4%; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 6.5pt; line-height: 1.25; }
+/* Thank-you page (page 06): the ornamental border of the Vol 1 plates (assets/thanks_frame_vol1.jpg, inside cleared); the text stands inside it. 5.1in wide like the title frame. */
+.tkframe { position: relative; width: 5.1in; margin: 0 auto; }
+.tkframe img { display: block; width: 5.1in; height: auto; }
+.tkframe .tktext { position: absolute; left: 11%; right: 11%; top: 9%; bottom: 9%; text-align: center; }
+.tkframe .tktext h2 { margin: .6in 0 .3in; }
+/* Imprint page (page 02): the layout of the typeset title page the builders made (user's pic-trans.pdf), inside the plate border of the thank-you page;
+   no reference to how the file was made (user, Nov 28 2026). */
+.tkframe .tktext.imprint { top: 12%; bottom: 6%; font-size: 9pt; line-height: 1.45; }
+.imprint .i-inv { font-size: 9pt; margin-bottom: .32in; }
+.imprint .i-title { font-size: 20pt; letter-spacing: .06em; margin-bottom: .1in; }
+.imprint .i-sub { font-size: 9.5pt; font-style: italic; line-height: 1.5; }
+.imprint .i-vol { font-size: 12pt; letter-spacing: .14em; text-transform: uppercase; margin: .1in 0 .08in; }
+.imprint .i-by { margin-top: .05in; }
+.imprint .i-name { font-size: 12.5pt; letter-spacing: .06em; }
+.imprint .i-src { font-size: 8pt; line-height: 1.45; margin-top: .22in; }
+.imprint .i-rel { margin-top: .3in; font-size: 7.6pt; color: #333; line-height: 1.5; }
+/* Present-day page (page 05): the portrait of the present king takes the upper half of the page, the guru-parampara picture the lower half. */
+.fm .half-top, .fm .half-bot { height: 3.75in; overflow: hidden; }
+.fm img.pic.wide { max-width: 5.1in; width: 5.1in; max-height: 2.6in; height: auto; }
+.fm .half-bot .ph.half { min-height: 2.4in; padding-top: .9in; }
+.fm img.pic.king { width: 3.4in; max-width: 3.4in; max-height: 2.4in; height: auto; }
+/* the guru picture is tall: with the two-line heading and the three-line caption it must leave room, or the caption falls onto a page of its own */
+#fm-guru img.pic { max-height: 5.5in; }

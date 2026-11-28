@@ -37,8 +37,8 @@ def _tokens(vol):
     for f in (ROOT / f'vol{vol}' / 'volcfg.json', ROOT / f'vol{vol}' / 'pubcfg.json'):          # pubcfg wins
         if f.exists(): cfg.update(json.loads(f.read_text(encoding='utf8')))
     rel = json.loads((PUB / 'release.json').read_text(encoding='utf8')) if (PUB / 'release.json').exists() else {}
-    t = {'vol': str(cfg.get('vol', vol)), 'vol_roman': _roman(int(cfg.get('vol', vol))), 'assets': (PUB / 'assets').as_uri()}
-    for k, label in (('range_line', 'range of the volume'), ('adhyaya_line', 'Aṣṭaka and Adhyāya'), ('imprint', 'press of the original'), ('year', 'year')):
+    t = {'vol': str(cfg.get('vol', vol)), 'vol_roman': _roman(int(cfg.get('vol', vol))), 'assets': (PUB / 'assets').as_uri(), 'fm_assets': (HERE / 'assets').as_uri()}
+    for k, label in (('range_line', 'range of the volume'), ('adhyaya_line', 'Aṣṭaka and Adhyāya'), ('imprint', 'press of the original'), ('year', 'year'), ('press', 'press')):
         t[k] = str(cfg[k]) if cfg.get(k) else f'[{label} — to be supplied]'
     t['release'] = {k: v for k, v in rel.items() if not k.startswith('_')}
     return t

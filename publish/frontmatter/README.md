@@ -30,3 +30,15 @@ The front-pages session owns only the rows up to and including the thank-you pag
 | `{{release.publisher}}`, `.isbn`, `.edition_and_printing`, `.rights_statement` | `publish/release.json` (empty now: print the placeholder) | same |
 | `{{vol_title}}` | no source exists in any volume; not used by the pages, drop it from the list unless a title field is added | |
 Volumes with a `pubcfg.json` today: 1, 11, 15, 17, 18, 19, 20, 21, 23, 27, 30.
+
+## King and guru photos (user, Nov 28 2026)
+Both are taken from the Vol 1 front matter, from the user's high-resolution scans (`pic-king.pdf`, `pic-guru.pdf`, 1-bit, 567/585 ppi). `assets/king_vol1.jpg` and `assets/guru_vol1.jpg` are the photo plus the printed Kannada caption (inside the picture; the English caption stays as text under it), the ornamental border cut away, grey-scaled to 1600 px wide. Pages 03 and 04 use them through the token `{{fm_assets}}` (= `publish/frontmatter/assets`, a new token for the embedder); the old low-resolution `publish/assets/maharaja.jpg` / `guruji.jpg` are no longer used by these pages (the old builders still use them).
+
+## Title page (page 01, from the user's Vol 1 scan `pic-front.pdf`, Nov 28 2026)
+`assets/title_frame_vol1.jpg` is the ornamental frame of the Vol 1 title page (the scan is 1664×2193, 1-bit, the same as `publish/assets/cover_vol1.jpg`) with its centre text and the press plaque cleared. Page 01 sets, per volume: `{{vol}}`, `{{range_line}}`, `{{adhyaya_line}}` in the centre and `{{press}}` in the plaque (all from `volN/pubcfg.json`; Vol 15's pubcfg has no `press`, volumes without a pubcfg have none of them). Tokens added: `{{press}}`, `{{fm_assets}}`. The frame is 5.1 in wide (trim 6.5 in minus margins .7 in); the text sizes are in pt for that width.
+
+## Imprint page (page 02, Nov 28 2026)
+The layout of the typeset title page the builders made (user's `pic-trans.pdf`), inside the same plate border as the thank-you page (`assets/thanks_frame_vol1.jpg`, deskewed 0.8° and trimmed). The line "prepared with the assistance of Claude, an AI model by Anthropic" is removed (user). Tokens: `{{vol}}`, `{{range_line}}`, `{{adhyaya_line}}`, `{{imprint}}`, `{{release.*}}`.
+
+## Present-day page (page 05, Nov 28 2026)
+Upper half: the present king (`assets/present_king.jpg`, supplied by the user, 500×333 px only, black-and-white for now) with a caption placeholder. Lower half: the guru-parampara picture (`assets/present_gurus.jpg`, supplied by the user, black-and-white for now, the corner mark cropped off, the trust's banner kept as supplied) with a caption placeholder.
