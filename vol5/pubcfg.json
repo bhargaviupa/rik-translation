@@ -1,0 +1,12 @@
+{
+ "vol": 5,
+ "range_line": "Maṇḍala 1 · Sūktas 47–61 and the Pariśiṣṭa",
+ "adhyaya_line": "Fourth Adhyāya of the First Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Śrī Cāmuṇḍeśvarī Electric Press, Mysore, 1950",
+ "year": "1950",
+ "press": "Śrī Cāmuṇḍeśvarī Electric Press, Mysore",
+ "kannada_md": "vol5/Rigveda_Samhita_Vol5_Kannada_Text.md",
+ "out": "vol5_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: REQUIREMENTS L, running heads; press and year: colophon (\"Mysore, 1950\")). The English book of this volume has no print build yet."
+}

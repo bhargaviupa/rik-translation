@@ -1,0 +1,12 @@
+{
+ "vol": 26,
+ "range_line": "Maṇḍala 9 · Sūktas 44–100",
+ "adhyaya_line": "First to Fourth Adhyāyas of the Seventh Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol26/Rigveda_Samhita_Vol26_Kannada_Text.md",
+ "out": "vol26_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: PUBLICATION_TODO change log, English headings; no colophon in the Kannada file). The English book of this volume has no print build yet."
+}

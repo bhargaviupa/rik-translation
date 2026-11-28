@@ -1,0 +1,12 @@
+{
+ "vol": 4,
+ "range_line": "Maṇḍala 1 · Sūktas 33–46",
+ "adhyaya_line": "Third Adhyāya of the First Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol4/Rigveda_Samhita_Vol4_Kannada_Text.md",
+ "out": "vol4_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol4/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet."
+}

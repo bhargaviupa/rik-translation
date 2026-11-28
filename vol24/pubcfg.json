@@ -1,0 +1,12 @@
+{
+ "vol": 24,
+ "range_line": "Maṇḍala 8 · Sūktas 21–67",
+ "adhyaya_line": "Second, Third and Fourth Adhyāyas of the Sixth Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol24/Rigveda_Samhita_Vol24_Kannada_Text.md",
+ "out": "vol24_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol24/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet."
+}

@@ -1,0 +1,12 @@
+{
+ "vol": 9,
+ "range_line": "Maṇḍala 1 · Sūktas 113–121",
+ "adhyaya_line": "Eighth Adhyāya of the First Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol9/Rigveda_Samhita_Vol9_Kannada_Text.md",
+ "out": "vol9_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: REQUIREMENTS L; no colophon in the Kannada file). The English book of this volume has no print build yet."
+}

@@ -1,0 +1,12 @@
+{
+ "vol": 16,
+ "range_line": "Maṇḍala 3 · Sūktas 7–39",
+ "adhyaya_line": "First and Second Adhyāyas of the Third Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Śrī Śakti Electric Press, Mysore",
+ "year": "",
+ "press": "Śrī Śakti Electric Press, Mysore",
+ "kannada_md": "vol16/Rigveda_Samhita_Vol16_Kannada_Text.md",
+ "out": "vol16_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol16/STATUS.md; press: colophon). The English book of this volume has no print build yet."
+}

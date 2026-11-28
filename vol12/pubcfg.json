@@ -1,0 +1,12 @@
+{
+ "vol": 12,
+ "range_line": "Maṇḍala 1 · Sūktas 158–165",
+ "adhyaya_line": "Third Adhyāya of the Second Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol12/Rigveda_Samhita_Vol12_Kannada_Text.md",
+ "out": "vol12_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol12/STATUS.md, English headings; no colophon in the Kannada file). The English book of this volume has no print build yet."
+}

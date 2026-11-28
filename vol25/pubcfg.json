@@ -1,0 +1,12 @@
+{
+ "vol": 25,
+ "range_line": "Maṇḍala 8 · Sūktas 68–103 and Maṇḍala 9 · Sūktas 1–43",
+ "adhyaya_line": "Fifth to Eighth Adhyāyas of the Sixth Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "year": "",
+ "press": "",
+ "kannada_md": "vol25/Rigveda_Samhita_Vol25_Kannada_Text.md",
+ "out": "vol25_full",
+ "kannada_only": true,
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol25 STATUS; no colophon in the Kannada file). The English book of this volume has no print build yet."
+}

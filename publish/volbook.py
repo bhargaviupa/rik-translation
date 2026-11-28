@@ -305,6 +305,11 @@ def intro_headings(body):
         return f'<h3 class="{cls}">Introduction{rest}</h3>'
     return re.sub(r'<p><strong>Pīṭhike \(Introduction\)([^<]*)</strong></p>', rep, body)
 
+def printed_at(cfg):
+    """' at PRESS, YEAR' from what the volume's pubcfg has (press and year only where they are known: an empty one is left out, never guessed)"""
+    parts = [x for x in (cfg.get('press', 'Śrī Śāradā Press, Mysore'), cfg.get('year', '')) if x and x.strip()]
+    return (' at ' + ', '.join(parts)) if parts else ''
+
 def front(cfg, lang, fmi, toc_blocks):
     eng = lang == 'eng'
     v = cfg['vol']
@@ -333,7 +338,7 @@ def front(cfg, lang, fmi, toc_blocks):
     else:
         parts.append(scan(fmi[r['title']], 'scan', 'Title page'))
     parts.append(f'''<section class="copyright">{credit}
-<p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed at {cfg.get("press", "Śrī Śāradā Press, Mysore")}, {cfg["year"]}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
+<p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed{printed_at(cfg)}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
 <p>{"Numbers and readings are given as supplied. A place that still needs the editor's decision or a second look is marked <b>NOTE</b> in the text; the questions are listed separately. This is a review copy: the translation has not yet been read against the Kannada by a second reader." if notes else "Remarks on the state of the supplied text (garbled words, printed variants, stray lines) are given as numbered footnotes at the foot of the page. Numbers and readings are given as supplied; doubtful places are marked [?]."}</p>
 {release_html(cfg)}</section>''')
     if has('portrait'):
@@ -382,11 +387,12 @@ def references_list_html(cfg, kan=False):
     """List of the works cited in THIS volume, from the one reviewed list (rv/references.tsv), placed right after the contents (user, Nov 26 2026).
     Only forms that stand before a reference number in the volume's English text are listed; the order is the list's order."""
     rows = [l.split('\t') for l in (ROOT / 'rv' / 'references.tsv').read_text(encoding='utf8').split('\n')[1:] if l.count('\t') >= 3]
-    txt = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
+    kn_only = kan and not cfg.get('english_md')          # a Kannada-only book (no English file of the volume): the works are found by their Kannada forms in the Kannada text
+    txt = (ROOT / cfg['kannada_md' if kn_only else 'english_md']).read_text(encoding='utf-8')
     used = []
     for r in rows:
         if r[3] not in ('legend', 'extra'): continue
-        forms = [x.strip() for x in r[0].split(' or ')]
+        forms = [x.strip() for x in (r[1].split(' ಅಥವಾ ') if kn_only else r[0].split(' or ')) if x.strip()]
         n = sum(len(re.findall(r'(?<![\w.])' + re.escape(x) + r'(?=\s?\d)', txt)) for x in forms)
         if n: used.append((r[0], r[1], r[2], n))
     if not used: return ''
