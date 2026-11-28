@@ -66,7 +66,7 @@ def parse(lines, start_word, end_word, fixes=None):
             flush()
             t = 'mandala' if re.search(r'ಮಂಡಲ', txt) and not raw.startswith('## ') else 'center'
             blocks.append({'t': t, 'text': txt.rstrip('—').strip(), 'src': i + 1}); continue
-        m = re.match(r'^(.*?)[\s\.]+(\d{1,3})\.?$', txt)
+        m = re.match(r'^(.*?)[\s\.]+(\d{1,4})\.?$', txt)
         if m and m.group(1).strip():
             text = m.group(1).strip()
             if pend: text = pend[1] + ' ' + text; src = pend[0]; pend = None

@@ -1,0 +1,24 @@
+{
+ "vol": 29,
+ "range_line": "Maṇḍala 10 · Sūktas 72–94",
+ "adhyaya_line": "Third and Fourth Adhyāyas of the Eighth Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Mysore, 1954",
+ "year": "1954",
+ "note_style": "NOTE",
+ "english_md": "vol29/Rigveda_Samhita_Vol29_English_Translation.md",
+ "kannada_md": "vol29/Rigveda_Samhita_Vol29_Kannada_Text.md",
+ "supplied_md": "vol29/html/rig_29.md",
+ "out": "vol29_full",
+ "contents_en": "vol29/contents_en.json",
+ "contents": {
+  "source": "vol29/contents_src/contents_kn.md",
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": ["॥ ಶ್ರೀಃ ॥", "ಋಗ್ವೇದಸಂಹಿತೆಯ ಇಪ್ಪತ್ತೊಂಭತ್ತನೆಯ ಭಾಗದ", "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"]
+ },
+ "contents_target_overrides": {
+  "128": 682,
+  "197": 936,
+  "20": 84, "21": 84, "23": 97, "25": 114, "26": 114
+ }
+}
