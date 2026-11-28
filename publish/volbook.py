@@ -116,7 +116,8 @@ def fm(cfg):
 def scan(img, cls='scan', alt=''):
     return f'<section class="{cls}"><img src="{img}" alt="{alt}"></section>'
 
-def contents_html(cfg):
+def contents_html(cfg, marks=None):
+    """marks: the page marks of the book (set of ints); a printed contents number that has no mark links to the nearest mark before it (the number shown stays as printed)"""
     c = cfg['contents']
     lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
@@ -134,6 +135,9 @@ def contents_html(cfg):
         else:
             pg = b['page']
             tgt = {str(k): v for k, v in cfg.get('contents_target_overrides', {}).items()}.get(str(b['src']), pg)   # link target only; the printed number is shown
+            if marks and tgt and isinstance(tgt, int):
+                while tgt > 1 and tgt not in marks: tgt -= 1
+                if tgt not in marks: tgt = min(marks)                    # no mark at or before it (a volume whose p. 1 is not in the supplied text): the first page of the book
             rows.append({'html': t, 'page': f'<a href="#p{tgt}">{pg}</a>' if pg else ''})
     out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>',
            printfix.contents_table(rows, note='', head=('ಸಂ.', 'ವಿಷಯ', 'ಪುಟ')), '</section>']
@@ -566,7 +570,7 @@ def build_kan(cfg, html_only):
         idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
-    try: ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
+    try: ch, blocks = contents_html(cfg, {int(x) for x in re.findall(r'(?m)^### Printed p\. (\d+)', md)}) if cfg.get('contents') else ('', [])
     except Exception as ex:           # the contents settings of a volume are fitted when its front matter is built; the Kannada book does not wait for them
         ch, blocks = '', []; print(f'[kan] WARNING: printed contents not set ({type(ex).__name__}: {ex}); the Kannada book is built WITHOUT its contents page; fit "contents" in volN/pubcfg.json')
     refl = references_list_html(cfg, kan=True)

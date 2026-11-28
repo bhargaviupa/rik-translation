@@ -8,5 +8,15 @@
  "kannada_md": "vol29/Rigveda_Samhita_Vol29_Kannada_Text.md",
  "out": "vol29_full",
  "kannada_only": true,
- "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol29/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet."
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol29/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet.",
+ "supplied_md": "vol29/html/rig_29.md",
+ "contents": {
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
 }

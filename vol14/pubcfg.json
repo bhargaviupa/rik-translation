@@ -8,5 +8,15 @@
  "kannada_md": "vol14/Rigveda_Samhita_Vol14_Kannada_Text.md",
  "out": "vol14_full",
  "kannada_only": true,
- "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: English file (Sūkta 184 stands on its p. 76; STATUS said 185); press: colophon (K. Venkatasubbaiah)). The English book of this volume has no print build yet."
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: English file (Sūkta 184 stands on its p. 76; STATUS said 185); press: colophon (K. Venkatasubbaiah)). The English book of this volume has no print build yet.",
+ "supplied_md": "vol14/html/rig_14_1.md",
+ "contents": {
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
 }
