@@ -5,7 +5,7 @@
 ## Kannada Text files: uniform
 - All 25 volumes that have a file carry the same canonical labels (`*ಸಂಹಿತಾಪಾಠಃ*`, `*ಪದಪಾಠಃ*`, `*ಸಾಯಣಭಾಷ್ಯಂ*`, `*ಪ್ರತಿಪದಾರ್ಥ*`, `*ಭಾವಾರ್ಥ*`, `*English Translation.*`, `*ವಿಶೇಷವಿಷಯಗಳು*`, `*ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ*`), `<!-- printed N -->` markers and `>` Sanskrit blocks. A section can be found by its label and ends at the next label.
 - `## ಸೂಕ್ತ` / `#### ಋಕ್` headings exist only where `kn_headings.py` was run (Vols 11, 12, 15–18, 23, 24, 27–30). Not needed to find a section.
-- Not uniform: Vol 22 (221 of 601 pages), Vols 4/22/25/26 gap marks, Vols 7–10 (no Kannada file) and 13 (empty file); Vol 28 came in with main and is complete (671 pages).
+- Not uniform: Vols 4 and 25 have gap marks (5 pages each with no page of their own in the supplied text). On Nov 27 Vols 7–10 had no Kannada file and Vol 13 an empty one; all 30 volumes have one since Nov 28. Vol 22 (first made partial by `kn_full.py`) is the complete file of its translation on `main`.
 
 ## English files: three generations
 | Family | Volumes | Section headings | Per-Ṛk? |

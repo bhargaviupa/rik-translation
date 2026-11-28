@@ -8,5 +8,5 @@
  "kannada_md": "vol22/Rigveda_Samhita_Vol22_Kannada_Text.md",
  "out": "vol22_full",
  "kannada_only": true,
- "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol22 STATUS (expected) and running heads (7 . 20 to 7 . 80; the preface says 50, taken for an OCR slip); partial volume (221 of 601 pages)). The English book of this volume has no print build yet."
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol22 STATUS (expected) and running heads (7 . 20 to 7 . 80; the preface says 50, taken for an OCR slip); Kannada Text file complete (600 pages); English headings Sūkta 20–80 of Maṇḍala 7 confirm the range). The English book of this volume has no print build yet."
 }
