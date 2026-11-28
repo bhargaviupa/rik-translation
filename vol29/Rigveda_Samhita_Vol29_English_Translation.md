@@ -1748,6 +1748,7 @@ Yāska has stated the Nirukta for this Ṛk thus:
 वयो वेर्बहुवचनं । सुपर्णः सुपतना आदित्यरश्मिय उपसेदुरिंद्रं याचमानाः । अपोर्णुह्याध्वस्तं चक्षुः । चक्षुः ख्यातेर्वा चष्टेर्वा । पूर्धि पूरय देहीति वा । मुंचास्मान् पाशैरिव बद्धान् ॥ (*vayo verbahuvacanaṃ | suparṇaḥ supatanā ādityaraśmiya upaseduriṃdraṃ yācamānāḥ | aporṇuhyādhvastaṃ cakṣuḥ | cakṣuḥ khyātervā caṣṭervā | pūrdhi pūraya dehīti vā | muṃcāsmān pāśairiva baddhān ‖*)
 The word वयः (*vayaḥ*) is the plural of the word वि (*vi*) (bird). सुपर्णः (*suparṇaḥ*), in the case of birds, means having beautiful wings. But since here this word is used with reference to the sun, the word means the beautiful or beneficial rays of the sun. Since the root वि (*vi*) has the sense of motion, the meaning of the word वयः (*vayaḥ*) is: having extension, that is, the rays of the sun that are coming towards us from the sun. Such beautiful rays of the sun approach Indra, praying to him. Drive far away the darkness that has spread all round. Fill the eyes with light, that is, grant to the eyes the power of seeing. As if bound with snares, that is, release us, who are without freedom, from our bonds: this is the main purport of the Nirukta.
 The seventy-fourth sūkta.
+
 ## Sūkta 74 (Maṇḍala 10)
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
@@ -2097,6 +2098,7 @@ When Indra, the destroyer of cities, had slain the most mighty (Vritra), then he
 ##### विशेषविषयगळु (Special Topics)
 
 That this Ṛk beginning यद्वावान (*yadvāvāna*) is to be recited as the yājyā mantra among the mantras of the Niṣkevalya-śastra is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra यद्वावानेति धाय्या पिबा सुतस्य रसिन इति साम प्रगाथः (*yadvāvāneti dhāyyā pibā sutasya rasina iti sāma pragāthaḥ*) (Ā. 5-15). That this Ṛk has a use also in the Mahāvrata-iṣṭi is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence यद्वावानेति धाय्या सूददोहाः (*yadvāvāneti dhāyyā sūdadohāḥ*) (Ai. Ā. 5-2-2).
+
 ## Sūkta 75 (Maṇḍala 10)
 **Introduction**
 Introduction to the seventy-fifth sūkta. In this sūkta some rivers, beginning with the river Sindhu, are praised. What rivers are is generally known to everyone. Yāska has explained the derivation of the word nadī in this way—
@@ -2769,6 +2771,7 @@ Sindhu has harnessed her easy-going well-horsed chariot, with it may she bring (
 Here it is said that the river Sindhu, or the deity, yoks her chariot. Is it not wrong to ascribe this power of action to a lifeless river? As the answer to this, we have discussed at length, in the Special Topics of the first Ṛk of this sūkta, the explanation that Yāska has given. One can see it there and understand.
 ### Printed p. 115
 The seventy-sixth sūkta.
+
 ## Sūkta 76 (Maṇḍala 10)
 **Introduction**
 The deity of this sūkta is ग्रावाणः (*grāvāṇaḥ*). ग्रावाणः (*grāvāṇaḥ*) means the stones that are used for crushing the Soma plants and pressing out the juice. They have another name also, अद्रि (*adri*). These stones are praised not only in this sūkta but also in the 94th and the 175th sūktas of this same maṇḍala. For these three sūktas the stones themselves are the deity. In many other mantras there is a description of the praise of the stones. Besides regarding these stones with great reverence, there are many kinds of descriptions that the sound produced when the Soma plant is crushed with these stones is very sweet, that this sound is pleasing to Indra, and that Indra never failed to come to the place where that sound was. In the sūkta Ṛ. Saṃ. 1-28 the method of placing the Soma plant on the stone, crushing it and pressing out the juice is described in detail; therefore it will not be irrelevant to mention here the method of pressing the juice out of the Soma plants and other matters connected with it.

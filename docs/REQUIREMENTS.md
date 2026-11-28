@@ -63,12 +63,35 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 | 13 | Contents | Contents in English: one entry per chapter and sūkta, our page numbers (C9). | supplied file |
 | next | **Preface to the English edition** | By the translator-editor (the user). **A placeholder page in every volume until the text is written.** (F15) | the user |
 | next | Preface / Introduction of the original | As the volume has it. No Kannada headings. | supplied file |
-| next | Abbreviations | The legend of B3.7, generated from the one list; it stands after the prefaces and immediately before the first Maṇḍala heading. | `rv/references.tsv` |
+| next | Abbreviations | The legend of B3.7, generated from the one list; **its place is fixed by A2a (after the contents)**. | `rv/references.tsv` |
 
 The order of this table is the same in every volume. **Everything before the preface has one format in every volume** (user, Nov 22 2026): pictures 1 and 2 of the volume (rows 1–2) are the only volume-specific pages among rows 1–7; rows 3–7 (the king, the guru, the thank-you pages, the present guru and king) are the same files in every volume, kept in **one directory at the root of the repository** (name not yet chosen, F35), and the abbreviations list that follows the preface is uniform too (B3.7). Rows 8–13 (scholars, credentials, copyright, typeset title page, permission page, contents) are kept as before; whether any of them also moves to the directory is F36.
 The cover pictures (rows 1–2) are the real scans of that volume's pictures; a reconstructed cover is a stop-gap only and is marked as such in the working files. The English lines giving the range of the volume (for example "Maṇḍala 3 · Sūktas 40–62; Maṇḍala 4 · Sūktas 1–18") and its chapters ("Third, Fourth and Fifth Adhyāyas of the Third Aṣṭaka") appear on the typeset title page (row 11); whether they also stand below the cover picture is F36. The imprint, press and year of the original are kept in the volume's `pubcfg.json`; the publisher, ISBN and rights only in `publish/release.json` (E).
 The front matter also holds the English-typeset **title page** and the original's **permission page**; the cover is the real scan (HANDBOOK §8). A colophon at the end of an adhyāya's last sūkta is given in three layers, with the Kannada closing line.
 **This layout may change again** (user, Nov 13 2026); it is one setting of the printer and is listed in `TODO.md`.
+
+**A2a. Order of the pages (user, Nov 28 2026; supersedes the order of the table above and N1.4).**
+1. Two pages designed by the user: volume name, scope, translation, copyright/ISBN (a placeholder until the design is supplied).
+2. The portrait of the king, then the portrait of the guru.
+3. The present king and guru on **one** page (placeholder).
+4. Thank-you page (placeholder).
+5. The preface to the English edition (ours; placeholder until written).
+6. The preface of the original, translated.
+7. The contents.
+8. The list of abbreviations (the list of works cited, B3.7).
+9. The Pūrva-pīṭhikā or Introduction, where the volume has one.
+10. The text of the book.
+11. A closing-remarks page at the end (optional; may be needed).
+
+**The order is data, not code** (plan of the front-pages session, Nov 28 2026, branch `claude/clever-lamport-qr34vh`): `publish/frontmatter/order.json` is the one list of the pages; each page is a fragment in `publish/frontmatter/pages/`, with one stylesheet `fm.css`. A page is removed by `"enabled": false` (or by deleting its row), inserted by a new fragment and a new row. A row says whether the page opens on a right or left page (`start`: recto/verso, which adds blank pages) and how it is numbered (`numbering`: none, roman, arabic). Pages of kind `slot` (original preface, contents, abbreviations, introduction) are a frame with a heading; **their body is supplied by the volume** through an embedding script (**not built yet; the frames of pages 7–12 and the script have no owner until the user names one**; the front-pages session, limited on Nov 28 2026 to pages 1–6, does not build them), which replaces the cover, title page, copyright, king, guru and present-day sections that the builders emit today. The imprint page takes its values from `publish/release.json` (rule 6).
+
+**Decisions of the user on the front pages, Nov 28 2026:**
+1. The page of the original's preface is headed **"Preface"**; the original's name **"Pīṭhike"** stands in the footer (rule 1), not in the heading.
+2. The page of the Pūrva-pīṭhikā is headed **"Introduction"**; its name "Pūrva-pīṭhikā" stands in the footer.
+3. The closing-remarks page is **switched off** (`"enabled": false`) until it has text.
+4. Blank pages that a recto/verso start adds **count in the roman numbering** and carry no number.
+5. A frame heading must also set the footer name, **and clear it where it has none** (the footer string persists over the following pages until another heading sets it, so "Pīṭhike" would otherwise stay under the contents).
+6. Fonts: the sessions that build or preview pages have Noto Serif, Lohit Devanagari and Lohit Kannada installed (`apt-get install fonts-noto-core fonts-lohit-deva fonts-lohit-knda`); a preview in fallback fonts proves nothing about the layout.
 The credits of the original edition are either marked clearly as taken from the original or combined with our own credits page. (F8)
 
 ### A3. Body
@@ -88,7 +111,7 @@ The credits of the original edition are either marked clearly as taken from the 
 - **Print rules decided on the Vol 1 review copy** (user, Nov 26 2026; they hold for every volume and are carried out in one place, `publish/printfix.py` and `publish/style_footer.css`, used by every builder):
   **How a comment of the user on a PDF is handled** (user, Nov 26 2026): it is first written here as a rule for all pages and all volumes; then it is built into the shared step (never into one volume's builder, unless the thing exists in that volume only); then every volume is rebuilt by `python3 publish/build_all.py` and the result per volume is recorded in `publish/BUILD_STATUS.md` (date, pages, what the print step did, what `pdf_check.py` found). A rule that is only in a reply and not in this list does not exist.
   1. **Part and chapter headings** stand in two lines, the number or kind above ("PART I", "Chapter One"), the title below; no heading is broken by chance or hyphenated. A part heading shows the **English name only**; the original's name (Pūrva-pīṭhikā, Ṛgveda-bhāṣya-bhūmikā) stands in the footer, under the page of the Kannada edition.
-  2. **Contents pages have one format in every volume:** a table No. | Contents | Page (C9); bordered for now, borderless later by one setting.
+  2. **Contents pages have one format in every volume:** a table No. | Contents | Page (C9), **borderless** (user, Nov 28 2026): a thin dotted rule between entries, a rule under the column heads, no grid. **Every entry is a link** (user, Nov 28 2026): the number, the text and the page number are all clickable and lead to the page where the entry begins; the page number printed is the page of this book (counted by the print, `target-counter`). Three levels: Maṇḍala or adhyāya as a centred heading, the sūkta entry in bold with its number, the sub-items indented. **Every Maṇḍala, adhyāya and sūkta heading carries a small link "↑ Contents" in its corner** (user, Nov 28 2026; `printfix.backlinks`). Made once, in `printfix.contents_table`, `printfix.backlinks` and `style_footer.css`.
   3. **A paragraph is not centred or restyled because of what it contains:** only a paragraph that consists of nothing but a bold line is set as a centred label ("(1) At the beginning …" is running text).
   4. **A sentence that runs over a page turn of the original is one paragraph;** the "..." written at the break go. A numbered list that runs over a page turn keeps its numbering.
   5. **A page heading of the working file never prints,** whatever stands after the number ("Page xi (bibliography, continued)").
@@ -103,11 +126,20 @@ The credits of the original edition are either marked clearly as taken from the 
   10. **Bold is for headings and labels only** (user, Nov 26 2026). Whole sentences, and single words and names inside a sentence, that a translating session set in bold as its own emphasis print as plain text (`printfix.plain_sentences`; Vol 1: 1,867). Kept: a short bold run that opens its paragraph (a label or run-in head).
   12. **A quotation from another work, printed with a bar, holds the Sanskrit and its transliteration only; its English is not printed** (user, Nov 26 2026: "we don't need English translation in there or other such places"). The English renderings of quotations stay in the working file (`printfix.quotations`; Vol 1: 811 not printed). A short reference in parentheses stays with the Sanskrit; a bar without Sanskrit (a passage quoted in English from a Western author) is left as it is.
   13. **No Kannada script anywhere in the body of the English book** (B2.3), and **the original's names of parts and sections (Pīṭhike, Pūrva-pīṭhikā, Munnuḍi …) stand in the footer, not in headings:** the heading shows the English name. A Kannada word that has its English beside it is dropped; any other is given in transliteration (`printfix.no_kannada`, `printfix.headings`).
+  18. **The PDF's navigation pane (bookmarks) lists the book's structure only** (user, Nov 28 2026): the title, the front pages' headings, each Maṇḍala or adhyāya and each sūkta. The sub-headings of a Ṛk and the page marks of the original are not bookmarks (they made 6,000 entries in Vol 21). One CSS rule in `style_footer.css`.
   9. **No sentence is left cut at a page turn or hanging on dots.** The two halves are mended against the Kannada (`tools/rv/join_pages.py`, brief `tools/rv/JOIN_BRIEF.md`): a reader proposes the fewest words that make the join read, the script accepts an answer only if every figure and Indic letter is unchanged, and every change is a row of `volN/review/junction_repairs.tsv`. Places the reader could not mend are rows marked `unsure` in the same file: they are gaps in the translation and are closed by translating the passage, not by guessing (Vol 1: 177 mended, 90 unsure).
 
 ### A5. Kannada book
 The text of the original, page by page, with its Sanskrit in Kannada script. Nothing of ours stands in it beyond what is needed to find a page, a sūkta or a Ṛk. (F9) **The changes of Parts C, K and O (the bhāṣya as a reference, the Sāyaṇa book, the dictionary, the tags) concern the English translation only; the Kannada book remains similar to the original and keeps the bhāṣya as the original has it** (user, Nov 22 2026); its text is corrected only as B1.6 and B5.4 say.
 
+
+### A6. The choice of what goes into a PDF (user, Nov 27 2026)
+- **The user decides, for each PDF, which elements of the volume are in it and which are left out.** The `.md` files stay complete: a choice is made when the PDF is built, in memory, and changes no file. **Nothing is left out unless it is named.**
+- **The elements** are named by one list (`publish/tools/elements.py`): `samhita`, `pada`, `bhashya`, `gist`, `pratipada`, `bhavartha`, `printed_en` (the English printed in the edition, C6), `special`, `grammar`, `anuvada`, `particulars`. The choice is given per PDF (`kan:` / `eng:`), as a default per volume (`pubcfg.json` `"without"`) or on the command line (`--without`).
+- **Every build reports** per element the sections and lines left out, and lists each left-out section of more than 150 lines, because a missing label would let a section swallow its neighbour. The printed English ends at the first line in Kannada or Devanagari letters for the same reason.
+- **What a choice must never do:** remove a page mark (the pages of the md equal the pages of the PDF, D23), remove an element that was not named, or change a file.
+- **What the requirement needs from the volumes:** the same element must be found by the same label in every volume. The Kannada Text files meet this; the English files of the current layout (family A) meet it; the older English files need an alias table (family B) or do not meet it at all (family C: Vols 1–9; Vols 6–9 have no Ṛk structure). Which volume is which: Part L-C. The legacy English is not converted for this (F51).
+- **First use:** leaving out the edition's printed English (C6), which is a second English translation beside ours (F50: whether by default).
 ---
 
 ## B. Generic rules (hold everywhere in a volume)
@@ -207,6 +239,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### C6. English of the edition
 - Reproduced from the original. Heading: (F5).
+- **May be left out of a PDF** by the choice of A6 (`printed_en`); the md keeps it. Whether it is left out by default: F50.
 
 ### C7. Special Topics
 - English. Every Sanskrit quotation in three layers, in full, never summarised or shortened; its closing daṇḍa and abridgement dots belong to it; with its reference in the text (B3.1). A quotation the Kannada does not translate is glossed only as B3.5 says (F18).
@@ -215,7 +248,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 - (F6, decided Nov 13 2026 as "I think"): Sanskrit rendering. Complete: one word per line, headword first, then the derivation; roots, affixes, sūtra texts and references copied letter for letter; nothing added or dropped; no English inside it. The Sanskrit is composed by the translator from the Kannada (written in Kannada script inside `⟪ ⟫`, shown in Devanagari only); no script can check it, so it is read under HR3 and by reader R2. A derivation step the translator cannot follow gets a `NOTE` after its line, outside the `⟪ ⟫`; the Kannada connecting words (such as ಎಂಬುದರಿಂದ) become the Sanskrit connectives (इति, भवति, the ablative of cause); the translator does not improve the grammar of the original.
 
 ### C9. Contents
-- In English; the page numbers shown are those of our book, and the contents says so ("Page numbers are the pages of this book"). A chapter entry names the chapter; a sūkta entry reads "N. The Nth sūkta, beginning ⟦words⟧" (Arabic figure, the ordinal in words, the first words of the sūkta copied from the source). Names are given in English with transliteration (Brahmaśrī, not the Kannada letters); the list of the board of scholars names the editor first, then the members. A number that is wrong in the print stays as printed in the contents, the link is set right, and a footnote records it (the one footnote A1 allows for this).
+- In English; the page numbers shown are those of our book; the contents carries **no note** about that (user, Nov 28 2026: the number is the one in the centre of the footer). A chapter entry names the chapter; a sūkta entry reads "N. The Nth sūkta, beginning ⟦words⟧" (Arabic figure, the ordinal in words, the first words of the sūkta copied from the source). Names are given in English with transliteration (Brahmaśrī, not the Kannada letters); the list of the board of scholars names the editor first, then the members. A number that is wrong in the print stays as printed in the contents, the link is set right, and a footnote records it (the one footnote A1 allows for this).
 
 ### C10. Abbreviations page
 - The legend of B3.7: generated from the one list of B3.2, in the same form in every volume; the Kannada forms of the print are replaced by Devanagari. (This replaces "the volume's own list"; F19.)
@@ -252,6 +285,8 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | D20 | **No letter of a foreign script in either file** (Telugu, Cyrillic, Tamil, … came from OCR and from the model's typing): a Telugu or Cyrillic letter in the English or Kannada text is transliterated by script to the script of the file, or listed. | script | B2 |
 | D21 | **Page marks of the two files agree** (`### Printed p. N` ↔ `<!-- printed N -->`, same pages in the same order); the printed numbers that have no page mark of their own are listed (`review/page_flags.md`). | script | A4 |
 | D22 | **The built PDF, counted** (`python3 publish/pdf_check.py N`): no ◌; no "original p. N" in the body; the footer with the page number, "Kannada edition p. N" and, on a review copy, REVIEW COPY on the body pages; and the number of lines that still show `[?]`, `[sic]`, "as printed", "as supplied", `NOTE`, `GLOSS` or words of the translating session. The first three fail the check; the counts must be 0 for a release (D9) and are reported for a review copy. | A1, A4, B2.5, B4 |
+| D23 | **Page marks of the built PDF.** The page marks of the HTML/PDF equal the page markers of the md (`### Printed p. N`, `<!-- printed N -->`), with and without any choice of A6. Found Nov 27 2026: a mark glued to the line above it was swallowed by pandoc (Vol 17 Kannada PDF lacked pp. 7, 494, 531, 571, 811); fixed in `pandoc_html()`. *Script: `python3 publish/marks_check.py [N]` (Nov 28 2026); run on the 30 Kannada books it finds no lost mark except Vol 1 (mark `1`).* PDFs built before the fix are to be rebuilt. | script | A4, A6 |
+| D24 | **Content choice report read.** For each element left out, sections left out ≈ the number of Ṛks (printed English, Saṃhitā, Pada, word meanings, Bhāvārtha, gist); every `LONG` line of the report has been looked at; `special` and `grammar` are left out only after that look (Vol 5 Kannada grammar: one section of 6,262 lines = missing labels). | script, user | A6 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
@@ -328,6 +363,8 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F47 | **Missing sūkta introductions and the viniyoga moves.** *Decided Nov 23 2026 (user): yes* to both: the introductions the supplied volumes lack are inserted from the source, and a ritual-use paragraph that the page prints at the end of the previous Ṛk is moved to the front of the next. The list of moves (for Vol 11 `vol11/review/ws_structure.tsv`) stays the record. | K9 |
 | F48 | **The citation level.** *Leaning (user, Nov 23 2026: "units, I think"):* the unit (SBh M.S.R.U) is the address into the Sāyaṇa document; the Ṛk (M.S.R) and the paragraph (M.S.R.P) remain available. | C3, K7, K9.2 |
 | F49 | **Who reads the English of the bhāṣya a second time.** *Decided Nov 23 2026:* the user. | K4.3, Part I, Part J |
+| F50 | **The edition's printed English in the PDF.** *Raised Nov 27 2026 (user, with a recommendation):* it is a second English translation beside ours. Left out of the PDF by default, or kept? The choice itself is decided (A6); the default is not. | A6, C6 |
+| F51 | **Converting the legacy English (Vols 1–9) so that A6 covers them.** *Parked on purpose (user, Nov 27 2026: not now).* Vols 6–9 are organised by page, not by Ṛk; they would need a Ṛk-level structure first. | A6, Part L-C |
 
 ---
 
@@ -635,6 +672,12 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 
 ---
 
+
+### L-C. Content families and the Kannada Text files (counted Nov 27 2026, `tools/rv/element_scan.py`; details `docs/PDF_ELEMENTS.md`)
+**English files, by how their elements are marked:** family **A** = headings `##### …` per element, Vols 11 and 16–30 (the current layout); family **B** = bold-line labels, Vols 10, 12, 14, 15 (Vol 10 has no printed English, word meanings or Bhāvārtha); family **C** = four older dialects, Vols 1–9 (Vols 6–9 page-based, no Ṛk headings). Vol 13: no English file; Vols 22 and 25: none either. The label table of the reader serves A and B; C is not served (F51). Printed-English labels alone have 50 spellings across the files.
+**Kannada Text files** (`volN/Rigveda_Samhita_VolN_Kannada_Text.md`): a file exists for all 30 volumes (Nov 28 2026). Uniform labels were counted on the 25 that existed on Nov 27 (Vols 1–6, 11, 12, 14–30); the A6 choice works on those; Vols 7–10 and 13 came later and have not been counted. Origin: Vols 3, 4, 25 were made whole by `tools/rv/kn_full.py` on Nov 26 2026 from the supplied text (page markers complete, digits and letters checked per page); Vols 7–10, 13 and the translated volumes (22, 26, 28 …) have the files made by their own sessions. **Vol 22 is complete** (pages 1–600, no gaps, 61 sūkta and 471 Ṛk headings; the English has 472 Ṛk headings, one to look at). Gaps that remain: Vol 4 pages 187, 227, 304, 326, 534 and Vol 25 pages 217, 475, 574, 575, 681 have no page of their own in the supplied text.
+**Kannada PDFs (Nov 28 2026):** a review copy of the Kannada book exists for all 30 volumes (`volN/review/volN_full_Kan.pdf`, `publish/BUILD_STATUS.md`; made by `publish/build_all.py N --kan`, configs by `publish/pubcfg_kan.py` from `publish/kan_titles.tsv`). Title-page press and year are printed only where the volume's colophon gives them (Vols 2, 3, 5, 6, 13, 14, 16); for the other volumes they are empty, not guessed. The printed contents page is in the Kannada books of 21 volumes (set from each volume's supplied text by `publish/contents_kan.py`); missing in Vols 4, 8, 9, 10, 11, 17, 20, 28 (Vol 1: own mechanism, not checked). Looked at page by page: Vol 3 only (D14).
+**Reference names** are not yet unified in the new files of Vols 3, 4, 22, 25 (`refs_apply.py --scripts kannada` preview: 762 changes, 683 flagged for a reader).
 ## M. Older volumes (1–10)
 
 *From `docs/LEGACY_VOLUMES_PLAN.md`, `docs/LEGACY_SCAN_WORKFLOW.md` and `docs/DESIGN.md` §7. A proposal, not decided; the open points are F26.*
@@ -657,7 +700,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 1. **Front matter**: the pages of A2, in the order of its table, up to and including the translator-editor's preface.
 2. **Preface of the original edition** (heading "Preface (Pīṭhike)" in the working file): the whole text translated, in the order of the print, with its date line and signature translated. Its pages are marked in Roman numerals ("Printed p. iii" in the English file; `<!-- roman iii -->` under the heading "ಪೀಠಿಕೆ" in the Kannada file) and it stands before printed page 1.
 3. **Opening of the volume:** the invocation line of the original ("Om. Śrī 1. …"), the verses that stand at its head, the title line of the volume ("Ṛgveda Saṃhitā with Sāyaṇa's commentary, Part N"), the statement of which chapters, Maṇḍalas and sūktas it holds, and the introduction to the first chapter, all as the original prints them.
-4. **The abbreviations** (B3.7) stand after the prefaces and immediately before the first Maṇḍala heading.
+4. **The abbreviations** (B3.7) stand after the contents (A2a, user, Nov 28 2026).
 5. **The body:** one Maṇḍala heading wherever a Maṇḍala begins; the first sūkta follows its Maṇḍala heading on the same page; then its sūktas in order (N2); the introduction of a new chapter (adhyāya) stands before its first sūkta.
 6. **Where the original has a Pariśiṣṭa (appendix of continuous prose)** it is translated and stands after the last sūkta it belongs to, before the closing.
 7. **Closing:** the colophon and closing verses of the last chapter, with the closing line of the original and its Kannada closing mark, nothing added (A3, B6).

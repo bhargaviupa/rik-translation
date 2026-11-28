@@ -217,7 +217,9 @@ SESSION_LABEL = re.compile(r'^(?:>\s*)?\*\*(?:[⚠🎉] ?)?(Progress\b|MILESTONE
 SESSION_WORD = re.compile(r'\b(this|next|previous|last|earlier) (batch|session)\b|\bPROCESS INCIDENT\b|how you\'d like|\bPDF pages? \d+', re.I)
 def kind_session(L):
     rm = {}
+    last = max((i for i, l in enumerate(L) if l.strip()), default=-1)
     for i, l in enumerate(L):
+        if i == last and l.startswith('**Progress note:**'): continue  # the one append-only line (CLAUDE.md rule 3); the builders strip it from the print
         if l.startswith('#') or re.search('[\u0900-\u097f\u0c80-\u0cff]', l) or 'Note on a deliberate skip' in l or 'alphabetical rishi-index' in l: continue
         if SESSION_LABEL.match(l) or re.match(r'^(?:>\s*)?\*\((Superseded|Caveat|No outstanding issues|To be continued)\b.*\)\*\s*$', l) or re.match(r'^(?:>\s*)?- p\.\s?\d+', l) \
            or (SESSION_WORD.search(l) and re.match(r'^(?:>\s*)?(\*\*|\*\(|\d+\. \*\*)', l)):

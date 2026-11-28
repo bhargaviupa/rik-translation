@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Generic print build for the volumes translated from the supplied machine-read text (Vol 15 onwards).
 
-  python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource]
+  python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource] [--without printed_en,grammar | kan:printed_en | eng:gist]
+  (content choice: elements are named in publish/tools/elements.py; pubcfg.json "without" sets the default for a volume; nothing in the .md files changes)
 
 Reads volN/pubcfg.json and writes the review copies volN/review/<out>_Eng.pdf / <out>_Kan.pdf (publish/out/ is for releases only; the .html build step stays there, not kept).  Nothing in the volume's .md files is changed.
 
@@ -32,6 +33,26 @@ from add_iast import deva_to_iast, process as add_iast_process
 import contents_parse
 
 KN = re.compile('[ಀ-೿]')
+
+# ---------------------------------------------------------------- content choice (publish/tools/elements.py; in memory only)
+def without(cfg, which):
+    """elements left out of the PDF: pubcfg "without": ["printed_en"] or {"kan": [...], "eng": [...]}, plus --without a,b or --without kan:a,b / eng:a,b on the command line"""
+    c = cfg.get('without', []); ex = set(c.get(which, []) + c.get('both', []) if isinstance(c, dict) else c)
+    for i, a in enumerate(sys.argv):
+        if a == '--without' and i + 1 < len(sys.argv):
+            for x in sys.argv[i + 1].split(','):
+                pre, _, el = x.rpartition(':')
+                if not pre or pre == which: ex.add(el)
+    return ex
+
+def apply_without(md, cfg, which):
+    ex = without(cfg, which)
+    if not ex: return md
+    sys.path.insert(0, str(ROOT / 'publish' / 'tools')); import elements
+    md, rep = elements.drop(md, 'kn' if which == 'kan' else 'en', ex)
+    for e, r in [(k, v) for k, v in rep.items() if k != '_long']: print(f'[{which}] left out {e}: {r["sections"]} sections, {r["lines"]} lines (longest section {r["longest"]} lines)')
+    for e, st, n in rep.get('_long', [])[:8]: print(f'[{which}] LONG {e} section of {n} lines from md line {st}: check it before using this PDF')
+    return md
 
 # ---------------------------------------------------------------- text conversions (in memory)
 def convert_inline(md):
@@ -80,6 +101,7 @@ def mark_samhita(body):
     return body, n[0]
 
 def pandoc_html(md):
+    md = re.sub(r'(?<=[^\n])\n(?=#{1,6} )', '\n\n', md)     # pandoc needs a blank line before a heading: a page mark glued to the line above was swallowed (Vol 17: pp. 7, 494, 531, 571, 811 lost from the Kannada PDF)
     r = subprocess.run(['pandoc', '-f', 'markdown-yaml_metadata_block-smart+pipe_tables', '-t', 'html5', '--wrap=none'],
                        input=md, capture_output=True, text=True, check=True)
     return r.stdout
@@ -94,9 +116,10 @@ def fm(cfg):
 def scan(img, cls='scan', alt=''):
     return f'<section class="{cls}"><img src="{img}" alt="{alt}"></section>'
 
-def contents_html(cfg):
+def contents_html(cfg, marks=None):
+    """marks: the page marks of the book (set of ints); a printed contents number that has no mark links to the nearest mark before it (the number shown stays as printed)"""
     c = cfg['contents']
-    lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
+    lines = (ROOT / c.get('source', cfg['supplied_md'])).read_text(encoding='utf-8').split('\n')   # 'source': contents transcribed from the user's scan (Vols 28–30)
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
     blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
@@ -112,6 +135,9 @@ def contents_html(cfg):
         else:
             pg = b['page']
             tgt = {str(k): v for k, v in cfg.get('contents_target_overrides', {}).items()}.get(str(b['src']), pg)   # link target only; the printed number is shown
+            if marks and tgt and isinstance(tgt, int):
+                while tgt > 1 and tgt not in marks: tgt -= 1
+                if tgt not in marks: tgt = min(marks)                    # no mark at or before it (a volume whose p. 1 is not in the supplied text): the first page of the book
             rows.append({'html': t, 'page': f'<a href="#p{tgt}">{pg}</a>' if pg else ''})
     out = [f'<section class="pcontents kn"><p class="ph1">{h[0]}</p><p class="ph2">{h[1]}</p><p class="ph3">{h[2]}</p>',
            printfix.contents_table(rows, note='', head=('ಸಂ.', 'ವಿಷಯ', 'ಪುಟ')), '</section>']
@@ -162,6 +188,9 @@ def preface_en(fe):
 def own_preface_html(cfg):
     """The editor's own Preface to the English Edition (REQUIREMENTS A2, F15): volN/own_preface.json, made by tools/rv/own_preface.py.
     A paragraph that still holds a {{slot}} is shown as a placeholder (review copy); no file at all gives one placeholder page."""
+    try:
+        if json.loads((PUB / 'frontmatter' / 'order.json').read_text(encoding='utf8')).get('embed'): return ''    # the embedder sets row our_preface (publish/frontmatter/embed.py)
+    except (OSError, ValueError): pass
     f = ROOT / f'vol{cfg["vol"]}' / 'own_preface.json'
     if not f.exists():
         return '<section class="preface"><h2>Preface to the English Edition</h2><div class="placeholder">[Preface to the English edition — to be supplied]</div></section>'
@@ -184,7 +213,7 @@ def contents_en_html(cfg, fe, suk_ids):
     suk_ids: heading ids of the sūktas in order (the n-th sūkta line of the contents links to the n-th sūkta heading)."""
     en = {e['src']: e for e in json.loads((ROOT / cfg['contents_en']).read_text(encoding='utf8'))}
     c = cfg['contents']
-    lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
+    lines = (ROOT / c.get('source', cfg['supplied_md'])).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
     blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
@@ -204,6 +233,8 @@ def contents_en_html(cfg, fe, suk_ids):
         e = en.get(b['src'], {}); t = esc(e.get('en', '')); fn = f'<span class="fn">{html.escape(e["note"])}</span>' if e.get('note') else ''
         if b['t'] == 'sukta':
             si += 1; pg = first_pg.get(b['src'])
+            mp = re.search(r'\s(\d{1,4})\s*$', b['text'])                   # the printed page at the end of the sūkta line itself (Vol 29): the sūkta begins there
+            if mp: pg = ov.get(str(b['src']), int(mp.group(1)))
             tgt = f'#p{pg}' if pg else (f'#{suk_ids[si-1]}' if si <= len(suk_ids) else '')
             mno = re.match(r'\s*(\d+)\.\s+(.*)', t, flags=re.S)                       # '29. The twenty-ninth sūkta, …' -> number column
             rows.append({'no': mno.group(1) if mno else '', 'html': f'<strong>{mno.group(2) if mno else t}</strong>{fn}', 'href': tgt})
@@ -213,7 +244,7 @@ def contents_en_html(cfg, fe, suk_ids):
             pg = ov.get(str(b['src']), b.get('page'))
             rows.append({'html': t + fn, 'href': f'#p{pg}' if pg else ''})
     out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>',
-           printfix.contents_table(rows, note=fe["contents"]["page_note"]), '</section>']
+           printfix.contents_table(rows), '</section>']
     return '\n'.join(out)
 
 NOTE_RX = re.compile(r'^(\[|Running head|\(The supplied|\(In the supplied|\(A small stray|\(Note|Note|Stray line|\(Readings|Title page of the volume)')
@@ -296,6 +327,11 @@ def intro_headings(body):
         return f'<h3 class="{cls}">Introduction{rest}</h3>'
     return re.sub(r'<p><strong>Pīṭhike \(Introduction\)([^<]*)</strong></p>', rep, body)
 
+def printed_at(cfg):
+    """' at PRESS, YEAR' from what the volume's pubcfg has (press and year only where they are known: an empty one is left out, never guessed)"""
+    parts = [x for x in (cfg.get('press', 'Śrī Śāradā Press, Mysore'), cfg.get('year', '')) if x and x.strip()]
+    return (' at ' + ', '.join(parts)) if parts else ''
+
 def front(cfg, lang, fmi, toc_blocks):
     eng = lang == 'eng'
     v = cfg['vol']
@@ -324,7 +360,7 @@ def front(cfg, lang, fmi, toc_blocks):
     else:
         parts.append(scan(fmi[r['title']], 'scan', 'Title page'))
     parts.append(f'''<section class="copyright">{credit}
-<p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed at {cfg.get("press", "Śrī Śāradā Press, Mysore")}, {cfg["year"]}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
+<p>This text is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed{printed_at(cfg)}, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The cover, portrait and permission page are reproduced from the scanned front matter of that edition; the board of scholars, the preface, the contents and the list of abbreviations are translated.</p>
 <p>{"Numbers and readings are given as supplied. A place that still needs the editor's decision or a second look is marked <b>NOTE</b> in the text; the questions are listed separately. This is a review copy: the translation has not yet been read against the Kannada by a second reader." if notes else "Remarks on the state of the supplied text (garbled words, printed variants, stray lines) are given as numbered footnotes at the foot of the page. Numbers and readings are given as supplied; doubtful places are marked [?]."}</p>
 {release_html(cfg)}</section>''')
     if has('portrait'):
@@ -333,7 +369,7 @@ def front(cfg, lang, fmi, toc_blocks):
     if has('permission'): parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
     fe = load_front_en(cfg) if eng else None
     if fe:                                              # English PDF: the board page and the preface are translated, typeset pages
-        parts.append(board_en(fe))
+        if fe.get('board'): parts.append(board_en(fe))     # Vol 30: the frontmatter json holds only the contents heading
         if fe.get('preface'): parts.append(preface_en(fe))        # a volume whose preface stands in the English file (Vols 17+) has none here
     elif has('board'):
         parts.append(f'<section class="scan"><img src="{fmi[r["board"]]}" alt="Board of scholars"><p class="cap2">{cfg["board_caption"]}</p></section>')
@@ -373,11 +409,12 @@ def references_list_html(cfg, kan=False):
     """List of the works cited in THIS volume, from the one reviewed list (rv/references.tsv), placed right after the contents (user, Nov 26 2026).
     Only forms that stand before a reference number in the volume's English text are listed; the order is the list's order."""
     rows = [l.split('\t') for l in (ROOT / 'rv' / 'references.tsv').read_text(encoding='utf8').split('\n')[1:] if l.count('\t') >= 3]
-    txt = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
+    kn_only = kan and not cfg.get('english_md')          # a Kannada-only book (no English file of the volume): the works are found by their Kannada forms in the Kannada text
+    txt = (ROOT / cfg['kannada_md' if kn_only else 'english_md']).read_text(encoding='utf-8')
     used = []
     for r in rows:
         if r[3] not in ('legend', 'extra'): continue
-        forms = [x.strip() for x in r[0].split(' or ')]
+        forms = [x.strip() for x in (r[1].split(' ಅಥವಾ ') if kn_only else r[0].split(' or ')) if x.strip()]
         n = sum(len(re.findall(r'(?<![\w.])' + re.escape(x) + r'(?=\s?\d)', txt)) for x in forms)
         if n: used.append((r[0], r[1], r[2], n))
     if not used: return ''
@@ -388,7 +425,7 @@ def references_list_html(cfg, kan=False):
 
 def build_eng(cfg, html_only):
     md = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
-    md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    md = re.sub(r'\n---\n+\*\*Progress note:\*\*[^\n]*\n*\Z', '\n', md)      # only the closing note line; a stray note inside a file used to delete everything after it (Vol 13 Kannada PDF: 5 pages)
     if cfg.get('wikisource') or '--wikisource' in sys.argv:
         # Saṃhitā, Pada and Sāyaṇa-bhāṣya from the one Wikisource reference (refs/wikisource/index; publish/tools/ws_layers.py), in memory only
         sys.path.insert(0, str(ROOT / 'publish' / 'tools'))
@@ -400,6 +437,7 @@ def build_eng(cfg, html_only):
     md, nconv = convert_inline(md)
     md, niast = add_block_iast(md, cfg.get('iast_block_labels', ('संहितापाठः', 'पदपाठः')))
     print(f'[eng] headings added: {added}; Kannada-script quotations converted: {nconv}; IAST lines added to Saṃhitā/Pada blocks: {niast}; ⟦ left: {md.count("⟦")}')
+    md = apply_without(md, cfg, 'eng')
     body = pandoc_html(md)
     body, nv = mark_samhita(body); print(f'[eng] verses set in the spaced Saṃhitā style: {nv}')
     toc, st = [], {'n': 0}
@@ -420,6 +458,8 @@ def build_eng(cfg, html_only):
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     fe = load_front_en(cfg)
+    if not fe and cfg.get('contents_en'):                 # a volume with a translated contents only (Vol 29): no board/preface/abbreviation pages of its own
+        fe = {'contents': {'heading': ['॥ Śrīḥ ॥', 'Contents of the Volume of the Ṛgveda-saṃhitā'], 'page_note': 'Page numbers are the pages of this book.'}}
     body = notes_to_footnotes(body)
     body = intro_headings(body)
     body = body.replace('<span>p. 1</span></h3>', '<span>p. 1</span></h3><div class="om">ॐ</div>', 1)
@@ -429,7 +469,7 @@ def build_eng(cfg, html_only):
         ab = abbreviations_en(fe) if fe.get('abbreviations') else ''      # Vol 21 has no list of abbreviations
         idx = ''
     else:
-        idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
+        idx = '' if cfg.get('no_index') else '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'   # pubcfg "no_index": no contents page until the user decides (Vol 30)
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     refl = references_list_html(cfg)
     write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + own_preface_html(cfg) + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
@@ -505,7 +545,8 @@ def build_kan(cfg, html_only):
     md, nlev = _hd.apply_kn(md, cfg['vol']); print(f'[kan] title lines set as headings by level (volN/data/headings_kn.tsv): {nlev}')
     md = re.sub(r'(?m)[ \t]*\{\.[\w-]+\}[ \t]*$', '', md)          # '{.headline}', '{.section-title}' left by the conversion of the supplied file
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
-    md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    md = re.sub(r'\n---\n+\*\*Progress note:\*\*[^\n]*\n*\Z', '\n', md)      # only the closing note line; a stray note inside a file used to delete everything after it (Vol 13 Kannada PDF: 5 pages)
+    md = apply_without(md, cfg, 'kan')                      # content choice first: it needs the running-head lines after the page marks, which the cleaning below removes
     # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
     # each page ('*[ಪೂರ್ವಪೀಠಿಕೆ 3]*'), the '[figure]' places and the machine's remark on a picture, comments of the making.
     md, ncont = kan_contents(md); print(f'[kan] entries of the original contents set as a table: {ncont}')
@@ -549,12 +590,15 @@ def build_kan(cfg, html_only):
         idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
-    ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
+    try: ch, blocks = contents_html(cfg, {int(x) for x in re.findall(r'(?m)^### Printed p\. (\d+)', md)}) if cfg.get('contents') else ('', [])
+    except Exception as ex:           # the contents settings of a volume are fitted when its front matter is built; the Kannada book does not wait for them
+        ch, blocks = '', []; print(f'[kan] WARNING: printed contents not set ({type(ex).__name__}: {ex}); the Kannada book is built WITHOUT its contents page; fit "contents" in volN/pubcfg.json')
     refl = references_list_html(cfg, kan=True)
     write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + refl + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only, cfg['vol'])
 
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    argv = sys.argv[1:]; skip = {i + 1 for i, x in enumerate(argv) if x == '--without'}          # the value of --without is not a build target
+    args = [x for i, x in enumerate(argv) if not x.startswith('--') and i not in skip]
     vol = int(args[0]); which = args[1:] or ['eng', 'kan']
     cfg = json.loads((ROOT / f'vol{vol}' / 'pubcfg.json').read_text(encoding='utf8'))
     h = '--html-only' in sys.argv

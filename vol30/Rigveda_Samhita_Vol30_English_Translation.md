@@ -9903,8 +9903,6 @@ Like gharmas, i.e. like the great vessels (mahāvīra), you are the sharers (san
 
 ### Printed p. 265
 
-*(The Pratipadārtha continues from the previous page.)*
-
 ##### प्रतिपदार्थ (Pratipadārtha)
 
 - …—those who are filled (with it)
@@ -22058,8 +22056,6 @@ The Apsaras, smiling affectionately like a wife at her lover, cherishes him in t
 
 ### Printed p. 670
 
-*(Special Topics, continued from Ṛk 5)*
-
 ##### विशेषविषयगळु (Special Topics)
 
 In this Ṛk, in describing that the god named Vena dwells in the midst of clouds accompanied by lightning, the description is compared to a young woman approaching her beloved with a gentle smile. Just as a young woman approaches the man dear to her with a gentle smile and sports with him, so the woman called Vidyut (lightning), who appears from time to time in the midst of the cloud-mass, joins this Vena in the upper part of the atmosphere and cherishes him. Here the young woman's smiling is compared with the shining lightning. Further, अप्सराः (*apsarāḥ*) means a beautiful woman who shines with beauty and charm like an Apsaras. From the standpoint of Vena, अप्सराः (*apsarāḥ*) means आपांसारयित्र्यप्पु क्रीडार्थं सरंतीति वा (*āpāṃsārayitryappu krīḍārthaṃ saraṃtīti vā*), that is, she who is the essence of water, or she who moves about in the water for sport. The lightning (vidyut) that appears from time to time in the midst of the water-laden cloud-masses is here designated by the words अप्सराः (*apsarāḥ*) and योषा (*yoṣā*). And just as a young woman and her beloved meet in a secluded, private place, so Vena and his beloved Vidyut are described as meeting in the upper part of the atmosphere (परमे व्योमन् (*parame vyoman*)). Moreover, just as a young woman moves about in the region where her beloved is and sits near him and sports, so this woman Vidyut, ranging from time to time through the atmosphere, sits with Vena in the shining cloud-mass (that is, remains hidden in the cloud-mass) and sports; this is the sense of the simile stated here.
@@ -28225,7 +28221,6 @@ The words of this Ṛk were spoken by Naciketas: "My father Vājaśravas has wis
 (Words of the seer Kumāra) The Āditya desires to favour the ancient seers or fathers who have praised him from of old, and moves in the atmosphere from sunrise to sunset. Unable to praise him, I, filled with evil thought and envy, thought "What is this sun, so great? What is seen in the world …"
 
 ### Printed p. 856
-*(continuing from the previous page)*
 
 ##### भावार्थ (Bhāvārtha)
 

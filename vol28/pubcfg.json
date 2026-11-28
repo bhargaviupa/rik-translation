@@ -1,0 +1,23 @@
+{
+ "vol": 28,
+ "range_line": "Maṇḍala 10 · Sūktas 41–71",
+ "adhyaya_line": "Eighth Adhyāya of the Seventh Aṣṭaka (from Sūkta 41) and the First and Second Adhyāyas of the Eighth Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>[… press and year to be supplied]",
+ "year": "[… year to be supplied]",
+ "press": "[… press to be supplied]",
+ "note_style": "NOTE",
+ "english_md": "vol28/Rigveda_Samhita_Vol28_English_Translation.md",
+ "kannada_md": "vol28/Rigveda_Samhita_Vol28_Kannada_Text.md",
+ "supplied_md": "vol28/html/rig_28.md",
+ "out": "vol28_full",
+ "front_en": "vol28/frontmatter_en.json",
+ "contents_en": "vol28/contents_en.json",
+ "contents": {
+  "source": "vol28/contents_src/contents_kn.md",
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": ["॥ ಶ್ರೀಃ ॥", "ಋಗ್ವೇದಸಂಹಿತೆಯ ಇಪ್ಪತ್ತೆಂಟನೆಯ ಭಾಗದ", "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"]
+ },
+ "contents_target_overrides": {},
+ "_contents_overrides_note": "no override needed: the missing printed pages 162, 604, 605 are not pages that any contents row points to; all 88 item pages and 31 sūkta pages have a page mark in the English file"
+}
