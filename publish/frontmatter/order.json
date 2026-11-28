@@ -1,0 +1,20 @@
+{
+ "_note": "The one list of the common front/back pages, in print order. To drop a page set \"enabled\": false (or delete its row); to add one, put a new HTML fragment in pages/ and add a row. Nothing else needs to change. Pages of kind 'volume' are not stored here: the embedding script supplies them from the volume (see README.md).",
+ "trim": "6.5in 9.5in",
+ "tokens": ["{{vol}}", "{{vol_roman}}", "{{vol_title}}", "{{range_line}}", "{{adhyaya_line}}", "{{assets}}", "{{release.*}}"],
+ "pages": [
+  {"id": "title",        "file": "pages/01_title.html",           "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "user is designing the 2 pages (title + imprint); placeholders only"},
+  {"id": "imprint",      "file": "pages/02_imprint.html",         "kind": "placeholder", "enabled": true, "start": "verso", "numbering": "none",  "note": "volume name, scope, translation credit, copyright/ISBN (from publish/release.json)"},
+  {"id": "king",         "file": "pages/03_king_photo.html",      "kind": "designed",    "enabled": true, "start": "any",   "numbering": "none",  "note": "Maharaja Jayacamarajendra Wadiyar (patron of the first edition)"},
+  {"id": "guru",         "file": "pages/04_guru_photo.html",      "kind": "designed",    "enabled": true, "start": "any",   "numbering": "none",  "note": "Siddhalinga Svamigalu; follows the king"},
+  {"id": "present_day",  "file": "pages/05_present_day.html",     "kind": "placeholder", "enabled": true, "start": "any",   "numbering": "none",  "note": "current king and guru on one page, photos to be supplied"},
+  {"id": "thanks",       "file": "pages/06_thank_you.html",       "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "text to be supplied"},
+  {"id": "our_preface",  "file": "pages/07_our_preface.html",     "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "roman", "note": "our (translator's) preface, text to be supplied"},
+  {"id": "orig_preface", "file": "pages/08_original_preface.html","kind": "slot",        "enabled": true, "start": "recto", "numbering": "roman", "slot": "original_preface", "note": "frame + heading; body = translated preface of the 1949-52 edition, from the volume"},
+  {"id": "contents",     "file": "pages/09_contents.html",        "kind": "slot",        "enabled": true, "start": "recto", "numbering": "roman", "slot": "contents",         "note": "frame + heading; body generated from the volume's contents"},
+  {"id": "abbreviations","file": "pages/10_abbreviations.html",   "kind": "slot",        "enabled": true, "start": "recto", "numbering": "roman", "slot": "abbreviations",   "note": "frame + heading; body = list of abbreviations"},
+  {"id": "introduction", "file": "pages/11_introduction.html",    "kind": "slot",        "enabled": true, "start": "recto", "numbering": "roman", "slot": "introduction", "optional_if_missing": true, "note": "Purva-pithike / Introduction; only for volumes that have one, otherwise skipped"},
+  {"id": "body",         "file": null,                            "kind": "volume",      "enabled": true, "start": "recto", "numbering": "arabic","note": "the book's text starts here (printed p. 1); not a page of this folder"},
+  {"id": "closing",      "file": "pages/12_closing_remarks.html", "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "closing remarks, text to be supplied; last page of the book"}
+ ]
+}
