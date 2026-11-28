@@ -16,3 +16,6 @@ Stored pages only. Embedding them into the volume PDFs is done by another sessio
 * Row `body`: the embedder inserts `<div class="fm-bodystart" data-orig=""></div>` before the text; it opens a right page, clears the footer name and makes that page arabic 1 (named page `fmbody`). Blank pages from `start: recto/verso` carry no number and count in the roman numbers.
 * The closing-remarks row is `"enabled": false` until it has text.
 * `python3 publish/frontmatter/preview.py --body` previews with sample slot text, the footer rules and a stand-in for the text.
+
+## Ownership (user, Nov 28 2026)
+The front-pages session owns only the rows up to and including the thank-you page (`title`, `imprint`, `king`, `guru`, `present_day`, `thanks`). The rows from `our_preface` on (our preface, original preface, contents, abbreviations, introduction, body marker, closing) and the embedder belong to other sessions; what is stored for them here is a starting point they may change or replace.
