@@ -26,14 +26,14 @@
    It opens a right page, clears the footer name left by the introduction, and makes this page arabic 1 (blank pages before it count in the roman numbers). */
 .fm-bodystart { break-before: right; string-set: orig attr(data-orig); page: fmbody; height: 0; margin: 0; padding: 0; }
 @page fmbody { counter-reset: page 1; }   /* the same mechanism as 'chapter-first' in style.css */
-/* Title page (page 01): the ornamental frame of the Vol 1 title page (assets/title_frame_vol1.png, centre text and press plaque cleared);
+/* Title page (page 01): the ornamental frame of the Vol 1 title page (assets/title_frame_vol1.jpg, centre text and press plaque cleared);
    the centre text and the press name are set per volume. The frame is 5.1in wide (trim 6.5in minus two margins of .7in). */
 .tframe { position: relative; width: 5.1in; margin: 0 auto; }
 .tframe img { display: block; width: 5.1in; height: auto; }
-.tframe .tpanel { position: absolute; left: 28.5%; width: 43%; top: 41%; height: 39.6%; display: flex; flex-direction: column; justify-content: center; text-align: center; }
+.tframe .tpanel { position: absolute; left: 28.6%; width: 43.4%; top: 39.7%; height: 39.3%; display: flex; flex-direction: column; justify-content: center; text-align: center; }
 .tframe .t1 { font-size: 9pt; letter-spacing: .08em; }
 .tframe .t2 { font-size: 17pt; margin: .1in 0 .22in; }
 .tframe .t3 { font-size: 12pt; letter-spacing: .14em; margin-bottom: .14in; }
 .tframe .t4 { font-size: 8.5pt; line-height: 1.4; margin-bottom: .05in; }
 .tframe .t5 { font-size: 9pt; font-style: italic; margin-top: .2in; }
-.tframe .tplaque { position: absolute; left: 38%; width: 24%; top: 88.9%; height: 9.4%; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 6.5pt; line-height: 1.25; }
+.tframe .tplaque { position: absolute; left: 38.1%; width: 24.3%; top: 87.3%; height: 9.4%; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 6.5pt; line-height: 1.25; }
