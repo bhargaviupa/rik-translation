@@ -43,3 +43,5 @@ Done: 1 (last window, p. 1288), 2 (`check_labels`: 0; `repair_inline`: 0 left; `
 
 ## English review PDF (2026-11-28, branch claude/vol30-pdf)
 Built `vol30/review/vol30_full_Eng.pdf` (2147 pages, pdf_check passes; NOTE 311). No contents page (pubcfg `no_index`: waiting for the user to choose none / generated Sūkta table). Volume is final (colophon present).
+
+Contents (2026-11-28): English contents page built from the original contents (vol30/contents_src/, contents_en.json): 97 sūktas, 185 topic rows, 8 headings; PDF now 2163 pages.

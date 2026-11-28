@@ -320,7 +320,7 @@ def front(cfg, lang, fmi, toc_blocks):
     if has('permission'): parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
     fe = load_front_en(cfg) if eng else None
     if fe:                                              # English PDF: the board page and the preface are translated, typeset pages
-        parts.append(board_en(fe))
+        if fe.get('board'): parts.append(board_en(fe))     # Vol 30: the frontmatter json holds only the contents heading
         if fe.get('preface'): parts.append(preface_en(fe))        # a volume whose preface stands in the English file (Vols 17+) has none here
     elif has('board'):
         parts.append(f'<section class="scan"><img src="{fmi[r["board"]]}" alt="Board of scholars"><p class="cap2">{cfg["board_caption"]}</p></section>')
