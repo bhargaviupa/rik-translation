@@ -40,3 +40,6 @@ Done: 1 (last window, p. 1288), 2 (`check_labels`: 0; `repair_inline`: 0 left; `
 | windows | pages | hand-fixes by kind | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA samples (pages, errors, minors) | cost |
 |---|---|---|---|---|---|---|---|---|
 | 212 batch windows + 1 re-sent (w0712) | 1288 printed (1271 pages in the source, 17 numbers without a head) | 17 stops or failed verifications: missing heading 3, blocks counted one off 4, Saṃhitā split at a window break 2, Ṛk headings/sūkta headings 3, remarks 3, cut-off answer 1, picture ornament 1, Cyrillic letter 1 | 17 | 0 | 0 | 155 (210 − 55 by `--api`) | 48 pages, 10 errors, 42 minors | $11.81 batch + $0.12 preface + $0.10 direct + $0.30 accent API = $12.33; QA agents not counted |
+
+## English review PDF (2026-11-28, branch claude/vol30-pdf)
+Built `vol30/review/vol30_full_Eng.pdf` (2147 pages, pdf_check passes; NOTE 311). No contents page (pubcfg `no_index`: waiting for the user to choose none / generated Sūkta table). Volume is final (colophon present).
