@@ -36,3 +36,6 @@ Both are taken from the Vol 1 front matter, from the user's high-resolution scan
 
 ## Title page (page 01, from the user's Vol 1 scan `pic-front.pdf`, Nov 28 2026)
 `assets/title_frame_vol1.jpg` is the ornamental frame of the Vol 1 title page (the scan is 1664×2193, 1-bit, the same as `publish/assets/cover_vol1.jpg`) with its centre text and the press plaque cleared. Page 01 sets, per volume: `{{vol}}`, `{{range_line}}`, `{{adhyaya_line}}` in the centre and `{{press}}` in the plaque (all from `volN/pubcfg.json`; Vol 15's pubcfg has no `press`, volumes without a pubcfg have none of them). Tokens added: `{{press}}`, `{{fm_assets}}`. The frame is 5.1 in wide (trim 6.5 in minus margins .7 in); the text sizes are in pt for that width.
+
+## Imprint page (page 02, Nov 28 2026)
+The layout of the typeset title page the builders made (user's `pic-trans.pdf`), inside the same plate border as the thank-you page (`assets/thanks_frame_vol1.jpg`, deskewed 0.8° and trimmed). The line "prepared with the assistance of Claude, an AI model by Anthropic" is removed (user). Tokens: `{{vol}}`, `{{range_line}}`, `{{adhyaya_line}}`, `{{imprint}}`, `{{release.*}}`.

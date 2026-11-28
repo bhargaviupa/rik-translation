@@ -1,6 +1,6 @@
 # Prompt for the session that embeds the common front pages 01–06 into the volume PDFs
 
-Pages 01–06 are finished as far as the user has decided (title, imprint, king, guru, present-day, thank-you). Your job is only to make the embedding script **use them**; you do not redesign them. The **texts of the imprint, present-day and thank-you pages are not decided yet**: the user will supply them later, so the script must take them from the page files (and `publish/release.json`), never hard-code them.
+Pages 01–06 are finished as far as the user has decided (title, imprint, king, guru, present-day, thank-you). Your job is only to make the embedding script **use them**; you do not redesign them. The **texts of the present-day and thank-you pages (and any change to the imprint page) are not decided yet**: the user will supply them later, so the script must take them from the page files (and `publish/release.json`), never hard-code them.
 
 ## Where things are
 Branch `claude/clever-lamport-qr34vh` (merge `origin/main` and that branch if the last commits `e71a1017`, `6495a061` are not yet in `main`). Folder `publish/frontmatter/`: `order.json` (the one list: order, `enabled`, `start` recto/verso, `numbering`, master switch `"embed": false`), `pages/01_title.html` … `06_thank_you.html`, `fm.css`, `assets/`, `preview.py` (review aid only), `README.md` (the contract; read it first).
@@ -9,7 +9,7 @@ Branch `claude/clever-lamport-qr34vh` (merge `origin/main` and that branch if th
 | page | file | content | per volume? |
 |---|---|---|---|
 | 01 title | `01_title.html` | Vol 1 title-page frame (`assets/title_frame_vol1.jpg`, centre and press plaque cleared) + live text: `{{vol}}`, `{{range_line}}`, `{{adhyaya_line}}` in the centre, `{{press}}` in the plaque | yes |
-| 02 imprint | `02_imprint.html` | **placeholder** listing `{{release.publisher}}`, `.isbn`, `.edition_and_printing`, `.rights_statement`; the final design/text comes from the user | values from `publish/release.json` (empty now: print its "to be supplied" placeholder) |
+| 02 imprint | `02_imprint.html` | the layout of the typeset title page the builders made (invocation, title, volume and scope `{{range_line}}`/`{{adhyaya_line}}`, translator, source edition `{{imprint}}`, © 2026 line, release lines) inside the plate border (`assets/thanks_frame_vol1.jpg`); **no reference to Claude or to how the file was made**; texts may still be edited by the user | yes (`{{vol}}`, scope, imprint) + `publish/release.json` (empty now: print its "to be supplied" placeholder) |
 | 03 king | `03_king_photo.html` | `assets/king_vol1.jpg` (user's Vol 1 scan) + English caption | no |
 | 04 guru | `04_guru_photo.html` | `assets/guru_vol1.jpg` + English caption | no |
 | 05 present day | `05_present_day.html` | two placeholder frames on one page (photos and captions to come) | no |
