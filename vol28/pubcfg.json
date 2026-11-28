@@ -1,12 +1,13 @@
 {
  "vol": 28,
  "range_line": "Maṇḍala 10 · Sūktas 41–71",
- "adhyaya_line": "Eighth Adhyāya of the Seventh Aṣṭaka (from Sūkta 41), and the First and Second Adhyāyas of the Eighth Aṣṭaka",
- "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
- "year": "",
- "press": "",
+ "adhyaya_line": "Eighth Adhyāya of the Seventh Aṣṭaka (from Sūkta 41) and the First and Second Adhyāyas of the Eighth Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>[… press and year to be supplied]",
+ "year": "[… year to be supplied]",
+ "press": "[… press to be supplied]",
+ "note_style": "NOTE",
+ "english_md": "vol28/Rigveda_Samhita_Vol28_English_Translation.md",
  "kannada_md": "vol28/Rigveda_Samhita_Vol28_Kannada_Text.md",
- "out": "vol28_full",
- "kannada_only": true,
- "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol28/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet."
+ "supplied_md": "vol28/html/rig_28.md",
+ "out": "vol28_full"
 }

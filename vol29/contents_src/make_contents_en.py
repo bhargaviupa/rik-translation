@@ -1,0 +1,95 @@
+import json, re, sys
+ROOT = '/home/user/rik-translation/.claude/worktrees/agent-ac14eb3712e16d6d1/'
+S_ = '/tmp/claude-0/-home-user-rik-translation/78df2a4e-530a-586e-954a-237d5fddcce3/scratchpad/c29.json'
+B = json.load(open(S_)); BY = {x['src']: x for x in B}
+O = {'72':'seventy-second','73':'seventy-third','74':'seventy-fourth','75':'seventy-fifth','76':'seventy-sixth','77':'seventy-seventh','78':'seventy-eighth','79':'seventy-ninth','80':'eightieth','81':'eighty-first','82':'eighty-second','83':'eighty-third','84':'eighty-fourth','85':'eighty-fifth','86':'eighty-sixth','87':'eighty-seventh','88':'eighty-eighth','89':'eighty-ninth','90':'ninetieth','91':'ninety-first','92':'ninety-second','93':'ninety-third','94':'ninety-fourth'}
+KD = dict(zip('೦೧೨೩೪೫೬೭೮೯', '0123456789'))
+def inc(src):
+    t = BY[src]['text']
+    return t.split(' ಎಂಬ ')[0].strip()
+def S(src):
+    n = ''.join(KD[c] for c in BY[src]['no'])
+    return f'{n}. The {O[n]} sūkta, beginning ⟦{inc(src)}⟧'
+def R(src, ordinal):   # 'The Nth Ṛk, ⟦incipit⟧.'
+    return f'The {ordinal} Ṛk, ⟦{inc(src)}⟧.'
+def N(src, what='Ṛk'):
+    return f'The Nirukta of the {what} ⟦{inc(src)}⟧.'
+E_ = {}
+def a(src, en): E_[src] = en
+a(3,'The Third Adhyāya in the Eighth Aṣṭaka.'); a(4,'Sūktas of the Tenth Maṇḍala.')
+a(5,S(5)); a(6,'Introduction to the sūkta.'); a(7,'The various meanings and uses of the word ⟦ಯುಗ⟧.')
+a(8,'The natural (prākṛta) and the modified (vaikṛta) creations.'); a(9,'Divisions of time.'); a(10,'Yuga, manvantara, kalpa, etc.')
+a(11,'The question of being (sat) arising from non-being (asat).'); a(12,'The origin of Aditi and Dakṣa.'); a(13,'The nature of Aditi, etc.')
+a(14,'Discussion of the subject of Dakṣa.'); a(15,'The deities Mitra, Varuṇa and Aryamā.')
+a(16,S(16)); a(17,'The killing of the asura Namuci by Indra.'); a(18,N(18))
+a(19,S(19)); a(20,S(20)); a(21,'Introduction to the sūkta.'); a(22,'The river Sarasvatī.')
+a(23,'The conversation between the seer Viśvāmitra and the rivers.'); a(24,'The principal rivers beginning with Gaṅgā, and their description.')
+a(25,S(25)); a(26,'Introduction to the sūkta—the soma plant and the pressing stones, etc.'); a(27,S(27))
+a(31,S(31)); a(32,S(32)); a(33,S(33)); a(34,S(34))
+a(35,'Introduction to the sūkta—discussion of Viśvakarman.'); a(36,'The dissolution and the order of creation brought about by Viśvakarman, etc.')
+a(37,'Detailed explanation of the special meaning of the Ṛk ⟦ಯ ಇಮಾ⟧.'); a(38,'What means Viśvakarman had when he created the world.')
+a(39,'Viśvakarman created without any means or materials.'); a(40,'Discussion of the creation of the world, etc.'); a(41,'The order of creation of the worlds Bhūr, etc.')
+a(42,'Explanation of the Ṛk ⟦ವಿಶ್ವಕರ್ಮನ್ ಹವಿಷಾ⟧.'); a(43,'The nature of the sacrifice called ⟦ಸರ್ವಹತ್⟧ performed by Viśvakarman, etc.')
+a(44,"Viśvakarman's self-sacrifice as the root cause of creation, etc.")
+a(45,S(45)); a(46,'The view that the whole creation came from the water that enveloped the world before creation, etc.')
+a(48,'The meaning of the word ⟦ಪುರುಷ⟧; why the Supreme Self is called Puruṣa.'); a(49,'The greatness of the vital breath (prāṇa), etc.')
+a(50,N(50)); a(51,'The nature and greatness of Viśvakarman, etc.')
+a(52,'Although Viśvakarman is the cause of the origin of all the world, he is distinct from the world.')
+a(53,'The conversation between the seer Yājñavalkya and Gārgya on the subject of the worlds.'); a(54,"Viśvakarman's special powers, strength and capacities, etc.")
+a(55,"Neither the gods nor other beings can know Viśvakarman's nature and glory."); a(56,'The sūkta relating to Viśvakarman stated in the Taittirīya Saṃhitā.')
+a(57,S(57)); a(58,'Introduction to the sūkta.')
+a(62,'The deities of mental states (bhāvanā)—Śraddhā, Medhā, Prajñā, Satya, Tapas, Dama, Śama, Dāna, Dharma, Yajña, Manas, Saṃvatsara or Time, Dakṣiṇā, Ānanda, Śānti, etc.')
+a(64,'The nature of the deity Manyu.'); a(65,'The application (viniyoga), fruit (phalaśruti), etc., stated in the Ṛg-vidhāna for these sūktas.')
+a(66,S(66)); a(67,'Explanation of the Ṛk ⟦ತ್ವಯಾ ಮನ್ಯೋ⟧.'); a(68,S(68))
+a(69,'The earlier story of the marriage of Soma and the goddess Sūryā.'); a(70,"The contest among the gods at Sūryā's wedding."); a(71,'How the Aśvin gods won the contest, etc.')
+a(72,"Explanation of the spiritual principle in the matter of Sūryā's wedding."); a(73,'Explanation of the word ⟦ಸೋಮ⟧, description of the soma plant, the method of pressing and preparing the soma juice, etc.')
+a(75,'Derivation of the form of the word ⟦ನಕ್ಷತ್ರ⟧, etc.'); a(76,'Two kinds of explanation of the deity Soma.')
+a(77,'Explanation of the Ṛk ⟦ಯತ್ತ್ವಾ ದೇವ⟧—the meaning with reference to the herb and to the moon.'); a(78,"Description of the goddess Sūryā's wedding, etc.")
+a(79,'Explanation of the stomas.'); a(80,'The twenty-seven nakṣatras and their presiding deities.'); a(81,'Description of the chariot of the Aśvin gods.')
+a(82,N(82)); a(83,N(83)); a(84,'The Gandharvas—Viśvāvasu and others.')
+a(85,'Explanation of the words ⟦ಶೇಷಂ⟧ and ⟦ವೈತಸ⟧.'); a(86,'Explanation of the sentence ⟦ತೃತೀಯೋ ಅಗ್ನಿಷ್ಟೇ ಪತಿಃ⟧.'); a(87,'Explanation of the meaning of the word ⟦ರೂಪಸಮೃದ್ಧ⟧, etc.')
+a(88,'Explanation of the meaning and derivation of the word ⟦ದೇವರ⟧, etc.'); a(89,'The deity ⟦ಮಾತರಿಶ್ವಾ⟧.')
+a(90,'Here ends the Third Adhyāya in the Eighth Aṣṭaka.'); a(94,'The Fourth Adhyāya.')
+a(95,S(95)); a(96,'Introduction to the sūkta—the subject of Vṛṣākapi.'); a(97,"The dialogue among Indra, Indrāṇī and Indra's son Vṛṣākapi.")
+a(98,'The application (viniyoga) stated in the Ṛg-vidhāna for this sūkta.'); a(99,N(99)); a(100,N(100)); a(101,N(101)); a(102,N(102)); a(103,N(103))
+a(104,S(104)); a(105,'Introduction—the deity ⟦ರಕ್ಷೋಹಾಗ್ನಿಃ⟧.')
+a(106,S(106)); a(107,'Introduction to the sūkta.'); a(108,'The subject of Sūrya.'); a(109,"The subject of Vaiśvānara Agni (according to Yāska's Nirukta).")
+a(110,'Explanation of the word ⟦ಮಿಥನ⟧.'); a(111,'The various meanings of the word ⟦ನ⟧.'); a(112,'Explanation of the devayāna and pitṛyāṇa paths.')
+a(113,'Explanation of the deities ⟦ದೇವ್ಯೌ ಹೋತಾರ್⟧, etc.'); a(114,N(114))
+a(115,S(115)); a(116,'Introduction to the sūkta—the subject of Indra, general description.'); a(117,'The mutual relation between Indra and Varuṇa.')
+a(118,'Description of the slaying of the asura Vṛtra.'); a(119,'Why Prajāpati has the name ⟦ಕಃ⟧.'); a(120,'Why Indra has the name Marutvān.')
+a(121,'The killing of the asura Namuci by Indra.'); a(122,'Why Indra is called Ṛjīṣī.'); a(123,'The killing of the asura Varaha by Indra.')
+a(126,N(126))
+a(127,S(127)); a(128,'Introduction to the sūkta.'); a(129,'Why this sūkta is called the Puruṣa-sūkta; explanation of the word ⟦ಪುರುಷ⟧, etc.')
+a(130,'The seer of the sūkta, Nārāyaṇa.'); a(131,'Derivation of the word ⟦ನಾರಾಯಣ⟧, etc.'); a(132,'The various meanings of the word ⟦ಪುರುಷ⟧.')
+a(133,'Explanation of the meaning of the word ⟦ಸಹಸ್ರ⟧.'); a(134,'Detailed explanation of what is said in the Ṛg-vidhāna and elsewhere of the application (viniyoga), fruit (phalaśruti), glory (māhātmya), etc., of this sūkta.')
+a(136,'Explanation of the first Ṛk, ⟦ಸಹಸ್ರಶೀರ್ಷಾ ಪುರುಷಃ⟧.'); a(137,'Explanation of the words ⟦ದಶಾಂಗುಲಂ⟧, ⟦ಅತ್ಯತಿಷ್ಠತ್⟧, etc.'); a(138,'The main purport of the Ṛk.')
+a(139,R(139,'second')); a(140,'Explanation of the sentence ⟦ಯದ್ಯೂತಂ ಯಚ್ಚ ಭವ್ಯಂ⟧, etc.'); a(141,'Explanation of the sentence ⟦ಅಮೃತತ್ವಸ್ಯೇಶಾನಃ⟧, etc.')
+a(142,'The main purport of the Ṛk.'); a(143,R(143,'third')); a(144,'Explanation of the principles of the perishable (kṣara) and the imperishable (akṣara).')
+a(145,'The main purport of the Ṛk.'); a(146,R(146,'fourth')); a(147,'Explanation of the word ⟦ತ್ರಿಪಾಚ್ಛಬ್ದ⟧.')
+a(148,'The nature of the worlds, etc.'); a(149,'Explanation of the space of the heart (hṛdayākāśa) and the small space (daharākāśa).'); a(150,'The special meaning of the word ⟦ಪಾದ⟧.')
+a(151,'The main purport of the Ṛk.'); a(152,R(152,'fifth')); a(153,'The various orders of creation, etc.'); a(154,'The meaning of the word ⟦ವಿರಾಟ್⟧, etc.')
+a(155,'What is the original principle of the world?'); a(156,'The main purport of the Ṛk.')
+a(160,R(160,'sixth')); a(161,'The view that Prajāpati is ten-fold in his offering (daśahotṛ).'); a(162,'The nature of the daśahotṛ, etc.')
+a(163,'The manner in which Prajāpati created as the daśahotṛ.'); a(164,'The four-, five-, six- and seven-fold hotṛs.'); a(165,'Prajāpati himself is of the nature of the year (the Self of Time).')
+a(166,'The main purport of the Ṛk.'); a(167,R(167,'seventh')); a(168,'The deities called the Sādhyas.'); a(169,'The main purport of the Ṛk.')
+a(170,'Special explanation of the Sādhyas.'); a(171,R(171,'eighth')); a(172,'The nature of the sacrifice called Sarvahut or Sarvamedha, etc.')
+a(173,'The greatness of ghee (ājya), etc.'); a(174,'The origin of animals; the relation between animals and the wind.'); a(175,'The main purport of the Ṛk.')
+a(176,R(176,'ninth')); a(177,'The origin of the Ṛg and the other Vedas.'); a(178,'The main purport of the Ṛk.')
+a(179,'Explanation of the various metres, their names, the number of syllables, etc.'); a(180,R(180,'tenth')); a(181,'The main purport of the Ṛk.')
+a(182,R(182,'eleventh')); a(183,R(183,'twelfth')); a(184,'The origin of the castes (varṇa), Brāhmaṇa and the rest, etc.')
+a(185,'Who are the people called Ārya and Dāsa (Dasyu)?'); a(186,'The opinions of Western scholars on how the division of castes arose, etc.'); a(188,'The close relation between sacrifice and the Brāhmaṇa.')
+a(189,'Scriptural statements to the effect that all castes were born of Brahman and that there is no difference in their excellence.')
+a(193,R(193,'thirteenth')); a(194,R(194,'fourteenth')); a(195,R(195,'fifteenth'))
+a(196,R(196,'sixteenth')); a(197,'Explanation of the meaning of the word ⟦ನಾಕ⟧.'); a(198,'Explanation of the sentence ⟦ಯೆಜ್ಞೇನ ಯಜ್ಞಮಯಜಂತ⟧, etc.')
+a(199,'The deities called the Sādhyas.')
+a(200,S(200)); a(201,S(201)); a(202,S(202)); a(203,S(203))
+a(204,'Introduction to the sūkta—the pressing stones (grāvan) that crush the soma plants, the soma juice, etc.'); a(206,'Explanation of the Ṛk ⟦ಪ್ರೈತೇ ವದಂತು⟧.')
+a(207,'Here ends the Fourth Adhyāya in the Eighth Aṣṭaka.')
+srcs = [x['src'] for x in B]
+missing = [s for s in srcs if s not in E_]; extra = [s for s in E_ if s not in srcs]
+print('missing', missing, 'extra', extra, len(srcs))
+kn = open(ROOT + 'vol29/contents_src/contents_kn.md', encoding='utf8').read()
+bad = [(s, w) for s in srcs for w in re.findall(r'⟦([^⟧]*)⟧', E_.get(s, '')) if w not in kn]
+print('not in the Kannada transcription:', bad)
+json.dump([{'src': s, 'en': E_[s]} for s in srcs], open(ROOT + 'vol29/contents_en.json', 'w', encoding='utf8'), ensure_ascii=False, indent=1)

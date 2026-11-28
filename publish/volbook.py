@@ -197,7 +197,7 @@ def contents_en_html(cfg, fe, suk_ids):
     suk_ids: heading ids of the sūktas in order (the n-th sūkta line of the contents links to the n-th sūkta heading)."""
     en = {e['src']: e for e in json.loads((ROOT / cfg['contents_en']).read_text(encoding='utf8'))}
     c = cfg['contents']
-    lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
+    lines = (ROOT / c.get('source', cfg['supplied_md'])).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
     blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
@@ -217,6 +217,8 @@ def contents_en_html(cfg, fe, suk_ids):
         e = en.get(b['src'], {}); t = esc(e.get('en', '')); fn = f'<span class="fn">{html.escape(e["note"])}</span>' if e.get('note') else ''
         if b['t'] == 'sukta':
             si += 1; pg = first_pg.get(b['src'])
+            mp = re.search(r'\s(\d{1,4})\s*$', b['text'])                   # the printed page at the end of the sūkta line itself (Vol 29): the sūkta begins there
+            if mp: pg = ov.get(str(b['src']), int(mp.group(1)))
             tgt = f'#p{pg}' if pg else (f'#{suk_ids[si-1]}' if si <= len(suk_ids) else '')
             mno = re.match(r'\s*(\d+)\.\s+(.*)', t, flags=re.S)                       # '29. The twenty-ninth sūkta, …' -> number column
             rows.append({'no': mno.group(1) if mno else '', 'html': f'<strong>{mno.group(2) if mno else t}</strong>{fn}', 'href': tgt})
@@ -226,7 +228,7 @@ def contents_en_html(cfg, fe, suk_ids):
             pg = ov.get(str(b['src']), b.get('page'))
             rows.append({'html': t + fn, 'href': f'#p{pg}' if pg else ''})
     out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>',
-           printfix.contents_table(rows, note=fe["contents"]["page_note"]), '</section>']
+           printfix.contents_table(rows), '</section>']
     return '\n'.join(out)
 
 NOTE_RX = re.compile(r'^(\[|Running head|\(The supplied|\(In the supplied|\(A small stray|\(Note|Note|Stray line|\(Readings|Title page of the volume)')
@@ -351,7 +353,7 @@ def front(cfg, lang, fmi, toc_blocks):
     if has('permission'): parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
     fe = load_front_en(cfg) if eng else None
     if fe:                                              # English PDF: the board page and the preface are translated, typeset pages
-        parts.append(board_en(fe))
+        if fe.get('board'): parts.append(board_en(fe))     # Vol 30: the frontmatter json holds only the contents heading
         if fe.get('preface'): parts.append(preface_en(fe))        # a volume whose preface stands in the English file (Vols 17+) has none here
     elif has('board'):
         parts.append(f'<section class="scan"><img src="{fmi[r["board"]]}" alt="Board of scholars"><p class="cap2">{cfg["board_caption"]}</p></section>')
@@ -440,6 +442,8 @@ def build_eng(cfg, html_only):
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     fe = load_front_en(cfg)
+    if not fe and cfg.get('contents_en'):                 # a volume with a translated contents only (Vol 29): no board/preface/abbreviation pages of its own
+        fe = {'contents': {'heading': ['॥ Śrīḥ ॥', 'Contents of the Volume of the Ṛgveda-saṃhitā'], 'page_note': 'Page numbers are the pages of this book.'}}
     body = notes_to_footnotes(body)
     body = intro_headings(body)
     body = body.replace('<span>p. 1</span></h3>', '<span>p. 1</span></h3><div class="om">ॐ</div>', 1)
@@ -449,7 +453,7 @@ def build_eng(cfg, html_only):
         ab = abbreviations_en(fe) if fe.get('abbreviations') else ''      # Vol 21 has no list of abbreviations
         idx = ''
     else:
-        idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
+        idx = '' if cfg.get('no_index') else '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'   # pubcfg "no_index": no contents page until the user decides (Vol 30)
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     refl = references_list_html(cfg)
     write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])

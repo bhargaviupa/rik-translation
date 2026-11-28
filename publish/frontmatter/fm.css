@@ -65,3 +65,26 @@
 .fm img.pic.king { width: 3.4in; max-width: 3.4in; max-height: 2.4in; height: auto; }
 /* the guru picture is tall: with the two-line heading and the three-line caption it must leave room, or the caption falls onto a page of its own */
 #fm-guru img.pic { max-height: 5.5in; }
+
+
+/* Thank-you page (06) in two parts: this edition (placeholder) and the board of the original edition (translated from the original's board page). */
+.tkframe .tktext.thanks { top: 8%; bottom: 6%; font-size: 8.4pt; line-height: 1.45; }
+.thanks h2 { margin: .15in 0 .2in; font-size: 14pt; }
+.thanks .th-part { font-size: 10.5pt; letter-spacing: .12em; text-transform: uppercase; margin: .05in 0 .1in; }
+.thanks .th-ph { border: .6pt dashed #999; color: #777; font-style: italic; padding: .12in .1in; margin: .04in .2in; }
+.thanks .orn { margin: .08in 0; }
+.thanks .th-sub { font-style: italic; font-size: 8.4pt; margin: 0 .15in .12in; }
+.thanks .th-role { margin: .13in 0 .01in; font-size: 7.6pt; letter-spacing: .1em; text-transform: uppercase; color: #555; }
+.thanks .th-name { margin: 0; font-size: 9pt; font-weight: 700; }
+.thanks .th-name span, .thanks .th-list span { font-weight: 400; font-style: italic; }
+.thanks .th-list { text-align: left; margin: .04in .1in 0 .25in; padding: 0; font-size: 8pt; line-height: 1.38; }
+.thanks .th-list li { margin: 0 0 .035in; }
+/* List of abbreviations (page 10): generated from rv/references.tsv by make_abbreviations.py; the same in every volume. */
+.abbr-page .ab-intro { font-size: 9pt; font-style: italic; text-align: center; margin: 0 .3in .18in; color: #444; }
+.ab-table { width: 100%; border-collapse: collapse; font-size: 8.8pt; line-height: 1.35; }
+.ab-table th { text-align: left; font-weight: 700; font-size: 8pt; letter-spacing: .06em; text-transform: uppercase; border-bottom: .8pt solid #555; padding: 0 4pt 3pt; }
+.ab-table td { padding: 2.2pt 4pt; border-bottom: .3pt solid #ccc; vertical-align: top; }
+.ab-table tr { page-break-inside: avoid; }
+.ab-table thead { display: table-header-group; }
+.ab-table .ab-en { width: 1.2in; white-space: nowrap; font-weight: 700; }
+.ab-table .ab-dv { width: 1.1in; font-family: "Lohit Devanagari", "Noto Serif Devanagari", serif; }
