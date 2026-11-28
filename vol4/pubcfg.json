@@ -2,11 +2,23 @@
  "vol": 4,
  "range_line": "Maṇḍala 1 · Sūktas 33–46",
  "adhyaya_line": "Third Adhyāya of the First Aṣṭaka",
- "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Śrī Vināyak Printing Works, Mysore",
  "year": "",
- "press": "",
+ "press": "Śrī Vināyak Printing Works, Mysore",
  "kannada_md": "vol4/Rigveda_Samhita_Vol4_Kannada_Text.md",
  "out": "vol4_full",
  "kannada_only": true,
- "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol4/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet."
+ "_note": "Kannada book only (publish/pubcfg_kan.py from publish/kan_titles.tsv: scope: vol4/STATUS.md; no colophon in the Kannada file). The English book of this volume has no print build yet.",
+ "supplied_md": "vol4/html/rig_4_1.md",
+ "contents_en": "vol4/contents_en.json",
+ "contents": {
+  "source": "vol4/contents_src/contents_kn.md",
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "end of contents",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
 }
