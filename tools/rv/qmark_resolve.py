@@ -28,7 +28,7 @@ def page_toks(p):
 L = open(os.path.join(d, f'Rigveda_Samhita_Vol{vol}_English_Translation.md'), encoding='utf8').read().split('\n')
 page = None; rows = []
 for i, l in enumerate(L):
-    m = re.match(r'### Page (\d+)', l)
+    m = re.match(r'### (?:Page|Printed p\.) (\d+)', l)
     if m: page = int(m.group(1))
     for k in re.finditer(r'\[\?\]', l):
         pre = l[max(0, k.start() - 70):k.start()]; post = l[k.end():k.end() + 50]

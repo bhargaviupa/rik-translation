@@ -1,0 +1,5 @@
+batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
+1	1	150	130	122	122	0	8	228k	ce374228	2026-11-27	
+2	24	173	173	167	167	0	6	363k	89e3bf43	2026-11-27	
+3	29	178	170	165	165	0	5	309k	45b1fd40	2026-11-27	
+4	29	133	128	124	124	0	4	335k	4d07e28f	2026-11-27	

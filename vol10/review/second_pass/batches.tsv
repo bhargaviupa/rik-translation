@@ -1,0 +1,15 @@
+batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
+1	300	309	35	30	38	0	5	180k	e889856a	2026-11-27	pilot; 27 [?] seen, 22 resolved from the Kannada, 5 kept (inside our remarks)
+2	2	31	24	14	17	0	10	157k	1119c0fb	2026-11-27	pp. 2-3 read in full; pp. 4-31 script-assisted (numbers, refs, all 19 [?]) not read as prose: re-read later; 19 [?] seen, 6 removed, 13 kept
+3	32	61	96	87	87	0	9	251k	c53f4019	2026-11-27	all pages read; 68 of 87 edits add sutra numbers the Kannada prints; 17 [?] seen, 0 removed (Kannada non-words), 17 kept
+4	62	91	77	72	72	0	5	224k	9d18ba97	2026-11-27	all pages read; 41 edits add sutra numbers; 8 [?] seen, 5 removed, 3 kept (in remarks)
+5	92	121	43	30	34	0	13	268k	3ef7390f	2026-11-27	all pages read; 15 [?] seen, 8 removed, 7 kept
+6	122	151	29	20	24	0	9	237k	47f213ba	2026-11-27	all pages read; 15 [?] seen, 8 removed, 7 kept
+7	152	181	46	37	37	0	9	255k	750bb9d6	2026-11-27	all pages read; 21 [?] seen, 7 removed, 14 kept
+8	182	211	33	28	28	0	5	213k	649ae3f4	2026-11-27	all pages read; 7 [?] seen, 2 removed, 5 kept
+9	300	368	112	102	111	0	10	301k	(this commit)	2026-11-27	mark-only batch q1-q150 (marks of pp. 2-368 left after qmark_strip): 134 settled, 16 kept; marks 1041 -> 907
+10	350	499	160	156	137	0	4	287k	(this commit)	2026-11-27	mark-only batch pp. 350-499: 150 of 154 settled, 4 kept; marks 907 -> 757
+11	500	579	110	106	106	0	4	340k	(this commit)	2026-11-27	mark-only batch pp. 500-579: 151 of 155 settled, 4 kept; marks 757 -> 606
+12	580	619	90	88	88	0	2	292k	(this commit)	2026-11-27	mark-only batch pp. 580-619: 172 marks removed, 2 kept; marks 606 -> 434
+13	620	659	100	97	97	0	3	284k	(this commit)	2026-11-27	mark-only batch pp. 620-659: 191 marks removed, 3 kept; marks 434 -> 243
+14	660	707	92	89	89	0	3	260k	(this commit)	2026-11-27	mark-only batch pp. 660-707: 208 marks removed, 6 kept; marks 243 -> 35

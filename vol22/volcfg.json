@@ -1,0 +1,34 @@
+{
+ "vol": 22,
+ "mandala": 7,
+ "branch": "claude/hopeful-fermi-kypcts",
+ "source": [
+  "vol22/html/rig_22.md@1-600"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol22/Rigveda_Samhita_Vol22_Kannada_Text.md",
+  "en": "vol22/Rigveda_Samhita_Vol22_English_Translation.md"
+ },
+ "work": "vol22/work",
+ "window": 6,
+ "mandalas": [
+  7
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/hopeful-fermi-kypcts"
+ ]
+}

@@ -27,3 +27,5 @@ Built with `build_vol45.py 7 full` (cleaner `vol67_clean.py`); `vol7/review/vol7
 `vol7/numerals/README.md`.
 
 - **Nov 18 2026, glosses (T12):** 39 more labelled glosses replaced by the marker `**GLOSS**` (248 markers in the volume now; removed text in `review/glosses_removed.tsv`, 2 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).
+
+- **Nov 27 2026, second pass (`[?]` and Kannada book):** supplied text `vol7/html/rig_7_1.md` and `rig_7_2.md` (pp. 2–567; 27 pictures in `vol7/html/figures/`); Kannada book `Rigveda_Samhita_Vol7_Kannada_Text.md` pp. 2–567 (564 pages made, no page of its own: 361). `[?]` marks 1,939 → 341 (see `review/second_pass/STATUS_REPORT.md`, `TODO.md`); 20 Pratipadārtha words in the Kannada corrected (`data/source_fixes.tsv`). 341 marks left: 51 inside the closing Progress note (never edited by hand), the rest Kannada non-words/misprints (`review/second_pass/kn_misprints.tsv`), unsettled places (`decided_by_default.tsv`) and 40 in our remarks.

@@ -25,3 +25,6 @@ Built with `build_vol45.py 9 full` (title page image `assets/title_vol9.jpg`); `
 
 ## Pointers
 `docs/HISTORY.md`.
+
+## Second pass (Nov 27 2026)
+Kannada book `Rigveda_Samhita_Vol9_Kannada_Text.md` made from the supplied text (`html/`). `[?]` marks 1,921 → 40 (details `review/second_pass/STATUS_REPORT.md`, `vol9/TODO.md`).

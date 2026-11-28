@@ -1,0 +1,39 @@
+page	place	as_found	question	why_not_settled	decision
+302	Sāyaṇa block vahihādhāñbhya	ವಹಿಹಾಧಾಞ್ಛ	Kannada differs from English (ञ्भ्य vs ञ्छ)	not decidable	English kept
+303	Sāyaṇa block deveṣv itareṣv ijyamāneṣu	English omits इतरेष्	omission not added	omission	English kept
+304	Durgācārya quotation first sentence		part of the quotation not matched to Kannada beyond edit applied		English kept
+305	āsā, āmbaram	ಆಸಾತ್, ಆಂಬರಂ	Kannada has āsāt; English āsā; p.302 Kannada has āsā	Kannada inconsistent	English kept
+306	vahihāhādhāñbhyaś chandasi	ವಹಿಹಾಧಾಣ್ಭ್ಯ-	English completes the sūtra	English completes a sūtra	English kept
+308	nādyasyeti nuṭ	ನಾದ್ಭಸ್ಯೇತಿ ನುಟ್	Kannada reads nādbhasyeti	Kannada unclear	English kept
+309	quotation sahasaḥ block: पिता / कृणे	ಏತಾ … ಕೃಷೇ	English Devanagari/IAST has पिता, कृणे; Kannada has एता, कृषे; block is derived data	Sanskrit not hand-edited	English kept
+5	mīraka remark (q14)	ವಿವಿಧಮೀರಕೈ	English remark says mīraka not understood; Kannada has same word	not decidable	English kept; [?] kept
+11	jñānatyau (q20)	ವರ್ಧನೋಪಾಯಾಞ್ಜ್ಞಾನತ್ಯೌ	Kannada has vardhanopāyāñjñānatyau, English vardhanopāyo jñānatyau; both doubtful	not decidable	English kept; [?] kept
+12	avitṛstṛ… (q22)	ಅವಿತಸ್ಯ ಇತೀಕಾರಪ್ರತ್ಯಯಃ	English completes a sūtra name, Kannada has ಅವಿತಸ್ಯ	not decidable	English kept; [?] kept
+66	gamahanajana… sūtra number	(ಪಾ. ಸೂ. -೪-೪೮)	Kannada number lacks its first figure	not decidable	English kept, number not added
+67	Maśarśāra epithet	ಮಶರ್ಶಾರಸ್ಯ—(ಶತ್ರುನಾಶಕನಾದ)	English omits "(enemy-destroying)"	omission	English kept
+69	Maśarśārasya grammar	ಧಾತುವಿನ ಇಕ್ಕಿಗೆ ವೃದ್ಧಿ	English has root ṛ; Kannada ik	different reading	English kept
+94	Jarasva savābhyāṃ vāmau	ಸನಾಭ್ಯಾಂ ನಾಮ್ — ಏತ್ವಕ್ಕೆ ಪತ್ತ್ವ	Kannada differs from English (the am); not decidable	not decidable	English kept
+96	sūnṛtā among names	ಉಷೋವಾಚಕಗಳಲ್ಲಿಯೂ	Kannada says Uṣas-names, English says speech	not decidable	English kept
+101	Ṛ. Saṃ. reference after ahaśca kṛṣṇam	(ಋ. ಸಂ. ೩-೯-೧) (ಋ. ಸಂ. ೬-೯-೧)	Kannada prints two successive numbers; English has the second (6-9-1)	not decidable	English kept
+103	Guhā suffix	ಅಪ್ ಪ್ರತ್ಯಯ	Kannada ap, English aṅ; not decidable	not decidable	English kept
+113	vaṃtasthānīyāni in Sāyaṇa block	ವಂತಸ್ಥಾನೀಯಾನಿ (p.113) vs ದನ್ತಸ್ಥಾನೀಯಾನಿ (p.115)	the Kannada prints two readings; the Sanskrit block is not edited by hand	not decidable	English kept
+135	urviyā grammar: case	ದ್ವಿತೀಯಾ ಏಕವಚನಪರವಾದಾಗ (p.135) vs ತೃತೀಯೈಕವಚನೇ (p.132)	Kannada p.135 says accusative, p.132 instrumental; English has instrumental	uncertain sense	English kept
+140	manor jātāv… sūtra name in grammar	ಮನೋಜಾತಾವಣ್ಯತ್ ಪುಕ್ ಚ (Kannada) vs manor jātāv ñyat tuk ca (English)	Kannada has puk in the sūtra and suka in the explanation; English has tuk	uncertain reading	English kept
+148	Ṛ. Saṃ. reference 10-39-7 for the śundhyuvam ṛk	ಋ. ಸಂ. ೧೦-೩೯-೭	ṛk text matches the ṛk the English had as 1-117-20; Kannada number applied as printed	number applied as printed	Kannada number applied
+162	weapon word omitted before 'strike her with' in the Nirukta paraphrase	ದಾಳಿಗಳಿಂದ ಹೊಡೆದನಂತರ	Kannada has ದಾಳಿ (attack); English has [...]; uncertain sense	uncertain reading	English kept
+183	Vyākaraṇa Ṛk 12 vayaḥ: suffix and form	ಇಞ್ ಪ್ರತ್ಯಯ … ವಿ ಎಂದು ರೂಪ	Kannada names suffix iñ and form vi; English has is and vayaḥ	not decidable	English kept
+191	Itihāsa, opening citation	ದೈರ್ಘತಮಸಃ ಕಕ್ಷೀವಾನ್ನಾಮ..	English adds "… dānam iti prasiddham" which the Kannada does not print	addition in inline Sanskrit	English kept
+192	Kakṣīvat birth story, Kannada ಋಷಿಪುತ್ರಿಯಂತೆ	ಋಷಿಪುತ್ರಿಯಂತೆ ಶುದ್ಧಳನ್ನಾಗಿ ಮಾಡಿ	Kannada has "like a ṛṣi's daughter" (applied); a misprint for ಪತ್ನಿ is possible	uncertain sense	Kannada reading applied
+200	Ṛ. Saṃ. ref after kṣayadvīra discussion	ಋ. ಸಂ. ೧೦-೯೨-೯	Number applied as printed (10-92-9) although the ṛk quoted is the one the English cites elsewhere as 1-114-1	number applied as printed	Kannada number applied
+before p. i	q1 preface remark: "doubtful letters and numbers are marked [?]"	preface remark: "doubtful letters and numbers are marked [?]"	not decidable here	not reachable: the line stands before the first page heading, sp_apply finds no page section	English kept (mark stays)
+iii	q3 remark: subscript of first conjunct (ṣṇ) not certain, [?]	remark: subscript of first conjunct (ṣṇ) not certain, [?]	not decidable here	Kannada of p.iii not in the supplied text; Kannada elsewhere reads ನಿಷ್ಪಹಮಾಣೋ (ṣpa), the English Sanskrit line is derived data	English kept (mark stays)
+ix	q4 index table: endra yāhy upa [?]	index table: endra yāhy upa [?]	not decidable here	Kannada of p.ix not in the supplied text	English kept (mark stays)
+1	q5 verse remark: printed word after ūrdhvaṃ ta?nī, [?]	verse remark: printed word after ūrdhvaṃ ta?nī, [?]	not decidable here	Kannada of p.1 (title page) not in the supplied text	English kept (mark stays)
+234	q34 cyāvayitnnāḥ (marked [?])	cyāvayitnnāḥ (marked [?])	not decidable here	Kannada p.234 ಚ್ಯಾವಯಿತ್ಯನ್ವಾ differs from the English word; not decidable	English kept (mark stays)
+312	q62 after the word adha sma (non-finite word before it) [?]	after the word adha sma (non-finite word before it) [?]	not decidable here	Kannada p.312 has no "adha sma"; the place is not in the Kannada	English kept (mark stays)
+313	q63 Pada division paśu-se [?]	Pada division paśu-se [?]	not decidable here	Kannada p.313 does not have the Pada division	English kept (mark stays)
+373	q24 Durgācārya quotation (reading doubtful)	irādāro 'ndra iti parokṣeṇocyate [?]	Kannada ಇರಾದಾರಸ್ಸನ್ನಿಂದ್ರಃ differs from English	not decidable here	English kept (mark stays)
+417	q67 Āśvalāyana sūtra words (as read)	indra yāhy upa naḥ praghānyasya [?]	Kannada ಐಂದ್ರ ಯಾಹ್ಯುಪ ನಃ ಪ್ರ ಘಾನ್ವಸ್ಯ differs from English	not decidable here	English kept (mark stays)
+678	Devanagari line before vittāyanī me si (marks q104)	विश्वायुरसि विश्वायुरसि [?] … वित्तायनी … अवतानाः [?]	Kannada p.678 has only ವಿತ್ತಾಯನೀ ಮೇಽಸಿ ತಿಕ್ತಾಯನೀ ಮೇಽಸ್ಯವತಾನಾ ನಾಡಿತಮವತಾನ್ನಾ ವ್ಯಥಿತಂ (no viśvāyur words; nāḍitam vs nāthitam)	Kannada differs, not decidable; Sanskrit line is derived data	English kept
+685	Sense remark of Śa. Brā. 10-5-4-2: "the yajuṣmatīs are the rays [?]" (q182)	the iṣṭakās are the vayāṃsi; the yajuṣmatīs are the rays [?]	Kannada p.685 (sense) says the yajuṣmatīs are birds and the marīcis (rays) are the purīṣas; the Sanskrit pairs differently	Kannada differs from the English pairing, not decidable	English kept
+707	Progress note (q242, q243)	...(many are marked [?] or "as read")...	marks quoted inside the trailing Progress note	the note is append-only and written only by batch.py	English kept
