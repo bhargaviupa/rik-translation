@@ -71,3 +71,12 @@
 .thanks .th-name span, .thanks .th-list span { font-weight: 400; font-style: italic; }
 .thanks .th-list { text-align: left; margin: .04in .1in 0 .25in; padding: 0; font-size: 8pt; line-height: 1.38; }
 .thanks .th-list li { margin: 0 0 .035in; }
+/* List of abbreviations (page 10): generated from rv/references.tsv by make_abbreviations.py; the same in every volume. */
+.abbr-page .ab-intro { font-size: 9pt; font-style: italic; text-align: center; margin: 0 .3in .18in; color: #444; }
+.ab-table { width: 100%; border-collapse: collapse; font-size: 8.8pt; line-height: 1.35; }
+.ab-table th { text-align: left; font-weight: 700; font-size: 8pt; letter-spacing: .06em; text-transform: uppercase; border-bottom: .8pt solid #555; padding: 0 4pt 3pt; }
+.ab-table td { padding: 2.2pt 4pt; border-bottom: .3pt solid #ccc; vertical-align: top; }
+.ab-table tr { page-break-inside: avoid; }
+.ab-table thead { display: table-header-group; }
+.ab-table .ab-en { width: 1.2in; white-space: nowrap; font-weight: 700; }
+.ab-table .ab-dv { width: 1.1in; font-family: "Lohit Devanagari", "Noto Serif Devanagari", serif; }
