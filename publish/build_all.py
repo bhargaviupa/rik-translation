@@ -2,7 +2,7 @@
 """Build the review PDFs of many volumes the same way and record the result (user, Nov 26 2026: the rules go into the requirements and the
 shared scripts first, then they are applied uniformly).
 
-  python3 publish/build_all.py [N …] [--cleanup] [--kan]
+  python3 publish/build_all.py [N …] [--cleanup] [--kan]    (English book only; --kan builds the Kannada book too)
 
 For each volume: (--cleanup: `tools/rv/cleanup_remarks.py N all --write` first, with the headings of the book compared before and after),
 the volume's builder (1: build_vol1.py; 2: build_vol2.py; 3: build.py; 4-10: build_vol45.py; a volume with volN/pubcfg.json: volbook.py),
@@ -14,7 +14,7 @@ PUB = pathlib.Path(__file__).resolve().parent; ROOT = PUB.parent
 sys.path.insert(0, str(PUB))
 def builder(n):
     cfgp = ROOT / f'vol{n}' / 'pubcfg.json'
-    if cfgp.exists() and not json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'): return ['python3', str(PUB / 'volbook.py'), str(n)], ROOT
+    if cfgp.exists() and not json.loads(cfgp.read_text(encoding='utf8')).get('kannada_only'): return ['python3', str(PUB / 'volbook.py'), str(n)] + ([] if '--kan' in sys.argv else ['eng']), ROOT   # English book only: the Kannada book is built by its own session (user, Nov 28 2026); --kan builds both
     if n == 1: return ['python3', 'build_vol1.py', 'full'], PUB
     if n == 2: return ['python3', 'build_vol2.py', 'full'], PUB
     if n == 3: return ['python3', 'build.py', '3', 'full'], PUB
@@ -54,7 +54,7 @@ def main():
             after = heads(n); lost = [h for h in before if h not in after]
             if lost: note += f'; HEADINGS LOST after clean-up: {len(lost)} (e.g. {lost[0][:50]!r}) — look before keeping'
         fixline = '; '.join(m for m in re.findall(r'\[printfix\] (.*)', out)[:1])
-        pdfs = sorted((ROOT / f'vol{n}' / 'review').glob(f'vol{n}_full*.pdf'))
+        pdfs = sorted(f for f in (ROOT / f'vol{n}' / 'review').glob(f'vol{n}_full*.pdf') if 'for_comparison' not in f.name and ('--kan' in sys.argv or '_Kan' not in f.name))
         for pdf in pdfs:
             pages, fails, counts = check(pdf)
             rows.append((n, pdf.name, pages, '; '.join(fails) or 'passes', counts, (fixline + ('; ' if note and fixline else '') + note) if pdf == pdfs[0] else ''))
