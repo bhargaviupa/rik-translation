@@ -1,6 +1,6 @@
 {
  "_note": "The one list of the common front/back pages, in print order. To drop a page set \"enabled\": false (or delete its row); to add one, put a new HTML fragment in pages/ and add a row. Nothing else needs to change. Pages of kind 'volume' are not stored here: the embedding script supplies them from the volume (see README.md).",
- "embed": false,
+ "embed": true,
  "_embed": "Master switch for the embedder (publish/printfix.py). false = no volume PDF changes; the user sets true when the pages are ready.",
  "trim": "6.5in 9.5in",
  "tokens": ["{{vol}}", "{{vol_roman}}", "{{vol_title}}", "{{range_line}}", "{{adhyaya_line}}", "{{assets}}", "{{press}}", "{{fm_assets}}", "{{release.*}}"],
