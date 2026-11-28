@@ -159,6 +159,19 @@ def preface_en(fe):
     return (f'<section class="preface"><h2>{html.escape(f["title"])}</h2>{paras}'
             f'<div class="sign"><div class="dl">{dl}</div><div class="sg">{sg}</div></div></section>')
 
+def own_preface_html(cfg):
+    """The editor's own Preface to the English Edition (REQUIREMENTS A2, F15): volN/own_preface.json, made by tools/rv/own_preface.py.
+    A paragraph that still holds a {{slot}} is shown as a placeholder (review copy); no file at all gives one placeholder page."""
+    f = ROOT / f'vol{cfg["vol"]}' / 'own_preface.json'
+    if not f.exists():
+        return '<section class="preface"><h2>Preface to the English Edition</h2><div class="placeholder">[Preface to the English edition — to be supplied]</div></section>'
+    d = json.loads(f.read_text(encoding='utf-8'))
+    ph = lambda x: '{{' in x
+    paras = ''.join(f'<p class="placeholder">{html.escape(x)}</p>' if ph(x) else f'<p>{html.escape(x)}</p>' for x in d['paragraphs'])
+    lines = lambda k: '<br>'.join(html.escape(x) for x in d.get(k, []) if not ph(x))
+    sign = f'<div class="sign"><div class="dl">{lines("dateline")}</div><div class="sg">{lines("signature")}</div></div>' if lines('dateline') or lines('signature') else ''
+    return f'<section class="preface own"><h2>{html.escape(d.get("title", "Preface to the English Edition"))}</h2>{paras}{sign}</section>'
+
 def abbreviations_en(fe):
     a = fe['abbreviations']
     rows = ''.join(f'<tr><td class="kn">{html.escape(x[0])}</td><td>{html.escape(x[1])}</td><td>{html.escape(x[2])}</td></tr>' for x in a['rows'])
@@ -419,7 +432,7 @@ def build_eng(cfg, html_only):
         idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     refl = references_list_html(cfg)
-    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
+    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + own_preface_html(cfg) + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
 
 def kannada_front_matter_fallback(cfg):
     """Only used when the volume has no preface scans: the supplied text up to the Pīṭhike (the Om line that opens printed p. 1)."""

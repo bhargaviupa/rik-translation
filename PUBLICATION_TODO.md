@@ -52,7 +52,7 @@ Notes of the user on single volumes:
 | U3 | **Permission for the accented verses** (the reference text says "personal study only"), or another source that may be published | every verse in every volume | [ ] |
 | U4 | **Portraits and cover**: the old king's and guru's portraits cleared; the present king's and guru's pictures, names and consent; credentials picture | front matter | [ ] |
 | U5 | **Statement of how the translation was made** and the copyright line, with advice | copyright page | [ ] |
-| U6 | **Your preface** to the English edition (one per volume, or one for the series) | front matter | [ ] |
+| U6 | **Your preface** to the English edition, one per volume (decided Nov 28 2026): skeleton and slots made by `tools/rv/own_preface.py` → `volN/own_preface.json`, set after the contents of the English PDF by `publish/volbook.py`; the themes, your reasons and the thanks are yours to write (slots `{{…}}`) | front matter | [~] mechanism done, text open |
 | U7 | **Publisher of record, ISBNs** (one per volume and format), price, how it is sold | copyright page, cover | [ ] |
 | U8 | **Printer and page size**; split long volumes or not (review copies run to 1,750 pages) | final layout, spine | [ ] |
 | U9 | **A scholar of Sanskrit and Kannada** to read a sample of each volume, named in the book | release standard | [ ] |
