@@ -57,3 +57,4 @@
 .fm .half-top, .fm .half-bot { height: 3.75in; overflow: hidden; }
 .fm img.pic.wide { max-width: 5.1in; width: 5.1in; max-height: 2.6in; height: auto; }
 .fm .half-bot .ph.half { min-height: 2.4in; padding-top: .9in; }
+.fm img.pic.king { width: 3.4in; max-width: 3.4in; max-height: 2.4in; height: auto; }
