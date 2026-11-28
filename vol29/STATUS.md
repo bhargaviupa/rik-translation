@@ -27,7 +27,7 @@ Dispatcher repairs (`review/repair_log.md`): displaced page p. 321 (user decisio
 5. Judgement calls for the second reading: where the print gives no Ṛk number the agents headed the Ṛk by order with a NOTE (as in Vol 24); inline Sanskrit that could not be copied from kn.md was written in Latin letters or given in English in some windows (w1010, w1017 and others); the printed-English slips ("hrᱥband") were written as the word plainly reads with a NOTE; two QA notes left to the editor (p. 188 misprint ಅಶಿಥಿಲ, p. 95 ಇರುಚಿ "rim of the wheel").
 
 ## Publication (print PDF)
-Not built.
+English review PDF built Nov 28 2026 (build 03, 1518 pages, `review/vol29_full_Eng.pdf`; `pubcfg.json` written, `no_index` on: no contents page until the user decides; press of the original and Aṣṭaka/Adhyāya line to be confirmed). Repairs: three Sūkta headings (74–76) had no blank line before them (repair_log). Open questions are in the hand-over of that session.
 
 ## Metrics
 | windows | pages | batches | agent tokens | hand repairs (logged) | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample |

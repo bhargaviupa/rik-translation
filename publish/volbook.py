@@ -416,7 +416,7 @@ def build_eng(cfg, html_only):
         ab = abbreviations_en(fe) if fe.get('abbreviations') else ''      # Vol 21 has no list of abbreviations
         idx = ''
     else:
-        idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
+        idx = '' if cfg.get('no_index') else '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     refl = references_list_html(cfg)
     write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
