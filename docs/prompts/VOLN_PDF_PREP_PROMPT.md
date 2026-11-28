@@ -2,6 +2,13 @@
 
 You prepare the **English review PDF of Volume N** (N = 7, 8, 9 or 10: Maṇḍala 1, the Ṛk volumes made from scans and then read a second time) of the Rigveda translation (repo `bhargaviupa/rik-translation`). The work is what was done on the English book of Volume 1 on Nov 25–27 2026: generic remarks out of the text, then a build with the shared print rules, then a check, then the user's review. **The Kannada book is not part of this task** (the user will say when). Nothing is translated again, no Sanskrit is corrected, one volume only.
 
+## Out of scope: the front matter (user, Nov 28 2026: "I am finalising the first few pages every volume carries")
+The pages before the text, which every volume carries in one uniform form — title page with the volume name, the pictures, credits, copyright page, board of scholars, permission page, thank-you pages, cover and the like (REQUIREMENTS A2) — are being finalised by the user separately. In this task:
+- do **not** change them, in any file: not the front-matter code in the builders (`front()` in `publish/volbook.py`, the front-matter part of `publish/build_vol45.py`), not `publish/assets/`, `publish/release.json`, `volN/pubcfg.json`, `volN/frontmatter_en.json`, `docs/REQUIREMENTS.md` A2;
+- do **not** judge them, report on them, or ask the user about them; if a check fails only because of a front-matter page, say that in one line and go on;
+- look at the book **from its first page of text** (the preface or the first page of the Maṇḍala), not from the cover.
+Everything after the front matter is in scope, **including the contents page** (rule 7) unless the user says otherwise.
+
 ## Read first (in this order, and only these)
 1. `CLAUDE.md`.
 2. `docs/REQUIREMENTS.md`, section **A4 "Print rules"** (rules 1–17 and the paragraph "How a comment of the user on a PDF is handled"), **B4.6**, **B2.6–B2.7**, **D22**.
@@ -36,7 +43,7 @@ You prepare the **English review PDF of Volume N** (N = 7, 8, 9 or 10: Maṇḍa
 
 **Step 3. Build again and compare with Step 1.** The `<h1>`/`<h2>` headings must be the same, apart from headings that came from removed notes. In Vol 1 a removed note was the marker by which the cleaner inserted whole chapters. Read `publish/vol67_clean.py` (and `clean9`) for strings searched in the text (`startswith(`, `in first`, `re.match`, `deliberate skip`) and make sure none was removed; if one was, restore it and exempt it in the tool.
 
-**Step 4. Check and look.** `python3 publish/pdf_check.py N` must pass. Then look at pages **as images** (`pdftoppm`), never at text copied from a PDF (it scrambles Devanagari): the first 20 pages, one page of each kind of content (a sūkta opening, a Ṛk with Saṃhitā/Pada/bhāṣya, word meanings, Special Topics, a grammar section, a table) and 10 pages spread over the volume.
+**Step 4. Check and look.** `python3 publish/pdf_check.py N` must pass. Then look at pages **as images** (`pdftoppm`), never at text copied from a PDF (it scrambles Devanagari): the first 20 pages of text (after the front matter), one page of each kind of content (a sūkta opening, a Ṛk with Saṃhitā/Pada/bhāṣya, word meanings, Special Topics, a grammar section, a table) and 10 pages spread over the volume.
 
 **Step 5. Things that the shared rules meet in these volumes. Look at each, and report before changing a rule:**
 1. **Bold (rule 10).** The print step sets whole bold sentences and bold words inside a sentence as plain text. In a Ṛk volume some bold may be meant (for example the Sanskrit word before each meaning). Count what was removed (the `[printfix]` line), look at such a page; if intended bold is lost, show the user two pages and ask.
@@ -75,6 +82,7 @@ You prepare the **English review PDF of Volume N** (N = 7, 8, 9 or 10: Maṇḍa
 A comment on a page is almost always meant **for all pages and all volumes**. So: (1) write it as a rule in `docs/REQUIREMENTS.md` A4; (2) build it into the shared step `publish/printfix.py` / `publish/style_footer.css` (or the shared text tool), never into the volume's builder unless the thing exists only there; (3) rebuild, run the check, look at the page as an image; (4) answer with the build number. Ask the user to quote "build NN, p. N" (the build number is in the footer). Several comments together are fixed in one rebuild.
 
 ## Do not
+- Do not touch the front matter (see "Out of scope"): title page, pictures, credits, copyright, board, permission page, thank-you pages, cover.
 - Do not build or touch any other volume. The user reviews one volume at a time.
 - Do not start readers or the Batch API without showing an estimate first; the token budget is tight. Building and checking are scripts and cost nothing.
 - Do not correct Sanskrit, numbers or references by hand or from memory; do not type Devanagari or IAST; do not edit the Saṃhitā, Pada or bhāṣya lines (they are derived data).
