@@ -58,3 +58,16 @@
 .fm img.pic.wide { max-width: 5.1in; width: 5.1in; max-height: 2.6in; height: auto; }
 .fm .half-bot .ph.half { min-height: 2.4in; padding-top: .9in; }
 .fm img.pic.king { width: 3.4in; max-width: 3.4in; max-height: 2.4in; height: auto; }
+
+/* Thank-you page (06) in two parts: this edition (placeholder) and the board of the original edition (translated from the original's board page). */
+.tkframe .tktext.thanks { top: 7%; bottom: 6%; font-size: 7.6pt; line-height: 1.4; }
+.thanks h2 { margin: .1in 0 .12in; font-size: 13pt; }
+.thanks .th-part { font-size: 9.5pt; letter-spacing: .12em; text-transform: uppercase; margin: .05in 0 .06in; }
+.thanks .th-ph { border: .6pt dashed #999; color: #777; font-style: italic; padding: .12in .1in; margin: .04in .2in; }
+.thanks .orn { margin: .08in 0; }
+.thanks .th-sub { font-style: italic; font-size: 7.6pt; margin: 0 .15in .06in; }
+.thanks .th-role { margin: .07in 0 0; font-size: 7pt; letter-spacing: .1em; text-transform: uppercase; color: #555; }
+.thanks .th-name { margin: 0; font-size: 8pt; font-weight: 700; }
+.thanks .th-name span, .thanks .th-list span { font-weight: 400; font-style: italic; }
+.thanks .th-list { text-align: left; margin: .03in .1in 0 .25in; padding: 0; font-size: 7.2pt; line-height: 1.32; }
+.thanks .th-list li { margin: 0 0 .02in; }

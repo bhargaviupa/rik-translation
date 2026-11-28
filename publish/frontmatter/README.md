@@ -42,3 +42,6 @@ The layout of the typeset title page the builders made (user's `pic-trans.pdf`),
 
 ## Present-day page (page 05, Nov 28 2026)
 Upper half: the present king (`assets/present_king.jpg`, supplied by the user, 500×333 px only, black-and-white for now) with a caption placeholder. Lower half: the guru-parampara picture (`assets/present_gurus.jpg`, supplied by the user, black-and-white for now, the corner mark cropped off, the trust's banner kept as supplied) with a caption placeholder.
+
+## Thank-you page (page 06, Nov 28 2026)
+Two parts inside the plate border: **This Edition** (placeholder: people and AI tools that helped, names and roles to come from the user) and **The Original Edition, 1949–52**, the board of the original (president, translator & editor, associate, the nine assisting scholars), translated from the user's scan `pic-team.pdf` (the original's board page), in the wording of the volumes' `frontmatter_en.json` (spelling "Philomina" as printed).
