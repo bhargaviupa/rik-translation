@@ -322,7 +322,7 @@ def front(cfg, lang, fmi, toc_blocks):
     if has('permission'): parts.append(scan(fmi[r['permission']], 'scan small', 'Permission page'))
     fe = load_front_en(cfg) if eng else None
     if fe:                                              # English PDF: the board page and the preface are translated, typeset pages
-        parts.append(board_en(fe))
+        if fe.get('board'): parts.append(board_en(fe))     # Vol 30: the frontmatter json holds only the contents heading
         if fe.get('preface'): parts.append(preface_en(fe))        # a volume whose preface stands in the English file (Vols 17+) has none here
     elif has('board'):
         parts.append(f'<section class="scan"><img src="{fmi[r["board"]]}" alt="Board of scholars"><p class="cap2">{cfg["board_caption"]}</p></section>')
@@ -420,7 +420,7 @@ def build_eng(cfg, html_only):
         ab = abbreviations_en(fe) if fe.get('abbreviations') else ''      # Vol 21 has no list of abbreviations
         idx = ''
     else:
-        idx = '' if cfg.get('no_index') else '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
+        idx = '' if cfg.get('no_index') else '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'   # pubcfg "no_index": no contents page until the user decides (Vol 30)
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
     refl = references_list_html(cfg)
     write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + refl + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])

@@ -7,24 +7,25 @@
  "note_style": "NOTE",
  "english_md": "vol30/Rigveda_Samhita_Vol30_English_Translation.md",
  "kannada_md": "vol30/Rigveda_Samhita_Vol30_Kannada_Text.md",
- "supplied_md": "vol30/html/rig_21.md",
+ "supplied_md": "vol30/contents_src/contents_kn.md",
  "out": "vol30_full",
  "press": "Śrī Śāradā Press, Mysore",
- "assets": "publish/assets/vol30",
- "front": {
-  "cover": "cover",
-  "title": "title"
- },
  "front_en": "vol30/frontmatter_en.json",
  "contents_en": "vol30/contents_en.json",
  "contents": {
-  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
-  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ.",
+  "end": "ಸಂಕೇತಾಕ್ಷರಗಳ",
   "heading": [
    "॥ ಶ್ರೀಃ ॥",
    "ಋಗ್ವೇದಸಂಹಿತೆಯ ಮೂವತ್ತನೆಯ ಭಾಗದ",
    "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
   ]
  },
- "_placeholders": "range_line, adhyaya_line (from the supplied contents page: 'the last four adhyāyas'), year, contents heading, assets, front matter jsons: to be checked when the front matter is built (not yet made)"
+ "contents_target_overrides": {
+  "52": 241,
+  "72": 338,
+  "240": 940,
+  "256": 972
+ },
+ "_contents_overrides_note": "printed pp. 243, 339, 941, 973 have no page mark in the English file; the entries link to the last mark before (241, 338, 940, 972)"
 }
