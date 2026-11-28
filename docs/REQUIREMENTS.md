@@ -83,7 +83,7 @@ The front matter also holds the English-typeset **title page** and the original'
 10. The text of the book.
 11. A closing-remarks page at the end (optional; may be needed).
 
-**The order is data, not code:** `publish/front_order.json` lists the pages and every builder reads the same file. A page is removed by deleting its entry or setting `"on": false`; a page is inserted by adding an entry (a built-in page, or `{"type": "placeholder", "title": "…"}`). Built once, by the session that first prepares a volume under this rule; the earlier cover, title page and copyright page of the builders stay available in the file under their own names, switched off.
+**The order is data, not code** (plan of the front-pages session, Nov 28 2026, branch `claude/clever-lamport-qr34vh`): `publish/frontmatter/order.json` is the one list of the pages; each page is a fragment in `publish/frontmatter/pages/`, with one stylesheet `fm.css`. A page is removed by `"enabled": false` (or by deleting its row), inserted by a new fragment and a new row. A row says whether the page opens on a right or left page (`start`: recto/verso, which adds blank pages) and how it is numbered (`numbering`: none, roman, arabic). Pages of kind `slot` (original preface, contents, abbreviations, introduction) are a frame with a heading; **their body is supplied by the volume** through an embedding script, which is built by another session and replaces the cover, title page, copyright, king, guru and present-day sections that the builders emit today. The imprint page takes its values from `publish/release.json` (rule 6).
 The credits of the original edition are either marked clearly as taken from the original or combined with our own credits page. (F8)
 
 ### A3. Body
