@@ -1,0 +1,30 @@
+# Vol 9 contents source (2026-11-28)
+- `contents_scan.pdf`: 6 pages, printed pages vii–xii (vii carries the heading and has no signature in the scan; the others are signed viii, ix, x, xi, xii). They cover Sūktas 113–121 of the First Maṇḍala (First Aṣṭaka, Eighth Adhyāya), pp. 2–562. The scan has **no colophon**.
+- **Page xiii is not in the PDF** (the last lines, pp. 580–601: `ಅದ್ರಿವಃ …` to `ನಾಜಪ್ರಮಹಃ …`; contents_kn.md lines 130–134): the supplied text of `html/rig_9_1.md` as it stands, **not compared with a scan** (with the corrections of the readings below only where the scan already settles the same word). Doubtful there: `ನಾಜಪ್ರಮಹಃ, ಸಧಮಾದಃ` (p. 601; probably `ವಾಜಪ್ರಮಹಃ`, user to decide); `ತ್ವಷ್ಟೃವು`.
+- `contents_kn.md`: the contents of `html/rig_9_1.md` (lines 223 ff.), compared with the six scan pages (every page number agrees; 121 entries, 9 sūktas). Edits to the machine text, read on the scan (page in brackets; the pages are printed pp. vii–xii):
+  - `ಸುಮ್ಮಾವರೀ` → `ಸುಮ್ನಾವರೀ` (p. vii)
+  - `ಖೀಲನೆಂಬ` → `ಖೇಲನೆಂಬ` (p. ix)
+  - `ಋಜ್ರಾತ್ಮನೆಂಬುವನು` → `ಋಜ್ರಾಶ್ವನೆಂಬುವನು` (p. ix)
+  - `ಋಜ್ರಾಶ್ನನ್ನು` → `ಋಜ್ರಾಶ್ವನನ್ನು` (p. ix)
+  - `ವಿಷ್ಣಾಪಿ ಎಂಬುವನು` → `ವಿಷ್ಣಾಪ್ವಿ ಎಂಬುವನು` (p. x; the scan shows the subscript va, as the body's `ವಿಷ್ಣಾಪ್ವ`)
+  - `ವಿಷ್ಣಾಪುವೆಂಬುವನನ್ನು` → `ವಿಷ್ಣಾಪ್ವುವೆಂಬುವನನ್ನು` (p. x, same)
+  - `ಕಣ್ಣನೆಂಬ ಋಷಿಗೆ` → `ಕಣ್ವನೆಂಬ ಋಷಿಗೆ` (p. x)
+  - `ಅಂಧನಾದ ಕಣ್ಣ ಋಷಿಗೆ` → `ಅಂಧನಾದ ಕಣ್ವ ಋಷಿಗೆ` (p. xi)
+  - `ಆ ನಾಂ ರಥಃ` → `ಆ ವಾಂ ರಥಃ` (Sūkta 118, p. xi)
+  - `ಆ ನಾಂ ರಥಂ ಪುರುಮಾಯಾ` → `ಆ ವಾಂ ರಥಂ ಪುರುಮಾಯಂ` (Sūkta 119, p. xii; **doubt**: the scan's last word looks like `ಪುರುಮಾಯೂ`, which I could not read with certainty; the body has `ಪುರುಮಾಯಂ`)
+  - `ರಾಧದ್ಯೋತ್ರಾ` → `ರಾಧದ್ದೋತ್ರಾ` (Sūkta 120, p. xii; scan `ದ್ದೋ`/`ದ್ಧೋ` hard to tell; the body has `ರಾಧದ್ದೋತ್ರಾ` and `ರಾಧದ್ಯೋತ್ರಾ`)
+  - `ಸ್ಟೇದುವಹ್ಯ` → `ಸ್ವೇದುವಹ್ಯ` (p. xii)
+  - Sūkta numbers lost or displaced by the OCR (stray `೧೦೨`, `೧೦೮` after the entries of 116 and 117): `೧೧೭.` and `೧೧೮.` put before their lines (p. x, p. xi; the scan prints ೧೧೭, ೧೧೮); full stops after all sūkta numbers as in Vol 4.
+  - Left out as not entries: the page signatures, the column heads `ಪುಟಸಂಖ್ಯೆ`/`ಪ್ರಕಟಸಂಖ್ಯೆ`, the ornament and `|| ಶ್ರೀಃ ||` (p. vii), the stray digits and the `ॐ` after the contents.
+- **Joined for the parser** (it takes one page number per line): entries that run over two to six printed lines are one line in `contents_kn.md`; five-six words are broken in the print and joined without a space (`ಸ್ರವಿಸುವಂತೆ`, `ಅಶ್ವಿನೀದೇವತೆಗಳು`, `ಮಧುವಿದ್ಯೆಯನ್ನು`, `ಕೊಟ್ಟಿದ್ದರಿಂದ`, `ಹೋಗಿರುವಾಗ`, `ಪಕ್ಷಿಯನ್ನು`, `ಕತ್ತರಿಸಿಹೋಗಿದ್ದ`, `ಯೌವನವುಳ್ಳವನಾಗುವಂತೆ`).
+- **Kept as printed** (readable in the scan, the user decides):
+  - `ಕಕ್ಷೀನಾನ್` (Sūkta 116, p. viii, page 180): the print has `ನಾನ್`; the other entry (p. 215) and the body have `ಕಕ್ಷೀವಾನ್`.
+  - `ಪುತ್ನಿಯಾದ` (p. x, p. 280): the print has `ಪುತ್ನಿ` (for `ಪುತ್ರಿ`/`ಪತ್ನಿ`).
+  - `ಪದೇಶಿಸಿದ` (p. ix, p. 245): the print has no `ಉ` (`ಉಪದೇಶಿಸಿದ` is on p. 401).
+  - `ವಿಶ್ವಲಾ, ಎಂಬ` (p. ix, p. 262): the scan has a speck after `ವಿಶ್ವಲಾ` (comma or dot); `ವಿಶ್ವಲೇ`, `ವಿಶ್ವಲೆ` elsewhere in the print.
+  - `ಮದ್ಯವನ್ನು` (p. viii, p. 216: `ಮಧು`?), `ಸೂರ್ಯಾದೇವಿಯ` (p. 189), `ನೀರನಿಂದ` (p. 324), `ಅಸು` (p. 77; the first letter looks heavy) are as printed.
+  - `ಕದಿತ್ಥಾ ನೃಃ` (Sūkta 121, p. xii): the scan's second word is `ನ್ಯಃ`-like; the body has `ನೈಃ`; kept as the machine text `ನೃಃ`. **Doubt.**
+- Page numbers: none going backwards. Repeated on purpose: 101, 101 (Sūkta 114), 215, 215, 216, 216 (Sūkta 116), 247, 247 (Sūkta 116). No printed misprint of a number found.
+- `contents_en.tsv`: English, one row per parsed line (132 rows); `../contents_en.json` made by `python3 publish/tools/frontmatter/make_contents_en.py 9 --end 'end of contents'` (every ⟦word⟧ is copied from its Kannada line and checked). Row 40: the word `ಬರ್ಹಿಶ್ಯಬ್ದ` runs the word and `ಶಬ್ದ` together in the print, so no ⟦ ⟧ is used. Row 5 (and rows 99, 106, 117, 124): where the print has one line for the application of the sūkta and the seer, deity and metres together, the English says so. Names in the English are in IAST (Kakṣīvān, Ṛjrāśva, Viśpalā, Viṣṇāpva …); the spellings follow the Kannada (Pedu, Khela, Kaṇva).
+- Not checked: the body of the volume was not compared for the Sanskrit incipits other than the ones named above (grep of `Rigveda_Samhita_Vol9_Kannada_Text.md` for `ಪುರುಮಾಯ`, `ರಾಧದ್`, `ಕದಿತ್ಥಾ`, `ಸ್ತನಾಭುಜಃ`, `ವಿಷ್ಣಾಪ್ವ`, `ಋಜ್ರಾಶ್ವ`).
+- For the dispatcher: no colophon (press) in this scan or in the supplied text; the press of Vol 9 must come from another source (`publish/kan_titles.tsv`).

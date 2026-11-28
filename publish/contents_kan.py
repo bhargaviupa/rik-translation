@@ -44,4 +44,22 @@ def main(a):
             cfg['supplied_md'] = src
             cfg['contents'] = {'start': START, 'end': endopt or END, 'heading': ['॥ ಶ್ರೀಃ ॥', mid, 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ']}
             p.write_text(json.dumps(cfg, ensure_ascii=False, indent=1) + '\n', encoding='utf8'); print('   pubcfg.json: contents set')
-if __name__ == '__main__': main(sys.argv[1:])
+
+def from_transcription(a):
+    """--transcription N [N …] [--write]: point the volume's pubcfg.json at volN/contents_src/contents_kn.md (the user's transcription of the scan) and
+    volN/contents_en.json, and report the parse (blocks, sūktas, items, pages, backward steps, pages not in the Kannada file)."""
+    for v in [int(x) for x in a if x.isdigit()]:
+        d = ROOT / f'vol{v}'; kn = d / 'contents_src' / 'contents_kn.md'; p = d / 'pubcfg.json'
+        if not kn.exists() or not p.exists(): print(f'vol{v}: no contents_kn.md or no pubcfg.json'); continue
+        lines = kn.read_text(encoding='utf8').split('\n'); end = 'end of contents'
+        blocks = contents_parse.parse(lines, START, end, {}); items = [b for b in blocks if b['t'] == 'item']; pages = [b['page'] for b in items if b['page']]
+        marks = {int(x) for x in re.findall(r'(?m)^<!-- printed (\d+) -->$', (d / f'Rigveda_Samhita_Vol{v}_Kannada_Text.md').read_text(encoding='utf8'))}
+        back = [(pages[i - 1], pages[i]) for i in range(1, len(pages)) if pages[i] < pages[i - 1]]
+        print(f'vol{v}: blocks {len(blocks)}, sūktas {sum(1 for b in blocks if b["t"] == "sukta")}, items {len(items)} (no page {sum(1 for b in items if not b["page"])}), pages {min(pages)}–{max(pages)}, '
+              f'not in the Kannada file {sorted({x for x in pages if x not in marks})[:6] or "none"}, backward {back}')
+        if '--write' in a:
+            cfg = json.loads(p.read_text(encoding='utf8')); cfg.setdefault('supplied_md', next(iter(sorted(str(f.relative_to(ROOT)) for f in (d / 'html').glob('*.md'))), ''))
+            cfg['contents'] = {'source': f'vol{v}/contents_src/contents_kn.md', 'start': START, 'end': end, 'heading': ['॥ ಶ್ರೀಃ ॥', '', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ']}
+            if (d / 'contents_en.json').exists(): cfg['contents_en'] = f'vol{v}/contents_en.json'
+            p.write_text(json.dumps(cfg, ensure_ascii=False, indent=1) + '\n', encoding='utf8'); print('   pubcfg.json: contents.source set')
+if __name__ == '__main__': (from_transcription if '--transcription' in sys.argv else main)(sys.argv[1:])
