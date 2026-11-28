@@ -74,6 +74,48 @@
 
 ---
 
+## Preface (Pīṭhike)
+### Printed p. iii
+
+This part of the Ṛgveda Saṃhitā, which contains the fourth adhyāya of the first aṣṭaka, comprises Sūktas 47–61 of the first Maṇḍala. Of these, the seer of Sūktas 47–50 is the ṛṣi Praskaṇva Kāṇva; of Sūktas 51–57, the ṛṣi Savya Āṅgirasa; and of Sūktas 58–61, the ṛṣi Nodhā Gautama. As we have already explained, the seers of this Maṇḍala are called Śatarcins, that is, each of them is the seer of about a hundred Ṛks.
+
+Praskaṇva is the son of the famous ṛṣi Kaṇva. In the Nirukta Yāska says प्रस्कण्वः कण्वस्य पुत्रः कण्वप्रभवो यथा प्राग्रं (*praskaṇvaḥ kaṇvasya putraḥ kaṇvaprabhavo yathā prāgraṃ*) (Ni. 3-17): Praskaṇva is the son of the ṛṣi Kaṇva; he says that, like Kaṇva and the others, he too is gifted with inspiration. This ṛṣi is the seer of Sūktas 44–50 of the first Maṇḍala of the Ṛgveda (82 Ṛks), of the 49th Sūkta of the eighth Maṇḍala (10 Ṛks), and of the 95th Sūkta of the ninth Maṇḍala (5 Ṛks), in all 97 Ṛks. This ṛṣi's name is mentioned in such Ṛks of the Ṛgveda as 1-44-6; 1-45-3; 8-3-9; 8-51-2; 8-54-8, and in Nirukta 3-17.
+
+Little is clear about the ṛṣi Savya, born in the Aṅgiras gotra. The Sūktas seen by this ṛṣi are only Sūktas 51–57 of the first Maṇḍala of the Ṛgveda (72 Ṛks).
+
+Concerning the ṛṣi Nodhā Gautama, Yāska in his Nirukta, explaining the expression, says नोधा ऋषिर्भवति । नवनं दधाति । स यथा स्तुत्या कामानाविष्णुरुते (*nodhā ṛṣirbhavati | navanaṃ dadhāti | sa yathā stutyā kāmānāviṣṇurute*) (Ni. 4-16). The ṛṣi Nodhā, with his new praises of poetic form, reveals his hidden desires; likewise Uṣas too makes manifest her slumbering radiance—
+
+उपो आदर्शि शुंध्युवो न वक्षो नोधा इवाविरकृत प्रियाणि । अद्मसन्न ससतो बोधयंती शश्वत्तमागात्पुनरेयुषीणां ॥ (*upo ādarśi śuṃdhyuvo na vakṣo nodhā ivāvirakṛta priyāṇi | admasanna sasato bodhayaṃtī śaśvattamāgātpunareyuṣīṇāṃ ‖*)
+(Ṛ. Saṃ. 1-124-4)
+
+—so he says, in explaining this reasoning.
+
+The ṛṣi Nodhā is a son of the ṛṣi Gotama, or a descendant of Gotama. This ṛṣi is famed as the seer of Sūktas 58–64 of the first Maṇḍala of the Ṛksaṃhitā (74 Ṛks), of the 88th Sūkta of the eighth Maṇḍala (6 Ṛks), and of the 93rd Sūkta of the ninth Maṇḍala (5 Ṛks), in all 85 Ṛks. He is spoken of in many places in the Ṛksaṃhitā itself—
+
+तंत्वा वयं पतिमग्ने रयीणां प्रशंसामो मतिभिर्गोतमासः । अशुं न वाजंभरं मर्जयंतः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ (*taṃtvā vayaṃ patimagne rayīṇāṃ praśaṃsāmo matibhirgotamāsaḥ | aśuṃ na vājaṃbharaṃ marjayaṃtaḥ prātarmakṣū dhiyāvasurjagamyāt ‖*)
+(Ṛ. Saṃ. 1-60-5)
+
+In this and similar Ṛks it is said that they are sons of Gotama and that they praise Agni, the lord of wealth.
+
+एवा ते हारियोजना सुवृक्तींद्र ब्रह्माणि गोतमासो अक्रन् । ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ (*evā te hāriyojanā suvṛktīṃdra brahmāṇi gotamāso akran | aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātarmakṣū dhiyāvasurjagamyāt ‖*)
+(Ṛ. Saṃ. 1-61-16)
+
+Here it is recited that the Nodhases, sons of Gotama, composed praise addressed to Indra.
+
+The name of this ṛṣi is indicated in the Ṛgveda Saṃhitā at 1-61-14; 1-62-13; 1-64-1; 1-124-4; in Nirukta 4-16; in the Aitateya Brāhmaṇa 6-18 and other places. In the Pañcaviṃśa Brāhmaṇa (7-10-10; 21-9-12) he is called Kakṣīvata, a descendant of the ṛṣi Kakṣīvān. For this there is support also in the Aitareya Brāhmaṇa (Ai. Brā. 4-27; 8-12-17) and in the Atharvaveda (Atha. Saṃ. 15-2.4; 15-4-4).
+
+Of the Śatarcins, only the three ṛṣis connected with this part are mentioned here. The account of all the seers of this Maṇḍala will be given in detail at the end of this Maṇḍala, that is, in the 14th part of the Ṛ. Saṃ.
+
+To publish the Ṛgveda Saṃhitā—extremely ancient, extremely profound, extremely vast, and the foundation of all the śāstras—in simple Kannada together with a critical translation is no easy task. Yet with the weighty purpose that all people, scholars and laymen alike, may gain growth of knowledge through such a great undertaking and become recipients of divine grace, Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., the Mahāprabhu, lord of the throne of Karnataka, a patron of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, is encouraging with his generous patronage the publication of this work, which requires great expense; this must be called the good fortune of the multitude of the people of Karnataka. To our generous-minded Lord, to his family, to the princess (who bears the name of Gāyatrī, the mantra regarded as the foremost of the Vedic mantras), and to the whole multitude of the people, may Sarveśvara, the Vedapuruṣa, grant in abundance the worldly fruits—life, health, prosperity and all wealth—and also spiritual knowledge of the highest good: so I pray. **NOTE**
+
+Mysore
+Vikṛti year, Saṃ. A. Āṣāḍha Śu. Ekādaśī (the eleventh day of the bright fortnight of Āṣāḍha)
+Monday, dated 26-6-50
+
+Āsthāna Mahāvidvān
+H. P. Venkata Rao
+Translator & Editor
+
 ## ॥ चतुर्थोऽध्यायः ॥ — THE FOURTH ADHYĀYA OF THE FIRST AṢṬAKA
 
 ---

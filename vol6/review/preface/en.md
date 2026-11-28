@@ -1,0 +1,85 @@
+## Preface (Pīṭhike)
+
+When the sūktas or ṛks of the Ṛgveda are recited in the performance of sacrificial and other rites, and in the rites such as marriage prescribed in the Gṛhya-sūtras, it is the practice handed down from the time of the seers to state first the ṛṣi, deity and metre of the mantras and their application (viniyoga), and only then to recite the mantras concerned. The ṛṣis of a sūkta, the Vedic scholars say, are the seers (draṣṭṛ) of that sūkta. Western scholars say that the respective ṛṣis themselves are the authors who composed the respective sūktas. Ordinarily a sūkta made up of many ṛks has one ṛṣi. In some cases different ṛks within a single sūkta have different ṛṣis. Likewise there are many sūktas standing under the name of a single ṛṣi.
+
+As regards the deities, the same arrangement applies. That is, a sūkta ordinarily has one deity; or else different ṛks of a single sūkta have different deities, and there are many sūktas addressed to one and the same deity. Among the deities the chief ones are Agni, Indra, the Aśvin deities, Uṣas, Āditya, the Marut deities, Savitṛ, the Viśvedevas, Pavamāna Soma, and Dyāvāpṛthivī. Besides these there are other deities such as Rudra, Viṣṇu, Pūṣan, Bṛhaspati and Prajāpati. Besides these deities, things said to be inanimate are also regarded as deities of certain ṛks: ⟦ಆಪಃ⟧ (water), night, ⟦ಗ್ರಾವಾಣಃ⟧ (the stones that crush the Soma juice), the herb, the sacrificial post, knowledge, the rivers, ⟦ದಾನಸ್ತುತಿಃ⟧, the bow, the bowstring, the quiver, the chariot, and so on. How inanimate things become deities is explained by the commentator (Sāyaṇa) in his introduction to the commentary:
+
+⟦ಅಚೇತನೇಽರ್ಥಬಂಧನಾದಿತಿ~~ನಿವಕ್ಷ್ಯತಾಂ ॥⟧
+
+That is, in the ṛks that speak of inanimate things such as the herb and the pressing stone, those inanimate things themselves are not addressed; the presiding deities of those things are praised. Example: when the herb is addressed, it is not the inanimate plants and the like but the deity presiding over them, Soma, who is meant, for there is the Śruti sentence ⟦ಸೋಮ ಓಷಧೀನಾಮಧಿಪತಿಃ⟧. The same is to be understood for other things; so he explains. Some raise the objection that deities such as Agni and the Maruts are likewise inanimate. Not only does the above explanation apply to this objection too, but it is also noteworthy that the Vedāntins say that the parts of one chief deity, the lord of all the deities, are what have become manifest in the forms of Agni and the rest. On this subject Yāska says:
+
+⟦ಅಗ್ನಿಃ ಪೃಥಿವೀಸ್ಥಾನೋ~~ಸ್ತುತಯೋ ಭವಂತಿ ॥⟧ (Ni. 7-5).
+
+The chief purport is this: although Agni, Indra and Āditya are praised as distinct deities, Agni on the earth, Vāyu or Indra in the atmosphere, and Āditya or Sūrya in heaven, yet, just as in the sacrificial act the officiating priests called Hotṛ, Adhvaryu, Brahman and Udgātṛ are but limbs of the sacrifice, so Agni and the other deities are only parts or limbs of one chief deity (the Supreme Self). Those who praise them, according to their respective qualities, regard them as separate deities and praise them so. And so on—
+
+Yaska, in the Daivata-kanada of his Nirukta asserts that there are;
+in the Veda three divinities. Agni on the earth ; Vayu or
+Indra, in the sky ; and Surya (Sun) in heaven ; of each of whom
+there are many appellations expressive of his greatness and of
+the variety of his functions. All the Deities are but parts of one
+Atman or Soul, subservient to the diversification of his praises
+through the immensity and variety of his attributes. The
+Anukramanika goes further, and affirms that the reis but one
+Deity, the great soul, quoting in support of this doctrine,
+a passage which applies only to the Sun (⟦ಸೂರ್ಯ ಆತ್ಮಾ ಜಗತಸ್ತಸ್ಥುಷಶ್ಚ⟧
+Ṛ. Saṃ. 1-115-1) who is there called " the soul of all that moves
+or immovable.
+Thus we see that in invoking the different phenomena of nature,
+the Vedic Rishis had evidently in view the Supreme Energy
+
+### Printed p. iii
+
+underlying them all. It is not the rain or lightning that is
+worshipped, but the Deity or the Divine power that rules them
+and this Divine Power is designated by the Vedic Rishis as
+Parjanya.
+The fire that we see before us and which is so useful to the people
+is not the Deity who is invoked by the Rishis—but the Divine
+Power which is designated by them as Agni “who bursts forth
+from the wood (from the araṇis) when the fire is churned with a stick.”
+It is thus clear that the Vedic Rishis did not merely worship
+the natural phenomena but the Energy under-lying them all
+which they denominated by various names, such as, Surya,
+Agni, Indra &c. To them either Indra only or Agni or Surya,
+or all of them, together with the other Powers of Nature, did
+not complete the conception of God. Nor was any of them
+regarded by them as the Supreme Ruler of the Universe,
+Omniscient and Omnipotent. They represented merely the
+various Energies of the All-Powerful Providence manifested to
+humanity through diverse natural phenomena. From this it becomes clear what the seers' intention was with regard to the deities.
+
+On the metre we have spoken earlier. Praising the deities and singing their qualities with metrical ṛks and mantras is more delightful than praising them with sentences in prose, and it is a means of expressing fully the devotion in the mind and a clear idea. In praising with the many kinds of metres the ṛṣis have shown very well their maturity, their power and capacity in presenting a subject, and their apt illustrations.
+
+I wish to say a word or two about the viniyoga. When a particular deity is praised, reciting the ṛks that relate to that deity is what is called viniyoga. In this order of application there is a regular method. For example: in a sacrifice, when an oblation is made to Agni, the mantras describing Agni's qualities are recited first.
+
+### Printed p. iv
+
+Mantras of this kind are called ⟦ನಿವಿತ್⟧ or ⟦ನಿವಿದ್ವಾನ⟧. Then, at the invocation, one ṛk addressed to Agni is recited; it is called the ⟦ಪುರೋನುವಾಕ್ಯಾ⟧ mantra. Having invoked the deity with this ⟦ಪುರೋನುವಾಕ್ಯಾ⟧ mantra, the mantra (ṛk) by which, with another ṛk of the same deity, an oblation is made to the deity thus invoked is called the ⟦ಯಾಜ್ಯಾ⟧ mantra. Thus three kinds of mantras are recited one after another: first the ⟦ನಿವಿತ್⟧ mantra, then the ⟦ಪುರೋನುವಾಕ್ಯಾ⟧, then the ⟦ಯಾಜ್ಯಾ⟧. There is no rule that the ⟦ನಿವಿತ್⟧ mantra must be a single ṛk. Ordinarily, in the case of Agni especially, there are twelve of these mantras. The ⟦ಯಾಜ್ಯಾ⟧ and ⟦ಪುರೋನುವಾಕ್ಯಾ⟧ mantras must each be a single ṛk. Different deities have different ⟦ಯಾಜ್ಯಾ⟧ and ⟦ಪುರೋನುವಾಕ್ಯಾ⟧ mantras. Besides these mantras, there are the ⟦ಪ್ರಾತರನುವಾಕ⟧ mantras: in the sacrifice, on the day before the Soma pressing, after the last part of the night, before the time of dawn, certain mantras are recited. These mantras must consist of ṛks of the seven metres beginning with Gāyatrī, and they must also be addressed to the respective deities. They must be recited according to a prescribed number. Such recitation is called the ⟦ಪ್ರಾತರನುವಾಕ⟧ mantra. Among these there are the varieties ⟦ಆಗ್ನೆಯಕ್ರತು⟧, ⟦ಆಶ್ವಿನಿಕ್ರತು⟧ and ⟦ಉಷಸ್ಯಕ್ರತು⟧. Further, the mantras to be recited by the Hotṛ are called ⟦ಶಸ್ತ್ರ⟧ or ⟦ಉಕ್ಷಮಂತ್ರ⟧. Among these there are the varieties ⟦ಆಜ್ಯಶಸ್ತ್ರ⟧, ⟦ಪ್ರಉಗಶಸ್ತ್ರ⟧, ⟦ಮರುತ್ವತೀಯಶಸ್ತ್ರ⟧, ⟦ವೈಶ್ವರದೇವಶಸ್ತ್ರ⟧, ⟦ಅಗ್ನಿಮಾರುತಶಸ್ತ್ರ⟧ and ⟦ನಿಷ್ಕೇವಲ್ಯಶಸ್ತ್ರ⟧. The Sāmaveda mantras are sung by the priest called Uddātṛ. These mantras are called ⟦ಸ್ತೋತ್ರ⟧. Among them there are the varieties ⟦ಬಹಿಷ್ಪವಮಾನಸ್ತೋತ್ರ⟧, ⟦ಆಜ್ಯಸ್ತೋತ್ರ⟧, ⟦ಮಾಧ್ಯಂದಿನಪವಮಾನಸ್ತೋತ್ರ⟧, ⟦ಆರ್ಭವಸ್ತೋತ್ರ⟧, ⟦ಅಗ್ನಿಷ್ಟೋಮಸಾಮ⟧ and ⟦ಪೃಷ್ಠಸ್ತೋತ್ರ⟧. For all these there are different, specified mantras, which must be recited on the respective occasions. In the same way, in the different sacrifices, the mantras addressed to the respective deities must be recited according to the occasion. This order and the like has been set forth in sequence for the mantras belonging to the Ṛgveda by the great sage Āśvalāyana in the Āśvalāyana Śrauta-sūtra. The priest called Hotṛ must recite these. The Yajurveda mantras to be recited by the Adhvaryu, and their application, have been described by Āpastamba and other ṛṣis in their own Śrauta-sūtras. The priests called Adhvaryu, students of the Yajurveda, recite these on the respective occasions and carry out the sacrificial rite. In the same way the Sāmavedins sing, in the manner of Sāma singing, the mantras stated in their Śrauta-sūtras. All this is the application of the mantras used in the Śrauta rites.
+
+In the domestic (gṛhya) rites, that is, in marriage and similar rites, the students of the respective śākhās must recite, on the respective occasions, the mantras suited to the respective rites, according to the rule stated in the Gṛhya-sūtras of their own śākhā. These are the mantras used in the domestic rites.
+
+### Printed p. v
+
+Besides these, in rites done for desired ends, in hostile (ābhicārika) rites, and in worship of deities and the like, the mantras addressed to the respective deities are to be recited according to the occasion. For all such rites no specific sūtras have been composed. The mantras are to be applied to the respective rites according to their meaning.
+
+The mantras used in the Śrauta rites such as sacrifices are addressed to the respective deities, and their meaning accords with the rite. In the domestic rites too it is the same; but in certain rites of non-ancient origin and in worship of deities, since there are no proper mantras, the practice has come into use of employing such mantras, even where the meaning is different, on the ground that the word alone suffices. For example: it may be said that in ancient times there was no worship, homa and so on of the nine planets. For among the nine planets, other than the names Sūrya, Candra and Bṛhaspati, the other planetary deities are not treated in the Ṛgveda. That is, the deities Aṅgāraka, Budha, Śukra, Śanaiścara, Rāhu and Ketu are not in the Veda. The mantras used for them contain only the present name of the respective deity, while the meaning is of another kind. For example, for the planet Ketu, in the ṛk
+
+⟦ಕೇತುಂ ಕೃಷ್ಣನ್ನ~~ಸಮುಷದ್ಭಿರಜಾಯಥಾಃ ॥⟧
+
+although the word ⟦ಕೇತು⟧ is recited, the word ⟦ಕೇತು⟧ there has the meaning "action" or "intelligence" (⟦ಪ್ರಜ್ಞಾ⟧), and is not the planet Ketu; the same rule applies to the other planets. With regard to the gods Rāma, Kṛṣṇa and others who have come into use in modern, that is, non-ancient (non-Vedic) times, since there are no mantras for them in the Veda either, the practice may have come into vogue that any mantra suited to the occasion may be recited. Gradually, without much regard to the primacy of the meaning of mantras, primacy has been given to the words alone, and the practice has come into vogue that, whatever the meaning of mantras may be, it suffices to pronounce them according to rule without any difference of accent and letters. Following that, in a large part of the mantras the application does not accord with their meaning. In some cases the application is said to be ⟦ಲೈಂಗಿಕ⟧. There, "deities stated in the linga" (⟦ಲಿಂಗೋಕ್ತದೇವತೆಗಳು⟧) is to be understood as the deities mentioned in that ṛk. For example:
+
+⟦ಯಾ ಗುಂಗೂರ್ಯಾಸಿನೀವಾಲೀ~~ವರುಣಾನೀಂ ಸ್ವಸ್ತಯೇ ॥⟧
+(Ṛ. Saṃ. 2-32-8)
+
+For this ṛk the deity is given as ⟦ಲಿಂಗೋಕ್ತದೇವತಾಃ⟧; here "stated in the linga" means the female deities mentioned in this ṛk: Gungū, Sinīvālī, Rākā, Sarasvatī, Indrāṇī and Varuṇānī. ⟦ಲಿಂಗೋಕ್ತ⟧ has the general sense "stated in the mantra".
+
+### Printed p. vi
+
+To publish such a Ṛgveda-saṃhitā, extremely ancient, extremely profound, extremely vast, the foundation of all the śāstras, in simple Kannada together with a critical translation, is not an easy task. Yet with the weighty aim that through such a great undertaking all people, scholars and laymen alike, may gain growth in knowledge and become worthy of God's grace, His Highness Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., Lord of the throne of Karnataka, a lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, is encouraging with his generous patronage the publication of this work, which requires great expense; this must be called the merit of the whole multitude of the people of Karnataka. For our generous-minded Lord, for his family, for the princess (who bears the name of Gāyatrī, the mantra regarded as the foremost of the Vedic mantras), and for the entire multitude of subjects, I pray that Sarveśvara, the Veda-puruṣa, may bestow in the highest measure the worldly fruits (long life, health, prosperity and all wealth) and the other-worldly spiritual knowledge.
+
+Mysore
+Virodhi year, Puṣya Śuddha Ekādaśī, Friday
+30-12-1949
+Translator
+H. P. Venkata Rao
+Āsthāna Mahāvidvān

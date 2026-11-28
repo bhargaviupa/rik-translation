@@ -1047,3 +1047,4 @@
 | 696 | `(Ṛ. Saṃ. 6-[?]-[?], as read "೬-೬೮-೧" [?].)` → `(Ṛ. Saṃ. 7-82-1.)` | SECOND-PASS Q1: Kannada p.696 ಋ. ಸಂ. 7-82-1 after indrāvaruṇā yuvam adhvarāya no (q233) |
 | 696 | `(Śa. Brā. 4-[?]-[?]-[?], as read "೪-೩-೩-೧೦" [?]; the opening is doubtful [?].)` → `(Śa. Brā. 4-2-3-10.)` | SECOND-PASS Q1: Kannada p.696 ಶ. ಬ್ರಾ. 4-2-3-10 after ukthebhyo hy enaṃ gṛhṇāṇi; doubt clause removed (q236) |
 | 696 | `(Ai. Brā. 4-12, as read "೪-೧೩" [?].)` → `(Ai. Brā. 4-12.)` | SECOND-PASS Q1: Kannada p.696 ಐ. ಬ್ರಾ. 4-12 (q241) |
+- 2026-11-28 front matter: the editor's Pīṭhike (source lines 378-470 of vol10/html/rig_10_1.html) inserted as '## ಪೀಠಿಕೆ' before the first printed page of the Kannada file (tools/rv/kn_front.py); no change to the English file.

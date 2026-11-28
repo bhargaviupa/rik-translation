@@ -1033,3 +1033,4 @@
 | page | old → new | why |
 |---|---|---|
 | 342 | `alloपaḥ` → `allopaḥ` | SECOND-PASS H21: letter of another script inside a Latin word; Kannada ಶ್ನಸೋರಲ್ಲೋಪಃ (śnasor allopaḥ, Pā. 6-4-111) |
+- 2026-11-28 front matter: the editor's Pīṭhike (from the supplied text, translated by tools/rv/en_front.py) inserted in the English file (before '## ') and in the Kannada file; 0 NOTE details in review/preface_notes.tsv.

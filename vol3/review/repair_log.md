@@ -7,3 +7,4 @@
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: ; every change is a row of review/refs_applied.tsv.
 
 - 2026-11-26: `tools/rv/kn_full.py 3` made `vol3/Rigveda_Samhita_Vol3_Kannada_Text.md` from vol3/html/rig_3_1.md + rig_3_2.md: pages 2–647, 646 with text, gaps: none; picture blocks collapsed: 12 picture blocks in rig_3_1.md. Gates passed (page markers complete/in order; digit multiset per page equal to the supplied page; no Kannada letter lost apart from normalised label wording). Details: `vol3/review/kn_full_notes.md`. No English file touched; reference names not yet unified in this file (`refs_apply.py 3 --scripts kannada` preview only).
+- 2026-11-28 front matter: the editor's Pīṭhike (from the supplied text, translated by tools/rv/en_front.py) inserted in the English file (before '## ') and in the Kannada file; 0 NOTE details in review/preface_notes.tsv.

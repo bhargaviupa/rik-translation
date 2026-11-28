@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Kannada-only front matter: put the volume's own Pīṭhike (from the supplied text) into volN's Kannada file as '## ಪೀಠಿಕೆ'.
 
-  python3 tools/rv/kn_front.py VOL FIRST_LINE LAST_LINE [--source html/FILE.md] [--install]
+  python3 tools/rv/kn_front.py VOL FIRST_LINE LAST_LINE [--source html/FILE.md] [--html] [--install]
 
 For volumes whose English file already has the preface (Vols 2, 7-10, 25).  Same cleaning as tools/rv/api_front.py (html_to_kn.clean_line,
 hyphen joins, roman page numbers as `<!-- roman iii -->`).  Without --install it only writes volN/work/preface_kn/kn.md and prints it
@@ -17,7 +17,9 @@ vol = int(a[0]); lo, hi = int(a[1]), int(a[2])      # legacy volumes have no vol
 KN = os.path.join(ROOT, f'vol{vol}', f'Rigveda_Samhita_Vol{vol}_Kannada_Text.md')
 src = os.path.join(ROOT, a[a.index('--source') + 1] if '--source' in a else rvlib.Cfg(a[0]).source[0].split('@')[0])
 out = []
+import html as H
 for l in open(src, encoding='utf8').read().split('\n')[lo - 1:hi]:
+    if '--html' in a: l = re.sub(r'<br\s*/?>', '\n', l); l = H.unescape(re.sub(r'<[^>]+>', '', l)).replace('This image contains no text. It depicts a decorative floral or geometric pattern.', '')
     l = html_to_kn.clean_line(l)
     if not l or l == '---': continue
     m = re.fullmatch(r'#*\s*([ivxl]+)\s*', l)
