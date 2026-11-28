@@ -84,6 +84,14 @@ The front matter also holds the English-typeset **title page** and the original'
 11. A closing-remarks page at the end (optional; may be needed).
 
 **The order is data, not code** (plan of the front-pages session, Nov 28 2026, branch `claude/clever-lamport-qr34vh`): `publish/frontmatter/order.json` is the one list of the pages; each page is a fragment in `publish/frontmatter/pages/`, with one stylesheet `fm.css`. A page is removed by `"enabled": false` (or by deleting its row), inserted by a new fragment and a new row. A row says whether the page opens on a right or left page (`start`: recto/verso, which adds blank pages) and how it is numbered (`numbering`: none, roman, arabic). Pages of kind `slot` (original preface, contents, abbreviations, introduction) are a frame with a heading; **their body is supplied by the volume** through an embedding script, which is built by another session and replaces the cover, title page, copyright, king, guru and present-day sections that the builders emit today. The imprint page takes its values from `publish/release.json` (rule 6).
+
+**Decisions of the user on the front pages, Nov 28 2026:**
+1. The page of the original's preface is headed **"Preface"**; the original's name **"Pīṭhike"** stands in the footer (rule 1), not in the heading.
+2. The page of the Pūrva-pīṭhikā is headed **"Introduction"**; its name "Pūrva-pīṭhikā" stands in the footer.
+3. The closing-remarks page is **switched off** (`"enabled": false`) until it has text.
+4. Blank pages that a recto/verso start adds **count in the roman numbering** and carry no number.
+5. A frame heading must also set the footer name, **and clear it where it has none** (the footer string persists over the following pages until another heading sets it, so "Pīṭhike" would otherwise stay under the contents).
+6. Fonts: the sessions that build or preview pages have Noto Serif, Lohit Devanagari and Lohit Kannada installed (`apt-get install fonts-noto-core fonts-lohit-deva fonts-lohit-knda`); a preview in fallback fonts proves nothing about the layout.
 The credits of the original edition are either marked clearly as taken from the original or combined with our own credits page. (F8)
 
 ### A3. Body
