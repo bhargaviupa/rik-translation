@@ -9,7 +9,7 @@ for p in order['pages']:
     if not p['enabled'] or not p['file']: continue
     h = (HERE / p['file']).read_text(encoding='utf8')
     h = h.replace('class="fm ', f'class="fm {"recto " if p["start"]=="recto" else "verso " if p["start"]=="verso" else ""}', 1)
-    body.append(h.replace('{{assets}}', ASSETS).replace('{{fm_assets}}', (HERE / 'assets').as_uri()).replace('{{vol}}', 'N'))
+    body.append(h.replace('{{assets}}', ASSETS).replace('{{fm_assets}}', (HERE / 'assets').as_uri()).replace('{{vol}}', '17').replace('{{range_line}}','Maṇḍala 3 · Sūktas 40–62 and Maṇḍala 4 · Sūktas 1–18').replace('{{adhyaya_line}}','Third, Fourth and Fifth Adhyāyas of the Third Aṣṭaka').replace('{{press}}','Sree Vinayak Printing Works, Mysore'))
 body = [b.replace('<div class="fm-slot"', '<p>Sample text of the slot, for the preview only.</p><div class="fm-slot"') for b in body]   # a slot has a body, so the footer can be checked
 if '--body' in sys.argv:    # a stand-in for the text, to see the footer under the front pages and arabic 1 on its first page
     body.append('<div class="fm-bodystart" data-orig=""></div><h3 class="pg" data-p="1">1</h3><h1>Text of the book</h1><p>First page of the text.</p>')

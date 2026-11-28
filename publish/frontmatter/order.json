@@ -3,7 +3,7 @@
  "embed": false,
  "_embed": "Master switch for the embedder (publish/printfix.py). false = no volume PDF changes; the user sets true when the pages are ready.",
  "trim": "6.5in 9.5in",
- "tokens": ["{{vol}}", "{{vol_roman}}", "{{vol_title}}", "{{range_line}}", "{{adhyaya_line}}", "{{assets}}", "{{fm_assets}}", "{{release.*}}"],
+ "tokens": ["{{vol}}", "{{vol_roman}}", "{{vol_title}}", "{{range_line}}", "{{adhyaya_line}}", "{{assets}}", "{{press}}", "{{fm_assets}}", "{{release.*}}"],
  "pages": [
   {"id": "title",        "file": "pages/01_title.html",           "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "title page; placeholder until the user supplies the design"},
   {"id": "imprint",      "file": "pages/02_imprint.html",         "kind": "placeholder", "enabled": true, "start": "verso", "numbering": "none",  "note": "imprint page; placeholder until the design is supplied; values from publish/release.json"},
