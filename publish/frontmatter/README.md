@@ -19,3 +19,14 @@ Stored pages only. Embedding them into the volume PDFs is done by another sessio
 
 ## Ownership (user, Nov 28 2026)
 The front-pages session owns only the rows up to and including the thank-you page (`title`, `imprint`, `king`, `guru`, `present_day`, `thanks`). The rows from `our_preface` on (our preface, original preface, contents, abbreviations, introduction, body marker, closing) and the embedder belong to other sessions; what is stored for them here is a starting point they may change or replace.
+
+## Where the tokens of pages 01–02 are read (embedder to implement; page 03–06 need only `{{assets}}`)
+| token | read from | a volume without `pubcfg.json` |
+|---|---|---|
+| `{{vol}}` | `volN/pubcfg.json` `vol` | `volN/volcfg.json` `vol` (present in all volumes) |
+| `{{vol_roman}}` | computed from `vol` | same |
+| `{{range_line}}`, `{{adhyaya_line}}` | `pubcfg.json` | **missing**: only prose in `volN/STATUS.md` (no field); `volcfg.json` has just `mandala(s)` |
+| `{{imprint}}`, `{{year}}` | `pubcfg.json` | **missing** (press, year of the original; `press` also absent in Vols 15) |
+| `{{release.publisher}}`, `.isbn`, `.edition_and_printing`, `.rights_statement` | `publish/release.json` (empty now: print the placeholder) | same |
+| `{{vol_title}}` | no source exists in any volume; not used by the pages, drop it from the list unless a title field is added | |
+Volumes with a `pubcfg.json` today: 1, 11, 15, 17, 18, 19, 20, 21, 23, 27, 30.

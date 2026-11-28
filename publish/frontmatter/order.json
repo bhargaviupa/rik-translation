@@ -5,8 +5,8 @@
  "trim": "6.5in 9.5in",
  "tokens": ["{{vol}}", "{{vol_roman}}", "{{vol_title}}", "{{range_line}}", "{{adhyaya_line}}", "{{assets}}", "{{release.*}}"],
  "pages": [
-  {"id": "title",        "file": "pages/01_title.html",           "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "user is designing the 2 pages (title + imprint); placeholders only"},
-  {"id": "imprint",      "file": "pages/02_imprint.html",         "kind": "placeholder", "enabled": true, "start": "verso", "numbering": "none",  "note": "volume name, scope, translation credit, copyright/ISBN (from publish/release.json)"},
+  {"id": "title",        "file": "pages/01_title.html",           "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "title page; placeholder until the user supplies the design"},
+  {"id": "imprint",      "file": "pages/02_imprint.html",         "kind": "placeholder", "enabled": true, "start": "verso", "numbering": "none",  "note": "imprint page; placeholder until the design is supplied; values from publish/release.json"},
   {"id": "king",         "file": "pages/03_king_photo.html",      "kind": "designed",    "enabled": true, "start": "any",   "numbering": "none",  "note": "Maharaja Jayacamarajendra Wadiyar (patron of the first edition)"},
   {"id": "guru",         "file": "pages/04_guru_photo.html",      "kind": "designed",    "enabled": true, "start": "any",   "numbering": "none",  "note": "Siddhalinga Svamigalu; follows the king"},
   {"id": "present_day",  "file": "pages/05_present_day.html",     "kind": "placeholder", "enabled": true, "start": "any",   "numbering": "none",  "note": "current king and guru on one page, photos to be supplied"},
