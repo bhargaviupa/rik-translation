@@ -278,6 +278,57 @@ def wide_tables(doc):
         return tag + m.group(0)[len(m.group(1)):]
     return re.sub(r'(<table\b[^>]*>).*?</table>', rep, doc, flags=re.S), n
 
+def _match_end(doc, start, tag='section'):
+    """index just after the </tag> that closes the <tag …> opening at `start` (nesting counted)"""
+    depth, i = 0, start
+    for m in re.finditer(r'<(/?)' + tag + r'\b[^>]*>', doc[start:]):
+        depth += -1 if m.group(1) else 1
+        if depth == 0: return start + m.end()
+    return None
+
+_SLOTHEAD = re.compile(r'<(h[1-6]|p)\b([^>]*)>')
+def _tag_heads(chunk):
+    """the heading elements of a slot body get the class slot-head: the embedder drops them (the frame brings its own heading); while the
+    embedder is off they stay and print as before"""
+    def rep(m):
+        tag, at = m.group(1), m.group(2)
+        if tag == 'p' and not re.search(r'class="[^"]*\bph[123]\b', at): return m.group(0)
+        if 'class="' in at: at = re.sub(r'class="', 'class="slot-head ', at, count=1)
+        else: at += ' class="slot-head"'
+        return f'<{tag}{at}>'
+    return _SLOTHEAD.sub(rep, chunk)
+
+def mark_slots(doc):
+    """Mark the four bodies that the front pages take from the volume (publish/frontmatter/order.json, kind "slot"; REQUIREMENTS A2a): each is
+    a <section class="slot" data-slot="NAME"> whose headings carry the class slot-head.  NAME: contents, abbreviations, original_preface;
+    `introduction` is not marked (the Introduction of Vols 1 and 5 is a long part of the text, not a front page: see the hand-over of the
+    embedder).  Nothing changes in the printed book (.slot is display: contents) while the embedder is off.  Returns (doc, {name: found})."""
+    found = {}
+    def tag_section(doc, name, classes):
+        for cls in classes:
+            m = re.search(r'<section class="(' + cls + r')"([^>]*)>', doc)
+            if not m: continue
+            e = _match_end(doc, m.start())
+            if e is None: continue
+            new = f'<section class="slot {m.group(1)}" data-slot="{name}"{m.group(2)}>' + _tag_heads(doc[m.end():e])
+            found[name] = True
+            return doc[:m.start()] + new + doc[e:]
+        return doc
+    doc = tag_section(doc, 'contents', ('econtents', 'pcontents', 'toc'))
+    doc = tag_section(doc, 'abbreviations', ('abbr refl', 'abbr'))
+    doc = tag_section(doc, 'original_preface', ('preface',))                    # volbook: the translated preface of frontmatter_en.json
+    if 'original_preface' not in found:                                         # a heading "Preface …"/"Pīṭhike" of the text, up to the next heading of the text
+        m = re.search(r'<(h1|h2)\b[^>]*class="(?:part|book|chapter)[^"]*"[^>]*(?:data-orig="P[īi][ṭt]hike"[^>]*>|>\s*(?:<[^>]+>\s*)*Preface\b[^<]*)', doc)
+        if m:
+            hend = doc.index('>', m.start()) + 1
+            ends = [x.start() for x in (re.compile(r'<h1\b[^>]*class="(?:part|book)[^"]*"').search(doc, hend), re.compile(r'<h2\b[^>]*class="(?:sukta|chapter|part)[^"]*"').search(doc, hend),
+                                          re.compile(r'<(?:h3|div)\b[^>]*class="(?:pg|pgmark)"[^>]*\bid="p\d+"').search(doc, hend)) if x]
+            if ends:
+                e = min(ends); chunk = doc[m.start():e]
+                doc = doc[:m.start()] + '<section class="slot" data-slot="original_preface">' + _tag_heads(chunk) + '</section>' + doc[e:]
+                found['original_preface'] = True
+    return doc, found
+
 def fix(doc, quiet=False, stamp_it=True):
     """Every print rule that holds for all volumes (docs/REQUIREMENTS.md, A4 "Print rules"), applied to the finished HTML of any builder.
     Prints one line of counts, so that each build shows what was done."""
@@ -294,5 +345,15 @@ def fix(doc, quiet=False, stamp_it=True):
     doc, c['English of quotations not printed'] = quotations(doc)
     doc, c['Kannada-script places'] = no_kannada(doc)
     doc, c['wide tables fitted'] = wide_tables(doc)
+    doc, sl = mark_slots(doc); c['front-page slots marked'] = ','.join(sorted(sl)) or 'none'
     if not quiet: print('[printfix] ' + '; '.join(f'{k} {v}' for k, v in c.items()))
-    return doc
+    return _embed(doc)
+
+def _embed(doc):
+    """The front pages of publish/frontmatter/order.json are put in place by publish/frontmatter/embed.py; it does nothing unless that file has
+    "embed": true (the user's master switch), so no volume's PDF changes until he turns it on."""
+    import importlib.util, pathlib
+    f = pathlib.Path(__file__).resolve().parent / 'frontmatter' / 'embed.py'
+    if not f.exists(): return doc
+    spec = importlib.util.spec_from_file_location('fm_embed', f); mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod)
+    return mod.embed(doc)

@@ -21,8 +21,13 @@
 .fm .fm-slot:empty::before { content: "[to be filled from the volume]"; color: #999; font-style: italic; font-size: 9pt; }
 /* The footer name of the original (published by publish/style_footer.css as string(orig)): every frame heading sets it, empty where the
    page has no original name, so that e.g. "Pīṭhike" does not stay under the contents. */
-.fm h2 { string-set: orig attr(data-orig); }
+.fm h2 { string-set: orig attr(data-orig), kp ""; }      /* kp = the original's page (shared footer string): a frame clears it, so the preface's last page does not stay under the contents */
 /* Start of the book's text (row "body" of order.json): the embedder inserts <div class="fm-bodystart" data-orig=""></div> in front of the text.
    It opens a right page, clears the footer name left by the introduction, and makes this page arabic 1 (blank pages before it count in the roman numbers). */
-.fm-bodystart { break-before: right; string-set: orig attr(data-orig); page: fmbody; height: 0; margin: 0; padding: 0; }
+.fm-bodystart { break-before: right; string-set: orig attr(data-orig), kp ""; page: fmbody; height: 0; margin: 0; padding: 0; }
+/* when the first element of the text is itself a part/chapter/sūkta heading, that heading carries the class 'first' (page: chapter-first = arabic 1, style.css/style_vol1.css) and the marker must not make a page of its own */
+.fm-bodystart.plain { page: auto; }
 @page fmbody { counter-reset: page 1; }   /* the same mechanism as 'chapter-first' in style.css */
+
+/* the first element of the text when it is not a part/chapter/sūkta heading: it opens the right page, arabic 1, footer name cleared */
+.fm-first { break-before: right; page: fmbody; string-set: orig "", kp ""; }
