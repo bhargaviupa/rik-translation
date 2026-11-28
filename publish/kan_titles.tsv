@@ -17,4 +17,4 @@ vol	range_line	adhyaya_line	year	press	source
 25	Maṇḍala 8 · Sūktas 68–103 and Maṇḍala 9 · Sūktas 1–43	Fifth to Eighth Adhyāyas of the Sixth Aṣṭaka			scope: vol25 STATUS; no colophon in the Kannada file
 26	Maṇḍala 9 · Sūktas 44–100	First to Fourth Adhyāyas of the Seventh Aṣṭaka			scope: PUBLICATION_TODO change log, English headings; no colophon in the Kannada file
 28	Maṇḍala 10 · Sūktas 41–71	Eighth Adhyāya of the Seventh Aṣṭaka (from Sūkta 41), and the First and Second Adhyāyas of the Eighth Aṣṭaka			scope: vol28/STATUS.md; no colophon in the Kannada file
-29	Maṇḍala 10 · Sūktas 72–94	Third and Fourth Adhyāyas of the Eighth Aṣṭaka			scope: vol29/STATUS.md; no colophon in the Kannada file
+29	Maṇḍala 10 · Sūktas 72–94	Third and Fourth Adhyāyas of the Eighth Aṣṭaka	1954	Śrī Vināyak Printing Works, Mysore	scope: vol29/STATUS.md; press from the colophon of the user's contents scan (p. x: K. Venkatasubbiah, Sree Vinayak Printing Works, 550 Old Agrahar, Mysore), year 1954 from the preface; not used while main's vol29/pubcfg.json exists
