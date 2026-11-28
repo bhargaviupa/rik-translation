@@ -37,3 +37,8 @@
 .tframe .t4 { font-size: 8.5pt; line-height: 1.4; margin-bottom: .05in; }
 .tframe .t5 { font-size: 9pt; font-style: italic; margin-top: .2in; }
 .tframe .tplaque { position: absolute; left: 38.1%; width: 24.3%; top: 87.3%; height: 9.4%; display: flex; align-items: center; justify-content: center; text-align: center; font-size: 6.5pt; line-height: 1.25; }
+/* Thank-you page (page 06): the ornamental border of the Vol 1 plates (assets/thanks_frame_vol1.jpg, inside cleared); the text stands inside it. 5.1in wide like the title frame. */
+.tkframe { position: relative; width: 5.1in; margin: 0 auto; }
+.tkframe img { display: block; width: 5.1in; height: auto; }
+.tkframe .tktext { position: absolute; left: 11%; right: 11%; top: 9%; bottom: 9%; text-align: center; }
+.tkframe .tktext h2 { margin: .6in 0 .3in; }
