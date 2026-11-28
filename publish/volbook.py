@@ -171,7 +171,7 @@ def contents_en_html(cfg, fe, suk_ids):
     suk_ids: heading ids of the sūktas in order (the n-th sūkta line of the contents links to the n-th sūkta heading)."""
     en = {e['src']: e for e in json.loads((ROOT / cfg['contents_en']).read_text(encoding='utf8'))}
     c = cfg['contents']
-    lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
+    lines = (ROOT / c.get('source', cfg['supplied_md'])).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
     blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
@@ -191,6 +191,8 @@ def contents_en_html(cfg, fe, suk_ids):
         e = en.get(b['src'], {}); t = esc(e.get('en', '')); fn = f'<span class="fn">{html.escape(e["note"])}</span>' if e.get('note') else ''
         if b['t'] == 'sukta':
             si += 1; pg = first_pg.get(b['src'])
+            mp = re.search(r'\s(\d{1,4})\s*$', b['text'])                   # the printed page at the end of the sūkta line itself (Vol 29): the sūkta begins there
+            if mp: pg = ov.get(str(b['src']), int(mp.group(1)))
             tgt = f'#p{pg}' if pg else (f'#{suk_ids[si-1]}' if si <= len(suk_ids) else '')
             mno = re.match(r'\s*(\d+)\.\s+(.*)', t, flags=re.S)                       # '29. The twenty-ninth sūkta, …' -> number column
             rows.append({'no': mno.group(1) if mno else '', 'html': f'<strong>{mno.group(2) if mno else t}</strong>{fn}', 'href': tgt})
@@ -407,6 +409,8 @@ def build_eng(cfg, html_only):
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     fe = load_front_en(cfg)
+    if not fe and cfg.get('contents_en'):                 # a volume with a translated contents only (Vol 29): no board/preface/abbreviation pages of its own
+        fe = {'contents': {'heading': ['॥ Śrīḥ ॥', 'Contents of the Volume of the Ṛgveda-saṃhitā'], 'page_note': 'Page numbers are the pages of this book.'}}
     body = notes_to_footnotes(body)
     body = intro_headings(body)
     body = body.replace('<span>p. 1</span></h3>', '<span>p. 1</span></h3><div class="om">ॐ</div>', 1)
