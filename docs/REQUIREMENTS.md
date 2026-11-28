@@ -63,12 +63,35 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 | 13 | Contents | Contents in English: one entry per chapter and sūkta, our page numbers (C9). | supplied file |
 | next | **Preface to the English edition** | By the translator-editor (the user). **A placeholder page in every volume until the text is written.** (F15) | the user |
 | next | Preface / Introduction of the original | As the volume has it. No Kannada headings. | supplied file |
-| next | Abbreviations | The legend of B3.7, generated from the one list; it stands after the prefaces and immediately before the first Maṇḍala heading. | `rv/references.tsv` |
+| next | Abbreviations | The legend of B3.7, generated from the one list; **its place is fixed by A2a (after the contents)**. | `rv/references.tsv` |
 
 The order of this table is the same in every volume. **Everything before the preface has one format in every volume** (user, Nov 22 2026): pictures 1 and 2 of the volume (rows 1–2) are the only volume-specific pages among rows 1–7; rows 3–7 (the king, the guru, the thank-you pages, the present guru and king) are the same files in every volume, kept in **one directory at the root of the repository** (name not yet chosen, F35), and the abbreviations list that follows the preface is uniform too (B3.7). Rows 8–13 (scholars, credentials, copyright, typeset title page, permission page, contents) are kept as before; whether any of them also moves to the directory is F36.
 The cover pictures (rows 1–2) are the real scans of that volume's pictures; a reconstructed cover is a stop-gap only and is marked as such in the working files. The English lines giving the range of the volume (for example "Maṇḍala 3 · Sūktas 40–62; Maṇḍala 4 · Sūktas 1–18") and its chapters ("Third, Fourth and Fifth Adhyāyas of the Third Aṣṭaka") appear on the typeset title page (row 11); whether they also stand below the cover picture is F36. The imprint, press and year of the original are kept in the volume's `pubcfg.json`; the publisher, ISBN and rights only in `publish/release.json` (E).
 The front matter also holds the English-typeset **title page** and the original's **permission page**; the cover is the real scan (HANDBOOK §8). A colophon at the end of an adhyāya's last sūkta is given in three layers, with the Kannada closing line.
 **This layout may change again** (user, Nov 13 2026); it is one setting of the printer and is listed in `TODO.md`.
+
+**A2a. Order of the pages (user, Nov 28 2026; supersedes the order of the table above and N1.4).**
+1. Two pages designed by the user: volume name, scope, translation, copyright/ISBN (a placeholder until the design is supplied).
+2. The portrait of the king, then the portrait of the guru.
+3. The present king and guru on **one** page (placeholder).
+4. Thank-you page (placeholder).
+5. The preface to the English edition (ours; placeholder until written).
+6. The preface of the original, translated.
+7. The contents.
+8. The list of abbreviations (the list of works cited, B3.7).
+9. The Pūrva-pīṭhikā or Introduction, where the volume has one.
+10. The text of the book.
+11. A closing-remarks page at the end (optional; may be needed).
+
+**The order is data, not code** (plan of the front-pages session, Nov 28 2026, branch `claude/clever-lamport-qr34vh`): `publish/frontmatter/order.json` is the one list of the pages; each page is a fragment in `publish/frontmatter/pages/`, with one stylesheet `fm.css`. A page is removed by `"enabled": false` (or by deleting its row), inserted by a new fragment and a new row. A row says whether the page opens on a right or left page (`start`: recto/verso, which adds blank pages) and how it is numbered (`numbering`: none, roman, arabic). Pages of kind `slot` (original preface, contents, abbreviations, introduction) are a frame with a heading; **their body is supplied by the volume** through an embedding script, which is built by another session and replaces the cover, title page, copyright, king, guru and present-day sections that the builders emit today. The imprint page takes its values from `publish/release.json` (rule 6).
+
+**Decisions of the user on the front pages, Nov 28 2026:**
+1. The page of the original's preface is headed **"Preface"**; the original's name **"Pīṭhike"** stands in the footer (rule 1), not in the heading.
+2. The page of the Pūrva-pīṭhikā is headed **"Introduction"**; its name "Pūrva-pīṭhikā" stands in the footer.
+3. The closing-remarks page is **switched off** (`"enabled": false`) until it has text.
+4. Blank pages that a recto/verso start adds **count in the roman numbering** and carry no number.
+5. A frame heading must also set the footer name, **and clear it where it has none** (the footer string persists over the following pages until another heading sets it, so "Pīṭhike" would otherwise stay under the contents).
+6. Fonts: the sessions that build or preview pages have Noto Serif, Lohit Devanagari and Lohit Kannada installed (`apt-get install fonts-noto-core fonts-lohit-deva fonts-lohit-knda`); a preview in fallback fonts proves nothing about the layout.
 The credits of the original edition are either marked clearly as taken from the original or combined with our own credits page. (F8)
 
 ### A3. Body
@@ -657,7 +680,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 1. **Front matter**: the pages of A2, in the order of its table, up to and including the translator-editor's preface.
 2. **Preface of the original edition** (heading "Preface (Pīṭhike)" in the working file): the whole text translated, in the order of the print, with its date line and signature translated. Its pages are marked in Roman numerals ("Printed p. iii" in the English file; `<!-- roman iii -->` under the heading "ಪೀಠಿಕೆ" in the Kannada file) and it stands before printed page 1.
 3. **Opening of the volume:** the invocation line of the original ("Om. Śrī 1. …"), the verses that stand at its head, the title line of the volume ("Ṛgveda Saṃhitā with Sāyaṇa's commentary, Part N"), the statement of which chapters, Maṇḍalas and sūktas it holds, and the introduction to the first chapter, all as the original prints them.
-4. **The abbreviations** (B3.7) stand after the prefaces and immediately before the first Maṇḍala heading.
+4. **The abbreviations** (B3.7) stand after the contents (A2a, user, Nov 28 2026).
 5. **The body:** one Maṇḍala heading wherever a Maṇḍala begins; the first sūkta follows its Maṇḍala heading on the same page; then its sūktas in order (N2); the introduction of a new chapter (adhyāya) stands before its first sūkta.
 6. **Where the original has a Pariśiṣṭa (appendix of continuous prose)** it is translated and stands after the last sūkta it belongs to, before the closing.
 7. **Closing:** the colophon and closing verses of the last chapter, with the closing line of the original and its Kannada closing mark, nothing added (A3, B6).
