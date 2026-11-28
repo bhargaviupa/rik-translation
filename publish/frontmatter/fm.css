@@ -53,3 +53,7 @@
 .imprint .i-name { font-size: 12.5pt; letter-spacing: .06em; }
 .imprint .i-src { font-size: 8pt; line-height: 1.45; margin-top: .22in; }
 .imprint .i-rel { margin-top: .3in; font-size: 7.6pt; color: #333; line-height: 1.5; }
+/* Present-day page (page 05): the guru-parampara picture takes the upper half of the page, the portrait of the present king the lower half. */
+.fm .half-top, .fm .half-bot { height: 3.75in; overflow: hidden; }
+.fm img.pic.wide { max-width: 5.1in; width: 5.1in; max-height: 2.6in; height: auto; }
+.fm .half-bot .ph.half { min-height: 2.4in; padding-top: .9in; }

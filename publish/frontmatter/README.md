@@ -39,3 +39,6 @@ Both are taken from the Vol 1 front matter, from the user's high-resolution scan
 
 ## Imprint page (page 02, Nov 28 2026)
 The layout of the typeset title page the builders made (user's `pic-trans.pdf`), inside the same plate border as the thank-you page (`assets/thanks_frame_vol1.jpg`, deskewed 0.8° and trimmed). The line "prepared with the assistance of Claude, an AI model by Anthropic" is removed (user). Tokens: `{{vol}}`, `{{range_line}}`, `{{adhyaya_line}}`, `{{imprint}}`, `{{release.*}}`.
+
+## Present-day page (page 05, Nov 28 2026)
+Upper half: the guru-parampara picture (`assets/present_gurus.jpg`, supplied by the user, black-and-white for now, the corner mark cropped off, the trust's banner kept as supplied) with a caption placeholder; lower half: placeholder for the present king's portrait (not yet received).
