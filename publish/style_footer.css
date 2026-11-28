@@ -18,19 +18,21 @@ h3.pg {   /* both books (user, Nov 26 2026): the page of the original stands in 
 @page :blank { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
 ol.cont { margin-top: 0; }
 
-/* Contents pages: one table in every volume (printfix.contents_table).  Borders are on for now (user, Nov 26 2026: "we can print it borderless
-   later": set the two border lines below to none). */
+/* Contents pages: one table in every volume (printfix.contents_table), borderless, every entry a link (REQUIREMENTS A4 rule 2, user, Nov 28 2026). */
 table.contents { width: 100%; border-collapse: collapse; font-size: 9.3pt; line-height: 1.4; margin: .15in 0 .1in; text-align: left; }
-table.contents th, table.contents td { border: .4pt solid #999; padding: 3pt 5pt; vertical-align: top; }
-table.contents th { font-weight: 700; text-align: left; background: #f3f3f3; }
+table.contents th { font-weight: 700; font-size: 8pt; letter-spacing: .06em; text-transform: uppercase; text-align: left; border: 0; border-bottom: .8pt solid #555; padding: 0 5pt 3pt; }
+table.contents td { border: 0; border-bottom: .5pt dotted #999; padding: 3pt 5pt; vertical-align: top; }
 table.contents .no { width: 2.4em; text-align: right; white-space: nowrap; }
 table.contents .pg { width: 3em; text-align: right; white-space: nowrap; font-family: "Noto Serif", serif; }
 table.contents tr { page-break-inside: avoid; }
-table.contents tr.hd td { text-align: center; padding: 5pt; }
+table.contents tr.hd td { text-align: center; padding: 9pt 5pt 4pt; border-bottom: .8pt solid #555; }
 table.contents td p, table.contents td ul, table.contents td ol { margin: 0; }
 table.contents a { color: inherit; text-decoration: none; }
+table.contents a.ce { display: block; }
 table.contents a.pgref::after { content: target-counter(attr(href), page); }
 p.cnote { text-align: center; font-size: 8pt; color: #666; margin-top: .1in; }
+/* the PDF's navigation pane lists the structure only: title, Maṇḍala/adhyāya, sūkta; not the sub-headings of a Ṛk or the page marks (rule 18) */
+h3, h4, h5, h6, h3.pg { bookmark-level: none; }
 
 /* headings: no word is broken with a hyphen; a part title is cut by the builder into number and title (printfix.part_titles) */
 h1, h2, h3, h4, h5 { hyphens: manual; }

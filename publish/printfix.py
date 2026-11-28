@@ -22,13 +22,20 @@ def lists(doc):
 # ---- contents pages: ONE format in every volume and builder (user, Nov 26 2026): a table  No. | Contents | Page
 def contents_table(rows, note='Page numbers are the pages of this book.', head=('No.', 'Contents', 'Page')):
     """rows: dicts {kind: 'row'|'head', no, html, href (link target, page of THIS book printed by CSS) or page (text printed as it is), pre (html put
-    in front of the row's text, e.g. an invisible page mark)}.  Styling: style_footer.css, table.contents."""
+    in front of the row's text, e.g. an invisible page mark)}.  Styling: style_footer.css, table.contents.
+    Every entry is a link (REQUIREMENTS A4 rule 2): the number, the text and the page number are each an anchor that fills its cell, so the whole
+    row is clickable.  The text is not wrapped when it already holds a link (a nested link is not valid)."""
     out = ['<table class="contents"><thead><tr><th class="no">%s</th><th>%s</th><th class="pg">%s</th></tr></thead><tbody>' % head]
     for r in rows:
         if r.get('kind') == 'head':
             out.append(f'<tr class="hd"><td colspan="3">{r.get("pre", "")}{r["html"]}</td></tr>'); continue
-        pg = f'<a class="pgref" href="{r["href"]}"></a>' if r.get('href') else (r.get('page') or '')
-        out.append(f'<tr><td class="no">{r.get("no") or ""}</td><td class="tx">{r.get("pre", "")}{r["html"]}</td><td class="pg">{pg}</td></tr>')
+        h = r.get('href')
+        pg = f'<a class="pgref ce" href="{h}"></a>' if h else (r.get('page') or '')
+        no, tx = r.get('no') or '', r['html']
+        if h:
+            if no: no = f'<a class="ce" href="{h}">{no}</a>'
+            if '<a ' not in tx: tx = f'<a class="ce" href="{h}">{tx}</a>'
+        out.append(f'<tr><td class="no">{no}</td><td class="tx">{r.get("pre", "")}{tx}</td><td class="pg">{pg}</td></tr>')
     out.append('</tbody></table>' + (f'<p class="cnote">{note}</p>' if note else ''))
     return '\n'.join(out)
 
