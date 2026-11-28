@@ -21,7 +21,7 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 | 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | **yes, whole volume (Nov 19)** | none | A |
 | 5 | Maṃ. 1 Sū. 47–61 and the Pariśiṣṭa | scans | 270,000 | 231 | 396 | — | partly: pp. 2–468 and 486–584 (Nov 17); pp. 469–485 and 585–708 not yet | none | A |
 | 6 | Maṃ. 1 Sū. 62–80 | scans | 238,000 | 575 | 691 | — | no | none | A |
-| 7 | Maṃ. 1 Sū. 81–94 | scans | 229,000 | 1,958 | 416 | — | no | none | A |
+| 7 | Maṃ. 1 Sū. 81–94 | scans | 229,000 | 341 (Nov 27; was 1,958) | 416 | — | no | none | A |
 | 8 | Maṃ. 1 Sū. 95–112 | scans | 336,000 | 368 (Nov 27; was 4,632) | 510 | — | no | none | A |
 | 9 | Maṃ. 1 Sū. 113–121 | scans | 204,000 | 1,921 | 391 | — | no | none | A |
 | 10 | Maṃ. 1 Sū. 122–136 | scans | 282,000 | 1,870 | 739 | — | no | none | A |
@@ -194,6 +194,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 - Nov 26 2026: the PDF rules decided on Vol 1 written into `docs/REQUIREMENTS.md` (A4 footer, B2.6 quotation once in Devanagari, B4.6 generic remarks, D19 PDF check, M5a) and into the tools for all volumes: `tools/rv/cleanup_remarks.py N all`, `publish/style_footer.css` (old builders and `volbook.py`), `publish/pdf_check.py N`. Vol 21 review copies rebuilt with the new footer. Vols 2–10: dry-run counts only, nothing written.
 - Nov 25 2026: Vol 1: generic remarks removed from the English (457 lines, logged; new kinds `paren` and `session` in `tools/rv/cleanup_remarks.py`, usable for Vols 2–10); `[?]`/`[sic]` listed in `vol1/review/open_readings.tsv` (66); review PDF rebuilt with the old builder (1,275 pages). Verse layers not yet from the reference.
 - Nov 25 2026: T11 done: every PDF moved out of `publish/out/` into `volN/review/` (Vol 13's two old builds to `vol13/legacy/`); `volbook.py`, the legacy builders and `bhashya_book.py` now write review copies there. Survey of the route to PDFs for all volumes made; the choice of the one printer (`volbook.py` or `rv print`) waits for the user.
+- Nov 27 2026: **Vol 7 `[?]` pass done** (Kannada book pp. 2–567 from the supplied text in two files; `[?]` 1,939 → 341 by `qmark_strip.py` (176) and 12 reader batches; 20 word-meaning fixes; tokens 3.15M). Bhāṣya English, remark clean-up, PDF not done.
 - Nov 27 2026: **Vol 8 `[?]` pass done** (supplied text in two files, Kannada book pp. 2–832, `[?]` 4,616 → 368 by `qmark_strip.py` (1,409) and 26 reader batches; 21 word-meaning fixes; tokens 5.0M). Bhāṣya English, remark clean-up, PDF not done.
 - Nov 24 2026: **Vol 5 second pass done** (S0–S6: Kannada book from the supplied text, all supplied pages 2–708 read in 52 batches, 1 420 repairs applied, 205 questions in `vol5/review/second_pass/questions.tsv`, Wikisource coverage of the 152 Ṛks checked, 30 pictures listed). Bhāṣya English not made; 20 pages are not in the supplied text. See `vol5/STATUS.md`.
 - Nov 19 2026: supplied text of Vol 6 complete (p. 82 added as its own file; whole volume pp. 2–619).

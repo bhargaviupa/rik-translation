@@ -1,0 +1,421 @@
+# Vol 7: notes of tools/rv/kn_full.py
+
+Head anomalies (line, number read, number used, head):
+
+- (1038, 513, 413, 'ಅ. ೧. ಅ. ೬. ವ. ೩೦ ] ಋಗ್ವೇದಸಂಹಿತಾ 513.')
+- (1411, 428, 422, '428 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಆ. ೧೪. ಸೂ. ೯೨')
+- (1949, 458, 436, '೪೫೮ ಸಾರುಣ್ಯಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೧೪. ಸೂ. ೯೨.')
+- (2619, 21, 453, '೨೧ . ಅ. ೬. ವ. ೨೬ ] ಋಗ್ವೇದಸಂಹಿತಾ 453')
+- (2975, 92, 462, '462. ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ [ ಮಂ. ೧. ಅ. ೧೪. ಸೂ. ೯೨.')
+- (3452, 93, 474, '47.4 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮ. ೧. ಆ. ೧೪. ಸೂ. ೯೩')
+- (3820, 21, 483, '೨೧ . ಆ. ೬. ವ. ೨೮ ] ಋಗ್ವೇದಸಂಹಿತಾ 483')
+- (5677, 94, 532, '532. ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೧. ಅ. ೧೫. ಸೂ. ೯೪')
+- (6803, 94, 562, '562. ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮ. ೧. ಆ. ೧೫ ಸೂ. ೯೪')
+
+Picture blocks (<figure>, OCR text of a picture) replaced by one `[figure: file]` line:
+
+
+
+Scan-page numbering (--scan-pages):
+
+
+
+Script notes:
+
+- p. 3: garbled label "" ಸಂಹಿತಾಕಾರ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 3: garbled label ": ಕತೆ : ೯ ॥" -> ಪದಪಾಠಃ
+- p. 3: garbled label "ಕಾಯಣಭಾಷ್ಯ C "" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 4: Devanagari letters rewritten as Kannada in: ಶವಸೇ— ಇಂದ್ರನ ಬಲಾಭಿವೃದ್ಧ್ಯರ್ಥವಾಗಿ. ಓಜಃ ಪಾ
+- p. 8: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 9: garbled label "ಪವನಾತಿ" -> ಪದಪಾಠಃ
+- p. 10: garbled label "ಸಾಯುಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 10: garbled label "ಭವಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 11: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 13: Devanagari letters rewritten as Kannada in: ಕ್ರತ್ವಾ । ಮಹಾನ್ । ಅನು ಽ ಸ್ವಧಂ । ಭೀಮಃ । ಆ
+- p. 13: Devanagari letters rewritten as Kannada in: ತ್ರಿಯೇ । ಋಷ್ವಃ । ಉಪಾಕಯೋಃ । ನಿ । ಶಿಪ್ರೀ ।
+- p. 13: garbled label "ಸಹಾಯಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 14: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 14: garbled label "English Translation-" -> English Translation.
+- p. 14: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 15: garbled label "ವ್ಯಾಕರಣ, ಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 17: garbled label "ಸಾಯ : ಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 18: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 18: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 21: garbled label "ಸಾಹಿತ್ಯಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 22: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 23: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 24: Devanagari letters rewritten as Kannada in: ಮದೇ ಽ ಮದೇ । ಹಿ । ನಃ । ದದಿಃ । ಯೂಥಾ । ಗವಾಂ
+- p. 25: garbled label "ಸಾಹ್ಯಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 25: garbled label "ಪ್ರ, ತಿಹಾರ್ಸ್" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 25: garbled label "ಭಾವಾರ್ಥ-" -> ಭಾವಾರ್ಥ
+- p. 28: Devanagari letters rewritten as Kannada in: ವಿದ್ಯಾ ಹಿ ತ್ವಾ ಪುರೂವಸುಮುಪ ಕಾಮಾನ್ತ್ಸಸೃಜ್ಮ
+- p. 31: garbled label "ಸಂಹಿತಾಪಾಠ ?" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 31: garbled label "ತಡಸಾಹೇ" -> ಪದಪಾಠಃ
+- p. 31: garbled label "ಸಾಯಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 31: garbled label "ಪ್ರತಿವರ್ಧ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 32: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 34: garbled label "॥ ಸಂಹಿತಾಪ್ರಬಂಧ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 34: garbled label "ಪವಪಾಠಃ" -> ಪದಪಾಠಃ
+- p. 35: garbled label "ಕಾಯಣಭಾಷ್ಯ, ೩" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 35: garbled label "ಪ್ರತಿವರ್ಷ '" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 44: garbled label "ಪ್ರ, ತಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 45: garbled label "ಪ್ರಾ, ಕತೆ ಅಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 46: garbled label "॥ ಪವನಾಥ ॥" -> ಪದಪಾಠಃ
+- p. 46: Devanagari letters rewritten as Kannada in: ಸಃ । ಘ । ತಂ । ವೃಷಣಂ । ರಥಂ । ಅಧಿ । ತಿಷ್ಠಾ
+- p. 46: garbled label "ಸಾಯಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 46: garbled label "ಪ್ರತಿಪಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 47: garbled label "ವಿಶೇಷಣಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 50: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 52: garbled label "ಸಾಯುಜಭಾಷ್ಯಂ ೩" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 54: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 56: garbled label "ಸಂಹಿತಾಕಾರರು" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 57: garbled label "ಸದಾಶಕ್ತಿ" -> ಪದಪಾಠಃ
+- p. 57: garbled label ""రామచంద్రయ్య"" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 57: garbled label "ಪ್ರತಿಕದರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 58: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 59: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 61: garbled label "ತವವಾಕ." -> ಪದಪಾಠಃ
+- p. 61: garbled label "ಸಾಯುಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 61: picture line [figure: vol7/html/figures/fig_line02575.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 63: garbled label "ಪೀಠಿಕೆ ವಿಷಯಗಳು:" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 64: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 66: garbled label "ಕಡಪಾಠ" -> ಪದಪಾಠಃ
+- p. 66: garbled label "॥ ಸೂರ್ಯಭಾಷ್ಯಂ ।" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 67: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 69: garbled label "ವ್ಯಾಕರಣಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 71: garbled label "॥ ಪವನಾಥ ॥" -> ಪದಪಾಠಃ
+- p. 71: garbled label "ಸಾಯಣಭಾಸ್ಕರ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 75: garbled label "ಪ್ರಸಿದ್ಧಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 75: garbled label "I ಭಾನಾರ್ಥ ii" -> ಭಾವಾರ್ಥ
+- p. 76: garbled label "ವಿಶೇಷವಿಸಯಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 78: garbled label "ಸಯಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 78: garbled label "ಪ್ರತಿವರ್ಧ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 82: garbled label "ii ಸಂಹಿತಾಪಾರಕಃ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 83: garbled label "ಹಡಸಾರ!" -> ಪದಪಾಠಃ
+- p. 83: garbled label "ಸಹಾಯಧಾನ್ಯ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 83: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 83: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 84: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 84: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 85: garbled label "॥ ಕದಪತಾಕೆ ॥" -> ಪದಪಾಠಃ
+- p. 86: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 87: garbled label "ಪ್ರಕ್ರಿಯಾರ್ಥಿ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 89: garbled label "ನಾ ಮಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 89: garbled label "ಭಾವ, ರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 90: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯೆ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 94: garbled label "ಸಂಹಿ ತಾಸಾಠಃ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 94: garbled label "ಸದಸಃ" -> ಪದಪಾಠಃ
+- p. 94: garbled label "ಪ್ರ, ತಿಸಡಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 95: garbled label "[ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 97: garbled label "ಸಾಯಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 98: garbled label "॥ ಪ್ರತಿಸಪರ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 99: garbled label "ವ್ಯಾಕರಣಪ್ರಯಾಣ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 100: garbled label "೧ ಸಂಹಿತಾಪಾಠ ೧" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 100: garbled label "ಪಟಪಟೆ" -> ಪದಪಾಠಃ
+- p. 100: Devanagari letters rewritten as Kannada in: ಕದಾ । ಮರ್ತಂ । ಅರಾಧಸಂ । ಪದಾ । ಕ್ಷುಂಪಂ ಽ ಇ
+- p. 100: garbled label "ಸಾಯಣಭಾಷ್ಯ c" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 101: garbled label "ವಿಶೇಷವಿವರಗಳು:" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 103: garbled label "' ಕವಿಸಾಹಿತ್ಯ '" -> ಪದಪಾಠಃ
+- p. 103: garbled label "ಕಾಯಣಭಾಷ್ಯ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 103: garbled label "! ಪ್ರಸಿಹಬಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 103: picture line [figure: vol7/html/figures/fig_line04129.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 105: garbled label ": ತ್ರೈಲೋಕ್ಯ ।" -> ಪದಪಾಠಃ
+- p. 105: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 109: garbled label "॥ ಪತಪಾತ ॥" -> ಪದಪಾಠಃ
+- p. 110: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 111: garbled label "ಪಾರ್ಶ್ವಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 112: garbled label "॥ ಗದಪಾರ್ಕೆ !" -> ಪದಪಾಠಃ
+- p. 112: garbled label "॥ ಸಯಣಭಾಸ್ಕರ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 112: garbled label "ಪ್ರತಿಕೂಲಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 115: garbled label "॥ ಪ್ರಕೃತಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 115: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 118: garbled label "॥ ಭವನಾಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 120: garbled label "ಸಾದೂಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 121: garbled label "ಪ್ರತಿಪಾದ್ಯ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 123: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ।" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 125: garbled label "ಸಾಮೂಹಿಕಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 127: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 128: garbled label "ನ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 130: garbled label "೩ ಪದಕಾರಃ ॥" -> ಪದಪಾಠಃ
+- p. 130: garbled label "ಸಾಯಣಭಾಷ್ಯ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 133: garbled label "॥ ಸಂಹಿತಾಪಾರಕ್ ।" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 138: picture line [figure: vol7/html/figures/fig_line05427.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 142: garbled label "ಸ್ವಾಕಃಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 145: garbled label "ಸಾರಥಿಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 145: picture line [figure: vol7/html/figures/fig_line05687.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 151: garbled label "ಕಡಲೆ" -> ಪದಪಾಠಃ
+- p. 151: garbled label "ಕಃ ೩೫೪೮೦" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 152: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 155: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 156: Devanagari letters rewritten as Kannada in: ಗೋ ಽ ಮಾತರಃ । ಯತ್। ಶುಭಯಂತೇ । ಅಂಜಿ ಽ ಭಿಃ ।
+- p. 156: Devanagari letters rewritten as Kannada in: ಬಾಧಂತೇ । ವಿಶ್ವಂ । ಅಭಿ ಽ ಮಾತಿನಂ । ಅಪ । ವರ
+- p. 156: garbled label "ಸಾಯಣಭಾಷ್ಯ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 157: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 157: garbled label "ಭಾನುವಾರ" -> ಭಾವಾರ್ಥ
+- p. 160: garbled label "ಕಾಯಇಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 161: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 163: garbled label "॥ ಸಡತಾಳ ॥:" -> ಪದಪಾಠಃ
+- p. 163: garbled label "॥ ಸಯಣಭಾಸ್ಕಃ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 165: garbled label "ಸ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 167: Devanagari letters rewritten as Kannada in: ಆ । ವಃ । ವಹಂತು । ಸಪ್ತಯಃ । ರಘು ಽ ಸ್ಯದಃ । 
+- p. 167: Devanagari letters rewritten as Kannada in: ಜಿಗಾತ । ಬಾಹು ಽ ಭಿಃ ।
+- p. 168: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 170: garbled label "ಕಡತಾರ್ಕ" -> ಪದಪಾಠಃ
+- p. 170: picture line [figure: vol7/html/figures/fig_line06639.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 171: garbled label "ಪ್ರತಿಕದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 171: garbled label "ಭಾವಾರ್ಥಃ" -> ಭಾವಾರ್ಥ
+- p. 175: Devanagari letters rewritten as Kannada in: ಶೂರಾಃ ಽ ಇವ । ಇತ್ । ಯುಯುಧಯಃ। ನ । ಜಗ್ಮಯಃ ।
+- p. 175: Devanagari letters rewritten as Kannada in: ಭಯಂತೇ । ವಿಶ್ವಾ । ಭುವನಾ । ಮರುತ್ ಽ ಭ್ಯಃ । 
+- p. 178: garbled label "॥ ಕತೆಗೀತೆ ॥" -> ಪದಪಾಠಃ
+- p. 179: garbled label "ಸಾಯಣಭಾಷ್ಯ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 182: garbled label "॥ ಜಯಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 183: garbled label "!! ವಿಶೇಷವಿವರಗಳು !!" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 189: garbled label "ಕಾಯಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 189: garbled label "॥ ಪ್ರತಿಪದಾರ್ಥ i:" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 189: picture line [figure: vol7/html/figures/fig_line07335.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 191: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 194: garbled label "ಪ್ರಾಕರಣ, ಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 195: garbled label "ಸಾಂಯಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 196: garbled label "ಪ್ರಕಿನದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 198: garbled label "!! ಪದಸಾರ ।" -> ಪದಪಾಠಃ
+- p. 198: garbled label "ಪ್ರತಿಸಪರ್ಧೆ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 200: garbled label "ಸಾರಾಂಶಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 200: garbled label "" ಪ್ರಶಿವವಾರ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 202: garbled label "ಸಹಾಯಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 202: garbled label "ಪ್ರ, ತ್ರಿಪಥ್'" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 204: garbled label "ಕಡಸಾರ?" -> ಪದಪಾಠಃ
+- p. 204: Devanagari letters rewritten as Kannada in: ಅವಃ ಽ ಭಿಃ । ಚರ್ಷಣೀನಾಂ ॥ ೬ ॥
+- p. 205: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 207: garbled label "ಕಯಣಭಟ್ಟ 1" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 207: garbled label "ಪ್ರತಿಸದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 210: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 214: garbled label "ಸಾಯಣಭಾಷ್ಯ," -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 214: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 217: picture line [figure: vol7/html/figures/fig_line08413.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 220: garbled label "" ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 222: garbled label ": ಸಸ್ಯಾಹಾರಿ" -> ಪದಪಾಠಃ
+- p. 222: garbled label "ಕನ್ನಡಕ್ಕೆ:" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 223: garbled label "ಪ್ರತಿಸದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 223: garbled label "ಭಃಸಾರ್ಥ್ಯ ॥" -> ಭಾವಾರ್ಥ
+- p. 227: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 228: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 230: garbled label "ಪ್ರತಿವರ್ಧಿ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 230: picture line [figure: vol7/html/figures/fig_line08886.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 231: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 232: garbled label "॥ ವ್ಯಾಕರಣಪ್ರಕಿಯಾ !'" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 233: picture line [figure: vol7/html/figures/fig_line09016.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 233: picture line [figure: vol7/html/figures/fig_line09025.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 237: garbled label "ಕನ್ನಡ" -> ಪದಪಾಠಃ
+- p. 237: garbled label "॥ ಜಯಭದ್ರಾಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 238: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 238: garbled label "ಪೀಠಿಕೆ ವಿಷಯಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 239: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 244: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 246: garbled label "॥ ಸ್ವಾಕರಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 247: Devanagari letters rewritten as Kannada in: ಅಶೋಕ
+- p. 247: garbled label "ಅಶೋಕ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 247: picture line [figure: vol7/html/figures/fig_line09539.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 248: garbled label "॥ ಭಾಃಸಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 251: garbled label "ಪವನಾಕ" -> ಪದಪಾಠಃ
+- p. 251: garbled label "ಹಯಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 256: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 258: garbled label "ಪದಶಾಸನಃ" -> ಪದಪಾಠಃ
+- p. 258: picture line [figure: vol7/html/figures/fig_line09961.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 259: garbled label "ಭವಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 262: garbled label "ಸಾಹಿತ್ಯಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 266: garbled label "॥ ತ್ರಯಂಬಕ ॥" -> ಪದಪಾಠಃ
+- p. 266: garbled label "ಸಾಯುಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 271: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 273: garbled label "ಕಡಪಾಠ" -> ಪದಪಾಠಃ
+- p. 273: garbled label "॥ ಸಾಯುಜಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 277: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 281: garbled label "ಹಡತಾರಕ" -> ಪದಪಾಠಃ
+- p. 281: Devanagari letters rewritten as Kannada in: ತಂ । ಈಶಾನಂ । ಜಗತಃ । ತಸ್ಥುಷಃ । ಪತಿಂ । ಧಿಯ
+- p. 282: garbled label "॥ ಶ್ರೀ ಕಿಶದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 282: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 283: running head not recognised by the page splitter ("ಅ. ೧ ಅ. ೬. ವ. ೧೫. ] ಋಗ್ವೇದಸಂಹಿತಾ '283"): page marker inserted by script (add "### Printed p. 283" in en.md)
+- p. 284: garbled label "॥ ಸಂಹಿತಾಕಾರಿಕಾ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 285: garbled label "ಶಾಯಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 288: garbled label "ಕಡಪಾಡಿ" -> ಪದಪಾಠಃ
+- p. 288: Devanagari letters rewritten as Kannada in: ಪೃಷತ್ ಽ ಅಶ್ವಾಃ । ಮರುತಃ । ಪೃಶ್ನಿ ಽ ಮಾತರಃ 
+- p. 288: Devanagari letters rewritten as Kannada in: ಅಗ್ನಿ ಽ ಜಿಹ್ವಾಃ । ಮನವಃ । ಸೂರ ಽ ಚಕ್ಷಸಃ । 
+- p. 288: garbled label "ಸಾಹೂಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 289: garbled label "ಪತಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 292: garbled label "ಸಹಾಯಧಾನ್ಯ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 292: picture line [figure: vol7/html/figures/fig_line11264.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 293: garbled label "ಪ್ರಸಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 293: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 294: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 299: garbled label "ಸಡಪಾರಕಿ" -> ಪದಪಾಠಃ
+- p. 302: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 304: garbled label "ಸಾಯುಣಭಾಷ್ಯಂ" -> ಪದಪಾಠಃ
+- p. 304: garbled label "ಪ್ರತಿಸದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 305: garbled label "ವ್ಯಾಕರಣ ಕ್ರಿಯಾಪದ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 306: garbled label "ಸವೆಪಾಠಿ" -> ಪದಪಾಠಃ
+- p. 309: garbled label "ಸಾಹಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 310: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 313: garbled label "ಕಾಯಣಭಾಗ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 313: garbled label "ವಿಶೇಷವಿವರಗಳು-" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 315: garbled label "ಸಾಹಾಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 316: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 317: garbled label "ವ್ಯಾಕರಣ ಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 318: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 320: garbled label "ಸತ್ಯಮೇವ" -> ಪದಪಾಠಃ
+- p. 321: garbled label "ಪ್ರಸಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 322: Devanagari letters rewritten as Kannada in: ಶಂ । ನಃ । ಇಂದ್ರಃ । ಬೃಹಸ್ಪತಿಃ । ಶಂ । ನಃ ।
+- p. 322: garbled label "ಪ್ರತಿಪಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 323: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 323: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 324: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 327: garbled label "ಸಃಯಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 329: garbled label "ಪ್ರಾಕ್ಟಿಕಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 330: picture line [figure: vol7/html/figures/fig_line12765.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 335: garbled label "॥ ಪಹಪಾರಃ ॥" -> ಪದಪಾಠಃ
+- p. 335: garbled label "ಕಾಯಾಭಾಷ್ಪಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 335: garbled label "ಪ್ರ, ತಿಸಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 342: garbled label "॥ ವ್ಯಾಕರಣಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 344: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 345: garbled label "ಭಾಷಾರ್ಧ" -> ಭಾವಾರ್ಥ
+- p. 346: garbled label "ಸ್ವಾಕರಣ ಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 348: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 350: garbled label "ಸಂಹಿತಾಪಾತನೇ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 351: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 353: Devanagari letters rewritten as Kannada in: ನ । ರಿಷ್ಯೇತ್ । ತ್ವಾ ಽ ವತಃ । ಸಖಾ ॥ ೮ ॥
+- p. 353: garbled label "ಪ್ರಶಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 355: garbled label "ಸವಪಾರ್ಕ" -> ಪದಪಾಠಃ
+- p. 356: garbled label "ಶಾಯಣ ಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 356: garbled label "ಪ್ರತಿಕೂಢಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 356: garbled label "॥ ವಿರಹವಿಷಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 359: garbled label "ಪ್ರ, ಕ್ರಿಪಾಪಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 360: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 364: garbled label "ಸಿತೇಷುವಿಷಯಗಳೆ:" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 370: garbled label "॥ ಪ್ರತಿಸದರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 370: garbled label "ವಿಶೇಷವಿವರಗಳು:" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 371: garbled label "॥ ವ್ಯಾಕರಣಪಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 372: garbled label "ಸಂಧಿ ತಾಸಾರಃ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 372: garbled label "ಪ್ರತಿವರ್ಷ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 374: garbled label "ಸಾಯಭಃಷಷ್ಟಿಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 375: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 376: garbled label "ಸಂಹಿತಾಪಾರ್ಶ್ವ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 377: garbled label "॥ ಪ್ರತಿಸಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 378: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 380: garbled label "ಪ್ರಕಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 380: garbled label "ಭುವನಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 381: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 383: Devanagari letters rewritten as Kannada in: ಗಯ ಽ ಸ್ಥಾನಃ । ಪ್ರ ಽ ತರಣಃ। ಸು ಽ ವೀರಃ। ಅವೀ
+- p. 383: garbled label "ಕಾಯಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 387: garbled label "ಸಾಯುಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 388: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 389: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 390: garbled label "ಸಂಹಿ ತಾಹತೇ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 390: garbled label "೧ ಕದಂಬ ೩ ೧" -> ಪದಪಾಠಃ
+- p. 390: Devanagari letters rewritten as Kannada in: ಭರೇಷು ಽ ಜಾಂ । ಸು ಽ ಕ್ಷಿತಿಂ । ಸು ಽ ಶ್ರವಸಂ
+- p. 390: garbled label "ಸಾಹಿತ್ಯಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 391: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 393: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 394: garbled label "ಪಠ್ಯ" -> ಪದಪಾಠಃ
+- p. 394: garbled label "॥ ಸಾರಂಗಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 395: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 398: garbled label "ಸಹಾಯಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 404: garbled label "ಸಾಯುಜಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 404: garbled label "ಃ ಪ್ರತಿಪಾದ್ಯಃ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 405: garbled label "ವಿಶೇಷವಿವರಗಳು:" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 406: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 408: garbled label "ಪ್ರತಿವಾದಿ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 409: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 409: garbled label "ವ್ಯಕ್ತಿಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 414: garbled label "ಸಾಯಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 418: garbled label "ಸಾಯುಜಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 419: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 419: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 423: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 424: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 425: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 426: garbled label "೧ ಸಂಹಿತಾ ೪೨೦" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 426: garbled label "ಹದಿನಾಲ್ಕು" -> ಪದಪಾಠಃ
+- p. 426: garbled label "ಸಾಯುಣಭಟ್ಟಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 426: picture line [figure: vol7/html/figures/fig_line01568.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 427: garbled label "ಪ್ರತಿಪಾದ್ಯ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 427: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 430: picture line [figure: vol7/html/figures/fig_line01711.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 431: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 433: garbled label "28 VOLUME 7" -> ಪದಪಾಠಃ
+- p. 434: garbled label "ಪ್ರತಿಕೂಲಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 437: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 438: garbled label "ಪಂಹಿ ತಾಸಾತ್" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 439: Devanagari letters rewritten as Kannada in: ಪುನಃ ಽ ಪುನಃ । ಜಾಯಮಾನಾ । ಪುರಾಣೀ । ಸಮಾನಂ ।
+- p. 445: garbled label "ಸಾಯುಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 445: picture line [figure: vol7/html/figures/fig_line02303.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 446: garbled label "। ವಿಶೇಷವಿಸಯಗಳು ।" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 448: garbled label "॥ ಸ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ ॥" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 450: garbled label "ಸಾಯಣಭಾಷ್ಯ c" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 454: Devanagari letters rewritten as Kannada in: ಉಷಃ । ತತ್ । ಚಿತ್ರಂ । ಆ । ಭರ । ಅಸ್ಮಭ್ಯಂ ।
+- p. 465: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 465: garbled label "ಸ್ನಾಕರಣಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 466: garbled label "ಸಂಹಿ ಶಾಪಾರ್ಣ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 467: garbled label "ಪ್ರತಿಪಾದ್ಯ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 467: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 471: garbled label "ಭಾನುವಾರ" -> ಭಾವಾರ್ಥ
+- p. 473: garbled label "if ಸಂಹಿತಾಪಾಠೇ ।'" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 473: picture line [figure: vol7/html/figures/fig_line03438.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 476: Devanagari letters rewritten as Kannada in: - ಓಂ -
+- p. 476: picture line [figure: vol7/html/figures/fig_line03545.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 477: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 479: picture line [figure: vol7/html/figures/fig_line03668.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 483: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 484: garbled label "೦ ಪದಪಾಠಿ ೦" -> ಪದಪಾಠಃ
+- p. 484: picture line [figure: vol7/html/figures/fig_line03874.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 485: garbled label "ಪ್ರಸಿಹವಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 494: picture line [figure: vol7/html/figures/fig_line04240.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 497: garbled label "ಪಡೆದರು" -> ಪದಪಾಠಃ
+- p. 497: garbled label "॥ ಸಾಯಣಭಾಷ್ಯ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 500: garbled label "ಸಂಹಿತಾಕಾರರು" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 501: garbled label "ಭಾಷಾರ್ಧ" -> ಭಾವಾರ್ಥ
+- p. 501: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 503: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 503: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 506: garbled label "ಕಾಯಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 506: garbled label "ಪ್ರತಿವರ್ಧ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 506: picture line [figure: vol7/html/figures/fig_line04694.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 507: garbled label "ವಿಶೇಷವಸ್ತುಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 511: garbled label "ಸಾಹಾಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 515: garbled label "ಸಯಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 517: garbled label "ಸ್ನಾಕರಣಪ್ರಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 519: garbled label "ಸಾಯಣಭಾಸ್ಕರ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 521: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 522: garbled label "ಪವಷಾರ್ಕ" -> ಪದಪಾಠಃ
+- p. 522: garbled label "॥ ಸಯಣಭಾಷ್ಯಃ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 525: garbled label "ಸಂಹಿತಾಪಾರಕಃ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 525: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 525: garbled label ", ಸಾಯುಧಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 526: garbled label "ಭಾಷಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 529: Devanagari letters rewritten as Kannada in: ಪೋತಾ । ಜನುಷಾ । ಪುರಃ ಽ ಹಿತಃ ।
+- p. 530: garbled label "ಪ್ರತಿಸದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 533: garbled label "ಸಾಯುಧಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 534: garbled label "ಪ್ರ,ತಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 536: garbled label "ಸಂಜಾತಾಪಾಠ" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 536: garbled label "ಹಸಹುಡಿ" -> ಪದಪಾಠಃ
+- p. 536: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 537: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 537: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 539: garbled label "॥ ಜಯಣಭಾಷ್ಯಃ ।" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 540: garbled label "ವಿಶೇಷವಿವರಗಳು:" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 544: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 544: label English Translation missing: inserted before the Latin text
+- p. 545: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 547: garbled label ".i ಸಾಯಣಭಾಷ್ಯಂ li" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 547: garbled label "ಪ್ರಸಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 548: garbled label "ವ್ಯಾಕರಣಪಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
+- p. 549: picture line [figure: vol7/html/figures/fig_line06340.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 550: garbled label "ಪ್ರಶಿಪದಾರ್ಥ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 553: garbled label "॥ ಪ್ರತಿಸಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 553: picture line [figure: vol7/html/figures/fig_line06471.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 556: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 556: garbled label "ಸಾಯುಣ ಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 560: garbled label "ಸಯಾಣಭಾಷ್ಯಂ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 560: garbled label "ಪ್ರತಿಸರ್ಪ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 560: picture line [figure: vol7/html/figures/fig_line06724.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 564: garbled label "॥ ಪವಪಾರ ॥" -> ಪದಪಾಠಃ
+- p. 564: garbled label "ಸಾಹಣಭಾಷ್ಯ C" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 565: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 567: garbled label "ವ್ಯಾಕರಣಕ್ರಿಯಾ" -> ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ
