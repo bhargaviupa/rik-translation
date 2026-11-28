@@ -6,7 +6,7 @@ line; one that consists only of one italic run is a small grey line in volbook. 
 (CSS does not count the text around it): "**(1)** At the beginning of the book …" came out as a centred "(1)" on a line of its own, while
 "**(2)** *The Bhashya-bhumika* …" (two runs) did not (Vol 1, PDF p. 19; user, Nov 26 2026).  The paragraphs are now marked here by class
 (`only-strong`, `only-em`) and the stylesheets select the class."""
-import re
+import re, html
 _ONLY = re.compile(r'<p>\s*<(strong|em)>((?:(?!</?\1>).)*)</\1>\s*</p>', re.S)
 def label_paragraphs(doc):
     return _ONLY.sub(lambda m: f'<p class="only-{m.group(1)}"><{m.group(1)}>{m.group(2)}</{m.group(1)}></p>', doc)
@@ -20,15 +20,23 @@ def lists(doc):
     return _OLSTART.sub(lambda m: f'<ol{m.group(1)} start="{m.group(2)}" style="counter-reset: list-item {int(m.group(2)) - 1}"{m.group(3)}>', doc)
 
 # ---- contents pages: ONE format in every volume and builder (user, Nov 26 2026): a table  No. | Contents | Page
-def contents_table(rows, note='Page numbers are the pages of this book.', head=('No.', 'Contents', 'Page')):
+def contents_table(rows, note='', head=('No.', 'Contents', 'Page')):
     """rows: dicts {kind: 'row'|'head', no, html, href (link target, page of THIS book printed by CSS) or page (text printed as it is), pre (html put
-    in front of the row's text, e.g. an invisible page mark)}.  Styling: style_footer.css, table.contents."""
+    in front of the row's text, e.g. an invisible page mark)}.  Styling: style_footer.css, table.contents.
+    Every entry is a link (REQUIREMENTS A4 rule 2): the number, the text and the page number are each an anchor that fills its cell, so the whole
+    row is clickable.  The text is not wrapped when it already holds a link (a nested link is not valid)."""
     out = ['<table class="contents"><thead><tr><th class="no">%s</th><th>%s</th><th class="pg">%s</th></tr></thead><tbody>' % head]
+    numbered = any(r.get('no') for r in rows if r.get('kind') != 'head')          # sub-items are indented only where the table has numbered entries
     for r in rows:
         if r.get('kind') == 'head':
             out.append(f'<tr class="hd"><td colspan="3">{r.get("pre", "")}{r["html"]}</td></tr>'); continue
-        pg = f'<a class="pgref" href="{r["href"]}"></a>' if r.get('href') else (r.get('page') or '')
-        out.append(f'<tr><td class="no">{r.get("no") or ""}</td><td class="tx">{r.get("pre", "")}{r["html"]}</td><td class="pg">{pg}</td></tr>')
+        h = r.get('href')
+        pg = f'<a class="pgref ce" href="{h}"></a>' if h else (r.get('page') or '')
+        no, tx = r.get('no') or '', r['html']
+        if h:
+            if no: no = f'<a class="ce" href="{h}">{no}</a>'
+            if '<a ' not in tx: tx = f'<a class="ce" href="{h}">{tx}</a>'
+        out.append(f'<tr{" class=\"sb\"" if numbered and not r.get("no") else ""}><td class="no">{no}</td><td class="tx">{r.get("pre", "")}{tx}</td><td class="pg">{pg}</td></tr>')
     out.append('</tbody></table>' + (f'<p class="cnote">{note}</p>' if note else ''))
     return '\n'.join(out)
 
@@ -329,6 +337,28 @@ def mark_slots(doc):
                 found['original_preface'] = True
     return doc, found
 
+_BL_HEAD = re.compile(r'(<h[12] class="(?:[^"]*\s)?(?:sukta|part|book|chapter)(?:\s[^"]*)?")([^>]*>)(.*?)(</h[12]>)', re.S)
+def backlinks(doc):
+    """A small link "↑ Contents" in the corner of every Maṇḍala/adhyāya/sūkta heading, back to the start of the contents (user, Nov 28 2026,
+    REQUIREMENTS A4 rule 2).  The link sits inside the heading (position: relative in style_footer.css), so the bookmark label is kept apart
+    in data-bm (the plain text of the heading) and the heading's own text is untouched.  Nothing is done in a book without a contents table."""
+    t = doc.find('<table class="contents"')
+    if t < 0: return doc, 0
+    s = doc.rfind('<section', 0, t)
+    if s >= 0:
+        m = re.match(r'<section\b[^>]*>', doc[s:])
+        if m and ' id="' not in m.group(0): doc = doc[:s] + m.group(0)[:-1] + ' id="contents-top">' + doc[s + len(m.group(0)):]
+        target = 'contents-top' if ' id="' not in m.group(0) else re.search(r' id="([^"]+)"', m.group(0)).group(1)
+    else:
+        doc = doc.replace('<table class="contents"', '<table id="contents-top" class="contents"', 1); target = 'contents-top'
+    n = [0]
+    def rep(m):
+        if 'toplink' in m.group(3) or 'data-bm' in m.group(2): return m.group(0)
+        n[0] += 1
+        plain = html.escape(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', m.group(3))).strip(), quote=True)
+        return f'{m.group(1)[:-1]} hl"{m.group(2)[:-1]} data-bm="{plain}">{m.group(3)}<a class="toplink" href="#{target}">↑ Contents</a>{m.group(4)}'
+    return _BL_HEAD.sub(rep, doc), n[0]
+
 def fix(doc, quiet=False, stamp_it=True):
     """Every print rule that holds for all volumes (docs/REQUIREMENTS.md, A4 "Print rules"), applied to the finished HTML of any builder.
     Prints one line of counts, so that each build shows what was done."""
@@ -341,6 +371,7 @@ def fix(doc, quiet=False, stamp_it=True):
     doc = toc_tables(contents_sections(doc)); c['contents tables'] = doc.count('<table class="contents">')
     doc = lists(doc); c['lists continued'] = doc.count('<ol class="cont"')
     doc = headings(doc); c['two-line headings'] = doc.count('class="ht1"')
+    doc, c['back-links to the contents'] = backlinks(doc)
     doc = sanskrit(doc); c['transliterations on their own line'] = doc.count('<em class="iast">')
     doc, c['English of quotations not printed'] = quotations(doc)
     doc, c['Kannada-script places'] = no_kannada(doc)
