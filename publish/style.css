@@ -34,6 +34,7 @@ p { margin: 0 0 .55em; }
 
 /* contents */
 .toc { page: roman; page-break-before: always; }
+.toc.endtoc { page: auto; }          /* a contents placed at the end of the book keeps the arabic numbers */
 .toc h2 { text-align: center; font-size: 15pt; font-weight: 400; letter-spacing: .12em; margin-bottom: .3in; }
 .toc ul { list-style: none; padding: 0; margin: 0; }
 .toc li { margin: .28em 0; text-align: left; }

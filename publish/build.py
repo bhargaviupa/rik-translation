@@ -150,7 +150,7 @@ def front_matter(vol, vtitle, entries, cover='cover_vol3.jpg', toc_html=None):
             toc.append('<li class="rl"><ul class="riks">' + ''.join(
                 f'<li><a href="#{rid}">{html.escape(rl)}</a></li>' for rid, rl in riks) + '</ul></li>')
     toc = '\n'.join(toc)
-    toc_block = toc_html or ('<section class="toc"><h2>Contents</h2><p class="tocsub">Sūkta by Sūkta, and Rik by Rik</p><ul>' + toc + '<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>')
+    toc_block = toc_html if toc_html is not None else ('<section class="toc"><h2>Contents</h2><p class="tocsub">Sūkta by Sūkta, and Rik by Rik</p><ul>' + toc + '<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>')
     return f'''
 <section class="cover"><img src="assets/{cover}" alt="Original Kannada cover">
   <div class="cap">Ṛgveda-saṃhitā &nbsp;·&nbsp; Volume {vol} &nbsp;·&nbsp; English Translation</div></section>
