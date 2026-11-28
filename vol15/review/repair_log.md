@@ -15,3 +15,4 @@
 - 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 23, en kannada 6, en latin 74, en latin-twin 20, kn kannada 34; every change is a row of review/refs_applied.tsv.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: kn kannada 2; every change is a row of review/refs_applied.tsv.
 - front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 0 NOTE rows added at the top of review/notes.tsv.
+- 2026-11-28: the 'preface' entry removed from vol15/frontmatter_en.json (the Pīṭhike now stands in the English file); board, abbreviations and contents stay. volbook.py prints a preface from the JSON only if the entry exists.
