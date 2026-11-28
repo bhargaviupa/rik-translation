@@ -96,7 +96,7 @@ def scan(img, cls='scan', alt=''):
 
 def contents_html(cfg):
     c = cfg['contents']
-    lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
+    lines = (ROOT / c.get('source', cfg['supplied_md'])).read_text(encoding='utf-8').split('\n')   # 'source': contents transcribed from the user's scan (Vols 28–30)
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
     blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)

@@ -1,0 +1,13 @@
+# Vol 28 contents source (2026-11-28)
+- `contents_scan.pdf`: the user's scan of the original contents (4 pages, pp. v-viii, image only).
+- `contents_kn.md`: transcribed from the scan (all 4 pages looked at as images, the dense parts at 220 dpi). The machine-read text of `html/rig_28.md` was not used (shifted sūkta numbers, wrong pages; see `review/repair_log.md`).
+- `make_contents_en.py` builds `../contents_en.json` (Sanskrit incipits copied from the Kannada lines by script).
+- Printed pp. 162, 604, 605 are not in the supplied text; no contents row points there, so `contents_target_overrides` is empty.
+- Doubtful or as-printed readings, kept as seen:
+  - Sūkta 44 incipit read "ಆ ಯಾತ್ವಿಂದ್ರಃ" (the scan's glyph for ತ್ವ is cramped).
+  - Sūkta 48, nirukta item: "ಅಭೀ ೩ ದಂ" (stray numeral as printed).
+  - Sūkta 51 incipit "ಮಹತ್ತದುಲ್ಪಂ" as printed (the Saṃhitā has ulba-).
+  - Page of Sūkta 69 read 583 (last digit blurred in the scan; 575-602 around it).
+  - "ಇಳಃ" (Āprī) page read 617 (the first digit is printed like a 9 or g; between 614 and 620).
+  - "ಸಕ್ತುಮಿವ ತಿತಉನಾ" and "ನಕ್ತೋಷಾಸಾ", "ತ್ವಷ್ಟಾ", "ಉತ ತ್ವಃ ಪಶ್ಯನ್" read at 90 dpi only.
+  - Sūkta 49 and 66 headings print "ಅಹಂ ದಾಂ"/"ಅರವತ್ತಾರನೇ"; the ordinal word of Sūkta 64 is printed without a space ("ಅರವತ್ತನಾಲ್ಕನೆಯಸೂಕ್ತ").

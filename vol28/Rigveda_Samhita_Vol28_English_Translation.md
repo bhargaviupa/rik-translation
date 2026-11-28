@@ -4674,6 +4674,7 @@ The forty-eighth sūkta. Introduction. In this sūkta and in the next, Indra him
 The reason Indra got the name Mahān Indra. There is an ancient story in the Aitareya Brāhmaṇa about how the title Mahān (great) came to Indra.
 इंद्रो वै वृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्प्रजापतिमहमेतद सानि यत्त्वमहं महासनानीति स प्रजापतिरब्रवीदथ कोऽहमिति यदैवैतदवोच इत्यब्रवीत्ततो वै को नाम प्रजापतिरभवत्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्नहेंद्रस्य महेंद्रत्वं । (*iṃdro vai vṛtraṃ hatvā sarvā vijitīrvijityābravītprajāpatimahametada sāni yattvamahaṃ mahāsanānīti sa prajāpatirabravīdatha ko 'hamiti yadaivaitadavoca ityabravīttato vai ko nāma prajāpatirabhavatko vai nāma prajāpatiryanmahāniṃdro 'bhavattannaheṃdrasya maheṃdratvaṃ |*) (Ai. Brā. 12-21)
 Formerly, after Indra had slain Vṛtra, he conquered all the regions of the earth, and said to Prajāpati: "O Prajāpati, you have now gained a great station and are worshipful. Henceforth I want your great position." Prajāpati asked, "If you take my position, who (कः (*kaḥ*)) am I? What is my station?" To this Indra said: "O Prajāpati, as you yourself have just said, your name henceforth shall be Ka (who); that is, you will be denoted by the word Ka." Therefore from that time Prajāpati became denoted by the word Ka. This is well known. For that very reason the matter is stated in the pratigraha mantras, to be recited when one accepts any gift, that is, क इदं (*ka idaṃ*)
+
 ### Printed p. 143
 कस्मा अदादित्याह । प्रजापतिर्वै कः । प्रजापतय एव तद्ददाति (*kasmā adādityāha | prajāpatirvai kaḥ | prajāpataya eva taddadāti*) is the Brāhmaṇa sentence of the other Vedas. Since the word Ka has the meaning "happiness", in dealings and matters concerning Prajāpati he is said to be of the nature of happiness. Since Indra thus took over the greatness of Prajāpati, the designation Mahān came to Indra; that is, Indra became Mahān Indra. This is stated in the other Vedas: इंद्रो वृत्रमहन्तं देवा अब्रुवन्महान्वा आयमभूद्यो वृत्रमवधीदिति तन्नहेंद्रस्य महेंद्रत्वं । (*iṃdro vṛtramahantaṃ devā abruvanmahānvā āyamabhūdyo vṛtramavadhīditi tannaheṃdrasya maheṃdratvaṃ |*). The gods, praising Indra's slaying of Vṛtra, said: since this Indra slew Vṛtra he has become Mahendra (gained a great position), that is, he has become the best of all the gods. This is said to be the reason why the name Mahendra came to Indra.
 
@@ -6768,6 +6769,7 @@ Indra, the leader of all men, the creator of all, whose venerable strength
 and abundant food and wealth, heaven and earth adore.
 
 #### Ṛk 2
+
 ### Printed p. 215
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -7903,6 +7905,7 @@ Questioned thus by Agni, the gods reply. O Jātavedas, O Agni of born wisdom, we
 - ऐच्छाम (*aicchāma*)—we desired to know and sought
 - चित्रभानो (*citrabhāno*)—O Agni of adorable (attractive) radiance
 - दशांतरुष्यात् (*daśāṃtaruṣyāt*)—from your ten secret dwelling-places
+
 ### Printed p. 262
 - अतिरोचमानं (*atirocamānaṃ*)—shining forth
 - तं त्वा (*taṃ tvā*)—you, the renowned
@@ -7940,6 +7943,7 @@ The gods: O Agni, Jātavedas, we all desired to know you, who had entered in man
 ##### Gist of the bhāṣya
 
 Concluding that the company of gods has recognised him by this, Agni states the purpose of his hiding. O Varuṇa, I have come afraid of the होत्रात् (*hotrāt*), that which is to be offered, that is, the carrying of the oblation. Therefore the gods must not again employ me, as before, in this task of carrying the oblation. Of me, afraid in this way, the bodies have entered in many ways into the waters.
+
 ### Printed p. 263
 
 > निविष्टा अप्पु । एतमर्थमेतद्धनिर्वहनकार्यमग्निरहं न चिकेत । न बुध्ये ।
@@ -10407,6 +10411,7 @@ Here, by the way, Uṣas belonging to Indra in his solar form is praised. O Uṣ
 ##### भावार्थ (Bhāvārtha)
 
 O goddess Uṣas, by your greatness by which you shone as the first before the luminous Ādityas and the rest, by your majesty by which you produced Āditya, the nourisher of the whole world,
+
 ### Printed p. 335
 and by your generosity by which, though you are in a lofty station, your relationship is with the lower world: such exceeding power of yours, of great nature, is unique.
 
@@ -11973,6 +11978,7 @@ Although your spirit have gone far away to the remotest regions, we bring back t
 - दूरकं (*dūrakaṃ*)—as if far from us
 - भूतं (*bhūtaṃ*)—in the principles of past time
 - भव्यं (*bhavyaṃ*)—in the principles of future time
+
 ### Printed p. 373
 - जगाम (*jagāma*)—even if it has gone and become one
 - तत् ते (*tat te*)—that same spirit of yours
@@ -13821,6 +13827,7 @@ At the time when Rudra protects our sacrifice, the Rākṣasa who can burn like 
 ##### English translation
 The fire, harming the people, does not approach qnically (by day):
 the naked (Rakshasas approach) not Agni by night;  the giver of fuel, and
+
 ### Printed p. 423
 the giver of food, he the upholder (of the rite), is born, overcoming
 enemies by his might.
@@ -13872,6 +13879,7 @@ The Navagvas are Aṅgirases. Among the Aṅgirases performing the sacrificial s
 ##### भावार्थ (Bhāvārtha)
 
 The Aṅgirases, called Navagvas, who recite the praise useful for the sacrifice, quickly attained the friendship of the cow named Pṛśni. Those Aṅgirases who had a place in both heaven and earth approached Indra the protector. Receiving no fee, they milked out the imperishable waters.
+
 ### Printed p. 424
 
 ##### English translation
@@ -13914,6 +13922,7 @@ Quickly (मक्षु (*makṣu*)), having obtained a newer (नवीयः 
 - पयः (*payaḥ*)—in the form of milk
 - रेक्णः (*rekṇaḥ*)—the wealth
 - यत् (*yat*)—when
+
 ### Printed p. 425
 - यत् (*yat*)—when
 - ते (*te*)—towards you
@@ -13958,6 +13967,7 @@ Quickly (obtaining) the friendship of the maiden, they poured forth water like n
 ##### Gist of the bhāṣya
 
 When the worshippers afterwards (पश्चा (*paścā*)) found their own cow-stalls bereft (वियुता (*viyutā*)) of the herd of cattle (पश्वा (*paśvā*)), at that time the poet (कारवः (*kāravaḥ*)), that is the praiser, speaks (ब्रवीति (*bravīti*)) thus. What does he say? Indra, delighting (रराणः (*rarāṇaḥ*)) in the speaker, the praiser, is the one who gives dwelling more abundantly than the dweller-giver (वसोः (*vasoḥ*)) (वसुत्वा (*vasutvā*)). Or else वसुत्वा (*vasutvā*) has the affix त्वा (*tvā*) in the sense of a collection: he who has the greatest herd of cows, wealth in the form of cattle. Indra, the sinless (अनेहा (*anehā*)), quickly (क्षु (*kṣu*), that is मक्षु (*makṣu*)) approaches (उप विवेष्टि (*upa viveṣṭi*)), pervades, all (विश्वं (*viśvaṃ*)) the wealth (द्रविणं (*draviṇaṃ*)) in the form of cows carried off by the Paṇis, in order to take it back. The meaning is that when Indra's praisers learn that their cattle have been carried off by the Asuras, Indra arrives beforehand and holds the Asuras back.
+
 ### Printed p. 426
 
 ##### प्रतिपदार्थ (Pratipadārtha)
@@ -14009,6 +14019,7 @@ all the wealth (that has been carried off )."
 ##### Gist of the bhāṣya
 
 Right there, quickly, the attendants (परिषद्वानः (*pariṣadvānaḥ*)) of this Indra, namely the rays abiding around him, came forth (अग्मन् (*agman*)) to shine. The Asuras, sitting (सदंतः (*sadaṃtaḥ*)) in many artificial forms (पुरु (*puru*)), wished to split (बिभित्सन् (*bibhitsan*)) the son of Nṛṣad (नार्षदं (*nārṣadaṃ*)). Moreover, this Indra
+
 ### Printed p. 427
 
 > कस्यासुरस्य पुरुप्रजातस्य बहुप्रादुर्भावस्य संग्रथितं मर्म विदत् । वेत्ति ।
@@ -15144,6 +15155,7 @@ These Rirhis, however different in form, are verily of profound piety: they are 
 ##### विशेषविषयगळु (Special Topics)
 
 Explaining the form-derivation of the word Aṅgiras, Yāska says अंगारेष्टंगिराः । अंगारा अंकनाः ॥ (*aṃgāreṣṭaṃgirāḥ | aṃgārā aṃkanāḥ ‖*) (Ni. 3-17). That is, they got the name Aṅgirāḥ because they were born in the aṅgāras (embers).
+
 ### Printed p. 453
 What is an aṅgāra? Where it is placed, the place turns black, hence the name अंकनाः (*aṃkanāḥ*). Having said this, he explains the present Ṛk thus: बहुरूपा ऋषयस्ते गंभीरकर्माणो वा गंभीरप्रज्ञा वा ते अंगिरसः पुत्रास्ते अग्नेरधिजज्निर इत्यग्निजन्म ॥ (*bahurūpā ṛṣayaste gaṃbhīrakarmāṇo vā gaṃbhīraprajñā vā te aṃgirasaḥ putrāste agneradhijajnira ityagnijanma ‖*) (Ni. 11-17).
 When Prajāpati desired the deity of heaven or the deity Uṣas, his semen fell on the earth and stood in the form of a great lake. When the gods kindled it with the help of Vaiśvānara Agni, from that blazing fire Āditya, Bhṛgu and the Aṅgirases were born; this is known from the narrative of the Aitareya Brāhmaṇa (Ai. Brā. 13-34). Because they were born of fire or of embers, these seers got the name Aṅgirasas, and they are also called sons of Agni. That is what is said here: these seers are बहुरूपाः (*bahurūpāḥ*), of many kinds of form; गंभीरवेपसः (*gaṃbhīravepasaḥ*) means doers of profound works, or of immeasurable intelligence. This is the meaning of the explanation.
@@ -15170,6 +15182,7 @@ When Prajāpati desired the deity of heaven or the deity Uṣas, his semen fell 
 ##### Gist of the bhāṣya
 
 The Aṅgirases of various forms who were born around Agni from the heaven-world. Or else, दिवस्परि (*divaspari*): परि (*pari*) indicates the ablative sense; they were born of Agni shining with his own radiance. Among them नवग्व (*navagva*) and दशग्व (*daśagva*) are the foremost of the Aṅgirases. Of the Aṅgirases sitting at a sattra, some rose after performing the rite for nine months, some after ten; thus the Aṅgirases' session is described. Of them Agni is called navagva and daśagva. Such an Agni, abiding with the gods, मंहते (*maṃhate*): gives me wealth; मंहति (*maṃhati*) is a verb of giving.
+
 ### Printed p. 454
 
 ##### प्रतिपदार्थ (Pratipadārtha)
@@ -15215,6 +15228,7 @@ For an explanation of the words navagva and daśagva, see Ṛ. Saṃ. pages 18-5
 ##### Gist of the bhāṣya
 
 The वाघतः (*vāghataḥ*), bearers of the rites, namely all the gods or the Aṅgirases, with Indra as युजा (*yujā*) (helper), निः सृजंत (*niḥ sṛjaṃta*): led out the
+
 ### Printed p. 455
 
 > रवरुद्धं व्रजं । ते मे मां प्रति सहस्रं सहस्रसंख्याकं धनं सत्प्रपरिवेषणमष्टकर्ण्यः ॥ अष्ट इति अशू व्याप्त निष्ठायां रूपं ॥ विस्त्रतकर्णाः । उपलक्षणमेतत् ।
@@ -15255,6 +15269,7 @@ The accepters of oblations, with Indra for their associate, have emptied pasture
 This Ṛk refers to the Aṅgirases giving a thousand cows to Nābhānediṣṭha at the conclusion of the sattra they were performing. On this matter the sage Śaunaka says in his work Bṛhaddevatā:
 ऋषयोंगिरसस्तुष्टा यद्ददुर्मानवाय तु । (*ṛṣayoṃgirasastuṣṭā yaddadurmānavāya tu |*)
 तत्पुण्याय च कर्माणि ये यज्ञेनेत्यकीर्तयत् ॥ (*tatpuṇyāya ca karmāṇi ye yajñenetyakīrtayat ‖*)
+
 ### Printed p. 456
 That is, the Aṅgirases, pleased with the mantra recited by Nābhānediṣṭha, gave him cows. Nābhānediṣṭha described this in the present sūkta beginning ये यज्ञेन (*ye yajñena*).
 
@@ -15302,6 +15317,7 @@ In the four following Ṛks, what Sāvarṇi gave to this seer, the son of Manu,
 ##### भावार्थ (Bhāvārtha)
 
 May this Manu called Sāvarṇi, who impels the giving to this seer of many horses and thousands of cows, accompanied by his sons and wealth, be born forth right now, like a seed soaked in water quickly sprouting.
+
 ### Printed p. 457
 
 ##### English translation
@@ -19982,6 +19998,7 @@ Maṇḍala 10. Anuvāka 5. Sūkta 68. Aṣṭaka 8. Adhyāya 2. Varga 17, 18. N
 - वयः (*vayaḥ*)—driving away birds
 - रक्षमाणाः न (*rakṣamāṇāḥ na*)—as farmers who protect the crops from birds make a noise when driving the birds away
 - वावदतः (*vāvadataḥ*)—repeatedly thundering **NOTE**
+
 ### Printed p. 576
 - अभ्रियस्य (*abhriyasya*)—of the cloud
 - घोषा इव (*ghoṣā iva*)—like the sound
@@ -20895,6 +20912,7 @@ O Agni, belonging to Vadhryaśva, be possessed of food. Be our protector. Let no
 Kinsman of Vadhryashwa, be the possessor of food and our protector; let one assail you, (for you are) the overcomer of men; like a resolute warrior (you are) the overthrower (of enemies); I, Sumitra, celebrate the names of the kinsmen of Vadhryashwa,
 
 #### Ṛk 6
+
 ### Printed p. 595
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)

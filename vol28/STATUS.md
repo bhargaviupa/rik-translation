@@ -24,7 +24,8 @@ Done through printed p. 674 (final). Audit PASS; Kannada headings written (31 s�
 3. Kannada prose quoted as Sanskrit blocks in the supplied text (Eighth-Aṣṭaka title page and Pīṭhike pp. 89–99; a few lines on pp. 41, 271, 320, 629) appear as Kannada-in-Devanagari blocks in the English file.
 4. Accent report: 173 Saṃhitā lines not matched without `--api` (`review/accent_report_pages.tsv`).
 5. English review PDF built 2026-11-28 on `claude/vol28-pdf` (`review/vol28_full_Eng.pdf`, 1162 pages, pdf_check passes); press, year and imprint print as "[… to be supplied]"; no contents page from the original (the shared step set a table of Sūktas from the headings); Kannada print PDF not part of that build.
-6. Not done: merge to `main`.
+6. English contents page added 2026-11-28 on `claude/vol28-contents` from the user's scan (`contents_src/`; 31 sūktas, 126 rows; English PDF 1168 pages, pdf_check passes, all contents links resolve; no override needed; doubtful readings listed in `contents_src/NOTES.md`); page marks glued to the line before were separated (repair_log).
+7. Not done: merge to `main`.
 
 ## Metrics
 (to be filled at the end)
