@@ -132,6 +132,14 @@ The credits of the original edition are either marked clearly as taken from the 
 ### A5. Kannada book
 The text of the original, page by page, with its Sanskrit in Kannada script. Nothing of ours stands in it beyond what is needed to find a page, a sūkta or a Ṛk. (F9) **The changes of Parts C, K and O (the bhāṣya as a reference, the Sāyaṇa book, the dictionary, the tags) concern the English translation only; the Kannada book remains similar to the original and keeps the bhāṣya as the original has it** (user, Nov 22 2026); its text is corrected only as B1.6 and B5.4 say.
 
+
+### A6. The choice of what goes into a PDF (user, Nov 27 2026)
+- **The user decides, for each PDF, which elements of the volume are in it and which are left out.** The `.md` files stay complete: a choice is made when the PDF is built, in memory, and changes no file. **Nothing is left out unless it is named.**
+- **The elements** are named by one list (`publish/tools/elements.py`): `samhita`, `pada`, `bhashya`, `gist`, `pratipada`, `bhavartha`, `printed_en` (the English printed in the edition, C6), `special`, `grammar`, `anuvada`, `particulars`. The choice is given per PDF (`kan:` / `eng:`), as a default per volume (`pubcfg.json` `"without"`) or on the command line (`--without`).
+- **Every build reports** per element the sections and lines left out, and lists each left-out section of more than 150 lines, because a missing label would let a section swallow its neighbour. The printed English ends at the first line in Kannada or Devanagari letters for the same reason.
+- **What a choice must never do:** remove a page mark (the pages of the md equal the pages of the PDF, D23), remove an element that was not named, or change a file.
+- **What the requirement needs from the volumes:** the same element must be found by the same label in every volume. The Kannada Text files meet this; the English files of the current layout (family A) meet it; the older English files need an alias table (family B) or do not meet it at all (family C: Vols 1–9; Vols 6–9 have no Ṛk structure). Which volume is which: Part L-C. The legacy English is not converted for this (F51).
+- **First use:** leaving out the edition's printed English (C6), which is a second English translation beside ours (F50: whether by default).
 ---
 
 ## B. Generic rules (hold everywhere in a volume)
@@ -231,6 +239,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### C6. English of the edition
 - Reproduced from the original. Heading: (F5).
+- **May be left out of a PDF** by the choice of A6 (`printed_en`); the md keeps it. Whether it is left out by default: F50.
 
 ### C7. Special Topics
 - English. Every Sanskrit quotation in three layers, in full, never summarised or shortened; its closing daṇḍa and abridgement dots belong to it; with its reference in the text (B3.1). A quotation the Kannada does not translate is glossed only as B3.5 says (F18).
@@ -276,6 +285,8 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | D20 | **No letter of a foreign script in either file** (Telugu, Cyrillic, Tamil, … came from OCR and from the model's typing): a Telugu or Cyrillic letter in the English or Kannada text is transliterated by script to the script of the file, or listed. | script | B2 |
 | D21 | **Page marks of the two files agree** (`### Printed p. N` ↔ `<!-- printed N -->`, same pages in the same order); the printed numbers that have no page mark of their own are listed (`review/page_flags.md`). | script | A4 |
 | D22 | **The built PDF, counted** (`python3 publish/pdf_check.py N`): no ◌; no "original p. N" in the body; the footer with the page number, "Kannada edition p. N" and, on a review copy, REVIEW COPY on the body pages; and the number of lines that still show `[?]`, `[sic]`, "as printed", "as supplied", `NOTE`, `GLOSS` or words of the translating session. The first three fail the check; the counts must be 0 for a release (D9) and are reported for a review copy. | A1, A4, B2.5, B4 |
+| D23 | **Page marks of the built PDF.** The page marks of the HTML/PDF equal the page markers of the md (`### Printed p. N`, `<!-- printed N -->`), with and without any choice of A6. Found Nov 27 2026: a mark glued to the line above it was swallowed by pandoc (Vol 17 Kannada PDF lacked pp. 7, 494, 531, 571, 811); fixed in `pandoc_html()`. *Script: `python3 publish/marks_check.py [N]` (Nov 28 2026); run on the 30 Kannada books it finds no lost mark except Vol 1 (mark `1`).* PDFs built before the fix are to be rebuilt. | script | A4, A6 |
+| D24 | **Content choice report read.** For each element left out, sections left out ≈ the number of Ṛks (printed English, Saṃhitā, Pada, word meanings, Bhāvārtha, gist); every `LONG` line of the report has been looked at; `special` and `grammar` are left out only after that look (Vol 5 Kannada grammar: one section of 6,262 lines = missing labels). | script, user | A6 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
@@ -352,6 +363,8 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F47 | **Missing sūkta introductions and the viniyoga moves.** *Decided Nov 23 2026 (user): yes* to both: the introductions the supplied volumes lack are inserted from the source, and a ritual-use paragraph that the page prints at the end of the previous Ṛk is moved to the front of the next. The list of moves (for Vol 11 `vol11/review/ws_structure.tsv`) stays the record. | K9 |
 | F48 | **The citation level.** *Leaning (user, Nov 23 2026: "units, I think"):* the unit (SBh M.S.R.U) is the address into the Sāyaṇa document; the Ṛk (M.S.R) and the paragraph (M.S.R.P) remain available. | C3, K7, K9.2 |
 | F49 | **Who reads the English of the bhāṣya a second time.** *Decided Nov 23 2026:* the user. | K4.3, Part I, Part J |
+| F50 | **The edition's printed English in the PDF.** *Raised Nov 27 2026 (user, with a recommendation):* it is a second English translation beside ours. Left out of the PDF by default, or kept? The choice itself is decided (A6); the default is not. | A6, C6 |
+| F51 | **Converting the legacy English (Vols 1–9) so that A6 covers them.** *Parked on purpose (user, Nov 27 2026: not now).* Vols 6–9 are organised by page, not by Ṛk; they would need a Ṛk-level structure first. | A6, Part L-C |
 
 ---
 
@@ -659,6 +672,12 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 
 ---
 
+
+### L-C. Content families and the Kannada Text files (counted Nov 27 2026, `tools/rv/element_scan.py`; details `docs/PDF_ELEMENTS.md`)
+**English files, by how their elements are marked:** family **A** = headings `##### …` per element, Vols 11 and 16–30 (the current layout); family **B** = bold-line labels, Vols 10, 12, 14, 15 (Vol 10 has no printed English, word meanings or Bhāvārtha); family **C** = four older dialects, Vols 1–9 (Vols 6–9 page-based, no Ṛk headings). Vol 13: no English file; Vols 22 and 25: none either. The label table of the reader serves A and B; C is not served (F51). Printed-English labels alone have 50 spellings across the files.
+**Kannada Text files** (`volN/Rigveda_Samhita_VolN_Kannada_Text.md`): a file exists for all 30 volumes (Nov 28 2026). Uniform labels were counted on the 25 that existed on Nov 27 (Vols 1–6, 11, 12, 14–30); the A6 choice works on those; Vols 7–10 and 13 came later and have not been counted. Origin: Vols 3, 4, 25 were made whole by `tools/rv/kn_full.py` on Nov 26 2026 from the supplied text (page markers complete, digits and letters checked per page); Vols 7–10, 13 and the translated volumes (22, 26, 28 …) have the files made by their own sessions. **Vol 22 is complete** (pages 1–600, no gaps, 61 sūkta and 471 Ṛk headings; the English has 472 Ṛk headings, one to look at). Gaps that remain: Vol 4 pages 187, 227, 304, 326, 534 and Vol 25 pages 217, 475, 574, 575, 681 have no page of their own in the supplied text.
+**Kannada PDFs (Nov 28 2026):** a review copy of the Kannada book exists for all 30 volumes (`volN/review/volN_full_Kan.pdf`, `publish/BUILD_STATUS.md`; made by `publish/build_all.py N --kan`, configs by `publish/pubcfg_kan.py` from `publish/kan_titles.tsv`). Title-page press and year are printed only where the volume's colophon gives them (Vols 2, 3, 5, 6, 13, 14, 16); for the other volumes they are empty, not guessed. The printed contents page is in the Kannada books of 21 volumes (set from each volume's supplied text by `publish/contents_kan.py`); missing in Vols 4, 8, 9, 10, 11, 17, 20, 28 (Vol 1: own mechanism, not checked). Looked at page by page: Vol 3 only (D14).
+**Reference names** are not yet unified in the new files of Vols 3, 4, 22, 25 (`refs_apply.py --scripts kannada` preview: 762 changes, 683 flagged for a reader).
 ## M. Older volumes (1–10)
 
 *From `docs/LEGACY_VOLUMES_PLAN.md`, `docs/LEGACY_SCAN_WORKFLOW.md` and `docs/DESIGN.md` §7. A proposal, not decided; the open points are F26.*
