@@ -119,7 +119,7 @@ def scan(img, cls='scan', alt=''):
 def contents_html(cfg, marks=None):
     """marks: the page marks of the book (set of ints); a printed contents number that has no mark links to the nearest mark before it (the number shown stays as printed)"""
     c = cfg['contents']
-    lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
+    lines = (ROOT / c.get('source', cfg['supplied_md'])).read_text(encoding='utf-8').split('\n')      # `contents.source`: the user's transcription of the printed contents (volN/contents_src/contents_kn.md), as for the English contents
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
     blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
