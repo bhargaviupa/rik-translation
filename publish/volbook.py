@@ -200,7 +200,7 @@ def contents_en_html(cfg, fe, suk_ids):
             pg = ov.get(str(b['src']), b.get('page'))
             rows.append({'html': t + fn, 'href': f'#p{pg}' if pg else ''})
     out = [f'<section class="econtents"><p class="ph1">{html.escape(h[0])}</p><p class="ph2">{html.escape(h[1])}</p>',
-           printfix.contents_table(rows, note=fe["contents"]["page_note"]), '</section>']
+           printfix.contents_table(rows), '</section>']
     return '\n'.join(out)
 
 NOTE_RX = re.compile(r'^(\[|Running head|\(The supplied|\(In the supplied|\(A small stray|\(Note|Note|Stray line|\(Readings|Title page of the volume)')
