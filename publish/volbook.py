@@ -403,7 +403,7 @@ def references_list_html(cfg, kan=False):
 
 def build_eng(cfg, html_only):
     md = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
-    md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    md = re.sub(r'\n---\n+\*\*Progress note:\*\*[^\n]*\n*\Z', '\n', md)      # only the closing note line; a stray note inside a file used to delete everything after it (Vol 13 Kannada PDF: 5 pages)
     if cfg.get('wikisource') or '--wikisource' in sys.argv:
         # Saṃhitā, Pada and Sāyaṇa-bhāṣya from the one Wikisource reference (refs/wikisource/index; publish/tools/ws_layers.py), in memory only
         sys.path.insert(0, str(ROOT / 'publish' / 'tools'))
@@ -521,7 +521,7 @@ def build_kan(cfg, html_only):
     md, nlev = _hd.apply_kn(md, cfg['vol']); print(f'[kan] title lines set as headings by level (volN/data/headings_kn.tsv): {nlev}')
     md = re.sub(r'(?m)[ \t]*\{\.[\w-]+\}[ \t]*$', '', md)          # '{.headline}', '{.section-title}' left by the conversion of the supplied file
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
-    md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    md = re.sub(r'\n---\n+\*\*Progress note:\*\*[^\n]*\n*\Z', '\n', md)      # only the closing note line; a stray note inside a file used to delete everything after it (Vol 13 Kannada PDF: 5 pages)
     md = apply_without(md, cfg, 'kan')                      # content choice first: it needs the running-head lines after the page marks, which the cleaning below removes
     # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
     # each page ('*[ಪೂರ್ವಪೀಠಿಕೆ 3]*'), the '[figure]' places and the machine's remark on a picture, comments of the making.
@@ -566,7 +566,9 @@ def build_kan(cfg, html_only):
         idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
-    ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
+    try: ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
+    except Exception as ex:           # the contents settings of a volume are fitted when its front matter is built; the Kannada book does not wait for them
+        ch, blocks = '', []; print(f'[kan] WARNING: printed contents not set ({type(ex).__name__}: {ex}); the Kannada book is built WITHOUT its contents page; fit "contents" in volN/pubcfg.json')
     refl = references_list_html(cfg, kan=True)
     write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + refl + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only, cfg['vol'])
 
