@@ -30,3 +30,6 @@ The front-pages session owns only the rows up to and including the thank-you pag
 | `{{release.publisher}}`, `.isbn`, `.edition_and_printing`, `.rights_statement` | `publish/release.json` (empty now: print the placeholder) | same |
 | `{{vol_title}}` | no source exists in any volume; not used by the pages, drop it from the list unless a title field is added | |
 Volumes with a `pubcfg.json` today: 1, 11, 15, 17, 18, 19, 20, 21, 23, 27, 30.
+
+## Source of the king and guru photos (user, Nov 28 2026)
+Both photos come from the Vol 1 front matter. The files in use are `publish/assets/maharaja.jpg` (646×1038) and `publish/assets/guruji.jpg` (484×878): low resolution, the Kannada captions are part of the picture. The machine-read Vol 1 supplied picture of the king (`vol1/html/figures/fig_line00044.jpg`) is a poor binarisation and the guru is not among the supplied pictures (`vol1/review/uniform_files.md`); a better scan of those two pages of Vol 1 is needed for print. Replace the two files in `publish/assets/` (same names) when it arrives; the pages need no change.
