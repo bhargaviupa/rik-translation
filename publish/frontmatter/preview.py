@@ -10,8 +10,12 @@ for p in order['pages']:
     h = (HERE / p['file']).read_text(encoding='utf8')
     h = h.replace('class="fm ', f'class="fm {"recto " if p["start"]=="recto" else "verso " if p["start"]=="verso" else ""}', 1)
     body.append(h.replace('{{assets}}', ASSETS).replace('{{vol}}', 'N'))
+body = [b.replace('<div class="fm-slot"', '<p>Sample text of the slot, for the preview only.</p><div class="fm-slot"') for b in body]   # a slot has a body, so the footer can be checked
+if '--body' in sys.argv:    # a stand-in for the text, to see the footer under the front pages and arabic 1 on its first page
+    body.append('<div class="fm-bodystart" data-orig=""></div><h3 class="pg" data-p="1">1</h3><h1>Text of the book</h1><p>First page of the text.</p>')
+    sys.argv.remove('--body')
 html = ('<!doctype html><meta charset="utf-8"><style>@page{size:6.5in 9.5in;margin:.8in .7in}html{font-size:10pt}</style>'
-        f'<link rel="stylesheet" href="{(HERE/"fm.css").as_uri()}">' + '\n'.join(body))
+        f'<link rel="stylesheet" href="{(HERE/"fm.css").as_uri()}"><link rel="stylesheet" href="{(HERE.parent/"style_footer.css").as_uri()}">' + '\n'.join(body))
 out = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else HERE / 'preview.html')
 out.write_text(html, encoding='utf8')
 try:

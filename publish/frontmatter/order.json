@@ -1,5 +1,7 @@
 {
  "_note": "The one list of the common front/back pages, in print order. To drop a page set \"enabled\": false (or delete its row); to add one, put a new HTML fragment in pages/ and add a row. Nothing else needs to change. Pages of kind 'volume' are not stored here: the embedding script supplies them from the volume (see README.md).",
+ "embed": false,
+ "_embed": "Master switch for the embedder (publish/printfix.py). false = no volume PDF changes; the user sets true when the pages are ready.",
  "trim": "6.5in 9.5in",
  "tokens": ["{{vol}}", "{{vol_roman}}", "{{vol_title}}", "{{range_line}}", "{{adhyaya_line}}", "{{assets}}", "{{release.*}}"],
  "pages": [
@@ -15,6 +17,6 @@
   {"id": "abbreviations","file": "pages/10_abbreviations.html",   "kind": "slot",        "enabled": true, "start": "recto", "numbering": "roman", "slot": "abbreviations",   "note": "frame + heading; body = list of abbreviations"},
   {"id": "introduction", "file": "pages/11_introduction.html",    "kind": "slot",        "enabled": true, "start": "recto", "numbering": "roman", "slot": "introduction", "optional_if_missing": true, "note": "Purva-pithike / Introduction; only for volumes that have one, otherwise skipped"},
   {"id": "body",         "file": null,                            "kind": "volume",      "enabled": true, "start": "recto", "numbering": "arabic","note": "the book's text starts here (printed p. 1); not a page of this folder"},
-  {"id": "closing",      "file": "pages/12_closing_remarks.html", "kind": "placeholder", "enabled": true, "start": "recto", "numbering": "none",  "note": "closing remarks, text to be supplied; last page of the book"}
+  {"id": "closing",      "file": "pages/12_closing_remarks.html", "kind": "placeholder", "enabled": false, "start": "recto", "numbering": "none",  "note": "closing remarks, text to be supplied; last page of the book"}
  ]
 }
