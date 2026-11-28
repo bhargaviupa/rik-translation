@@ -29,6 +29,7 @@ table.contents tr.hd td { text-align: center; padding: 9pt 5pt 4pt; border-botto
 table.contents td p, table.contents td ul, table.contents td ol { margin: 0; }
 table.contents a { color: inherit; text-decoration: none; }
 table.contents a.ce { display: block; }
+table.contents tr.sb td.tx { padding-left: 1.6em; }
 table.contents a.pgref::after { content: target-counter(attr(href), page); }
 p.cnote { text-align: center; font-size: 8pt; color: #666; margin-top: .1in; }
 /* the PDF's navigation pane lists the structure only: title, Maṇḍala/adhyāya, sūkta; not the sub-headings of a Ṛk or the page marks (rule 18) */

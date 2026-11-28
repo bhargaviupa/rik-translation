@@ -26,6 +26,7 @@ def contents_table(rows, note='Page numbers are the pages of this book.', head=(
     Every entry is a link (REQUIREMENTS A4 rule 2): the number, the text and the page number are each an anchor that fills its cell, so the whole
     row is clickable.  The text is not wrapped when it already holds a link (a nested link is not valid)."""
     out = ['<table class="contents"><thead><tr><th class="no">%s</th><th>%s</th><th class="pg">%s</th></tr></thead><tbody>' % head]
+    numbered = any(r.get('no') for r in rows if r.get('kind') != 'head')          # sub-items are indented only where the table has numbered entries
     for r in rows:
         if r.get('kind') == 'head':
             out.append(f'<tr class="hd"><td colspan="3">{r.get("pre", "")}{r["html"]}</td></tr>'); continue
@@ -35,7 +36,7 @@ def contents_table(rows, note='Page numbers are the pages of this book.', head=(
         if h:
             if no: no = f'<a class="ce" href="{h}">{no}</a>'
             if '<a ' not in tx: tx = f'<a class="ce" href="{h}">{tx}</a>'
-        out.append(f'<tr><td class="no">{no}</td><td class="tx">{r.get("pre", "")}{tx}</td><td class="pg">{pg}</td></tr>')
+        out.append(f'<tr{" class=\"sb\"" if numbered and not r.get("no") else ""}><td class="no">{no}</td><td class="tx">{r.get("pre", "")}{tx}</td><td class="pg">{pg}</td></tr>')
     out.append('</tbody></table>' + (f'<p class="cnote">{note}</p>' if note else ''))
     return '\n'.join(out)
 
