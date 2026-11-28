@@ -1,5 +1,23 @@
 # Rigveda Samhita — Volume 15 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+### Printed p. iii
+
+In this part some limbs of the sacrifice (yajña) have been described. The yajña is not a single rite. Many rites together make up the principal rite called yajña. In it there are many subsidiary rites, such as the milking of the cow, the churning of fire, the bringing of fire, the conveying of Soma, the Ātithya offering, the three savanas (the morning savana, the midday savana and the third savana), and the Ṛtuyāja oblations. Of these, only the Ṛtuyāja oblations, the conveying of Soma and the three savanas have been described in this part. In describing subsidiary rites of the sacrifice of this kind, their meaning has to be explained from two points of view. For in every principal rite performed in sacrifices and the like, the priests called the Hotṛ and the Adhvaryu have their roles. The Hotṛ, or the priests of the Hotṛ group, recite according to the prescribed manner the mantras suited to the occasion of each rite; the Adhvaryu, or the priests who assist the Adhvaryu, carry out the actions proper to the occasion in that rite. However small the actions performed in sacrifices may be, they must be performed according to rule and accompanied by the recitation of mantras. Since the description, method and similar matters of the actions belong to the Adhvaryu group, and since their description is given in the Yajurveda, no discussion of those matters has been made here. But since the discussion of the mantras to be recited by the Hotṛ group in each rite belongs to the Ṛgveda, only the mantras to be recited by the Hotṛ group, and when and how they are to be recited, and similar matters, have been explained here, as stated in the Aitareya Brāhmaṇa. For all matters belonging to the Ṛgveda, such as the explanation of the mantra-procedures recited by the Hotṛ group, are stated in the two Brāhmaṇa works of the Ṛgveda, the Aitareya and the Kauṣītakī. A Brāhmaṇa is a work that explains, for every principal subsidiary rite and every main rite performed in sacrifices and the like, all matters: the rule the Hotṛ must follow, the mantra to be recited, the earlier history connected with that rite, why the rite is to be performed, what fruit is obtained if it is performed in what manner, the fault that arises if it is not performed according to rule, its expiation, and so on. Since the presentation of subject matter in the two Brāhmaṇas mentioned above, the Aitareya and the Kauṣītakī, is more or less the same, and since in the southern country the Kauṣītakī Brāhmaṇa is not widely current and the Aitareya Brāhmaṇa is in use, we have explained all matters connected with the Hotṛ following the Aitareya Brāhmaṇa.
+
+### Printed p. ii
+
+To publish such a Ṛgveda Saṃhitā, extremely ancient, extremely profound, extremely vast, and the foundation of all the śāstras, in simple Kannada together with a critical translation is no easy task. Yet with the weighty aim that through such a great undertaking all people, scholars and common folk alike, may gain growth of knowledge and become worthy of the grace of God, His Highness Śrī Jayachāmarājendra Wodeyar Bahadur, G.C.B., G.C.S.I., the sovereign of the throne of Karnataka, a lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, and his Government, are encouraging the publication of this work, which requires great expense, out of their own resources; this must be called the good fortune of the multitude of the people of Karnataka. I pray that the Lord of all, the Veda-Puruṣa, may bestow, in still greater measure, on our generous-minded Sovereign, on his family, on the princess (who bears the name of the mantra Gāyatrī, regarded as the foremost of the Vedic mantras), and on the whole body of his subjects, all wealth, both worldly fruits such as long life, health and prosperity, and the spiritual knowledge that leads to the highest good.
+
+Mysore
+Nandana year, Śrāvaṇa Śukla Pañcamī, Sunday
+Śāka 27-7-1952
+
+Translator:
+H. P. Venkata Rao,
+Āsthāna Mahāvidvān (Great Scholar of the Court).
+
 ### Printed p. 1
 
 *Note: printed p. 1 was missing from the first pass (it has no running head, so the page splitter did not find it); it is inserted here, before p. 2. Its last sentence breaks off and continues at the top of p. 2.*

@@ -594,3 +594,4 @@
 | 590 | `8-3-2` → `8-3-3` | NUMBER the supplied text reads 8-3-3 (one digit differs; no other candidate on pages 589-591); 1 occurrence(s) on the page |
 | 595 | `6-1-185` → `6-1-155` | NUMBER the supplied text reads 6-1-155 (one digit differs; no other candidate on pages 594-596); 1 occurrence(s) on the page |
 | 602 | `6-1-168` → `6-1-18` | NUMBER the supplied text reads 6-1-18 (one digit differs; no other candidate on pages 601-603); 1 occurrence(s) on the page |
+- 2026-11-28 front matter: the editor's Pīṭhike (source lines 2-221 of vol9/html/rig_9_1.md) inserted as '## ಪೀಠಿಕೆ' before the first printed page of the Kannada file (tools/rv/kn_front.py); no change to the English file.

@@ -93,3 +93,4 @@
 
 - Nov 27 2026 (user: "preface:install"): the translated preface (`review/preface_en.md`, one agent, no NOTE) installed in the English file after the title line as `## Preface (Pīṭhike)`, as in Vols 24 and 29. Nothing else changed.
 - 2026-11-27: tools/rv/kn_headings.py: 79 Sūkta and 794 Ṛk headings (and Maṇḍala headings) added to the Kannada file from the structure of the English file (no other text changed). Sūkta headings stand before the printed "ಮಂಡಲ—M ॥ ಅನುವಾಕ ॥ ಸೂಕ್ತ—N" line; a Pīṭhike printed above that line belongs to the sūkta that follows.
+- 2026-11-28 front matter: the editor's Pīṭhike (source lines 50-73 of vol25/html/rig_25.md) inserted as '## ಪೀಠಿಕೆ' before the first printed page of the Kannada file (tools/rv/kn_front.py); no change to the English file.

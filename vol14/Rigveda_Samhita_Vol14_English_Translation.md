@@ -2,6 +2,27 @@
 
 > **Status (Nov 9 2026):** this file is built from the user's machine-read text only. Printed pp. 2–498 were translated on branch `claude/vol14-p1-500` (standing Sonnet agent, 3-page windows); printed pp. 501–766 in the Vol 14 experiment (`claude/vol14-exp`, 89 windows) and pp. 767–954 on `claude/vol14-html`; the parts are joined here. **Printed p. 1 (title page) and the front matter are not translated; printed pp. 499–500 are not in the supplied text** (the Ṛk 5 Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English of Sūkta 5 are missing; see the note before p. 501). The scan-based translation of the whole volume is kept as `Rigveda_Samhita_Vol14_scan_English_Translation.md`.
 
+## Preface (Pīṭhike)
+### Printed p. i
+Foreword.
+
+In this part the first Maṇḍala is completed, and about half of the second Maṇḍala is completed. Of the ten Maṇḍalas in the Ṛgveda, the first Maṇḍala and the last, the tenth, are larger in extent than the other Maṇḍalas; moreover, in the two together there are a total of one hundred and ninety-one sūktas and many mantra-seers (ṛṣis), and there is also a variety of subject-matter. For these reasons and for other reasons too, these two Maṇḍalas hold a place of prominence in the Ṛgveda. For that very reason we have written out and explained the first Maṇḍala at length. It is no exaggeration to say that, until now, no such extensive translation and explanation of the Ṛgveda has been published anywhere, whether in the Kannada language or in other languages. From now on, the explanation on certain specific subjects will be collected as far as possible and printed. In keeping with this method, from now on the grammar section will be left out; and in cases where many subjects that arose earlier have to be explained again, only the page numbers of the earlier parts where those subjects occur will be indicated.
+
+The labour that the scholars of this country in former times, and the Western scholars, have put into the research and criticism of the Vedas is no small matter. Rendering into the Kannada language the essence of the rare works that are the fruit of their immense labour, searching out and adding, with great effort, many related subjects along with it, and making the work worthy of the respect of all, so as to give encouragement to the Kannada language and to the people who speak Kannada, and so that people may easily understand the meanings of the Vedas and become fit for the grace of God: with this good purpose His Highness the Maharaja and his Government have undertaken this enterprise, which requires great expense. It is the duty of everyone to help and cooperate in such a good work.
+
+To publish such a Ṛgveda Saṃhitā, extremely ancient, extremely profound, extremely extensive and the foundation of all the śāstras, in simple Kannada with critical discussion is not an easy task. Yet with the lofty purpose that, through such a great undertaking, all people, scholars and laymen alike, may gain an increase of knowledge and become fit for the grace of God, the Lord of the throne of Karnataka, a patron of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., the great and gracious Sovereign, is encouraging this publication, which requires great expense, with his generous patronage; this must be called the merit of the multitudes of the people of Karnataka. To such generous-minded
+
+### Printed p. ii
+our Sovereign, and to his family, to the Princess (who bears the mantra-name Gāyatrī, the mantra regarded as the most important among the Vedic mantras), to the second Princess, and to the whole multitude of subjects, I pray that the Lord of all, the Vedic Person, may graciously bestow in abundance all wealth, the worldly fruits such as long life, health and prosperity, and also the spiritual knowledge that leads to the highest goal.
+
+Mysore
+Śrīmat Para-named year, Māgha Śukla Saptamī, Saturday
+2-2-1952.
+
+Translator
+H. P. Venkata Rao,
+Āsthāna Mahāvidvān
+
 ### Printed p. 2
 
 *Running head: Sāyaṇa-bhāṣya-sahitā [Maṃ. 1. A. 24. Sū. 184], p. 2. The window begins inside the introductory essay to the fifth adhyāya of the second aṣṭaka; the previous page (1) is not in the supplied text.*

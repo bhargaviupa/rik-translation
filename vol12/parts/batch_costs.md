@@ -94,3 +94,4 @@
 | through p. 700 (three windows in one agent: pp. 683-688, 689-694, 695-700) | sonnet | 19 | 167580 | 5.0 |
 | through p. 721 (three windows in one agent: pp. 701-708, 709-715, 716-721) | sonnet | 27 | 204126 | 6.0 |
 | through p. 727 FINAL (one window: pp. 722-727) | sonnet | 11 | 102834 | 2.0 |
+| preface (front matter, source lines 119-168) | claude-sonnet-5-5 direct | 1 request | in 4883, out 1136 | $0.021 |

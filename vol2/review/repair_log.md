@@ -139,3 +139,4 @@
   - line 17441: end mark: `marúdbhir agna ā́ gahi ||9||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||9||*`
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: ; every change is a row of review/refs_applied.tsv.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: kn kannada 966; every change is a row of review/refs_applied.tsv.
+- 2026-11-28 front matter: the editor's Pīṭhike (source lines 105-181 of vol2/html/rig_2_1.md) inserted as '## ಪೀಠಿಕೆ' before the first printed page of the Kannada file (tools/rv/kn_front.py); no change to the English file.

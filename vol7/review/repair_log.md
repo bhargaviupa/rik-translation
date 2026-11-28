@@ -1391,3 +1391,5 @@
 | 567 | ` [as read, doubtful [?]]` → `` | SECOND-PASS Q2: Kannada p.567 ಯಾವ ಋಷಿಯ ಸೂಕ್ತದ ಕೊನೆಯ ಅರ್ಧವೂ ಬಹುದೇವತಾಕವಾಗಿಲ್ಲ agrees (q309) |
 | 567 | `*phiñ* [?])` → `*ghañ*)` | SECOND-PASS Q1: Kannada p.567 ಭಾವಾರ್ಥದಲ್ಲಿ ಘಞ್ ಪ್ರತ್ಯಯ; IAST by sp_sanskrit.py (q310) |
 - 2026-11-27: Rigveda_Samhita_Vol7_Kannada_Text.md: 20 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
+- 2026-11-28 front matter: the editor's Pīṭhike (source lines 2-224 of vol7/html/rig_7_1.md) inserted as '## ಪೀಠಿಕೆ' before the first printed page of the Kannada file (tools/rv/kn_front.py); no change to the English file.
+- 2026-11-28 (correction): the trailing printer's line 'ಕೆ. ವೆಂಕಟಸುಬ್ಬಯ್ಯ, ಪ್ರಿಂಟರ್…' (not part of the Pīṭhike) removed again from the inserted block.

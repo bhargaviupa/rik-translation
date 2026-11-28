@@ -115,3 +115,4 @@
 - 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 28, en kannada 7, en latin 108, en latin-twin 11, kn kannada 136, places 6; every change is a row of review/refs_applied.tsv.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: en kannada 2, kn kannada 7; every change is a row of review/refs_applied.tsv.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 2, en latin-twin 2, kn kannada 2; every change is a row of review/refs_applied.tsv.
+- front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 0 NOTE rows added at the top of review/notes.tsv.

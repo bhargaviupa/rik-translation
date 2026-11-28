@@ -256,3 +256,4 @@ pp.791-793 | standing agent af1667 batch125 | n/a
 pp.794-796 | standing agent af1667 batch126 | n/a
 pp.797-799 | standing agent af1667 batch127 | n/a
 p.800 | standing agent af1667 batch128 FINAL | n/a
+| preface (front matter, source lines 115-144) | claude-sonnet-5-5 direct | 1 request | in 5953, out 1477 | $0.027 |

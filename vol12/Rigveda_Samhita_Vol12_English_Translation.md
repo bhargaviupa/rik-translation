@@ -1,5 +1,23 @@
 # Rigveda Samhita — Volume 12 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+### Printed p. i
+This part of the Ṛgveda Saṃhitā has a distinctive feature not found in the other parts. The praise of the horse in Sūktas 162 and 163 is the very foundation of the many kinds of rites performed in the Aśvamedha sacrifice. Apart from these sūktas, there are no other important mantras that must be recited in the Aśvamedha. There is therefore no need to say how important these sūktas are. In the same way, Sūkta 164 too is full of many exalted and profound principles. The principles and subjects in it form the basis of the various doctrines now current, such as dualism, non-dualism and qualified non-dualism, and of many of the principal Upaniṣads, and for the exposition of many profound subjects such as the creation of the world, the establishment of a single deity, and the nature of the individual self and the Supreme Self. For this reason we have explained these sūktas at somewhat greater length. Although there are still many more matters that ought to be explained, for fear that the work would become excessively long, and for other unavoidable reasons, that task had to be left at this point.
+
+In the matter of printing this work, the administration carried on until now with the liberal policy of the ruling authorities has changed, and the Government has taken up this great undertaking. As a result, the printing of the work stopped for a year and has only now begun again. Even so, because the financial help needed for the printing is not sufficient, the work has to proceed slowly. Nevertheless we are confident that the work will go forward if the officials concerned supply the necessary help and cooperate. Since this undertaking is being carried out under the weighty and gracious protection of His Highness the Maharaja, who from the beginning has taken special interest in the publication of this work and provided all assistance, and who regards the welfare of his subjects as his chief aim, we are also confident that this good work will be completed without obstacle.
+
+It is not an easy task to publish in simple Kannada, with critical translation, such a Ṛgveda Saṃhitā, which is most ancient, most profound, most extensive and the basis of all the śāstras. Yet with the weighty purpose that all people, learned and unlearned alike, may gain increase of knowledge through such a great work and become worthy of the grace of God, Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., Lord of the throne of Karnataka, patron of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, is encouraging, through his generous patronage, the publication of this work, which requires great expenditure. This must be called the good fortune of the whole multitude of the people of Karnataka. For such a generous-minded lord of ours,
+
+### Printed p. ii
+and for his family, and for the princess (who bears the name of Gāyatrī, the mantra regarded as the foremost among the Vedic mantras), and for the whole multitude of subjects as well, I pray that the Lord of all, the Veda-Puruṣa, may grant in still greater measure both the worldly fruits, wealth such as long life, health and prosperity, and the spiritual knowledge that leads to the highest good.
+
+Mysore
+Kharanāma Saṃvatsara, Śrāvaṇa Śuddha Pañcamī, Tuesday
+7-8-1951
+Āsthāna Mahāvidvān
+H. P. Venkata Rao,
+Editor
+
 ## Sūkta 158 (Maṇḍala 1)
 
 *The hundred and fifty-eighth sūkta. The supplied text begins at printed p. 2, in the middle of the Anuvāda of the introduction to this sūkta; printed p. 1 (title page, invocation and the beginning of the introduction, including Sāyaṇa's Sanskrit introduction) is not in the supplied text and is not translated.*
