@@ -1,0 +1,31 @@
+# Vol 11 contents source (2026-11-28)
+- `contents_scan.pdf`: 6 pages = printed contents pp. vii (first page, no signature visible; heading and Sūkta 137–139 up to p. 81), viii, ix, x, xi, xii. Covers Sūktas 137–157 (printed pp. 2–692). The scan ends with `ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು.` and the printer's colophon, so **nothing of the printed contents is missing from the PDF**. The scan is a low-resolution bitmap (glyphs such as ತ, ಅ/ಆ and ಾ/ೋ are blurred); readings below are made on it and, where marked, checked against the body of `Rigveda_Samhita_Vol11_Kannada_Text.md`.
+- `contents_kn.md`: from `html/rig_11.md` (lines 373 ff.), compared line by line with the six scan pages. **All 145 page numbers agree with the scan** (checked one by one). Line 1 `ವಿಷಯಾನುಕ್ರಮಣಿಕೆ` is the title line of the supplied text (as in Vols 28–30; the parser needs two heading lines).
+- Corrections to the supplied text (old → new, page; the scan is the authority, "body" = also in the Kannada text of the volume):
+  - `ಪೂಷ್ಟಃ` → `ಪೂಷ್ಣಃ` (vii; body)
+  - `ಶೌಷಟ್` → `ಶ್ರೌಷಟ್` (vii; body, Saṃhitā text)
+  - `ಉಕ್ಕದ` → `ಉಕ್ಥದ` (viii; body)
+  - `ಹೋತೈಶಬ್ದದ` → `ಹೋತೃಶಬ್ದದ` (viii)
+  - `ಶಿಕ್ಷರ್ಭೀ,` → `ಶಿಕ್ವಭೀಃ,` (viii; the body has `ಶಿಕ್ವಭಿಃ` and once `ಶಿಕ್ವಭೀ`; the scan shows a long ೀ and a visarga, not fully certain)
+  - `ಆಹರಭಿಮಾನಿ` → `ಅಹರಭಿಮಾನಿ` (viii; body)
+  - `ಕಣ್ಣಿ, ಅತ್ರಿ` → `ಕಣ್ವಃ, ಅತ್ರಿಃ` (viii; body `ಕಣ್ವ`)
+  - `ತ್ವಷ್ಟವಿನ` → `ತ್ವಷ್ಟೃವಿನ` (ix)
+  - `ನಕ್ಕೋಷಾಸಾ` → `ನಕ್ತೋಷಾಸಾ` (ix; body)
+  - `ವಿದಧೇಷು` → `ವಿದಥೇಷು` (ix; body)
+  - `ಸೂರೆಯನ್ನು` → `ಸೂರ್ಯೆಯನ್ನು` (ix)
+  - `ವಕ್ತ್ರರೀ` → `ವಕ್ವರೀ` (ix; body)
+  - `ಸಪ್ತರಶ್ಮಿ ಎಂಬ` → `ಸಪ್ತರಶ್ಮಿಂ ಎಂಬ` (x; body)
+  - `ಋಷಿಯ ಜನ್ಮವೃತ್ತಾಂತ` → `ಋಷಿಯು ಜನ್ಮವೃತ್ತಾಂತ` (x; the scan has ಯು here, while `ದಧೀಚ ಋಷಿಯ ವೃತ್ತಾಂತ` on viii is ಯ)
+  - `ಆತ್ಯ, ಅರ್ವನ್` → `ಅತ್ಯ, ಅರ್ವನ್` (x)
+  - `ಪುರುಮಾಳ್ವೆ` → `ಪುರುಮೀಳ್ಹ` (xi; body `ಪುರುಮೀಳ್ಹ`)
+  - `ಪ್ರ ವಃ ಶಾಂತಂ` → `ಪ್ರ ವಃ ಪಾಂತಂ` (xi; body)
+  - `ಪಾಥ್ಯ ಶಬ್ದದ` → `ಪಾಥಃ ಶಬ್ದದ` (xi; body)
+  - `ಸುಕನೈಯ` → `ಸುಕನ್ಯೆಯ` (xii)
+  - added from the scan: the end line `ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು.` (xii), missing in the supplied text; removed: the full stop of the heading `ವಿಷಯಾನುಕ್ರಮಣಿಕೆ.`
+- Misprints kept as printed, for the user:
+  - Sūkta 143 (line 70): printed `ನಲವತ್ತಮೂರನೆಯ ಸೂಕ್ತವು` ("forty-third"), expected `ನೂರನಲವತ್ತಮೂರನೆಯ` (143rd): the user decides.
+  - Items with the same page as the next/previous item are as printed: 81 (twice), 95 (twice), 17 (twice), 566 (twice), 589 (twice), 617 (twice). Pages never go backwards.
+  - `ಛಂದಸ್ಸುಗಳ` (without ು) in line 111 (p. 464) is as printed.
+- Not changed, shown only so that it is not read as a mistake: `ಆಫೃಣಿ` (vii, p. 33; scan glyph ಫ/ಘ blurred; the body has `ಆಫೃಣಿ` in its commentary, the Saṃhitā text `ಆಘೃಣೇ`), `ತುವಿಜಾತ` (scan first glyph blurred; body `ತುವಿಜಾತ`), `ತೋದ`, `ಅರ್ಕ`, `ಆದಿತ್ಯ` (ಅ/ಆ not distinguishable on this scan; supplied reading kept), `ಸುಮತ್‌ಶಬ್ದ` (ZWNJ in the supplied text kept), line 14 ends `--` (two dashes in the supplied text; the scan shows a long dash), Sūkta 142 line has no dash (as printed). The incipit words are the print's, not corrected from the Saṃhitā.
+- Printer's colophon (scan p. xii and supplied text): "ಕೆ. ವೆಂಕಟಸುಬ್ಬಯ್ಯ, ಪ್ರಿಂಟರ್, ಶ್ರೀ ವಿನಾಯಕ್ ಪ್ರಿಂಟಿಂಗ್ ವರ್ಕ್ಸ್, ಮೈಸೂರು." → press: Śrī Vināyak Printing Works, Mysore. Not an entry in `contents_kn.md`.
+- `contents_en.tsv`: English, one row per parsed block (168); `../contents_en.json` made by `python3 publish/tools/frontmatter/make_contents_en.py 11 --end 'end of contents'`. Row 6 (`ಅಶಿರದ್ರವ್ಯ ವಿಚಾರ`) is rendered "Discussion of the substance not mixed with milk (aśira)": for the dispatcher/editor to confirm the sense of `ಅಶಿರ` (the supplied text and scan agree on the Kannada).

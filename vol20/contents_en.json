@@ -1,0 +1,610 @@
+[
+ {
+  "src": 2,
+  "en": "The Fourth Adhyāya of the Fourth Aṣṭaka."
+ },
+ {
+  "src": 3,
+  "en": "The sūktas of the Fifth Maṇḍala."
+ },
+ {
+  "src": 4,
+  "en": "The Fifth Maṇḍala."
+ },
+ {
+  "src": 5,
+  "en": "63. The sixty-third sūkta, beginning ⟦ಋತಸ್ಯ ಗೋಪಾವಧಿ⟧"
+ },
+ {
+  "src": 6,
+  "en": "Introduction: an acquaintance with the deities Mitra and Varuṇa."
+ },
+ {
+  "src": 7,
+  "en": "The excellent qualities of Mitra and Varuṇa."
+ },
+ {
+  "src": 8,
+  "en": "The individual special qualities and deeds of Varuṇa."
+ },
+ {
+  "src": 9,
+  "en": "Description of the individual nature of Mitra."
+ },
+ {
+  "src": 10,
+  "en": "The relation of the principle of water to Varuṇa."
+ },
+ {
+  "src": 11,
+  "en": "The application (viniyoga) of the sūkta, and the seer, deity and metres."
+ },
+ {
+  "src": 12,
+  "en": "64. The sixty-fourth sūkta, beginning ⟦ವರುಣಂ ವೋ ರಿಶಾದಸಂ⟧"
+ },
+ {
+  "src": 13,
+  "en": "The application (viniyoga) of the sūkta, the seer, deity and metres, the word-for-word meaning, etc."
+ },
+ {
+  "src": 14,
+  "en": "65. The sixty-fifth sūkta, beginning ⟦ಯಶ್ಚಿಕೇತ⟧"
+ },
+ {
+  "src": 15,
+  "en": "66. The sixty-sixth sūkta, beginning ⟦ಆ ಚಿಕಿತಾನ⟧"
+ },
+ {
+  "src": 16,
+  "en": "67. The sixty-seventh sūkta, beginning ⟦ಬಳಿತ್ಥಾ ದೇವ⟧"
+ },
+ {
+  "src": 17,
+  "en": "68. The sixty-eighth sūkta, beginning ⟦ಪ್ರ ವೋ ಮಿತ್ರಾಯ⟧"
+ },
+ {
+  "src": 18,
+  "en": "69. The sixty-ninth sūkta, beginning ⟦ತ್ರಿ ರೋಚನಾ⟧"
+ },
+ {
+  "src": 19,
+  "en": "70. The seventieth sūkta, beginning ⟦ಪುರೂರುಣಾ⟧"
+ },
+ {
+  "src": 20,
+  "en": "71. The seventy-first sūkta, beginning ⟦ಆ ನೋ ಗಂತಂ⟧"
+ },
+ {
+  "src": 21,
+  "en": "72. The seventy-second sūkta, beginning ⟦ಆ ಮಿತ್ರೇ ವರುಣೇ⟧"
+ },
+ {
+  "src": 22,
+  "en": "73. The seventy-third sūkta, beginning ⟦ಯದದ್ಯ ಸ್ಥಃ⟧"
+ },
+ {
+  "src": 23,
+  "en": "Introduction: a brief account of the Aśvin deities."
+ },
+ {
+  "src": 24,
+  "en": "The application (viniyoga) of the sūkta, etc."
+ },
+ {
+  "src": 25,
+  "en": "74. The seventy-fourth sūkta, beginning ⟦ಕೊಷ್ಠೋ ದೇವೌ⟧"
+ },
+ {
+  "src": 26,
+  "en": "75. The seventy-fifth sūkta, beginning ⟦ಪ್ರತಿ ಪ್ರಿಯತಮಂ⟧"
+ },
+ {
+  "src": 27,
+  "en": "The distinctive features of the chariot of the Aśvin deities."
+ },
+ {
+  "src": 28,
+  "en": "Explanation of the words ⟦ತ್ರಿಚಕ್ರ⟧, ⟦ತ್ರಿಬರ್ಹಿಃ⟧, ⟦ತ್ರಿಷಧಸ್ಥ⟧, ⟦ತ್ರಿವಂಧುರ⟧, ⟦ತ್ರಿವಿಕ್ರಮ⟧, ⟦ತ್ರಿಧಾತುನಾ⟧ and the like, used in relation to the Aśvin deities."
+ },
+ {
+  "src": 29,
+  "en": "The ancient legend told by Skandasvāmin and by Sāyaṇa concerning the Madhu-vidyā."
+ },
+ {
+  "src": 30,
+  "en": "The account of the seer Dadhīci, etc."
+ },
+ {
+  "src": 31,
+  "en": "How the Aśvin deities made the aged seer Cyavana a youth, and the ancient legend told on this subject in the Śatapatha-brāhmaṇa."
+ },
+ {
+  "src": 32,
+  "en": "76. The seventy-sixth sūkta, beginning ⟦ಆ ಭಾತ್ಯಗ್ನಿಃ⟧"
+ },
+ {
+  "src": 33,
+  "en": "77. The seventy-seventh sūkta, beginning ⟦ಪ್ರಾತರ್ಯಾವಾಣಾ⟧"
+ },
+ {
+  "src": 34,
+  "en": "78. The seventy-eighth sūkta, beginning ⟦ಅಶ್ವಿನಾವೇಹ ಗಚ್ಛತಂ⟧"
+ },
+ {
+  "src": 35,
+  "en": "Explanation of the animal species ⟦ಗೌರ⟧ and ⟦ಗವಯ⟧."
+ },
+ {
+  "src": 36,
+  "en": "How the Aśvin deities saw the seer Atri being burnt in the fire and saved him."
+ },
+ {
+  "src": 37,
+  "en": "The account of Saptavadhri: how his kinsmen shut this seer up in a box, etc."
+ },
+ {
+  "src": 38,
+  "en": "The Ṛks known as the Garbhasrāviṇī Upaniṣad: the order of mantras to be recited when an unborn child is not delivered in due time, etc."
+ },
+ {
+  "src": 39,
+  "en": "79. The seventy-ninth sūkta, beginning ⟦ಮಹೇ ನೋ ಅದ್ಯ⟧"
+ },
+ {
+  "src": 40,
+  "en": "Introduction: a brief account of the deity Uṣas."
+ },
+ {
+  "src": 41,
+  "en": "Explanation of the words (epithets) praising the qualities of the deity Uṣas, etc."
+ },
+ {
+  "src": 42,
+  "en": "Yāska's etymology of the Ṛk beginning ⟦ಇದಂ ಶ್ರೇಷ್ಠಂ⟧."
+ },
+ {
+  "src": 43,
+  "en": "How the Aśvin deities protected Karkandhu and Vayya; that the seer of this sūkta, Satyaśravas, is the son of the seer Vayya."
+ },
+ {
+  "src": 44,
+  "en": "80. The eightieth sūkta, beginning ⟦ದ್ಯುತದ್ಯಾಮಾನಂ⟧"
+ },
+ {
+  "src": 45,
+  "en": "81. The eighty-first sūkta, beginning ⟦ಯುಂಜತೇ ಮನಃ⟧"
+ },
+ {
+  "src": 46,
+  "en": "Introduction: a brief account of the deity Savitṛ."
+ },
+ {
+  "src": 47,
+  "en": "The three intermediate divisions of the heavenly world, the atmosphere and the earthly worlds."
+ },
+ {
+  "src": 48,
+  "en": "82. The eighty-second sūkta, beginning ⟦ತತ್ಸವಿತುರ್ವೃಣೀಮಹೇ⟧"
+ },
+ {
+  "src": 49,
+  "en": "The special application (viniyoga) of the Ṛk beginning ⟦ಆ ವಿಶ್ವದೇವಂ ಸತ್ಪತಿಂ⟧."
+ },
+ {
+  "src": 50,
+  "en": "83. The eighty-third sūkta, beginning ⟦ಅಚ್ಛಾ ವದ ತವಸಂ⟧"
+ },
+ {
+  "src": 51,
+  "en": "A brief account of the deity Parjanya."
+ },
+ {
+  "src": 52,
+  "en": "Explanation of Yāska's etymology of the Ṛk beginning ⟦ಆ ವೃಕ್ಷಾನ್ ಹಂತಿ⟧."
+ },
+ {
+  "src": 53,
+  "en": "84. The eighty-fourth sūkta, beginning ⟦ಬಳಿತ್ಥಾ ಪರ್ವತಾನಾಂ⟧"
+ },
+ {
+  "src": 54,
+  "en": "The two kinds of form of the Earth."
+ },
+ {
+  "src": 55,
+  "en": "Explanation of the meaning of the supplementary (pariśiṣṭa) mantra ⟦ವರ್ಷಂತು ತೇ ವಿಭಾವರಿ⟧, to be recited at the end of this sūkta."
+ },
+ {
+  "src": 56,
+  "en": "85. The eighty-fifth sūkta, beginning ⟦ಪ್ರ ಸಮ್ರಾಜೇ⟧"
+ },
+ {
+  "src": 57,
+  "en": "Introduction: a brief account of the deity Varuṇa."
+ },
+ {
+  "src": 58,
+  "en": "86. The eighty-sixth sūkta, beginning ⟦ಇಂದ್ರಾಗ್ನೀ ಯಂ⟧"
+ },
+ {
+  "src": 59,
+  "en": "87. The eighty-seventh sūkta, beginning ⟦ಪ್ರ ವೋ ಮಹೇ⟧"
+ },
+ {
+  "src": 60,
+  "en": "The supplementary (pariśiṣṭa) mantras to be recited at the end of this maṇḍala, and the nature of the supplementary mantras, etc."
+ },
+ {
+  "src": 61,
+  "en": "The ninth supplementary sūkta, beginning ⟦ಆ ತೇ ಗರ್ಭೋ ಯೋನಿಮೈತು⟧ (5 Ṛks), with explanation."
+ },
+ {
+  "src": 62,
+  "en": "The tenth supplementary sūkta, beginning ⟦ಅಗ್ನಿರೈತು⟧ and ⟦ಪ್ರಥಮೋ ದೇವತಾನಾಂ⟧ (2 Ṛks), with explanation."
+ },
+ {
+  "src": 63,
+  "en": "The supplementary sūkta beginning ⟦ಹಿರಣ್ಯವರ್ಣಾಂ⟧, the Śrī-sūkta (15 Ṛks with some verses): for each Ṛk of this sūkta the seer, deity and metres, the nyāsa of the limbs and of the hands, meditation and other methods of recitation, the accented mantra, the two commentaries of Vidyāraṇya and Pṛthvīdharācārya, word-for-word meanings and general meanings, the method of recitation of each mantra, and the special matters stated in other works on the praise of its fruit: a full explanation."
+ },
+ {
+  "src": 64,
+  "en": "Some verses recited at the end of the maṇḍala."
+ },
+ {
+  "src": 65,
+  "en": "The Fifth Maṇḍala is ended."
+ },
+ {
+  "src": 66,
+  "en": "The Sixth Maṇḍala."
+ },
+ {
+  "src": 67,
+  "en": "Introduction to the Sixth Maṇḍala: the seers who saw the sūktas of the Sixth Maṇḍala."
+ },
+ {
+  "src": 68,
+  "en": "An account of the seer Bharadvāja, the seer of the maṇḍala."
+ },
+ {
+  "src": 69,
+  "en": "1. The first sūkta, beginning ⟦ತ್ವಂ ಹ್ಯಗ್ನೇ ಪ್ರಥಮಃ⟧"
+ },
+ {
+  "src": 70,
+  "en": "Explanation of the meaning of the word ⟦ಸೀಂ⟧, etc."
+ },
+ {
+  "src": 71,
+  "en": "Account and explanation of the deities ⟦ಮನೋತಾ⟧, etc."
+ },
+ {
+  "src": 72,
+  "en": "Etymology of the word ⟦ವ್ಯಂತಃ⟧."
+ },
+ {
+  "src": 73,
+  "en": "The Fourth Adhyāya of the Fourth Aṣṭaka is ended."
+ },
+ {
+  "src": 74,
+  "en": "The Fifth Adhyāya."
+ },
+ {
+  "src": 75,
+  "en": "The sūktas of the Sixth Maṇḍala."
+ },
+ {
+  "src": 76,
+  "en": "2. The second sūkta, beginning ⟦ತ್ವಂ ಹಿ ಕ್ಷೈತವತ್⟧"
+ },
+ {
+  "src": 77,
+  "en": "3. The third sūkta, beginning ⟦ಅಗ್ನೇ ಸಕ್ಷೇಪತ್⟧"
+ },
+ {
+  "src": 78,
+  "en": "4. The fourth sūkta, beginning ⟦ಯಥಾ ಹೋತರ್ಮನುಷಃ⟧"
+ },
+ {
+  "src": 79,
+  "en": "5. The fifth sūkta, beginning ⟦ಹುವೇ ವಃ ಸೂನುಂ⟧"
+ },
+ {
+  "src": 80,
+  "en": "Explanation of the words ⟦ಸಹಸಃ ಸೂನುಂ⟧."
+ },
+ {
+  "src": 81,
+  "en": "The application of the words ⟦ಯುವಾನಂ ಯವಿಷ್ಠಂ⟧ to Agni."
+ },
+ {
+  "src": 82,
+  "en": "6. The sixth sūkta, beginning ⟦ಪ್ರ ನವ್ಯಸಾ ಸಹಸಃ⟧"
+ },
+ {
+  "src": 83,
+  "en": "7. The seventh sūkta, beginning ⟦ಮೂರ್ಧಾನಂ ದಿವಃ⟧"
+ },
+ {
+  "src": 84,
+  "en": "Introduction to the sūkta: an acquaintance with Vaiśvānara Agni."
+ },
+ {
+  "src": 85,
+  "en": "Who is Vaiśvānara Agni? Is he a deity of the middle region?"
+ },
+ {
+  "src": 86,
+  "en": "The view of the ancient sacrificial authorities that Vaiśvānara is the Sun (objections and answers on this subject)."
+ },
+ {
+  "src": 87,
+  "en": "The view of the teacher Śākapūṇi that Vaiśvānara is the earthly Agni and not the Sun: objections and answers on this subject."
+ },
+ {
+  "src": 88,
+  "en": "8. The eighth sūkta, beginning ⟦ಪೃಕ್ಷಸ್ಯ ವೃಷ್ಣಃ⟧"
+ },
+ {
+  "src": 89,
+  "en": "9. The ninth sūkta, beginning ⟦ಅಹಶ್ಚ ಕೃಷ್ಣಮಹಃ⟧"
+ },
+ {
+  "src": 90,
+  "en": "The sacrificial explanation of the meaning of the Ṛk beginning ⟦ನಾಹಂ ತಂತು⟧."
+ },
+ {
+  "src": 91,
+  "en": "The spiritual explanation of the meaning of the same Ṛk."
+ },
+ {
+  "src": 92,
+  "en": "10. The tenth sūkta, beginning ⟦ಪುರೋ ವೋ ಮಂದ್ರಂ⟧"
+ },
+ {
+  "src": 93,
+  "en": "11. The eleventh sūkta, beginning ⟦ಯಜಸ್ವ ಹೋತರಿಷಿತಃ⟧"
+ },
+ {
+  "src": 94,
+  "en": "12. The twelfth sūkta, beginning ⟦ಮಧ್ಯೇ ಹೋತಾ ದುರೋಣೇ⟧"
+ },
+ {
+  "src": 95,
+  "en": "13. The thirteenth sūkta, beginning ⟦ತದ್ವಿಶ್ವಾ ಸುಭಗ ಸೌಭಗಾನಿ⟧"
+ },
+ {
+  "src": 96,
+  "en": "14. The fourteenth sūkta, beginning ⟦ಅಗ್ನಾ ಯೋ ಮರ್ತ್ಯಃ⟧"
+ },
+ {
+  "src": 97,
+  "en": "15. The fifteenth sūkta, beginning ⟦ಇಮಾಮೂ ಷು ವೋ ಅತಿಥಿಂ⟧"
+ },
+ {
+  "src": 98,
+  "en": "Explanation of the meaning of the word ⟦ಅತಿಥಿ⟧, etc."
+ },
+ {
+  "src": 99,
+  "en": "Explanation of the meaning of the words ⟦ಭೃಗವಃ⟧ and ⟦ವೀತಹವ್ಯ⟧, etc."
+ },
+ {
+  "src": 100,
+  "en": "The explanation of the Ṛk beginning ⟦ಅಗ್ನೇ ವಿಶ್ವೇಭಿಃ⟧ as given in the Aitareya-brāhmaṇa in the Agni-praṇayana rite, etc."
+ },
+ {
+  "src": 101,
+  "en": "16. The sixteenth sūkta, beginning ⟦ತ್ವಮಗ್ನೇ ಯಜ್ಞಾನಾಂ⟧"
+ },
+ {
+  "src": 102,
+  "en": "Explanation of the seven Saṃsthās of the Soma sacrifice."
+ },
+ {
+  "src": 103,
+  "en": "The subject of the king Bharata: description of his coronation, as in the Aitareya-brāhmaṇa."
+ },
+ {
+  "src": 104,
+  "en": "The subject of Divodāsa."
+ },
+ {
+  "src": 105,
+  "en": "The reason why Agni got the name Aṅgiras, etc."
+ },
+ {
+  "src": 106,
+  "en": "How the seer Ātharvaṇa churned Agni out of the lotus (puṣkara), etc."
+ },
+ {
+  "src": 107,
+  "en": "The account of the seer Dadhyañc or Dadhīci."
+ },
+ {
+  "src": 108,
+  "en": "Explanation of the meaning of the word ⟦ಬ್ರಹ್ಮಣಸ್ಪತೇ⟧, etc."
+ },
+ {
+  "src": 109,
+  "en": "How Rudra destroyed the Tripura (three cities), as in the Aitareya-brāhmaṇa and the Taittirīya-saṃhitā."
+ },
+ {
+  "src": 110,
+  "en": "Explanation of the sacrificial rite called Agni-mathana (churning of fire), as told in the Aitareya-brāhmaṇa."
+ },
+ {
+  "src": 111,
+  "en": "The Fifth Adhyāya of the Fourth Aṣṭaka is ended."
+ },
+ {
+  "src": 112,
+  "en": "The Sixth Adhyāya."
+ },
+ {
+  "src": 113,
+  "en": "The sūktas of the Sixth Maṇḍala."
+ },
+ {
+  "src": 114,
+  "en": "Introduction to the Sixth Adhyāya."
+ },
+ {
+  "src": 115,
+  "en": "Etymology of the word ⟦ಇಂದ್ರ⟧, according to the explanation of Yāska."
+ },
+ {
+  "src": 116,
+  "en": "17. The seventeenth sūkta, beginning ⟦ಪಿಬಾ ಸೋಮಮಭಿ⟧"
+ },
+ {
+  "src": 117,
+  "en": "Description of Indra's thunderbolt weapon."
+ },
+ {
+  "src": 118,
+  "en": "How Indra ate the flesh of animals."
+ },
+ {
+  "src": 119,
+  "en": "18. The eighteenth sūkta, beginning ⟦ತಮು ಷ್ಟುಹಿ ಯಃ⟧"
+ },
+ {
+  "src": 120,
+  "en": "How the Asura Vala carried off the cows of the gods and hid them: the subject of the Paṇis, etc."
+ },
+ {
+  "src": 121,
+  "en": "The subject of the Asura Śuṣṇa."
+ },
+ {
+  "src": 122,
+  "en": "Śambara."
+ },
+ {
+  "src": 123,
+  "en": "Pipru."
+ },
+ {
+  "src": 124,
+  "en": "Dhuni and Cumuri."
+ },
+ {
+  "src": 125,
+  "en": "The subject of Kutsa and Atithigva."
+ },
+ {
+  "src": 126,
+  "en": "19. The nineteenth sūkta, beginning ⟦ಮಹಾ ಇಂದ್ರೋ ನೃವತ್⟧"
+ },
+ {
+  "src": 127,
+  "en": "Etymology of the word ⟦ಅಮಿನಃ⟧."
+ },
+ {
+  "src": 128,
+  "en": "Etymology, explanation of the meaning, etc., of the word ⟦ದ್ವಿಬರ್ಹಾಃ⟧."
+ },
+ {
+  "src": 129,
+  "en": "The reason why Indra got the name Mahān Indra; on this subject the legend in the Aitareya-brāhmaṇa; the reason why Prajāpati got the name Ka, etc."
+ },
+ {
+  "src": 130,
+  "en": "Etymology, explanation of the meaning, etc., of the word ⟦ಈಕ್ಷೇ⟧."
+ },
+ {
+  "src": 131,
+  "en": "20. The twentieth sūkta, beginning ⟦ದ್ಯೌರ್ನ ಯ ಇಂದ್ರ⟧"
+ },
+ {
+  "src": 132,
+  "en": "Explanation of the meaning of the word ⟦ಋಜೀಷಿನ್⟧."
+ },
+ {
+  "src": 133,
+  "en": "How Indra slew the Asura Śuṣṇa to help Kutsa."
+ },
+ {
+  "src": 134,
+  "en": "The subject of Ṛjiśvan."
+ },
+ {
+  "src": 135,
+  "en": "How Indra defeated the Asuras Vetasu, Tugra, Daśoṇi, Tūtuji and Ibha, etc."
+ },
+ {
+  "src": 136,
+  "en": "The subject of Turvaśa and Yadu."
+ },
+ {
+  "src": 137,
+  "en": "The subject of Dabhīti."
+ },
+ {
+  "src": 138,
+  "en": "21. The twenty-first sūkta, beginning ⟦ಇಮಾ ಉ ತ್ವಾ⟧"
+ },
+ {
+  "src": 139,
+  "en": "Yāska's etymology of the word ⟦ವಯುನ⟧."
+ },
+ {
+  "src": 140,
+  "en": "22. The twenty-second sūkta, beginning ⟦ಯ ಏಕ ಇತ್⟧"
+ },
+ {
+  "src": 141,
+  "en": "Etymology of the word ⟦ನಕ್ಷದ್ದಾಭಂ⟧."
+ },
+ {
+  "src": 142,
+  "en": "Etymology and explanation of the meaning of the word ⟦ಅಸ್ಕೃಧೋಯುಃ⟧."
+ },
+ {
+  "src": 143,
+  "en": "23. The twenty-third sūkta, beginning ⟦ಸುತ ಇತ್ತ್ವಂ ನಿಮಿಶ್ಲಃ⟧"
+ },
+ {
+  "src": 144,
+  "en": "24. The twenty-fourth sūkta, beginning ⟦ವೃಷಾ ಮದ ಇಂದ್ರೇ⟧"
+ },
+ {
+  "src": 145,
+  "en": "Yāska's etymology and explanation of the meaning, etc., of the sentence ⟦ವೃಕ್ಷಸ್ಯ ನು ತೇ ಪುರುಹೂತ ವಯಾಃ⟧."
+ },
+ {
+  "src": 146,
+  "en": "25. The twenty-fifth sūkta, beginning ⟦ಯಾ ತ ಊತಿರವಮಾ⟧"
+ },
+ {
+  "src": 147,
+  "en": "26. The twenty-sixth sūkta, beginning ⟦ಶ್ರುಧೀ ನ ಇಂದ್ರ⟧"
+ },
+ {
+  "src": 148,
+  "en": "27. The twenty-seventh sūkta, beginning ⟦ಕಿಮಸ್ಯ ಮದೇ⟧"
+ },
+ {
+  "src": 149,
+  "en": "The subject of the king Sṛñjaya."
+ },
+ {
+  "src": 150,
+  "en": "28. The twenty-eighth sūkta, beginning ⟦ಆ ಗಾವೋ ಅಗ್ಮನ್⟧"
+ },
+ {
+  "src": 151,
+  "en": "Introduction to the sūkta."
+ },
+ {
+  "src": 152,
+  "en": "The special application (viniyoga) of the Ṛks ⟦ನ ತಾ ನಶಂತಿ⟧ and ⟦ನ ತಾ ಅರ್ವಾ⟧."
+ },
+ {
+  "src": 153,
+  "en": "The index of subjects is ended."
+ }
+]
