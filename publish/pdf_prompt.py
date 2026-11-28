@@ -25,7 +25,7 @@ def asks(n, f):
     if f['family'] == 'A' and n in (9, 10): a.append("`clean9` (`publish/vol67_clean.py`) discards everything before the first Sūkta, preface and contents with it: repair in the shared cleaner (Step 3b.2) and ask if unsure what belongs to the preface.")
     if n in (1, 5): a.append('This volume has an Introduction (Pūrva-pīṭhikā, long Part I): `mark_slots` leaves the `introduction` slot unmarked on purpose. **Ask the user** where the Introduction ends and which part is the body of page 11 before marking it.')
     if f['family'] == 'A' and n not in (1, 2): a.append('Old builder: it prints its own generated contents list and no list of abbreviations; Step 3b.3 (iii) and 3b.4 apply.')
-    if json.loads((ROOT / f'vol{n}' / 'frontmatter_en.json').read_text(encoding='utf8')).get('board') if (ROOT / f'vol{n}' / 'frontmatter_en.json').exists() else False: a.append('Has a board of scholars section (`frontmatter_en.json`): **not printed**, the user moves it into the preface of the original later; just list it in the hand-over.')
+    if json.loads((ROOT / f'vol{n}' / 'frontmatter_en.json').read_text(encoding='utf8')).get('board') if (ROOT / f'vol{n}' / 'frontmatter_en.json').exists() else False: a.append('Has a board of scholars section (`frontmatter_en.json`): **no page of its own**, it will be merged into the thank-you page later; the embedder removes it. Just list it in the hand-over.')
     if f['done']: a.append('Prepared already: only re-build with the embedder, check, and look at pages 1–30.')
     return a
 def make(n):
