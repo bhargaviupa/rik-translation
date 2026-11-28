@@ -344,13 +344,9 @@ def backlinks(doc):
     in data-bm (the plain text of the heading) and the heading's own text is untouched.  Nothing is done in a book without a contents table."""
     t = doc.find('<table class="contents"')
     if t < 0: return doc, 0
-    s = doc.rfind('<section', 0, t)
-    if s >= 0:
-        m = re.match(r'<section\b[^>]*>', doc[s:])
-        if m and ' id="' not in m.group(0): doc = doc[:s] + m.group(0)[:-1] + ' id="contents-top">' + doc[s + len(m.group(0)):]
-        target = 'contents-top' if ' id="' not in m.group(0) else re.search(r' id="([^"]+)"', m.group(0)).group(1)
-    else:
-        doc = doc.replace('<table class="contents"', '<table id="contents-top" class="contents"', 1); target = 'contents-top'
+    # the target is the table itself: the front-page embedder takes the contents out of its <section> and puts it into its own frame, and an id on
+    # that section would be lost; the table survives in both cases
+    doc = doc.replace('<table class="contents"', '<table id="contents-top" class="contents"', 1); target = 'contents-top'
     n = [0]
     def rep(m):
         if 'toplink' in m.group(3) or 'data-bm' in m.group(2): return m.group(0)
