@@ -38,38 +38,38 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 ### 1a. Kannada Text file and PDF content choice, per volume (counted Nov 27 2026 with `grep` on the files and `tools/rv/element_scan.py`; the table of §1 above is of Nov 17 and covers Vols 1–19 only)
 Families of the English file: **A** current `#####` headings (Vols 11, 16–30), **B** bold-line labels (10, 12, 14, 15), **C** four older dialects (1–9). The choice itself: `--without printed_en,grammar` (REQUIREMENTS A6, `docs/PDF_ELEMENTS.md`). `special` and `grammar` only after the `LONG` warnings have been read (D24).
 
-| Vol | Kannada Text file (pages with text) | English file family | PDF content choice (A6): Kannada / English | Note |
-|---|---|---|---|---|
-| 1 | 707 pages | C | yes / no (F51) | older file (scan-based, 13 gap marks) |
-| 2 | 800 pages | C | yes / no (F51) | older file (8 gap marks) |
-| 3 | 646 pages | C | yes / no (F51) | whole, no gaps |
-| 4 | 602 pages | C | yes / no (F51) | 5 pages have no page of their own in the supplied text (187, 227, 304, 326, 534) |
-| 5 | 691 pages | C | yes / no (F51) | 35 gap marks (older file) |
-| 6 | 614 pages | C | yes / no (F51) | older file (4 gap marks) |
-| 7 | — | C | no file / no (F51) | no supplied text: upload `vol7/html/rig_7_1.md`, … |
-| 8 | — | C | no file / no (F51) | no supplied text: upload `vol8/html/rig_8_1.md`, … |
-| 9 | — | C | no file / no (F51) | no supplied text: upload `vol9/html/rig_9_1.md`, … |
-| 10 | — | B | no file / yes (tested on 15; `bhashya` sections long) | no supplied text: upload `vol10/html/rig_10_1.md`, … |
-| 11 | 695 pages | A | yes / yes |  |
-| 12 | 726 pages | B | yes / yes (tested on 15; `bhashya` sections long) |  |
-| 13 | — | — | no file / no English file | file empty; waits for its re-translation and text |
-| 14 | 950 pages | B | yes / yes (tested on 15; `bhashya` sections long) |  |
-| 15 | 800 pages | B | yes / yes (tested on 15; `bhashya` sections long) |  |
-| 16 | 880 pages | A | yes / yes |  |
-| 17 | 1001 pages | A | yes / yes |  |
-| 18 | 846 pages | A | yes / yes |  |
-| 19 | 850 pages | A | yes / yes |  |
-| 20 | 841 pages | A | yes / yes |  |
-| 21 | 833 pages | A | yes / yes |  |
-| 22 | 221 pages | — | yes / no English file | **partial**: 221 of 601 pages; 380 listed in `vol22/review/kn_gaps.md` |
-| 23 | 813 pages | A | yes / yes |  |
-| 24 | 797 pages | A | yes / yes |  |
-| 25 | 873 pages | — | yes / no English file | 5 pages have no page of their own (217, 475, 574, 575, 681); no English file |
-| 26 | 881 pages | A | yes / yes | curated file of the translation (main), not the script one |
-| 27 | 982 pages | A | yes / yes |  |
-| 28 | 671 pages | A | yes / yes | pages 162, 604, 605 are missing from the supplied text (see change log) |
-| 29 | 1024 pages | A | yes / yes |  |
-| 30 | 1279 pages | A | yes / yes |  |
+| Vol | Kannada Text file (pages with text) | English file family | PDF content choice (A6): Kannada / English | Note | Kannada PDF, review copy (Nov 28) |
+|---|---|---|---|---|---|
+| 1 | 707 pages | C | yes / no (F51) | older file (scan-based, 13 gap marks) | 798 pages, check passes |
+| 2 | 800 pages | C | yes / no (F51) | older file (8 gap marks) | 829 pages, check passes |
+| 3 | 646 pages | C | yes / no (F51) | whole, no gaps | 616 pages, check passes |
+| 4 | 602 pages | C | yes / no (F51) | 5 pages have no page of their own in the supplied text (187, 227, 304, 326, 534) | 539 pages, check passes |
+| 5 | 691 pages | C | yes / no (F51) | 35 gap marks (older file) | 739 pages, check passes |
+| 6 | 614 pages | C | yes / no (F51) | older file (4 gap marks) | 540 pages, check passes |
+| 7 | — | C | no file / no (F51) | no supplied text: upload `vol7/html/rig_7_1.md`, … | 506 pages, check passes |
+| 8 | — | C | no file / no (F51) | no supplied text: upload `vol8/html/rig_8_1.md`, … | 711 pages, check passes |
+| 9 | — | C | no file / no (F51) | no supplied text: upload `vol9/html/rig_9_1.md`, … | 525 pages, check passes |
+| 10 | — | B | no file / yes (tested on 15; `bhashya` sections long) | no supplied text: upload `vol10/html/rig_10_1.md`, … | 660 pages, check passes |
+| 11 | 695 pages | A | yes / yes | 689 pages, check passes |
+| 12 | 726 pages | B | yes / yes (tested on 15; `bhashya` sections long) | 689 pages, check passes |
+| 13 | — | — | no file / no English file | file empty; waits for its re-translation and text | 657 pages, check passes |
+| 14 | 950 pages | B | yes / yes (tested on 15; `bhashya` sections long) | 936 pages, check passes |
+| 15 | 800 pages | B | yes / yes (tested on 15; `bhashya` sections long) | 865 pages, check passes |
+| 16 | 880 pages | A | yes / yes | 995 pages, check passes |
+| 17 | 1001 pages | A | yes / yes | 1102 pages, check passes |
+| 18 | 846 pages | A | yes / yes | 953 pages, check passes |
+| 19 | 850 pages | A | yes / yes | 847 pages, check passes |
+| 20 | 841 pages | A | yes / yes | 847 pages, check passes |
+| 21 | 833 pages | A | yes / yes | 892 pages, check passes |
+| 22 | 221 pages | — | yes / no English file | **partial**: 221 of 601 pages; 380 listed in `vol22/review/kn_gaps.md` | 811 pages, check passes |
+| 23 | 813 pages | A | yes / yes | 993 pages, check passes |
+| 24 | 797 pages | A | yes / yes | 950 pages, check passes |
+| 25 | 873 pages | — | yes / no English file | 5 pages have no page of their own (217, 475, 574, 575, 681); no English file | 1073 pages, check passes |
+| 26 | 881 pages | A | yes / yes | curated file of the translation (main), not the script one | 934 pages, check passes |
+| 27 | 982 pages | A | yes / yes | 1118 pages, check passes |
+| 28 | 671 pages | A | yes / yes | pages 162, 604, 605 are missing from the supplied text (see change log) | 782 pages, check passes |
+| 29 | 1024 pages | A | yes / yes | 1031 pages, check passes |
+| 30 | 1279 pages | A | yes / yes | 1492 pages, check passes |
 
 Groups: **A** read from page scans (older layout, many doubt marks, no Kannada book). **B** from the supplied text, older style with remarks in the text. **C** from the supplied text, new style (no remarks, questions listed). **D** to be translated.
 
@@ -174,6 +174,10 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | T19 | Review the `LONG` sections before `special`/`grammar`/`bhashya` are left out of a PDF: Vol 5 Kannada grammar (6,262 lines), Vol 16 grammar (1,817), Vol 28 Kannada bhāṣya (703), Vol 15 bhāṣya (415 Kannada, 266 English). | Vols 5, 15, 16, 28 | [ ] **(agents / you)** |
 | T20 | Reference names in the new Kannada files (Vols 3, 4, 22, 25): `refs_apply.py N --scripts kannada` preview = 762 changes, 683 flagged; a reader looks first. | Vols 3, 4, 22, 25 | [ ] **(agents)** |
 | T21 | Legacy English Vols 1–9 into the layout of family A, so that the choice covers them. | Vols 1–9 | — parked by the user Nov 27 2026 (F51) |
+| T22 | **Kannada review PDFs of all volumes** (`python3 publish/build_all.py N --kan`; 19 new `kannada_only` configs made by `publish/pubcfg_kan.py` from `publish/kan_titles.tsv`). Built Nov 28 2026 for all 30 volumes: page counts in §1a, `publish/BUILD_STATUS.md`; `publish/marks_check.py` finds no lost page mark in any of them except Vol 1 (mark `1`, Vol 1 build path). | all | [x] built; [ ] looked at (D14: only Vol 3 has been looked at page by page) |
+| T23 | **Press and year for the title page of the Kannada books**: only where the volume's colophon gives them (Vols 2, 3, 5, 6, 13, 14, 16). **Missing, not guessed:** Vols 4, 7, 8, 9, 10, 12, 22, 24, 25, 26, 28, 29 (`publish/kan_titles.tsv`, then `rm volN/pubcfg.json; python3 publish/pubcfg_kan.py N`). | 12 volumes | [ ] **(you)** |
+| T24 | **Contents page of the Kannada book for Vols 23, 27, 30** (`contents` in their pubcfg: the start/end words are not in their supplied text, the parser stops); the books are built without it (the build prints a WARNING). Their `supplied_md` pointed at Vol 21's file (corrected). **Not checked:** which of the other volumes' Kannada books carry a contents page (the new configs of Vols 2–10, 12–14, 16, 22, 24–26, 28, 29 have no `contents` setting at all). | Vols 23, 27, 30; the new configs | [ ] **(script / agents)** |
+| T25 | Vol 1 Kannada book: page mark `1` of the md is not in the built PDF (`marks_check.py 1`). | Vol 1 | [ ] **(script)** |
 
 ---
 
@@ -187,6 +191,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 28 2026: **Kannada review PDFs built for all 30 volumes** (T22): 19 new configs (`publish/pubcfg_kan.py`, `kan_titles.tsv`), `build_all.py --kan`, list of cited works taken from the Kannada text when there is no English file, no press/year printed where unknown (T23). Found and fixed: Vol 13's Kannada file had a stale progress note that made the build cut the volume to 5 pages (logged repair; the builder now strips only a closing note line); the configs of Vols 23, 27, 30 pointed at Vol 21's supplied file. Vol 7 came to `main` with its Kannada file (565 pages, made by the second pass). Not yet done: T23, T24, T25, a reading of the PDFs (D14).
 - Nov 27 2026: **Content choice for the PDFs** (REQUIREMENTS A6, D23, D24, F50, F51; `docs/PDF_ELEMENTS.md`): `publish/tools/elements.py`, `--without` / `pubcfg "without"` in `publish/volbook.py`; `tools/rv/element_scan.py` shows which elements each volume's files carry (Kannada files uniform; English families A, B, C). Tried at the HTML stage on Vols 11, 15, 17 (Vol 17: 441 printed-English sections left out of the Kannada and the English PDF, all 1,001 page marks kept). Found and fixed: page marks glued to the line above were lost in the Kannada PDF (T18).
 - Nov 26 2026: **Kannada Text files made for Vols 3, 4, 25 and (partly) 22** by `tools/rv/kn_full.py` (T17) and merged to `main` with the Vol 26 conflict resolved in favour of the curated file; Vols 7, 8, 9, 10, 13 still wait for text.
 - Nov 26 2026: Vol 1: sentences cut at page turns mended (`tools/rv/join_pages.py`: 177 mended, 90 gaps listed for translation); the edition's own English of Sāyaṇa's preface no longer printed beside ours; contents page links the headings inside chapters. Review PDF 1,102 pages. **For you:** does "one English, ours" also remove the edition's printed English under each Ṛk (REQUIREMENTS A4 print rule 8)?
