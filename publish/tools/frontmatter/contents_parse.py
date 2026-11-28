@@ -17,7 +17,7 @@ following one (max 2 lines) and written as an item without page if none follows.
 import argparse, json, re, sys, pathlib
 
 KDIG = '೦-೯'
-ROMAN = re.compile(r'^(?:##\s*)?\*?(?:[ivxlc]{1,6})\*?$', re.I)
+ROMAN = re.compile(r'^(?:##\s*)?\*?(?:[ivxlc]{1,6})\*?[:.;]*$', re.I)       # a roman page signature, with a trailing colon or dot ('## xii:', Vol 14)
 
 def flatten_tables(lines):
     """The converter writes some pages of the contents as HTML tables (Vol 18, the last sūktas): every <tr> becomes ONE text line at the line number of its
@@ -49,6 +49,7 @@ def parse(lines, start_word, end_word, fixes=None):
             blocks.append({'t': 'item', 'text': pend[1], 'page': None, 'src': pend[0]}); pend = None
     for i in range(s + 1, e):
         raw = lines[i].strip()
+        raw = re.sub(r'\s*\{[#.][^}]*\}\s*$', '', raw)          # pandoc attributes ('{.section-title}', Vols 3, 5) are markup, not text
         if not raw or raw == '---' or raw.strip('\\ ') == '' or raw.startswith(':::') or ROMAN.match(raw) or 'This image contains' in raw or raw.startswith('[figure') or raw == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^##\s*', '', raw)
         txt = re.sub(r'\\+$', '', txt).rstrip()          # pandoc's hard line break after the page number ('ಸೂಕ್ತದ ವಿನಿಯೋಗ 1\\'; Vols 3, 5)
