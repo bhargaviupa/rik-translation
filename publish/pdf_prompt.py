@@ -18,12 +18,14 @@ def asks(n, f):
     elif not re.search('final', f['progress']) and f['progress'] != 'closed file':
         a.append(f"The English file's progress note ({f['progress']}) does not say final: read `vol{n}/STATUS.md`; if the volume is not complete, **stop and ask** before building.")
     if not f['pubcfg']: a.append(f"No `vol{n}/pubcfg.json`: write the minimal one (Step 1) from `STATUS.md`/`volcfg.json`; any of range, Aṣṭaka/Adhyāya line, imprint, press, year you cannot find there prints as \"[… to be supplied]\": list them as questions, do not invent.")
+    fe = ROOT / f'vol{n}' / 'frontmatter_en.json'
+    if fe.exists() and json.loads(fe.read_text(encoding='utf8')).get('preface'): f['preface'] = True
     if not f['preface']: a.append('No preface of the original in the English file or in `frontmatter_en.json`: print none (page 8 is skipped), **ask the user** whether it should be translated (give the estimate, Step 3b.2).')
     if not (f['contents'] or f['contents_en_json']): a.append('No contents in English for this volume: **ask the user** (Step 3b.3: no contents page, or a table of Sūktas from the headings; the number of Sūktas is in the report). Do not make one by agents or API.')
     if f['family'] == 'A' and n in (9, 10): a.append("`clean9` (`publish/vol67_clean.py`) discards everything before the first Sūkta, preface and contents with it: repair in the shared cleaner (Step 3b.2) and ask if unsure what belongs to the preface.")
     if n in (1, 5): a.append('This volume has an Introduction (Pūrva-pīṭhikā, long Part I): `mark_slots` leaves the `introduction` slot unmarked on purpose. **Ask the user** where the Introduction ends and which part is the body of page 11 before marking it.')
     if f['family'] == 'A' and n not in (1, 2): a.append('Old builder: it prints its own generated contents list and no list of abbreviations; Step 3b.3 (iii) and 3b.4 apply.')
-    if n in (15, 18, 21): a.append('Has a board of scholars section (`frontmatter_en.json`): **not printed**, the user moves it into the preface of the original later; just list it in the hand-over.')
+    if json.loads((ROOT / f'vol{n}' / 'frontmatter_en.json').read_text(encoding='utf8')).get('board') if (ROOT / f'vol{n}' / 'frontmatter_en.json').exists() else False: a.append('Has a board of scholars section (`frontmatter_en.json`): **not printed**, the user moves it into the preface of the original later; just list it in the hand-over.')
     if f['done']: a.append('Prepared already: only re-build with the embedder, check, and look at pages 1–30.')
     return a
 def make(n):

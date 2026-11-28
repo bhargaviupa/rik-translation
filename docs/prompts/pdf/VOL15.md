@@ -11,7 +11,6 @@ Branch to work on: `claude/vol15-pdf` (create it from `main` if it does not exis
 1 title · 2 imprint · 3 king · 4 guru · 5 present day · 6 thank-you · 7 our preface (placeholder) · 8 preface of the original ("Preface", Pīṭhike in footer) · 9 contents · 10 list of abbreviations · 11 Introduction (Vols 1, 5 only) · text, arabic 1 · closing remarks (off).
 
 ## Where this volume needs a decision or a question to the user (ask; never guess)
-- No preface of the original in the English file or in `frontmatter_en.json`: print none (page 8 is skipped), **ask the user** whether it should be translated (give the estimate, Step 3b.2).
 - Has a board of scholars section (`frontmatter_en.json`): **not printed**, the user moves it into the preface of the original later; just list it in the hand-over.
 
 **Rule for the whole task: if something is amiss, missing or contradicts the order above, stop that step, write the question down with the page or file, and ask the user at the hand-over (or at once if the rest depends on it). Do not decide for the user, do not invent text.**
