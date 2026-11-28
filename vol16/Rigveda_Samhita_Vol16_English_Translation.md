@@ -1,5 +1,262 @@
 # Rigveda Samhita — Volume 16 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+अस्य मंडलस्य द्रष्टा विश्वामित्रऋषिः । (*asya maṃḍalasya draṣṭā viśvāmitraṛṣiḥ |*) Sāyaṇa states in his introduction to the third Maṇḍala that the sage Viśvāmitra is the seer of this Maṇḍala. Although some of the sages of his lineage are also seers of certain hymns, the whole of the third Maṇḍala is on the whole well known as the Viśvāmitra Maṇḍala. There are some interesting discussions on the question whether Viśvāmitra was a king or a sage. The Purāṇic story that Viśvāmitra, who was a king, became a sage is well known. But throughout the Ṛksaṃhitā he is spoken of only as a sage. In the Ṛksaṃhitā Viśvāmitra says of himself only that he is the son of Kuśika.
+
+प्र सिंधुमच्छा बृहती मनीषावस्युरह्वे कुशिकस्य सूनुः । (*pra siṃdhumacchā bṛhatī manīṣāvasyurahve kuśikasya sūnuḥ |*)
+(Ṛ. Saṃ. 3-33-5)
+
+"I, the son of Kuśika, desiring protection, humbly pray to the river Śutudrī that lies before me." The context, which gives still further traditional lore, shows the divine nature of Viśvāmitra.
+
+आ तू न इंद्र कौशिक मंदसानः सुतं पिब । नव्यमायुः प्र सू तिर कृधी सहस्रसामृषिं ॥ (*ā tū na iṃdra kauśika maṃdasānaḥ sutaṃ piba | navyamāyuḥ pra sū tira kṛdhī sahasrasāmṛṣiṃ ‖*)
+(Ṛ. Saṃ. 1-10-11)
+
+"O Indra, son of Kuśika, with a mind filled with joy, drink this our pressed Soma" — thus Indra is prayed to. Does not the status of son of Kuśika belong to Viśvāmitra? How can Indra be a son of Kuśika? This doubt Sāyaṇa resolves with the following sentences:
+
+यद्यपि विश्वामित्रः कुशिकस्य पुत्रस्तथापि तद्रूपेणेंद्रस्यैवोत्पन्नत्वात् कुशिकपुत्रत्वमविरुद्धं । अयं वृत्तांतोऽनुक्रमणिकायामुक्तः । कुशिकस्त्वषीरथिरिंद्रतुल्यं पुत्रमिच्छन् ब्रह्मचर्यं चचार । तस्येंद्र एव गाथीपुत्रो जज्ञॆ इति (*yadyapi viśvāmitraḥ kuśikasya putrastathāpi tadrūpeṇeṃdrasyaivotpannatvāt kuśikaputratvamaviruddhaṃ | ayaṃ vṛttāṃto 'nukramaṇikāyāmuktaḥ | kuśikastvaṣīrathiriṃdratulyaṃ putramicchan brahmacaryaṃ cacāra | tasyeṃdra eva gāthīputro jajñè iti*) (Anu. 3-1) **NOTE**
+
+The great sage Kuśika, wishing to have a son equal to Indra, practised celibacy. Then Indra himself was born as the son of Gāthi. Because this fact is clearly stated in the Anukramaṇikā, although by usage "son of Kuśika" is well known to mean Viśvāmitra, Indra, since he was born in that form, is also designated as son of Kuśika — such is the solution he gives. This explanation shows Viśvāmitra's kṣatriya status. The author of the Nirukta states that Kuśika was a king.
+
+### Printed p. ii
+
+तत्रेतिहासमाचक्षते विश्वामित्रऋषिः सुदासः पैजवनस्य पुरोहितो बभूव । विश्वामित्रः सर्वमित्रः सर्वं संस्कृतं सुदाः कल्याणदानः पैजवनः पिजवनस्य पुत्रः । पिजवनः पुनः स्पर्धनीयजवो वामिश्रीः भावगशिर्वा ॥ स वित्तं गृहीत्वा विपाट्टुतुद्रोः संभेदमायॆयौ । अनुययुरितरे । स विश्वामित्रो नदीस्तुष्टाव गाथा भवत इति । (*tatretihāsamācakṣate viśvāmitraṛṣiḥ sudāsaḥ paijavanasya purohito babhūva | viśvāmitraḥ sarvamitraḥ sarvaṃ saṃskṛtaṃ sudāḥ kalyāṇadānaḥ paijavanaḥ pijavanasya putraḥ | pijavanaḥ punaḥ spardhanīyajavo vāmiśrīḥ bhāvagaśirvā ‖ sa vittaṃ gṛhītvā vipāṭṭutudroḥ saṃbhedamāyèyau | anuyayuritare | sa viśvāmitro nadīstuṣṭāva gāthā bhavata iti |*) (2. 2-24) **NOTE**
+
+Here there is a story in the form of a tradition. Viśvāmitra was the priest of Sudāsa, son of Pijavana. It is said that, having acquired much wealth there and going back to his own place, he reached the confluence of the rivers Vipāṭ and Śutudrī, and prayed that those rivers, which were in full flood, might make it possible for him to cross. Sāyaṇa too has explained the same matter; his explanation is given further on in this same part, in the introduction to the thirty-third hymn (Ṛ. Saṃ. 3-33). But in the Ṛksaṃhitā, that is, in hymn 3-33 which relates this occasion in the form of a narrative, Sudāsa's name does not occur; only Viśvāmitra and the Bharatas are named. Who these Bharatas were, and what relation they had to Sudāsa, will be told in the present context itself. The summary of Ṛ. Saṃ. hymn 3-33 is given in that hymn. Moreover, an introduction to Viśvāmitra is given, somewhat more fully, also in the 53rd hymn of this same Maṇḍala.
+
+इमे भोजा अंगिरसो विरूपा दिवस्पुत्रासो असुरस्य वीराः । विश्वामित्राय ददतो मघानि सहस्रसावे प्र तिरंत आयु: ॥ (*ime bhojā aṃgiraso virūpā divasputrāso asurasya vīrāḥ | viśvāmitrāya dadato maghāni sahasrasāve pra tiraṃta āyu: ‖*)
+(Ṛ. Saṃ. 3-53-7)
+
+"O Indra, these Bhojas, having the Aṅgirasa sages as their priests — that is, the kṣatriyas born of Sudāsa — and the Maruts, have provided abundant wealth to me, Viśvāmitra, at the Aśvamedha performed here."
+
+महा ऋषिर्देवजा देवजूतोऽस्तभ्नात्सिंधुमर्णवं नृचक्षाः । विश्वामित्रो यदवहत्सुदासमप्रियायत कुशिकेभिरिंद्रः ॥ (*mahā ṛṣirdevajā devajūto 'stabhnātsiṃdhumarṇavaṃ nṛcakṣāḥ | viśvāmitro yadavahatsudāsamapriyāyata kuśikebhiriṃdraḥ ‖*)
+(Ṛ. Saṃ. 4-53-9) **NOTE**
+
+The great sage named Viśvāmitra, of exceeding ability, a seer of what lies beyond the senses, a producer of shining lights, a guide to the performers of rites, held back the force of the stream formed by the confluence of the Vipāṭ and the Śutudrī. When this same Viśvāmitra performed the sacrifice for the king named Sudāsa, Indra rejoiced together with the sages born in the Kuśika line.
+
+य इमे रोदसी उभे अहमिंद्रमतुष्टवं । विश्वामित्रस्य रक्षति ब्रह्मदं भारतं जनं ॥ (*ya ime rodasī ubhe ahamiṃdramatuṣṭavaṃ | viśvāmitrasya rakṣati brahmadaṃ bhārataṃ janaṃ ‖*)
+(Ṛ. Saṃ. 3-5-2) **NOTE**
+
+### Printed p. iii
+
+"O sons of Kuśika, I, Viśvāmitra, pray to heaven and earth together with Indra. This prayer made by Viśvāmitra fully protects the people of the Bharata line. I win the favour of such an Indra by this praise" — so it says. The last four mantras of this same hymn are famous from the historical point of view. These four mantras, from the 21st mantra beginning इंद्रोतिभिर्बहुलाभिर्नो अद्य (*iṃdrotibhirbahulābhirno adya*) up to the 24th, इम इंद्र भरतस्य पुत्राः (*ima iṃdra bharatasya putrāḥ*), show the deep-rooted enmity between Viśvāmitra and Vasiṣṭha and his descendants. The substance of these mantras will be explained later, when the relation and the opposition between Vasiṣṭha and Viśvāmitra are described.
+
+In many places the same Viśvāmitra is described as having both brahmic and kṣatriya power. For example:
+
+कुविन्ना गोपां करसे जनस्य कुविद्राजानं मघवन्नृजेषिन् । कुविन्न ऋषिं पपिवांसं सुतस्य कुविन्ने वस्वो अमृतस्य शिक्षाः ॥ (*kuvinnā gopāṃ karase janasya kuvidrājānaṃ maghavannṛjeṣin | kuvinna ṛṣiṃ papivāṃsaṃ sutasya kuvinne vasvo amṛtasya śikṣāḥ ‖*)
+(Ṛ. Saṃ. 3-43-5)
+
+"O Indra, make me the protector of the people. Make me king over all. And, giving me the power of seeing what lies beyond the senses, make me a sage. Grant me too the worthiness to drink Soma" — and so on: both kinds of power are prayed for. (This point is clear in the passage which says that he held the priesthood of Sudāsa.) In the third Maṇḍala Viśvāmitra is the seer of many hymns. His descendants are the seers of the remaining hymns; Viśvāmitra, Ṛṣabha, Utkīla, Kata, Devaśravas, Prajāpati, Vācya and other sages are all known as seers of the third Maṇḍala. All of them belong to the lineage of Viśvāmitra. Just as the name Kuśika is well known for Viśvāmitra, so all these sages too are famed as Kuśikas, and have designated themselves also by that name. In some other places he is also referred to as Viśvāmitras.
+
+विश्वामित्रा आरासत ब्रह्मेंद्राय वज्रिणे । करदिन्नः सुराधसः ॥ (*viśvāmitrā ārāsata brahmeṃdrāya vajriṇe | karadinnaḥ surādhasaḥ ‖*)
+(Ṛ. Saṃ. 3-53-13)
+
+The descendants of Viśvāmitra composed and offered hymns of praise to Indra, the wielder of the thunderbolt. Indra became the giver of food to them.
+
+जन्मन्‌ जन्मन् निहितो जातवेदा विश्वामित्रेभिरिध्यते अजस्रः । (*janman janman nihito jātavedā viśvāmitrebhiridhyate ajasraḥ |*)
+(Ṛ. Saṃ. 3-1-21)
+
+The deathless Jātavedas Agni is kindled continually by the descendants of Viśvāmitra.
+
+उच्चोचिषा सहसस्पुत्र स्तुतो बृहद्वयः शशमानेषु धेहि । रेवदग्ने विश्वामित्रेषु शं योर्ममृज्मा ते तन्नं १ भूरि कृत्वः ॥ (*uccociṣā sahasasputra stuto bṛhadvayaḥ śaśamāneṣu dhehi | revadagne viśvāmitreṣu śaṃ yormamṛjmā te tannaṃ 1 bhūri kṛtvaḥ ‖*)
+(Ṛ. Saṃ. 3-18-4)
+
+### Printed p. iv
+
+"O Agni, son of strength, as soon as you are praised you become a stimulator of the singers with your upward-pointing flame. Grant very abundant wealth and happiness to those born in the line of Viśvāmitra." In many mantras of this kind the plural "Viśvāmitras" designates all the sages born in the Viśvāmitra line.
+
+It has been said above that this same Viśvāmitra is famous as Kuśika. For this very reason the sages born in this line too have designated themselves as Kuśikas.
+
+द्युम्नवद्ब्रह्म कुशिकास एरिर एकएको दमे अग्निं समाधिरे । (*dyumnavadbrahma kuśikāsa erira ekaeko dame agniṃ samādhire |*)
+(Ṛ. Saṃ. 3-29-15)
+
+The Kuśikas have offered praise full of zeal. Having kindled Agni, they worship the kindled Agni in every single house.
+
+इमं कामं मंदया गोभिरश्चंद्रवता राधसा पप्रथश्च । स्वर्यवो मतिभिस्तुभ्यं विप्रा इंद्राय वाहः कुशिकासो अक्रन् ॥ (*imaṃ kāmaṃ maṃdayā gobhiraścaṃdravatā rādhasā paprathaśca | svaryavo matibhistubhyaṃ viprā iṃdrāya vāhaḥ kuśikāso akran ‖*)
+
+"Fulfil this our desire for horses and cows. The Kuśikas, desiring heaven, have made a faithful praise addressed to you."
+
+त्वां सुतस्य पीतये प्रत्नमिंद्र हवामहे । कुशिकासो अवस्यवः ॥ (*tvāṃ sutasya pītaye pratnamiṃdra havāmahe | kuśikāso avasyavaḥ ‖*)
+(3-42-9)
+
+"O Indra, we who are famed as Kuśikas, desiring protection, pray to you and call you to drink the Soma." From mantras of this kind it is understood that Viśvāmitra and the Kuśikas declared themselves to be the most ancient worshippers of Agni. Moreover they declared themselves the best of praisers and sages who are wise and have knowledge of what lies beyond the senses.
+
+Above, after citing the mantra आ तू न इंद्र कौशिक (*ā tū na iṃdra kauśika*) (Ṛ. Saṃ. 1-10-11), it was said that because Indra himself was born in the form of Viśvāmitra, Indra too is addressed as Kuśika. How Kuśika-hood belongs to Viśvāmitra and his descendants is stated in the Rāmāyaṇa as follows.
+
+The lineage of this Viśvāmitra arose directly from Brahmā. From Brahmā the king named Kuśa was born. To him was born Kuśanābha, of great strength and supremely righteous. From him was born Gādhi. The son of that Gādhi is this Viśvāmitra of great radiance — so it says. But it must be examined whether this "son of Gāthi" is also stated in Vedic sentences. In the Sarvānukramaṇī too Gāthi is stated to be the son of Kuśika. But what is the support for this in Vedic sentences, and whether there is a difference between what is said in Purāṇic sentences and what is described in Vedic sentences — this point is worth noting.
+
+V
+
+पुर एत्रा वीरवंतो देवराशन गाथिनाः । सर्वै राध्याः स्थ पुत्रा एष वः सद्विवाचनं । ऐष वः कुशिका वीरो देवरातस्तमन्वित ॥ (*pura etrā vīravaṃto devarāśana gāthināḥ | sarvai rādhyāḥ stha putrā eṣa vaḥ sadvivācanaṃ | aiṣa vaḥ kuśikā vīro devarātastamanvita ‖*)
+(Ai. Brā. 7-18)
+
+In explaining this passage Sāyaṇa says: गाथिन शब्दः विश्वामित्रस्य पितरमाचष्टे । (*gāthina śabdaḥ viśvāmitrasya pitaramācaṣṭe |*) हे गाथिनाः गाथिसौत्राः । (*he gāthināḥ gāthisautrāḥ |*) Gāthi is the father of Viśvāmitra. Because they are grandsons of Gāthi, the sons of Viśvāmitra bear the designation "Gāthinas" — he says, and then explains the meaning of the word "Kuśikas" again: हे कुशिकाः कुशिकनाम्नः मत्पितामहस्य संबंधिनः (*he kuśikāḥ kuśikanāmnaḥ matpitāmahasya saṃbaṃdhinaḥ*) and so on, showing that the two epithets "Gāthinaḥ" and "Kuśikaḥ" designate one and the same person.
+
+Thus the Vedic and Purāṇic sentences all declare in the same manner that Viśvāmitra is the son of Gāthi; that since Indra is the source of Viśvāmitra's birth there is a divine portion in Viśvāmitra; and that in a great sage born of such a divine portion there is nothing surprising in sage-hood and kingship being united together. When the highest qualities of Viśvāmitra are gathered together in the mantra cited above, महा ऋषिदेवजा (*mahā ṛṣidevajā*) (Ṛ. Saṃ. 3-53-9), it is the opinion of some that the epithet देवजाः (*devajāḥ*) shows this divine portion of Viśvāmitra. Among mantras, the seer of the supreme mantra तत्त्ववितुर्वरेण्यं (*tattvaviturvareṇyaṃ*) (Ṛ. Saṃ. 3-62-10) is Viśvāmitra; there is no doubt that although he was a rājanya his divinity and his sage-hood, fit for seeing what lies beyond the senses, were both exceedingly great. The sentences of the Ṛksaṃhitā tell us that this great sage was also a royal priest.
+
+But in this context another problem arises. When describing Viśvāmitra's royal priesthood, the question of what the relation between Viśvāmitra and Vasiṣṭha was in that same context also has to be settled. That Vasiṣṭha was a priest of the very same king whose priest Viśvāmitra was is known from Vedic sentences themselves. Therefore correct answers have to be found to such questions as: were Viśvāmitra and Vasiṣṭha both priests of one king at the same time; were they friends; or did they hold the priesthood in the same king contemporaneously while being rivals of each other?
+
+धेनुं न त्वा सूयवसे दुदुक्षन्नुप ब्रह्माणि सस्यजे वसिष्ठः । श्वामिन्ने गोपतिं विश्व आहान इंद्रः सुमतिं गंत्वच्छ ॥ (*dhenuṃ na tvā sūyavase dudukṣannupa brahmāṇi sasyaje vasiṣṭhaḥ | śvāminne gopatiṃ viśva āhāna iṃdraḥ sumatiṃ gaṃtvaccha ‖*)
+(Ṛ. Saṃ. 7-18-4)
+
+In this the manner in which Vasiṣṭha prayed to Indra is set out. "O Indra, as cows in places rich in good grass desire to yield abundant milk, so Vasiṣṭha offered his praises, desiring to obtain abundant boons from you. May our praises satisfy you." After this prayer,
+
+### Printed p. vi
+
+अर्णांसि चित्पप्रधाना सुदास इंद्रो गाधान्यकृषोत्सुपारा ॥ (*arṇāṃsi citpapradhānā sudāsa iṃdro gādhānyakṛṣotsupārā ‖*)
+(Ṛ. Saṃ. 7-18-5)
+
+When Indra was delighted by Vasiṣṭha's prayer, he became a great benefactor to Sudāsa. Although Sudāsa's enemies, out of hatred, had made the waters of the river Paruṣṇī swell extremely, intending to bring trouble upon Sudāsa, Indra, pleased by Vasiṣṭha's praise, gave Sudāsa the power to cross that river.
+
+द्वे नपुर्देववतः शते गोर्द्वा रथा वधूमंता सुदासः । अर्हन्नग्ने पैजवनस्य दानं होतेव सद्म पर्यॆमि रेभन् ॥ (*dve napurdevavataḥ śate gordvā rathā vadhūmaṃtā sudāsaḥ | arhannagne paijavanasya dānaṃ hoteva sadma paryèmi rebhan ‖*)
+(Ṛ. Saṃ. 7-18-22)
+
+From sentences of this kind it is understood that Sudāsa was the son of Devavanta and the grandson of Pijavana. From the mantras cited above, and also from the explanatory sentences of the author of the Nirukta, it is clearly stated that Viśvāmitra too was the priest of this same Sudāsa. Therefore it is clear that these two sages were priests of one and the same king, Sudāsa. But another point, contrary to this, must also be noted.
+
+दंडा इवेद्गॊ अजनास आसन्परिच्छिन्ना भरता अभकासः । अभवच्च पुरविता वसिष्ठ आदित्तृत्सूनां विशो अप्रथंत ॥ (*daṃḍā ivedgò ajanāsa āsanparicchinnā bharatā abhakāsaḥ | abhavacca puravitā vasiṣṭha ādittṛtsūnāṃ viśo aprathaṃta ‖*)
+(Ṛ. Saṃ. 7-33-6)
+
+In this it is said that because Vasiṣṭha became the priest of the Tṛtsus, they prospered. Moreover it is understood that these Tṛtsus were enemies of the Bharatas. Viśvāmitra was the priest of the Bharatas. Therefore from such evidence it is understood that Vasiṣṭha and Viśvāmitra belonged to opposing parties. So the question is also raised whether it can be said that the two of them could not have held the priesthood of Sudāsa. But it is possible that the two were helpers of that king at different times; that they were together is quite impossible. For in the very section in which Viśvāmitra is described as Sudāsa's priest — विश्वामित्रो यदवहत्सुदासं (*viśvāmitro yadavahatsudāsaṃ*) (Ṛ. Saṃ. 3-53-9) — and that by his help that king performed sacrifice and obtained wealth, the last part of that same hymn contains the mantras that curse Vasiṣṭha and his descendants. Therefore Vasiṣṭha and Viśvāmitra could not both have held that office at the same time. There was extreme enmity between the two. On this a story in the form of a tradition is told.
+
+ससर्परीद्वचे प्राहुरितिहासं पुराविदः । सौदासनृपयज्ञे वै वसिष्ठात्मजशक्तिना ॥ विश्वामित्रस्याभिभूतं बलं वाक्च समंततः । वासिष्ठेनाभिभूतः स ह्यवासीदथ गाधिजः ॥ तस्यॆ ब्राह्मीं तु सौरीं वा नाम्ना वाचं ससर्परीं । (*sasarparīdvace prāhuritihāsaṃ purāvidaḥ | saudāsanṛpayajñe vai vasiṣṭhātmajaśaktinā ‖ viśvāmitrasyābhibhūtaṃ balaṃ vākca samaṃtataḥ | vāsiṣṭhenābhibhūtaḥ sa hyavāsīdatha gādhijaḥ ‖ tasyè brāhmīṃ tu saurīṃ vā nāmnā vācaṃ sasarparīṃ |*)
+
+### Printed p. vii
+
+सूर्यवेश्मन आहृत्य वदुर्वै जमदग्नयः ॥ कुशिकानां मतिः सा नागमतिं तामपानुदत् । (*sūryaveśmana āhṛtya vadurvai jamadagnayaḥ ‖ kuśikānāṃ matiḥ sā nāgamatiṃ tāmapānudat |*)
+(अनुक्रमणिका भाष्यं (*anukramaṇikā bhāṣyaṃ*) 3-53)
+
+Concerning what is described by the mantra ससर्परीः (*sasarparīḥ*) and the mantras following it there is a story in the form of a tradition. It is this: at the time of a sacrifice performed by Sudāsa, Viśvāmitra's speech and his other power were paralysed by Śakti, the son of Vasiṣṭha. Then the son of Gādhi was dejected as a result of that obstruction. Then his companion Jamadagni brought from the abode of Sūtya the speech named Sasarparī, in the form of a woman, daughter of Brahmā (or daughter of Sūtya), and gave her to Viśvāmitra. **NOTE** This speech, full of wisdom, destroyed Viśvāmitra's darkness. Then Viśvāmitra roused the Kuśikas with the mantra उपप्रेत (*upapreta*), and, benefited by the help of that divine speech, offered his gratitude to Jamadagni — and so on. This same incident is told in the Bṛhaddevatā in these words:
+
+सुदासश्च महायज्ञे शक्तिना गाधिसूनवे । निगृहीतं बलाच्छेतः सोऽवसीदद्विचेतनः ॥ (*sudāsaśca mahāyajñe śaktinā gādhisūnave | nigṛhītaṃ balācchetaḥ so 'vasīdadvicetanaḥ ‖*)
+(Bṛ. De. 4-112 to 115) **NOTE**
+
+The substance of these sentences is the same as stated in the sentences above. In this very context it is said that Viśvāmitra recited four mantras as imprecations, called वसिष्ठद्वेषिणी (*vasiṣṭhadveṣiṇī*). The purport of these mantras is as follows:
+
+"O Indra, protect us today with your best protections from our enemies. May the wicked one who hates us fall burning before us. May all those whom we hate meet destruction. (22) **NOTE**
+
+O Indra, as a tree cut by the stroke of an axe falls down, as the śālmali flower falls down without effort, so may our enemy too, by the power of my mantra, fall down burning. (22)
+
+O men, know the mantra-power of Viśvāmitra, which brings about the destruction of the enemy. The wise do not wish to revile the unwise. The difference between Vasiṣṭha and Viśvāmitra is the difference between a donkey and a horse. Therefore Viśvāmitra does not compete with Vasiṣṭha, who is like a donkey. (23)
+
+O Indra, these Viśvāmitras of the Bharata line know well the complete distance between themselves and Vasiṣṭha. They will certainly have no kind of contact with them
+
+### Printed p. viii
+
+at all. They urge on their horses to confront those inveterate enemies. For their destruction these Viśvāmitras hold a powerful bow." (24)
+
+In this way the hatred towards the descendants of Vasiṣṭha is expressed. Regarding the purport of these four mantras Sāyaṇa states his view as follows:
+
+इंद्रोतिभिरित्याद्याश्चतस्रो वसिष्ठद्वेषिण्यः । पुरा खलु विश्वामित्रशिष्यः सुदा नाम राजर्षिरासीत् । स च केनचित्कारणेन वसिष्ठद्वेष्टोऽभूत् । विश्वामित्रस्तु शिष्यस्य रक्षार्थमाभिर्यग्निर्वसिष्ठमशपत् । इमा अभिशापाः । शा ऋचः वसिष्ठा न शृण्वंति ॥ (*iṃdrotibhirityādyāścatasro vasiṣṭhadveṣiṇyaḥ | purā khalu viśvāmitraśiṣyaḥ sudā nāma rājarṣirāsīt | sa ca kenacitkāraṇena vasiṣṭhadveṣṭo 'bhūt | viśvāmitrastu śiṣyasya rakṣārthamābhiryagnirvasiṣṭhamaśapat | imā abhiśāpāḥ | śā ṛcaḥ vasiṣṭhā na śṛṇvaṃti ‖*)
+(Introduction to the 21st mantra)
+
+The four mantras beginning with the mantra इंद्रोतिभिः (*iṃdrotibhiḥ*) are directed against Vasiṣṭha. In former times there was a royal sage named Sudāsa. He was a disciple of Viśvāmitra. But for some other reason he had incurred the hatred of Vasiṣṭha. For the protection of his disciple Viśvāmitra cursed Vasiṣṭha with these four mantras. Because they revile their teachers, neither those born in the line of Vasiṣṭha nor those belonging to the disciple-lineage of Vasiṣṭha recite these four mantras. The authors of the Bṛhaddevatā state the same matter thus:
+
+पराश्चतस्रो यास्त्वत्र वसिष्ठद्वेषिण्यः स्मृताः । विश्वामित्रेण ताः प्रोक्ता अभिशापा इति स्मृताः ॥ द्विषद्वेषास्तु ताः प्रोक्ता विद्याश्चैवाभिचारिकाः । वसिष्ठास्ता न शृण्वंति तदाचार्यकसंमतं ॥ कीर्तनाच्छ्रवणाद्वापि महादोषश्च जायते । शतधा भिद्यते मूर्धा कीर्तितेन श्रुतेन वा ॥ शेषां बालाः प्रमियंते तस्मात्तास्तु न कीर्तयेत् ॥ (*parāścatasro yāstvatra vasiṣṭhadveṣiṇyaḥ smṛtāḥ | viśvāmitreṇa tāḥ proktā abhiśāpā iti smṛtāḥ ‖ dviṣadveṣāstu tāḥ proktā vidyāścaivābhicārikāḥ | vasiṣṭhāstā na śṛṇvaṃti tadācāryakasaṃmataṃ ‖ kīrtanācchravaṇādvāpi mahādoṣaśca jāyate | śatadhā bhidyate mūrdhā kīrtitena śrutena vā ‖ śeṣāṃ bālāḥ pramiyaṃte tasmāttāstu na kīrtayet ‖*)
+(Bṛ. De. 4-117 to 120)
+
+In the third Maṇḍala the four mantras from 21 to 24 of the 52nd hymn are well known as directed against Vasiṣṭha. **NOTE** They were recited by Viśvāmitra. They are also called imprecations. These mantras are recited when hatred towards enemies is shown and also in abhicāra (hostile) rites. The descendants of Vasiṣṭha do not listen to these mantras. The belief that a great sin arises from reciting these mantras, or even from merely hearing them, is a common and universal rule among all those of the Vasiṣṭha tradition. By reciting or hearing them the head of such a person splits into a hundred pieces, and his progeny too is destroyed. Therefore it is stated that no one should recite these mantras.
+
+2] ix
+
+The same matter Durgācārya indicates thus in his commentary on the Nirukta:
+
+यस्मिन्निगमे एष शब्दः सा वसिष्ठद्वेषिणी ऋक् । अहं च कापिस्थलो वासिष्ठः । आतस्तान्न निर्ब्रवीमि ॥ (*yasminnigame eṣa śabdaḥ sā vasiṣṭhadveṣiṇī ṛk | ahaṃ ca kāpisthalo vāsiṣṭhaḥ | ātastānna nirbravīmi ‖*)
+
+"I am Kāpisthala, of the Vasiṣṭha gotra; therefore I do not explain this passage" — thus he resolved.
+
+There is also a context in which it is said that just as Viśvāmitra cursed Vasiṣṭha and his descendants, the Vasiṣṭhas too curse Viśvāmitra and his descendants. For example, in Ṛ. Saṃ. 7-104, from the 13th to the 16th mantra, the Vasiṣṭhas curse the Yātudhānas. When their three sons too were killed by Sudāsa and his followers, Vasiṣṭha in his grief cursed Sudāsa to become a rākṣasa and again cursed him and his followers with these imprecatory mantras, that evil might befall them. In this context some hold that Sudāsa, urged on by Viśvāmitra, was the cause of this grief, and that therefore anger against Viśvāmitra is expressed here. But whether Viśvāmitra is referred to in the context cited (7-104) will be examined when that context comes. In the Bṛhaddevatā it is clearly said that they cursed Sudāsa himself.
+
+पंचदशां तु सूक्तस्य अष्टम्यां चैव वारुणिः । दुःखशोकपरीतात्मा शपते विलपन्निव ॥ हते पुत्रशते तस्मिन् वसिष्ठो दुःखितस्तदा । रक्षोभूतेन शापात्तु सुदासेनेति वै श्रुतिः ॥ (*paṃcadaśāṃ tu sūktasya aṣṭamyāṃ caiva vāruṇiḥ | duḥkhaśokaparītātmā śapate vilapanniva ‖ hate putraśate tasmin vasiṣṭho duḥkhitastadā | rakṣobhūtena śāpāttu sudāseneti vai śrutiḥ ‖*)
+(Bṛ. Ḍe. 6-33-34) **NOTE**
+
+In the eighth and fifteenth mantras of Ṛ. Saṃ. hymn 7-104, Vasiṣṭha, son of Varuṇa, afflicted with grief, utters a curse along with streams of tears. The authors of the Bṛhaddevatā say that the Śruti statement is that when his hundred children were killed by Sudāsa, he showed his reaction in the form of a curse, made Sudāsa become a rākṣasa, and cursed him again.
+
+Such contexts are contrary to the view that Viśvāmitra and Vasiṣṭha together held the priesthood in Sudāsa. But it is also not right to say that Vasiṣṭha and Viśvāmitra were never together. How so?
+
+तस्य ह विश्वामित्रो होता आसीज्जमदग्निरध्वर्युर्वसिष्टो ब्रह्मा अयास्य उद्गाता । (*tasya ha viśvāmitro hotā āsījjamadagniradhvaryurvasiṣṭo brahmā ayāsya udgātā |*)
+(Ai. Brā. 7-16)
+
+This is stated in the section on the legend of Śunaḥśepa. In one and the same sacrifice Viśvāmitra is the hotṛ and Vasiṣṭha the brahman. This shows that Vasiṣṭha and Viśvāmitra were associates at the time of sacrifice.
+
+### Printed p. x
+
+Besides, another example can be examined to show that Vasiṣṭha's favour towards Sudāsa was complete.
+
+"एतमु हैव प्रोवाच वसिष्ठः सुदासे पैजवनाय (*etamu haiva provāca vasiṣṭhaḥ sudāse paijavanāya*)"
+(Ai. Brā. 7-34)
+
+That Vasiṣṭha gave instruction to Sudāsa, son of Pijavana, is also well known. From this evidence both Vasiṣṭha and Viśvāmitra may at first have held the priesthood together in Sudāsa; afterwards ill feeling may have arisen between them. This is not impossible. There is also the situation in which, for some reason in some context, hatred arises and afterwards that hatred is forgotten and mutual respect grows. Vasiṣṭha and Viśvāmitra themselves are witnesses to that. According to the Purāṇic story, at the start Vasiṣṭha and Viśvāmitra were friends; then enmity arose; in the end they began to honour each other. There are many differences between what is described in Vedic sentences and what is described in Purāṇic sentences...
+
+Since all the kinds of qualities mentioned in Vedic sentences are praised in the Rāmāyaṇa in the description of Viśvāmitra, the life of that great sage will here be told briefly as it is stated in the Rāmāyaṇa. In the Bālakāṇḍa of the Rāmāyaṇa the matter of the sage Viśvāmitra is told at great length from the 50th sarga to the 65th sarga. Here only its substance is stated. This section can be divided into three parts.
+
+1. First, the ill feeling and quarrel that arose between Viśvāmitra and Vasiṣṭha, who had been friends with each other.
+
+2. Second, Viśvāmitra showing his power by giving assurance that he would help Triśaṅku and Śunaḥśepa.
+
+3. Third, realising the hollowness of kṣatriya power before brahmic power, he himself too practised great austerity, was called a brahmarṣi by Vasiṣṭha, and from then on earned Vasiṣṭha's respect.
+
+When Viśvāmitra took Rāma and Lakṣmaṇa to the court of Janaka at the time of the svayaṃvara of Sītā, daughter of Janaka, Śatānanda, son of Gautama, showed his gratitude to Rāma, who had redeemed his mother Ahalyā, and then described as follows the glorious life of Viśvāmitra, the teacher who had instructed Rāma in the science of archery.
+
+नास्ति धन्यतरो राम त्वत्तोऽन्यो भुवि कश्चन । गोप्ता कुशिकपुत्रस्ते येन तप्तं महत्तपः ॥ (*nāsti dhanyataro rāma tvatto 'nyo bhuvi kaścana | goptā kuśikaputraste yena taptaṃ mahattapaḥ ‖*)
+(Rāmā. Bāla. Kāṃ. 51-15) **NOTE**
+
+"O Rāma, there is no one on earth more fortunate than you, who have this Viśvāmitra as teacher and protector. I shall tell in order the greatness of this Viśvāmitra; listen. He was first a king.
+
+### Printed p. xi
+
+Knowing all the dharmas and skilled in all the science of weapons, he ruled for many years, pleasing his subjects. He was born in a lineage created directly by Brahmā. From Brahmā came Kuśa, from him Kuśanābha, from him Gādhi. The son of that Gādhi is this Viśvāmitra. Having protected his kingdom righteously for many years, this Viśvāmitra once set out to tour the world with all his armies. Wandering through many lands, he finally reached the hermitage of Vasiṣṭha. That hermitage was most beautiful and everywhere was filled with brahmarṣis and devarṣis. To Viśvāmitra's eyes it seemed like another world of Brahmā.
+
+Viśvāmitra, resplendent with royal glory, came humbly and bowed to Vasiṣṭha. Then Vasiṣṭha inquired after his welfare and honoured him in many ways. After the inquiry about welfare, Vasiṣṭha wished to give Viśvāmitra and his retinue good hospitality. Then Viśvāmitra did not believe that Vasiṣṭha had that power. He said that a reception made of fruits and flowers was enough. After much insistence Viśvāmitra agreed. Then Vasiṣṭha addressed his sacrificial cow (the Kāmadhenu), telling her what he desired. By her power that Śabalā created, for all the armies, foods and delicacies according to each one's wish, and furnished them all with a feast full of delicious food. Then Viśvāmitra, delighted at that, said that he should be given that cow, that it was of greater use to himself than to Vasiṣṭha, and that in exchange he would give Vasiṣṭha thousands of cows. Vasiṣṭha firmly declared that even if crores of cows were given he would not give the Kāmadhenu; that as fame is to men of spirit, so the Kāmadhenu was the everlasting wealth of himself, an ascetic; that she was his very life, and that he could not give her.
+
+However much he was entreated, Vasiṣṭha refused to give that sacrificial cow, so Viśvāmitra, displeased, began to drag Śabalā away by force. Then she cried piteously to Vasiṣṭha. At first Vasiṣṭha did not wish to oppose Viśvāmitra. Because Viśvāmitra was king and Vasiṣṭha his subject, he did not wish to act against him. He said, moreover, that since kṣatriya power is greater than brahmic power, his strength could not stand before the king. Then the Kāmadhenu said: "O great sage, kṣatriya power is not greater than brahmic power. Even so, give me permission. I can defeat Viśvāmitra's army." Then, on Vasiṣṭha's permission, she herself created an army. Those armies of Mlecchas, Yavanas and other tribes confronted Viśvāmitra's force. Then Viśvāmitra performed mighty austerity. By that austerity he propitiated Śiva and caused his kṣatriya power to increase. Then, unable to withstand the blaze of his missiles, all the armies, the sages and all others who were in the hermitage began to run in all directions
+
+### Printed p. xii
+
+and the hermitage itself became empty. Then Vasiṣṭha made a firm resolve and decided, "I shall uproot this son of Gādhi." Then he raised his brahmadaṇḍa, which blazed forth like the smokeless fire of cosmic dissolution, like another rod of Yama. Against this brahmadaṇḍa Viśvāmitra discharged the Āgneya missile. It could not show its power against the brahmadaṇḍa and became fruitless. Afterwards he discharged the Vāruṇa missile, the Raudra missile and powers of many other kinds. Finally he discharged the Brahmāstra too. Vasiṣṭha's brahmadaṇḍa swallowed all these one by one. At once a terrible form came upon Vasiṣṭha. Seeing it, the three worlds were seized with fear. That brahmadaṇḍa was like the rod of Yama to the whole world. Then all the sages who were there, extolling the greatness of Vasiṣṭha, prayed, "O Vasiṣṭha, Viśvāmitra has been subdued. Now be gracious." At once Vasiṣṭha withdrew his radiance into himself. Then Viśvāmitra, distressed within himself,
+
+धिग्बलं क्षत्रियबलं ब्रह्मतेजोबलं बलं । एकेन ब्रह्मदंडेन सर्वास्त्राणि हतानि मे ॥ (*dhigbalaṃ kṣatriyabalaṃ brahmatejobalaṃ balaṃ | ekena brahmadaṃḍena sarvāstrāṇi hatāni me ‖*)
+(Rāmā. Bāla. Kāṃ. 56-26)
+
+"Shame on this kṣatriya power. Brahmic power is the true power. All my divine missiles have been destroyed by a single brahmadaṇḍa of Vasiṣṭha" — so he reproached his own strength. Afterwards, giving up the kṣatriya nature that spoils mind and senses, he practised austerity, the means of gaining brahmic power, and strove to win brāhmaṇa status himself.
+
+Then, with deep-rooted enmity against Vasiṣṭha, he set out to the southern direction and practised terrible austerity there. Then Brahmā appeared and called Viśvāmitra a royal sage (rājarṣi). But he was not satisfied with that. He continued his austerity still further.
+
+Meanwhile a king named Triśaṅku desired to go to heaven in his own body. Vasiṣṭha was the family teacher of that king. When Vasiṣṭha's help was sought, he said it could not be done. Then he asked the help of Vasiṣṭha's hundred sons. They too refused. Then, when he resolved to abandon them and go to someone else, they at once cursed him to become a caṇḍāla. Immediately he became disfigured. All his subjects abandoned him. He was left alone. At that time Viśvāmitra came to know of this. Then he gave him a promise of protection and gave his word that he would send him to heaven in his own body. Then, knowing that the effect of the curse must needs be fulfilled, he said that he would have a sacrifice performed, while he was still in the caṇḍāla form, which would be the means of reaching heaven. Then the sons of Vasiṣṭha, learning of this, reviled it: "Ah, what a sacrifice this is! The priest a kṣatriya, the initiate a caṇḍāla!" When Viśvāmitra learned that they had mocked thus, he cursed them to become eaters of dog's flesh.
+
+### Printed p. xiii
+
+Afterwards all the sages summoned for the sacrifice, fearing Viśvāmitra's power, agreed, though unwilling, to help in conducting that sacrifice. At the time of the sacrifice no gods came to receive the oblation. Then Viśvāmitra stopped the sacrifice and, by the power of his own austerity, made arrangements to send Triśaṅku to heaven. As soon as Triśaṅku ascended to heaven, Indra and the others, saying that one who had become a caṇḍāla had no entry into heaven, gave him no place there. At once he fell from there head downwards and begged Viśvāmitra's protection. Then Viśvāmitra stopped him midway and held him there, and created a constellation there as well. It came to be called Triśaṅku's heaven. This is one aspect of the power of Viśvāmitra's austerity.
+
+The detailed story of how Viśvāmitra protected Śunaḥśepa is given in Ṛ. Saṃ. Part 3, pp. 243-249. But there are many differences between the story described in Vedic sentences and what is described in the Purāṇas and the like. According to the Rāmāyaṇa, at the time of Ambarīṣa's sacrifice Indra stole the sacrificial animal, so a man had to be placed in its stead as substitute for the animal. Then he came to a brāhmaṇa named Ṛcīka and asked that his son be sent. Then the father was unwilling to send the elder son and the mother the younger. Then Śunaḥśepa agreed of his own accord. Viśvāmitra was Śunaḥśepa's maternal uncle. Then, abandoned by his parents, he took refuge in Viśvāmitra from fear of death. Then Viśvāmitra asked one of his own sons to agree to be Śunaḥśepa's substitute. Not one of them agreed. He cursed them all to become caṇḍālas. Then he taught Śunaḥśepa a protective mantra. As a result of reciting those mantras at the time of the slaying of the animal, he was saved. This is another aspect of the power of Viśvāmitra's austerity.
+
+Again, as a result of Viśvāmitra's performing austerity for a thousand years, Brahmā appeared and gave him the name of maharṣi. After the obstacle that occurred in the Menakā episode he again practised severe austerity. While he was in terrible vow, with breath and inhalation stopped, smoke began to issue from his head. Seeing this, the three worlds were seized with fear. The whole world seemed to burn. The sun's radiance too dimmed before his brilliance. Then Brahmā came and called him a brahmarṣi. Not satisfied even with that, he desired to be called a brahmarṣi by Vasiṣṭha himself. Then Vasiṣṭha too, pleased with the power of his austerity, called him a brahmarṣi. This is the great life of Viśvāmitra.
+
+Therefore for Vasiṣṭha and Viśvāmitra there was at first friendship, afterwards hatred, in the end friendship full of respect. So those who were together once may afterwards part and again join. As witness to what kind of respect grew between those same Vasiṣṭha and Viśvāmitra, who had had mutually destructive hatred, there stand the words that Vasiṣṭha spoke about Viśvāmitra when Daśaratha became dejected as Viśvāmitra, in Daśaratha's assembly, asked that Rāma be sent to help him.
+
+### Printed p. xv
+
+— is he not? How then is fatherhood in Divodāsa? In answer to that Sāyaṇa says: दिवोदास इति पिजवनॆ सैव नामांतरं । (*divodāsa iti pijavanè saiva nāmāṃtaraṃ |*) — Pijavana also has another name, Divodāsa. Therefore for Sudāsa the epithet may be either "son of Divodāsa" or "Paijavana".
+
+विश्वामित्रस्य रक्षति ब्रह्मेदं भारतं जनं ॥ (*viśvāmitrasya rakṣati brahmedaṃ bhārataṃ janaṃ ‖*)
+(Ṛ. Saṃ. 3-53-12)
+
+It says that Viśvāmitra's mantra protects all these people of the Bharata line. In the same way, if we examine the mantra made by Vasiṣṭha,
+
+दंडा इवेद्गॊ अजनास आसन्परिच्छिन्ना भरता अर्थकासः । अभवच्च पुरएता वसिष्ठ आदित्तृत्सूनां विशो अप्रथंत ॥ (*daṃḍā ivedgò ajanāsa āsanparicchinnā bharatā arthakāsaḥ | abhavacca puraetā vasiṣṭha ādittṛtsūnāṃ viśo aprathaṃta ‖*)
+(Ṛ. Saṃ. 7-33-6)
+
+here the two names Tṛtsu and Bharata are both specified. The purport of this mantra is that the Bharatas, confronted by enemies, were few in number and weak. As soon as Vasiṣṭha took up the priesthood of the Tṛtsus, they grew with progeny and strong. If the doubt arises whether the Bharatas are one thing and the descendants of the Tṛtsus another, in answer to that Sāyaṇa has clearly stated तृत्सूनामेव राज्ञां भरता इति नामांतरेणोपादानं (*tṛtsūnāmeva rājñāṃ bharatā iti nāmāṃtareṇopādānaṃ*) — that the Tṛtsus themselves have another name, Bharatas.
+
+To publish such a Ṛgveda Saṃhitā — most ancient, most profound, most extensive, the root of all the śāstras — in simple Kannada with a critical translation is not an easy task. Even so, with the lofty purpose that by such a great work all people, scholars and laymen alike, may gain increase of knowledge and become worthy of God's grace, His Highness Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., lord of the throne of Karnataka, lover of the Vedic sciences, himself a scholar, beloved of his subjects, devoted to God, and his Government, are encouraging the publication of this work, which requires great expense, with their generous patronage; this must be called the good fortune of the multitude of the people of Karnataka. I pray that the Lord of all, the Veda-Puruṣa, may bestow still more abundantly on our generous-minded Sovereign, on his family, on the princesses, on the prince bearing the auspicious name Śrīkaṇṭhadatta Narasimharaja Wodeyar, and on the whole body of subjects, all wealth such as long life, health and prosperity, the fruits of this world, and spiritual knowledge, the highest goal.
+
+Mysore,
+Vijaya year, Caitra Śukla Paurṇamāsī, Monday,
+Dated 30-3-1953.
+
+Translator,
+H. P. Venkatarao,
+Āsthāna Mahāvidvān.
+
 ### Printed p. 2
 
 पिजवनः पुनः स्पर्धनीयजवो वामिश्रीभावगतिर्वा ॥ स वित्तं गृहीत्वा विपाट् छुतुद्रोः संभेदमाययौ । अनुययुरितरे । स विश्वामित्रो नदीस्तुष्टाप-गाधा भवत-इति । आपि द्विवदपि बहुवत् तद्यद्द्वदुपरिष्टात्त- द्व्याख्यास्यामः ॥ (*pijavanaḥ punaḥ spardhanīyajavo vāmiśrībhāvagatirvā ‖ sa vittaṃ gṛhītvā vipāṭ chutudroḥ saṃbhedamāyayau | anuyayuritare | sa viśvāmitro nadīstuṣṭāpa-gādhā bhavata-iti | āpi dvivadapi bahuvat tadyaddvadupariṣṭātta- dvyākhyāsyāmaḥ ‖*)

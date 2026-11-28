@@ -45,3 +45,4 @@ kn.md: lines 62-67 (Sutra-22 introduction of Sayana, prose in the supplied text)
 - 2026-11-19: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en latin 2; every change is a row of review/refs_applied.tsv.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: en latin 1, kn kannada 5; every change is a row of review/refs_applied.tsv.
 - 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en kannada 1, kn kannada 1; every change is a row of review/refs_applied.tsv.
+- front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 10 NOTE rows added at the top of review/notes.tsv.

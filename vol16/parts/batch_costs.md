@@ -273,3 +273,4 @@ pp.872-876 | sonnet | n/a | n/a | n/a | 14 hyphen joins; 4 garbled Samhitha/Pada
 pp.877-879 | sonnet | n/a | n/a | n/a | 11 hyphen joins; stray 111
 pp.880-882 | sonnet | n/a | n/a | n/a | 7 hyphen joins; garbled Samhita+Pada labels Rk8
 pp.883-884 | sonnet | n/a | n/a | n/a | volume end: colophon, closing lines; progress note set to (final) by dispatcher
+| preface (front matter, source lines 106-728) | claude-sonnet-5-5 direct | 1 request | in 53658, out 27799 | $0.385 |
